@@ -1,0 +1,7 @@
+- [x] Finalize Part 5 Rubrical Audit (Images 218-247)
+- [x] Stabilize `Final_Dolnytsky_part5_temple.txt`
+- [x] Perform 1-to-1 visual verification of Menologion section (June-August)
+- [x] Perform 1-to-1 visual verification of Appendix (Tables I-III, Discrepancies)
+- [x] Capture non-textual structural remediations in `final_remediation_list.md`
+- [x] Finalize `visual_audit_log.md` for Part 5
+- [ ] Prepare for Part 6 (Ordo Celebrationis Appendix) Audit starting at Image 248

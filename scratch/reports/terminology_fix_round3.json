@@ -1,0 +1,27 @@
+{
+  "Final_Dolnytsky_part1_structure.txt": {
+    "Church Eye -> Eye of the Church": 3,
+    "Trephologion -> Anthologion": 1,
+    "krylos -> kliros": 2,
+    "kryloi -> kliroi": 1
+  },
+  "Final_Dolnytsky_part2_general_rubrics.txt": {
+    "Tserkovne Oko -> Eye of the Church": 27
+  },
+  "Final_Dolnytsky_part3_menaion.txt": {
+    "Tserkovne Oko -> Eye of the Church": 54
+  },
+  "Final_Dolnytsky_part4_triodion.txt": {
+    "Tserkovne Oko -> Eye of the Church": 78,
+    "Pochayiv -> Pochaiv": 46
+  },
+  "Final_Dolnytsky_part5_temple.txt": {
+    "Trephologion -> Anthologion": 8
+  },
+  "Final_footnotes.txt": {
+    "Church Eye -> Eye of the Church": 3,
+    "Tserkovne Oko -> Eye of the Church": 165,
+    "Pochayiv -> Pochaiv": 41,
+    "Trephologion -> Anthologion": 9
+  }
+}

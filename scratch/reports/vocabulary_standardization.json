@@ -1,0 +1,38 @@
+{
+  "STITCHED_v3_dolnytsky_part1_structure.txt": {
+    "\\b[Ll]eavetaking\\b → Apodosis": 3,
+    "\\bProkeimenon\\b → Prokimenon": 13,
+    "deity_pronoun_caps": 33
+  },
+  "STITCHED_v3_dolnytsky_part2_general_rubrics.txt": {
+    "\\b[Ll]eavetaking\\b → Apodosis": 20,
+    "\\bProkeimenon\\b → Prokimenon": 37,
+    "\\bProkeimena\\b → Prokimena": 3,
+    "\\bIrmos\\b → Heirmos": 54,
+    "\\bIrmoi\\b → Heirmoi": 5,
+    "deity_pronoun_caps": 12
+  },
+  "STITCHED_v3_dolnytsky_part3_menaion.txt": {
+    "\\bProkeimenon\\b → Prokimenon": 123,
+    "\\bProkeimena\\b → Prokimena": 10,
+    "\\bIrmos\\b → Heirmos": 12,
+    "\\bIrmoi\\b → Heirmoi": 1,
+    "deity_pronoun_caps": 25
+  },
+  "STITCHED_v3_dolnytsky_part4_triodion.txt": {
+    "\\b[Ll]eavetaking\\b → Apodosis": 17,
+    "\\bProkeimenon\\b → Prokimenon": 51,
+    "\\bProkeimena\\b → Prokimena": 7,
+    "\\bEpitaphios\\b → Shroud [Epitaphios]": 1,
+    "deity_pronoun_caps": 27
+  },
+  "STITCHED_v3_dolnytsky_part5_temple.txt": {
+    "\\b[Ll]eave-[Tt]aking\\b → Apodosis": 6,
+    "\\bLity\\b → Litiya": 1,
+    "deity_pronoun_caps": 1
+  },
+  "STITCHED_v3_dolnytsky_appendix.txt": {
+    "\\bEpitaphios\\b → Shroud [Epitaphios]": 1,
+    "deity_pronoun_caps": 110
+  }
+}

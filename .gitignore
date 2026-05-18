@@ -1,0 +1,18 @@
+# Ignore large raw files, PDFs, and images
+Typyk UHKC pdf jpgs/
+Ukrainian PDFs/
+English OC 1996/
+English Broken/
+Resources/
+Ukrainian TXTs/
+
+# System and temporary files
+.system_generated/
+.tempmediaStorage/
+__pycache__/
+*.pyc
+
+# Local backup and scratch temp files
+scratch/CLEANED_RAW_*
+scratch/STITCHED_*
+scratch/temp_*

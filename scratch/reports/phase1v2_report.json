@@ -1,0 +1,706 @@
+{
+  "dolnytsky_part1_structure.txt": {
+    "markers_extracted": 42,
+    "placed": 41,
+    "already_present": 1,
+    "failed": 0,
+    "failed_details": []
+  },
+  "dolnytsky_part2_general_rubrics.txt": {
+    "markers_extracted": 195,
+    "placed": 189,
+    "already_present": 0,
+    "failed": 6,
+    "failed_details": [
+      {
+        "number": 60,
+        "snippets": {
+          "2": "his theotokion",
+          "3": "now:** his theotokion",
+          "4": "**Both now:** his theotokion"
+        },
+        "context_before": "kion, **Glory:** of the second, **Both now:** his theotokion",
+        "context_after": ". After the 6th Ode – Kontakion and Ikos",
+        "file": "dolnytsky_part2_general_rubrics.txt"
+      },
+      {
+        "number": 82,
+        "snippets": {
+          "2": "his Theotokion",
+          "3": "now:** his Theotokion",
+          "4": "**Both now:** his Theotokion"
+        },
+        "context_before": "ional Hymn of the second saint, **Both now:** his Theotokion",
+        "context_after": ". After the 6th Ode – Kontakion-Ikos of ",
+        "file": "dolnytsky_part2_general_rubrics.txt"
+      },
+      {
+        "number": 83,
+        "snippets": {
+          "2": "his Theotokion",
+          "3": "now:** his Theotokion",
+          "4": "**Both now:** his Theotokion"
+        },
+        "context_before": "* of the second, if he has one, **Both now:** his Theotokion",
+        "context_after": ".",
+        "file": "dolnytsky_part2_general_rubrics.txt"
+      },
+      {
+        "number": 122,
+        "snippets": {
+          "2": "his Theotokion",
+          "3": "now:** his Theotokion",
+          "4": "**Both now:** his Theotokion"
+        },
+        "context_before": "rd Sessional Hymn of the saint, **Both now:** his Theotokion",
+        "context_after": ". (Mark in chapter 65 prescribes 1st The",
+        "file": "dolnytsky_part2_general_rubrics.txt"
+      },
+      {
+        "number": 131,
+        "snippets": {
+          "2": "or 8",
+          "3": "stichera^[130] or 8",
+          "4": "6 stichera^[130] or 8"
+        },
+        "context_before": "2.  On **“Lord, I have cried”** – 6 stichera^[130] or 8",
+        "context_after": ", all to the saint. **Glory:** to the sa",
+        "file": "dolnytsky_part2_general_rubrics.txt"
+      },
+      {
+        "number": 147,
+        "snippets": {
+          "2": "its Theotokion",
+          "3": "now:** its Theotokion",
+          "4": "**Both now:** its Theotokion"
+        },
+        "context_before": "ch is called the Polyeleos one, **Both now:** its Theotokion",
+        "context_after": ".",
+        "file": "dolnytsky_part2_general_rubrics.txt"
+      }
+    ]
+  },
+  "dolnytsky_part3_menaion.txt": {
+    "markers_extracted": 187,
+    "placed": 182,
+    "already_present": 0,
+    "failed": 5,
+    "failed_details": [
+      {
+        "number": 339,
+        "snippets": {
+          "2": "of 1777",
+          "3": "Trefologion of 1777",
+          "4": "Pochaiv Trefologion of 1777"
+        },
+        "context_before": "cause it is already given in the Pochaiv Trefologion of 1777",
+        "context_after": ". We will present the rule first for wee",
+        "file": "dolnytsky_part3_menaion.txt"
+      },
+      {
+        "number": 346,
+        "snippets": {
+          "2": "4, a.c.)",
+          "3": "part 4, a.c.)",
+          "4": "XII, part 4, a.c.)"
+        },
+        "context_before": "eal, as even the Lviv Synod allows (Title XII, part 4, a.c.)",
+        "context_after": ".",
+        "file": "dolnytsky_part3_menaion.txt"
+      },
+      {
+        "number": 381,
+        "snippets": {
+          "2": "3. Entrance"
+        },
+        "context_before": "3. Entrance",
+        "context_after": ", Prokeimenon of the day from the Horolo",
+        "file": "dolnytsky_part3_menaion.txt"
+      },
+      {
+        "number": 410,
+        "snippets": {
+          "2": "Without canon"
+        },
+        "context_before": "Without canon",
+        "context_after": "and without prostrations. After \"It is t",
+        "file": "dolnytsky_part3_menaion.txt"
+      },
+      {
+        "number": 420,
+        "snippets": {
+          "2": "Without canon"
+        },
+        "context_before": "Without canon",
+        "context_after": "and without prostrations. After \"It is t",
+        "file": "dolnytsky_part3_menaion.txt"
+      }
+    ]
+  },
+  "dolnytsky_part4_triodion.txt": {
+    "markers_extracted": 197,
+    "placed": 194,
+    "already_present": 0,
+    "failed": 3,
+    "failed_details": [
+      {
+        "number": 542,
+        "snippets": {
+          "2": "**Of Orthodoxy**"
+        },
+        "context_before": "**Of Orthodoxy**",
+        "context_after": "",
+        "file": "dolnytsky_part4_triodion.txt"
+      },
+      {
+        "number": 562,
+        "snippets": {
+          "2": "**FLOWER SUNDAY**"
+        },
+        "context_before": "**FLOWER SUNDAY**",
+        "context_after": "",
+        "file": "dolnytsky_part4_triodion.txt"
+      },
+      {
+        "number": 576,
+        "snippets": {
+          "2": "**GREAT THURSDAY**"
+        },
+        "context_before": "**GREAT THURSDAY**",
+        "context_after": "",
+        "file": "dolnytsky_part4_triodion.txt"
+      }
+    ]
+  },
+  "dolnytsky_part5_temple.txt": {
+    "markers_extracted": 123,
+    "placed": 74,
+    "already_present": 0,
+    "failed": 49,
+    "failed_details": [
+      {
+        "number": 665,
+        "snippets": {
+          "2": "GENERAL RUBRICS",
+          "3": "**1. GENERAL RUBRICS"
+        },
+        "context_before": "**1. GENERAL RUBRICS",
+        "context_after": "**",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 699,
+        "snippets": {
+          "2": "without Troparion",
+          "3": "4 without Troparion",
+          "4": "on 4 without Troparion"
+        },
+        "context_before": "Feast on 4 without Troparion",
+        "context_after": "",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 702,
+        "snippets": {
+          "2": "at Compline)",
+          "3": "sing at Compline)",
+          "4": "(we sing at Compline)"
+        },
+        "context_before": "Prophet Jonah and Ven. Jonah (we sing at Compline)",
+        "context_after": ".",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 703,
+        "snippets": {
+          "2": "Ven. Chariton",
+          "3": "`+` Ven. Chariton",
+          "4": "28 `+` Ven. Chariton"
+        },
+        "context_before": "28 `+` Ven. Chariton",
+        "context_after": ".",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 704,
+        "snippets": {
+          "2": "Ap. Thomas",
+          "3": "`+` Ap. Thomas",
+          "4": "6 `+` Ap. Thomas"
+        },
+        "context_before": "6 `+` Ap. Thomas",
+        "context_after": ".",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 705,
+        "snippets": {
+          "2": "Ven. Paraskeva"
+        },
+        "context_before": "Ven. Paraskeva",
+        "context_after": "",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 707,
+        "snippets": {
+          "2": "Martyr Paraskeva"
+        },
+        "context_before": "Martyr Paraskeva",
+        "context_after": "",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 712,
+        "snippets": {
+          "2": "`Тр` Barlaam"
+        },
+        "context_before": "`Тр` Barlaam",
+        "context_after": ".",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 714,
+        "snippets": {
+          "2": "Ven. Alypius",
+          "3": "26 Ven. Alypius"
+        },
+        "context_before": "26 Ven. Alypius",
+        "context_after": ".",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 715,
+        "snippets": {
+          "2": "(at Compline)",
+          "3": "Acacius (at Compline)",
+          "4": "Ven. Acacius (at Compline)"
+        },
+        "context_before": "Ven. Acacius (at Compline)",
+        "context_after": ".",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 716,
+        "snippets": {
+          "2": "Prophet Nahum",
+          "3": "`Тр` Prophet Nahum",
+          "4": "1 `Тр` Prophet Nahum"
+        },
+        "context_before": "1 `Тр` Prophet Nahum",
+        "context_after": ".",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 717,
+        "snippets": {
+          "2": "Prophet Habakkuk",
+          "3": "`Тр` Prophet Habakkuk",
+          "4": "2 `Тр` Prophet Habakkuk"
+        },
+        "context_before": "2 `Тр` Prophet Habakkuk",
+        "context_after": ".",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 718,
+        "snippets": {
+          "2": "Prophet Zephaniah",
+          "3": "3 Prophet Zephaniah"
+        },
+        "context_before": "3 Prophet Zephaniah",
+        "context_after": ".",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 720,
+        "snippets": {
+          "2": "our Father",
+          "3": "Ambrose our Father",
+          "4": "St. Ambrose our Father"
+        },
+        "context_before": "7 `Тр` St. Ambrose our Father",
+        "context_after": ".",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 721,
+        "snippets": {
+          "2": "Ven. Patapius",
+          "3": "`Тр` Ven. Patapius",
+          "4": "8 `Тр` Ven. Patapius"
+        },
+        "context_before": "8 `Тр` Ven. Patapius",
+        "context_after": ".",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 725,
+        "snippets": {
+          "2": "his companions",
+          "3": "and his companions",
+          "4": "Sebastian and his companions"
+        },
+        "context_before": "18 `Тр` Martyr Sebastian and his companions",
+        "context_after": ".",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 726,
+        "snippets": {
+          "2": "Martyr Boniface",
+          "3": "`Тр` Martyr Boniface",
+          "4": "19 `Тр` Martyr Boniface"
+        },
+        "context_before": "19 `Тр` Martyr Boniface",
+        "context_after": ".",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 727,
+        "snippets": {
+          "2": "Theophany inclusive",
+          "3": "until Theophany inclusive",
+          "4": "– until Theophany inclusive"
+        },
+        "context_before": "Fast-free period – until Theophany inclusive",
+        "context_after": ".",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 728,
+        "snippets": {
+          "2": "the Branded",
+          "3": "Theodore the Branded",
+          "4": "Ven. Theodore the Branded"
+        },
+        "context_before": "`Тр` Ven. Theodore the Branded",
+        "context_after": ".",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 729,
+        "snippets": {
+          "2": "Hieromartyr Artemon",
+          "3": "13 Hieromartyr Artemon"
+        },
+        "context_before": "13 Hieromartyr Artemon",
+        "context_after": ".",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 730,
+        "snippets": {
+          "2": "of Perga",
+          "3": "Theodore of Perga",
+          "4": "Hieromartyr Theodore of Perga"
+        },
+        "context_before": "Hieromartyr Theodore of Perga",
+        "context_after": ".",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 734,
+        "snippets": {
+          "2": "Martyr Hermias",
+          "3": "`Тр` Martyr Hermias",
+          "4": "31 `Тр` Martyr Hermias"
+        },
+        "context_before": "31 `Тр` Martyr Hermias",
+        "context_after": ".",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 745,
+        "snippets": {
+          "2": "OF SABBAS**",
+          "3": "TYPIKON OF SABBAS**",
+          "4": "THE TYPIKON OF SABBAS**"
+        },
+        "context_before": "**ACCORDING TO THE TYPIKON OF SABBAS**",
+        "context_after": "",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 753,
+        "snippets": {},
+        "context_before": "**Liturgy**",
+        "context_after": "",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 755,
+        "snippets": {
+          "2": "the celebrant",
+          "3": "of the celebrant",
+          "4": "communion of the celebrant"
+        },
+        "context_before": "oors remain open, even during the communion of the celebrant",
+        "context_after": ".",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 756,
+        "snippets": {
+          "2": "(Lamp-lighting) Prayers",
+          "3": "Vespers (Lamp-lighting) Prayers",
+          "4": "the Vespers (Lamp-lighting) Prayers"
+        },
+        "context_before": "ly doors recites quietly the Vespers (Lamp-lighting) Prayers",
+        "context_after": ".",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 757,
+        "snippets": {
+          "2": "the sanctuary",
+          "3": "into the sanctuary",
+          "4": "returns into the sanctuary"
+        },
+        "context_before": "dominion,\" makes a small bow and returns into the sanctuary",
+        "context_after": ".",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 759,
+        "snippets": {
+          "2": "Gospel up",
+          "3": "the Gospel up",
+          "4": "lifts the Gospel up"
+        },
+        "context_before": "the sign of the cross with the censer or lifts the Gospel up",
+        "context_after": ", if he has it, and exclaims: \"Wisdom, a",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 760,
+        "snippets": {
+          "2": "the dismissal",
+          "3": "says the dismissal",
+          "4": "doors, says the dismissal"
+        },
+        "context_before": "he people and standing in the holy doors, says the dismissal",
+        "context_after": ".",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 761,
+        "snippets": {
+          "2": "be attentive\"",
+          "3": "us be attentive\"",
+          "4": "\"Let us be attentive\""
+        },
+        "context_before": "of the title, likewise to the people: \"Let us be attentive\"",
+        "context_after": ".",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 762,
+        "snippets": {
+          "2": "goes out",
+          "3": "priest goes out",
+          "4": "the priest goes out"
+        },
+        "context_before": "sts a custom and the holy doors be open, the priest goes out",
+        "context_after": "through the holy, and the deacon – throu",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 763,
+        "snippets": {
+          "2": "and oil",
+          "3": "wine and oil",
+          "4": "wheat, wine and oil"
+        },
+        "context_before": "oints with his right hand to the loaves, wheat, wine and oil",
+        "context_after": ".",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 764,
+        "snippets": {
+          "2": "begins thus",
+          "3": "Matins begins thus",
+          "4": "then Matins begins thus"
+        },
+        "context_before": "* If before this there was no Vigil, then Matins begins thus",
+        "context_after": ":",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 765,
+        "snippets": {
+          "2": "priest exclaims",
+          "3": "The priest exclaims"
+        },
+        "context_before": "The priest exclaims",
+        "context_after": ": \"Glory to the Holy, Consubstantial.\" C",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 766,
+        "snippets": {
+          "2": "Six Psalms",
+          "3": "the Six Psalms",
+          "4": "of the Six Psalms"
+        },
+        "context_before": "**76.** During the reading of the Six Psalms",
+        "context_after": "the priest, standing before the holy tab",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 767,
+        "snippets": {
+          "2": "of Matins**",
+          "3": "**Shortening of Matins**"
+        },
+        "context_before": "**Shortening of Matins**",
+        "context_after": "",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 768,
+        "snippets": {
+          "2": "falls off",
+          "3": "none falls off",
+          "4": "that none falls off"
+        },
+        "context_before": "y bread, so that they be together and so that none falls off",
+        "context_after": ".",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 771,
+        "snippets": {
+          "2": "the priest",
+          "3": "to the priest",
+          "4": "Gospel to the priest"
+        },
+        "context_before": "ry holy doors and gives the rolled Holy Gospel to the priest",
+        "context_after": ", who kisses it and places it in the mid",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 772,
+        "snippets": {
+          "2": "northern doors",
+          "3": "the northern doors",
+          "4": "through the northern doors"
+        },
+        "context_before": "\"Wisdom\" and enters the sanctuary through the northern doors",
+        "context_after": ".",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 773,
+        "snippets": {
+          "2": "the priest",
+          "3": "censes the priest",
+          "4": "he censes the priest"
+        },
+        "context_before": "the southern doors into the sanctuary, he censes the priest",
+        "context_after": ". The priest, having lifted his hands up",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 774,
+        "snippets": {
+          "2": "deacon's head",
+          "3": "the deacon's head",
+          "4": "on the deacon's head"
+        },
+        "context_before": "places it with attentiveness and piety on the deacon's head",
+        "context_after": ", and the deacon, holding the end of the",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 776,
+        "snippets": {
+          "2": "the deacon",
+          "3": "from the deacon",
+          "4": "takes from the deacon"
+        },
+        "context_before": "he holy chalice on the throne; he also takes from the deacon",
+        "context_after": "the holy diskos and places it on the thr",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 777,
+        "snippets": {
+          "2": "became man\"",
+          "3": "\"and became man\"",
+          "4": "words \"and became man\""
+        },
+        "context_before": "e in one God\" and does not bow at the words \"and became man\"",
+        "context_after": "; having kissed the *aer*, he places it ",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 778,
+        "snippets": {
+          "2": "a distance",
+          "3": "at a distance",
+          "4": "slightly at a distance"
+        },
+        "context_before": "he vessel with the warm water, stands slightly at a distance",
+        "context_after": ".",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 779,
+        "snippets": {
+          "2": "antimension [*iliton*]",
+          "3": "folded antimension [*iliton*]",
+          "4": "the folded antimension [*iliton*]"
+        },
+        "context_before": "the sign of the cross over the folded antimension [*iliton*]",
+        "context_after": ", places it on the antimension [*iliton*",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 780,
+        "snippets": {
+          "2": "the Ambo",
+          "3": "behind the Ambo",
+          "4": "Prayer behind the Ambo"
+        },
+        "context_before": "hoirs (see no. 184), reads loudly the Prayer behind the Ambo",
+        "context_after": "\"O Lord, who blessest those who bless Th",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 783,
+        "snippets": {
+          "2": "go out",
+          "3": "all go out",
+          "4": "Entrance all go out"
+        },
+        "context_before": "**194.** For the Little Entrance all go out",
+        "context_after": ", having lowered their hands under the l",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 784,
+        "snippets": {
+          "2": "go out",
+          "3": "All go out",
+          "4": "chests. All go out"
+        },
+        "context_before": "e spear, the spoon, holding them on their chests. All go out",
+        "context_after": "through the northern doors, in front – t",
+        "file": "dolnytsky_part5_temple.txt"
+      },
+      {
+        "number": 785,
+        "snippets": {
+          "2": "place thus",
+          "3": "takes place thus",
+          "4": "oblation takes place thus"
+        },
+        "context_before": "able, the transfer to the table of oblation takes place thus",
+        "context_after": ": the deacon brings to the holy table th",
+        "file": "dolnytsky_part5_temple.txt"
+      }
+    ]
+  }
+}

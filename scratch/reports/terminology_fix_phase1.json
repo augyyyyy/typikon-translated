@@ -1,0 +1,35 @@
+{
+  "Final_Dolnytsky_intro.txt": {
+    "LEAVETAKING -> APODOSIS": 2
+  },
+  "Final_Dolnytsky_part1_structure.txt": {
+    "Leavetaking -> Apodosis": 2,
+    "Irmologion -> Heirmologion": 2,
+    "Irmos -> Heirmos": 1,
+    "Katavasiae -> Katavasias": 1
+  },
+  "Final_Dolnytsky_part2_general_rubrics.txt": {
+    "Leavetaking -> Apodosis": 11,
+    "LEAVETAKING -> APODOSIS": 2,
+    "Prokeimenon -> Prokimenon": 5,
+    "Prokeimena -> Prokimena": 1,
+    "Irmologion -> Heirmologion": 3,
+    "Irmos -> Heirmos": 5
+  },
+  "Final_Dolnytsky_part3_menaion.txt": {
+    "Prokeimenon -> Prokimenon": 19,
+    "Irmologion -> Heirmologion": 2
+  },
+  "Final_Dolnytsky_part4_triodion.txt": {
+    "Leavetaking -> Apodosis": 2,
+    "LEAVETAKING -> APODOSIS": 4,
+    "Prokeimenon -> Prokimenon": 2
+  },
+  "Final_footnotes.txt": {
+    "Leavetaking -> Apodosis": 15,
+    "Prokeimenon -> Prokimenon": 28,
+    "Prokeimena -> Prokimena": 1,
+    "Irmologion -> Heirmologion": 1,
+    "Irmos -> Heirmos": 6
+  }
+}

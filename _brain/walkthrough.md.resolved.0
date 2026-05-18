@@ -1,0 +1,28 @@
+# Walkthrough - Dolnytsky Typikon Rubrical Audit Remediation
+
+## Executive Summary
+This session successfully concludes the rigorous visual rubrical audit and structural remediation of **Part 3 (Menaion)** of the Dolnytsky Typikon through the end of August. By cross-referencing the digital English text directly against primary physical scans of the authoritative 2010 Lviv edition (Images 143-146), we resolved all textual drift, synchronized footnote anchors, excised trailing artifacts, and established continuous, highly durable repository tracking.
+
+## Completed Changes
+
+### 1. Menaion Liturgical & Structural Synchronization
+In `Final_Dolnytsky_part3_menaion.txt`, several granular, high-fidelity restorations were made to align precisely with the 2010 Lviv source text:
+- **July 31 Matins Sessional Hymn**: Corrected the rubric to specify the Sessional hymn is *"of the Cross"* (Хреста) instead of *"of the Forefeast"*, properly linking anchor `[^452]`.
+- **July 31/August 1 Weekday Liturgy Restoration**: Restored the comprehensive Liturgy instructions detailing the Troparia, Prokeimenon, Apostle, Gospel, and Communion Hymns (*"Znamenovasya"* and *"Raduitesya"*), along with the complete rubrics governing the joint blessing of water and herbs following dismissal, tied to anchor `[^453]`.
+- **July 31 Sunday Rule**: Restored the missing authoritative sentence governing the Bringing Out of the Cross, its veneration, and the blessing of water on Sunday, linked to anchor `[^451]`.
+- **Excise of Trailing Bloat**: Completely purged the massive, redundant block of duplicate footnotes (`[^279]` through `[^465]`) appended after the August 31 entry, restoring clean structural boundaries to Part 3.
+
+### 2. Audit Logging & Verification
+- Updated `visual_audit_log.md` with granular entries for **Images 143, 144, 145, and 146**, verifying 1-to-1 physical alignment and validating total cross-reference integrity for anchors through `[^465]`.
+- Removed a duplicate, out-of-context block of historical Annunciation findings from the tail of the log.
+
+### 3. Persistent Repository Brain Integration
+Following strict user feedback, tracking items were explicitly synced directly into the permanent `_brain/` folder of the repository to survive model handoffs and outlive ephemeral conversation directories:
+- **`e:\Google Antigravity\Projects\Translation\_brain\IMPLEMENTATION_PLAN.md`**: Continuously mirrors the active audit remediation strategies.
+- **`e:\Google Antigravity\Projects\Translation\_brain\TASK_LIST.md`**: Live checklist reflecting verified state.
+- **`e:\Google Antigravity\Projects\Translation\_brain\WALKTHROUGH.md`**: Persistent documentation of achieved milestones.
+- **`e:\Google Antigravity\Projects\Translation\_brain\EDITION_FACTS.md`**: Critical source and nomenclature guidelines embedded natively.
+
+## Verification Results
+- **Source Consistency**: 100% compliance with the 2010 Lviv Dolnytsky text on Images 143-146.
+- **Structural Integrity**: Menaion corpus terminates perfectly at August 31 without any trailing debris or dead anchors.
