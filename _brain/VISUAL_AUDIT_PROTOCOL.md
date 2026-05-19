@@ -81,9 +81,10 @@ For every single image (`.jpg`), execute the following loop:
 | 001–005 | `Final_Dolnytsky_intro.txt` | Introduction |
 | 006–022 | `Final_Dolnytsky_part1_structure.txt` | Part I: Structure |
 | 023–053 | `Final_Dolnytsky_part2_general_rubrics.txt` | Part II: General Rubrics |
-| 054–??? | `Final_Dolnytsky_part3_menaion.txt` | Part III: Menaion |
-| ???–??? | `Final_Dolnytsky_part4_triodion.txt` | Part IV: Triodion |
-| ???–??? | `Final_Dolnytsky_part5_temple.txt` | Part V: Temple/Calendar |
+| 054–146 | `Final_Dolnytsky_part3_menaion.txt` | Part III: Menaion |
+| 147–210 | `Final_Dolnytsky_part4_triodion.txt` | Part IV: Triodion |
+| 211–247 | `Final_Dolnytsky_part5_temple.txt` | Part V: Temple/Calendar |
+| 248–287 | `Final_Dolnytsky_appendix.txt` | Ordo Celebrationis (Appendix) |
 
 ## Known Publisher Anomalies
 

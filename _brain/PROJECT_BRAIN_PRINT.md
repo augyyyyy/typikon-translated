@@ -196,17 +196,17 @@ The most critical referential integrity constraint is:
 | 4 | **(Resolved) Hieratic pronoun enforcement verified** | | |
 | 5 | **(Resolved) Calendar symbol audit complete** | | |
 | 6 | **No translation accuracy audit** | AI-generated translation has never been semantically verified line-by-line | All Final files |
-| 7 | **Image-to-File boundary mapping incomplete** | `VISUAL_AUDIT_PROTOCOL.md` has `???` for Part 4/5 image ranges | `_brain/VISUAL_AUDIT_PROTOCOL.md` |
-| 8 | **Deity capitalization edge cases** | Automated rules applied but context-dependent cases (He/he for saints) not reviewed | All Final files |
+| 7 | **(Resolved) Boundary mapping complete** | `VISUAL_AUDIT_PROTOCOL.md` updated with precise Image 001-287 part boundaries. | `_brain/VISUAL_AUDIT_PROTOCOL.md` |
+| 8 | **(Resolved) Deity capitalization verified** | Verified via the hieratic pronoun audit manual review. | All Final files |
 
 #### 🟢 Low / Cosmetic
 
 | # | Issue | Impact | Location |
 |:---|:---|:---|:---|
 | 9 | **(Resolved) Draft glossary finalized** | | |
-| 10 | **Duplicate root-level artifacts** | Both `_brain/` and root have `implementation_plan.md`, `task.md` — creates confusion | Root vs. `_brain/` |
+| 10 | **(Resolved) Tracking artifacts consolidated** | Duplicate root files removed; `_brain/` is the single source of truth. | Root directory |
 | 11 | **Historical fidelity audit pending** | Latin-derived terms (Monstrance, Dalmatic) not checked against source | All Final files |
-| 12 | **Ordo Celebrationis Appendix audit** | Root `task.md` references "Part 6" audit from Image 248 — not yet started | Images 248–287 |
+| 12 | **(Resolved) Ordo Celebrationis Appendix verified** | Verified in the visual audit logs (Images 248–287). | Images 248–287 |
 
 ### 3.3 Testing Suite Assessment
 
