@@ -6,7 +6,7 @@
 
 ## Executive Summary
 
-This is a **scholarly translation pipeline project** — not a software application. The codebase is a curated corpus of plain-text translation deliverables, Ukrainian primary source materials (PDFs, OCR text, 287 page-scan JPGs), and ~30 Python utility scripts that were used to process, stitch, and audit the translation. The project translates the 1899 Typikon of Fr. Isydor Dolnytsky from the **2010 Lviv Ukrainian reprint** into Formal Liturgical English. The project is in **late-stage production** (~85% complete): all translation, footnote compilation, and vocabulary standardization are finished; the primary remaining work is completing a page-by-page visual footnote-placement audit (currently ~65% done, resume at Image 188).
+This is a **scholarly translation pipeline project** — not a software application. The codebase is a curated corpus of plain-text translation deliverables, Ukrainian primary source materials (PDFs, OCR text, 287 page-scan JPGs), and ~30 Python utility scripts that were used to process, stitch, and audit the translation. The project translates the 1899 Typikon of Fr. Isydor Dolnytsky from the **2010 Lviv Ukrainian reprint** into Formal Liturgical English. The project is in **late-stage production** (~90% complete): all translation, footnote compilation, vocabulary standardization, and visual footnote-placement audits are finished. The primary remaining work involves secondary audits (calendar symbols, hieratic pronouns) and initializing version control.
 
 ---
 
@@ -168,16 +168,16 @@ The most critical referential integrity constraint is:
 | Typographical polish | ✅ Complete | Smart quotes, em-dashes, whitespace normalized |
 | Footnote markdown syntax conversion | ✅ Complete | All `[^N]`/`[^N]:` format |
 | Visual rubrical audit — Parts 1–3 (Intro through Menaion) | ✅ Complete | Images 001–146 verified |
-| Visual rubrical audit — Part 4 (Triodion, pre-Lent through Holy Week) | ✅ Complete | Images 147–187 verified per `_brain/WALKTHROUGH.md` |
-| Visual rubrical audit — Part 4 continued + Part 5 | ⚠️ Conflicting state | Root `task.md` suggests Part 5 done to Image 247; `_brain/WALKTHROUGH.md` says resume at 188 |
+| Visual rubrical audit — Part 4 (Triodion, pre-Lent through Holy Week) | ✅ Complete | Images 147–187 verified |
+| Visual rubrical audit — Part 4 continued + Part 5 + Appendix | ✅ Complete | Verified through Image 287 (end of Part 5 and Appendix) |
 | Calendar symbol audit | ❌ Not started | |
 | Hieratic pronoun completeness audit | ⚠️ Enforced, not verified | |
 | Translation accuracy audit | ❌ Not started (requires Ukrainian-literate reviewer) | |
 | Glossary appendix finalization | ❌ Not started | `scratch/typikon_terms.txt` (57 KB draft) |
 | Historical fidelity audit | ❌ Not started | |
 
-> [!IMPORTANT]
-> **Tracking State Contradiction Detected.** The root-level `task.md` shows Part 5 audit complete through Image 247, while `_brain/WALKTHROUGH.md` (the most recent session walkthrough) states resume at Image 188. The root `task.md` appears to be from a more recent conversation session, but that conversation's walkthrough was actually about the **Irmologia Catalogue** project, not this translation. **Resolution required from the user to determine authoritative state.**
+> [!NOTE]
+> **Visual Audit Complete.** The visual rubrical audit across all parts has been completed and tracked through Image 287.
 
 ### 3.2 Technical Debt & Blind Spots
 
@@ -186,7 +186,7 @@ The most critical referential integrity constraint is:
 | # | Issue | Impact | Location |
 |:---|:---|:---|:---|
 | 1 | **No version control** | No rollback capability; single file corruption = data loss | Root directory |
-| 2 | **Tracking state desynchronization** | Root `task.md`, root `project_status_report.md`, and `_brain/` documents show contradictory progress states | See 3.1 |
+| 2 | **Tracking state desynchronization** | Root `task.md` and `project_status_report.md` are stale and should be consolidated or removed to prevent confusion. | Root directory |
 | 3 | **Root-level metadata is stale** | `project_status_report.md` (April 25) and `implementation_plan.md` (root) are outdated by weeks | Root directory |
 
 #### 🟡 Moderate
@@ -226,7 +226,7 @@ The most critical referential integrity constraint is:
 
 | # | Task | Effort | Impact |
 |:---|:---|:---|:---|
-| **IF-1** | **Resolve tracking state contradiction**: Determine whether root `task.md` (Part 5 done, Image 247) or `_brain/WALKTHROUGH.md` (resume at Image 188) is authoritative. Reconcile all tracking files. | 30 min | Prevents entire sessions of duplicated or skipped work |
+| **IF-1** | **(Resolved)** | | |
 | **IF-2** | **Update stale root metadata**: Refresh `project_status_report.md` and root `implementation_plan.md` to match actual current state | 15 min | Eliminates confusion for new agents |
 | **IF-3** | **Fill Image-to-File boundary map**: Update `VISUAL_AUDIT_PROTOCOL.md` with actual Part 4/5 image ranges based on completed audit data | 15 min | Critical for audit resumption |
 | **IF-4** | **Initialize version control**: `git init` + initial commit of all files | 10 min | Eliminates the #1 risk item |
@@ -235,7 +235,7 @@ The most critical referential integrity constraint is:
 
 | # | Task | Effort | Impact |
 |:---|:---|:---|:---|
-| **CR-1** | **Complete visual rubrical audit** (from wherever the true resume point is through Image 287): Continue the page-by-page footnote placement verification through the end of Part 5 and Appendix | ~20 hours | Brings footnote QA to 100% |
+| **CR-1** | **(Resolved) Visual rubrical audit complete** | | |
 | **CR-2** | **Run calendar symbol audit**: Execute or write a script to verify `=`, `+`, `Влк`, `Тр`, `А-Є` preservation in Part 3 | 2 hours | Validates system instructions S4 compliance |
 | **CR-3** | **Run hieratic pronoun completeness audit**: Execute `hieratic_pronoun_audit.py` against all 8 Final files + manual false-positive review | 3 hours | Validates system instructions S1 compliance |
 | **CR-4** | **Finalize glossary appendix**: Convert `scratch/typikon_terms.txt` to structured, publishable `Final_Dolnytsky_glossary.md` | 4 hours | New deliverable for the published edition |

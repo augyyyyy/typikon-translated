@@ -4,41 +4,10 @@ All remaining tasks, prioritized and annotated with context for seamless handoff
 
 ---
 
-## 🔴 Priority 1: Resume Visual Rubrical Audit
-
-**Status:** Part 3 (Menaion) 100% complete. Overall audit ~51% complete.  
-**Resume at:** Image 147 (Beginning of Part 4 Triodion)  
-**Remaining:** Images 147–287 (141 images)  
-**Method:** Compare English text line-by-line against 2010 Ukrainian source images  
-**Files affected:** Parts 4 and 5  
-
-### ✅ Recently Resolved Milestones (Images 124–146):
-- **Matrix Error & Ghost Loop Purged:** Truncated and eliminated fabricated audit entries from past sessions. Fully restored physical image sequence alignment.
-- **March 26 Boundary Logic Adjudicated:** Proven that no text is missing between March 26 and April 23.
-- **Annunciation Corpus Synchronized:** Re-translated Apodosis structural sections to exactly match the concise 2010 Lviv text, eliminating historical interpolation drift.
-- **July 31/August 1 Transition Remediated:** Restored complete weekday and Sunday liturgy rubrics for the Procession of the Cross, including the joint blessing of water and herbs, alongside linking anchors `[^451]`, `[^452]`, and `[^453]`.
-- **Menaion Tail Purged:** Excised the large trailing duplicate footnote block (`[^279]` through `[^465]`) appended after August 31, terminating Part 3 naturally.
-
-### What to do:
-1. Load `Typyk UHKC(укр)-147.jpg`
-2. Find the corresponding lines in `Final_Dolnytsky_part4_triodion.txt`
-3. Verify all footnote superscripts match `[^N]` markers in the text
-4. Log findings in `visual_audit_log.md`
-5. Apply corrections to Final files
-6. Continuously sync tracking files (`IMPLEMENTATION_PLAN.md`, `TASK_LIST.md`, `WALKTHROUGH.md`) inside the `_brain/` folder.
-
-### Key context:
-- The audit is a **footnote placement verification**, not a translation accuracy check
-- Publisher anomalies should be logged but preserved (e.g., the `[^3a]` precedent)
-- The detailed audit log is in `visual_audit_log.md` (2,165+ lines)
-- **DO NOT** speculate about "1899 vs 2010 editions" — see `DECISION_LOG.md` → Decision 0
-
----
-
-## 🟡 Priority 2: Calendar Symbol Audit
+## 🔴 Priority 1: Calendar Symbol Audit
 
 **Status:** Not started  
-**Scope:** Verify that Menaion/Calendar symbols are preserved correctly in Part 3  
+**Scope:** Verify that Menaion/Calendar symbols are preserved correctly in Part 3 (`Final_Dolnytsky_part3_menaion.txt`)  
 **Symbols to check:** `=`, `+`, `Влк`, `Тр`, `А-Є`, ALL CAPS, **Bold Text**  
 
 ### What to do:
@@ -48,7 +17,7 @@ All remaining tasks, prioritized and annotated with context for seamless handoff
 
 ---
 
-## 🟡 Priority 3: Hieratic Pronoun Completeness Audit
+## 🔴 Priority 2: Hieratic Pronoun Completeness Audit
 
 **Status:** Enforced but unverified  
 **Scope:** Scan all Final files for missed lowercase deity pronouns  
@@ -61,19 +30,22 @@ All remaining tasks, prioritized and annotated with context for seamless handoff
 
 ---
 
-## 🟡 Priority 4: Glossary Appendix Finalization
+## 🟢 Priority 3: Visual Rubrical Audit (Completed)
 
-**Status:** Not started  
-**Source:** `scratch/typikon_terms.txt` (57 KB draft)  
-**Target:** A formal, publishable markdown appendix  
+**Status:** 100% Complete  
+**Scope:** Verified 1-to-1 against all 287 Ukrainian source scans. All findings documented in `visual_audit_log.md`.  
+**Result:** Eradicated phantom anchors, resolved page boundary logic, unified all footnote anchors through `[^785]`.  
 
-### What to do:
-1. Review `scratch/typikon_terms.txt` for completeness
-2. Convert to structured markdown with alphabetical sections
-3. Cross-reference against the `vocabulary_standardization_matrix.md` for consistency
-4. Add to Final files or create a new `Final_Dolnytsky_glossary.md`
 
 ---
+
+## 🟢 Priority 4: Glossary Appendix Finalization (Completed)
+
+**Status:** 100% Complete  
+**Result:** Generated [Final_Dolnytsky_glossary.md](file:///e:/Google%20Antigravity/Projects/Translation/Final/Final_Dolnytsky_glossary.md) with 63 entries, categorized and cross-referenced with exact source references and categories.  
+
+---
+
 
 ## 🔵 Priority 5: Translation Accuracy Audit
 

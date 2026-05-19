@@ -120,25 +120,30 @@ for fname in files:
                 else:
                     ambiguous.append(entry)
 
-print("=" * 80)
-print("HIERATIC PRONOUN AUDIT — REFINED RESULTS")
-print("=" * 80)
+with open(r"e:\Google Antigravity\Projects\Translation\scratch\pronoun_violations.txt", 'w', encoding='utf-8') as out:
+    def write_line(text=""):
+        out.write(text + "\n")
 
-print(f"\n🔴 TRUE VIOLATIONS (deity context, needs fix): {len(true_violations)}")
-for v in true_violations:
-    print(f"  {v['file']}:L{v['line']} [{v['pronoun']}]")
-    print(f"    {v['context'][:180]}")
-    print()
+    write_line("=" * 80)
+    write_line("HIERATIC PRONOUN AUDIT — REFINED RESULTS")
+    write_line("=" * 80)
 
-print(f"\n🟡 AMBIGUOUS (needs human review): {len(ambiguous)}")
-for a in ambiguous[:30]:  # show first 30
-    print(f"  {a['file']}:L{a['line']} [{a['pronoun']}]")
-    print(f"    {a['context'][:180]}")
-    print()
+    write_line(f"\n🔴 TRUE VIOLATIONS (deity context, needs fix): {len(true_violations)}")
+    for v in true_violations:
+        write_line(f"  {v['file']}:L{v['line']} [{v['pronoun']}]")
+        write_line(f"    {v['context'][:180]}")
+        write_line()
 
-print(f"\n✅ LIKELY FALSE POSITIVES (human referent, lowercase correct): {len(likely_false_positives)}")
-print(f"   (not shown — these are references to priests, deacons, saints, etc.)")
+    write_line(f"\n🟡 AMBIGUOUS (needs human review): {len(ambiguous)}")
+    for a in ambiguous:
+        write_line(f"  {a['file']}:L{a['line']} [{a['pronoun']}]")
+        write_line(f"    {a['context'][:180]}")
+        write_line()
 
-print(f"\n{'='*80}")
-print(f"SUMMARY: {len(true_violations)} violations | {len(ambiguous)} ambiguous | {len(likely_false_positives)} OK")
-print(f"{'='*80}")
+    write_line(f"\n✅ LIKELY FALSE POSITIVES (human referent, lowercase correct): {len(likely_false_positives)}")
+    write_line(f"   (not shown — these are references to priests, deacons, saints, etc.)")
+
+    write_line(f"\n{'='*80}")
+    write_line(f"SUMMARY: {len(true_violations)} violations | {len(ambiguous)} ambiguous | {len(likely_false_positives)} OK")
+    write_line(f"{'='*80}")
+
