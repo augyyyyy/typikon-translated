@@ -173,7 +173,7 @@ The most critical referential integrity constraint is:
 | Calendar symbol audit | ❌ Not started | |
 | Hieratic pronoun completeness audit | ⚠️ Enforced, not verified | |
 | Translation accuracy audit | ❌ Not started (requires Ukrainian-literate reviewer) | |
-| Glossary appendix finalization | ❌ Not started | `scratch/typikon_terms.txt` (57 KB draft) |
+| Glossary appendix finalization | ✅ Complete | `Final/Final_Dolnytsky_glossary.md` |
 | Historical fidelity audit | ❌ Not started | |
 
 > [!NOTE]
@@ -203,7 +203,7 @@ The most critical referential integrity constraint is:
 
 | # | Issue | Impact | Location |
 |:---|:---|:---|:---|
-| 9 | **Draft glossary not finalized** | `scratch/typikon_terms.txt` (57 KB) needs conversion to publishable markdown | `scratch/` |
+| 9 | **(Resolved) Draft glossary finalized** | | |
 | 10 | **Duplicate root-level artifacts** | Both `_brain/` and root have `implementation_plan.md`, `task.md` — creates confusion | Root vs. `_brain/` |
 | 11 | **Historical fidelity audit pending** | Latin-derived terms (Monstrance, Dalmatic) not checked against source | All Final files |
 | 12 | **Ordo Celebrationis Appendix audit** | Root `task.md` references "Part 6" audit from Image 248 — not yet started | Images 248–287 |
@@ -238,7 +238,7 @@ The most critical referential integrity constraint is:
 | **CR-1** | **(Resolved) Visual rubrical audit complete** | | |
 | **CR-2** | **Run calendar symbol audit**: Execute or write a script to verify `=`, `+`, `Влк`, `Тр`, `А-Є` preservation in Part 3 | 2 hours | Validates system instructions S4 compliance |
 | **CR-3** | **Run hieratic pronoun completeness audit**: Execute `hieratic_pronoun_audit.py` against all 8 Final files + manual false-positive review | 3 hours | Validates system instructions S1 compliance |
-| **CR-4** | **Finalize glossary appendix**: Convert `scratch/typikon_terms.txt` to structured, publishable `Final_Dolnytsky_glossary.md` | 4 hours | New deliverable for the published edition |
+| **CR-4** | **(Resolved) Glossary finalized** | | |
 | **CR-5** | **Consolidate tracking artifacts**: Eliminate duplication between root-level and `_brain/` metadata files; designate `_brain/` as single source of truth | 1 hour | Architectural hygiene |
 
 ### 4.3 Scalability & Feature Expansion

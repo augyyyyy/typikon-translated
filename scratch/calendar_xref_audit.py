@@ -13,7 +13,7 @@ Phase C: Calendar Symbol & Cross-Reference Tag Audit
 import re, os, sys
 sys.stdout.reconfigure(encoding='utf-8')
 
-final_dir = r'e:\Google Antigravity\Projects\Translation\Final'
+final_dir = r'c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Translation\Final'
 
 # ========================================================
 # PART 1: Service-Rank Tag Inventory

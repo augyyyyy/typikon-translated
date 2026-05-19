@@ -1,0 +1,299 @@
+================================================================================
+HIERATIC PRONOUN AUDIT — REFINED RESULTS
+================================================================================
+
+🔴 TRUE VIOLATIONS (deity context, needs fix): 5
+  Final_Dolnytsky_appendix.txt:L344 [his]
+    ng made a small bow, with two fingers of the right hand takes the second part of the particle "XC" and says: "The precious and most holy" and, bowing his head, prays with the words
+
+  Final_Dolnytsky_appendix.txt:L421 [his]
+    ng made a small bow, with two fingers of the right hand takes the second part of the particle "XC" and says: "The precious and most holy" and, bowing his head, prays with the words
+
+  Final_Dolnytsky_part4_triodion.txt:L745 [who]
+    ticheron: "and let us embrace one another", but we kiss only the precious cross, the Gospel and holy icons, which the priests hold, greeting everyone who approaches with the words:
+
+  Final_footnotes.txt:L790 [his]
+    ng made a small bow, with two fingers of the right hand takes the second part of the particle "XC" and says: "The precious and most holy" and, bowing his head, prays with the words
+
+  Final_footnotes.txt:L807 [his]
+    rant stands on the opposite side of it. After the communion of the Body of Christ, each goes to the north of the holy table and washes, if necessary, his fingers in the vessel stan
+
+
+🟡 AMBIGUOUS (needs human review): 90
+  Final_Dolnytsky_appendix.txt:L15 [who]
+    7. No one dares to have entry into the sanctuary except priests, deacons, clerics and servers. For the faithful who do not cooperate in the divine service, there is no place in the
+
+  Final_Dolnytsky_appendix.txt:L137 [he]
+    elion and phelonion opens the holy doors, censes the holy table from four sides and everything else, as noted (see no. 54). Turning to the holy doors he says in a half-voice: "Lord
+
+  Final_Dolnytsky_appendix.txt:L187 [he]
+    91. After the Katavasia of the 8th Ode, he goes out in the epitrachelion through the northern doors, stands before the icon of the Theotokos and calls: "The Theotokos and Mother of
+
+  Final_Dolnytsky_appendix.txt:L187 [he]
+    stands before the icon of the Theotokos and calls: "The Theotokos and Mother of Light," then censes, as noted above (see no. 33). After the censing, he returns through the southern
+
+  Final_Dolnytsky_appendix.txt:L210 [he]
+    - There he exclaims: "The Theotokos and Mother of Light," censes the icon, then returns into the sanctuary and censes everything, as usual.
+
+  Final_Dolnytsky_appendix.txt:L233 [his]
+    n - the holy table and, if there exists a custom, both - the altar cross. Having arrived at the place where the sacred vestments are kept, each takes his sticharion in his hands an
+
+  Final_Dolnytsky_appendix.txt:L233 [his]
+    and, if there exists a custom, both - the altar cross. Having arrived at the place where the sacred vestments are kept, each takes his sticharion in his hands and makes three small
+
+  Final_Dolnytsky_appendix.txt:L233 [himself]
+    ng arrived at the place where the sacred vestments are kept, each takes his sticharion in his hands and makes three small bows to the east, saying to himself: "O God, be merciful t
+
+  Final_Dolnytsky_appendix.txt:L263 [his]
+    three fingers of his right hand, goes out through the northern doors, for the holy doors remain closed until the Entrance itself and, having stood at his place before the holy door
+
+  Final_Dolnytsky_appendix.txt:L451 [he]
+    est takes the Holy Gospel, goes around the throne from the right side and goes out through the northern doors. Bowing his head before the holy doors, he recites the Prayer of the E
+
+  Final_Dolnytsky_appendix.txt:L455 [he]
+    ed to the throne and holding the censer on the ring finger of his left hand, he recites, having lifted his hands, three times the Cherubic Hymn. Then he approaches the oblation, wi
+
+  Final_Dolnytsky_appendix.txt:L455 [he]
+    es the large veil over the censer, which the server presents, saying: "The noble Joseph." Then, having taken the censer from the hands of the server, he censes the Holy Gifts with 
+
+  Final_Dolnytsky_appendix.txt:L458 [he]
+    e a small bow, takes the holy chalice in his hands; approaches the holy doors and, showing the chalice, exclaims: "With fear." Immediately after this he recites: "I believe, O Lord
+
+  Final_Dolnytsky_appendix.txt:L458 [he]
+    " After the completion of the prayers, He covers the chalice and administers communion with the spoon. Having finished the communion of the faithful, he leaves the spoon in the cha
+
+  Final_Dolnytsky_appendix.txt:L458 [his]
+    sis and opened the holy doors, he places the spoon on the chalice or puts it into the chalice and, having made a small bow, takes the holy chalice in his hands; approaches the holy
+
+  Final_Dolnytsky_appendix.txt:L459 [he]
+    ion, he leaves the spoon in the chalice, returns to the holy table and places the diskos and chalice on it, covers it with the small veil. After this he takes the chalice and, turn
+
+  Final_Dolnytsky_appendix.txt:L520 [he]
+    219. For the Great Entrance not all have to go out. If only the 1st makes the Entrance, he himself places the aer on his left shoulder and himself exclaims: "Our most holy [Pontiff
+
+  Final_Dolnytsky_appendix.txt:L520 [his]
+    219. For the Great Entrance not all have to go out. If only the 1st makes the Entrance, he himself places the aer on his left shoulder and himself exclaims: "Our most holy [Pontiff
+
+  Final_Dolnytsky_appendix.txt:L520 [himself]
+    219. For the Great Entrance not all have to go out. If only the 1st makes the Entrance, he himself places the aer on his left shoulder and himself exclaims: "Our most holy [Pontiff
+
+  Final_Dolnytsky_appendix.txt:L520 [himself]
+    219. For the Great Entrance not all have to go out. If only the 1st makes the Entrance, he himself places the aer on his left shoulder and himself exclaims: "Our most holy [Pontiff
+
+  Final_Dolnytsky_appendix.txt:L536 [he]
+    custom, saying nothing at this. After censing the veil of the chalice over the censer he covers the chalice with it. Then with the large veil, which he likewise censes, he covers t
+
+  Final_Dolnytsky_appendix.txt:L536 [he]
+    ing at this. After censing the veil of the chalice over the censer he covers the chalice with it. Then with the large veil, which he likewise censes, he covers the diskos and chali
+
+  Final_Dolnytsky_appendix.txt:L543 [he]
+    simultaneously the censer, stands before the holy table, looking to the east and, making the sign of the cross, exclaims: "Wisdom, arise." After this he turns to the west, towards 
+
+  Final_Dolnytsky_part1_structure.txt:L160 [his]
+    oceeds between two candle-bearers to the Holy Doors and exclaims from the Holy Doors facing the people: 'Peace be unto all,' blessing the people with his right hand in the form of 
+
+  Final_Dolnytsky_part1_structure.txt:L252 [he]
+    con sings very loudly: "The Theotokos and Mother of the Light let us magnify in songs," and "More honorable" is recited (read, or sung); if not, then he sings the beginning of the 
+
+  Final_Dolnytsky_part2_general_rubrics.txt:L361 [who]
+    Antiphons Sunday. On "Come, let us worship", if you wish, to "Save us, O Son of God" add the refrain: "Through the prayers of the Theotokos, who sing to Thee, Alleluia"[^192]. Sund
+
+  Final_Dolnytsky_part2_general_rubrics.txt:L593 [he]
+    ου, ποιησαι την μεγαλην Δοξολογιαν. Ει δ ουν βουλει, είπε και Αποστιχον της Οκτωηχου /Do not wonder about the Great Doxology; for it is permitted, as he who wrote the Typikon says,
+
+  Final_Dolnytsky_part2_general_rubrics.txt:L593 [who]
+    ποιησαι την μεγαλην Δοξολογιαν. Ει δ ουν βουλει, είπε και Αποστιχον της Οκτωηχου /Do not wonder about the Great Doxology; for it is permitted, as he who wrote the Typikon says, eve
+
+  Final_Dolnytsky_part4_triodion.txt:L1098 [who]
+    At the Liturgy: at the 3rd Antiphon, at "O come, let us worship", if Thou wishest, refrain the refrain: "Through the prayers of the Theotokos, who sing to Thee", as in the Pochaiv 
+
+  Final_Dolnytsky_part4_triodion.txt:L1247 [him]
+    at is "Come, receive light from the unwaning light and kiss Christ, risen from the dead". And so all approach one by one, to light their candles from him, forming after this the pr
+
+  Final_footnotes.txt:L37 [he]
+    con sings very loudly: "The Theotokos and Mother of the Light let us magnify in songs," and "More honorable" is recited (read, or sung); if not, then he sings the beginning of the 
+
+  Final_footnotes.txt:L89 [he]
+    ου, ποιησαι την μεγαλην Δοξολογιαν. Ει δ ουν βουλει, είπε και Αποστιχον της Οκτωηχου /Do not wonder about the Great Doxology; for it is permitted, as he who wrote the Typikon says,
+
+  Final_footnotes.txt:L89 [who]
+    ποιησαι την μεγαλην Δοξολογιαν. Ει δ ουν βουλει, είπε και Αποστιχον της Οκτωηχου /Do not wonder about the Great Doxology; for it is permitted, as he who wrote the Typikon says, eve
+
+  Final_footnotes.txt:L618 [him]
+    at is "Come, receive light from the unwaning light and kiss Christ, risen from the dead". And so all approach one by one, to light their candles from him, forming after this the pr
+
+  Final_footnotes.txt:L766 [he]
+    recite all the Matins Prayers before the iconostasis, he may finish them in the sanctuary during the reading of the Kathismata. After the Prokimenon, he himself exclaims: "Let us p
+
+  Final_footnotes.txt:L766 [he]
+    ng beheld the Resurrection of Christ." After the 3rd and 6th Odes of the Canon -- Small Litanies and exclaims from the throne or from the place where he anoints. After the anointin
+
+  Final_footnotes.txt:L766 [he]
+    s. After the anointing, he returns through the holy doors into the sanctuary and takes off the phelonion. **91.** After the Katavasia of the 8th Ode, he goes out in the epitracheli
+
+  Final_footnotes.txt:L766 [he]
+    stands before the icon of the Theotokos and calls: "The Theotokos and Mother of Light," then censes, as noted above (see no. 33). After the censing, he returns through the southern
+
+  Final_footnotes.txt:L766 [himself]
+    ite all the Matins Prayers before the iconostasis, he may finish them in the sanctuary during the reading of the Kathismata. After the Prokimenon, he himself exclaims: "Let us pray
+
+  Final_footnotes.txt:L778 [he]
+    withdraws and, at some place in the sanctuary, puts on the sticharion, praying thus: "My soul shall rejoice in the Lord." Having kissed the orarion, he places it on his left should
+
+  Final_footnotes.txt:L778 [he]
+    praying thus: "My soul shall rejoice in the Lord." Having kissed the orarion, he places it on his left shoulder. Putting the cuff on the right hand, he says: "Thy right hand, O Lor
+
+  Final_footnotes.txt:L778 [he]
+    it on his left shoulder. Putting the cuff on the right hand, he says: "Thy right hand, O Lord," and on the left: "Thy hands have made me." After this he goes to the table of oblati
+
+  Final_footnotes.txt:L778 [he]
+    en the sticharion in his left hand, he makes three small bows to the east, as was said about this, and, blessing it, says: "Blessed is our God." Then he puts it on, saying: "My sou
+
+  Final_footnotes.txt:L778 [he]
+    ssing it, says: "Blessed is our God." Then he puts it on, saying: "My soul shall rejoice in the Lord." Having taken the epitrachelion and blessed it, he puts it on himself and says
+
+  Final_footnotes.txt:L778 [he]
+    ving taken the epitrachelion and blessed it, he puts it on himself and says: "Blessed is God, Who pours out His grace." Having taken the zone [belt], he girds himself, saying: "Ble
+
+  Final_footnotes.txt:L778 [his]
+    at some place in the sanctuary, puts on the sticharion, praying thus: "My soul shall rejoice in the Lord." Having kissed the orarion, he places it on his left shoulder. Putting the
+
+  Final_footnotes.txt:L778 [himself]
+    : "Blessed is our God." Then he puts it on, saying: "My soul shall rejoice in the Lord." Having taken the epitrachelion and blessed it, he puts it on himself and says: "Blessed is 
+
+  Final_footnotes.txt:L778 [himself]
+    n the epitrachelion and blessed it, he puts it on himself and says: "Blessed is God, Who pours out His grace." Having taken the zone [belt], he girds himself, saying: "Blessed is G
+
+  Final_footnotes.txt:L782 [he]
+    le, Protomartyr" and, having taken the fifth particle, places it under the first [of the second row], with which he begins the second row. After this he says: "Of our venerable and
+
+  Final_footnotes.txt:L782 [he]
+    rable and God-bearing [Fathers]" and, having taken the sixth particle, places it under the second [of the second row], finishing the second row. Then he says: "Of the holy and wond
+
+  Final_footnotes.txt:L782 [he]
+    second [of the second row], finishing the second row. Then he says: "Of the holy and wonderworking Unmercenaries." Having taken the seventh particle, he places it next to the first
+
+  Final_footnotes.txt:L782 [he]
+    derworking Unmercenaries." Having taken the seventh particle, he places it next to the first [of the second row], beginning the third row. Then again he says: "Of the holy and righ
+
+  Final_footnotes.txt:L782 [he]
+    fourth prosphora and says: "Remember, O Master, Lover of mankind, our most holy [Pontiff]," and places the taken particle below the holy bread. Then he mentions by name the living,
+
+  Final_footnotes.txt:L782 [he]
+    , O Master, Lover of mankind, our most holy [Pontiff]," and places the taken particle below the holy bread. Then he mentions by name the living, whom he wishes, and for each name t
+
+  Final_footnotes.txt:L782 [he]
+    kes out a particle, saying: "Remember, O Lord, the soul." Then he says: "And of all in the hope of resurrection" and takes out a particle. After this he says: "Remember, O Lord, ac
+
+  Final_footnotes.txt:L782 [his]
+    three fingers of his right hand, goes out through the northern doors, for the holy doors remain closed until the Entrance itself and, having stood at his place before the holy door
+
+  Final_footnotes.txt:L782 [whom]
+    ember, O Master, Lover of mankind, our most holy [Pontiff]," and places the taken particle below the holy bread. Then he mentions by name the living, whom he wishes, and for each n
+
+  Final_footnotes.txt:L799 [he]
+    est takes the Holy Gospel, goes around the throne from the right side and goes out through the northern doors. Bowing his head before the holy doors, he recites the Prayer of the E
+
+  Final_footnotes.txt:L799 [he]
+    Entrance "O Master, Lord our God," blesses the entrance with his right hand, kisses the Gospel and, showing it, exclaims: "Wisdom, arise." After this he enters the sanctuary throug
+
+  Final_footnotes.txt:L799 [he]
+    ed to the throne and holding the censer on the ring finger of his left hand, he recites, having lifted his hands, three times the Cherubic Hymn. Then he approaches the oblation, wi
+
+  Final_footnotes.txt:L799 [he]
+    he Cherubic Hymn. Then he approaches the oblation, with three swings censes the Holy Gifts, saying quietly: "O God, be merciful to me a sinner." Then he takes the large veil and pl
+
+  Final_footnotes.txt:L799 [he]
+    the right hand and goes out through the northern doors, exclaiming: "May the Lord God remember" (see no. 129). Having entered through the holy doors, he places the Holy Gifts on th
+
+  Final_footnotes.txt:L799 [he]
+    es the large veil over the censer, which the server presents, saying: "The noble Joseph." Then, having taken the censer from the hands of the server, he censes the Holy Gifts with 
+
+  Final_footnotes.txt:L799 [he]
+    he censer from the hands of the server, he censes the Holy Gifts with three swings, saying: "Do good, O Lord." **171.** Having given away the censer, he exclaims the litany "Let us
+
+  Final_footnotes.txt:L799 [he]
+    Lord." **171.** Having given away the censer, he exclaims the litany "Let us complete," "Help us, save us, have mercy." Reciting the Symbol of Faith he lifts the *aer* and holds it
+
+  Final_footnotes.txt:L799 [he]
+    kes the sign of the cross over the antimension [*iliton*] and exclaims "Thine own of Thine own." After the exclamation "Especially for our most holy" he censes the holy table only 
+
+  Final_footnotes.txt:L799 [he]
+    e a small bow, takes the holy chalice in his hands; approaches the holy doors and, showing the chalice, exclaims: "With fear." Immediately after this he recites: "I believe, O Lord
+
+  Final_footnotes.txt:L799 [he]
+    owing the chalice, exclaims: "With fear." Immediately after this he recites: "I believe, O Lord, and I confess." After the completion of the prayers, he covers the chalice and admi
+
+  Final_footnotes.txt:L799 [he]
+    " After the completion of the prayers, he covers the chalice and administers communion with the spoon. Having finished the communion of the faithful, he leaves the spoon in the cha
+
+  Final_footnotes.txt:L799 [he]
+    the chalice, covers it with the purificator and veil and, blessing the people, exclaims: "O God, save Thy people." Having returned to the holy table, he places the chalice and cens
+
+  Final_footnotes.txt:L799 [he]
+    eople." Having returned to the holy table, he places the chalice and censes it with three swings, saying: "Be Thou exalted." Having made a small bow, he takes with the right hand t
+
+  Final_footnotes.txt:L799 [he]
+    said first quietly: "Blessed is our God," and then loudly: "Always, now and ever" and, turning to the people, goes to the table of oblation, on which he places everything. Having m
+
+  Final_footnotes.txt:L799 [he]
+    ion, he leaves the spoon in the chalice, returns to the holy table and places the diskos and chalice on it, covers it with the small veil. After this he takes the chalice and, turn
+
+  Final_footnotes.txt:L799 [he]
+    the chalice and, turning to the people, blesses them with the chalice, saying: "O God, save Thy people." Having placed the chalice on the holy table, he censes it with three swings
+
+  Final_footnotes.txt:L799 [he]
+    alice, saying: "O God, save Thy people." Having placed the chalice on the holy table, he censes it with three swings, saying: "Be Thou exalted." Then he places the purificator unde
+
+  Final_footnotes.txt:L799 [he]
+    ce and, having turned to the holy doors, looking at the people, says quietly: "Blessed is our God"; after this exclaims: "Always, now and ever." Then he takes from the throne with 
+
+  Final_footnotes.txt:L799 [he]
+    folds the antimension [*iliton*] according to the prescription. After the dismissal he returns to the sanctuary and closes the holy doors. At the end he goes to the table of oblati
+
+  Final_footnotes.txt:L799 [his]
+    oly Gifts, as noted above, if necessary. **160.** During the singing of "It is truly meet," the deacons cense the throne from the sides, each -- from his own, and from the east and
+
+  Final_footnotes.txt:L799 [his]
+    the northern doors. Bowing his head before the holy doors, he recites the Prayer of the Entrance "O Master, Lord our God," blesses the entrance with his right hand, kisses the Gosp
+
+  Final_footnotes.txt:L799 [his]
+    oblation, with three swings censes the Holy Gifts, saying quietly: "O God, be merciful to me a sinner." Then he takes the large veil and places it on his own left shoulder, saying:
+
+  Final_footnotes.txt:L799 [his]
+    sis and opened the holy doors, he places the spoon on the chalice or puts it into the chalice and, having made a small bow, takes the holy chalice in his hands; approaches the holy
+
+  Final_footnotes.txt:L799 [his]
+    oly doors, looking at the people, says quietly: "Blessed is our God"; after this exclaims: "Always, now and ever." Then he takes from the throne with his left hand the diskos and g
+
+  Final_footnotes.txt:L799 [his]
+    sanctuary and closes the holy doors. At the end he goes to the table of oblation and consumes there the Holy Gifts with fear and all caution, washes his hands and, having thanked G
+
+  Final_footnotes.txt:L799 [whom]
+    the singing of "It is truly meet," the deacons cense the throne from the sides, each -- from his own, and from the east and commemorate the deceased, whom they wish. And after "Amo
+
+  Final_footnotes.txt:L811 [himself]
+    tle. **213.** For the Great Entrance not all have to go out. If only the 1st makes the Entrance, he himself places the *aer* on his left shoulder and himself exclaims: "Our most ho
+
+  Final_footnotes.txt:L815 [he]
+    what is prescribed and, according to custom, finishes the Proskomedia. **217.** When the Lamb is to be blessed at the invocation of the Holy Spirit, he says: "And make this Bread" 
+
+  Final_footnotes.txt:L815 [he]
+    ation of the Holy Spirit, he says: "And make this Bread" in the singular, and not in the plural, for Christ is -- only one. **218.** At the elevation he elevates simultaneously all
+
+  Final_footnotes.txt:L815 [he]
+    custom, saying nothing at this. After censing the veil of the chalice over the censer he covers the chalice with it. Then with the large veil, which he likewise censes, he covers t
+
+  Final_footnotes.txt:L815 [he]
+    ing at this. After censing the veil of the chalice over the censer he covers the chalice with it. Then with the large veil, which he likewise censes, he covers the diskos and chali
+
+  Final_footnotes.txt:L815 [he]
+    simultaneously the censer, stands before the holy table, looking to the east and, making the sign of the cross, exclaims: "Wisdom, arise." After this he turns to the west, towards 
+
+
+✅ LIKELY FALSE POSITIVES (human referent, lowercase correct): 365
+   (not shown — these are references to priests, deacons, saints, etc.)
+
+================================================================================
+SUMMARY: 5 violations | 90 ambiguous | 365 OK
+================================================================================

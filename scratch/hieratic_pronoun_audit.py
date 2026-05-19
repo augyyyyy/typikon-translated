@@ -19,7 +19,7 @@ FALSE positives (correctly lowercase) are references to:
 import re
 import os
 
-FINAL_DIR = r"e:\Google Antigravity\Projects\Translation\Final"
+FINAL_DIR = r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Translation\Final"
 
 # Strong indicators that lowercase "he/him/his" refers to a HUMAN (correct)
 HUMAN_INDICATORS = re.compile(
@@ -120,7 +120,7 @@ for fname in files:
                 else:
                     ambiguous.append(entry)
 
-with open(r"e:\Google Antigravity\Projects\Translation\scratch\pronoun_violations.txt", 'w', encoding='utf-8') as out:
+with open(r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Translation\scratch\pronoun_violations.txt", 'w', encoding='utf-8') as out:
     def write_line(text=""):
         out.write(text + "\n")
 
