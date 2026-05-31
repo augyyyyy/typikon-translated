@@ -1,75 +1,53 @@
 # Comprehensive Translation & Compliance Audit
 ## Dolnytsky Typikon — Scientific Edition
-**Date:** April 25, 2026
+**Last Updated:** May 31, 2026
 
 ---
 
-## Question 1: What is the "Visual Rubrical Audit" actually auditing?
+> [!NOTE]
+> For the complete, authoritative technical state of the project, including terminology decisions, pipeline history, and full asset inventory, please see [`_brain/PROJECT_BRAIN_PRINT.md`](_brain/PROJECT_BRAIN_PRINT.md).
 
-The so-called "visual rubrical audit" (conversation `44514422`) is **not** a translation accuracy audit. It is specifically a **footnote-placement verification** — comparing footnote marker positions in the English text against their positions on the 2010 Ukrainian source PDF pages. What it checks:
+## 1. Audit Layer Status Summary
 
-| Checked | Not Checked |
-|---|---|
-| Footnote marker sequence (no gaps) | Whether the English *translation* is accurate |
-| Footnote marker *placement* on correct sentence | Whether rubrical instructions are correctly rendered |
-| Footnote *definition* matches the 2010 source | Whether liturgical terminology is contextually correct |
-| Publisher anomalies (e.g., duplicate `[^3]`) | Paragraph-level translation fidelity |
-
-**Bottom line:** The rubrical audit is a footnote QA pass, not a translation audit. It has verified pages 1–29 (~10% of the source).
-
----
-
-## Question 2: Has a Translation Accuracy Audit Been Completed?
-
-**No.** No systematic translation accuracy audit has been performed. What *has* been done:
+A series of strict compliance and structural audits have been performed to ensure the translation is rubrically and structurally sound. 
 
 | Audit Layer | Status | What It Covered |
 |---|---|---|
-| **Structural integrity** | ✅ Done | Enumerated list sequence matching, paragraph volume comparison, byte-size ratios between Ukrainian and English |
-| **Footnote placement** | 🔶 10% | Pages 1–29 |
-| **Vocabulary unification** | ✅ Done | 25 drift groups standardized across all files |
-| **Typographical polish** | ✅ Done | Smart quotes, em-dashes, trailing whitespace |
-| **Translation accuracy** | ❌ Not done | No line-by-line verification that the English correctly renders the Ukrainian meaning |
-| **System instructions compliance** | ❌ Not done | See Section 3 below |
-
-> [!WARNING]
-> The structural audit confirmed that no *paragraphs were dropped*, but it did NOT verify that the *content within each paragraph* was correctly translated. The translation was produced by an AI model across many chat sessions, and no human or machine review of semantic accuracy has been performed.
+| **Structural Integrity** | ✅ Complete | Enumerated list sequence matching, paragraph volume comparison, and byte-size ratios between Ukrainian and English source files. Confirms no paragraphs were dropped. |
+| **Visual Rubrical (Footnote) Audit** | ✅ Complete | Verified the physical placement and sequencing of 785+ footnote markers across all 287 pages of the 2010 Ukrainian source PDF. |
+| **Vocabulary Unification** | ✅ Complete | 25 distinct liturgical terminology drift groups were standardized across all files (e.g., *Tserkovne Oko*, *Sluzhebnik*). |
+| **Typographical Polish** | ✅ Complete | Enforcement of smart quotes, em-dashes, and trailing whitespace cleanup. |
+| **Hieratic Pronoun Audit** | ✅ Complete | Enforcement of capitalized deity pronouns (Thee, Thou, Thy, etc.). |
+| **Calendar Symbol Audit** | ✅ Complete | Verified that all special calendar classification symbols in Part 3 (Menaion) were preserved. |
+| **Translation Accuracy** | ❌ Pending | Requires a Ukrainian-literate reviewer to do a line-by-line semantic verification of the English text against the Ukrainian source. |
 
 ---
 
-## Question 3: Are Those All the Drift Groups?
+## 2. What the "Visual Rubrical Audit" Accomplished
 
-**No.** The current `full_terminology_audit.py` monitors **25 drift groups**. All have been adjudicated in the `vocabulary_standardization_matrix.md`.
+The Visual Rubrical Audit (detailed in `visual_audit_log.md`) was a massive **footnote-placement verification**. It compared footnote marker positions in the English text against their physical positions on the 2010 Ukrainian source PDF pages. 
 
----
+**What it verified:**
+- Footnote marker sequence has no gaps.
+- Footnote markers are placed on the correct sentence.
+- Footnote definitions in `Final_footnotes.txt` match the 2010 source.
+- Publisher anomalies (e.g., duplicate `[^3]`) were correctly reconciled without losing data.
 
-## Question 4: Have the System Instructions Been Followed Throughout?
-
-### Decision: "Tserkovne Oko" vs. "Eye of the Church"
-
-> [!CAUTION]
-> **The system instructions explicitly state:**
-> *"Tserkovne Oko = Tserkovne Oko (Do not translate as 'Eye of the Church')"*
->
-> **The decision (Option A) has been finalized:**
-> Revert to **"Tserkovne Oko"** as the canonical form to maintain consistency with the proper names of other liturgical books (Octoechos, Triodion, etc.) and strictly follow system instructions.
->
-> **Status:** All occurrences in the `Final/` files have been unified to "Tserkovne Oko" (405 occurrences).
+**What it did NOT verify:**
+- Whether the underlying English *translation* of the rubrics is semantically accurate.
 
 ---
 
-## ACTION PLAN
-
-| Priority | Task | Status |
-|---|---|---|
-| 🔴 1 | **Resume footnote placement audit** — pages 30–287 | 🔶 In Progress |
-| 🟡 2 | **Calendar symbol audit** — verify Part 3 Menaion symbol preservation | ❌ Pending |
-| 🟡 3 | **Hieratic pronoun completeness audit** — scan for missed lowercase deity pronouns | ❌ Pending |
-| 🔵 4 | **Translation accuracy audit** — would require Ukrainian-literate reviewer | ❌ Pending |
-
----
-
-## Log of Key Decisions
+## 3. Key Compliance Decisions
 
 1. **Book Titles**: All liturgical book titles (*Tserkovne Oko*, *Sluzhebnik*, *Chasoslovets*) are treated as proper names and NOT translated.
-2. **Footnote misprints**: Publisher duplicate `^3` (Image 016) is anchored as `[^3a]` to maintain unique markdown keys while preserving physical placement.
+2. **Deity Capitalization**: Strict enforcement of capitalization for pronouns referring to God.
+3. **Edition Fidelity**: The source text is strictly the 2010 Lviv reprint. If the English translation deviated due to AI referencing an older or alternate edition, it was corrected to match the 2010 Ukrainian text.
+
+---
+
+## 4. Next Steps & Open Work
+
+1. **Semantic Translation Audit:** The primary remaining QA step is a human review of the translation accuracy.
+2. **Historical Fidelity Audit:** Validating Latin-derived terms (e.g., Monstrance, Dalmatic) against the Eastern liturgical context.
+3. **Publishing Pipeline:** Creating a Pandoc or LaTeX script to compile the final text files and footnotes into a finalized PDF or Word document for publication.
