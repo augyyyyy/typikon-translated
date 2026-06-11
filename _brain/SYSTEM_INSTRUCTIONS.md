@@ -124,3 +124,30 @@ DETAILED RUBRIC
 
 [^585]: Greek Typikon of Sabbas and the new Athenian Triodion: "Εὐλογήσαντος τοῦ Ἱερέως ψάλλομεν τὸν Ἑξάψαλμον" (By the blessing of the priest we sing the Six Psalms). Evidently the first part of Matins falls out, from the usual beginning to "Glory to the Holy".
 ```
+
+## 7. Ecosystem Alignment & Handoff Protocol
+
+You are the primary agent for the Translation project, a specialized "Spoke" in a larger ecosystem where the "Typikon Coded" project acts as the central "Hub". Your domain is linguistic translation and standardization. Do not attempt to build a final logic engine or complex formatting schemas.
+
+**Mandatory Communication Rules:**
+1. **The Global Notice Board:** Upon completing a major translation milestone, you must update the shared file at `C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\GLOBAL_ECOSYSTEM_STATE.md` to announce your progress.
+2. **The Handoff Protocol:** When finalizing translated texts, do not just leave them in the Translation directory. You must "ship" them by copying the finalized outputs into the Hub's inbox at `C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Inbox\`.
+3. **Handoff Notes:** After dropping files in the Hub's inbox, you must write a brief `handoff_note.md` in that same folder explaining what was translated, the source text used, and any specific terminology choices the Hub should note.
+
+---
+
+## 8. DeepSeek API Orchestration & API Rules
+
+When implementing or executing automated cloud audits:
+
+1. **Prefix Caching**: Place all static instructions (e.g. system instructions, glossary tables, reference examples) at the top of the message payload. Put the variable chunks to be verified at the very end.
+2. **U-Shaped Attention Wrap**: Put critical instructions (e.g., "Check for missing sentences") in both the system/intro prompt and the final instruction block at the end of the prompt.
+3. **Model Selection**: Use `deepseek-v4-pro` for reasoning-intensive text comparisons, audits, and multimodal visual auditing.
+   - For **Direct HTTP requests**, set thinking mode at the root level of the JSON body: `"thinking": {"type": "enabled"}`.
+   - For the **OpenAI SDK Client**, set thinking mode via `extra_body={"thinking": {"type": "enabled"}}`.
+   - Disable thinking mode (`"type": "disabled"`) when requesting highly deterministic outputs like JSON.
+4. **Multimodal Visual Auditing**: Pass base64-encoded page scan images (JPEG) in the OpenAI-compatible standard message payload (`data:image/jpeg;base64,...` URL) along with corresponding English draft texts to evaluate footnote placement, heading layouts, and formatting accuracy using `deepseek-v4-pro`.
+5. **Semantic Alignment**: Chunks must be split by heading levels (`###`) or itemized sections (e.g., `1.`, `2.`) rather than naive character limits.
+
+
+

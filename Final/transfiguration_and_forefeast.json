@@ -1,0 +1,184 @@
+{
+  "menaion": {
+    "august": {
+      "05": {
+        "title": "The Fore-feast of the Transfiguration of Our Lord Jesus Christ; The Holy Martyr Eusignius.",
+        "vespers": {
+          "lord_i_have_cried": {
+            "stichera_forefeast_tone_4_podoben": "You have given a sign...",
+            "stichera": [
+              "If You mark iniquities, Lord, who can stand?* But with You forgiveness is that You may be revered.\nCome, let us go up with Jesus who ascends the holy mountain,* and there let us listen to the voice of the living God,* the all-unoriginate Father, which through the divine Spirit* bears witness by a cloud to His true Sonship;* and, illumined in mind,* let us gaze upon Light amid light.",
+              "I have waited for You as You have commanded; my soul patiently relies on Your promise,* for it has trusted in the Lord.\nCome, let us dance beforehand, let us purify ourselves* and faithfully prepare for divine entry* into the dwelling-place of the transcendent God;* and let us receive the glory* which the forechosen apostles were vouchsafed* to behold mystically on Mount Tabor.",
+              "From the morning watch until night* let Israel trust in the Lord.\nCome, and, having transformed ourselves with a more exalted transformation,* let us prepare ourselves well for tomorrow,* to ascend the holy mountain of God,* beholding the glory of Christ which shines forth immutably, more brightly than the sun;* and, illumined with the light of the Trinity,* let us glorify His condescension therein."
+            ],
+            "stichera_martyr_tone_4_podoben": "As one valiant among the martyrs...",
+            "stichera_martyr": [
+              "For with the Lord there is mercy, and with Him there is plentiful redemption;* and He shall redeem Israel from all its iniquities.\nDyed in the blood of your flesh, O glorious one,* you clothed yourself in the purple robe of divine grace,* and placed upon your head the crown of life incorruptible.* And bearing the trophy of the Cross in the right hand as a sceptre, O most wise martyr,* you reign with Christ, ever rejoicing.",
+              "Praise the Lord, all the nations;* proclaim His glory, all you people.\nYou were recognized, O Eusignius, as an invincible warrior;* for, wielding the sword of the Cross,* you went forth to do battle with the adverse foe and cast him down,* contending splendidly and receiving the crown of victory* from the one Master and Judge of the contest,* who reigns forever.",
+              "Strong is the love of the Lord for us;* eternally will His truth endure.\nBy your honoured sufferings, O glorious athlete Eusignius,* you portrayed the honoured Passion: the symbol of victory* and now you dwell in the city on high,* rejoicing with all the martyrs* being deified by communion with the Godhead.* Therefore, we celebrate your honoured and holy festival."
+            ],
+            "glory_now": "Tone 5, Glory... Now...\nCome, let us ascend the mountain of the Lord* to the house of our God,* and let us gaze upon the glory of His transfiguration,* the glory of the Only-begotten of the Father.* Through light let us receive light;* and, exalted in the Spirit,* let us hymn the consubstantial Trinity forever."
+          },
+          "prokeimenon": {
+            "tone": "Tone 4",
+            "text": "The Lord hears me* when I cry out to Him.",
+            "verse": "Whenever I called, the God of my justice heard me."
+          },
+          "aposticha": {
+            "tone": "Tone 2, Podoben: O house of Ephratha...",
+            "stichera": [
+              "Illumined with the effulgence of the virtues,* let us proceed to the holy mountain,* that we may behold the divine transfiguration of the Lord.",
+              "Mercy and truth are met together, righteousness and peace have kissed each other.\nShining forth like the sun on the mountain today,* before undergoing His sufferings, Christ shows to the initiates of His mysteries* a divine sign of His divinity.",
+              "Blessed is the people that knows jubilation.\nDesiring to transform Adam’s nature,* Christ now ascends Mount Tabor,* that He might disclose His divinity* to the initiates of His mysteries."
+            ],
+            "glory_now": "Tone 2, Glory... Now...\nO Christ God who was transfigured in glory on Mount Tabor* and showed the glory of Your divinity to Your disciples:* illumine us also with the light of the knowledge of You,* and guide us to the path of Your commandments,* for You alone are good and love mankind."
+          },
+          "troparia": {
+            "tone": "Tone 4",
+            "text": "Faithful, let us celebrate in advance the joy of Christ’s Transfiguration!* Let us rejoice and cry out in the prefeast:* The day of heavenly joy is approaching,* for the Lord is ascending Mount Tabor* where He shines with the light of His Divinity!",
+            "glory_now": "Glory... Now...\nLet us poor sinners hasten with fervour to the Mother of God;* let us humbly kneel before her and say from the depth of our hearts:* O Lady, be kind to us and help us.* Hasten, for we are perishing under a multitude of sins.* Do not turn away your servants empty-handed,* for you are their only hope and protection."
+          }
+        },
+        "divine_liturgy": {
+          "troparia_and_kontakia": {
+            "troparion_1": "Tone 4: As the priceless beauty residing within the divine image of the tabernacle,* thus outwardly you manifested the holy glory of your temple O Lord.* Establish it for the ages of ages, and accept, through the prayers of the Theotokos, our supplications,* which we unceasingly offer to You, O Life and Resurrection of all.",
+            "troparion_2": "Tone 4: Faithful, let us celebrate in advance the joy of Christ’s Transfiguration!* Let us rejoice and cry out in the prefeast:* The day of heavenly joy is approaching,* for the Lord is ascending Mount Tabor* where He shines with the light of His Divinity!",
+            "glory": "Glory be to the Father and to the Son and to the Holy Spirit.",
+            "kontakion_1": "Tone 4: The Synaxis of the faithful in the Cathedral of the Resurrection,* shines as a multitude of stars in heavens,* and as we offer our prayers we exclaim:* “This is the house the Lord has made.”",
+            "now": "Now and forever and unto the ages of ages. Amen.",
+            "kontakion_2": "Tone 4: Today mankind prepares to reflect the radiance of divine splendour* wrought in the Transfiguration of Christ!* Crying joyfully: Christ is transfigured to save us all!"
+          },
+          "prokeimenon": {
+            "tone": "Tone 4",
+            "text": "Holiness befits Your house, O Lord, for length of days.",
+            "verse": "The Lord reigns! He is clothed in majesty!"
+          },
+          "alleluia": {
+            "tone": "Tone 2",
+            "verse_1": "His foundations are in the holy mountains.",
+            "verse_2": "Glorious things were said concerning you, O city of God."
+          },
+          "communion_hymn": "O Lord, I love the beauty of Your house,* and the place where Your glory dwells.* Alleluia, alleluia,* alleluia."
+        }
+      },
+      "06": {
+        "title": "The Holy Transfiguration of Our Lord, God and Saviour Jesus Christ.",
+        "great_vespers": {
+          "lord_i_have_cried": {
+            "tone": "Tone 4",
+            "stichera": [
+              "Out of the depths I cry to You, O Lord;* O Lord, hear my voice!\nO Lord, when You were transfigured before being crucified,* Mount Tabor was made to resemble heaven;* for a cloud was extended as a canopy,* and the Father bore witness to You.* Peter, James, and John were present there,* the same three apostles who were to be with You* at the time of the betrayal of Judas,* so that, having seen You in glory,* they would not be dismayed at the time of Your suffering.* Likewise, O Lord, make us worthy to recognize You as our God* in the same sufferings You endured in Your great mercy,* and to adore You.",
+              "Let Your ears be attentive* to the voice of my prayer.\nO Lord, when You were transfigured before being crucified,* Mount Tabor was made to resemble heaven;* for a cloud was extended as a canopy,* and the Father bore witness to You.* Peter, James, and John were present there,* the same three apostles who were to be with You* at the time of the betrayal of Judas,* so that, having seen You in glory,* they would not be dismayed at the time of Your suffering.* Likewise, O Lord, make us worthy to recognize You as our God* in the same sufferings You endured in Your great mercy,* and to adore You.",
+              "If You mark iniquities, Lord, who can stand?* But with You forgiveness is that You may be revered.\nO Lord, as a preparation to Your crucifixion,* You led some of Your disciples to a high mountain* and became transfigured before them,* enlightening them with the light of Your glory.* In this way, You showed the reality of the resurrection* You are to grant to us in Your love for mankind* and in Your almighty power as God.* Make us worthy of this resurrection, O God* for You are gracious and the Lover of mankind.",
+              "I have waited for You as You have commanded; my soul patiently relies on Your promise,* for it has trusted in the Lord.\nO Lord, as a preparation to Your crucifixion,* You led some of Your disciples to a high mountain* and became transfigured before them,* enlightening them with the light of Your glory.* In this way, You showed the reality of the resurrection* You are to grant to us in Your love for mankind* and in Your almighty power as God.* Make us worthy of this resurrection, O God* for You are gracious and the Lover of mankind.",
+              "From the morning watch until night* let Israel trust in the Lord.\nO Lord, when You were transfigured on a high mountain* in the presence of Your foremost disciples,* You radiated with glory,* showing how those who lead an outstanding life of virtue* will be made worthy of the glory of heaven.* Elijah and Moses, conversing with the Lord,* showed Him to be the Lord of the living and the dead,* God who spoke through the Law and the Prophets,* the same to whom the Father’s voice bore witness* out of the bright cloud, saying:* “Hear Him, for it is He, who through His Cross despoiled Hades* and granted eternal life to the dead.”",
+              "For with the Lord there is mercy, and with Him there is plentiful redemption;* and He shall redeem Israel from all its iniquities.\nO Lord, when You were transfigured on a high mountain* in the presence of Your foremost disciples,* You radiated with glory,* showing how those who lead an outstanding life of virtue* will be made worthy of the glory of heaven.* Elijah and Moses, conversing with the Lord,* showed Him to be the Lord of the living and the dead,* God who spoke through the Law and the Prophets,* the same to whom the Father’s voice bore witness* out of the bright cloud, saying:* “Hear Him, for it is He, who through His Cross despoiled Hades* and granted eternal life to the dead.”",
+              "Praise the Lord, all the nations;* proclaim His glory, all you people.\nIndeed, O Lord, the mountain that had been dark with smoke* today becomes honourable and holy because You stood on it.* The mystery hidden from the beginning of the world* becomes manifest in Your transfiguration before Peter, James and John.* They fell with their faces to the ground,* unable as they were to bear the light of Your countenance* and the splendour of Your clothing.* A further marvel was the vision of Moses and Elijah,* conversing with You on Your future,* and the voice of the Father bearing witness and saying:* “This is My beloved Son in whom I am well pleased. Hear Him!* He is the One who will convey great mercy upon the world.”",
+              "Strong is the love of the Lord for us;* eternally will His truth endure.\nIndeed, O Lord, the mountain that had been dark with smoke* today becomes honourable and holy because You stood on it.* The mystery hidden from the beginning of the world* becomes manifest in Your transfiguration before Peter, James and John.* They fell with their faces to the ground,* unable as they were to bear the light of Your countenance* and the splendour of Your clothing.* A further marvel was the vision of Moses and Elijah,* conversing with You on Your future,* and the voice of the Father bearing witness and saying:* “This is My beloved Son in whom I am well pleased. Hear Him!* He is the One who will convey great mercy upon the world.”"
+            ],
+            "glory_now": "Tone 6, Glory... Now...\nO Christ our God, when You willed to prefigure Your resurrection,* You chose three disciples, Peter, James, and John;* and You went up with them to Mount Tabor.* At the moment of Your Transfiguration, O Saviour,* the mountain was flooded with light,* and Your disciples fell with their faces to the ground;* for they could not bear the sight of Your countenance* upon which no one may gaze, O Word.* Angels attended with trembling and awe;* the heavens were afraid;* and the earth shook to its very foundations* when they saw the Lord of glory come upon the earth."
+          },
+          "prokeimenon": {
+            "tone": "Tone 1",
+            "text": "Your mercy, O Lord, shall follow me* all the days of my life.",
+            "verse": "The Lord is my shepherd, I shall not want. In green pastures He gives me repose."
+          },
+          "lytia": {
+            "tone": "Tone 2",
+            "stichera": [
+              "O God of goodness, Your light has sanctified the whole universe,* and You were transfigured on the high mountain,* revealing Your power to Your disciples.* You have redeemed the world from sin.* Therefore, we cry out to You:* “O Lord of mercy, save our souls!”",
+              "You were transfigured in glory on Mount Tabor, O Christ our God,* and You showed Your disciples the glory of Your divinity.* Now also pour out the light of Your knowledge upon us* and, in Your goodness and Your love for all of us,* guide us in the way of Your divine commandments.",
+              "Christ, the light that shone before the sun,* dwelt on earth in a human form.* Wishing to fulfil the divine work of salvation before His Cross,* today He mystically reveals the image of the Trinity on Mount Tabor.* He took aside His three chosen disciples, Peter, James, and John;* and for a short time He concealed His incarnation.* He was transfigured before them,* manifesting the splendour of the original beauty.* By this He strengthened them in their faith;* yet He spared them from losing their life at the sight,* and so their eyes saw only as much as they could behold.* He also called upon Moses and Elijah,* the most venerable of the prophets,* to witness to His divinity,* testifying that He is indeed the reflection of the Father,* the Lord of the living and the dead.* A cloud also enveloped them as a tent,* and the voice of the Father bore witness on high, saying:* “This is My beloved Son; hear Him!* I have begotten Him before the daystar in a virginal manner;* I have sent Him to save those baptized in the Father, Son, and Holy Spirit,* those who confess in faith that the power of the divinity is one and indivisible.”* O Christ our God, You love all mankind;* make us shine in the brightness of Your inaccessible glory;* and in Your supreme goodness,* make us worthy to inherit Your never-ending Kingdom."
+            ],
+            "glory": "Tone 5, Glory...\nCome, let us ascend the mountain of the Lord* and go into the house of our God.* Let us contemplate the glory of His Transfiguration,* the glory of the only-begotten Son of God the Father.* From His light, let us receive light;* and raised up by the Holy Spirit,* let us sing the praises of the consubstantial Trinity forever.",
+            "now": "Now...\nMoses who saw God, and Elijah who was taken up in the flaming chariot,* contemplated You in the cloud, O Christ our God;* for You are the author of the Law and the fulfilment of the Prophets.* They were witnesses of Your Transfiguration.* With them make us worthy of that same brightness,* that we may sing Your praises forever, O Lord."
+          },
+          "aposticha": {
+            "tone": "Tone 1",
+            "stichera": [
+              "He who mysteriously spoke to Moses on Mount Sinai* and said: “I Am Who Am,”* today manifests Himself to His disciples on Mount Tabor* and reveals through His person* that human nature was re-established in its original splendour.* As witnesses to this grace and partakers of this joy,* He raised up Moses and Elijah,* the forerunners of the glorious and saving Resurrection* made possible by the Cross of Christ.",
+              "The heavens are Yours, the world is Yours. You founded the earth and all it holds.\nWhen David, the forefather of the Lord,* foresaw in spirit Your coming in the flesh,* he invited the whole creation to rejoice,* crying out prophetically:* O Saviour, Tabor and Hermon shall rejoice in Your name,* for indeed You ascended the mountain with Your disciples.* Through Your Transfiguration* You returned Adam’s nature to its original splendour,* restoring its very elements to the glory and brilliance of Your divinity.* Therefore, we cry out to You:* O Creator of all, glory to You!",
+              "Tabor and Hermon shout with joy at Your name.\nO Christ without a beginning,* when on the Mount of the Transfiguration,* Your disciples saw the Light that was Yours* and Your unapproachable divinity,* they were rapt in amazement and completely changed.* They were enrobed in a radiant cloud,* and they heard the Father’s voice* confirming the mystery of Your incarnation;* for even after coming in the flesh,* You remained the only-begotten Son and the Saviour of all."
+            ],
+            "glory_now": "Tone 6, Glory... Now...\nO Lord, today on Mount Tabor,* You have manifested the glory of Your divinity* to Your chosen disciples, Peter, James, and John;* they saw Your clothing radiant as light* and Your face more brilliant than the sun.* Unable to bear Your overwhelming radiance or look upon You,* they fell to the ground* and heard a voice bearing witness from heaven:* “This is My beloved Son who came into the world to save His people.”"
+          },
+          "troparion": {
+            "tone": "Tone 7",
+            "text": "You were transfigured on the mount, O Christ God,* showing Your glory to Your disciples as much as they could bear.* Make Your eternal light shine* also on us who are sinners,* through the prayers of the Mother of God* O Giver of Light, glory to You!"
+          }
+        },
+        "matins": {
+          "sessional_hymn_1": {
+            "tone": "Tone 4",
+            "text": "Showing the change that mortals will undergo, O Lord,* when they enter your glory at your second and awesome coming,* You were transfigured on Mount Tabor.* Elijah and Moses conversed with You;* and seeing your glory, the three disciples whom You had chosen* were struck with your splendour, O Lord.* As You covered them with your brightness,* also send your light upon our souls."
+          },
+          "sessional_hymn_2": {
+            "tone": "Tone 4",
+            "text": "You were transfigured on Mount Tabor, O Jesus;* a bright cloud covered your apostles with your glory as with a tent, O Lord.* They cast their faces to the ground,* unable to gaze upon the inaccessible glory of your resplendent face,* O Christ our God and eternal Saviour.* As You covered them with your brightness,* also send your light upon our souls."
+          },
+          "polyeleos_exaltation": "We extol You,* O Christ the Source of life,* and we venerate the holy Transfiguration* of your most pure flesh.",
+          "sessional_hymn_after_polyeleos": {
+            "tone": "Tone 4",
+            "text": "When You went up to the mountain with your disciples, O Lord,* and You were resplendent with the glory of the Father,* Elijah and Moses stood there with You;* for the Law and the Prophets serve You as God.* The Father attested to your divine filiation and called You his beloved Son.* With You we praise Him in the unity of the Holy Spirit.",
+            "glory_now": "Tone 8, Glory... Now...\nThrough the splendour hidden under the flesh of your nature,* You showed the disciples the splendour of your divine beauty on Mount Tabor.* Thus You enlightened the disciples who were with You, O Christ our Benefactor.* Realizing that your beauty was unbearable, they cried out: Holy are You!* For You are the One whom no one can approach;* yet the world has seen You in the flesh.* And You alone are the Lover of Mankind."
+          },
+          "prokeimenon": {
+            "tone": "Tone 4",
+            "text": "Tabor and Hermon shout with joy at your name.",
+            "verse": "The heavens are yours; the world is yours."
+          },
+          "after_psalm_50": {
+            "tone": "Tone 2",
+            "text_glory": "Today the whole world is filled with joy,* for Christ is transfigured before his disciples on Mount Tabor.",
+            "text_now": "Today the whole world is filled with joy,* for Christ is transfigured before his disciples on Mount Tabor.",
+            "sticheron": "Tone 5\nHaving revealed a small ray of your divinity* to those who climbed the mountain with You, O Saviour,* You made them partakers of your boundless glory.* Therefore, they cried out in awe to You:* It is good for us to be here.* Together with them, we shall forever praise You, O Christ our Saviour,* who was transfigured for us."
+          },
+          "canon": {
+            "odes": {
+              "ode_1": "Irmos: When Israel walked upon the deep sea as upon dry land...",
+              "ode_3": "Irmos: The weak have clothed themselves with strength...",
+              "ode_4": "Irmos: O Christ our God, your wondrous plan of salvation has been revealed to me...",
+              "ode_5": "Irmos: In the beginning You, as their Creator, separated the light from the darkness...",
+              "ode_6": "Irmos: When beset with trials, I called to the Lord...",
+              "ode_7": "Irmos: The three youths of Babylon, who were sons of Abraham...",
+              "ode_8": "Irmos: Zealously aflame with love of God, the three youths courageously conquered...",
+              "ode_9": "Irmos: You gave birth without blemish; for it was God who came forth from your womb..."
+            }
+          },
+          "hymn_of_light": {
+            "tone": "Tone 2",
+            "text": "O Word and unchangeable Light,* O Light of the Unbegotten Father,* today we see in your light on Tabor* the light of the Father and the light of the Spirit* which gives light to the whole world."
+          },
+          "praises": {
+            "tone": "Tone 4",
+            "stichera": [
+              "Before your noble suffering and cross, O Master,* You took your chosen apostles to Mount Tabor,* showing them your glory.* When they saw You transfigured and more brilliant than the sun,* they fell to the ground and cried out:* You are the eternal Light and the radiance of the Father;* and although unchanged, You appear in the flesh.",
+              "Before your noble suffering and cross, O Master,* You took your chosen apostles to Mount Tabor,* showing them your glory.* When they saw You transfigured and more brilliant than the sun,* they fell to the ground and cried out:* You are the eternal Light and the radiance of the Father;* and although unchanged, You appear in the flesh.",
+              "O God the Word, You are from all eternity,* and You are clothed with light as with a robe.* Transfigured before your disciples, You shone more brightly than the sun.* Moses and Elijah stood at your side* revealing You as Lord of the living and the dead.* They glorified your ineffable work of salvation,* your mercy, and great compassion,* by which You saved the world which was lost in sin.",
+              "You were born of a virginal cloud and became flesh* and were transfigured on Mount Tabor, O Lord.* A bright cloud surrounded You;* the voice of the Father clearly told the disciples that You are his beloved Son,* for You are the same essence as He and You share his throne.* At this sight, Peter spoke with wonder and said:* is good for us to be here.* He did not realize what he said, O most merciful Benefactor."
+            ],
+            "glory_now": "Tone 8, Glory... Now...\nChrist took his disciples, Peter, James, and John,* and was transfigured on a high mountain in their presence.* His face became as bright as the sun,* and his garments were whiter than the snow.* Moses and Elijah appeared and spoke with Him,* and a bright cloud came over them;* a voice was heard from the clouds, saying:* This is my beloved Son in whom I am well pleased. Hear Him!"
+          }
+        },
+        "divine_liturgy": {
+          "troparia_and_kontakia": {
+            "troparion": "Tone 7: You were transfigured on the mount, O Christ God,* showing Your glory to Your disciples as much as they could bear.* Make Your eternal light shine* also on us who are sinners,* through the prayers of the Mother of God,* O Giver of Light, glory to You!",
+            "glory_now": "Glory be to the Father and to the Son and to the Holy Spirit, now and forever and unto the ages of ages. Amen.",
+            "kontakion": "Tone 7: You were transfigured on the mount, O Christ God,* and Your disciples saw Your glory as much as they could;* that when they saw You crucified* they might know that You suffered willingly*, and might proclaim to the world* that You are truly the brightness of the Father."
+          },
+          "prokeimenon": {
+            "tone": "Tone 4",
+            "text": "How great are Your works, O Lord, You have made all things in wisdom.",
+            "verse": "Bless the Lord, O my soul; O Lord, my God, You are exceedingly great."
+          },
+          "alleluia": {
+            "tone": "Tone 8",
+            "verse_1": "Yours are the heavens, and Yours the earth.",
+            "verse_2": "Blessed are the people who know the festal shout, they will walk in the light of Your countenance, O Lord."
+          },
+          "communion_hymn": "We will walk in the light of Your face, O Lord,* and rejoice in Your name forever.* Alleluia, alleluia,* alleluia."
+        }
+      }
+    }
+  }
+}

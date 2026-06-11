@@ -6,7 +6,7 @@ Checks every known liturgical term for variant forms.
 import os, re, sys, json
 sys.stdout.reconfigure(encoding='utf-8')
 
-final_dir = r'e:\Google Antigravity\Projects\Translation\Final'
+final_dir = r'c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Translation\Final'
 
 checks = [
     # --- Church Eye / Tserkovne Oko ---

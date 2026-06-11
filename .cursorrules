@@ -1,0 +1,24 @@
+# Translation — Project Rules & Liturgical Translation Guidelines
+
+> [!IMPORTANT]
+> **GLOBAL SYSTEM STANDARDS INHERITANCE**
+> Before starting work, you MUST read and comply with the central global system standards (covering compliance protocols, key loaders, DeepSeek V4 API optimizations, and general code safety) defined in the parent root file:
+> [GLOBAL_SYSTEM_RULES.md](file:///C:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/GLOBAL_SYSTEM_RULES.md)
+
+---
+
+## ⛔ DOMAIN-SPECIFIC TRANSLATION RULES
+
+### 1. Logical & Semantic Chunking Engine
+Naive character-based chunking splits paragraphs arbitrarily and breaks semantic context, causing false positives and alignment mismatches.
+* **Parse by Headings/Numbered Items**: Split files dynamically by logical boundary tags such as:
+  * Chapter headers (`###`)
+  * Roman numeral points (`I.`, `II.`, `III.`)
+  * Arabic numeral bullet lists (`1.`, `2.`, `3.`)
+* **Anchor-Based Alignment**: Align English and Ukrainian chunks by matching these structural keys (e.g. comparing Ukrainian paragraph `1.` directly with English paragraph `1.`) rather than assuming `zip()` alignment.
+* **Context Window Safety**: If a single section exceeds 15,000 characters, subdivide it only at sentence boundaries (`. `, `? `, `! ` followed by a space), never in the middle of a paragraph.
+
+### 2. Liturgical Translation & Glossary Guardrails
+* **Hieratic Pronouns**: Divine addresses must be translated as "Thee," "Thou," "Thy," "Thine," etc., or follow local parish custom. Ensure pronoun capitalization rules are strictly checked (e.g. He, Him, His for the Deity).
+* **Master Glossary Terms**: Ensure the canonical English terms in `SYSTEM_INSTRUCTIONS.md` are used, with zero tolerance for forbidden variants (e.g., *Sluzhebnik* must not be translated as generic "Service Book" when standalone).
+* **Gold Standard Compliance**: Reference the gold standard examples for detailed rubrics and footnote placements.

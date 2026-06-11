@@ -74,7 +74,8 @@ NOVEMBER
 •	25 NOVEMBER: Apodosis of the Entry of the Most Holy Theotokos
 DECEMBER
 •	9 DECEMBER: Immaculate Conception of the Most Holy Theotokos
-•	RULE CONCERNING THE RECURRING GOSPELS OF THE LAST FIVE SUNDAYS
+•	RULE
+•	CONCERNING THE RECURRING GOSPELS OF THE LAST FIVE SUNDAYS
 •	SUNDAY OF THE HOLY FOREFATHERS
 •	Saturday before the Nativity of Christ
 •	SUNDAY OF THE HOLY FATHERS BEFORE THE NATIVITY OF CHRIST
@@ -140,7 +141,6 @@ AUGUST
 •	31 AUGUST: Deposition of the Sash of the Most Holy Theotokos
 ________________________________________
 PART IV
-RUBRICS OF THE TRIODION
 •	SUNDAY OF THE PUBLICAN AND THE PHARISEE
 •	SUNDAY OF THE PRODIGAL SON
 •	MEATFARE, OR MEMORIAL SATURDAY
@@ -148,7 +148,7 @@ RUBRICS OF THE TRIODION
 •	CHEESEFARE WEEK
 •	CHEESEFARE SUNDAY
 •	BEGINNING OF THE GREAT FAST
-•	VESPERS ON WEDNESDAY AND FRIDAY WITH THE PRESANCTIFIED [GIFTS]
+•	VESPERS ON WEDNESDAY AND FRIDAY WITH THE PRESANCTIFIED
 •	FIRST SATURDAY OF THE GREAT FAST
 •	FIRST SUNDAY OF THE GREAT FAST
 •	SATURDAY OF THE SECOND WEEK OF THE GREAT FAST
@@ -221,7 +221,7 @@ In recent years, the decline of ritual discipline has been felt especially keenl
 The long-time rector of one such institution, the Ukrainian Papal College of St. Josaphat, Fr. Dr. Sofron Mudry, OSBM, inspired by the danger of losing ritual identity, initiated the realization of a new edition of Fr. Dolnytsky's Typikon, as the previous edition had long been out of print, yet the Typikon itself had not lost its practical significance. The language of the original, Church Slavonic, is already little understood today, so there was a palpable need for a translation of the Typikon into the modern Ukrainian language.
 At the initiative of Fr. Dr. S. Mudry in 1979, the then spiritual director of the College of St. Josaphat, Fr. Rodion Holovatsky, OSBM, began purposeful work on the translation of the Typikon, which was interrupted by the sudden death of the Spiritual Father in July 1985. The translation, which was carried out with strict adherence to the original text, without any changes, was completed in its editing phase in 1992. Participating in the work on the translation were Fr. Dr. Parteniy Pavlyk (translation of Greek texts), Fr. Dorotey Shymchiy (notes), and Fr. Josaphat Romanyk (Part 2).
 The final editing of the translation was reviewed by a commission composed of: Fr. Dr. Severian Yakymyshyn, consultor of the Liturgical Commission at the Congregation for the Eastern Churches; Fr. Dr. Porfiriy Pidruchny; and Fr. Mgr. Mykhailo Havryliv. By the decision of the commission, the "Rule of Divine Services" (Ustav bohosluzhen'), approved by the Apostolic See in 1944 and first published in the Ukrainian language in 1958, which replaced the first part of the Typikon, i. e., "General View of Divine Services," is added to the translation of the Typikon. However, this first part does not lose its significance as a valuable historical source of the development of the rite. We also note in which points the Typikon of Fr. Dolnytsky has lost its relevance today:
-1.	Liturgical prescriptions of Part 1 of Fr. Dolnytsky's Typikon, taken from the "Appendix" of the Lviv Synod published in 1896, are valid today only insofar as they agree with the Roman "Order of Divine Services" (Ordo Celebrationis), or explain or supplement it in some way.
+1.	Liturgical prescriptions of Part 1 of Fr. Dolnytsky's Typikon, taken from the "Appendix" of the Lviv Synod published in 1896, are valid today only insofar as they agree with the Roman "Rule of Divine Services", or explain or supplement it in some way.
 2.	Rubrics concerning various fasts, given by Fr. Dolnytsky's Typikon, are no longer valid today, because in 1966 the Episcopate of the UCC, under the leadership of Major Archbishop and Cardinal Josyf Slipyj, issued new norms in which they obliged all clergy, monastics, and faithful in conscience to observe the fast, namely:
 a) On all Fridays of the entire year, with the exception of compact weeks (zahalnytsia) and occurring Feasts of the Lord and the Theotokos - abstinence from meat;
 b) On the first day of the Great Fast and on Good Friday - abstinence from meat and dairy foods;

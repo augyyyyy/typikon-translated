@@ -6,7 +6,7 @@ Checks every mandate from 'system instructions typikon.txt' in one pass.
 import os, re, sys
 sys.stdout.reconfigure(encoding='utf-8')
 
-final_dir = r'e:\Google Antigravity\Projects\Translation\Final'
+final_dir = r'c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Translation\Final'
 
 # Load all text once
 corpus = {}
@@ -105,7 +105,7 @@ glossary_checks = [
     ]),
     # Gradual (for Stepenna)
     ("Gradual", r'\bGradual\b', [
-        ("Stepenna", r'\bStepenna\b'),
+        ("Stepenna", r'\b(?<!\[\*)Stepenna(?!\*\])\b'),
     ]),
     # Tone (for Hlas)
     ("Tone", r'\bTone\b', [

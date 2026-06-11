@@ -89,11 +89,11 @@ HIERATIC PRONOUN AUDIT — REFINED RESULTS
   Final_Dolnytsky_appendix.txt:L543 [he]
     simultaneously the censer, stands before the holy table, looking to the east and, making the sign of the cross, exclaims: "Wisdom, arise." After this he turns to the west, towards 
 
-  Final_Dolnytsky_part1_structure.txt:L160 [his]
-    oceeds between two candle-bearers to the Holy Doors and exclaims from the Holy Doors facing the people: 'Peace be unto all,' blessing the people with his right hand in the form of 
+  Final_Dolnytsky_part1_structure.txt:L38 [he]
+    upper prosphora with his right hand and begins to sing the prayer of blessing 'O Lord Jesus Christ'; when he exclaims: 'Thyself bless now, O Master,' he places the upper prosphora 
 
-  Final_Dolnytsky_part1_structure.txt:L252 [he]
-    con sings very loudly: "The Theotokos and Mother of the Light let us magnify in songs," and "More honorable" is recited (read, or sung); if not, then he sings the beginning of the 
+  Final_Dolnytsky_part1_structure.txt:L159 [his]
+    oceeds between two candle-bearers to the Holy Doors and exclaims from the Holy Doors facing the people: 'Peace be unto all,' blessing the people with his right hand in the form of 
 
   Final_Dolnytsky_part2_general_rubrics.txt:L361 [who]
     Antiphons Sunday. On "Come, let us worship", if you wish, to "Save us, O Son of God" add the refrain: "Through the prayers of the Theotokos, who sing to Thee, Alleluia"[^192]. Sund
@@ -291,9 +291,9 @@ HIERATIC PRONOUN AUDIT — REFINED RESULTS
     simultaneously the censer, stands before the holy table, looking to the east and, making the sign of the cross, exclaims: "Wisdom, arise." After this he turns to the west, towards 
 
 
-✅ LIKELY FALSE POSITIVES (human referent, lowercase correct): 365
+✅ LIKELY FALSE POSITIVES (human referent, lowercase correct): 366
    (not shown — these are references to priests, deacons, saints, etc.)
 
 ================================================================================
-SUMMARY: 5 violations | 90 ambiguous | 365 OK
+SUMMARY: 5 violations | 90 ambiguous | 366 OK
 ================================================================================

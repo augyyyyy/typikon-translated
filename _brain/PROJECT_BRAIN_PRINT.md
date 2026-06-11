@@ -21,11 +21,8 @@ This is a **scholarly translation pipeline project** — not a software applicat
 | **Data Format** | Plain `.txt` (deliverables), `.md` (metadata/audit), `.json` (footnote mapping), `.py` (scripts) | No databases, no ORMs |
 | **Source Materials** | `.pdf` (6 files), `.jpg` (287 page scans), `.txt` (8 OCR extractions) | Non-code assets |
 | **Build/CI** | None | Manual script execution; no automated pipelines |
-| **Dependencies** | Python stdlib only (re, os, json, collections) | No `requirements.txt`, no third-party packages |
-| **Version Control** | Not detected | No `.git` directory found |
-
-> [!WARNING]
-> **No version control is active.** There is no `.git` directory. The `scratch/` intermediates and `_brain/` decision log serve as informal provenance, but there is no rollback capability. This is the single highest-risk architectural gap.
+| **Dependencies** | Python stdlib, `openai`, `requests` | External cloud APIs (DeepSeek V4) for audits and verification |
+| **Version Control** | Git | Initialized local git repository for revision tracking |
 
 ### 1.2 Directory Structure & Purpose
 
