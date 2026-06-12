@@ -1,22 +1,26 @@
 # File Map — Complete Project Inventory
 
-All files in `E:\Google Antigravity\Projects\Translation\` with descriptions and roles.
+All files in `C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Translation\` with descriptions and roles.
 
 ---
 
 ## Final Files (Production — The Deliverables)
 
+The official deliverables have been converted to Markdown (`.md`) format and are hosted directly in the downstream consumer project:
+`C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon\`
+
 | File | Size | Content |
 |---|---|---|
-| `Final/Final_Dolnytsky_intro.txt` | 16 KB | Introduction and translator's preface |
-| `Final/Final_Dolnytsky_part1_structure.txt` | 82 KB | Part I: Structure of Divine Services |
-| `Final/Final_Dolnytsky_part2_general_rubrics.txt` | 143 KB | Part II: General Rubrics |
-| `Final/Final_Dolnytsky_part3_menaion.txt` | 310 KB | Part III: Individual Rubrics for the Menaion (largest file) |
-| `Final/Final_Dolnytsky_part4_triodion.txt` | 265 KB | Part IV: Triodion Rubrics |
-| `Final/Final_Dolnytsky_part5_temple.txt` | 121 KB | Part V: Temple Rubrics + Calendar/Menologion |
-| `Final/Final_Dolnytsky_appendix.txt` | 304 KB | Appendix with liturgical tables |
-| `Final/Final_footnotes.txt` | 371 KB | Master footnote corpus (785 definitions) |
-| `Final/vocabulary_standardization_matrix.md` | 11 KB | Terminology audit verdicts (25 drift groups) |
+| `Final_Dolnytsky_intro.md` | 16 KB | Introduction and translator's preface |
+| `Final_Dolnytsky_part1_structure.md` | 68 KB | Part I: Structure of Divine Services |
+| `Final_Dolnytsky_part2_general_rubrics.md` | 83 KB | Part II: General Rubrics |
+| `Final_Dolnytsky_part3_menaion.md` | 320 KB | Part III: Individual Rubrics for the Menaion |
+| `Final_Dolnytsky_part4_triodion.md` | 204 KB | Part IV: Triodion Rubrics |
+| `Final_Dolnytsky_part5_temple.md` | 84 KB | Part V: Temple Rubrics + Calendar/Menologion |
+| `Final_Dolnytsky_appendix.md` | 172 KB | Appendix with liturgical tables |
+| `Final_footnotes.md` | 370 KB | Master footnote corpus (785 definitions) |
+| `vocabulary_standardization_matrix.md` | 11 KB | Terminology audit verdicts (25 drift groups) |
+
 
 ## Primary Source Materials
 
