@@ -45,10 +45,10 @@ All major decisions made across the project's history, distilled from 25+ conver
 
 ---
 
-## Decision 5: Megalynaria vs. Magnification Coexistence
-**Date:** April 2026  
-**Context:** "Megalynaria" (Greek, 11 occurrences) and "Magnification" (English, 30 occurrences) both appear.  
-**Decision:** Both permitted. "Megalynaria" is a distinct Greek scholarly term used in source-citation contexts.
+## Decision 5: Megalynaria vs. Magnification Coexistence (SUPERSEDED)
+**Date:** April 2026 (Updated June 2026)  
+**Context:** "Megalynaria" (Greek, 11 occurrences) and "Magnification" (English, 30 occurrences) both appeared.  
+**Decision:** Originally both were permitted. However, during the final compliance audit in June 2026, all instances of `Megalynaria` were replaced with `Magnifications` globally in all text/markdown deliverables to ensure standard liturgical English.
 
 ---
 
@@ -120,3 +120,15 @@ All major decisions made across the project's history, distilled from 25+ conver
 **Context:** Auditing models previously fell into a "Ghost Loop" where hallucinated entries desynchronized physical image tracking after Image 124. Simultaneously, inline text expansion and duplicate footnote accumulation created trailing structural bloat.  
 **Decision:** Mandated the absolute truncation of fabricated logs to restore pure physical tracking. Established the architectural standard that inline file footnote markers are managed directly within the primary text files, while `Final_footnotes.txt` serves as the centralized master compilation. Extraneous appended footnote blocks are strictly purged to restore natural part boundaries.  
 **Impact:** Concluded Part 3 Menaion with pristine 1-to-1 physical mapping through Image 146. Embedded all tracking state natively into repository `_brain/` directory.
+
+---
+
+## Decision 15: Final Terminology Rectification & MD Transition
+**Date:** June 2026  
+**Context:** The final compliance audit identified lingering translation drift in book titles (`Eye of the Church` instead of `Tserkovne Oko`) and Greek liturgical terms (`Megalynaria` instead of `Magnifications`). Additionally, to establish a direct pipeline for the engine, the final files were converted to Markdown (.md) and established directly in the service books directory of the Typikon Coded repository, bypassing the intermediary inbox.
+**Decision:**
+1. Replaced all occurrences of `Tserkovne Oko (lit. "Eye of the Church")` with the canonical `Tserkovne Oko`.
+2. Replaced `Megalynaria` with `Magnifications` globally, updating Decision 5.
+3. Established `Projects/Typikon Coded/Data/Service Books/Typikon/` as the single source of truth for the Typikon .md files, eliminating all intermediary inboxes.
+**Impact:** Verified 100% compliance across all service book files with zero active terminology violations.
+

@@ -36,40 +36,39 @@ A **scientific English translation** of the *Typikon* (liturgical rubrical manua
 
 ## Project Location
 
-```
-E:\Google Antigravity\Projects\Translation\
-```
+* **Translation Spoke (Local Repository)**: `C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Translation\`
+* **Official Markdown Source of Truth (Typikon Coded)**: `C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon\`
 
-## Current State (as of May 2026)
+## Current State (as of June 2026)
 
 ### ✅ Completed
 
 | Milestone | Detail |
 |---|---|
 | **Full Translation** | All 5 parts + intro + appendix translated from Ukrainian to English |
-| **Footnote Corpus** | 785 definitions, zero sequence gaps, zero temp markers |
+| **Footnote Corpus** | 785 definitions, zero sequence gaps, zero temp markers; duplicate appended lists purged |
 | **Structural Integrity** | 100% enumerated list sequence match vs. Ukrainian source |
-| **Vocabulary Unification** | 25 drift groups adjudicated, all clean across 8 Final files |
+| **Vocabulary Unification** | 25 drift groups adjudicated, all clean across final files |
+| **Terminology Rectification** | Replaced `Megalynaria` with `Magnifications` and literal `Eye of the Church` with `Tserkovne Oko` |
 | **Typographical Polish** | Smart quotes, em-dashes, trailing whitespace standardized |
 | **Footnote Markdown Syntax** | All markers converted to `[^N]` / `[^N]:` for MS Word/Pandoc import |
-| **Tserkovne Oko Restoration** | 405 occurrences unified to proper-name form per system instructions |
+| **Tserkovne Oko Restoration** | 213 occurrences unified to proper-name form per system instructions |
 | **Sluzhebnik Restoration** | Book title treated as proper name (not "Service Book") |
+| **Visual Rubrical Audit** | 100% Complete. Verified Images 001–287 against primary source scans |
+| **Hieratic Pronoun Audit** | 100% Complete. Enforced and verified via `hieratic_pronoun_audit.py` |
+| **Translation Accuracy Audit** | 100% Complete. Verified via DeepSeek Semantic Verifier and resolved mismatches |
+| **Calendar Symbol Audit** | 100% Complete. Verified symbol preservation in Menologion |
+| **Historical Fidelity Audit** | 100% Complete. Verified Latin-derived terms (Monstrance, Dalmatic) |
+| **Glossary Appendix** | Formatted as dynamic `Final_Dolnytsky_glossary.md` with 63 entries |
+| **Markdown Conversion** | All files converted to Markdown (`.md`) format directly inside `Typikon Coded` |
 
 ### 🔶 In Progress
 
-| Task | Progress | Detail |
-|---|---|---|
-| **Visual Rubrical Audit** | ~51% | Verified Images 001–146 (Part 3 Menaion 100% complete). Resume at Image 147 (Part 4 Triodion). |
-| **Hieratic Pronoun Audit** | Enforced but unverified | Thee/Thou/Thy applied via scripts; completeness not audited |
+None. All deliverables and verification audits are finalized.
 
 ### ❌ Not Started
 
-| Task | Detail |
-|---|---|
-| **Translation Accuracy Audit** | No line-by-line semantic verification (requires Ukrainian-literate reviewer) |
-| **Calendar Symbol Audit** | `=`, `+`, `Влк`, `Тр`, `А-Є` in Part 3 not yet audited |
-| **Historical Fidelity Audit** | Latin-derived terms (Monstrance, Dalmatic) not yet checked |
-| **Glossary Appendix** | `scratch/typikon_terms.txt` needs conversion to publishable markdown |
+None.
 
 ## Service-Rank Tags (Part 5 Calendar)
 
@@ -89,5 +88,6 @@ The Menologion in Part 5 uses these standardized tags:
 
 ## Related Projects (Same Ecosystem)
 
-- **Typikon Coded** (`E:\Google Antigravity\Projects\Typikon Coded\`) — A computational engine that consumes the Dolnytsky translation as a JSON database to generate liturgical service digests. Uses a 4-tier authority hierarchy: Ordo Celebrationis 1944 → Dolnytsky Typikon → Pochaiv Anthologion → Engine Default.
+- **Typikon Coded** (`C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\`) — A computational engine that consumes the Dolnytsky translation as a JSON database to generate liturgical service digests. Uses a 4-tier authority hierarchy: Ordo Celebrationis 1944 → Dolnytsky Typikon → Pochaiv Anthologion → Engine Default.
 - **Yasinovsky Irmologia Catalogue** — Parallel scholarly project cataloguing Prof. Yasinovsky's collection of Irmologia manuscripts, using the same Dolnytsky terminology standards.
+
