@@ -16,3 +16,7 @@ __pycache__/
 scratch/CLEANED_RAW_*
 scratch/STITCHED_*
 scratch/temp_*
+
+# Ignore Windows Desktop customization files
+desktop.ini
+[Dd]esktop.ini
