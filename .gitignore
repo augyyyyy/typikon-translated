@@ -20,3 +20,38 @@ scratch/temp_*
 # Ignore Windows Desktop customization files
 desktop.ini
 [Dd]esktop.ini
+
+# Page extractions and temporary vision files
+scratch/*.png
+scratch/*.jpg
+scratch/*.jpeg
+scratch/*.pdf
+
+# Python Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+lib/
+pip-selfcheck.json
+
+# Editor folders
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Temporary audit reports and log baselines
+scratch/*_report*
+scratch/reports/
+Audit_Reports/Test_*
+*.log
+
+# Backups and temporary files
+*.bak
+*.tmp
+*.temp
+*~
