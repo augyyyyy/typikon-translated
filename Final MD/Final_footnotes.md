@@ -1,4 +1,5 @@
-## 6.4 Footnotes
+# FOOTNOTES AND SCHOLARLY COMMENTARY
+*(Master footnote registry for the Dolnytsky Typikon translation corpus)*
 
 [^1]: Title of the original text: "Typikon of the Ruthenian Catholic Church." "Ruthenian" is the ancient name for Ukrainians.
 [^2]: Excerpt from Appendix XXXI.
