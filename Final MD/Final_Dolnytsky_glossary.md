@@ -1,4 +1,4 @@
-# 6.3 Glossary and Liturgical Terminology Commentary
+# Glossary and Liturgical Terminology Commentary
 This appendix compiles and organizes the extensive historical, theological, and rubrical commentary from the footnotes and structural notes of the Dolnytsky Typikon translation. It serves as an authoritative reference for scholars and translators studying the Kyivan and Byzantine-Ruthenian liturgical traditions.
 
 ## Table of Contents
@@ -17,7 +17,7 @@ This appendix compiles and organizes the extensive historical, theological, and 
 - [Exaltation of the Holy Cross (Flowers and Basil)](#exaltation-of-the-holy-cross-flowers-and-basil)
 - [Exaposteilaria, Kontakia, and Theotokia after Canons](#exaposteilaria-kontakia-and-theotokia-after-canons)
 - [Feast of St. Catherine (Transfer of Feasts)](#feast-of-st-catherine-transfer-of-feasts)
-- [Feast of the Annunciation (Irmos Rubrics)](#feast-of-the-annunciation-irmos-rubrics)
+- [Feast of the Annunciation (Heirmos Rubrics)](#feast-of-the-annunciation-Heirmos-rubrics)
 - [Feasts of Saints (Forefathers and Saints)](#feasts-of-saints-forefathers-and-saints)
 - [Feasts of Saints (Service of St. Anne)](#feasts-of-saints-service-of-st-anne)
 - [Feasts of Saints (St. Peter and Paul stichera)](#feasts-of-saints-st-peter-and-paul-stichera)
@@ -84,7 +84,7 @@ This appendix compiles and organizes the extensive historical, theological, and 
 - **Category:** *Hymnographic Elements & Structures*
 - **Source Reference:** *Part 1 Structure, L174*
 
-Although now we do not use the Odes of Holy Scripture presented at the end of the Psalter, excluding the Forty Days, nevertheless, we leave something from them, that is at the 8th Ode, instead of Glory - the refrain 'Let us bless the Father, and the Son, and the Holy Spirit, the Lord,' and the refrain to the Katavasia of the 8th Ode: 'We praise, we bless, we worship the Lord, praising and magnifying Him unto all ages,' which is sung according to the tone of the Katavasia; also the Song of the Theotokos 'My soul magnifies' before the irmos of the 9th Ode of the canon, which we take also in the time of the Forty Days, and outside of it, with the exception of Feasts of the Lord and of the Theotokos, on which, according to ancient typikons, it is not proper to take [it].
+Although now we do not use the Odes of Holy Scripture presented at the end of the Psalter, excluding the Forty Days, nevertheless, we leave something from them, that is at the 8th Ode, instead of Glory - the refrain 'Let us bless the Father, and the Son, and the Holy Spirit, the Lord,' and the refrain to the Katavasia of the 8th Ode: 'We praise, we bless, we worship the Lord, praising and magnifying Him unto all ages,' which is sung according to the tone of the Katavasia; also the Song of the Theotokos 'My soul magnifies' before the Heirmos of the 9th Ode of the canon, which we take also in the time of the Forty Days, and outside of it, with the exception of Feasts of the Lord and of the Theotokos, on which, according to ancient typikons, it is not proper to take [it].
 
 ---
 
@@ -122,7 +122,7 @@ After the 3rd, 6th and 9th Ode of the canon, immediately after the Katavasia, th
 
 
 > [!NOTE]
-> **Royal Doors 2026 Current Usage Note:** In the 2026 propers, the traditional Greek term **Exaposteilarion** is overwhelmingly replaced with the descriptive translation **Hymn of Light** (occurring 44 times vs. only 6 times for Exapostilarion). Furthermore, the canonical term **Heirmos** (or **Heirmoi**) is never used; instead, Royal Doors exclusively uses the phonetic Slavonic spelling **Irmos** (561 times) or **Katavasia** (395 times) to designate these canon hymns. Sessional hymns are referred to as **Sessional Hymn** (191 times) or **Kathisma Reading** (136 times).
+> **Royal Doors 2026 Current Usage Note:** In the 2026 propers, the traditional Greek term **Exaposteilarion** is overwhelmingly replaced with the descriptive translation **Hymn of Light** (occurring 44 times vs. only 6 times for Exapostilarion). Furthermore, the canonical term **Heirmos** (or **Heirmoi**) is never used; instead, Royal Doors exclusively uses the phonetic Slavonic spelling **Heirmos** (561 times) or **Katavasia** (395 times) to designate these canon hymns. Sessional hymns are referred to as **Sessional Hymn** (191 times) or **Kathisma Reading** (136 times).
 
 ---
 
@@ -204,11 +204,11 @@ This Vespers is celebrated just as Daily [Vespers] , however, without a Kathisma
 
 ---
 
-### Feast of the Annunciation (Irmos Rubrics)
+### Feast of the Annunciation (Heirmos Rubrics)
 - **Category:** *Liturgical Services & Offices*
 - **Source Reference:** *Footnote 193, L210*
 
-[193] General Slavonic typikons give the Irmos only on Annunciation and on the Dormition of the Most Holy Theotokos; but our Service Books and the new Greek Constantinopolitan Typikon -- on all feasts of the Theotokos and of the Lord, until the Leavetaking.
+[193] General Slavonic typikons give the Heirmos only on Annunciation and on the Dormition of the Most Holy Theotokos; but our Service Books and the new Greek Constantinopolitan Typikon -- on all feasts of the Theotokos and of the Lord, until the Leavetaking.
 
 ---
 
@@ -480,7 +480,7 @@ The Rite of the UCC was formed over centuries from the ancient Kyivan rite and t
 - **Category:** *Liturgical Services & Offices*
 - **Source Reference:** *Footnote 297, L317*
 
-[297] According to the ancient rule the service is taken also to the saint, if he has one, and the Apostle and Gospel -- first to the Saturday before the Nativity of Christ, sequential, according to the Slavic typikon are taken under the Prokeimenon (zaspiv) of the Saturday before the Nativity of Christ (*Menaion* 18 December and Moscow Typikon).
+[297] According to the ancient rule the service is taken also to the saint, if he has one, and the Apostle and Gospel -- first to the Saturday before the Nativity of Christ, sequential, according to the Slavic typikon are taken under the Prokeimenon (refrain) of the Saturday before the Nativity of Christ (*Menaion* 18 December and Moscow Typikon).
 
 ---
 
