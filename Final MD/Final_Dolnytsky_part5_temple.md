@@ -2,7 +2,7 @@
 
 RUBRICS ABOUT TEMPLES
 
-The temple rubrics used among us are of a double kind: some are borrowed from local Western Churches, which do not enter into the composition of our divine service, but are only added to it; others are natural to our divine service. Rubrics borrowed from Western Churches relate to the Holy Mysteries of the Eucharist, which are exposed on the holy table on the day of the temple feast and with which a procession takes place around the church. First, it befits us to provide the rubrics for the exposition and procession, and later - for the others.
+The temple rubrics used among us are of a double kind: some are borrowed from local Western Churches, which do not enter into the composition of our divine service, but are only added to it; others are natural to our divine service. Rubrics borrowed from Western Churches relate to the Holy Mysteries of the Eucharist, which are exposed on the holy table on the day of the temple feast and with which a procession takes place around the church. First, it befits us to provide the rubrics for the exposition and procession, and later – for the others.
 
 ---
 
@@ -18,9 +18,9 @@ After the Ambo [prayer], let the Holy Mysteries be hidden in the tabernacle [kyv
 
 ##### At Vespers
 
-Before the beginning of Vespers, the Priest, dressed in all sacerdotal [vestments], and the Deacon - in all diaconal vestments, having come before the steps of the holy table, open the holy doors and the first deacon, having laid aside the Gospel to the right side, takes the Holy Mysteries from the tabernacle [kyvot] and places Them on the iliton; the Priest censes Them thrice over all, as at the beginning of the Liturgy, places Them on the skynia^[A] on the folded iliton and, having placed the Gospel again in the middle of the holy table, exclaims: "Bless, Master," and the Priest, standing with the deacons at the holy table, begins: "Blessed is our God." Vespers is sung with an Entrance. The Priest departs from the holy table only at the Entrance, and the deacons - also at the litanies and after the prokimenon for the sermon, if there be one; then the Holy Mysteries are covered with a veil.
+Before the beginning of Vespers, the Priest, dressed in all sacerdotal [vestments], and the Deacon – in all diaconal vestments, having come before the steps of the holy table, open the holy doors and the first deacon, having laid aside the Gospel to the right side, takes the Holy Mysteries from the tabernacle [kyvot] and places Them on the iliton; the Priest censes Them thrice over all, as at the beginning of the Liturgy, places Them on the skynia^[A] on the folded iliton and, having placed the Gospel again in the middle of the holy table, exclaims: "Bless, Master," and the Priest, standing with the deacons at the holy table, begins: "Blessed is our God." Vespers is sung with an Entrance. The Priest departs from the holy table only at the Entrance, and the deacons – also at the litanies and after the prokimenon for the sermon, if there be one; then the Holy Mysteries are covered with a veil.
 
-Before the dismissal of Vespers, all kneel, and the Deacon takes the Holy Gospel from the middle of the holy table and, having placed it on the right side, removes the Holy Mysteries from the skynia and places [Them] on the folded iliton. The Priest censes Them thrice with a bowing of the head and, having given away the censer, takes upon himself the omophorets [humeral veil], approaches the Holy Mysteries and, having bowed low, takes Them with both hands, with the help of the Deacon, turns right to the people, begins some pious hymn and goes out through the holy doors into the church; he enters under the baldachin and proceeds to the church doors, preceded by deacons with censers, who incessantly cense the Holy Mysteries from the sides; after them follow other priests in phelons, some - only in epitrachelia, with lighted candles in their hands, in two wings, likewise - the church brotherhood, afterwards - four girls with icons, banner-bearers and the cross-bearer. Under the sounds of bells, the procession goes out of the church and encircles it, beginning from its northern side, and returning from the southern side. When the Priest with the Holy Mysteries reaches the middle of the northern side, the procession stops, interrupts the singing, all kneel, and the Priest blesses all the present people with the Holy Mysteries four times, that is, first directly before himself, then - to the right side, then - behind and finally - to the left, saying each time in a quiet voice: "Save, O God, Thy people and bless Thine inheritance." Similarly it happens on the eastern, southern and western sides[^664]. After the blessing on the western side, the procession enters the church: first the Priest with the Holy Mysteries, other sacred ministers, then - the rest of the procession and the people. Then the Priest places the Holy Mysteries on the holy table, on the folded iliton, and, having laid aside the omophorets, kneels and censes the Holy Mysteries thrice. All kneel, and the Priest, together with other sacred ministers, sings the verses of the supplicatory hymn "Holy God." All the people repeat each of its verses. After the completion of the litiya, the Priest, having censed the Holy Mysteries thrice and having taken upon himself the omophorets, approaches the holy table and, having bowed low, takes the Holy Mysteries and, having turned right to the people, sings piously the verse of the hymn of St. Ambrose "Save Thy people, O Lord" twice, and the people repeat the same. The third time the Priest [sings]: "Save Thy people, O Lord, and bless Thine inheritance"; singing: "and bless," He blesses the people solemnly crosswise, making a half-turn from the right to the left side.
+Before the dismissal of Vespers, all kneel, and the Deacon takes the Holy Gospel from the middle of the holy table and, having placed it on the right side, removes the Holy Mysteries from the skynia and places [Them] on the folded iliton. The Priest censes Them thrice with a bowing of the head and, having given away the censer, takes upon himself the omophorets [humeral veil], approaches the Holy Mysteries and, having bowed low, takes Them with both hands, with the help of the Deacon, turns right to the people, begins some pious hymn and goes out through the holy doors into the church; he enters under the baldachin and proceeds to the church doors, preceded by deacons with censers, who incessantly cense the Holy Mysteries from the sides; after them follow other priests in phelons, some – only in epitrachelia, with lighted candles in their hands, in two wings, likewise – the church brotherhood, afterwards – four girls with icons, banner-bearers and the cross-bearer. Under the sounds of bells, the procession goes out of the church and encircles it, beginning from its northern side, and returning from the southern side. When the Priest with the Holy Mysteries reaches the middle of the northern side, the procession stops, interrupts the singing, all kneel, and the Priest blesses all the present people with the Holy Mysteries four times, that is, first directly before himself, then – to the right side, then – behind and finally – to the left, saying each time in a quiet voice: "Save, O God, Thy people and bless Thine inheritance." Similarly it happens on the eastern, southern and western sides[^664]. After the blessing on the western side, the procession enters the church: first the Priest with the Holy Mysteries, other sacred ministers, then – the rest of the procession and the people. Then the Priest places the Holy Mysteries on the holy table, on the folded iliton, and, having laid aside the omophorets, kneels and censes the Holy Mysteries thrice. All kneel, and the Priest, together with other sacred ministers, sings the verses of the supplicatory hymn "Holy God." All the people repeat each of its verses. After the completion of the litiya, the Priest, having censed the Holy Mysteries thrice and having taken upon himself the omophorets, approaches the holy table and, having bowed low, takes the Holy Mysteries and, having turned right to the people, sings piously the verse of the hymn of St. Ambrose "Save Thy people, O Lord" twice, and the people repeat the same. The third time the Priest [sings]: "Save Thy people, O Lord, and bless Thine inheritance"; singing: "and bless," He blesses the people solemnly crosswise, making a half-turn from the right to the left side.
 
 While the Choir sings the continuation of the Ambrosian hymn, the Priest places the Holy Mysteries on the holy table, goes down before the steps and, having laid aside the omophorets and having censed Them thrice, kneels together with all others until the Deacon hides the Holy Mysteries in the skynia. Then the Great Dismissal takes place, according to custom.
 
@@ -36,21 +36,21 @@ On one of the days following the feast, the Priest at the Liturgy shall consume 
 
 which enter into the composition of our divine service
 
-These rubrics are either general or specific. General [ones] are applicable to many cases, specific [ones] - only to some. We shall present first the general rubrics, and then - the specific.
+These rubrics are either general or specific. General [ones] are applicable to many cases, specific [ones] – only to some. We shall present first the general rubrics, and then – the specific.
 
 ### 5.2.1 General Rubrics
 
-[^665]1.	On a temple feast, even if it be of a saint of a lower rank, an All-Night Vigil must be celebrated. So we do, and so holds the Tserkovne Oko in Chapter 4, concerning temples[^666].
+[^665]1.	On a temple feast, even if it be of a saint of a lower rank, an All-Night Vigil must be celebrated. So we do, and so holds the *Tserkovne Oko* in Chapter 4, concerning temples[^666].
 
-The feast of a temple saint, even if of a lower rank, exceeds even a feast of a saint with a Vigil, primarily in that, when it falls on a Sunday, it includes at Matins before the Canon the Prokimenon, the Gospel, and the Sunday Sticheron [after the Gospel], exactly as a Feast of the Theotokos; also, the Gospel Sticheron is transferred from the "Praises" to the end of Matins. Besides this, if it falls on a weekday, it excludes at the Liturgy the Apostle and Gospel of the day, which is then read on the day before the feast. Finally, the temple feast of a saint has its Apodosis, which takes place on the very day of the feast at Vespers for the following day, with an Entrance, as on a Feast of the Lord. In this Apodosis at "Lord, I have cried," there will be 6 stichera: 3 of the temple and 3 of the daily saint; Glory: of the temple; Both now: Theotokion from the Sunday [*Octoechos*] (Dogmatic) according to the tone of the Doxastikon. If the temple is of the Lord or of the Theotokos, then also Glory, Both now: of the temple. On Friday evening for Saturday, we always sing the Dogmatic of the tone that is being given away. After the Prokimenon - "Let us all say." Aposticha of the temple with its verses, Glory: of the temple, Both now: Theotokion from the Sunday [*Octoechos*], according to the tone of the Doxastikon. If the temple is of the Lord or of the Theotokos, then Both now: of the temple. At the end: Troparion of the temple, Glory: Troparion of the daily saint, Glory, Both now: of the temple. Great Dismissal with the commemoration of the temple and the daily saint. At this Vespers, the service of the temple saint concludes; however, a temple saint does not have an Apodosis if the following day falls on a Sunday, or a Polyeleos saint
+The feast of a temple saint, even if of a lower rank, exceeds even a feast of a saint with a Vigil, primarily in that, when it falls on a Sunday, it includes at Matins before the Canon the Prokimenon, the Gospel, and the Sunday Sticheron [after the Gospel], exactly as a Feast of the Theotokos; also, the Gospel Sticheron is transferred from the "Praises" to the end of Matins. Besides this, if it falls on a weekday, it excludes at the Liturgy the Apostle and Gospel of the day, which is then read on the day before the feast. Finally, the temple feast of a saint has its Apodosis, which takes place on the very day of the feast at Vespers for the following day, with an Entrance, as on a Feast of the Lord. In this Apodosis at "Lord, I have cried," there will be 6 stichera: 3 of the temple and 3 of the daily saint; Glory: of the temple; Both now: Theotokion from the Sunday [*Octoechos*] (Dogmatic) according to the tone of the Doxastikon. If the temple is of the Lord or of the Theotokos, then also Glory, Both now: of the temple. On Friday evening for Saturday, we always sing the Dogmatic of the tone that is being given away. After the Prokimenon – "Let us all say." Aposticha of the temple with its verses, Glory: of the temple, Both now: Theotokion from the Sunday [*Octoechos*], according to the tone of the Doxastikon. If the temple is of the Lord or of the Theotokos, then Both now: of the temple. At the end: Troparion of the temple, Glory: Troparion of the daily saint, Glory, Both now: of the temple. Great Dismissal with the commemoration of the temple and the daily saint. At this Vespers, the service of the temple saint concludes; however, a temple saint does not have an Apodosis if the following day falls on a Sunday, or a Polyeleos saint
 
-If the feast of a temple saint falls in the midst of a feast, that is, during the Forefeast, Afterfeast, or Apodosis of a feast - observe the rubric of a Saint with Vigil in the Afterfeast, whether on a Sunday or on a weekday here, on pp. 104-105 [→REF:p104-105][^667], only on Sunday, at Matins, we sing the Prokimenon, Gospel and Sticheron of the temple; at the Praises - Glory: of the temple, and the Gospel Sticheron - after the dismissal of Matins[^668]
+If the feast of a temple saint falls in the midst of a feast, that is, during the Forefeast, Afterfeast, or Apodosis of a feast – observe the rubric of a Saint with Vigil in the Afterfeast, whether on a Sunday or on a weekday here, on pp. 104-105 [→REF:p104-105][^667], only on Sunday, at Matins, we sing the Prokimenon, Gospel and Sticheron of the temple; at the Praises – Glory: of the temple, and the Gospel Sticheron – after the dismissal of Matins[^668]
 
-On the very day of the feast, after the Ambo [prayer], in our lands, a Blessing of Water usually takes place outside the church, to where a procession goes: in front - the cross-bearer, then - the censer-bearer, the Deacon with the Gospel, and the Priest with a hand cross. It befits the church servers to carry there also the boat with incense, the sprinkler with the holy water vessel, a glass [cup], and a towel, so that the cross may be wiped after immersing it in the water, as well as the hands of the Priest. After the dismissal of the Liturgy, the Polychronion is sung for the Ecumenical Pontiff, the Emperor, the Metropolitan, one's own Bishop, all present sacred ministers, and all people of the parish
+On the very day of the feast, after the Ambo [prayer], in our lands, a Blessing of Water usually takes place outside the church, to where a procession goes: in front – the cross-bearer, then – the censer-bearer, the Deacon with the Gospel, and the Priest with a hand cross. It befits the church servers to carry there also the boat with incense, the sprinkler with the holy water vessel, a glass [cup], and a towel, so that the cross may be wiped after immersing it in the water, as well as the hands of the Priest. After the dismissal of the Liturgy, the Polychronion is sung for the Ecumenical Pontiff, the Emperor, the Metropolitan, one's own Bishop, all present sacred ministers, and all people of the parish
 
-On the day following the feast, according to local custom, a Liturgy for the deceased of the parish with a Parastas is sung, at which it is not fitting to take anything of the feast, but everything only - for the deceased
+On the day following the feast, according to local custom, a Liturgy for the deceased of the parish with a Parastas is sung, at which it is not fitting to take anything of the feast, but everything only – for the deceased
 
-The feast of a temple saint is usually transferred among us to the following Sunday; in throne [cathedral] temples - it is celebrated on its own day
+The feast of a temple saint is usually transferred among us to the following Sunday; in throne [cathedral] temples – it is celebrated on its own day
 
 ### 5.2.2 Specific Temple Rubrics
 
@@ -64,7 +64,7 @@ Temple of the Venerable Symeon Stylites
 
 ##### At Small Vespers
 
-1. **On "Lord, I have cried":** 4 stichera of the temple, Glory: of the same, Both now: of the Indiction
+1. **On *"Lord, I have cried"*:* 4 stichera of the temple, Glory: of the same, Both now: of the Indiction
 
 2. At the Aposticha: stichera of the Indiction, Glory: of the temple, Both now: of the Indiction
 
@@ -84,7 +84,7 @@ Temple of the Venerable Symeon Stylites
 
 1. From the beginning, that is from "Glory to the Holy," until the Polyeleos, everything is as without a temple here, on p. 111 [→REF:p111]; only after the second poetic Kathisma [stichologia], the Doxastikon of Kallistos is not taken and we sing Glory, Both now: Theotokion of the Indiction
 
-2. From the Polyeleos until the Canon everything is only of the temple. Prokimenon - "Precious in the sight of the Lord." Gospel from Luke, Sec. 24 "Jesus stood on a level place."
+2. From the Polyeleos until the Canon everything is only of the temple. Prokimenon – "Precious in the sight of the Lord." Gospel from Luke, Sec. 24 "Jesus stood on a level place."
 
 3. **Canons:** *Distribution:* Canons, two on 14: of the Indiction with the Heirmos on 6 and of the temple on 8. 
    * *Katavasia:* Katavasia of the season. 
@@ -92,7 +92,7 @@ Temple of the Venerable Symeon Stylites
    * *After the 6th Ode:* Kontakion and Ikos of the temple. 
    * *After the 9th Ode:* Exaposteilarion of the temple, Glory, Both now: of the Indiction
 
-4. **Praises (Lauds):** Stichera at the Praises - 8: 4 of the Indiction and 4 of the temple; Glory: of the temple, Both now: of the Indiction
+4. **Praises (Lauds):** Stichera at the Praises – 8: 4 of the Indiction and 4 of the temple; Glory: of the temple, Both now: of the Indiction
 
 5. **After the Great Doxology:** Troparion of the Indiction, Glory: of the temple, Both now: Theotokion of the beginning of the year
 
@@ -104,15 +104,15 @@ AND AT THE LITURGY: Everything is as without a temple here, on p. 112 [→REF:p1
 
 ##### At Small Vespers
 
-1. **On "Lord, I have cried":** Sunday stichera of the *Octoechos
+1. **On *"Lord, I have cried"*:* Sunday stichera of the *Octoechos
 
-2. At the Aposticha: one Sunday stichera, then - stichera of the temple; Glory: of the temple, Both now: of the Indiction
+2. At the Aposticha: one Sunday stichera, then – stichera of the temple; Glory: of the temple, Both now: of the Indiction
 
 3. At the end: Troparion of the Sunday, Glory: of the temple, Both now: of the Indiction[^671]
 
 ##### At Great Vespers
 
-1. **On "Lord, I have cried":** 10 stichera: 3 Sunday, 3 of the Indiction and 4 of the temple; Glory: of the temple, Both now: 1st Theotokion of the tone
+1. **On *"Lord, I have cried"*:* 10 stichera: 3 Sunday, 3 of the Indiction and 4 of the temple; Glory: of the temple, Both now: 1st Theotokion of the tone
 
 2. At the Litiya: stichera of the temple, given at the Praises, only Both now: of the Indiction[^672]
 
@@ -122,25 +122,25 @@ AND AT THE LITURGY: Everything is as without a temple here, on p. 112 [→REF:p1
 
 ##### At Great Matins
 
-1. **On "God is the Lord":** Sunday Troparion twice, Glory: of the temple, Both now: of the Indiction
+1. **On *"God is the Lord"*:* Sunday Troparion twice, Glory: of the temple, Both now: of the Indiction
 
-2. After the 1st and 2nd poetic Kathismata - Sunday Sessional Hymns of the *Octoechos
+2. After the 1st and 2nd poetic Kathismata – Sunday Sessional Hymns of the *Octoechos
 
-3. After the Polyeleos - Sessional Hymns of the temple once each, Glory, Both now: of the Indiction[^673]
+3. After the Polyeleos – Sessional Hymns of the temple once each, Glory, Both now: of the Indiction[^673]
 
 4. Prokimenon, Gospel and Sticheron of the temple
 
-5. **Canons:** *Distribution:* Canons - 3: Sunday with Heirmos on 4, Indiction on 4 and temple on 6. 
+5. **Canons:** *Distribution:* Canons – 3: Sunday with Heirmos on 4, Indiction on 4 and temple on 6. 
    * *Katavasia:* Katavasia of the season. 
    * *After the 3rd Ode:* Kontakion and Ikos of the temple, Kontakion of the Indiction and Sessional Hymn of the temple, Glory, Both now: of the Indiction. 
    * *After the 6th Ode:* Sunday Kontakion and Ikos[^674]; 
    * *After the 9th Ode:* Sunday Exaposteilarion, Glory: of the temple, Both now: of the Indiction
 
-6. **Praises (Lauds):** Stichera at the Praises - 8: 3 Sunday, 2 of the Indiction and 3 of the temple with its two verses[^675]; Glory: of the temple, Both now: "Most Blessed."
+6. **Praises (Lauds):** Stichera at the Praises – 8: 3 Sunday, 2 of the Indiction and 3 of the temple with its two verses[^675]; Glory: of the temple, Both now: "Most Blessed."
 
 7. **After the Great Doxology:** Sunday Troparion, one of the two usual ones
 
-8. **Dismissal:** After the Dismissal - Glory, Both now: Gospel Sticheron
+8. **Dismissal:** After the Dismissal – Glory, Both now: Gospel Sticheron
 
 ##### At the Hours
 
@@ -170,17 +170,17 @@ On all these days we sing the service of the temple just as the service of the M
 
 ##### At Great Vespers
 
-at the Litiya we sing the stichera of the *Triodion* from the Aposticha stichera, then - of the temple; Glory: of the temple, Both now: one of the Aposticha stichera of the *Triodion*; only on Meatfare and Cheesefare Sundays, since the Theotokion of the *Triodion* is specific, we conclude the Doxastikon with it. Aposticha of the Sunday, Glory: of the temple, Both now: of the *Triodion*. At the Blessing of Loaves: Troparion "Virgin Theotokos" twice and of the temple once
+at the Litiya we sing the stichera of the *Triodion* from the Aposticha stichera, then – of the temple; Glory: of the temple, Both now: one of the Aposticha stichera of the *Triodion*; only on Meatfare and Cheesefare Sundays, since the Theotokion of the *Triodion* is specific, we conclude the Doxastikon with it. Aposticha of the Sunday, Glory: of the temple, Both now: of the *Triodion*. At the Blessing of Loaves: Troparion "Virgin Theotokos" twice and of the temple once
 
 ##### At Great Matins
 
-Canons 3 on 14: Sunday on 4, *Triodion* on 4 and temple on 6. After the 3rd Ode - Kontakion and Ikos of the *Triodion*, then - Sessional Hymn of the temple, Glory, Both now: of the *Triodion*; after the 6th - Kontakion and Ikos of the temple; after the 9th - Sunday Exaposteilarion, Glory: of the temple, Both now: of the *Triodion*. Katavasia of the season, only on Meatfare Sunday the Katavasia is of the *Triodion*. Stichera at the Praises - 8: 4 Sunday and 4 of the temple with its verses, Glory: of the temple, Both now: "Most Blessed"; however, on Meatfare and Cheesefare Sundays, after four stichera of the temple with their verses, we sing the Idiomelon sticheron of the *Triodion* with the verse "Arise, O Lord," Glory: the same, Both now: "Most Blessed"[^684][^678]
+Canons 3 on 14: Sunday on 4, *Triodion* on 4 and temple on 6. After the 3rd Ode – Kontakion and Ikos of the *Triodion*, then – Sessional Hymn of the temple, Glory, Both now: of the *Triodion*; after the 6th – Kontakion and Ikos of the temple; after the 9th – Sunday Exaposteilarion, Glory: of the temple, Both now: of the *Triodion*. Katavasia of the season, only on Meatfare Sunday the Katavasia is of the *Triodion*. Stichera at the Praises – 8: 4 Sunday and 4 of the temple with its verses, Glory: of the temple, Both now: "Most Blessed"; however, on Meatfare and Cheesefare Sundays, after four stichera of the temple with their verses, we sing the Idiomelon sticheron of the *Triodion* with the verse "Arise, O Lord," Glory: the same, Both now: "Most Blessed"[^684][^678]
 
 ---
 
 #### Temple Of A Saint On Meatfare Saturday
 
-The service of the temple we celebrate on Saturday, and for the deceased - on the previous Thursday[^679].
+The service of the temple we celebrate on Saturday, and for the deceased – on the previous Thursday[^679].
 
 #### Temple Of A Saint In Cheesefare
 
@@ -198,7 +198,7 @@ Everything is according to the rubric of the Meeting here, on pp. 218-219 [→RE
 
 To the Troparia and Stichera we select the usual Theotokia
 
-1. **On "Lord, I have cried":** At "Lord, I have cried," at the Aposticha of Great and Small Vespers and at the Praises there will be the Doxastikon of the temple, and Both now: Theotokion from the usual ones according to the tone of the Doxastikon; at the Litiya there will be the Doxastikon to the Fathers, and Both now: usual Theotokion (from the Aposticha) according to the tone of the Doxastikon
+1. **On *"Lord, I have cried"*:* At "Lord, I have cried," at the Aposticha of Great and Small Vespers and at the Praises there will be the Doxastikon of the temple, and Both now: Theotokion from the usual ones according to the tone of the Doxastikon; at the Litiya there will be the Doxastikon to the Fathers, and Both now: usual Theotokion (from the Aposticha) according to the tone of the Doxastikon
 
 At the Blessing of Loaves: Troparion of the temple once, to the Fathers once and "Virgin Theotokos" once[^681]
 
@@ -230,13 +230,13 @@ Everything is according to the rubric of the Finding here, on p. 232 [→REF:p23
 
 AT Great Compline
 
-After the 1st Trisagion - Troparion of the temple, Glory: Troparion of Theodore, Both now: Theotokion from the Sunday [*Octoechos*], according to the tone of the Troparion of Theodore. After the 2nd Trisagion - Kontakion of the temple.
+After the 1st Trisagion – Troparion of the temple, Glory: Troparion of Theodore, Both now: Theotokion from the Sunday [*Octoechos*], according to the tone of the Troparion of Theodore. After the 2nd Trisagion – Kontakion of the temple.
 
 At the Blessing of Loaves: Troparion of the temple twice and "Virgin Theotokos" once.
 
 ##### At Great Matins
 
-Everything is according to the rubric of the Finding here, on p. 233 [→REF:p233], only after the 1st and after the 2nd poetic Kathismata we sing the Sessional Hymn of the temple. Canons 2: of the temple on 8 and of Theodore on 6[^683]. At the Praises - Glory: of the temple.
+Everything is according to the rubric of the Finding here, on p. 233 [→REF:p233], only after the 1st and after the 2nd poetic Kathismata we sing the Sessional Hymn of the temple. Canons 2: of the temple on 8 and of Theodore on 6[^683]. At the Praises – Glory: of the temple.
 
 #### Temple Of A Saint On The First And Third Sundays Of Lent
 
@@ -246,25 +246,25 @@ Everything is according to the general rubric of a saint with Vigil on Sunday.
 
 ##### At Great Vespers
 
-1. **On "Lord, I have cried":** 10 stichera: 3 Sunday, 3 of the *Triodion* and 4 of the temple with the Doxastikon; Glory: of the *Triodion*, Both now: 1st Theotokion of the tone
+1. **On *"Lord, I have cried"*:* 10 stichera: 3 Sunday, 3 of the *Triodion* and 4 of the temple with the Doxastikon; Glory: of the *Triodion*, Both now: 1st Theotokion of the tone
 
 2. At the Litiya: stichera of the temple and of the *Triodion*, which are at the Praises; Glory: of the temple, Both now: of the *Triodion
 
 3. **Aposticha:** Aposticha of the Sunday, only Glory: of the temple, Both now: of the *Triodion
 
-4. At the Blessing of Loaves: Troparion of the Icon (on the third Sunday - of the Cross) once, of the temple once and "Virgin Theotokos" once
+4. At the Blessing of Loaves: Troparion of the Icon (on the third Sunday – of the Cross) once, of the temple once and "Virgin Theotokos" once
 
 ##### At Great Matins
 
 Everything is according to the rubric of the Finding here, on p. 234 [→REF:p234], only:
 
-1. Gospel and Sticheron - of the temple
+1. Gospel and Sticheron – of the temple
 
 2. **Canons:** Canon Sunday on 4, *Triodion* on 4 and temple on 6
 
-After the 3rd Ode - Kontakion of the *Triodion*, then Sessional Hymn of the temple, Glory, Both now: of the *Triodion*; after the 6th - Kontakion and Ikos of the temple.
+After the 3rd Ode – Kontakion of the *Triodion*, then Sessional Hymn of the temple, Glory, Both now: of the *Triodion*; after the 6th – Kontakion and Ikos of the temple.
 
-3. **Praises (Lauds):** Stichera at the Praises - 9: 3 Sunday, 2 of the *Triodion*, 3 of the temple with the Doxastikon and with its verses and the Idiomelon sticheron of the *Triodion* with the verse "Arise, O Lord," Glory: the same, Both now: "Most Blessed"[^684]
+3. **Praises (Lauds):** Stichera at the Praises – 9: 3 Sunday, 2 of the *Triodion*, 3 of the temple with the Doxastikon and with its verses and the Idiomelon sticheron of the *Triodion* with the verse "Arise, O Lord," Glory: the same, Both now: "Most Blessed"[^684]
 
 #### Temple Of A Saint On One Of The Lenten Days
 
@@ -272,7 +272,7 @@ OF THE SECOND AND FOLLOWING WEEKS OF LENT,
 
 THAT IS, UNTIL THE SATURDAY OF LAZARUS
 
-On these days we sing the service of the temple just as of other great saints which fall during Great Lent; and where at Matins there will be no *Triodion* [Three-Odes], we sing the Canon of the Theotokos with the Heirmos on 6 and of the temple on 8. Katavasia of the Theotokos. And where we sing the *Triodion* [Three-Odes], we take the Canon of the temple on 6 and of the *Triodion* according to its order (on 8), and at the end - Heirmos of the *Triodion*[^685].
+On these days we sing the service of the temple just as of other great saints which fall during Great Lent; and where at Matins there will be no *Triodion* [Three-Odes], we sing the Canon of the Theotokos with the Heirmos on 6 and of the temple on 8. Katavasia of the Theotokos. And where we sing the *Triodion* [Three-Odes], we take the Canon of the temple on 6 and of the *Triodion* according to its order (on 8), and at the end – Heirmos of the *Triodion*[^685].
 
 Note
 
@@ -298,13 +298,13 @@ The rest of the service is according to the rubric of the Finding.
 
 ##### At Great Vespers
 
-Everything is according to the rubric of the Finding here, on pp. 235-236 [→REF:p235-236], only at "Lord, I have cried" stichera of the *Triodion* on 5, that is the Idiomelon twice and 3 Prosomoia, then - 5 of the temple.
+Everything is according to the rubric of the Finding here, on pp. 235-236 [→REF:p235-236], only at *“Lord, I have cried”* stichera of the *Triodion* on 5, that is the Idiomelon twice and 3 Prosomoia, then – 5 of the temple.
 
 AT Great Compline
 
-1. After the 1st Trisagion - Troparion of the temple, Glory, Both now: Sunday Theotokion according to the tone of "Glory"; after the 2nd - Kontakion of the temple; at the Blessing of Loaves: Troparion of the temple twice and "Virgin Theotokos" once
+1. After the 1st Trisagion – Troparion of the temple, Glory, Both now: Sunday Theotokion according to the tone of "Glory"; after the 2nd – Kontakion of the temple; at the Blessing of Loaves: Troparion of the temple twice and "Virgin Theotokos" once
 
-2. At the Litiya and at the Aposticha - stichera of the temple. The rest of the service is sung according to the rubric of the Finding
+2. At the Litiya and at the Aposticha – stichera of the temple. The rest of the service is sung according to the rubric of the Finding
 
 ##### At the Divine Liturgy
 
@@ -316,7 +316,7 @@ ON THE SECOND, THIRD AND FOURTH SATURDAYS OF LENT
 
 ##### At Vespers
 
-and at Great Compline we sing everything according to the Lenten rubric given above for Tuesday, Wednesday, Thursday and Friday, only at "Lord, I have cried" there will be the 1st Theotokion of the tone that is being given away.
+and at Great Compline we sing everything according to the Lenten rubric given above for Tuesday, Wednesday, Thursday and Friday, only at *“Lord, I have cried”* there will be the 1st Theotokion of the tone that is being given away.
 
 ##### At Matins
 
@@ -326,11 +326,11 @@ and at Great Compline we sing everything according to the Lenten rubric given ab
 
 ON THE SECOND, FOURTH AND FIFTH SUNDAYS OF LENT
 
-Everything is according to the general rubric of a saint with Vigil on Sunday, only at Matins there will be the Gospel and Sticheron of the temple, Canons: Sunday on 4, *Triodion* on 4 and temple on 6. Stichera at the Praises - 9, that is 4 Sunday, 4 of the temple with the Doxastikon with its verses, then - Idiomelon of the *Triodion* with the verse "Arise," Glory: the same, Both now: "Most Blessed"; and after Matins - Gospel Sticheron. At the Hours: Kontakia of the temple and *Triodion*, alternately. At the Liturgy: Troparia Sunday and of the temple, Glory: Kontakion of the temple, Both now: of the *Triodion*.
+Everything is according to the general rubric of a saint with Vigil on Sunday, only at Matins there will be the Gospel and Sticheron of the temple, Canons: Sunday on 4, *Triodion* on 4 and temple on 6. Stichera at the Praises – 9, that is 4 Sunday, 4 of the temple with the Doxastikon with its verses, then – Idiomelon of the *Triodion* with the verse "Arise," Glory: the same, Both now: "Most Blessed"; and after Matins – Gospel Sticheron. At the Hours: Kontakia of the temple and *Triodion*, alternately. At the Liturgy: Troparia Sunday and of the temple, Glory: Kontakion of the temple, Both now: of the *Triodion*.
 
 #### Temple Of A Saint On The Sunday Of The Cross
 
-Everything is according to the general Lenten rubric with a temple saint here, on p. 468 [→REF:p468], n. 9, only: at "Lord, I have cried," at the Aposticha and at the Praises at "Both now," instead of the Theotokion, there will be the Sticheron of the Cross. (At the Praises there will be one of those remaining from "Lord, I have cried").
+Everything is according to the general Lenten rubric with a temple saint here, on p. 468 [→REF:p468], n. 9, only: at "Lord, I have cried," at the Aposticha and at the Praises at "Both now," instead of the Theotokion, there will be the Sticheron of the Cross. (At the Praises there will be one of those remaining from *“Lord, I have cried”*).
 
 #### Temple Of A Saint On Wednesday Of The Fifth Week Of Lent
 
@@ -352,37 +352,37 @@ Everything is according to the rubric of Akathist Saturday, only:
 
 WITH THE LITURGY OF PRESANCTIFIED GIFTS
 
-1. **On "Lord, I have cried":** 10 stichera: Idiomelon of the day twice, 4 of the Akathist and 4 of the temple; Glory: of the temple, Both now: of the Akathist
+1. **On *"Lord, I have cried"*:* 10 stichera: Idiomelon of the day twice, 4 of the Akathist and 4 of the temple; Glory: of the temple, Both now: of the Akathist
 
 2. **Readings:** 5: 2 of the *Triodion* and 3 of the temple
 
 AT THE VIGIL WITH Great Compline
 
-3. After the 1st Trisagion - Troparion of the temple, Glory, Both now: Troparion of the Akathist; after the 2nd Trisagion - Kontakion of the temple, Glory, Both now: Kontakion of the Akathist
+3. After the 1st Trisagion – Troparion of the temple, Glory, Both now: Troparion of the Akathist; after the 2nd Trisagion – Kontakion of the temple, Glory, Both now: Kontakion of the Akathist
 
 4. At the Blessing of Loaves: Troparion of the temple twice and of the Akathist once
 
 ##### At Great Matins
 
-1. **On "God is the Lord":** Troparion of the Akathist twice, Glory: of the temple, Both now: of the Akathist
+1. **On *"God is the Lord"*:* Troparion of the Akathist twice, Glory: of the temple, Both now: of the Akathist
 
 2. After the second third of the Kontakia-Ikoi of the Akathist we sing the Sessional Hymns of the temple and everything else until the Canon is of the temple
 
 3. **Canons:** Canons 2 on 14: of the Akathist on 8 and of the temple on 6
 
-At the 3rd Ode, after the 3rd third of Kontakia-Ikoi - Kontakion and Ikos of the temple and its Sessional Hymn, Glory, Both now: Sessional Hymn of the Akathist; at the 6th, after the fourth third of Kontakia-Ikoi - Kontakion and Ikos of the Akathist; after the 9th - Exaposteilarion of the temple, Glory, Both now: of the Akathist.
+At the 3rd Ode, after the 3rd third of Kontakia-Ikoi – Kontakion and Ikos of the temple and its Sessional Hymn, Glory, Both now: Sessional Hymn of the Akathist; at the 6th, after the fourth third of Kontakia-Ikoi – Kontakion and Ikos of the Akathist; after the 9th – Exaposteilarion of the temple, Glory, Both now: of the Akathist.
 
-4. **Praises (Lauds):** Stichera at the Praises - 6: 3 of the Akathist and 3 of the temple, Glory: of the temple, Both now: of the Akathist
+4. **Praises (Lauds):** Stichera at the Praises – 6: 3 of the Akathist and 3 of the temple, Glory: of the temple, Both now: of the Akathist
 
 5. **After the Great Doxology:** Troparion of the temple, Glory, Both now: of the Akathist
 
 ##### At the Hours
 
-At all - Troparion of the Akathist, Glory: of the temple; Kontakia: at the 1st and 6th - of the Akathist, at the 3rd and 9th - of the temple.
+At all – Troparion of the Akathist, Glory: of the temple; Kontakia: at the 1st and 6th – of the Akathist, at the 3rd and 9th – of the temple.
 
 ##### At the Divine Liturgy
 
-The whole service is of the Akathist, and then - of the temple.
+The whole service is of the Akathist, and then – of the temple.
 
 #### Temple Of A Saint On The Saturday Of Lazarus
 
@@ -390,15 +390,15 @@ The whole service is of the Akathist, and then - of the temple.
 
 1. **Kathisma:** "usual
 
-2. **On "Lord, I have cried":** stichera on 10: Idiomelon of the day twice, 5 of Lazarus with the Doxastikon and 3 of the temple, Glory: of the temple, Both now: of Lazarus
+2. **On *"Lord, I have cried"*:* stichera on 10: Idiomelon of the day twice, 5 of Lazarus with the Doxastikon and 3 of the temple, Glory: of the temple, Both now: of Lazarus
 
 3. **Readings:** 5: 2 of the *Triodion* of the day and 3 of the temple; and the rest of the Presanctified
 
 AT THE VIGIL WITH Great Compline
 
-4. After the 1st Trisagion - Troparion of the temple, Glory, Both now: of Lazarus. After the 2nd Trisagion - Kontakion of the temple, Glory, Both now: of Lazarus
+4. After the 1st Trisagion – Troparion of the temple, Glory, Both now: of Lazarus. After the 2nd Trisagion – Kontakion of the temple, Glory, Both now: of Lazarus
 
-5. At the Litiya: stichera of Lazarus, the first four of those given at the Praises, then - of the temple; Glory: of the temple, Both now: of Lazarus
+5. At the Litiya: stichera of Lazarus, the first four of those given at the Praises, then – of the temple; Glory: of the temple, Both now: of Lazarus
 
 6. **Aposticha:** Aposticha of the temple, only Both now: of Lazarus
 
@@ -406,15 +406,15 @@ AT THE VIGIL WITH Great Compline
 
 ##### At Great Matins
 
-1. **On "God is the Lord":** Troparia at "God is the Lord," at the end of Matins, at the Hours and at the Liturgy we sing according to the general rubric of a Polyeleos saint in the midst of a feast
+1. **On *"God is the Lord"*:* Troparia at "God is the Lord," at the end of Matins, at the Hours and at the Liturgy we sing according to the general rubric of a Polyeleos saint in the midst of a feast
 
-2. Two Kathismata with Sessional Hymns of Lazarus, then - Polyeleos and all three Sessional Hymns of the temple; everything else until the Canon is of the temple; only after the Gospel we say "Having beheld the Resurrection of Christ."
+2. Two Kathismata with Sessional Hymns of Lazarus, then – Polyeleos and all three Sessional Hymns of the temple; everything else until the Canon is of the temple; only after the Gospel we say "Having beheld the Resurrection of Christ."
 
-3. **Canons:** Canons 3 on 14: Lazarus the first with Heirmos on 6, temple on 4 and Lazarus the second on 4. Katavasia - Heirmos of the 2nd Canon of Lazarus
+3. **Canons:** Canons 3 on 14: Lazarus the first with Heirmos on 6, temple on 4 and Lazarus the second on 4. Katavasia – Heirmos of the 2nd Canon of Lazarus
 
-After the 3rd Ode - Kontakion and Ikos of the temple, Sessional Hymn of the temple, Glory, Both now: of Lazarus; after the 6th - Kontakion and Ikos of Lazarus; at the 9th we do not sing "More Honorable"; after the 9th - "Holy is the Lord our God" (3) in the 1st tone, then - Exaposteilarion of Lazarus, Glory: of the temple, Both now: of Lazarus.
+After the 3rd Ode – Kontakion and Ikos of the temple, Sessional Hymn of the temple, Glory, Both now: of Lazarus; after the 6th – Kontakion and Ikos of Lazarus; at the 9th we do not sing "More Honorable"; after the 9th – "Holy is the Lord our God" (3) in the 1st tone, then – Exaposteilarion of Lazarus, Glory: of the temple, Both now: of Lazarus.
 
-4. **Praises (Lauds):** Stichera at the Praises - 8: 4 of Lazarus and 4 of the temple with its verses, Glory: of the temple, Both now: of Lazarus
+4. **Praises (Lauds):** Stichera at the Praises – 8: 4 of Lazarus and 4 of the temple with its verses, Glory: of the temple, Both now: of Lazarus
 
 5. **After the Great Doxology:** Troparion of the temple, Glory, Both now: of Lazarus
 
@@ -434,13 +434,13 @@ Aposticha will be of Palm Sunday.
 
 "Having beheld the Resurrection of Christ" will not be [said]. Canons 2 on 14: of Palm Sunday with Heirmos on 8 and of the temple on 6. After the Katavasia of the 9th Ode we sing "Holy is the Lord our God" (3) in the 4th tone.
 
-Stichera at the Praises - 8: 4 of Palm Sunday and 4 of the temple with its verses; Glory: of the temple, Both now: of Palm Sunday.
+Stichera at the Praises – 8: 4 of Palm Sunday and 4 of the temple with its verses; Glory: of the temple, Both now: of Palm Sunday.
 
 #### Temple Of A Saint On Passion Week
 
 AND ON THE SUNDAY OF THE RESURRECTION
 
-If it falls on Passion Monday, Tuesday, Wednesday or Thursday, then it is transferred to Palm Sunday; if on Great Friday or Saturday, or on the Sunday of the Resurrection - it is transferred to Bright Monday or Tuesday[^688].
+If it falls on Passion Monday, Tuesday, Wednesday or Thursday, then it is transferred to Palm Sunday; if on Great Friday or Saturday, or on the Sunday of the Resurrection – it is transferred to Bright Monday or Tuesday[^688].
 
 #### Temple Of A Saint From Bright Monday
 
@@ -486,7 +486,7 @@ Everything is according to the rubric of the Theologian, when it falls on the As
 
 #### Temple Of A Saint On Monday Of The Holy Spirit
 
-We sing the service of the temple in the evening, and the stichera as indicated for the Theologian or St. George with Mid-Pentecost. On Pentecost Sunday, at Great Vespers - "Entrance," Great Prokimenon *“Who is so great a God”*; Readings (readings - 3) are of the temple and everything else with the kneeling prayers. At the Litiya: stichera of the temple, if there be any, Glory: of the temple, Both now: of the feast. Aposticha of the feast with its stichera; the rest of the service in the evening and in the morning is sung just as for the Theologian on Mid-Pentecost[^690].
+We sing the service of the temple in the evening, and the stichera as indicated for the Theologian or St. George with Mid-Pentecost. On Pentecost Sunday, at Great Vespers – "Entrance," Great Prokimenon *“Who is so great a God”*; Readings (readings – 3) are of the temple and everything else with the kneeling prayers. At the Litiya: stichera of the temple, if there be any, Glory: of the temple, Both now: of the feast. Aposticha of the feast with its stichera; the rest of the service in the evening and in the morning is sung just as for the Theologian on Mid-Pentecost[^690].
 
 #### Temple Of A Saint
 
@@ -498,7 +498,7 @@ Everything is according to the general rubric of a saint with Vigil in the After
 
 Everything is according to the rubric of the Fathers of the 7th Sunday after Pascha here, on p. 441 [→REF:p441], only here to the Doxastikon of the temple we sing Both now: 1st Theotokion according to the tone of the Doxastikon[^691], and this not only at "Lord, I have cried," as for the Theologian, but also at the Troparion, instead of the Ascension.
 
-> **Note:** To these rubrics of the Tserkovne Oko and Russian typika we add also the following two.
+> **Note:** To these rubrics of the *Tserkovne Oko* and Russian typika we add also the following two.
 
 TEMPLE OF A SAINT ON THE SUNDAY OF THE FEAST OF THE EUCHARIST
 
@@ -588,11 +588,11 @@ Again we pray for all those who serve and have served in this holy temple: for h
 
 When a service is transferred from a weekday to Sunday, the service of the saint falling on that Sunday is transferred to the weekday of the service being transferred to Sunday
 
-In the Menologion we will present the names only of those saints who have a service, others - no, for we do not have to mention them, but only the former
+In the Menologion we will present the names only of those saints who have a service, others – no, for we do not have to mention them, but only the former
 
 Let the one who officiates not omit the services of feasts on 6 with Great Doxology and services of feasts of a lower rank compared to them. With the services of Polyeleos feasts and of a higher rank compared to them, let him not combine services for the deceased, but take only the service of the feast with the intention for the deceased[^696]
 
-Services of the whole year: some - immovable, that is of the *Menaion*, and others - movable, that is of the *Triodia* and *Octoechos*. We will present first the Rule of immovable services, and then - of movable[^697]
+Services of the whole year: some – immovable, that is of the *Menaion*, and others – movable, that is of the *Triodia* and *Octoechos*. We will present first the Rule of immovable services, and then – of movable[^697]
 
 Since the services of the *Menaion* are diverse, so that the Reader may know what kind of service he should take, to each service on the left side we add one of the signs determining the kind of service
 
@@ -745,7 +745,7 @@ RULE OF IMMOVABLE SERVICES
 * **23** **[4 A+G]** Ten Martyrs of Crete.
 * **24** **[4 NO]** Monk-Martyr Eugenia.
 * **25** **[LORD]** **NATIVITY OF CHRIST**
-General dispensation - up to Theophany inclusive[^727].
+General dispensation – up to Theophany inclusive[^727].
 
 * **26** **[GT DOX]** Synaxis of the Most Holy Theotokos and St. Joseph; Hieromartyr Euthymius.
 * **27** **[4 A+G]** Protomartyr and Archdeacon Stephen; **[4 TR]** Ven. Theodore Graptos[^728].
@@ -1064,17 +1064,17 @@ LENTEN TRIODION (ПІСНА ТРІОДЬ)
 
 **Sunday of the Publican and Pharisee**
 
-* In the first six days, from Monday to Saturday of the Prodigal Son, the *Triodion* has nothing, only the *Octoechos* and *Menaion*. - General (Fast-free) week.
+* In the first six days, from Monday to Saturday of the Prodigal Son, the *Triodion* has nothing, only the *Octoechos* and *Menaion*. – General (Fast-free) week.
 
 **Sunday of the Prodigal Son**
 
 In the first five days, from Monday to Meatfare Friday, the *Triodion* has nothing, only the *Octoechos* and *Menaion
 
-Meatfare Saturday - Soul Saturday (Commemoration of the Dead)
+Meatfare Saturday – Soul Saturday (Commemoration of the Dead)
 
 **Meatfare Sunday (Sunday of the Last Judgment)**
 
-* **Cheesefare Week** - Repentance, like a forefeast before Great Lent.
+* **Cheesefare Week** – Repentance, like a forefeast before Great Lent.
 On Monday, Tuesday and Thursday in the *Triodion* there is little; the rest is in the *Octoechos* and *Menaion
 
 On Wednesday and Friday the *Triodion* has a fuller Lenten service
@@ -1095,7 +1095,7 @@ In the five days, from Monday to Friday of the 2nd week of Lent, the service is 
 
 From Monday onwards we take at Compline the canon of the saints of the *Menaion*, which fall from Lazarus Saturday to St. Thomas Sunday, both inclusive
 
-Second Saturday of Lent: service to the martyrs, hierarchs and all saints, also to the dead - according to the rule of Saturdays with "Alleluia," with the service of the saint of the *Menaion*. (The same for the 3rd and 4th Saturdays of Lent)
+Second Saturday of Lent: service to the martyrs, hierarchs and all saints, also to the dead – according to the rule of Saturdays with "Alleluia," with the service of the saint of the *Menaion*. (The same for the 3rd and 4th Saturdays of Lent)
 
 **Second Sunday of Lent (Without name. Repentance)**
 
@@ -1107,30 +1107,30 @@ Third Saturday of Lent: service of Saturday with "Alleluia" just as on the 2nd S
 
 In the five days, from Monday to Friday of the 4th week of Lent, the service is of the Veneration of the Cross
 
-Fourth Saturday of Lent: service - as on the 2nd and 3rd Saturdays of Lent
+Fourth Saturday of Lent: service – as on the 2nd and 3rd Saturdays of Lent
 
 **Fourth Sunday of Lent (Without name. Repentance)**
 
-*If desired - also the service of St. John of the Ladder.*
+*If desired – also the service of St. John of the Ladder.*
 
 On Monday, Tuesday, Wednesday and Friday of the 5th week of Lent the service is Lenten
 
 On Thursday of the 5th week of Lent: service of the Repentance of the Great Canon, with prostrations
 
-Saturday of the 5th week of Lent - Akathist Saturday
+Saturday of the 5th week of Lent – Akathist Saturday
 
 **Fifth Sunday of Lent (Without name. Repentance)**
 
-*If desired - also the service of Ven. Mary of Egypt.*
+*If desired – also the service of Ven. Mary of Egypt.*
 
 * In the five days, from Monday to Friday of the 6th week of Lent, the service is Lenten.
 
 **Flower *Triodion* (Квітна тріодь)**
 
-* **Sixth Saturday of Lent - Lazarus.**
+* **Sixth Saturday of Lent – Lazarus.**
 * Canons of the saints of the *Menaion*, falling from this Saturday to St. Thomas Sunday, were taken at Compline from Monday of the 2nd week of Lent onwards.
 
-**Sixth Sunday of Lent - Flower (Palm) Sunday**
+**Sixth Sunday of Lent – Flower (Palm) Sunday**
 
 * **One-day feast with Vigil.**
 On Great Monday, Tuesday and Wednesday the service is of the Passion, anticipating Christ's Passion[^746]
@@ -1146,60 +1146,60 @@ PASCHAL CYCLE (П'ЯТИДЕСЯТНИЦЯ)
 **[LORD] = EASTER: RESURRECTION OF CHRIST**
 
 * **39-day feast**
-From Monday to Bright Saturday inclusive we sing the whole service - The Resurrection
+From Monday to Bright Saturday inclusive we sing the whole service – The Resurrection
 
 On Monday and Tuesday we abstain from work and participate in the divine service. During the week meat is permitted
 
-**[LORD] SECOND SUNDAY AFTER EASTER - ANTIPASCHA - THOMAS**
+**[LORD] SECOND SUNDAY AFTER EASTER – ANTIPASCHA – THOMAS**
 
 * **7-day feast with Vigil**
 * Monday, Tuesday, Wednesday, Thursday, Friday and Saturday in the midst of the feast of St. Thomas Week, with *Menaion*.
 
-**Third Sunday after Easter - Myrrh-bearers**
+**Third Sunday after Easter – Myrrh-bearers**
 
 * **7-day feast**
-* Monday, Tuesday, Wednesday, Thursday, Friday and Saturday - in the midst of the feast of the Myrrh-bearers, with *Menaion*.
+* Monday, Tuesday, Wednesday, Thursday, Friday and Saturday – in the midst of the feast of the Myrrh-bearers, with *Menaion*.
 
-**Fourth Sunday after Easter - Paralytic**
+**Fourth Sunday after Easter – Paralytic**
 
 * **3-day feast**
-Monday and Tuesday - in the midst of the feast of the Paralytic, with *Menaion
+Monday and Tuesday – in the midst of the feast of the Paralytic, with *Menaion
 
 Wednesday of Mid-Pentecost. 8-day feast, without Vigil and without Polyeleos
 
-**Fifth Sunday after Easter - Samaritan Woman**
+**Fifth Sunday after Easter – Samaritan Woman**
 
 * **4-day feast**
-Monday and Tuesday - in the midst of the feast of Mid-Pentecost; service of the Samaritan Woman is delayed until the Apodosis of the feast of Mid-Pentecost
+Monday and Tuesday – in the midst of the feast of Mid-Pentecost; service of the Samaritan Woman is delayed until the Apodosis of the feast of Mid-Pentecost
 
 2. **[GT DOX]** Wednesday: Apodosis of Mid-Pentecost.
-Thursday, Friday and Saturday - in the midst of the feast of the Samaritan Woman
+Thursday, Friday and Saturday – in the midst of the feast of the Samaritan Woman
 
-**Sixth Sunday after Easter - Blind Man**
+**Sixth Sunday after Easter – Blind Man**
 
 * **4-day feast**
-Monday, Tuesday and Wednesday - in the midst of the feast of the Blind Man; on Wednesday - also **[GT DOX]**: Apodosis of the Resurrection and forefeast of Ascension
+Monday, Tuesday and Wednesday – in the midst of the feast of the Blind Man; on Wednesday – also **[GT DOX]**: Apodosis of the Resurrection and forefeast of Ascension
 
 Thursday: **[LORD] = ASCENSION.** **9-day feast with Vigil
 
-**Seventh Sunday after Easter - Holy Fathers**
+**Seventh Sunday after Easter – Holy Fathers**
 
-Monday, Tuesday, Wednesday and Thursday - in the midst of the feast of Ascension
+Monday, Tuesday, Wednesday and Thursday – in the midst of the feast of Ascension
 
 Friday: **[GT DOX]** Apodosis of Ascension
 
-Soul Saturday. All - according to the rule of Meatfare Saturday here, on pg. 320
+Soul Saturday. All – according to the rule of Meatfare Saturday here, on pg. 320
 
 **SUNDAY OF PENTECOST. DESCENT OF THE HOLY SPIRIT**
 
 * **7-day feast with Vigil**
-Monday of the Holy Spirit (and feast of the Most Holy Trinity - if desired). Abstinence from work and presence at divine service
+Monday of the Holy Spirit (and feast of the Most Holy Trinity – if desired). Abstinence from work and presence at divine service
 
 During the week meat is permitted
 
 Saturday: **[GT DOX]** Apodosis of the Descent of the Holy Spirit
 
-**First Sunday after Pentecost - All Saints**
+**First Sunday after Pentecost – All Saints**
 
 * *Here ends the Ancient Triodion*
 In this Sunday begins the column of Sunday Matins Gospels and Liturgical days
@@ -1780,15 +1780,15 @@ EXPLANATION OF THE TABLE
 
 The table contains 35 columns of Sundays of the whole year, according to the number of 35 Paschal keys and 35 corresponding Paschal days
 
-At the top of the table, that is, in its 1st transverse row, all 35 Paschal keys are indicated, under each of which extends a row, or column, of Sundays of the whole year, with the indication of the day of the month within which these Sundays fall, and their dates or names. The names of the months are given outside the column, on the left side, and separated from one another by transverse step-like lines; the day of the month is given in the column, and the number or name of the Sunday - outside the column, on the right side of the table
+At the top of the table, that is, in its 1st transverse row, all 35 Paschal keys are indicated, under each of which extends a row, or column, of Sundays of the whole year, with the indication of the day of the month within which these Sundays fall, and their dates or names. The names of the months are given outside the column, on the left side, and separated from one another by transverse step-like lines; the day of the month is given in the column, and the number or name of the Sunday – outside the column, on the right side of the table
 
 In the 7th row are given all 35 days on which the Sunday of the Publican may fall, on which the *Triodion* begins
 
 In the 8th row are given in double print all 35 Paschal days, corresponding to the 35 Paschal keys
 
-In the five rows that are between the Publican and the Paschal keys, are indicated all 35 Sundays that may fall between Theophany and the Publican, that is, the Sunday after Theophany and the four last ordinary ones (29th, 30th, 31st and 32nd). However, since not all these Sundays will always take place, the explanation of which we gave on p. 144 [→REF:p144] (for this depends on whether Pascha falls earlier or later), between these five Sundays some places may be unfilled, and this means that then the Sundays corresponding to them, indicated on the right side of the table, will not take place. For example, under the Paschal key "A" all places are unfilled; this means that none of these 5 Sundays will be taken, but immediately after Theophany - the *Triodion
+In the five rows that are between the Publican and the Paschal keys, are indicated all 35 Sundays that may fall between Theophany and the Publican, that is, the Sunday after Theophany and the four last ordinary ones (29th, 30th, 31st and 32nd). However, since not all these Sundays will always take place, the explanation of which we gave on p. 144 [→REF:p144] (for this depends on whether Pascha falls earlier or later), between these five Sundays some places may be unfilled, and this means that then the Sundays corresponding to them, indicated on the right side of the table, will not take place. For example, under the Paschal key "A" all places are unfilled; this means that none of these 5 Sundays will be taken, but immediately after Theophany – the *Triodion
 
-Of the *Triodion* Sundays, we presented only three, that is, the middle one - the Resurrection, and the two extreme ones, that is [Page 250] the Publican and All Saints; the rest of the Sundays that are between them, we do not present, for one can conveniently keep them in memory even without the table, because usually they have proper names and services that correspond to these names
+Of the *Triodion* Sundays, we presented only three, that is, the middle one – the Resurrection, and the two extreme ones, that is [Page 250] the Publican and All Saints; the rest of the Sundays that are between them, we do not present, for one can conveniently keep them in memory even without the table, because usually they have proper names and services that correspond to these names
 
 For the Sundays preceding the Sunday of the Publican, we do not present either the tone or the Sunday Gospel, for they depend on the past Pascha, and therefore one must look for them at the end of the table, within the limits of January and February under the Paschal key of the past Pascha
 
@@ -1796,13 +1796,13 @@ Next to some Sundays, Latin letters are printed in double type. This means that 
 
 After this, if you want to find out which Sundays in a certain year should be taken between Theophany and the Publican, seek first of all the Paschal key of the following Pascha, using Table I or Table II, and under it in Table III you will find these Sundays; only, if the year is leap, follow immediately the next column. And if you prefer to find out which Sunday, tone and Sunday Gospel are to be taken on one of the Sundays after the Descent of the Holy Spirit, then having determined the Paschal key of this year and having gone down its column to the place and day of the Sunday, follow from it along the transverse row to the right side of the table and you will find all this
 
-Regarding the Apodosis of the Meeting, which we present in the last row of the table, know that under the key "A" the number "0" means that the Apodosis will not be then; under keys from "R" to the end, the number "9" means that the Apodosis will be on February 9, and under others - it will be on different days, depending on the keys; only in a leap year follow immediately the next column. Paschal keys must be determined from the following Pascha
+Regarding the Apodosis of the Meeting, which we present in the last row of the table, know that under the key "A" the number "0" means that the Apodosis will not be then; under keys from "R" to the end, the number "9" means that the Apodosis will be on February 9, and under others – it will be on different days, depending on the keys; only in a leap year follow immediately the next column. Paschal keys must be determined from the following Pascha
 
 ---
 
 ## 5.5 Rubrics Concerning the Holy Doors and Curtain of the Iconostasis
 
-According to the rubric of the Greek Euchologion, the holy doors are opened[^782] only εις την αρχήν του μεγάλου Εσπερινού, οτε θυμια μονός ο Ιερεύς, εις τας εισόδους πασάς, ήγουν των Εσπερινών και της Λειτουργίας, και του αγίου Ευαγγελίου. Ωσαύτως ανοίγεται και από του Μετά φόβου... μέχρι της συμπληρώσεως της θείας Λειτουργίας.
+According to the rubric of the Greek *Euchologion*, the holy doors are opened[^782] only εις την αρχήν του μεγάλου Εσπερινού, οτε θυμια μονός ο Ιερεύς, εις τας εισόδους πασάς, ήγουν των Εσπερινών και της Λειτουργίας, και του αγίου Ευαγγελίου. Ωσαύτως ανοίγεται και από του Μετά φόβου... μέχρι της συμπληρώσεως της θείας Λειτουργίας.
 
 The curtain, according to the present custom of Athonite monasteries, at the Liturgy, after the completion of the Proskomedia, is drawn open, and at the "Great Entrance" is drawn shut; at "Especially" it is drawn open, and at "And grant that with one mouth" it is drawn shut; at "With fear" it is drawn open and so remains until the conclusion of the Liturgy[^751]. According to the former custom of the Athonite Mountain, when one priest serves, that is without a Deacon, the curtain is drawn shut at the "Great Entrance" and is not drawn open until the end of communion. Besides this, it remains drawn open at Vespers and at Matins from the 1st Hour and at the Moleben. When the Hours are celebrated without Liturgy, it is drawn open for the reading of the Apostle and drawn shut after the dismissal of the "Typika"[^752].
 

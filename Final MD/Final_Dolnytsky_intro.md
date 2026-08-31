@@ -96,7 +96,7 @@ ________________________________________
   * [3.6 February](#36-february)
     * [3.6.1 1 February: Forefeast of the Meeting of the Lord](#361-february-forefeast-of-the-meeting-of-the-lord)
     * [3.6.2 2 February: Meeting of the Lord](#362-february-meeting-of-the-lord)
-    * [3.6.3 3 - 8 February: Afterfeast of the Meeting](#363-8-february-afterfeast-of-the-meeting)
+    * [3.6.3 3 – 8 February: Afterfeast of the Meeting](#363-8-february-afterfeast-of-the-meeting)
     * [3.6.4 24 February: First and Second Finding of the Precious Head of the Forerunner](#364-february-first-and-second-finding-of-the-precious-head-of-the-forerunner)
   * [3.7 March](#37-march)
     * [3.7.1 1 March: Holy 40 Martyrs](#371-march-holy-40-martyrs)
@@ -132,7 +132,7 @@ ________________________________________
     * [3.12.5 29 August: Beheading of the Precious Head of St. John the Baptist](#3125-august-beheading-of-the-precious-head-of-st-john-the-baptist)
     * [3.12.6 31 August: Deposition of the Sash of the Most Holy Theotokos](#3126-august-deposition-of-the-sash-of-the-most-holy-theotokos)
 * **PART IV: RUBRICS OF THE TRIODION**
-  * [4.1 Lenten Triodion](#41-lenten-triodion)
+  * [4.1 Lenten *Triodion*](#41-lenten-triodion)
     * [4.1.1 Sunday of the Publican and Pharisee](#411-sunday-of-the-publican-and-pharisee)
     * [4.1.2 Sunday of the Prodigal Son](#412-sunday-of-the-prodigal-son)
     * [4.1.3 Meatfare, or Soul Saturday](#413-meatfare-or-soul-saturday)
@@ -152,7 +152,7 @@ ________________________________________
     * [4.1.17 Monday, Tuesday, Wednesday and Friday of the Fifth Week of Great Lent](#4117-monday-tuesday-wednesday-and-friday-of-the-fifth-week-of-great-lent)
     * [4.1.18 Fifth Sunday of Great Lent](#4118-fifth-sunday-of-great-lent)
     * [4.1.19 Monday, Tuesday, Wednesday, Thursday and Friday of the Sixth Week of Great Lent](#4119-monday-tuesday-wednesday-thursday-and-friday-of-the-sixth-week-of-great-lent)
-  * [4.2 Flower Triodion (Pentecostarion)](#42-flower-triodion-pentecostarion)
+  * [4.2 Flowery *Triodion* (*Pentecostarion*)](#42-flower-triodion-pentecostarion)
     * [4.2.1 Lazarus Saturday](#421-lazarus-saturday)
     * [4.2.2 Flower Sunday (Palm Sunday)](#422-flower-sunday-palm-sunday)
     * [4.2.3 Great Monday, Tuesday and Wednesday](#423-great-monday-tuesday-and-wednesday)
@@ -212,13 +212,13 @@ At the initiative of Fr. Dr. S. Mudry in 1979, the then spiritual director of th
 The final editing of the translation was reviewed by a commission composed of: Fr. Dr. Severian Yakymyshyn, consultor of the Liturgical Commission at the Congregation for the Eastern Churches; Fr. Dr. Porfiriy Pidruchny; and Fr. Mgr. Mykhailo Havryliv. By the decision of the commission, the "Rule of Divine Services" (Ustav bohosluzhen'), approved by the Apostolic See in 1944 and first published in the Ukrainian language in 1958, which replaced the first part of the Typikon, i. e., "General View of Divine Services," is added to the translation of the Typikon. However, this first part does not lose its significance as a valuable historical source of the development of the rite. We also note in which points the Typikon of Fr. Dolnytsky has lost its relevance today:
 ##### 1.	Liturgical prescriptions of Part 1 of Fr. Dolnytsky's Typikon, taken from the "Appendix" of the Lviv Synod published in 1896, are valid today only insofar as they agree with the Roman "Rule of Divine Services", or explain or supplement it in some way.
 ##### 2.	Rubrics concerning various fasts, given by Fr. Dolnytsky's Typikon, are no longer valid today, because in 1966 the Episcopate of the UCC, under the leadership of Major Archbishop and Cardinal Josyf Slipyj, issued new norms in which they obliged all clergy, monastics, and faithful in conscience to observe the fast, namely:
-a) On all Fridays of the entire year, with the exception of compact weeks (zahalnytsia) and occurring Feasts of the Lord and the Theotokos - abstinence from meat;
-b) On the first day of the Great Fast and on Good Friday - abstinence from meat and dairy foods;
-c) On the Eve of the Nativity and Theophany, the Feast of the Exaltation of the Precious Cross, and the Beheading of the Precious Head of St. John the Baptist - abstinence from meat with a single meal to satiety with additional modest snacks, according to local customs;
+a) On all Fridays of the entire year, with the exception of compact weeks (zahalnytsia) and occurring Feasts of the Lord and the Theotokos – abstinence from meat;
+b) On the first day of the Great Fast and on Good Friday – abstinence from meat and dairy foods;
+c) On the Eve of the Nativity and Theophany, the Feast of the Exaltation of the Precious Cross, and the Beheading of the Precious Head of St. John the Baptist – abstinence from meat with a single meal to satiety with additional modest snacks, according to local customs;
 His Beatitude the Major Archbishop permitted bishops, pastors, and confessors to grant other alleviations in case of need, according to the spirit of the rite (Herald of the Major Archbishop, 1966, vol. 2, Art. 195).
 ##### 3.	The Holy Liturgy is permitted to be abbreviated as presented in the Liturgicon (Sluzhebnyk) issued by the Synod of Bishops of the UCC in 1989, and the Apostle and Gospel are permitted to be taken as one [per reading], even if two fall on that day (Herald of the Major Archbishop, 1965, vol. 1, p. 42). With the blessing of the Rector (pastor), for the purpose of shortening the divine services, it is permitted to omit secondary Troparia and Kontakia if several fall on a certain day; with the same blessing, it is permitted not to take the same Troparion, Sessional Hymn, or the same Stichera twice or thrice.
 The need for rubrical literature is constantly growing. The reason for this is the rebirth of the UCC on its historical lands; therefore, the editors believe and hope that the new edition of Fr. Dolnytsky's Typikon, now in the Ukrainian language, will serve for the best possible education of the new generation of clergy of our Church.
 Like every work of such magnitude, this translation is not devoid of errors and flaws. The editors are grateful in advance to all those who send their remarks.
 Publisher "Ukrainian Spiritual Library"
 COMPONENT PARTS OF THE TYPIKON
-This Typikon consists of five parts, of which Part 1 presents the general view of the divine service; Part 2 - general rubrics for various services of the Octoechos and Menaion; Part 3 - specific rubrics for certain services of the Menaion; Part 4 - specific rubrics for the services of the Triodion; Part 5 - specific rubrics for temple feasts.
+This Typikon consists of five parts, of which Part 1 presents the general view of the divine service; Part 2 – general rubrics for various services of the *Octoechos* and *Menaion*; Part 3 – specific rubrics for certain services of the *Menaion*; Part 4 – specific rubrics for the services of the *Triodion*; Part 5 – specific rubrics for temple feasts.

@@ -29,7 +29,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
 
 > **Deacons:** "Bless, Master, the censer."
 
-*...the Priest blesses both censers in the form of a cross, each separately, and they all recite together the prayer "Incense we offer to Thee," which is given in the Sluzhebnik at the end of the Proskomedia. At other censings, instead of this prayer, only the following is said:*
+*...the Priest blesses both censers in the form of a cross, each separately, and they all recite together the prayer "Incense we offer to Thee," which is given in the *Sluzhebnik* at the end of the Proskomedia. At other censings, instead of this prayer, only the following is said:*
 
 > **Priest:** "Blessed is our God always, now and ever, and unto ages of ages."
 
@@ -91,7 +91,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
 
 *If there is no deacon, then this litany, according to local custom, is said by the Priest quietly, and the Choir responds to its petitions aloud.*
 
-*After the litany, "Lord, I have cried" is sung according to the tone of the first sticheron. During the singing, the deacons turn to the Priest:*
+*After the litany, *“Lord, I have cried”* is sung according to the tone of the first sticheron. During the singing, the deacons turn to the Priest:*
 
 > **Deacons:** "Bless, Master, the censer."
 
@@ -101,7 +101,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
 
 *...after which the deacons cense the Holy Table from the four sides, the iconostasis, the clergy, the choirs, and the people and, having bowed before the Holy Doors, return behind the Holy Table to the Priest.*
 
-#### 3. Entrance and Censing at "Gladsome Light"
+#### 3. Entrance and Censing at *“Gladsome Light”*
 
 *When the Choir begins to sing the last verse of the psalm, that is, "For His mercy is great toward us," the Priest vests in the phelonion, having blessed it and having kissed the cross upon it, and at "Glory" makes the Entrance with the censer together with the deacons in the following manner:*
 
@@ -127,7 +127,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
 
 > **First Deacon:** "Wisdom! Upright!"
 
-*...and, during the singing of "Gladsome Light," the deacons enter the sanctuary and cense the Holy Table from the four sides and everything else as at "Lord, I have cried"[^12].*
+*...and, during the singing of "Gladsome Light," the deacons enter the sanctuary and cense the Holy Table from the four sides and everything else as at *“Lord, I have cried”*[^12].*
 
 *After the deacons, the Priest also enters the sanctuary and waits before the steps until the deacons, having returned to the sanctuary after the censing and having bowed to the Holy Mysteries, stand together with him before the steps of the Holy Table.*
 
@@ -236,10 +236,10 @@ Except for the four Hours, of which each has one and the same form, all other pa
 > 1. During the censing.
 > 2. From the beginning until the Prefatory Psalm (Psalm 103).
 > 3. During the singing of the first 2 verses of the psalm "Lord, I have cried."
-> 4. From "Glory, Both now" of the stichera at "Lord, I have cried" until the end of the Prokimenon.
+> 4. From "Glory, Both now" of the stichera at *“Lord, I have cried”* until the end of the Prokimenon.
 > 5. At "Vouchsafe, O Lord."
 > 6. At the Litiya prayer "O Master, Plenteous in Mercy" (and at it we bow our heads, just as at the silent prayer of the litany "Let us complete").
-> 7. From "Lord, now lettest Thou" until the end of Vespers.
+> 7. From *“Lord, now lettest Thou”* until the end of Vespers.
 
 ---
 
@@ -265,7 +265,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
 
 #### 2. Main Order of Service
 
-*After this, from the Prefatory Psalm to the exclamation "Blessed be the might of Thy kingdom" of the litany "Let us complete," all parts are taken and everything is done as at Great Vespers with Vigil, only at this Vespers, at "Lord, I have cried" there can be not only 10 or 8 stichera, but also 6.*
+*After this, from the Prefatory Psalm to the exclamation "Blessed be the might of Thy kingdom" of the litany "Let us complete," all parts are taken and everything is done as at Great Vespers with Vigil, only at this Vespers, at *“Lord, I have cried”* there can be not only 10 or 8 stichera, but also 6.*
 
 *After the exclamation of the Priest, who remains at the Holy Table (together with the deacons, if there are any) "Blessed be the might of Thy kingdom," the Aposticha is sung, followed by "Lord, now lettest Thou," the Trisagion, and "Our Father," after which the Priest exclaims:*
 
@@ -322,11 +322,11 @@ Except for the four Hours, of which each has one and the same form, all other pa
 
 #### 2. Order of Service
 
-*From the beginning of Vespers until the stichera at "Lord, I have cried" everything proceeds as at Great Vespers without Vigil, with these exceptions:*
-* Instead of the 1st Kathisma ("Blessed is the man"), the **current Kathisma** is read. If on the previous day there was a Vigil, then on account of the vigil labor, the Kathisma is omitted. (Similarly, at Vespers on Sunday evening for Monday there is no Kathisma).
-* At "Lord, I have cried" there are **6 stichera**. At the conclusion:
+*From the beginning of Vespers until the stichera at *“Lord, I have cried”* everything proceeds as at Great Vespers without Vigil, with these exceptions:*
+* Instead of the 1st Kathisma (*“Blessed is the man”*), the **current Kathisma** is read. If on the previous day there was a Vigil, then on account of the vigil labor, the Kathisma is omitted. (Similarly, at Vespers on Sunday evening for Monday there is no Kathisma).
+* At *“Lord, I have cried”* there are **6 stichera**. At the conclusion:
   > **Priest:** "Wisdom! Upright!"
-  ...the hymn "Gladsome Light" is sung, followed by:
+  ...the hymn *“Gladsome Light”* is sung, followed by:
   > **Priest:** "Let us be attentive! Peace be unto all!"
   > **Priest:** "Wisdom! Let us be attentive!"
 * The **Prokimenon of the day** is sung from the *Horologion*. There are no Old Testament readings, nor is the litany "Let us say all" taken here; instead, "Vouchsafe, O Lord" follows immediately, and everything else proceeds as at Great Vespers without Vigil.
@@ -346,7 +346,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
 
 ### 1.2.4 Order of Small Vespers
 
-*Small Vespers is celebrated just as Daily Vespers[^18], but without a Kathisma and without litanies, except for the final litany "Have mercy on us, O God" (prescribed by Slavic Typikons, though omitted in Greek rubrics). At "Lord, I have cried" there are only 4 stichera. The dismissal is preceded by "Wisdom!" and "More honorable," exactly as at Daily Vespers.*
+*Small Vespers is celebrated just as Daily Vespers[^18], but without a Kathisma and without litanies, except for the final litany "Have mercy on us, O God" (prescribed by Slavic Typikons, though omitted in Greek rubrics). At *“Lord, I have cried”* there are only 4 stichera. The dismissal is preceded by "Wisdom!" and "More honorable," exactly as at Daily Vespers.*
 
 ---
 
@@ -368,7 +368,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
 * **a) On the first five weekdays (Monday through Friday):**
   Six troparia are taken: first of the Temple (if dedicated to the Lord or the Theotokos), then the troparion of the weekday. If the Temple is dedicated to a Saint, then first the troparion of the day, and after it of the Temple; followed by the four troparia in the *Horologion* beginning with "O God of our Fathers." (On Thursday, having a double commemoration, there are 7 troparia, and in monasteries 8 with St. Basil[^20]. On Wednesday and Friday, the Cross troparion "O Lord, save Thy people" always takes first place).
 * **b) On Saturday (Friday evening for Saturday):**
-  Three troparia: first of the day; **Glory:** Kontakion for the Departed ("With the saints give rest"); **Both now:** Kontakion of the day. (The troparion of the Temple precedes that of the day only if of the Lord or Theotokos).
+  Three troparia: first of the day; **Glory:** Kontakion for the Departed (*“With the saints give rest”*); **Both now:** Kontakion of the day. (The troparion of the Temple precedes that of the day only if of the Lord or Theotokos).
 * **c) On Sunday (Saturday evening for Sunday):**
   Our *Horologia* prescribe only the Sunday Hypakoe of the current tone.
 * **d) Festal Occasions & Polyeleos Saints:**
@@ -413,12 +413,12 @@ Except for the four Hours, of which each has one and the same form, all other pa
 
 > **Note on the Troparion and Kontakion of a Feast at Midnight Office:**
 > On certain major feasts, instead of the usual troparia ("Behold, the Bridegroom") after the first Trisagion, the troparion of the Feast is taken; and instead of the troparia after the second Trisagion ("Remember, O Lord"), the Kontakion of the Feast is taken (omitting "Lord, have mercy" 12 times):
-> * **In the Menaion cycle:**
+> * **In the *Menaion* cycle:**
 >   * January 26 – Synaxis of the Most Holy Theotokos (in Miasena)
 >   * January 1 – Circumcision and St. Basil (if without Vigil)
 >   * January 7 – Synaxis of the Holy Forerunner
 >   * February 2 – Meeting of the Lord (if without Vigil)
-> * **In the Triodion / Pentecostarion cycle:**
+> * **In the *Triodion* / *Pentecostarion* cycle:**
 >   * Lazarus Saturday
 >   * Apodosis of Pascha
 >   * Monday of the Holy Spirit (Sunday evening for Monday)[^22]
@@ -429,7 +429,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
 
 ### 1.5.1 Order of Great Matins (With Vigil and Without Vigil)
 
-#### 1. From the Beginning to the Troparia at "God is the Lord"
+#### 1. From the Beginning to the Troparia at *“God is the Lord”*
 
 * **When celebrated with an All-Night Vigil:** Matins begins immediately after Great Vespers. The Priest, vested in epitrachelion and phelonion, having concluded Vespers with "The blessing of the Lord be upon you," turns to the Holy Table and exclaims:
   > **Priest:** "Glory to the Holy, Consubstantial, Life-Creating, and Undivided Trinity, always, now and ever, and unto ages of ages."
@@ -444,7 +444,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
 
 *...and sings the verses at "God is the Lord," followed by the appointed troparia.*
 
-#### 2. Order of Troparia at "God is the Lord"
+#### 2. Order of Troparia at *“God is the Lord”*
 
 * **On a Feast of the Lord or of the Theotokos:** Troparion of the Feast twice; **Glory, Both now:** troparion of the Feast once more.
 * **On a Sunday with a Saint having a troparion:** Sunday troparion of the current tone twice; **Glory:** troparion of the Saint once; **Both now:** Sunday Theotokion in the tone of the Saint's troparion.
@@ -485,7 +485,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
 * **Distribution of Canons:**
   * *Festal Services:* 1 or 2 canons taken to make 12 troparia, with the Heirmos sung twice.
   * *Saint during a Feast:* Canons taken to make 12 (or 14 if two saints), with the Heirmos of the first canon only[^30].
-  * *Sunday with Saint:* Canons taken to make 14 (Resurrection, Cross-Resurrection, Theotokos, and Menaion)[^31].
+  * *Sunday with Saint:* Canons taken to make 14 (Resurrection, Cross-Resurrection, Theotokos, and *Menaion*)[^31].
 
 * **Refrains to the Odes:**
   * *Feast of the Lord:* "Glory, O Lord, to Thy holy (Transfiguration / Nativity / Cross)[^33]."
@@ -503,7 +503,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
 * **The 9th Ode (Magnificat):**
   * Introduced by the Deacon/Priest:
     > **Deacon:** "The Theotokos and Mother of the Light let us magnify in songs."[^34]
-  * The Song of the Theotokos ("My soul magnifies the Lord") with the refrain "More honorable than the Cherubim" is sung, while the Deacon censes the altar and temple. (On Great Feasts of the Lord and Theotokos, proper festal refrains are sung instead of the Magnificat).
+  * The Song of the Theotokos ("My soul magnifies the Lord") with the refrain *“More honorable than the Cherubim”* is sung, while the Deacon censes the altar and temple. (On Great Feasts of the Lord and Theotokos, proper festal refrains are sung instead of the Magnificat).
 
 * **Hymnography after Odes 3, 6, and 9:**
   * *After the 3rd Ode:* Small Litany, followed by the **Sessional Hymn** of the Saint / Feast.
@@ -546,7 +546,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
 > **Rubrics on Posture (Standing and Sitting at Matins):**
 > It is not proper to sit, but to stand:
 > 1. At the very beginning of Matins.
-> 2. At "God is the Lord" and during the troparia.
+> 2. At *“God is the Lord”* and during the troparia.
 > 3. At the Magnification and the Resurrectional Evlogitaria ("The Angelic Host").
 > 4. From the Prokimenon until the end of the Gospel and Psalm 50.
 > 5. At the Song of the Theotokos (Magnificat, 9th Ode).
