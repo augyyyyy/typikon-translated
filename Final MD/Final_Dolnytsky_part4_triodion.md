@@ -10,7 +10,7 @@
 
 ##### At Great Vespers
 
-1.	*“Blessed is the man”*, as usual.
+1. *“Blessed is the man”*, as usual.
 
 1. **On *"Lord, I have cried"*:* 10 stichera: 7 of the *Octoechos* and 3 of the *Triodion*, that is, the two given at *“Lord, I have cried”* and the one from the Doxastikon of the Litiya; Glory: *Triodion*, Both now: 1st Theotokion of the current tone (Dogmatikon)
 
@@ -80,7 +80,7 @@ The service of the saint of the day is transferred to the preceding Compline or 
 
 ##### At Vespers
 
-1.	"In peace let us pray to the Lord" for the dead[^470].
+1. "In peace let us pray to the Lord" for the dead[^470].
 
 1. **Kathisma:** "proper
 
@@ -90,9 +90,9 @@ The service of the saint of the day is transferred to the preceding Compline or 
 
 4. **Aposticha:** Aposticha of the *Octoechos* of the current tone, Glory: *Triodion*, Both now: also *Triodion*
 
-5. At the end: Troparion for the dead ("By the depth of wisdom"), Glory, Both now: its Theotokion "Thee as a wall and haven"
+5. At the end: Troparion for the dead ("By the depth of wisdom"), Glory, Both now: Theotokion
 
-7.	"Have mercy on us, O God", dismissal for the dead and "In blessed falling asleep".
+6. "Have mercy on us, O God", dismissal for the dead and "In blessed falling asleep".
 
 ##### At Compline
 
@@ -102,7 +102,7 @@ The service of the saint of the day is transferred to the preceding Compline or 
 
 ##### At Matins
 
-1.	"In peace let us pray to the Lord" for the dead.
+1. "In peace let us pray to the Lord" for the dead.
 
 1. **On *"God is the Lord"*:* Instead of *“God is the Lord”*, we sing Alleluia in Tone 8 with three verses for the dead, as found at the end of the *Horologion*[^471]
 
@@ -210,9 +210,9 @@ AT Great Compline
 
 > **Note ** on Prostrations
 
-We make three small prostrations: 1. At each Trisagion (which will be five times), except the Trisagion after the supplicatory verses "O All-holy Lady", for immediately after them, before the Trisagion, follows "O God, absolve", at which there were already three prostrations. 2. At each of the three "O come, let us worship"[^483]. 3. At "Alleluia" after the first and second Trisagion. 4. At "O God, absolve" after the supplicatory verses to the Most Holy Theotokos. 5. At each supplicatory verse – one small prostration and at the prayer of St. Ephrem – 16 prostrations: 4 great and 12 small[^490][^484].
+We make three small prostrations: 1. At each Trisagion (which will be five times), except the Trisagion after the supplicatory verses "O All-holy Lady", for immediately after them, before the Trisagion, follows "O God, absolve", at which there were already three prostrations. 2. At each of the three "O come, let us worship"[^483]. 3. At "Alleluia" after the first and second Trisagion. 4. At "O God, absolve" after the supplicatory verses to the Most Holy Theotokos. 5. At each supplicatory verse – one small prostration and at the prayer of St. Ephrem – 16 prostrations: 4 great and 12 small[^484].
 
-The rubric for Great Compline is here on pp. 26-27 [→REF:p26-27], only:
+The rubric for Great Compline is here on [pp. 26-27](Final_Dolnytsky_part2_general_rubrics.md#order-of-great-compline), only:
 
 6. After the Creed, the prostrations at the supplicatory verses take place thus: The 1st choir begins: "O All-holy Lady Theotokos, pray to God for us", and the 2nd Choir makes a prostration, then rises and responds, and the 1st Choir makes a prostration. So also at all other supplicatory verses. And when we say "O God, be merciful to me, a sinner" (3), both choirs sing together and make three prostrations (Greek *Triodion*, Monday of the 1st week of Lent)
 
@@ -226,7 +226,7 @@ We make three small prostrations: at each Trisagion, at both "O come, let us wor
 
 Note
 
-We make prostrations according to the rubric of Lenten Matins: 1. At "Alleluia" of each "Glory" of the Kathismata – three prostrations[^486]. 2. After *“It is truly meet”* – 1 prostration[^487]. 3. At the Doxology[^488] – 3 prostrations[^489]. 4. At the final Trisagion – 3 prostrations. 5. At the prayer of St. Ephrem – 16 prostrations: 4 great and 12 small.
+We make prostrations according to the rubric of Lenten Matins: 1. At "Alleluia" of each "Glory" of the Kathismata – three prostrations[^486]. 2. After *“It is truly meet”* – 1 prostration[^487]. 3. At the Doxology[^488] – 3 prostrations[^489]. 4. At the final Trisagion – 3 prostrations. 5. At the prayer of St. Ephrem – 16 prostrations: 4 great and 12 small[^490].
 
 1. From the beginning to the end of the litany "In peace let us pray to the Lord", everything – as usual for every day
 
@@ -234,9 +234,9 @@ We make prostrations according to the rubric of Lenten Matins: 1. At "Alleluia" 
 
 3. Two Kathismata with the usual prostrations at "Glory"; after the 1st Kathisma – Sessional Hymn of the *Octoechos*; after the 2nd – Sessional Hymn of the *Triodion*, then Psalm 50 and immediately – Canon[^491]
 
-4. **Canons:** *Distribution:* Canons 3 on 14: first of the *Octoechos* (the second of the *Octoechos* is not taken) with heirmos on 6, of the *Menaion* of the saint on 4, and of the *Triodion* on 4. In those odes where the triodion [three-ode canon] occurs, we sing the canon of the *Triodion* on 6 and both canons of the triodion together on 8, and one more separate troparion with the refrain "Glory to Thee, our God, glory to Thee"[^572][^561], and instead of the 
+4. **Canons:** *Distribution:* Canons 3 on 14: first of the *Octoechos* (the second of the *Octoechos* is not taken) with heirmos on 6, of the *Menaion* of the saint on 4, and of the *Triodion* on 4. In those odes where the triodion [three-ode canon] occurs, we sing the canon of the *Triodion* on 6 and both canons of the triodion together on 8, and one more separate troparion with the refrain "Glory to Thee, our God, glory to Thee", and instead of the 
    * *Katavasia:* Katavasia it will be the heirmos of the second canon of the triodion. In the odes in which there is no triodion, we suppose that the 
-   * *Katavasia:* Katavasia will be the heirmos of the last canon, that is, of the *Triodion*, after each ode, as given in the *Triodion* on Cheesefare Friday, for these two days have a common rubric, although for Wednesday it is given imprecisely. The Canon of the *Octoechos* and *Menaion* in these odes, according to the rubric of the Greek Triodia, is omitted[^492]. The rubrics of the Slavs, for Whom the Greek length is not enough, prescribe transferring the odes of the *Menaion* canon to the preceding ones, in which the triodion has no place, and they sing on Wednesday the 1st ode of the *Octoechos* with heirmos on 4, the 1st and 3rd odes of the *Menaion* (without Theotokia) on 6 and the *Triodion* on 4. On Friday – the 4th ode of the *Octoechos* on 4, the 4th and 5th odes of the *Menaion* on 6 and the *Triodion* on 4. Similarly, the 6th ode of the *Octoechos* on 4, the 6th and 8th of the *Menaion* on 6 and the *Triodion* on 4. Also the 6th ode of the *Octoechos* on 4, the 7th and 9th of the *Menaion* on 6 and the *Triodion* on 4. The Biblical Odes in the Psalter we do not sing[^493]. To the troparia of the canon we chant the usual refrains (on pp. 29-30 [→REF:p29-30]). 
+   * *Katavasia:* Katavasia will be the heirmos of the last canon, that is, of the *Triodion*, after each ode, as given in the *Triodion* on Cheesefare Friday, for these two days have a common rubric, although for Wednesday it is given imprecisely. The Canon of the *Octoechos* and *Menaion* in these odes, according to the rubric of the Greek Triodia, is omitted[^492]. The rubrics of the Slavs, for Whom the Greek length is not enough, prescribe transferring the odes of the *Menaion* canon to the preceding ones, in which the triodion has no place, and they sing on Wednesday the 1st ode of the *Octoechos* with heirmos on 4, the 1st and 3rd odes of the *Menaion* (without Theotokia) on 6 and the *Triodion* on 4. On Friday – the 4th ode of the *Octoechos* on 4, the 4th and 5th odes of the *Menaion* on 6 and the *Triodion* on 4. Similarly, the 6th ode of the *Octoechos* on 4, the 6th and 8th of the *Menaion* on 6 and the *Triodion* on 4. Also the 6th ode of the *Octoechos* on 4, the 7th and 9th of the *Menaion* on 6 and the *Triodion* on 4. The Biblical Odes in the Psalter we do not sing[^493]. To the troparia of the canon we chant the usual refrains (on [pp. 29-30](Final_Dolnytsky_part2_general_rubrics.md#refrains-to-the-odes-of-the-canon)). 
    * *After the 3rd Ode:* Sessional Hymn to the Saint, 
    * *After the 6th Ode:* Kontakion to the Saint, and if there is none, then we recite the Martyricon of the *Octoechos* of the current tone, given at the end of the *Triodion*, after the Sessional Hymns of Matins. In general, in our modern Horologia Kontakia are given to all saints[^494]. 
    * *After the 9th Ode:* Trinity Exaposteilarion of the tone
@@ -259,13 +259,13 @@ Everything – according to the Lenten rubric of Holy Great Lent, except the Sti
 
 4. After the Trisagion, instead of the Kontakion, the Lenten Troparia are sung, which are in the *Horologion*
 
-5.	"Lord, have mercy" (40), "Thou Who at all times" and the rest with the prayer of St. Ephrem and 16 prostrations.
+5. "Lord, have mercy" (40), "Thou Who at all times" and the rest with the prostrations.
 
-5. Trisagion with "Our Father", "For Thine is the Kingdom" and "Lord, have mercy" (12)
+6. Trisagion with "Our Father", "For Thine is the Kingdom" and "Lord, have mercy" (12)
 
-6. Final prayer: at the 1st Hour – "O Christ, the True Light", and at the others – the other one
+7. Final prayer: at the 1st Hour – "O Christ, the True Light", and at the others – their proper ones
 
-8.	"Glory to Thee, O Christ God" and the rest and dismissal.
+8. "Glory to Thee, O Christ God" and the rest and dismissal.
 
 > **Note:** The Hours 3rd, 6th, and 9th, Typika and Vespers in the cathedral temple are sung together, beginning at 11 o'clock in the morning[^498].
 
@@ -299,13 +299,13 @@ On Wednesday evening for Thursday and on Friday evening for Saturday
 
 8. Litany "Have mercy on us, O God" and 3 great prostrations, without prayer
 
-9.	"O All-holy Trinity", "Blessed be the name of the Lord", "I will bless the Lord", *“It is truly meet”* and dismissal from "Glory to Thee, O Christ God".
+9. "O All-holy Trinity", "Blessed be the name of the Lord", "I will bless the Lord", *“It is truly meet”* and dismissal from "Glory to Thee, O Christ God".
 
 > **Note:** Although according to the rubric on Wednesday and Friday the Liturgy is not celebrated, nor the Presanctified, nevertheless, the Synod of Lviv permits our churches to celebrate also on these days the Liturgy of Chrysostom[^501].
 
 ##### At Compline
 
-On Wednesday evening we read Small [Compline]. We do not take the Canon of the Theotokos, but we sing the Canon of the *Menaion* of the saint who falls on Saturday.
+On Wednesday evening we read Small [Compline]. We do not take the Canon of the Theotokos[^502], but we sing the Canon of the *Menaion* of the saint who falls on Saturday.
 
 #### On Cheesefare Thursday
 
@@ -317,7 +317,7 @@ Everything – according to the general rule for a saint without Polyeleos on we
 
 #### On Cheesefare Friday
 
-On Cheesefare Thursday evening and on Friday morning we sing the service exactly as on Wednesday, here on pp. 324-325 [→REF:p324-325].
+On Cheesefare Thursday evening and on Friday morning we sing the service exactly as on Wednesday, here on [pp. 324-325](#on-cheesefare-wednesday-and-friday).
 
 #### On Cheesefare Saturday
 
@@ -343,11 +343,11 @@ On Friday evening everything – according to the rubric for Wednesday evening, 
 
 After the 3rd Ode – Sessional Hymn of the Fathers; after the 6th – Kontakion and Ikos of the Fathers, after the 9th – Exaposteilarion of the Fathers.
 
-4.	4 Stichera of the Praises of the Fathers, Glory: of the Fathers, Both now: "O Theotokos, Thou Art the Vine".
+4. 4 Stichera of the Praises of the Fathers, Glory: of the Fathers, Both now: Theotokion
 
-4. **After the Great Doxology:** Troparion to the Fathers, Glory, Both now: Theotokion from the Sunday ones in the tone of the [Troparion of the] Fathers
+5. **After the Great Doxology:** Troparion to the Fathers, Glory, Both now: Theotokion from the Sunday ones in the tone of the [Troparion of] the Fathers
 
-5. **Dismissal:** Great Dismissal with commemoration of the Fathers
+6. **Dismissal:** Great Dismissal with commemoration of the Fathers
 
 ##### At the Hours
 
@@ -391,7 +391,7 @@ We sing everything according to the rubric of the Sunday of the Prodigal Son, he
 
 9. After "Now lettest Thou Thy servant depart" and the Trisagion with three small prostrations we sing 3 troparia with prostrations, that is "Virgin Theotokos" and a prostration, Glory: "O Baptizer of Christ" and a prostration; Both now: "Intercede for us" and a prostration, and then "Beneath Thy tender mercy" without a prostration
 
-10.	"Lord, have mercy" (40) and the rest, as in the *Horologion*, however, only up to the end of the 3rd great prostration of the prayer of St. Ephrem, we do not make other small prostrations[^509], but the Priest immediately: "Glory to Thee, O Christ God" and the dismissal of the day with the commemoration of the saint[^521].
+10. "Lord, have mercy" (40) and the rest, as in the *Horologion*, however, only up to the end of the 3rd great prostration of the prayer of St. Ephrem, we do not make other small prostrations[^509], but the Priest immediately: "Glory to Thee, O Christ God" and the dismissal of the day with the commemoration of the saint.
 
 ##### At Compline
 
@@ -459,7 +459,7 @@ On Friday: at the 5th, 8th, and 9th Odes there will be 3 canons on 14, as on Mon
 
 On Saturday: at the 6th, 7th, 8th, and 9th Odes there will be 3 canons: one of the saint and two of the *Triodion*, at other odes there will be two canons: of the temple and of the saint; however, for Saturday a separate rubric will be given, since Saturday is not a Lenten day.
 
-•	If two saints fall, then we read both their canons together on 6[^514], that is of the first saint with heirmos on 3 and of the second without heirmos on 3. So also to the saint on 6.
+• If two saints fall, then we read both their canons together on 6[^514], that is of the first saint with heirmos on 3 and of the second without heirmos on 3. So also to the saint on 6.
 
 The Katavasia will be always the heirmos of the last canon either of the triodion, or of the *Menaion*: of the triodion where there will be a triodion, and where there will be only the *Menaion*, then the Katavasia of the *Menaion* will be only after Odes 3 and 6, for at the 8th and 9th there will always be a triodion and therefore there will always be the Katavasia of the triodion.
 
@@ -469,13 +469,13 @@ Regarding the refrains to the troparia of the canon, know that in order to find 
 
 The last edition of the Lviv Psalter does not give the counting of the last verses, except for the 9th Ode; and, in general, in recent editions they did not care about the counting of verses.
 
-After the 3rd Ode – Sessional Hymn of the Saint[^548], after the 6th – Kontakion and Ikos of the Saint; if the saint does not have this, then the Martyric Sessional Hymn of the *Octoechos* of the current tone, given also at the end of the *Triodion*. After the 9th Ode – *“It is truly meet”* and after the litany – Exaposteilarion of the tone, which is in the *Horologion*, three times, with refrains and commemorations, as the Trinity Hymns, here on page 338, in the note.
+After the 3rd Ode – Sessional Hymn of the Saint, after the 6th – Kontakion and Ikos of the Saint; if the saint does not have this, then the Martyric Sessional Hymn of the *Octoechos* of the current tone[^516], given also at the end of the *Triodion*. After the 9th Ode – *“It is truly meet”* and after the litany – Exaposteilarion of the tone, which is in the *Horologion*, three times, with refrains and commemorations, as the Trinity Hymns, here on page 338, in the note.
 
 7. **After the Great Doxology:** Before the Small Doxology the Priest exclaims: "To Thee belongs glory" and the rest, and at "Glory to God in the highest" we make three prostrations
 
 8. **Aposticha:** Aposticha of the *Triodion*, Glory: of the saint, if there be, Both now: Usual Theotokion in the tone of "Glory"
 
-3.	"It is a good thing" twice; at the Trisagion – 3 prostrations and, after "Our Father", – Troparion "Standing in the temple"; then "Lord, have mercy" (40) and the rest with 16 prostrations at the prayer of St. Ephrem and, after the last prostration, immediately – "O come, let us worship" three times and the 1st Hour.
+3. "It is a good thing" twice; at the Trisagion – 3 prostrations and, after "Our Father", – Troparion "Standing in the temple"; then "Lord, have mercy" (40) and the rest with 16 prostrations at the prayer of St. Ephrem and, after the last prostration, immediately – "O come, let us worship" three times and the 1st Hour.
 
 ##### At the Hours
 
@@ -489,23 +489,23 @@ After the 3rd Ode – Sessional Hymn of the Saint[^548], after the 6th – Konta
 
 5. After the Trisagion, instead of the Kontakion, we read three Lenten troparia, according to the order of the Hours in the *Horologion*, adding to the 2nd "Glory", and to the 3rd – "Both now"
 
-6.	"Lord, have mercy" (40), "Thou Who at all times" and the rest with the prayer of St. Ephrem and with 16 usual prostrations.
+6. "Lord, have mercy" (40), "Thou Who at all times" and the rest with the prostrations.
 
-6. Trisagion with 3 prostrations, and after "Our Father" – the exclamation "For Thine is the Kingdom" and "Lord, have mercy" (12)
+7. Trisagion with 3 prostrations, and after "Our Father" – the exclamation "For Thine is the Kingdom" and "Lord, have mercy" (12)
 
-7. Final prayer of the Hour and "Glory to Thee, O Christ God", dismissal of the weekday with the commemoration of the saint at the 1st Hour, and at the other Hours, since they are combined with the Typika, there will be no dismissal, but it will be at the end of the Typika
+8. Final prayer of the Hour and "Glory to Thee, O Christ God", dismissal of the 1st Hour (or of the other Hours – their proper ones)
 
 > **Notes** 
 
-8. In the archcathedral temple the Hours 3rd, 6th, 9th, Typika and Vespers are celebrated together, beginning at 11 o'clock in the morning, and in the afternoon, at the usual time of Vespers, – Great Compline[^518]
+1. In the archcathedral temple the Hours 3rd, 6th, 9th, Typika and Vespers are celebrated together, beginning at 11 o'clock in the morning, and in the afternoon, at the usual time of Vespers, – Great Compline[^518].
 
-9. The last prayer of the 9th Hour "O Master Lord Jesus Christ" is transferred to the Typika, to the place of the prayer "O All-holy Trinity", and the prayer "O All-holy Trinity" with the psalm following it is transferred, according to the rubric of our Pochaiv *Triodion*, to the end of Vespers[^519]. And on Wednesday and Friday, since Vespers will be with the Presanctified, "O All-holy Trinity" cannot be transferred to the end of Vespers, for it ends with the Liturgy and therefore remains in its place at the Typika, exactly so the prayer "O Master Lord Jesus Christ" remains in its place at the 9th Hour
+2. The last prayer of the 9th Hour "O Master Lord Jesus Christ" is transferred to the Typika, to the place of the prayer "O All-holy Trinity", and the prayer "O All-holy Trinity" with the psalm following it is transferred, according to the rubric of our Pochaiv Triodion, to the end of Vespers[^519]. And on Wednesday and Friday, since Vespers will be with the Presanctified, "O All-holy Trinity" cannot be transferred to the end of Vespers, for it ends with the Liturgy and therefore remains in its place at the Typika, exactly so the prayer "O Master Lord Jesus Christ" remains in its place at the 9th Hour.
 
 AT THE TYPIKA (Typika)
 
 > **Note:** The first part of the Typika, from the beginning to the Beatitudes, falls out in Great Lent, and the last, from "O All-holy Trinity", is transferred to the end of Vespers. In the middle part the stichera on the Beatitudes and the Epistle and Gospel fall out.
 
-1.	"The Beatitudes", that is "Remember us, O Lord", "Blessed are the poor in spirit" and all other verses, then "Glory, Both now". After this both choirs, having come together, with uncovered heads, sing in a higher voice:
+1. "The Beatitudes", that is "Remember us, O Lord", "Blessed are the poor in spirit" and all other verses, then "Glory, Both now". After this both choirs, having come together, with uncovered heads, sing in a higher voice:
 
 "Remember us, O Lord, when Thou comest into Thy kingdom".
 
@@ -519,19 +519,19 @@ And a great prostration.
 
 And a great prostration.
 
-2.	"The Choir", verse and again "The Choir", Glory: "The Choir of holy angels", Both now: "I believe".
+2. "The Choir", verse and again "The Choir", Glory: "The Choir of holy angels", Both now: "I believe".
 
-3.	"Remit, pardon" and "Our Father".
+3. "Remit, pardon" and "Our Father".
 
 10. Kontakia, which are in the *Horologion*
 
-5.	"Lord, have mercy" (40), "Glory, Both now" and the rest with the prayer of St. Ephrem and 16 usual prostrations, as in the *Horologion*.
+5. "Lord, have mercy" (40), "Glory, Both now" and the rest with the prayer of St. Ephrem and 16 usual prostrations, as in the *Horologion*.
 
 11. Trisagion with 3 prostrations and the rest with "Our Father" and "Lord, have mercy" (12)
 
 12. Priest – prayer of the 9th Hour "O Master Lord Jesus Christ"
 
-13. **Dismissal:** Dismissal of the day with the commemoration of the saint
+13. **Dismissal:** Dismissal of the day with the commemoration of the saint[^521].
 
 ##### At Vespers
 
@@ -547,7 +547,7 @@ Priest: "Blessed is our God"; choir: "O come, let us worship" three times with p
 
 After the pre-introductory psalm, at Alleluia, – 3 prostrations
 
-3.	18th Kathisma with 3 prostrations at Alleluia after each of its antiphons (today we read only the beginning of the Kathisma).
+3. 18th Kathisma with 3 prostrations at Alleluia after each of its antiphons (today we read only the beginning of the Kathisma).
 
 1. **On *"Lord, I have cried"*:* 6 stichera: 3 of the *Triodion* and 3 of the *Menaion*, Glory, Both now: Theotokion of the *Menaion*. If there is a Doxastikon of the saint, then Theotokion – usual, in the tone of the Doxastikon
 
@@ -563,15 +563,15 @@ After the 2nd reading immediately – "Vouchsafe" and 3 prostrations
 
 After "Now lettest Thou Thy servant depart", at the Trisagion, – 3 prostrations; and after "Our Father" – troparia "Virgin Theotokos" and the two others with a prostration at the end of each, then "Beneath Thy tender mercy" without a prostration
 
-9.	"Lord, have mercy" (40) and the rest, as in the *Horologion*, with the prayer of St. Ephrem and 16 usual prostrations.
+9. "Lord, have mercy" (40) and the rest, as in the *Horologion*, with the prayer of St. Ephrem and 16 usual prostrations.
 
-Trisagion with prostrations and, after "Our Father", – "Lord, have mercy" (12)
+10. Trisagion with prostrations and, after "Our Father", – "Lord, have mercy" (12) and prayer "All-Holy Trinity".
 
-11.	"O All-holy Trinity" and "Blessed be the name of the Lord" (3) with prostrations.
+11. "O All-holy Trinity" and "Blessed be the name of the Lord" (3) with prostrations.
 
-Glory, Both now: Psalm "I will bless the Lord"
+12. Glory, Both now: Psalm "I will bless the Lord"
 
-13.	*“It is truly meet”* and a prostration; Glory, Both now: "Lord, have mercy" (2), "Lord, bless".
+13. *“It is truly meet”* and a prostration; Glory, Both now: "Lord, have mercy" (2), "Lord, bless".
 
 3. **Dismissal:** Dismissal "O Christ our true God" with the commemoration of the service of the day and the saint
 
@@ -593,15 +593,15 @@ After "Blessed is the Kingdom" we recite "O Heavenly King", Trisagion (with pros
 
 Of the eight prayers recited at the prefatory psalm, the Priest recites here only the last 5, for the first three he has to read afterwards, one at each of the three antiphons of the Kathisma
 
-3.	18th Kathisma, with a prayer at each of its three antiphons and with a Small Litany after each antiphon.
+3. 18th Kathisma, with a prayer at each of its three antiphons and with a Small Litany after each antiphon.
 
 4. **On *"Lord, I have cried"*:* 10 stichera: *Triodion* on 6 and *Menaion* on 4, Glory, Both now: Theotokion of the *Menaion*. If there is a Doxastikon of the saint, then we select the Theotokion in His tone. (On Friday evening stichera: Idiomelon of the *Triodion* twice, Martyria of the *Octoechos* of the current tone – 4[^528] and of the Saint – 4, Glory: of the saint, if there is one, Both now: 1st Theotokion of the departing tone; if not, then Glory, Both now: the same Theotokion)
 
-5. **Entrance:** Entrance with the Censer (on the Finding of the Precious Head of the Forerunner, on the 40 Martyrs and on Great Monday, Tuesday and Wednesday[^566] entrance – with the Gospel)
+5. **Entrance:** Entrance with the Censer (on the Finding of the Precious Head of the Forerunner, on the 40 Martyrs and on Great Monday, Tuesday and Wednesday entrance – with the Gospel)
 
 At "O Gladsome Light" – Prokimenon of the *Triodion*, one reading of the *Triodion* and the second Prokimenon of the *Triodion*[^529]; then the Priest, having taken the triple-candle with the censer and exclaiming "Wisdom, Aright", begins "The Light of Christ", blessing with the triple-candle crosswise to the east, then, blessing to the west, says: "Illumines all"[^530]; all make three prostrations to the ground, and the Reader sings: "The Reading from Proverbs" and, when the Priest or Deacon exclaims: "Let us attend", reads the second reading of the *Triodion*
 
-7.	"Let my prayer be set forth". Has after it three verses and is sung six times, that is: twice – before the first verse, once – after each verse and again once at the end. And among us the first time "Let my prayer be set forth" is sung by the Priest, the second time – by the Choir, all three verses – by the Priest, after each the Choir – "Let my prayer be set forth", the last time in a higher voice up to the half – the Priest, and from the half – the Choir. Where there are two choirs, they sing "Let my prayer be set forth" alternately: the first begins after the Priest, and the second half is sung by both choirs together. When the Priest sings, he himself stands, and the Choir and people kneel; when the Choir sings, the Choir stands together with the people, and the Priest kneels. If there are two choirs, the one singing stands, and the other kneels; people who are on the side of the right choir kneel, stand and sing with the right choir, and those on the left – with the left[^531].
+7. "Let my prayer be set forth". Has after it three verses and is sung six times, that is: twice – before the first verse, once – after each verse and again once at the end. And among us the first time "Let my prayer be set forth" is sung by the Priest, the second time – by the Choir, all three verses – by the Priest, after each the Choir – "Let my prayer be set forth", the last time in a higher voice up to the half – the Priest, and from the half – the Choir. Where there are two choirs, they sing "Let my prayer be set forth" alternately: the first begins after the Priest, and the second half is sung by both choirs together. When the Priest sings, he himself stands, and the Choir and people kneel; when the Choir sings, the Choir stands together with the people, and the Priest kneels. If there are two choirs, the one singing stands, and the other kneels; people who are on the side of the right choir kneel, stand and sing with the right choir, and those on the left – with the left[^531].
 
 The Priest sings "Let my prayer be set forth" first in front of the altar, then the 1st verse – on the south, the 2nd – on the west, the 3rd – on the north side, and at the end the first half – again in front of the holy table[^532]. He censes each side of the altar twice, that is before the beginning of his singing and at the end of the Choir's singing, that is at "The lifting up of my hands", for then, having censed, he moves to the next side of the altar, in order to cense there also, so that the Choir is ready to sing its verse[^533].
 
@@ -609,7 +609,7 @@ Immediately after the end of the singing of "Let my prayer be set forth" is excl
 
 > **Notes** 
 
-If there is no Liturgy of the Presanctified, then we sing Vespers according to the rubric of Monday, Tuesday and Thursday evening, that is from the 10 stichera on *“Lord, I have cried”* we transfer the first 3 to the Aposticha, and the other 6 we sing on *“Lord, I have cried”*[^534]; and there will be on Wednesday stichera of the *Triodion* – 3 and of the *Menaion* – 3, and on Friday Martyria of the *Octoechos* – 3 and of the *Menaion* – 3. On Friday evening, after "Now lettest Thou Thy servant depart", there will be no Lenten troparia with prostrations, but the Troparion of the Saint, Glory, Both now: Theotokion from the Sunday ones, in the tone of the Troparion of the Saint[^651] and, after the litany "Have mercy on us, O God", – 3 great prostrations[^535] and the Great Dismissal, as usual
+If there is no Liturgy of the Presanctified, then we sing Vespers according to the rubric of Monday, Tuesday and Thursday evening, that is from the 10 stichera on *“Lord, I have cried”* we transfer the first 3 to the Aposticha, and the other 6 we sing on *“Lord, I have cried”*[^534]; and there will be on Wednesday stichera of the *Triodion* – 3 and of the *Menaion* – 3, and on Friday Martyria of the *Octoechos* – 3 and of the *Menaion* – 3. On Friday evening, after "Now lettest Thou Thy servant depart", there will be no Lenten troparia with prostrations, but the Troparion of the Saint, Glory, Both now: Theotokion from the Sunday ones, in the tone of the Troparion of the Saint and, after the litany "Have mercy on us, O God", – 3 great prostrations[^535] and the Great Dismissal, as usual
 
 If on this day falls a saint with Polyeleos, namely the Finding of the Precious Head of the Forerunner and the 40 Martyrs, and also on Monday, Tuesday and Wednesday of Passion Week[^536], then immediately after "Let my prayer be set forth" there will be censing and on the two previously named feasts their Epistle and Gospel are read, the Gospel – beginning from "Wisdom, Aright". On the three days of Passion Week only the Gospel is read, beginning from "And that we may be accounted worthy", since there is no Epistle
 
@@ -671,7 +671,7 @@ The service of a saint without Polyeleos we sing at Compline or on another day
 
 ##### At Great Vespers
 
-1.	*“Blessed is the man”*, as usual.
+1. *“Blessed is the man”*, as usual.
 
 1. **On *"Lord, I have cried"*:* 10 stichera: Sunday of the *Octoechos* – 6 and of the *Triodion* – 4, Glory: *Triodion*, Both now: 1st Theotokion of the tone (Dogmatikon)
 
@@ -705,7 +705,7 @@ At all – Sunday Troparion, Glory: "We venerate Thy most pure image", Kontakion
 
 ##### At the Divine Liturgy
 
-1. **Troparia:** Troparion Sunday and "We venerate Thy most pure image", Glory, Both now: Kontakion of the *Triodion*
+1. **Troparia:** Troparion Sunday and "We venerate Thy most pure image", Glory, Both now: Kontakion of the *Triodion*[^545].
 
 2. Everything else – of Orthodoxy, only Communion Hymn – "Praise the Lord" and "Rejoice in the Lord"
 
@@ -729,7 +729,7 @@ The service of this Saturday, as also the services of the 3rd and 4th Saturdays 
 
 WITH PRESANCTIFIED
 
-1.	18th Kathisma.
+1. 18th Kathisma.
 
 1. **On *"Lord, I have cried"*:* 10 stichera: Idiomelon of the *Triodion* of the day twice, 4 Martyria of the *Octoechos* and 4 of the *Menaion* of the saint, Glory: of the saint, if there be, but if not, then Glory: Sticheron for the Dead of the tone, Both now: 1st Theotokion of the departing tone
 
@@ -755,18 +755,18 @@ Midnight Office – Saturday.
 
 3. **Kathisma:** After the 1st Kathisma – Small Litany and Sessional Hymn of the *Octoechos* of the current tone
 
-4.	17th Kathisma ("The Blameless"), in two stations, with refrains and troparia "The Choir of the saints"; after each station – litany for the dead, then we sing the Sessional Hymn "Give rest" with its Theotokion and Psalm 50.
+4. 17th Kathisma ("The Blameless"), in two stations, with refrains and troparia
 
-4. **Canons:** *Distribution:* Canons 3 on 14: of the Temple of the Lord or Theotokos with heirmos on 6, of the Saint of the *Menaion* on 4 and of the *Octoechos* of the current tone the second[^547] on 4. If the Temple is of a Saint, then – Canon of the Saint with heirmos on 6, Temple on 4 and *Octoechos* on 4. From the 6th Ode, leaving the Canons of the Temple and *Octoechos*, we sing the Canon of the Saint of the *Menaion* on 6 and both canons of the tetraodion on 8. Refrain to the troparia of the tetraodion – "Holy Martyrs, pray to God for us". At the end of the eight troparia of each ode of the tetraodion we add two more troparia: one Martyric with the Martyric refrain, and the second – for the dead with the refrain for the dead. From the two Martyric refrains "Wondrous is God" and "To the saints that are in His earth" and from the two refrains for the dead "Their souls" and "Blessed are they Whom Thou Hast chosen", the first we refrain to the Martyric and for the dead of the 6th and 8th Odes, and the second – to the Martyric and for the dead of the 7th and 9th Odes. 
+5. **Canons:** *Distribution:* Canons 3 on 14: of the Temple of the Lord or Theotokos with heirmos on 6, of the Saint of the *Menaion* on 4 and of the *Octoechos* of the current tone the second[^547] on 4. If the Temple is of a Saint, then – Canon of the Saint with heirmos on 6, Temple on 4 and Octoechos on 4. From the 6th Ode, leaving the Canons of the Temple and Octoechos, we sing the Canon of the Saint of the *Menaion* on 6 and both canons of the tetraodion on 8. Refrain to the troparia of the tetraodion – "Holy Martyrs, pray to God for us". At the end of the eight troparia of each ode of the tetraodion we add two more troparia: one Martyric with the Martyric refrain, and the second – for the dead with the refrain for the dead. From the two Martyric refrains "Wondrous is God" and "To the saints that are in His earth" and from the two refrains for the dead "Their souls" and "Blessed are they Whom Thou Hast chosen", the first we refrain to the Martyric and for the dead of the 6th and 8th Odes, and the second – to the Martyric and for the dead of the 7th and 9th Odes.
    * *Katavasia:* Katavasia after Odes 3, 6, 7, 8, and 9 – Heirmos of the last canon: after the 3rd – of the *Octoechos*, after the others – of the *Triodion*
 
-After the 3rd Ode – Sessional Hymn of the Saint, after the 6th – Kontakion and Ikos for the Dead, after the 9th – Exaposteilarion of the *Octoechos* (to all saints, Glory: to the dead).
+After the 3rd Ode – Sessional Hymn of the Saint[^548], after the 6th – Kontakion and Ikos for the Dead, after the 9th – Exaposteilarion of the *Octoechos* (to all saints, Glory: to the dead).
 
-5. **Praises (Lauds):** Stichera of the Praises, Martyria of the *Octoechos* – 4, Glory: for the Dead, Both now: Theotokion of the "Glory"
+6. **Praises (Lauds):** Stichera of the Praises, Martyria of the *Octoechos* – 4, Glory: for the Dead, Both now: Theotokion of the "Glory"
 
-6. **After the Great Doxology:** After the Small Doxology at the Aposticha – Stichera for the Dead of the *Octoechos* with their verses for the dead
+7. **After the Great Doxology:** After the Small Doxology at the Aposticha – Stichera for the Dead of the *Octoechos* with their verses for the dead
 
-7. At the end: Troparion to all saints ("Apostles, prophets"), Glory: for the dead "Remember, O Lord", Both now: "Holy Mother"
+8. At the end: Troparion to all saints ("Apostles, prophets, martyrs"), Glory: "Remember, O Lord", Both now: "O Holy Mother of the Ineffable Light" and Dismissal.
 
 ##### At the Hours
 
@@ -780,7 +780,7 @@ At all – Troparion of the day ("Apostles, prophets"), Glory: "Remember, O Lord
 
 ### 4.1.13 Second Sunday of Great Lent
 
-Everything – according to the general rubric for a saint without Polyeleos on Sunday, here on pp. 47-54 [→REF:p47-54], only:
+Everything – according to the general rubric for a saint without Polyeleos on Sunday, here on [pp. 47-54](Final_Dolnytsky_part2_general_rubrics.md#general-rubric-for-a-saint-without-polyeleos-on-sunday), only:
 
 ##### At Great Vespers
 
@@ -832,7 +832,7 @@ The entire divine service, according to the Synod of Lviv, should be celebrated 
 
 ##### At Great Vespers
 
-1.	*“Blessed is the man”*, as usual.
+1. *“Blessed is the man”*, as usual.
 
 1. **On *"Lord, I have cried"*:* 10 stichera: 6 Sunday of the *Octoechos* and 4 of the *Triodion*; Glory: *Triodion*, Both now: 1st Theotokion of the tone
 
@@ -846,7 +846,7 @@ BRINGING OUT OF THE PRECIOUS CROSS FROM
 
 THE SACRISTY TO THE ALTAR
 
-The bringing out of the Precious Cross from the sacristy to the altar takes place after the dismissal of Vespers, according to the rubric given for September 14, here on pp. 121-122 [→REF:p121-122].
+The bringing out of the Precious Cross from the sacristy to the altar takes place after the dismissal of Vespers, according to the rubric given for September 14, here on [pp. 121-122](Final_Dolnytsky_part3_menaion.md#14-september--exaltation-of-the-precious-and-life-giving-cross).
 
 ##### At Compline
 
@@ -864,7 +864,7 @@ After the 3rd Ode – Sessional Hymn of the Cross; after the 6th – Kontakion a
 
 4. **Praises (Lauds):** 9: 4 Sunday of the *Octoechos* and 5 of the *Triodion*, of which the three last – with the verses of the Cross; Glory: once more the last sticheron of the *Triodion*, Both now: *“Most Blessed Art Thou”*
 
-5. **After the Great Doxology:** During the Great Doxology the bringing out of the Precious Cross from the altar to the tetrapod takes place, according to the rubric given here on pp. 122-123 [→REF:p122-123]; then veneration, immediately after the singing of the troparion "Save, O Lord", for then the Priest begins to sing the troparion "Before Thy Cross" (3) and there will be veneration in such a way as given here on pp. 124-127 [→REF:p124-127]
+5. **After the Great Doxology:** During the Great Doxology the bringing out of the Precious Cross from the altar to the tetrapod takes place, according to the rubric given here on [pp. 122-123](Final_Dolnytsky_part3_menaion.md#14-september--bringing-out-of-the-precious-cross); then veneration, immediately after the singing of the troparion "Save, O Lord", for then the Priest begins to sing the troparion "Before Thy Cross" (3) and there will be veneration in such a way as given here on [pp. 124-127](Final_Dolnytsky_part3_menaion.md#14-september--veneration-of-the-precious-cross)
 
 6. After the dismissal – Glory, Both now: Gospel Sticheron
 
@@ -1083,7 +1083,7 @@ After the 1st Trisagion, instead of the troparia "Uncreated Nature", we read the
 2. After the 1st and 2nd Kathismata – Sessional Hymn of the feast, however, after the 2nd Kathisma, before the Sessional Hymn, we sing "The Choir of angels" exactly as on Sunday; and after the Sessional Hymn – "The Resurrection of Christ", Psalm 50 and immediately Canon
 
 3. **Canons:** *Distribution:* Canons of the feast – two: 1st – with heirmos on 8 and 2nd – on 6. From the 6th Ode – tetraodion, heirmos – twice, troparia – on 6, then the other canon on 6. 
-   * *Katavasia:* Katavasia after each ode – Heirmos of the 2nd Canon. Refrain to the troparia – "Glory to Thee, our God, glory to Thee". 
+   * *Katavasia:* Katavasia after each ode – Heirmos of the 2nd Canon. Refrain to the troparia – "Glory to Thee, our God, glory to Thee"[^561]. 
    * *After the 3rd Ode:* Sessional Hymn, 
    * *After the 6th Ode:* Kontakion and Ikos of the feast; at the 9th we do not sing "More honorable"; 
    * *After the 9th Ode:* we do not say *“It is truly meet”* until the Sunday of Ap. Thomas; 
@@ -1111,7 +1111,7 @@ On *“Lord, I have cried”* – stichera on 10; and at the blessing of loaves 
 
 1. **On *"God is the Lord"*:* Troparion of Lazarus twice, Glory, Both now: of Flowery [Sunday]
 
-2. The blessing and distribution of branches takes place, according to the rubric, immediately after the 50th Psalm, during the kissing of the Gospel. According to our custom, the blessing takes place after the 50th Psalm, and the distribution – during the anointing with oil (myrovanie), that is during the canon. And it takes place thus: When the Priest has sung the Gospel, he places it on the analogion near the tetrapod, between two candles lit on candlesticks. On the tetrapod are placed branches and prepared censers and sprinklers. The Priest approaches the tetrapod and at the time when the Choir reads the 50th Psalm, having put incense in and blessed the censer, censes the branches from the four sides of the tetrapod and, after the conclusion of the 50th Psalm, when the Deacon exclaims (if there be none, then the Priest himself) "Let us pray to the Lord", reads aloud (from the *Sluzhebnik* (lit. "Service Book") or from the *Triodion*[^563] ) the first prayer "O Lord our God", and the Choir responds: "Amen". Priest: "Peace be to all"; deacon: "Bow your heads unto the Lord"; and, after "To Thee, O Lord", the Priest reads the second prayer "O Lord God Almighty... unto ages of ages"[^564]; choir: "Amen"; the Priest sprinkles the branches with holy water, saying: "These branches are blessed and sanctified" and the rest; and, after singing the litany "Save, O God", with His right hand anoints the people, and with His left hand distributes to all the branches, which the Deacon solemnly hands to him, and if there be no deacon, then one of the church servers[^565]
+2. The blessing and distribution of branches takes place, according to the rubric, immediately after the 50th Psalm, during the kissing of the Gospel. According to our custom, the blessing takes place after the 50th Psalm, and the distribution – during the anointing with oil (myrovanie), that is during the canon. And it takes place thus: When the Priest has sung the Gospel, he places it on the analogion near the tetrapod, between two candles lit on candlesticks. On the tetrapod are placed branches and prepared censers and sprinklers. The Priest approaches the tetrapod and at the time when the Choir reads the 50th Psalm, having put incense in and blessed the censer, censes the branches from the four sides of the tetrapod and, after the conclusion of the 50th Psalm, when the Deacon exclaims (if there be none, then the Priest himself) "Let us pray to the Lord", reads aloud (from the *Sluzhebnik* (lit. "Sluzhebnik") or from the *Triodion*[^563] ) the first prayer "O Lord our God", and the Choir responds: "Amen". Priest: "Peace be to all"; deacon: "Bow your heads unto the Lord"; and, after "To Thee, O Lord", the Priest reads the second prayer "O Lord God Almighty... unto ages of ages"[^564]; choir: "Amen"; the Priest sprinkles the branches with holy water, saying: "These branches are blessed and sanctified" and the rest; and, after singing the litany "Save, O God", with His right hand anoints the people, and with His left hand distributes to all the branches, which the Deacon solemnly hands to him, and if there be no deacon, then one of the church servers[^565]
 
 After the 9th Ode we do not read the Exaposteilarion, but immediately: "Holy is the Lord our God" (3) in Tone 4.
 
@@ -1123,7 +1123,7 @@ FAST FOR THE WHOLE PASSION WEEK
 
 On Monday, Wednesday and Friday the Synod of Lviv prescribes a strict fast. On Tuesday, Thursday and Saturday it permits also dairy products (Title XI, part 4).
 
-### 4.2.3 Great Monday, Tuesday and Wednesday
+### 4.2.3 Great Monday, Tuesday and Wednesday[^566]
 
 > **Notes** 
 
@@ -1177,7 +1177,7 @@ Nothing special.
 
 2. Three regular Kathismata with their Sessional Hymns, then "And that we may be accounted worthy", Gospel of Matins[^570], according to the sequence of Gospels, Psalm 50 and "Save, O God"[^571]
 
-3. **Canons:** Canon only one: triodion on Monday and Wednesday, or diodion [two-ode canon] on Tuesday. Troparia – on 12, heirmoi – twice. We do not recite the [Biblical] Odes, but only the refrain to the troparia of the canon "Glory to Thee, our God, glory to Thee", then the Katavasia, heirmos of the canon once both choirs together. Before the Kontakion-Ikos the Priest sings the Small Litany; at the 9th Ode we do not sing "More honorable", nor *“It is truly meet”* after the canon, but immediately after the Katavasia – Small Litany and Exaposteilarion "Thy bridal chamber" twice, Glory, Both now: three times the same
+3. **Canons:** Canon only one: triodion on Monday and Wednesday, or diodion [two-ode canon] on Tuesday. Troparia – on 12, heirmoi – twice. We do not recite the [Biblical] Odes, but only the refrain to the troparia of the canon "Glory to Thee, our God, glory to Thee"[^572], then the Katavasia, heirmos of the canon once both choirs together. Before the Kontakion-Ikos the Priest sings the Small Litany; at the 9th Ode we do not sing "More honorable", nor *“It is truly meet”* after the canon, but immediately after the Katavasia – Small Litany and Exaposteilarion "Thy bridal chamber" twice, Glory, Both now: three times the same
 
 4. **Praises (Lauds):** 4: of the *Triodion*, Glory, Both now: *Triodion*, Small Doxology and, after "Let us complete", – Aposticha of the *Triodion* and everything else with prostrations, as on the Lenten days of Great Lent
 
@@ -1209,31 +1209,31 @@ WITH PRESANCTIFIED,
 
 AND AT THE Midnight Office
 
-Everything – according to the rubric of Monday and Tuesday, here on pp. 379-380 [→REF:p379-380], only on Wednesday, after the dismissal of the Liturgy of the Presanctified, the prostrations in church cease, and in the cells are made until the ringing for Matins of the bright Resurrection of Christ[^575]. We, however, until the Resurrection of Christ make three great prostrations in church, at the end of the Divine Service, singing the verse "Though Thou didst suffer", and during the veneration of the Shroud, singing "The noble Joseph".
+Everything – according to the rubric of Monday and Tuesday, here on [pp. 379-380](#great-monday-and-great-tuesday), only on Wednesday, after the dismissal of the Liturgy of the Presanctified, the prostrations in church cease, and in the cells are made until the ringing for Matins of the bright Resurrection of Christ[^575]. We, however, until the Resurrection of Christ make three great prostrations in church, at the end of the Divine Service, singing the verse "Though Thou didst suffer", and during the veneration of the Shroud, singing "The noble Joseph".
 
-### 4.2.4 Great Thursday
+### 4.2.4 Great Thursday[^576]
 
 ##### At Matins
 
-1.	"Blessed is our God", "Glory to Thee, our God, glory to Thee", "O Heavenly King" and everything else, as usual, with the Two Psalms and with the Six Psalms up to the end of the litany "In peace let us pray to the Lord".
+1. "Blessed is our God", "Glory to Thee, our God, glory to Thee", "O Heavenly King" and everything else, as usual, with the Two Psalms and with the Six Psalms up to the end of the litany "In peace let us pray to the Lord".
 
-1. **On *"God is the Lord"*:* Instead of *“God is the Lord”* we sing Alleluia in Tone 8, that is in the tone of the following troparion; but since this troparion has a specific melody in the *Heirmologion*, we sing Alleluia according to the pattern of its melody
+2. **On *"God is the Lord"*:* Instead of *“God is the Lord”* we sing Alleluia in Tone 8, that is in the tone of the following troparion; but since this troparion has a specific melody in the *Heirmologion*, we sing Alleluia according to the pattern of its melody
 
-2. **Troparia:** Troparion "When the glorious disciples" twice, Glory, Both now: once more the same
+3. **Troparia:** Troparion "When the glorious disciples" twice, Glory, Both now: once more the same
 
-3. There will be no Kathismata and Sessional Hymns, but immediately the Gospel from Luke, Section 108 and 1st verse of Section 109, that is the 39th verse of the 22nd chapter[^577]; then Psalm 50 and, leaving out "Save, O God", we sing immediately the Canon
+4. There will be no Kathismata and Sessional Hymns, but immediately the Gospel from Luke, Section 108 and 1st verse of Section 109, that is the 39th verse of the 22nd chapter[^577]; then Psalm 50 and, leaving out "Save, O God", we sing immediately the Canon
 
-4. **Canons:** *Distribution:* Canon only one: heirmoi – twice, troparia – on 6[^578] with the refrain "Glory to Thee, our God, glory to Thee". 
+5. **Canons:** *Distribution:* Canon only one: heirmoi – twice, troparia – on 6[^578] with the refrain "Glory to Thee, our God, glory to Thee". 
    * *Katavasia:* Katavasia after each ode – heirmos of the same canon once, both choirs together. 
    * *After the 3rd Ode:* we recite the Sessional Hymn, 
-   * *After the 6th Ode:* Kontakion and Ikos, at the 9th we do not sing "More honorable", nor 
+   * *After the 6th Ode:* Kontakion and Ikos, at the 9th we do not sing "More honorable"[^579], nor 
    * *After the 9th Ode:* *“It is truly meet”*, but instead of this, – the heirmos of the canon[^580] and immediately the Exaposteilarion twice, Glory, Both now: the same
 
-5. **Praises (Lauds):** 4 and, after the Small Doxology, – "Let us complete" and Aposticha with specific verses
+6. **Praises (Lauds):** Stichera of the Praises – 4 and, after the Small Doxology, – "Let us complete".
 
-7.	"It is a good thing" once, Trisagion with "Our Father" and Troparion "When the glorious disciples", without Theotokion.
+7. "It is a good thing" once, Trisagion with "Our Father" and Troparion "When the glorious disciples", without Theotokion.
 
-6. Priest: "Wisdom"; Choir: "Bless"
+8. Priest: "Wisdom"; Choir: "Bless"
 
 Priest: "Blessed be He... ages"; Choir: "Amen"; and 1st Hour.
 
@@ -1261,7 +1261,7 @@ Note
 
 "It is fitting for the Priest on Great Thursday at the Liturgy to consecrate two Lambs, in order to consume one at Communion, and to place the other in the artophorion and keep in the tabernacle in the usual place until today (Friday)". Thus in our *Sluzhebnik*[^584]. Regarding the Lamb itself, which is to be kept in the tabernacle until the day of exposition, the Synod of Lviv orders that "it before consecration be fitted to its vessel, the so-called Melchizedek, into which it is well inserted and carefully wiped, so that afterwards crumbs do not fall from it; so that placed in such a way in the Melchizedek, it be consecrated at the Liturgy of one of the preceding days and kept in the tabernacle until the exposition itself". When the Priest prepares the Lamb at the Proskomedia, wishing to use it for exposition, he does not say over it the words "In remembrance of the Lord" etc., nor does He perform over it the sacred actions which are usually performed over the Lamb that is to be consumed at the same Divine Service, for it is considered only communicative; it is enough only to cut it, so that it would be convenient to break and consume it on another day.
 
-1. From the beginning to *“Lord, I have cried”* everything – according to the rubric of the Eve of the Nativity of Christ, here on pp. 169-170 [→REF:p169-170]
+1. From the beginning to *“Lord, I have cried”* everything – according to the rubric of the Eve of the Nativity of Christ, here on [pp. 169-170](Final_Dolnytsky_part3_menaion.md#24-december--eve-of-the-nativity-of-christ)
 
 2. **On *"Lord, I have cried"*:* stichera on 10
 
@@ -1291,7 +1291,7 @@ OF OUR LORD JESUS CHRIST
 
 GENERAL OVERVIEW
 
-From the usual beginning to the end of the troparion after "Alleluia" and from the Canon to the end of Matins everything – according to the rubric of Matins of Great Thursday, here on pp. 383-384 [→REF:p383-384]. Between the troparion and the canon there will be five Sessional Hymns, each of which has before it three antiphons of the Passion troparia, without Kathismata and small litanies, then the Beatitudes, Prokimenon and Psalm 50. Besides this we read 12 Passion Gospels: the first – after the troparion, the five following – after each of the five Sessional Hymns, the seventh – after the Beatitudes, the eighth – after the 50th Psalm, the ninth – after the Exaposteilarion, the tenth – after the Praises, the eleventh – after "Let us complete", the twelfth – after the Aposticha. After the singing of each Gospel we ring all the church bells and, after the twelfth Gospel, we do not ring until the Resurrection itself, but instead of bells we use wooden clappers. But it is better already at Passion Matins not to ring, but to strike clappers or boards, for Passion Matins is a time of sorrow, to which the joyful sounds of bells do not correspond. Also in Rome already at Passion Matins clappers are used.
+From the usual beginning to the end of the troparion after "Alleluia" and from the Canon to the end of Matins everything – according to the rubric of Matins of Great Thursday, here on [pp. 383-384](#great-thursday---matins). Between the troparion and the canon there will be five Sessional Hymns, each of which has before it three antiphons of the Passion troparia, without Kathismata and small litanies, then the Beatitudes, Prokimenon and Psalm 50. Besides this we read 12 Passion Gospels: the first – after the troparion, the five following – after each of the five Sessional Hymns, the seventh – after the Beatitudes, the eighth – after the 50th Psalm, the ninth – after the Exaposteilarion, the tenth – after the Praises, the eleventh – after "Let us complete", the twelfth – after the Aposticha. After the singing of each Gospel we ring all the church bells and, after the twelfth Gospel, we do not ring until the Resurrection itself, but instead of bells we use wooden clappers. But it is better already at Passion Matins not to ring, but to strike clappers or boards, for Passion Matins is a time of sorrow, to which the joyful sounds of bells do not correspond. Also in Rome already at Passion Matins clappers are used.
 
 DETAILED RUBRIC
 
@@ -1321,13 +1321,13 @@ If the Bishop or other sacred ministers be present, the deacons should cense the
 
 11. **Praises (Lauds):** Stichera of the Praises on 4, Glory: one sticheron, Both now: another, then – the tenth Gospel
 
-10.	"To Thee belongs glory"[^595], "Glory to Thee Who Hast shown us the light" and the Small Doxology.
+10. "To Thee belongs glory"[^595], "Glory to Thee Who Hast shown us the light".
 
-12. Litany "Let us complete" and, after the exclamation "For Thou Art a merciful [God]"[^596], immediately – the eleventh Gospel
+11. Litany "Let us complete" and, after the exclamation "For Thou Art a merciful [God]"[^596], immediately – the eleventh Gospel
 
-13. **Aposticha:** Aposticha and the twelfth Gospel
+12. **Aposticha:** Aposticha and the twelfth Gospel
 
-13.	"It is a good thing", Trisagion, "Our Father", Troparion of Friday "Thou Hast redeemed".
+13. "It is a good thing", Trisagion, "Our Father", Troparion of Friday "Thou Hast redeemed".
 
 Litany "Have mercy on us, O God" and the specific dismissal of Great Friday, intermediate, that is Priest: "Wisdom", Choir: "More honorable"; Priest: "Glory to Thee, O Christ" and the rest, as usual[^597]. We do not combine with the 1st Hour
 
@@ -1343,17 +1343,17 @@ TYPIKA (Typika)
 
 We join it to the 9th Hour, but we do not celebrate from the beginning, as on the Eve of the Nativity, but from the Beatitudes, without stichera, in this way:
 
-1.	"The Beatitudes", "Glory, Both now"; "Remember us, O Lord" (3).
+1. "The Beatitudes", "Glory, Both now"; "Remember us, O Lord" (3).
 
-2.	"The Choir of heavenly hosts" with verses, Both now: "I believe".
+2. "The Choir of heavenly hosts" with verses, Both now: "I believe".
 
-3.	"Remit, pardon", "Our Father", Kontakion of Great Friday.
+3. "Remit, pardon", "Our Father", Kontakion of Great Friday.
 
-4.	"Lord, have mercy" (12); priest: "O All-holy Trinity".
+4. "Lord, have mercy" (12); priest: "O All-holy Trinity".
 
-5.	"Blessed be the name of the Lord" (3), "I will bless the Lord".
+5. "Blessed be the name of the Lord" (3), "I will bless the Lord".
 
-6.	*“It is truly meet”* with *“More honorable than the Cherubim”*.
+6. *“It is truly meet”* with *“More honorable than the Cherubim”*.
 
 Priest: "Glory to Thee, O Christ God" and dismissal of Great Friday, to the people
 
@@ -1375,9 +1375,9 @@ On Great Friday
 
 5. Instead of the Prokimenon of the day there will be Prokimenon of the *Triodion*, Paremia and third Paremia; then – third Prokimenon of the Apostle, Apostle, "Alleluia" and Gospel. At "Alleluia" there will be censing. "Let us attend. Peace be to all. Wisdom, let us attend" we exclaim only at the 1st and 3rd Prokimena. We begin the Gospel from "Wisdom, Aright". Instead of "Glory to Thee, O Lord" before the Gospel will be "Glory to Thy Passion, O Lord", and after the Gospel – "Glory to Thy long-suffering, O Lord", exactly so as at Matins
 
-4.	"Let us all say", "Vouchsafe", "Let us complete" and Aposticha.
+4. "Let us all say", "Vouchsafe", "Let us complete" and Aposticha of the *Triodion*.
 
-6. At the last sticheron of the Aposticha, that is at "Thee, Who Art clothed with light", takes place the procession with the Shroud and the placing of it in the Tomb. According to the custom of our cathedral churches this takes place in the following way: During the singing of the Aposticha the procession is formed in the church. On the altar, on the left side, stands the monstrance, candles are lit on the altar and at the Tomb
+5. At the last sticheron of the Aposticha, that is at "Thee, Who Art clothed with light", takes place the procession with the Shroud and the placing of it on the Tomb
 
 The sacred ministers, the Bishop and the four most worthy canons, who will carry the Shroud, vest in all sacred vestments of their rank, and the other canons and priests – only in epitrachelia and phelonia, some – only in epitrachelia, and two deacons – in all diaconal [vestments]. Lit candles are distributed to the canons and other priests in the sanctuary, and to the brotherhood – in the church. The sacred ministers approach the steps of the altar and bow low. The Bishop ascends to the altar, takes the Shroud, spread on the altar, and gives it to the four canons so that each holds it by one corner. Then the Deacon who is on the right ascends to the altar and, having bowed low, unlocks the artophorion, takes from there the pyx with the Holy Mysteries, places [it] on the (folded) antimension, takes from there the Lamb with the stand into which it is inserted, not touching it with his fingers, but holding by the stand, places [it] into the monstrance and locks it well. Having locked the pyx, he places [it] into the artophorion and, having bowed, locks it also; and places the monstrance on the antimension so that it faces the people, steps aside until the Bishop, kneeling, censes the Holy Mysteries three times, each time – with a prostration at the end, and, having taken upon himself the omophorion (aer), approaches the altar. Then the Deacon, having bowed to the Holy Mysteries, takes with both hands the monstrance and hands it to the Bishop, who before that makes a prostration. The Bishop turns to the right to the people, and when the singers begin to sing "Thee, Who Art clothed with light", goes out behind the clergy through the holy doors on the northern side of the Tomb into the church and, having entered under the canopy, surrounded by candle-bearers and preceded by two deacons who cense unceasingly, proceeds behind all to the church doors. In front goes the cross-bearer, then the banner-bearers, four girls icon-bearers, after them – the church brotherhood, the seminarians, the seminary choir, then, from the holy doors, – priests, canons, four sacred dignitaries who carry the Shroud, turned with feet to the people, and at the end – the Bishop with deacons who cense, and candle-bearers. The procession goes out of the church and turns to the right, that is to its northern side and, having gone around the church three times (or, as now they do there, – once), returns to the church. Those who carry the Shroud, and the other priests stand before the Tomb, and the Bishop with the deacons returns by the southern side of the Tomb, through the holy doors, to the sanctuary. The right deacon receives from his hands the Holy Mysteries and places [them] on the altar. The Bishop kneels and, having put aside the omophorion (Velum), censes the Holy Mysteries three times, each time bowing his head; the Deacon, having bowed, exposes the Holy Mysteries at the top of the tabernacle. Having bowed before the steps of the altar, all three depart: the Bishop through the central, the deacons – through the side doors before the Tomb. The Bishop receives the Shroud from the canons who hold it, and places [it] on the Tomb, and they fasten it to the Tomb. When the singers have finished singing "Now lettest Thou Thy servant depart", the Trisagion and the rest with "Our Father", the Bishop exclaims: "For Thine is the Kingdom" and begins to sing with the servers the troparion "The noble Joseph"; at the end he makes with the servers a low bow, and all the people – a great prostration to the ground. Then the second time the same troparion – the second choir, and all – a prostration, as before. And where there will be only one choir, the first time the troparion is sung by the sacred ministers, the second time – by the Choir, the third time the half – by the sacred ministers, and from "wrapped [it]" and further – by the Choir[^601]. After the singing of the troparion and after the prostrations all kiss the Shroud, according to the order, having made before the kissing one prostration: first the Bishop, and after him – all other sacred ministers, according to the rank of their dignity. After this there will be the Great Dismissal, specific to this Saturday, after which the sacred ministers return to the sanctuary, leaving the holy doors open until the end of Bright Week, take off the sacred vestments and go out, and the people kiss the Shroud[^602].
 
@@ -1385,9 +1385,9 @@ The icon of the Shroud is transferred on Holy and Great Friday from the sanctuar
 
 > **Notes** 
 
-7. Where there will be only one priest, let him choose for himself four most honorable laymen to carry the Shroud
+1. Where there will be only one priest, let him choose the Shroud...
 
-8. If the pastor has several churches, then in the mother [church] He sings Vespers with the bringing out of the Shroud, and in the filial ones – only brings out the Shroud thus: after "Blessed is our God" and "O come, let us worship" (3) immediately – procession with "Thee, Who Art clothed with light" and, after the procession, – "Glory to Thee, O Christ God", dismissal and "The noble Joseph" (3) with prostrations
+2. If the pastor has several churches, then in the mother [church]...
 
 Small Compline
 
@@ -1409,7 +1409,7 @@ From "Blessed is our God" to "O come, let us worship" exclusively everything –
 
 9. **On *"God is the Lord"*:* Troparion "The noble Joseph" (2), Glory: "When Thou didst descend", Both now: "The angel stood by the tomb"[^604]
 
-3.	17th Kathisma ("The Blameless") in three stations with the Encomia (Praises), with censing at the beginning of each station and a Small Litany after each station.
+3. 17th Kathisma ("The Blameless") in three stations with the Encomia (Praises), with censing at the beginning of each station and a Small Litany after each station.
 
 Regarding the censing, we suppose that it is sufficient to cense only the Shroud (together with the Holy Mysteries, if they be exposed on the tomb), the choirs and the people[^605].
 
@@ -1421,7 +1421,7 @@ After "The Choir of angels" with the Small Litany – Sessional Hymn, 50th Psalm
 
 After the 3rd Ode – Sessional Hymn, after the 6th – Kontakion-Ikos, at the 9th we do not sing "More honorable"[^606] and after the 9th we do not recite *“It is truly meet”*, but the heirmos; and afterwards, instead of the Exaposteilarion, we sing "Holy is the Lord our God" (3).
 
-6.	4 Stichera of the Praises, then one at "Glory" and one at "Both now".
+6. 4 Stichera of the Praises, then one at "Glory" and one at "Both now".
 
 11. **After the Great Doxology:** At the Great Doxology we make the Entrance with the Gospel and, instead of the one troparion after the Doxology, there will be one Sticheron of the Praises (Shroud [Epitaphios]), two troparia and three readings, that is one – of the Prophecy, one – of the Apostle and one – of the Gospel
 
@@ -1449,7 +1449,7 @@ WITH THE LITURGY OF ST. BASIL
 
 2. On this day there will be only one Vespers, that is Great with the Liturgy of St. Basil and without All-Night Vigil, and after the Prayer behind the Ambo, or (as the rubrics prescribe) after the dismissal of the Liturgy, there will be the Blessing of Loaves, as usual at the All-Night Vigil
 
-3. The form and rubric of this Vespers is the same as the Vespers on the Eve of the Nativity, here on pp. 169-171 [→REF:p169-171], without *“Blessed is the man”*; only here, after "O Gladsome Light", there will be no Prokimenon, but immediately 15 readings, between which there will be no troparia, and at the 6th reading all verses of the Song of Moses are read with the refrain "For gloriously has He been glorified", and at the 15th reading the verses of the Song of the Three Youths are read with the refrain "Praise the Lord and exalt Him above all for ever". Instead of "Alleluia" we sing the last verse of the 81st Psalm with its other verses, in the form of a Prokimenon[^609]. Dismissal of Matins of Saturday
+3. The form and rubric of this Vespers is the same as the Vespers on the Eve of the Nativity, here on [pp. 169-171](Final_Dolnytsky_part3_menaion.md#24-december--royal-hours-and-vespers-of-the-eve-of-nativity), without *“Blessed is the man”*; only here, after "O Gladsome Light", there will be no Prokimenon, but immediately 15 readings, between which there will be no troparia, and at the 6th reading all verses of the Song of Moses are read with the refrain "For gloriously has He been glorified", and at the 15th reading the verses of the Song of the Three Youths are read with the refrain "Praise the Lord and exalt Him above all for ever". Instead of "Alleluia" we sing the last verse of the 81st Psalm with its other verses, in the form of a Prokimenon[^609]. Dismissal of Matins of Saturday
 
 4. Although the service of the feast usually begins at Vespers of the preceding day and therefore the whole Resurrection service should be celebrated in bright vestments, nevertheless, since the Liturgy, with which Vespers is sung, is still of the Saturday day, in the part of the verses on *“Lord, I have cried”* we sing about the descent of the Savior's soul into hell and therefore from the beginning of Vespers we use violet vestments, and afterwards change them after the conclusion of the Apostle, at the verses instead of "Alleluia", in order to read the Gospel already in bright vestments[^610]
 
@@ -1515,7 +1515,7 @@ If there be only one priest, he stands in the holy doors and from there gives th
 
 Litanies "Have mercy on us, O God" and "Let us complete" are sung by deacons, standing in their usual places
 
-8. **Dismissal:** Great Dismissal, specific, at which, instead of "More honorable", we sing "Shine, shine"[^638] and, instead of "Glory, Both now", we sing "Christ is risen" once. The Priest stands with the cross in the holy doors, and the Deacon (if there be none, then the Priest himself) exclaims: "Wisdom". Choir (or second deacon, if there be one)[^623]: "Bless"
+8. **Dismissal:** Great Dismissal, specific, at which, instead of "More honorable", we sing "Shine, shine" and, instead of "Glory, Both now", we sing "Christ is risen" once. The Priest stands with the cross in the holy doors, and the Deacon (if there be none, then the Priest himself) exclaims: "Wisdom". Choir (or second deacon, if there be one)[^623]: "Bless"
 
 Priest: "Blessed be Christ our God... ages".
 
@@ -1587,15 +1587,15 @@ It takes place, according to our custom and according to the rubric of the *Trio
 
 4. The Priest and deacons, if there be any, dressed in all sacred vestments of their rank, come before the steps of the altar and bow low, as usual. The Priest receives the censer with the usual prayer of blessing the censer, censes before the holy table, exclaiming: "Blessed is our God"[^632]; then, having given up the censer, ascends with the deacons the steps and sings "Christ is risen" once and both choirs – once each. After this the Priest recites clearly "Let God arise" and other verses with "Glory, Both now". The choirs, at each verse, sing "Christ is risen" once or three times exactly as was indicated for the beginning of Matins. Afterwards the Priest: "Christ is risen" up to "trampling down death by death", and the choirs: "and upon those in the tombs" and the rest
 
-2.	"In peace let us pray to the Lord" the Priest sings at the altar, and if a Deacon – then before the iconostasis.
+2. "In peace let us pray to the Lord" the Priest sings at the altar, and if a Deacon – then before the iconostasis.
 
-3.	*“Lord, I have cried”* – in Tone 2, with the usual censing. Stichera – Resurrection of the *Octoechos* of Tone 2, given in the *Triodion*; Glory: *Triodion*, Both now: 1st Theotokion (Dogmatikon) of Tone 2.
+3. *“Lord, I have cried”* – in Tone 2, with the usual censing. Stichera – Resurrectional 3 and of the *Triodion* 4; Glory: of the *Triodion*, Both now: 1st Theotokion of the current Tone 2 (Dogmatikon).
 
-5. **Entrance:** Entrance with the Gospel and usual censing at "O Gladsome Light"; and, after the Great Prokimenon, the Deacon, and if there be none, then the Priest himself: "And that we may be accounted worthy", priest: "The Reading from John...". Deacon: "Let us attend", and the Priest himself reads the Gospel from the holy doors (From John Sect. 65, up to "not believe")
+4. **Entrance:** Entrance with the Gospel and usual censing at "O Gladsome Light"; and, after the Great Prokimenon, the Deacon, and if there is none, the Priest exclaims: "Wisdom!", and the reading from Genesis begins, and other readings
 
-5.	"Let us all say", "Vouchsafe" and "Let us complete".
+5. "Let us all say", "Vouchsafe" and "Let us complete".
 
-6. At the Aposticha: one Resurrection Sticheron of the *Octoechos*, given in the *Triodion*, then Resurrection Stichera with their verses and the kissing of the cross, or also of other sacred insignia exactly as was given for Matins. After the final "Christ is risen" immediately dismissal with the cross and the rest exactly as was given for Matins
+6. At the Aposticha: one Resurrection Sticheron of the *Octoechos*, given in the Pentecostarion, and then the Paschal Stichera: "Let God arise" with their refrains
 
 COMPLINE AND Midnight Office: Everything – according to the pattern of the Resurrection Hours, here on page 416.
 
@@ -1603,7 +1603,7 @@ COMPLINE AND Midnight Office: Everything – according to the pattern of the Res
 
 ##### At Vespers
 
-Everything – as on the day of Resurrection in the evening, here on p. 421 [→REF:p421], except the Entrance, which takes place with the censer, and not with the Gospel, and there will be no Gospel.
+Everything – as on the day of Resurrection in the evening, here on [p. 421](#resurrection-of-christ---sunday-evening-great-vespers), except the Entrance, which takes place with the censer, and not with the Gospel, and there will be no Gospel.
 
 Note
 
@@ -1643,7 +1643,7 @@ On Sunday evening for Monday there will be no Entrance, as happens on the Sunday
 
 From today we begin to sing the Canons of the Theotokos. After *“It is truly meet”* throughout the whole week, we recite the Kontakion of the Sunday; only during the eight days of the feast of Mid-Pentecost we read the Kontakion of Mid-Pentecost
 
-1. We sing the Midnight Office as usual, only after the 1st Trisagion on the feast of Mid-Pentecost[^642] we take the Troparion of Mid-Pentecost, and on the Apodosis of the Resurrection[^643] – the Resurrection Troparion of the Sunday with its Theotokion; and after the 2nd Trisagion in the middle of Mid-Pentecost we take the Kontakion of Mid-Pentecost, and outside Mid-Pentecost – Kontakion of the Resurrection. The prayer "Remember, O Lord" will not be
+1. We sing the Midnight Office as usual, only after the 1st Trisagion on the feast of Mid-Pentecost we take the Troparion of Mid-Pentecost, and on the Apodosis of the Resurrection – the Resurrection Troparion of the Sunday with its Theotokion; and after the 2nd Trisagion in the middle of Mid-Pentecost we take the Kontakion of Mid-Pentecost, and outside Mid-Pentecost – Kontakion of the Resurrection. The prayer "Remember, O Lord" will not be
 
 2. We begin Matins from "Glory to the Holy" and immediately "Christ is risen" (3), then "Glory to God in the highest" and the rest; before the 50th Psalm we recite "The Resurrection of Christ": on Sundays – three times, and on weekdays – once[^639]
 
@@ -1655,15 +1655,15 @@ after "Blessed is our God" we recite "Christ is risen" (3), and after the dismis
 
 ##### At the Divine Liturgy
 
-"Christ is risen" we sing where also on the Resurrection of Christ; here, on pp. 416-418 [→REF:p416-418]
+"Christ is risen" we sing where also on the Resurrection of Christ; here, on [pp. 416-418](#the-bright-and-glorious-resurrection-of-christ-pascha)
 
 Antiphons: the two first – Resurrection, and the third – daily with the Resurrection refrain, also at "O come, let us worship" both on Sundays and on weekdays.
 
-We conclude the troparia with the Kontakion of the Resurrection, except the Week of Thomas and Mid-Pentecost, for then we conclude with their Kontakion just as in the *Triodion*; although the troparia of the Week of Thomas can be concluded also with the Kontakion of the Resurrection, as it is in our Sluzhebnyky, in our Manuscript Typikon and *Tserkovne Oko*.
+We conclude the troparia with the Kontakion of the Resurrection[^640], except the Week of Thomas and Mid-Pentecost, for then we conclude with their Kontakion just as in the *Triodion*; although the troparia of the Week of Thomas can be concluded also with the Kontakion of the Resurrection, as it is in our Sluzhebnyky, in our Manuscript Typikon and *Tserkovne Oko*.
 
 Instead of *“It is truly meet”* we sing "The angel cried" and "Shine, shine", except the eight days of Mid-Pentecost, which has its heirmos.
 
-We sing the Resurrection dismissal, except the Week of Thomas, which has a specific dismissal. The dismissal with the cross we sing only on Sundays[^641], on the feast of Mid-Pentecost and on the Apodosis of the Resurrection.
+We sing the Resurrection dismissal, except the Week of Thomas, which has a specific dismissal. The dismissal with the cross we sing only on Sundays[^641], on the feast of Mid-Pentecost[^642] and on the Apodosis of the Resurrection[^643].
 
 We suppose that also on some other days, when there be a sufficient number of people, it would be good to sing the dismissal with the cross, however, not every day, as some do, having for this neither rubric nor general custom.
 
@@ -1691,7 +1691,7 @@ Third from the Resurrection. Tone 2.
 
 ##### At Great Vespers
 
-1.	"Blessed is our God", "Christ is risen" (3), Trisagion and the rest with "Our Father", "Lord, have mercy" (12), "O come, let us worship" (3).
+1. "Blessed is our God", "Christ is risen" (3), Trisagion and the rest with "Our Father", "Lord, have mercy" (12), "O come, let us worship" (3).
 
 1. **On *"Lord, I have cried"*:* 10 stichera: 4 Sunday and 6 of the Myrrh-bearers (3 which are at *“Lord, I have cried”*, and 3 which are at the Litiya); Glory: of the Myrrh-bearers, Both now: 1st Theotokion of the tone (Dogmatikon)
 
@@ -1931,13 +1931,13 @@ We sing the whole service only of the feast, as on the day of the feast itself h
 
 THURSDAY, FRIDAY AND SATURDAY OF THE SAMARITAN WOMAN
 
-We sing everything according to the rubric of the weekdays of the Paralytic here, on pp. 432-433 [→REF:p432-433].
+We sing everything according to the rubric of the weekdays of the Paralytic here, on [pp. 432-433](#weekdays-of-the-paralytic).
 
 ### 4.2.16 Sunday of the Man Born Blind
 
 Sixth from the Resurrection. Tone 5.
 
-Everything – according to the rubric of the Sunday of the Paralytic here, on pp. 431-432 [→REF:p431-432]; only at Great Matins there will be the 8th Sunday Gospel and Katavasia – not of the Resurrection, but of the Ascension.
+Everything – according to the rubric of the Sunday of the Paralytic here, on [pp. 431-432](#sunday-of-the-paralytic); only at Great Matins there will be the 8th Sunday Gospel and Katavasia – not of the Resurrection, but of the Ascension.
 
 WEEKDAYS OF THE BLIND MAN
 
@@ -1945,7 +1945,7 @@ The service of the Blind Man continues only three weekdays: Monday, Tuesday and 
 
 MONDAY AND TUESDAY OF THE BLIND MAN
 
-Everything – according to the rubric of the weekdays of the Paralytic here, on pp. 432-433 [→REF:p432-433].
+Everything – according to the rubric of the weekdays of the Paralytic here, on [pp. 432-433](#weekdays-of-the-paralytic).
 
 WEDNESDAY OF THE APODOSIS OF THE RESURRECTION AT VESPERS
 
@@ -2059,7 +2059,7 @@ On Thursday evening and on Friday morning the service of the Ascension is sung a
 
 SOUL SATURDAY BEFORE THE DESCENT
 
-Everything – according to the rubric of Meatfare Saturday here, on pp. 320-322 [→REF:p320-322].
+Everything – according to the rubric of Meatfare Saturday here, on [pp. 320-322](#meatfare-saturday-saturday-of-the-dead).
 
 ### 4.2.19 Sunday of Pentecost
 
@@ -2145,7 +2145,7 @@ We do not serve All-Night Vigil.
 
 ##### At Great Vespers
 
-1.	*“Blessed is the man”*, as usual.
+1. *“Blessed is the man”*, as usual.
 
 1. **On *"Lord, I have cried"*:* 10 stichera: 4 Sunday and 6 of the Saints; Glory: of the Saints, Both now: 1st Theotokion of the tone (8th)
 

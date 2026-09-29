@@ -10,10 +10,12 @@ Also checks for:
 3. Footnote markers that appear in wrong files
 """
 import os, re, sys, json
+from pathlib import Path
 sys.stdout.reconfigure(encoding='utf-8')
 
-final_dir = r'e:\Google Antigravity\Projects\Translation\Final'
-report_dir = r'e:\Google Antigravity\Projects\Translation\scratch\reports'
+root = Path(__file__).resolve().parent.parent
+final_dir = str(root / "Final")
+report_dir = str(root / "scratch" / "reports")
 os.makedirs(report_dir, exist_ok=True)
 
 # Expected footnote ranges per file (approximate from prior work)

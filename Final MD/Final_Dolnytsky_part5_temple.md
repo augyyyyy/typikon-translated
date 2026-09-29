@@ -10,7 +10,7 @@ The temple rubrics used among us are of a double kind: some are borrowed from lo
 
 ### 5.1.1 Concerning the Exposition of the Holy Mysteries on the Altar
 
-On one of the days preceding the feast, the Priest shall consecrate two Lambs at the Liturgy: with one let him communicate, and the other, having placed [It] in the pyx [darokhranylnytsia], let him keep until the day of the feast. Let him do all this according to the rubric given for Great Thursday here, on p. 385 [→REF:p385]. When the very day of the feast comes, after the completion of the Proskomedia, immediately before the beginning of the Liturgy, the deacons (or the Priest himself) cense everything according to custom and the exposition of the Holy Mysteries takes place exactly as was noted for the feast of the Most Holy Eucharist here, on p. 449 [→REF:p449].
+On one of the days preceding the feast, the Priest shall consecrate two Lambs at the Liturgy: with one let him communicate, and the other, having placed [It] in the pyx [darokhranylnytsia], let him keep until the day of the feast. Let him do all this according to the rubric given for Great Thursday here, on [p. 385](Final_Dolnytsky_part4_triodion.md#great-thursday---divine-liturgy-and-consecration-of-the-lamb). When the very day of the feast comes, after the completion of the Proskomedia, immediately before the beginning of the Liturgy, the deacons (or the Priest himself) cense everything according to custom and the exposition of the Holy Mysteries takes place exactly as was noted for the feast of the Most Holy Eucharist here, on [p. 449](Final_Dolnytsky_part4_triodion.md#solemnity-of-the-most-holy-body-and-blood-of-christ-eucharist).
 
 After the Ambo [prayer], let the Holy Mysteries be hidden in the tabernacle [kyvot], and before Vespers exposed again, for it is not fitting to leave the Holy Mysteries without those who venerate Them and without a sufficient quantity of candles, of which, according to the prescription of the Lviv Synod, there should be at least six wax ones[^663].
 
@@ -40,11 +40,11 @@ These rubrics are either general or specific. General [ones] are applicable to m
 
 ### 5.2.1 General Rubrics
 
-[^665]1.	On a temple feast, even if it be of a saint of a lower rank, an All-Night Vigil must be celebrated. So we do, and so holds the *Tserkovne Oko* in Chapter 4, concerning temples[^666].
+[^665]1. On a temple feast, even if it be of a saint of a lower rank, an All-Night Vigil must be celebrated. So we do, and so holds the *Tserkovne Oko* in Chapter 4, concerning temples[^666].
 
 The feast of a temple saint, even if of a lower rank, exceeds even a feast of a saint with a Vigil, primarily in that, when it falls on a Sunday, it includes at Matins before the Canon the Prokimenon, the Gospel, and the Sunday Sticheron [after the Gospel], exactly as a Feast of the Theotokos; also, the Gospel Sticheron is transferred from the "Praises" to the end of Matins. Besides this, if it falls on a weekday, it excludes at the Liturgy the Apostle and Gospel of the day, which is then read on the day before the feast. Finally, the temple feast of a saint has its Apodosis, which takes place on the very day of the feast at Vespers for the following day, with an Entrance, as on a Feast of the Lord. In this Apodosis at "Lord, I have cried," there will be 6 stichera: 3 of the temple and 3 of the daily saint; Glory: of the temple; Both now: Theotokion from the Sunday [*Octoechos*] (Dogmatic) according to the tone of the Doxastikon. If the temple is of the Lord or of the Theotokos, then also Glory, Both now: of the temple. On Friday evening for Saturday, we always sing the Dogmatic of the tone that is being given away. After the Prokimenon – "Let us all say." Aposticha of the temple with its verses, Glory: of the temple, Both now: Theotokion from the Sunday [*Octoechos*], according to the tone of the Doxastikon. If the temple is of the Lord or of the Theotokos, then Both now: of the temple. At the end: Troparion of the temple, Glory: Troparion of the daily saint, Glory, Both now: of the temple. Great Dismissal with the commemoration of the temple and the daily saint. At this Vespers, the service of the temple saint concludes; however, a temple saint does not have an Apodosis if the following day falls on a Sunday, or a Polyeleos saint
 
-If the feast of a temple saint falls in the midst of a feast, that is, during the Forefeast, Afterfeast, or Apodosis of a feast – observe the rubric of a Saint with Vigil in the Afterfeast, whether on a Sunday or on a weekday here, on pp. 104-105 [→REF:p104-105][^667], only on Sunday, at Matins, we sing the Prokimenon, Gospel and Sticheron of the temple; at the Praises – Glory: of the temple, and the Gospel Sticheron – after the dismissal of Matins[^668]
+If the feast of a temple saint falls in the midst of a feast, that is, during the Forefeast, Afterfeast, or Apodosis of a feast – observe the rubric of a Saint with Vigil in the Afterfeast, whether on a Sunday or on a weekday here, on [pp. 104-105](Final_Dolnytsky_part2_general_rubrics.md#general-rubric-for-a-temple-saint-in-the-afterfeast)[^667], only on Sunday, at Matins, we sing the Prokimenon, Gospel and Sticheron of the temple; at the Praises – Glory: of the temple, and the Gospel Sticheron – after the dismissal of Matins[^668]
 
 On the very day of the feast, after the Ambo [prayer], in our lands, a Blessing of Water usually takes place outside the church, to where a procession goes: in front – the cross-bearer, then – the censer-bearer, the Deacon with the Gospel, and the Priest with a hand cross. It befits the church servers to carry there also the boat with incense, the sprinkler with the holy water vessel, a glass [cup], and a towel, so that the cross may be wiped after immersing it in the water, as well as the hands of the Priest. After the dismissal of the Liturgy, the Polychronion is sung for the Ecumenical Pontiff, the Emperor, the Metropolitan, one's own Bishop, all present sacred ministers, and all people of the parish
 
@@ -52,7 +52,7 @@ On the day following the feast, according to local custom, a Liturgy for the dec
 
 The feast of a temple saint is usually transferred among us to the following Sunday; in throne [cathedral] temples – it is celebrated on its own day
 
-### 5.2.2 Specific Temple Rubrics
+### 5.2.2 Specific Temple Rubrics[^669]
 
 OUTSIDE THE TRIODION
 
@@ -72,9 +72,9 @@ Temple of the Venerable Symeon Stylites
 
 ##### At Great Vespers
 
-1. From the beginning, that is, from "Come, let us worship," until the Litiya, everything is just as without a temple here, on pp. 110-111 [→REF:p110-111]
+1. From the beginning, that is, from "Come, let us worship," until the Litiya, everything is just as without a temple here, on [pp. 110-111](Final_Dolnytsky_part3_menaion.md#13-september--forefeast-of-the-exaltation)
 
-2. At the Litiya: stichera of the temple, Glory: of the temple, Both now: Theotokion according to the tone of the Doxastikon[^691], from the Aposticha of Sunday Great Vespers
+2. At the Litiya: stichera of the temple, Glory: of the temple, Both now: Theotokion according to the tone of the Doxastikon, from the Aposticha of Sunday Great Vespers
 
 3. At the Aposticha: stichera of the temple, Glory: of the same, Both now: of the Indiction
 
@@ -82,7 +82,7 @@ Temple of the Venerable Symeon Stylites
 
 ##### At Great Matins
 
-1. From the beginning, that is from "Glory to the Holy," until the Polyeleos, everything is as without a temple here, on p. 111 [→REF:p111]; only after the second poetic Kathisma [stichologia], the Doxastikon of Kallistos is not taken and we sing Glory, Both now: Theotokion of the Indiction
+1. From the beginning, that is from "Glory to the Holy," until the Polyeleos, everything is as without a temple here, on [p. 111](Final_Dolnytsky_part3_menaion.md#13-september--memory-of-the-renovation-of-the-temple-of-the-resurrection); only after the second poetic Kathisma [stichologia], the Doxastikon of Kallistos is not taken and we sing Glory, Both now: Theotokion of the Indiction
 
 2. From the Polyeleos until the Canon everything is only of the temple. Prokimenon – "Precious in the sight of the Lord." Gospel from Luke, Sec. 24 "Jesus stood on a level place."
 
@@ -98,7 +98,7 @@ Temple of the Venerable Symeon Stylites
 
 ##### At the Hours
 
-AND AT THE LITURGY: Everything is as without a temple here, on p. 112 [→REF:p112].
+AND AT THE LITURGY: Everything is as without a temple here, on [p. 112](Final_Dolnytsky_part3_menaion.md#at-the-liturgy).
 
 #### On Sunday
 
@@ -144,7 +144,7 @@ AND AT THE LITURGY: Everything is as without a temple here, on p. 112 [→REF:p1
 
 ##### At the Hours
 
-AND AT THE LITURGY: Everything is as without a temple here, on pp. 113-114 [→REF:p113-114].
+AND AT THE LITURGY: Everything is as without a temple here, on [pp. 113-114](Final_Dolnytsky_part3_menaion.md#13-september--sunday-before-the-exaltation).
 
 JANUARY 1
 
@@ -164,7 +164,7 @@ OF THE PUBLICAN, PRODIGAL, MEATFARE, CHEESEFARE
 
 AND ON MONDAY OF THE FIRST WEEK OF LENT
 
-On all these days we sing the service of the temple just as the service of the Meeting[^677] here, on pp. 216-217 [→REF:p216-217] and 220. However:
+On all these days we sing the service of the temple just as the service of the Meeting[^677] here, on [pp. 216-217](Final_Dolnytsky_part3_menaion.md#2-february--the-meeting-on-weekdays-and-saturday) and 220. However:
 
 1. **Troparia:** Troparia and stichera end with the usual Theotokia as in the case of a saint with Vigil
 
@@ -174,7 +174,7 @@ at the Litiya we sing the stichera of the *Triodion* from the Aposticha stichera
 
 ##### At Great Matins
 
-Canons 3 on 14: Sunday on 4, *Triodion* on 4 and temple on 6. After the 3rd Ode – Kontakion and Ikos of the *Triodion*, then – Sessional Hymn of the temple, Glory, Both now: of the *Triodion*; after the 6th – Kontakion and Ikos of the temple; after the 9th – Sunday Exaposteilarion, Glory: of the temple, Both now: of the *Triodion*. Katavasia of the season, only on Meatfare Sunday the Katavasia is of the *Triodion*. Stichera at the Praises – 8: 4 Sunday and 4 of the temple with its verses, Glory: of the temple, Both now: "Most Blessed"; however, on Meatfare and Cheesefare Sundays, after four stichera of the temple with their verses, we sing the Idiomelon sticheron of the *Triodion* with the verse "Arise, O Lord," Glory: the same, Both now: "Most Blessed"[^684][^678]
+Canons 3 on 14: Sunday on 4, *Triodion* on 4 and temple on 6. After the 3rd Ode – Kontakion and Ikos of the *Triodion*, then – Sessional Hymn of the temple, Glory, Both now: of the *Triodion*; after the 6th – Kontakion and Ikos of the temple; after the 9th – Sunday Exaposteilarion, Glory: of the temple, Both now: of the *Triodion*. Katavasia of the season, only on Meatfare Sunday the Katavasia is of the *Triodion*. Stichera at the Praises – 8: 4 Sunday and 4 of the temple with its verses, Glory: of the temple, Both now: "Most Blessed"; however, on Meatfare and Cheesefare Sundays, after four stichera of the temple with their verses, we sing the Idiomelon sticheron of the *Triodion* with the verse "Arise, O Lord," Glory: the same, Both now: "Most Blessed"[^678]
 
 ---
 
@@ -186,7 +186,7 @@ The service of the temple we celebrate on Saturday, and for the deceased – on 
 
 MONDAY, TUESDAY, WEDNESDAY, THURSDAY AND FRIDAY
 
-Everything is according to the general rubric of a temple saint here, on p. 458 [→REF:p458], only:
+Everything is according to the general rubric of a temple saint here, on [p. 458](#general-rubric-for-a-temple-saint), only:
 
 At the Aposticha of Small Vespers and at the Praises, Both now will be the Idiomelon of the day in the *Triodion
 
@@ -194,7 +194,7 @@ On Wednesday and Friday at the end of Vespers, Matins and every Hour, we make 3 
 
 #### 5.2.2.4.17 Temple Of A Saint On Cheesefare Saturday
 
-Everything is according to the rubric of the Meeting here, on pp. 218-219 [→REF:p218-219], only:
+Everything is according to the rubric of the Meeting here, on [pp. 218-219](Final_Dolnytsky_part3_menaion.md#2-february--the-meeting-on-sunday), only:
 
 To the Troparia and Stichera we select the usual Theotokia
 
@@ -206,7 +206,7 @@ At the Blessing of Loaves: Troparion of the temple once, to the Fathers once and
 
 #### On Monday Of The First Week Of Lent
 
-The entire service of the temple is sung on Cheesefare Sunday according to the rubric here, on p. 220 [→REF:p220][^682].
+The entire service of the temple is sung on Cheesefare Sunday according to the rubric here, on [p. 220](Final_Dolnytsky_part3_menaion.md#2-february--the-meeting-on-cheesefare-sunday)[^682].
 
 ---
 
@@ -226,7 +226,7 @@ The service of the temple is sung on Saturday of the first week of Lent together
 
 WITH THE LITURGY OF PRESANCTIFIED GIFTS
 
-Everything is according to the rubric of the Finding here, on p. 232 [→REF:p232], only:
+Everything is according to the rubric of the Finding here, on [p. 232](Final_Dolnytsky_part3_menaion.md#24-february--first-and-second-finding-of-the-precious-head-of-john-the-baptist), only:
 
 AT Great Compline
 
@@ -236,7 +236,7 @@ At the Blessing of Loaves: Troparion of the temple twice and "Virgin Theotokos" 
 
 ##### At Great Matins
 
-Everything is according to the rubric of the Finding here, on p. 233 [→REF:p233], only after the 1st and after the 2nd poetic Kathismata we sing the Sessional Hymn of the temple. Canons 2: of the temple on 8 and of Theodore on 6[^683]. At the Praises – Glory: of the temple.
+Everything is according to the rubric of the Finding here, on [p. 233](Final_Dolnytsky_part3_menaion.md#24-february--the-finding-on-weekdays-of-great-lent), only after the 1st and after the 2nd poetic Kathismata we sing the Sessional Hymn of the temple. Canons 2: of the temple on 8 and of Theodore on 6[^683]. At the Praises – Glory: of the temple.
 
 #### Temple Of A Saint On The First And Third Sundays Of Lent
 
@@ -256,7 +256,7 @@ Everything is according to the general rubric of a saint with Vigil on Sunday.
 
 ##### At Great Matins
 
-Everything is according to the rubric of the Finding here, on p. 234 [→REF:p234], only:
+Everything is according to the rubric of the Finding here, on [p. 234](Final_Dolnytsky_part3_menaion.md#24-february--the-finding-on-saturday-of-great-lent), only:
 
 1. Gospel and Sticheron – of the temple
 
@@ -286,7 +286,7 @@ Everything is according to the general rubric of a saint with Vigil outside the 
 
 ##### At Great Vespers
 
-1. From the beginning, that is from "Come, let us worship," until the Litiya everything is according to the rubric of the Finding here, on p. 235 [→REF:p235]
+1. From the beginning, that is from "Come, let us worship," until the Litiya everything is according to the rubric of the Finding here, on [p. 235](Final_Dolnytsky_part3_menaion.md#24-february--the-finding-on-sunday-of-great-lent)
 
 2. At the Litiya and at the Aposticha stichera are of the temple
 
@@ -298,7 +298,7 @@ The rest of the service is according to the rubric of the Finding.
 
 ##### At Great Vespers
 
-Everything is according to the rubric of the Finding here, on pp. 235-236 [→REF:p235-236], only at *“Lord, I have cried”* stichera of the *Triodion* on 5, that is the Idiomelon twice and 3 Prosomoia, then – 5 of the temple.
+Everything is according to the rubric of the Finding here, on [pp. 235-236](Final_Dolnytsky_part3_menaion.md#24-february--the-finding-in-the-2nd-3rd-and-4th-weeks-of-great-lent), only at *“Lord, I have cried”* stichera of the *Triodion* on 5, that is the Idiomelon twice and 3 Prosomoia, then – 5 of the temple.
 
 AT Great Compline
 
@@ -330,15 +330,15 @@ Everything is according to the general rubric of a saint with Vigil on Sunday, o
 
 #### Temple Of A Saint On The Sunday Of The Cross
 
-Everything is according to the general Lenten rubric with a temple saint here, on p. 468 [→REF:p468], n. 9, only: at "Lord, I have cried," at the Aposticha and at the Praises at "Both now," instead of the Theotokion, there will be the Sticheron of the Cross. (At the Praises there will be one of those remaining from *“Lord, I have cried”*).
+Everything is according to the general Lenten rubric with a temple saint here, on [p. 468](#temple-of-a-saint-on-one-of-the-lenten-days), n. 9, only: at "Lord, I have cried," at the Aposticha and at the Praises at "Both now," instead of the Theotokion, there will be the Sticheron of the Cross. (At the Praises there will be one of those remaining from *“Lord, I have cried”*).
 
 #### Temple Of A Saint On Wednesday Of The Fifth Week Of Lent
 
-Everything is according to the general Lenten rubric with a temple saint here, on p. 468 [→REF:p468], n. 9. The stichera of the Great Canon we sing on Monday at Vespers, and the Great Canon we sing on Tuesday at Matins with the Three-Odes of Tuesday.
+Everything is according to the general Lenten rubric with a temple saint here, on [p. 468](#temple-of-a-saint-on-one-of-the-lenten-days), n. 9. The stichera of the Great Canon we sing on Monday at Vespers, and the Great Canon we sing on Tuesday at Matins with the Three-Odes of Tuesday.
 
 #### Temple Of A Saint On Thursday Of The Fifth Week Of Lent
 
-The Great Canon we sing before that, on Tuesday of the same week, and the service of the temple we sing on Thursday of that week, according to the general Lenten rubric with a temple, as was given in n. 9 on p. 468 [→REF:p468].
+The Great Canon we sing before that, on Tuesday of the same week, and the service of the temple we sing on Thursday of that week, according to the general Lenten rubric with a temple, as was given in n. 9 on [p. 468](#temple-of-a-saint-on-one-of-the-lenten-days).
 
 #### 5.2.2.10.6 Temple Of A Saint On Saturday
 
@@ -424,7 +424,7 @@ AND AT THE LITURGY: Everything first for Lazarus, and afterwards for the temple.
 
 #### Temple Of A Saint On Palm Sunday
 
-Everything is according to the rubric of John the Theologian on May 8, when it falls on the Ascension here, on pp. 295-296 [→REF:p295-296], only:
+Everything is according to the rubric of John the Theologian on May 8, when it falls on the Ascension here, on [pp. 295-296](Final_Dolnytsky_part3_menaion.md#8-may--john-the-theologian-on-the-sunday-of-the-fathers), only:
 
 ##### At Small Vespers
 
@@ -454,7 +454,7 @@ FROM THE FOURTH SUNDAY AFTER PASCHA
 
 TO THE SATURDAY OF PENTECOST
 
-Everything is according to the rubric of the Theologian on p. 293 [→REF:p293].
+Everything is according to the rubric of the Theologian on [p. 293](Final_Dolnytsky_part3_menaion.md#8-may--holy-apostle-and-evangelist-john-the-theologian).
 
 #### Temple Of A Saint
 
@@ -474,15 +474,15 @@ Everything is according to the rubric of John the Theologian on May 8, only at M
 
 #### Temple Of A Saint With The Apodosis Of Ascension
 
-Everything is according to the rubric of the Finding of the Precious Head on May 25; but since this Finding is only Polyeleos, and the temple is with Vigil, one must follow the general rubric of a saint with Vigil in the midst of a feast here, on p. 104 [→REF:p104], without the Apodosis of the temple at Vespers.
+Everything is according to the rubric of the Finding of the Precious Head on May 25; but since this Finding is only Polyeleos, and the temple is with Vigil, one must follow the general rubric of a saint with Vigil in the midst of a feast here, on [p. 104](Final_Dolnytsky_part2_general_rubrics.md#general-rubric-for-a-saint-with-vigil-in-the-afterfeast), without the Apodosis of the temple at Vespers.
 
 #### Temple Of A Saint On Soul Saturday
 
-On this day the entire service is sung of the temple according to the general rubric of a saint with Vigil here, on p. 79 [→REF:p79], with the Apodosis at Vespers, according to the general rubric of a temple saint here, on p. 458 [→REF:p458]. The service for the deceased is transferred back to the previous Saturday or Thursday.
+On this day the entire service is sung of the temple according to the general rubric of a saint with Vigil here, on [p. 79](Final_Dolnytsky_part2_general_rubrics.md#forefeast-with-a-saint-without-polyeleos-on-weekdays-and-on-saturday), with the Apodosis at Vespers, according to the general rubric of a temple saint here, on [p. 458](#general-rubric-for-a-temple-saint). The service for the deceased is transferred back to the previous Saturday or Thursday.
 
 #### Temple Of A Saint On The Very Day Of Pentecost
 
-Everything is according to the rubric of the Theologian, when it falls on the Ascension, on p. 295 [→REF:p295], however, "Having beheld the Resurrection of Christ" we do not say.
+Everything is according to the rubric of the Theologian, when it falls on the Ascension, on [p. 295](Final_Dolnytsky_part3_menaion.md#8-may--john-the-theologian-with-the-ascension), however, "Having beheld the Resurrection of Christ" we do not say.
 
 #### Temple Of A Saint On Monday Of The Holy Spirit
 
@@ -492,23 +492,23 @@ We sing the service of the temple in the evening, and the stichera as indicated 
 
 IN THE MIDST OF THE FEAST OF PENTECOST, EXCEPT MONDAY
 
-Everything is according to the general rubric of a saint with Vigil in the Afterfeast here, on p. 104 [→REF:p104].
+Everything is according to the general rubric of a saint with Vigil in the Afterfeast here, on [p. 104](Final_Dolnytsky_part2_general_rubrics.md#general-rubric-for-a-saint-with-vigil-in-the-afterfeast).
 
 #### Temple Of A Saint On The Sunday Of All Saints
 
-Everything is according to the rubric of the Fathers of the 7th Sunday after Pascha here, on p. 441 [→REF:p441], only here to the Doxastikon of the temple we sing Both now: 1st Theotokion according to the tone of the Doxastikon[^691], and this not only at "Lord, I have cried," as for the Theologian, but also at the Troparion, instead of the Ascension.
+Everything is according to the rubric of the Fathers of the 7th Sunday after Pascha here, on [p. 441](Final_Dolnytsky_part4_triodion.md#sunday-of-the-holy-fathers-of-the-first-ecumenical-council), only here to the Doxastikon of the temple we sing Both now: 1st Theotokion according to the tone of the Doxastikon[^691], and this not only at "Lord, I have cried," as for the Theologian, but also at the Troparion, instead of the Ascension.
 
 > **Note:** To these rubrics of the *Tserkovne Oko* and Russian typika we add also the following two.
 
 TEMPLE OF A SAINT ON THE SUNDAY OF THE FEAST OF THE EUCHARIST
 
-We sing everything according to the rubric of the Theologian with the feast of the Ascension, on p. 295 [→REF:p295].
+We sing everything according to the rubric of the Theologian with the feast of the Ascension, on [p. 295](Final_Dolnytsky_part3_menaion.md#8-may--john-the-theologian-with-the-ascension).
 
 #### Temple Of A Saint
 
-ON THE COMPASSION OF THE MOST HOLY THEOTOKOS[^722]
+ON THE COMPASSION OF THE MOST HOLY THEOTOKOS
 
-We observe the rubric of the Theologian with Mid-Pentecost here, on p. 293 [→REF:p293]; only at Matins there will not be "Having beheld the Resurrection of Christ"; the Canon will be of the Compassion with Heirmos on 8 and of the temple on 6; Katavasia "I will open," and at the 9th Ode we sing "More Honorable."
+We observe the rubric of the Theologian with Mid-Pentecost here, on [p. 293](Final_Dolnytsky_part3_menaion.md#8-may--holy-apostle-and-evangelist-john-the-theologian); only at Matins there will not be "Having beheld the Resurrection of Christ"; the Canon will be of the Compassion with Heirmos on 8 and of the temple on 6; Katavasia "I will open," and at the 9th Ode we sing "More Honorable."
 
 ---
 
@@ -518,28 +518,18 @@ Katavasia of the Season for the Whole Year
 
 #### I. IMMOVABLE FEASTS
 
-BEGINNING	ENDING	FIRST WORDS	TONE	FEAST
-
-September 1	September 21	"Having traced the Cross"	8	Exaltation
-
-September 22	November 20	"I will open"	4	General of Theotokos[^692]
-
-November 21	December 31	"Christ is born"	1	Nativity of Christ
-
-January 1	January 14	"The depths"	2	Theophany
-
-January 15	February 9	"The dry land"	3	Meeting
-
-February 10	July 31	"I will open"	4	General of Theotokos
-
-August 1	August 6	"Having traced the Cross"	8	Exaltation
-
-August 7	August 13	"The people of Israel"	4	Transfiguration
-
-August 14	August 23	"Adorned"	1	Dormition
-
-August 24	August 31	"Having traced the Cross"	8	Exaltation
-
+| BEGINNING | ENDING | FIRST WORDS | TONE | FEAST |
+| --- | --- | --- | --- | --- |
+| September 1 | September 21 | "Having traced the Cross" | 8 | Exaltation |
+| September 22 | November 20 | "I will open" | 4 | General of Theotokos[^692] |
+| November 21 | December 31 | "Christ is born" | 1 | Nativity of Christ |
+| January 1 | January 14 | "The depths" | 2 | Theophany |
+| January 15 | February 9 | "The dry land" | 3 | Meeting |
+| February 10 | July 31 | "I will open" | 4 | General of Theotokos |
+| August 1 | August 6 | "Having traced the Cross" | 8 | Exaltation |
+| August 7 | August 13 | "The people of Israel" | 4 | Transfiguration |
+| August 14 | August 23 | "Adorned" | 1 | Dormition |
+| August 24 | August 31 | "Having traced the Cross" | 8 | Exaltation |
 #### II. MOVABLE FEASTS
 
 FROM THE PUBLICAN TO PASCHA
@@ -548,26 +538,17 @@ The general Katavasia of the Theotokos is "I will open," however, on the Sundays
 
 FROM PASCHA TO ALL SAINTS
 
-TIME	FIRST WORDS	TONE	FEAST
-
-From Pascha to the Apodosis exclusively[^694] 	"The Resurrection Day"	1	Pascha
-
-On Mid-Pentecost Wednesday and on its Apodosis	"The Sea"	8	Mid-Pentecost
-
-On the Sixth Sunday after Pascha and on the Apodosis of Pascha	"To the Savior"	5	Ascension
-
-On Ascension Thursday	"Divine"	4	Pentecost
-
-From Friday after Ascension to its Apodosis	"To the Savior"	5	Ascension
-
-On the 7th Sunday after Pascha	"Divine"	4	Pentecost
-
-On Pentecost Saturday	"Let us send up a song"	8	Sat. of Pentecost
-
-From Pentecost to its Apodosis	"Divine"	4	Pentecost
-
-On the Sunday of All Saints	"I will open"	4	General of Theotokos
-
+| TIME | FIRST WORDS | TONE | FEAST |
+| --- | --- | --- | --- |
+| From Pascha to the Apodosis exclusively[^694] | "The Resurrection Day" | 1 | Pascha |
+| On Mid-Pentecost Wednesday and on its Apodosis | "The Sea" | 8 | Mid-Pentecost |
+| On the Sixth Sunday after Pascha and on the Apodosis of Pascha | "To the Savior" | 5 | Ascension |
+| On Ascension Thursday | "Divine" | 4 | Pentecost |
+| From Friday after Ascension to its Apodosis | "To the Savior" | 5 | Ascension |
+| On the 7th Sunday after Pascha | "Divine" | 4 | Pentecost |
+| On Pentecost Saturday | "Let us send up a song" | 8 | Sat. of Pentecost |
+| From Pentecost to its Apodosis | "Divine" | 4 | Pentecost |
+| On the Sunday of All Saints | "I will open" | 4 | General of Theotokos |
 LITANY ON THE EXALTATION OF THE PRECIOUS CROSS[^695]
 
 Have mercy on us, O God, according to Thy great mercy, we pray Thee, hearken and have mercy. Let us all say
@@ -728,7 +709,7 @@ RULE OF IMMOVABLE SERVICES
 * **6** **[VIGIL]** **St. Nicholas the Wonderworker.**
 * **7** **[4 TR]** St. Ambrose[^720].
 * **8** **[4 TR]** Ven. Patapius[^721].
-* **9** **[MOG]** **IMMACULATE CONCEPTION OF THE MOST HOLY THEOTOKOS.**
+* **9** **[MOG]** **IMMACULATE CONCEPTION OF THE MOST HOLY THEOTOKOS[^722].**
 * **10** **[4 A+G]** Martyrs Menas, Hermogenes and Eugraphus.
 * **11** **[4 TR]** Ven. Daniel the Stylite[^723].
 * **12** **[6 SM]** Ven. Spyridon.
@@ -878,7 +859,7 @@ General dispensation – up to Theophany inclusive[^727].
 * **20** **[4 NO]** Ven. Theodore Trichinas.
 * **21** **[4 NO]** Hieromartyr Januarius and those with him; Hieromartyr Theodore of Perge[^730].
 * **22** **[4 TR]** Ven. Theodore the Sykeote.
-* **23** **[VIGIL]** **Great Martyr George[^709] (On Sunday).**
+* **23** **[VIGIL]** **Great Martyr George (On Sunday).**
 * **24** **[4 TR]** Martyr Sabbas Stratelates.
 * **25** **[POL]** Ap. and Evangelist Mark.
 * **26** **[4 NO]** Hieromartyr Basil.
@@ -1236,48 +1217,28 @@ that is of the period of 532 years,
 
 14th from the creation of the world[^747]
 
-Year	Letter	Key	Year	Letter	Key
-
-1901	З	І	1921	Д	Щ
-
-1902	а	От	1922	є	Л
-
-1903	в	О	1923	зіло	Д
-
-1904	д	Ж	1924	а	От
-
-1905	є	Ш	1925	в	О
-
-1906	зіло	К	1926	г	Йор
-
-1907	з	Ять	1927	д	Іжиця
-
-1908	в	X	1928	зіло	К
-
-1909	г	Зіло	1929	з	Ять
-
-1910	д	Щ	1930	а	П
-
-1911	є	Т	1931	в	З
-
-1912	з	Г	1932	д	Щ
-
-1913	а	От	1933	е	Л
-
-1914	в	О	1934	зіло	Д
-
-1915	г	А	1935	з	Ц
-
-1916	є	Т	1936	в	З
-
-1917	зіло	К	1937	г	Йор
-
-1918	з	Ять	1938	д	Іжиця
-
-1919	а	П	1939	є	Є
-
-1920	г	Зіло	1940	з	Ц
-
+| Year | Letter | Key | Year | Letter | Key |
+| --- | --- | --- | --- | --- | --- |
+| 1901 | З | І | 1921 | Д | Щ |
+| 1902 | а | От | 1922 | є | Л |
+| 1903 | в | О | 1923 | зіло | Д |
+| 1904 | д | Ж | 1924 | а | От |
+| 1905 | є | Ш | 1925 | в | О |
+| 1906 | зіло | К | 1926 | г | Йор |
+| 1907 | з | Ять | 1927 | д | Іжиця |
+| 1908 | в | X | 1928 | зіло | К |
+| 1909 | г | Зіло | 1929 | з | Ять |
+| 1910 | д | Щ | 1930 | а | П |
+| 1911 | є | Т | 1931 | в | З |
+| 1912 | з | Г | 1932 | д | Щ |
+| 1913 | а | От | 1933 | е | Л |
+| 1914 | в | О | 1934 | зіло | Д |
+| 1915 | г | А | 1935 | з | Ц |
+| 1916 | є | Т | 1936 | в | З |
+| 1917 | зіло | К | 1937 | г | Йор |
+| 1918 | з | Ять | 1938 | д | Іжиця |
+| 1919 | а | П | 1939 | є | Є |
+| 1920 | г | Зіло | 1940 | з | Ц |
 Table II
 
 SUNDAY LETTERS AND PASCHAL KEYS
@@ -1288,449 +1249,449 @@ for all 532 years of the indiction,
 
 (Presented in chronological order for clarity)
 
-Year	Let.	Key		Year	Let.	Key		Year	Let.	Key
+Year Let. Key  Year Let. Key  Year Let. Key
 
-1941	а	П		1942	в	Б		1943	г	Ф
+1941 а П  1942 в Б  1943 г Ф
 
-1944	є	Л		1945	зіло	Ю		1946	з	Р
+1944 є Л  1945 зіло Ю  1946 з Р
 
-1947	а	Й		1948	г	Йор		1949	д	Іжиця
+1947 а Й  1948 г Йор  1949 д Іжиця
 
-1950	є	Є		1951	зіло	Ч		1952	а	П
+1950 є Є  1951 зіло Ч  1952 а П
 
-1953	в	Б		1954	г	Ф		1955	д	М
+1953 в Б  1954 г Ф  1955 д М
 
-1956	зіло	Ю		1957	з	Р		1958	а	И
+1956 зіло Ю  1957 з Р  1958 а И
 
-1959	в	Йори		1960	д	М		1961	є	Є
+1959 в Йори  1960 д М  1961 є Є
 
-1962	зіло	Ч		1963	з	І		1964	в	Йори
+1962 зіло Ч  1963 з І  1964 в Йори
 
-1965	г	Ф		1966	д	Ж		1967	є	Ш
+1965 г Ф  1966 д Ж  1967 є Ш
 
-1968	з	Р		1969	а	И		1970	в	Х
+1968 з Р  1969 а И  1970 в Х
 
-1971	г	Н		1972	є	Є		1973	зіло	Ч
+1971 г Н  1972 є Є  1973 зіло Ч
 
-1974	з	І		1975	а	Ь		1976	г	Ф
+1974 з І  1975 а Ь  1976 г Ф
 
-1977	д	Ж		1978	є	Ш		1979	зіло	С
+1977 д Ж  1978 є Ш  1979 зіло С
 
-1980	а	В		1981	в	Х		1982	г	Н
+1980 а В  1981 в Х  1982 г Н
 
-1983	д	Я		1984	зіло	С		1985	з	І
+1983 д Я  1984 зіло С  1985 з І
 
-1986	а	Ь		1987	в	О		1988	д	Ж
+1986 а Ь  1987 в О  1988 д Ж
 
-1989	є	Ш		1990	зіло	К		1991	з	Г
+1989 є Ш  1990 зіло К  1991 з Г
 
-1992	в	Х		1993	г	Н		1994	д	Щ
+1992 в Х  1993 г Н  1994 д Щ
 
-1995	е	Т		1996	з	І		1997	а	От
+1995 е Т  1996 з І  1997 а От
 
-1998	в	О		1999	г	Зіло		2000	є	Ш
+1998 в О  1999 г Зіло  2000 є Ш
 
-2001	зіло	К		2002	з	Ять		2003	а	От
+2001 зіло К  2002 з Ять  2003 а От
 
-2004	г	Зіло		2005	д	Щ		2006	є	Т
+2004 г Зіло  2005 д Щ  2006 є Т
 
-2007	зіло	Д		2008	в	От		2009	в	О
+2007 зіло Д  2008 в От  2009 в О
 
-2010	г	А		2011	д	Іжиця		2012	зіло	К
+2010 г А  2011 д Іжиця  2012 зіло К
 
-2013	з	Ять		2014	а	П		2015	в	З
+2013 з Ять  2014 а П  2015 в З
 
-2016	д	Щ		2017	є	Л		2018	зіло	Д
+2016 д Щ  2017 є Л  2018 зіло Д
 
-2019	з	Ц		2020	в	О		2021	г	Йор
+2019 з Ц  2020 в О  2021 г Йор
 
-2022	д	Іжиця		2023	є	Л		2024	з	Ять
+2022 д Іжиця  2023 є Л  2024 з Ять
 
-2025	а	П		2026	в	З		2027	г	Йор
+2025 а П  2026 в З  2027 г Йор
 
-2028	є	Л		2029	зіло	Д		2030	з	Ц
+2028 є Л  2029 зіло Д  2030 з Ц
 
-2031	а	И		2032	г	Йор		2033	д	Іжиця
+2031 а И  2032 г Йор  2033 д Іжиця
 
-2034	є	Є		2035	зіло	Ч		2036	а	П
+2034 є Є  2035 зіло Ч  2036 а П
 
-2037	в	Б		2038	г	Ф		2039	д	М
+2037 в Б  2038 г Ф  2039 д М
 
-2040	зіло	Ю		2041	з	Р		2042	а	И
+2040 зіло Ю  2041 з Р  2042 а И
 
-2043	в	Йори		2044	д	Іжиця		2045	є	Є
+2043 в Йори  2044 д Іжиця  2045 є Є
 
-2046	зіло	Ч		2047	з	Р		2048	в	Б
+2046 зіло Ч  2047 з Р  2048 в Б
 
-2049	г	Ф		2050	д	М		2051	е	Вел.юс
+2049 г Ф  2050 д М  2051 е Вел.юс
 
-2052	з	Р		2053	а	П		2054	в	Йори
+2052 з Р  2053 а П  2054 в Йори
 
-2055	г	Н		2056	є	Є		2057	зіло	Ч
+2055 г Н  2056 є Є  2057 зіло Ч
 
-2058	з	І		2059	а	Ь		2060	г	Ф
+2058 з І  2059 а Ь  2060 г Ф
 
-2061	д	Ж		2062	є	Ш		2063	зіло	С
+2061 д Ж  2062 є Ш  2063 зіло С
 
-2064	а	И		2065	в	Х		2066	г	Н
+2064 а И  2065 в Х  2066 г Н
 
-2067	д	Ж		2068	зіло	Ч		2069	з	І
+2067 д Ж  2068 зіло Ч  2069 з І
 
-2070	а	Ь		2071	в	О		2072	д	Ж
+2070 а Ь  2071 в О  2072 д Ж
 
-2073	є	Ш		2074	зіло	С		2075	з	Г
+2073 є Ш  2074 зіло С  2075 з Г
 
-2076	в	Х		2077	г	Н		2078	д	Я
+2076 в Х  2077 г Н  2078 д Я
 
-2079	є	Т		2080	з	І		2081	а	Ь
+2079 є Т  2080 з І  2081 а Ь
 
-2082	в	О		2083	г	Зіло		2084	є	Ш
+2082 в О  2083 г Зіло  2084 є Ш
 
-2085	зіло	К		2086	з	Г		2087	а	От
+2085 зіло К  2086 з Г  2087 а От
 
-2088	г	Н		2089	д	Щ		2090	є	Т
+2088 г Н  2089 д Щ  2090 є Т
 
-2091	зіло	Д		2092	а	От		2093	в	О
+2091 зіло Д  2092 а От  2093 в О
 
-2094	г	Зіло		2095	д	Іжиця		2096	зіло	К
+2094 г Зіло  2095 д Іжиця  2096 зіло К
 
-2097	з	Ять		2098	а	От		2099	в	З
+2097 з Ять  2098 а От  2099 в З
 
-2100	д	Щ		2101	є	Т		2102	зіло	Д
+2100 д Щ  2101 є Т  2102 зіло Д
 
-2103	з	Ц		2104	в	О		2105	г	А
+2103 з Ц  2104 в О  2105 г А
 
-2106	д	Іжиця		2107	є	Л		2108	з	Ять
+2106 д Іжиця  2107 є Л  2108 з Ять
 
-2109	а	П		2110	в	З		2111	г	Йор
+2109 а П  2110 в З  2111 г Йор
 
-2112	є	Л		2113	зіло	Д		2114	з	Ц
+2112 є Л  2113 зіло Д  2114 з Ц
 
-2115	а	И		2116	г	Йор		2117	д	Іжиця
+2115 а И  2116 г Йор  2117 д Іжиця
 
-2118	є	Л		2119	зіло	Ч		2120	а	П
+2118 є Л  2119 зіло Ч  2120 а П
 
-2121	в	З		2122	г	Йор		2123	д	М
+2121 в З  2122 г Йор  2123 д М
 
-2124	зіло	Д		2125	з	Ц		2126	а	И
+2124 зіло Д  2125 з Ц  2126 а И
 
-2127	в	Йори		2128	д	Іжиця		2129	є	Є
+2127 в Йори  2128 д Іжиця  2129 є Є
 
-2130	зіло	Ч		2131	з	Р		2132	в	Б
+2130 зіло Ч  2131 з Р  2132 в Б
 
-2133	г	Ф		2134	д	М		2135	є	Вел.юс
+2133 г Ф  2134 д М  2135 є Вел.юс
 
-2136	з	Р		2137	а	И		2138	в	Йори
+2136 з Р  2137 а И  2138 в Йори
 
-2139	г	Н		2140	є	Є		2141	зіло	Ч
+2139 г Н  2140 є Є  2141 зіло Ч
 
-2142	з	Р		2143	а	В		2144	г	Ф
+2142 з Р  2143 а В  2144 г Ф
 
-2145	д	М		2146	є	Вел.юс		2147	зіло	С
+2145 д М  2146 є Вел.юс  2147 зіло С
 
-2148	а	И		2149	в	Йори		2150	г	Н
+2148 а И  2149 в Йори  2150 г Н
 
-2151	д	Ж		2152	зіло	Ч		2153	з	І
+2151 д Ж  2152 зіло Ч  2153 з І
 
-2154	а	Ь		2155	в	Х		2156	д	Ж
+2154 а Ь  2155 в Х  2156 д Ж
 
-2157	є	Ш		2158	зіло	С		2159	з	Г
+2157 є Ш  2158 зіло С  2159 з Г
 
-2160	в	Х		2161	г	Н		2162	д	Ж
+2160 в Х  2161 г Н  2162 д Ж
 
-2163	є	Т		2164	з	І		2165	а	Ь
+2163 є Т  2164 з І  2165 а Ь
 
-2166	в	О		2167	г	Зіло		2168	є	Ш
+2166 в О  2167 г Зіло  2168 є Ш
 
-2169	зіло	С		2170	з	Г		2171	а	От
+2169 зіло С  2170 з Г  2171 а От
 
-2172	г	И		2173	д	Я		2174	є	Т
+2172 г И  2173 д Я  2174 є Т
 
-2175	зіло	К		2176	а	Ь		2177	в	О
+2175 зіло К  2176 а Ь  2177 в О
 
-2178	г	Зіло		2179	д	Щ		2180	зіло	К
+2178 г Зіло  2179 д Щ  2180 зіло К
 
-2181	з	Г		2182	а	От		2183	в	З
+2181 з Г  2182 а От  2183 в З
 
-2184	д	Щ		2185	є	Т		2186	зіло	Д
+2184 д Щ  2185 є Т  2186 зіло Д
 
-2187	з	Ц		2188	в	О		2189	г	Зіло
+2187 з Ц  2188 в О  2189 г Зіло
 
-2190	д	Іжиця		2191	є	Л		2192	з	Ять
+2190 д Іжиця  2191 є Л  2192 з Ять
 
-2193	а	От		2194	в	З		2195	г	Йор
+2193 а От  2194 в З  2195 г Йор
 
-2196	є	Т		2197	зіло	Д		2198	з	Ц
+2196 є Т  2197 зіло Д  2198 з Ц
 
-2199	а	П		2200	г	А		2201	д	Іжиця
+2199 а П  2200 г А  2201 д Іжиця
 
-2202	є	Л		2203	зіло	Ю		2204	а	П
+2202 є Л  2203 зіло Ю  2204 а П
 
-2205	в	З		2206	г	Йор		2207	д	М
+2205 в З  2206 г Йор  2207 д М
 
-2208	зіло	Д		2209	з	Ц		2210	а	И
+2208 зіло Д  2209 з Ц  2210 а И
 
-2211	в	Йори		2212	д	Іжиця		2213	є	Л
+2211 в Йори  2212 д Іжиця  2213 є Л
 
-2214	зіло	Ч		2215	з	Р		2216	в	З
+2214 зіло Ч  2215 з Р  2216 в З
 
-2217	г	Йор		2218	д	М		2219	є	Є
+2217 г Йор  2218 д М  2219 є Є
 
-2220	з	Ц		2221	а	И		2222	в	Йори
+2220 з Ц  2221 а И  2222 в Йори
 
-2223	г	Ф		2224	є	Є		2225	зіло	Ч
+2223 г Ф  2224 є Є  2225 зіло Ч
 
-2226	з	Р		2227	а	В		2228	г	Ф
+2226 з Р  2227 а В  2228 г Ф
 
-2229	д	М		2230	є	Вел.юс		2231	зіло	С
+2229 д М  2230 є Вел.юс  2231 зіло С
 
-2232	а	И		2233	в	Йори		2234	г	Н
+2232 а И  2233 в Йори  2234 г Н
 
-2235	д	Ж		2236	зіло	Ч		2237	з	Р
+2235 д Ж  2236 зіло Ч  2237 з Р
 
-2238	а	В		2239	в	Х		2240	д	М
+2238 а В  2239 в Х  2240 д М
 
-2241	є	Вел.юс		2242	зіло	С		2243	з	І
+2241 є Вел.юс  2242 зіло С  2243 з І
 
-2244	в	Йори		2245	г	Н		2246	д	Ж
+2244 в Йори  2245 г Н  2246 д Ж
 
-2247	є	Ш		2248	з	І		2249	а	Ь
+2247 є Ш  2248 з І  2249 а Ь
 
-2250	в	Х		2251	г	Зіло		2252	є	Ш
+2250 в Х  2251 г Зіло  2252 є Ш
 
-2253	зіло	С		2254	з	Г		2255	а	От
+2253 зіло С  2254 з Г  2255 а От
 
-2256	г	Н		2257	д	Ж		2258	є	Т
+2256 г Н  2257 д Ж  2258 є Т
 
-2259	зіло	К		2260	а	Ь		2261	в	О
+2259 зіло К  2260 а Ь  2261 в О
 
-2262	г	Зіло		2263	д	Щ		2264	зіло	С
+2262 г Зіло  2263 д Щ  2264 зіло С
 
-2265	з	Г		2266	а	От		2267	в	О
+2265 з Г  2266 а От  2267 в О
 
-2268	д	Я		2269	є	Т		2270	зіло	К
+2268 д Я  2269 є Т  2270 зіло К
 
-2271	з	Ять		2272	в	О		2273	г	Зіло
+2271 з Ять  2272 в О  2273 г Зіло
 
-2274	д	Щ		2275	є	Л		2276	з	Г
+2274 д Щ  2275 є Л  2276 з Г
 
-2277	а	От		2278	в	Б		2279	г	Йор
+2277 а От  2278 в Б  2279 г Йор
 
-2280	є	Т		2281	зіло	Д		2282	з	Ц
+2280 є Т  2281 зіло Д  2282 з Ц
 
-2283	а	П		2284	г	Зіло		2285	д	Іжиця
+2283 а П  2284 г Зіло  2285 д Іжиця
 
-2286	є	Л		2287	зіло	Ю		2288	а	От
+2286 є Л  2287 зіло Ю  2288 а От
 
-2289	в	З		2290	г	Йор		2291	д	Іжиця
+2289 в З  2290 г Йор  2291 д Іжиця
 
-2292	зіло	Д		2293	з	Ц		2294	а	П
+2292 зіло Д  2293 з Ц  2294 а П
 
-2295	в	Б		2296	д	Іжиця		2297	є	Л
+2295 в Б  2296 д Іжиця  2297 є Л
 
-2298	зіло	Ю		2299	з	Р		2300	в	З
+2298 зіло Ю  2299 з Р  2300 в З
 
-2301	г	Йор		2302	д	М		2303	є	Є
+2301 г Йор  2302 д М  2303 є Є
 
-2304	з	Ц		2305	а	И		2306	в	Йори
+2304 з Ц  2305 а И  2306 в Йори
 
-2307	г	Ф		2308	є	Л		2309	зіло	Ч
+2307 г Ф  2308 є Л  2309 зіло Ч
 
-2310	з	Р		2311	а	И		2312	г	Йор
+2310 з Р  2311 а И  2312 г Йор
 
-2313	д	М		2314	є	Є		2315	зіло	Ч
+2313 д М  2314 є Є  2315 зіло Ч
 
-2316	а	И		2317	в	Йори		2318	г	Ф
+2316 а И  2317 в Йори  2318 г Ф
 
-2319	д	Ж		2320	зіло	Ч		2321	з	Р
+2319 д Ж  2320 зіло Ч  2321 з Р
 
-2322	а	В		2323	в	Х		2324	д	М
+2322 а В  2323 в Х  2324 д М
 
-2325	є	Вел.юс		2326	зіло	С		2327	з	І
+2325 є Вел.юс  2326 зіло С  2327 з І
 
-2328	в	Йори		2329	г	Н		2330	д	Ж
+2328 в Йори  2329 г Н  2330 д Ж
 
-2331	є	Ш		2332	з	Р		2333	а	В
+2331 є Ш  2332 з Р  2333 а В
 
-2334	в	Х		2335	г	Н		2336	є	Вел.юс
+2334 в Х  2335 г Н  2336 є Вел.юс
 
-2337	зіло	С		2338	з	І		2339	а	От
+2337 зіло С  2338 з І  2339 а От
 
-2340	г	Н		2341	д	Ж		2342	є	Ш
+2340 г Н  2341 д Ж  2342 є Ш
 
-2343	зіло	К		2344	а	Ь		2345	в	Х
+2343 зіло К  2344 а Ь  2345 в Х
 
-2346	г	Зіло		2347	д	Щ		2348	зіло	С
+2346 г Зіло  2347 д Щ  2348 зіло С
 
-2349	з	Г		2350	а	От		2351	в	О
+2349 з Г  2350 а От  2351 в О
 
-2352	д	Ж		2353	є	Т		2354	зіло	К
+2352 д Ж  2353 є Т  2354 зіло К
 
-2355	з	Ять		2356	в	О		2357	г	Зіло
+2355 з Ять  2356 в О  2357 г Зіло
 
-2358	д	Щ		2359	є	Л		2360	з	Г
+2358 д Щ  2359 є Л  2360 з Г
 
-2361	а	От		2362	в	О		2363	г	Йор
+2361 а От  2362 в О  2363 г Йор
 
-2364	є	Т		2365	зіло	К		2366	з	Ять
+2364 є Т  2365 зіло К  2366 з Ять
 
-2367	а	П		2368	г	Зіло		2369	д	Щ
+2367 а П  2368 г Зіло  2369 д Щ
 
-2370	є	Л		2371	зіло	Д		2372	а	От
+2370 є Л  2371 зіло Д  2372 а От
 
-2373	в	З		2374	г	Йор		2375	д	Іжиця
+2373 в З  2374 г Йор  2375 д Іжиця
 
-2376	зіло	Д		2377	з	Ц		2378	а	Д
+2376 зіло Д  2377 з Ц  2378 а Д
 
-2379	в	Б		2380	д	Іжиця		2381	є	Л
+2379 в Б  2380 д Іжиця  2381 є Л
 
-2382	зіло	Ю		2383	з	Р		2384	в	З
+2382 зіло Ю  2383 з Р  2384 в З
 
-2385	г	Йор		2386	д	Іжиця		2387	є	Є
+2385 г Йор  2386 д Іжиця  2387 є Є
 
-2388	з	Ц		2389	а	П		2390	в	Б
+2388 з Ц  2389 а П  2390 в Б
 
-2391	г	Ф		2392	є	Л		2393	зіло	Ю
+2391 г Ф  2392 є Л  2393 зіло Ю
 
-2394	з	Р		2395	а	И		2396	г	Йор
+2394 з Р  2395 а И  2396 г Йор
 
-2397	д	М		2398	є	Є		2399	зіло	Ч
+2397 д М  2398 є Є  2399 зіло Ч
 
-2400	а	И		2401	в	Йори		2402	г	Ф
+2400 а И  2401 в Йори  2402 г Ф
 
-2403	д	Ж		2404	зіло	Ч		2405	з	Р
+2403 д Ж  2404 зіло Ч  2405 з Р
 
-2406	а	И		2407	в	Х		2408	д	М
+2406 а И  2407 в Х  2408 д М
 
-2409	є	Є		2410	зіло	Ч		2411	з	І
+2409 є Є  2410 зіло Ч  2411 з І
 
-2412	в	Йори		2413	г	Ф		2414	д	Ж
+2412 в Йори  2413 г Ф  2414 д Ж
 
-2415	є	Ш		2416	з	Р		2417	а	В
+2415 є Ш  2416 з Р  2417 а В
 
-2418	в	Х		2419	г	Н		2420	є	Вел. юс
+2418 в Х  2419 г Н  2420 є Вел. юс
 
-2421	зіло	С		2422	з	І		2423	а	Ь
+2421 зіло С  2422 з І  2423 а Ь
 
-2424	г	Н		2425	д	Ж		2426	є	Ш
+2424 г Н  2425 д Ж  2426 є Ш
 
-2427	зіло	К		2428	а	В		2429	в	Х
+2427 зіло К  2428 а В  2429 в Х
 
-2430	г	Н		2431	д	Щ		2432	зіло	С
+2430 г Н  2431 д Щ  2432 зіло С
 
-2433	з	І		2434	а	От		2435	в	О
+2433 з І  2434 а От  2435 в О
 
-2436	д	Ж		2437	є	Щ		2438	зіло	К
+2436 д Ж  2437 є Щ  2438 зіло К
 
-2439	з	Ять		2440	в	Х		2441	г	Зіло
+2439 з Ять  2440 в Х  2441 г Зіло
 
-2442	д	Щ		2443	є	Т		2444	з	Г
+2442 д Щ  2443 є Т  2444 з Г
 
-2445	а	От		2446	в	О		2447	г	А
+2445 а От  2446 в О  2447 г А
 
-2448	є	Т		2449	зіло	К		2450	з	Ять
+2448 є Т  2449 зіло К  2450 з Ять
 
-2451	а	П		2452	г	Зіло		2453	д	Щ
+2451 а П  2452 г Зіло  2453 д Щ
 
-2454	є	Л		2455	зіло	Д		2456	а	От
+2454 є Л  2455 зіло Д  2456 а От
 
-2457	в	О		2458	г	Йор		2459	д	Іжиця
+2457 в О  2458 г Йор  2459 д Іжиця
 
-2460	зіло	К		2461	з	Ять		2462	а	П
+2460 зіло К  2461 з Ять  2462 а П
 
-2463	в	З		2464	д	Щ		2465	є	Л
+2463 в З  2464 д Щ  2465 є Л
 
-2466	зіло	Д		2467	з	Ц		2468	в	З
+2466 зіло Д  2467 з Ц  2468 в З
 
-2469	г	Йор		2470	д	Іжиця		2471	є	Є
+2469 г Йор  2470 д Іжиця  2471 є Є
 
-2472	з	Ц
+2472 з Ц
 
 PASCHAL ROMAN AND GREEK DISCREPANCIES[^748]
 
 for the last 40 years of the 14th indiction[^749]
 
-Year	Roman	Greek	Discrepancy (weeks)
+Year Roman Greek Discrepancy (weeks)
 
-1901	A. 7	A. 1	1
+1901 A. 7 A. 1 1
 
-1902	M. 30	A. 14	4
+1902 M. 30 A. 14 4
 
-1903	A. 12	A. 6	1
+1903 A. 12 A. 6 1
 
-1904	A. 3	A 28	1
+1904 A. 3 A 28 1
 
-1905	A. 23	A. 17	1
+1905 A. 23 A. 17 1
 
-1906	A. 15	A. 2	0
+1906 A. 15 A. 2 0
 
-1907	M. 31	A. 22	5
+1907 M. 31 A. 22 5
 
-1908	A. 19	A. 13	1
+1908 A. 19 A. 13 1
 
-1909	A. 11	M. 29	0
+1909 A. 11 M. 29 0
 
-1910	M. 27	A. 18	5
+1910 M. 27 A. 18 5
 
-1911	A. 16	A. 10	1
+1911 A. 16 A. 10 1
 
-1912	A. 7	M. 25	0
+1912 A. 7 M. 25 0
 
-1913	M. 23	A. 14	5
+1913 M. 23 A. 14 5
 
-1914	A. 12	A. 6	1
+1914 A. 12 A. 6 1
 
-1915	A. 4	M. 22	0
+1915 A. 4 M. 22 0
 
-1916	A. 23	A. 10	0
+1916 A. 23 A. 10 0
 
-1917	A. 8	A. 2	1
+1917 A. 8 A. 2 1
 
-1918	M. 31	A. 22	5
+1918 M. 31 A. 22 5
 
-1919	A. 20	A. 7	0
+1919 A. 20 A. 7 0
 
-1920	A. 4	M. 29	1
+1920 A. 4 M. 29 1
 
-1921	M. 27	A. 18	1
+1921 M. 27 A. 18 1
 
-1922	A. 16	A. 3	5
+1922 A. 16 A. 3 5
 
-1923	A. 1	M. 26	0
+1923 A. 1 M. 26 0
 
-1924	A. 20	A. 14	1
+1924 A. 20 A. 14 1
 
-1925	A. 12	A. 6	1
+1925 A. 12 A. 6 1
 
-1926	A. 4	A. 19	4
+1926 A. 4 A. 19 4
 
-1927	A. 17	A. 11	1
+1927 A. 17 A. 11 1
 
-1928	A. 8	A. 2	1
+1928 A. 8 A. 2 1
 
-1929	M. 31	A. 22	5
+1929 M. 31 A. 22 5
 
-1930	A. 20	A. 7	1
+1930 A. 20 A. 7 1
 
-1931	A. 5	M. 30	1
+1931 A. 5 M. 30 1
 
-1932	M. 27	A. 18	5
+1932 M. 27 A. 18 5
 
-1933	A. 16	A. 3	0
+1933 A. 16 A. 3 0
 
-1934	A. 1	M. 26	1
+1934 A. 1 M. 26 1
 
-1935	A. 21	M. 15	1
+1935 A. 21 M. 15 1
 
-1936	A. 12	M. 30	0
+1936 A. 12 M. 30 0
 
-1937	M. 28	A. 19	5
+1937 M. 28 A. 19 5
 
-1938	A. 17	A. 11	1
+1938 A. 17 A. 11 1
 
-1939	A. 9	M. 27	0
+1939 A. 9 M. 27 0
 
-1940	M. 24	A. 15	5
+1940 M. 24 A. 15 5
 
 [INSERT DIAGRAM/TABLE HERE FROM ORIGINAL PDF]
 
@@ -1740,11 +1701,11 @@ which contains 35 columns of Sundays of the whole year with the indication of Go
 
 [Page 244]
 
-A	B	V	G	D	E	Zh	Z	i	l	o	Z	I	I	K	L	M	N	O	P	R	S	T	I
+A B V G D E Zh Z i l o Z I I K L M N O P R S T I
 
 S
 
-i			7	8	9	10	11	12	13	7	8	9	10	11	12	13	7	8	9	10
+i   7 8 9 10 11 12 13 7 8 9 10 11 12 13 7 8 9 10
 
 [INSERT DIAGRAM/TABLE HERE FROM ORIGINAL PDF]
 
@@ -1786,7 +1747,7 @@ In the 7th row are given all 35 days on which the Sunday of the Publican may fal
 
 In the 8th row are given in double print all 35 Paschal days, corresponding to the 35 Paschal keys
 
-In the five rows that are between the Publican and the Paschal keys, are indicated all 35 Sundays that may fall between Theophany and the Publican, that is, the Sunday after Theophany and the four last ordinary ones (29th, 30th, 31st and 32nd). However, since not all these Sundays will always take place, the explanation of which we gave on p. 144 [→REF:p144] (for this depends on whether Pascha falls earlier or later), between these five Sundays some places may be unfilled, and this means that then the Sundays corresponding to them, indicated on the right side of the table, will not take place. For example, under the Paschal key "A" all places are unfilled; this means that none of these 5 Sundays will be taken, but immediately after Theophany – the *Triodion
+In the five rows that are between the Publican and the Paschal keys, are indicated all 35 Sundays that may fall between Theophany and the Publican, that is, the Sunday after Theophany and the four last ordinary ones (29th, 30th, 31st and 32nd). However, since not all these Sundays will always take place, the explanation of which we gave on [p. 144](Final_Dolnytsky_part3_menaion.md#sunday-of-the-holy-ancestors-forefathers) (for this depends on whether Pascha falls earlier or later), between these five Sundays some places may be unfilled, and this means that then the Sundays corresponding to them, indicated on the right side of the table, will not take place. For example, under the Paschal key "A" all places are unfilled; this means that none of these 5 Sundays will be taken, but immediately after Theophany – the *Triodion
 
 Of the *Triodion* Sundays, we presented only three, that is, the middle one – the Resurrection, and the two extreme ones, that is [Page 250] the Publican and All Saints; the rest of the Sundays that are between them, we do not present, for one can conveniently keep them in memory even without the table, because usually they have proper names and services that correspond to these names
 
@@ -1802,7 +1763,7 @@ Regarding the Apodosis of the Meeting, which we present in the last row of the t
 
 ## 5.5 Rubrics Concerning the Holy Doors and Curtain of the Iconostasis
 
-According to the rubric of the Greek *Euchologion*, the holy doors are opened[^782] only εις την αρχήν του μεγάλου Εσπερινού, οτε θυμια μονός ο Ιερεύς, εις τας εισόδους πασάς, ήγουν των Εσπερινών και της Λειτουργίας, και του αγίου Ευαγγελίου. Ωσαύτως ανοίγεται και από του Μετά φόβου... μέχρι της συμπληρώσεως της θείας Λειτουργίας.
+According to the rubric of the Greek *Euchologion*, the holy doors are opened only εις την αρχήν του μεγάλου Εσπερινού, οτε θυμια μονός ο Ιερεύς, εις τας εισόδους πασάς, ήγουν των Εσπερινών και της Λειτουργίας, και του αγίου Ευαγγελίου. Ωσαύτως ανοίγεται και από του Μετά φόβου... μέχρι της συμπληρώσεως της θείας Λειτουργίας.
 
 The curtain, according to the present custom of Athonite monasteries, at the Liturgy, after the completion of the Proskomedia, is drawn open, and at the "Great Entrance" is drawn shut; at "Especially" it is drawn open, and at "And grant that with one mouth" it is drawn shut; at "With fear" it is drawn open and so remains until the conclusion of the Liturgy[^751]. According to the former custom of the Athonite Mountain, when one priest serves, that is without a Deacon, the curtain is drawn shut at the "Great Entrance" and is not drawn open until the end of communion. Besides this, it remains drawn open at Vespers and at Matins from the 1st Hour and at the Moleben. When the Hours are celebrated without Liturgy, it is drawn open for the reading of the Apostle and drawn shut after the dismissal of the "Typika"[^752].
 

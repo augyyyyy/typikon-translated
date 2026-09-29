@@ -473,7 +473,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
    ...The Prokimenon is sung, followed by the censing at "Let everything that hath breath."
 3. **Matins Gospel:** Preceded by "And that we may be vouchsafed..." and "Peace be unto all." The Priest reads the appointed Matins Gospel from the Holy Doors facing the people.
 4. **Veneration of the Gospel & Psalm 50:** The Gospel is carried to the tetrapod for veneration while Psalm 50 and the post-Gospel stichera are sung.
-5. **Anointing (at Vigil):** The Priest exits with the hand cross and the vessel of blessed oil, anointing the faithful on the forehead:
+5. **Anointing (at Vigil):** The Priest exits with the hand cross and the vessel of blessed oil[^29], anointing the faithful on the forehead:
    > **Priest:** "Christ is in our midst."
    > **Response:** "He is and shall be."
    *(In the Paschal season: "Christ is risen!" — "Truly He is risen!").*
@@ -506,7 +506,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
   * The Song of the Theotokos ("My soul magnifies the Lord") with the refrain *“More honorable than the Cherubim”* is sung, while the Deacon censes the altar and temple. (On Great Feasts of the Lord and Theotokos, proper festal refrains are sung instead of the Magnificat).
 
 * **Hymnography after Odes 3, 6, and 9:**
-  * *After the 3rd Ode:* Small Litany, followed by the **Sessional Hymn** of the Saint / Feast.
+  * *After the 3rd Ode:* Small Litany, followed by the **Sessional Hymn** of the Saint / Feast (on a Polyeleos or six-troparia Saint, the Sessional Hymn and Exaposteilarion are taken twice[^35], then Both now: his Theotokion; if the Saint has two Sessional Hymns, the second is taken with the refrain Glory, then Both now: his Theotokion[^36]).
   * *After the 6th Ode:* Small Litany, followed by the **Kontakion and Ikos** (Resurrectional or Festal)[^37].
   * *After the 9th Ode:* Small Litany. On Sundays: "Holy is the Lord our God" (3), followed by the appointed **Exaposteilarion (Hymn of Light)**[^38].
 
@@ -560,7 +560,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
 
 #### 1. From the Beginning to the Canon
 
-*From the beginning to the second Sessional Hymn, everything proceeds as at Great Matins without Vigil (the initial censing is omitted according to local custom)[^40]. After the Sessional Hymn, Psalm 50 is read, followed immediately by the **Canon**.*
+*From the beginning to the second Sessional Hymn, everything proceeds as at Great Matins without Vigil (the initial censing is omitted according to local custom)[^40]. After the second (or even the third)[^41] Sessional Hymn, Psalm 50 is read, followed immediately by the **Canon**.*
 
 *At Daily Matins:*
 * The Katavasia is sung only after Odes 3, 6, 8, and 9 (the Heirmos of the last canon).

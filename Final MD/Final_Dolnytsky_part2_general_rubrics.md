@@ -100,7 +100,7 @@ There are 20 such rubrics, or paradigms of general divine services—that is, 7 
    * *At the 8th Ode:* Before the Katavasia, the refrain *"We praise, we bless, we worship the Lord..."* is sung in the tone of the Katavasia.
    * *At the 9th Ode:* *“My soul magnifies the Lord”* with the refrain *“More honorable than the Cherubim”*.
    * *After the 9th Ode:* *“Holy is the Lord our God”* (3) in the tone of the Sunday Prokimenon, followed by the Sunday Exaposteilarion (Hymn of Light) corresponding to the Sunday Gospel; **Glory:** Exaposteilarion of the saint (if appointed), **Both now:** Sunday Theotokion of the Exaposteilarion[^59].
-   * *If two saints occur:* Two canons from the *Octoechos* on 6 (Resurrection with Heirmos on 4, Theotokos on 2[^123]), and two from the *Menaion* on 8 (first saint on 4, second on 4). Katavasia after every ode. After the 3rd Ode: Kontakion and Ikos of both saints (if appointed), Sessional Hymn of the first saint without Theotokion; **Glory:** of the second saint, **Both now:** his Theotokion[^60]. After the 6th Ode: Resurrectional Kontakion and Ikos. After the 9th Ode: Sunday Exaposteilarion, Exaposteilarion of the first saint; **Glory:** of the second, **Both now:** Sunday Theotokion[^61].
+   * *If two saints occur:* Two canons from the *Octoechos* on 6 (Resurrection with Heirmos on 4, Theotokos on 2), and two from the *Menaion* on 8 (first saint on 4, second on 4). Katavasia after every ode. After the 3rd Ode: Kontakion and Ikos of both saints (if appointed), Sessional Hymn of the first saint without Theotokion; **Glory:** of the second saint, **Both now:** his Theotokion[^60]. After the 6th Ode: Resurrectional Kontakion and Ikos. After the 9th Ode: Sunday Exaposteilarion, Exaposteilarion of the first saint; **Glory:** of the second, **Both now:** Sunday Theotokion[^61].
    * *If a saint on 6 occurs:* Resurrection Canon with Heirmos on 4, Cross-Resurrection on 2, Theotokos on 2, and of the saint on 6[^62].
 8. **Praises (Lauds):** 8 Sunday stichera from the *Octoechos* of the current tone; **Glory:** appointed Gospel Sticheron (one of eleven); **Both now:** *“Most Blessed Art Thou”* from the *Horologion*.
    * (The 8 stichera use 6 refrains from the Psalms of Praise, and for the 7th and 8th separate refrains: *“Arise, O Lord”* and *“I will confess Thee, O Lord”*).
@@ -135,20 +135,20 @@ There are 20 such rubrics, or paradigms of general divine services—that is, 7 
 ### At Vespers
 
 1. **Kathisma:** Current Kathisma[^70]. (On Sunday evening, on account of the Vigil that sometimes occurs, the Kathisma is omitted; on the eves of feasts having an All-Night Vigil, the Kathisma is likewise omitted).
-2. **On *"Lord, I have cried"*:* 6 stichera[^130]: of the *Octoechos* of the current tone—3[^71], and from the *Menaion* of the saint—3; **Glory, Both now:** Theotokion (or Stavrotheotokion) following the stichera of the saint.
+2. **On *"Lord, I have cried"*:* 6 stichera: of the *Octoechos* of the current tone—3[^71], and from the *Menaion* of the saint—3; **Glory, Both now:** Theotokion (or Stavrotheotokion) following the stichera of the saint.
    * *If there is a Doxastikon to the saint:* **Glory:** Doxastikon of the saint, **Both now:** Theotokion of the *Octoechos* in the tone of the Doxastikon and day of the week from *“Lord, I have cried”* (sung by both choirs together)[^72].
    * *If two saints occur:* Nothing from the *Octoechos*; 3 stichera to the first saint and 3 to the second; **Glory, Both now:** Theotokion (or Stavrotheotokion) after the second saint. (If the first saint has a Doxastikon, the Theotokion is selected as above).
    * *If a saint on 6 occurs:* Nothing from the *Octoechos*; all 6 stichera to the saint; **Glory:** Doxastikon, **Both now:** Theotokion of the day and tone.
 3. **Prokimenon:** Daily Prokimenon of the weekday from the *Horologion*.
 4. **Aposticha:** Stichera of the *Octoechos* with the two weekday refrains from the *Horologion*.
    * *If there is a Doxastikon to the saint:* **Glory:** to the saint, **Both now:** Theotokion of the *Octoechos* Aposticha in the tone of the Doxastikon and day of the week.
-5. **Troparia:** Troparion of the saint; **Glory, Both now:** Daily Dismissal Theotokion from the *Horologion* in the tone of the saint's troparion and day of the week[^112].
+5. **Troparia:** Troparion of the saint; **Glory, Both now:** Daily Dismissal Theotokion from the *Horologion* in the tone of the saint's troparion and day of the week.
    * *If two saints occur:* Troparion to the first saint; **Glory:** to the second, **Both now:** Dismissal Theotokion in the tone of the second saint and day of the week[^73].
 
 ### At Compline
 
 1. **Canon:** Canon to the Theotokos of the *Octoechos* of the current tone (with Heirmos on 5, without Katavasias or litanies). After the 6th Ode: "Lord, have mercy" (3); **Glory, Both now:** Sessional Hymn.
-2. **Troparia:** After *“It is truly meet”*: of the Temple (if of the Lord or Theotokos), then of the weekday, and the other four from Small Compline in the *Horologion*. If the Temple is of a saint: first of the day[^196], then of the Temple. (On Wednesday and Friday, the Cross troparion of the Lord takes first place)[^74].
+2. **Troparia:** After *“It is truly meet”*: of the Temple (if of the Lord or Theotokos), then of the weekday, and the other four from Small Compline in the *Horologion*. If the Temple is of a saint: first of the day, then of the Temple. (On Wednesday and Friday, the Cross troparion of the Lord takes first place)[^74].
 
 ### At the Midnight Office
 
@@ -156,7 +156,7 @@ There are 20 such rubrics, or paradigms of general divine services—that is, 7 
 
 ### At Matins
 
-1. **On *"God is the Lord"*:* Troparion of the saint twice; **Glory, Both now:** Dismissal Theotokion in the tone of the saint's troparion[^121][^119] and day of the week[^75].
+1. **On *"God is the Lord"*:* Troparion of the saint twice; **Glory, Both now:** Dismissal Theotokion in the tone of the saint's troparion and day of the week[^75].
    * *If two saints occur:* Troparion to the first saint twice; **Glory:** to the second once, **Both now:** Dismissal Theotokion in the tone of the second saint[^76].
 2. **Kathismata:** Two current Kathismata, after each of which: Small Litany and Sessional Hymn from the *Octoechos*[^77].
 3. **Canons (3 canons on 14):**
@@ -180,7 +180,7 @@ There are 20 such rubrics, or paradigms of general divine services—that is, 7 
 ### At the Hours
 
 1. **Troparia & Kontakia:** At the 1st Hour—of the weekday; at the 3rd and 9th Hours—of the saint; at the 6th Hour—of the Temple[^87].
-   * *If two saints occur:* 1st Hour—of the weekday; 3rd Hour—first saint; 6th Hour—Temple; 9th Hour—second saint.
+   * *If two saints occur:* 1st Hour—of the weekday; 3rd Hour—first saint; 6th Hour—Temple; 9th Hour—second saint[^88].
 
 ### At the Divine Liturgy
 
@@ -191,7 +191,7 @@ There are 20 such rubrics, or paradigms of general divine services—that is, 7 
 > **Notes on Combining Services at Liturgy:**
 > * *If celebrated only to the saint:* Theotokion or Kontakion of the Temple is taken as above.
 > * *If celebrated for a specific need:* Theotokion of the need; if none, the troparion of the need is replaced by its Kontakion with *“Glory, Both now”*.
-> * *If celebrated for both the day and the saint:* Troparion of the day, then of the saint; Kontakion of the day; **Glory:** Kontakion of the saint, **Both now:** Theotokion/Kontakion of the Temple[^115].
+> * *If celebrated for both the day and the saint:* Troparion of the day, then of the saint; Kontakion of the day; **Glory:** Kontakion of the saint, **Both now:** Theotokion/Kontakion of the Temple.
 > * *If celebrated for the day/saint and a need:* Service of the day/saint precedes the need; Kontakion of the day/saint; **Glory:** Kontakion for need, **Both now:** Theotokion for need.
 > * *Votive / Need Liturgies:* Must always be celebrated singly, except for the daily Apostle/Gospel which may precede the readings for the dead[^92].
 > * *Cathedral vs Parish Practice:* In cathedrals, the daily Apostle/Gospel is never omitted[^93]. Where multiple readings coincide, Slavic typikons combine them under the refrain of the first reading[^94][^95][^96][^97].
@@ -219,7 +219,7 @@ There are 20 such rubrics, or paradigms of general divine services—that is, 7 
 
 ### At Compline
 
-1. **Canon:** Canon to the Theotokos from the *Octoechos* of the current tone[^134].
+1. **Canon:** Canon to the Theotokos from the *Octoechos* of the current tone.
 2. **Troparia:** After *“It is truly meet”*: Troparia of the day (*“Apostles, Prophets, and Martyrs”*); **Glory:** Kontakion for the Departed (*“With the saints give rest”*), **Both now:** Kontakion of the day (*“To Thee, O Lord, the Planter of creation”*)[^103].
 
 ### At the Midnight Office
@@ -228,7 +228,7 @@ There are 20 such rubrics, or paradigms of general divine services—that is, 7 
 
 ### At Matins
 
-1. **On *"God is the Lord"*:* Troparion of the saint twice; **Glory, Both now:** Sunday Theotokion in the tone of the saint's troparion.
+1. **On *"God is the Lord"*:* Troparion of the saint twice; **Glory, Both now:** Sunday Theotokion in the tone of the saint's troparion[^104].
    * *If two saints occur:* Troparion of the first saint twice; **Glory:** of the second, **Both now:** Sunday Theotokion in the tone of the second.
 2. **Kathismata:** Two current Kathismata, Small Litany, and Sessional Hymns (two Martyria and two for the departed).
 3. **Canons (3 canons on 14):**
@@ -360,13 +360,13 @@ There are 20 such rubrics, or paradigms of general divine services—that is, 7 
 1. **Kathisma:** Kathisma 1 (*“Blessed is the man”*)—entire (or selected verses).
 2. **On *"Lord, I have cried"*:* 10 stichera: 4 from the *Octoechos* and 6 to the saint; **Glory:** to the saint, **Both now:** 1st Theotokion of the current tone.
 3. **Prokimenon & Readings:** Daily Sunday Prokimenon, followed by 3 Old Testament readings to the saint.
-4. **Litiya:** Stichera of the saint; **Glory:** to the saint, **Both now:** Sunday Theotokion from the Aposticha of Great Vespers in the tone of the Doxastikon[^153][^144][^143].
-5. **Aposticha:** Sunday stichera; **Glory:** to the saint, **Both now:** Sunday Theotokion in the tone of the Doxastikon.
-6. **Blessing of Loaves:** Troparion *“Rejoice, O Virgin Theotokos”* twice, and of the saint once[^227][^145].
+4. **Litiya:** Stichera of the saint; **Glory:** to the saint, **Both now:** Sunday Theotokion from the Aposticha of Great Vespers in the tone of the Doxastikon[^143].
+5. **Aposticha:** Sunday stichera; **Glory:** to the saint, **Both now:** Sunday Theotokion in the tone of the Doxastikon[^144].
+6. **Blessing of Loaves:** Troparion *“Rejoice, O Virgin Theotokos”* twice, and of the saint once[^145].
 
 ### At Great Matins
 
-1. **On *"God is the Lord"*:* Sunday troparion twice; **Glory:** to the saint, **Both now:** Sunday Theotokion in the tone of the saint's troparion.
+1. **On *"God is the Lord"*:* Sunday troparion twice; **Glory:** to the saint, **Both now:** Sunday Theotokion in the tone of the saint's troparion[^146].
 2. **Kathismata & Polyeleos:** Two current Kathismata with Sunday Sessional Hymns. Polyeleos with Magnification and *“The Angelic Host”*, Hypakoe of the tone, and all three Sessional Hymns of the saint; **Glory:** 3rd (Polyeleos) Sessional Hymn, **Both now:** its Theotokion[^147].
 3. **Graduals to Gospel:** Gradual, Prokimenon, Gospel, and Sticheron—all of the Sunday. (Anointing with blessed oil during the Canon).
 4. **Canons (3 or 4 canons on 14):**
@@ -374,7 +374,7 @@ There are 20 such rubrics, or paradigms of general divine services—that is, 7 
    * *Katavasia:* Seasonal Katavasia after every ode.
    * *After the 3rd Ode:* Kontakion, Ikos, and Sessional Hymn to the saint.
    * *After the 6th Ode:* Resurrectional Kontakion and Ikos.
-   * *After the 9th Ode:* Sunday Exaposteilarion; **Glory:** to the saint, **Both now:** Theotokion of the Sunday Exaposteilarion.
+   * *After the 9th Ode:* Sunday Exaposteilarion; **Glory:** to the saint, **Both now:** Theotokion of the Sunday Exaposteilarion[^149].
 5. **Praises, Doxology, Hours & Liturgy:** Everything else proceeds exactly as for a Polyeleos Saint on a Sunday (Section 2.4).
 
 ---
@@ -584,7 +584,7 @@ There are 20 such rubrics, or paradigms of general divine services—that is, 7 
 
 ### At the Divine Liturgy
 
-1. **Antiphons:** Sunday Antiphons.
+1. **Antiphons & Entrance:** Sunday Antiphons. On *“Come, let us worship”*, if you wish, to *“Save us, O Son of God”* add the refrain: *“Through the prayers of the Theotokos, who sing to Thee, Alleluia”*[^192].
 2. **Troparia & Kontakia:** Sunday Troparion and of the Feast; **Glory:** Sunday Kontakion, **Both now:** Kontakion of the Feast.
 3. **Readings & Prokimena:** Trisagion; Prokimenon, Epistle, Alleluia, Gospel, and Communion Hymn—first of the Sunday, then of the Feast.
 4. **Hymn to the Theotokos:** Heirmos of the 9th Ode of the Festal Canon with its refrain instead of *“It is truly meet”*[^193].
@@ -743,7 +743,7 @@ There are 20 such rubrics, or paradigms of general divine services—that is, 7 
 
 ---
 
-## 2.16 Afterfeast with a Saint with a Polyeleos on Weekdays
+## 2.16 Afterfeast with a Saint with a Polyeleos on Weekdays[^217]
 
 ### At Great Vespers
 
@@ -770,7 +770,7 @@ There are 20 such rubrics, or paradigms of general divine services—that is, 7 
    * *After the 3rd Ode:* Kontakion-Ikos of the Feast, Sessional Hymn of the saint twice; **Glory, Both now:** Sessional Hymn of the Feast.
    * *After the 6th Ode:* Kontakion and Ikos of the saint.
    * *After the 9th Ode:* Exaposteilarion of the saint twice; **Glory, Both now:** Exaposteilarion of the Feast.
-5. **Praises (Lauds):** 4 or 6 stichera (3 of the Feast, 3 of the saint)[^222]; **Glory:** to the saint, **Both now:** of the Feast.
+5. **Praises (Lauds):** Sometimes 4 stichera to the saint[^222], sometimes 6 (3 of the Feast, 3 of the saint)[^223]; **Glory:** to the saint, **Both now:** of the Feast.
 6. **After the Great Doxology:** Troparion of the saint; **Glory, Both now:** of the Feast.
 7. **Dismissal:** Great Dismissal with feast and saint commemorations.
 

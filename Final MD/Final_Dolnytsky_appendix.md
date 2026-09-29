@@ -142,7 +142,7 @@ The Priest, after the completion of the psalm, returns to the sanctuary before t
 
 4. After the completion of the Kathisma, the Deacon, having gone out through the northern doors, sings the Small Litany and, after the exclamation of the Priest "For Thine is the dominion," makes a small bow and returns into the sanctuary[^757]
 
-5. When the Choir begins to sing "Lord, I have cried," the Deacon takes the censer and, after the Priest blesses the incense, censes the holy table from the four sides, then the icon behind the altar, the icons of the sanctuary and the Priest[^758]. After this, having gone out of the sanctuary through the northern doors[^772], he comes before the holy doors, makes a bow, censes the icons of the southern part of the iconostasis, beginning from the icon of the Savior; then, having made again a bow before the holy doors, censes the icons of the northern part, beginning from the icon of the Theotokos, then – the choirs, right and left; He censes the people from the solea, after which He returns into the sanctuary through the southern doors
+5. When the Choir begins to sing "Lord, I have cried," the Deacon takes the censer and, after the Priest blesses the incense, censes the holy table from the four sides, then the icon behind the altar, the icons of the sanctuary and the Priest[^758]. After this, having gone out of the sanctuary through the northern doors, he comes before the holy doors, makes a bow, censes the icons of the southern part of the iconostasis, beginning from the icon of the Savior; then, having made again a bow before the holy doors, censes the icons of the northern part, beginning from the icon of the Theotokos, then – the choirs, right and left; He censes the people from the solea, after which He returns into the sanctuary through the southern doors
 
 6. When the Choir begins to sing the last sticheron, the Priest puts on the phelonion, having blessed and kissed it, and, at "Glory," comes with the Deacon before the holy table. The holy doors are opened. The Deacon takes the censer and, after the Priest blesses the incense, together with him, who now lowers the phelonion, goes around the holy table, beginning from the right side and, preceded by candle-bearers, they go out through the northern doors. They stand before the holy doors: candle-bearers on opposite sides, one – near the icon of the Theotokos, the second – near the icon of the Savior, the Deacon – in the middle, and behind him – the Priest. The Priest and deacon bow their heads. The Deacon, holding the orarion with three fingers, says quietly: "Let us pray to the Lord," and the Priest recites quietly the Prayer of the Entrance "In the evening and in the morning and at noonday."
 
@@ -251,6 +251,11 @@ After the exclamation, the deacons return through their doors into the sanctuary
 1. Concelebrating priests, whose number should be even, put on before the Entrance only epitrachelia and phelons over their ryasas and stand on the sides of the holy table, and not before it, where only the principal celebrant and deacons stand; they stand according to the order of their dignity or ordination: the first priest – on the right side of the throne, the second – on the left, the third – again on the right, and so on
 
 2. For the Entrance, all go out, having made a small bow, through the northern doors; they lower their phelons and hands down and stand, in front – the younger ones, in a double row before the holy doors, facing one another, and the principal celebrant stands in the middle, behind all, and recites the Prayer of the Entrance himself (see no. 34)
+
+[Diagram: At the Entrance]
+[Left Column] 6 ... 4 ... 2
+[Center] C (Celebrant) | D (Deacon)
+[Right Column] 5 ... 3 ... 1
 
 After the call of the Deacon "Wisdom, arise," all enter immediately after the Deacon through the holy doors and take their places on the sides of the holy table. During the censing of the holy table by the Deacon, the concelebrating priests move away slightly from it.
 
@@ -386,11 +391,22 @@ Everything else takes place as presented in the rubric of Vespers with Vigil in 
 
 2. Then, during the procession at the Litiya, all make a small bow before the holy table and go out, in front – the younger ones, whether through the northern, or, if there exists a custom, through the holy doors, having lowered their phelons and hands down. In the narthex or at the place near the church doors they stand in two rows, one beside the other, and the principal celebrant – in the middle, behind all. The Deacon or deacons stand near the principal celebrant
 
+[Diagram: At the Narthex]
+[Left Column] Candle-bearer ... 6 ... 4 ... 2
+[Center] Celebrant ... Deacon
+[Right Column] Candle-bearer ... 5 ... 3 ... 1 ... Concelebrants
+
 If only one deacon censes, then, having censed the icons in the narthex, he censes first the principal celebrant, then – the concelebrants on the right, and finally those standing to the left of the principal celebrant. If both deacons cense, each censes those standing on his side. If there are no deacons, the principal celebrant censes the concelebrants, beginning from those standing on his right hand.
 
 The exclamation "Hear us, O God" is exclaimed by the principal celebrant.
 
 3. At the blessing of loaves, the concelebrants are arranged thus:
+
+[Diagram: At the Blessing of Loaves]
+[Left Column] Candle-bearer ... Concelebrants ... 6 ... 4 ... 2
+[Center] TETRAPOD
+[Right Column] Candle-bearer ... Concelebrants ... 5 ... 3 ... 1
+[Bottom] Celebrant ... Deacon
 
 After the blessing of loaves, all go in a double row, in front – the younger ones, to the iconostasis and stand before the solea, and the celebrant approaches the holy doors and blesses the people: "The blessing of the Lord be upon you." After the dismissal, the concelebrating priests return with the younger ones in front into the sanctuary and, having made a small bow before the throne, depart; after this they take off the sacred vestments (see no. 60 and no. 36, note).
 
@@ -574,6 +590,12 @@ After the anointing, he returns through the holy doors into the sanctuary and ta
 
 1. Concelebrants, in an even number, put on epitrachelia over their ryasas and put on phelons during the reading of the Kathisma and stand on the sides of the holy table, as at Vespers (see no. 50). During the singing of the Polyeleos, all go out, having made a small bow, through the holy doors, having lowered the phelonion and hands down, in front – the younger ones. Two first ones carry the icon of the feast or saint, if it has not yet been placed on the left side of the tetrapod between both choirs, and place it on the tetrapod; all stand on the sides of the tetrapod in two rows, facing one another, the principal celebrant stands in the middle before the tetrapod, and to his right – the Deacon
 
+[Diagram: At the Magnification]
+[Left Column] Candle-bearer ... 6 ... 4 ... 2 ... Concelebrants
+[Center] TETRAPOD
+[Right Column] Candle-bearer ... 5 ... 3 ... 1 ... Concelebrants
+[Bottom] Celebrant ... Deacon
+
 2. Then all sing the Magnification. When the Choir repeats the Magnification, the Priest, preceded by the Deacon with a lighted candle, censes from four sides the icon of the feast or saint on the tetrapod, the holy table, the sanctuary, the iconostasis, the concelebrants, both choirs, the people and once more the icon of the feast, but only from the front. If, however, the usual censing takes place before the Gospel, then at the Magnification the Priest censes only the icon itself
 
 > **Choir**: "Glory"
@@ -628,7 +650,17 @@ and again the Magnification. Then the celebrant and concelebrants sing the Magni
 
 ### Beginning of Paschal Matins
 
-At Paschal Matins the censing takes place with special solemnity. The servers, having put on the best vestments, as at the Divine Liturgy, go out before the throne in the usual order and make a bow all together. The principal celebrant gives the Gospel to the 1st server, and to the 2nd – the icon of the Resurrection of Christ, He Himself takes the cross with His left hand, and with the right (from the Deacon) – the censer. He censes first the throne, and afterwards – the servers. Then the principal celebrant, having given the censer to the Deacon, stands at his place. All bow before the throne and turn to the east to go out to the narthex. The exit takes place according to the usual order of seniority under the peeling of bells and with the singing of the hymn "Thy Resurrection, O Christ Savior." And the order is such: candle-bearers, priests, deacons with lighted candles, and behind them – the principal celebrant. All are also given lighted candles. In the narthex all stand before the closed church doors.
+At Paschal Matins the censing takes place with special solemnity. The servers, having put on the best vestments, as at the Divine Liturgy, go out before the throne in the usual order and make a bow all together. The principal celebrant gives the Gospel to the 1st server, and to the 2nd – the icon of the Resurrection of Christ, He Himself takes the cross with His left hand, and with the right (from the Deacon) – the censer. He censes first the throne, and afterwards – the servers. Then the principal celebrant, having given the censer to the Deacon, stands at his place. All bow before the throne and turn to the east to go out to the narthex. The exit takes place according to the usual order of seniority under the peeling of bells and with the singing of the hymn "Thy Resurrection, O Christ Savior." And the order is such: candle-bearers, priests, deacons with lighted candles, and behind them – the principal celebrant. All are also given lighted candles. In the narthex all stand before the closed church doors, as in the diagram below:
+
+[Diagram: At the Church Doors]
+Church doors
+___________I_______I___________
+Left Kliros ...................................... Right Kliros
+A2 ..................................................... A1
+C4 ..................................................... C3
+C2 ..................................................... C1
+D2                     PC                    D1
+People
 
 Here the principal celebrant takes the censer from the Deacon and censes the icons of the narthex, the kliroses and the people. The Deacon precedes him the entire time with a lighted candle. Then the principal celebrant returns before the doors and censes the Deacon; and then the latter, having taken the censer from the principal celebrant, censes him and immediately gives the censer back to the principal celebrant, who thrice censes the doors and then exclaims: "Glory to the Holy." After "Amen," the principal celebrant with the concelebrants sings thrice "Christ is risen" and the verses "Let God arise," to which the people respond with the song "Christ is risen." After the last "Christ is risen," the principal celebrant opens the doors (Among us he knocks thrice with the cross) and enters the church, and behind him all the servers and people (see no. 71; *Liturgicon*, pp. 141-146).
 
@@ -699,6 +731,11 @@ The Priest, having thrust the holy spear obliquely into the right side of the pr
 > **Deacon**: "Sacrifice, Master,"
 
 cuts it crosswise and says: "Sacrificed is the Lamb of God" and turns the other side of the bread, which has the cross, upwards. The Deacon says: "Pierce, Master." The Priest pierces the holy bread with the spear in the upper right corner, where the letters "IC" are imprinted, saying: "One of the soldiers."
+
+[Diagram of the Lamb]
+/ IC | XC
+-----+---
+  NI | KA
 
 13. The Deacon, having taken wine and water, says to the
 
@@ -908,13 +945,13 @@ The Priest recites quietly the Second Prayer of the Faithful "Again and oftentim
 
 > **Deacon**: "Wisdom"
 
-and enters the sanctuary through the northern doors.
+and enters the sanctuary through the northern doors[^772].
 
 The Priest, not turning to the people, exclaims: "That being kept under Thy dominion."
 
 > **Choir**: "Amen"
 
-; and the holy doors are opened[^782].
+; and the holy doors are opened.
 
 33. During the singing of the Cherubic Hymn, the Deacon, having taken the censer and put incense into it, approaches the Priest, saying: "Bless, Master, the incense" and, having received the blessing: "Blessed is God," recites the 50th(51st) Psalm and censes around the holy table, the icon behind the altar, the icons of the iconostasis, both choirs and the people. At the end, having returned through the southern doors into the sanctuary, He censes the Priest[^773]. The Priest, having lifted his hands up, recites quietly the prayer "No one is worthy."
 
@@ -1200,6 +1237,11 @@ Then the 1st deacon returns to his place and begins "Again and again." After the
 
 6. When the singers, who are singing the third Antiphon or the Beatitudes, reach "Glory" or the last verses of the Beatitudes, the Priest and deacons make three small bows. Then the Priest hands the Holy Gospel to the 1st deacon, and himself lowers the phelonion (see no. 34). The Priest with the 1st deacon go around the holy table from the right side, during which the 2nd Deacon takes the censer, and all go out through the northern doors, preceded by candle-bearers: first goes, censing, the 2nd deacon, then – the 1st deacon, carrying the Holy Gospel, and behind them – the Priest. Having approached the holy doors, the candle-bearers stand on opposite sides: one – near the icon of the Theotokos, and the other – near the icon of the Savior, the 1st deacon – on the right, and the 2nd – on the left side, and the Priest stands in the middle behind them
 
+[Diagram: At the Little Entrance]
+[Left Column] 6 ... 4 ... 2
+[Center] D.2 ... D.1 ... Priest
+[Right Column] 5 ... 3 ... 1
+
 The first Deacon says: "Let us pray to the Lord," and the Priest recites quietly the Prayer of the Entrance. After the completion of the prayer the 1st deacon, pointing with his right hand to the east, says to the
 
 > **Priest**: "Bless, Master, the holy entrance."
@@ -1366,7 +1408,7 @@ Then the Priest wipes his fingers over the holy diskos.
 
 > **Priest**: "Bless, Master, the warm water,"
 
-and the Priest blesses it saying: "Blessed is the fervor of Thy saints." The Deacon pours a little water in the sign of the cross into the holy chalice, saying: "The fervor of faith" and, having set aside the vessel with the warm water, stands slightly at a distance[^778].
+and the Priest blesses it saying: "Blessed is the fervor of Thy saints." The Deacon pours a little water in the sign of the cross into the holy chalice, saying: "The fervor of faith" and, having set aside the vessel with the warm water, stands slightly at a distance.
 
 17. The Deacon goes around the holy table and, if necessary, washes the palm of his right hand and, at the words of the Priest "Deacon, approach," approaches him from the left side, bows to him, asking forgiveness
 
@@ -1416,7 +1458,7 @@ The Priest goes to the table of oblation, after which the Deacon censes the Holy
 
 21. The Deacon, having untied the orarion, as custom prescribes, goes out through the northern doors and, standing at the usual place, exclaims: "Arise! Having partaken of the divine."
 
-The Priest recites quietly the Prayer of Thanksgiving "We thank Thee, O Master" and, having made with the Holy Gospel the sign of the cross over the folded antimension [iliton][^779], places it on the antimension [iliton]. Exclamation: "For Thou Art our sanctification."
+The Priest recites quietly the Prayer of Thanksgiving "We thank Thee, O Master" and, having made with the Holy Gospel the sign of the cross over the folded antimension [iliton], places it on the antimension [iliton]. Exclamation: "For Thou Art our sanctification."
 
 > **Choir**: "Amen."
 
@@ -1428,7 +1470,7 @@ The Priest, going towards the holy doors, exclaims: "Let us depart in peace."
 
 > **Choir**: "Lord, have mercy."
 
-The Priest enters through the holy doors into the temple of the faithful and, standing between the two choirs (see no. 184), reads loudly the Prayer behind the Ambo[^780] "O Lord, Who blessest those Who bless Thee."
+The Priest enters through the holy doors into the temple of the faithful and, standing between the two choirs (see no. 184), reads loudly the Prayer behind the Ambo "O Lord, Who blessest those Who bless Thee."
 
 > **Choir**: "Amen."
 
@@ -1582,19 +1624,29 @@ a) In the solemn form
 
 Other exclamations are taken by the concelebrants in turn. To better maintain order, the principal celebrant invites the concelebrants to exclaim with a nod of the head, and then the one who is to exclaim gives consent, bowing his head in the direction of the principal celebrant.
 
-9. For the Little Entrance all go out, having lowered their hands under the lowered phelonion, through the northern doors, in front – the younger ones, and stand before the holy doors in two rows, one near another, the principal celebrant stands with everyone in the middle. The principal celebrant himself recites the Prayer of the Entrance. After the call of the
+9. For the Little Entrance all go out[^783], having lowered their hands under the lowered phelonion, through the northern doors, in front – the younger ones, and stand before the holy doors in two rows, one near another, the principal celebrant stands with everyone in the middle. The principal celebrant himself recites the Prayer of the Entrance. After the call of the
 
 > **Deacon**: "Wisdom, arise"
 
 all enter behind the Deacon through the holy doors into the sanctuary and occupy their places near the holy table.
 
+[Diagram: Before the Little Entrance, before the Holy Doors]
+[Left Column] Candle-bearer ... 6 ... 4 ... 2 ... Concelebrants
+[Right Column] Candle-bearer ... 5 ... 3 ... 1 ... Concelebrants
+[Bottom] Celebrant ... Deacon
+
 10. The concelebrants sit near the High Throne in the same order in which they stand at the throne, that is, those who stand to the right of the principal celebrant sit to his right, and those on the left side – sit to the left
+
+[Diagram: At the High Throne]
+[Left] 2 ... 4 ... 6
+[Center] D (High Place)
+[Right] 1 ... 3 ... 5
 
 11. During the reading of the Gospel all remain in their places, looking towards the ambo or the place from which the Gospel is read
 
 12. At the Cherubic Hymn all lift their hands, if this can be done conveniently, but all recite the Cherubic Hymn and make the prescribed bows. During the censing of the holy table by the Deacon all step away from it slightly so that the Deacon can easily go around it
 
-13. From the table of oblation each takes one of the things used in the Divine Sacrifice, namely: the spear, the spoon, holding them on their chests. All go out through the northern doors, in front – the Deacon, who exclaims: "All of you" and stands in the holy doors in the sanctuary, behind him other concelebrating priests, beginning from the youngest, exclaiming each: "All of you," one or even several, if there is a custom, and stand facing one another outside the sanctuary before the holy doors as at the Little Entrance. The principal Priest exclaims: "Our most holy [Pontiff]" and stands exactly before the holy doors, turns to the west when he exclaims "All of you," after which he enters the sanctuary, and behind him go the concelebrants and each stands at the holy table at his place
+13. From the table of oblation each takes one of the things used in the Divine Sacrifice, namely: the spear, the spoon, holding them on their chests. All go out[^784] through the northern doors, in front – the Deacon, who exclaims: "All of you" and stands in the holy doors in the sanctuary, behind him other concelebrating priests, beginning from the youngest, exclaiming each: "All of you," one or even several, if there is a custom, and stand facing one another outside the sanctuary before the holy doors as at the Little Entrance. The principal Priest exclaims: "Our most holy [Pontiff]" and stands exactly before the holy doors, turns to the west when he exclaims "All of you," after which he enters the sanctuary, and behind him go the concelebrants and each stands at the holy table at his place
 
 14. Having made the Great Entrance, if there is no deacon, one of the concelebrants sings the first part of the litany "Let us complete," and another – the second part, so that each has time to read the Prayer of the Offering
 
@@ -1609,6 +1661,13 @@ One must ensure, especially in the Liturgy of St. Basil, that after the reading 
 17. The first part of the litany "Having commemorated all the saints" is sung by one of the concelebrants, if there is no deacon, and the second part – by another, so that all have time to read the prayer "To Thee we entrust all our life."
 
 18. After the breaking [of the Lamb], the principal celebrant calls the Deacon and gives him a particle of the Holy Bread, as prescribed. Then all recite the prayer "I believe, O Lord" and the principal priest communicates of the Body of Christ. All concelebrants, in turn, according to their dignity, approach the holy table from the side of the oblation table, and the principal celebrant stands on the opposite side of it. After the communion of the Body of Christ, each goes to the north of the holy table and washes, if necessary, His fingers in the vessel standing on the table of oblation, and, according to the prescribed sequence, they go behind the 1st concelebrant, who stands at his place at the holy table. The Deacon consumes the particle of Bread after the priests. The principal celebrant, having returned to the center, communicates of the Most Precious Blood and moves away from the holy table; after this the concelebrants, according to the prescribed order, approach the holy table, this time from the southern side, and each after the communion of the Blood departs by the table of oblation and stands at his place at the holy table. At the end the Deacon receives, according to the prescription, the communion of the Most Precious Blood from the principal celebrant
+
+[Diagram: Communion of the Body / Communion of the Blood]
+[Table of Oblation]
+4 3 | 4 3
+2 1 | 2 1
+[Holy Table]
+[Principal Celebrant] [Principal Celebrant]
 
 19. Each, having just communicated, wipes his lips with the purificator at the edge of the chalice
 
@@ -1688,7 +1747,7 @@ Immediately the
 
 6. At the end of the opening psalm the Priest returns through the southern doors into the sanctuary, and the Deacon, having gone out through the northern and stood at the usual place, sings the Great Litany. After the exclamation, having made a small bow, he returns through the southern doors into the sanctuary. The Reader begins the 18th Kathisma of the Psalter. At "Alleluia" – they make small bows. When at each of the following Antiphons "Glory" is said, the Deacon goes out through the northern doors from the sanctuary and at the designated place sings the Small Litany, and the Priest recites quietly the first, second and third Vespers Prayers. After the completion of the Small Litany the Deacon returns through the southern doors into the sanctuary, and the Priest says the exclamation, as prescribed
 
-7. At the beginning of the reading of the psalms [stichologia], if the Presanctified Lamb is kept in the tabernacle (artophorion) of the holy table, the transfer to the table of oblation takes place thus[^785]: the Deacon brings to the holy table the holy diskos, the star-cover and the small veil. The Priest kisses the Holy Gospel and places it on the right side of the holy table. After this he places the diskos on the unfolded antimension [iliton], on its left side, and, having opened the tabernacle, makes a small bow. He takes the chalice with the lid, in which the Lamb is kept, places it on the middle of the antimension [iliton] and, having taken from it the Presanctified Bread, places it with great piety on the holy diskos, as also the particles needed for the communion of the faithful. Having placed the pyx back into the tabernacle, he closes it and, having placed the holy diskos on the middle of the antimension [iliton], censes the star-cover and the small veil and covers the diskos with it. Having taken the censer, he censes around the holy table, preceded by the Deacon with a lighted candle. Having returned before the holy table and given the censer to the Deacon, he makes a low (prostrate) bow, making the sign of the cross on himself, after which he takes with both hands the covered holy diskos and, holding it on his head crosses by the right side of the holy table to the table of oblation (altar of preparation), preceded by the Deacon with a lighted candle and censer
+7. At the beginning of the reading of the psalms [stichologia], if the Presanctified Lamb is kept in the tabernacle (artophorion) of the holy table, the transfer to the table of oblation takes place thus:[^785] the Deacon brings to the holy table the holy diskos, the star-cover and the small veil. The Priest kisses the Holy Gospel and places it on the right side of the holy table. After this he places the diskos on the unfolded antimension [iliton], on its left side, and, having opened the tabernacle, makes a small bow. He takes the chalice with the lid, in which the Lamb is kept, places it on the middle of the antimension [iliton] and, having taken from it the Presanctified Bread, places it with great piety on the holy diskos, as also the particles needed for the communion of the faithful. Having placed the pyx back into the tabernacle, he closes it and, having placed the holy diskos on the middle of the antimension [iliton], censes the star-cover and the small veil and covers the diskos with it. Having taken the censer, he censes around the holy table, preceded by the Deacon with a lighted candle. Having returned before the holy table and given the censer to the Deacon, he makes a low (prostrate) bow, making the sign of the cross on himself, after which he takes with both hands the covered holy diskos and, holding it on his head crosses by the right side of the holy table to the table of oblation (altar of preparation), preceded by the Deacon with a lighted candle and censer
 
 8. At the table of oblation the Priest places the diskos on the unfolded antimension [iliton], after which he pours wine and water into the chalice, as is the custom, saying nothing at this. After censing the veil of the chalice over the censer he covers the chalice with it. Then with the large veil, which he likewise censes, he covers the diskos and chalice, saying nothing at this, but only: "Through the prayers of our holy fathers, Lord Jesus Christ our God, have mercy on us." Having made a prostrate bow, the Priest and deacon return to the holy table. There the Priest places the Book of the Holy Gospels on the folded antimension [iliton]
 
