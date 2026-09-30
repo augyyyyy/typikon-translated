@@ -14,19 +14,19 @@ __pycache__/
 *.pyc
 
 # Local backup and scratch temp files
-scratch/CLEANED_RAW_*
-scratch/STITCHED_*
-scratch/temp_*
+**/scratch/CLEANED_RAW_*
+**/scratch/STITCHED_*
+**/scratch/temp_*
 
 # Ignore Windows Desktop customization files
 desktop.ini
 [Dd]esktop.ini
 
 # Page extractions and temporary vision files
-scratch/*.png
-scratch/*.jpg
-scratch/*.jpeg
-scratch/*.pdf
+**/scratch/*.png
+**/scratch/*.jpg
+**/scratch/*.jpeg
+**/scratch/*.pdf
 
 # Python Virtual Environments
 .venv/
@@ -46,9 +46,9 @@ pip-selfcheck.json
 *.swp
 
 # Temporary audit reports and log baselines
-scratch/*_report*
-scratch/reports/
-Audit_Reports/Test_*
+**/scratch/*_report*
+**/scratch/reports/
+**/Audit_Reports/Test_*
 *.log
 
 # Backups and temporary files

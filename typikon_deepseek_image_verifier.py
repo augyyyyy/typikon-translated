@@ -46,7 +46,7 @@ def get_deepseek_key():
 
     return None
 
-BASE_DIR = r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Translation"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 FINAL_DIR = os.path.join(BASE_DIR, "Final")
 OUT_DIR = os.path.join(BASE_DIR, "Audit_Reports")
 LOG_PATH = os.path.join(BASE_DIR, "visual_audit_log.md")

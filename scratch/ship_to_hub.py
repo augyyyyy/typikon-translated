@@ -8,7 +8,11 @@ sys.stdout.reconfigure(encoding='utf-8')
 root_dir = Path(__file__).resolve().parent.parent
 final_dir = root_dir / "Final"
 final_md_dir = root_dir / "Final MD"
-inbox_dir = root_dir.parent / "Typikon Coded" / "Data" / "Inbox"
+
+# Dynamically resolve Typikon Coded inbox across directory reorganizations
+current = Path(__file__).resolve()
+projects_dir = next((p for p in current.parents if (p / "Typikon Coded").exists()), current.parents[2])
+inbox_dir = projects_dir / "Typikon Coded" / "Data" / "Inbox"
 
 print(f"Source Final TXT Dir: {final_dir}")
 print(f"Source Final MD Dir:  {final_md_dir}")
