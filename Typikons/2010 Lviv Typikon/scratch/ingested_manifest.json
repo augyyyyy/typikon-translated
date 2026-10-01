@@ -1,0 +1,3430 @@
+{
+  "tier1": [
+    {
+      "cid": "b1b808c7-ccba-4f41-a8dd-6237189084c7",
+      "short_cid": "b1b808c7",
+      "created_at": "2026-09-12T18:00:31",
+      "orig_name": "implementation_plan.md",
+      "target_name": "b1b808c7_implementation_plan.md",
+      "target_rel_path": "docs/historical_artifacts/b1b808c7_implementation_plan.md",
+      "size": 9847,
+      "summary": "Master Ecosystem Implementation Plan: Data-Driven Remediation & Cross-Spoke Harmonization"
+    },
+    {
+      "cid": "b1b808c7-ccba-4f41-a8dd-6237189084c7",
+      "short_cid": "b1b808c7",
+      "created_at": "2026-09-12T18:00:31",
+      "orig_name": "walkthrough.md",
+      "target_name": "b1b808c7_walkthrough.md",
+      "target_rel_path": "docs/historical_artifacts/b1b808c7_walkthrough.md",
+      "size": 17156,
+      "summary": "Grand Re-Audit & Fortification: Ukrainian Word Manuscript Ingestion, Footnote Decontamination, & Diagram Restoration"
+    },
+    {
+      "cid": "16976efd-f682-4efa-bab9-3cd1ba749a8e",
+      "short_cid": "16976efd",
+      "created_at": "2026-08-24T23:18:51",
+      "orig_name": "implementation_plan.md",
+      "target_name": "16976efd_implementation_plan.md",
+      "target_rel_path": "docs/historical_artifacts/16976efd_implementation_plan.md",
+      "size": 7864,
+      "summary": "Implementation Plan: Visual & Typographic Verification (`liturgical_vision_auditor`)"
+    },
+    {
+      "cid": "16976efd-f682-4efa-bab9-3cd1ba749a8e",
+      "short_cid": "16976efd",
+      "created_at": "2026-08-24T23:18:51",
+      "orig_name": "walkthrough.md",
+      "target_name": "16976efd_walkthrough.md",
+      "target_rel_path": "docs/historical_artifacts/16976efd_walkthrough.md",
+      "size": 3600,
+      "summary": "Walkthrough: Visual & Typographic Verification (`liturgical_vision_auditor`)"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "implementation_plan.md",
+      "target_name": "1e566ed6_implementation_plan.md",
+      "target_rel_path": "docs/historical_artifacts/1e566ed6_implementation_plan.md",
+      "size": 2867,
+      "summary": "Implementation Plan \u2014 Granular Heading Citation Model"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "sectionation_analysis.md",
+      "target_name": "1e566ed6_sectionation_analysis.md",
+      "target_rel_path": "docs/historical_artifacts/1e566ed6_sectionation_analysis.md",
+      "size": 3949,
+      "summary": "Gaps and Limits of the Current Sectionation"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "task.md",
+      "target_name": "1e566ed6_task.md",
+      "target_rel_path": "docs/historical_artifacts/1e566ed6_task.md",
+      "size": 1544,
+      "summary": "- [x] Restructuring Table of Contents and Headings"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "toc_structure_analysis.md",
+      "target_name": "1e566ed6_toc_structure_analysis.md",
+      "target_rel_path": "docs/historical_artifacts/1e566ed6_toc_structure_analysis.md",
+      "size": 9193,
+      "summary": "Table of Contents Restructuring Analysis: From Page Numbers to Hierarchical Sections"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "typikon_formatting_analysis.md",
+      "target_name": "1e566ed6_typikon_formatting_analysis.md",
+      "target_rel_path": "docs/historical_artifacts/1e566ed6_typikon_formatting_analysis.md",
+      "size": 5615,
+      "summary": "Typikon Formatting Analysis: Typikon vs. Service Books"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "walkthrough.md",
+      "target_name": "1e566ed6_walkthrough.md",
+      "target_rel_path": "docs/historical_artifacts/1e566ed6_walkthrough.md",
+      "size": 3426,
+      "summary": "Walkthrough \u2014 Granular Citation Model & Heading Restructuring"
+    },
+    {
+      "cid": "fc82a958-f934-4091-9fbe-137158394934",
+      "short_cid": "fc82a958",
+      "created_at": "2026-06-09T02:26:52",
+      "orig_name": "implementation_plan.md",
+      "target_name": "fc82a958_implementation_plan.md",
+      "target_rel_path": "docs/historical_artifacts/fc82a958_implementation_plan.md",
+      "size": 15613,
+      "summary": "Implementation Plan: Typikon Translation Remediation"
+    },
+    {
+      "cid": "fc82a958-f934-4091-9fbe-137158394934",
+      "short_cid": "fc82a958",
+      "created_at": "2026-06-09T02:26:52",
+      "orig_name": "royal_doors_analysis.md",
+      "target_name": "fc82a958_royal_doors_analysis.md",
+      "target_rel_path": "docs/historical_artifacts/fc82a958_royal_doors_analysis.md",
+      "size": 3854,
+      "summary": "Translation Source Analysis: Royal Doors vs. Kyivan 1709 Standard"
+    },
+    {
+      "cid": "fc82a958-f934-4091-9fbe-137158394934",
+      "short_cid": "fc82a958",
+      "created_at": "2026-06-09T02:26:52",
+      "orig_name": "task.md",
+      "target_name": "fc82a958_task.md",
+      "target_rel_path": "docs/historical_artifacts/fc82a958_task.md",
+      "size": 838,
+      "summary": "Translation Audit Finalization Tasks"
+    },
+    {
+      "cid": "fc82a958-f934-4091-9fbe-137158394934",
+      "short_cid": "fc82a958",
+      "created_at": "2026-06-09T02:26:52",
+      "orig_name": "walkthrough.md",
+      "target_name": "fc82a958_walkthrough.md",
+      "target_rel_path": "docs/historical_artifacts/fc82a958_walkthrough.md",
+      "size": 4952,
+      "summary": "Walkthrough - DeepSeek Orchestration Integration"
+    },
+    {
+      "cid": "436e7eaa-d44b-4063-9b93-20c58f72c548",
+      "short_cid": "436e7eaa",
+      "created_at": "2026-05-31T16:42:41",
+      "orig_name": "implementation_plan.md",
+      "target_name": "436e7eaa_implementation_plan.md",
+      "target_rel_path": "docs/historical_artifacts/436e7eaa_implementation_plan.md",
+      "size": 3581,
+      "summary": "Implementation Plan: Historical Brain Artifact Discovery, Triaging & Ingestion"
+    },
+    {
+      "cid": "436e7eaa-d44b-4063-9b93-20c58f72c548",
+      "short_cid": "436e7eaa",
+      "created_at": "2026-05-31T16:42:41",
+      "orig_name": "task.md",
+      "target_name": "436e7eaa_task.md",
+      "target_rel_path": "docs/historical_artifacts/436e7eaa_task.md",
+      "size": 507,
+      "summary": "Task: Historical Brain Artifact Discovery, Triaging & Ingestion"
+    },
+    {
+      "cid": "436e7eaa-d44b-4063-9b93-20c58f72c548",
+      "short_cid": "436e7eaa",
+      "created_at": "2026-05-31T16:42:41",
+      "orig_name": "walkthrough.md",
+      "target_name": "436e7eaa_walkthrough.md",
+      "target_rel_path": "docs/historical_artifacts/436e7eaa_walkthrough.md",
+      "size": 11421,
+      "summary": "Walkthrough: Perfection Pipeline, Rule Fortification & Custom Skills"
+    },
+    {
+      "cid": "e5ff2e9a-16b3-401d-bdc1-57dd450d6e62",
+      "short_cid": "e5ff2e9a",
+      "created_at": "2026-09-12T17:53:34",
+      "orig_name": "monastic_vs_parish_delta.md",
+      "target_name": "e5ff2e9a_monastic_vs_parish_delta.md",
+      "target_rel_path": "docs/historical_artifacts/e5ff2e9a_monastic_vs_parish_delta.md",
+      "size": 31980,
+      "summary": "The Monastic Delta: Exhaustive Canonical Citation Dossier"
+    },
+    {
+      "cid": "9686e761-280f-434e-9d19-e1c17478fcc5",
+      "short_cid": "9686e761",
+      "created_at": "2026-05-29T23:31:12",
+      "orig_name": "Daily_Matins_Audit_Report.md",
+      "target_name": "9686e761_Daily_Matins_Audit_Report.md",
+      "target_rel_path": "docs/historical_artifacts/9686e761_Daily_Matins_Audit_Report.md",
+      "size": 1886,
+      "summary": "Fine-Tooth Comb Audit Report: Daily Matins"
+    },
+    {
+      "cid": "9686e761-280f-434e-9d19-e1c17478fcc5",
+      "short_cid": "9686e761",
+      "created_at": "2026-05-29T23:31:12",
+      "orig_name": "Daily_Matins_Edit_Script.md",
+      "target_name": "9686e761_Daily_Matins_Edit_Script.md",
+      "target_rel_path": "docs/historical_artifacts/9686e761_Daily_Matins_Edit_Script.md",
+      "size": 1648,
+      "summary": "Synthesized Edit Script: Daily Matins"
+    },
+    {
+      "cid": "9686e761-280f-434e-9d19-e1c17478fcc5",
+      "short_cid": "9686e761",
+      "created_at": "2026-05-29T23:31:12",
+      "orig_name": "Daily_Midnight_Office_Audit_Report.md",
+      "target_name": "9686e761_Daily_Midnight_Office_Audit_Report.md",
+      "target_rel_path": "docs/historical_artifacts/9686e761_Daily_Midnight_Office_Audit_Report.md",
+      "size": 1570,
+      "summary": "Fine-Tooth Comb Audit Report: Daily Midnight Office"
+    },
+    {
+      "cid": "9686e761-280f-434e-9d19-e1c17478fcc5",
+      "short_cid": "9686e761",
+      "created_at": "2026-05-29T23:31:12",
+      "orig_name": "Daily_Midnight_Office_Edit_Script.md",
+      "target_name": "9686e761_Daily_Midnight_Office_Edit_Script.md",
+      "target_rel_path": "docs/historical_artifacts/9686e761_Daily_Midnight_Office_Edit_Script.md",
+      "size": 1088,
+      "summary": "Synthesized Edit Script: Daily Midnight Office"
+    },
+    {
+      "cid": "9686e761-280f-434e-9d19-e1c17478fcc5",
+      "short_cid": "9686e761",
+      "created_at": "2026-05-29T23:31:12",
+      "orig_name": "Daily_Vespers_Audit_Report.md",
+      "target_name": "9686e761_Daily_Vespers_Audit_Report.md",
+      "target_rel_path": "docs/historical_artifacts/9686e761_Daily_Vespers_Audit_Report.md",
+      "size": 1936,
+      "summary": "Fine-Tooth Comb Audit Report: Daily Vespers"
+    },
+    {
+      "cid": "9686e761-280f-434e-9d19-e1c17478fcc5",
+      "short_cid": "9686e761",
+      "created_at": "2026-05-29T23:31:12",
+      "orig_name": "Daily_Vespers_Edit_Script.md",
+      "target_name": "9686e761_Daily_Vespers_Edit_Script.md",
+      "target_rel_path": "docs/historical_artifacts/9686e761_Daily_Vespers_Edit_Script.md",
+      "size": 1470,
+      "summary": "Synthesized Edit Script: Daily Vespers"
+    },
+    {
+      "cid": "9686e761-280f-434e-9d19-e1c17478fcc5",
+      "short_cid": "9686e761",
+      "created_at": "2026-05-29T23:31:12",
+      "orig_name": "First_Hour_Audit_Report.md",
+      "target_name": "9686e761_First_Hour_Audit_Report.md",
+      "target_rel_path": "docs/historical_artifacts/9686e761_First_Hour_Audit_Report.md",
+      "size": 1443,
+      "summary": "Fine-Tooth Comb Audit Report: First Hour"
+    },
+    {
+      "cid": "9686e761-280f-434e-9d19-e1c17478fcc5",
+      "short_cid": "9686e761",
+      "created_at": "2026-05-29T23:31:12",
+      "orig_name": "First_Hour_Edit_Script.md",
+      "target_name": "9686e761_First_Hour_Edit_Script.md",
+      "target_rel_path": "docs/historical_artifacts/9686e761_First_Hour_Edit_Script.md",
+      "size": 1164,
+      "summary": "Synthesized Edit Script: First Hour"
+    },
+    {
+      "cid": "9686e761-280f-434e-9d19-e1c17478fcc5",
+      "short_cid": "9686e761",
+      "created_at": "2026-05-29T23:31:12",
+      "orig_name": "Great_Compline_Audit_Report.md",
+      "target_name": "9686e761_Great_Compline_Audit_Report.md",
+      "target_rel_path": "docs/historical_artifacts/9686e761_Great_Compline_Audit_Report.md",
+      "size": 1558,
+      "summary": "Fine-Tooth Comb Audit Report: Great Compline"
+    },
+    {
+      "cid": "9686e761-280f-434e-9d19-e1c17478fcc5",
+      "short_cid": "9686e761",
+      "created_at": "2026-05-29T23:31:12",
+      "orig_name": "Great_Compline_Edit_Script.md",
+      "target_name": "9686e761_Great_Compline_Edit_Script.md",
+      "target_rel_path": "docs/historical_artifacts/9686e761_Great_Compline_Edit_Script.md",
+      "size": 1186,
+      "summary": "Synthesized Edit Script: Great Compline"
+    },
+    {
+      "cid": "9686e761-280f-434e-9d19-e1c17478fcc5",
+      "short_cid": "9686e761",
+      "created_at": "2026-05-29T23:31:12",
+      "orig_name": "Great_Matins_Audit_Report.md",
+      "target_name": "9686e761_Great_Matins_Audit_Report.md",
+      "target_rel_path": "docs/historical_artifacts/9686e761_Great_Matins_Audit_Report.md",
+      "size": 2052,
+      "summary": "Fine-Tooth Comb Audit Report: Great Matins"
+    },
+    {
+      "cid": "9686e761-280f-434e-9d19-e1c17478fcc5",
+      "short_cid": "9686e761",
+      "created_at": "2026-05-29T23:31:12",
+      "orig_name": "Great_Matins_Edit_Script.md",
+      "target_name": "9686e761_Great_Matins_Edit_Script.md",
+      "target_rel_path": "docs/historical_artifacts/9686e761_Great_Matins_Edit_Script.md",
+      "size": 1538,
+      "summary": "Synthesized Edit Script: Great Matins"
+    },
+    {
+      "cid": "9686e761-280f-434e-9d19-e1c17478fcc5",
+      "short_cid": "9686e761",
+      "created_at": "2026-05-29T23:31:12",
+      "orig_name": "Great_Vespers_Audit_Report.md",
+      "target_name": "9686e761_Great_Vespers_Audit_Report.md",
+      "target_rel_path": "docs/historical_artifacts/9686e761_Great_Vespers_Audit_Report.md",
+      "size": 1963,
+      "summary": "Fine-Tooth Comb Audit Report: Great Vespers"
+    },
+    {
+      "cid": "9686e761-280f-434e-9d19-e1c17478fcc5",
+      "short_cid": "9686e761",
+      "created_at": "2026-05-29T23:31:12",
+      "orig_name": "Great_Vespers_Edit_Script.md",
+      "target_name": "9686e761_Great_Vespers_Edit_Script.md",
+      "target_rel_path": "docs/historical_artifacts/9686e761_Great_Vespers_Edit_Script.md",
+      "size": 1510,
+      "summary": "Synthesized Edit Script: Great Vespers"
+    },
+    {
+      "cid": "9686e761-280f-434e-9d19-e1c17478fcc5",
+      "short_cid": "9686e761",
+      "created_at": "2026-05-29T23:31:12",
+      "orig_name": "implementation_plan.md",
+      "target_name": "9686e761_implementation_plan.md",
+      "target_rel_path": "docs/historical_artifacts/9686e761_implementation_plan.md",
+      "size": 1445,
+      "summary": "Native Gemini Exhaustive Auditing (LM Studio Abandoned)"
+    },
+    {
+      "cid": "9686e761-280f-434e-9d19-e1c17478fcc5",
+      "short_cid": "9686e761",
+      "created_at": "2026-05-29T23:31:12",
+      "orig_name": "Ninth_Hour_Audit_Report.md",
+      "target_name": "9686e761_Ninth_Hour_Audit_Report.md",
+      "target_rel_path": "docs/historical_artifacts/9686e761_Ninth_Hour_Audit_Report.md",
+      "size": 1594,
+      "summary": "Fine-Tooth Comb Audit Report: Ninth Hour"
+    },
+    {
+      "cid": "9686e761-280f-434e-9d19-e1c17478fcc5",
+      "short_cid": "9686e761",
+      "created_at": "2026-05-29T23:31:12",
+      "orig_name": "Ninth_Hour_Edit_Script.md",
+      "target_name": "9686e761_Ninth_Hour_Edit_Script.md",
+      "target_rel_path": "docs/historical_artifacts/9686e761_Ninth_Hour_Edit_Script.md",
+      "size": 1225,
+      "summary": "Synthesized Edit Script: Ninth Hour"
+    },
+    {
+      "cid": "9686e761-280f-434e-9d19-e1c17478fcc5",
+      "short_cid": "9686e761",
+      "created_at": "2026-05-29T23:31:12",
+      "orig_name": "ordo_dolnytsky_mapping.md",
+      "target_name": "9686e761_ordo_dolnytsky_mapping.md",
+      "target_rel_path": "docs/historical_artifacts/9686e761_ordo_dolnytsky_mapping.md",
+      "size": 3331,
+      "summary": "Liturgical Hierarchy & Coverage Map"
+    },
+    {
+      "cid": "9686e761-280f-434e-9d19-e1c17478fcc5",
+      "short_cid": "9686e761",
+      "created_at": "2026-05-29T23:31:12",
+      "orig_name": "Saturday_Midnight_Office_Audit_Report.md",
+      "target_name": "9686e761_Saturday_Midnight_Office_Audit_Report.md",
+      "target_rel_path": "docs/historical_artifacts/9686e761_Saturday_Midnight_Office_Audit_Report.md",
+      "size": 1484,
+      "summary": "Fine-Tooth Comb Audit Report: Saturday Midnight Office"
+    },
+    {
+      "cid": "9686e761-280f-434e-9d19-e1c17478fcc5",
+      "short_cid": "9686e761",
+      "created_at": "2026-05-29T23:31:12",
+      "orig_name": "Saturday_Midnight_Office_Edit_Script.md",
+      "target_name": "9686e761_Saturday_Midnight_Office_Edit_Script.md",
+      "target_rel_path": "docs/historical_artifacts/9686e761_Saturday_Midnight_Office_Edit_Script.md",
+      "size": 1077,
+      "summary": "Synthesized Edit Script: Saturday Midnight Office"
+    },
+    {
+      "cid": "9686e761-280f-434e-9d19-e1c17478fcc5",
+      "short_cid": "9686e761",
+      "created_at": "2026-05-29T23:31:12",
+      "orig_name": "Sixth_Hour_Audit_Report.md",
+      "target_name": "9686e761_Sixth_Hour_Audit_Report.md",
+      "target_rel_path": "docs/historical_artifacts/9686e761_Sixth_Hour_Audit_Report.md",
+      "size": 1450,
+      "summary": "Fine-Tooth Comb Audit Report: Sixth Hour"
+    },
+    {
+      "cid": "9686e761-280f-434e-9d19-e1c17478fcc5",
+      "short_cid": "9686e761",
+      "created_at": "2026-05-29T23:31:12",
+      "orig_name": "Sixth_Hour_Edit_Script.md",
+      "target_name": "9686e761_Sixth_Hour_Edit_Script.md",
+      "target_rel_path": "docs/historical_artifacts/9686e761_Sixth_Hour_Edit_Script.md",
+      "size": 1126,
+      "summary": "Synthesized Edit Script: Sixth Hour"
+    },
+    {
+      "cid": "9686e761-280f-434e-9d19-e1c17478fcc5",
+      "short_cid": "9686e761",
+      "created_at": "2026-05-29T23:31:12",
+      "orig_name": "Small_Compline_Audit_Report.md",
+      "target_name": "9686e761_Small_Compline_Audit_Report.md",
+      "target_rel_path": "docs/historical_artifacts/9686e761_Small_Compline_Audit_Report.md",
+      "size": 1292,
+      "summary": "Fine-Tooth Comb Audit Report: Small Compline"
+    },
+    {
+      "cid": "9686e761-280f-434e-9d19-e1c17478fcc5",
+      "short_cid": "9686e761",
+      "created_at": "2026-05-29T23:31:12",
+      "orig_name": "Small_Compline_Edit_Script.md",
+      "target_name": "9686e761_Small_Compline_Edit_Script.md",
+      "target_rel_path": "docs/historical_artifacts/9686e761_Small_Compline_Edit_Script.md",
+      "size": 964,
+      "summary": "Synthesized Edit Script: Small Compline"
+    },
+    {
+      "cid": "9686e761-280f-434e-9d19-e1c17478fcc5",
+      "short_cid": "9686e761",
+      "created_at": "2026-05-29T23:31:12",
+      "orig_name": "Small_Vespers_Audit_Report.md",
+      "target_name": "9686e761_Small_Vespers_Audit_Report.md",
+      "target_rel_path": "docs/historical_artifacts/9686e761_Small_Vespers_Audit_Report.md",
+      "size": 1314,
+      "summary": "Fine-Tooth Comb Audit Report: Small Vespers"
+    },
+    {
+      "cid": "9686e761-280f-434e-9d19-e1c17478fcc5",
+      "short_cid": "9686e761",
+      "created_at": "2026-05-29T23:31:12",
+      "orig_name": "Small_Vespers_Edit_Script.md",
+      "target_name": "9686e761_Small_Vespers_Edit_Script.md",
+      "target_rel_path": "docs/historical_artifacts/9686e761_Small_Vespers_Edit_Script.md",
+      "size": 1021,
+      "summary": "Synthesized Edit Script: Small Vespers"
+    },
+    {
+      "cid": "9686e761-280f-434e-9d19-e1c17478fcc5",
+      "short_cid": "9686e761",
+      "created_at": "2026-05-29T23:31:12",
+      "orig_name": "Sunday_Midnight_Office_Audit_Report.md",
+      "target_name": "9686e761_Sunday_Midnight_Office_Audit_Report.md",
+      "target_rel_path": "docs/historical_artifacts/9686e761_Sunday_Midnight_Office_Audit_Report.md",
+      "size": 1425,
+      "summary": "Fine-Tooth Comb Audit Report: Sunday Midnight Office"
+    },
+    {
+      "cid": "9686e761-280f-434e-9d19-e1c17478fcc5",
+      "short_cid": "9686e761",
+      "created_at": "2026-05-29T23:31:12",
+      "orig_name": "Sunday_Midnight_Office_Edit_Script.md",
+      "target_name": "9686e761_Sunday_Midnight_Office_Edit_Script.md",
+      "target_rel_path": "docs/historical_artifacts/9686e761_Sunday_Midnight_Office_Edit_Script.md",
+      "size": 1024,
+      "summary": "Synthesized Edit Script: Sunday Midnight Office"
+    },
+    {
+      "cid": "9686e761-280f-434e-9d19-e1c17478fcc5",
+      "short_cid": "9686e761",
+      "created_at": "2026-05-29T23:31:12",
+      "orig_name": "task.md",
+      "target_name": "9686e761_task.md",
+      "target_rel_path": "docs/historical_artifacts/9686e761_task.md",
+      "size": 607,
+      "summary": "Native Gemini Exhaustive Auditing Loop"
+    },
+    {
+      "cid": "9686e761-280f-434e-9d19-e1c17478fcc5",
+      "short_cid": "9686e761",
+      "created_at": "2026-05-29T23:31:12",
+      "orig_name": "Third_Hour_Audit_Report.md",
+      "target_name": "9686e761_Third_Hour_Audit_Report.md",
+      "target_rel_path": "docs/historical_artifacts/9686e761_Third_Hour_Audit_Report.md",
+      "size": 1468,
+      "summary": "Fine-Tooth Comb Audit Report: Third Hour"
+    },
+    {
+      "cid": "9686e761-280f-434e-9d19-e1c17478fcc5",
+      "short_cid": "9686e761",
+      "created_at": "2026-05-29T23:31:12",
+      "orig_name": "Third_Hour_Edit_Script.md",
+      "target_name": "9686e761_Third_Hour_Edit_Script.md",
+      "target_rel_path": "docs/historical_artifacts/9686e761_Third_Hour_Edit_Script.md",
+      "size": 1153,
+      "summary": "Synthesized Edit Script: Third Hour"
+    },
+    {
+      "cid": "9686e761-280f-434e-9d19-e1c17478fcc5",
+      "short_cid": "9686e761",
+      "created_at": "2026-05-29T23:31:12",
+      "orig_name": "walkthrough.md",
+      "target_name": "9686e761_walkthrough.md",
+      "target_rel_path": "docs/historical_artifacts/9686e761_walkthrough.md",
+      "size": 2811,
+      "summary": "Walkthrough: The Exhaustive Canonical Auditing"
+    },
+    {
+      "cid": "bb1edbb5-7a95-458f-954c-8341e65a175b",
+      "short_cid": "bb1edbb5",
+      "created_at": "2026-06-09T04:42:42",
+      "orig_name": "gap_analysis_dolnytsky.md",
+      "target_name": "bb1edbb5_gap_analysis_dolnytsky.md",
+      "target_rel_path": "docs/historical_artifacts/bb1edbb5_gap_analysis_dolnytsky.md",
+      "size": 3226,
+      "summary": "Dolnytsky Implementation Gap Analysis"
+    },
+    {
+      "cid": "bb1edbb5-7a95-458f-954c-8341e65a175b",
+      "short_cid": "bb1edbb5",
+      "created_at": "2026-06-09T04:42:42",
+      "orig_name": "implementation_plan.md",
+      "target_name": "bb1edbb5_implementation_plan.md",
+      "target_rel_path": "docs/historical_artifacts/bb1edbb5_implementation_plan.md",
+      "size": 3208,
+      "summary": "Implementation Plan: Expand Dolnytsky Typikon Implementation Reference"
+    },
+    {
+      "cid": "bb1edbb5-7a95-458f-954c-8341e65a175b",
+      "short_cid": "bb1edbb5",
+      "created_at": "2026-06-09T04:42:42",
+      "orig_name": "task.md",
+      "target_name": "bb1edbb5_task.md",
+      "target_rel_path": "docs/historical_artifacts/bb1edbb5_task.md",
+      "size": 757,
+      "summary": "Tasks: Update Dolnytsky Implementation Documentation"
+    },
+    {
+      "cid": "bb1edbb5-7a95-458f-954c-8341e65a175b",
+      "short_cid": "bb1edbb5",
+      "created_at": "2026-06-09T04:42:42",
+      "orig_name": "walkthrough.md",
+      "target_name": "bb1edbb5_walkthrough.md",
+      "target_rel_path": "docs/historical_artifacts/bb1edbb5_walkthrough.md",
+      "size": 2975,
+      "summary": "Walkthrough: Expanded Dolnytsky Typikon Implementation Documentation"
+    },
+    {
+      "cid": "9921d969-3a5c-4531-a4b6-3e899725121a",
+      "short_cid": "9921d969",
+      "created_at": "2026-06-13T02:12:59",
+      "orig_name": "implementation_plan.md",
+      "target_name": "9921d969_implementation_plan.md",
+      "target_rel_path": "docs/historical_artifacts/9921d969_implementation_plan.md",
+      "size": 3682,
+      "summary": "Implementation Plan - John the Baptist Category & Weekday Exceptions"
+    },
+    {
+      "cid": "9921d969-3a5c-4531-a4b6-3e899725121a",
+      "short_cid": "9921d969",
+      "created_at": "2026-06-13T02:12:59",
+      "orig_name": "task.md",
+      "target_name": "9921d969_task.md",
+      "target_rel_path": "docs/historical_artifacts/9921d969_task.md",
+      "size": 818,
+      "summary": "- [x] Centralized Category Badge Classification"
+    },
+    {
+      "cid": "9921d969-3a5c-4531-a4b6-3e899725121a",
+      "short_cid": "9921d969",
+      "created_at": "2026-06-13T02:12:59",
+      "orig_name": "triodion_lviv_architecture.md",
+      "target_name": "9921d969_triodion_lviv_architecture.md",
+      "target_rel_path": "docs/historical_artifacts/9921d969_triodion_lviv_architecture.md",
+      "size": 4575,
+      "summary": "Triodion Season Paradigms: Lviv 2010 vs. Custom Case Expansions"
+    },
+    {
+      "cid": "9921d969-3a5c-4531-a4b6-3e899725121a",
+      "short_cid": "9921d969",
+      "created_at": "2026-06-13T02:12:59",
+      "orig_name": "typikon_architecture.md",
+      "target_name": "9921d969_typikon_architecture.md",
+      "target_rel_path": "docs/historical_artifacts/9921d969_typikon_architecture.md",
+      "size": 5408,
+      "summary": "UGCC Typikon & Dashboard Architecture"
+    },
+    {
+      "cid": "9921d969-3a5c-4531-a4b6-3e899725121a",
+      "short_cid": "9921d969",
+      "created_at": "2026-06-13T02:12:59",
+      "orig_name": "walkthrough.md",
+      "target_name": "9921d969_walkthrough.md",
+      "target_rel_path": "docs/historical_artifacts/9921d969_walkthrough.md",
+      "size": 6611,
+      "summary": "Saint Category Splitting Fix & Verification Walkthrough"
+    },
+    {
+      "cid": "9025717e-97c6-4ee4-bc59-6a97eba223c0",
+      "short_cid": "9025717e",
+      "created_at": "2026-07-05T17:26:26",
+      "orig_name": "implementation_plan.md",
+      "target_name": "9025717e_implementation_plan.md",
+      "target_rel_path": "docs/historical_artifacts/9025717e_implementation_plan.md",
+      "size": 3319,
+      "summary": "Implementation Plan - Stamford and Royal Doors Troparia/Kontakia Comparison"
+    },
+    {
+      "cid": "9025717e-97c6-4ee4-bc59-6a97eba223c0",
+      "short_cid": "9025717e",
+      "created_at": "2026-07-05T17:26:26",
+      "orig_name": "stamford_royaldoors_troparia_comparison.md",
+      "target_name": "9025717e_stamford_royaldoors_troparia_comparison.md",
+      "target_rel_path": "docs/historical_artifacts/9025717e_stamford_royaldoors_troparia_comparison.md",
+      "size": 238945,
+      "summary": "Report: Stamford Divine Office vs Royal Doors Troparia & Kontakia Comparison"
+    },
+    {
+      "cid": "9025717e-97c6-4ee4-bc59-6a97eba223c0",
+      "short_cid": "9025717e",
+      "created_at": "2026-07-05T17:26:26",
+      "orig_name": "stamford_royaldoors_troparia_comparison_yearly.md",
+      "target_name": "9025717e_stamford_royaldoors_troparia_comparison_yearly.md",
+      "target_rel_path": "docs/historical_artifacts/9025717e_stamford_royaldoors_troparia_comparison_yearly.md",
+      "size": 307485,
+      "summary": "Report: Stamford vs Royal Doors Translation Evolution (2017 - 2026)"
+    },
+    {
+      "cid": "9025717e-97c6-4ee4-bc59-6a97eba223c0",
+      "short_cid": "9025717e",
+      "created_at": "2026-07-05T17:26:26",
+      "orig_name": "task.md",
+      "target_name": "9025717e_task.md",
+      "target_rel_path": "docs/historical_artifacts/9025717e_task.md",
+      "size": 1098,
+      "summary": "- [x] Standardize the Stamford TROPARIA MENAION.md file into our flat key schema (menaion.MM_DD.liturgy.hymn_type_index)"
+    },
+    {
+      "cid": "9025717e-97c6-4ee4-bc59-6a97eba223c0",
+      "short_cid": "9025717e",
+      "created_at": "2026-07-05T17:26:26",
+      "orig_name": "translation_evolution_analysis.md",
+      "target_name": "9025717e_translation_evolution_analysis.md",
+      "target_rel_path": "docs/historical_artifacts/9025717e_translation_evolution_analysis.md",
+      "size": 4860,
+      "summary": "Translation Evolution & Lambertsen Assessment Report"
+    },
+    {
+      "cid": "9025717e-97c6-4ee4-bc59-6a97eba223c0",
+      "short_cid": "9025717e",
+      "created_at": "2026-07-05T17:26:26",
+      "orig_name": "walkthrough.md",
+      "target_name": "9025717e_walkthrough.md",
+      "target_rel_path": "docs/historical_artifacts/9025717e_walkthrough.md",
+      "size": 3016,
+      "summary": "Walkthrough - Stamford vs Royal Doors Troparia & Kontakia Translation Evolution"
+    },
+    {
+      "cid": "90d5fd0e-d127-4ae1-9f25-cb47dc7efbd9",
+      "short_cid": "90d5fd0e",
+      "created_at": "2026-06-13T15:07:00",
+      "orig_name": "implementation_plan.md",
+      "target_name": "90d5fd0e_implementation_plan.md",
+      "target_rel_path": "docs/historical_artifacts/90d5fd0e_implementation_plan.md",
+      "size": 2384,
+      "summary": "Reconcile References to the Unified Master File"
+    },
+    {
+      "cid": "90d5fd0e-d127-4ae1-9f25-cb47dc7efbd9",
+      "short_cid": "90d5fd0e",
+      "created_at": "2026-06-13T15:07:00",
+      "orig_name": "walkthrough.md",
+      "target_name": "90d5fd0e_walkthrough.md",
+      "target_rel_path": "docs/historical_artifacts/90d5fd0e_walkthrough.md",
+      "size": 2833,
+      "summary": "Walkthrough: Citation & Reference Reconciliation to Unified Master File"
+    },
+    {
+      "cid": "add40e87-6fd4-4569-a0ee-60dbdaf42ab0",
+      "short_cid": "add40e87",
+      "created_at": "2026-06-10T02:43:37",
+      "orig_name": "implementation_plan.md",
+      "target_name": "add40e87_implementation_plan.md",
+      "target_rel_path": "docs/historical_artifacts/add40e87_implementation_plan.md",
+      "size": 3081,
+      "summary": "Transition to DeepSeek-Only API Configuration"
+    },
+    {
+      "cid": "add40e87-6fd4-4569-a0ee-60dbdaf42ab0",
+      "short_cid": "add40e87",
+      "created_at": "2026-06-10T02:43:37",
+      "orig_name": "onboarding_assessment.md",
+      "target_name": "add40e87_onboarding_assessment.md",
+      "target_rel_path": "docs/historical_artifacts/add40e87_onboarding_assessment.md",
+      "size": 8160,
+      "summary": "Onboarding Assessment & Brain Control Analysis"
+    },
+    {
+      "cid": "add40e87-6fd4-4569-a0ee-60dbdaf42ab0",
+      "short_cid": "add40e87",
+      "created_at": "2026-06-10T02:43:37",
+      "orig_name": "task.md",
+      "target_name": "add40e87_task.md",
+      "target_rel_path": "docs/historical_artifacts/add40e87_task.md",
+      "size": 527,
+      "summary": "DeepSeek Migration Tasks"
+    },
+    {
+      "cid": "add40e87-6fd4-4569-a0ee-60dbdaf42ab0",
+      "short_cid": "add40e87",
+      "created_at": "2026-06-10T02:43:37",
+      "orig_name": "walkthrough.md",
+      "target_name": "add40e87_walkthrough.md",
+      "target_rel_path": "docs/historical_artifacts/add40e87_walkthrough.md",
+      "size": 3571,
+      "summary": "Walkthrough: Transitioning Spoke to DeepSeek API"
+    },
+    {
+      "cid": "8ce00637-0d09-4c54-ab5c-d255a3afcbf2",
+      "short_cid": "8ce00637",
+      "created_at": "2026-06-13T22:49:47",
+      "orig_name": "onboarding_assessment.md",
+      "target_name": "8ce00637_onboarding_assessment.md",
+      "target_rel_path": "docs/historical_artifacts/8ce00637_onboarding_assessment.md",
+      "size": 6593,
+      "summary": "Comprehensive Onboarding Assessment"
+    },
+    {
+      "cid": "92dae9b2-3c42-4244-9591-d545d1b9a341",
+      "short_cid": "92dae9b2",
+      "created_at": "2026-07-14T00:55:32",
+      "orig_name": "branch_triage_backup_before_rewrite.md",
+      "target_name": "92dae9b2_branch_triage_backup_before_rewrite.md",
+      "target_rel_path": "docs/historical_artifacts/92dae9b2_branch_triage_backup_before_rewrite.md",
+      "size": 39,
+      "summary": "<!-- [GENERATOR: DeepSeek-V4-Pro] -->"
+    },
+    {
+      "cid": "92dae9b2-3c42-4244-9591-d545d1b9a341",
+      "short_cid": "92dae9b2",
+      "created_at": "2026-07-14T00:55:32",
+      "orig_name": "branch_triage_fix_schema_validation.md",
+      "target_name": "92dae9b2_branch_triage_fix_schema_validation.md",
+      "target_rel_path": "docs/historical_artifacts/92dae9b2_branch_triage_fix_schema_validation.md",
+      "size": 9357,
+      "summary": "Perfected Implementation & Triage Plan: `fix/schema-validation-repair`"
+    },
+    {
+      "cid": "92dae9b2-3c42-4244-9591-d545d1b9a341",
+      "short_cid": "92dae9b2",
+      "created_at": "2026-07-14T00:55:32",
+      "orig_name": "branch_triage_main.md",
+      "target_name": "92dae9b2_branch_triage_main.md",
+      "target_rel_path": "docs/historical_artifacts/92dae9b2_branch_triage_main.md",
+      "size": 39,
+      "summary": "<!-- [GENERATOR: DeepSeek-V4-Pro] -->"
+    },
+    {
+      "cid": "92dae9b2-3c42-4244-9591-d545d1b9a341",
+      "short_cid": "92dae9b2",
+      "created_at": "2026-07-14T00:55:32",
+      "orig_name": "implementation_plan.md",
+      "target_name": "92dae9b2_implementation_plan.md",
+      "target_rel_path": "docs/historical_artifacts/92dae9b2_implementation_plan.md",
+      "size": 17135,
+      "summary": "Perfected Implementation Plan: Deep Research & Expansion of the Computational Liturgics Monograph"
+    },
+    {
+      "cid": "92dae9b2-3c42-4244-9591-d545d1b9a341",
+      "short_cid": "92dae9b2",
+      "created_at": "2026-07-14T00:55:32",
+      "orig_name": "master_wings_and_branches_triage.md",
+      "target_name": "92dae9b2_master_wings_and_branches_triage.md",
+      "target_rel_path": "docs/historical_artifacts/92dae9b2_master_wings_and_branches_triage.md",
+      "size": 8900,
+      "summary": "Master Architectural & Git Triage: All Wings & Branches \u2014 Perfected, Evidence-Gated & Terminology-Enforced"
+    },
+    {
+      "cid": "92dae9b2-3c42-4244-9591-d545d1b9a341",
+      "short_cid": "92dae9b2",
+      "created_at": "2026-07-14T00:55:32",
+      "orig_name": "spoke_triage_propers_sourcer.md",
+      "target_name": "92dae9b2_spoke_triage_propers_sourcer.md",
+      "target_rel_path": "docs/historical_artifacts/92dae9b2_spoke_triage_propers_sourcer.md",
+      "size": 8242,
+      "summary": "Onboarding & Granular Triage Plan: Propers Sourcer (`Festal Propers Comparisons` Spoke)"
+    },
+    {
+      "cid": "92dae9b2-3c42-4244-9591-d545d1b9a341",
+      "short_cid": "92dae9b2",
+      "created_at": "2026-07-14T00:55:32",
+      "orig_name": "spoke_triage_revitalize.md",
+      "target_name": "92dae9b2_spoke_triage_revitalize.md",
+      "target_rel_path": "docs/historical_artifacts/92dae9b2_spoke_triage_revitalize.md",
+      "size": 871,
+      "summary": "Granular Triage Plan: Revitalize Spoke (`Revitalize`)"
+    },
+    {
+      "cid": "92dae9b2-3c42-4244-9591-d545d1b9a341",
+      "short_cid": "92dae9b2",
+      "created_at": "2026-07-14T00:55:32",
+      "orig_name": "spoke_triage_translation.md",
+      "target_name": "92dae9b2_spoke_triage_translation.md",
+      "target_rel_path": "docs/historical_artifacts/92dae9b2_spoke_triage_translation.md",
+      "size": 1025,
+      "summary": "Granular Triage Plan: Translation Spoke (`Translation`)"
+    },
+    {
+      "cid": "92dae9b2-3c42-4244-9591-d545d1b9a341",
+      "short_cid": "92dae9b2",
+      "created_at": "2026-07-14T00:55:32",
+      "orig_name": "task.md",
+      "target_name": "92dae9b2_task.md",
+      "target_rel_path": "docs/historical_artifacts/92dae9b2_task.md",
+      "size": 12617,
+      "summary": "Task Checklist: Full Historical Backtrace & Vibe-Coding Chronicle (Perfected)"
+    },
+    {
+      "cid": "92dae9b2-3c42-4244-9591-d545d1b9a341",
+      "short_cid": "92dae9b2",
+      "created_at": "2026-07-14T00:55:32",
+      "orig_name": "walkthrough.md",
+      "target_name": "92dae9b2_walkthrough.md",
+      "target_rel_path": "docs/historical_artifacts/92dae9b2_walkthrough.md",
+      "size": 11232,
+      "summary": "Typikon Coded \u2014 Compliance Reformation & Safeguards: Perfected Implementation Plan"
+    },
+    {
+      "cid": "92dae9b2-3c42-4244-9591-d545d1b9a341",
+      "short_cid": "92dae9b2",
+      "created_at": "2026-07-14T00:55:32",
+      "orig_name": "wing1_triage_core_logic_engine.md",
+      "target_name": "92dae9b2_wing1_triage_core_logic_engine.md",
+      "target_rel_path": "docs/historical_artifacts/92dae9b2_wing1_triage_core_logic_engine.md",
+      "size": 1763,
+      "summary": "Granular Triage Plan: Wing 1 \u2014 Core Logic Engine & Computus"
+    },
+    {
+      "cid": "92dae9b2-3c42-4244-9591-d545d1b9a341",
+      "short_cid": "92dae9b2",
+      "created_at": "2026-07-14T00:55:32",
+      "orig_name": "wing2_triage_service_structures.md",
+      "target_name": "92dae9b2_wing2_triage_service_structures.md",
+      "target_rel_path": "docs/historical_artifacts/92dae9b2_wing2_triage_service_structures.md",
+      "size": 1574,
+      "summary": "Granular Triage Plan: Wing 2 \u2014 Service Structures & Choreography"
+    },
+    {
+      "cid": "92dae9b2-3c42-4244-9591-d545d1b9a341",
+      "short_cid": "92dae9b2",
+      "created_at": "2026-07-14T00:55:32",
+      "orig_name": "wing3_triage_text_databases_and_recensions.md",
+      "target_name": "92dae9b2_wing3_triage_text_databases_and_recensions.md",
+      "target_rel_path": "docs/historical_artifacts/92dae9b2_wing3_triage_text_databases_and_recensions.md",
+      "size": 1444,
+      "summary": "Granular Triage Plan: Wing 3 \u2014 Text Databases & Recensions"
+    },
+    {
+      "cid": "92dae9b2-3c42-4244-9591-d545d1b9a341",
+      "short_cid": "92dae9b2",
+      "created_at": "2026-07-14T00:55:32",
+      "orig_name": "wing4_triage_kyivan_musicology_and_mei.md",
+      "target_name": "92dae9b2_wing4_triage_kyivan_musicology_and_mei.md",
+      "target_rel_path": "docs/historical_artifacts/92dae9b2_wing4_triage_kyivan_musicology_and_mei.md",
+      "size": 1170,
+      "summary": "Granular Triage Plan: Wing 4 \u2014 Kyivan Musicology & MEI"
+    },
+    {
+      "cid": "92dae9b2-3c42-4244-9591-d545d1b9a341",
+      "short_cid": "92dae9b2",
+      "created_at": "2026-07-14T00:55:32",
+      "orig_name": "wing5_triage_cantor_dashboard_and_ui_api.md",
+      "target_name": "92dae9b2_wing5_triage_cantor_dashboard_and_ui_api.md",
+      "target_rel_path": "docs/historical_artifacts/92dae9b2_wing5_triage_cantor_dashboard_and_ui_api.md",
+      "size": 1650,
+      "summary": "Granular Triage Plan: Wing 5 \u2014 Cantor Dashboard & UI API"
+    },
+    {
+      "cid": "8c0414db-8f1b-43e1-a186-76446f60cae5",
+      "short_cid": "8c0414db",
+      "created_at": "2026-09-06T20:48:51",
+      "orig_name": "implementation_plan.md",
+      "target_name": "8c0414db_implementation_plan.md",
+      "target_rel_path": "docs/historical_artifacts/8c0414db_implementation_plan.md",
+      "size": 7739,
+      "summary": "Implementation Plan: Dolnytsky Part V (Temple / Patronal Feasts) Canonical Audit & Fortification"
+    },
+    {
+      "cid": "8c0414db-8f1b-43e1-a186-76446f60cae5",
+      "short_cid": "8c0414db",
+      "created_at": "2026-09-06T20:48:51",
+      "orig_name": "walkthrough.md",
+      "target_name": "8c0414db_walkthrough.md",
+      "target_rel_path": "docs/historical_artifacts/8c0414db_walkthrough.md",
+      "size": 4456,
+      "summary": "Walkthrough: Dolnytsky Part V (Temple / Patronal Feasts) Canonical Audit & Fortification"
+    }
+  ],
+  "tier2": [
+    {
+      "cid": "16976efd-f682-4efa-bab9-3cd1ba749a8e",
+      "short_cid": "16976efd",
+      "created_at": "2026-08-24T23:18:51",
+      "orig_name": "media_1787613530551.png",
+      "target_name": "16976efd_media_1787613530551.png",
+      "target_rel_path": "docs/user_evidence/16976efd_media_1787613530551.png",
+      "size": 537299,
+      "summary": "User evidence image/document: media_1787613530551.png"
+    },
+    {
+      "cid": "16976efd-f682-4efa-bab9-3cd1ba749a8e",
+      "short_cid": "16976efd",
+      "created_at": "2026-08-24T23:18:51",
+      "orig_name": "media_1787613561619.png",
+      "target_name": "16976efd_media_1787613561619.png",
+      "target_rel_path": "docs/user_evidence/16976efd_media_1787613561619.png",
+      "size": 226709,
+      "summary": "User evidence image/document: media_1787613561619.png"
+    },
+    {
+      "cid": "16976efd-f682-4efa-bab9-3cd1ba749a8e",
+      "short_cid": "16976efd",
+      "created_at": "2026-08-24T23:18:51",
+      "orig_name": "media_1787613568475.png",
+      "target_name": "16976efd_media_1787613568475.png",
+      "target_rel_path": "docs/user_evidence/16976efd_media_1787613568475.png",
+      "size": 301622,
+      "summary": "User evidence image/document: media_1787613568475.png"
+    },
+    {
+      "cid": "e5ff2e9a-16b3-401d-bdc1-57dd450d6e62",
+      "short_cid": "e5ff2e9a",
+      "created_at": "2026-09-12T17:53:34",
+      "orig_name": "media_1789235612808.png",
+      "target_name": "e5ff2e9a_media_1789235612808.png",
+      "target_rel_path": "docs/user_evidence/e5ff2e9a_media_1789235612808.png",
+      "size": 63436,
+      "summary": "User evidence image/document: media_1789235612808.png"
+    },
+    {
+      "cid": "92dae9b2-3c42-4244-9591-d545d1b9a341",
+      "short_cid": "92dae9b2",
+      "created_at": "2026-07-14T00:55:32",
+      "orig_name": "media_1787615145385.png",
+      "target_name": "92dae9b2_media_1787615145385.png",
+      "target_rel_path": "docs/user_evidence/92dae9b2_media_1787615145385.png",
+      "size": 2941,
+      "summary": "User evidence image/document: media_1787615145385.png"
+    },
+    {
+      "cid": "92dae9b2-3c42-4244-9591-d545d1b9a341",
+      "short_cid": "92dae9b2",
+      "created_at": "2026-07-14T00:55:32",
+      "orig_name": "media_1787618481074.png",
+      "target_name": "92dae9b2_media_1787618481074.png",
+      "target_rel_path": "docs/user_evidence/92dae9b2_media_1787618481074.png",
+      "size": 8684,
+      "summary": "User evidence image/document: media_1787618481074.png"
+    },
+    {
+      "cid": "8c0414db-8f1b-43e1-a186-76446f60cae5",
+      "short_cid": "8c0414db",
+      "created_at": "2026-09-06T20:48:51",
+      "orig_name": "media_1788727729309.png",
+      "target_name": "8c0414db_media_1788727729309.png",
+      "target_rel_path": "docs/user_evidence/8c0414db_media_1788727729309.png",
+      "size": 197606,
+      "summary": "User evidence image/document: media_1788727729309.png"
+    },
+    {
+      "cid": "8c0414db-8f1b-43e1-a186-76446f60cae5",
+      "short_cid": "8c0414db",
+      "created_at": "2026-09-06T20:48:51",
+      "orig_name": "media_1788741190614.png",
+      "target_name": "8c0414db_media_1788741190614.png",
+      "target_rel_path": "docs/user_evidence/8c0414db_media_1788741190614.png",
+      "size": 123857,
+      "summary": "User evidence image/document: media_1788741190614.png"
+    },
+    {
+      "cid": "8c0414db-8f1b-43e1-a186-76446f60cae5",
+      "short_cid": "8c0414db",
+      "created_at": "2026-09-06T20:48:51",
+      "orig_name": "media_1788748538491.png",
+      "target_name": "8c0414db_media_1788748538491.png",
+      "target_rel_path": "docs/user_evidence/8c0414db_media_1788748538491.png",
+      "size": 147731,
+      "summary": "User evidence image/document: media_1788748538491.png"
+    },
+    {
+      "cid": "8c0414db-8f1b-43e1-a186-76446f60cae5",
+      "short_cid": "8c0414db",
+      "created_at": "2026-09-06T20:48:51",
+      "orig_name": "media_1788748552878.png",
+      "target_name": "8c0414db_media_1788748552878.png",
+      "target_rel_path": "docs/user_evidence/8c0414db_media_1788748552878.png",
+      "size": 169046,
+      "summary": "User evidence image/document: media_1788748552878.png"
+    }
+  ],
+  "tier3": [
+    {
+      "cid": "b1b808c7-ccba-4f41-a8dd-6237189084c7",
+      "short_cid": "b1b808c7",
+      "created_at": "2026-09-12T18:00:31",
+      "orig_name": "advanced_fuzzy_alignment.py",
+      "target_name": "b1b808c7_advanced_fuzzy_alignment.py",
+      "target_rel_path": "scripts/archived_pipelines/b1b808c7_advanced_fuzzy_alignment.py",
+      "size": 4678,
+      "summary": "!/usr/bin/env python3"
+    },
+    {
+      "cid": "b1b808c7-ccba-4f41-a8dd-6237189084c7",
+      "short_cid": "b1b808c7",
+      "created_at": "2026-09-12T18:00:31",
+      "orig_name": "body_collation_audit.py",
+      "target_name": "b1b808c7_body_collation_audit.py",
+      "target_rel_path": "scripts/archived_pipelines/b1b808c7_body_collation_audit.py",
+      "size": 3977,
+      "summary": "!/usr/bin/env python3"
+    },
+    {
+      "cid": "b1b808c7-ccba-4f41-a8dd-6237189084c7",
+      "short_cid": "b1b808c7",
+      "created_at": "2026-09-12T18:00:31",
+      "orig_name": "clean_md_footnotes.py",
+      "target_name": "b1b808c7_clean_md_footnotes.py",
+      "target_rel_path": "scripts/archived_pipelines/b1b808c7_clean_md_footnotes.py",
+      "size": 1834,
+      "summary": "!/usr/bin/env python3"
+    },
+    {
+      "cid": "b1b808c7-ccba-4f41-a8dd-6237189084c7",
+      "short_cid": "b1b808c7",
+      "created_at": "2026-09-12T18:00:31",
+      "orig_name": "deep_alignment_coverage.py",
+      "target_name": "b1b808c7_deep_alignment_coverage.py",
+      "target_rel_path": "scripts/archived_pipelines/b1b808c7_deep_alignment_coverage.py",
+      "size": 3821,
+      "summary": "!/usr/bin/env python3"
+    },
+    {
+      "cid": "b1b808c7-ccba-4f41-a8dd-6237189084c7",
+      "short_cid": "b1b808c7",
+      "created_at": "2026-09-12T18:00:31",
+      "orig_name": "extract_docx_corpus.py",
+      "target_name": "b1b808c7_extract_docx_corpus.py",
+      "target_rel_path": "scripts/archived_pipelines/b1b808c7_extract_docx_corpus.py",
+      "size": 5361,
+      "summary": "!/usr/bin/env python3"
+    },
+    {
+      "cid": "b1b808c7-ccba-4f41-a8dd-6237189084c7",
+      "short_cid": "b1b808c7",
+      "created_at": "2026-09-12T18:00:31",
+      "orig_name": "extract_ukrainian_doc_corpus.py",
+      "target_name": "b1b808c7_extract_ukrainian_doc_corpus.py",
+      "target_rel_path": "scripts/archived_pipelines/b1b808c7_extract_ukrainian_doc_corpus.py",
+      "size": 3348,
+      "summary": "!/usr/bin/env python3"
+    },
+    {
+      "cid": "b1b808c7-ccba-4f41-a8dd-6237189084c7",
+      "short_cid": "b1b808c7",
+      "created_at": "2026-09-12T18:00:31",
+      "orig_name": "find_all_diagram_targets.py",
+      "target_name": "b1b808c7_find_all_diagram_targets.py",
+      "target_rel_path": "scripts/archived_pipelines/b1b808c7_find_all_diagram_targets.py",
+      "size": 2223,
+      "summary": "!/usr/bin/env python3"
+    },
+    {
+      "cid": "b1b808c7-ccba-4f41-a8dd-6237189084c7",
+      "short_cid": "b1b808c7",
+      "created_at": "2026-09-12T18:00:31",
+      "orig_name": "find_anchor_points.py",
+      "target_name": "b1b808c7_find_anchor_points.py",
+      "target_rel_path": "scripts/archived_pipelines/b1b808c7_find_anchor_points.py",
+      "size": 820,
+      "summary": "!/usr/bin/env python3"
+    },
+    {
+      "cid": "b1b808c7-ccba-4f41-a8dd-6237189084c7",
+      "short_cid": "b1b808c7",
+      "created_at": "2026-09-12T18:00:31",
+      "orig_name": "fix_footnotes_contamination.py",
+      "target_name": "b1b808c7_fix_footnotes_contamination.py",
+      "target_rel_path": "scripts/archived_pipelines/b1b808c7_fix_footnotes_contamination.py",
+      "size": 2541,
+      "summary": "!/usr/bin/env python3"
+    },
+    {
+      "cid": "b1b808c7-ccba-4f41-a8dd-6237189084c7",
+      "short_cid": "b1b808c7",
+      "created_at": "2026-09-12T18:00:31",
+      "orig_name": "insert_all_diagrams.py",
+      "target_name": "b1b808c7_insert_all_diagrams.py",
+      "target_rel_path": "scripts/archived_pipelines/b1b808c7_insert_all_diagrams.py",
+      "size": 6846,
+      "summary": "!/usr/bin/env python3"
+    },
+    {
+      "cid": "b1b808c7-ccba-4f41-a8dd-6237189084c7",
+      "short_cid": "b1b808c7",
+      "created_at": "2026-09-12T18:00:31",
+      "orig_name": "insert_md_appendix_diagrams.py",
+      "target_name": "b1b808c7_insert_md_appendix_diagrams.py",
+      "target_rel_path": "scripts/archived_pipelines/b1b808c7_insert_md_appendix_diagrams.py",
+      "size": 6722,
+      "summary": "!/usr/bin/env python3"
+    },
+    {
+      "cid": "b1b808c7-ccba-4f41-a8dd-6237189084c7",
+      "short_cid": "b1b808c7",
+      "created_at": "2026-09-12T18:00:31",
+      "orig_name": "restore_appendix_diagrams.py",
+      "target_name": "b1b808c7_restore_appendix_diagrams.py",
+      "target_rel_path": "scripts/archived_pipelines/b1b808c7_restore_appendix_diagrams.py",
+      "size": 5310,
+      "summary": "!/usr/bin/env python3"
+    },
+    {
+      "cid": "b1b808c7-ccba-4f41-a8dd-6237189084c7",
+      "short_cid": "b1b808c7",
+      "created_at": "2026-09-12T18:00:31",
+      "orig_name": "ship_dolnytsky_deliverables.py",
+      "target_name": "b1b808c7_ship_dolnytsky_deliverables.py",
+      "target_rel_path": "scripts/archived_pipelines/b1b808c7_ship_dolnytsky_deliverables.py",
+      "size": 4304,
+      "summary": "!/usr/bin/env python3"
+    },
+    {
+      "cid": "b1b808c7-ccba-4f41-a8dd-6237189084c7",
+      "short_cid": "b1b808c7",
+      "created_at": "2026-09-12T18:00:31",
+      "orig_name": "triangulation_engine.py",
+      "target_name": "b1b808c7_triangulation_engine.py",
+      "target_rel_path": "scripts/archived_pipelines/b1b808c7_triangulation_engine.py",
+      "size": 9229,
+      "summary": "!/usr/bin/env python3"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "align_all_headings.py",
+      "target_name": "1e566ed6_align_all_headings.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_align_all_headings.py",
+      "size": 9154,
+      "summary": "Matches e.g. \"3.4 December\" or \"3.10 June\""
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "align_headings_experiment.py",
+      "target_name": "1e566ed6_align_headings_experiment.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_align_headings_experiment.py",
+      "size": 6039,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "analyze_quotes.py",
+      "target_name": "1e566ed6_analyze_quotes.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_analyze_quotes.py",
+      "size": 798,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "apply_citation_model.py",
+      "target_name": "1e566ed6_apply_citation_model.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_apply_citation_model.py",
+      "size": 20263,
+      "summary": "Enforce UTF-8 stdout configuration for Windows environment"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "check_diff.py",
+      "target_name": "1e566ed6_check_diff.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_check_diff.py",
+      "size": 2992,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "check_temple.py",
+      "target_name": "1e566ed6_check_temple.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_check_temple.py",
+      "size": 492,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "compare_texts.py",
+      "target_name": "1e566ed6_compare_texts.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_compare_texts.py",
+      "size": 1014,
+      "summary": "doc1 = r\"C:\\Users\\augus\\.gemini\\antigravity\\brain\\1e566ed6-510f-4f9f-9987-1ea377eeb714\\scratch\\doc_text_utf8.txt\""
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "convert_ukr_to_utf8.py",
+      "target_name": "1e566ed6_convert_ukr_to_utf8.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_convert_ukr_to_utf8.py",
+      "size": 877,
+      "summary": "Verify it has cyrillic letters"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "copy_and_convert.py",
+      "target_name": "1e566ed6_copy_and_convert.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_copy_and_convert.py",
+      "size": 2268,
+      "summary": "1. Copy file locally"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "debug_align.py",
+      "target_name": "1e566ed6_debug_align.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_debug_align.py",
+      "size": 1992,
+      "summary": "Find 2.6"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "detailed_diff.py",
+      "target_name": "1e566ed6_detailed_diff.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_detailed_diff.py",
+      "size": 2935,
+      "summary": "Keep only alphanumeric chars"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "diagnose.py",
+      "target_name": "1e566ed6_diagnose.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_diagnose.py",
+      "size": 884,
+      "summary": "with open(r\"c:\\Users\\augus\\OneDrive\\Documents\\Google Antigravity\\Projects\\Typikon Coded\\Data\\Service Books\\Typikon\\backu"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "diagnose_bytes.py",
+      "target_name": "1e566ed6_diagnose_bytes.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_diagnose_bytes.py",
+      "size": 442,
+      "summary": "with open(r\"c:\\Users\\augus\\OneDrive\\Documents\\Google Antigravity\\Projects\\Typikon Coded\\Data\\Service Books\\Typikon\\backu"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "diagnose_mismatch.py",
+      "target_name": "1e566ed6_diagnose_mismatch.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_diagnose_mismatch.py",
+      "size": 931,
+      "summary": "Normalize"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "execute_alignments.py",
+      "target_name": "1e566ed6_execute_alignments.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_execute_alignments.py",
+      "size": 14282,
+      "summary": "1. Restore files from backup"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "extract_all_headings.py",
+      "target_name": "1e566ed6_extract_all_headings.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_extract_all_headings.py",
+      "size": 1686,
+      "summary": "Set stream encoding for Windows console compatibility"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "extract_appendix_sim.py",
+      "target_name": "1e566ed6_extract_appendix_sim.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_extract_appendix_sim.py",
+      "size": 920,
+      "summary": "Check if it doesn't start with a paragraph number like \"##### 97.\""
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "extract_docx.py",
+      "target_name": "1e566ed6_extract_docx.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_extract_docx.py",
+      "size": 1328,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "extract_headings_clean.py",
+      "target_name": "1e566ed6_extract_headings_clean.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_extract_headings_clean.py",
+      "size": 1888,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "extract_part5_sim.py",
+      "target_name": "1e566ed6_extract_part5_sim.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_extract_part5_sim.py",
+      "size": 507,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "extract_ukr_daily_matins.py",
+      "target_name": "1e566ed6_extract_ukr_daily_matins.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_extract_ukr_daily_matins.py",
+      "size": 1234,
+      "summary": "Let's find matches for \"\u0427\u0418\u041d \u041f\u041e\u0412\u0421\u042f\u041a\u0414\u0415\u041d\u041d\u041e\u0407 \u0423\u0422\u0420\u0415\u041d\u0406\""
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "faithful_format_part1.py",
+      "target_name": "1e566ed6_faithful_format_part1.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_faithful_format_part1.py",
+      "size": 144971,
+      "summary": "Normalize line endings"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "find_dense_sections.py",
+      "target_name": "1e566ed6_find_dense_sections.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_find_dense_sections.py",
+      "size": 2851,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "find_dialogues.py",
+      "target_name": "1e566ed6_find_dialogues.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_find_dialogues.py",
+      "size": 716,
+      "summary": "If the line is in uppercase and is not empty, and doesn't start with #"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "find_doc.py",
+      "target_name": "1e566ed6_find_doc.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_find_doc.py",
+      "size": 531,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "find_exaltation_line.py",
+      "target_name": "1e566ed6_find_exaltation_line.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_find_exaltation_line.py",
+      "size": 366,
+      "summary": "path = r\"c:\\Users\\augus\\OneDrive\\Documents\\Google Antigravity\\Projects\\Typikon Coded\\Data\\Service Books\\Typikon\\Final_Do"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "find_headings_in_parts.py",
+      "target_name": "1e566ed6_find_headings_in_parts.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_find_headings_in_parts.py",
+      "size": 3302,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "find_roman.py",
+      "target_name": "1e566ed6_find_roman.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_find_roman.py",
+      "size": 455,
+      "summary": "Match Roman numerals at the beginning of a line"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "find_vespers_liturgy.py",
+      "target_name": "1e566ed6_find_vespers_liturgy.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_find_vespers_liturgy.py",
+      "size": 1103,
+      "summary": "Let's search for \"\u0432\u0435\u0447\u0456\u0440\u043d\u044e \u0437 \u043b\u0456\u0442\u0443\u0440\u0433\u0456\u0454\u044e\" or \"\u0432\u0435\u0447\u0456\u0440\u043d\u044f \u0437 \u043b\u0456\u0442\u0443\u0440\u0433\u0456\u0454\u044e\" (case-insensitive)"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "fix_all_formatters.py",
+      "target_name": "1e566ed6_fix_all_formatters.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_fix_all_formatters.py",
+      "size": 4020,
+      "summary": "Resolve relative parts"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "format_appendix.py",
+      "target_name": "1e566ed6_format_appendix.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_format_appendix.py",
+      "size": 3111,
+      "summary": "Normalize line endings"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "format_glossary.py",
+      "target_name": "1e566ed6_format_glossary.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_format_glossary.py",
+      "size": 1191,
+      "summary": "Normalize line endings"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "format_part1.py",
+      "target_name": "1e566ed6_format_part1.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_format_part1.py",
+      "size": 72699,
+      "summary": "Normalize line endings to Windows style \\r\\n for consistency in replacement matching"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "format_part1_full.py",
+      "target_name": "1e566ed6_format_part1_full.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_format_part1_full.py",
+      "size": 134266,
+      "summary": "Normalize line endings to Windows style \\r\\n for consistency in replacement matching"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "format_part2.py",
+      "target_name": "1e566ed6_format_part2.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_format_part2.py",
+      "size": 7623,
+      "summary": "Normalize line endings"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "format_part3.py",
+      "target_name": "1e566ed6_format_part3.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_format_part3.py",
+      "size": 8605,
+      "summary": "Normalize line endings"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "format_part4.py",
+      "target_name": "1e566ed6_format_part4.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_format_part4.py",
+      "size": 8019,
+      "summary": "Normalize line endings"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "format_part5.py",
+      "target_name": "1e566ed6_format_part5.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_format_part5.py",
+      "size": 6515,
+      "summary": "Normalize line endings"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "get_headings.py",
+      "target_name": "1e566ed6_get_headings.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_get_headings.py",
+      "size": 603,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "get_history_around_1371.py",
+      "target_name": "1e566ed6_get_history_around_1371.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_get_history_around_1371.py",
+      "size": 859,
+      "summary": "Write output to file safely"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "get_remaining_headings.py",
+      "target_name": "1e566ed6_get_remaining_headings.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_get_remaining_headings.py",
+      "size": 1072,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "get_ukr_toc.py",
+      "target_name": "1e566ed6_get_ukr_toc.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_get_ukr_toc.py",
+      "size": 662,
+      "summary": "Find the start of the TOC"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "get_ukr_toc_remaining.py",
+      "target_name": "1e566ed6_get_ukr_toc_remaining.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_get_ukr_toc_remaining.py",
+      "size": 602,
+      "summary": "Find the start of the TOC"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "inspect_anchors.py",
+      "target_name": "1e566ed6_inspect_anchors.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_inspect_anchors.py",
+      "size": 1254,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "inspect_english_hr.py",
+      "target_name": "1e566ed6_inspect_english_hr.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_inspect_english_hr.py",
+      "size": 948,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "inspect_h4_h5.py",
+      "target_name": "1e566ed6_inspect_h4_h5.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_inspect_h4_h5.py",
+      "size": 1461,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "inspect_part3_headings.py",
+      "target_name": "1e566ed6_inspect_part3_headings.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_inspect_part3_headings.py",
+      "size": 1058,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "inspect_services_part2.py",
+      "target_name": "1e566ed6_inspect_services_part2.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_inspect_services_part2.py",
+      "size": 588,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "list_all_headings.py",
+      "target_name": "1e566ed6_list_all_headings.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_list_all_headings.py",
+      "size": 2031,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "list_appendix_hd.py",
+      "target_name": "1e566ed6_list_appendix_hd.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_list_appendix_hd.py",
+      "size": 572,
+      "summary": "Match lines starting with a Roman numeral like \"I.\", \"II.\", \"III.\" etc., followed by uppercase"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "list_broken_links.py",
+      "target_name": "1e566ed6_list_broken_links.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_list_broken_links.py",
+      "size": 2394,
+      "summary": "Reconfigure stdout to support utf-8 in case we still print some things"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "list_docx_parts.py",
+      "target_name": "1e566ed6_list_docx_parts.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_list_docx_parts.py",
+      "size": 439,
+      "summary": "import zipfile"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "list_part3_h3.py",
+      "target_name": "1e566ed6_list_part3_h3.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_list_part3_h3.py",
+      "size": 415,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "list_part4_headings.py",
+      "target_name": "1e566ed6_list_part4_headings.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_list_part4_headings.py",
+      "size": 364,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "list_part5_headings.py",
+      "target_name": "1e566ed6_list_part5_headings.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_list_part5_headings.py",
+      "size": 596,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "print_appendix_context.py",
+      "target_name": "1e566ed6_print_appendix_context.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_print_appendix_context.py",
+      "size": 616,
+      "summary": "Let's search for \"II. Rubric of Vespers without Vigil\""
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "print_daily_matins.py",
+      "target_name": "1e566ed6_print_daily_matins.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_print_daily_matins.py",
+      "size": 663,
+      "summary": "Find next section \"#### Note on a Non-Polyeleos\" or similar"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "print_first_lines.py",
+      "target_name": "1e566ed6_print_first_lines.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_print_first_lines.py",
+      "size": 766,
+      "summary": "Take first 200 lines to see headers, table of contents, and early text"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "print_simulation_appendix.py",
+      "target_name": "1e566ed6_print_simulation_appendix.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_print_simulation_appendix.py",
+      "size": 379,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "print_simulation_part5.py",
+      "target_name": "1e566ed6_print_simulation_part5.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_print_simulation_part5.py",
+      "size": 368,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "print_ukr_context.py",
+      "target_name": "1e566ed6_print_ukr_context.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_print_ukr_context.py",
+      "size": 945,
+      "summary": "doc_path = r\"C:\\Users\\augus\\.gemini\\antigravity\\brain\\1e566ed6-510f-4f9f-9987-1ea377eeb714\\scratch\\doc_text_utf8.txt\""
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "read_doc.py",
+      "target_name": "1e566ed6_read_doc.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_read_doc.py",
+      "size": 1721,
+      "summary": "Method 1: Try using win32com.client"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "read_last_steps.py",
+      "target_name": "1e566ed6_read_last_steps.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_read_last_steps.py",
+      "size": 1731,
+      "summary": "import json"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "read_transcript.py",
+      "target_name": "1e566ed6_read_transcript.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_read_transcript.py",
+      "size": 1320,
+      "summary": "import json"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "read_transcript_post_1371.py",
+      "target_name": "1e566ed6_read_transcript_post_1371.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_read_transcript_post_1371.py",
+      "size": 730,
+      "summary": "import json"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "read_ukr_toc.py",
+      "target_name": "1e566ed6_read_ukr_toc.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_read_ukr_toc.py",
+      "size": 686,
+      "summary": "Search for structural words or common headers"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "reconcile_links.py",
+      "target_name": "1e566ed6_reconcile_links.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_reconcile_links.py",
+      "size": 4577,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "restore_backups.py",
+      "target_name": "1e566ed6_restore_backups.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_restore_backups.py",
+      "size": 700,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "run_all_formatters.py",
+      "target_name": "1e566ed6_run_all_formatters.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_run_all_formatters.py",
+      "size": 670,
+      "summary": "import subprocess"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "search_active_files.py",
+      "target_name": "1e566ed6_search_active_files.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_search_active_files.py",
+      "size": 835,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "search_all_hr.py",
+      "target_name": "1e566ed6_search_all_hr.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_search_all_hr.py",
+      "size": 914,
+      "summary": "Match horizontal lines of underscores or dashes"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "search_appendix_links.py",
+      "target_name": "1e566ed6_search_appendix_links.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_search_appendix_links.py",
+      "size": 737,
+      "summary": "Find all links starting with appendix or containing the word appendix/rubric in link"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "search_appendix_numerals.py",
+      "target_name": "1e566ed6_search_appendix_numerals.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_search_appendix_numerals.py",
+      "size": 430,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "search_appendix_toc_context.py",
+      "target_name": "1e566ed6_search_appendix_toc_context.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_search_appendix_toc_context.py",
+      "size": 410,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "search_appendix_xxxi.py",
+      "target_name": "1e566ed6_search_appendix_xxxi.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_search_appendix_xxxi.py",
+      "size": 728,
+      "summary": "Save line with context (2 lines before and after)"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "search_brackets.py",
+      "target_name": "1e566ed6_search_brackets.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_search_brackets.py",
+      "size": 960,
+      "summary": "Find anything inside square brackets or curly braces"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "search_dividers.py",
+      "target_name": "1e566ed6_search_dividers.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_search_dividers.py",
+      "size": 1267,
+      "summary": "Match patterns representing horizontal dividers, long dashes, underscores, etc."
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "search_doc_text.py",
+      "target_name": "1e566ed6_search_doc_text.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_search_doc_text.py",
+      "size": 1015,
+      "summary": "1. Look for question marks and display their context"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "search_exaltation_more.py",
+      "target_name": "1e566ed6_search_exaltation_more.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_search_exaltation_more.py",
+      "size": 497,
+      "summary": "Let's find \"Universal Exaltation of the Precious Cross\""
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "search_exaltation_toc.py",
+      "target_name": "1e566ed6_search_exaltation_toc.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_search_exaltation_toc.py",
+      "size": 909,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "search_footnote_2.py",
+      "target_name": "1e566ed6_search_footnote_2.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_search_footnote_2.py",
+      "size": 645,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "search_footnote_reference.py",
+      "target_name": "1e566ed6_search_footnote_reference.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_search_footnote_reference.py",
+      "size": 595,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "search_intro_links.py",
+      "target_name": "1e566ed6_search_intro_links.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_search_intro_links.py",
+      "size": 311,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "search_pages.py",
+      "target_name": "1e566ed6_search_pages.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_search_pages.py",
+      "size": 984,
+      "summary": "Match patterns like [123], [\u0441\u0442\u043e\u0440. 123], [\u0441\u0442\u0440. 123], \u0441\u0442\u043e\u0440. 123, \u0441\u0442\u0440. 123"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "search_part1_versions.py",
+      "target_name": "1e566ed6_search_part1_versions.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_search_part1_versions.py",
+      "size": 774,
+      "summary": "Find the Order of Daily Matins section"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "search_part4_headings.py",
+      "target_name": "1e566ed6_search_part4_headings.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_search_part4_headings.py",
+      "size": 662,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "search_real_end_part1.py",
+      "target_name": "1e566ed6_search_real_end_part1.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_search_real_end_part1.py",
+      "size": 967,
+      "summary": "doc_path = r\"C:\\Users\\augus\\.gemini\\antigravity\\brain\\1e566ed6-510f-4f9f-9987-1ea377eeb714\\scratch\\doc_text_real_word.tx"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "search_real_end_part1_exact.py",
+      "target_name": "1e566ed6_search_real_end_part1_exact.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_search_real_end_part1_exact.py",
+      "size": 1123,
+      "summary": "doc_path = r\"C:\\Users\\augus\\.gemini\\antigravity\\brain\\1e566ed6-510f-4f9f-9987-1ea377eeb714\\scratch\\doc_text_real_word.tx"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "search_scratch.py",
+      "target_name": "1e566ed6_search_scratch.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_search_scratch.py",
+      "size": 606,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "search_side_question.py",
+      "target_name": "1e566ed6_search_side_question.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_search_side_question.py",
+      "size": 1425,
+      "summary": "import json"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "search_steps.py",
+      "target_name": "1e566ed6_search_steps.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_search_steps.py",
+      "size": 624,
+      "summary": "import sys"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "search_transcript.py",
+      "target_name": "1e566ed6_search_transcript.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_search_transcript.py",
+      "size": 850,
+      "summary": "Search for words of interest"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "search_transcript_media.py",
+      "target_name": "1e566ed6_search_transcript_media.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_search_transcript_media.py",
+      "size": 543,
+      "summary": "import json"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "search_typikon_coded.py",
+      "target_name": "1e566ed6_search_typikon_coded.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_search_typikon_coded.py",
+      "size": 1426,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "search_ukr_all_questions.py",
+      "target_name": "1e566ed6_search_ukr_all_questions.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_search_ukr_all_questions.py",
+      "size": 1031,
+      "summary": "Search for \"\u043f\u0438\u0442\u0430\u043d\u043d\u044f\", \"\u0437\u0430\u043f\u0438\u0442\u0430\u043d\u043d\u044f\", \"\u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u044c\" (case-insensitive)"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "search_ukr_hours.py",
+      "target_name": "1e566ed6_search_ukr_hours.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_search_ukr_hours.py",
+      "size": 1066,
+      "summary": "Skip the Table of Contents (first 300 lines)"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "search_ukr_questions.py",
+      "target_name": "1e566ed6_search_ukr_questions.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_search_ukr_questions.py",
+      "size": 769,
+      "summary": "import re"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "search_ukr_sept.py",
+      "target_name": "1e566ed6_search_ukr_sept.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_search_ukr_sept.py",
+      "size": 1212,
+      "summary": "Let's search for \"12 \u0412\u0415\u0420\u0415\u0421\u041d\u042f\" or \"14 \u0412\u0415\u0420\u0415\u0421\u041d\u042f\" (case-insensitive)"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "search_ukr_terms.py",
+      "target_name": "1e566ed6_search_ukr_terms.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_search_ukr_terms.py",
+      "size": 625,
+      "summary": "txt_path = \"Typyk_UHKC_ukr.txt\""
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "search_ukr_vespers.py",
+      "target_name": "1e566ed6_search_ukr_vespers.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_search_ukr_vespers.py",
+      "size": 831,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "search_vidomo.py",
+      "target_name": "1e566ed6_search_vidomo.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_search_vidomo.py",
+      "size": 1200,
+      "summary": "Search for \"\u0432\u0456\u0434\u043e\u043c\u043e\" (case-insensitive)"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "strict_text_check.py",
+      "target_name": "1e566ed6_strict_text_check.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_strict_text_check.py",
+      "size": 3721,
+      "summary": "Strip bullet markers, numbers, formatting syntax, and spaces"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "trace_align.py",
+      "target_name": "1e566ed6_trace_align.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_trace_align.py",
+      "size": 3817,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "verify_all_paragraphs.py",
+      "target_name": "1e566ed6_verify_all_paragraphs.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_verify_all_paragraphs.py",
+      "size": 3075,
+      "summary": "Keep only alphanumeric chars"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "verify_all_parts.py",
+      "target_name": "1e566ed6_verify_all_parts.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_verify_all_parts.py",
+      "size": 2221,
+      "summary": "Strip markdown formatting, symbols, numbers (to ignore TOC additions), and spaces"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "verify_clean_all.py",
+      "target_name": "1e566ed6_verify_clean_all.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_verify_clean_all.py",
+      "size": 2716,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "verify_clean_paragraphs.py",
+      "target_name": "1e566ed6_verify_clean_paragraphs.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_verify_clean_paragraphs.py",
+      "size": 3130,
+      "summary": "Strip list bullet markers at start of lines first"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "verify_links.py",
+      "target_name": "1e566ed6_verify_links.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_verify_links.py",
+      "size": 2050,
+      "summary": "Standard Markdown header slugification"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "verify_no_loss.py",
+      "target_name": "1e566ed6_verify_no_loss.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_verify_no_loss.py",
+      "size": 4401,
+      "summary": "import os"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "verify_paragraphs.py",
+      "target_name": "1e566ed6_verify_paragraphs.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_verify_paragraphs.py",
+      "size": 2309,
+      "summary": "Keep only alphanumeric chars"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "verify_part2.py",
+      "target_name": "1e566ed6_verify_part2.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_verify_part2.py",
+      "size": 1739,
+      "summary": "Strip first 4 lines"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "write_ps1.py",
+      "target_name": "1e566ed6_write_ps1.py",
+      "target_rel_path": "scripts/archived_pipelines/1e566ed6_write_ps1.py",
+      "size": 619,
+      "summary": "ps_code = r\"\"\"$word = New-Object -ComObject Word.Application"
+    },
+    {
+      "cid": "e5ff2e9a-16b3-401d-bdc1-57dd450d6e62",
+      "short_cid": "e5ff2e9a",
+      "created_at": "2026-09-12T17:53:34",
+      "orig_name": "find_all_citations.py",
+      "target_name": "e5ff2e9a_find_all_citations.py",
+      "target_rel_path": "scripts/archived_pipelines/e5ff2e9a_find_all_citations.py",
+      "size": 6010,
+      "summary": "import os"
+    },
+    {
+      "cid": "e5ff2e9a-16b3-401d-bdc1-57dd450d6e62",
+      "short_cid": "e5ff2e9a",
+      "created_at": "2026-09-12T17:53:34",
+      "orig_name": "scour_monastic_delta.py",
+      "target_name": "e5ff2e9a_scour_monastic_delta.py",
+      "target_rel_path": "scripts/archived_pipelines/e5ff2e9a_scour_monastic_delta.py",
+      "size": 2016,
+      "summary": "import os"
+    },
+    {
+      "cid": "e5ff2e9a-16b3-401d-bdc1-57dd450d6e62",
+      "short_cid": "e5ff2e9a",
+      "created_at": "2026-09-12T17:53:34",
+      "orig_name": "verify_deltas.py",
+      "target_name": "e5ff2e9a_verify_deltas.py",
+      "target_rel_path": "scripts/archived_pipelines/e5ff2e9a_verify_deltas.py",
+      "size": 3356,
+      "summary": "import os"
+    },
+    {
+      "cid": "9686e761-280f-434e-9d19-e1c17478fcc5",
+      "short_cid": "9686e761",
+      "created_at": "2026-05-29T23:31:12",
+      "orig_name": "deploy.py",
+      "target_name": "9686e761_deploy.py",
+      "target_rel_path": "scripts/archived_pipelines/9686e761_deploy.py",
+      "size": 1895,
+      "summary": "import os"
+    },
+    {
+      "cid": "9686e761-280f-434e-9d19-e1c17478fcc5",
+      "short_cid": "9686e761",
+      "created_at": "2026-05-29T23:31:12",
+      "orig_name": "rtx_recap.py",
+      "target_name": "9686e761_rtx_recap.py",
+      "target_rel_path": "scripts/archived_pipelines/9686e761_rtx_recap.py",
+      "size": 2264,
+      "summary": "import json"
+    },
+    {
+      "cid": "9921d969-3a5c-4531-a4b6-3e899725121a",
+      "short_cid": "9921d969",
+      "created_at": "2026-06-13T02:12:59",
+      "orig_name": "analyze_commemorations.py",
+      "target_name": "9921d969_analyze_commemorations.py",
+      "target_rel_path": "scripts/archived_pipelines/9921d969_analyze_commemorations.py",
+      "size": 1015,
+      "summary": "Split commemorations into individual saint parts using regex or simple split"
+    },
+    {
+      "cid": "9921d969-3a5c-4531-a4b6-3e899725121a",
+      "short_cid": "9921d969",
+      "created_at": "2026-06-13T02:12:59",
+      "orig_name": "categorize_saints.py",
+      "target_name": "9921d969_categorize_saints.py",
+      "target_rel_path": "scripts/archived_pipelines/9921d969_categorize_saints.py",
+      "size": 5024,
+      "summary": "import json"
+    },
+    {
+      "cid": "9921d969-3a5c-4531-a4b6-3e899725121a",
+      "short_cid": "9921d969",
+      "created_at": "2026-06-13T02:12:59",
+      "orig_name": "check_eae2e1f7.py",
+      "target_name": "9921d969_check_eae2e1f7.py",
+      "target_rel_path": "scripts/archived_pipelines/9921d969_check_eae2e1f7.py",
+      "size": 910,
+      "summary": "Force sys.stdout to be UTF-8"
+    },
+    {
+      "cid": "9921d969-3a5c-4531-a4b6-3e899725121a",
+      "short_cid": "9921d969",
+      "created_at": "2026-06-13T02:12:59",
+      "orig_name": "check_fasting_june.py",
+      "target_name": "9921d969_check_fasting_june.py",
+      "target_rel_path": "scripts/archived_pipelines/9921d969_check_fasting_june.py",
+      "size": 485,
+      "summary": "import sys"
+    },
+    {
+      "cid": "9921d969-3a5c-4531-a4b6-3e899725121a",
+      "short_cid": "9921d969",
+      "created_at": "2026-06-13T02:12:59",
+      "orig_name": "check_june_11.py",
+      "target_name": "9921d969_check_june_11.py",
+      "target_rel_path": "scripts/archived_pipelines/9921d969_check_june_11.py",
+      "size": 884,
+      "summary": "import sys"
+    },
+    {
+      "cid": "9921d969-3a5c-4531-a4b6-3e899725121a",
+      "short_cid": "9921d969",
+      "created_at": "2026-06-13T02:12:59",
+      "orig_name": "check_june_13.py",
+      "target_name": "9921d969_check_june_13.py",
+      "target_rel_path": "scripts/archived_pipelines/9921d969_check_june_13.py",
+      "size": 707,
+      "summary": "Initialize the engine in the project root"
+    },
+    {
+      "cid": "9921d969-3a5c-4531-a4b6-3e899725121a",
+      "short_cid": "9921d969",
+      "created_at": "2026-06-13T02:12:59",
+      "orig_name": "check_june_24.py",
+      "target_name": "9921d969_check_june_24.py",
+      "target_rel_path": "scripts/archived_pipelines/9921d969_check_june_24.py",
+      "size": 573,
+      "summary": "June 24, 2026"
+    },
+    {
+      "cid": "9921d969-3a5c-4531-a4b6-3e899725121a",
+      "short_cid": "9921d969",
+      "created_at": "2026-06-13T02:12:59",
+      "orig_name": "check_other_abbrs.py",
+      "target_name": "9921d969_check_other_abbrs.py",
+      "target_rel_path": "scripts/archived_pipelines/9921d969_check_other_abbrs.py",
+      "size": 549,
+      "summary": "import json"
+    },
+    {
+      "cid": "9921d969-3a5c-4531-a4b6-3e899725121a",
+      "short_cid": "9921d969",
+      "created_at": "2026-06-13T02:12:59",
+      "orig_name": "check_pdf.py",
+      "target_name": "9921d969_check_pdf.py",
+      "target_rel_path": "scripts/archived_pipelines/9921d969_check_pdf.py",
+      "size": 1903,
+      "summary": "Check if file exists"
+    },
+    {
+      "cid": "9921d969-3a5c-4531-a4b6-3e899725121a",
+      "short_cid": "9921d969",
+      "created_at": "2026-06-13T02:12:59",
+      "orig_name": "check_prop_entries.py",
+      "target_name": "9921d969_check_prop_entries.py",
+      "target_rel_path": "scripts/archived_pipelines/9921d969_check_prop_entries.py",
+      "size": 457,
+      "summary": "import json"
+    },
+    {
+      "cid": "9921d969-3a5c-4531-a4b6-3e899725121a",
+      "short_cid": "9921d969",
+      "created_at": "2026-06-13T02:12:59",
+      "orig_name": "check_turns.py",
+      "target_name": "9921d969_check_turns.py",
+      "target_rel_path": "scripts/archived_pipelines/9921d969_check_turns.py",
+      "size": 630,
+      "summary": "Force sys.stdout to be UTF-8"
+    },
+    {
+      "cid": "9921d969-3a5c-4531-a4b6-3e899725121a",
+      "short_cid": "9921d969",
+      "created_at": "2026-06-13T02:12:59",
+      "orig_name": "count_abbreviations.py",
+      "target_name": "9921d969_count_abbreviations.py",
+      "target_rel_path": "scripts/archived_pipelines/9921d969_count_abbreviations.py",
+      "size": 716,
+      "summary": "import json"
+    },
+    {
+      "cid": "9921d969-3a5c-4531-a4b6-3e899725121a",
+      "short_cid": "9921d969",
+      "created_at": "2026-06-13T02:12:59",
+      "orig_name": "find_abbreviations.py",
+      "target_name": "9921d969_find_abbreviations.py",
+      "target_rel_path": "scripts/archived_pipelines/9921d969_find_abbreviations.py",
+      "size": 641,
+      "summary": "import json"
+    },
+    {
+      "cid": "9921d969-3a5c-4531-a4b6-3e899725121a",
+      "short_cid": "9921d969",
+      "created_at": "2026-06-13T02:12:59",
+      "orig_name": "find_all_categories_talk.py",
+      "target_name": "9921d969_find_all_categories_talk.py",
+      "target_rel_path": "scripts/archived_pipelines/9921d969_find_all_categories_talk.py",
+      "size": 1094,
+      "summary": "Force sys.stdout to be UTF-8"
+    },
+    {
+      "cid": "9921d969-3a5c-4531-a4b6-3e899725121a",
+      "short_cid": "9921d969",
+      "created_at": "2026-06-13T02:12:59",
+      "orig_name": "find_all_user_forerunner.py",
+      "target_name": "9921d969_find_all_user_forerunner.py",
+      "target_rel_path": "scripts/archived_pipelines/9921d969_find_all_user_forerunner.py",
+      "size": 955,
+      "summary": "Force sys.stdout to be UTF-8"
+    },
+    {
+      "cid": "9921d969-3a5c-4531-a4b6-3e899725121a",
+      "short_cid": "9921d969",
+      "created_at": "2026-06-13T02:12:59",
+      "orig_name": "find_all_user_gm.py",
+      "target_name": "9921d969_find_all_user_gm.py",
+      "target_rel_path": "scripts/archived_pipelines/9921d969_find_all_user_gm.py",
+      "size": 1012,
+      "summary": "Force sys.stdout to be UTF-8"
+    },
+    {
+      "cid": "9921d969-3a5c-4531-a4b6-3e899725121a",
+      "short_cid": "9921d969",
+      "created_at": "2026-06-13T02:12:59",
+      "orig_name": "find_general_categories.py",
+      "target_name": "9921d969_find_general_categories.py",
+      "target_rel_path": "scripts/archived_pipelines/9921d969_find_general_categories.py",
+      "size": 678,
+      "summary": "Since it is a very large JSON, we can read it line-by-line using regex or parse key by key if memory permits."
+    },
+    {
+      "cid": "9921d969-3a5c-4531-a4b6-3e899725121a",
+      "short_cid": "9921d969",
+      "created_at": "2026-06-13T02:12:59",
+      "orig_name": "find_stubs.py",
+      "target_name": "9921d969_find_stubs.py",
+      "target_rel_path": "scripts/archived_pipelines/9921d969_find_stubs.py",
+      "size": 708,
+      "summary": "import sys"
+    },
+    {
+      "cid": "9921d969-3a5c-4531-a4b6-3e899725121a",
+      "short_cid": "9921d969",
+      "created_at": "2026-06-13T02:12:59",
+      "orig_name": "find_user_msg.py",
+      "target_name": "9921d969_find_user_msg.py",
+      "target_rel_path": "scripts/archived_pipelines/9921d969_find_user_msg.py",
+      "size": 733,
+      "summary": "Force sys.stdout to be UTF-8"
+    },
+    {
+      "cid": "9921d969-3a5c-4531-a4b6-3e899725121a",
+      "short_cid": "9921d969",
+      "created_at": "2026-06-13T02:12:59",
+      "orig_name": "get_turn_795_885.py",
+      "target_name": "9921d969_get_turn_795_885.py",
+      "target_rel_path": "scripts/archived_pipelines/9921d969_get_turn_795_885.py",
+      "size": 785,
+      "summary": "Note: folder name might be case-sensitive or not on Windows, but the standard path has '.system_generated'"
+    },
+    {
+      "cid": "9921d969-3a5c-4531-a4b6-3e899725121a",
+      "short_cid": "9921d969",
+      "created_at": "2026-06-13T02:12:59",
+      "orig_name": "read_annual_pdf.py",
+      "target_name": "9921d969_read_annual_pdf.py",
+      "target_rel_path": "scripts/archived_pipelines/9921d969_read_annual_pdf.py",
+      "size": 807,
+      "summary": "Let's search first 10 pages for key terms"
+    },
+    {
+      "cid": "9921d969-3a5c-4531-a4b6-3e899725121a",
+      "short_cid": "9921d969",
+      "created_at": "2026-06-13T02:12:59",
+      "orig_name": "read_pdf_toc.py",
+      "target_name": "9921d969_read_pdf_toc.py",
+      "target_rel_path": "scripts/archived_pipelines/9921d969_read_pdf_toc.py",
+      "size": 939,
+      "summary": "Check Table of Contents (Outline)"
+    },
+    {
+      "cid": "9921d969-3a5c-4531-a4b6-3e899725121a",
+      "short_cid": "9921d969",
+      "created_at": "2026-06-13T02:12:59",
+      "orig_name": "recap_chat_history.py",
+      "target_name": "9921d969_recap_chat_history.py",
+      "target_rel_path": "scripts/archived_pipelines/9921d969_recap_chat_history.py",
+      "size": 1988,
+      "summary": "import json"
+    },
+    {
+      "cid": "9921d969-3a5c-4531-a4b6-3e899725121a",
+      "short_cid": "9921d969",
+      "created_at": "2026-06-13T02:12:59",
+      "orig_name": "search_all_logs.py",
+      "target_name": "9921d969_search_all_logs.py",
+      "target_rel_path": "scripts/archived_pipelines/9921d969_search_all_logs.py",
+      "size": 1032,
+      "summary": "Force sys.stdout to be UTF-8"
+    },
+    {
+      "cid": "9921d969-3a5c-4531-a4b6-3e899725121a",
+      "short_cid": "9921d969",
+      "created_at": "2026-06-13T02:12:59",
+      "orig_name": "search_logs.py",
+      "target_name": "9921d969_search_logs.py",
+      "target_rel_path": "scripts/archived_pipelines/9921d969_search_logs.py",
+      "size": 732,
+      "summary": "Force sys.stdout to be UTF-8"
+    },
+    {
+      "cid": "9921d969-3a5c-4531-a4b6-3e899725121a",
+      "short_cid": "9921d969",
+      "created_at": "2026-06-13T02:12:59",
+      "orig_name": "test_re_split.py",
+      "target_name": "9921d969_test_re_split.py",
+      "target_rel_path": "scripts/archived_pipelines/9921d969_test_re_split.py",
+      "size": 666,
+      "summary": "import re"
+    },
+    {
+      "cid": "9921d969-3a5c-4531-a4b6-3e899725121a",
+      "short_cid": "9921d969",
+      "created_at": "2026-06-13T02:12:59",
+      "orig_name": "test_text_lookup.py",
+      "target_name": "9921d969_test_text_lookup.py",
+      "target_rel_path": "scripts/archived_pipelines/9921d969_test_text_lookup.py",
+      "size": 386,
+      "summary": "import json"
+    },
+    {
+      "cid": "9025717e-97c6-4ee4-bc59-6a97eba223c0",
+      "short_cid": "9025717e",
+      "created_at": "2026-07-05T17:26:26",
+      "orig_name": "analyze_translation_evolution.py",
+      "target_name": "9025717e_analyze_translation_evolution.py",
+      "target_rel_path": "scripts/archived_pipelines/9025717e_analyze_translation_evolution.py",
+      "size": 13371,
+      "summary": "import json"
+    },
+    {
+      "cid": "9025717e-97c6-4ee4-bc59-6a97eba223c0",
+      "short_cid": "9025717e",
+      "created_at": "2026-07-05T17:26:26",
+      "orig_name": "check_all_months.py",
+      "target_name": "9025717e_check_all_months.py",
+      "target_rel_path": "scripts/archived_pipelines/9025717e_check_all_months.py",
+      "size": 1716,
+      "summary": "import json"
+    },
+    {
+      "cid": "9025717e-97c6-4ee4-bc59-6a97eba223c0",
+      "short_cid": "9025717e",
+      "created_at": "2026-07-05T17:26:26",
+      "orig_name": "check_rd_evolution.py",
+      "target_name": "9025717e_check_rd_evolution.py",
+      "target_rel_path": "scripts/archived_pipelines/9025717e_check_rd_evolution.py",
+      "size": 690,
+      "summary": "import json"
+    },
+    {
+      "cid": "9025717e-97c6-4ee4-bc59-6a97eba223c0",
+      "short_cid": "9025717e",
+      "created_at": "2026-07-05T17:26:26",
+      "orig_name": "inspect_months.py",
+      "target_name": "9025717e_inspect_months.py",
+      "target_rel_path": "scripts/archived_pipelines/9025717e_inspect_months.py",
+      "size": 1835,
+      "summary": "import json"
+    },
+    {
+      "cid": "9025717e-97c6-4ee4-bc59-6a97eba223c0",
+      "short_cid": "9025717e",
+      "created_at": "2026-07-05T17:26:26",
+      "orig_name": "list_january.py",
+      "target_name": "9025717e_list_january.py",
+      "target_rel_path": "scripts/archived_pipelines/9025717e_list_january.py",
+      "size": 1628,
+      "summary": "import json"
+    },
+    {
+      "cid": "9025717e-97c6-4ee4-bc59-6a97eba223c0",
+      "short_cid": "9025717e",
+      "created_at": "2026-07-05T17:26:26",
+      "orig_name": "run_comparison.py",
+      "target_name": "9025717e_run_comparison.py",
+      "target_rel_path": "scripts/archived_pipelines/9025717e_run_comparison.py",
+      "size": 11608,
+      "summary": "import json"
+    },
+    {
+      "cid": "9025717e-97c6-4ee4-bc59-6a97eba223c0",
+      "short_cid": "9025717e",
+      "created_at": "2026-07-05T17:26:26",
+      "orig_name": "run_comparison_yearly.py",
+      "target_name": "9025717e_run_comparison_yearly.py",
+      "target_rel_path": "scripts/archived_pipelines/9025717e_run_comparison_yearly.py",
+      "size": 12909,
+      "summary": "import json"
+    },
+    {
+      "cid": "9025717e-97c6-4ee4-bc59-6a97eba223c0",
+      "short_cid": "9025717e",
+      "created_at": "2026-07-05T17:26:26",
+      "orig_name": "standardize_stamford.py",
+      "target_name": "9025717e_standardize_stamford.py",
+      "target_rel_path": "scripts/archived_pipelines/9025717e_standardize_stamford.py",
+      "size": 7441,
+      "summary": "e.g., \"Troparion of the Circumcision (Tone 1)\""
+    },
+    {
+      "cid": "9025717e-97c6-4ee4-bc59-6a97eba223c0",
+      "short_cid": "9025717e",
+      "created_at": "2026-07-05T17:26:26",
+      "orig_name": "test_date_matching.py",
+      "target_name": "9025717e_test_date_matching.py",
+      "target_rel_path": "scripts/archived_pipelines/9025717e_test_date_matching.py",
+      "size": 2819,
+      "summary": "Load Royal Doors"
+    },
+    {
+      "cid": "9025717e-97c6-4ee4-bc59-6a97eba223c0",
+      "short_cid": "9025717e",
+      "created_at": "2026-07-05T17:26:26",
+      "orig_name": "test_hybrid_matching.py",
+      "target_name": "9025717e_test_hybrid_matching.py",
+      "target_rel_path": "scripts/archived_pipelines/9025717e_test_hybrid_matching.py",
+      "size": 7988,
+      "summary": "import json"
+    },
+    {
+      "cid": "9025717e-97c6-4ee4-bc59-6a97eba223c0",
+      "short_cid": "9025717e",
+      "created_at": "2026-07-05T17:26:26",
+      "orig_name": "test_stamford_match.py",
+      "target_name": "9025717e_test_stamford_match.py",
+      "target_rel_path": "scripts/archived_pipelines/9025717e_test_stamford_match.py",
+      "size": 4300,
+      "summary": "import json"
+    },
+    {
+      "cid": "92dae9b2-3c42-4244-9591-d545d1b9a341",
+      "short_cid": "92dae9b2",
+      "created_at": "2026-07-14T00:55:32",
+      "orig_name": "find_transcripts.py",
+      "target_name": "92dae9b2_find_transcripts.py",
+      "target_rel_path": "scripts/archived_pipelines/92dae9b2_find_transcripts.py",
+      "size": 891,
+      "summary": "import os"
+    },
+    {
+      "cid": "92dae9b2-3c42-4244-9591-d545d1b9a341",
+      "short_cid": "92dae9b2",
+      "created_at": "2026-07-14T00:55:32",
+      "orig_name": "inspect_transcript.py",
+      "target_name": "92dae9b2_inspect_transcript.py",
+      "target_rel_path": "scripts/archived_pipelines/92dae9b2_inspect_transcript.py",
+      "size": 1082,
+      "summary": "import json"
+    },
+    {
+      "cid": "8c0414db-8f1b-43e1-a186-76446f60cae5",
+      "short_cid": "8c0414db",
+      "created_at": "2026-09-06T20:48:51",
+      "orig_name": "analyze_part5_cases.py",
+      "target_name": "8c0414db_analyze_part5_cases.py",
+      "target_rel_path": "scripts/archived_pipelines/8c0414db_analyze_part5_cases.py",
+      "size": 707,
+      "summary": "import json"
+    },
+    {
+      "cid": "8c0414db-8f1b-43e1-a186-76446f60cae5",
+      "short_cid": "8c0414db",
+      "created_at": "2026-09-06T20:48:51",
+      "orig_name": "audit_all_menaion_anomalies.py",
+      "target_name": "8c0414db_audit_all_menaion_anomalies.py",
+      "target_rel_path": "scripts/archived_pipelines/8c0414db_audit_all_menaion_anomalies.py",
+      "size": 1848,
+      "summary": "import glob"
+    },
+    {
+      "cid": "8c0414db-8f1b-43e1-a186-76446f60cae5",
+      "short_cid": "8c0414db",
+      "created_at": "2026-09-06T20:48:51",
+      "orig_name": "audit_base_templates.py",
+      "target_name": "8c0414db_audit_base_templates.py",
+      "target_rel_path": "scripts/archived_pipelines/8c0414db_audit_base_templates.py",
+      "size": 2582,
+      "summary": "import json"
+    },
+    {
+      "cid": "8c0414db-8f1b-43e1-a186-76446f60cae5",
+      "short_cid": "8c0414db",
+      "created_at": "2026-09-06T20:48:51",
+      "orig_name": "audit_cases_service_types.py",
+      "target_name": "8c0414db_audit_cases_service_types.py",
+      "target_rel_path": "scripts/archived_pipelines/8c0414db_audit_cases_service_types.py",
+      "size": 717,
+      "summary": "import json"
+    },
+    {
+      "cid": "8c0414db-8f1b-43e1-a186-76446f60cae5",
+      "short_cid": "8c0414db",
+      "created_at": "2026-09-06T20:48:51",
+      "orig_name": "audit_distributions.py",
+      "target_name": "8c0414db_audit_distributions.py",
+      "target_rel_path": "scripts/archived_pipelines/8c0414db_audit_distributions.py",
+      "size": 1578,
+      "summary": "import json"
+    },
+    {
+      "cid": "8c0414db-8f1b-43e1-a186-76446f60cae5",
+      "short_cid": "8c0414db",
+      "created_at": "2026-09-06T20:48:51",
+      "orig_name": "create_test_file.py",
+      "target_name": "8c0414db_create_test_file.py",
+      "target_rel_path": "scripts/archived_pipelines/8c0414db_create_test_file.py",
+      "size": 18595,
+      "summary": "import os"
+    },
+    {
+      "cid": "8c0414db-8f1b-43e1-a186-76446f60cae5",
+      "short_cid": "8c0414db",
+      "created_at": "2026-09-06T20:48:51",
+      "orig_name": "debug_stichera.py",
+      "target_name": "8c0414db_debug_stichera.py",
+      "target_rel_path": "scripts/archived_pipelines/8c0414db_debug_stichera.py",
+      "size": 1211,
+      "summary": "import sys"
+    },
+    {
+      "cid": "8c0414db-8f1b-43e1-a186-76446f60cae5",
+      "short_cid": "8c0414db",
+      "created_at": "2026-09-06T20:48:51",
+      "orig_name": "generate_test_service_types.py",
+      "target_name": "8c0414db_generate_test_service_types.py",
+      "target_rel_path": "scripts/archived_pipelines/8c0414db_generate_test_service_types.py",
+      "size": 2166,
+      "summary": "Authority: Lviv (Dolnytsky) Typikon (2010) Part II (\u00a7\u00a72.1\u20132.20)"
+    },
+    {
+      "cid": "8c0414db-8f1b-43e1-a186-76446f60cae5",
+      "short_cid": "8c0414db",
+      "created_at": "2026-09-06T20:48:51",
+      "orig_name": "inspect_case_details.py",
+      "target_name": "8c0414db_inspect_case_details.py",
+      "target_rel_path": "scripts/archived_pipelines/8c0414db_inspect_case_details.py",
+      "size": 538,
+      "summary": "import json"
+    },
+    {
+      "cid": "8c0414db-8f1b-43e1-a186-76446f60cae5",
+      "short_cid": "8c0414db",
+      "created_at": "2026-09-06T20:48:51",
+      "orig_name": "inspect_temple.py",
+      "target_name": "8c0414db_inspect_temple.py",
+      "target_rel_path": "scripts/archived_pipelines/8c0414db_inspect_temple.py",
+      "size": 539,
+      "summary": "import json"
+    },
+    {
+      "cid": "8c0414db-8f1b-43e1-a186-76446f60cae5",
+      "short_cid": "8c0414db",
+      "created_at": "2026-09-06T20:48:51",
+      "orig_name": "inspect_triodion.py",
+      "target_name": "8c0414db_inspect_triodion.py",
+      "target_rel_path": "scripts/archived_pipelines/8c0414db_inspect_triodion.py",
+      "size": 581,
+      "summary": "import json"
+    },
+    {
+      "cid": "8c0414db-8f1b-43e1-a186-76446f60cae5",
+      "short_cid": "8c0414db",
+      "created_at": "2026-09-06T20:48:51",
+      "orig_name": "list_temple_cases.py",
+      "target_name": "8c0414db_list_temple_cases.py",
+      "target_rel_path": "scripts/archived_pipelines/8c0414db_list_temple_cases.py",
+      "size": 501,
+      "summary": "import json"
+    },
+    {
+      "cid": "8c0414db-8f1b-43e1-a186-76446f60cae5",
+      "short_cid": "8c0414db",
+      "created_at": "2026-09-06T20:48:51",
+      "orig_name": "print_cases.py",
+      "target_name": "8c0414db_print_cases.py",
+      "target_rel_path": "scripts/archived_pipelines/8c0414db_print_cases.py",
+      "size": 251,
+      "summary": "import json"
+    },
+    {
+      "cid": "8c0414db-8f1b-43e1-a186-76446f60cae5",
+      "short_cid": "8c0414db",
+      "created_at": "2026-09-06T20:48:51",
+      "orig_name": "print_milestones.py",
+      "target_name": "8c0414db_print_milestones.py",
+      "target_rel_path": "scripts/archived_pipelines/8c0414db_print_milestones.py",
+      "size": 1550,
+      "summary": "import sys"
+    },
+    {
+      "cid": "8c0414db-8f1b-43e1-a186-76446f60cae5",
+      "short_cid": "8c0414db",
+      "created_at": "2026-09-06T20:48:51",
+      "orig_name": "scratch_vocab.py",
+      "target_name": "8c0414db_scratch_vocab.py",
+      "target_rel_path": "scripts/archived_pipelines/8c0414db_scratch_vocab.py",
+      "size": 792,
+      "summary": "import json"
+    },
+    {
+      "cid": "8c0414db-8f1b-43e1-a186-76446f60cae5",
+      "short_cid": "8c0414db",
+      "created_at": "2026-09-06T20:48:51",
+      "orig_name": "test_jan25.py",
+      "target_name": "8c0414db_test_jan25.py",
+      "target_rel_path": "scripts/archived_pipelines/8c0414db_test_jan25.py",
+      "size": 504,
+      "summary": "import sys"
+    },
+    {
+      "cid": "8c0414db-8f1b-43e1-a186-76446f60cae5",
+      "short_cid": "8c0414db",
+      "created_at": "2026-09-06T20:48:51",
+      "orig_name": "test_suspicious_days.py",
+      "target_name": "8c0414db_test_suspicious_days.py",
+      "target_rel_path": "scripts/archived_pipelines/8c0414db_test_suspicious_days.py",
+      "size": 1361,
+      "summary": "import sys"
+    },
+    {
+      "cid": "8c0414db-8f1b-43e1-a186-76446f60cae5",
+      "short_cid": "8c0414db",
+      "created_at": "2026-09-06T20:48:51",
+      "orig_name": "test_temple_mapping.py",
+      "target_name": "8c0414db_test_temple_mapping.py",
+      "target_rel_path": "scripts/archived_pipelines/8c0414db_test_temple_mapping.py",
+      "size": 7172,
+      "summary": "import json"
+    },
+    {
+      "cid": "8c0414db-8f1b-43e1-a186-76446f60cae5",
+      "short_cid": "8c0414db",
+      "created_at": "2026-09-06T20:48:51",
+      "orig_name": "test_trace.py",
+      "target_name": "8c0414db_test_trace.py",
+      "target_rel_path": "scripts/archived_pipelines/8c0414db_test_trace.py",
+      "size": 417,
+      "summary": "import datetime"
+    },
+    {
+      "cid": "8c0414db-8f1b-43e1-a186-76446f60cae5",
+      "short_cid": "8c0414db",
+      "created_at": "2026-09-06T20:48:51",
+      "orig_name": "update_temple_json.py",
+      "target_name": "8c0414db_update_temple_json.py",
+      "target_rel_path": "scripts/archived_pipelines/8c0414db_update_temple_json.py",
+      "size": 14621,
+      "summary": "Define the canonical service types and variables for each of the 34 cases"
+    },
+    {
+      "cid": "8c0414db-8f1b-43e1-a186-76446f60cae5",
+      "short_cid": "8c0414db",
+      "created_at": "2026-09-06T20:48:51",
+      "orig_name": "write_handoff.py",
+      "target_name": "8c0414db_write_handoff.py",
+      "target_rel_path": "scripts/archived_pipelines/8c0414db_write_handoff.py",
+      "size": 2675,
+      "summary": "1. Status of Completed Phases"
+    }
+  ],
+  "tier4": [
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "active_search_results.txt",
+      "target_name": "1e566ed6_active_search_results.txt",
+      "target_rel_path": "data/historical/1e566ed6_active_search_results.txt",
+      "size": 4722,
+      "summary": "Dolnytsky_Typikon_Master.md | Line 1962: This Sunday can fall on one of seven days, starting from 18 to 24 December. But"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "all_horizontal_rules.txt",
+      "target_name": "1e566ed6_all_horizontal_rules.txt",
+      "target_rel_path": "data/historical/1e566ed6_all_horizontal_rules.txt",
+      "size": 12118,
+      "summary": "Dolnytsky_Typikon_Master.md | Line 6: ---"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "appendix_headings_only.txt",
+      "target_name": "1e566ed6_appendix_headings_only.txt",
+      "target_rel_path": "data/historical/1e566ed6_appendix_headings_only.txt",
+      "size": 94198,
+      "summary": "Line 1: ## 6.1 Appendix (Rubrics of the Divine Services)"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "appendix_sim_output.txt",
+      "target_name": "1e566ed6_appendix_sim_output.txt",
+      "target_rel_path": "data/historical/1e566ed6_appendix_sim_output.txt",
+      "size": 188848,
+      "summary": "=== SIMULATION FOR Final_Dolnytsky_appendix.md ==="
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "bracket_search_results.txt",
+      "target_name": "1e566ed6_bracket_search_results.txt",
+      "target_rel_path": "data/historical/1e566ed6_bracket_search_results.txt",
+      "size": 285,
+      "summary": "\u0414\u043b\u044f \u043e\u0441\u043e\u0431\u0438\u0441\u0442\u043e\u0433\u043e \u0432\u0436\u0438\u0442\u043a\u0443 \u0432 \u043c\u043e\u043b\u0438\u0442\u0432\u043e\u0441\u043b\u043e\u0432\u0456 \u043f\u043e\u0434\u0430\u043d\u043e \u043e\u0434\u0438\u043d \u043a\u0430\u043d\u043e\u043d \u0431\u043e\u0433\u043e\u0440\u043e\u0434\u0438\u0447\u043d\u0438\u0439 \u043e\u043a\u0442\u043e\u0457\u0445\u0430, \u0432\u0456\u0432\u0442\u043e\u0440\u043a\u0430 8-\u0433\u043e \u0433\u043e\u043b\u043e\u0441\u0443, \u0456 \u0432 \u043d\u0456\u043c, \u043f\u043e 3-\u0456\u0439 \u043f\u0456\u0441\u043d"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "coded_search_results.txt",
+      "target_name": "1e566ed6_coded_search_results.txt",
+      "target_rel_path": "data/historical/1e566ed6_coded_search_results.txt",
+      "size": 773747,
+      "summary": "all_headings_debug.txt:762: Line  860: [MD] ##### 8.\tThere will be 8 readings, and on Theophany - 11. After the first th"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "comparison_results.txt",
+      "target_name": "1e566ed6_comparison_results.txt",
+      "target_rel_path": "data/historical/1e566ed6_comparison_results.txt",
+      "size": 1040,
+      "summary": "DOCX extracted text length: 742636"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "detailed_diff_output.txt",
+      "target_name": "1e566ed6_detailed_diff_output.txt",
+      "target_rel_path": "data/historical/1e566ed6_detailed_diff_output.txt",
+      "size": 60276,
+      "summary": "========================================"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "doc_search_results.txt",
+      "target_name": "1e566ed6_doc_search_results.txt",
+      "target_rel_path": "data/historical/1e566ed6_doc_search_results.txt",
+      "size": 803,
+      "summary": "Line 24: \u0414j\u0414\u0441Y\u0441?\u0414\u0441\u0406"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "doc_text_binary.txt",
+      "target_name": "1e566ed6_doc_text_binary.txt",
+      "target_rel_path": "data/historical/1e566ed6_doc_text_binary.txt",
+      "size": 105458,
+      "summary": "\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f\u044f"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "doc_text_real_word.txt",
+      "target_name": "1e566ed6_doc_text_real_word.txt",
+      "target_rel_path": "data/historical/1e566ed6_doc_text_real_word.txt",
+      "size": 1325674,
+      "summary": "\ufeff\u0422\u0418\u041f\u0418\u041a"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "doc_text_utf8.txt",
+      "target_name": "1e566ed6_doc_text_utf8.txt",
+      "target_rel_path": "data/historical/1e566ed6_doc_text_utf8.txt",
+      "size": 1331641,
+      "summary": "\u0422\u0418\u041f\u0418\u041a"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "folder_contents.txt",
+      "target_name": "1e566ed6_folder_contents.txt",
+      "target_rel_path": "data/historical/1e566ed6_folder_contents.txt",
+      "size": 1006,
+      "summary": "1899 Typik Table of Contents.docx"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "h4_h5_list.txt",
+      "target_name": "1e566ed6_h4_h5_list.txt",
+      "target_rel_path": "data/historical/1e566ed6_h4_h5_list.txt",
+      "size": 616252,
+      "summary": "========================================"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "headings_diff.txt",
+      "target_name": "1e566ed6_headings_diff.txt",
+      "target_rel_path": "data/historical/1e566ed6_headings_diff.txt",
+      "size": 1416497,
+      "summary": "=== Final_Dolnytsky_part1_structure.md Headings Diff ==="
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "headings_report.txt",
+      "target_name": "1e566ed6_headings_report.txt",
+      "target_rel_path": "data/historical/1e566ed6_headings_report.txt",
+      "size": 31612,
+      "summary": "=== EXTRACTED HEADINGS REPORT ==="
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "history_context.txt",
+      "target_name": "1e566ed6_history_context.txt",
+      "target_rel_path": "data/historical/1e566ed6_history_context.txt",
+      "size": 27280,
+      "summary": "=== STEP 1360 (Source: MODEL, Type: PLANNER_RESPONSE) ==="
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "last_steps.txt",
+      "target_name": "1e566ed6_last_steps.txt",
+      "target_rel_path": "data/historical/1e566ed6_last_steps.txt",
+      "size": 138872,
+      "summary": "Total steps: 2232"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "lines_search_results.txt",
+      "target_name": "1e566ed6_lines_search_results.txt",
+      "target_rel_path": "data/historical/1e566ed6_lines_search_results.txt",
+      "size": 3597,
+      "summary": "=== DIVIDER FOUND AT LINE 1440 ==="
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "page_markers_results.txt",
+      "target_name": "1e566ed6_page_markers_results.txt",
+      "target_rel_path": "data/historical/1e566ed6_page_markers_results.txt",
+      "size": 63979,
+      "summary": "Line 223: 3.  \u0421\u0432. \u041b\u0456\u0442\u0443\u0440\u0433\u0456\u044e \u0434\u043e\u0437\u0432\u043e\u043b\u044f\u0454\u0442\u044c\u0441\u044f \u0441\u043a\u043e\u0440\u043e\u0447\u0443\u0432\u0430\u0442\u0438 \u0442\u0430\u043a, \u044f\u043a \u043f\u043e\u0434\u0430\u0454\u0442\u044c\u0441\u044f \u0432 \u0441\u043b\u0443\u0436\u0435\u0431\u043d\u0438\u043a\u0443, \u0432\u0438\u0434\u0430\u043d\u043e\u043c\u0443 \u0421\u0438\u043d\u043e\u0434\u043e\u043c \u0404\u043f\u0438\u0441\u043a\u043e\u043f\u0456\u0432 \u0423\u041a\u0426 1989 "
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "part2_headings.txt",
+      "target_name": "1e566ed6_part2_headings.txt",
+      "target_rel_path": "data/historical/1e566ed6_part2_headings.txt",
+      "size": 55400,
+      "summary": "1.\tSaint without Polyeleos on Sunday"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "part3_headings_output.txt",
+      "target_name": "1e566ed6_part3_headings_output.txt",
+      "target_rel_path": "data/historical/1e566ed6_part3_headings_output.txt",
+      "size": 270387,
+      "summary": "H4: #### RULE (under H3: ### 3.1.1 1 September: Beginning of the Indiction (New Year))"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "part4_headings_output.txt",
+      "target_name": "1e566ed6_part4_headings_output.txt",
+      "target_rel_path": "data/historical/1e566ed6_part4_headings_output.txt",
+      "size": 107743,
+      "summary": "Line 1: '# PART IV: RUBRICS OF THE TRIODION'"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "part5_headings_output.txt",
+      "target_name": "1e566ed6_part5_headings_output.txt",
+      "target_rel_path": "data/historical/1e566ed6_part5_headings_output.txt",
+      "size": 29296,
+      "summary": "Line 1: '# PART V'"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "search_results_transcript.txt",
+      "target_name": "1e566ed6_search_results_transcript.txt",
+      "target_rel_path": "data/historical/1e566ed6_search_results_transcript.txt",
+      "size": 22132,
+      "summary": "Step 3 (LIST_DIRECTORY): Created At: 2026-06-12T09:44:01Z"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "search_steps_output.txt",
+      "target_name": "1e566ed6_search_steps_output.txt",
+      "target_rel_path": "data/historical/1e566ed6_search_steps_output.txt",
+      "size": 174217,
+      "summary": "17: I will start by listing the files in the workspace directory to locate the Typikon documents and see where the table"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "side_question_output.txt",
+      "target_name": "1e566ed6_side_question_output.txt",
+      "target_rel_path": "data/historical/1e566ed6_side_question_output.txt",
+      "size": 51896,
+      "summary": "Total steps: 2256"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "simulation_output.txt",
+      "target_name": "1e566ed6_simulation_output.txt",
+      "target_rel_path": "data/historical/1e566ed6_simulation_output.txt",
+      "size": 973064,
+      "summary": "=== SIMULATION FOR Final_Dolnytsky_part1_structure.md ==="
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "Typyk_UHKC_ukr.txt",
+      "target_name": "1e566ed6_Typyk_UHKC_ukr.txt",
+      "target_rel_path": "data/historical/1e566ed6_Typyk_UHKC_ukr.txt",
+      "size": 1681712,
+      "summary": "\ufeff\u0422\u0418\u041f\u0418\u041a"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "Typyk_UHKC_ukr_utf8.txt",
+      "target_name": "1e566ed6_Typyk_UHKC_ukr_utf8.txt",
+      "target_rel_path": "data/historical/1e566ed6_Typyk_UHKC_ukr_utf8.txt",
+      "size": 969890,
+      "summary": "?????"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "ukr_all_questions.txt",
+      "target_name": "1e566ed6_ukr_all_questions.txt",
+      "target_rel_path": "data/historical/1e566ed6_ukr_all_questions.txt",
+      "size": 31557,
+      "summary": "Line 232: (\u041f\u043e\u0434\u0430\u0454\u0442\u044c\u0441\u044f \u0442\u0435\u043a\u0441\u0442 \u0421\u0438\u043d\u043e\u0434\u0443   \u0437 \u043d\u0430\u0448\u0438\u043c\u0438 \u043f\u0440\u0438\u043c\u0456\u0442\u043a\u0430\u043c\u0438 \u043d\u0430 \u0441\u043f\u043e\u0434\u0456)."
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "ukr_appendix_search.txt",
+      "target_name": "1e566ed6_ukr_appendix_search.txt",
+      "target_rel_path": "data/historical/1e566ed6_ukr_appendix_search.txt",
+      "size": 29276,
+      "summary": "Match at Line 220:"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "ukr_daily_matins.txt",
+      "target_name": "1e566ed6_ukr_daily_matins.txt",
+      "target_rel_path": "data/historical/1e566ed6_ukr_daily_matins.txt",
+      "size": 4125,
+      "summary": "\u0427\u0418\u041d \u041f\u041e\u0412\u0421\u042f\u041a\u0414\u0415\u041d\u041d\u041e\u0407 \u0423\u0422\u0420\u0415\u041d\u0406"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "ukr_dividers_context.txt",
+      "target_name": "1e566ed6_ukr_dividers_context.txt",
+      "target_rel_path": "data/historical/1e566ed6_ukr_dividers_context.txt",
+      "size": 50968,
+      "summary": "=== MATCH AT LINE 56 ==="
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "ukr_first_100.txt",
+      "target_name": "1e566ed6_ukr_first_100.txt",
+      "target_rel_path": "data/historical/1e566ed6_ukr_first_100.txt",
+      "size": 13765,
+      "summary": "Line 1: \u0422\u0418\u041f\u0418\u041a"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "ukr_hours_context.txt",
+      "target_name": "1e566ed6_ukr_hours_context.txt",
+      "target_rel_path": "data/historical/1e566ed6_ukr_hours_context.txt",
+      "size": 11716,
+      "summary": "450: \u2022  \u043d\u0430 \u043f\u0456\u0441\u043d\u0456 \u0411\u043e\u0433\u043e\u0440\u043e\u0434\u0438\u0446\u0456;"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "ukr_part1_end_context.txt",
+      "target_name": "1e566ed6_ukr_part1_end_context.txt",
+      "target_rel_path": "data/historical/1e566ed6_ukr_part1_end_context.txt",
+      "size": 7210,
+      "summary": "360: \u0431)  \u0421\u0442\u043e\u0457\u0442\u044c \u043f\u0435\u0440\u0435\u0434 \u0441\u0432. \u0434\u0432\u0435\u0440\u043c\u0438: \u0432\u0456\u0434 \u043f\u043e\u0447\u0430\u0442\u043a\u0443 \u0437\u0432\u0438\u0447\u0430\u0439\u043d\u043e\u0433\u043e \u0434\u043e \u201e\u041f\u0440\u0438\u0439\u0434\u0456\u0442\u0435, \u043f\u043e\u043a\u043b\u043e\u043d\u0456\u043c\u0441\u044f\u201d (3) \u0432\u043a\u043b\u044e\u0447\u043d\u043e; \u043d\u0430 \u0432\u0441\u0456\u0445 \u043c\u043e\u043b\u0438\u0442\u0432\u0430\u0445, \u0442\u043e\u0431\u0442\u043e "
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "ukr_part1_end_real.txt",
+      "target_name": "1e566ed6_ukr_part1_end_real.txt",
+      "target_rel_path": "data/historical/1e566ed6_ukr_part1_end_real.txt",
+      "size": 12258,
+      "summary": "456: \u0427\u0418\u041d \u041f\u041e\u0412\u0421\u042f\u041a\u0414\u0415\u041d\u041d\u041e\u0407 \u0423\u0422\u0420\u0415\u041d\u0406"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "ukr_questions.txt",
+      "target_name": "1e566ed6_ukr_questions.txt",
+      "target_rel_path": "data/historical/1e566ed6_ukr_questions.txt",
+      "size": 912,
+      "summary": "Line 1435: \u041f\u0438\u0442\u0430\u043d\u043d\u044f \u0406: \u042f\u043a \u0434\u043e\u0432\u0456\u0434\u0430\u0454\u043c\u043e\u0441\u044c, \u0441\u043a\u0456\u043b\u044c\u043a\u0438 \u0432 \u0434\u0430\u043d\u043e\u043c\u0443 \u0440\u043e\u0446\u0456 \u0431\u0443\u0434\u0435 \u043d\u0435\u0434\u0456\u043b\u044c \u043c\u0456\u0436 \u0411\u043e\u0433\u043e\u044f\u0432\u043b\u0456\u043d\u043d\u044f\u043c \u0456 \u0442\u0440\u0456\u043e\u0434\u0434\u044e?"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "ukr_search_output.txt",
+      "target_name": "1e566ed6_ukr_search_output.txt",
+      "target_rel_path": "data/historical/1e566ed6_ukr_search_output.txt",
+      "size": 15527,
+      "summary": "1667: \u041f\u0440\u0438\u043c\u0456\u0442\u043a\u0438"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "ukr_terms_search.txt",
+      "target_name": "1e566ed6_ukr_terms_search.txt",
+      "target_rel_path": "data/historical/1e566ed6_ukr_terms_search.txt",
+      "size": 37285,
+      "summary": "Line 241: \"\u041f\u0456\u0441\u043b\u044f \u0442\u043e\u0433\u043e, \u044f\u043a \u043d\u0430 \u0433\u043e\u043b\u043e\u0432\u043d\u0456\u043c \u043f\u0440\u0435\u0441\u0442\u043e\u043b\u0456 \u0431\u0443\u0434\u0443\u0442\u044c \u0437\u0430\u043f\u0430\u043b\u0435\u043d\u0456 \u0441\u0432\u0456\u0447\u0456 \u0439 \u043f\u0456\u0434\u0433\u043e\u0442\u043e\u0432\u0430\u043d\u0456 \u0434\u0432\u0456 \u043a\u0430\u0434\u0438\u043b\u044c\u043d\u0438\u0446\u0456, \u044f\u043a\u0449\u043e \u0441\u043b\u0443\u0436\u0438\u0442\u0438\u043c\u0443\u0442\u044c \u0434\u0432\u0430 "
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "ukr_toc_extracted.txt",
+      "target_name": "1e566ed6_ukr_toc_extracted.txt",
+      "target_rel_path": "data/historical/1e566ed6_ukr_toc_extracted.txt",
+      "size": 11834,
+      "summary": "\u0417\u041c\u0406\u0421\u0422"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "ukr_toc_remaining.txt",
+      "target_name": "1e566ed6_ukr_toc_remaining.txt",
+      "target_rel_path": "data/historical/1e566ed6_ukr_toc_remaining.txt",
+      "size": 56318,
+      "summary": "V. \u0423\u0441\u0442\u0430\u0432 \u0411\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0457 \u041b\u0456\u0442\u0443\u0440\u0433\u0456\u0457\t222"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "ukr_toc_search.txt",
+      "target_name": "1e566ed6_ukr_toc_search.txt",
+      "target_rel_path": "data/historical/1e566ed6_ukr_toc_search.txt",
+      "size": 0,
+      "summary": "No summary available"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "ukr_vidomo_context.txt",
+      "target_name": "1e566ed6_ukr_vidomo_context.txt",
+      "target_rel_path": "data/historical/1e566ed6_ukr_vidomo_context.txt",
+      "size": 51086,
+      "summary": "=== MATCH AT LINE 216 ==="
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "word_comments.txt",
+      "target_name": "1e566ed6_word_comments.txt",
+      "target_rel_path": "data/historical/1e566ed6_word_comments.txt",
+      "size": 0,
+      "summary": "No summary available"
+    },
+    {
+      "cid": "1e566ed6-510f-4f9f-9987-1ea377eeb714",
+      "short_cid": "1e566ed6",
+      "created_at": "2026-06-12T09:44:00",
+      "orig_name": "word_tables.txt",
+      "target_name": "1e566ed6_word_tables.txt",
+      "target_rel_path": "data/historical/1e566ed6_word_tables.txt",
+      "size": 36710,
+      "summary": "\ufeffDocument contains 25 tables."
+    },
+    {
+      "cid": "e5ff2e9a-16b3-401d-bdc1-57dd450d6e62",
+      "short_cid": "e5ff2e9a",
+      "created_at": "2026-09-12T17:53:34",
+      "orig_name": "dolnytsky_kw_paras.txt",
+      "target_name": "e5ff2e9a_dolnytsky_kw_paras.txt",
+      "target_rel_path": "data/historical/e5ff2e9a_dolnytsky_kw_paras.txt",
+      "size": 891012,
+      "summary": "=\u0000=\u0000=\u0000 \u0000P\u0000A\u0000R\u0000A\u0000 \u00008\u0000 \u0000=\u0000=\u0000=\u0000"
+    },
+    {
+      "cid": "e5ff2e9a-16b3-401d-bdc1-57dd450d6e62",
+      "short_cid": "e5ff2e9a",
+      "created_at": "2026-09-12T17:53:34",
+      "orig_name": "ordo_kw_paras.txt",
+      "target_name": "e5ff2e9a_ordo_kw_paras.txt",
+      "target_rel_path": "data/historical/e5ff2e9a_ordo_kw_paras.txt",
+      "size": 9464,
+      "summary": "=\u0000=\u0000=\u0000 \u0000O\u0000R\u0000D\u0000O\u0000 \u0000P\u0000A\u0000R\u0000A\u0000 \u00007\u00003\u00008\u0000 \u0000=\u0000=\u0000=\u0000"
+    },
+    {
+      "cid": "e5ff2e9a-16b3-401d-bdc1-57dd450d6e62",
+      "short_cid": "e5ff2e9a",
+      "created_at": "2026-09-12T17:53:34",
+      "orig_name": "scour_results.txt",
+      "target_name": "e5ff2e9a_scour_results.txt",
+      "target_rel_path": "data/historical/e5ff2e9a_scour_results.txt",
+      "size": 539950,
+      "summary": "6.2 From the Publisher"
+    },
+    {
+      "cid": "9921d969-3a5c-4531-a4b6-3e899725121a",
+      "short_cid": "9921d969",
+      "created_at": "2026-06-13T02:12:59",
+      "orig_name": "chat_recap.txt",
+      "target_name": "9921d969_chat_recap.txt",
+      "target_rel_path": "data/historical/9921d969_chat_recap.txt",
+      "size": 75853,
+      "summary": "=== TURN 0 | USER_INPUT ==="
+    }
+  ]
+}

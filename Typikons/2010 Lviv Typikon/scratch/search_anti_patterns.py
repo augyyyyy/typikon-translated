@@ -119,6 +119,8 @@ def main():
 
     all_findings = []
     for root, dirs, files in os.walk(target_dir):
+        # Exclude version control, environments, and archived historical assets
+        dirs[:] = [d for d in dirs if d not in ['.git', '__pycache__', '.venv', 'venv', 'archived_pipelines', 'historical_artifacts']]
         for filename in files:
             if not (filename.endswith('.py') or filename.endswith('.md')):
                 continue

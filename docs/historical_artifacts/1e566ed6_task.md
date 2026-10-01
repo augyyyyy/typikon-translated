@@ -1,0 +1,23 @@
+- [x] Restructuring Table of Contents and Headings
+  - [x] Update Final_Dolnytsky_intro.md with expanded TOC
+  - [x] Update headers in Final_Dolnytsky_part1_structure.md
+  - [x] Update headers in Final_Dolnytsky_part2_general_rubrics.md
+  - [x] Update headers in Final_Dolnytsky_part3_menaion.md
+  - [x] Update headers in Final_Dolnytsky_part4_triodion.md
+  - [x] Update headers in Final_Dolnytsky_part5_temple.md
+  - [x] Update headers in Final_Dolnytsky_appendix.md
+  - [x] Compile and verify the master document
+- [x] Formatting Liturgical Content & Rubrics
+  - [x] Format Part 1: General View of the Divine Services (italicize rubrics, blockquote dialogues)
+  - [x] Format Part 2: General Rubrics (clean conditional formatting and lists)
+  - [x] Format Part 3: Specific Rubrics of the Menaion (highlight feasts and exclamations)
+  - [x] Format Part 4: Rubrics of the Triodion (Lenten and Paschal cycles formatting)
+  - [x] Format Part 5: Rubrics Concerning Temples (processions and curtain rubrics)
+  - [x] Format Appendix and Glossary
+  - [x] Compile final formatted master document and verify no broken anchors
+- [x] Granular Citation Model & Heading Restructuring
+  - [x] Perform manual splits (Daily Matins, Exaltation of the Cross, Appendix)
+  - [x] Clean up summary lists (Part 2 General Rubrics)
+  - [x] Apply sequential path-qualified numbering to all headings (H2-H5)
+  - [x] Update and resolve all Table of Contents and cross-reference links (244 links verified)
+  - [x] Verify zero-loss text integrity (100% identical body text)

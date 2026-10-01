@@ -1,0 +1,22 @@
+with open(r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon\backup\Final_Dolnytsky_part1_structure.md", 'r', encoding='utf-8') as f:
+    lines = f.readlines()
+
+print("Line 137:", repr(lines[137]))
+print("Line 138:", repr(lines[138]))
+print("Line 139:", repr(lines[139]))
+print("Line 140:", repr(lines[140]))
+print("Line 141:", repr(lines[141]))
+print("Line 142:", repr(lines[142]))
+print("Line 143:", repr(lines[143]))
+
+print("\nLine 190:", repr(lines[190]))
+print("Line 191:", repr(lines[191]))
+print("Line 192:", repr(lines[192]))
+print("Line 193:", repr(lines[193]))
+print("Line 194:", repr(lines[194]))
+print("Line 195:", repr(lines[195]))
+print("Line 196:", repr(lines[196]))
+print("Line 197:", repr(lines[197]))
+print("Line 198:", repr(lines[198]))
+print("Line 199:", repr(lines[199]))
+print("Line 200:", repr(lines[200]))
