@@ -1,0 +1,82 @@
+{
+  "cohort": 1,
+  "files_audited": [
+    "1891_synod_cohort1.txt",
+    "1891_synod_cohort1.md"
+  ],
+  "vocabulary_audit": {
+    "passed": true,
+    "violations": []
+  },
+  "deity_pronoun_audit": {
+    "passed": true,
+    "violations": []
+  },
+  "footnote_symmetry": {
+    "passed": true,
+    "text_markers": [
+      "[^1]",
+      "[^2]",
+      "[^3]",
+      "[^4]",
+      "[^5]",
+      "[^6]",
+      "[^7]",
+      "[^8]",
+      "[^9]",
+      "[^10]",
+      "[^11]",
+      "[^12]",
+      "[^13]",
+      "[^14]",
+      "[^15]",
+      "[^16]",
+      "[^17]",
+      "[^18]",
+      "[^19]",
+      "[^20]",
+      "[^21]"
+    ],
+    "definition_markers": [
+      "[^1]",
+      "[^2]",
+      "[^3]",
+      "[^4]",
+      "[^5]",
+      "[^6]",
+      "[^7]",
+      "[^8]",
+      "[^9]",
+      "[^10]",
+      "[^11]",
+      "[^12]",
+      "[^13]",
+      "[^14]",
+      "[^15]",
+      "[^16]",
+      "[^17]",
+      "[^18]",
+      "[^19]",
+      "[^20]",
+      "[^21]"
+    ],
+    "missing": [],
+    "orphaned": []
+  },
+  "structural_sequence": {
+    "passed": true,
+    "sections": [
+      "TITULUS XI. ON FASTS",
+      "TITULUS XII. ON OFFICES FOR THE DEPARTED",
+      "CHAPTER I. On Divine Liturgies and Other Offices for the Departed",
+      "§ I. On the Divine Liturgy for the Departed",
+      "§ II. On the Office for the Departed",
+      "CHAPTER II. On Ecclesiastical Burial and Cemeteries",
+      "TITULUS XIII. ON ECCLESIASTICAL COURTS",
+      "TITULUS XIV. ON SYNODS",
+      "I. Regarding Those Who Are to Be Summoned to the Synod",
+      "II. Regarding the Time of Holding Provincial and Diocesan Synods",
+      "TITULUS XV. ON CHURCH PROPERTY"
+    ]
+  }
+}
