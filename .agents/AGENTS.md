@@ -35,10 +35,15 @@ The status output must be compared with the last known "golden" baseline. If the
 * Align English and Ukrainian chunks by matching these structural keys rather than assuming a simple row-by-row `zip()`.
 * If a single section exceeds 15,000 characters, subdivide it only at sentence boundaries (`. `, `? `, `! ` followed by a space), never in the middle of a paragraph.
 
-### 3. Liturgical Translation & Glossary Guardrails
-* Divine addresses must be translated as "Thee," "Thou," "Thy," "Thine," etc., or follow local parish custom. Ensure pronoun capitalization rules are strictly checked (e.g. He, Him, His for the Deity).
-* Ensure the canonical English terms in `SYSTEM_INSTRUCTIONS.md` are used, with zero tolerance for forbidden variants (e.g., *Sluzhebnik* must not be translated as generic "Service Book" when standalone).
-* Reference the gold standard examples for detailed rubrics and footnote placements.
+### 3. Liturgical Translation, Native Vision & Master Standard (MTS-1)
+* All translations across all monuments must strictly comply with the **Master Translation Standard (MTS-1)** codified in:
+  `C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Shared_Lexicon\MASTER_TRANSLATION_STANDARD.md`
+* **Universal Native Vision Mandate**: 100% of translated texts begin with 300 DPI image extraction and direct Gemini Native Vision transcription. Digital texts or existing drafts are strictly secondary concordances.
+* **The Four Registers**: Agents must apply the appropriate genre register (Juridical, Rubrical, Hymnographic, Scholarly).
+* **Scripture & Psalter**: Septuagint (LXX) numbering is mandatory; Masoretic references in brackets in footnotes only.
+* **Rubrical Mood**: Use Active Present Indicative for ceremonial actions; reserve "shall" for statutory legal mandates.
+* **Realia & Melodic Models**: Use technical loanwords (*Tetrapod, Klepalo, Aer, Kolyvo, Plashchanytsia, Sluzhebnik*) and Ruthenian chant headings (*Tone 1–8*, *Podoben: "[Incipit]"*).
+* **Pronouns & Doxology**: 100% capitalization on Deity Trinity pronouns (*He, Him, His, Thou, Thee*); enforce the Father Paul Doxology Standard (ban *"for ever and ever"*).
 
 ### 4. Footnote Referencing Protocol
 * Every footnote marker `[^N]` in a Part file MUST have a corresponding `[^N]:` definition in `Final_footnotes.txt`, and vice versa.

@@ -1,0 +1,363 @@
+# Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)
+## Tier 1 (The Calibration Anchor) — Cohort 2: Physical Pages 258–270 (Leaves p262–p274)
+
+> [!NOTE]
+> **Historical & Canonical Significance**  
+> Cohort 2 concludes the legal enactments of the 1891 Lviv Provincial Synod (*Чинности и рѣшеня руского провинціяльного Собора въ Галичинѣ ôтбувшого ся во Львовѣ въ роцѣ 1891*). It features the conclusion of **Titulus XV (On Church Property)**, the historic **Signatures of the Synodal Hierarchy and Clergy** (including Fr. Isidore Dolnytsky, author of the 1899 Typikon, and Dr. Isidore Sharanevych, Senior of the Stavropeghial Institute), the formal **Decree of Papal Confirmation** from Rome (Pope Leo XIII and the Sacred Congregation *de Propaganda Fide pro negotiis Ritus Orientalis*), and the **Official Synodal Table of Contents** detailing the entire statutory framework of the Galician Greek-Catholic Church.
+
+---
+
+## Table of Contents
+1. [Titulus XV. On Church Property *(Conclusion)*](#titulus-xv-on-church-property-conclusion)
+2. [Signatures of the Synodal Fathers](#signatures-of-the-synodal-fathers)
+   - [The Synodal Hierarchy & Presidency](#the-synodal-hierarchy--presidency)
+   - [From the Archeparchy of Lviv](#from-the-archeparchy-of-lviv)
+   - [From the Eparchy of Przemyśl](#from-the-eparchy-of-przemyśl)
+   - [From the Eparchy of Stanyslaviv](#from-the-eparchy-of-stanyslaviv)
+3. [Decree of Papal Confirmation](#decree-of-papal-confirmation)
+4. [Official Synodal Table of Contents](#official-synodal-table-of-contents)
+   - [Part I: Acts of the Synod](#part-i-acts-of-the-synod)
+   - [Part II: Decrees of the Synod (Tituli I–XV)](#part-ii-decrees-of-the-synod)
+   - [Part III: Concluding Acts & Confirmation](#part-iii-concluding-acts--confirmation)
+5. [Scholarly Critical Apparatus & Footnotes](#scholarly-critical-apparatus--footnotes)
+
+---
+
+## Titulus XV. On Church Property *(Conclusion)*
+*(Continued from p. 257 / Leaf p262)*
+
+**6.** *(Concluded)* ...that they have recourse to their Ordinaries, but never presume to undertake that on their own. Further, let them endeavor that these goods be preserved intact in their state, and that especially in the case of a transfer of administrators they suffer no injury to the detriment of their successors; in particular, let them not clear-cut forests where the benefice (*ерекція*) possesses such, but for obtaining profit from them, let them proceed according to the forest laws; which must likewise be observed with respect to fruit orchards.
+
+**7.** The leasing [of church property] for a year, or with the permission of the Ordinariate for three years, is to be granted to none other than the most honorable Christians.
+
+*Done in Lviv, on the 8th day of October, 1891.*
+
+---
+
+## Signatures of the Synodal Fathers
+*(Physical pp. 258–264 / Leaves p262–p268)*
+
+The Names of the Signatories Follow:
+
+### The Synodal Hierarchy & Presidency
+
+* **Fr. Agostino, Archbishop of Larissa**, Apostolic Delegate, President of the Synod. [^22]
+* **Sylvester Sembratovych**, Metropolitan of Halych, Archbishop of Lviv of the Ruthenian Catholics, Bishop of Kamianets.
+* **Julian Pelesz**, Bishop of Przemyśl, Sambir, and Sanok.
+* **Julian Sas-Kuilovsky**, Bishop of Stanyslaviv.
+
+---
+
+### From the Archeparchy of Lviv
+
+* **Mykhailo Singalevych**, Archpriest of the Greek-Catholic Metropolitan Chapter of Lviv, Domestic Prelate of His Holiness Pope Leo XIII.
+* **Lev Hoterovsky**, Archdeacon of the Greek-Catholic Metropolitan Chapter of Lviv.
+* **Andrei Biletsky**, Scholastic of the Greek-Catholic Metropolitan Chapter of Lviv, Domestic Prelate of His Holiness Pope Leo XIII.
+* **Yosyf Kobyliansky**, Chancellor of the Metropolitan Chapter.
+* **Lev Turkevych**, Canon of the Greek-Catholic Chapter of Lviv and Pastor of the Archcathedral.
+* **Dr. Yosyf Komarnytsky**, Canon of the Greek-Catholic Metropolitan Chapter and Ordinary Professor of the University.
+* **Martin Pakizh**, Privy Chamberlain of His Holiness, Canon of the Greek-Catholic Chapter of Lviv.
+* **Emilian Bilynsky**, Canon of the Greek-Catholic Metropolitan Chapter of Lviv.
+* **Dr. Klyment Sarnytsky**, Protohegumen of the Order of Saint Basil the Great.
+* **Mykhailo Malynovsky**, Retired Canon, Archdeacon of the Metropolitan Chapter.
+* **Oleksandr Bachynsky**, Rector of the Greek-Catholic General Seminary of Lviv, Honorary Canon of the Chapter of Lviv.
+* **Vasyl Ilnytsky**, Director of the Imperial-Royal Academic Gymnasium, Honorary Canon, Member of the Provincial School Board, Imperial-Royal School Councillor.
+* **Dr. Theol. Yosyf Levytsky**, Honorary Canon of the Metropolitan Chapter, Imperial-Royal Professor.
+* **Vasyl Fortuna**, Honorary Canon, Pastor and Dean of Ternopil.
+* **Dr. Teofil Sembratovych**, Rector of the Seminary of Vienna.
+* **Dr. Emilian Ohonovsky**, Titular Councillor of the Metropolitan Consistory of Lviv, Public Ordinary Professor of the University of Lviv.
+* **Dr. Ioan Bartoshevsky**, Active Councillor of the Metropolitan Consistory of Lviv and Public Ordinary Professor of the Imperial-Royal University of Lviv.
+* **Onufriy Lepky**, Professor of Religion in the Imperial-Royal Franz Joseph Gymnasium of Lviv, Councillor of the Metropolitan Consistory.
+* **Dr. Yosyf Melnytsky**, Vice-Rector.
+* **Ioan Hushalevych**, Retired Professor.
+* **Isidore Dolnytsky**, Spiritual Director of the Seminary. [^23]
+* **Severyn Toronsky**, Vice-Rector of the Ruthenian Greek-Catholic Seminary.
+* **Teodor Korduba**, Dean and Pastor of Berezhany.
+* **Stefan Yuryk**, Prefect of Studies in the Greek-Catholic General Seminary of Lviv.
+* **Oleksandr Radykevych**, Dean of Bibrka.
+* **Hryhoriy Slovytsky**, Dean of Busk and Pastor in Kozliv.
+* **Dr. Havryil Kryzhanovsky**, Referendary, Councillor, and Chancellor of the Metropolitan Consistory.
+* **Yulian Koptsiansky**, Administrator of the Deanery of Halych and Pastor of Halych.
+* **Mykhailo Kulmatytsky**, Dean and Pastor of Horodok.
+* **Yosyf Kernyakevych**, Dean of Zhuravno, Pastor in Cherniv.
+* **Kornyliy Montsibovych**, Administrator of the Deanery of Zalozhtsi and Pastor in Vertilka.
+* **Hryhoriy Chubaty**, Dean of Zbarazh, Pastor in Stupky.
+* **Yevstakhiy Klosevych**, Dean of Zboriv, Pastor in Prysivtsi.
+* **Oleksandr Chemarynsky**, Dean and Pastor of Zolochiv.
+* **Ihnatiy Hubchak**, Dean and Pastor of Kalush.
+* **Ioan Yurkevych**, Dean of the Suburban Deanery of Lviv, Pastor in Hermaniv.
+* **Aleksander Tanchakovsky**, Administrator of the Deanery of Naraiv, Pastor of Dunaiv.
+* **Antoniy Davydovych**, Dean of Olesko, Pastor in Zabolottsi.
+* **Mykolay Kobrynsky**, Pastor in Tseniv.
+* **Lev Levytsky**, Dean of Perehinske, Pastor in Yanivtsi.
+* **Ilariy Stetkevych**, Dean of Pidhaitsi and Pastor in Bozhykiv.
+* **Yosyf Makohonsky**, Dean of Rohatyn, Pastor in Horishnia Lypytsia.
+* **Konstantyn Strotsky**, Administrator of the Deanery of Rozdil and Pastor in Rudnyky.
+* **Ioan Slyuzar**, Dean and Pastor of Skalat.
+* **Ioan Zalutsky**, Dean and Pastor of Terebovlya.
+* **Yulian Levytsky**, Dean of Univ, Pastor in Slovita.
+* **Teodor Stupnytsky**, Dean of Khodoriv, Pastor in Molotiv.
+* **Ioan Sokhatsky**, Dean of Kholoyiv, Pastor in Stoyaniv.
+* **Yevstakhiy Merunovych**, Dean of Shchyrets, Pastor of the Church of the Holy Apostles Peter and Paul in Lviv.
+* **Yosyf Zayachkovsky**, Pastor in Lopianka of the Deanery of Perehinske.
+* **Adolf Vasylevsky**, Pastor of Lviv, Vice-Dean of the Urban Deanery of Lviv.
+* **Fr. Meletiy Tybnyka**, Hegumen of the Hoshiv Monastery of the Order of Saint Basil the Great.
+* **Fr. Pavlo Pylynsky**, Hegumen of the Monastery of Zolochiv.
+* **Fr. Vladyslav Dorozhynsky**, Pastor in Mizun.
+* **Fr. Longin Karpovych**, Hegumen of Pidhirtsi.
+* **Dmytro Huzar**, Titular Councillor of the Metropolitan Consistory, Pastor in Zavaliv.
+* **Vasyl Kopytchak**, Imperial-Royal Gymnasium Professor of Religion in Ternopil.
+* **Aleksander Stefanovych**, Professor of Religion in the Pedagogical Seminary of Lviv.
+* **Kassiyan Kunytsky**, Imperial and Royal Military Chaplain from the Eparchy of Lviv.
+* **Klyment Hlynsky**, Titular Consistorial Councillor, Pastor in Kamianka.
+* **Atanasiy Pashkovsky**, Pastor in Olesko.
+* **Volodymyr Petrushevych**, Archcathedral Confessor.
+* **Ioan Chapelsky**, Prefect of the Greek-Catholic Seminary in Lviv.
+* **Dr. Tyt Myshkovsky**, Prefect of Studies in the Greek-Catholic General Seminary in Lviv.
+* **Dr. of Sacred Theology Ilariy Vatsyk**, Prefect of Studies, Catechist of Gymnasium V in Lviv.
+* **Onufriy Zatserkovny**, Pastor in Sknyliv.
+* **Lev Dzhulynsky**, Pastor in Lapshyn, Editor of the periodical *Poslannyk*.
+* **Anatol Dolynsky**, Pastor of Yakhtoriv.
+* **Ioan Redkevych**, Archcathedral Preacher.
+* **Aleksander Zderkovsky**, Pastor of Krushelnytsia.
+* **Yevheniy Huzar**, Catechist of the Municipal Girls' School and Deputy Secretary to His Excellency the Most Reverend Metropolitan.
+* **Petro Frants Krypyakevych**, Archcathedral Vicar of Lviv, Notary of the Provincial Synod.
+* **Yakov Syroyidov**, Archcathedral Priest of Lviv.
+* **Dr. Isidore Sharanevych**, Senior of the Stavropeghial Institute in Lviv, Public Ordinary Professor in the Imperial-Royal University of Lviv. [^24]
+
+---
+
+### From the Eparchy of Przemyśl
+
+* **Venedykt Lytynsky**, Archdeacon of the Chapter of Przemyśl.
+* **Myron Podolynsky**, Canon of the Chapter of Przemyśl.
+* **Ioan Voytovych**, Canon of the Chapter of Przemyśl and Rector of the Diocesan Seminary.
+* **Dr. of Sacred Theology Yosyf Delkevych**, Honorary Greek-Catholic Canon of the Eparchy of Przemyśl, Retired Professor of Church History in the University of Lviv.
+* **Vasyl Cheparnyk**, Honorary Canon of the Eparchy of Przemyśl and Pastor of Sanok.
+* **Plyaton Paslavsky**, Honorary Canon of the Eparchy of Przemyśl and Pastor of Belz.
+* **Mykolay Rozdilsky**, Honorary Canon of the Chapter of Przemyśl, Pastor of Sokal.
+* **Ioan Koptsiansky**, Honorary Canon of the Chapter of Przemyśl, Retired Dean and Greek-Catholic Pastor of Krynytsia.
+* **Ioan Borsuk**, Pastor of Kraków and Honorary Canon of Przemyśl.
+* *With reservation of the rights reserved to the Apostolic See, I sign:* [^25]  
+  **Dr. Yosyf Cherlyunchakevych**, Retired Professor and Dean of the Jagiellonian University of Kraków and of Lviv.
+* **Oleksiy Toronsky**, Professor of Religion in the Imperial and Royal Academic Gymnasium of Lviv and Councillor of the Metropolitan Consistory.
+* **Dr. of Sacred Theology Ioan Hrobelsky**, Professor of Pastoral Theology in the Greek-Catholic Seminary of Przemyśl.
+* **Poliyevkt Kmyt**, Substitute Professor of Canon Law and Prefect of Studies in the Greek-Catholic Seminary of Przemyśl.
+* **Dr. Mykolay Malynyak**, Pastor of Slyvnytsia, Delegate of Nizhankovychi.
+* **Orest Chekhovych**, Pastor of Boratyn, Vice-Dean of Belz, Eparchy of Przemyśl.
+* **Dr. Sylvester Koptsiansky**, Greek-Catholic Pastor in Kinsko, Eparchy of Przemyśl.
+* **Dioniziy Dobriansky**, Administrator of the Deanery of Biecz, Pastor in Zdynia.
+* **Volodymyr Khylyak**, Pastor in Bartne of the Deanery of Biecz.
+* **Mykhailo Prukhnytsky**, Dean of Vysochany and Pastor in Turka.
+* **Mykhailo Matkovsky**, Vice-Dean of Horozhanna and Pastor in Horozhanka, Eparchy of Przemyśl.
+* **Yosyf Merena**, Pastor of Grab, Eparchy of Przemyśl.
+* **Konstantyn Hukevych**, Pastor in Kvashenyna and Vice-Dean of Dobromyl, Eparchy of Przemyśl.
+* **Vasyl Chernetsky**, Pastor in Siltse-Belzske, of the Deanery of Belz, Eparchy of Przemyśl.
+* **Ioan Skobelsky**, Dean of Drohobych, Pastor in Lishnia, Eparchy of Przemyśl.
+* **Kyrylo Seletsky**, Pastor of Zhuzhel of the Deanery of Belz.
+* **Teodor Borys**, Pastor in Khashchiv and Vice-Dean of Zhukotyn.
+* **Markyl Myhulovych**, Dean of Zatvarnytsia, Pastor in Chorna.
+* **Toma Shumylo**, Administrator of the Deanery of Kańczuga, Pastor in Kuryłówka.
+* **Ioan Negrebetsky**, Pastor of Zalissia.
+* **Iliya Kalamunetsky**, Dean of Komarno and Pastor of Kropylnyk.
+* **Ioan Yablonovsky**, Pastor of Lyubachiv.
+* **Ioan Parylovych**, Pastor in Zlotske.
+* **Lev Hrynvevetsky**, Pastor of Bykiv.
+* **Hryhoriy Koptsiansky**, Pastor of Snitnytsia, Deanery of Muszyna.
+* **Severyn Turchmanovych**, Pastor of Lukiv, Vice-Dean of Olkhivtsi.
+* **Anatol Sinkevych**, Pastor of Stobna for the Deanery of Przemyśl.
+* **Ioan Borysevych**, Pastor of Kryvets, Vice-Dean of Porokhnyk.
+* **Ioan Reshetylo**, Pastor of Maheriv for the Deanery of Potelych.
+* **Emilian Levytsky**, Pastor of Tartakiv, Deanery of Sokal.
+* **Aleksander Nestorowych**, Dean of Sambir and Pastor in Sambir.
+* **Georgiy Hladylovych**, Pastor of Khyriv, Retired Dean of Birecha.
+* **Lev Shchavynsky**, Dean of Staryi Sambir, Pastor in Stare Misto.
+* **Lev Sembratovych**, Administrator of the Deanery of Sanok and Pastor in Chertezh.
+* **Ioan Holovynsky**, Pastor in Moloshkovychi, Dean of Sudova Vyshnia.
+* **Yosyf Krushynsky**, Pastor in Selyska of the Deanery of Yavoriv.
+* **Hryhoriy Sekela**, Pastor in Lisko for the Deanery of Lisko.
+* **Emilian Didytsky**, Pastor in Mosty, Deanery of Uhniv.
+* **Antal Fedynkevych**, Pastor in Buniv, Deanery of Yavoriv.
+* **Teodor Melnyk**, Pastor of Staryava of Sanok, Delegate of the Deanery of Ustrzyki.
+* **Mykolay Nazarevych**, Pastor in the village of Serny.
+* **Antoniy Beskyd**, Pastor in Tarnavka, Vice-Dean of Jaśliska.
+
+---
+
+### From the Eparchy of Stanyslaviv
+
+* **Vasyl Fatsevych**, Archpriest of the Episcopal Chapter of Stanyslaviv.
+* **Ioan Lytvynovych**, Custos of the Episcopal Chapter of Stanyslaviv.
+* **Teodat Shankovsky**, Honorary Canon, Dean and Pastor of the Cathedral of Stanyslaviv.
+* **Teodor Lisivych**, Honorary Canon, Dean of Kosiv, Pastor in Stari Kuty.
+* **Ioan Kobliansky**, Honorary Canon, Dean of Kolomyia, Pastor in Kolomyia, Knight of the Imperial-Royal Order of Franz Joseph.
+* **Kelestyn Kostetsky**, Honorary Canon, Dean of Bukovyna, Pastor of Chernivtsi.
+* **Vasyl Bohonos**, Honorary Canon and Pastor in Khorostkiv.
+* **Antal Kobrynsky**, Urban Dean, Pastor in Rakivtsi.
+* **Lev Kalynsky**, Dean of Tysmenytsia and Pastor in Olshanytsia.
+* **Mykhailo Hulla**, Councillor of the Episcopal Consistory, Dean of Kudryntsi, Pastor of Borshchiv and Mushkativ.
+* **Ioan Partytsky**, Titular Councillor of the Episcopal Consistory, Dean of Tovmach, Pastor in Torhovytsia.
+* **Ioan Mykhalevych**, Titular Councillor of the Episcopal Consistory, Dean of Chortkiv, Pastor in Bilobozhnytsia.
+* **Mykolay Drohomyretsky**, Dean of Buchach and Pastor from Stinka.
+* **Yulian Levytsky**, Vice-Dean of Buchach, Pastor of Zhyznomyr.
+* **Kyrylo Pachovsky**, Pastor and Dean of Bohorodchany.
+* **Kyrylo Hamorak**, Greek-Catholic Cooperator with right of parish administration in Stetseva.
+* **Stefan Lenkavsky**, Pastor in Uhornyky.
+* **Maksymiliyan Krushelnytsky**, Pastor in Nazirna.
+* **Ioan Hrabovych**, Pastor in Tysmenytsia.
+* **Andrei Stotanchyk**, Pastor and Vice-Dean of Ustechko, Eparchy of Stanyslaviv.
+* **Iliya Mardarovych**, Archeparchial Mission Preacher for the Eradication of Drunkenness, Episcopal Consultor, Pastor of Kaminky, Eparchy of Stanyslaviv.
+* **Mykolay Hoshowsky**, Administrator of the Deanery of Yezupil and Pastor of Blyudnyky, Eparchy of Stanyslaviv.
+* **Fr. Ieron Ostroverkha**, Hegumen of the Monastery of the Order of Saint Basil the Great in Buchach.
+* **Leontiy Lushpynsky**, Pastor in Trybukhivtsi, Second Vice-Dean of Chortkiv.
+* **Petro Mytskovsky**, Dean of Skala and Pastor in Chornokintsi, Eparchy of Stanyslaviv.
+* **Petro Hyl**, Pastor in Oleksyntsi, Eparchy of Stanyslaviv.
+* **Rudolf Mokh**, Greek-Catholic Pastor in Ostriv with Kurydiv, Deanery of Yezupil, Titular Councillor of the Episcopal Consistory of Stanyslaviv, Mission Preacher for the Establishment of Sobriety, Member of the Society of the Holy Apostle Paul.
+* **Hryhoriy Tymyak**, Administrator of the Deanery of Pistyn, Pastor in Sheshory, Eparchy of Stanyslaviv.
+* **Ioan Bilous**, Pastor to Biloberezka.
+* **Aleksander Knyahynytsky**, Pastor in Zalishchyky, Retired Dean.
+* **Volodymyr Kozyorovsky**, Vice-Dean of Husiatyn, Pastor in Horodnytsia.
+
+---
+
+## Decree of Papal Confirmation
+### By Which the Second Ruthenian Synod of Lviv Is Confirmed
+
+> [!IMPORTANT]
+> **Apostolic Decree of Pope Leo XIII and the Sacred Congregation *de Propaganda Fide***  
+> When the Most Reverend Father Sylvester Sembratovych, Ruthenian Archbishop of Lviv, and the Bishops his Suffragans determined to hold a Provincial Synod, the second after that of Zamość, and the same was held in Lviv in the year 1891, announced for the 22nd day of September and happily concluded on the 8th day of October, under the presidency of the Delegate of the Holy Apostolic See, the Most Reverend Father Agostino Ciasca, Archbishop of Larissa; afterwards, when the acts and decrees of the same Synod the Most Reverend Archbishop and the other Bishops with due submission subjected to the examination and judgment of the Holy See: then Their Eminences the Fathers of the Sacred Congregation *de Propaganda Fide* for the Affairs of the Eastern Rite subjected them to examination and approved them according to the exemplar hereto annexed; and in witness of that approval they commanded a Decree to be issued, that it might be observed by all whom it concerns.  
+>  
+> When the undersigned Secretary submitted this resolution of the Sacred Congregation to the Holy Father, Our Lord Pope Leo XIII, in an audience on the 30th day of April 1895, the Most Holy Father deigned to approve and confirm it in all respects, anything to the contrary notwithstanding.  
+>  
+> *Given at Rome, from the house of the same Sacred Congregation de Propaganda Fide for the Affairs of the Eastern Rite, on the 1st day of March, 1895.* [^26]
+
+---
+
+## Official Synodal Table of Contents
+### Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)
+
+#### Part I: Acts of the Synod (*Чинности Собора*)
+
+* **I.** Letter of the Ruthenian Metropolitan Province of Halych to the Holy Apostolic See, humbly requesting and awaiting permission to convoke and celebrate the Synod *(p. 3)*
+* **II.** Letter of the Metropolitan of the Ruthenian Province of Halych to His Eminence the Most Reverend Father Cardinal Simeoni, Cardinal of the Holy Roman Church, Prefect of the Sacred Congregation *de Propaganda Fide*, regarding the Ruthenian Provincial Synod to be celebrated in Lviv *(p. 5)*
+* **III.** Letter of His Eminence Cardinal Giovanni Simeoni, Cardinal of the Holy Roman Church, Prefect of the Sacred Congregation *de Propaganda Fide*, to the Ruthenian Metropolitan of Halych, informing him of the most gracious granting of the Apostolic Blessing by the Holy Father to the Ruthenian Synod of Lviv, and of the sending of a special Delegate of the Holy Father to the Synod *(p. 7)*
+* **IV.** Announcement of the Convocation of the Ruthenian Provincial Synod to be held in the month of September 1891 *(p. 9)*
+* **V.** Order to be observed and proceedings to be undertaken in the convocation and celebration of the Ruthenian Provincial Synod in Lviv, in the month of September 1891 *(p. 17)*
+* **VI.** Letter of the Ruthenian Episcopate of the Province of Halych, reporting to the Holy Father the completion of the Synod and humbly requesting the approval of its decrees *(p. 43)*
+* Letter of Pope Leo XIII to the Ruthenian Episcopate *(p. 45)*
+* **VII.** Acts of the General Congregations and Sessions:
+  - First General Congregation *(p. 46)*
+  - First Session *(p. 48)*
+  - Second General Congregation *(p. 63)*
+  - Second Session *(p. 65)*
+  - Third General Congregation *(p. 67)*
+  - Third Session *(p. 67)*
+  - Fourth General Congregation *(p. 68)*
+  - Fourth and Final Session *(p. 69)*
+
+---
+
+#### Part II: Decrees of the Ruthenian Provincial Synod of Lviv (1891) (*Рѣшеня Собора*)
+
+* **TITULUS I. On the Catholic Faith** *(p. 73)*
+  - Chapter I. On the Profession of the Catholic Faith *(p. 73)*
+  - Chapter II. On Catholic Doctrine *(p. 74)*
+  - Chapter III. On Religious Indifference *(p. 76)*
+  - Chapter IV. On Communication in Sacred Things with Heretics and Schismatics *(p. 77)*
+  - Chapter V. On the Censorship of Books *(p. 79)*
+  - Chapter VI. On the Sect of Freemasons and Other Condemned or Forbidden Societies *(p. 82)*
+  - Chapter VII. On Preaching the Word of God *(p. 85)*
+  - Chapter VIII. On the Catechism *(p. 88)*
+
+* **TITULUS II. On the Sacraments and Their Administration** *(p. 91)*
+  - Chapter I. On the Holy Sacrament of Baptism *(p. 91)*
+  - Chapter II. On the Holy Sacrament of Chrismation *(p. 92)*
+  - Chapter III. On the Most Holy Sacrament of the Eucharist *(p. 93)*
+  - Chapter IV. On the Sacrament of Penance *(p. 97)*
+  - Chapter V. On the Sacrament of Anointing of the Sick *(p. 99)*
+  - Chapter VI. On the Sacrament of Holy Orders *(p. 101)*
+  - Chapter VII. On the Sacrament of Matrimony *(p. 103)*
+
+* **TITULUS III. On Consecrations and Blessings (Sacramentals)** *(p. 103)*
+
+* **TITULUS IV. On Public Worship of God** *(p. 109)*
+  - Chapter I. On the Sacrifice of the Divine Liturgy *(p. 109)*
+  - Chapter II. On Intentions and Stipends for Divine Liturgies *(p. 114)*
+  - Chapter III. On the Canonical Hours (Church Rule) and Other Public Divine Services *(p. 118)*
+  - Chapter IV. Regarding the Celebration of Extra-Ordinary Rites, Certain of Which Are Attached to Immovable Feasts and Others to Movable Feasts *(p. 121)*
+    * Regarding Rites Attached to Immovable Feasts *(p. 121)*
+    * Regarding Rites Attached to Movable Feasts *(p. 122)*
+    * On the Exposition and Blessing with the Most Blessed Gifts *(p. 125)*
+    * On the Celebration of the Akathist Office *(p. 127)*
+    * On the Office of the Paraklesis *(p. 128)*
+  - Chapter V. On Church Singing *(p. 128)*
+  - Chapter VI. On the Celebration of Feast Days *(p. 132)*
+    * Immovable Feasts *(p. 137)*
+    * Movable Feasts *(p. 138)*
+  - Chapter VII. On the Veneration of the Saints, Relics, and Holy Images (Icons) *(p. 138)*
+  - Chapter VIII. On Holy Processions, Pilgrimages, and Missions *(p. 144)*
+  - Chapter IX. On Domestic Worship of God *(p. 151)*
+
+* **TITULUS V. On the Holy Divine Liturgy** *(p. 153)*
+  - The Order of the Divine Liturgy — Proskomedia for Divine Liturgies *(p. 154)*
+  - Regarding the Divine Liturgy Itself *(p. 161)*
+
+* **TITULUS VI. On Churches Dedicated to the Worship of God** *(p. 182)*
+  - Chapter I. On the Construction of Churches *(p. 183)*
+  - Chapter II. On the Interior Decoration of Churches *(p. 185)*
+  - Chapter III. On Sacred Vessels and Church Utensils *(p. 186)*
+  - Chapter IV. On the Colors of Sacred Vestments *(p. 187)*
+
+* **TITULUS VII. On the Ecclesiastical Hierarchy** *(p. 189)*
+  - Chapter I. On the Roman Pontiff *(p. 190)*
+  - Chapter II. On the Metropolitan *(p. 191)*
+  - Chapter III. On Bishops *(p. 194)*
+  - Chapter IV. On Cathedral Chapters *(p. 197)*
+  - Chapter V. On Vicars Forane or Deans *(p. 200)*
+  - Chapter VI. On Pastors *(p. 202)*
+  - Chapter VII. On Parochial Assistants (Cooperators) *(p. 206)*
+
+* **TITULUS VIII. On Theological Seminaries** *(p. 208)*
+  - Chapter I. On Minor Seminaries *(p. 209)*
+  - Chapter II. On Major Seminaries *(p. 212)*
+
+* **TITULUS IX. On the Clergy** *(p. 218)*
+  - Chapter I. On the Dignity of the Priest of the New Testament *(p. 218)*
+  - Chapter II. On the Righteousness of the Priest's Life *(p. 221)*
+  - Chapter III. On the Knowledge and Learning of the Priest *(p. 233)*
+  - Chapter IV. On Parochial Examinations (Concursus) *(p. 236)*
+
+* **TITULUS X. On Monks** *(p. 237)*
+
+* **TITULUS XI. On Fasts** *(p. 240)*
+
+* **TITULUS XII. On Offices for the Departed** *(p. 243)*
+  - Chapter I. On Divine Liturgies and Other Offices for the Departed *(p. 243)*
+    * § I. On the Divine Liturgy for the Departed *(p. 246)*
+    * § II. On the Office for the Departed (Parastas & Panakhyda Rubrics) *(p. 247)*
+  - Chapter II. On Ecclesiastical Burial and Cemeteries *(p. 250)*
+
+* **TITULUS XIII. On Ecclesiastical Courts** *(p. 252)*
+
+* **TITULUS XIV. On Synods** *(p. 253)*
+  - 1. Regarding Those Who Are to Be Summoned to the Synod *(p. 254)*
+  - 2. Regarding the Time of Holding Provincial and Diocesan Synods *(p. 255)*
+
+* **TITULUS XV. On Church Property** *(p. 256)*
+
+---
+
+#### Part III: Concluding Acts & Confirmation
+
+* **Signatures of the Synodal Fathers** Who Subscribed to the Decrees of the Synod *(p. 258)*
+* **Decree of the Sacred Congregation *de Propaganda Fide* Confirming the Second Ruthenian Synod of Lviv** *(p. 265)*
+
+---
+
+## Scholarly Critical Apparatus & Footnotes
+
+[^22]: Cardinal Agostino Ciasca, O.S.A. (1835–1902), renowned Augustinian orientalist and biblical scholar, Titular Archbishop of Larissa, appointed Apostolic Delegate to the 1891 Lviv Provincial Synod by Pope Leo XIII. He subsequently served as Secretary of the Sacred Congregation *de Propaganda Fide* and was elevated to the cardinalate in 1899.
+[^23]: Father Isidore Dolnytsky (1830–1924), Spiritual Director of the Greek-Catholic General Seminary in Lviv, renowned master of Byzantine-Ruthenian rubrics, and author of the landmark 1899 *Typikon* (*Типикъ церковнаго и келейнаго правила*). His signature here establishes his direct statutory involvement in codifying the liturgical legislation of the 1891 Synod, which he implemented throughout his 1899 Typikon.
+[^24]: Dr. Isidore Sharanevych (1829–1901), distinguished historian, archaeologist, Senior (*Сеніоръ*) of the Lviv Dormition Brotherhood / Stavropeghial Institute, and Professor at Lviv University. Under Titulus XIV, I, § 2, the Senior of the Stavropeghial Institute was granted the unique statutory privilege of being summoned to provincial synods as the sole lay representative.
+[^25]: Dr. Yosyf Cherlyunchakevych (1829–1911), prominent canonist and professor at Kraków and Lviv Universities. His conditional signature (*"With reservation of the rights reserved to the Apostolic See, I sign"*) reflected contemporary canonical discussions regarding the precise scope of provincial synodal authority relative to the Roman Curia and the preservation of eastern canonical traditions.
+[^26]: The confirmation of the 1891 Synod was enacted through the Sacred Congregation *de Propaganda Fide pro negotiis Ritus Orientalis* (established by Pope Pius IX in 1862 via the constitution *Romani Pontifices*), culminating in Pope Leo XIII's formal apostolic confirmation on April 30, 1895. The promulgation of these decrees constituted the statutory foundation for all Greek-Catholic liturgical and canonical reforms in Galicia at the turn of the 20th century.

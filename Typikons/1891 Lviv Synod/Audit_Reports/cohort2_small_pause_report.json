@@ -1,0 +1,51 @@
+{
+  "cohort": 2,
+  "files_audited": [
+    "1891_synod_cohort2.txt",
+    "1891_synod_cohort2.md"
+  ],
+  "vocabulary_audit": {
+    "passed": true,
+    "violations": []
+  },
+  "deity_pronoun_audit": {
+    "passed": true,
+    "violations": []
+  },
+  "footnote_symmetry": {
+    "passed": true,
+    "cohort2_text_markers": [
+      "[^22]",
+      "[^23]",
+      "[^24]",
+      "[^25]",
+      "[^26]"
+    ],
+    "cohort2_definition_markers": [
+      "[^22]",
+      "[^23]",
+      "[^24]",
+      "[^25]",
+      "[^26]"
+    ],
+    "missing": [],
+    "orphaned": []
+  },
+  "structural_sequence": {
+    "passed": true,
+    "sections": [
+      "TITULUS XV. ON CHURCH PROPERTY",
+      "SIGNATURES OF THE SYNODAL FATHERS",
+      "From the Archeparchy of Lviv:",
+      "From the Eparchy of Przemyśl:",
+      "From the Eparchy of Stanyslaviv:",
+      "DECREE",
+      "By Which the Second Ruthenian Synod of Lviv Is Confirmed",
+      "TABLE OF CONTENTS",
+      "Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)",
+      "Part I: Acts of the Synod",
+      "Part II: Decrees of the Ruthenian Provincial Synod of Lviv",
+      "Part III: Concluding Acts & Confirmation"
+    ]
+  }
+}
