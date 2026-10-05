@@ -1,0 +1,198 @@
+{
+  "timestamp": "2026-10-05T12:09:39.132524+00:00",
+  "monument_id": "1899_dolnytsky_typikon",
+  "cohort": 19,
+  "target_file": "1899_dolnytsky_typikon_cohort19.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1899_dolnytsky_typikon_cohort19.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1899_dolnytsky_typikon_cohort19.md",
+      "footnotes_file": "1899_dolnytsky_typikon_cohort19_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 40,
+      "definition_markers_count": 40,
+      "text_markers": [
+        "[^470]",
+        "[^471]",
+        "[^472]",
+        "[^473]",
+        "[^474]",
+        "[^475]",
+        "[^476]",
+        "[^477]",
+        "[^478]",
+        "[^479]",
+        "[^480]",
+        "[^481]",
+        "[^482]",
+        "[^483]",
+        "[^484]",
+        "[^485]",
+        "[^486]",
+        "[^487]",
+        "[^488]",
+        "[^489]",
+        "[^490]",
+        "[^491]",
+        "[^492]",
+        "[^493]",
+        "[^494]",
+        "[^495]",
+        "[^496]",
+        "[^497]",
+        "[^498]",
+        "[^499]",
+        "[^500]",
+        "[^501]",
+        "[^502]",
+        "[^503]",
+        "[^504]",
+        "[^505]",
+        "[^506]",
+        "[^507]",
+        "[^508]",
+        "[^509]"
+      ],
+      "definition_markers": [
+        "[^470]",
+        "[^471]",
+        "[^472]",
+        "[^473]",
+        "[^474]",
+        "[^475]",
+        "[^476]",
+        "[^477]",
+        "[^478]",
+        "[^479]",
+        "[^480]",
+        "[^481]",
+        "[^482]",
+        "[^483]",
+        "[^484]",
+        "[^485]",
+        "[^486]",
+        "[^487]",
+        "[^488]",
+        "[^489]",
+        "[^490]",
+        "[^491]",
+        "[^492]",
+        "[^493]",
+        "[^494]",
+        "[^495]",
+        "[^496]",
+        "[^497]",
+        "[^498]",
+        "[^499]",
+        "[^500]",
+        "[^501]",
+        "[^502]",
+        "[^503]",
+        "[^504]",
+        "[^505]",
+        "[^506]",
+        "[^507]",
+        "[^508]",
+        "[^509]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1899_dolnytsky_typikon_cohort19.md",
+      "passed": true,
+      "paragraphs": 224,
+      "headings_count": 49,
+      "headings": [
+        {
+          "line": 5,
+          "level": 3,
+          "title": "August 29"
+        },
+        {
+          "line": 7,
+          "level": 4,
+          "title": "The Beheading of the Precious Head of the Holy John the Baptist"
+        },
+        {
+          "line": 11,
+          "level": 3,
+          "title": "August 31"
+        },
+        {
+          "line": 13,
+          "level": 4,
+          "title": "The Deposition of the Precious Sash of the Most Holy Mother of God"
+        },
+        {
+          "line": 21,
+          "level": 1,
+          "title": "Part IV"
+        },
+        {
+          "line": 23,
+          "level": 2,
+          "title": "Typika of the Triodion"
+        },
+        {
+          "line": 25,
+          "level": 3,
+          "title": "Sunday of the Publican and the Pharisee"
+        },
+        {
+          "line": 29,
+          "level": 4,
+          "title": "At Great Vespers"
+        },
+        {
+          "line": 35,
+          "level": 4,
+          "title": "At Compline"
+        },
+        {
+          "line": 38,
+          "level": 4,
+          "title": "Sunday Midnight Office"
+        },
+        {
+          "line": 40,
+          "level": 4,
+          "title": "At Great Matins"
+        },
+        {
+          "line": 53,
+          "level": 4,
+          "title": "At the Hours"
+        },
+        {
+          "line": 56,
+          "level": 4,
+          "title": "At the Divine Liturgy"
+        },
+        {
+          "line": 71,
+          "level": 3,
+          "title": "Sunday of the Prodigal Son"
+        },
+        {
+          "line": 83,
+          "level": 3,
+          "title": "Meatfare Saturday, or Memorial Saturday"
+        }
+      ],
+      "numbered_items_count": 84,
+      "number_breaks": [],
+      "anomalies": []
+    }
+  }
+}

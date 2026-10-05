@@ -1,0 +1,412 @@
+# Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)
+## Tier 1 (The Calibration Anchor) — Cohort 8: Physical Pages 99–118 (Leaves p101–p120)
+
+> [!NOTE]
+> **Historical & Canonical Significance**  
+> Cohort 8 of the **1891 Lviv Provincial Synod** (*Чинности и рѣшеня руского провинціяльного Собора въ Галичинѣ ôтбувшого ся во Львовѣ въ роцѣ 1891*) encompasses the culmination of the sacramental codification of the Ruthenian Church and the landmark legislation governing sacramentals and public liturgical worship:  
+> 1. **Conclusion of Titulus II: On the Mysteries and Their Administration (Leaves p101–p106 / Book pp. 99–104)**:  
+>    - **Chapter V: On the Mystery of Anointing (Holy Unction / Euchelaion) (Leaves p101–p102 / Book pp. 99–100)**: Canonical approval of the shorter order (*Chyn "V krattsi"*) introduced by the 1720 Synod of Zamość for general parochial use beyond extreme emergencies, while commending the Greater Order (*Poslidovanie bôlshe*) when multiple priests are present; precise determination of the essential sacramental form words (*"Heal, by this anointing, this Thy servant... giving him life by the grace of Thy Christ"*); detailed anatomical rubrics for unction (thumb of the right hand, cruciformly, dual sense organs starting on the right, eyelids, earlobes, tip of nose, lips, palms, soles); omission of the loins and breasts in women for modesty per the Roman Ritual of Paul V; prohibition of reusing unction oil, mandating that excess oil poured into a shallow silver or pewter vessel be burned in the fire after being wiped with cotton; strict ban on demanding stipends or fees for unction; pastoral duty to summon the priest early while hope of recovery remains, expounding the bodily and spiritual healing effects of the Mystery.  
+>    - **Chapter VI: On the Mystery of Priesthood (Holy Orders) (Leaves p103–p105 / Book pp. 101–103)**: Reception of the Tridentine canonical ages (Subdiaconate at 21 completed years, Diaconate at 22, Presbyterate at 24) over ancient canons (Trullo, Carthage, Neo-Caesarea); regulation of interstices (*intervalla temporum*), allowing Reader and Subdeacon on the same day, 1 day between Subdeacon and Deacon, and 8 days between Deacon and Priest; restriction of Diaconal and Priestly ordinations to distinct, non-consecutive solemn feast days; 8-day spiritual exercises (*rekolektsii*) prior to minor orders and holy orders; pre-ordination sacramental confession; mandatory profession of faith according to Pope Urban VIII's formula on the very day of priestly ordination; solemn oath of fidelity to the Roman Pontiff, the local Bishop, church property stewardship, and stability in the Ruthenian Church; individual imposition of hands by the Bishop upon each candidate during the essential form (*"Divine grace..."*).  
+>    - **Chapter VII: On the Mystery of Matrimony (Leaves p105–p106 / Book pp. 103–104)**: Observance of Tridentine marriage form, Zamość decrees, and the 1863 *Concordia*; strict episcopal reservation of matrimonial dispensations; warning against illegal rite-switching from the Latin to Greek rite and invalidity of marriages celebrated without the *parochus proprius*; pastoral vigilance and enforcement of Pope Gregory XVI's 1841/1842 Apostolic Letters and Holy Office Decrees of 1888 on mixed marriages; canonical timing of nuptials (morning hours before noon following confession and communion); strict adherence to the 1868 joint pastoral instruction of Metropolitan Spyrydon Lytvynovych and Bishop Joseph Sembratovych on Austrian civil marriage legislation.  
+> 2. **Promulgation of Titulus III: On Consecrations and Blessings — (Sacramentals) (Leaves p106–p110 / Book pp. 104–108)**:  
+>    - **Theological Nature & Ecclesial Dignity**: Distinction between Sacraments (*ex opere operato*) and Sacramentals (*ex opere operantis*); higher prominence and popular esteem of sacramentals in the Ruthenian Church compared to contemporary Greek practice; St. Thomas Aquinas (ST III, q. 87, a. 8) on the remission of venial sins and collation of actual grace through ecclesiastical blessings.  
+>    - **Exorcisms & Childbirth Purification**: Strict medical-pastoral investigation of demonic possession versus natural psychic/physical illness; prohibition of immediate or public exorcisms without prior episcopal report and express license; reform of churching after childbirth (*ochyshchenie po rodzheniu*), strictly excluding women who bore illegitimate children to deter from public scandal and substituting sacramental penance; establishing a minimum 20-day convalescence period (ideally 40 days per the *Trebnik*) to prevent rural women from resuming crushing field labor prematurely.  
+>    - **Blessings of Elements & Buildings**: Solemn Artoklasia (*Blahoslovenie khlibiv*) at All-Night Vigils, with distribution of blessed bread to the faithful during anointing, pouring leftover oil into church lamps, and reserving wheat and wine for the clergy; episcopal delegation faculties for simple priests to bless foundations, churches, altars, bell towers, bells, and cemeteries using the simple priest's ritual; enumeration of sacred vessels and vestments reserved to the Bishop (antimension, chalice, tabernacle, diskos, spoon, monstrance); comprehensive reform of the blessing of a new house, abolishing the dangerous custom of singeing walls with candles and mandating cotton wiping and burning of blessed oil; Great and Lesser Water Blessings, mandating the primary liturgical commemoration of the Pope of Rome (*"Universal Pontiff"*) alongside the Emperor as codified in historic Pochaiv editions.  
+> 3. **Promulgation of Titulus IV: On the Public Worship of God (Leaves p110–p120 / Book pp. 108–118)**:  
+>    - **Theology of Rites & Catholic Unity**: Dual nature of man requiring public social worship; Old Testament divine institution and New Testament Christological foundation; the Church clad in the seamless garment of faith and the many-colored robe of diverse liturgical rites; St. Augustine on Psalm 44:10 (*"In veste sit varietas, scissura non sit"*); Pope Pius IX's 1862 Encyclical and Pope Leo XIII's 1888 allocution affirming that the Eastern rites augment the apostolic beauty, dignity, and majesty of the Catholic Church; division into Sacrifice and the Divine Office.  
+>    - **Chapter I: On the Sacrifice of the Liturgy (Divine Liturgy) (Leaves p111–p116 / Book pp. 109–114)**: The threefold Byzantine Liturgy (St. Basil the Great, St. John Chrysostom, Presanctified of St. Gregory Dialogist); pastoral obligation to celebrate St. Basil 10 times yearly and St. John Chrysostom on all Sundays/feasts; exhortation to celebrate weekday low Liturgies without stipends based on patristic authorities (St. Thomas Aquinas, St. John Chrysostom, Timothy of Jerusalem, Venerable Bede); statutory calendar of the Presanctified Gifts (Wednesdays and Fridays of Great Lent, first three days of Holy Week) and retention of St. John Chrysostom on Lenten Mondays, Tuesdays, and Thursdays; aliturgical days (Great Friday, Eve of Christmas/Theophany when Royal Hours are transferred); Vesperal Liturgies; celebrant preparation (cassock/soutane, absolute Eucharistic fasting from midnight under mortal sin, refuting the 6-hour error, tobacco fasting from midnight); purity of conscience and mandatory confession per Trent Sess. 13, c. 7; canonical prayer preparation (Matins with 1st Hour); liturgical decorum and duration (low Mass 30–45 minutes); concelebration rules (simultaneous quiet pronunciation of the consecration form words, silent prayers, distinction between assisting and concelebrating clergy); standard parish Liturgy hour (10:00 AM); post-liturgical 15-minute thanksgiving.  
+>    - **Chapter II: On the Intention and Stipends of Divine Liturgies (Leaves p116–p120 / Book pp. 114–118)**: The *Missa pro populo* obligation binding bishops and pastors on all Sundays and holy days of obligation, including suppressed feast days (*feriae abrogatae* per Pius IX *Amantissimi Redemptoris* 1856) and feasts transferred to Sunday per Leo XIII (1886); absolute prohibition of Mass stipends for the Presanctified Gifts; foundation Masses and strict adherence to foundation charters (Innocent XII *Nuper* 1697); manual stipends, prohibition of simony, bargaining, or angling for smaller stipends for shameful gain (*turpe lucrum* per Benedict XIV *Quanta cura* 1741 and Zamość); full remittance of transferred manual stipends (Urban VIII *Cum saepe* 1625); distinction of foundation endowments and stole fees (*congrua* and *iura epitrachelialia* per Sacred Congregation of the Council); limitation of stipend accumulation to 1–2 months; prohibition of unauthorized reduction or amalgamation of small stipends; mandatory parish Mass registers (*Liber Missarum*).  
+>    - **Chapter III: On the Canonical Hours (Commencement) (Leaf p120 / Book p. 118)**: Enumeration of the eight parts of the Byzantine Divine Office (*Pravylo Tserkovne*); role of the Typika (*Obidnytsia*); All-Night Vigil rubrics (Vespers joined with Matins, omitting Compline and Midnight Office, prescribing Small Vespers).
+
+---
+
+## Table of Contents
+1. [Decrees of the Ruthenian Provincial Synod: Titulus II. On the Mysteries and Their Administration (Continued)](#1-decrees-of-the-ruthenian-provincial-synod-titulus-ii-on-the-mysteries-and-their-administration-continued)
+   - [Chapter V: On the Mystery of Anointing (Holy Unction) (Leaves p101–p102 / Book pp. 99–100)](#chapter-v-on-the-mystery-of-anointing-holy-unction)
+   - [Chapter VI: On the Mystery of Priesthood (Holy Orders) (Leaves p103–p105 / Book pp. 101–103)](#chapter-vi-on-the-mystery-of-priesthood-holy-orders)
+   - [Chapter VII: On the Mystery of Matrimony (Leaves p105–p106 / Book pp. 103–104)](#chapter-vii-on-the-mystery-of-matrimony)
+2. [Decrees of the Ruthenian Provincial Synod: Titulus III. On Consecrations and Blessings — (Sacramentals)](#2-decrees-of-the-ruthenian-provincial-synod-titulus-iii-on-consecrations-and-blessings--sacramentals)
+   - [Theological Preamble: On the Nature and Dignity of Sacramentals (Leaves p106–p107 / Book pp. 104–105)](#theological-preamble-on-the-nature-and-dignity-of-sacramentals)
+   - [Section 1: On Exorcisms (Leaf p107 / Book p. 105)](#section-1-on-exorcisms)
+   - [Section 2: On the Purification of Women After Childbirth (Leaves p107–p108 / Book pp. 105–106)](#section-2-on-the-purification-of-women-after-childbirth)
+   - [Section 3: On Blessings — The Blessing of Loaves (Leaf p108 / Book p. 106)](#section-3-on-blessings--the-blessing-of-loaves)
+   - [Section 4: On the Blessing of Churches, Altars, Bell Towers, and Cemeteries (Leaf p108 / Book p. 106)](#section-4-on-the-blessing-of-churches-altars-bell-towers-and-cemeteries)
+   - [Section 5: On the Blessing of Sacred Vestments, Vessels, and Furnishings (Leaf p109 / Book p. 107)](#section-5-on-the-blessing-of-sacred-vestments-vessels-and-furnishings)
+   - [Section 6: On the Blessing of a New House and the Consecration of Water (Leaves p109–p110 / Book pp. 107–108)](#section-6-on-the-blessing-of-a-new-house-and-the-consecration-of-water)
+3. [Decrees of the Ruthenian Provincial Synod: Titulus IV. On the Public Worship of God](#3-decrees-of-the-ruthenian-provincial-synod-titulus-iv-on-the-public-worship-of-god)
+   - [Preamble: On the Public Adoration of God and the Variety of Catholic Rites (Leaves p110–p111 / Book pp. 108–109)](#preamble-on-the-public-adoration-of-god-and-the-variety-of-catholic-rites)
+   - [Chapter I: On the Sacrifice of the Liturgy (The Divine Liturgy) (Leaves p111–p116 / Book pp. 109–114)](#chapter-i-on-the-sacrifice-of-the-liturgy-the-divine-liturgy)
+   - [Chapter II: On the Intention and Stipends of Divine Liturgies (Leaves p116–p120 / Book pp. 114–118)](#chapter-ii-on-the-intention-and-stipends-of-divine-liturgies)
+   - [Chapter III: On the Canonical Hours and Other Public Divine Services (Commencement) (Leaf p120 / Book p. 118)](#chapter-iii-on-the-canonical-hours-and-other-public-divine-services-commencement)
+4. [Scholarly Critical Apparatus & Footnotes](#4-scholarly-critical-apparatus--footnotes)
+
+---
+
+## 1. Decrees of the Ruthenian Provincial Synod: Titulus II. On the Mysteries and Their Administration (Continued)
+
+*(Physical Page 99 / Leaf p101)*
+
+### CHAPTER V. On the Mystery of Anointing (Holy Unction)
+
+1. Concerning this Mystery, the present Synod, renewing that which the Synod of Zamość wisely declared concerning its doctrine and administration, deemeth it necessary to state one thing only, namely: that the Order (*Chyn*) of the administration of this Mystery according to the pattern *"In Brief"* (*V krattsi*), proposed by the said Synod, shall be generally used not only in case of extreme necessity, but also in other cases, and that on account of the custom already long since introduced among us; although the present Synod doth not forbid, but also recommendeth, administering the same according to the Greater Order (*Poslidovanie bôlshe*), especially when more priests can be had for its celebration.
+
+2. That perfect uniformity may be preserved by sacred ministers regarding the application of the matter and form, the present Synod prescribeth that the anointing shall take place at these words of the form, of all the most essential, that is, at the words: *"Heal, by this anointing, this Thy servant,"* and shall conclude at the uttering of the words: *"giving him life by the grace of Thy Christ."*
+
+3. As to the manner of anointing the various parts of the body, for the establishment of complete uniformity, the Synod complementeth that wherein the Rubrics (*Ustavy*) are deficient:
+1. That the anointing shall be performed with the thumb, and that with its underside; cases of contagious illness excepted, when it is permitted to use a small stick (*patychok* / probe).
+2. That it shall be done cruciformly (in the form of a cross).
+3. That in dual organs of the senses, a double anointing shall be used, beginning from the right organ.
+4. That the anointing of the eyes shall be performed upon the eyelids; of the ears, upon the lowest part of the ear (the lobe); of the nostrils, upon the tip of the apex of the nose with a single anointing; — of the mouth, upon the closed lips, with a single anointing; of the hands and feet, upon the underside, that is, upon the palms and upon the soles.
+5. The Roman Ritual of Paul V under the Title on Anointing (*de Sacramento Extremae Unctionis*) teacheth: *"The anointing of the loins (the same is to be said also of the breasts) in women, for the sake of modesty, is to be omitted; as also in men, when on account of infirmity they cannot easily be moved; and in that case, both in men and in women, it is not required*
+
+---
+
+*(Physical Page 100 / Leaf p102)*
+
+*to anoint any other part of the body instead of the loins."* If anyone should lack any sense, for example sight, or if any member should be amputated, for example an arm or a leg, then the nearest part of that sense or member shall be anointed, since he could have sinned, if not through the external senses, then through the powers corresponding to them, or through the lust of an illicit deed.
+
+4. As to the matter or oil, the present Synod is constrained to renew the injunction of the Synod of Zamość, namely: that the remnants of the oil which remain after the anointing shall be burned and not used anew for a second administration of this Mystery. Wherefore let priests, as ministers of this Mystery of Holy Anointing, not bless all the oil which they keep for this purpose in the vessel (*posudets*), but let them pour out from it only a small quantity, such as shall be deemed sufficient for the anointing of one sick person, into a shallow silver or pewter (*tsynkovyi*) vessel, as the Synod of Zamość prescribeth; and after the completion of the rite, let them wipe out the remaining portion of oil in the vessel with cotton and burn it in the fire.
+
+5. That the faithful, however, may not be deterred from the reception of this Mystery, let pastors in convenient time instruct them in sermons or catecheses that nothing is due to the priest for the administration of this Mystery; and wherefore let pastors themselves beware of demanding anything from the faithful for the administration of this Mystery. What is more, they, as good pastors, shall themselves inquire concerning the state of health of their faithful, and whether personally or through the members of their households, let them bring them unto the willing reception of this Mystery. And that the members of the household themselves, as at times happeneth, may not delay summoning the priest when the hope of regaining health still gleameth, let them instruct the faithful that this Mystery availeth also for the health of the body, for the recovery whereof it can truly serve, if that be profitable for the salvation of the soul, as the same Synod of Zamość saith. [^112]
+
+---
+
+*(Physical Page 101 / Leaf p103)*
+
+### CHAPTER VI. On the Mystery of Priesthood (Holy Orders)
+
+1. Besides that which the Synod of Zamość enacted concerning the Mystery of Priesthood, the present Synod hath deemed it appropriate to enact the following:
+1. *As to the age of those to be ordained*: Although the ancient canons of the Church prescribe for the reception of the Subdiaconate 20 years [^113], for the reception of the Diaconate 24 years [^114], for the reception of the Presbyterate 30 years [^115]; nevertheless, following the enactment of the Council of Trent, which the Synod of Zamość already likewise charged us to follow, there is required for the reception of the Subdiaconate the 21st year, for the Diaconate the 22nd, for the Presbyterate the 24th completed; which enactment must henceforth be strictly preserved among us also.
+
+2. *As to the interstice (intervals of time)*: Although in the canons of Councils an interval of time of one year is prescribed between the reception of one order and another [^116]; nevertheless the Council of Trent left it in this matter to the discretion of Bishops to shorten the time of those same intervals according to what they shall judge to be more suitable to the need and benefit of the Church. However, our Synod of Zamość, without infringing that right of Bishops, enacted, besides the orders of Reader and Subdeacon, which, as it affirmeth, may be conferred at one ordination and on the same day, an interstice (interval) of ten days between the reception of the Subdiaconate and the Diaconate, and likewise between the Diaconate and the Presbyterate. Yet that prescription of the Synod, in modern times, chiefly for the sake of giving more practice to the newly ordained in the sacred order after the reception of the Diaconate and the Presbyterate, is wont to be still more constricted, and that on the basis of faculties which Bishops usually receive from the Holy See; so that according to present custom, between the orders of Reader and Subdeacon no interstice is observed, as the Synod of Zamość also ena-
+
+---
+
+*(Physical Page 102 / Leaf p104)*
+
+cted; between the Subdiaconate and the Diaconate, for the most part, an interstice of one day is observed, and between the Diaconate and the Presbyterate (an interstice of) eight days. The present Synod, consenting to the observance of the custom just cited, enacteth in addition that the orders of Deacon and Presbyter may be conferred only on two days, and those solemn feasts, yet not following immediately upon each other; whereas the orders of Reader and Subdeacon, according to ancient practice, may be conferred also on a ferial day (on weekdays).
+
+3. *As to the preparation of those to be ordained for the worthy reception of Holy Orders*: Besides that which the Synod of Zamość prescribeth according to the enactments of the Council of Trent, the present Synod declareth, namely regarding spiritual exercises (*rekolektsii*), that the requirement of eight days consecutively following one another before the reception of minor orders must likewise be observed at the reception of the Diaconate and the Presbyterate, whenever a longer interval interveneth in their conferring; but when these higher orders are conferred on feast days following upon each other without a long interval, one day sufficeth for this latter.
+
+The Synod addeth, however, that those to be ordained, before receiving the Subdiaconate as well as the Diaconate and the Presbyterate, shall cleanse their conscience through holy Confession. In addition, the Synod turneth the attention of Hierarchs (Ordinaries), that they preserve the injunction of the Synod of Zamość, prescribed regarding the making of the profession of faith by those approaching Holy Orders, namely, that the same shall be performed according to the formula of Pope Urban VIII, prescribed for Easterners, and that precisely on the very day of the reception of the order of the Presbyterate.
+
+4. Finally, whereas in our *Archieratikon* (Pontifical), immediately before the reception of the Presbyterate, there is set forth the formula of the oath of fidelity and obedience both to the Supreme Pontiff and to one's own Hierarch, as also of the preservation of the church goods that shall be committed to him for administration, and of perpetual stability in that same Church: — the present Synod, commending this practice, commandeth that the same be preserved henceforth.
+
+5. *As to the very rite of conferring Orders*: The Synod requireth that, if several receive the order of Deacon
+
+---
+
+*(Physical Page 103 / Leaf p105)*
+
+or Presbyter together, the Hierarch shall lay his hands upon each individual ordinand separately when he pronounceth the essential form of the Holy Order, namely: *"Divine grace..."* and so forth.
+
+### CHAPTER VII. On the Mystery of Matrimony
+
+1. Concerning the Mystery of Matrimony, following in all things the rule and doctrine of the holy Council of Trent and the Synod of Zamość, as also the prescriptions of the *Concordia*, we oblige pastors of souls that they adhere to them strictly, and in cases where any dispensation should be needed, that they have recourse for obtaining the same always to their Ordinary, observing moreover in that matter the particular instructions contained in the pastoral letters issued for that purpose by the respective Ordinaries.
+
+2. Especially doth the Synod admonish pastors of souls that the closer the degrees be from which the parties request a dispensation, the more unyielding shall they show themselves unto them, counseling, so far as possible, that they abstain from such a Matrimony, and take steps toward obtaining such a dispensation only for very grave reasons.
+
+3. In addition, let them beware lest they bless the marriages of those persons who have unlawfully transferred from the Latin rite to the Greek; but let them diligently inquire concerning the lawfulness of such a transfer beforehand, since they ought to know that in a case where such a transfer of both parties was unlawful, such marriages are invalid, as not being contracted in the presence of their own proper pastor, as the Council of Trent and the *Concordia* prescribe.
+
+4. As to mixed marriages between Catholic Christians and non-Catholics (those of other faiths), pastors of souls shall zealously endeavor that such marriages be not contracted; nevertheless, in cases where it appeareth unto them impossible to prevent such marriages, let them proceed strictly according to the particular instructions for such cases issued by Pope Gregory XVI of blessed memory
+
+---
+
+*(Physical Page 104 / Leaf p106)*
+
+dated May 22, 1841, to the Austrian Archbishops and Bishops, and under date of July 16, 1842, extended to the territory of Galicia, and by His Eminence Cardinal Metropolitan Mykhailo Levytsky under date of January 31, 1843, promulgated in the Archeparchy of Lviv [^117]; and likewise by the Sacred Congregation of the Inquisition (*Congregatio Inquisitionis*) dated December 22, 1888 (*Archeparchial Gazette*, No. 4; of the year 1889, No. 29, ord.), which are cited here in full at the end of the Synod. [^118]
+
+5. As to the time of the nuptial blessing to be imparted by the pastor, care must be taken that the same, generally speaking, take place in the morning hours, at least before noon, so that the spouses, having both confessed and received Holy Communion, may obtain the more abundant efficacy and grace of this Mystery.
+
+6. Finally, as to the rite, pastors must adhere to the Rubric (*Ustav*) issued by this Synod. Regarding so-called civil marriages, the present Synod commandeth pastors of souls in all things to adhere to the instruction issued to all the clergy of this province by our Ordinaries on June 24 (July 6, New Style), 1868, which is inserted here at the end of the Synod: *"Spyrydon Lytvynovych, by the Grace of God, etc., etc., Joseph Sembratovych, etc."* [^119]
+
+---
+
+## 2. Decrees of the Ruthenian Provincial Synod: Titulus III. On Consecrations and Blessings — (Sacramentals)
+
+### Theological Preamble: On the Nature and Dignity of Sacramentals
+
+Although Consecrations and Blessings (Sacramentals) do not confer that abundance of grace which the Holy Mysteries confer, and do not confer it of themselves (*ex opere operato*), but only from the work of the agent (*ex opere operantis*) unto those duly disposed; nevertheless, Blessings and Consecra-
+
+---
+
+*(Physical Page 105 / Leaf p107)*
+
+tions (Sacramentals) are wont in our Church to be used more than in the Greek Church, and to be highly esteemed. And that justly: for if the prayer even of an individual man is acceptable to God and yieldeth unto man precious consequences and spiritual fruits, how much more the prayers of blessings and consecrations which are offered in the name of the Bride of Christ the Lord Himself unto His Heavenly Father! But whereas blessings and consecrations are wont to confer the more abundant graces the greater the spiritual disposition wherewith they are celebrated both by the faithful and by the ministers; therefore the Synod admonisheth sacred ministers that they impart such blessings and consecrations unto the faithful devoutly, piously, and with a clean conscience; and likewise it admonisheth the faithful that they receive the same devoutly, piously, and with a clean conscience. [^120]
+
+Now just as certain Holy Mysteries, besides conferring grace, are ordained for the destruction of evil, that is, of sin, while others are for conferring or increasing the gifts of grace; so similarly are blessings and consecrations: for some of them are ordained for the expulsion of evil — such as exorcisms and similar adjurations, as also of inanimate things; others for conferring a blessing or sanctification, whether upon persons or upon things.
+
+### Section 1: On Exorcisms
+
+1. *As to exorcisms*: Pastors of souls, in disturbances by evil spirits, shall endeavor before all things accurately to investigate whether their effects more probably proceed from the devil, or rather from some natural illness; and if they should be convinced of the former, and the gravity of the case should require it, let them not proceed to adjuration (exorcism) immediately, especially publicly, but beforehand let them give an accurate report unto their Ordinary; and only when he shall judge that there is need to use adjurations, let them proceed unto them, having first reviewed the rules which are set down concerning this subject in our *Trebniks* (*Euchologia*).
+
+### Section 2: On the Purification of Women After Childbirth
+
+2. *As to the purification of women after childbirth (churching)*: The Synod ordaineth first of all that the rite of purification over a woman who hath borne an illegitimate child shall be omitted, so that in this manner both she and others may be deterred from such a sin. Concerning this ordinance of the Synod the pastor shall
+
+---
+
+*(Physical Page 106 / Leaf p108)*
+
+duly instruct his faithful and with all gravity strictly admonish them to avoid sins and transgressions of this kind; and those who transgress let him regard as public sinners and persons giving scandal so long as they do not repent; and wherefore for such a woman, for the expiation of her sin, instead of purification, let him impose the reception of the Holy Mystery of Repentance. Generally, however, concerning all women who after childbirth come to church for the purpose of purification: since immediately after receiving this rite they are wont to give themselves over to domestic and field labor, wherefore that they may still be regarded as unfit for such labor by reason of infirmity, the Synod ordaineth that they shall approach the reception of this rite ordinarily not before 20 days after childbirth; and that all the more since, according to the prescriptions of the *Trebnik* (*Euchologion*), properly speaking, this rite ought to be received on the 40th day after childbirth.
+
+### Section 3: On Blessings — The Blessing of Loaves
+
+3. *As to blessings*: Among others, the most solemn is that which taketh place at the All-Night Vigil of any solemn feast and goeth under the name of the Blessing of Loaves (*Artoklasia* / *Blahoslovenie khlibiv*), although besides loaves there are also placed for blessing wheat, wine, and oil. Those loaves, as also the wine used according to the Rubric (*Ustav*), were anciently distributed unto the monks who sang the whole night in the church, and that between Vespers and Matins; but whereas now that rite is celebrated not only in monasteries, but also in all parish churches wherein all the faithful take part in that service, therefore the Synod enacteth that those loaves, sliced into small pieces, shall be distributed unto each one of the people who approacheth for anointing with the blessed oil; and the remnants of that oil, after the anointing of the faithful, shall be poured into the church lamp; while the wine and the wheat shall fall to the pious use of the priest, so that for the subsequent blessing everything may be presented anew.
+
+### Section 4: On the Blessing of Churches, Altars, Bell Towers, and Cemeteries
+
+4. *Concerning the blessing of the foundation and of a newly erected church and of its altar, as also of a bell tower and bells, as well as of cemeteries*: It must be known that every priest may perform these blessings who is provided, however, unto that end with a special mandate (*hramota*) from his Ordinary, and according to the rite proper to simple priests, and not to Hierarchs, as set down in the *Trebniks*.
+
+---
+
+*(Physical Page 107 / Leaf p109)*
+
+### Section 5: On the Blessing of Sacred Vestments, Vessels, and Furnishings
+
+5. In addition, a priest may bless all sacred vestments and vessels, as also sacred furnishings: icons, banners (*khoruhvy*), crosses, medals, and so forth; excepting: the antimension, the chalice, the tabernacle (*darokhranylnytsia*), the diskos, the spoon (*lozytsia*), and the monstrance (*monstrantsiia*), the blessing of all of which pertaineth, properly speaking, unto the Bishop. But by special commission of the Bishop, in certain cases, faculty may be given also to a simple priest; wherefore concerning this faculty the Bishop ought always to be petitioned, so that according to the rite prescribed for a simple priest the blessing may take place.
+
+### Section 6: On the Blessing of a New House and the Consecration of Water
+
+6. *As to the blessing of a new house*: Simple priests also perform this, and it is fitting that a house should be blessed. Wherefore it is fitting to admonish the faithful that, according to the pious custom of their ancestors, they neglect not to sanctify the houses built by them by the invocation of the Name of the Lord and by ecclesiastical blessing, and only then, after the blessing of the priest, begin to dwell therein. But whereas the rites used at the blessing of a house set down in our *Trebniks* are not entirely the same, and many rites which are wont to be used among us are not given in any *Trebniks*, but are assumed solely from custom, which also, according to different places, is diverse; therefore, for the establishment of uniformity in that rite, the Synod commandeth that a more detailed rubric (*ustav*) be inserted in the *Trebnik* to be published according to the rules approved by this Synod. [^121]
+
+In addition, the Synod desireth that in the future the oil which hath served for the cruciform anointing of the individual walls shall not be burned by candles brought near to the anointed place upon the wall, as is prescribed in many *Trebniks*; but that the place upon the wall anointed with oil shall immediately be wiped with cotton, and thus the holy oil with the same shall afterward be burned.
+
+*As to consecrations*: The Synod commandeth that, for the preservation of uniformity in the one and the other consecration, or, as it is called among the Latins, at the blessing of water, namely both at the Great Blessing which is proper to Theophany, and at the Lesser Blessing which, the feast of Theo-
+
+---
+
+*(Physical Page 108 / Leaf p110)*
+
+phany excepted, is wont to be celebrated in the course of the year according to need, after the commemoration of our Emperor there shall also be, and that in the first place, the commemoration of the Supreme Hierarch, as is already set down in the Pochaiv editions, and that according to the following formula: *"And save, O Lord, Thy servants, the Universal Pontiff N. N., and our right-believing Emperor N. N."*
+
+---
+
+## 3. Decrees of the Ruthenian Provincial Synod: Titulus IV. On the Public Worship of God
+
+### Preamble: On the Public Adoration of God and the Variety of Catholic Rites
+
+1. Since man, as consisting of a dual nature, is bound to render honor unto God his Creator, internal and external, he is further constrained unto such an obligation by this: that with other men he uniteth in society; whence ariseth for society the necessity of rendering unto God public honor. The rule of that same honor in the Old Testament God Himself prescribed unto His people; while in the New Testament its essential parts were determined by the Son of God Himself, sent into this world for the salvation of the human race; and the rest was designated by His Bride the Church herself, taught by Apostolic tradition and guided by the Holy Spirit. She therefore, in a seamless garment for the sake of the unity of faith, and clad with diversity for the sake of the variety of rites, rendereth unto God the most pleasing honor in the New Law. Concerning that garment the universal teacher Saint Augustine expounded the words of Psalm 44:10: *"At Thy right hand stood the queen in gilded clothing, surrounded with variety,"* writing: *"The mysteries of doctrine (are delivered) in all the diverse languages. One language is African, another Syrian, another Greek, another Hebrew, another this and that; these tongues make the diversity of the garment (vesture) of this Queen; and just as all the diversity of the garment meeteth together in unity, so also all tongues in the one faith. In the garment let there be diversity, but let there be no tear. Behold, by diversity we understand the variety of tongues, and by the garment we understand unity."* [^122]
+
+---
+
+*(Physical Page 109 / Leaf p111)*
+
+2. That this diversity of rites not only doth not hinder, but even contributeth in the highest degree unto the multiplication of the beauty and majesty of the Church, Pope Pius IX of immortal memory declared in his Encyclical to the Easterners, saying: *"To the unity of the Catholic Church the manifold diversity of holy and lawful rites is in no way opposed; what is more, it contributeth in the highest degree to the increase of the dignity, majesty, beauty, and splendor of the Church herself,"* [^123] which thought almost in the very same words the present Supreme Hierarch Pope Leo XIII also expressed before our clergy, admitted to an audience with Him in the Vatican on the occasion of His sacerdotal jubilee in the year 1888.
+
+3. Of that same public worship in the Catholic Church there are two parts: the first and most important is the Sacrifice, wherein consisteth the greatest and highest religious act; the second is the Divine Office (*bohosluzhenie*), composed by the Holy Fathers, as also the many other services used in the Catholic Church.
+
+---
+
+### CHAPTER I. On the Sacrifice of the Liturgy (The Divine Liturgy)
+
+1. The manner wherein in our rite the highest honor is offered unto God is contained in the threefold Liturgy, namely: of Saint Basil the Great, of Saint John Chrysostom, and of the Presanctified Gifts of Saint Gregory the Theologian (the Dialogist).
+
+2. As to the first of these three Liturgies, that is, of Saint Basil the Great: Pastors of souls are bound to celebrate it ten times in the year, according to the prescriptions of the Rubric (*Ustav*). As to the second, that is, of Saint John Chrysostom: At least on every feast and Sunday, those days excepted wherein, as said above, it is prescribed by the Typikons to celebrate the Liturgy of Saint Basil the Great; although the Synod desireth and admonisheth that pri-
+
+---
+
+*(Physical Page 110 / Leaf p112)*
+
+ests also on other ferial days (weekdays) celebrate the Holy Liturgy (the Divine Liturgy), even though they should have no stipend; for *"in every Liturgy (Divine Liturgy) is found all the fruit which Christ wrought upon the Cross; such as are the fruits of the Passion of the Lord, such are the fruits of this Sacrifice"*; [^124] further: *"every Liturgy (Divine Liturgy) is worth as much as the death of Christ upon the Cross is worth,"* [^125] through which Liturgy the universe standeth. [^126] And wherefore *"a priest who, not being lawfully hindered, omitteth to celebrate the Liturgy, depriveth, so far as in him lieth, the Holy Trinity of glory, the Angels of joy, sinners of pardon, the just of help, those abiding in purgatory of refreshment, the Church of benefit, and himself of medicine."* [^127]
+
+3. As to the Liturgy of the Presanctified Gifts: The liturgical books already prescribe that it shall be celebrated on every Wednesday and Friday of the Great Fast (Lent), and in addition on Great Monday, Great Tuesday, and Great Wednesday of Holy Week. On the other days of the Great Fast there is celebrated on Sundays the Liturgy (Divine Liturgy) of Saint Basil the Great, on Saturdays of Saint John Chrysostom; while on Monday, Tuesday, and Thursday, in the rubrics of our rite no Liturgy is indeed prescribed; but whereas from time immemorial the custom hath entered among Ruthenian Catholics of celebrating on those three days the Liturgy of Saint John Chrysostom, therefore this Synod declareth that that custom ought to be retained for the future also; prescribing moreover for pastors that on Wednesdays and Fridays of the Great Fast and on the first three days of Passion (Holy) Week they shall celebrate the Liturgy of the Presanctified Gifts; — and if ever there should be need to celebrate yet another Liturgy by other priests, that Liturgy cannot be other than that of Saint John Chrysostom, and read (low Mass), and that only with the special permission of their Ordinary unto that end.
+
+4. The days wherein no Liturgy (Divine Liturgy) is to be celebrated are the following:
+1. The Friday before Christmas (the Nativity of Christ) and Theophany of the Lord, when the Royal Hours are to be transferred from the Eve of the feast unto that day. —
+2. The Friday of Passion (Holy) Week, unless on that day there should occur the Feast of the Annunciation of the Most Holy Virgin Theotokos; for then the Liturgy of Saint John Chrysostom is to be celebrated together with Vespers. —
+3. Although according to the Typikons on Wednesday and Friday of Cheesefare Week no Liturgy is prescribed, neither the complete nor the Presanctified, nevertheless the Synod now leaveth inviolate our custom of celebrating on those days the Liturgy of Saint John Chrysostom.
+
+---
+
+*(Physical Page 111 / Leaf p113)*
+
+5. Finally, the solemn Liturgy joined with Vespers is to be celebrated on the Eve of the Nativity of Christ and of the Theophany of the Lord, if the same falleth not on a Saturday or a Sunday; likewise on Great Thursday and Great Saturday of Passion (Holy) Week; so that on those days there shall be only one Liturgy, and that sung by one or by many priests concelebrating together (*soborno*), excluding all other Liturgies.
+
+6. For the celebration, however, of so great an action, which is the center and core of our whole religion, there is required in the celebrant a suitable disposition, both as to body and as to soul, according to the words of the holy Council of Trent: *"Since we must confess that no other work can be performed by Christ's faithful so holy and divine as this tremendous Mystery itself, it is also sufficiently clear that all labor and diligence must be bestowed upon this: that it may be celebrated with as great an interior purity and innocence of heart, as well as exterior appearance of piety and devotion, as may possibly be."* [^128]
+
+7. As to the body, the officiating priest must be clad in a long garment (the so-called cassock or *reverenda*) and in a decent, grave, and modest posture [^129]; from midnight fasting, and that under pain of mortal sin, and not six hours from eating, as some imprudently and contrary to the explicit common law of the Church and custom imagine unto themselves. [^130] For the greater decency due
+
+---
+
+*(Physical Page 112 / Leaf p114)*
+
+to so great a mystery, and for avoiding scandal unto our people, let them retain the inviolate custom, hitherto existing among us, of not smoking from midnight until the Holy Liturgy. [^131]
+
+8. As to the soul, it is required that he be clean from mortal sin, and so far as may be, from venial sins also. *"Let no one make light of things which appear small, since, as Peter heard, unless Christ wash them, they shall have no part with Him."* [^132] — Moreover, let no one conscious of mortal sin, even though he seem unto himself to be contrite, dare to approach the Holy Eucharist without prior sacramental confession. If, however, he should at that time have no confessor, and thus of necessity should celebrate without prior confession, having stirred up in himself only with the greatest diligence perfect contrition, he is bound as soon as possible to make his confession. [^133]
+
+9. Further — let them prepare themselves for the worthy celebration of so great a mystery with canonical prayers, that is, Matins with the First Hour, and that according to the system of shortened canonical hours determined by this Synod, when it shall obtain approval from the Holy Apostolic See. Let them also use, as far as possible, those prayers composed by the Holy Fathers of the Church which in the Horologia (*Chasoslovy*) are usually placed before Holy Communion.
+
+10. In the Liturgy itself let them strictly preserve the prescriptions drawn up by the Lviv Liturgical Commission, and adopted and ratified by this Synod, when they shall obtain approval by the Holy See. Let them celebrate the Sacrifice of the Holy Divine Liturgy with gravity and composure, both in the modulation of the voice and in gestures; not too quickly, not too slowly, so that, excluding the Proskomide, a read Liturgy (low Mass) may last about half an hour, but not exceed three quarters of an hour. In addition, let them pronounce all words properly and accurately, observing the accents and tone of sacred speech,
+
+---
+
+*(Physical Page 113 / Leaf p115)*
+
+and let them not pronounce words incompletely (not entirely) or fragmentarily, or only in thought, but distinctly, observing however at the same time the distinction between prayers said secretly (*v tai*) and aloud (*v holos*), the utterance of which shall be moderate.
+
+11. In a concelebrated Liturgy (*soborna Lyturhiia*), that is, when many priests celebrate together, the concelebrants are bound to pronounce with the principal sacred minister the words of consecration in a voice indeed quiet, yet neither anticipating nor lagging behind the principal celebrant, but simultaneously; likewise let them not neglect to recite the secret prayers with the celebrant, and that in the manner indicated in the Rubric (*Ustav*) when the priest celebrateth alone. If, however, it should happen that some of them are merely assisting, not actually concelebrating, then properly speaking nothing more pertaineth unto them than the obligation to chant the ecphoneses in order, observing however all modesty, both exterior and interior, suitable to so great a religious action; nevertheless, for the edification of the people and the harmonious concord to be preserved during the sacred ministration, it is fitting that they should perform the other liturgical ceremonies together with the principal celebrant and pay heed unto the prayers themselves, omitting only the words of consecration, which are to be pronounced by the celebrants alone.
+
+12. If all this be duly preserved, it will awaken piety in the people. For the Church useth ceremonies: *"that she may set forth the majesty of so great a Sacrifice, and by these visible signs of religion and piety move the minds of the faithful unto the contemplation of the highest things which in this Sacrifice are hidden."* [^134] If these, however, be neglected, then the people will turn away from divine worship, the greatest insult will be offered unto God, and eternal perdition will be prepared for the priests themselves.
+
+13. That the faithful may be able to satisfy their obligation regarding hearing the whole divine service, the Synod enacteth that the celebration of the parochial Divine Liturgy shall take place at certain designated hours, neither too early nor too late; generally speaking, the most suit-
+
+---
+
+*(Physical Page 114 / Leaf p116)*
+
+able hour for the celebration is the tenth hour (10:00 AM) [^135]; for the rest, regarding the time of celebrating the Divine Liturgy the pastor must take into consideration the circumstances of his parishioners. If ever it should happen that the Divine Liturgy must be later, the prescription of the Synod of Zamość must be preserved, that it shall begin at least before noon, the Eves of the Nativity of Christ and Theophany excepted (unless they fall on a Saturday or Sunday), as also on Thursday and Saturday of Passion (Holy) Week. [^136]
+
+14. If ever on the patronal feast (*khramovyi prazdnyk*), or on account of some special circumstance, there should arise the need to prolong the time of the Divine Liturgy, or to postpone it to a later hour, let them not do so without grave cause.
+
+15. As to the hour of celebrating the Liturgy of the Presanctified Gifts, the custom received among us of celebrating the same from the hour of about ten before noon ought to be retained, which custom is based upon the Slavonic Typikons. [^137]
+
+16. After the Liturgy the priest ought not, immediately upon taking off the holy vestments, to flee from the church or engage in conversations; but, recollected in some quiet place with due devotion, let him perform the order of thanksgiving unto Christ the Lord, who yet abideth in His bosom, and let him add also other pious prayers, so that he spend upon them about a quarter of an hour; lest, behaving unworthily with so great a Guest abiding within him, he become guilty of the gravest insult and bring upon himself, instead of a blessing, a curse.
+
+---
+
+### CHAPTER II. On the Intention and Stipends of Divine Liturgies
+
+1. Since every Hierarch, that is, priest, is taken from among men by God that he may offer gifts and sacrifices for the sins of the people, and the Church hath designated the time of that offering, restricting
+
+---
+
+*(Physical Page 115 / Leaf p117)*
+
+the same unto Sundays and prescribed feast days; therefore it is fitting that all pastors of souls, first of all Bishops, and then proper pastors and those priests who have the administration of parishes, shall offer the Sacrifice of the Liturgy for the portion of the flock committed unto them on every Sunday and prescribed feast day.
+
+As to feast days formerly prescribed and now suppressed, they are likewise bound to offer (apply) Divine Liturgies for the people, as is evident from the declaration of Pope Pius IX of blessed memory in the Encyclical *Amantissimi Redemptoris* of May 3, 1856. [^138]
+
+As to those feast days which are transferred from a weekday unto a Sunday, it sufficeth to make the intention on the Sunday itself, as is clear both from the said Encyclical of Pope Pius IX and, especially as regardeth us, from the permission of His Holiness our Father Pope Leo XIII, granted by letter of June 26, 1886, to the Ruthenian Archbishop and Metropolitan of Lviv. [^139]
+
+The feast days transferred from a weekday unto a Sunday, according to the permission above mentioned, are the following: Of the movable feasts: the Feast of the Holy Eucharist (Corpus Christi); of the immovable feasts:
+1) Saint John the Evangelist, September 26;
+2) the same Saint, May 8;
+3) the Protection (*Pokrov*) of the Most Holy Virgin Mary, October 1;
+4) Saint Great Martyr George, April 23;
+5) Saint Prophet Elijah, July 20;
+6) the Beheading of the Head of Saint John the Baptist, August 29.
+
+As to assistants (*sotrudnyky* / parochial vicars) of pastors, these properly speaking are not bound to offer the Divine Liturgy for the people, since that obligation is personal to the pastor, who properly speaking is alone the pastor of his parish; and wherefore without any remuneration (stipend) he is bound himself, on the days above mentioned, to offer for the people. Excepted, however, are cases where pastors unconditionally cannot celebrate themselves, and assistants have been assigned on account of their permanent or prolonged infirmity, or impossibility; in that case the assistants are bound to substitute for the pastors.
+
+---
+
+*(Physical Page 116 / Leaf p118)*
+
+2. In a concelebrated Liturgy (*soborna Lyturhiia*), although each of the concelebrants is bound to have and apply his own intention; nevertheless, let him make the application for a certain stipend specifically given unto him on another day in an individual (low) Divine Liturgy, since ordinarily such is shown to be the intention of the donor; unless the donor should have agreed thereto.
+
+3. For the Liturgy of the Presanctified Gifts, since it is not a complete sacrifice, no stipends may be accepted, just as there must be here no application in the strict sense. That which is at times brought to the priest on the occasion of the Liturgy of the Presanctified Gifts is to be regarded as an offering for the Order of Parastas or Panakhyda, which is to be celebrated after the Liturgy of the Presanctified Gifts.
+
+4. Pastors of souls who receive an endowment from the Religion Fund (*relihiinyi fond*) are bound to celebrate each year such a number of holy foundation Divine Liturgies as shall be imposed upon them by their respective Ordinary. As to Liturgies founded by private bequests, let pastors endeavor that they be celebrated both in their proper time and according to the conditions laid down in the foundation documents (*hramoty*).
+
+Yet let no beneficiary dare on his own authority to diminish any burdens of Liturgies to be celebrated on account of revenues that may have become insufficient; but for their diminution, regulation, or commutation he is bound to have recourse to his Ordinary. [^140]
+
+5. As to free Divine Liturgies or manual stipends, priests cannot demand a stipend exceeding the stipend established either by eparchial law or by custom, nor may they angle for a smaller one for the sake of shameful gain (*turpe lucrum*). For great diligence must be applied: *"that from the dignity of so great a Sacrifice there may be removed conditions of any kind of payments, contracts, and rather indecent and unnoble transactions than requests for alms, as well as everything else of that kind which is not far removed from the taint of simony or certainly from shameful gain."* [^141]
+
+---
+
+*(Physical Page 117 / Leaf p119)*
+
+Further, a priest who, having received a manual stipend, transferreth the obligation of celebrating the Divine Liturgy unto another, is bound to transmit unto him the entire stipend. [^142]
+
+6. As to foundation Divine Liturgies: Priests, when they entrust unto other priests the celebration of those Divine Liturgies which they are bound to celebrate as belonging to the parish, that is, on account of or from the obligation of a benefice or parish, may give them the ordinary stipend and retain the surplus for themselves, since the surplus is recognized not for the celebration of the Divine Liturgy, but for sustenance. [^143] What is more, if the liturgical alms are truly extraordinary, that is, incidental or occasional, namely on the occasion of the crowning of matrimony, a funeral, and so forth, yet constitute the *congrua* of the pastor, or belong to stole rights (*prava epytrakhylni*), the pastor who cannot satisfy them himself is permitted to entrust another priest with celebrating the Liturgy, giving him the ordinary local alms, whether for read Liturgies or for sung. [^144]
+
+Likewise, for that same reason, a priest unto whom the celebration of a perpetual Divine Liturgy is entrusted, as also a priest upon whom weigheth the celebration of a Divine Liturgy from an ample legacy left for him for sustenance with a liturgical burden, may retain for himself that portion which exceedeth the ordinary stipend. [^145]
+
+7. Let priests, however, beware of accumulating so many stipends that they could not satisfy them within the space of one or two months, unless the one offering the stipend explicitly agreed to a postponement. [^146] And beyond that time, let him request faculties from the Holy Apostolic See.
+
+8. If, however, they should be bound to celebrate the Divine Liturgy for some need which brooketh no delay, it is not permitted
+
+---
+
+*(Physical Page 118 / Leaf p120)*
+
+unto them to postpone; but if they are hindered from celebrating immediately, let them return the stipend unto the donor, stating the reason for the refusal. In a case, however, where anyone should give a priest a stipend smaller than the tax accepted according to law or custom amounteth to, the sacred celebrant is bound to apply the Liturgy for the donor, if he himself hath agreed thereto; in the contrary case, let him return the stipend unto the donor. By his own authority, however, let him not dare to combine as many smaller stipends as are due for the celebration of one Divine Liturgy, but he ought to have recourse unto the local Ordinary, as is also wont to be done in miraculous or pilgrimage places, that he himself by virtue of lawful authority may designate that combination of stipends. [^147]
+
+9. That none of the donors or founders may be wronged regarding the discharge of the obligation, priests are bound to have dedicated books for this purpose, wherein they shall note down as accurately as possible the receipt of stipends and the celebration of the accepted obligation. [^148]
+
+---
+
+### CHAPTER III. On the Canonical Hours (The Church Rule) and Other Public Divine Services (Commencement)
+
+1. The parts of the Church Rule (*Pravylo Tserkovne*) in our rite are ordinarily eight: Vespers, Compline, Midnight Office, Matins, and the 4 Hours. As to the order called *"Typika (Obidnytsia)"*, the same is used only in place of the Liturgy, if ever it should happen that the Liturgy is not celebrated.
+
+2. On prescribed feast days wherein the All-Night Vigil (*Vsenoshchne bdinie*) is prescribed, since the same ordinarily consisteth of Vespers joined with Matins, the order of Compline and the Midnight Office hath no place; but in that case a double Vespers is prescribed, that is: Small Vespers, which...
+
+---
+
+## 4. Scholarly Critical Apparatus & Footnotes
+
+[^112]: Ruthenian Provincial Synod of Zamość (1720), Titulus III, § 6 *De Sacramento Extremae Unctionis*, setting forth the doctrine and canonical discipline governing the administration of Holy Anointing, emphasizing that the sacrament conveys divine comfort to the soul and physical healing to the body when expedient for eternal salvation.
+
+[^113]: Council in Trullo (Quinisext Ecumenical Council, A.D. 692), Canon 15: establishing the minimum canonical age of twenty years for ordination to the Subdiaconate; Jean Hardouin, S.J. (*Joannes Harduinus*), *Acta Conciliorum et Epistolae Decretales ac Constitutiones Summorum Pontificum* (Paris, 1715), Vol. III, col. 1665.
+
+[^114]: Third Council of Carthage (A.D. 397), Canon 4: prescribing that candidates for the Diaconate must not be ordained before reaching twenty-five years of age (in subsequent Byzantine and Ruthenian canon law adapted to twenty-four completed years); Hardouin, *Acta Conciliorum*, Vol. I, col. 961.
+
+[^115]: Council of Neo-Caesarea (c. A.D. 314–325), Canon 11, and Council in Trullo (A.D. 692), Canon 14: establishing that a presbyter must not be ordained before thirty years of age, following the model of our Lord Jesus Christ, who began His public ministry at that age; Hardouin, *Acta Conciliorum*, Vol. I, col. 284 and Vol. III, col. 1665.
+
+[^116]: Council of Trent, Session XXIII (July 15, 1563), Chapter XI *De reformatione*: establishing canonical ages for Holy Orders (Subdiaconate at 21 completed years, Diaconate at 22 completed years, and Presbyterate at 24 completed years) and regulating the annual interstices (*intervalla temporum*) between the reception of successive sacred orders, while granting bishops discretionary authority to shorten these intervals for the utility of the Church.
+
+[^117]: Dr. Julian Pelesz (later Bishop of Stanyslaviv and Przemyśl), *Pastoral Theology* (*Пастырске Богословіє*), citing the Apostolic Letter of Pope Gregory XVI addressed to Austrian Archbishops and Bishops (May 22, 1841) and extended to the Crownland of Galicia on July 16, 1842, promulgated throughout the Archeparchy of Lviv by Cardinal Metropolitan Mykhailo Levytsky on January 31, 1843, regulating canonical warnings and cautions regarding mixed marriages.
+
+[^118]: Appendix XIX and XIX-a (*Додатокъ ч. 19, 19а*) of the Synodal Acts: Instruction and Decree of the Supreme Sacred Congregation of the Holy Office (Inquisition), December 22, 1888, published in the *Lviv Archeparchial Gazette* (*Львôвскіи Архієпархіальнӣ Вѣдомости*), 1889, No. 4, ord. 29, establishing binding universal norms and cautions concerning mixed marriages between Catholics and non-Catholics.
+
+[^119]: Dr. Julian Pelesz, *Pastoral Theology*, Part IX, § 367, p. 854; and Appendix XX (*Додатокъ ч. 20*) of the Synodal Acts: Joint Pastoral Instruction of the Galician Greek Catholic Hierarchs (Metropolitan Spyrydon Lytvynovych and Bishop Joseph Sembratovych), June 24 / July 6, 1868, addressing the pastoral and canonical status of civil marriages (*гражданскі супружества*) enacted under Austrian imperial civil legislation of May 25, 1868.
+
+[^120]: St. Thomas Aquinas, *Summa Theologiae*, Pars III, quaestio 87, articulus 8: "Whether venial sin is remitted by the sacramentals and blessings of the Church?" St. Thomas expounds that sacramentals and ecclesiastical blessings, acting *ex opere operantis Ecclesiae*, arouse devotion and interior contrition, thereby remitting venial sins and conferring actual graces.
+
+[^121]: Appendix XXI (*Додатокъ ч. 21*) of the Synodal Acts: Official Schema and rubrics for the Order of Blessing a New House (*Чинъ благословенія новой храмины*) prepared by the Synodal Liturgical Commission for the new official Ruthenian *Trebnik*.
+
+[^122]: St. Augustine of Hippo, *Enarratio in Psalmum XLIV*, no. 24 (PL 36, 508–509), interpreting the verse: "At Thy right hand stood the queen in gilded clothing, surrounded with variety" (Septuagint Ps. 44:10 / Vulgate Ps. 44:10 / MT 45:9). St. Augustine formulates the classic ecclesiological principle: *"In veste sit varietas, scissura non sit"* ("In the garment let there be variety, but let there be no rent"), celebrating the legitimate diversity of languages and liturgical rites in the Catholic Church united in one faith.
+
+[^123]: Pope Pius IX, Encyclical Letter *Amantissimus humani generis* (April 8, 1862) to the Hierarchs of the Eastern Rites, solemnly declaring that the venerable diversity of Eastern liturgies and rites, far from impairing the unity of the Catholic Church, illustrates and magnifies her apostolic majesty and catholicity.
+
+[^124]: St. Thomas Aquinas, *In Isaiam Prophetam Expositio*, cap. VI, lectio 6, expounding that the fruits and merits of Christ's Passion on the Cross are communicable and applied in their fullness in every Holy Sacrifice of the Mass / Divine Liturgy.
+
+[^125]: St. John Chrysostom, *Homily XLVIII* (Homily 48), affirming that the intrinsic value and infinite efficacy of the Eucharistic Sacrifice offered upon the holy altar correspond to the infinite value of Christ's redemptive death upon the Cross.
+
+[^126]: Timothy of Jerusalem (presbyter, 6th century), *Sermon on the Prophet Simeon and the Presentation of the Lord* (*In Symeonem senecem et in occursum Domini*; PG 86, 237–252), proclaiming that through the continual offering of the Eucharistic Sacrifice the entire cosmos and universe are preserved in existence.
+
+[^127]: Venerable Bede, *On the Eucharistic Sacrifice*: recording the venerable patristic adage on the priest who, without legitimate impediment, neglects to celebrate the Divine Liturgy, thereby depriving the Holy Trinity of glory, the angels of joy, sinners of pardon, the just of divine aid, the souls in purgatory of refreshment, the Church of spiritual benefit, and himself of spiritual medicine.
+
+[^128]: Council of Trent, Session XXII (September 17, 1562), *Decretum de observandis et evitandis in celebratione Missae* (Decree on what is to be observed and avoided in the celebration of Mass), enjoining maximal interior purity of heart and solemn exterior reverential gravity upon celebrating clergy.
+
+[^129]: Ruthenian Provincial Synod of Zamość (1720), Titulus III, § 4 *De Missae celebratione*, prescribing proper clerical attire (the ankle-length cassock / soutane / *reverenda*) and modesty of bearing for all celebrating priests.
+
+[^130]: Ibid., Synod of Zamość (1720), Titulus III, § 4 *De Missae celebratione*, strictly enjoining the natural Eucharistic fast from midnight (*a media nocte*) under pain of mortal sin, condemning lax opinions asserting a mere six-hour interval from eating.
+
+[^131]: Dr. Julian Pelesz, *Pastoral Theology*, expounding traditional Ruthenian clerical ascetical discipline in Galicia prohibiting all tobacco smoking from midnight until the celebration of the Divine Liturgy to prevent public scandal and maintain sacramental reverence.
+
+[^132]: St. Bernard of Clairvaux, cited in St. Alphonsus Maria de Liguori, *Selva di materia predicabile* (*Silva materiarum praedicabilium*), Part II, Instruction I *On the Celebration of Mass*, urging priests to cleanse their souls even of the smallest venial blemishes before ascending the altar, alluding to our Lord's words to St. Peter at the washing of feet (John 13:8).
+
+[^133]: Council of Trent, Session XIII (October 11, 1551), Chapter 7 *On the Holy Eucharist*, decreeing that anyone conscious of mortal sin, however contrite he may believe himself to be, must not approach the Holy Eucharist without previous sacramental confession; in urgent necessity when a confessor is lacking, he must make an act of perfect contrition and confess as soon as possible thereafter.
+
+[^134]: Council of Trent, Session XXII (September 17, 1562), Chapter 5 *On the Ceremonies and Rites of the Mass*, defining that the Church employs external liturgical ceremonies, vestments, and visible signs to elevate the majesty of the divine sacrifice and inspire the faithful to contemplate heavenly mysteries.
+
+[^135]: Pastoral Letter of Greek Catholic Metropolitan of Lviv Spyrydon Lytvynovych of blessed memory, February 9, 1865, No. 5722, regulating the schedule of parochial services and establishing 10:00 AM as the standard hour for Sunday high Divine Liturgy.
+
+[^136]: Synod of Zamość (1720), Titulus III, § 4 *De Missae celebratione*, commanding that parochial Liturgies begin before noon, except on designated fast-day vigils and Holy Week services.
+
+[^137]: *Lenten Triodion* (Church Slavonic edition), Monday of the First Week of the Great Fast, rubrics governing the daytime celebration of the Liturgy of the Presanctified Gifts, typically beginning around the tenth hour before noon.
+
+[^138]: Appendix XXIII (*Додатокъ ч. 23*) of the Synodal Acts: Encyclical Letter *Amantissimi Redemptoris* of Pope Pius IX (May 3, 1856) to all Catholic Hierarchs, affirming the grave personal obligation of residential bishops and parish priests to offer the Holy Sacrifice of the Mass for the people (*Missa pro populo*) on all Sundays and holy days of obligation, including feasts suppressed in civil calendars (*dies festi abrogati*).
+
+[^139]: Appendix XXIV (*Додатокъ ч. 24*) of the Synodal Acts: Rescript of Pope Leo XIII (June 26, 1886) addressed to Metropolitan Sylvester Sembratovych of Lviv, authorizing Galician Greek Catholic pastors to fulfill the *Missa pro populo* obligation on Sundays for holy days transferred from weekdays.
+
+[^140]: Pope Innocent XII, Apostolic Constitution *Nuper* (December 23, 1697), reproduced in Appendix XXV (*Додатокъ ч. 25*) of the Synodal Acts, prohibiting beneficiaries and pastors from reducing, altering, or commuting the number of foundation Masses (*Missae fundatae*) on their private authority without apostolic or episcopal dispensation.
+
+[^141]: Pope Benedict XIV, Apostolic Constitution *Quanta cura* (June 30, 1741), reproduced in Appendix XXVI (*Додатокъ ч. 26*) of the Synodal Acts; and Synod of Zamość (1720), Titulus III, § 4: strictly condemning simony, improper negotiations, and the unlawful trafficking of Mass stipends (*turpe lucrum*).
+
+[^142]: Pope Urban VIII, Decree *Cum saepe* (January 10, 1625), and Pope Innocent XII, Constitution *Nuper* (December 23, 1697); Synod Appendices XXV and XXVI: mandating that whenever a priest transfers a manual Mass stipend to another celebrant, he must remit the stipend in its entirety without retaining any portion.
+
+[^143]: Sacred Congregation of the Council (*Sacra Congregatio Concilii*), Decrees of June 21, 1625 and March 25, 1745, reproduced in Appendix XXVII (*Додатокъ ч. 27*) of the Synodal Acts: distinguishing between manual stipends and parochial benefice endowments (*congrua*), allowing an incumbent pastor who delegates a foundation Mass to provide the celebrant with the standard local stipend while retaining the surplus endowment for parochial maintenance.
+
+[^144]: Sacred Congregation of the Council, Rescript of July 25, 1874, reproduced in Appendix XXVIII (*Додатокъ ч. 28*) of the Synodal Acts: permitting pastors unable to celebrate incidental stole-fee Liturgies personally (e.g., weddings or funerals) to delegate the celebration to another priest by remitting the standard local stipend for a read or sung Liturgy while preserving the parish stole dues.
+
+[^145]: St. Alphonsus Maria de Liguori, *Theologia Moralis*, Book VI, no. 321, confirming the canonical licitness of retaining the surplus endowment of a major foundation bequest established for a priest's sustenance while remitting the customary stipend to a substitute celebrant.
+
+[^146]: Sacred Congregation of the Council, Decree of July 17, 1655, reproduced in Appendix XXIX (*Додатокъ ч. 29*) of the Synodal Acts: forbidding priests from accepting or accumulating more Mass intentions than can be satisfied within a reasonable period (one to two months), unless explicit consent for delay was granted by the donor.
+
+[^147]: Pope Innocent XII, Constitution *Nuper* (December 23, 1697); and Synod of Zamość, Titulus III, § 4: prohibiting priests from independently amalgamating several smaller donations into a single celebrated Mass, reserving the authorization of composite stipend arrangements at shrines and pilgrimage sites to the local Ordinary.
+
+[^148]: Provincial Council of Prague (1860), Titulus III, Chapter 3 *On Mass Obligations*; and Galician eparchial statutes: commanding all priests and parish churches to maintain dedicated Mass registers (*Liber Missarum / книги стипендій*) accurately recording all Mass intentions received, dates celebrated, and remittances.

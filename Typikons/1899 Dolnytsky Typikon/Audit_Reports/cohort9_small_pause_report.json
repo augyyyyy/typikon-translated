@@ -1,0 +1,156 @@
+{
+  "timestamp": "2026-10-05T05:23:24.645881+00:00",
+  "monument_id": "1899_dolnytsky_typikon",
+  "cohort": 9,
+  "target_file": "1899_dolnytsky_typikon_cohort9_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1899_dolnytsky_typikon_cohort9_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1899_dolnytsky_typikon_cohort9_raw_draft.md",
+      "footnotes_file": "1899_dolnytsky_typikon_cohort9_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 19,
+      "definition_markers_count": 19,
+      "text_markers": [
+        "[^292]",
+        "[^293]",
+        "[^294]",
+        "[^295]",
+        "[^296]",
+        "[^297]",
+        "[^298]",
+        "[^299]",
+        "[^300]",
+        "[^301]",
+        "[^302]",
+        "[^303]",
+        "[^304]",
+        "[^305]",
+        "[^306]",
+        "[^307]",
+        "[^308]",
+        "[^309]",
+        "[^310]"
+      ],
+      "definition_markers": [
+        "[^292]",
+        "[^293]",
+        "[^294]",
+        "[^295]",
+        "[^296]",
+        "[^297]",
+        "[^298]",
+        "[^299]",
+        "[^300]",
+        "[^301]",
+        "[^302]",
+        "[^303]",
+        "[^304]",
+        "[^305]",
+        "[^306]",
+        "[^307]",
+        "[^308]",
+        "[^309]",
+        "[^310]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1899_dolnytsky_typikon_cohort9_raw_draft.md",
+      "passed": true,
+      "paragraphs": 237,
+      "headings_count": 46,
+      "headings": [
+        {
+          "line": 5,
+          "level": 3,
+          "title": "Concerning the Gospels of the Other Four Regular Sundays: the 29th, 30th, 31st, and 32nd"
+        },
+        {
+          "line": 57,
+          "level": 4,
+          "title": "Table (*Скрижа́ль*)"
+        },
+        {
+          "line": 94,
+          "level": 3,
+          "title": "Sunday of the Holy Forefathers"
+        },
+        {
+          "line": 103,
+          "level": 3,
+          "title": "Rubric: 1. Sunday of the Holy Forefathers within and at the Apodosis of the Feast of the Conception, without a Polyeleos Saint"
+        },
+        {
+          "line": 105,
+          "level": 4,
+          "title": "At Great Vespers"
+        },
+        {
+          "line": 117,
+          "level": 4,
+          "title": "At Compline"
+        },
+        {
+          "line": 120,
+          "level": 4,
+          "title": "At Great Matins"
+        },
+        {
+          "line": 128,
+          "level": 4,
+          "title": "At the Hours"
+        },
+        {
+          "line": 135,
+          "level": 4,
+          "title": "At the Liturgy"
+        },
+        {
+          "line": 140,
+          "level": 3,
+          "title": "Rubric: 2. Sunday of the Holy Forefathers on December 13 with the Service of the Holy Martyrs Eustratius and Companions"
+        },
+        {
+          "line": 145,
+          "level": 4,
+          "title": "At Great Vespers"
+        },
+        {
+          "line": 155,
+          "level": 4,
+          "title": "At Compline"
+        },
+        {
+          "line": 158,
+          "level": 4,
+          "title": "At Great Matins"
+        },
+        {
+          "line": 166,
+          "level": 4,
+          "title": "At the Hours"
+        },
+        {
+          "line": 173,
+          "level": 4,
+          "title": "At the Liturgy"
+        }
+      ],
+      "numbered_items_count": 79,
+      "number_breaks": [],
+      "anomalies": []
+    }
+  }
+}

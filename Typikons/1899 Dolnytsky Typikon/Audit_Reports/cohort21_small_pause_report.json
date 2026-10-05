@@ -1,0 +1,160 @@
+{
+  "timestamp": "2026-10-05T13:11:34.851625+00:00",
+  "monument_id": "1899_dolnytsky_typikon",
+  "cohort": 21,
+  "target_file": "1899_dolnytsky_typikon_cohort21_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1899_dolnytsky_typikon_cohort21_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1899_dolnytsky_typikon_cohort21_raw_draft.md",
+      "footnotes_file": "1899_dolnytsky_typikon_cohort21_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 21,
+      "definition_markers_count": 21,
+      "text_markers": [
+        "[^542]",
+        "[^543]",
+        "[^544]",
+        "[^545]",
+        "[^546]",
+        "[^547]",
+        "[^548]",
+        "[^549]",
+        "[^550]",
+        "[^551]",
+        "[^552]",
+        "[^553]",
+        "[^554]",
+        "[^555]",
+        "[^556]",
+        "[^557]",
+        "[^558]",
+        "[^559]",
+        "[^560]",
+        "[^561]",
+        "[^562]"
+      ],
+      "definition_markers": [
+        "[^542]",
+        "[^543]",
+        "[^544]",
+        "[^545]",
+        "[^546]",
+        "[^547]",
+        "[^548]",
+        "[^549]",
+        "[^550]",
+        "[^551]",
+        "[^552]",
+        "[^553]",
+        "[^554]",
+        "[^555]",
+        "[^556]",
+        "[^557]",
+        "[^558]",
+        "[^559]",
+        "[^560]",
+        "[^561]",
+        "[^562]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1899_dolnytsky_typikon_cohort21_raw_draft.md",
+      "passed": true,
+      "paragraphs": 228,
+      "headings_count": 59,
+      "headings": [
+        {
+          "line": 3,
+          "level": 3,
+          "title": "First Saturday of the Great Fast"
+        },
+        {
+          "line": 6,
+          "level": 4,
+          "title": "On Friday Evening"
+        },
+        {
+          "line": 7,
+          "level": 5,
+          "title": "At Vespers with the Presanctified"
+        },
+        {
+          "line": 10,
+          "level": 5,
+          "title": "At Compline"
+        },
+        {
+          "line": 18,
+          "level": 4,
+          "title": "Typikon"
+        },
+        {
+          "line": 22,
+          "level": 4,
+          "title": "At Matins"
+        },
+        {
+          "line": 34,
+          "level": 4,
+          "title": "At the Hours"
+        },
+        {
+          "line": 37,
+          "level": 4,
+          "title": "At the Liturgy"
+        },
+        {
+          "line": 40,
+          "level": 3,
+          "title": "First Sunday of the Holy Fasts"
+        },
+        {
+          "line": 51,
+          "level": 4,
+          "title": "Typikon"
+        },
+        {
+          "line": 52,
+          "level": 5,
+          "title": "At Great Vespers"
+        },
+        {
+          "line": 58,
+          "level": 5,
+          "title": "At Compline"
+        },
+        {
+          "line": 61,
+          "level": 5,
+          "title": "At Great Matins"
+        },
+        {
+          "line": 75,
+          "level": 4,
+          "title": "At the Hours"
+        },
+        {
+          "line": 78,
+          "level": 4,
+          "title": "At the Liturgy"
+        }
+      ],
+      "numbered_items_count": 69,
+      "number_breaks": [],
+      "anomalies": []
+    }
+  }
+}

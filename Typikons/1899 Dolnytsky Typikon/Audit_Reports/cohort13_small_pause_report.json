@@ -1,0 +1,144 @@
+{
+  "timestamp": "2026-10-05T07:57:08.881390+00:00",
+  "monument_id": "1899_dolnytsky_typikon",
+  "cohort": 13,
+  "target_file": "1899_dolnytsky_typikon_cohort13_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1899_dolnytsky_typikon_cohort13_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1899_dolnytsky_typikon_cohort13_raw_draft.md",
+      "footnotes_file": "1899_dolnytsky_typikon_cohort13_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 13,
+      "definition_markers_count": 13,
+      "text_markers": [
+        "[^372]",
+        "[^373]",
+        "[^374]",
+        "[^375]",
+        "[^376]",
+        "[^377]",
+        "[^378]",
+        "[^379]",
+        "[^380]",
+        "[^381]",
+        "[^382]",
+        "[^383]",
+        "[^384]"
+      ],
+      "definition_markers": [
+        "[^372]",
+        "[^373]",
+        "[^374]",
+        "[^375]",
+        "[^376]",
+        "[^377]",
+        "[^378]",
+        "[^379]",
+        "[^380]",
+        "[^381]",
+        "[^382]",
+        "[^383]",
+        "[^384]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1899_dolnytsky_typikon_cohort13_raw_draft.md",
+      "passed": true,
+      "paragraphs": 271,
+      "headings_count": 62,
+      "headings": [
+        {
+          "line": 5,
+          "level": 4,
+          "title": "Typika"
+        },
+        {
+          "line": 6,
+          "level": 3,
+          "title": "1. Forefeast of the Meeting on the Sunday of the Publican, of the Prodigal Son, Meat-fare, and Cheese-fare Sunday"
+        },
+        {
+          "line": 9,
+          "level": 4,
+          "title": "At Great Vespers"
+        },
+        {
+          "line": 14,
+          "level": 4,
+          "title": "At Compline"
+        },
+        {
+          "line": 17,
+          "level": 4,
+          "title": "At Great Matins"
+        },
+        {
+          "line": 32,
+          "level": 4,
+          "title": "At the Hours"
+        },
+        {
+          "line": 35,
+          "level": 4,
+          "title": "At the Divine Liturgy"
+        },
+        {
+          "line": 44,
+          "level": 3,
+          "title": "2. Forefeast of the Meeting on Meat-fare Saturday"
+        },
+        {
+          "line": 47,
+          "level": 3,
+          "title": "3. Forefeast of the Meeting on Cheese-fare Monday, Tuesday, and Thursday"
+        },
+        {
+          "line": 56,
+          "level": 3,
+          "title": "4. Forefeast of the Meeting on Cheese-fare Wednesday and Friday"
+        },
+        {
+          "line": 62,
+          "level": 3,
+          "title": "5. Forefeast of the Meeting on Cheese-fare Saturday"
+        },
+        {
+          "line": 71,
+          "level": 4,
+          "title": "At Vespers"
+        },
+        {
+          "line": 79,
+          "level": 4,
+          "title": "At Compline"
+        },
+        {
+          "line": 82,
+          "level": 4,
+          "title": "At Matins"
+        },
+        {
+          "line": 94,
+          "level": 4,
+          "title": "At the Hours"
+        }
+      ],
+      "numbered_items_count": 98,
+      "number_breaks": [],
+      "anomalies": []
+    }
+  }
+}

@@ -1,0 +1,261 @@
+# Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)
+## Final Edition — Cohort 13: Physical Pages 201–220 (Leaves p201–p220 / Book pp. 197–216)
+
+---
+
+### Titulus VII (Continued): On the Ecclesiastical Hierarchy
+
+### Chapter IV: On Cathedral Chapters
+
+=== LEAF p201 ===
+*(Physical Page 201 / Book Page 197)*
+
+CHAPTER IV.
+On Cathedral Chapters.
+
+1. The principal sacred council wherewith each Diocesan Bishop is crowned, even as the Lord Himself by the council of the Apostles, is without doubt the Cathedral Chapter, composed among us customarily of Canons (*Kryloshany*), which, as on the one hand it devoteth itself unto the public praise of God, so on the other hand it offereth its assistance unto the Bishop in the governance of very extensive dioceses, which otherwise it would be almost impossible for Bishops alone to administer. That unto such a station therefore it behoveth to elect only men distinguished above others in piety and learning is evident, so that by such means the episcopal crown may shine as if with the most precious stones.
+2. As to the original establishment of this manner of Chapters in our Church, it ought to be known that, inasmuch as they constituted the presbytery of the Bishop, they existed in the Ruthenian Church already from ancient times under the name of *krylos* (*kliros*), whence the Ruthenian name *kryloshanyn* [canon] also taketh its origin. And inasmuch as unto those same Chapters there was added the rank and title of Canons, as also of consistorial referendaries, according to the rule of the Chapters of the Latin Rite situated in these northern regions of ours, their first detailed organization—namely that of the Chapter of Lviv—was accomplished by Bishop Joseph Shumlansky in the year 1700, and as to the Chapter of Peremyshl, by Innocent Vynnytsky in the year 1687. Those two Chapters, having fallen little by little into decay, were organized anew, and that the first on March 11, 1771, by Bishop Leo Sheptytsky, which new organization was confirmed by the Austrian Government by virtue of a court decree dated July 15, 1774, under Empress Maria Theresa, as to its form, yet not in such wise that that confirmation obtained execution. For this was finally accomplished in the year 1813 on February 25 by an Imperial Diploma of His Majesty the Emperor of blessed memory Franz I; while the second, or that of Peremyshl, under that same Emperor, by an imperial diploma of April 20, 1816, upon the intercession of Mykhailo Levytsky,
+
+=== LEAF p202 ===
+*(Physical Page 202 / Book Page 198)*
+
+the then Bishop of Peremyshl. The Chapter of Stanyslaviv was founded in that very same year wherein the Bishopric was established, that is, 1885, by the authority granted unto the very first Bishop, the Reverend Father Julian Pelesz, in the Bull of Foundation.
+3. All those Chapters received in our times their confirmation from the Holy See, and that: the Chapter of Lviv and that of Peremyshl through a Brief issued by our Holy Father Pius IX in Rome at Saint Peter's under the Fisherman's Ring on July 12, 1864.—Afterwards the Chapter of Lviv received also the confirmation of its statutes from that same Holy Apostolic See, by a decree issued by the Sacred Congregation for the Propagation of the Faith for Affairs of the Eastern Rites on September 4, 1875, in this form: "Whereas the Most Reverend Father Joseph Sembratovych, Archbishop of Lviv of the Greek-Ruthenian Rite, according to the prescription of the Apostolic Letter of July 12, 1864, whereby our Holy Father Pius IX established Chapters at the Metropolitan Church of Lviv and the Cathedral Church of Peremyshl, submitted the statutes of the said Metropolitan Chapter, in order that they might be subjected unto the examination and approval of the Sacred Congregation, Their Eminences the Fathers of that Sacred Council for the Propagation of the Christian Name for Affairs of Churches of the Eastern Rite, in a general congregation held on August 21 of the year 1875 just past, having examined everything thoroughly, resolved that they, according to the form in which they are contained in the attached copy, ought to be confirmed. This resolution of Their Eminences the Fathers, His Holiness, upon the proposal of the Secretary undersigned, in an audience of the 31st day of the same month and year, graciously approved and deigned to declare valid. Given at Rome in the palace of the Sacred Congregation for the Propagation of the Faith for Affairs of the Eastern Rite on the 4th day of September 1875. Alessandro Card. Franchi, Prefect.—Gaetano Aloisi Masella, Secretary" [^210].—The Chapter of Peremyshl however, for the reason that up unto this time it hath not submitted its statutes unto the Holy See for confirmation, doth not enjoy up unto the present the consequences of its confirmation, since its establishment took place with that express reservation, if—within
+
+=== LEAF p203 ===
+*(Physical Page 203 / Book Page 199)*
+
+six months the capitular statutes should be submitted unto the Holy See for confirmation.
+Lest therefore that Chapter should be deprived of its rights, the Synod ordaineth that the said Chapter, within the space of one year from the celebration of the Synod, shall transmit its statutes unto the Holy See for confirmation [^211]. The Chapter of Stanyslaviv indeed obtained its confirmation and that of its statutes from the Holy See by the authority granted for that purpose unto the Bishop of Stanyslaviv himself by the very Bull of Foundation; nevertheless this Chapter also the Synod admonisheth, that it endeavor as quickly as possible to submit its statutes for confirmation [^212].
+4. As to the rights, duties, and privileges of the Chapters, those are accurately defined in the capitular statutes, which are also appended here at the end of the Synod [^213]. In addition, the Synod calleth upon individual members of the Chapter in the Lord, that even as they excel the whole Clergy in dignity and honors, so likewise they should surpass the rest of the Clergy by examples of virtue, according to the words of the Lord: "For unto whomsoever much is given, of him shall be much required" [^214].
+5. Most especially doth the said Synod recommend unto them subordination unto their own Bishop as unto their Hierarch, that between the Bishop and the members of the Chapter there may exist that harmony which existeth between the various strings of the same instrument, as in his Epistle to the Ephesians the holy Hieromartyr Ignatius admonisheth, saying: "Whomsoever the Father of the family sendeth to govern His family, him ought we so to receive as the very One Who sendeth him. It is plain therefore that we ought to look upon the Bishop even as upon the Lord Himself"; so that in this manner there may be conferred also upon the Canons of our Chapters that praise which that same God-bearing Martyr once conferred upon the Presbytery of the Church of Ephesus, saying: "For your Presbytery, worthy of praise and worthy of God, is fitted unto the Bishop as strings are to a cithara. Wherefore in your accord
+
+=== LEAF p204 ===
+*(Physical Page 204 / Book Page 200)*
+
+and harmonious love Jesus Christ is sung." And that this may be attained, let the Canons (*Kryloshany*) conscientiously assist their Bishop with their counsels and deeds, accurately observe his commands, and show themselves ever ready to undertake all affairs and bring them unto a conclusion.
+
+---
+
+### Chapter V: On Vicars Forane or Deans
+
+CHAPTER V.
+On Vicars Forane or Deans.
+
+1. Although the governance of the Church of God belongeth properly unto Bishops, whom the Holy Spirit Himself hath placed for that purpose, yet, because on account of the extent of ecclesiastical territories the Bishop is not able himself immediately to fulfill this heavenly office of his, it is therefore necessary for him to associate unto himself for a share in these labors some of the more excellent of his clergy, who, because they represent the Hierarch himself of their diocese in administration, ought also themselves to represent his qualities and virtues; and having become superiors of the whole clergy of their deanery, they ought to become an example of all ecclesiastical prescriptions, unto the observance of which they have been chosen to direct the clergy. Bearing this in mind, that even as they have become together with the Bishop partakers of the labors to be borne in the vineyard of the Lord,—so likewise it shall come to pass, that one day before others they shall become partakers of the fruits of their labors, according to the words of the Apostle: "The laborer is worthy of his reward" [^215].
+The duties of Deans are the following:
+1. Vigilance over the doctrine of faith, morals, and holy discipline, especially as to the celebration of divine services, the administration of the Holy Mysteries, the visitation of the sick, the preaching of the Word of God, the visitation of schools and the teaching of Christian doctrine therein, understood first of all as regards the clergy, and then as regards the people of their deanery; so that, if they should perceive that anything opposeth the rule of the holy canons and the ordinances of the Bishop, let them immediately endeavor
+
+=== LEAF p205 ===
+*(Physical Page 205 / Book Page 201)*
+
+themselves of their own accord to remedy it; and if this should appear difficult unto them, let them report the whole matter without delay unto their Ordinary.
+2. Supervision over the administration of the temporalities and foundations of individual churches of the deanery, taking care that nothing of them be lost, or deteriorated, or altered; and for this purpose it shall be a grave duty of Deans to examine the annual accounts of those temporalities and foundations.
+3. Induction into canonical possession of pastors, and the handing over unto them in the name and representation of the Ordinaries of the churches, temporalities, legacies, foundations, all acts and books, as also all possessions of the churches, unto the administration whereof they are admitted.
+4. Reporting unto the Bishop concerning the more important affairs, and inversely informing the clergy concerning the commands of the Bishop, and transmitting letters concerning current affairs which are mutually to be communicated, appending also their own opinion concerning the matter in question.
+5. Holding every year decanal conferences [synodules] with the clergy of their deanery, according to the rule prescribed by the Diocesan Ordinary, and reporting concerning the matters discussed therein unto the Bishop as quickly as possible after the celebration of each conference.
+6. Inspection of all the parishes of their deanery every year, and an accurate report concerning their condition.
+7. Provision concerning a pastor departing unto God: namely, that he administer unto him the Holy Mysteries and other spiritual aids, or take care that they be administered by someone else; that after his death he bury him with the rites proper unto priests, together with the fellow priests of the deanery; and then take over all parish documents, appoint a temporary administrator, and not fail to inform the Ordinary concerning all these things.
+8. Permission for pastors to absent themselves from their parishes for up to eight days for any grave cause.
+2. As to the honorary rights of Deans, they are the following:
+
+=== LEAF p206 ===
+*(Physical Page 206 / Book Page 202)*
+
+The Dean receiveth from the Religious Fund for the fulfillment of his office and for chancery expenses at least 100 gulden annually. He hath the privilege of wearing a reverenda with a so-called pelerine and with double sleeves and a black sash with golden fringe. Upon his arrival for an official decanal inspection, the local pastor and the brotherhood of that church shall receive him at the parish church with the ringing of bells.—Deans are honored with the title: "Very Reverend Father." Because they exercise office in the name of their Bishop, honor, reverence, and obedience are due unto them from the clergy corresponding unto their office, and precedence both in church and outside, when they are engaged in their administration.
+
+---
+
+### Chapter VI: On Pastors
+
+CHAPTER VI.
+On Pastors.
+
+1. Bishops associate Pastors unto themselves for a share in solicitude for the salvation of souls of the dioceses committed unto them; nevertheless they shall govern the parish committed unto them in dependence upon the Bishop. And because they are immediately joined unto their people, and therefore can work more effectively for their salvation—they ought to know what a burden is laid upon them, and what an account they must render unto God. With that distinguished office and dignity of theirs, therefore, there ought to be joined also corresponding virtues of the spirit, which they shall display unto their people not by word only, but also by example, so that that which they teach the people by word, they shall first fulfill in deed, according unto that which holy Evangelist Luke writeth concerning the Lord: "Jesus began both to do and teach" [^216].
+2. Further, the office of pastor is comprised in three heads: namely, that he be a teacher, a minister, and a shepherd.
+As a teacher he ought to apply himself unto the preaching of the Word of God and the teaching of Christian doctrine (catechesis
+
+=== LEAF p207 ===
+*(Physical Page 207 / Book Page 203)*
+
+so that by these he may instruct his flock in the way of eternal salvation. As a preacher and teacher of Christian doctrine, let him observe accurately the prescriptions of the holy Canons: namely, that on every Sunday and feast day he always deliver a sermon during the Liturgy, and after Vespers impart Christian instruction; and also upon other convenient occasions let him endeavor to fulfill that duty, and also privately, in season and out of season, let him endeavor to introduce good customs among the faithful [^217].
+As a minister, acting in the person of Christ, he is bound first of all to offer and apply for his sheep the sacrifice of the Divine Liturgy on Sundays and prescribed feast days; and besides that, according to the custom and prescription existing among us from ancient times, on every Sunday and prescribed feast day to chant Matins and the First Hour, and in the afternoon, Vespers, besides other extraordinary sacred functions according to the prescriptions of the Typikon and according to the needs of the faithful, whether celebrated within the church or outside the church.
+3. As dispensers of the Mysteries of God, pastors are bound to administer the Holy Mysteries unto the faithful whenever they request them, or whenever they themselves perceive the need thereof, and that with that gravity, faith, and devotion which befitteth things so holy; and with such external pronunciation of the words and accompaniment of ritual actions that the faithful may receive the fruits of the Holy Mysteries proceeding not only from the work worked (*ex opere operato*), but also from the work of the worker (*ex opere operantis*), and that they may be thoroughly imbued with the mysteries of heavenly things.—Especially as to the Mystery of Penance and the Most Holy Eucharist, they shall show themselves solicitous and willing to administer them unto the same faithful as frequently as possible, sparing no labors, nor diligence, nor patience in the holy Tribunal of Penance, especially in the Paschal season, wherein, according to canon law, the pastor is bound to administer the Holy Eucharist unto his people.—This solicitude of his he is bound also to manifest toward the severely sick in their homes, lest by chance in the final combat
+
+=== LEAF p208 ===
+*(Physical Page 208 / Book Page 204)*
+
+the most terrible of all, they should be left without the aid and strengthening of these Mysteries.
+4. As a shepherd or governor of the flock, he is bound comprehensively to watch over the discipline of morals of his flock; and therefore, if he should learn of anything contrary unto morality, he ought to hasten immediately to remedy it,—taking care especially that there be no illicit or suspect cohabitations, that drunkenness and dancing in taverns do not spread, lest on account of their negligence in rooting out those errors they should draw down upon themselves the punishments threatened against the Angel of Pergamum [^218]; that thefts and quarrels and other contentions do not increase, and if they should at any time occur, let him endeavor peacefully and with all patience to settle them, avoiding disputes, and let him strive with gravity corresponding unto his office to bring them to an end. In more difficult cases, however, which he cannot settle himself, he ought to refer the matter unto his Ordinary.
+5. For the rest, pastors ought to have solicitude concerning everything that leadeth unto the salvation of the people, becoming all things unto all men: teachers of youth, fathers of the poor, counselors of the unfortunate and the sick, protectors of orphans and widows, defenders of the oppressed, promoters of pious sodalities, and guardians of religious customs.
+6. And that they may be able to satisfy all these duties of theirs, pastors ought almost always to reside in their parishes; and if for any grave reason they should be compelled to absent themselves, they ought not to do so without the permission of their dean, having presented unto him the motive and purpose of their journey, so that the dean may temporarily commit that parish unto one of the neighboring pastors; which permission however the dean can grant only for eight days, and if the reason for absence should require a longer duration of time, in that case he ought through his dean to have recourse unto his Ordinary.
+7. In addition, the pastor ought to have in his house a cupboard secured with an appropriate lock, wherein care-
+
+=== LEAF p209 ===
+*(Physical Page 209 / Book Page 205)*
+
+fully all parish acts shall be preserved: first of all the four registers whereof the Synod of Zamość maketh mention [^219], and besides these all commands and ordinances of authority, both ecclesiastical and civil, relating unto ecclesiastical affairs.
+8. Since therefore such and so great are the duties of a pastor, he unquestionably hath need, for the proper fulfillment thereof, of special help and higher strength, which the pastor therefore shall strive to obtain through unwearied prayers, vigils, and fasts, employing prayer most of all for his sermons, remembering that he could not catch a single soul in the mystical net of Christ, *except at the word of the Lord* [^220]. In particular he shall receive that help from on high by celebrating worthily and devoutly the Divine Sacrifice, if not daily, then at least as frequently as possible, reciting daily and devoutly the Canonical Hours, confessing frequently, accustoming himself daily unto meditations upon heavenly things and spiritual reading, especially of Holy Scripture, which St. Ambrose calleth "the priestly book," and St. Athanasius "a paradise wherein all trees are found..." Avoiding worldly public gatherings, as also avoiding noisy dances in his house, even in times of festivities.
+9. According to their ability pastors ought also to establish brotherhoods, especially of temperance, admitting however unto the pledge those who have been tested beforehand, and watching over circles designated for literary reading (reading rooms) in the parish, lest books and periodicals hostile unto piety and the Catholic Church or unto good morals should perchance be accepted there; and they themselves ought to hold in their hands, as it were, the key of such societies, so that they may become an instrument of the Church for the promotion of the good of religion and society.
+
+---
+
+### Chapter VII: On Assistant Priests
+
+=== LEAF p210 ===
+*(Physical Page 210 / Book Page 206)*
+
+CHAPTER VII.
+On Assistant Priests.
+
+1. Over the mystical fishing of the night of this age, by the word of the Lord, one Peter is placed, unto him are added the Apostles as helpers, and unto these other fellow-workers. After the death of Peter and the Apostles and the disciples of Christ, according to that same will of Christ and by His ordinance, their lawful successors continue that mystical fishing: namely, the prince of all and governor of the ship of the Church, the Roman Pontiff; his helpers—the Bishops; of Bishops—pastors; of pastors—assistant priests [sotrudnyky]; all these as ministers of Christ on their part contribute unto the labor of fishing for souls that are to be ferried unto the shore of eternity. Where therefore a Pastor is not able himself to govern his parish, the Bishop is bound to assign him assistants, who, although they have not ordinary jurisdiction in the parish, but are only subordinate unto the pastor, nevertheless, on account of the commonality of the sacred order, it is fitting that they should shine with qualities similar unto pastors. And that between the Pastor and the Assistant there may exist the greatest possible concord, for lack of which a shameful desolation ariseth in a parish, the Synod feeleth bound in the Lord to prescribe a mutual rule of duties for both. Namely: unto the pastor, that he treat his assistant as his fellow-companion in Christ, with kindness, gentleness, and benevolence, guarding against proud domineering over him; nay more, striving that both the members of his household and all parishioners treat him with all respect; and as for the assistant himself, that as a younger minister, he gradually guide him, when opportunity offereth, with his counsels in the directing of souls and administration of the parish.
+2. In addition, the Pastor ought to watch over the life and conduct of his assistant both at home and outside the house; nevertheless he ought not immediately to proceed against his faults harshly, and much less publicly, but only privately between four eyes admonish him paternally, and only report an incorrigible one unto the dean or the Ordinary.
+3. Finally, because the vicar of a pastor is not properly a hireling, but his fellow-worker, and a partaker in the labors
+
+=== LEAF p211 ===
+*(Physical Page 211 / Book Page 207)*
+
+in the vineyard of the Lord, the pastor therefore ought not to lay the whole burden of labor upon his shoulders, but divide it by a just apportionment between himself and him in such wise that both jointly bear the yoke of the Lord; yet in such wise that under pretext of labor, for the obtaining of greater gain, the pastor do not retain for himself almost all celebrations furnished with stipends, while the assistants be deprived of their fruits.
+4. Finally, that on account of material revenues there may be no disputes between the Pastor and the Assistant, the Synod commandeth Pastors, that both for the good of mutual peace and of the parishioners, as also for good example and the manifestation of justice, they observe the custom of those pious pastors who, of all revenues collected in common, give unto their assistants a third part thereof. In particular as to the Divine Liturgies, their stipends shall belong exclusively and in their entirety unto those unto whom the faithful without restriction offer them and who celebrate the Divine Liturgies; yet in such wise that neither the Pastor hinder, and much less forbid, liturgical stipends to be offered unto the Assistants, nor the Assistants hinder such stipends from being offered unto the Pastor.
+5. Unto Assistants the Synod prescribeth, that they remember well that they are lower in office, and usually also in age and experience, than Pastors; wherefore they ought to render unto them from the heart the honor of filial affection, and by their manner of conduct strive also to gain for pastors the respect, love, and confidence of others [^221].
+6. The Assistant ought to manifest obedience unto his Pastor and be always ready to supply the place of the Pastor; besides this let Assistants remember that ordinary authority in the administration of the parish doth not belong unto them, but unto Pastors, and therefore let them not arrogate unto themselves any authority to dispose at will of the affairs of the parish, and let them not dare to introduce anything new into the parish without their consent.
+
+=== LEAF p212 ===
+*(Physical Page 212 / Book Page 208)*
+
+7. But if it should appear unto them that for the good and salvation of the faithful something better or more beneficial ought to be done, they shall present the same with all modesty and subordination unto the Pastor, and strive to incline him unto agreement thereto.
+8. Finally, let them not dare to absent themselves from the place without permission of the Pastor, but only with his knowledge and permission, and that on each occasion; the Pastor himself shall be able to grant permission for three days, so that in this manner neither the Pastor nor the parishioners may be deprived of the assistance of the Assistant in the work of eternal salvation.
+
+---
+
+### Titulus VIII: On Sacred Seminaries
+
+TITULUS VIII.
+On Sacred Seminaries.
+
+If at all times the greatest vigilance and special diligence were necessary to be employed, in order that all those who desire to war in the camp of the Lord should be piously and holily educated, and thoroughly instructed in the best disciplines, then surely it is a secret unto no one how greatly it concerneth both the realm of Christ and the civil state, that so salutary a work should everywhere be supported with redoubled zeal, especially in these exceedingly difficult times, wherein the good of the Church urgently requireth that from day to day the number of the best priests should increase, who, shining with the adornment of all virtues and possessing sound and solid learning, may be able to fulfill the duties of their order piously and with knowledge, diligently instruct the Christian people, take thorough care for the salvation of souls, guide those who err into the way of truth and righteousness, and watchfully and skillfully defend the cause of God and of the Church; and unmask the deceits of insidious men, refute errors, overthrow ignorance and rashness, and crush assaults [^222].
+
+=== LEAF p213 ===
+*(Physical Page 213 / Book Page 209)*
+
+That we may the more surely and at the same time the more successfully attain this, so that according to the mind of the Holy Apostolic See the Church of God in this Ruthenian ecclesiastical Province may always have a sufficient number of churchmen who, mighty in deed and word, may courageously and diligently fight the battle of the Lord, and who may fulfill all the parts of their duty, so manifold and arduous, piously and skillfully, the Fathers of this Synod have judged it best to establish the most precise rules concerning the education of clerics; inasmuch as upon the right education of clerics dependeth the right education of the Christian people.
+
+---
+
+### Chapter I: On Minor Seminaries
+
+CHAPTER I.
+On Minor Seminaries.
+
+1. Inasmuch as a priest for the most part hath such an end in life as he had a beginning from childhood, and: "There are ways before a man, and he loves not to turn away from them" [^223], or according to the Vulgate: "Train up a child in the way he should go: and when he is old, he will not depart from it" [^224], it unquestionably therefore mattereth much, that future ministers of the Church from their tender years should with special care be inclined unto piety and learning. For this reason this Synod decreeth, that in this ecclesiastical Province of ours at least one minor seminary [seminary for boys] shall be founded, unto which youths from the Metropolitan Diocese and from the dioceses of the other Suffragans may have access.
+2. And in order that, as custom and the need of the time require, the Minor Seminary may be adapted unto a more detailed rule and therefore be able to bring greater benefit unto the Church, this Synod deemeth it well to add that which pertaineth unto the governance and administration of such an institution, as also unto the method of studies and religious direction of life.
+3. Since the Minor Seminary is founded as a nursery, as it were, of piety to be cultivated and of priestly character to be formed, for the purpose that boys may be trained unto innocence of life, godliness, modesty, and the ecclesiastical spirit
+
+=== LEAF p214 ===
+*(Physical Page 214 / Book Page 210)*
+
+and at the same time learn the arts and higher sciences,—the Bishops therefore shall first of all apply every diligence and attention, that in the preparatory seminary there be appointed superiors and teachers distinguished by virtue and morals, zeal and wisdom, no less than by talents and learning [^225].
+4. The superiors and teachers shall strive with all exertion and all labor, that the pupils from day to day may grow in true and thorough learning, in faith and piety; let them strive to awaken in the students a love for study, and at the same time foster a spirit of discipline and work. Moreover, let them strive with all diligence toward this, that youths from early childhood, divesting themselves more and more of the worldly spirit, may be imbued with the ecclesiastical spirit; let them instill into their spirit proper respect, love, and honor for the clerical state; let them diligently apply labor, that no less by example than by precepts they may form and confirm in them a true and firm disposition for prayer, love, humility, obedience, uprightness, and blamelessness; from the very threshold of the spiritual course let them be guides unto them in all their works, to be fulfilled out of love for God in such wise that care for discipline may be love, and love the guardian of laws [^226]; let them teach them to approach the Holy Mysteries devoutly, to pay adoration unto the Most Holy Mysteries, to revere devoutly the Most Blessed Virgin, to be attentively and devoutly present at the Eucharistic Sacrifice, to meditate with profit, and to read spiritual books. Diligently let them strive that the rules for the governance of Seminaries, to be established by this Synod, be accurately observed by all; whereby it shall come to pass, that in the pupils there shall be formed also a sense of order, and they shall early accustom themselves to preserve order in all things most diligently.—Diligently let them oversee the students committed unto them, whether when they are engaged in study or when they give themselves unto recreations, for upon untiring vigilance
+
+=== LEAF p215 ===
+*(Physical Page 215 / Book Page 211)*
+
+most of all dependeth the preservation of morality, the correction of character, and progress in studies [^227].
+5. The superiors of the Seminary shall also in this apply diligence, that the boys learn the rules of propriety and practice every courtesy. If therefore in their manners they should notice anything unpolished and coarse, improper and discordant, let them strive to correct and remove it for the better. Truly Christian propriety and gentleness of manners, which proceed from love and humility, are an ornament and dignity for clerics and bring not a little luster unto their learning and piety, and in the end effect this, that the ministers of God become beloved unto men and can the more easily win them for Christ.
+6. If there should be found any who possess not talents or a spirit suited unto the priestly state, who are not devoted unto piety and virtue—who know not discipline, manifesting a conceited or obstinate disposition, or giving scandal unto others whether by words or deeds,—and who, having been frequently admonished, do not amend themselves for the better, let them be expelled from the Seminary [^228].
+7. That they may already from youth become accustomed unto priestly customs and practice the rites which are to be strictly and accurately observed, the pupils shall serve at the sacred functions in the choir of the chapel, and besides this let them practice liturgical chant throughout the whole course of education.
+8. For the rest, the Bishops, when they desire to establish a Minor Seminary, shall strive with every effort for the means necessary for the accomplishment of this most salutary work. Since however it is very difficult that they should be able to bear the expenses necessary for this by their own resources, let them cherish a firm hope that the Sacred Congregation for the Propagation of the Faith, unto which the above-mentioned work lieth deeply at heart, will come unto their assistance.
+
+---
+
+### Chapter II: On Major Seminaries
+
+=== LEAF p216 ===
+*(Physical Page 216 / Book Page 212)*
+
+CHAPTER II.
+On Major Seminaries.
+
+1. In the Minor Seminary the pupils in some measure begin the clerical life, but in the Major Seminaries they are brought, as it were, unto perfection. For in these are most immediately prepared those who are to be the light of the world and the salt of the earth, and leaders of peoples, who, as with the two-edged sword of piety and learning, should fight steadfastly for the truth and combat errors unconquerably; who, mighty in deed and word, might govern and guard the vineyard of the Lord. Above all, therefore, let the Bishops have at heart solicitude for the Major Seminary, let them distinguish them with fatherly care, and let them guard them as the apple of their eye.
+2. But since in this ecclesiastical province of ours there is one Major Seminary for all the Dioceses, therefore the Most Reverend Metropolitan together with the Suffragan Bishops shall labor with all diligence, that everything pertaining unto its governance and discipline, according to the demands of the time and in the spirit of the Ecumenical Council of Trent, be accurately and promptly ordered.
+3. For this reason let the Bishops diligently watch, that the governance of both Seminaries be committed unto men who are distinguished by blamelessness of morals, gravity, experience, and wisdom, and eminent in piety, zeal, and all priestly virtues; who unite firmness of spirit in maintaining discipline with gentleness and amiability; who apply all diligence and vigilance, that all superiors and servants of the Seminary fulfill their duties properly.
+4. That the Rector of the Seminary especially may be able properly to fulfill all this, let him not accept any other duties, whether ecclesiastical or secular, but let him be wholly devoted unto the governance of the Seminary, undistracted by any other occupation [^229]. Likewise let the Bishops
+
+=== LEAF p217 ===
+*(Physical Page 217 / Book Page 213)*
+
+diligently strive that the spiritual director or Confessor (*Dukhovnyk*) be most qualified for directing the conscience and morals of the seminarians. His duty shall be to instruct the seminarians concerning the duties pertaining unto the priestly state, concerning sanctity of life, concerning zeal for souls, concerning the denial of one's own will, concerning true obedience due unto superiors, concerning love of neighbor and most of all toward companions, concerning love of God, the Most Blessed Virgin Mary, and the Saints, and concerning the duties of piety with regard unto them. In addition let the Spiritual Director teach the seminarians, that they run not after dignities and honors, and that the things of the world are vain. Above all he ought so to attach the souls of the seminarians unto himself, that they themselves openly disclose their innermost thoughts unto him, and that whenever they are oppressed by disquietude of spirit, they may know that they have a most loving father, who can offer true consolation.
+Besides this, let the Most Reverend Metropolitan together with the Most Reverend Bishops take care, that in both seminaries there be a diligent house-administrator [procurator / *zavidatel domu*], who shall properly care for the proper maintenance of the seminarians and of others living in the Seminary, as also for the other temporal needs of this institution. Let him so administer his office that, while duly providing for persons, he may turn the revenues of the Seminary unto its benefit.
+5. By reason of their offices, the Rector of the Seminary, the Spiritual Director, and the other Superiors are bound to reside in the Seminary, and being provided with maintenance and other things necessary for life therefrom, they cannot give themselves unto any other occupations, except if for very grave reasons the Most Reverend Metropolitan should judge otherwise.
+6. For the office of teaching, let the Bishops elect teachers of the sciences (Professors of Theology), who are distinguished by talent, learning, piety, and stability of morals; who, constantly devoted unto studies, bear the yoke of the rule and the burden of a laborious life with a cheerful spirit, and in the exact observance of order give guidance unto the seminarians; who teach the young seminarians both by example and by word humility, avoidance of the world, love of labor and of solitude, diligent practice in prayer; who show themselves most capable not only of delivering
+
+=== LEAF p218 ===
+*(Physical Page 218 / Book Page 214)*
+
+instruction free from all error, but also of kindling the spirit of the students with zeal for the glory of God and the salvation of souls.
+7. As to the superiors of the lower Seminary or Vice-Rectors and Prefects of discipline, let the Most Reverend Bishops, having taken the counsel of the Rector, elect and appoint them. It shall be the duty of Vice-Rectors to assist the Rector in all things and in his absence to supply his person. It is the duty of Prefects to dwell in the very same lodging together with the seminarians day and night. And that their vigilance may be profitable, individual divisions (rooms) ought not to contain more than about 15 seminarians. Their office is to watch over the observance of the rules, to guard the schedule of hours appointed for individual occupations; and that the same may be most accurately observed, to permit no one to leave the room without grave necessity. Let the Prefects see that in the time appointed for study and quiet, the seminarians observe silence, and that in the time of recreation they carry on no useless, or unseemly, or political conversations, but only such as befit piety and the life of clerics, and that they engage in no amusements that are not suitable for persons consecrated unto God. But if any abuses should creep into a division (room), let them endeavor to remove them as quickly as possible; and if that should become impossible, let them report unto the Rector, who according to his office ought to provide a remedy. In all this the so-called Censor supplieth the place of the Prefect in his absence, with the permission of the Rector.
+8. Whenever the seminarians must go forth from the seminary unto a public place, whether to take part in the choir of the cathedral church, or for a walk appointed in the schedule of hours, or to attend lectures at the university for any division, let them proceed in pairs by two, accompanied by a Prefect.
+9. It is necessary by all means to endeavor that the seminarians during vacation time remain in the Seminary with the superiors, even as was observed in the beginnings. But, so long as this cannot be attained, then lest the seminarians during vacation time lose that benefit of right training which
+
+=== LEAF p219 ===
+*(Physical Page 219 / Book Page 215)*
+
+they have attained in the Seminary, let the Superiors, when vacation time approacheth, carefully instruct them in what manner, in all modesty and holiness, they ought to dwell among relatives and cohabitants, what dangers to avoid, that they may preserve themselves unspotted from this world; unto what occupation of the spirit in free time they ought to give themselves, that they may not pine in idleness, whence so many errors grow; by what exercises of piety, finally, they ought daily to occupy themselves, that they may not expose themselves unto the danger of inconstancy. We admonish Pastors, that during vacation time they oversee the seminarians and employ them for teaching the elements of the Christian faith unto children, in choral functions, and other services of that kind pertaining unto the praise of God. Upon the conclusion of vacations the Pastor is bound in conscience to report in a sealed letter unto the Most Reverend Metropolitan concerning the conduct of the seminarians who resided in his parish, and concerning their manner of life, concerning their approach unto the Holy Mysteries, and concerning their diligence in other sacred functions, and whether they wore attire which is suitable for clerics. And that all this may be faithfully and accurately observed, the Bishops assembled in this Synod command, that the rules drawn up by the Metropolitan Ordinariate and presented in this Synod, examined in general deliberation, and furnished with the authority of this Synod, shall be observed by all and singular who administer the Seminary. For the faithful execution of all rules, especially for the removal of abuses if such should creep in, and for the firm and religious maintenance of discipline in the Seminaries, the Metropolitan shall deign to visit the Seminary frequently in the year [^230].
+11. But since no man ought to take honor unto himself, unless he be called of God, as was Aaron [^231], nay more, as Christ the Lord Himself, therefore in the admission of youth unto Sacred Seminaries, it is necessary above all to have conviction concerning their vocation unto the clerical state; for the obtaining whereof, the Bishops shall require from gymnasium catechists the most accurate report
+
+=== LEAF p220 ===
+*(Physical Page 220 / Book Page 216)*
+
+concerning their morality, ability, and comprehensive conduct, as also concerning the signs testifying unto their inclination and bent toward the clerical state. In addition let the local pastors diligently observe and direct the life, abilities, and conduct of those youths who reside in their parish during vacation time; and in case they are to be admitted unto the clerical state, and they should judge them unfit for such a calling, they are bound to inform the Ordinariate through testimonials.
+12. For the rest, that they may be the more thoroughly convinced concerning such a vocation, the superiors of Seminaries shall watch over individual youths, as also over their life, that it be suitable and in accord with their calling; for which purpose the superiors also ought to know that they are burdened in conscience as to accurate knowledge of the life of the seminarians, and for this purpose they shall at appointed times render a report concerning each of them in common meetings of the rectorate, and draw up concerning the conduct of each individual written tables, which each year are to be submitted unto the Ordinary; and if it should be ascertained that any of the seminarians manifesteth not signs of a priestly vocation, or defileth the same by deeds contrary unto this calling, then such, if they should prove incorrigible, let them be expelled in good time from the seminary.
+13. This Synod indeed firmly professeth that the celibate state is more perfect than the married state, according to the words of the Apostle: "He that is unmarried careth for the things that belong to the Lord, how he may please the Lord: but he that is married careth for the things that are of the world, how he may please his wife; he is divided" [^232]. Since however the Catholic Church for grave reasons hath permitted and doth permit, that clerics of our rite, before ordination or installation in major orders, have freedom, according to the grace given them by God, either to abide always in celibacy, which would be best, or to marry a maiden: the Synod, recognizing this freedom and leaving it inviolate, nevertheless in view of the benefit and need of our Church, admonisheth the superiors of Seminaries, that seminarians well disposed toward the acceptance
+
+---
+
+## 4. Scholarly Critical Apparatus & Footnotes
+
+[^210]: Appendix XXXIV (*Додатокъ ч. 34*) of the Synodal Acts: Official Statutes of the Metropolitan Cathedral Chapter of Lviv (*Statuta Capituli Metropolitani Leopolensis*), approved by the Sacred Congregation *de Propaganda Fide pro negotiis Ritus Orientalis* on September 4, 1875, signed by Cardinal Alessandro Franchi, Prefect, and Archbishop Gaetano Aloisi Masella, Secretary. Book p. 198 (Leaf p202).
+
+[^211]: Printed marginal note: *Which indeed was already accomplished in the year 1894* (*Що и стало ся вже р. 1894*). By formal decree of the Sacred Congregation *de Propaganda Fide* in 1894, the Statutes of the Greek Catholic Cathedral Chapter of Peremyshl were submitted and canonically confirmed. Book p. 199 (Leaf p203).
+
+[^212]: Printed marginal note: *This also was already accomplished in 1894. The statutes of both episcopal Chapters have been confirmed* (*Се такожь вже стало ся 1894 р. Статуты обохъ еписк. Капитулъ подтвердженô*), referring to the Holy See's confirmation of the statutes of the Cathedral Chapters of Peremyshl and Stanyslaviv. Book p. 199 (Leaf p203).
+
+[^213]: Printed cross-reference: *See the statutes of the Chapter of the Metropolitan Church of Lviv, Appendix 34* (*зри статуты Капитулы Церкви Митроп Львôвскои Додат. 34*). Book p. 199 (Leaf p203).
+
+[^214]: Luke 12:48 — "For unto whomsoever much is given, of him shall be much required: and to whom men have committed much, of him they will ask the more" (*Ємуже будетъ дано много, много взыщется отъ него* / *Omni autem cui multum datum est, multum quaeretur ab eo*). Book p. 199 (Leaf p203).
+
+[^215]: 1 Timothy 5:18 — "The laborer is worthy of his reward" (*Достоинъ дѣлатель мзды своея* / *Dignus est operarius mercede sua*), citing the Pauline apostolic principle of pastoral justice and material support for clergy. Book p. 200 (Leaf p204).
+
+[^216]: Acts of the Apostles 1:1 — "The former treatise have I made, O Theophilus, of all that Jesus began both to do and teach" (*Первое убо слово сотворихъ о всѣхъ, о Ѳеофиле, яже начатъ Іисусъ творити же и учити* / *Primum quidem sermonem feci de omnibus, o Theophile, quae coepit Jesus facere et docere*). Book p. 202 (Leaf p206).
+
+[^217]: 2 Timothy 4:2 — "Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all longsuffering and doctrine" (*Проповѣдуй слово, насто́й благовременнѣ и безвременнѣ, обличи, запрети, умоли со всякимъ долготерпѣніемъ и ученіемъ* / *Praedica verbum, insta opportune, importune: argue, obsecra, increpa in omni patientia, et doctrina*). Book p. 203 (Leaf p207).
+
+[^218]: Apocalypse (Book of Revelation) 2:14–16 — The solemn divine warning and judgment addressed unto the Angel (Bishop) of the Church in Pergamum against tolerating the doctrine of Balaam, stumbling blocks, and the deeds of the Nicolaitans. Book p. 204 (Leaf p208).
+
+[^219]: Ruthenian Provincial Synod of Zamość (1720), Titulus X *De parochis* (On Pastors), obliging every pastor to maintain four distinct parish registers (*чотыри книги* / *quatuor libri parochiales*): the register of baptisms (*Liber Baptizatorum*), confirmations (*Liber Confirmatorum*), marriages (*Liber Copulatorum*), and the deceased (*Liber Mortuorum*). Book p. 205 (Leaf p209).
+
+[^220]: Luke 5:5 — "Master, we have toiled all the night, and have taken nothing: nevertheless at Thy word I will let down the net" (*Наставниче, об нощь всю труждьшеся, ничесоже яхомъ: по глаголу же Твоему ввергу мрежу* / *Praeceptor, per totam noctem laborantes, nihil cepimus: in verbo autem tuo laxabo rete*). Book p. 205 (Leaf p209).
+
+[^221]: Provincial Council of Prague (1860), Titulus VI, Chapter 8 *On Parochial Vicars and Assistants* (*De vicariis et cooperatoribus*), prescribing filial obedience, sincere cooperation, and mutual harmony between parochial assistants / curates and parish pastors. Book p. 207 (Leaf p211).
+
+[^222]: Pope Pius IX, Apostolic Letter *Caelestium munerum dispensatio* (July 1, 1873), establishing the Pontifical Seminary of Pius IV (Seminario Pio) in Rome for the ascetical, theological, and disciplinary formation of candidates for the sacred priesthood. Book p. 208 (Leaf p212).
+
+[^223]: Proverbs 22:15 (Septuagint versification: *Притч. 22:15 LXX*): "There are ways before a man, and he loves not to turn away from them; but foolishness is tied to the heart of a youth, and the rod of correction shall drive it far from him" (*Суть путіе предъ мужемъ, и не любитъ возвратити ся отъ нихъ*). Book p. 209 (Leaf p213).
+
+[^224]: Proverbs 22:6 (Vulgate: *Proverbia 22:6*): "Train up a child in the way he should go: and when he is old, he will not depart from it" (*Adolescens juxta viam suam etiam cum senuerit non recedet ab ea*). Book p. 209 (Leaf p213).
+
+[^225]: Third Plenary Council of Baltimore (1884), Titulus V *De clericorum educatione et instructione*, Caput I *De seminariis minoribus* (nos. 139–152), enacting canonical norms requiring seminary superiors and professors to be distinguished by mature piety, exemplary morals, prudence, and sacred learning. Book p. 210 (Leaf p214).
+
+[^226]: Wisdom of Solomon 6:19 (Septuagint versification: Wisdom 6:19 LXX; Wisdom 6:18 MT/Vulgate): "And the care of discipline is love; and love is the keeping of her laws; and the giving heed unto her laws is the assurance of incorruption" (*Попеченіе же о наказаніи любы, любы же сохраненіе законовъ ея* / *Cura ergo disciplinae dilectio est: et dilectio custodia legum illius est*). Book p. 210 (Leaf p214).
+
+[^227]: Comparative conciliar legislation: Provincial Council of Cologne (1860), Titulus IV *De Seminariis*; Provincial Council of Tours (1856); and Third Plenary Council of Baltimore (1884), Titulus V: emphasizing constant vigilance over student morals, Christian civility, and academic progress. Book p. 211 (Leaf p215).
+
+[^228]: Ibid., Provincial Councils of Cologne, Tours, and Baltimore: decreeing the timely expulsion of incorrigible seminarians exhibiting obstinacy, contempt for discipline, or moral scandal. Book p. 211 (Leaf p215).
+
+[^229]: Third Plenary Council of Baltimore (1884), Titulus V, Caput II *De seminariis majoribus*, no. 156: prohibiting seminary rectors and resident superiors from accepting extraneous ecclesiastical or civil duties that divide their attention from the governance of the seminary. Book p. 212 (Leaf p216).
+
+[^230]: Appendix XXXV (*Додатокъ ч. 35*) of the Synodal Acts: General Statutes and Rules of the Greek Catholic Seminary (*Statuta et Regulae Seminarii Generalis Leopolensis*), approved and confirmed by the Synod of 1891. Book p. 215 (Leaf p219).
+
+[^231]: Hebrews 5:4 — "And no man taketh this honor unto himself, but he that is called of God, as was Aaron" (*И никтоже самъ себѣ пріемлетъ честь, но званный отъ Бога, якоже и Ааронъ* / *Nec quisquam sumit sibi honorem, sed qui vocatur a Deo, tamquam Aaron*). Book p. 215 (Leaf p219).
+
+[^232]: 1 Corinthians 7:32–33 — "He that is unmarried careth for the things that belong to the Lord, how he may please the Lord: but he that is married careth for the things that are of the world, how he may please his wife" (*Не оженивыйся печется о Господнихъ, како угодити Господеви: а оженивыйся печется о мірскихъ, како угодити женѣ. Раздѣлися жена и дѣва* / *Qui sine uxore est, sollicitus est quae Domini sunt, quomodo placeat Deo. Qui autem cum uxore est, sollicitus est quae sunt mundi, quomodo placeat uxori: et divisus est*). Book p. 216 (Leaf p220).

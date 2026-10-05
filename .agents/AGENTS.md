@@ -85,3 +85,20 @@ After modifying files or completing audits:
 3. Update the global notice board at `GLOBAL_ECOSYSTEM_STATE.md` if shipping a new translation segment.
 4. Copy finalized deliverables to the Hub's inbox: `C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Inbox\`.
 5. Write a `handoff_note.md` in the Inbox detailing what was translated and any terminology considerations.
+
+---
+
+### 14. Inviolable Autonomous Execution & Subagent Isolation Rule
+* **Canonical Architecture**:
+  * **Parent Orchestrator Session**: Stays in the primary chat, driving the multi-cohort loop controller (`scripts/autonomous_orchestrator.py`).
+  * **Context-Sequestered Subagent (via `invoke_subagent`)**: Worker subagents spawned natively in the background with isolated context for transcription and drafting. The parent orchestrator never ingests raw images or massive leaf transcriptions directly into its primary context.
+  * **Small Pause Gate**: 100% automated, zero-human Python linter suite (`scripts/run_small_pause_gate.py`). Runs headlessly and programmatically in seconds between cohorts.
+  * **Grand Pause**: The **sole** human checkpoint, occurring strictly and exclusively when 100% of all physical leaves across the entire monument are translated and assembled (`remaining_pages == 0`).
+* **Inviolable Autonomous Execution Rule**:
+  * The Orchestrator is **strictly prohibited from yielding execution to the Human Operator between cohorts during production codex processing**.
+  * If a Small Pause Gate passes, the next cohort **MUST be dispatched immediately via `invoke_subagent`**.
+  * The agent may only halt execution when `active_blockers` is non-empty (and logged in `scratch/triage_inbox.jsonl`) or when `remaining_pages == 0` (Grand Pause).
+* **Prohibition of the Two-Chat Copy-Paste Anti-Pattern**:
+  * The Orchestrator must **never** generate prompts instructing the human operator to "copy and paste into another chat" or yield turns waiting for human relay.
+  * All worker delegations must be executed programmatically via `invoke_subagent`.
+

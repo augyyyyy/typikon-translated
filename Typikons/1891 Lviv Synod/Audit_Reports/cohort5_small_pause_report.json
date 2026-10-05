@@ -1,0 +1,124 @@
+{
+  "timestamp": "2026-10-04T18:04:00.689874+00:00",
+  "monument_id": "1891_lviv_synod",
+  "cohort": 5,
+  "target_file": "1891_synod_cohort5.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1891_synod_cohort5.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1891_synod_cohort5.md",
+      "footnotes_file": "1891_lviv_synod_cohort5_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 3,
+      "definition_markers_count": 3,
+      "text_markers": [
+        "[^46]",
+        "[^47]",
+        "[^48]"
+      ],
+      "definition_markers": [
+        "[^46]",
+        "[^47]",
+        "[^48]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1891_synod_cohort5.md",
+      "passed": true,
+      "paragraphs": 326,
+      "headings_count": 27,
+      "headings": [
+        {
+          "line": 1,
+          "level": 1,
+          "title": "Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)"
+        },
+        {
+          "line": 2,
+          "level": 2,
+          "title": "Tier 1 (The Calibration Anchor) — Cohort 5: Physical Pages 41–60 (Leaves p41–p60)"
+        },
+        {
+          "line": 13,
+          "level": 2,
+          "title": "Table of Contents"
+        },
+        {
+          "line": 40,
+          "level": 2,
+          "title": "1. Conclusion of the Conciliar Ceremonies"
+        },
+        {
+          "line": 44,
+          "level": 3,
+          "title": "Promoter's Motion & Suffrage of Dissolution"
+        },
+        {
+          "line": 51,
+          "level": 3,
+          "title": "Decree on the Conclusion of the Synod"
+        },
+        {
+          "line": 57,
+          "level": 3,
+          "title": "Admonition to Notaries & Descent to the Altar"
+        },
+        {
+          "line": 68,
+          "level": 3,
+          "title": "Eucharistic Exposition & The Slavonic Supplications"
+        },
+        {
+          "line": 80,
+          "level": 3,
+          "title": "The Te Deum & Triple Eucharistic Blessing"
+        },
+        {
+          "line": 90,
+          "level": 3,
+          "title": "Solemn Dismissal, Polychronion, & Kiss of Peace"
+        },
+        {
+          "line": 122,
+          "level": 3,
+          "title": "Mandate on Latin Translation & Propaganda Submission"
+        },
+        {
+          "line": 132,
+          "level": 2,
+          "title": "2. Part VI: Epistolary Exchange with the Apostolic See"
+        },
+        {
+          "line": 136,
+          "level": 3,
+          "title": "VI."
+        },
+        {
+          "line": 138,
+          "level": 4,
+          "title": "Synodal Letter of the Ruthenian Episcopate to Pope Leo XIII"
+        },
+        {
+          "line": 168,
+          "level": 4,
+          "title": "Apostolic Letter of Pope Leo XIII to the Ruthenian Hierarchy"
+        }
+      ],
+      "numbered_items_count": 18,
+      "number_breaks": [],
+      "anomalies": []
+    }
+  }
+}

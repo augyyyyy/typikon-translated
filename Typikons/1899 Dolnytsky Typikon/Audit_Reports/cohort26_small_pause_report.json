@@ -1,0 +1,144 @@
+{
+  "timestamp": "2026-10-05T16:49:26.522723+00:00",
+  "monument_id": "1899_dolnytsky_typikon",
+  "cohort": 26,
+  "target_file": "1899_dolnytsky_typikon_cohort26.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1899_dolnytsky_typikon_cohort26.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1899_dolnytsky_typikon_cohort26.md",
+      "footnotes_file": "1899_dolnytsky_typikon_cohort26_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 13,
+      "definition_markers_count": 13,
+      "text_markers": [
+        "[^660]",
+        "[^661]",
+        "[^662]",
+        "[^663]",
+        "[^664]",
+        "[^665]",
+        "[^666]",
+        "[^667]",
+        "[^668]",
+        "[^669]",
+        "[^670]",
+        "[^671]",
+        "[^672]"
+      ],
+      "definition_markers": [
+        "[^660]",
+        "[^661]",
+        "[^662]",
+        "[^663]",
+        "[^664]",
+        "[^665]",
+        "[^666]",
+        "[^667]",
+        "[^668]",
+        "[^669]",
+        "[^670]",
+        "[^671]",
+        "[^672]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1899_dolnytsky_typikon_cohort26.md",
+      "passed": true,
+      "paragraphs": 160,
+      "headings_count": 38,
+      "headings": [
+        {
+          "line": 3,
+          "level": 2,
+          "title": "Monday of the Holy Spirit"
+        },
+        {
+          "line": 4,
+          "level": 3,
+          "title": "Typikon"
+        },
+        {
+          "line": 5,
+          "level": 4,
+          "title": "At Vespers"
+        },
+        {
+          "line": 20,
+          "level": 4,
+          "title": "At Compline"
+        },
+        {
+          "line": 24,
+          "level": 4,
+          "title": "At the Midnight Office"
+        },
+        {
+          "line": 28,
+          "level": 4,
+          "title": "At Matins"
+        },
+        {
+          "line": 42,
+          "level": 4,
+          "title": "At the Hours"
+        },
+        {
+          "line": 46,
+          "level": 4,
+          "title": "At the Liturgy"
+        },
+        {
+          "line": 54,
+          "level": 3,
+          "title": "Apodosis of the Feast of Pentecost"
+        },
+        {
+          "line": 62,
+          "level": 3,
+          "title": "Sunday of All Saints: 1st After the Descent"
+        },
+        {
+          "line": 66,
+          "level": 4,
+          "title": "At Great Vespers"
+        },
+        {
+          "line": 74,
+          "level": 4,
+          "title": "At Compline"
+        },
+        {
+          "line": 78,
+          "level": 4,
+          "title": "At the Midnight Office"
+        },
+        {
+          "line": 82,
+          "level": 4,
+          "title": "At Great Matins"
+        },
+        {
+          "line": 96,
+          "level": 4,
+          "title": "At the Hours"
+        }
+      ],
+      "numbered_items_count": 38,
+      "number_breaks": [],
+      "anomalies": []
+    }
+  }
+}

@@ -49,9 +49,14 @@ def detect_hardcoded_paths(line):
 
 
 def detect_missing_encoding(line):
-    """Find open(...) calls without encoding parameter in the same line."""
-    if re.search(r'\bopen\s*\(', line) and 'encoding' not in line:
-        return True
+    """Find built-in open(...) calls for text without encoding parameter."""
+    # Ignore method calls like fitz.open(...), z.open(...)
+    if re.search(r'(?<!\.)\bopen\s*\(', line):
+        # Ignore binary mode opens
+        if re.search(r'["\'][rwa]\+?b["\']', line) or 'mode="rb"' in line or "mode='rb'" in line:
+            return False
+        if 'encoding' not in line:
+            return True
     return False
 
 
@@ -72,7 +77,7 @@ def detect_git_no_pager(line):
 
 
 def detect_fragile_regex(line):
-    """Detect regex patterns that use word+\d+ for structural headers."""
+    r"""Detect regex patterns that use word+\d+ for structural headers."""
     # Look for patterns like r'Ode \d+', 'Chapter \d+' etc, inside re.compile/search/match
     if 're.' not in line:
         return False

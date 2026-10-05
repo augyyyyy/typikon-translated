@@ -1,0 +1,204 @@
+{
+  "timestamp": "2026-10-05T18:54:17.691870+00:00",
+  "monument_id": "1899_dolnytsky_typikon",
+  "cohort": 28,
+  "target_file": "1899_dolnytsky_typikon_cohort28.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1899_dolnytsky_typikon_cohort28.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1899_dolnytsky_typikon_cohort28.md",
+      "footnotes_file": "1899_dolnytsky_typikon_cohort28_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 43,
+      "definition_markers_count": 43,
+      "text_markers": [
+        "[^698]",
+        "[^699]",
+        "[^700]",
+        "[^701]",
+        "[^702]",
+        "[^703]",
+        "[^704]",
+        "[^705]",
+        "[^706]",
+        "[^707]",
+        "[^708]",
+        "[^709]",
+        "[^710]",
+        "[^711]",
+        "[^712]",
+        "[^713]",
+        "[^714]",
+        "[^715]",
+        "[^716]",
+        "[^717]",
+        "[^718]",
+        "[^719]",
+        "[^720]",
+        "[^721]",
+        "[^722]",
+        "[^723]",
+        "[^724]",
+        "[^725]",
+        "[^726]",
+        "[^727]",
+        "[^728]",
+        "[^729]",
+        "[^730]",
+        "[^731]",
+        "[^732]",
+        "[^733]",
+        "[^734]",
+        "[^735]",
+        "[^736]",
+        "[^737]",
+        "[^738]",
+        "[^739]",
+        "[^740]"
+      ],
+      "definition_markers": [
+        "[^698]",
+        "[^699]",
+        "[^700]",
+        "[^701]",
+        "[^702]",
+        "[^703]",
+        "[^704]",
+        "[^705]",
+        "[^706]",
+        "[^707]",
+        "[^708]",
+        "[^709]",
+        "[^710]",
+        "[^711]",
+        "[^712]",
+        "[^713]",
+        "[^714]",
+        "[^715]",
+        "[^716]",
+        "[^717]",
+        "[^718]",
+        "[^719]",
+        "[^720]",
+        "[^721]",
+        "[^722]",
+        "[^723]",
+        "[^724]",
+        "[^725]",
+        "[^726]",
+        "[^727]",
+        "[^728]",
+        "[^729]",
+        "[^730]",
+        "[^731]",
+        "[^732]",
+        "[^733]",
+        "[^734]",
+        "[^735]",
+        "[^736]",
+        "[^737]",
+        "[^738]",
+        "[^739]",
+        "[^740]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1899_dolnytsky_typikon_cohort28.md",
+      "passed": true,
+      "paragraphs": 486,
+      "headings_count": 21,
+      "headings": [
+        {
+          "line": 1,
+          "level": 1,
+          "title": "Typik of Fr. Isidore Dolnytsky (1899) — Cohort 28"
+        },
+        {
+          "line": 5,
+          "level": 3,
+          "title": "II. Of Movable Feasts (Continued)"
+        },
+        {
+          "line": 7,
+          "level": 4,
+          "title": "2. From Pascha to All Saints"
+        },
+        {
+          "line": 21,
+          "level": 3,
+          "title": "Litany at the Exaltation of the Precious Cross[^699]"
+        },
+        {
+          "line": 37,
+          "level": 2,
+          "title": "Directory of Services of the Entire Year"
+        },
+        {
+          "line": 39,
+          "level": 3,
+          "title": "Notes"
+        },
+        {
+          "line": 65,
+          "level": 2,
+          "title": "Directory of Immovable Services"
+        },
+        {
+          "line": 67,
+          "level": 3,
+          "title": "September"
+        },
+        {
+          "line": 136,
+          "level": 3,
+          "title": "October"
+        },
+        {
+          "line": 209,
+          "level": 3,
+          "title": "November"
+        },
+        {
+          "line": 280,
+          "level": 3,
+          "title": "December"
+        },
+        {
+          "line": 351,
+          "level": 3,
+          "title": "January"
+        },
+        {
+          "line": 427,
+          "level": 3,
+          "title": "February"
+        },
+        {
+          "line": 492,
+          "level": 3,
+          "title": "March"
+        },
+        {
+          "line": 560,
+          "level": 3,
+          "title": "April"
+        }
+      ],
+      "numbered_items_count": 376,
+      "number_breaks": [],
+      "anomalies": []
+    }
+  }
+}

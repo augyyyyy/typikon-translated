@@ -1,0 +1,120 @@
+{
+  "timestamp": "2026-10-05T22:30:23.971499+00:00",
+  "monument_id": "1901_mikita_typikon",
+  "cohort": 1,
+  "target_file": "1901_mikita_typikon_cohort1_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1901_mikita_typikon_cohort1_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1901_mikita_typikon_cohort1_raw_draft.md",
+      "footnotes_file": "1901_mikita_typikon_cohort1_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 1,
+      "definition_markers_count": 1,
+      "text_markers": [
+        "[^1]"
+      ],
+      "definition_markers": [
+        "[^1]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1901_mikita_typikon_cohort1_raw_draft.md",
+      "passed": true,
+      "paragraphs": 99,
+      "headings_count": 30,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "GUIDE TO THE ECCLESIASTICAL TYPIKON,"
+        },
+        {
+          "line": 5,
+          "level": 3,
+          "title": "which"
+        },
+        {
+          "line": 6,
+          "level": 3,
+          "title": "for the spiritually profitable use of youth"
+        },
+        {
+          "line": 7,
+          "level": 3,
+          "title": "was composed and augmented by:"
+        },
+        {
+          "line": 8,
+          "level": 2,
+          "title": "Dr. ALEXANDER MIKITA,"
+        },
+        {
+          "line": 9,
+          "level": 3,
+          "title": "Canon-Custodian of the Cathedral Church of Mukachevo."
+        },
+        {
+          "line": 13,
+          "level": 3,
+          "title": "With the approval of the Eparchial Government"
+        },
+        {
+          "line": 14,
+          "level": 3,
+          "title": "published by:"
+        },
+        {
+          "line": 15,
+          "level": 2,
+          "title": "THE ECCLESIASTICAL-LITERARY CIRCLE"
+        },
+        {
+          "line": 16,
+          "level": 2,
+          "title": "OF THE SEMINARY OF UNGVÁR (UZHHOROD)."
+        },
+        {
+          "line": 20,
+          "level": 3,
+          "title": "SECOND EDITION."
+        },
+        {
+          "line": 35,
+          "level": 1,
+          "title": "TO MY PROTECTRESS:"
+        },
+        {
+          "line": 37,
+          "level": 2,
+          "title": "TO THE QUEEN OF HEAVEN,"
+        },
+        {
+          "line": 38,
+          "level": 2,
+          "title": "THE MOST HOLY MOTHER OF GOD"
+        },
+        {
+          "line": 39,
+          "level": 2,
+          "title": "AND EVER-VIRGIN MARY,"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "anomalies": []
+    }
+  }
+}

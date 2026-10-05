@@ -1,0 +1,139 @@
+{
+  "timestamp": "2026-10-05T21:20:51.012821+00:00",
+  "monument_id": "1899_dolnytsky_typikon",
+  "cohort": 30,
+  "target_file": "1899_dolnytsky_typikon_cohort30_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1899_dolnytsky_typikon_cohort30_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1899_dolnytsky_typikon_cohort30_raw_draft.md",
+      "footnotes_file": "1899_dolnytsky_typikon_cohort30_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 2,
+      "definition_markers_count": 2,
+      "text_markers": [
+        "[^744]",
+        "[^745]"
+      ],
+      "definition_markers": [
+        "[^744]",
+        "[^745]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1899_dolnytsky_typikon_cohort30_raw_draft.md",
+      "passed": true,
+      "paragraphs": 391,
+      "headings_count": 34,
+      "headings": [
+        {
+          "line": 1,
+          "level": 1,
+          "title": "Typik of Fr. Isidore Dolnytsky (1899) — Cohort 30"
+        },
+        {
+          "line": 14,
+          "level": 2,
+          "title": "Rubric Concerning the Holy Doors and the Curtain of the Iconostasis"
+        },
+        {
+          "line": 24,
+          "level": 2,
+          "title": "Table of Contents"
+        },
+        {
+          "line": 26,
+          "level": 3,
+          "title": "Part I"
+        },
+        {
+          "line": 27,
+          "level": 4,
+          "title": "General Form of the Divine Services"
+        },
+        {
+          "line": 43,
+          "level": 3,
+          "title": "Part II"
+        },
+        {
+          "line": 44,
+          "level": 4,
+          "title": "General Rubrics for the Various Services of the Octoechos and Menaion"
+        },
+        {
+          "line": 46,
+          "level": 5,
+          "title": "Outside of a Feast"
+        },
+        {
+          "line": 55,
+          "level": 5,
+          "title": "Inside a Feast"
+        },
+        {
+          "line": 56,
+          "level": 6,
+          "title": "In the Forefeast"
+        },
+        {
+          "line": 64,
+          "level": 6,
+          "title": "In the Feast"
+        },
+        {
+          "line": 69,
+          "level": 6,
+          "title": "In the Afterfeast"
+        },
+        {
+          "line": 77,
+          "level": 6,
+          "title": "At the Apodosis of a Feast"
+        },
+        {
+          "line": 81,
+          "level": 3,
+          "title": "Part III"
+        },
+        {
+          "line": 82,
+          "level": 4,
+          "title": "Proper Rubrics for Certain Services of the Menaion according to the Order of the Menologion"
+        }
+      ],
+      "numbered_items_count": 195,
+      "number_breaks": [
+        "Jump from 12 to 14",
+        "Jump from 21 to 23",
+        "Jump from 23 to 26",
+        "Jump from 27 to 31",
+        "Jump from 2 to 6",
+        "Jump from 11 to 14",
+        "Jump from 14 to 17",
+        "Jump from 17 to 20",
+        "Jump from 25 to 27",
+        "Jump from 27 to 30",
+        "Jump from 3 to 7",
+        "Jump from 6 to 9",
+        "Jump from 21 to 25",
+        "Jump from 16 to 20",
+        "Jump from 2 to 6",
+        "Jump from 29 to 31"
+      ],
+      "anomalies": []
+    }
+  }
+}

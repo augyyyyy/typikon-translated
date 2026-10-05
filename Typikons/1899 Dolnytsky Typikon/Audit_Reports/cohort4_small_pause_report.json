@@ -1,0 +1,232 @@
+{
+  "timestamp": "2026-10-05T02:56:06.649456+00:00",
+  "monument_id": "1899_dolnytsky_typikon",
+  "cohort": 4,
+  "target_file": "1899_dolnytsky_typikon_cohort4_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1899_dolnytsky_typikon_cohort4_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1899_dolnytsky_typikon_cohort4_raw_draft.md",
+      "footnotes_file": "1899_dolnytsky_typikon_cohort4_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 57,
+      "definition_markers_count": 57,
+      "text_markers": [
+        "[^71]",
+        "[^72]",
+        "[^73]",
+        "[^74]",
+        "[^75]",
+        "[^76]",
+        "[^77]",
+        "[^78]",
+        "[^79]",
+        "[^80]",
+        "[^81]",
+        "[^82]",
+        "[^83]",
+        "[^84]",
+        "[^85]",
+        "[^86]",
+        "[^87]",
+        "[^88]",
+        "[^89]",
+        "[^90]",
+        "[^91]",
+        "[^92]",
+        "[^93]",
+        "[^94]",
+        "[^95]",
+        "[^96]",
+        "[^97]",
+        "[^98]",
+        "[^99]",
+        "[^100]",
+        "[^101]",
+        "[^102]",
+        "[^103]",
+        "[^104]",
+        "[^105]",
+        "[^106]",
+        "[^107]",
+        "[^108]",
+        "[^109]",
+        "[^110]",
+        "[^111]",
+        "[^112]",
+        "[^113]",
+        "[^114]",
+        "[^115]",
+        "[^116]",
+        "[^117]",
+        "[^118]",
+        "[^119]",
+        "[^120]",
+        "[^121]",
+        "[^122]",
+        "[^123]",
+        "[^124]",
+        "[^125]",
+        "[^126]",
+        "[^127]"
+      ],
+      "definition_markers": [
+        "[^71]",
+        "[^72]",
+        "[^73]",
+        "[^74]",
+        "[^75]",
+        "[^76]",
+        "[^77]",
+        "[^78]",
+        "[^79]",
+        "[^80]",
+        "[^81]",
+        "[^82]",
+        "[^83]",
+        "[^84]",
+        "[^85]",
+        "[^86]",
+        "[^87]",
+        "[^88]",
+        "[^89]",
+        "[^90]",
+        "[^91]",
+        "[^92]",
+        "[^93]",
+        "[^94]",
+        "[^95]",
+        "[^96]",
+        "[^97]",
+        "[^98]",
+        "[^99]",
+        "[^100]",
+        "[^101]",
+        "[^102]",
+        "[^103]",
+        "[^104]",
+        "[^105]",
+        "[^106]",
+        "[^107]",
+        "[^108]",
+        "[^109]",
+        "[^110]",
+        "[^111]",
+        "[^112]",
+        "[^113]",
+        "[^114]",
+        "[^115]",
+        "[^116]",
+        "[^117]",
+        "[^118]",
+        "[^119]",
+        "[^120]",
+        "[^121]",
+        "[^122]",
+        "[^123]",
+        "[^124]",
+        "[^125]",
+        "[^126]",
+        "[^127]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1899_dolnytsky_typikon_cohort4_raw_draft.md",
+      "passed": true,
+      "paragraphs": 145,
+      "headings_count": 22,
+      "headings": [
+        {
+          "line": 5,
+          "level": 3,
+          "title": "Non-Polyeleos Saint on Weekdays, Except Saturday"
+        },
+        {
+          "line": 7,
+          "level": 4,
+          "title": "At Vespers"
+        },
+        {
+          "line": 29,
+          "level": 4,
+          "title": "At Compline"
+        },
+        {
+          "line": 33,
+          "level": 4,
+          "title": "At Midnight Office"
+        },
+        {
+          "line": 40,
+          "level": 4,
+          "title": "At Matins"
+        },
+        {
+          "line": 67,
+          "level": 4,
+          "title": "Notes Concerning a Saint on 6"
+        },
+        {
+          "line": 77,
+          "level": 4,
+          "title": "At the Hours"
+        },
+        {
+          "line": 81,
+          "level": 4,
+          "title": "At the Divine Liturgy"
+        },
+        {
+          "line": 92,
+          "level": 4,
+          "title": "Notes"
+        },
+        {
+          "line": 115,
+          "level": 3,
+          "title": "Non-Polyeleos Saint on Saturday"
+        },
+        {
+          "line": 117,
+          "level": 4,
+          "title": "Note"
+        },
+        {
+          "line": 120,
+          "level": 4,
+          "title": "At Vespers"
+        },
+        {
+          "line": 142,
+          "level": 4,
+          "title": "At Compline"
+        },
+        {
+          "line": 146,
+          "level": 4,
+          "title": "Saturday Midnight Office"
+        },
+        {
+          "line": 148,
+          "level": 4,
+          "title": "At Matins"
+        }
+      ],
+      "numbered_items_count": 51,
+      "number_breaks": [],
+      "anomalies": []
+    }
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "timestamp": "2026-10-04T19:04:13.931379+00:00",
+  "monument_id": "1891_lviv_synod",
+  "cohort": 7,
+  "target_file": "1891_synod_cohort7.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1891_synod_cohort7.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1891_synod_cohort7.md",
+      "footnotes_file": "1891_lviv_synod_cohort7_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 42,
+      "definition_markers_count": 42,
+      "text_markers": [
+        "[^70]",
+        "[^71]",
+        "[^72]",
+        "[^73]",
+        "[^74]",
+        "[^75]",
+        "[^76]",
+        "[^77]",
+        "[^78]",
+        "[^79]",
+        "[^80]",
+        "[^81]",
+        "[^82]",
+        "[^83]",
+        "[^84]",
+        "[^85]",
+        "[^86]",
+        "[^87]",
+        "[^88]",
+        "[^89]",
+        "[^90]",
+        "[^91]",
+        "[^92]",
+        "[^93]",
+        "[^94]",
+        "[^95]",
+        "[^96]",
+        "[^97]",
+        "[^98]",
+        "[^99]",
+        "[^100]",
+        "[^101]",
+        "[^102]",
+        "[^103]",
+        "[^104]",
+        "[^105]",
+        "[^106]",
+        "[^107]",
+        "[^108]",
+        "[^109]",
+        "[^110]",
+        "[^111]"
+      ],
+      "definition_markers": [
+        "[^70]",
+        "[^71]",
+        "[^72]",
+        "[^73]",
+        "[^74]",
+        "[^75]",
+        "[^76]",
+        "[^77]",
+        "[^78]",
+        "[^79]",
+        "[^80]",
+        "[^81]",
+        "[^82]",
+        "[^83]",
+        "[^84]",
+        "[^85]",
+        "[^86]",
+        "[^87]",
+        "[^88]",
+        "[^89]",
+        "[^90]",
+        "[^91]",
+        "[^92]",
+        "[^93]",
+        "[^94]",
+        "[^95]",
+        "[^96]",
+        "[^97]",
+        "[^98]",
+        "[^99]",
+        "[^100]",
+        "[^101]",
+        "[^102]",
+        "[^103]",
+        "[^104]",
+        "[^105]",
+        "[^106]",
+        "[^107]",
+        "[^108]",
+        "[^109]",
+        "[^110]",
+        "[^111]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1891_synod_cohort7.md",
+      "passed": true,
+      "paragraphs": 185,
+      "headings_count": 16,
+      "headings": [
+        {
+          "line": 1,
+          "level": 1,
+          "title": "Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)"
+        },
+        {
+          "line": 2,
+          "level": 2,
+          "title": "Tier 1 (The Calibration Anchor) — Cohort 7: Physical Pages 81–100 (Leaves p81–p100)"
+        },
+        {
+          "line": 22,
+          "level": 2,
+          "title": "Table of Contents"
+        },
+        {
+          "line": 39,
+          "level": 2,
+          "title": "1. Decrees of the Ruthenian Provincial Synod: Titulus I. On the Catholic Faith (Continued)"
+        },
+        {
+          "line": 43,
+          "level": 3,
+          "title": "Chapter IV: On Communion in Sacred Things with Heretics and Schismatics (Conclusion)"
+        },
+        {
+          "line": 51,
+          "level": 3,
+          "title": "CHAPTER V. On the Censorship of Books"
+        },
+        {
+          "line": 75,
+          "level": 3,
+          "title": "CHAPTER VI. On the Sect of Freemasons and Other Condemned or Forbidden Societies"
+        },
+        {
+          "line": 105,
+          "level": 3,
+          "title": "CHAPTER VII. On Preaching the Word of God"
+        },
+        {
+          "line": 137,
+          "level": 3,
+          "title": "CHAPTER VIII. On the Catechism"
+        },
+        {
+          "line": 159,
+          "level": 2,
+          "title": "2. Decrees of the Ruthenian Provincial Synod: Titulus II. On the Mysteries and Their Administration"
+        },
+        {
+          "line": 163,
+          "level": 3,
+          "title": "Preamble: Mandate for the Official Ruthenian Trebnik"
+        },
+        {
+          "line": 171,
+          "level": 3,
+          "title": "CHAPTER I. On the Holy Mystery of Baptism"
+        },
+        {
+          "line": 191,
+          "level": 3,
+          "title": "CHAPTER II. On the Holy Mystery of Chrismation"
+        },
+        {
+          "line": 205,
+          "level": 3,
+          "title": "CHAPTER III. On the Most Holy Mystery of the Eucharist"
+        },
+        {
+          "line": 239,
+          "level": 3,
+          "title": "CHAPTER IV. On the Mystery of Repentance"
+        }
+      ],
+      "numbered_items_count": 45,
+      "number_breaks": [],
+      "anomalies": []
+    }
+  }
+}

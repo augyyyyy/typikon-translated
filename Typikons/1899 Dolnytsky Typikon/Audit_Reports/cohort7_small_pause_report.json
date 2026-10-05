@@ -1,0 +1,186 @@
+{
+  "timestamp": "2026-10-05T04:14:55.302407+00:00",
+  "monument_id": "1899_dolnytsky_typikon",
+  "cohort": 7,
+  "target_file": "1899_dolnytsky_typikon_cohort7_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1899_dolnytsky_typikon_cohort7_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1899_dolnytsky_typikon_cohort7_raw_draft.md",
+      "footnotes_file": "1899_dolnytsky_typikon_cohort7_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 34,
+      "definition_markers_count": 34,
+      "text_markers": [
+        "[^233]",
+        "[^234]",
+        "[^235]",
+        "[^236]",
+        "[^237]",
+        "[^238]",
+        "[^239]",
+        "[^240]",
+        "[^241]",
+        "[^242]",
+        "[^243]",
+        "[^244]",
+        "[^245]",
+        "[^246]",
+        "[^247]",
+        "[^248]",
+        "[^249]",
+        "[^250]",
+        "[^251]",
+        "[^252]",
+        "[^253]",
+        "[^254]",
+        "[^255]",
+        "[^256]",
+        "[^257]",
+        "[^258]",
+        "[^259]",
+        "[^260]",
+        "[^261]",
+        "[^262]",
+        "[^263]",
+        "[^264]",
+        "[^265]",
+        "[^266]"
+      ],
+      "definition_markers": [
+        "[^233]",
+        "[^234]",
+        "[^235]",
+        "[^236]",
+        "[^237]",
+        "[^238]",
+        "[^239]",
+        "[^240]",
+        "[^241]",
+        "[^242]",
+        "[^243]",
+        "[^244]",
+        "[^245]",
+        "[^246]",
+        "[^247]",
+        "[^248]",
+        "[^249]",
+        "[^250]",
+        "[^251]",
+        "[^252]",
+        "[^253]",
+        "[^254]",
+        "[^255]",
+        "[^256]",
+        "[^257]",
+        "[^258]",
+        "[^259]",
+        "[^260]",
+        "[^261]",
+        "[^262]",
+        "[^263]",
+        "[^264]",
+        "[^265]",
+        "[^266]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1899_dolnytsky_typikon_cohort7_raw_draft.md",
+      "passed": true,
+      "paragraphs": 226,
+      "headings_count": 60,
+      "headings": [
+        {
+          "line": 7,
+          "level": 4,
+          "title": "At Great Matins"
+        },
+        {
+          "line": 15,
+          "level": 4,
+          "title": "At the Hours"
+        },
+        {
+          "line": 22,
+          "level": 4,
+          "title": "At the Divine Liturgy"
+        },
+        {
+          "line": 27,
+          "level": 3,
+          "title": "Apodosis of a Feast on Weekdays"
+        },
+        {
+          "line": 29,
+          "level": 4,
+          "title": "At Vespers"
+        },
+        {
+          "line": 43,
+          "level": 4,
+          "title": "At Compline"
+        },
+        {
+          "line": 47,
+          "level": 4,
+          "title": "At the Midnight Office"
+        },
+        {
+          "line": 50,
+          "level": 4,
+          "title": "At Matins"
+        },
+        {
+          "line": 60,
+          "level": 4,
+          "title": "At the Hours"
+        },
+        {
+          "line": 63,
+          "level": 4,
+          "title": "At the Divine Liturgy"
+        },
+        {
+          "line": 72,
+          "level": 1,
+          "title": "Part III"
+        },
+        {
+          "line": 74,
+          "level": 2,
+          "title": "Proper Rubrics for Certain Services of the Menaion"
+        },
+        {
+          "line": 75,
+          "level": 3,
+          "title": "According to the Order of the 12 Months of the Church Year"
+        },
+        {
+          "line": 77,
+          "level": 3,
+          "title": "September"
+        },
+        {
+          "line": 79,
+          "level": 4,
+          "title": "September 1"
+        }
+      ],
+      "numbered_items_count": 89,
+      "number_breaks": [],
+      "anomalies": []
+    }
+  }
+}

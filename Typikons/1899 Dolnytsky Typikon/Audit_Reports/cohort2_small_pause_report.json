@@ -1,0 +1,156 @@
+{
+  "timestamp": "2026-10-05T01:58:56.581643+00:00",
+  "monument_id": "1899_dolnytsky_typikon",
+  "cohort": 2,
+  "target_file": "1899_dolnytsky_typikon_cohort2.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1899_dolnytsky_typikon_cohort2.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1899_dolnytsky_typikon_cohort2.md",
+      "footnotes_file": "1899_dolnytsky_typikon_cohort2_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 19,
+      "definition_markers_count": 19,
+      "text_markers": [
+        "[^16]",
+        "[^17]",
+        "[^18]",
+        "[^19]",
+        "[^20]",
+        "[^21]",
+        "[^22]",
+        "[^23]",
+        "[^24]",
+        "[^25]",
+        "[^26]",
+        "[^27]",
+        "[^28]",
+        "[^29]",
+        "[^30]",
+        "[^31]",
+        "[^32]",
+        "[^33]",
+        "[^34]"
+      ],
+      "definition_markers": [
+        "[^16]",
+        "[^17]",
+        "[^18]",
+        "[^19]",
+        "[^20]",
+        "[^21]",
+        "[^22]",
+        "[^23]",
+        "[^24]",
+        "[^25]",
+        "[^26]",
+        "[^27]",
+        "[^28]",
+        "[^29]",
+        "[^30]",
+        "[^31]",
+        "[^32]",
+        "[^33]",
+        "[^34]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1899_dolnytsky_typikon_cohort2.md",
+      "passed": true,
+      "paragraphs": 172,
+      "headings_count": 23,
+      "headings": [
+        {
+          "line": 9,
+          "level": 4,
+          "title": "Rubrical Notes"
+        },
+        {
+          "line": 19,
+          "level": 3,
+          "title": "Order of Daily Vespers"
+        },
+        {
+          "line": 21,
+          "level": 4,
+          "title": "Actions for the Entire Vespers"
+        },
+        {
+          "line": 29,
+          "level": 4,
+          "title": "The Text"
+        },
+        {
+          "line": 41,
+          "level": 4,
+          "title": "Rubrical Notes"
+        },
+        {
+          "line": 50,
+          "level": 3,
+          "title": "Order of Small Vespers"
+        },
+        {
+          "line": 54,
+          "level": 3,
+          "title": "Concerning Compline"
+        },
+        {
+          "line": 56,
+          "level": 3,
+          "title": "Order of Small Compline"
+        },
+        {
+          "line": 58,
+          "level": 4,
+          "title": "The Text"
+        },
+        {
+          "line": 88,
+          "level": 4,
+          "title": "Actions"
+        },
+        {
+          "line": 99,
+          "level": 3,
+          "title": "Order of Great Compline without an All-Night Vigil"
+        },
+        {
+          "line": 107,
+          "level": 4,
+          "title": "Rubrical Note"
+        },
+        {
+          "line": 117,
+          "level": 3,
+          "title": "Order of Great Compline with an All-Night Vigil"
+        },
+        {
+          "line": 127,
+          "level": 3,
+          "title": "Concerning the Midnight Office"
+        },
+        {
+          "line": 132,
+          "level": 4,
+          "title": "Rubrical Note"
+        }
+      ],
+      "numbered_items_count": 23,
+      "number_breaks": [],
+      "anomalies": []
+    }
+  }
+}

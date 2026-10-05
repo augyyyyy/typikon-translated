@@ -1,0 +1,169 @@
+{
+  "timestamp": "2026-10-04T19:34:29.662241+00:00",
+  "monument_id": "1891_lviv_synod",
+  "cohort": 8,
+  "target_file": "1891_lviv_synod_cohort8.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1891_lviv_synod_cohort8.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1891_lviv_synod_cohort8.md",
+      "footnotes_file": "1891_lviv_synod_cohort8_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 37,
+      "definition_markers_count": 37,
+      "text_markers": [
+        "[^112]",
+        "[^113]",
+        "[^114]",
+        "[^115]",
+        "[^116]",
+        "[^117]",
+        "[^118]",
+        "[^119]",
+        "[^120]",
+        "[^121]",
+        "[^122]",
+        "[^123]",
+        "[^124]",
+        "[^125]",
+        "[^126]",
+        "[^127]",
+        "[^128]",
+        "[^129]",
+        "[^130]",
+        "[^131]",
+        "[^132]",
+        "[^133]",
+        "[^134]",
+        "[^135]",
+        "[^136]",
+        "[^137]",
+        "[^138]",
+        "[^139]",
+        "[^140]",
+        "[^141]",
+        "[^142]",
+        "[^143]",
+        "[^144]",
+        "[^145]",
+        "[^146]",
+        "[^147]",
+        "[^148]"
+      ],
+      "definition_markers": [
+        "[^112]",
+        "[^113]",
+        "[^114]",
+        "[^115]",
+        "[^116]",
+        "[^117]",
+        "[^118]",
+        "[^119]",
+        "[^120]",
+        "[^121]",
+        "[^122]",
+        "[^123]",
+        "[^124]",
+        "[^125]",
+        "[^126]",
+        "[^127]",
+        "[^128]",
+        "[^129]",
+        "[^130]",
+        "[^131]",
+        "[^132]",
+        "[^133]",
+        "[^134]",
+        "[^135]",
+        "[^136]",
+        "[^137]",
+        "[^138]",
+        "[^139]",
+        "[^140]",
+        "[^141]",
+        "[^142]",
+        "[^143]",
+        "[^144]",
+        "[^145]",
+        "[^146]",
+        "[^147]",
+        "[^148]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1891_lviv_synod_cohort8.md",
+      "passed": true,
+      "paragraphs": 142,
+      "headings_count": 10,
+      "headings": [
+        {
+          "line": 1,
+          "level": 1,
+          "title": "Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)"
+        },
+        {
+          "line": 2,
+          "level": 2,
+          "title": "Raw Draft Translation — Cohort 8: Physical Pages 99–118 (Leaves p101–p120)"
+        },
+        {
+          "line": 8,
+          "level": 3,
+          "title": "CHAPTER V. On the Mystery of Anointing (Holy Unction)"
+        },
+        {
+          "line": 35,
+          "level": 3,
+          "title": "CHAPTER VI. On the Mystery of Priesthood (Holy Orders)"
+        },
+        {
+          "line": 62,
+          "level": 3,
+          "title": "CHAPTER VII. On the Mystery of Matrimony"
+        },
+        {
+          "line": 82,
+          "level": 2,
+          "title": "TITULUS III. On Consecrations and Blessings — (Sacramentals)"
+        },
+        {
+          "line": 126,
+          "level": 2,
+          "title": "TITULUS IV. On the Public Worship of God"
+        },
+        {
+          "line": 138,
+          "level": 3,
+          "title": "CHAPTER I. On the Sacrifice of the Liturgy (The Divine Liturgy)"
+        },
+        {
+          "line": 203,
+          "level": 3,
+          "title": "CHAPTER II. On the Intention and Stipends of Divine Liturgies"
+        },
+        {
+          "line": 263,
+          "level": 3,
+          "title": "CHAPTER III. On the Canonical Hours (The Church Rule) and Other Public Divine Services"
+        }
+      ],
+      "numbered_items_count": 61,
+      "number_breaks": [
+        "Jump from 3 to 5"
+      ],
+      "anomalies": []
+    }
+  }
+}

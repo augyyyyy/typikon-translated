@@ -1,0 +1,168 @@
+{
+  "timestamp": "2026-10-05T17:27:18.196728+00:00",
+  "monument_id": "1899_dolnytsky_typikon",
+  "cohort": 27,
+  "target_file": "1899_dolnytsky_typikon_cohort27_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1899_dolnytsky_typikon_cohort27_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1899_dolnytsky_typikon_cohort27_raw_draft.md",
+      "footnotes_file": "1899_dolnytsky_typikon_cohort27_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 25,
+      "definition_markers_count": 25,
+      "text_markers": [
+        "[^673]",
+        "[^674]",
+        "[^675]",
+        "[^676]",
+        "[^677]",
+        "[^678]",
+        "[^679]",
+        "[^680]",
+        "[^681]",
+        "[^682]",
+        "[^683]",
+        "[^684]",
+        "[^685]",
+        "[^686]",
+        "[^687]",
+        "[^688]",
+        "[^689]",
+        "[^690]",
+        "[^691]",
+        "[^692]",
+        "[^693]",
+        "[^694]",
+        "[^695]",
+        "[^696]",
+        "[^697]"
+      ],
+      "definition_markers": [
+        "[^673]",
+        "[^674]",
+        "[^675]",
+        "[^676]",
+        "[^677]",
+        "[^678]",
+        "[^679]",
+        "[^680]",
+        "[^681]",
+        "[^682]",
+        "[^683]",
+        "[^684]",
+        "[^685]",
+        "[^686]",
+        "[^687]",
+        "[^688]",
+        "[^689]",
+        "[^690]",
+        "[^691]",
+        "[^692]",
+        "[^693]",
+        "[^694]",
+        "[^695]",
+        "[^696]",
+        "[^697]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1899_dolnytsky_typikon_cohort27_raw_draft.md",
+      "passed": true,
+      "paragraphs": 254,
+      "headings_count": 73,
+      "headings": [
+        {
+          "line": 5,
+          "level": 3,
+          "title": "§ 2. Proper Temple Typika[^673]"
+        },
+        {
+          "line": 7,
+          "level": 4,
+          "title": "Outside the Triodion"
+        },
+        {
+          "line": 9,
+          "level": 5,
+          "title": "September 1: Temple of the Venerable Simeon the Stylite"
+        },
+        {
+          "line": 11,
+          "level": 6,
+          "title": "On Weekdays"
+        },
+        {
+          "line": 13,
+          "level": 7,
+          "title": "At Little Vespers"
+        },
+        {
+          "line": 19,
+          "level": 7,
+          "title": "At Great Vespers"
+        },
+        {
+          "line": 31,
+          "level": 7,
+          "title": "At Great Matins"
+        },
+        {
+          "line": 40,
+          "level": 7,
+          "title": "At the Hours, and at the Liturgy"
+        },
+        {
+          "line": 48,
+          "level": 5,
+          "title": "September 1: Temple of the Venerable Simeon the Stylite on Sunday"
+        },
+        {
+          "line": 50,
+          "level": 6,
+          "title": "At Little Vespers"
+        },
+        {
+          "line": 56,
+          "level": 6,
+          "title": "At Great Vespers"
+        },
+        {
+          "line": 63,
+          "level": 6,
+          "title": "At Great Matins"
+        },
+        {
+          "line": 80,
+          "level": 6,
+          "title": "At the Hours and at the Liturgy"
+        },
+        {
+          "line": 88,
+          "level": 4,
+          "title": "January 1: Temple of Saint Basil the Great on the Sunday before the Theophany"
+        },
+        {
+          "line": 92,
+          "level": 3,
+          "title": "In the Triodion Cycle"
+        }
+      ],
+      "numbered_items_count": 68,
+      "number_breaks": [],
+      "anomalies": []
+    }
+  }
+}

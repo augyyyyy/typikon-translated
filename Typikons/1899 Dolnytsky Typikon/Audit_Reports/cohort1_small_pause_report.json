@@ -1,0 +1,148 @@
+{
+  "timestamp": "2026-10-05T01:12:22.073328+00:00",
+  "monument_id": "1899_dolnytsky_typikon",
+  "cohort": 1,
+  "target_file": "1899_dolnytsky_typikon_cohort1_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1899_dolnytsky_typikon_cohort1_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1899_dolnytsky_typikon_cohort1_raw_draft.md",
+      "footnotes_file": "1899_dolnytsky_typikon_cohort1_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 15,
+      "definition_markers_count": 15,
+      "text_markers": [
+        "[^1]",
+        "[^2]",
+        "[^3]",
+        "[^4]",
+        "[^5]",
+        "[^6]",
+        "[^7]",
+        "[^8]",
+        "[^9]",
+        "[^10]",
+        "[^11]",
+        "[^12]",
+        "[^13]",
+        "[^14]",
+        "[^15]"
+      ],
+      "definition_markers": [
+        "[^1]",
+        "[^2]",
+        "[^3]",
+        "[^4]",
+        "[^5]",
+        "[^6]",
+        "[^7]",
+        "[^8]",
+        "[^9]",
+        "[^10]",
+        "[^11]",
+        "[^12]",
+        "[^13]",
+        "[^14]",
+        "[^15]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1899_dolnytsky_typikon_cohort1_raw_draft.md",
+      "passed": true,
+      "paragraphs": 152,
+      "headings_count": 25,
+      "headings": [
+        {
+          "line": 1,
+          "level": 1,
+          "title": "Typikon of the Ruthenian-Catholic Church (1899) — Cohort 1 Raw Draft (Physical Leaves p1–p20)"
+        },
+        {
+          "line": 22,
+          "level": 1,
+          "title": "TYPIKON"
+        },
+        {
+          "line": 23,
+          "level": 2,
+          "title": "OF THE RUTHENIAN-CATHOLIC CHURCH"
+        },
+        {
+          "line": 71,
+          "level": 3,
+          "title": "Notice"
+        },
+        {
+          "line": 79,
+          "level": 2,
+          "title": "Constituent Parts of the Typikon"
+        },
+        {
+          "line": 90,
+          "level": 2,
+          "title": "Part I. The General Order of Divine Worship"
+        },
+        {
+          "line": 91,
+          "level": 3,
+          "title": "According to the Typikon of the Provincial Synod of Lviv"
+        },
+        {
+          "line": 95,
+          "level": 4,
+          "title": "On the Various Parts of Divine Worship"
+        },
+        {
+          "line": 105,
+          "level": 3,
+          "title": "On Vespers"
+        },
+        {
+          "line": 106,
+          "level": 3,
+          "title": "Order of Great Vespers at an All-Night Vigil"
+        },
+        {
+          "line": 108,
+          "level": 4,
+          "title": "1. Vesting in the Sacred Vestments, and Censing"
+        },
+        {
+          "line": 137,
+          "level": 4,
+          "title": "2. From \"Glory to the Holy\" to the Entrance"
+        },
+        {
+          "line": 147,
+          "level": 4,
+          "title": "3. The Entrance and Censing at \"O Joyful Light\""
+        },
+        {
+          "line": 168,
+          "level": 4,
+          "title": "4. The Prokimenon and Readings"
+        },
+        {
+          "line": 176,
+          "level": 4,
+          "title": "5. From \"Let us all say\" unto the Litiya"
+        }
+      ],
+      "numbered_items_count": 9,
+      "number_breaks": [],
+      "anomalies": []
+    }
+  }
+}

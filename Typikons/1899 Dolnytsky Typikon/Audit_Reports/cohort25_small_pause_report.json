@@ -1,0 +1,152 @@
+{
+  "timestamp": "2026-10-05T16:03:40.129779+00:00",
+  "monument_id": "1899_dolnytsky_typikon",
+  "cohort": 25,
+  "target_file": "1899_dolnytsky_typikon_cohort25.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1899_dolnytsky_typikon_cohort25.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1899_dolnytsky_typikon_cohort25.md",
+      "footnotes_file": "1899_dolnytsky_typikon_cohort25_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 17,
+      "definition_markers_count": 17,
+      "text_markers": [
+        "[^643]",
+        "[^644]",
+        "[^645]",
+        "[^646]",
+        "[^647]",
+        "[^648]",
+        "[^649]",
+        "[^650]",
+        "[^651]",
+        "[^652]",
+        "[^653]",
+        "[^654]",
+        "[^655]",
+        "[^656]",
+        "[^657]",
+        "[^658]",
+        "[^659]"
+      ],
+      "definition_markers": [
+        "[^643]",
+        "[^644]",
+        "[^645]",
+        "[^646]",
+        "[^647]",
+        "[^648]",
+        "[^649]",
+        "[^650]",
+        "[^651]",
+        "[^652]",
+        "[^653]",
+        "[^654]",
+        "[^655]",
+        "[^656]",
+        "[^657]",
+        "[^658]",
+        "[^659]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1899_dolnytsky_typikon_cohort25.md",
+      "passed": true,
+      "paragraphs": 255,
+      "headings_count": 67,
+      "headings": [
+        {
+          "line": 27,
+          "level": 2,
+          "title": "Proper Typika"
+        },
+        {
+          "line": 28,
+          "level": 3,
+          "title": "From Thomas Sunday to the Ascension"
+        },
+        {
+          "line": 30,
+          "level": 3,
+          "title": "Thomas Sunday"
+        },
+        {
+          "line": 37,
+          "level": 4,
+          "title": "Weekdays of Thomas Week"
+        },
+        {
+          "line": 47,
+          "level": 3,
+          "title": "Sunday of the Myrrh-Bearers"
+        },
+        {
+          "line": 50,
+          "level": 4,
+          "title": "At Great Vespers"
+        },
+        {
+          "line": 62,
+          "level": 4,
+          "title": "At Compline"
+        },
+        {
+          "line": 66,
+          "level": 4,
+          "title": "At Great Matins"
+        },
+        {
+          "line": 76,
+          "level": 4,
+          "title": "At the Hours"
+        },
+        {
+          "line": 84,
+          "level": 4,
+          "title": "At the Liturgy"
+        },
+        {
+          "line": 88,
+          "level": 3,
+          "title": "Weekdays of the Week of the Myrrh-Bearers"
+        },
+        {
+          "line": 92,
+          "level": 4,
+          "title": "At Compline"
+        },
+        {
+          "line": 96,
+          "level": 4,
+          "title": "At Matins"
+        },
+        {
+          "line": 108,
+          "level": 4,
+          "title": "At the Hours"
+        },
+        {
+          "line": 112,
+          "level": 4,
+          "title": "At the Liturgy"
+        }
+      ],
+      "numbered_items_count": 74,
+      "number_breaks": [],
+      "anomalies": []
+    }
+  }
+}

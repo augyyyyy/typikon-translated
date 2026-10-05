@@ -1,0 +1,174 @@
+{
+  "timestamp": "2026-10-05T14:37:36.501586+00:00",
+  "monument_id": "1899_dolnytsky_typikon",
+  "cohort": 22,
+  "target_file": "1899_dolnytsky_typikon_cohort22.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1899_dolnytsky_typikon_cohort22.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1899_dolnytsky_typikon_cohort22.md",
+      "footnotes_file": "1899_dolnytsky_typikon_cohort22_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 28,
+      "definition_markers_count": 28,
+      "text_markers": [
+        "[^563]",
+        "[^564]",
+        "[^565]",
+        "[^566]",
+        "[^567]",
+        "[^568]",
+        "[^569]",
+        "[^570]",
+        "[^571]",
+        "[^572]",
+        "[^573]",
+        "[^574]",
+        "[^575]",
+        "[^576]",
+        "[^577]",
+        "[^578]",
+        "[^579]",
+        "[^580]",
+        "[^581]",
+        "[^582]",
+        "[^583]",
+        "[^584]",
+        "[^585]",
+        "[^586]",
+        "[^587]",
+        "[^588]",
+        "[^589]",
+        "[^590]"
+      ],
+      "definition_markers": [
+        "[^563]",
+        "[^564]",
+        "[^565]",
+        "[^566]",
+        "[^567]",
+        "[^568]",
+        "[^569]",
+        "[^570]",
+        "[^571]",
+        "[^572]",
+        "[^573]",
+        "[^574]",
+        "[^575]",
+        "[^576]",
+        "[^577]",
+        "[^578]",
+        "[^579]",
+        "[^580]",
+        "[^581]",
+        "[^582]",
+        "[^583]",
+        "[^584]",
+        "[^585]",
+        "[^586]",
+        "[^587]",
+        "[^588]",
+        "[^589]",
+        "[^590]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1899_dolnytsky_typikon_cohort22.md",
+      "passed": true,
+      "paragraphs": 193,
+      "headings_count": 43,
+      "headings": [
+        {
+          "line": 17,
+          "level": 4,
+          "title": "At the Hours and at the Liturgy"
+        },
+        {
+          "line": 20,
+          "level": 3,
+          "title": "Fifth Sunday of the Great Fast"
+        },
+        {
+          "line": 23,
+          "level": 3,
+          "title": "Monday, Tuesday, Wednesday, Thursday, and Friday of the Sixth Week of Fast"
+        },
+        {
+          "line": 26,
+          "level": 2,
+          "title": "Flowery Triodion"
+        },
+        {
+          "line": 27,
+          "level": 3,
+          "title": "Disposition of the Synod of Lviv to Pastors of Souls Concerning Church Divine Services from Lazarus Saturday until Bright Tuesday Inclusive"
+        },
+        {
+          "line": 55,
+          "level": 3,
+          "title": "Sixth Saturday of the Great Fast: Lazarus [Saturday]"
+        },
+        {
+          "line": 65,
+          "level": 4,
+          "title": "Typikon"
+        },
+        {
+          "line": 66,
+          "level": 5,
+          "title": "On Friday Evening"
+        },
+        {
+          "line": 67,
+          "level": 6,
+          "title": "At Vespers with the Presanctified"
+        },
+        {
+          "line": 72,
+          "level": 5,
+          "title": "At Little Compline"
+        },
+        {
+          "line": 75,
+          "level": 5,
+          "title": "At Midnight Office"
+        },
+        {
+          "line": 82,
+          "level": 4,
+          "title": "At Matins"
+        },
+        {
+          "line": 90,
+          "level": 4,
+          "title": "At the Hours and at the Liturgy"
+        },
+        {
+          "line": 97,
+          "level": 3,
+          "title": "Palm Sunday[^566]"
+        },
+        {
+          "line": 100,
+          "level": 4,
+          "title": "At Great Vespers"
+        }
+      ],
+      "numbered_items_count": 69,
+      "number_breaks": [],
+      "anomalies": []
+    }
+  }
+}

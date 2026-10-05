@@ -1,0 +1,136 @@
+{
+  "timestamp": "2026-10-04T17:29:39.469274+00:00",
+  "monument_id": "1891_lviv_synod",
+  "cohort": 4,
+  "target_file": "1891_synod_cohort4.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1891_synod_cohort4.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1891_synod_cohort4.md",
+      "footnotes_file": "1891_lviv_synod_cohort4_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 9,
+      "definition_markers_count": 9,
+      "text_markers": [
+        "[^37]",
+        "[^38]",
+        "[^39]",
+        "[^40]",
+        "[^41]",
+        "[^42]",
+        "[^43]",
+        "[^44]",
+        "[^45]"
+      ],
+      "definition_markers": [
+        "[^37]",
+        "[^38]",
+        "[^39]",
+        "[^40]",
+        "[^41]",
+        "[^42]",
+        "[^43]",
+        "[^44]",
+        "[^45]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1891_synod_cohort4.md",
+      "passed": true,
+      "paragraphs": 277,
+      "headings_count": 18,
+      "headings": [
+        {
+          "line": 1,
+          "level": 1,
+          "title": "Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)"
+        },
+        {
+          "line": 2,
+          "level": 2,
+          "title": "Tier 1 (The Calibration Anchor) — Cohort 4: Physical Pages 21–40 (Leaves p21–p40)"
+        },
+        {
+          "line": 10,
+          "level": 2,
+          "title": "Table of Contents"
+        },
+        {
+          "line": 52,
+          "level": 4,
+          "title": "Prayer"
+        },
+        {
+          "line": 73,
+          "level": 3,
+          "title": "Instruction"
+        },
+        {
+          "line": 74,
+          "level": 4,
+          "title": "For Officials at the Provincial Synod, Issued by the Most Reverend Metropolitan of Lviv, 1891"
+        },
+        {
+          "line": 127,
+          "level": 3,
+          "title": "1. Decree on the Opening of the Synod"
+        },
+        {
+          "line": 136,
+          "level": 3,
+          "title": "2. Decree on the Making of the Profession of Faith"
+        },
+        {
+          "line": 141,
+          "level": 3,
+          "title": "3. Decree on the Manner of Life during the Time of the Synod"
+        },
+        {
+          "line": 152,
+          "level": 3,
+          "title": "4. Decree on the Non-Infringement of the Rights of Others"
+        },
+        {
+          "line": 161,
+          "level": 3,
+          "title": "5. Decree That It Is Not Permitted to Withdraw from the Synod"
+        },
+        {
+          "line": 166,
+          "level": 3,
+          "title": "Decree Announcing the Second Session"
+        },
+        {
+          "line": 186,
+          "level": 2,
+          "title": "First Public and Solemn Session"
+        },
+        {
+          "line": 264,
+          "level": 2,
+          "title": "General Congregation II"
+        },
+        {
+          "line": 294,
+          "level": 2,
+          "title": "Congregation III in Order (General Congregation II)"
+        }
+      ],
+      "numbered_items_count": 7,
+      "number_breaks": [],
+      "anomalies": []
+    }
+  }
+}

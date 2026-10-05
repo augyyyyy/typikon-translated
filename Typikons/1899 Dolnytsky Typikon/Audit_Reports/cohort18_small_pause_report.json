@@ -1,0 +1,170 @@
+{
+  "timestamp": "2026-10-05T11:15:32.073088+00:00",
+  "monument_id": "1899_dolnytsky_typikon",
+  "cohort": 18,
+  "target_file": "1899_dolnytsky_typikon_cohort18_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1899_dolnytsky_typikon_cohort18_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1899_dolnytsky_typikon_cohort18_raw_draft.md",
+      "footnotes_file": "1899_dolnytsky_typikon_cohort18_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 25,
+      "definition_markers_count": 25,
+      "text_markers": [
+        "[^445]",
+        "[^446]",
+        "[^447]",
+        "[^448]",
+        "[^449]",
+        "[^450]",
+        "[^451]",
+        "[^452]",
+        "[^453]",
+        "[^454]",
+        "[^455]",
+        "[^456]",
+        "[^457]",
+        "[^458]",
+        "[^459]",
+        "[^460]",
+        "[^461]",
+        "[^462]",
+        "[^463]",
+        "[^464]",
+        "[^465]",
+        "[^466]",
+        "[^467]",
+        "[^468]",
+        "[^469]"
+      ],
+      "definition_markers": [
+        "[^445]",
+        "[^446]",
+        "[^447]",
+        "[^448]",
+        "[^449]",
+        "[^450]",
+        "[^451]",
+        "[^452]",
+        "[^453]",
+        "[^454]",
+        "[^455]",
+        "[^456]",
+        "[^457]",
+        "[^458]",
+        "[^459]",
+        "[^460]",
+        "[^461]",
+        "[^462]",
+        "[^463]",
+        "[^464]",
+        "[^465]",
+        "[^466]",
+        "[^467]",
+        "[^468]",
+        "[^469]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1899_dolnytsky_typikon_cohort18_raw_draft.md",
+      "passed": true,
+      "paragraphs": 255,
+      "headings_count": 48,
+      "headings": [
+        {
+          "line": 40,
+          "level": 3,
+          "title": "Typikon for Cases 7 and 11: Constantine and Helen, and the Finding of the Head of the Forerunner at the Apodosis of the Ascension and of Pentecost"
+        },
+        {
+          "line": 42,
+          "level": 4,
+          "title": "At Great Vespers"
+        },
+        {
+          "line": 49,
+          "level": 4,
+          "title": "At Great Matins"
+        },
+        {
+          "line": 62,
+          "level": 4,
+          "title": "At the Hours"
+        },
+        {
+          "line": 65,
+          "level": 4,
+          "title": "At the Divine Liturgy"
+        },
+        {
+          "line": 69,
+          "level": 3,
+          "title": "June"
+        },
+        {
+          "line": 71,
+          "level": 3,
+          "title": "June 11: The Holy Apostles Bartholomew and Barnabas"
+        },
+        {
+          "line": 105,
+          "level": 3,
+          "title": "June 24: The Nativity of the Holy Forerunner and Baptist John"
+        },
+        {
+          "line": 106,
+          "level": 3,
+          "title": "and June 29: The Holy Preeminent Apostles Peter and Paul"
+        },
+        {
+          "line": 117,
+          "level": 3,
+          "title": "Typikon for June 24 and June 29 if It Occurs with the Feast of the Eucharist and the Compassion of the Most Holy Theotokos[^446]"
+        },
+        {
+          "line": 138,
+          "level": 3,
+          "title": "July"
+        },
+        {
+          "line": 140,
+          "level": 3,
+          "title": "July 2: Deposition of the Precious Robe of the Most Holy Theotokos"
+        },
+        {
+          "line": 147,
+          "level": 4,
+          "title": "1. On Weekdays"
+        },
+        {
+          "line": 150,
+          "level": 4,
+          "title": "2. On Sunday"
+        },
+        {
+          "line": 155,
+          "level": 3,
+          "title": "Typikon of the Deposition of the Precious Robe on the Compassion of the Most Holy Theotokos[^450]"
+        }
+      ],
+      "numbered_items_count": 86,
+      "number_breaks": [
+        "Jump from 2 to 4"
+      ],
+      "anomalies": []
+    }
+  }
+}

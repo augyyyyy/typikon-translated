@@ -1,0 +1,150 @@
+{
+  "timestamp": "2026-10-05T08:40:27.193831+00:00",
+  "monument_id": "1899_dolnytsky_typikon",
+  "cohort": 14,
+  "target_file": "1899_dolnytsky_typikon_cohort14_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1899_dolnytsky_typikon_cohort14_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1899_dolnytsky_typikon_cohort14_raw_draft.md",
+      "footnotes_file": "1899_dolnytsky_typikon_cohort14_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 16,
+      "definition_markers_count": 16,
+      "text_markers": [
+        "[^385]",
+        "[^386]",
+        "[^387]",
+        "[^388]",
+        "[^389]",
+        "[^390]",
+        "[^391]",
+        "[^392]",
+        "[^393]",
+        "[^394]",
+        "[^395]",
+        "[^396]",
+        "[^397]",
+        "[^398]",
+        "[^399]",
+        "[^400]"
+      ],
+      "definition_markers": [
+        "[^385]",
+        "[^386]",
+        "[^387]",
+        "[^388]",
+        "[^389]",
+        "[^390]",
+        "[^391]",
+        "[^392]",
+        "[^393]",
+        "[^394]",
+        "[^395]",
+        "[^396]",
+        "[^397]",
+        "[^398]",
+        "[^399]",
+        "[^400]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1899_dolnytsky_typikon_cohort14_raw_draft.md",
+      "passed": true,
+      "paragraphs": 280,
+      "headings_count": 78,
+      "headings": [
+        {
+          "line": 5,
+          "level": 4,
+          "title": "At the Divine Liturgy"
+        },
+        {
+          "line": 9,
+          "level": 3,
+          "title": "3. Finding of the Precious Head on Cheese-fare Monday, Tuesday, and Thursday[^385]"
+        },
+        {
+          "line": 11,
+          "level": 4,
+          "title": "At Vespers"
+        },
+        {
+          "line": 25,
+          "level": 4,
+          "title": "At Compline"
+        },
+        {
+          "line": 28,
+          "level": 4,
+          "title": "At Matins"
+        },
+        {
+          "line": 34,
+          "level": 4,
+          "title": "At the Hours"
+        },
+        {
+          "line": 37,
+          "level": 4,
+          "title": "At the Divine Liturgy"
+        },
+        {
+          "line": 44,
+          "level": 3,
+          "title": "4. Finding of the Precious Head on Cheese-fare Wednesday and Friday"
+        },
+        {
+          "line": 47,
+          "level": 3,
+          "title": "5. Finding of the Precious Head on Cheese-fare Saturday"
+        },
+        {
+          "line": 49,
+          "level": 4,
+          "title": "At Vespers"
+        },
+        {
+          "line": 58,
+          "level": 4,
+          "title": "At Compline"
+        },
+        {
+          "line": 65,
+          "level": 4,
+          "title": "At Matins"
+        },
+        {
+          "line": 72,
+          "level": 4,
+          "title": "At the Hours"
+        },
+        {
+          "line": 75,
+          "level": 4,
+          "title": "At the Divine Liturgy"
+        },
+        {
+          "line": 78,
+          "level": 3,
+          "title": "6. Finding of the Precious Head on One of the Fast Days of the First Week of the Fast"
+        }
+      ],
+      "numbered_items_count": 103,
+      "number_breaks": [],
+      "anomalies": []
+    }
+  }
+}

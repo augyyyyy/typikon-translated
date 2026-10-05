@@ -1,0 +1,168 @@
+{
+  "timestamp": "2026-10-05T04:55:53.432561+00:00",
+  "monument_id": "1899_dolnytsky_typikon",
+  "cohort": 8,
+  "target_file": "1899_dolnytsky_typikon_cohort8_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1899_dolnytsky_typikon_cohort8_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1899_dolnytsky_typikon_cohort8_raw_draft.md",
+      "footnotes_file": "1899_dolnytsky_typikon_cohort8_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 25,
+      "definition_markers_count": 25,
+      "text_markers": [
+        "[^267]",
+        "[^268]",
+        "[^269]",
+        "[^270]",
+        "[^271]",
+        "[^272]",
+        "[^273]",
+        "[^274]",
+        "[^275]",
+        "[^276]",
+        "[^277]",
+        "[^278]",
+        "[^279]",
+        "[^280]",
+        "[^281]",
+        "[^282]",
+        "[^283]",
+        "[^284]",
+        "[^285]",
+        "[^286]",
+        "[^287]",
+        "[^288]",
+        "[^289]",
+        "[^290]",
+        "[^291]"
+      ],
+      "definition_markers": [
+        "[^267]",
+        "[^268]",
+        "[^269]",
+        "[^270]",
+        "[^271]",
+        "[^272]",
+        "[^273]",
+        "[^274]",
+        "[^275]",
+        "[^276]",
+        "[^277]",
+        "[^278]",
+        "[^279]",
+        "[^280]",
+        "[^281]",
+        "[^282]",
+        "[^283]",
+        "[^284]",
+        "[^285]",
+        "[^286]",
+        "[^287]",
+        "[^288]",
+        "[^289]",
+        "[^290]",
+        "[^291]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1899_dolnytsky_typikon_cohort8_raw_draft.md",
+      "passed": true,
+      "paragraphs": 180,
+      "headings_count": 59,
+      "headings": [
+        {
+          "line": 11,
+          "level": 3,
+          "title": "Concerning the Veneration and Kissing of the Precious Cross"
+        },
+        {
+          "line": 14,
+          "level": 3,
+          "title": "Concerning the Veneration of the Precious Cross during the Afterfeast"
+        },
+        {
+          "line": 23,
+          "level": 4,
+          "title": "At the Liturgy"
+        },
+        {
+          "line": 30,
+          "level": 3,
+          "title": "Saturday after the Exaltation"
+        },
+        {
+          "line": 31,
+          "level": 4,
+          "title": "At the Liturgy"
+        },
+        {
+          "line": 35,
+          "level": 3,
+          "title": "Sunday after the Exaltation"
+        },
+        {
+          "line": 36,
+          "level": 4,
+          "title": "At the Liturgy"
+        },
+        {
+          "line": 42,
+          "level": 3,
+          "title": "At the Apodosis of the Feast of the Exaltation"
+        },
+        {
+          "line": 43,
+          "level": 4,
+          "title": "The Removal of the Precious Cross from the Tetrapod"
+        },
+        {
+          "line": 52,
+          "level": 3,
+          "title": "September 23"
+        },
+        {
+          "line": 53,
+          "level": 4,
+          "title": "Conception of the Honorable, Glorious Prophet, Forerunner, and Baptist John"
+        },
+        {
+          "line": 64,
+          "level": 3,
+          "title": "September 26"
+        },
+        {
+          "line": 65,
+          "level": 4,
+          "title": "The Falling Asleep of the Holy Apostle and Evangelist John the Theologian"
+        },
+        {
+          "line": 68,
+          "level": 3,
+          "title": "October 1"
+        },
+        {
+          "line": 69,
+          "level": 4,
+          "title": "Protection of the Most Holy Lady Theotokos and Ever-Virgin Mary"
+        }
+      ],
+      "numbered_items_count": 32,
+      "number_breaks": [],
+      "anomalies": []
+    }
+  }
+}

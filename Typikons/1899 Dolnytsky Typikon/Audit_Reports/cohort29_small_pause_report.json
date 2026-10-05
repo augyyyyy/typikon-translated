@@ -1,0 +1,124 @@
+{
+  "timestamp": "2026-10-05T21:10:40.023535+00:00",
+  "monument_id": "1899_dolnytsky_typikon",
+  "cohort": 29,
+  "target_file": "1899_dolnytsky_typikon_cohort29.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1899_dolnytsky_typikon_cohort29.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1899_dolnytsky_typikon_cohort29.md",
+      "footnotes_file": "1899_dolnytsky_typikon_cohort29_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 3,
+      "definition_markers_count": 3,
+      "text_markers": [
+        "[^741]",
+        "[^742]",
+        "[^743]"
+      ],
+      "definition_markers": [
+        "[^741]",
+        "[^742]",
+        "[^743]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1899_dolnytsky_typikon_cohort29.md",
+      "passed": true,
+      "paragraphs": 537,
+      "headings_count": 58,
+      "headings": [
+        {
+          "line": 1,
+          "level": 1,
+          "title": "Typik of Fr. Isidore Dolnytsky (1899) — Cohort 29"
+        },
+        {
+          "line": 8,
+          "level": 2,
+          "title": "Directory of Movable Services"
+        },
+        {
+          "line": 10,
+          "level": 3,
+          "title": "Of the Lenten Triodion"
+        },
+        {
+          "line": 12,
+          "level": 4,
+          "title": "Sunday of the Publican and the Pharisee"
+        },
+        {
+          "line": 15,
+          "level": 4,
+          "title": "Sunday of the Prodigal Son"
+        },
+        {
+          "line": 19,
+          "level": 4,
+          "title": "Sunday of Meatfare"
+        },
+        {
+          "line": 20,
+          "level": 5,
+          "title": "Of the Dread Judgment"
+        },
+        {
+          "line": 26,
+          "level": 4,
+          "title": "Sunday of Cheesefare"
+        },
+        {
+          "line": 27,
+          "level": 5,
+          "title": "Adam’s Expulsion from Paradise"
+        },
+        {
+          "line": 35,
+          "level": 4,
+          "title": "1st Sunday of the Fast"
+        },
+        {
+          "line": 36,
+          "level": 5,
+          "title": "Orthodoxy: Against the Iconoclasts"
+        },
+        {
+          "line": 41,
+          "level": 4,
+          "title": "2nd Sunday of the Fast"
+        },
+        {
+          "line": 42,
+          "level": 5,
+          "title": "Nameless, Penitential"
+        },
+        {
+          "line": 46,
+          "level": 4,
+          "title": "3rd Sunday of the Fast"
+        },
+        {
+          "line": 47,
+          "level": 5,
+          "title": "Veneration of the Precious Cross"
+        }
+      ],
+      "numbered_items_count": 52,
+      "number_breaks": [],
+      "anomalies": []
+    }
+  }
+}

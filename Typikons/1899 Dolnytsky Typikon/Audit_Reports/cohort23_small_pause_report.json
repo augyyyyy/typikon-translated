@@ -1,0 +1,174 @@
+{
+  "timestamp": "2026-10-05T14:43:50.121437+00:00",
+  "monument_id": "1899_dolnytsky_typikon",
+  "cohort": 23,
+  "target_file": "1899_dolnytsky_typikon_cohort23_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1899_dolnytsky_typikon_cohort23_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1899_dolnytsky_typikon_cohort23_raw_draft.md",
+      "footnotes_file": "1899_dolnytsky_typikon_cohort23_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 28,
+      "definition_markers_count": 28,
+      "text_markers": [
+        "[^591]",
+        "[^592]",
+        "[^593]",
+        "[^594]",
+        "[^595]",
+        "[^596]",
+        "[^597]",
+        "[^598]",
+        "[^599]",
+        "[^600]",
+        "[^601]",
+        "[^602]",
+        "[^603]",
+        "[^604]",
+        "[^605]",
+        "[^606]",
+        "[^607]",
+        "[^608]",
+        "[^609]",
+        "[^610]",
+        "[^611]",
+        "[^612]",
+        "[^613]",
+        "[^614]",
+        "[^615]",
+        "[^616]",
+        "[^617]",
+        "[^618]"
+      ],
+      "definition_markers": [
+        "[^591]",
+        "[^592]",
+        "[^593]",
+        "[^594]",
+        "[^595]",
+        "[^596]",
+        "[^597]",
+        "[^598]",
+        "[^599]",
+        "[^600]",
+        "[^601]",
+        "[^602]",
+        "[^603]",
+        "[^604]",
+        "[^605]",
+        "[^606]",
+        "[^607]",
+        "[^608]",
+        "[^609]",
+        "[^610]",
+        "[^611]",
+        "[^612]",
+        "[^613]",
+        "[^614]",
+        "[^615]",
+        "[^616]",
+        "[^617]",
+        "[^618]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1899_dolnytsky_typikon_cohort23_raw_draft.md",
+      "passed": true,
+      "paragraphs": 148,
+      "headings_count": 19,
+      "headings": [
+        {
+          "line": 37,
+          "level": 3,
+          "title": "Erection of the Lord's Tomb"
+        },
+        {
+          "line": 46,
+          "level": 3,
+          "title": "Royal Hours"
+        },
+        {
+          "line": 55,
+          "level": 3,
+          "title": "Typika (Obidnytsia)"
+        },
+        {
+          "line": 66,
+          "level": 3,
+          "title": "On Great Friday Evening"
+        },
+        {
+          "line": 67,
+          "level": 4,
+          "title": "At Vespers"
+        },
+        {
+          "line": 77,
+          "level": 4,
+          "title": "Typikon"
+        },
+        {
+          "line": 110,
+          "level": 3,
+          "title": "Little Compline"
+        },
+        {
+          "line": 115,
+          "level": 3,
+          "title": "Saturday Midnight Office"
+        },
+        {
+          "line": 118,
+          "level": 3,
+          "title": "Matins of Great Saturday"
+        },
+        {
+          "line": 129,
+          "level": 4,
+          "title": "Typikon"
+        },
+        {
+          "line": 167,
+          "level": 4,
+          "title": "At the Hours"
+        },
+        {
+          "line": 171,
+          "level": 4,
+          "title": "At the Typika (Obidnytsia)"
+        },
+        {
+          "line": 174,
+          "level": 3,
+          "title": "On Great Saturday Evening"
+        },
+        {
+          "line": 175,
+          "level": 4,
+          "title": "At Vespers with the Liturgy of Basil"
+        },
+        {
+          "line": 193,
+          "level": 4,
+          "title": "At Compline"
+        }
+      ],
+      "numbered_items_count": 48,
+      "number_breaks": [],
+      "anomalies": []
+    }
+  }
+}

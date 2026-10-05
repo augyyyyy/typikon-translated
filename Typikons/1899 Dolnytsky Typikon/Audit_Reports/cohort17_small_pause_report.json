@@ -1,0 +1,150 @@
+{
+  "timestamp": "2026-10-05T10:45:55.862952+00:00",
+  "monument_id": "1899_dolnytsky_typikon",
+  "cohort": 17,
+  "target_file": "1899_dolnytsky_typikon_cohort17.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1899_dolnytsky_typikon_cohort17.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1899_dolnytsky_typikon_cohort17.md",
+      "footnotes_file": "1899_dolnytsky_typikon_cohort17_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 16,
+      "definition_markers_count": 16,
+      "text_markers": [
+        "[^429]",
+        "[^430]",
+        "[^431]",
+        "[^432]",
+        "[^433]",
+        "[^434]",
+        "[^435]",
+        "[^436]",
+        "[^437]",
+        "[^438]",
+        "[^439]",
+        "[^440]",
+        "[^441]",
+        "[^442]",
+        "[^443]",
+        "[^444]"
+      ],
+      "definition_markers": [
+        "[^429]",
+        "[^430]",
+        "[^431]",
+        "[^432]",
+        "[^433]",
+        "[^434]",
+        "[^435]",
+        "[^436]",
+        "[^437]",
+        "[^438]",
+        "[^439]",
+        "[^440]",
+        "[^441]",
+        "[^442]",
+        "[^443]",
+        "[^444]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1899_dolnytsky_typikon_cohort17.md",
+      "passed": true,
+      "paragraphs": 287,
+      "headings_count": 73,
+      "headings": [
+        {
+          "line": 5,
+          "level": 3,
+          "title": "3. Holy Great-Martyr George on Thomas Sunday"
+        },
+        {
+          "line": 8,
+          "level": 4,
+          "title": "At Small Vespers"
+        },
+        {
+          "line": 12,
+          "level": 4,
+          "title": "At Great Vespers"
+        },
+        {
+          "line": 20,
+          "level": 4,
+          "title": "At Great Matins"
+        },
+        {
+          "line": 33,
+          "level": 4,
+          "title": "At the Hours"
+        },
+        {
+          "line": 36,
+          "level": 4,
+          "title": "At the Divine Liturgy"
+        },
+        {
+          "line": 42,
+          "level": 3,
+          "title": "4. Holy Great-Martyr George on the Sunday of the Myrrh-bearers, of the Paralytic, and of the Samaritan Woman"
+        },
+        {
+          "line": 45,
+          "level": 4,
+          "title": "At Small Vespers"
+        },
+        {
+          "line": 54,
+          "level": 4,
+          "title": "At Great Vespers"
+        },
+        {
+          "line": 62,
+          "level": 4,
+          "title": "At Great Matins"
+        },
+        {
+          "line": 75,
+          "level": 4,
+          "title": "At the Hours"
+        },
+        {
+          "line": 78,
+          "level": 4,
+          "title": "At the Divine Liturgy"
+        },
+        {
+          "line": 86,
+          "level": 3,
+          "title": "5. Holy Great-Martyr George on Mid-Pentecost Wednesday"
+        },
+        {
+          "line": 88,
+          "level": 4,
+          "title": "At Small Vespers"
+        },
+        {
+          "line": 91,
+          "level": 4,
+          "title": "At Great Vespers"
+        }
+      ],
+      "numbered_items_count": 121,
+      "number_breaks": [],
+      "anomalies": []
+    }
+  }
+}

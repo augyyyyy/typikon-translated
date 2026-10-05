@@ -1,0 +1,236 @@
+{
+  "timestamp": "2026-10-05T03:18:19.329657+00:00",
+  "monument_id": "1899_dolnytsky_typikon",
+  "cohort": 5,
+  "target_file": "1899_dolnytsky_typikon_cohort5.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1899_dolnytsky_typikon_cohort5.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1899_dolnytsky_typikon_cohort5.md",
+      "footnotes_file": "1899_dolnytsky_typikon_cohort5_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 59,
+      "definition_markers_count": 59,
+      "text_markers": [
+        "[^128]",
+        "[^129]",
+        "[^130]",
+        "[^131]",
+        "[^132]",
+        "[^133]",
+        "[^134]",
+        "[^135]",
+        "[^136]",
+        "[^137]",
+        "[^138]",
+        "[^139]",
+        "[^140]",
+        "[^141]",
+        "[^142]",
+        "[^143]",
+        "[^144]",
+        "[^145]",
+        "[^146]",
+        "[^147]",
+        "[^148]",
+        "[^149]",
+        "[^150]",
+        "[^151]",
+        "[^152]",
+        "[^153]",
+        "[^154]",
+        "[^155]",
+        "[^156]",
+        "[^157]",
+        "[^158]",
+        "[^159]",
+        "[^160]",
+        "[^161]",
+        "[^162]",
+        "[^163]",
+        "[^164]",
+        "[^165]",
+        "[^166]",
+        "[^167]",
+        "[^168]",
+        "[^169]",
+        "[^170]",
+        "[^171]",
+        "[^172]",
+        "[^173]",
+        "[^174]",
+        "[^175]",
+        "[^176]",
+        "[^177]",
+        "[^178]",
+        "[^179]",
+        "[^180]",
+        "[^181]",
+        "[^182]",
+        "[^183]",
+        "[^184]",
+        "[^185]",
+        "[^186]"
+      ],
+      "definition_markers": [
+        "[^128]",
+        "[^129]",
+        "[^130]",
+        "[^131]",
+        "[^132]",
+        "[^133]",
+        "[^134]",
+        "[^135]",
+        "[^136]",
+        "[^137]",
+        "[^138]",
+        "[^139]",
+        "[^140]",
+        "[^141]",
+        "[^142]",
+        "[^143]",
+        "[^144]",
+        "[^145]",
+        "[^146]",
+        "[^147]",
+        "[^148]",
+        "[^149]",
+        "[^150]",
+        "[^151]",
+        "[^152]",
+        "[^153]",
+        "[^154]",
+        "[^155]",
+        "[^156]",
+        "[^157]",
+        "[^158]",
+        "[^159]",
+        "[^160]",
+        "[^161]",
+        "[^162]",
+        "[^163]",
+        "[^164]",
+        "[^165]",
+        "[^166]",
+        "[^167]",
+        "[^168]",
+        "[^169]",
+        "[^170]",
+        "[^171]",
+        "[^172]",
+        "[^173]",
+        "[^174]",
+        "[^175]",
+        "[^176]",
+        "[^177]",
+        "[^178]",
+        "[^179]",
+        "[^180]",
+        "[^181]",
+        "[^182]",
+        "[^183]",
+        "[^184]",
+        "[^185]",
+        "[^186]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1899_dolnytsky_typikon_cohort5.md",
+      "passed": true,
+      "paragraphs": 201,
+      "headings_count": 39,
+      "headings": [
+        {
+          "line": 10,
+          "level": 4,
+          "title": "At the Hours"
+        },
+        {
+          "line": 17,
+          "level": 4,
+          "title": "At the Divine Liturgy"
+        },
+        {
+          "line": 21,
+          "level": 3,
+          "title": "Polyeleos Saint on Weekdays and on Saturday"
+        },
+        {
+          "line": 25,
+          "level": 4,
+          "title": "At Great Vespers"
+        },
+        {
+          "line": 38,
+          "level": 4,
+          "title": "At Compline"
+        },
+        {
+          "line": 41,
+          "level": 4,
+          "title": "At Great Matins"
+        },
+        {
+          "line": 63,
+          "level": 4,
+          "title": "At the Hours"
+        },
+        {
+          "line": 66,
+          "level": 4,
+          "title": "At the Divine Liturgy"
+        },
+        {
+          "line": 69,
+          "level": 3,
+          "title": "Vigil Saint on Sunday"
+        },
+        {
+          "line": 71,
+          "level": 4,
+          "title": "At Small Vespers"
+        },
+        {
+          "line": 82,
+          "level": 4,
+          "title": "At Great Vespers"
+        },
+        {
+          "line": 94,
+          "level": 4,
+          "title": "At Great Matins"
+        },
+        {
+          "line": 108,
+          "level": 3,
+          "title": "Vigil Saint on Weekdays and on Saturday"
+        },
+        {
+          "line": 110,
+          "level": 4,
+          "title": "At Small Vespers"
+        },
+        {
+          "line": 118,
+          "level": 4,
+          "title": "At Great Vespers"
+        }
+      ],
+      "numbered_items_count": 77,
+      "number_breaks": [],
+      "anomalies": []
+    }
+  }
+}

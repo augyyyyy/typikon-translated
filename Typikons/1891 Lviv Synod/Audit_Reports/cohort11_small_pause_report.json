@@ -1,0 +1,97 @@
+{
+  "timestamp": "2026-10-04T21:24:48.389489+00:00",
+  "monument_id": "1891_lviv_synod",
+  "cohort": 11,
+  "target_file": "1891_synod_cohort11.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1891_synod_cohort11.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1891_synod_cohort11.md",
+      "footnotes_file": "1891_lviv_synod_cohort11_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 7,
+      "definition_markers_count": 7,
+      "text_markers": [
+        "[^179]",
+        "[^180]",
+        "[^181]",
+        "[^182]",
+        "[^183]",
+        "[^184]",
+        "[^185]"
+      ],
+      "definition_markers": [
+        "[^179]",
+        "[^180]",
+        "[^181]",
+        "[^182]",
+        "[^183]",
+        "[^184]",
+        "[^185]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1891_synod_cohort11.md",
+      "passed": true,
+      "paragraphs": 200,
+      "headings_count": 8,
+      "headings": [
+        {
+          "line": 1,
+          "level": 1,
+          "title": "Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)"
+        },
+        {
+          "line": 2,
+          "level": 2,
+          "title": "Tier 1 (The Calibration Anchor) — Cohort 11: Physical Pages 161–180 (Leaves p161–p180 / Book pp. 157–176)"
+        },
+        {
+          "line": 38,
+          "level": 2,
+          "title": "Table of Contents"
+        },
+        {
+          "line": 47,
+          "level": 2,
+          "title": "1. Titulus V: On the Holy Liturgy (Continued)"
+        },
+        {
+          "line": 49,
+          "level": 3,
+          "title": "Model Text, Order, and Manner of Celebrating the Divine Liturgy"
+        },
+        {
+          "line": 122,
+          "level": 3,
+          "title": "The Order of the Divine Liturgy: Enarxis and Liturgy of the Word"
+        },
+        {
+          "line": 241,
+          "level": 3,
+          "title": "The Liturgy of the Faithful, Great Entrance, and the Eucharistic Anaphora"
+        },
+        {
+          "line": 323,
+          "level": 2,
+          "title": "2. Scholarly Critical Apparatus & Footnotes"
+        }
+      ],
+      "numbered_items_count": 2,
+      "number_breaks": [],
+      "anomalies": []
+    }
+  }
+}

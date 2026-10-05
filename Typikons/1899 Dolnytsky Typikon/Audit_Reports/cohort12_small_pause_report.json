@@ -1,0 +1,160 @@
+{
+  "timestamp": "2026-10-05T07:02:06.896831+00:00",
+  "monument_id": "1899_dolnytsky_typikon",
+  "cohort": 12,
+  "target_file": "1899_dolnytsky_typikon_cohort12_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1899_dolnytsky_typikon_cohort12_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1899_dolnytsky_typikon_cohort12_raw_draft.md",
+      "footnotes_file": "1899_dolnytsky_typikon_cohort12_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 21,
+      "definition_markers_count": 21,
+      "text_markers": [
+        "[^351]",
+        "[^352]",
+        "[^353]",
+        "[^354]",
+        "[^355]",
+        "[^356]",
+        "[^357]",
+        "[^358]",
+        "[^359]",
+        "[^360]",
+        "[^361]",
+        "[^362]",
+        "[^363]",
+        "[^364]",
+        "[^365]",
+        "[^366]",
+        "[^367]",
+        "[^368]",
+        "[^369]",
+        "[^370]",
+        "[^371]"
+      ],
+      "definition_markers": [
+        "[^351]",
+        "[^352]",
+        "[^353]",
+        "[^354]",
+        "[^355]",
+        "[^356]",
+        "[^357]",
+        "[^358]",
+        "[^359]",
+        "[^360]",
+        "[^361]",
+        "[^362]",
+        "[^363]",
+        "[^364]",
+        "[^365]",
+        "[^366]",
+        "[^367]",
+        "[^368]",
+        "[^369]",
+        "[^370]",
+        "[^371]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1899_dolnytsky_typikon_cohort12_raw_draft.md",
+      "passed": true,
+      "paragraphs": 225,
+      "headings_count": 55,
+      "headings": [
+        {
+          "line": 7,
+          "level": 3,
+          "title": "The Eve of Theophany"
+        },
+        {
+          "line": 12,
+          "level": 3,
+          "title": "January 6: Holy Theophany"
+        },
+        {
+          "line": 15,
+          "level": 3,
+          "title": "The Order of the Great Blessing of Water"
+        },
+        {
+          "line": 16,
+          "level": 4,
+          "title": "Typikon"
+        },
+        {
+          "line": 53,
+          "level": 4,
+          "title": "At the All-Night Vigil, at the Hours, and at the Divine Liturgy"
+        },
+        {
+          "line": 56,
+          "level": 3,
+          "title": "January 7: Synaxis of the Holy Prophet, Forerunner and Baptist John"
+        },
+        {
+          "line": 59,
+          "level": 3,
+          "title": "1. Synaxis of the Forerunner on Weekdays"
+        },
+        {
+          "line": 60,
+          "level": 4,
+          "title": "At Vespers"
+        },
+        {
+          "line": 72,
+          "level": 4,
+          "title": "At Compline"
+        },
+        {
+          "line": 76,
+          "level": 4,
+          "title": "At Midnight Office"
+        },
+        {
+          "line": 79,
+          "level": 4,
+          "title": "At Matins"
+        },
+        {
+          "line": 92,
+          "level": 4,
+          "title": "At the Hours"
+        },
+        {
+          "line": 95,
+          "level": 4,
+          "title": "At the Divine Liturgy"
+        },
+        {
+          "line": 102,
+          "level": 3,
+          "title": "2. Synaxis of the Forerunner on Sunday"
+        },
+        {
+          "line": 103,
+          "level": 4,
+          "title": "At Great Vespers"
+        }
+      ],
+      "numbered_items_count": 73,
+      "number_breaks": [],
+      "anomalies": []
+    }
+  }
+}

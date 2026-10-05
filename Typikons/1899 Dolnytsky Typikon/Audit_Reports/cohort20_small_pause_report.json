@@ -1,0 +1,182 @@
+{
+  "timestamp": "2026-10-05T12:38:39.069486+00:00",
+  "monument_id": "1899_dolnytsky_typikon",
+  "cohort": 20,
+  "target_file": "1899_dolnytsky_typikon_cohort20_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1899_dolnytsky_typikon_cohort20_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1899_dolnytsky_typikon_cohort20_raw_draft.md",
+      "footnotes_file": "1899_dolnytsky_typikon_cohort20_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 32,
+      "definition_markers_count": 32,
+      "text_markers": [
+        "[^510]",
+        "[^511]",
+        "[^512]",
+        "[^513]",
+        "[^514]",
+        "[^515]",
+        "[^516]",
+        "[^517]",
+        "[^518]",
+        "[^519]",
+        "[^520]",
+        "[^521]",
+        "[^522]",
+        "[^523]",
+        "[^524]",
+        "[^525]",
+        "[^526]",
+        "[^527]",
+        "[^528]",
+        "[^529]",
+        "[^530]",
+        "[^531]",
+        "[^532]",
+        "[^533]",
+        "[^534]",
+        "[^535]",
+        "[^536]",
+        "[^537]",
+        "[^538]",
+        "[^539]",
+        "[^540]",
+        "[^541]"
+      ],
+      "definition_markers": [
+        "[^510]",
+        "[^511]",
+        "[^512]",
+        "[^513]",
+        "[^514]",
+        "[^515]",
+        "[^516]",
+        "[^517]",
+        "[^518]",
+        "[^519]",
+        "[^520]",
+        "[^521]",
+        "[^522]",
+        "[^523]",
+        "[^524]",
+        "[^525]",
+        "[^526]",
+        "[^527]",
+        "[^528]",
+        "[^529]",
+        "[^530]",
+        "[^531]",
+        "[^532]",
+        "[^533]",
+        "[^534]",
+        "[^535]",
+        "[^536]",
+        "[^537]",
+        "[^538]",
+        "[^539]",
+        "[^540]",
+        "[^541]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1899_dolnytsky_typikon_cohort20_raw_draft.md",
+      "passed": true,
+      "paragraphs": 181,
+      "headings_count": 22,
+      "headings": [
+        {
+          "line": 7,
+          "level": 4,
+          "title": "At the Hours"
+        },
+        {
+          "line": 10,
+          "level": 4,
+          "title": "At the Divine Liturgy"
+        },
+        {
+          "line": 13,
+          "level": 3,
+          "title": "Cheesefare Sunday"
+        },
+        {
+          "line": 14,
+          "level": 4,
+          "title": "The Expulsion of Adam"
+        },
+        {
+          "line": 18,
+          "level": 3,
+          "title": "On Cheesefare Sunday, and on All Sundays of the Holy Forty Days at Vespers"
+        },
+        {
+          "line": 20,
+          "level": 4,
+          "title": "At Vespers"
+        },
+        {
+          "line": 30,
+          "level": 4,
+          "title": "At Cheesefare Sunday at Vespers"
+        },
+        {
+          "line": 48,
+          "level": 4,
+          "title": "At Compline"
+        },
+        {
+          "line": 57,
+          "level": 3,
+          "title": "The Beginning of the Great Fast"
+        },
+        {
+          "line": 61,
+          "level": 3,
+          "title": "General Typika"
+        },
+        {
+          "line": 62,
+          "level": 4,
+          "title": "For the First Five Penitential Days of All Weeks of the Great Forty Days"
+        },
+        {
+          "line": 64,
+          "level": 4,
+          "title": "At the Midnight Office"
+        },
+        {
+          "line": 71,
+          "level": 4,
+          "title": "At Matins"
+        },
+        {
+          "line": 74,
+          "level": 4,
+          "title": "Typikon"
+        },
+        {
+          "line": 139,
+          "level": 4,
+          "title": "At the Hours"
+        }
+      ],
+      "numbered_items_count": 65,
+      "number_breaks": [],
+      "anomalies": []
+    }
+  }
+}
