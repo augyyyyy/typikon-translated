@@ -1,12 +1,12 @@
 import re
 from pathlib import Path
 
-source_path = Path("Liturgical Monuments/1891 Lviv Synod/Source Text/1891_lviv_synod_cohort14_source.txt")
-fn_draft_path = Path("Liturgical Monuments/1891 Lviv Synod/Draft/1891_lviv_synod_cohort14_footnotes.txt")
-draft_path = Path("Liturgical Monuments/1891 Lviv Synod/Draft/1891_lviv_synod_cohort14_raw_draft.md")
-md_path = Path("Liturgical Monuments/1891 Lviv Synod/Final MD/1891_synod_cohort14.md")
-txt_path = Path("Liturgical Monuments/1891 Lviv Synod/Final/1891_synod_cohort14.txt")
-fn_master_path = Path("Liturgical Monuments/1891 Lviv Synod/Final/Final_footnotes.txt")
+source_path = Path("Liturgical Monuments/Monument 1 - 1891 Lviv Synod/Source Text/1891_lviv_synod_cohort14_source.txt")
+fn_draft_path = Path("Liturgical Monuments/Monument 1 - 1891 Lviv Synod/Draft/1891_lviv_synod_cohort14_footnotes.txt")
+draft_path = Path("Liturgical Monuments/Monument 1 - 1891 Lviv Synod/Draft/1891_lviv_synod_cohort14_raw_draft.md")
+md_path = Path("Liturgical Monuments/Monument 1 - 1891 Lviv Synod/Final MD/1891_synod_cohort14.md")
+txt_path = Path("Liturgical Monuments/Monument 1 - 1891 Lviv Synod/Final/1891_synod_cohort14.txt")
+fn_master_path = Path("Liturgical Monuments/Monument 1 - 1891 Lviv Synod/Final/Final_footnotes.txt")
 
 source_text = source_path.read_text(encoding="utf-8")
 fn_draft_text = fn_draft_path.read_text(encoding="utf-8")

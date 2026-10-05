@@ -2,7 +2,7 @@ from pathlib import Path
 
 handoff_content = """# Handoff Note: Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)
 **Date**: 2026-10-04  
-**Spoke**: Translation Spoke (`Projects/Translation/Liturgical Monuments/1891 Lviv Synod/`)  
+**Spoke**: Translation Spoke (`Projects/Translation/Liturgical Monuments/Monument 1 - 1891 Lviv Synod/`)  
 **Target Hub**: Typikon Coded Hub (`Projects/Typikon Coded/Data/Inbox/1891_Lviv_Provincial_Synod/`)  
 **Active Monument ID**: `1891_lviv_synod`  
 **Current Cohort Ingested**: Cohort #12 (Leaves p181–p200 / Book pp. 177–196)  

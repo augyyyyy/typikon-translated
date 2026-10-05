@@ -1,7 +1,7 @@
 # Process Autopsy PA-002: 1891 Lviv Provincial Synod (Complete Codex Edition)
 **Date**: 2026-10-04  
 **Auditor**: Senior Liturgical Systems & Tooling Infrastructure Developer Agent (Chat 2)  
-**Target Monument**: `Liturgical Monuments/1891 Lviv Synod/`  
+**Target Monument**: `Liturgical Monuments/Monument 1 - 1891 Lviv Synod/`  
 **Scope**: Physical pp. 1–270 (Leaves `p1.png` through `p278.png`, 278 physical leaves total across all 14 cohorts)  
 **Delivered Outputs**: 
 - `Final MD/1891_lviv_synod_complete.md` (877,428 bytes, ~5,600 lines)

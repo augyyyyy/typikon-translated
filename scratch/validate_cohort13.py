@@ -1,9 +1,9 @@
 import re
 from pathlib import Path
 
-md_path = Path("Liturgical Monuments/1891 Lviv Synod/Final MD/1891_synod_cohort13.md")
-txt_path = Path("Liturgical Monuments/1891 Lviv Synod/Final/1891_synod_cohort13.txt")
-fn_path = Path("Liturgical Monuments/1891 Lviv Synod/Final/Final_footnotes.txt")
+md_path = Path("Liturgical Monuments/Monument 1 - 1891 Lviv Synod/Final MD/1891_synod_cohort13.md")
+txt_path = Path("Liturgical Monuments/Monument 1 - 1891 Lviv Synod/Final/1891_synod_cohort13.txt")
+fn_path = Path("Liturgical Monuments/Monument 1 - 1891 Lviv Synod/Final/Final_footnotes.txt")
 
 md_text = md_path.read_text(encoding="utf-8")
 txt_text = txt_path.read_text(encoding="utf-8")

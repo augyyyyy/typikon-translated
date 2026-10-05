@@ -1,7 +1,7 @@
 from pathlib import Path
 
-fn_master_path = Path("Liturgical Monuments/1891 Lviv Synod/Final/Final_footnotes.txt")
-fn_draft_path = Path("Liturgical Monuments/1891 Lviv Synod/Draft/1891_lviv_synod_cohort14_footnotes.txt")
+fn_master_path = Path("Liturgical Monuments/Monument 1 - 1891 Lviv Synod/Final/Final_footnotes.txt")
+fn_draft_path = Path("Liturgical Monuments/Monument 1 - 1891 Lviv Synod/Draft/1891_lviv_synod_cohort14_footnotes.txt")
 
 draft_lines = fn_draft_path.read_text(encoding="utf-8").splitlines()
 cohort14_notes = [line for line in draft_lines if not line.startswith("#")]

@@ -843,10 +843,10 @@ It is transferred to the preceding Thursday.
 The Service of the Holy Emperors begins with Friday after the Sunday of the Paralytic (the 4th from Pascha), and ends with Thursday after the Sunday of All Saints; the Service of the Finding...
 """
 
-source_path = Path("Liturgical Monuments/1899 Dolnytsky Typikon/Source Text/1899_dolnytsky_typikon_cohort17_source.txt")
-draft_path = Path("Liturgical Monuments/1899 Dolnytsky Typikon/Draft/1899_dolnytsky_typikon_cohort17_raw_draft.md")
-final_md_path = Path("Liturgical Monuments/1899 Dolnytsky Typikon/Final MD/1899_dolnytsky_typikon_cohort17.md")
-fn_path = Path("Liturgical Monuments/1899 Dolnytsky Typikon/Draft/1899_dolnytsky_typikon_cohort17_footnotes.txt")
+source_path = Path("Liturgical Monuments/Monument 2 - 1899 Dolnytsky Typikon/Source Text/1899_dolnytsky_typikon_cohort17_source.txt")
+draft_path = Path("Liturgical Monuments/Monument 2 - 1899 Dolnytsky Typikon/Draft/1899_dolnytsky_typikon_cohort17_raw_draft.md")
+final_md_path = Path("Liturgical Monuments/Monument 2 - 1899 Dolnytsky Typikon/Final MD/1899_dolnytsky_typikon_cohort17.md")
+fn_path = Path("Liturgical Monuments/Monument 2 - 1899 Dolnytsky Typikon/Draft/1899_dolnytsky_typikon_cohort17_footnotes.txt")
 
 source_path.parent.mkdir(parents=True, exist_ok=True)
 draft_path.parent.mkdir(parents=True, exist_ok=True)
