@@ -3,9 +3,9 @@ import re
 
 def build_cohort8_txt():
     project_root = Path(__file__).resolve().parent.parent
-    md_file = project_root / "Typikons" / "1891 Lviv Synod" / "Final MD" / "1891_synod_cohort8.md"
-    fn_file = project_root / "Typikons" / "1891 Lviv Synod" / "Draft" / "1891_lviv_synod_cohort8_footnotes.txt"
-    target_txt = project_root / "Typikons" / "1891 Lviv Synod" / "Final" / "1891_synod_cohort8.txt"
+    md_file = project_root / "Liturgical Monuments" / "1891 Lviv Synod" / "Final MD" / "1891_synod_cohort8.md"
+    fn_file = project_root / "Liturgical Monuments" / "1891 Lviv Synod" / "Draft" / "1891_lviv_synod_cohort8_footnotes.txt"
+    target_txt = project_root / "Liturgical Monuments" / "1891 Lviv Synod" / "Final" / "1891_synod_cohort8.txt"
 
     with open(md_file, "r", encoding="utf-8") as f:
         md_content = f.read()

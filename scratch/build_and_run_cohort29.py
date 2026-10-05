@@ -13,7 +13,7 @@ if sys.stdout and hasattr(sys.stdout, 'reconfigure'):
     sys.stdout.reconfigure(encoding='utf-8')
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-WORKSPACE = PROJECT_ROOT / "Typikons" / "1899 Dolnytsky Typikon"
+WORKSPACE = PROJECT_ROOT / "Liturgical Monuments" / "1899 Dolnytsky Typikon"
 
 SOURCE_OUT = WORKSPACE / "Source Text" / "1899_dolnytsky_typikon_cohort29_source.txt"
 DRAFT_OUT = WORKSPACE / "Draft" / "1899_dolnytsky_typikon_cohort29_raw_draft.md"

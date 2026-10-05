@@ -6,9 +6,9 @@ if sys.stdout and hasattr(sys.stdout, 'reconfigure'):
     sys.stdout.reconfigure(encoding='utf-8')
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-SOURCE_PATH = PROJECT_ROOT / "Typikons" / "1899 Dolnytsky Typikon" / "Source Text" / "1899_dolnytsky_typikon_cohort29_source.txt"
-DRAFT_PATH = PROJECT_ROOT / "Typikons" / "1899 Dolnytsky Typikon" / "Draft" / "1899_dolnytsky_typikon_cohort29_raw_draft.md"
-FOOTNOTES_PATH = PROJECT_ROOT / "Typikons" / "1899 Dolnytsky Typikon" / "Draft" / "1899_dolnytsky_typikon_cohort29_footnotes.txt"
+SOURCE_PATH = PROJECT_ROOT / "Liturgical Monuments" / "1899 Dolnytsky Typikon" / "Source Text" / "1899_dolnytsky_typikon_cohort29_source.txt"
+DRAFT_PATH = PROJECT_ROOT / "Liturgical Monuments" / "1899 Dolnytsky Typikon" / "Draft" / "1899_dolnytsky_typikon_cohort29_raw_draft.md"
+FOOTNOTES_PATH = PROJECT_ROOT / "Liturgical Monuments" / "1899 Dolnytsky Typikon" / "Draft" / "1899_dolnytsky_typikon_cohort29_footnotes.txt"
 
 # 35 Keys of the Boundaries
 KEYS_CS = ['А', 'Б', 'В', 'Г', 'Д', 'Є', 'Ж', 'Ѕ', 'З', 'И', 'І', 'К', 'Л', 'М', 'Н', 'О', 'П', 'Р', 'С', 'Т', 'У', 'Ф', 'Х', 'Ѡ', 'Ц', 'Ч', 'Ш', 'Щ', 'Ъ', 'Ы', 'Ь', 'Ѣ', 'Ю', 'Ѫ', 'Ѧ']

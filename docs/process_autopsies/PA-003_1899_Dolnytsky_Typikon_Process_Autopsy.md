@@ -100,6 +100,6 @@ A mathematical analysis of step latency, token saturation, and failure recovery 
 
 ## 5. Universal System Directives for Monument 3 (1720 Zamoysky Synod)
 
-1. **Global Cohort Sizing Standard**: Update `Typikons/codex_registry.json` standardizing `default_cohort_size: 10` across all remaining 18 monuments.
+1. **Global Cohort Sizing Standard**: Update `Liturgical Monuments/codex_registry.json` standardizing `default_cohort_size: 10` across all remaining 18 monuments.
 2. **Autonomous Orchestrator Hard-Cap**: Enforce `cohort_size = min(mon_info.get('default_cohort_size', 10), 10)` in `scripts/autonomous_orchestrator.py`.
 3. **Table Assembly Streamlining**: Provide a standardized headless table-chunking utility in `scripts/` so subagents handling massive tables never need to improvise 14 ad-hoc builder scripts.

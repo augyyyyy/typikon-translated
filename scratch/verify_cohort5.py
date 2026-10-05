@@ -5,12 +5,12 @@ import sys
 def main():
     root = Path(__file__).resolve().parent.parent
     files = [
-        root / "Typikons" / "1891 Lviv Synod" / "Source Text" / "1891_lviv_synod_cohort5_source.txt",
-        root / "Typikons" / "1891 Lviv Synod" / "Draft" / "1891_lviv_synod_cohort5_raw_draft.md",
-        root / "Typikons" / "1891 Lviv Synod" / "Draft" / "1891_lviv_synod_cohort5_footnotes.txt",
-        root / "Typikons" / "1891 Lviv Synod" / "Final MD" / "1891_synod_cohort5.md",
-        root / "Typikons" / "1891 Lviv Synod" / "Final" / "1891_synod_cohort5.txt",
-        root / "Typikons" / "1891 Lviv Synod" / "Final" / "Final_footnotes.txt"
+        root / "Liturgical Monuments" / "1891 Lviv Synod" / "Source Text" / "1891_lviv_synod_cohort5_source.txt",
+        root / "Liturgical Monuments" / "1891 Lviv Synod" / "Draft" / "1891_lviv_synod_cohort5_raw_draft.md",
+        root / "Liturgical Monuments" / "1891 Lviv Synod" / "Draft" / "1891_lviv_synod_cohort5_footnotes.txt",
+        root / "Liturgical Monuments" / "1891 Lviv Synod" / "Final MD" / "1891_synod_cohort5.md",
+        root / "Liturgical Monuments" / "1891 Lviv Synod" / "Final" / "1891_synod_cohort5.txt",
+        root / "Liturgical Monuments" / "1891 Lviv Synod" / "Final" / "Final_footnotes.txt"
     ]
 
     all_ok = True
@@ -30,7 +30,7 @@ def main():
             print(f"  [OK] No banned phrase in {f.name}")
 
     # Footnote bijectivity verification
-    final_md = root / "Typikons" / "1891 Lviv Synod" / "Final MD" / "1891_synod_cohort5.md"
+    final_md = root / "Liturgical Monuments" / "1891 Lviv Synod" / "Final MD" / "1891_synod_cohort5.md"
     if final_md.exists():
         md_text = final_md.read_text(encoding="utf-8")
         body_markers = set(re.findall(r"\[\^(\d+)\](?!:)", md_text))
@@ -48,7 +48,7 @@ def main():
     print("\n--- Deity Pronoun Verification ---")
     trinity_lower = ["he was crucified", "who proceedeth", "whose kingdom", "for without me"]
     lower_found = []
-    for f in [root / "Typikons" / "1891 Lviv Synod" / "Final MD" / "1891_synod_cohort5.md"]:
+    for f in [root / "Liturgical Monuments" / "1891 Lviv Synod" / "Final MD" / "1891_synod_cohort5.md"]:
         text = f.read_text(encoding="utf-8")
         for pat in trinity_lower:
             m = re.findall(re.escape(pat), text, re.IGNORECASE)

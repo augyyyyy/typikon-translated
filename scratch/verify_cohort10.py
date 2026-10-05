@@ -3,7 +3,7 @@ import re
 import sys
 
 def verify_cohort10():
-    base_dir = Path(__file__).resolve().parent.parent / "Typikons" / "1891 Lviv Synod"
+    base_dir = Path(__file__).resolve().parent.parent / "Liturgical Monuments" / "1891 Lviv Synod"
     source_file = base_dir / "Source Text" / "1891_lviv_synod_cohort10_source.txt"
     draft_file = base_dir / "Draft" / "1891_lviv_synod_cohort10_raw_draft.md"
     cohort_fn_file = base_dir / "Draft" / "1891_lviv_synod_cohort10_footnotes.txt"

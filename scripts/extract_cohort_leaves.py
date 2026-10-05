@@ -34,8 +34,8 @@ except ImportError:
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = SCRIPT_DIR.parent
-REGISTRY_FILE = PROJECT_ROOT / "Typikons" / "codex_registry.json"
-STATE_FILE = PROJECT_ROOT / "Typikons" / "ACTIVE_ORCHESTRATOR_STATE.json"
+REGISTRY_FILE = PROJECT_ROOT / "Liturgical Monuments" / "codex_registry.json"
+STATE_FILE = PROJECT_ROOT / "Liturgical Monuments" / "ACTIVE_ORCHESTRATOR_STATE.json"
 
 def parse_range_from_state(state: Dict[str, Any], cohort_num: int) -> Optional[Tuple[int, int]]:
     """Extract start and end page if state defines current_cohort_range matching cohort_num."""
@@ -117,7 +117,7 @@ def extract_leaves(
 
     mon_info = monuments[monument_id]
     rel_pdf = mon_info["relative_pdf_path"]
-    workspace_dir = PROJECT_ROOT / mon_info.get("workspace_dir", f"Typikons/{monument_id}")
+    workspace_dir = PROJECT_ROOT / mon_info.get("workspace_dir", f"Liturgical Monuments/{monument_id}")
     images_dir = workspace_dir / "Source Text" / "images"
     images_dir.mkdir(parents=True, exist_ok=True)
 

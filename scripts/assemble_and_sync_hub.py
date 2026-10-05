@@ -8,7 +8,7 @@ Executes the Grand Pause post-flight integration:
   3. Re-assembles the complete codex edition (*_complete.md, *_complete.txt) in true reading order.
   4. Synchronizes deliverables to Projects/Typikon Coded/Data/Inbox/<Monument>/.
   5. Updates handoff_note.md in the Hub Inbox.
-  6. Advances orchestrator state in Typikons/ACTIVE_ORCHESTRATOR_STATE.json.
+  6. Advances orchestrator state in Liturgical Monuments/ACTIVE_ORCHESTRATOR_STATE.json.
 
 Usage:
     python scripts/assemble_and_sync_hub.py --monument 1891_lviv_synod --cohort 3
@@ -32,8 +32,8 @@ if sys.stderr and hasattr(sys.stderr, 'reconfigure'):
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = SCRIPT_DIR.parent
-REGISTRY_FILE = PROJECT_ROOT / "Typikons" / "codex_registry.json"
-STATE_FILE = PROJECT_ROOT / "Typikons" / "ACTIVE_ORCHESTRATOR_STATE.json"
+REGISTRY_FILE = PROJECT_ROOT / "Liturgical Monuments" / "codex_registry.json"
+STATE_FILE = PROJECT_ROOT / "Liturgical Monuments" / "ACTIVE_ORCHESTRATOR_STATE.json"
 
 def get_hub_inbox(monument_name: str) -> Path:
     # Ecosystem Projects root is parent of Translation
@@ -49,7 +49,7 @@ def ingest_and_sync(monument_id: str, cohort_num: int) -> int:
     if not mon_info:
         raise ValueError(f"Unknown monument ID: {monument_id}")
 
-    ws = PROJECT_ROOT / mon_info.get("workspace_dir", f"Typikons/{monument_id}")
+    ws = PROJECT_ROOT / mon_info.get("workspace_dir", f"Liturgical Monuments/{monument_id}")
     final_dir = ws / "Final"
     final_md_dir = ws / "Final MD"
     draft_dir = ws / "Draft"
@@ -172,7 +172,7 @@ def ingest_and_sync(monument_id: str, cohort_num: int) -> int:
     # 5. Write / Update handoff_note.md in Hub Inbox
     handoff_note = f"""# Handoff Note: {mon_info.get('title')}
 **Date**: {datetime.now(timezone.utc).strftime('%Y-%m-%d')}  
-**Spoke**: Translation Spoke (`Projects/Translation/Typikons/{mon_info.get('workspace_dir', monument_id)}/`)  
+**Spoke**: Translation Spoke (`Projects/Translation/Liturgical Monuments/{mon_info.get('workspace_dir', monument_id)}/`)  
 **Target Hub**: Typikon Coded Hub (`Projects/Typikon Coded/Data/Inbox/{hub_inbox.name}/`)  
 **Active Monument ID**: `{monument_id}`  
 **Current Cohort Ingested**: Cohort #{cohort_num}  

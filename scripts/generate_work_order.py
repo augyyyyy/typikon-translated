@@ -29,8 +29,8 @@ if sys.stderr and hasattr(sys.stderr, 'reconfigure'):
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = SCRIPT_DIR.parent
-REGISTRY_FILE = PROJECT_ROOT / "Typikons" / "codex_registry.json"
-STATE_FILE = PROJECT_ROOT / "Typikons" / "ACTIVE_ORCHESTRATOR_STATE.json"
+REGISTRY_FILE = PROJECT_ROOT / "Liturgical Monuments" / "codex_registry.json"
+STATE_FILE = PROJECT_ROOT / "Liturgical Monuments" / "ACTIVE_ORCHESTRATOR_STATE.json"
 
 def get_next_footnote_index(footnotes_path: Path) -> int:
     if not footnotes_path.exists():
@@ -89,7 +89,7 @@ def generate_monument_startup_directive(monument_id: Optional[str] = None) -> Pa
     cohort_size = mon_info.get("default_cohort_size", 20)
     genre_register = mon_info.get("genre_register", "rubrical")
     rel_pdf = mon_info.get("relative_pdf_path", "")
-    workspace_dir = PROJECT_ROOT / mon_info.get("workspace_dir", f"Typikons/{monument_id}")
+    workspace_dir = PROJECT_ROOT / mon_info.get("workspace_dir", f"Liturgical Monuments/{monument_id}")
     workspace_dir.mkdir(parents=True, exist_ok=True)
     (workspace_dir / "Source Text" / "images").mkdir(parents=True, exist_ok=True)
     (workspace_dir / "Draft").mkdir(parents=True, exist_ok=True)
@@ -239,7 +239,7 @@ def generate_work_order(
     total_pages = mon_info.get("total_physical_pages", 591)
     cohort_size = mon_info.get("default_cohort_size", 20)
     genre_register = mon_info.get("genre_register", "rubrical")
-    workspace_dir = PROJECT_ROOT / mon_info.get("workspace_dir", f"Typikons/{monument_id}")
+    workspace_dir = PROJECT_ROOT / mon_info.get("workspace_dir", f"Liturgical Monuments/{monument_id}")
     work_orders_dir = workspace_dir / "Work_Orders"
     work_orders_dir.mkdir(parents=True, exist_ok=True)
 

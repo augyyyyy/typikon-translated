@@ -3,12 +3,12 @@ import re
 
 def verify_cohort9():
     project_root = Path(__file__).resolve().parent.parent
-    cohort9_src = project_root / "Typikons" / "1891 Lviv Synod" / "Source Text" / "1891_lviv_synod_cohort9_source.txt"
-    cohort9_txt = project_root / "Typikons" / "1891 Lviv Synod" / "Final" / "1891_synod_cohort9.txt"
-    cohort9_md = project_root / "Typikons" / "1891 Lviv Synod" / "Final MD" / "1891_synod_cohort9.md"
-    cohort9_draft = project_root / "Typikons" / "1891 Lviv Synod" / "Draft" / "1891_lviv_synod_cohort9_raw_draft.md"
-    cohort9_fn = project_root / "Typikons" / "1891 Lviv Synod" / "Draft" / "1891_lviv_synod_cohort9_footnotes.txt"
-    master_fn = project_root / "Typikons" / "1891 Lviv Synod" / "Final" / "Final_footnotes.txt"
+    cohort9_src = project_root / "Liturgical Monuments" / "1891 Lviv Synod" / "Source Text" / "1891_lviv_synod_cohort9_source.txt"
+    cohort9_txt = project_root / "Liturgical Monuments" / "1891 Lviv Synod" / "Final" / "1891_synod_cohort9.txt"
+    cohort9_md = project_root / "Liturgical Monuments" / "1891 Lviv Synod" / "Final MD" / "1891_synod_cohort9.md"
+    cohort9_draft = project_root / "Liturgical Monuments" / "1891 Lviv Synod" / "Draft" / "1891_lviv_synod_cohort9_raw_draft.md"
+    cohort9_fn = project_root / "Liturgical Monuments" / "1891 Lviv Synod" / "Draft" / "1891_lviv_synod_cohort9_footnotes.txt"
+    master_fn = project_root / "Liturgical Monuments" / "1891 Lviv Synod" / "Final" / "Final_footnotes.txt"
 
     print("=== COHORT 9 VERIFICATION AUDIT ===")
 

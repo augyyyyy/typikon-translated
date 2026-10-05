@@ -37,7 +37,7 @@ if sys.stderr and hasattr(sys.stderr, 'reconfigure'):
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = SCRIPT_DIR.parent
-TYPIKONS_DIR = PROJECT_ROOT / "Typikons"
+TYPIKONS_DIR = PROJECT_ROOT / "Liturgical Monuments"
 REGISTRY_FILE = TYPIKONS_DIR / "codex_registry.json"
 STATE_FILE = TYPIKONS_DIR / "ACTIVE_ORCHESTRATOR_STATE.json"
 
@@ -300,7 +300,7 @@ def run_scraper(monument_id: str = "1899_dolnytsky_typikon", candidate_parent_id
     with open(REGISTRY_FILE, 'r', encoding='utf-8') as f:
         registry = json.load(f)
     mon_info = registry.get("monuments", {}).get(monument_id, {})
-    mon_dir = PROJECT_ROOT / mon_info.get("workspace_dir", f"Typikons/{monument_id}")
+    mon_dir = PROJECT_ROOT / mon_info.get("workspace_dir", f"Liturgical Monuments/{monument_id}")
 
     invocations = extract_parent_cohort_invocations(parent_path)
     print(f"[Forensic Scraper] Extracted {len(invocations)} cohort subagent invocations from parent.")
@@ -372,7 +372,7 @@ def generate_markdown_autopsy(data: Dict[str, Any]) -> str:
     md.append(f"# Process Autopsy PA-003: {data['title']} (Full Codex Process Analysis)")
     md.append(f"**Date**: {datetime.now().strftime('%Y-%m-%d')}  ")
     md.append("**Auditor**: Senior Liturgical Systems & Tooling Infrastructure Developer Agent (Chat 2)  ")
-    md.append(f"**Target Monument**: `Typikons/{data['monument_id']}/`  ")
+    md.append(f"**Target Monument**: `Liturgical Monuments/{data['monument_id']}/`  ")
     md.append(f"**Scope**: Complete monument trajectory (Cohorts 1 through {num_cohorts}, 591 physical pages)  ")
     md.append(f"**Parent Orchestrator Session**: `{data['parent_conversation_id']}`  ")
     md.append(f"**Total Subagent Steps Executed**: {agg['total_subagent_steps']:,} steps  ")
@@ -439,7 +439,7 @@ def generate_markdown_autopsy(data: Dict[str, Any]) -> str:
 
     md.append("\n---\n")
     md.append("## 5. Universal System Directives for Monument 3 (1720 Zamoysky Synod)\n")
-    md.append("1. **Global Cohort Sizing Standard**: Update `Typikons/codex_registry.json` standardizing `default_cohort_size: 10` across all remaining 18 monuments.")
+    md.append("1. **Global Cohort Sizing Standard**: Update `Liturgical Monuments/codex_registry.json` standardizing `default_cohort_size: 10` across all remaining 18 monuments.")
     md.append("2. **Autonomous Orchestrator Hard-Cap**: Enforce `cohort_size = min(mon_info.get('default_cohort_size', 10), 10)` in `scripts/autonomous_orchestrator.py`.")
     md.append("3. **Table Assembly Streamlining**: Provide a standardized headless table-chunking utility in `scripts/` so subagents handling massive tables never need to improvise 14 ad-hoc builder scripts.\n")
 
@@ -487,7 +487,7 @@ def main():
     results = run_scraper(args.monument, args.parent_id)
 
     # 1. Save Telemetry JSON
-    reports_dir = PROJECT_ROOT / "Typikons" / "1899 Dolnytsky Typikon" / "Audit_Reports"
+    reports_dir = PROJECT_ROOT / "Liturgical Monuments" / "1899 Dolnytsky Typikon" / "Audit_Reports"
     reports_dir.mkdir(parents=True, exist_ok=True)
     telemetry_path = reports_dir / "process_autopsy_telemetry.json"
     with open(telemetry_path, 'w', encoding='utf-8') as f:

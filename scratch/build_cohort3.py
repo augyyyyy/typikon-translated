@@ -7,7 +7,7 @@ import sys
 from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-MONUMENT_DIR = PROJECT_ROOT / "Typikons" / "1899 Dolnytsky Typikon"
+MONUMENT_DIR = PROJECT_ROOT / "Liturgical Monuments" / "1899 Dolnytsky Typikon"
 
 source_file = MONUMENT_DIR / "Source Text" / "1899_dolnytsky_typikon_cohort3_source.txt"
 draft_file = MONUMENT_DIR / "Draft" / "1899_dolnytsky_typikon_cohort3_raw_draft.md"

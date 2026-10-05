@@ -1,7 +1,7 @@
 import os, re
 from pathlib import Path
 
-base_dir = Path("Typikons/1891 Lviv Synod")
+base_dir = Path("Liturgical Monuments/1891 Lviv Synod")
 
 files = {
     'source': base_dir / 'Source Text' / '1891_lviv_synod_cohort7_source.txt',

@@ -7,9 +7,9 @@ if hasattr(sys.stdout, 'reconfigure'):
 
 def main():
     root = Path(__file__).resolve().parent.parent
-    final_md_dir = root / "Typikons" / "1891 Lviv Synod" / "Final MD"
-    final_txt_dir = root / "Typikons" / "1891 Lviv Synod" / "Final"
-    source_dir = root / "Typikons" / "1891 Lviv Synod" / "Source Text"
+    final_md_dir = root / "Liturgical Monuments" / "1891 Lviv Synod" / "Final MD"
+    final_txt_dir = root / "Liturgical Monuments" / "1891 Lviv Synod" / "Final"
+    source_dir = root / "Liturgical Monuments" / "1891 Lviv Synod" / "Source Text"
     
     inbox_synod_dir = Path(r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Inbox\1891_Lviv_Provincial_Synod")
     inbox_root = Path(r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Inbox")

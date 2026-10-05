@@ -34,8 +34,8 @@ if sys.stderr and hasattr(sys.stderr, 'reconfigure'):
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = SCRIPT_DIR.parent
-REGISTRY_FILE = PROJECT_ROOT / "Typikons" / "codex_registry.json"
-STATE_FILE = PROJECT_ROOT / "Typikons" / "ACTIVE_ORCHESTRATOR_STATE.json"
+REGISTRY_FILE = PROJECT_ROOT / "Liturgical Monuments" / "codex_registry.json"
+STATE_FILE = PROJECT_ROOT / "Liturgical Monuments" / "ACTIVE_ORCHESTRATOR_STATE.json"
 TRIAGE_INBOX = PROJECT_ROOT / "scratch" / "triage_inbox.jsonl"
 SHARED_LEXICON_DIR = PROJECT_ROOT.parent / "Shared_Lexicon"
 
@@ -66,7 +66,7 @@ def run_gate(monument_id: str, cohort_num: int) -> int:
     if not mon_info:
         raise ValueError(f"Unknown monument ID: {monument_id}")
 
-    ws = PROJECT_ROOT / mon_info.get("workspace_dir", f"Typikons/{monument_id}")
+    ws = PROJECT_ROOT / mon_info.get("workspace_dir", f"Liturgical Monuments/{monument_id}")
     audit_reports_dir = ws / "Audit_Reports"
     audit_reports_dir.mkdir(parents=True, exist_ok=True)
     report_file = audit_reports_dir / f"cohort{cohort_num}_small_pause_report.json"

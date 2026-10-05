@@ -1,0 +1,140 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Byzantine-Ruthenian Typikon Transmission Chain Codex Registry",
+  "version": "1.0.0",
+  "monuments": {
+    "1891_lviv_synod": {
+      "monument_id": "1891_lviv_synod",
+      "title": "Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)",
+      "short_title": "1891 Lviv Provincial Synod",
+      "relative_pdf_path": "Historical Typikons/1891-1896-Chynnosty-i-Rishenia-Lviv-Provincial-Synod.pdf",
+      "total_physical_pages": 278,
+      "default_cohort_size": 10,
+      "genre_register": "juridical",
+      "workspace_dir": "Liturgical Monuments/1891 Lviv Synod",
+      "active": false
+    },
+    "1899_dolnytsky_typikon": {
+      "monument_id": "1899_dolnytsky_typikon",
+      "title": "Typik of Fr. Isidore Dolnytsky (Lviv Stauropegion, 1899)",
+      "short_title": "1899 Dolnytsky Typikon",
+      "relative_pdf_path": "Historical Typikons/1899-Typik-Dolnytsky-Church-Slavonic-Facsimile.pdf",
+      "total_physical_pages": 591,
+      "default_cohort_size": 10,
+      "genre_register": "rubrical",
+      "workspace_dir": "Liturgical Monuments/1899 Dolnytsky Typikon",
+      "active": false,
+      "status": "completed"
+    },
+    "1901_mikita_typikon": {
+      "monument_id": "1901_mikita_typikon",
+      "title": "Typikon of Alexander Mikita (Mukachevo-Uzhhorod, 1901)",
+      "short_title": "1901 Mikita Typikon",
+      "relative_pdf_path": "Historical Typikons/1901-Typikon-Alexander-Mikita-Mukachevo-Ruthenian.pdf",
+      "total_physical_pages": 320,
+      "default_cohort_size": 10,
+      "genre_register": "rubrical",
+      "workspace_dir": "Liturgical Monuments/1901 Mikita Typikon",
+      "active": true
+    },
+    "1852_doskovsky_typikon": {
+      "monument_id": "1852_doskovsky_typikon",
+      "title": "Typikon of Fr. Joseph Doskovsky (Lviv, 1852)",
+      "short_title": "1852 Doskovsky Typikon",
+      "relative_pdf_path": "Historical Typikons/1852-Typikon-Doskovsky.pdf",
+      "total_physical_pages": 141,
+      "default_cohort_size": 10,
+      "genre_register": "rubrical",
+      "workspace_dir": "Liturgical Monuments/1852 Doskovsky Typikon",
+      "active": false
+    },
+    "1888_violakis_typikon": {
+      "monument_id": "1888_violakis_typikon",
+      "title": "Typikon of the Great Church of Christ by George Violakis (1888, Bilingual)",
+      "short_title": "1888 Violakis Typikon",
+      "relative_pdf_path": "Historical Typikons/1888-Violakis-Typikon-Bilingual-Greek-English.pdf",
+      "total_physical_pages": 1170,
+      "default_cohort_size": 10,
+      "genre_register": "rubrical",
+      "workspace_dir": "Liturgical Monuments/1888 Violakis Typikon",
+      "active": false
+    },
+    "1910_skaballanovich_typikon": {
+      "monument_id": "1910_skaballanovich_typikon",
+      "title": "Tolkovy Typikon of Mikhail Skaballanovich (Kyiv, 1910–1915)",
+      "short_title": "1910 Skaballanovich Tolkovy Typikon",
+      "relative_pdf_path": "Historical Typikons/1910-1915-Skaballanovich-Tolkovy-Typikon-Complete.pdf",
+      "total_physical_pages": 1022,
+      "default_cohort_size": 10,
+      "genre_register": "scholarly_critical",
+      "workspace_dir": "Typikons/1910 Skaballanovich Typikon",
+      "active": false
+    },
+    "1895_dmitrievsky_vol1": {
+      "monument_id": "1895_dmitrievsky_vol1",
+      "title": "Opisanie Liturgicheskikh Rukopisei Vol. 1: Typika (Aleksei Dmitrievsky, Kyiv, 1895)",
+      "short_title": "1895 Dmitrievsky Opisanie Vol 1",
+      "relative_pdf_path": "Historical Typikons/1895-Dmitrievsky-Opisanie-Vol1-Typika-Part1.pdf",
+      "total_physical_pages": 1090,
+      "default_cohort_size": 10,
+      "genre_register": "scholarly_critical",
+      "workspace_dir": "Typikons/1895 Dmitrievsky Vol 1",
+      "active": false
+    },
+    "1917_dmitrievsky_vol3": {
+      "monument_id": "1917_dmitrievsky_vol3",
+      "title": "Opisanie Liturgicheskikh Rukopisei Vol. 3: Typika Part 2 (Aleksei Dmitrievsky, Petrograd, 1917)",
+      "short_title": "1917 Dmitrievsky Opisanie Vol 3",
+      "relative_pdf_path": "Historical Typikons/1917-Dmitrievsky-Opisanie-Vol3-Typika-Part2.pdf",
+      "total_physical_pages": 789,
+      "default_cohort_size": 10,
+      "genre_register": "scholarly_critical",
+      "workspace_dir": "Typikons/1917 Dmitrievsky Vol 3",
+      "active": false
+    },
+    "1720_zamoysky_fedoriv": {
+      "monument_id": "1720_zamoysky_fedoriv",
+      "title": "Acts and Decrees of the Provincial Synod of Zamość (1720, ed. Fedoriv, Rome, 1972)",
+      "short_title": "1720 Zamoysky Synod (Fedoriv)",
+      "relative_pdf_path": "Historical Typikons/1972-Fedoriv-Zamoysky-Synod-1720.pdf",
+      "total_physical_pages": 75,
+      "default_cohort_size": 10,
+      "genre_register": "juridical",
+      "workspace_dir": "Typikons/1720 Zamoysky Synod",
+      "active": false
+    },
+    "2004_galadza_sheptytsky": {
+      "monument_id": "2004_galadza_sheptytsky",
+      "title": "The Theology and Liturgical Work of Andrei Sheptytsky (Peter Galadza, Rome, 2004)",
+      "short_title": "2004 Galadza Sheptytsky",
+      "relative_pdf_path": "Historical Typikons/2004-Galadza-Theology-and-Liturgical-Work-of-Andrei-Sheptytsky.pdf",
+      "total_physical_pages": 537,
+      "default_cohort_size": 10,
+      "genre_register": "scholarly_critical",
+      "workspace_dir": "Typikons/2004 Galadza Sheptytsky",
+      "active": false
+    },
+    "great_sabbas_synodal": {
+      "monument_id": "great_sabbas_synodal",
+      "title": "Great Sabbas Synodal Typikon (Church Slavonic Moscow Synodal Edition)",
+      "short_title": "Great Sabbas Synodal Typikon",
+      "relative_pdf_path": "Historical Typikons/Great-Sabbas-Synodal-Typikon-Church-Slavonic.pdf",
+      "total_physical_pages": 816,
+      "default_cohort_size": 10,
+      "genre_register": "rubrical",
+      "workspace_dir": "Typikons/Great Sabbas Synodal",
+      "active": false
+    },
+    "2010_lviv_typikon": {
+      "monument_id": "2010_lviv_typikon",
+      "title": "Typikon of the Ukrainian Greek-Catholic Church (Lviv, 2010)",
+      "short_title": "2010 Lviv Synodal Typikon",
+      "relative_pdf_path": "2010 Lviv Typikon/Typyk UHKC(укр).pdf",
+      "total_physical_pages": 287,
+      "default_cohort_size": 10,
+      "genre_register": "rubrical",
+      "workspace_dir": "Liturgical Monuments/2010 Lviv Typikon",
+      "active": false
+    }
+  }
+}

@@ -8,7 +8,7 @@ import sys
 from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-WORKSPACE = PROJECT_ROOT / "Typikons" / "1899 Dolnytsky Typikon"
+WORKSPACE = PROJECT_ROOT / "Liturgical Monuments" / "1899 Dolnytsky Typikon"
 
 SOURCE_PATH = WORKSPACE / "Source Text" / "1899_dolnytsky_typikon_cohort27_source.txt"
 DRAFT_PATH = WORKSPACE / "Draft" / "1899_dolnytsky_typikon_cohort27_raw_draft.md"

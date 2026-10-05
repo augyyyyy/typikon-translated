@@ -24,7 +24,7 @@ if sys.stderr and hasattr(sys.stderr, 'reconfigure'):
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = SCRIPT_DIR.parent
-REGISTRY_FILE = PROJECT_ROOT / "Typikons" / "codex_registry.json"
+REGISTRY_FILE = PROJECT_ROOT / "Liturgical Monuments" / "codex_registry.json"
 
 def audit_structure(filepath: Path) -> Dict[str, Any]:
     if not filepath.exists():
@@ -97,7 +97,7 @@ def main():
         with open(REGISTRY_FILE, "r", encoding="utf-8") as f:
             registry = json.load(f)
         mon_info = registry.get("monuments", {}).get(args.monument, {})
-        ws = PROJECT_ROOT / mon_info.get("workspace_dir", f"Typikons/{args.monument}")
+        ws = PROJECT_ROOT / mon_info.get("workspace_dir", f"Liturgical Monuments/{args.monument}")
 
         final_cand = ws / "Final MD" / f"{args.monument}_cohort{args.cohort}.md"
         draft_cand = ws / "Draft" / f"{args.monument}_cohort{args.cohort}_raw_draft.md"

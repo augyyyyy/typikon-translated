@@ -1,7 +1,7 @@
 # Process Autopsy PA-001: 1891 Lviv Provincial Synod (Complete Edition)
 **Date**: 2026-10-04  
 **Auditor**: Senior Liturgical Systems & Tooling Infrastructure Developer Agent (Chat 2)  
-**Target Monument**: `Typikons/1891 Lviv Synod/`  
+**Target Monument**: `Liturgical Monuments/1891 Lviv Synod/`  
 **Scope**: Physical pp. 241–270 (Leaves `p245.png` through `p274.png`, 30 physical folio scans total)  
 **Delivered Outputs**: `1891_synod_complete.txt`, `1891_synod_complete.md`, `Final_footnotes.txt` (26 entries)  
 **Downstream Consumer**: `Typikon Coded/Data/Inbox/1891_Lviv_Synod/`  
@@ -63,12 +63,12 @@ All tooling issues observed during the bootstrap and 1891 review were resolved w
 
 ## 3. Regression Verification Evidence
 * `py scratch/search_anti_patterns.py scripts`: **0 anti-patterns found** (PASSED).
-* `py scratch/search_anti_patterns.py "Typikons/1891 Lviv Synod"`: **0 anti-patterns found** (PASSED).
-* `py ../Shared_Lexicon/lint_vocabulary.py --target "Typikons/1891 Lviv Synod/Final/1891_synod_complete.txt" --mode typikon`: **0 violations found across 1 file** (PASSED).
-* `py ../Shared_Lexicon/lint_vocabulary.py --target "Typikons/2010 Lviv Typikon/Final" --mode typikon`: **0 violations found across 10 files** (PASSED).
-* `py scripts/hieratic_pronoun_audit.py --target "Typikons/1891 Lviv Synod/Final MD/1891_synod_complete.md"`: **100% Capitalization** (PASSED).
-* `py scripts/reconcile_footnotes.py --text "Typikons/1891 Lviv Synod/Final/1891_synod_complete.txt" --footnotes "Typikons/1891 Lviv Synod/Final/Final_footnotes.txt"`: **26/26 Exact 1:1 Parity** (PASSED).
-* `py scripts/structural_audit.py --target "Typikons/1891 Lviv Synod/Final MD/1891_synod_complete.md"`: **433 paragraphs, 27 headings, 61 numbered items, unbroken sequence** (PASSED).
+* `py scratch/search_anti_patterns.py "Liturgical Monuments/1891 Lviv Synod"`: **0 anti-patterns found** (PASSED).
+* `py ../Shared_Lexicon/lint_vocabulary.py --target "Liturgical Monuments/1891 Lviv Synod/Final/1891_synod_complete.txt" --mode typikon`: **0 violations found across 1 file** (PASSED).
+* `py ../Shared_Lexicon/lint_vocabulary.py --target "Liturgical Monuments/2010 Lviv Typikon/Final" --mode typikon`: **0 violations found across 10 files** (PASSED).
+* `py scripts/hieratic_pronoun_audit.py --target "Liturgical Monuments/1891 Lviv Synod/Final MD/1891_synod_complete.md"`: **100% Capitalization** (PASSED).
+* `py scripts/reconcile_footnotes.py --text "Liturgical Monuments/1891 Lviv Synod/Final/1891_synod_complete.txt" --footnotes "Liturgical Monuments/1891 Lviv Synod/Final/Final_footnotes.txt"`: **26/26 Exact 1:1 Parity** (PASSED).
+* `py scripts/structural_audit.py --target "Liturgical Monuments/1891 Lviv Synod/Final MD/1891_synod_complete.md"`: **433 paragraphs, 27 headings, 61 numbered items, unbroken sequence** (PASSED).
 
 ---
 

@@ -58,7 +58,7 @@ To conduct an evidence-based autopsy without speculation, the developer agent in
 ### Dimension 5: Universal Hardening Patches & Regression Evidence
 * **Root-Cause Resolution**: Every issue identified must be resolved at the root level (e.g. lexicon expansion, regex fortification, DPI adjustment).
 * **The Universal Patch Mandate**: Brittle, one-off overrides are strictly forbidden. All patches must apply across all 20 monuments.
-* **Evidence Gate**: Patches must pass automated regression testing against completed golden baselines (`Typikons/2010 Lviv Typikon/Final/` and `Typikons/1891 Lviv Synod/Final/`).
+* **Evidence Gate**: Patches must pass automated regression testing against completed golden baselines (`Liturgical Monuments/2010 Lviv Typikon/Final/` and `Liturgical Monuments/1891 Lviv Synod/Final/`).
 
 ---
 

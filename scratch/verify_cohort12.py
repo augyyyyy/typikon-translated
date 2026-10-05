@@ -7,7 +7,7 @@ import re
 import sys
 
 def main() -> int:
-    base_dir = Path("Typikons/1891 Lviv Synod")
+    base_dir = Path("Liturgical Monuments/1891 Lviv Synod")
     errors = []
 
     files_to_check = {

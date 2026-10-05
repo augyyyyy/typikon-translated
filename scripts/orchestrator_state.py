@@ -3,7 +3,7 @@
 Sovereign Translation Orchestrator State Controller
 ===================================================
 Manages telemetry and atomic state transitions for Byzantine-Ruthenian
-Typikon monuments in Typikons/ACTIVE_ORCHESTRATOR_STATE.json.
+Typikon monuments in Liturgical Monuments/ACTIVE_ORCHESTRATOR_STATE.json.
 
 Usage:
     python scripts/orchestrator_state.py --status
@@ -25,8 +25,8 @@ if sys.stderr and hasattr(sys.stderr, 'reconfigure'):
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = SCRIPT_DIR.parent
-STATE_FILE = PROJECT_ROOT / "Typikons" / "ACTIVE_ORCHESTRATOR_STATE.json"
-REGISTRY_FILE = PROJECT_ROOT / "Typikons" / "codex_registry.json"
+STATE_FILE = PROJECT_ROOT / "Liturgical Monuments" / "ACTIVE_ORCHESTRATOR_STATE.json"
+REGISTRY_FILE = PROJECT_ROOT / "Liturgical Monuments" / "codex_registry.json"
 
 def load_registry() -> Dict[str, Any]:
     if not REGISTRY_FILE.exists():

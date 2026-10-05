@@ -11,9 +11,9 @@ from pathlib import Path
 
 # Paths
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-SOURCE_PATH = PROJECT_ROOT / "Typikons" / "1899 Dolnytsky Typikon" / "Source Text" / "1899_dolnytsky_typikon_cohort24_source.txt"
-DRAFT_PATH = PROJECT_ROOT / "Typikons" / "1899 Dolnytsky Typikon" / "Draft" / "1899_dolnytsky_typikon_cohort24_raw_draft.md"
-FOOTNOTES_PATH = PROJECT_ROOT / "Typikons" / "1899 Dolnytsky Typikon" / "Draft" / "1899_dolnytsky_typikon_cohort24_footnotes.txt"
+SOURCE_PATH = PROJECT_ROOT / "Liturgical Monuments" / "1899 Dolnytsky Typikon" / "Source Text" / "1899_dolnytsky_typikon_cohort24_source.txt"
+DRAFT_PATH = PROJECT_ROOT / "Liturgical Monuments" / "1899 Dolnytsky Typikon" / "Draft" / "1899_dolnytsky_typikon_cohort24_raw_draft.md"
+FOOTNOTES_PATH = PROJECT_ROOT / "Liturgical Monuments" / "1899 Dolnytsky Typikon" / "Draft" / "1899_dolnytsky_typikon_cohort24_footnotes.txt"
 
 # 1. Source Text
 SOURCE_TEXT = """=== LEAF p461 ===

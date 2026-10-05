@@ -11,9 +11,9 @@ if sys.stdout and hasattr(sys.stdout, 'reconfigure'):
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
-SOURCE_OUT = PROJECT_ROOT / "Typikons" / "1899 Dolnytsky Typikon" / "Source Text" / "1899_dolnytsky_typikon_cohort29_source.txt"
-DRAFT_OUT = PROJECT_ROOT / "Typikons" / "1899 Dolnytsky Typikon" / "Draft" / "1899_dolnytsky_typikon_cohort29_raw_draft.md"
-FOOTNOTES_OUT = PROJECT_ROOT / "Typikons" / "1899 Dolnytsky Typikon" / "Draft" / "1899_dolnytsky_typikon_cohort29_footnotes.txt"
+SOURCE_OUT = PROJECT_ROOT / "Liturgical Monuments" / "1899 Dolnytsky Typikon" / "Source Text" / "1899_dolnytsky_typikon_cohort29_source.txt"
+DRAFT_OUT = PROJECT_ROOT / "Liturgical Monuments" / "1899 Dolnytsky Typikon" / "Draft" / "1899_dolnytsky_typikon_cohort29_raw_draft.md"
+FOOTNOTES_OUT = PROJECT_ROOT / "Liturgical Monuments" / "1899 Dolnytsky Typikon" / "Draft" / "1899_dolnytsky_typikon_cohort29_footnotes.txt"
 
 # 35 Keys
 KEYS_CS = ['А', 'Б', 'В', 'Г', 'Д', 'Є', 'Ж', 'Ѕ', 'З', 'И', 'І', 'К', 'Л', 'М', 'Н', 'О', 'П', 'Р', 'С', 'Т', 'У', 'Ф', 'Х', 'Ѡ', 'Ц', 'Ч', 'Ш', 'Щ', 'Ъ', 'Ы', 'Ь', 'Ѣ', 'Ю', 'Ѫ', 'Ѧ']
