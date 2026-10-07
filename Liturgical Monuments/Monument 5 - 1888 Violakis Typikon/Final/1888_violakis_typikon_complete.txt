@@ -6,7 +6,7 @@
 > **Source Codex**: `Historical Typikons/1888-Violakis-Typikon-Bilingual-Greek-English.pdf` (1170 physical pages)  
 > **Translation Standard**: Master Translation Standard (MTS-1)  
 > **Governing Register**: RUBRICAL  
-> **Assembled Cohorts**: ['1888_violakis_typikon_cohort1.md', '1888_violakis_typikon_cohort2.md', '1888_violakis_typikon_cohort3.md', '1888_violakis_typikon_cohort4.md', '1888_violakis_typikon_cohort5.md', '1888_violakis_typikon_cohort6.md', '1888_violakis_typikon_cohort7.md', '1888_violakis_typikon_cohort8.md', '1888_violakis_typikon_cohort9.md', '1888_violakis_typikon_cohort10.md']  
+> **Assembled Cohorts**: ['1888_violakis_typikon_cohort1.md', '1888_violakis_typikon_cohort2.md', '1888_violakis_typikon_cohort3.md', '1888_violakis_typikon_cohort4.md', '1888_violakis_typikon_cohort5.md', '1888_violakis_typikon_cohort6.md', '1888_violakis_typikon_cohort7.md', '1888_violakis_typikon_cohort8.md', '1888_violakis_typikon_cohort9.md', '1888_violakis_typikon_cohort10.md', '1888_violakis_typikon_cohort11.md']  
 
 ---
 
@@ -1938,6 +1938,158 @@ Then immediately the Dismissal Troparion is chanted; at the second singing, it i
 
 ---
 
+<!-- START COHORT 1888_violakis_typikon_cohort11 -->
+
+=== LEAF p101 ===
+
+...τῶν πρώτων τεσσάρων Κυριακῶν τοῦ Τριῳδίου, μετὰ τὸ **Δόξα** τοῦ Τριῳδίου, **Καὶ νῦν** τῆς ἑορτῆς. ῎Αν ἡ τοῦ Εὐαγγελισμοῦ συμπέσῃ τῷ Σαββάτῳ τοῦ Λαζάρου, τῇ Κυριακῇ τῶν Βαΐων ἢ τῇ Μ. Πέμπτῃ, μετὰ τὸ **Δόξα** τοῦ Τριῳδίου, **Καὶ νῦν** τῆς ἑορτῆς, ἂν δὲ τῇ Κυριακῇ τοῦ Πάσχα ἢ ἄλλῃ ἡμέρᾳ τῆς Διακαινησίμου ἑβδομάδος, **Δόξα** τὸ τῆς ἑορτῆς, **Καὶ νῦν** *Ἀναστάσεως ἡμέρα*.
+
+   Θεωροῦμεν περιττὸν σημειῶσαι ὅτι ἐν μνήμαις Ἁγίων συμπιπτόντων ἄλλαις ἡμέραις πλὴν τῆς Κυριακῆς καὶ ἐκτὸς τοῦ Πεντηκοσταρίου, ἄν μὴ ὑπάρχῃ ἡ σύμπτωσις προεορτίων ἢ μεθεόρτων, **Καὶ νῦν** λέγεται εἰς τοὺς Αἴνους μετὰ τὸ **Δόξα** τοῦ Ἁγίου, Θεοτοκίον σύμφωνον τῷ ἤχῳ τοῦ Δοξαστικοῦ, ἐξ ἐκείνων, ἅτινα οὐ λέγονται ταῖς Κυριακαῖς.
+
+---
+
+## ΠΕΡΙ ΤΗΣ ΔΟΞΟΛΟΓΙΑΣ
+
+**34.** Κατὰ πᾶσαν Κυριακὴν καὶ πᾶσαν Δεσποτικὴν καὶ Θεομητορικὴν ἑορτὴν καὶ τὰς μνήμας τῶν ἑορταζομένων Ἁγίων, ἐν τῷ Ὄρθρῳ ψάλλεται ἡ λεγομένη Μεγάλη Δοξολογία εἰς ἦχον τοῦ Δοξαστικοῦ, τὰς δὲ καθημερινάς, τὰς νηστησίμους ἡμέρας καὶ τὰς πρώτας πέντε ἡμέρας τῆς Μ. ἑβδομάδος ἤτοι ἀπὸ τοῦ Ὄρθρου τῆς Μ. Δευτέρας μέχρι τοῦ τῆς Μ. Παρασκευῆς λέγεται χῦμα ἡ μικρὰ Δοξολογία *Σοὶ δόξα πρέπει*, μεθ’ ἣν ἕπεται ἡ Ἐκτενὴς καὶ τὰ Ἀπόστιχα. Ἐν ὅλῃ τῇ Διακαινησίμῳ ἑβδομάδι, ὡς καὶ ἐν τῇ Ἀποδόσει τοῦ Πάσχα Δοξολογία οὐ ψάλλεται ἀλλὰ μετὰ τὸ *Ἀναστάσεως ἡμέρα* τὸ *Χριστὸς ἀνέστη* τρὶς κατὰ τὸ σύνηθες αὐτοῦ μέλος, καὶ τοῦτο ἐπέχει τὸν τόπον τῆς Δοξολογίας καὶ τοῦ Ἀπολυτικίου.
+
+---
+
+## ΠΕΡΙ ΤΟΥ ΑΠΟΛΥΤΙΚΙΟΥ ΤΟΥ ΟΡΘΡΟΥ ΤΗΣ ΚΥΡΙΑΚΗΣ
+### ΣΗΜΕΡΟΝ ΣΩΤΗΡΙΑ
+
+**35.** Κατὰ πᾶσαν Κυριακήν, καὶ ἂν συμπέσῃ Θεομητορικὴ ἑορτή, ἢ Ἀπόδοσις Δεσποτικῆς ἢ Θεομητορικῆς ἑορτῆς, καὶ τὰς μεθεόρτους Κυριακάς, τὰς Κυριακὰς τοῦ Τριῳδίου (πλὴν τῆς τῶν Βαΐων) καὶ τὰς μετὰ τὴν τοῦ Θωμᾶ τέσσαρας Κυριακὰς τοῦ Πεντηκοσταρίου, ὡς καὶ τὸ Σάββατον τοῦ Λαζάρου μετὰ τὴν Δοξολογίαν ψάλλεται εἰς τὸν ἦχον τῆς ἡμέρας τὸ Ἀπολυτίκιον τοῦ Ὄρθρου τῆς Κυριακῆς...
+
+*(Printed Page 86)*
+
+=== LEAF p102 ===
+
+...of the first four Sundays of the Triodion, after **"Glory..."** of the Triodion, at **"Now and forever, and unto the ages of ages. Amen."** that of the Feast is chanted. If the Feast of the Annunciation coincides with the Saturday of Lazarus, Palm Sunday, or Holy Thursday, after **"Glory..."** of the Triodion, at **"Now and forever..."** that of the Feast is intoned; but if it falls on Easter Sunday [Pascha] or any other day of Bright Week, at **"Glory..."** that of the Feast is sung, and at **"Now and forever..."** **"The Day of Resurrection! Let us beam with festive joy..."** (*Ἀναστάσεως ἡμέρα*).
+
+   We deem it superfluous to note that on commemorations of Saints occurring on days other than Sunday and outside of the Pentecostarion period, if no Forefeast or Afterfeast coincides, then after **"Glory..."** of the Praises of the Saint, at **"Now and forever..."** is chanted a Theotokion in the same Tone as the Doxastikon, selected from among those Theotokia that are not chanted on Sundays [prescribed exclusively for ferias in the Horologion].[^96]
+
+---
+
+## Concerning the Doxology
+
+**34.** On every Sunday, on every Feast of the Lord and of the Theotokos, and on commemorations of celebrated Saints, the so-called Great Doxology is chanted at Matins in the Tone of the Doxastikon [of the Praises]. On ordinary weekdays, on fasting days, and on the first five days of Holy Week—that is, from Matins of Holy Monday until Matins of Holy Friday—the Small Doxology **"To Thee belongeth glory, O Lord our God, and unto Thee do we ascribe glory..."** (*Σοὶ δόξα πρέπει*) is read simply [in a speaking voice], after which follow the Litany of Fervent Supplication [Ektenia] and the Aposticha. Throughout all of Bright Week, as well as on the Apodosis of Pascha, no Doxology is chanted; but after **"The Day of Resurrection"** (*Ἀναστάσεως ἡμέρα*), the Paschal troparion **"Christ is risen from the dead, trampling down death by death, and upon those in the tombs bestowing life"** (*Χριστὸς ἀνέστη*) is chanted thrice according to its customary melody, and this takes the place of both the Doxology and the Dismissal Troparion.[^97]
+
+---
+
+## Concerning the Dismissal Troparion of Sunday Matins
+### Today is Salvation
+
+**35.** On every Sunday, even if a Feast of the Theotokos or the Apodosis of a Feast of the Lord or of the Theotokos occurs, as well as on Afterfeast Sundays, on Sundays of the Triodion (except Palm Sunday), on the four Sundays of the Pentecostarion following Thomas Sunday, and on the Saturday of Lazarus, after the Doxology, the Sunday Matins troparion **"Today salvation has come to the world; let us sing unto Him Who is risen from the grave, the Author of our life..."** (*Σήμερον σωτηρία τῷ κόσμῳ γέγονεν*) is sung in the Tone of the day. On Feasts of the Lord and of the Theotokos and on commemorations of...
+
+*(Printed Page 87)*
+
+=== LEAF p103 ===
+
+...*Σήμερον σωτηρία·* κατὰ δὲ τὰς ἐν τῷ μέσῳ τῆς ἑβδομάδος τυχούσας Θεομητορικὰς καὶ Δεσποτικὰς ἑορτὰς καὶ τὰς τῶν ἑορταζομένων Ἁγίων μνήμας ψάλλεται τὸ ἰδιαίτερον ἑκάστης ἑορτῆς Ἀπολυτίκιον, καὶ ἐν τῷ τέλει τοῦ Ὄρθρου, καθ’ ὅλην δὲ τὴν Διακαινήσιμον ἑβδομάδα καὶ τὴν Ἀπόδοσιν τοῦ Πάσχα τὸ *Χριστὸς ἀνέστη* ἀναπληροῖ καὶ τὴν Δοξολογίαν (καὶ) τὸ Ἀπολυτίκιον. Ἀπὸ τῆς Κυριακῆς τοῦ Θωμᾶ μέχρι τῆς Ἀποδόσεως τοῦ Πάσχα (ἐξαιρουμένων τῶν μεθεόρτων τῆς Μεσοπεντηκοστῆς) καὶ ἑορταζόμενος Ἅγιος ἂν τύχῃ ἐν ἄλλῃ πλὴν τῆς Κυριακῆς ἡμέρᾳ, Ἀπολυτίκιον ἐν τῷ τέλει τοῦ Ὄρθρου ψάλλεται τὸ τῆς προλαβούσης Κυριακῆς. Σημειωτέον δὲ ὅτι μέχρι τῆς Ἀποδόσεως ἑκάστης Δεσποτικῆς καὶ Θεομητορικῆς ἑορτῆς καθ’ ἑκάστην ἡμέραν ἐν τῷ τέλει τοῦ Ὄρθρου ψάλλεται τὸ τῆς ἑορτῆς Ἀπολυτίκιον, ὡς καὶ ἐν τῷ Ἑσπερινῷ καὶ τῇ Λειτουργίᾳ (§15). Ἀλλὰ τὰς καθημερινάς, ἄν μὴ προηγῆται Δεσποτικὴ καὶ Θεομητορικὴ ἑορτή, ἐν τῷ τέλει τοῦ Ὄρθρου λέγεται τὸ Θεοτοκίον τοῦ ἤχου τοῦ Ἀπολυτικίου, ὅπερ εὑρίσκεται ἐν τῷ Ὡρολογίῳ.
+
+*(Printed Page 88)*
+
+=== LEAF p104 ===
+
+...celebrated Saints occurring on a weekday, we chant the Dismissal Troparion proper to each feast; and at the end of Matins throughout all of Bright Week and on the Apodosis of Pascha, **"Christ is risen from the dead"** (*Χριστὸς ἀνέστη*) takes the place of both the Doxology and the Dismissal Troparion. From Thomas Sunday until the Apodosis of Pascha (the Afterfeast days of Mid-Pentecost excepted), even if a celebrated Saint falls on a day other than Sunday, the Dismissal Troparion chanted at the end of Matins is that of the preceding Sunday. It must be noted that until the Apodosis of each Feast of the Lord and of the Theotokos, on every day at the end of Matins the Dismissal Troparion of the Feast is chanted, as also at Vespers and at the Divine Liturgy (see §15). On ordinary ferias, however, when no Feast of the Lord or of the Theotokos takes precedence, at the end of Matins is said the Theotokion in the Tone of the Dismissal Troparion, as found in the Horologion.[^98]
+
+*(Printed Page 89)*
+
+=== LEAF p105 ===
+
+# Η ΛΕΙΤΟΥΡΓΙΑ
+
+## ΠΕΡΙ ΤΩΝ ΤΥΠΙΚΩΝ ΚΑΙ ΤΩΝ ΜΑΚΑΡΙΣΜΩΝ
+
+**36.** Κατὰ πᾶσαν Κυριακὴν ἐν τῇ Λειτουργίᾳ ψάλλονται ἀπαραιτήτως τὰ Τυπικὰ καὶ οἱ Μακαρισμοὶ μετὰ τῶν ὀκτὼ Ἀναστασίμων τῆς Ὀκτωήχου Τροπαρίων· ὅταν δὲ ἐν Κυριακῇ τύχωσι προεόρτια ἢ μεθέορτα Δεσποτικῶν καὶ Θεομητορικῶν ἑορτῶν, ἢ καὶ μνῆμαι ἑορταζομένων Ἁγίων, ψάλλονται πρὸς τοῖς τέσσαρσι τῶν Μακαρισμῶν Τροπαρίοις, καὶ δ΄ ἐκ τῆς ϛ΄ Ὠδῆς τοῦ Κανόνος τῆς τυχούσης ἑορτῆς, ἢ τοῦ τυχόντος Ἁγίου.
+
+---
+
+## ΠΕΡΙ ΤΩΝ ΑΝΤΙΦΩΝΩΝ
+
+**37.** Κατὰ πάσας τὰς Δεσποτικὰς ἑορτὰς ψάλλονται τὰ Ἀντίφωνα αὐτῶν μετὰ τῶν καταλλήλων στίχων ἐν οἱᾳδήποτε ἡμέρᾳ καὶ ἂν τύχωσιν· ἀλλ’ ἄν αἱ Ἀποδόσεις αὐτῶν τύχωσιν ἐν Κυριακῇ, δεύτερον Ἀντίφωνον ψάλλεται τὸ τῆς ἑορτῆς χαρακτηριστικὸν καὶ οὐχὶ τὸ Ἀναστάσιμον. Ὅταν δὲ τύχῃ Θεομητορικὴ ἑορτὴ ἐν Κυριακῇ ἢ καὶ Ἀπόδοσις αὐτῆς, τὸ δεύτερον Ἀντίφωνόν ἐστι τὸ Ἀναστάσιμον *Σῶσον ἡμᾶς Υἱὲ Θεοῦ ὁ ἀναστὰς ἐκ νεκρῶν·* ἀλλ’ ἄν τύχῃ ἐν ἄλλῃ ἡμέρᾳ, τὸ β΄ Ἀντίφωνόν ἐστι *Σῶσον . . . ὁ ἐν Ἁγίοις θαυμαστός,* τῇ δὲ ἑορτῇ τῆς Ὑπαπαντῆς *Ὁ ἐν ἀγκάλαις τοῦ δικαίου Συμεὼν βασταχθείς,* καὶ τῇ τοῦ Εὐαγγελισμοῦ, *Ὁ δι’ ἡμᾶς σαρκωθείς.* Τὰ Ἀντίφωνα τοῦ Πάσχα εἴθισται νῦν ἵνα ψάλλωνται ἀπαραλλάκτως καθ’ ἑκάστην ἡμέραν μέχρι τῆς Ἀποδόσεως· καίτοι τὰ ἀρχαῖα Τυπικὰ ἀπὸ τῆς Κυρ. τοῦ Ἀντιπάσχα διατάττουσιν ἔναρξιν τῶν Τυπικῶν καὶ Μακαρισμῶν, καὶ ἀντὶ Εἰσοδικοῦ ὁρίζουσι τὸ *Δεῦτε προσκυνήσωμεν . . . ὁ ἀναστὰς ἐκ νεκρῶν.* Ἐν ταῖς μνήμαις τῶν ἑορταζομένων Ἁγίων ἐν οἱᾳδήποτε ἡμέρᾳ τῆς ἑβδομάδος καὶ ἂν τύχωσιν, ἀπαραιτήτως ἐπιβάλλονται τὰ Τυπικά, καθόσον στίχους Ἀντιφώνων οἱ Ἅγιοι οὐκ ἔχουσιν. Ἐν δὲ ταῖς καθημεριναῖς Λειτουργίαις ψάλλονται τὰ Ἀντίφωνα *Ἀγαθὸν τὸ ἐξομολογεῖσθαι τῷ Κυρίῳ . . . Ταῖς πρεσβείαις τῆς Θεοτόκου . . . τὸ β΄ Ἀντίφωνον Ὁ Κύριος ἐβασίλευσεν . . .*
+
+*(Printed Page 90)*
+
+=== LEAF p106 ===
+
+# The Divine Liturgy
+
+## Concerning the Typika and the Beatitudes
+
+**36.** On every Sunday at the Divine Liturgy, the Typika [Psalms 102 and 145 LXX] and the Beatitudes [Matthew 5:3–12] are sung indispensably, together with the eight Resurrection Troparia of the Octoechos. When a Sunday is a Forefeast or Afterfeast of any Feast of the Lord or of the Theotokos, or if the commemorations of celebrated Saints fall on Sunday, four troparia from the Sixth Ode of the Canon of the coinciding Feast or Saint are chanted in addition to the four Resurrection Troparia of the Beatitudes.[^99]
+
+---
+
+## Concerning the Antiphons
+
+**37.** On all Feasts of the Lord, their proper Antiphons are chanted with their appointed verses, on whatever day these Feasts may occur. But if their Apodoses fall on a Sunday, the second Antiphon is chanted with the refrain characteristic of the Feast and not with that of the Resurrection. When a Feast of the Theotokos or its Apodosis occurs on a Sunday, the second Antiphon is that of the Resurrection: **"Save us, O Son of God, Who art risen from the dead, who sing unto Thee: Alleluia"** (*Σῶσον ἡμᾶς Υἱὲ Θεοῦ ὁ ἀναστὰς ἐκ νεκρῶν*); but if it occurs on any other day, the second Antiphon is **"Save us, O Son of God, Who art wonderful in the saints..."** (*Σῶσον ἡμᾶς... ὁ ἐν Ἁγίοις θαυμαστός*); on the Feast of the Meeting of the Lord: **"...Who wast borne in the arms of the righteous Simeon"** (*Ὁ ἐν ἀγκάλαις τοῦ δικαίου Συμεὼν βασταχθείς*); and on the Feast of the Annunciation: **"...Who wast incarnate for our sake"** (*Ὁ δι’ ἡμᾶς σαρκωθείς*). The Antiphons of Pascha are now customary to be chanted invariantly on every day until the Apodosis; although the ancient Typika prescribe the beginning of the Typika and Beatitudes from the Sunday of Antipascha [Thomas Sunday], and appoint as the Eisodikon [Entrance Hymn] **"O come, let us worship and bow down before Christ. Save us, O Son of God, Who art risen from the dead..."** (*Δεῦτε προσκυνήσωμεν... ὁ ἀναστὰς ἐκ νεκρῶν*). On commemorations of celebrated Saints, on whatever day of the week they may fall, the Typika are strictly prescribed, inasmuch as Saints have no proper psalm verses for Antiphons. At ordinary weekday Liturgies, the weekday Antiphons are chanted: the First Antiphon, Psalm 91 LXX: **"It is good to give thanks unto the Lord, and to sing praises unto Thy Name, O Most High... Through the intercessions of the Theotokos, O Savior, save us"** (*Ἀγαθὸν τὸ ἐξομολογεῖσθαι τῷ Κυρίῳ... Ταῖς πρεσβείαις τῆς Θεοτόκου...*); the Second Antiphon...
+
+*(Printed Page 91)*
+
+=== LEAF p107 ===
+
+...*Πρεσβείαις τῶν Ἁγίων σου σῶσον ἡμᾶς Κύριε,* τὸ γ΄ *Δεῦτε ἀγαλλιασώμεθα τῷ Κυρίῳ . . . Σῶσον ἡμᾶς . . . ὁ ἐν Ἁγίοις θαυμαστός,* (῎Ιδε αὐτὰ τὰ Ἀντίφωνα ἐν τῇ Ἰδιαιτέρᾳ Διατάξει τῆς καθ’ ἡμέραν Ἀκολουθίας).
+
+---
+
+## ΠΕΡΙ ΤΩΝ ΕΝ ΤΗι ΛΕΙΤΟΥΡΓΙΑι ΕΙΣΟΔΙΚΩΝ
+
+**38.** Κατὰ πᾶσαν Κυριακὴν καὶ κατὰ πᾶσαν Θεομητορικὴν ἑορτὴν εἰς τὴν Εἴσοδον ψάλλεται τὸ Εἰσοδικὸν *Δεῦτε προσκυνήσωμεν καὶ προσπέσωμεν Χριστῷ, Σῶσον ἡμᾶς Υἱὲ Θεοῦ ὁ ἀναστὰς ἐκ νεκρῶν, ψάλλοντάς σοι Ἀλληλούϊα.* Ἐξαιροῦνται αἱ δύο Θεομητορικαὶ ἑορταί, ἡ τοῦ Εὐαγγελισμοῦ καὶ ἡ τῆς Ὑπαπαντῆς, ὅταν τύχωσιν ἐν ἡμέρᾳ Κυριακῇ, διότι ψάλλονται μὲν τὰ Εἰσοδικὰ αὐτῶν, ἀλλ’ ἐν τῷ τέλει τοῦ Εἰσοδικοῦ λέγεται τὸ *Σῶσον ἡμᾶς Υἱὲ Θεοῦ μετὰ τοῦ Ὁ ἀναστὰς ἐκ νεκρῶν·* ἐπίσης καὶ ἐν ταῖς Ἀποδόσεσι12 τῶν δύο τούτων ἑορτῶν, ὅταν τύχωσιν ἐν Κυριακῇ. Δεσποτικῶν ὅμως ἑορτῶν Ἀποδόσεις ἄν τύχωσιν ἐν Κυριακῇ, λέγονται τὰ Εἰσοδικὰ αὐτῶν, ἀλλὰ πάλιν μετὰ τοῦ *Ὁ ἀναστὰς ἐκ νεκρῶν.* Τῆς ἑορτῆς τοῦ Εὐαγγελισμοῦ τυχούσης τῷ Σαββάτῳ τοῦ Λαζάρου, Εἰσοδικὸν ψάλλεται τὸ τῆς ἑορτῆς, ἀλλ’ ἐν τῷ *Σῶσον ἡμᾶς . . .* λέγεται *Ὁ ἀναστὰς ἐκ νεκρῶν·* τυχούσης τῇ Κυριακῇ τῶν Βαΐων ἢ τῇ Μ. Πέμπτῃ, Ἀντίφωνα καὶ Εἰσοδικὸν λέγονται τὰ τῆς ἑορτῆς τοῦ Εὐαγγελισμοῦ· εἰ δὲ τύχοι τῇ Κυριακῇ τοῦ Πάσχα καὶ ταῖς ἑξῆς τρισὶν ἡμέραις τῆς Διακαινησίμου, Ἀντίφωνα λέγονται τὰ τοῦ Πάσχα, καὶ Εἰσοδικὸν τῆς ἑορτῆς, ἀλλ’ ἐν τῷ *Σῶσον ἡμᾶς* λέγεται *Ὁ ἀναστὰς ἐκ νεκρῶν,* Ἐν ταῖς μνήμαις τῶν ἑορταζομένων Ἁγίων ὡς καὶ καθ’ ὁποιανδήποτε ἄλλην πλὴν τῆς Κυριακῆς ἡμέραν ἄν τελῆται λειτουργία, Εἰσοδικὸν ψάλλεται τὸ *Δεῦτε προσκυνήσωμεν καὶ προσπέσωμεν Χριστῷ, Σῶσον ἡμᾶς Υἱὲ Θεοῦ, ὁ ἐν Ἁγίοις θαυμαστὸς* κτλ.
+
+---
+
+12. Καίτοι, ὡς γνωστόν, ἡ ἑορτὴ τοῦ Εὐαγγελισμοῦ Ἀπόδοσιν κυρίως εἰπεῖν οὐκ ἔχει· ἄν ὅμως συμπέσῃ ἡ κυρία τῆς ἑορτῆς ἡμέρα ἐν Παρασκευῇ ἢ Σαββάτῳ παρατείνεται ἡ Ἀπόδοσις καὶ τὴν ἐπιοῦσαν, ὡς φαίνεται ἐν ταῖς περιπτώσεσι τῆς ἑορτῆς τοῦ Εὐαγγελισμοῦ.
+
+*(Printed Page 92)*
+
+=== LEAF p108 ===
+
+...Psalm 92 LXX: **"The Lord reigneth, He is clothed with majesty... Through the intercessions of Thy Saints, O Lord, save us"** (*Ὁ Κύριος ἐβασίλευσεν... Πρεσβείαις τῶν Ἁγίων σου σῶσον ἡμᾶς, Κύριε*); and the Third Antiphon, Psalm 94 LXX: **"Come, let us rejoice in the Lord, let us shout with jubilation unto God our Savior... Save us, O Son of God, Who art wonderful in the saints, who sing unto Thee: Alleluia"** (*Δεῦτε ἀγαλλιασώμεθα τῷ Κυρίῳ... Σῶσον ἡμᾶς... ὁ ἐν Ἁγίοις θαυμαστός*). (For the precise form and rubrical order of these Antiphons, see the Particular Order of the Daily Office, p. 46, §2).[^100]
+
+---
+
+## Concerning the Entrance Hymns [Eisodika] in the Liturgy
+
+**38.** On every Sunday and on every Feast of the Theotokos, at the Little Entrance is chanted the Eisodikon [Entrance Hymn]: **"O come, let us worship and bow down before Christ. Save us, O Son of God, Who art risen from the dead, who sing unto Thee: Alleluia"** (*Δεῦτε προσκυνήσωμεν καὶ προσπέσωμεν Χριστῷ, Σῶσον ἡμᾶς Υἱὲ Θεοῦ ὁ ἀναστὰς ἐκ νεκρῶν, ψάλλοντάς σοι Ἀλληλούϊα*). Excepted are the two Feasts of the Theotokos—the Annunciation and the Meeting of the Lord—when they occur on a Sunday, because their proper festal Eisodika are chanted, but at the conclusion of each Eisodikon we say: **"Save us, O Son of God,"** with the refrain **"Who art risen from the dead"**; likewise also on the Apodoses¹² of these two feasts when they occur on a Sunday. When the Apodoses of Feasts of the Lord occur on a Sunday, their festal Eisodika are chanted, but likewise with the refrain **"Who art risen from the dead."** If the Feast of the Annunciation falls on the Saturday of Lazarus, the festal Eisodikon is chanted, but at **"Save us, O Son of God..."** we say **"Who art risen from the dead"**; if it occurs on Palm Sunday or Holy Thursday, the Antiphons and the Eisodikon are those of the Feast of the Annunciation; if it occurs on Easter Sunday [Pascha] and the next three days of Bright Week, the Antiphons are those of Pascha, and the Eisodikon that of the Feast, but at **"Save us"** we say **"Who art risen from the dead."** On commemorations of celebrated Saints, as well as on any day other than Sunday whenever a Liturgy is celebrated, the Eisodikon chanted is: **"O come, let us worship and bow down before Christ. Save us, O Son of God, Who art wonderful in the saints, who sing unto Thee: Alleluia"** (*Δεῦτε προσκυνήσωμεν καὶ προσπέσωμεν Χριστῷ, Σῶσον ἡμᾶς Υἱὲ Θεοῦ, ὁ ἐν Ἁγίοις θαυμαστὸς κτλ.*).
+
+---
+
+12. As is known, the Feast of the Annunciation does not have, strictly speaking, an Apodosis; if, however, the day of this Feast falls on Friday or Saturday, the Apodosis is extended also to the next day, as is apparent in the rubrical cases of the Feast of the Annunciation.
+
+*(Printed Page 93)*
+
+=== LEAF p109 ===
+
+...Σημειωτέον δὲ ὅτι, ἀπὸ τῆς Κυριακῆς τοῦ Πάσχα μέχρι τῆς Ἀποδόσεως, εἴθισται νῦν, οὐχὶ τόσῳ ἀκριβῶς, ψάλλεσθαι τὸ Εἰσοδικὸν *Ἐν ἐκκλησίαις εὐλογεῖτε τὸν Θεόν . . . Σῶσον ἡμᾶς Υἱὲ Θεοῦ ὁ ἀναστὰς ἐκ νεκρῶν* κτλ. Ὡσαύτως καὶ ἐν πάσαις ταῖς μεθεόρτοις ἡμέραις τῶν Δεσποτικῶν ἑορτῶν (ἐξαιρουμένης τῆς ἐν τῷ μεταξὺ τούτων συμπιπτούσης Κυριακῆς) μέχρι τῆς Ἀποδόσεως καθ’ ἑκάστην Λειτουργίαν λέγονται μὲν τὰ Ἀντίφωνα, οὐχὶ δὲ καὶ τὰ Εἰσοδικὰ τῶν ἑορτῶν, ἀλλὰ τὸ *Δεῦτε προσκυνήσωμεν* μετὰ τοῦ χαρακτηριστικοῦ τῆς ἑορτῆς.
+
+---
+
+## ΠΕΡΙ ΤΩΝ ΜΕΤΑ ΤΗΝ ΕΙΣΟΔΟΝ ΑΠΟΛΥΤΙΚΙΩΝ
+
+**39.** Ἐν ταῖς Κυριακαῖς μετὰ τὴν Εἴσοδον ψάλλεται τὸ ἀναστάσιμον τοῦ ἤχου Ἀπολυτίκιον, ὃ καὶ προηγεῖται πάντοτε τῶν Ἀπολυτικίων τῶν ἐν ἡμέρᾳ Κυριακῇ συμπιπτουσῶν Θεομητορικῶν ἑορτῶν, ὡς καὶ τῶν Ἀπολυτικίων τῶν Δεσποτικῶν ἑορτῶν, ὅταν αἱ Ἀποδόσεις αὐτῶν συμπίπτωσιν ἐν ἡμέρᾳ Κυριακῇ. Ἐν μεθεόρτῳ Κυριακῇ ὡς καὶ ἐν Ἀποδόσει Δεσποτικῆς ἢ Θεομητορικῆς ἑορτῆς, ἄν συμπέσῃ μνήμη Ἁγίου ἑορταζομένου, πρῶτον ψάλλεται τὸ ἀναστάσιμον Ἀπολυτίκιον, δεύτερον τὸ τῆς τυχούσης ἑορτῆς, τρίτον τὸ τοῦ ἑορταζομένου Ἁγίου καὶ ἀκολούθως τὸ τοῦ Ἁγίου τοῦ Ναοῦ. Ὡσαύτως ὅταν ἐν ἡμέραις μεθεόρτοις συμπίπτῃ Ἁγίου ἑορταζομένου μνήμη, πρῶτον ψάλλεται τὸ τῆς ἑορτῆς Ἀπολυτίκιον, εἶτα τὸ τοῦ Ἁγίου καὶ ἀκολούθως τὸ τοῦ Ἁγίου τοῦ Ναοῦ. Καὶ ὅταν ἐντὸς τῶν ἡμερῶν τῆς ἑβδομάδος ἀπὸ τῆς Κυριακῆς τοῦ Θωμᾶ μέχρι τῆς Ἀναλήψεως τύχωσιν Ἁγίων ἑορταζομένων μνῆμαι, πρῶτον ψάλλεται τὸ τῆς προλαβούσης Κυριακῆς Ἀπολυτίκιον, εἶτα τὸ τοῦ ἑορταζομένου Ἁγίου, καὶ ἀκολούθως τὸ τοῦ Ἁγίου τοῦ Ναοῦ. Ἐν ταῖς καθημεριναῖς μεθεόρτοις Δεσποτικῆς ἢ Θεομητορικῆς ἑορτῆς (καθ’ ἃς δηλονότι οὐ συμπίπτει ἑορταζόμενος Ἅγιος) μέχρι τῆς Ἀποδόσεως, μετὰ τὴν Εἴσοδον ψάλλεται τὸ Ἀπολυτίκιον μόνον τῆς ἑορτῆς, καὶ τὸ τοῦ Ἁγίου τοῦ Ναοῦ. Εἰ δὲ τύχοι ὁ Ἅγιος τῆς ἡμέρας ἐκ τῶν Μεγαλομαρτύρων, κἂν μὴ ἑορτάζηται ἐπισήμως ὑπὸ τῆς ἐκκλησίας, οὐδόλως παραλείπεται τὸ Ἀπολυτίκιον αὐτοῦ μετὰ τὸ τῆς τυχούσης ἑορτῆς καὶ ἕπεται ὕστερον τὸ τοῦ Ἁγίου τοῦ Ναοῦ.
+
+   Σημειωτέον ὅτι μνημοσύνου τελουμένου ἐν Κυριακῇ, λέγεται πρὸ τοῦ Ἀπολυτικίου τοῦ Ἁγίου τοῦ Ναοῦ, τὸ τῶν κεκοιμημένων *Μνήσθητι Κύριε ὡς ἀγαθός . . . .*
+
+*(Printed Page 94)*
+
+=== LEAF p110 ===
+
+...It must be noted that from Easter Sunday [Pascha] until the Apodosis, it has now become customary—though not strictly accurate—to chant the Paschal Eisodikon: **"In the congregations bless ye God, the Lord from the springs of Israel. Save us, O Son of God, Who art risen from the dead, who sing unto Thee: Alleluia"** (*Ἐν ἐκκλησίαις εὐλογεῖτε τὸν Θεόν...*). Likewise, on all Afterfeast days of a Feast of the Lord (except for any intervening Sunday) until its Apodosis, at every Divine Liturgy the Antiphons are indeed said, but not the festal Eisodika; rather, **"O come, let us worship"** is chanted with the refrain characteristic of that Feast.[^101]
+
+---
+
+## Concerning the Dismissal Troparia after the Entrance
+
+**39.** On Sundays, after the Little Entrance, the Resurrection Troparion of the Tone is chanted, which always precedes the Dismissal Troparia of Feasts of the Theotokos occurring on Sunday, as well as the Dismissal Troparia of Feasts of the Lord when their Apodoses fall on a Sunday. On an Afterfeast Sunday, as well as on the Apodosis of a Feast of the Lord or of the Theotokos, if the commemoration of a celebrated Saint coincides: first the Resurrection Troparion is chanted, second that of the coinciding Feast, third that of the celebrated Saint, and subsequently that of the Patron Saint of the Church [Temple]. Likewise, when the commemoration of a celebrated Saint coincides on Afterfeast days: first the Dismissal Troparion of the Feast is chanted, then that of the Saint, and subsequently that of the Patron Saint of the Church. And when commemorations of celebrated Saints occur on weekdays from Thomas Sunday until Ascension: first is chanted the Dismissal Troparion of the preceding Sunday, then that of the celebrated Saint, and subsequently that of the Patron Saint of the Church. On ordinary ferias during Afterfeasts of a Feast of the Lord or of the Theotokos (that is, days upon which no celebrated Saint falls) until the Apodosis, after the Entrance only the Dismissal Troparion of the Feast and that of the Patron Saint of the Church are chanted. If, however, the Saint of the day is one of the Great Martyrs, even if he is not officially celebrated by the Church with a full festal office, his Dismissal Troparion is by no means omitted after that of the coinciding Feast, and that of the Patron Saint of the Church follows thereafter.
+
+   It must be noted that when a Memorial Service [Panakhida] is celebrated on a Sunday, before the Dismissal Troparion of the Patron Saint of the Church we chant the Troparion for the departed: **"Remember, O Lord, as Thou art good, Thy servants, and forgive whatsoever sins they have committed in this life..."** (*Μνήσθητι, Κύριε, ὡς ἀγαθός, τῶν δούλων σου...*).[^102]
+
+*(Printed Page 95)*
+
+<!-- END COHORT 1888_violakis_typikon_cohort11 -->
+
+---
+
 ## Scholarly Critical Apparatus & Footnotes
 
 ## Cohort 1 Footnotes
@@ -2158,3 +2310,20 @@ Then immediately the Dismissal Troparion is chanted; at the second singing, it i
 [^94]: The Eothinon Doxastikon of the Praises and Festal Displacements in Byzantine Cathedral Usage (Violakis, pp. 82–85, §32). Paragraph 32 codifies the theological and hymnographic role of the Eothinon Doxastikon (*Ἑωθινὸν Δοξαστικόν*)—the solemn hymn chanted at **"Glory to the Father..."** before the Great Doxology at Sunday Matins. Composed by the Byzantine Emperor Leo VI the Wise (886–912), the eleven Eothina Doxastika provide a profound liturgical commentary and theological synopsis of the eleven Sunday Morning Gospels. Under normative conditions, the Eothinon Doxastikon is chanted whenever the corresponding Morning Gospel has been proclaimed. Violakis catalogs the systematic exceptions where the Eothinon is displaced by a festal or hagiographical Doxastikon: (1) Feasts and Apodoses of the Theotokos and of the Lord; (2) all Sundays of the Triodion and Pentecostarion; (3) Pre-Nativity and Post-Nativity Sundays; (4) the Sundays of the Holy Fathers of the Ecumenical Councils (Nicaea I, Chalcedon, Nicaea II); (5) major feast days of the Forerunner, Apostles, Evangelists, and Hierarchs; and (6) patronal and titular feasts of the local temple. Significantly, Violakis records the authoritative ruling of Patriarch Constantius I of Constantinople (1830–1834): the Doxastika of St. Gregory the Theologian (January 25), St. John Chrysostom (November 13 / January 27), St. Andrew the First-Called (November 30), and the Great Martyr Euphemia (September 16 / July 11) must also supersede the Sunday Eothinon when falling on a Sunday, specifically honoring the Apostolic founder, the great Patriarchal Doctor-Fathers, and the Patroness and miracle-worker of the Ecumenical Patriarchate in Constantinople whose relics reside in the Patriarchal Church of St. George.
 
 [^95]: The Marian Doxasticon Theotokion: "Most Blessed Art Thou" vs. the Paschal "Day of Resurrection" (Violakis, pp. 84–85, §33). Paragraph 33 governs the concluding Theotokion chanted at **"Now and forever, and unto the ages of ages. Amen."** following the Doxastikon of the Praises and immediately preceding the Great Doxology. The universal Byzantine norm for Sunday Matins is the venerable Dogmatic Theotokion in Tone 2: **"Most blessed art thou, O Virgin Theotokos; for through Him Who was incarnate of thee, Hades is taken captive..."** (*Ὑπερευλογημένη ὑπάρχεις, Θεοτόκε Παρθένε*). Violakis notes that this hymn is so foundational to the Sunday resurrectional mystery that it is preserved even when a Feast of the Mother of God, or its Apodosis, or the Apodosis of a Feast of the Lord occurs on Sunday. The sole universal exception occurs during the post-Paschal season: on the four Sundays following Thomas Sunday (Myrrhbearers, Paralytic, Samaritan Woman, and Blind Man), **"Most blessed art thou"** is replaced by the climactic Paschal doxasticon composed by St. John of Damascus: **"The Day of Resurrection! Let us beam with festive joy, and let us embrace one another..."** (*Ἀναστάσεως ἡμέρα, καὶ λαμπρυνθῶμεν τῇ πανηγύρει*). When major Saints occur on these post-Paschal Sundays, the Sunday Theotokion is sung at **"Now and forever..."**, except on Myrrhbearers Sunday, where **"The Day of Resurrection"** is retained because the day's Doxastikon is itself an Eothinon hymn. On weekdays from Thomas Sunday until the Apodosis of Pascha, commemorations of these Saints appoint the Doxastikon of the preceding Sunday at **"Now and forever..."** rather than the Paschal hymn, preserving the strict hierarchical distinction between Lord's Days and ordinary ferias.
+
+
+## Cohort 11 Footnotes
+
+[^96]: The Marian Theotokia of the Praises across the Triodion, Holy Week, and Paschalion (Violakis, pp. 86–87, §33 cont.). Continuing the rubrics of §33, Violakis addresses complex intersections of the movable and fixed cycles at the conclusion of Sunday Matins Praises (*Ainoi*). When the Feast of the Meeting of the Lord (February 2) falls on one of the first four Sundays of the Triodion (Publican and Pharisee, Prodigal Son, Meatfare, or Cheesefare), at **"Glory..."** the appointed Doxastikon of the Triodion is sung, followed at **"Now and forever, and unto the ages of ages. Amen."** by the festal Doxastikon of the Meeting. When the Feast of the Annunciation (March 25) coincides with the Saturday of Lazarus, Palm Sunday, or Holy Thursday, the Triodion Doxastikon is chanted at **"Glory..."**, and the festal Doxastikon of the Annunciation is intoned at **"Now and forever..."**; however, if the Annunciation falls on Pascha itself or any day of Bright Week (Kyriopascha), the Annunciation Doxastikon is intoned at **"Glory..."**, followed at **"Now and forever..."** by the Paschal Doxastikon: **"The Day of Resurrection! Let us beam with festive joy..."** (*Ἀναστάσεως ἡμέρα*). On ferias commemorating celebrated Saints outside the Pentecostarion period, when no Forefeast or Afterfeast coincides, after the Saint's Doxastikon at **"Glory..."**, the choir chants at **"Now and forever..."** a weekday Theotokion in the same Tone, drawn from the Horologion cycle of weekday Marian hymns rather than Sunday Resurrectional Theotokia.
+
+[^97]: The Dichotomy of the Great and Small Doxology and the Paschal Substitution (Violakis, pp. 86–87, §34). Paragraph 34 establishes the structural typology of the Doxology at Matins. On all Sundays, Dominical Feasts, Marian Feasts, and commemorations of celebrated Saints with Polyeleos or Doxology rank, the Great Doxology (*Μεγάλη Δοξολογία*) is chanted solemnly by the choirs in the Tone of the preceding Doxastikon of the Praises, terminating with the Trisagion sung with prolonged, melismatic melody. Conversely, on ordinary ferias, fasting days of Great Lent, and the first five days of Holy Week (from Matins of Holy Monday through Matins of Holy Friday), the Small Doxology **"To Thee belongeth glory, O Lord our God, and unto Thee do we ascribe glory: to the Father, and to the Son, and to the Holy Spirit..."** (*Σοὶ δόξα πρέπει*) is read simply in a speaking voice, immediately followed by the Litany of Fervent Supplication (*Ektenia*) and the Aposticha. During the entire renewal of Bright Week and on the Apodosis of Pascha, both the Great and Small Doxologies are completely suppressed; in their stead, immediately following **"The Day of Resurrection"**, the choirs chant the Paschal troparion **"Christ is risen from the dead, trampling down death by death, and upon those in the tombs bestowing life"** (*Χριστὸς ἀνέστη*) thrice with its festive melody, which fulfills the liturgical role of both the Doxology and the post-Doxological dismissal troparion.
+
+[^98]: The Sunday Matins Troparion *“Today Salvation”* and Post-Doxological Dismissal Hymnody (Violakis, pp. 86–89, §35). Paragraph 35 codifies the variable troparia chanted immediately following the Great Doxology at Sunday Matins. In Byzantine and Constantinopolitan usage codified by Violakis, on all Sundays throughout the year—including Sundays coinciding with Marian Feasts, Apodoses of Dominical or Marian Feasts, Afterfeasts, Sundays of the Triodion (excluding Palm Sunday), and the four post-Paschal Sundays of the Pentecostarion (Myrrhbearers, Paralytic, Samaritan Woman, Blind Man), as well as on Lazarus Saturday—the choir chants the Resurrectional dismissal troparion **"Today salvation has come to the world; let us sing unto Him Who is risen from the grave, the Author of our life; for having destroyed death by death, He hath given us the victory and great mercy"** (*Σήμερον σωτηρία τῷ κόσμῳ γέγονεν*) in the Tone of the day. In broader Studite and Ruthenian practice, this hymn is alternated with the troparion **"Having risen from the tomb and burst the bonds of Hades..."** (*Ἀναστὰς ἐκ τοῦ μνήματος*), where *“Today Salvation”* is sung on even Tones (Tones 2, 4, 6, 8) and *“Having risen”* on odd Tones (Tones 1, 3, 5, 7); Violakis here presents the strict cathedral use wherein *“Today Salvation”* serves as the standard post-Doxological hymn for the Sunday resurrectional office. On ferias coinciding with Dominical, Marian, or celebrated Saints' feasts, the proper Dismissal Troparion of the Feast or Saint is sung at the conclusion of Matins. During Bright Week and on the Apodosis of Pascha, **"Christ is risen"** thrice displaces this troparion entirely. From Thomas Sunday until the Apodosis of Pascha (excepting the Afterfeast of Mid-Pentecost), weekday saint commemorations take the Dismissal Troparion of the preceding Sunday at the dismissal of Matins. Finally, on ordinary ferias lacking a feast, the daily dismissal Theotokion from the Horologion matching the Tone of the daily Dismissal Troparion is said.
+
+[^99]: The Typika and Beatitudes in the Divine Liturgy (Violakis, pp. 90–91, §36). Paragraph 36 regulates the introductory Psalmody and Makarismoi (*Μακαρισμοί*) of the Divine Liturgy. On every Sunday, the standard Eucharistic entrance psalmody consists of the Typika: Psalm 102 LXX (**"Bless the Lord, O my soul"**), Psalm 145 LXX (**"Praise the Lord, O my soul"**), the hymn **"Only-Begotten Son and Immortal Word of God"** (*Ὁ μονογενὴς Υἱὸς*), and the Beatitudes (Matthew 5:3–12 LXX) intoned with eight Resurrection Troparia from the Octoechos (four from the Resurrection Canon and four from the Cross and Resurrection Canon, or selected according to the Tone). When a Forefeast, Afterfeast, or commemoration of a celebrated Saint falls on a Sunday, the eightfold allotment of the Beatitudes is apportioned: four Resurrection Troparia of the Beatitudes are retained, and four troparia are intercalated from the Sixth Ode of the festal Canon (or Canon of the Saint), ensuring that the hymnographic memory of the feast enters into the solemn Eucharistic proclamation of the Gospel Beatitudes.
+
+[^100]: The Hierarchy of Festal and Weekday Antiphons in the Divine Liturgy (Violakis, pp. 90–93, §37). Paragraph 37 defines the application of Antiphons (*Ἀντίφωνα*) at the Divine Liturgy across the liturgical year. On Great Feasts of the Lord, proper festal Antiphons derived from thematic Psalms are chanted with specific refrains on whatever day the feast falls; when a Dominical Apodosis falls on Sunday, the Second Antiphon preserves the proper festal refrain rather than the Sunday resurrectional refrain. On Marian Feasts or their Apodoses coinciding with Sunday, the Second Antiphon adopts the resurrectional refrain: **"Save us, O Son of God, Who art risen from the dead, who sing unto Thee: Alleluia"** (*Σῶσον ἡμᾶς Υἱὲ Θεοῦ ὁ ἀναστὰς ἐκ νεκρῶν*); on weekdays, however, it takes the hagiographical refrain: **"Save us, O Son of God, Who art wonderful in the saints..."** (*ὁ ἐν Ἁγίοις θαυμαστός*), with proper seasonal variations for the Meeting of the Lord (**"...Who wast borne in the arms of the righteous Simeon"**) and the Annunciation (**"...Who wast incarnate for our sake"**). Violakis observes that while contemporary usage sings the Paschal Antiphons daily until Ascension, ancient Typika restored the Typika and Beatitudes beginning immediately on Thomas Sunday. For celebrated Saints on weekdays, the Typika are obligatory because saints possess no proper Antiphons. On simple weekdays, the three daily Antiphons are drawn from Psalms 91, 92, and 94 LXX with their respective refrains: **"Through the intercessions of the Theotokos..."**, **"Through the intercessions of Thy Saints..."**, and **"Save us, O Son of God, Who art wonderful in the saints..."**
+
+[^101]: The Eisodika (Entrance Hymns) of the Little Entrance and the Annunciation Apodosis (Violakis, pp. 92–95, §38, Note 12). Paragraph 38 details the chants of the Little Entrance (*Μικρὰ Εἴσοδος*) with the Holy Gospel at the Divine Liturgy. The universal Sunday and Marian norm is the ancient entrance chant based on Psalm 94:6 LXX: **"O come, let us worship and bow down before Christ. Save us, O Son of God, Who art risen from the dead, who sing unto Thee: Alleluia"** (*Δεῦτε προσκυνήσωμεν καὶ προσπέσωμεν Χριστῷ*). When the Annunciation or Meeting of the Lord falls on a Sunday, their proper festal Eisodikon verses are proclaimed, but the concluding Christological clause must be the resurrectional refrain **"Who art risen from the dead"**; this same rule governs the Apodoses of Dominical Feasts falling on Sunday. On simple weekdays, the refrain is **"Who art wonderful in the saints"**. In Note 12, Violakis explains the canonical status of the Apodosis of the Annunciation (March 26): strictly speaking, the Annunciation does not have a formal multi-day Afterfeast period like other Dominical and Marian feasts; however, when the feast falls on a Friday or Saturday of Great Lent, the liturgical celebration extends into an Apodosis on the following day (Saturday or Sunday) due to the strict fasting and festal rubrics of the Triodion. Finally, Violakis notes the popular post-Byzantine practice of chanting the Paschal Eisodikon **"In the congregations bless ye God, the Lord from the springs of Israel"** (Psalm 67:27 LXX) daily through the Apodosis of Pascha, critiquing it as an inaccurate extension of what was originally restricted to Bright Week.
+
+[^102]: The Hierarchy of Post-Entrance Dismissal Troparia and Sunday Memorial Commemorations (Violakis, pp. 94–95, §39). Paragraph 39 governs the complex order of troparia and kontakia chanted immediately following the Little Entrance at the Divine Liturgy. On Sundays, the Resurrection Troparion of the Octoechos Tone always takes absolute primacy, preceding even the Dismissal Troparia of coinciding Marian Feasts or Dominical Apodoses. On Afterfeast Sundays with a celebrated Saint, the fourfold succession is strictly observed: (1) Resurrection Troparion, (2) Festal Dismissal Troparion, (3) Saint's Dismissal Troparion, and (4) Dismissal Troparion of the Patron Saint of the local temple. On weekdays during Afterfeasts, the order is: (1) Festal Dismissal Troparion, (2) Saint's Dismissal Troparion, and (3) Patron Saint of the Church. From Thomas Sunday until Ascension on weekdays with saints, the Dismissal Troparion of the preceding Sunday leads the sequence. Great Martyrs (such as St. George, St. Demetrius, St. Barbara, St. Catherine) enjoy a unique liturgical privilege: even when occurring on a feria during an Afterfeast without an official vigil or polyeleos commemoration, their Dismissal Troparion may never be omitted. When a Memorial Service (*Panakhida*) for the departed is celebrated in conjunction with Sunday Liturgy, the funeral troparion in Tone 2: **"Remember, O Lord, as Thou art good, Thy servants, and forgive whatsoever sins they have committed in this life; for no one is sinless save Thee Who art able to grant rest unto the departed"** (*Μνήσθητι, Κύριε, ὡς ἀγαθός, τῶν δούλων σου*) is intercalated immediately prior to the Dismissal Troparion of the Patron Saint of the Church.

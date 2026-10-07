@@ -12,12 +12,13 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
-  "translated_pages": 100,
-  "remaining_pages": 1070,
-  "current_cohort": 11,
-  "current_cohort_range": "pp. 101-110 (leaves p101-p110)",
+  "translated_pages": 110,
+  "remaining_pages": 1060,
+  "current_cohort": 12,
+  "current_cohort_range": "pp. 111-120 (leaves p111-p120)",
   "small_pause_gate_status": "AWAITING_SUBAGENT_EXECUTION",
   "active_blockers": []
 }
