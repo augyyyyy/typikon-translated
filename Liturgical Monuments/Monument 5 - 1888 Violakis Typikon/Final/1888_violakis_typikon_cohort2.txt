@@ -1,0 +1,193 @@
+=== LEAF p11 ===
+
+# ACKNOWLEDGEMENTS
+
+### By Dr. George T. Demos
+
+A project of this size and complexity relied on the assistance of many individuals. Foremost was the immense effort of the book’s principal translator, Fr. Robert Athas,[^8] a graduate of Saint Vladimir’s Orthodox Seminary in Crestwood, New York, and former Proistamenos of the Holy Trinity Greek Orthodox Church in Tulsa, Oklahoma, of the Greek Orthodox Metropolis of Denver. Father Athas is now the Proistamenos of the Dormition of the Mother of God Greek Orthodox Church in Burlington, Vermont, of the Greek Orthodox Metropolis of Boston.
+
+I am also grateful to Dr. Theodore Bogdanos for his assistance in translating and editing this work and for his knowledge as a composer, chanter and scholar. Dr. Bogdanos is a Professor Emeritus of Medieval English and European (Byzantine) Literature at San Jose State University in California. God give him [Dr. Theodore Bogdanos] strength.
+
+I thank His Eminence Metropolitan Isaiah, Hierarch of the Greek Orthodox Metropolis of Denver for his support and encouragement. My gratitude also to His Grace Bishop Anthimos of Olympos for the many insights gained from his service at the Ecumenical Patriarchate in Constantinople.
+
+In our Metropolis of Denver, I thank also the following experienced and helpful clergy, all graduates of the Holy Cross Seminary in Brookline, Massachusetts: Fr. George Neofotistos (may his memory be eternal), my first priest at the Greek Orthodox Metropolis Cathedral of the Assumption, Fr. Apostolos Hill, former Proistamenos and Dean of the Assumption Metropolis Cathedral of Denver and Fr. Vasileios Flegas, former Assistant Priest at the Assumption Metropolis Cathedral in Denver.
+
+I am very grateful also to the late Dr. Frank Desby, who was for many years on the faculty of the School of Music at the University of Southern California and the Music Director at the St. Sophia Greek Orthodox Cathedral in Los Angeles, California. He was gracious in accepting my ignorance and teaching me better ways.
+
+I also thank Dr. Tikey Zes, retired Professor of Music at San Jose State University and director of music at the St. Nicholas Greek Orthodox
+
+*(Printed Page ix)*
+
+=== LEAF p12 ===
+
+Church in San Jose, California, for all that I have learned from him.
+
+I must also acknowledge the late Perecles Phillips, former choir director of the Ascension Greek Orthodox Cathedral in Oakland, California, who was significantly responsible for the formation of the Western Choir Federation on the West Coast in 1945, and, having been from Sapulpa, Oklahoma, was instrumental in the formation of the Greek Orthodox Metropolis of Denver Church Music Federation, the publisher of the current work.
+
+Others who have been most helpful are: Dr. George Stefanidakis, former president of the Greek Orthodox Metropolis of Denver Church Music Federation and current Chanter at the Annunciation Cathedral in Houston, Texas, who strongly encouraged the translation of the Violakis Typikon. I also thank the members of the Executive Board of the Federation for their continuous support and wise counsel. I am grateful to Vaios Athanassiou, former Archchanter of the Assumption Metropolis Cathedral in Denver; Dr. James Maniatis, Assumption Cathedral Choir Director and his wife Connie Maniatis, Cathedral Organist.
+
+I am profoundly indebted to the late Rev. Meletios Diacandrew, later Bishop of Aristea, who first taught me respect for faith and tradition, how to chant the Apostolic readings in the ekphonetic style[^9] and for his continuous support and advice during my formative years when he was the Proistamenos of the Assumption Greek Orthodox Church in Denver, Colorado.
+
+For the sixteen years it has taken to complete the publication of this book, I feel deeply grateful to my wife Angelina and to my children, Theodore, Despina, and Paula, who have unselfishly shared the time I could have been giving to them.
+
+Finally, the project would never have been accomplished without the financial generosity of James Economou, former choir director of the Holy Trinity Greek Orthodox Church in Tulsa, Oklahoma—God bless him and his family.
+
+Above all, I thank our Lord God for any ability He has granted to me and especially for the earthly time to complete this project.
+
+**George T. Demos, MD**
+
+*(Printed Page x)*
+
+=== LEAF p13 ===
+
+# GREEK ORTHODOX METROPOLIS OF DENVER
+
+## INTRODUCTORY COMMENTARY
+
+Mere words are most inadequate to offer a proper introduction or commentary to this massive work of the Typikon of the Great Church of Christ in both Greek and English. For one to consider the time, the labor, especially, the sacrificial love which contributed to this exceptional ministry of preserving the holy Byzantine tradition of worship and chant is to stand in awe and thanksgiving. Dr. George T. Demos of blessed memory, who worked patiently for sixteen years to achieve this publication, succeeded in surpassing any other work of its kind concerning Greek Orthodox liturgical practice.[^10]
+
+All who acquire the use of this phenomenal accomplishment will always be grateful to those dedicated people who contributed their talent for the completion of what was most assuredly a true labor of love for the Church. It is proper to cite the Reverend Father Robert Athas of the Greek Orthodox Archdiocese, as well as Dr. Theodore Bogdanos who were both much involved with Dr. George Demos in bringing about this critical publication for the preservation of our liturgical and musical heritage.
+
+I can never say enough about Dr. Demos, with whom I had many welcomed encounters, as he attempted to be faithful to the Typikon of the Church. In my twenty years of knowing him, never did he demonstrate any type of frustration in his holy project. His patience was a paramount sign of his deep dedication. The fact that his soul departed this life, while he was sitting at his desk in the early hours of the morning, continuing his work, is the greatest testimony to his commitment and religious fervor.
+
+In reflection of his final hours with us for the sake of preserving our sacred way of worship, all who use this beautiful work will
+
+*(Printed Page xi)*
+
+=== LEAF p14 ===
+
+offer grateful thanks to God for blessing Dr. Demos in completing this work. Countless Orthodox Christians will benefit greatly in singing praises to God which will inspire our faithful people to continue their life of worship in our ancient traditions for their sanctification.
+
+Everlasting be the memory
+of the servant of God,
+**GEORGE**[^11]
+
+With paternal prayers,
+
+*[Hierarchical Signature and Episcopal Cross]*  
+**+ Metropolitan Isaiah of Denver**
+
+Greek Orthodox Metropolis of Denver  
+4550 East Alameda Avenue, Denver, Colorado 80246-1308  
+Telephone: (303) 333-7794 • Fax: (303) 333-7769  
+Web: www.denver.goarch.org • E-mail: metropolis@denver.goarch.org  
+
+*(Printed Page xii)*
+
+=== LEAF p15 ===
+
+# INTRODUCTION TO THE ENGLISH TRANSLATION
+
+In 1985, the Denver Diocese Choir Federation held its annual conference in Tulsa, Oklahoma. I was the Proistamenos of the Holy Trinity parish there. Sitting in my office during the Conference one afternoon, chatting with some of the conferees, Dr. George Demos scanned the long wall of bookshelves. His eyes settled on a copy of the thesis I wrote for my Master of Divinity. The thesis was titled “The Triodion in the Typicon of the Great Church.”[^12] George asked if I would like to translate the rest of the Typikon. Not realizing what was involved, I agreed, and twenty years later this volume is the result.
+
+It was not just a work of sitting down with a dictionary but a real collaboration that gave me the opportunity for wonderful conversations with Dr. Demos and with Dr. Theodore Bogdanos. Besides the work of parish and family life which would take my attention for most of the time, the hardest part of this task was remembering that we were in a four-hour difference in time zones. The easiest part was the joy of sharing our mutual love of the Typikon and our excitement in discovering footnotes to the footnotes! And comparing various Typika: Jerusalem, etc.
+
+George Demos’ best direction to me was his insistence that “If you can make me understand it, I know we are on the right track.” I only regret that George did not live to see this work completed. I remember him with great fondness both for his humor and his humanity and his great love for the Church and for this great work of love. May his memory be eternal! Now, my hope is that this English translation of the Typikon will be helpful to all priests, choir directors, chanters and other church musicians.
+
+The Typikon ends with the exclamation: «Τέλος καὶ τῷ Θεῷ δόξα!» (“The end and glory to God!”)[^13] It is truly God Who is the author and finisher of all things and to Him be honor and glory unto the ages of ages! Amen!
+
+**Rev. Robert T. Athas**  
+Protopresbyter  
+
+*(Printed Page xiii)*
+
+=== LEAF p16 ===
+
+# TYPIKON TRANSLATION
+
+## (ΜΕΤΑΦΡΑΣΙΣ ΤΥΠΙΚΟΥ)[^14]
+
+*(Printed Page xiv)*
+
+=== LEAF p17 ===
+
+# GUIDE TO PHONETIC USAGE[^15]
+
+## (ΦΩΝΗΤΙΚΟΣ ΟΔΗΓΟΣ)
+
+### Compiled by George T. Demos, M.D.
+
+| Greek Letter | Phonetic Equivalent & Pronunciation | Greek Letter | Phonetic Equivalent & Pronunciation |
+| :--- | :--- | :--- | :--- |
+| **Α, α** | a as in father | **Ξ, ξ** | x as in x-ray |
+| **Β, β** | v as in victory | **Ο, ο** | o as in torn |
+| **Γ, γ** | g (soft) as in Greek *gamos* | **Π, π** | p as in point |
+| **Δ, δ** | d (soft) as the th in then | **Ρ, ρ** | r as in rhythm (rolled as the dd in kiddy) |
+| **Ε, ε** | e as in bet | **Σ, σ, ς** | s as in silk |
+| **Ζ, ζ** | z as in zone | **Τ, τ** | t as in top |
+| **Η, η** | i as the ee in see | **Υ, υ** | y as in party / i as the ee in see |
+| **Θ, θ** | th as in thorn | **Φ, φ** | f as in father |
+| **Ι, ι** | i as the ee in see | **Χ, χ** | ch (soft) as in German *Bach* |
+| **Κ, κ** | k as in king | **Ψ, ψ** | ps as in perhaps |
+| **Λ, λ** | l as in love | **Ω, ω** | o as in torn |
+| **Μ, μ** | m as in mother | | |
+| **Ν, ν** | n as in name | | |
+
+### DIPHTHONGS AND COMPOUND CONSONANTS
+
+| Combination | Phonetic Equivalent & Rules of Pronunciation |
+| :--- | :--- |
+| **αι** | e as in bet |
+| **αυ** | av as in *savant* when before vowels or the consonants γ, δ, ζ, λ, μ, ν and ρ; otherwise af as in *safari* |
+| **ει** | i as the ee in see |
+| **ευ** | ev as in *ever* when before vowels or the consonants γ, δ, ζ, λ, μ, ν and ρ; otherwise ef as in *effort* |
+| **ηυ** | iv as the ev in *eve* when before vowels or the consonants γ, δ, ζ, λ, μ, ν and ρ; otherwise if as the eef in *beef* |
+| **οι** | i as the ee in see |
+| **ου** | u as in *Alleluia* |
+| **υι** | i as the ee in see |
+| **γγ** | ng as in *anger* |
+| **γκ** | ng as in *anger* |
+| **μπ** | b as in *bell* at the beginning of words; otherwise mb as in *amber* |
+| **ντ** | d as in *dart* at the beginning of words; otherwise nd as in *Monday* |
+
+Although the ᾳ, ῃ, ῳ are considered to be diphthongs, the iota subscript is soundless and the vowels are pronounced as in the table above without the subscript.
+
+*(Printed Page xv)*
+
+=== LEAF p18 ===
+
+# ADDITIONAL READING INSTRUCTIONS[^16]
+
+## (ΕΠΙΠΡΟΣΘΕΤΑΙ ΟΔΗΓΙΑΙ ΑΝΑΓΝΩΣΕΩΣ)
+
+1. **TYPES OF PARENTHESES**: The text enclosed in regular parentheses `(...)` was written by Violakis. The text enclosed in curly brackets `{...}` has been written by the translator. The text enclosed in square brackets `[...]` has been written and inserted by the editors.
+
+2. **BLANK SPACES IN THE GREEK TEXT**: Quite often additional information (titles of hymns and prayers as well as ritual instructions) has been added into the English text for greater clarity. The attempt to align the Greek with the amplified English text across the mutually facing pages has resulted in some blank spaces in the shorter original Greek text.
+
+3. **SPLIT FOOTNOTES**: Because of various space limitations, some footnotes begin on the proper page of reference but are continued at the bottom of the following page.
+
+*(Printed Page xvi)*
+
+=== LEAF p19 ===
+
+# ΟΔΗΓΙΑΙ ΚΑΙ ΠΑΡΑΤΗΡΗΣΕΙΣ
+
+## ΕΠΙ ΤΩΝ ΠΡΟΗΓΟΥΜΕΝΩΝ ΕΚΔΟΣΕΩΝ ΤΟΥ ΤΥΠΙΚΟΥ[^17]
+
+Ἡ διορισθεῖσα συνοδικῶς πενταμελὴς ἐπιτροπὴ ἐκ τῶν Σεβ. Μητροπολιτῶν, Αἴνου, Σάμου, Καισαρείας, Μυτιλήνης, καὶ τοῦ Πρωτοψάλτου τῆς Μεγάλης Ἐκκλησίας κ. Γεωργίου Βιολάκη, ἥτις ἀνεθεώρησε τὰ προγενέστερα Τυπικὰ τῆς Ἐκκλησίας, τὰ μέχρι σήμερον ἐν χρήσει τοιαῦτα ὑπὸ Κωνσταντίνου τοῦ Πρωτοψάλτου, ἐν τῇ ἐκθέσει της διώρθωσε τὰ λάθη καὶ τὰς ἀνακριβείας αὐτῶν ὡς ἕπεται:
+
+Ἐνίοτε αἱ σημειώσεις αἵτινες εἶναι πολλαχοῦ ἐγκατεσπαρμέναι, διαφωνοῦσι πρὸς ὅσα σχετικὰ σημειοῖ εἰς τὰς μνήμας τῶν Ἁγίων, καὶ πᾶσα ἀσυμφωνία πρέπει νὰ ἐκλείψῃ, ἀρθῇ πᾶσα ἀπορία καὶ διορθωθῇ πᾶσα, ἔστω καὶ ἐπουσιώδης, ἀντίφασις ἢ παραλλαγή.
+
+Ἡ δὲ ὥρα Θ΄ ἑκάστης ἡμέρας, συνεχομένη τῇ Α΄, Γ΄ καὶ Ϛ΄ καὶ ἀνήκουσα τῇ ἡμέρᾳ, ἥτις λήγει ἐκκλησιαστικῶς πρὸ τοῦ Ἑσπερινοῦ, ἔδει ἵνα συμβαδίσῃ τοιαύτῃ τάξει· διὸ καὶ ὥρισεν ἡ Ἐπιτροπὴ ἀναλόγως τῇ Θ΄ τὴν πρὸ τοῦ Ἑσπερινοῦ τῆς Κυριακῆς τοῦ Θωμᾶ ὡς καὶ τὴν πρὸ τῶν Ἑσπερινῶν τῆς Τετάρτης καὶ Πέμπτης πρὸ τῆς Ἀναλήψεως.
+
+Ἐπίσης καθότι ὁ Ἑσπερινὸς ἀνήκει τῇ ἐπιούσῃ ἡμέρᾳ, μεθ' ἧς καὶ συνέχεται ἀναποσπάστως καθ' ὅλα τὰ μέρη, καὶ ἐν ἑκάστῃ δεσποτικῇ ἑορτῇ ἡ ἀπόλυσις τοῦ Ἑσπερινοῦ ἐστιν ἡ αὐτὴ τῇ τῆς Λειτουργίας, ὁ πρωτοψάλτης Κωνσταντῖνος σημειοῖ ἐν τῷ Ἑσπερινῷ τῆς Κυριακῆς τῶν Ἁγίων Πάντων ὅτι ἡ χρῆσις τοῦ «Ὁ ἀναστὰς ἐκ νεκρῶν», κατὰ τὴν ἀπόλυσιν τοῦ Ἑσπερινοῦ τῆς Κυριακῆς, οὐ μόνον ἀπᾴδει, ἀλλὰ καὶ ἀσυγχώρητός ἐστι, διότι τάχα ὁ Κύριος ἡμῶν ἀνέστη κατὰ τὸ μεσονύκτιον. Ἡ Ἐπιτροπὴ καθώρισε καὶ τοῦτο, τῇ στάθμῃ τῆς ἀναλογίας καὶ ἀκριβείας ἀκολουθήσασα, ἥτις τηρεῖται καὶ ἐν πάσαις ταῖς δεσποτικαῖς ἑορταῖς.
+
+Ὡσαύτως τὴν χρῆσιν τοῦ «Βασιλεῦ οὐράνιε» μετὰ τὸ «Εὐλογητὸς [ὁ] Θεὸς ἡμῶν» ὁρίζει τὸ Τυπικὸν τοῦ Κωνσταντίνου διὰ τὸν Ὄρθρον τῆς Δευτέρας τοῦ Ἁγίου Πνεύματος, ἐν ᾧ, ψαλὲν ἐν τοῖς ἀποστίχοις τοῦ Ἑσπερινοῦ τῆς Κυριακῆς ὡς στιχηρόν, οὐδὲν κώλυμα ἔχει ἵνα λέγηται καὶ μετὰ τὸ «Εὐλογητὸς» διὰ τὸν Ὄρθρον τῆς Κυριακῆς, ἂν μὴ διὰ τοῦ Ἑσπερινοῦ αὐτῆς. Οὐδὲν...
+
+*(Printed Page 1)*
+
+=== LEAF p20 ===
+
+# GUIDELINES AND OBSERVATIONS ON THE PREVIOUS EDITIONS OF THE TYPIKON
+
+The synodically appointed five-member Committee consisting of the Reverend Metropolitans of Ainos, Samos, Caesarea, Mytiline and the Protopsaltis [highest-ranking chanter] of the Great Church George Violakis, which reviewed the previous Typika of the Church—such as that by the Protopsaltis Constantine—which are in use today, corrected in its report the errors and inaccuracies of these works as follows:
+
+Occasionally, their various guidelines, which are scattered in many places in their work, differ on what is appropriate to be performed on the commemorations [feasts] of the saints. Every disagreement, therefore, must cease to exist, every doubt must be clearly articulated and corrected, however secondary or minor the contradiction or variation may be.
+
+The 9th Hour of every day, continuing the 1st, 3rd, and 6th [Hours] and belonging to that day, which closes ecclesiastically before Vespers, must follow the order that the Committee has prescribed in an analogous situation with the 9th Hour being done before the Vespers of the Sunday of Thomas[^18] as well as before the Vespers of Wednesday and Thursday before the Feast of the Ascension.
+
+Also, since the Vespers belongs to the following day, with which it is joined inseparably in all the places in it, then, on every Feast of the Lord, the Dismissal Prayer of the Vespers is the same as that of the Liturgy. Constantine the Protopsaltis, however, indicates that, in the Vespers of the Sunday of All Saints, the use of “Who did rise from the dead” in the Dismissal Prayer of the Vespers of that Sunday is not only incompatible but also unforgivable since our Lord arose around midnight. The Committee decided on this issue also, following the same standard of analogy and exactness that is observed on all the Feasts of the Lord.
+
+Likewise, the Typikon of Constantine dictates that the “Heavenly King”[^19] should be done after “Blessed is our God...” in the Matins of the Monday of the Holy Spirit, even though it was chanted as a Stichiron in the Aposticha of the Vespers of [Pentecost] Sunday. Therefore, there should be no obstacle to its being done also after the “Blessed [is our God]” in the Matins of that Sunday, if not in its Vespers. The Committee, nevertheless,
+
+*(Printed Page 1)*

@@ -1,14 +1,15 @@
 {
-  "active_monument": "Typikon of Alexander Mikita (Mukachevo-Uzhhorod, 1901)",
-  "monument_id": "1901_mikita_typikon",
-  "total_physical_pages": 320,
+  "active_monument": "Typikon of the Great Church of Christ by George Violakis (1888, Bilingual)",
+  "monument_id": "1888_violakis_typikon",
+  "total_physical_pages": 1170,
   "completed_cohorts": [
-    1
+    1,
+    2
   ],
-  "translated_pages": 10,
-  "remaining_pages": 310,
-  "current_cohort": 2,
-  "current_cohort_range": "pp. 11-20 (leaves p11-p20)",
-  "small_pause_gate_status": "READY_FOR_STARTUP_PROMPT",
+  "translated_pages": 20,
+  "remaining_pages": 1150,
+  "current_cohort": 3,
+  "current_cohort_range": "pp. 21-30 (leaves p21-p30)",
+  "small_pause_gate_status": "AWAITING_SUBAGENT_EXECUTION",
   "active_blockers": []
 }

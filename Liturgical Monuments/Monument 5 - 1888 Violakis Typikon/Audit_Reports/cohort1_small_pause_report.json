@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-10-07T02:48:37.370294+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 1,
+  "target_file": "1888_violakis_typikon_cohort1.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort1.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort1.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort1.md",
+      "footnotes_file": "1888_violakis_typikon_cohort1_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 7,
+      "definition_markers_count": 7,
+      "text_markers": [
+        "[^1]",
+        "[^2]",
+        "[^3]",
+        "[^4]",
+        "[^5]",
+        "[^6]",
+        "[^7]"
+      ],
+      "definition_markers": [
+        "[^1]",
+        "[^2]",
+        "[^3]",
+        "[^4]",
+        "[^5]",
+        "[^6]",
+        "[^7]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort1.md",
+      "passed": true,
+      "paragraphs": 86,
+      "headings_count": 15,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "GEORGE VIOLAKIS[^1]"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "TYPIKON"
+        },
+        {
+          "line": 7,
+          "level": 3,
+          "title": "THE RITUAL ORDER OF THE SERVICES OF THE GREAT CHURCH OF CHRIST"
+        },
+        {
+          "line": 19,
+          "level": 1,
+          "title": "GEORGE VIOLAKIS"
+        },
+        {
+          "line": 21,
+          "level": 2,
+          "title": "TYPIKON"
+        },
+        {
+          "line": 23,
+          "level": 3,
+          "title": "BILINGUAL EDITION"
+        },
+        {
+          "line": 27,
+          "level": 1,
+          "title": "ΤΥΠΙΚΟΝ ΤΗΣ ΤΟΥ ΧΡΙΣΤΟΥ ΜΕΓΑΛΗΣ ΕΚΚΛΗΣΙΑΣ"
+        },
+        {
+          "line": 29,
+          "level": 2,
+          "title": "IDENTICAL IN EVERY RESPECT"
+        },
+        {
+          "line": 33,
+          "level": 3,
+          "title": "GEORGE VIOLAKIS"
+        },
+        {
+          "line": 48,
+          "level": 1,
+          "title": "THE RITUAL ORDER OF THE SERVICES OF THE GREAT CHURCH OF CHRIST"
+        },
+        {
+          "line": 50,
+          "level": 2,
+          "title": "IDENTICAL IN EVERY RESPECT"
+        },
+        {
+          "line": 54,
+          "level": 3,
+          "title": "GEORGE VIOLAKIS"
+        },
+        {
+          "line": 96,
+          "level": 1,
+          "title": "THIS PUBLICATION WAS MADE POSSIBLE BY THE GENEROUS GIFT OF"
+        },
+        {
+          "line": 102,
+          "level": 2,
+          "title": "IN LOVING MEMORY OF OUR PARENTS AND GRANDPARENTS"
+        },
+        {
+          "line": 123,
+          "level": 1,
+          "title": "INTRODUCTION"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 1,
+        "max_leaf": 10
+      },
+      "anomalies": []
+    }
+  }
+}

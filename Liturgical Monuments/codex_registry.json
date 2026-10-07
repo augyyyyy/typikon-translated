@@ -8,62 +8,284 @@
       "title": "Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)",
       "short_title": "1891 Lviv Provincial Synod",
       "relative_pdf_path": "Historical Typikons/1891-1896-Chynnosty-i-Rishenia-Lviv-Provincial-Synod.pdf",
+      "canonical_mirror_dir": "Historical Typikons/1891-1896-Chynnosty-i-Rishenia-Lviv-Provincial-Synod",
       "total_physical_pages": 278,
+      "front_matter_leaf_offset": 4,
+      "printed_book_page_start": 1,
+      "coordinate_notes": "PDF leaves p1-p4 are unnumbered front matter (cover, accession, stamp, title). Printed book page 1 starts on physical leaf p5 (Book Page = PDF Leaf - 4).",
       "default_cohort_size": 10,
       "genre_register": "juridical",
       "workspace_dir": "Liturgical Monuments/Monument 1 - 1891 Lviv Synod",
-      "active": false
+      "active": false,
+      "status": "completed",
+      "publication_spec": {
+        "hub_inbox_folder": "1891_Lviv_Provincial_Synod",
+        "master_title": "Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)",
+        "parts": [
+          {
+            "id": "part0",
+            "filename": "1891_lviv_synod_part0_intro_and_toc.md",
+            "title": "Official Front Matter, Provenance, Convocation Decrees, Synodal Ordo, and Table of Contents",
+            "start_landmark": null
+          },
+          {
+            "id": "part1",
+            "filename": "1891_lviv_synod_part1_decrees_faith_hierarchy.md",
+            "title": "SYNODAL DECREES PART I: TITULI I–IV (On the Catholic Faith, Hierarchy, Bishops, and Diocesan Administration)",
+            "start_landmark": "^#+.*?\\bTitulus I[\\.:\\s]"
+          },
+          {
+            "id": "part2",
+            "filename": "1891_lviv_synod_part2_decrees_liturgy_sacraments.md",
+            "title": "SYNODAL DECREES PART II: TITULI V–X (On the Liturgy, Sacred Furnishings, Monasteries, Seminaries, Priests, and Holy Sacraments)",
+            "start_landmark": "^#+.*?\\bTitulus V[\\.:\\s]"
+          },
+          {
+            "id": "part3",
+            "filename": "1891_lviv_synod_part3_decrees_discipline_property.md",
+            "title": "SYNODAL DECREES PART III: TITULI XI–XV (On Fasts, Offices for the Departed, Courts, Synods, and Church Property)",
+            "start_landmark": "^#+.*?\\bTitulus XI[\\.:\\s]"
+          },
+          {
+            "id": "part4",
+            "filename": "1891_lviv_synod_part4_appendices_and_indices.md",
+            "title": "PAPAL CONFIRMATION, SYNODAL APPENDICES (INCLUDING APPENDIX XXXI: LITURGICAL TYPIKON), AND ALPHABETICAL INDEX",
+            "start_landmark": "^#+\\s*Decree of Papal Confirmation"
+          }
+        ],
+        "footnotes_filename": "1891_lviv_synod_footnotes.md"
+      }
     },
     "1899_dolnytsky_typikon": {
       "monument_id": "1899_dolnytsky_typikon",
       "title": "Typik of Fr. Isidore Dolnytsky (Lviv Stauropegion, 1899)",
       "short_title": "1899 Dolnytsky Typikon",
       "relative_pdf_path": "Historical Typikons/1899-Typik-Dolnytsky-Church-Slavonic-Facsimile.pdf",
+      "canonical_mirror_dir": "Historical Typikons/1899-Typik-Dolnytsky-Church-Slavonic-Facsimile",
       "total_physical_pages": 591,
+      "front_matter_leaf_offset": 0,
+      "printed_book_page_start": 1,
+      "coordinate_notes": "Monotonically indexed strictly by physical facsimile leaf (p1..p591). All 30 cohorts completed.",
       "default_cohort_size": 10,
       "genre_register": "rubrical",
       "workspace_dir": "Liturgical Monuments/Monument 2 - 1899 Dolnytsky Typikon",
       "active": false,
-      "status": "completed"
+      "status": "completed",
+      "publication_spec": {
+        "hub_inbox_folder": "1899_Dolnytsky_Typikon",
+        "master_title": "Typikon of the Ruthenian-Catholic Church (1899)",
+        "parts": [
+          {
+            "id": "part0",
+            "filename": "1899_dolnytsky_part0_intro_and_toc.md",
+            "title": "Front Matter, Approbations, and Table of Contents",
+            "start_landmark": null
+          },
+          {
+            "id": "part1",
+            "filename": "1899_dolnytsky_part1_general_order.md",
+            "title": "PART I: THE GENERAL ORDER OF DIVINE WORSHIP",
+            "start_landmark": "^#+\\s*Part I\\."
+          },
+          {
+            "id": "part2",
+            "filename": "1899_dolnytsky_part2_general_rubrics.md",
+            "title": "PART II: COMMON RUBRICS FOR THE DIVERSE SERVICES OF THE OCTOECHOS AND MENAION",
+            "start_landmark": "^#+\\s*Part II\\b"
+          },
+          {
+            "id": "part3",
+            "filename": "1899_dolnytsky_part3_menaion.md",
+            "title": "PART III: PROPER RUBRICS FOR CERTAIN SERVICES OF THE MENAION",
+            "start_landmark": "^#+\\s*Part III\\b"
+          },
+          {
+            "id": "part4",
+            "filename": "1899_dolnytsky_part4_triodion.md",
+            "title": "PART IV: TYPIKA OF THE TRIODION",
+            "start_landmark": "^#+\\s*Part IV\\b"
+          },
+          {
+            "id": "part5",
+            "filename": "1899_dolnytsky_part5_temple.md",
+            "title": "PART V: TYPIKON CONCERNING TEMPLES",
+            "start_landmark": "^#+\\s*Part V\\b"
+          },
+          {
+            "id": "part6",
+            "filename": "1899_dolnytsky_part6_tables_and_decrees.md",
+            "title": "PART VI: HISTORICAL INDEX, SYNODAL DECREES AND COLOPHON",
+            "start_landmark": "^##\\s*Table of Contents"
+          }
+        ],
+        "footnotes_filename": "1899_dolnytsky_footnotes.md"
+      }
     },
     "1901_mikita_typikon": {
       "monument_id": "1901_mikita_typikon",
       "title": "Typikon of Alexander Mikita (Mukachevo-Uzhhorod, 1901)",
       "short_title": "1901 Mikita Typikon",
       "relative_pdf_path": "Historical Typikons/1901-Typikon-Alexander-Mikita-Mukachevo-Ruthenian.pdf",
+      "canonical_mirror_dir": "Historical Typikons/1901-Typikon-Alexander-Mikita-Mukachevo-Ruthenian",
       "total_physical_pages": 320,
+      "front_matter_leaf_offset": 0,
+      "printed_book_page_start": 1,
+      "coordinate_notes": "Monotonically indexed strictly by physical facsimile leaf (p1..p320). Cohort size = 10.",
       "default_cohort_size": 10,
       "genre_register": "rubrical",
       "workspace_dir": "Liturgical Monuments/Monument 3 - 1901 Mikita Typikon",
-      "active": true
+      "active": false,
+      "status": "completed",
+      "publication_spec": {
+        "hub_inbox_folder": "1901_Mikita_Typikon",
+        "master_title": "Typikon of Alexander Mikita (Mukachevo-Uzhhorod, 1901)",
+        "parts": [
+          {
+            "id": "part0",
+            "filename": "1901_mikita_part0_intro_and_toc.md",
+            "title": "Front Matter, Dedication, Foreword, Introduction, and Table of Contents",
+            "start_landmark": null
+          },
+          {
+            "id": "part1",
+            "filename": "1901_mikita_part1_general_services.md",
+            "title": "PART I: ON DIVINE SERVICES IN GENERAL (Calendar, Church Books, and Liturgical Realia)",
+            "start_landmark": "^#+.*?\\bPart I\\b"
+          },
+          {
+            "id": "part2",
+            "filename": "1901_mikita_part2_particular_services.md",
+            "title": "PART II: ON CHURCH SERVICES IN PARTICULAR (Canonical Hours, Vigil, and Divine Liturgy)",
+            "start_landmark": "^#+.*?\\bPart II\\b"
+          }
+        ],
+        "footnotes_filename": "1901_mikita_footnotes.md"
+      }
     },
     "1852_doskovsky_typikon": {
       "monument_id": "1852_doskovsky_typikon",
-      "title": "Typikon of Fr. Joseph Doskovsky (Lviv, 1852)",
+      "title": "Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852)",
       "short_title": "1852 Doskovsky Typikon",
       "relative_pdf_path": "Historical Typikons/1852-Typikon-Doskovsky.pdf",
+      "canonical_mirror_dir": "Historical Typikons/1852-Typikon-Doskovsky",
       "total_physical_pages": 141,
       "default_cohort_size": 10,
       "genre_register": "rubrical",
       "workspace_dir": "Liturgical Monuments/Monument 4 - 1852 Doskovsky Typikon",
-      "active": false
+      "active": false,
+      "status": "completed",
+      "publication_spec": {
+        "hub_inbox_folder": "1852_Doskovsky_Typikon",
+        "master_title": "Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852)",
+        "parts": [
+          {
+            "id": "part0",
+            "filename": "1852_doskovsky_part0_intro_and_toc.md",
+            "title": "Title Page, Epigraphs, Colophon, and Table of Contents",
+            "start_landmark": null
+          },
+          {
+            "id": "part1",
+            "filename": "1852_doskovsky_part1_general_services.md",
+            "title": "PART I: GENERAL ORDO & DIVINE SERVICES (Principles of Worship and Sacerdotal Rubrics)",
+            "start_landmark": "^#+.*?\\b(?:Part I|On the Church Rule in General)\\b"
+          },
+          {
+            "id": "part2",
+            "filename": "1852_doskovsky_part2_concurrence_rules.md",
+            "title": "PART II: CONCURRENCE & PRECEDENCE RULES (Mark's Chapters on Sundays, Feasts, and Weekdays)",
+            "start_landmark": "^#+.*?\\b(?:Part II|Rubric If There Occur a Single Simple Saint on Sunday)\\b"
+          },
+          {
+            "id": "part3",
+            "filename": "1852_doskovsky_part3_menaion.md",
+            "title": "PART III: PROPER RUBRICS FOR FIXED FEASTS (Menaion Cycle)",
+            "start_landmark": "^#+.*?\\b(?:Part III|Specific Rubrics for Certain Fixed Feasts)\\b"
+          },
+          {
+            "id": "part4",
+            "filename": "1852_doskovsky_part4_triodion.md",
+            "title": "PART IV: TYPIKA OF THE TRIODION AND HOLY WEEK",
+            "start_landmark": "^#+.*?\\b(?:Part IV|Sunday of the Publican and Pharisee)\\b"
+          },
+          {
+            "id": "part5",
+            "filename": "1852_doskovsky_part5_pentecostarion.md",
+            "title": "PART V: PENTECOSTARION CYCLE AND GENERAL LITURGICAL APPENDICES",
+            "start_landmark": "^#+.*?\\b(?:Part V|Beginning of the Pentecostarion)\\b"
+          },
+          {
+            "id": "part6",
+            "filename": "1852_doskovsky_part6_tables_and_colophon.md",
+            "title": "PART VI: PASCHAL TABLES, GOSPEL PILLARS, TYPOGRAPHICAL ERRATA, AND SLAVONIC INDEX",
+            "start_landmark": "^#+.*?\\b(?:Part VI|Six Pillars|Paschal Key Letters)\\b"
+          }
+        ],
+        "footnotes_filename": "1852_doskovsky_footnotes.md"
+      }
     },
     "1888_violakis_typikon": {
       "monument_id": "1888_violakis_typikon",
       "title": "Typikon of the Great Church of Christ by George Violakis (1888, Bilingual)",
       "short_title": "1888 Violakis Typikon",
       "relative_pdf_path": "Historical Typikons/1888-Violakis-Typikon-Bilingual-Greek-English.pdf",
+      "canonical_mirror_dir": "Historical Typikons/1888-Violakis-Typikon-Bilingual-Greek-English",
       "total_physical_pages": 1170,
       "default_cohort_size": 10,
+      "source_language": "Greek / English Bilingual",
       "genre_register": "rubrical",
       "workspace_dir": "Liturgical Monuments/Monument 5 - 1888 Violakis Typikon",
-      "active": false
+      "active": true,
+      "publication_spec": {
+        "hub_inbox_folder": "1888_Violakis_Typikon",
+        "master_title": "Typikon of the Great Church of Christ (George Violakis, 1888)",
+        "parts": [
+          {
+            "id": "part0",
+            "filename": "1888_violakis_part0_intro_and_toc.md",
+            "title": "Front Matter, Denver Bilingual Introduction, and Table of Contents",
+            "start_landmark": null
+          },
+          {
+            "id": "part1",
+            "filename": "1888_violakis_part1_general_rubrics.md",
+            "title": "PART I: GENERAL RUBRICS & DIATAXIS (Pre-Theory, Hours, Vespers, Matins, and Divine Liturgy)",
+            "start_landmark": "^#+.*?\\b(?:Pre-Theory of the Typikon|General Rubrics|Diataxis)\\b"
+          },
+          {
+            "id": "part2",
+            "filename": "1888_violakis_part2_menaion.md",
+            "title": "PART II: MENAION (Fixed Feasts of the Lord, Mother of God, and Celebrating Saints)",
+            "start_landmark": "^#+.*?\\b(?:Month of September|Menaion)\\b"
+          },
+          {
+            "id": "part3",
+            "filename": "1888_violakis_part3_triodion.md",
+            "title": "PART III: TRIODION (Pre-Lent, Great Lent, and Holy Week)",
+            "start_landmark": "^#+.*?\\b(?:Triodion|Sunday of the Publican and Pharisee)\\b"
+          },
+          {
+            "id": "part4",
+            "filename": "1888_violakis_part4_pentecostarion.md",
+            "title": "PART IV: PENTECOSTARION (Paschal Cycle and Afterfeasts)",
+            "start_landmark": "^#+.*?\\b(?:Pentecostarion|Order of Service for the Services of the Pentecostarion|Sunday of Pascha)\\b"
+          },
+          {
+            "id": "part5",
+            "filename": "1888_violakis_part5_appendices.md",
+            "title": "PART V: APPENDICES & PATRIARCHAL CEREMONIAL (Consecrations, Ordinations, and Epistles)",
+            "start_landmark": "^#+.*?\\b(?:Appendix of the Typikon|Patriarchal Church|Consecration of a Church)\\b"
+          }
+        ],
+        "footnotes_filename": "1888_violakis_footnotes.md"
+      }
     },
     "1910_skaballanovich_typikon": {
       "monument_id": "1910_skaballanovich_typikon",
       "title": "Tolkovy Typikon of Mikhail Skaballanovich (Kyiv, 1910–1915)",
       "short_title": "1910 Skaballanovich Tolkovy Typikon",
       "relative_pdf_path": "Historical Typikons/1910-1915-Skaballanovich-Tolkovy-Typikon-Complete.pdf",
+      "canonical_mirror_dir": "Historical Typikons/1910-1915-Skaballanovich-Tolkovy-Typikon-Complete",
       "total_physical_pages": 1022,
       "default_cohort_size": 10,
       "genre_register": "scholarly_critical",
@@ -75,6 +297,7 @@
       "title": "Opisanie Liturgicheskikh Rukopisei Vol. 1: Typika (Aleksei Dmitrievsky, Kyiv, 1895)",
       "short_title": "1895 Dmitrievsky Opisanie Vol 1",
       "relative_pdf_path": "Historical Typikons/1895-Dmitrievsky-Opisanie-Vol1-Typika-Part1.pdf",
+      "canonical_mirror_dir": "Historical Typikons/1895-Dmitrievsky-Opisanie-Vol1-Typika-Part1",
       "total_physical_pages": 1090,
       "default_cohort_size": 10,
       "genre_register": "scholarly_critical",
@@ -86,17 +309,35 @@
       "title": "Opisanie Liturgicheskikh Rukopisei Vol. 3: Typika Part 2 (Aleksei Dmitrievsky, Petrograd, 1917)",
       "short_title": "1917 Dmitrievsky Opisanie Vol 3",
       "relative_pdf_path": "Historical Typikons/1917-Dmitrievsky-Opisanie-Vol3-Typika-Part2.pdf",
+      "canonical_mirror_dir": "Historical Typikons/1917-Dmitrievsky-Opisanie-Vol3-Typika-Part2",
       "total_physical_pages": 789,
       "default_cohort_size": 10,
       "genre_register": "scholarly_critical",
       "workspace_dir": "Liturgical Monuments/Monument 8 - 1917 Dmitrievsky Vol 3",
       "active": false
     },
+    "1901_dmitrievsky_vol2": {
+      "monument_id": "1901_dmitrievsky_vol2",
+      "title": "Opisanie Liturgicheskikh Rukopisei Vol. 2: Euchologia (Aleksei Dmitrievsky, Kyiv, 1901)",
+      "short_title": "1901 Dmitrievsky Opisanie Vol 2 (Euchologia)",
+      "relative_pdf_path": "Historical Typikons/1901-Dmitrievsky-Opisanie-Vol2-Euchologia.pdf",
+      "canonical_mirror_dir": "Historical Typikons/1901-Dmitrievsky-Opisanie-Vol2-Euchologia",
+      "total_physical_pages": 1103,
+      "front_matter_leaf_offset": 8,
+      "printed_book_page_start": 1,
+      "coordinate_notes": "PDF leaves p1-p8 are unnumbered front matter. Printed page 1 starts on physical leaf p9 (Book Page = PDF Leaf - 8). High-res 300 DPI JPEG mirror established on Drive E:.",
+      "default_cohort_size": 10,
+      "genre_register": "scholarly_critical",
+      "workspace_dir": "Liturgical Monuments/Monument 12 - 1901 Dmitrievsky Vol 2",
+      "active": false,
+      "status": "acquired"
+    },
     "1720_zamoysky_fedoriv": {
       "monument_id": "1720_zamoysky_fedoriv",
       "title": "Acts and Decrees of the Provincial Synod of Zamość (1720, ed. Fedoriv, Rome, 1972)",
       "short_title": "1720 Zamoysky Synod (Fedoriv)",
       "relative_pdf_path": "Historical Typikons/1972-Fedoriv-Zamoysky-Synod-1720.pdf",
+      "canonical_mirror_dir": "Historical Typikons/1972-Fedoriv-Zamoysky-Synod-1720",
       "total_physical_pages": 75,
       "default_cohort_size": 10,
       "genre_register": "juridical",
@@ -108,6 +349,7 @@
       "title": "The Theology and Liturgical Work of Andrei Sheptytsky (Peter Galadza, Rome, 2004)",
       "short_title": "2004 Galadza Sheptytsky",
       "relative_pdf_path": "Historical Typikons/2004-Galadza-Theology-and-Liturgical-Work-of-Andrei-Sheptytsky.pdf",
+      "canonical_mirror_dir": "Historical Typikons/2004-Galadza-Theology-and-Liturgical-Work-of-Andrei-Sheptytsky",
       "total_physical_pages": 537,
       "default_cohort_size": 10,
       "genre_register": "scholarly_critical",
@@ -119,6 +361,7 @@
       "title": "Great Sabbas Synodal Typikon (Church Slavonic Moscow Synodal Edition)",
       "short_title": "Great Sabbas Synodal Typikon",
       "relative_pdf_path": "Historical Typikons/Great-Sabbas-Synodal-Typikon-Church-Slavonic.pdf",
+      "canonical_mirror_dir": "Historical Typikons/Great-Sabbas-Synodal-Typikon-Church-Slavonic",
       "total_physical_pages": 816,
       "default_cohort_size": 10,
       "genre_register": "rubrical",
@@ -130,6 +373,7 @@
       "title": "Typikon of the Ukrainian Greek-Catholic Church (Lviv, 2010)",
       "short_title": "2010 Lviv Synodal Typikon",
       "relative_pdf_path": "2010 Lviv Typikon/Typyk UHKC(укр).pdf",
+      "canonical_mirror_dir": "2010 Lviv Typikon",
       "total_physical_pages": 287,
       "default_cohort_size": 10,
       "genre_register": "rubrical",

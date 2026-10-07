@@ -1,0 +1,44 @@
+
+
+## Cohort 1 Footnotes
+
+[^1]: The *Typikon of the Great Church of Christ* (*Τυπικὸν τῆς τοῦ Χριστοῦ Μεγάλης Ἐκκλησίας*), compiled by George Violakis (Protopsaltis of the Ecumenical Patriarchate) and published in Constantinople in 1888 under Patriarch Dionysios V, represents the definitive codification of the Neo-Sabaitic cathedral and parochial rite for the Greek-speaking Orthodox world. It superseded the earlier 1838 and 1851 editions compiled by Constantine the Protopsaltis.
+
+[^2]: The frontispiece reproduces the famous late ninth-century lunette mosaic over the Imperial Door leading from the inner narthex into the nave of Hagia Sophia. Christ Pantokrator is enthroned in glory, with His right hand raised in blessing and His left holding an open Gospel codex with the Johannine incipits: *«Εἰρήνη ὑμῖν. Ἐγώ εἰμι τὸ φῶς τοῦ κόσμου»* (John 20:19, 26; John 8:12). Emperor Leo VI ("the Wise", r. 886–912) kneels in humble proskynesis before His feet, imploring divine mercy.
+
+[^3]: Constantine Byzantios (d. 1862), Archon Protopsaltis of the Great Church of Christ, published the first official reformed patriarchal Typikon in Constantinople in 1838, re-edited in 1851. Violakis’s 1888 edition thoroughly systematized and revised Constantine’s texts with synodal authority.
+
+[^4]: Protopresbyter Robert T. Athas (in Greek, Epameinondas Th. Athasakos) completed his translation of the Lenten Triodion rubrics of Violakis at St. Vladimir’s Orthodox Theological Seminary (Crestwood, NY) prior to this comprehensive collaborative edition.
+
+[^5]: Presvytera (Greek: *Πρεσβυτέρα*) is the traditional title of respect accorded to the wife of an Eastern Christian presbyter (priest), corresponding to Church Slavonic *Panimatka* or *Matushka*.
+
+[^6]: 1 Corinthians 14:40: *«πάντα δὲ εὐσχημόνως καὶ κατὰ τάξιν γινέσθω»*. In the liturgical tradition of the Christian East, this apostolic precept forms the foundational theological rationale for the *taxis* (Slavonic: *chyn*, *ustav*) governing divine worship.
+
+[^7]: Theodore Bogdanos (Professor Emeritus, University of Georgia) was a distinguished musicologist, scholar, and protopsaltis whose manual *The Byzantine Liturgy: Hymnology and Order* (Denver, 1993) provided the musical and rubrical framework for liturgical synthesis between the Julian and Gregorian calendar reckonings.
+
+
+## Cohort 2 Footnotes
+
+[^8]: Protopresbyter Robert T. Athas (Epameinondas Th. Athasakos), principal translator of the Violakis Typikon, studied under Alexander Schmemann and John Meyendorff at St. Vladimir’s Orthodox Theological Seminary, where his pioneering Master of Divinity thesis (*The Triodion in the Typicon of the Great Church*, 1974) provided the initial impetus for this monumental thirty-year bilingual publication project.
+
+[^9]: Ekphonetic cantillation (*ἐκφωνητική*) represents the ancient Byzantine solemn liturgical recitation of the Holy Scriptures (the Apostolos and the Gospel), characterized by specialized neumatic inflection marks (*ekphonetic neumes*) guiding pitch accent, cadence, and solemnity. Protopresbyter Meletios Diacandrew (consecrated Bishop of Aristea in 1993) preserved this rigorous patriarchal oral tradition.
+
+[^10]: Metropolitan Isaiah (Chronopoulos) of Denver was enthroned as Bishop of Denver in 1992 and elevated to Metropolitan in 2002. His official hierarchic endorsement underscores the pastoral necessity of an authoritative, bilingual English-Greek recension of the Violakis Typikon to safeguard the uniformity of Byzantine liturgical praxis across the parishes of the Greek Orthodox Archdiocese of America.
+
+[^11]: The traditional liturgical prayer for the reposed (*Aionia i mnimi* / *Вѣчная память* / *Memory Eternal*) derives from Psalm 111:6 (LXX) and the Orthodox Funeral and Memorial Services (*Mnemosynon* / *Panakhyda*). It is inscribed here as an episcopal blessing upon the late Dr. George T. Demos (1934–2012), editor and compiler of this bilingual edition.
+
+[^12]: The Lenten Triodion (*Τριῴδιον*) contains the liturgical propers from the Sunday of the Publican and Pharisee through Holy Saturday. Fr. Athas's thesis critically examined how George Violakis codified the ancient cathedral rite of Constantinople for parish use, synthesizing the monastic Typikon of Saint Sabbas (*Hagio-Sabaitic* synthesis) with the urban pastoral needs of nineteenth-century parishes.
+
+[^13]: *«Τέλος καὶ τῷ Θεῷ δόξα!»* ("The end and glory to God!") is the time-honored Greek scribal doxological formula (*teleutaios stichos*), universally appended by Byzantine copyists, liturgists, and typikographers at the explicit of a completed codex, affirming that divine wisdom is both the source and terminus of all sacred labor.
+
+[^14]: The Greek half-title *ΜΕΤΑΦΡΑΣΙΣ ΤΥΠΙΚΟΥ* (*Translation of the Typikon*) formally introduces the core liturgical translation section of the work, separating the preliminary front matter and introductory commentaries from the operative rubrical text.
+
+[^15]: This phonetic table reflects the modern standard Greek (Demotic/Katharevousa) pronunciation system employed across the Ecumenical Patriarchate and the Greek Orthodox Archdiocese of America, differing fundamentally from the reconstructed classical Erasmian phonology by observing iotacism (whereby *η, ι, υ, ει, οι, υι* converge upon the vowel sound [i]) and soft voiced spirants.
+
+[^16]: The editorial convention establishes a rigorous, three-tier typographic taxonomy: standard parentheses `(...)` preserve the original 1888 text of George Violakis; curly brackets `{...}` designate translator additions inserted by Fr. Robert Athas to elucidate elliptic rubrics; and square brackets `[...]` contain critical expansions, biblical citations, and cross-references contributed by editors Dr. George Demos and Dr. Theodore Bogdanos.
+
+[^17]: The Patriarchal Synodal Commission of 1888 was convoked under Ecumenical Patriarch Dionysios V to undertake a comprehensive critical review of the existing liturgical typika in active use—principally the 1838 and 1851 editions compiled by Archon Protopsaltis Constantine Byzantios. Composed of four senior metropolitans (Methodios of Ainos, Gabriel of Samos, Procopios of Caesarea, and Methodios of Mytiline) alongside Archon Protopsaltis George Violakis, the Commission resolved hundreds of contradictions and ambiguities between printed books and lived patriarchal cathedral practice.
+
+[^18]: The Ninth Hour (*Enati Ora* / *Девятый час*), commemorating the Death of Christ upon the Cross at 3:00 PM, constitutes the canonical capstone of the daily daytime cursus. Because the liturgical day ends at sunset, the Ninth Hour belongs to the preceding day. The Commission codified its mandatory celebration prior to Great Vespers on the Sunday of St. Thomas (Antipascha) and before the Wednesday and Thursday Vespers of the Leavetaking of Pascha and the Ascension, establishing rubrical symmetry across the Paschal season.
+
+[^19]: The Festal Dismissal (*Apolysis*) on Great Feasts of the Lord (*Despotikai Heortai*) takes the identical proper invocation at both Great Vespers and the Divine Liturgy. Archon Protopsaltis Constantine had argued in his 1838/1851 editions that the Resurrection formula *«Ὁ ἀναστὰς ἐκ νεκρῶν»* was strictly forbidden at Sunday of All Saints Vespers because Christ's Resurrection occurred at midnight. The 1888 Commission formally overturned Constantine's restriction, decreeing that Sunday Vespers participates in the resurrectional glory of the Lord's Day.

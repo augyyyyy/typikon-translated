@@ -1,0 +1,153 @@
+{
+  "timestamp": "2026-10-07T02:51:50.958924+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 2,
+  "target_file": "1888_violakis_typikon_cohort2_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort2_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort2_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort2_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort2_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 12,
+      "definition_markers_count": 12,
+      "text_markers": [
+        "[^8]",
+        "[^9]",
+        "[^10]",
+        "[^11]",
+        "[^12]",
+        "[^13]",
+        "[^14]",
+        "[^15]",
+        "[^16]",
+        "[^17]",
+        "[^18]",
+        "[^19]"
+      ],
+      "definition_markers": [
+        "[^8]",
+        "[^9]",
+        "[^10]",
+        "[^11]",
+        "[^12]",
+        "[^13]",
+        "[^14]",
+        "[^15]",
+        "[^16]",
+        "[^17]",
+        "[^18]",
+        "[^19]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort2_raw_draft.md",
+      "passed": true,
+      "paragraphs": 114,
+      "headings_count": 16,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "ACKNOWLEDGEMENTS"
+        },
+        {
+          "line": 5,
+          "level": 3,
+          "title": "By Dr. George T. Demos"
+        },
+        {
+          "line": 43,
+          "level": 1,
+          "title": "GREEK ORTHODOX METROPOLIS OF DENVER"
+        },
+        {
+          "line": 45,
+          "level": 2,
+          "title": "INTRODUCTORY COMMENTARY"
+        },
+        {
+          "line": 79,
+          "level": 1,
+          "title": "INTRODUCTION TO THE ENGLISH TRANSLATION"
+        },
+        {
+          "line": 96,
+          "level": 1,
+          "title": "TYPIKON TRANSLATION"
+        },
+        {
+          "line": 98,
+          "level": 2,
+          "title": "(ΜΕΤΑΦΡΑΣΙΣ ΤΥΠΙΚΟΥ)[^14]"
+        },
+        {
+          "line": 104,
+          "level": 1,
+          "title": "GUIDE TO PHONETIC USAGE[^15]"
+        },
+        {
+          "line": 106,
+          "level": 2,
+          "title": "(ΦΩΝΗΤΙΚΟΣ ΟΔΗΓΟΣ)"
+        },
+        {
+          "line": 108,
+          "level": 3,
+          "title": "Compiled by George T. Demos, M.D."
+        },
+        {
+          "line": 126,
+          "level": 3,
+          "title": "DIPHTHONGS AND COMPOUND CONSONANTS"
+        },
+        {
+          "line": 149,
+          "level": 1,
+          "title": "ADDITIONAL READING INSTRUCTIONS[^16]"
+        },
+        {
+          "line": 151,
+          "level": 2,
+          "title": "(ΕΠΙΠΡΟΣΘΕΤΑΙ ΟΔΗΓΙΑΙ ΑΝΑΓΝΩΣΕΩΣ)"
+        },
+        {
+          "line": 163,
+          "level": 1,
+          "title": "ΟΔΗΓΙΑΙ ΚΑΙ ΠΑΡΑΤΗΡΗΣΕΙΣ"
+        },
+        {
+          "line": 165,
+          "level": 2,
+          "title": "ΕΠΙ ΤΩΝ ΠΡΟΗΓΟΥΜΕΝΩΝ ΕΚΔΟΣΕΩΝ ΤΟΥ ΤΥΠΙΚΟΥ[^17]"
+        }
+      ],
+      "numbered_items_count": 3,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 11,
+        "max_leaf": 20
+      },
+      "anomalies": []
+    }
+  }
+}
