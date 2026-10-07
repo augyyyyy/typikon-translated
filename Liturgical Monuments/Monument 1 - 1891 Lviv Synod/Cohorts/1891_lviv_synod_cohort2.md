@@ -1,10 +1,49 @@
 # Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)
-## Cohort 4: Physical Pages 21–40 (Leaves p21–p40)
-### Raw Draft Translation (Juridical / Canonical Register)
+## Cohort 2: Physical Pages 21–40 (Leaves p21–p40)
+
+> [!NOTE]
+> **Historical & Canonical Significance**  
+> Cohort 4 of the **1891 Lviv Provincial Synod** (*Чинности и рѣшеня руского провинціяльного Собора въ Галичинѣ ôтбувшого ся во Львовѣ въ роцѣ 1891*) details the procedural, liturgical, and statutory constitution of the conciliar assemblies. It encompasses the conclusion of the preparatory prayers in the Metropolitan Chapel, the solemn oath of secrecy (*secretum synodale*) sworn by the clergy and the lay Senior of the Stauropegion Institute, the statutory Instruction defining the competencies of Synodal Judges (*Judices Querelarum et Excusationum*), Promoters, Secretaries, Notaries, and Masters of Ceremonies, the formal decrees prepared for Session I (Decrees on the Opening, Profession of Faith according to Urban VIII, Manner of Life, Non-Infringement of Rights, and Prohibition of Unauthorized Withdrawal), the complete liturgical ordo and civic-ecclesiastical procession for the First Public and Solemn Session with the Hierarchical Divine Liturgy of the Holy Spirit in St. George Cathedral, the episcopal suffrage and solemn profession of faith upon the Holy Gospels, the establishment and working methodology of the three conciliar Commissions (Dogmatic-Disciplinary, Rubrical-Liturgical, Monastic-Administrative) at the General Seminary of Lviv, the protocols of General Congregations II and III and Session II, and the ceremonies of the Final Session—including the statutory nomination and oath of the Synodal Witnesses (*Testes Synodales*) for Lviv, Przemyśl, and Stanyslaviv, the conciliar subscription protocol at the High Altar (*Velykyi Prestol*) modeled upon the 1720 Synod of Zamość, and the convocation decree appointing the next Provincial Synod for 1896.
 
 ---
 
-[Leaf p21 / Page 19]
+## Table of Contents
+1. [Continuation of the Preparatory General Congregation (Leaves p21–p29 / pp. 19–27)](#continuation-of-the-preparatory-general-congregation)
+   - [Concluding Preparatory Prayers & Address (Leaf p21 / p. 19)](#concluding-preparatory-prayers--address)
+   - [Solemn Oath of Synodal Secrecy (Leaves p21–p22 / pp. 19–20)](#solemn-oath-of-synodal-secrecy)
+   - [Nomination of Synodal Officials & Statutory Instruction (Leaves p22–p24 / pp. 20–22)](#statutory-instruction-for-synodal-officials)
+   - [Examination of Chapter Credentials (Leaf p25 / p. 23)](#examination-of-chapter-credentials)
+   - [Statutory Decrees Prepared for Session I (Leaves p25–p28 / pp. 23–26)](#statutory-decrees-prepared-for-session-i)
+     - [1. Decree on the Opening of the Synod](#1-decree-on-the-opening-of-the-synod)
+     - [2. Decree on the Making of the Profession of Faith](#2-decree-on-the-making-of-the-profession-of-faith)
+     - [3. Decree on the Manner of Life during the Time of the Synod](#3-decree-on-the-manner-of-life-during-the-time-of-the-synod)
+     - [4. Decree on the Non-Infringement of the Rights of Others](#4-decree-on-the-non-infringement-of-the-rights-of-others)
+     - [5. Decree That It Is Not Permitted to Withdraw from the Synod](#5-decree-that-it-is-not-permitted-to-withdraw-from-the-synod)
+   - [Decree Announcing the Second Session (Leaves p28–p29 / pp. 26–27)](#decree-announcing-the-second-session)
+   - [Concluding Congregation Prayers & Citywide Bell-Tolling (Leaf p29 / p. 27)](#concluding-congregation-prayers--citywide-bell-tolling)
+2. [First Public and Solemn Session (Leaves p29–p34 / pp. 27–32)](#first-public-and-solemn-session)
+   - [Civic & Ecclesiastical Procession Order (Leaves p29–p30 / pp. 27–28)](#civic--ecclesiastical-procession-order)
+   - [Hierarchical Divine Liturgy of the Holy Spirit (Leaves p30–p31 / pp. 28–29)](#hierarchical-divine-liturgy-of-the-holy-spirit)
+   - [Opening of the Synod and Episcopal Suffrage (Leaves p31–p32 / pp. 29–30)](#opening-of-the-synod-and-episcopal-suffrage)
+   - [Solemn Profession of Faith upon the Holy Gospels (Leaf p32 / p. 30)](#solemn-profession-of-faith-upon-the-holy-gospels)
+   - [Promulgation of Synodal Decrees & Appointment of Judges (Leaves p33–p34 / pp. 31–32)](#promulgation-of-synodal-decrees--appointment-of-judges)
+   - [Designation of the Second Session & Recording of Acts (Leaf p34 / p. 32)](#designation-of-the-second-session--recording-of-acts)
+3. [Working Methodology of the Synod: General Congregation II & The Three Commissions (Leaves p34–p36 / pp. 32–34)](#working-methodology-of-the-synod)
+   - [Assembly at the General Seminary Church (Leaf p34 / p. 32)](#assembly-at-the-general-seminary-church)
+   - [Constitution and Mandates of the Three Synodal Commissions (Leaves p34–p35 / pp. 32–33)](#constitution-and-mandates-of-the-three-synodal-commissions)
+   - [Daily Commission Meetings, Written Memorials, & Protocols (Leaves p35–p36 / pp. 33–34)](#daily-commission-meetings-written-memorials--protocols)
+4. [Congregation III in Order (General Congregation II) (Leaf p36 / p. 34)](#congregation-iii-in-order-general-congregation-ii)
+5. [Second Public and Solemn Session (Leaves p37–p38 / pp. 35–36)](#second-public-and-solemn-session)
+6. [Final Session and Conclusion of the Synod (Leaves p38–p40 / pp. 36–38)](#final-session-and-conclusion-of-the-synod)
+   - [Statutory Nomination of Synodal Witnesses (*Testes Synodales*) (Leaves p38–p39 / pp. 36–37)](#statutory-nomination-of-synodal-witnesses)
+   - [Solemn Gospel Oath of the Synodal Witnesses (Leaf p39 / p. 37)](#solemn-gospel-oath-of-the-synodal-witnesses)
+   - [Subscription of Synodal Decrees at the High Altar (Leaves p39–p40 / pp. 37–38)](#subscription-of-synodal-decrees-at-the-high-altar)
+   - [Decree Appointing the Next Provincial Synod in 1896 (Leaf p40 / p. 38)](#decree-appointing-the-next-provincial-synod-in-1896)
+7. [Scholarly Critical Apparatus & Footnotes](#scholarly-critical-apparatus--footnotes)
+
+---
+
+*(Physical Page 19 / Leaf p21)*
 
 *Then, having risen from genuflection, all recite further the following prayers:* "Holy God, Holy Mighty, Holy Immortal, have mercy on us" *(3 times);* "Glory be: Both now: Our Father" *and the rest.*  
 *The Metropolitan exclaims:* "For Thine is the kingdom" *and the rest. The clergy:* "Amen."  
@@ -15,11 +54,11 @@
 *And at the conclusion all recite once the Angelic Salutation:* "Theotokos and Virgin, rejoice" *and the rest.*  
 *Upon the completion of these prayers, the Metropolitan, having turned toward those assembled, shall greet them with a short address and set forth the purpose and necessity of the Synod.*  
 *Following the address, the Most Reverend Metropolitan, by mutual understanding and agreement of the Bishops, shall summon all priests present and the lay Senior of the Stauropegion Institute to make a pledge that they shall observe secrecy concerning everything that shall be deliberated in the Synod, and that more or less according to the following formula:*  
-"All those here present promise upon priestly conscience (and the layman upon word of honor) that the decisions and everything else that shall be presented unto them for examination, as well as the deliberations and opinions of each individual, they shall not disclose nor reveal unto anyone outside the assembly of the Synod [^37], until the decisions shall have been verified and promulgated by the Holy Apostolic See [^38]."
+"All those here present promise upon priestly conscience (and the layman upon word of honor) that the decisions and everything else that shall be presented unto them for examination, as well as the deliberations and opinions of each individual, they shall not disclose nor reveal unto anyone outside the assembly of the Synod [^11], until the decisions shall have been verified and promulgated by the Holy Apostolic See [^12]."
 
 ---
 
-[Leaf p22 / Page 20]
+*(Physical Page 20 / Leaf p22)*
 
 *At this summons, all, according to the dignity of their station and rank, shall approach the Metropolitan and promise upon their honor to keep secrecy in the following words:*  
 "I promise this upon priestly conscience (and the layman: upon word of honor)."  
@@ -42,7 +81,7 @@ The duties of the Synodal Judges in the present times comprise the following poi
 
 ---
 
-[Leaf p23 / Page 21]
+*(Physical Page 21 / Leaf p23)*
 
 4) The Judges shall watch over the preservation of secrecy and with discretion admonish those who fail to observe it.  
 5) It shall be the duty of the President to ensure that the proceedings of the Judges are recorded in a separate book, commonly called the "Protocol," and that upon the conclusion of the Synod a report of the proceedings be presented unto the Metropolitan.
@@ -60,7 +99,7 @@ The duties of the Synodal Judges in the present times comprise the following poi
 
 ---
 
-[Leaf p24 / Page 22]
+*(Physical Page 22 / Leaf p24)*
 
 **d) Duties of the Notaries of the Synod.**  
 1) It shall be the duty of the Notaries to draw up the minutes of proceedings that shall be transacted at the individual sessions of particular Congregations. These minutes, having been read aloud if the President of the Congregation so directs, they shall present unto the President in due time for signature and safekeeping.  
@@ -79,7 +118,7 @@ It shall be the duty of the Masters of Ceremonies to oversee that at General Con
 
 ---
 
-[Leaf p25 / Page 23]
+*(Physical Page 23 / Leaf p25)*
 
 *When the Officials of the Synod have been announced, the first Secretary shall summon the proxies of the Chapters to present their credentials unto the Most Reverend Metropolitan. When they have done so in order, they shall, with the agreement of the Provincial Bishops, be approved and admitted to the Synod.*  
 *Then the Metropolitan shall ask the participants whether they know of anyone who is not present at this Synod who ought by right or custom to be present.*  
@@ -88,11 +127,11 @@ It shall be the duty of the Masters of Ceremonies to oversee that at General Con
 ### 1. Decree on the Opening of the Synod
 In the name of the Holy, Consubstantial, Life-Creating, and Undivided Trinity, Father, and Son, and Holy Spirit.  
 We, Sylvester Sembratovych, by the grace of God and of the Apostolic See Metropolitan of Halych, Archbishop of Lviv, Bishop of Kamianets; unto the praise and glory of Almighty God; in honor of the Most Blessed and Immaculate Ever-Virgin Mary Theotokos; of St. Joseph, Spouse of the same Queen of Heaven; of St. Michael the Archangel; of our Holy Apostles Cyril and Methodius; of the Holy Hieromartyr Josaphat; of the holy and glorious God-crowned Ruthenian princes Volodymyr and Olha; of the holy Great-Martyr George and of all the Saints; as well as unto the glory of Holy Mother Catholic Church and the increase of holy Union and communion with the Holy Apostolic See; by the counsel and agreement of the Most Reverend and Right Reverend Provincial Bishops, — decree and determine that on the 15th (27th N.S.) day of September, on the Sunday after the Exaltation of the Precious Cross, the Provincial Synod shall begin, which by Our Metropolitan authority We have announced, proclaimed, and promulgated.  
-May the Father of our Lord Jesus Christ, the Father of mercies and God of all comfort [^39] look down to our aid, and grant that we may sense the presence in our midst of the same Jesus Christ, His Only-Begotten Son, in Whose most holy Name we have assembled; and may the Holy Spirit, proceeding from the Father and the Son, enlighten our mind with the light of His grace and inflame our hearts. Amen.
+May the Father of our Lord Jesus Christ, the Father of mercies and God of all comfort [^13] look down to our aid, and grant that we may sense the presence in our midst of the same Jesus Christ, His Only-Begotten Son, in Whose most holy Name we have assembled; and may the Holy Spirit, proceeding from the Father and the Son, enlighten our mind with the light of His grace and inflame our hearts. Amen.
 
 ---
 
-[Leaf p26 / Page 24]
+*(Physical Page 24 / Leaf p26)*
 
 ### 2. Decree on the Making of the Profession of Faith
 In the name of the Holy, Consubstantial, Life-Creating, and Undivided Trinity, etc.  
@@ -106,21 +145,21 @@ Whereas We are conscious that Our powers are insufficient for so momentous an ob
 
 ---
 
-[Leaf p27 / Page 25]
+*(Physical Page 25 / Leaf p27)*
 
-...virtues with which they are endowed, they might unceasingly direct unto the spiritual benefit of the province. Let them likewise strive, especially by salvific counsels and holy prayers, to assist the synodal work which We, by the cooperation of the Holy Spirit, have begun this day. The Honorable Dignitaries, Canons, and all Priests who have assembled with Us, and all other Ecclesiastical Men We admonish and adjure by the mercy of God, that, as at all times they shine before layfolk by the light of their virtues, so especially during the celebration of this Synod they conduct themselves in a manner pleasing unto God, mindful of their office, and live holily, as befitteth those who are called unto the service of the Lord; likewise that by the most holy Sacrifice of the Divine Liturgy they devoutly assist the work of this Synod, and with pure prayers implore God, the Giver of all good things, to grant unto Our minds the light of His grace, that We may adopt the best counsels and decree salvific enactments. — All and each of the citizens and inhabitants of the city of Lviv, beloved unto Us in Christ, We admonish and summon in the Lord, that, as always, so especially during this Synod, they elevate their spirit unto zeal for Christian virtues, that they entirely abstain from evil, turn away from carnal lusts, apply themselves unto prayer, feed Christ the Son of God in the poor, confess their sins, fortify themselves with the Bread of Angels, and daily with devout prayers implore the God of mercies, that We, in celebrating this Synod and in every pastoral undertaking, may serve the glory of God and the salvation of souls with reverent solicitude [^40].
+...virtues with which they are endowed, they might unceasingly direct unto the spiritual benefit of the province. Let them likewise strive, especially by salvific counsels and holy prayers, to assist the synodal work which We, by the cooperation of the Holy Spirit, have begun this day. The Honorable Dignitaries, Canons, and all Priests who have assembled with Us, and all other Ecclesiastical Men We admonish and adjure by the mercy of God, that, as at all times they shine before layfolk by the light of their virtues, so especially during the celebration of this Synod they conduct themselves in a manner pleasing unto God, mindful of their office, and live holily, as befitteth those who are called unto the service of the Lord; likewise that by the most holy Sacrifice of the Divine Liturgy they devoutly assist the work of this Synod, and with pure prayers implore God, the Giver of all good things, to grant unto Our minds the light of His grace, that We may adopt the best counsels and decree salvific enactments. — All and each of the citizens and inhabitants of the city of Lviv, beloved unto Us in Christ, We admonish and summon in the Lord, that, as always, so especially during this Synod, they elevate their spirit unto zeal for Christian virtues, that they entirely abstain from evil, turn away from carnal lusts, apply themselves unto prayer, feed Christ the Son of God in the poor, confess their sins, fortify themselves with the Bread of Angels, and daily with devout prayers implore the God of mercies, that We, in celebrating this Synod and in every pastoral undertaking, may serve the glory of God and the salvation of souls with reverent solicitude [^14].
 
 ### 4. Decree on the Non-Infringement of the Rights of Others
 In the name of the Holy, Consubstantial Trinity... etc. We, S. S., Metropolitan, etc. *(as above),* decree and declare that if it should happen by chance that anyone, not possessing the right, were present in this Synod, or, possessing the right, were absent; or that anyone should not sit in the seat belonging unto him, or, without observing the order, should take the floor, or perform any other actions during the Synod: no one may infer therefrom that anyone's rights acquired outside the Synod are thereby infringed, just as similarly none of them acquires any new right and nothing is taken away from anyone...
 
 ---
 
-[Leaf p28 / Page 26]
+*(Physical Page 26 / Leaf p28)*
 
 ...of his rights or possession, but everything remains valid and inviolable in the very same state in which it previously stood before this Provincial Synod commenced.
 
 ### 5. Decree That It Is Not Permitted to Withdraw from the Synod
-We, S. S., Metropolitan, etc. *(as above).* We implore and admonish the Most Reverend Bishops who are obliged to sit in this Provincial Synod that, until the same be concluded and until it be dismissed according to custom, they depart not from the city of Lviv without just cause. If, however, any Bishop, for a verified cause approved by Us, should receive permission from Us to depart, he is bound to leave a suitable proxy, who shall accept in his name and that of his Church the decisions and decrees of the Synod and subscribe the same, as is the custom. Furthermore, all others sitting together with Us in the Synod We admonish and command that they do not depart before the conclusion of the Synod without a cause acknowledged by the Judges of Excuses and approved by Us [^41].  
+We, S. S., Metropolitan, etc. *(as above).* We implore and admonish the Most Reverend Bishops who are obliged to sit in this Provincial Synod that, until the same be concluded and until it be dismissed according to custom, they depart not from the city of Lviv without just cause. If, however, any Bishop, for a verified cause approved by Us, should receive permission from Us to depart, he is bound to leave a suitable proxy, who shall accept in his name and that of his Church the decisions and decrees of the Synod and subscribe the same, as is the custom. Furthermore, all others sitting together with Us in the Synod We admonish and command that they do not depart before the conclusion of the Synod without a cause acknowledged by the Judges of Excuses and approved by Us [^15].  
 *After the reading of these decrees, the Metropolitan shall ask those present in the words:* "Most Reverend and Very Reverend Fathers, are the decrees just read pleasing unto you, and at the same time is it pleasing unto you that, as they have been read, they be promulgated at the first solemn session?" *The Fathers answer:* "They are pleasing." — *Whereupon the Metropolitan declares:* "The Fathers accept the decrees that have been read; wherefore, by their agreement, We confirm them as they were read, and likewise decree that they be promulgated at the first session of the Synod."  
 *After all this, the Metropolitan, with the agreement of the Bishops, shall appoint and command the announcement of the second synodal session in order, by the following decree:*
 
@@ -129,7 +168,7 @@ In the name of the Holy, Consubstantial Trinity, etc. We, S. S., Metropolitan...
 
 ---
 
-[Leaf p29 / Page 27]
+*(Physical Page 27 / Leaf p29)*
 
 ...yet so that the designated term may in General Congregation be freely shortened or extended, as shall appear most expedient for the affairs of the Synod. — *Thereafter the Promoters shall request the Metropolitan to command the drawing up of the record of proceedings of this first Congregation. The Metropolitan shall so command.*  
 *This preparatory and first Congregation shall conclude with thanksgiving unto God, and that with the following prayers:*  
@@ -149,7 +188,7 @@ In the name of the Holy, Consubstantial Trinity, etc. We, S. S., Metropolitan...
 
 ---
 
-[Leaf p30 / Page 28]
+*(Physical Page 28 / Leaf p30)*
 
 *At the signal given by the Masters of Ceremonies and upon the tolling of all the bells of the city, the procession shall set out toward the Metropolitan Church in the following order:*  
 *The Cross of the Archeparchial Cathedral Church shall be borne by one of the senior members of the brotherhood of the same Church.*  
@@ -174,7 +213,7 @@ In the name of the Holy, Consubstantial Trinity, etc. We, S. S., Metropolitan...
 
 ---
 
-[Leaf p31 / Page 29]
+*(Physical Page 29 / Leaf p31)*
 
 *Note: This order shall be observed at all public Sessions that shall be celebrated, with this distinction only, that when one of the Provincial Bishops shall celebrate the Divine Liturgy, the seat for him shall be prepared opposite the Metropolitan throne.*  
 *The Most Reverend Metropolitan, vested in all hierarchical vestments and the pallium, shall begin the solemn Divine Liturgy for the invocation of the assistance of the Holy Spirit, as found in our Ruthenian Sluzhebniks. After the reading of the Gospel, either the officiating Metropolitan himself or another person designated shall deliver a spiritual discourse unto the assembled faithful.*  
@@ -187,7 +226,7 @@ In the name of the Holy, Consubstantial Trinity, etc. We, S. S., Metropolitan...
 
 ---
 
-[Leaf p32 / Page 30]
+*(Physical Page 30 / Leaf p32)*
 
 *...from the assigned place. — After the reading of the decree, which the Bishops hear seated, but the rest standing, the second Secretary shall approach with one of the Notaries individually unto each of the Provincial Bishops and inquire concerning their opinion, saying:* "Will Your Grace deign to declare whether you accept the decree on the opening of the Synod just read?" *Upon the reply of both:* "I accept," *the Secretary returns to the Metropolitan, and presenting unto him the reply of the Bishops, shall say:* "The Most Reverend Bishops accept the Decree." *Whereupon the Metropolitan announces:*  
 "With the agreement of the Most Reverend Bishops, We decree and hereby declare the opening of the Synod, which has indeed taken place."  
@@ -200,7 +239,7 @@ In the name of the Holy, Consubstantial Trinity, etc. We, S. S., Metropolitan...
 
 ---
 
-[Leaf p33 / Page 31]
+*(Physical Page 31 / Leaf p33)*
 
 *Then the first Promoter shall move that the Decrees which are customarily promulgated at the beginning of a provincial Synod be read aloud, in the words:*  
 "Your Grace! According to the ancient custom of the Church, the practice has ever been observed that at the opening of a provincial Synod the following Decrees should be issued and promulgated, namely:  
@@ -215,7 +254,7 @@ The Decree on the manner of life during the Synod and the Decree on non-departur
 
 ---
 
-[Leaf p34 / Page 32]
+*(Physical Page 32 / Leaf p34)*
 
 *...held on the N. day, on the N. Sunday of the month of N., yet so that the designated term may in General Congregation be freely shortened or extended, as shall appear profitable for the affairs of the Synod?" And having received the reply:* "It is pleasing," *he shall report this unto the Metropolitan and receive from him the decree announcing the second session and read it aloud publicly.*  
 *Finally, the Promoter of the Synod moves that the acts of this session be drawn up, in the words:* "I, N. N., Promoter of this Synod, remind and request you, Reverend Notaries appointed for this Synod, that according to your duty you record carefully all who were present at this first Session, and prepare an accurate and trustworthy report of everything that was deliberated and transacted."  
@@ -231,7 +270,7 @@ The Decree on the manner of life during the Synod and the Decree on non-departur
 
 ---
 
-[Leaf p35 / Page 33]
+*(Physical Page 33 / Leaf p35)*
 
 *Three such Commissions shall be established, and their task shall be properly to deliberate and prepare everything that is subsequently to be decided publicly. Namely:*  
 *Commission I shall consist of a president (one of the Bishops), a vice-president, and 8 or 10 members or consultors, as well as one Notary.*  
@@ -245,7 +284,7 @@ The Decree on the manner of life during the Synod and the Decree on non-departur
 
 ---
 
-[Leaf p36 / Page 34]
+*(Physical Page 34 / Leaf p36)*
 
 *The subjects examined by the General Congregations shall be weighed once again by the Bishops with the Metropolitan, and finally by a majority of their votes they shall definitively resolve what is to be established and decreed; these decisions the Metropolitan shall subsequently order to be read aloud and promulgated at the public Sessions.*  
 *Here it is also to be observed that during the deliberations both of particular and of General Congregations, it must lie upon the heart of the members of the Synod to weigh everything diligently and maturely; and if anything should appear doubtful unto them, or such as ought to be amended, added, or omitted, each shall be free, in proper turn, to express his opinion, stating therewith the reason for the desired amendment. But in order that it may be known with certainty and precision what opinion each has expressed, each member shall submit his proposals together with the arguments supporting them in brief written form to the President of the Congregation or to the Notary performing the duties of Secretary, which shall subsequently be annexed unto the Acts.*  
@@ -257,7 +296,7 @@ The Decree on the manner of life during the Synod and the Decree on non-departur
 
 ---
 
-[Leaf p37 / Page 35]
+*(Physical Page 35 / Leaf p37)*
 
 ## Second Public and Solemn Session
 *At the appointed day and hour, according to the ceremonial indicated for the first Session, the Metropolitan with the Most Reverend Bishops, the Metropolitan Chapter, and all who are obliged to be present at the Sessions of the Synod, shall proceed in procession from the Metropolitan Palace to the Archeparchial Cathedral Church. The solemn synodal Divine Liturgy shall be celebrated by one of the Provincial Bishops. Thereafter all proceed to the place of the Sessions, and after the performance of the prayers and the celebration of the holy rite in due order, one of the Most Reverend Bishops shall deliver a short homily. Following the homily, the Promoter shall move the promulgation of the Decrees, more or less in these words:*  
@@ -268,33 +307,33 @@ The Decree on the manner of life during the Synod and the Decree on non-departur
 
 ---
 
-[Leaf p38 / Page 36]
+*(Physical Page 36 / Leaf p38)*
 
 *At the first Session the Metropolitan himself shall deliver the discourse, and the concluding blessing at all public Sessions shall likewise be imparted by the Metropolitan himself.*
 
 ## Final Session and Conclusion of the Synod
 *On the designated day and hour, the Metropolitan, the Most Reverend Bishops, and all who were present at the procession of the first Session, shall proceed according to that same rite and order as on that occasion to the Metropolitan Church, and there everything shall be conducted in the manner already indicated. When it therefore appears that there remains nothing further to be transacted in the Synod, the Promoter of the Synod shall move the election of Synodal Witnesses, more or less in these words:*  
-"Your Grace! Ancient custom observed at provincial councils requires that at least two Synodal Witnesses be elected and appointed for each Eparchy. Wherefore I, N. N., appointed Promoter of this Synod, move and most humbly pray that Your Grace deign to resolve upon the promulgation of the decree concerning the Synodal Witnesses to be elected and those chosen" [^42]. *The Metropolitan shall say:* "This We decree and command."  
+"Your Grace! Ancient custom observed at provincial councils requires that at least two Synodal Witnesses be elected and appointed for each Eparchy. Wherefore I, N. N., appointed Promoter of this Synod, move and most humbly pray that Your Grace deign to resolve upon the promulgation of the decree concerning the Synodal Witnesses to be elected and those chosen" [^16]. *The Metropolitan shall say:* "This We decree and command."  
 *Whereupon the Secretary receives the decree of nomination of the Witnesses and proclaims the same in these words:*  
 "S. S., Metropolitan... etc. Whereas custom in the celebration of provincial synods requires that for each Eparchy of this Province two churchmen, venerable in age and morals, prudent, and loving blameless life and discipline, should be chosen and constituted as Synodal Witnesses, whose duty it is diligently to see to it that the statutes and enactments issued by this Synod, when promulgated after receiving Apostolic approval, be everywhere introduced throughout the province; and besides this, it belongs unto them to report sincerely and according to the truth unto the Metropolitan of the Province—either before a future Synod, should this be required, or subsequently in the assembled Synod—concerning everything that, from the conclusion of this Synod until the nearest provincial Synod, should run contrary to the order of the Church and due discipline, and concerning all defects or abuses, whether among the clergy or among the faithful of their Eparchy, of which they may have learned and which ought to be eliminated through a Synod..."
 
 ---
 
-[Leaf p39 / Page 37]
+*(Physical Page 37 / Leaf p39)*
 
-"...have represented the truth. Wherefore, adhering unto this custom, We have resolved to choose and appoint two Synodal Witnesses for each Diocese [^43]. We therefore name as Synodal Witnesses:  
+"...have represented the truth. Wherefore, adhering unto this custom, We have resolved to choose and appoint two Synodal Witnesses for each Diocese [^17]. We therefore name as Synodal Witnesses:  
 1) For Our Archeparchy: a) N. N., b) N. N.  
 2) For the Eparchy of Przemyśl: a) N. N., b) N. N.  
 3) For the Eparchy of Stanyslaviv: a) N. N., b) N. N.  
 Those among them who are present shall be summoned unto the Most Reverend Metropolitan and take an oath before him upon the Holy Gospel in the following manner:  
-'I, N. N., appointed by the Most Reverend Metropolitan as Synodal Witness for the Eparchy of N., promise, vow, and swear from henceforth and for the future, that concerning everything that in whatever way I shall hear and learn with certainty that might be desirable for the implementation of the Decrees of this Synod, when they shall have been lawfully promulgated; as also whatever from the conclusion of this Synod until the nearest provincial Synod should run contrary to good ecclesiastical order and wholesome discipline; as well as concerning all defects and abuses, whether among the clergy or among the people of my Eparchy, of which I might become aware and which ought to be eliminated through a Synod: I shall report conscientiously and truthfully unto the Metropolitan, either before a future Synod, should this be required of me, or subsequently in the assembled Synod. So help me God and this His holy Gospel' [^44].  
+'I, N. N., appointed by the Most Reverend Metropolitan as Synodal Witness for the Eparchy of N., promise, vow, and swear from henceforth and for the future, that concerning everything that in whatever way I shall hear and learn with certainty that might be desirable for the implementation of the Decrees of this Synod, when they shall have been lawfully promulgated; as also whatever from the conclusion of this Synod until the nearest provincial Synod should run contrary to good ecclesiastical order and wholesome discipline; as well as concerning all defects and abuses, whether among the clergy or among the people of my Eparchy, of which I might become aware and which ought to be eliminated through a Synod: I shall report conscientiously and truthfully unto the Metropolitan, either before a future Synod, should this be required of me, or subsequently in the assembled Synod. So help me God and this His holy Gospel' [^18].  
 As regards the other appointed Witnesses who may not be present, the Most Reverend Metropolitan shall command that they take that same oath before their own Bishop, and that the Bishops subsequently notify the Metropolitan thereof.  
 Thereafter the Promoter shall request the signing of the Synod in these words:  
-'Your Grace! Whereas after the promulgation of the Decrees which with the help of God have been established in this Synod, and which have been accepted by the Most Reverend Fathers, it yet remains that the Very Reverend Fathers sign the same before the closing of the Synod: I, Promoter of the same Synod, move and pray that Your Grace deign to direct the signing of the Decrees' [^45]."
+'Your Grace! Whereas after the promulgation of the Decrees which with the help of God have been established in this Synod, and which have been accepted by the Most Reverend Fathers, it yet remains that the Very Reverend Fathers sign the same before the closing of the Synod: I, Promoter of the same Synod, move and pray that Your Grace deign to direct the signing of the Decrees' [^19]."
 
 ---
 
-[Leaf p40 / Page 38]
+*(Physical Page 38 / Leaf p40)*
 
 *The Most Reverend Metropolitan shall declare:* "This We decree and command." *Whereupon the Secretary receives the said Decree and reads it aloud, namely:*  
 "S. S., Metropolitan... etc.  
@@ -305,3 +344,25 @@ When We, by the help of God, have reached the point where everything that it was
 *And the Secretary shall read aloud the Decree of the following tenor:*  
 "S. S.... etc. Following the ancient custom of provincial synods, according to which at the conclusion of the final Session the time of the nearest subsequent Synod is designated and appointed: with the agreement of Our Most Reverend Provincial Bishops, We decree and determine that the next subsequent Provincial Synod shall take place in the year 1896; yet so that this date may be freely shortened or extended, as the circumstances in Our Province shall require for the growth and welfare of the Church."  
 *Finally, the Promoter moves the closing of the Synod in the words:*
+
+---
+
+## Scholarly Critical Apparatus & Footnotes
+
+[^11]: The First Vatican Council (1869–1870), *Constitutio Dogmatica Prima de Ecclesia Christi* (*Pastor Aeternus*), and its preliminary procedural regulations (c. 27), strictly mandated confidentiality concerning conciliar drafts, schema distributions, and internal oral votes to protect free theological deliberation from external political interference and secular press misrepresentation until official papal confirmation and promulgation. The synodal oath of secrecy (*secretum synodale*) was likewise standard canonical practice across post-Tridentine provincial councils.
+
+[^12]: The Provincial Council of Orvieto (celebrated under the Archdiocese of Florence / Etruria in Central Italy), tit. 23, governing the exact wording of the obligation of secrecy imposed upon non-episcopal consultors, religious superiors, and lay auditors until acts and decrees receive recognitio from the Holy See.
+
+[^13]: 2 Corinthians 1:3: "Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort" (Septuagint / Vulgate: *Benedictus Deus et Pater Domini nostri Jesu Christi, Pater misericordiarum, et Deus totius consolationis*).
+
+[^14]: The Provincial Council of Vienna (1885), celebrated under Cardinal Archbishop Cölestin Joseph Ganglbauer, Tit. I *De ratione vitae tempore concilii ducenda*, which enjoined intensified communal prayer, reception of the Holy Mysteries, fasting, and works of charity upon the faithful and clergy during the celebration of provincial assemblies to invoke divine assistance upon the synodal deliberations.
+
+[^15]: The Provincial Council of Vienna (1885), Tit. I, cap. 3, confirming ancient canonical jurisprudence (Council of Trent, Sess. 24, c. 2 *de Reformatione*) forbidding any prelate or synodal member who has taken his seat from departing from the council prior to its solemn closure without legitimate cause formally examined by the Court of Excuses (*Judices Excusationum*) and approved by the Metropolitan.
+
+[^16]: The Provincial Council of Cologne (1859), celebrated under Cardinal Archbishop Johannes von Geissel, Tit. VII *De Testibus Synodalibus*, reviving the ancient canonical office of synodal witnesses (*testes synodales*) established in the medieval Church and reaffirmed by Pope Benedict XIV (*De Synodo Dioecesana*, lib. II, cap. 5). The synodal witnesses were upright clerics appointed for each diocese to oversee the promulgation and uniform enforcement of conciliar decrees and to report disciplinary abuses to the Metropolitan prior to the next provincial synod.
+
+[^17]: The Provincial Council of Cologne (1859), Tit. VII, prescribing the statutory constitution of two synodal witnesses per diocese and detailing the procedure for their nomination and confirmation before the close of the council.
+
+[^18]: The Provincial Council of Cologne (1859), Tit. VII, formula of the solemn oath (*juramentum testium synodalium*) taken upon the Holy Gospels by the appointed synodal witnesses, binding them to investigate and faithfully report infractions of conciliar statutes and moral discipline to the Metropolitan without partiality or human respect.
+
+[^19]: The Provincial Council of Cologne (1859), Tit. VIII *De subscriptione et clausura Concilii*, setting forth the canonical protocol whereby all voting members and consultative participants subscribe the conciliar acts at the solemn closing session prior to the formal recess of the assembly.

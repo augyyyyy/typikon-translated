@@ -1,0 +1,362 @@
+{
+  "timestamp": "2026-10-06T01:45:59.290205+00:00",
+  "target_file": "1891_lviv_synod_complete.md",
+  "total_lines_analyzed": 4350,
+  "total_recension_hits": 43,
+  "primary_recension": "ruthenian_kyivan",
+  "primary_recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+  "affinity_scores": {
+    "ruthenian_kyivan": 55.81,
+    "post_zamosc_galician": 39.53,
+    "muscovite_synodal": 0.0,
+    "neo_sabbaitic_greek": 4.65
+  },
+  "hits_by_recension": {
+    "ruthenian_kyivan": 24,
+    "post_zamosc_galician": 17,
+    "muscovite_synodal": 0,
+    "neo_sabbaitic_greek": 2
+  },
+  "hits_by_dimension": {
+    "prosphora_count": {
+      "ruthenian_kyivan": 0,
+      "post_zamosc_galician": 0,
+      "muscovite_synodal": 0,
+      "neo_sabbaitic_greek": 0
+    },
+    "filioque_treatment": {
+      "ruthenian_kyivan": 0,
+      "post_zamosc_galician": 4,
+      "muscovite_synodal": 0,
+      "neo_sabbaitic_greek": 0
+    },
+    "epiclesis_third_hour": {
+      "ruthenian_kyivan": 0,
+      "post_zamosc_galician": 0,
+      "muscovite_synodal": 0,
+      "neo_sabbaitic_greek": 0
+    },
+    "commemoration_formulas": {
+      "ruthenian_kyivan": 6,
+      "post_zamosc_galician": 13,
+      "muscovite_synodal": 0,
+      "neo_sabbaitic_greek": 0
+    },
+    "chant_models_and_realia": {
+      "ruthenian_kyivan": 18,
+      "post_zamosc_galician": 0,
+      "muscovite_synodal": 0,
+      "neo_sabbaitic_greek": 2
+    }
+  },
+  "comparative_notes_count": 1,
+  "comparative_apparatus_sample": [
+    {
+      "line": 1997,
+      "matched_clause": "diversity of editions",
+      "snippet": "8. Moreover, since in public divine worship there exist sacred folk songs composed in metric verses, among which are distinguished the so-called *Koliady* (Caro"
+    }
+  ],
+  "hits_sample": [
+    {
+      "line": 219,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-06-DOXOLOGY",
+      "marker_name": "Minor Doxology Eschatological Clause",
+      "matched_text": "unto the ages of ages",
+      "context_snippet": "*Priest:* **\"Blessed is our God always, now and forever, and unto the ages of ages.\"**"
+    },
+    {
+      "line": 318,
+      "recension": "post_zamosc_galician",
+      "recension_name": "Post-Zamość Galician Synodal Recension",
+      "dimension": "filioque_treatment",
+      "marker_id": "REC-02-FILIOQUE",
+      "marker_name": "Filioque in the Symbol of Faith (Credo)",
+      "matched_text": "and the Son",
+      "context_snippet": "May the Father of our Lord Jesus Christ, the Father of mercies and God of all comfort [^13] look down to our aid, and grant that we may sens"
+    },
+    {
+      "line": 348,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-06-DOXOLOGY",
+      "marker_name": "Minor Doxology Eschatological Clause",
+      "matched_text": "unto the ages of ages",
+      "context_snippet": "\"The blessing of the Lord be upon you, by His grace and love for mankind, always, now and forever, and unto the ages of ages.\""
+    },
+    {
+      "line": 394,
+      "recension": "post_zamosc_galician",
+      "recension_name": "Post-Zamość Galician Synodal Recension",
+      "dimension": "commemoration_formulas",
+      "marker_id": "REC-04-COMMEMORATIONS",
+      "marker_name": "Hierarchical & Papal Commemoration Formula",
+      "matched_text": "Pope of Rome",
+      "context_snippet": "\"Your Grace! Whereas the Most Holy Council of Trent established that individual Bishops and Priests assembled in a provincial Synod should m"
+    },
+    {
+      "line": 429,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-06-DOXOLOGY",
+      "marker_name": "Minor Doxology Eschatological Clause",
+      "matched_text": "unto the ages of ages",
+      "context_snippet": "*President:* \"Blessed is our God, always, now and forever, and unto the ages of ages.\" *The members answer:* \"Amen.\" *Then all recite or sin"
+    },
+    {
+      "line": 542,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-06-DOXOLOGY",
+      "marker_name": "Minor Doxology Eschatological Clause",
+      "matched_text": "unto the ages of ages",
+      "context_snippet": "*Metropolitan:* \"Glory be to Thee, O Christ God, our hope, glory be to Thee.\" *Choir:* \"Glory be to the Father, and to the Son, and to the H"
+    },
+    {
+      "line": 546,
+      "recension": "post_zamosc_galician",
+      "recension_name": "Post-Zamość Galician Synodal Recension",
+      "dimension": "commemoration_formulas",
+      "marker_id": "REC-04-COMMEMORATIONS",
+      "marker_name": "Hierarchical & Papal Commemoration Formula",
+      "matched_text": "Pope of Rome",
+      "context_snippet": "*After these prayers, the Metropolitan intoneth the Polychronion (*Mnohaya Lita*):* \"To the Most Holy Ecumenical Hierarch Leo, Pope of Rome:"
+    },
+    {
+      "line": 673,
+      "recension": "post_zamosc_galician",
+      "recension_name": "Post-Zamość Galician Synodal Recension",
+      "dimension": "commemoration_formulas",
+      "marker_id": "REC-04-COMMEMORATIONS",
+      "marker_name": "Hierarchical & Papal Commemoration Formula",
+      "matched_text": "Supreme Pontiff",
+      "context_snippet": "In the grievous misfortunes of our times, which press upon the Church of Jesus Christ from all sides, nothing so greatly comforteth and upli"
+    },
+    {
+      "line": 675,
+      "recension": "post_zamosc_galician",
+      "recension_name": "Post-Zamość Galician Synodal Recension",
+      "dimension": "commemoration_formulas",
+      "marker_id": "REC-04-COMMEMORATIONS",
+      "marker_name": "Hierarchical & Papal Commemoration Formula",
+      "matched_text": "Supreme Pontiff",
+      "context_snippet": "This mandate of the Supreme Pontiff I willingly fulfill and with joy announce unto you, and at the same time I pray and beseech Your Graces "
+    },
+    {
+      "line": 713,
+      "recension": "post_zamosc_galician",
+      "recension_name": "Post-Zamość Galician Synodal Recension",
+      "dimension": "filioque_treatment",
+      "marker_id": "REC-02-FILIOQUE",
+      "marker_name": "Filioque in the Symbol of Faith (Credo)",
+      "matched_text": "and the Son",
+      "context_snippet": "...under Pontius Pilate, and suffered, and was buried. And He rose again on the third day according to the Scriptures. And He ascended into "
+    },
+    {
+      "line": 716,
+      "recension": "post_zamosc_galician",
+      "recension_name": "Post-Zamość Galician Synodal Recension",
+      "dimension": "filioque_treatment",
+      "marker_id": "REC-02-FILIOQUE",
+      "marker_name": "Filioque in the Symbol of Faith (Credo)",
+      "matched_text": "and the Son",
+      "context_snippet": "The First of Constantinople, the Second in order; and I confess that which was defined therein against Macedonius, of condemned memory: that"
+    },
+    {
+      "line": 720,
+      "recension": "post_zamosc_galician",
+      "recension_name": "Post-Zamość Galician Synodal Recension",
+      "dimension": "commemoration_formulas",
+      "marker_id": "REC-04-COMMEMORATIONS",
+      "marker_name": "Hierarchical & Papal Commemoration Formula",
+      "matched_text": "Pope of Rome",
+      "context_snippet": "...by the union, but rather the property of each nature being preserved and concurring into one Person and one Hypostasis; not parted or div"
+    },
+    {
+      "line": 725,
+      "recension": "post_zamosc_galician",
+      "recension_name": "Post-Zamość Galician Synodal Recension",
+      "dimension": "filioque_treatment",
+      "marker_id": "REC-02-FILIOQUE",
+      "marker_name": "Filioque in the Symbol of Faith (Credo)",
+      "matched_text": "and the Son",
+      "context_snippet": "I likewise venerate and accept all other Ecumenical Councils lawfully held and confirmed by the authority of the Roman Pontiff; and especial"
+    },
+    {
+      "line": 1353,
+      "recension": "post_zamosc_galician",
+      "recension_name": "Post-Zamość Galician Synodal Recension",
+      "dimension": "commemoration_formulas",
+      "marker_id": "REC-04-COMMEMORATIONS",
+      "marker_name": "Hierarchical & Papal Commemoration Formula",
+      "matched_text": "Supreme Pontiff",
+      "context_snippet": "2. Greater vigilance in this matter Bishops exercised from the time when, through the invention of printing, books began to be disseminated "
+    },
+    {
+      "line": 1619,
+      "recension": "post_zamosc_galician",
+      "recension_name": "Post-Zamość Galician Synodal Recension",
+      "dimension": "commemoration_formulas",
+      "marker_id": "REC-04-COMMEMORATIONS",
+      "marker_name": "Hierarchical & Papal Commemoration Formula",
+      "matched_text": "Supreme Pontiff",
+      "context_snippet": "4. Finally, whereas in our *Archieratikon* (Pontifical), immediately before the reception of the Presbyterate, there is set forth the formul"
+    },
+    {
+      "line": 1890,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-05-CHANT-MODELS",
+      "marker_name": "Melodic Headings & Hymnographic Realia",
+      "matched_text": "Tetrapod",
+      "context_snippet": "1. On the Feast of the Exaltation of the Precious Cross, on the 14th day of September, pastors are bound to bring forth the Holy Cross for t"
+    },
+    {
+      "line": 1896,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-05-CHANT-MODELS",
+      "marker_name": "Melodic Headings & Hymnographic Realia",
+      "matched_text": "Tetrapod",
+      "context_snippet": "3. On the 1st day of August, on the Feast of the Holy Maccabean Brethren, the Holy Cross shall be brought forth for the veneration of the pe"
+    },
+    {
+      "line": 1902,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-05-CHANT-MODELS",
+      "marker_name": "Melodic Headings & Hymnographic Realia",
+      "matched_text": "Tetrapod",
+      "context_snippet": "1. In the midst of the Great Forty Days [Lent], namely on the Third Sunday, called *Cross-Veneration Sunday* (*Krestopoklonna*), to bring fo"
+    },
+    {
+      "line": 1986,
+      "recension": "neo_sabbaitic_greek",
+      "recension_name": "Neo-Sabbaitic Constantinopolitan Greek Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-05-CHANT-MODELS",
+      "marker_name": "Melodic Headings & Hymnographic Realia",
+      "matched_text": "Heirmologion",
+      "context_snippet": "4. Where verses are to be sung alternately by two choirs, there the second choir shall not begin to sing its verse until the first hath fini"
+    },
+    {
+      "line": 1988,
+      "recension": "neo_sabbaitic_greek",
+      "recension_name": "Neo-Sabbaitic Constantinopolitan Greek Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-05-CHANT-MODELS",
+      "marker_name": "Melodic Headings & Hymnographic Realia",
+      "matched_text": "Heirmologion",
+      "context_snippet": "5. As to Heirmologion singing in particular, the Synod commandeth: that the alumni of Seminaries shall especially apply themselves thereto, "
+    },
+    {
+      "line": 2163,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-05-CHANT-MODELS",
+      "marker_name": "Melodic Headings & Hymnographic Realia",
+      "matched_text": "Tetrapod",
+      "context_snippet": "according to the style of our Church, corresponding unto the Eastern. Moreover, the custom of our Churches shall be preserved, that is, to k"
+    },
+    {
+      "line": 2247,
+      "recension": "post_zamosc_galician",
+      "recension_name": "Post-Zamość Galician Synodal Recension",
+      "dimension": "commemoration_formulas",
+      "marker_id": "REC-04-COMMEMORATIONS",
+      "marker_name": "Hierarchical & Papal Commemoration Formula",
+      "matched_text": "Pope of Rome",
+      "context_snippet": "\"Of the Holy Eastern Catholic Church...\" And thus the full title shall be the following: *\"Liturgikon, that is to say Sluzhebnik, containing"
+    },
+    {
+      "line": 2265,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-06-DOXOLOGY",
+      "marker_name": "Minor Doxology Eschatological Clause",
+      "matched_text": "unto the ages of ages",
+      "context_snippet": "Blessed is our God always, now and forever, and unto the ages of ages."
+    },
+    {
+      "line": 2270,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-06-DOXOLOGY",
+      "marker_name": "Minor Doxology Eschatological Clause",
+      "matched_text": "unto the ages of ages",
+      "context_snippet": "Glory be to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages."
+    },
+    {
+      "line": 2274,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-06-DOXOLOGY",
+      "marker_name": "Minor Doxology Eschatological Clause",
+      "matched_text": "unto the ages of ages",
+      "context_snippet": "Glory be to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages."
+    },
+    {
+      "line": 2276,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-06-DOXOLOGY",
+      "marker_name": "Minor Doxology Eschatological Clause",
+      "matched_text": "unto the ages of ages",
+      "context_snippet": "> **Priest:** \"For Thine is the kingdom and the power and the glory, of the Father, and of the Son, and of the Holy Spirit, now and forever,"
+    },
+    {
+      "line": 2454,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-06-DOXOLOGY",
+      "marker_name": "Minor Doxology Eschatological Clause",
+      "matched_text": "unto the ages of ages",
+      "context_snippet": "At that Exclamation, according to the local custom hitherto observed, the Priest shall at the words: \"Now and forever\" turn toward the peopl"
+    },
+    {
+      "line": 2456,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-06-DOXOLOGY",
+      "marker_name": "Minor Doxology Eschatological Clause",
+      "matched_text": "unto the ages of ages",
+      "context_snippet": "If there be no Deacon, then the Priest himself in his stead proclaimeth the second part of the exclamation from the words: \"Now and forever,"
+    },
+    {
+      "line": 2504,
+      "recension": "post_zamosc_galician",
+      "recension_name": "Post-Zamość Galician Synodal Recension",
+      "dimension": "commemoration_formulas",
+      "marker_id": "REC-04-COMMEMORATIONS",
+      "marker_name": "Hierarchical & Papal Commemoration Formula",
+      "matched_text": "Most Holy Universal Pontiff",
+      "context_snippet": "bowed profoundly before the Holy Gifts in the tabernacle, they descend before the Holy Table, and there the Priest taketh the censer from th"
+    },
+    {
+      "line": 2583,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-06-DOXOLOGY",
+      "marker_name": "Minor Doxology Eschatological Clause",
+      "matched_text": "unto the ages of ages",
+      "context_snippet": "O God,\" Goar 67, Liturgikon page 340 (42); he taketh the chalice with both hands, and standing before the Altar, saith secretly: \"Blessed is"
+    }
+  ]
+}

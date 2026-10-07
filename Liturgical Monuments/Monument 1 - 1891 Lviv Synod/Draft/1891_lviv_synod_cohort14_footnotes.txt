@@ -3,7 +3,7 @@
 
 [^233]: St. Bernard of Clairvaux, *Sermo in Nativitate B.V. Mariae de Aquaeductu* (Homily on the Nativity of the Blessed Virgin Mary, "On the Aqueduct"), no. 3: "Totum nos habere voluit per Mariam" ("He willed that we should have all things through Mary"). Book p. 217 (Leaf p221).
 
-[^234]: St. Thomas Aquinas, *Expositio Salutationis Angelicae* (Opusculum 8), a. 1: "Tantum habet de gratia, quod sufficit ad salutem totius mundi" ("She hath so much of grace that it sufficeth unto the salvation of the whole world"). Book p. 217 (Leaf p221).
+[^234]: St. Thomas Aquinas, *Expositio Salutationis Angelicae* (Opusculum 8), a. 1: "Tantum habet de gratia, quod sufficit ad salutem totius mundi" ("She hath so much of grace that it suffices unto the salvation of the whole world"). Book p. 217 (Leaf p221).
 
 [^235]: St. Augustine, *Enarrationes in Psalmos*, Ps. 118 [Ps. 119 MT], Sermo 9. Book p. 219 (Leaf p223).
 
@@ -37,7 +37,7 @@
 
 [^250]: 1 Timothy 3:5: "For if a man know not how to rule his own house, how shall he take care of the church of God?" (*Аще кто своего дому не умѣетъ правити, како о церкви Божіей прилѣжати возможетъ?* / *Si quis autem domui suae praeesse nescit, quomodo ecclesiae Dei diligentiam habebit?*). Book p. 224 (Leaf p228).
 
-[^251]: 2 Timothy 2:4: "No man that warreth entangleth himself with the affairs of this life; that he may please him who hath chosen him to be a soldier" (*Никтоже бо, воинъ бывая, обязуется куплями житейскими, да воєводѣ угоденъ будетъ* / *Nemo militans Deo implicat se negotiis saecularibus: ut ei placeat, cui se probavit*). Book p. 225 (Leaf p229).
+[^251]: 2 Timothy 2:4: "No man that wars entangles himself with the affairs of this life; that he may please him who hath chosen him to be a soldier" (*Никтоже бо, воинъ бывая, обязуется куплями житейскими, да воєводѣ угоденъ будетъ* / *Nemo militans Deo implicat se negotiis saecularibus: ut ei placeat, cui se probavit*). Book p. 225 (Leaf p229).
 
 [^252]: St. Ambrose of Milan, *Expositio Evangelii secundum Lucam*, Lib. I (on Luke 1 / Isaiah 1): reminding priests that their commission from Christ is to seek and win souls, not earthly gain. Book p. 226 (Leaf p230).
 
@@ -47,7 +47,7 @@
 
 [^255]: Job 14:19 (Septuagint versification: *Іов. 14:19 LXX*): "The waters wear the stones; and thou washest away the things which grow out of the dust of the earth" (*Каменія изгладиша воды, и потопиша воды возвишенія персти земныя* / *Lapides excavant aquae, et alluvione paulatim terra consumitur*), cited in the warning of St. Isidore of Pelusium to Bishop Palladius. Book p. 226 (Leaf p230).
 
-[^256]: St. Isidore of Pelusium, *Epistolae*, Book II, Epist. 284 (ad Palladium Episcopum): warning on the perilous snare of familiarity and frequent conversation with women, and how continuous custom weareth down even rock and stubborn human nature. Book p. 227 (Leaf p231).
+[^256]: St. Isidore of Pelusium, *Epistolae*, Book II, Epist. 284 (ad Palladium Episcopum): warning on the perilous snare of familiarity and frequent conversation with women, and how continuous custom wears down even rock and stubborn human nature. Book p. 227 (Leaf p231).
 
 [^257]: St. John Chrysostom, *Homily 19 on the Epistle to the Romans*, no. 4: on meekness, patience, and gentle charity as the supreme virtue conforming the Christian minister to God. Book p. 227 (Leaf p231).
 
@@ -63,9 +63,9 @@
 
 [^263]: 2 Corinthians 6:2; Isaiah 49:8: "For He saith, I have heard thee in a time accepted, and in the day of salvation have I succored thee: behold, now is the accepted time; behold, now is the day of salvation." Book p. 231 (Leaf p235).
 
-[^264]: 2 Corinthians 9:10: "Now He that ministereth seed to the sower both minister bread for your food, and multiply your seed sown, and increase the fruits of your righteousness"; cited in *Instructio Pastoralis Eystettensis*, Titulus XIII, cap. 7, § 1. Book p. 231 (Leaf p235).
+[^264]: 2 Corinthians 9:10: "Now He that ministers seed to the sower both minister bread for your food, and multiply your seed sown, and increase the fruits of your righteousness"; cited in *Instructio Pastoralis Eystettensis*, Titulus XIII, cap. 7, § 1. Book p. 231 (Leaf p235).
 
-[^265]: St. Bernard of Clairvaux, *De Consideratione ad Eugenium Papam*, Book I, cap. 7: "Consideratio regit affectus, dirigit actus, corrigit excessus, componit mores, vitam honestat et ordinat" ("Meditation / consideration ruleth the affections, directeth actions, correcteth excesses, componeth morals, and ordereth life"). Book p. 231 (Leaf p235).
+[^265]: St. Bernard of Clairvaux, *De Consideratione ad Eugenium Papam*, Book I, cap. 7: "Consideratio regit affectus, dirigit actus, corrigit excessus, componit mores, vitam honestat et ordinat" ("Meditation / consideration rules the affections, directs actions, corrects excesses, composes morals, and orders life"). Book p. 231 (Leaf p235).
 
 [^266]: St. John Chrysostom, *Homilia in Psalmum 48 [Ps. 47 LXX]*, no. 1; *Homily 3 on the Gospel of Matthew*, and *Homily 3 on Lazarus and the Rich Man*: on the absolute necessity of daily spiritual reading of Holy Scripture for salvation, both for clergy and laity living in the world. Book p. 232 (Leaf p236).
 
