@@ -1,0 +1,173 @@
+{
+  "timestamp": "2026-10-06T21:41:48.179065+00:00",
+  "monument_id": "1852_doskovsky_typikon",
+  "cohort": 12,
+  "target_file": "1852_doskovsky_typikon_cohort12_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1852_doskovsky_typikon_cohort12_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1852_doskovsky_typikon_cohort12_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1852_doskovsky_typikon_cohort12_raw_draft.md",
+      "footnotes_file": "1852_doskovsky_typikon_cohort12_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 22,
+      "definition_markers_count": 22,
+      "text_markers": [
+        "[^245]",
+        "[^246]",
+        "[^247]",
+        "[^248]",
+        "[^249]",
+        "[^250]",
+        "[^251]",
+        "[^252]",
+        "[^253]",
+        "[^254]",
+        "[^255]",
+        "[^256]",
+        "[^257]",
+        "[^258]",
+        "[^259]",
+        "[^260]",
+        "[^261]",
+        "[^262]",
+        "[^263]",
+        "[^264]",
+        "[^265]",
+        "[^266]"
+      ],
+      "definition_markers": [
+        "[^245]",
+        "[^246]",
+        "[^247]",
+        "[^248]",
+        "[^249]",
+        "[^250]",
+        "[^251]",
+        "[^252]",
+        "[^253]",
+        "[^254]",
+        "[^255]",
+        "[^256]",
+        "[^257]",
+        "[^258]",
+        "[^259]",
+        "[^260]",
+        "[^261]",
+        "[^262]",
+        "[^263]",
+        "[^264]",
+        "[^265]",
+        "[^266]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1852_doskovsky_typikon_cohort12_raw_draft.md",
+      "passed": true,
+      "paragraphs": 134,
+      "headings_count": 24,
+      "headings": [
+        {
+          "line": 1,
+          "level": 1,
+          "title": "Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852) — Cohort 12 (Leaves p111–p120)"
+        },
+        {
+          "line": 11,
+          "level": 3,
+          "title": "On Monday of the Second Week of the Fast"
+        },
+        {
+          "line": 14,
+          "level": 3,
+          "title": "On the Second Saturday of the Fasts"
+        },
+        {
+          "line": 24,
+          "level": 3,
+          "title": "On the Third Sunday of the Holy and Great Fast"
+        },
+        {
+          "line": 44,
+          "level": 3,
+          "title": "On Monday of the Fourth Week"
+        },
+        {
+          "line": 54,
+          "level": 3,
+          "title": "On Wednesday of the Fourth Week"
+        },
+        {
+          "line": 59,
+          "level": 3,
+          "title": "On Friday of the Fourth Week"
+        },
+        {
+          "line": 66,
+          "level": 3,
+          "title": "On Wednesday of the Fifth Week in the Evening"
+        },
+        {
+          "line": 70,
+          "level": 3,
+          "title": "Thursday of the Fifth Week of the Holy Fasts"
+        },
+        {
+          "line": 89,
+          "level": 3,
+          "title": "On Saturday of the Fifth Week of the Fast"
+        },
+        {
+          "line": 101,
+          "level": 3,
+          "title": "On the Fifth Sunday of the Fast"
+        },
+        {
+          "line": 105,
+          "level": 3,
+          "title": "On Friday of Palms, That Is, of the Sixth Week"
+        },
+        {
+          "line": 112,
+          "level": 3,
+          "title": "On the Saturday of the Holy and Righteous Lazarus"
+        },
+        {
+          "line": 116,
+          "level": 3,
+          "title": "On Palm Sunday, or the Flowery Sunday"
+        },
+        {
+          "line": 127,
+          "level": 3,
+          "title": "On Palm Sunday in the Evening"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 111,
+        "max_leaf": 120
+      },
+      "anomalies": []
+    }
+  }
+}

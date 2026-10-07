@@ -1,0 +1,139 @@
+{
+  "timestamp": "2026-10-06T17:49:44.918192+00:00",
+  "monument_id": "1852_doskovsky_typikon",
+  "cohort": 5,
+  "target_file": "1852_doskovsky_typikon_cohort5_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1852_doskovsky_typikon_cohort5_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1852_doskovsky_typikon_cohort5_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1852_doskovsky_typikon_cohort5_raw_draft.md",
+      "footnotes_file": "1852_doskovsky_typikon_cohort5_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 20,
+      "definition_markers_count": 20,
+      "text_markers": [
+        "[^92]",
+        "[^93]",
+        "[^94]",
+        "[^95]",
+        "[^96]",
+        "[^97]",
+        "[^98]",
+        "[^99]",
+        "[^100]",
+        "[^101]",
+        "[^102]",
+        "[^103]",
+        "[^104]",
+        "[^105]",
+        "[^106]",
+        "[^107]",
+        "[^108]",
+        "[^109]",
+        "[^110]",
+        "[^111]"
+      ],
+      "definition_markers": [
+        "[^92]",
+        "[^93]",
+        "[^94]",
+        "[^95]",
+        "[^96]",
+        "[^97]",
+        "[^98]",
+        "[^99]",
+        "[^100]",
+        "[^101]",
+        "[^102]",
+        "[^103]",
+        "[^104]",
+        "[^105]",
+        "[^106]",
+        "[^107]",
+        "[^108]",
+        "[^109]",
+        "[^110]",
+        "[^111]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1852_doskovsky_typikon_cohort5_raw_draft.md",
+      "passed": true,
+      "paragraphs": 250,
+      "headings_count": 9,
+      "headings": [
+        {
+          "line": 1,
+          "level": 1,
+          "title": "Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852) — Cohort 5 (Leaves p41–p50)"
+        },
+        {
+          "line": 7,
+          "level": 3,
+          "title": "Concerning Two Simple Saints with Distinct Offices Falling on a Sunday"
+        },
+        {
+          "line": 38,
+          "level": 3,
+          "title": "Concerning a Saint Sung to Six, If It Occur on a Sunday"
+        },
+        {
+          "line": 66,
+          "level": 3,
+          "title": "Concerning a Saint Having a Polyeleos, If It Occur on a Sunday"
+        },
+        {
+          "line": 111,
+          "level": 3,
+          "title": "Concerning a Saint Having an All-Night Vigil, If It Occur on a Sunday"
+        },
+        {
+          "line": 153,
+          "level": 3,
+          "title": "If There Occur the Forefeast of a Dominical or Theotokos Feast, and a Simple Saint, on a Sunday"
+        },
+        {
+          "line": 185,
+          "level": 3,
+          "title": "Concerning Dominical Feasts (That Is, Feasts of the Lord), If They Occur on a Sunday"
+        },
+        {
+          "line": 230,
+          "level": 3,
+          "title": "Concerning Feasts of the Most Holy Theotokos Falling on a Sunday"
+        },
+        {
+          "line": 280,
+          "level": 3,
+          "title": "If There Occur the Afterfeast [Within the Feast] and a Simple Saint on a Sunday"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 41,
+        "max_leaf": 50
+      },
+      "anomalies": []
+    }
+  }
+}

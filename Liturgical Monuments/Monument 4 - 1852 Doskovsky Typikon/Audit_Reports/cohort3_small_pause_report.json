@@ -1,0 +1,123 @@
+{
+  "timestamp": "2026-10-06T16:47:47.465978+00:00",
+  "monument_id": "1852_doskovsky_typikon",
+  "cohort": 3,
+  "target_file": "1852_doskovsky_typikon_cohort3_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1852_doskovsky_typikon_cohort3_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1852_doskovsky_typikon_cohort3_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1852_doskovsky_typikon_cohort3_raw_draft.md",
+      "footnotes_file": "1852_doskovsky_typikon_cohort3_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 22,
+      "definition_markers_count": 22,
+      "text_markers": [
+        "[^49]",
+        "[^50]",
+        "[^51]",
+        "[^52]",
+        "[^53]",
+        "[^54]",
+        "[^55]",
+        "[^56]",
+        "[^57]",
+        "[^58]",
+        "[^59]",
+        "[^60]",
+        "[^61]",
+        "[^62]",
+        "[^63]",
+        "[^64]",
+        "[^65]",
+        "[^66]",
+        "[^67]",
+        "[^68]",
+        "[^69]",
+        "[^70]"
+      ],
+      "definition_markers": [
+        "[^49]",
+        "[^50]",
+        "[^51]",
+        "[^52]",
+        "[^53]",
+        "[^54]",
+        "[^55]",
+        "[^56]",
+        "[^57]",
+        "[^58]",
+        "[^59]",
+        "[^60]",
+        "[^61]",
+        "[^62]",
+        "[^63]",
+        "[^64]",
+        "[^65]",
+        "[^66]",
+        "[^67]",
+        "[^68]",
+        "[^69]",
+        "[^70]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1852_doskovsky_typikon_cohort3_raw_draft.md",
+      "passed": true,
+      "paragraphs": 378,
+      "headings_count": 5,
+      "headings": [
+        {
+          "line": 1,
+          "level": 1,
+          "title": "Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852) — Cohort 3 (Leaves p21–p30)"
+        },
+        {
+          "line": 85,
+          "level": 1,
+          "title": "The Order of Small Compline (*Чинъ повече́рїа ма́лагѡ*)"
+        },
+        {
+          "line": 134,
+          "level": 1,
+          "title": "The Order of the Daily Midnight Office (*Послѣ́дованїе полꙋ́нощницы повседне́вныя*)"
+        },
+        {
+          "line": 167,
+          "level": 1,
+          "title": "The Beginning of Weekday or Daily Matins (*Нача́ло оу҆́трени седми́чныѧ, и҆ли́ повседне́вныя*)"
+        },
+        {
+          "line": 320,
+          "level": 1,
+          "title": "The Order of the Sacred and Divine Liturgy of St. John Chrysostom (*Чинъ сщ҃е́нныѧ и҆ Бж҃е́ственныѧ Лїтꙋргі́и ст҃а́гѡ І҆ѡа́нна Златоꙋ́стагѡ*)"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 21,
+        "max_leaf": 30
+      },
+      "anomalies": []
+    }
+  }
+}

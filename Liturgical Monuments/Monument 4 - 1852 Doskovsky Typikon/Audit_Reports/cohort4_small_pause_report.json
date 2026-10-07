@@ -1,0 +1,101 @@
+{
+  "timestamp": "2026-10-06T17:19:12.657540+00:00",
+  "monument_id": "1852_doskovsky_typikon",
+  "cohort": 4,
+  "target_file": "1852_doskovsky_typikon_cohort4_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1852_doskovsky_typikon_cohort4_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1852_doskovsky_typikon_cohort4_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1852_doskovsky_typikon_cohort4_raw_draft.md",
+      "footnotes_file": "1852_doskovsky_typikon_cohort4_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 21,
+      "definition_markers_count": 21,
+      "text_markers": [
+        "[^71]",
+        "[^72]",
+        "[^73]",
+        "[^74]",
+        "[^75]",
+        "[^76]",
+        "[^77]",
+        "[^78]",
+        "[^79]",
+        "[^80]",
+        "[^81]",
+        "[^82]",
+        "[^83]",
+        "[^84]",
+        "[^85]",
+        "[^86]",
+        "[^87]",
+        "[^88]",
+        "[^89]",
+        "[^90]",
+        "[^91]"
+      ],
+      "definition_markers": [
+        "[^71]",
+        "[^72]",
+        "[^73]",
+        "[^74]",
+        "[^75]",
+        "[^76]",
+        "[^77]",
+        "[^78]",
+        "[^79]",
+        "[^80]",
+        "[^81]",
+        "[^82]",
+        "[^83]",
+        "[^84]",
+        "[^85]",
+        "[^86]",
+        "[^87]",
+        "[^88]",
+        "[^89]",
+        "[^90]",
+        "[^91]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1852_doskovsky_typikon_cohort4_raw_draft.md",
+      "passed": true,
+      "paragraphs": 256,
+      "headings_count": 1,
+      "headings": [
+        {
+          "line": 1,
+          "level": 1,
+          "title": "Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852) — Cohort 4 (Leaves p31–p40)"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 31,
+        "max_leaf": 40
+      },
+      "anomalies": []
+    }
+  }
+}

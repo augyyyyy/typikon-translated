@@ -1,0 +1,173 @@
+{
+  "timestamp": "2026-10-06T19:19:34.563067+00:00",
+  "monument_id": "1852_doskovsky_typikon",
+  "cohort": 8,
+  "target_file": "1852_doskovsky_typikon_cohort8_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1852_doskovsky_typikon_cohort8_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1852_doskovsky_typikon_cohort8_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1852_doskovsky_typikon_cohort8_raw_draft.md",
+      "footnotes_file": "1852_doskovsky_typikon_cohort8_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 22,
+      "definition_markers_count": 22,
+      "text_markers": [
+        "[^153]",
+        "[^154]",
+        "[^155]",
+        "[^156]",
+        "[^157]",
+        "[^158]",
+        "[^159]",
+        "[^160]",
+        "[^161]",
+        "[^162]",
+        "[^163]",
+        "[^164]",
+        "[^165]",
+        "[^166]",
+        "[^167]",
+        "[^168]",
+        "[^169]",
+        "[^170]",
+        "[^171]",
+        "[^172]",
+        "[^173]",
+        "[^174]"
+      ],
+      "definition_markers": [
+        "[^153]",
+        "[^154]",
+        "[^155]",
+        "[^156]",
+        "[^157]",
+        "[^158]",
+        "[^159]",
+        "[^160]",
+        "[^161]",
+        "[^162]",
+        "[^163]",
+        "[^164]",
+        "[^165]",
+        "[^166]",
+        "[^167]",
+        "[^168]",
+        "[^169]",
+        "[^170]",
+        "[^171]",
+        "[^172]",
+        "[^173]",
+        "[^174]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1852_doskovsky_typikon_cohort8_raw_draft.md",
+      "passed": true,
+      "paragraphs": 135,
+      "headings_count": 22,
+      "headings": [
+        {
+          "line": 1,
+          "level": 1,
+          "title": "Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852) — Cohort 8 (Leaves p71–p80)"
+        },
+        {
+          "line": 30,
+          "level": 3,
+          "title": "On the 15th Day: The Holy Great-Martyr Nicetas"
+        },
+        {
+          "line": 41,
+          "level": 3,
+          "title": "Saturday after the Exaltation"
+        },
+        {
+          "line": 45,
+          "level": 3,
+          "title": "Sunday after the Exaltation"
+        },
+        {
+          "line": 50,
+          "level": 3,
+          "title": "On the 21st Day: The Holy Apostle Quadratus. On This Day the Feast of the Precious Cross Is Given Its Apodosis"
+        },
+        {
+          "line": 60,
+          "level": 2,
+          "title": "The Month of October"
+        },
+        {
+          "line": 62,
+          "level": 3,
+          "title": "On the 1st Day: Celebration of the Protection of the Most Holy Theotokos, with the Apostle Ananias, and the Venerable Romanus the Melodist"
+        },
+        {
+          "line": 78,
+          "level": 3,
+          "title": "On the 11th Day: Sunday of the Holy Fathers"
+        },
+        {
+          "line": 83,
+          "level": 3,
+          "title": "On the 26th Day: The Holy Great-Martyr Demetrius the Myrrh-Streamer. And Commemoration of the Great and Terrible Earthquake"
+        },
+        {
+          "line": 102,
+          "level": 2,
+          "title": "The Month of November"
+        },
+        {
+          "line": 104,
+          "level": 3,
+          "title": "On the 14th Day: The Holy Apostle Philip"
+        },
+        {
+          "line": 113,
+          "level": 2,
+          "title": "The Month of December"
+        },
+        {
+          "line": 115,
+          "level": 3,
+          "title": "On the 11th Day: On the Sunday of the Forefathers"
+        },
+        {
+          "line": 131,
+          "level": 3,
+          "title": "Notice 1"
+        },
+        {
+          "line": 140,
+          "level": 3,
+          "title": "Notice 2"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 71,
+        "max_leaf": 80
+      },
+      "anomalies": []
+    }
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "timestamp": "2026-10-06T16:15:16.599735+00:00",
+  "monument_id": "1852_doskovsky_typikon",
+  "cohort": 2,
+  "target_file": "1852_doskovsky_typikon_cohort2_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1852_doskovsky_typikon_cohort2_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1852_doskovsky_typikon_cohort2_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1852_doskovsky_typikon_cohort2_raw_draft.md",
+      "footnotes_file": "1852_doskovsky_typikon_cohort2_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 22,
+      "definition_markers_count": 22,
+      "text_markers": [
+        "[^27]",
+        "[^28]",
+        "[^29]",
+        "[^30]",
+        "[^31]",
+        "[^32]",
+        "[^33]",
+        "[^34]",
+        "[^35]",
+        "[^36]",
+        "[^37]",
+        "[^38]",
+        "[^39]",
+        "[^40]",
+        "[^41]",
+        "[^42]",
+        "[^43]",
+        "[^44]",
+        "[^45]",
+        "[^46]",
+        "[^47]",
+        "[^48]"
+      ],
+      "definition_markers": [
+        "[^27]",
+        "[^28]",
+        "[^29]",
+        "[^30]",
+        "[^31]",
+        "[^32]",
+        "[^33]",
+        "[^34]",
+        "[^35]",
+        "[^36]",
+        "[^37]",
+        "[^38]",
+        "[^39]",
+        "[^40]",
+        "[^41]",
+        "[^42]",
+        "[^43]",
+        "[^44]",
+        "[^45]",
+        "[^46]",
+        "[^47]",
+        "[^48]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1852_doskovsky_typikon_cohort2_raw_draft.md",
+      "passed": true,
+      "paragraphs": 541,
+      "headings_count": 15,
+      "headings": [
+        {
+          "line": 1,
+          "level": 1,
+          "title": "Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852) — Cohort 2 (Leaves p11–p20)"
+        },
+        {
+          "line": 130,
+          "level": 2,
+          "title": "The Order"
+        },
+        {
+          "line": 131,
+          "level": 3,
+          "title": "OF GREAT VESPERS,"
+        },
+        {
+          "line": 132,
+          "level": 4,
+          "title": "Chanted on Saturday Evening for Sunday."
+        },
+        {
+          "line": 249,
+          "level": 2,
+          "title": "The Order"
+        },
+        {
+          "line": 250,
+          "level": 3,
+          "title": "OF SUNDAY MIDNIGHT OFFICE"
+        },
+        {
+          "line": 284,
+          "level": 2,
+          "title": "The Order"
+        },
+        {
+          "line": 285,
+          "level": 3,
+          "title": "OF SUNDAY MATINS,"
+        },
+        {
+          "line": 286,
+          "level": 4,
+          "title": "or Resurrectional Matins."
+        },
+        {
+          "line": 525,
+          "level": 2,
+          "title": "The Order"
+        },
+        {
+          "line": 526,
+          "level": 3,
+          "title": "OF GREAT MATINS"
+        },
+        {
+          "line": 527,
+          "level": 4,
+          "title": "On Weekdays, if there occurs a Saint having a Polyeleos."
+        },
+        {
+          "line": 592,
+          "level": 2,
+          "title": "The Order"
+        },
+        {
+          "line": 593,
+          "level": 3,
+          "title": "OF WEEKDAY VESPERS,"
+        },
+        {
+          "line": 594,
+          "level": 4,
+          "title": "or Daily Vespers."
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 11,
+        "max_leaf": 20
+      },
+      "anomalies": []
+    }
+  }
+}

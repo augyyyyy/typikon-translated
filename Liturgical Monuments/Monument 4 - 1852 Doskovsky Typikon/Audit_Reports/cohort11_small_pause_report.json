@@ -1,0 +1,149 @@
+{
+  "timestamp": "2026-10-06T21:14:47.583740+00:00",
+  "monument_id": "1852_doskovsky_typikon",
+  "cohort": 11,
+  "target_file": "1852_doskovsky_typikon_cohort11_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1852_doskovsky_typikon_cohort11_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1852_doskovsky_typikon_cohort11_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1852_doskovsky_typikon_cohort11_raw_draft.md",
+      "footnotes_file": "1852_doskovsky_typikon_cohort11_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 20,
+      "definition_markers_count": 20,
+      "text_markers": [
+        "[^225]",
+        "[^226]",
+        "[^227]",
+        "[^228]",
+        "[^229]",
+        "[^230]",
+        "[^231]",
+        "[^232]",
+        "[^233]",
+        "[^234]",
+        "[^235]",
+        "[^236]",
+        "[^237]",
+        "[^238]",
+        "[^239]",
+        "[^240]",
+        "[^241]",
+        "[^242]",
+        "[^243]",
+        "[^244]"
+      ],
+      "definition_markers": [
+        "[^225]",
+        "[^226]",
+        "[^227]",
+        "[^228]",
+        "[^229]",
+        "[^230]",
+        "[^231]",
+        "[^232]",
+        "[^233]",
+        "[^234]",
+        "[^235]",
+        "[^236]",
+        "[^237]",
+        "[^238]",
+        "[^239]",
+        "[^240]",
+        "[^241]",
+        "[^242]",
+        "[^243]",
+        "[^244]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1852_doskovsky_typikon_cohort11_raw_draft.md",
+      "passed": true,
+      "paragraphs": 118,
+      "headings_count": 11,
+      "headings": [
+        {
+          "line": 1,
+          "level": 1,
+          "title": "Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852) — Cohort 11 (Leaves p101–p110)"
+        },
+        {
+          "line": 14,
+          "level": 3,
+          "title": "On Cheesefare Saturday"
+        },
+        {
+          "line": 18,
+          "level": 3,
+          "title": "On Cheesefare Sunday"
+        },
+        {
+          "line": 26,
+          "level": 3,
+          "title": "On That Same Cheesefare Sunday in the Evening"
+        },
+        {
+          "line": 58,
+          "level": 3,
+          "title": "Beginning of the Holy and Great Fast"
+        },
+        {
+          "line": 138,
+          "level": 3,
+          "title": "On Great Compline in the Holy Forty Days"
+        },
+        {
+          "line": 156,
+          "level": 3,
+          "title": "On Wednesday of the First Week in the Evening"
+        },
+        {
+          "line": 166,
+          "level": 3,
+          "title": "On Friday of the First Week in the Evening"
+        },
+        {
+          "line": 178,
+          "level": 3,
+          "title": "On the First Saturday of the Holy Fast"
+        },
+        {
+          "line": 186,
+          "level": 3,
+          "title": "On the First Sunday of the Holy and Great Fast"
+        },
+        {
+          "line": 194,
+          "level": 3,
+          "title": "On That Same First Sunday in the Evening"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 101,
+        "max_leaf": 110
+      },
+      "anomalies": []
+    }
+  }
+}

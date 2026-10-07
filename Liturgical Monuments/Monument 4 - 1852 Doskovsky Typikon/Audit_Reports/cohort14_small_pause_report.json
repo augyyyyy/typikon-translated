@@ -1,0 +1,161 @@
+{
+  "timestamp": "2026-10-06T22:56:49.791711+00:00",
+  "monument_id": "1852_doskovsky_typikon",
+  "cohort": 14,
+  "target_file": "1852_doskovsky_typikon_cohort14_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1852_doskovsky_typikon_cohort14_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1852_doskovsky_typikon_cohort14_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1852_doskovsky_typikon_cohort14_raw_draft.md",
+      "footnotes_file": "1852_doskovsky_typikon_cohort14_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 16,
+      "definition_markers_count": 16,
+      "text_markers": [
+        "[^286]",
+        "[^287]",
+        "[^288]",
+        "[^289]",
+        "[^290]",
+        "[^291]",
+        "[^292]",
+        "[^293]",
+        "[^294]",
+        "[^295]",
+        "[^296]",
+        "[^297]",
+        "[^298]",
+        "[^299]",
+        "[^300]",
+        "[^301]"
+      ],
+      "definition_markers": [
+        "[^286]",
+        "[^287]",
+        "[^288]",
+        "[^289]",
+        "[^290]",
+        "[^291]",
+        "[^292]",
+        "[^293]",
+        "[^294]",
+        "[^295]",
+        "[^296]",
+        "[^297]",
+        "[^298]",
+        "[^299]",
+        "[^300]",
+        "[^301]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1852_doskovsky_typikon_cohort14_raw_draft.md",
+      "passed": true,
+      "paragraphs": 346,
+      "headings_count": 36,
+      "headings": [
+        {
+          "line": 1,
+          "level": 1,
+          "title": "Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852) — Cohort 14 (Leaves p131–p140)"
+        },
+        {
+          "line": 11,
+          "level": 3,
+          "title": "On the Saturday Before the Sunday of Pentecost"
+        },
+        {
+          "line": 15,
+          "level": 3,
+          "title": "The Sunday of Holy Pentecost"
+        },
+        {
+          "line": 23,
+          "level": 3,
+          "title": "On Sunday Evening of Holy Pentecost"
+        },
+        {
+          "line": 34,
+          "level": 3,
+          "title": "On Monday of the Holy Spirit"
+        },
+        {
+          "line": 40,
+          "level": 3,
+          "title": "The Sunday of All Saints"
+        },
+        {
+          "line": 57,
+          "level": 3,
+          "title": "Decree: When It Is Fitting to Chant the Polyeleos"
+        },
+        {
+          "line": 89,
+          "level": 3,
+          "title": "Concerning the Daily Katavasia"
+        },
+        {
+          "line": 113,
+          "level": 3,
+          "title": "Concerning When at the Ninth Ode There Is Chanted:"
+        },
+        {
+          "line": 114,
+          "level": 3,
+          "title": "\"My soul doth magnify the Lord\" and \"More honorable than the Cherubim\""
+        },
+        {
+          "line": 136,
+          "level": 3,
+          "title": "Concerning When \"It is truly right\" Is Chanted After the Canon at Matins, and When It Is Not Chanted"
+        },
+        {
+          "line": 142,
+          "level": 3,
+          "title": "Concerning the Antiphons of the Divine Liturgy"
+        },
+        {
+          "line": 163,
+          "level": 3,
+          "title": "Decree: Concerning the Dismissals"
+        },
+        {
+          "line": 179,
+          "level": 3,
+          "title": "THE SIX PILLARS"
+        },
+        {
+          "line": 180,
+          "level": 3,
+          "title": "Wherein the Eight Tones of the Octoechos Are Joined to the Eleven Resurrectional Morning Gospels"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 131,
+        "max_leaf": 140
+      },
+      "anomalies": []
+    }
+  }
+}

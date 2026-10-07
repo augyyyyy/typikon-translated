@@ -1,0 +1,167 @@
+{
+  "timestamp": "2026-10-06T22:14:08.850830+00:00",
+  "monument_id": "1852_doskovsky_typikon",
+  "cohort": 13,
+  "target_file": "1852_doskovsky_typikon_cohort13_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1852_doskovsky_typikon_cohort13_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1852_doskovsky_typikon_cohort13_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1852_doskovsky_typikon_cohort13_raw_draft.md",
+      "footnotes_file": "1852_doskovsky_typikon_cohort13_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 19,
+      "definition_markers_count": 19,
+      "text_markers": [
+        "[^267]",
+        "[^268]",
+        "[^269]",
+        "[^270]",
+        "[^271]",
+        "[^272]",
+        "[^273]",
+        "[^274]",
+        "[^275]",
+        "[^276]",
+        "[^277]",
+        "[^278]",
+        "[^279]",
+        "[^280]",
+        "[^281]",
+        "[^282]",
+        "[^283]",
+        "[^284]",
+        "[^285]"
+      ],
+      "definition_markers": [
+        "[^267]",
+        "[^268]",
+        "[^269]",
+        "[^270]",
+        "[^271]",
+        "[^272]",
+        "[^273]",
+        "[^274]",
+        "[^275]",
+        "[^276]",
+        "[^277]",
+        "[^278]",
+        "[^279]",
+        "[^280]",
+        "[^281]",
+        "[^282]",
+        "[^283]",
+        "[^284]",
+        "[^285]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1852_doskovsky_typikon_cohort13_raw_draft.md",
+      "passed": true,
+      "paragraphs": 128,
+      "headings_count": 23,
+      "headings": [
+        {
+          "line": 1,
+          "level": 1,
+          "title": "Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852) — Cohort 13 (Leaves p121–p130)"
+        },
+        {
+          "line": 11,
+          "level": 3,
+          "title": "On That Same Holy and Great Friday in the Evening"
+        },
+        {
+          "line": 24,
+          "level": 3,
+          "title": "On Holy and Great Saturday"
+        },
+        {
+          "line": 42,
+          "level": 3,
+          "title": "On Holy and Great Saturday in the Evening"
+        },
+        {
+          "line": 60,
+          "level": 1,
+          "title": "The Beginning of the Pentecostarion,"
+        },
+        {
+          "line": 63,
+          "level": 3,
+          "title": "On the Holy and Great Sunday of Pascha"
+        },
+        {
+          "line": 103,
+          "level": 3,
+          "title": "On the Holy and Great Sunday of Pascha in the Evening"
+        },
+        {
+          "line": 113,
+          "level": 3,
+          "title": "On Monday of Bright Week at Matins"
+        },
+        {
+          "line": 118,
+          "level": 3,
+          "title": "On Monday of Bright Week in the Evening"
+        },
+        {
+          "line": 130,
+          "level": 3,
+          "title": "The Sunday of Antipascha, or New Sunday"
+        },
+        {
+          "line": 143,
+          "level": 3,
+          "title": "On the Sunday of Antipascha in the Evening"
+        },
+        {
+          "line": 153,
+          "level": 3,
+          "title": "On Monday of the Second Week of Antipascha at Matins"
+        },
+        {
+          "line": 166,
+          "level": 3,
+          "title": "The Third Sunday after Pascha,"
+        },
+        {
+          "line": 167,
+          "level": 3,
+          "title": "Of the Holy Myrrhbearing Women"
+        },
+        {
+          "line": 181,
+          "level": 3,
+          "title": "On the Sunday of the Myrrhbearers in the Evening"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 121,
+        "max_leaf": 130
+      },
+      "anomalies": []
+    }
+  }
+}

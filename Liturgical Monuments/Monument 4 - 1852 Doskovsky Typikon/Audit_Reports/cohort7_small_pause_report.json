@@ -1,0 +1,169 @@
+{
+  "timestamp": "2026-10-06T18:51:13.360462+00:00",
+  "monument_id": "1852_doskovsky_typikon",
+  "cohort": 7,
+  "target_file": "1852_doskovsky_typikon_cohort7_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1852_doskovsky_typikon_cohort7_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1852_doskovsky_typikon_cohort7_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1852_doskovsky_typikon_cohort7_raw_draft.md",
+      "footnotes_file": "1852_doskovsky_typikon_cohort7_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 20,
+      "definition_markers_count": 20,
+      "text_markers": [
+        "[^133]",
+        "[^134]",
+        "[^135]",
+        "[^136]",
+        "[^137]",
+        "[^138]",
+        "[^139]",
+        "[^140]",
+        "[^141]",
+        "[^142]",
+        "[^143]",
+        "[^144]",
+        "[^145]",
+        "[^146]",
+        "[^147]",
+        "[^148]",
+        "[^149]",
+        "[^150]",
+        "[^151]",
+        "[^152]"
+      ],
+      "definition_markers": [
+        "[^133]",
+        "[^134]",
+        "[^135]",
+        "[^136]",
+        "[^137]",
+        "[^138]",
+        "[^139]",
+        "[^140]",
+        "[^141]",
+        "[^142]",
+        "[^143]",
+        "[^144]",
+        "[^145]",
+        "[^146]",
+        "[^147]",
+        "[^148]",
+        "[^149]",
+        "[^150]",
+        "[^151]",
+        "[^152]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1852_doskovsky_typikon_cohort7_raw_draft.md",
+      "passed": true,
+      "paragraphs": 156,
+      "headings_count": 17,
+      "headings": [
+        {
+          "line": 1,
+          "level": 1,
+          "title": "Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852) — Cohort 7 (Leaves p61–p70)"
+        },
+        {
+          "line": 11,
+          "level": 3,
+          "title": "On a Saint Having a Polyeleos, if It Occur on Weekdays"
+        },
+        {
+          "line": 28,
+          "level": 3,
+          "title": "On a Saint Having a Vigil, if It Occur on Weekdays"
+        },
+        {
+          "line": 50,
+          "level": 3,
+          "title": "If a Forefeast Occur on Weekdays with a Simple Saint, or if Two Saints Occur"
+        },
+        {
+          "line": 72,
+          "level": 3,
+          "title": "If a Dominical Feast or Feast of the Theotokos Occur on Weekdays"
+        },
+        {
+          "line": 76,
+          "level": 3,
+          "title": "If an Afterfeast [within the Feast] Occur on Weekdays with a Simple Saint, or with Two Saints"
+        },
+        {
+          "line": 97,
+          "level": 3,
+          "title": "If in an Afterfeast on Weekdays There Occur a Saint to Whom a Polyeleos Is Appointed"
+        },
+        {
+          "line": 118,
+          "level": 3,
+          "title": "On a Saint Having a Vigil in an Afterfeast on Weekdays"
+        },
+        {
+          "line": 132,
+          "level": 3,
+          "title": "On the Apodosis of a Dominical Feast or Feast of the Theotokos on Weekdays"
+        },
+        {
+          "line": 150,
+          "level": 2,
+          "title": "PART III: SPECIAL RUBRICS FOR THE PRINCIPAL FIXED FEASTS IN ORDER OF THE MENOLOGION"
+        },
+        {
+          "line": 154,
+          "level": 3,
+          "title": "Month of September"
+        },
+        {
+          "line": 186,
+          "level": 3,
+          "title": "On the 7th Day: Forefeast of the Nativity of the Most Holy Theotokos, and of the Holy Martyr Sozon"
+        },
+        {
+          "line": 195,
+          "level": 3,
+          "title": "On the 8th Day: If the Feast of the Nativity of the Theotokos Occur on the Saturday before the Exaltation"
+        },
+        {
+          "line": 201,
+          "level": 3,
+          "title": "Saturday before the Exaltation"
+        },
+        {
+          "line": 206,
+          "level": 3,
+          "title": "Sunday before the Exaltation"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 61,
+        "max_leaf": 70
+      },
+      "anomalies": []
+    }
+  }
+}

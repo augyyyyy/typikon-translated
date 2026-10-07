@@ -1,0 +1,607 @@
+# FOOTNOTES AND SCHOLARLY COMMENTARY
+
+
+
+[^1]: The Slavonic *оуказамъ* refers to the specific rubrical directions, ordos, or prescriptions found throughout the liturgical books.
+
+[^2]: The Gospel Pillars (*Столпы Евангелїйны*) refer to the 11-week cycle of Matins Resurrection Gospels and their corresponding Exapostilaria and Morning Theotokia.
+
+[^3]: The printing establishment of the Greek Catholic Cathedral Chapter of Peremyshl (*Книгопечатня соборнои русскои Капитулы*), which served as a major center for publishing liturgical and pastoral monuments for the Eparchy of Peremyshl.
+
+[^4]: Biblical quotations adhere to the Septuagint and historical Slavonic textual tradition.
+
+[^5]: Clergy in sacred orders and monastic tonsure bound to the recitation of the Divine Office.
+
+[^6]: *Оубѣдница* (Obidnytsia), the Ruthenian designation for the Typika (*Tà Typiká*), celebrated in lieu of the Eucharistic Liturgy on aliturgical days or in the absence of a priest.
+
+[^7]: The author enumerates the fundamental liturgical library required for the Byzantine-Ruthenian Divine Office according to the recension of Peremyshl.
+
+[^8]: The ecclesiastical day, according to Eastern custom and the utterance of the God-seer Moses (Genesis 1:5: "And the evening and the morning were one day"), begins from the evening; wherefore daily Divine Worship has its beginning from Vespers.
+
+[^9]: Fr. Jacob Doskovsky here documents the prevalent Galician/Ruthenian parish practice of anticipating the All-Night Vigil in the early morning hours before sunrise, rather than celebrating it continuously through the evening and night as prescribed in monastic typika.
+
+[^10]: The typographical sign of the red cross without circle (☩) designates a rank of feast with Polyeleos and Great Doxology, but without Litiya.
+
+[^11]: St. Gregory the Dialogist (Pope of Rome, c. 540–604), traditionally named in Ruthenian and Byzantine liturgical books as the compiler of the Liturgy of the Presanctified Gifts.
+
+[^12]: *Клепанїе* (Klepalo): The ritual sounding of the liturgical semantron (wooden or metal sounding-board) or the rhythmic tolling of bells to summon the faithful to divine service.
+
+[^13]: Monastic ordos traditionally locate the Ninth Hour and Small Vespers in the narthex (vestibule), whereas parish custom often transfers them before the holy doors in the nave.
+
+[^14]: Psalm 129:6 (LXX): "From the morning watch until night, from the morning watch let Israel hope in the Lord."
+
+[^15]: In early modern and 19th-century Galicia, the parish celebration of the Vigil (*Vsenochne bdinnia*) was commonly held in the early dawn before sunrise rather than overnight.
+
+[^16]: The ritual command *Повели́те* (Greek: *Келеúсате*, "Give the command / Bid!"), addressed to the presiding hierarch or clergy before the initial doxology of the All-Night Vigil.
+
+[^17]: Psalm 103 (LXX) serves as the introductory psalm (*Prooimiakos*, *Предначина́тельный*) of Byzantine Vespers, hymning creation and Divine providence.
+
+[^18]: Selected verses of Kathisma I (Psalms 1–3) are chanted at Great Vespers on the eve of Sundays and feasts of rank.
+
+[^19]: The secret Entrance Prayer of Vespers (*Молитва входа*): "In the evening and in the morning and at noonday we praise Thee, we bless Thee, we give thanks to Thee, and we pray to Thee, O Master of all..."
+
+[^20]: *Тетраподъ* (Tetrapod): The four-legged central table set in the midst of the nave before the iconostasis, upon which icons are placed for veneration and the Artoklasia (Blessing of Loaves, Wheat, Wine, and Oil) is performed.
+
+[^21]: The orientation of the liturgical vessels on the Tetrapod reflects Ruthenian custom: loaves at the center-rear (top), wheat at center-front (bottom), wine to the right (south), and oil to the left (north).
+
+[^22]: The canonical Artoklasia prayer (*Молитва благословенія хлѣбовъ*), commemorating Christ's miraculous feeding of the five thousand (Matthew 14:13–21).
+
+[^23]: Psalm 33:11 (LXX): "The rich have become poor and have hungered: but they that seek the Lord shall not want any good thing."
+
+[^24]: The Hexapsalmos (*Шестопсалмїе*), comprising Psalms 3, 37, 62, 87, 102, and 142 (LXX), read at the beginning of Matins in solemn stillness while the lights are dimmed.
+
+[^25]: The Polyeleos (*Полѷеле́й*, "Many Mercies"), comprising Psalms 134 and 135 (LXX), chanted at festal Matins.
+
+[^26]: This rubrical instruction delineates the solemn Polyeleos censation and candle-distribution during festal Matins, a distinctive ceremonial feature of the Byzantine-Ruthenian All-Night Vigil.
+
+[^27]: This rubrical instruction concludes the solemn Polyeleos ritual commenced on Book Page 19 (Cohort 1), prescribing that concelebrating clergy divest after the Megalynarion and Little Litany, while the hebdomadary priest remains vested in the phelonion for the Matins Gospel.
+
+[^28]: Psalm 50 (LXX), the classic penitential psalm (*Miserere*), chanted at festal and Sunday Matins immediately following the Gospel reading.
+
+[^29]: The ritual veneration of the Gospel Book in the center of the nave (*Поклоны* / *метанія* to the ground) while Psalm 50 and the post-Gospel stichera are chanted.
+
+[^30]: The blessing and anointing with oil (*Єлеопомазаніє* / *Myrovanist*) blessed at the Artoklasia of the All-Night Vigil, administered by the priest to the faithful during the chanting of the Matins Canon.
+
+[^31]: The incensation of the sanctuary, temple, and brethren during Ode 9 of the Matins Canon, commenced at the solemn proclamation: *"The Theotokos and Mother of the Light let us magnify in hymns!"*
+
+[^32]: The traditional Byzantine-Slavonic response after the dismissal verse: *"Confirm, O God, the holy Orthodox Christian faith, unto ages of ages!"* In Ruthenian printed books of this period, variant recensions exhibit either *православную* ("Orthodox"), *каѳолическую* ("Catholic"), or *святую каѳолическую вѣру православныхъ хрістіанъ* ("the holy Catholic faith of Orthodox Christians").
+
+[^33]: The liturgical Dismissal (*Отпустъ*) rubrics according to the Slavonic Horologion (*Молитвословъ* / *Часословъ*).
+
+[^34]: Psalm 103 (LXX), the Introductory Psalm (*Prooimiakos*, *Предначинательный псаломъ*) of Byzantine Vespers, hymning God's creation and providential governance of the cosmos.
+
+[^35]: The seven secret Prayers of Light (*Молитвы свѣтильничныя*, Lucernarium Prayers) recited by the priest before the holy doors during the chanting or reading of Psalm 103.
+
+[^36]: Doskovsky's rubrical note addresses the integration of the Ninth Hour with Great Vespers on Saturday evening, a common Galician pastoral accommodation where the Ninth Hour directly precedes Vespers without a separate dismissal.
+
+[^37]: Kathisma I (*Блаженъ мужъ* / "Blessed is the man", Psalms 1–3 LXX), chanted at Great Vespers on Saturday evening; selected verses of Antiphon 1 are sung with refrains, while Antiphons 2 and 3 are read by the Reader.
+
+[^38]: The Great Incensation (*Кажденіе великое*) of the sanctuary, iconostasis, clergy, choirs, and nave during the chanting of *"Lord, I have cried"* (Psalms 140, 141, 129, 116 LXX).
+
+[^39]: The solemn Vesperal Entrance with the censer (*Входъ съ кадильницею*) through the north door to the center of the nave and back through the holy doors, performed during the chanting of the Dogmatikon Theotokion.
+
+[^40]: The Ruthenian recension response *"Confirm, O God, the Catholic faith, unto ages of ages!"* (*Утверди, Боже, вѣру каѳолическую во вѣкъ вѣка*), reflecting the post-Zamość (1720) liturgical usage of the Greek Catholic Church in the Habsburg Monarchy.
+
+[^41]: The author provides rubrical directions for the private recitation of Saturday Vespers (*кромѣ Церкви, на единѣ* / in cella) by priests and clerics outside of church services, utilizing the Sunday propers of Tone 6 from the Horologion.
+
+[^42]: The order for Weekday Great Vespers with Entrance and Old Testament Readings (Paroemias) when a feast of a Saint with Polyeleos rank occurs on a weekday.
+
+[^43]: Sunday Midnight Office (*Полунощница недѣльная*) is distinguished from the weekday office by the omission of the Kathisma (Psalm 118) and the insertion of the Triadic Canon (*Троичный канонъ*) of the occurring tone from the Octoechos.
+
+[^44]: The Ruthenian liturgical commemoration of the Roman Pontiff (*Помолимся о святѣйшемъ вселенскомъ Архіереи...* / "Let us pray for the most holy Universal Pontiff...") at the concluding mutual forgiveness of Compline and Midnight Office, customary in Greek Catholic editions.
+
+[^45]: Rubric for the private recitation of Sunday Midnight Office (*на единѣ*), directing the reader to the Triadic Canon and concluding prayer of the Horologion.
+
+[^46]: The Imperial Litany (*Царская ектенія*) for Emperor Franz Joseph I (reigned 1848–1916), who had ascended the Austrian imperial throne four years prior to the publication of this Typikon (1852), demonstrating the civic-liturgical integration of the Greek Catholic Church in Galicia under the Austrian Crown.
+
+[^47]: The placement of the Gospel Book upon the Tetrapod (*Тетраподъ*) for veneration by the faithful during the Matins Canon, a prominent pastoral feature of the Galician and Carpathian liturgical tradition.
+
+[^48]: The rubrical distinction between Matins celebrated as an independent morning service (which includes the Royal Office: Psalms 19 & 20 and Imperial Litany) and Matins joined directly to the All-Night Vigil (wherein the Royal Office is omitted).
+
+[^49]: In the Byzantine and Ruthenian liturgical tradition, Kathisma psalmody is omitted at Sunday evening Vespers (which inaugurates the liturgical week) throughout the entire year, except when Great Lent prescribes Kathisma 14 or when certain Great Feasts override this rule.
+
+[^50]: When Vespers is read privately (*на единѣ*) by a solitary priest or reader without access to the full cycle of choir books (Octoechos, Menaion), the Horologion (*Часословъ*) provides a general daily service (*Обиходна служба*) with general stichera and aposticha addressed to the Lord Jesus Christ.
+
+[^51]: The celebration of the weekday Litiya for the reposed (*Литія о усопшихъ*) immediately following weekday Vespers. The celebrant and choir process into the narthex (*притворъ*) or center of the nave, singing the idiomelon sticheron of the temple patron saint followed by the litany for the departed.
+
+[^52]: Small Compline (*Повечеріе малое*) celebrated in church: the priest initiates the service before the holy doors with the solemn blessing, followed by the reader reciting the appointed psalms, troparia, and prayers as set forth in the Horologion.
+
+[^53]: A distinctive Galician Ruthenian liturgical custom recorded by Doskovsky: outside of Great Lent, after the concluding prayers of Compline (*"O Undefiled, Untainted"* and *"My hope is the Father"*), the choir sings the penitential troparia (*Помилуй насъ, Господи, помилуй насъ*), followed by the Little Supplication Litany (*Помилуй насъ, Боже...*) with petitions for the preservation of the city or village.
+
+[^54]: The Daily Midnight Office (*Полунощница вседневная*) recited either privately (*на единѣ*) or in choir prior to Weekday Matins.
+
+[^55]: An explicit critical and polemical note by Fr. Jacob Doskovsky concerning newer editions of the Horologion printed by the Basilian Fathers at Pochaiv (*Почаевъ*), which had interpolated penitential troparia and litanies into the weekday Midnight Office. Doskovsky rejects these additions as arbitrary and uninstructed innovations absent from ancient and corrected liturgical editions.
+
+[^56]: Rubrical adjustments to the Daily Midnight Office when an All-Night Vigil is appointed for a celebrated saint (rank of Polyeleos or Doxology) but omitted due to pastoral necessity: replacing the troparia after the first and second Trisagia with the Troparion and Kontakion of the Saint.
+
+[^57]: The Royal Office (*Царское начало*) preceding Matins: when the Midnight Office was read privately rather than in choir, the priest enters the sanctuary, makes three reverences before the holy doors, vests in the epitrachelion, and opens Matins with the solemn Royal blessing (*Благословенъ Богъ нашъ...*), followed by Psalms 19 & 20 and the Imperial Litany.
+
+[^58]: The solemn recitation of the Six Psalms (*Шестопсалміе*: Psalms 3, 37, 62, 87, 102, 142 LXX) at Matins, delivered in a quiet, subdued, yet audible voice. During the second triad of psalms (beginning at Psalm 87), the priest reads the twelve secret Morning Prayers before the holy doors.
+
+[^59]: A distinctive Galician and older Ruthenian practice on simple weekdays: the choir sings 12 *Lord, have mercy* (*Господи, помилуй*) followed by *To Thee, O Lord* and *Amen* instead of the priest reciting the Little Litany after the Kathisma divisions.
+
+[^60]: The weekday nine-ode Matins Canon scheme: on simple days, three canons are chanted (from the Octoechos and Menaion) with refrains totaling 14 troparia, concluding with the Katavasia on Odes 3, 6, 8, and 9.
+
+[^61]: The Magnificat (*Величитъ душа моя Господа*, Luke 1:46–55) chanted at Ode 9 of Matins with the refrain *More honorable than the Cherubim* (*Честнѣйшую херувимъ*), accompanied by prostrations or small bows (*метанія*).
+
+[^62]: The First Hour recited immediately following Matins. Doskovsky notes the rubrical variation between festal dismissals with the blessing *God be merciful unto us* versus simple weekday dismissals with *Through the prayers of our holy fathers*.
+
+[^63]: Saturday Matins rubrics: omission of the 14th canon troparion by St. John Damascene for the departed, and omission of the funeral aposticha, except on Lenten Saturdays of the Souls or days with Alleluia.
+
+[^64]: The Entrance Prayers (*Входныя молитвы*) recited by the priest and deacon before the closed holy doors and the iconostasis prior to vesting for the Divine Liturgy.
+
+[^65]: The vesting ritual at the Prothesis (*Жертвенникъ*): the priest washes his hands, reciting Psalm 25:6 (LXX), and blesses each vestment (sticharion, epitrachelion, zone, epimanikia, and phelonion) with specific scriptural verses.
+
+[^66]: The Liturgy of Preparation (*Проскомидія*): Doskovsky explicitly stresses that in concelebrations, only the presiding priest performs the Proskomedia at the table of oblation, while the concelebrating priests do not repeat it privately.
+
+[^67]: The Little Entrance (*Малый входъ*) of the Divine Liturgy: the priest and deacon process behind the holy table, go out through the northern door into the nave preceded by candle-bearers, and stand before the holy doors before entering the sanctuary with the Gospel Book.
+
+[^68]: The High Place procession (*Горнее мѣсто*): after the Trisagion hymn, the deacon and priest cross each other behind the altar table, deacon passing to the right and priest to the left, forming the sign of the cross (*крⷭ҇тное знаменіе вообразующа*), before ascending towards the High Place.
+
+[^69]: Epigraphic and liturgical notation for Epistle and Gospel readings: the subdeacon/reader begins reading the title from the margin and liturgical incipit indicated by markers (`+` or `*`) in the liturgical lectionary codex.
+
+[^70]: The Cherubic Prayer (*Молитва Херувимская*): the silent prayer of humble unworthiness recited by the presiding priest while the choir sings the Cherubic Hymn (*Иже херувимы*), prior to the Great Entrance.
+
+[^71]: The Great Entrance commemorative formula in concelebrations according to the Ruthenian recension. The presiding celebrant commemorates the hierarchy and all orthodox Christians; concelebrating priests commemorate silently or audibly according to local rubrics, processing in hierarchical order behind the holy gifts.
+
+[^72]: The Kiss of Peace and mutual veneration of the veiled gifts by concelebrating clergy prior to the Anaphora. In Ruthenian practice, the concelebrants kiss the diskos, chalice, and holy table, followed by exchanging the ritual kiss on the right shoulder with the greeting: "Christ is in our midst!" and response: "He is and shall be!"
+
+[^73]: The manual fraction of the consecrated Lamb into four parts (IC, XC, NI, KA), the commingling (*Исполненіе*) whereby the portion IC is placed into the holy chalice, and the infusion of the Zeon (*Теплота* / warm water), symbolizing the living vitality of Christ's resurrected Body and Blood and the descent of the Holy Spirit.
+
+[^74]: The formula recited by the deacon when approaching the presiding priest to receive Holy Communion from the portion of the Lamb in the sanctuary, followed by the priest's impartation and the deacon kissing the celebrant's hand.
+
+[^75]: The Typika service (*Изобразительны*, Ukrainian *Обідниця*, Psalms of Representation: Psalms 102 and 145 LXX, the Beatitudes, Creed, and dismissive prayers), which serves as an autonomous non-Eucharistic reader service on days when no Divine Liturgy is celebrated, or sung in place of the daily antiphons.
+
+[^76]: The Vesperal Liturgy of St. Basil the Great, appointed for the eves of Nativity and Theophany, Holy Thursday, Holy Saturday, and the Feast of the Annunciation when falling on a weekday of Great Lent. According to the traditional Byzantine and Ruthenian ordo, it is celebrated at the 9th hour (mid-afternoon, circa 3:00 PM) following a day of total fast.
+
+[^77]: The ancient baptismal troparion (*"As many of you as have been baptized into Christ have put on Christ. Alleluia"*, Galatians 3:27) chanted in place of the Trisagion at the Divine Liturgy of Holy Saturday, Pascha, Bright Week, Pentecost, Nativity, Theophany, and Lazarus Saturday, commemorating the ancient initiation of catechumens.
+
+[^78]: The concurrence of the Feast of the Annunciation of the Most Holy Theotokos (March 25) with a weekday of Great Lent (Monday through Friday), wherein the Divine Liturgy of St. John Chrysostom is celebrated in union with Great Lenten Vespers, whereas on Holy Thursday or Holy Saturday St. Basil the Great is celebrated.
+
+[^79]: The Liturgy of the Presanctified Gifts (*Литургія преждеосвященныхъ даровъ*), traditionally attributed to St. Gregory the Dialogist (Pope of Rome). Because no Eucharistic consecration occurs on penitential Lenten weekdays, additional Lambs are consecrated at the Sunday Divine Liturgy, intincted with the Precious Blood, and preserved in the tabernacle.
+
+[^80]: The abbreviated vesting rite for the Presanctified Liturgy. Because the service commences as solemn Vespers, the priest does not recite the elaborate Eucharistic vesting prayers or vest in all five sacerdotal vestments, but dons the epitrachelion and phelonion, simply blessing each and kissing the cross thereon.
+
+[^81]: Historical divergence in Ruthenian and Slavic rubrical codices concerning the exact time for transferring the Presanctified Lamb from the tabernacle on the holy table to the table of oblation (*жертвенник*): whether prior to the opening blessing, during the recitation of the 18th Kathisma, or at the Great Entrance.
+
+[^82]: The solemn proclamation of *Lumen Christi* (*"The Light of Christ illumines all!"*): the priest holds a lighted candle and censer, faces east toward the altar, and turns to the people, who perform a full prostration (*земной поклонъ*) to the earth, echoing the ancient illumination (*просвѣщеніе*) of catechumens.
+
+[^83]: The solemn chanting of the Great Prokeimenon from Psalm 140:2 (LXX), repeated six times with appointed verses by the celebrants before the holy doors and alternated by the choir, during which all clergy and faithful remain prostrated upon the earth.
+
+[^84]: The Litany for Those Preparing for Holy Illumination (*Ектенія о просвѣщаемыхъ*), introduced into the Presanctified Liturgy from the Wednesday of Mid-Lent (the fourth week of Great Lent) through Holy Wednesday, appointed for catechumens receiving holy baptism at the Paschal Vigil.
+
+[^85]: The Great Entrance of the Presanctified Gifts, chanted to the ancient hymn *"Now the powers of heaven with us invisibly do serve"*. Because the Holy Mysteries are already consecrated, the procession proceeds in absolute silence without verbal commemorations, and all clergy and faithful make a profound prostration to the floor before the passing King of Glory.
+
+[^86]: The non-consecratory pouring of wine and water into the chalice at the table of oblation: in Byzantine theology and Ruthenian liturgical practice, this wine is not consecrated into the Blood of Christ by an Epiklesis, but is sanctified by the commingling (*Исполненіе*) of the consecrated Lamb for communion.
+
+[^87]: Part I of Fr. Jacob Doskovsky's Typikon contains the Directory for Sundays (*Уставъ недѣльный*) and the Fixed Feast Cycle (Menologion / Monthly Calendar from September 1 to August 31), regulating the precedence and combination of Sunday Resurrection services with saints of various classifications.
+
+[^88]: Canonical rubrics governing ordinary Sundays when coinciding with a Simple (Minor) Saint having no feast ranking (neither Doxology, Polyeleos, nor Vigil). The Sunday Resurrection office in the Octoechos takes primacy, with the Saint's hymns appended according to fixed proportion (6 + 4 at Vespers, 8 + 4 at Matins).
+
+[^89]: The chanting of the Polyeleos (Psalms 134 & 135 LXX) on ordinary Sundays during the winter season and Great Lent, accompanied by the distinctive "Bulgarian refrains" (*припѣли болгарскіи*) characteristic of the southwestern Ruthenian chant tradition recorded in the printed Heirmologia.
+
+[^90]: The eleven-week cycle of Sunday Matins Resurrection Gospels (*Воскресніи евангеліа*) attributed to the Byzantine Emperor Leo VI the Wise (886–912), chanted in sequential rotation with their matching Exapostilaria and Eothina stichera.
+
+[^91]: The traditional Ruthenian table of Sunday Festal Theotokion Kontakia chanted after the Little Entrance at the Divine Liturgy according to the Tone of the week, following the ancient Galician recension rubrics.
+
+[^92]: The liturgical concurrence of two simple (minor) saints having separate offices falling on a Sunday. The Octoechos Resurrection office maintains primacy, with stichera at "Lord, I have cried" apportioned as 4 + 3 + 3, and canons at Matins apportioned as 4 (Resurrection) + 2 (Theotokos) + 8 (4 to each saint), omitting the Sunday Cross-Resurrection canon.
+
+[^93]: The distribution of troparia and kontakia at the Little Hours (1st, 3rd, 6th, and 9th Hours) during a Sunday concurrence of two simple saints. The commemorations rotate among the 1st saint (3rd Hour), the temple patron (6th Hour), and the 2nd saint (9th Hour), ensuring all patronal and daily commemorations are represented in the Horologion cycle.
+
+[^94]: The graphic symbol of three red dots arranged in a triangle (⁘), used in the Church Slavonic Horologion (Chasoslov) to denote a Saint "sung to six" (*на шесть*). If the Festal or Monthly Menaion lacks a full six-stichera set for such a commemoration, the deficit is supplied from the General Menaion (*Общая Минея*).
+
+[^95]: The rubrical divergence cited by Doskovsky between the Pochaiv Typikon (*Почаевскій Уставъ*), which prescribes 6 stichera for the saint at Saturday Vespers, and the ancient Typika (including the Sabbaitic/Nikonian recension), which assign 6 to the Octoechos and 4 to the saint.
+
+[^96]: The rubrical order for a Six-Stichera Saint possessing appointed pericopes (Epistle and Gospel) at the Divine Liturgy. In such instances, the saint's troparion and kontakion are inserted into the Little Entrance commemorations alongside the Sunday Resurrection and patronal propers.
+
+[^97]: The liturgical rule governing the conclusion of the Megalynarion (*Величаніе*) for a Polyeleos Saint on Sunday: the Little Doxology (*"Glory..., Now and forever..."*) and the concluding triple Alleluia are omitted, transitioning directly into the Sunday Resurrectional Evlogetaria (*"The Angelic Counsel was amazed..."* / *Аггельскій соборъ удивися*).
+
+[^98]: The apportionment of Sunday Matins canons when a Polyeleos Saint has two appointed canons: the Sunday Cross-Resurrection canon is omitted, and 8 troparia are appointed for the saint's two canons, alongside 4 for the Resurrection canon and 2 for the Theotokos.
+
+[^99]: Little Vespers (*Малая вечерня*) celebrated on Saturday afternoon prior to an All-Night Vigil for a Saint. It consists of an abridged selection of stichera at "Lord, I have cried" (4 Octoechos, Doxastikon of the saint) and Aposticha, followed by the Little Dismissal (*Малый отпустъ*).
+
+[^100]: The Rite of Litiya (*Литія*) and Artoklasia (Blessing of Loaves, Wheat, Wine, and Oil) at Great Vespers of an All-Night Vigil on Saturday evening. At the Blessing of Loaves, the troparion *"O Virgin Theotokos, rejoice"* (*Богородице Дѣво, радуйся*) is sung twice, followed by the troparion of the saint once.
+
+[^101]: The ancient Typikon rubric cited by Doskovsky regarding the troparion sequence at the Divine Liturgy Little Entrance in churches dedicated to the Theotokos: the troparion of the Theotokos temple patron precedes the saint's troparion, reflecting the primacy of the Mother of God.
+
+[^102]: The concurrence of a Forefeast (*Предпразднство*) of a Dominical or Theotokos Feast with a Sunday and a simple saint. The Forefeast hymns take precedence over the saint, while the Forefeast sessional hymns after the Kathismata are suppressed in favor of the Sunday Resurrection sessional hymns.
+
+[^103]: The rubrical rule that when a Forefeast falls on a Sunday alongside two simple saints, the office of the second saint is completely omitted from the public Sunday services and relegated to Saturday Compline together with the Theotokos canon.
+
+[^104]: The total suppression of the Sunday Resurrection office on Dominical Feasts of the Lord (*Господскіи / Владычніи праздники*), including the Exaltation of the Cross, Nativity of Christ, Theophany, and Transfiguration. The Sunday resurrectional hymns, Gospel, and Octoechos Tone are completely omitted, and the weekly Tone is advanced without being sung.
+
+[^105]: The rubrics governing the Great Prokeimena chanted at Vespers when a Dominical Feast coincides with Saturday or Sunday: on Friday evening if the feast falls on Saturday, or on Saturday and Sunday evenings if the feast falls on Sunday.
+
+[^106]: The ceremonial distribution of lighted candles (*свѣщи*) to the clergy and brethren during the chanting of the Polyeleos and Megalynarion on Dominical Feasts, and again at Ode 9 of Matins during the Festal Magnifications (*Припѣвы*), accompanied by a general censing of the temple.
+
+[^107]: The liturgical classification of Great Feasts of the Most Holy Theotokos and the Meeting of the Lord (*Срѣтеніе*) when coinciding with Sunday. Unlike Dominical Feasts, Theotokos Feasts do not suppress the Sunday Resurrection office, but are harmoniously combined with it in equal solemnity.
+
+[^108]: The structural sequence of Matins for Theotokos Feasts on Sunday: the Sunday Resurrectional Evlogetaria (*"The Angelic Counsel was amazed..."*) are chanted immediately following the festal Megalynarion, followed by the Festal Sessional Hymns, the Sunday Graduals, and the Festal Gospel.
+
+[^109]: The ceremonial unction with blessed oil (*помазованіе елеемъ*) from the lamp of the feast, administered to the faithful at the conclusion of Matins (or following the Gospel) during the chanting of the Eothinon sticheron, after which the First Hour is read in the narthex.
+
+[^110]: The rubrics governing Afterfeasts (*Попразднство / Внутрь праздника*) falling on Sunday: combining the Sunday Resurrection office with the Afterfeast and a simple saint, including the replacement of the Axion Estin (*Достойно есть*) with the Festal Zadostoinik (9th Ode Heirmos and Refrain).
+
+[^111]: The Christological Entrance response clauses (*Входное*) at the Divine Liturgy during Afterfeasts of Dominical Feasts, replacing the standard Sunday refrain with the festal mystery: *"Who wast crucified in the flesh"* (*плотію распныйся*) or *"Who wast born of a Virgin"* (*Рождейся отъ Дѣвы*).
+
+[^112]: The liturgical concurrence of an Afterfeast of a Dominical or Theotokos Feast falling on a Sunday with a Polyeleos Saint. The Sunday Resurrection office maintains foundational primacy, with stichera at "Lord, I have cried" apportioned as 3 (Octoechos) + 3 (Feast) + 4 (Saint), and canons at Matins apportioned as 4 (Resurrection) + 4 (Feast) + 6 (Saint), with the Katavasia of the cycle chanted after each ode.
+
+[^113]: The ceremonial sequence at Sunday Matins during an Afterfeast with a Polyeleos Saint: following the chanting of the Polyeleos and Megalynarion for the saint, the Little Doxology ("Glory..., Now and forever...") and concluding Alleluia are omitted, transitioning immediately into the Sunday Resurrectional Evlogetaria ("The Angelic Counsel was amazed..." / *Аггельскій соборъ удивися*).
+
+[^114]: The Christological Entrance response clauses (*Входное*) at the Divine Liturgy during Afterfeasts of Dominical Feasts coinciding with a Polyeleos Saint on Sunday: the standard Sunday refrain is replaced by the specific festal clause (e.g., *"Who wast transfigured on Mount Tabor"*, *"Who wast baptized in the Jordan"*, or *"Who didst rise from the dead"*).
+
+[^115]: The concurrence of an Afterfeast on a Sunday with a Saint having an All-Night Vigil (*всенощное бдѣніе*): Little Vespers is chanted on Saturday afternoon, and Great Vespers includes the customary three Old Testament readings (Paremias), the Rite of Litiya, and the Blessing of Loaves (Artoklasia), at which the troparion *"O Virgin Theotokos, rejoice"* is chanted twice and the troparion of the saint once.
+
+[^116]: The Apodosis (*Отданіе*) of a Dominical or Theotokos Feast occurring on a Sunday: the commemoration of the daily Menaion saint is completely suppressed from the Sunday office (and transferred beforehand to a preceding weekday), with the sole exception of the Feast of the Entry of the Most Holy Theotokos (*Введеніе*).
+
+[^117]: The distribution of troparia and kontakia at the Little Hours on the Apodosis of a feast falling on a Sunday: the Resurrection Troparion is chanted first, followed at "Glory" by the troparion of the feast; following the Lord's Prayer ("Our Father..."), the Resurrection Kontakion and the Festal Kontakion are alternated across the 1st, 3rd, 6th, and 9th Hours.
+
+[^118]: The liturgical substitution at the Divine Liturgy on the Apodosis of a feast on Sunday: in place of the customary hymn to the Mother of God, the *Axion Estin* (*Достойно есть*), there is chanted the Festal Zadostoinik, consisting of the Heirmos of the 9th Ode of the festal canon.
+
+[^119]: The Feast of the Temple Patron (*Храмъ свята́го*) falling on a Sunday: celebrated with the complete solemnity of an All-Night Vigil harmonized with the Sunday Resurrection office, with the distinctive rubric that at Matins the Prokeimenon, the Gospel, and the post-Gospel Sticheron are taken exclusively from the Temple patron rather than the Resurrection cycle.
+
+[^120]: The Rite of the Apodosis in honor of the Temple Patron (*Отданіе за по́честь хра́ма*) celebrated on Sunday evening: a distinctive Ruthenian liturgical practice wherein the patronal saint receives a solemn post-festal Apodosis at Vespers with a ringing of the chimes (*трезвонъ*), unless superseded by an incoming Dominical or Theotokos Feast, or a Great Saint having a Vigil, Polyeleos, Entrance, or Paremias.
+
+[^121]: The concurrence of a Temple Patronal Feast with an Afterfeast on Sunday: the commemoration of the Temple patron takes absolute precedence over the Afterfeast (which is completely omitted from the office), being celebrated according to the full order of a Great Saint with Polyeleos.
+
+[^122]: The concurrence of a Temple Patronal Feast with a Forefeast or the Apodosis of a Feast on Sunday: stichera at "Lord, I have cried" are apportioned as 3 (Resurrection) + 3 (Feast) + 4 (Temple), with the Temple Doxastikon at "Glory" and the Dogmatikon of Tone 1 (or of the week) at "Now and forever".
+
+[^123]: Title marker II (*В҃. Оука́зъ дне́мъ седми́чнымъ и҆ суббо́тамъ*) marks the second major structural division of the Doskovsky Typikon, shifting from Sunday concurrences to the systematic ordinarium for ordinary weekdays (Monday through Friday) and Saturdays.
+
+[^124]: The weekday order for a Simple (minor) Saint without mark: stichera at "Lord, I have cried" are apportioned 3 to the Octoechos and 3 to the saint, followed by the daily Prokeimenon; on Tuesday and Thursday evenings, Stavrotheotokia (*Крестобогородичны*) are substituted for the ordinary Theotokia in anticipation of the liturgical commemorations of the Cross on Wednesday and Friday.
+
+[^125]: The Compline order on weekdays: the sequence of patronal and daily troparia is determined by the church dedication (Christ/Theotokos vs. Saint), followed by the ancient Ruthenian Compline petitions: *"O God of our fathers..."* (*Боже отецъ нашихъ*), *"Who in all the world..."* (*Иже во всемъ мірѣ*), the Kontakion of the Departed (*"With the saints give rest..."*), and the Theotokion.
+
+[^126]: The Matins canon rubrics on weekdays for a Simple Saint: both Octoechos canons are combined with their Heirmos to 8, and the Saint's canon to 4; the Katavasia (the Heirmos of the saint's canon) is chanted only after Odes 3, 6, 8, and 9, rather than after every individual ode.
+
+[^127]: The distribution of troparia and kontakia at the Little Hours on weekdays: the commemorations are apportioned sequentially among the Day (1st Hour), the Saint (3rd and 9th Hours), and the Temple Patron (6th Hour), maintaining daily liturgical continuity.
+
+[^128]: The inclusion of commemorations for the departed and Special Petitions (*за всякое прошеніе*) at the weekday Divine Liturgy: inserting votive troparia and kontakia into the Little Entrance sequence alongside the daily propers, and reading dual pericopes (Day + Departed / Special Petition).
+
+[^129]: The Eastern Church and Ruthenian practice regarding weekday Epistle and Gospel pericopes: the continuous annual cycle of the pillar (*столпъ*) is strictly read without multiplying saint pericopes, unless an appointed saint has designated readings; if an All-Night Vigil follows on the morrow, the suppressed weekday pericope is read on the eve "under one pericope" (*подъ зача́ло*).
+
+[^130]: A typographical error in the 1852 Peremyshl print on Book Page 117 (`По г҃ й, ѕ҃ й, и҆ д҃ й пѣ́сни...`), which conflates Katavasia numbering with the Ode 3 and Ode 6 sessional and kontakion placements for two concurrent saints on Saturday. The text is transcribed verbatim in the source and marked as `[sic]` in the translation.
+
+[^131]: The liturgical priority of scriptural readings on Saturdays: when a saint with an appointed service falls on a Saturday, the Saint's Epistle, Gospel, Prokeimenon, and Communion Hymn precede the daily Saturday pericopes, reversing the ordinary weekday sequence.
+
+[^132]: The order for a Saint "sung to six" (marked with ⁘ in the Horologion) on weekdays: 6 stichera are chanted to the saint at "Lord, I have cried", the Martyria are omitted from the Octoechos canons at Matins, and the Katavasia (the Heirmos of the saint's canon) is chanted after Odes 3, 6, 8, and 9.
+
+[^133]: The weekday order for a Saint having a Polyeleos (*О святыхъ имущихъ полѵелей*): the Octoechos is completely suppressed in favor of the Anthologion or Menaion; *Blessed is the man* (the first Kathisma of the Psalter) is appointed at Vespers on Sunday evening and throughout the week; and the Theotokion at "Now and forever" at "Lord, I have cried" is taken as the Dogmatikon in the tone of the Saint's Doxastikon (or the outgoing Sunday tone on Friday eve).
+
+[^134]: The weekday Matins canon distribution for a Polyeleos Saint: the Theotokos Canon is appointed to 6 and the Saint's canon to 8, with the Katavasia of the cycle chanted after each ode; the printed footnote in the 1852 edition specifies that if the Polyeleos Saint falls on a Saturday, the Canon of the Temple Patron is substituted for the Theotokos Canon to 6.
+
+[^135]: The weekday All-Night Vigil for a Great Saint (*О святыхъ имущихъ бдѣніе*): celebrated with Little Vespers in the afternoon and Great Vespers at nightfall, including the chanting of *Blessed is the man*, eight stichera at "Lord, I have cried", three Old Testament readings (Paremias), the Rite of Litiya, and the Blessing of Loaves (Artoklasia).
+
+[^136]: The rubrics of the Artoklasia (Blessing of Loaves) at a weekday All-Night Vigil: following the troparia and the threefold singing of *Blessed be the Name of the Lord*, Psalm 33 (*Благословлю Господа*) is chanted through verse 10 (*не лишатся всякаго блага*), during which the blessed bread is distributed and a patristic reading from the Life of the Saint is read.
+
+[^137]: The concurrence of a Forefeast with a Simple Saint (or two saints) on weekdays: the Octoechos is suppressed, stichera at "Lord, I have cried" are divided equally (3 Forefeast + 3 Saint, or 6 to both saints), and on Friday evening the Dogmatikon of the outgoing week is sung at "Now and forever", except during the forefeasts of the Nativity of Christ and Theophany.
+
+[^138]: The distribution of propers at the Little Hours during a weekday Forefeast: the Festal Forefeast troparion and kontakion govern the 1st and 6th Hours, while the commemorated Saint's troparion and kontakion are inserted at the 3rd and 9th Hours; when two saints concur, their troparia alternate between the 3rd and 6th Hours.
+
+[^139]: The rubric for Dominical and Theotokos Feasts falling on weekdays incorporates the full ceremonial apparatus set forth on leaf 91 (Cohort 5), specifying that for Feasts of the Theotokos, the Typika and Beatitudes (Odes 3 and 6) are sung at the Divine Liturgy rather than festal antiphons.
+
+[^140]: The Katavasia assignment during a weekday Afterfeast: the Heirmos of the saint's canon is chanted as Katavasia after Odes 3, 6, 8, and 9; the typographical error in the 1852 text citing "д҃" (the 4th) for the Little Hours is noted as referring to the 6th or 9th Hour alternation.
+
+[^141]: The Ruthenian liturgical custom regarding the Divine Liturgy during Afterfeasts on weekdays: distinguishing between Afterfeasts of Dominical Feasts (where some traditions chant festal antiphons until the Leave-taking) and Afterfeasts of the Theotokos (which retain daily antiphons/Beatitudes), with the 9th Ode Heirmos and festal refrain universally replacing the *Axion Estin* (*Достойно есть*).
+
+[^142]: The concurrence of an Afterfeast with a Polyeleos Saint on a weekday: stichera at "Lord, I have cried" are set to 8 (3 Feast + 5 Saint), and at Matins the Polyeleos and Megalynarion are chanted for the saint, followed by the Festal Sessional Hymn and Graduals of Tone 4.
+
+[^143]: The concurrence of an Afterfeast with an All-Night Vigil Saint on weekdays: celebrated with Little Vespers, Great Vespers with Litiya and Artoklasia, and the transfer of the daily Epistle and Gospel pericopes to an earlier day to accommodate the full propers of the Vigil Saint.
+
+[^144]: The Apodosis (*Отданіе*) of a Dominical or Theotokos Feast occurring on a weekday: the commemoration of the daily Menaion saint is completely transferred to the preceding day (except on the Apodosis of the Entry of the Theotokos, where the saint is retained), and the festal office is repeated without the Little Entrance, Paremias, Polyeleos, or Matins Gospel.
+
+[^145]: The Midnight Office on a weekday Apodosis retains the ordinary daily troparia rather than the festal propers, and includes the solemn commemoration prayer for the departed (*"Remember, O Lord, in hope of the resurrection unto eternal life..."* / *Помяни, Господи, въ надеждѣ*).
+
+[^146]: Part III of the Doskovsky Typikon commences the Menologion (Fixed Feasts) with September 1: the Church New Year / Indiction (*Начало Индікта*), designated historically as "The Beginning of Christian Freedom" (*Начатокъ свободы христіанскія*) in commemoration of Constantine the Great's victory, celebrated alongside St. Symeon the Stylite and the Holy Women.
+
+[^147]: The concurrence of the Patronal Feast of St. Symeon the Stylite with the Indiction on September 1: celebrated with an All-Night Vigil harmonizing the New Year propers with the Temple patron; on Sunday, the commemoration of the Holy Women is deferred by decision of the church superior.
+
+[^148]: September 7 Forefeast of the Nativity of the Most Holy Theotokos and Martyr Sozon: when coinciding with a Sunday, the Sunday Resurrection propers harmonize with the Forefeast, integrating the designated Sunday before the Exaltation scriptural readings.
+
+[^149]: Pericope coordination for the Nativity of the Most Holy Theotokos (September 8) falling on the Saturday or Sunday before the Exaltation of the Holy Cross: resolving liturgical clashes by transferring the Saturday before the Exaltation pericopes to September 13 (Dedication of the Resurrection) and omitting the evening Kathisma on the feast day on account of the Vigil.
+
+[^150]: September 13 Commemoration of the Dedication of the Church of the Holy Resurrection on Golgotha (*Память Обновленія храма*): preceded by the historical prologue recalling the dedication of the Constantinian basilica in Jerusalem (A.D. 335), celebrated together with the Forefeast of the Cross and St. Cornelius the Centurion.
+
+[^151]: The rubrical harmonization when the Dedication of the Holy Resurrection (September 13) or the Exaltation of the Cross (September 14) coincides with Sunday: prioritizing the pericopes of the Sunday before the Exaltation and Dedication, while transferring the daily pillar cycle and deferring the memory of St. Cornelius the Centurion.
+
+[^152]: The solemn Rite of Bringing Out the Precious Cross (*Чинъ изношенія Креста*) on the Eve of the Universal Exaltation (September 14): the preliminary translation of the Cross adorned with basil from the Skeuophylakion (*сосудохранилиница*) to the Prothesis table before Vespers; followed after Little Vespers by vesting in epitrachelion and phelonion, censing, and carrying the Cross upon the priest's head into the sanctuary to be enthroned upon the Holy Table until the Great Doxology on the morrow.
+
+[^153]: The Gospel pericope appointment at Matins of the Universal Exaltation of the Holy Cross: John §42 from the midpoint (John 12:28–36), followed immediately by *Having beheld the Resurrection of Christ*, which is chanted invariably even when the feast occurs on a weekday.
+
+[^154]: The solemn Rite of the Elevation of the Holy Cross (*Чинъ Воздвиженія Честнаго Креста*): celebrated at the conclusion of the Great Doxology, wherein the celebrant carries the Cross upon his head into the nave, censes It upon the tetrapod, and performs five distinct elevations facing east, west, south, north, and east again, accompanied by five petitions and 500 chants of *Lord, have mercy* (a hundred at each station), bowing low until his head is a span from the floor and slowly raising the Cross aloft.
+
+[^155]: The enthronement and veneration of the Precious Cross in the nave: following the five elevations and the chanting of *To Thy Cross we bow down in worship, O Master* (*Кресту Твоему покланяемся, Владыко*), the faithful venerate the Cross to the singing of the Idiomela of the Cross; the tetrapod bearing the Cross is then stationed on the right side of the Royal Doors throughout the entire eight days until the Apodosis.
+
+[^156]: The strict fasting discipline appointed for the Universal Exaltation of the Holy Cross (September 14): wine and oil are permitted at the trapeza, but cheese, eggs, dairy, and meat are strictly prohibited, even when the feast occurs on a Sunday.
+
+[^157]: The festal Antiphon refrain (*Припѣвъ на входѣ*) prescribed for the Divine Liturgy throughout the Afterfeast of the Exaltation: *"Save us, O Son of God, Who wast crucified in the flesh, who sing to Thee: Alleluia"* (*Спаси насъ, Сыне Божій, плотію распныйся, поющія Ти: Аллилуіа*), replacing the customary seasonal entrance response until the Apodosis.
+
+[^158]: Pericope synchronization for the Saturday and Sunday after the Exaltation of the Holy Cross: coordinating 1 Corinthians §125 (1 Cor 1:26–29) and John §30 (John 8:21–30) on Saturday, and Galatians §203 (Gal 2:16–20) and Mark §37 (Mark 8:34–9:1) on Sunday, alongside the ordinary daily cycle.
+
+[^159]: The liturgical Apodosis (*Отданіе*) of the Universal Exaltation on September 21 (commemoration of St. Quadratus of the Seventy): the festal propers are repeated for the final time; after the dismissal of the Divine Liturgy, the celebrant and deacon solemnly cense the Cross, venerate It, and the priest bears the Cross upon his head back into the sanctuary through the Royal Doors.
+
+[^160]: The winter distribution of the Psalter in the Ruthenian Typikon: commencing on September 22 (the morrow of the Apodosis of the Cross) and continuing until December 20, the daily Matins Psalter is increased to three Kathismata on weekdays, while on Sundays two Kathismata are chanted together with the Polyeleos and the traditional Bulgarian refrains (*припѣвы болгарскіа*).
+
+[^161]: Concurrence of the Feast of the Protection of the Most Holy Theotokos (Pokrov, October 1) with Sunday: combining the Sunday Resurrection office with the festal propers of the Protection and the Apostle Ananias, while deferring the commemoration of St. Romanus the Melodist to another day.
+
+[^162]: Commemoration of the Holy Fathers of the Seventh Ecumenical Council (Nicaea II, A.D. 787): observed on the Sunday falling between October 11 and October 17, celebrating the definitive victory of Orthodoxy over iconoclasm and the dogmatic restoration of the veneration of the Holy Icons.
+
+[^163]: Concurrence of the Feast of Great-Martyr Demetrius of Thessalonica (October 26) with the Commemoration of the Great Earthquake of Constantinople (A.D. 740) on Sunday: integrating the three canons (Sunday Resurrection, Earthquake, and St. Demetrius) at Matins with Katavasia *I will open my mouth*, and alternating the commemorations across the Little Hours.
+
+[^164]: The institution of the St. Philip Fast (Pylypivka / Nativity Fast, *Филипповка*): Meatfare is permanently fixed on November 14 (Feast of the Apostle Philip), with the forty-day fast commencing on November 15; if November 14 falls on a Wednesday or Friday, Meatfare is anticipated on November 13 (St. John Chrysostom), as eating meat on Wednesday or Friday is strictly prohibited by canonical statute.
+
+[^165]: Calendar mechanics governing the Sunday of the Holy Forefathers (*Недѣля святыхъ Праотецъ*): movable between December 11 and December 17 (falling two Sundays prior to Christmas), followed on the penultimate Sunday before Christmas by the Sunday of the Holy Fathers (*Недѣля святыхъ Отецъ*, December 18–24).
+
+[^166]: The Gospel of the Great Banquet (Luke §76, Luke 14:16–24): permanently appointed for the Divine Liturgy on the Sunday of the Forefathers regardless of whether it falls before or after the 28th Sunday after Pentecost, with the ordinary pericope of the Sunday either transferred or combined.
+
+[^167]: Liturgical Notice 1 (*Примѣчаніе 1*) on the coordination of the Lucan Jump and Pre-Lenten boundaries: regulating the fulfilment of unread ordinary Sunday Epistles and Gospels when the Triodion begins early, preventing omissions between the post-Theophany cycle and the Sunday of the Publican and Pharisee.
+
+[^168]: Liturgical Notice 2 (*Примѣчаніе 2*) on the repetition and backward calculation (*отступка*) of Sunday pericopes: when Pascha is late and the interval between the 1st Sunday after Theophany and the Sunday of the Publican is extended, ordinary pericopes are borrowed backward beginning from the 31st Sunday after Pentecost to fill the liturgical vacancy.
+
+[^169]: The structural independence of the Octoechos 8-Tone pillar cycle (*столпы*) and Sunday Matins Gospels from the movable Lucan deferrals: the eight tones and eleven resurrectional Matins Gospels continue in strict invariable succession through the 5th Sunday of Great Lent, governed by the six perpetual pillars set forth in the Horologion.
+
+[^170]: The Paschal Boundary Key Table (*Ключи граничные*): a 35-letter algorithmic table (A–II / А҃–Ѫ҃) mapping the calendar date of Pascha (March 22 to April 25 Old Style) to the exact Sunday reading resumed after the 1st Sunday after Theophany, coordinating the Zacchaeus pericope (Luke §94) with the onset of the Lenten Triodion.
+
+[^171]: The liturgical suspension of the Octoechos and Polyeleos during the Winter Festal Season: from December 20 (commencement of the Forefeast of the Nativity) until January 14 (Apodosis of Theophany), the daily Octoechos is suppressed on weekdays, and the Polyeleos is omitted on Sundays unless a Great Saint coincides.
+
+[^172]: The rubrical distribution of the Royal Hours (*Царскіе Часы*) on Christmas Eve: when the Nativity of Christ falls on Sunday or Monday, the Royal Hours are anticipated on Friday morning without a Liturgy; when Christmas falls between Tuesday and Saturday, the Royal Hours are chanted on Christmas Eve (December 24) before noon.
+
+[^173]: The ceremonial order of the Royal Hours of Christmas Eve: celebrated in the center of the nave before the tetrapod upon which the Book of the Gospels is solemnly enthroned, with continuous censing, three Psalms at each Hour, Old Testament Paremias, Apostle and Gospel readings, concluding with the Typika (*Обидниця*).
+
+[^174]: Christmas Eve Vespers united with the Divine Liturgy of St. Basil the Great: celebrated in the afternoon with eight Old Testament readings, after which the festive candle-stand is placed in the center of the nave and both choirs unite to chant the Christmas Troparion (*"Thy Nativity, O Christ our God..."*) and Kontakion, followed by a strict fast meal of cooked food with oil.
+
+[^175]: The conclusion of Christmas Eve (December 24) when the Nativity of Christ occurs on a Sunday or Monday: the Divine Liturgy of St. John Chrysostom is celebrated in the morning at its proper time, followed by Vespers with eight Old Testament readings at the 7th hour of the day (1:00 PM), concluding with the lighting of the candle-stand, the chanting of the festal Troparion and Kontakion, and a monastic collation of boiled wheat or kutia (kolivo) prepared with honey and olive oil.
+
+[^176]: The solemn order of Great Compline with Litiya (*Повечеріе великое съ литіею*) on the night of the Nativity of Christ: celebrated at the 10th hour of the night (4:00 AM, four hours after midnight) with the great bell and festive chiming of all bells, the priest vesting in phelonion, the solemn chanting of *God is with us* (*Съ нами Богъ*), Litiya in the narthex with the blessing of five loaves, wheat, wine, and oil, immediately followed by the Six Psalms of Matins.
+
+[^177]: The universal fasting dispensation of the Twelve Days (*Дванадесятодневіє* / Svyatki) extending from the Nativity of Christ (December 25) to the Eve of Theophany (January 5): laity are permitted meat and monastics dairy and eggs on every day without exception, including Wednesday and Friday, by ancient canonical decree.
+
+[^178]: The festal Introit refrain (*Припѣвъ на входѣ*) prescribed for the Divine Liturgy throughout the Afterfeast of the Nativity of Christ: *"Save us, O Son of God, Who wast born of the Virgin, who sing to Thee: Alleluia"* (*Спаси ны, Сыне Божій, рождейся отъ Дѣвы, поющія Ти: Аллилуіа*), chanted daily until the Apodosis on December 31.
+
+[^179]: Calendar mechanics governing the Commemoration of the Holy God-ancestors (*Святыхъ Богоотецъ* — David the King, Joseph the Betrothed, and James the Brother of the Lord): when the Nativity of Christ occurs on a Sunday, the Sunday after Nativity cannot be observed on the subsequent Sunday (January 1) because the Afterfeast has concluded and January begins; therefore, the commemoration of the God-ancestors is transferred immediately to Monday, December 26 (the morrow of the Nativity).
+
+[^180]: The liturgical order of the Sunday after the Nativity of Christ (*Недѣля по Рождествѣ Христовомъ*): combining the Sunday Resurrection office with the Afterfeast and the commemorations of the Righteous Joseph the Betrothed, David the King, and James the Brother of the Lord (*Adelphotheos*), with their troparion *Proclaim the good news, O Joseph* (*Благовѣствуй, Іосифе*).
+
+[^181]: Synchronizing the Epistle and Gospel pericopes for the Saturdays and Sundays between the Nativity and Theophany when Christmas occurs on a Sunday: since only a single Saturday and Sunday intervene, the Sunday after Nativity is celebrated on Monday, December 26; the Saturday after Nativity on Saturday, December 31 (the Apodosis); and the Sunday before Theophany on January 1 alongside the Circumcision and St. Basil the Great.
+
+[^182]: The complete rubrical permutations governing the post-Nativity and pre-Theophany cycle across all days of the week: detailing the distribution of Saturday and Sunday pericopes when Christmas falls on Monday, Tuesday, Wednesday/Thursday/Friday, or Saturday, preventing any liturgical collision between the two Great Feasts.
+
+[^183]: Concurrence of the patronal temple feast of St. Stephen the Protomartyr (December 27) with the Sunday after Nativity: an All-Night Vigil is celebrated, uniting the Sunday Resurrection office, the God-ancestors, and the Protomartyr, with the Polyeleos and Megalynarion of St. Stephen, Graduals of Tone 3, and Luke §52 at Matins.
+
+[^184]: The Feast of the Circumcision of our Lord and St. Basil the Great (January 1) coinciding with the Sunday before Theophany: celebrated with an All-Night Vigil, combining the Sunday Resurrection office with the Circumcision and St. Basil, singing the Liturgy of St. Basil the Great with the megalynarion *In thee rejoices* (*О тебѣ радуется*).
+
+[^185]: The ceremonial order of the Great Blessing of Water (*Великое водоосвященіе*) on the Eve of Theophany (January 5): celebrated in the narthex or at external water springs/rivers following the Ambo Prayer of the Divine Liturgy, with the senior priest bearing the Precious Cross upon his head, the triple singing of *The voice of the Lord upon the waters*, censing with candle-bearer, and the solemn prayer of St. Sophronius of Jerusalem (*"Great art Thou, O Lord..."*); Doskovsky notes that the later prayer *"O Transubstantial Trinity"* is absent from ancient Trebniks.
+
+[^186]: The fasting discipline and liturgical rearrangement when the Eve of Theophany falls on a Saturday or Sunday: fasting is relaxed from strict xerophagy to cooked food with oil; the Royal Hours are anticipated on Friday without a Liturgy; the Divine Liturgy of St. John Chrysostom is celebrated on the Eve in the morning, followed in the afternoon by solemn Vespers and the Great Blessing of Water; and the Divine Liturgy of St. Basil the Great is deferred to the day of the feast itself (January 6).
+
+[^187]: The Great Feast of Holy Theophany (January 6): celebrated at 4:00 AM with Great Compline and Litiya; at the Divine Liturgy, the baptismal troparion *As many of you as have been baptized into Christ* (*Елицы во Христа крестистеся*) replaces the Trisagion; the Liturgy is celebrated early due to the labor of the vigil, and all fasts are broken, meat being permitted even if the feast falls on a Wednesday or Friday.
+
+[^188]: The Synaxis of the Holy Prophet, Forerunner and Baptist John (January 7) and the post-Theophany Introit: the celebrant chants the special festal Antiphon response *"Save us, O Son of God, Who wast baptized in the Jordan by John, who sing to Thee: Alleluia"* (*Спаси ны, Сыне Божій, во Іорданѣ крестивыйся отъ Іоанна, поющія Ти: Аллилуіа*), retained at every Liturgy until the Apodosis of Theophany on January 14.
+
+[^189]: Coordination of the Saturday after Theophany with the Synaxis of the Baptist (when January 7 falls on Saturday): prioritizing Ephesians §233 and Matthew §7 for the Saturday after Theophany, followed by Acts §33 and John §3 for the Forerunner, with both communions chanted.
+
+[^190]: The integration of the post-Theophany season with the Pre-Lenten Triodion via the Paschal Boundary Keys (*Ключи граничные*): determining the precise number of Sundays after Theophany before the Septuagesima cycle commences, with the immutable rubrical decree that the Sunday of Zacchaeus (Luke §94) must invariably immediately precede the Sunday of the Publican and Pharisee.
+
+[^191]: Concurrence of the Feast of the Three Holy Hierarchs (January 30) with Meatfare Saturday (*Суббота мясопустная*): the festal office of Sts. Basil, Gregory, and John Chrysostom is transferred to Friday, while the ancestral Commemoration of all Reposed Orthodox Christians occupies Saturday; if the temple is dedicated to the Three Hierarchs, the commemoration of the reposed is anticipated to the preceding Saturday.
+
+[^192]: Concurrence of the Meeting of the Lord (Hypapante, February 2) with the Pre-Lenten Triodion: regulating the combination of festal propers with the Sunday of the Publican and Pharisee, Prodigal Son, Meatfare, or Cheesefare; on Cheesefare Wednesday and Friday, three great prostrations are made at the conclusion of each service, yet the Divine Liturgy of St. John Chrysostom is celebrated; if falling on Clean Monday, the feast is anticipated on Cheesefare Sunday.
+
+[^193]: The movable liturgical boundaries of the First and Second Finding of the Precious Head of the Baptist (February 24): roaming from Meatfare Wednesday to Tuesday of the 4th Week of Great Lent; if coinciding with Meatfare Saturday, it is transferred to Meatfare Friday; if falling on Clean Monday or any weekday of the first week of Lent, it is observed on Cheesefare Sunday or the First Saturday of Great Lent (St. Theodore the Recruit).
+
+[^194]: Concurrence of the Finding of the Head with Monday of the 2nd, 3rd, or 4th Week of Great Lent: celebrated on Sunday evening with Great Vespers, the Great Prokeimenon, closing of the Royal Doors, three great prostrations, and the Typika chanted without a Liturgy, concluding with the bells striking for Fasting Vespers.
+
+[^195]: Concurrence of the Finding of the Head with Tuesday or Thursday of Great Lent: celebrated without prostrations at Vespers; Great Compline without prostrations and omitting *Lord of hosts, be with us*; Doskovsky notes that ancient Greek Typika omit Old Testament Paremias and the Polyeleos on fast days.
+
+[^196]: Concurrence of the Finding of the Head with Wednesday or Friday of Great Lent: celebrated with the Divine Liturgy of the Presanctified Gifts, an Entrance with the Gospel, the solemn singing of *Let my prayer be set forth* (*Да исправится молитва моя*) accompanied by three great prostrations, and the commemoration of the Baptist at the dismissal.
+
+[^197]: The Feast of the Holy Forty Martyrs of Sebaste (March 9): observed invariably according to the rubrical pattern established for the Finding of the Head; if it coincides with Great and Holy Thursday of the Great Canon of St. Andrew of Crete (5th Week of Lent), the entire office of the Forty Martyrs is transferred forward to Tuesday of that same week.
+
+[^198]: Concurrence of the Holy Forty Martyrs of Sebaste (March 9) with the Saturday of the Akathist (5th Saturday of Great Lent): their full festal office is transferred to the 5th Sunday of Great Lent (St. Mary of Egypt); furthermore, when the Forefeast of the Annunciation (March 24) falls on Thursday of the 5th Week of Lent (the day of the Great Canon of St. Andrew of Crete), the Forefeast stichera and canon are sung beforehand on Wednesday in the daily cycle, while the Menaion saint is transferred to Compline.
+
+[^199]: The rubrics governing the Feast of the Annunciation of the Most Holy Theotokos (March 25) when coinciding with the 3rd (Veneration of the Cross), 4th (St. John Climacus), or 5th (St. Mary of Egypt) Sunday of Great Lent: on Saturday afternoon Little Vespers is chanted according to the Triodion, followed at night by Great Vespers with Litiya and an All-Night Vigil uniting the Sunday Resurrectional and festal propers.
+
+[^200]: Liturgical order of the Divine Liturgy when the Annunciation coincides with a Lenten Sunday: the Divine Liturgy of St. Basil the Great is celebrated without alteration; the festal heirmos of Ode 9, *As of an animate ark* (*Ꙗ҆́кѡ ѡ҆дꙋшевле́ннꙋ*), replaces the megalynarion *In thee rejoices* (*О тебѣ̀ ра́дꙋется*); on the 3rd Sunday of Lent (Veneration of the Cross), the hymn *Thy Cross do we adore* (*Крестꙋ̀ Твое́мꙋ*) replaces the Trisagion.
+
+[^201]: Annunciation occurring on fasting weekdays (Tuesday through Friday) of the 4th, 5th, or 6th Week of Great Lent: if falling on Wednesday or Friday, Vespers on the Eve is celebrated without a Kathisma, including three Old Testament readings (Genesis 28:10–17, Ezekiel 43:27–44:4, and Proverbs 9:1–11), concluding with *Let my prayer be set forth*, three great prostrations, and the Liturgy of the Presanctified Gifts; if falling on Tuesday or Thursday (without a Presanctified Liturgy on the Eve), Great Compline with Litiya and Vigil prayers is sung before sunrise, followed by Matins and the Divine Liturgy of St. John Chrysostom celebrated in conjunction with Vespers.
+
+[^202]: Annunciation occurring on Saturday of the 3rd, 4th, or 5th Week of Great Lent: Friday evening Vespers is celebrated with the Liturgy of the Presanctified Gifts with five festal Old Testament readings; on Saturday before sunrise Great Compline is sung with Litiya; Matins is celebrated entirely for the feast with the Great Doxology; and the Divine Liturgy of St. John Chrysostom is celebrated in the morning without Vespers.
+
+[^203]: The rare concurrence of the Annunciation with Thursday of the 5th Week of Great Lent (the Great Canon): the monumental Great Canon of St. Andrew of Crete is transferred forward to Tuesday of the 5th Week, where it is combined with Tuesday's Triodion, while the Lucan Triodion of Thursday is chanted alongside the propers of the Annunciation.
+
+[^204]: The Annunciation coinciding with Great and Holy Friday (*Kyrio-Paraskeue* / Kyrioparaskeue): on Great Thursday evening the Divine Liturgy of St. Basil the Great is celebrated with Vespers; Matins of the Holy Passions (the Twelve Passion Gospels) commences at the 1st hour of the night (7:00 PM or 1:00 AM depending on local monastic custom); at *God is the Lord* the festal troparion is sung three times, followed by *When the glorious disciples*; between the 7th and 8th Passion Gospels, the festal Gradual, Prokeimenon, and Gospel of the Annunciation are inserted.
+
+[^205]: The celebration of the Divine Liturgy on Annunciation Great Friday: at the 8th hour of the day (2:00 PM), Great Friday Vespers is sung, at which the priest prepares the Holy Gifts at the Prothesis, followed by an Entrance with the Gospel, five Old Testament readings, and the Divine Liturgy of St. John Chrysostom—constituting the sole instance in the Byzantine rite where a Eucharistic Liturgy is celebrated on Great and Holy Friday.
+
+[^206]: The monumental concurrence of the Annunciation on Holy Pascha (*Kyriopascha*): on Great Saturday evening the Divine Liturgy of St. Basil the Great includes one Paschal and five Annunciation Paremias; early Paschal Matins includes the festal troparion and the Annunciation Gospel after Ode 6; at the Divine Liturgy of St. John Chrysostom, the Paschal Gospel (John §1) is chanted dialogically by the celebrant and deacon, followed immediately by the Annunciation Gospel (Luke §3) proclaimed by a single deacon without bell chiming.
+
+[^207]: The feast of the Holy Great-Martyr George (April 23) across the movable Paschal cycle: roaming from Great Friday to Thursday of the 5th Week after Pascha; when coinciding with Great Friday, Great Saturday, or Pascha itself, the entire office of the Great-Martyr is transferred to Bright Monday and sung jointly with the Paschal daily office.
+
+[^208]: The Commemoration of the Holy Fathers of the Six Ecumenical Councils (July 16): celebrated on the Sunday following July 16 (the feast of the Hieromartyr Athenogenes); if July 16 itself falls on a Sunday, the office of the Fathers is sung on that day, while the coinciding Menaion saint is transferred to Compline.
+
+[^209]: The Procession of the Precious Wood of the Honorable and Life-Giving Cross and the Seven Maccabee Martyrs (August 1): marking the inception of the two-week Dormition Fast; before Vespers the priest enters the skevophylakion (sacristy), places the Precious Cross surrounded with fragrant basil upon a paten at the Table of Oblation (Prothesis), and elevates it to the Holy Table after Vespers.
+
+[^210]: Ceremonial of the Lesser Blessing of Water (*Малое водоосвященіе*) on August 1: after the Great Doxology at Matins, the priest in full sacerdotal vestments elevates the Precious Cross upon his head, processes via the north door to the decorated analogion, censes the Cross, and performs the sanctification of water in the church or at exterior fountains, followed by the solemn veneration of the Cross (*Thy Cross do we adore, O Master*) and aspersion of the faithful, church, and cemetery; concluding with the evening return of the Cross to the Holy Table.
+
+[^211]: The Translation of the Icon Not-Made-by-Hands of our Lord Jesus Christ (the Holy Mandylion or Ubrys) and St. Diomedes (August 16): celebrated within the Afterfeast of the Dormition of the Theotokos; when coinciding with Sunday, the combined office follows the typikon model of St. Demetrius and the Earthquake (October 26).
+
+[^212]: The strict fast of the Beheading of the Holy Prophet, Forerunner and Baptist John (August 29), followed by the Title Page of Part II of the Typikon: encompassing the complete liturgical cycle of the Lenten and Paschal Triodion (*Тріодіонъ Постный и Цвѣтный*) from the Sunday of the Publican and Pharisee through Pentecost unto the Sunday of All Saints.
+
+[^213]: The liturgical opening of the Pre-Lenten Septuagesima season on the Sunday of the Publican and Pharisee (*Недѣля о Мытари и Фарисеи*): Great Vespers features Anatolian and Triodion stichera, the Menaion saint is transferred to Friday Compline, and the Polyeleos at Matins includes the Bulgarian melody of the Resurrectional Evlogitaria (*The angelic council*).
+
+[^214]: The solemn Penitential Stichera (*Покаянныя стихиры*): chanted after Psalm 50 at Sunday Matins throughout the pre-Lenten and Lenten season until the 5th Sunday of Great Lent—*Open to me the doors of repentance, O Giver of Life* (Tone 8), *Make straight the paths of salvation* (Tone 8), and *When I ponder the multitude of evil deeds* (Tone 6)—displacing the customary Paschal hymn *Having beheld the Resurrection of Christ*.
+
+[^215]: The Fast-Free Week of the Publican and Pharisee (*Сплошная седмица*): an ancient canonical dispensation explicitly rejecting and overturning the heretical fast of the Armenians known as the *Artzivourion* (fast of the dog/herald); monastics are prescribed cheese and eggs, and the laity meat, on Wednesday and Friday.
+
+[^216]: The Sunday of the Prodigal Son (*Недѣля о Блудномъ сынѣ*): characterized by the addition of Psalm 136 (LXX; Masoretic 137), *By the rivers of Babylon* (*На рѣкахъ Вавилонскихъ*), chanted with its lingering, melodious Alleluia refrain to the two customary Polyeleos psalms (Psalms 134 and 135), retained on Meatfare and Cheesefare Sundays.
+
+[^217]: Meatfare Saturday Memorial of All Reposed Orthodox Christians (*Суббота мясопустная*): Friday evening Vespers replaces the daily Prokeimenon with the solemn Alleluia of Tone 8 and funeral verses (*Blessed are they whom Thou hast chosen*), followed by the funeral Troparion *With depth of wisdom* and a general Panakhyda for all reposed forefathers, fathers, and brethren.
+
+[^218]: The Matins office and Divine Liturgy of Meatfare Saturday: chanting the 17th Kathisma (Amomos, Psalm 118) in two stases with funeral refrains, followed by the Evlogitaria of the Reposed (*The choir of the Saints hath found the fountain of life*), funeral litanies after the 3rd and 6th Odes, and dual Epistle and Gospel pericopes (the daily cycle and for the reposed) at the Divine Liturgy.
+
+[^219]: The concurrence of the Meeting of the Lord (February 2) with Meatfare Saturday: if Hypapante falls on Meatfare Saturday, the universal ancestral commemoration of all reposed Orthodox Christians is anticipated to the preceding Saturday or to Meatfare Thursday.
+
+[^220]: Meatfare Sunday Evening and the cessation of Octoechos Aposticha: the Octoechos Aposticha at Vespers and Matins are discontinued in favor of the daily Triodion idiomela from Meatfare Sunday evening until Saturday of the 6th Week of Great Lent.
+
+[^221]: Cheesefare Tuesday Evening: the liturgical inception of Great Lenten prostrations at Vespers, the chanting of the Lenten dismissal troparia (*O Theotokos and Virgin, rejoice*), the first recitation of the Prayer of St. Ephrem the Syrian (*O Lord and Master of my life*) with 16 prostrations (four great prostrations and twelve metanias), and Great Compline celebrated with prostrations and the omission of *Lord of hosts, be with us*.
+
+[^222]: Cheesefare Wednesday and Friday Services: the Midnight Office recited with prostrations; Matins celebrated with Alleluia and the Trinity Hymns in the Tone of the Octoechos; and the intricate interweaving of the Octoechos, Menaion, and Triodion canons across the nine biblical Odes according to ancient Studite-Sabbaitic distribution rules.
+
+[^223]: The Lenten First Hour on Cheesefare Wednesday and Friday: chanted immediately after Matins with the solemn Lenten troparion *In the morning hear my voice, O my King and my God* (*Заꙋ́тра оу҆слы́ши гла́съ мо́й, Царю̀ мо́й и҆ Бо́же мо́й*), recited quickly without singing, concluding with the 16 prostrations of the Prayer of St. Ephrem and the prayer *O Christ, the true light*.
+
+[^224]: The Lenten Typika and Fasting Vespers on Cheesefare Wednesday and Friday: celebrated after the 9th Hour with the Beatitudes recited quickly without singing, three great prostrations with the Prayer of St. Ephrem, immediately transitioning into Fasting Vespers without a Eucharistic celebration; concluding with an editorial reference to Greek typikon traditions governing the Lenten transition.
+
+[^225]: The fasting discipline of Cheesefare Wednesday and Friday (*Среда и пятокъ сырные*): while the celebration of the Eucharistic Divine Liturgy is strictly prohibited on these two days (anticipating the full Lenten weekday discipline), an ancient monastic dispensation allows the consumption of cheese and eggs once in the day after Vespers, an explicit canonical repudiation of the extreme ascetical rigor of the Tetradite and Jacobite (Monophysite) sects who began the absolute strict fast two days earlier.
+
+[^226]: The commemoration of All Holy Ascetic Fathers on Cheesefare Saturday (*Память всѣхъ преподобныхъ отцевъ въ подвизѣ постномъ просіявшихъ*), followed by Cheesefare Sunday (The Expulsion of Adam from Paradise): Doskovsky sets down the significant structural rule that from Cheesefare Sunday until the Feast of the Universal Exaltation of the Precious and Life-Giving Cross (September 14), the singing of the Polyeleos (*Polyeleos psalms 134 and 135*) is discontinued at Sunday Matins throughout the entire summer, being retained exclusively on major Feasts of the Lord and Vigils of the Great Saints.
+
+[^227]: Forgiveness Sunday Vespers (*Прощеное воскресенье* / *Вечерня сыропустная*): marking the solemn threshold into Great and Holy Lent. Celebrated on Sunday afternoon/evening, the vestments and altar coverings are changed from festive to dark penitential hue; an entrance is made with the censer; the Great Prokeimenon *Turn not away Thy face from Thy child* (*Не отврати лица твоего*) is chanted with four solemn verses; immediately thereafter the Royal Doors are closed, the daily evening prayer *Vouchsafe, O Lord* is proclaimed, and the liturgical assembly commences the bodily prostrations (*metanoiai*) characteristic of Great Lent.
+
+[^228]: The Lenten Dismissal Troparia (*Богородице Дѣво радуйся*, *Крестителю Христовъ*, *Молите о насъ*) and the Prayer of St. Ephrem the Syrian (*Молитва святаго Ефрема Сирина*): chanted at the conclusion of Lenten Vespers and Compline. The rubric prescribes the classic 16 prostrations: three great prostrations to the earth accompanying each clause of the tripartite prayer (*O Lord and Master of my life*), followed by twelve small metanias with the invocation *O God, cleanse me a sinner*, and concluded by a single great prostration after reciting the entire prayer without interruption.
+
+[^229]: Historical-liturgical note drawn from ancient parchment manuscripts (*харатейныя книги*) distinguishing Great Prostrations (*великіе поклоны* / *metanoiai megalae*) from Small Prostrations or bows (*малые поклоны* / *легкіе поклоны* / *метанія*): a great prostration requires lifting both physical and interior eyes to God, reciting the prayer erect, and then casting oneself entirely down with knees and forehead touching the earth; whereas a small prostration (metania) consists of a deep waist bow made while standing upright, without genuflecting or touching the head to the pavement.
+
+[^230]: Monastic funeral legislation during Great Lent: when a brother falls asleep in the Lord during the weekdays of the Holy Forty Days, individual memorial services (*third-day commemorations* / *третины*) and requiem liturgies are deferred until Friday evening, when the collective Panakhyda is sung, and Saturday morning, when the Divine Liturgy of St. John Chrysostom is celebrated for all the departed.
+
+[^231]: The structure of Clean Monday (*Чистый понедѣльникъ*) Midnight Office and Matins: establishing the normative weekday ordo of Great Lent. At Matins, the festive proclamation *God is the Lord* is displaced by the penitential chanting of *Alleluia* in the Tone of the week with the four Isaiah verses of the night (*From the night my spirit wakes early unto Thee, O God*), followed by the slow, solemn Trinity Hymns (*Троичны*) with their day-specific endings, the suppression of the Little Ectene after Kathismata, and the recitation of the Penitential Sessional Hymns.
+
+[^232]: The Canticles of Moses (*Пѣсни Моѵсеовы*) and the distribution of canons during Great Lent: the nine Biblical Odes from the Psalter are chanted in full, interweaving the canons of the Octoechos, Menaion, and the Triodion triodia by St. Joseph the Hymnographer and St. Theodore the Studite. Doskovsky explicitly preserves the comparative typikon gloss noting that under the Greek Typika (*по греческимъ тѵпикомъ*), the Octoechos is suppressed entirely on Lenten weekdays in favor of the Menaion and Triodion.
+
+[^233]: The weekly Katavasia schema for Lenten weekdays: because full festive Katavasias are not sung, the heirmos of the concluding Ode of the Triodion serves as the Katavasia. Doskovsky outlines the precise Ode distribution: Monday (Odes 1, 3, 6, 8, 9), Tuesday (2, 3, 6, 8, 9), Wednesday (3, 6, 8, 9), Thursday (4, 6, 8, 9), Friday (3, 5, 6, 8, 9), and Saturday (3, 6, 7, 8, 9).
+
+[^234]: The Lenten First Hour joined immediately to Matins: characterized by the omission of the Kathisma on Clean Monday, the solemn chanting in the center of the church of the 6th Tone Prokeimenon *In the morning hear my voice, O my King and my God* (*Заутра услыши гласъ мой*) accompanied by solemn genuflections to the earth, the chanted biblical verses *Order my steps according to Thy word*, and the final 16 prostrations with the Prayer of St. Ephrem.
+
+[^235]: The Third and Sixth Hours on Lenten weekdays: recited together with Kathismata and three solemn metanias at each stasis. At the Sixth Hour, the Troparion of the Prophecy (*Тропарь пророчества*) introduces the Old Testament Paremia from the Prophet Isaiah, framed before and after by Prokeimena chanted by the reader and choirs—the sole prophetic reading during the morning hours.
+
+[^236]: The ancient eastern canonical prohibition against celebrating the full Eucharistic Liturgy on fasting weekdays during Great Lent: codified by the Council of Laodicea (Canon 49) and reaffirmed by the Council in Trullo (Canon 52), preserving the Eucharistic feast exclusively for Saturdays and Sundays, while sanctifying weekdays through the Liturgy of the Presanctified Gifts on Wednesdays and Fridays.
+
+[^237]: The Ninth Hour and Lenten Typika (*Изобразительны*): celebrated in the afternoon prior to Fasting Vespers. The Beatitudes are chanted in Tone 8 with sweet and lingering cadence (*со сладкопѣніемъ велегласно и косно*), culminating in the tripartite crescendo *Remember us, O Lord / Master / Holy One, when Thou comest into Thy kingdom*, at each of which the entire brotherhood casts itself down to the earth in a great prostration.
+
+[^238]: Fasting Vespers (*Постная вечерня*) on non-Presanctified weekdays (Monday, Tuesday, Thursday): united directly to the Ninth Hour and Typika, featuring the 18th Kathisma of the Psalter (the Songs of Ascents), penitential stichera from the Triodion, and two Old Testament Paremias from Genesis and Proverbs representing the ancient catechetical instruction of the catechumens awaiting baptism at Pascha.
+
+[^239]: Great Compline (*Повечеріе великое*) during the First Week of Great Lent: celebrated with open royal doors and epitrachelion, opening with Psalm 69 and the monumental Great Penitential Canon of St. Andrew of Crete (*Великій покаянный канонъ св. Андрея Критскаго*), divided into four sections chanted on Monday, Tuesday, Wednesday, and Thursday evenings, followed by the majestic antiphonal chanting of *God is with us* (*Съ нами Богъ*).
+
+[^240]: The sacerdotal proclamation of the Prayer of Manasseh (*Молитва Манассіи, царя Іудейска*) and the solemn Lenten hymn *O Lord of hosts, be with us* (*Господи силъ, съ нами буди*): chanted antiphonally by both choirs in Tone 6 with five verses from Psalm 150 (*Praise God in His saints*), embodying the solemn nighttime watch of the monastic brotherhood.
+
+[^241]: The conclusion of Great Compline in Clean Week: in place of the customary dismissal, the priest proclaims the comprehensive Litiya prayer *O Master plentiful in mercy* (*Владыко многомилостиве*) while the entire assembly lies prostrate on the pavement; followed by the Mutual Forgiveness rite (*чинъ прощенія*), where the superior prostrates himself before the brethren, asking forgiveness, followed by the pastoral ectene for Church, state, and spiritual fathers.
+
+[^242]: The Liturgy of the Presanctified Gifts (*Литургія преждеосвященныхъ Даровъ*) on Wednesday of Clean Week: the choreography of kneeling during the singing of *Let my prayer be set forth* (*Да исправится молитва моя*), where the alternating choirs and the congregation kneel while the other sings, and both kneel during the opening and closing incipit; concluding with the rubrical rule governing the coincidence of the Finding of the Head of the Forerunner (February 24) or the Forty Martyrs of Sebaste (March 9) with an Entrance with the Gospel.
+
+[^243]: Friday Evening Presanctified Liturgy and the Memorial Miracle of the Kolyvo wrought by the Holy Great-Martyr Theodore the Recruit (*Ѳеодоръ Тиронъ*): commemorating the preservation of the Constantinopolitan Christians in 362 from the food polluted by Julian the Apostate through the blessing of boiled wheat with honey (*kolyvo*); accompanied by the explicit cessation of weekday prostrations on Friday evenings for the honor of the approaching Resurrectional Lord's Day.
+
+[^244]: The First Sunday of Great Lent—The Sunday of Orthodoxy (*Недѣля православія* / *Возстановленіе святыхъ иконъ*): celebrating the final triumph of the Church over the Iconoclast heresy and the restoration of icon veneration at the Synod of Constantinople in 843 under Empress Theodora and Patriarch Methodius; marked by the troparion *Thy most pure Icon do we venerate* (*Пречистому образу Твоему покланяемся*), the Divine Liturgy of St. Basil the Great, and Sunday evening penitential Vespers with the Great Prokeimenon *Thou hast given an inheritance* (*Далъ еси достояніе*).
+
+[^245]: The two Great Prokeimena of Lenten Sunday Vespers—*Ne otvrati litsa Tvoyego* (Psalm 68:18, 2) and *Dal yesi dostoyaniye* (Psalm 60:6, 5)—are sung alternately on every Sunday evening throughout the Great Fast, beginning on Cheesefare Sunday evening and concluding on Palm Sunday evening.
+
+[^246]: Because the liturgical cycle of the Flowery Triodion (from Lazarus Saturday through Thomas Sunday) displaces all regular Menaion commemorations, the rubrics prescribe that from the second Monday of Great Lent, the Menaion canons for all saints occurring in that period are anticipated and sung at Compline alongside the Theotokion canons.
+
+[^247]: The Typikon designates the Second, Third, and Fourth Saturdays of Great Lent as General Memorial Saturdays for the departed (*Zadušni suboty*), repeating the full funeral and requiem order established on Meatfare Saturday (including the Amomos divided into two staseis, the funeral litanies, and the Triodion tetraodia).
+
+[^248]: On the Third Sunday of Lent (Sunday of the Veneration of the Precious and Life-Giving Cross), the ceremony of bringing forth the Cross from the vestry to the Holy Table on Saturday afternoon mirrors the rite of the Universal Exaltation of the Holy Cross on September 14, where the Cross is adorned with fresh sweet-smelling basil (*vasylky*).
+
+[^249]: At the Liturgy of the Third Sunday of Lent, as on the Feast of the Exaltation, the customary Trisagion hymn (*Svyatyy Bozhe*) is replaced by the ancient hymn of veneration: *Krestu Tvoyemu poklanyayemsya, Vladiko, i svyatoye voskreseniye Tvoye slavim* ("Before Thy Cross we bow down in worship, O Master, and Thy holy Resurrection we glorify").
+
+[^250]: Beginning at Vespers on Wednesday of the Fourth Week of the Fast (Mid-Pentecost/Mid-Lent), the special ectene for those preparing for Holy Illumination (*Yelitsy ko prosvishcheniyu*) is introduced into the Liturgy of the Presanctified Gifts, reflecting the historical preparation of catechumens to receive Holy Baptism at the Paschal Vigil.
+
+[^251]: The veneration of the Precious Cross concludes at the First Hour on Friday of the Fourth Week of Lent (Mid-Lent Week), at which time the celebrant solemnly censes the Tetrapod and returns the Precious Cross to the sanctuary with tapers, chanting the troparion and kontakion of the Cross.
+
+[^252]: The Great Canon of Saint Andrew of Crete (*Velikiy Kanon*) is sung in its entirety at Matins of Thursday of the Fifth Week of Lent. By ancient Ruthenian monastic and parochial custom, this service is anticipated and sung on Wednesday evening at nightfall (*zanôchi*), accompanied by numerous prostrations and the reading of the Life of Saint Mary of Egypt.
+
+[^253]: The Life of Saint Mary of Egypt (*Zhitie prepodobnyya Marii*), composed by Saint Sophronius, Patriarch of Jerusalem, is divided into two sections (*staseis*) and read during Matins of the Great Canon: the first part after the Kathisma of the Psalter, and the second after the Third Ode of the Canon.
+
+[^254]: Saturday of the Fifth Week of Lent is designated as Akathist Saturday (the Praise of the Mother of God, *Pokhvala Presvyatyya Bohorodytsi*). The complete Akathist Hymn (*Akafist*) is sung in four distinct staseis of three oikoi and three kontakia each, framed by the solemn chanting of *Vzbrannoy Voyevodi* in the midst of the church.
+
+[^255]: On the Fifth Sunday of Great Lent (dedicated to Saint Mary of Egypt), the regular Sunday morning cycle of the eleven Resurrection Gospels (*Yevangeliya voskresna*) is suspended until after the Octave of Pascha, giving place to the unique seasonal and feast-day pericopes through Holy Week and Bright Week.
+
+[^256]: Friday of the Sixth Week of Lent (Friday of Palms) marks the liturgical conclusion of the Holy Forty Days of Great Lent proper (*Sovershivshe dushepolyeznuyu Chetyredesyatnitsu*). That evening at Vespers, the church transitions into the Flowery Triodion (*Triod Tsvitna*), initiating the historical commemoration of Lazarus and the Entry into Jerusalem.
+
+[^257]: On Lazarus Saturday, in commemoration of the ancient baptism of catechumens on the eve of Palm Sunday, the baptismal hymn from Galatians 3:27—*Yelitsy vo Khrista krestistesya, vo Khrista oblekostesya. Alliluiya* ("As many of you as have been baptized into Christ have put on Christ. Alleluia")—replaces the Trisagion at the Divine Liturgy.
+
+[^258]: At Matins of Palm Sunday, the solemn Blessing of the Palms (*Vaia* / pussy-willows) takes place following the reading of the Gospel of the Entry into Jerusalem (Matthew 21). The celebrant censes the branches cruciformly, recites the prayer of blessing, and distributes them to the faithful as they venerate the Holy Gospel.
+
+[^259]: The Bridegroom Services (*Sluzhby Zhenikha*) commence on Palm Sunday evening with the recitation of Little Compline and the first anticipation of the Holy Week Matins, characterized by the solemn singing of *Se Zhenikh gryadet* and deep penitential prostrations.
+
+[^260]: During the first three days of Passion Week (Holy Monday, Holy Tuesday, and Holy Wednesday), the Four Gospels (*Tetraevangelion*) are read continuously at the Third, Sixth, and Ninth Hours, completing the entirety of Matthew, Mark, and Luke, and the first thirteen chapters of John up to the narrative of the Passion.
+
+[^261]: On Holy Monday, Holy Tuesday, and Holy Wednesday, the Liturgy of the Presanctified Gifts is celebrated in the evening in conjunction with Vespers, featuring an appointed Gospel reading from Matthew recounting Christ's eschatological discourses and the impending Passion.
+
+[^262]: At the conclusion of the Presanctified Liturgy on Holy and Great Wednesday, following the prayer *Budi imya Hospodne*, the three final great prostrations are made, after which all earthly prostrations (*poklony*) completely cease in the church until the Kneeling Prayers of Pentecost.
+
+[^263]: On Holy and Great Thursday, the Vesperal Divine Liturgy of Saint Basil the Great is celebrated in commemoration of the Mystical Supper and the institution of the Holy Eucharist. In place of the Cherubic Hymn and the Communion Verse, the choir sings the eucharistic hymn *Vecheri Tvoyeya taynyya* ("Of Thy Mystical Supper, O Son of God...").
+
+[^264]: On the evening of Holy Thursday, Matins of Holy Friday—commonly known as the Office of the Twelve Holy and Saving Passions of Our Lord Jesus Christ (*Strasti Hospodni*)—is celebrated. The faithful hold lighted tapers during the proclamation of the twelve Gospel passages recounting the Passion and Crucifixion of Christ.
+
+[^265]: Following the reading of the Seventh Passion Gospel (pericope 113 of Matthew) and the recitation of Psalm 50, the deacon ceases his ceremonial censing of the temple, and the short litanies (*ektenii*) preceding the sessional hymns are omitted for the remainder of the Passion Matins.
+
+[^266]: On Great and Holy Friday, during the celebration of the Royal Hours (*Tsarski chasy*), the Holy Gospel is placed upon the decorated analogion situated before the Royal Doors in front of the symbolic Tomb, in anticipation of the solemn exposition of the Holy Burial Shroud (*Plashchanytsia*) at Vespers.
+
+[^267]: In the Byzantine-Ruthenian liturgical tradition, Great and Holy Friday is strictly aliturgical; neither the full Divine Liturgy of Saint John Chrysostom nor the Liturgy of the Presanctified Gifts may be celebrated, because the Lord offered Himself in sacrifice upon Golgotha on this day. The sole exception occurs when the Annunciation of the Theotokos (March 25) coincides with Great Friday, in which case the Divine Liturgy of Saint John Chrysostom is joined to Vespers (Kyriopascha cycle). Total fasting (xerophagy or complete abstention from food until sunset) is prescribed.
+
+[^268]: The solemn deposition and exposition of the Holy Shroud (*Plashchanytsia*, Greek *Epitaphios*) takes place at the conclusion of Great Friday Vespers during the singing of the troparia *The noble Joseph* (*Blahoobraznyi Yosyf*), *The angel stood by the tomb*, and *Going down to death*. The Shroud represents the sacred body of the Lord wrapped in fine linen by Joseph of Arimathea and Nicodemus and placed in the newly hewn sepulchre.
+
+[^269]: Father Doskovsky here highlights a distinctive Ruthenian regional practice recorded in the Peremyshl *Sluzhebnyky* and local typika: carrying the *Plashchanytsia* in solemn procession outside around the perimeter of the church building at Friday afternoon Vespers before placing it in the tomb. In contrast, the standard Sabaitic-Greek Typikon prescribes carrying the Shroud directly from the Holy Table through the North Deacon's Door to the tomb in the center of the nave at Vespers, reserving the outdoor circumambulation for the Great Doxology at Holy Saturday Matins.
+
+[^270]: Holy Saturday Matins (often celebrated in anticipation on Friday evening) features the Lamentations at the Tomb (*Pokhvaly*, Greek *Enkomia*), which are poetic strophes chanted between the verses of the 17th Kathisma (Psalm 118, the *Amomos*), divided into three staseis. Crimson or dark red vestments are worn to signify both solemn mourning and the dawning majesty of the Resurrection. Following the Lamentations, the Resurrection Evlogitaria (*Blahosloven yesi, Hospody: Angelskyi sobor*) are chanted, marking the first announcement of the Resurrection.
+
+[^271]: The funeral circumambulation with the *Plashchanytsia* occurs during the solemn, prolonged singing of the Trisagion (*Sviatyi Bozhe*) at the end of the Great Doxology. In Ruthenian practice, where the outdoor procession was already conducted at Vespers, the celebrant and deacon circumambulate the tomb three times within the temple. Following this, the reading from Ezekiel 37:1–14 (the vision of the dry bones restored to life) prefigures the universal resurrection accomplished by Christ's descent into Hades, followed by 1 Corinthians 5:6–8, Matthew 27:62–66, and the veneration sticheron *Come, let us bless Joseph of everlasting memory* (*Priidite ublazhim Iosifa*).
+
+[^272]: The Vesperal Divine Liturgy of Saint Basil the Great on Holy Saturday afternoon is historically the ancient Paschal Vigil Liturgy of the Church of Constantinople, at which the catechumens were baptized. It incorporates 15 Old Testament readings (*Paremias*) recounting salvation history from Creation to the Three Youths in the fiery furnace. During the singing of *Arise, O God, judge the earth* (Psalm 81:8), the celebrants exchange their dark funeral vestments for brilliant white vestments, and white hangings are placed upon the Holy Table. The ancient Cherubic hymn from the Liturgy of Saint James, *Let all mortal flesh keep silence* (*Da molchit vsiakaya plot chelovicha*), replaces the standard Cherubikon. The subsequent blessing of five loaves of bread and wine sustains the faithful through the evening until the midnight Paschal service.
+
+[^273]: The continuous reading of the Acts of the Apostles (*Diyaniya Svyatykh Apostol*) occupies the interval between the Basil Liturgy and midnight, maintaining unbroken vigil in the temple. At the Paschal Nocturns (*Polunoshchnitsa*), during the Ninth Ode of the Holy Saturday Canon (*Weep not for Me, O Mother* / *Ne rydai Mene, Mati*), the celebrant and deacon solemnly elevate the *Plashchanytsia* from the tomb, carry it through the Royal Doors into the sanctuary, and place it upon the Holy Table. There it remains until the Leavetaking (Apodosis) of Pascha on the eve of the Ascension, serving as the corporal upon which the Divine Liturgy is offered throughout the forty days of Eastertide.
+
+[^274]: The midnight Paschal procession circles the church three times under the festive ringing of all bells, carrying the Processional Cross, the Holy Gospel, Resurrection banners, and—in accordance with distinctive Ruthenian tradition documented here by Doskovsky—the pyx (*kivot*) containing the Reserved Divine Mysteries. The procession halts before the shut western portals of the church, symbolizing the sealed stone of Christ's sepulchre and the closed gates of Paradise before the Resurrection.
+
+[^275]: Standing before the shut western portal, the priest raises the censer and proclaims the initial doxology to the Holy Trinity: *Glory to the holy, consubstantial, life-creating, and undivided Trinity*. The clergy then chant the Paschal Troparion, *Christ is risen from the dead, trampling down death by death, and upon those in the tombs bestowing life*, three times, followed by the Paschal verses (Psalm 67:2–4; Psalm 117:24). The celebrant strikes the closed doors with the base of the Holy Cross, they are thrown open, and the clergy and faithful enter the brilliantly illuminated temple amid the continuous ringing of the bells and striking of the *klepala*.
+
+[^276]: Paschal Matins is dominated by the Golden Paschal Canon of Saint John of Damascus in Tone 1 (*Voskreseniya den*). At each ode, the celebrant censes the entire church and greets the faithful with the joyful Paschal acclamation: *Christ is risen!* (*Khristos voskrese!*), to which they respond: *Indeed He is risen!* (*Voistynu voskrese!*). At the conclusion of the Paschal Stichera (*Paskha sviashchennaya*), the liturgical Kiss of Peace (*Khristosovaniye*) is exchanged, during which the faithful venerate the Holy Cross, the Gospel, and the icons, and receive the pastoral blessing.
+
+[^277]: The Paschal Divine Liturgy of Saint John Chrysostom is celebrated with special Paschal Antiphons and the baptismal hymn *As many of you as have been baptized into Christ* (Galatians 3:27) in place of the Trisagion. The Prologue of the Gospel of Saint John (John 1:1–17) is proclaimed in various languages, accompanied by the ringing of church bells at every verse, proclaiming the universal scope of the Gospel of the Resurrection. In place of the Megalynarion *It is truly right*, the Paschal Irmos *The angel cried unto her that is full of grace* (*Angel vopiyashe*) is sung. At the conclusion of the Liturgy, the special Paschal Bread (*Artos*) and Easter foods (dairy, eggs, and meats) are solemnly blessed.
+
+[^278]: The ancient Byzantine and Ruthenian rubric prescribes that the Royal Doors and deacon's doors of the iconostasis remain open continuously throughout the entirety of Bright Week, day and night, including during the communion of the clergy in the sanctuary. This venerable custom manifests that through Christ's Resurrection and triumph over Hades, the veil of the temple is rent in twain, death is overcome, and the gates of the heavenly Paradise are thrown open unceasingly unto all believers.
+
+[^279]: Paschal Agape Vespers on Easter Sunday afternoon features the Great Entrance with the Holy Gospel and the solemn chanting of the Great Prokeimenon in Tone 7: *Who is a god so great as our God? Thou art the God Who workest wonders* (Psalm 76:14–15). The Gospel according to Saint John (John 20:19–25), recounting the appearance of the Risen Christ to His disciples behind closed doors without Thomas, is read by the priest standing in the Royal Doors facing west toward the people.
+
+[^280]: On Bright Saturday, after the Prayer behind the Ambo, the celebrant reads the prescribed prayer for the breaking of the *Artos* (*Molitva na razdrobleniye Artosa*). The blessed bread is divided into fragments and distributed to the faithful following the Dismissal as a precious antidoron and spiritual blessing. Only after the final dismissal of the Bright Saturday Liturgy are the Royal Doors and deacon's doors of the iconostasis closed, marking the conclusion of the solemn octave of Bright Week.
+
+[^281]: Beginning on Thomas Sunday (Antipascha) and continuing until the Apodosis of the Ascension, the customary opening invocation of the Holy Spirit, *O Heavenly King* (*Tsariu Nebesnyi*), is omitted and replaced by the threefold chanting of *Christ is risen from the dead*. All liturgical dismissals throughout this forty-day period incorporate the Paschal prefix: *Christ Who is risen from the dead, trampling down death by death...* Furthermore, all penitential kneeling prostrations remain suspended throughout this entire joyful season.
+
+[^282]: The Third Sunday of Pascha is dedicated to the Holy Myrrhbearing Women (Mary Magdalene, Mary the wife of Cleopas, Salome, Joanna, Martha and Mary of Bethany, and Susanna) alongside Saint Joseph of Arimathea and Nicodemus, commemorating their fearless witness at the empty sepulchre. On the Wednesday following the Fourth Sunday (Sunday of the Paralytic), the Church celebrates the Mid-Feast of Pentecost (*Prepoloveniye*), marking the exact midpoint (25th day) between Pascha and the Descent of the Holy Spirit, with its traditional Lesser Blessing of Water (*Maloie osviashchenie vody*) in honor of Christ the Fountain of Living Water.
+
+[^283]: On Wednesday of the Sixth Week after Pascha, the Leavetaking (Apodosis, Church Slavonic *Otdaniye*) of Pascha is observed. The entire liturgical cycle of Pascha—Vespers, Matins with the Golden Canon, and the Divine Liturgy—is repeated in its full festal splendor with open Royal Doors and the Dismissal with the Cross. At the conclusion of the Divine Liturgy, the *Plashchanytsia* is solemnly removed from the Holy Altar Table, where it has rested since the night of Great Saturday, and returned to the church vestry.
+
+[^284]: The Great Feast of the Ascension of Our Lord Jesus Christ (*Vozneseniye Hospodne*) occurs on the fortieth day after Pascha. At the Divine Liturgy, the proper festal antiphons are sung, and the Ninth Ode Heirmos, *Thou Who art higher than mind and beyond comprehension, Mother of God* (*Tia pache uma*), replaces *It is truly right*. The feast has an afterfeast of eight days, concluding with its Apodosis on Friday of the Seventh Week after Pascha.
+
+[^285]: The Seventh Sunday after Pascha commemorates the 318 Holy God-Bearing Fathers of the First Ecumenical Council of Nicaea (325 AD), who defended the divinity of the Son and formulated the first seven articles of the Nicene Creed. At the Divine Liturgy, the customary Sunday Prokeimenon is replaced by the Canticle of the Fathers from Daniel 3:26: *Blessed art Thou, O Lord, the God of our fathers, and praised and glorified is Thy name unto the ages* (*Blahosloven yesi, Hospodi Bozhe otets nashykh*).
+
+[^286]: In the Byzantine-Ruthenian liturgical tradition, the Friday of the Seventh Week after Pascha marks the Apodosis (Church Slavonic *Otdaniye*) of the Great Feast of the Ascension of Our Lord Jesus Christ. The entire festal service of the Ascension is chanted unchanged at Vespers and Matins, with the exception of the Old Testament readings (Paremias) and the Polyeleos, which are omitted on ordinary weekday apodoses.
+
+[^287]: The Saturday before Holy Pentecost is observed throughout the Byzantine Church as the Trinity Memorial Saturday (Church Slavonic *Troitskaya roditelskaya subbota*), commemorating all departed Orthodox Christians from Adam unto the present day. Because the Holy Spirit descends on Pentecost to vivify all creation and seal the redemption of both the living and the dead, the Church offers solemn intercession for the departed, using the full ancestral funeral office identical to Meatfare Saturday.
+
+[^288]: On the Great Feast of Holy Pentecost (Trinity Sunday), a unique rubrical sequence is enacted: immediately after the Dismissal of the Divine Liturgy, the Royal Doors remain open and the clergy begin the solemn Kneeling Vespers without leaving the sanctuary. This structural connection ensures that the ancient kneeling prostrations, strictly prohibited during the fifty days of Paschatide, are resumed immediately in the presence of the assembled faithful upon the calling down of the Holy Spirit.
+
+[^289]: The Kneeling Prayers (*Molitvy kolenoprekionennyia*) chanted at Pentecost Vespers were composed by Saint Basil the Great. Arranged into three distinct sections punctuated by deacon's litanies, they contain profound supplications for the forgiveness of sins, the preservation of the Church, and the repose and consolation of the souls of the departed, even those detained in hades.
+
+[^290]: The Monday following Pentecost is celebrated as Whit Monday or the Day of the Holy Spirit (*Den Sviataho Dukha*), honoring the Third Person of the All-Holy Trinity. The entire week following Pentecost is completely fast-free (*sploshnaya sedmitsa*), permitting the consumption of meat, dairy, fish, and wine even on Wednesday and Friday, as a celebration of the fullness of the New Covenant.
+
+[^291]: The Sunday of All Saints concludes the Pentecostarion cycle. Beginning on this Sunday, the eleven Resurrectional Morning Gospels (*Eothina*) and the eight tones of the Octoechos resume their weekly cyclical rotation throughout the liturgical year, beginning with Gospel 1 (Matthew 28:16–20) and Tone 8.
+
+[^292]: The Polyeleos (Greek *Polyeleos*, "Much-Merciful" or "Many-Lighted", Church Slavonic *Polyeley*) is the joyous high point of festal Matins, sung during the illumination of all church lamps. While modern practice often abbreviates the chanting, Father Doskovsky here documents the classical ten selected verses of Psalms 134 and 135 with the triple Alleluia refrain. On the three preparatory Sundays of Great Lent (Prodigal Son, Meatfare, Cheesefare), Psalm 136 (*By the waters of Babylon*) is appended to invoke repentance in exile.
+
+[^293]: The Katavasia (Greek *katavasia*, "descent", referring to the ancient practice of both choirs descending from their kleros stalls to chant together in the middle of the nave) concludes each ode of the Matins canon. Father Doskovsky provides a perpetual table of seasonal Katavasiai, mapping the Byzantine liturgical year across its Dominical, Theotokian, Lenten, and Paschal cycles.
+
+[^294]: The Byzantine Divine Liturgy possesses two primary musical openings: the Typika (Psalms 102 and 145 with the Beatitudes, representing the general parish and monastic usage) and the Festal Antiphons. Festal Antiphons with their proper psalm verses and refrains are reserved exclusively for the eight supreme Dominical Feasts enumerated here by Fr. Doskovsky.
+
+[^295]: Father Jacob Doskovsky here issues an important theological and rubrical correction to parish celebrants: liturgical dismissals must invoke the intercessions of living historical persons (the Most Holy Theotokos and the Saints) rather than addressing prayers to the feast, date, or event itself. Celebrants are forbidden to hypostasize feasts (e.g. saying "May the Dormition have mercy on us"), preserving the strict personalist soteriology of the Eastern Church.
+
+[^296]: The Six Pillars (*Shest Stolpov*, Greek *hexastylon*) form the traditional Byzantine mathematical engine that synchronizes the Eight Tones of the Octoechos with the Eleven Resurrectional Morning Gospels across the movable solar-lunar calendar. Because 8 and 11 are coprime (with a least common multiple of 88 weeks), the alignment shifts systematically six times each liturgical year at major fixed seasonal thresholds.
+
+[^297]: The Paschal Boundary Keys (*Klyuchi hranichni*) utilize the 35 letters of the traditional Cyrillic alphabet to index the 35 possible dates upon which Orthodox Pascha can fall (between March 22 and April 25 on the Julian calendar). Father Doskovsky demonstrates the practical application of this perpetual table using the concrete historical example of Sunday, February 15, 1852.
+
+[^298]: The Colophon provides primary bibliographical and epigraphic evidence for Monument 4: printed on October 23, 1852 (the Feast of Saint James the Brother of the Lord) in Peremyshl by typographer Andrew Huchkovsky, under the authorship and canonical oversight of Father Jacob Doskovsky, Cathedral Vicar of the Ukrainian Greek Catholic Eparchy of Peremyshl.
+
+[^299]: This typographical erratum represents the historical printers' corrigenda published at the conclusion of the 1852 Peremyshl edition, correcting a rubrical omission on page 96 concerning the Matins sequence following Psalm 50.
+
+[^300]: The first section of the master Table of Contents (*Soderzhaniye*) systematically indexes the Horologion (*Chasoslov*) and standard liturgical orders of the Byzantine-Ruthenian daily office, from Small Vespers to the Divine Liturgy.
+
+[^301]: The concluding sections of the master Table of Contents index the rubrical combinations of the movable and fixed cycles: Sunday services coinciding with various classes of feasts and saints, weekday typika, Menaion commemorations, and the structure of the Pre-Lenten and Lenten Triodion.
+
+[^302]: This concluding folio of the master Table of Contents (*Soderzhaniye*) completes the canonical subject index of Father Jacob Doskovsky's 1852 Typikon. It indexes the rubrics of Great Lent (Cheesefare Sunday through the Akathist Saturday), Holy Passion Week (Holy Monday through Great Friday), the Paschal and Pentecostarion cycle, general rubrical decrees on the Polyeleos and Katavasia, and the mathematical table of the Six Pillars synchronizing the Resurrection Gospels and Octoechos tones. The opposite page (folio 141 verso / page 279) is the blank flyleaf (*vacat*) concluding the printed monument.
