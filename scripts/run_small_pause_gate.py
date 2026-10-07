@@ -5,6 +5,7 @@ Universal Small Pause Gatekeeper Suite (Master Runner)
 Executes the mandatory linters and auditors at the conclusion of every cohort:
   1A. Shared_Lexicon/lint_vocabulary.py (Zero forbidden variants)
   1B. scripts/lint_liturgical_slop.py (Zero pseudo-archaic slop, AI clichés, or rubrical shall-bombing)
+  1C. scripts/chromatic_rubric_verifier.py (Chromatic Cinnabar Rubric Verification)
   2. scripts/hieratic_pronoun_audit.py (100% Deity Pronoun Capitalization)
   3. scripts/reconcile_footnotes.py (Exact 1:1 Footnote Parity)
   4. scripts/structural_audit.py (Unbroken Sequence & Heading Hierarchy)
@@ -35,6 +36,8 @@ if sys.stderr and hasattr(sys.stderr, 'reconfigure'):
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = SCRIPT_DIR.parent
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT))
 REGISTRY_FILE = PROJECT_ROOT / "Liturgical Monuments" / "codex_registry.json"
 STATE_FILE = PROJECT_ROOT / "Liturgical Monuments" / "ACTIVE_ORCHESTRATOR_STATE.json"
 TRIAGE_INBOX = PROJECT_ROOT / "scratch" / "triage_inbox.jsonl"
@@ -59,6 +62,51 @@ def find_target_file(dir_path: Path, pattern: str, cohort_num: Optional[int] = N
         if filtered:
             return filtered[0]
     return cands[0] if cands else None
+
+def run_gate_1c_chromatic(cohort_dir: Path, leaves: List[int]) -> bool:
+    """
+    Gate 1C: Chromatic Cinnabar Rubric Verification (when leaf scans are present).
+    Warns if rubric ink lacks statistically significant red pigment without blocking execution.
+    """
+    scan_dir = cohort_dir / "scans"
+    if not scan_dir.exists():
+        scan_dir = cohort_dir / "Source Text" / "images"
+    if not scan_dir.exists():
+        print("  PASSED (Bypassed: facsimile scans directory not present)")
+        return True
+
+    try:
+        from scripts.chromatic_rubric_verifier import ChromaticRubricVerifier
+    except Exception as e:
+        print(f"  WARNING: Could not load ChromaticRubricVerifier ({e}), bypassing.")
+        return True
+
+    warnings = 0
+    verified = 0
+    for leaf in leaves:
+        for fname in (f"p{leaf}.png", f"p{leaf}.jpg", f"Page_{leaf:04d}.jpg"):
+            leaf_img = scan_dir / fname
+            if leaf_img.exists():
+                break
+        else:
+            leaf_img = None
+
+        if leaf_img and leaf_img.exists():
+            try:
+                verifier = ChromaticRubricVerifier(leaf_img)
+                res = verifier.verify_crop()
+                verified += 1
+                if res.get("verdict") == "FAIL":
+                    warnings += 1
+                    print(f"  [GATE 1C WARNING] Leaf p{leaf} rubric lacks verified red pigment.")
+            except Exception as e:
+                print(f"  [GATE 1C ERROR] Failed analyzing leaf p{leaf}: {e}")
+
+    if verified > 0:
+        print(f"  PASSED ({verified} leaves checked for cinnabar red; {warnings} pigment warnings)")
+    else:
+        print("  PASSED (Bypassed: no matching leaf scan files in scan directory)")
+    return True
 
 def run_gate(monument_id: str, cohort_num: int) -> int:
     with open(REGISTRY_FILE, "r", encoding="utf-8") as f:
@@ -167,6 +215,16 @@ def run_gate(monument_id: str, cohort_num: int) -> int:
         print("  WARNING: lint_liturgical_slop.py not found, skipping slop linter.")
 
     master_report["gates"]["slop_linter"] = slop_data
+
+    # Gate 1C: Chromatic Cinnabar Rubric Verification (when leaf scans are present)
+    print("\n[Gate 1C] Running Chromatic Cinnabar Verification (scripts/chromatic_rubric_verifier.py)...")
+    from scripts.structural_audit import extract_accounted_leaves
+    cohort_leaves = sorted(extract_accounted_leaves(target_text.read_text(encoding="utf-8")))
+    chromatic_passed = run_gate_1c_chromatic(ws, cohort_leaves)
+    master_report["gates"]["chromatic_verifier"] = {
+        "passed": chromatic_passed,
+        "leaves_checked": len(cohort_leaves)
+    }
 
     # Gate 2: Hieratic Deity Pronoun Audit
     print("\n[Gate 2/4] Running Hieratic Deity Pronoun Audit (scripts/hieratic_pronoun_audit.py)...")

@@ -299,6 +299,17 @@ def ingest_and_sync(monument_id: str, cohort_num: int) -> int:
         f.write(master_edition_content)
     print(f"Generated complete edition: {complete_md_file.name} ({complete_md_file.stat().st_size} bytes)")
 
+    # Optional publication-grade Vector PDF generation (borrowed from Chant Indexer)
+    complete_pdf_file = final_md_dir / f"{monument_id}_complete.pdf"
+    if is_final_sync:
+        try:
+            from scripts.compile_liturgical_pdf import compile_markdown_to_pdf
+            print(f"Compiling publication-grade liturgical Vector PDF: {complete_pdf_file.name}...")
+            compile_markdown_to_pdf(complete_md_file, complete_pdf_file)
+            print(f"Generated Vector PDF: {complete_pdf_file.name} ({complete_pdf_file.stat().st_size} bytes)")
+        except Exception as e:
+            print(f"Notice: Liturgical PDF compilation skipped ({e}). Markdown deliverables remain canonical.")
+
     # 4. Sync Deliverables to Hub Inbox
     hub_inbox = get_hub_inbox(mon_info.get("short_title", monument_id))
     print(f"Syncing deliverables to Hub Inbox: {hub_inbox}")
@@ -307,7 +318,10 @@ def ingest_and_sync(monument_id: str, cohort_num: int) -> int:
         complete_md_file,
         complete_txt_file,
         master_fn_file,
-    ] + all_cohort_files
+    ]
+    if complete_pdf_file.exists():
+        files_to_sync.append(complete_pdf_file)
+    files_to_sync.extend(all_cohort_files)
 
     for f_src in files_to_sync:
         if f_src.exists():
