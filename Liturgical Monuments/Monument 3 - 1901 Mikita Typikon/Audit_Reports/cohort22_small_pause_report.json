@@ -1,0 +1,91 @@
+{
+  "timestamp": "2026-10-06T06:38:53.578385+00:00",
+  "monument_id": "1901_mikita_typikon",
+  "cohort": 22,
+  "target_file": "1901_mikita_typikon_cohort22_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1901_mikita_typikon_cohort22_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1901_mikita_typikon_cohort22_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1901_mikita_typikon_cohort22_raw_draft.md",
+      "footnotes_file": "1901_mikita_typikon_cohort22_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 19,
+      "definition_markers_count": 19,
+      "text_markers": [
+        "[^195]",
+        "[^196]",
+        "[^197]",
+        "[^198]",
+        "[^199]",
+        "[^200]",
+        "[^201]",
+        "[^202]",
+        "[^203]",
+        "[^204]",
+        "[^205]",
+        "[^206]",
+        "[^207]",
+        "[^208]",
+        "[^209]",
+        "[^210]",
+        "[^211]",
+        "[^212]",
+        "[^213]"
+      ],
+      "definition_markers": [
+        "[^195]",
+        "[^196]",
+        "[^197]",
+        "[^198]",
+        "[^199]",
+        "[^200]",
+        "[^201]",
+        "[^202]",
+        "[^203]",
+        "[^204]",
+        "[^205]",
+        "[^206]",
+        "[^207]",
+        "[^208]",
+        "[^209]",
+        "[^210]",
+        "[^211]",
+        "[^212]",
+        "[^213]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1901_mikita_typikon_cohort22_raw_draft.md",
+      "passed": true,
+      "paragraphs": 46,
+      "headings_count": 0,
+      "headings": [],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 211,
+        "max_leaf": 220
+      },
+      "anomalies": []
+    }
+  }
+}

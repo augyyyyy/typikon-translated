@@ -1,0 +1,79 @@
+{
+  "timestamp": "2026-10-06T13:17:45.103252+00:00",
+  "monument_id": "1901_mikita_typikon",
+  "cohort": 11,
+  "target_file": "1901_mikita_typikon_cohort11.txt",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1901_mikita_typikon_cohort11.txt",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1901_mikita_typikon_cohort11.txt",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1901_mikita_typikon_cohort11.txt",
+      "footnotes_file": "1901_mikita_typikon_cohort11_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 13,
+      "definition_markers_count": 13,
+      "text_markers": [
+        "[^100]",
+        "[^101]",
+        "[^102]",
+        "[^103]",
+        "[^104]",
+        "[^105]",
+        "[^106]",
+        "[^107]",
+        "[^108]",
+        "[^109]",
+        "[^110]",
+        "[^111]",
+        "[^112]"
+      ],
+      "definition_markers": [
+        "[^100]",
+        "[^101]",
+        "[^102]",
+        "[^103]",
+        "[^104]",
+        "[^105]",
+        "[^106]",
+        "[^107]",
+        "[^108]",
+        "[^109]",
+        "[^110]",
+        "[^111]",
+        "[^112]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1901_mikita_typikon_cohort11.txt",
+      "passed": true,
+      "paragraphs": 56,
+      "headings_count": 0,
+      "headings": [],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 101,
+        "max_leaf": 110
+      },
+      "anomalies": []
+    }
+  }
+}

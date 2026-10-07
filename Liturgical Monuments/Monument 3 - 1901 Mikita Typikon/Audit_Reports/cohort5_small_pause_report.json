@@ -1,0 +1,102 @@
+{
+  "timestamp": "2026-10-06T01:24:45.577638+00:00",
+  "monument_id": "1901_mikita_typikon",
+  "cohort": 5,
+  "target_file": "1901_mikita_typikon_cohort5_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1901_mikita_typikon_cohort5_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1901_mikita_typikon_cohort5_raw_draft.md",
+      "footnotes_file": "1901_mikita_typikon_cohort5_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 12,
+      "definition_markers_count": 12,
+      "text_markers": [
+        "[^24]",
+        "[^25]",
+        "[^26]",
+        "[^27]",
+        "[^28]",
+        "[^29]",
+        "[^30]",
+        "[^31]",
+        "[^32]",
+        "[^33]",
+        "[^34]",
+        "[^35]"
+      ],
+      "definition_markers": [
+        "[^24]",
+        "[^25]",
+        "[^26]",
+        "[^27]",
+        "[^28]",
+        "[^29]",
+        "[^30]",
+        "[^31]",
+        "[^32]",
+        "[^33]",
+        "[^34]",
+        "[^35]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1901_mikita_typikon_cohort5_raw_draft.md",
+      "passed": true,
+      "paragraphs": 65,
+      "headings_count": 6,
+      "headings": [
+        {
+          "line": 22,
+          "level": 2,
+          "title": "§ 12. Which Are the Lesser Feasts?"
+        },
+        {
+          "line": 46,
+          "level": 2,
+          "title": "§ 13. Direction of Feasts Prescribed for the Eparchy of Mukachevo"
+        },
+        {
+          "line": 80,
+          "level": 2,
+          "title": "§ 13. What Must Be Noted Concerning Sunday, Weekday, Fasting, Fast-Free, and Requiem Days?"
+        },
+        {
+          "line": 98,
+          "level": 1,
+          "title": "CHAPTER II"
+        },
+        {
+          "line": 100,
+          "level": 2,
+          "title": "§ 14. On Church Books in General"
+        },
+        {
+          "line": 106,
+          "level": 2,
+          "title": "§ 15. Which of the Church Books Are Public?"
+        }
+      ],
+      "numbered_items_count": 15,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 41,
+        "max_leaf": 50
+      },
+      "anomalies": []
+    }
+  }
+}

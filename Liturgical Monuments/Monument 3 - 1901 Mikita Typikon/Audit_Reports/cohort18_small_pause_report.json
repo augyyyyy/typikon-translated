@@ -1,0 +1,57 @@
+{
+  "timestamp": "2026-10-06T05:32:20.109988+00:00",
+  "monument_id": "1901_mikita_typikon",
+  "cohort": 18,
+  "target_file": "1901_mikita_typikon_cohort18.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1901_mikita_typikon_cohort18.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1901_mikita_typikon_cohort18.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1901_mikita_typikon_cohort18.md",
+      "footnotes_file": "1901_mikita_typikon_cohort18_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 2,
+      "definition_markers_count": 2,
+      "text_markers": [
+        "[^166]",
+        "[^167]"
+      ],
+      "definition_markers": [
+        "[^166]",
+        "[^167]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1901_mikita_typikon_cohort18.md",
+      "passed": true,
+      "paragraphs": 107,
+      "headings_count": 0,
+      "headings": [],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 171,
+        "max_leaf": 180
+      },
+      "anomalies": []
+    }
+  }
+}

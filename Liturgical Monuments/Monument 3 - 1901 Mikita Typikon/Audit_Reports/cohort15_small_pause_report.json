@@ -1,0 +1,85 @@
+{
+  "timestamp": "2026-10-06T04:19:52.159892+00:00",
+  "monument_id": "1901_mikita_typikon",
+  "cohort": 15,
+  "target_file": "1901_mikita_typikon_cohort15_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1901_mikita_typikon_cohort15_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1901_mikita_typikon_cohort15_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1901_mikita_typikon_cohort15_raw_draft.md",
+      "footnotes_file": "1901_mikita_typikon_cohort15_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 8,
+      "definition_markers_count": 8,
+      "text_markers": [
+        "[^148]",
+        "[^149]",
+        "[^150]",
+        "[^151]",
+        "[^152]",
+        "[^153]",
+        "[^154]",
+        "[^155]"
+      ],
+      "definition_markers": [
+        "[^148]",
+        "[^149]",
+        "[^150]",
+        "[^151]",
+        "[^152]",
+        "[^153]",
+        "[^154]",
+        "[^155]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1901_mikita_typikon_cohort15_raw_draft.md",
+      "passed": true,
+      "paragraphs": 71,
+      "headings_count": 3,
+      "headings": [
+        {
+          "line": 4,
+          "level": 3,
+          "title": "2) Extraordinary Hours."
+        },
+        {
+          "line": 54,
+          "level": 2,
+          "title": "CHAPTER II."
+        },
+        {
+          "line": 65,
+          "level": 3,
+          "title": "ARTICLE I."
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 141,
+        "max_leaf": 150
+      },
+      "anomalies": []
+    }
+  }
+}

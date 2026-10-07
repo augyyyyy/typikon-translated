@@ -1,0 +1,98 @@
+{
+  "timestamp": "2026-10-06T06:56:51.153577+00:00",
+  "monument_id": "1901_mikita_typikon",
+  "cohort": 23,
+  "target_file": "1901_mikita_typikon_cohort23_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1901_mikita_typikon_cohort23_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1901_mikita_typikon_cohort23_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1901_mikita_typikon_cohort23_raw_draft.md",
+      "footnotes_file": "1901_mikita_typikon_cohort23_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 17,
+      "definition_markers_count": 17,
+      "text_markers": [
+        "[^214]",
+        "[^215]",
+        "[^216]",
+        "[^217]",
+        "[^218]",
+        "[^219]",
+        "[^220]",
+        "[^221]",
+        "[^222]",
+        "[^223]",
+        "[^224]",
+        "[^225]",
+        "[^226]",
+        "[^227]",
+        "[^228]",
+        "[^229]",
+        "[^230]"
+      ],
+      "definition_markers": [
+        "[^214]",
+        "[^215]",
+        "[^216]",
+        "[^217]",
+        "[^218]",
+        "[^219]",
+        "[^220]",
+        "[^221]",
+        "[^222]",
+        "[^223]",
+        "[^224]",
+        "[^225]",
+        "[^226]",
+        "[^227]",
+        "[^228]",
+        "[^229]",
+        "[^230]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1901_mikita_typikon_cohort23_raw_draft.md",
+      "passed": true,
+      "paragraphs": 72,
+      "headings_count": 2,
+      "headings": [
+        {
+          "line": 13,
+          "level": 4,
+          "title": "ARTICLE II. Concerning the Liturgy of Saint Basil the Great."
+        },
+        {
+          "line": 39,
+          "level": 4,
+          "title": "ARTICLE III. The Order of the Divine Liturgy of the Presanctified Gifts."
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 221,
+        "max_leaf": 230
+      },
+      "anomalies": []
+    }
+  }
+}

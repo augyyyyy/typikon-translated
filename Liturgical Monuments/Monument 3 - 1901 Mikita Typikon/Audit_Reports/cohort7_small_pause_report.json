@@ -1,0 +1,101 @@
+{
+  "timestamp": "2026-10-06T01:59:29.392825+00:00",
+  "monument_id": "1901_mikita_typikon",
+  "cohort": 7,
+  "target_file": "1901_mikita_typikon_cohort7_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1901_mikita_typikon_cohort7_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1901_mikita_typikon_cohort7_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1901_mikita_typikon_cohort7_raw_draft.md",
+      "footnotes_file": "1901_mikita_typikon_cohort7_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 11,
+      "definition_markers_count": 11,
+      "text_markers": [
+        "[^43]",
+        "[^44]",
+        "[^45]",
+        "[^46]",
+        "[^47]",
+        "[^48]",
+        "[^49]",
+        "[^50]",
+        "[^51]",
+        "[^52]",
+        "[^53]"
+      ],
+      "definition_markers": [
+        "[^43]",
+        "[^44]",
+        "[^45]",
+        "[^46]",
+        "[^47]",
+        "[^48]",
+        "[^49]",
+        "[^50]",
+        "[^51]",
+        "[^52]",
+        "[^53]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1901_mikita_typikon_cohort7_raw_draft.md",
+      "passed": true,
+      "paragraphs": 51,
+      "headings_count": 5,
+      "headings": [
+        {
+          "line": 4,
+          "level": 2,
+          "title": "§ 20. From Whom Do the Church Books Originate?"
+        },
+        {
+          "line": 23,
+          "level": 1,
+          "title": "CHAPTER III."
+        },
+        {
+          "line": 24,
+          "level": 2,
+          "title": "On Liturgical Expressions and Terminology in the Church Books"
+        },
+        {
+          "line": 25,
+          "level": 2,
+          "title": "§ 21. On Liturgical Technical Terms in General"
+        },
+        {
+          "line": 30,
+          "level": 2,
+          "title": "§ 22. On Liturgical Technical Terms in Particular"
+        }
+      ],
+      "numbered_items_count": 15,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 61,
+        "max_leaf": 70
+      },
+      "anomalies": []
+    }
+  }
+}

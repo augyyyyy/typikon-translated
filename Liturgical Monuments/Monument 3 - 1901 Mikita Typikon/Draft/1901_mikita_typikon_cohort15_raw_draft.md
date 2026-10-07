@@ -1,0 +1,151 @@
+=== LEAF p141 ===
+[Book Page 117]
+
+remember us, O Lord.” “Glory,” and “Now and”: “Remember us, O Lord.” “The heavenly choir.” The Creed (*Viruyu*). “Pardon, remit.” “Our Father.” The kontakion. “Lord, have mercy” (*Господи помилуй*) (40 times). “Glory,” and “Now and”: “More honorable than the Cherubim” (*Честнѣйшую*); and thus “Through the prayers [of our holy Fathers],” etc. The Priest, standing before the royal doors, immediately saith the prayer: “All-Holy Trinity.” After this: “Blessed be the name of the Lord” (*Буди имя Господне*) (thrice). “I will bless the Lord at all times.” “It is meet and right,” and the dismissal.
+
+### 2) Extraordinary Hours.
+
+§. 64.
+
+The Hours in the Great Fast.
+
+The First Hour is celebrated for the most part with Matins, and begins only from: “Come, let us worship” (*Прїиди́те поклони́мся*) (thrice). (The Priest enters into the sanctuary.)[^148] The chanter reads the three appointed Psalms. “Glory,” and “Now and.” “Alleluia” (thrice). “Lord, have mercy” (*Господи помилуй*) (thrice). Kathisma of the day.[^149] Instead of the troparion there is said: “In the morning hear my voice, O my King and my God.” “Glory,” and “Now and”: “What shall we call thee, O full of grace?” “Order my steps” (*Стопы̀ моя̀ напра́ви...*)[^150] “Let my mouth be filled.” The Trisagion. “Our Father” (*Отче нашъ*) with the exclamation. Instead of the kontakion there is taken: “Let Thy compassions quickly go before us.” “Glory” (*Сла́ва*): “Wisdom.” “Now and”: “All-holy [Theotokos].” “Lord, have mercy” (*Господи помилуй*) (40 times). And the Priest, having come forth from the sanctuary, saith the prayer: “Thou Who at all times.” After this the chanter saith: “Lord, have mercy” (*Господи помилуй*) (thrice), “Glory,” and “Now and”: “More honorable than the Cherubim,” etc., “In the name of the Lord,” etc., and the Priest proclaims: “God be bountiful unto us, and bless us, and show the light of His countenance upon us, and have mercy on us,” and makes 3 prostrations. After this the chanter: The Trisagion. “Our Father” (*Отче нашъ*) with the exclamation. “Lord, have mercy” (*Господи помилуй*) (12 times). Whereunto the Priest saith the prayer: “O Christ, the true Light.” Upon the conclusion of which the chanter sings the kontakion of the Annunciation: “To thee, the champion leader,” etc., and if this Hour is combined with Matins, he makes the smallest dismissal.
+
+The Third Hour, if it is celebrated together with the 1st Hour, begins from: “Come, let us worship” (*Прїиди́те поклони́мся*) (thrice), when the Priest departs from the royal
+
+=== LEAF p142 ===
+[Book Page 118]
+
+doors. If, however, it is celebrated separately, then from: “Blessed is our God.” “O Heavenly King.” “Our Father,” etc. After this, following “Come, let us worship” (*Прїиди́те поклони́мся*) (thrice), the appointed Psalms. “Glory,” and “Now and.” “Alleluia” (thrice). “Lord, have mercy” (*Господи помилуй*) (thrice). Kathisma of the day. After the kathisma the troparion of the Fast: “O Lord, Who at the third hour didst send down Thy Most Holy Spirit upon Thine Apostles, take Him not away from us, O Good One, but renew Him in us who pray unto Thee.” “Glory,” and “Now and”: “O Theotokos, thou art the true vine”; and there is read: “Blessed is the Lord God,” etc. After this: The Trisagion. “Our Father” (*Отче нашъ*) with the exclamation. Instead of the kontakion there is sung the troparion of the Fast: “Blessed art Thou, O Christ our God,” with “Glory,” and “Now and.” “Lord, have mercy” (*Господи помилуй*) (40 times). And the Priest, having come forth from the sanctuary before the royal doors, saith the prayer: “Thou Who at all times.” After this the chanter: “Glory,” and “Now and”: “More honorable than the Cherubim,” etc., “In the name of the Lord bless, Father,” and the Priest proclaims: “Through the prayers of our holy Fathers,” etc., and makes 3 prostrations. After this: The Trisagion. “Our Father” (*Отче нашъ*) with the exclamation. “Lord, have mercy” (*Господи помилуй*) (12 times), and the Priest reads the prayer: “O Master God,” etc., and immediately:
+
+The Sixth Hour from “Come, let us worship” (*Прїиди́те поклони́мся*) (thrice), when the Priest enters into the holy sanctuary. The chanter reads the three psalms. “Glory,” and “Now and.” “Alleluia” (thrice). “Lord, have mercy” (*Господи помилуй*) (thrice). Kathisma of the day. Troparion of the Fast: “Thou Who on the sixth day and hour didst nail to the Cross the sin which Adam daringly committed in paradise,” etc. “Glory,” and “Now and”: “Seeing that we have not boldness,” etc. “Let Thy compassions quickly go before us” is read. After this: The Trisagion. “Our Father” (*Отче нашъ*) with the exclamation. Instead of the kontakion the troparion of the Fast: “Thou hast wrought salvation,” with “Glory,” and “Now and.” “Lord, have mercy” (*Господи помилуй*) (40 times), when the Priest comes forth from the sanctuary and reads the prayer: “Thou Who at all times.” “Glory,” and “Now and.” “More honorable than the Cherubim,” etc., “In the name of the Lord bless, Father,” whereunto the Priest proclaims: “Through the prayers of our holy Fathers,” etc., and makes 3 prostrations. After this: The Trisagion. “Our Father” (*Отче нашъ*) with the exclamation. “Lord, have mercy” (*Господи помилуй*) (12 times), and the prayer is said by the Priest: “O God and Lord of hosts,” and so forth.
+
+The Ninth Hour, if it is celebrated together with the 6th Hour, begins with: “Come, let us worship” (*Прїиди́те поклони́мся*) (thrice); if, however, this Hour is celebrated separately, then after “Blessed is our God” (*Благословенъ Богъ нашъ*) there is said also “O Heavenly King,” etc., as usual. Three psalms. “Glory,” and “Now and.” “Alleluia” (thrice). “Lord, have mercy” (*Господи помилуй*) (thrice). Kathisma of the day. Troparion: “Thou Who at the ninth hour for our sake didst taste of death in the flesh,” etc. “Glory,” and “Now and”: “He Who for our sake,” etc. “Deliver us not up” (*Не предаждь насъ*) is read. After this: The Trisagion. “Our Father” (*Отче нашъ*) with the exclamation. Instead of the kontakion the troparion of the Fast: “When the thief beheld,” with “Glory,” and “Now and.” “Lord, have mercy” (*Господи помилуй*) (40 times). And the Priest, having come forth, on the ambo saith the prayer: “Thou Who at all times.” “Lord, have mercy” (*Господи помилуй*) (thrice). “Glory,” and “Now and”: “More honorable than the Cherubim,” etc., “In the name of the Lord bless, Father,” and so forth, whereunto the Priest before the royal doors saith: “God be bountiful unto us,” etc., if this Hour is celebrated separately; if, however, not:
+
+=== LEAF p143 ===
+[Book Page 119]
+
+then: “Through the prayers of our holy Fathers,” etc., and he makes three prostrations,[^151] and there begins:
+
+The Typika [*Obidnytsia*]. Here it is needful to note that it is celebrated either together with Vespers, or also with the Liturgy of the Presanctified Gifts. (If there be any feast, then first we say Ps. 102 [Ps. 102]. “Glory” (*Сла́ва*): “Praise the Lord, O my soul.” “Now and”: “Only-begotten Son.”) If it is celebrated together with Vespers, then the Priest stands before the royal doors, and the choir sings: “In Thy kingdom.” (If there be any feast, then “In Thy kingdom” is only read.) After this they sing: “Remember us, O Lord,” and all make a bow. “Remember us, O Master,” and likewise they make a bow. Finally: “Remember us, O Holy One,” and they make a bow. After this there is read: “The choir of the holy Apostles.” The Creed (*Viruyu*). “Pardon, remit.” “Our Father” (*Отче нашъ*) with the exclamation. The kontakion of the temple, of the day, and to the Saint. “Glory” (*Сла́ва*): “With the Saints,” “Now and”: “O Protection of Christians.” “Lord, have mercy” (*Господи помилуй*) (40 times). “Glory,” and “Now and.” “More honorable than the Cherubim,” etc. “In the name of the Lord,” etc., and the Priest, standing before the royal doors, proclaims: “Through the prayers of the holy Fathers,” and makes 3 prostrations. The Trisagion. “Our Father” (*Отче нашъ*) with the exclamation. “Lord, have mercy” (*Господи помилуй*) (12 times), and then the prayer of the 9th Hour: “O Lord Jesus Christ,”[^152] etc. The smallest dismissal. The remaining parts of the Typika [*Obidnytsia*] are taken at the end of Vespers. (See p. 74.)
+
+If, however, the Typika [*Obidnytsia*] is joined not only with Vespers, but also with the Liturgy of the Presanctified Gifts, then it is celebrated as was said above, only that it is needful to note that in this case, of the remaining parts, the prayer: “All-Holy Trinity” (*Всесвятая Троице*) is omitted, and the other parts are taken at the end of the Liturgy.
+
+§. 65.
+
+The Hours of Bright Week.
+
+They are celebrated in such wise as they are arranged in the *Molitvoslov* on pages 478–480, that is: after “Blessed is our God” (*Благословенъ Богъ нашъ*) there is taken: “Christ is risen” (*Христосъ воскресе*) (thrice). “Having beheld the Resurrection of Christ” (*Воскресе́нїе Хрїсто́во*) (thrice). “They who preceded the dawn.” “Though Thou didst descend into the tomb.” “In the tomb
+
+=== LEAF p144 ===
+[Book Page 120]
+
+bodily.” “Glory,” and “Now and.” “Lord, have mercy” (*Господи помилуй*) (40 times). “Glory,” and “Now and.” “More honorable than the Cherubim.” “In the name of the Lord.” The Priest: “Through the prayers of our holy Fathers.” “Christ is risen” (*Христосъ воскресе*) (thrice) and the dismissal. It is needful to note this, that all 4 Hours are concluded uniformly. — The Typika [*Obidnytsia*] is also celebrated as it is in the *Molitvoslov*, p. 480. That is, if there will be no Liturgy: “Bless the Lord, O my soul.” “Christ is risen” (*Христосъ воскресе*) (thrice). “Having beheld the Resurrection of Christ” (*Воскресе́нїе Хрїсто́во*) (once). “They who preceded the dawn” (once). “Glory” (*Сла́ва*): “Though Thou didst descend into the tomb.” “Now and”: “Only-begotten Son.” After this: The Beatitudes (*Blazhenny*), and that: from the Canon, Odes 3 and 6. The Prokimenon. The Epistle (*Apostol*), the Gospel. “Remember us, O Lord.” The Creed (*Viruyu*). “Pardon, remit.” “Our Father.” Kontakion: “Though Thou didst descend into the tomb.” “Lord, have mercy” (*Господи помилуй*) (40 times). “All-Holy Trinity.” “Christ is risen” (*Христосъ воскресе*) (thrice). Psalm 33 [Ps. 33]: “I will bless the Lord,” and the Dismissal.
+
+§. 66.
+
+Concerning the All-Night Vigil.
+
+The All-Night Vigil consists of Great Vespers with Litiya and of Matins with the 1st Hour,—or of Great Compline with Litiya and of Matins with the 1st Hour. We do not intend to describe the order of this divine service here yet again, for each one will already know it from the things spoken. Here let us only note this: that if the All-Night Vigil begins in such wise that the Priest, having opened the royal doors and censed the church, at the royal doors at “Command” [*Povelite*] proclaims: “Glory to the Holy,” and thus “Come, let us worship” (*Прїиди́те поклони́мся*) (thrice); then at the beginning of Matins let him not proclaim anew “Glory to the Holy,” but instead of this let him say: “Blessed and glorified is Christ our God,” and thus let there follow: “Glory to God in the highest” (*Слава во вышнихъ Богу*) (twice). If, however, at the beginning of Matins there is to be said: “Glory to the Holy,” then at the end of the Litiya let there be said: “The blessing of the Lord be upon you.”
+
+§. 67.
+
+What is Needful to Note Concerning the Church Rule [*Pravilo*].
+
+In the Western Latin Church there is a law (*lex* [law]), according to which not only a Priest, but also a subdeacon daily (*quotidie* [daily]) under mortal sin (*sub peccato mortali* [under mortal sin]) is bound to celebrate the Church Rule (*Breviarium* [Breviary]). Moreover, those ecclesiastical persons who also hold some ecclesiastical benefice not only sin if they do not complete the Church Rule, but also
+
+=== LEAF p145 ===
+[Book Page 121]
+
+are bound in conscience to give the corresponding portion of their revenues unto pious purposes, that is, they are bound to celebrate the Church Rule not only under mortal sin, but also under obligation of restitution (*sub onere restitutionis* [under obligation of restitution]).
+
+In the Eastern Greek Church, however, there is no such clear definition. There are those who, according to the words of the Constitution of Benedict XIV *“Eo quamvis,”* say this: that among us the obligation to fulfill the Church Rule hath arisen not by express law (*nulla lege expressa* [by no express law]), but by praiseworthy custom (*laudabili consuetudine* [by praiseworthy custom]). Yet among us it is not even known whether a presbyter, or already also a subdeacon, is bound unto this. Further, neither is it known when a priest is bound unto this: whether daily (*quotidie* [daily]), or only when he celebrates the Liturgy? It seems to me that it is a praiseworthy matter to celebrate the Rule daily (*quotidie* [daily]); but it appears that it is prescribed under mortal sin (*sub peccato mortali* [under mortal sin]) only when the Priest celebrates the Holy Liturgy. For so it is found in the Oriental Code, law 66a (*in Codice Orientali lege 66-a*): *“Sacerdos non recitans horas canonicas et celebrat, peccat; si suppleverit, remittitur peccatum”* [“A priest who doth not recite the canonical hours and celebrates, sins; if he shall have supplied them, the sin is remitted”] (Papp-Szilágyi: *Enchiridion juris Eccl. Orient.*, Magno-Varadini, 1862, p. 77). Likewise it is not known whether a priest who hath a church parish is obliged, if he doth not complete the Church Rule, to give the due portion from his revenues unto pious purposes, that is, whether he is bound to fulfill the rule under obligation of restitution (*sub onere restitutionis* [under obligation of restitution]), or not? Finally, since among us the Church Rule is lengthy and requires many books for its conscientious completion, and in many places books are not even to be had: therefore it is not known how many of the services a priest ought to complete. A full rule, or an abbreviated one? Unto this question Pope Pius IX answered two priests thus: *“Sequantur praxim aliorum piorum Sacerdotum illius regionis”* [“Let them follow the practice of other pious priests of that region”] (cf. *Zeitschrift für Kath. Theolog.*, VII. Jahrgang, I. Heft, 1883, p. 188).
+
+## CHAPTER II.
+
+§. 68.
+
+Concerning the Church Rule According to Diverse Occurrences.
+
+In this chapter, in three articles concerning the daily services, that is, concerning the daily rule, we shall speak in such wise that: 1) Sunday shall be the head, and unto it we shall adapt the diverse occurrences. 2)
+
+=== LEAF p146 ===
+[Book Page 122]
+
+The weekday shall be the head, and unto it we shall adapt the diverse occurrences. Finally: 3) Saturday shall be our subject according to diverse occurrences.
+
+### ARTICLE I.
+
+§. 69.
+
+I.) If It Be Sunday and a Small Saint (at 3).
+
+(α) On Saturday at Great Vespers: The usual beginning, the litany of peace. Kathisma: “Blessed is the man,” entire. Stichera on “Lord, I have cried” (*Господи воззвахъ*) at 10, and that: 7 of the Resurrection from the Octoechos, and to the Saint 3 from the Anthologion or from the Common Menaion [*Obshchina*]. “Glory” (*Сла́ва*): to the Saint, if he have one; if, however, he have none: “Glory,” and “Now and”: The Dogmatikon of the current tone from the Octoechos. Great entrance. “O Joyful Light.” Great Prokimenon (“The Lord reigns” (*Госпо́дь воцари́ся*)). During the Prokimenon the Priest comes unto the Holy Table, and after its singing sings the litany: “Let us all say.” After this the chanter reads: “Vouchsafe, O Lord,” upon the conclusion of which the Priest sings the second litany: “Let us complete.” Stichera on the aposticha 4, and those of the Resurrection from the Octoechos. (Unto the Saint we take nothing.) “Glory” (*Сла́ва*): to the Saint. “Now and”: Theotokion of the Resurrection from the aposticha according to the tone of the Saint. If, however, there is no sticheron written for the Saint at “Glory,” then “Glory,” and “Now and”: Theotokion from the aposticha. After “Now lettest Thou dismiss” the troparion of the Resurrection. “Glory” (*Сла́ва*): to the Saint. “Now and”: Theotokion of the Resurrection from the troparia of the Resurrection according to the tone of the troparion of the Saint. Great dismissal.
+
+(β) At Small Compline: All things as usual. Canon to the Theotokos. Hypakoe of the tone of the day. Unto the Saint nothing is taken; he is commemorated only in the Dismissal.
+
+(γ) At the Midnight Office: All things as usual. Triadikon Canon. The Saint is commemorated only in the Dismissal.
+
+(δ) At Matins: The usual beginning. At “God is the Lord” (*Богъ Господь*) the troparion of the Resurrection (twice). “Glory” (*Сла́ва*): Troparion of the Saint. “Now and”: Theotokion of the Resurrection according to the tone of the troparion of the Saint. Kathisma 1. Sessional Hymn 1. Kathisma 2. Sessional Hymn 2. Kathisma 3.[^153] (All Sessional Hymns are taken from the Octoechos.) Instead of the 3rd Sessional Hymn: The troparia “The angelic assembly was astonished.” — After this the small litany. Hypakoe of the tone. The Graduals
+
+=== LEAF p147 ===
+[Book Page 123]
+
+[*Stepenny*]. During this the Priest comes vested in the phelonion unto the Holy Table, and there proclaims: “Let us attend, peace be to all, wisdom, let us attend,” and the chanter sings the Prokimenon. At “Let us pray to the Lord” (*Господу помолимся*) the Priest opens the royal doors—and the rest as usual. The Gospel. “Having beheld the Resurrection of Christ.” Psalm 50 [Ps. 50] with the stichera. The Canon is fourfold and is taken at 14 (of the Resurrection with the heirmos at 4, of the Cross and Resurrection at 3, of the Theotokos at 3, and to the Saint at 4). Katavasia of the day. After Ode 3 of the Canon and the litany: Kontakion and ikos of the Saint. “Glory” (*Сла́ва*): Sessional Hymn of the Saint. “Now and”: Theotokion. After Ode 6: Kontakion and ikos of the Resurrection. At Ode 8: “My soul doth magnify.” “More honorable than the Cherubim,” etc. After Ode 9: The small litany, after which the Priest proclaims:[^154] “Holy is the Lord our God” (*Святъ Господь Богъ нашъ*); the chanter the same (twice), and the Exapostilarion of the Resurrection. “Glory” (*Сла́ва*): Exapostilarion of the Saint. “Now and”: Theotokion of the Resurrection. “Let every breath” (*Всякое дыханіе*) and the stichera on the Praises 8 from the Octoechos. (Unto the Saint nothing is taken.) “Glory” (*Сла́ва*): Gospel sticheron of the day. “Now and”: “Most blessed art thou.” Great Doxology. The Trisagion. Troparion of the Resurrection: “Today salvation is come unto the world,” or “Having risen from the tomb.” The litanies: “Have mercy on us, O God,” and “Let us complete.” Great dismissal.
+
+(ε) At the Hours and at the Typika [*Obidnytsia*]: At the 1st Hour: Troparion of the Resurrection; after the “Our Father,” kontakion of the Resurrection. — At the 3rd Hour: Troparion of the Resurrection. “Glory” (*Сла́ва*): Troparion of the Saint. “Now and”: “O Theotokos, thou art [the vine].” After the “Our Father” (*Отче нашъ*): Kontakion of the Saint. — At the 6th Hour: Troparion of the Resurrection and of the temple; after the “Our Father” (*Отче нашъ*): Kontakion of the temple. At the 9th Hour: Troparion of the Resurrection. “Glory” (*Сла́ва*): Troparion of the Saint; “Now and”: “He Who for our sake,” etc.; after the “Our Father” (*Отче нашъ*): Kontakion of the Resurrection, etc., as usual. — At the Typika [*Obidnytsia*]: Kontakion of the Sunday, of the Temple, and to the Saint. In the dismissals the Saint is commemorated everywhere.
+
+§. 70.
+
+II.) If It Be Sunday and a Middle Saint (at 6).
+
+(α) At Vespers: Stichera on “Lord, I have cried” (*Господи воззвахъ*) at 10, and that: 3 of the Resurrection, 1 of the East, and to the Saint 6.[^155] “Glory” (*Сла́ва*): to the Saint. “Now and”: Dogmatikon Theotokion. Stichera on the aposticha all of the Resurrection. If the Saint have a “Glory,” then “Glory” (*Сла́ва*): to the Saint. “Now and”: Theotokion according to the tone of the Saint. If, however, the Saint have no “Glory,” then “Glory,” and “Now and”: Theotokion. After “Now lettest Thou
+
+=== LEAF p148 ===
+[Book Page 124]
+
+dismiss” the troparion of the Resurrection. “Glory” (*Сла́ва*): to the Saint. “Now and”: Theotokion of the Resurrection. Great dismissal;
+
+(β) At Small Compline: Canon to the Theotokos according to the tone. After Ode 9 of the Canon: “It is meet and right.” After this: The Trisagion. “Our Father” (*Отче нашъ*) with the exclamation. Hypakoe of the tone. The Saint is commemorated only in the Dismissal;
+
+(γ) At the Midnight Office: Triadikon Canon. The Saint is commemorated only in the Dismissal;
+
+(δ) At Matins: The usual beginning. At “God is the Lord” (*Богъ Господь*) the troparion of the Resurrection (twice). “Glory” (*Сла́ва*): to the Saint. “Now and”: Theotokion of the Resurrection according to the tone of the troparion of the Saint. Kathismata and Sessional Hymns of the Resurrection as usual. Hypakoe. Graduals [*Stepenny*]. Prokimenon. Gospel of the Resurrection, the rest in order. The Canon at 14, and that: of the Resurrection with the heirmos at 4, of the Cross and Resurrection at 2, of the Theotokos at 2, and to the Saint at 6. Katavasia of the day. After Ode 3 of the Canon: Kontakion and ikos of the Saint. “Glory” (*Сла́ва*): Sessional Hymn of the Saint; “Now and”: Theotokion in the same place. After Ode 6: Kontakion and ikos of the Sunday. After Ode 9: The small litany. “Holy is the Lord our God” (*Святъ Господь Богъ нашъ*) and the Exapostilarion of the Resurrection. “Glory” (*Сла́ва*): to the Saint. “Now and”: Theotokion from the Sunday Exapostilarion. “Let every breath,” etc., and the stichera on the Praises 4 of the Resurrection (from the Octoechos), and to the Saint 4 with the Doxastikon [*Naslavnyk*], that is, the sticheron of the Saint appointed at “Glory” (*Сла́ва*) is taken as the fourth sticheron. After this “Glory” (*Сла́ва*): Gospel sticheron. “Now and”: “Most blessed art thou.” Great Doxology. Troparion of the Resurrection, only one of the two. Litanies 2. Great dismissal;
+
+(ε) At the Hours and at the Typika [*Obidnytsia*]: All things are celebrated as on a Sunday if there be a small Saint. In the dismissals the Saint is commemorated everywhere.
+
+§. 71.
+
+III.) If It Be Sunday and a Great (Polyeleos) Saint.
+
+(α) At Great Vespers: The usual beginning. Stichera on “Lord, I have cried” (*Господи воззвахъ*) at 10, and that: 3 of the Resurrection, 1 of the East, and to the Saint 6. “Glory” (*Сла́ва*): to the Saint. “Now and”: Dogmatikon Theotokion of the tone (that is, the 1st Theotokion). Great entrance with the censer. Great Prokimenon of the day. Readings 3 to the Saint, etc. Stichera on the aposticha all of the Resurrection from the Octoechos. “Glory” (*Сла́ва*): to the Saint. “Now and”: Theotokion according to the tone of the same Doxastikon [*Naslavnyk*]. “Now lettest Thou dismiss,” etc. Troparion of the Resurrection. “Glory” (*Сла́ва*): Troparion to the Saint. “Now and”: Theotokion of the Resurrection according to the tone. All the rest in order;
+
+=== LEAF p149 ===
+[Book Page 125]
+
+(β) At Small Compline: Canon to the Theotokos and kontakion of the Saint alone. — At the Midnight Office: All things in order. The Saint is commemorated only in the Dismissals;
+
+(γ) At Matins: The usual beginning. At “God is the Lord” (*Богъ Господь*) the troparion of the Resurrection (twice). “Glory” (*Сла́ва*): Troparion of the Saint. “Now and”: Theotokion of the Resurrection according to the tone of the troparion of the Saint. Kathismata 2 with two Sunday Sessional Hymns and with their Theotokia. Instead of the 3rd Kathisma: The Polyeleos and the Magnification of the Saint with the selected verses. After the Magnification we do not sing “Glory,” and “Now and,” and “Alleluia,” but we sing immediately: the troparia after the Evlogitaria: “The angelic assembly.” The small litany. Sunday Hypakoe of the tone, and thus both Sessional Hymns to the Saint, once each, without Theotokia. “Glory” (*Сла́ва*): Sessional Hymn of the Saint. “Now and”: Theotokion in the same place. Graduals [*Stepenny*]. Sunday Prokimenon. Gospel of the Resurrection. “Having beheld the Resurrection of Christ.” Psalm 50 [Ps. 50] and the Sunday sticheron. The Canon at 14, and that: of the Resurrection at 4 with the heirmos; of the Cross and Resurrection we do not take; of the Theotokos at 2, and to the Saint at 8. Katavasia of the day. After Ode 3: Kontakion and ikos of the Saint. “Glory” (*Сла́ва*): Sessional Hymn of the Saint. “Now and”: Theotokion of the same. After Ode 6: Kontakion and ikos of the Resurrection. Before Ode 9: “My soul doth magnify” and “More honorable than the Cherubim.” After Ode 9: Small litany, and “Holy is the Lord our God,” and the Sunday Exapostilarion. After this “Glory” (*Сла́ва*): to the Saint. “Now and”: Theotokion of the Resurrection. Stichera on the Praises 4 of the Resurrection, and 4 to the Saint with the Doxastikon [*Naslavnyk*] and with its two refrains, which are written on the aposticha of Vespers. “Glory” (*Сла́ва*): Gospel sticheron. “Now and”: “Most blessed art thou.” Great Doxology. The Trisagion. Troparion of the Resurrection, only one of the two. All the rest as usual;
+
+(δ) At the Hours: At the 1st Hour: Troparion of the Resurrection and troparion of the Saint; after the “Our Father” (*Отче нашъ*): Kontakion of the Resurrection. At the 3rd Hour: Troparion of the Resurrection and troparion of the Saint; after the “Our Father” (*Отче нашъ*): Kontakion of the Saint; at the 6th Hour: Troparion of the Resurrection and troparion of the temple; after the “Our Father” (*Отче нашъ*): Kontakion of the temple; at the 9th Hour: Troparion of the Resurrection and troparion of the Saint; after the “Our Father” (*Отче нашъ*): Kontakion of the Resurrection; — at the Typika [*Obidnytsia*]: Kontakion of the Resurrection, of the temple, and to the Saint. (In the dismissals the Saint is commemorated everywhere.)
+
+§. 72.
+
+IV.) If It Be Sunday and There Occur Two Small Saints Having an Office.
+
+(α) At Great Vespers: On “Lord, I have cried” (*Господи воззвахъ*) stichera at 10, and that: 4 of the Resurrection, to the 1st Saint 3, to the 2nd Saint 3.
+
+=== LEAF p150 ===
+[Book Page 126]
+
+“Glory” (*Сла́ва*): to the 1st Saint; “Now and”: Dogmatikon Theotokion of the current tone (the 1st Theotokion). Great entrance. Prokimenon of the day: “The Lord reigns” (*Госпо́дь воцари́ся*); on the aposticha the stichera of the Resurrection. “Glory” (*Сла́ва*): to the 1st Saint. “Now and”: Theotokion from the aposticha of the Resurrection according to the tone of the Doxastikon [*Naslavnyk*] of the Saint. (If, however, the Saint have no Doxastikon [*Naslavnyk*], then “Glory,” and “Now and”: Theotokion.) After “Now lettest Thou dismiss” the troparion of the Resurrection and the troparion of the 1st Saint. “Glory” (*Сла́ва*): Troparion of the [2nd] Saint. “Now and”: Theotokion of the Resurrection according to the tone of the Doxastikon [*Naslavnyk*] of the 2nd Saint. All the rest as usual;
+
+(β) At the Midnight Office and at Small Compline: Unto the Saints nothing is taken. The Hypakoe and all things of the Sunday. The Saints are commemorated only in the dismissals;
+
+(γ) At Matins: The usual beginning. At “God is the Lord” (*Богъ Господь*) the troparion of the Resurrection and the troparion of the 1st Saint. “Glory” (*Сла́ва*): Troparion of the 2nd Saint; “Now and”: Theotokion of the Resurrection according to the tone of the troparion of the 2nd Saint. All the rest of the Resurrection from the Octoechos. The Canon at 14; and that: of the Resurrection with the heirmos at 4, of the Cross and Resurrection is omitted, of the Theotokos at 2, to the 1st Saint at 4, and to the 2nd Saint at 4. Katavasia of the day. After Ode 3: Kontakion and ikos of the 1st and 2nd Saints, Sessional Hymn of the 1st Saint; “Glory” (*Сла́ва*): Sessional Hymn of the 2nd Saint; “Now and”: Theotokion. After Ode 6: Kontakion and ikos of the Resurrection. After Ode 9: Exapostilarion of the 2nd Saint; “Now and”: Theotokion from the Sunday Exapostilarion; on the Praises stichera at 8, and all of the Resurrection. (Unto the Saints nothing.) “Glory” (*Сла́ва*): Gospel sticheron; “Now and”: “Most blessed art thou.” After the Great Doxology and the Trisagion the troparion of the Resurrection: “Today salvation [is come unto the world],” or “Having risen from the tomb.” The rest in order;
+
+(δ) At the Hours and at the Typika [*Obidnytsia*]: All things in order, that is: at the 1st Hour: Troparion of the Resurrection; after the “Our Father,” kontakion of the Resurrection; at the 3rd Hour: Troparion of the Resurrection and troparion of the 1st Saint; after the “Our Father” (*Отче нашъ*): Kontakion of the 1st Saint; at the 6th Hour: Troparion of the Resurrection and troparion of the temple; after the “Our Father” (*Отче нашъ*): Kontakion of the temple; at the 9th Hour: Troparion of the Resurrection and troparion of the 2nd Saint; after the “Our Father” (*Отче нашъ*): Kontakion of the 2nd Saint. — At the Typika [*Obidnytsia*]: Kontakion of the Resurrection and of the temple. “Glory” (*Сла́ва*): Troparion of the 1st Saint; “Now and”: of the 2nd Saint. All the rest in order. In the dismissals the Saints are commemorated everywhere.
+
+§. 73.
+
+V.) If It Be Sunday and One Middle Saint (at 6) and One Small Saint (at 3).

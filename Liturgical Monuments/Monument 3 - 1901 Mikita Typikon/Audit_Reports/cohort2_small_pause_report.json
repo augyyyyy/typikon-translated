@@ -1,0 +1,125 @@
+{
+  "timestamp": "2026-10-06T00:46:55.107441+00:00",
+  "monument_id": "1901_mikita_typikon",
+  "cohort": 2,
+  "target_file": "1901_mikita_typikon_cohort2.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1901_mikita_typikon_cohort2.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1901_mikita_typikon_cohort2.md",
+      "footnotes_file": "1901_mikita_typikon_cohort2_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 1,
+      "definition_markers_count": 1,
+      "text_markers": [
+        "[^2]"
+      ],
+      "definition_markers": [
+        "[^2]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1901_mikita_typikon_cohort2.md",
+      "passed": true,
+      "paragraphs": 216,
+      "headings_count": 29,
+      "headings": [
+        {
+          "line": 14,
+          "level": 4,
+          "title": "MEMBER II"
+        },
+        {
+          "line": 26,
+          "level": 4,
+          "title": "MEMBER III"
+        },
+        {
+          "line": 42,
+          "level": 4,
+          "title": "MEMBER IV"
+        },
+        {
+          "line": 63,
+          "level": 4,
+          "title": "MEMBER V"
+        },
+        {
+          "line": 74,
+          "level": 3,
+          "title": "APPENDIX"
+        },
+        {
+          "line": 78,
+          "level": 3,
+          "title": "CHAPTER II"
+        },
+        {
+          "line": 81,
+          "level": 4,
+          "title": "MEMBER I"
+        },
+        {
+          "line": 111,
+          "level": 4,
+          "title": "MEMBER II"
+        },
+        {
+          "line": 144,
+          "level": 4,
+          "title": "MEMBER III"
+        },
+        {
+          "line": 158,
+          "level": 3,
+          "title": "APPENDIX"
+        },
+        {
+          "line": 172,
+          "level": 2,
+          "title": "SECTION II"
+        },
+        {
+          "line": 175,
+          "level": 3,
+          "title": "CHAPTER I"
+        },
+        {
+          "line": 178,
+          "level": 4,
+          "title": "MEMBER I"
+        },
+        {
+          "line": 179,
+          "level": 4,
+          "title": "Order of the Liturgy of St. John Chrysostom"
+        },
+        {
+          "line": 184,
+          "level": 4,
+          "title": "MEMBER II"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 11,
+        "max_leaf": 20
+      },
+      "anomalies": []
+    }
+  }
+}

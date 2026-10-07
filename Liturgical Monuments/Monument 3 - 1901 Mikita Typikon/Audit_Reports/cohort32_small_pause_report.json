@@ -1,0 +1,113 @@
+{
+  "timestamp": "2026-10-06T11:31:01.526158+00:00",
+  "monument_id": "1901_mikita_typikon",
+  "cohort": 32,
+  "target_file": "1901_mikita_typikon_cohort32_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1901_mikita_typikon_cohort32_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1901_mikita_typikon_cohort32_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1901_mikita_typikon_cohort32_raw_draft.md",
+      "footnotes_file": "1901_mikita_typikon_cohort32_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 7,
+      "definition_markers_count": 7,
+      "text_markers": [
+        "[^340]",
+        "[^341]",
+        "[^342]",
+        "[^343]",
+        "[^344]",
+        "[^345]",
+        "[^346]"
+      ],
+      "definition_markers": [
+        "[^340]",
+        "[^341]",
+        "[^342]",
+        "[^343]",
+        "[^344]",
+        "[^345]",
+        "[^346]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1901_mikita_typikon_cohort32_raw_draft.md",
+      "passed": true,
+      "paragraphs": 192,
+      "headings_count": 9,
+      "headings": [
+        {
+          "line": 68,
+          "level": 3,
+          "title": "I. Visual Paschalion (Table I, Part 1)"
+        },
+        {
+          "line": 99,
+          "level": 3,
+          "title": "I. Visual Paschalion (Table I, Part 2)"
+        },
+        {
+          "line": 123,
+          "level": 3,
+          "title": "II. Indiction (Table II, Part 1)"
+        },
+        {
+          "line": 125,
+          "level": 4,
+          "title": "Years of Christ with their corresponding keys with regard to leap years from the year 1891 unto the end of the 14th Indiction (1891–1940)"
+        },
+        {
+          "line": 178,
+          "level": 4,
+          "title": "Years of Christ with their corresponding keys with regard to leap years from the beginning of the 15th Indiction unto the end (Years 1941–2150)"
+        },
+        {
+          "line": 187,
+          "level": 3,
+          "title": "II. Indiction (Table II, Part 2)"
+        },
+        {
+          "line": 189,
+          "level": 4,
+          "title": "Years of Christ with their corresponding keys with regard to leap years from the beginning of the 15th Indiction unto the end (Years 2151–2472)"
+        },
+        {
+          "line": 203,
+          "level": 3,
+          "title": "Note on Dominical and Ferial Letters in the Menologion"
+        },
+        {
+          "line": 216,
+          "level": 3,
+          "title": "III. Perpetual Paschalion (Table III)"
+        }
+      ],
+      "numbered_items_count": 6,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 311,
+        "max_leaf": 320
+      },
+      "anomalies": []
+    }
+  }
+}

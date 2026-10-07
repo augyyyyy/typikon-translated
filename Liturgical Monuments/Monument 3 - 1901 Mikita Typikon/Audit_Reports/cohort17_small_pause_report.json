@@ -1,0 +1,73 @@
+{
+  "timestamp": "2026-10-06T05:00:18.907016+00:00",
+  "monument_id": "1901_mikita_typikon",
+  "cohort": 17,
+  "target_file": "1901_mikita_typikon_cohort17_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1901_mikita_typikon_cohort17_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1901_mikita_typikon_cohort17_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1901_mikita_typikon_cohort17_raw_draft.md",
+      "footnotes_file": "1901_mikita_typikon_cohort17_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 7,
+      "definition_markers_count": 7,
+      "text_markers": [
+        "[^159]",
+        "[^160]",
+        "[^161]",
+        "[^162]",
+        "[^163]",
+        "[^164]",
+        "[^165]"
+      ],
+      "definition_markers": [
+        "[^159]",
+        "[^160]",
+        "[^161]",
+        "[^162]",
+        "[^163]",
+        "[^164]",
+        "[^165]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1901_mikita_typikon_cohort17_raw_draft.md",
+      "passed": true,
+      "paragraphs": 99,
+      "headings_count": 1,
+      "headings": [
+        {
+          "line": 107,
+          "level": 3,
+          "title": "ARTICLE II."
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 161,
+        "max_leaf": 170
+      },
+      "anomalies": []
+    }
+  }
+}

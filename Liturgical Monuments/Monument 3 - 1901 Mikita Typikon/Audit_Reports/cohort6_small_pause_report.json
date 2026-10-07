@@ -1,0 +1,77 @@
+{
+  "timestamp": "2026-10-06T01:37:31.496337+00:00",
+  "monument_id": "1901_mikita_typikon",
+  "cohort": 6,
+  "target_file": "1901_mikita_typikon_cohort6_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "hieratic_pronouns": {
+      "file": "1901_mikita_typikon_cohort6_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1901_mikita_typikon_cohort6_raw_draft.md",
+      "footnotes_file": "1901_mikita_typikon_cohort6_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 7,
+      "definition_markers_count": 7,
+      "text_markers": [
+        "[^36]",
+        "[^37]",
+        "[^38]",
+        "[^39]",
+        "[^40]",
+        "[^41]",
+        "[^42]"
+      ],
+      "definition_markers": [
+        "[^36]",
+        "[^37]",
+        "[^38]",
+        "[^39]",
+        "[^40]",
+        "[^41]",
+        "[^42]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1901_mikita_typikon_cohort6_raw_draft.md",
+      "passed": true,
+      "paragraphs": 46,
+      "headings_count": 3,
+      "headings": [
+        {
+          "line": 53,
+          "level": 2,
+          "title": "§ 17. Which of the Church Books Are Private?"
+        },
+        {
+          "line": 59,
+          "level": 2,
+          "title": "§ 18. How Are Public Books Divided?"
+        },
+        {
+          "line": 63,
+          "level": 2,
+          "title": "§ 19. What Must Be Noted Concerning Church Books?"
+        }
+      ],
+      "numbered_items_count": 20,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 51,
+        "max_leaf": 60
+      },
+      "anomalies": []
+    }
+  }
+}
