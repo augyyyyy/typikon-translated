@@ -41,7 +41,7 @@ HUMAN_INDICATORS = re.compile(
     r'composer|choir|choirs|Khagan|enemy|enemies|Emperor|king|kings|David|Christians|brother|'
     r'brethren|first deacon|second deacon|first choir|the saint|to the saint|'
     r'of the saint|if he has|if he does|nor is he|candle-bearer|sacristan|'
-    r'pastor|parishioner|administrator|trustee|trustees|vicar|decan|cantor|'
+    r'pastor|parishioner|administrator|trustee|trustees|vicar|decan|cantor|chanter|chanters|singer|singers|'
     r'deacons|concelebrant|concelebrants|celebrants|'
     r'curate|curates|assistant|assistants|disciple|disciples|rector|rectors|prefect|prefects|'
     r'student|students|cleric|clerics|seminarian|seminarians|celebrating|celebrated|'
