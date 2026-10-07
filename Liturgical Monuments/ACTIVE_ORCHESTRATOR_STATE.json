@@ -10,12 +10,13 @@
     5,
     6,
     7,
-    8
+    8,
+    9
   ],
-  "translated_pages": 80,
-  "remaining_pages": 1090,
-  "current_cohort": 9,
-  "current_cohort_range": "pp. 81-90 (leaves p81-p90)",
+  "translated_pages": 90,
+  "remaining_pages": 1080,
+  "current_cohort": 10,
+  "current_cohort_range": "pp. 91-100 (leaves p91-p100)",
   "small_pause_gate_status": "AWAITING_SUBAGENT_EXECUTION",
   "active_blockers": []
 }
