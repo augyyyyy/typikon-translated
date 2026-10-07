@@ -5,12 +5,13 @@
   "completed_cohorts": [
     1,
     2,
-    3
+    3,
+    4
   ],
-  "translated_pages": 30,
-  "remaining_pages": 1140,
-  "current_cohort": 4,
-  "current_cohort_range": "pp. 31-40 (leaves p31-p40)",
+  "translated_pages": 40,
+  "remaining_pages": 1130,
+  "current_cohort": 5,
+  "current_cohort_range": "pp. 41-50 (leaves p41-p50)",
   "small_pause_gate_status": "AWAITING_SUBAGENT_EXECUTION",
   "active_blockers": []
 }
