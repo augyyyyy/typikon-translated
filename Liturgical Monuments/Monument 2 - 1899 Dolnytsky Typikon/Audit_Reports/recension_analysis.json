@@ -1,0 +1,432 @@
+{
+  "timestamp": "2026-10-06T01:45:50.059970+00:00",
+  "target_file": "1899_dolnytsky_typikon_complete.md",
+  "total_lines_analyzed": 10176,
+  "total_recension_hits": 279,
+  "primary_recension": "ruthenian_kyivan",
+  "primary_recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+  "affinity_scores": {
+    "ruthenian_kyivan": 79.21,
+    "post_zamosc_galician": 3.94,
+    "muscovite_synodal": 1.08,
+    "neo_sabbaitic_greek": 15.77
+  },
+  "hits_by_recension": {
+    "ruthenian_kyivan": 221,
+    "post_zamosc_galician": 11,
+    "muscovite_synodal": 3,
+    "neo_sabbaitic_greek": 44
+  },
+  "hits_by_dimension": {
+    "prosphora_count": {
+      "ruthenian_kyivan": 0,
+      "post_zamosc_galician": 0,
+      "muscovite_synodal": 0,
+      "neo_sabbaitic_greek": 0
+    },
+    "filioque_treatment": {
+      "ruthenian_kyivan": 0,
+      "post_zamosc_galician": 2,
+      "muscovite_synodal": 0,
+      "neo_sabbaitic_greek": 0
+    },
+    "epiclesis_third_hour": {
+      "ruthenian_kyivan": 0,
+      "post_zamosc_galician": 0,
+      "muscovite_synodal": 0,
+      "neo_sabbaitic_greek": 0
+    },
+    "commemoration_formulas": {
+      "ruthenian_kyivan": 0,
+      "post_zamosc_galician": 9,
+      "muscovite_synodal": 0,
+      "neo_sabbaitic_greek": 4
+    },
+    "chant_models_and_realia": {
+      "ruthenian_kyivan": 221,
+      "post_zamosc_galician": 0,
+      "muscovite_synodal": 3,
+      "neo_sabbaitic_greek": 40
+    }
+  },
+  "comparative_notes_count": 19,
+  "comparative_apparatus_sample": [
+    {
+      "line": 3721,
+      "matched_clause": "according to the Pochaiv Typikon",
+      "snippet": "3. Canon of the Feast with the Heirmos for 14, the Heirmos twice, the Troparia for 12; Katavasia of the Feast; but where the Diode or Triode enters, there the C"
+    },
+    {
+      "line": 3735,
+      "matched_clause": "according to the Pochaiv Typikon",
+      "snippet": "3. At the Typika, Kontakion of the Feast; according to the Pochaiv Typikon and the Russian ones, however, Kontakion of the day (**\"Behold, the Bridegroom\"** (*С"
+    },
+    {
+      "line": 5017,
+      "matched_clause": "according to the Greek Typikon",
+      "snippet": "The Canons will be only of the Menaion and the Triodion, for according to the Greek Typikon the Octoechos is not sung during the Great Forty Days, except on Sun"
+    },
+    {
+      "line": 5152,
+      "matched_clause": "according to the Greek Typikon",
+      "snippet": "Compline on all Fridays of the Great Forty Days according to the Greek Typikon is Little [Compline], yet according to the Pochaiv Triodion, the *Tserkovne Oko*,"
+    },
+    {
+      "line": 5228,
+      "matched_clause": "according to the Greek Typikon",
+      "snippet": "Compline according to the Greek Typikon we chant Little. After **\"It is truly right\"**, the Kontakion **\"With the Saints give rest\"** (*Со святыми упокой*).[^55"
+    },
+    {
+      "line": 8820,
+      "matched_clause": "diversity of rubrics",
+      "snippet": "[^67]: Synod of Lviv, Title 5. According to the rubric placed at the end of our Apostoly, and in our earlier Sluzhebnyky, as also in certain Greek Sluzhebnyky i"
+    },
+    {
+      "line": 9014,
+      "matched_clause": "According to the Greek Typikon",
+      "snippet": "[^164]: For example, September 7. According to the Greek Typikon, Mark: *Ἀπὸ γ ᾠδῆς Κοντάκιον τοῦ Ἁγίου, εἰ ἔχει, ἢ τὸ Κάθισμα τοῦ Ἁγίου, δόξα τοῦ Ἁγίου, καὶ νῦ"
+    },
+    {
+      "line": 9018,
+      "matched_clause": "according to the Greek Typikon",
+      "snippet": "[^166]: For example, September 7. Thus also Mark; nevertheless, because according to the Greek Typikon there are no Sunday Kontakia, it takes at all the Hours o"
+    },
+    {
+      "line": 9020,
+      "matched_clause": "According to the Greek Typikon",
+      "snippet": "[^167]: According to the Greek Typikon, since there is no Resurrectional Kontakion, there is *Glory... Now and forever...* the Kontakion of the Forefeast. If th"
+    },
+    {
+      "line": 9070,
+      "matched_clause": "According to the Greek Typikon",
+      "snippet": "[^192]: According to the Greek Typikon, the Kontakion at all the Hours is of the Feast alone."
+    },
+    {
+      "line": 9110,
+      "matched_clause": "according to the Moscow Typikon",
+      "snippet": "[^212]: According to the earlier Typikon, when there was a Vigil, at the Litiya the Stichera of the Feast were from the evening Aposticha of that day (Pochaiv M"
+    },
+    {
+      "line": 9158,
+      "matched_clause": "According to the Greek Typikon",
+      "snippet": "[^236]: According to the Greek Typikon: *Glory... Now and forever...* the Kontakion of the Feast."
+    },
+    {
+      "line": 9214,
+      "matched_clause": "According to the Greek Typikon",
+      "snippet": "[^264]: According to the Greek Typikon and the Slavonic one of the Lviv University, nothing is said during this Bringing-forth of the Precious Cross, except for"
+    },
+    {
+      "line": 9218,
+      "matched_clause": "according to the Pochaiv Menaion",
+      "snippet": "[^266]: According to the Slavonic Typika, that is to say, according to the Pochaiv Menaion, according to the Moscow Typikon and the *Tserkovne Oko*, the Deacon "
+    },
+    {
+      "line": 9264,
+      "matched_clause": "According to the Moscow Typikon",
+      "snippet": "[^289]: According to the Moscow Typikon, the Troparion and Kontakion also to the Saint. According to our manuscript Typikon: Troparion: Resurrectional and of th"
+    }
+  ],
+  "hits_sample": [
+    {
+      "line": 141,
+      "recension": "muscovite_synodal",
+      "recension_name": "Muscovite / Great Russian Synodal Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-07-LITURGY-ENTRANCE",
+      "marker_name": "Opening Chants of the Divine Liturgy",
+      "matched_text": "Izobrazitelna",
+      "context_snippet": "\"The parts of Divine Worship are nine: Vespers, Compline, Midnight Office, Matins, four Hours, that is to say: the First, Third, Sixth, and "
+    },
+    {
+      "line": 152,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-06-DOXOLOGY",
+      "marker_name": "Minor Doxology Eschatological Clause",
+      "matched_text": "unto the ages of ages",
+      "context_snippet": "the right side of the Priest, with the Priest in their midst: all three bow profoundly toward the Holy Mysteries; and turning together towar"
+    },
+    {
+      "line": 168,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-06-DOXOLOGY",
+      "marker_name": "Minor Doxology Eschatological Clause",
+      "matched_text": "unto the ages of ages",
+      "context_snippet": "\"When they (the Deacons) have given up the censers, and have taken their stand, each on his own side, near the Priest before the steps, the "
+    },
+    {
+      "line": 176,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-06-DOXOLOGY",
+      "marker_name": "Minor Doxology Eschatological Clause",
+      "matched_text": "unto the ages of ages",
+      "context_snippet": "the cross; and at **\\\"Glory...\\\"** all three make the Entrance with the censer thus: Coming before the steps of the Altar, and having bowed "
+    },
+    {
+      "line": 195,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-05-CHANT-MODELS",
+      "marker_name": "Melodic Headings & Hymnographic Realia",
+      "matched_text": "Tetrapod",
+      "context_snippet": "\"After the exclamation: **\\\"Blessed and glorified be the majesty of Thy kingdom,\\\"** candles being lighted throughout the entire church, and"
+    },
+    {
+      "line": 201,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-05-CHANT-MODELS",
+      "marker_name": "Melodic Headings & Hymnographic Realia",
+      "matched_text": "Tetrapod",
+      "context_snippet": "\"At the completion of the prayer, the Choirs chanting: **\\\"Amen,\\\"** return into the nave behind the sacred ministers, and standing behind t"
+    },
+    {
+      "line": 203,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-05-CHANT-MODELS",
+      "marker_name": "Melodic Headings & Hymnographic Realia",
+      "matched_text": "Tetrapod",
+      "context_snippet": "to him: **\\\"Bless, Master, the incense,\\\"** having placed incense into the censer and blessed it, and having uttered: **\\\"Blessed is our God"
+    },
+    {
+      "line": 251,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-06-DOXOLOGY",
+      "marker_name": "Minor Doxology Eschatological Clause",
+      "matched_text": "unto the ages of ages",
+      "context_snippet": "> **Priest:** **\\\"Blessed and exalted is Christ our God, the Existing One, always, now and forever, and unto the ages of ages.\\\"**[^15]"
+    },
+    {
+      "line": 252,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-06-DOXOLOGY",
+      "marker_name": "Minor Doxology Eschatological Clause",
+      "matched_text": "unto the ages of ages",
+      "context_snippet": "> **Choir:** **\\\"Amen;\\\"** and immediately: **\\\"Confirm, O God, the Catholic faith unto the ages of ages.\\\"**"
+    },
+    {
+      "line": 413,
+      "recension": "neo_sabbaitic_greek",
+      "recension_name": "Neo-Sabbaitic Constantinopolitan Greek Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-05-CHANT-MODELS",
+      "marker_name": "Melodic Headings & Hymnographic Realia",
+      "matched_text": "Heirmologion",
+      "context_snippet": "4.[^29] You have the Graduals set down in the Oktoechos in the Sunday order of each Tone, and likewise in the Heirmologion set to musical no"
+    },
+    {
+      "line": 419,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-05-CHANT-MODELS",
+      "marker_name": "Melodic Headings & Hymnographic Realia",
+      "matched_text": "Tetrapod",
+      "context_snippet": "After the chanting of the Gospel, having kissed It where the Reading began, and at: **\"Glory to Thee, O Lord, glory to Thee,\"** having again"
+    },
+    {
+      "line": 421,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-05-CHANT-MODELS",
+      "marker_name": "Melodic Headings & Hymnographic Realia",
+      "matched_text": "Tetrapod",
+      "context_snippet": "If, however, it is Matins with an All-Night Vigil, then the Priest here does not divest himself, nor does he close the Holy Doors; but immed"
+    },
+    {
+      "line": 435,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-05-CHANT-MODELS",
+      "marker_name": "Melodic Headings & Hymnographic Realia",
+      "matched_text": "Heirmos",
+      "context_snippet": "In the first case, the Troparia of each Ode are taken on 12, together with the Heirmos of the first Canon, but the Heirmoi of the other Cano"
+    },
+    {
+      "line": 436,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-05-CHANT-MODELS",
+      "marker_name": "Melodic Headings & Hymnographic Realia",
+      "matched_text": "Heirmos",
+      "context_snippet": "In the second case, the Troparia of each Ode are taken on 14, together with the Heirmos of the first: namely, one Heirmos and 13 Troparia.[^"
+    },
+    {
+      "line": 437,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-05-CHANT-MODELS",
+      "marker_name": "Melodic Headings & Hymnographic Realia",
+      "matched_text": "Heirmos",
+      "context_snippet": "At the end of the last Troparion of each Ode,[^33] the prescribed Katavasia is chanted, if there is the Heirmos of one of the Festive Canons"
+    },
+    {
+      "line": 448,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-05-CHANT-MODELS",
+      "marker_name": "Melodic Headings & Hymnographic Realia",
+      "matched_text": "Heirmos",
+      "context_snippet": "To the Heirmoi, however, we do not attach anything; but if there is only a single Service of a Feast of the Lord or of the Mother of God, th"
+    },
+    {
+      "line": 449,
+      "recension": "post_zamosc_galician",
+      "recension_name": "Post-Zamość Galician Synodal Recension",
+      "dimension": "filioque_treatment",
+      "marker_id": "REC-02-FILIOQUE",
+      "marker_name": "Filioque in the Symbol of Faith (Credo)",
+      "matched_text": "and the Son",
+      "context_snippet": "Even though we do not today use the Canticles of Holy Scripture appointed at the end of the Psalter outside the Great Fast, yet a few elemen"
+    },
+    {
+      "line": 449,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-05-CHANT-MODELS",
+      "marker_name": "Melodic Headings & Hymnographic Realia",
+      "matched_text": "Heirmos",
+      "context_snippet": "Even though we do not today use the Canticles of Holy Scripture appointed at the end of the Psalter outside the Great Fast, yet a few elemen"
+    },
+    {
+      "line": 455,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-05-CHANT-MODELS",
+      "marker_name": "Melodic Headings & Hymnographic Realia",
+      "matched_text": "Heirmos",
+      "context_snippet": "\"Before the Canticle of the Mother of God, the Deacon, or in his stead the Priest, proclaims: **\"The Mother of God and Mother of the Light l"
+    },
+    {
+      "line": 471,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-05-CHANT-MODELS",
+      "marker_name": "Melodic Headings & Hymnographic Realia",
+      "matched_text": "Tetrapod",
+      "context_snippet": "While the Doxastikon of the Praises is being chanted, the Priest vests in the Phelonion, and having come before the steps of the Altar and b"
+    },
+    {
+      "line": 489,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-05-CHANT-MODELS",
+      "marker_name": "Melodic Headings & Hymnographic Realia",
+      "matched_text": "Heirmos",
+      "context_snippet": "\"From the beginning of Matins even unto the second Sessional Hymn inclusively, all things are performed as at Great Matins without an All-Ni"
+    },
+    {
+      "line": 568,
+      "recension": "neo_sabbaitic_greek",
+      "recension_name": "Neo-Sabbaitic Constantinopolitan Greek Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-05-CHANT-MODELS",
+      "marker_name": "Melodic Headings & Hymnographic Realia",
+      "matched_text": "Heirmologion",
+      "context_snippet": "\"the Heirmologion with musical notes. If there is a Doxastikon to the Saint, then there is **\"Glory...\"** the Doxastikon to the Saint, then "
+    },
+    {
+      "line": 584,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-05-CHANT-MODELS",
+      "marker_name": "Melodic Headings & Hymnographic Realia",
+      "matched_text": "Heirmos",
+      "context_snippet": "1. Canon of the Mother of God from the Oktoechos of the current Tone, invariably as in the Oktoechos, that is, each Ode with the Heirmos on "
+    },
+    {
+      "line": 591,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-05-CHANT-MODELS",
+      "marker_name": "Melodic Headings & Hymnographic Realia",
+      "matched_text": "Heirmos",
+      "context_snippet": "Trinity Canon of the Oktoechos of the current Tone, invariably as in the Oktoechos, that is, with the Heirmos on 5, without Katavasias and w"
+    },
+    {
+      "line": 600,
+      "recension": "neo_sabbaitic_greek",
+      "recension_name": "Neo-Sabbaitic Constantinopolitan Greek Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-05-CHANT-MODELS",
+      "marker_name": "Melodic Headings & Hymnographic Realia",
+      "matched_text": "Heirmologion",
+      "context_snippet": "2. Gradual Antiphons (*Степенна*) of the current Tone from the Oktoechos or from the Heirmologion."
+    },
+    {
+      "line": 601,
+      "recension": "neo_sabbaitic_greek",
+      "recension_name": "Neo-Sabbaitic Constantinopolitan Greek Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-05-CHANT-MODELS",
+      "marker_name": "Melodic Headings & Hymnographic Realia",
+      "matched_text": "Heirmologion",
+      "context_snippet": "3. Sunday Prokimenon of the current Tone from the Oktoechos or from the Heirmologion."
+    },
+    {
+      "line": 604,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-05-CHANT-MODELS",
+      "marker_name": "Melodic Headings & Hymnographic Realia",
+      "matched_text": "Heirmos",
+      "context_snippet": "6. Four Canons on 14: three of the Oktoechos of the current Tone on 10, and one of the Menaion of the Saint on 4. Of the three Oktoechos Can"
+    },
+    {
+      "line": 606,
+      "recension": "neo_sabbaitic_greek",
+      "recension_name": "Neo-Sabbaitic Constantinopolitan Greek Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-05-CHANT-MODELS",
+      "marker_name": "Melodic Headings & Hymnographic Realia",
+      "matched_text": "Idiomelon",
+      "context_snippet": "\"and the Sessional Hymn of the Saint; after the 6th Ode, the Sunday Kontakion and Ikos; at the 8th Ode, before its Katavasia, the refrain: *"
+    },
+    {
+      "line": 607,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-05-CHANT-MODELS",
+      "marker_name": "Melodic Headings & Hymnographic Realia",
+      "matched_text": "Heirmos",
+      "context_snippet": "— If two Saints occur, there will be two Canons of the Oktoechos on 6: that is, the Resurrectional with the Heirmos on 4, and the Marian on "
+    },
+    {
+      "line": 608,
+      "recension": "ruthenian_kyivan",
+      "recension_name": "Authentic Kyivan-Galician Ruthenian Recension",
+      "dimension": "chant_models_and_realia",
+      "marker_id": "REC-05-CHANT-MODELS",
+      "marker_name": "Melodic Headings & Hymnographic Realia",
+      "matched_text": "Heirmos",
+      "context_snippet": "— If a Saint on 6 occurs, there will be the Resurrectional Canon with the Heirmos on 4, the Cross-Resurrectional on 2, the Marian on 2, and "
+    }
+  ]
+}

@@ -1,22 +1,28 @@
 {
-  "timestamp": "2026-10-05T01:12:22.073328+00:00",
+  "timestamp": "2026-10-06T01:44:58.802970+00:00",
   "monument_id": "1899_dolnytsky_typikon",
   "cohort": 1,
-  "target_file": "1899_dolnytsky_typikon_cohort1_raw_draft.md",
+  "target_file": "1899_dolnytsky_typikon_cohort1.txt",
   "overall_status": "PASSED",
   "gates": {
     "vocabulary_linter": {
       "passed": true,
       "violations": []
     },
+    "slop_linter": {
+      "file": "1899_dolnytsky_typikon_cohort1.txt",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
     "hieratic_pronouns": {
-      "file": "1899_dolnytsky_typikon_cohort1_raw_draft.md",
+      "file": "1899_dolnytsky_typikon_cohort1.txt",
       "passed": true,
       "violations": [],
       "violation_count": 0
     },
     "footnote_symmetry": {
-      "text_file": "1899_dolnytsky_typikon_cohort1_raw_draft.md",
+      "text_file": "1899_dolnytsky_typikon_cohort1.txt",
       "footnotes_file": "1899_dolnytsky_typikon_cohort1_footnotes.txt",
       "passed": true,
       "text_markers_count": 15,
@@ -59,7 +65,7 @@
       "orphaned_definitions": []
     },
     "structural_sequence": {
-      "file": "1899_dolnytsky_typikon_cohort1_raw_draft.md",
+      "file": "1899_dolnytsky_typikon_cohort1.txt",
       "passed": true,
       "paragraphs": 152,
       "headings_count": 25,
@@ -142,6 +148,11 @@
       ],
       "numbered_items_count": 9,
       "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 20,
+        "min_leaf": 1,
+        "max_leaf": 20
+      },
       "anomalies": []
     }
   }

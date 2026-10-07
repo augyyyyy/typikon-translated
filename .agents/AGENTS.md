@@ -101,4 +101,96 @@ After modifying files or completing audits:
 * **Prohibition of the Two-Chat Copy-Paste Anti-Pattern**:
   * The Orchestrator must **never** generate prompts instructing the human operator to "copy and paste into another chat" or yield turns waiting for human relay.
   * All worker delegations must be executed programmatically via `invoke_subagent`.
+* **Grand Pause Approval as Chat Lifecycle Boundary & Automated Git Push Pipeline**:
+  * Human operator approval of the Grand Pause marks the **functional conclusion and retirement of that orchestrator chat session**.
+  * Formal approval is executed via `py scripts/autonomous_orchestrator.py --approve-grand-pause` (or agent directive upon human approval).
+  * **Automated Sealing Pipeline**:
+    1. **Publication Gate Assertion**: Re-verifies canonical publication edition integrity and leaf conservation.
+    2. **Hub Inbox Synchronization**: Copies sealed markdown deliverables to `Typikon Coded/Data/Inbox/` and updates `handoff_note.md`.
+    3. **Automated Git Push**: Stages all deliverables (`git add .`), creates canonical commit (`feat(<monument>): seal canonical publication edition (leaves 1..N)`), and pushes cleanly to upstream remote (`git push origin master`).
+    4. **Sequential Handoff Prompt**: Resolves the next monument in registry and outputs the copy-pasteable `/plan` startup prompt (Rule 19).
+  * The Orchestrator must **never automatically roll into or begin processing the next monument within the same conversation context**.
+  * Each monument in the transmission chain begins in a dedicated, fresh conversation to preserve context isolation, eliminate token memory saturation, and enforce independent lifecycle constraints.
+
+---
+
+### 15. Closed Mathematical Leaf Conservation Law & Universal Facsimile Indexing
+* **Absolute Ban on Out-of-Order Cohort Indexing**:
+  * All translation cohorts across every monument must be numbered and executed strictly $1 \dots N$ in monotonically ascending physical PDF facsimile leaf order, starting unconditionally at physical leaf `p1`.
+  * Ad-hoc calibration cohorts executed on rear matter (e.g. testing concluding decrees or fasting rules before chapter 1) under temporary cohort numbering are strictly prohibited.
+* **Coordinate System Disambiguation (Leaf Index vs. Printed Page Number)**:
+  * In historical codices, physical PDF leaf numbers and internal printed book page numbers diverge whenever unnumbered front matter exists ($\mathbf{Book\ Page} = \mathbf{PDF\ Leaf} - \mathbf{Front\ Matter\ Offset}$).
+  * All work orders, cohort partitions, extraction batches, and filenames MUST operate exclusively in **Physical PDF Leaf Index coordinates**. Printed book page numbers are recorded parenthetically in leaf banners for scholarly cross-reference only.
+* **Closed Mathematical Leaf Conservation Invariant**:
+  * The Master Assembler (`scripts/assemble_and_sync_hub.py`) enforces a closed set-union conservation law prior to producing any complete edition or syncing to the Hub:
+    $$\bigcup_{k} \mathbf{Leaves}(C_k) \equiv \{1, 2, \dots, \mathbf{Total\ Physical\ Pages}\}$$
+  * If $\min(\mathbf{Leaves}) \neq 1$, or an internal leaf chasm exists, or tail-end folios are missing, assembly must hard-abort with a fatal exit code.
+* **Inter-Cohort Monotonic Continuity Gate**:
+  * The Small Pause Gatekeeper (`scripts/structural_audit.py`) programmatically audits every cohort $K > 1$ against cohort $K-1$, asserting:
+    $$\min(\mathbf{Leaves}_K) \le \max(\mathbf{Leaves}_{K-1}) + 1$$
+  * Any unmapped gap between cohorts halts autonomous progression immediately.
+
+---
+
+### 16. Strict Epigraphic Fidelity & Incipit Preservation
+* **Grounding in Physical Ink**: All translation and transcription must be strictly grounded in the high-resolution 300 DPI page scan images. Digital text layers, OCR, and existing drafts serve strictly as secondary concordances.
+* **Prohibition of Unwritten Incipit Expansions**:
+  * Historical liturgical codices frequently record only the opening words (incipit) of a prayer, troparion, or litany (e.g. `**"God is the Lord"**`, `**"Lord, have mercy"**`, `**"Glory..."**`).
+  * Translators are **strictly prohibited** from expanding an incipit into a full unwritten liturgical text in the translation body unless that full text is physically printed on the leaf.
+* **Brackets and Footnotes for Editorial Restorations**:
+  * Any lacuna, damaged glyph, illegible phrase, or necessary syntactic restoration MUST be enclosed in square brackets `[...]`.
+  * Significant contextual restorations or variant citations must be documented in a corresponding footnote `[^N]` rather than interpolated silently into the body text.
+
+---
+
+### 17. Empirical Discourse & Anti-Slop Protocol
+* **Empirical Engineering Tone**:
+  * Agents must communicate in a factual, dry, evidence-backed tone.
+  * Rhetorical puffery, marketing superlatives, self-congratulatory claims, and metaphorical flourishes (e.g., "melodic DNA", "twin pillars", "profound reframing", "rich tapestry") are strictly prohibited in agent conversations and documentation.
+  * Every progress statement must be verified by a concrete tool call, citing exit codes, line numbers, byte diffs, or file paths.
+* **Anti-Slop Linter Enforcement (Gate 1B)**:
+  * All draft and final translations are subjected to `scripts/lint_liturgical_slop.py`.
+  * The linter rejects:
+    1. Pseudo-archaic AI fantasy vocabulary (*verily, betwixt, twas, methinks, hearken, wherefore* in body rubrics, *peradventure, effulgent, resplendent, lo and behold*).
+    2. AI conversational clichés and filler (*testament to, beacon of, delve into, tapestry of, rich history, serves as a reminder, inextricably linked*).
+    3. Rubrical 'shall'-bombing in ceremonial actions (active present indicative is mandatory for bodily motions; "shall" is reserved strictly for juridical statutes).
+
+---
+
+### 18. Breakthrough Invalidation & Re-Run vs. Patch Decision Protocol
+When a major developmental breakthrough occurs (e.g., new OCR/vision models, glossary overhauls, discoverable leaf caches, structural engine redesigns), agents and human operators evaluate whether to execute an automated complete re-run or apply targeted in-place patches using the following objective 4-criterion decision matrix:
+
+| Criterion | In-Place Patch Path | Complete Automated Re-Run Path |
+|---|---|---|
+| **Epigraphic Integrity** | Physical leaf images and raw transcriptions are 100% intact and complete. | Missing leaves discovered, misordered folios, corrupt OCR layers, or epigraphic omissions ($> 5\%$). |
+| **Deterministic Solvability** | Defect is isolatable via deterministic Python AST, regex, or glossary mapper (e.g. terminology find-and-replace, footnote numbering shift). | Defect requires holistic semantic or syntactic re-translation across multiple paragraphs. |
+| **Defect Scope** | Defect affects $\le 5\%$ of paragraphs or leaves across the monument. | Defect affects $> 20\%$ of paragraphs or alters fundamental document structure. |
+| **Lifecycle Phase** | Intermediate draft phase or minor post-assembly errata. | Pre-assembly raw draft or systematic breakthrough rendering existing drafts obsolete. |
+
+* **Mandatory Pre-Rerun Archiving Protocol**:
+  * Before triggering any complete re-run of a cohort or monument, the existing cohort markdown and footnote files MUST be archived into a timestamped directory: `archive/pre_rerun_YYYYMMDD_HHMMSS/`.
+  * A programmatic Delta Audit must be executed after the re-run to verify that no prior human corrections or verified glosses were lost.
+
+---
+
+### 19. Mandatory `/plan` Prefix for all New Session Startup Prompts
+* **Codified Format**: Whenever an agent completes a monument handoff, provisions startup instructions, or outputs a startup prompt for a new chat session, the prompt **MUST ALWAYS** be provided as an explicit, copy-pasteable code block prefixed with the `/plan` slash command:
+  ```text
+  /plan [Instruction payload specifying monument ID, total pages, cohort sizing, STARTUP_INSTRUCTIONS.md, and execution directive]
+  ```
+* **Operational Rationale**: Starting the prompt with `/plan` ensures the user can copy, paste, and run (or tweak) the prompt to force the newly initialized chat session directly into planning mode before any code execution or file modification occurs.
+* **Prohibition of Narrative-Only Handoffs**: An agent must never announce that startup files have been generated without simultaneously providing the exact `/plan`-prefixed code block in the message output.
+
+---
+
+### 20. Canonical Drive E: Master Asset Vault & Storage Tiering Mandate
+* **External Single Source of Truth**:
+  * `E:\Google Drive\Liturgical Library\3. Modern Service Books and Typikons\Typikon\Historical Typikons\<Stem>\JPGs\` is the immutable canonical master vault for all 300 DPI high-resolution page rasters across all monuments.
+  * Image format is strictly standardized to **300 DPI JPEG (Quality 92)** with 4-digit zero-padded indexing (`Page_0001.jpg`), matching the Chant Indexer spoke specification.
+* **Prohibition of Local Raster Bloat on Drive C:**:
+  * Multi-gigabyte image sets must **never** reside natively on Drive C:, as OneDrive synchronization congests cloud bandwidth and consumes local SSD capacity.
+  * All workspace image folders (`Liturgical Monuments/<Monument>/Source Text/images/`) must be transparently mapped via **NTFS Directory Junctions** (`mklink /J`) pointing to their corresponding Drive E: master vault directory.
+* **Two-Tier Extraction Hierarchy**:
+  * `scripts/extract_cohort_leaves.py` must enforce a 2-tier lookup: Tier 1 verifies existing Drive E: vault images; Tier 2 renders missing pages directly to Drive E: as quality-92 JPEGs and creates compatibility aliases (`p{p}.jpg`, `p{p}.png`).
+  * PyMuPDF rendering from source PDF is prohibited when a leaf is already present in the Drive E: vault.
 

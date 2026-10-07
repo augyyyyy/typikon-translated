@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-05T01:58:56.581643+00:00",
+  "timestamp": "2026-10-05T23:01:42.248566+00:00",
   "monument_id": "1899_dolnytsky_typikon",
   "cohort": 2,
   "target_file": "1899_dolnytsky_typikon_cohort2.md",
@@ -150,6 +150,11 @@
       ],
       "numbered_items_count": 23,
       "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 20,
+        "min_leaf": 21,
+        "max_leaf": 40
+      },
       "anomalies": []
     }
   }
