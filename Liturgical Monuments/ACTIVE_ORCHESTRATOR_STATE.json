@@ -14,12 +14,13 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
-  "translated_pages": 120,
-  "remaining_pages": 1050,
-  "current_cohort": 13,
-  "current_cohort_range": "pp. 121-130 (leaves p121-p130)",
+  "translated_pages": 130,
+  "remaining_pages": 1040,
+  "current_cohort": 14,
+  "current_cohort_range": "pp. 131-140 (leaves p131-p140)",
   "small_pause_gate_status": "AWAITING_SUBAGENT_EXECUTION",
   "active_blockers": []
 }
