@@ -1,7 +1,7 @@
 # Process Autopsy PA-003: Typik of Fr. Isidore Dolnytsky (Lviv Stauropegion, 1899) (Full Codex Process Analysis)
-**Date**: 2026-10-05  
+**Date**: 2026-10-06  
 **Auditor**: Senior Liturgical Systems & Tooling Infrastructure Developer Agent (Chat 2)  
-**Target Monument**: `Typikons/1899_dolnytsky_typikon/`  
+**Target Monument**: `Liturgical Monuments/1899_dolnytsky_typikon/`  
 **Scope**: Complete monument trajectory (Cohorts 1 through 30, 591 physical pages)  
 **Parent Orchestrator Session**: `b0cb1fdd-acd4-4d72-9ecf-0a57d18d2da2`  
 **Total Subagent Steps Executed**: 3,820 steps  

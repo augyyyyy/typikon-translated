@@ -2,14 +2,15 @@
 """
 Universal Small Pause Gatekeeper Suite (Master Runner)
 ======================================================
-Executes the four mandatory linters and auditors at the conclusion of every cohort:
-  1. Shared_Lexicon/lint_vocabulary.py (Zero forbidden variants)
+Executes the mandatory linters and auditors at the conclusion of every cohort:
+  1A. Shared_Lexicon/lint_vocabulary.py (Zero forbidden variants)
+  1B. scripts/lint_liturgical_slop.py (Zero pseudo-archaic slop, AI clichés, or rubrical shall-bombing)
   2. scripts/hieratic_pronoun_audit.py (100% Deity Pronoun Capitalization)
   3. scripts/reconcile_footnotes.py (Exact 1:1 Footnote Parity)
   4. scripts/structural_audit.py (Unbroken Sequence & Heading Hierarchy)
 
 Gate Enforcement:
-  If all 4 pass -> updates state to PASSED_COHORT_<N>, exit code 0.
+  If all gates pass -> updates state to PASSED_COHORT_<N>, exit code 0.
   If any gate fails -> execution halts, logs failure signature to scratch/triage_inbox.jsonl, exit code 1.
 
 Usage:
@@ -106,8 +107,8 @@ def run_gate(monument_id: str, cohort_num: int) -> int:
 
     all_passed = True
 
-    # Gate 1: Shared_Lexicon vocabulary linting
-    print("\n[Gate 1/4] Running Vocabulary Linter (Shared_Lexicon/lint_vocabulary.py)...")
+    # Gate 1A: Shared_Lexicon vocabulary linting
+    print("\n[Gate 1A/4] Running Vocabulary Linter (Shared_Lexicon/lint_vocabulary.py)...")
     vocab_linter_script = SHARED_LEXICON_DIR / "lint_vocabulary.py"
     vocab_passed = True
     vocab_violations = []
@@ -133,6 +134,39 @@ def run_gate(monument_id: str, cohort_num: int) -> int:
         "passed": vocab_passed,
         "violations": vocab_violations
     }
+
+    # Gate 1B: Anti-Fanciful Slop Language Linter
+    print("\n[Gate 1B/4] Running Anti-Slop Linter (scripts/lint_liturgical_slop.py)...")
+    slop_linter_script = SCRIPT_DIR / "lint_liturgical_slop.py"
+    slop_passed = True
+    slop_data = {}
+    if slop_linter_script.exists():
+        cmd_slop = [
+            sys.executable, str(slop_linter_script),
+            "--target", str(target_text),
+            "--json"
+        ]
+        res_slop = subprocess.run(cmd_slop, capture_output=True, text=True, encoding="utf-8")
+        if res_slop.returncode == 0:
+            try:
+                slop_data = json.loads(res_slop.stdout)
+                print("  PASSED (Zero pseudo-archaic slop, AI cliches, or rubrical shall-bombing)")
+            except Exception:
+                slop_data = {"passed": True}
+                print("  PASSED")
+        else:
+            slop_passed = False
+            all_passed = False
+            try:
+                slop_data = json.loads(res_slop.stdout)
+                print(f"  FAILED: {slop_data.get('violation_count', 1)} slop violations detected")
+            except Exception:
+                slop_data = {"passed": False, "error": res_slop.stderr.strip() or res_slop.stdout.strip()}
+                print(f"  FAILED: {slop_data}")
+    else:
+        print("  WARNING: lint_liturgical_slop.py not found, skipping slop linter.")
+
+    master_report["gates"]["slop_linter"] = slop_data
 
     # Gate 2: Hieratic Deity Pronoun Audit
     print("\n[Gate 2/4] Running Hieratic Deity Pronoun Audit (scripts/hieratic_pronoun_audit.py)...")
@@ -192,25 +226,47 @@ def run_gate(monument_id: str, cohort_num: int) -> int:
 
     master_report["gates"]["footnote_symmetry"] = fn_data
 
-    # Gate 4: Structural Sequence Integrity
+    # Gate 4: Structural Sequence & Leaf Continuity Integrity
     print("\n[Gate 4/4] Running Structural Sequence Audit (scripts/structural_audit.py)...")
     struct_script = SCRIPT_DIR / "structural_audit.py"
-    cmd_struct = [sys.executable, str(struct_script), "--target", str(target_text), "--json"]
+    cmd_struct = [
+        sys.executable, str(struct_script),
+        "--target", str(target_text),
+        "--monument", monument_id,
+        "--cohort", str(cohort_num),
+        "--json"
+    ]
+    if cohort_num > 1:
+        prev_cohort = cohort_num - 1
+        prev_text = (
+            find_target_file(ws / "Final MD", f"*cohort{prev_cohort}*.md", cohort_num=prev_cohort) or
+            find_target_file(ws / "Draft", f"*cohort{prev_cohort}*.md", cohort_num=prev_cohort)
+        )
+        if prev_text and prev_text.exists():
+            cmd_struct.extend(["--prev-target", str(prev_text)])
+
     res_struct = subprocess.run(cmd_struct, capture_output=True, text=True, encoding="utf-8")
     struct_data = {}
     if res_struct.returncode == 0:
         try:
             struct_data = json.loads(res_struct.stdout)
-            print(f"  PASSED ({struct_data.get('paragraphs', 0)} paragraphs, unbroken sequence)")
-        except Exception:
+            leaf_s = struct_data.get("leaf_stats", {})
+            leaf_msg = f", {leaf_s.get('leaves_count', 0)} leaves [p{leaf_s.get('min_leaf')}..p{leaf_s.get('max_leaf')}]" if leaf_s.get("leaves_count") else ""
+            print(f"  PASSED ({struct_data.get('paragraphs', 0)} paragraphs{leaf_msg}, unbroken sequence)")
+        except json.JSONDecodeError:
             struct_data = {"passed": True}
             print("  PASSED")
     else:
         all_passed = False
         try:
             struct_data = json.loads(res_struct.stdout)
-            print(f"  FAILED: Number breaks={struct_data.get('number_breaks')}")
-        except Exception:
+            reasons = []
+            if struct_data.get("number_breaks"):
+                reasons.append(f"Number breaks={struct_data.get('number_breaks')}")
+            if struct_data.get("anomalies"):
+                reasons.append(f"Anomalies={struct_data.get('anomalies')}")
+            print(f"  FAILED: {'; '.join(reasons) if reasons else 'Structural audit failed'}")
+        except json.JSONDecodeError:
             struct_data = {"passed": False, "error": res_struct.stderr.strip() or res_struct.stdout.strip()}
             print(f"  FAILED: {struct_data}")
 

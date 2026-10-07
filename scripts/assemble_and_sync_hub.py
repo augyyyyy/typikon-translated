@@ -42,6 +42,133 @@ def get_hub_inbox(monument_name: str) -> Path:
     hub_inbox.mkdir(parents=True, exist_ok=True)
     return hub_inbox
 
+def extract_accounted_leaves(file_path: Path) -> Set[int]:
+    """Extracts all physical leaf numbers witnessed in a cohort text file."""
+    accounted = set()
+    text = file_path.read_text(encoding='utf-8')
+    
+    # 1. Bracketed leaf markers: [Leaf p123 ...] or [Leaf 123 ...]
+    for m in re.finditer(r'\[Leaf\s+p?(\d+)', text, re.IGNORECASE):
+        accounted.add(int(m.group(1)))
+
+    # 2. Markdown delimiter banners: === LEAF p123 === or === LEAF 123 ===
+    for m in re.finditer(r'===\s*LEAF\s+p?(\d+)', text, re.IGNORECASE):
+        accounted.add(int(m.group(1)))
+
+    # 3. Parenthetical leaf references: *(... Leaf p123 ...) or (... Leaf p123 ...)
+    for m in re.finditer(r'\(\*?[^)]*\bLeaf\s+p?(\d+)', text, re.IGNORECASE):
+        accounted.add(int(m.group(1)))
+
+    # 4. HTML comment banners: <!-- LEAF: p123 --> or <!-- LEAF: 123 -->
+    for m in re.finditer(r'<!--\s*LEAF:?\s*p?(\d+)', text, re.IGNORECASE):
+        accounted.add(int(m.group(1)))
+
+    # 5. Header spans: Leaves p1–p20 or Leaves 1-20
+    for m in re.finditer(r'Leaves\s+p?(\d+)\s*[-–]\s*p?(\d+)', text, re.IGNORECASE):
+        start, end = int(m.group(1)), int(m.group(2))
+        accounted.update(range(start, end + 1))
+
+    return accounted
+
+
+def verify_closed_leaf_conservation(
+    cohort_files: List[Path],
+    total_physical_pages: int,
+    monument_id: str,
+    is_final_assembly: bool = False
+) -> Set[int]:
+    """
+    Enforces the Closed Mathematical Leaf Conservation Invariant.
+    
+    1. Continuity Invariant:
+       The set of accounted leaves must contain NO GAPS between leaf 1 and max(Leaves).
+       If any intermediate leaf is missing, an internal text void has occurred.
+       
+    2. Codex Completeness Invariant:
+       If is_final_assembly is True, the set of accounted leaves must EQUAL {1, 2, ..., total_physical_pages}.
+       If max(Leaves) < total_physical_pages, tail-end truncation has occurred.
+    """
+    total_accounted: Set[int] = set()
+    cohort_breakdown: Dict[str, List[int]] = {}
+
+    for cf in cohort_files:
+        leaves = extract_accounted_leaves(cf)
+        cohort_breakdown[cf.name] = sorted(list(leaves))
+        total_accounted.update(leaves)
+
+    if not total_accounted:
+        raise ValueError(
+            f"LEAF CONSERVATION FAILURE: No physical leaf markers found in any cohort file for {monument_id}!"
+        )
+
+    max_leaf = max(total_accounted)
+    
+    # 1. Check for Internal Gaps
+    continuous_expected = set(range(1, max_leaf + 1))
+    internal_gaps = sorted(list(continuous_expected - total_accounted))
+
+    if internal_gaps:
+        ranges = []
+        start = internal_gaps[0]
+        prev = start
+        for l in internal_gaps[1:]:
+            if l == prev + 1:
+                prev = l
+            else:
+                ranges.append(f"p{start}–p{prev}" if start != prev else f"p{start}")
+                start = l
+                prev = l
+        ranges.append(f"p{start}–p{prev}" if start != prev else f"p{start}")
+        range_str = ", ".join(ranges)
+
+        raise ValueError(
+            f"\n================================================================================\n"
+            f"CRITICAL COMPLIANCE FAILURE: INTERNAL LEAF CHASM DETECTED!\n"
+            f"================================================================================\n"
+            f"Monument ID: {monument_id}\n"
+            f"Accounted Leaves: {len(total_accounted)} folios (span: p1 to p{max_leaf})\n"
+            f"Missing Internal Folios: {len(internal_gaps)} folios\n"
+            f"Missing Gap Ranges: {range_str}\n"
+            f"Specific Missing Leaves: {internal_gaps}\n"
+            f"================================================================================\n"
+            f"Assembly aborted to prevent coordinate drift and unmapped text voids.\n"
+            f"================================================================================\n"
+        )
+
+    # 2. Check for Final Completeness
+    if is_final_assembly or (total_physical_pages > 0 and max_leaf >= total_physical_pages):
+        expected_full = set(range(1, total_physical_pages + 1))
+        missing_tail = sorted(list(expected_full - total_accounted))
+        if missing_tail:
+            ranges = []
+            start = missing_tail[0]
+            prev = start
+            for l in missing_tail[1:]:
+                if l == prev + 1:
+                    prev = l
+                else:
+                    ranges.append(f"p{start}–p{prev}" if start != prev else f"p{start}")
+                    start = l
+                    prev = l
+            ranges.append(f"p{start}–p{prev}" if start != prev else f"p{start}")
+            range_str = ", ".join(ranges)
+
+            raise ValueError(
+                f"\n================================================================================\n"
+                f"CRITICAL COMPLIANCE FAILURE: TAIL-END LEAF TRUNCATION DETECTED!\n"
+                f"================================================================================\n"
+                f"Monument ID: {monument_id}\n"
+                f"Expected Total Leaves: {total_physical_pages}\n"
+                f"Accounted Leaves: {len(total_accounted)}\n"
+                f"Missing Tail Folios: {len(missing_tail)} (Ranges: {range_str})\n"
+                f"================================================================================\n"
+                f"Assembly aborted to prevent delivery of incomplete codex.\n"
+                f"================================================================================\n"
+            )
+
+    print(f"[Leaf Conservation] VERIFIED: {len(total_accounted)} physical leaves unbroken (span: p1..p{max_leaf}).")
+    return total_accounted
+
 def ingest_and_sync(monument_id: str, cohort_num: int) -> int:
     with open(REGISTRY_FILE, "r", encoding="utf-8") as f:
         registry = json.load(f)
@@ -97,6 +224,25 @@ def ingest_and_sync(monument_id: str, cohort_num: int) -> int:
 
     all_cohort_files = [cohort_map[k] for k in sorted(cohort_map.keys())]
     print(f"Assembling master edition from {len(all_cohort_files)} cohorts: {[p.name for p in all_cohort_files]}...")
+
+    # Enforce Closed Mathematical Leaf Conservation Gate
+    is_final_sync = False
+    if STATE_FILE.exists():
+        try:
+            with open(STATE_FILE, "r", encoding="utf-8") as sf:
+                s_data = json.load(sf)
+                if s_data.get("monument_id") == monument_id and s_data.get("remaining_pages", 0) == 0:
+                    is_final_sync = True
+        except (json.JSONDecodeError, OSError) as e:
+            print(f"[Leaf Conservation] Note: Could not read {STATE_FILE.name}: {e}")
+
+    verify_closed_leaf_conservation(
+        cohort_files=all_cohort_files,
+        total_physical_pages=mon_info.get("total_physical_pages", 0),
+        monument_id=monument_id,
+        is_final_assembly=is_final_sync
+    )
+
     complete_md_file = final_md_dir / f"{monument_id}_complete.md"
     complete_txt_file = final_dir / f"{monument_id}_complete.txt"
 

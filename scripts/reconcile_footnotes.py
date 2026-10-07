@@ -89,6 +89,7 @@ def main():
     parser.add_argument("--text", help="Path to text or markdown file")
     parser.add_argument("--footnotes", help="Path to footnotes file")
     parser.add_argument("--monument", help="Monument ID")
+    parser.add_argument("--cohort", type=int, help="Cohort number")
     parser.add_argument("--min", type=int, help="Minimum footnote number to consider (cohort scoping)")
     parser.add_argument("--max", type=int, help="Maximum footnote number to consider (cohort scoping)")
     parser.add_argument("--json", action="store_true", help="Output JSON results")
@@ -101,26 +102,40 @@ def main():
     if args.text and args.footnotes:
         text_path = Path(args.text)
         fn_path = Path(args.footnotes)
-    elif args.monument and args.cohort:
+    elif args.monument:
         with open(REGISTRY_FILE, "r", encoding="utf-8") as f:
             registry = json.load(f)
         mon_info = registry.get("monuments", {}).get(args.monument, {})
         ws = PROJECT_ROOT / mon_info.get("workspace_dir", f"Liturgical Monuments/{args.monument}")
-
-        draft_text = ws / "Draft" / f"{args.monument}_cohort{args.cohort}_raw_draft.md"
-        final_text = ws / "Final MD" / f"{args.monument}_cohort{args.cohort}.md"
-        draft_fn = ws / "Draft" / f"{args.monument}_cohort{args.cohort}_footnotes.txt"
         final_fn = ws / "Final" / "Final_footnotes.txt"
 
-        if final_text.exists():
-            text_path = final_text
-            fn_path = final_fn
-        elif draft_text.exists():
-            text_path = draft_text
-            fn_path = draft_fn if draft_fn.exists() else final_fn
+        if args.cohort:
+            draft_text = ws / "Draft" / f"{args.monument}_cohort{args.cohort}_raw_draft.md"
+            final_text = ws / "Final MD" / f"{args.monument}_cohort{args.cohort}.md"
+            archived_text = ws / "Cohorts" / f"{args.monument}_cohort{args.cohort}.md"
+            draft_fn = ws / "Draft" / f"{args.monument}_cohort{args.cohort}_footnotes.txt"
+
+            if final_text.exists():
+                text_path = final_text
+                fn_path = final_fn
+            elif archived_text.exists():
+                text_path = archived_text
+                fn_path = final_fn
+            elif draft_text.exists():
+                text_path = draft_text
+                fn_path = draft_fn if draft_fn.exists() else final_fn
+            else:
+                print(f"ERROR: Could not locate text file for {args.monument} cohort {args.cohort}", file=sys.stderr)
+                sys.exit(1)
         else:
-            print(f"ERROR: Could not locate text file for {args.monument} cohort {args.cohort}", file=sys.stderr)
-            sys.exit(1)
+            # Audit complete edition against master footnotes
+            complete_candidates = list((ws / "Final MD").glob("*_complete.md"))
+            if complete_candidates and final_fn.exists():
+                text_path = complete_candidates[0]
+                fn_path = final_fn
+            else:
+                print(f"ERROR: Complete edition not found for monument '{args.monument}' in {ws / 'Final MD'}", file=sys.stderr)
+                sys.exit(1)
 
     if not text_path or not fn_path:
         print("ERROR: Specify (--text and --footnotes) or (--monument and --cohort)", file=sys.stderr)

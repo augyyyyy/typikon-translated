@@ -38,7 +38,7 @@ HUMAN_INDICATORS = re.compile(
     r'Peter|Paul|John|Luke|Matthew|Thomas|Andrew|James|Philip|Simon|Jude|Matthias|Timothy|Titus|'
     r'Cyprian|Alphonsus|Augustine|Jerome|Ambrose|Damascene|'
     r'Leo|Allatius|Benjamin|Clement|confessor|author|editor|publisher|writer|'
-    r'composer|choir|choirs|Khagan|enemy|enemies|Emperor|Christians|brother|'
+    r'composer|choir|choirs|Khagan|enemy|enemies|Emperor|king|kings|David|Christians|brother|'
     r'brethren|first deacon|second deacon|first choir|the saint|to the saint|'
     r'of the saint|if he has|if he does|nor is he|candle-bearer|sacristan|'
     r'pastor|parishioner|administrator|trustee|trustees|vicar|decan|cantor|'
@@ -54,8 +54,8 @@ HUMAN_INDICATORS = re.compile(
     r'flock|sheep|lay down|striketh|striking|repeateth|repeating|breast|'
     r'thyself|oneself|himself|herself|themselves|'
     r'bow|bows|bowing|boweth|shall bow|foldeth|setteth|lowereth|raiseth|'
-    r'hands|his hands|his head|head|lips|my lips|mouth|eyes|ears|feet|'
-    r'kneeleth|kneeling|standeth|prostrateth|censing|reciteth|taketh|saying|'
+    r'hands|his hands|his head|head|lips|my lips|mouth|eyes|ears|feet|knees|'
+    r'kneeleth|kneeling|kneels|standeth|stands|prostrateth|prostrates|censing|reciteth|recites|taketh|takes|speaks|saying|signs|'
     r'he that|him that|he who|him who|those who|whosoever|whoever|God speed|bid him|biddeth|'
     r'Theotokos|Mother of God|Virgin Mary|Ever-Virgin|Most Holy Lady|Our Lady|Virgin|incarnate of)\b',
     re.IGNORECASE

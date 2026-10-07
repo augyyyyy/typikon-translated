@@ -37,6 +37,12 @@ PROJECT_ROOT = SCRIPT_DIR.parent
 REGISTRY_FILE = PROJECT_ROOT / "Liturgical Monuments" / "codex_registry.json"
 STATE_FILE = PROJECT_ROOT / "Liturgical Monuments" / "ACTIVE_ORCHESTRATOR_STATE.json"
 
+DRIVE_CANDIDATES = [
+    Path("E:/") / "Google Drive" / "Liturgical Library" / "3. Modern Service Books and Typikons" / "Typikon",
+    Path("D:/") / "Google Drive" / "Liturgical Library" / "3. Modern Service Books and Typikons" / "Typikon",
+    Path("C:/") / "Google Drive" / "Liturgical Library" / "3. Modern Service Books and Typikons" / "Typikon",
+]
+
 def parse_range_from_state(state: Dict[str, Any], cohort_num: int) -> Optional[Tuple[int, int]]:
     """Extract start and end page if state defines current_cohort_range matching cohort_num."""
     if state.get("current_cohort") == cohort_num:
@@ -63,14 +69,7 @@ def resolve_pdf_path(relative_pdf_path: str, custom_pdf: Optional[str] = None) -
         if cand.exists():
             return cand
 
-    # Candidate root library paths across Windows drive mount points
-    drive_candidates = [
-        Path("E:/") / "Google Drive" / "Liturgical Library" / "3. Modern Service Books and Typikons" / "Typikon",
-        Path("D:/") / "Google Drive" / "Liturgical Library" / "3. Modern Service Books and Typikons" / "Typikon",
-        Path("C:/") / "Google Drive" / "Liturgical Library" / "3. Modern Service Books and Typikons" / "Typikon",
-    ]
-
-    for root_cand in drive_candidates:
+    for root_cand in DRIVE_CANDIDATES:
         cand = root_cand / relative_pdf_path
         if cand.exists():
             return cand
@@ -119,7 +118,41 @@ def extract_leaves(
     rel_pdf = mon_info["relative_pdf_path"]
     workspace_dir = PROJECT_ROOT / mon_info.get("workspace_dir", f"Liturgical Monuments/{monument_id}")
     images_dir = workspace_dir / "Source Text" / "images"
-    images_dir.mkdir(parents=True, exist_ok=True)
+
+    # Resolve Drive E: canonical vault directory
+    vault_root = None
+    for cand in DRIVE_CANDIDATES:
+        if cand.exists():
+            vault_root = cand
+            break
+
+    vault_jpg_dir = None
+    if vault_root and mon_info.get("canonical_mirror_dir"):
+        vault_jpg_dir = vault_root / mon_info["canonical_mirror_dir"] / "JPGs"
+        vault_jpg_dir.mkdir(parents=True, exist_ok=True)
+
+    # Automatically establish NTFS directory junction if images_dir is not yet a junction
+    is_junc = False
+    try:
+        is_junc = images_dir.exists() and (os.stat(images_dir).st_file_attributes & 0x400 != 0)
+    except (OSError, AttributeError):
+        pass
+
+    if vault_jpg_dir and not is_junc:
+        if not images_dir.exists():
+            images_dir.parent.mkdir(parents=True, exist_ok=True)
+            try:
+                cmd = ["cmd.exe", "/c", "mklink", "/J", str(images_dir.resolve()), str(vault_jpg_dir.resolve())]
+                subprocess.run(cmd, capture_output=True, text=True, check=True)
+                print(f"  [JUNCTION] Linked {images_dir.name} -> {vault_jpg_dir}")
+            except (subprocess.CalledProcessError, OSError) as e:
+                print(f"  [Warning] Could not establish NTFS junction: {e}", file=sys.stderr)
+                images_dir.mkdir(parents=True, exist_ok=True)
+        else:
+            # If already exists as normal directory, keep it
+            pass
+    elif not vault_jpg_dir and not images_dir.exists():
+        images_dir.mkdir(parents=True, exist_ok=True)
 
     pdf_path = resolve_pdf_path(rel_pdf, custom_pdf)
     print(f"Opening source codex: {pdf_path.name}")
@@ -147,25 +180,58 @@ def extract_leaves(
     total_bytes = 0
 
     for p in range(start_page, end_page + 1):
-        out_file = images_dir / f"p{p}.png"
-        if out_file.exists() and not force:
-            print(f"  [CACHED] Leaf p{p} -> {out_file.name} ({out_file.stat().st_size} bytes)")
+        target_vault_canon = vault_jpg_dir / f"Page_{p:04d}.jpg" if vault_jpg_dir else None
+        target_vault_alias_png = vault_jpg_dir / f"p{p}.png" if vault_jpg_dir else None
+        target_vault_alias_jpg = vault_jpg_dir / f"p{p}.jpg" if vault_jpg_dir else None
+        target_local_png = images_dir / f"p{p}.png"
+        target_local_jpg = images_dir / f"p{p}.jpg"
+
+        # Tier 1: Check existing files
+        found_file = None
+        for cand in [target_vault_canon, target_vault_alias_png, target_vault_alias_jpg, target_local_png, target_local_jpg]:
+            if cand and cand.exists() and cand.stat().st_size > 1000:
+                found_file = cand
+                break
+
+        if found_file and not force:
+            print(f"  [CACHED] Leaf p{p} -> {found_file.name} ({found_file.stat().st_size} bytes)")
             extracted_count += 1
-            total_bytes += out_file.stat().st_size
+            total_bytes += found_file.stat().st_size
             continue
 
         idx = p - 1  # 0-indexed PyMuPDF index
         page = doc[idx]
         pix = page.get_pixmap(dpi=dpi)
-        pix.save(str(out_file))
+
+        # Tier 2: Render to Drive E: vault as JPEG Quality 92 if available, else local PNG
+        if vault_jpg_dir and target_vault_canon:
+            pix.save(str(target_vault_canon), output="jpeg", jpg_quality=92)
+            # Create compatibility hardlinks
+            if target_vault_alias_png and not target_vault_alias_png.exists():
+                try:
+                    os.link(str(target_vault_canon), str(target_vault_alias_png))
+                except (OSError, FileExistsError):
+                    pass
+            if target_vault_alias_jpg and not target_vault_alias_jpg.exists():
+                try:
+                    os.link(str(target_vault_canon), str(target_vault_alias_jpg))
+                except (OSError, FileExistsError):
+                    pass
+            out_file = target_vault_canon
+            tier_label = "VAULT_RENDERED_E"
+        else:
+            out_file = target_local_png
+            pix.save(str(out_file))
+            tier_label = "LOCAL_RENDERED_C"
+
         size = out_file.stat().st_size
         total_bytes += size
         extracted_count += 1
-        print(f"  [RENDERED] Leaf p{p} (index {idx}) -> {out_file.name} ({size} bytes)")
+        print(f"  [{tier_label}] Leaf p{p} (index {idx}) -> {out_file.name} ({size} bytes)")
 
     doc.close()
     print("=" * 65)
-    print(f"Leaf extraction complete: {extracted_count} leaves verified in {images_dir.relative_to(PROJECT_ROOT)}")
+    print(f"Leaf extraction complete: {extracted_count} leaves verified in {images_dir.relative_to(PROJECT_ROOT) if images_dir.exists() else images_dir}")
     print(f"Total on-disk image cache size: {total_bytes / (1024 * 1024):.2f} MB")
     print("=" * 65)
     return 0

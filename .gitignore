@@ -16,9 +16,17 @@ __pycache__/
 *.pyc
 
 # Local backup and scratch temp files
+archive/
 **/scratch/CLEANED_RAW_*
 **/scratch/STITCHED_*
 **/scratch/temp_*
+**/scratch/step*
+**/scratch/dump*
+**/scratch/thinking*
+**/scratch/*_dump*
+**/scratch/inspect_*
+**/scratch/check_*
+**/scratch/find_*
 
 # Ignore Windows Desktop customization files
 desktop.ini

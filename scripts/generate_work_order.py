@@ -265,6 +265,14 @@ def generate_work_order(
 
     work_order_file = work_orders_dir / f"cohort_{cohort_num:02d}_work_order.md"
 
+    source_lang = mon_info.get("source_language", "Church Slavonic")
+    if "Greek" in source_lang:
+        transcription_inst = f"Transcribe Greek and bilingual English facing text leaf-by-leaf with headers `=== LEAF p{{start_page}} ===` (Greek on even folios, English on odd folios)."
+        translation_inst = f"Translate and critically audit into MTS-1 compliant text in `{draft_md_out.name}` with inline footnote markers `[^N]`, rectifying chant terms to Tone 1–8 and canonical UGCC loanwords."
+    else:
+        transcription_inst = f"Transcribe Church Slavonic source text leaf-by-leaf with headers `=== LEAF p{{start_page}} ===`."
+        translation_inst = f"Translate unabridged into `{draft_md_out.name}` with inline footnote markers `[^N]`."
+
     content = f"""# Work Order: {mon_info.get('title')} — Cohort {cohort_num}
 
 **Document ID**: `{monument_id}`  
@@ -296,8 +304,8 @@ def generate_work_order(
 
 ## 3. Autonomous Execution Instructions
 1. Inspect images `p{start_page}.png` through `p{end_page}.png` in `{images_dir.relative_to(PROJECT_ROOT)}`.
-2. Transcribe Church Slavonic source text leaf-by-leaf with headers `=== LEAF p{start_page} ===`.
-3. Translate unabridged into `{draft_md_out.name}` with inline footnote markers `[^N]`.
+2. {transcription_inst}
+3. {translation_inst}
 4. Write footnote definitions into `{footnotes_out.name}` starting at `[^{starting_footnote}]`.
 5. Flush outputs to disk and advance through the autonomous pipeline.
 """
