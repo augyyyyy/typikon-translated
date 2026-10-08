@@ -1,0 +1,153 @@
+{
+  "timestamp": "2026-10-08T12:40:07.805007+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 105,
+  "target_file": "1888_violakis_typikon_cohort105_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort105_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort105_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort105_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort105_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 10,
+      "definition_markers_count": 10,
+      "text_markers": [
+        "[^591]",
+        "[^592]",
+        "[^593]",
+        "[^594]",
+        "[^595]",
+        "[^596]",
+        "[^597]",
+        "[^598]",
+        "[^599]",
+        "[^600]"
+      ],
+      "definition_markers": [
+        "[^591]",
+        "[^592]",
+        "[^593]",
+        "[^594]",
+        "[^595]",
+        "[^596]",
+        "[^597]",
+        "[^598]",
+        "[^599]",
+        "[^600]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort105_raw_draft.md",
+      "passed": true,
+      "paragraphs": 102,
+      "headings_count": 21,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (The Symbol of Faith Concluded – Cuffs – Order of Deacons Part 1) [Demos, p. 1026 / TD-47]"
+        },
+        {
+          "line": 25,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 27,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Order of Deacons Concluded – Despotikon / Despotika Part 1) [Demos, p. 1027 / TD-48]"
+        },
+        {
+          "line": 49,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 51,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Despotikon Concluded – Despotis – Deuterocanon – Diakonikon Part 1) [Demos, p. 1028 / TD-49]"
+        },
+        {
+          "line": 63,
+          "level": 3,
+          "title": "The PROTHESIS, the DIAKONIKON, and the SKEVOPHYLAKION"
+        },
+        {
+          "line": 71,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 73,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Diakonikon Concluded – Skevophylakion – Diataxis Part 1) [Demos, p. 1029 / TD-50]"
+        },
+        {
+          "line": 87,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 89,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Diataxis Part 2: Gemistos Patriarchal Diataxis Abstract) [Demos, p. 1030 / TD-51]"
+        },
+        {
+          "line": 105,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 107,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Diataxis Part 3: Gemistos Diataxis Sources and Philotheos) [Demos, p. 1031 / TD-52]"
+        },
+        {
+          "line": 119,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 121,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Diataxis Part 4: Dimitrios Gemistos Chancery Career) [Demos, p. 1032 / TD-53]"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 1041,
+        "max_leaf": 1050
+      },
+      "anomalies": []
+    }
+  }
+}

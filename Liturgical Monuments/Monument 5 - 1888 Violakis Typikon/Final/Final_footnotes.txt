@@ -1500,3 +1500,26 @@
 [^589]: Physical leaf p1039 (printed page [1024] / TD-45), defining the *Creed* (*Σύμβολον τῆς Πίστεως* / Slavonic *Simvol Very*) from its origin in early baptismal interrogations to the anti-Arian formulation of the First Ecumenical Council in Nicaea (325). The Symbol of Faith represents the dogmatic consensus of the Church affirming the consubstantiality (*homoousion*) and eternal divinity of the Son of God.
 
 [^590]: Physical leaf p1040 (printed page [1025] / TD-46), setting forth the canonical text of the Nicene Creed and the pneumatological completion ratified by the Second Ecumenical Council in Constantinople (381). The resulting Nicene-Constantinopolitan Symbol of Faith was adopted as the universal baptismal profession and the central dogmatic confession chanted by the faithful at every celebration of the Divine Liturgy.
+
+
+## Cohort 105 Footnotes
+
+[^591]: Physical leaf p1041 (printed page [1026] / TD-47), concluding the entry for the *Symbol of Faith* (*Σύμβολον τῆς Πίστεως*), cross-referencing *Cuffs* (*᾿Επιμανίκια* / Slavonic *Narukavnytsi* or *Poruchi*), and commencing the major entry on the order of the *Deacon* (*Διάκονος* / Slavonic *Diakon*). In the Byzantine and Ruthenian liturgical traditions, the diaconate constitutes the third major clerical order, assisting the hierarch and presbyter, intoning the ectenies, and chanting the Holy Gospel, while prohibited from independent sacramental consecration.
+
+[^592]: Physical leaf p1042 (printed page [1027] / TD-48), concluding the treatment of the diaconal office—including its historical evolution from caritative administration to solemn liturgical ministry, administrative ranks (*Protodeacon*, *Archdeacon*, and monastic *Hierodeacon*), and formal ecclesiastical address—and introducing the hymnographic classification *Despotikon* (*Δεσποτικόν* / *Δεσποτικά*).
+
+[^593]: Physical leaf p1043 (printed page [1028] / TD-49), defining *Despotikon* (hymns addressed to God as Master / *Despotis*), cross-referencing *Despotis* (*Δεσπότης*), defining the *Deuterocanon* (*ἀναγινωσκώμενα* / "books read"), and introducing the sanctuary appointments of the *Diakonikon* (*διακονικόν* / Slavonic *Diakonik*) and its relationship to the *Prothesis* and ancient *Skevophylakion*. Traditionally, the icon of the Resurrection (*῾Η ᾿Ανάστασις*) or the Extreme Humility (*ἄκρα ταπείνωσις*) stands within the Diakonikon.
+
+[^594]: Physical leaf p1044 (printed page [1029] / TD-50), detailing the architectural and liturgical evolution of the Northern and Southern sanctuary recesses (the Table of Oblation / *Prothesis* and the *Diakonikon*) replacing the detached *Skevophylakion* (*σκευοφυλάκιον*), and defining the term *Diataxis* (*διάταξις*, liturgical rubric and ceremonial order, originally rubricated in red ink).
+
+[^595]: Physical leaf p1045 (printed page [1030] / TD-51), incorporating the scholarly doctoral abstract of Fr. Alexander Rentel (*The Patriarchal Diataxis of Dimitrios Gemistos*, Athos Vatopedi MS 135, AD 1386/1390). The study situates Gemistos' patriarchal rubrics at the intersection of Constantinopolitan cathedral ceremonial and the Athonite hesychast monastic reform codified by Patriarch Philotheos Kokkinos.
+
+[^596]: Physical leaf p1046 (printed page [1031] / TD-52), analyzing Gemistos' structural synthesis: nearly seventy-five percent of the *Prothesis* rite in Gemistos' *Diataxis* derives verbatim or with minor modifications from the Philothean monastic *Diataxis*, integrating Athonite monastic rubrics into the cathedral rite of Hagia Sophia.
+
+[^597]: Physical leaf p1047 (printed page [1032] / TD-53), examining the biographical and institutional milieu of Dimitrios Gemistos, patriarchal notary and later *Mega Sakellarios* (*Μέγας Σακελλάριος*), whose career bridged the turbulent patriarchates of Philotheos Kokkinos and Makarios, demonstrating how institutional conservatism and chancery loyalty fostered liturgical codification.
+
+[^598]: Physical leaf p1048 (printed page [1033] / TD-54), evaluating Gemistos' fidelity to the Constantinopolitan Euchologion tradition, his marginal annotations regarding alternate rubrics for celebrations outside the Great Church, and his defense of ancient ceremonial survivals (such as the subdiaconal acclamation *"Whoever is faithful"* / *Ὅσοι πιστοί* during the Anaphora).
+
+[^599]: Physical leaf p1049 (printed page [1034] / TD-55), classifying the nineteen extant manuscript witnesses of Gemistos' *Diataxis* across four primary recensions: the original comprehensive Patriarchal recension, the abbreviated archival form, the later episcopal/archieratical redaction adapted for non-patriarchal dioceses, and the abbreviated Eucharistic formulary.
+
+[^600]: Physical leaf p1050 (printed page [1035] / TD-56), establishing the taxonomy of the four recensions and setting forth the critical editorial methodology employed in establishing the authentic archetype composed by Gemistos in 1386, distinguishing the core patriarchal liturgical text from secondary interpolations and subsequent archieratical reductions.
