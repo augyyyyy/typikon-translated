@@ -52,12 +52,13 @@
     47,
     48,
     49,
-    50
+    50,
+    51
   ],
-  "translated_pages": 500,
-  "remaining_pages": 670,
-  "current_cohort": 51,
-  "current_cohort_range": "pp. 501-510 (leaves p501-p510)",
+  "translated_pages": 510,
+  "remaining_pages": 660,
+  "current_cohort": 52,
+  "current_cohort_range": "pp. 511-520 (leaves p511-p520)",
   "small_pause_gate_status": "AWAITING_SUBAGENT_EXECUTION",
   "active_blockers": []
 }
