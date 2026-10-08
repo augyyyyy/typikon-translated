@@ -6,7 +6,7 @@
 > **Source Codex**: `Historical Typikons/1888-Violakis-Typikon-Bilingual-Greek-English.pdf` (1170 physical pages)  
 > **Translation Standard**: Master Translation Standard (MTS-1)  
 > **Governing Register**: RUBRICAL  
-> **Assembled Cohorts**: ['1888_violakis_typikon_cohort1.md', '1888_violakis_typikon_cohort2.md', '1888_violakis_typikon_cohort3.md', '1888_violakis_typikon_cohort4.md', '1888_violakis_typikon_cohort5.md', '1888_violakis_typikon_cohort6.md', '1888_violakis_typikon_cohort7.md', '1888_violakis_typikon_cohort8.md', '1888_violakis_typikon_cohort9.md', '1888_violakis_typikon_cohort10.md', '1888_violakis_typikon_cohort11.md', '1888_violakis_typikon_cohort12.md', '1888_violakis_typikon_cohort13.md', '1888_violakis_typikon_cohort14.md', '1888_violakis_typikon_cohort15.md', '1888_violakis_typikon_cohort16.md', '1888_violakis_typikon_cohort17.md', '1888_violakis_typikon_cohort18.md', '1888_violakis_typikon_cohort19.md', '1888_violakis_typikon_cohort20.md', '1888_violakis_typikon_cohort21.md', '1888_violakis_typikon_cohort22.md', '1888_violakis_typikon_cohort23.md']  
+> **Assembled Cohorts**: ['1888_violakis_typikon_cohort1.md', '1888_violakis_typikon_cohort2.md', '1888_violakis_typikon_cohort3.md', '1888_violakis_typikon_cohort4.md', '1888_violakis_typikon_cohort5.md', '1888_violakis_typikon_cohort6.md', '1888_violakis_typikon_cohort7.md', '1888_violakis_typikon_cohort8.md', '1888_violakis_typikon_cohort9.md', '1888_violakis_typikon_cohort10.md', '1888_violakis_typikon_cohort11.md', '1888_violakis_typikon_cohort12.md', '1888_violakis_typikon_cohort13.md', '1888_violakis_typikon_cohort14.md', '1888_violakis_typikon_cohort15.md', '1888_violakis_typikon_cohort16.md', '1888_violakis_typikon_cohort17.md', '1888_violakis_typikon_cohort18.md', '1888_violakis_typikon_cohort19.md', '1888_violakis_typikon_cohort20.md', '1888_violakis_typikon_cohort21.md', '1888_violakis_typikon_cohort22.md', '1888_violakis_typikon_cohort23.md', '1888_violakis_typikon_cohort24.md']  
 
 ---
 
@@ -4062,6 +4062,214 @@ The Service of the Righteous Saint is chanted at Compline.
 
 ---
 
+<!-- START COHORT 1888_violakis_typikon_cohort24 -->
+
+=== LEAF p231 ===
+
+Πολυέλεος· τὰ ἀναστάσιμα Καθίσματα κατὰ σειρὰν, καὶ τὰ τῆς γ΄ στιχολογίας Καθίσματα τοῦ Ἁγίου μετὰ τοῦ Θεοτοκίου, τὰ Εὐλογητάρια, ἡ Ὑπακοὴ, οἱ Ἀναβαθμοὶ τοῦ ἤχου καὶ τὸ Προκείμενον. Κανόνες ὁ ἀναστάσιμος καὶ ὁ τοῦ Ἁγίου. Ἀπὸ γ΄ Ὠδῆς τὰ ἀναστάσιμα, Κοντάκιον καὶ Οἶκος χῦμα, εἶτα τὸ Κάθισμα τοῦ Ἁγίου καὶ τὸ Θεοτοκίον, ἀφ’ ς΄ Κοντάκιον καὶ Οἶκος τοῦ Ἁγίου καὶ τὸ Μηνολόγιον, αἱ Καταβασίαι *Ἀνοίξω τὸ στόμα μου* καὶ ἅπασα ἡ τάξις τοῦ Ἑωθινοῦ Εὐαγγελίου, εἶτα στιχολογοῦμεν *Τὴν τιμιωτέραν*. Ἐξαποστειλάρια τὸ Ἀναστάσιμον, τοῦ Ἁγίου καὶ τὸ Θεοτοκίον. Εἰς τοὺς Αἴνους Ἀναστάσιμα δ΄ καὶ τοῦ Ἁγίου δ΄, *Δόξα* τοῦ Ἁγίου, *Καὶ νῦν* *Ὑπερευλογημένη*, Δοξολογία Μ. καὶ τὸ *Σήμερον σωτηρία*.
+
+6.    Εἰς τὴν Λειτουργίαν, τὰ Τυπικὰ καὶ οἱ Μακαρισμοὶ τοῦ ἤχου εἰς δ΄ καὶ δ΄ ἐκ τῆς ς΄ Ὠδῆς τοῦ Κανόνος τοῦ Ἁγίου· μετὰ τὴν Εἴσοδον, τὸ ἀναστάσιμον Ἀπολυτίκιον, τὸ τοῦ ἁγίου, τοῦ ἁγίου τοῦ Ναοῦ καὶ Κοντάκιον *Ὁ καθαρώτατος ναὸς*, Ἀπόστολος τοῦ Ἁγίου καὶ Εὐαγγέλιον τῆς Κυριακῆς. Εἰς τὸ *Ἐξαιρέτως* *Ἄξιόν ἐστιν*. Κοινωνικὸν *Αἰνεῖτε*, *Εἴδομεν τὸ φῶς* καὶ Ἀπόλυσις.
+
+### Τῇ ΙΔ΄. Τοῦ ἁγίου Ἀποστόλου Φιλίππου.
+
+1.    Εἰ τύχοι ἡ μνήμη τοῦ Ἀποστόλου ἐν πάσῃ ἄλλῃ ἡμέρᾳ πλὴν Κυριακῆς, ἡ Ἀκολουθία ψάλλεται κατὰ τὴν ἐν τῷ Μηναίῳ διάταξιν.
+    Εἰ δὲ τύχοι ἐν Κυριακῇ, ὅρα τὴν διάταξιν ἐν τῇ τοῦ ἁγίου Ἀποστόλου Λουκᾶ (Ὀκτωβρίου ιη΄). Εἰς τοὺς Αἴνους *Δόξα* τὸ Ἑωθινόν· Εἰς τὴν Λειτουργίαν ὁ Ἀπόστολος τοῦ Ἁγίου καὶ τὸ Εὐαγγέλιον τῆς Κυριακῆς. Κοινωνικὸν *Αἰνεῖτε τὸν Κύριον* κτλ.
+
+### Τῇ ΙΣΤ΄. Τοῦ ἁγίου Ἀποστόλου καὶ Εὐαγγελιστοῦ Ματθαίου.
+
+1.    Εἰ τύχοι ἡ μνήμη τοῦ Ἀποστόλου ἐν πάσῃ ἄλλῃ ἡμέρᾳ πλὴν Κυριακῆς, ἡ Ἀκολουθία ψάλλεται κατὰ τὴν ἐν τῷ Μηναίῳ διάταξιν.
+2.    Εἰ τύχοι ἐν Κυριακῇ, τῷ Σαββάτῳ ἑσπέρας μετὰ τὸ Προοιμιακὸν καὶ τὸ Ψαλτήριον, εἰς τὸ *Κύριε ἐκέκραξα* ψάλλομεν Ἀναστάσιμα Στιχηρὰ ς΄ καὶ τοῦ Εὐαγγελιστοῦ δ΄. *Δόξα* τοῦ Εὐαγγελιστοῦ, *Καὶ νῦν* τὸ α΄ Θεοτοκίον τοῦ ἤχου. Εἴσοδος, *Φῶς ἱλαρὸν*, καὶ τὸ Προκείμενον. Εἰς τὰ Ἀπόστιχα τὰ ἀναστάσιμα Στιχηρὰ, *Δόξα* τοῦ Εὐαγγελιστοῦ *Καὶ νῦν* *Ὁ ποιητὴς καὶ λυτρωτής μου*, τὸ ἀναστάσιμον Ἀπολυτίκιον, τοῦ Εὐαγγελιστοῦ, τὸ Θεοτοκίον *Σὲ τὴν μεσιτεύσασαν* καὶ Ἀπόλυσις.
+
+*(Printed Page 216)*
+
+=== LEAF p232 ===
+
+...and at the third Stichologia the Kathismata of the Saint with their Theotokion; the Sunday Evlogitaria, the Hypakoe, the Anavathmoi of the Tone, and the Prokeimenon. The Canons: the Resurrection Canon and that of the Saint. After the Third Ode: the Resurrection Kontakion and Ikos (recited plain), then the Kathisma of the Saint and the Theotokion; after the Sixth Ode: the Kontakion and Ikos of the Saint, and the Synaxarion from the Menaion. The Katavasiai: **"I shall open my mouth"** (*Ἀνοίξω τὸ στόμα μου*), and the entire order of the Sunday Morning Gospel; then we sing the biblical canticle with **"More honorable than the Cherubim"** (*Τὴν τιμιωτέραν*). Exapostilaria: the Resurrection Exapostilarion, that of the Saint, and the Theotokion. At the Praises: 4 Resurrection Stichira and 4 Stichira of the Saint; **"Glory"**: of the Saint; **"Both now and ever"**: **"Most blessed art Thou, O Virgin Theotokos"** (*Ὑπερευλογημένη*); the Great Doxology, and **"Today salvation has come into the world"** (*Σήμερον σωτηρία*).
+
+6.    At the Divine Liturgy: the Typika, and 4 Beatitudes of the Tone and 4 Troparia from the Sixth Ode of the Canon of the Saint. After the Little Entrance: the Resurrection Dismissal Troparion, that of the Saint, that of the Patron Saint of the temple, and the Kontakion: **"The most pure Temple of the Saviour"** (*Ὁ καθαρώτατος ναός*). Epistle of the Saint [1 Cor. 4:9–16] and Gospel of the Sunday. At the Megalynarion: **"It is truly meet"** (*Ἄξιόν ἐστιν*); Communion Verse: **"Praise the Lord from the heavens"** (*Αἰνεῖτε*, Ps. 148:1 LXX), **"We have seen the true light"** (*Εἴδομεν τὸ φῶς*), and Dismissal.
+
+### The 14th Day. The Holy Apostle Philip.
+
+1.    If the commemoration of the Apostle occurs on any day except Sunday: the Service is sung according to the order of the Menaion.
+    If the feast occurs on a Sunday: see the order of the Service of the Holy Apostle Luke (October 18). At the Praises: **"Glory"**: the appointed Sunday Eothinon Doxastikon. At the Divine Liturgy: the Epistle of the Saint [1 Cor. 4:9–16] and Gospel of the Sunday; Communion Verse: **"Praise the Lord from the heavens"** (*Αἰνεῖτε τὸν Κύριον*, Ps. 148:1 LXX), etc.[^175]
+
+### The 16th Day. The Holy Apostle and Evangelist Matthew.
+
+1.    If the commemoration of the Apostle occurs on any day except Sunday: his Service is sung according to the order of the Menaion.
+2.    If the feast occurs on a Sunday: at Vespers on Saturday evening, following the Introductory Psalm [Psalm 103 LXX] and the First Kathisma of the Psalter, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we sing 6 Resurrection Stichira and 4 of the Evangelist; **"Glory"**: of the Evangelist; **"Both now and ever"**: the First Dogmatic Theotokion of the Tone. Entrance with the censer: **"O Gladsome Light"** (*Φῶς ἱλαρόν*) and the Prokeimenon. At the Aposticha: the Resurrection Stichira; **"Glory"**: of the Evangelist; **"Both now and ever"**: **"My Maker and Redeemer"** (*Ὁ ποιητὴς καὶ λυτρωτής μου*); the Resurrection Dismissal Troparion, that of the Evangelist, the Theotokion: **"Thou who hast mediated for our race"** (*Σὲ τὴν μεσιτεύσασαν*), and Dismissal.
+
+*(Printed Page 217)*
+
+=== LEAF p233 ===
+
+3.    Τῇ Κυριακῇ εἰς τὸν Ὄρθρον, μετὰ τὸν Ν΄ ψαλμὸν ὁ Τριαδικὸς κανὼν, καὶ τὰ Τριαδικὰ *Ἄξιόν ἐστιν*· εἶτα τὸ Τρισάγιον, τὸ Ἀπολυτίκιον τοῦ Ἀποστόλου καὶ ὁ Ἑξάψαλμος. Εἰς τὸ *Θεὸς Κύριος* τὰ Ἀπολυτίκια ὡς εἰς τὸν Ἑσπερινὸν, τὸ Ψαλτήριον καὶ ὁ Ἄμωμος· τὰ ἀναστάσιμα Καθίσματα κατὰ σειρὰν, τὰ Εὐλογητάρια, ἡ Ὑπακοὴ, οἱ Ἀναβαθμοὶ τοῦ ἤχου καὶ τὸ Προκείμενον. Κανόνες ὁ ἀναστάσιμος καὶ ὁ τοῦ Εὐαγγελιστοῦ· ἀπὸ γ΄ Ὠδῆς μετὰ τὸ Κοντάκιον τοῦ Εὐαγγελιστοῦ, τὸ Κάθισμα τοῦ αὐτοῦ καὶ τὸ Θεοτοκίον· ἀφ’ ς΄ Κοντάκιον καὶ Οἶκος τὰ Ἀναστάσιμα, καὶ τὸ Μηνολόγιον, αἱ Καταβασίαι *Ἀνοίξω τὸ στόμα μου* καὶ ἅπασα ἡ τάξις τοῦ Ἑωθινοῦ Εὐαγγελίου· εἶτα στιχολογοῦμεν *Τὴν τιμιωτέραν*. Ἐξαποστειλάρια τὸ Ἀναστάσιμον, τὸ τοῦ Εὐαγγελιστοῦ, καὶ τὸ Θεοτοκίον. Εἰς τοὺς Αἴνους Ἀναστάσιμα δ΄ καὶ τοῦ Εὐαγγελιστοῦ δ΄. *Δόξα* τοῦ Εὐαγγελιστοῦ, *Καὶ νῦν* *Ὑπερευλογημένη*, Δοξολογία Μ. καὶ τὸ *Σήμερον σωτηρία*· καὶ καθεξῆς ἡ Λειτουργία, ἐν ᾗ ψάλλονται τὰ Τυπικὰ καὶ οἱ Μακαρισμοὶ τοῦ ἤχου εἰς δ΄ καὶ δ΄ ἐκ τῆς ς΄ Ὠδῆς τοῦ Κανόνος τοῦ Εὐαγγελιστοῦ· Ἀπόστολος καὶ Εὐαγγέλιον τοῦ Εὐαγγελιστοῦ, Κοινωνικὸν *Εἰς πᾶσαν τὴν γῆν*, *Εἴδομεν τὸ φῶς* καὶ Ἀπόλυσις.
+
+### Τῇ Κ΄. Τὰ προεόρτια τῆς ἐν τῷ Ναῷ Εἰσόδου τῆς Ὑπεραγίας Θεοτόκου καὶ τῶν ἁγίων Γρηγορίου τοῦ Δεκαπολίτου καὶ Πατρόκλου Κωνσταντινουπόλεως.
+
+1.    Ἄν τύχωσι τὰ Προεόρτια τῆς Θεοτόκου ἐν πάσῃ ἄλλῃ ἡμέρᾳ πλὴν Κυριακῆς, ἡ Προεόρτιος Ἀκολουθία μετὰ τῆς τῶν Ἁγίων ψάλλεται κατὰ τὴν ἐν τῷ Μηναίῳ διάταξιν.
+2.    Ἄν δὲ τύχωσιν ἐν Κυριακῇ, τῷ Σαββάτῳ ἑσπέρας μετὰ τὸν Προοιμιακὸν καὶ τὸ Ψαλτήριον, εἰς τὸ *Κύριε ἐκέκραξα* ἀναστάσιμα Στιχηρὰ ς΄ καὶ Προεόρτια δ΄. *Δόξα* *Σήμερον ὁ θεοχώρητος Ναὸς*, *Καὶ νῦν* τὸ α΄ Θεοτοκίον τοῦ ἤχου. Εἴσοδος, *Φῶς ἱλαρὸν* καὶ τὸ Προκείμενον. Εἰς τὰ Ἀπόστιχα τὰ ἀναστάσιμα Στιχηρὰ, *Δόξα* *Καὶ νῦν* *Δεῦτε πάντες οἱ πιστοὶ*, Ἀπολυτίκια τὸ Ἀναστάσιμον, τὸ Προεόρτιον *Χαρὰν προμνηστεύεται* καὶ Ἀπόλυσις.
+3.    Τῇ Κυριακῇ εἰς τὸν Ὄρθρον, μετὰ τὸν Ν΄ ψαλμὸν, ὁ Τριαδικὸς κανὼν καὶ τὰ Τριαδικὰ *Ἄξιόν ἐστιν*, εἶτα τὸ Τρισάγιον, τὸ Προεόρτιον Ἀπολυτίκιον καὶ ὁ Ἑξάψαλμος. Εἰς τὸ *Θεὸς Κύριος* τὸ ἀναστάσιμον Ἀπολυτίκιον δὶς καὶ τὸ Προεόρτιον ἅπαξ, εἶτα τὸ
+
+*(Printed Page 218)*
+
+=== LEAF p234 ===
+
+3.    On Sunday at Matins: after Psalm 50 [LXX], the Triadic Canon and the Triadic hymn: **"It is truly meet"** (*Ἄξιόν ἐστιν*); then the Trisagion, the Dismissal Troparion of the Apostle, and the Hexapsalmos. At **"God is the Lord"** (*Θεὸς Κύριος*): the Dismissal Troparia as at Vespers; then the Psalter and the Amomos [Psalm 118 LXX]. The Resurrection Kathismata in order, the Sunday Evlogitaria, the Hypakoe, the Anavathmoi of the Tone, and the Prokeimenon. The Canons: the Resurrection Canon and that of the Evangelist. After the Third Ode: after the Kontakion of the Evangelist, his Kathisma and the Theotokion; after the Sixth Ode: the Resurrection Kontakion and Ikos, and the Synaxarion from the Menaion; the Katavasiai: **"I shall open my mouth"** (*Ἀνοίξω τὸ στόμα μου*), and the entire order of the Sunday Morning Gospel; then we sing the biblical canticle with **"More honorable than the Cherubim"** (*Τὴν τιμιωτέραν*). Exapostilaria: the Resurrection Exapostilarion, that of the Evangelist, and the Theotokion. At the Praises: 4 Resurrection Stichira and 4 Stichira of the Evangelist; **"Glory"**: of the Evangelist; **"Both now and ever"**: **"Most blessed art Thou, O Virgin Theotokos"** (*Ὑπερευλογημένη*); the Great Doxology, and **"Today salvation has come into the world"** (*Σήμερον σωτηρία*). Then follows the Divine Liturgy, in which are sung the Typika, and 4 Beatitudes of the Tone and 4 Troparia from the Sixth Ode of the Canon of the Evangelist. Epistle [1 Cor. 4:9–16] and Gospel [Matt. 9:9–13] of the Evangelist; Communion Verse: **"Their sound hath gone forth into all the earth"** (*Εἰς πᾶσαν τὴν γῆν*, Ps. 18:5 LXX), **"We have seen the true light"** (*Εἴδομεν τὸ φῶς*), and Dismissal.[^176]
+
+### The 20th Day. Forefeast of the Entrance of the Most Holy Theotokos into the Temple, and Saints Gregory the Decapolite and Proclus [Archbishop] of Constantinople.
+
+1.    If the Forefeast of the Theotokos occurs on any day except Sunday: the Service of the Forefeast together with that of the Saints is sung according to the order of the Menaion.
+2.    If the Forefeast occurs on a Sunday: at Vespers on Saturday evening, following the Introductory Psalm [Psalm 103 LXX] and the First Kathisma of the Psalter, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we sing 6 Resurrection Stichira and 4 of the Forefeast; **"Glory"**: **"Today the temple that is to receive God"** (*Σήμερον ὁ θεοχώρητος Ναὸς*); **"Both now and ever"**: the First Dogmatic Theotokion of the Tone. Entrance with the censer: **"O Gladsome Light"** (*Φῶς ἱλαρόν*) and the Prokeimenon. At the Aposticha: the Resurrection Stichira; **"Glory"**; **"Both now and ever"**: **"Come, all ye faithful"** (*Δεῦτε πάντες οἱ πιστοί*); Dismissal Troparia: the Resurrection Dismissal Troparion, that of the Forefeast: **"Anna betrotheth unto us joy today"** (*Χαρὰν προμνηστεύεται*), and Dismissal.
+3.    On Sunday at Matins: after Psalm 50 [LXX], the Triadic Canon and the Triadic hymn: **"It is truly meet"** (*Ἄξιόν ἐστιν*); then the Trisagion, the Dismissal Troparion of the Forefeast, and the Hexapsalmos. At **"God is the Lord"** (*Θεὸς Κύριος*): the Resurrection Dismissal Troparion twice and that of the Forefeast once; then the Psalter and the Amomos [Psalm 118 LXX]. The Resurrec-...
+
+*(Printed Page 219)*
+
+=== LEAF p235 ===
+
+Ψαλτήριον καὶ ὁ Ἄμωμος, τὰ ἀναστάσιμα Καθίσματα, καὶ ἀντὶ τῶν Θεοτοκίων τὰ Προεόρτια, τὰ Εὐλογητάρια, ἡ Ὑπακοή, οἱ Ἀναβαθμοὶ τοῦ ἤχου, καὶ τὸ Προκείμενον. Κανόνες ὁ ἀναστάσιμος καὶ ὁ Προεόρτιος, ὁ Στίχος *Ὑπεραγία Θεοτόκε*· ἀπὸ γ΄ Ὠδῆς Κάθισμα τὸ Προεόρτιον *Εὐφροσύνης σήμερον* ἅπαξ· {Αὐτὸ πρέπει νὰ εἶναι λάθος, διότι ὁ ὕμνος *Εὐφροσύνης σήμερον* εἶναι τὸ προεόρτιον Κοντάκιον — ὅρα § 4 κάτωθι — ἐνῷ τὸ Κάθισμα τὸ ὁποῖον συνιστᾷ τὸ Μηναῖον εἶναι τὸ *Ὁ ναὸς τοῦ Θεοῦ*}· ἀφ’ ς΄ Κοντάκιον καὶ Οἶκος τὰ Ἀναστάσιμα καὶ τὸ Μηνολόγιον, αἱ Καταβασίαι *Ἀνοίξω τὸ στόμα μου*, καὶ ἅπασα ἡ τάξις τοῦ Ἑωθινοῦ Εὐαγγελίου· εἶτα στιχολογοῦμεν *Τὴν τιμιωτέραν*. Ἐξαποστειλάρια τὸ Ἀναστάσιμον καὶ τὸ Προεόρτιον. Εἰς τοὺς Αἴνους Ἀναστάσιμα δ΄ καὶ Προεόρτια (τὰ Ἀπόστιχα τῶν Αἴνων) δ΄. *Δόξα* τὸ Ἑωθινὸν, *Καὶ νῦν* *Ὑπερευλογημένη*, Δοξολογία Μ. καὶ τὸ *Σήμερον σωτηρία*·
+
+4.    Εἰς τὴν Λειτουργίαν, τὰ Τυπικὰ καὶ οἱ Μακαρισμοὶ τοῦ ἤχου εἰς δ΄ καὶ δ΄ ἐκ τῆς ς΄ Ὠδῆς τοῦ Προεορτίου Κανόνος. Μετὰ τὴν Εἴσοδον τὸ ἀναστάσιμον Ἀπολυτίκιον, τὸ προεόρτιον, τοῦ Ἁγίου τοῦ Ναοῦ, καὶ Κοντάκιον *Εὐφροσύνης σήμερον*, Ἀπόστολος καὶ Εὐαγγέλιον τῆς Κυριακῆς. Εἰς τὸ *Ἐξαιρέτως* *Ἄξιόν ἐστιν*, Κοινωνικὸν *Αἰνεῖτε*, *Εἴδομεν τὸ φῶς* καὶ Ἀπόλυσις.
+
+### Τῇ ΚΑ΄. Ἡ ἐν τῷ Ναῷ Εἴσοδος τῆς Ὑπεραγίας Θεοτόκου.
+
+5.    Ἐν τῷ Μ. Ἑσπερινῷ μετὰ τὸν Προοιμιακὸν καὶ τὴν α΄ Στάσιν τοῦ Ψαλτηρίου, εἰς τὸ *Κύριε ἐκέκραξα* ψάλλομεν εἰς ς΄ τὰ Στιχηρὰ (τῆς ἑορτῆς) *Σήμερον πιστοὶ* καὶ τὰ *Τῶν Ἁγίων εἰς Ἅγια*. *Δόξα* *Καὶ νῦν*, *Μετὰ τὸ τεχθῆναί σε*. Εἴσοδος, *Φῶς ἱλαρόν*, τὸ Προκείμενον τῆς ἡμέρας καὶ τὰ Ἀναγνώσματα. Εἰς τὰ Ἀπόστιχα, τὰ Προσόμοια *Χαίρει ὁ οὐρανὸς καὶ ἡ γῆ*, *Δόξα* *Καὶ νῦν* *Σήμερον τὰ στίφη τῶν πιστῶν*, τὸ Ἀπολυτίκιον *Σήμερον τῆς εὐδοκίας* ἐκ τρίτου καὶ Ἀπόλυσις.
+6.    Εἰς τὸν Ὄρθρον μετὰ τὸν Ν΄ ψαλμὸν ἡ Λιτή· εἶτα τὸ Τρισάγιον, τὸ Ἀπολυτίκιον, καὶ ὁ Ἑξάψαλμος. Εἰς τὸ *Θεὸς Κύριος* τὸ Ἀπολυτίκιον ἐκ τρίτου, τὸ Ψαλτήριον καὶ ὁ Πολυέλεος *Ἐξηρεύξατο ἡ καρδία μου*, τὰ Καθίσματα κατὰ σειράν, οἱ Ἀναβαθμοί, τὸ α΄ Ἀντίφωνον τοῦ δ΄ ἤχου, τὸ Προκείμενον *Ἄκουσον, θύγατερ, καὶ ἴδε*, τὸ *Πᾶσα πνοὴ* καὶ τὸ Εὐαγγέλιον *Ἀναστᾶσα Μαριάμ*, εἶτα ὁ Ν΄ ψαλμὸς χῦμα. *Δόξα* *Σήμερον...*
+
+*(Printed Page 220)*
+
+=== LEAF p236 ===
+
+...tion Kathismata and, in place of the Theotokia, the Kathismata of the Forefeast. The Sunday Evlogitaria, the Hypakoe, the Anavathmoi of the Tone, and the Prokeimenon. The Canons: the Resurrection Canon and that of the Forefeast, with the verse: *Most Holy Theotokos, save us*. After the Third Ode: the Kathisma of the Forefeast: **"Filled with joy today"** (*Εὐφροσύνης σήμερον*), once {Note: This must be an error, since the hymn **"Filled with joy today"** is in actuality the Kontakion of the Forefeast — see Paragraph 4 below — whereas the Kathisma appointed in the Menaion is **"The temple of God"** (*Ὁ ναὸς τοῦ Θεοῦ*)}; after the Sixth Ode: the Resurrection Kontakion and Ikos, and the Synaxarion from the Menaion. The Katavasiai: **"I shall open my mouth"** (*Ἀνοίξω τὸ στόμα μου*), and the entire order of the Sunday Morning Gospel; then we sing the biblical canticle with **"More honorable than the Cherubim"** (*Τὴν τιμιωτέραν*). Exapostilaria: the Resurrection Exapostilarion and that of the Forefeast. At the Praises: 4 Resurrection Stichira and 4 of the Forefeast (the Aposticha of the Praises); **"Glory"**: the appointed Sunday Eothinon Doxastikon; **"Both now and ever"**: **"Most blessed art Thou, O Virgin Theotokos"** (*Ὑπερευλογημένη*); the Great Doxology, and **"Today salvation has come into the world"** (*Σήμερον σωτηρία*).
+
+4.    At the Divine Liturgy: the Typika, and 4 Beatitudes of the Tone and 4 Troparia from the Sixth Ode of the Canon of the Forefeast. After the Little Entrance: the Resurrection Dismissal Troparion, that of the Forefeast, that of the Patron Saint of the temple, and the Kontakion: **"Filled with joy today"** (*Εὐφροσύνης σήμερον*). Epistle and Gospel of the Sunday. At the Megalynarion: **"It is truly meet"** (*Ἄξιόν ἐστιν*); Communion Verse: **"Praise the Lord from the heavens"** (*Αἰνεῖτε*, Ps. 148:1 LXX), **"We have seen the true light"** (*Εἴδομεν τὸ φῶς*), and Dismissal.[^177]
+
+### The 21st Day. The Entrance of the Most Holy Theotokos into the Temple.
+
+5.    At Great Vespers: following the Introductory Psalm [Psalm 103 LXX] and the First Stasis of the Psalter [Psalms 1–3 LXX], at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we sing 6 Stichira [of the Feast]: **"Today the faithful"** (*Σήμερον πιστοί*) and **"In the Holy of Holies"** (*Τῶν Ἁγίων εἰς Ἅγια*); **"Glory"**; **"Both now and ever"**: **"After thy birth, O Lady"** (*Μετὰ τὸ τεχθῆναί σε*). Entrance with the censer: **"O Gladsome Light"** (*Φῶς ἱλαρόν*), the Prokeimenon of the day, and the Old Testament Readings [Exodus 40:1–5, 9–10, 16, 34–35; 1 Kings 8:1, 3–7, 9–11; Ezekiel 43:27–44:4]. At the Aposticha: the Prosomoia: **"Heaven and earth rejoice"** (*Χαίρει ὁ οὐρανὸς καὶ ἡ γῆ*); **"Glory"**; **"Both now and ever"**: **"Today the choirs of the faithful"** (*Σήμερον τὰ στίφη τῶν πιστῶν*); the Dismissal Troparion: **"Today is the prelude of the goodwill of God"** (*Σήμερον τῆς εὐδοκίας θεοῦ τὸ προοίμιον*) thrice, and Dismissal.
+
+6.    At Matins: after Psalm 50 [LXX], the Liti; then the Trisagion, the Dismissal Troparion of the Feast, and the Hexapsalmos. At **"God is the Lord"** (*Θεὸς Κύριος*): the Dismissal Troparion thrice; then the Psalter and the Polyeleos: **"My heart hath poured forth a good word"** (*Ἐξηρεύξατο ἡ καρδία μου*, Psalm 44 LXX). The Kathismata in order; the Anavathmoi: the First Antiphon of Tone 4; the Prokeimenon: **"Hear, O daughter, and see, and incline thine ear"** (*Ἄκουσον, θύγατερ, καὶ ἴδε*, Ps. 44:11 LXX); **"Let every breath"** (*Πᾶσα πνοή*), and the Matins Gospel: **"Mary arose"** (*Ἀναστᾶσα Μαριάμ*, Luke 1:39–49, 56); then Psalm 50 [LXX] (recited plain); **"Glory"**: **"Today the living temple"** (*Σήμερον ὁ ναὸς ὁ ἔμψυχος*); **"Both now and ever"**: repeat the same hymn;...
+
+*(Printed Page 221)*
+
+=== LEAF p237 ===
+
+ὁ ναὸς ὁ ἔμψυχος, *Καὶ νῦν* τὸ αὐτό· *Ἐλέησόν με ὁ Θεὸς* καὶ τὸ Ἰδιόμελον τῆς Λιτῆς *Σήμερον ὁ θεοχώρητος Ναὸς*, οἱ Κανόνες ἀμφότεροι, ὧν ὁ στίχος *Ὑπεραγία Θεοτόκε*· ἀπὸ γ΄ Ὠδῆς τὰ δύο Καθίσματα, ἀφ’ ς΄ τὸ Κοντάκιον, ὁ Οἶκος καὶ τὸ Μηνολόγιον, αἱ Καταβασίαι *Χριστὸς γεννᾶται*· εἰς τὴν θ΄ ψάλλονται οἱ δύο Κανόνες τῆς θ΄ Ὠδῆς μετὰ τῶν Μεγαλυναρίων ὡς ἑξῆς·
+
+#### Διὰ τὸν εἰς ἦχον δ΄ πρῶτον Κανόνα.
+
+Ἄγγελοι τὴν Εἴσοδον τῆς Παρθένου ὁρῶντες
+ἐξεπλήττοντο, πῶς μετὰ δόξης εἰσῆλθεν, εἰς τὰ Ἅγια
+τῶν Ἁγίων.
+Ἄγγελοι τὴν Εἴσοδον τῆς Πανάγνου ὁρῶντες
+ἐξεπλήττοντο, πῶς παραδόξως εἰσῆλθεν, εἰς τὰ Ἅγια τῶν
+Ἁγίων.
+Ἄγγελοι καὶ ἄνθρωποι τῆς Παρθένου τὴν Εἴσοδον
+τιμήσωμεν, ὅτι ἐν δόξῃ εἰσῆλθεν, εἰς τὰ Ἅγια τῶν Ἁγίων.
+Ἄγγελοι σκιρτήσατε σὺν ἁγίοις Παρθένοι συγχορεύσατε·
+ἡ γὰρ θεόπαις εἰσῆλθεν, εἰς τὰ Ἅγια τῶν Ἁγίων.
+
+#### Διὰ τὸν εἰς ἦχον α΄ δεύτερον Κανόνα.
+
+Μεγάλυνον ψυχή μου τὴν προσενεχθεῖσαν ἐν τῷ Ναῷ
+Κυρίου καὶ εὐλογηθεῖσαν, χερσὶ τῶν Ἱερέων. Δίς.
+*Δόξα*, Μεγάλυνον ψυχή μου τῆς Τρισυποστάτου . . .
+*Καὶ νῦν*, Μεγάλυνον ψυχή μου τὴν τιμιωτέραν . . .
+
+Καταβασία *Μεγάλυνον ψυχή μου τὴν τιμιωτέραν καὶ ἐνδοξοτέραν τῶν ἄνω στρατευμάτων· Μυστήριον ξένον*, τὸ Ἐξαποστειλάριον *Ἥν πάλαι προκατήγγειλεν* ἐκ τρίτου. Εἰς τοὺς Αἴνους τὰ Προσόμοια *Λαμπαδηφόροι Παρθένοι* εἰς δ΄. *Δόξα* *Καὶ νῦν* *Σήμερον τῷ ναῷ προσάγεται*, Δοξολογία Μεγάλη καὶ τὸ Ἀπολυτίκιον.
+
+*(Printed Page 222)*
+
+=== LEAF p238 ===
+
+...then the verse: **"Have mercy upon me, O God, according to Thy great mercy"** [Ps. 50:3 LXX] and the Idiomelon of the Liti: **"Today the God-containing temple"** (*Σήμερον ὁ θεοχώρητος Ναὸς*). Both Canons, with the verse: *Most Holy Theotokos, save us*. After the Third Ode: the two Kathismata; after the Sixth Ode: the Kontakion and Ikos, and the Synaxarion from the Menaion. The Katavasiai: **"Christ is born, give ye glory"** (*Χριστὸς γεννᾶται*); at the Ninth Ode the two Canons of the Ninth Ode are sung with the Megalynaria as follows:
+
+#### For the First Canon in Tone 4.
+
+The Angels, beholding the Entrance of the Virgin,
+were struck with wonder, seeing how she entered with glory into the Holy
+of Holies.
+The Angels, beholding the Entrance of the All-pure,
+were struck with wonder, seeing how she entered marvellously into the Holy
+of Holies.
+Ye angels and men, let us honor the Entrance of the Virgin,
+for in glory she hath entered into the Holy of Holies.
+Leap for joy, ye angels, with the saints: dance in chorus, ye virgins:
+for the Maiden of God hath entered into the Holy of Holies.
+
+#### For the Second Canon in Tone 1.
+
+Magnify, O my soul, her who was brought into the Temple
+of the Lord and blessed by the hands of the priests. (twice)
+**"Glory"**: Magnify, O my soul, the dominion of the undivided Godhead
+in three Persons.
+**"Both now and ever"**: Magnify, O my soul, her who is more honorable
+and more glorious than the hosts on high.
+
+Katavasia: **"Magnify, O my soul, her who is more honorable and more glorious than the hosts on high. A strange and wonderful mystery"** (*Μυστήριον ξένον*); the Exapostilarion: **"Whom the multitude of the Prophets foretold"** (*Ἥν πάλαι προκατήγγειλεν*) thrice. At the Praises: the 4 Prosomoia: **"The lamp-bearing virgins"** (*Λαμπαδηφόροι Παρθένοι*); **"Glory"**; **"Both now and ever"**: **"Today she is led into the temple"** (*Σήμερον τῷ ναῷ προσάγεται*); the Great Doxology, and the Dismissal Troparion.[^178]
+
+*(Printed Page 223)*
+
+=== LEAF p239 ===
+
+7.    Εἰς τὴν Λειτουργίαν, τὰ Ἀντίφωνα·
+
+#### Ἀντίφωνον α΄.
+
+Μέγας Κύριος καὶ αἰνετὸς σφόδρα.
+Δεδοξασμένα ἐλαλήθη περὶ σοῦ, ἡ πόλις τοῦ Θεοῦ.
+Ὁ Θεὸς ἐν ταῖς βάρεσιν αὐτῆς γινώσκεται.
+Καθάπερ ἠκούσαμεν οὕτω καὶ εἴδομεν.
+
+#### Ἀντίφωνον β΄.
+
+Ἠγίασε τὸ σκήνωμα αὐτοῦ ὁ Ὕψιστος.
+Ἁγιωσύνη καὶ μεγαλοπρέπεια ἐν τῷ ἁγιάσματι αὐτοῦ.
+Αὕτη ἡ πύλη Κυρίου, δίκαιοι εἰσελεύσονται ἐν αὐτῇ.
+Ἅγιος ὁ ναός σου, θαυμαστὸς ἐν δικαιοσύνῃ.
+
+#### Ἀντίφωνον γ΄.
+
+Τὸ πρόσωπόν σου λιτανεύσουσιν οἱ πλούσιοι τοῦ λαοῦ.
+Πᾶσα ἡ Δόξα τῆς θυγατρὸς τοῦ βασιλέως ἔσωθεν ἐν κροσσωτοῖς χρυσοῖς περιβεβλημένη, πεποικιλμένη.
+Ἀπενεχθήσονται τῷ Βασιλεῖ παρθένοι ὀπίσω αὐτῆς.
+
+*(Printed Page 224)*
+
+=== LEAF p240 ===
+
+7.    At the Divine Liturgy: the Antiphons:
+
+#### Antiphon 1
+
+Great is the Lord, and greatly to be praised in the city of our God, in His holy mountain. [Ps. 47:2 LXX]
+Glorious things have been spoken of thee, O city of God. [Ps. 86:3 LXX]
+God is known in her palaces for a refuge. [Ps. 47:4 LXX]
+As we have heard, so have we also seen, in the city of the Lord of hosts, in the city of our God. [Ps. 47:9 LXX]
+
+{**"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen."** (*Δόξα... Καὶ νῦν...*)}
+
+#### Antiphon 2
+
+The Most High hath sanctified His tabernacle. [Ps. 45:5 LXX]
+Holiness and majesty are in His sanctuary. [Ps. 95:6 LXX]
+This is the gate of the Lord: the righteous shall enter into it. [Ps. 117:20 LXX]
+Holy is Thy temple, wonderful in righteousness. [Ps. 64:5–6 LXX]
+
+{**"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen."** (*Δόξα... Καὶ νῦν...*)}
+{**"O Only-begotten Son and Word of God"** (*Ὁ Μονογενὴς Υἱὸς καὶ Λόγος τοῦ Θεοῦ*)}
+
+#### Antiphon 3
+
+The rich among the people shall entreat thy face. [Ps. 44:13 LXX]
+All the glory of the King's daughter is from within, robed in golden fringes and embroidered work. [Ps. 44:14 LXX]
+Virgins shall be brought unto the King after her: her companions shall be brought unto Thee. [Ps. 44:15 LXX][^179]
+
+*(Printed Page 225)*
+
+<!-- END COHORT 1888_violakis_typikon_cohort24 -->
+
+---
+
 ## Scholarly Critical Apparatus & Footnotes
 
 ## Cohort 1 Footnotes
@@ -4479,3 +4687,16 @@ The Service of the Righteous Saint is chanted at Compline.
 [^173]: Commemoration of the Holy Martyrs Menas, Victor, Vincent, and Stephanie; Theodore the Studite; John the Merciful; and Nilus the Ascetic (Violakis, pp. 210–213, November 11, §§ 1–3; November 12, § 1). November 11 commemorates the third-century military martyr Saint Menas of Egypt (d. 296), martyred with Victor and Vincent, and Saint Stephanie; combined with the great monastic reformer and confessor Saint Theodore the Studite (d. 826). Under the Constantinopolitan parish rule, when November 11 falls on a weekday (§ 1), both offices are combined according to the Menaion; however, when falling on a Sunday (§§ 2–3), the office of Saint Theodore is deferred to Compline (*Ἡ δὲ τοῦ Ὁσίου Ἀκολουθία ψάλλεται ἐν τοῖς Ἀποδείπνοις*) to allow the full union of the Resurrection and martyr propers at Vespers and Matins. At the Divine Liturgy (§ 3), the Epistle is 2 Corinthians 4:6–15 (pericope 176, "treasure in earthen vessels") and the Gospel is that of the Sunday. November 12 similarly commemorates Saint John the Merciful, Patriarch of Alexandria (d. 619), and Saint Nilus the Ascetic of Sinai (d. ca. 430); on a Sunday, the office of Saint Nilus is likewise transferred to Compline, and the Divine Liturgy follows the exact structure of November 11 §§ 2–3.
 
 [^174]: Feast of Saint John Chrysostom, Archbishop of Constantinople, Sunday Concurrence, and Inter-Cohort Boundary (Violakis, pp. 212–215, November 13, §§ 1–5). November 13 marks the feast of Saint John Chrysostom (transferred from the historical date of his repose on September 14 due to the Feast of the Universal Exaltation of the Precious Cross). At Great Vespers (§ 1), the First Stasis of the Psalter (*Blessed is the man*, Pss. 1–3 LXX) is sung; at "Lord, I have cried", 3 Prosomoia are doubled to 6 (*Τὴν χρυσήλατον Σάλπιγγα*), followed by three Old Testament lections (Proverbs 10:7, 6; 3:13–16; 8:6 etc.; Proverbs 10:31–11:12; Wisdom 4:7–15); the Dismissal Troparion is the celebrated hierarchal troparion: *Ἡ τοῦ στόματός σου καθάπερ πυρσὸς ἐκλάμψασα χάρις* ("The grace of thy mouth shining forth like a torch hath enlightened the universe"). At Matins (§ 2), the Prokeimenon is Psalm 48:4 LXX (*Τὸ στόμα μου λαλήσει σοφίαν* / "My mouth shall speak wisdom"), the Gospel is John 10:9–16, and the Praises Doxastikon is *Χρυσέοις ἔπεσι*. At the Divine Liturgy (§ 3), the Epistle is Hebrews 7:26–8:2 (pericope 318, "For such an high priest became us") and the Communion Verse is Psalm 111:6 LXX (*Εἰς μνημόσυνον αἰώνιον ἔσται δίκαιος*). When occurring on a Sunday (§§ 4–5), the Resurrection office is combined with that of the Hierarch. Physical leaf p229 (printed page 214) and facing English leaf p230 (printed page 215) conclude Cohort 23 at the Sunday Matins Kathismata clause: *τὸ Ψαλτήριον καὶ ὁ...* / *the Psalter and the Polyeleos. The Resurrection Kathismata in order;...*, transitioning directly to printed page 216 (physical leaf p231) in Cohort 24.
+
+
+## Cohort 24 Footnotes
+
+[^175]: Commemoration of the Holy Apostle Philip, Sunday Concurrence, and Inter-Cohort Resumption (Violakis, pp. 216–217, November 13 concl. §§ 5–6; November 14, § 1). Physical leaf p231 (printed page 216) and facing English leaf p232 (printed page 217) begin Cohort 24 by concluding the Sunday concurrence for the feast of Saint John Chrysostom, continuing across the cohort boundary from printed pages 214–215 (leaves p229–p230, Cohort 23). Following the Polyeleos at Sunday Matins, the third stichologia assigns the Kathismata of the Saint with their Theotokion; at the Divine Liturgy, the Beatitudes take 4 of the Tone and 4 from Ode 6 of the Hierarch's canon, with the Epistle from 1 Corinthians 4:9–16 (pericope 131) and the Gospel of the Sunday. On November 14, the commemoration of the Holy Apostle Philip on a weekday is governed by the Menaion; when coinciding with a Sunday, the Typikon directs the officiant to follow the rubrical model of the Holy Apostle Luke (October 18), wherein the Apostle's propers are joined with the Resurrectional office: at the Praises, "Glory" is the appointed Sunday Eothinon Doxastikon, and at the Divine Liturgy, the Apostle's lection (1 Corinthians 4:9–16, pericope 131) is chanted before the Sunday Gospel, with the Communion Verse being Psalm 148:1 LXX (*Αἰνεῖτε τὸν Κύριον ἐκ τῶν οὐρανῶν* / "Praise the Lord from the heavens").
+
+[^176]: Commemoration of the Holy Apostle and Evangelist Matthew and Sunday Observance (Violakis, pp. 216–219, November 16, §§ 1–3). On a weekday (§ 1), the service of the Evangelist Matthew follows the Menaion. When November 16 occurs on a Sunday (§§ 2–3), Saturday Great Vespers appoints 6 Resurrection Stichira and 4 of the Evangelist at "Lord, I have cried", followed at "Glory" by the Doxastikon of the Apostle, and at "Both now and ever" by the First Dogmatic Theotokion of the Tone. At the Aposticha, the Resurrection Stichira are followed by "Glory" of the Evangelist, "Both now and ever" (*Ὁ ποιητὴς καὶ λυτρωτής μου* / "My Maker and Redeemer"), the Resurrection Dismissal Troparion, the Troparion of the Evangelist (*Μαθητὴς χρηματίσας*), and the Theotokion *Σὲ τὴν μεσιτεύσασαν* ("Thou who hast mediated for the salvation of our race"). At Sunday Matins (§ 3), after the Third Ode, the Kontakion of the Evangelist (*Τοῦ κηρύγματος τὴν σάλπιγγα δεδεγμένος*) is chanted followed by his Kathisma; after the Sixth Ode, the Resurrection Kontakion and Ikos are chanted, followed by the Synaxarion from the Menaion. At the Divine Liturgy, the Beatitudes assign 4 to the Tone and 4 to Ode 6 of the Evangelist's canon; the appointed lections are: Epistle: 1 Corinthians 4:9–16 (pericope 131, apostolic sufferings for Christ); Gospel: Matthew 9:9–13 (pericope 30, the calling of Matthew at the receipt of custom); and the Communion Verse is Psalm 18:5 LXX (*Εἰς πᾶσαν τὴν γῆν ἐξῆλθεν ὁ φθόγγος αὐτῶν* / "Their sound hath gone forth into all the earth, and their words unto the ends of the world").
+
+[^177]: Forefeast of the Entrance of the Most Holy Theotokos, Saints Gregory the Decapolite and Proclus, and Violakis's Critical Erratum on the Forefeast Kathisma (Violakis, pp. 218–221, November 20, §§ 1–4). November 20 commemorates the Forefeast of the Entrance of the Mother of God, joined with Saint Gregory the Decapolite (d. 842) and Saint Proclus, Archbishop of Constantinople and disciple of Chrysostom (d. 446; printed as "Patroclos" in the 1888 edition). When November 20 coincides with a Sunday (§§ 2–4), the Saturday Great Vespers assigns 6 Resurrection Stichira and 4 of the Forefeast at "Lord, I have cried"; at the Aposticha, the Doxastikon at "Glory; Both now and ever" is *Δεῦτε πάντες οἱ πιστοί* ("Come, all ye faithful"); and the Dismissal Troparion of the Forefeast is *Χαρὰν προμνηστεύεται σήμερον ἡ Ἄννα* ("Anna betrotheth unto us joy today"). At Sunday Matins (§ 3), the Forefeast Kathismata replace the usual Theotokia after each stichologia of the Psalter. Crucially, at Ode 3 of the canons, the printed 1888 text contains a famous rubrical erratum flagged explicitly by the editor in brackets: the rubric appointed *Εὐφροσύνης σήμερον* ("Filled with joy today") as the Ode 3 Kathisma, but Violakis notes (*Αὐτὸ πρέπει νὰ εἶναι λάθος...*) that *Εὐφροσύνης σήμερον* is actually the Forefeast Kontakion (sung at the Divine Liturgy, § 4), whereas the Kathisma appointed in the Menaion is *Ὁ ναὸς τοῦ Θεοῦ* ("The temple of God"). At the Divine Liturgy (§ 4), the Beatitudes assign 4 of the Tone and 4 from Ode 6 of the Forefeast canon; the lections are of the Sunday; and the Communion Verse is Psalm 148:1 LXX.
+
+[^178]: The Great Feast of the Entrance of the Most Holy Theotokos into the Temple: Vespers, Matins, and Ninth Ode Festal Megalynaria (Violakis, pp. 220–223, November 21, §§ 5–6). November 21 marks the Entry of the Most Holy Theotokos into the Temple, ranked among the Twelve Great Feasts of the liturgical year. At Great Vespers (§ 5), following the First Stasis of the Psalter (*Blessed is the man*, Pss. 1–3 LXX), 6 festal Stichira are sung at "Lord, I have cried" (*Σήμερον πιστοί* and *Τῶν Ἁγίων εἰς Ἅγια*), followed by three Old Testament composite lections: Exodus 40:1–5, 9–10, 16, 34–35 (the erection and consecration of the Tabernacle of Witness and the cloud of the glory of the Lord); 1 Kings 8:1, 3–7, 9–11 (the translation of the Ark of the Covenant into the Holy of Holies of Solomon's Temple); and Ezekiel 43:27–44:4 (the vision of the closed East Gate through which none but the Lord God of Israel enters). At the Aposticha, the Dismissal Troparion *Σήμερον τῆς εὐδοκίας θεοῦ τὸ προοίμιον* ("Today is the prelude of the goodwill of God") is chanted thrice. At Matins (§ 6), the Polyeleos is the Marian Psalm 44 LXX (*Ἐξηρεύξατο ἡ καρδία μου* / "My heart hath poured forth a good word"), the Prokeimenon is Psalm 44:11 LXX (*Ἄκουσον, θύγατερ, καὶ ἴδε* / "Hear, O daughter, and see"), and the Gospel is Luke 1:39–49, 56 (the Visitation to Elizabeth and the Magnificat). At Ode 9, the two festal canons (First Canon in Tone 4 by George of Nicomedia, Second Canon in Tone 1 by Basil of Paganiote) are sung with their distinctive Ninth Ode Megalynaria: the Tone 4 refrain *Ἄγγελοι τὴν Εἴσοδον τῆς Παρθένου ὁρῶντες ἐξεπλήττοντο* ("The Angels, beholding the Entrance of the Virgin, were struck with wonder") and the Tone 1 refrain *Μεγάλυνον ψυχή μου τὴν προσενεχθεῖσαν ἐν τῷ Ναῷ Κυρίου* ("Magnify, O my soul, her who was brought into the Temple of the Lord"). The Katavasia of Ode 9 is *Μυστήριον ξένον* ("A strange and wonderful mystery"), and the Dismissal Troparion is chanted at the end of the Great Doxology.
+
+[^179]: Festal Antiphons of the Divine Liturgy for the Entrance of the Theotokos and Inter-Cohort Boundary (Violakis, pp. 224–225, November 21, § 7). At the Divine Liturgy for the Entrance of the Mother of God, the daily Typika and Beatitudes are replaced by the three proper Festal Antiphons drawn from the Septuagint Psalter: Antiphon 1 is drawn from Psalm 47:2, 4, 9 LXX and Psalm 86:3 LXX (*Μέγας Κύριος καὶ αἰνετὸς σφόδρα*, *Δεδοξασμένα ἐλαλήθη περὶ σοῦ*, *Ὁ Θεὸς ἐν ταῖς βάρεσιν αὐτῆς*, *Καθάπερ ἠκούσαμεν οὕτω καὶ εἴδομεν*), with the refrain *Ταῖς πρεσβείαις τῆς Θεοτόκου*; Antiphon 2 is drawn from Psalm 45:5 LXX, Psalm 95:6 LXX, Psalm 117:20 LXX, and Psalm 64:5–6 LXX (*Ἠγίασε τὸ σκήνωμα αὐτοῦ ὁ Ὕψιστος*, *Ἁγιωσύνη καὶ μεγαλοπρέπεια*, *Αὕτη ἡ πύλη Κυρίου*, *Ἅγιος ὁ ναός σου*), followed by the hymnic doxology *Ὁ Μονογενὴς Υἱὸς καὶ Λόγος τοῦ Θεοῦ*; and Antiphon 3 is drawn from Psalm 44:13, 14, 15 LXX (*Τὸ πρόσωπόν σου λιτανεύσουσιν*, *Πᾶσα ἡ Δόξα τῆς θυγατρὸς τοῦ βασιλέως*, *Ἀπενεχθήσονται τῷ Βασιλεῖ παρθένοι ὀπίσω αὐτῆς*), with the refrain being the festal Dismissal Troparion *Σήμερον τῆς εὐδοκίας θεοῦ τὸ προοίμιον*. Physical leaf p239 (printed page 224) and facing English leaf p240 (printed page 225) conclude Cohort 24 at the final verse of Antiphon 3, transitioning immediately across the cohort boundary to physical leaf p241 (printed page 226) in Cohort 25 for the Little Entrance with the Gospel, the Introit verse, the Apolytikia, the Kontakion, and the festal Eucharistic lections.
