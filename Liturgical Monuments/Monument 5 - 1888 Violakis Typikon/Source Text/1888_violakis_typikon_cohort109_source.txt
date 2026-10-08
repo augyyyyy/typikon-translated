@@ -1,0 +1,177 @@
+=== LEAF p1081 ===
+[Appendix: Extended Dictionary of Typikon Related Terms (Kontakion Continued Part 2) (p. 1066 / TD-87)]
+
+TD-87
+
+cessor and protectress of all Christians.
+
+    The term kontakion originally derived from a Greek word making reference to a wooden stick or rod around which the hymn was wrapped because of the length of the parchment scroll on which it was written.
+
+    Originally the Kontakion was a 'verse sermon' consisting of an Introductory preamble or Proimion (Προοίμιον) followed by a series of longer stanzas, the Iki (Οἶκοι), all ending with the same phrase similar to a refrain. Kontakia were gradually displaced by a subsequent poetical form, the CANON (κανών). In the present office only the Proimion or preamble, now called the Kontakion, and the first Ikos survive. In current Greek use they are normally read at Matins (῎Ορθρος), except on great Feasts, and the final phrase is repeated, a survival of the ancient practice. The Kontakion is also read at the Hours and sung at the Liturgy, though in Greek use those at the Liturgy are 'seasonal', like the KATAVASIES. (AE)
+
+    No evidence is available to determine the date at which the Kontakion was received into the Byzantine liturgy. No reference to it is to be found in Byzantine documents or writings during the time it was in use. Even the name Kontakion only occurs for the first time in the ninth century; the monk who composed a hymn of that kind called it a Hymn (ὕμνος), Psalm (ψαλμός), Poem (ποίημα or ἔπος), Song (ᾠδή or ᾆσμα), Praise or Laud (αἶνος), Prayer (προσευχή) or Petition (δέησις).
+
+    A complete Kontakion consisted of from eighteen to thirty, or even more, stanzas all structurally alike. The single stanza is called a Troparion (Τροπάριον); and its length varies from three to thirteen lines. All the Troparia are composed on the pattern of a model stanza, the IRMOS (εἱρμός). A Kontakion is either built on the pattern of an Irmos especially composed for it, or follows the meter of an Irmos which had already been used for another Kontakion, or group of Kontakia. At the beginning of the Kontakion stands a short Troparion, metrically and melodically independent of it: this is the Proimion (προοοίμιον) or Kukulion (κουκούλιον) which, at a later
+
+*(Printed Page TD-87)*
+
+=== LEAF p1082 ===
+[Appendix: Extended Dictionary of Typikon Related Terms (Kontakion Continued Part 3) (p. 1067 / TD-88)]
+
+TD-88
+
+stage, often consists of two or three stanzas. Proimion and Kontakion are linked together by the refrain, the Ephymnion (ἐφύμνιον) with which all the stanzas end, and by the musical mode (ἦχος). The occurrence of the refrain at the end of each stanza indicates that the Kontakia were sung by a soloist, the choir singing the refrain. The stanzas of the Kontakion are connected either alphabetically or by a different acrostic, in the following way: The first letters of each stanzas sequentially are either the letters of the Greek alphabet in its usual order, or form a short sentence containing the name of the hymn-writer and the title of the poem. The acrostic is indicated in the title of the Kontakion. From the title we may learn, therefore, (1) the day of the feast on which the Kontakion is sung, (2) the feast for which it is composed, (3) the acrostic, (4) the musical mode of the melody. Taking for example the Kontakion 'Joseph the Chaste' by Romanos which the Orthodox church sings on Great Monday of Holy Week. This title, in Greek, reads as follows:
+    «Τῇ ἁγίᾳ καὶ μεγάλῃ δευτέρᾳ. Κοντάκιον εἰς τὸν Ἰωσὴφ φέρον ἀκροστιχίδα τήνδε· ᾿Αλφάβητον ῾Ρωμανοῦ, Πλάγιος δ΄. Πρὸς τὸ ῾Ο υἱός σου παρθένε πανάμωμε.»
+    From this title we learn the following: This Kontakion, sung on Monday in Holy Week, was composed in honor of Joseph; further, that each stanza began with a letter of the Greek alphabet, followed an acrostic consisting of the letters in the two words ᾿Αλφάβητον ῾Ρωμανοῦ; that the melody was written in Mode IV Plagal and was modelled on an already existing hymn beginning with the words ῾Ο υἱός σου παρθένε πανάμωμε. This Kontakion, therefore, consists of forty stanzas, each beginning with one of the following letters:
+    α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ σ τ υ φ χ ψ ω αλφαβητον ρωμανου. The acrostic most frequently to be found indicates that the humble Romanos is the author of the poem:
+«φέρον ἀκροστιχίδα τήνδε· τοῦ ταπεινοῦ ῥωμανοῦ, or τοῦ ταπεινοῦ ῥωμανοῦ τοῦτο τὸ ποίμα, or τοῦ ταπεινοῦ ῥωμανοῦ ὁ ψαλμὸς.» If, as occasionally happened, the hymn-writer wanted to write more stanzas than there were letters in the acrostic he had to use some of the letters of the acrostic twice for two consecutive stro-
+
+*(Printed Page TD-88)*
+
+=== LEAF p1083 ===
+[Appendix: Extended Dictionary of Typikon Related Terms (Kontakion Continued Part 4) (p. 1068 / TD-89)]
+
+TD-89
+
+phes, e.g.: ττοῦ ταπεινοῦ γαβριὴλ ὁ ὕμνος οὗτος ἀμήν ἀμμήν.
+    In another case, in the poem of an anonymous hymn-writer in memory of St. John Chrysostom, the principle of doubling letters is carried even farther. The direction from the title: φέρον ἀκροστιχίδα τήνδε· εἰς τὸν χρυσόστομον is executed as follows: εις τον χχρρυυσσοοοσσττομον. At the time when the Kontakia were written the Greek language had already lost the difference between long and short vowels, the basis of the quantitative metre of classical poetry; what had become equal to o, h, ei, and oi were pronounced as a short i, ai as e. A new system of versification had developed based on the principle that all the stanzas had to have the same number of syllables as the Irmos on which they were modelled and that the stress accents had to have the same place in all the stanzas as in the verses of the Irmos.... The composition of a Kontakion, or, at a later date, of a Kanon, was a task which a poet could not achieve who was not also a skilled musician. Music and poetry had to make a single entity. To adapt the Troparia to the melody of the Irmos it was not sufficient to make each line, corresponding to a line of the model strophe, of equal length, i.e. with the same number of syllables, but the stress accents must also fall on the same syllable as in the Irmos, in order to make the accentuated notes of the melody coincide with the accentuated syllables of the text of the stanzas.
+    The Kontakion makes its appearance suddenly, without antecedents. Byzantine hagiography attributes its introduction into Eastern liturgy to Romanos, who is praised by Germanos, the author of a hymn in honor of the saint who gives the Greek hymn and its description and explanation. The association of the name of Romanos with the rise of the Kontakion makes it possible to fix the date of its reception into Byzantine liturgy within the first decades of the sixth century. Romanos was a Jew by birth. He was born at Emesa on the Orontes River, became deacon at Berytus in northern Phoenicia, and went to Constantinople in the days of Anastasius I (491-518) to join the clergy of the Theotokos Church. There, according to legend, he was given the gift of hymn-writing by a miracle and composed more that a thousand Kontakia. In August 535 part of Constantinople was destroyed by an earthquake. The disaster was commemorated every
+
+*(Printed Page TD-89)*
+
+=== LEAF p1084 ===
+[Appendix: Extended Dictionary of Typikon Related Terms (Kontakion Concluded Part 5) (p. 1069 / TD-90)]
+
+TD-90
+
+year on the day it had happened by hymns and prayers. Romanos, who in his Kontakia frequently alludes to contemporary events, mentions the earthquake in a 'Psalm', which was sung on Wednesday of the third week of Lent. Since the Kontakion was obviously written under the immediate impression of the disaster, and no event later than the disaster is mentioned in a poem by Romanus, it may be assumed that he died shortly after 535. Antecedents of the Kontakion existed in Syriac ecclesiastical poetry, and it may also be assumed that Romanus, being of Syrian origin, was well acquainted with them. It was his great achievement to have adapted them to the spirit of Byzantine hymnography, and to have introduced the new form of ecclesiastical poetry into the liturgy of Constantinople. Here follows a comparison of the main forms of Syriac poetry the Memra, Madrasha, and Sogitha. The memra, the poetical homily, must be regarded as the most important for the development of the Kontakion. Like the Memra, the Kontakion had its place in the Morning Office after the reading of the Gospel and paraphrased the text of the Scriptures. There is, however, a noticeable difference between Memra and Kontakion. The Memra invariably has the character of a sermon, while the Kontakion in the most perfect hymns of Romanos loses this homiletic character and, by assimilating elements from Madrasha and Sogitha, develops into a poetical description of the object of the feast on which it is sung. (This foregoing description is from A History of Byzantine Music and Hymnography by E. Wellesz).
+    Originally, the Kontakion was a hymn of many stanzas (18-24) whose lengthy text indeed required the use of a scroll. St. Romanos the Melodist (+556) is the most famous composer of such lengthy, free-style hymns. The hymns in their original, lengthy form have fallen into disuse in Orthodox worship. What now remains in the liturgical books as Kontakia are merely the short, preliminary stanzas of the earlier and longer hymns. The Kontakion is sung after Ode 6 (together with the Ikos, (or first strophe of the more ancient, lengthy kontakion) of the Canon at Matins, during the Hours, and after the Troparia at the Divine Liturgy. The Kontakion is not sung at Vespers. (Modified from APL)
+
+*(Printed Page TD-90)*
+
+=== LEAF p1085 ===
+[Appendix: Extended Dictionary of Typikon Related Terms (Kuvuklion – Lamb – Lambadarios – Lambaduchos – Lamplighting Psalms – Lance or Spear – Leave-taking – Lenten Triodion) (p. 1070 / TD-91)]
+
+TD-91
+
+KUVUKLION (κουβούκλιον, τό): A structure, usually of wood, representing the tomb of Christ or Sepulchre. During the Holy and Great Friday evening service, it stands on the SOLEAS and contains a cloth icon (EPITAFIOS) of the entombed Christ.
+
+LAMB (ἀμνός, ὁ) Slav. Agnec: Is the raised stamped section of the sacramental bread loaf (PROSPHORA) indicated by the stamp ΙΣ ΧΣ ΝΙ KA, which abbreviate the Greek words Jesus Christ Conquers. This section is removed from the Prosphora during the PROSKOMIDI for later consecration in the Divine Liturgy. The New Testament refers to Christ as the "Lamb of God" (John 1:29 and 1:36). The Prophet Isaiah also refers to the coming Messiah as "the Lamb." (Isaiah 53)
+
+LAMBADARIOS (Λαμπαδάριος, ὁ): The head chanter and soloist who stands at the ANALOGION in the KLIROS on the north side of the SOLEA before the ICONOSTASIS. The title also implies that he was the first to light his candle from that of the PATRIARCH ON PASCHA which was then transmitted to the candles of all the people .
+
+LAMBADUCHOS (Λαμπαδοῦχος, ὁ): Candle or Lamp bearer.
+
+LAMPLIGHTING PSALMS (᾿Επιλύχνιοι Ψαλμοί, οἱ): A collection of four psalms heard in VESPERS which includes:
+
+    Psalm 140 (ρμ΄) “Lord, I have cried out” («Κύριε ἐκέκραξα...»)
+
+    Psalm 141 (ρμα΄) “With my voice unto the Lord” («Φωνῇ μου πρὸς Κύριον»)
+
+    Psalm 129 (ρκθ΄) “Out of the depths I have cried unto You” («᾿Εκ βαθέων ἐκέκραξά Σοι»)
+
+    Psalm 116 (ριστ΄) “Praise the Lord all nations” («Αἰνεῖτε τὸν Κύριον πάντα τὰ ἔθνη»)
+
+LANCE or SPEAR (Λόγχη, ἡ): See LONCHI.
+
+LEAVE-TAKING (ἀπόδοσις, ἡ): See APODOSIS.
+
+LENTEN TRIODION Slav. Postnaya Triod: See TRIODION
+
+*(Printed Page TD-91)*
+
+=== LEAF p1086 ===
+[Appendix: Extended Dictionary of Typikon Related Terms (Lipsana – Lipsanon – Litany – Liti – Liturgical Colors Part 1) (p. 1071 / TD-92)]
+
+TD-92
+
+LIPSANA (Λείψανα, τὰ): Sacred objects (relics) once belonging to a saint or martyr; the term also refers to the corpse or remains, i.e., the body parts of saints or martyrs which are deposited in the altar table at the service of consecration of a new church.
+
+LIPSANON (Λείψανον, τό): The corpse or remains of the deceased sacred person.
+
+LITANY (λιτανεία, ἡ): See EKTENIS or SYNAPTI.
+
+    A set of petitions offered to God by the Deacon or Priest with the chanters or choir responding to each petition with either “Lord, have mercy” («Κύριε, ἐλέησον») or “Grant this, O Lord!” («Παράσχου, Κύριε.»)
+
+*LITI (λιτή, ἡ) Slav. Litija: (1) A word implying a fervent, prolonged prayer. It generally designates a procession to the NARTHEX of the CHURCH, while petitions, hymns, and the blessing of loaves take place—a typical feature of the latter part of Great Vespers on the eve of great feasts. During the procession special stichira at the Liti are sung, which pertain to the occasion being celebrated. (From APL) Also, a brief form of the Memorial Service, which consists of the TRISAGION and TROPARIA for the departed (from PSALM, Inc.)
+
+LITURGICAL COLORS: In the Orthodox Byzantine Rite, which is used by all the member churches of the Eastern Orthodox Church and by the Greek-Catholic Churches (Eastern Catholic Churches of Byzantine Rite), there is no universal system of colors being used. In the Typikon of today's Greek Orthodox Church little is said about liturgical colors except for specifying “light” or “dark” vestments. In the Greek tradition, maroon or burgundy are common for solemn feast days, and a wide variety of colors are used at other times, the most common of which are gold and white.
+
+    Although in the early Church the preferred color for vestments was white – as mentioned above – it was not long before a wide array of colors was used. In Slavic use, while there are no set rules as to when to use what colors, certain colors have come by tradition to be connected to particular feasts. White vestments, for
+
+*(Printed Page TD-92)*
+
+=== LEAF p1087 ===
+[Appendix: Extended Dictionary of Typikon Related Terms (Liturgical Colors Concluded Part 2) (p. 1072 / TD-93)]
+
+TD-93
+
+example, are associated with the Paschal period (although in some churches the tradition for Paschas is to use red), as the brightest and most radiant celebration of the vanquishing of death. It is a visual reminder that, “He that overcomes, the same shall be clothed in white raiment” (Rev. 3:5). Green, the color of life and spring, is used at Pentecost to symbolize the beginning of the life of the Church. It is also used on feasts of certain saints, particular monk saints, who dwelt in the wilderness. Red is used at the Nativity, on the Feast of the Holy Apostles Peter and Paul, and for Martyrs. Blue is the traditional color of the Mother of God, as she is the Queen of Heaven. Deep purple is used during Lent as a reminder of the purple robe which the soldiers put on Christ to mock Him before His Passion. Outside of festal periods gold is used to remind us of the heavenly Jerusalem: “and the city was pure gold” (Rev. 21:18). The use of vestments, then, not only adds to the visual splendor of the church, but this use has a far greater significance in transforming the celebrants, even young acolytes, into representatives of the Kingdom of heaven, reflecting that otherworldliness which is the essence of Orthodoxy. (From a talk given at the St. Herman Winter Pilgrimage, Redding, California, 1983).
+
+    Originally, in the Orthodox Church, six liturgical colors were used: white, green, purple, red, blue, and gold. Later, black vestments also came into use. In some places, scarlet orange or rust color is used. Some have assigned meanings to the different colors: white for the pure light of God's energy; green, the color of life, for the Holy Spirit and the wood of the cross; purple for the suffering of Christ; deep red for the blood on the Cross or blood of the martyrs; blue for the Mother of God; gold for the richness of the gifts of the Holy Spirit, and bright red for the fiery flame of the Spiritual Host. While in the East, white is the color of death and morning, in the West black is the color used. In Russia, red is the color of beauty, brightness and joy. None of this is written in the Typikon, and different colors obviously have different meanings for different traditions. It is, therefore, more appropriate to describe various customs than it is to say what colors are 'proper' or 'improper.'
+
+*(Printed Page TD-93)*
+
+=== LEAF p1088 ===
+[Appendix: Extended Dictionary of Typikon Related Terms (Liturgical Colors Appendix – Liturgical Year – Liturgy Part 1) (p. 1073 / TD-94)]
+
+TD-94
+
+    For more detailed description of the use of liturgical colors in non-Byzantine Orthodox Churches, see ttp://aggreen.net/vestment/liturgical_colors.html
+
+LITURGICAL YEAR (λειτουργικὸν ἔτος, τό): The liturgical year, also known by some as the Christian year or church year, consists of the cycle of liturgical seasons in the Eastern Orthodox Churches which determines when Feasts, Memorials, Commemorations, etc., are to be observed and which portions of Scripture are to be read. This cycle is reckoned as beginning on September 1, the date of Indiction, and ending August 31. Also, various and distinct liturgical colors may be used in connection with the different seasons of the liturgical year as mentioned under LITURGICAL COLORS.
+
+    The dates of the festivals or feasts vary somewhat between the Eastern Orthodox churches and the western Church (Roman Catholic, Anglican, and Protestant) though the sequence and logic is the same. In both East and West, the dates of many festivals vary between years, in most cases because of the variation in the always shifting date of Pascha (Easter). In the Greek Orthodox Church those feasts which occur on the same date each year are known as IMMOVABLE FEASTS, while those that depend on the shifting date of Pascha (Easter) are called MOVEABLE FEASTS.
+
+LITURGY (Λειτουργία, ἡ): Today, a liturgy comprises a solemn religious ceremony, following a carefully prescribed formal ritual. The word is a composite Greek word which originally meant a public duty, that is a service to the state undertaken by a citizen. The word comes from the Greek 'laos', 'people', or 'public' and 'ergon' or 'work'. The word, therefore, is best understood as “the work or duty of the people.” In the Greek (Eastern) Orthodox church, this word is solely applied to the celebration of the Holy Eucharist. The Orthodox Church celebrates several versions of the liturgy:
+
+    1) The Divine Liturgy of St. John Chrysostom (Patriarch of Constantinople, c. 398) is the most commonly used liturgy. It is used on most days of the year, and occasionally as a vesperal liturgy on the
+
+*(Printed Page TD-94)*
+
+=== LEAF p1089 ===
+[Appendix: Extended Dictionary of Typikon Related Terms (Liturgy Continued Part 2) (p. 1074 / TD-95)]
+
+TD-95
+
+Feast of the Annunciation.
+
+    2) The Divine Liturgy of our Father among the Saints, Basil the Great, was the Bishop of Caesaria in Cappadocia from A.D. 370 to 379. According to the tradition of the Eastern Orthodox Church, this Liturgy is practically the work of St. Basil, due allowance being made for changes and amelioration over the course of time. This liturgy is older than either of the other two Byzantine Liturgies (that of Chrysostom and that of the Presanctified Gifts). It is normally celebrated ten times during the year as follows:
+        On the Feast of St. Basil, 1 January.
+        On the first five Sundays of the Great 40-day Fast (Lent).
+        On Holy Thursday, usually as a Vesperal Liturgy.
+        On Holy Saturday, usually as a Vesperal Liturgy.
+        On the eve (PARAMONI) of the Nativity of Christ (Christmas)
+        On the eve (PARAMONI) of the Feast of Theophany (Epiphany).
+    In the special situation where the Great Feasts of the Nativity or Theophany fall on a Sunday or Monday, the Liturgy of St. Basil is celebrated on the day of the feast, and the Liturgy of St. John Chrysostom is celebrated on the eve of the feast.
+
+    3) The Divine Liturgy of St. Mark (the Alexandrian Liturgy).
+
+    4) Divine Liturgy of St. James (the Jerusalem Liturgy).
+
+    5) The Liturgy of the Presanctified Gifts
+
+    Of the foregoing liturgies, the Divine Liturgy of St. John Chrysostom, is traditionally thought to be a shortened form of the Divine Liturgy of St. Basil. Both are related to the earlier Divine Liturgy of St. James of Jerusalem, which is traditionally attributed to St. James or James the Just, the first bishop of Jerusalem (not to be confused with James, the brother of Saint John the Evangelist). Today, the Liturgy of St. James is celebrated once a year on his feast day and traditionally only in Jerusalem. Today, it is occasionally celebrated in other places as well.
+
+*(Printed Page TD-95)*
+
+=== LEAF p1090 ===
+[Appendix: Extended Dictionary of Typikon Related Terms (Liturgy Concluded Part 3 – Lonchi – Makarismos, Makarizmi – Mandyas – Mandylion – Master Icons) (p. 1075 / TD-96)]
+
+TD-96
+
+    The Liturgy of the Presanctified Gifts, served on Wednesdays and Fridays during the Great Fast (Great Lent) and on the first three days of Holy Week is essentially the office of Vespers with an appended communion service, as the Holy Gifts were already consecrated and reserved for later use on the previous Sunday. It is traditionally attributed to St. Gregory the Dialogist.
+
+    Lent is generally a period called “aliturgical,” which means that the celebration of the Divine Liturgy and the festive manner of its celebration in honor of the Resurrection is limited to Sundays. During the week the celebration of the Liturgy of the Presanctified is prescribed to allow more frequent communion of the faithful.
+
+LONCHI (Λόγχη, ἡ): A small knife or lance with a triangular-shaped, double edged tip at one end and a cross on the handle at the other end, used by the priest to cut out the particles of the altar bread (PROSFORA) used in the service of the Preparation of the Holy Gifts (see PROSKOMIDI). The Lonchi used here commemorates the piercing by a soldier of the side of Christ hanging on the cross.
+
+MAKARISMOS, MAKARISMI (Μακαρισμός, ὁ· pl. Μακαρισμοί, οἱ). The eight blessings or beatitudes given by Christ at his Sermon on the Mount (Matt. 5: 3-12). Also, a salutation addressed to an Orthodox Patriarch (“Your Beatitude”). The Makarizmi are also chanted in various services, e.g. in the Crucifixion Service on Holy Thursday evening. See BEATITUDES.
+
+MANDYAS (Μανδύας, ὁ): This garment is the monastic mantle or cloak of a hierarch and the non-eucharistic and processional dress of the Bishop. Purple in color it often has embroidered medallions of the evangelists and is closed at the front bottom. (See also under VESTMENTS: NON-LITURGICAL ATTIRE OF THE CLERGY)
+
+MANDYLION (Μανδήλιον, τό): See AGION MANDYLION.
+
+MASTER ICONS (Δεσποτικαὶ εἰκόναι, αἱ): The term describes the following 4 icons on the Altar Screen (IKONOSTASION): 1) Christ, 2) the Theotokos, 3) St. John the Baptist and 4) the Icon of the Church.
+
+*(Printed Page TD-96)*
