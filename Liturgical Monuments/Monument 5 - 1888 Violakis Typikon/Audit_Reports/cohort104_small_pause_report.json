@@ -1,0 +1,153 @@
+{
+  "timestamp": "2026-10-08T12:30:57.153019+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 104,
+  "target_file": "1888_violakis_typikon_cohort104_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort104_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort104_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort104_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort104_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 10,
+      "definition_markers_count": 10,
+      "text_markers": [
+        "[^581]",
+        "[^582]",
+        "[^583]",
+        "[^584]",
+        "[^585]",
+        "[^586]",
+        "[^587]",
+        "[^588]",
+        "[^589]",
+        "[^590]"
+      ],
+      "definition_markers": [
+        "[^581]",
+        "[^582]",
+        "[^583]",
+        "[^584]",
+        "[^585]",
+        "[^586]",
+        "[^587]",
+        "[^588]",
+        "[^589]",
+        "[^590]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort104_raw_draft.md",
+      "passed": true,
+      "paragraphs": 112,
+      "headings_count": 20,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Bright Week Concluded – Byzantine Tone – Canon – Canonarch – Canticle Part 1) [Demos, p. 1016 / TD-37]"
+        },
+        {
+          "line": 21,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 23,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Canticle Continued: The Nine Biblical Odes) [Demos, p. 1017 / TD-38]"
+        },
+        {
+          "line": 50,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 52,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Canticle Concluded – Cassock Part 1) [Demos, p. 1018 / TD-39]"
+        },
+        {
+          "line": 74,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 76,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Cassock Concluded – Celebrant – Censer – Ceremony) [Demos, p. 1019 / TD-40]"
+        },
+        {
+          "line": 92,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 94,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Chasmodia – Chazranion – Chief Secretary – Choneftirion – Chorostaton Archierefs – Chorostatundes Archieris – Chromatic Scale – Chrism Part 1) [Demos, p. 1020 / TD-41]"
+        },
+        {
+          "line": 116,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 118,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Chrism Concluded – Church Architecture Part 1) [Demos, p. 1021 / TD-42]"
+        },
+        {
+          "line": 132,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 134,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Church Concluded – Chyma – Codex – Commemoration Part 1) [Demos, p. 1022 / TD-43]"
+        },
+        {
+          "line": 151,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        }
+      ],
+      "numbered_items_count": 9,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 1031,
+        "max_leaf": 1040
+      },
+      "anomalies": []
+    }
+  }
+}
