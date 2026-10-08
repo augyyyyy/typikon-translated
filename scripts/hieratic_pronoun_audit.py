@@ -38,7 +38,7 @@ HUMAN_INDICATORS = re.compile(
     r'Peter|Paul|John|Luke|Matthew|Thomas|Andrew|James|Philip|Simon|Jude|Matthias|Timothy|Titus|'
     r'Cyprian|Alphonsus|Augustine|Jerome|Ambrose|Damascene|'
     r'Leo|Allatius|Benjamin|Clement|confessor|author|editor|publisher|writer|'
-    r'composer|choir|choirs|Khagan|enemy|enemies|Emperor|king|kings|David|Christians|brother|'
+    r'composer|choir|choirs|Khagan|enemy|enemies|Emperor|king|kings|David|Joseph|Moses|Christians|brother|'
     r'brethren|first deacon|second deacon|first choir|the saint|to the saint|'
     r'of the saint|if he has|if he does|nor is he|candle-bearer|sacristan|'
     r'pastor|parishioner|administrator|trustee|trustees|vicar|decan|cantor|chanter|chanters|singer|singers|'
