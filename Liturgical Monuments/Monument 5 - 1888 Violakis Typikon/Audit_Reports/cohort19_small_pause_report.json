@@ -1,0 +1,118 @@
+{
+  "timestamp": "2026-10-08T00:41:48.315009+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 19,
+  "target_file": "1888_violakis_typikon_cohort19_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort19_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort19_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort19_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort19_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 5,
+      "definition_markers_count": 5,
+      "text_markers": [
+        "[^148]",
+        "[^149]",
+        "[^150]",
+        "[^151]",
+        "[^152]"
+      ],
+      "definition_markers": [
+        "[^148]",
+        "[^149]",
+        "[^150]",
+        "[^151]",
+        "[^152]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort19_raw_draft.md",
+      "passed": true,
+      "paragraphs": 100,
+      "headings_count": 10,
+      "headings": [
+        {
+          "line": 6,
+          "level": 3,
+          "title": "Τῇ ΙΓ΄. Μνήμη τῶν Ἐγκαινίων [τοῦ Ναοῦ τῆς Ἀναστάσεως εἰς Ἱεροσόλυμα] καὶ Προεόρτια [τῆς Ὑψώσεως] τοῦ Τιμίου Σταυροῦ, καὶ τοῦ ἁγίου Μάρτυρος Κορνηλίου."
+        },
+        {
+          "line": 21,
+          "level": 3,
+          "title": "The 13th Day. Commemoration of the Consecration of the Temple of the Holy Resurrection in Jerusalem, and Forefeast of the Universal Exaltation of the Precious Cross, and the Holy Hieromartyr Cornelius the Centurion.[^148]"
+        },
+        {
+          "line": 36,
+          "level": 3,
+          "title": "Τῇ ΙΔ΄. Ἡ παγκόσμιος Ὕψωσις τοῦ τιμίου καὶ ζωοποιοῦ Σταυροῦ."
+        },
+        {
+          "line": 52,
+          "level": 3,
+          "title": "The 14th Day. The Universal Exaltation of the Precious and Life-Creating Cross.[^149]"
+        },
+        {
+          "line": 95,
+          "level": 4,
+          "title": "Ἀντίφωνον Α΄ Ἦχος β΄."
+        },
+        {
+          "line": 102,
+          "level": 4,
+          "title": "Ἀντίφωνον Β΄ Ἦχος β΄."
+        },
+        {
+          "line": 109,
+          "level": 4,
+          "title": "[Ἀντίφωνον Γ΄ Ἦχος α΄.]*"
+        },
+        {
+          "line": 125,
+          "level": 4,
+          "title": "Antiphon 1 [Tone 2; Psalm 21 LXX]"
+        },
+        {
+          "line": 135,
+          "level": 4,
+          "title": "Antiphon 2 [Tone 2; Psalm 73 LXX]"
+        },
+        {
+          "line": 145,
+          "level": 4,
+          "title": "[Antiphon 3: Tone 1; Psalm 98 LXX]*"
+        }
+      ],
+      "numbered_items_count": 14,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 181,
+        "max_leaf": 190
+      },
+      "anomalies": []
+    }
+  }
+}
