@@ -82,12 +82,13 @@
     77,
     78,
     79,
-    80
+    80,
+    81
   ],
-  "translated_pages": 800,
-  "remaining_pages": 370,
-  "current_cohort": 81,
-  "current_cohort_range": "pp. 801-810 (leaves p801-p810)",
+  "translated_pages": 810,
+  "remaining_pages": 360,
+  "current_cohort": 82,
+  "current_cohort_range": "pp. 811-820 (leaves p811-p820)",
   "small_pause_gate_status": "AWAITING_SUBAGENT_EXECUTION",
   "active_blockers": []
 }
