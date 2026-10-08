@@ -43,11 +43,11 @@ The repository was restructured into the **Monotonic Monument Hierarchy** (`Litu
 ---
 
 ## Today’s Lab Bench (The Present Horizon)
-**Current Date:** October 08, 2026 · **Active Commit:** `8f2030c`  
-**Working State:** Monuments 0, 1, 2 Sealed · 1888 Violakis Typikon #24 Sealed (240/1170 leaves)
+**Current Date:** October 08, 2026 · **Active Commit:** `7ddef54`  
+**Working State:** Monuments 0, 1, 2 Sealed · 1888 Violakis Typikon #25 Sealed (250/1170 leaves)
 
-* **What Was Just Built:** Translated and verified Cohort #24 of Typikon of the Great Church of Christ by George Violakis (1888, Bilingual) (240/1170 physical leaves complete).
-* **What Just Happened on the Bench:** Cohort #24 passed Small Pause Gate 100% and promoted to Hub. Leaves p231..p240 verified.
+* **What Was Just Built:** Translated and verified Cohort #25 of Typikon of the Great Church of Christ by George Violakis (1888, Bilingual) (250/1170 physical leaves complete).
+* **What Just Happened on the Bench:** Cohort #25 passed Small Pause Gate 100% and promoted to Hub. Leaves p241..p250 verified.
 * **Tri-Node Ecosystem Telemetry:**
   - *Typikon Coded (Hub Inbox)*: 1891 Synod & 1899 Dolnytsky deliverables fully verified and indexed in `Data/Inbox/`.
   - *Shared_Lexicon*: 0 forbidden vocabulary variants across completed and active corpora; candidate realia staged.
