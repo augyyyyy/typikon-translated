@@ -1,0 +1,153 @@
+{
+  "timestamp": "2026-10-08T12:52:03.153859+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 106,
+  "target_file": "1888_violakis_typikon_cohort106_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort106_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort106_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort106_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort106_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 10,
+      "definition_markers_count": 10,
+      "text_markers": [
+        "[^601]",
+        "[^602]",
+        "[^603]",
+        "[^604]",
+        "[^605]",
+        "[^606]",
+        "[^607]",
+        "[^608]",
+        "[^609]",
+        "[^610]"
+      ],
+      "definition_markers": [
+        "[^601]",
+        "[^602]",
+        "[^603]",
+        "[^604]",
+        "[^605]",
+        "[^606]",
+        "[^607]",
+        "[^608]",
+        "[^609]",
+        "[^610]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort106_raw_draft.md",
+      "passed": true,
+      "paragraphs": 107,
+      "headings_count": 21,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Diataxis Part 8: Critical Apparatus and Reform Context) [Demos, p. 1036 / TD-57]"
+        },
+        {
+          "line": 21,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 23,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Diataxis Concluded – Diatonic Part 1) [Demos, p. 1037 / TD-58]"
+        },
+        {
+          "line": 42,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 44,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Diatonic Concluded – Dikiria – Dikirotrikiron – Diptycha Part 1) [Demos, p. 1038 / TD-59]"
+        },
+        {
+          "line": 64,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 66,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Diptycha Concluded – Diskarion – Diskos – Dismissal Hymn – Dismissal Prayer – Divamvulon Part 1) [Demos, p. 1039 / TD-60]"
+        },
+        {
+          "line": 88,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 90,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Divamvulon Concluded – Divine Liturgy – Dogmatikon – Domestikos – Dormition Part 1) [Demos, p. 1040 / TD-61]"
+        },
+        {
+          "line": 106,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 108,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Dormition Concluded – Doxa ke Nyn – Doxastikon – Doxology Part 1) [Demos, p. 1041 / TD-62]"
+        },
+        {
+          "line": 124,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 126,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Doxology Concluded – Eagle – Easter – Ecclesiastical Year – Efchologion to Mega – Ekklisia – Ekphonisis Part 1) [Demos, p. 1042 / TD-63]"
+        },
+        {
+          "line": 146,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 1051,
+        "max_leaf": 1060
+      },
+      "anomalies": []
+    }
+  }
+}

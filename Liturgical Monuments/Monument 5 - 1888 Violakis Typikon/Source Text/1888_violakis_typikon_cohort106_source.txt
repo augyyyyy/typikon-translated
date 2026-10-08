@@ -1,0 +1,180 @@
+=== LEAF p1051 ===
+[Appendix: Extended Dictionary of Typikon Related Terms (Diataxis Part 8: Critical Apparatus and Reform Context) (p. 1036 / TD-57)]
+
+TD-57
+
+of the Byzantine Church, or of the Divine Liturgy of St. John Chrysostom, or of the Philothean Diataxis, but simply a critical edition of the 14th century patriarchal liturgical Diataxis of Dimitrios Gemistos.
+    All attempts have been made to have a clear and straightforward critical apparatus following the normal methods for editing texts. I prepared the critical apparatus with an eye less towards philologists and more towards liturgiologists who are interested not only in the reconstruction of the original text but also its subsequent development. Consequently, the critical apparatus is fuller, and includes more variant readings than might be typical for a critical edition.
+    The register of sources allows the reader of the text to distinguish what exactly Gemistos wrote, what he took from his sources, and what the general nature of the sources was.
+    The first level of the critical apparatus contains the variant readings that serve to reconstruct the original text of the Diataxis. The second level of apparatus contains the variant readings from the archieratical recension of Gemistos' Diataxis when these readings do not bear witness to the original text. The third level of apparatus is exclusively reserved for those instances where Habert deviated from the text of his exemplar, Paris Greek 1362. This level also includes the various titles he gave to different sections of the Diataxis. I have attempted to include all of Habert's variations — all orthographical, all prayer variants etc., in order to give an accurate report of the nature of his text.
+    Reflecting on Gemistos' work, students of the Byzantine liturgy might view Gemistos as an innovator. After all, he introduced the Athonite monastic Diataxis of Philotheos Kokkinos into the patriarchal cathedral rite of Constantinople, thus assuring the victory of the monastic rite over the cathedral rite. In so doing, Gemistos unwittingly cemented a process that had been going on for centuries. Yet this view of Gemistos is only partially accurate and gained only in hindsight. Gemistos was only one actor in a drama, which had been going on for almost a thousand years and involved countless people. In fact, the victory of the monastic rite is not a story of a few people, but of many. If he did reflect on what he was doing, Gemistos
+
+*(Printed Page TD-57)*
+
+=== LEAF p1052 ===
+[Appendix: Extended Dictionary of Typikon Related Terms (Diataxis Concluded – Diatonic Part 1) (p. 1037 / TD-58)]
+
+TD-58
+
+probably saw himself as someone merely codifying existing traditions and liturgical practices. His view on this would be perfectly akin to another contemporary Byzantine liturgist, Archbishop Symeon of Thessalonika ( 1429), who also reformed the liturgy. But Alexander Lingas, who has evaluated the content of Symeon' reforms, concludes that far from being “revolutionary,” the reforms “represented the harmonization and systematization of existing precedents for the inclusion of texts and music from outside the Byzantine cathedral tradition.”[2] Only when the liturgical rites are viewed as things static or unchangeable can these developments — or any developments — be considered as mere innovation and not simply the natural continuous evolution of the rites which is the stuff of liturgical history.”
+
+[1] Baumstark, Comparative Liturgy, p. 18.
+[2] A. Lingas, Sunday Matins in the Byzantine Cathedral Rite: Music and Liturgy, Unpublished Doctoral Dissertation, University of British Columbia, 1996, p. 218.
+
+*DIATONIC (διατονικόν): A diatonic scale is based on an octave divided into five tones (T) and two semitones (S), e.g. T-T-S-T-T-T-S. The major and natural minor scales are diatonic, as are the church modes. A diatonic interval is one that is found in the diatonic octave. Oxford Grove Music Encyclopedia. See also SCALE.
+
+The notes that occur naturally in a scale, without being modified by accidentals other than in the key signature is another definition from the Music Glossary of the Austin Symphony Orchestra.
+
+A simple understanding is the natural scale or mode consisting of five whole tones and two semitones that can be played on the white keys of a keyboard instrument; e.g., the diatonic scale of the Byzantine Mode IV Plagal c-d-e-f-g-a-b-c.
+
+In music theory, a diatonic scale is a scale whose notes are built on the natural staff positions of lines and spaces, with no accidentals, with or without a key signature. These scales are based on concepts developed by Guido d’Arezzo, and are therefore some-
+
+*(Printed Page TD-58)*
+
+=== LEAF p1053 ===
+[Appendix: Extended Dictionary of Typikon Related Terms (Diatonic Concluded – Dikiria – Dikirotrikiron – Diptycha Part 1) (p. 1038 / TD-59)]
+
+TD-59
+
+times referred to as Guido scales. Diatonic music is written primarily using the notes from a diatonic scale; similarly, diatonic chords and diatonic intervals use notes from such a scale. The antonym is chromatic. (From Wikipedia, the free encyclopedia.)
+
+    Diatonic scales are a fundamental building block of the European musical tradition. The term is sometimes used to refer to all the medieval ecclesiastical modes, but is generally used only in reference to the major and minor scales.
+    The natural scale is a scale consisting of five whole tones and two semitones as it is produced on the white keys of a keyboard instrument. There is, of course, a corresponding scale in each key. Music is called “diatonic” if it is confined to the notes of this scale, to the exclusion of chromatic tones. For instance, in the key of C major, the melodic progression c-d-e and the chord d-a-c represent diatonic harmony. “Diatonicism” means music whose tonality is predominantly diatonic, i.e., nonchromatic. See Powers, Harold S. and Jeffery, Peter in the bibliography.
+
+DIKIRIA (δικήρια, τά) Slav. Dvusvechnik, Dikirij: Two-branched candelabras.
+
+DIKIROTRIKIRON (δικηροτρίκηρον, τό): Two- and three- branched candelabras. Used simultaneously by an officiating hierarch in the Liturgy.
+
+*DIPTYCHA (δίπτυχα, τά): Lit. A pair of tablets.
+    While the hymn Axion Esti is chanted in the liturgy, the priest (or deacon) commemorates inaudibly names of the departed and then names of the living. In the early church, these names were kept in special books or on wooden planks wired together so that they could be opened or folded like separate pages. These books were called diptycha. This commemoration of names ends when the priest exhorts the congregation to pray for whomever they have in mind by chanting: “Remember also, Lord, those whom each of us calls to mind and all Your people.” («Καὶ ὧν ἕκαστος κατὰ διάνοιαν
+
+*(Printed Page TD-59)*
+
+=== LEAF p1054 ===
+[Appendix: Extended Dictionary of Typikon Related Terms (Diptycha Concluded – Diskarion – Diskos – Dismissal Hymn – Dismissal Prayer – Divamvulon Part 1) (p. 1039 / TD-60)]
+
+TD-60
+
+ἔχει, καὶ πάντων καὶ πασῶν.») This is the point in the Divine Liturgy which has been designated “at the Diptycha” when, on some occasions, the MEGALYNARION AT THE DIPTYCHA is sung (see example on p. 148 of Bogdanos’ The Byzantine Liturgy: Hymnology and Order. An alternate definition is that of a two-leaved hinged tablet of metal, ivory, or wood, the inner surface of which was covered with wax upon which characters would be scratched with a stylus. Between the two tablets others were sometimes inserted, thus giving rise to the names, triptych, polyptych, etc. In the early Church the names of the members, living or dead, were inscribed on diptychs. Saint Cyprian mentions them in the 3rd century and they were in use until the 12th century in the West, and the 14th in the East. The “diptychs of the living” contained the names of the patriarchs, the bishops, illustrious persons, lay and ecclesiastical, and benefactors. From them came the first ecclesiastical calendars and martyrologies. The “diptychs of the dead” contained the names of those who, when living, were qualified for inscription on the “diptychs of the living.” Thus originated the later necrologies. Exclusion from these lists invoked a grave ecclesiastical penalty. The contents of the diptychs were read aloud from the ambo or altar, and traces of the fixed usage of the Roman Church in the 5th century may still be found in the Canon of the Mass.
+
+DISKARION (Δισκάριον, τό): See PATEN.
+
+DISKOS (Δίσκος, ὁ) Slav. DISKOS: See PATEN.
+
+*DISMISSAL HYMN. See APOLYTIKION.
+*DISMISSAL PRAYER. See APOLYSIS.
+
+DIVAMVULON (Διβάμβουλον, τό): A pole carried in processions by an official designated by the Great Ecclesiarch who precedes the Patriarch. These officials were usually archons of the church or other dignitaries being thus honored by the church. This pole has two variants, the monovamvulon and the divamvulon. The second name obtains from two knoblike decorative projections, one
+
+*(Printed Page TD-60)*
+
+=== LEAF p1055 ===
+[Appendix: Extended Dictionary of Typikon Related Terms (Divamvulon Concluded – Divine Liturgy – Dogmatikon – Domestikos – Dormition Part 1) (p. 1040 / TD-61)]
+
+TD-61
+
+at the top and a second a short distance down the pole. In today’s divamvulon, these decorative knobs are usually made of silver.
+
+DIVINE LITURGY (Θεία Λειτουργία, ἡ): See LITURGY.
+
+DOGMATIKON (Δογματικόν, τό) pl. DOGMATIKA (Δογματικά, τά): These are THEOTOKIA that conclude the STICHIRA at “Lord, I cry out” at Great Vespers on Saturdays. Their title comes from the fact that they are usually succinct presentations of the dogma of the Incarnation, with particular emphasis on the virginity and motherhood of Mary.
+
+DOMESTIKOS (Δομέστικος, ὁ) pl. DOMESTIKI (Δομέστικοι, οἱ): Today, as in the past, there are two ranks of Domestiki serving in the Patriarchal Church of St. George. The lowest rank is that of the Second Domestikos which is the first step in the order of the Domestiki. The next rank in ascending order is that of the First Domestikos which is followed by the two higher orders of the LAMBADARIOS or lead chanter serving at the ANALOGION near the left end of the SOLEAS and the PROTOPSALTIS or head chanter serving at the ANALOGION near the right end of the soleas. The Second Domestikos position is usually taken by younger men known for their high vocal quality and their endurance.
+
+*DORMITION (κοίμησις, ἡ): Lit. ‘Sleep,’ used figuratively for death as in the death of a sacred personage such as the Dormition of the Theotokos (15 August). Both the Eastern Orthodox and Roman Catholic Churches believe that, after her death, the Virgin Mary was bodily taken up, or ‘assumed’, into heaven. By the proclamation of Pope Pius XII in 1950, the belief in Mary’s bodily assumption to heavem was made an official, inviolate dogma in the Roman Catholic Church. In Orthodoxy, because of the lack of any scriptural support, this belief has remained a part of the age-old tradition of revering and honoring Mary without deifying her in any sense. However fervent and common, this belief has remained essentially optional in the Eastern Church. Thus, in referring to Mary’s death, the Western Church uses the term assumption instead of
+
+*(Printed Page TD-61)*
+
+=== LEAF p1056 ===
+[Appendix: Extended Dictionary of Typikon Related Terms (Dormition Concluded – Doxa ke Nyn – Doxastikon – Doxology Part 1) (p. 1041 / TD-62)]
+
+TD-62
+
+dormition more frequently than the Eastern Church. See also ASSUMPTION.
+
+DOXA (Δόξα) KE NYN (Καὶ νῦν): These are abbreviations each for a line of text beginning with them. These texts usually precede prayers and hymns commonly found in all service books of the church. The first word is the abbreviation in Greek for “Glory to the Father and to the Son and to the Holy Spirit” («Δόξα πατρὶ καὶ Υἱῷ καὶ Ἁγίῳ Πνεύματι» and the second (2 words) are an abbreviation for “And now and ever and unto the ages of ages.” («Καὶ νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. ᾿Αμήν»). See also DOXASTIKON, below.
+
+*DOXASTIKON, -A (Δοξαστικόν, τό, pl. Δοξαστικά, τά): A hymn (STICHIRON) sung after the short doxology “Glory to the Father and to the Son and to the Holy Spirit’ (Δόξα Πατρὶ καὶ Υἱῷ καὶ Ἁγίῳ Πνεύματι) at the end of a cycle of stichira at Vespers or Matins. It sings in an extended and melodically elaborate manner of the sacred event or person celebrated in each occasion. After the Doxastikon, another hymn is sometimes sung with the verse “And now, and ever, and unto the ages of ages. Amen.” («Καὶ νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. ᾿Αμήν»). Doxastika are mainly chanted at the end of the Esperia and APOSTICHA in Vespers and after the Praises (Eni) in Matins (Orthros).
+
+    In the scheme of early Russian church singing, the Doxastika of feast-day services were set apart by being set either to particularly complex and solemn chants (demestvenny, put’, or great znamenny) or set to polyphony. (From PSALM)
+
+*DOXOLOGY (Δοξολογία, ἡ): Lit. “a hymn of glorification.” The Doxology is a series of verses glorifying God, beginning with the words “Glory to You, Who has shown the light ...” («Δόξα σοι τῷ δείξαντι τὸ φῶς...»), sung near the end of Matins or Morning Prayer (Orthros), before the Divine Liturgy.
+
+*(Printed Page TD-62)*
+
+=== LEAF p1057 ===
+[Appendix: Extended Dictionary of Typikon Related Terms (Doxology Concluded – Eagle – Easter – Ecclesiastical Year – Efchologion to Mega – Ekklisia – Ekphonisis Part 1) (p. 1042 / TD-63)]
+
+TD-63
+
+    This ancient hymn of praise is common to both East and West. In the East it has two forms, the Greater and Lesser Doxology. The former is used at Matins on Sundays and Feasts, the latter at Matins on ordinary days and at Compline. Like the Latin Te Deum, the hymn itself is followed by a series of verses from the Psalter. The Great Doxology ends with the solemn singing of the Trisagion. The Lesser Doxology ends with the prayer “Grant, Lord, this day,” which, at both Vespers and non-festal Matins, precedes the bowing of heads by the priests. The word ‘doxology’ is also used for other short ascriptions of praise to the Holy Trinity. See DOXASTIKON and EKPHONISIS. (AE).
+
+EAGLE (᾿Αετός, ὁ): See AETOS.
+
+EASTER: See PASCHA.
+
+*ECCLESIASTICAL YEAR (᾿Εκκλησιαστικὸν Ἔτος, τό): The year according to the church calendar, established by the Byzantine Church in the late 4th century. It begins on September 1 and ends on August 31.
+
+EFCHOLOGION TO MEGA (Εὐχολόγιον τὸ Μέγα) Slav. Trebnik. Lit. The Great Book of Prayers or Great Efchologion. The Slavonic word Trebnic literally means ‘Book of Needs.’ It contains the prayers of the priest, deacon, and reader for Vespers, Orthros, and the Divine Liturgy as well as the other sacraments and services of blessings (often referred to in the Western Church as “sacramentals.” There is also an abbreviated edition called the Small Efchologion (Μικρὸν Εὐχολόγιον).
+
+EKKLISIA (᾿Εκκλησία, ἡ): The church building. See NAOS.
+
+EKPHONISIS (ἐκφώνησις, ἡ) Slav. vovzglas: Singing or reading in a loud declamatory style. See also EXCLAMATION. Used chiefly with the final doxology that ends every prayer, it is often, but not always, sung aloud, even when the prayer itself is directed to be read ‘in a low voice’ (Greek μυστικῶς). (Modified from AE).
+
+*(Printed Page TD-63)*
+
+=== LEAF p1058 ===
+[Appendix: Extended Dictionary of Typikon Related Terms (Ekphonisis Concluded – Ektenis – Engolpion – Entrance – Enos / Eni Part 1) (p. 1043 / TD-64)]
+
+TD-64
+
+    Traditional patterns of ekphonisis were notated in earlier times by a special ekphonetic notation, and were also preserved as oral tradition.
+    In terms of the character of a melody, ekphonisis stands between Psalmody, in which deviations from the main reciting tone (the ISON or vasis) occur only at the beginnings and endings of phrases, and singing proper, which has a well defined melodic and rhythmic form. In the Liturgy, ekphonisis is used primarily for the rendering of the Epistle, the Gospel, and Old Testament, as well as for the prayers exclaimed by the priest or deacon.
+
+EKTENIS (᾿Εκτενής, ἡ): See LITANY.
+
+ENGOLPION (᾿Εγκόλπιον, τό) Lit. ‘an item worn on the chest’. In the Western Churches, originally the term also included pectoral crosses. In the Orthodox Church today, however, the term is used for a medallion with an icon in its center which is worn, suspended from the neck by a decorative chain where it hangs over the mid-chest. It is part of the vesture of an Orthodox or Eastern Catholic HIERARCH and is worn over his OMOPHORION. As the Bishop vests with the Engolpion, he prays: “Create in me a pure heart, O God, and renew a steadfast spirit within me.” («Καρδίαν καθαρὰν κτίσον ἐν ἐμοί, ὁ Θεός, καὶ πνεῦμα εὐθὲς ἐγκαίνισον ἐν τοῖς ἐγκάτοις μου.») See also VESTMENTS. The term Engolpion is also used for a liturgical book such as the one used by the READER (᾿Εγκόλπιον τοῦ ᾿Αναγνώστου).
+
+*ENTRANCE (Εἴσοδος, ἡ) Slav. Vyxod, vykhod: See *GREAT ENTRANCE and *SMALL ENTRANCE.
+
+ENOS, pl. ENI (Αἶνος, ὁ, αἶνοι, οἱ) Slav. Xvalitny: Sing.–Praise; pl.–Praises or, in western Christianity, Lauds. The Eni are the last three psalms (Psalms 148, 149, and 150) of the Greek Old Testament (Septuagint) Psalter. They are called the “Psalms of Praise” because most of the verses of these psalms begin with the phrase “Praise You the Lord.” While in Holy Monasteries all the verses of each psalm are sung, in the parishes of the cities, only the two first verses are done, then one skips to the the last verses which precede the so called
+
+*(Printed Page TD-64)*
+
+=== LEAF p1059 ===
+[Appendix: Extended Dictionary of Typikon Related Terms (Eni Concluded – Eothinon – Epanokalymafchon – Epigonation Part 1) (p. 1044 / TD-65)]
+
+TD-65
+
+Hymns of Praise (Τροπάρια τῶν Αἴνων). In Greek Orthodoxy, they are sung in the morning prior to the Divine Liturgy at ORTHROS (morning prayer) after the EXAPOSTILARION.
+
+EOTHINON (῾Εωθινόν, τό): Meaning ‘of the dawn’ in Greek. The word is used to refer either to (a) one of the eleven Gospels (Eothina Evangelia), read each Sunday at Matins, or to (b) the eleven Idiomela Doxastika by the Emperor Leo the Wise [866-912] that are sung in the Orthros on Sunday at the end of the Praises or Lauds (Αἶνοι.) There is one such idiomelon to correspond to each of the eleven Gospels, of which they are poetic summaries. In the old ‘Sung’, or ‘Cathedral’ office, as described by St Symeon of Thessaloniki [† 1429], they were sung immediately before the Resurrection Gospel in the ORTHROS. (AE)
+
+EPANOKALYMAFCHON (᾿Επανωκαλύμαυχον, τό): A black veil worn by bishops and archimandrite monks. The veil is attached to the top of the traditional black ‘stove-pipe’ hat or KALIMAFCHION. The latter without a veil may be worn by other clergy.
+
+EPIGONATION (᾿Επιγονάτιον, τό) Slav. Nabedrennik: The epigonation (Greek: “upon the knee” or Russian palitsa is a vestment used by clergy in the Orthodox Church as a special honor. It is a stiff, rhomboid-shaped cloth that hangs over the knee on the right side of the body below the waist. It is suspended by one corner from a strap drawn over the left shoulder. In the Greek tradition it is usually a sign that the priest has an advanced academic degree and a blessing to hear confessions. In the Russian tradition it is an award for service. If a Russian priest has been awarded both the nabedrennik and the palitsa, he shifts the former to the left side. It is considered to symbolize the weapon of the Holy Word or a sword of Christ.
+
+History
+
+    Its origin is uncertain. According to some authorities it was a decorated thigh-shield awarded to officials in the Byzantine Empire, originally military and later civilian. According to others it was originally an ornamental handkerchief, called at that date ‘encheirion, or
+
+*(Printed Page TD-65)*
+
+=== LEAF p1060 ===
+[Appendix: Extended Dictionary of Typikon Related Terms (Epigonation Concluded – Epiklisis – Epilychnii Psalmi – Epimanikia Part 1) (p. 1045 / TD-66)]
+
+TD-66
+
+‘hand cloth’, which received its present form and name in the twelfth century. It is also said that it was used to carry documents establishing one’s position in the Church. Papers such as those certifying one’s ordination and rank would be most relevant when travelling. Carrying them in the Liturgy would be symbolic of bearing one’s authority to conduct the Holy things of the Liturgy.
+
+    When vesting with the Epigonation, the Priest prays: “Gird your sword at your thigh, mighty one, in your splendor and beauty. Stretch out your bowstrings, go forth and prevail in the cause of truth, gentleness and justice, and may your right hand lead you to wondrous deeds (Psalm 44 (45):3-4); now and ever and from all ages to all ages. Amen.” («Περίζωσαι τὴν ῥομφαίαν Σου ἐπὶ τὸν μηρόν Σου, δυνατέ, τῇ ὡραιότητί Σου καὶ τῷ κάλλει Σου· καὶ ἔντεινε, καὶ κατευοδοῦ, καὶ βασίλευε, ἕνεκεν ἀληθείας, καὶ πραότητος, καὶ δικαιοσύνης· καὶ ὁδηγήσει Σε θαυμαστῶς ἡ δεξιά Σου (Ψαλμ. 44 (45):3-4. Πάντοτε· νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. ᾿Αμήν.»)
+
+EPIKLISIS (᾿Επίκλησις, ἡ): The “invocation” or “calling down from above” is that section of the ANAPHORA or Eucharistic Prayer by which the priest invokes the Holy Spirit (or the power of His blessing) upon the Eucharistic bread and wine. In the Greek Orthodox Church, the Epiklisis comes after the ANAMNISIS or remembrance of Jesus’ words and deeds at the Last Supper.
+
+EPILYCHNII PSALMI: See LAMPLIGHTING PSALMS
+
+EPIMANIKIA (᾿Επιμανίκια, τά) Slav. Poruchi: The laced cuffs worn about the wrist and distal forearm by the deacon and clergymen of higher rank. The deacon wears them under the STICHARION, while the other clergy wear them over it. They represent strength, patience and good will and are symbolic of the bonds placed around the hands of our Lord during His passion.
+
+    When vesting with the right cuff, the Priest prays: “Your right hand, O Lord, is glorious in power. Your right hand, O Lord, shatters the enemy, and in the greatness of Your majesty You over-
+
+*(Printed Page TD-66)*
