@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-10-08T05:36:51.834623+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 56,
+  "target_file": "1888_violakis_typikon_cohort56_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort56_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort56_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort56_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort56_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 5,
+      "definition_markers_count": 5,
+      "text_markers": [
+        "[^335]",
+        "[^336]",
+        "[^337]",
+        "[^338]",
+        "[^339]"
+      ],
+      "definition_markers": [
+        "[^335]",
+        "[^336]",
+        "[^337]",
+        "[^338]",
+        "[^339]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort56_raw_draft.md",
+      "passed": true,
+      "paragraphs": 100,
+      "headings_count": 38,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Month of April: Holy Apostle and Evangelist Mark (Situation IV Concl. § 9 Concl., Situation V §§ 10–11)"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Τῇ ΚΕ΄: Τοῦ Ἁγίου Ἀποστόλου καὶ Εὐαγγελιστοῦ Μάρκου (Περίπτωσις Δ΄ Τέλος § 9 Τέλος, Περίπτωσις Ε΄ §§ 10–11) [Violakis, p. 536]"
+        },
+        {
+          "line": 9,
+          "level": 3,
+          "title": "Ε΄."
+        },
+        {
+          "line": 21,
+          "level": 1,
+          "title": "Month of April: Holy Apostle and Evangelist Mark (Situation Four Concl. § 9 Concl., Situation Five §§ 10–11)"
+        },
+        {
+          "line": 23,
+          "level": 2,
+          "title": "April 25: The Holy Apostle and Evangelist Mark (Situation Four Concl. § 9 Concl., Situation Five §§ 10–11) [Violakis, p. 537]"
+        },
+        {
+          "line": 27,
+          "level": 3,
+          "title": "SITUATION FIVE"
+        },
+        {
+          "line": 39,
+          "level": 1,
+          "title": "Month of May: Holy Father Athanasios the Great (Situation I § 1, Situation II Opening §§ 2–3)"
+        },
+        {
+          "line": 41,
+          "level": 2,
+          "title": "Μὴν Μάϊος: Τῇ Β΄: Τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν Ἀθανασίου τοῦ Μεγάλου (Περίπτωσις Α΄ § 1, Περίπτωσις Β΄ Ἀρχὴ §§ 2–3) [Violakis, p. 538]"
+        },
+        {
+          "line": 49,
+          "level": 3,
+          "title": "Α΄."
+        },
+        {
+          "line": 53,
+          "level": 3,
+          "title": "Β΄."
+        },
+        {
+          "line": 61,
+          "level": 1,
+          "title": "Month of May: Holy Father Athanasios the Great (Situation One § 1, Situation Two Opening §§ 2–3)"
+        },
+        {
+          "line": 63,
+          "level": 2,
+          "title": "Month of May: May 2: Our Father among the Saints Athanasios the Great (Situation One § 1, Situation Two Opening §§ 2–3) [Violakis, p. 539]"
+        },
+        {
+          "line": 71,
+          "level": 3,
+          "title": "SITUATION ONE"
+        },
+        {
+          "line": 75,
+          "level": 3,
+          "title": "SITUATION TWO"
+        },
+        {
+          "line": 83,
+          "level": 1,
+          "title": "Month of May: Holy Father Athanasios the Great (Situation II Concl. § 3, Situation III § 4, Situation IV §§ 5–6)"
+        }
+      ],
+      "numbered_items_count": 28,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 551,
+        "max_leaf": 560
+      },
+      "anomalies": []
+    }
+  }
+}
