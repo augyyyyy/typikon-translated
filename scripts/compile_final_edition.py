@@ -191,13 +191,82 @@ def purge_scaffolding_and_stitch_seams(cohort_texts: List[str]) -> str:
     seams into continuous, publication-grade text.
     """
     cleaned_cohorts: List[str] = []
-    for c_text in cohort_texts:
-        # Strip trailing cohort footnote apparatus from each cohort file
-        c_clean = re.split(r"\n##\s+(?:Scholarly Critical Apparatus & Footnotes|Footnotes)\b", c_text, flags=re.IGNORECASE)[0]
-        c_clean = re.sub(r"^#+\s*.*?Cohort\s+\d+.*?\n+", "", c_clean, flags=re.MULTILINE | re.IGNORECASE)
+    for idx, c_text in enumerate(cohort_texts):
+        # 1. Robust apparatus truncation: handles "## Footnotes", "## 3. Scholarly Critical Apparatus & Footnotes", etc.
+        c_clean = re.split(
+            r"\n#+\s*(?:\d+[\.\)]\s*)?(?:Scholarly Critical Apparatus|Footnotes|Critical Apparatus|Apparatus)\b",
+            c_text,
+            flags=re.IGNORECASE
+        )[0]
+
+        # 2. Leading cohort header block:
+        # For cohorts after the first (idx > 0), strip leading # Master Title if present before cohort marker
+        if idx > 0:
+            c_clean = re.sub(r"^#+\s+[^\n]+\n+(?=#+\s*.*?Cohort\s+\d+)", "", c_clean, flags=re.IGNORECASE)
+
+        # Strip cohort banner declaration: e.g. ## Cohort 13: ... or # Cohort 1: ...
+        c_clean = re.sub(r"^#+\s*.*?Cohort\s+\d+[^\n]*\n+", "", c_clean, flags=re.MULTILINE | re.IGNORECASE)
         c_clean = re.sub(r"<!--\s*(?:START|END)?\s*COHORT.*?-->\n*", "", c_clean, flags=re.IGNORECASE)
-        c_clean = re.sub(r"##\s+Table of Contents\s*\n(?:[ \t]*[-*\d\.]+\s+.*?\(#.*?\)\s*\n)+", "", c_clean, flags=re.IGNORECASE)
-        c_clean = re.sub(r">\s*\[!NOTE\]\s*\n(?:>\s*.*?\n)+", "", c_clean)
+
+        # 3. Strip leading academic notes (> [!NOTE] ...)
+        c_clean = re.sub(r">\s*\[!NOTE\]\s*\n(?:>[^\n]*\n*)+", "", c_clean)
+
+        # 4. Strip cohort table of contents
+        c_clean = re.sub(r"#+\s*(?:\d+[\.\)]\s*)?Table of Contents\s*\n(?:[ \t]*[-*\d\.]+\s+.*?\(#.*?\)\s*\n*)+", "", c_clean, flags=re.IGNORECASE)
+
+        # 5. Context-aware continuation scaffolding purge at cohort seams
+        c_clean = re.sub(
+            r"^#+\s*(?:\d+[\.\)]\s*)?(?:Decrees of the Ruthenian Provincial Synod:[ \t]*)?Titulus\s+[IVXLCDM]+[^\n]*?\b(?:Continued|Conclusion|Concluded)\b[^\n]*\n+",
+            "",
+            c_clean,
+            flags=re.MULTILINE | re.IGNORECASE
+        )
+        c_clean = re.sub(
+            r"^#+\s*(?:\d+[\.\)]\s*)?(?:Chapter|Part)\s+[IVXLCDM\d]+[^\n]*?\b(?:Continued|Conclusion|Concluded)\b[^\n]*\n+",
+            "",
+            c_clean,
+            flags=re.MULTILINE | re.IGNORECASE
+        )
+        c_clean = re.sub(
+            r"^#+\s*(?:[IVXLCDM]+[\.\)]\s+)[^\n]*?\b(?:Continued|Conclusion|Concluded)\b[^\n]*\n+",
+            "",
+            c_clean,
+            flags=re.MULTILINE | re.IGNORECASE
+        )
+        c_clean = re.sub(
+            r"^#+\s*(?:\d+[\.\)]\s*)?Nominal Subscription Roll Continued\s*\n+",
+            "",
+            c_clean,
+            flags=re.MULTILINE | re.IGNORECASE
+        )
+        c_clean = re.sub(
+            r"^\s*\*\((?:Continued from|Concluded)[^)]*\)\*\s*\n+",
+            "",
+            c_clean,
+            flags=re.MULTILINE | re.IGNORECASE
+        )
+        c_clean = re.sub(
+            r"^(\*\*\d+\.\*\*)\s*\*\((?:Concluded|Continued)\)\*\s*",
+            r"\1 ",
+            c_clean,
+            flags=re.MULTILINE | re.IGNORECASE
+        )
+
+        # 6. MTS-1 Epigraphic Parenthesization:
+        # Stacked English ## Titulus followed by ### Cyrillic
+        c_clean = re.sub(
+            r"(^##\s+Titulus\s+[IVXLCDM]+\.?\s+[^\n\(]+?)\s*\n+###\s+([\u0400-\u04FF\s\.,'ʼ\(\)]+)\s*$",
+            r"\1 (*\2*)",
+            c_clean,
+            flags=re.MULTILINE
+        )
+        c_clean = re.sub(
+            r"(^#+\s*Official Synodal Corrigenda & Typographical Errata)\s*\n+#+\s*Похибки друкарск[іî]\s*$",
+            r"## Official Synodal Corrigenda & Typographical Errata (*Похибки друкарскî*)",
+            c_clean,
+            flags=re.MULTILINE
+        )
+
         cleaned_cohorts.append(c_clean.strip())
 
     full_raw = "\n\n".join(cleaned_cohorts)
@@ -369,6 +438,23 @@ class UniversalPublicationEngine:
         parts_raw = self._slice_parts(typography_body)
         print(f"  Sliced into {len(parts_raw)} modular parts: {list(parts_raw.keys())}")
 
+        # Deduplicate repeated master titles in body of modular parts
+        master_title = self.pub_spec.get("master_title")
+        if master_title:
+            escaped_m = re.escape(master_title)
+            for pid in parts_raw:
+                if pid == "part0":
+                    lines_p0 = parts_raw[pid].splitlines()
+                    if len(lines_p0) > 1:
+                        cleaned_p0 = [lines_p0[0]]
+                        for l in lines_p0[1:]:
+                            if re.match(rf"^#\s+{escaped_m}\b", l.strip(), re.IGNORECASE):
+                                continue
+                            cleaned_p0.append(l)
+                        parts_raw[pid] = "\n".join(cleaned_p0)
+                else:
+                    parts_raw[pid] = re.sub(rf"^#\s+{escaped_m}\b[^\n]*\n+", "", parts_raw[pid], flags=re.MULTILINE | re.IGNORECASE)
+
         # 9. Build Part Slug Map for Dual-Context TOC
         part_slug_map = self._build_part_slug_map(parts_raw)
 
@@ -518,7 +604,19 @@ class UniversalPublicationEngine:
 
             # Ensure proper H1 header for modular parts > 0
             if i > 0:
-                chunk = f"# {title}\n\n" + re.sub(r"^#+\s*.*?\n+", "", chunk, count=1).lstrip()
+                m_h = re.match(r"^(#+)\s*(.+)$", lines[start_idx].strip())
+                if m_h:
+                    matched_heading = m_h.group(2).strip()
+                    # If matched line was a generic Part title (e.g. Dolnytsky '# Part I.'), replace it
+                    if re.match(r"^Part\s+[IVXLCDM\d]+[\.:\s]", matched_heading, re.IGNORECASE):
+                        chunk = f"# {title}\n\n" + re.sub(r"^#+\s*.*?\n+", "", chunk, count=1).lstrip()
+                    else:
+                        # Preservative landmark: normalize as H2 and clean subagent numbering prefixes
+                        norm_heading = re.sub(r"^(?:\d+[\.\)]\s+)?(?:Decrees of the Ruthenian Provincial Synod:[ \t]*)?", "", matched_heading).strip()
+                        body_without_landmark = re.sub(r"^#+\s*.*?\n+", "", chunk, count=1).lstrip()
+                        chunk = f"# {title}\n\n## {norm_heading}\n\n{body_without_landmark}"
+                else:
+                    chunk = f"# {title}\n\n" + chunk
 
             parts_raw[pid] = chunk
 

@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-10-08T03:53:28.533044+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 44,
+  "target_file": "1888_violakis_typikon_cohort44_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort44_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort44_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort44_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort44_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 5,
+      "definition_markers_count": 5,
+      "text_markers": [
+        "[^275]",
+        "[^276]",
+        "[^277]",
+        "[^278]",
+        "[^279]"
+      ],
+      "definition_markers": [
+        "[^275]",
+        "[^276]",
+        "[^277]",
+        "[^278]",
+        "[^279]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort44_raw_draft.md",
+      "passed": true,
+      "paragraphs": 92,
+      "headings_count": 34,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Month of March: The Holy Forty Martyrs (Situation I §§ 1–2)"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Τῇ Θ΄: Τῶν Ἁγίων Μ΄ Μαρτύρων (Περίπτωσις Α΄ §§ 1–2) [Violakis, p. 416]"
+        },
+        {
+          "line": 7,
+          "level": 3,
+          "title": "ΠΕΡΙΠΤΩΣΕΙΣ"
+        },
+        {
+          "line": 9,
+          "level": 4,
+          "title": "Α΄."
+        },
+        {
+          "line": 19,
+          "level": 1,
+          "title": "Month of March: The Holy Forty Martyrs (Situation I §§ 1–2)"
+        },
+        {
+          "line": 21,
+          "level": 2,
+          "title": "March 9: The Holy Forty Martyrs [in the Lake of Sebastea] (Situation I §§ 1–2) [Violakis, p. 417]"
+        },
+        {
+          "line": 23,
+          "level": 3,
+          "title": "SITUATIONS"
+        },
+        {
+          "line": 25,
+          "level": 4,
+          "title": "SITUATION ONE"
+        },
+        {
+          "line": 35,
+          "level": 1,
+          "title": "Month of March: The Holy Forty Martyrs (Situation I Concl. §§ 3–4; Dietary Note; Situation II §§ 4 bis–5)"
+        },
+        {
+          "line": 37,
+          "level": 2,
+          "title": "Τῇ Θ΄: Τῶν Ἁγίων Μ΄ Μαρτύρων (Περιπτώσεις Α΄ Τέλος §§ 3–4, Κατάλυσις, Β΄ §§ 4 δὶς–5) [Violakis, p. 418]"
+        },
+        {
+          "line": 45,
+          "level": 3,
+          "title": "Β΄."
+        },
+        {
+          "line": 57,
+          "level": 1,
+          "title": "Month of March: The Holy Forty Martyrs (Situation I Concl. §§ 3–4; Dietary Note; Situation II §§ 4 bis–5)"
+        },
+        {
+          "line": 59,
+          "level": 2,
+          "title": "March 9: The Holy Forty Martyrs [in the Lake of Sebastea] (Situation I Concl. §§ 3–4, Dietary Note, Situation II §§ 4 bis–5) [Violakis, p. 419]"
+        },
+        {
+          "line": 67,
+          "level": 3,
+          "title": "SITUATION TWO"
+        },
+        {
+          "line": 79,
+          "level": 1,
+          "title": "Month of March: The Holy Forty Martyrs (Situation II Concl.; Situation III § 6; Situation IV § 7)"
+        }
+      ],
+      "numbered_items_count": 24,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 431,
+        "max_leaf": 440
+      },
+      "anomalies": []
+    }
+  }
+}

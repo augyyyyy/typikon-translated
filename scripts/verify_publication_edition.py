@@ -262,10 +262,65 @@ def verify_monument_publication(monument_id: str) -> bool:
                     print(f"  [FAIL] {mf.name}:L{line_num}: Found banned phrase: {line.strip()[:80]}")
                     print(f"         Reason: {reason}")
 
-    if banned_hits == 0:
-        print("  >>> Gate 4 Result: PASS (0 banned phrases, 100% MTS-1 doxology compliance)")
+    # -------------------------------------------------------------
+    # Check 5: Heading Typography, Language Purity & Apparatus Isolation (Strict Blocker)
+    # -------------------------------------------------------------
+    print("\n[Gate 5] Auditing heading typography, epigraphic language purity & apparatus isolation...")
+    gate5_violations = 0
+    master_title = pub_spec.get("master_title", "")
+
+    for mf in md_files:
+        content = mf.read_text(encoding="utf-8")
+        lines = content.splitlines()
+
+        # 5A: Unparenthesized Cyrillic in Markdown Headings (#)
+        for line_num, line in enumerate(lines, start=1):
+            if not line.startswith('#'):
+                continue
+            if re.search(r'[\u0400-\u04FF]', line):
+                # Remove parenthesized substrings (*...*) or (...)
+                clean_heading = re.sub(r'\([^\)]*[\u0400-\u04FF][^\)]*\)', '', line)
+                if re.search(r'[\u0400-\u04FF]', clean_heading):
+                    gate5_violations += 1
+                    print(f"  [FAIL] {mf.name}:L{line_num}: Unparenthesized Cyrillic heading: {line.strip()[:80]}")
+                    print("         MTS-1 requires Cyrillic incipits to be parenthesized in italics: e.g. (*О постахъ*)")
+
+        # 5B: Repeated Master Document Title in Body
+        if master_title:
+            escaped_m = re.escape(master_title)
+            for line_num, line in enumerate(lines, start=1):
+                if mf.name.endswith("_part0_intro_and_toc.md") and line_num == 1:
+                    continue
+                if mf.name.endswith("_complete.md") and line_num == 1:
+                    continue
+                if re.match(rf"^#\s+{escaped_m}\b", line.strip(), re.IGNORECASE):
+                    gate5_violations += 1
+                    print(f"  [FAIL] {mf.name}:L{line_num}: Repeated master document title in body: {line.strip()[:80]}")
+
+        # 5C: Cohort Scaffolding Continuation Headers
+        for line_num, line in enumerate(lines, start=1):
+            if not line.startswith('#'):
+                continue
+            # Whitelist authentic multi-page historical tables (e.g. Tablet II, Paschal Key Letters)
+            if re.search(r'\b(?:Tablet|Paschal\s+Key\s+Letters)\b', line, re.IGNORECASE):
+                continue
+            if any(w in line.lower() for w in ['(continued', '(concluded', '(conclusion', 'continued from']):
+                gate5_violations += 1
+                print(f"  [FAIL] {mf.name}:L{line_num}: Scaffolding continuation header found: {line.strip()[:80]}")
+
+        # 5D: Leaked Footnote Definitions in Part Body
+        if "_part" in mf.name and not mf.name.endswith("_complete.md"):
+            parts = re.split(r'\n---\s*\n\s*### Notes\b', content, flags=re.IGNORECASE)
+            body_text = parts[0]
+            for line_num, line in enumerate(body_text.splitlines(), start=1):
+                if re.match(r"^\s*\[\^\d+\]:", line):
+                    gate5_violations += 1
+                    print(f"  [FAIL] {mf.name}:L{line_num}: Leaked footnote definition in body text: {line.strip()[:80]}")
+
+    if gate5_violations == 0:
+        print("  >>> Gate 5 Result: PASS (Zero unparenthesized Cyrillic, zero repeated titles, zero continuation scaffolding, zero leaked footnotes)")
     else:
-        print(f"  >>> Gate 4 Result: FAIL ({banned_hits} banned phrase occurrences)")
+        print(f"  >>> Gate 5 Result: FAIL ({gate5_violations} typography/isolation violations detected)")
         all_passed = False
 
     print("\n" + "=" * 75)
