@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-10-08T01:59:32.098926+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 28,
+  "target_file": "1888_violakis_typikon_cohort28_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort28_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort28_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort28_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort28_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 5,
+      "definition_markers_count": 5,
+      "text_markers": [
+        "[^195]",
+        "[^196]",
+        "[^197]",
+        "[^198]",
+        "[^199]"
+      ],
+      "definition_markers": [
+        "[^195]",
+        "[^196]",
+        "[^197]",
+        "[^198]",
+        "[^199]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort28_raw_draft.md",
+      "passed": true,
+      "paragraphs": 93,
+      "headings_count": 36,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Sunday before the Nativity of Christ (The Holy Fathers) — Case 2"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Case 2 [Violakis, p. 256]"
+        },
+        {
+          "line": 15,
+          "level": 1,
+          "title": "Sunday before the Nativity of Christ (The Holy Fathers) — Case 2"
+        },
+        {
+          "line": 17,
+          "level": 2,
+          "title": "Case 2 [Violakis, p. 257]"
+        },
+        {
+          "line": 27,
+          "level": 1,
+          "title": "Sunday before the Nativity of Christ — Case 2 Concluded / Case 3"
+        },
+        {
+          "line": 29,
+          "level": 2,
+          "title": "Case 2 (Concluded) [Violakis, p. 258]"
+        },
+        {
+          "line": 33,
+          "level": 2,
+          "title": "Case 3 [Violakis, p. 258]"
+        },
+        {
+          "line": 42,
+          "level": 1,
+          "title": "Sunday before the Nativity of Christ — Case 2 Concluded / Case 3"
+        },
+        {
+          "line": 44,
+          "level": 2,
+          "title": "Case 2 (Concluded) [Violakis, p. 259]"
+        },
+        {
+          "line": 48,
+          "level": 2,
+          "title": "Case 3 [Violakis, p. 259]"
+        },
+        {
+          "line": 57,
+          "level": 1,
+          "title": "Sunday before the Nativity Concluded / December 25: Nativity of Christ — Case 1"
+        },
+        {
+          "line": 59,
+          "level": 2,
+          "title": "Case 3 (Concluded) [Violakis, p. 260]"
+        },
+        {
+          "line": 65,
+          "level": 3,
+          "title": "Τῇ ΚΕ΄.    Ἡ κατὰ σάρκα Γέννησις τοῦ Κυρίου καὶ Θεοῦ καὶ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ."
+        },
+        {
+          "line": 67,
+          "level": 4,
+          "title": "ΠΕΡΙΠΤΩΣΕΙΣ"
+        },
+        {
+          "line": 68,
+          "level": 5,
+          "title": "Α΄."
+        }
+      ],
+      "numbered_items_count": 22,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 271,
+        "max_leaf": 280
+      },
+      "anomalies": []
+    }
+  }
+}
