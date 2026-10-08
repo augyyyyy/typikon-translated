@@ -1,0 +1,153 @@
+{
+  "timestamp": "2026-10-08T14:32:52.721169+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 117,
+  "target_file": "1888_violakis_typikon_cohort117_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort117_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort117_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort117_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort117_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 10,
+      "definition_markers_count": 10,
+      "text_markers": [
+        "[^711]",
+        "[^712]",
+        "[^713]",
+        "[^714]",
+        "[^715]",
+        "[^716]",
+        "[^717]",
+        "[^718]",
+        "[^719]",
+        "[^720]"
+      ],
+      "definition_markers": [
+        "[^711]",
+        "[^712]",
+        "[^713]",
+        "[^714]",
+        "[^715]",
+        "[^716]",
+        "[^717]",
+        "[^718]",
+        "[^719]",
+        "[^720]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort117_raw_draft.md",
+      "passed": true,
+      "paragraphs": 124,
+      "headings_count": 24,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Clerical Non-Liturgical Attire: Mandyas – Tables of the Law – Fountains – Cassock Part 1) [Demos, p. 1146 / TD-167]"
+        },
+        {
+          "line": 7,
+          "level": 3,
+          "title": "Non-Liturgical Attire of the Clergy"
+        },
+        {
+          "line": 19,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 21,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Clerical Non-Liturgical Attire: Cassocks – Kalymafchion – Epanokalymafchon – Pectoral Cross – Skouphos Part 1) [Demos, p. 1147 / TD-168]"
+        },
+        {
+          "line": 41,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 43,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Clerical Non-Liturgical Attire: Skouphos Concluded – Vestry / Skevophylakion – Vigil – Vima / Sanctuary Part 1) [Demos, p. 1148 / TD-169]"
+        },
+        {
+          "line": 59,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 61,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Vima / Sanctuary Concluded – Narthex / Nave / Sanctuary – Templon / Iconostasion – Ypakoe Part 1) [Demos, p. 1149 / TD-170]"
+        },
+        {
+          "line": 71,
+          "level": 3,
+          "title": "Letter W"
+        },
+        {
+          "line": 74,
+          "level": 3,
+          "title": "Letter X"
+        },
+        {
+          "line": 83,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 85,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Ypakoe Concluded – Yperagia – Ypomnema – Zeon Part 1) [Demos, p. 1150 / TD-171]"
+        },
+        {
+          "line": 105,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 107,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Zeon Concluded – Zoni – Zoodochos Pege – Bibliography Part 1: Entries 1–6) [Demos, p. 1151 / TD-172]"
+        }
+      ],
+      "numbered_items_count": 49,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 1161,
+        "max_leaf": 1170
+      },
+      "anomalies": []
+    }
+  }
+}
