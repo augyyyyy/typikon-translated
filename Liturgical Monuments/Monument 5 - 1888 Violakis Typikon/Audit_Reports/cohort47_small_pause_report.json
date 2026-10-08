@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-10-08T04:25:07.625537+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 47,
+  "target_file": "1888_violakis_typikon_cohort47_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort47_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort47_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort47_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort47_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 5,
+      "definition_markers_count": 5,
+      "text_markers": [
+        "[^290]",
+        "[^291]",
+        "[^292]",
+        "[^293]",
+        "[^294]"
+      ],
+      "definition_markers": [
+        "[^290]",
+        "[^291]",
+        "[^292]",
+        "[^293]",
+        "[^294]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort47_raw_draft.md",
+      "passed": true,
+      "paragraphs": 106,
+      "headings_count": 36,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Month of March: The Annunciation of the Theotokos (Situation III Cont. §§ 13–16)"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Τῇ ΚΕ΄: Ὁ Εὐαγγελισμὸς τῆς Θεοτόκου (Περίπτωσις Γ΄ Συνέχεια §§ 13–16) [Violakis, p. 446]"
+        },
+        {
+          "line": 16,
+          "level": 1,
+          "title": "Month of March: The Annunciation of the Theotokos (Situation III Cont. §§ 13–16)"
+        },
+        {
+          "line": 18,
+          "level": 2,
+          "title": "March 25: The Annunciation of Our Most Holy Lady, the Theotokos and Ever-Virgin Mary (Situation III Cont. §§ 13–16) [Violakis, p. 447]"
+        },
+        {
+          "line": 27,
+          "level": 1,
+          "title": "Month of March: The Annunciation of the Theotokos (Situation III Concl. §§ 16–18; Situation IV § 19)"
+        },
+        {
+          "line": 29,
+          "level": 2,
+          "title": "Τῇ ΚΕ΄: Ὁ Εὐαγγελισμὸς τῆς Θεοτόκου (Περίπτωσις Γ΄ Τέλος §§ 16–18, Περίπτωσις Δ΄ § 19) [Violakis, p. 448]"
+        },
+        {
+          "line": 34,
+          "level": 3,
+          "title": "Ἡ Ἀπόδοσις."
+        },
+        {
+          "line": 38,
+          "level": 3,
+          "title": "Δ΄."
+        },
+        {
+          "line": 44,
+          "level": 1,
+          "title": "Month of March: The Annunciation of the Theotokos (Situation III Concl. §§ 16–18; Situation IV § 19)"
+        },
+        {
+          "line": 46,
+          "level": 2,
+          "title": "March 25: The Annunciation of Our Most Holy Lady, the Theotokos and Ever-Virgin Mary (Situation III Concl. §§ 16–18; Situation IV § 19) [Violakis, p. 449]"
+        },
+        {
+          "line": 51,
+          "level": 3,
+          "title": "The Apodosis"
+        },
+        {
+          "line": 55,
+          "level": 3,
+          "title": "SITUATION FOUR"
+        },
+        {
+          "line": 61,
+          "level": 1,
+          "title": "Month of March: The Annunciation of the Theotokos (Situation IV Concl. § 19; Situation V § 20; Situation VI § 21)"
+        },
+        {
+          "line": 63,
+          "level": 2,
+          "title": "Τῇ ΚΕ΄: Ὁ Εὐαγγελισμὸς τῆς Θεοτόκου (Περίπτωσις Δ΄ Τέλος § 19, Περίπτωσις Ε΄ § 20, Περίπτωσις ΣΤ΄ § 21) [Violakis, p. 450]"
+        },
+        {
+          "line": 70,
+          "level": 3,
+          "title": "Ε΄."
+        }
+      ],
+      "numbered_items_count": 26,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 461,
+        "max_leaf": 470
+      },
+      "anomalies": []
+    }
+  }
+}

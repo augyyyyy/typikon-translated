@@ -48,12 +48,13 @@
     43,
     44,
     45,
-    46
+    46,
+    47
   ],
-  "translated_pages": 460,
-  "remaining_pages": 710,
-  "current_cohort": 47,
-  "current_cohort_range": "pp. 461-470 (leaves p461-p470)",
+  "translated_pages": 470,
+  "remaining_pages": 700,
+  "current_cohort": 48,
+  "current_cohort_range": "pp. 471-480 (leaves p471-p480)",
   "small_pause_gate_status": "AWAITING_SUBAGENT_EXECUTION",
   "active_blockers": []
 }
