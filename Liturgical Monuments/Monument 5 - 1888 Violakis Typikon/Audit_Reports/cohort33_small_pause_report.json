@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-10-08T02:36:08.793125+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 33,
+  "target_file": "1888_violakis_typikon_cohort33_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort33_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort33_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort33_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort33_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 5,
+      "definition_markers_count": 5,
+      "text_markers": [
+        "[^220]",
+        "[^221]",
+        "[^222]",
+        "[^223]",
+        "[^224]"
+      ],
+      "definition_markers": [
+        "[^220]",
+        "[^221]",
+        "[^222]",
+        "[^223]",
+        "[^224]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort33_raw_draft.md",
+      "passed": true,
+      "paragraphs": 137,
+      "headings_count": 32,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Month of January: Holy Theophany (January 6)"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Ὁ Μέγας Ἑσπερινὸς καὶ ἡ Λειτουργία τοῦ Μεγάλου Βασιλείου [Violakis, p. 306]"
+        },
+        {
+          "line": 14,
+          "level": 1,
+          "title": "Month of January: Holy Theophany (January 6)"
+        },
+        {
+          "line": 16,
+          "level": 2,
+          "title": "Great Vespers and the Divine Liturgy of Saint Basil the Great [Violakis, p. 307]"
+        },
+        {
+          "line": 25,
+          "level": 1,
+          "title": "Month of January: Holy Theophany (January 6)"
+        },
+        {
+          "line": 27,
+          "level": 2,
+          "title": "Ὄρθρος: Τάξις τοῦ Εὐαγγελίου, Κανόνες καὶ Μεγαλυνάρια [Violakis, p. 308]"
+        },
+        {
+          "line": 31,
+          "level": 3,
+          "title": "Διὰ τὸν Α΄ Κανόνα."
+        },
+        {
+          "line": 41,
+          "level": 3,
+          "title": "Διὰ τὸν Β΄ Ἰαμβικόν."
+        },
+        {
+          "line": 53,
+          "level": 1,
+          "title": "Month of January: Holy Theophany (January 6)"
+        },
+        {
+          "line": 55,
+          "level": 2,
+          "title": "Matins: Gospel Order, Canons, and Festal Megalynaria [Violakis, p. 309]"
+        },
+        {
+          "line": 59,
+          "level": 3,
+          "title": "For the First Canon"
+        },
+        {
+          "line": 69,
+          "level": 3,
+          "title": "For the Second Iambic Canon"
+        },
+        {
+          "line": 81,
+          "level": 1,
+          "title": "Month of January: Holy Theophany (January 6)"
+        },
+        {
+          "line": 83,
+          "level": 2,
+          "title": "Ὄρθρος: Κατακλεὶς τῆς Θ΄ Ὠδῆς καὶ Τελετὴ τοῦ Μεγάλου Ἁγιασμοῦ [Violakis, p. 310]"
+        },
+        {
+          "line": 101,
+          "level": 1,
+          "title": "Month of January: Holy Theophany (January 6)"
+        }
+      ],
+      "numbered_items_count": 8,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 321,
+        "max_leaf": 330
+      },
+      "anomalies": []
+    }
+  }
+}
