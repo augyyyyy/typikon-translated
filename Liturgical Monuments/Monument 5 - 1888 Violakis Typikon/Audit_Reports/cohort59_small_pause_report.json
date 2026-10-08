@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-10-08T06:03:29.589691+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 59,
+  "target_file": "1888_violakis_typikon_cohort59_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort59_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort59_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort59_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort59_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 5,
+      "definition_markers_count": 5,
+      "text_markers": [
+        "[^350]",
+        "[^351]",
+        "[^352]",
+        "[^353]",
+        "[^354]"
+      ],
+      "definition_markers": [
+        "[^350]",
+        "[^351]",
+        "[^352]",
+        "[^353]",
+        "[^354]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort59_raw_draft.md",
+      "passed": true,
+      "paragraphs": 82,
+      "headings_count": 32,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Month of May: Holy Equals-to-the-Apostles Constantine and Helen (Situation VIII Concl. §§ 12 Concl.–13, Situation IX Opening § 14 Opening)"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Τῇ ΚΑ΄: Τῶν Ἁγίων Βασιλέων καὶ Ἰσαποστόλων Κωνσταντίνου καὶ Ἑλένης (Περίπτωσις Η΄ Τέλος §§ 12 Τέλος–13, Περίπτωσις Θ΄ Ἀρχὴ § 14 Ἀρχὴ) [Violakis, p. 566]"
+        },
+        {
+          "line": 12,
+          "level": 3,
+          "title": "Θ΄."
+        },
+        {
+          "line": 18,
+          "level": 1,
+          "title": "Month of May: Holy Equals-to-the-Apostles Constantine and Helen (Situation Eight Concl. §§ 12 Concl.–13, Situation Nine Opening § 14)"
+        },
+        {
+          "line": 20,
+          "level": 2,
+          "title": "May 21: The Holy Glorious Kings and Equals-to-the-Apostles Constantine and Helen (Situation Eight Concl. §§ 12 Concl.–13, Situation Nine Opening § 14) [Violakis, p. 567]"
+        },
+        {
+          "line": 27,
+          "level": 3,
+          "title": "SITUATION NINE"
+        },
+        {
+          "line": 33,
+          "level": 1,
+          "title": "Month of May: Holy Equals-to-the-Apostles Constantine and Helen (Situation IX Concl. §§ 15–16, Situation X Opening § 17 Opening)"
+        },
+        {
+          "line": 35,
+          "level": 2,
+          "title": "Τῇ ΚΑ΄: Τῶν Ἁγίων Βασιλέων καὶ Ἰσαποστόλων Κωνσταντίνου καὶ Ἑλένης (Περίπτωσις Θ΄ Τέλος §§ 15–16, Περίπτωσις Ι΄ Ἀρχὴ § 17 Ἀρχὴ) [Violakis, p. 568]"
+        },
+        {
+          "line": 42,
+          "level": 3,
+          "title": "Ι΄."
+        },
+        {
+          "line": 48,
+          "level": 1,
+          "title": "Month of May: Holy Equals-to-the-Apostles Constantine and Helen (Situation Nine Concl. §§ 15–16, Situation Ten Opening § 17 Opening)"
+        },
+        {
+          "line": 50,
+          "level": 2,
+          "title": "May 21: The Holy Glorious Kings and Equals-to-the-Apostles Constantine and Helen (Situation Nine Concl. §§ 15–16, Situation Ten Opening § 17 Opening) [Violakis, p. 569]"
+        },
+        {
+          "line": 57,
+          "level": 3,
+          "title": "SITUATION TEN"
+        },
+        {
+          "line": 63,
+          "level": 1,
+          "title": "Month of May: Holy Equals-to-the-Apostles Constantine and Helen (Situation X Concl. §§ 17 Concl.–19, Situation XI Opening § 20 Opening)"
+        },
+        {
+          "line": 65,
+          "level": 2,
+          "title": "Τῇ ΚΑ΄: Τῶν Ἁγίων Βασιλέων καὶ Ἰσαποστόλων Κωνσταντίνου καὶ Ἑλένης (Περίπτωσις Ι΄ Τέλος §§ 17 Τέλος–19, Περίπτωσις ΙΑ΄ Ἀρχὴ § 20 Ἀρχὴ) [Violakis, p. 570]"
+        },
+        {
+          "line": 73,
+          "level": 3,
+          "title": "ΙΑ΄."
+        }
+      ],
+      "numbered_items_count": 29,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 581,
+        "max_leaf": 590
+      },
+      "anomalies": []
+    }
+  }
+}
