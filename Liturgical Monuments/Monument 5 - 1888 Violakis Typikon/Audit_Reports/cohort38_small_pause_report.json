@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-10-08T03:12:58.978800+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 38,
+  "target_file": "1888_violakis_typikon_cohort38_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort38_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort38_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort38_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort38_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 5,
+      "definition_markers_count": 5,
+      "text_markers": [
+        "[^245]",
+        "[^246]",
+        "[^247]",
+        "[^248]",
+        "[^249]"
+      ],
+      "definition_markers": [
+        "[^245]",
+        "[^246]",
+        "[^247]",
+        "[^248]",
+        "[^249]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort38_raw_draft.md",
+      "passed": true,
+      "paragraphs": 103,
+      "headings_count": 30,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Month of January: St. John Chrysostom Concurrence; The Three Hierarchs (§ 1 – § 3)"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Τῇ Λ΄: Τῶν τριῶν Ἱεραρχῶν Βασιλείου τοῦ Μ., Γρηγορίου τοῦ Θεολόγου καὶ Ἰωάννου τοῦ Χρυσοστόμου [Violakis, p. 356]"
+        },
+        {
+          "line": 9,
+          "level": 3,
+          "title": "Τῇ Λ΄. Τῶν τριῶν Ἱεραρχῶν Βασιλείου τοῦ Μ., Γρηγορίου τοῦ Θεολόγου καὶ Ἰωάννου τοῦ Χρυσοστόμου"
+        },
+        {
+          "line": 21,
+          "level": 1,
+          "title": "Month of January: St. John Chrysostom Concurrence; The Three Hierarchs (§ 1 – § 3)"
+        },
+        {
+          "line": 23,
+          "level": 2,
+          "title": "January 30: Commemoration of the Three Hierarchs: Basil the Great, Gregory the Theologian, and John Chrysostom [Violakis, p. 357]"
+        },
+        {
+          "line": 27,
+          "level": 3,
+          "title": "January 30: The Three Hierarchs: Basil the Great, Gregory the Theologian, and John Chrysostom"
+        },
+        {
+          "line": 39,
+          "level": 1,
+          "title": "Month of January: The Three Hierarchs (§ 4 – § 6 incipit)"
+        },
+        {
+          "line": 41,
+          "level": 2,
+          "title": "Τῇ Λ΄: Τῶν τριῶν Ἱεραρχῶν (Συνέχεια) [Violakis, p. 358]"
+        },
+        {
+          "line": 57,
+          "level": 1,
+          "title": "Month of January: The Three Hierarchs (§ 4 – § 6 incipit)"
+        },
+        {
+          "line": 59,
+          "level": 2,
+          "title": "January 30: The Three Hierarchs (Continued) [Violakis, p. 359]"
+        },
+        {
+          "line": 75,
+          "level": 1,
+          "title": "Month of January: The Three Hierarchs (§ 6 concl. – § 8); Month of February: St. Tryphon and Forefeast of the Meeting (§ 1 incipit)"
+        },
+        {
+          "line": 77,
+          "level": 2,
+          "title": "Τῇ Λ΄: Τῶν τριῶν Ἱεραρχῶν (Τέλος) / Μὴν Φεβρουάριος: Τῇ Α΄: Τοῦ ἁγίου Τρύφωνος [Violakis, p. 360]"
+        },
+        {
+          "line": 91,
+          "level": 3,
+          "title": "Μὴν Φεβρουάριος"
+        },
+        {
+          "line": 93,
+          "level": 3,
+          "title": "Τῇ Α΄. Τοῦ ἁγίου Μάρτυρος Τρύφωνος, καὶ τὰ Προεόρτια τῆς Ὑπαπαντῆς τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ"
+        },
+        {
+          "line": 101,
+          "level": 1,
+          "title": "Month of January: The Three Hierarchs (§ 6 concl. – § 8); Month of February: St. Tryphon and Forefeast of the Meeting (§ 1 incipit)"
+        }
+      ],
+      "numbered_items_count": 30,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 371,
+        "max_leaf": 380
+      },
+      "anomalies": []
+    }
+  }
+}
