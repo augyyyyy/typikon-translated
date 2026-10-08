@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-10-08T11:57:37.293252+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 100,
+  "target_file": "1888_violakis_typikon_cohort100_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort100_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort100_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort100_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort100_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 5,
+      "definition_markers_count": 5,
+      "text_markers": [
+        "[^555]",
+        "[^556]",
+        "[^557]",
+        "[^558]",
+        "[^559]"
+      ],
+      "definition_markers": [
+        "[^555]",
+        "[^556]",
+        "[^557]",
+        "[^558]",
+        "[^559]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort100_raw_draft.md",
+      "passed": true,
+      "paragraphs": 232,
+      "headings_count": 32,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Appendix: The Paschalion & Table of Feasts"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Ὁ Ἑορτοδρόμιος Πίναξ: 21 Μαΐου (Συνέχεια), 25 Μαΐου (Μέρος Α΄) [Violakis, p. 976]"
+        },
+        {
+          "line": 7,
+          "level": 3,
+          "title": "Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)"
+        },
+        {
+          "line": 38,
+          "level": 1,
+          "title": "Appendix: The Paschalion & Table of Feasts"
+        },
+        {
+          "line": 40,
+          "level": 2,
+          "title": "The Chart of the Feasts: 21 May (Conclusion), 25 May (Part 1) [Violakis, p. 977]"
+        },
+        {
+          "line": 42,
+          "level": 3,
+          "title": "THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)"
+        },
+        {
+          "line": 76,
+          "level": 1,
+          "title": "Appendix: The Paschalion & Table of Feasts"
+        },
+        {
+          "line": 78,
+          "level": 2,
+          "title": "Ὁ Ἑορτοδρόμιος Πίναξ: 25 Μαΐου (Μέρος Β΄ — Τέλος τοῦ Ἑορτοδρομίου) [Violakis, p. 978]"
+        },
+        {
+          "line": 80,
+          "level": 3,
+          "title": "Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια καὶ Τέλος)"
+        },
+        {
+          "line": 106,
+          "level": 1,
+          "title": "Appendix: The Paschalion & Table of Feasts"
+        },
+        {
+          "line": 108,
+          "level": 2,
+          "title": "The Chart of the Feasts: 25 May (Part 2 — Conclusion of the Eortodromion) [Violakis, p. 979]"
+        },
+        {
+          "line": 110,
+          "level": 3,
+          "title": "THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Conclusion)"
+        },
+        {
+          "line": 136,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 138,
+          "level": 2,
+          "title": "Half-Title Page [Demos, p. 980 / TD-1]"
+        },
+        {
+          "line": 140,
+          "level": 1,
+          "title": "DICTIONARY OF TERMS RELATED TO THE TYPIKON"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 991,
+        "max_leaf": 1000
+      },
+      "anomalies": []
+    }
+  }
+}
