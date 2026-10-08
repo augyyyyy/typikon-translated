@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-10-08T11:05:12.862325+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 93,
+  "target_file": "1888_violakis_typikon_cohort93_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort93_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort93_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort93_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort93_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 5,
+      "definition_markers_count": 5,
+      "text_markers": [
+        "[^520]",
+        "[^521]",
+        "[^522]",
+        "[^523]",
+        "[^524]"
+      ],
+      "definition_markers": [
+        "[^520]",
+        "[^521]",
+        "[^522]",
+        "[^523]",
+        "[^524]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort93_raw_draft.md",
+      "passed": true,
+      "paragraphs": 162,
+      "headings_count": 32,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Appendix: Concerning the Co-Celebration of Clergy"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Περὶ Συλλειτούργου (Μέρος Α΄) [Violakis, p. 906]"
+        },
+        {
+          "line": 7,
+          "level": 3,
+          "title": "ΠΕΡΙ ΣΥΛΛΕΙΤΟΥΡΓΟΥ"
+        },
+        {
+          "line": 17,
+          "level": 1,
+          "title": "Appendix: Concerning the Co-Celebration of Clergy"
+        },
+        {
+          "line": 19,
+          "level": 2,
+          "title": "Concerning the Co-Celebrant (Part 1) [Violakis, p. 907]"
+        },
+        {
+          "line": 21,
+          "level": 3,
+          "title": "CONCERNING THE CO-CELEBRATION OF CLERGY"
+        },
+        {
+          "line": 36,
+          "level": 1,
+          "title": "Appendix: Concerning Hierarchical Concelebration"
+        },
+        {
+          "line": 38,
+          "level": 2,
+          "title": "Περὶ Συλλειτούργου Ἀρχιερέων (Μέρος Β΄) [Violakis, p. 908]"
+        },
+        {
+          "line": 50,
+          "level": 1,
+          "title": "Appendix: Concerning Hierarchical Concelebration"
+        },
+        {
+          "line": 52,
+          "level": 2,
+          "title": "Concerning Hierarchical Concelebration (Part 2) [Violakis, p. 909]"
+        },
+        {
+          "line": 54,
+          "level": 3,
+          "title": "CONCERNING HIERARCHICAL CONCELEBRATION"
+        },
+        {
+          "line": 69,
+          "level": 1,
+          "title": "Appendix: The Funeral Service for the Deceased"
+        },
+        {
+          "line": 71,
+          "level": 2,
+          "title": "Ἀκολουθία Νεκρώσιμος εἰς Κοιμηθέντας (Μέρος Α΄) [Violakis, p. 910]"
+        },
+        {
+          "line": 73,
+          "level": 3,
+          "title": "ΑΚΟΛΟΥΘΙΑ ΝΕΚΡΩΣΙΜΟΣ ΕΙΣ ΚΟΙΜΗΘΕΝΤΑΣ (1)"
+        },
+        {
+          "line": 83,
+          "level": 1,
+          "title": "Appendix: The Funeral Service for the Deceased"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 921,
+        "max_leaf": 930
+      },
+      "anomalies": []
+    }
+  }
+}

@@ -52,6 +52,7 @@ HUMAN_INDICATORS = re.compile(
     r'Satan|devil|demon|demons|Lucifer|adversary|evil one|O Death|O Hades|'
     r'household|family|parent|parents|husband|wife|children|child|son|daughter|'
     r'servant|servants|handmaid|handmaids|serving|served|'
+    r'righteous|departed|deceased|reposed|'
     r'flock|sheep|lay down|striketh|striking|repeateth|repeating|breast|'
     r'thyself|oneself|himself|herself|themselves|'
     r'bow|bows|bowing|boweth|shall bow|foldeth|setteth|lowereth|raiseth|'

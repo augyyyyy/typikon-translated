@@ -94,12 +94,13 @@
     89,
     90,
     91,
-    92
+    92,
+    93
   ],
-  "translated_pages": 920,
-  "remaining_pages": 250,
-  "current_cohort": 93,
-  "current_cohort_range": "pp. 921-930 (leaves p921-p930)",
+  "translated_pages": 930,
+  "remaining_pages": 240,
+  "current_cohort": 94,
+  "current_cohort_range": "pp. 931-940 (leaves p931-p940)",
   "small_pause_gate_status": "AWAITING_SUBAGENT_EXECUTION",
   "active_blockers": []
 }
