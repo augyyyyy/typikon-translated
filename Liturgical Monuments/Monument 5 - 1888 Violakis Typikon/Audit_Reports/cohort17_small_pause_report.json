@@ -1,0 +1,118 @@
+{
+  "timestamp": "2026-10-08T00:26:10.096936+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 17,
+  "target_file": "1888_violakis_typikon_cohort17_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort17_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort17_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort17_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort17_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 5,
+      "definition_markers_count": 5,
+      "text_markers": [
+        "[^138]",
+        "[^139]",
+        "[^140]",
+        "[^141]",
+        "[^142]"
+      ],
+      "definition_markers": [
+        "[^138]",
+        "[^139]",
+        "[^140]",
+        "[^141]",
+        "[^142]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort17_raw_draft.md",
+      "passed": true,
+      "paragraphs": 66,
+      "headings_count": 10,
+      "headings": [
+        {
+          "line": 19,
+          "level": 2,
+          "title": "ΤΥΠΙΚΗ ΔΙΑΤΑΞΙΣ"
+        },
+        {
+          "line": 20,
+          "level": 3,
+          "title": "ΤΗΣ ΑΚΟΛΟΥΘΙΑΣ ΤΟΥ ΕΣΠΕΡΙΝΟΥ, ΤΟΥ ΟΡΘΡΟΥ ΚΑΙ ΤΗΣ ΛΕΙΤΟΥΡΓΙΑΣ ΤΩΝ ΚΑΤΑ ΜΗΝΑ ΔΕΣΠΟΤΙΚΩΝ ΚΑΙ ΘΕΟΜΗΤΟΡΙΚΩΝ ΕΟΡΤΩΝ ΚΑΙ ΤΩΝ ΕΟΡΤΑΖΟΜΕΝΩΝ ΑΓΙΩΝ"
+        },
+        {
+          "line": 22,
+          "level": 1,
+          "title": "ΜΗΝ ΣΕΠΤΕΜΒΡΙΟΣ"
+        },
+        {
+          "line": 32,
+          "level": 2,
+          "title": "TYPIKON ORDER"
+        },
+        {
+          "line": 33,
+          "level": 3,
+          "title": "OF THE SERVICE OF VESPERS, MATINS, AND DIVINE LITURGY OF THE MONTHLY FEASTS OF THE LORD, THE THEOTOKOS, AND THE CELEBRATED SAINTS"
+        },
+        {
+          "line": 35,
+          "level": 1,
+          "title": "MONTH OF SEPTEMBER"
+        },
+        {
+          "line": 76,
+          "level": 3,
+          "title": "Τῇ ς΄. Τὸ ἐν Χώναις θαῦμα τοῦ Ἀρχιστρατήγου Μιχαήλ."
+        },
+        {
+          "line": 94,
+          "level": 3,
+          "title": "The 6th Day. The Miracle Performed at Chonae [Colossae] by the Archangel Michael."
+        },
+        {
+          "line": 104,
+          "level": 3,
+          "title": "Τῇ Ζ΄. Τὰ Προεόρτια τῆς Γεννήσεως τῆς Ὑπεραγίας Θεοτόκου, καὶ τοῦ ἁγίου Μάρτυρος Σώζοντος."
+        },
+        {
+          "line": 117,
+          "level": 3,
+          "title": "The 7th Day. The Forefeast of the Nativity of the All-Holy Theotokos, and the Holy Martyr Sozon.[^142]"
+        }
+      ],
+      "numbered_items_count": 21,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 161,
+        "max_leaf": 170
+      },
+      "anomalies": []
+    }
+  }
+}

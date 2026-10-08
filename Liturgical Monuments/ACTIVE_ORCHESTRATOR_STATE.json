@@ -18,12 +18,13 @@
     13,
     14,
     15,
-    16
+    16,
+    17
   ],
-  "translated_pages": 160,
-  "remaining_pages": 1010,
-  "current_cohort": 17,
-  "current_cohort_range": "pp. 161-170 (leaves p161-p170)",
+  "translated_pages": 170,
+  "remaining_pages": 1000,
+  "current_cohort": 18,
+  "current_cohort_range": "pp. 171-180 (leaves p171-p180)",
   "small_pause_gate_status": "AWAITING_SUBAGENT_EXECUTION",
   "active_blockers": []
 }
