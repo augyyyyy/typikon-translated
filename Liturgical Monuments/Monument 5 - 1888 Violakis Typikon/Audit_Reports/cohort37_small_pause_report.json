@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-10-08T03:06:42.682507+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 37,
+  "target_file": "1888_violakis_typikon_cohort37_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort37_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort37_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort37_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort37_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 5,
+      "definition_markers_count": 5,
+      "text_markers": [
+        "[^240]",
+        "[^241]",
+        "[^242]",
+        "[^243]",
+        "[^244]"
+      ],
+      "definition_markers": [
+        "[^240]",
+        "[^241]",
+        "[^242]",
+        "[^243]",
+        "[^244]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort37_raw_draft.md",
+      "passed": true,
+      "paragraphs": 101,
+      "headings_count": 26,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Month of January: St. Euthymius the Great; St. Gregory the Theologian (§ 1 – § 2 incipit)"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Τῇ Κ΄: Μνήμη τοῦ Ὁσίου πατρὸς ἡμῶν Εὐθυμίου τοῦ Μεγάλου [Violakis, p. 346]"
+        },
+        {
+          "line": 11,
+          "level": 3,
+          "title": "Τῇ Κ΄. Μνήμη τοῦ Ὁσίου πατρὸς ἡμῶν Εὐθυμίου τοῦ Μεγάλου"
+        },
+        {
+          "line": 17,
+          "level": 3,
+          "title": "Τῇ ΚΕ΄. Τοῦ ἐν Ἁγίοις πατρὸς ἡμῶν Γρηγορίου τοῦ Θεολόγου"
+        },
+        {
+          "line": 26,
+          "level": 1,
+          "title": "Month of January: St. Euthymius the Great; St. Gregory the Theologian (§ 1 – § 2 incipit)"
+        },
+        {
+          "line": 28,
+          "level": 2,
+          "title": "January 20 & 25: Commemorations of Euthymius the Great and Gregory the Theologian [Violakis, p. 347]"
+        },
+        {
+          "line": 34,
+          "level": 3,
+          "title": "January 20: Commemoration of Our Venerable Father Euthymius the Great"
+        },
+        {
+          "line": 40,
+          "level": 3,
+          "title": "January 25: Commemoration of Our Father among the Saints Gregory the Theologian"
+        },
+        {
+          "line": 49,
+          "level": 1,
+          "title": "Month of January: St. Gregory the Theologian (§ 2 concl. – § 6 incipit)"
+        },
+        {
+          "line": 51,
+          "level": 2,
+          "title": "Τῇ ΚΕ΄: Τοῦ ἐν Ἁγίοις πατρὸς ἡμῶν Γρηγορίου τοῦ Θεολόγου (Συνέχεια) [Violakis, p. 348]"
+        },
+        {
+          "line": 67,
+          "level": 1,
+          "title": "Month of January: St. Gregory the Theologian (§ 2 concl. – § 6 incipit)"
+        },
+        {
+          "line": 69,
+          "level": 2,
+          "title": "January 25: Commemoration of Gregory the Theologian (Continued) [Violakis, p. 349]"
+        },
+        {
+          "line": 85,
+          "level": 1,
+          "title": "Month of January: St. Gregory the Theologian (§ 6 concl. – § 7; Patriarchal Decrees incipit)"
+        },
+        {
+          "line": 87,
+          "level": 2,
+          "title": "Τῇ ΚΕ΄: Τοῦ ἐν Ἁγίοις πατρὸς ἡμῶν Γρηγορίου τοῦ Θεολόγου (Συνέχεια) [Violakis, p. 350]"
+        },
+        {
+          "line": 101,
+          "level": 1,
+          "title": "Month of January: St. Gregory the Theologian (§ 6 concl. – § 7; Patriarchal Decrees incipit)"
+        }
+      ],
+      "numbered_items_count": 32,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 361,
+        "max_leaf": 370
+      },
+      "anomalies": []
+    }
+  }
+}
