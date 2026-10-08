@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-10-08T02:59:19.485996+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 36,
+  "target_file": "1888_violakis_typikon_cohort36_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort36_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort36_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort36_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort36_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 5,
+      "definition_markers_count": 5,
+      "text_markers": [
+        "[^235]",
+        "[^236]",
+        "[^237]",
+        "[^238]",
+        "[^239]"
+      ],
+      "definition_markers": [
+        "[^235]",
+        "[^236]",
+        "[^237]",
+        "[^238]",
+        "[^239]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort36_raw_draft.md",
+      "passed": true,
+      "paragraphs": 98,
+      "headings_count": 26,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Month of January: Sunday after the Lights with Triodion (§ 44 concl. – § 47 incipit)"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Ἑορτὴ ἐν Κυριακῇ: Σύμπτωσις μετὰ τοῦ Τριῳδίου [Violakis, p. 336]"
+        },
+        {
+          "line": 19,
+          "level": 1,
+          "title": "Month of January: Sunday after the Lights with Triodion (§ 44 concl. – § 47 incipit)"
+        },
+        {
+          "line": 21,
+          "level": 2,
+          "title": "Sunday after the Lights: Concurrence with the Triodion [Violakis, p. 337]"
+        },
+        {
+          "line": 35,
+          "level": 1,
+          "title": "Month of January: Sunday after the Lights Concluded (§ 47 concl. – § 48); Epistle & Gospel Notes"
+        },
+        {
+          "line": 37,
+          "level": 2,
+          "title": "Ἀπόδοσις καὶ Σημειώσεις περὶ Ἀποστόλου καὶ Εὐαγγελίου [Violakis, p. 338]"
+        },
+        {
+          "line": 43,
+          "level": 3,
+          "title": "Σημειώσεις περὶ Ἀποστόλου καὶ Εὐαγγελίου."
+        },
+        {
+          "line": 59,
+          "level": 1,
+          "title": "Month of January: Sunday after the Lights Concluded (§ 47 concl. – § 48); Epistle & Gospel Notes"
+        },
+        {
+          "line": 61,
+          "level": 2,
+          "title": "Apodosis and Notes Concerning the Epistle and Gospel [Violakis, p. 339]"
+        },
+        {
+          "line": 67,
+          "level": 3,
+          "title": "Notes Concerning the Epistle and Gospel Readings"
+        },
+        {
+          "line": 83,
+          "level": 1,
+          "title": "Month of January: Gospel Note Concluded; Hypapante Katavasiai; St. Anthony the Great (§ 1–3 incipit)"
+        },
+        {
+          "line": 85,
+          "level": 2,
+          "title": "Ὑπαπαντὴ καὶ Τοῦ Ὁσίου Πατρὸς ἡμῶν Ἀντωνίου τοῦ Μεγάλου [Violakis, p. 340]"
+        },
+        {
+          "line": 91,
+          "level": 3,
+          "title": "Τῇ ΙΖ΄. Τοῦ Ὁσίου πατρὸς ἡμῶν Ἀντωνίου τοῦ Μεγάλου."
+        },
+        {
+          "line": 103,
+          "level": 1,
+          "title": "Month of January: Gospel Note Concluded; Hypapante Katavasiai; St. Anthony the Great (§ 1–3 incipit)"
+        },
+        {
+          "line": 105,
+          "level": 2,
+          "title": "Presentation Katavasiai and Saint Anthony the Great [Violakis, p. 341]"
+        }
+      ],
+      "numbered_items_count": 33,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 351,
+        "max_leaf": 360
+      },
+      "anomalies": []
+    }
+  }
+}
