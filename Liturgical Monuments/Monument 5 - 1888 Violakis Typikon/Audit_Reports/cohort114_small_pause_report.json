@@ -1,0 +1,153 @@
+{
+  "timestamp": "2026-10-08T14:08:38.565516+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 114,
+  "target_file": "1888_violakis_typikon_cohort114.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort114.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort114.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort114.md",
+      "footnotes_file": "1888_violakis_typikon_cohort114_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 10,
+      "definition_markers_count": 10,
+      "text_markers": [
+        "[^681]",
+        "[^682]",
+        "[^683]",
+        "[^684]",
+        "[^685]",
+        "[^686]",
+        "[^687]",
+        "[^688]",
+        "[^689]",
+        "[^690]"
+      ],
+      "definition_markers": [
+        "[^681]",
+        "[^682]",
+        "[^683]",
+        "[^684]",
+        "[^685]",
+        "[^686]",
+        "[^687]",
+        "[^688]",
+        "[^689]",
+        "[^690]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort114.md",
+      "passed": true,
+      "paragraphs": 98,
+      "headings_count": 20,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Soft Chromatic Scale – Soleas – Spear – Spoon – Staff – Staff-Bearing Usher) [Demos, p. 1116 / TD-137]"
+        },
+        {
+          "line": 25,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 27,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Stanza – Star – Stasidia – Stasis – Stavrosimon – Stavrotheotokion – Stichari – Sticharion Part 1) [Demos, p. 1117 / TD-138]"
+        },
+        {
+          "line": 49,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 51,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Sticharion Continued Part 2 – History of the Greco-Roman Tunic and Himation) [Demos, p. 1118 / TD-139]"
+        },
+        {
+          "line": 63,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 65,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Sticharion Continued Part 3 – Baptismal Symbolism and Hierarchical/Diaconal Usage) [Demos, p. 1119 / TD-140]"
+        },
+        {
+          "line": 87,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 89,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Sticharion Concluded Part 4 – Vesting Prayer – Stichiron / Stichira Part 1) [Demos, p. 1120 / TD-141]"
+        },
+        {
+          "line": 105,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 107,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Stichirarion – Stichologia – Stichos – Stole – Strophe – Synapte – Synaxarion Part 1) [Demos, p. 1121 / TD-142]"
+        },
+        {
+          "line": 129,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 131,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Synaxarion Concluded Part 2 – Synaxis – Synthronon Part 1) [Demos, p. 1122 / TD-143]"
+        },
+        {
+          "line": 143,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 1131,
+        "max_leaf": 1140
+      },
+      "anomalies": []
+    }
+  }
+}
