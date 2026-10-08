@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-10-08T11:39:09.206969+00:00",
+  "timestamp": "2026-10-08T11:43:45.505442+00:00",
   "monument_id": "1888_violakis_typikon",
-  "cohort": 97,
-  "target_file": "1888_violakis_typikon_cohort97.md",
+  "cohort": 98,
+  "target_file": "1888_violakis_typikon_cohort98_raw_draft.md",
   "overall_status": "PASSED",
   "gates": {
     "vocabulary_linter": {
@@ -10,7 +10,7 @@
       "violations": []
     },
     "slop_linter": {
-      "file": "1888_violakis_typikon_cohort97.md",
+      "file": "1888_violakis_typikon_cohort98_raw_draft.md",
       "passed": true,
       "violation_count": 0,
       "violations": []
@@ -20,38 +20,38 @@
       "leaves_checked": 10
     },
     "hieratic_pronouns": {
-      "file": "1888_violakis_typikon_cohort97.md",
+      "file": "1888_violakis_typikon_cohort98_raw_draft.md",
       "passed": true,
       "violations": [],
       "violation_count": 0
     },
     "footnote_symmetry": {
-      "text_file": "1888_violakis_typikon_cohort97.md",
-      "footnotes_file": "1888_violakis_typikon_cohort97_footnotes.txt",
+      "text_file": "1888_violakis_typikon_cohort98_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort98_footnotes.txt",
       "passed": true,
       "text_markers_count": 5,
       "definition_markers_count": 5,
       "text_markers": [
-        "[^540]",
-        "[^541]",
-        "[^542]",
-        "[^543]",
-        "[^544]"
+        "[^545]",
+        "[^546]",
+        "[^547]",
+        "[^548]",
+        "[^549]"
       ],
       "definition_markers": [
-        "[^540]",
-        "[^541]",
-        "[^542]",
-        "[^543]",
-        "[^544]"
+        "[^545]",
+        "[^546]",
+        "[^547]",
+        "[^548]",
+        "[^549]"
       ],
       "missing_definitions": [],
       "orphaned_definitions": []
     },
     "structural_sequence": {
-      "file": "1888_violakis_typikon_cohort97.md",
+      "file": "1888_violakis_typikon_cohort98_raw_draft.md",
       "passed": true,
-      "paragraphs": 336,
+      "paragraphs": 308,
       "headings_count": 30,
       "headings": [
         {
@@ -62,7 +62,7 @@
         {
           "line": 5,
           "level": 2,
-          "title": "Ὁ Ἑορτοδρόμιος Πίναξ: 30 Ἰανουαρίου (Συνέχεια), 2 Φεβρουαρίου (Μέρος Α΄) [Violakis, p. 946]"
+          "title": "Ὁ Ἑορτοδρόμιος Πίναξ: 9 Μαρτίου (Συνέχεια), 25 Μαρτίου (Μέρος Α΄) [Violakis, p. 956]"
         },
         {
           "line": 7,
@@ -70,62 +70,62 @@
           "title": "Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)"
         },
         {
-          "line": 43,
+          "line": 40,
           "level": 1,
           "title": "Appendix: The Paschalion & Table of Feasts"
         },
         {
-          "line": 45,
+          "line": 42,
           "level": 2,
-          "title": "The Chart of the Feasts: 30 January (Conclusion), 2 February (Part 1) [Violakis, p. 947]"
+          "title": "The Chart of the Feasts: 9 March (Conclusion), 25 March (Part 1) [Violakis, p. 957]"
         },
         {
-          "line": 47,
+          "line": 44,
           "level": 3,
           "title": "THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)"
         },
         {
-          "line": 86,
+          "line": 80,
           "level": 1,
           "title": "Appendix: The Paschalion & Table of Feasts"
         },
         {
-          "line": 88,
+          "line": 82,
           "level": 2,
-          "title": "Ὁ Ἑορτοδρόμιος Πίναξ: 2 Φεβρουαρίου (Συνέχεια), 10 Φεβρουαρίου (Μέρος Α΄) [Violakis, p. 948]"
+          "title": "Ὁ Ἑορτοδρόμιος Πίναξ: 25 Μαρτίου (Μέρος Β΄) [Violakis, p. 958]"
         },
         {
-          "line": 90,
+          "line": 84,
           "level": 3,
           "title": "Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)"
         },
         {
-          "line": 120,
+          "line": 119,
           "level": 1,
           "title": "Appendix: The Paschalion & Table of Feasts"
         },
         {
-          "line": 122,
+          "line": 121,
           "level": 2,
-          "title": "The Chart of the Feasts: 2 February (Conclusion), 10 February (Part 1) [Violakis, p. 949]"
+          "title": "The Chart of the Feasts: 25 March (Part 2) [Violakis, p. 959]"
         },
         {
-          "line": 124,
+          "line": 123,
           "level": 3,
           "title": "THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)"
         },
         {
-          "line": 157,
+          "line": 161,
           "level": 1,
           "title": "Appendix: The Paschalion & Table of Feasts"
         },
         {
-          "line": 159,
+          "line": 163,
           "level": 2,
-          "title": "Ὁ Ἑορτοδρόμιος Πίναξ: 10 Φεβρουαρίου (Συνέχεια), 24 Φεβρουαρίου (Μέρος Α΄) [Violakis, p. 950]"
+          "title": "Ὁ Ἑορτοδρόμιος Πίναξ: 25 Μαρτίου (Τέλος), 23 Ἀπριλίου (Μέρος Α΄) [Violakis, p. 960]"
         },
         {
-          "line": 161,
+          "line": 165,
           "level": 3,
           "title": "Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)"
         }
@@ -134,8 +134,8 @@
       "number_breaks": [],
       "leaf_stats": {
         "leaves_count": 10,
-        "min_leaf": 961,
-        "max_leaf": 970
+        "min_leaf": 971,
+        "max_leaf": 980
       },
       "anomalies": []
     }
