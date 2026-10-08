@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-10-08T01:49:53.374375+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 27,
+  "target_file": "1888_violakis_typikon_cohort27_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort27_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort27_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort27_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort27_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 5,
+      "definition_markers_count": 5,
+      "text_markers": [
+        "[^190]",
+        "[^191]",
+        "[^192]",
+        "[^193]",
+        "[^194]"
+      ],
+      "definition_markers": [
+        "[^190]",
+        "[^191]",
+        "[^192]",
+        "[^193]",
+        "[^194]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort27_raw_draft.md",
+      "passed": true,
+      "paragraphs": 83,
+      "headings_count": 16,
+      "headings": [
+        {
+          "line": 6,
+          "level": 2,
+          "title": "Κυριακὴ τῶν ἁγίων Προπατόρων."
+        },
+        {
+          "line": 19,
+          "level": 2,
+          "title": "Sunday of the Holy Forefathers [Ancestors of Christ]"
+        },
+        {
+          "line": 31,
+          "level": 3,
+          "title": "Τῇ ΙΒ΄.    Τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν Σπυρίδωνος τοῦ Θαυματουργοῦ."
+        },
+        {
+          "line": 43,
+          "level": 3,
+          "title": "The 12th Day. Our Father among the Saints Spyridon the Wonderworker."
+        },
+        {
+          "line": 56,
+          "level": 3,
+          "title": "Τῇ ΙΕ΄.    Τοῦ ἁγίου ἱερομάρτυρος Ἐλευθερίου."
+        },
+        {
+          "line": 61,
+          "level": 3,
+          "title": "Τῇ ΙΖ΄.    Τοῦ ἁγίου προφήτου Δανιὴλ καὶ τῶν ἁγίων τριῶν Παίδων."
+        },
+        {
+          "line": 66,
+          "level": 3,
+          "title": "Τῇ Κ΄.    Ἡ μνήμη τοῦ ἁγίου ἱερομάρτυρος Ἰγνατίου καὶ Προεόρτια τῶν Γενεθλίων τοῦ Σωτῆρος ἡμῶν."
+        },
+        {
+          "line": 77,
+          "level": 3,
+          "title": "The 15th Day. The Holy Hieromartyr Eleutherios."
+        },
+        {
+          "line": 82,
+          "level": 3,
+          "title": "The 17th Day. The Holy Prophet Daniel and the Three Holy Children."
+        },
+        {
+          "line": 87,
+          "level": 3,
+          "title": "The 20th Day. The Commemoration of the Holy Hieromartyr Ignatius the God-bearer and the Forefeast of the Nativity of our Saviour."
+        },
+        {
+          "line": 99,
+          "level": 2,
+          "title": "Κυριακὴ πρὸ τῆς Χριστοῦ Γεννήσεως."
+        },
+        {
+          "line": 103,
+          "level": 3,
+          "title": "ΠΕΡΙΠΤΩΣΕΙΣ"
+        },
+        {
+          "line": 104,
+          "level": 4,
+          "title": "Α΄."
+        },
+        {
+          "line": 115,
+          "level": 2,
+          "title": "Sunday before the Nativity of Christ"
+        },
+        {
+          "line": 119,
+          "level": 3,
+          "title": "CASES"
+        }
+      ],
+      "numbered_items_count": 36,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 261,
+        "max_leaf": 270
+      },
+      "anomalies": []
+    }
+  }
+}

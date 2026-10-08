@@ -30,11 +30,12 @@ PROJECT_ROOT = SCRIPT_DIR.parent
 REGISTRY_FILE = PROJECT_ROOT / "Liturgical Monuments" / "codex_registry.json"
 
 PLACEHOLDER_PATTERNS = [
-    (r"\[Leaf\s+p?\d+", "Bracketed Leaf marker"),
-    (r"\[Blank Leaf\]", "Blank leaf indicator"),
+    (r"\[(?:Physical\s+Page\s+\d+\s*/\s*)?(?:Book\s+Page|Physical\s+Page|Leaf|Page)\s+\d+[^\]]*\]", "Bracketed Page/Leaf marker"),
+    (r"\*?\[Blank\s+[^\]]+\]\*?", "Blank leaf indicator"),
     (r"===\s*LEAF", "Leaf banner delimiter"),
     (r"<!--\s*LEAF", "HTML leaf comment"),
-    (r"\(\*?Physical (?:Page|pp\.|Leaf)\b", "Physical page reference"),
+    (r"\*?\((?:Physical\s+Page|Physical\s+pp\.|Physical\s+Leaf|Book\s+Page|Leaf\s+p?|Blank\s+Flyleaf)[^)]*\)\*?", "Physical page reference"),
+    (r"^[ \t]*(?:Month\s+—\s*\d+\s*—\s*[A-Za-z]+|—\s*\d+\s*—|\d+\s+—\s+[A-Za-z]+)[ \t]*$", "Running book pagination header"),
     (r"^#+\s*Cohort\s+\d+", "Cohort markdown header"),
     (r"^#+\s*.*?Cohort\s+\d+\s+Raw Draft", "Cohort raw draft header"),
     (r"^#+\s*Cohort\s+\d+\s+Footnotes", "Cohort footnotes header"),
@@ -112,6 +113,9 @@ def verify_monument_publication(monument_id: str) -> bool:
         content = mf.read_text(encoding="utf-8")
         file_violations = []
         for line_num, line in enumerate(content.splitlines(), start=1):
+            # Skip footnote definitions in scholarly apparatus / local notes
+            if re.match(r"^\s*\[\^\d+\]:", line):
+                continue
             for pat, desc in PLACEHOLDER_PATTERNS:
                 if re.search(pat, line, flags=re.IGNORECASE | re.MULTILINE):
                     file_violations.append((line_num, desc, line.strip()[:80]))

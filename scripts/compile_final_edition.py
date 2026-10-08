@@ -62,72 +62,157 @@ def slugify(heading_text: str) -> str:
     cleaned = re.sub(r'-+', '-', cleaned)
     return cleaned.strip('-')
 
+def is_explicit_leaf_marker(s: str) -> bool:
+    """Detects any explicit academic leaf tag, facsimile page reference, or running header."""
+    if not s:
+        return False
+    # HTML comment: <!-- LEAF ... -->
+    if re.fullmatch(r"<!--\s*LEAF:?[^>]*-->", s, re.IGNORECASE):
+        return True
+    # Delimiter banner: === LEAF ... ===
+    if re.fullmatch(r"===\s*LEAF\s+[^=]+===", s, re.IGNORECASE):
+        return True
+    # Bracketed page/leaf: [Book Page 134], [Physical Page 1 / Leaf p1], [Leaf p12], [Page 12]
+    if re.fullmatch(r"\[(?:Physical\s+Page\s+\d+\s*/\s*)?(?:Book\s+Page|Physical\s+Page|Leaf|Page)\s+[^\]]+\]", s, re.IGNORECASE):
+        return True
+    # Blank folios: [Blank Leaf], *[Blank Leaf preceding the Decrees]*, *(Blank Flyleaf / Vacat)*
+    if re.fullmatch(r"\*?\[Blank\s+[^\]]+\]\*?", s, re.IGNORECASE):
+        return True
+    if re.fullmatch(r"\*?\((?:Physical\s+Page|Physical\s+pp\.|Physical\s+Leaf|Book\s+Page|Leaf\s+p?|Blank)[^)]*\)\*?", s, re.IGNORECASE):
+        return True
+    # Running book headers / pagination folios: Month — 180 — March, — 190 —, 180 — March
+    if re.fullmatch(r"(?:Month\s+—\s*\d+\s*—\s*[A-Za-z]+|—\s*\d+\s*—|\d+\s+—\s+[A-Za-z]+)", s, re.IGNORECASE):
+        return True
+    return False
+
+def stitch_leaf_stream(input_text: str) -> Tuple[str, List[Tuple[str, str, str]]]:
+    """
+    Parses document line-by-line, stripping leaf markers, banners, and running headers.
+    When a leaf boundary cuts off a sentence mid-phrase, it stitches the lines into
+    a single seamless paragraph, deduplicating catchwords and merging styling boundaries.
+    """
+    lines = input_text.splitlines()
+    stitched_log: List[Tuple[str, str, str]] = []
+    output_segments: List[str] = []
+    i = 0
+    n = len(lines)
+
+    while i < n:
+        line = lines[i]
+        s = line.strip()
+
+        # Check if line begins a leaf boundary gap (blank lines, leaf markers, or leaf dividers)
+        if not s or is_explicit_leaf_marker(s) or s == "---":
+            has_leaf_marker = False
+            has_hr = False
+
+            while i < n:
+                curr_s = lines[i].strip()
+                if not curr_s:
+                    i += 1
+                elif is_explicit_leaf_marker(curr_s):
+                    has_leaf_marker = True
+                    i += 1
+                elif curr_s == "---":
+                    has_hr = True
+                    i += 1
+                else:
+                    break
+
+            if not output_segments:
+                continue
+            if i >= n:
+                break
+
+            prev_line = output_segments[-1]
+            next_line = lines[i]
+
+            if has_leaf_marker:
+                # Strip footnotes, brackets, closing punctuation, formatting from end of prev_line
+                core_prev = re.sub(r'(?:\[\^\d+\]|[\]\)\*_`"\'\”\’]|\s)+$', '', prev_line)
+                ends_punct = bool(core_prev and core_prev[-1] in ('.', '!', '?', ':', ';'))
+
+                next_s = next_line.strip()
+                starts_heading = next_s.startswith('#') or next_s.startswith('===')
+                starts_bullet = bool(re.match(r'^(?:[-*+]\s+|\d+[\.)]\s+|☞|☩)', next_s))
+                starts_dialogue = bool(re.match(r'^(?:>\s*)?(?:\*\*)?(?:The\s+)?(?:Priest|Deacon|Second Deacon|First Deacon|Choir|Reader|Bishop|Hierarch|People|Chanter):', next_s, re.IGNORECASE))
+                starts_table = next_s.startswith('|')
+                starts_quote = next_s.startswith('>') and not prev_line.strip().startswith('>')
+
+                is_cut = (
+                    not ends_punct
+                    and not starts_heading
+                    and not starts_bullet
+                    and not starts_dialogue
+                    and not starts_table
+                    and not starts_quote
+                    and not prev_line.strip().startswith('#')
+                    and not prev_line.strip().startswith('|')
+                )
+
+                if is_cut:
+                    stitched_log.append((prev_line[-40:], "LEAF_BREAK", next_s[:40]))
+
+                    # Catchword deduplication (e.g. "having" at bottom of leaf and "having" at top)
+                    prev_words = prev_line.split()
+                    next_words = next_s.split()
+                    if prev_words and next_words:
+                        last_w = re.sub(r'^[^\w]+|[^\w]+$', '', prev_words[-1]).lower()
+                        first_w = re.sub(r'^[^\w]+|[^\w]+$', '', next_words[0]).lower()
+                        if last_w and last_w == first_w:
+                            next_s = " ".join(next_words[1:])
+
+                    # Handle italics across break: e.g. "with*" and "*the"
+                    if prev_line.rstrip().endswith('*') and next_s.startswith('*') and not prev_line.rstrip().endswith('**') and not next_s.startswith('**'):
+                        output_segments[-1] = prev_line.rstrip()[:-1] + " " + next_s[1:]
+                    else:
+                        output_segments[-1] = prev_line.rstrip() + " " + next_s
+                    i += 1
+                else:
+                    output_segments.append("")
+            else:
+                if has_hr:
+                    output_segments.append("")
+                    output_segments.append("---")
+                    output_segments.append("")
+                else:
+                    output_segments.append("")
+        else:
+            output_segments.append(line)
+            i += 1
+
+    result_text = "\n".join(output_segments)
+    result_text = re.sub(r'\n{3,}', '\n\n', result_text)
+    return result_text.strip(), stitched_log
+
+def purge_scaffolding_and_stitch_seams(cohort_texts: List[str]) -> str:
+    """
+    Cleans raw translation drafts and stitches all inter-cohort and intra-cohort
+    seams into continuous, publication-grade text.
+    """
+    cleaned_cohorts: List[str] = []
+    for c_text in cohort_texts:
+        # Strip trailing cohort footnote apparatus from each cohort file
+        c_clean = re.split(r"\n##\s+(?:Scholarly Critical Apparatus & Footnotes|Footnotes)\b", c_text, flags=re.IGNORECASE)[0]
+        c_clean = re.sub(r"^#+\s*.*?Cohort\s+\d+.*?\n+", "", c_clean, flags=re.MULTILINE | re.IGNORECASE)
+        c_clean = re.sub(r"<!--\s*(?:START|END)?\s*COHORT.*?-->\n*", "", c_clean, flags=re.IGNORECASE)
+        c_clean = re.sub(r"##\s+Table of Contents\s*\n(?:[ \t]*[-*\d\.]+\s+.*?\(#.*?\)\s*\n)+", "", c_clean, flags=re.IGNORECASE)
+        c_clean = re.sub(r">\s*\[!NOTE\]\s*\n(?:>\s*.*?\n)+", "", c_clean)
+        cleaned_cohorts.append(c_clean.strip())
+
+    full_raw = "\n\n".join(cleaned_cohorts)
+    stitched_text, log = stitch_leaf_stream(full_raw)
+    print(f"  [Seam Stitcher] Successfully stitched {len(log)} mid-sentence page breaks into continuous text.")
+    return stitched_text
+
 def strip_academic_placeholders(text: str) -> str:
-    """Removes all academic scaffolding, leaf tags, and cohort delimiters."""
-    # 1. Strip raw cohort banners and markdown headers
-    text = re.sub(r"^#+\s*.*?Cohort\s+\d+.*?\n+", "", text, flags=re.MULTILINE | re.IGNORECASE)
-    text = re.sub(r"<!--\s*(?:START|END)?\s*COHORT.*?-->\n*", "", text, flags=re.IGNORECASE)
-    text = re.sub(r"<!--\s*LEAF:?[^>]*-->\n*", "", text, flags=re.IGNORECASE)
-
-    # 2. Strip intermediate Table of Contents blocks in individual cohorts
-    text = re.sub(r"##\s+Table of Contents\s*\n(?:[ \t]*[-*\d\.]+\s+.*?\(#.*?\)\s*\n)+", "", text, flags=re.IGNORECASE)
-
-    # 3. Strip cohort introductory callout blocks
-    text = re.sub(r">\s*\[!NOTE\]\s*\n(?:>\s*.*?\n)+", "", text)
-
-    # 4. Strip bracketed leaf markers, blank folios, and physical page references
-    text = re.sub(r"\[(?:Physical\s+Page\s+\d+\s*/\s*)?Leaf\s+p?\d+[^\]]*\]\n*", "", text, flags=re.IGNORECASE)
-    text = re.sub(r"\[Blank Leaf\]\n*", "", text, flags=re.IGNORECASE)
-    text = re.sub(r"===\s*LEAF\s+p?\d+\s*===\n*", "", text, flags=re.IGNORECASE)
-    text = re.sub(r"\*?\(\*?(?:Physical Page|Physical pp\.|Physical Leaf|Leaf\s+p?)[^)]*\)?\*?\n*", "", text, flags=re.IGNORECASE)
-
-    # 5. Strip intermediate cohort footnote sections and headers
-    text = re.sub(r"##\s+(?:Scholarly Critical Apparatus & Footnotes|Footnotes)\s*\n(?:\[\^\d+\]:.*?\n*)+", "", text, flags=re.IGNORECASE)
-    text = re.sub(r"^#+\s*Cohort\s+\d+\s+Footnotes.*?\n*", "", text, flags=re.MULTILINE | re.IGNORECASE)
-
-    # 6. Clean horizontal rules that were used strictly as leaf dividers
-    text = re.sub(r"\n---\s*\n(?=\s*\n)", "\n", text)
-
-    # 7. Clean excess blank lines
-    text = re.sub(r"\n{3,}", "\n\n", text)
-    return text.strip()
+    """Backwards-compatible wrapper."""
+    cleaned, _ = stitch_leaf_stream(text)
+    return cleaned
 
 def stitch_cohort_boundaries(cohort_texts: List[str]) -> str:
-    """Combines cohort texts, rejoining sentences split across file boundaries."""
-    stitched_parts: List[str] = []
-
-    for i, raw_text in enumerate(cohort_texts):
-        cleaned = strip_academic_placeholders(raw_text)
-        if not cleaned:
-            continue
-
-        if not stitched_parts:
-            stitched_parts.append(cleaned)
-            continue
-
-        prev_text = stitched_parts[-1]
-        prev_lines = prev_text.splitlines()
-        curr_lines = cleaned.splitlines()
-
-        last_line = prev_lines[-1].strip() if prev_lines else ""
-        first_line = curr_lines[0].strip() if curr_lines else ""
-
-        # Check if last line of previous cohort cuts off mid-sentence
-        is_cut_sentence = False
-        if last_line and not last_line.startswith("#") and not last_line.startswith(">"):
-            if not any(last_line.endswith(p) for p in [".", "!", "?", ":", ";", '"', "”", "'", "’", "*", "—"]):
-                if first_line and not first_line.startswith("#") and not first_line.startswith(">") and not first_line.startswith("*"):
-                    is_cut_sentence = True
-
-        if is_cut_sentence:
-            prev_lines[-1] = last_line + " " + first_line
-            stitched_parts[-1] = "\n".join(prev_lines)
-            if len(curr_lines) > 1:
-                stitched_parts.append("\n".join(curr_lines[1:]))
-        else:
-            stitched_parts.append(cleaned)
-
-    return "\n\n---\n\n".join(stitched_parts)
+    """Backwards-compatible wrapper."""
+    return purge_scaffolding_and_stitch_seams(cohort_texts)
 
 def format_liturgical_typography(text: str) -> str:
     """Enhances liturgical dialogue formatting, blockquotes, and rubrical notes."""
@@ -403,8 +488,8 @@ class UniversalPublicationEngine:
             found_idx = -1
             for idx, line in enumerate(lines):
                 if re.search(pat, line.strip(), re.IGNORECASE):
-                    # For Part 6 table of contents, Dolnytsky's historical index is after line 8000
-                    if self.monument_id == "1899_dolnytsky_typikon" and pid == "part6" and idx < 8000:
+                    # For Part 6 table of contents, Dolnytsky's historical index is in the final portion
+                    if self.monument_id == "1899_dolnytsky_typikon" and pid == "part6" and idx < len(lines) * 0.7:
                         continue
                     found_idx = idx
                     break

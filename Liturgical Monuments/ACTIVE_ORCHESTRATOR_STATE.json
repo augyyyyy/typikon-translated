@@ -28,12 +28,13 @@
     23,
     24,
     25,
-    26
+    26,
+    27
   ],
-  "translated_pages": 260,
-  "remaining_pages": 910,
-  "current_cohort": 27,
-  "current_cohort_range": "pp. 261-270 (leaves p261-p270)",
+  "translated_pages": 270,
+  "remaining_pages": 900,
+  "current_cohort": 28,
+  "current_cohort_range": "pp. 271-280 (leaves p271-p280)",
   "small_pause_gate_status": "AWAITING_SUBAGENT_EXECUTION",
   "active_blockers": []
 }
