@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-10-08T06:39:41.069995+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 63,
+  "target_file": "1888_violakis_typikon_cohort63_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort63_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort63_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort63_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort63_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 5,
+      "definition_markers_count": 5,
+      "text_markers": [
+        "[^370]",
+        "[^371]",
+        "[^372]",
+        "[^373]",
+        "[^374]"
+      ],
+      "definition_markers": [
+        "[^370]",
+        "[^371]",
+        "[^372]",
+        "[^373]",
+        "[^374]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort63_raw_draft.md",
+      "passed": true,
+      "paragraphs": 92,
+      "headings_count": 30,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Month of July: Sunday of the Holy Fathers of the Fourth Ecumenical Council (Chalcedon, Concl. §§ 1–3); Holy Great-Martyr Marina (July 17, Heading, § 1, § 2 Opening)"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Τῇ Κυριακῇ τῶν Ἁγίων Πατέρων τῆς Δ΄ Οἰκουμενικῆς Συνόδου (Τέλος §§ 1–3)· Τῇ ΙΖ΄: Τῆς Ἁγίας μεγαλομάρτυρος Μαρίνης (Ἐπιγραφή, § 1, § 2 Ἀρχὴ) [Violakis, p. 606]"
+        },
+        {
+          "line": 13,
+          "level": 3,
+          "title": "Τῇ ΙΖ΄. Τῆς Ἁγίας μεγαλομάρτυρος Μαρίνης."
+        },
+        {
+          "line": 21,
+          "level": 1,
+          "title": "Month of July: Sunday of the Holy Fathers of the Fourth Ecumenical Council (Chalcedon, Concl. §§ 1–3); Holy Great-Martyr Marina (July 17, Heading, § 1, § 2 Opening)"
+        },
+        {
+          "line": 23,
+          "level": 2,
+          "title": "Sunday of the Holy Fathers of the Fourth Ecumenical Council (Concl. §§ 1–3); July 17: The Holy Great-Martyr Marina (Heading, § 1, § 2 Opening) [Violakis, p. 607]"
+        },
+        {
+          "line": 31,
+          "level": 3,
+          "title": "July 17: The Holy Great-Martyr Marina"
+        },
+        {
+          "line": 39,
+          "level": 1,
+          "title": "Month of July: Holy Great-Martyr Marina (July 17, Concl. § 2); Holy Prophet Elias the Thesbite (July 20, Heading, §§ 1–2, § 3 Opening)"
+        },
+        {
+          "line": 41,
+          "level": 2,
+          "title": "Τῇ ΙΖ΄: Τῆς Ἁγίας μεγαλομάρτυρος Μαρίνης (Τέλος § 2)· Τῇ Κ΄: Τοῦ ἁγίου προφήτου Ἠλιοὺ τοῦ Θεσβίτου (Ἐπιγραφή, §§ 1–2, § 3 Ἀρχὴ) [Violakis, p. 608]"
+        },
+        {
+          "line": 45,
+          "level": 3,
+          "title": "Τῇ Κ΄. Τοῦ ἁγίου προφήτου Ἠλιοὺ τοῦ Θεσβίτου."
+        },
+        {
+          "line": 55,
+          "level": 1,
+          "title": "Month of July: Holy Great-Martyr Marina (July 17, Concl. § 2); Holy Prophet Elias the Thesbite (July 20, Heading, §§ 1–2, § 3 Opening)"
+        },
+        {
+          "line": 57,
+          "level": 2,
+          "title": "July 17: The Holy Great-Martyr Marina (Concl. § 2); July 20: The Holy Prophet Elias the Thesbite (Heading, §§ 1–2, § 3 Opening) [Violakis, p. 609]"
+        },
+        {
+          "line": 61,
+          "level": 3,
+          "title": "July 20: The Holy Prophet Elias the Thesbite"
+        },
+        {
+          "line": 71,
+          "level": 1,
+          "title": "Month of July: Holy Prophet Elias the Thesbite (July 20, Concl. § 3 Concl., § 4); Dormition of Saint Anna, Mother of the Theotokos (July 25, Heading, §§ 1–2, § 3 Opening)"
+        },
+        {
+          "line": 73,
+          "level": 2,
+          "title": "Τῇ Κ΄: Τοῦ ἁγίου προφήτου Ἠλιοὺ τοῦ Θεσβίτου (Τέλος § 3, § 4)· Τῇ ΚΕ΄: Ἡ Κοίμησις τῆς ἁγίας Ἄννης, μητρὸς τῆς Θεοτόκου (Ἐπιγραφή, §§ 1–2, § 3 Ἀρχὴ) [Violakis, p. 610]"
+        },
+        {
+          "line": 79,
+          "level": 3,
+          "title": "Τῇ ΚΕ΄. Ἡ Κοίμησις τῆς ἁγίας Ἄννης, μητρὸς τῆς Θεοτόκου."
+        }
+      ],
+      "numbered_items_count": 38,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 621,
+        "max_leaf": 630
+      },
+      "anomalies": []
+    }
+  }
+}
