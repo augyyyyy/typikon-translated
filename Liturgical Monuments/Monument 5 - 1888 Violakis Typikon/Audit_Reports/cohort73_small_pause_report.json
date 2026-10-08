@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-10-08T08:06:49.531221+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 73,
+  "target_file": "1888_violakis_typikon_cohort73_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort73_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort73_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort73_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort73_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 5,
+      "definition_markers_count": 5,
+      "text_markers": [
+        "[^420]",
+        "[^421]",
+        "[^422]",
+        "[^423]",
+        "[^424]"
+      ],
+      "definition_markers": [
+        "[^420]",
+        "[^421]",
+        "[^422]",
+        "[^423]",
+        "[^424]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort73_raw_draft.md",
+      "passed": true,
+      "paragraphs": 131,
+      "headings_count": 22,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Great Lent: Wednesday, Friday, and Saturday of Second Week (§§ 32–34 Opening)"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Τετάρτη, Παρασκευὴ καὶ Σάββατον τῆς Β΄ Ἑβδομάδος (§§ 32–34 Ἀρχή) [Violakis, p. 706]"
+        },
+        {
+          "line": 26,
+          "level": 1,
+          "title": "Great Lent: Wednesday, Friday, and Saturday of Second Week (§§ 32–34 Opening)"
+        },
+        {
+          "line": 28,
+          "level": 2,
+          "title": "Wednesday, Friday, and Saturday of the Second Week of Great Lent (§§ 32–34 Opening) [Violakis, p. 707]"
+        },
+        {
+          "line": 47,
+          "level": 1,
+          "title": "Great Lent: Second Saturday Concluded and Second Sunday of Lent (§§ 34 Concluded, 35, 36 Opening)"
+        },
+        {
+          "line": 49,
+          "level": 2,
+          "title": "Τέλος τοῦ Β΄ Σαββάτου καὶ Κυριακὴ Β΄ τῶν Νηστειῶν (§§ 34 Τέλος, 35, 36 Ἀρχή) [Violakis, p. 708]"
+        },
+        {
+          "line": 65,
+          "level": 1,
+          "title": "Great Lent: Second Saturday Concluded and Second Sunday of Lent (§§ 34 Concluded, 35, 36 Opening)"
+        },
+        {
+          "line": 67,
+          "level": 2,
+          "title": "Second Saturday Concluded and Second Sunday of Great Lent (§§ 34 Concluded, 35, 36 Opening) [Violakis, p. 709]"
+        },
+        {
+          "line": 84,
+          "level": 1,
+          "title": "Great Lent: Second Sunday Concluded and Third Sunday of Lent (§§ 36 Concluded, 37, 38, 39 Opening)"
+        },
+        {
+          "line": 86,
+          "level": 2,
+          "title": "Τέλος τῆς Β΄ Κυριακῆς καὶ Κυριακὴ Γ΄ τῶν Νηστειῶν (Σταυροπροσκυνήσεως) (§§ 36 Τέλος, 37, 38, 39 Ἀρχή) [Violakis, p. 710]"
+        },
+        {
+          "line": 109,
+          "level": 1,
+          "title": "Great Lent: Second Sunday Concluded and Third Sunday of Lent (§§ 36 Concluded, 37, 38, 39 Opening)"
+        },
+        {
+          "line": 111,
+          "level": 2,
+          "title": "Second Sunday Concluded and Third Sunday of Great Lent (Veneration of the Cross) (§§ 36 Concluded, 37, 38, 39 Opening) [Violakis, p. 711]"
+        },
+        {
+          "line": 134,
+          "level": 1,
+          "title": "Great Lent: Third Sunday of Lent (Matins of the Holy Cross and Solemn Procession) (§ 39 Continued)"
+        },
+        {
+          "line": 136,
+          "level": 2,
+          "title": "Ὄρθρος τῆς Κυριακῆς τοῦ Σταυροῦ καὶ Τελετὴ τῆς Σταυροπροσκυνήσεως (§ 39 Συνέχεια) [Violakis, p. 712]"
+        },
+        {
+          "line": 148,
+          "level": 1,
+          "title": "Great Lent: Third Sunday of Lent (Matins of the Holy Cross and Solemn Procession) (§ 39 Continued)"
+        }
+      ],
+      "numbered_items_count": 26,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 721,
+        "max_leaf": 730
+      },
+      "anomalies": []
+    }
+  }
+}

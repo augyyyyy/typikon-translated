@@ -74,12 +74,13 @@
     69,
     70,
     71,
-    72
+    72,
+    73
   ],
-  "translated_pages": 720,
-  "remaining_pages": 450,
-  "current_cohort": 73,
-  "current_cohort_range": "pp. 721-730 (leaves p721-p730)",
+  "translated_pages": 730,
+  "remaining_pages": 440,
+  "current_cohort": 74,
+  "current_cohort_range": "pp. 731-740 (leaves p731-p740)",
   "small_pause_gate_status": "AWAITING_SUBAGENT_EXECUTION",
   "active_blockers": []
 }
