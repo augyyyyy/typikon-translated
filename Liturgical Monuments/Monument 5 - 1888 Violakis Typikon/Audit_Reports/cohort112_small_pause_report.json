@@ -1,0 +1,153 @@
+{
+  "timestamp": "2026-10-08T13:50:10.236119+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 112,
+  "target_file": "1888_violakis_typikon_cohort112_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort112_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort112_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort112_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort112_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 10,
+      "definition_markers_count": 10,
+      "text_markers": [
+        "[^661]",
+        "[^662]",
+        "[^663]",
+        "[^664]",
+        "[^665]",
+        "[^666]",
+        "[^667]",
+        "[^668]",
+        "[^669]",
+        "[^670]"
+      ],
+      "definition_markers": [
+        "[^661]",
+        "[^662]",
+        "[^663]",
+        "[^664]",
+        "[^665]",
+        "[^666]",
+        "[^667]",
+        "[^668]",
+        "[^669]",
+        "[^670]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort112_raw_draft.md",
+      "passed": true,
+      "paragraphs": 143,
+      "headings_count": 21,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Prostration – Protheoria – Prothesis Part 1) [Demos, p. 1096 / TD-117]"
+        },
+        {
+          "line": 23,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 25,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Prothesis Concluded Part 2 – Protomartyr – Protonotarios – Protopsaltis – Protothrone – Psalm Part 1) [Demos, p. 1097 / TD-118]"
+        },
+        {
+          "line": 45,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 47,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Psalm Continued Part 2 – Chapter Divisions: Septuagint vs. Masoretic Text Part 1) [Demos, p. 1098 / TD-119]"
+        },
+        {
+          "line": 55,
+          "level": 3,
+          "title": "Chapter Divisions: Septuagint vs. Masoretic Text"
+        },
+        {
+          "line": 72,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 74,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Chapter Divisions: Septuagint vs. Masoretic Text Concluded Part 2 – Psalm 50 – Psalm 103 – Psalm 118 Part 1) [Demos, p. 1099 / TD-120]"
+        },
+        {
+          "line": 105,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 107,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Psalm 118 Concluded Part 2 – Psalm 119 – Psalter Part 1) [Demos, p. 1100 / TD-121]"
+        },
+        {
+          "line": 139,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 141,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Psalter Concluded Part 2 – Psaltirion – Pulpit – Ravdos – Reader – Recovery – Refectory) [Demos, p. 1101 / TD-122]"
+        },
+        {
+          "line": 169,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 171,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Relics – Renewal Week – Repose – Righteous Saint – Ripidion – Rite – Royal Door – Royal Gate – Royal Office Part 1) [Demos, p. 1102 / TD-123]"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 1111,
+        "max_leaf": 1120
+      },
+      "anomalies": []
+    }
+  }
+}
