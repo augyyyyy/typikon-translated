@@ -1,0 +1,153 @@
+{
+  "timestamp": "2026-10-08T13:58:37.352844+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 113,
+  "target_file": "1888_violakis_typikon_cohort113_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort113_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort113_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort113_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort113_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 10,
+      "definition_markers_count": 10,
+      "text_markers": [
+        "[^671]",
+        "[^672]",
+        "[^673]",
+        "[^674]",
+        "[^675]",
+        "[^676]",
+        "[^677]",
+        "[^678]",
+        "[^679]",
+        "[^680]"
+      ],
+      "definition_markers": [
+        "[^671]",
+        "[^672]",
+        "[^673]",
+        "[^674]",
+        "[^675]",
+        "[^676]",
+        "[^677]",
+        "[^678]",
+        "[^679]",
+        "[^680]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort113_raw_draft.md",
+      "passed": true,
+      "paragraphs": 91,
+      "headings_count": 20,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Scale Continued Part 2) [Demos, p. 1106 / TD-127]"
+        },
+        {
+          "line": 21,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 23,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Scale Concluded Part 3 – Byzantine Modal Scales Part 1) [Demos, p. 1107 / TD-128]"
+        },
+        {
+          "line": 39,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 41,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Byzantine Modal Scales Continued Part 2) [Demos, p. 1108 / TD-129]"
+        },
+        {
+          "line": 59,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 61,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Byzantine Modal Scales Continued Part 3) [Demos, p. 1109 / TD-130]"
+        },
+        {
+          "line": 79,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 81,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Byzantine Modal Scales Concluded Part 4 – Schima – Scholium – Sessional Hymn – Sexton) [Demos, p. 1110 / TD-131]"
+        },
+        {
+          "line": 101,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 103,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Skevophylakion Part 1) [Demos, p. 1111 / TD-132]"
+        },
+        {
+          "line": 115,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 117,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Skevophylakion Concluded Part 2 – Patriarchal Sakkoi Part 1) [Demos, p. 1112 / TD-133]"
+        },
+        {
+          "line": 133,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 1121,
+        "max_leaf": 1130
+      },
+      "anomalies": []
+    }
+  }
+}

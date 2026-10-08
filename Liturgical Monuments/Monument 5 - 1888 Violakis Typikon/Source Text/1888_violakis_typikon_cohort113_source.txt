@@ -1,0 +1,155 @@
+=== LEAF p1121 ===
+[Appendix: Extended Dictionary of Typikon Related Terms (Scale Continued Part 2) (p. 1106 / TD-127)]
+
+TD-127
+
+cal tonality; tonality, in music, is the quality by which all tones of a composition are heard in relation to a central tone called the keynote or tonic. The diatonic minor scale is based on t-s-t-t-s-t-t. This arrangement produces the lower third, sixth, and seventh degrees that are characteristic of the minor mode; the higher seventh degree, a semitone rather than a whole tone below the main note, or “tonic,” is often borrowed from the major mode for use at cadences. Until the end of the 19th century, the use and influence of the diatonic scale in Western music was therefore predominant.
+
+    Related to musical scales is the concept of key. In music, the term “key” is used to indicate the scale from which the tonal material of a given composition is derived. To say, for example, that a composition is in the key of C major means that it uses as its basic tonal material the intervals of that scale.
+
+    The idea of a key developed, whereby a home tone, or tonic, is the principal focus of a composition, and the various other tones assume importance according to their relationship to the tonic. The increasing complexity of instruments demanded more refined tuning system methods for assigning pitches to the twelve Western pitch names that constitute the octave. The term usually refers to this procedure in the tuning of keyboard instruments.
+
+    By J. S. Bach's time, equal temperament in music, the altering of certain intervals from their acoustically correct values to provide a system of tuning whereby music can move from key to key without unacceptably impure sonorities, had become established. The resulting scale, called chromatic, consisted of 12 notes divided by semitone intervals (the white and black notes of the keyboard). Although the diatonic scale is basically heptatonic (seven-noted), music, that is, in a usually major or minor tonality employs the remaining five tones of the chromatic scale as auxiliary or ornamental tones. Music that employs them freely is said to be highly chromatic, while music that employs them sparingly is said to be diatonic.
+
+    The 12 scales, one for each note as the home tone, plus the 12
+
+*(Printed Page TD-127)*
+
+=== LEAF p1122 ===
+[Appendix: Extended Dictionary of Typikon Related Terms (Scale Concluded Part 3 – Byzantine Modal Scales Part 1) (p. 1107 / TD-128)]
+
+TD-128
+
+concomitant minor scales remained the basic organizing structure of Western music until the system was challenged by the dodecaphonic (twelve-tone scale) composers, in particular Arnold Schoenberg 1874–1951, an Austrian composer born in Vienna. He revolutionized modern music by abandoning all tonality and developing a twelve-tone, “serial” technique of composition. Schoenberg worked into the mid-20th cent. In his compositions, he esablished the principle of atonality, which is the systematic avoidance of harmonic or melodic reference to tonal centers. The term is used to designate a method of composition in which the composer has deliberately rejected the principle of tonality.
+
+    The whole-tone scale, which divides the octave into six equal whole tones (C, D, E, F sharp, G sharp, and A sharp, on the piano), gives a feeling of vagueness that made it adaptable to impressionism; its possibilities were thoroughly explored in the works of Debussy. The pentatonic scale (the black keys of the piano illustrate one form) has long been thought of as having an Asian character because of the prevalence of pentatonic scales in Chinese, Japanese, and Javanese music. The most complex scales known belong to Arabian music, used in the classical musical tradition of the Islamic peoples of Arabia, the Fertile Crescent, and North Africa.
+
+*Byzantine Modal Scales. (See also MODE) (T. Bogdanos)
+
+    The musical scales of Byzantine sacred music (Byzantine Chant) are modal in character. They belong to eight modes: I, II, III, IV, I Plagal, II Plagal, III Plagal (Varys), and IV Plagal.
+
+    Though derived from the Ancient Greek modal system, both Byzantine and Western modes in the Middle Ages were different from their ancient counterparts in name as well as in their intervallic makeup. Having exerted a formative influence on Western plainchant (Gregorian Chant), Byzantine modal scales were quite similar to those of the West in the Middle Ages and, like them, essentially diatonic. As a result of the increasing exposure to Arabic musical culture, especially during the four-century Ottoman occupation of the Byzan-
+
+*(Printed Page TD-128)*
+
+=== LEAF p1123 ===
+[Appendix: Extended Dictionary of Typikon Related Terms (Byzantine Modal Scales Continued Part 2) (p. 1108 / TD-129)]
+
+TD-129
+
+tine empire (1453-1821), the scales of Byzantine sacred music became increasingly chromatic. Thus, whereas the 14th-century scale of Mode II Plagal was diatonic—E, F, G, A, B, C, D, E′—by the end of the 18th century, this scale became fully chromatic—E, F, G#, A, B, C, D (#), E′—with a different melodic range (ἔκτασις) and dominant tones (δεσπόζοντες φθόγγοι). See MODE. Because of these pervasive changes, the period from the 16th century to the present day has been more accurately called Post-Byzantine.
+
+    With the advent of chromaticism, the scales of Post-Byzantine Chant became more intricate, employing intervals smaller than the half step and larger than the whole step of the Western tempered scale. This was accomplished by the addition or subtraction of a microtone to or from a normal interval. These microtonally shaped scales obviously cannot be played on a tempered instrument like the piano.
+
+    While Western music has two scales—major and minor—Post-Byzantine sacred music employs four inclusive scales called genera (γένη), plural for genus (γένος): the Diatonic Genus, the Enharmonic Genus, the Hard Chromatic Genus, and the Soft Chromatic Genus.
+
+    (1) The Diatonic Genus, in its middle octave, begins on C and ends on C′, with the pitches E and B slightly flatter—microtonally—than the E and B of the Western tempered scale. To this genus belong the scales of the following modes: First, First Plagal, Fourth Plagal (with an occasional minor seventh—C, D, E, F, G, A, B (B-flat), C′, and Fourth (the papadic Fourth Mode has a minor seventh and occasionally a minor third—G, A, B (B-flat), C, C, E, F-natural, G′.
+
+    It should be borne in mind that a mode is made up of a specific scale as well as a group of traditionally established melodic phrases or formulas characteristic of that particular mode (see MODE).
+
+    (2) The Enharmonic Genus is tuned exactly like the Western
+
+*(Printed Page TD-129)*
+
+=== LEAF p1124 ===
+[Appendix: Extended Dictionary of Typikon Related Terms (Byzantine Modal Scales Continued Part 3) (p. 1109 / TD-130)]
+
+TD-130
+
+major scale. It is the only genus that can be played accurately on a tempered keyboard instrument or a fretted string instrument (e.g. mandolin, guitar). To the Enharmonic Genus belong the scales of the Third and Third Plagal (Varys) Modes with the exception of the papadic (melismatic) diatonic Varys Mode.
+
+    (3) The Hard Chromatic Genus is well represented by the scale of two disjunct (unconnected to each other), identical tetrachords: d, e, f, g and a, b, c, d. Their second pitches (E and B) are flatter than the e-flat and b-flat of Western music, while their third pitches f and c are sharper than the F-sharp and C-sharp in Western music. To the Hard Chromatic Genus belong the scales of the papadic and sticheraric Second Plagal Mode and the heirmologic Second Mode.
+
+    (4) The Soft Chromatic Genus is well represented by a scale of two disjunct (unconnected to each other), identical tetrachords: the first being C, D, E, F, and the second being G, A, B, C. Their second pitches (D and A) are intervalically larger than the D-flat and A-flat yet smaller than the D-natural and A-natural of Western music by a third of a tone (i.e. a microtone). They are therefore notated as D-crossed flat (𝄫) and A-crossed flat (𝄫).
+
+    To the Soft Chromatic Genus belong the scales of the papadic and sticheraric Second Mode, the heirmologic Second Plagal Mode, and occasionally the heirmologic Fourth Mode.
+
+    Unless he can read Post-Byzantine neumes—a rather infrequent skill—the present-day church musician learns his chant transcribed into Western stave notation with the aid of a tempered keyboard instrument (e.g. piano or organ). Consequently, scales conceived initially as microtonal are now rendered in tempered approximations. In Post-Byzantine Chant, most of the time, the intervalic distance between the initial microtonal scale and its tempered rendition is not perceptible enough to alter the ethos or character of the initial microtonal melody and its scale.
+
+    The Soft Chromatic Genus, being the most difficult facet of Post-
+
+*(Printed Page TD-130)*
+
+=== LEAF p1125 ===
+[Appendix: Extended Dictionary of Typikon Related Terms (Byzantine Modal Scales Concluded Part 4 – Schima – Scholium – Sessional Hymn – Sexton) (p. 1110 / TD-131)]
+
+TD-131
+
+Byzantine Chant to transcribe into a Western tempered scale, demands a more calculated adjustment. The D-crossed flat and the A-crossed flat, though lower, are intervalically closer to the D-natural and the A-natural of the Western tempered scale. At the same time, the D-crossed flat and the A-crossed flat, though higher, are intervalically more distant than the D-flat and A-flat of the Western tempered scale. It is, therefore, more accurate to sing these pitches as D-natural and A-natural. The choice is often decided by the movement of the melody: If the D-crossed flat and the A-crossed flat are followed by a descending note, they are sung as a D-flat and A-flat. If followed by an ascending note, these pitches are sung as D-natural and A-natural.
+
+    The foregoing is a summary of the genera and the scales of the eight modes of Post-Byzantine chant sung in the Greek Orthodox Church today.
+
+    For a more extensive discussion see the 4 references on Byzantine Chant by Chrysanthos, F. Desby, H. Powers, and P. Jeffery in the Bibliography.
+
+SCHIMA (σχῆμα, τό): Lit. ‘form’ or ‘shape.’ A slight bow. In Orthodox monastic usage, the Schima is also the habit of a monk. It is also one of the ranks in monasticism, i.e., a schema monk.
+
+SCHOLIUM, pl. SCHOLIA: In antiquity these terms were marginal explanatory notes or commentary in manuscripts. Generally while they may have been appended at some earlier time, the scribes would often copy them on subsequent manuscript copies and they thus became part of the manuscript tradition at least until the age of printing.
+
+SESSIONAL HYMN Slav. Sedalen: See KATHISMA HYMN.
+
+SEXTON (νεωκόρος, ὁ) Slav. Pricetnik: An employee or officer of the church, who is in charge of the care of the church building and various sacred objects such as the relics, vessels, vestments, etc., belonging to the church. The Sexton may assist the officiating clergyman, and perform other duties pertaining to the church, such as ringing the bells, lighting or extinguishing candles etc.
+
+*(Printed Page TD-131)*
+
+=== LEAF p1126 ===
+[Appendix: Extended Dictionary of Typikon Related Terms (Skevophylakion Part 1) (p. 1111 / TD-132)]
+
+TD-132
+
+SKEVOPHYLAKION (Σκευοφυλάκιον, τό): The Treasury. Today, this area is known as the DIAKONIKON, or SACRISTY. It is an area or utility room on the south side of the sanctuary where liturgical vestments, sacred vessels, holy relics, and crosses are kept and where the clergy may vest for services (a vestry). In the early church, the Skevophylakion was a separate structure near the eastern end of the main church building. It was from this structure that the required sacred items were carried into the church in procession. In todays church, the various processions are reminiscent of this ancient practice. (Revised from FL)
+
+    The Patriarchal Treasury of today contains a reduced number of embroidered vestments, primarily of the last three centuries, used by Patriarchs, Synodical clergymen, priests and deacons. Nothing has survived from the Byzantine age. The devastating fires and other calamities, as well as the offering of generous gifts to Orthodox rulers and church dignitaries, particularly of Russia, both before and after the Ottoman Conquest, have depleted the Patriarchal Treasury. Whatever has survived from the Byzantine era is today housed in museums and Orthodox monasteries all over the world. For example, the SAKKOS attributed to the Emperor Nicephoros II Phokas (963-969) as well as that of Emperor John I Tzimiskes (969-976) are known to be kept in the Great Lavra at Mount Athos, and the Iviron Monastery, respectively. Also the following items are known to be in the Synodical sacristy of the Patriarchate of Moscow: Two gold embroidered sakkoi including the Emperor’s portrait, presented to Photios Metropolitan of Moscow (1408-1431) by John VIII Palaeologos (1425-1448); the SAKKOS of the Ecumenical Patriarch Parthenios II (1644-1646 and 1648-1650), which along with five other sakkoi, OMOPHORIA, EPIGONATIA and a gold cross containing a fragment of the True Cross, all belonging to Parthenios II, were sold in 1654 by Greek merchants to the Tsar of Russia who presented them to Nikon, Patriarch of Moscow. The sakkos and ENGOLPION of the Patriarch Cyril I Lucaris, purchased by the Tsar Alexius I in 1655, as a gift to Joasaph, Patriarch of Moscow are also in the patriarchal treasury. Many church dignitaries bequeathed to the Patriarchate, to Orthodox monasteries or to relatives and friends their vestments, pectorals and other relics. The great number and sumptuousness of the items contained in two lists is astonishing in-
+
+*(Printed Page TD-132)*
+
+=== LEAF p1127 ===
+[Appendix: Extended Dictionary of Typikon Related Terms (Skevophylakion Concluded Part 2 – Patriarchal Sakkoi Part 1) (p. 1112 / TD-133)]
+
+TD-133
+
+deed: vestments, crosses, pectoral medallions, pastoral staffs, bishops', priests' and deacons' stoles, girdles, and other accessories, and gold and silver vessels. The first of these catalogues, signed by the Ecumenical Patriarch in 1714, lists the offerings presented at times to the Patriarchate. The second enumerates twenty-five objects plus one mitre adorned with diamonds and pearls and a pectoral medallion with diamonds that had belonged to Leontios Metropolitan of Heliopolis and were presented by the prelate's brother Hadji-Joasaph, in his memory, to the Monastery of the Great Lavra at Mount Athos 1803.
+
+    The embroidery ateliers of Constantinople and later of Trebizond and Smyrna, are famous for their fine gold and silver wire needlework on precious woven fabrics and silks from Brusa and their production of gold-embroidered hierarchical and liturgical vestments that are true works of art. Some of these outstanding works have survived and so have the names of the best known embroideresses: Despoineta, Mariora, Euphrosyne Agatha, Sorhia, Theodosia and Daphnitsa. After the 18th century, in addition to the celebrated ateliers for the production of hieratic vestments in Constantinople and Asia Minor, similar ateliers were also active in Russia and Vienna.
+
+    *Patriarchal sakkoi*: The SAKKOS (short tunic with wide half-sleeves) of the prelates was originally an imperial garment. It was only in exceptional cases that Emperors allowed Patriarchs and hierarchs to wear it. After the Conquest it became the practice for all prelates to wear the sakkos, which replaced the polystavrion phelonion (chasuble ornamented with crosses). In the Patriarchal Treasury are kept the famous sakkoi known as “of Tiberias”, “of the Tree of Jesse”, “of the enamels”, “of the eagle” (two sakkoi), “of the Evangelist Matthew” etc., which are now used by the present Ecumenical Patriarch Demetrios. The “sakkos of Tiberias”: This precious sakkos is embroidered with two scenes from the Appearance of Christ, after His Resurrection, to the Disciples fishing in the Sea of Tiberias. The event is described in the Gospel according to St. John (21:1-14) and in the 10th Eastern hymn which begins with the words “Sea of Tiberias...” The scene on the back of the sakkos, embroidered with gold and silver threads against the whitish background of the pure silk material, shows Christ on
+
+*(Printed Page TD-133)*
+
+=== LEAF p1128 ===
+[Appendix: Extended Dictionary of Typikon Related Terms (Patriarchal Sakkoi Continued Part 2) (p. 1113 / TD-134)]
+
+TD-134
+
+the shore of the lake prompting the tired Disciples, who had caught nothing the whole night through, to cast their fishing-nets again. The “cheerless” scene, embroidered in vivid colours, is framed by two tall palm trees. The sky above is filled with stars, a crescent moon and clouds. Under the scene an inscription reads: “It was the property of the late Dionysius of Ephesus. 4 March 1810.” The miraculous draught of fish is depicted on the front of the sakkos. The fishing-nets, filled to bursting, are hauled with great effort by the Apostles under the directions of Christ. Before the standing figure of the Lord, there is a loaf of bread and a fire of glowing embers, over which a fish is being cooked. The scenery now is different. A brilliant sun with golden rays rises between two trees with large foliage. Under the scene an inscription informs us: “Repaired in the patriarchy of Dionysius of Adrianople. 1888.”
+
+    The “sakkos of Tiberias”, distinguished for the originality of its subject, is considered a master piece of Constantinopolitan embroidery. According to the notes of Gennadios Metropolitan of Heliopolis, this sakkos “was embroidered by Daphnitsa of the well-known Psaroudes family from Therapia, who was renowned as an embroideress of hierarchical vestments” (Orthodoxy, 24 (1949) 81). The sakkos belonged to Dionysios Calliades Metropolitan of Ephesus, who died in 1821.
+
+    The “sakkos of the Tree of Jesse”: The embroidery on the sumptuous crimson-coloured fabric shows “the Tree of Jesse” on the back and “the Glorious Second Coming of Christ” on the front. Gold threads are used for the tree of the first representation and the background of the second, whereas the dresses of the figures are highlighted in vivid colours. Gold-embroidered lilies adorn the borders of the vestment. The first scene conforms to the Byzantine iconographic tradition. The root of the tree is Jesse, the founder of the House of David, Christ's ancestor.
+
+    The ten medallions, symmetrically hanging from the branches of the tree and containing bust portrayals of Old Testament figures holding scrolls, while Christ is pictured at the top making the sign of blessing. The second scene shows the Glorious Second Coming of Christ. Against a resplendent gold background, Christ, flanked by the Holy Virgin and St.
+
+*(Printed Page TD-134)*
+
+=== LEAF p1129 ===
+[Appendix: Extended Dictionary of Typikon Related Terms (Patriarchal Sakkoi Concluded Part 3) (p. 1114 / TD-135)]
+
+TD-135
+
+John the Baptist, is portrayed raising the right hand in benediction. A great number of saints can be seen below, between clouds. This explains why some earlier researchers had called this vestment “sakkos of the All-Saints”. In addition to the two principal scenes, this sakkos is adorned with four medallions at the front and two at the back with scenes from the cycle of the Passion: the Raising of Lazarus, the Entry into Jerusalem, the Last Supper, Ecce Homo, the Crucifixion and the Lamentation at the Tomb. All the scenes are rendered in a westernized style. The sakkos is a gift of Callinicos Patriarch of Alexandria (1858-1861). (From the Patriarchal website: http://www.patriarchate.org/ecumenical_patriarchate/chapter_3/Hierarchical_vestments.html)
+
+    This sakkos (dalmatic) is sewn in the traditional Byzantine manner, with wide sleeves formed from two straight pieces of cloth stitched to the body of the robe at the shoulders and fastened with round buttons down the sides (Johnstone 1967, figs. 1, 7, 11). The material is a luxurious double damask woven in gold and silver thread in a pattern of medallions framing busts of Christ as the Great High Priest, alternating on the horizontal rows with seraphs in smaller circlets. The intermediary spaces are ornamented with crosses fleury. Christ is depicted wearing a sakkos decorated with crosses in medallions and an OMOPHORION with large crosses, over a long-sleeved inner garment. He has a cruciate halo around which is woven (in reverse) the inscription: ‘Jesus Christ, the Great High Priest’. The monograms around the cross, ‘Jesus Christ Conquers’, are also woven back to front. The sakkos is made from one of a small number of fabrics decorated with Christian iconography produced, doubtless to order, by weavers in Bursa or Constantinople (cf. Pyles Mysteriou 1994, no. 129). These looms executed the usually pressing commissions from the Sublime Porte, but their textiles were also sold on the open market and exported to southern Russia, Poland and Venice (Inalcik EI². See also Patrinelis 1988-9, Sahillioglu 1985). At least three other known textiles have variations on this theme of Christ the Great High Priest within medallions, but with the inscriptions woven correctly: these are in the Benaki Museum (inv. no. 3871) in Athens, the Solka Monastery and the Putna Monastery in Romania (Barnea - Iliescu - Nicolescu 1971, no. 90, p. 128. Tafrali 1925, no. 116, pl. LIX). The last noted has the embroidered
+
+*(Printed Page TD-135)*
+
+=== LEAF p1130 ===
+[Appendix: Extended Dictionary of Typikon Related Terms (Patriarchal Sakkoi Postscript – Skufos – Small Entrance) (p. 1115 / TD-136)]
+
+TD-136
+
+date 1614: this is a terminus ante quem, being the date when it was sewn to other pieces of cloth to make a Felonion. On the basis of the evolution of Ottoman decorative motifs, most Ottoman fabrics are dated to the mid-sixteenth century or later (Mackie 1980, p. 352). The absence from this sakkos of any typically Ottoman ornamentation suggests a date in the first half of the sixteenth century. A document date 1548 attests that Ottoman merchants in Leontopolis (Lwow) were selling textiles ‘with crosses’ (Rogers - Tazcan - Delibas 1986, p. 29), which means that these had already been available on the domestic market for some time. An early dating is supported by the pattern of repeated medallions, already considered archaic in the fifteenth century (Geijer 1979, pp. 143, 146-8). This archaism may be interpreted either as an adherence to painted prototypes of this iconographic theme (Papamastorakis 1993-4) or as the survival of Late Byzantine models in a period not very far removed from the Fall of Constantinople. Tradition assigns this vestment to St Nephon, an Athonite monk who served as Patriarch three times (1486-9, 1497-8, 1502). After a brief sojourn in Wallachia, he returned to his own Monastery of Dionysiou where he remained until his death in 1508 (Actes de Dionysiou 1968, p. 18. Nasturel 1986, p. 142-4). There is nothing in the style or technique to refute this tradition, which would make the Dionysiou sakkos the oldest dated textile from the Bursa looms, and certainly the oldest in the series with Christian inscriptions. (Index of exhibits of the Monastery of Dionysiou, 16th century.)
+
+SKUFOS (σκοῦφος, ὁ): A hat or cap of soft black fabric, worn by a monastic.
+
+*SMALL ENTRANCE (Μικρὰ Εἴσοδος, ἡ): A procession in which the clergy, preceded by Acolytes, take the Holy Gospel from the ALTAR, exit the SANCTUARY through the north door, and move to the center of the SOLEAS, where they stop, facing the Altar. The clergyman carrying the Holy Gospel raises it and chants loudly: Σοφία. Ὀρθοί (Wisdom. Let us stand!) The clergy chant the ISODIKON (Entrance Hymn) before re-entering the Sanctuary through the BEAUTIFUL GATE. When a bishop is officiating in the Divine Liturgy, the ritual of the Small Entrance varies to some degree (see Appendix A in The Byzantine Liturgy: Hymnology and Order.
+
+*(Printed Page TD-136)*
