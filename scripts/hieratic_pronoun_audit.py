@@ -48,7 +48,7 @@ HUMAN_INDICATORS = re.compile(
     r'preacher|preachers|preaching|'
     r'man|men|mankind|creature|creatures|human|humanity|person|persons|'
     r'heretic|heretics|schismatic|schismatics|deceiver|deceivers|sinner|sinners|'
-    r'Satan|devil|demon|demons|Lucifer|adversary|evil one|'
+    r'Satan|devil|demon|demons|Lucifer|adversary|evil one|O Death|O Hades|'
     r'household|family|parent|parents|husband|wife|children|child|son|daughter|'
     r'servant|servants|handmaid|handmaids|serving|served|'
     r'flock|sheep|lay down|striketh|striking|repeateth|repeating|breast|'
