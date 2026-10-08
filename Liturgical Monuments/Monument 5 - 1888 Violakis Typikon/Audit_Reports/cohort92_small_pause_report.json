@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-10-08T10:57:12.021971+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 92,
+  "target_file": "1888_violakis_typikon_cohort92_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort92_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort92_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort92_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort92_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 5,
+      "definition_markers_count": 5,
+      "text_markers": [
+        "[^515]",
+        "[^516]",
+        "[^517]",
+        "[^518]",
+        "[^519]"
+      ],
+      "definition_markers": [
+        "[^515]",
+        "[^516]",
+        "[^517]",
+        "[^518]",
+        "[^519]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort92_raw_draft.md",
+      "passed": true,
+      "paragraphs": 222,
+      "headings_count": 40,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Appendix: Hourly Sequence for Beginning and Ending of Services of the Great Feasts"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Ὡρολόγιον τῆς ἐν τῇ Μ. Ἐκκλησίᾳ Ἐνάρξεως καὶ Ἀπολύσεως τῶν Ἀκολουθιῶν τῶν Μ. Ἑορτῶν (Συνέχεια καὶ Τέλος) [Violakis, p. 896]"
+        },
+        {
+          "line": 31,
+          "level": 1,
+          "title": "Appendix: Hourly Sequence for Beginning and Ending of Services of the Great Feasts"
+        },
+        {
+          "line": 33,
+          "level": 2,
+          "title": "Hourly Sequence for the Beginning and Ending of the Services of the Great Feasts in the Great Church (Conclusion) [Violakis, p. 897]"
+        },
+        {
+          "line": 72,
+          "level": 1,
+          "title": "Appendix: Register of Feasts at which the Patriarch Officiates"
+        },
+        {
+          "line": 74,
+          "level": 2,
+          "title": "Σημείωσις τῶν Ἑορτῶν καθ’ ἃς Χοροστατεῖ ὁ Πατριάρχης ἐν τῷ Πατριαρχικῷ Ναῷ (Μέρος Α΄) [Violakis, p. 898]"
+        },
+        {
+          "line": 76,
+          "level": 3,
+          "title": "ΣΗΜΕΙΩΣΙΣ ΤΩΝ ΕΟΡΤΩΝ ΚΑΘ’ ΑΣ ΧΟΡΟΣΤΑΤΕΙ Ο ΠΑΤΡΙΑΡΧΗΣ ΕΝ Τῼ ΠΑΤΡΙΑΡΧΙΚῼ ΝΑῼ"
+        },
+        {
+          "line": 112,
+          "level": 1,
+          "title": "Appendix: Register of Feasts at which the Patriarch Officiates"
+        },
+        {
+          "line": 114,
+          "level": 2,
+          "title": "Register of Feasts at Which the Patriarch Officiates in the Patriarchal Church (Part 1) [Violakis, p. 899]"
+        },
+        {
+          "line": 116,
+          "level": 3,
+          "title": "REGISTER OF FEASTS AT WHICH THE PATRIARCH OFFICIATES IN THE PATRIARCHAL CHURCH"
+        },
+        {
+          "line": 155,
+          "level": 1,
+          "title": "Appendix: Register of Feasts at which the Patriarch Officiates"
+        },
+        {
+          "line": 157,
+          "level": 2,
+          "title": "Σημείωσις τῶν Ἑορτῶν καθ’ ἃς Χοροστατεῖ ὁ Πατριάρχης (Μέρος Β΄) [Violakis, p. 900]"
+        },
+        {
+          "line": 164,
+          "level": 3,
+          "title": "Τῌ ΑΓΙᾼ ΚΑΙ Μ. ΤΕΣΣΑΡΑΚΟΣΤῌ"
+        },
+        {
+          "line": 179,
+          "level": 1,
+          "title": "Appendix: Register of Feasts at which the Patriarch Officiates"
+        },
+        {
+          "line": 181,
+          "level": 2,
+          "title": "Register of Feasts at Which the Patriarch Officiates (Conclusion & Lenten Order) [Violakis, p. 901]"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 911,
+        "max_leaf": 920
+      },
+      "anomalies": []
+    }
+  }
+}

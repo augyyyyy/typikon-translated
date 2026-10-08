@@ -6,7 +6,7 @@
 > **Source Codex**: `Historical Typikons/1888-Violakis-Typikon-Bilingual-Greek-English.pdf` (1170 physical pages)  
 > **Translation Standard**: Master Translation Standard (MTS-1)  
 > **Governing Register**: RUBRICAL  
-> **Assembled Cohorts**: ['1888_violakis_typikon_cohort1.md', '1888_violakis_typikon_cohort2.md', '1888_violakis_typikon_cohort3.md', '1888_violakis_typikon_cohort4.md', '1888_violakis_typikon_cohort5.md', '1888_violakis_typikon_cohort6.md', '1888_violakis_typikon_cohort7.md', '1888_violakis_typikon_cohort8.md', '1888_violakis_typikon_cohort9.md', '1888_violakis_typikon_cohort10.md', '1888_violakis_typikon_cohort11.md', '1888_violakis_typikon_cohort12.md', '1888_violakis_typikon_cohort13.md', '1888_violakis_typikon_cohort14.md', '1888_violakis_typikon_cohort15.md', '1888_violakis_typikon_cohort16.md', '1888_violakis_typikon_cohort17.md', '1888_violakis_typikon_cohort18.md', '1888_violakis_typikon_cohort19.md', '1888_violakis_typikon_cohort20.md', '1888_violakis_typikon_cohort21.md', '1888_violakis_typikon_cohort22.md', '1888_violakis_typikon_cohort23.md', '1888_violakis_typikon_cohort24.md', '1888_violakis_typikon_cohort25.md', '1888_violakis_typikon_cohort26.md', '1888_violakis_typikon_cohort27.md', '1888_violakis_typikon_cohort28.md', '1888_violakis_typikon_cohort29.md', '1888_violakis_typikon_cohort30.md', '1888_violakis_typikon_cohort31.md', '1888_violakis_typikon_cohort32.md', '1888_violakis_typikon_cohort33.md', '1888_violakis_typikon_cohort34.md', '1888_violakis_typikon_cohort35.md', '1888_violakis_typikon_cohort36.md', '1888_violakis_typikon_cohort37.md', '1888_violakis_typikon_cohort38.md', '1888_violakis_typikon_cohort39.md', '1888_violakis_typikon_cohort40.md', '1888_violakis_typikon_cohort41.md', '1888_violakis_typikon_cohort42.md', '1888_violakis_typikon_cohort43.md', '1888_violakis_typikon_cohort44.md', '1888_violakis_typikon_cohort45.md', '1888_violakis_typikon_cohort46.md', '1888_violakis_typikon_cohort47.md', '1888_violakis_typikon_cohort48.md', '1888_violakis_typikon_cohort49.md', '1888_violakis_typikon_cohort50.md', '1888_violakis_typikon_cohort51.md', '1888_violakis_typikon_cohort52.md', '1888_violakis_typikon_cohort53.md', '1888_violakis_typikon_cohort54.md', '1888_violakis_typikon_cohort55.md', '1888_violakis_typikon_cohort56.md', '1888_violakis_typikon_cohort57.md', '1888_violakis_typikon_cohort58.md', '1888_violakis_typikon_cohort59.md', '1888_violakis_typikon_cohort60.md', '1888_violakis_typikon_cohort61.md', '1888_violakis_typikon_cohort62.md', '1888_violakis_typikon_cohort63.md', '1888_violakis_typikon_cohort64.md', '1888_violakis_typikon_cohort65.md', '1888_violakis_typikon_cohort66.md', '1888_violakis_typikon_cohort67.md', '1888_violakis_typikon_cohort68.md', '1888_violakis_typikon_cohort69.md', '1888_violakis_typikon_cohort70.md', '1888_violakis_typikon_cohort71.md', '1888_violakis_typikon_cohort72.md', '1888_violakis_typikon_cohort73.md', '1888_violakis_typikon_cohort74.md', '1888_violakis_typikon_cohort75.md', '1888_violakis_typikon_cohort76.md', '1888_violakis_typikon_cohort77.md', '1888_violakis_typikon_cohort78.md', '1888_violakis_typikon_cohort79.md', '1888_violakis_typikon_cohort80.md', '1888_violakis_typikon_cohort81.md', '1888_violakis_typikon_cohort82.md', '1888_violakis_typikon_cohort83.md', '1888_violakis_typikon_cohort84.md', '1888_violakis_typikon_cohort85.md', '1888_violakis_typikon_cohort86.md', '1888_violakis_typikon_cohort87.md', '1888_violakis_typikon_cohort88.md', '1888_violakis_typikon_cohort89.md', '1888_violakis_typikon_cohort90.md', '1888_violakis_typikon_cohort91.md']  
+> **Assembled Cohorts**: ['1888_violakis_typikon_cohort1.md', '1888_violakis_typikon_cohort2.md', '1888_violakis_typikon_cohort3.md', '1888_violakis_typikon_cohort4.md', '1888_violakis_typikon_cohort5.md', '1888_violakis_typikon_cohort6.md', '1888_violakis_typikon_cohort7.md', '1888_violakis_typikon_cohort8.md', '1888_violakis_typikon_cohort9.md', '1888_violakis_typikon_cohort10.md', '1888_violakis_typikon_cohort11.md', '1888_violakis_typikon_cohort12.md', '1888_violakis_typikon_cohort13.md', '1888_violakis_typikon_cohort14.md', '1888_violakis_typikon_cohort15.md', '1888_violakis_typikon_cohort16.md', '1888_violakis_typikon_cohort17.md', '1888_violakis_typikon_cohort18.md', '1888_violakis_typikon_cohort19.md', '1888_violakis_typikon_cohort20.md', '1888_violakis_typikon_cohort21.md', '1888_violakis_typikon_cohort22.md', '1888_violakis_typikon_cohort23.md', '1888_violakis_typikon_cohort24.md', '1888_violakis_typikon_cohort25.md', '1888_violakis_typikon_cohort26.md', '1888_violakis_typikon_cohort27.md', '1888_violakis_typikon_cohort28.md', '1888_violakis_typikon_cohort29.md', '1888_violakis_typikon_cohort30.md', '1888_violakis_typikon_cohort31.md', '1888_violakis_typikon_cohort32.md', '1888_violakis_typikon_cohort33.md', '1888_violakis_typikon_cohort34.md', '1888_violakis_typikon_cohort35.md', '1888_violakis_typikon_cohort36.md', '1888_violakis_typikon_cohort37.md', '1888_violakis_typikon_cohort38.md', '1888_violakis_typikon_cohort39.md', '1888_violakis_typikon_cohort40.md', '1888_violakis_typikon_cohort41.md', '1888_violakis_typikon_cohort42.md', '1888_violakis_typikon_cohort43.md', '1888_violakis_typikon_cohort44.md', '1888_violakis_typikon_cohort45.md', '1888_violakis_typikon_cohort46.md', '1888_violakis_typikon_cohort47.md', '1888_violakis_typikon_cohort48.md', '1888_violakis_typikon_cohort49.md', '1888_violakis_typikon_cohort50.md', '1888_violakis_typikon_cohort51.md', '1888_violakis_typikon_cohort52.md', '1888_violakis_typikon_cohort53.md', '1888_violakis_typikon_cohort54.md', '1888_violakis_typikon_cohort55.md', '1888_violakis_typikon_cohort56.md', '1888_violakis_typikon_cohort57.md', '1888_violakis_typikon_cohort58.md', '1888_violakis_typikon_cohort59.md', '1888_violakis_typikon_cohort60.md', '1888_violakis_typikon_cohort61.md', '1888_violakis_typikon_cohort62.md', '1888_violakis_typikon_cohort63.md', '1888_violakis_typikon_cohort64.md', '1888_violakis_typikon_cohort65.md', '1888_violakis_typikon_cohort66.md', '1888_violakis_typikon_cohort67.md', '1888_violakis_typikon_cohort68.md', '1888_violakis_typikon_cohort69.md', '1888_violakis_typikon_cohort70.md', '1888_violakis_typikon_cohort71.md', '1888_violakis_typikon_cohort72.md', '1888_violakis_typikon_cohort73.md', '1888_violakis_typikon_cohort74.md', '1888_violakis_typikon_cohort75.md', '1888_violakis_typikon_cohort76.md', '1888_violakis_typikon_cohort77.md', '1888_violakis_typikon_cohort78.md', '1888_violakis_typikon_cohort79.md', '1888_violakis_typikon_cohort80.md', '1888_violakis_typikon_cohort81.md', '1888_violakis_typikon_cohort82.md', '1888_violakis_typikon_cohort83.md', '1888_violakis_typikon_cohort84.md', '1888_violakis_typikon_cohort85.md', '1888_violakis_typikon_cohort86.md', '1888_violakis_typikon_cohort87.md', '1888_violakis_typikon_cohort88.md', '1888_violakis_typikon_cohort89.md', '1888_violakis_typikon_cohort90.md', '1888_violakis_typikon_cohort91.md', '1888_violakis_typikon_cohort92.md']  
 
 ---
 
@@ -17123,6 +17123,345 @@ When the Royal Hours are chanted alone [on a Saturday or Sunday Paramony], the b
 
 ---
 
+<!-- START COHORT 1888_violakis_typikon_cohort92 -->
+
+=== LEAF p911 ===
+
+# Appendix: Hourly Sequence for Beginning and Ending of Services of the Great Feasts
+
+## Ὡρολόγιον τῆς ἐν τῇ Μ. Ἐκκλησίᾳ Ἐνάρξεως καὶ Ἀπολύσεως τῶν Ἀκολουθιῶν τῶν Μ. Ἑορτῶν (Συνέχεια καὶ Τέλος) [Violakis, p. 896]
+
+Τῇ ἡμέρᾳ τῶν Θεοφανίων σημαίνει εἰς τὰς ι΄ τῆς νυκτός, ὁ Πατριάρχης κατέρχεται εἰς τὰς ια΄ καὶ ἡμίσειαν, Ἀπόλυσις εἰς τὰς β΄.
+
+Τῇ Κυριακῇ τῆς Ὀρθοδοξίας σημαίνει εἰς τὰς ι΄ καὶ ἡμίσειαν, ὁ Πατριάρχης κατέρχεται εἰς τὰς ιβ΄, Ἀπόλυσις εἰς τὰς β΄ καὶ ἡμίσειαν.
+
+Τῇ Ἁγίᾳ καὶ Μ. Πέμπτῃ, εἰς τὸν Ὄρθρον σημαίνει εἰς τὰς ια΄, ὁ Πατριάρχης κατέρχεται εἰς τὰς ιβ΄, Ἀπόλυσις εἰς τὴν α΄ καὶ ἡμίσειαν.
+
+Τῇ ἑσπέρᾳ, εἰς Ἀκολουθίαν τῶν ἁγίων Παθῶν σημαίνει εἰς τὰς ιβ΄, μετὰ ἡμίσειαν ὥραν κατέρχεται ὁ Πατριάρχης, Ἀπόλυσις εἰς τὰς δ΄ τῆς νυκτός.
+
+Τῇ Ἁγίᾳ καὶ Μ. Παρασκευῇ εἰς τὰς Ὥρας σημαίνει τῇ ια΄, ὁ Πατριάρχης κατέρχεται μετὰ ἡμίσειαν ὥραν, Ἀπόλυσις εἰς τὰς γ΄ καὶ ἡμίσειαν.
+
+Τῇ ἑσπέρᾳ, εἰς τὸν Ὄρθρον τοῦ Ἐπιταφίου, σημαίνει εἰς τὰς ιβ΄, ὁ Πατριάρχης κατέρχεται μετὰ ἡμίσειαν ὥραν, Ἀπόλυσις εἰς τὰς δ΄ νυκτός.
+
+Τῷ Ἁγίῳ καὶ Μ. Σαββάτῳ πρωῒ σημαίνει εἰς τὰς ιβ΄, Ἀπόλυσις εἰς τὴν α΄ καὶ ἡμίσειαν.
+
+Τῇ Κυριακῇ τοῦ Πάσχα σημαίνει εἰς τὰς ε΄ νυκτός, ὁ Πατριάρχης κατέρχεται μετὰ ἡμίσειαν ὥραν, ἡ Ἀνάστασις εἰς τὰς ς΄ καὶ ἡμίσειαν, Ἀπόλυσις εἰς τὰς θ΄ τῆς νυκτός.
+
+Τῷ Ἑσπερινῷ τῆς Ἀναστάσεως σημαίνει εἰς τὰς γ΄, ὁ Πατριάρχης κατέρχεται εἰς τὰς δ΄, Ἀπόλυσις εἰς τὰς ς΄.
+
+Τῇ Δευτέρᾳ τῆς Διακαινησίμου σημαίνει εἰς τὰς ια΄, ὁ Πατριάρχης κατέρχεται μετὰ ἡμίσειαν ὥραν, Ἀπόλυσις εἰς τὴν α΄ καὶ ἡμίσειαν.
+
+*(Printed Page 896)*
+
+=== LEAF p912 ===
+
+# Appendix: Hourly Sequence for Beginning and Ending of Services of the Great Feasts
+
+## Hourly Sequence for the Beginning and Ending of the Services of the Great Feasts in the Great Church (Conclusion) [Violakis, p. 897]
+
+**On the Day of Holy Theophany [January 6]:**  
+The bell tolls at the 10th Hour of the Night [4:00 a.m.]; the Patriarch comes down into the cathedral at the 11th Hour and a half of the Night [5:30 a.m.]; and the Dismissal takes place at the 2nd Hour of the Day [8:00 a.m.].
+
+**On the Sunday of Orthodoxy (First Sunday of the Great Fast):**  
+The bell tolls at the 10th Hour and a half of the Night [4:30 a.m.]; the Patriarch comes down at the 12th Hour of the Night [6:00 a.m.]; and the Dismissal takes place at the 2nd Hour and a half of the Day [8:30 a.m.].
+
+**On Holy and Great Thursday:**  
+For Matins, the bell tolls at the 11th Hour of the Night [5:00 a.m.]; the Patriarch comes down at the 12th Hour of the Night [6:00 a.m.]; and the Dismissal takes place at the 1st Hour and a half of the Day [7:30 a.m.].
+
+**On the Evening of Holy and Great Thursday (Service of the Twelve Passion Gospels):**  
+For the Service of the Holy Passions, the bell tolls at the 12th Hour of the Day [6:00 p.m.]; after half an hour the Patriarch comes down [6:30 p.m.]; and the Dismissal takes place at the 4th Hour of the Night [10:00 p.m.].
+
+**On Holy and Great Friday:**  
+For the Royal Hours, the bell tolls at the 11th Hour of the Night [5:00 a.m.]; the Patriarch comes down after half an hour [5:30 a.m.]; and the Dismissal takes place at the 3rd Hour and a half of the Day [9:30 a.m.].
+
+**On the Evening of Holy and Great Friday (Matins of the Epitaphios / Lamentations):**  
+For the Matins of the Epitaphios, the bell tolls at the 12th Hour of the Day [6:00 p.m.]; the Patriarch comes down after half an hour [6:30 p.m.]; and the Dismissal takes place at the 4th Hour of the Night [10:00 p.m.].
+
+**On Holy and Great Saturday Morning:**  
+The bell tolls at the 11th [or 12th] Hour of the Night [5:00 a.m.]; and the Dismissal takes place at the 1st Hour and a half of the Day [7:30 a.m.].
+
+**On the Sunday of Holy Pascha (Easter Sunday):**  
+The bell tolls at the 5th Hour of the Night [11:00 p.m.]; the Patriarch comes down after half an hour [11:30 p.m.]; the Resurrection Service begins at the 6th Hour and a half of the Night [12:30 a.m.]; and the Dismissal takes place at the 9th Hour of the Night [3:00 a.m.].
+
+**At Vespers of the Resurrection (Agape Vespers):**  
+The bell tolls at the 3rd Hour of the Day [9:00 a.m.]; the Patriarch comes down at the 4th Hour of the Day [10:00 a.m.]; and the Dismissal takes place at the 6th Hour of the Day [12:00 Noon].
+
+**On Monday of Bright Week:**  
+For Matins, the bell tolls at the 11th Hour of the Night [5:00 a.m.]; the Patriarch comes down after half an hour [5:30 a.m.]; and the Dismissal takes place at the 1st Hour and a half of the Day [7:30 a.m.].*...[^515]
+
+---
+* *Scholarly Note on Paschal and Holy Week Horology:* In the patriarchal usage of the Ecumenical Throne, this horary schedule codified the traditional times for the solemn Holy Week and Paschal celebrations. The reckoning adheres to the ancient canonical calculation wherein 12 hours of night and 12 hours of day are counted from sundown to sunrise and sunrise to sundown respectively, adjusted to seasonal equinoctial norms. Note the solemn midnight celebration of Pascha commencing at 11:00 p.m. (the bell sounding at the 5th hour of the night) and concluding at 3:00 a.m., followed by the Agape Vespers in the forenoon.
+
+*(Printed Page 897)*
+
+=== LEAF p913 ===
+
+# Appendix: Register of Feasts at which the Patriarch Officiates
+
+## Σημείωσις τῶν Ἑορτῶν καθ’ ἃς Χοροστατεῖ ὁ Πατριάρχης ἐν τῷ Πατριαρχικῷ Ναῷ (Μέρος Α΄) [Violakis, p. 898]
+
+### ΣΗΜΕΙΩΣΙΣ ΤΩΝ ΕΟΡΤΩΝ ΚΑΘ’ ΑΣ ΧΟΡΟΣΤΑΤΕΙ Ο ΠΑΤΡΙΑΡΧΗΣ ΕΝ Τῼ ΠΑΤΡΙΑΡΧΙΚῼ ΝΑῼ
+
+Καθ’ ἅπαντας τοὺς Ἑσπερινοὺς τοῦ Σαββάτου καὶ τὰς Κυριακὰς τοῦ ὅλου ἐνιαυτοῦ.  
+Τὴν ἐπέτειον τοῦ ὀνόματος Αὐτοῦ.  
+
+| Μήν | Ἡμέρα | Ἑορτή |
+| :--- | :--- | :--- |
+| Σεπτεμβρίου | Α΄. | Τὴν Α΄ τῆς Ἰνδίκτου (ἐν τῷ παραθρονίῳ). |
+| | Η΄. | Τὸ Γενέσιον τῆς Ὑπεραγίας Θεοτόκου. |
+| | ΙΔ΄. | Τὴν Ὕψωσιν τοῦ τιμίου Σταυροῦ. |
+| Ὀκτωβρίου | Κϛ΄. | Τοῦ ἁγίου Δημητρίου. |
+| Νοεμβρίου | Η΄. | Τῶν Ταξιαρχῶν. |
+| | ΚΑ΄. | Τῶν Εἰσοδίων τῆς Θεοτόκου. |
+| | Λ΄. | Τοῦ ἁγίου Ἀνδρέου. |
+| Δεκεμβρίου | ΣΤ΄. | Τοῦ ἁγίου Νικολάου. |
+| | ΚΔ΄. | Τὴν παραμονὴν τῶν Χριστουγέννων εἰς τὰς Ὥρας. |
+| | ΚΕ΄. | Τῶν Χριστουγέννων. |
+| | Κϛ΄. | Τὴν σύναξιν τῆς Θεοτόκου. |
+| Ἰανουαρίου | Α΄. | Τὴν Περιτομὴν τοῦ Κυρίου. |
+| | Ε΄. | Τὴν Παραμονὴν τῶν Θεοφανίων εἰς τὰς Ὥρας. |
+| | ΣΤ΄. | Τῶν ἁγίων Θεοφανίων. |
+| | Ζ΄. | Τὴν Σύναξιν τοῦ Προδρόμου. |
+| | Λ΄. | Τῶν Τριῶν Ἱεραρχῶν. |
+| Φεβρουαρίου | Β΄. | Τὴν Ὑπαπαντὴν τοῦ Κυρίου. |
+| Μαρτίου | ΚΕ΄. | Τὸν Εὐαγγελισμὸν τῆς Θεοτόκου. |
+| Ἀπριλίου | ΚΓ΄. | Τοῦ ἁγίου Γεωργίου. |
+| Μαΐου | ΚΑ΄. | Τοῦ ἁγίου Κωνσταντίνου. |
+| Ἰουνίου | ΚΔ΄. | Τὸ Γενέθλιον τοῦ Προδρόμου. |
+| | ΚΘ΄. | Τῶν ἁγίων Ἀποστόλων. |
+| Ἰουλίου | ΙΑ΄. | Τῆς ἁγίας Εὐφημίας. |
+| Αὐγούστου | ΣΤ΄. | Τῆς Μεταμορφώσεως. |
+
+*(Printed Page 898)*
+
+=== LEAF p914 ===
+
+# Appendix: Register of Feasts at which the Patriarch Officiates
+
+## Register of Feasts at Which the Patriarch Officiates in the Patriarchal Church (Part 1) [Violakis, p. 899]
+
+### REGISTER OF FEASTS AT WHICH THE PATRIARCH OFFICIATES IN THE PATRIARCHAL CHURCH
+
+At all Saturday evening Vespers and all Sundays of the entire year.  
+On the anniversary of his namesday [patronal feast].  
+
+| Month | Date | Feast Day |
+| :--- | :--- | :--- |
+| **September** | 1 | The First of the Indiction [New Church Year] (from the Parathrone). |
+| | 8 | The Nativity of the All-Holy Theotokos. |
+| | 14 | The Universal Exaltation of the Precious and Life-Giving Cross. |
+| **October** | 26 | Saint Demetrios the Great Martyr. |
+| **November** | 8 | The Archangels [Synaxis of the Archangel Michael and the Bodiless Hosts]. |
+| | 21 | The Entrance [Presentation] of the Theotokos into the Temple. |
+| | 30 | Saint Andrew the First-Called Apostle. |
+| **December** | 6 | Saint Nicholas the Wonderworker. |
+| | 24 | The Eve of the Nativity of Christ at the Royal Hours. |
+| | 25 | The Nativity of Christ [Christmas]. |
+| | 26 | The Synaxis of the Most Holy Theotokos. |
+| **January** | 1 | The Circumcision of the Lord [and Saint Basil the Great]. |
+| | 5 | The Eve of Holy Theophany at the Royal Hours. |
+| | 6 | The Holy Theophany of Our Lord. |
+| | 7 | The Synaxis of the Holy Forerunner and Baptist John. |
+| | 30 | The Three Holy Hierarchs [Basil the Great, Gregory the Theologian, and John Chrysostom]. |
+| **February** | 2 | The Encounter [Presentation] of Our Lord in the Temple. |
+| **March** | 25 | The Annunciation of the All-Holy Theotokos. |
+| **April** | 23 | Saint George the Victorious Great Martyr. |
+| **May** | 21 | Saints Constantine and Helen, Equals-to-the-Apostles. |
+| **June** | 24 | The Nativity of the Honorable Forerunner and Baptist John. |
+| | 29 | The Holy, Glorious, and Pre-eminent Apostles Peter and Paul. |
+| **July** | 11 | Saint Euphemia the All-Praised Great Martyr. |
+| **August** | 6 | The Holy Transfiguration of Our Lord and God and Savior Jesus Christ.*...[^516] |
+
+---
+* *Scholarly Note on Patriarchal Officiations:* This official calendar designates the stationary feasts wherein the Ecumenical Patriarch is rubrically required to officiate (*chorostatein*) in the Patriarchal Cathedral of Saint George at the Phanar. For the minor immovable commemorations not listed here, the presiding hierarch or a synodal metropolitan officiates by patriarchal delegation. Note that September 1 (Indiction) is uniquely noted as celebrated *from the Parathrone* rather than the high patriarchal throne.
+
+*(Printed Page 899)*
+
+=== LEAF p915 ===
+
+# Appendix: Register of Feasts at which the Patriarch Officiates
+
+## Σημείωσις τῶν Ἑορτῶν καθ’ ἃς Χοροστατεῖ ὁ Πατριάρχης (Μέρος Β΄) [Violakis, p. 900]
+
+| Μήν | Ἡμέρα | Ἑορτή |
+| :--- | :--- | :--- |
+| [Αὐγούστου] | ΙΕ΄. | Τῆς Κοιμήσεως τῆς Θεοτόκου. |
+| | ΚΘ΄. | Τῆς Ἀποτομῆς τοῦ Προδρόμου. |
+
+### Τῌ ΑΓΙᾼ ΚΑΙ Μ. ΤΕΣΣΑΡΑΚΟΣΤῌ
+
+Εἰς τὸν Ἀκάθιστον Ὕμνον τὸ δὲ πρωῒ ἐν τῷ παραθρονίῳ.  
+Τῇ Ἁγίᾳ καὶ Μ. Πέμπτῃ, τὸ πρωῒ εἰς τὴν Λειτουργίαν, καὶ τὸ ἑσπέρας εἰς τὴν Ἀκολουθίαν τῶν Ἁγίων Παθῶν.  
+Τῇ Ἁγίᾳ καὶ Μ. Παρασκευῇ εἰς τὰς Ὥρας καὶ τὸν Ἑσπερινόν, καὶ τὸ ἑσπέρας εἰς τὸν Ὄρθρον τοῦ Ἐπιταφίου.  
+Τῷ Ἁγίῳ καὶ Μ. Σαββάτῳ πρωῒ εἰς τὸν Ἑσπερινὸν καὶ τὴν Λειτουργίαν.  
+Τῇ Κυριακῇ τοῦ Πάσχα, καὶ τῇ Δευτέρᾳ, Τρίτῃ καὶ Παρασκευῇ τῆς Διακαινησίμου.  
+Τῇ Πέμπτῃ τῆς Ἀναλήψεως.  
+
+Ἰστέον ὅτι, κατὰ τὴν ἐπικρατήσασαν ἔκπαλαι ἐν τῇ Μ. Ἐκκλησίᾳ συνήθειαν, ὁσάκις ἂν ἐχοροστάτει ὁ Πατριάρχης, συνεχοροστάτουν αὐτῷ καὶ οἱ Συνοδικοὶ Ἀρχιερεῖς, ἀλλὰ τανῦν ἐν πᾶσι μὲν τοῖς Ὄρθροις καὶ ταῖς Λειτουργίαις συγχοροστατοῦσι, μόνον ὅμως ἐν τοῖς ἐφεξῆς Ἑσπερινοῖς, ἤτοι ἐν τῷ Ἑσπερινῷ τοῦ ὀνόματος τῆς Α.Θ. Παναγιότητος, τῆς Α΄ τῆς Ἰνδίκτου, τῆς Παραμονῆς τῶν Χριστουγέννων καὶ τῶν Θεοφανίων, τῆς Α΄ τοῦ ἔτους, τῆς Κυριακῆς τῆς Ὀρθοδοξίας, τῆς Ἀκαθίστου, τῆς ἑορτῆς τοῦ Εὐαγγελισμοῦ, τῆς Κυριακῆς τῶν Βαΐων, τῆς Μ. Πέμπτης, τῆς Μ. Παρασκευῆς, τοῦ Μ. Σαββάτου, τῆς Ἀναστάσεως, τῆς ἑορτῆς τοῦ ἁγίου Γεωργίου, τῆς Κυριακῆς τοῦ Θωμᾶ, καὶ τῆς Κυριακῆς τῆς Πεντηκοστῆς. Ἐκτὸς δὲ τούτων τῶν ἐπισήμων Χοροστασιῶν, ὁ Οἰκουμενικὸς Πατριάρχης κατερχόμενος ἐν τῷ Ναῷ ἵσταται ἐν τῷ παραθρονίῳ (γεδέκι) μετὰ χαζρανίου καὶ ἄνευ Μανδύου, κατὰ τοὺς Ἑσπερινοὺς τῶν Κυριακῶν τῆς Ἁγ. καὶ Μ. Τεσσαρακοστῆς, τὰς Προηγιασμένας, ἐν τῷ Μεγάλῳ Ἀποδείπνῳ καὶ τῷ Κανόνι τῷ ψαλλομένῳ τὴν Α΄ Ἑβδομάδα τῆς Τεσσαρακοστῆς, τὴν ἑσπέραν τῆς Ἀκολουθίας τοῦ Μεγ. Κανόνος, τὴν πρωΐαν τῆς Ἀκαθίστου, τὴν ἑορτὴν τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν Ἰωάννου τοῦ Χρυσοστόμου Ἀρχιεπισκόπου Κωνσταντινουπόλεως (ἐὰν μὴ τύχῃ ἐν ἡμέρᾳ Κυριακῇ ὅτι ἐὰν βούληται ὁ Πατριάρχης, χοροστατεῖ ἐν τῷ θρόνῳ φέρων Μανδύαν), καὶ τὴν ἑορτὴν τῆς Ἰνδίκτου.
+
+*(Printed Page 900)*
+
+=== LEAF p916 ===
+
+# Appendix: Register of Feasts at which the Patriarch Officiates
+
+## Register of Feasts at Which the Patriarch Officiates (Conclusion & Lenten Order) [Violakis, p. 901]
+
+| Month | Date | Feast Day |
+| :--- | :--- | :--- |
+| [**August**] | 15 | The Dormition of the All-Holy Theotokos. |
+| | 29 | The Beheading of the Honorable Forerunner and Baptist John. |
+
+### DURING THE HOLY AND GREAT FAST [LENT]
+
+At the Akathist Hymn, and in the morning at the Parathrone.  
+On Holy and Great Thursday, in the morning at the Divine Liturgy, and in the evening at the Service of the Holy Passions.  
+On Holy and Great Friday, at the Royal Hours and Vespers, and in the evening at the Matins of the Epitaphios [Lamentations].  
+On Holy and Great Saturday, in the morning at Vespers and the Divine Liturgy [of Saint Basil the Great].  
+On the Sunday of Holy Pascha, and on Monday, Tuesday, and Friday of Bright Week.  
+On Thursday of the Ascension of the Lord.  
+
+**Rubrical Note on Patriarchal Concelebration and Parathronion Protocol:**  
+Note that according to the ancient custom prevailing from of old in the Great Church, whenever the Patriarch officiated, the synodal Hierarchs also concelebrated (*synochorostatoun*) with him; but at the present time they concelebrate with him at all Matins and Divine Liturgies, yet only at the following Vespers services: namely, at the Vespers for the namesday of His All-Holiness, the First of the Indiction [September 1], the Eve of the Nativity of Christ, the Eve of Holy Theophany, the First of the Civil Year [January 1], the Sunday of Orthodoxy, the Friday evening of the Akathist Hymn, the Feast of the Annunciation, Palm Sunday, Holy and Great Thursday, Holy and Great Friday, Holy and Great Saturday, the Vespers of the Resurrection [Agape], the Feast of Saint George, Thomas Sunday, and the Sunday of Holy Pentecost.
+
+Apart from these solemn patriarchal officiations (*chorostasiai*), the Ecumenical Patriarch, descending into the Church, stands at the Parathrone (*gedeki*) holding the plain staff (*chazranion*) and without the Mandya, at the Sunday evening Vespers of the Holy and Great Fast, at the Liturgies of the Presanctified Gifts, at Great Compline and during the Great Canon chanted in the First Week of the Great Fast, on the evening of the Service of the Great Canon [Wednesday evening of the Fifth Week], on the morning of the Akathist Saturday, on the Feast of our father among the saints John Chrysostom, Archbishop of Constantinople (if it does not fall on a Sunday; for if it falls on a Sunday, if the Patriarch so desires, he officiates from the high throne wearing the Mandya), and on the Feast of the Indiction.*...[^517]
+
+---
+* *Historical and Rubrical Note on the Parathronion and Synodal Concelebration:* In patriarchal usage, a sharp distinction is drawn between full patriarchal officiation (*chorostasia*)—wherein the Patriarch presides from the elevated cathedra vested in the episcopal Mandya with the synodal Hierarchs stationed with him—and non-pontifical presence at the *Parathrone* (the secondary seat adjacent to the patriarchal throne, known in colloquial Constantinopolitan parlance by the Ottoman loanword *gedeki*), wherein the Primate attends in monastic habit with the unadorned wooden walking cane (*chazranion*). Notice also the critical clarification where the Greek original explicitly affirms that the Holy Synod concelebrates at *all* Matins and Liturgies (*ἐν πᾶσι μὲν τοῖς Ὄρθροις καὶ ταῖς Λειτουργίαις συγχοροστατοῦσι*), restricting synodal attendance only regarding evening Vespers to the major solemnities enumerated.
+
+*(Printed Page 901)*
+
+=== LEAF p917 ===
+
+# Appendix: Concerning the Ordination of a Hierarch
+
+## Περὶ Χειροτονίας Ἀρχιερέως (Μέρος Α΄) [Violakis, p. 902]
+
+### ΠΕΡΙ ΧΕΙΡΟΤΟΝΙΑΣ [ΑΡΧΙΕΡΕΩΣ]
+
+#### Α΄. [Χειροτονία ἐν ἄλλῃ ἡμέρᾳ πλὴν Κυριακῆς ἄνευ ἑορταζομένου Ἁγίου]
+
+Ὅταν γίνηται χειροτονία Ἀρχιερέως ἐν ἡμέρᾳ ἄλλῃ πλὴν τῆς Κυριακῆς καὶ μὴ τύχῃ μνήμη ἑορταζομένου Ἁγίου, ψάλλονται πάντα τὰ τῆς Πεντηκοστῆς Ἀπολυτίκια, Κοντάκια, Καθίσματα, Κανόνες, Καταβασίαι, Ἐξαποστειλάρια, Αἶνοι, Ἀντίφωνα, Εἰσοδικόν, Ἀπόστολος, Εὐαγγέλιον καὶ Κοινωνικόν.
+
+#### Β΄. [Χειροτονία ἐν Κυριακῇ ἁπλῇ]
+
+Ἄν δ’ ἡ χειροτονία συμβῇ ἐν Κυριακῇ ἁπλῇ, λέγονται Καταβασίαι τῆς Πεντηκοστῆς, καὶ μετὰ Τὴν τιμιωτέραν ἡ θ΄ Ὠδὴ τῆς Πεντηκοστῆς. Ἐξαποστειλάρια πρῶτον τὸ Ἀναστάσιμον εἶτα τὸ τῆς Πεντηκοστῆς, ἄνευ Θεοτοκίου. Εἰς τοὺς Αἴνους μετὰ τὰ δ΄ Ἀναστάσιμα λέγονται καὶ τὰ τῆς Πεντηκοστῆς Παράδοξα σήμερον, Δόξα, Βασιλεῦ οὐράνιε, Καὶ νῦν, Ὑπερευλογημένη. Μετὰ τὴν Δοξολογίαν τὸ Σήμερον Σωτηρία. Εἰς τὴν Λειτουργίαν τὰ Ἀντίφωνα τῆς Πεντηκοστῆς. Εἰσοδικὸν Δεῦτε προσκυνήσωμεν . . . ὁ ἀναστάς. Εἶτα τὸ ἀναστάσιμον Ἀπολυτίκιον, τὸ Εὐλογητὸς εἶ, τὸ τοῦ Ἁγίου τοῦ ναοῦ καὶ Κοντάκιον Ὅτε καταβάς. Τὸ Τρισάγιον, ὁ Ἀπόστολος τῆς Πεντηκοστῆς καὶ Εὐαγγέλιον τῆς Κυριακῆς, Ἄξιόν ἐστιν, Κοινωνικὸν ἀντὶ τοῦ Αἰνεῖτε, Τὸ Πνεῦμά σου τὸ ἀγαθόν.
+
+#### Γ΄. [Χειροτονία ἐν καθημερινῇ μετὰ ἑορταζομένου Ἁγίου]
+
+Ἡ αὐτὴ ἀναλογία τηρητέα καὶ ὅταν ἡ χειροτονία Ἀρχιερέως γίνηται ἐν ἄλλῃ πλὴν Κυριακῆς ἡμέρᾳ, καὶ ἑορτάζηται ὁ Ἅγιος τῆς
+
+*(Printed Page 902)*
+
+=== LEAF p918 ===
+
+# Appendix: Concerning the Ordination of a Hierarch
+
+## Concerning the Ordination of a Hierarch (Part 1) [Violakis, p. 903]
+
+### CONCERNING THE ORDINATION OF A HIERARCH
+
+#### Situation One: [Ordination on a Weekday without a Commemorated Saint]
+
+When the ordination of a Hierarch takes place on any day other than Sunday and it does not coincide with the commemoration of a celebrated saint, all the hymns are chanted from the Feast of Pentecost: the Dismissal Troparia, Kontakia, Kathismata, Canons, Katavasiai, Exapostilaria, Praises [Lauds], Antiphons, Entrance Hymn, Epistle [Apostolos], Gospel, and Communion Hymn.
+
+#### Situation Two: [Ordination on an Ordinary Sunday]
+
+If the ordination occurs on an ordinary Sunday [without a major coinciding feast]:
+- At the Canon, the Katavasiai of Pentecost are chanted; and after the Magnification **"More honorable than the Cherubim..."** (*Τὴν τιμιωτέραν τῶν Χερουβίμ*), the Ninth Ode of Pentecost is chanted.
+- Exapostilaria: first the Resurrection Exapostilarion, then that of Pentecost, without a Theotokion.
+- At the Praises (*Ainoi*): after the four Resurrection Stichera, the Stichera of Pentecost are chanted: **"Glorious things today all the nations have seen..."** (*Παράδοξα σήμερον πάντα τὰ ἔθνη εἶδον...*); **Glory:** **"Heavenly King, Paraclete, Spirit of Truth..."** (*Βασιλεῦ οὐράνιε, Παράκλητε, τὸ Πνεῦμα τῆς ἀληθείας...*); **Now and ever:** **"Most blessed art thou, O Virgin Theotokos..."** (*Ὑπερευλογημένη ὑπάρχεις, Θεοτόκε Παρθένε...*).
+- After the Great Doxology, the Sunday Troparion in Tone 4: **"Today salvation is come into the world..."** (*Σήμερον σωτηρία τῷ κόσμῳ γέγονεν...*).
+- At the Divine Liturgy: the Antiphons of Pentecost.
+- The Entrance Hymn (*Eisodikon*): **"O come, let us worship and fall down before Christ. O Son of God, Who art risen from the dead, save us who sing to Thee: Alleluia!"** (*Δεῦτε προσκυνήσωμεν... ὁ ἀναστὰς ἐκ νεκρῶν*).
+- Then the Resurrection Dismissal Troparion; the Dismissal Troparion of Pentecost in Tone 8: **"Blessed art Thou, O Christ our God, Who hast revealed the fishermen to be most wise, sending down upon them the Holy Spirit, and through them catching the universe: O Lover of mankind, glory to Thee!"** (*Εὐλογητὸς εἶ, Χριστὲ ὁ Θεὸς ἡμῶν...*); the Dismissal Troparion of the Patron Saint of the temple; and the Kontakion of Pentecost in Tone 8: **"When the Most High descended, He confused the tongues and divided the nations; but when He distributed the tongues of fire, He called all to unity: and with one voice we glorify the All-Holy Spirit!"** (*Ὅτε καταβὰς τὰς γλώσσας συνέχεε...*).
+- The Trisagion Hymn is chanted.
+- The Epistle is the Epistle of Pentecost (*Acts 2:1–11*); and the Gospel is the Gospel of the coinciding Sunday.
+- Megalynarion: **"It is truly meet to bless thee, O Theotokos..."** (*Ἄξιόν ἐστιν*).
+- Communion Hymn: instead of the Sunday Communion Hymn **"Praise the Lord from the heavens..."** (*Αἰνεῖτε τὸν Κύριον*), we chant that of Pentecost: **"Thy Good Spirit shall lead me into the land of uprightness. Alleluia!"** (*Τὸ Πνεῦμά σου τὸ ἀγαθὸν ὁδηγήσει με ἐν γῇ εὐθείᾳ. Ἀλληλούϊα* - Psalm 142:10).
+
+#### Situation Three: [Ordination on a Weekday with a Celebrated Saint]
+
+This same liturgical proportion is observed whenever the ordination of a Hierarch takes place on any day other than Sunday, and the commemorated saint of the day is...[^518]
+
+---
+* *Rubrical Synthesis on Episcopal Ordinations:* The liturgical theology governing episcopal consecration in the Byzantine rite systematically infuses the Pentecostal pneumatological hymns into the Divine Liturgy and Divine Office. Because the episcopate represents the apostolic fullness of the Holy Spirit's descent at Pentecost, the typikon prescribes the Pentecostal proper hymns (Katavasiai, Ode 9, Exapostilaria, Antiphons, and the Pentecost Kontakion "When the Most High descended") to frame the ordination of a bishop across all ordinary days and Sundays.
+
+*(Printed Page 903)*
+
+=== LEAF p919 ===
+
+# Appendix: Concerning the Ordination of a Hierarch
+
+## Περὶ Χειροτονίας Ἀρχιερέως (Μέρος Β΄) [Violakis, p. 904]
+
+### [Συνέχεια Γ΄]
+
+ἡμέρας· ἀλλ’ ἐν τοιαύτῃ περιπτώσει προηγοῦνται ἐναντιρρήτως τὰ τῆς Πεντηκοστῆς καὶ ἕπονται τὰ τοῦ Ἁγίου.
+
+#### Δ΄. [Χειροτονία ἐν Κυριακῇ μετὰ Ἁγίου δεδοξασμένου]
+
+Ἐν Κυριακῇ δὲ μετὰ Ἁγίου δεδοξασμένου ἄν συμπέσῃ χειροτονία Ἀρχιερέως, μετὰ τὰς Καταβασίας τῆς Πεντηκοστῆς Τὴν τιμιωτέραν καὶ τὴν θ΄ Ὠδὴν τῆς Πεντηκοστῆς. Ἐξαποστειλάρια τὸ Ἀναστάσιμον, τῆς Πεντηκοστῆς, τοῦ Ἁγίου, καὶ Θεοτοκίον. Εἰς τοὺς Αἴνους Ἀναστάσιμα β΄, τῆς Πεντηκοστῆς γ΄ καὶ τοῦ Ἁγίου γ΄, Δόξα, Βασιλεῦ οὐράνιε, Καὶ νῦν, Ὑπερευλογημένη. Μετὰ τὴν Δοξολογίαν Σήμερον σωτηρία. Εἰς τὴν Λειτουργίαν τὰ Ἀντίφωνα τῆς Πεντηκοστῆς, καὶ μετὰ τὴν Εἴσοδον Δεῦτε προσκυνήσωμεν...ὁ ἀναστάς. Ἀπολυτίκια τὸ Ἀναστάσιμον, τῆς Πεντηκοστῆς, τοῦ Ἁγίου τῆς ἡμέρας, τοῦ Ἁγίου τοῦ ναοῦ, καὶ τὸ Κοντάκιον Ὅτε καταβάς. (Τὰ λοιπὰ ὡς ἀνωτέρω ἐν § Β΄.)
+
+#### Ε΄. [Χειροτονία ἐν ἡμέρᾳ Θεομητορικῆς ἑορτῆς]
+
+Ἐν ἡμέρᾳ Θεομητορικῆς ἑορτῆς ἄν τελῆται χειροτονία Ἀρχιερέως, Καταβασίαι ψάλλονται αἱ κεκανονισμέναι τῆς ἐποχῆς, καὶ μόνον Ἐξαποστειλάριον πρὸ τοῦ τῆς ἑορτῆς ψάλλεται τῆς Πεντηκοστῆς· καὶ εἰς τοὺς Αἴνους δύο μόνον Στιχηρὰ ἐκ τῶν τῆς Πεντηκοστῆς. Δόξα τὸ Βασιλεῦ οὐράνιε, Καὶ νῦν τῆς ἑορτῆς. Εἰς δὲ τὴν Λειτουργίαν τὰ Ἀντίφωνα τῆς ἑορτῆς. Ἀπολυτίκια, μετὰ τὴν Εἴσοδον, πρῶτον τὸ τῆς Πεντηκοστῆς, δεύτερον τῆς ἑορτῆς, καὶ Ἀπόστολος ἐπίσης τῆς Πεντηκοστῆς.
+
+#### ΣΤ΄. [Χειροτονία ἐν Δεσποτικῇ ἑορτῇ]*
+
+Ἐν Δεσποτικῇ ἑορτῇ ἄν τελῆται χειροτονία Ἀρχιερέως, οὐδὲν ἄλλο ψάλλεται ἐκ τῶν τῆς Πεντηκοστῆς εἰμὴ τὸ Ἐξαποστειλάριον, οὗ ὅμως προηγεῖται ἅπαξ τό τῆς ἑορτῆς καὶ ἕπεται αὖθις τὸ αὐτό. Μετὰ δὲ τὴν Εἴσοδον, λέγεται τὸ Ἀπολυτίκιον τῆς Πεντηκοστῆς ἀπὸ τοῦ Βήματος μετὰ τὸ τῆς ἑορτῆς καὶ οὐδὲν πλέον.
+
+---
+* *Ἐσφαλμένως δεικνύεται ὡς Ζ΄.*
+
+*(Printed Page 904)*
+
+=== LEAF p920 ===
+
+# Appendix: Concerning the Ordination of a Hierarch
+
+## Concerning the Ordination of a Hierarch (Conclusion) [Violakis, p. 905]
+
+### [Conclusion of Situation Three: Weekday with a Celebrated Saint]
+
+...celebrated; but in such an instance, the hymns of Pentecost indisputably take precedence, and those of the commemorated saint follow.
+
+#### Situation Four: [Ordination on a Sunday with a Doxology or Polyeleos Saint]
+
+If the ordination of a Hierarch coincides on a Sunday with a glorified saint [having a Great Doxology or Polyeleos rank]:
+- After the Katavasiai of Pentecost, we chant the Magnification **"More honorable than the Cherubim..."** (*Τὴν τιμιωτέραν τῶν Χερουβίμ*), and the Ninth Ode of Pentecost.
+- Exapostilaria: the Resurrection Exapostilarion, that of Pentecost, that of the Saint, and the Theotokion.
+- At the Praises (*Ainoi*): two Stichera of the Resurrection, three of Pentecost, and three of the Saint. **Glory:** **"Heavenly King, Paraclete..."** (*Βασιλεῦ οὐράνιε, Παράκλητε...*); **Now and ever:** **"Most blessed art thou, O Virgin Theotokos..."** (*Ὑπερευλογημένη ὑπάρχεις, Θεοτόκε Παρθένε...*).
+- After the Great Doxology: **"Today salvation is come into the world..."** (*Σήμερον σωτηρία τῷ κόσμῳ γέγονεν...*).
+- At the Divine Liturgy: the Antiphons of Pentecost.
+- After the Small Entrance: the Entrance Hymn **"O come, let us worship and fall down before Christ. O Son of God, Who art risen from the dead, save us who sing to Thee: Alleluia!"** (*Δεῦτε προσκυνήσωμεν... ὁ ἀναστὰς ἐκ νεκρῶν*).
+- Dismissal Troparia: the Resurrection Troparion, the Dismissal Troparion of Pentecost: **"Blessed art Thou, O Christ our God..."** (*Εὐλογητὸς εἶ, Χριστὲ ὁ Θεὸς ἡμῶν*), the Dismissal Troparion of the commemorated Saint of the day, that of the Patron Saint of the temple, and the Kontakion of Pentecost: **"When the Most High descended..."** (*Ὅτε καταβὰς τὰς γλώσσας συνέχεε...*).
+- (All the remainder is performed as detailed above under Situation Two.)
+
+#### Situation Five: [Ordination on a Feast of the Most Holy Theotokos]
+
+If the ordination of a Hierarch is celebrated on the day of a Marian feast [Feast of the Theotokos]:
+- The Katavasiai appointed for the liturgical season are chanted.
+- Only the Exapostilarion of Pentecost is chanted, preceding the Exapostilarion of the Feast.
+- At the Praises (*Ainoi*): only two Stichera from Pentecost are chanted. **Glory:** **"Heavenly King, Paraclete..."** (*Βασιλεῦ οὐράνιε, Παράκλητε...*); **Now and ever:** the Doxastikon of the Marian Feast.
+- At the Divine Liturgy: the festal Antiphons of the Feast of the Theotokos are chanted.
+- Dismissal Troparia after the Small Entrance: first the Dismissal Troparion of Pentecost, second that of the Marian Feast; and the Epistle is likewise that of Pentecost.
+
+#### Situation Six: [Ordination on a Dominical Feast of the Lord]*
+
+If the ordination of a Hierarch is celebrated on a Great Feast of the Lord [Dominical Feast]:
+- Nothing else whatsoever of Pentecost is chanted except the Exapostilarion, which is both preceded and followed once by that of the Dominical Feast [i.e., Exapostilarion of the Feast, Exapostilarion of Pentecost, Exapostilarion of the Feast].
+- After the Small Entrance, the Dismissal Troparion of Pentecost is intoned from within the Holy Sanctuary [Bema] following that of the Dominical Feast, and nothing further.*...[^519]
+
+---
+* *Note on Typikon Numbering Erratum and Dominical Precedence:* In the original Greek printed edition of the 1888 Violakis Typikon, this final rubric for Dominical Feasts is erroneously numbered as Situation Seven (§ Ζ΄), skipping numeral Six (§ ΣΤ΄), an editorial misprint corrected here in accordance with facing translations and critical editions. Rubrically, this section encapsulates the supreme liturgical principle of Dominical hierarchy: on a Great Feast of the Lord, the proper festal liturgy remains virtually unassailable, admitting only the singular Exapostilarion and the Sanctuary Dismissal Troparion of Pentecost to accompany the apostolic imposition of hands.
+
+*(Printed Page 905)*
+
+<!-- END COHORT 1888_violakis_typikon_cohort92 -->
+
+---
+
 ## Scholarly Critical Apparatus & Footnotes
 
 ## Cohort 1 Footnotes
@@ -18434,3 +18773,16 @@ When the Royal Hours are chanted alone [on a Saturday or Sunday Paramony], the b
 [^513]: Ceremony of the Indiction Concluded: Synodal Act, Signatures, and Hand-Kissing (§ Ceremony of the Indiction 2). Detailed epigraphic synthesis of physical leaf p907 (printed page 892) and facing English leaf p908 (printed page 893). Solemn execution of the Synodal Act of the Indiction: As the Dismissal concludes, the Choirs chant "Our Master and Chief Priest, O Lord, preserve for many years!". The Ecumenical Patriarch reads aloud the official Synodal Act (Praxis) of the Indiction, promulgating the entrance into the new ecclesiastical year and imparting synodal absolution and blessing upon all devout and Orthodox Christians of every rank and degree throughout the world. Following the reading, the Choirs chant the Patriarchal Polychronion. The Patriarch signs the formal registry of the Indiction, followed by all the members of the Holy Synod in order of episcopal seniority, all vested in Epitrachilion and Omophorion. During the signing, the Choirs chant the festal Idiomelon hymns appointed for the Indiction. Following the signing, all hierarchs, clergy, dignitaries, and faithful approach to kiss the right hand of His All-Holiness, concluding the patriarchal rite of the New Year.
 
 [^514]: Horologion of the Great Church for the Beginning and Ending of Services of the Great Feasts (§ Feasts Horologion 1). Detailed epigraphic synthesis of physical leaf p909 (printed page 894) and facing English leaf p910 (printed page 895). Ancient Byzantine horary schedule governing patriarchal celebrations and bell-tolling in the Great Church of Constantinople: The rubric establishes the temporal coordination between the bell-ringing (simantron/peal), the descent of the Patriarch from the patriarchal apartments into the cathedral, and the final Dismissal for the major winter dominical solemnities. The ancient Byzantine system calculates twenty-four hours beginning at sunset (twelve hours of night followed by twelve hours of day). On December 24 (Christmas Eve), when the Royal Hours are conjoined to the Liturgy of Saint Basil, the bell tolls at the 12th Hour of the Night (6:00 a.m.), the Patriarch descends at the 1st Hour of the Day (7:00 a.m.), and the Dismissal occurs at the 4th Hour of the Day (10:00 a.m.); if the Hours are chanted alone (on Saturday or Sunday Paramony), bells toll at the 1st Hour of the Day (7:00 a.m.), the Patriarch descends at the 2nd Hour (8:00 a.m.), and Dismissal occurs at the 4th Hour (10:00 a.m.). On the Nativity of Christ (December 25), Matins bells toll at the 9th Hour of the Night (3:00 a.m.), the Patriarch descends at the 10th Hour and a half of the Night (4:30 a.m.), and the Divine Liturgy ends at the 1st Hour and a half of the Day (7:30 a.m.). On January 1 (Circumcision and Saint Basil), Matins bells toll at the 1st Hour of the Day (7:00 a.m.), the Patriarch descends at the 2nd Hour and a half (8:30 a.m.), and Dismissal occurs at the 4th Hour and a half (10:30 a.m.). On January 5 (Theophany Eve), when Hours are joined to Saint Basil's Liturgy, bells toll at the 11th Hour of the Night (5:00 a.m.), the Patriarch descends at the 12th Hour of the Night (6:00 a.m.), and Dismissal occurs at the 3rd Hour of the Day (9:00 a.m.); if the Hours are chanted alone, bells toll at the 1st Hour of the Day (7:00 a.m.), the Patriarch descends at the 2nd Hour (8:00 a.m.), and Dismissal occurs at the 4th Hour (10:00 a.m.).
+
+
+## Cohort 92 Footnotes
+
+[^515]: Constantinopolitan Feasts Horologion Concluded: Theophany, Great Fast, Holy Week, and Pascha (§ Feasts Horologion 2). Detailed epigraphic synthesis of physical leaf p911 (printed page 896) and facing English leaf p912 (printed page 897). The horary schedule of the Ecumenical Patriarchate for bell-tolling and patriarchal descent during the festal cycles of Theophany, Great Lent, Holy Week, and the Paschal Solemnity: On January 6 (Holy Theophany), bells toll at the 10th Hour of the Night (4:00 a.m.), the Patriarch descends at the 11th Hour and a half of the Night (5:30 a.m.), and Dismissal occurs at the 2nd Hour of the Day (8:00 a.m.). On the Sunday of Orthodoxy, bells toll at the 10th Hour and a half of the Night (4:30 a.m.), the Patriarch descends at the 12th Hour of the Night (6:00 a.m.), and Dismissal occurs at the 2nd Hour and a half of the Day (8:30 a.m.). On Holy and Great Thursday, Matins bells toll at the 11th Hour of the Night (5:00 a.m.), the Patriarch descends at the 12th Hour of the Night (6:00 a.m.), and Dismissal occurs at the 1st Hour and a half of the Day (7:30 a.m.); on Thursday evening (Passion Gospels), bells toll at the 12th Hour of the Day (6:00 p.m.), the Patriarch descends at 6:30 p.m., and Dismissal occurs at the 4th Hour of the Night (10:00 p.m.). On Holy and Great Friday, Royal Hours bells toll at the 11th Hour of the Night (5:00 a.m.), the Patriarch descends at 5:30 a.m., and Dismissal occurs at the 3rd Hour and a half of the Day (9:30 a.m.); on Friday evening (Epitaphios / Lamentations), bells toll at the 12th Hour of the Day (6:00 p.m.), the Patriarch descends at 6:30 p.m., and Dismissal occurs at the 4th Hour of the Night (10:00 p.m.). On Holy and Great Saturday morning, bells toll at the 11th Hour of the Night (5:00 a.m.), and Dismissal occurs at the 1st Hour and a half of the Day (7:30 a.m.). On the Sunday of Holy Pascha, bells toll at the 5th Hour of the Night (11:00 p.m.), the Patriarch descends at 11:30 p.m., the Anastasis service begins at the 6th Hour and a half of the Night (12:30 a.m.), and Dismissal occurs at the 9th Hour of the Night (3:00 a.m.). At Vespers of the Resurrection (Agape Vespers), bells toll at the 3rd Hour of the Day (9:00 a.m.), the Patriarch descends at the 4th Hour of the Day (10:00 a.m.), and Dismissal occurs at the 6th Hour of the Day (12:00 Noon). On Bright Monday, Matins bells toll at the 11th Hour of the Night (5:00 a.m.), the Patriarch descends at 5:30 a.m., and Dismissal occurs at the 1st Hour and a half of the Day (7:30 a.m.).
+
+[^516]: Register of Feasts at Which the Patriarch Officiates: Immovable Calendar from September through August (§ Patriarchal Feasts 1). Detailed epigraphic synthesis of physical leaf p913 (printed page 898) and facing English leaf p914 (printed page 899). The official patriarchal directory specifying all stationary feasts throughout the liturgical year wherein the Ecumenical Patriarch is required to officiate (chorostatein) in the Patriarchal Cathedral of Saint George at the Phanar: The general rule mandates patriarchal officiation at all Saturday evening Great Vespers and all Sunday services throughout the entire ecclesiastical year, as well as on the Patriarch's personal patronal feast (namesday). The fixed calendar enumerates twenty-four stationary solemnities: September 1 (The Indiction, observed from the Parathrone), September 8 (Nativity of the Theotokos), September 14 (Exaltation of the Holy Cross), October 26 (Saint Demetrios), November 8 (The Archangels), November 21 (Entrance of the Theotokos), November 30 (Saint Andrew), December 6 (Saint Nicholas), December 24 (Paramony of the Nativity at the Royal Hours), December 25 (Nativity of Christ), December 26 (Synaxis of the Theotokos), January 1 (Circumcision of Christ), January 5 (Paramony of Theophany at the Royal Hours), January 6 (Holy Theophany), January 7 (Synaxis of the Forerunner), January 30 (The Three Hierarchs), February 2 (Meeting of the Lord), March 25 (Annunciation of the Theotokos), April 23 (Saint George), May 21 (Saints Constantine and Helen), June 24 (Nativity of the Forerunner), June 29 (Holy Apostles Peter and Paul), July 11 (Saint Euphemia), and August 6 (Transfiguration of the Lord).
+
+[^517]: Patriarchal Officiations during the Great Fast and Synodal Concelebration Norms (§ Patriarchal Feasts 2). Detailed epigraphic synthesis of physical leaf p915 (printed page 900) and facing English leaf p916 (printed page 901). The seasonal liturgical order for patriarchal services during Holy and Great Lent, Bright Week, and the Pentecostarion, together with the canonical protocols governing synodal concelebration and use of the Parathronion: The fixed list concludes with August 15 (Dormition of the Theotokos) and August 29 (Beheading of the Forerunner). During Great Lent, the Patriarch officiates on Friday evening for the Akathist Hymn and on Saturday morning from the Parathrone; on Holy Thursday morning at the Divine Liturgy and evening at the Twelve Passion Gospels; on Holy Friday at the Royal Hours and Vespers, and evening at the Epitaphios Matins; on Holy Saturday morning at Vespers and Saint Basil's Liturgy; on Easter Sunday, Bright Monday, Bright Tuesday, Bright Friday, and Ascension Thursday. By ancient patriarchal tradition, the members of the Holy Synod concelebrate (synochorostatein) with the Patriarch at all Matins and Divine Liturgies, but only at fifteen specified Great Vespers: the Patriarch's namesday, the Indiction, Christmas Eve, Theophany Eve, New Year's Day, Sunday of Orthodoxy, Akathist Friday, Annunciation, Palm Sunday, Holy Thursday, Holy Friday, Holy Saturday, Paschal Agape Vespers, Saint George, and Thomas Sunday. On non-synodal occasions, the Patriarch attends without Mandya, holding the plain walking staff (chazranion) and seated at the secondary throne (parathrone / Turkish gedeki), including Sunday evening Lenten Vespers, Presanctified Liturgies, Great Compline, the Great Canon, and the Feast of Saint John Chrysostom.
+
+[^518]: Order of the Ordination of a Hierarch: Weekday and Ordinary Sunday Rubrics (§ Episcopal Ordination 1). Detailed epigraphic synthesis of physical leaf p917 (printed page 902) and facing English leaf p918 (printed page 903). Canonical ordinals governing the insertion of Pentecostal pneumatological propers during the consecration of a bishop: Because the fullness of the episcopate participates directly in the apostolic descent of the Holy Spirit, Pentecostal hymns are integrated into the Divine Office and Liturgy. Under Situation 1 (an ordinary weekday without a celebrating saint), the entire service is chanted from Pentecost: Dismissal Troparia, Kontakia, Kathismata, Canons, Katavasiai, Exapostilaria, Praises (Ainoi), Antiphons, Entrance Hymn, Epistle (Acts 2:1–11), Gospel, and Communion Hymn ("Thy Good Spirit..."). Under Situation 2 (an ordinary Sunday), the Resurrection office is intercalated with Pentecost: Katavasiai of Pentecost with Ode 9 after "More honorable"; Exapostilaria of the Resurrection and Pentecost (without Theotokion); Praises with four Resurrection stichera followed by Pentecost stichera ("Glorious things today..."), Glory ("Heavenly King..."), Now and ever ("Most blessed art thou..."), and "Today salvation..."; Liturgy Antiphons of Pentecost; Entrance Hymn with paschal/Sunday refrain; Dismissal Troparia of the Resurrection, Pentecost ("Blessed art Thou, O Christ our God..."), the temple patron, and Kontakion of Pentecost ("When the Most High descended..."); Epistle of Pentecost and Sunday Gospel; Megalynarion "It is truly meet..."; and Communion Hymn "Thy Good Spirit..." (Psalm 142:10). Situation 3 establishes that on a weekday with a commemorating saint, the same proportion is preserved.
+
+[^519]: Order of the Ordination of a Hierarch: Commemorated Saints, Marian Solemnities, and Dominical Feasts (§ Episcopal Ordination 2). Detailed epigraphic synthesis of physical leaf p919 (printed page 904) and facing English leaf p920 (printed page 905). Conclusion of rubrics for episcopal ordination coinciding with festal ranks of the liturgical year: Under Situation 3 (concluded), on a weekday with a commemorated saint, the hymns of Pentecost indisputably precede those of the saint. Under Situation 4 (a Sunday with a Polyeleos or Great Doxology saint), Pentecost Katavasiai and Ode 9 are sung; Exapostilaria of the Resurrection, Pentecost, the Saint, and Theotokion; Praises with two Resurrection stichera, three of Pentecost, and three of the Saint, Glory ("Heavenly King..."), Now and ever ("Most blessed..."); Liturgy Antiphons of Pentecost, and Troparia of the Resurrection, Pentecost, Saint of the day, temple patron, and Kontakion of Pentecost. Under Situation 5 (a Feast of the Theotokos), the seasonal Katavasiai are retained, the Exapostilarion of Pentecost precedes that of the Marian feast, two Pentecost stichera are chanted at Praises with Glory ("Heavenly King..."), the Marian festal Antiphons are sung at Liturgy, and after the Entrance the Dismissal Troparion of Pentecost precedes that of the Theotokos, with the Epistle of Pentecost. Under Situation 6 (a Great Dominical Feast of the Lord, misnumbered as Situation 7 in the Greek editio princeps), the supreme priority of the Lord's feast is maintained: only the Exapostilarion of Pentecost is admitted (framed before and after by that of the Dominical Feast), and after the Entrance only the Dismissal Troparion of Pentecost is intoned from within the Holy Sanctuary following that of the Feast, admitting no further Pentecostal propers.
