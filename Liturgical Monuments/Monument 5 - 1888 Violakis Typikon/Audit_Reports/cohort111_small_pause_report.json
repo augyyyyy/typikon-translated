@@ -1,0 +1,153 @@
+{
+  "timestamp": "2026-10-08T13:41:58.623938+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 111,
+  "target_file": "1888_violakis_typikon_cohort111_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort111_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort111_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort111_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort111_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 10,
+      "definition_markers_count": 10,
+      "text_markers": [
+        "[^651]",
+        "[^652]",
+        "[^653]",
+        "[^654]",
+        "[^655]",
+        "[^656]",
+        "[^657]",
+        "[^658]",
+        "[^659]",
+        "[^660]"
+      ],
+      "definition_markers": [
+        "[^651]",
+        "[^652]",
+        "[^653]",
+        "[^654]",
+        "[^655]",
+        "[^656]",
+        "[^657]",
+        "[^658]",
+        "[^659]",
+        "[^660]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort111_raw_draft.md",
+      "passed": true,
+      "paragraphs": 116,
+      "headings_count": 20,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Oblation – Ode – Oktoechos – Olonyktia – Omophorion Part 1) [Demos, p. 1086 / TD-107]"
+        },
+        {
+          "line": 29,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 31,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Omophorion Concluded Part 2) [Demos, p. 1087 / TD-108]"
+        },
+        {
+          "line": 46,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 48,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Omophorion Development Concluded Part 3 – Omologitis – Opisthamvonos Efchi Part 1) [Demos, p. 1088 / TD-109]"
+        },
+        {
+          "line": 64,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 66,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Opisthamvonos Efchi Concluded Part 2 – Orarion – Order of Service – Orea Pili – Orlets – Orologion to Mega – Orthros Part 1) [Demos, p. 1089 / TD-110]"
+        },
+        {
+          "line": 87,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 89,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Orthros Concluded Part 2 – Osios, Osia – Osiomartys – Pantokrator – Paraklitiki Part 1) [Demos, p. 1090 / TD-111]"
+        },
+        {
+          "line": 107,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 109,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Paraklitiki Concluded Part 2 – Paramoni – Parartima – Parathrone – Pascha – Paten – Pateritsa – Patriarch – Patriarchiki Pimantoriki Ravdos Part 1) [Demos, p. 1091 / TD-112]"
+        },
+        {
+          "line": 133,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 135,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Patriarchiki Pimantoriki Ravdos Concluded Part 2 – Pentikostarion – Phrase – Pimantoriki Ravdos – Placing – Plirotika – Polychronion – Polyeleos Part 1) [Demos, p. 1092 / TD-113]"
+        },
+        {
+          "line": 159,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        }
+      ],
+      "numbered_items_count": 2,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 1101,
+        "max_leaf": 1110
+      },
+      "anomalies": []
+    }
+  }
+}
