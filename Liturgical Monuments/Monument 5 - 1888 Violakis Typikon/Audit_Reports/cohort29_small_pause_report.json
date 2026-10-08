@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-10-08T02:07:07.820652+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 29,
+  "target_file": "1888_violakis_typikon_cohort29_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort29_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort29_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort29_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort29_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 5,
+      "definition_markers_count": 5,
+      "text_markers": [
+        "[^200]",
+        "[^201]",
+        "[^202]",
+        "[^203]",
+        "[^204]"
+      ],
+      "definition_markers": [
+        "[^200]",
+        "[^201]",
+        "[^202]",
+        "[^203]",
+        "[^204]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort29_raw_draft.md",
+      "passed": true,
+      "paragraphs": 140,
+      "headings_count": 32,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "December 25: Nativity of Christ — Vespers & Liturgy of St. Basil / Matins of the Feast"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Ὁ Μέγας Ἑσπερινὸς καὶ ἡ Λειτουργία τοῦ Μεγάλου Βασιλείου [Violakis, p. 266]"
+        },
+        {
+          "line": 17,
+          "level": 1,
+          "title": "December 25: Nativity of Christ — Vespers & Liturgy of St. Basil / Matins of the Feast"
+        },
+        {
+          "line": 19,
+          "level": 2,
+          "title": "Great Vespers and the Liturgy of Saint Basil the Great [Violakis, p. 267]"
+        },
+        {
+          "line": 30,
+          "level": 1,
+          "title": "December 25: Nativity of Christ — Matins of the Feast Concluded"
+        },
+        {
+          "line": 32,
+          "level": 2,
+          "title": "Ὄρθρος τῆς Ἑορτῆς (Συνέχεια) [Violakis, p. 268]"
+        },
+        {
+          "line": 56,
+          "level": 1,
+          "title": "December 25: Nativity of Christ — Matins of the Feast Concluded"
+        },
+        {
+          "line": 58,
+          "level": 2,
+          "title": "Matins of the Feast (Concluded) [Violakis, p. 269]"
+        },
+        {
+          "line": 62,
+          "level": 3,
+          "title": "For the First Canon"
+        },
+        {
+          "line": 69,
+          "level": 3,
+          "title": "For the Second (Iambic) Canon"
+        },
+        {
+          "line": 82,
+          "level": 1,
+          "title": "December 25: Nativity of Christ — Praises Concluded & Liturgy Antiphons 1–2"
+        },
+        {
+          "line": 84,
+          "level": 2,
+          "title": "Αἶνοι καὶ Θεία Λειτουργία (Ἀντίφωνα Α΄–Β΄) [Violakis, p. 270]"
+        },
+        {
+          "line": 90,
+          "level": 3,
+          "title": "Ἀντίφωνον α΄ Ἦχος β΄"
+        },
+        {
+          "line": 100,
+          "level": 3,
+          "title": "Ἀντίφωνον β΄."
+        },
+        {
+          "line": 114,
+          "level": 1,
+          "title": "December 25: Nativity of Christ — Praises Concluded & Liturgy Antiphons 1–2"
+        }
+      ],
+      "numbered_items_count": 14,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 281,
+        "max_leaf": 290
+      },
+      "anomalies": []
+    }
+  }
+}
