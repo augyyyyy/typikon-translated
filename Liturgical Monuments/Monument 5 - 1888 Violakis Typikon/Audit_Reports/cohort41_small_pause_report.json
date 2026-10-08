@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-10-08T03:31:39.582562+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 41,
+  "target_file": "1888_violakis_typikon_cohort41_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort41_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort41_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort41_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort41_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 5,
+      "definition_markers_count": 5,
+      "text_markers": [
+        "[^260]",
+        "[^261]",
+        "[^262]",
+        "[^263]",
+        "[^264]"
+      ],
+      "definition_markers": [
+        "[^260]",
+        "[^261]",
+        "[^262]",
+        "[^263]",
+        "[^264]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort41_raw_draft.md",
+      "passed": true,
+      "paragraphs": 108,
+      "headings_count": 38,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Month of February: Meeting of our Lord (Situation IV Concl. § 23; Apodosis § 24); February 10: Hieromartyr Charalampos (Situation I § 1)"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Τῇ Β΄: Ἡ Ὑπαπαντὴ (Τέλος § 23, Ἡ Ἀπόδοσις § 24) / Τῇ Ι΄: Τοῦ Ἁγίου Ἱερομάρτυρος Χαραλάμπους (Περιπτώσεις Α΄ § 1, Β΄) [Violakis, p. 386]"
+        },
+        {
+          "line": 11,
+          "level": 3,
+          "title": "Ἡ Ἀπόδοσις."
+        },
+        {
+          "line": 17,
+          "level": 3,
+          "title": "Τῇ Ι΄. Τοῦ ἁγίου Ἱερομάρτυρος Χαραλάμπους."
+        },
+        {
+          "line": 19,
+          "level": 4,
+          "title": "ΠΕΡΙΠΤΩΣΕΙΣ"
+        },
+        {
+          "line": 31,
+          "level": 1,
+          "title": "Month of February: Meeting of our Lord (Situation IV Concl. § 23; Apodosis § 24); February 10: Hieromartyr Charalampos (Situation I § 1)"
+        },
+        {
+          "line": 33,
+          "level": 2,
+          "title": "February 2: The Meeting of our Lord (Concl. § 23, The Apodosis § 24) / February 10: The Holy Hieromartyr Charalampos (Situations: Case I § 1, Case II) [Violakis, p. 387]"
+        },
+        {
+          "line": 39,
+          "level": 3,
+          "title": "The Apodosis"
+        },
+        {
+          "line": 45,
+          "level": 3,
+          "title": "February 10: The Holy Hieromartyr Charalampos"
+        },
+        {
+          "line": 47,
+          "level": 4,
+          "title": "SITUATIONS"
+        },
+        {
+          "line": 59,
+          "level": 1,
+          "title": "Month of February: February 10: Hieromartyr Charalampos (Situation II § 2; Situation III §§ 3–4, § 5 incipit)"
+        },
+        {
+          "line": 61,
+          "level": 2,
+          "title": "Τῇ Ι΄: Τοῦ Ἁγίου Ἱερομάρτυρος Χαραλάμπους (Περιπτώσεις Β΄ § 2, Γ΄ §§ 3–5) [Violakis, p. 388]"
+        },
+        {
+          "line": 65,
+          "level": 3,
+          "title": "Γ΄."
+        },
+        {
+          "line": 77,
+          "level": 1,
+          "title": "Month of February: February 10: Hieromartyr Charalampos (Situation II § 2; Situation III §§ 3–4, § 5 incipit)"
+        },
+        {
+          "line": 79,
+          "level": 2,
+          "title": "February 10: The Holy Hieromartyr Charalampos (Situation II § 2, Situation III §§ 3–5) [Violakis, p. 389]"
+        }
+      ],
+      "numbered_items_count": 32,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 401,
+        "max_leaf": 410
+      },
+      "anomalies": []
+    }
+  }
+}
