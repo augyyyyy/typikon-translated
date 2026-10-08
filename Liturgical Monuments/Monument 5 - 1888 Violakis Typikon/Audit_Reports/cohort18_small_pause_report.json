@@ -1,0 +1,128 @@
+{
+  "timestamp": "2026-10-08T00:33:27.862118+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 18,
+  "target_file": "1888_violakis_typikon_cohort18_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort18_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort18_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort18_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort18_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 5,
+      "definition_markers_count": 5,
+      "text_markers": [
+        "[^143]",
+        "[^144]",
+        "[^145]",
+        "[^146]",
+        "[^147]"
+      ],
+      "definition_markers": [
+        "[^143]",
+        "[^144]",
+        "[^145]",
+        "[^146]",
+        "[^147]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort18_raw_draft.md",
+      "passed": true,
+      "paragraphs": 104,
+      "headings_count": 12,
+      "headings": [
+        {
+          "line": 5,
+          "level": 3,
+          "title": "Τῇ Η΄. Τὸ Γενέσιον τῆς Ὑπεραγίας ἡμῶν Θεοτόκου καὶ ἀειπαρθένου Μαρίας."
+        },
+        {
+          "line": 17,
+          "level": 3,
+          "title": "The 8th Day. The Nativity of our Most Holy Lady Theotokos and Ever-Virgin Mary.[^143]"
+        },
+        {
+          "line": 29,
+          "level": 4,
+          "title": "Ἀντίφωνον α΄."
+        },
+        {
+          "line": 36,
+          "level": 4,
+          "title": "Ἀντίφωνον β΄."
+        },
+        {
+          "line": 43,
+          "level": 4,
+          "title": "Ἀντίφωνον γ΄."
+        },
+        {
+          "line": 57,
+          "level": 4,
+          "title": "Antiphon 1 [Psalm 131 LXX]"
+        },
+        {
+          "line": 67,
+          "level": 4,
+          "title": "Antiphon 2 [Psalm 131 LXX]"
+        },
+        {
+          "line": 77,
+          "level": 4,
+          "title": "Antiphon 3 [Psalm 131 LXX]"
+        },
+        {
+          "line": 97,
+          "level": 3,
+          "title": "Τῇ Θ΄. Τῶν ἁγίων καὶ δικαίων Θεοπατόρων Ἰωακεὶμ καὶ Ἄννης."
+        },
+        {
+          "line": 109,
+          "level": 3,
+          "title": "The 9th Day. The Holy and Righteous Ancestors of God Joachim and Anna."
+        },
+        {
+          "line": 145,
+          "level": 3,
+          "title": "Τῇ ΙΒ΄. Ἡ Ἀπόδοσις τῆς ἑορτῆς."
+        },
+        {
+          "line": 161,
+          "level": 3,
+          "title": "The 12th Day. The Apodosis of the Feast.[^147]"
+        }
+      ],
+      "numbered_items_count": 28,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 171,
+        "max_leaf": 180
+      },
+      "anomalies": []
+    }
+  }
+}
