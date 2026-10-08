@@ -1,3 +1,7 @@
+# FOOTNOTES AND SCHOLARLY COMMENTARY
+
+
+
 [^1]: The *Typikon of the Great Church of Christ* (*Τυπικὸν τῆς τοῦ Χριστοῦ Μεγάλης Ἐκκλησίας*), compiled by George Violakis (Protopsaltis of the Ecumenical Patriarchate) and published in Constantinople in 1888 under Patriarch Dionysios V, represents the definitive codification of the Neo-Sabaitic cathedral and parochial rite for the Greek-speaking Orthodox world. It superseded the earlier 1838 and 1851 editions compiled by Constantine the Protopsaltis.
 
 [^2]: The frontispiece reproduces the famous late ninth-century lunette mosaic over the Imperial Door leading from the inner narthex into the nave of Hagia Sophia. Christ Pantokrator is enthroned in glory, with His right hand raised in blessing and His left holding an open Gospel codex with the Johannine incipits: *«Εἰρήνη ὑμῖν. Ἐγώ εἰμι τὸ φῶς τοῦ κόσμου»* (John 20:19, 26; John 8:12). Emperor Leo VI ("the Wise", r. 886–912) kneels in humble proskynesis before His feet, imploring divine mercy.

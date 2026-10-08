@@ -249,32 +249,32 @@
           {
             "id": "part1",
             "filename": "1888_violakis_part1_general_rubrics.md",
-            "title": "PART I: GENERAL RUBRICS & DIATAXIS (Pre-Theory, Hours, Vespers, Matins, and Divine Liturgy)",
-            "start_landmark": "^#+.*?\\b(?:Pre-Theory of the Typikon|General Rubrics|Diataxis)\\b"
+            "title": "PART I: GENERAL RUBRICS & DIATAXIS (Pretheory, Hours, Vespers, Matins, and Divine Liturgy)",
+            "start_landmark": "^#\\s+(?:ΠΡΟΘΕΩΡΙΑ\\s+ΤΟΥ\\s+ΤΥΠΙΚΟΥ|PRE-?THEORY\\s+OF\\s+THE\\s+TYPIKON)\\b"
           },
           {
             "id": "part2",
             "filename": "1888_violakis_part2_menaion.md",
             "title": "PART II: MENAION (Fixed Feasts of the Lord, Mother of God, and Celebrating Saints)",
-            "start_landmark": "^#+.*?\\b(?:Month of September|Menaion)\\b"
+            "start_landmark": "^#\\s+(?:ΜΗΝ\\s+ΣΕΠΤΕΜΒΡΙΟΣ|MONTH\\s+OF\\s+SEPTEMBER)\\b"
           },
           {
             "id": "part3",
             "filename": "1888_violakis_part3_triodion.md",
             "title": "PART III: TRIODION (Pre-Lent, Great Lent, and Holy Week)",
-            "start_landmark": "^#+.*?\\b(?:Triodion|Sunday of the Publican and Pharisee)\\b"
+            "start_landmark": "^#+.*?\\bRitual\\s+Order\\s+of\\s+the\\s+Services\\s+of\\s+the\\s+Triodion\\b"
           },
           {
             "id": "part4",
             "filename": "1888_violakis_part4_pentecostarion.md",
             "title": "PART IV: PENTECOSTARION (Paschal Cycle and Afterfeasts)",
-            "start_landmark": "^#+.*?\\b(?:Pentecostarion|Order of Service for the Services of the Pentecostarion|Sunday of Pascha)\\b"
+            "start_landmark": "^#+.*?\\bRitual\\s+Order\\s+of\\s+the\\s+Services\\s+of\\s+the\\s+Pentekostarion\\b"
           },
           {
             "id": "part5",
             "filename": "1888_violakis_part5_appendices.md",
-            "title": "PART V: APPENDICES & PATRIARCHAL CEREMONIAL (Consecrations, Ordinations, and Epistles)",
-            "start_landmark": "^#+.*?\\b(?:Appendix of the Typikon|Patriarchal Church|Consecration of a Church)\\b"
+            "title": "PART V: APPENDICES, PATRIARCHAL CEREMONIAL & TYPIKON DICTIONARY",
+            "start_landmark": "^#\\s+(?:TYPIKON\\s+APPENDIX|Typikon\\s+Appendix:\\s+Title\\s+Page)\\b"
           }
         ],
         "footnotes_filename": "1888_violakis_footnotes.md"

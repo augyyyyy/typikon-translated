@@ -34,7 +34,7 @@ PLACEHOLDER_PATTERNS = [
     (r"\*?\[Blank\s+[^\]]+\]\*?", "Blank leaf indicator"),
     (r"===\s*LEAF", "Leaf banner delimiter"),
     (r"<!--\s*LEAF", "HTML leaf comment"),
-    (r"\*?\((?:Physical\s+Page|Physical\s+pp\.|Physical\s+Leaf|Book\s+Page|Leaf\s+p?|Blank\s+Flyleaf)[^)]*\)\*?", "Physical page reference"),
+    (r"^[ \t]*\*?\((?:Physical\s+Page|Physical\s+pp\.|Physical\s+Leaf|Book\s+Page|Printed\s+Page|Leaf\s+p?|Blank\s+Flyleaf)[^)]*\)\*?[ \t]*$", "Physical page reference"),
     (r"^[ \t]*(?:Month\s+—\s*\d+\s*—\s*[A-Za-z]+|—\s*\d+\s*—|\d+\s+—\s+[A-Za-z]+)[ \t]*$", "Running book pagination header"),
     (r"^#+\s*Cohort\s+\d+", "Cohort markdown header"),
     (r"^#+\s*.*?Cohort\s+\d+\s+Raw Draft", "Cohort raw draft header"),

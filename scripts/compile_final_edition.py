@@ -78,7 +78,7 @@ def is_explicit_leaf_marker(s: str) -> bool:
     # Blank folios: [Blank Leaf], *[Blank Leaf preceding the Decrees]*, *(Blank Flyleaf / Vacat)*
     if re.fullmatch(r"\*?\[Blank\s+[^\]]+\]\*?", s, re.IGNORECASE):
         return True
-    if re.fullmatch(r"\*?\((?:Physical\s+Page|Physical\s+pp\.|Physical\s+Leaf|Book\s+Page|Leaf\s+p?|Blank)[^)]*\)\*?", s, re.IGNORECASE):
+    if re.fullmatch(r"\*?\((?:Physical\s+Page|Physical\s+pp\.|Physical\s+Leaf|Book\s+Page|Printed\s+Page|Leaf\s+p?|Blank)[^)]*\)\*?", s, re.IGNORECASE):
         return True
     # Running book headers / pagination folios: Month — 180 — March, — 190 —, 180 — March
     if re.fullmatch(r"(?:Month\s+—\s*\d+\s*—\s*[A-Za-z]+|—\s*\d+\s*—|\d+\s+—\s+[A-Za-z]+)", s, re.IGNORECASE):
@@ -252,6 +252,21 @@ def purge_scaffolding_and_stitch_seams(cohort_texts: List[str]) -> str:
             flags=re.MULTILINE | re.IGNORECASE
         )
 
+        # Repeated running table/dictionary headings across leaf seams
+        c_clean = re.sub(r"^###\s+THE\s+CHART\s+OF\s+THE\s+FEASTS\b.*?—\s*Continued\)?\s*\n+", "", c_clean, flags=re.MULTILINE | re.IGNORECASE)
+        c_clean = re.sub(r"^###\s+INTRODUCTION\s+TO\s+THIS\s+DICTIONARY\b.*?\(Continued\)\s*\n+", "", c_clean, flags=re.MULTILINE | re.IGNORECASE)
+        c_clean = re.sub(r"^###\s+BRIEF\s+ALPHABETICAL\s+INDEX\s+OF\s+TYPIKON\s+RELATED\s+TERMS\b.*?\(Continued|Conclusion\)\s*\n+", "", c_clean, flags=re.MULTILINE | re.IGNORECASE)
+        # Part 0 TOC page continuation banners
+        c_clean = re.sub(r"^##\s+\[(?:ΠΡΟΘΕΩΡΙΑ|PRETHEORY|ΤΥΠΙΚΗ\s+ΔΙΑΤΑΞΙΣ|TYPIKON\s+ORDER)[^\]]*—\s*(?:Continued|Συνέχεια)\]\s*\n+", "", c_clean, flags=re.MULTILINE | re.IGNORECASE)
+
+        # Pure continuation headers mid-text: e.g. ## Case 2 (Concluded) [Violakis, p. 258]
+        c_clean = re.sub(
+            r"^##\s+(?:Case\s+\d+|First\s+Hour|Third\s+Hour|Matins\s+of\s+the\s+Feast|Divine\s+Liturgy|Matins\s+and\s+the\s+Divine\s+Liturgy\s+of\s+the\s+Synaxis|Matins\s+and\s+Divine\s+Liturgy|Circumcision\s+of\s+Christ\s*&\s*St\.\s*Basil|January\s+\d+:[^\]]+|February\s+\d+:[^\]]+|Great\s+and\s+Holy\s+Saturday:[^\]]+|\[Order\s+of\s+the\s+Sunday\s+Service[^\]]+\])\s*\((?:Continued|Concluded)\)\s*(?:\([^)]*\)\s*)*(?:\[Violakis,\s*p\.\s*\d+\])?\s*\n+",
+            "",
+            c_clean,
+            flags=re.MULTILINE | re.IGNORECASE
+        )
+
         # 6. MTS-1 Epigraphic Parenthesization:
         # Stacked English ## Titulus followed by ### Cyrillic
         c_clean = re.sub(
@@ -309,6 +324,15 @@ def format_liturgical_typography(text: str) -> str:
             pass
         elif re.match(r"^(?:>\s*)?Let it be known:[ ]*$", trimmed, re.IGNORECASE):
             line = "> [!NOTE]\n> **Let it be known:**"
+
+        # 3. Strip bracketed volume page markers [Violakis, p. 123] and clean continuation phrasing from headings
+        if trimmed.startswith('#'):
+            trimmed = re.sub(r"\s*\[Violakis,\s*p\.\s*\d+\]", "", trimmed)
+            trimmed = re.sub(r"\s*\((?:Continued|Concluded|Conclusion)\s*&\s*Lenten\s*Order\)", " (Lenten Order)", trimmed, flags=re.IGNORECASE)
+            trimmed = re.sub(r"\s*\((?:Continued|Concluded|Conclusion)\)", "", trimmed, flags=re.IGNORECASE)
+            trimmed = re.sub(r"\s*—\s*(?:Continued|Concluded|Conclusion)", "", trimmed, flags=re.IGNORECASE)
+            trimmed = re.sub(r"\s*Continued:\s*", " ", trimmed, flags=re.IGNORECASE)
+            line = trimmed
 
         formatted_lines.append(line)
 
