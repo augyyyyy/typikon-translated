@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-10-08T10:44:45.558756+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 90,
+  "target_file": "1888_violakis_typikon_cohort90_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort90_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort90_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort90_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort90_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 5,
+      "definition_markers_count": 5,
+      "text_markers": [
+        "[^505]",
+        "[^506]",
+        "[^507]",
+        "[^508]",
+        "[^509]"
+      ],
+      "definition_markers": [
+        "[^505]",
+        "[^506]",
+        "[^507]",
+        "[^508]",
+        "[^509]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort90_raw_draft.md",
+      "passed": true,
+      "paragraphs": 111,
+      "headings_count": 28,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Appendix: The Ceremony of the Consecration of a Church (Censing, Anointing, and Conclusion)"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Ἡ Τελετὴ τῶν Ἐγκαινίων (Θυμίασις, Χρῖσις τῶν Κιόνων, καὶ Ἀπόλυσις) [Violakis, p. 876]"
+        },
+        {
+          "line": 17,
+          "level": 1,
+          "title": "Appendix: The Ceremony of the Consecration of a Church (Censing, Anointing, and Conclusion)"
+        },
+        {
+          "line": 19,
+          "level": 2,
+          "title": "The Ceremony of the Consecration of a Church (Censing, Anointing of Pillars, Altar Lamp, and Dismissal) [Violakis, p. 877]"
+        },
+        {
+          "line": 36,
+          "level": 1,
+          "title": "Appendix: The Ceremony of the Consecration of a Church (Liturgy Antiphons)"
+        },
+        {
+          "line": 38,
+          "level": 2,
+          "title": "Τὰ Ἀντίφωνα τῆς Λειτουργίας τῶν Ἐγκαινίων [Violakis, p. 878]"
+        },
+        {
+          "line": 42,
+          "level": 3,
+          "title": "'Αντίφωνον Α'"
+        },
+        {
+          "line": 51,
+          "level": 3,
+          "title": "'Αντίφωνον Β'"
+        },
+        {
+          "line": 60,
+          "level": 3,
+          "title": "'Αντίφωνον Γ'"
+        },
+        {
+          "line": 74,
+          "level": 1,
+          "title": "Appendix: The Ceremony of the Consecration of a Church (Liturgy Antiphons)"
+        },
+        {
+          "line": 76,
+          "level": 2,
+          "title": "The Divine Liturgy Antiphons for the Consecration of a Church [Violakis, p. 879]"
+        },
+        {
+          "line": 82,
+          "level": 3,
+          "title": "Antiphon One"
+        },
+        {
+          "line": 91,
+          "level": 3,
+          "title": "Antiphon Two"
+        },
+        {
+          "line": 100,
+          "level": 3,
+          "title": "Antiphon Three"
+        },
+        {
+          "line": 112,
+          "level": 1,
+          "title": "Appendix: The Ceremony of the Consecration of a Church (Liturgy Readings and Feasts of the Lord)"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 891,
+        "max_leaf": 900
+      },
+      "anomalies": []
+    }
+  }
+}
