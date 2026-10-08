@@ -1,5 +1,3 @@
-[Book Page 1]
-
 # TYPIKON, <a id="typikon-of-fr-jacob-doskovsky-peremyshl-1852"></a>
 ### that is:
 ## THE ORDER
@@ -16,15 +14,11 @@
 ### In the Press of the Ruthenian Cathedral Chapter[^3]
 ### 1852.
 
-[Book Page 2]
-
 > “Be filled with the Spirit, speaking to yourselves in psalms and hymns and spiritual canticles, singing and chanting in your hearts to the Lord.”  
 > — *Ephesians 5:19*[^4]
 
 > “Let all things be done decently and in order.”  
 > — *1 Corinthians 14:40*
-
-[Book Page 3]
 
 ---
 
@@ -87,8 +81,6 @@ After the Sixth Hour, the Divine Liturgy takes place. But if the Divine Liturgy 
 > 6. **Heirmologion** (*І҆рмоло́гїонъ*);  
 > 7. **Liturgikon** (*Литургіко́нъ* / *Служе́бникъ*), the **Apostolos** (*А҆по́столъ*), and the **Gospel Book** (*Єv́а́ггелїе*).
 
-[Book Page 4]
-
 *(During the Holy Forty Days of the Great Fast, the Typika is joined in part to the Ninth Hour and in part to Vespers).*
 
 ## On Vespers[^8]
@@ -99,8 +91,6 @@ Great Vespers occurs both with Litiya and without (apart from) Litiya. (The All-
 
 Small Vespers is celebrated (usually in monasteries) according to the Typikon in the evening before an impending All-Night Vigil, before the setting of the sun.
 
-[Book Page 5]
-
 Great Vespers with Litiya (the All-Night Vigil) is celebrated according to the Typikon after the setting of the sun; but according to local custom here, on that very day before the rising of the sun upon which falls whatever Feast of the Lord (Dominical), of the Mother of God, or of a celebrated Saint to whom an All-Night Vigil is rendered[^9].
 
 Great Vespers without Litiya takes place on Saturday evening (facing Sunday), and also on a weekday if on the following day there occurs a Saint having a Polyeleos (without an All-Night Vigil), marked in the Horologion or Anthologion with the sign of the cross ☩[^10].
@@ -109,11 +99,7 @@ Weekly or Daily Vespers (middling) is celebrated when on the following weekday�
 
 ## On Compline
 
-Compline is Small and Great. Small Compline is read throughout the entire year; Great Compline only in the Holy Forty Days of the Great Fast, that is: on Monday, Tuesday, Wednesday, and Thursday. Likewise, Great Compline is chanted with Litiya on the Feasts of the Nativity of Christ,
-
-[Book Page 6]
-
-of the Theophany of the Lord, and of the Annunciation of the Most Holy Mother of God, even if it falls during the Fast.
+Compline is Small and Great. Small Compline is read throughout the entire year; Great Compline only in the Holy Forty Days of the Great Fast, that is: on Monday, Tuesday, Wednesday, and Thursday. Likewise, Great Compline is chanted with Litiya on the Feasts of the Nativity of Christ, of the Theophany of the Lord, and of the Annunciation of the Most Holy Mother of God, even if it falls during the Fast.
 
 ## On the Midnight Office
 
@@ -125,11 +111,7 @@ Matins is divided according to the Typikon into Weekly (Daily) and Great. Weekly
 
 ## On the Hours
 
-The First Hour according to the Typikon is always joined to Matins; the Third and Sixth are read together; and the Ninth usually before Vespers in sequence, as
-
-[Book Page 7]
-
-is set forth in the Horologion (*Молитвосло́въ* / *Часосло́въ*). Concerning the troparia and kontakia read at the Hours, it is indicated below in their proper places. On the Paramony (Eve) of the Nativity of Christ and of Theophany, and likewise on Great Friday, the Royal Hours (*Часы̀ ца́рстїи*) are read.
+The First Hour according to the Typikon is always joined to Matins; the Third and Sixth are read together; and the Ninth usually before Vespers in sequence, as is set forth in the Horologion (*Молитвосло́въ* / *Часосло́въ*). Concerning the troparia and kontakia read at the Hours, it is indicated below in their proper places. On the Paramony (Eve) of the Nativity of Christ and of Theophany, and likewise on Great Friday, the Royal Hours (*Часы̀ ца́рстїи*) are read.
 
 ## On the Divine Liturgy and Typika
 
@@ -137,19 +119,13 @@ The Divine Liturgy in the Eastern Church is threefold, namely: the Liturgy of St
 
 The Liturgy of St. John Chrysostom is chanted throughout the entire year, except for those days on which the Typikon forbids it, or on which it commands to chant the Liturgy of St. Basil the Great or the Presanctified.
 
-The Liturgy of St. Basil is chanted without Vespers on the Feast of St. Basil the Great on the 1st of January, and also on the 1st, 2nd, 3rd, 4th, and 5th Sundays of the Holy Great Fast. Together with Vespers, the Liturgy of St. Basil is chanted on the Paramony of the Nativity of Christ and of Theophany, if the Paramony falls on Monday, Tuesday, Wednesday, Thursday, or Friday. For if the Paramony of both these Feasts falls on Saturday or Sunday, then on the Paramony the Liturgy of Chrysostom takes place, and on the Feast itself of the Nativity or Theophany of the Lord the Liturgy of St. Basil is celebrated without
-
-[Book Page 8]
-
-Vespers. Likewise on Great Thursday and on Holy Great Saturday, the Liturgy of St. Basil is chanted together with Vespers.
+The Liturgy of St. Basil is chanted without Vespers on the Feast of St. Basil the Great on the 1st of January, and also on the 1st, 2nd, 3rd, 4th, and 5th Sundays of the Holy Great Fast. Together with Vespers, the Liturgy of St. Basil is chanted on the Paramony of the Nativity of Christ and of Theophany, if the Paramony falls on Monday, Tuesday, Wednesday, Thursday, or Friday. For if the Paramony of both these Feasts falls on Saturday or Sunday, then on the Paramony the Liturgy of Chrysostom takes place, and on the Feast itself of the Nativity or Theophany of the Lord the Liturgy of St. Basil is celebrated without Vespers. Likewise on Great Thursday and on Holy Great Saturday, the Liturgy of St. Basil is chanted together with Vespers.
 
 *Note.* The Liturgy of St. John Chrysostom is also celebrated together with Vespers on the Feast of the Annunciation of the Most Holy Mother of God, if it falls on Monday, Tuesday, Wednesday, Thursday, or Friday of the Holy Forty Days of the Great Fast.
 
 The Liturgy of the Presanctified (Holy) Gifts is celebrated in the Great Fast on Wednesday and Friday, and in Passion Week on Monday, Tuesday, and Wednesday.
 
 Concerning the Typika (*Оу҆бѣ́дница*) or the Service of the Typika (*И҆зобрази́тельная*), it is fitting to know that it takes place on Sundays, feasts, and other days whenever for any necessity there is no Divine Liturgy. It is read after the Sixth Hour.
-
-[Book Page 9]
 
 # ORDER OF HIERATICAL CELEBRATION,
 ### that is: how the Deacon serves with the Priest,
@@ -172,11 +148,7 @@ The Exclamation by the Priest: **"For Thine is the kingdom..."** (*Яко тво
 **"Lord, have mercy"** (twelve times).  
 **"Come, let us worship..."** (*Прїидите поклонимся*) (three times).  
 *(Thus far the usual beginning).*  
-And the Ninth Hour is read in sequence. Then at its conclusion, and after the dismissal, they enter the temple. But if the Ninth Hour is said in the temple,
-
-[Book Page 10]
-
-then no dismissal takes place, but immediately the Priest begins: **"Blessed is our God..."** (*Благословенъ Богъ нашъ*).  
+And the Ninth Hour is read in sequence. Then at its conclusion, and after the dismissal, they enter the temple. But if the Ninth Hour is said in the temple, then no dismissal takes place, but immediately the Priest begins: **"Blessed is our God..."** (*Благословенъ Богъ нашъ*).
 And the Reader says: **"Come, let us worship..."** (*Прїидите поклонимся*) (three times).  
 And the evening psalm: **"Bless the Lord, O my soul"** (*Благослови душе моя Господа*), in a low voice.  
 After the psalm: **"Glory... Now and forever, and unto the ages of ages."**  
@@ -200,8 +172,6 @@ After this, the Priest says the Litany: **"Have mercy on us, O God, according to
 Then: **"Glory to Thee, O Christ God..."** (*Слава тебѣ Христе Боже*), and the Small Dismissal.  
 *(For the conclusion of the dismissal, see under the date of the impending feast in the Horologion).*
 
-[Book Page 11]
-
 ## ORDER
 ## Of the All-Night Vigil,
 ### that is: Great Vespers with Litiya, and Matins with the First Hour,
@@ -212,11 +182,7 @@ After the setting of the sun, or according to local custom here at the 5th hour 
 
 The Priest, having made three bows before the Holy Doors and to both choirs, enters the holy sanctuary, puts on the epitrachelion, kissing the cross upon it (in cathedral and parish churches, the Priest performs this vested in the phelonion, and the Deacon in the sticharion); and having put incense with prayer into the censer, he himself censes the Holy Table crosswise all around and the entire table of oblation, and opens the Holy Doors.
 
-While he stands before the Holy Table, the serving Deacon (or the lamplighter if there is no Deacon), taking a candlestick, precedes the Priest through the north door, and standing in the midst of the church with
-
-[Book Page 12]
-
-the lighted candle, exclaims in a loud voice: **"Command, Master!"** (*Повели́те*)[^16].
+While he stands before the Holy Table, the serving Deacon (or the lamplighter if there is no Deacon), taking a candlestick, precedes the Priest through the north door, and standing in the midst of the church with the lighted candle, exclaims in a loud voice: **"Command, Master!"** (*Повели́те*)[^16].
 
 All having stood up, the Priest signs a cross with the censer three times before the Holy Table; and then he exclaims thus:
 
@@ -232,11 +198,7 @@ Again a third time, in a higher voice:
 
 And immediately the Introductory Psalm 103 is read: **"Bless the Lord, O my soul"** (*Благослови душе моя Господа*)[^17]; (elsewhere they chant it slowly, with sweet-singing and with the refrain: **"Blessed art Thou, O Lord,"** the rest of the brethren joining in singing).
 
-The Priest, having gone out through the Holy Doors, makes a cross with the censer before the Holy Doors, moving it vertically and horizontally, and goes and censes in order the holy local icons, first on the right side, then on the left. After this he censes the superior, both choirs according to their rank, and the standing people, and makes a complete circuit with the censer throughout the church, the Deacon or sacristan preceding him with a candle. Whenever the Priest makes a cross with the censer, bowing slightly, the Deacon or candle-bearer also bows with him. Returning again to the Royal Doors,
-
-[Book Page 13]
-
-he makes a cross with the censer before the Royal Doors, censes slightly the icon of Christ the Saviour and of the Mother of God, and having entered into the holy sanctuary, he closes the Holy Doors.
+The Priest, having gone out through the Holy Doors, makes a cross with the censer before the Holy Doors, moving it vertically and horizontally, and goes and censes in order the holy local icons, first on the right side, then on the left. After this he censes the superior, both choirs according to their rank, and the standing people, and makes a complete circuit with the censer throughout the church, the Deacon or sacristan preceding him with a candle. Whenever the Priest makes a cross with the censer, bowing slightly, the Deacon or candle-bearer also bows with him. Returning again to the Royal Doors, he makes a cross with the censer before the Royal Doors, censes slightly the icon of Christ the Saviour and of the Mother of God, and having entered into the holy sanctuary, he closes the Holy Doors.
 
 When they begin to sing: **"In wisdom hast Thou made them all"** (*Вся премудростїю сотворилъ еси*), the Priest comes before the Royal Doors in epitrachelion only, and standing, recites the Prayers of Light (Vesper Prayers).
 
@@ -246,11 +208,7 @@ After the exclamation, they chant selected verses from the First Kathisma of the
 
 After the exclamation of this, the Choir chants **"Lord, I have cried"** (*Господи воззвахъ*) in the appointed Tone, the first stichera of the feast; and then the Deacon, having taken a blessing from the Priest (or the Priest himself where there is no Deacon), censes the Holy Table and the entire sanctuary, and going out through the north side, censes the whole church.
 
-At the conclusion of the festal stichera, when we say the verse: **"For His mercy is confirmed upon us..."** (*Яко утвердися милость его на насъ*), both choirs together, then the Priest, having bowed to the superior and entered into the holy sanctuary, vests in the phelonion. And while the Choir sings in the midst of the church **"Glory... Now and forever, and unto the ages of ages:"**, he opens the Royal Doors and makes the Entrance with the censer. And if there is a Deacon, he precedes him
-
-[Book Page 14]
-
-with the censer, and they go out (round about the Holy Table) by the north door, two candle-bearers preceding them with candles.
+At the conclusion of the festal stichera, when we say the verse: **"For His mercy is confirmed upon us..."** (*Яко утвердися милость его на насъ*), both choirs together, then the Priest, having bowed to the superior and entered into the holy sanctuary, vests in the phelonion. And while the Choir sings in the midst of the church **"Glory... Now and forever, and unto the ages of ages:"**, he opens the Royal Doors and makes the Entrance with the censer. And if there is a Deacon, he precedes him with the censer, and they go out (round about the Holy Table) by the north door, two candle-bearers preceding them with candles.
 
 Having arrived before the Royal Doors, they bow toward the altar. The Priest stands directly facing the Holy Doors, and the Deacon stands at the Priest's right hand before the Holy Doors; and bending down, holding his orarion with three fingers of his right hand, he says secretly so that only the Priest hears: **"Let us pray to the Lord."**  
 And the Priest says secretly the prayer: **"In the evening and in the morning and at noonday..."**[^19]  
@@ -262,8 +220,6 @@ Upon the completion of the sticheron, the Deacon enters into the midst, and trac
 *(If there is no Deacon, the Priest himself does this).*  
 And the Choir sings: **"Gladsome Light of the holy glory..."** (*Свѣте тихій святыя славы*).  
 The Deacon (or if there is none, the Priest himself), having entered into the holy sanctuary, censes the Holy Table.
-
-[Book Page 15]
 
 The Priest, having bowed before the Holy Doors and kissed them, enters into the holy sanctuary.
 
@@ -287,11 +243,7 @@ Then: **"Peace be unto all."**
 And the Deacon: **"Let us bow our heads unto the Lord."**  
 The Priest exclaims: **"Blessed and glorified be the majesty of Thy kingdom..."** (*Буди держава*).
 
-After this, the Deacon, taking the censer and asking a blessing, goes out before the Priest, who takes the holy cross; and two candle-bearers preceding them, they go out into the narthex (if there is no Deacon, the Priest himself goes out with the censer and cross). All the brethren and the choirs also go out with them into the narthex, singing the Litiya stichera of the feast
-
-[Book Page 16]
-
-(or the first sticheron of the temple patron, and of the Saint if he has a Vigil). And there the Deacon (or the Priest himself if there is no Deacon) censes all the holy icons, the superior, the choirs, and all according to custom, and having put aside the censer, stands in his place.
+After this, the Deacon, taking the censer and asking a blessing, goes out before the Priest, who takes the holy cross; and two candle-bearers preceding them, they go out into the narthex (if there is no Deacon, the Priest himself goes out with the censer and cross). All the brethren and the choirs also go out with them into the narthex, singing the Litiya stichera of the feast (or the first sticheron of the temple patron, and of the Saint if he has a Vigil). And there the Deacon (or the Priest himself if there is no Deacon) censes all the holy icons, the superior, the choirs, and all according to custom, and having put aside the censer, stands in his place.
 
 At the conclusion of the stichera with **"Glory... Now and forever, and unto the ages of ages:"**, the Deacon (or in the absence of a Deacon, the Priest himself) exclaims in the hearing of all this prayer: **"Save, O God, Thy people, and bless Thine inheritance..."** (*Спаси Боже люди твоя, и благослови достоянїе твое*), as in the Horologion, unto the end of the twelve **"Lord, have mercy,"** and the remaining prayers.
 
@@ -307,11 +259,7 @@ And candlesticks are set on either side of the pre-adorned Tetrapod (*четве
 * One dish with five loaves in the middle at the top;
 * The second, containing wheat, below facing the first;
 * The third vessel, containing wine, on the side of the small choir, that is, on the right side where the icon of the Mother of God is;
-* The fourth, containing
-
-[Book Page 17]
-
-oil, on the side of the great choir, that is, on the left side where the icon of Christ the Master is[^21].
+* The fourth, containing oil, on the side of the great choir, that is, on the left side where the icon of Christ the Master is[^21].
 
 At the conclusion of the stichera: **"Now lettest Thou..."** (*Нынѣ отпущаеши*).  
 Trisagion. And after **"Our Father..."**, the Priest exclaims: **"For Thine is the kingdom..."**  
@@ -324,11 +272,7 @@ The Priest says the prayer in a loud voice: **"O Lord Jesus Christ our God, Who 
 And lifting up one loaf, he signs with it the rest of the loaves. And when he says: **"DO THOU THYSELF (AND NOW, O MASTER) BLESS..."** (*САМЪ [и НЫНѢ ВЛАДЫКО] БЛАГОСЛОВИ*), he points with his right hand, having turned it with palm upward, toward the loaves: **"THESE LOAVES..."** (*ХЛѢБЫ СЇЯ*); likewise toward the wheat, wine, and oil: **"THE WHEAT, THE WINE, AND THE OIL."** (*ПШЕНИЦУ, ВИНО И ЕЛЕЙ*).
 
 At the conclusion of the prayer and after the **"Amen,"** the Choir sings: **"Blessed be the name of the Lord, from this time forth and unto all ages"** (three times) in Tone 4.  
-Then Psalm 33 is read: **"I will bless the Lord at all times..."** (*Благословлю Господа на всякое время*). And we say
-
-[Book Page 18]
-
-it up to: **"They shall not want any good thing."**[^23]  
+Then Psalm 33 is read: **"I will bless the Lord at all times..."** (*Благословлю Господа на всякое время*). And we say it up to: **"They shall not want any good thing."**[^23]
 **"Glory... Now and forever, and unto the ages of ages."**  
 **"Lord, have mercy"** (three times); **"Father, bless."**  
 The Priest, going, stands before the Royal Doors, awaiting the completion of the Psalm, looking toward the west. And upon the completion of the Psalm, the Priest, blessing toward the people, says: **"The blessing of the Lord be upon you, through His grace and love for mankind, always, now and forever, and unto the ages of ages."**
@@ -351,11 +295,7 @@ After this, the Troparion of the feast, or as is specified in the Typikon; and t
 And immediately the Choir says: **"Lord, have mercy"** (three times).  
 **"Glory to the Father, and to the Son, and to the Holy Spirit:"**  
 > **Reader:** **"Now and forever, and unto the ages of ages:"**
-And he recites the stichology of the
-
-[Book Page 19]
-
-Kathisma of the Psalter.
+And he recites the stichology of the Kathisma of the Psalter.
 
 Upon the completion of each stichology, the Priest says the Little Litany: **"Again and again in peace let us pray to the Lord,"** and the exclamation as in the Horologion.  
 The Choir sings the Sessional Hymn (*Сѣда́ленъ*) of the feast (or as indicated), and **"Glory... Now and forever, and unto the ages of ages."**  
@@ -364,10 +304,7 @@ Then the second Kathisma and the second Sessional Hymn with **"Glory... Now and 
 And they chant the Polyeleos, that is: the Psalm **"Praise the name of the Lord..."** (*Хвалите имя Господне*)[^25], and the Megalynarion with the selected verses from the Psalms of David.  
 After this the Little Litany is said, then the Sessional Hymn after the Polyeleos.
 
-[It is fitting to know also this: that at the Vigil of the all-night singing during the Polyeleos—that is, when they sing the Psalms **"Praise the name of the Lord"** and **"Give thanks unto the Lord"**—an analogion is set in the midst of the church, and upon it is placed the festal icon of the Day of the Lord, or of the Mother of God, or of the holy man or woman; and all the candles are kindled. And the Priest vests in white sticharion, or all the concelebrating clergy, if there are any, in phelonia according to custom. And having gone forth from the sanctuary through the opened Royal Doors, they stand on both sides around the analogion. And the superior distributes candles to the concelebrants and to the people standing in the holy temple. After the distribution, taking the censer, the Deacon preceding him with a burning candle, he censes first the icon upon the analogion round about, and goes to the altar and there censes the Holy Table and the entire sanctuary, and in the temple all the holy local icons; then the concelebrating clergy on both sides and both choirs...][^26] [Book Page 20]
-
----
-
+[It is fitting to know also this: that at the Vigil of the all-night singing during the Polyeleos—that is, when they sing the Psalms **"Praise the name of the Lord"** and **"Give thanks unto the Lord"**—an analogion is set in the midst of the church, and upon it is placed the festal icon of the Day of the Lord, or of the Mother of God, or of the holy man or woman; and all the candles are kindled. And the Priest vests in white sticharion, or all the concelebrating clergy, if there are any, in phelonia according to custom. And having gone forth from the sanctuary through the opened Royal Doors, they stand on both sides around the analogion. And the superior distributes candles to the concelebrants and to the people standing in the holy temple. After the distribution, taking the censer, the Deacon preceding him with a burning candle, he censes first the icon upon the analogion round about, and goes to the altar and there censes the Holy Table and the entire sanctuary, and in the temple all the holy local icons; then the concelebrating clergy on both sides and both choirs...][^26]
 
 Thereupon, passing through, he censes all the standing people, and again the holy doors and only two icons, of Christ and of the Mother of God, and that upon the analogion. At that same time they sing the Megalynarion, the Priest beginning it first together with the concelebrating clergy. After this customary chanting, the Little Litany is said by the Deacon, and the Sessional Hymns are chanted. And all the concelebrating clergy enter into the holy sanctuary and divest themselves of the sacred vestments; only the Priest holding the turn remains vested, for the reading of the Gospel.][^27]
 
@@ -398,8 +335,6 @@ Then the Deacon says:
 > **Choir:** ""
 **"Glory to Thee, O Lord, glory to Thee."** (*Сла́ва тебѣ̀ Го́споди, сла́ва тебѣ̀*)  
 
-[Book Page 21]
-
 > **Deacon:** **"Let us be attentive."** (*Во́нмимъ*)
 And the Priest reads the Morning Gospel of the feast (if the celebrated Saint falls on a Sunday, then the Resurrectional Gospel of the cycle is read).  
 Then Psalm 50.[^28]  
@@ -423,8 +358,6 @@ And the exclamation from the Priest is this:
 And after **"Amen,"** they begin the Heirmos of the Canon; then they read also the troparia up to 14 with the refrains. (The approaching people are signed by the Priest with the holy oil blessed at the All-Night Vigil).[^30]  
 — Thereupon the Priest divests himself of the sacred vestments, and having closed the holy doors, stands at his customary place.
 
-[Book Page 22]
-
 The Deacon stands in the sticharion. It is fitting also to extinguish the candles here.  
 After the Third Ode, the Little Litany is said by the Deacon, and the exclamation by the Priest within the sanctuary. Then the Sessional Hymn or Hypakoe.  
 After the Sixth Ode, again the Little Litany and the Kontakion.  
@@ -444,8 +377,6 @@ in the tone of the first sticheron. Then they read Psalms 148, 149, and 150, and
 The Ponomar kindles the candles.  
 The Priest vests in epitrachelion and phelonion, opens the royal doors, and goes forth from the sanctuary (with the Deacon, if there is one, going forth through the south door), and makes one bow.  
 And at the conclusion of the sticheron, the Priest, having bowed toward the east, exclaims:
-
-[Book Page 23]
 
 **"Glory to Thee Who hast shown us the light!"** (*Сла́ва тебѣ̀, показа́вшемꙋ на́мъ свѣ́тъ*)  
 The Choir with those present sings the Great Doxology, that is:  
@@ -482,8 +413,6 @@ The Choir immediately: **"Come, let us worship and bow down..."** (three times),
 **"Glory to Thee, O Christ our God, our hope, glory to Thee!"**  
 and the complete Dismissal.
 
-[Book Page 24]
-
 ## The Order
 ### OF GREAT VESPERS,
 #### Chanted on Saturday Evening for Sunday.
@@ -504,8 +433,6 @@ before the royal doors. (If there is a Deacon, he vests here in the sticharion a
 
 [^36] †) *If the Ninth Hour on Saturday was not said together with the Third and Sixth, but is read here before Vespers, then after the customary beginning the Psalms of the Ninth Hour are read. After them no Dismissal takes place (unless it was read in the narthex), but the Priest says the beginning:* **"Blessed is our God..."** *and the Choir immediately:* **"Come, let us worship..."** (three times) *and Psalm 103:* **"Bless the Lord, O my soul..."**
 
-[Book Page 25]
-
 and having stood at the customary place of the ambo, says the Litany.)  
 After the exclamation of the Priest, the Choir sings the First Kathisma of the Psalter:  
 **"Blessed is the man..."** (*Блаже́нъ мꙋ́жъ*)[^37]  
@@ -517,14 +444,10 @@ and the exclamation:
 Then they sing:  
 **"Lord, I have cried unto Thee, hear me..."** (*Го́споди воззва́хъ*)  
 in the occurring tone of the Octoechos cycle, and then the Priest, having entered into the sanctuary, puts incense into the censer and says the Prayer of Incense secretly, and thus censes (or the Deacon censes) the holy table crosswise round about and the entire Prothesis, and having gone out through the north door, goes and censes the holy icons: on the south side the icon of Christ the Savior and of the patron of the temple and the others on that side; likewise on the left side the icon of the Theotokos and the others, then the Superior; and thus he censes the entire right choir and the left choir, raising the censer before each straight and across, making a cross, and bows to them in good order, to all equally, and they all likewise make a bow to him; he censes also all the brethren, first directly toward the doors, then on the right and on the left side; then having bowed slightly he returns to the royal doors, and having made the sign of the cross before the royal doors, enters into the holy sanctuary through the south door, and makes the sign of the cross before the holy table and puts away the censer.[^38]  
-The Choir, having
-
-[Book Page 26]
-
-having read through the remaining verses of Psalm 140 and Psalm 141, set—if it is Sunday—ten verses, beginning from:  
+The Choir, having read through the remaining verses of Psalm 140 and Psalm 141, set—if it is Sunday—ten verses, beginning from:
 **"Bring my soul out of prison, that I may praise Thy name."** (*И҆зведѝ и҆зъ те́мницы дꙋ́шꙋ мою̀*)  
 and the Stichera written for **"Lord, I have cried"** are sung, as the rubrical table inscribed hereafter indicates. And when the verse is said:  
-**"For His mercy is confirmed upon us, and the truth of the Lord endures forever."** (*Ꙗ҆́кѡ оу҆тверди́сѧ ми́лость е҆гѡ̀ на на́съ*)  
+**"For His mercy is confirmed upon us, and the truth of the Lord endureth forever."** (*Ꙗ҆́кѡ оу҆тверди́сѧ ми́лость е҆гѡ̀ на на́съ*)  
 then the Priest, having made a bow, enters into the holy sanctuary and vests in the phelonion. When they begin to sing  
 **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen."**  
 in the midst of the church, the Priest opens the royal doors, and going around the holy table by the north side, makes the Entrance with the censer, having his phelonion let down. (If there is a Deacon, he does everything here that is done at the All-Night Vigil.) Two servers with candles precede him. And having stood before the holy doors, he says secretly the Entrance Prayer, and awaits the completion of the First Theotokion (Dogmatikon).[^39]  
@@ -537,11 +460,7 @@ At the conclusion of the chanting, the Priest or Deacon exclaims:
 **"Let us be attentive! Peace be unto all! Wisdom, let us be attentive!"**  
 The Choir sings the Prokeimenon of the day:  
 **"The Lord is King, He is robed in majesty."** (*Госпо́дь воцари́сѧ, въ лѣ́потꙋ сѧ ѡ҆блече́*)  
-and the Reader reads also its verses. The Priest, having turned toward the west with hands folded, stands awaiting the completion of the Prokeimenon; then he bows toward the east, and having stood before
-
-[Book Page 27]
-
-the holy table (or the Deacon standing at the customary place), says the Litany:  
+and the Reader reads also its verses. The Priest, having turned toward the west with hands folded, stands awaiting the completion of the Prokeimenon; then he bows toward the east, and having stood before the holy table (or the Deacon standing at the customary place), says the Litany:
 **"Let us all say with our whole soul and with our whole mind, let us say:"** (*Рце́мъ всѝ ѿ всея̀ дꙋшѝ...*)  
 After the exclamation of the Priest, the Choir reads:  
 **"Vouchsafe, O Lord, to keep us this evening without sin..."** (*Сподо́би, Го́споди, въ ве́черъ се́й...*)  
@@ -578,8 +497,6 @@ The Priest, standing according to the Typikon in the royal doors facing the peop
 **"May Christ our true God, Who rose from the dead..."** (*Воскресы́й и҆зъ ме́ртвыхъ Христо́съ и҆́стинный Бо́гъ на́шъ...*)  
 and the rest, as in the Horologion, and commemorates the saint whose service is sung.*)[^41]
 
-[Book Page 28]
-
 *) *If Vespers on Saturday evening is read outside the church, in private [in cella], then at "Lord, I have cried" and at the Aposticha they read the Common Stichera, and those which are found in the Horologion in the Sunday service of Tone 6.*
 
 > **Remark.** In this manner, as is here delineated for Saturday evening, Vespers with the Entrance is celebrated on a weekday if there occurs a Saint having a Polyeleos, only that after the daily Prokeimenon there are three readings [Paroemias / Old Testament Lessons], and then the Priest before each reading exclaims:  
@@ -592,8 +509,6 @@ and the rest, as in the Horologion, and commemorates the saint whose service is 
 > and all the rest as was depicted a little above for Saturday Great Vespers unto the end, and in the Dismissal he commemorates the celebrated saint.[^42]
 
 **Behold.** On Saturday evening Small Compline is read, whose order is delineated below after Daily Vespers.
-
-[Book Page 29]
 
 ## The Order
 ### OF SUNDAY MIDNIGHT OFFICE
@@ -623,8 +538,6 @@ Then the Priest receives the customary mutual forgiveness and says:
 and the rest.
 
 *) *If Sunday Midnight Office is read in private [in cella], one reads the beautiful Triadic Canon written in the Horologion, and at the end after the Troparia and after "Our Father": "Lord, have mercy" (40 times); then the Prayer:* **"O Almighty and Life-creating Trinity..."** (*Всемогꙋ́щаѧ и҆ животворя́щаѧ Тр҃це...*)[^45]
-
-[Book Page 30]
 
 ## The Order
 ### OF SUNDAY MATINS,
@@ -663,8 +576,6 @@ Then
 
 > **Behold.** Whenever the Midnight Office was not celebrated in the church, Matins begins from the customary beginning [i.e., with "Glory to the holy, consubstantial..."][^46].
 
-[Book Page 31]
-
 he reads the Six Psalms, with all attentiveness and fear of God. The Priest withdraws to his place.  
 After three psalms, that is: when they begin to read the Psalm:  
 **"O Lord God of my salvation, I have cried day and night before Thee..."** [Psalm 87]  
@@ -674,7 +585,7 @@ After the Six Psalms, when the Choir sings
 the Priest, standing before the royal doors, says the Great Litany:  
 **"In peace let us pray to the Lord."**  
 And after the exclamation, the Choir proclaims:  
-**"God is the Lord, and hath appeared unto us: blessed is He that comes in the name of the Lord."** (*Бо́гъ Госпо́дь и҆ ꙗ҆ви́сѧ на́мъ...*)  
+**"God is the Lord, and hath appeared unto us: blessed is He that cometh in the name of the Lord."** (*Бо́гъ Госпо́дь и҆ ꙗ҆ви́сѧ на́мъ...*)  
 and sings it in the occurring tone of the Octoechos. The Priest or the Reader reads also its verses.  
 Then they sing the Resurrectional Troparion twice; "Glory..." of the Saint of that day; "Now and forever, and unto the ages of ages:" Theotokion according to the tone of the troparion of the saint. [Or as is otherwise indicated in the Typikon.]  
 After the troparia, the Choir immediately says:  
@@ -690,11 +601,7 @@ and the second Sessional Hymn; "Glory... Now and forever, and unto the ages of a
 Then follows the second stichology, the Little Litany, and the second Sessional Hymn; "Glory... Now and forever, and unto the ages of ages," and its Theotokion.  
 Then the Reader reads the Blameless [Amomos], that is: Kathisma XVII:  
 **"Blessed are the blameless in the way, who walk in the law of the Lord."** [Psalm 118]  
-(or they sing the Polyeleos if the
-
-[Book Page 32]
-
-Typikon prescribes it). During which the Priest censes according to the Typikon.  
+(or they sing the Polyeleos if the Typikon prescribes it). During which the Priest censes according to the Typikon.
 The Choir immediately sings the Troparia:  
 **"The assembly of the Angels was amazed..."** (*А҆́ггелскїй собо́ръ...*)  
 with the refrain:  
@@ -727,11 +634,7 @@ The Priest exclaims:
 and reads the Resurrectional (Morning) Gospel of the cycle. Thereafter we say:  
 **"Having seen the Resurrection of Christ, let us worship the Holy Lord Jesus, the only Sinless One..."** (*Воскресе́нїе Хрїсто́во ви́дѣвше...*)  
 and Psalm 50.  
-While this is being recited, the Priest goes forth through the holy doors with the Gospel Book, holding it before his breast in the midst
-
-[Book Page 33]
-
-of the temple for the veneration of the approaching people (or he places it upon the Tetrapod for veneration and leaves it until the Doxology).[^47]  
+While this is being recited, the Priest goes forth through the holy doors with the Gospel Book, holding it before his breast in the midst of the temple for the veneration of the approaching people (or he places it upon the Tetrapod for veneration and leaves it until the Doxology).[^47]
 Upon the completion of Psalm 50, the Choir sings:  
 **"Glory to the Father, and to the Son, and to the Holy Spirit:"**  
 **"Through the prayers of the Apostles, O Merciful One, cleanse the multitude of our transgressions."**  
@@ -758,8 +661,6 @@ Only the Heirmoi of the first and of the last Canon are sung. At the end of each
 Upon the completion of the Third Ode, the Little Litany is said, and the exclamation:  
 **"For Thou art our God, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages."** (*Ꙗ҆́кѡ ты̀ е҆сѝ Бо́гъ на́шъ...*)  
 Then the Kontakion and Sessional Hymn in the General Menaion of the Saint.
-
-[Book Page 34]
 
 After the Sixth Ode, again the Little Litany and the exclamation:  
 **"For Thou art the King of peace, and the Savior of our souls, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages."** (*Ты̀ бо е҆сѝ Ца́рь ми́ра...*)  
@@ -788,11 +689,7 @@ Verse 2:
 At the Praises the Choir sings:  
 **"Let every breath praise the Lord. Praise the Lord from the heavens, praise Him in the highest: to Thee is due a hymn, O God."** (*Вся́кое дыха́нїе да хва́литъ Го́спода...*)  
 And the second verse of Psalm 148 with this ending, in the occurring tone of the day; and they recite the remaining verses of Psalms 148, 149, and 150 unto the verse:  
-**"To execute upon them the judgment written:"** (*Сотвори́ти въ ни́хъ сꙋ́дъ напи́санъ*)
-
-[Book Page 35]
-
-And we set eight verses. And we sing the Resurrectional and Anatolian Stichera written for the Praises, with refrains from the Psalter and two resurrectional ones: 1st,  
+**"To execute upon them the judgment written:"** (*Сотвори́ти въ ни́хъ сꙋ́дъ напи́санъ*) And we set eight verses. And we sing the Resurrectional and Anatolian Stichera written for the Praises, with refrains from the Psalter and two resurrectional ones: 1st,
 **"Arise, O Lord my God, let Thy hand be lifted up, forget not Thy poor unto the end;"**  
 and 2nd,  
 **"I will confess Thee, O Lord, with my whole heart, I will tell of all Thy marvelous works."**  
@@ -830,8 +727,6 @@ the Priest immediately says:
 > **Priest:** ""
 **"Blessed and glorified is Christ our God, Who is, always, now and forever, and unto the ages of ages."**
 
-[Book Page 36]
-
 **"always, now and forever, and unto the ages of ages."**  
 > **Choir:** ""
 **"Confirm, O God, the holy Catholic faith of Orthodox Christians, unto ages of ages!"** (*Оу҆твердѝ, Бо́же, ст҃ꙋю каѳоли́ческꙋ вѣ́рꙋ правосла́вныхъ хрїстїа́нъ во вѣ́къ вѣ́ка*)  
@@ -849,7 +744,7 @@ and the rest, and commemorates the saint whose service is sung.
 After the Dismissal the royal doors are closed, and the Choir:  
 **"Come, let us worship and bow down..."** (three times),  
 and reads the First Hour; and after the prayer:  
-**"O Christ, the true Light, Who enlightenest and sanctifiest every man that comes into the world..."** (*Хрїстѐ свѣ́те и҆́стинный...*)  
+**"O Christ, the true Light, Who enlightenest and sanctifiest every man that cometh into the world..."** (*Хрїстѐ свѣ́те и҆́стинный...*)  
 the Priest says:  
 **"Glory to Thee, O Christ God, our hope, glory to Thee!"**  
 and the Dismissal takes place.  
@@ -865,8 +760,6 @@ The Priest, having put on the epitrachelion, comes before the royal doors, and h
 Then:  
 **"Glory to Thee, our God, glory to Thee. O Heavenly King... Trisagion... Most Holy Trinity... Our Father..."**
 
-[Book Page 37]
-
 and the rest of the customary beginning, and after  
 **"Come, let us worship and bow down..."** (three times),  
 the Psalms of King David: Psalm 19: **"The Lord hear thee..."** (*Оу҆слы́шитъ тя̀ Го́сподь*) and Psalm 20: **"O Lord, in Thy strength..."** (*Го́споди си́лою твое́ю*).  
@@ -876,7 +769,7 @@ the Litany, the Six Psalms, and all the rest of Matins we chant as was prescribe
 After the second Sessional Hymn with "Glory... Now and forever, and unto the ages of ages," and Theotokion, the Choir sings the Polyeleos, that is: verses from the 19th Kathisma:  
 **"Praise the name of the Lord, praise the Lord, O ye servants..."** [Psalm 134]  
 and:  
-**"Give thanks unto the Lord, for He is good: for His mercy endures forever."** [Psalm 135]  
+**"Give thanks unto the Lord, for He is good: for His mercy endureth forever."** [Psalm 135]  
 Then the Megalynarion of the Saint with selected verses from the Psalms. Thereupon the Little Litany is said; and the Choir sings the Sessional Hymn after the Polyeleos, "Glory... Now and forever, and unto the ages of ages," Theotokion.  
 Then the Gradual Hymns (*Степе́нна* / *Anavathmoi*) of Tone 4, 1st Antiphon:  
 **"From my youth up many passions war against me..."** (*Ѿ ю́ности моея̀ мно́зи бо́рютъ мя̀ стра́сти...*)  
@@ -892,11 +785,7 @@ and:
 **"Now and forever, and unto the ages of ages. Amen. Through the prayers of the Theotokos, O Merciful One, cleanse the multitude of our transgressions."**  
 Then the refrain:  
 **"Have mercy on us, O God, according to Thy great mercy, and according to the multitude of Thy compassions blot out our iniquities."**  
-and the Sticheron of the Saint. After
-
-[Book Page 38]
-
-this the Priest:  
+and the Sticheron of the Saint. After this the Priest:
 **"O God, save Thy people, and bless Thine inheritance;"**  
 and the exclamation:  
 **"Through the mercy and compassions, and love for mankind of Thine Only-begotten Son, with Whom Thou art blessed, together with Thy most holy, good, and life-creating Spirit, now and forever, and unto the ages of ages."**  
@@ -904,7 +793,7 @@ and the rest, as was indicated a little above in Sunday Matins on folio 33, unto
 After the Great Doxology and both litanies, the Priest makes the Great Dismissal, as was indicated for Sunday; and after the Dismissal immediately the Choir:  
 **"Come, let us worship and bow down..."** (three times),  
 and reads the First Hour; and after the Prayer:  
-**"O Christ, the true Light, Who enlightenest and sanctifiest every man that comes into the world:"**  
+**"O Christ, the true Light, Who enlightenest and sanctifiest every man that cometh into the world:"**  
 > **Priest:** ""
 **"Glory to Thee, O Christ God, our hope, glory to Thee!"**  
 Then the complete Dismissal:  
@@ -915,8 +804,6 @@ Then the complete Dismissal:
 > and after:  
 > **"O Lord, Thou wilt open my lips, and my mouth shall declare Thy praise,"**  
 > the Six Psalms immediately follow, and everything else, as in the Matins of a Saint having a Polyeleos.[^48]
-
-[Book Page 39]
 
 ## The Order
 ### OF WEEKDAY VESPERS,
@@ -941,10 +828,6 @@ and the Vesperal Psalm 103:
 — While the Introductory Psalm is sung, the Priest according to the Typikon, having stood before the holy doors, says the Vesperal Prayers (of Light).  
 After "Glory... Now and forever, and unto the ages of ages," and "Alleluia" (three times), the Priest before the holy doors says the Litany...
 
----
-
-[Book Page 40]
-
 Great Litany: **"In peace let us pray to the Lord."** (*Ми́ромъ Го́сподꙋ помо́лимсѧ*)  
 And after its exclamation, the Kathisma of the cycle is read (except on Sunday evening, on which Kathisma is not said at Vespers throughout the entire year, but only on weekdays).[^49]  
 After the Kathisma, the Little Litany is said by the Priest, which the Choir sings in the customary manner.  
@@ -967,11 +850,7 @@ After this is immediately read:
 **"Vouchsafe, O Lord, to keep us this evening without sin..."** (*Сподо́би, Го́споди, въ ве́черъ се́й...*)  
 Then the Priest says before the holy doors the litany:  
 **"Let us complete our evening prayer unto the Lord."** (*И҆спо́лнимъ вече́рнюю моли́твꙋ на́шꙋ Го́сподеви*)  
-And after its
-
-[Book Page 41]
-
-exclamation:  
+And after its exclamation:
 **"Blessed and glorified be the majesty of Thy kingdom, of the Father, and of the Son, and of the Holy Spirit, now and forever, and unto the ages of ages."** (*Бꙋ́ди держа́ва ца́рствїа твоегѡ̀...*)  
 The Priest having departed, the Choir sings the Stichera at the Aposticha (*Стихи̑ры на стихо́внѣхъ*); then reads:  
 **"Now lettest Thou Thy servant depart in peace, O Master, according to Thy word..."** (*Ны́нѣ ѿпꙋща́еши*)  
@@ -998,8 +877,6 @@ If, however, you read Vespers privately (*на еди́нѣ*), you have for this
 * * *  
 **Note.** Be it known that on weekdays following the dismissal of Vespers and Matins, there is sometimes a procession into the narthex, or a Litiya for the reposed.
 
-[Book Page 42]
-
 When this takes place, the Priest, having taken the censer, goes forth into the narthex or into the midst of the church, two candle-bearers with lamps preceding him. The Choir follows, and singing the Idiomelon Sticheron of the Saint to whom the temple is dedicated, goes forth likewise into the church narthex or into the midst of the church. And after the sticheron, the Priest, having placed the epitrachelion upon himself, says the beginning:[^51]  
 **"Blessed is our God always, now and forever, and unto the ages of ages."**  
 > **Choir:** **"Amen."** Trisagion, and after **"Our Father..."**: the exclamation: **"For Thine is the kingdom..."**
@@ -1018,8 +895,6 @@ The Priest gives the Dismissal for the reposed:
 Thereupon: **"Memory Eternal!"** (*Вѣ́чнаѧ па́мѧть*) (thrice).  
 Then all say slowly and quietly:  
 **"May God make their memory blessed, and give them rest, and have mercy on us, for He is good and the Lover of mankind."** (*Бо́гъ да оу҆блажи́тъ и҆ оу҆поко́итъ и҆́хъ, и҆ на́съ поми́лꙋетъ, ꙗ҆́кѡ бла́гъ и҆ человѣколю́бецъ*)
-
-[Book Page 43]
 
 # The Order of Small Compline (*Чинъ повече́рїа ма́лагѡ*)
 Chanted on All Days
@@ -1045,8 +920,6 @@ Then the Choir: **"Lord, have mercy"** (thrice). **"Glory to the Father, and to 
 And after **"Amen,"** he reads the Prayer:  
 **"O Undefiled, Untainted, Uncorrupted, Inviolate, Pure Virgin, Lady Bride of God..."** (*Нескве́рнаѧ, небла́знаѧ, нетлѣ́ннаѧ, пречи́стаѧ, чи́стаѧ Дѣ́во...*)
 
-[Book Page 44]
-
 then the 2nd prayer:  
 **"And grant unto us, O Master, as we depart unto sleep, rest of body and soul..."** (*И҆ да́ждь на́мъ, Влады́ко, на со́нъ грядꙋ́щымъ поко́й...*)  
 and:  
@@ -1065,8 +938,6 @@ and at the end: **"Through the prayers of our holy fathers, O Lord Jesus Christ 
 [**Behold.** If on the morrow is Sunday or an illustrious saint, then after: *"For the abundance of the fruits of the earth,"* the Priest does not commemorate the reposed, but immediately: *"Through the prayers of our holy fathers..."*]  
 **Note.** It is fitting to know that among us in certain places the custom prevails, especially if we chant Compline in church (outside of Holy Great Lent), following the prayer: *"O Undefiled, Untainted"* and *"My hope is the Father"*, to sing the troparia: **"Have mercy on us, O Lord, have mercy on us..."** (*Поми́лꙋй на́съ, Го́споди, поми́лꙋй на́съ*). After these the Priest says the litany: **"Have mercy on us, O God..."** and **"Again let us pray that this city (or: village) may be preserved..."** And after the exclamation: **"Hear us, O God our Saviour..."**: **"Glory to Thee, O Christ God, our hope..."** and the Dismissal. Then forgiveness and the litany: **"Let us pray for the Universal Pontiff..."** and the rest.[^53]  
 The order of Great Compline with Litiya you will find in the rubrics for the Eve of the Nativity of Christ, and likewise on the Monday of the First Week of Great Lent.
-
-[Book Page 45]
 
 # The Order of the Daily Midnight Office (*Послѣ́дованїе полꙋ́нощницы повседне́вныя*)
 
@@ -1089,15 +960,11 @@ He commemorates also the reposed, as in the Horologion, then at the end: **"Thro
 And upon the completion of this, he begins Matins.  
 In like manner is chanted also the Saturday Midnight Office.
 
-[Book Page 46]
-
 **Behold.** The newer Horologia printed in the Pochaiv printing house, and those which have followed them, contain at the Midnight Office also the troparia: **"Have mercy on us, O Lord, have mercy on us"**, and the litany: **"Have mercy on us, O God."** But since the most ancient typika do not prescribe reciting these at the Daily Midnight Office, and in all corrected ancient Horologia these are not found, on this account we also have judged these to be superfluous. For certain men out of arbitrary inclination and lack of instruction have added many things.[^55]  
-**Know also this:** That if the first day of the afterfeast of the Nativity of Christ falls on one of the weekdays, then at the Midnight Office, after the 1st Trisagion, in place of the troparion: **"Behold, the Bridegroom comes at midnight"** (*Се́ Жени́хъ гряде́тъ въ полꙋ́нощи*), the Troparion of the Feast of the Nativity is said; and after the 2nd Trisagion, in place of the troparion: **"Remember, O Lord"**, the Kontakion: **"Today the Virgin gives birth unto Him Who is transcendent in essence"** (*Дѣ́ва дне́сь пресꙋ́щественнаго ражда́етъ*). Thereupon: **"Lord, have mercy"** (12 times) and the Dismissal. The prayers for the reposed we do not say.  
+**Know also this:** That if the first day of the afterfeast of the Nativity of Christ falls on one of the weekdays, then at the Midnight Office, after the 1st Trisagion, in place of the troparion: **"Behold, the Bridegroom cometh at midnight"** (*Се́ Жени́хъ гряде́тъ въ полꙋ́нощи*), the Troparion of the Feast of the Nativity is said; and after the 2nd Trisagion, in place of the troparion: **"Remember, O Lord"**, the Kontakion: **"Today the Virgin giveth birth unto Him Who is transcendent in essence"** (*Дѣ́ва дне́сь пресꙋ́щественнаго ражда́етъ*). Thereupon: **"Lord, have mercy"** (12 times) and the Dismissal. The prayers for the reposed we do not say.  
 In like manner we say also during the afterfeast of Theophany, if it falls on a weekday.  
 Likewise on the Monday of the Descent of the Holy Spirit: after the 1st Trisagion, the Troparion of the Feast; after the 2nd, the Kontakion of the Feast. Then: **"Lord, have mercy"** (12 times) and the Dismissal, and **"Let us pray for our most holy Hierarch..."**  
 In like manner on the commemoration of illustrious saints for whom an All-Night Vigil is appointed, if for reason of necessity there is no Vigil, the Midnight Office takes place, and after the 1st Trisagion is said, in place of **"Behold, the Bridegroom"**: the Troparion of the Saint; and after the 2nd Trisagion, the Kontakion of the Saint. Thereupon: **"Lord, have mercy"** (12 times) and the Dismissal.[^56]
-
-[Book Page 47]
 
 # The Beginning of Weekday or Daily Matins (*Нача́ло оу҆́трени седми́чныѧ, и҆ли́ повседне́вныя*)
 
@@ -1117,16 +984,12 @@ The exclamation from the Priest: **"For Thine is the kingdom..."**
 And the Reader says the troparion:  
 **"O Lord, save Thy people, and bless Thine inheritance, granting victories to our Emperor over adversaries, and by Thy Cross preserving Thy commonwealth."**  
 **"Glory to the Father, and to the Son, and to the Holy Spirit:"**  
-Kontakion: **"Thou Who wast voluntarily lifted up upon the Cross, bestow Thy compassions upon the new community that bears Thy name, O Christ God; gladden our Emperor by Thy power, granting him victories over adversaries: having Thy help as an armor of peace, an invincible trophy."**  
+Kontakion: **"Thou Who wast voluntarily lifted up upon the Cross, bestow Thy compassions upon the new community that beareth Thy name, O Christ God; gladden our Emperor by Thy power, granting him victories over adversaries: having Thy help as an armor of peace, an invincible trophy."**  
 **"Now and forever, and unto the ages of ages. Amen."**  
 Theotokion: **"O dread and unashamed Mediatress, despise not our prayers, O Good One, all-hymned Theotokos..."**  
 And the Priest says the Litany:  
 **"Have mercy on us, O God, according to Thy great mercy, we pray Thee, hear and have mercy."**  
-**"Again let us pray for our pious Emperor [Franz Joseph I]..."** after which
-
-[Book Page 48]
-
-the Choir responds: **"Lord, have mercy"** (6 times).  
+**"Again let us pray for our pious Emperor [Franz Joseph I]..."** after which the Choir responds: **"Lord, have mercy"** (6 times).
 Then the exclamation: **"For a merciful and man-loving God art Thou, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages."**  
 And the singers: **"Amen."**  
 **"In the name of the Lord, bless, Father."**  
@@ -1144,13 +1007,11 @@ Upon the completion of the Six Psalms: **"Glory to the Father, and to the Son, a
 And the Priest, standing before the holy doors, says the Great Litany:  
 **"In peace let us pray to the Lord."**  
 After its exclamation, the Choir sings:  
-**"God is the Lord, and hath appeared unto us; blessed is He that comes in the name of the Lord."** (*Бо́гъ Го́сподь, и҆ яви́сѧ на́мъ*) in the tone of the troparion of the Saint.  
+**"God is the Lord, and hath appeared unto us; blessed is He that cometh in the name of the Lord."** (*Бо́гъ Го́сподь, и҆ яви́сѧ на́мъ*) in the tone of the troparion of the Saint.  
 The Priest or Reader says the verses:  
-**"O give thanks unto the Lord, for He is good, for His mercy endures forever"** which are in the Horologion (or Prayer Book); and after each verse read there is sung: **"God is the Lord."**  
+**"O give thanks unto the Lord, for He is good, for His mercy endureth forever"** which are in the Horologion (or Prayer Book); and after each verse read there is sung: **"God is the Lord."**  
 And they sing the Troparion of the Saint twice, and the Theotokion in the tone of the troparion (or as the typikon directs).  
 The Priest, having bowed to the holy doors, departs unto his place.
-
-[Book Page 49]
 
 Thereupon the Choir says: **"Lord, have mercy"** (thrice).  
 > **Reader:** **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen"** and begins the psalmody of the Kathismata.
@@ -1164,11 +1025,7 @@ Psalm 50: **"Have mercy on me, O God, according to Thy great mercy..."**
 Thereupon they sing the Nine-Ode Canons, customarily three: from the Octoechos, and to the Saint from the General Menaion; the troparia in the canons they read with appropriate refrains in such manner that all shall be upon 14, with **"Glory..."** and **"Now and forever..."**.[^60]  
 The Heirmos of the 1st canon only is sung. The Heirmoi from the canon of the Saint are taken for the Katavasia only after Odes 3, 6, 8, and 9. [The order of daily Matins is arranged in the Horologion].  
 — After Ode 3: the Little Litany, and the Sessional Hymn from the General Menaion, **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** Theotokion.  
-After Ode 6: the Heirmos, the Little Litany, and the Kontakion of the Saint
-
-[Book Page 50]
-
-and the Ikos, whose concluding verse is sung in the tone of the kontakion.  
+After Ode 6: the Heirmos, the Little Litany, and the Kontakion of the Saint and the Ikos, whose concluding verse is sung in the tone of the kontakion.
 In place of **"Glory..."** at Ode 8 we say:  
 **"We bless the Father, and the Son, and the Holy Spirit, God."**  
 At the end of Ode 8 before the Katavasia, the Choir says in the tone of the canon of the Saint:  
@@ -1192,8 +1049,6 @@ The Choir reads:
 **"Glory to God in the highest, and on earth peace, good will among men..."** all in order unto the end.  
 Thereupon the Priest before  
 *) If the Saint has stichera at the Praises, then we sing two verses of Psalm 150 in the customary manner: **"Let every breath praise the Lord. Praise the Lord from the heavens..."** and the 2nd verse.
-
-[Book Page 51]
 
 the holy doors, standing, says the litany:  
 **"Let us complete our morning prayer unto the Lord."** and the rest.  
@@ -1219,14 +1074,10 @@ Upon the conclusion of the Psalms: **"Glory to the Father, and to the Son, and t
 **"Now and forever, and unto the ages of ages. Amen:"** Theotokion of the Hours: **"What shall we call thee, O full of grace?..."** and the rest.  
 Trisagion, and after **"Our Father..."** and the exclamation: Kontakion of the day.  
 **"Lord, have mercy"** (40 times).  
-Then the Priest before the holy doors
-
-[Book Page 52]
-
-says the prayer: **"Thou Who at all times and at every hour..."**  
+Then the Priest before the holy doors says the prayer: **"Thou Who at all times and at every hour..."**
 **"Lord, have mercy"** (thrice). **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen. More honorable than the Cherubim..."** **"In the name of the Lord, bless, Father."**  
 > **Priest:** **"God be merciful unto us, and bless us..."**
-Then he says the prayer: **"O Christ, the True Light, Who enlightenest and sanctifiest every man that comes into the world..."** (*Хрⷭ҇тѐ свѣ́те и҆́стинный...*)  
+Then he says the prayer: **"O Christ, the True Light, Who enlightenest and sanctifiest every man that cometh into the world..."** (*Хрⷭ҇тѐ свѣ́те и҆́стинный...*)  
 After this: **"Glory to Thee, O Christ God, our hope, glory to Thee."**  
 > **Choir:** **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen. Lord, have mercy"** (thrice). **"Bless, Father."**
 > **Priest:** "Daily Dismissal, and he commemorates the Saint whose service is chanted."
@@ -1236,13 +1087,9 @@ It is fitting to know also this: that the Priest at the 1st Hour says the verse 
 In this manner as here portrayed is chanted Matins on Monday, Tuesday, Wednesday, Thursday, and Saturday.  
 On Saturday, the canon of the Saint always precedes, and after it that of the temple Saint, then in the Octoechos the martyr canon. For the canon of the reposed is chanted on Friday at Compline. At the Praises on Saturday we do not chant stichera in the Octoechos, but we chant them at the Aposticha, the 3 martyr stichera [1st, 2nd, and 3rd] with the customary verses of the Horologion: **"We were filled in the morning with Thy mercy..."**;
 
-[Book Page 53]
-
 one, however, we omit, the 14th and of the reposed, by Damascene.[^63] And the Saturday aposticha are omitted; only on those Saturdays is Matins chanted according to them: in Lent on the 1st, 3rd, and 4th Saturday, or if Alleluia occurs, the aposticha are chanted with their funeral verses.  
 * * *  
 Following Matins on weekdays the typikon directs the celebration of the Litiya for the reposed, as was portrayed after Vespers; but among us it is performed only when commemoration is made for all the reposed in general.
-
-[Book Page 54]
 
 # The Order of the Sacred and Divine Liturgy of St. John Chrysostom (*Чинъ сщ҃е́нныѧ и҆ Бж҃е́ственныѧ Лїтꙋргі́и ст҃а́гѡ І҆ѡа́нна Златоꙋ́стагѡ*)
 Chanted Solemnly
@@ -1261,11 +1108,7 @@ Thereupon the Priest stands before the icon of Christ the Saviour, and there say
 **"Thy most pure image do we venerate, O Good One, asking forgiveness of our transgressions, O Christ God..."** (*Пречи́стомꙋ твое́мꙋ ѡ҆́бразꙋ покланя́емсѧ, Благі́й...*) and having made two bows, kisses the icon of the Master, and departing, bows again once.  
 Thereupon he departs also to the icon of the Mother of God, and before this says the troparion:  
 **"Inasmuch as thou art a wellspring of compassion, vouchsafe mercy unto us, O Theotokos; look upon a people that hath sinned..."** (*Милосе́рдїя сꙋ́щи и҆сто́чникъ...*) and having made two bows, kisses also the icon of the Theotokos, and again makes one bow.  
-Then returning afterward before the holy
-
-[Book Page 55]
-
-doors, bowing his head, he says the prayer:  
+Then returning afterward before the holy doors, bowing his head, he says the prayer:
 **"O Lord, stretch forth Thy hand from Thy holy dwelling-place on high, and strengthen me for this Thy present service..."** (*Го́споди, низпослѝ рꙋ́кꙋ твою̀...*)  
 and having made three bows before the holy doors, then one to each choir, he enters into the sanctuary [to the table of oblation], saying:  
 **"I will enter into Thy house; I will worship toward Thy holy temple in Thy fear."** (Psalm 5:8 LXX).  
@@ -1281,11 +1124,7 @@ Then the troparion:
 **"Thou hast redeemed us from the curse of the law by Thy precious Blood; having been nailed to the Cross and pierced with the spear, Thou hast poured forth immortality upon men, O our Saviour, glory to Thee."**  
 And he begins the Proskomedia together with the Deacon in order, as set forth in the Sluzhebnik.[^66]  
 [**It is fitting to know** that if many priests concelebrate in a sobor, the action of the Proskomedia is performed by one priest only, and he says the prescribed prayers; the other concelebrants say nothing of the Proskomedia privately].  
-And having arrived down to the prayer: **"Incense
-
-[Book Page 56]
-
-we offer unto Thee, O Christ our God..."**, the Priest puts incense into the censer, and when he begins to say: **"Blessed is God Who is thus well-pleased, glory to Thee,"** then the Priest, having taken the censer, censes the prepared gifts upon the diskos and in the chalice thrice, saying: **"Blessed is God Who is thus well-pleased, glory to Thee"**; and he hands the censer to the Deacon, if there is one, who censes the holy table round about crosswise, saying to himself: **"In the tomb bodily, in hades with the soul as God, in paradise with the thief, and on the throne with the Father and the Spirit wast Thou, O Christ, filling all things, Thyself uncircumscribed"**; and the rest. After this, having gone forth through the north door, the holy doors being closed, and reciting Psalm 50, he censes the icons and the entire temple. — [If, however, the Priest celebrates alone without a Deacon, he censes after the dismissal of the Proskomedia].  
+And having arrived down to the prayer: **"Incense we offer unto Thee, O Christ our God..."**, the Priest puts incense into the censer, and when he begins to say: **"Blessed is God Who is thus well-pleased, glory to Thee,"** then the Priest, having taken the censer, censes the prepared gifts upon the diskos and in the chalice thrice, saying: **"Blessed is God Who is thus well-pleased, glory to Thee"**; and he hands the censer to the Deacon, if there is one, who censes the holy table round about crosswise, saying to himself: **"In the tomb bodily, in hades with the soul as God, in paradise with the thief, and on the throne with the Father and the Spirit wast Thou, O Christ, filling all things, Thyself uncircumscribed"**; and the rest. After this, having gone forth through the north door, the holy doors being closed, and reciting Psalm 50, he censes the icons and the entire temple. — [If, however, the Priest celebrates alone without a Deacon, he censes after the dismissal of the Proskomedia].
 The Deacon enters again into the holy sanctuary, and having censed the holy table and the Priest standing in his vestments, sets aside the censer.  
 And standing together with the Priest before the holy table, they bow thrice, praying within themselves and saying: **"O Heavenly King, Comforter, Spirit of Truth..."** and the rest.  
 Then the Priest kisses the holy Gospel Book, and the Deacon kisses the holy table; and the Deacon, having received the blessing from the Priest, goes forth through the north door, holding also the orarion with three fingers of his right hand, to the customary place of the ambo, and begins, saying:  
@@ -1293,11 +1132,7 @@ Then the Priest kisses the holy Gospel Book, and the Deacon kisses the holy tabl
 And the Priest:  
 **"Blessed is the kingdom of the Father, and of the Son, and of the Holy Spirit, now and forever, and unto the ages of ages."**  
 and the rest according to the order of the Sluzhebnik.  
-While the Third Antiphon is being sung by the singers, or the Beatitudes if it is Sunday, when the time of the Little Entrance arrives, the Priest
-
-[Book Page 57]
-
-and the Deacon, standing before the holy table, make three bows. Then the Priest, having taken the holy Gospel Book, gives it to the Deacon, and they go in a circuitous way behind the holy table, and having gone forth again through the north door, candle-bearers with candles preceding them, they make the Little Entrance;[^67] and standing before the holy doors, they both bow their heads, and the Deacon having said: **"Let us pray to the Lord,"** the Priest says the Prayer of the Entrance:  
+While the Third Antiphon is being sung by the singers, or the Beatitudes if it is Sunday, when the time of the Little Entrance arrives, the Priest and the Deacon, standing before the holy table, make three bows. Then the Priest, having taken the holy Gospel Book, gives it to the Deacon, and they go in a circuitous way behind the holy table, and having gone forth again through the north door, candle-bearers with candles preceding them, they make the Little Entrance;[^67] and standing before the holy doors, they both bow their heads, and the Deacon having said: **"Let us pray to the Lord,"** the Priest says the Prayer of the Entrance:
 **"O Master, Lord our God, Who hast appointed in heaven ranks and hosts of angels and archangels for the ministry of Thy glory..."** (*Влады́ко Го́споди Бо́же на́шъ...*)  
 The prayer being finished, the Deacon gives the holy Gospel Book to the Priest to kiss, and says, pointing toward the east with his right hand, while holding also the orarion with three fingers:  
 **"Bless, Master, the holy entrance."**  
@@ -1314,12 +1149,8 @@ The Choir having chanted: **"Amen,"** begins to sing the Trisagion.
 The Priest and the Deacon say the Trisagion themselves also, making together three bows before the holy table.  
 Then the Deacon says to the Priest:  
 **"Command, Master."** (*Повелѝ, Влады́ко*)  
-And they both depart to the High
-
-[Book Page 58]
-
-Place behind the holy table. The Deacon, if he is alone, passing between the Priest and the holy table to the right side of the holy table, while the Priest goes to the left side, representing by their crosswise passage the sign of the cross, saying quietly:[^68]  
-**"Blessed is He that comes in the name of the Lord."**  
+And they both depart to the High Place behind the holy table. The Deacon, if he is alone, passing between the Priest and the holy table to the right side of the holy table, while the Priest goes to the left side, representing by their crosswise passage the sign of the cross, saying quietly:[^68]
+**"Blessed is He that cometh in the name of the Lord."**  
 [When, however, the Priest celebrates alone without a Deacon, then having bowed according to the direction above before the holy table, he goes not to the left side, but to the right toward the side of the High Place].  
 And upon the completion of the Trisagion, the Deacon, having come before the holy doors, looking toward the people, says:  
 **"Let us be attentive."** (*Во́нмимъ*)  
@@ -1335,8 +1166,6 @@ And the Reader or Subdeacon says the title of the Epistle; and after **"Let us b
 After the reading of the Epistle, the incensation takes place in the customary manner, and the rest.  
 The Gospel is read by the Deacon upon the ambo stone.  
 [If, however, the Priest alone celebrates the Liturgy, he reads the Gospel at the holy doors, looking toward the people].
-
-[Book Page 59]
 
 Upon the conclusion of the Gospel, the Deacon, having departed unto the holy doors, gives the holy Gospel Book to the Priest standing there, and standing at his customary place, begins the Litany:  
 **"Let us all say with our whole soul and with our whole mind, let us say."** (*Рце́мъ всѝ...*) and the rest.  
@@ -1354,10 +1183,6 @@ And the Priest, having taken the aer, places it upon his left shoulder, saying:
 **"Lift up your hands to the sanctuary, and bless the Lord."** (Psalm 133:2 LXX).  
 Thereupon he gives the holy diskos to the Deacon to hold above his head, the Deacon holding together with it also the censer upon one of his fingers.
 
----
-
-[Book Page 60]
-
 The Priest himself, having taken the holy chalice (the cup) into his hands (covered), goes forth through the northern door, two [servers] with candles preceding them. (If there are two deacons, one goes before with the censer). The Deacon, carrying the diskos, entering [the nave], says:  
 **"All you orthodox Christians may the Lord God remember in His kingdom, always, now and forever, and unto the ages of ages."** (*Всѣ́хъ правосла́вныхъ хрїстїа́нъ да помяне́тъ Го́сподь Бг҃ъ во ца́рствїи свое́мъ, всегда̀, ны́нѣ, и҆ при́снѡ и҆ во вѣ́ки вѣкѡ́въ*)[^71]  
 Thereafter the Priest:  
@@ -1371,19 +1196,11 @@ The First Priest:
 The Second Priest:  
 **"Our Most Reverend Archbishop and Metropolitan (Name), and our God-loving Bishop (Name), may the Lord God remember,"** and the rest.  
 The Third Priest:  
-**"The priestly and monastic order, the founders and benefactors of this holy**
-
-[Book Page 61]
-
-**temple may the Lord God remember in His kingdom, always, now and forever..."**  
+**"The priestly and monastic order, the founders and benefactors of this holy** **temple may the Lord God remember in His kingdom, always, now and forever..."**
 Again the First Priest, looking toward the people:  
 **"All of you orthodox Christians may the Lord God remember in His kingdom:"**  
 The Deacon having entered within the holy doors with the diskos, stands at the right hand of the Priest. And the Priest places the chalice and the diskos upon the holy table, covers them, and censes the Holy Gifts thrice, saying: **"Do good, O Lord, in Thy good pleasure unto Zion..."** (*Оу҆блажѝ Го́споди благоволе́нїемъ твои́мъ Сїѡ́на...*) and the rest. The Deacon, having asked a blessing and forgiveness, goes forth unto the place of the ambo and says the litany: **"Let us complete our prayer unto the Lord..."** (*И҆спо́лнимъ моли́твꙋ на́шꙋ...*). And when the Deacon says: **"Let us love one another, that with one accord we may confess:"** (*Возлю́бимъ дрꙋ́гъ дрꙋ́га...*) The Choir: **"The Father, and the Son, and the Holy Spirit: the Trinity, one in essence and undivided."** And the Priest bows, saying secretly: **"I will love Thee, O Lord, my strength; the Lord is my support, and my refuge, and my deliverer"** (thrice), and kisses the Holy Gifts in this manner as they are covered: first the top of the holy diskos, then the top of the holy chalice (the cup), and the edge of the holy table before him.[^72]  
-If, however, there are two or more priests, then they also all kiss the covered Holy Gifts, and one another on the shoulder. The presiding Priest says: **"Christ is among us."** (*Хрїсто́съ посредѣ̀ на́съ*). And he that was kissed replies: **"He is and shall be."** (*И҆ е́сть и҆ бꙋ́детъ*). Likewise the deacons, if there are two or three, each kisses his own orarion where the image of the cross is, and one another on the shoulder, saying the same as the priests. In like manner also the Deacon bows together in the place where he stands, and kisses
-
-[Book Page 62]
-
-his own orarion where the image of the cross is, and proclaims thus:  
+If, however, there are two or more priests, then they also all kiss the covered Holy Gifts, and one another on the shoulder. The presiding Priest says: **"Christ is among us."** (*Хрїсто́съ посредѣ̀ на́съ*). And he that was kissed replies: **"He is and shall be."** (*И҆ е́сть и҆ бꙋ́детъ*). Likewise the deacons, if there are two or three, each kisses his own orarion where the image of the cross is, and one another on the shoulder, saying the same as the priests. In like manner also the Deacon bows together in the place where he stands, and kisses his own orarion where the image of the cross is, and proclaims thus:
 **"The doors! The doors! In wisdom let us attend."** (*Две́ри, две́ри: въ премꙋ́дрости во́нмимъ*)  
 The Priest elevates the aer and holds it over the Holy Gifts. If other priests are concelebrating in common, they likewise elevate the holy aer and hold it over the Holy Gifts, moving it and saying to themselves, as do the people, the confession of faith (the Creed). All the rest according to the direction of the *Sluzhebnik*.  
 After **"Our Father..."** and after the prayer: **"Attend, O Lord Jesus Christ our God, from Thy holy dwelling-place..."** (*Во́нми Го́споди І҆исꙋ́се Хрїстѐ Бо́же на́шъ ѿ свята́гѡ жили́ща твоегѡ̀...*), the Deacon standing before the holy doors girds himself crosswise with his orarion. When the Deacon sees the Priest bowing, extending his hands, and touching the holy Bread to perform the holy elevation, he proclaims:  
@@ -1391,11 +1208,7 @@ After **"Our Father..."** and after the prayer: **"Attend, O Lord Jesus Christ o
 And the Priest, elevating the Holy Lamb above the diskos, proclaims:  
 **"Holy things to the holy."** (*Свята̑я святы̑мъ*)[^73]  
 And the Priest, breaking the Holy Lamb into four parts, places the parts in the form of a cross, with the crust facing downward toward the holy diskos and the cut edge upward, even as it was cut beforehand. He places **IC** on the upper part of the diskos, **XC** at the bottom, **NI** on the northern side, and **KA** on the southern side. Having taken **IC**, that is, the upper part, he makes with it the sign of the cross over the holy chalice, saying: **"The fullness of the Holy Spirit"** (*И҆сполне́нїе Дꙋ́ха свята́гѡ*), and drops it into the holy chalice, and the rest.  
-If the Deacon is to receive communion, then when the Priest says: **"Deacon, approach,"** the Deacon approaches, makes a reverent bow, asking
-
-[Book Page 63]
-
-forgiveness, and says:  
+If the Deacon is to receive communion, then when the Priest says: **"Deacon, approach,"** the Deacon approaches, makes a reverent bow, asking forgiveness, and says:
 **"Behold, I approach unto the immortal King; forgive me, holy Master, and bless, and impart unto me the precious, and holy, and most pure Body of our Lord and God and Savior Jesus Christ."** (*Сѐ пристꙋпа́ю къ безсме́ртномꙋ царю̀, прости́ мя Влады́ко святы́й...*)[^74]  
 The Priest, having taken one part of the Holy Lamb, gives it to the Deacon, saying the customary words; and the Deacon, having kissed the hand that imparts it to him, receives the Holy Bread upon the palm of his right hand, departs [behind the holy table], and prays even as does the Priest. If, however, other priests are concelebrating in common, they approach orderly one after another, and the presiding Priest distributes to them the portions of the Holy Bread, saying: **"Christ is among us."** (*Хрїсто́съ посредѣ̀ на́съ*). And the rest you have in the *Sluzhebnik*.  
 After the Ambo Prayer (*Моли́тва заамво́нная*) and after: **"Blessed be the name of the Lord from henceforth and forevermore"** (thrice), the Priest, standing in the holy doors, says:  
@@ -1403,15 +1216,12 @@ After the Ambo Prayer (*Моли́тва заамво́нная*) and after: **"
 And the customary Dismissal takes place, and the holy doors are closed.  
 
 ---
+
 **THE ORDER OF THE TYPIKA,**  
 **OR OF THE PSALMS OF REPRESENTATION (OBIDNYTSIA).**[^75]  
 If on any day there is no Divine Liturgy, the Typika is chanted thus:  
 After the prayer of the Sixth Hour, there is immediately read:  
-Psalm 102: **"Bless the Lord, O my soul, and all**
-
-[Book Page 64]
-
-**that is within me, bless His holy name..."** (*Благословѝ, дꙋшѐ моя̀, Го́спода...*); then: **"Glory to the Father, and to the Son, and to the Holy Spirit,"** and Psalm 145: **"Praise the Lord, O my soul..."** (*Хвалѝ, дꙋшѐ моя̀, Го́спода...*); **"Now and forever, and unto the ages of ages. Amen:"** **"Only-begotten Son and Word of God..."** (*Є҆диноро́дный Сы́не...*).  
+Psalm 102: **"Bless the Lord, O my soul, and all** **that is within me, bless His holy name..."** (*Благословѝ, дꙋшѐ моя̀, Го́спода...*); then: **"Glory to the Father, and to the Son, and to the Holy Spirit,"** and Psalm 145: **"Praise the Lord, O my soul..."** (*Хвалѝ, дꙋшѐ моя̀, Го́спода...*); **"Now and forever, and unto the ages of ages. Amen:"** **"Only-begotten Son and Word of God..."** (*Є҆диноро́дный Сы́не...*).
 After this the Beatitudes are read: **"In Thy kingdom remember us, O Lord..."** (*Въ ца́рствїи твое́мъ помянѝ на́съ, Го́споди...*). The verse: **"Blessed are the meek..."** (*Блаже́нни кро́тцыи...*) we chant to the stichera on the Beatitudes from the Octoechos, or to the stichera from Odes 3 and 6 of the Canon of the Feast or of the Saint, as the Typikon directs. To the second-to-last sticheron we append: **"Glory to the Father, and to the Son, and to the Holy Spirit,"** and to the last: **"Now and forever, and unto the ages of ages. Amen:"** [we read them or chant them to the tone of the troparia].  
 After this the Priest, having vested in the phelonion, opens the holy doors and proclaims:  
 **"Let us be attentive. Peace be unto all. Wisdom, let us be attentive."** (*Во́нмимъ: Ми́ръ всѣ̑мъ: Премꙋ́дрость, во́нмимъ*)  
@@ -1420,9 +1230,6 @@ The Prokeimenon of the day or of the Feast. Then the Epistle, and after it **"Al
 > **Choir:** **"More honorable than the Cherubim..."**
 > **Priest:** **"Glory to Thee, O Christ God, our hope, glory to Thee."**
 And the appointed Dismissal.  
-
----
-[Book Page 65]
 
 **THE ORDER**  
 **OF THE DIVINE LITURGY OF OUR HOLY FATHER**  
@@ -1435,8 +1242,6 @@ The beginning of the Liturgy of Saint Basil together with Vespers takes place th
 **"Blessed is the kingdom**  
 * * *  
 † *The order of the sacred ministry of the Liturgy of Saint Basil, outside of Vespers, is the same as that of Saint John Chrysostom.*
-
-[Book Page 66]
 
 **of the Father, and of the Son, and of the Holy Spirit, now and forever, and unto the ages of ages."**  
 The Choir immediately begins: **"Come, let us worship and bow down..."** (thrice), and the Introductory Psalm 103: **"Bless the Lord, O my soul: O Lord my God, Thou art very great..."**  
@@ -1451,24 +1256,17 @@ Upon the conclusion of the readings, the Priest or Deacon chants the Little Lita
 **"For holy art Thou, O our God, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages."**  
 And they sing the Trisagion; [or on Holy Saturday: **"As many of you as have been baptized into Christ have put on Christ. Alleluia"** (Galatians 3:27)].[^77]  
 Then the Prokeimenon, the Epistle, the censing, the Gospel, and all things in order, even as in the *Liturgikon*.  
-After the Great Entrance the Priest
-
-[Book Page 67]
-
-or Deacon says: **"Let us complete our evening prayer unto the Lord:"** **"For an entire evening, perfect, holy, peaceful..."**  
+After the Great Entrance the Priest or Deacon says: **"Let us complete our evening prayer unto the Lord:"** **"For an entire evening, perfect, holy, peaceful..."**
 * * *  
 **Note.** According to this order the Liturgy of Chrysostom with Vespers is celebrated also when the Feast of the Annunciation [Conception of the Lord] falls within the Holy Great Forty Days (Great Lent).[^78]  
 
 ---
+
 **THE ORDER**  
 **OF THE DIVINE LITURGY**  
 **OF THE PRESANCTIFIED GIFTS.**[^79]  
 
-First of all, be it known that on the Sunday before the days on which the Priest is to celebrate the Presanctified Liturgy, he performs the Proskomedia in the customary manner, save only that in addition to the first Lamb which he extracts in the customary manner, he extracts also other Lambs according to the number of days on which he is to celebrate the Presanctified Liturgy; and cutting them and piercing them, he says over each one individually these words: **"In remembrance of our Lord and God and Savior Jesus Christ;"** **"As a sheep He was led to the slaughter;"** and **"Sacrificed is the Lamb of God;"** and **"One of the soldiers pierced His side with a spear;"** and he places them upon the diskos. Then when he is to make the sign of the cross over the loaves at the invocation
-
-[Book Page 68]
-
-of the Holy Spirit, the Priest says: **"Make this bread the precious Body of Thy Christ:"** in the singular number, and not in the plural, because Christ is one.  
+First of all, be it known that on the Sunday before the days on which the Priest is to celebrate the Presanctified Liturgy, he performs the Proskomedia in the customary manner, save only that in addition to the first Lamb which he extracts in the customary manner, he extracts also other Lambs according to the number of days on which he is to celebrate the Presanctified Liturgy; and cutting them and piercing them, he says over each one individually these words: **"In remembrance of our Lord and God and Savior Jesus Christ;"** **"As a sheep He was led to the slaughter;"** and **"Sacrificed is the Lamb of God;"** and **"One of the soldiers pierced His side with a spear;"** and he places them upon the diskos. Then when he is to make the sign of the cross over the loaves at the invocation of the Holy Spirit, the Priest says: **"Make this bread the precious Body of Thy Christ:"** in the singular number, and not in the plural, because Christ is one.
 * * *  
 On the day when the Priest is to celebrate the Presanctified Liturgy and the time for this has arrived, having entered the sanctuary, he vests in the priestly vestments, signing each vestment with his hand and kissing it only, saying nothing over each individual vestment except: **"Let us pray to the Lord."**[^80] [He prepares likewise upon the altar table or at the table of oblation the chalice, the diskos, the veils, and the spoon].  
 Thereupon, having approached before the holy table, he says the customary beginning: **"O Heavenly King, the Comforter..."** (*Царю̀ небе́сный...*) and the rest.  
@@ -1479,11 +1277,7 @@ And immediately: **"Come, let us worship and bow down..."** (thrice).
 Then the Introductory Psalm 103: **"Bless the Lord, O my soul: O Lord my God, Thou art very great..."** (*Благословѝ, дꙋшѐ моя̀, Го́спода...*).  
 The Priest recites the evening prayers beginning from the fourth prayer, because the first three prayers are said during the litanies.  
 Upon the completion of the Psalm, the Priest [or Deacon] says the litany: **"In peace let us pray to the Lord:"**  
-And after the exclamation, the Reader chants in the midst of the church the 18th Kathisma: **"Unto the Lord in my affliction I cried..."** (*Ко Го́сподꙋ, внегда̀ скорбѣ́ти мѝ...*); and he makes after the first Antiphon, that is, after the first **"Glory"** (*Сла́ва*), at the **"Alleluia,"** three bows. While the first Antiphon is being read, the Priest
-
-[Book Page 69]
-
-recites secretly the Prayer of the First Antiphon, which is found in the *Liturgikon*.  
+And after the exclamation, the Reader chants in the midst of the church the 18th Kathisma: **"Unto the Lord in my affliction I cried..."** (*Ко Го́сподꙋ, внегда̀ скорбѣ́ти мѝ...*); and he makes after the first Antiphon, that is, after the first **"Glory"** (*Сла́ва*), at the **"Alleluia,"** three bows. While the first Antiphon is being read, the Priest recites secretly the Prayer of the First Antiphon, which is found in the *Liturgikon*.
 Upon the conclusion of the first **"Glory"**, the Priest says aloud the Little Litany and the exclamation: **"For Thine is the dominion, and Thine is the kingdom..."**  
 After the exclamation, the Reader immediately reads the second **"Glory"** [the 2nd Antiphon] of the Kathisma, bows being made at the **"Alleluia."**  
 Then the Little Litany is said by the Priest or Deacon.  
@@ -1493,11 +1287,7 @@ After the Kathisma and litanies, the Choir sings: **"Lord, I have cried"** (*Г�
 The Priest [or the Deacon, if there is one] censes the altar and the whole church in the customary manner.  
 [**Behold:** Ancient typika direct the Priest to arrange the sacred vessels here at the table of oblation, and to take from the tabernacle and transfer the presanctified holy Lamb to the table of oblation, and to place it there reverently upon the diskos, and also to pour wine and water into the chalice; but among us the custom has entered that while singing: **"Now the Heavenly Powers invisibly minister with us..."** (*Ны́нѣ си́лы небе́сныѧ...*), these things are performed after the Great Entrance].[^81]  
 Thereafter they sing the stichera on **"Lord, I have cried"**, and they set 10 verses.  
-When the singers begin to chant: **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the Priest recites the Entrance Prayer and makes the Entrance with the censer without the Gospel Book, two [servers] with candles preceding him. [When, however, the Gospel Book is to be carried, on
-
-[Book Page 70]
-
-the feast of a saint, or in Holy and Great Week, then he makes the Entrance with the Gospel Book].  
+When the singers begin to chant: **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the Priest recites the Entrance Prayer and makes the Entrance with the censer without the Gospel Book, two [servers] with candles preceding him. [When, however, the Gospel Book is to be carried, on the feast of a saint, or in Holy and Great Week, then he makes the Entrance with the Gospel Book].
 Then he proclaims:  
 **"Wisdom! Standing upright."** (*Премꙋ́дрость, про́сти*)  
 And they sing: **"Gladsome Light"** (*Свѣ́те ти́хїй*).  
@@ -1524,11 +1314,7 @@ Upon the completion of the 2nd paremia, the Priest says: **"Peace be unto thee."
 > **Deacon:** **"Wisdom!"**
 The singer in the midst of the church (if there is no appointed singer, the Priest himself in the sanctuary) sings:  
 **"Let my prayer be set forth as incense before Thee; the lifting up of my hands as an evening sacrifice."** (*Да и҆спра́витсѧ моли́тва моѧ̀, ꙗ҆́кѡ кади́ло предъ тобо́ю...*)[^83]  
-Then the right and left choirs and the people standing on both sides throughout the entire church bend their knees in prayer. The Priest, standing
-
-[Book Page 71]
-
-in the sanctuary before the holy table, having taken the censer with incense, censes from the four sides.  
+Then the right and left choirs and the people standing on both sides throughout the entire church bend their knees in prayer. The Priest, standing in the sanctuary before the holy table, having taken the censer with incense, censes from the four sides.
 And after the singing of the soloist, the first choir sings the same:  
 **"Let my prayer be set forth as incense before Thee; the lifting up of my hands as an evening sacrifice."**  
 The soloist, and the other side of the choir, and the people standing on that side bend their knees in prayer until they finish singing.  
@@ -1551,38 +1337,23 @@ And the soloist, the first choir, and the people bend their knees.
 And again the soloist sings:  
 **"Let my prayer be set forth as incense before Thee;"** —  
 And then both choirs and all the people standing in the church, as well as the Priest in the sanctuary, fall upon their knees and remain on their knees while the soloist sings. —  
-And having risen,
-
-[Book Page 72]
-
-all finish singing together with the soloist with the loudest voice:  
+And having risen, all finish singing together with the soloist with the loudest voice:
 **"The lifting up of my hands as an evening sacrifice."**  
 And upon the conclusion, all make three bows (prostrations).  
 After **"Let my prayer be set forth"**, the Priest [or the Deacon, if there is one] says the Litany: **"Let us all say with our whole soul and with our whole mind, let us say:"**  
 [If a celebrated saint occurs, for example: The Finding of the Precious Head of Saint John the Baptist, or the Forty Martyrs, on Wednesday or Friday of Great Lent: then after **"Let my prayer be set forth"**, the Prokeimenon, Alleluia, and Gospel are immediately chanted in the customary manner; then the Litany: **"Let us all say..."**, and the rest. — On Great and Holy Monday, Tuesday, and Wednesday, while **"Let my prayer be set forth"** is being sung, the Priest says the prayer before the Gospel: **"Illumine in our hearts, O Master Who lovest mankind..."**; the Deacon having asked a blessing to proclaim the Holy Gospel in the customary manner, and the Priest having pronounced the blessing: **"May God, through the prayers of the holy, glorious..."**, the Deacon reads the Gospel at the customary place, or the Priest himself in the holy doors if there is no deacon; then this Litany: **"Let us all say..."**  
 Be it known also: that from the Wednesday of Mid-Lent (the 4th week of the Fast) until Holy and Great Wednesday, after this exclamation: **"That they also with us may glorify..."**, there is said at the Presanctified Liturgies alone this Litany also: **"All you who are catechumens, depart... Pray, you who are preparing for illumination..."**].[^84]  
-After the exclamation: **"According to the gift of Thy Christ, with Whom Thou art blessed..."**, when the singers begin to sing: **"Now the Heavenly Powers invisibly minister with us..."**, the Deacon having received a blessing from the Priest,
-
-[Book Page 73]
-
-or the Priest himself if there is no deacon, censes the holy table from the four sides and toward the church to the people, saying Psalm 50.  
+After the exclamation: **"According to the gift of Thy Christ, with Whom Thou art blessed..."**, when the singers begin to sing: **"Now the Heavenly Powers invisibly minister with us..."**, the Deacon having received a blessing from the Priest, or the Priest himself if there is no deacon, censes the holy table from the four sides and toward the church to the people, saying Psalm 50.
 Thereafter standing (together with the Deacon, if there is one) before the holy table, he says:  
-**"Now the Heavenly Powers invisibly minister with us; for behold, the King of Glory enters. Behold, the mystical sacrifice, fully accomplished, is ushered in."** (thrice).  
+**"Now the Heavenly Powers invisibly minister with us; for behold, the King of Glory entereth. Behold, the mystical sacrifice, fully accomplished, is ushered in."** (thrice).  
 And having made three bows, — he opens the tabernacle [the pyx]: where the holy Lambs are kept, and having bowed low, takes out the pyx containing the holy Presanctified Gifts; then having censed it thrice and bowed low, he takes the holy pyx with great reverence and fear of God, and makes the Great Entrance, passing through the northern door and carrying the Holy Gifts, saying nothing.[^85]  
 The Deacon, walking before with the censer only, censes frequently. A candle-bearer with a candle also precedes him, somewhat to the side, even as the Deacon also takes care not to turn his back toward the holy pyx.  
 When the Divine Mysteries are carried past, all the people and the singers fall upon their knees and, falling prostrate, render God-befitting worship to Christ God truly present in the Mysteries.  
 The Priest, having entered through the holy doors into the holy sanctuary, places the holy pyx upon the holy table, and kneeling down, censes it. —  
-Thereafter, having given away the censer and bowed low, he removes the presanctified holy Lamb from the holy pyx with the spoon, and with great reverence and attentiveness places it upon the diskos, saying nothing. Then having bowed low, he puts
-
-[Book Page 74]
-
-the holy pyx back into the tabernacle. Thereafter he pours wine and water into the chalice, saying nothing over them, neither blessing them, and places it at the customary place on the holy table; then covers it with a veil.[^86] And the Priest, having taken the censer, censes the Holy Gifts, bowing low.  
+Thereafter, having given away the censer and bowed low, he removes the presanctified holy Lamb from the holy pyx with the spoon, and with great reverence and attentiveness places it upon the diskos, saying nothing. Then having bowed low, he puts the holy pyx back into the tabernacle. Thereafter he pours wine and water into the chalice, saying nothing over them, neither blessing them, and places it at the customary place on the holy table; then covers it with a veil.[^86] And the Priest, having taken the censer, censes the Holy Gifts, bowing low.
 Thereafter all make three great bows (prostrations).  
 Then the Priest or Deacon says the Litany: **"Let us complete our evening prayer unto the Lord:"** and the rest of the order of the Presanctified takes place, according to the rite even as it is set forth in the *Sluzhebniks*.  
-After the Ambo Prayer: **"Blessed be the name of the Lord from henceforth and forevermore"** (thrice) and three reverences (*метанія*).  
-
----
-[Book Page 75]
+After the Ambo Prayer: **"Blessed be the name of the Lord from henceforth and forevermore"** (thrice) and three reverences (*метанія*).
 
 ---
 
@@ -1594,20 +1365,13 @@ Containing the general composition of troparia and stichera, as well as the part
 beginning  
 from the First Sunday after All Saints, that is, the 2nd Sunday after the Descent of the Holy Spirit, down to the Sunday of the Publican and Pharisee.  
 
----
-[Book Page 76]
-
 ### Brief Instruction: How to Chant for Minor or Feasted Saints on Sunday and Weekdays
 
 ### 1. Directory for Sundays: On a Non-Feasted (Minor) Saint Occurring on a Sunday[^88]  
 
 On Saturday at Great Vespers: **"Blessed is the man..."** (*Блаже́нъ мꙋ́жъ*), the entire Kathisma.  
 At **"Lord, I have cried"** (*Го́споди воззва́хъ*), we set 10 verses, and we chant 6 stichera of the Octoechos and 3 of the Saint; **"Glory to the Father, and to the Son, and to the Holy Spirit,"** of the Saint, if there is one; **"Now and forever, and unto the ages of ages. Amen:"** the Dogmatikon (the 1st Theotokion) of the current Tone. If there is no sticheron appointed for the Saint at **"Glory"**, then: **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the Dogmatikon.  
-Entrance. Prokeimenon: **"The Lord is King, He is robed in majesty."** (*Го́сподь воцари́ся, въ лѣ́потꙋ сѧ ѡ҆блече́*)  
-
-[Book Page 77]
-
-At the Aposticha, the Resurrection stichera of the Octoechos; **"Glory to the Father, and to the Son, and to the Holy Spirit,"** of the Saint, if there is one; **"Now and forever, and unto the ages of ages. Amen:"** the Resurrection Theotokion [from the aposticha according to the Tone of the Saint]. If there is no sticheron for the Saint at **"Glory"**, then: **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the Theotokion which is at the Aposticha.  
+Entrance. Prokeimenon: **"The Lord is King, He is robed in majesty."** (*Го́сподь воцари́ся, въ лѣ́потꙋ сѧ ѡ҆блече́*) At the Aposticha, the Resurrection stichera of the Octoechos; **"Glory to the Father, and to the Son, and to the Holy Spirit,"** of the Saint, if there is one; **"Now and forever, and unto the ages of ages. Amen:"** the Resurrection Theotokion [from the aposticha according to the Tone of the Saint]. If there is no sticheron for the Saint at **"Glory"**, then: **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the Theotokion which is at the Aposticha.
 After **"Now lettest Thou Thy servant depart in peace..."**: the Resurrection Troparion once; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** the Troparion of the Saint; **"Now and forever, and unto the ages of ages. Amen:"** the Theotokion [from the Resurrection troparia] according to the Tone of the Troparion of the Saint.  
 The Great Dismissal. —  
 At Compline: the Hypakoe of the cycle Tone.  
@@ -1615,9 +1379,7 @@ We chant the Sunday Midnight Office, at which is the Triadic Canon of the cycle 
 At Matins on Sunday: At **"God is the Lord"** (*Бо́гъ Го́сподь*): the Resurrection Troparion twice; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** the Troparion of the Saint; **"Now and forever, and unto the ages of ages. Amen:"** the Resurrection Theotokion according to the Tone of the Troparion of the Saint.  
 After the Kathismas, the Sessional Hymns of the Octoechos.  
 After the Blameless (Psalm 118), that is, after Kathisma 17, immediately: **"The Angelic Counsel was amazed..."** (*А҆́ггельскїй собо́ръ оу҆диви́ся...*).  
-[**Behold:** From the first Sunday after the Apodosis of the Feast of the Exaltation of the Precious Cross until December 20, and likewise from January 14 until Cheesefare Sunday, there is chanted the Polyeleos or *Many-Merciful*, that is, two psalms from the 19th Kathisma: 1st: **"Praise the name of the Lord..."** (*Хвали́те и҆́мя Госпо́дне...*); 2nd: **"Give thanks unto the Lord, for He is good; for His mercy endures forever..."** (*И҆сповѣ́дайтеся Го́сподеви, я҆́ко бла́гъ...*); customary Bulgarian refrains from the *Heirmologion* are also appended: **"Glory to the Father, and to the Son, and to the Holy Spirit; Glory to Thee, O Holy Trinity; Now and forever, and unto the ages of ages. Amen: Rejoice, thou that art full of grace. Alleluia, alleluia, alleluia, glory to Thee, O God: O Most Pure Bearer of God, Mary:"**][^89]
-
-[Book Page 78]
+[**Behold:** From the first Sunday after the Apodosis of the Feast of the Exaltation of the Precious Cross until December 20, and likewise from January 14 until Cheesefare Sunday, there is chanted the Polyeleos or *Many-Merciful*, that is, two psalms from the 19th Kathisma: 1st: **"Praise the name of the Lord..."** (*Хвали́те и҆́мя Госпо́дне...*); 2nd: **"Give thanks unto the Lord, for He is good; for His mercy endureth forever..."** (*И҆сповѣ́дайтеся Го́сподеви, я҆́ко бла́гъ...*); customary Bulgarian refrains from the *Heirmologion* are also appended: **"Glory to the Father, and to the Son, and to the Holy Spirit; Glory to Thee, O Holy Trinity; Now and forever, and unto the ages of ages. Amen: Rejoice, thou that art full of grace. Alleluia, alleluia, alleluia, glory to Thee, O God: O Most Pure Bearer of God, Mary:"**][^89]
 
 and immediately: **"The Angelic Counsel was amazed..."** [Concerning the rest of the Polyeleos, see at the end of this book].  
 Thereafter: Little Litany, the Hypakoe of the Tone, and the rest. The Resurrection Gospel.*)  
@@ -1632,8 +1394,6 @@ After the Great Doxology, the Resurrection Troparion only, one of two: **"Today 
 * * *  
 \*) *The cycle of Sunday Matins Resurrection Gospels consists of 11 in number. They begin from the Sunday of All Saints, and follow in continuous sequence down to the 5th Sunday of Great Lent. In this same order follow also the Gospel Stichera.*[^90]  
 
-[Book Page 79]
-
 At the First Hour: the Resurrection Troparion; after **"Our Father..."**: the Resurrection Kontakion.  
 At the Third Hour: the Resurrection Troparion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** Troparion of the Saint; after **"Our Father..."**: Kontakion of the Saint.  
 At the Sixth Hour: the Resurrection Troparion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** Troparion of the Temple; after **"Our Father..."**: Kontakion of the Temple.  
@@ -1646,10 +1406,6 @@ At the Typika (Obidnytsia), if due to necessity there is no Divine Liturgy: the 
 * * *  
 \*) *For Tone 1: the Kontakion of the Meeting of the Lord (February 2). For Tone 2: of the Dormition (August 15). For Tone 3: of the Protection (October 1). For Tone 4: of the Nativity of the Theotokos (September 8). For Tone 5: the Tone Theotokion. For Tone 6: "Steadfast Protectress of Christians." For Tone 7: the Tone Theotokion, or "Steadfast Protectress." For Tone 8: of the Annunciation (March 25).*
 
----
-
-[Book Page 80]
-
 ### Concerning Two Simple Saints with Distinct Offices Falling on a Sunday
 
 On Saturday at Great Vespers, at **"Lord, I have cried"** (*Го́споди воззва́хъ*), we set 10 verses: stichera of the Octoechos 4, of the first saint 3, of the second saint 3; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the Dogmatikon (the 1st Sunday Theotokion) of the Tone of the week. If the [first or second] saint has a sticheron appointed at **"Glory"**, then: **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** the Dogmatikon.[^92]  
@@ -1659,11 +1415,7 @@ At Compline: the Hypakoe of the Tone.
 At the Midnight Office: the Sunday order as usual.  
 At Matins: at **"God is the Lord"** (*Бо́гъ Госпо́дь*), the Resurrection Troparion twice; troparion of the first saint once; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** troparion of the second saint; **"Now and forever, and unto the ages of ages. Amen:"** the Resurrection Theotokion.  
 After the Kathismata: the Sunday Resurrection Sessional Hymns of the Octoechos, and the rest is of the Resurrection.  
-The Resurrection Canon with its Heirmos to 4; of the Theotokos to 2; and of both saints to 8 [the Cross-Resurrection Canon is
-
-[Book Page 81]
-
-omitted]. Katavasia after each ode: the Katavasia of the cycle.  
+The Resurrection Canon with its Heirmos to 4; of the Theotokos to 2; and of both saints to 8 [the Cross-Resurrection Canon is omitted]. Katavasia after each ode: the Katavasia of the cycle.
 After Ode 3: the Kontakion and Ikos of the first and second saint; the Sessional Hymn of the first saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** Sessional Hymn of the second saint; **"Now and forever, and unto the ages of ages. Amen:"** Theotokion.  
 After Ode 6: the Resurrection Kontakion and Ikos.  
 After Ode 9: the Resurrection Exapostilarion once; the Exapostilarion of the first saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the second saint; **"Now and forever, and unto the ages of ages. Amen:"** Theotokion from the Sunday Resurrection Exapostilaria.  
@@ -1676,8 +1428,6 @@ At the Ninth Hour: the Resurrection Troparion; **"Glory to the Father, and to th
 At the Divine Liturgy: the Typika (Psalm 102): **"Bless the Lord, O my soul..."** (*Благословѝ, дꙋшѐ моя̀, Го́спода...*).  
 At the Beatitudes: the stichera of the Octoechos in the Tone of the week to 8.  
 After the Little Entrance: the Resurrection Troparion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** the Resurrection Kontakion; **"Now and forever, and unto the ages of ages. Amen:"** the Kontakion according to the Tone from the Feasts of the Theotokos, or of the Temple if the temple is dedicated to the Theotokos.
-
-[Book Page 82]
 
 ### Concerning a Saint Sung to Six, If It Occur on a Sunday
 
@@ -1694,8 +1444,6 @@ After Ode 3: the Kontakion and Ikos of the saint [printed
 * * *  
 \*) *The Pochaiv Typikon directs to sing to 6, whereas all the ancient ones direct to sing to 4.*
 
-[Book Page 83]
-
 in the canon after Ode 6]; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** Sessional Hymn of the saint; **"Now and forever, and unto the ages of ages. Amen:"** Theotokion in the same place.  
 After Ode 6: the Resurrection Kontakion and Ikos.  
 Exapostilarion: the Resurrection Exapostilarion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** the Resurrection Theotokion from the Exapostilaria.  
@@ -1709,11 +1457,7 @@ Prokeimenon, Epistle, and Gospel: of the cycle of the Sunday; and if the saint a
 
 ### Concerning a Saint Having a Polyeleos, If It Occur on a Sunday
 
-On Saturday evening, at **"Lord, I have cried"** (*Го́споди воззва́хъ*), we set 10 verses, that is: Resurrection stichera of the Octoechos 3, and Anatolian (Eastern) 1,
-
-[Book Page 84]
-
-and of the saint 6 [if from the General Menaion, we sing its 3 stichera repeating them to 6]; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** the Dogmatikon of the Tone [that is, the 1st Theotokion]; and the rest. Three Paremias (Readings) of the saint.  
+On Saturday evening, at **"Lord, I have cried"** (*Го́споди воззва́хъ*), we set 10 verses, that is: Resurrection stichera of the Octoechos 3, and Anatolian (Eastern) 1, and of the saint 6 [if from the General Menaion, we sing its 3 stichera repeating them to 6]; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** the Dogmatikon of the Tone [that is, the 1st Theotokion]; and the rest. Three Paremias (Readings) of the saint.
 At the Aposticha: the Resurrection stichera; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** the Theotokion according to the Tone of the same Doxastikon [if it is not in the General Menaion, seek it in the Octoechos].  
 After **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): the Resurrection Troparion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** troparion of the saint; **"Now and forever, and unto the ages of ages. Amen:"** the Resurrection Theotokion according to the Tone.  
 At Compline: the kontakion of the saint alone.  
@@ -1726,8 +1470,6 @@ The Resurrection Canon with its Heirmos to 4; of the Cross and Resurrection to 2
 
 * * *  
 \*) *If there are two canons, see at the end of the General Menaion.*
-
-[Book Page 85]
 
 the saint has two canons, both canons to 8, and we omit the Cross-Resurrection canon]:[^98]  
 After Ode 3: the Kontakion and Ikos of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** Sessional Hymn of the saint; **"Now and forever, and unto the ages of ages. Amen:"** his Theotokion.  
@@ -1744,8 +1486,6 @@ At the Divine Liturgy: the Resurrection Beatitudes of the Octoechos to 6, and of
 After the Little Entrance: the Resurrection Troparion, and the troparion of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** kontakion of the saint; **"Now and forever, and unto the ages of ages. Amen:"** the Kontakion from the Feasts of the Theotokos according to the Tone, or **"Steadfast Protectress of Christians..."** (*Застꙋ́пнице хрїстїа́нъ...*).  
 Prokeimenon, Epistle, Alleluia, Gospel, and Communion Hymn: of the Sunday and of the saint.
 
-[Book Page 86]
-
 At the Typika (Obidnytsia), if there is no Divine Liturgy: after **"Our Father..."**: the Resurrection Kontakion, the Kontakion of the Temple; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** kontakion of the saint; **"Now and forever, and unto the ages of ages. Amen:"** **"Steadfast Protectress of Christians..."** If the temple is dedicated to Christ or to the Theotokos: the Resurrection Troparion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** kontakion of the saint; **"Now and forever, and unto the ages of ages. Amen:"** Kontakion of the Temple.
 
 ### Concerning a Saint Having an All-Night Vigil, If It Occur on a Sunday
@@ -1756,8 +1496,6 @@ After **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): the Resurrectio
 At Great Vespers: **"Blessed is the man..."** (*Блаже́нъ мꙋ́жъ*), the entire Kathisma.  
 At **"Lord, I have cried"** (*Го́споди воззва́хъ*): stichera of the Octoechos 4, and of the saint 6; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** the Dogmatikon of the Tone of the week.  
 Entrance. After the Prokeimenon: the three Paremias (Readings) of the saint.
-
-[Book Page 87]
 
 At the Litiya: the first sticheron of the Temple and the stichera of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** Theotokion in the same tone from the Aposticha sung on Sunday.  
 At the Aposticha: the Resurrection stichera; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** Theotokion in the same tone from the Sunday Resurrection Aposticha.  
@@ -1773,8 +1511,6 @@ The Resurrection Canon with its Heirmos to 4; of the Theotokos to 4; and of the 
 After Ode 3: the Kontakion and Ikos of the saint, and his Sessional Hymn; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** Theotokion in the same place.  
 After Ode 6: the Resurrection Kontakion and Ikos.
 
-[Book Page 88]
-
 At Ode 9 we sing: **"My soul doth magnify the Lord..."** (*Вели́читъ дꙋша̀ моя̀ Го́спода...*) and **"More honorable than the Cherubim..."**  
 After Ode 9: the Resurrection Exapostilarion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** the Resurrection Theotokion.  
 At the Praises: the Resurrection stichera 4; and of the saint with the Doxastikon 4, with their two evening refrains written at the Aposticha; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** the Gospel Sticheron; **"Now and forever, and unto the ages of ages. Amen:"** **"Most blessed art thou, O Virgin Theotokos..."** (*Преблагослове́нна е҆сѝ, Богоро́дице Дѣ́во...*). The Great Doxology.  
@@ -1783,8 +1519,6 @@ At the Hours: at the First Hour: the Resurrection Troparion; **"Glory to the Fat
 At the Divine Liturgy: **"Bless the Lord, O my soul..."** (*Благословѝ, дꙋшѐ моя̀, Го́спода...*) and the Beatitudes of the Tone to 6, and of the saint Ode 3 to 4.  
 After the Little Entrance: the Resurrection Troparion, the troparion of the saint, the Resurrection Kontakion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** kontakion of the saint; **"Now and forever, and unto the ages of ages. Amen:"** the Kontakion according to the Tone from the Feasts of the Theotokos, or **"Steadfast Protectress of Christians..."** (*Застꙋ́пнице хрїстїа́нъ...*). [Ancient typika direct that after the Resurrection troparion we sing the troparion of the Temple of the Theotokos where her temple is, and thereafter the troparion of the saint, the Resurrection kontakion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** of the Temple of the Theotokos].[^101]  
 Prokeimenon, Epistle, Alleluia, Gospel, and Communion Hymn: first the Resurrectional (of the Sunday), then of the saint.
-
-[Book Page 89]
 
 If there is no Divine Liturgy, at the Typika (Obidnytsia): the Beatitudes, Prokeimenon, Epistle, Alleluia, and Gospel, as directed at the Liturgy. After **"Our Father..."**: the Resurrection Kontakion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** kontakion of the saint; **"Now and forever, and unto the ages of ages. Amen:"** Kontakion of the Temple if the temple is dedicated to Christ or to the Theotokos; if, however, the temple is dedicated to the saint: **"Now and forever, and unto the ages of ages. Amen:"** **"Steadfast Protectress of Christians..."**
 
@@ -1795,11 +1529,7 @@ At the Aposticha: the Resurrection stichera of the Octoechos; **"Glory to the Fa
 After **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): the Resurrection Troparion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** troparion of the saint, if he has one; **"Now and forever, and unto the ages of ages. Amen:"** of the Forefeast.  
 At Compline: the Hypakoe of the Tone; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** Kontakion of the Forefeast.  
 At the Midnight Office: the Triadikos Canon of the Tone.  
-At Matins: at **"God is the Lord"** (*Бо́гъ Госпо́дь*), the Resurrection Troparion
-
-[Book Page 90]
-
-twice; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** troparion of the saint; **"Now and forever, and unto the ages of ages. Amen:"** troparion of the Forefeast.  
+At Matins: at **"God is the Lord"** (*Бо́гъ Госпо́дь*), the Resurrection Troparion twice; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** troparion of the saint; **"Now and forever, and unto the ages of ages. Amen:"** troparion of the Forefeast.
 After the Kathismata: the Resurrection Sessional Hymns with their Theotokia [those of the Forefeast are omitted]. Then the Blameless (Psalm 118), **"The Angelic Counsel was amazed..."** (*А҆́ггелскїй собо́ръ...*), and the rest is all of the Resurrection down to the canon.  
 Canon: the Resurrection Canon with its Heirmos to 4; of the Theotokos to 2; of the Forefeast to 4; and of the saint to 4. Katavasia after each ode: the Katavasia of the cycle.  
 After Ode 3: the Kontakion and Ikos of the Forefeast, the Kontakion and Ikos of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** Sessional Hymn of the saint; **"Now and forever, and unto the ages of ages. Amen:"** Sessional Hymn of the Forefeast.  
@@ -1811,8 +1541,6 @@ At the Hours: at the First Hour: the Resurrection Troparion; **"Glory to the Fat
 At the Third Hour: the Resurrection Troparion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** troparion of the saint; after **"Our Father..."**: the Resurrection Kontakion.  
 Likewise at the remaining Hours: we say the Resurrection Troparion first, and alternate those of the Forefeast and of the saint; after **"Our Father..."** we say alternating the Resurrection Kontakion and that of the Forefeast.
 
-[Book Page 91]
-
 At the Divine Liturgy: the Beatitudes of the Octoechos to 6, and of the Forefeast Ode 3 to 4.  
 After the Little Entrance: the Resurrection Troparion, the troparion of the Forefeast; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** the Resurrection Kontakion; **"Now and forever, and unto the ages of ages. Amen:"** Kontakion of the Forefeast.  
 Prokeimenon, Epistle, Gospel, and Communion Hymn: of the Sunday only.  
@@ -1821,21 +1549,15 @@ Prokeimenon, Epistle, Gospel, and Communion Hymn: of the Sunday only.
 ### Concerning Dominical Feasts (That Is, Feasts of the Lord), If They Occur on a Sunday
 
 It is necessary to know that if a Dominical Feast [of Christ] occurs, namely: the Exaltation of the Precious Cross, the Nativity of Christ, Theophany, and the Transfiguration, nothing whatsoever is sung of the Resurrection: neither the Resurrection stichera, nor the Blameless, nor the Anavathmoi of the Tone, nor is the Resurrection Gospel read [only on the Exaltation of the Precious Cross after the Gospel do we sing: **"Having beheld the Resurrection of Christ..."** (*Воскресе́нїе Хрїсто́во ви́дѣвше...*)], nor is **"God is the Lord"** said with Resurrection troparia; but the entire office is of the Feast at Vespers and Matins, and at the Divine Liturgy, invariantly.[^104]  
-The Tone of the week, the Resurrection Gospel, the Gospel Sticheron, and
-
-[Book Page 92]
-
-the Exapostilarion are omitted, and on the oncoming Sunday the following Tone is taken.  
+The Tone of the week, the Resurrection Gospel, the Gospel Sticheron, and the Exapostilarion are omitted, and on the oncoming Sunday the following Tone is taken.
 For the feast occurring, the entire office in the Menaion or Anthologion (*Трїфоло́гїѡнъ*) is sung thus:  
 At Little Vespers: at **"Lord, I have cried"** (*Го́споди воззва́хъ*), stichera of the feast to 4; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the feast. Likewise at the Aposticha, stichera of the feast, everything in sequence as written for Little Vespers. After **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): troparion of the feast once.  
 At Great Vespers, at the All-Night Vigil: if it is Sunday, **"Blessed is the man..."** (*Блаже́нъ мꙋ́жъ*), the entire Kathisma is chanted; if Monday, the 1st Antiphon; on the other days of the week the Kathisma is not chanted.  
 At **"Lord, I have cried"** (*Го́споди воззва́хъ*): stichera of the feast to 8, everything as written in the Anthologion; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the feast.  
-Entrance. Prokeimenon of the day. [If a Dominical Feast occurs on Saturday, on Friday evening the Prokeimenon of the day is omitted, and the Great Prokeimenon is sung with its verses. On Saturday evening on the feast we sing the Prokeimenon: **"The Lord reigns"** (*Госпо́дь воцари́ся*). If, however, a Dominical Feast occurs on Sunday, on Saturday evening we sing the Prokeimenon: **"The Lord reigns"** (*Госпо́дь воцари́ся*) with its verses, and on Sunday evening we sing the Great Prokeimenon with its verses].[^105]  
+Entrance. Prokeimenon of the day. [If a Dominical Feast occurs on Saturday, on Friday evening the Prokeimenon of the day is omitted, and the Great Prokeimenon is sung with its verses. On Saturday evening on the feast we sing the Prokeimenon: **"The Lord reigneth"** (*Госпо́дь воцари́ся*). If, however, a Dominical Feast occurs on Sunday, on Saturday evening we sing the Prokeimenon: **"The Lord reigneth"** (*Госпо́дь воцари́ся*) with its verses, and on Sunday evening we sing the Great Prokeimenon with its verses].[^105]  
 The three Paremias (Readings) of the feast.  
 At the Litiya: stichera of the feast [no sticheron is sung for the Temple]; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the feast.  
 At the Aposticha: stichera of the feast with the refrains of the feast; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the feast.
-
-[Book Page 93]
 
 At the Blessing of the Loaves: troparion of the feast thrice [simply, without "Glory"].  
 At Matins: at **"God is the Lord"** (*Бо́гъ Госпо́дь*), troparion of the feast with **"Glory..., Now and forever..."** thrice.  
@@ -1851,8 +1573,6 @@ At all the Hours: troparion of the feast; after **"Our Father..."**: Kontakion o
 At the Divine Liturgy: Festal Antiphons of the feast.  
 After the Little Entrance: troparion of the feast; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"**
 
-[Book Page 94]
-
 Kontakion of the feast.  
 At the Axion Estin (*На и҆зря́днѣй*): in place of **"It is truly meet..."** (*Досто́йно е́сть*), the Refrain of the feast and the Heirmos of the feast.  
 If there is no Divine Liturgy, at the Typika (Obidnytsia): after **"Our Father..."**: Kontakion of the feast.  
@@ -1863,15 +1583,11 @@ It is necessary to know this also: that on all Dominical Feasts in the evening a
 
 If a feast of the Theotokos—namely: the Nativity of the Theotokos, the Entry into the Temple, the Conception, the Dormition, the Deposition of the Robe and the Precious Sash, and the Meeting of the Lord (*Срѣ́тенїе Госпо́дне*) before the Sunday of the Publican and Pharisee—occurs on a Sunday, it is sung together with the Sunday Resurrection office thus:[^107]  
 On Saturday at Little Vespers: at **"Lord, I have cried"** (*Го́споди воззва́хъ*), Resurrection stichera of the Tone to 4; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the feast.  
-At the Aposticha: one Resurrection sticheron, and two stichera of the feast from
-
-[Book Page 95]
-
-the Aposticha of Great Vespers with the refrains of the feast; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the feast from Little Vespers.  
+At the Aposticha: one Resurrection sticheron, and two stichera of the feast from the Aposticha of Great Vespers with the refrains of the feast; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the feast from Little Vespers.
 After **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): the Resurrection Troparion; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the feast; Litany and Dismissal.  
 At Great Vespers [of the Vigil]: Kathisma: **"Blessed is the man..."** (*Блаже́нъ мꙋ́жъ*).  
 At **"Lord, I have cried"** (*Го́споди воззва́хъ*): Resurrection stichera 3, and Anatolian (Eastern) 1, of the Octoechos; and of the feast 6; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the feast.  
-Entrance. Prokeimenon of the day: **"The Lord reigns"** (*Госпо́дь воцари́ся*); and the 3 Paremias (Readings) of the feast.  
+Entrance. Prokeimenon of the day: **"The Lord reigneth"** (*Госпо́дь воцари́ся*); and the 3 Paremias (Readings) of the feast.  
 At the Litiya: stichera of the feast; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the feast.  
 At the Aposticha: the Resurrection stichera; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the feast.  
 At the Blessing of the Loaves: troparion of the feast thrice.  
@@ -1882,11 +1598,7 @@ And after the Litany: the Hypakoe of the Tone, and the Sessional Hymns of the fe
 The Graduals of the Tone of the week. Prokeimenon and Gospel of the feast.[^108]  
 Then: **"Having beheld the Resurrection of Christ..."** (*Воскресе́нїе Хрїсто́во ви́дѣвше...*); Psalm 50; and the veneration of the Gospel Book.  
 Thereafter: **"Glory to the Father, and to the Son, and to the Holy Spirit:"** **"Through the prayers of the Theotokos..."**; **"Now and forever, and unto the ages of ages. Amen:"** the same; the Sticheron of the feast.  
-The Resurrection Canon with its Heirmos to 4; and of the Theotokos
-
-[Book Page 96]
-
-to 2; and both canons of the feast to 8. Katavasia of the cycle according to the Typikon.  
+The Resurrection Canon with its Heirmos to 4; and of the Theotokos to 2; and both canons of the feast to 8. Katavasia of the cycle according to the Typikon.
 After Ode 3: the Resurrection Kontakion and Ikos, and the Sessional Hymn of the feast; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** in the same place.  
 After Ode 6: the Kontakion and Ikos of the feast.  
 At Ode 8: **"My soul doth magnify the Lord..."** (*Вели́читъ дꙋша̀ моя̀ Го́спода...*) and **"More honorable than the Cherubim..."** [The festal refrains are not sung].  
@@ -1899,11 +1611,7 @@ At the First Hour: the Resurrection Troparion; **"Glory to the Father, and to th
 Likewise at the remaining Hours: the Resurrection Troparion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the feast; **"Now and forever, and unto the ages of ages. Amen:"** Theotokion of the Hours. We recite alternating the Kontakion of the feast and the Resurrection Kontakion.  
 At the Divine Liturgy: **"Bless the Lord, O my soul..."** (*Благословѝ, дꙋшѐ моя̀, Го́спода...*) and the Sunday Beatitudes of the Tone to 6, and of the feast Ode 3 to 4.  
 After the Little Entrance: the Resurrection Troparion and the troparion of the feast; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** the Resurrection Kontakion; **"Now and forever, and unto the ages of ages. Amen:"** Kontakion of the feast.  
-Prokeimenon, Epistle, and Alleluia, Gospel, and Communion Hymn: of the Sunday and of the feast. At
-
-[Book Page 97]
-
-the Axion Estin (*На и҆зря́днѣй*): in place of **"It is truly meet..."** (*Досто́йно е́сть*), the Refrain and Heirmos of Ode 9 of the feast.  
+Prokeimenon, Epistle, and Alleluia, Gospel, and Communion Hymn: of the Sunday and of the feast. At the Axion Estin (*На и҆зря́днѣй*): in place of **"It is truly meet..."** (*Досто́йно е́сть*), the Refrain and Heirmos of Ode 9 of the feast.
 * * *  
 If there is no Divine Liturgy, at the Typika (Obidnytsia): the Beatitudes, Prokeimenon, and the rest as directed at the Liturgy. After **"Our Father..."**: the Resurrection Kontakion; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** Kontakion of the feast.
 
@@ -1914,11 +1622,7 @@ At the Aposticha: the Resurrection stichera; **"Glory to the Father, and to the 
 After **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): the Resurrection Troparion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** troparion of the feast.  
 At Compline: the Hypakoe of the Tone; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** Kontakion of the feast.  
 On Sunday morning, we sing the Midnight Office as usual with the Triadikos Canon.  
-At Matins: at **"God is the Lord"** (*Бо́гъ Госпо́дь*), the Resurrection Troparion
-
-[Book Page 98]
-
-twice; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** troparion of the feast.  
+At Matins: at **"God is the Lord"** (*Бо́гъ Госпо́дь*), the Resurrection Troparion twice; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** troparion of the feast.
 After the Kathismata: the Resurrection Sessional Hymns of the Octoechos with their Theotokia, and the rest is all of the Resurrection. The Graduals of the Tone, the Resurrection Gospel, and the Resurrection Sticheron.  
 Canon: the Resurrection Canon with its Heirmos to 4; of the Theotokos to 2; of the feast to 4; and of the saint to 4. Katavasia of the cycle.  
 After Ode 3: the Kontakion and Ikos of the feast and of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** Sessional Hymn of the saint; **"Now and forever, and unto the ages of ages. Amen:"** Sessional Hymn of the feast.  
@@ -1928,11 +1632,7 @@ After Ode 9: the Resurrection Exapostilarion; **"Glory to the Father, and to the
 At the Praises: stichera of the Octoechos 4; and of the feast to 4, namely the Matins Aposticha of that day, two stichera with the refrains of the feast; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** the Gospel Sticheron; **"Now and forever, and unto the ages of ages. Amen:"** **"Most blessed art thou, O Virgin Theotokos..."** (*Преблагослове́нна е҆сѝ...*). After the Doxology: the Resurrection Troparion only, one of two.  
 At the Hours: the Resurrection Troparion first; we alternate at **"Glory"** those of the feast and of the saint; we alternate the Kontakion of the feast and the Resurrection Kontakion, that is:  
 At the First Hour: the Resurrection Troparion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** troparion of the feast; **"Now and forever, and unto the ages of ages. Amen:"** Theotokion of the Hours. After **"Our Father..."**: Kontakion of the feast.  
-At the Third Hour: the Resurrection Troparion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** troparion of the saint; after
-
-[Book Page 99]
-
-**"Our Father..."**: the Resurrection Kontakion.  
+At the Third Hour: the Resurrection Troparion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** troparion of the saint; after **"Our Father..."**: the Resurrection Kontakion.
 At the Sixth Hour: the Resurrection Troparion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** troparion of the feast; after **"Our Father..."**: Kontakion of the feast.  
 At the Ninth Hour: the Resurrection Troparion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** troparion of the saint; after **"Our Father..."**: the Resurrection Kontakion.  
 At the Divine Liturgy: the Typika: **"Bless the Lord, O my soul..."** (*Благословѝ, дꙋшѐ моя̀, Го́спода...*) and the Beatitudes of the Tone to 6, and of the feast from the canon the ode of the cycle to 4.  
@@ -1943,10 +1643,6 @@ Prokeimenon of the Tone and of the feast. Epistle and Gospel of the Sunday. In p
 At the Typika (Obidnytsia), after **"Our Father..."**: the Resurrection Kontakion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** Kontakion of the Temple; **"Now and forever, and unto the ages of ages. Amen:"** Kontakion of the feast.  
 ☞ *Note:* If a Sunday occurs within a feast and there are two saints, the office is sung only for one according to the above directions, while for the other saint the office is omitted; at Compline the Canon of the Theotokos and of the saint is read.
 
----
-
-[Book Page 100]
-
 ### If an Afterfeast [within the Feast] Occur on a Sunday, and of a Saint to Whom a Polyeleos Is Appointed
 
 On Saturday at Great Vespers, at **"Lord, I have cried"** (*Го́споди воззва́хъ*): stichera of the Octoechos 3, of the feast 3, and of the saint 4; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** of the feast.[^112] After **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): the Resurrection Troparion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** troparion of the saint; **"Now and forever, and unto the ages of ages. Amen:"** troparion of the feast.  
@@ -1956,16 +1652,12 @@ After the Kathismata: the Sunday Resurrection Sessional Hymns with their Theotok
 The Resurrection Canon with its Heirmos to 4, of the feast to 4, and of the saint to 6. Katavasia of the cycle after each ode.  
 After Ode 3: the Kontakion and Ikos of the feast; the Kontakion and Ikos of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** Sessional Hymn of the saint; **"Now and forever, and unto the ages of ages. Amen:"** Sessional Hymn of the feast.  
 
-[Book Page 101]
-
 After Ode 6: the Resurrection Kontakion and Ikos.  
 At Ode 9: we sing **"My soul doth magnify the Lord"** (*Вели́читъ дꙋша̀ моя̀*) and **"More honorable than the Cherubim"** (*Честнѣ́йшꙋю*). The Resurrection Exapostilarion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** of the feast.  
 At the Praises (*Хвали́тны*): stichera of the Octoechos 4, and of the saint to 4, with two refrains from the evening Aposticha; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** the Gospel Sticheron; **"Now and forever, and unto the ages of ages. Amen:"** **"Most blessed art thou, O Virgin Theotokos..."** (*Преблагослове́нна е҆сѝ...*). The Great Doxology. And after the Trisagion: the Resurrection Troparion only [one of two].  
 At the Hours: at the First Hour, the Resurrection Troparion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** troparion of the feast; **"Now and forever, and unto the ages of ages. Amen:"** Theotokion of the Hours. After **"Our Father..."**: kontakion of the feast. At the Third Hour: the Resurrection Troparion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** troparion of the saint. After **"Our Father..."**: kontakion of the saint. At the Sixth Hour: the Resurrection Troparion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** troparion of the feast; after **"Our Father..."**: kontakion of the feast. At the Ninth Hour: the Resurrection Troparion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** troparion of the saint; after **"Our Father..."**: kontakion of the saint.  
 At the Divine Liturgy: the Beatitudes of the Octoechos to 4, of the feast the ode of the cycle to 4, and of the saint Ode 3 to 4. At the Entrance: if it is the Afterfeast of a Dominical Feast, we sing: **"Come, let us worship and bow down to Christ. Save us, O Son of God... who sing to Thee: Alleluia,"** (*Прїиди́те, поклони́мся... Спасѝ ны́, Сы́не Бо́жїй...*) with the concluding refrain of the feast.[^114]  
 After the Entrance: the Resurrection Troparion, troparion of the feast, troparion of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** kontakion of the saint; **"Now and forever, and unto the ages of ages. Amen:"** kontakion of the feast. Prokeimenon of the Tone and of the saint; Epistle and Gospel; Communion Hymn of the day and of the saint.
-
-[Book Page 102]
 
 ### If an Afterfeast Occur on a Sunday, and the Saint Has an All-Night Vigil
 
@@ -1977,8 +1669,6 @@ At the Blessing of Loaves: the troparion **"O Virgin Theotokos, rejoice..."** (*
 At Matins: at **"God is the Lord"** (*Бо́гъ Госпо́дь*), the Resurrection Troparion twice; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** troparion of the feast.  
 After the Kathismata: the Sunday Resurrection Sessional Hymns with their Theotokia, and the rest is all in order, exactly as for a Polyeleos Saint in an Afterfeast on a Sunday.
 
-[Book Page 103]
-
 ### If the Apodosis of a Feast Occur on a Sunday
 
 If the Apodosis of a Dominical or Theotokos Feast happen to occur on a Sunday, the office of the saint is omitted [except for the Entry of the Most Holy Theotokos], and is sung beforehand on another day.[^116] We sing the Resurrection office and that of the feast as follows:  
@@ -1988,11 +1678,7 @@ After **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): the Resurrectio
 At Compline: the Hypakoe of the Tone; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the feast. The Sunday Midnight Office is sung with the Triadikos Canon of the Tone.  
 At Matins: at **"God is the Lord"** (*Бо́гъ Госпо́дь*), the Resurrection Troparion twice; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the feast.  
 After the Kathismata: the Sunday Resurrection Sessional Hymns with their Theotokia. After the Amomos (Psalm 118): the troparia **"The Angelic Counsel was amazed..."** (*А҆́гг҃льскїй собо́ръ...*); the Hypakoe of the Tone; the Graduals and Prokeimenon of the Tone; the ordinary Sunday Resurrection Gospel, and the rest of the Resurrection in the customary manner.  
-The Resurrection Canon with its Heirmos to 4, of the Theotokos to 2, and of the feast both canons to 8. Katavasia
-
-[Book Page 104]
-
-of the cycle. After Ode 3: the Kontakion and Ikos of the feast; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** Sessional Hymn of the feast.  
+The Resurrection Canon with its Heirmos to 4, of the Theotokos to 2, and of the feast both canons to 8. Katavasia of the cycle. After Ode 3: the Kontakion and Ikos of the feast; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** Sessional Hymn of the feast.
 After Ode 6: the Resurrection Kontakion and Ikos.  
 At Ode 9: we sing **"More honorable than the Cherubim"** (*Честнѣ́йшꙋю*). The Resurrection Exapostilarion; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the feast.  
 At the Praises (*Хвали́тны*): the Resurrection stichera 4, and of the feast to 4 with the Doxastikon and with the refrains of the feast; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** the Gospel Sticheron; **"Now and forever, and unto the ages of ages. Amen:"** **"Most blessed art thou, O Virgin Theotokos..."** (*Преблагослове́нна е҆сѝ...*). The Great Doxology. After the Trisagion: the Resurrection Troparion only, one of two.  
@@ -2002,11 +1688,7 @@ After the Entrance: the Resurrection Troparion, troparion of the feast; **"Glory
 
 ### If the Feast of the Temple of a Male or Female Saint Occur on a Sunday
 
-On Saturday evening, and on Sunday at Matins and at the Divine Liturgy, we sing the entire office unchanged
-
-[Book Page 105]
-
-as for an occurring saint who has an All-Night Vigil on a Sunday. Only here at Matins, the Prokeimenon, Gospel, and Sticheron are of the Temple.[^119]  
+On Saturday evening, and on Sunday at Matins and at the Divine Liturgy, we sing the entire office unchanged as for an occurring saint who has an All-Night Vigil on a Sunday. Only here at Matins, the Prokeimenon, Gospel, and Sticheron are of the Temple.[^119]
 On the evening of the same day, there takes place the Apodosis in honor of the temple patron (*ѿда́нїе за по́честь хра́ма*): for Vespers, a ringing of the chimes (*трезво́нъ*) without the great bell. At Vespers, at **"Lord, I have cried"** (*Го́споди воззва́хъ*): stichera of the Temple 3, and of the occurring saint of the Menaion 3; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the Temple; **"Now and forever, and unto the ages of ages. Amen:"** the Sunday Theotokion of the same Tone. Prokeimenon of the day: **"Vouchsafe, O Lord..."** (*Сподо́би, Го́споди...*); **"Let us complete our evening prayer..."** (*И҆спо́лнимъ вече́рнюю моли́тву...*). At the Aposticha: stichera of the Temple; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the Temple or of the saint; **"Now and forever, and unto the ages of ages. Amen:"** the Sunday Theotokion. After the Trisagion: troparion of the Temple; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint, if there is one; **"Now and forever, and unto the ages of ages. Amen:"** the Sunday Theotokion. The Litany: **"Have mercy on us, O God..."** (*Поми́лꙋй на́съ, Бо́же...*), and the Dismissal. And thus the office of the Temple has its Apodosis without fail.[^120] At Matins and at the Divine Liturgy, there is no ringing of the chimes; the office of the saint of the cycle is sung with the Octoechos in the customary manner.  
 ☞ *Note:* If on the morrow of any temple saint's Sunday there occur a feast of Christ or of the Theotokos, or of a great saint having an All-Night Vigil or a Polyeleos or an Entrance or Paremias, then in the evening the Apodosis of the Temple does not take place.
 
@@ -2014,25 +1696,17 @@ On the evening of the same day, there takes place the Apodosis in honor of the t
 
 And we sing the office of the Temple as for a great saint, if it occur on a Sunday, while the office of the Afterfeast we omit.[^121] At Matins: the Polyeleos and Sessional Hymn of the Temple only; **"Now and forever, and unto the ages of ages. Amen:"** of the feast; Gospel of the Temple, and the rest. Katavasia of the feast, Gospel Sticheron. At the First Hour and at the Divine Liturgy: the office of the Resurrection and of the Temple.
 
-[Book Page 106]
-
 ### If the Feast of the Temple of a Male or Female Saint Occur with a Forefeast or with the Apodosis of Any Feast on a Sunday
 
 At Little Vespers, at **"Lord, I have cried"** (*Го́споди воззва́хъ*): the Resurrection stichera of the Tone to 4; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the Temple; **"Now and forever, and unto the ages of ages. Amen:"** the Theotokion of Little Vespers. At the Aposticha: one Resurrection sticheron, and the Aposticha stichera of the temple saint with their own refrains from Great Vespers. Litany and Dismissal.  
 At Great Vespers, after the customary Psalm [Psalm 103], the entire Kathisma [Kathisma 1]. At **"Lord, I have cried"**: the Resurrection stichera 3, and of the feast 3, and of the Temple 4; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the Temple; **"Now and forever, and unto the ages of ages. Amen:"** the Dogmatikon of Tone 1.[^122] Entrance. Prokeimenon of the day, and the readings (Paremias) of the Temple.  
 At the Litiya: stichera of the Temple; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the Temple; **"Now and forever, and unto the ages of ages. Amen:"** of the feast. At the Aposticha: the Resurrection stichera; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the Temple; **"Now and forever, and unto the ages of ages. Amen:"** of the feast. At the Blessing of Loaves: the troparion **"O Virgin Theotokos, rejoice..."** (*Богоро́дице Дѣ́во, ра́дꙋйсѧ...*) twice, and of the Temple once; **"Blessed be the name of the Lord..."** (*Бꙋ́ди и҆́мя Госпо́дне...*), and reading from the Epistles.  
-At Matins: at **"God is the Lord"** (*Бо́гъ Госпо́дь*), the Resurrection Troparion twice; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the Temple; **"Now and forever, and unto the ages of ages. Amen:"** of the feast. After the Kathismata: the Sunday Resurrection Sessional Hymns with their Theotokia. The Polyeleos and all the Sessional Hymns of the Temple once each; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the Temple; **"Now and forever, and unto the ages of ages. Amen:"** of the feast. Graduals of the Tone. Prokeimenon of the Temple: **"Let every breath..."** (*Вся́кое дыха́нїе...*), and the Gospel of the Temple. **"Having seen the Resurrection of Christ..."** (*Воскресе́нїе Христо́во...*), Psalm 50. Sticheron of the Temple, and the rest in the customary manner. The Resurrection Canon with its Heirmos to 4, and of the feast to 4, and of the Temple to 6. Katavasia
-
-[Book Page 107]
-
-of the cycle. After Ode 3: the Kontakion of the feast and the Sessional Hymn of the Temple; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the feast. After Ode 6: the Kontakion and Ikos of the Temple. At Ode 9: we sing **"More honorable than the Cherubim"** (*Честнѣ́йшꙋю*). The Resurrection Exapostilarion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the Temple; **"Now and forever, and unto the ages of ages. Amen:"** of the feast. At the Praises (*Хвали́тны*): the Resurrection stichera 3, and of the Temple 2, and of the feast 3 with the Doxastikon; and we say the refrain of the feast. Then we sing the Idiomelon sticheron of the feast with its refrain; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the Temple; **"Now and forever, and unto the ages of ages. Amen:"** **"Most blessed art thou, O Virgin Theotokos..."** (*Преблагослове́нна е҆сѝ...*). The Great Doxology. After the Trisagion: the Resurrection Troparion. And the First Hour, and we sing the Gospel Sticheron.  
+At Matins: at **"God is the Lord"** (*Бо́гъ Госпо́дь*), the Resurrection Troparion twice; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the Temple; **"Now and forever, and unto the ages of ages. Amen:"** of the feast. After the Kathismata: the Sunday Resurrection Sessional Hymns with their Theotokia. The Polyeleos and all the Sessional Hymns of the Temple once each; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the Temple; **"Now and forever, and unto the ages of ages. Amen:"** of the feast. Graduals of the Tone. Prokeimenon of the Temple: **"Let every breath..."** (*Вся́кое дыха́нїе...*), and the Gospel of the Temple. **"Having seen the Resurrection of Christ..."** (*Воскресе́нїе Христо́во...*), Psalm 50. Sticheron of the Temple, and the rest in the customary manner. The Resurrection Canon with its Heirmos to 4, and of the feast to 4, and of the Temple to 6. Katavasia of the cycle. After Ode 3: the Kontakion of the feast and the Sessional Hymn of the Temple; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the feast. After Ode 6: the Kontakion and Ikos of the Temple. At Ode 9: we sing **"More honorable than the Cherubim"** (*Честнѣ́йшꙋю*). The Resurrection Exapostilarion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the Temple; **"Now and forever, and unto the ages of ages. Amen:"** of the feast. At the Praises (*Хвали́тны*): the Resurrection stichera 3, and of the Temple 2, and of the feast 3 with the Doxastikon; and we say the refrain of the feast. Then we sing the Idiomelon sticheron of the feast with its refrain; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the Temple; **"Now and forever, and unto the ages of ages. Amen:"** **"Most blessed art thou, O Virgin Theotokos..."** (*Преблагослове́нна е҆сѝ...*). The Great Doxology. After the Trisagion: the Resurrection Troparion. And the First Hour, and we sing the Gospel Sticheron.
 At the First Hour: the Resurrection Troparion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the feast; **"Now and forever, and unto the ages of ages. Amen:"** Theotokion of the Hours. After the Trisagion: the Resurrection Kontakion.  
 At the Third Hour: the Resurrection Troparion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the Temple; after **"Our Father..."**: kontakion of the Temple. In like manner at the other Hours: we say first the Resurrection Troparion, the troparion of the feast, and of the Temple; then after the Trisagion: we alternate saying the kontakion of the Temple, of the feast, and of the Resurrection.  
 At the Divine Liturgy: the Beatitudes of the Resurrection to 4, of the feast Ode 3 to 4, and of the Temple Ode 6 to 4.  
 After the Entrance: the Resurrection Troparion, of the feast, and of the temple saint; the Resurrection Kontakion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the Temple; **"Now and forever, and unto the ages of ages. Amen:"** of the feast. Prokeimenon of the Tone and of the Temple. Ordinary Epistle, then of the temple saint. Gospel of the cycle and of the Temple. Communion Hymn: **"Praise the Lord from the heavens..."** (*Хвали́те Го́спода съ небе́съ...*), and of the Temple.  
 On the evening of the same day, there takes place the Apodosis in honor of the temple patron, as indicated above.
-
-[Book Page 108]
 
 ### II. Rubrical Direction for Weekdays and Saturdays[^123]
 
@@ -2044,8 +1718,6 @@ At the Aposticha: stichera of the Octoechos, with the refrains of the Horologion
 After **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): troparion of the saint once; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the Dismissal Theotokion according to the Tone and day. Litany: **"Have mercy on us, O God..."** (*Поми́лꙋй на́съ, Бо́же...*), and the Small Dismissal.  
 At Compline: after **"It is truly meet..."** (*Досто́йно е́сть*) and after **"Our Father..."**: the troparion of the Temple [if the temple is dedicated to Christ or to the Theotokos] once; troparion of the day once. Then: **"O God of our fathers..."** (*Бо́же ѻ҆тє́цъ на́шихъ...*);[^125]
 
-[Book Page 109]
-
 **"Who in all the world..."** (*И҆́же во все́мъ мі́рѣ...*); **"Glory to the Father, and to the Son, and to the Holy Spirit:"** kontakion: **"With the saints give rest..."** (*Со святы́ми оу҆поко́й...*); **"Now and forever, and unto the ages of ages. Amen:"** **"By the prayers, O Lord, of all the saints..."** (*Моли́твами, Го́споди, всѣ́хъ святы́хъ...*). If the temple be dedicated to a saint, we say first the troparion of the day, then of the temple saint, and then: **"O God of our fathers..."**, and the rest.  
 ☞ *Take heed:* On Tuesday evening, and likewise on Thursday evening at Compline, if the temple is dedicated to Christ, the troparion of the Temple is omitted, because there is said the troparion of the day: **"Save, O Lord, Thy people..."** (*Спасѝ, Го́споди, лю́ди Твоя̀...*). On Wednesday evening at Compline we say: the troparion of the day: **"Holy Apostles..."** (*А҆по́столи святи́и...*) and of Saint Nicholas: **"Rule of faith..."** (*Пра́вило вѣ́ры...*).  
 The Midnight Office is the Daily order with the customary troparia as in the Horologion (or Moleben Book).  
@@ -2053,8 +1725,6 @@ At Matins: at **"God is the Lord"** (*Бо́гъ Госпо́дь*), the tropari
 After the Kathismata of the Psalter: the Sessional Hymns of the Octoechos.  
 Canons: both canons of the Octoechos with the Heirmos to 8, and of the saint to 4. Katavasia, that is the Heirmos of the canon of the saint, only after Odes 3, 6, 8, and 9.[^126] (On Monday, to the troparia of the Penitential Canon we say the refrain: **"Glory to Thee, our God, glory to Thee"** [*Сла́ва Тебѣ̀, Бо́же на́шъ, сла́ва Тебѣ̀*]; to the troparia of the Canon of the Bodiless Powers we say: **"Holy Archangels and Angels, pray to God for us"** [*Святи́и Арха́ггели и҆ А҆́ггели, моли́те Бо́га ѡ҆ на́съ*], and so forth).  
 After Ode 3: Sessional Hymn of the saint once; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** Theotokion (on Wednesday and Friday, however, the Stavrotheotokion).
-
-[Book Page 110]
 
 After Ode 6: the Kontakion and Ikos of the saint.  
 After Ode 9: the Exapostilarion of the Octoechos; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** his Theotokion [on Wednesday or Friday, the Stavrotheotokion]. The Small Doxology.  
@@ -2066,8 +1736,6 @@ At the Divine Liturgy: the Daily Antiphons. After the Entrance, if there is only
 Prokeimenon of the day in Tone 3. Epistle, Gospel, and Communion Hymn of the day.  
 If there is also a commemoration for the departed: the troparion of the day, troparion for the departed; the kontakion of the day; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** **"With the saints give rest..."** (*Со святы́ми оу҆поко́й...*); **"Now and forever, and unto the ages of ages. Amen:"** Theotokion: **"Thee as a rampart and haven..."** (*Тебѐ и҆ стѣ́нꙋ и҆ приста́нище...*). Prokeimenon, Epistle, and Gospel: of the day of the cycle and for the departed.[^128]
 
-[Book Page 111]
-
 If there is another of the diverse and needful services [for example, for any special petition]: we sing the troparion of the day, then the troparion of the special service, the kontakion of the day; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** the kontakion of the special service; **"Now and forever, and unto the ages of ages. Amen:"** the Theotokion of the special service, or: **"Protection of Christians..."** (*Застꙋ́пнице христїа́нъ...*).  
 Prokeimenon of the day 2, and of the special service 1. Epistle, Gospel, and Communion Hymn: of the day of the cycle, and of the special service.  
 ☞ *Be it known:* If on the following day there is to be a marked feast and an All-Night Vigil, it is obligatory to read the daily Epistle and Gospel that would otherwise fall on the very day of the feast beforehand, on the eve of the feast under one pericope (*подъ зача́ло*).  
@@ -2075,29 +1743,19 @@ Prokeimenon of the day 2, and of the special service 1. Epistle, Gospel, and Com
 
 #### Concerning a Simple Saint, If It Occur on a Saturday
 
-On Friday evening, at **"Lord, I have cried"** (*Го́споди воззва́хъ*): the stichera of the saint take precedence 3, and of the Octoechos to all
-
-[Book Page 112]
-
-the saints 3. [According to the ancient typika, stichera of the saint to 6]. **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the Dogmatikon of the current Tone [of the past Sunday]. If the saint has a Doxastikon, then: **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** the Dogmatikon.  
+On Friday evening, at **"Lord, I have cried"** (*Го́споди воззва́хъ*): the stichera of the saint take precedence 3, and of the Octoechos to all the saints 3. [According to the ancient typika, stichera of the saint to 6]. **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the Dogmatikon of the current Tone [of the past Sunday]. If the saint has a Doxastikon, then: **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** the Dogmatikon.
 At the Aposticha: the Martyria stichera 3: the first, which is at the Aposticha, and two, which are at **"Lord, I have cried"**: the other stichera, with the customary refrains of the Horologion. [Those for the departed are omitted and are sung only during the Fast, and if Alleluia occur]. **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint, if there is one; if not, then: **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the Theotokion.  
 After **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): troparion of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the Sunday Theotokion according to the Tone.  
 At Compline: the troparion of the Temple of Christ or of the Theotokos, then the troparion of the day; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** **"With the saints give rest..."** (*Со святы́ми оу҆поко́й...*); **"Now and forever, and unto the ages of ages. Amen:"** **"As the first-fruits of nature..."** (*Я҆́кѡ нача́тки є҆стества̀...*). If, however, the temple is dedicated to a saint: the troparion of the day: **"Apostles, prophets..."** (*А҆по́столи, проро́цы...*); **"Glory to the Father, and to the Son, and to the Holy Spirit:"** **"With the saints give rest..."**; **"Now and forever, and unto the ages of ages. Amen:"** **"As the first-fruits of nature..."** The troparion of the temple saint is not said, because in the daily troparion all the saints are named.  
 On Saturday, the Saturday Midnight Office is as in the Moleben Book.  
 At Matins: at **"God is the Lord"** (*Бо́гъ Госпо́дь*), the troparion of the saint twice; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the Sunday Theotokion according to the tone of the saint. After the Kathismata: the Sessional Hymns from the Octoechos without that for the departed.  
-Canons 3: of the Menaion to the saint with the Heirmos to 6,
-
-[Book Page 113]
-
-and after it of the temple saint to 4, and of the Octoechos the Martyria Canon to 4. ☞ If, however, the temple is dedicated to Christ or to the Theotokos: the Canon of the Temple with the Heirmos to 6, and of the saint to 4, and of the Octoechos to 4. [The Canon for the Departed is sung on Friday at Compline]. Katavasia: after Odes 3, 6, 8, and 9, the Heirmos of the Canon of the Octoechos.  
+Canons 3: of the Menaion to the saint with the Heirmos to 6, and after it of the temple saint to 4, and of the Octoechos the Martyria Canon to 4. ☞ If, however, the temple is dedicated to Christ or to the Theotokos: the Canon of the Temple with the Heirmos to 6, and of the saint to 4, and of the Octoechos to 4. [The Canon for the Departed is sung on Friday at Compline]. Katavasia: after Odes 3, 6, 8, and 9, the Heirmos of the Canon of the Octoechos.
 After Ode 3: according to the rule, the Sessional Hymn of the saint; **"Now and forever, and unto the ages of ages. Amen:"** the Theotokion in the same place. [Some say after Ode 3 the Kontakion of the Temple; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** Sessional Hymn of the saint; **"Now and forever, and unto the ages of ages. Amen:"** Sessional Hymn of the Temple, if the temple is dedicated to Christ or to the Theotokos].  
 After Ode 6: the Kontakion and Ikos of the saint. Exapostilarion of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the Octoechos; **"Now and forever, and unto the ages of ages. Amen:"** Theotokion.  
 At the Aposticha: stichera of the Octoechos written at the Praises, the Martyria 3 with the customary refrains of the Horologion: **"We have been filled in the morning with Thy mercy..."** (*И҆спо́лнихомся заꙋ́тра ми́лости Твоея̀...*); **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint, if there is one; if not, then: **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the Theotokion according to the Tone and day. [The Saturday Aposticha in the Octoechos is omitted, and is sung only on the 5th, 6th, and 4th Saturdays of the Fast, or if Alleluia occur].  
 After **"It is good to give praise..."** (*Бла́го е́сть*) and after **"Our Father..."**: troparion of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the Dismissal Theotokion of Matins, according to the tone of the troparion of the saint.  
 At the Hours: at the First Hour, the troparion and kontakion of the day. At the Third Hour: the troparion and kontakion of the saint. At the Sixth Hour: the troparion and kontakion of the Temple. At the Ninth Hour: the troparion and kontakion of the saint.  
 At the Divine Liturgy: the troparion of the day; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the kontakion of the day: **"As the first-fruits of nature..."** (*Я҆́кѡ нача́тки є҆стества̀...*). Prokeimenon, Epistle, Gospel, and Communion Hymn of the day.
-
-[Book Page 114]
 
 If there is also a service of a special petition, one of the diverse services: the troparion of the day, troparion of the petition service; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** kontakion of the petition service; **"Now and forever, and unto the ages of ages. Amen:"** the kontakion of the day: **"As the first-fruits of nature..."** (*Я҆́кѡ нача́тки є҆стества̀...*). Prokeimenon, Epistle, Gospel, and Communion Hymn of the day and of the petition service.  
 ☞ *Note:* If on Saturday the troparion of the day and of the saint is read, the Epistle and Gospel of the saint take precedence.[^131]  
@@ -2110,8 +1768,6 @@ At Vespers [from Sunday evening through Friday evening], at **"Lord, I have crie
 At the Aposticha: stichera of the Octoechos; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint, if there is one; **"Now and forever, and unto the ages of ages. Amen:"** the Theotokion in the same Tone.  
 After **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): troparion of the 1st saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** troparion of the second; **"Now and forever, and unto the ages of ages. Amen:"** the Dismissal Theotokion according to the tone of the troparion of the second saint.
 
-[Book Page 115]
-
 ☞ *Note:* On Tuesday and Thursday evenings, when there is no Polyeleos for the saint, in place of Theotokia there are sung Stavrotheotokia.  
 At Compline: the troparion of the Temple, if the temple is dedicated to Christ or to the Theotokos; the troparion of the day. [If, however, the temple is dedicated to a saint, there is said first the troparion of the day, thereafter the troparion of the Temple]. Then the troparion: **"O God of our fathers..."** (*Бо́же ѻ҆тє́цъ на́шихъ...*); **"Who in all the world..."** (*И҆́же во все́мъ мі́рѣ...*), and the rest.  
 The Midnight Office is the Daily order in the customary manner.  
@@ -2121,11 +1777,7 @@ After Ode 3: the Kontakion and Ikos of the second saint, and the Sessional Hymn 
 After Ode 6: the Kontakion and Ikos of the 1st saint.  
 Exapostilarion of the Octoechos and of the 1st saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the 2nd; **"Now and forever, and unto the ages of ages. Amen:"** the Theotokion.  
 At the Aposticha: stichera of the Octoechos; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint, if there is one; **"Now and forever, and unto the ages of ages. Amen:"** the Theotokion according to the Tone. If there is no Doxastikon for the saint, then: **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the Theotokion of the Octoechos.  
-After **"It is good to give praise..."** (*Бла́го е́сть*) and after the Trisagion: troparion of the first
-
-[Book Page 116]
-
-saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** troparion of the other; **"Now and forever, and unto the ages of ages. Amen:"** the Dismissal Theotokion, which is at the end of Matins according to the Tone.  
+After **"It is good to give praise..."** (*Бла́го е́сть*) and after the Trisagion: troparion of the first saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** troparion of the other; **"Now and forever, and unto the ages of ages. Amen:"** the Dismissal Theotokion, which is at the end of Matins according to the Tone.
 At the First Hour: the troparion and kontakion of the day. At the Third Hour: the troparion and kontakion of the 1st saint. At the Sixth Hour: the troparion and kontakion of the Temple. At the Ninth Hour: the troparion and kontakion of the 2nd saint.  
 ☞ *Note:* If it is Wednesday or Friday [and there is no Polyeleos for the saint], in place of Theotokia there are sung Stavrotheotokia.  
 At the Divine Liturgy: the troparion of the day; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** the kontakion of the day; **"Now and forever, and unto the ages of ages. Amen:"** the kontakion of the Theotokos according to the Tone, or: **"Protection of Christians..."** (*Застꙋ́пнице христїа́нъ...*). If the temple is dedicated to Christ or to the Theotokos, there is sung also: **"Now and forever, and unto the ages of ages. Amen:"** the kontakion of the Temple. Prokeimenon, Epistle, Gospel, and Communion Hymn of the day.  
@@ -2134,19 +1786,13 @@ If one wishes to add also one of the diverse services: the troparion of the day,
 
 ### If Two Saints Occur on a Saturday
 
-On Friday evening, at **"Lord, I have cried"** (*Го́споди воззва́хъ*): stichera to both saints to 6; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint, if there
-
-[Book Page 117]
-
-is one; if not, then: **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the Theotokion Dogmatikon of the current Tone (of the past Sunday).  
+On Friday evening, at **"Lord, I have cried"** (*Го́споди воззва́хъ*): stichera to both saints to 6; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint, if there is one; if not, then: **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the Theotokion Dogmatikon of the current Tone (of the past Sunday).
 At the Aposticha: the Martyria stichera of the Octoechos 3: one which is at the Aposticha, and two which are at **"Lord, I have cried"**: the other stichera, with the customary verses. **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the Theotokion from the Aposticha; if, however, there be one for the saint, there is sung: **"Glory to the Father, and to the Son, and to the Holy Spirit:"** to the saint; **"Now and forever, and unto the ages of ages. Amen:"** the Theotokion according to the Tone.  
 After **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): the troparion of the 1st saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** troparion of the other; **"Now and forever, and unto the ages of ages. Amen:"** the Sunday Theotokion according to the tone of the troparion of the second saint.  
 At Compline: see as when one saint occurs on a Saturday.  
 At Matins on Saturday, at **"God is the Lord"** (*Бо́гъ Госпо́дь*): the troparion of the 1st saint twice; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** troparion of the 2nd; **"Now and forever, and unto the ages of ages. Amen:"** the Sunday Theotokion according to the tone of the Doxastikon. Sessional Hymns of the Octoechos.  
 The Canon: if the temple is dedicated to Christ or to the Theotokos, we sing first that of the Temple with the Heirmos to 6, and to both saints to 8 (that of the Octoechos is omitted). If, however, the temple is dedicated to a saint, the Canon of the Temple is omitted, and there is sung: the Canon to one saint with the Heirmos to 6, and to the other to 4, and the Martyria Canon of the Octoechos to 4. Katavasia: the Heirmos of the final canon.  
 After Odes 3, 6, and 4 [sic]:[^130] the Kontakion and Ikos of the second saint, and the Sessional Hymn of the 1st saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** Sessional Hymn of the other; **"Now and forever, and unto the ages of ages. Amen:"** the Theotokion in the same place.
-
-[Book Page 118]
 
 After Ode 6: the Kontakion and Ikos of the first saint. Exapostilarion first of the first saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the other saint; **"Now and forever, and unto the ages of ages. Amen:"** the Theotokion in the Octoechos.  
 At the Aposticha: stichera 3, the Martyria of the Octoechos written at the Praises, with the customary refrains of the Horologion. After **"It is good to give praise..."** (*Бла́го е́сть*): the troparion of the first saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** troparion of the second; **"Now and forever, and unto the ages of ages. Amen:"** the Dismissal Theotokion which is at the end of Matins. At the Hours: at the First Hour, the troparion and kontakion of the day. At the Third Hour: the troparion and kontakion of the 1st saint. At the Sixth Hour: the troparion and kontakion of the Temple. At the Ninth Hour: the troparion and kontakion of the 2nd saint.  
@@ -2158,18 +1804,12 @@ If there is also a service, one of the diverse services: the troparion of the da
 
 At **"Lord, I have cried"** (*Го́споди воззва́хъ*): stichera to 6; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** the Theotokion according to the Tone. At the Aposticha:
 
-[Book Page 119]
-
 stichera of the Octoechos, and the refrains of the Horologion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** the Theotokion.  
 After **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): the troparion of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the Dismissal Theotokion according to the Tone and day.  
 At Compline: the troparion of the Temple, and the rest as for a non-feasted saint.  
 ☞ *Note:* Thus is it sung from Sunday through Friday evening; only on Tuesday and Thursday evenings, in place of Theotokia we say Stavrotheotokia.  
 The Midnight Office is the Daily order as usual.  
 At Matins, for a Six-Stichera Saint we sing: at **"God is the Lord"** (*Бо́гъ Госпо́дь*), the troparion of the saint twice; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the Dismissal Theotokion on that day according to the tone of the troparion of the saint. Sessional Hymns of the Octoechos. Canons: both canons of the Octoechos without the Martyria, and of the saint to 6. Katavasia: the Heirmos of the canon of the saint after Odes 3, 6, 8, and 9. After Ode 3: the Sessional Hymn of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the Theotokion; if it be Wednesday or Friday, the Stavrotheotokion in the same place. After Ode 6: the Kontakion and Ikos of the saint. Exapostilarion of the Octoechos; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** the Theotokion, or his Stavrotheotokion. At the Praises (*Хвали́тны*): stichera of the saint to 4, if he have any; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the Theotokion. The Small Doxology. Aposticha of the Octoechos; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** the Theotokion according to the Tone on that day in the Octoechos [or Stavrotheotokion]. After **"It is good to give praise..."** (*Бла́го е́сть*): the troparion of the saint once; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the Dismissal Theotokion at the end of Matins. At the Hours: at the [First Hour]...
-
----
-
-[Book Page 120]
 
 At the First Hour: troparion and kontakion of the day; at the Third Hour: troparion and kontakion of the saint; at the Sixth Hour: troparion and kontakion of the Temple; at the Ninth Hour: troparion and kontakion of the saint.  
 At the Divine Liturgy: Troparion of the day, troparion of the saint (if he has an Epistle and Gospel), kontakion of the day; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** kontakion of the saint; **"Now and forever, and unto the ages of ages. Amen:"** kontakion according to the Tone of the Theotokos, or **"Steadfast Protectress of Christians..."** (*Застꙋ́пнице хрїстїа́нъ...*). Prokeimenon, Epistle, Gospel, and Communion Hymn of the day, and of the saint, if he has them.  
@@ -2178,14 +1818,8 @@ If there is also a service of a particular petition: we sing the troparion of th
 ### On a Saint Having a Polyeleos, if It Occur on Weekdays
 
 The Octoechos is omitted, and his office is sung from the Anthologion or the Menaion.[^133]  
-On Sunday evening and the other days of the week, we sing **"Blessed is the man"** (*Блаже́нъ мꙋ́жъ*). At **"Lord, I have cried"** (*Го́споди воззва́хъ*): stichera of the saint to 6; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** Dogmatikon according to the Tone of the sticheron of the saint. [If on Friday evening: **"Now and forever, and unto the ages of ages. Amen:"** the Dogmatikon of the outgoing week]. Entrance. Prokeimenon of the day, and 3 readings of the saint. At the Aposticha: stichera of the saint, with his refrains; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** Theotokion according to the Tone from the Sunday
-
-[Book Page 121]
-
-Aposticha. After **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): troparion of the saint once; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** Sunday Resurrection Theotokion. Great Dismissal. At Compline: kontakion of the saint only. The Midnight Office is celebrated with the customary troparia.  
+On Sunday evening and the other days of the week, we sing **"Blessed is the man"** (*Блаже́нъ мꙋ́жъ*). At **"Lord, I have cried"** (*Го́споди воззва́хъ*): stichera of the saint to 6; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** Dogmatikon according to the Tone of the sticheron of the saint. [If on Friday evening: **"Now and forever, and unto the ages of ages. Amen:"** the Dogmatikon of the outgoing week]. Entrance. Prokeimenon of the day, and 3 readings of the saint. At the Aposticha: stichera of the saint, with his refrains; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** Theotokion according to the Tone from the Sunday Aposticha. After **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): troparion of the saint once; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** Sunday Resurrection Theotokion. Great Dismissal. At Compline: kontakion of the saint only. The Midnight Office is celebrated with the customary troparia.
 At Matins: at **"God is the Lord"** (*Бо́гъ Госпо́дь*): troparion of the saint twice; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** Sunday Resurrection Theotokion. After the Kathismata: Sessional Hymns of the saint; then the Polyeleos, Megalynarion, and the Sessional Hymn following the Polyeleos; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** Theotokion in the same place. Graduals: Tone 4, 1st Antiphon (and its 3rd verse) with **"Glory..., Now and forever..."**. Prokeimenon, **"Let every breath"** (*Вся́кое дыха́нїе*), Gospel, and sticheron of the saint. Canon of the Theotokos [one of the two][^134] to 6, and of the commemorated saint to 8. Katavasia of the cycle after each ode. After Ode 3: Sessional Hymn of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** Theotokion in the same place. After Ode 6: kontakion and ikos of the saint. After Ode 9: exapostilarion of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** Theotokion in the same place. At the Praises (*Хвали́тны*): stichera of the saint to 4, with **"Glory..., Now and forever..."**, as in the Anthologion. The Great Doxology. After the Trisagion: troparion of the saint once; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** Sunday Resurrection Theotokion. Great Dismissal, and the First Hour. At the Hours: troparion and kontakion of the saint. At the Divine Liturgy: the Beatitudes from the canon of the saint, Odes 3 and 6 to 8. After the Entrance: troparion of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** his kontakion; **"Now and forever, and unto the ages of ages. Amen:"** **"Steadfast Protectress of Christians..."** (*Застꙋ́пнице хрїстїа́нъ...*)
-
-[Book Page 122]
 
 ...or the kontakion of the feast of the Theotokos according to the Tone of the Doxastikon. Prokeimenon, Epistle, Gospel of the day and of the saint. If Saturday: Prokeimenon, Epistle, Gospel, and Communion Hymn first of the saint, then of the day.  
 If there is also a service of a particular petition: troparion of the saint, troparion of the petition, kontakion of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** kontakion of the petition; **"Now and forever, and unto the ages of ages. Amen:"** as above. Prokeimenon, Epistle, and Gospel of the saint, of the day under one pericope, and of the petition.
@@ -2196,19 +1830,13 @@ The Octoechos is omitted, and everything is sung in order as in the Anthologion.
 At Little Vespers: stichera to 4; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** Theotokion. At the Aposticha: stichera and **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** Theotokion in the same place, or according to the Tone of the Octoechos for Little Vespers on Saturday. After **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): troparion of the saint; **"Now and forever, and unto the ages of ages. Amen:"** Sunday Resurrection Theotokion.  
 At Great Vespers: after **"Blessed is the man"** (*Блаже́нъ мꙋ́жъ*), at **"Lord, I have cried"** (*Го́споди воззва́хъ*): stichera of the saint to 8; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** Dogmatikon according to the Tone of the Doxastikon (If Saturday: **"Now and forever, and unto the ages of ages. Amen:"** Dogmatikon of the incoming tone). Prokeimenon of the day, and 3 readings of the saint. At the Litiya: sticheron of the Temple, and stichera of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** Sunday Resurrection Theotokion according to the Tone of the saint. At the Aposticha: stichera and **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** Theotokion in the same place, or seek in the Sunday Aposticha in the same Tone.
 
-[Book Page 123]
-
 At the Blessing of Loaves: troparion of the saint twice, and **"O Virgin Theotokos, rejoice..."** (*Богоро́дице Дѣ́во, ра́дꙋйсѧ...*) once. **"Blessed be the Name of the Lord"** (*Бꙋ́ди и҆́мѧ Госпо́дне*) 3 times, with chanting; Psalm 33: **"I will bless the Lord at all times"** (*Благословлю̀ Го́спода на вся́кое вре́мя*), down to: *they shall not want any good thing*.[^136] And we read from the Life of the saint.  
 At Matins: at **"God is the Lord"** (*Бо́гъ Госпо́дь*): troparion of the saint twice; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** Sunday Resurrection Theotokion according to the Tone. After the Kathismata and after the Polyeleos: Sessional Hymns of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** Theotokion. Graduals: Tone 4, 1st Antiphon; Prokeimenon, Gospel, and sticheron of the saint. Canon of the Theotokos with Heirmos to 6, and of the saint without Heirmos to 8.  
 ☞ If Saturday: canon of the Temple of Christ or of the Theotokos to 6, and of the saint to 8 [and the canon of the Theotokos in the Octoechos is omitted]. Katavasia of the cycle after each ode. At Ode 9: we sing **"More honorable than the Cherubim"** (*Честнѣ́йшꙋю*), and the rest all as for a Polyeleos saint.  
 At the Divine Liturgy: the Typika: **"Bless the Lord, O my soul"** (*Благословѝ, дꙋшѐ моѧ̀*), and the Beatitudes from the canon, Odes 3 and 6 to 8.  
 After the Entrance: troparion of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** kontakion of the saint; **"Now and forever, and unto the ages of ages. Amen:"** festal kontakion of the Theotokos according to Tone, or **"Steadfast Protectress of Christians"**. Prokeimenon, Epistle, Gospel, and Communion Hymn of the saint only.  
 * * *  
-At the Typika (Obidnytsia), if there is no Liturgy: kontakion of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the Temple of Christ or of the Theotokos. But if the Temple is of the saint: kontakion of the Temple,
-
-[Book Page 124]
-
-**"Glory to the Father, and to the Son, and to the Holy Spirit:"** kontakion of the saint; **"Now and forever, and unto the ages of ages. Amen:"** **"Steadfast Protectress of Christians"**.
+At the Typika (Obidnytsia), if there is no Liturgy: kontakion of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the Temple of Christ or of the Theotokos. But if the Temple is of the saint: kontakion of the Temple, **"Glory to the Father, and to the Son, and to the Holy Spirit:"** kontakion of the saint; **"Now and forever, and unto the ages of ages. Amen:"** **"Steadfast Protectress of Christians"**.
 
 ### If a Forefeast Occur on Weekdays with a Simple Saint, or if Two Saints Occur
 
@@ -2218,8 +1846,6 @@ At Compline: kontakion of the forefeast. The Midnight Office is celebrated with 
 At Matins: troparion of the forefeast twice; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** of the forefeast.  
 ☞ If two saints: troparion of the forefeast 1, and of the saint 1; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** troparion of the 2nd saint; **"Now and forever, and unto the ages of ages. Amen:"** of the forefeast. After the Kathismata: Sessional Hymns of the forefeast. Canon of the forefeast with Heirmos to 8, and of the saint to 4. [If two saints: canon of the forefeast to 6, and to both saints both canons to 8]. After Ode 3: kontakion of the saint, or of the saints, if two, and Sessional Hymn;
 
-[Book Page 125]
-
 **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the forefeast. After Ode 6: kontakion and ikos of the forefeast. After Ode 9: exapostilarion of the forefeast; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** of the forefeast.  
 At the Aposticha: stichera of the forefeast; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint, if there is one; **"Now and forever, and unto the ages of ages. Amen:"** of the forefeast. Small Doxology. After **"It is good to give praise"** (*Бла́го є҆́сть*): troparion of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the forefeast. If two saints: troparion of the 1st saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** troparion of the 2nd saint; **"Now and forever, and unto the ages of ages. Amen:"** of the forefeast.  
 At the First Hour: troparion of the forefeast, and kontakion.[^138] At the Third Hour: troparion of the forefeast; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; after **"Our Father..."**: kontakion of the saint. At the Sixth Hour: troparion and kontakion of the forefeast. At the Ninth Hour: as at the Third Hour. If two saints occur: we say the troparia at the Third and Sixth Hours, alternating them.  
@@ -2227,8 +1853,6 @@ At the Divine Liturgy: troparion of the forefeast; **"Glory to the Father, and t
 If there is also a service of a particular petition: troparion of the forefeast, troparion of the petition; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** kontakion of the petition; **"Now and forever, and unto the ages of ages. Amen:"** of the forefeast. Prokeimenon, Epistle, Gospel, and Communion Hymn of the day, and of the petition.  
 * * *  
 At the Typika (Obidnytsia), after **"Our Father..."**: kontakion of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the forefeast.
-
-[Book Page 126]
 
 ### If a Dominical Feast or Feast of the Theotokos Occur on Weekdays
 
@@ -2239,15 +1863,9 @@ And the entire service of the feast is sung according to the rubric of the Antho
 At Vespers, at **"Lord, I have cried"** (*Го́споди воззва́хъ*): stichera to 6: of the feast 3, and of the saint 3. If two saints: to both to 6; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint, if he has one; **"Now and forever, and unto the ages of ages. Amen:"** of the feast. At the Aposticha: stichera of the feast with its refrains; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint, if there is one; **"Now and forever, and unto the ages of ages. Amen:"** of the feast.  
 After **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): troparion of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the feast. ☞ If two saints: troparion of the first saint 1; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** troparion of the other; **"Now and forever, and unto the ages of ages. Amen:"** of the feast. At Compline: kontakion of the feast only. The Midnight Office is celebrated with the customary troparia.
 
-[Book Page 127]
-
 At Matins: at **"God is the Lord"** (*Бо́гъ Госпо́дь*): troparion of the feast twice; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** troparion of the feast. ☞ If two saints: troparion of the feast 1, troparion of the saint 1; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** troparion of the 2nd saint; **"Now and forever, and unto the ages of ages. Amen:"** troparion of the feast. After the Kathismata: Sessional Hymns of the feast. Canon of the feast with Heirmos to 8, and of the saint to 4. [Thus also on Saturday]. If two saints: canon of the feast to 6, and to both to 8. Katavasia after Odes 3, 6, 8, and 9: the Heirmos of the saint [if two: of the second saint].[^140]  
 After Ode 3: kontakion and ikos of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** his Sessional Hymn; **"Now and forever, and unto the ages of ages. Amen:"** Sessional Hymn of the feast. If two saints: kontakion and ikos of both, Sessional Hymn of the first saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the second; **"Now and forever, and unto the ages of ages. Amen:"** Sessional Hymn of the feast. After Ode 6: kontakion and ikos of the feast. At Ode 9: we sing **"More honorable than the Cherubim"** (*Честнѣ́йшꙋю*). Exapostilarion of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the feast. At the Aposticha: stichera of the feast with their refrains; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint, if there is one; **"Now and forever, and unto the ages of ages. Amen:"** of the feast. At the First Hour: troparion and kontakion of the feast. At the Third Hour: troparion of the feast; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** troparion of the saint, kontakion of the saint. At the Sixth Hour: troparion and kontakion of the feast. At the Ninth Hour: as at the Third Hour. If two saints: we say at the Third Hour the troparion of the feast and the troparion of the 1st saint; at the Sixth Hour [printed "д҃" for ѕ҃ / ѳ҃]: troparion of the feast; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** troparion of the 2nd saint.  
-At the Divine Liturgy: Beatitudes of the feast to 4, and of the saint to 4. [Some chant the festal Antiphons, if it is a Dominical Feast until the Apodosis, and in place of
-
-[Book Page 128]
-
-the Beatitudes, the 3rd daily Antiphon with the concluding refrain of the feast. But if it is the afterfeast of a feast of the Theotokos, they sing the daily troparia].[^141]  
+At the Divine Liturgy: Beatitudes of the feast to 4, and of the saint to 4. [Some chant the festal Antiphons, if it is a Dominical Feast until the Apodosis, and in place of the Beatitudes, the 3rd daily Antiphon with the concluding refrain of the feast. But if it is the afterfeast of a feast of the Theotokos, they sing the daily troparia].[^141]
 After the Entrance: Troparion of the feast; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** kontakion of the feast. Prokeimenon and Communion Hymn of the feast, Epistle and Gospel of the day. In place of **"It is truly meet"**: we sing the Heirmos of Ode 9 with the refrain of the feast.  
 If there is also a service from among the various [petitions]: troparion of the feast, troparion of the service of the petition; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** kontakion of the supplicatory service; **"Now and forever, and unto the ages of ages. Amen:"** kontakion of the feast. Epistle and Gospel of the day, and of the service of the petition.  
 At the Typika (Obidnytsia), after **"Our Father..."**: kontakion of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** kontakion of the feast.  
@@ -2256,8 +1874,6 @@ At the Typika (Obidnytsia), after **"Our Father..."**: kontakion of the saint; *
 ### If in an Afterfeast on Weekdays There Occur a Saint to Whom a Polyeleos Is Appointed
 
 At Vespers: we sing **"Blessed is the man"** (*Блаже́нъ мꙋ́жъ*). At **"Lord, I have cried"** (*Го́споди воззва́хъ*): we set 8 verses, that is: stichera of the feast 3, and of the saint 5; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** of the feast.[^142] Entrance, and three readings. At the Aposticha:
-
-[Book Page 129]
 
 stichera of the saint and his **"Glory to the Father, and to the Son, and to the Holy Spirit:"**; **"Now and forever, and unto the ages of ages. Amen:"** of the feast. After **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): troparion of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the feast. At Compline: kontakion of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the feast. The Midnight Office is celebrated with the customary troparia.  
 At Matins: after **"God is the Lord"** (*Бо́гъ Госпо́дь*): troparion of the feast twice; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** of the feast. After the Kathisma and after the Polyeleos: Sessional Hymns of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the feast. Graduals: Tone 4, 1st Antiphon. Prokeimenon, Gospel, and sticheron of the saint. Canon of the feast with Heirmos to 6, and of the saint to 8. Katavasia of the cycle after each ode.  
@@ -2268,8 +1884,6 @@ After Ode 9: exapostilarion of the feast; **"Glory to the Father, and to the Son
 At the Hours: troparion of the feast; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; alternating the kontakia of the feast and of the saint.  
 At the Divine Liturgy: Typika. Beatitudes of the feast the cycle ode to 4, and of the saint, Ode 6 to 4. After the Entrance: troparion of the feast, troparion of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** kontakion of the saint; **"Now and forever, and unto the ages of ages. Amen:"** kontakion of the feast. Prokeimenon of the feast and of the saint; Epistle and Gospel of the day, and of the saint. In place of **"It is truly meet"**: the Heirmos of the feast; Communion Hymn of the feast and of the saint.
 
-[Book Page 130]
-
 ☞ If there is a service for a particular petition: troparion of the feast, troparion of the saint, troparion of the petition, kontakion of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** kontakion of the petition; **"Now and forever, and unto the ages of ages. Amen:"** kontakion of the feast. Prokeimenon of the feast, of the saint, and of the petition; Epistle and Gospel of the saint, of the day under one pericope, and of the petition.
 
 ### On a Saint Having a Vigil in an Afterfeast on Weekdays
@@ -2278,22 +1892,14 @@ At Little Vespers, at **"Lord, I have cried"** (*Го́споди воззва́
 At Great Vespers, at **"Lord, I have cried"**: 8 verses are set, and stichera of the feast 3, and of the saint 5 are sung; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** of the feast. Entrance. Readings: 3, of the saint.  
 At the Litiya: sticheron of the feast [or of the Temple], and stichera of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** of the feast.  
 At the Aposticha: stichera of the saint, and his **"Glory to the Father, and to the Son, and to the Holy Spirit:"**; **"Now and forever, and unto the ages of ages. Amen:"** of the feast. At the Blessing of Loaves: troparion of the saint twice, and **"O Virgin Theotokos, rejoice..."** (*Богоро́дице Дѣ́во, ра́дꙋйсѧ...*) once.  
-At Matins: at **"God is the Lord"** (*Бо́гъ Госпо́дь*): troparion of the feast twice; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** of the feast. After the Kathismata: Sessional Hymns of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the feast. Polyeleos, Polyeleos Sessional Hymn. Gospel of the saint, and
-
-[Book Page 131]
-
-sticheron, and all the rest at Matins and at the Hours as for a Polyeleos saint.  
+At Matins: at **"God is the Lord"** (*Бо́гъ Госпо́дь*): troparion of the feast twice; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** of the feast. After the Kathismata: Sessional Hymns of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the feast. Polyeleos, Polyeleos Sessional Hymn. Gospel of the saint, and sticheron, and all the rest at Matins and at the Hours as for a Polyeleos saint.
 At the Divine Liturgy: Beatitudes of the feast Ode 3 to 4, and of the saint Ode 6 to 4. After the Entrance: troparion of the feast, troparion of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** kontakion of the saint; **"Now and forever, and unto the ages of ages. Amen:"** of the feast. Prokeimenon and Communion Hymn of the feast and of the saint, Epistle and Gospel of the saint. ☞ The Epistle and Gospel of the day are read beforehand on another day.  
 If the Temple of the holy man or woman occur outside of others (on weekdays), we sing the service in the Temple at Vespers, Matins, and Divine Liturgy as for a Vigil Saint on leaf 122. If in an Afterfeast: on leaf 130. And the Apodosis we sing in the evening for the honor of the Temple, as was directed on leaf 105.
 
 ### On the Apodosis of a Dominical Feast or Feast of the Theotokos on Weekdays
 
 The office of the saint occurring on this day is sung beforehand on the preceding day (only on the Apodosis of the Feast of the Entry of the Most Holy Theotokos is it sung together with the saint).[^144] We sing everything as on the feast itself, except: the Entrance, Readings, Polyeleos, and Matins Gospel.  
-At **"Lord, I have cried"** (*Го́споди воззва́хъ*): stichera of the feast to 6, sung on the feast itself; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the feast. If on Friday evening: **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the feast; **"Now and forever, and unto the ages of ages. Amen:"** Dogmatikon of the incoming Tone (except the Apodosis of the Nativity of Christ and Theophany). An Entrance does not take place. After the Prokeimenon, immediately: **"Vouchsafe, O Lord, to keep us this evening without sin"** (*Сподо́би, Го́споди, въ ве́черъ се́й*); **"Let us complete our evening prayer"** (*И҆спо́лнимъ вече́рнюю моли́тву на́шу*). At the Aposticha: stichera of the feast; **"Glory to the Father, and to the Son, and to the Holy Spirit,"**
-
-[Book Page 132]
-
-**"now and forever, and unto the ages of ages. Amen:"** of the feast. After **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): troparion of the feast once. Litany and Small Dismissal.  
+At **"Lord, I have cried"** (*Го́споди воззва́хъ*): stichera of the feast to 6, sung on the feast itself; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the feast. If on Friday evening: **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the feast; **"Now and forever, and unto the ages of ages. Amen:"** Dogmatikon of the incoming Tone (except the Apodosis of the Nativity of Christ and Theophany). An Entrance does not take place. After the Prokeimenon, immediately: **"Vouchsafe, O Lord, to keep us this evening without sin"** (*Сподо́би, Го́споди, въ ве́черъ се́й*); **"Let us complete our evening prayer"** (*И҆спо́лнимъ вече́рнюю моли́тву на́шу*). At the Aposticha: stichera of the feast; **"Glory to the Father, and to the Son, and to the Holy Spirit,"** **"now and forever, and unto the ages of ages. Amen:"** of the feast. After **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): troparion of the feast once. Litany and Small Dismissal.
 At Compline: kontakion of the feast.  
 The Midnight Office is sung with the customary daily troparia, and not of the feast. We also say the prayer: **"Remember, O Lord, in hope of the resurrection unto eternal life..."** (*Помянѝ, Го́споди, въ наде́ждѣ...*).[^145]  
 At Matins: at **"God is the Lord"** (*Бо́гъ Госпо́дь*): troparion of the feast twice; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the same. After the Kathismata: Sessional Hymns of the feast [the Polyeleos is not sung], Psalm 50, canons of the feast. The Heirmoi of both canons are sung (if two). Katavasia of the cycle after each ode. After Ode 3: Sessional Hymn of the feast twice. After Ode 6: kontakion and ikos of the feast. At Ode 9: we do not sing **"More honorable than the Cherubim"** (*Честнѣ́йшꙋю*), but we sing the refrain with the Heirmos of the feast. Then at the descent (Katavasia), the Heirmos with the refrain. After Ode 9: exapostilarion of the feast.  
@@ -2302,9 +1908,9 @@ At the Divine Liturgy: the Beatitudes of both canons, Ode 4 to 8. After the Entr
 
 ---
 
-# PART III: PROPER RUBRICS FOR FIXED FEASTS (Menaion Cycle)
+---
 
-[Book Page 133]
+# PART III: PROPER RUBRICS FOR FIXED FEASTS (Menaion Cycle)
 
 ### Month of September
 
@@ -2314,19 +1920,13 @@ The office of the Indiction and of the Venerable Symeon is sung according to the
 At Vespers: stichera of the Indiction 3, and of the Venerable Father 3; then there is an Entrance and 3 readings.  
 At Matins: after the Kathismata and Sessional Hymns, immediately Psalm 50 and the canons. [There is no Gospel]. The Great Doxology.  
 At the Divine Liturgy: the Beatitudes from the canon of the Indiction, Ode 3, and of the saint to 4. After the Entrance: troparion first of the Indiction, and of the Theotokos: **"Rejoice, full of grace, Virgin Theotokos..."** (*Ра́дꙋйся, благода́тная...*), and of the Venerable Father; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** kontakion of the saint; **"Now and forever, and unto the ages of ages. Amen:"** kontakion of the Indiction. If the Temple is of the Theotokos: **"Now and forever, and unto the ages of ages. Amen:"** of the Temple of the Theotokos. Prokeimenon, Epistle, and Gospel of the Indiction and of the Venerable Father. The daily Epistle and Gospel are read beforehand.  
-If the Temple is of St. Symeon: at Great Vespers, at **"Lord, I have cried"** (*Го́споди воззва́хъ*): stichera of the Indiction 3, and of the Temple of Symeon to 5 (if two stichera of the Venerable Father, we sing of him to 6); **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the Venerable Father; **"Now and forever, and unto the ages of ages. Amen:"** of the Indiction. Entrance, Prokeimenon of the day, and readings
-
-[Book Page 134]
-
-of the Indiction and of the Venerable Father.[^147]  
+If the Temple is of St. Symeon: at Great Vespers, at **"Lord, I have cried"** (*Го́споди воззва́хъ*): stichera of the Indiction 3, and of the Temple of Symeon to 5 (if two stichera of the Venerable Father, we sing of him to 6); **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the Venerable Father; **"Now and forever, and unto the ages of ages. Amen:"** of the Indiction. Entrance, Prokeimenon of the day, and readings of the Indiction and of the Venerable Father.[^147]
 At the Litiya: stichera of the Temple [those at the Aposticha]; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the Temple; **"Now and forever, and unto the ages of ages. Amen:"** Theotokion according to Tone.  
 At the Aposticha: stichera of the Indiction; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** of the Indiction.  
 At the Blessing of Loaves: troparion of the Temple twice, and **"O Virgin Theotokos, rejoice..."** (*Богоро́дице Дѣ́во, ра́дꙋйсѧ...*) once.  
 At Matins: at **"God is the Lord"** (*Бо́гъ Госпо́дь*): in order as in the Anthologion. Polyeleos and Sessional Hymn of the Temple; Graduals: Tone 4, 1st Antiphon. Gospel from Matthew, Pericope 43, and sticheron of the Temple. Canon of the Indiction for the New Year with Heirmos to 6, and of the Temple to 8. Katavasia: **"Having inscribed the Cross..."** (*Кре́стъ начерта́въ...*). At the Praises: stichera of the Indiction 4, and of the Temple 4, with his evening refrains. **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the Temple; **"Now and forever, and unto the ages of ages. Amen:"** of the Indiction.  
 At the Divine Liturgy: Beatitudes of the Indiction to 4, and of the Venerable Father Ode 6 to 4. After the Entrance: troparion of the Indiction and of the Temple; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the Temple; **"Now and forever, and unto the ages of ages. Amen:"** of the Indiction. Prokeimenon, Epistle, Gospel, and Communion Hymn of the Indiction and of the Temple.  
 ☞ It is necessary to know: if the first day of the month of September occur on a Sunday, the office of the holy women is omitted, and is sung when the Superior of the church decides. The Sunday Resurrection office is sung with the service of the New Year and of the Venerable Symeon according to the Typikon which you have in the Anthologion. And then we sing at the Divine Liturgy, after the Entrance: the Resurrection Troparion and of the Indiction, and of the saint; the Resurrection Kontakion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** of the Indiction. Prokeimenon, Epistle, Gospel first of the Indiction, then Sunday Resurrection under one pericope, then of the saint. Communion Hymn of the Indiction and of the saint.
-
-[Book Page 135]
 
 ☞ But if the Temple of St. Symeon the Stylite occur on a Sunday:  
 At Little Vespers, at **"Lord, I have cried"** (*Го́споди воззва́хъ*): Sunday Resurrection stichera 4; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the Temple, and the rest.  
@@ -2340,8 +1940,6 @@ At Matins: Prokeimenon and Gospel of the Temple; **"Having seen the Resurrection
 
 Office of the Forefeast and of the Saint in the customary manner.[^148]  
 ☞ But if the Forefeast of the Nativity of the Theotokos occur on a Sunday, at the Divine Liturgy after the Entrance: Resurrection Troparion and of the Forefeast; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** Resurrection Kontakion; **"Now and forever, and unto the ages of ages. Amen:"** of the Forefeast. Prokeimenon, Epistle, and Gospel: first of Sunday before the Exaltation [if applicable], then of the day/cycle...
-
-[Book Page 136]
 
 ### On the 8th Day: If the Feast of the Nativity of the Theotokos Occur on the Saturday before the Exaltation
 
@@ -2358,8 +1956,6 @@ Look: If the Apodosis of the Nativity of the Theotokos occur on the Saturday bef
 
 At the Divine Liturgy: Prokeimenon, Tone 6: **"Save, O Lord, Thy people, and bless Thine inheritance"** (*Спасѝ, Го́споди, лю́ди Твоя̑, и҆ благословѝ достоя́нїе Твоѐ*); Epistle and Gospel of Sunday before the Exaltation, then of the cycle. Communion Hymn of the day.
 
-[Book Page 137]
-
 ☞ If the Afterfeast of the Nativity of the Theotokos occur on a Sunday: it is sung according to the general Typikon on leaf 97. At the Divine Liturgy: Prokeimenon, Epistle, Alleluia, and Gospel first of Sunday before the Exaltation, then of the cycle under one pericope, and of the saint. The ordinary Prokeimenon of the cycle is omitted. Communion Hymn: **"Praise the Lord from the heavens"** (*Хвали́те Го́спода съ небе́съ*), and of the saint, if there is one.
 
 ### On the 13th Day: Commemoration of the Dedication of the Temple of the Holy Resurrection of Christ our God. And Forefeast of the Precious and Life-Giving Cross, and of the Holy Centurion Cornelius
@@ -2367,8 +1963,6 @@ At the Divine Liturgy: Prokeimenon, Tone 6: **"Save, O Lord, Thy people, and ble
 *(To celebrate the day of dedication, in the likeness of Solomon, throughout all the churches of the inhabited world, the Holy Fathers ordained, having gathered from all lands on this day for the consecration of the church built by Constantine and his mother Helen on the Mount of Golgotha in Jerusalem, which is the mother of all churches. We celebrate therefore giving thanks to Christ God, Who by His passion and resurrection renewed the whole creation, and cleansed from idolatrous defilements His holy Church).*[^150]  
 At Vespers: the customary Kathisma. At **"Lord, I have cried"** (*Го́споди воззва́хъ*): stichera to 6: of the Dedication 3, and of the saint 3; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the Dedication; **"Now and forever, and unto the ages of ages. Amen:"** of the forefeast. If on Friday evening: **"Now and forever, and unto the ages of ages. Amen:"** Dogmatikon. Entrance. Readings: 3, and all the rest in order of the Anthologion.  
 At the Divine Liturgy: After the Entrance: troparion of the Dedication, and of the Cross, and of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** kontakion of the saint; **"Now and forever, and unto the ages of ages. Amen:"**
-
-[Book Page 138]
 
 of the Dedication.[^151] Prokeimenon of the Dedication: Epistle pericope 337, and Gospel pericope 37; Communion Hymn of the Dedication; then the Matins Epistle and Gospel under one pericope, of the cycle.  
 ☞ Be it also known: If the Exaltation of the Precious Cross occur on a Sunday: on the Saturday before the Exaltation, at the Divine Liturgy: Prokeimenon and Alleluia of the Dedication only; but the Prokeimenon of Saturday before the Exaltation is omitted. Epistle and Gospel first of the Dedication, and then of Saturday before the Exaltation. Communion Hymn of the Dedication. But the daily Epistle and Gospel of the cycle are read beforehand on another day. On the Sunday before the Exaltation, the Epistle and Gospel are read on the outgoing Sunday.  
@@ -2379,32 +1973,16 @@ At the Divine Liturgy: Beatitudes: Sunday Resurrection to 6, and of the Dedicati
 
 At the time of Vespers [in the Forefeast], at the striking of the bell for Vespers, the Priest enters into the Skeuophylakion, and places the Precious Cross with fragrant basil upon the Prothesis (Table of Preparation). And Little Vespers is sung in the customary manner according to the order of the Anthologion. After the dismissal of Little Vespers, the Priest enters to the Table of Preparation with candles, vests in epitrachelion and phelonion, and having censed the Precious Cross, says: **"Blessed is our God always, now and forever, and unto the ages of ages:"** Then: the Trisagion; after **"Our Father..."**: Troparion of the Cross: **"Save, O Lord, Thy people, and bless Thine inheritance..."** (*Спасѝ, Го́споди, лю́ди Твоя̑...*); **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** Kontakion: **"He that was lifted up upon the Cross voluntarily..."** (*Вознесы́йся на Кре́стъ во́лею...*). And the Priest takes the Precious Cross upon his head, and carries It into the Holy Sanctuary, preceded by two candles. And he places the Precious Cross upon the Holy Table in the place of the Gospel, and sets the Gospel upon the High Place, and lights a candle before It for the whole night.[^152]
 
-[Book Page 139]
-
 ☞ Such an order of the bringing out of the Cross takes place likewise on the Third Sunday of Great Lent, and on the 1st day of August.  
 At Great Vespers at the Vigil: If Sunday occur, we sing **"Blessed is the man"** (*Блаже́нъ мꙋ́жъ*): the whole Kathisma. If another day, there is no Kathisma. At **"Lord, I have cried"** (*Го́споди воззва́хъ*): stichera to 8. Prokeimenon of the day. [If this feast occur on a Saturday, the Prokeimenon of the day is omitted, and there is sung the Great Prokeimenon, Tone 7: **"Our God is in heaven and on earth; He hath done whatsoever He pleased"** (*Бо́гъ на́шъ на небесѝ и҆ на землѝ, вся̑ є҆ли̑ка восхотѣ̀ сотворѝ*). Seeing that on Saturday evening the Prokeimenon is sung: **"The Lord is King, He is clothed with majesty"** (*Госпо́дь воцари́ся, въ лѣ́поту ся ѡ҆блече́*)]: and the rest according to the rubric of the Anthologion. At the Blessing of Loaves: troparion of the feast 3 times, and the rest.
 
----
-
-[Book Page 140]
-
 *At Matins, the Gospel from John, pericope 42 from the midpoint.*[^153]  
 **"Having beheld the Resurrection of Christ..."** (*Воскресе́нїе Хрїсто́во ви́дѣвше*); **"Glory to the Father, and to the Son, and to the Holy Spirit:"** **"Through the prayers of the Apostles..."** (*Моли́твами а҆по́столъ*); **"Now and forever, and unto the ages of ages. Amen:"** **"Through the prayers of the Theotokos, O Merciful One..."** (*Моли́твами Богоро́дицы, Ми́лостиве*); the sticheron, and the rest.  
-*During the singing of the Great Doxology, the Superior vests in all priestly vestments, and taking the censer with incense, comes to the Holy Table, and censes the Precious Cross crosswise, and takes It upon his head, and goes out by the North Door, preceded by two lamps (candles) as far as the Royal Doors, and standing there, awaits the end of the Doxology and of the Trisagion. When this is finished, the Superior proclaims in a loud voice:* **"Wisdom! Stand upright!"** (*Премꙋ́дрость, про́сти!*). *And the choir with those present begins the troparion:* **"Save, O Lord, Thy people..."** (*Спасѝ, Го́споди, лю́ди Твоя̑...*) *3 times. And the Superior, bearing the Precious Cross upon his head, comes into the midst of the church, directly opposite the Holy Royal Doors, to the tetrapod [table] prepared there, and places the Precious Cross upon it, and censes It from the four sides. Then he makes three prostrations to the earth, on whatever day it may be, and taking the Precious Cross with the fragrant basil entwined upon the foot of the Cross, he stands before the tetrapod, looking toward the east; and the deacon, if there be one, proclaims in a loud voice in the hearing of all:* **"Have mercy on us, O God, according to Thy great mercy, hear us..."** (*Поми́луй на́съ, Бо́же, по вели́цѣй ми́лости Твое́й, оу҆слы́ши...*), *as in the Anthologion. And the choir with those present begins the first hundred:* **"Lord, have mercy"** (*Го́споди, поми́луй*). *The Superior at the beginning signs with the Precious*
-
-[Book Page 141]
-
-*Cross three times. Then the Superior inclines his head, so that the head is about a span from the earth, and gradually is elevated upward until the completion of the second fifty,* **"Lord, have mercy"** (*Го́споди, поми́луй*). *And when it reaches ninety-seven,* **"Lord, have mercy"**, *the leader of the choir raises his voice; and the Superior standing upright awaits the end of the hundred [the hundredfold* **"Lord, have mercy"**], *and signs [blesses] with the Cross again 3 times. Thereafter he turns toward the west, and the deacon says:* **"Again we pray for the most holy universal Pontiff (name), and for our God-preserved Emperor, for his realm..."** *and the rest. And we begin the second hundred,* **"Lord, have mercy"**. *And the Superior makes the second elevation as was prescribed above. Then turning toward the south, the deacon says:* **"Again we pray for the remission of sins of our Most Reverend Metropolitan (name), and of our God-loving Bishop (name), and for all our brethren in Christ, for health, and for salvation, let us all say."** *And he begins the third hundred,* **"Lord, have mercy"**. *When that is finished, the Superior turns toward the north, and the deacon says:* **"Again we pray for every Christian soul, afflicted and distressed, and for health and salvation and remission of sins, let us all say."** *And the fourth elevation takes place. And the Superior, turning toward the east, blesses again; and the deacon says:* **"Again we pray for all who serve and have served in this holy church*
-
-[Book Page 142]
-
-*(or in this holy monastery), our fathers and brethren, for health and for salvation, and for the remission of their sins, let us all say."* *And we begin the fifth hundred.*[^154]  
+*During the singing of the Great Doxology, the Superior vests in all priestly vestments, and taking the censer with incense, comes to the Holy Table, and censes the Precious Cross crosswise, and takes It upon his head, and goes out by the North Door, preceded by two lamps (candles) as far as the Royal Doors, and standing there, awaits the end of the Doxology and of the Trisagion. When this is finished, the Superior proclaims in a loud voice:* **"Wisdom! Stand upright!"** (*Премꙋ́дрость, про́сти!*). *And the choir with those present begins the troparion:* **"Save, O Lord, Thy people..."** (*Спасѝ, Го́споди, лю́ди Твоя̑...*) *3 times. And the Superior, bearing the Precious Cross upon his head, comes into the midst of the church, directly opposite the Holy Royal Doors, to the tetrapod [table] prepared there, and places the Precious Cross upon it, and censes It from the four sides. Then he makes three prostrations to the earth, on whatever day it may be, and taking the Precious Cross with the fragrant basil entwined upon the foot of the Cross, he stands before the tetrapod, looking toward the east; and the deacon, if there be one, proclaims in a loud voice in the hearing of all:* **"Have mercy on us, O God, according to Thy great mercy, hear us..."** (*Поми́луй на́съ, Бо́же, по вели́цѣй ми́лости Твое́й, оу҆слы́ши...*), *as in the Anthologion. And the choir with those present begins the first hundred:* **"Lord, have mercy"** (*Го́споди, поми́луй*). *The Superior at the beginning signs with the Precious Cross three times. Then the Superior inclines his head, so that the head is about a span from the earth, and gradually is elevated upward until the completion of the second fifty,* **"Lord, have mercy"** (*Го́споди, поми́луй*). *And when it reaches ninety-seven,* **"Lord, have mercy"**, *the leader of the choir raises his voice; and the Superior standing upright awaits the end of the hundred [the hundredfold* **"Lord, have mercy"**], *and signs [blesses] with the Cross again 3 times. Thereafter he turns toward the west, and the deacon says:* **"Again we pray for the most holy universal Pontiff (name), and for our God-preserved Emperor, for his realm..."** *and the rest. And we begin the second hundred,* **"Lord, have mercy"**. *And the Superior makes the second elevation as was prescribed above. Then turning toward the south, the deacon says:* **"Again we pray for the remission of sins of our Most Reverend Metropolitan (name), and of our God-loving Bishop (name), and for all our brethren in Christ, for health, and for salvation, let us all say."** *And he begins the third hundred,* **"Lord, have mercy"**. *When that is finished, the Superior turns toward the north, and the deacon says:* **"Again we pray for every Christian soul, afflicted and distressed, and for health and salvation and remission of sins, let us all say."** *And the fourth elevation takes place. And the Superior, turning toward the east, blesses again; and the deacon says:* **"Again we pray for all who serve and have served in this holy church (or in this holy monastery), our fathers and brethren, for health and for salvation, and for the remission of their sins, let us all say."* *And we begin the fifth hundred.*[^154]
 *After the fifth elevation, we sing:* **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** *kontakion:* **"He that was lifted up upon the Cross voluntarily..."** (*Вознесы́йся на Кре́стъ во́лею...*). *While this is sung, the Superior places the precious Wood of the Cross upon the tetrapod, and sings this troparion in Tone 6:*  
 **"To Thy Cross we bow down in worship, O Master, and Thy holy Resurrection we glorify"** (*Крестꙋ̀ Твоему̀ покланя́емся, Влады́ко, и҆ свято́е воскресе́нїе Твоѐ сла́вимъ*) *3 times. The brethren also singing the same troparion, the Superior begins to venerate, making 2 metanias before the Precious Cross, and then kisses It. After the kissing, he makes again one metania, and likewise to both choirs one metania each. Thereafter all the brethren come two by two, and likewise the people present, in order bow down and kiss the Precious Cross. And we sing the idiomela stichera until the veneration is completed. The Stichera of the Cross, Tone 2:* **"Come, O believers..."** (*Прїиди́те, вѣ́рнїи...*).  
 *After the conclusion of the veneration of the Precious Cross, the tetrapod with the Precious Cross is set on the right side of the Royal Doors, and there it stands until the feast is given its Apodosis.*[^155]  
 *Thereafter the priest enters into the holy Sanctuary; and the deacon says the ectene:* **"Have mercy on us, O God..."** (*Поми́луй на́съ, Бо́же...*). *Thereafter:* **"Let us complete our morning prayer..."** (*И҆спо́лнимъ оу҆́треннюю моли́тву на́шу...*). *And the Great Dismissal. The First Hour: at the First Hour, troparion of the feast; and after the Trisagion, kontakion of the feast.*
-
-[Book Page 143]
 
 *At the Divine Liturgy: the Antiphons of the feast. Instead of the Trisagion:* **"To Thy Cross we bow down in worship, O Master, and Thy holy Resurrection we glorify."** *In the refectory, we eat with oil. But cheese and eggs we dare by no means to touch, but we fast completely.*[^156]  
 *If this feast occur on a Sunday, nothing of the Sunday Resurrection is sung (only* **"Having beheld the Resurrection of Christ"** *we say); but the entire service is of the feast.*
@@ -2413,8 +1991,6 @@ At Great Vespers at the Vigil: If Sunday occur, we sing **"Blessed is the man"**
 
 *In the evening we do not say a Kathisma, on account of the labor of the Vigil. At* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *stichera to 6: of the Cross 3, and of the saint 3; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the saint; "Now and forever, and unto the ages of ages. Amen:" of the feast. Entrance. Great Prokeimenon, Tone 7:* **"Our God is in heaven and on earth; He hath done whatsoever He pleased"** (*Бо́гъ на́шъ на небесѝ и҆ на землѝ, вся̑ є҆ли̑ка восхотѣ̀ сотворѝ*), *and its verses. Thereafter the ectene:* **"Let us all say..."** (*Рце́мъ всѝ...*); *and* **"Vouchsafe, O Lord..."** (*Сподо́би, Го́споди...*); *and* **"Let us complete our evening prayer..."** (*И҆спо́лнимъ вече́рнюю моли́тву на́шу...*). [*Thus it is fitting to sing on all Dominical feasts in the evening, on which there is an Entrance and the Great Prokeimenon]. Then at the Aposticha: stichera of the feast, with its refrains; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the saint; "Now and forever, and unto the ages of ages. Amen:" of the Cross; Tone of the Prophet. After* **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): *troparion of the saint; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:" of the feast. Great Dismissal.*  
 *Matins takes place according to the general Typikon: see if the saint occurs within the feast [in the Afterfeast]. At the Divine Liturgy: Beatitudes of the feast, Ode 3 to 4, and of the saint, Ode 6 to 4. After the Entrance:* **"Save us, O Son of God, Who wast crucified in the flesh, who sing to Thee: Alleluia."** [*Thus we sing until the Apodosis*].[^157]
-
-[Book Page 144]
 
 *Troparion of the feast, troparion of the saint; "Glory to the Father, and to the Son, and to the Holy Spirit:" kontakion of the saint; "Now and forever, and unto the ages of ages. Amen:" of the feast. Prokeimenon of the feast and of the saint. Epistle and Gospel of the day, and of the saint.*
 
@@ -2431,8 +2007,6 @@ At Great Vespers at the Vigil: If Sunday occur, we sing **"Blessed is the man"**
 
 *At Vespers: the customary Kathisma. At* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *stichera of the feast to 6, sung as on the feast itself, and the rest according to the general Typikon. At the Divine Liturgy: Beatitudes from the canon, Ode 4 to 8. After the Entrance: troparion of the feast; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:" kontakion of the feast. The Trisagion. (* **"To Thy Cross"** *we do not sing). Prokeimenon of the feast; Epistle and Gospel of the day.*
 
-[Book Page 145]
-
 ☞ *After the dismissal of the Divine Liturgy: the priest goes forth with the censer, the deacon with a candle, and censes the Precious Cross; and veneration having been made to the Precious Cross, the priest takes up the Precious Cross upon his head, and carries It into the holy Sanctuary, and censes It crosswise. And thus the feast of the Precious Cross is given its Apodosis. The office of the holy Apostle is sung on the 20th day.*[^159]  
 ☞ *If the Apodosis of the feast of the Precious Cross occur on a Sunday: at the Divine Liturgy, Prokeimenon of the day and of the feast; Epistle and Gospel of the Sunday after the Exaltation, and of the day. Alleluia and Communion Hymn of the feast and of the day.*  
 *Look: Be it known: That after the Apodosis of the feast of the Precious Cross, from the 22nd day of the month of September, we begin to recite the Psalter at Matins by 3 Kathismata, if there is no Polyeleos for the saint, on all days until the 20th day of the month of December; on Sundays at Matins by 2 Kathismata, and we add also the Polyeleos on all Sundays until the 20th of December, and the Bulgarian refrains.*[^160]
@@ -2443,15 +2017,9 @@ At Great Vespers at the Vigil: If Sunday occur, we sing **"Blessed is the man"**
 
 *We sing everything in order, as in the Anthologion.*  
 ☞ *If the Temple be of the Protection of the Theotokos, on whatever day it occur, except Sunday: we sing the entire office of the Protection, as on another feast of the Theotokos; but the office of the saints we sing on another day.*  
-*If the feast of the Most Holy Theotokos,*
-
-[Book Page 146]
-
-*of her Precious Protection, and of the holy Apostle Ananias occur on a Sunday:*[^161]  
+*If the feast of the Most Holy Theotokos, of her Precious Protection, and of the holy Apostle Ananias occur on a Sunday:*[^161]
 *At Great Vespers, at* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *Sunday Resurrection stichera 3, and Anatolian 1, and of the Protection 3, and of the Apostle Ananias 3; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Protection; "Now and forever, and unto the ages of ages. Amen:" Dogmatikon of the 1st Tone. Readings: 3. At the Aposticha: Sunday Resurrection stichera; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Apostle; "Now and forever, and unto the ages of ages. Amen:" of the Protection. At the Blessing of Loaves: troparion of the Protection 3 times. But if there be no Vigil, we say the Sunday Resurrection troparion; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Apostle; "Now and forever, and unto the ages of ages. Amen:" of the Protection. At Matins: Sunday Resurrection troparion twice; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Apostle; "Now and forever, and unto the ages of ages. Amen:" of the Protection. After the Kathismata: Sunday Resurrection Sessional Hymns with their Theotokia. Then the Polyeleos. Sessional Hymns of the Protection. Graduals and Prokeimenon of the Tone; Sunday Resurrection Gospel, and the rest. Canon: Sunday Resurrection to 4, of the Protection to 6, and of the Apostle to 4. After Ode 3: kontakion and ikos of the Protection, and of the Apostle, and Sessional Hymn of the Apostle; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:" of the Protection. After Ode 6: Sunday Resurrection kontakion and ikos. At the Praises (*Хвали́тны*): Sunday Resurrection stichera 4, and of the Protection 3, and the idiomelon which is at "Glory" 1, with the evening refrains; "Glory to the Father, and to the Son, and to the Holy Spirit:" the Gospel sticheron; "Now and forever, and unto the ages of ages. Amen:"* **"Most blessed art thou..."** (*Преблагослове́нна є҆сѝ...*). *After the Entrance [at the Divine Liturgy]: troparion Sunday Resurrection, and of the Protection, and of the Apostle; Sunday Resurrection kontakion; "Glory to the Father, and to the Son, and to the Holy Spirit:" kontakion of the Apostle; "Now and forever, and unto the ages of ages. Amen:" of the Protection. Prokeimenon, Epistle, and Gospel first of Sunday, and then of the Theotokos. But the office of the Venerable Romanus is omitted.*  
 ☞ *If the Temple be of the Protection of the Most Holy Theotokos on a Sunday: we sing the service in the evening, at Matins, and at the Divine Liturgy in all respects similarly, as on all feasts of the Theotokos on Sunday: see leaf 94. Gospel at Matins: of the feast. But the office of the Apostle Ananias and of Romanus is sung on another day.*
-
-[Book Page 147]
 
 ### On the 11th Day: Sunday of the Holy Fathers
 
@@ -2464,13 +2032,9 @@ At Great Vespers at the Vigil: If Sunday occur, we sing **"Blessed is the man"**
 ☞ *If the holy Great-Martyr occur on a Sunday: on Saturday at Little Vespers: Sunday Resurrection stichera and of the Theotokos according to custom. At Great Vespers, at* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *Sunday Resurrection stichera 3, and of the Earthquake 3 (written at Great Vespers at the Aposticha), of Demetrius 4; "Glory to the Father, and to the Son, and to the Holy Spirit:" of Demetrius; "Now and forever, and unto the ages of ages. Amen:" Dogmatikon of the 1st Tone.*  
 *At the Litiya: sticheron of the Temple, and stichera of the saint; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the saint; "Now and forever, and unto the ages of ages. Amen:" Theotokion. At the Aposticha:*
 
-[Book Page 148]
-
 *Sunday Resurrection stichera; "Glory to the Father, and to the Son, and to the Holy Spirit:" of Demetrius; "Now and forever, and unto the ages of ages. Amen:" Theotokion according to the Tone of the saint. At the Blessing of Loaves: troparion* **"O Virgin Theotokos, rejoice..."** *twice, and of Demetrius once.*  
 *Look: If there be no Vigil, after* **"Our Father"**: *Sunday Resurrection troparion; "Glory to the Father, and to the Son, and to the Holy Spirit:" of Demetrius; "Now and forever, and unto the ages of ages. Amen:" of the Earthquake.*  
 *At Matins: at* **"God is the Lord"** (*Бо́гъ Госпо́дь*): *Sunday Resurrection troparion twice; "Glory to the Father, and to the Son, and to the Holy Spirit:" of Demetrius; "Now and forever, and unto the ages of ages. Amen:" of the Earthquake. After the Kathismata: Sunday Resurrection Sessional Hymns and their Theotokia. Then the Polyeleos; and both Sessional Hymns of Demetrius to 4 without Theotokia; "Glory to the Father, and to the Son, and to the Holy Spirit:" Sessional Hymn after the Polyeleos; "Now and forever, and unto the ages of ages. Amen:" its Theotokion. Graduals and Prokeimenon of the Tone; Sunday Resurrection Gospel;* **"Having beheld the Resurrection of Christ"**; *Psalm 50; Sunday Resurrection sticheron. Canon: Sunday Resurrection with Heirmos to 4, of the Earthquake to 4, and of Demetrius to 6. Katavasia:* **"I will open my mouth"** (*Ѡ҆́тверзꙋ оу҆ста̀ моя̀*). *After Ode 3: kontakion of Demetrius and ikos. After Ode 6: Sunday Resurrection kontakion and ikos, and the rest. At the Praises (*Хвали́тны*): Sunday Resurrection stichera 4, and of Demetrius prosomoia 3, and the doxastikon idiomelon 1, with his refrains; "Glory to the Father, and to the Son, and to the Holy Spirit:" the Gospel sticheron; "Now and forever, and unto the ages of ages. Amen:"* **"Most blessed art thou..."** (*Преблагослове́нна є҆сѝ...*). *Great Doxology. After the Trisagion: Sunday Resurrection troparion only. Ectenes, and Dismissal, and the First Hour. At the First Hour: Sunday Resurrection troparion; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Earthquake; "Now and forever, and unto the ages of ages. Amen:" Theotokion of the Hours. After* **"Our Father"**: *kontakion of the Earthquake. At the Third Hour: Sunday Resurrection troparion; "Glory to the Father, and to the Son, and to the Holy Spirit:" of Demetrius; "Now and forever, and unto the ages of ages. Amen:" Theotokion of the Hours. After* **"Our Father"**: *kontakion of Demetrius. In this manner also at the other Hours we say the troparia and kontakia, alternating them; only the Sunday Resurrection troparion without change.*[^163]
-
-[Book Page 149]
 
 *At the Divine Liturgy: Beatitudes of the Tone to 4, of the Earthquake Ode 3 to 4, and of Demetrius Ode 6 to 4. After the Entrance: Sunday Resurrection troparion, and of the Earthquake, and of Demetrius. Then Sunday Resurrection kontakion and of the Earthquake; "Glory to the Father, and to the Son, and to the Holy Spirit:" of Demetrius; "Now and forever, and unto the ages of ages. Amen:" of the Theotokos. Prokeimenon of the Earthquake and of the saint. Epistle and Gospel of the Earthquake, and of the cycle under one pericope, and of Demetrius. Communion Hymn:* **"Praise the Lord from the heavens"** (*Хвали́те Го́спода съ небе́съ*), *and of the saint.*  
 ☞ *Thus it is sung even if the Temple be of Saint Demetrius on a Sunday, only at Matins Prokeimenon and Gospel of the Temple, sticheron of the Temple, and after Ode 6 kontakion and ikos of the Temple. In the evening takes place the Apodosis of the Temple.*
@@ -2481,8 +2045,6 @@ At Great Vespers at the Vigil: If Sunday occur, we sing **"Blessed is the man"**
 
 *Be it known: That we always observe Meatfare on the 14th day, on the commemoration of the holy Apostle Philip, without change, except for the two days of Wednesday and Friday; and on the 15th we begin the Fast before the Nativity of Christ.*[^164]  
 *If Wednesday or Friday occur on the 14th day, on the commemoration of the holy Apostle Philip, then we observe Meatfare on the 13th day, on the commemoration of Saint John Chrysostom; but on Wednesday or on Friday we dare by no means to make Meatfare, for it is forbidden by the holy Canons.*
-
-[Book Page 150]
 
 ## The Month of December
 
@@ -2495,11 +2057,7 @@ At Great Vespers at the Vigil: If Sunday occur, we sing **"Blessed is the man"**
 *If the Nativity of Christ occur on a Wednesday, then the Sunday of the Forefathers takes place on the 15th day of December, and the Sunday of the Holy Fathers on the 22nd day of December.*  
 *If the Nativity of Christ occur on a Thursday, then the Sunday of the Forefathers takes place on the 14th day of December, and the Sunday of the Holy Fathers on the 21st day.*  
 *If the Nativity of Christ occur on a Friday, the Sunday of the Forefathers takes place on the 13th day of December, and the Sunday of the Holy Fathers on the 20th day.*  
-*If the Nativity of Christ occur on a Saturday, then the Sunday of the Forefathers takes place on December*
-
-[Book Page 151]
-
-*the 12th day, and the Sunday of the Holy Fathers on December the 19th day.*  
+*If the Nativity of Christ occur on a Saturday, then the Sunday of the Forefathers takes place on December the 12th day, and the Sunday of the Holy Fathers on December the 19th day.*
 *Look: On the Sunday of the Forefathers, whether it occur before the 28th Sunday or afterwards, read at the Divine Liturgy the Gospel which is written for the 28th Sunday, from Luke, pericope 76:* **"A certain man made a great supper..."** (*Человѣ́къ нѣ́кїй сотворѝ ве́черю ве́лїю...*), *invariably alone. And on the 28th Sunday read the ordinary pericope of the other Sunday in which it occurs, or of the Forefathers.*[^166]
 
 ### Notice 1
@@ -2507,16 +2065,12 @@ At Great Vespers at the Vigil: If Sunday occur, we sing **"Blessed is the man"**
 *Concerning the festal Sundays occurring here, that is: concerning the Sunday of the Forefathers, the Sunday of the Fathers before the Nativity of Christ, concerning the Sunday after the Nativity, before and after Theophany, it is necessary to know: that if in any year the Sunday of the Publican occur earlier, and the ordinary Sundays before the Sunday of the Forefathers remain unfulfilled, then it is not fitting to omit them; but after the Epistles and Gospels of the aforesaid festal Sundays, read also the ordinary ones, lest they remain unread.*[^167]  
 *If ever the Sunday of the Publican and the Pharisee be far removed from the Sunday after Theophany, then these ordinary Sundays are omitted here, and after the Sunday which is after Theophany they are resumed. These Sundays are omitted where there is a deferral [otstupka] for the Sundays, that is: a Paschal letter indicating which Sunday is to be taken after the 4th Sunday after Theophany. Such deferrals are found around the 24th Sunday after the Descent [of the Holy Spirit]: see in the Sluzhebniks.*
 
-[Book Page 152]
-
 ### Notice 2
 
 *Concerning the Sundays, that is, the liturgical Epistles and Gospels, which must sometimes be repeated after the Sunday after Theophany.*[^168]  
 *If in any year the Sunday of the Publican and the Pharisee is not soon after the 1st Sunday after Theophany, and there are not enough ordinary Epistles and Gospels for reading for several weeks: then it is fitting to look in the Paschalion, or in the Sluzhebnik according to the Paschal Keys, arranged for this reason in the Menologion from the 14th of January until the 14th of February, on what date of the month the Triodion begins (that is, the Sunday of the Publican); and beginning from the 31st Sunday [for the 32nd Sunday is not repeated, but is always read before the Sunday of the Publican] count backward, and borrow as many Sundays with their weeks as is necessary to fill this deficiency.*  
 ☞ *But this must not be understood concerning the Tones and Matins Gospels: for the Tones and Matins Gospels follow invariably in their own order until the 5th Sunday of Lent. For the Tones and Matins Gospels thou hast six pillars in the Octoechos or in the Horologion; likewise also at the end of this book.*[^169]  
 *Look: One pillar embraces 8 Tones. The first pillar begins on the 2nd Sunday after the Descent of the Holy Spirit.*
-
-[Book Page 153]
 
 ### Directive for Easier Knowledge of Which Ordinary Sunday after the Descent of the Holy Spirit Must Be Resumed after the 1st Sunday after Theophany
 
@@ -2527,8 +2081,6 @@ At Great Vespers at the Vigil: If Sunday occur, we sing **"Blessed is the man"**
 | K, L, M, N, O, P, Q [Ѳ҃. К҃. Л҃. М҃. Н҃. О҃. П҃.] | April 1, 2, 3, 4, 5, 6, and 7 | Immediately the Sunday of Zacchaeus, then the Publican's. |
 | R, S, T, U, V, W, X [Р҃. С҃. Т҃. Ѹ҃. Ф҃. Х҃. Ѿ҃.] | April 8, 9, 10, 11, 12, 13, 14 | The 31st Sunday after the Descent. |
 
-[Book Page 154]
-
 *(Table continued)*
 
 | If the Boundary Key Be | The Day of Pascha | After the 1st Sunday after Theophany, the Sunday after the Descent Is Resumed |
@@ -2538,11 +2090,7 @@ At Great Vespers at the Vigil: If Sunday occur, we sing **"Blessed is the man"**
 
 ### On the 17th Day: The Holy Prophet Daniel, and the Holy Three Children
 
-*It is necessary to know: That if the holy Three Children and the Prophet Daniel occur on the Sunday of the Forefathers, we sing at Great Vespers, at* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *Sunday Resurrection stichera 3, and of the Forefathers 3, and of the Prophet Daniel 2, and of the Children 2; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Forefathers; "Now and forever, and unto the ages of ages. Amen:" Dogmatikon of the 1st Tone, and the rest. At the Aposticha: Sunday Resurrection stichera; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Forefathers; "Now and forever, and unto the ages of ages. Amen:" of the Prophet:* **"Daniel, a man of desires..."** (*Данїи́лъ, мꙋ́жъ жела́нїй...*). *After* **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): *Sunday Resurrection troparion; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Children; "Now and forever, and unto the ages of ages. Amen:" of the Forefathers. At Compline: kontakion of the Forefathers. At Matins: at* **"God is the Lord"** (*Бо́гъ Госпо́дь*): *Sunday Resurrection troparion twice; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Children; "Now and forever, and unto the ages of ages. Amen:" of the Forefathers; and the rest of the Resurrection. Canon: Sunday Resurrection to 4; of the Prophet and of the Children, both canons to 6, and of the Forefathers to 4. After Ode 3: kontakion and ikos*
-
-[Book Page 155]
-
-*of the Forefathers. At the Praises (*Хвали́тны*): Sunday Resurrection stichera 4, and of the Forefathers to 4 with their refrains; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Forefathers; "Now and forever, and unto the ages of ages. Amen:"* **"Most blessed art thou..."** (*Преблагослове́нна є҆сѝ...*). *At the Divine Liturgy: after the Entrance: Sunday Resurrection troparion, then of the saints; "Glory to the Father, and to the Son, and to the Holy Spirit:" kontakion of the saints; "Now and forever, and unto the ages of ages. Amen:" of the Forefathers. But if the Temple be of the Theotokos: "Now and forever, and unto the ages of ages. Amen:" of the Temple. Prokeimenon of the Tone, and the second, the Hymn of the Fathers. Epistle and Gospel of the cycle of the Sunday and of the saints under one pericope, and of the Forefathers. If there be a deferral, the Epistle and Gospel of the Forefathers and of the saints: the cycle is omitted. Communion Hymn:* **"Praise the Lord from the heavens"** (*Хвали́те Го́спода съ небе́съ*); *the second:* **"Rejoice in the Lord, O ye righteous"** (*Ра́дꙋйтеся, пра́веднїи*).
+*It is necessary to know: That if the holy Three Children and the Prophet Daniel occur on the Sunday of the Forefathers, we sing at Great Vespers, at* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *Sunday Resurrection stichera 3, and of the Forefathers 3, and of the Prophet Daniel 2, and of the Children 2; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Forefathers; "Now and forever, and unto the ages of ages. Amen:" Dogmatikon of the 1st Tone, and the rest. At the Aposticha: Sunday Resurrection stichera; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Forefathers; "Now and forever, and unto the ages of ages. Amen:" of the Prophet:* **"Daniel, a man of desires..."** (*Данїи́лъ, мꙋ́жъ жела́нїй...*). *After* **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): *Sunday Resurrection troparion; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Children; "Now and forever, and unto the ages of ages. Amen:" of the Forefathers. At Compline: kontakion of the Forefathers. At Matins: at* **"God is the Lord"** (*Бо́гъ Госпо́дь*): *Sunday Resurrection troparion twice; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Children; "Now and forever, and unto the ages of ages. Amen:" of the Forefathers; and the rest of the Resurrection. Canon: Sunday Resurrection to 4; of the Prophet and of the Children, both canons to 6, and of the Forefathers to 4. After Ode 3: kontakion and ikos of the Forefathers. At the Praises (*Хвали́тны*): Sunday Resurrection stichera 4, and of the Forefathers to 4 with their refrains; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Forefathers; "Now and forever, and unto the ages of ages. Amen:"* **"Most blessed art thou..."** (*Преблагослове́нна є҆сѝ...*). *At the Divine Liturgy: after the Entrance: Sunday Resurrection troparion, then of the saints; "Glory to the Father, and to the Son, and to the Holy Spirit:" kontakion of the saints; "Now and forever, and unto the ages of ages. Amen:" of the Forefathers. But if the Temple be of the Theotokos: "Now and forever, and unto the ages of ages. Amen:" of the Temple. Prokeimenon of the Tone, and the second, the Hymn of the Fathers. Epistle and Gospel of the cycle of the Sunday and of the saints under one pericope, and of the Forefathers. If there be a deferral, the Epistle and Gospel of the Forefathers and of the saints: the cycle is omitted. Communion Hymn:* **"Praise the Lord from the heavens"** (*Хвали́те Го́спода съ небе́съ*); *the second:* **"Rejoice in the Lord, O ye righteous"** (*Ра́дꙋйтеся, пра́веднїи*).
 
 ### Saturday before the Nativity of Christ
 
@@ -2552,8 +2100,6 @@ At Great Vespers at the Vigil: If Sunday occur, we sing **"Blessed is the man"**
 
 *It is necessary to know: If it occur outside the 20th of December of this month: that is, on the 18th or the 19th day: the Sunday Resurrection service is sung, and of the Holy Fathers, thus: at* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *Sunday Resurrection stichera 3, and Anatolian 2, and of the Holy Fathers 4; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Fathers; "Now and forever, and unto the ages of ages. Amen:" Dogmatikon. For the rest see the Anthologion. At the Divine Liturgy: after the Entrance: Sunday Resurrection troparion and of the Fathers; "Glory to the Father, and to the Son, and to the Holy Spirit:" kontakion of the Fathers; "Now and forever, and unto the ages of ages. Amen:" of the Theotokos of the Temple. But if the Temple be not of the Theotokos: "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:" kontakion of the Fathers. Prokeimenon of the Tone, and the Hymn of the Fathers:* **"Blessed art Thou, O Lord God of our Fathers..."** (*Благослове́нъ є҆сѝ, Го́споди Бо́же ѻ҆тє́цъ на́шихъ...*);
 
-[Book Page 156]
-
 *Epistle and Gospel first of the Fathers; thereafter of the cycle, if there be no deferral. Communion Hymn:* **"Praise the Lord from the heavens"** (*Хвали́те Го́спода съ небе́съ*); *and the second:* **"Rejoice in the Lord, O ye righteous"** (*Ра́дꙋйтеся, пра́веднїи*).
 
 ### On the 20th Day: Forefeast of the Nativity of our Lord, God, and Savior Jesus Christ
@@ -2561,69 +2107,37 @@ At Great Vespers at the Vigil: If Sunday occur, we sing **"Blessed is the man"**
 *Look: If the Forefeast of the Nativity of Christ occur on a Saturday: on Friday evening at* **"Lord, I have cried"** (*Го́споди воззва́хъ*), *at "Now and forever, and unto the ages of ages. Amen:", the Dogmatikon of the outgoing Tone is not sung, but of the Forefeast. Likewise also in the Forefeast of the Holy Theophanies.*[^171]  
 ☞ *Be this also known: That from the twentieth day of December, on which the Forefeast begins, until the 14th of January, until the feast of the Holy Theophanies is given its Apodosis, the Octoechos is not sung: except on Sundays alone, on which the Sunday Resurrection office is sung. But the Polyeleos we do not sing, except for a Great Saint.*  
 ☞ *If the Sunday of the Holy Fathers occur in the Forefeast, within the 20th day, that is: on the 20th, 21st, 22nd, and 23rd day, thou hast the directive in the Anthologion. In addition to this, after* **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): *Sunday Resurrection troparion; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Fathers; "Now and forever, and unto the ages of ages. Amen:" of the Forefeast. At the Divine Liturgy, after the Entrance: Sunday Resurrection troparion, and of the Fathers, and of the Forefeast; "Glory to the Father, and to the Son, and to the Holy Spirit:" kontakion of the Fathers; "Now and forever, and unto the ages of ages. Amen:" of the Forefeast. Prokeimenon of the Tone and of the Fathers. Epistle to the Hebrews, pericope 328, and thereafter of the cycle of the Sunday. Then the Gospel of the Fathers, thereafter of the cycle of the Sunday, if there be no deferral.*  
-☞ *Be it known: If the Sunday before the Nativity occur on December the 24th day, nothing*
-
-[Book Page 157]
-
-*of the Sunday Resurrection do we sing, except the Graduals, the Matins Prokeimenon and Gospel, and* **"Having beheld the Resurrection of Christ"** *we say. But the entire office is of the Holy Fathers and of the Forefeast. The stichera of the Holy Fathers precede, and we sing at* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *stichera of the Fathers to 6, and of the Forefeast to 4; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Fathers; "Now and forever, and unto the ages of ages. Amen:" of the Forefeast; and the rest of the office in order. At the Divine Liturgy, after the Entrance: Sunday Resurrection troparion, and of the Fathers, and of the Forefeast; "Glory to the Father, and to the Son, and to the Holy Spirit:" kontakion of the Fathers; "Now and forever, and unto the ages of ages. Amen:" of the Forefeast. Epistle and Gospel of the Fathers, thereafter of the cycle. But if there be a deferral for the Sundays, the ordinary Sunday Epistle and Gospel we do not read.*
+☞ *Be it known: If the Sunday before the Nativity occur on December the 24th day, nothing of the Sunday Resurrection do we sing, except the Graduals, the Matins Prokeimenon and Gospel, and* **"Having beheld the Resurrection of Christ"** *we say. But the entire office is of the Holy Fathers and of the Forefeast. The stichera of the Holy Fathers precede, and we sing at* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *stichera of the Fathers to 6, and of the Forefeast to 4; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Fathers; "Now and forever, and unto the ages of ages. Amen:" of the Forefeast; and the rest of the office in order. At the Divine Liturgy, after the Entrance: Sunday Resurrection troparion, and of the Fathers, and of the Forefeast; "Glory to the Father, and to the Son, and to the Holy Spirit:" kontakion of the Fathers; "Now and forever, and unto the ages of ages. Amen:" of the Forefeast. Epistle and Gospel of the Fathers, thereafter of the cycle. But if there be a deferral for the Sundays, the ordinary Sunday Epistle and Gospel we do not read.*
 
 ### On the 24th Day: The Eve of the Nativity of Christ
 
 *It is necessary to know concerning the Hours on the Eve of the Nativity of Christ: If the Nativity of Christ occur on a Sunday or on a Monday, we sing the Hours beforehand on Friday. But if the Nativity of Christ occur on a Tuesday, on a Wednesday, on a Thursday, on a Friday, and on a Saturday, we sing the Hours on the Eve.*[^172]  
 *The Order of the Royal or Great Hours, sung on the Eve of the Nativity of Christ:*  
-*At the beginning of the 2nd hour [the 2nd hour before noon], the bell strikes. And having assembled in church, the priest vests in phelonion, and the deacon in sticharion. And the sacristan places a decorated tetrapod directly opposite the Royal Doors, and lights a candle upon the candle-stand. And the priest, taking from the altar the Holy Gospel, comes out with the Gospel into the church through the Royal Doors, preceded by the deacon with the censer. And he places*
-
-[Book Page 158]
-
-*the Holy Gospel upon the tetrapod; and standing before the tetrapod, makes the beginning according to custom:* **"Blessed is our God..."** (*Благослове́нъ Бо́гъ на́шъ...*); *and after the beginning the reader says:* **"Glory to Thee, our God, glory to Thee. O Heavenly King..."** (*Сла́ва Тебѣ̀, Бо́же на́шъ, сла́ва Тебѣ̀. Царю̀ Небе́сный...*), *and the rest. And after the exclamation, the priest censes the Holy Gospel on the tetrapod round about, and the other icons, and the whole church, and the Superior and the brethren; and having returned the censer, stands throughout the entire office according to the ancient Typikon before the tetrapod. And the reader reads the Psalms of the Royal Hours, as in the Horologion. Then we sing the troparia by 2 (to the self-governing tone). Thereafter the Prokeimenon. Then the 1st Paremia; the Epistle to the Hebrews, pericope 303; and the Gospel from Matthew, pericope 2. Then they read:* **"Order my steps..."** (*Стопы̀ моя̀ напра́ви...*); *the Trisagion. After* **"Our Father"**: *the kontakion:* **"The Virgin today..."** (*Дѣ́ва дне́сь...*); **"Lord, have mercy"** *40 times; and the prayer:* **"Thou Who at all times..."** (*И҆́же на вся́кое вре́мя...*). *After* **"More honorable than the Cherubim"**: *the priest:* **"God be gracious unto us..."** (*Бо́же, оу҆ще́дри ны̀...*). *Then the prayer:* **"O Christ, the True Light..."** (*Христѐ, Свѣ́те...*). *Thereafter the 3rd, 6th, and 9th Hours are sung similarly. At the 9th Hour the priest censes the whole church, as at the 1st. After the prayer of the 9th Hour:* **"O Master, Lord Jesus Christ..."** (*Влады́ко Го́споди І҆исоу́се Христѐ...*); *immediately:* **"Bless the Lord, O my soul"** (*Благословѝ, душѐ моя̀, Го́спода*); **"Glory to the Father, and to the Son, and to the Holy Spirit:"** **"Praise the Lord, O my soul"** (*Хвалѝ, душѐ моя̀, Го́спода*); **"Now and forever, and unto the ages of ages. Amen:"** **"Only-begotten Son..."** (*Е҆диноро́дный Сы́не...*); *and* **"In Thy kingdom remember us..."** (*Во Ца́рствїи Твое́мъ помянѝ на́съ...*); **"I believe in one God..."** (*Вѣ́рую во є҆ди́наго Бо́га...*); **"Remit, pardon..."** (*Ѡ҆сла́би, ѡ҆ста́ви...*). *After* **"Our Father"**: *festal kontakion:* **"The Virgin today..."**; **"Lord, have mercy"** *40 times; and the prayer:* **"All-Holy Trinity..."** (*Всесвята́я Тро́ице...*). *Then immediately:* **"It is truly meet..."** (*Досто́йно є҆́сть...*); *and the Dismissal. And the departure takes place until the evening hour. But Vespers is celebrated with the Liturgy of Basil the Great later.*[^173]
-
-[Book Page 159]
+*At the beginning of the 2nd hour [the 2nd hour before noon], the bell strikes. And having assembled in church, the priest vests in phelonion, and the deacon in sticharion. And the sacristan places a decorated tetrapod directly opposite the Royal Doors, and lights a candle upon the candle-stand. And the priest, taking from the altar the Holy Gospel, comes out with the Gospel into the church through the Royal Doors, preceded by the deacon with the censer. And he places the Holy Gospel upon the tetrapod; and standing before the tetrapod, makes the beginning according to custom:* **"Blessed is our God..."** (*Благослове́нъ Бо́гъ на́шъ...*); *and after the beginning the reader says:* **"Glory to Thee, our God, glory to Thee. O Heavenly King..."** (*Сла́ва Тебѣ̀, Бо́же на́шъ, сла́ва Тебѣ̀. Царю̀ Небе́сный...*), *and the rest. And after the exclamation, the priest censes the Holy Gospel on the tetrapod round about, and the other icons, and the whole church, and the Superior and the brethren; and having returned the censer, stands throughout the entire office according to the ancient Typikon before the tetrapod. And the reader reads the Psalms of the Royal Hours, as in the Horologion. Then we sing the troparia by 2 (to the self-governing tone). Thereafter the Prokeimenon. Then the 1st Paremia; the Epistle to the Hebrews, pericope 303; and the Gospel from Matthew, pericope 2. Then they read:* **"Order my steps..."** (*Стопы̀ моя̀ напра́ви...*); *the Trisagion. After* **"Our Father"**: *the kontakion:* **"The Virgin today..."** (*Дѣ́ва дне́сь...*); **"Lord, have mercy"** *40 times; and the prayer:* **"Thou Who at all times..."** (*И҆́же на вся́кое вре́мя...*). *After* **"More honorable than the Cherubim"**: *the priest:* **"God be gracious unto us..."** (*Бо́же, оу҆ще́дри ны̀...*). *Then the prayer:* **"O Christ, the True Light..."** (*Христѐ, Свѣ́те...*). *Thereafter the 3rd, 6th, and 9th Hours are sung similarly. At the 9th Hour the priest censes the whole church, as at the 1st. After the prayer of the 9th Hour:* **"O Master, Lord Jesus Christ..."** (*Влады́ко Го́споди І҆исоу́се Христѐ...*); *immediately:* **"Bless the Lord, O my soul"** (*Благословѝ, душѐ моя̀, Го́спода*); **"Glory to the Father, and to the Son, and to the Holy Spirit:"** **"Praise the Lord, O my soul"** (*Хвалѝ, душѐ моя̀, Го́спода*); **"Now and forever, and unto the ages of ages. Amen:"** **"Only-begotten Son..."** (*Е҆диноро́дный Сы́не...*); *and* **"In Thy kingdom remember us..."** (*Во Ца́рствїи Твое́мъ помянѝ на́съ...*); **"I believe in one God..."** (*Вѣ́рую во є҆ди́наго Бо́га...*); **"Remit, pardon..."** (*Ѡ҆сла́би, ѡ҆ста́ви...*). *After* **"Our Father"**: *festal kontakion:* **"The Virgin today..."**; **"Lord, have mercy"** *40 times; and the prayer:* **"All-Holy Trinity..."** (*Всесвята́я Тро́ице...*). *Then immediately:* **"It is truly meet..."** (*Досто́йно є҆́сть...*); *and the Dismissal. And the departure takes place until the evening hour. But Vespers is celebrated with the Liturgy of Basil the Great later.*[^173]
 
 *On the Eve of the Nativity of Christ, at the 7th hour of the day, the sacristan strikes the great bell, and all the heavy bells. And having assembled in church, we begin Vespers and sing everything as indicated on leaf 65, with the Liturgy of Basil the Great. At* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *we set 8 verses.*  
-*The Entrance is made with the Gospel. After the conclusion of the 8 readings with their verses, the Little Ectene takes place. And after the exclamation, the Trisagion. Then the Prokeimenon, Tone 4:* **"The Lord said unto Me: Thou art My Son..."** (*Госпо́дь рече́ ко Мнѣ̀: Сы́нъ Мо́й є҆сѝ Ты̀...*); *Epistle to the Hebrews, pericope 303; Gospel from Luke, pericope 5:* **"A decree went forth from Caesar Augustus..."** (*И҆зы́де повелѣ́нїе ѿ ке́саря А҆́вгуста...*). *And in order the Divine Liturgy of Basil the Great. Instead of "It is truly meet", we sing:* **"In thee rejoices..."** (*Ѡ҆ тебѣ̀ ра́дуется...*). *After the Dismissal, the paramonarios lights a candle-stand and places it in the midst of the church; and the clerics of both choirs, standing together, sing the troparion of the feast, Tone 4:* **"Thy Nativity, O Christ our God..."** (*Рождество̀ Твоѐ, Христѐ Бо́же на́шъ...*); **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** *kontakion:* **"The Virgin today..."** (*Дѣ́ва дне́сь...*). *We go forth to the refectory and eat cooked food with oil.*[^174]  
+*The Entrance is made with the Gospel. After the conclusion of the 8 readings with their verses, the Little Ectene takes place. And after the exclamation, the Trisagion. Then the Prokeimenon, Tone 4:* **"The Lord said unto Me: Thou art My Son..."** (*Госпо́дь рече́ ко Мнѣ̀: Сы́нъ Мо́й є҆сѝ Ты̀...*); *Epistle to the Hebrews, pericope 303; Gospel from Luke, pericope 5:* **"A decree went forth from Caesar Augustus..."** (*И҆зы́де повелѣ́нїе ѿ ке́саря А҆́вгуста...*). *And in order the Divine Liturgy of Basil the Great. Instead of "It is truly meet", we sing:* **"In thee rejoiceth..."** (*Ѡ҆ тебѣ̀ ра́дуется...*). *After the Dismissal, the paramonarios lights a candle-stand and places it in the midst of the church; and the clerics of both choirs, standing together, sing the troparion of the feast, Tone 4:* **"Thy Nativity, O Christ our God..."** (*Рождество̀ Твоѐ, Христѐ Бо́же на́шъ...*); **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** *kontakion:* **"The Virgin today..."** (*Дѣ́ва дне́сь...*). *We go forth to the refectory and eat cooked food with oil.*[^174]  
 ### Be It Known:
 *If the Eve of the Nativity of Christ occur on a Saturday or Sunday, we sing the Royal Hours beforehand on Friday, according to custom as indicated on leaf 157; and on them we also say Psalm 33:* **"I will bless the Lord at all times"** (*Благословлю̀ Го́спода на вся́кое вре́мя*); *and the Dismissal: because a Liturgy is not celebrated on that day [that is, on Friday], but Vespers at its proper time. On Saturday or Sunday [on the Eve], the Liturgy takes place...*
-
----
-
-[Book Page 160]
 
 *...at its proper time, that of Chrysostom. And the departure takes place.*  
 *At the 7th hour of the day, we begin Vespers. After the customary Psalm [Psalm 103], and after the ectene,* **"Blessed is the man"** (*Блаже́нъ мꙋ́жъ*) *is sung: if Saturday, the entire Kathisma; if Sunday, the 1st Antiphon. At* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *we set 8 stichera of the feast. The Entrance is made with the Gospel. Prokeimenon of the day. The readings in their order with their verses. After the Paremias, immediately the Little Ectene. And after the exclamation, the Prokeimenon, Tone 4:* **"The Lord said unto Me: Thou art My Son..."** (*Госпо́дь рече́ ко Мнѣ̀: Сы́нъ Мо́й є҆сѝ Ты̀...*); *Epistle to the Galatians, pericope 207:* **"I speak after the manner of men..."** (*По человѣ́кꙋ глаго́лю...*); *Gospel from Matthew, pericope 53. Thereafter the ectene:* **"Let us all say..."** (*Рце́мъ всѝ...*). *Then:* **"Vouchsafe, O Lord..."** (*Сподо́би, Го́споди...*); **"Let us complete our evening prayer..."** (*И҆спо́лнимъ вече́рняя...*). *And the exclamation:* **"For Thou art a good God..."** (*Ꙗ҆́кѡ Бла́гъ Бо́гъ...*); **"Peace be unto all"** (*Ми́ръ всѣ̑мъ*); *and the 2nd exclamation:* **"Blessed and glorified be the majesty of Thy kingdom..."** (*Бꙋ́ди держа́ва ца́рствїя Твоегѡ̀...*). *And thereafter immediately:* **"Wisdom!"** (*Премꙋ́дрость!*). *Choir:* **"Bless"** (*Благословѝ*). *Priest:* **"Blessed is He Who is, Christ our God..."** (*Сы́й благослове́нъ Христо́съ Бо́гъ на́шъ...*); *and the rest, and the Dismissal. (There are no Aposticha). After the Dismissal, we light the candle-stand in the midst of the church, and both choirs standing together sing the troparion of the feast; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:" the kontakion. And we enter into the refectory, and eat fully with oil, and boiled wheat, or kutia [kolivo] with honey.*[^175]
 
 ### On the 25th Day: The Very Feast of the Nativity of our Lord, God, and Savior Jesus Christ
 #### Concerning Great Compline
-*It is necessary to know: That on the feast of the Nativity of Christ [and of Theophany], on whatever day it may occur, Great Compline is sung with Litiya in this manner: At the 10th hour of the night (that is: 4 hours after midnight), the bell tolls for a single stroke*
-
-[Book Page 161]
-
-*and thereafter a festive chiming on all the bells; and the sacristan lights the lamps before the icon of the Savior and of the Theotokos. And the priest having vested makes the beginning:* **"Blessed is our God..."** (*Благослове́нъ Бо́гъ на́шъ...*) [*not opening the Royal Doors*]. *And he censes the icons and the whole church. And the choir says Great Compline from the beginning:* **"Glory to Thee, our God, glory to Thee. O Heavenly King..."** (*Сла́ва Тебѣ̀, Бо́же на́шъ, сла́ва Тебѣ̀. Царю̀ Небе́сный...*); *the Trisagion, and the rest, as in the Horologion. And after the Six Psalms and after "Glory...": the choir with those present sings in a loud voice and lingeringly:* **"God is with us, understand, O ye nations..."** (*Съ на́ми Бо́гъ, разꙋмѣ́йте, я҆зы́цы...*): *the first verse 3 times. And the priest standing before the Royal Doors reads the verses:* **"Even unto the uttermost parts of the earth..."** (*До послѣ́днихъ землѝ...*), *and the rest. After each verse the choir sings:* **"God is with us"** (*Съ на́ми Бо́гъ*); *and at the end, this verse 3 times. Then:* **"The day is past..."** (*Де́нь преше́дъ...*); **"I believe in one God..."** (*Вѣ́рую во є҆ди́наго Бо́га...*); **"All-Holy Trinity..."** (*Прест҃ая Тро́ице...*): *each verse 2 times each. Thereafter the Trisagion; and after "Our Father": the troparion of the feast, 1 time;* **"Lord, have mercy"** *40 times; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"* **"More honorable than the Cherubim..."** (*Честнѣ́йшꙋю херꙋвї́мъ...*); **"In the name of the Lord..."** (*И҆́менемъ Госпо́днимъ...*). *Priest:* **"Through the prayers of the holy..."** (*Моли́твами святы́хъ...*); *and reads the prayer:* **"O Lord, Lord, Who hast delivered us..."** (*Го́споди, Го́споди, и҆збавле́й на́съ...*); **"Come, let us bow down in worship..."** (*Прїиди́те, поклони́мся...*) *3 times, and Psalm 50 [Psalm 51] and Psalm 101 [Psalm 102]. Thereafter the prayer by the priest:* **"O Lord Almighty..."** (*Го́споди Вседержи́телю...*); *the Trisagion, and after "Our Father": the kontakion of the feast;* **"Lord, have mercy"** *40 times; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"* **"More honorable..."**; *Priest:* **"Through the prayers of the holy fathers..."** (*Моли́твами святы́хъ ѻ҆те́цъ...*); *then the prayer:* **"O Master, God the Father..."** (*Влады́ко Бо́же Ѻ҆́тче...*). *Thereafter the choir:* **"Come, let us bow down in worship..."**; *Psalm 69 [Psalm 70], Psalm 142 [Psalm 143]; and reads:* **"Glory to God in the highest..."** (*Сла́ва въ вы́шнихъ Бо́гꙋ...*). *The priest censes the icons and the whole church; and after "Glory to God in the highest", the Litiya takes place with the cross into the narthex according to custom, as for an All-Night*
-
-[Book Page 162]
-
-*Vigil. And at the Litiya we sing the stichera, Tone 1:* **"Heaven and earth..."** (*Не́бо и҆ земля̀...*). *Then after the stichera, the priest says the prayer according to the custom of the Vigil:* **"Save, O God, Thy people..."** (*Спасѝ, Бо́же, лю́ди Твоя̑...*). *And having entered again into the church, we sing at the Aposticha the stichera, Tone 2:* **"A great marvel..."** (*Ве́лїе чꙋ́до...*), *with the festal refrains. After the Trisagion, at the blessing of the loaves, troparion of the feast 3 times. Then:* **"Blessed be the name of the Lord..."** (*Бꙋ́ди и҆́мя Госпо́дне...*) *3 times with singing; Psalm 33 [Psalm 34] as far as "shall not want any good thing." Priest:* **"The blessing of the Lord be upon you..."** (*Благослове́нїе Госпо́дне на ва́съ...*). *And immediately the choir:* **"Glory to God in the highest..."** *3 times; the Six Psalms, and in order Matins, as on all Feasts of the Lord.*[^176]  
+*It is necessary to know: That on the feast of the Nativity of Christ [and of Theophany], on whatever day it may occur, Great Compline is sung with Litiya in this manner: At the 10th hour of the night (that is: 4 hours after midnight), the bell tolls for a single stroke and thereafter a festive chiming on all the bells; and the sacristan lights the lamps before the icon of the Savior and of the Theotokos. And the priest having vested makes the beginning:* **"Blessed is our God..."** (*Благослове́нъ Бо́гъ на́шъ...*) [*not opening the Royal Doors*]. *And he censes the icons and the whole church. And the choir says Great Compline from the beginning:* **"Glory to Thee, our God, glory to Thee. O Heavenly King..."** (*Сла́ва Тебѣ̀, Бо́же на́шъ, сла́ва Тебѣ̀. Царю̀ Небе́сный...*); *the Trisagion, and the rest, as in the Horologion. And after the Six Psalms and after "Glory...": the choir with those present sings in a loud voice and lingeringly:* **"God is with us, understand, O ye nations..."** (*Съ на́ми Бо́гъ, разꙋмѣ́йте, я҆зы́цы...*): *the first verse 3 times. And the priest standing before the Royal Doors reads the verses:* **"Even unto the uttermost parts of the earth..."** (*До послѣ́днихъ землѝ...*), *and the rest. After each verse the choir sings:* **"God is with us"** (*Съ на́ми Бо́гъ*); *and at the end, this verse 3 times. Then:* **"The day is past..."** (*Де́нь преше́дъ...*); **"I believe in one God..."** (*Вѣ́рую во є҆ди́наго Бо́га...*); **"All-Holy Trinity..."** (*Прест҃ая Тро́ице...*): *each verse 2 times each. Thereafter the Trisagion; and after "Our Father": the troparion of the feast, 1 time;* **"Lord, have mercy"** *40 times; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"* **"More honorable than the Cherubim..."** (*Честнѣ́йшꙋю херꙋвї́мъ...*); **"In the name of the Lord..."** (*И҆́менемъ Госпо́днимъ...*). *Priest:* **"Through the prayers of the holy..."** (*Моли́твами святы́хъ...*); *and reads the prayer:* **"O Lord, Lord, Who hast delivered us..."** (*Го́споди, Го́споди, и҆збавле́й на́съ...*); **"Come, let us bow down in worship..."** (*Прїиди́те, поклони́мся...*) *3 times, and Psalm 50 [Psalm 51] and Psalm 101 [Psalm 102]. Thereafter the prayer by the priest:* **"O Lord Almighty..."** (*Го́споди Вседержи́телю...*); *the Trisagion, and after "Our Father": the kontakion of the feast;* **"Lord, have mercy"** *40 times; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"* **"More honorable..."**; *Priest:* **"Through the prayers of the holy fathers..."** (*Моли́твами святы́хъ ѻ҆те́цъ...*); *then the prayer:* **"O Master, God the Father..."** (*Влады́ко Бо́же Ѻ҆́тче...*). *Thereafter the choir:* **"Come, let us bow down in worship..."**; *Psalm 69 [Psalm 70], Psalm 142 [Psalm 143]; and reads:* **"Glory to God in the highest..."** (*Сла́ва въ вы́шнихъ Бо́гꙋ...*). *The priest censes the icons and the whole church; and after "Glory to God in the highest", the Litiya takes place with the cross into the narthex according to custom, as for an All-Night Vigil. And at the Litiya we sing the stichera, Tone 1:* **"Heaven and earth..."** (*Не́бо и҆ земля̀...*). *Then after the stichera, the priest says the prayer according to the custom of the Vigil:* **"Save, O God, Thy people..."** (*Спасѝ, Бо́же, лю́ди Твоя̑...*). *And having entered again into the church, we sing at the Aposticha the stichera, Tone 2:* **"A great marvel..."** (*Ве́лїе чꙋ́до...*), *with the festal refrains. After the Trisagion, at the blessing of the loaves, troparion of the feast 3 times. Then:* **"Blessed be the name of the Lord..."** (*Бꙋ́ди и҆́мя Госпо́дне...*) *3 times with singing; Psalm 33 [Psalm 34] as far as "shall not want any good thing." Priest:* **"The blessing of the Lord be upon you..."** (*Благослове́нїе Госпо́дне на ва́съ...*). *And immediately the choir:* **"Glory to God in the highest..."** *3 times; the Six Psalms, and in order Matins, as on all Feasts of the Lord.*[^176]
 ☞ *If the feast of the Nativity of Christ occur on a Wednesday or a Friday, we relax: namely, the laity to meat, monastics to cheese and eggs; and we eat from the Nativity of Christ until the Eve of Theophany (which is called the Twelve Days) on all days, likewise also on Wednesday and Friday: the secular folk meat, and monastics cheese and eggs.*[^177]
 
 ### On the 26th Day: The Synaxis of the Most Holy Theotokos, and of the Holy Euthymius [We sing his service on another day]
-*In the evening, no Kathisma is said. At* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *we set 6 stichera of the feast, and the rest. The Entrance; Great Prokeimenon, Tone 7:* **"Who is a great God..."** (*Кто̀ Бо́гъ ве́лїй...*), *with its verses. If on Saturday evening, we sing the Prokeimenon:* **"The Lord is King..."** (*Госпо́дь воцари́ся...*); *for this Prokeimenon takes precedence over all others. Thereafter the ectene:* **"Let us all say..."**; *and the rest. [Litiya does not take place, unless it be the temple feast]. At the Midnight Office, after the 1st Trisagion, instead of* **"Behold, the Bridegroom"**: *the troparion of the*
-
-[Book Page 163]
-
-*feast,* **"Thy Nativity..."** (*Рождество̀ Твоѐ...*). *After the 2nd Trisagion, the kontakion, Tone 6:* **"He that was born before the morning star..."** (*И҆́же пре́жде денни́цы...*); **"Lord, have mercy"** *12 times; and immediately the Dismissal. But the prayer:* **"Remember, O Lord, in the hope..."** (*Помянѝ, Го́споди, въ наде́ждѣ...*) *we do not say. At Matins: at* **"God is the Lord"** (*Бо́гъ Госпо́дь*): *the troparion of the feast, 3 times. [There is no Gospel at Matins. But if it be a temple dedicated to the Synaxis of the Theotokos, we read the Gospel at Matins from Matthew, pericope 5]. At the 9th Ode we sing the refrain as on the feast itself. At the Doxology, the troparion of the feast. At the Divine Liturgy: the Beatitudes from the canon of the feast, Ode 3 and Ode 6. At the Entrance:* **"Come, let us bow down in worship..."**; *and:* **"Save us, O Son of God, Who wast born of the Virgin, who sing to Thee: Alleluia"** (*Спаси́ на́съ, Сы́не Бо́жїй, рожде́йся ѿ Дѣ́вы, пою́щїя Ти: аллилꙋ́їа*). *Thus we sing even until the Apodosis of the feast. After the Entrance: troparion of the feast; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:" the kontakion,* **"He that was born before the morning star..."**[^178]  
+*In the evening, no Kathisma is said. At* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *we set 6 stichera of the feast, and the rest. The Entrance; Great Prokeimenon, Tone 7:* **"Who is a great God..."** (*Кто̀ Бо́гъ ве́лїй...*), *with its verses. If on Saturday evening, we sing the Prokeimenon:* **"The Lord is King..."** (*Госпо́дь воцари́ся...*); *for this Prokeimenon takes precedence over all others. Thereafter the ectene:* **"Let us all say..."**; *and the rest. [Litiya does not take place, unless it be the temple feast]. At the Midnight Office, after the 1st Trisagion, instead of* **"Behold, the Bridegroom"**: *the troparion of the feast,* **"Thy Nativity..."** (*Рождество̀ Твоѐ...*). *After the 2nd Trisagion, the kontakion, Tone 6:* **"He that was born before the morning star..."** (*И҆́же пре́жде денни́цы...*); **"Lord, have mercy"** *12 times; and immediately the Dismissal. But the prayer:* **"Remember, O Lord, in the hope..."** (*Помянѝ, Го́споди, въ наде́ждѣ...*) *we do not say. At Matins: at* **"God is the Lord"** (*Бо́гъ Госпо́дь*): *the troparion of the feast, 3 times. [There is no Gospel at Matins. But if it be a temple dedicated to the Synaxis of the Theotokos, we read the Gospel at Matins from Matthew, pericope 5]. At the 9th Ode we sing the refrain as on the feast itself. At the Doxology, the troparion of the feast. At the Divine Liturgy: the Beatitudes from the canon of the feast, Ode 3 and Ode 6. At the Entrance:* **"Come, let us bow down in worship..."**; *and:* **"Save us, O Son of God, Who wast born of the Virgin, who sing to Thee: Alleluia"** (*Спаси́ на́съ, Сы́не Бо́жїй, рожде́йся ѿ Дѣ́вы, пою́щїя Ти: аллилꙋ́їа*). *Thus we sing even until the Apodosis of the feast. After the Entrance: troparion of the feast; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:" the kontakion,* **"He that was born before the morning star..."**[^178]
 ☞ *It is necessary to know: That if the Nativity of Christ occur on a Sunday, we do not celebrate the memory of the Holy God-ancestors on the coming Sunday: because the month of January takes its beginning, and the feast of the Nativity of Christ is already given its Apodosis; but we celebrate this Sunday after the Nativity on the 26th day of the month of December, on the morrow of the feast, on Monday. The Typikon for this thou hast in the Anthologion. At the Divine Liturgy: after the Entrance, troparion of the feast and of the Saints; "Glory to the Father, and to the Son, and to the Holy Spirit:" kontakion of the Saints; "Now and forever, and unto the ages of ages. Amen:" of the Theotokos,* **"He that was born before the morning star..."**; *Prokeimenon of the Theotokos and of the Saints; likewise the Epistle and Gospel of the Theotokos and of the Saints.*[^179]
 
 ### The Saturday after the Nativity
-*At the Divine Liturgy: Prokeimenon, Tone 4:* **"I will remember Thy name in every generation and generation"** (*Помянꙋ̀ и҆́мя Твоѐ во вся́комъ ро́дѣ и҆ ро́дѣ*). *Epistle and Gospel*
-
-[Book Page 164]
-
-*of the Saturday after the Nativity, then of the cycle, if there be no deferral.*
+*At the Divine Liturgy: Prokeimenon, Tone 4:* **"I will remember Thy name in every generation and generation"** (*Помянꙋ̀ и҆́мя Твоѐ во вся́комъ ро́дѣ и҆ ро́дѣ*). *Epistle and Gospel of the Saturday after the Nativity, then of the cycle, if there be no deferral.*
 
 ### The Sunday after the Nativity
 #### Wherein we celebrate the memory of the holy and righteous Joseph the Betrothed, and David the King
 *It is necessary to know: If after the Nativity of Christ this Sunday occur on the 26th, on the 27th, on the 28th, on the 29th, or on the 30th day, we sing in this manner: At Great Vespers, after the Kathisma, at* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *Sunday Resurrection stichera 3, and of the feast 4, and of the Saints 3. "Glory to the Father, and to the Son, and to the Holy Spirit," Tone 6:* **"We celebrate the memory..."** (*Па́мять соверша́емъ...*); *and "Now and forever, and unto the ages of ages. Amen:" Theotokion of the 4th Tone; and the rest. After* **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): *Sunday Resurrection troparion; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Saints; "Now and forever, and unto the ages of ages. Amen:" of the feast. If Litiya and the blessing of the loaves take place: troparion of the feast 2 times, and of the Saints 1 time, Tone 2:* **"Proclaim the good news, O Joseph..."** (*Благовѣствꙋ́й, І҆ѡ́сифе...*). *At Matins, at* **"God is the Lord"** (*Бо́гъ Госпо́дь*): *Sunday Resurrection troparion 2 times; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Saints; "Now and forever, and unto the ages of ages. Amen:" of the feast. After the customary Kathismata, Sunday Resurrection Sessional Hymns with their Theotokia. After the Amomos [Psalm 118],* **"The angelic council..."** (*А҆́ггельскїй собо́ръ...*); *Hypakoe of the Tone; Graduals and Prokeimenon of the Tone. Sunday Resurrection Gospel, and* **"Having beheld the Resurrection of Christ..."**; *after Psalm 50, the Sunday Resurrection sticheron. Sunday Resurrection canon with the Heirmos to 4, and of the Theotokos to 4, and of the feast to 4, and of the God-ancestors to 4. [If on the 26th day, we sing the Sunday Resurrection canon to 4, and both canons of the feast to 6, and of the God-ancestors to 4]; Katavasia of the feast. At the 9th Ode we sing* **"More honorable than the Cherubim"**; *and all the rest, as in the Anthologion. At the Divine Liturgy: Beatitudes of the Tone to 4, and of the feast to 4, and of the Saints to 4; Prokeimenon of the Tone and of the Saints. Epistle and Gospel of the Sunday after the Nativity, and thereafter of the cycle, if there be no deferral.*[^180]
-
-[Book Page 165]
 
 ### Directive Concerning the Epistles and Gospels for the Saturdays and Sundays after the Nativity of Christ, and before Theophany
 *It is necessary to know: If the Nativity of Christ occur on a Sunday, then there is only a single Saturday and Sunday between the Nativity of Christ and Theophany; and we sing the Sunday after the Nativity on Monday on the 26th day, on which at the Divine Liturgy we read the Epistle and Gospel of the Sunday after the Nativity of Christ; and for the Saturday after the Nativity of Christ on Saturday on the Apodosis of the feast of the Nativity of Christ; thereafter for the Saturday before Theophany. Prokeimenon, Alleluia, and Communion verse of the feast. And on the 1st of January we read the Prokeimenon, Epistle, and Gospel of the Sunday before Theophany, thereafter of the Circumcision.*[^181]
@@ -2632,11 +2146,7 @@ At Great Vespers at the Vigil: If Sunday occur, we sing **"Blessed is the man"**
 *Then on December the 30th day, at the Divine Liturgy, Prokeimenon, Epistle, Alleluia, Gospel, and Communion verse: first we read for the Saturday after the Nativity of Christ; thereafter the Epistle and Gospel for the Saturday before Theophany. And for the Sunday after the Nativity of Christ we read at the Divine Liturgy on the Apodosis of the feast of the Nativity of Christ, as was indicated in the cycle. And for the Sunday before Theophany, the Prokeimenon, Epistle, Alleluia, and Gospel we read on the 1st day of January, as will be indicated in the cycle; see leaf 168.*
 
 ### If the Nativity of Christ Occur on a Tuesday:
-*Then on December the 29th day at the Divine Liturgy, Prokeimenon, Epistle, Alleluia, Gospel, and Communion verse: first*
-
-[Book Page 166]
-
-*for the Saturday after the Nativity of Christ, and thereafter for the day of the month. And for the Sunday after the Nativity of Christ we sing the service on December the 30th day, as the directive in the cycle indicates. And for the Sunday before Theophany at the Divine Liturgy, the Prokeimenon, Epistle, Alleluia, and Gospel we read first for the Sunday before Theophany on January the 1st day, and thereafter for the Circumcision and Basil together.*
+*Then on December the 29th day at the Divine Liturgy, Prokeimenon, Epistle, Alleluia, Gospel, and Communion verse: first for the Saturday after the Nativity of Christ, and thereafter for the day of the month. And for the Sunday after the Nativity of Christ we sing the service on December the 30th day, as the directive in the cycle indicates. And for the Sunday before Theophany at the Divine Liturgy, the Prokeimenon, Epistle, Alleluia, and Gospel we read first for the Sunday before Theophany on January the 1st day, and thereafter for the Circumcision and Basil together.*
 
 ### If on a Wednesday, Thursday, or Friday:
 *And then there are between the Nativity and Theophany two Saturdays and two Sundays: on the 1st Saturday the Epistle is read for the Saturday after the Nativity of Christ; on the Sunday the Epistle and Gospel of the Sunday after the Nativity of Christ. And on the 2nd Saturday the Epistle and Gospel for the Saturday before Theophany; on the 2nd Sunday the Epistle and Gospel are read for the Sunday before Theophany, thereafter of the cycle.*
@@ -2647,46 +2157,26 @@ At Great Vespers at the Vigil: If Sunday occur, we sing **"Blessed is the man"**
 ### On the 27th Day: The Holy Apostle, Protomartyr and Archdeacon Stephen, and our Venerable Father Theodore
 *In the evening, customary Kathisma. At* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *stichera of Stephen 3, and of the Venerable 3; "Glory to the Father, and to the Son, and to the Holy Spirit:" of Stephen; "Now and forever, and unto the ages of ages. Amen:" of the feast. The Entrance. Prokeimenon of the day, and the rest, as in the Anthologion.*  
 ☞ *If it be a temple dedicated to St. Stephen, an All-Night Vigil takes place; but the service of the Venerable is sung at Compline. And we sing the entire service of St. Stephen, evening and morning, as for a saint with a vigil occurring in the afterfeast. At Matins: Polyeleos and Megalynarion of the Saint; Graduals the 1st Antiphon of Tone 4 [Tone 3]; Prokeimenon of the Saint; Gospel from John, pericope 52; and the rest.*  
-☞ *If the temple feast of St. Stephen occur on the Sunday after the Nativity of Christ: At Little Vespers, Sunday Resurrection stichera and of the temple according to custom. At Great Vespers, Sunday Resurrection stichera 3, and of the God-ancestors with the Doxastikon 4, and of the temple 3; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the temple; "Now and forever, and unto the ages of ages. Amen:" Dogmatic Theotokion of the 1st Tone. The Entrance. Prokeimenon of the day, and 3 readings of the temple. At the Litiya, stichera of the feast and of the temple [of Stephen]; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the temple; "Now and forever, and unto the ages of ages. Amen:" of the feast. At the Aposticha, Sunday Resurrection stichera; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the temple; "Now and forever, and unto the ages of ages. Amen:" of the feast. At the blessing of the loaves:* **"O Theotokos Virgin..."** (*Богоро́дице Дѣ́во...*) *1 time, and of the Saints 1 time, and of the temple of Stephen 1 time. At Matins, Sunday Resurrection troparion 1 time, and of the Saints 1 time; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the temple; "Now and forever, and unto the ages of ages. Amen:" of the feast. Sunday Resurrection Sessional Hymns. After the Polyeleos, Sessional Hymn of the temple; Graduals of the Tone; Pro-*
-
-[Book Page 168]
-
-*-keimenon and Gospel of the temple;* **"Having beheld the Resurrection of Christ..."**; *and sticheron of the temple. Sunday Resurrection canon with the Heirmos to 4, and of the Saints to 4, and of Stephen to 6; Katavasia of the feast. After Ode 3, kontakion of the Saints and Ikos, and Sessional Hymn of the temple; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Saints; "Now and forever, and unto the ages of ages. Amen:" of the feast. After Ode 6, kontakion and Ikos of the temple. At Ode 9 we sing* **"More honorable than the Cherubim"**. *At the Praises, Sunday Resurrection stichera 4, and of the temple with refrains 4; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the temple; "Now and forever, and unto the ages of ages. Amen:"* **"Most blessed art thou, O Virgin Theotokos..."** (*Преблагослове́нна є҆сѝ...*); *and the rest. At the Divine Liturgy: Sunday Resurrection troparion; of the feast; and of the Apostle. Epistle and Gospel of the Sunday after the Nativity, and of the Apostle Stephen.*[^183]
+☞ *If the temple feast of St. Stephen occur on the Sunday after the Nativity of Christ: At Little Vespers, Sunday Resurrection stichera and of the temple according to custom. At Great Vespers, Sunday Resurrection stichera 3, and of the God-ancestors with the Doxastikon 4, and of the temple 3; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the temple; "Now and forever, and unto the ages of ages. Amen:" Dogmatic Theotokion of the 1st Tone. The Entrance. Prokeimenon of the day, and 3 readings of the temple. At the Litiya, stichera of the feast and of the temple [of Stephen]; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the temple; "Now and forever, and unto the ages of ages. Amen:" of the feast. At the Aposticha, Sunday Resurrection stichera; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the temple; "Now and forever, and unto the ages of ages. Amen:" of the feast. At the blessing of the loaves:* **"O Theotokos Virgin..."** (*Богоро́дице Дѣ́во...*) *1 time, and of the Saints 1 time, and of the temple of Stephen 1 time. At Matins, Sunday Resurrection troparion 1 time, and of the Saints 1 time; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the temple; "Now and forever, and unto the ages of ages. Amen:" of the feast. Sunday Resurrection Sessional Hymns. After the Polyeleos, Sessional Hymn of the temple; Graduals of the Tone; Pro- -keimenon and Gospel of the temple;* **"Having beheld the Resurrection of Christ..."**; *and sticheron of the temple. Sunday Resurrection canon with the Heirmos to 4, and of the Saints to 4, and of Stephen to 6; Katavasia of the feast. After Ode 3, kontakion of the Saints and Ikos, and Sessional Hymn of the temple; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Saints; "Now and forever, and unto the ages of ages. Amen:" of the feast. After Ode 6, kontakion and Ikos of the temple. At Ode 9 we sing* **"More honorable than the Cherubim"**. *At the Praises, Sunday Resurrection stichera 4, and of the temple with refrains 4; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the temple; "Now and forever, and unto the ages of ages. Amen:"* **"Most blessed art thou, O Virgin Theotokos..."** (*Преблагослове́нна є҆сѝ...*); *and the rest. At the Divine Liturgy: Sunday Resurrection troparion; of the feast; and of the Apostle. Epistle and Gospel of the Sunday after the Nativity, and of the Apostle Stephen.*[^183]
 
 ## The Month of January
 ### On the 1st Day: The Circumcision of our Lord Jesus Christ, and of St. Basil the Great, Archbishop of Caesarea in Cappadocia
-*It is necessary to know: If the Circumcision of the Lord and of St. Basil the Great occur on a Sunday, we make an All-Night Vigil. At Little Vespers, Sunday Resurrection stichera according to custom. At Great Vespers, at* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *we sing Sunday Resurrection stichera 3, and of the feast 3, and of the Saint to 4; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Saint; "Now and forever, and unto the ages of ages. Amen:" Dogmatic Theotokion of the Tone. The Entrance; and 3 readings. At the Litiya, sticheron of the temple, and of St. Basil. At the Aposticha, stichera of the Octoechos; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Saint; "Now and forever, and unto the ages of ages. Amen:" of the feast. At the blessing of the loaves, troparion* **"O Theotokos Virgin..."** *2 times, of the Saint 1 time. At Matins, the Polyeleos; Graduals of the Tone; Sunday Resurrection Gospel; and the rest. At the Divine Liturgy, after the Entrance: Sunday Resurrection troparion, and of the feast,*
-
-[Book Page 169]
-
-*and of the Saint; "Glory to the Father, and to the Son, and to the Holy Spirit:" kontakion of the Saint; "Now and forever, and unto the ages of ages. Amen:" of the feast. Prokeimenon of the Sunday before Theophany, and of the Saint. Epistle of the Sunday before Theophany; another Epistle, to the Colossians, pericope 254; and of the Saint. Gospel of the Sunday before Theophany, and of the Circumcision and Basil. The Divine Liturgy of Basil the Great. Instead of "It is truly meet",* **"In thee rejoices..."** (*Ѡ҆ тебѣ̀ ра́дꙋется...*).  
+*It is necessary to know: If the Circumcision of the Lord and of St. Basil the Great occur on a Sunday, we make an All-Night Vigil. At Little Vespers, Sunday Resurrection stichera according to custom. At Great Vespers, at* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *we sing Sunday Resurrection stichera 3, and of the feast 3, and of the Saint to 4; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Saint; "Now and forever, and unto the ages of ages. Amen:" Dogmatic Theotokion of the Tone. The Entrance; and 3 readings. At the Litiya, sticheron of the temple, and of St. Basil. At the Aposticha, stichera of the Octoechos; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Saint; "Now and forever, and unto the ages of ages. Amen:" of the feast. At the blessing of the loaves, troparion* **"O Theotokos Virgin..."** *2 times, of the Saint 1 time. At Matins, the Polyeleos; Graduals of the Tone; Sunday Resurrection Gospel; and the rest. At the Divine Liturgy, after the Entrance: Sunday Resurrection troparion, and of the feast, and of the Saint; "Glory to the Father, and to the Son, and to the Holy Spirit:" kontakion of the Saint; "Now and forever, and unto the ages of ages. Amen:" of the feast. Prokeimenon of the Sunday before Theophany, and of the Saint. Epistle of the Sunday before Theophany; another Epistle, to the Colossians, pericope 254; and of the Saint. Gospel of the Sunday before Theophany, and of the Circumcision and Basil. The Divine Liturgy of Basil the Great. Instead of "It is truly meet",* **"In thee rejoiceth..."** (*Ѡ҆ тебѣ̀ ра́дꙋется...*).
 *Notice: Concerning the Saturday and Sunday before Theophany, thou hast the Typikon above.*[^184]
 
 ### On the 5th Day: The Eve of the Theophany of the Lord
-*The order of the Royal Hours on the Eve of Theophany or Illumination takes place according to the directive; see December the 24th day, on leaf 157. After the Hours, the departure takes place until the 6th hour of the day. Vespers takes place with the Divine Liturgy of Basil the Great at its proper time. And after the Ambo Prayer, immediately we all go forth to the blessing of water into the narthex [or to the springs/rivers] of the church with the brethren. The senior priest, if there be many, bearing upon his head the Precious Cross, preceded by candle-bearers and the deacon with the censer. And he places the Precious Cross upon a decorated table, where water is also prepared in a basin with candles standing round about, and candles are distributed to the brethren. While the choirs sing the troparia, Tone 8:* **"The voice of the Lord upon the waters..."** (*Гла́съ Госпо́день на вода́хъ...*) *3 times. At that same time the Superior censes round about the table, the icons, and the people in order, preceded by the deacon with a candle. And the blessing of water takes place, as indicated in the Trebnik and Anthologion. While the ectene of blessing is said by the deacon, the priest*
-
-[Book Page 170]
-
-*says the prayer:* **"O Lord Jesus Christ, Only-begotten Son..."** (*Го́споди І҆исоу́се Христѐ, Е҆диноро́дный Сы́не...*) *secretly, without exclamation; and immediately begins in a loud voice, in the hearing of all, saying this prayer:* **"Great art Thou, O Lord, and marvelous are Thy works..."** (*Ве́лїй є҆сѝ, Го́споди, и҆ чꙋ́дна дѣла̀ Твоя̑...*). *(The prayer* **"O Transubstantial Trinity"** *is not found in the ancient Trebniks). After the blessing of water, the priest turning his face toward the west: holding in his left hand the Precious Cross, and in his right the basil [sprinkler], sprinkles crosswise in all directions, and all kiss the Precious Cross. At that time the troparion is sung by all many times. We enter into the church, and sing the stichera; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:", Tone 6:* **"Let us sing, O believers..."** (*Воспои́мъ, вѣ́рнїи...*); *then:* **"Blessed be the name of the Lord..."** *3 times; Psalm 33 [Psalm 34]. Then antidoron is distributed by the priest, and the Dismissal. After the Dismissal, troparion and kontakion in the midst of the church. And we enter into the refectory, and eat with oil.*  
+*The order of the Royal Hours on the Eve of Theophany or Illumination takes place according to the directive; see December the 24th day, on leaf 157. After the Hours, the departure takes place until the 6th hour of the day. Vespers takes place with the Divine Liturgy of Basil the Great at its proper time. And after the Ambo Prayer, immediately we all go forth to the blessing of water into the narthex [or to the springs/rivers] of the church with the brethren. The senior priest, if there be many, bearing upon his head the Precious Cross, preceded by candle-bearers and the deacon with the censer. And he places the Precious Cross upon a decorated table, where water is also prepared in a basin with candles standing round about, and candles are distributed to the brethren. While the choirs sing the troparia, Tone 8:* **"The voice of the Lord upon the waters..."** (*Гла́съ Госпо́день на вода́хъ...*) *3 times. At that same time the Superior censes round about the table, the icons, and the people in order, preceded by the deacon with a candle. And the blessing of water takes place, as indicated in the Trebnik and Anthologion. While the ectene of blessing is said by the deacon, the priest says the prayer:* **"O Lord Jesus Christ, Only-begotten Son..."** (*Го́споди І҆исоу́се Христѐ, Е҆диноро́дный Сы́не...*) *secretly, without exclamation; and immediately begins in a loud voice, in the hearing of all, saying this prayer:* **"Great art Thou, O Lord, and marvelous are Thy works..."** (*Ве́лїй є҆сѝ, Го́споди, и҆ чꙋ́дна дѣла̀ Твоя̑...*). *(The prayer* **"O Transubstantial Trinity"** *is not found in the ancient Trebniks). After the blessing of water, the priest turning his face toward the west: holding in his left hand the Precious Cross, and in his right the basil [sprinkler], sprinkles crosswise in all directions, and all kiss the Precious Cross. At that time the troparion is sung by all many times. We enter into the church, and sing the stichera; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:", Tone 6:* **"Let us sing, O believers..."** (*Воспои́мъ, вѣ́рнїи...*); *then:* **"Blessed be the name of the Lord..."** *3 times; Psalm 33 [Psalm 34]. Then antidoron is distributed by the priest, and the Dismissal. After the Dismissal, troparion and kontakion in the midst of the church. And we enter into the refectory, and eat with oil.*
 *Thus the service takes place when a fast day occurs on the Eve of Illumination.*[^185]  
 ☞ *If the Eve of Holy Theophany occur on a Saturday or Sunday, there is no fast. The Royal Hours are sung beforehand on Friday. On the Eve (if it be on a Saturday or Sunday), the Divine Liturgy of Chrysostom takes place at its proper time according to custom, as always in order. And after the dismissal of the Divine Liturgy we do not enter into the refectory, but tasting a little refreshment, we await the evening assembly.*  
-*At the evening hour of the day: the bell tolls for a single stroke and all together, and having assembled in church, we sing*
-
-[Book Page 171]
-
-*Vespers according to custom.* **"Blessed is the man"** (*Блаже́нъ мꙋ́жъ*); *at* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *we set 8 stichera, and sing stichera of the feast, Tone 2:* **"Our Enlightener..."** (*Просвѣти́теля на́шегѡ...*). *Then the Entrance with the Gospel. Prokeimenon of the day, and the readings in their order with the troparia and with their verses. [The Trisagion we do not sing, because the Divine Liturgy is not celebrated]. After the reading of the Paremias, the Little Ectene; and after the exclamation, Prokeimenon, Epistle, and Gospel as prescribed above. Ectene:* **"Let us all say..."**; **"Vouchsafe, O Lord..."**; **"Let us complete our evening prayer..."**; *the priest says the exclamation. (There are no Aposticha). And we go forth immediately [before the dismissal] to the font for the blessing of water into the narthex, where a table is prepared. And the priest acts according to the rite, as was indicated before, while we sing:* **"The voice of the Lord upon the waters..."** *And the rest of the blessing of water takes place invariably. After the sprinkling of the holy water, we enter into the church. And we sing the sticheron; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:", Tone 6:* **"Let us sing, O believers..."** *And the Dismissal of Vespers. And thereafter in the midst of the church, the troparion of the feast; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:" the kontakion. And having drunk the holy water, we enter into the refectory, and eat fully with oil.*  
+*At the evening hour of the day: the bell tolls for a single stroke and all together, and having assembled in church, we sing Vespers according to custom.* **"Blessed is the man"** (*Блаже́нъ мꙋ́жъ*); *at* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *we set 8 stichera, and sing stichera of the feast, Tone 2:* **"Our Enlightener..."** (*Просвѣти́теля на́шегѡ...*). *Then the Entrance with the Gospel. Prokeimenon of the day, and the readings in their order with the troparia and with their verses. [The Trisagion we do not sing, because the Divine Liturgy is not celebrated]. After the reading of the Paremias, the Little Ectene; and after the exclamation, Prokeimenon, Epistle, and Gospel as prescribed above. Ectene:* **"Let us all say..."**; **"Vouchsafe, O Lord..."**; **"Let us complete our evening prayer..."**; *the priest says the exclamation. (There are no Aposticha). And we go forth immediately [before the dismissal] to the font for the blessing of water into the narthex, where a table is prepared. And the priest acts according to the rite, as was indicated before, while we sing:* **"The voice of the Lord upon the waters..."** *And the rest of the blessing of water takes place invariably. After the sprinkling of the holy water, we enter into the church. And we sing the sticheron; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:", Tone 6:* **"Let us sing, O believers..."** *And the Dismissal of Vespers. And thereafter in the midst of the church, the troparion of the feast; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:" the kontakion. And having drunk the holy water, we enter into the refectory, and eat fully with oil.*
 ☞ *Be it known: That if the Eve of Theophany occur on a Saturday or on a Sunday: the Divine Liturgy of Basil the Great is celebrated on the very feast of Theophany without Vespers. In place of "It is truly meet", we sing the Heirmos of the 9th Ode of the feast.*[^186]
 
 ### On the 6th Day: The Very Feast of Theophany
-*On whatever day it may occur, Great Compline is sung after midnight in this manner: At the 10th hour of the night, the bell strikes the great bell, and thereafter all the bells. And having assembled in church, the priest having blessed and censed, we sing Great Compline with Litiya, as was indicated on December the 24th day on leaf 160. And* **"God is with us"** *with singing, in Tone 8. After the 1st Trisagion, troparion of the feast:* **"When Thou wast baptized in the Jordan..."** (*Во І҆орда́нѣ...*). *After the 2nd Trisagion, kontakion of the feast:* **"Thou hast appeared today..."** (*Ꙗ҆ви́лся є҆сѝ...*). *After "Glory to God in the highest", the Litiya takes place into the narthex of the church according to custom: while we sing the stichera of the feast, Tone 4:* **"He that clothes Himself with light as with a garment..."** (*Ѡ҆дѣва́йся свѣ́томъ, я҆́кѡ ри́зою...*). *Then after the stichera, the prayers of the Litiya:* **"Save, O God, Thy people..."** *And having entered into the church, we sing the Aposticha of the feast with its refrains. At the blessing of the loaves, troparion of the feast 3 times.* **"Blessed be the name of the Lord..."** *3 times with singing; Psalm 33 [Psalm 34]. And the reading of the feast is set forth; and after the reading immediately:* **"Glory to God in the highest..."**; *the Six Psalms, and the rest of Matins, as on all great feasts. On this day the Divine Liturgy takes place early, because of the labor of the vigil. At the Divine Liturgy, the Antiphons of the feast. Instead of the Trisagion, we sing:* **"As many of you as have been baptized into Christ have put on Christ. Alleluia"** (*Е҆ли́цы во Хрїста̀ крести́стеся, во Хрїста̀ ѡ҆блеко́стеся. А҆ллилꙋ́їа*); *and the rest.*[^187]  
+*On whatever day it may occur, Great Compline is sung after midnight in this manner: At the 10th hour of the night, the bell strikes the great bell, and thereafter all the bells. And having assembled in church, the priest having blessed and censed, we sing Great Compline with Litiya, as was indicated on December the 24th day on leaf 160. And* **"God is with us"** *with singing, in Tone 8. After the 1st Trisagion, troparion of the feast:* **"When Thou wast baptized in the Jordan..."** (*Во І҆орда́нѣ...*). *After the 2nd Trisagion, kontakion of the feast:* **"Thou hast appeared today..."** (*Ꙗ҆ви́лся є҆сѝ...*). *After "Glory to God in the highest", the Litiya takes place into the narthex of the church according to custom: while we sing the stichera of the feast, Tone 4:* **"He that clotheth Himself with light as with a garment..."** (*Ѡ҆дѣва́йся свѣ́томъ, я҆́кѡ ри́зою...*). *Then after the stichera, the prayers of the Litiya:* **"Save, O God, Thy people..."** *And having entered into the church, we sing the Aposticha of the feast with its refrains. At the blessing of the loaves, troparion of the feast 3 times.* **"Blessed be the name of the Lord..."** *3 times with singing; Psalm 33 [Psalm 34]. And the reading of the feast is set forth; and after the reading immediately:* **"Glory to God in the highest..."**; *the Six Psalms, and the rest of Matins, as on all great feasts. On this day the Divine Liturgy takes place early, because of the labor of the vigil. At the Divine Liturgy, the Antiphons of the feast. Instead of the Trisagion, we sing:* **"As many of you as have been baptized into Christ have put on Christ. Alleluia"** (*Е҆ли́цы во Хрїста̀ крести́стеся, во Хрїста̀ ѡ҆блеко́стеся. А҆ллилꙋ́їа*); *and the rest.*[^187]  
 ☞ *On this feast the secular folk eat meat, even if it be on a Wednesday or Friday.*
 
 ### On the 7th Day: The Synaxis of the Holy, Glorious Prophet, Forerunner and Baptist John
-*In the evening, no Stichology takes place, except on Saturday. At* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *stichera of the feast 3, and of the Holy*
-
-[Book Page 173]
-
-*Forerunner 3. The Entrance; Great Prokeimenon. At the Divine Liturgy: Beatitudes from the canon of the feast, Ode 3; and of the Forerunner, Ode 4 to 4. After the Entrance, troparion of the feast and of the Forerunner; "Glory to the Father, and to the Son, and to the Holy Spirit:" kontakion of the Forerunner; "Now and forever, and unto the ages of ages. Amen:" of the feast. Entrance response:* **"Save us, O Son of God, Who wast baptized in the Jordan by John, who sing to Thee: Alleluia"** (*Спасѝ на́съ, Сы́не Бо́жїй, во І҆орда́нѣ крести́выйся ѿ І҆ѡа́нна, пою́щыя Ти: аллилꙋ́їа*). *Thus we sing even until the Apodosis. Prokeimenon and Communion verse of the feast and of the Saint; Epistle and Gospel of the Saint.*[^188]
+*In the evening, no Stichology takes place, except on Saturday. At* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *stichera of the feast 3, and of the Holy Forerunner 3. The Entrance; Great Prokeimenon. At the Divine Liturgy: Beatitudes from the canon of the feast, Ode 3; and of the Forerunner, Ode 4 to 4. After the Entrance, troparion of the feast and of the Forerunner; "Glory to the Father, and to the Son, and to the Holy Spirit:" kontakion of the Forerunner; "Now and forever, and unto the ages of ages. Amen:" of the feast. Entrance response:* **"Save us, O Son of God, Who wast baptized in the Jordan by John, who sing to Thee: Alleluia"** (*Спасѝ на́съ, Сы́не Бо́жїй, во І҆орда́нѣ крести́выйся ѿ І҆ѡа́нна, пою́щыя Ти: аллилꙋ́їа*). *Thus we sing even until the Apodosis. Prokeimenon and Communion verse of the feast and of the Saint; Epistle and Gospel of the Saint.*[^188]
 
 ### The Saturday after Theophany
 *Prokeimenon, Tone 8:* **"Be glad in the Lord, and rejoice, ye righteous"** (*Весели́теся ѡ҆ Го́сподѣ, и҆ ра́дꙋйтеся, пра́веднїи*). *Epistle to the Ephesians, pericope 233. Gospel from Matthew, pericope 7. Communion verse of the feast; another:* **"Rejoice in the Lord, O ye righteous"** (*Ра́дꙋйтеся, пра́веднїи, ѡ҆ Го́сподѣ*).  
@@ -2694,8 +2184,6 @@ At Great Vespers at the Vigil: If Sunday occur, we sing **"Blessed is the man"**
 
 ### The Sunday after Theophany
 *At the Divine Liturgy, Prokeimenon, Tone 1:* **"Let Thy mercy, O Lord, be upon us, according as we have hoped in Thee"** (*Бꙋ́ди, Го́споди, ми́лость Твоя̀ на на́съ, я҆́коже оу҆пова́хомъ на Тя̀*); *and of the feast. But if a saint occur who hath at the Divine Liturgy a Prokeimenon, Epistle, and Gospel: then the festal Prokeimenon and Communion verse are omitted. Epistle to the Ephesians, pericope 224 from the midpoint. Gospel from Matthew, pericope 8:* **"When Jesus heard..."** (*Слы́шавъ І҆исоу́съ...*). *Communion verse of the feast; another:* **"Praise the Lord from the heavens..."** (*Хвали́те Го́спода съ небе́съ...*).
-
-[Book Page 174]
 
 ☞ *Here pay heed: Which Sunday after the 1st Sunday after Theophany thou shalt resume, according to the Keys which we set forth above. If ever there be a surplus of these Sundays, leaving aside the superfluous ones, observe the cycle from the Publican and Pharisee. The Sunday of Zacchaeus is always invariably read before the Sunday of the Publican and Pharisee.*[^190]
 
@@ -2706,8 +2194,6 @@ At Great Vespers at the Vigil: If Sunday occur, we sing **"Blessed is the man"**
 ### On the 2nd Day: The Meeting of our Lord Jesus Christ [Hypapante]
 *It is necessary to know: If the feast of the Meeting of the Lord occur on the Sunday of the Publican and Pharisee, or of the Prodigal Son, or Meatfare, or Cheesefare: see the directive in the Triodion. But the troparia and kontakia we say in this manner: After* **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): *Sunday Resurrection troparion; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:" of the feast. At Compline, after the Trisagion, kontakion of the Triodion; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:" of the feast.*
 
-[Book Page 175]
-
 ☞ *If the feast of the Meeting of the Lord occur on Meatfare Saturday: the service of the reposed is sung evening and morning on the preceding Saturday or on Meatfare Thursday. On Saturday the entire service of the feast alone is sung invariably.*  
 *If the feast of the Meeting occur on any day of Cheesefare Week, the entire service of the feast is celebrated: because the Triodion is not sung with the feast, except on Saturday and Sunday. But on Cheesefare Wednesday and Friday, if the Meeting of the Lord occur on them, at the end of Vespers and Matins and of every Hour there are 3 great prostrations. And the Divine Liturgy of Chrysostom is celebrated at its proper time.*  
 ☞ *If the Meeting of the Lord occur on Monday of the First Week of Great Lent: the service of the feast is sung on Cheesefare Sunday. The rest concerning this feast is in the Triodion and in the Anthologion.*[^192]
@@ -2716,25 +2202,13 @@ At Great Vespers at the Vigil: If Sunday occur, we sing **"Blessed is the man"**
 *This feast begins from Wednesday of Meatfare Week, and extends unto Tuesday of the 4th Week of Great Lent. A sufficient directive thou shalt find in the Triodion. Here only this:*  
 *If the Finding of the Precious Head of John the Forerunner occur on Meatfare Saturday: the entire feast of the Forerunner is sung beforehand on Meatfare Friday invariably. Likewise, if the Finding of the Precious Head of the Forerunner occur on Monday of the 1st Week of the Fast: the entire service of the Forerunner is sung on Cheesefare Sunday. But if on whatever day of the 1st Week of the Fast: then his service is sung on Cheesefare Sunday or on the 1st Saturday of the Fast.*[^193]
 
-[Book Page 176]
-
 ☞ *If the Finding of the Precious Head of the Forerunner occur on Monday of the 2nd, 3rd, or 4th Week of the Fast:*  
 *On Sunday evening we sing:* **"Blessed is the man"** (*Блаже́нъ мꙋ́жъ*), *the 1st Antiphon; at* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *stichera to 10: of the Triodion of the day to 4, repeating the 1st; and of the Forerunner to 6; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Forerunner; "Now and forever, and unto the ages of ages. Amen:" Dogmatic Theotokion. The Entrance; Great Prokeimenon of the Triodion; and 3 readings of the Forerunner. Immediately the church doors are closed. Then:* **"Vouchsafe, O Lord, to keep us this night..."** (*Сподо́би, Го́споди, въ ве́черъ се́й...*). *The priest before the Royal Doors:* **"Let us complete our evening prayer..."** (*И҆спо́лнимъ вече́рнюю моли́твꙋ...*). *At the Aposticha of the Triodion; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Forerunner; "Now and forever, and unto the ages of ages. Amen:" Theotokion according to the tone, Sunday Resurrection from the verses. After* **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): *troparion of the Forerunner; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:" Sunday Resurrection Theotokion; ectene:* **"Have mercy on us, O God..."** (*Поми́лꙋй на́съ, Бо́же...*); *3 great prostrations; and the Dismissal. The Midnight Office we sing according to custom with the Kathisma and customary troparia. After* **"More honorable than the Cherubim"**: *3 great prostrations without the prayer. At Matins: at* **"God is the Lord"** (*Бо́гъ Госпо́дь*): *troparion of the Forerunner 2 times; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:" Theotokion. After the 1st and 2nd Kathismata, we say Sessional Hymns of the Triodion; and no ectenes are said. After the 3rd Kathisma, Little Ectene and Sessional Hymn of the Forerunner; Graduals the 1st Antiphon of Tone 4; Prokeimenon and Gospel of the Forerunner;*
 
-[Book Page 177]
-
 *and the rest in the Triodion. At the Praises, stichera of the Forerunner to 4; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Forerunner. Little Doxology. Thereafter the ectene:* **"Let us complete our morning prayer..."**; *then stichera at the Aposticha of the day; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Forerunner. Thereafter:* **"It is good to give praise..."** (*Бла́го є҆́сть...*) *1 time. After "Our Father": troparion of the Forerunner; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:" Sunday Resurrection Theotokion; ectene:* **"Have mercy on us, O God..."**; *and 3 great prostrations. [And Dismissal]. And the First Hour: at the Hours we say the troparion of the Forerunner; and after the Trisagion, the kontakion; and at the end 3 great prostrations. After the prostrations of the Trisagion we do not say* **"O Christ, the True Light..."** (*Христѐ, Свѣ́те и҆́стинный...*); *and the Dismissal. Likewise we say the other Hours. After the Ninth Hour and after the prayer:* **"O Master, Lord Jesus Christ..."** (*Влады́ко Го́споди І҆исоу́се Христѐ...*); *we say also the Psalm:* **"Bless the Lord, O my soul, and all that is within me..."** (*Благословѝ, душѐ моя̀, Го́спода, и҆ вся̑ внꙋ́тренная моя̀...*); *“Glory to the Father, and to the Son, and to the Holy Spirit:”* **"Praise the Lord, O my soul..."** (*Хвалѝ, душѐ моя̀, Го́спода...*); *“Now and forever, and unto the ages of ages. Amen:”* **"Only-begotten Son and Word of God..."** (*Е҆диноро́дный Сы́не и҆ Сло́ве...*); *and* **"In Thy kingdom remember us, O Lord..."** (*Во Ца́рствїи Твое́мъ помянѝ на́съ, Го́споди...*), *quickly without singing. At the Beatitudes we say of the Forerunner, Ode 3 and Ode 6. Then Epistle and Gospel of the Forerunner. Thereafter:* **"Remember us, O Lord..."**; *after* **"Remit, pardon..."**; *and after "Our Father": kontakion of the temple; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Forerunner; "Now and forever, and unto the ages of ages. Amen:" of the Theotokos of the temple; but if it be not a temple of the Theotokos:* **"O Protection of Christians..."** (*Предста́тельство хрїстїа́нъ...*); *then* **"Lord, have mercy"** *40 times; and 3 great prostrations, and at that time the paramonarios strikes two bells; and after the three great prostrations we say:* **"Come, let us bow down in worship..."**; *and we sing Vespers with prostrations and troparia according to the Lenten custom.*[^194]  
-☞ *If the Finding of the Precious Head of the Forerunner occur on any Tuesday or Thursday of*
-
-[Book Page 178]
-
-*the Fast: After the great prostrations of the Hours, the reader says:* **"Come, let us bow down in worship..."** *3 times; then immediately the Psalm:* **"Bless the Lord, O my soul..."** [Psalm 103]; *and we sing Vespers without prostrations. After the customary Kathisma, stichera to 6 of the Triodion and of the Forerunner. The Entrance; and* **"O Gentle Light"** (*Свѣ́те ти́хїй*). *Prokeimenon and readings of the day, and of the Forerunner. Immediately the church doors are closed.* **"Vouchsafe, O Lord..."**; *then:* **"Let us complete our evening prayer..."** *At the Aposticha of the Triodion; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Forerunner; "Now and forever, and unto the ages of ages. Amen:" Theotokion according to the tone. After* **"Now lettest Thou"**: *troparion of the Forerunner; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"* **"The mystery hidden from all ages..."** (*Е҆́же ѿ вѣ́ка оу҆тае́нное...*). *Ectene:* **"Have mercy on us, O God..."**; *thereafter 3 great prostrations. And immediately the prayer:* **"All-Holy Trinity..."**; *and* **"I will bless the Lord at all times..."** [Psalm 33]; **"It is truly meet..."**; *and the Dismissal. Great Compline is sung without prostrations; and* **"Lord of hosts, be with us..."** (*Го́споди си́лъ, съ на́ми бꙋ́ди...*) *we do not sing. After "More honorable than the Cherubim", 3 great prostrations and immediately the Dismissal. The Midnight Office, Matins, and the entire service of the Forerunner we sing as indicated on leaf 176. In the Greek Typika, on a fast day there are no Paremias and no Polyeleos.*[^195]  
+☞ *If the Finding of the Precious Head of the Forerunner occur on any Tuesday or Thursday of the Fast: After the great prostrations of the Hours, the reader says:* **"Come, let us bow down in worship..."** *3 times; then immediately the Psalm:* **"Bless the Lord, O my soul..."** [Psalm 103]; *and we sing Vespers without prostrations. After the customary Kathisma, stichera to 6 of the Triodion and of the Forerunner. The Entrance; and* **"O Gentle Light"** (*Свѣ́те ти́хїй*). *Prokeimenon and readings of the day, and of the Forerunner. Immediately the church doors are closed.* **"Vouchsafe, O Lord..."**; *then:* **"Let us complete our evening prayer..."** *At the Aposticha of the Triodion; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Forerunner; "Now and forever, and unto the ages of ages. Amen:" Theotokion according to the tone. After* **"Now lettest Thou"**: *troparion of the Forerunner; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"* **"The mystery hidden from all ages..."** (*Е҆́же ѿ вѣ́ка оу҆тае́нное...*). *Ectene:* **"Have mercy on us, O God..."**; *thereafter 3 great prostrations. And immediately the prayer:* **"All-Holy Trinity..."**; *and* **"I will bless the Lord at all times..."** [Psalm 33]; **"It is truly meet..."**; *and the Dismissal. Great Compline is sung without prostrations; and* **"Lord of hosts, be with us..."** (*Го́споди си́лъ, съ на́ми бꙋ́ди...*) *we do not sing. After "More honorable than the Cherubim", 3 great prostrations and immediately the Dismissal. The Midnight Office, Matins, and the entire service of the Forerunner we sing as indicated on leaf 176. In the Greek Typika, on a fast day there are no Paremias and no Polyeleos.*[^195]
 ☞ *Notice: If the Finding of the Precious Head occur ON WEDNESDAY OR FRIDAY of the Fast: on Tuesday or Thursday we sing Vespers without prostrations, as described a little above. On Wednesday and Friday [if there is to be a Presanctified Liturgy]: at the Hours after* **"Remit, pardon..."** *and after "Our Father": kontakia according to the rule; then* **"Lord, have mercy"** *40 times; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"* **"More honorable than the Cherubim..."**; *and after the prostrations we say the Trisagion;* **"Lord, have mercy"** *12 times; and* **"All-Holy Trinity..."**  
-*And immediately we begin Vespers: and the customary Kathisma,*
-
-[Book Page 179]
-
-*and on it ectenes are said at each Antiphon. At* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *stichera to 10: of the Triodion of the day 2, and the Martyrikon, and under the Triodion 3, and of the Forerunner 4. The Entrance is made with the Gospel.* **"O Gentle Light"** (*Свѣ́те ти́хїй*). *Prokeimenon and readings of the day.* **"Let my prayer be set forth in Thy sight as incense; and the lifting up of my hands as the evening sacrifice"** (*Да и҆спра́вится моли́тва моя̀, я҆́кѡ кади́ло предъ Тобо́ю: воздѣя́нїе рꙋкꙋ̀ мое́ю, же́ртва вече́рняя*); *and 3 great prostrations. Then immediately Prokeimenon, Epistle, Alleluia, and Gospel.* **"Let us all say..."**; *and the rest of the Presanctified Gifts according to custom. At the Dismissal the priest commemorates first the celebrated Saint, then the Saint whose memory is on the morrow.*[^196]  
+*And immediately we begin Vespers: and the customary Kathisma, and on it ectenes are said at each Antiphon. At* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *stichera to 10: of the Triodion of the day 2, and the Martyrikon, and under the Triodion 3, and of the Forerunner 4. The Entrance is made with the Gospel.* **"O Gentle Light"** (*Свѣ́те ти́хїй*). *Prokeimenon and readings of the day.* **"Let my prayer be set forth in Thy sight as incense; and the lifting up of my hands as the evening sacrifice"** (*Да и҆спра́вится моли́тва моя̀, я҆́кѡ кади́ло предъ Тобо́ю: воздѣя́нїе рꙋкꙋ̀ мое́ю, же́ртва вече́рняя*); *and 3 great prostrations. Then immediately Prokeimenon, Epistle, Alleluia, and Gospel.* **"Let us all say..."**; *and the rest of the Presanctified Gifts according to custom. At the Dismissal the priest commemorates first the celebrated Saint, then the Saint whose memory is on the morrow.*[^196]
 ☞ *Notice: For the Saint occurring in the daily cycle, we sing the canon at Matins in order; but his stichera, which were written in the evening at* **"Lord, I have cried"**, *we say at the Praises.*  
 ☞ *If the Finding occur on the 2nd or 3rd Saturday of the Fast: on Friday, Vespers is celebrated with the Presanctified Liturgy. But if there be no Presanctified Liturgy, the conclusion of Vespers is as indicated on one of the fast days, see above. At Matins and at the Hours, troparion and kontakion of the Forerunner alone.*  
 *Notice: The rest concerning this feast thou hast in the Triodion.*  
@@ -2743,12 +2217,6 @@ At Great Vespers at the Vigil: If Sunday occur, we sing **"Blessed is the man"**
 ### On the 9th Day: The Holy Forty Martyrs
 *It is necessary to know: That the service of the Holy Martyrs, on whatever day it may occur, is sung invariably as was prescribed above for the Finding of the Precious Head of the Forerunner.*[^197]  
 ☞ *If the Forty Martyrs occur on Thursday of the Great Canon: then their entire service is sung on Tuesday ahead of that same week.*
-
----
-
-[Book Page 180]
-
-Month — 180 — March
 
 *If the Forty Martyrs occur on the Saturday of the Akathist, we sing their service on the 5th Sunday of Lent.*
 
@@ -2760,45 +2228,19 @@ Month — 180 — March
 *The Feast of the Annunciation of the Most Holy Theotokos begins from Thursday of the 3rd week of Holy Lent, and ascends unto Wednesday of Bright Week. An extensive directive concerning this feast is found in the Triodions and in the Anthologion or Menaion; but here in brief we set down only the following observations:*  
 *1). It is necessary to know: If the Annunciation of the Most Holy Theotokos occur on the* SUNDAY *of the 3rd, 4th, or 5th week of Lent: Little Vespers is sung on Saturday according to the directive set down in the Triodion. Then according to custom Great Vespers with Litiya [All-Night Vigil].*[^199]
 
-[Book Page 181]
-
-Month — 181 — March
-
 *At Matins on Sunday: the Graduals of the Tone; Prokeimenon and Gospel of the feast; the Great Doxology, and the rest as in the Anthologion. And the Divine Liturgy of the Great Basil without fail. Instead of "It is truly right": we sing the Heirmos:* **"As of an animate ark..."** (*Ꙗ҆́кѡ ѡ҆дꙋшевле́ннꙋ...*).  
 ☞ *On the 3rd Sunday of Lent, instead of the Trisagion, we say:* **"Thy Cross do we adore..."** (*Крⷭ҇тꙋ Твое́мꙋ...*).[^200]  
 *2). If the Annunciation occur on* MONDAY *of the 4th, 5th, or 6th week of the Holy Fast: On Sunday Little Vespers takes place, at it stichera of the feast to 4, and the rest. And Great Vespers takes place with Litiya [customarily before the rising of the sun on Monday]. Readings of the feast 3. At the blessing of the loaves, troparion of the feast 3 times. At Matins: Polyeleos and Gospel of the feast; Little Doxology, and the rest of the service, as was prescribed for a fasting day in the cycle in the Anthologion and here below. The Divine Liturgy of the Holy Chrysostom with Vespers, and the rest.*  
 *3). If the Annunciation occur on* FASTING DAYS *of the 4th, 5th, and 6th week of the Fast, that is to say: on Tuesday, Wednesday, Thursday, and Friday: then on the Forefeast in the evening [if Wednesday or Friday] we begin Vespers without a Kathisma. At* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *we set 6 stichera, and we sing of the Triodion of the day 2, and of the feast 3 repeating two; Theotokion. Readings of the day and of the feast 3: the 1st from Genesis:* **"Jacob went forth..."** (*И҆зы́ди І҆а́кѡвъ...*); *the 2nd from the Prophet Ezekiel:* **"It shall be from the eighth day..."** (*Бꙋ́детъ ѿ днѐ ѻ҆сма́гѡ...*); *the 3rd from Proverbs:* **"Wisdom hath builded..."** (*Премꙋ́дрость созда̀...*). *Then:* **"Let my prayer be set forth..."** (*Да и҆спра́вится...*); *and 3 great prostrations; and the rest of the Presanctified.*
 
-[Book Page 182]
-
-Month — 182 — March
-
 ☞ *If, however, there is no Presanctified [if the Forefeast occur on Tuesday or Thursday]: At* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *stichera prosomoia of the Triodion, and of the feast 5. Entrance. Prokeimenon and readings of the day and of the feast 3 [of the Theotokos]. And immediately the Royal Doors are closed. Then:* **"Vouchsafe, O Lord..."** (*Сподо́би, Го́споди...*); **"Let us complete our evening prayer..."** (*И҆спо́лнимъ вече́рняя...*). *At the Aposticha, stichera of the Triodion, and the rest. After* **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): *troparion of the feast. Ectene:* **"Have mercy on us, O God..."** (*Поми́лꙋй на́съ, Бо́же...*); *and 3 great prostrations, and the Dismissal. Before the rising of the sun, Great Compline is sung with Litiya and the customary Vigil prayers, as was prescribed on the feast of the Nativity of Christ. At the blessing of the bread, troparion of the feast 3 times. At* **"God is the Lord"** (*Бо́гъ Госпо́дь*): *troparion of the feast 3 times. After the 1st Kathisma, both Sessional Hymns of the Triodion without an ectene. After the 2nd Kathisma, ectene and Sessional Hymn of the feast. Polyeleos and the refrain of the feast in the Heirmologion. Gospel of the feast, and the rest. Little Doxology without singing. At the Aposticha, stichera of the Triodion; Glory, now and ever, of the feast. After* **"It is good to give praise"** (*Бла́го є҆́сть*): *troparion of the feast 1 time. Ectene:* **"Have mercy on us, O God..."**; *and at the end 3 great prostrations, saying only:* **"O God, be merciful unto me a sinner"** (*Бо́же, ми́лостивъ бꙋ́ди мнѣ̀ грѣ́шномꙋ*); *and the Dismissal. And the 1st Hour with Kathisma: troparion and kontakion of the feast; and at the end 3 great prostrations and the prayer:* **"O Christ, the true light..."** (*Христѐ, свѣ́те и҆́стинный...*). *And the holy oil is given unto the brethren, and the idiomelon sticheron is sung. In like manner also the other Hours we say. Thereafter the Beatitudes quickly without singing and without prostrations, and the rest. The Divine Liturgy of Saint John Chrysostom together with Vespers.*[^201]  
-*4). If the Annunciation occur on* SATURDAY *of the 3rd, 4th, or 5th week of the Fast: On Friday Vespers together with*
-
-[Book Page 183]
-
-Month — 183 — March
-
-*the Presanctified. The stichera of the day and of the feast are sung; and readings first of the day, and of the feast 5; and:* **"Let my prayer be set forth..."** (*Да и҆спра́вится моли́тва моя̀...*); *and the rest of the Presanctified. On Saturday before the rising of the sun Great Compline is sung with Litiya, with the customary prayers of the All-Night Vigil. At Matins: the entire service is of the feast; we sing also the Great Doxology. At the Divine Liturgy [of Chrysostom without Vespers] all is of the feast.*[^202]  
+*4). If the Annunciation occur on* SATURDAY *of the 3rd, 4th, or 5th week of the Fast: On Friday Vespers together with the Presanctified. The stichera of the day and of the feast are sung; and readings first of the day, and of the feast 5; and:* **"Let my prayer be set forth..."** (*Да и҆спра́вится моли́тва моя̀...*); *and the rest of the Presanctified. On Saturday before the rising of the sun Great Compline is sung with Litiya, with the customary prayers of the All-Night Vigil. At Matins: the entire service is of the feast; we sing also the Great Doxology. At the Divine Liturgy [of Chrysostom without Vespers] all is of the feast.*[^202]
 ☞ *If the Annunciation of the Most Holy Theotokos occur on* THURSDAY *of the 5th week of the Fast, when the Great Canon is sung: The Great Canon of the Lord Andrew is transferred for the sake of the feast; and we sing it on Tuesday of that same week with the triodion of Tuesday. And the apostolic triodion we sing with the feast of the Annunciation; and afterwards the Katavasia of the Triodion.*[^203]  
 *If the Annunciation of the Most Holy Theotokos occur on Friday of the 5th week: we sing the Forefeast on Wednesday in the cycle; and the Saint we sing at Compline.*  
 *5). If the Annunciation occur on* GREAT FRIDAY: *On Thursday evening: at* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *stichera of the day 5, and of the feast 5, and the rest. Entrance with the Gospel. Readings of the day and of the feast 3. Little Ectene and exclamation. And the Trisagion, Prokeimenon, and Epistle and Gospel of the day; and the rest of the Divine Liturgy of the Great Basil. Little Compline.*  
-☞ *At the 1st hour of the night, they strike upon the great bell and the other bells; and we begin the Matins of Great Friday [the Office of the Holy Passions]. At* **"God is the Lord"** (*Бо́гъ Госпо́дь*): *troparion of the feast 3 times; Glory, and*
-
-[Book Page 184]
-
-Month — 184 — March
-
-*now and ever, of the day:* **"When the glorious disciples..."** (*Є҆гда̀ сла́вніи оу҆чени́цы...*). *Little Ectene. And immediately the deacon or priest:* **"And that we may be accounted worthy..."** (*И҆ ѡ҆ сподо́битися...*); *and the superior reads the 1st Gospel. And thereafter the Antiphons and Gospels of the Holy Passions according to their order. And after the reading of the 7th Gospel, the Gradual 1st Antiphon of the 4th Tone, Prokeimenon of the feast, Gospel of the feast, and immediately the 8th Gospel of the Holy Passions, Psalm 50, and the rest look in the Triodion.*[^204]  
+☞ *At the 1st hour of the night, they strike upon the great bell and the other bells; and we begin the Matins of Great Friday [the Office of the Holy Passions]. At* **"God is the Lord"** (*Бо́гъ Госпо́дь*): *troparion of the feast 3 times; Glory, and now and ever, of the day:* **"When the glorious disciples..."** (*Є҆гда̀ сла́вніи оу҆чени́цы...*). *Little Ectene. And immediately the deacon or priest:* **"And that we may be accounted worthy..."** (*И҆ ѡ҆ сподо́битися...*); *and the superior reads the 1st Gospel. And thereafter the Antiphons and Gospels of the Holy Passions according to their order. And after the reading of the 7th Gospel, the Gradual 1st Antiphon of the 4th Tone, Prokeimenon of the feast, Gospel of the feast, and immediately the 8th Gospel of the Holy Passions, Psalm 50, and the rest look in the Triodion.*[^204]
 *At the 8th hour of the day [the 2nd hour in the afternoon] on Great Friday Vespers is sung, at which the priest performs the Proskomide. Entrance with the Gospel. Readings of the day and of the feast 5. Little Ectene. And the Trisagion, Prokeimenon, Epistle, and Gospel: first of the feast, thereafter of the day. And the Divine Liturgy of Chrysostom is celebrated.*[^205]  
-*6). If the Annunciation occur* ON THE GREAT SUNDAY OF PASCHA: *On Great Saturday evening, after* **"O Gladsome Light"** (*Свѣ́те ти́хїй*), *the Prokeimenon is not said; but immediately the priest:* **"Wisdom!"** (*Премꙋ́дрость!*). *And the 1st reading of the day, one Paremia; then of the feast 5; then also the other readings of the day according to their order. Divine Liturgy of the Great Basil. On Sunday early, after* **"Christ is risen"** (*Христо́съ воскре́се*), *and after the 4 verses, when the priest sings in a loud voice the last:* **"Christ is risen"**, *and the doors are opened, we enter into the church singing:* **"And unto those in the tombs..."** (*И҆ сꙋ́щымъ во гробѣ́хъ...*). *And after the priest enters into the altar, we say Glory, and sing the troparion of the feast, and now and ever, the same. Then the Great Ectene. After the 6th Ode of the canon, Prokeimenon of the feast;* **"Let every breath"** (*Вся́кое дыха́нїе*); *and Gospel of the feast. Then* **"Having beheld the Resurrection of Christ"** (*Воскресе́нїе Христо́во*), *3 times; and the rest look in the Triodion. At the Divine Liturgy, when the time arrives to read the Holy Gospel: the priest reads the Gospel of Pascha with the deacon, as was indicated at the Liturgy on Sunday. Then*
-
-[Book Page 185]
-
-Month — 185 — August
-
-*a single deacon reads the Gospel of the Annunciation according to custom, as always; and for that Gospel they do not strike the bell; and in order the Divine Liturgy of Chrysostom. Instead of "It is truly right", the Heirmos of Pascha.*  
+*6). If the Annunciation occur* ON THE GREAT SUNDAY OF PASCHA: *On Great Saturday evening, after* **"O Gladsome Light"** (*Свѣ́те ти́хїй*), *the Prokeimenon is not said; but immediately the priest:* **"Wisdom!"** (*Премꙋ́дрость!*). *And the 1st reading of the day, one Paremia; then of the feast 5; then also the other readings of the day according to their order. Divine Liturgy of the Great Basil. On Sunday early, after* **"Christ is risen"** (*Христо́съ воскре́се*), *and after the 4 verses, when the priest sings in a loud voice the last:* **"Christ is risen"**, *and the doors are opened, we enter into the church singing:* **"And unto those in the tombs..."** (*И҆ сꙋ́щымъ во гробѣ́хъ...*). *And after the priest enters into the altar, we say Glory, and sing the troparion of the feast, and now and ever, the same. Then the Great Ectene. After the 6th Ode of the canon, Prokeimenon of the feast;* **"Let every breath"** (*Вся́кое дыха́нїе*); *and Gospel of the feast. Then* **"Having beheld the Resurrection of Christ"** (*Воскресе́нїе Христо́во*), *3 times; and the rest look in the Triodion. At the Divine Liturgy, when the time arrives to read the Holy Gospel: the priest reads the Gospel of Pascha with the deacon, as was indicated at the Liturgy on Sunday. Then a single deacon reads the Gospel of the Annunciation according to custom, as always; and for that Gospel they do not strike the bell; and in order the Divine Liturgy of Chrysostom. Instead of "It is truly right", the Heirmos of Pascha.*
 ☞ *The other directives concerning that feast look in the Triodion.*[^206]
 
 ### IN THE MONTH OF APRIL,
@@ -2812,24 +2254,10 @@ Month — 185 — August
 ### IN THE MONTH OF AUGUST,
 ### On the 1st Day: The Procession of the Precious Wood of the Honorable and Life-Giving Cross; and the Memory of the Holy Seven Maccabee Martyrs
 
-[Book Page 186]
-
-Month — 186 — August
-
-*It is necessary to know: That before Vespers the priest enters into the sacristy [skevophylakion], prepares the Precious Cross, and places it with fragrant basil upon the Table of Oblation [upon a dish]. And Vespers is without an entrance. After the dismissal of Vespers, the priest vests in sacred vestments, and the bringing forth of the Cross unto the Holy Table takes place, according to the order as was indicated on the 14th of September on leaf 139. At Matins there is no Gospel, only the Great Doxology; the priest being vested in all priestly vestments. While the Doxology is sung, the priest comes with the censer unto the Holy Table, the deacon preceding him with a candle; and censes the Holy Table and the Precious Cross. And thus he takes the Precious Cross upon his head, and goes forth by the north doors from the altar, two candles and the censer preceding him. And he comes directly before the Royal Doors, and stands awaiting the end of the Trisagion. When the Trisagion is finished, the priest exclaims:* **"Wisdom! Let us attend!"** (*Премꙋ́дрость, про́сти!*). *And the clerics sing the troparion:* **"Save, O Lord, Thy people..."** (*Спасѝ, Го́споди, лю́ди Твоя̑...*) *3 times. And thus the priest comes, bearing the Precious Cross upon his head, unto the analogion, which is decorated, and places the Precious Cross upon it; and censes around it. Water being prepared in a vessel, or we go forth unto the water springs; and we sing the troparion of sanctification, Tone 6:* **"Having received joy from the Angel..."** (*И҆́же ра́дость ѿ А҆́ггела прїе́мши...*). *And the rest of the blessing of water in order, as in the Trebnik. After the blessing of water we also perform the veneration of the Precious Cross, singing:* **"Thy Cross do we adore..."** (*Крⷭ҇тꙋ Твое́мꙋ покланя́емся...*) *3 times. Then*[^209]
-
-[Book Page 187]
-
-Month — 187 — August
-
-*we sing also the idiomelon stichera, Tone 5:* **"Come, ye faithful..."** (*Прїиди́те, вѣ́рнїи...*). *Thereafter the ectenes:* **"Have mercy on us, O God..."** (*Поми́лꙋй на́съ, Бо́же...*); **"Let us complete our morning prayer..."** (*И҆спо́лнимъ оу҆́треннїя моли̑твы...*); *and the 1st Hour. After the dismissal, the priest goes round, and sprinkles inside the church or the cemetery, sanctifying all.*  
+*It is necessary to know: That before Vespers the priest enters into the sacristy [skevophylakion], prepares the Precious Cross, and places it with fragrant basil upon the Table of Oblation [upon a dish]. And Vespers is without an entrance. After the dismissal of Vespers, the priest vests in sacred vestments, and the bringing forth of the Cross unto the Holy Table takes place, according to the order as was indicated on the 14th of September on leaf 139. At Matins there is no Gospel, only the Great Doxology; the priest being vested in all priestly vestments. While the Doxology is sung, the priest comes with the censer unto the Holy Table, the deacon preceding him with a candle; and censes the Holy Table and the Precious Cross. And thus he takes the Precious Cross upon his head, and goes forth by the north doors from the altar, two candles and the censer preceding him. And he comes directly before the Royal Doors, and stands awaiting the end of the Trisagion. When the Trisagion is finished, the priest exclaims:* **"Wisdom! Let us attend!"** (*Премꙋ́дрость, про́сти!*). *And the clerics sing the troparion:* **"Save, O Lord, Thy people..."** (*Спасѝ, Го́споди, лю́ди Твоя̑...*) *3 times. And thus the priest comes, bearing the Precious Cross upon his head, unto the analogion, which is decorated, and places the Precious Cross upon it; and censes around it. Water being prepared in a vessel, or we go forth unto the water springs; and we sing the troparion of sanctification, Tone 6:* **"Having received joy from the Angel..."** (*И҆́же ра́дость ѿ А҆́ггела прїе́мши...*). *And the rest of the blessing of water in order, as in the Trebnik. After the blessing of water we also perform the veneration of the Precious Cross, singing:* **"Thy Cross do we adore..."** (*Крⷭ҇тꙋ Твое́мꙋ покланя́емся...*) *3 times. Then*[^209] *we sing also the idiomelon stichera, Tone 5:* **"Come, ye faithful..."** (*Прїиди́те, вѣ́рнїи...*). *Thereafter the ectenes:* **"Have mercy on us, O God..."** (*Поми́лꙋй на́съ, Бо́же...*); **"Let us complete our morning prayer..."** (*И҆спо́лнимъ оу҆́треннїя моли̑твы...*); *and the 1st Hour. After the dismissal, the priest goes round, and sprinkles inside the church or the cemetery, sanctifying all.*
 ☞ *If the rite of the blessing of water is to take place even after the Divine Liturgy, as is the custom in some places: then at Matins at the Doxology, when the Precious Cross is brought forth and placed by the priest upon the analogion and after the censing, the veneration of the Precious Cross and the kissing take place according to order, singing the troparion, Tone 6:* **"Thy Cross do we adore, O Master..."** (*Крⷭ҇тꙋ Твое́мꙋ покланя́емся, Влады́ко...*). *Then they sing also these idiomelon stichera, Tone 2:* **"Come, ye faithful, let us bow down before the life-giving tree..."** (*Прїиди́те, вѣ́рнїи, животворя́щемꙋ дре́вꙋ поклони́мся...*). *Thereafter the ectenes:* **"Have mercy on us, O God..."**; **"Let us complete our morning prayer..."**; *the 1st Hour, and the Dismissal. At the Divine Liturgy, the service is of the Cross and of the Holy Martyrs: Epistle of the Cross, 1 Corinthians pericope 125 [1 Cor. 1:18-24], and of the Saints, Hebrews pericope 330 [Heb. 11:33-40]; Gospel of the Cross, John pericope 60 [John 19:6-11, 13-20, 25-28, 30-35], and of the Saints, Matthew pericope 38 [Matt. 10:32-36; 11:1].*  
 ☞ *If the 1st day of August occur on a Sunday: we sing the entire service as is sung on September the 14th day on Sunday with the Indiction and the Venerable Symeon.*  
 ☞ *Look: In the evening on that same day (the 1st of August), after the dismissal of Vespers, the Precious Cross is carried back in, the priest being vested in the phelonion and the deacon in the sticharion with candles and censer, singing the troparion:* **"Save, O Lord..."**; *and the kontakion:* **"Thou Who wast lifted up upon the Cross..."** (*Вознесы́йся на Кре́стъ...*); *and it is placed upon the Holy Table.*[^210]
-
-[Book Page 188]
-
-Month — 188 — August
 
 ### On the 16th Day: The Translation of the Icon Not-Made-by-Hands of our Lord Jesus Christ, that is to say the Holy Mandylion; and of Saint Diomedes
 *The service of the feast and of the Icon. At Matins the Great Doxology. At the Divine Liturgy: troparion of the Mandylion and of the Dormition; Glory, kontakion of the Mandylion; now and ever, kontakion of the Dormition; Epistle to the Colossians, pericope 248 [Col. 1:12-18], then of the cycle; Gospel from Luke, pericope 48 from the half [Luke 9:51-56; 10:22-24], and thereafter of the cycle.*  
@@ -2838,15 +2266,9 @@ Month — 188 — August
 ### On the 29th Day:
 *On the Beheading of the Honorable Head of the Holy John the Forerunner: fasting takes place on whatever day it may occur.*
 
-[Book Page 189]
-
 PART II,
 CONTAINING THE ORDER PERTAINING TO THE TRIODION:
 FROM THE SUNDAY OF THE PUBLICAN AND PHARISEE EVEN UNTO THE 2ND SUNDAY AFTER THE DESCENT OF THE HOLY SPIRIT.[^212]
-
-[Book Page 190]
-
-— 190 —
 
 ### TYPIKON
 #### For the Sundays and Weekdays of the Holy Forty Days of Great Lent
@@ -2860,18 +2282,8 @@ FROM THE SUNDAY OF THE PUBLICAN AND PHARISEE EVEN UNTO THE 2ND SUNDAY AFTER THE 
 ☞ *Be it known: That the office of the Saint who coincides on this Sunday, and on the Sunday of the Prodigal Son, on Meatfare and Cheesefare Sundays, we sing on Friday at Compline, or whenever the superior of the church decides, provided only that the memory of some great Saint does not occur. Then thou hast the directive in the Triodion.*[^213]  
 *On Sunday at Matins: At* **"God is the Lord"** (*Бо́гъ Госпо́дь*): *Sunday Resurrection troparion 2 times; Glory, now and ever, its Theotokion. After the Kathisma, Sunday Resurrection Sessional Hymns of the Octoechos; then the Polyeleos with the Bulgarian refrain:* **"The angelic council..."** (*А҆́ггельскїй собо́ръ...*); *Hypakoe of the Tone, and Graduals of the cycle of the Tone. Sunday Resurrection Prokeimenon, Sunday Resurrection Matins Gospel of the cycle;* **"Having beheld the Resurrection of Christ..."** (*Воскресе́нїе Христо́во...*).
 
-[Book Page 191]
-
-— 191 —
-
 *After Psalm 50 immediately the Penitential stichera are sung: Glory, 1st sticheron Tone 8:* **"Open to me the doors of repentance, O Giver of Life..."** (*Покая́нїя ѿве́рзи ми две́ри, Жизнода́вче...*); *Now and ever, Theotokion:* **"Make straight the paths of salvation..."** (*На спасе́нїя стезѝ...*); *Then the refrain:* **"Have mercy on me, O God, according to Thy great mercy..."** (*Поми́лꙋй мя̀, Бо́же, по вели́цѣй ми́лости Твое́й...*); *and the sticheron, Tone 6:* **"When I ponder the multitude of evil deeds..."** (*Мно́жество содѣ́янныхъ...*). [*And these stichera are sung from the Sunday of the Publican and Pharisee even unto the 5th Sunday of the Holy Great Fast.* **"Jesus having risen from the tomb..."** (*Воскре́съ І҆исꙋ́съ ѿ гро́ба...*) *is not sung]. Canons 4, that is to say: the 1st Sunday Resurrection from the Octoechos with the Heirmos to 4; Cross-Resurrection without Heirmos to 2; Theotokos without Heirmos to 2; 4th of the Triodion without Heirmos to 6. Katavasia after each Ode of the Theotokos:* **"I shall open my mouth..."** (*Ѿве́рзꙋ оу҆ста̀ моя̀...*). *After the 3rd Ode, Sunday Resurrection kontakion and ikos, and Sessional Hymn of the Triodion; Glory, now and ever, Theotokion. After the 6th Ode, kontakion and ikos of the Triodion. After the 8th Ode:* **"My soul doth magnify the Lord..."** (*Вели́читъ дꙋша̀ моя̀ Го́спода...*); *after the 9th Ode:* **"Holy is the Lord our God..."** (*Свѧ́тъ Госпо́дь Бо́гъ на́шъ...*); *and Sunday Resurrection Exapostilarion; Glory, of the Triodion; now and ever, Theotokion in the same place. At the Praises, Sunday Resurrection stichera of the Octoechos 4; and of the Triodion idiomela 4, Tone 1:* **"Let us not pray as the Pharisee..."** (*Не помо́лимся фарисе́йски...*); *and:* **"The Pharisee through vainglory..."** (*Фарисе́й тщесла́вїемъ...*), *written at Vespers, and in the Triodion at the Praises, with the verses:* **"Arise, O Lord my God..."** (*Воскреснѝ, Го́споди Бо́же мо́й...*); *and:* **"I will confess Thee..."** (*И҆сповѣ́мся Тебѣ̀...*); *Glory, of the Triodion; now and ever:* **"Most blessed art thou..."** (*Преблагослове́нна є҆сѝ...*). *After the Doxology, Sunday Resurrection troparion only one of the two; Ectenes and the Dismissal.*[^214]  
-*It is necessary to know: That all 11 Matins Gospel stichera, from this current Sunday even until All Saints, are sung after the dismissal of Matins, at Glory, now and ever. At the Hours: at the 1st, Sunday Resurrection troparion, and kontakion from the Triodion; at the 3rd, the same likewise; at the 6th, Sunday Resurrection troparion; Glory, troparion of the temple, and*
-
-[Book Page 192]
-
-— 192 —
-
-*kontakion of the temple; at the 9th, as at the 1st.*  
+*It is necessary to know: That all 11 Matins Gospel stichera, from this current Sunday even until All Saints, are sung after the dismissal of Matins, at Glory, now and ever. At the Hours: at the 1st, Sunday Resurrection troparion, and kontakion from the Triodion; at the 3rd, the same likewise; at the 6th, Sunday Resurrection troparion; Glory, troparion of the temple, and kontakion of the temple; at the 9th, as at the 1st.*
 *At the Divine Liturgy after the Entrance: Sunday Resurrection troparion; Glory, kontakion of the Triodion; now and ever, festal kontakion according to the Tone. Sunday Resurrection Prokeimenon of the cycle; Epistle and Gospel of the cycle. Communion verse:* **"Praise the Lord from the heavens..."** (*Хвали́те Го́спода съ небе́съ...*).  
 *On weekdays, however, we sing only from the Octoechos and from the Anthologion.*  
 ☞ *It is necessary to know: That in this week the heretical Armenians fast: their abominable fast called the Artzivourion. But with us in this week there is a dispensation: and on every day (that is to say, on Wednesday and Friday) monastics partake of cheese and eggs (at the 9th hour), while the laity eat meat, overturning their decree.*[^215]  
@@ -2879,86 +2291,39 @@ FROM THE SUNDAY OF THE PUBLICAN AND PHARISEE EVEN UNTO THE 2ND SUNDAY AFTER THE 
 
 ### On the Sunday of the Prodigal Son
 *On Saturday evening, all as was written before for the Sunday of the Publican. On Sunday at Matins: at* **"God is the Lord"** (*Бо́гъ Госпо́дь*): *Sunday Resurrection troparion 2 times, and Theotokion. Customary Kathisma and Sessional Hymns of the Octoechos. And we sing the Polyeleos, the customary two Psalms:* **"Praise the name of the Lord..."** (*Хвали́те и҆́мя Госпо́дне...*); *and:* **"Give thanks unto the Lord..."** (*И҆сповѣ́дайтеся Го́сподеви...*); *and we chant in addition unto these also the 3rd Psalm 136 [Psalm 137]:* **"By the rivers of Babylon..."** (*На рѣка́хъ Вавѷлѡ́нскихъ...*), *with the melodious Alleluia; at the end: Glory, now and ever, Alleluia 3 times; and* **"The angelic council..."**; *(but the Bulgarian refrains are omitted). Thus we do on Meatfare Sunday and Cheesefare Sunday. All the rest as on the Sunday of the Publican.*[^216]  
-*It is necessary to know: That in the Meatfare week one Kathisma is omitted at Matins, and*
-
-[Book Page 193]
-
-— 193 —
-
-*it is read at Vespers. In this week we do not sing Alleluia. Little Compline is sung.*
+*It is necessary to know: That in the Meatfare week one Kathisma is omitted at Matins, and it is read at Vespers. In this week we do not sing Alleluia. Little Compline is sung.*
 
 ### On Meatfare Saturday,
 #### We celebrate the memory of all from the age fallen-asleep orthodox Christians, our fathers and brethren
 *On Friday evening, after the customary ectene, and after the Prooemiac Psalm [Psalm 103], and after the Kathisma: at* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *we set 6 stichera, and sing of the Octoechos 3 of the Martyrs, and of the Triodion 3 prosomoia. Instead of the Prokeimenon, we sing Alleluia in Tone 8, with the verses:* **"Blessed are they whom Thou hast chosen..."** (*Блаже́ни, я҆́же и҆збра́лъ...*); *and:* **"Their souls shall dwell among good things..."** (*Дꙋ́шы и҆́хъ во благи́хъ...*); *and the rest. After* **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): *Troparion:* **"With depth of wisdom..."** (*Глꙋбино́ю мꙋ́дрости...*); *Glory, now and ever, Theotokion:* **"Thee we have as a rampart..."** (*Тебѐ и҆ стѣ́нꙋ...*). *Ectene:* **"Have mercy on us, O God..."**; **"Again we pray for the most holy..."**; *and the Dismissal. After the dismissal of Vespers we perform a Panakhyda for the reposed.*[^217]  
-*At Compline after "It is truly right": Kontakion:* **"With the Saints give rest..."** (*Со святы́ми оу҆поко́й...*). *At Matins, after the Six Psalms, the customary ectene. Then immediately we sing Alleluia in Tone 8, and say the verses; Troparion:* **"With depth of wisdom..."**; *Glory, now and ever, Theotokion:* **"Thee we have as a rampart..."**; *and the customary chanting of the Psalter and Sessional Hymns of the Octoechos. Thereafter the Amomos [Psalm 118] is sung in two Stases with the refrain:* **"Blessed art Thou, O Lord..."** (*Благослове́нъ є҆сѝ, Го́споди...*); *at the end of the verses:* **"Unless Thy law had been my meditation..."** (*Ꙗ҆́кѡ а҆́ще бы не зако́нъ Тво́й...*) *3 times. And after it the Ectene for the Reposed:* **"Again and again in peace let us pray to the Lord."** *Choir:* **"Lord, have mercy"** *3 times.* **"Again we pray for the repose of the souls of the departed servants of God, our forefathers, fathers, and brethren who lie here, and all orthodox"**
-
-[Book Page 194]
-
-— 194 —
-
-*Christians everywhere...", and the rest; and the exclamation:* **"For Thou art the Resurrection..."** (*Ꙗ҆́кѡ Ты̀ є҆сѝ воскресе́нїе...*). *Then the right choir sings the 2nd Stasis:* **"I am Thine, save me..."** (*Тво́й є҆́смь а҆́зъ, спаси́ мя...*). *After the Amomos their Troparia [Evlogitaria of the Reposed], Tone 5, Refrain:* **"Blessed art Thou, O Lord: teach me Thy statutes"** (*Благослове́нъ є҆сѝ, Го́споди: навꙋчи́ мя ѡ҆правда́нїємъ Твои̑мъ*); **"The choir of the Saints hath found the fountain of life..."** (*Святы́хъ ли́къ ѡ҆брѣ́те и҆сто́чникъ жи́зни...*); *and the rest. Thereafter the Ectene for the Reposed written above; and after the exclamation, the Sessional Hymn, Tone 5:* **"Give rest, O our Savior..."** (*Оу҆поко́й, Спа́се на́шъ...*). *And the canons are sung: of the holy temple with the Heirmos to 6, and of the Triodion to 8, and the rest. After the 3rd Ode the customary ectene; after the 6th Ode, the ectene for the reposed as was prescribed before; then the Kontakion:* **"With the Saints give rest..."**; *after the 8th Ode the customary ectene, and not for the reposed; then the Exapostilarion:* **"O Thou Who rulest over the living and the dead..."** (*Живы́ми и҆ ме́ртвыми...*). *At the Praises, stichera of the Triodion to 4; Little Doxology. Thereafter the ectene:* **"Let us complete our morning prayer unto the Lord..."**; *Then at the Aposticha, stichera of the reposed;* **"It is good to give praise..."**; *Trisagion; after "Our Father", troparion:* **"With depth of wisdom..."**; *Glory, now and ever:* **"Thee we have as a rampart..."**; *Customary ectene:* **"Have mercy on us, O God..."**; **"Again we pray for the most holy..."**; *and the 1st Hour, and the Dismissal.*  
+*At Compline after "It is truly right": Kontakion:* **"With the Saints give rest..."** (*Со святы́ми оу҆поко́й...*). *At Matins, after the Six Psalms, the customary ectene. Then immediately we sing Alleluia in Tone 8, and say the verses; Troparion:* **"With depth of wisdom..."**; *Glory, now and ever, Theotokion:* **"Thee we have as a rampart..."**; *and the customary chanting of the Psalter and Sessional Hymns of the Octoechos. Thereafter the Amomos [Psalm 118] is sung in two Stases with the refrain:* **"Blessed art Thou, O Lord..."** (*Благослове́нъ є҆сѝ, Го́споди...*); *at the end of the verses:* **"Unless Thy law had been my meditation..."** (*Ꙗ҆́кѡ а҆́ще бы не зако́нъ Тво́й...*) *3 times. And after it the Ectene for the Reposed:* **"Again and again in peace let us pray to the Lord."** *Choir:* **"Lord, have mercy"** *3 times.* **"Again we pray for the repose of the souls of the departed servants of God, our forefathers, fathers, and brethren who lie here, and all orthodox"** *Christians everywhere...", and the rest; and the exclamation:* **"For Thou art the Resurrection..."** (*Ꙗ҆́кѡ Ты̀ є҆сѝ воскресе́нїе...*). *Then the right choir sings the 2nd Stasis:* **"I am Thine, save me..."** (*Тво́й є҆́смь а҆́зъ, спаси́ мя...*). *After the Amomos their Troparia [Evlogitaria of the Reposed], Tone 5, Refrain:* **"Blessed art Thou, O Lord: teach me Thy statutes"** (*Благослове́нъ є҆сѝ, Го́споди: навꙋчи́ мя ѡ҆правда́нїємъ Твои̑мъ*); **"The choir of the Saints hath found the fountain of life..."** (*Святы́хъ ли́къ ѡ҆брѣ́те и҆сто́чникъ жи́зни...*); *and the rest. Thereafter the Ectene for the Reposed written above; and after the exclamation, the Sessional Hymn, Tone 5:* **"Give rest, O our Savior..."** (*Оу҆поко́й, Спа́се на́шъ...*). *And the canons are sung: of the holy temple with the Heirmos to 6, and of the Triodion to 8, and the rest. After the 3rd Ode the customary ectene; after the 6th Ode, the ectene for the reposed as was prescribed before; then the Kontakion:* **"With the Saints give rest..."**; *after the 8th Ode the customary ectene, and not for the reposed; then the Exapostilarion:* **"O Thou Who rulest over the living and the dead..."** (*Живы́ми и҆ ме́ртвыми...*). *At the Praises, stichera of the Triodion to 4; Little Doxology. Thereafter the ectene:* **"Let us complete our morning prayer unto the Lord..."**; *Then at the Aposticha, stichera of the reposed;* **"It is good to give praise..."**; *Trisagion; after "Our Father", troparion:* **"With depth of wisdom..."**; *Glory, now and ever:* **"Thee we have as a rampart..."**; *Customary ectene:* **"Have mercy on us, O God..."**; **"Again we pray for the most holy..."**; *and the 1st Hour, and the Dismissal.*
 *At the Hours we say the troparion and kontakion for the reposed.*  
 *At the Divine Liturgy, after the Entrance: troparion:* **"With depth of wisdom..."**; *Glory, kontakion:* **"With the Saints..."**; *now and ever:* **"Thee we have as a rampart and haven..."** (*Тебѐ и҆ стѣ́нꙋ, и҆ приста́нище...*). *Prokeimenon, Tone 6:* **"Their souls shall dwell among good things..."**; *Epistle to the Corinthians, pericope 146 [1 Cor. 10:23-28]:* **"All things are lawful for me..."** (*Вся̑ ми лѣ́ть сꙋ́ть...*); *and another for the reposed, to the Thessalonians, pericope 270 [1 Thess. 4:13-17]; Gospel of the day, and for the reposed.*[^218]  
-☞ *It is necessary to know: That this service takes place similarly on the 2nd, 3rd, and 4th Saturdays of Lent, and also on the Saturday of the Holy Forty. If the Meeting of the Lord coincide on this day, the service of the Saturday*
-
-[Book Page 195]
-
-— 195 —
-
-*is sung on the preceding Saturday or on Thursday before.*[^219]
+☞ *It is necessary to know: That this service takes place similarly on the 2nd, 3rd, and 4th Saturdays of Lent, and also on the Saturday of the Holy Forty. If the Meeting of the Lord coincide on this day, the service of the Saturday is sung on the preceding Saturday or on Thursday before.*[^219]
 
 ### On Meatfare Sunday Evening
 *At* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *stichera to 6: of the Octoechos 3, and of the Menaion of the Saint 3. At the Aposticha, stichera of the Triodion.*  
 *Be it known: That from today in the Octoechos the Aposticha at Vespers and at Matins are omitted: and instead of them the idiomelon stichera of the day of the Triodion are sung until Saturday of the 6th week.*[^220]
 
 ### On Cheesefare Tuesday Evening
-*From the beginning of Vespers, we begin prostrations. After the customary Psalm [Psalm 103], the Kathisma of the cycle. At* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *stichera of the Octoechos 3, and to the Saint 3; Glory, of the Saint, if he has one; if not, Glory, now and ever, Stavrotheotokion. Prokeimenon of the day. Then:* **"Vouchsafe, O Lord..."** (*Сподо́би, Го́споди...*); *and 3 prostrations. At the Aposticha, idiomelon of the Triodion with the customary refrains; Glory, of the Saint, if he has one; if not, Glory, now and ever, Stavrotheotokion. After* **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*) *and after the Trisagion, troparion Tone 4:* **"O Theotokos and Virgin, rejoice..."** (*Богоро́дице Дѣ́во, ра́дꙋйся...*); *and one prostration; Glory:* **"O Baptizer of Christ..."** (*Крести́телю Христо́въ...*); *and a prostration; Now and ever:* **"Intercede for us, O holy Apostles..."** (*Моли́те за ны̀, святи́и а҆по́столи...*); *a prostration;* **"Beneath thy compassion..."** (*Подъ твою̀ ми́лость...*); *without a prostration;* **"Lord, have mercy"** *40 times; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:";* **"More honorable than the Cherubim..."** (*Честнѣ́йшꙋю херꙋвї́мъ...*); **"In the name of the Lord bless, father"** (*И҆́менемъ Госпо́днимъ благословѝ, ѻ҆́тче*). *Priest:* **"Blessed is He Who is, Christ our God..."** (*Сы́й благослове́нъ Христо́съ Бо́гъ на́шъ...*); *and we say the prayer:* **"O Heavenly King..."** (*Царю̀ Небе́сный...*); *and 3 great prostrations with the prayer of Saint Ephrem:* **"O Lord and Master of my life..."** (*Го́споди и҆ Влады́ко живота̀ моегѡ̀...*); *and the rest 12 metanias; and thereafter the prayer all together:* **"O Lord and Master..."**; *and a great prostration; Tri-*
-
-[Book Page 194 (Facsimile Duplication / Alternate Exposure)]
-
-— 194 —
-
-*Christians everywhere...", and the rest; and the exclamation:* **"For Thou art the Resurrection..."** (*Ꙗ҆́кѡ Ты̀ є҆сѝ воскресе́нїе...*). *Then the right choir sings the 2nd Stasis:* **"I am Thine, save me..."** (*Тво́й є҆́смь а҆́зъ, спаси́ мя...*). *After the Amomos their Troparia [Evlogitaria of the Reposed], Tone 5, Refrain:* **"Blessed art Thou, O Lord: teach me Thy statutes"** (*Благослове́нъ є҆сѝ, Го́споди: навꙋчи́ мя ѡ҆правда́нїємъ Твои̑мъ*); **"The choir of the Saints hath found the fountain of life..."** (*Святы́хъ ли́къ ѡ҆брѣ́те и҆сто́чникъ жи́зни...*); *and the rest. Thereafter the Ectene for the Reposed written above; and after the exclamation, the Sessional Hymn, Tone 5:* **"Give rest, O our Savior..."** (*Оу҆поко́й, Спа́се на́шъ...*). *And the canons are sung: of the holy temple with the Heirmos to 6, and of the Triodion to 8, and the rest. After the 3rd Ode the customary ectene; after the 6th Ode, the ectene for the reposed as was prescribed before; then the Kontakion:* **"With the Saints give rest..."**; *after the 8th Ode the customary ectene, and not for the reposed; then the Exapostilarion:* **"O Thou Who rulest over the living and the dead..."** (*Живы́ми и҆ ме́ртвыми...*). *At the Praises, stichera of the Triodion to 4; Little Doxology. Thereafter the ectene:* **"Let us complete our morning prayer unto the Lord..."**; *Then at the Aposticha, stichera of the reposed;* **"It is good to give praise..."**; *Trisagion; after "Our Father", troparion:* **"With depth of wisdom..."**; *Glory, now and ever:* **"Thee we have as a rampart..."**; *Customary ectene:* **"Have mercy on us, O God..."**; **"Again we pray for the most holy..."**; *and the 1st Hour, and the Dismissal.*  
+*From the beginning of Vespers, we begin prostrations. After the customary Psalm [Psalm 103], the Kathisma of the cycle. At* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *stichera of the Octoechos 3, and to the Saint 3; Glory, of the Saint, if he has one; if not, Glory, now and ever, Stavrotheotokion. Prokeimenon of the day. Then:* **"Vouchsafe, O Lord..."** (*Сподо́би, Го́споди...*); *and 3 prostrations. At the Aposticha, idiomelon of the Triodion with the customary refrains; Glory, of the Saint, if he has one; if not, Glory, now and ever, Stavrotheotokion. After* **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*) *and after the Trisagion, troparion Tone 4:* **"O Theotokos and Virgin, rejoice..."** (*Богоро́дице Дѣ́во, ра́дꙋйся...*); *and one prostration; Glory:* **"O Baptizer of Christ..."** (*Крести́телю Христо́въ...*); *and a prostration; Now and ever:* **"Intercede for us, O holy Apostles..."** (*Моли́те за ны̀, святи́и а҆по́столи...*); *a prostration;* **"Beneath thy compassion..."** (*Подъ твою̀ ми́лость...*); *without a prostration;* **"Lord, have mercy"** *40 times; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:";* **"More honorable than the Cherubim..."** (*Честнѣ́йшꙋю херꙋвї́мъ...*); **"In the name of the Lord bless, father"** (*И҆́менемъ Госпо́днимъ благословѝ, ѻ҆́тче*). *Priest:* **"Blessed is He Who is, Christ our God..."** (*Сы́й благослове́нъ Христо́съ Бо́гъ на́шъ...*); *and we say the prayer:* **"O Heavenly King..."** (*Царю̀ Небе́сный...*); *and 3 great prostrations with the prayer of Saint Ephrem:* **"O Lord and Master of my life..."** (*Го́споди и҆ Влады́ко живота̀ моегѡ̀...*); *and the rest 12 metanias; and thereafter the prayer all together:* **"O Lord and Master..."**; *and a great prostration; Tri- Christians everywhere...", and the rest; and the exclamation:* **"For Thou art the Resurrection..."** (*Ꙗ҆́кѡ Ты̀ є҆сѝ воскресе́нїе...*). *Then the right choir sings the 2nd Stasis:* **"I am Thine, save me..."** (*Тво́й є҆́смь а҆́зъ, спаси́ мя...*). *After the Amomos their Troparia [Evlogitaria of the Reposed], Tone 5, Refrain:* **"Blessed art Thou, O Lord: teach me Thy statutes"** (*Благослове́нъ є҆сѝ, Го́споди: навꙋчи́ мя ѡ҆правда́нїємъ Твои̑мъ*); **"The choir of the Saints hath found the fountain of life..."** (*Святы́хъ ли́къ ѡ҆брѣ́те и҆сто́чникъ жи́зни...*); *and the rest. Thereafter the Ectene for the Reposed written above; and after the exclamation, the Sessional Hymn, Tone 5:* **"Give rest, O our Savior..."** (*Оу҆поко́й, Спа́се на́шъ...*). *And the canons are sung: of the holy temple with the Heirmos to 6, and of the Triodion to 8, and the rest. After the 3rd Ode the customary ectene; after the 6th Ode, the ectene for the reposed as was prescribed before; then the Kontakion:* **"With the Saints give rest..."**; *after the 8th Ode the customary ectene, and not for the reposed; then the Exapostilarion:* **"O Thou Who rulest over the living and the dead..."** (*Живы́ми и҆ ме́ртвыми...*). *At the Praises, stichera of the Triodion to 4; Little Doxology. Thereafter the ectene:* **"Let us complete our morning prayer unto the Lord..."**; *Then at the Aposticha, stichera of the reposed;* **"It is good to give praise..."**; *Trisagion; after "Our Father", troparion:* **"With depth of wisdom..."**; *Glory, now and ever:* **"Thee we have as a rampart..."**; *Customary ectene:* **"Have mercy on us, O God..."**; **"Again we pray for the most holy..."**; *and the 1st Hour, and the Dismissal.*
 *At the Hours we say the troparion and kontakion for the reposed.*  
 *At the Divine Liturgy, after the Entrance: troparion:* **"With depth of wisdom..."**; *Glory, kontakion:* **"With the Saints..."**; *now and ever:* **"Thee we have as a rampart and haven..."** (*Тебѐ и҆ стѣ́нꙋ, и҆ приста́нище...*). *Prokeimenon, Tone 6:* **"Their souls shall dwell among good things..."**; *Epistle to the Corinthians, pericope 146 [1 Cor. 10:23-28]:* **"All things are lawful for me..."** (*Вся̑ ми лѣ́ть сꙋ́ть...*); *and another for the reposed, to the Thessalonians, pericope 270 [1 Thess. 4:13-17]; Gospel of the day, and for the reposed.*  
-☞ *It is necessary to know: That this service takes place similarly on the 2nd, 3rd, and 4th Saturdays of Lent, and also on the Saturday of the Holy Forty. If the Meeting of the Lord coincide on this day, the service of the Saturday*
-
-[Book Page 195 (Facsimile Duplication / Alternate Exposure)]
-
-— 195 —
-
-*is sung on the preceding Saturday or on Thursday before.*
+☞ *It is necessary to know: That this service takes place similarly on the 2nd, 3rd, and 4th Saturdays of Lent, and also on the Saturday of the Holy Forty. If the Meeting of the Lord coincide on this day, the service of the Saturday is sung on the preceding Saturday or on Thursday before.*
 
 ### On Meatfare Sunday Evening
 *At* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *stichera to 6: of the Octoechos 3, and of the Menaion of the Saint 3. At the Aposticha, stichera of the Triodion.*  
 *Be it known: That from today in the Octoechos the Aposticha at Vespers and at Matins are omitted: and instead of them the idiomelon stichera of the day of the Triodion are sung until Saturday of the 6th week.*
 
 ### On Cheesefare Tuesday Evening
-*From the beginning of Vespers, we begin prostrations. After the customary Psalm [Psalm 103], the Kathisma of the cycle. At* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *stichera of the Octoechos 3, and to the Saint 3; Glory, of the Saint, if he has one; if not, Glory, now and ever, Stavrotheotokion. Prokeimenon of the day. Then:* **"Vouchsafe, O Lord..."** (*Сподо́би, Го́споди...*); *and 3 prostrations. At the Aposticha, idiomelon of the Triodion with the customary refrains; Glory, of the Saint, if he has one; if not, Glory, now and ever, Stavrotheotokion. After* **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*) *and after the Trisagion, troparion Tone 4:* **"O Theotokos and Virgin, rejoice..."** (*Богоро́дице Дѣ́во, ра́дꙋйся...*); *and one prostration; Glory:* **"O Baptizer of Christ..."** (*Крести́телю Христо́въ...*); *and a prostration; Now and ever:* **"Intercede for us, O holy Apostles..."** (*Моли́те за ны̀, святи́и а҆по́столи...*); *a prostration;* **"Beneath thy compassion..."** (*Подъ твою̀ ми́лость...*); *without a prostration;* **"Lord, have mercy"** *40 times; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:";* **"More honorable than the Cherubim..."** (*Честнѣ́йшꙋю херꙋвї́мъ...*); **"In the name of the Lord bless, father"** (*И҆́менемъ Госпо́днимъ благословѝ, ѻ҆́тче*). *Priest:* **"Blessed is He Who is, Christ our God..."** (*Сы́й благослове́нъ Христо́съ Бо́гъ на́шъ...*); *and we say the prayer:* **"O Heavenly King..."** (*Царю̀ Небе́сный...*); *and 3 great prostrations with the prayer of Saint Ephrem:* **"O Lord and Master of my life..."** (*Го́споди и҆ Влады́ко живота̀ моегѡ̀...*); *and the rest 12 metanias; and thereafter the prayer all together:* **"O Lord and Master..."**; *and a great prostration; Tri-*
-
-[Book Page 196]
-
-— 196 —
-
-*sagion; after "Our Father":* **"Lord, have mercy"** *12 times; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:";* **"Lord, have mercy"** *3 times;* **"Bless"** (*Благословѝ*). *Then the priest says:* **"Glory to Thee, Christ God, our hope, glory to Thee"** (*Сла́ва Тебѣ̀, Христѐ Бо́же, оу҆пова́нїе на́ше, сла́ва Тебѣ̀*); *and the daily Dismissal. And we say Great Compline with prostrations. After "It is truly right", instead of* **"Lord of hosts, be with us"** (*Го́споди си́лъ, съ на́ми бꙋ́ди*): *we say the troparion of the day and of the temple; then:* **"O God of our fathers..."** (*Бо́же ѻ҆те́цъ на́шихъ...*); **"O Thou Who in the whole world..."** (*И҆́же во все́мъ мі́рѣ...*); *Glory:* **"With the Saints give rest..."** (*Со святы́ми оу҆поко́й...*); *now and ever:* **"Through the prayers of the Theotokos..."** (*Моли́твами Богоро́дицы...*); **"Lord, have mercy"** *40 times; and the prayer:* **"O Thou Who at all times..."** (*И҆́же на вся́кое вре́мя...*); *and after "More honorable than the Cherubim...": the customary 16 prostrations. Thereafter the Trisagion; and the prayer:* **"O Undefiled, Untainted..."** (*Нескве́рная, небла́зная...*); *and:* **"And grant unto us, Master..."** (*И҆ да́ждь на́мъ, Влады́ко...*); *and the Little Dismissal.*  
+*From the beginning of Vespers, we begin prostrations. After the customary Psalm [Psalm 103], the Kathisma of the cycle. At* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *stichera of the Octoechos 3, and to the Saint 3; Glory, of the Saint, if he has one; if not, Glory, now and ever, Stavrotheotokion. Prokeimenon of the day. Then:* **"Vouchsafe, O Lord..."** (*Сподо́би, Го́споди...*); *and 3 prostrations. At the Aposticha, idiomelon of the Triodion with the customary refrains; Glory, of the Saint, if he has one; if not, Glory, now and ever, Stavrotheotokion. After* **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*) *and after the Trisagion, troparion Tone 4:* **"O Theotokos and Virgin, rejoice..."** (*Богоро́дице Дѣ́во, ра́дꙋйся...*); *and one prostration; Glory:* **"O Baptizer of Christ..."** (*Крести́телю Христо́въ...*); *and a prostration; Now and ever:* **"Intercede for us, O holy Apostles..."** (*Моли́те за ны̀, святи́и а҆по́столи...*); *a prostration;* **"Beneath thy compassion..."** (*Подъ твою̀ ми́лость...*); *without a prostration;* **"Lord, have mercy"** *40 times; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:";* **"More honorable than the Cherubim..."** (*Честнѣ́йшꙋю херꙋвї́мъ...*); **"In the name of the Lord bless, father"** (*И҆́менемъ Госпо́днимъ благословѝ, ѻ҆́тче*). *Priest:* **"Blessed is He Who is, Christ our God..."** (*Сы́й благослове́нъ Христо́съ Бо́гъ на́шъ...*); *and we say the prayer:* **"O Heavenly King..."** (*Царю̀ Небе́сный...*); *and 3 great prostrations with the prayer of Saint Ephrem:* **"O Lord and Master of my life..."** (*Го́споди и҆ Влады́ко живота̀ моегѡ̀...*); *and the rest 12 metanias; and thereafter the prayer all together:* **"O Lord and Master..."**; *and a great prostration; Tri- sagion; after "Our Father":* **"Lord, have mercy"** *12 times; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:";* **"Lord, have mercy"** *3 times;* **"Bless"** (*Благословѝ*). *Then the priest says:* **"Glory to Thee, Christ God, our hope, glory to Thee"** (*Сла́ва Тебѣ̀, Христѐ Бо́же, оу҆пова́нїе на́ше, сла́ва Тебѣ̀*); *and the daily Dismissal. And we say Great Compline with prostrations. After "It is truly right", instead of* **"Lord of hosts, be with us"** (*Го́споди си́лъ, съ на́ми бꙋ́ди*): *we say the troparion of the day and of the temple; then:* **"O God of our fathers..."** (*Бо́же ѻ҆те́цъ на́шихъ...*); **"O Thou Who in the whole world..."** (*И҆́же во все́мъ мі́рѣ...*); *Glory:* **"With the Saints give rest..."** (*Со святы́ми оу҆поко́й...*); *now and ever:* **"Through the prayers of the Theotokos..."** (*Моли́твами Богоро́дицы...*); **"Lord, have mercy"** *40 times; and the prayer:* **"O Thou Who at all times..."** (*И҆́же на вся́кое вре́мя...*); *and after "More honorable than the Cherubim...": the customary 16 prostrations. Thereafter the Trisagion; and the prayer:* **"O Undefiled, Untainted..."** (*Нескве́рная, небла́зная...*); *and:* **"And grant unto us, Master..."** (*И҆ да́ждь на́мъ, Влады́ко...*); *and the Little Dismissal.*
 ☞ *In like manner we sing also on Friday the entire service.*[^221]
 
 ### On Cheesefare Wednesday
-*We say the Midnight Office entirely with its prostrations. At Matins we sing Alleluia in the current Tone of the Octoechos, and the Trinity Hymns of the Tone, and the customary two Kathismata of the cycle, and the rest. After Psalm 50, the Priest:* **"Save, O God, Thy people..."** (*Спасѝ, Бо́же, лю́ди Твоя̑...*); *and the exclamation:* **"Through the mercy and compassions..."** (*Ми́лостїю и҆ щедро́тами...*). *Canon of the Octoechos with the Heirmos to 6, to the Saint to 4, and of the Triodion to 4. In whichever Odes the triodion [three-ode canon] arrives, in these Odes we omit the canon of the Octoechos and Menaion, and sing the canon of the Triodion with the Heirmos to 6, and the triodion to 8, and afterwards the Heirmos of the triodion. But the Saint of the Menaion we sing in the prior Odes in this manner: the 1st Ode of the canon of the Octoechos with the Heirmos to 4, and in the Menaion of the Saint the 1st and 3rd Odes to 6: that is, from the 1st Ode 3 troparia without the Theotokion, and from the 3rd 3, and in the Triodion 4. Similarly we sing the 8th with the 6th, and the 9th with the 7th*[^222]
-
-[Book Page 197]
-
-— 197 —
-
-*Odes, and the rest. After* **"It is good to give praise..."** (*Бла́го є҆́сть...*), *and after "Our Father", troparion:* **"Standing in the temple..."** (*Во хра́мѣ стоя́ще...*). **"Lord, have mercy"** *40 times; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:";* **"More honorable than the Cherubim..."**; **"In the name of the Lord bless, father"**; *Priest exclamation:* **"Blessed is He Who is, Christ our God..."**; *And we say:* **"O Heavenly King..."**; *and we make three great prostrations with the prayer [of Saint Ephrem], and the other 12 [bows]; we join also the 1st Hour, and we say at it also the troparion:* **"In the morning hear my voice, O my King and my God..."** (*Заꙋ́тра оу҆слы́ши гла́съ мо́й, Царю̀ мо́й и҆ Бо́же мо́й...*); *Quickly, without singing:* **"Order my steps..."** (*Стѡпы̀ моя̀...*), *and the rest. After* **"O Thou Who at all times..."**; **"Lord, have mercy"** *3 times; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:";* **"More honorable than the Cherubim..."**; *Priest:* **"O God, be bountiful unto us, and bless us..."** (*Бо́же, оу҆ще́дри ны̀, и҆ благослови́ ны...*); *and the customary 16 prostrations. Thereafter the Trisagion;* **"Lord, have mercy"** *12 times; Then:* **"O Christ, the true light..."** (*Христѐ, свѣ́те и҆́стинный...*); *and the Dismissal. In like manner also the other Hours we sing with prostrations and Lenten troparia, as in the Holy Forty Days.*[^223]  
+*We say the Midnight Office entirely with its prostrations. At Matins we sing Alleluia in the current Tone of the Octoechos, and the Trinity Hymns of the Tone, and the customary two Kathismata of the cycle, and the rest. After Psalm 50, the Priest:* **"Save, O God, Thy people..."** (*Спасѝ, Бо́же, лю́ди Твоя̑...*); *and the exclamation:* **"Through the mercy and compassions..."** (*Ми́лостїю и҆ щедро́тами...*). *Canon of the Octoechos with the Heirmos to 6, to the Saint to 4, and of the Triodion to 4. In whichever Odes the triodion [three-ode canon] arrives, in these Odes we omit the canon of the Octoechos and Menaion, and sing the canon of the Triodion with the Heirmos to 6, and the triodion to 8, and afterwards the Heirmos of the triodion. But the Saint of the Menaion we sing in the prior Odes in this manner: the 1st Ode of the canon of the Octoechos with the Heirmos to 4, and in the Menaion of the Saint the 1st and 3rd Odes to 6: that is, from the 1st Ode 3 troparia without the Theotokion, and from the 3rd 3, and in the Triodion 4. Similarly we sing the 8th with the 6th, and the 9th with the 7th*[^222] *Odes, and the rest. After* **"It is good to give praise..."** (*Бла́го є҆́сть...*), *and after "Our Father", troparion:* **"Standing in the temple..."** (*Во хра́мѣ стоя́ще...*). **"Lord, have mercy"** *40 times; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:";* **"More honorable than the Cherubim..."**; **"In the name of the Lord bless, father"**; *Priest exclamation:* **"Blessed is He Who is, Christ our God..."**; *And we say:* **"O Heavenly King..."**; *and we make three great prostrations with the prayer [of Saint Ephrem], and the other 12 [bows]; we join also the 1st Hour, and we say at it also the troparion:* **"In the morning hear my voice, O my King and my God..."** (*Заꙋ́тра оу҆слы́ши гла́съ мо́й, Царю̀ мо́й и҆ Бо́же мо́й...*); *Quickly, without singing:* **"Order my steps..."** (*Стѡпы̀ моя̀...*), *and the rest. After* **"O Thou Who at all times..."**; **"Lord, have mercy"** *3 times; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:";* **"More honorable than the Cherubim..."**; *Priest:* **"O God, be bountiful unto us, and bless us..."** (*Бо́же, оу҆ще́дри ны̀, и҆ благослови́ ны...*); *and the customary 16 prostrations. Thereafter the Trisagion;* **"Lord, have mercy"** *12 times; Then:* **"O Christ, the true light..."** (*Христѐ, свѣ́те и҆́стинный...*); *and the Dismissal. In like manner also the other Hours we sing with prostrations and Lenten troparia, as in the Holy Forty Days.*[^223]
 *After the 9th Hour, the prayer:* **"O Master, Lord Jesus Christ our God..."** (*Влады́ко Го́споди І҆исꙋ́се Христѐ Бо́же на́шъ...*). *Thereafter the Typika:* **"Bless the Lord, O my soul..."** (*Благословѝ, дꙋшѐ моя̀, Го́спода...*); *Glory:* **"Praise the Lord, O my soul..."** (*Хвалѝ, дꙋшѐ моя̀, Го́спода...*); *now and ever:* **"Only-Begotten Son..."** (*Є҆диноро́дный Сы́не...*); *and the Beatitudes:* **"In Thy kingdom remember us, O Lord..."** (*Во ца́рствїи Твое́мъ помяни́ на́съ, Го́споди...*), *quickly without singing, and the rest as in order in the Triodion. And after 3 great prostrations with the prayer, and the other 12 [bows], immediately we begin Vespers:* **"Come, let us bow down in worship..."** (*Прїиди́те, поклони́мся...*); *and the Psalm [Psalm 103], and the rest as in order in the Triodion. After the Prokeimenon, the Paremia. After* **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*) *and the Trisagion, troparion of the Saint; Glory, now and ever, Theotokion. Thereafter the ectene:* **"Have mercy on us, O God..."**; *and 3 great prostrations; and the prayer:* **"All-Holy Trinity..."** (*Всесвята́я Тро́ице...*); **"Blessed be the name of the Lord..."** (*Бꙋ́ди и҆́мя Госпо́дне...*); **"I will bless the Lord at all times..."** (*Благословлю̀ Го́спода на вся́кое вре́мя...*); *then* **"It is truly right..."**; *and the Dismissal.*  
 *Thus we do also on Friday.*  
-☞ *Be it understood: That according to the Greek...*[^224] [Book Page 198]
-
----
-
-
-— 198 —
+☞ *Be it understood: That according to the Greek...*[^224]
 
 According to the Typikon, on Wednesday and Friday of Cheesefare Week the Divine Liturgy is not celebrated.  
 *Note: After Vespers on these two days we eat cheese and eggs, once in the day. Breaking the rules of the Tetradites and the Jacobites.*[^225]  
@@ -2973,16 +2338,8 @@ We celebrate the memory of all venerable fathers who shone forth in the ascetic 
 The Expulsion of Adam from Paradise.  
 *The directive in all things, as on the Sunday of the Publican and Pharisee. Divine Liturgy of Saint John Chrysostom.* ☞ *It is proper to know: That from this Sunday of Cheesefare, even unto the Exaltation of the Precious Cross on all Sundays, through the entire summer at Matins the Polyeleos is not sung. It is sung only on the feasts of the Lord and of great saints.*[^226]
 
-[Book Page 199]
-
-— 199 —
-
 ### On That Same Cheesefare Sunday in the Evening
 *After the customary Psalm, at* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *we sing the penitential stichera of the Octoechos, in order of Tone 4. These two are written, in the evening at the Aposticha: and two at the morning Aposticha. [Likewise also on the other Sundays, from this one even unto the fifth of Holy Lent, "Lord, I have cried" we sing to the Tone of the Octoechos in order]. And of the Triodion, 3 prosomoia, and of the Menaion of the saint 3. Glory of the saint, if he has one; if not, Glory, now and ever, Theotokion in that same Tone of the Menaion. And there is an entrance with the censer. Then after* **"O Gladsome Light"** (*Свѣ́те ти́хїй*), *we sing the Great Prokeimenon:* **"Turn not away Thy face from Thy child, for I am afflicted; quickly hear me; draw near unto my soul, and deliver it."** *And the reader reads verse 1:* **"Let Thy salvation, O God, sustain me."** *Turn not away... then the 2nd, 3rd, and 4th verses. And again in a higher voice:* **"Turn not away Thy face..."** [☞ *Be it known, that on all Sundays of the Holy Forty Days an entrance takes place in the evening, on account of the Great Prokeimena*]. *After the Prokeimenon the holy doors [Royal Doors] are closed, and the ectene:* **"Let us all say"** *we do not say. But immediately they read:* **"Vouchsafe, O Lord, to keep us this evening without sin."** *And we make 3 metanias. [Henceforth we begin to make prostrations].*[^227] *Then the ectene by the priest before the Royal Doors:* **"Let us complete our evening prayer unto the Lord..."** *And thereafter both choirs having gathered together, sing at the Aposticha the idiomelon stichera of the day, Tone 4:* **"Thy grace hath shone forth, O Lord, the grace of Thy grace hath shone forth..."** *with the customary refrains, and the Martyrion. Glory of the saint, if he has one. If not, Glory, now and ever, Theotokion, the same Tone:* **"The angelic ranks..."** *Then:* **"Now lettest Thou Thy servant depart..."** *Thereafter the Trisagion.*
-
-[Book Page 200]
-
-— 200 —
 
 *and three prostrations. After* **"Our Father"**: *The Priest exclamation:* **"For Thine is the kingdom..."** *Then we sing these troparia, Tone 4:* **"O Theotokos and Virgin, rejoice, Mary full of grace, the Lord is with thee; blessed art thou among women, and blessed is the fruit of thy womb, for thou hast borne the Saviour of our souls."** *And one prostration.* Glory: **"O Baptizer of Christ, remember us all, that we may be delivered from our iniquities; for unto thee is given grace to pray for us."** *Prostration.* Now and ever: **"Pray for us, holy Apostles and all saints, that we may be delivered from dangers and sorrows; for we have acquired you as fervent intercessors before the Saviour."** *Prostration. Then:* **"Beneath thy compassion we take refuge, O Theotokos: disdain not our prayers in afflictions, but deliver us from perils, O only pure and blessed one."** *Without a prostration.* **"Lord, have mercy"** *40 times. In a meek and quiet voice all equally. Then: Glory, now and ever:* **"More honorable than the Cherubim..."** **"In the Name of the Lord, bless, Father."** *Priest:* **"He that is blessed and most glorified..."** **"O Heavenly King, strengthen our faithful sovereigns..."** *And thereafter we pray, saying within ourselves the prayer of Saint Ephrem, in three divisions:*  
 **"O Lord and Master of my life, a spirit of idleness, despair, love of power, and idle talk give me not."** *Prostration.*  
@@ -2991,122 +2348,54 @@ The Expulsion of Adam from Paradise.
 **"O Lord and Master of my life, a spirit of idleness, despair, love of power, and idle talk give me not: but a spirit of chastity, humility, patience, and love bestow upon me, Thy servant. Yea, O Lord and King, grant me to see my transgressions, and not to judge my brother, for blessed art Thou unto ages of ages. Amen."**  
 *And one great prostration. And we venerate the holy and venerable icons. And thereafter the Priest says:* **"Glory to Thee, O Christ God, our hope, glory to Thee."** *And the complete Dismissal.*[^228]
 
-[Book Page 201]
-
-— 201 —
-
 *We sing Little Compline according to custom with metanias and Lenten prostrations. At* **"Glory to God in the highest"**, *three metanias. The Canon of the Theotokos. [If there is a Vigil, the Canon of the Theotokos is not said].* **"It is truly right"**: *Trisagion. Three metanias. And the customary troparia:* **"Lord, have mercy"** *40 times.* **"Thou Who at every time..."** *Priest:* **"God be merciful unto us and bless us..."** *And 3 great prostrations, with the prayer of Saint Ephrem:* **"O Lord and Master of my life..."** *and the other 12. Then, Trisagion: After* **"Our Father"**: **"Lord, have mercy"** *12 times. Prayer:* **"O undefiled, untainted..."** *And:* **"And grant unto us, O Master..."** *And immediately:* **"Glory to Thee, O God, our hope, glory to Thee."** *And the Dismissal. And in the manner that the service of Vespers and Compline of this Sunday was indicated, so let it be also on the other Sundays of the Holy Forty Days.*  
 *It is necessary to know: That if our brother happen to depart unto the Lord on these holy days, in the midst of the week, his third-day memorial does not take place until Friday evening, for then his Panakhyda is celebrated: similarly also on Saturday his Divine Liturgy.*[^230]  
-*Note. Be it known unto thee also this, which is written in the ancient parchment codices concerning great and small prostrations. When the time draws near for the holy great prostrations to take place, then each one, having lifted up his hands, and having together raised his physical eyes and mental eyes unto God, begins the prayer with compunction and the fear of God, saying:* **"O Lord and Master of my life..."**, *standing erect. And having completed the prayer, he makes a great prostration, bending with knees and head as much as possible to reach the earth.*[^229]
-
-[Book Page 202]
-
-— 202 —
+*Note. Be it known unto thee also this, which is written in the ancient parchment codices concerning great and small prostrations. When the time draweth near for the holy great prostrations to take place, then each one, having lifted up his hands, and having together raised his physical eyes and mental eyes unto God, begins the prayer with compunction and the fear of God, saying:* **"O Lord and Master of my life..."**, *standing erect. And having completed the prayer, he makes a great prostration, bending with knees and head as much as possible to reach the earth.*[^229]
 
 *Then having risen, and having stood erect, he says the second part of the prayer of Saint Ephrem:* **"But a spirit of chastity..."** *And having finished, again he makes a great prostration, as was indicated before. And having risen the second time, he says the third part of the prayer and the third prostration, and so forth. And this is the form of the great prostrations. Again after these, concerning the other twelve, which are called both light, and in others small, or simply bows [metanias], know this, that at them the shortest prayer is said, which is:* **"O God, cleanse me a sinner, and have mercy on me."** *They are performed in this manner: as much as a man can while standing erect and bow, without falling upon knees, nor bending his head unto the earth.*
 
 ### Beginning of the Holy and Great Fast
 *On Monday of the first week, Midnight Office is sung in the order of the Molitvoslov. [On the other days of the Holy and Great Fast, we make at the Midnight Office and at the beginning of the Trisagion 3 metanias. At "O come, let us worship", 3 metanias. At the Kathisma of the Blameless (Amomos), at each "Glory", 3 prostrations.] After "Thou Who at every time", and after "More honorable than the Cherubim", after the exclamation:* **"God be merciful unto us and bless us"**: *we make 3 great prostrations, in which we say the prayer of Saint Ephrem:* **"O Lord and Master of my life"**: *in three divisions, as was prescribed above. Then 12 small ones, saying within ourselves:* **"O God, cleanse my sins."** *And again at the end the entire above-written prayer. And one great prostration. Then the prayer:* **"O Master, God the Father Almighty"**: *Thereafter, "O come, let us worship" and three prostrations.*
 
-[Book Page 203]
-
-— 203 —
-
-*Psalm 120:* **"I have lifted up mine eyes..."** *Glory, now and ever: Trisagion. After* **"Our Father"**, *the customary troparia:* **"Remember, O Lord..."** **"Lord, have mercy"** *12 times, and the prayer aloud from the priest:* **"Remember, O Lord, in hope..."** *And immediately after this prayer, the priest:* **"Glory to Thee, O God, our hope, glory to Thee."** *And the Dismissal. And the customary mutual forgiveness. And the priest having risen, says:* **"Let us pray for our most holy..."** *And upon the completion of this, the priest begins Matins, exclaiming:* **"Blessed is our God, always, now and ever, and unto ages of ages."** *Reader:* **"Amen."** *Then Trisagion:* **"O Most Holy Trinity"**: *After* **"Our Father"**, *exclamation from the priest:* **"For Thine is the kingdom..."** **"Lord, have mercy"** *12 times.* **"O come, let us worship"**: *And Psalms 19 and 20:* **"The Lord hear thee in the day of trouble [O king]..."** *and the rest of Matins according to custom as in the Horologion. At the completion of the Six Psalms, and after the Great Ectene, instead of "God is the Lord", we sing "Alleluia", to the Tone of the Octoechos that occurs, and the verses are read through. Verse 1:* **"From the night my spirit wakes early unto Thee, O God, for Thy light is upon the earth."** *Verse 2:* **"Learn righteousness, ye inhabitants of the earth..."** *and the rest. And after each verse the cantors sing Alleluia 3 times. Then we sing the Trinity Hymns of the Tone with a loud voice and lingering melody. At the 2nd verse Glory, and at the 3rd now and ever. Be it known, that at the end of the first Trinity Hymn of all eight Tones, the ending proper to the day is said, that is: on Monday:* **"Through the intercessions of Thy bodiless hosts, have mercy on us."** *Look in the Horologion or Molitvoslov. [Likewise also the 3rd Trinity Hymn ends in the same way]. Thereafter is read one Kathisma of the Psalter. After the Antiphons [Stases], at the Alleluia...*[^231]
-
-[Book Page 204]
-
-— 204 —
+*Psalm 120:* **"I have lifted up mine eyes..."** *Glory, now and ever: Trisagion. After* **"Our Father"**, *the customary troparia:* **"Remember, O Lord..."** **"Lord, have mercy"** *12 times, and the prayer aloud from the priest:* **"Remember, O Lord, in hope..."** *And immediately after this prayer, the priest:* **"Glory to Thee, O God, our hope, glory to Thee."** *And the Dismissal. And the customary mutual forgiveness. And the priest having risen, says:* **"Let us pray for our most holy..."** *And upon the completion of this, the priest begins Matins, exclaiming:* **"Blessed is our God, always, now and ever, and unto ages of ages."** *Reader:* **"Amen."** *Then Trisagion:* **"O Most Holy Trinity"**: *After* **"Our Father"**, *exclamation from the priest:* **"For Thine is the kingdom..."** **"Lord, have mercy"** *12 times.* **"O come, let us worship"**: *And Psalms 19 and 20:* **"The Lord hear thee in the day of trouble [O king]..."** *and the rest of Matins according to custom as in the Horologion. At the completion of the Six Psalms, and after the Great Ectene, instead of "God is the Lord", we sing "Alleluia", to the Tone of the Octoechos that occurs, and the verses are read through. Verse 1:* **"From the night my spirit waketh early unto Thee, O God, for Thy light is upon the earth."** *Verse 2:* **"Learn righteousness, ye inhabitants of the earth..."** *and the rest. And after each verse the cantors sing Alleluia 3 times. Then we sing the Trinity Hymns of the Tone with a loud voice and lingering melody. At the 2nd verse Glory, and at the 3rd now and ever. Be it known, that at the end of the first Trinity Hymn of all eight Tones, the ending proper to the day is said, that is: on Monday:* **"Through the intercessions of Thy bodiless hosts, have mercy on us."** *Look in the Horologion or Molitvoslov. [Likewise also the 3rd Trinity Hymn endeth in the same way]. Thereafter is read one Kathisma of the Psalter. After the Antiphons [Stases], at the Alleluia...*[^231]
 
 *...we make 3 prostrations all equally. After the Kathisma an ectene is not said during the entire Forty Days, except on Saturdays and Sundays. But at the end of the Kathisma, Alleluia, as is customary, "Lord, have mercy" 3 times, and Glory, now and ever, is said by the one reciting the verses himself. After the 1st Kathisma, the penitential Sessional Hymns of the Octoechos (which are at the end of the Triodion), and the Martyrion with the refrain:* **"Wondrous is God in His saints"**: *throughout the entire Forty Days. Thereafter Psalm 50, and immediately the priest: the prayer:* **"Save, O God, Thy people..."**: *And the choir:* **"Lord, have mercy"** *12 times. And the exclamation:* **"Through the mercy and compassions..."**: *Thereafter we say the 1st Biblical Canticle in the Psalter (of the 14 Canticles of Moses):* **"Let us sing unto the Lord..."** *And the canons we sing, as is customary, of the Octoechos and of the Menaion of the saint. In those Odes in which a Triodion comes: since there are two heirmoi, we leave aside both canons of the Octoechos, and we sing in the Menaion, or Common of Saints, the canon with the heirmos to 6, and in the Triodion to 8. And at the end is sung the Katavasia, the heirmos of the second canon of the Triodion. [According to the Greek Typika, the Octoechos is not sung throughout the entire Forty Days].*[^232]  
-☞ *Be it known: That in these Odes in which a Triodion comes, the Canticles of Moses which are at the end of the Psalter are said [or sung in the Tone of the canon of the Menaion of the saint of the day], thus: Before the heirmos of the 1st Ode of the canon of the Menaion, we say the 1st Ode in the Psalter:* **"Let us sing unto the Lord..."**: *and the verses of the canticles are said quickly, each choir its verse, until they reach:* **"The waves curdled..."**: *And from that point they begin to hold the verses to 14. And*
-
-[Book Page 205]
-
-— 205 —
-
-*the 1st choir sings the heirmos of the canon of the saint. The second choir says the second verse:* **"The enemy said..."** *And after it the troparion of the canon, and of the Triodia both to 8, thereafter Glory, Trinity Hymn in a higher voice, and now and ever, Theotokion. Then we say in the highest voice:* **"Glory to Thee, our God, glory to Thee,"** *and we sing another troparion of the Lord Theodore. At the end we sing the Katavasia, the heirmos of the second canon. In this manner is sung the 8th and 9th Ode. On Tuesday the Psalter is chanted thus: the 2nd and 3rd and 4th Ode of the Psalter. On Wednesday the 3rd, and 4th Ode. On Thursday the 4th, and 4th.*  
+☞ *Be it known: That in these Odes in which a Triodion comes, the Canticles of Moses which are at the end of the Psalter are said [or sung in the Tone of the canon of the Menaion of the saint of the day], thus: Before the heirmos of the 1st Ode of the canon of the Menaion, we say the 1st Ode in the Psalter:* **"Let us sing unto the Lord..."**: *and the verses of the canticles are said quickly, each choir its verse, until they reach:* **"The waves curdled..."**: *And from that point they begin to hold the verses to 14. And the 1st choir sings the heirmos of the canon of the saint. The second choir says the second verse:* **"The enemy said..."** *And after it the troparion of the canon, and of the Triodia both to 8, thereafter Glory, Trinity Hymn in a higher voice, and now and ever, Theotokion. Then we say in the highest voice:* **"Glory to Thee, our God, glory to Thee,"** *and we sing another troparion of the Lord Theodore. At the end we sing the Katavasia, the heirmos of the second canon. In this manner is sung the 8th and 9th Ode. On Tuesday the Psalter is chanted thus: the 2nd and 3rd and 4th Ode of the Psalter. On Wednesday the 3rd, and 4th Ode. On Thursday the 4th, and 4th.*
 *If, however, it occur on weekdays, except Saturday and Sunday, that two saints occur in order in the Menaion: we sing in the Octoechos the penitential canon with the heirmos to 6. And to the saints both canons to 8. But when the Triodion arrives, the canon in the Octoechos is left aside, and we sing both canons in the Menaion to the saints with the heirmos to 6. And in the Triodion, as was previously indicated. And thus we do every day throughout the entire Holy Forty Days. The Katavasia on weekdays throughout the entire Forty Days is sung thus: On Monday after the 1st, 3rd, 6th, and 8th and 9th Odes. On Tuesday, after the 2nd, 3rd, 6th, and 8th and 9th. On Wednesday after the 3rd, 6th, and 8th and 9th. On Thursday after the 4th, 6th, and 8th and 9th. On Friday after the 3rd, 5th, 6th, and 8th and 9th. On Saturday after the 3rd, 6th, 7th, and 8th and 9th Ode. After the 3rd Ode, the Sessional Hymn of the saint, Glory, now and ever, Theotokion (on Wednesday and Friday Stavrotheotokion). After the 6th Ode, the Kontakion...*[^233]
-
-[Book Page 206]
-
-— 206 —
 
 *...and Ikos of the saint. If the saint in the Menaion has no kontakion, then the Sessional Martyrion is said here. After the 8th Ode:* **"My soul doth magnify the Lord"**, *and* **"More honorable than the Cherubim"**. *After the 9th Ode, we sing* **"It is truly right"**: *and a prostration. Little Ectene. Thereafter the Exapostilarion Trinity Hymn of the Tone 3 times, with the proper endings, look at the end of the Triodion. Then are read the customary 3 Psalms:* **"Praise the Lord from the heavens..."**  
 *It is necessary to know: If it happen on weekdays except Saturday and Sunday, that two saints occur in order in the Menaion: we sing for the one in the evening stichera, and for the other at the Praises to 4.*  
 *Thereafter the priest says:* **"To Thee glory is due, O Lord our God"**: *And:* **"Glory to Thee Who hast shown us the light."** **"Glory to God in the highest"**: *And we make 3 metanias, standing equally in our places. Then the priest:* **"Let us complete our morning prayer unto the Lord..."**: *And thereafter [both choirs having gathered together] they sing at the Aposticha of the Triodion the idiomelon of the day with the customary refrains, and the Martyrion; Glory, now and ever, Theotokion. If there be a Glory of the saint at the Aposticha at Matins, we sing the Glory of the saint, and now and ever, Theotokion. Thereafter is said twice:* **"It is good to give praise unto the Lord..."** *Trisagion, and 3 metanias. After* **"Our Father"**: *priest exclamation. And we say the troparion:* **"Standing in the temple of Thy glory, we seem to stand in heaven: O Theotokos, gate of heaven, open unto us the door of thy mercy."** **"Lord, have mercy"** *40 times, in a meek voice; then Glory, now and ever:* **"More honorable than the Cherubim..."**: **"In the Name of the Lord bless, Father"**: *priest:* **"He that is blessed is Christ our God, always, now and ever, and unto ages of ages."** *And we:*
 
-[Book Page 207]
-
-— 207 —
-
 **"O Heavenly King, strengthen our faithful sovereigns..."**: *Thereafter we stand and pray within ourselves, saying the prayer of our venerable father Ephrem:* **"O Lord and Master of my life..."**: *dividing it into 3 parts, as was prescribed above, making 3 prostrations. And after these, 12 small ones, saying within ourselves at each one:* **"O God, cleanse me a sinner."** *At the end we say the entire above-written prayer in one:* **"O Lord and Master of my life... a spirit of chastity..."** *And one great prostration. And having risen, we begin:* **"O come, let us worship"** *3 times, and 3 metanias, and we join the First Hour. And having finished the third psalm, we say Alleluia, and three metanias. It is necessary to know: That on all Mondays of the Holy Forty Days, at the First Hour we do not say a Kathisma. [On the other days we recite a Kathisma, and make at each stasis 3 metanias. In like manner also on Friday the First Hour and the Ninth are without a Kathisma]. Then the appointed reader or priest, having stood in the midst of the church, sings the Prokeimenon, in Tone 6:* **"In the morning hear my voice, O my King and my God."** *And we sing the same in a loud voice. To both choirs 3 times. The cantor also says the verses. In which we make genuflections upon the earth [prostrations]. [When the choir sings, then the reader bows]. Thereafter Glory, now and ever:* **"What shall we call thee, O full of grace..."**: *and 3 metanias. Then we sing twice:* **"Order my steps according to Thy word, and let no iniquity have dominion over me."** *And the other choir sings the same. Then:* **"Deliver me from the oppression of men, and I will keep Thy commandments."** *Again the same.* **"Make Thy face to shine upon Thy servant, and teach me Thy statutes."** *Again the same. And this:* **"Let my mouth be filled with Thy praise, O Lord, that I may hymn Thy glory, and Thy majesty all the day long."** *we say three times in a loud voice and lingering melody...*[^234]
 
-[Book Page 208]
-
-— 208 —
-
-*...slowly. Thereafter Trisagion. 3 metanias. After* **"Our Father"**: *priest exclamation. And we say the troparia:* **"Speedily anticipate us, O Christ our God..."** *and the rest, without singing. Thereafter* **"Lord, have mercy"** *40 times. And the prayer:* **"Thou Who at every time and every hour..."** **"Lord, have mercy"** *3 times. Glory, now and ever:* **"More honorable than the Cherubim..."**, **"In the Name of the Lord, bless, Father"**: *priest:* **"God be merciful unto us and bless us..."** *And 3 prostrations with the prayer:* **"O Lord and Master of my life..."** *And the other 12. And then we begin: Trisagion. After* **"Our Father"**: **"Lord, have mercy"** *12 times. Then the prayer:* **"O Christ, the true Light, Who enlightenest and sanctifiest every man that comes into the world..."** *Thereafter the priest:* **"Glory to Thee, O Christ God, our hope, glory to Thee."** *The choir: Glory, now and ever,* **"Lord, have mercy"** *3 times,* **"Bless."** *And the Dismissal.*  
+*...slowly. Thereafter Trisagion. 3 metanias. After* **"Our Father"**: *priest exclamation. And we say the troparia:* **"Speedily anticipate us, O Christ our God..."** *and the rest, without singing. Thereafter* **"Lord, have mercy"** *40 times. And the prayer:* **"Thou Who at every time and every hour..."** **"Lord, have mercy"** *3 times. Glory, now and ever:* **"More honorable than the Cherubim..."**, **"In the Name of the Lord, bless, Father"**: *priest:* **"God be merciful unto us and bless us..."** *And 3 prostrations with the prayer:* **"O Lord and Master of my life..."** *And the other 12. And then we begin: Trisagion. After* **"Our Father"**: **"Lord, have mercy"** *12 times. Then the prayer:* **"O Christ, the true Light, Who enlightenest and sanctifiest every man that cometh into the world..."** *Thereafter the priest:* **"Glory to Thee, O Christ God, our hope, glory to Thee."** *The choir: Glory, now and ever,* **"Lord, have mercy"** *3 times,* **"Bless."** *And the Dismissal.*  
 *In this manner let Matins and the First Hour take place throughout the entire Forty Days without change. Know, that on the other days at the First and at all Hours, upon the completion of the three psalms, Glory, now and ever, Alleluia 3 times, and 3 metanias, "Lord, have mercy" 3 times, Glory, reader: now and ever, and he reads the Kathisma of the Psalter. And at each stasis we say: Alleluia 3 times, and 3 metanias. Then Glory, now and ever, the troparion of the Hours. And the rest.*  
 *The Third and Sixth Hours are said together. At the Third Hour, after the three psalms, Glory, now and ever, Alleluia, and 3 metanias. "Lord, have mercy" 3 times. Glory, reader: now and ever: and he reads the Kathisma of the cycle [see the Psalter]. And after the Kathisma Glory, now and ever, Alleluia 3 times, and 3 metanias. "Lord, have mercy" 3 times, Glory, now and ever: troparion, Tone 6:* **"O Lord, Who at the third hour didst send down Thy Most Holy Spirit upon Thine apostles, take Him not from us, O Good One, but renew Him in us who pray unto Thee."** *And verses. And the priest and both choirs make three metanias in the midst of the church. And the rest with prostrations as in the Molitvoslov.*
-
-[Book Page 209]
-
-— 209 —
 
 *At the Sixth Hour, after the Theotokion:* **"Seeing that we have no boldness, because of our many sins, do thou entreat Him that was born of thee, O Virgin Theotokos..."**: *the Troparion of the Prophecy is sung three times, Glory, now and ever, the same. Then the priest:* **"Let us attend."** *And the Prokeimenon. Priest:* **"Wisdom,"** *and the Paremia is read. And after the reading, priest:* **"Let us attend."** *The reader says the Tone, and they sing the Prokeimenon. Thus it is proper for the priest to say throughout the entire Forty Days before the Paremias. Thereafter:* **"Let Thy tender compassions speedily anticipate us, O Lord, for we are brought very low..."**, *and the rest. After* **"Thou Who at every time"**, *and after* **"More honorable than the Cherubim"**: *Priest:* **"God be merciful unto us and bless us..."**: *and 3 great prostrations with the prayer of St. Ephrem. Be it known, that at each Hour, after "More honorable than the Cherubim" in the Forty Days the priest says:* **"God be merciful unto us."** *After 16 prostrations, Trisagion, and the rest. After the prayer:* **"O God and Lord of hosts, and Maker of all creation..."**, *Priest:* **"Glory to Thee, our God, our hope, glory to Thee."**: *And the Dismissal. And there is a departure until the Ninth Hour.*[^235]  
 ☞ *Look: According to the ancient custom of the Holy Eastern Church, in the Holy Forty Days the complete Liturgy was not celebrated, except on Saturdays and Sundays.*[^236]  
 *At the Ninth Hour: The priest having given the blessing, we sing the Ninth Hour. Trisagion, and the rest of the customary beginning. At the end of the third psalm at Alleluia, 3 metanias. And the Kathisma of the cycle is chanted. After the reading of the Kathisma, the reader in the midst of the church sings the troparion in Tone 8:* **"O Thou Who at the ninth hour for our sake didst taste of death in the flesh, mortify the carnal mind of our flesh, O Christ God, and save us."** *We say also the verses, making prostrations at them: and the rest.* **"Thou Who at every time"**: *and after* **"God be merciful unto us"**, *we make 3 great prostrations, with the prayer of Saint Ephrem. But the other 12 we do not make, but we say the prayer:* **"O Master, Lord Jesus Christ our God, Who hast patiently endured our sins..."**
 
-[Book Page 210]
-
-— 210 —
-
-*And immediately the intoning choir sings, in Tone 8:* **"In Thy kingdom, when Thou comest, remember us, O Lord, remember us, O Lord, when Thou comest into Thy kingdom."** *And again the same choir:* **"Blessed are the poor in spirit, for theirs is the kingdom of heaven."** *Refrain:* **"Remember us, O Lord..."** *And the 2nd choir:* **"Blessed are they that mourn, for they shall be comforted."** **"Remember us, O Lord..."** *And the remaining Beatitudes with sweet singing in the same Tone in a loud voice and lingeringly. Glory:* **"Remember us, O Lord..."** *And now and ever:* **"Remember us, O Lord..."**: *Then both choirs having come together, sing in unison in the highest voice:* **"Remember us, O Lord, when Thou comest into Thy kingdom."** *And one prostration all equally unto the earth. And again in a higher voice:* **"Remember us, O Master, when Thou comest into Thy kingdom."** *And a prostration unto the earth. Then in a yet higher voice:* **"Remember us, O Holy One, when Thou comest into Thy kingdom."** *And a prostration unto the earth. And thereafter we say:* **"The heavenly choir hymns Thee and saith: Holy, Holy, Holy, Lord God of Sabaoth; heaven and earth are full of Thy glory."** *And the rest. After* **"Our Father"**, *the kontakion of the day and of the temple. If it be a temple of Christ, we say first that of the temple of Christ, then of the day. And of the saint of the cycle. Glory:* **"With the saints give rest, O Christ, to the souls of Thy servants..."**: *And now and ever: of the temple of the Theotokos, or:* **"Steadfast intercessor of Christians..."** **"Lord, have mercy"** *12 times.* **"In the Name of the Lord bless, Father"**: *priest:* **"God be merciful unto us and bless us..."**: *And 3 great prostrations with the prayer:* **"O Lord and Master of my life..."** *And the other 12. And immediately the sacristan rings. And we begin Vespers:* **"O come, let us worship"** *3 times. And 3 metanias. Then the customary psalm:* **"Bless the Lord, O my soul: O Lord my God, Thou art very great..."**: *The priest reads the evening prayers before the Holy Doors. Kathisma 18. At* **"Lord, I have cried"** *stichera to 6: Triodion 3, and of the saint 3, Glory, now and ever, Theotokion or Stavrotheotokion.*[^237]
-
-[Book Page 211]
-
-— 211 —
+*And immediately the intoning choir sings, in Tone 8:* **"In Thy kingdom, when Thou comest, remember us, O Lord, remember us, O Lord, when Thou comest into Thy kingdom."** *And again the same choir:* **"Blessed are the poor in spirit, for theirs is the kingdom of heaven."** *Refrain:* **"Remember us, O Lord..."** *And the 2nd choir:* **"Blessed are they that mourn, for they shall be comforted."** **"Remember us, O Lord..."** *And the remaining Beatitudes with sweet singing in the same Tone in a loud voice and lingeringly. Glory:* **"Remember us, O Lord..."** *And now and ever:* **"Remember us, O Lord..."**: *Then both choirs having come together, sing in unison in the highest voice:* **"Remember us, O Lord, when Thou comest into Thy kingdom."** *And one prostration all equally unto the earth. And again in a higher voice:* **"Remember us, O Master, when Thou comest into Thy kingdom."** *And a prostration unto the earth. Then in a yet higher voice:* **"Remember us, O Holy One, when Thou comest into Thy kingdom."** *And a prostration unto the earth. And thereafter we say:* **"The heavenly choir hymneth Thee and saith: Holy, Holy, Holy, Lord God of Sabaoth; heaven and earth are full of Thy glory."** *And the rest. After* **"Our Father"**, *the kontakion of the day and of the temple. If it be a temple of Christ, we say first that of the temple of Christ, then of the day. And of the saint of the cycle. Glory:* **"With the saints give rest, O Christ, to the souls of Thy servants..."**: *And now and ever: of the temple of the Theotokos, or:* **"Steadfast intercessor of Christians..."** **"Lord, have mercy"** *12 times.* **"In the Name of the Lord bless, Father"**: *priest:* **"God be merciful unto us and bless us..."**: *And 3 great prostrations with the prayer:* **"O Lord and Master of my life..."** *And the other 12. And immediately the sacristan rings. And we begin Vespers:* **"O come, let us worship"** *3 times. And 3 metanias. Then the customary psalm:* **"Bless the Lord, O my soul: O Lord my God, Thou art very great..."**: *The priest reads the evening prayers before the Holy Doors. Kathisma 18. At* **"Lord, I have cried"** *stichera to 6: Triodion 3, and of the saint 3, Glory, now and ever, Theotokion or Stavrotheotokion.*[^237]
 
 *And after* **"O Gladsome Light"** *is sung the Prokeimenon, and the reading from Genesis. Thereafter another Prokeimenon of the Paremia. And the 2nd reading from Proverbs. For throughout the entire Great Forty Days in the evening is read one Paremia from Genesis, and the other from Proverbs. Then immediately:* **"Vouchsafe, O Lord, to keep us this evening without sin."** *And 3 metanias. Priest:* **"Let us complete our evening prayer unto the Lord..."**: *And after the exclamation, both choirs having gathered together: sing the stichera at the Aposticha in the Triodion. Then both choirs depart to their places and say:* **"Now lettest Thou Thy servant depart in peace..."** *Trisagion. After* **"Our Father"**: *Priest exclamation. Then they sing:* **"O Theotokos and Virgin, rejoice..."** *Prostration.* **"Glory: O Baptizer of Christ..."**, *and the rest. After the prayer:* **"O Heavenly King"**, *we make the customary 3 great prostrations with the prayer of the venerable Ephrem:* **"O Lord and Master of my life..."**: *and the other 12 small ones, and again the prescribed prayer in its entirety in one, and one prostration. And after these Trisagion: after* **"Our Father"**: **"Lord, have mercy"** *12 times. Then the prayer:* **"O All-Holy Trinity, Consubstantial Might..."** *And* **"Blessed be the name of the Lord"** *3 times, and 3 metanias. And reader: Glory, now and ever, Psalm:* **"I will bless the Lord at all times..."** *Thereafter:* **"It is truly right..."**: *And a prostration. Thereafter the other choir sings: Glory, now and ever,* **"Lord, have mercy"** *3 times,* **"Bless."** *And the priest says the daily Dismissal.*  
 *This order of the Lychnikon (Vespers) takes place in the entire Holy Forty Days when there is no Presanctified. For the Presanctified is celebrated only on Wednesday and Friday. We sing Great Compline with prostrations.*[^238]
 
-[Book Page 212]
-
-— 212 —
-
 ### On Great Compline in the Holy Forty Days
 *Great Compline is sung on Monday, Tuesday, Wednesday, and Thursday of the Holy Forty Days thus: The priest having taken the epitrachelion and stood before the Royal Doors, says:* **"Blessed is our God, always, now and ever, and unto ages of ages."** *We then begin:* **"Glory to Thee, our God, glory to Thee."** **"O Heavenly King..."**, *and the rest of the customary beginning. After* **"O come, let us worship"**, *3 metanias. And immediately Psalm 69:* **"O God, draw nigh unto my help; O Lord, make haste to help me."** [Въ про́чїихъ же седми́цахъ глаго́лемъ се́й ѱало́мъ по мл҃твѣ: Влⷣко Бж҃е Ѻ҆́ч҃е:] *[In the other weeks we say this psalm after the prayer: "O Master God, Father Almighty":]. Then we begin the Great Canon of Andrew of Crete, which is composed in four parts, and is completed on Thursday evening, Tone 6. The heirmoi twice. We make at each troparion three metanias, saying the refrain:* **"Have mercy on me, O God, have mercy on me."** [*This canon at the beginning of Compline is sung only in the 1st week of the Holy Fast*]. *After the 6th Ode, at the end the heirmos:* **"Of seedless conception..."** *Upon the completion of the canon, we begin Psalm 4:* **"When I called, the God of my righteousness heard me."** *In like manner also the other psalms of Compline. At Alleluia 3 metanias. Then the 1st choir begins to say:* **"God is with us, understand, ye nations, and submit yourselves: for God is with us."** *The second choir the same. And we say the verses in a loud voice: each choir its verse.* **"I believe in one God..."** *we say in a low voice. Then:* **"O Most Holy Lady Theotokos, pray to God for us sinners,"** *twice. While the 1st choir says this, the other choir makes a prostration. And when the other choir rises and responds, the 1st choir makes a prostration. In like manner also at the other verses.*[^239]
 
-[Book Page 213]
-
-— 213 —
-
-**"O God, cleanse me a sinner"** *3 times. Thereafter Trisagion, and after* **"Our Father"**: *we sing the troparia, on Monday and Wednesday:* **"Enlighten mine eyes, O Christ God, lest I sleep in death..."** *Verse:* **"Look down and hear me, O Lord my God."** *and again the same. On Tuesday and Thursday evening, the troparion:* **"The invisible enemies that war against me Thou knowest, O Lord..."** *Verse:* **"How fearful is Thy judgment seat, O Lord..."** *and the rest.* **"Lord, have mercy"** *40 times, Glory, now and ever,* **"More honorable than the Cherubim..."** **"In the Name of the Lord, bless, Father"**: *Priest verse:* **"Through the prayers of the holy fathers, O Lord Jesus Christ our God, have mercy on us,"** *and he reads the prayer:* **"O Lord, Lord, Who hast delivered us from every arrow that flies by day..."** *Then* **"O come, let us worship"** *3 times, and Psalms 50 and 101. And the Prayer of Manasseh is read in a loud voice by the priest before the Royal Doors:* **"O Lord Almighty, God of our fathers, of Abraham, Isaac, and Jacob, and of their righteous seed..."** *After this, Trisagion, and after* **"Our Father"**, *we say the troparia:* **"Have mercy on us, O Lord, have mercy on us..."** **"Lord, have mercy"** *40 times, Glory, now and ever,* **"More honorable than the Cherubim..."** **"In the Name of the Lord, bless, Father."** *Priest verse:* **"Through the prayers of the saints..."** *And the prayer:* **"O Master God, Father Almighty, O Lord, the Only-begotten Son, Jesus Christ, and the Holy Spirit..."** **"O come, let us worship..."** *And 3 metanias. And* **"O Lord, hear my prayer, give ear unto my supplication in Thy truth..."** *And* **"Glory to God in the highest..."** **"Lord, Thou hast been our refuge from generation to generation."** **"Vouchsafe, O Lord, to keep us this night without sin."** *Then Trisagion, 3 metanias, and after* **"Our Father"**: *Priest:* **"For Thine is the kingdom..."**: *Then we sing in a loud voice and lingering melody, in Tone 6:* **"O Lord of hosts, be with us; for besides Thee we have no other helper in distress: O Lord of hosts, have mercy on us."** *And the other choir responds the same. And the 1st choir says the verse:* **"Praise God in His saints; praise Him in the firmament of His power."** *and the troparion:* **"O Lord of hosts, be with us..."** *Then the same troparion the other choir at each verse. Upon the completion of the five verses, both choirs say together the first verse and troparion. Then the choir that began begins: Glory:* **"O Lord, if we had not had Thy saints as intercessors, and Thy goodness pitying us, how should we have dared, O Saviour, to hymn Thee..."** *And...*[^240]
-
-[Book Page 214]
-
-— 214 —
+**"O God, cleanse me a sinner"** *3 times. Thereafter Trisagion, and after* **"Our Father"**: *we sing the troparia, on Monday and Wednesday:* **"Enlighten mine eyes, O Christ God, lest I sleep in death..."** *Verse:* **"Look down and hear me, O Lord my God."** *and again the same. On Tuesday and Thursday evening, the troparion:* **"The invisible enemies that war against me Thou knowest, O Lord..."** *Verse:* **"How fearful is Thy judgment seat, O Lord..."** *and the rest.* **"Lord, have mercy"** *40 times, Glory, now and ever,* **"More honorable than the Cherubim..."** **"In the Name of the Lord, bless, Father"**: *Priest verse:* **"Through the prayers of the holy fathers, O Lord Jesus Christ our God, have mercy on us,"** *and he reads the prayer:* **"O Lord, Lord, Who hast delivered us from every arrow that flieth by day..."** *Then* **"O come, let us worship"** *3 times, and Psalms 50 and 101. And the Prayer of Manasseh is read in a loud voice by the priest before the Royal Doors:* **"O Lord Almighty, God of our fathers, of Abraham, Isaac, and Jacob, and of their righteous seed..."** *After this, Trisagion, and after* **"Our Father"**, *we say the troparia:* **"Have mercy on us, O Lord, have mercy on us..."** **"Lord, have mercy"** *40 times, Glory, now and ever,* **"More honorable than the Cherubim..."** **"In the Name of the Lord, bless, Father."** *Priest verse:* **"Through the prayers of the saints..."** *And the prayer:* **"O Master God, Father Almighty, O Lord, the Only-begotten Son, Jesus Christ, and the Holy Spirit..."** **"O come, let us worship..."** *And 3 metanias. And* **"O Lord, hear my prayer, give ear unto my supplication in Thy truth..."** *And* **"Glory to God in the highest..."** **"Lord, Thou hast been our refuge from generation to generation."** **"Vouchsafe, O Lord, to keep us this night without sin."** *Then Trisagion, 3 metanias, and after* **"Our Father"**: *Priest:* **"For Thine is the kingdom..."**: *Then we sing in a loud voice and lingering melody, in Tone 6:* **"O Lord of hosts, be with us; for besides Thee we have no other helper in distress: O Lord of hosts, have mercy on us."** *And the other choir responds the same. And the 1st choir says the verse:* **"Praise God in His saints; praise Him in the firmament of His power."** *and the troparion:* **"O Lord of hosts, be with us..."** *Then the same troparion the other choir at each verse. Upon the completion of the five verses, both choirs say together the first verse and troparion. Then the choir that began begins: Glory:* **"O Lord, if we had not had Thy saints as intercessors, and Thy goodness pitying us, how should we have dared, O Saviour, to hymn Thee..."** *And...*[^240]
 
 *...now and ever:* **"A great multitude of my transgressions dost thou cleanse, O Theotokos..."**, *and the rest.* **"Lord, have mercy"** *3 times. Glory:* **"More honorable than the Cherubim..."**: **"In the Name of the Lord, bless, Father."** *Priest:* **"God be merciful unto us and bless us..."** *And 16 prostrations with the prayer of Saint Ephrem:* **"O Lord and Master of my life..."**: *Trisagion. After* **"Our Father"**, **"Lord, have mercy"** *12 times. And we say the prayer:* **"O undefiled, untainted, uncorrupted, most pure, chaste Virgin..."**, *and:* **"And grant unto us, O Master, as we depart to sleep, rest of body and soul..."** **"My hope is the Father, my refuge is the Son, my protection is the Holy Spirit: O Holy Trinity, glory to Thee."** *Thereafter immediately the priest says:* **"Glory to Thee, O Christ God, our hope, glory to Thee."** *Choir:* **"Lord, have mercy"** *3 times.* **"Bless."** *While all are bowed down unto the earth, the priest says instead of the Dismissal, the Litiya prayer, which is in Great Vespers:* **"O Master plentiful in mercy, Lord Jesus Christ our God, through the intercessions of our all-immaculate Lady, the Theotokos and Ever-Virgin Mary..."** *And after the prayer, when we have risen, the superior makes a prostration unto the earth, and says to the brethren:* **"Bless, holy fathers and brethren, and forgive me a sinner..."** *and the rest. The priest says:* **"Let us pray for our most holy ecumenical pontiff... For our sovereign Emperor..."** *and the rest, as in the Midnight Office.*[^241]  
 ☞ *Be it known, that we have set down one day of the Holy Forty Days accurately and with certainty, that this may serve as the model and pattern for the entire Holy Forty Days.*
 
 ### On Wednesday of the First Week in the Evening
-*When the priest is to celebrate the Presanctified, after the Hours, after the 16 prostrations, we say the Trisagion. And* **"Our Father"**: **"Lord, have mercy"** *12 times. And the prayer:* **"O All-Holy Trinity..."** *Thereafter* **"It is truly right..."**: *and the Dismissal. And the priest makes the beginning of Vespers according to custom, as in the Sluzhebnik. And at each stasis of the kathisma-reading, the priest or*
-
-[Book Page 215]
-
-— 215 —
-
-*deacon says the Little Ectene. And there is an entrance with the censer. And the rest of the Presanctified, as was indicated on folio 68. It is necessary to know, that when the singer sings in the midst of the church:* **"Let my prayer be set forth as incense before Thee, the lifting up of my hands as an evening sacrifice,"** *then both choirs and all the people, having bent the knees, pray within themselves secretly. But when the verses, that is,* **"Lord, I have cried unto Thee, hear me..."** *and the rest, the singer sings, no one bows. But when the choirs sing, the singer alone bends his knees, on the place where he stands. But as for the choirs: when the first choir sings, the second with half of the people standing in church kneels down. In like manner also the first does, when the second sings. When, however, the last:* **"Let my prayer be set forth..."** *the singer sings, again with both choirs all the people also bend their knees, as in the beginning. The priest and the deacon, having stood before the holy Table, await the completion of the singing, and upon its completion make prostrations.*  
+*When the priest is to celebrate the Presanctified, after the Hours, after the 16 prostrations, we say the Trisagion. And* **"Our Father"**: **"Lord, have mercy"** *12 times. And the prayer:* **"O All-Holy Trinity..."** *Thereafter* **"It is truly right..."**: *and the Dismissal. And the priest makes the beginning of Vespers according to custom, as in the Sluzhebnik. And at each stasis of the kathisma-reading, the priest or deacon says the Little Ectene. And there is an entrance with the censer. And the rest of the Presanctified, as was indicated on folio 68. It is necessary to know, that when the singer sings in the midst of the church:* **"Let my prayer be set forth as incense before Thee, the lifting up of my hands as an evening sacrifice,"** *then both choirs and all the people, having bent the knees, pray within themselves secretly. But when the verses, that is,* **"Lord, I have cried unto Thee, hear me..."** *and the rest, the singer sings, no one bows. But when the choirs sing, the singer alone bends his knees, on the place where he stands. But as for the choirs: when the first choir sings, the second with half of the people standing in church kneels down. In like manner also the first does, when the second sings. When, however, the last:* **"Let my prayer be set forth..."** *the singer sings, again with both choirs all the people also bend their knees, as in the beginning. The priest and the deacon, having stood before the holy Table, await the completion of the singing, and upon its completion make prostrations.*
 ☞ *It is necessary to know, if the feast of the Finding of the Precious Head, or of the Holy 40 Martyrs happen on Wednesday or Friday, at the Presanctified there is an entrance with the Gospel. And upon the completion of* **"Let my prayer be set forth..."**, *immediately the holy doors being opened, we sing the Prokeimenon. Epistle, Alleluia, Gospel, and the rest according to custom. At the Dismissal we commemorate first the celebrated saints, then the one whose day it is.*[^242]
 
 ### On Friday of the First Week in the Evening
 *Vespers together with the Presanctified. After the customary kathisma-reading, at* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *we sing stichera...*
-
-[Book Page 216]
-
-— 216 —
 
 *...idiomela of the day 2, and 4 martyria of the Tone that occurs. Then of Saint Theodore 4, in the Triodion. Entrance with the censer, and the rest of the Presanctified. After the prayer behind the ambo [Ambo Prayer], if there be an offering of Kolyvo, the Molieben Canon of Saint Theodore is sung, as in the Triodion.*  
 ☞ *It is necessary to know: That on all Fridays of the Holy Forty Days at Vespers and Compline we do not make prostrations, except those appointed in the Presanctified, which is: After* **"Let my prayer be set forth"** *3 prostrations, after the entrance of the Holy Gifts, and at* **"Blessed be the name of the Lord"** *3 prostrations. Compline we customarily sing Little. Where Great is sung, we say after the 1st Trisagion, the troparion of the Martyr Theodore, Glory, now and ever, Resurrectional Theotokion. After the 2nd the customary troparia:* **"Have mercy on us, O Lord..."** *And we sing the Canon for the Reposed of the present Tone. After the Trisagion, the kontakion of the Martyr.* **"O Lord of hosts, be with us"** *we do not sing, and the rest. After the prayers, the Little Dismissal. Look. Be it known: that the office of the Menaion of the saints occurring on the Saturdays and Sundays of the Holy Forty Days, is sung at Compline or whenever the ecclesiarches decides.*[^243]
@@ -3114,10 +2403,6 @@ The Expulsion of Adam from Paradise.
 ### On the First Saturday of the Holy Fast
 In which we celebrate the memory of the miracle of the Kolyvo that was wrought by the Holy Great-Martyr Theodore the Recruit (*Theodore Teron*).  
 *At the Saturday Midnight Office according to custom. At Matins we sing:* **"God is the Lord"**, *in Tone 2, and the troparion of Saint Theodore, twice, and the rest in the Triodion. At the Liturgy, the Epistle and Gospel of the day and of the saint.*
-
-[Book Page 217]
-
-— 217 —
 
 ### On the First Sunday of the Holy and Great Fast
 In which Orthodoxy, that is: the Restoration of the Holy Icons, is commemorated.  
@@ -3128,12 +2413,7 @@ In which Orthodoxy, that is: the Restoration of the Holy Icons, is commemorated.
 ☞ *Note: That on the Sundays of the Great Forty Days (except Palm Sunday) the Divine Liturgy of the Great Basil is celebrated.*
 
 ### On That Same First Sunday in the Evening
-*At* **"Lord, I have cried"** (*Го́споди воззва́хъ*), *we sing penitential stichera of the Octoechos, 4. Written on Sunday evening, at the Aposticha two, and on Monday at Matins at the Aposticha two, and of the Triodion 3, and of the saint 3. Entrance. Great Prokeimenon:* **"Thou hast given an inheritance unto them that fear Thee, O Lord."** *With verses. It is necessary to know that...*[^244] [Book Page 218]
-
----
-
-
-— 218 —
+*At* **"Lord, I have cried"** (*Го́споди воззва́хъ*), *we sing penitential stichera of the Octoechos, 4. Written on Sunday evening, at the Aposticha two, and on Monday at Matins at the Aposticha two, and of the Triodion 3, and of the saint 3. Entrance. Great Prokeimenon:* **"Thou hast given an inheritance unto them that fear Thee, O Lord."** *With verses. It is necessary to know that...*[^244]
 
 these two Great Prokeimena, that is: **"Turn not away Thy face"** (*Не отврати лица*): and **"Thou hast given an inheritance"** (*И далъ еси достояніе*): with their verses, are sung one by one throughout the entire Holy Fast, beginning from Cheesefare Sunday unto Palm Sunday.[^245] After the Prokeimenon the doors are closed. And immediately: **"Vouchsafe, O Lord"** (*Сподоби Господи*): **"Let us complete"** (*Исполнимъ*), and the rest, as on Cheesefare Sunday. Thus it ought to be also on the other Sundays of the Holy Forty Days at Vespers.
 
@@ -3143,248 +2423,147 @@ these two Great Prokeimena, that is: **"Turn not away Thy face"** (*Не отв�
 ### On the Second Saturday of the Fasts
 *At Matins, after the Great Ectene, we sing Alleluia in Tone 8, with the verses for the departed, as on Meatfare Saturday, leaf 193. Troparion of the day:*
 
-[Book Page 219]
-
-— 219 —
-
-**"Apostles, Martyrs, and Prophets"**, *thrice; Glory, for the dead:* **"Remember, O Lord, Thy servants"**; *Now and ever:* **"Holy Mother of the Ineffable Light"**. *Kathisma 16 is read, and the sessional hymn of the Octoechos. Then we sing the Blameless [Amomos, Psalm 118] with the refrains:* **"Blessed art Thou, O Lord: teach me Thy statutes."** *We divide it into two staseis. The Priest censes in the midst of the Kathisma, and makes the ectene for the departed and the rest, as on leaf 194, on Meatfare Saturday. After the 3rd Ode the customary ectene, and not for the departed. From the 6th Ode the four-canto canon [tetraodion] of the Triodion begins; then the canon of the temple is omitted. The 6th biblical ode which is in the Psalter we do not say, but sing it in the refrains. The Canon of the Menaion precedes. After the 6th Ode, the ectene for the departed. After the 9th Ode, the customary ectene. The rest as on Meatfare Saturday. At the Liturgy the service of the day, and for the departed.[^247]*  
-☞ *In this manner therefore the service for the departed takes place also on the 3rd and 4th Saturdays of the Fast. Note: On the 2nd Sunday of the Fasts the service of the saint is also sung.*
+**"Apostles, Martyrs, and Prophets"**, *thrice; Glory, for the dead:* **"Remember, O Lord, Thy servants"**; *Now and ever:* **"Holy Mother of the Ineffable Light"**. *Kathisma 16 is read, and the sessional hymn of the Octoechos. Then we sing the Blameless [Amomos, Psalm 118] with the refrains:* **"Blessed art Thou, O Lord: teach me Thy statutes."** *We divide it into two staseis. The Priest censeth in the midst of the Kathisma, and maketh the ectene for the departed and the rest, as on leaf 194, on Meatfare Saturday. After the 3rd Ode the customary ectene, and not for the departed. From the 6th Ode the four-canto canon [tetraodion] of the Triodion beginneth; then the canon of the temple is omitted. The 6th biblical ode which is in the Psalter we do not say, but sing it in the refrains. The Canon of the Menaion precedeth. After the 6th Ode, the ectene for the departed. After the 9th Ode, the customary ectene. The rest as on Meatfare Saturday. At the Liturgy the service of the day, and for the departed.[^247]*  
+☞ *In this manner therefore the service for the departed taketh place also on the 3rd and 4th Saturdays of the Fast. Note: On the 2nd Sunday of the Fasts the service of the saint is also sung.*
 
 ### On the Third Sunday of the Holy and Great Fast
 The Veneration of the Precious and Life-Giving Cross is Celebrated.  
-*On Saturday after the Dismissal of (Little) Vespers, the Priest enters the vestry [skeuophylakion], and having censed, takes the Precious Wood with sweet-smelling basil. While a taper-bearer and censer precede him, as they sing the troparion:* **"Save, O Lord, Thy people, and bless Thine inheritance"**, *he carries it unto the Holy Table, as on September 14.[^248]*  
+*On Saturday after the Dismissal of (Little) Vespers, the Priest entereth the vestry [skeuophylakion], and having censed, taketh the Precious Wood with sweet-smelling basil. While a taper-bearer and censer precede him, as they sing the troparion:* **"Save, O Lord, Thy people, and bless Thine inheritance"**, *he carrieth it unto the Holy Table, as on September 14.[^248]*  
 *At Great Vespers, at* **"Lord, I have cried"** (*Го́споди воззва́хъ*), *stichera of the Octoechos 6, and of the Triodion 4. At the Litiya, the sticheron of the temple...*
 
-[Book Page 220]
-
-— 220 —
-
 *Glory, now and ever, of the Triodion. At the blessing of loaves, troparion:* **"O Theotokos and Virgin, rejoice"** *twice, and of the Cross:* **"Save, O Lord, Thy people"** *once. If there be no Litiya, the Resurrectional troparion, Glory, now and ever, of the Cross.*  
-*At Matins, at* **"God is the Lord"** (*Богъ Господь*), *the Resurrectional troparion twice; Glory, now and ever, of the Cross. After the kathismata, the Resurrectional sessional hymns. The Blameless [Amomos] and the Angelic Council [Evlogitaria]. Gradual hymns [Hypakoë and Anabathmoi], and the Prokeimenon of the Tone. Sunday Gospel.* **"Having beheld the Resurrection of Christ"**, *and the rest. At the Praises, Resurrectional stichera 4, and of the Cross 3 on 4. The Great Doxology in a quiet voice. When they begin to sing:* **"Glory to God in the highest"**: *then the Priest comes, vested in all the sacerdotal vestments [or if there be a senior priest anywhere, it ought to be performed by the senior in their ranks]. And taking the censer, he censes the Holy Table and the Precious Cross. Then he lifts it up upon the diskos upon his head, and issues forth from the left side of the Holy Table through the north door, two tapers and a censer preceding him, and they go unto the Holy Doors [Royal Doors]. When the Doxology and the Trisagion are concluded, the Priest saith:* **"Wisdom! Stand upright!"** *And we begin the troparion:* **"Save, O Lord, Thy people"**, *thrice. And the Priest comes carrying the Precious Cross unto the Tetrapod prepared in the midst of the church, and the Precious Cross is placed upon it, and he censes it cruciformly from the four sides. And immediately we sing the troparion, Tone 6:* **"Before Thy Cross we bow down in worship, O Master, and Thy holy Resurrection we glorify"** (*Кресту твоему покланяемся Владыко, и святое воскресеніе твое славимъ*), *thrice. And they begin to bow down...*
+*At Matins, at* **"God is the Lord"** (*Богъ Господь*), *the Resurrectional troparion twice; Glory, now and ever, of the Cross. After the kathismata, the Resurrectional sessional hymns. The Blameless [Amomos] and the Angelic Council [Evlogitaria]. Gradual hymns [Hypakoë and Anabathmoi], and the Prokeimenon of the Tone. Sunday Gospel.* **"Having beheld the Resurrection of Christ"**, *and the rest. At the Praises, Resurrectional stichera 4, and of the Cross 3 on 4. The Great Doxology in a quiet voice. When they begin to sing:* **"Glory to God in the highest"**: *then the Priest cometh, vested in all the sacerdotal vestments [or if there be a senior priest anywhere, it ought to be performed by the senior in their ranks]. And taking the censer, he censeth the Holy Table and the Precious Cross. Then he lifteth it up upon the diskos upon his head, and issueth forth from the left side of the Holy Table through the north door, two tapers and a censer preceding him, and they go unto the Holy Doors [Royal Doors]. When the Doxology and the Trisagion are concluded, the Priest saith:* **"Wisdom! Stand upright!"** *And we begin the troparion:* **"Save, O Lord, Thy people"**, *thrice. And the Priest cometh carrying the Precious Cross unto the Tetrapod prepared in the midst of the church, and the Precious Cross is placed upon it, and he censeth it cruciformly from the four sides. And immediately we sing the troparion, Tone 6:* **"Before Thy Cross we bow down in worship, O Master, and Thy holy Resurrection we glorify"** (*Кресту твоему покланяемся Владыко, и святое воскресеніе твое славимъ*), *thrice. And they begin to bow down...*
 
-[Book Page 221]
-
-— 221 —
-
-*...if in a cathedral church, the primate among the clergy, and likewise the other priests, bowing down before the Precious Cross twice, the senior priest venerates first, and after the kissing he bows down again once. The other priests and laity do likewise. While they bow down, we sing the idiomelon stichera, Tone 2:* **"Come, O ye faithful, let us worship the life-giving Tree..."** *and the rest. Then the ectenes:* **"Have mercy on us, O God"**, **"Let us complete"**, *and the Dismissal. And the Gospel sticheron in the narthex. And the First Hour. At the First Hour, the Resurrectional troparion, Glory, of the Cross, and now and ever, Theotokion of the Hours. After the Trisagion, the kontakion of the Cross, and the rest according to custom. At the Liturgy we sing after the Entrance: the Resurrectional troparion and of the Cross, Glory, now and ever, kontakion of the Cross. Instead of the Trisagion we sing:* **"Before Thy Cross we bow down in worship, O Master, and Thy holy Resurrection we glorify."**[^249]  
+*...if in a cathedral church, the primate among the clergy, and likewise the other priests, bowing down before the Precious Cross twice, the senior priest venerateth first, and after the kissing he boweth down again once. The other priests and laity do likewise. While they bow down, we sing the idiomelon stichera, Tone 2:* **"Come, O ye faithful, let us worship the life-giving Tree..."** *and the rest. Then the ectenes:* **"Have mercy on us, O God"**, **"Let us complete"**, *and the Dismissal. And the Gospel sticheron in the narthex. And the First Hour. At the First Hour, the Resurrectional troparion, Glory, of the Cross, and now and ever, Theotokion of the Hours. After the Trisagion, the kontakion of the Cross, and the rest according to custom. At the Liturgy we sing after the Entrance: the Resurrectional troparion and of the Cross, Glory, now and ever, kontakion of the Cross. Instead of the Trisagion we sing:* **"Before Thy Cross we bow down in worship, O Master, and Thy holy Resurrection we glorify."**[^249]  
 
 ### On Monday of the Fourth Week
 *At Matins according to Lenten custom. At the First Hour we make veneration of the Precious Cross, as on Sunday, singing instead of:* **"Order my steps"**: **"Before Thy Cross we bow down in worship, O Master."** *While the brethren bow down, we sing the stichera, Tone 2:* **"Come, O ye faithful."** *After the Trisagion we say the kontakion of the Cross. Likewise also at the other Hours we sing after the Trisagion the kontakion of the Cross. It is proper to know: That we make the veneration of the Precious Cross according to the above-written manner at the First Hour on Monday, Wednesday, and Friday.*  
 *On Friday we restore [repose] the Cross, as will be set forth there.*
 
-[Book Page 222]
-
-— 222 —
-
 ### On Wednesday of the Fourth Week
-*The customary order, as on every day in the Fast. The Canon of the Octoechos and of the Cross, and the triodion [three-canto canon] according to custom. Where the triodion occurs, the Canon of the Octoechos is omitted. At the First Hour we also make veneration of the Cross, as was declared concerning this on Monday.*  
+*The customary order, as on every day in the Fast. The Canon of the Octoechos and of the Cross, and the triodion [three-canto canon] according to custom. Where the triodion occurreth, the Canon of the Octoechos is omitted. At the First Hour we also make veneration of the Cross, as was declared concerning this on Monday.*  
 *From this Wednesday evening there is said at the Presanctified Liturgies only the twofold ectene of the catechumens:* **"As many as are for enlightenment, draw near..."** (*Елицы къ просвѣщенію*), *as is written in the Sluzhebniks.[^250]*  
-☞ *On Thursday at Compline we sing the canon of the saint whose commemoration falls on Friday.*
+☞ *On Thursday at Compline we sing the canon of the saint whose commemoration falleth on Friday.*
 
 ### On Friday of the Fourth Week
-*We sing the entire service, evening and morning, as was prescribed for Wednesday. At the First Hour veneration of the Cross takes place, as on Monday. And after the Dismissal of the Hours, the Priest, vested in phelonion, issues forth with two taper-bearers and censer unto the Tetrapod, where the Precious Cross is laid. And veneration of the Precious Cross takes place, while we sing the idiomelon stichera:* **"Come, O ye faithful"**, *as was declared before. Then after the kissing, censing takes place around the Tetrapod, and the Precious Cross is taken up by the Priest, and carried away with tapers and censer into the holy sanctuary, while they sing the troparion:* **"Save, O Lord, Thy people"**, *and the kontakion:* **"Thou Who wast lifted up upon the Cross of Thine own will..."** (*Вознесыйся на крестъ*).[^251]*
-
-[Book Page 223]
-
-— 223 —
+*We sing the entire service, evening and morning, as was prescribed for Wednesday. At the First Hour veneration of the Cross taketh place, as on Monday. And after the Dismissal of the Hours, the Priest, vested in phelonion, issueth forth with two taper-bearers and censer unto the Tetrapod, where the Precious Cross is laid. And veneration of the Precious Cross taketh place, while we sing the idiomelon stichera:* **"Come, O ye faithful"**, *as was declared before. Then after the kissing, censing taketh place around the Tetrapod, and the Precious Cross is taken up by the Priest, and carried away with tapers and censer into the holy sanctuary, while they sing the troparion:* **"Save, O Lord, Thy people"**, *and the kontakion:* **"Thou Who wast lifted up upon the Cross of Thine own will..."** (*Вознесыйся на крестъ*).[^251]*
 
 ### On Wednesday of the Fifth Week in the Evening
 *We recite the Kathisma of the Psalter in order, Kathisma 6. At* **"Lord, I have cried"** (*Го́споди воззва́хъ*), *we set 30 stichera: and the idiomelon sticheron of the day is sung twice, and 3 prosomoia martyria. And thereafter the other 24 stichera according to the alphabet of the Great Canon. And we make a prostration at every verse. We begin to add the refrains from:* **"Let the wicked fall into their own net"** [Psalm 140:10]. *When the refrains end, we add as refrain to the rest:* **"Glory to Thee, our God, glory to Thee."** *At the last sticheron we sing in a higher voice:* Glory: **"O of Thine ineffable dispensation..."** *Entrance.* **"O Gladsome Light"** (*Свѣ́те ти́хїй*). *Readings:* **"Let my prayer be set forth"** (*Да исправится*). *And the rest of the order of the Presanctified. Little Compline we say in the cells without prostrations; after the Trisagion, the kontakion of Andrew's Canon. Likewise also the Midnight Office.*  
 ☞ *On this Wednesday evening [at nightfall] Matins of Thursday of the Fifth Week is also sung, with the Great Canon of the Venerable Andrew and with prostrations, as is set forth a little below:[^252]*
 
 ### Thursday of the Fifth Week of the Holy Fasts
-*The bell is rung at the 4th hour of the night [4:00 PM on Wednesday]. And when we are gathered into the church, the Priest, having taken upon himself the epitrachelion, makes the beginning:* **"Blessed is our God..."** *And we say:* **"O Heavenly King"**, *Trisagion, and* **"Our Father"**. **"Lord, have mercy"** *12 times; Glory, now and ever:* **"O come, let us worship"**; *the two Psalms: 19 and 20, and the rest of the beginning of Matins. After the Six Psalms and after the Ectene, we sing Alleluia and the Trinity Hymns...*
-
-[Book Page 224]
-
-— 224 —
+*The bell is rung at the 4th hour of the night [4:00 PM on Wednesday]. And when we are gathered into the church, the Priest, having taken upon himself the epitrachelion, maketh the beginning:* **"Blessed is our God..."** *And we say:* **"O Heavenly King"**, *Trisagion, and* **"Our Father"**. **"Lord, have mercy"** *12 times; Glory, now and ever:* **"O come, let us worship"**; *the two Psalms: 19 and 20, and the rest of the beginning of Matins. After the Six Psalms and after the Ectene, we sing Alleluia and the Trinity Hymns...*
 
 *...of the Tone, as is customary. And we recite one Kathisma, Kathisma 8. And the sessional hymn of the Octoechos, Glory, now and ever, Theotokion. And we read the Life of the Venerable Mary [of Egypt], in two staseis.[^253] Then Psalm 50. The prayer from the Priest:* **"Save, O God, Thy people"**, *and the exclamation:* **"By the mercy and compassions..."** *The biblical odes we do not recite. And immediately we begin the Great Canon, slowly [prolongedly] and with a contrite heart and voice. A composition of the Venerable Andrew of Crete, Tone 6, heirmos:* **"A helper and protector hath He become unto me for salvation..."** (*Помощникъ и покровитель*). *Thereafter the troparia, making at each 3 metanias [bows/prostrations], chanting the refrain:* **"Have mercy on me, O God, have mercy on me."**  
-*Note: Be it known, that when one choir sings, then the other makes prostrations, for the sake of good order. When the canon of the Venerable Mary arrives, we say to those verses the refrain:* **"Venerable Mother Mary, pray unto God for us."** *And to the verses of the Venerable Andrew:* **"Venerable Father Andrew, pray unto God for us."** *After the 3rd Ode, the heirmos:* **"Establish, O Lord, upon the rock of Thy commandments..."** *The sessional hymn of the Apostles, and the rest. Then we say the triodion without metanias; the heirmos of the triodion we do not sing, and "Glory", "now and ever" we do not say. To the verses we say the refrain:* **"Holy Apostles, pray unto God for us."** *Likewise also at the 8th and 9th Odes, when the triodion is uttered. And thereafter we sing the heirmos of the Great Canon. And after the 6th Ode, as katavasia the same heirmos. Kontakion, Tone 6:* **"My soul, my soul, arise, why sleepest thou? The end draws near..."** (*Душе моя, душе моя, востани, что спиши?*). *Thereafter the Beatitudes of the Great Canon with metanias. After the 8th Ode:* **"We praise, we bless, we worship the Lord..."** *And...*
-
-[Book Page 225]
-
-— 225 —
+*Note: Be it known, that when one choir singeth, then the other maketh prostrations, for the sake of good order. When the canon of the Venerable Mary arriveth, we say to those verses the refrain:* **"Venerable Mother Mary, pray unto God for us."** *And to the verses of the Venerable Andrew:* **"Venerable Father Andrew, pray unto God for us."** *After the 3rd Ode, the heirmos:* **"Establish, O Lord, upon the rock of Thy commandments..."** *The sessional hymn of the Apostles, and the rest. Then we say the triodion without metanias; the heirmos of the triodion we do not sing, and "Glory", "now and ever" we do not say. To the verses we say the refrain:* **"Holy Apostles, pray unto God for us."** *Likewise also at the 8th and 9th Odes, when the triodion is uttered. And thereafter we sing the heirmos of the Great Canon. And after the 6th Ode, as katavasia the same heirmos. Kontakion, Tone 6:* **"My soul, my soul, arise, why sleepest thou? The end draweth near..."** (*Душе моя, душе моя, востани, что спиши?*). *Thereafter the Beatitudes of the Great Canon with metanias. After the 8th Ode:* **"We praise, we bless, we worship the Lord..."** *And...*
 
 *...again the heirmos. Thereafter we sing* **"More honorable than the Cherubim"** *with metanias. The Trinity Photagogicon [Exapostilarion] of the Tone, as is customary. Small Doxology. At the Aposticha:* **"It is good to give praise"** *twice. Trisagion; after* **"Our Father"**, *troparion:* **"Standing in the temple of Thy glory..."** **"Lord, have mercy"** *40 times. Priest:* **"He that is blessed and most glorified..."** *And the rest with prostrations according to Lenten custom, as in the Molitvoslov. We also attach the First Hour, without a kathisma; after the Trisagion at all the Hours the kontakion:* **"My soul, my soul..."**  
 ☞ *On Friday of the Fifth Week, at Little Compline, kontakion:* **"To Thee, the Champion Leader"** (*Взбранной Воеводѣ*).  
 
 ### On Saturday of the Fifth Week of the Fast
 In which we sing the Supplicatory Office of the Akathist.  
-*At Matins, after the Six Psalms and after the Ectene,* **"God is the Lord"** (*Богъ Господь*), *in Tone 8. And we sing the troparion:* **"Taking knowledge of the command secretly..."** (*Повеленное тайно*), *twice; Glory, now and ever, the same. Then Kathisma 16 is read. And upon its completion, the Little Ectene. Immediately the choir sings the kontakion in the midst of the church melodiously and prolonged:* **"To Thee, the Champion Leader"** (*Взбранной воеводѣ*), *during which the Priest censes the icons and the brethren according to order, and, vested in phelonion, reads 3 oikoi and 3 kontakia in the holy sanctuary [or before the icon]. At the reading we do not sit, but stand. After these the Blameless [Amomos] are recited, and the Little Ectene. And again the choir sings:* **"To Thee, the Champion Leader"**; *and the Priest saith the other oikoi and kontakia. Then Psalm 50. And the canons of the holy temple with heirmos on 6, and of the Most Holy Theotokos on 6. Katavasia:* **"I shall open my mouth"** (*Отверзу уста моя*). *If it be a temple of the Theotokos, we sing...*[^254]
+*At Matins, after the Six Psalms and after the Ectene,* **"God is the Lord"** (*Богъ Господь*), *in Tone 8. And we sing the troparion:* **"Taking knowledge of the command secretly..."** (*Повеленное тайно*), *twice; Glory, now and ever, the same. Then Kathisma 16 is read. And upon its completion, the Little Ectene. Immediately the choir singeth the kontakion in the midst of the church melodiously and prolonged:* **"To Thee, the Champion Leader"** (*Взбранной воеводѣ*), *during which the Priest censeth the icons and the brethren according to order, and, vested in phelonion, readeth 3 oikoi and 3 kontakia in the holy sanctuary [or before the icon]. At the reading we do not sit, but stand. After these the Blameless [Amomos] are recited, and the Little Ectene. And again the choir singeth:* **"To Thee, the Champion Leader"**; *and the Priest saith the other oikoi and kontakia. Then Psalm 50. And the canons of the holy temple with heirmos on 6, and of the Most Holy Theotokos on 6. Katavasia:* **"I shall open my mouth"** (*Отверзу уста моя*). *If it be a temple of the Theotokos, we sing...*[^254]
 
-[Book Page 226]
-
-— 226 —
-
-*...the canon of the feast of the Theotokos on 12. After the 3rd Ode, the ectene, and again 3 oikoi and kontakia. At the 6th Ode, the canon of the holy temple ceases, and we sing that of the feast of the Theotokos with the heirmos on 6, and the triodion [three-canto canon] of the Triodion. Katavasia of the Triodion. After the 6th Ode, the Little Ectene, and again we sing the kontakion:* **"To Thee, the Champion Leader"**, *and the remaining 3 oikoi and kontakia are read. And at the end the choir:* **"To Thee, the Champion Leader."** *At the 9th Ode we sing* **"More honorable than the Cherubim."** *At the Praises, stichera of the Triodion 4. Great Doxology. Troparion of the Theotokos, 4 times. Ectenes and Great Dismissal. And the First Hour. At all the Hours, the troparion and kontakion of the feast. At the Liturgy, after the Entrance: troparion and kontakion of the Theotokos. Prokeimenon of the Theotokos. Epistle and Gospel of the day and of the Theotokos.*  
+*...the canon of the feast of the Theotokos on 12. After the 3rd Ode, the ectene, and again 3 oikoi and kontakia. At the 6th Ode, the canon of the holy temple ceaseth, and we sing that of the feast of the Theotokos with the heirmos on 6, and the triodion [three-canto canon] of the Triodion. Katavasia of the Triodion. After the 6th Ode, the Little Ectene, and again we sing the kontakion:* **"To Thee, the Champion Leader"**, *and the remaining 3 oikoi and kontakia are read. And at the end the choir:* **"To Thee, the Champion Leader."** *At the 9th Ode we sing* **"More honorable than the Cherubim."** *At the Praises, stichera of the Triodion 4. Great Doxology. Troparion of the Theotokos, 4 times. Ectenes and Great Dismissal. And the First Hour. At all the Hours, the troparion and kontakion of the feast. At the Liturgy, after the Entrance: troparion and kontakion of the Theotokos. Prokeimenon of the Theotokos. Epistle and Gospel of the day and of the Theotokos.*  
 
 ### On the Fifth Sunday of the Fast
-*The order is as on the other Sundays, on which we also sing the service of the saint who happens to fall.*  
-*Be it known, that on this Fifth Sunday of the Fast the sequence of Sunday Resurrection Gospels ceases.[^255]*  
+*The order is as on the other Sundays, on which we also sing the service of the saint who happeneth to fall.*  
+*Be it known, that on this Fifth Sunday of the Fast the sequence of Sunday Resurrection Gospels ceaseth.[^255]*  
 
 ### On Friday of Palms, That Is, of the Sixth Week
-*At Vespers, at* **"Lord, I have cried"** (*Го́споди воззва́хъ*), *stichera on 10, written in the Flowery Triodion, which from this day takes its beginning. And the rest of the Presanctified according to custom. Be it known, that from this day neither a martyrion after the psalmody, nor a Theotokion, nor the Octoechos is sung, nor the Menaion of occurring saints, even unto the Monday of Saint Thomas.[^256]*
-
-[Book Page 227]
-
-— 227 —
+*At Vespers, at* **"Lord, I have cried"** (*Го́споди воззва́хъ*), *stichera on 10, written in the Flowery Triodion, which from this day taketh its beginning. And the rest of the Presanctified according to custom. Be it known, that from this day neither a martyrion after the psalmody, nor a Theotokion, nor the Octoechos is sung, nor the Menaion of occurring saints, even unto the Monday of Saint Thomas.[^256]*
 
 ### On the Saturday of the Holy and Righteous Lazarus
-*At the Midnight Office, after the 1st Trisagion and after* **"Our Father"**, *we say instead of* **"Behold, the Bridegroom comes"**, *the troparion:* **"Giving assurance of the universal resurrection before Thy Passion, Thou didst raise Lazarus from the dead, O Christ God..."** (*Общее воскресеніе*). *After the 2nd Trisagion and after* **"Our Father"**, *the kontakion:* **"Christ, the Joy of all, the Truth, the Light, the Life, and the Resurrection of the world..."** (*Всѣхъ радость*). **"Lord, have mercy"** *12 times, and the Dismissal. But the prayer:* **"Remember, O Lord"** *we do not say. At Matins, after the Blameless [Amomos], we sing the troparia:* **"The angelic council was amazed..."** (*Аггелскій соборъ*), *and after them the Little Ectene, and the sessional hymn; Glory, now and ever, the same. Then we say:* **"Having beheld the Resurrection of Christ"**, *Psalm 50, and the rest according to custom. Then the two canons and the rest in the Triodion. At the 9th Ode,* **"More honorable than the Cherubim"** *is not recited from this day and on the other days even unto New Sunday [Thomas Sunday], but the heirmos of the 9th Ode, and the katavasia:* **"Thee Who truly art the Theotokos do we magnify."** *Great Doxology. At the Hours, the troparion and kontakion of the feast.*  
+*At the Midnight Office, after the 1st Trisagion and after* **"Our Father"**, *we say instead of* **"Behold, the Bridegroom cometh"**, *the troparion:* **"Giving assurance of the universal resurrection before Thy Passion, Thou didst raise Lazarus from the dead, O Christ God..."** (*Общее воскресеніе*). *After the 2nd Trisagion and after* **"Our Father"**, *the kontakion:* **"Christ, the Joy of all, the Truth, the Light, the Life, and the Resurrection of the world..."** (*Всѣхъ радость*). **"Lord, have mercy"** *12 times, and the Dismissal. But the prayer:* **"Remember, O Lord"** *we do not say. At Matins, after the Blameless [Amomos], we sing the troparia:* **"The angelic council was amazed..."** (*Аггелскій соборъ*), *and after them the Little Ectene, and the sessional hymn; Glory, now and ever, the same. Then we say:* **"Having beheld the Resurrection of Christ"**, *Psalm 50, and the rest according to custom. Then the two canons and the rest in the Triodion. At the 9th Ode,* **"More honorable than the Cherubim"** *is not recited from this day and on the other days even unto New Sunday [Thomas Sunday], but the heirmos of the 9th Ode, and the katavasia:* **"Thee Who truly art the Theotokos do we magnify."** *Great Doxology. At the Hours, the troparion and kontakion of the feast.*  
 *At the Liturgy, the Typika, then the Beatitudes. After the Entrance, the troparion of the feast, Glory, now and ever, the kontakion. But instead of the Trisagion, we sing:* **"As many of you as have been baptized into Christ have put on Christ. Alleluia."** (*Елицы во Христа крестистеся*).[^257]*  
 
 ### On Palm Sunday, or the Flowery Sunday
 *At Great Vespers and at the Litiya, all is as in the Triodion. At the blessing of loaves:* **"Giving assurance of the universal resurrection"** *twice, and* **"Buried with Thee through baptism, O Christ our God"** *once. The Gradual hymns [Anabathmoi], the 1st Antiphon of Tone 4. Prokeimenon of the feast. Gospel of Matthew, pericope 83 [Matthew 21:1–11, 15–17]. And immediately we say Psalm 50.* [**"Having beheld the Resurrection of Christ"** *we do not say]. Then the Priest, taking the censer...*
 
-[Book Page 228]
-
-— 228 —
-
-*...censes the palms cruciformly. And having pronounced:* **"Let us pray unto the Lord"**, *the Priest reads the prayer for the blessing of the palms:* **"O Lord our God, Who sittest upon the Cherubim..."** *When the brethren kiss the Holy Gospel, they come forward and bow down to the Priest, and from his hands receive the blessed palms [willow branches]. Then instead of:* **"Through the prayers of the Apostles..."**, *the choir sings:* Glory, *Tone 2 [Bulgarian chant]:* **"Today Christ enters into Jerusalem..."** (*Днесь Христосъ*); *Now and ever: again the same. Refrain:* **"Have mercy on me, O God..."**; *and the sticheron:* **"Today the grace of the Holy Spirit hath gathered us together..."** (*Днесь благодать*). *Then the Deacon or Priest:* **"Save, O God, Thy people..."** *And after the exclamation, the canon. At the Liturgy, the antiphons of the feast; and the Divine Liturgy of Saint John Chrysostom is celebrated.[^258]*  
+*...censeth the palms cruciformly. And having pronounced:* **"Let us pray unto the Lord"**, *the Priest readeth the prayer for the blessing of the palms:* **"O Lord our God, Who sittest upon the Cherubim..."** *When the brethren kiss the Holy Gospel, they come forward and bow down to the Priest, and from his hands receive the blessed palms [willow branches]. Then instead of:* **"Through the prayers of the Apostles..."**, *the choir singeth:* Glory, *Tone 2 [Bulgarian chant]:* **"Today Christ entereth into Jerusalem..."** (*Днесь Христосъ*); *Now and ever: again the same. Refrain:* **"Have mercy on me, O God..."**; *and the sticheron:* **"Today the grace of the Holy Spirit hath gathered us together..."** (*Днесь благодать*). *Then the Deacon or Priest:* **"Save, O God, Thy people..."** *And after the exclamation, the canon. At the Liturgy, the antiphons of the feast; and the Divine Liturgy of Saint John Chrysostom is celebrated.[^258]*  
 
 ### On Palm Sunday in the Evening
 *At* **"Lord, I have cried"** (*Го́споди воззва́хъ*), *we set 6 verses. Entrance. Prokeimenon of the day:* **"Behold now, bless ye the Lord, all ye servants of the Lord."** *Then the church doors [Royal Doors] are closed. And* **"Vouchsafe, O Lord"**; *3 metanias. Ectene:* **"Let us complete our evening prayer"**, *and the rest. After* **"Now lettest Thou Thy servant depart"**, *and after the Trisagion: troparia* **"O Theotokos and Virgin, rejoice"**, *and the rest with prostrations, as was indicated for the preceding Sundays. And the Dismissal. We sing Little Compline with prostrations, as on the preceding Sundays, at which we sing the triodion [three-canto canon].[^259]*  
 
 ### On Holy and Great Monday
-*We sing the Midnight Office according to Lenten custom. At Matins, after the Six Psalms, we sing Alleluia in Tone 8, with the customary verses, and the troparion:* **"Behold, the Bridegroom comes in the middle of the night, and blessed is the servant whom He shall find watching..."** (*Се женихъ грядетъ въ полунощи*), *thrice, sung sonorously, as in...*
+*We sing the Midnight Office according to Lenten custom. At Matins, after the Six Psalms, we sing Alleluia in Tone 8, with the customary verses, and the troparion:* **"Behold, the Bridegroom cometh in the middle of the night, and blessed is the servant whom He shall find watching..."** (*Се женихъ грядетъ въ полунощи*), *thrice, sung sonorously, as in...*
 
-[Book Page 229]
-
-— 229 —
-
-*...the Heirmologion. Then the customary Kathisma with metanias. And the sessional hymn of the Triodion. Thereafter the Priest, having vested in the phelonion, saith:* **"And that we may be accounted worthy to hear the holy Gospel..."** *and reads the Gospel of Matthew, pericope 84 [Matthew 21:18–43], ending in pericope 88:* **"and it shall be given to a nation bringing forth the fruits thereof."** *Then Psalm 50. And the customary prayer:* **"Save, O God, Thy people..."** *And they begin to sing the triodion [three-canto canon] of the Triodion. (So it is on Monday, Tuesday, and Wednesday). After the 8th Ode, the Little Ectene, and the rest. At the 9th Ode we do not sing* **"More honorable than the Cherubim"**, *but the heirmos. The Exapostilarion [Photagogicon]:* **"Thy Bridal Chamber do I see adorned, O my Saviour, and I have no wedding garment that I may enter thereinto..."** (*Чертогъ твой вижду Спасе мой украшенный*), *is sung thrice melodiously from the Heirmologion. This is said until Great Thursday; it is sung in the midst of the church by 1 chanter, and responsive singing by the 2 choirs. After the Aposticha:* **"It is good to give praise."** *And the rest according to custom with prostrations. And the First Hour without a kathisma with prostrations. Then the Dismissal:* **"May the Lord Who comes unto His voluntary Passion for our salvation, Christ our true God..."** *This Dismissal is said also on Tuesday and on Wednesday.*  
-☞ *At the First Hour and at Compline we do not recite kathismata in Holy Week. Be it known: That on these three days at the Hours the readings of all four Evangelists take place (the Tetraevangelion). This takes place in this manner: At the First Hour the Gospel is not read. At the Third, Sixth, and Ninth Hours there is read on Monday the Gospel of Matthew in two readings entirely, and half of Mark. On Tuesday there is read the second half of Mark, and two readings of Luke; on Wednesday the third reading of Luke, and of John there is read in two readings until the beginning...*[^260]
-
-[Book Page 230]
-
-— 230 —
+*...the Heirmologion. Then the customary Kathisma with metanias. And the sessional hymn of the Triodion. Thereafter the Priest, having vested in the phelonion, saith:* **"And that we may be accounted worthy to hear the holy Gospel..."** *and readeth the Gospel of Matthew, pericope 84 [Matthew 21:18–43], ending in pericope 88:* **"and it shall be given to a nation bringing forth the fruits thereof."** *Then Psalm 50. And the customary prayer:* **"Save, O God, Thy people..."** *And they begin to sing the triodion [three-canto canon] of the Triodion. (So it is on Monday, Tuesday, and Wednesday). After the 8th Ode, the Little Ectene, and the rest. At the 9th Ode we do not sing* **"More honorable than the Cherubim"**, *but the heirmos. The Exapostilarion [Photagogicon]:* **"Thy Bridal Chamber do I see adorned, O my Saviour, and I have no wedding garment that I may enter thereinto..."** (*Чертогъ твой вижду Спасе мой украшенный*), *is sung thrice melodiously from the Heirmologion. This is said until Great Thursday; it is sung in the midst of the church by 1 chanter, and responsive singing by the 2 choirs. After the Aposticha:* **"It is good to give praise."** *And the rest according to custom with prostrations. And the First Hour without a kathisma with prostrations. Then the Dismissal:* **"May the Lord Who cometh unto His voluntary Passion for our salvation, Christ our true God..."** *This Dismissal is said also on Tuesday and on Wednesday.*  
+☞ *At the First Hour and at Compline we do not recite kathismata in Holy Week. Be it known: That on these three days at the Hours the readings of all four Evangelists take place (the Tetraevangelion). This taketh place in this manner: At the First Hour the Gospel is not read. At the Third, Sixth, and Ninth Hours there is read on Monday the Gospel of Matthew in two readings entirely, and half of Mark. On Tuesday there is read the second half of Mark, and two readings of Luke; on Wednesday the third reading of Luke, and of John there is read in two readings until the beginning...*[^260]
 
 *...of the Holy Passions: that is unto:* **"Now is the Son of Man glorified"** [John 13:31]. *It is read on these days in this order:*  
-*At the Third Hour, after the kathisma, the troparion:* **"O Lord, Who didst send down Thy Most Holy Spirit at the third hour..."** *with verses; Glory, now and ever:* **"O Theotokos, thou art the true vine..."** *And immediately the Holy Gospel is placed upon an adorned analogion near the Holy Doors [Royal Doors]; then tapers are lighted on both sides of the analogion. The Priest, vested in phelonion, having opened the Royal Doors, censes around the analogion and the holy sanctuary, and the whole church, and the brethren according to order. Then he saith:* **"And that we may be accounted worthy to hear..."** *and the rest according to custom. [This is said only at the beginnings of the Evangelists; not at the beginnings we say only:* **"Wisdom! Stand upright!"**]. *And thus the Priest reads the Tetraevangelion of Matthew from the 1st pericope. Upon the conclusion of the reading of the Gospel:* **"Blessed be the Lord God..."** *and the rest with prostrations.*  
-*At the Sixth Hour, the troparion:* **"O Thou Who on the sixth day and hour didst nail to the Cross the sin which Adam audaciously committed in Paradise..."** *with verses. Then the troparion of the prophecy, the Prokeimenon, and the Paremia. And the Priest reads the Gospel according to the prescribed order. And immediately:* **"Let Thy tender mercies speedily prevent us, O Lord..."** *and the rest with prostrations. Together we also sing the Ninth Hour without a kathisma. After the three Psalms, we say the troparion:* **"O Thou Who at the ninth hour for our sake didst taste of death in the flesh..."**; *Glory, now and ever:* **"O Thou Who for our sake wast born of a Virgin..."** *Then the Priest censes the sanctuary, and reads the Gospel. Thereafter he saith:* **"Deliver us not up utterly for Thy holy name's sake..."** *and the rest; after* **"Thou Who at every time"** *and after the great prostrations, we say the prayer:* **"O Master, Lord Jesus Christ our God, Who hast patiently endured our transgressions..."** *Then immediately the Beatitudes:* **"In Thy kingdom remember us, O Lord..."**, *and the rest of the...*
-
-[Book Page 231]
-
-— 231 —
+*At the Third Hour, after the kathisma, the troparion:* **"O Lord, Who didst send down Thy Most Holy Spirit at the third hour..."** *with verses; Glory, now and ever:* **"O Theotokos, thou art the true vine..."** *And immediately the Holy Gospel is placed upon an adorned analogion near the Holy Doors [Royal Doors]; then tapers are lighted on both sides of the analogion. The Priest, vested in phelonion, having opened the Royal Doors, censeth around the analogion and the holy sanctuary, and the whole church, and the brethren according to order. Then he saith:* **"And that we may be accounted worthy to hear..."** *and the rest according to custom. [This is said only at the beginnings of the Evangelists; not at the beginnings we say only:* **"Wisdom! Stand upright!"**]. *And thus the Priest readeth the Tetraevangelion of Matthew from the 1st pericope. Upon the conclusion of the reading of the Gospel:* **"Blessed be the Lord God..."** *and the rest with prostrations.*  
+*At the Sixth Hour, the troparion:* **"O Thou Who on the sixth day and hour didst nail to the Cross the sin which Adam audaciously committed in Paradise..."** *with verses. Then the troparion of the prophecy, the Prokeimenon, and the Paremia. And the Priest readeth the Gospel according to the prescribed order. And immediately:* **"Let Thy tender mercies speedily prevent us, O Lord..."** *and the rest with prostrations. Together we also sing the Ninth Hour without a kathisma. After the three Psalms, we say the troparion:* **"O Thou Who at the ninth hour for our sake didst taste of death in the flesh..."**; *Glory, now and ever:* **"O Thou Who for our sake wast born of a Virgin..."** *Then the Priest censeth the sanctuary, and readeth the Gospel. Thereafter he saith:* **"Deliver us not up utterly for Thy holy name's sake..."** *and the rest; after* **"Thou Who at every time"** *and after the great prostrations, we say the prayer:* **"O Master, Lord Jesus Christ our God, Who hast patiently endured our transgressions..."** *Then immediately the Beatitudes:* **"In Thy kingdom remember us, O Lord..."**, *and the rest of the...*
 
 *...order. After* **"More honorable than the Cherubim"**, *3 great prostrations with the prayer:* **"O Lord and Master of my life..."**, *and the other 12. Thereafter Trisagion. After* **"Our Father"**, **"Lord, have mercy"** *12 times, and the prayer:* **"O All-Holy Trinity, have mercy on us..."** *And the Dismissal. We also connect Vespers immediately. In this manner we sing the Hours with the Gospels on Tuesday and Wednesday also.*  
 
 ### On That Same Great Monday in the Evening
-*At the Presanctified, Entrance with the Gospel.* **"O Gladsome Light"** (*Свѣ́те ти́хїй*), *Prokeimenon, and Paremias. Then:* **"Let my prayer be set forth"** (*Да исправится молитва моя*), *and 3 prostrations. And thereafter the Gospel of Matthew, pericope 98 [Matthew 24:3–35]:* **"As Jesus sat upon the Mount of Olives..."** *[If there be a Deacon, he, having asked a blessing to proclaim the Holy Gospel according to custom, and the Priest having pronounced the prayer:* **"May God, through the intercessions of the holy and glorious..."**, *takes the Holy Gospel and issues forth unto the customary place, and reads it according to custom]. Then the ectene:* **"Let us all say with our whole soul..."** *And the rest of the order of the Presanctified, as is customary. Thus it ought to be also on Great Tuesday and Wednesday.[^261]*  
+*At the Presanctified, Entrance with the Gospel.* **"O Gladsome Light"** (*Свѣ́те ти́хїй*), *Prokeimenon, and Paremias. Then:* **"Let my prayer be set forth"** (*Да исправится молитва моя*), *and 3 prostrations. And thereafter the Gospel of Matthew, pericope 98 [Matthew 24:3–35]:* **"As Jesus sat upon the Mount of Olives..."** *[If there be a Deacon, he, having asked a blessing to proclaim the Holy Gospel according to custom, and the Priest having pronounced the prayer:* **"May God, through the intercessions of the holy and glorious..."**, *taketh the Holy Gospel and issueth forth unto the customary place, and readeth it according to custom]. Then the ectene:* **"Let us all say with our whole soul..."** *And the rest of the order of the Presanctified, as is customary. Thus it ought to be also on Great Tuesday and Wednesday.[^261]*  
 *We say Great Compline according to custom, at which we sing the triodion [three-canto canon] of the Triodion. After the Trisagion and after* **"Our Father"**, *the kontakion of the Triodion. And thereafter:* **"O Lord of hosts, be with us..."** *And the rest according to custom with prostrations. And the Dismissal:* **"O Master, Plenteous in mercy, Lord Jesus Christ..."** *In this manner we do in the evening also on Great Tuesday.*  
 
 ### On Holy and Great Tuesday
-*At Matins we sing Alleluia in Tone 8, and the troparion:* **"Behold, the Bridegroom comes"** *thrice, sonorously.*
-
-[Book Page 232]
-
-— 232 —
+*At Matins we sing Alleluia in Tone 8, and the troparion:* **"Behold, the Bridegroom cometh"** *thrice, sonorously.*
 
 *Then the customary Kathisma 3, and the sessional hymns of the Triodion. After the 3rd Kathisma there is read the Gospel of Matthew, pericope 90:* **"Taking counsel..."** [Matthew 22:15], *ending in pericope 96. Then Psalm 50. And the prayer:* **"Save, O God, Thy people."** **"Lord, have mercy"** *12 times, and the exclamation. Thereafter the Little Ectene. Then the kontakion, Tone 2:* **"Having in mind the hour of the end, O my soul, and fearing the cut down of the fig tree..."** (*Часъ, душе, конца помысливши*), *and the oikos. Then the two-canto canon [diodion] is sung: the heirmos twice, and troparia on 12. And as katavasia, the heirmos. At the 9th Ode we do not sing* **"More honorable than the Cherubim."** *And the rest as on Monday. And the First Hour without a kathisma. But the Third and Sixth Hours we sing with a kathisma and with prostrations. And we read the Tetraevangelion, as on Monday. Together we also sing the Ninth Hour without a kathisma.*  
 *On that same Great Tuesday in the evening, at the Presanctified, Entrance with the Gospel. And after* **"Let my prayer be set forth"**, *the Gospel of Matthew is read, pericope 102 [Matthew 24:36–26:2], and the rest of the Presanctified. Great Compline with prostrations.*  
 
 ### On Holy and Great Wednesday
 *At Matins, after the 3rd Kathisma, the Gospel of John, pericope 41, near the end, without skipping; ending in pericope 43:* **"Even as the Father said unto Me, so I speak"** [John 12:17–50]. *Psalm 50, and the rest as on Monday.*  
-*Then we sing the Hours in all respects with the Gospels, as on Monday. At the Ninth Hour the last reading takes place. Then:* **"Deliver us not up utterly for Thy holy name's sake"**, *and the rest with prostrations. Thereafter the Beatitudes and* **"Remember us, O Lord, when Thou comest into Thy kingdom"** *with prostrations. And the rest; after* **"More honorable than the Cherubim"**, *3 great prostrations with the prayer, and the other...*
+*Then we sing the Hours in all respects with the Gospels, as on Monday. At the Ninth Hour the last reading taketh place. Then:* **"Deliver us not up utterly for Thy holy name's sake"**, *and the rest with prostrations. Thereafter the Beatitudes and* **"Remember us, O Lord, when Thou comest into Thy kingdom"** *with prostrations. And the rest; after* **"More honorable than the Cherubim"**, *3 great prostrations with the prayer, and the other...*
 
-[Book Page 233]
-
-— 233 —
-
-*...12, and at the end one prostration. Then Trisagion,* **"Lord, have mercy"** *12 times, and the prayer:* **"O All-Holy Trinity..."** *Then:* **"It is truly right to bless thee, O Theotokos..."** *Priest:* **"Glory to Thee, O Christ God, our hope, glory to Thee."** *Choir:* Glory, now and ever: **"Lord, have mercy"** *thrice,* **"Bless, Father."** *And instead of the Dismissal, the Priest saith the prayer:* **"O Master, Plenteous in mercy, Lord Jesus Christ our God..."**, *all the way to the end, as at the Litiya. While this is said, all bow their knees unto the earth. And upon its completion, all having stood up, the customary mutual forgiveness takes place in monasteries.*  
+*...12, and at the end one prostration. Then Trisagion,* **"Lord, have mercy"** *12 times, and the prayer:* **"O All-Holy Trinity..."** *Then:* **"It is truly right to bless thee, O Theotokos..."** *Priest:* **"Glory to Thee, O Christ God, our hope, glory to Thee."** *Choir:* Glory, now and ever: **"Lord, have mercy"** *thrice,* **"Bless, Father."** *And instead of the Dismissal, the Priest saith the prayer:* **"O Master, Plenteous in mercy, Lord Jesus Christ our God..."**, *all the way to the end, as at the Litiya. While this is said, all bow their knees unto the earth. And upon its completion, all having stood up, the customary mutual forgiveness taketh place in monasteries.*  
 
 ### On That Same Great Wednesday in the Evening
-*At the Presanctified, Entrance takes place with the Gospel, and after the prayer* **"Let my prayer be set forth"**, *the Holy Gospel of Matthew is read, pericope 108 [Matthew 26:6–16]. Ectene:* **"Let us all say"**, *and the rest of the Presanctified. And after the transfer of the Holy Gifts, and at* **"Blessed be the name of the Lord"**, *3 prostrations. And henceforth prostrations cease in church.[^262]*  
-*We say Little Compline, and sing upon it the triodion [three-canto canon] of Great Thursday. After the Trisagion, the kontakion:* **"Taking the bread into his hands, the betrayer stretches them forth secretly..."** (*Хлѣбъ пріемъ*). *And the rest of Little Compline without prostrations, and after the prayers the Dismissal.*  
+*At the Presanctified, Entrance taketh place with the Gospel, and after the prayer* **"Let my prayer be set forth"**, *the Holy Gospel of Matthew is read, pericope 108 [Matthew 26:6–16]. Ectene:* **"Let us all say"**, *and the rest of the Presanctified. And after the transfer of the Holy Gifts, and at* **"Blessed be the name of the Lord"**, *3 prostrations. And henceforth prostrations cease in church.[^262]*  
+*We say Little Compline, and sing upon it the triodion [three-canto canon] of Great Thursday. After the Trisagion, the kontakion:* **"Taking the bread into his hands, the betrayer stretcheth them forth secretly..."** (*Хлѣбъ пріемъ*). *And the rest of Little Compline without prostrations, and after the prayers the Dismissal.*  
 
 ### On Holy and Great Thursday
 *At Matins, after the Six Psalms, the Great Ectene, and we sing Alleluia in Tone 8. Then the troparion:* **"When the glorious disciples were enlightened at the washing of the feet, then Judas the ungodly was darkened with the love of silver..."** (*Егда славніи ученицы*), *thrice, (with sweet chanting from the Heirmologion). And thereafter immediately...*
-
-[Book Page 234]
-
-— 234 —
 
 *...the Gospel of Matthew, pericope 108 [Matthew 26:1–20]:* **"Now before the feast of the passover..."**, *without skipping. Then Psalm 50. But the prayer:* **"Save, O God, Thy people..."** *we do not say, but immediately sing the canon, as in the Triodion. At the end of Matins:* **"It is good to give praise"** *once, and after the Trisagion, the troparion:* **"When the glorious disciples..."** *once. And the ectene:* **"Have mercy on us, O God..."** *Priest:* **"Wisdom!"** *Choir:* **"Bless, Father."** *Priest:* **"He that is blessed and most glorified is Christ our God, always, now and forever, and unto the ages of ages."** *Choir:* **"Amen."** *Then:* **"O come, let us worship"** *thrice. And we connect the First Hour. In it we say the troparion:* **"When the glorious disciples..."**, *now and ever, Theotokion of the Hours:* **"What shall we name thee, O full of grace?..."** *Then the troparion of the prophecy of the Triodion:* **"Smitten on the cheek for the sake of the human race, and not having grown angry, deliver our life from corruption, O Lord, and save us."** *Glory, now and ever, the same. Prokeimenon and Paremia of the prophecy of Jeremiah. Then the Prokeimenon, and* **"Order my steps"** *(without singing), and* **"Let my mouth be filled with Thy praise..."** *After the Trisagion, the kontakion of the Triodion:* **"Taking the bread into his hands..."**, *and the rest, and the complete Dismissal. The other Hours we sing together without prostrations, and the Beatitudes swiftly without singing, and the rest,* **"O All-Holy Trinity"**, *and the Dismissal.*  
 
 ### On Holy and Great Thursday in the Evening
 *Vespers is sung with the Liturgy of Saint Basil the Great. At* **"Lord, I have cried"** (*Го́споди воззва́хъ*), *we set 10 verses. Entrance with the Gospel.* **"O Gladsome Light"** (*Свѣ́те ти́хїй*), *Prokeimenon, Paremias, and 3 readings of the day. Then the Little Ectene, and the exclamation...[^263]*
 
-[Book Page 235]
-
-— 235 —
-
 *...of the Trisagion. Thereafter the Trisagion. Prokeimenon, Epistle to the Corinthians, pericope 149 [1 Cor. 11:23–32], and the Gospel [Matthew 26:2–20; John 13:3–17; Matthew 26:21–39; Luke 22:43–45; Matthew 26:40–27:2], and according to the order the Divine Liturgy of Saint Basil the Great. Instead of the Cherubic Hymn, we sing:* **"Of Thy Mystical Supper, O Son of God, receive me today as a communicant; for I will not speak of the mystery to Thine enemies, neither will I give Thee a kiss as did Judas, but like the thief do I confess Thee: Remember me, O Lord, in Thy kingdom"** (*Вечери твоея тайныя днесь, Сыне Божій*), *and instead of* **"Let our mouths be filled"**. *Likewise also instead of the Communion Verse [Communion Hymn] we sing that same troparion:* **"Of Thy Mystical Supper..."** *And we sing it repeatedly until the brethren have partaken of the divine Mysteries.*  
 
 ### The Office of the Holy, Saving Passions of Our Lord Jesus Christ
-*On Holy and Great Thursday in the evening, at the 2nd hour of the night [8:00 PM], the bell is rung for Matins of Great Friday. The Priest, having taken the epitrachelion, makes the beginning:* **"Blessed is our God..."** *And we say:* **"O Heavenly King"**, *Trisagion, and the rest of the beginning of Matins according to custom. After the Six Psalms, the Great Ectene, and after the exclamation we sing Alleluia, in Tone 8, with the verses. And the troparion:* **"When the glorious disciples were enlightened..."**, *slowly and melodiously, written on Thursday at Matins in the Heirmologion, thrice. Then the church attendant [ecclesiarches] distributes tapers unto the brethren, which they light at every Gospel.[^264] And the Priest enters the holy sanctuary, vests in the phelonion, and having opened the Royal Doors, censes the Holy Table, and the entire holy sanctuary, and the choirs and brethren according to order. Then the Little Ectene is sung. (These ectenes are said by the Deacon or Priest before the sessional hymns until the 8th Gospel). Thereafter the Priest (or Deacon, if there be one):* **"And that we may be accounted worthy..."**
+*On Holy and Great Thursday in the evening, at the 2nd hour of the night [8:00 PM], the bell is rung for Matins of Great Friday. The Priest, having taken the epitrachelion, maketh the beginning:* **"Blessed is our God..."** *And we say:* **"O Heavenly King"**, *Trisagion, and the rest of the beginning of Matins according to custom. After the Six Psalms, the Great Ectene, and after the exclamation we sing Alleluia, in Tone 8, with the verses. And the troparion:* **"When the glorious disciples were enlightened..."**, *slowly and melodiously, written on Thursday at Matins in the Heirmologion, thrice. Then the church attendant [ecclesiarches] distributeth tapers unto the brethren, which they light at every Gospel.[^264] And the Priest entereth the holy sanctuary, vesteth in the phelonion, and having opened the Royal Doors, censeth the Holy Table, and the entire holy sanctuary, and the choirs and brethren according to order. Then the Little Ectene is sung. (These ectenes are said by the Deacon or Priest before the sessional hymns until the 8th Gospel). Thereafter the Priest (or Deacon, if there be one):* **"And that we may be accounted worthy..."**
 
-[Book Page 236]
+*...to hear. Choir:* **"Lord, have mercy"** *thrice.* **"Peace be unto all"**, *and the rest. And the Priest readeth upon an adorned analogion near the Royal Doors the 1st Gospel, of John, pericope 46 [John 13:31–18:1]. The clergy say before the Gospel:* **"Glory to Thy passions, O Lord, glory to Thee."** *And after the Gospel is sung:* **"Glory to Thy longsuffering, O Lord."** *In cathedral churches the rector [superior] readeth this 1st Gospel; but the other priests read the rest, each one in turn. After the reading of the Gospel, immediately we sing the antiphons of the Triodion. After the 3rd Antiphon, the sessional hymn; Glory, its kontakion; now and ever, all the same. The Priest censeth then the Holy Table. Then:* **"And that we may be accounted worthy..."** *and the Priest readeth the 2nd Gospel, of John, pericope 58 [John 18:1–28]. After the Gospel we sing the 4th, 5th, and 6th Antiphons. Then the sessional hymn, and the 3rd Gospel, of Matthew, pericope 109 [Matthew 26:57–75]. Thus also after the 9th, 12th, and 15th Antiphons the Gospels are read. After the 6th Gospel, of Mark, pericope 67, immediately the Beatitudes are read, as in the Triodion. Then the Priest:* **"Let us attend!"** *And the Prokeimenon is sung, Tone 4:* **"They parted My garments among them, and upon My vesture did they cast lots."** *And the 7th Gospel [6th reading per manuscript numbering / pericope 113 of Matthew: Matthew 27:33–54]. Then Psalm 50. And henceforth the Deacon ceaseth to cense, and the ectenes of the sessional hymns are not said, but only:* **"And that we may be accounted worthy..."** *we say unto all the Gospels.[^265] Then the 8th Gospel, of Luke, pericope 121 [Luke 23:32–49]. Thereafter we sing the triodion [three-canto canon]. After the 5th Ode, katavasia and Little Ectene, and kontakion and oikos. At the 9th Ode we sing* **"More honorable than the Cherubim."** *After the 9th Ode, ectene and the Exapostilarion, thrice. Then the 9th Gospel, of John, pericope 61 [John 19:25–37]. And immediately:* **"Let every breath"**, *we sing in Tone 3. And thereafter the stichera at the Praises...*
 
-— 236 —
-
-*...to hear. Choir:* **"Lord, have mercy"** *thrice.* **"Peace be unto all"**, *and the rest. And the Priest reads upon an adorned analogion near the Royal Doors the 1st Gospel, of John, pericope 46 [John 13:31–18:1]. The clergy say before the Gospel:* **"Glory to Thy passions, O Lord, glory to Thee."** *And after the Gospel is sung:* **"Glory to Thy longsuffering, O Lord."** *In cathedral churches the rector [superior] reads this 1st Gospel; but the other priests read the rest, each one in turn. After the reading of the Gospel, immediately we sing the antiphons of the Triodion. After the 3rd Antiphon, the sessional hymn; Glory, its kontakion; now and ever, all the same. The Priest censes then the Holy Table. Then:* **"And that we may be accounted worthy..."** *and the Priest reads the 2nd Gospel, of John, pericope 58 [John 18:1–28]. After the Gospel we sing the 4th, 5th, and 6th Antiphons. Then the sessional hymn, and the 3rd Gospel, of Matthew, pericope 109 [Matthew 26:57–75]. Thus also after the 9th, 12th, and 15th Antiphons the Gospels are read. After the 6th Gospel, of Mark, pericope 67, immediately the Beatitudes are read, as in the Triodion. Then the Priest:* **"Let us attend!"** *And the Prokeimenon is sung, Tone 4:* **"They parted My garments among them, and upon My vesture did they cast lots."** *And the 7th Gospel [6th reading per manuscript numbering / pericope 113 of Matthew: Matthew 27:33–54]. Then Psalm 50. And henceforth the Deacon ceases to cense, and the ectenes of the sessional hymns are not said, but only:* **"And that we may be accounted worthy..."** *we say unto all the Gospels.[^265] Then the 8th Gospel, of Luke, pericope 121 [Luke 23:32–49]. Thereafter we sing the triodion [three-canto canon]. After the 5th Ode, katavasia and Little Ectene, and kontakion and oikos. At the 9th Ode we sing* **"More honorable than the Cherubim."** *After the 9th Ode, ectene and the Exapostilarion, thrice. Then the 9th Gospel, of John, pericope 61 [John 19:25–37]. And immediately:* **"Let every breath"**, *we sing in Tone 3. And thereafter the stichera at the Praises...*
-
-[Book Page 237]
-
-— 237 —
-
-*After these, the 10th Gospel, of Mark, pericope 64 [Mark 15:42–47]. Then:* **"Glory to Thee Who hast shown us the light"**, *and* **"Glory to God in the highest"** *(without singing). Thereafter the Priest the ectene:* **"Let us complete our morning prayer unto the Lord."** *After the exclamation:* **"For a merciful God Thou art..."**, *immediately the 11th Gospel, of John, pericope 62 [John 19:38–42]. Thereafter at the Aposticha we sing the stichera, with their verses. Then the Deacon censes, as at the beginning, the entire church. Thereafter the Priest [in cathedral temples the superior] reads the 12th Gospel, of Matthew, pericope 114 [Matthew 27:62–66], ending with:* **"sealing the stone and setting a watch."** *Then:* **"It is good to give praise"** *once; Trisagion; after* **"Our Father"**, *troparion:* **"Thou hast redeemed us from the curse of the Law by Thy precious Blood: having been nailed to the Cross and pierced with the spear, Thou didst pour forth immortality upon mankind: O our Saviour, glory to Thee"** (*Искупилъ ны еси отъ клятвы законныя*), *once. Thereafter the ectene:* **"Have mercy on us, O God."** *Then the Priest:* **"Wisdom!"** *Choir:* **"More honorable than the Cherubim."** *And the Dismissal. But the First Hour we do not attach.*  
+*After these, the 10th Gospel, of Mark, pericope 64 [Mark 15:42–47]. Then:* **"Glory to Thee Who hast shown us the light"**, *and* **"Glory to God in the highest"** *(without singing). Thereafter the Priest the ectene:* **"Let us complete our morning prayer unto the Lord."** *After the exclamation:* **"For a merciful God Thou art..."**, *immediately the 11th Gospel, of John, pericope 62 [John 19:38–42]. Thereafter at the Aposticha we sing the stichera, with their verses. Then the Deacon censeth, as at the beginning, the entire church. Thereafter the Priest [in cathedral temples the superior] readeth the 12th Gospel, of Matthew, pericope 114 [Matthew 27:62–66], ending with:* **"sealing the stone and setting a watch."** *Then:* **"It is good to give praise"** *once; Trisagion; after* **"Our Father"**, *troparion:* **"Thou hast redeemed us from the curse of the Law by Thy precious Blood: having been nailed to the Cross and pierced with the spear, Thou didst pour forth immortality upon mankind: O our Saviour, glory to Thee"** (*Искупилъ ны еси отъ клятвы законныя*), *once. Thereafter the ectene:* **"Have mercy on us, O God."** *Then the Priest:* **"Wisdom!"** *Choir:* **"More honorable than the Cherubim."** *And the Dismissal. But the First Hour we do not attach.*  
 
 ### On Holy and Great Friday
-*The Office of the Royal Hours takes place at the 2nd hour of the day [8:00 AM]. The Priest vests in sacerdotal vestments [epitrachelion and phelonion], and the Deacon in his sticharion. And the Holy Gospel is carried out by the Priest, and placed upon an adorned analogion before the Royal Doors, before the prepared place in the image of a tomb, where the Plashchanytsia is to be laid. And when the Priest hath blessed and while he censes, we say:* **"Glory to Thee, our God, glory to Thee"**, **"O Heavenly King"**, *and the rest of the customary beginning. And after:* **"O come, let us worship"**, *we say the psalms of the Great Hours set forth in the Triodion, and the rest as is arranged in the Triodion. Note: The Priest saith before the Gospels only:* **"Wisdom! Stand upright!"**[^266] [Book Page 238]
-
----
-
-
-— 238 —
+*The Office of the Royal Hours taketh place at the 2nd hour of the day [8:00 AM]. The Priest vesteth in sacerdotal vestments [epitrachelion and phelonion], and the Deacon in his sticharion. And the Holy Gospel is carried out by the Priest, and placed upon an adorned analogion before the Royal Doors, before the prepared place in the image of a tomb, where the Plashchanytsia is to be laid. And when the Priest hath blessed and while he censeth, we say:* **"Glory to Thee, our God, glory to Thee"**, **"O Heavenly King"**, *and the rest of the customary beginning. And after:* **"O come, let us worship"**, *we say the psalms of the Great Hours set forth in the Triodion, and the rest as is arranged in the Triodion. Note: The Priest saith before the Gospels only:* **"Wisdom! Stand upright!"**[^266]
 
 ☞ *Be it known: That on this holy day of Great Friday neither the Presanctified nor the complete Liturgy is celebrated, except for the Feast of the Annunciation. Nor do we eat on this day of the Crucifixion.*[^267]
 
 ### On That Same Holy and Great Friday in the Evening
 
-*At the 4th hour of the day [that is, the 3rd hour of the afternoon: 3:00 PM], having assembled in church, we begin Vespers. The Priest saith:* **"Blessed is our God"** (*Благословенъ Богъ нашъ*). *Then after the Amen:* **"Glory to Thee, our God, glory to Thee"** (*Слава тебѣ Боже нашъ, слава тебѣ*), **"O Heavenly King"** (*Царю небесный*), *Trisagion. After* **"Our Father"** (*Отче нашъ*), **"Lord, have mercy"** *12 times. Glory, now and ever:* **"O come, let us worship"** *thrice. Then the Psalm:* **"Bless the Lord, O my soul"** (*Благослови душе моя*), *and the rest of Vespers. Entrance with the Gospel.* **"O Gladsome Light"** (*Свѣте тихій*). *Prokeimenon of the Paremias. Thereafter the Paremia, of the Prophecy of Isaiah [Isaiah 52:13–54:1]. Again the Prokeimenon, Tone 4, and the 3rd Paremia [Job 42:12–17]. Then the Prokeimenon and the Epistle to the Corinthians, pericope 125 [1 Cor. 1:18–2:2]. And the Gospel of Matthew, pericope 110 [Matthew 27:1–38; Luke 23:39–43; Matthew 27:39–54; John 19:31–37; Matthew 27:55–61]. Thereafter the ectene:* **"Let us all say"** (*Рцемъ вси*). *Then:* **"Vouchsafe, O Lord"** (*Сподоби Господи*). *Ectene:* **"Let us complete"** (*Исполнимъ*). *Afterwards we sing the stichera at the Aposticha. And then the Priest vests in all the sacerdotal vestments and censes the Holy Table. Then, while the choirs sing: Glory, now and ever:* **"Thou Who clothest Thyself with light as with a garment"** (*Тебе одѣющагося свѣтомъ*), *there takes place the bringing forth of the Plashchanytsia according to custom, through the North Door, the Deacon censing, and taper-bearers preceding them with candles. And the procession issues forth outside the church. Having returned into the church, the Priest places the Plashchanytsia in the midst of the church upon the prepared table in the image of a tomb, and censes it.*[^268]
+*At the 4th hour of the day [that is, the 3rd hour of the afternoon: 3:00 PM], having assembled in church, we begin Vespers. The Priest saith:* **"Blessed is our God"** (*Благословенъ Богъ нашъ*). *Then after the Amen:* **"Glory to Thee, our God, glory to Thee"** (*Слава тебѣ Боже нашъ, слава тебѣ*), **"O Heavenly King"** (*Царю небесный*), *Trisagion. After* **"Our Father"** (*Отче нашъ*), **"Lord, have mercy"** *12 times. Glory, now and ever:* **"O come, let us worship"** *thrice. Then the Psalm:* **"Bless the Lord, O my soul"** (*Благослови душе моя*), *and the rest of Vespers. Entrance with the Gospel.* **"O Gladsome Light"** (*Свѣте тихій*). *Prokeimenon of the Paremias. Thereafter the Paremia, of the Prophecy of Isaiah [Isaiah 52:13–54:1]. Again the Prokeimenon, Tone 4, and the 3rd Paremia [Job 42:12–17]. Then the Prokeimenon and the Epistle to the Corinthians, pericope 125 [1 Cor. 1:18–2:2]. And the Gospel of Matthew, pericope 110 [Matthew 27:1–38; Luke 23:39–43; Matthew 27:39–54; John 19:31–37; Matthew 27:55–61]. Thereafter the ectene:* **"Let us all say"** (*Рцемъ вси*). *Then:* **"Vouchsafe, O Lord"** (*Сподоби Господи*). *Ectene:* **"Let us complete"** (*Исполнимъ*). *Afterwards we sing the stichera at the Aposticha. And then the Priest vesteth in all the sacerdotal vestments and censeth the Holy Table. Then, while the choirs sing: Glory, now and ever:* **"Thou Who clothest Thyself with light as with a garment"** (*Тебе одѣющагося свѣтомъ*), *there taketh place the bringing forth of the Plashchanytsia according to custom, through the North Door, the Deacon censing, and taper-bearers preceding them with candles. And the procession issueth forth outside the church. Having returned into the church, the Priest placeth the Plashchanytsia in the midst of the church upon the prepared table in the image of a tomb, and censeth it.*[^268]
 
-[Book Page 239]
-
-— 239 —
-
-*Then:* **"Now lettest Thou"** (*Нынѣ отпущаеши*). *Trisagion; after* **"Our Father"**, *troparion:* **"The Noble Joseph"** (*Благообразный Іѡсифъ*), *and metanias. Glory, now and ever:* **"Unto the Myrrhbearing Women"** (*Мироносицамъ женамъ*). *Priest:* **"Wisdom!"** *Choir:* **"Bless, Father."** *Priest:* **"He that is blessed and most glorified."** *And the Dismissal according to custom. And there takes place the veneration of the Plashchanytsia laid in the tomb.*  
+*Then:* **"Now lettest Thou"** (*Нынѣ отпущаеши*). *Trisagion; after* **"Our Father"**, *troparion:* **"The Noble Joseph"** (*Благообразный Іѡсифъ*), *and metanias. Glory, now and ever:* **"Unto the Myrrhbearing Women"** (*Мироносицамъ женамъ*). *Priest:* **"Wisdom!"** *Choir:* **"Bless, Father."** *Priest:* **"He that is blessed and most glorified."** *And the Dismissal according to custom. And there taketh place the veneration of the Plashchanytsia laid in the tomb.*  
 *We sing Small Compline, wherein is the canon of the Crucifixion of the Lord. After the prayers:* **"O Undefiled, Untainted"** (*Нескверная неблазная*), **"And grant unto us, O Master"** (*И даждь намъ*), *the Dismissal. The Midnight Office is not sung in church, but in the cell.*
 
-*Note:* *Among us the Plashchanytsia is brought forth according to the order written in the Sluzhebnik for Great Friday. According to the Greek custom, however, the bringing forth of the Plashchanytsia takes place thus: The Superior enters into the holy sanctuary with the priests and deacons, and vests in all the sacerdotal vestments; the priests likewise. And he issues forth through the North Door, bearing the Plashchanytsia upon his head, the priests supporting it, and the Deacon censing. Taper-bearers precede him with candles and with two lamps. And both choirs sing the sticheron:* **"Thou Who clothest Thyself with light as with a garment"** (*Тебе одѣющагося свѣтомъ яко ризою*). *And he places the Plashchanytsia upon the prepared table in the image of a tomb. This order is observed in some places even unto the present day.*[^269]
+*Note:* *Among us the Plashchanytsia is brought forth according to the order written in the Sluzhebnik for Great Friday. According to the Greek custom, however, the bringing forth of the Plashchanytsia taketh place thus: The Superior entereth into the holy sanctuary with the priests and deacons, and vesteth in all the sacerdotal vestments; the priests likewise. And he issueth forth through the North Door, bearing the Plashchanytsia upon his head, the priests supporting it, and the Deacon censing. Taper-bearers precede him with candles and with two lamps. And both choirs sing the sticheron:* **"Thou Who clothest Thyself with light as with a garment"** (*Тебе одѣющагося свѣтомъ яко ризою*). *And he placeth the Plashchanytsia upon the prepared table in the image of a tomb. This order is observed in some places even unto the present day.*[^269]
 
 ### On Holy and Great Saturday
 
-*The klepalo is struck for Matins at the 6th hour of the night [12:00 midnight]. And when they have assembled in church, the Priest vests in black...*
+*The klepalo is struck for Matins at the 6th hour of the night [12:00 midnight]. And when they have assembled in church, the Priest vesteth in black...*
 
-[Book Page 240]
+*...or dark red [crimson] vestments, and beginneth before the Plashchanytsia:* **"Blessed is our God"** (*Благословенъ Богъ нашъ*). *Then:* **"O Heavenly King"**, *Trisagion; after* **"Our Father"**, *the Priest the exclamation.* **"Lord, have mercy"** *12 times. And immediately:* **"Glory to the Holy, Consubstantial, and Life-Giving Trinity"**, *and the Six Psalms, the Priest not departing, but standing before the Plashchanytsia. And after these, the Great Ectene. At* **"God is the Lord"** (*Богъ Господь*), *troparion:* **"The Noble Joseph"** (*Благообразный Іѡсифъ*); *Glory:* **"When Thou didst descend unto death"** (*Егда снизшелъ еси къ смерти*); *Now and ever:* **"Unto the Myrrhbearing Women"** (*Мироносицамъ женамъ*). *Then candles are distributed. And when the Superior hath censed cruciformly, we begin the refrain:* **"We magnify Thee, O Christ the Giver of life"** (*Величаемъ тя жизнодавче Христе*). *And thereafter they sing the Blameless [Amomos, Psalm 118] in three staseis with sweet chanting, together with the refrains. Then the Superior censeth the whole church and the brethren. At the second and third staseis the priests cense from the beginning. After the 1st Stasis, the Little Ectene. And while the Priest censeth, we begin the 2nd Stasis:* **"It is right to magnify Thee"** (*Достойно есть*), *and the rest. After the 3rd Stasis, the troparia:* **"The Angelic Council"** (*Аггельскій соборъ*); *thereafter the Little Ectene, the sessional hymn, and Psalm 50. Then also the Canon in Tone 6:* **"Wave of the sea"** (*Волновою морскою*). *The troparia are read by the Priest. At the Praises we set 4 verses. The Great Doxology. Then the Superior entereth into the holy sanctuary with the priests and deacons, and vesteth in all the sacerdotal vestments; the priests, however, only in phelonia. And he maketh the Entrance with the Gospel, issuing forth through the North Door, taper-bearers preceding him with candles. And both choirs sing the Trisagion (the burial melody). And the Superior cometh before the laid Plashchanytsia, and having there placed the Gospel upon the Tomb of God, standeth awaiting the conclusion of the chanting. When the singing is finished, the Priest proclaimeth:...*[^270]
 
-— 240 —
-
-*...or dark red [crimson] vestments, and begins before the Plashchanytsia:* **"Blessed is our God"** (*Благословенъ Богъ нашъ*). *Then:* **"O Heavenly King"**, *Trisagion; after* **"Our Father"**, *the Priest the exclamation.* **"Lord, have mercy"** *12 times. And immediately:* **"Glory to the Holy, Consubstantial, and Life-Giving Trinity"**, *and the Six Psalms, the Priest not departing, but standing before the Plashchanytsia. And after these, the Great Ectene. At* **"God is the Lord"** (*Богъ Господь*), *troparion:* **"The Noble Joseph"** (*Благообразный Іѡсифъ*); *Glory:* **"When Thou didst descend unto death"** (*Егда снизшелъ еси къ смерти*); *Now and ever:* **"Unto the Myrrhbearing Women"** (*Мироносицамъ женамъ*). *Then candles are distributed. And when the Superior hath censed cruciformly, we begin the refrain:* **"We magnify Thee, O Christ the Giver of life"** (*Величаемъ тя жизнодавче Христе*). *And thereafter they sing the Blameless [Amomos, Psalm 118] in three staseis with sweet chanting, together with the refrains. Then the Superior censes the whole church and the brethren. At the second and third staseis the priests cense from the beginning. After the 1st Stasis, the Little Ectene. And while the Priest censes, we begin the 2nd Stasis:* **"It is right to magnify Thee"** (*Достойно есть*), *and the rest. After the 3rd Stasis, the troparia:* **"The Angelic Council"** (*Аггельскій соборъ*); *thereafter the Little Ectene, the sessional hymn, and Psalm 50. Then also the Canon in Tone 6:* **"Wave of the sea"** (*Волновою морскою*). *The troparia are read by the Priest. At the Praises we set 4 verses. The Great Doxology. Then the Superior enters into the holy sanctuary with the priests and deacons, and vests in all the sacerdotal vestments; the priests, however, only in phelonia. And he makes the Entrance with the Gospel, issuing forth through the North Door, taper-bearers preceding him with candles. And both choirs sing the Trisagion (the burial melody). And the Superior comes before the laid Plashchanytsia, and having there placed the Gospel upon the Tomb of God, stands awaiting the conclusion of the chanting. When the singing is finished, the Priest proclaims:...*[^270]
-
-[Book Page 241]
-
-— 241 —
-
-*...* **"Let us attend! Peace be unto all. Wisdom, let us attend!"** *The choir sings the troparion:* **"The Noble Joseph"** (*Благообразный Іѡсифъ*), *once. Then the troparion of the Paremia. Glory, now and ever, the same. And immediately the Prokeimenon. Then the Paremia, of the Prophecy of Ezekiel [Ezekiel 37:1–14]. Thereafter the Prokeimenon of the Apostle, the Epistle to the Corinthians, pericope 133 [1 Cor. 5:6–8; Gal. 3:13–14], the Gospel of Matthew, pericope 114 [Matthew 27:62–66]. Then the ectene:* **"Let us all say"** (*Рцемъ вси*), *and* **"Let us complete our morning prayer"** (*Исполнимъ утреннюю молитву нашу*), *and the rest. And the Great Dismissal. And there takes place in monasteries the kissing [veneration] of the Plashchanytsia laid in the tomb. The singers according to the rule sing here the sticheron in Tone 5:* **"Come, let us bless Joseph of everlasting memory"** (*Пріидите ублажимъ Іѡсифа*).[^271]
+*...* **"Let us attend! Peace be unto all. Wisdom, let us attend!"** *The choir singeth the troparion:* **"The Noble Joseph"** (*Благообразный Іѡсифъ*), *once. Then the troparion of the Paremia. Glory, now and ever, the same. And immediately the Prokeimenon. Then the Paremia, of the Prophecy of Ezekiel [Ezekiel 37:1–14]. Thereafter the Prokeimenon of the Apostle, the Epistle to the Corinthians, pericope 133 [1 Cor. 5:6–8; Gal. 3:13–14], the Gospel of Matthew, pericope 114 [Matthew 27:62–66]. Then the ectene:* **"Let us all say"** (*Рцемъ вси*), *and* **"Let us complete our morning prayer"** (*Исполнимъ утреннюю молитву нашу*), *and the rest. And the Great Dismissal. And there taketh place in monasteries the kissing [veneration] of the Plashchanytsia laid in the tomb. The singers according to the rule sing here the sticheron in Tone 5:* **"Come, let us bless Joseph of everlasting memory"** (*Пріидите ублажимъ Іѡсифа*).[^271]
 
 ### On Holy and Great Saturday in the Evening
 
-*At a late hour of the day Vespers is sung together with the Liturgy of Saint Basil the Great according to custom. The Priest vests in black vestments. At* **"Lord, I have cried"** (*Господи воззвахъ*), *we set 8 verses. Entrance with the Gospel.* **"O Gladsome Light"** (*Свѣте тихій*). *The Prokeimenon is not said. But immediately the Priest or Deacon:* **"Wisdom!"** *And the reader begins the readings of the day from the Triodion according to their order, and the verses with the refrain. All the readings are 15 in number. At the conclusion of the readings, the Little Ectene. The Priest, the exclamation:* **"For holy art Thou, our God."** *Instead of the Trisagion, we sing:* **"As many as have been baptized into Christ have put on Christ. Alleluia"** (*Елицы во Христа креститеся, во Христа облекостеся. Аллилуіа*). *Prokeimenon. Epistle to the Romans, pericope 91 [Romans 6:3–11]. Alleluia is not said; but after the Priest saith:* **"Peace be unto thee"**, *immediately the reader saith:...*
+*At a late hour of the day Vespers is sung together with the Liturgy of Saint Basil the Great according to custom. The Priest vesteth in black vestments. At* **"Lord, I have cried"** (*Господи воззвахъ*), *we set 8 verses. Entrance with the Gospel.* **"O Gladsome Light"** (*Свѣте тихій*). *The Prokeimenon is not said. But immediately the Priest or Deacon:* **"Wisdom!"** *And the reader beginneth the readings of the day from the Triodion according to their order, and the verses with the refrain. All the readings are 15 in number. At the conclusion of the readings, the Little Ectene. The Priest, the exclamation:* **"For holy art Thou, our God."** *Instead of the Trisagion, we sing:* **"As many as have been baptized into Christ have put on Christ. Alleluia"** (*Елицы во Христа креститеся, во Христа облекостеся. Аллилуіа*). *Prokeimenon. Epistle to the Romans, pericope 91 [Romans 6:3–11]. Alleluia is not said; but after the Priest saith:* **"Peace be unto thee"**, *immediately the reader saith:...*
 
-[Book Page 242]
+*...Tone 7:* **"Arise, O God, judge the earth, for Thou shalt inherit among all nations"** (*Воскресни Боже суди земли, яко ты наслѣдиши во всѣхъ языцѣхъ*). *The choir singeth the same. And the rest with the verses. When they sing:* **"Arise, O God, judge the earth"**, *then the Priest and deacons strip off the black vestments and vest in white. Gospel of Matthew, pericope 115 [Matthew 28:1–20]. And according to order the Divine Liturgy of Saint Basil the Great. Instead of the Cherubic Hymn, there is sung the troparion:* **"Let all mortal flesh keep silence, and with fear and trembling stand..."** (*Да молчитъ всякая плоть*). *After the Dismissal there taketh place the customary blessing of bread and wine. The Priest cometh and, having censed the gifts set forth upon the Tetrapod for blessing, saith:* **"Let us pray to the Lord"**, *and the customary prayer of blessing:* **"O Lord Jesus Christ our God, Who didst bless the five loaves..."** *And having said Amen, we depart from the church. And we partake of a little nourishment.*[^272]
 
-— 242 —
-
-*...Tone 7:* **"Arise, O God, judge the earth, for Thou shalt inherit among all nations"** (*Воскресни Боже суди земли, яко ты наслѣдиши во всѣхъ языцѣхъ*). *The choir sings the same. And the rest with the verses. When they sing:* **"Arise, O God, judge the earth"**, *then the Priest and deacons strip off the black vestments and vest in white. Gospel of Matthew, pericope 115 [Matthew 28:1–20]. And according to order the Divine Liturgy of Saint Basil the Great. Instead of the Cherubic Hymn, there is sung the troparion:* **"Let all mortal flesh keep silence, and with fear and trembling stand..."** (*Да молчитъ всякая плоть*). *After the Dismissal there takes place the customary blessing of bread and wine. The Priest comes and, having censed the gifts set forth upon the Tetrapod for blessing, saith:* **"Let us pray to the Lord"**, *and the customary prayer of blessing:* **"O Lord Jesus Christ our God, Who didst bless the five loaves..."** *And having said Amen, we depart from the church. And we partake of a little nourishment.*[^272]
-
-☞ *Be it known: That on this Saturday there takes place the reading of the Acts of the Holy Apostles from the beginning unto the end. The readers alternate. And they read even unto the 4th hour of the night [10:00 PM]. Thereafter all the lamps are kindled in their places. And immediately, when the Priest hath blessed, we say the Trisagion; after* **"Our Father"**, **"Lord, have mercy"** *12 times. Glory, now and ever:* **"O come, let us worship"** *thrice. Psalm 50. Then we sing the Canon of Holy Saturday [the Burial Canon], Tone 6:* **"Wave of the sea"** (*Волновою морскою*), *as in the Triodion. At the conclusion of the canon, the Trisagion; after* **"Our Father"**, *troparion, Tone 2:* **"When Thou didst descend unto death, O Life Immortal"** (*Егда снизшелъ еси къ смерти*), *once. Then the ectene:* **"Have mercy on us, O God"**, *as at the Sunday Midnight Office, and the Dismissal.*[^273]
-
-[Book Page 243]
-
-— 243 —
+☞ *Be it known: That on this Saturday there taketh place the reading of the Acts of the Holy Apostles from the beginning unto the end. The readers alternate. And they read even unto the 4th hour of the night [10:00 PM]. Thereafter all the lamps are kindled in their places. And immediately, when the Priest hath blessed, we say the Trisagion; after* **"Our Father"**, **"Lord, have mercy"** *12 times. Glory, now and ever:* **"O come, let us worship"** *thrice. Psalm 50. Then we sing the Canon of Holy Saturday [the Burial Canon], Tone 6:* **"Wave of the sea"** (*Волновою морскою*), *as in the Triodion. At the conclusion of the canon, the Trisagion; after* **"Our Father"**, *troparion, Tone 2:* **"When Thou didst descend unto death, O Life Immortal"** (*Егда снизшелъ еси къ смерти*), *once. Then the ectene:* **"Have mercy on us, O God"**, *as at the Sunday Midnight Office, and the Dismissal.*[^273]
 
 ---
 
@@ -3394,92 +2573,52 @@ In which we sing the Supplicatory Office of the Akathist.
 
 ### On the Holy and Great Sunday of Pascha
 
-*At the hour of Matins [immediately after midnight: 12:00 AM] the sacristan kindles all the tapers and lamps. Then the Priest vests [in cathedral temples the Superior with the priests and deacons] in all his brightest vestments. And he distributes candles unto the brethren. Thereafter, when the Priest hath censed the Plashchanytsia, they begin to sing the burial troparion:* **"When Thou didst descend unto death, O Life Immortal"** (*Егда снизшелъ еси къ смерти животе безсмертный*); *[and they sing it in Tone 2, to the melody:* **"The Noble Joseph"**]. *While this is sung, the Plashchanytsia is taken up and laid upon the Holy Table. Then the Priest [the Superior], having taken the Precious Cross [according to local custom, the pyx with the Divine Mysteries], and the Deacon taking the censer, issues forth through the North Door, the Deacon preceding him with two tapers, and both choirs singing the sticheron of the Triodion, Tone 6:* **"Thy Resurrection, O Christ our Saviour, the Angels sing in the heavens: and make Thou us worthy on earth to glorify Thee with a pure heart"** (*Воскресеніе твое Христе спасе, аггели поютъ на небеси*). *Then they ring all the bells. And thus we issue forth outside the church and go in procession around the entire church. Thereafter, all having stood before the holy doors [and the Priest having placed the pyx with the Divine Mysteries in the tabernacle], the church doors which face westward are shut. Then the Priest takes the censer from the Deacon into his right hand, and the Cross into his left, and censes the icons and the people according to custom, as they stand with...*[^274]
+*At the hour of Matins [immediately after midnight: 12:00 AM] the sacristan kindleth all the tapers and lamps. Then the Priest vesteth [in cathedral temples the Superior with the priests and deacons] in all his brightest vestments. And he distributeth candles unto the brethren. Thereafter, when the Priest hath censed the Plashchanytsia, they begin to sing the burial troparion:* **"When Thou didst descend unto death, O Life Immortal"** (*Егда снизшелъ еси къ смерти животе безсмертный*); *[and they sing it in Tone 2, to the melody:* **"The Noble Joseph"**]. *While this is sung, the Plashchanytsia is taken up and laid upon the Holy Table. Then the Priest [the Superior], having taken the Precious Cross [according to local custom, the pyx with the Divine Mysteries], and the Deacon taking the censer, issueth forth through the North Door, the Deacon preceding him with two tapers, and both choirs singing the sticheron of the Triodion, Tone 6:* **"Thy Resurrection, O Christ our Saviour, the Angels sing in the heavens: and make Thou us worthy on earth to glorify Thee with a pure heart"** (*Воскресеніе твое Христе спасе, аггели поютъ на небеси*). *Then they ring all the bells. And thus we issue forth outside the church and go in procession around the entire church. Thereafter, all having stood before the holy doors [and the Priest having placed the pyx with the Divine Mysteries in the tabernacle], the church doors which face westward are shut. Then the Priest taketh the censer from the Deacon into his right hand, and the Cross into his left, and censeth the icons and the people according to custom, as they stand with...*[^274]
 
-[Book Page 244]
+*...candles. And thereafter, having stood before the church doors, looking toward the east, he maketh the sign of the cross over the great doors of the church [which are closed] with the censer thrice, holding in his left hand the Precious Cross, and taper-bearers standing on either side. And with a loud voice he proclaimeth:* **"Glory to the Holy, Consubstantial, Life-Giving, and Undivided Trinity, always, now and forever, and unto the ages of ages."** *And we responding:* **"Amen."** *The Superior (the Priest) with the other ministers beginneth with a loud voice the troparion, in Tone 5:* **"Christ is risen from the dead, trampling down death by death, and upon those in the tombs bestowing life"** (*Христосъ воскресе изъ мертвыхъ, смертію смерть поправъ, и сущимъ во гробѣхъ животъ даровавъ*). *And we sing the same likewise with sweet chanting. This troparion is sung thrice by the Priest, and thrice by us. Then the Priest (the Superior) proclaimeth the verses. The first:* **"Let God arise, and let His enemies be scattered; let them also that hate Him flee from before His face"** (*Да воскреснетъ Богъ*). *Unto each verse we sing the troparion:* **"Christ is risen"**, *in full, once. After the 4th verse, the Priest saith:* **"Glory"**; **"Christ is risen"**, *once;* **"Now and ever"**; **"Christ is risen"**, *once. Then the Priest [the Superior] singeth in a higher voice:* **"Christ is risen from the dead, trampling down death by death."** *And he openeth the doors. The Priest entereth with the Precious Cross, two lamps preceding him, and all the brethren singing:* **"And upon those in the tombs bestowing life."** *Then they ring all the bells and strike the klepalo abundantly, with three chimes. When the Priest hath entered into the holy sanctuary, the Deacon (if there be none, the Priest himself) reciteth the Great Ectene:* **"In peace let us pray to the Lord."** *After the exclamation,...*[^275]
 
-— 244 —
+*...the Superior beginneth the Canon, the Heirmos in Tone 1:* **"The Day of Resurrection"** (*Воскресенія день*). *And at the beginning of the canon the Superior [the Priest] censeth the holy icons, and both choirs, and all the people according to rank, making a full procession with the censer; and censing, he greeteth each one, saying:* **"Christ is risen!"** *At the other odes the other priests cense, if there be any. And after each ode there is a Little Ectene outside the sanctuary on this holy day. The exclamation is by the Priest from within the sanctuary. At the 9th Ode, the refrain:* **"The Angel cried unto her that is full of grace: O pure Virgin, rejoice! And again I say, rejoice! For thy Son is risen from the tomb on the third day"** (*Аггелъ вопіяше*); *and:* **"Shine, shine, O new Jerusalem"** (*Свѣтися, свѣтися*). *Exapostilarion:* **"Having fallen asleep in the flesh as a mortal, O King and Lord, on the third day Thou didst rise again..."** (*Плотію уснувъ*), *thrice. Thereafter they sing:* **"Let every breath praise the Lord"** (*Всякое дыханіе*), *in Tone 1, and we sing at the Praises 4 Resurrectional stichera. Then both choirs, having united, sing the Paschal stichera, Tone 5, with their verses:* **"Let God arise"**; **"A Pascha sacred hath appeared unto us today..."** (*Пасха священная*), *and the rest. Glory, now and ever:* **"The Day of Resurrection"** (*Воскресенія день*). *Then:* **"Christ is risen"**; *and we sing this many times, while the priests and brethren kiss one another. Thereafter the Superior, having taken the Precious Cross, standeth outside before the Holy Doors of the church. Likewise also all the priests, as many as there be, and the deacons, each of them having taken the Holy Gospel and the precious icons according to their order, stand all in a row on the right side of the Superior. And there come first the most venerable members of the clergy and elders, and thereafter the laity one by one. And they bow slightly before the Superior. And each of them kisseth the Precious Cross and the Holy Gospel which the Priest holdeth, and the other icons, and also the hand of the Superior himself, saying:...*[^276]
 
-*...candles. And thereafter, having stood before the church doors, looking toward the east, he makes the sign of the cross over the great doors of the church [which are closed] with the censer thrice, holding in his left hand the Precious Cross, and taper-bearers standing on either side. And with a loud voice he proclaims:* **"Glory to the Holy, Consubstantial, Life-Giving, and Undivided Trinity, always, now and forever, and unto the ages of ages."** *And we responding:* **"Amen."** *The Superior (the Priest) with the other ministers begins with a loud voice the troparion, in Tone 5:* **"Christ is risen from the dead, trampling down death by death, and upon those in the tombs bestowing life"** (*Христосъ воскресе изъ мертвыхъ, смертію смерть поправъ, и сущимъ во гробѣхъ животъ даровавъ*). *And we sing the same likewise with sweet chanting. This troparion is sung thrice by the Priest, and thrice by us. Then the Priest (the Superior) proclaims the verses. The first:* **"Let God arise, and let His enemies be scattered; let them also that hate Him flee from before His face"** (*Да воскреснетъ Богъ*). *Unto each verse we sing the troparion:* **"Christ is risen"**, *in full, once. After the 4th verse, the Priest saith:* **"Glory"**; **"Christ is risen"**, *once;* **"Now and ever"**; **"Christ is risen"**, *once. Then the Priest [the Superior] sings in a higher voice:* **"Christ is risen from the dead, trampling down death by death."** *And he opens the doors. The Priest enters with the Precious Cross, two lamps preceding him, and all the brethren singing:* **"And upon those in the tombs bestowing life."** *Then they ring all the bells and strike the klepalo abundantly, with three chimes. When the Priest hath entered into the holy sanctuary, the Deacon (if there be none, the Priest himself) recites the Great Ectene:* **"In peace let us pray to the Lord."** *After the exclamation,...*[^275]
+*...* **"Christ is risen!"** *and the other answering:* **"He is truly risen!"** *Thereafter the ectene:* **"Have mercy on us, O God"**, *and:* **"Let us complete our morning prayer."** *And after the exclamation, the Deacon:* **"Wisdom!"** *Choir:* **"Bless, Father."** *Superior:* **"He that is blessed is Christ our God, always, now and forever, and unto the ages of ages."** *And we:* **"Amen. Establish, O God, the holy Orthodox faith..."** *Thereafter the Superior, holding the Cross, instead of:* **"Glory to Thee, O Christ God, our hope, glory to Thee"**, *singeth:* **"Christ is risen from the dead, trampling down death by death"**; *and we sing:* **"And upon those in the tombs bestowing life."** *And immediately the Superior saith the Dismissal:* **"Christ Who is risen from the dead, trampling down death by death..."** *and the rest. Then, elevating the Cross, he saith:* **"Christ is risen!"** *thrice. And the people answer:* **"He is truly risen!"** *thrice. Then we sing:* **"Christ is risen"** *thrice, the entire troparion. And with the final chant we conclude:* **"And unto us He hath bestowed eternal life: we worship His third-day Resurrection."**  
+*The celebration of the Liturgy taketh place early in the morning. When the Deacon hath begun:* **"Bless, Master"**, *and the Priest hath proclaimed:* **"Blessed is the kingdom"**, *and the choir:* **"Amen"**, *the Priest singeth in the holy sanctuary:* **"Christ is risen from the dead..."** *the entire troparion thrice. And the choirs the same thrice. The Paschal Antiphons. Instead of the Trisagion:* **"As many as have been baptized into Christ have put on Christ. Alleluia."** *(These Antiphons and* **"As many as have been baptized into Christ"** *we sing throughout the entire Bright Week, even unto New Sunday). When the time arriveth for the reading of the Holy Gospel, the Deacon issueth forth and standeth in the customary place directly before the doors of the church, facing east. The Superior standeth before the Holy Table...*
 
-[Book Page 245]
-
-— 245 —
-
-*...the Superior begins the Canon, the Heirmos in Tone 1:* **"The Day of Resurrection"** (*Воскресенія день*). *And at the beginning of the canon the Superior [the Priest] censes the holy icons, and both choirs, and all the people according to rank, making a full procession with the censer; and censing, he greets each one, saying:* **"Christ is risen!"** *At the other odes the other priests cense, if there be any. And after each ode there is a Little Ectene outside the sanctuary on this holy day. The exclamation is by the Priest from within the sanctuary. At the 9th Ode, the refrain:* **"The Angel cried unto her that is full of grace: O pure Virgin, rejoice! And again I say, rejoice! For thy Son is risen from the tomb on the third day"** (*Аггелъ вопіяше*); *and:* **"Shine, shine, O new Jerusalem"** (*Свѣтися, свѣтися*). *Exapostilarion:* **"Having fallen asleep in the flesh as a mortal, O King and Lord, on the third day Thou didst rise again..."** (*Плотію уснувъ*), *thrice. Thereafter they sing:* **"Let every breath praise the Lord"** (*Всякое дыханіе*), *in Tone 1, and we sing at the Praises 4 Resurrectional stichera. Then both choirs, having united, sing the Paschal stichera, Tone 5, with their verses:* **"Let God arise"**; **"A Pascha sacred hath appeared unto us today..."** (*Пасха священная*), *and the rest. Glory, now and ever:* **"The Day of Resurrection"** (*Воскресенія день*). *Then:* **"Christ is risen"**; *and we sing this many times, while the priests and brethren kiss one another. Thereafter the Superior, having taken the Precious Cross, stands outside before the Holy Doors of the church. Likewise also all the priests, as many as there be, and the deacons, each of them having taken the Holy Gospel and the precious icons according to their order, stand all in a row on the right side of the Superior. And there come first the most venerable members of the clergy and elders, and thereafter the laity one by one. And they bow slightly before the Superior. And each of them kisses the Precious Cross and the Holy Gospel which the Priest holds, and the other icons, and also the hand of the Superior himself, saying:...*[^276]
-
-[Book Page 246]
-
-— 246 —
-
-*...* **"Christ is risen!"** *and the other answering:* **"He is truly risen!"** *Thereafter the ectene:* **"Have mercy on us, O God"**, *and:* **"Let us complete our morning prayer."** *And after the exclamation, the Deacon:* **"Wisdom!"** *Choir:* **"Bless, Father."** *Superior:* **"He that is blessed is Christ our God, always, now and forever, and unto the ages of ages."** *And we:* **"Amen. Establish, O God, the holy Orthodox faith..."** *Thereafter the Superior, holding the Cross, instead of:* **"Glory to Thee, O Christ God, our hope, glory to Thee"**, *sings:* **"Christ is risen from the dead, trampling down death by death"**; *and we sing:* **"And upon those in the tombs bestowing life."** *And immediately the Superior saith the Dismissal:* **"Christ Who is risen from the dead, trampling down death by death..."** *and the rest. Then, elevating the Cross, he saith:* **"Christ is risen!"** *thrice. And the people answer:* **"He is truly risen!"** *thrice. Then we sing:* **"Christ is risen"** *thrice, the entire troparion. And with the final chant we conclude:* **"And unto us He hath bestowed eternal life: we worship His third-day Resurrection."**  
-*The celebration of the Liturgy takes place early in the morning. When the Deacon hath begun:* **"Bless, Master"**, *and the Priest hath proclaimed:* **"Blessed is the kingdom"**, *and the choir:* **"Amen"**, *the Priest sings in the holy sanctuary:* **"Christ is risen from the dead..."** *the entire troparion thrice. And the choirs the same thrice. The Paschal Antiphons. Instead of the Trisagion:* **"As many as have been baptized into Christ have put on Christ. Alleluia."** *(These Antiphons and* **"As many as have been baptized into Christ"** *we sing throughout the entire Bright Week, even unto New Sunday). When the time arrives for the reading of the Holy Gospel, the Deacon issues forth and stands in the customary place directly before the doors of the church, facing east. The Superior stands before the Holy Table...*
-
-[Book Page 247]
-
-— 247 —
-
-*...likewise facing east; the other priests stand in diverse places from the Holy Table unto the western doors of the church, one by one; and after all of them stands the Archdeacon. And all read the Gospel in turn after the Superior, pericope by pericope, as the Superior arranges. And at every exclamation or pericope of the Gospel they strike the bells. Instead of* **"It is truly right"**, *we sing:* **"The Angel cried unto her that is full of grace: O pure Virgin, rejoice! And again I say, rejoice! For thy Son is risen from the tomb on the third day"**; *then the Heirmos:* **"Shine, shine, O new Jerusalem"**. *When the Priest saith:* **"With fear of God and faith draw near"**, *we sing instead of* **"Blessed is he that comes"**: **"Christ is risen"**, *once. Priest:* **"Save, O God, Thy people"**; *and we:* **"Christ is risen"**, *once. When the Priest proclaims:* **"Always, now and forever, and unto the ages of ages"**, *we:* **"Christ is risen"**, *once. Instead of:* **"Blessed be the name of the Lord"**: **"Christ is risen"**, *many times. Then the Priest, instead of:* **"Glory to Thee, O Christ God"**, *sings:* **"Christ is risen from the dead, trampling down death by death"**; *and the choir:* **"And upon those in the tombs bestowing life."** *Thereafter the Priest saith the Dismissal with the Cross, as was indicated at Matins.*[^277]  
+*...likewise facing east; the other priests stand in diverse places from the Holy Table unto the western doors of the church, one by one; and after all of them standeth the Archdeacon. And all read the Gospel in turn after the Superior, pericope by pericope, as the Superior arrangeth. And at every exclamation or pericope of the Gospel they strike the bells. Instead of* **"It is truly right"**, *we sing:* **"The Angel cried unto her that is full of grace: O pure Virgin, rejoice! And again I say, rejoice! For thy Son is risen from the tomb on the third day"**; *then the Heirmos:* **"Shine, shine, O new Jerusalem"**. *When the Priest saith:* **"With fear of God and faith draw near"**, *we sing instead of* **"Blessed is he that cometh"**: **"Christ is risen"**, *once. Priest:* **"Save, O God, Thy people"**; *and we:* **"Christ is risen"**, *once. When the Priest proclaimeth:* **"Always, now and forever, and unto the ages of ages"**, *we:* **"Christ is risen"**, *once. Instead of:* **"Blessed be the name of the Lord"**: **"Christ is risen"**, *many times. Then the Priest, instead of:* **"Glory to Thee, O Christ God"**, *singeth:* **"Christ is risen from the dead, trampling down death by death"**; *and the choir:* **"And upon those in the tombs bestowing life."** *Thereafter the Priest saith the Dismissal with the Cross, as was indicated at Matins.*[^277]  
 ☞ *Be it also known: That the doors of the church sanctuary [the Royal Doors] and the small side doors throughout all churches are not shut throughout the entire Bright Week, even during the time of communion.*
-
-[Book Page 248]
-
-— 248 —
 
 ### On the Holy and Great Sunday of Pascha in the Evening
 
-*For Vespers the Priest vests in all the sacerdotal vestments, and standing before the Holy Table with the censer, makes the sign of the cross and proclaims, saying:* **"Blessed is our God"** (*Благословенъ Богъ нашъ*). *And we answering:* **"Amen."** *The Priest sings:* **"Christ is risen from the dead..."** *thrice. And the choir likewise answers thrice. And the Priest saith the aforementioned verses:* **"Let God arise"**; **"As smoke vanishes, so let them vanish"**, *and the rest. Unto each verse we sing:* **"Christ is risen"**, *once (according to others, thrice). At the end the Priest sings:* **"Christ is risen from the dead, trampling down death by death."** *And we:* **"And upon those in the tombs bestowing life."** *Then the Great Ectene:* **"In peace let us pray to the Lord."** *Thereafter at* **"Lord, I have cried"** (*Господи воззвахъ*), *we set 6 verses. And censing takes place. Entrance with the Gospel.* **"O Gladsome Light"** (*Свѣте тихій*). *Then the Great Prokeimenon with its verses:* **"What God is great as our God? Thou art the God Who doest wonders"** (*Кто Богъ велій, яко Богъ нашъ*). *After the Prokeimenon the Deacon proclaims:* **"And that we may be accounted worthy to hear the Holy Gospel..."** *Then the Superior (the Priest) reads the Gospel in the sanctuary [facing west], of John, pericope 65 [John 20:19–25]. Thereafter the ectene:* **"Let us all say."** **"Vouchsafe, O Lord, in this evening."** *Then:* **"Let us complete our evening prayer."** *And after the exclamation we sing the Resurrectional sticheron, Tone 2:* **"Thy Resurrection, O Christ Saviour..."** *Then the Paschal stichera:* **"A Pascha sacred"**, *with their refrains. After these the Deacon:* **"Wisdom!"** *The choir:* **"Bless, Father."** *Priest:* **"He that is blessed and most glorified is Christ our God, always, now and forever, and unto the ages of ages."** *Choir:* **"Establish, O God."** *And the rest as appeared yesterday at the end of Matins. And he venerates the holy icons...*
-
-[Book Page 249]
-
-— 249 —
+*For Vespers the Priest vesteth in all the sacerdotal vestments, and standing before the Holy Table with the censer, maketh the sign of the cross and proclaimeth, saying:* **"Blessed is our God"** (*Благословенъ Богъ нашъ*). *And we answering:* **"Amen."** *The Priest singeth:* **"Christ is risen from the dead..."** *thrice. And the choir likewise answereth thrice. And the Priest saith the aforementioned verses:* **"Let God arise"**; **"As smoke vanisheth, so let them vanish"**, *and the rest. Unto each verse we sing:* **"Christ is risen"**, *once (according to others, thrice). At the end the Priest singeth:* **"Christ is risen from the dead, trampling down death by death."** *And we:* **"And upon those in the tombs bestowing life."** *Then the Great Ectene:* **"In peace let us pray to the Lord."** *Thereafter at* **"Lord, I have cried"** (*Господи воззвахъ*), *we set 6 verses. And censing taketh place. Entrance with the Gospel.* **"O Gladsome Light"** (*Свѣте тихій*). *Then the Great Prokeimenon with its verses:* **"What God is great as our God? Thou art the God Who doest wonders"** (*Кто Богъ велій, яко Богъ нашъ*). *After the Prokeimenon the Deacon proclaimeth:* **"And that we may be accounted worthy to hear the Holy Gospel..."** *Then the Superior (the Priest) readeth the Gospel in the sanctuary [facing west], of John, pericope 65 [John 20:19–25]. Thereafter the ectene:* **"Let us all say."** **"Vouchsafe, O Lord, in this evening."** *Then:* **"Let us complete our evening prayer."** *And after the exclamation we sing the Resurrectional sticheron, Tone 2:* **"Thy Resurrection, O Christ Saviour..."** *Then the Paschal stichera:* **"A Pascha sacred"**, *with their refrains. After these the Deacon:* **"Wisdom!"** *The choir:* **"Bless, Father."** *Priest:* **"He that is blessed and most glorified is Christ our God, always, now and forever, and unto the ages of ages."** *Choir:* **"Establish, O God."** *And the rest as appeared yesterday at the end of Matins. And he venerateth the holy icons...*
 
 *...And thus we celebrate throughout the entire Bright Week the order of Vespers.*[^278]
 
 ### On Monday of Bright Week at Matins
 
-*Before the beginning, the bells are rung and the sacristan kindles the lamps and candles. The Priest in parish churches vests in the phelonion, and censes cruciformly, saying:* **"Glory to the Holy, Consubstantial, Life-Giving, and Undivided Trinity"**; *and begins the troparion:* **"Christ is risen"** *thrice. And all of us answer and sing the same:* **"Christ is risen"**, *with its verses, as appeared on Sunday at morning and evening. Then the Great Ectene, and after the exclamation we immediately sing the Canon, as on Sunday. Katavasia after every ode. At the Praises, 4 Resurrectional stichera, and the Paschal stichera. Then the ectene and the Dismissal with the Cross. In this manner is celebrated the Matins service throughout the entire Bright Week. We sing the Paschal Hours, as is set forth in the Horologion.*  
-*On this day there takes place a procession outside the church, singing a moleben, as is written concerning this in the Triodion. At the Liturgy everything is as on Sunday.*
+*Before the beginning, the bells are rung and the sacristan kindleth the lamps and candles. The Priest in parish churches vesteth in the phelonion, and censeth cruciformly, saying:* **"Glory to the Holy, Consubstantial, Life-Giving, and Undivided Trinity"**; *and beginneth the troparion:* **"Christ is risen"** *thrice. And all of us answer and sing the same:* **"Christ is risen"**, *with its verses, as appeared on Sunday at morning and evening. Then the Great Ectene, and after the exclamation we immediately sing the Canon, as on Sunday. Katavasia after every ode. At the Praises, 4 Resurrectional stichera, and the Paschal stichera. Then the ectene and the Dismissal with the Cross. In this manner is celebrated the Matins service throughout the entire Bright Week. We sing the Paschal Hours, as is set forth in the Horologion.*  
+*On this day there taketh place a procession outside the church, singing a moleben, as is written concerning this in the Triodion. At the Liturgy everything is as on Sunday.*
 
 ### On Monday of Bright Week in the Evening
 
 *At Vespers, after* **"Christ is risen"** *and the rest, we sing* **"Lord, I have cried"**, *and set 6 verses, as on Sunday. Entrance with the censer.* **"O Gladsome Light."** *The Great Prokeimenon. And immediately the ectene:* **"Let us all say."** *(There is no Gospel). And the rest, as was prescribed for Sunday, and the Dismissal. In this manner we sing Vespers through the entire Bright Week.*
 
-[Book Page 250]
-
-— 250 —
-
 ☞ *On Saturday after the Dismissal of the Liturgy, the Royal Doors are shut. Before Vespers, the 9th Hour with three psalms.*
 
 ### The Sunday of Antipascha, or New Sunday
 
-*It is proper to know: That on this second Sunday of Antipascha the Resurrectional hymns are not sung, but all of the feast. And a vigil takes place.*  
+*It is proper to know: That on this second Sunday of Antipascha the Resurrectional hymns are not sung, but all of the feast. And a vigil taketh place.*  
 *At Great Vespers: After the Priest hath blessed, we sing:* **"Christ is risen"** *thrice. And immediately the Initial Psalm:* **"Bless the Lord, O my soul, O Lord my God, Thou art become exceedingly great."** *Then we sing:* **"Blessed is the man"**, *the entire kathisma. At* **"Lord, I have cried"** (*Господи воззвахъ*), *we set 10 verses. At the blessing of loaves, the troparion of the feast thrice, and the rest. At Matins, after the kathismata, the sessional hymns of the feast; then the Polyeleos and the Megalynarion of the feast. Gradual hymns: the 1st Antiphon of Tone 4. Prokeimenon of the feast and the Gospel of Matthew, pericope 116 [Matthew 28:16–20 / John 20:19–31].* **"Having beheld the Resurrection of Christ"** *thrice. [Thus we say even unto the Ascension of the Lord]. And the rest of Matins, as in the Triodion.*  
-*At the Liturgy,* ☞ *Be it known: That from New Sunday unto the Apodosis of the Feast of Pascha the beginning of the Liturgy takes place thus: After the Deacon saith:* **"Bless, Master"**, *and the Priest:* **"Blessed is the kingdom"**, *the Priest sings:* **"Christ is risen"** *thrice, the entire troparion. Then the ectene. And according to the rule, the Typika instead of antiphons. Instead of* **"It is truly right"**, *we sing:* **"The Angel cried unto her that is full of grace"**. *When the Priest saith:* **"With fear of God"**, *the choir sings:* **"Blessed is he that comes in the name of the Lord."** *Priest:* **"Save, O God, Thy people"**; *and...*
+*At the Liturgy,* ☞ *Be it known: That from New Sunday unto the Apodosis of the Feast of Pascha the beginning of the Liturgy taketh place thus: After the Deacon saith:* **"Bless, Master"**, *and the Priest:* **"Blessed is the kingdom"**, *the Priest singeth:* **"Christ is risen"** *thrice, the entire troparion. Then the ectene. And according to the rule, the Typika instead of antiphons. Instead of* **"It is truly right"**, *we sing:* **"The Angel cried unto her that is full of grace"**. *When the Priest saith:* **"With fear of God"**, *the choir singeth:* **"Blessed is he that cometh in the name of the Lord."** *Priest:* **"Save, O God, Thy people"**; *and...*
 
-[Book Page 251]
-
-— 251 —
-
-*...the choir sings:* **"Christ is risen"**, *once, and so unto the Apodosis of Pascha. [The troparion:* **"We have seen the true light"** *is not sung]. At the Dismissal, when he saith:* **"Glory to Thee, O Christ God"**, *we also:* **"Christ is risen"**, *thrice. Then the Dismissal of the Liturgy according to custom.*  
-*On the Sunday of Antipascha, we sing at the Beatitudes from the Canon of the feast Odes 3 and 6. After the Entrance, the troparion of the feast:* **"With the tomb sealed, Thou didst shine forth, O Life, from the grave, O Christ God..."** (*Запечатану гробу*); *Glory, now and ever, kontakion:* **"With searching right hand did Thomas explore Thy life-giving side, O Christ God..."** (*Любопытною десницею*). *After the Dismissal there takes place the distribution of the Artos.*[^279]
+*...the choir singeth:* **"Christ is risen"**, *once, and so unto the Apodosis of Pascha. [The troparion:* **"We have seen the true light"** *is not sung]. At the Dismissal, when he saith:* **"Glory to Thee, O Christ God"**, *we also:* **"Christ is risen"**, *thrice. Then the Dismissal of the Liturgy according to custom.*  
+*On the Sunday of Antipascha, we sing at the Beatitudes from the Canon of the feast Odes 3 and 6. After the Entrance, the troparion of the feast:* **"With the tomb sealed, Thou didst shine forth, O Life, from the grave, O Christ God..."** (*Запечатану гробу*); *Glory, now and ever, kontakion:* **"With searching right hand did Thomas explore Thy life-giving side, O Christ God..."** (*Любопытною десницею*). *After the Dismissal there taketh place the distribution of the Artos.*[^279]
 
 ### On the Sunday of Antipascha in the Evening
 
-*When the Priest hath blessed, we say:* **"Christ is risen"** *thrice. Then the Trisagion [* **"O Heavenly King"** *is not said until the Descent of the Holy Spirit]; after* **"Our Father"**, **"Lord, have mercy"** *12 times. Glory, now and ever:* **"O come, let us worship"** *thrice. Psalm:* **"Bless the Lord, O my soul"**, *and the rest. At* **"Lord, I have cried"**, *stichera of the feast 3, and of the saint 3. Glory of the saint; if there be none, Glory, now and ever, of the feast. Entrance. The Great Prokeimenon of the Triodion. Aposticha as arranged in the Triodion. After* **"Now lettest Thou"**, *troparion of the saint; Glory, now and ever, of the feast:* **"With the tomb sealed."** *And the Great Dismissal. In this manner therefore takes place the order of Vespers on all Sundays of the Holy Pentecostarion.* ☞ *From this day we sing the services also of the saints throughout the entire Pentecostarion. Compline is Small. After* **"It is truly right"** *and after* **"Our Father"**, *we say the kontakion of the feast throughout the entire Pentecostarion.*
-
-[Book Page 252]
-
-— 252 —
+*When the Priest hath blessed, we say:* **"Christ is risen"** *thrice. Then the Trisagion [* **"O Heavenly King"** *is not said until the Descent of the Holy Spirit]; after* **"Our Father"**, **"Lord, have mercy"** *12 times. Glory, now and ever:* **"O come, let us worship"** *thrice. Psalm:* **"Bless the Lord, O my soul"**, *and the rest. At* **"Lord, I have cried"**, *stichera of the feast 3, and of the saint 3. Glory of the saint; if there be none, Glory, now and ever, of the feast. Entrance. The Great Prokeimenon of the Triodion. Aposticha as arranged in the Triodion. After* **"Now lettest Thou"**, *troparion of the saint; Glory, now and ever, of the feast:* **"With the tomb sealed."** *And the Great Dismissal. In this manner therefore taketh place the order of Vespers on all Sundays of the Holy Pentecostarion.* ☞ *From this day we sing the services also of the saints throughout the entire Pentecostarion. Compline is Small. After* **"It is truly right"** *and after* **"Our Father"**, *we say the kontakion of the feast throughout the entire Pentecostarion.*
 
 ### On Monday of the Second Week of Antipascha at Matins
 
-*The Priest makes the beginning from:* **"Glory to the Holy, Consubstantial, Life-Giving, and Undivided Trinity"**; *then we say:* **"Christ is risen"** *thrice, in a quiet voice, and immediately:* **"Glory to God in the highest"**, *and the customary Six Psalms. The Great Ectene. Then at* **"God is the Lord"**, *troparion of the feast twice; Glory, of the saint; now and ever, of the feast. [This troparion of the feast is said through the entire week]. We chant two kathismata; and the third assigned kathisma at Vespers. Sessional hymns of the Triodion. After the 2nd Kathisma and the sessional hymn of the feast:* **"Having beheld the Resurrection of Christ"** *thrice, and Psalm 50. [For thus we do until the Ascension of the Lord]. Canon of the feast, which was on Sunday, and of the saint. Katavasia after Odes 3, 6, 8, and 9. And we chant* **"More honorable than the Cherubim."** *At the Praises, stichera of the Triodion. The Small Doxology. Aposticha of the feast, and the rest; after* **"It is good to give praise"**, *troparion of the saint; Glory, now and ever, of the feast. Then the ectene:* **"Have mercy on us, O God."** *Thereafter the Priest:* **"He that is blessed is Christ our God."** *Choir:* **"Establish, O God, the holy Orthodox faith unto the ages of ages. Amen."** *And immediately we join the First Hour, with three psalms, according to custom, and the Dismissal. At the Hours we recite the troparion and kontakion of the feast and of the saint, alternating them.*  
+*The Priest maketh the beginning from:* **"Glory to the Holy, Consubstantial, Life-Giving, and Undivided Trinity"**; *then we say:* **"Christ is risen"** *thrice, in a quiet voice, and immediately:* **"Glory to God in the highest"**, *and the customary Six Psalms. The Great Ectene. Then at* **"God is the Lord"**, *troparion of the feast twice; Glory, of the saint; now and ever, of the feast. [This troparion of the feast is said through the entire week]. We chant two kathismata; and the third assigned kathisma at Vespers. Sessional hymns of the Triodion. After the 2nd Kathisma and the sessional hymn of the feast:* **"Having beheld the Resurrection of Christ"** *thrice, and Psalm 50. [For thus we do until the Ascension of the Lord]. Canon of the feast, which was on Sunday, and of the saint. Katavasia after Odes 3, 6, 8, and 9. And we chant* **"More honorable than the Cherubim."** *At the Praises, stichera of the Triodion. The Small Doxology. Aposticha of the feast, and the rest; after* **"It is good to give praise"**, *troparion of the saint; Glory, now and ever, of the feast. Then the ectene:* **"Have mercy on us, O God."** *Thereafter the Priest:* **"He that is blessed is Christ our God."** *Choir:* **"Establish, O God, the holy Orthodox faith unto the ages of ages. Amen."** *And immediately we join the First Hour, with three psalms, according to custom, and the Dismissal. At the Hours we recite the troparion and kontakion of the feast and of the saint, alternating them.*  
 ☞ *It is proper to know: As the order for Monday at Matins was written here, thus let it be done in all the weeks until the Ascension of the Lord, with the stichera and sessional hymns of the Octoechos alternating...*[^280]
-
-[Book Page 253]
-
-— 253 —
 
 *...At the beginning we say:* **"Christ is risen"** *at the Hours, and at Vespers, and at Compline, from this Matins of the Sunday of Antipascha even unto the Ascension of the Lord.*  
 *At the Liturgy: The Typika according to the rule, and the Beatitudes of the Triodion. After the Entrance, troparion of the feast:* **"With the tomb sealed"**; *Glory, now and ever, kontakion of the feast:* **"With searching right hand."** *Then also the Prokeimenon of the feast. Epistle and Gospel of the day. And throughout the entire week we do thus.*  
@@ -3488,12 +2627,8 @@ In which we sing the Supplicatory Office of the Akathist.
 ### The Third Sunday after Pascha,
 ### Of the Holy Myrrhbearing Women
 
-*At* **"Lord, I have cried"** (*Господи воззвахъ*), *we set 10 verses. And we sing 4 Resurrectional stichera, and of the Myrrhbearers with the Litiya stichera on 6 [for Litiya takes not place among us]. Entrance. At the Aposticha, one Resurrectional sticheron in order in the Triodion. Then the Paschal stichera:* **"Let God arise"**; *Glory, now and ever, Tone 5:* **"Thou Who clothest Thyself with light"**. *After* **"Now lettest Thou"**, *troparion:* **"When Thou didst descend unto death"**; *Glory:* **"The Noble Joseph"**; *now and ever:* **"Unto the Myrrhbearing Women"**. *At the Midnight Office the Triadic Canon is sung according to custom.*  
+*At* **"Lord, I have cried"** (*Господи воззвахъ*), *we set 10 verses. And we sing 4 Resurrectional stichera, and of the Myrrhbearers with the Litiya stichera on 6 [for Litiya taketh not place among us]. Entrance. At the Aposticha, one Resurrectional sticheron in order in the Triodion. Then the Paschal stichera:* **"Let God arise"**; *Glory, now and ever, Tone 5:* **"Thou Who clothest Thyself with light"**. *After* **"Now lettest Thou"**, *troparion:* **"When Thou didst descend unto death"**; *Glory:* **"The Noble Joseph"**; *now and ever:* **"Unto the Myrrhbearing Women"**. *At the Midnight Office the Triadic Canon is sung according to custom.*  
 *At Matins, after the Blameless [Amomos], troparia:* **"The Angelic Council"**, *and the Hypakoë of the Tone. Gradual hymns and Prokeimenon of the Tone. Gospel of Mark, pericope 4 [Mark 16:9–20].* **"Having beheld the Resurrection of Christ"** *thrice, and the rest. Canon of Pascha. Then another Canon of the Theotokos, whose troparia are sung likewise as those of Pascha. And the Canon of the Myrrhbearers on 8. Katavasia of Pascha. At...*[^281]
-
-[Book Page 254]
-
-— 254 —
 
 *...the 9th Ode we do not sing* **"More honorable than the Cherubim"** *until the Apodosis of Pascha on all Sundays, and the rest.*  
 *At the Liturgy, after the Entrance, troparion:* **"When Thou didst descend unto death"**, *and* **"The Noble Joseph"**; *Glory, kontakion of the Triodion; now and ever, of Pascha:* **"Though Thou didst descend into the grave, O Immortal One..."** (*Аще и во гробъ*).
@@ -3507,10 +2642,6 @@ In which we sing the Supplicatory Office of the Akathist.
 *After the Priest hath begun:* **"Glory to the Holy Trinity"**, *we say:* **"Christ is risen"** *thrice, and the rest, as on Thomas Monday. At* **"God is the Lord"**, *troparion:* **"The Noble Joseph"**, *once; and troparion:* **"When Thou didst descend"**, *once; Glory, of the saint; now and ever:* **"Unto the Myrrhbearing Women"**, *and the rest.*  
 *If there be two saints, the troparion* **"When Thou didst descend"** *is omitted. The rest as was prescribed on Monday of New Week. At the Hours: At the 1st Hour:* **"When Thou didst descend"**, *kontakion of the Triodion. At the 3rd Hour, troparion and kontakion of the saint. At the 6th Hour:* **"The Noble Joseph"**,...
 
-[Book Page 255]
-
-— 255 —
-
 *...kontakion of the feast. At the 9th Hour, troparion of the Myrrhbearers; Glory, of the saint, and the rest.*  
 *At the Liturgy, after the Entrance, the troparia as indicated on the Sunday of the Myrrhbearers.* ☞ *If, however, there be a service of a saint, we sing the troparion:* **"The Noble Joseph"**, *and the troparion of the saint; Glory, kontakion of the saint; now and ever, kontakion of the feast:* **"The Myrrhbearing women heard Thy command: Rejoice!..."** (*Радоватися мироносицамъ*). *In this manner the troparia are sung if a service from diverse offices be joined.*
 
@@ -3518,40 +2649,27 @@ In which we sing the Supplicatory Office of the Akathist.
 ### Wherein We Celebrate Mid-Pentecost
 
 *On Tuesday at Vespers there is an Entrance, and 3 readings. The rest in the Triodion. At Compline we sing the canon of the saint of the day. Kontakion of the feast.*  
-*At Matins there is the Great Doxology, and the rest in order in the Triodion. At the Liturgy, after the Entrance, troparion of Mid-Pentecost; Glory, now and ever, kontakion. Instead of* **"It is truly right"**, *we sing both on the feast and until the Apodosis of Mid-Pentecost the Heirmos:* **"Virginity is foreign to mothers, and childbearing is strange to virgins..."** (*Чужде матеремъ дѣтство*). *On the other days we sing:* **"Shine, shine"**, *even unto the Apodosis. On Wednesday of the 5th Week after Pascha there takes place the Apodosis of the Feast of Mid-Pentecost. And we sing the entire office of the feast, evening and morning, without the Entrance and readings.*[^282]
+*At Matins there is the Great Doxology, and the rest in order in the Triodion. At the Liturgy, after the Entrance, troparion of Mid-Pentecost; Glory, now and ever, kontakion. Instead of* **"It is truly right"**, *we sing both on the feast and until the Apodosis of Mid-Pentecost the Heirmos:* **"Virginity is foreign to mothers, and childbearing is strange to virgins..."** (*Чужде матеремъ дѣтство*). *On the other days we sing:* **"Shine, shine"**, *even unto the Apodosis. On Wednesday of the 5th Week after Pascha there taketh place the Apodosis of the Feast of Mid-Pentecost. And we sing the entire office of the feast, evening and morning, without the Entrance and readings.*[^282]
 
 ### On Wednesday of the Sixth Week after Pascha,
 ### The Apodosis of the Feast of Pascha
 
-*On Tuesday evening, after the 4th hour [that is, after 4:00 PM], the Priest makes the beginning with the censer and candle, the Royal...*
+*On Tuesday evening, after the 4th hour [that is, after 4:00 PM], the Priest maketh the beginning with the censer and candle, the Royal...*
 
-[Book Page 256]
-
-— 256 —
-
-*...Doors being opened, and we sing:* **"Christ is risen"**, *with its verses. And after the verses, the Psalm:* **"Bless the Lord, O my soul"**, *and the ectene. Then the customary kathisma. At* **"Lord, I have cried"** (*Господи воззвахъ*), *stichera of the Blind Man on 6, and the rest. At the Aposticha, the Resurrectional sticheron, Tone 5. Then the Paschal stichera. After* **"Now lettest Thou"**, *troparion:* **"The Word Co-Eternal with the Father and the Spirit..."** (*Собезначальное слово*); *Glory, now and ever, its Theotokion. Ectene:* **"Have mercy on us, O God."** *And the Priest saith the customary Dismissal without the Cross:* **"Christ Who is risen from the dead..."** *And he commemorates the saint of the day. At Compline, the kontakion also of the Blind Man; Glory, now and ever, of Pascha:* **"Though Thou didst descend into the grave."** *At the Midnight Office, instead of:* **"Remember, O Lord"**, *we say the kontakion:* **"Though Thou didst descend into the grave."** **"Lord, have mercy"** *12 times. And the Dismissal. The prayers* **"Remember, O Lord"** *we do not say.*  
+*...Doors being opened, and we sing:* **"Christ is risen"**, *with its verses. And after the verses, the Psalm:* **"Bless the Lord, O my soul"**, *and the ectene. Then the customary kathisma. At* **"Lord, I have cried"** (*Господи воззвахъ*), *stichera of the Blind Man on 6, and the rest. At the Aposticha, the Resurrectional sticheron, Tone 5. Then the Paschal stichera. After* **"Now lettest Thou"**, *troparion:* **"The Word Co-Eternal with the Father and the Spirit..."** (*Собезначальное слово*); *Glory, now and ever, its Theotokion. Ectene:* **"Have mercy on us, O God."** *And the Priest saith the customary Dismissal without the Cross:* **"Christ Who is risen from the dead..."** *And he commemorateth the saint of the day. At Compline, the kontakion also of the Blind Man; Glory, now and ever, of Pascha:* **"Though Thou didst descend into the grave."** *At the Midnight Office, instead of:* **"Remember, O Lord"**, *we say the kontakion:* **"Though Thou didst descend into the grave."** **"Lord, have mercy"** *12 times. And the Dismissal. The prayers* **"Remember, O Lord"** *we do not say.*  
 *On Wednesday at Matins, at* **"God is the Lord"**, *troparion:* **"The Word Co-Eternal"** *twice; Glory, now and ever, its Theotokion. Sessional hymns of the Blind Man.* **"Having beheld the Resurrection of Christ"**, *once. Psalm 50, and the rest. And the Great Doxology. Ectenes and Dismissal without the Cross. And the saint whose day it is is commemorated.*  
-*At the Liturgy: The Typika; from the Canon, Odes 3 and 6. After the Entrance, troparion:* **"The Word Co-Eternal"**; *Glory, kontakion of the Blind Man; now and ever, of Pascha. Epistle and Gospel of the day. Communion Verse:* **"Receive the Body of Christ; taste of the Fountain of immortality."** *Then the Priest makes the Paschal Dismissal with the Cross. And thus is celebrated the Apodosis of the Feast of the Holy and Life-Giving Resurrection of Christ.*[^283]
-
-[Book Page 257]
-
-— 257 —
+*At the Liturgy: The Typika; from the Canon, Odes 3 and 6. After the Entrance, troparion:* **"The Word Co-Eternal"**; *Glory, kontakion of the Blind Man; now and ever, of Pascha. Epistle and Gospel of the day. Communion Verse:* **"Receive the Body of Christ; taste of the Fountain of immortality."** *Then the Priest maketh the Paschal Dismissal with the Cross. And thus is celebrated the Apodosis of the Feast of the Holy and Life-Giving Resurrection of Christ.*[^283]
 
 ### On Thursday of the Ascension
 
 *On Wednesday evening, at the beginning of the 4th hour [that is, after 4:00 PM], the choir immediately saith the Trisagion [* **"O Heavenly King"** *is not said until the Sunday of Pentecost in any church chanting]. At Great Vespers and at Matins the entire service is as set down in the Triodion. At Matins after the Gospel there is said:* **"Having beheld the Resurrection of Christ"**, *once. At the Liturgy, the Antiphons of the feast, and the rest. Instead of* **"It is truly right"**, *we sing both on the feast and unto the Apodosis the Heirmos:* **"Magnify, O my soul, Christ the Giver of life, Who ascended from earth to heaven; Thou Who art higher than mind and beyond comprehension, Mother of God..."** (*Тя паче ума*), *and the rest.*  
-☞ *On that same Thursday at Vespers there is an Entrance, and the Great Prokeimenon with its verses, as in the Triodion. This feast is given up [reaches its Apodosis] on Friday of the 7th Week.*[^284]
+☞ *On that same Thursday at Vespers there is an Entrance, and the Great Prokeimenon with its verses, as in the Triodion. This feast is given up [reacheth its Apodosis] on Friday of the 7th Week.*[^284]
 
 ### The Seventh Sunday after Pascha,
 ### Of the 318 God-Bearing Fathers Who Assembled in Nicaea
 
 *At Great Vespers, after* **"Now lettest Thou"**, *Resurrectional troparion:* **"The Angelic Hosts appeared at Thy tomb..."** (*Аггельскія силы*); *Glory, of the Fathers; now and ever, of the Ascension. The rest all in the Triodion. At Compline, kontakion of the Fathers; Glory, now and ever, of the feast. At the Midnight Office, the Triadic Canon of the Tone. At Matins, at* **"God is the Lord"**, *Resurrectional troparion twice; Glory, of the Fathers; now and ever, of the Feast of the Ascension. The rest all Resurrectional. Canons in order in the Triodion. After the Doxology, the Resurrectional troparion only. After the Dismissal, the Gospel sticheron.*  
-*At the Liturgy, the Resurrectional troparion. Then of the Ascension and of the Fathers. Glory, kontakion of the Fathers; now and ever, of the Ascension. Instead of the Prokeimenon, the Canticle of the Fathers:* **"Blessed art Thou, O Lord, the God of our fathers, and praised and glorified is Thy name unto the ages."**[^285] [Book Page 258]
-
----
-
-
-— 258 —
+*At the Liturgy, the Resurrectional troparion. Then of the Ascension and of the Fathers. Glory, kontakion of the Fathers; now and ever, of the Ascension. Instead of the Prokeimenon, the Canticle of the Fathers:* **"Blessed art Thou, O Lord, the God of our fathers, and praised and glorified is Thy name unto the ages."**[^285]
 
 ☞ *On Monday of the 7th Week [after the Sunday of the Holy Fathers], everything is chanted as in Thomas Week. On Friday of the 7th Week, at the Apodosis of the Feast of the Ascension, we chant the entire office of the feast unchanged: except for the readings and the Polyeleos, both at Vespers and at Matins.*[^286]
 
@@ -3571,10 +2689,6 @@ In which we sing the Supplicatory Office of the Akathist.
 
 *The Priest begins:* **"Blessed is our God"** (*Благослове́нъ Бг҃ъ на́шъ*). *And we say:* **"O Heavenly King"** (*Цр҃ю нб҃ный*) [customarily with singing on this day], *Trisagion, and the rest of the customary beginning. And the Psalm:* **"Bless the Lord, O my soul"** (*Благословѝ дꙋшѐ моѧ̀ Гдⷭ҇а*) [Psalm 103].
 
-[Book Page 259]
-
-— 259 —
-
 *Then the Great Litany with the petitions concerning the calling down of the Holy Spirit (see the Triodion). Entrance with the censer, Great Prokeimenon:* **"Who is a god so great as our God? Thou art our God Who alone workest wonders"** (*Кто̀ Бг҃ъ ве́лїй*). *After the Prokeimenon, the Priest or Deacon exclaims:* **"Again and again, bowing our knees, let us pray to the Lord"** (*Па́ки и҆ па́ки прикло́нше колѣ́на, Гдⷭ҇ꙋ помо́лимся*). *And we chant:* **"Lord, have mercy"**, *thrice. With all kneeling down upon the ground, the Priest reads the prayers in the sanctuary aloud facing the people:* **"O Pure, Undefiled, Unoriginate, Invisible, Incomprehensible..."** (*Преч҃те, нескве́рне*). *At the conclusion of the first prayer, the Deacon proclaims:* **"Help us, save us, have mercy on us, raise us up, and keep us, O God, by Thy grace"** (*Застꙋпѝ, спасѝ*), *and the rest in order in the Triodion.*[^289]  
 *At Small Compline, we chant the Canon of the Holy Spirit.*
 
@@ -3587,35 +2701,27 @@ In which we sing the Supplicatory Office of the Akathist.
 ### The Sunday of All Saints
 
 *Wherein an All-Night Vigil is celebrated. The entire service is in order in the Triodion. At the blessing of loaves, the troparion:* **"Rejoice, O Virgin Mother of God"** (*Бцⷣе Дѣ́во*), *twice, and of the Saints, once.*  
-*At Matins, at* **"God is the Lord"** (*Бг҃ъ Гдⷭ҇ь*), *Resurrectional troparion:* **"When Thou didst descend from on high, O Compassionate One, and didst submit to burial for three days..."** (*Со высоты́ снизше́лъ есѝ*), *twice; Glory, of the Saints; now and ever,*
-
-[Book Page 260]
-
-— 260 —
-
-*Theotokion:* **"The mystery hidden from the ages..."** (*Е҆́же ѿ вѣ́ка*). *The Blameless [Psalm 118]. The Anavathmoi and Prokeimenon of the Tone. The First Resurrectional Morning Gospel.*  
+*At Matins, at* **"God is the Lord"** (*Бг҃ъ Гдⷭ҇ь*), *Resurrectional troparion:* **"When Thou didst descend from on high, O Compassionate One, and didst submit to burial for three days..."** (*Со высоты́ снизше́лъ есѝ*), *twice; Glory, of the Saints; now and ever, Theotokion:* **"The mystery hidden from the ages..."** (*Е҆́же ѿ вѣ́ка*). *The Blameless [Psalm 118]. The Anavathmoi and Prokeimenon of the Tone. The First Resurrectional Morning Gospel.*
 ☞ *From this day forth, we begin to read the Resurrectional Morning Gospels in order.* **"Having beheld the Resurrection of Christ"** (*Воскрнїе хр҃то́во*), *and the rest. After the Doxology and the Trisagion, the troparion:* **"Having risen from the tomb, and having broken the bonds of hades..."** (*Воскре́съ и҆зъ гро́ба*), *only. At the Liturgy: Resurrectional troparion, troparion of All Saints; Glory, Resurrectional kontakion; now and ever, kontakion of All Saints.*[^291]  
-*Notice: If the temple is dedicated to All Saints, we chant their entire service in like manner as occurs on the Sunday of a great saint for whom a vigil is celebrated. Only at Matins do we chant the Polyeleos. After the Polyeleos, the Megalynarion:* **"We magnify you, O holy Apostles, Martyrs, Forefathers, and all Saints, and we honor your holy memory, for ye pray to Christ our God for us"** (*Велича́емъ ва́съ а҆́плꙑ, и҆ мч҃ницы*). *Selected Psalm:* **"Blessed is the man that fears the Lord"** (*Блаже́нъ мꙋ́жъ боя́йся*) [Psalm 111]. *The Anavathmoi of the Tone. Gospel of the Saints.* **"Having beheld the Resurrection of Christ"**. *Instead of* **"Jesus having risen"**, *sticheron of All Saints, whichever one thou desirest.*
+*Notice: If the temple is dedicated to All Saints, we chant their entire service in like manner as occurs on the Sunday of a great saint for whom a vigil is celebrated. Only at Matins do we chant the Polyeleos. After the Polyeleos, the Megalynarion:* **"We magnify you, O holy Apostles, Martyrs, Forefathers, and all Saints, and we honor your holy memory, for ye pray to Christ our God for us"** (*Велича́емъ ва́съ а҆́плꙑ, и҆ мч҃ницы*). *Selected Psalm:* **"Blessed is the man that feareth the Lord"** (*Блаже́нъ мꙋ́жъ боя́йся*) [Psalm 111]. *The Anavathmoi of the Tone. Gospel of the Saints.* **"Having beheld the Resurrection of Christ"**. *Instead of* **"Jesus having risen"**, *sticheron of All Saints, whichever one thou desirest.*
+
+---
 
 ### Decree: When It Is Fitting to Chant the Polyeleos
 
-*The Polyeleos, or "Much-Merciful," consists of two psalms from the 14th Kathisma: the first being Psalm 134:* **"Praise the name of the Lord, praise the Lord, O ye servants"** (*Хвали́те и҆́мя гдⷭ҇не, хвали́те рабѝ гдⷭ҇а*), *and the other, Psalm 135:* **"Confess unto the Lord, for He is good, for His mercy endures forever"** (*И҆сповѣ́дайтеся гд҃еви, ꙗ҆́кѡ во вѣ́ки ми́лость е҆гѡ̀*). *[Customarily, only the following selected verses are sung from them:*
-
-[Book Page 261]
-
-— 261 —
+*The Polyeleos, or "Much-Merciful," consists of two psalms from the 14th Kathisma: the first being Psalm 134:* **"Praise the name of the Lord, praise the Lord, O ye servants"** (*Хвали́те и҆́мя гдⷭ҇не, хвали́те рабѝ гдⷭ҇а*), *and the other, Psalm 135:* **"Confess unto the Lord, for He is good, for His mercy endureth forever"** (*И҆сповѣ́дайтеся гд҃еви, ꙗ҆́кѡ во вѣ́ки ми́лость е҆гѡ̀*). *[Customarily, only the following selected verses are sung from them:*
 
 *Selected verses:*  
 1) **"Praise the name of the Lord; praise the Lord, O ye servants."**  
 2) **"Ye that stand in the house of the Lord, in the courts of the house of our God."**  
 3) **"Lord, Thy name is forever, and Thy memorial unto generation and generation."**  
-4) **"Confess unto the Lord, for He is good; for His mercy endures forever."**  
-5) **"Confess unto the God of gods; for His mercy endures forever."**  
-6) **"Confess unto the Lord of lords; for His mercy endures forever."**  
-7) **"Who alone hath done great wonders; for His mercy endures forever."**  
-8) **"Who remembered us in our lowliness; for His mercy endures forever."**  
-9) **"And redeemed us from our enemies; for His mercy endures forever."**  
-10) **"Confess unto the God of heaven; for His mercy endures forever."**  
+4) **"Confess unto the Lord, for He is good; for His mercy endureth forever."**  
+5) **"Confess unto the God of gods; for His mercy endureth forever."**  
+6) **"Confess unto the Lord of lords; for His mercy endureth forever."**  
+7) **"Who alone hath done great wonders; for His mercy endureth forever."**  
+8) **"Who remembered us in our lowliness; for His mercy endureth forever."**  
+9) **"And redeemed us from our enemies; for His mercy endureth forever."**  
+10) **"Confess unto the God of heaven; for His mercy endureth forever."**  
 *And to each verse is appended:* **"Alleluia, alleluia, alleluia."**]*
 
 *The Polyeleos is chanted on all Feasts of Christ (Dominical) and Theotokian Feasts, and of celebrated Saints throughout the entire year, when prescribed.*[^292]  
@@ -3623,16 +2729,12 @@ In which we sing the Supplicatory Office of the Akathist.
 *On the Sunday of the Prodigal Son, Meatfare Sunday, and Cheesefare Sunday, in addition to the two aforementioned psalms, there is also chanted Psalm 136:* **"By the rivers of Babylon, there we sat and wept, when we remembered Zion..."** (*На рѣ́кахъ Вавѷлѡ́нскихъ*), *with the beautiful Alleluia.*  
 *On other Sundays the Polyeleos is not chanted, but the 17th Kathisma is read [The Blameless, Psalm 118], unless a Feast of the Lord or of the Mother of God, or of a great Saint occurs on a Sunday.*
 
-[Book Page 262]
-
-— 262 —
-
 ### Concerning the Daily Katavasia
 
 *Katavasia (that is, the festal heirmoi wherewith the odes of the canon at Matins are concluded) is chanted on Sundays, Feasts of the Lord and Theotokian Feasts, and of celebrated Saints.*  
 *From September 1 until the Feast of the Elevation of the Holy Cross:* **"The Cross did Moses inscribe..."** (*Кре́стъ начерта́въ*) [Tone 8].  
 *From the Elevation of the Holy Cross until November 21:* **"I shall open my mouth, and it will be filled with the Spirit..."** (*Ѿве́рзꙋ ѹ҆ста̀ моѧ̀*) [Tone 4].  
-*From November 21 until December 31:* **"Christ is born, give ye glory; Christ comes from heaven, meet Him..."** (*Хрⷭ҇то́съ ражда́ется*) [Tone 1].  
+*From November 21 until December 31:* **"Christ is born, give ye glory; Christ cometh from heaven, meet Him..."** (*Хрⷭ҇то́съ ражда́ется*) [Tone 1].  
 *From January 1 until January 14:* **"The Lord mighty in battle uncovered the deep..."** (*Глꙋбины̀ ѿкры́лъ е҆́сть*) [Tone 2].  
 *From January 14 until the Apodosis of the Meeting of the Lord:* **"The sun once shone upon the dry land that was deep..."** (*Сꙋ́шꙋ глꙋбороди́тельнꙋю зе́млю*) [Tone 3].  
 *After the Apodosis of the Meeting of the Lord:* **"I shall open my mouth..."** (*Ѿве́рзꙋ ѹ҆ста̀ моѧ̀*), *even until August 1, except for Great Lent and the Pentecostarion.*  
@@ -3643,11 +2745,9 @@ In which we sing the Supplicatory Office of the Akathist.
 *During Great Lent and the Pentecostarion, Katavasia is chanted as follows:*  
 *On the Sunday of the Publican and Pharisee, on the 2nd, 4th, and 5th Sundays of Great Lent:* **"I shall open my mouth..."** (*Ѿве́рзꙋ ѹ҆ста̀ моѧ̀*).
 
-[Book Page 263]
-
-— 263 —
-
 *On the Sunday of the Prodigal Son, Meatfare Sunday, Cheesefare Sunday, and on the 1st and 3rd Sundays of the Holy Fasts [Great Lent], on Palm Sunday, in Passion Week, and throughout the entire Pentecostarion, Katavasia is chanted as set down in order in the Triodion and Pentecostarion.*[^293]
+
+---
 
 ### Concerning When at the Ninth Ode There Is Chanted:
 ### "My soul doth magnify the Lord" and "More honorable than the Cherubim"
@@ -3666,21 +2766,15 @@ In which we sing the Supplicatory Office of the Akathist.
 *Likewise, it is not chanted from Lazarus Saturday until Saint Thomas Sunday throughout all bright days, nor on the Sunday of the Holy Fathers, nor on Pentecost Sunday.*  
 ☞ *Notice: If one of the nine aforementioned feasts occurs on a Sunday,* **"My soul doth magnify"** *is not chanted, but the festal refrains are chanted. But if an Afterfeast occurs on a Sunday, then* **"My soul doth magnify"** *and* **"More honorable than the Cherubim"** *are chanted.*
 
-[Book Page 264]
-
-— 264 —
-
 ### Concerning When "It is truly right" Is Chanted After the Canon at Matins, and When It Is Not Chanted
 
 **"It is truly right"** (*Досто́йно е҆́сть*) *is chanted on weekdays throughout the year, when there is no feast. But on Sundays it is never chanted, nor on Forefeasts, nor on Afterfeasts, nor for Saints having a Polyeleos or Doxology, nor on Ancestral Saturdays [Meatfare and Pentecost Saturdays], nor during Great Lent, nor during the Pentecostarion. In place thereof, the proper Exapostilarion or Photagogicon is chanted.*
 
+---
+
 ### Concerning the Antiphons of the Divine Liturgy
 
 *At the Divine Liturgy, the Typika [Psalms 102 and 145] and the Beatitudes [the Izobrazitelna] are chanted on all Sundays throughout the year, as well as on feasts of celebrated Saints having a Vigil, Polyeleos, Entrance, or Doxology, and during Afterfeasts, and throughout Great Lent and the Pentecostarion.*
-
-[Book Page 265]
-
-— 265 —
 
 *Festal Antiphons are chanted on the eight Great Feasts of the Lord:*  
 *September 14: Elevation of the Precious Cross.*  
@@ -3693,17 +2787,17 @@ In which we sing the Supplicatory Office of the Akathist.
 *August 6: Transfiguration of the Lord.*[^294]  
 *The Daily Antiphons [Psalms 91, 92, and 94] are chanted on ordinary weekdays when there is no feast of a Saint with a Doxology or Polyeleos.*
 
+---
+
 ### Decree: Concerning the Dismissals
 
 *The Great Dismissal is spoken at Vespers when there hath been an Entrance, and at Matins when the Great Doxology hath been chanted, as well as at the Divine Liturgy.*  
 *The Small Dismissal is spoken at Small Vespers, Small Compline, the Midnight Office, and at Matins when the daily doxology is read, and at the Little Hours.*  
 *In the Daily Dismissals, as well as on Theotokian Feasts, the Priest doth not say:* **"Christ our true God"**, *but begins directly:* **"May Christ our true God, through the prayers of His most pure Mother..."** *or on feasts:* **"May He Who was born in a cave..."**, *etc.*
 
-[Book Page 266]
-
-— 266 —
-
 ☞ *Important Pastoral Rule: Celebrants must observe that in the dismissals, we pray to God through the intercessions of living persons—namely, our Most Holy Lady the Theotokos and the Saints—and we do not hypostasize or pray to the feast itself, nor to the Dormition, nor to the Transfiguration, nor to the Conception. For we say:* **"May Christ our true God, through the prayers of His most pure Mother, whose Dormition (or Nativity, or Protection) we commemorate, and of the holy glorious Apostle N., and of all the saints, have mercy on us and save us."** *For God is merciful to us through the prayers of His Mother and His saints, and not through the day or the solemnity itself.*[^295]
+
+---
 
 ---
 
@@ -3731,10 +2825,6 @@ In which we sing the Supplicatory Office of the Akathist.
 *Tone 7: Resurrectional Gospel 4, Luke, pericope 112.*  
 *Tone 8: Resurrectional Gospel 5, Luke, pericope 113.*
 
-[Book Page 267]
-
-— 267 —
-
 #### Pillar 3: Begins After the Feast of the Elevation of the Precious Cross
 *Tone 1: Resurrectional Gospel 6, Luke, pericope 114.*  
 *Tone 2: Resurrectional Gospel 7, John, pericope 63.*  
@@ -3754,10 +2844,6 @@ In which we sing the Supplicatory Office of the Akathist.
 *Tone 6: Resurrectional Gospel 8, John, pericope 64.*  
 *Tone 7: Resurrectional Gospel 9, John, pericope 65.*  
 *Tone 8: Resurrectional Gospel 10, John, pericope 66.*
-
-[Book Page 268]
-
-— 268 —
 
 #### Pillar 5: Begins After the Theophany of the Lord
 *Tone 1: Resurrectional Gospel 11, John, pericope 67.*  
@@ -3779,12 +2865,10 @@ In which we sing the Supplicatory Office of the Akathist.
 *Tone 7: Resurrectional Gospel 3, Mark, pericope 71.*  
 *Tone 8: Resurrectional Gospel 4, Luke, pericope 112.*[^296]
 
+---
+
 ### THE COMMENCEMENT DATES OF THE EVANGELICAL PILLARS
 ### According to the Paschal Boundary Keys
-
-[Book Page 269]
-
-— 269 —
 
 | Paschal Key | Pillar 1 Begins | Pillar 2 Begins | Pillar 3 Begins | Pillar 4 Begins | Pillar 5 Begins | Pillar 6 Begins |
 |---|---|---|---|---|---|---|
@@ -3801,10 +2885,6 @@ In which we sing the Supplicatory Office of the Akathist.
 | **К** | May 30 | July 30 | Sept. 19 | Nov. 14 | Jan. 11 | March 10 (Leap: March 9) |
 | **Л** | May 31 | July 31 | Sept. 20 | Nov. 15 | Jan. 12 | March 11 (Leap: March 10) |
 | **М** | June 1 | Aug. 1 | Sept. 21 | Nov. 16 | Jan. 13 | March 12 (Leap: March 11) |
-
-[Book Page 270]
-
-— 270 —
 
 | Paschal Key | Pillar 1 Begins | Pillar 2 Begins | Pillar 3 Begins | Pillar 4 Begins | Pillar 5 Begins | Pillar 6 Begins |
 |---|---|---|---|---|---|---|
@@ -3826,10 +2906,6 @@ In which we sing the Supplicatory Office of the Akathist.
 | **Ы** | June 21 | Aug. 20 | Oct. 11 | Dec. 6 | Jan. 31 | March 29 (Leap: March 28) |
 | **Ь** | June 22 | Aug. 21 | Oct. 12 | Dec. 7 | Feb. 1 | March 30 (Leap: March 29) |
 
-[Book Page 271]
-
-— 271 —
-
 | Paschal Key | Pillar 1 Begins | Pillar 2 Begins | Pillar 3 Begins | Pillar 4 Begins | Pillar 5 Begins | Pillar 6 Begins |
 |---|---|---|---|---|---|---|
 | **Ѣ** | June 23 | Aug. 22 | Oct. 13 | Dec. 8 | Feb. 2 | March 31 (Leap: March 30) |
@@ -3838,6 +2914,8 @@ In which we sing the Supplicatory Office of the Akathist.
 | **Ѧ** | June 26 | Aug. 25 | Oct. 16 | Dec. 11 | Feb. 5 | April 3 (Leap: April 2) |
 | **Ѯ** | June 27 | Aug. 26 | Oct. 17 | Dec. 12 | Feb. 6 | April 4 (Leap: April 3) |
 | **Ѱ** | June 28 | Aug. 27 | Oct. 18 | Dec. 13 | Feb. 7 | April 5 (Leap: April 4) |
+
+---
 
 ### Worked Calendar Example: Finding the Tone and Gospel for Sunday, February 15, 1852
 
@@ -3852,19 +2930,13 @@ In which we sing the Supplicatory Office of the Akathist.
 *February 8: Tone 5, Gospel 5.*  
 *February 15: Tone 6, Gospel 6.*[^297]
 
-[Book Page 272]
-
-— 272 —
-
 *And in this manner, proceed through all Sundays unto the end of the year, finding with precision both the Tone and the appointed Resurrectional Morning Gospel.*
+
+---
 
 ### Colophon of the Typikon
 
 **By the grace of Almighty God, the printing of this Typikon was completed on the 23rd day of October, on the day of the Holy Apostle James, in the year of our Lord 1852, in the printing house of Andrew Huchkovsky in Peremyshl, through the labor and care of the Reverend Father Jacob Doskovsky, Cathedral Vicar in Peremyshl.**[^298]
-
-[Book Page 273]
-
-— 273 —
 
 ### PASCHAL KEY LETTERS
 ### Indicating the Boundary Keys for the Years of the Lord 1852 to 1908
@@ -3891,10 +2963,6 @@ In which we sing the Supplicatory Office of the Akathist.
 | **1869** | **Ы** | **1888** | **Т** | **1907** | **Х** |
 | **1870** | **Г** | **1889** | **И** | **1908** | **М** |
 
-[Book Page 274]
-
-— 274 —
-
 ### PASCHAL KEY LETTERS (Continued)
 ### Indicating the Boundary Keys for the Years of the Lord 1909 to 1940
 
@@ -3912,13 +2980,11 @@ In which we sing the Supplicatory Office of the Akathist.
 | **1918** | **Ч** | **1929** | **Ы** | **1940** | **С** |
 | **1919** | **П** | **1930** | **В** | | |
 
+---
+
 ### Typographical Erratum
 
 *Notice of Erratum on page 96: After Psalm 50 at Matins, instead of* **"Save, O God, Thy people"**, *chant the Canon of the Octoechos, etc.*[^299]
-
-[Book Page 275]
-
-— 275 —
 
 ### TABLE OF CONTENTS
 ### Part 1: General Church Order and Horologion
@@ -3933,10 +2999,6 @@ In which we sing the Supplicatory Office of the Akathist.
 - Order of Daily Matins . . . p. 70  
 - Order of the Little Hours . . . p. 77  
 - Order of the Divine Liturgy . . . p. 83[^300]
-
-[Book Page 276]
-
-— 276 —
 
 ### TABLE OF CONTENTS (Continued)
 ### Part 2: Typikon of Feasts and Saints on Sundays
@@ -3955,10 +3017,6 @@ In which we sing the Supplicatory Office of the Akathist.
 - Concerning a Sunday with a Polyeleos saint . . . p. 122  
 - Concerning the Sunday of the Forefathers and the Sunday of the Ancestors . . . p. 126
 
-[Book Page 277]
-
-— 277 —
-
 ### TABLE OF CONTENTS (Continued)
 ### Part 3: Weekday Feasts, Fixed Calendar, and the Triodion
 
@@ -3972,12 +3030,7 @@ In which we sing the Supplicatory Office of the Akathist.
 - Sunday of the Prodigal Son . . . p. 185  
 - Meatfare Saturday . . . p. 188  
 - Meatfare Sunday . . . p. 193  
-- Cheesefare Week and Sunday . . . p. 196[^301] [Book Page 278 (Table of Contents Conclusion)]
-
----
-
-
-— 278 —
+- Cheesefare Week and Sunday . . . p. 196[^301]
 
 ### TABLE OF CONTENTS (Conclusion)
 ### Part 4: Holy Great Lent, Holy Week, the Pentecostarion, and General Rubrics
@@ -3995,12 +3048,6 @@ In which we sing the Supplicatory Office of the Akathist.
 - Decree concerning the Polyeleos . . . p. 260  
 - Concerning the Katavasia . . . p. 262  
 - The Six Pillars according to which the Tones and the Resurrection Morning Gospels at Matins are indicated . . . p. 266[^302]
-
-[Book Page 279 (Blank Endpaper)]
-
-— 279 —
-
-*(Blank Flyleaf / Vacat)*
 
 ---
 

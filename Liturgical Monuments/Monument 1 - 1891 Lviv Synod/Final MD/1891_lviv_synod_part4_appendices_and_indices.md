@@ -10,6 +10,8 @@
 >  
 > *Given at Rome, from the house of the same Sacred Congregation de Propaganda Fide for the Affairs of the Eastern Rite, on the 1st day of March, 1895.* [^278]
 
+---
+
 ## Official Synodal Table of Contents
 ### Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)
 
@@ -31,6 +33,8 @@
   - Third Session *(p. 67)*
   - Fourth General Congregation *(p. 68)*
   - Fourth and Final Session *(p. 69)*
+
+---
 
 #### Part II: Decrees of the Ruthenian Provincial Synod of Lviv (1891) (*Рѣшеня Собора*)
 
@@ -119,6 +123,8 @@
   - 2. Regarding the Time of Holding Provincial and Diocesan Synods *(p. 255)*
 
 * **TITULUS XV. On Church Property** *(p. 256)*
+
+---
 
 #### Part III: Concluding Acts & Confirmation
 
@@ -220,17 +226,8 @@
 - **Material & Finish**: Heavy bookbinder's board bound in brown embossed pebble-grain leather/buckram (*maroquin grainé*), exhibiting historical wear, edge-rubbing, and minor blind-ruling around the board margins.
 - **Sealing Status**: Concludes the physical volume of the 1891 Lviv Provincial Synod Acts and Decrees at leaf 278 of 278, fulfilling 100% Closed Mathematical Leaf Conservation.
 
- Cardinal Agostino Ciasca, O.S.A. (1835–1902), renowned Augustinian orientalist and biblical scholar, Titular Archbishop of Larissa, appointed Apostolic Delegate to the 1891 Lviv Provincial Synod by Pope Leo XIII. He subsequently served as Secretary of the Sacred Congregation *de Propaganda Fide* and was elevated to the cardinalate in 1899.
-[^275]: Father Isidore Dolnytsky (1830–1924), Spiritual Director of the Greek-Catholic General Seminary in Lviv, renowned master of Byzantine-Ruthenian rubrics, and author of the landmark 1899 *Typikon* (*Типикъ церковнаго и келейнаго правила*). His signature here establishes his direct statutory involvement in codifying the liturgical legislation of the 1891 Synod, which he implemented throughout his 1899 Typikon.
-[^276]: Dr. Isidore Sharanevych (1829–1901), distinguished historian, archaeologist, Senior (*Сеніоръ*) of the Lviv Dormition Brotherhood / Stavropeghial Institute, and Professor at Lviv University. Under Titulus XIV, I, § 2, the Senior of the Stavropeghial Institute was granted the unique statutory privilege of being summoned to provincial synods as the sole lay representative.
-[^277]: Dr. Yosyf Cherlyunchakevych (1829–1911), prominent canonist and professor at Kraków and Lviv Universities. His conditional signature (*"With reservation of the rights reserved to the Apostolic See, I sign"*) reflected contemporary canonical discussions regarding the precise scope of provincial synodal authority relative to the Roman Curia and the preservation of eastern canonical traditions.
-[^278]: The confirmation of the 1891 Synod was enacted through the Sacred Congregation *de Propaganda Fide pro negotiis Ritus Orientalis* (established by Pope Pius IX in 1862 via the constitution *Romani Pontifices*), culminating in Pope Leo XIII's formal apostolic confirmation on April 30, 1895. The promulgation of these decrees constituted the statutory foundation for all Greek-Catholic liturgical and canonical reforms in Galicia at the turn of the 20th century.
-
 ---
 
 ### Notes
 
 [^278]: The confirmation of the 1891 Synod was enacted through the Sacred Congregation *de Propaganda Fide pro negotiis Ritus Orientalis* (established by Pope Pius IX in 1862 via the constitution *Romani Pontifices*), culminating in Pope Leo XIII's formal apostolic confirmation on April 30, 1895. The promulgation of these decrees constituted the statutory foundation for all Greek-Catholic liturgical and canonical reforms in Galicia at the turn of the 20th century.
-[^275]: Father Isidore Dolnytsky (1830–1924), Spiritual Director of the Greek-Catholic General Seminary in Lviv, renowned master of Byzantine-Ruthenian rubrics, and author of the landmark 1899 *Typikon* (*Типикъ церковнаго и келейнаго правила*). His signature here establishes his direct statutory involvement in codifying the liturgical legislation of the 1891 Synod, which he implemented throughout his 1899 Typikon.
-[^276]: Dr. Isidore Sharanevych (1829–1901), distinguished historian, archaeologist, Senior (*Сеніоръ*) of the Lviv Dormition Brotherhood / Stavropeghial Institute, and Professor at Lviv University. Under Titulus XIV, I, § 2, the Senior of the Stavropeghial Institute was granted the unique statutory privilege of being summoned to provincial synods as the sole lay representative.
-[^277]: Dr. Yosyf Cherlyunchakevych (1829–1911), prominent canonist and professor at Kraków and Lviv Universities. His conditional signature (*"With reservation of the rights reserved to the Apostolic See, I sign"*) reflected contemporary canonical discussions regarding the precise scope of provincial synodal authority relative to the Roman Curia and the preservation of eastern canonical traditions.

@@ -1,0 +1,110 @@
+{
+  "timestamp": "2026-10-08T01:16:47.194894+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 23,
+  "target_file": "1888_violakis_typikon_cohort23_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort23_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort23_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort23_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort23_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 6,
+      "definition_markers_count": 6,
+      "text_markers": [
+        "[^169]",
+        "[^170]",
+        "[^171]",
+        "[^172]",
+        "[^173]",
+        "[^174]"
+      ],
+      "definition_markers": [
+        "[^169]",
+        "[^170]",
+        "[^171]",
+        "[^172]",
+        "[^173]",
+        "[^174]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort23_raw_draft.md",
+      "passed": true,
+      "paragraphs": 72,
+      "headings_count": 8,
+      "headings": [
+        {
+          "line": 7,
+          "level": 3,
+          "title": "Τῇ Η΄. Ἡ Σύναξις τῶν Ἀρχιστρατήγων Μιχαὴλ καὶ Γαβριὴλ καὶ τῶν λοιπῶν Ἀσωμάτων Δυνάμεων."
+        },
+        {
+          "line": 20,
+          "level": 3,
+          "title": "The 8th Day. The Synaxis of the Archistrategoi Michael and Gabriel and of the Remaining Bodiless Powers."
+        },
+        {
+          "line": 56,
+          "level": 3,
+          "title": "Τῇ ΙΑ΄. Τῶν ἁγίων Μαρτύρων Μηνᾶ, Βίκτωρος καὶ Βικεντίου, [καὶ τῆς Ἁγίας Μάρτυρος Στεφανίδος·] καὶ τοῦ ὁσίου Πατρὸς ἡμῶν [καὶ Ὁμολογητοῦ] Θεοδώρου τοῦ Στουδίτου."
+        },
+        {
+          "line": 69,
+          "level": 3,
+          "title": "The 11th Day. The Holy Martyrs Menas, Victor, and Vincent [and the Holy Martyr Stephanie]; and our Righteous Father [and Confessor] Theodore the Studite."
+        },
+        {
+          "line": 82,
+          "level": 3,
+          "title": "Τῇ ΙΒ΄. Τοῦ ἁγίου Ἰωάννου τοῦ Ἐλεήμονος καὶ τοῦ ὁσίου Πατρὸς ἡμῶν Νείλου."
+        },
+        {
+          "line": 87,
+          "level": 3,
+          "title": "Τῇ ΙΓ΄. Τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν Ἰωάννου Ἀρχιεπισκόπου Κωνσταντινουπόλεως τοῦ Χρυσοστόμου."
+        },
+        {
+          "line": 99,
+          "level": 3,
+          "title": "The 12th Day. Our Father among the Saints John the Merciful [Patriarch of Alexandria], and our Righteous Father Nilus [the Ascetic]."
+        },
+        {
+          "line": 104,
+          "level": 3,
+          "title": "The 13th Day. Our Father among the Saints John Chrysostom, Archbishop of Constantinople."
+        }
+      ],
+      "numbered_items_count": 32,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 221,
+        "max_leaf": 230
+      },
+      "anomalies": []
+    }
+  }
+}

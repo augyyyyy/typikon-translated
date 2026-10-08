@@ -21,8 +21,6 @@ After the Sixth Hour, the Divine Liturgy takes place. But if the Divine Liturgy 
 > 6. **Heirmologion** (*І҆рмоло́гїонъ*);  
 > 7. **Liturgikon** (*Литургіко́нъ* / *Служе́бникъ*), the **Apostolos** (*А҆по́столъ*), and the **Gospel Book** (*Єv́а́ггелїе*).
 
-[Book Page 4]
-
 *(During the Holy Forty Days of the Great Fast, the Typika is joined in part to the Ninth Hour and in part to Vespers).*
 
 ## On Vespers[^8]
@@ -33,8 +31,6 @@ Great Vespers occurs both with Litiya and without (apart from) Litiya. (The All-
 
 Small Vespers is celebrated (usually in monasteries) according to the Typikon in the evening before an impending All-Night Vigil, before the setting of the sun.
 
-[Book Page 5]
-
 Great Vespers with Litiya (the All-Night Vigil) is celebrated according to the Typikon after the setting of the sun; but according to local custom here, on that very day before the rising of the sun upon which falls whatever Feast of the Lord (Dominical), of the Mother of God, or of a celebrated Saint to whom an All-Night Vigil is rendered[^9].
 
 Great Vespers without Litiya takes place on Saturday evening (facing Sunday), and also on a weekday if on the following day there occurs a Saint having a Polyeleos (without an All-Night Vigil), marked in the Horologion or Anthologion with the sign of the cross ☩[^10].
@@ -43,11 +39,7 @@ Weekly or Daily Vespers (middling) is celebrated when on the following weekday�
 
 ## On Compline
 
-Compline is Small and Great. Small Compline is read throughout the entire year; Great Compline only in the Holy Forty Days of the Great Fast, that is: on Monday, Tuesday, Wednesday, and Thursday. Likewise, Great Compline is chanted with Litiya on the Feasts of the Nativity of Christ,
-
-[Book Page 6]
-
-of the Theophany of the Lord, and of the Annunciation of the Most Holy Mother of God, even if it falls during the Fast.
+Compline is Small and Great. Small Compline is read throughout the entire year; Great Compline only in the Holy Forty Days of the Great Fast, that is: on Monday, Tuesday, Wednesday, and Thursday. Likewise, Great Compline is chanted with Litiya on the Feasts of the Nativity of Christ, of the Theophany of the Lord, and of the Annunciation of the Most Holy Mother of God, even if it falls during the Fast.
 
 ## On the Midnight Office
 
@@ -59,11 +51,7 @@ Matins is divided according to the Typikon into Weekly (Daily) and Great. Weekly
 
 ## On the Hours
 
-The First Hour according to the Typikon is always joined to Matins; the Third and Sixth are read together; and the Ninth usually before Vespers in sequence, as
-
-[Book Page 7]
-
-is set forth in the Horologion (*Молитвосло́въ* / *Часосло́въ*). Concerning the troparia and kontakia read at the Hours, it is indicated below in their proper places. On the Paramony (Eve) of the Nativity of Christ and of Theophany, and likewise on Great Friday, the Royal Hours (*Часы̀ ца́рстїи*) are read.
+The First Hour according to the Typikon is always joined to Matins; the Third and Sixth are read together; and the Ninth usually before Vespers in sequence, as is set forth in the Horologion (*Молитвосло́въ* / *Часосло́въ*). Concerning the troparia and kontakia read at the Hours, it is indicated below in their proper places. On the Paramony (Eve) of the Nativity of Christ and of Theophany, and likewise on Great Friday, the Royal Hours (*Часы̀ ца́рстїи*) are read.
 
 ## On the Divine Liturgy and Typika
 
@@ -71,19 +59,13 @@ The Divine Liturgy in the Eastern Church is threefold, namely: the Liturgy of St
 
 The Liturgy of St. John Chrysostom is chanted throughout the entire year, except for those days on which the Typikon forbids it, or on which it commands to chant the Liturgy of St. Basil the Great or the Presanctified.
 
-The Liturgy of St. Basil is chanted without Vespers on the Feast of St. Basil the Great on the 1st of January, and also on the 1st, 2nd, 3rd, 4th, and 5th Sundays of the Holy Great Fast. Together with Vespers, the Liturgy of St. Basil is chanted on the Paramony of the Nativity of Christ and of Theophany, if the Paramony falls on Monday, Tuesday, Wednesday, Thursday, or Friday. For if the Paramony of both these Feasts falls on Saturday or Sunday, then on the Paramony the Liturgy of Chrysostom takes place, and on the Feast itself of the Nativity or Theophany of the Lord the Liturgy of St. Basil is celebrated without
-
-[Book Page 8]
-
-Vespers. Likewise on Great Thursday and on Holy Great Saturday, the Liturgy of St. Basil is chanted together with Vespers.
+The Liturgy of St. Basil is chanted without Vespers on the Feast of St. Basil the Great on the 1st of January, and also on the 1st, 2nd, 3rd, 4th, and 5th Sundays of the Holy Great Fast. Together with Vespers, the Liturgy of St. Basil is chanted on the Paramony of the Nativity of Christ and of Theophany, if the Paramony falls on Monday, Tuesday, Wednesday, Thursday, or Friday. For if the Paramony of both these Feasts falls on Saturday or Sunday, then on the Paramony the Liturgy of Chrysostom takes place, and on the Feast itself of the Nativity or Theophany of the Lord the Liturgy of St. Basil is celebrated without Vespers. Likewise on Great Thursday and on Holy Great Saturday, the Liturgy of St. Basil is chanted together with Vespers.
 
 *Note.* The Liturgy of St. John Chrysostom is also celebrated together with Vespers on the Feast of the Annunciation of the Most Holy Mother of God, if it falls on Monday, Tuesday, Wednesday, Thursday, or Friday of the Holy Forty Days of the Great Fast.
 
 The Liturgy of the Presanctified (Holy) Gifts is celebrated in the Great Fast on Wednesday and Friday, and in Passion Week on Monday, Tuesday, and Wednesday.
 
 Concerning the Typika (*Оу҆бѣ́дница*) or the Service of the Typika (*И҆зобрази́тельная*), it is fitting to know that it takes place on Sundays, feasts, and other days whenever for any necessity there is no Divine Liturgy. It is read after the Sixth Hour.
-
-[Book Page 9]
 
 # ORDER OF HIERATICAL CELEBRATION,
 ### that is: how the Deacon serves with the Priest,
@@ -106,11 +88,7 @@ The Exclamation by the Priest: **"For Thine is the kingdom..."** (*Яко тво
 **"Lord, have mercy"** (twelve times).  
 **"Come, let us worship..."** (*Прїидите поклонимся*) (three times).  
 *(Thus far the usual beginning).*  
-And the Ninth Hour is read in sequence. Then at its conclusion, and after the dismissal, they enter the temple. But if the Ninth Hour is said in the temple,
-
-[Book Page 10]
-
-then no dismissal takes place, but immediately the Priest begins: **"Blessed is our God..."** (*Благословенъ Богъ нашъ*).  
+And the Ninth Hour is read in sequence. Then at its conclusion, and after the dismissal, they enter the temple. But if the Ninth Hour is said in the temple, then no dismissal takes place, but immediately the Priest begins: **"Blessed is our God..."** (*Благословенъ Богъ нашъ*).
 And the Reader says: **"Come, let us worship..."** (*Прїидите поклонимся*) (three times).  
 And the evening psalm: **"Bless the Lord, O my soul"** (*Благослови душе моя Господа*), in a low voice.  
 After the psalm: **"Glory... Now and forever, and unto the ages of ages."**  
@@ -134,8 +112,6 @@ After this, the Priest says the Litany: **"Have mercy on us, O God, according to
 Then: **"Glory to Thee, O Christ God..."** (*Слава тебѣ Христе Боже*), and the Small Dismissal.  
 *(For the conclusion of the dismissal, see under the date of the impending feast in the Horologion).*
 
-[Book Page 11]
-
 ## ORDER
 ## Of the All-Night Vigil,
 ### that is: Great Vespers with Litiya, and Matins with the First Hour,
@@ -146,11 +122,7 @@ After the setting of the sun, or according to local custom here at the 5th hour 
 
 The Priest, having made three bows before the Holy Doors and to both choirs, enters the holy sanctuary, puts on the epitrachelion, kissing the cross upon it (in cathedral and parish churches, the Priest performs this vested in the phelonion, and the Deacon in the sticharion); and having put incense with prayer into the censer, he himself censes the Holy Table crosswise all around and the entire table of oblation, and opens the Holy Doors.
 
-While he stands before the Holy Table, the serving Deacon (or the lamplighter if there is no Deacon), taking a candlestick, precedes the Priest through the north door, and standing in the midst of the church with
-
-[Book Page 12]
-
-the lighted candle, exclaims in a loud voice: **"Command, Master!"** (*Повели́те*)[^16].
+While he stands before the Holy Table, the serving Deacon (or the lamplighter if there is no Deacon), taking a candlestick, precedes the Priest through the north door, and standing in the midst of the church with the lighted candle, exclaims in a loud voice: **"Command, Master!"** (*Повели́те*)[^16].
 
 All having stood up, the Priest signs a cross with the censer three times before the Holy Table; and then he exclaims thus:
 
@@ -166,11 +138,7 @@ Again a third time, in a higher voice:
 
 And immediately the Introductory Psalm 103 is read: **"Bless the Lord, O my soul"** (*Благослови душе моя Господа*)[^17]; (elsewhere they chant it slowly, with sweet-singing and with the refrain: **"Blessed art Thou, O Lord,"** the rest of the brethren joining in singing).
 
-The Priest, having gone out through the Holy Doors, makes a cross with the censer before the Holy Doors, moving it vertically and horizontally, and goes and censes in order the holy local icons, first on the right side, then on the left. After this he censes the superior, both choirs according to their rank, and the standing people, and makes a complete circuit with the censer throughout the church, the Deacon or sacristan preceding him with a candle. Whenever the Priest makes a cross with the censer, bowing slightly, the Deacon or candle-bearer also bows with him. Returning again to the Royal Doors,
-
-[Book Page 13]
-
-he makes a cross with the censer before the Royal Doors, censes slightly the icon of Christ the Saviour and of the Mother of God, and having entered into the holy sanctuary, he closes the Holy Doors.
+The Priest, having gone out through the Holy Doors, makes a cross with the censer before the Holy Doors, moving it vertically and horizontally, and goes and censes in order the holy local icons, first on the right side, then on the left. After this he censes the superior, both choirs according to their rank, and the standing people, and makes a complete circuit with the censer throughout the church, the Deacon or sacristan preceding him with a candle. Whenever the Priest makes a cross with the censer, bowing slightly, the Deacon or candle-bearer also bows with him. Returning again to the Royal Doors, he makes a cross with the censer before the Royal Doors, censes slightly the icon of Christ the Saviour and of the Mother of God, and having entered into the holy sanctuary, he closes the Holy Doors.
 
 When they begin to sing: **"In wisdom hast Thou made them all"** (*Вся премудростїю сотворилъ еси*), the Priest comes before the Royal Doors in epitrachelion only, and standing, recites the Prayers of Light (Vesper Prayers).
 
@@ -180,11 +148,7 @@ After the exclamation, they chant selected verses from the First Kathisma of the
 
 After the exclamation of this, the Choir chants **"Lord, I have cried"** (*Господи воззвахъ*) in the appointed Tone, the first stichera of the feast; and then the Deacon, having taken a blessing from the Priest (or the Priest himself where there is no Deacon), censes the Holy Table and the entire sanctuary, and going out through the north side, censes the whole church.
 
-At the conclusion of the festal stichera, when we say the verse: **"For His mercy is confirmed upon us..."** (*Яко утвердися милость его на насъ*), both choirs together, then the Priest, having bowed to the superior and entered into the holy sanctuary, vests in the phelonion. And while the Choir sings in the midst of the church **"Glory... Now and forever, and unto the ages of ages:"**, he opens the Royal Doors and makes the Entrance with the censer. And if there is a Deacon, he precedes him
-
-[Book Page 14]
-
-with the censer, and they go out (round about the Holy Table) by the north door, two candle-bearers preceding them with candles.
+At the conclusion of the festal stichera, when we say the verse: **"For His mercy is confirmed upon us..."** (*Яко утвердися милость его на насъ*), both choirs together, then the Priest, having bowed to the superior and entered into the holy sanctuary, vests in the phelonion. And while the Choir sings in the midst of the church **"Glory... Now and forever, and unto the ages of ages:"**, he opens the Royal Doors and makes the Entrance with the censer. And if there is a Deacon, he precedes him with the censer, and they go out (round about the Holy Table) by the north door, two candle-bearers preceding them with candles.
 
 Having arrived before the Royal Doors, they bow toward the altar. The Priest stands directly facing the Holy Doors, and the Deacon stands at the Priest's right hand before the Holy Doors; and bending down, holding his orarion with three fingers of his right hand, he says secretly so that only the Priest hears: **"Let us pray to the Lord."**  
 And the Priest says secretly the prayer: **"In the evening and in the morning and at noonday..."**[^19]  
@@ -196,8 +160,6 @@ Upon the completion of the sticheron, the Deacon enters into the midst, and trac
 *(If there is no Deacon, the Priest himself does this).*  
 And the Choir sings: **"Gladsome Light of the holy glory..."** (*Свѣте тихій святыя славы*).  
 The Deacon (or if there is none, the Priest himself), having entered into the holy sanctuary, censes the Holy Table.
-
-[Book Page 15]
 
 The Priest, having bowed before the Holy Doors and kissed them, enters into the holy sanctuary.
 
@@ -221,11 +183,7 @@ Then: **"Peace be unto all."**
 And the Deacon: **"Let us bow our heads unto the Lord."**  
 The Priest exclaims: **"Blessed and glorified be the majesty of Thy kingdom..."** (*Буди держава*).
 
-After this, the Deacon, taking the censer and asking a blessing, goes out before the Priest, who takes the holy cross; and two candle-bearers preceding them, they go out into the narthex (if there is no Deacon, the Priest himself goes out with the censer and cross). All the brethren and the choirs also go out with them into the narthex, singing the Litiya stichera of the feast
-
-[Book Page 16]
-
-(or the first sticheron of the temple patron, and of the Saint if he has a Vigil). And there the Deacon (or the Priest himself if there is no Deacon) censes all the holy icons, the superior, the choirs, and all according to custom, and having put aside the censer, stands in his place.
+After this, the Deacon, taking the censer and asking a blessing, goes out before the Priest, who takes the holy cross; and two candle-bearers preceding them, they go out into the narthex (if there is no Deacon, the Priest himself goes out with the censer and cross). All the brethren and the choirs also go out with them into the narthex, singing the Litiya stichera of the feast (or the first sticheron of the temple patron, and of the Saint if he has a Vigil). And there the Deacon (or the Priest himself if there is no Deacon) censes all the holy icons, the superior, the choirs, and all according to custom, and having put aside the censer, stands in his place.
 
 At the conclusion of the stichera with **"Glory... Now and forever, and unto the ages of ages:"**, the Deacon (or in the absence of a Deacon, the Priest himself) exclaims in the hearing of all this prayer: **"Save, O God, Thy people, and bless Thine inheritance..."** (*Спаси Боже люди твоя, и благослови достоянїе твое*), as in the Horologion, unto the end of the twelve **"Lord, have mercy,"** and the remaining prayers.
 
@@ -241,11 +199,7 @@ And candlesticks are set on either side of the pre-adorned Tetrapod (*четве
 * One dish with five loaves in the middle at the top;
 * The second, containing wheat, below facing the first;
 * The third vessel, containing wine, on the side of the small choir, that is, on the right side where the icon of the Mother of God is;
-* The fourth, containing
-
-[Book Page 17]
-
-oil, on the side of the great choir, that is, on the left side where the icon of Christ the Master is[^21].
+* The fourth, containing oil, on the side of the great choir, that is, on the left side where the icon of Christ the Master is[^21].
 
 At the conclusion of the stichera: **"Now lettest Thou..."** (*Нынѣ отпущаеши*).  
 Trisagion. And after **"Our Father..."**, the Priest exclaims: **"For Thine is the kingdom..."**  
@@ -258,11 +212,7 @@ The Priest says the prayer in a loud voice: **"O Lord Jesus Christ our God, Who 
 And lifting up one loaf, he signs with it the rest of the loaves. And when he says: **"DO THOU THYSELF (AND NOW, O MASTER) BLESS..."** (*САМЪ [и НЫНѢ ВЛАДЫКО] БЛАГОСЛОВИ*), he points with his right hand, having turned it with palm upward, toward the loaves: **"THESE LOAVES..."** (*ХЛѢБЫ СЇЯ*); likewise toward the wheat, wine, and oil: **"THE WHEAT, THE WINE, AND THE OIL."** (*ПШЕНИЦУ, ВИНО И ЕЛЕЙ*).
 
 At the conclusion of the prayer and after the **"Amen,"** the Choir sings: **"Blessed be the name of the Lord, from this time forth and unto all ages"** (three times) in Tone 4.  
-Then Psalm 33 is read: **"I will bless the Lord at all times..."** (*Благословлю Господа на всякое время*). And we say
-
-[Book Page 18]
-
-it up to: **"They shall not want any good thing."**[^23]  
+Then Psalm 33 is read: **"I will bless the Lord at all times..."** (*Благословлю Господа на всякое время*). And we say it up to: **"They shall not want any good thing."**[^23]
 **"Glory... Now and forever, and unto the ages of ages."**  
 **"Lord, have mercy"** (three times); **"Father, bless."**  
 The Priest, going, stands before the Royal Doors, awaiting the completion of the Psalm, looking toward the west. And upon the completion of the Psalm, the Priest, blessing toward the people, says: **"The blessing of the Lord be upon you, through His grace and love for mankind, always, now and forever, and unto the ages of ages."**
@@ -285,11 +235,7 @@ After this, the Troparion of the feast, or as is specified in the Typikon; and t
 And immediately the Choir says: **"Lord, have mercy"** (three times).  
 **"Glory to the Father, and to the Son, and to the Holy Spirit:"**  
 > **Reader:** **"Now and forever, and unto the ages of ages:"**
-And he recites the stichology of the
-
-[Book Page 19]
-
-Kathisma of the Psalter.
+And he recites the stichology of the Kathisma of the Psalter.
 
 Upon the completion of each stichology, the Priest says the Little Litany: **"Again and again in peace let us pray to the Lord,"** and the exclamation as in the Horologion.  
 The Choir sings the Sessional Hymn (*Сѣда́ленъ*) of the feast (or as indicated), and **"Glory... Now and forever, and unto the ages of ages."**  
@@ -298,10 +244,7 @@ Then the second Kathisma and the second Sessional Hymn with **"Glory... Now and 
 And they chant the Polyeleos, that is: the Psalm **"Praise the name of the Lord..."** (*Хвалите имя Господне*)[^25], and the Megalynarion with the selected verses from the Psalms of David.  
 After this the Little Litany is said, then the Sessional Hymn after the Polyeleos.
 
-[It is fitting to know also this: that at the Vigil of the all-night singing during the Polyeleos—that is, when they sing the Psalms **"Praise the name of the Lord"** and **"Give thanks unto the Lord"**—an analogion is set in the midst of the church, and upon it is placed the festal icon of the Day of the Lord, or of the Mother of God, or of the holy man or woman; and all the candles are kindled. And the Priest vests in white sticharion, or all the concelebrating clergy, if there are any, in phelonia according to custom. And having gone forth from the sanctuary through the opened Royal Doors, they stand on both sides around the analogion. And the superior distributes candles to the concelebrants and to the people standing in the holy temple. After the distribution, taking the censer, the Deacon preceding him with a burning candle, he censes first the icon upon the analogion round about, and goes to the altar and there censes the Holy Table and the entire sanctuary, and in the temple all the holy local icons; then the concelebrating clergy on both sides and both choirs...][^26] [Book Page 20]
-
----
-
+[It is fitting to know also this: that at the Vigil of the all-night singing during the Polyeleos—that is, when they sing the Psalms **"Praise the name of the Lord"** and **"Give thanks unto the Lord"**—an analogion is set in the midst of the church, and upon it is placed the festal icon of the Day of the Lord, or of the Mother of God, or of the holy man or woman; and all the candles are kindled. And the Priest vests in white sticharion, or all the concelebrating clergy, if there are any, in phelonia according to custom. And having gone forth from the sanctuary through the opened Royal Doors, they stand on both sides around the analogion. And the superior distributes candles to the concelebrants and to the people standing in the holy temple. After the distribution, taking the censer, the Deacon preceding him with a burning candle, he censes first the icon upon the analogion round about, and goes to the altar and there censes the Holy Table and the entire sanctuary, and in the temple all the holy local icons; then the concelebrating clergy on both sides and both choirs...][^26]
 
 Thereupon, passing through, he censes all the standing people, and again the holy doors and only two icons, of Christ and of the Mother of God, and that upon the analogion. At that same time they sing the Megalynarion, the Priest beginning it first together with the concelebrating clergy. After this customary chanting, the Little Litany is said by the Deacon, and the Sessional Hymns are chanted. And all the concelebrating clergy enter into the holy sanctuary and divest themselves of the sacred vestments; only the Priest holding the turn remains vested, for the reading of the Gospel.][^27]
 
@@ -332,8 +275,6 @@ Then the Deacon says:
 > **Choir:** ""
 **"Glory to Thee, O Lord, glory to Thee."** (*Сла́ва тебѣ̀ Го́споди, сла́ва тебѣ̀*)  
 
-[Book Page 21]
-
 > **Deacon:** **"Let us be attentive."** (*Во́нмимъ*)
 And the Priest reads the Morning Gospel of the feast (if the celebrated Saint falls on a Sunday, then the Resurrectional Gospel of the cycle is read).  
 Then Psalm 50.[^28]  
@@ -357,8 +298,6 @@ And the exclamation from the Priest is this:
 And after **"Amen,"** they begin the Heirmos of the Canon; then they read also the troparia up to 14 with the refrains. (The approaching people are signed by the Priest with the holy oil blessed at the All-Night Vigil).[^30]  
 — Thereupon the Priest divests himself of the sacred vestments, and having closed the holy doors, stands at his customary place.
 
-[Book Page 22]
-
 The Deacon stands in the sticharion. It is fitting also to extinguish the candles here.  
 After the Third Ode, the Little Litany is said by the Deacon, and the exclamation by the Priest within the sanctuary. Then the Sessional Hymn or Hypakoe.  
 After the Sixth Ode, again the Little Litany and the Kontakion.  
@@ -378,8 +317,6 @@ in the tone of the first sticheron. Then they read Psalms 148, 149, and 150, and
 The Ponomar kindles the candles.  
 The Priest vests in epitrachelion and phelonion, opens the royal doors, and goes forth from the sanctuary (with the Deacon, if there is one, going forth through the south door), and makes one bow.  
 And at the conclusion of the sticheron, the Priest, having bowed toward the east, exclaims:
-
-[Book Page 23]
 
 **"Glory to Thee Who hast shown us the light!"** (*Сла́ва тебѣ̀, показа́вшемꙋ на́мъ свѣ́тъ*)  
 The Choir with those present sings the Great Doxology, that is:  
@@ -416,8 +353,6 @@ The Choir immediately: **"Come, let us worship and bow down..."** (three times),
 **"Glory to Thee, O Christ our God, our hope, glory to Thee!"**  
 and the complete Dismissal.
 
-[Book Page 24]
-
 ## The Order
 ### OF GREAT VESPERS,
 #### Chanted on Saturday Evening for Sunday.
@@ -438,8 +373,6 @@ before the royal doors. (If there is a Deacon, he vests here in the sticharion a
 
 [^36] †) *If the Ninth Hour on Saturday was not said together with the Third and Sixth, but is read here before Vespers, then after the customary beginning the Psalms of the Ninth Hour are read. After them no Dismissal takes place (unless it was read in the narthex), but the Priest says the beginning:* **"Blessed is our God..."** *and the Choir immediately:* **"Come, let us worship..."** (three times) *and Psalm 103:* **"Bless the Lord, O my soul..."**
 
-[Book Page 25]
-
 and having stood at the customary place of the ambo, says the Litany.)  
 After the exclamation of the Priest, the Choir sings the First Kathisma of the Psalter:  
 **"Blessed is the man..."** (*Блаже́нъ мꙋ́жъ*)[^37]  
@@ -451,14 +384,10 @@ and the exclamation:
 Then they sing:  
 **"Lord, I have cried unto Thee, hear me..."** (*Го́споди воззва́хъ*)  
 in the occurring tone of the Octoechos cycle, and then the Priest, having entered into the sanctuary, puts incense into the censer and says the Prayer of Incense secretly, and thus censes (or the Deacon censes) the holy table crosswise round about and the entire Prothesis, and having gone out through the north door, goes and censes the holy icons: on the south side the icon of Christ the Savior and of the patron of the temple and the others on that side; likewise on the left side the icon of the Theotokos and the others, then the Superior; and thus he censes the entire right choir and the left choir, raising the censer before each straight and across, making a cross, and bows to them in good order, to all equally, and they all likewise make a bow to him; he censes also all the brethren, first directly toward the doors, then on the right and on the left side; then having bowed slightly he returns to the royal doors, and having made the sign of the cross before the royal doors, enters into the holy sanctuary through the south door, and makes the sign of the cross before the holy table and puts away the censer.[^38]  
-The Choir, having
-
-[Book Page 26]
-
-having read through the remaining verses of Psalm 140 and Psalm 141, set—if it is Sunday—ten verses, beginning from:  
+The Choir, having read through the remaining verses of Psalm 140 and Psalm 141, set—if it is Sunday—ten verses, beginning from:
 **"Bring my soul out of prison, that I may praise Thy name."** (*И҆зведѝ и҆зъ те́мницы дꙋ́шꙋ мою̀*)  
 and the Stichera written for **"Lord, I have cried"** are sung, as the rubrical table inscribed hereafter indicates. And when the verse is said:  
-**"For His mercy is confirmed upon us, and the truth of the Lord endures forever."** (*Ꙗ҆́кѡ оу҆тверди́сѧ ми́лость е҆гѡ̀ на на́съ*)  
+**"For His mercy is confirmed upon us, and the truth of the Lord endureth forever."** (*Ꙗ҆́кѡ оу҆тверди́сѧ ми́лость е҆гѡ̀ на на́съ*)  
 then the Priest, having made a bow, enters into the holy sanctuary and vests in the phelonion. When they begin to sing  
 **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen."**  
 in the midst of the church, the Priest opens the royal doors, and going around the holy table by the north side, makes the Entrance with the censer, having his phelonion let down. (If there is a Deacon, he does everything here that is done at the All-Night Vigil.) Two servers with candles precede him. And having stood before the holy doors, he says secretly the Entrance Prayer, and awaits the completion of the First Theotokion (Dogmatikon).[^39]  
@@ -471,11 +400,7 @@ At the conclusion of the chanting, the Priest or Deacon exclaims:
 **"Let us be attentive! Peace be unto all! Wisdom, let us be attentive!"**  
 The Choir sings the Prokeimenon of the day:  
 **"The Lord is King, He is robed in majesty."** (*Госпо́дь воцари́сѧ, въ лѣ́потꙋ сѧ ѡ҆блече́*)  
-and the Reader reads also its verses. The Priest, having turned toward the west with hands folded, stands awaiting the completion of the Prokeimenon; then he bows toward the east, and having stood before
-
-[Book Page 27]
-
-the holy table (or the Deacon standing at the customary place), says the Litany:  
+and the Reader reads also its verses. The Priest, having turned toward the west with hands folded, stands awaiting the completion of the Prokeimenon; then he bows toward the east, and having stood before the holy table (or the Deacon standing at the customary place), says the Litany:
 **"Let us all say with our whole soul and with our whole mind, let us say:"** (*Рце́мъ всѝ ѿ всея̀ дꙋшѝ...*)  
 After the exclamation of the Priest, the Choir reads:  
 **"Vouchsafe, O Lord, to keep us this evening without sin..."** (*Сподо́би, Го́споди, въ ве́черъ се́й...*)  
@@ -512,8 +437,6 @@ The Priest, standing according to the Typikon in the royal doors facing the peop
 **"May Christ our true God, Who rose from the dead..."** (*Воскресы́й и҆зъ ме́ртвыхъ Христо́съ и҆́стинный Бо́гъ на́шъ...*)  
 and the rest, as in the Horologion, and commemorates the saint whose service is sung.*)[^41]
 
-[Book Page 28]
-
 *) *If Vespers on Saturday evening is read outside the church, in private [in cella], then at "Lord, I have cried" and at the Aposticha they read the Common Stichera, and those which are found in the Horologion in the Sunday service of Tone 6.*
 
 > **Remark.** In this manner, as is here delineated for Saturday evening, Vespers with the Entrance is celebrated on a weekday if there occurs a Saint having a Polyeleos, only that after the daily Prokeimenon there are three readings [Paroemias / Old Testament Lessons], and then the Priest before each reading exclaims:  
@@ -526,8 +449,6 @@ and the rest, as in the Horologion, and commemorates the saint whose service is 
 > and all the rest as was depicted a little above for Saturday Great Vespers unto the end, and in the Dismissal he commemorates the celebrated saint.[^42]
 
 **Behold.** On Saturday evening Small Compline is read, whose order is delineated below after Daily Vespers.
-
-[Book Page 29]
 
 ## The Order
 ### OF SUNDAY MIDNIGHT OFFICE
@@ -557,8 +478,6 @@ Then the Priest receives the customary mutual forgiveness and says:
 and the rest.
 
 *) *If Sunday Midnight Office is read in private [in cella], one reads the beautiful Triadic Canon written in the Horologion, and at the end after the Troparia and after "Our Father": "Lord, have mercy" (40 times); then the Prayer:* **"O Almighty and Life-creating Trinity..."** (*Всемогꙋ́щаѧ и҆ животворя́щаѧ Тр҃це...*)[^45]
-
-[Book Page 30]
 
 ## The Order
 ### OF SUNDAY MATINS,
@@ -597,8 +516,6 @@ Then
 
 > **Behold.** Whenever the Midnight Office was not celebrated in the church, Matins begins from the customary beginning [i.e., with "Glory to the holy, consubstantial..."][^46].
 
-[Book Page 31]
-
 he reads the Six Psalms, with all attentiveness and fear of God. The Priest withdraws to his place.  
 After three psalms, that is: when they begin to read the Psalm:  
 **"O Lord God of my salvation, I have cried day and night before Thee..."** [Psalm 87]  
@@ -608,7 +525,7 @@ After the Six Psalms, when the Choir sings
 the Priest, standing before the royal doors, says the Great Litany:  
 **"In peace let us pray to the Lord."**  
 And after the exclamation, the Choir proclaims:  
-**"God is the Lord, and hath appeared unto us: blessed is He that comes in the name of the Lord."** (*Бо́гъ Госпо́дь и҆ ꙗ҆ви́сѧ на́мъ...*)  
+**"God is the Lord, and hath appeared unto us: blessed is He that cometh in the name of the Lord."** (*Бо́гъ Госпо́дь и҆ ꙗ҆ви́сѧ на́мъ...*)  
 and sings it in the occurring tone of the Octoechos. The Priest or the Reader reads also its verses.  
 Then they sing the Resurrectional Troparion twice; "Glory..." of the Saint of that day; "Now and forever, and unto the ages of ages:" Theotokion according to the tone of the troparion of the saint. [Or as is otherwise indicated in the Typikon.]  
 After the troparia, the Choir immediately says:  
@@ -624,11 +541,7 @@ and the second Sessional Hymn; "Glory... Now and forever, and unto the ages of a
 Then follows the second stichology, the Little Litany, and the second Sessional Hymn; "Glory... Now and forever, and unto the ages of ages," and its Theotokion.  
 Then the Reader reads the Blameless [Amomos], that is: Kathisma XVII:  
 **"Blessed are the blameless in the way, who walk in the law of the Lord."** [Psalm 118]  
-(or they sing the Polyeleos if the
-
-[Book Page 32]
-
-Typikon prescribes it). During which the Priest censes according to the Typikon.  
+(or they sing the Polyeleos if the Typikon prescribes it). During which the Priest censes according to the Typikon.
 The Choir immediately sings the Troparia:  
 **"The assembly of the Angels was amazed..."** (*А҆́ггелскїй собо́ръ...*)  
 with the refrain:  
@@ -661,11 +574,7 @@ The Priest exclaims:
 and reads the Resurrectional (Morning) Gospel of the cycle. Thereafter we say:  
 **"Having seen the Resurrection of Christ, let us worship the Holy Lord Jesus, the only Sinless One..."** (*Воскресе́нїе Хрїсто́во ви́дѣвше...*)  
 and Psalm 50.  
-While this is being recited, the Priest goes forth through the holy doors with the Gospel Book, holding it before his breast in the midst
-
-[Book Page 33]
-
-of the temple for the veneration of the approaching people (or he places it upon the Tetrapod for veneration and leaves it until the Doxology).[^47]  
+While this is being recited, the Priest goes forth through the holy doors with the Gospel Book, holding it before his breast in the midst of the temple for the veneration of the approaching people (or he places it upon the Tetrapod for veneration and leaves it until the Doxology).[^47]
 Upon the completion of Psalm 50, the Choir sings:  
 **"Glory to the Father, and to the Son, and to the Holy Spirit:"**  
 **"Through the prayers of the Apostles, O Merciful One, cleanse the multitude of our transgressions."**  
@@ -692,8 +601,6 @@ Only the Heirmoi of the first and of the last Canon are sung. At the end of each
 Upon the completion of the Third Ode, the Little Litany is said, and the exclamation:  
 **"For Thou art our God, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages."** (*Ꙗ҆́кѡ ты̀ е҆сѝ Бо́гъ на́шъ...*)  
 Then the Kontakion and Sessional Hymn in the General Menaion of the Saint.
-
-[Book Page 34]
 
 After the Sixth Ode, again the Little Litany and the exclamation:  
 **"For Thou art the King of peace, and the Savior of our souls, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages."** (*Ты̀ бо е҆сѝ Ца́рь ми́ра...*)  
@@ -722,11 +629,7 @@ Verse 2:
 At the Praises the Choir sings:  
 **"Let every breath praise the Lord. Praise the Lord from the heavens, praise Him in the highest: to Thee is due a hymn, O God."** (*Вся́кое дыха́нїе да хва́литъ Го́спода...*)  
 And the second verse of Psalm 148 with this ending, in the occurring tone of the day; and they recite the remaining verses of Psalms 148, 149, and 150 unto the verse:  
-**"To execute upon them the judgment written:"** (*Сотвори́ти въ ни́хъ сꙋ́дъ напи́санъ*)
-
-[Book Page 35]
-
-And we set eight verses. And we sing the Resurrectional and Anatolian Stichera written for the Praises, with refrains from the Psalter and two resurrectional ones: 1st,  
+**"To execute upon them the judgment written:"** (*Сотвори́ти въ ни́хъ сꙋ́дъ напи́санъ*) And we set eight verses. And we sing the Resurrectional and Anatolian Stichera written for the Praises, with refrains from the Psalter and two resurrectional ones: 1st,
 **"Arise, O Lord my God, let Thy hand be lifted up, forget not Thy poor unto the end;"**  
 and 2nd,  
 **"I will confess Thee, O Lord, with my whole heart, I will tell of all Thy marvelous works."**  
@@ -764,8 +667,6 @@ the Priest immediately says:
 > **Priest:** ""
 **"Blessed and glorified is Christ our God, Who is, always, now and forever, and unto the ages of ages."**
 
-[Book Page 36]
-
 **"always, now and forever, and unto the ages of ages."**  
 > **Choir:** ""
 **"Confirm, O God, the holy Catholic faith of Orthodox Christians, unto ages of ages!"** (*Оу҆твердѝ, Бо́же, ст҃ꙋю каѳоли́ческꙋ вѣ́рꙋ правосла́вныхъ хрїстїа́нъ во вѣ́къ вѣ́ка*)  
@@ -783,7 +684,7 @@ and the rest, and commemorates the saint whose service is sung.
 After the Dismissal the royal doors are closed, and the Choir:  
 **"Come, let us worship and bow down..."** (three times),  
 and reads the First Hour; and after the prayer:  
-**"O Christ, the true Light, Who enlightenest and sanctifiest every man that comes into the world..."** (*Хрїстѐ свѣ́те и҆́стинный...*)  
+**"O Christ, the true Light, Who enlightenest and sanctifiest every man that cometh into the world..."** (*Хрїстѐ свѣ́те и҆́стинный...*)  
 the Priest says:  
 **"Glory to Thee, O Christ God, our hope, glory to Thee!"**  
 and the Dismissal takes place.  
@@ -799,8 +700,6 @@ The Priest, having put on the epitrachelion, comes before the royal doors, and h
 Then:  
 **"Glory to Thee, our God, glory to Thee. O Heavenly King... Trisagion... Most Holy Trinity... Our Father..."**
 
-[Book Page 37]
-
 and the rest of the customary beginning, and after  
 **"Come, let us worship and bow down..."** (three times),  
 the Psalms of King David: Psalm 19: **"The Lord hear thee..."** (*Оу҆слы́шитъ тя̀ Го́сподь*) and Psalm 20: **"O Lord, in Thy strength..."** (*Го́споди си́лою твое́ю*).  
@@ -810,7 +709,7 @@ the Litany, the Six Psalms, and all the rest of Matins we chant as was prescribe
 After the second Sessional Hymn with "Glory... Now and forever, and unto the ages of ages," and Theotokion, the Choir sings the Polyeleos, that is: verses from the 19th Kathisma:  
 **"Praise the name of the Lord, praise the Lord, O ye servants..."** [Psalm 134]  
 and:  
-**"Give thanks unto the Lord, for He is good: for His mercy endures forever."** [Psalm 135]  
+**"Give thanks unto the Lord, for He is good: for His mercy endureth forever."** [Psalm 135]  
 Then the Megalynarion of the Saint with selected verses from the Psalms. Thereupon the Little Litany is said; and the Choir sings the Sessional Hymn after the Polyeleos, "Glory... Now and forever, and unto the ages of ages," Theotokion.  
 Then the Gradual Hymns (*Степе́нна* / *Anavathmoi*) of Tone 4, 1st Antiphon:  
 **"From my youth up many passions war against me..."** (*Ѿ ю́ности моея̀ мно́зи бо́рютъ мя̀ стра́сти...*)  
@@ -826,11 +725,7 @@ and:
 **"Now and forever, and unto the ages of ages. Amen. Through the prayers of the Theotokos, O Merciful One, cleanse the multitude of our transgressions."**  
 Then the refrain:  
 **"Have mercy on us, O God, according to Thy great mercy, and according to the multitude of Thy compassions blot out our iniquities."**  
-and the Sticheron of the Saint. After
-
-[Book Page 38]
-
-this the Priest:  
+and the Sticheron of the Saint. After this the Priest:
 **"O God, save Thy people, and bless Thine inheritance;"**  
 and the exclamation:  
 **"Through the mercy and compassions, and love for mankind of Thine Only-begotten Son, with Whom Thou art blessed, together with Thy most holy, good, and life-creating Spirit, now and forever, and unto the ages of ages."**  
@@ -838,7 +733,7 @@ and the rest, as was indicated a little above in Sunday Matins on folio 33, unto
 After the Great Doxology and both litanies, the Priest makes the Great Dismissal, as was indicated for Sunday; and after the Dismissal immediately the Choir:  
 **"Come, let us worship and bow down..."** (three times),  
 and reads the First Hour; and after the Prayer:  
-**"O Christ, the true Light, Who enlightenest and sanctifiest every man that comes into the world:"**  
+**"O Christ, the true Light, Who enlightenest and sanctifiest every man that cometh into the world:"**  
 > **Priest:** ""
 **"Glory to Thee, O Christ God, our hope, glory to Thee!"**  
 Then the complete Dismissal:  
@@ -849,8 +744,6 @@ Then the complete Dismissal:
 > and after:  
 > **"O Lord, Thou wilt open my lips, and my mouth shall declare Thy praise,"**  
 > the Six Psalms immediately follow, and everything else, as in the Matins of a Saint having a Polyeleos.[^48]
-
-[Book Page 39]
 
 ## The Order
 ### OF WEEKDAY VESPERS,
@@ -875,10 +768,6 @@ and the Vesperal Psalm 103:
 — While the Introductory Psalm is sung, the Priest according to the Typikon, having stood before the holy doors, says the Vesperal Prayers (of Light).  
 After "Glory... Now and forever, and unto the ages of ages," and "Alleluia" (three times), the Priest before the holy doors says the Litany...
 
----
-
-[Book Page 40]
-
 Great Litany: **"In peace let us pray to the Lord."** (*Ми́ромъ Го́сподꙋ помо́лимсѧ*)  
 And after its exclamation, the Kathisma of the cycle is read (except on Sunday evening, on which Kathisma is not said at Vespers throughout the entire year, but only on weekdays).[^49]  
 After the Kathisma, the Little Litany is said by the Priest, which the Choir sings in the customary manner.  
@@ -901,11 +790,7 @@ After this is immediately read:
 **"Vouchsafe, O Lord, to keep us this evening without sin..."** (*Сподо́би, Го́споди, въ ве́черъ се́й...*)  
 Then the Priest says before the holy doors the litany:  
 **"Let us complete our evening prayer unto the Lord."** (*И҆спо́лнимъ вече́рнюю моли́твꙋ на́шꙋ Го́сподеви*)  
-And after its
-
-[Book Page 41]
-
-exclamation:  
+And after its exclamation:
 **"Blessed and glorified be the majesty of Thy kingdom, of the Father, and of the Son, and of the Holy Spirit, now and forever, and unto the ages of ages."** (*Бꙋ́ди держа́ва ца́рствїа твоегѡ̀...*)  
 The Priest having departed, the Choir sings the Stichera at the Aposticha (*Стихи̑ры на стихо́внѣхъ*); then reads:  
 **"Now lettest Thou Thy servant depart in peace, O Master, according to Thy word..."** (*Ны́нѣ ѿпꙋща́еши*)  
@@ -932,8 +817,6 @@ If, however, you read Vespers privately (*на еди́нѣ*), you have for this
 * * *  
 **Note.** Be it known that on weekdays following the dismissal of Vespers and Matins, there is sometimes a procession into the narthex, or a Litiya for the reposed.
 
-[Book Page 42]
-
 When this takes place, the Priest, having taken the censer, goes forth into the narthex or into the midst of the church, two candle-bearers with lamps preceding him. The Choir follows, and singing the Idiomelon Sticheron of the Saint to whom the temple is dedicated, goes forth likewise into the church narthex or into the midst of the church. And after the sticheron, the Priest, having placed the epitrachelion upon himself, says the beginning:[^51]  
 **"Blessed is our God always, now and forever, and unto the ages of ages."**  
 > **Choir:** **"Amen."** Trisagion, and after **"Our Father..."**: the exclamation: **"For Thine is the kingdom..."**
@@ -952,8 +835,6 @@ The Priest gives the Dismissal for the reposed:
 Thereupon: **"Memory Eternal!"** (*Вѣ́чнаѧ па́мѧть*) (thrice).  
 Then all say slowly and quietly:  
 **"May God make their memory blessed, and give them rest, and have mercy on us, for He is good and the Lover of mankind."** (*Бо́гъ да оу҆блажи́тъ и҆ оу҆поко́итъ и҆́хъ, и҆ на́съ поми́лꙋетъ, ꙗ҆́кѡ бла́гъ и҆ человѣколю́бецъ*)
-
-[Book Page 43]
 
 # The Order of Small Compline (*Чинъ повече́рїа ма́лагѡ*)
 Chanted on All Days
@@ -979,8 +860,6 @@ Then the Choir: **"Lord, have mercy"** (thrice). **"Glory to the Father, and to 
 And after **"Amen,"** he reads the Prayer:  
 **"O Undefiled, Untainted, Uncorrupted, Inviolate, Pure Virgin, Lady Bride of God..."** (*Нескве́рнаѧ, небла́знаѧ, нетлѣ́ннаѧ, пречи́стаѧ, чи́стаѧ Дѣ́во...*)
 
-[Book Page 44]
-
 then the 2nd prayer:  
 **"And grant unto us, O Master, as we depart unto sleep, rest of body and soul..."** (*И҆ да́ждь на́мъ, Влады́ко, на со́нъ грядꙋ́щымъ поко́й...*)  
 and:  
@@ -999,8 +878,6 @@ and at the end: **"Through the prayers of our holy fathers, O Lord Jesus Christ 
 [**Behold.** If on the morrow is Sunday or an illustrious saint, then after: *"For the abundance of the fruits of the earth,"* the Priest does not commemorate the reposed, but immediately: *"Through the prayers of our holy fathers..."*]  
 **Note.** It is fitting to know that among us in certain places the custom prevails, especially if we chant Compline in church (outside of Holy Great Lent), following the prayer: *"O Undefiled, Untainted"* and *"My hope is the Father"*, to sing the troparia: **"Have mercy on us, O Lord, have mercy on us..."** (*Поми́лꙋй на́съ, Го́споди, поми́лꙋй на́съ*). After these the Priest says the litany: **"Have mercy on us, O God..."** and **"Again let us pray that this city (or: village) may be preserved..."** And after the exclamation: **"Hear us, O God our Saviour..."**: **"Glory to Thee, O Christ God, our hope..."** and the Dismissal. Then forgiveness and the litany: **"Let us pray for the Universal Pontiff..."** and the rest.[^53]  
 The order of Great Compline with Litiya you will find in the rubrics for the Eve of the Nativity of Christ, and likewise on the Monday of the First Week of Great Lent.
-
-[Book Page 45]
 
 # The Order of the Daily Midnight Office (*Послѣ́дованїе полꙋ́нощницы повседне́вныя*)
 
@@ -1023,15 +900,11 @@ He commemorates also the reposed, as in the Horologion, then at the end: **"Thro
 And upon the completion of this, he begins Matins.  
 In like manner is chanted also the Saturday Midnight Office.
 
-[Book Page 46]
-
 **Behold.** The newer Horologia printed in the Pochaiv printing house, and those which have followed them, contain at the Midnight Office also the troparia: **"Have mercy on us, O Lord, have mercy on us"**, and the litany: **"Have mercy on us, O God."** But since the most ancient typika do not prescribe reciting these at the Daily Midnight Office, and in all corrected ancient Horologia these are not found, on this account we also have judged these to be superfluous. For certain men out of arbitrary inclination and lack of instruction have added many things.[^55]  
-**Know also this:** That if the first day of the afterfeast of the Nativity of Christ falls on one of the weekdays, then at the Midnight Office, after the 1st Trisagion, in place of the troparion: **"Behold, the Bridegroom comes at midnight"** (*Се́ Жени́хъ гряде́тъ въ полꙋ́нощи*), the Troparion of the Feast of the Nativity is said; and after the 2nd Trisagion, in place of the troparion: **"Remember, O Lord"**, the Kontakion: **"Today the Virgin gives birth unto Him Who is transcendent in essence"** (*Дѣ́ва дне́сь пресꙋ́щественнаго ражда́етъ*). Thereupon: **"Lord, have mercy"** (12 times) and the Dismissal. The prayers for the reposed we do not say.  
+**Know also this:** That if the first day of the afterfeast of the Nativity of Christ falls on one of the weekdays, then at the Midnight Office, after the 1st Trisagion, in place of the troparion: **"Behold, the Bridegroom cometh at midnight"** (*Се́ Жени́хъ гряде́тъ въ полꙋ́нощи*), the Troparion of the Feast of the Nativity is said; and after the 2nd Trisagion, in place of the troparion: **"Remember, O Lord"**, the Kontakion: **"Today the Virgin giveth birth unto Him Who is transcendent in essence"** (*Дѣ́ва дне́сь пресꙋ́щественнаго ражда́етъ*). Thereupon: **"Lord, have mercy"** (12 times) and the Dismissal. The prayers for the reposed we do not say.  
 In like manner we say also during the afterfeast of Theophany, if it falls on a weekday.  
 Likewise on the Monday of the Descent of the Holy Spirit: after the 1st Trisagion, the Troparion of the Feast; after the 2nd, the Kontakion of the Feast. Then: **"Lord, have mercy"** (12 times) and the Dismissal, and **"Let us pray for our most holy Hierarch..."**  
 In like manner on the commemoration of illustrious saints for whom an All-Night Vigil is appointed, if for reason of necessity there is no Vigil, the Midnight Office takes place, and after the 1st Trisagion is said, in place of **"Behold, the Bridegroom"**: the Troparion of the Saint; and after the 2nd Trisagion, the Kontakion of the Saint. Thereupon: **"Lord, have mercy"** (12 times) and the Dismissal.[^56]
-
-[Book Page 47]
 
 # The Beginning of Weekday or Daily Matins (*Нача́ло оу҆́трени седми́чныѧ, и҆ли́ повседне́вныя*)
 
@@ -1051,16 +924,12 @@ The exclamation from the Priest: **"For Thine is the kingdom..."**
 And the Reader says the troparion:  
 **"O Lord, save Thy people, and bless Thine inheritance, granting victories to our Emperor over adversaries, and by Thy Cross preserving Thy commonwealth."**  
 **"Glory to the Father, and to the Son, and to the Holy Spirit:"**  
-Kontakion: **"Thou Who wast voluntarily lifted up upon the Cross, bestow Thy compassions upon the new community that bears Thy name, O Christ God; gladden our Emperor by Thy power, granting him victories over adversaries: having Thy help as an armor of peace, an invincible trophy."**  
+Kontakion: **"Thou Who wast voluntarily lifted up upon the Cross, bestow Thy compassions upon the new community that beareth Thy name, O Christ God; gladden our Emperor by Thy power, granting him victories over adversaries: having Thy help as an armor of peace, an invincible trophy."**  
 **"Now and forever, and unto the ages of ages. Amen."**  
 Theotokion: **"O dread and unashamed Mediatress, despise not our prayers, O Good One, all-hymned Theotokos..."**  
 And the Priest says the Litany:  
 **"Have mercy on us, O God, according to Thy great mercy, we pray Thee, hear and have mercy."**  
-**"Again let us pray for our pious Emperor [Franz Joseph I]..."** after which
-
-[Book Page 48]
-
-the Choir responds: **"Lord, have mercy"** (6 times).  
+**"Again let us pray for our pious Emperor [Franz Joseph I]..."** after which the Choir responds: **"Lord, have mercy"** (6 times).
 Then the exclamation: **"For a merciful and man-loving God art Thou, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages."**  
 And the singers: **"Amen."**  
 **"In the name of the Lord, bless, Father."**  
@@ -1078,13 +947,11 @@ Upon the completion of the Six Psalms: **"Glory to the Father, and to the Son, a
 And the Priest, standing before the holy doors, says the Great Litany:  
 **"In peace let us pray to the Lord."**  
 After its exclamation, the Choir sings:  
-**"God is the Lord, and hath appeared unto us; blessed is He that comes in the name of the Lord."** (*Бо́гъ Го́сподь, и҆ яви́сѧ на́мъ*) in the tone of the troparion of the Saint.  
+**"God is the Lord, and hath appeared unto us; blessed is He that cometh in the name of the Lord."** (*Бо́гъ Го́сподь, и҆ яви́сѧ на́мъ*) in the tone of the troparion of the Saint.  
 The Priest or Reader says the verses:  
-**"O give thanks unto the Lord, for He is good, for His mercy endures forever"** which are in the Horologion (or Prayer Book); and after each verse read there is sung: **"God is the Lord."**  
+**"O give thanks unto the Lord, for He is good, for His mercy endureth forever"** which are in the Horologion (or Prayer Book); and after each verse read there is sung: **"God is the Lord."**  
 And they sing the Troparion of the Saint twice, and the Theotokion in the tone of the troparion (or as the typikon directs).  
 The Priest, having bowed to the holy doors, departs unto his place.
-
-[Book Page 49]
 
 Thereupon the Choir says: **"Lord, have mercy"** (thrice).  
 > **Reader:** **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen"** and begins the psalmody of the Kathismata.
@@ -1098,11 +965,7 @@ Psalm 50: **"Have mercy on me, O God, according to Thy great mercy..."**
 Thereupon they sing the Nine-Ode Canons, customarily three: from the Octoechos, and to the Saint from the General Menaion; the troparia in the canons they read with appropriate refrains in such manner that all shall be upon 14, with **"Glory..."** and **"Now and forever..."**.[^60]  
 The Heirmos of the 1st canon only is sung. The Heirmoi from the canon of the Saint are taken for the Katavasia only after Odes 3, 6, 8, and 9. [The order of daily Matins is arranged in the Horologion].  
 — After Ode 3: the Little Litany, and the Sessional Hymn from the General Menaion, **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** Theotokion.  
-After Ode 6: the Heirmos, the Little Litany, and the Kontakion of the Saint
-
-[Book Page 50]
-
-and the Ikos, whose concluding verse is sung in the tone of the kontakion.  
+After Ode 6: the Heirmos, the Little Litany, and the Kontakion of the Saint and the Ikos, whose concluding verse is sung in the tone of the kontakion.
 In place of **"Glory..."** at Ode 8 we say:  
 **"We bless the Father, and the Son, and the Holy Spirit, God."**  
 At the end of Ode 8 before the Katavasia, the Choir says in the tone of the canon of the Saint:  
@@ -1126,8 +989,6 @@ The Choir reads:
 **"Glory to God in the highest, and on earth peace, good will among men..."** all in order unto the end.  
 Thereupon the Priest before  
 *) If the Saint has stichera at the Praises, then we sing two verses of Psalm 150 in the customary manner: **"Let every breath praise the Lord. Praise the Lord from the heavens..."** and the 2nd verse.
-
-[Book Page 51]
 
 the holy doors, standing, says the litany:  
 **"Let us complete our morning prayer unto the Lord."** and the rest.  
@@ -1153,14 +1014,10 @@ Upon the conclusion of the Psalms: **"Glory to the Father, and to the Son, and t
 **"Now and forever, and unto the ages of ages. Amen:"** Theotokion of the Hours: **"What shall we call thee, O full of grace?..."** and the rest.  
 Trisagion, and after **"Our Father..."** and the exclamation: Kontakion of the day.  
 **"Lord, have mercy"** (40 times).  
-Then the Priest before the holy doors
-
-[Book Page 52]
-
-says the prayer: **"Thou Who at all times and at every hour..."**  
+Then the Priest before the holy doors says the prayer: **"Thou Who at all times and at every hour..."**
 **"Lord, have mercy"** (thrice). **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen. More honorable than the Cherubim..."** **"In the name of the Lord, bless, Father."**  
 > **Priest:** **"God be merciful unto us, and bless us..."**
-Then he says the prayer: **"O Christ, the True Light, Who enlightenest and sanctifiest every man that comes into the world..."** (*Хрⷭ҇тѐ свѣ́те и҆́стинный...*)  
+Then he says the prayer: **"O Christ, the True Light, Who enlightenest and sanctifiest every man that cometh into the world..."** (*Хрⷭ҇тѐ свѣ́те и҆́стинный...*)  
 After this: **"Glory to Thee, O Christ God, our hope, glory to Thee."**  
 > **Choir:** **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen. Lord, have mercy"** (thrice). **"Bless, Father."**
 > **Priest:** "Daily Dismissal, and he commemorates the Saint whose service is chanted."
@@ -1170,13 +1027,9 @@ It is fitting to know also this: that the Priest at the 1st Hour says the verse 
 In this manner as here portrayed is chanted Matins on Monday, Tuesday, Wednesday, Thursday, and Saturday.  
 On Saturday, the canon of the Saint always precedes, and after it that of the temple Saint, then in the Octoechos the martyr canon. For the canon of the reposed is chanted on Friday at Compline. At the Praises on Saturday we do not chant stichera in the Octoechos, but we chant them at the Aposticha, the 3 martyr stichera [1st, 2nd, and 3rd] with the customary verses of the Horologion: **"We were filled in the morning with Thy mercy..."**;
 
-[Book Page 53]
-
 one, however, we omit, the 14th and of the reposed, by Damascene.[^63] And the Saturday aposticha are omitted; only on those Saturdays is Matins chanted according to them: in Lent on the 1st, 3rd, and 4th Saturday, or if Alleluia occurs, the aposticha are chanted with their funeral verses.  
 * * *  
 Following Matins on weekdays the typikon directs the celebration of the Litiya for the reposed, as was portrayed after Vespers; but among us it is performed only when commemoration is made for all the reposed in general.
-
-[Book Page 54]
 
 # The Order of the Sacred and Divine Liturgy of St. John Chrysostom (*Чинъ сщ҃е́нныѧ и҆ Бж҃е́ственныѧ Лїтꙋргі́и ст҃а́гѡ І҆ѡа́нна Златоꙋ́стагѡ*)
 Chanted Solemnly
@@ -1195,11 +1048,7 @@ Thereupon the Priest stands before the icon of Christ the Saviour, and there say
 **"Thy most pure image do we venerate, O Good One, asking forgiveness of our transgressions, O Christ God..."** (*Пречи́стомꙋ твое́мꙋ ѡ҆́бразꙋ покланя́емсѧ, Благі́й...*) and having made two bows, kisses the icon of the Master, and departing, bows again once.  
 Thereupon he departs also to the icon of the Mother of God, and before this says the troparion:  
 **"Inasmuch as thou art a wellspring of compassion, vouchsafe mercy unto us, O Theotokos; look upon a people that hath sinned..."** (*Милосе́рдїя сꙋ́щи и҆сто́чникъ...*) and having made two bows, kisses also the icon of the Theotokos, and again makes one bow.  
-Then returning afterward before the holy
-
-[Book Page 55]
-
-doors, bowing his head, he says the prayer:  
+Then returning afterward before the holy doors, bowing his head, he says the prayer:
 **"O Lord, stretch forth Thy hand from Thy holy dwelling-place on high, and strengthen me for this Thy present service..."** (*Го́споди, низпослѝ рꙋ́кꙋ твою̀...*)  
 and having made three bows before the holy doors, then one to each choir, he enters into the sanctuary [to the table of oblation], saying:  
 **"I will enter into Thy house; I will worship toward Thy holy temple in Thy fear."** (Psalm 5:8 LXX).  
@@ -1215,11 +1064,7 @@ Then the troparion:
 **"Thou hast redeemed us from the curse of the law by Thy precious Blood; having been nailed to the Cross and pierced with the spear, Thou hast poured forth immortality upon men, O our Saviour, glory to Thee."**  
 And he begins the Proskomedia together with the Deacon in order, as set forth in the Sluzhebnik.[^66]  
 [**It is fitting to know** that if many priests concelebrate in a sobor, the action of the Proskomedia is performed by one priest only, and he says the prescribed prayers; the other concelebrants say nothing of the Proskomedia privately].  
-And having arrived down to the prayer: **"Incense
-
-[Book Page 56]
-
-we offer unto Thee, O Christ our God..."**, the Priest puts incense into the censer, and when he begins to say: **"Blessed is God Who is thus well-pleased, glory to Thee,"** then the Priest, having taken the censer, censes the prepared gifts upon the diskos and in the chalice thrice, saying: **"Blessed is God Who is thus well-pleased, glory to Thee"**; and he hands the censer to the Deacon, if there is one, who censes the holy table round about crosswise, saying to himself: **"In the tomb bodily, in hades with the soul as God, in paradise with the thief, and on the throne with the Father and the Spirit wast Thou, O Christ, filling all things, Thyself uncircumscribed"**; and the rest. After this, having gone forth through the north door, the holy doors being closed, and reciting Psalm 50, he censes the icons and the entire temple. — [If, however, the Priest celebrates alone without a Deacon, he censes after the dismissal of the Proskomedia].  
+And having arrived down to the prayer: **"Incense we offer unto Thee, O Christ our God..."**, the Priest puts incense into the censer, and when he begins to say: **"Blessed is God Who is thus well-pleased, glory to Thee,"** then the Priest, having taken the censer, censes the prepared gifts upon the diskos and in the chalice thrice, saying: **"Blessed is God Who is thus well-pleased, glory to Thee"**; and he hands the censer to the Deacon, if there is one, who censes the holy table round about crosswise, saying to himself: **"In the tomb bodily, in hades with the soul as God, in paradise with the thief, and on the throne with the Father and the Spirit wast Thou, O Christ, filling all things, Thyself uncircumscribed"**; and the rest. After this, having gone forth through the north door, the holy doors being closed, and reciting Psalm 50, he censes the icons and the entire temple. — [If, however, the Priest celebrates alone without a Deacon, he censes after the dismissal of the Proskomedia].
 The Deacon enters again into the holy sanctuary, and having censed the holy table and the Priest standing in his vestments, sets aside the censer.  
 And standing together with the Priest before the holy table, they bow thrice, praying within themselves and saying: **"O Heavenly King, Comforter, Spirit of Truth..."** and the rest.  
 Then the Priest kisses the holy Gospel Book, and the Deacon kisses the holy table; and the Deacon, having received the blessing from the Priest, goes forth through the north door, holding also the orarion with three fingers of his right hand, to the customary place of the ambo, and begins, saying:  
@@ -1227,11 +1072,7 @@ Then the Priest kisses the holy Gospel Book, and the Deacon kisses the holy tabl
 And the Priest:  
 **"Blessed is the kingdom of the Father, and of the Son, and of the Holy Spirit, now and forever, and unto the ages of ages."**  
 and the rest according to the order of the Sluzhebnik.  
-While the Third Antiphon is being sung by the singers, or the Beatitudes if it is Sunday, when the time of the Little Entrance arrives, the Priest
-
-[Book Page 57]
-
-and the Deacon, standing before the holy table, make three bows. Then the Priest, having taken the holy Gospel Book, gives it to the Deacon, and they go in a circuitous way behind the holy table, and having gone forth again through the north door, candle-bearers with candles preceding them, they make the Little Entrance;[^67] and standing before the holy doors, they both bow their heads, and the Deacon having said: **"Let us pray to the Lord,"** the Priest says the Prayer of the Entrance:  
+While the Third Antiphon is being sung by the singers, or the Beatitudes if it is Sunday, when the time of the Little Entrance arrives, the Priest and the Deacon, standing before the holy table, make three bows. Then the Priest, having taken the holy Gospel Book, gives it to the Deacon, and they go in a circuitous way behind the holy table, and having gone forth again through the north door, candle-bearers with candles preceding them, they make the Little Entrance;[^67] and standing before the holy doors, they both bow their heads, and the Deacon having said: **"Let us pray to the Lord,"** the Priest says the Prayer of the Entrance:
 **"O Master, Lord our God, Who hast appointed in heaven ranks and hosts of angels and archangels for the ministry of Thy glory..."** (*Влады́ко Го́споди Бо́же на́шъ...*)  
 The prayer being finished, the Deacon gives the holy Gospel Book to the Priest to kiss, and says, pointing toward the east with his right hand, while holding also the orarion with three fingers:  
 **"Bless, Master, the holy entrance."**  
@@ -1248,12 +1089,8 @@ The Choir having chanted: **"Amen,"** begins to sing the Trisagion.
 The Priest and the Deacon say the Trisagion themselves also, making together three bows before the holy table.  
 Then the Deacon says to the Priest:  
 **"Command, Master."** (*Повелѝ, Влады́ко*)  
-And they both depart to the High
-
-[Book Page 58]
-
-Place behind the holy table. The Deacon, if he is alone, passing between the Priest and the holy table to the right side of the holy table, while the Priest goes to the left side, representing by their crosswise passage the sign of the cross, saying quietly:[^68]  
-**"Blessed is He that comes in the name of the Lord."**  
+And they both depart to the High Place behind the holy table. The Deacon, if he is alone, passing between the Priest and the holy table to the right side of the holy table, while the Priest goes to the left side, representing by their crosswise passage the sign of the cross, saying quietly:[^68]
+**"Blessed is He that cometh in the name of the Lord."**  
 [When, however, the Priest celebrates alone without a Deacon, then having bowed according to the direction above before the holy table, he goes not to the left side, but to the right toward the side of the High Place].  
 And upon the completion of the Trisagion, the Deacon, having come before the holy doors, looking toward the people, says:  
 **"Let us be attentive."** (*Во́нмимъ*)  
@@ -1269,8 +1106,6 @@ And the Reader or Subdeacon says the title of the Epistle; and after **"Let us b
 After the reading of the Epistle, the incensation takes place in the customary manner, and the rest.  
 The Gospel is read by the Deacon upon the ambo stone.  
 [If, however, the Priest alone celebrates the Liturgy, he reads the Gospel at the holy doors, looking toward the people].
-
-[Book Page 59]
 
 Upon the conclusion of the Gospel, the Deacon, having departed unto the holy doors, gives the holy Gospel Book to the Priest standing there, and standing at his customary place, begins the Litany:  
 **"Let us all say with our whole soul and with our whole mind, let us say."** (*Рце́мъ всѝ...*) and the rest.  
@@ -1288,10 +1123,6 @@ And the Priest, having taken the aer, places it upon his left shoulder, saying:
 **"Lift up your hands to the sanctuary, and bless the Lord."** (Psalm 133:2 LXX).  
 Thereupon he gives the holy diskos to the Deacon to hold above his head, the Deacon holding together with it also the censer upon one of his fingers.
 
----
-
-[Book Page 60]
-
 The Priest himself, having taken the holy chalice (the cup) into his hands (covered), goes forth through the northern door, two [servers] with candles preceding them. (If there are two deacons, one goes before with the censer). The Deacon, carrying the diskos, entering [the nave], says:  
 **"All you orthodox Christians may the Lord God remember in His kingdom, always, now and forever, and unto the ages of ages."** (*Всѣ́хъ правосла́вныхъ хрїстїа́нъ да помяне́тъ Го́сподь Бг҃ъ во ца́рствїи свое́мъ, всегда̀, ны́нѣ, и҆ при́снѡ и҆ во вѣ́ки вѣкѡ́въ*)[^71]  
 Thereafter the Priest:  
@@ -1305,19 +1136,11 @@ The First Priest:
 The Second Priest:  
 **"Our Most Reverend Archbishop and Metropolitan (Name), and our God-loving Bishop (Name), may the Lord God remember,"** and the rest.  
 The Third Priest:  
-**"The priestly and monastic order, the founders and benefactors of this holy**
-
-[Book Page 61]
-
-**temple may the Lord God remember in His kingdom, always, now and forever..."**  
+**"The priestly and monastic order, the founders and benefactors of this holy** **temple may the Lord God remember in His kingdom, always, now and forever..."**
 Again the First Priest, looking toward the people:  
 **"All of you orthodox Christians may the Lord God remember in His kingdom:"**  
 The Deacon having entered within the holy doors with the diskos, stands at the right hand of the Priest. And the Priest places the chalice and the diskos upon the holy table, covers them, and censes the Holy Gifts thrice, saying: **"Do good, O Lord, in Thy good pleasure unto Zion..."** (*Оу҆блажѝ Го́споди благоволе́нїемъ твои́мъ Сїѡ́на...*) and the rest. The Deacon, having asked a blessing and forgiveness, goes forth unto the place of the ambo and says the litany: **"Let us complete our prayer unto the Lord..."** (*И҆спо́лнимъ моли́твꙋ на́шꙋ...*). And when the Deacon says: **"Let us love one another, that with one accord we may confess:"** (*Возлю́бимъ дрꙋ́гъ дрꙋ́га...*) The Choir: **"The Father, and the Son, and the Holy Spirit: the Trinity, one in essence and undivided."** And the Priest bows, saying secretly: **"I will love Thee, O Lord, my strength; the Lord is my support, and my refuge, and my deliverer"** (thrice), and kisses the Holy Gifts in this manner as they are covered: first the top of the holy diskos, then the top of the holy chalice (the cup), and the edge of the holy table before him.[^72]  
-If, however, there are two or more priests, then they also all kiss the covered Holy Gifts, and one another on the shoulder. The presiding Priest says: **"Christ is among us."** (*Хрїсто́съ посредѣ̀ на́съ*). And he that was kissed replies: **"He is and shall be."** (*И҆ е́сть и҆ бꙋ́детъ*). Likewise the deacons, if there are two or three, each kisses his own orarion where the image of the cross is, and one another on the shoulder, saying the same as the priests. In like manner also the Deacon bows together in the place where he stands, and kisses
-
-[Book Page 62]
-
-his own orarion where the image of the cross is, and proclaims thus:  
+If, however, there are two or more priests, then they also all kiss the covered Holy Gifts, and one another on the shoulder. The presiding Priest says: **"Christ is among us."** (*Хрїсто́съ посредѣ̀ на́съ*). And he that was kissed replies: **"He is and shall be."** (*И҆ е́сть и҆ бꙋ́детъ*). Likewise the deacons, if there are two or three, each kisses his own orarion where the image of the cross is, and one another on the shoulder, saying the same as the priests. In like manner also the Deacon bows together in the place where he stands, and kisses his own orarion where the image of the cross is, and proclaims thus:
 **"The doors! The doors! In wisdom let us attend."** (*Две́ри, две́ри: въ премꙋ́дрости во́нмимъ*)  
 The Priest elevates the aer and holds it over the Holy Gifts. If other priests are concelebrating in common, they likewise elevate the holy aer and hold it over the Holy Gifts, moving it and saying to themselves, as do the people, the confession of faith (the Creed). All the rest according to the direction of the *Sluzhebnik*.  
 After **"Our Father..."** and after the prayer: **"Attend, O Lord Jesus Christ our God, from Thy holy dwelling-place..."** (*Во́нми Го́споди І҆исꙋ́се Хрїстѐ Бо́же на́шъ ѿ свята́гѡ жили́ща твоегѡ̀...*), the Deacon standing before the holy doors girds himself crosswise with his orarion. When the Deacon sees the Priest bowing, extending his hands, and touching the holy Bread to perform the holy elevation, he proclaims:  
@@ -1325,11 +1148,7 @@ After **"Our Father..."** and after the prayer: **"Attend, O Lord Jesus Christ o
 And the Priest, elevating the Holy Lamb above the diskos, proclaims:  
 **"Holy things to the holy."** (*Свята̑я святы̑мъ*)[^73]  
 And the Priest, breaking the Holy Lamb into four parts, places the parts in the form of a cross, with the crust facing downward toward the holy diskos and the cut edge upward, even as it was cut beforehand. He places **IC** on the upper part of the diskos, **XC** at the bottom, **NI** on the northern side, and **KA** on the southern side. Having taken **IC**, that is, the upper part, he makes with it the sign of the cross over the holy chalice, saying: **"The fullness of the Holy Spirit"** (*И҆сполне́нїе Дꙋ́ха свята́гѡ*), and drops it into the holy chalice, and the rest.  
-If the Deacon is to receive communion, then when the Priest says: **"Deacon, approach,"** the Deacon approaches, makes a reverent bow, asking
-
-[Book Page 63]
-
-forgiveness, and says:  
+If the Deacon is to receive communion, then when the Priest says: **"Deacon, approach,"** the Deacon approaches, makes a reverent bow, asking forgiveness, and says:
 **"Behold, I approach unto the immortal King; forgive me, holy Master, and bless, and impart unto me the precious, and holy, and most pure Body of our Lord and God and Savior Jesus Christ."** (*Сѐ пристꙋпа́ю къ безсме́ртномꙋ царю̀, прости́ мя Влады́ко святы́й...*)[^74]  
 The Priest, having taken one part of the Holy Lamb, gives it to the Deacon, saying the customary words; and the Deacon, having kissed the hand that imparts it to him, receives the Holy Bread upon the palm of his right hand, departs [behind the holy table], and prays even as does the Priest. If, however, other priests are concelebrating in common, they approach orderly one after another, and the presiding Priest distributes to them the portions of the Holy Bread, saying: **"Christ is among us."** (*Хрїсто́съ посредѣ̀ на́съ*). And the rest you have in the *Sluzhebnik*.  
 After the Ambo Prayer (*Моли́тва заамво́нная*) and after: **"Blessed be the name of the Lord from henceforth and forevermore"** (thrice), the Priest, standing in the holy doors, says:  
@@ -1337,15 +1156,12 @@ After the Ambo Prayer (*Моли́тва заамво́нная*) and after: **"
 And the customary Dismissal takes place, and the holy doors are closed.  
 
 ---
+
 **THE ORDER OF THE TYPIKA,**  
 **OR OF THE PSALMS OF REPRESENTATION (OBIDNYTSIA).**[^75]  
 If on any day there is no Divine Liturgy, the Typika is chanted thus:  
 After the prayer of the Sixth Hour, there is immediately read:  
-Psalm 102: **"Bless the Lord, O my soul, and all**
-
-[Book Page 64]
-
-**that is within me, bless His holy name..."** (*Благословѝ, дꙋшѐ моя̀, Го́спода...*); then: **"Glory to the Father, and to the Son, and to the Holy Spirit,"** and Psalm 145: **"Praise the Lord, O my soul..."** (*Хвалѝ, дꙋшѐ моя̀, Го́спода...*); **"Now and forever, and unto the ages of ages. Amen:"** **"Only-begotten Son and Word of God..."** (*Є҆диноро́дный Сы́не...*).  
+Psalm 102: **"Bless the Lord, O my soul, and all** **that is within me, bless His holy name..."** (*Благословѝ, дꙋшѐ моя̀, Го́спода...*); then: **"Glory to the Father, and to the Son, and to the Holy Spirit,"** and Psalm 145: **"Praise the Lord, O my soul..."** (*Хвалѝ, дꙋшѐ моя̀, Го́спода...*); **"Now and forever, and unto the ages of ages. Amen:"** **"Only-begotten Son and Word of God..."** (*Є҆диноро́дный Сы́не...*).
 After this the Beatitudes are read: **"In Thy kingdom remember us, O Lord..."** (*Въ ца́рствїи твое́мъ помянѝ на́съ, Го́споди...*). The verse: **"Blessed are the meek..."** (*Блаже́нни кро́тцыи...*) we chant to the stichera on the Beatitudes from the Octoechos, or to the stichera from Odes 3 and 6 of the Canon of the Feast or of the Saint, as the Typikon directs. To the second-to-last sticheron we append: **"Glory to the Father, and to the Son, and to the Holy Spirit,"** and to the last: **"Now and forever, and unto the ages of ages. Amen:"** [we read them or chant them to the tone of the troparia].  
 After this the Priest, having vested in the phelonion, opens the holy doors and proclaims:  
 **"Let us be attentive. Peace be unto all. Wisdom, let us be attentive."** (*Во́нмимъ: Ми́ръ всѣ̑мъ: Премꙋ́дрость, во́нмимъ*)  
@@ -1354,9 +1170,6 @@ The Prokeimenon of the day or of the Feast. Then the Epistle, and after it **"Al
 > **Choir:** **"More honorable than the Cherubim..."**
 > **Priest:** **"Glory to Thee, O Christ God, our hope, glory to Thee."**
 And the appointed Dismissal.  
-
----
-[Book Page 65]
 
 **THE ORDER**  
 **OF THE DIVINE LITURGY OF OUR HOLY FATHER**  
@@ -1369,8 +1182,6 @@ The beginning of the Liturgy of Saint Basil together with Vespers takes place th
 **"Blessed is the kingdom**  
 * * *  
 † *The order of the sacred ministry of the Liturgy of Saint Basil, outside of Vespers, is the same as that of Saint John Chrysostom.*
-
-[Book Page 66]
 
 **of the Father, and of the Son, and of the Holy Spirit, now and forever, and unto the ages of ages."**  
 The Choir immediately begins: **"Come, let us worship and bow down..."** (thrice), and the Introductory Psalm 103: **"Bless the Lord, O my soul: O Lord my God, Thou art very great..."**  
@@ -1385,24 +1196,17 @@ Upon the conclusion of the readings, the Priest or Deacon chants the Little Lita
 **"For holy art Thou, O our God, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages."**  
 And they sing the Trisagion; [or on Holy Saturday: **"As many of you as have been baptized into Christ have put on Christ. Alleluia"** (Galatians 3:27)].[^77]  
 Then the Prokeimenon, the Epistle, the censing, the Gospel, and all things in order, even as in the *Liturgikon*.  
-After the Great Entrance the Priest
-
-[Book Page 67]
-
-or Deacon says: **"Let us complete our evening prayer unto the Lord:"** **"For an entire evening, perfect, holy, peaceful..."**  
+After the Great Entrance the Priest or Deacon says: **"Let us complete our evening prayer unto the Lord:"** **"For an entire evening, perfect, holy, peaceful..."**
 * * *  
 **Note.** According to this order the Liturgy of Chrysostom with Vespers is celebrated also when the Feast of the Annunciation [Conception of the Lord] falls within the Holy Great Forty Days (Great Lent).[^78]  
 
 ---
+
 **THE ORDER**  
 **OF THE DIVINE LITURGY**  
 **OF THE PRESANCTIFIED GIFTS.**[^79]  
 
-First of all, be it known that on the Sunday before the days on which the Priest is to celebrate the Presanctified Liturgy, he performs the Proskomedia in the customary manner, save only that in addition to the first Lamb which he extracts in the customary manner, he extracts also other Lambs according to the number of days on which he is to celebrate the Presanctified Liturgy; and cutting them and piercing them, he says over each one individually these words: **"In remembrance of our Lord and God and Savior Jesus Christ;"** **"As a sheep He was led to the slaughter;"** and **"Sacrificed is the Lamb of God;"** and **"One of the soldiers pierced His side with a spear;"** and he places them upon the diskos. Then when he is to make the sign of the cross over the loaves at the invocation
-
-[Book Page 68]
-
-of the Holy Spirit, the Priest says: **"Make this bread the precious Body of Thy Christ:"** in the singular number, and not in the plural, because Christ is one.  
+First of all, be it known that on the Sunday before the days on which the Priest is to celebrate the Presanctified Liturgy, he performs the Proskomedia in the customary manner, save only that in addition to the first Lamb which he extracts in the customary manner, he extracts also other Lambs according to the number of days on which he is to celebrate the Presanctified Liturgy; and cutting them and piercing them, he says over each one individually these words: **"In remembrance of our Lord and God and Savior Jesus Christ;"** **"As a sheep He was led to the slaughter;"** and **"Sacrificed is the Lamb of God;"** and **"One of the soldiers pierced His side with a spear;"** and he places them upon the diskos. Then when he is to make the sign of the cross over the loaves at the invocation of the Holy Spirit, the Priest says: **"Make this bread the precious Body of Thy Christ:"** in the singular number, and not in the plural, because Christ is one.
 * * *  
 On the day when the Priest is to celebrate the Presanctified Liturgy and the time for this has arrived, having entered the sanctuary, he vests in the priestly vestments, signing each vestment with his hand and kissing it only, saying nothing over each individual vestment except: **"Let us pray to the Lord."**[^80] [He prepares likewise upon the altar table or at the table of oblation the chalice, the diskos, the veils, and the spoon].  
 Thereupon, having approached before the holy table, he says the customary beginning: **"O Heavenly King, the Comforter..."** (*Царю̀ небе́сный...*) and the rest.  
@@ -1413,11 +1217,7 @@ And immediately: **"Come, let us worship and bow down..."** (thrice).
 Then the Introductory Psalm 103: **"Bless the Lord, O my soul: O Lord my God, Thou art very great..."** (*Благословѝ, дꙋшѐ моя̀, Го́спода...*).  
 The Priest recites the evening prayers beginning from the fourth prayer, because the first three prayers are said during the litanies.  
 Upon the completion of the Psalm, the Priest [or Deacon] says the litany: **"In peace let us pray to the Lord:"**  
-And after the exclamation, the Reader chants in the midst of the church the 18th Kathisma: **"Unto the Lord in my affliction I cried..."** (*Ко Го́сподꙋ, внегда̀ скорбѣ́ти мѝ...*); and he makes after the first Antiphon, that is, after the first **"Glory"** (*Сла́ва*), at the **"Alleluia,"** three bows. While the first Antiphon is being read, the Priest
-
-[Book Page 69]
-
-recites secretly the Prayer of the First Antiphon, which is found in the *Liturgikon*.  
+And after the exclamation, the Reader chants in the midst of the church the 18th Kathisma: **"Unto the Lord in my affliction I cried..."** (*Ко Го́сподꙋ, внегда̀ скорбѣ́ти мѝ...*); and he makes after the first Antiphon, that is, after the first **"Glory"** (*Сла́ва*), at the **"Alleluia,"** three bows. While the first Antiphon is being read, the Priest recites secretly the Prayer of the First Antiphon, which is found in the *Liturgikon*.
 Upon the conclusion of the first **"Glory"**, the Priest says aloud the Little Litany and the exclamation: **"For Thine is the dominion, and Thine is the kingdom..."**  
 After the exclamation, the Reader immediately reads the second **"Glory"** [the 2nd Antiphon] of the Kathisma, bows being made at the **"Alleluia."**  
 Then the Little Litany is said by the Priest or Deacon.  
@@ -1427,11 +1227,7 @@ After the Kathisma and litanies, the Choir sings: **"Lord, I have cried"** (*Г�
 The Priest [or the Deacon, if there is one] censes the altar and the whole church in the customary manner.  
 [**Behold:** Ancient typika direct the Priest to arrange the sacred vessels here at the table of oblation, and to take from the tabernacle and transfer the presanctified holy Lamb to the table of oblation, and to place it there reverently upon the diskos, and also to pour wine and water into the chalice; but among us the custom has entered that while singing: **"Now the Heavenly Powers invisibly minister with us..."** (*Ны́нѣ си́лы небе́сныѧ...*), these things are performed after the Great Entrance].[^81]  
 Thereafter they sing the stichera on **"Lord, I have cried"**, and they set 10 verses.  
-When the singers begin to chant: **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the Priest recites the Entrance Prayer and makes the Entrance with the censer without the Gospel Book, two [servers] with candles preceding him. [When, however, the Gospel Book is to be carried, on
-
-[Book Page 70]
-
-the feast of a saint, or in Holy and Great Week, then he makes the Entrance with the Gospel Book].  
+When the singers begin to chant: **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the Priest recites the Entrance Prayer and makes the Entrance with the censer without the Gospel Book, two [servers] with candles preceding him. [When, however, the Gospel Book is to be carried, on the feast of a saint, or in Holy and Great Week, then he makes the Entrance with the Gospel Book].
 Then he proclaims:  
 **"Wisdom! Standing upright."** (*Премꙋ́дрость, про́сти*)  
 And they sing: **"Gladsome Light"** (*Свѣ́те ти́хїй*).  
@@ -1458,11 +1254,7 @@ Upon the completion of the 2nd paremia, the Priest says: **"Peace be unto thee."
 > **Deacon:** **"Wisdom!"**
 The singer in the midst of the church (if there is no appointed singer, the Priest himself in the sanctuary) sings:  
 **"Let my prayer be set forth as incense before Thee; the lifting up of my hands as an evening sacrifice."** (*Да и҆спра́витсѧ моли́тва моѧ̀, ꙗ҆́кѡ кади́ло предъ тобо́ю...*)[^83]  
-Then the right and left choirs and the people standing on both sides throughout the entire church bend their knees in prayer. The Priest, standing
-
-[Book Page 71]
-
-in the sanctuary before the holy table, having taken the censer with incense, censes from the four sides.  
+Then the right and left choirs and the people standing on both sides throughout the entire church bend their knees in prayer. The Priest, standing in the sanctuary before the holy table, having taken the censer with incense, censes from the four sides.
 And after the singing of the soloist, the first choir sings the same:  
 **"Let my prayer be set forth as incense before Thee; the lifting up of my hands as an evening sacrifice."**  
 The soloist, and the other side of the choir, and the people standing on that side bend their knees in prayer until they finish singing.  
@@ -1485,38 +1277,23 @@ And the soloist, the first choir, and the people bend their knees.
 And again the soloist sings:  
 **"Let my prayer be set forth as incense before Thee;"** —  
 And then both choirs and all the people standing in the church, as well as the Priest in the sanctuary, fall upon their knees and remain on their knees while the soloist sings. —  
-And having risen,
-
-[Book Page 72]
-
-all finish singing together with the soloist with the loudest voice:  
+And having risen, all finish singing together with the soloist with the loudest voice:
 **"The lifting up of my hands as an evening sacrifice."**  
 And upon the conclusion, all make three bows (prostrations).  
 After **"Let my prayer be set forth"**, the Priest [or the Deacon, if there is one] says the Litany: **"Let us all say with our whole soul and with our whole mind, let us say:"**  
 [If a celebrated saint occurs, for example: The Finding of the Precious Head of Saint John the Baptist, or the Forty Martyrs, on Wednesday or Friday of Great Lent: then after **"Let my prayer be set forth"**, the Prokeimenon, Alleluia, and Gospel are immediately chanted in the customary manner; then the Litany: **"Let us all say..."**, and the rest. — On Great and Holy Monday, Tuesday, and Wednesday, while **"Let my prayer be set forth"** is being sung, the Priest says the prayer before the Gospel: **"Illumine in our hearts, O Master Who lovest mankind..."**; the Deacon having asked a blessing to proclaim the Holy Gospel in the customary manner, and the Priest having pronounced the blessing: **"May God, through the prayers of the holy, glorious..."**, the Deacon reads the Gospel at the customary place, or the Priest himself in the holy doors if there is no deacon; then this Litany: **"Let us all say..."**  
 Be it known also: that from the Wednesday of Mid-Lent (the 4th week of the Fast) until Holy and Great Wednesday, after this exclamation: **"That they also with us may glorify..."**, there is said at the Presanctified Liturgies alone this Litany also: **"All you who are catechumens, depart... Pray, you who are preparing for illumination..."**].[^84]  
-After the exclamation: **"According to the gift of Thy Christ, with Whom Thou art blessed..."**, when the singers begin to sing: **"Now the Heavenly Powers invisibly minister with us..."**, the Deacon having received a blessing from the Priest,
-
-[Book Page 73]
-
-or the Priest himself if there is no deacon, censes the holy table from the four sides and toward the church to the people, saying Psalm 50.  
+After the exclamation: **"According to the gift of Thy Christ, with Whom Thou art blessed..."**, when the singers begin to sing: **"Now the Heavenly Powers invisibly minister with us..."**, the Deacon having received a blessing from the Priest, or the Priest himself if there is no deacon, censes the holy table from the four sides and toward the church to the people, saying Psalm 50.
 Thereafter standing (together with the Deacon, if there is one) before the holy table, he says:  
-**"Now the Heavenly Powers invisibly minister with us; for behold, the King of Glory enters. Behold, the mystical sacrifice, fully accomplished, is ushered in."** (thrice).  
+**"Now the Heavenly Powers invisibly minister with us; for behold, the King of Glory entereth. Behold, the mystical sacrifice, fully accomplished, is ushered in."** (thrice).  
 And having made three bows, — he opens the tabernacle [the pyx]: where the holy Lambs are kept, and having bowed low, takes out the pyx containing the holy Presanctified Gifts; then having censed it thrice and bowed low, he takes the holy pyx with great reverence and fear of God, and makes the Great Entrance, passing through the northern door and carrying the Holy Gifts, saying nothing.[^85]  
 The Deacon, walking before with the censer only, censes frequently. A candle-bearer with a candle also precedes him, somewhat to the side, even as the Deacon also takes care not to turn his back toward the holy pyx.  
 When the Divine Mysteries are carried past, all the people and the singers fall upon their knees and, falling prostrate, render God-befitting worship to Christ God truly present in the Mysteries.  
 The Priest, having entered through the holy doors into the holy sanctuary, places the holy pyx upon the holy table, and kneeling down, censes it. —  
-Thereafter, having given away the censer and bowed low, he removes the presanctified holy Lamb from the holy pyx with the spoon, and with great reverence and attentiveness places it upon the diskos, saying nothing. Then having bowed low, he puts
-
-[Book Page 74]
-
-the holy pyx back into the tabernacle. Thereafter he pours wine and water into the chalice, saying nothing over them, neither blessing them, and places it at the customary place on the holy table; then covers it with a veil.[^86] And the Priest, having taken the censer, censes the Holy Gifts, bowing low.  
+Thereafter, having given away the censer and bowed low, he removes the presanctified holy Lamb from the holy pyx with the spoon, and with great reverence and attentiveness places it upon the diskos, saying nothing. Then having bowed low, he puts the holy pyx back into the tabernacle. Thereafter he pours wine and water into the chalice, saying nothing over them, neither blessing them, and places it at the customary place on the holy table; then covers it with a veil.[^86] And the Priest, having taken the censer, censes the Holy Gifts, bowing low.
 Thereafter all make three great bows (prostrations).  
 Then the Priest or Deacon says the Litany: **"Let us complete our evening prayer unto the Lord:"** and the rest of the order of the Presanctified takes place, according to the rite even as it is set forth in the *Sluzhebniks*.  
-After the Ambo Prayer: **"Blessed be the name of the Lord from henceforth and forevermore"** (thrice) and three reverences (*метанія*).  
-
----
-[Book Page 75]
+After the Ambo Prayer: **"Blessed be the name of the Lord from henceforth and forevermore"** (thrice) and three reverences (*метанія*).
 
 ---
 

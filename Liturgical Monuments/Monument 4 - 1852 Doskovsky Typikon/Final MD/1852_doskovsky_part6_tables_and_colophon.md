@@ -22,10 +22,6 @@
 *Tone 7: Resurrectional Gospel 4, Luke, pericope 112.*  
 *Tone 8: Resurrectional Gospel 5, Luke, pericope 113.*
 
-[Book Page 267]
-
-— 267 —
-
 #### Pillar 3: Begins After the Feast of the Elevation of the Precious Cross
 *Tone 1: Resurrectional Gospel 6, Luke, pericope 114.*  
 *Tone 2: Resurrectional Gospel 7, John, pericope 63.*  
@@ -45,10 +41,6 @@
 *Tone 6: Resurrectional Gospel 8, John, pericope 64.*  
 *Tone 7: Resurrectional Gospel 9, John, pericope 65.*  
 *Tone 8: Resurrectional Gospel 10, John, pericope 66.*
-
-[Book Page 268]
-
-— 268 —
 
 #### Pillar 5: Begins After the Theophany of the Lord
 *Tone 1: Resurrectional Gospel 11, John, pericope 67.*  
@@ -70,12 +62,10 @@
 *Tone 7: Resurrectional Gospel 3, Mark, pericope 71.*  
 *Tone 8: Resurrectional Gospel 4, Luke, pericope 112.*[^296]
 
+---
+
 ### THE COMMENCEMENT DATES OF THE EVANGELICAL PILLARS
 ### According to the Paschal Boundary Keys
-
-[Book Page 269]
-
-— 269 —
 
 | Paschal Key | Pillar 1 Begins | Pillar 2 Begins | Pillar 3 Begins | Pillar 4 Begins | Pillar 5 Begins | Pillar 6 Begins |
 |---|---|---|---|---|---|---|
@@ -92,10 +82,6 @@
 | **К** | May 30 | July 30 | Sept. 19 | Nov. 14 | Jan. 11 | March 10 (Leap: March 9) |
 | **Л** | May 31 | July 31 | Sept. 20 | Nov. 15 | Jan. 12 | March 11 (Leap: March 10) |
 | **М** | June 1 | Aug. 1 | Sept. 21 | Nov. 16 | Jan. 13 | March 12 (Leap: March 11) |
-
-[Book Page 270]
-
-— 270 —
 
 | Paschal Key | Pillar 1 Begins | Pillar 2 Begins | Pillar 3 Begins | Pillar 4 Begins | Pillar 5 Begins | Pillar 6 Begins |
 |---|---|---|---|---|---|---|
@@ -117,10 +103,6 @@
 | **Ы** | June 21 | Aug. 20 | Oct. 11 | Dec. 6 | Jan. 31 | March 29 (Leap: March 28) |
 | **Ь** | June 22 | Aug. 21 | Oct. 12 | Dec. 7 | Feb. 1 | March 30 (Leap: March 29) |
 
-[Book Page 271]
-
-— 271 —
-
 | Paschal Key | Pillar 1 Begins | Pillar 2 Begins | Pillar 3 Begins | Pillar 4 Begins | Pillar 5 Begins | Pillar 6 Begins |
 |---|---|---|---|---|---|---|
 | **Ѣ** | June 23 | Aug. 22 | Oct. 13 | Dec. 8 | Feb. 2 | March 31 (Leap: March 30) |
@@ -129,6 +111,8 @@
 | **Ѧ** | June 26 | Aug. 25 | Oct. 16 | Dec. 11 | Feb. 5 | April 3 (Leap: April 2) |
 | **Ѯ** | June 27 | Aug. 26 | Oct. 17 | Dec. 12 | Feb. 6 | April 4 (Leap: April 3) |
 | **Ѱ** | June 28 | Aug. 27 | Oct. 18 | Dec. 13 | Feb. 7 | April 5 (Leap: April 4) |
+
+---
 
 ### Worked Calendar Example: Finding the Tone and Gospel for Sunday, February 15, 1852
 
@@ -143,19 +127,13 @@
 *February 8: Tone 5, Gospel 5.*  
 *February 15: Tone 6, Gospel 6.*[^297]
 
-[Book Page 272]
-
-— 272 —
-
 *And in this manner, proceed through all Sundays unto the end of the year, finding with precision both the Tone and the appointed Resurrectional Morning Gospel.*
+
+---
 
 ### Colophon of the Typikon
 
 **By the grace of Almighty God, the printing of this Typikon was completed on the 23rd day of October, on the day of the Holy Apostle James, in the year of our Lord 1852, in the printing house of Andrew Huchkovsky in Peremyshl, through the labor and care of the Reverend Father Jacob Doskovsky, Cathedral Vicar in Peremyshl.**[^298]
-
-[Book Page 273]
-
-— 273 —
 
 ### PASCHAL KEY LETTERS
 ### Indicating the Boundary Keys for the Years of the Lord 1852 to 1908
@@ -182,10 +160,6 @@
 | **1869** | **Ы** | **1888** | **Т** | **1907** | **Х** |
 | **1870** | **Г** | **1889** | **И** | **1908** | **М** |
 
-[Book Page 274]
-
-— 274 —
-
 ### PASCHAL KEY LETTERS (Continued)
 ### Indicating the Boundary Keys for the Years of the Lord 1909 to 1940
 
@@ -203,13 +177,11 @@
 | **1918** | **Ч** | **1929** | **Ы** | **1940** | **С** |
 | **1919** | **П** | **1930** | **В** | | |
 
+---
+
 ### Typographical Erratum
 
 *Notice of Erratum on page 96: After Psalm 50 at Matins, instead of* **"Save, O God, Thy people"**, *chant the Canon of the Octoechos, etc.*[^299]
-
-[Book Page 275]
-
-— 275 —
 
 ### TABLE OF CONTENTS
 ### Part 1: General Church Order and Horologion
@@ -224,10 +196,6 @@
 - Order of Daily Matins . . . p. 70  
 - Order of the Little Hours . . . p. 77  
 - Order of the Divine Liturgy . . . p. 83[^300]
-
-[Book Page 276]
-
-— 276 —
 
 ### TABLE OF CONTENTS (Continued)
 ### Part 2: Typikon of Feasts and Saints on Sundays
@@ -246,10 +214,6 @@
 - Concerning a Sunday with a Polyeleos saint . . . p. 122  
 - Concerning the Sunday of the Forefathers and the Sunday of the Ancestors . . . p. 126
 
-[Book Page 277]
-
-— 277 —
-
 ### TABLE OF CONTENTS (Continued)
 ### Part 3: Weekday Feasts, Fixed Calendar, and the Triodion
 
@@ -263,12 +227,7 @@
 - Sunday of the Prodigal Son . . . p. 185  
 - Meatfare Saturday . . . p. 188  
 - Meatfare Sunday . . . p. 193  
-- Cheesefare Week and Sunday . . . p. 196[^301] [Book Page 278 (Table of Contents Conclusion)]
-
----
-
-
-— 278 —
+- Cheesefare Week and Sunday . . . p. 196[^301]
 
 ### TABLE OF CONTENTS (Conclusion)
 ### Part 4: Holy Great Lent, Holy Week, the Pentecostarion, and General Rubrics
@@ -286,12 +245,6 @@
 - Decree concerning the Polyeleos . . . p. 260  
 - Concerning the Katavasia . . . p. 262  
 - The Six Pillars according to which the Tones and the Resurrection Morning Gospels at Matins are indicated . . . p. 266[^302]
-
-[Book Page 279 (Blank Endpaper)]
-
-— 279 —
-
-*(Blank Flyleaf / Vacat)*
 
 ---
 

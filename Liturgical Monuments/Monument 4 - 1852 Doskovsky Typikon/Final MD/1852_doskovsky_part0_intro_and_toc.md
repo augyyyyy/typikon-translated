@@ -1,5 +1,3 @@
-[Book Page 1]
-
 # TYPIKON, <a id="typikon-of-fr-jacob-doskovsky-peremyshl-1852"></a>
 ### that is:
 ## THE ORDER
@@ -16,15 +14,11 @@
 ### In the Press of the Ruthenian Cathedral Chapter[^3]
 ### 1852.
 
-[Book Page 2]
-
 > “Be filled with the Spirit, speaking to yourselves in psalms and hymns and spiritual canticles, singing and chanting in your hearts to the Lord.”  
 > — *Ephesians 5:19*[^4]
 
 > “Let all things be done decently and in order.”  
 > — *1 Corinthians 14:40*
-
-[Book Page 3]
 
 ---
 

@@ -7,7 +7,7 @@
 **О̂ Р Г̃** — The Archangel Gabriel  
 **ІС̃ ХС̃** — Jesus Christ  
 
-# TYPIKON
+# TYPIKON <a id="typikon-of-the-ruthenian-catholic-church-1899"></a>
 ## OF THE RUTHENIAN-CATHOLIC CHURCH
 
 compiled  
@@ -63,9 +63,11 @@ This Typikon consists of five parts, whereof:
 
 ---
 
+---
+
 ## TABLE OF CONTENTS
 
-* **[Title Page & Frontispiece Icon](#typikon)**
+* **[Title Page & Frontispiece Icon](1899_dolnytsky_part3_menaion.md#typikon)**
 * **[Approbation and Imprimatur](#approbation-and-imprimatur)**
 * **[Dedication](#dedication)**
 * **[Notice](#notice)**

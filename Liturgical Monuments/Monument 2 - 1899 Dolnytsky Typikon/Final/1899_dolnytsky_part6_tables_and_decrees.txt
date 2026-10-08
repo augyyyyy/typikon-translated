@@ -315,9 +315,7 @@ Saturday of the 4th Week of the Fast . . . . . . 411
 4th Sunday of the Great Fast . . . . . . 412  
 Monday, Tuesday, Wednesday, and Friday of the 5th Week of the Fast . . . . 412  
 Thursday of the 4th Week of the Fast: The Great Canon . . . . . 412  
-Saturday of the 5th Week of the Fast: The Akathist . . . . . 416  
-
-5th Sunday of the Fast . . . . . . 420  
+Saturday of the 5th Week of the Fast: The Akathist . . . . . 416 5th Sunday of the Fast . . . . . . 420
 Monday, Tuesday, Wednesday, Thursday, and Friday of the 6th Week of the Fast . . . . 420  
 
 ##### Flowery Triodion (Pentecostarion)
@@ -356,9 +354,7 @@ Thursday of Ascension . . . . . . 494
 Sunday of the Holy Fathers . . . . . . 495  
 On Sunday Evening of the Holy Fathers . . . . . . 496  
 Apodosis of the Ascension . . . . . . 497  
-Memorial Saturday [All Souls] before the Descent [of the Holy Spirit] . . . . . . 497  
-
-Sunday of Pentecost . . . . . . 497  
+Memorial Saturday [All Souls] before the Descent [of the Holy Spirit] . . . . . . 497 Sunday of Pentecost . . . . . . 497
 Monday of the Holy Spirit . . . . . . 498  
 Apodosis of Pentecost . . . . . . 501  
 1st Sunday after Pentecost: All Saints . . . . . . 502  
@@ -387,6 +383,8 @@ Tablet of Ordinary Epistles-Gospels and Tones . . . . . 574
 Explanation of the Tablet . . . . . . 580  
 Rubric Concerning the Holy Doors and the Curtain of the Iconostasis . . . . 582  
 Table of Contents . . . . . . 583  
+
+---
 
 ### Colophon and Thanksgiving
 

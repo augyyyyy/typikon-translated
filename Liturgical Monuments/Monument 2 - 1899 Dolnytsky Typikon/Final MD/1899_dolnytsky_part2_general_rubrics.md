@@ -47,9 +47,7 @@ Now let us set forth the rubrics for each of the above-mentioned 20 cases.
 #### At Great Vespers
 
 1. Kathisma 1: **"Blessed is the man,"** according to the Typikon entire; according to our present custom, however, only certain selected verses of it are chanted, which we have set down in the Church Chant Book (*Напѣвникъ Церковный*).
-2. At **"Lord, I have cried,"** 10 Stichera: namely, of the Oktoechos Sunday ones of the current Tone 7, and of the Menaion (or Anthologion) to the Saint who is in order in the Menologion 3; then **"Glory... Now and forever..."** the first Theotokion (Dogmatikon) of the current Tone from the Oktoechos, or, as usual, from"
-
-"the Heirmologion with musical notes. If there is a Doxastikon to the Saint, then there is **"Glory..."** the Doxastikon to the Saint, then **"Now and forever..."** the 1st Theotokion of the current Tone.[^47]
+2. At **"Lord, I have cried,"** 10 Stichera: namely, of the Oktoechos Sunday ones of the current Tone 7, and of the Menaion (or Anthologion) to the Saint who is in order in the Menologion 3; then **"Glory... Now and forever..."** the first Theotokion (Dogmatikon) of the current Tone from the Oktoechos, or, as usual, from" "the Heirmologion with musical notes. If there is a Doxastikon to the Saint, then there is **"Glory..."** the Doxastikon to the Saint, then **"Now and forever..."** the 1st Theotokion of the current Tone.[^47]
 — If two Saints occur, there will be 4 Stichera of the Oktoechos, and of the Menaion to the first Saint 3, and to the second 3, then **"Glory... Now and forever..."** the 1st Theotokion of the Tone. If there is a Doxastikon to the first Saint, there will be **"Glory..."** his Doxastikon, then **"Now and forever..."** the 1st Theotokion of the Tone.[^48]
 — If a Saint on 6 occurs, there will be 6 Stichera of the Oktoechos, and of the Menaion to the Saint 4, then **"Glory..."** to the Saint, and **"Now and forever..."** the 1st Theotokion of the Tone.[^49]
 3. Great Sunday Prokimenon: **"The Lord is King."**
@@ -78,16 +76,12 @@ Trinity Canon of the Oktoechos of the current Tone, invariably as in the Oktoech
 
 1. At **"God is the Lord"**: Sunday Troparion of the current Tone twice, **"Glory..."** of the Saint, **"Now and forever..."** the Theotokion from the Sunday ones according to the Tone of the Troparion of the Saint.
 — If two Saints occur, there will be the Sunday Troparion once, and of the first Saint once, **"Glory..."** of the second once, **"Now and forever..."** the Theotokion from the Sunday ones according to the Tone of the second.[^56]
-2. Two prescribed Kathismata, each followed by the Little Litany and the Sunday Sessional Hymns in order from the Oktoechos;[^57] then Kathisma 17 (**"The Blameless"** / *Непорочни*), or Kathisma 14 (Polyeleos): the 17th, on the Sundays which are between the Apodosis"
-
-"of the Precious Cross (September 21), and the Forefeast of the Nativity of Christ (December 20); the 14th on the Sundays which are between the Apodosis of Theophany (January 14) and the First Sunday of the Great Fast.[^58] After the 17th or 14th Kathisma, immediately the Angelic Synaxis (*Ангелскiй Соборъ* / Evlogitaria), the Little Litany, and the Hypakoe of the current Tone.
+2. Two prescribed Kathismata, each followed by the Little Litany and the Sunday Sessional Hymns in order from the Oktoechos;[^57] then Kathisma 17 (**"The Blameless"** / *Непорочни*), or Kathisma 14 (Polyeleos): the 17th, on the Sundays which are between the Apodosis" "of the Precious Cross (September 21), and the Forefeast of the Nativity of Christ (December 20); the 14th on the Sundays which are between the Apodosis of Theophany (January 14) and the First Sunday of the Great Fast.[^58] After the 17th or 14th Kathisma, immediately the Angelic Synaxis (*Ангелскiй Соборъ* / Evlogitaria), the Little Litany, and the Hypakoe of the current Tone.
 2. Gradual Antiphons (*Степенна*) of the current Tone from the Oktoechos or from the Heirmologion.
 3. Sunday Prokimenon of the current Tone from the Oktoechos or from the Heirmologion.
 4. Gospel, one of the eleven Sunday Resurrection Gospels.
 5. Sunday Sticheron: **"Having seen the Resurrection of Christ,"** (*Воскресъ Iисусъ* / *Воскресенiе Христово видѣвше*).
-6. Four Canons on 14: three of the Oktoechos of the current Tone on 10, and one of the Menaion of the Saint on 4. Of the three Oktoechos Canons, the first, the Resurrectional, is taken with the Heirmos on 4; the second, the Cross-Resurrectional, without the Heirmos on 3; and the third, the Marian, likewise without the Heirmos on 3; finally the fourth from the Menaion of the Saint, without the Heirmos on 4; for the Heirmoi of the first Canon alone are taken, while the others are omitted; they are indicated only to serve as the model of chanting for the Troparia that follow them, which formerly were all chanted according to their pattern. The Katavasia after each Ode is the appointed one (the Heirmos of the first Festal Canon,[^59] for usually there are two Canons), a table of which thou hast at the end of this Typikon. After the 3rd Ode, the Kontakion and Ikos from the 6th Ode of the Saint, if he has them (for the Menaion does not always have a Kontakion and Ikos)"
-
-"and the Sessional Hymn of the Saint; after the 6th Ode, the Sunday Kontakion and Ikos; at the 8th Ode, before its Katavasia, the refrain: **"We praise, we bless, we worship the Lord..."**, which we sing to the melody of the Idiomelon refrains according to the Tone of the Katavasia. At the 9th Ode we sing **"My soul doth magnify the Lord"** with **"More honorable than the Cherubim..."** After the 9th Ode, **"Holy is the Lord our God"** thrice, in the Tone of the current Prokimenon, and the Sunday Exaposteilarion, one of the eleven, corresponding to the number of the Sunday Matins Gospel; then **"Glory..."** the Exaposteilarion of the Saint, if he has one, **"Now and forever..."** the Theotokion of the Sunday Exaposteilarion.[^60]
+6. Four Canons on 14: three of the Oktoechos of the current Tone on 10, and one of the Menaion of the Saint on 4. Of the three Oktoechos Canons, the first, the Resurrectional, is taken with the Heirmos on 4; the second, the Cross-Resurrectional, without the Heirmos on 3; and the third, the Marian, likewise without the Heirmos on 3; finally the fourth from the Menaion of the Saint, without the Heirmos on 4; for the Heirmoi of the first Canon alone are taken, while the others are omitted; they are indicated only to serve as the model of chanting for the Troparia that follow them, which formerly were all chanted according to their pattern. The Katavasia after each Ode is the appointed one (the Heirmos of the first Festal Canon,[^59] for usually there are two Canons), a table of which thou hast at the end of this Typikon. After the 3rd Ode, the Kontakion and Ikos from the 6th Ode of the Saint, if he has them (for the Menaion does not always have a Kontakion and Ikos)" "and the Sessional Hymn of the Saint; after the 6th Ode, the Sunday Kontakion and Ikos; at the 8th Ode, before its Katavasia, the refrain: **"We praise, we bless, we worship the Lord..."**, which we sing to the melody of the Idiomelon refrains according to the Tone of the Katavasia. At the 9th Ode we sing **"My soul doth magnify the Lord"** with **"More honorable than the Cherubim..."** After the 9th Ode, **"Holy is the Lord our God"** thrice, in the Tone of the current Prokimenon, and the Sunday Exaposteilarion, one of the eleven, corresponding to the number of the Sunday Matins Gospel; then **"Glory..."** the Exaposteilarion of the Saint, if he has one, **"Now and forever..."** the Theotokion of the Sunday Exaposteilarion.[^60]
 — If two Saints occur, there will be two Canons of the Oktoechos on 6: that is, the Resurrectional with the Heirmos on 4, and the Marian on 2; and two of the Menaion on 8: that is, to the first Saint on 4 and to the second on 4. The Katavasia after each Ode is the appointed one. After the 3rd Ode, the Kontakion and Ikos of the first and second Saint, if they have them; then the Sessional Hymn of the first without a Theotokion, **"Glory..."** of the second, **"Now and forever..."** his Theotokion.[^61] After the 6th Ode, the Sunday Kontakion and Ikos. After the 9th Ode, the Sunday Exaposteilarion; then, if there be in the Menaion, of the first Saint, **"Glory..."** of the second, **"Now and forever..."** the Theotokion of the Sunday Exaposteilarion.[^62]
 — If a Saint on 6 occurs, there will be the Resurrectional Canon with the Heirmos on 4, the Cross-Resurrectional on 2, the Marian on 2, and the Saint's on 6.[^63]"
 
@@ -116,18 +110,12 @@ Trinity Canon of the Oktoechos of the current Tone, invariably as in the Oktoech
 
 If the Service of one of the diverse petitions is also taken, then the Sunday Service takes precedence; and the Kontakion of the petition we cover with the Marian one of the petition, if it has one; but if not, then with the Kontakion of the petition, as of the Lord."
 
----
-
----
-
 ### Non-Polyeleos Saint on Weekdays, Except Saturday
 
 #### At Vespers
 
 1. The Kathisma of the row.[^71] On Sunday evening, on account of the labor of the Vigil that had taken place sometimes, a Kathisma is not appointed; on Feast evenings, however, to which the Typikon assigns an All-Night Vigil, the Kathisma of the row is omitted.
-2. At **"Lord, I have cried,"** six Stichera: from the Oktoechos of the Tone of the row, 3,[^72] and from the Menaion of the Saint, 3; then **"Glory... Now and forever..."** the Theotokion (or Stavrotheotokion) which is after the Stichera of the Saint. If in the Menaion there is a Doxastikon to the Saint, we chant **"Glory..."** his Doxastikon, **"Now and forever..."** the Theotokion of the Oktoechos according to the Tone of the Doxastikon,
-
-and according to the day of the week, from **"Lord, I have cried."** Such a Doxastikon, according to the rule of the Greek Typikon, is to be chanted by both Choirs joined together: *ἑνουμένων τῶν δύο χορῶν* (Chapter 5).[^73]
+2. At **"Lord, I have cried,"** six Stichera: from the Oktoechos of the Tone of the row, 3,[^72] and from the Menaion of the Saint, 3; then **"Glory... Now and forever..."** the Theotokion (or Stavrotheotokion) which is after the Stichera of the Saint. If in the Menaion there is a Doxastikon to the Saint, we chant **"Glory..."** his Doxastikon, **"Now and forever..."** the Theotokion of the Oktoechos according to the Tone of the Doxastikon, and according to the day of the week, from **"Lord, I have cried."** Such a Doxastikon, according to the rule of the Greek Typikon, is to be chanted by both Choirs joined together: *ἑνουμένων τῶν δύο χορῶν* (Chapter 5).[^73]
 — If two Saints occur, then having omitted the Stichera of the Oktoechos, we chant only of the Menaion, to the first Saint 3, and to the second 3; then **"Glory... Now and forever..."** the Theotokion (or Stavrotheotokion) which is after the Stichera of the second Saint. If there is a Doxastikon to the first Saint, we select the Theotokion for him as above for a single Saint.
 — If a Saint on 6 occurs, then having omitted the Oktoechos, we chant all 6 Stichera to the Saint alone; and to his Doxastikon we select the usual Theotokion according to the Tone of the Doxastikon and according to the day of the week.
 3. The Prokimenon of the day of the week, which is in sequence at Vespers in the Horologion.
@@ -148,9 +136,7 @@ All things without change as in the Horologion on weekdays.
 — If two Saints occur, there is the Troparion to the first Saint twice, **"Glory..."** to the second once, **"Now and forever..."** the Dismissal Theotokion according to the Tone of the second Saint.[^77]
 2. The Kathismata of the row, usually two, each of which is followed by the Little Litany and the Sessional Hymn of the Oktoechos,[^78]
 
-3. Three Canons, on 14: the first of the Oktoechos with the Heirmos on 6, the second of the Oktoechos without the Heirmos on 4, and of the Saint from the Menaion without the Heirmos on 4; for the Heirmoi are taken only of the first Canon. The Katavasia is only after the 3rd, 6th, 8th, and 9th Odes: the Heirmos of the last Canon, that is, of the Saint.[^79] After the 3rd Ode, the Sessional Hymn of the Saint; after the 6th, the Kontakion-Ikos of the Saint, if he has one; after the 9th, the Exaposteilarion of the Oktoechos, then **"Glory..."** the Exaposteilarion of the Saint, if he has one, **"Now and forever..."** the Theotokion of the Exaposteilarion of the Saint; if, however, the Saint does not have an Exaposteilarion, then **"Glory... Now and forever..."** the Theotokion of the Exaposteilarion of the Oktoechos; only on Wednesday and Friday, since the Exaposteilarion of the Saint does not have a Stavrotheotokion, but a Theotokion, the Stavrotheotokion of the Exaposteilarion of the Oktoechos is taken; likewise also on Thursday, because then the Theotokion of the Oktoechos is proper, relating to St. Nicholas, whose
-
-Service is designated for this day, the Theotokion of the Oktoechos is taken, and not of the Menaion.[^80]
+3. Three Canons, on 14: the first of the Oktoechos with the Heirmos on 6, the second of the Oktoechos without the Heirmos on 4, and of the Saint from the Menaion without the Heirmos on 4; for the Heirmoi are taken only of the first Canon. The Katavasia is only after the 3rd, 6th, 8th, and 9th Odes: the Heirmos of the last Canon, that is, of the Saint.[^79] After the 3rd Ode, the Sessional Hymn of the Saint; after the 6th, the Kontakion-Ikos of the Saint, if he has one; after the 9th, the Exaposteilarion of the Oktoechos, then **"Glory..."** the Exaposteilarion of the Saint, if he has one, **"Now and forever..."** the Theotokion of the Exaposteilarion of the Saint; if, however, the Saint does not have an Exaposteilarion, then **"Glory... Now and forever..."** the Theotokion of the Exaposteilarion of the Oktoechos; only on Wednesday and Friday, since the Exaposteilarion of the Saint does not have a Stavrotheotokion, but a Theotokion, the Stavrotheotokion of the Exaposteilarion of the Oktoechos is taken; likewise also on Thursday, because then the Theotokion of the Oktoechos is proper, relating to St. Nicholas, whose Service is designated for this day, the Theotokion of the Oktoechos is taken, and not of the Menaion.[^80]
 — If two Saints occur, there is the first Canon of the Oktoechos (for the second is omitted) with the Heirmos on 6; then the Canon of the first Saint, without the Heirmos, on 4, and of the second, without the Heirmos, on 4.[^81] The Katavasia after the 3rd, 6th, 8th, and 9th Odes: the Heirmos of the second Canon.[^82] After the 3rd Ode, the Kontakion-Ikos of the second Saint, if he has one, then the Sessional Hymn of the first Saint without a Theotokion, **"Glory..."** the Sessional Hymn of the second Saint, **"Now and forever..."** his Theotokion.[^83] After the 6th Ode, the Kontakion-Ikos of the first Saint. After the 9th Ode, the Exaposteilarion of the Oktoechos, then the Exaposteilarion of the first Saint, **"Glory..."** of the second, if he has one, **"Now and forever..."** his Theotokion.[^84]
 — If a Saint on 6 occurs, there is the first Canon of the Oktoechos with the Heirmos on 4, omitting in it the two Troparia of the Martyrs (except on Thursday, which does not have Troparia of the Martyrs), then the second of the Oktoechos on 4, and of the Menaion to the Saint on 6.[^85] All the rest in the Canon as with a single Saint on 4.
 4. The Aposticha entirely of the Oktoechos, only if there is a Doxastikon in the Menaion to the Saint, then at **"Now and forever..."** there is taken the Theotokion from the Morning Aposticha according to the Tone of the Doxastikon and according to the day of the week.
@@ -200,9 +186,7 @@ On the first five weekdays the Service of the Oktoechos precedes the Service of 
 3. The Prokimenon of the day from the Horologion.
 4. At the Aposticha: three Stichera of the Martyrs from the Oktoechos, with the two usual refrains of the Horologion. Nevertheless, since between the Stichera appointed at the Aposticha the 2nd and 3rd (in Tones 4 and 6 only the 3rd) are for the Departed, which today we restrict to All Souls' Saturdays, for this reason these Stichera for the Departed are omitted here, and in their stead are taken the Stichera of the Martyrs from the last ones that are at **"Lord, I have cried."**[^101] If there is a Doxastikon to the Saint in the Menaion, the Theotokion is taken from the Evening Aposticha of the Oktoechos, according to his Tone and according to the day of the week.
 5. At the conclusion: the Troparion of the Saint; **"Glory... Now and forever..."** the Theotokion from the Sunday ones according to the Tone of the Troparion of the Saint.[^102]
-— If two Saints occur, there is the Tro-
-
-parion of the first Saint, **"Glory..."** of the second, **"Now and forever..."** the Theotokion from the Sunday ones according to the Tone of the second.
+— If two Saints occur, there is the Tro- parion of the first Saint, **"Glory..."** of the second, **"Now and forever..."** the Theotokion from the Sunday ones according to the Tone of the second.
 6. The Dismissal, according to our custom, the Great Dismissal on account of the Apodosis of the Tone, with the commemoration of the daily Service and of the Saint.[^103]
 
 #### At Compline
@@ -214,14 +198,10 @@ parion of the first Saint, **"Glory..."** of the second, **"Now and forever..."*
 #### At Matins
 1. At **"God is the Lord,"** the Troparion of the Saint twice; **"Glory... Now and forever..."** the Theotokion from the Sunday ones according to the Tone of the Troparion of the Saint.[^105]
 — If two Saints occur, there is the Troparion of the first Saint twice, **"Glory..."** of the second, **"Now and forever..."** the Theotokion from the Sunday ones according to the Tone of the second.
-2. Two Kathismata of the row, followed by the Little Litany and Sessional Hymns, of which the two of the Martyrs
-
-and two of the Departed, according to some editions do not have refrains, but according to some have them, namely: 1st of the Martyrs: **"Wondrous is God,"** 2nd: **"Many are the afflictions;"** 1st of the Departed: **"Blessed are they whom Thou hast chosen,"** 2nd: **"Their souls shall dwell among good things."**
+2. Two Kathismata of the row, followed by the Little Litany and Sessional Hymns, of which the two of the Martyrs and two of the Departed, according to some editions do not have refrains, but according to some have them, namely: 1st of the Martyrs: **"Wondrous is God,"** 2nd: **"Many are the afflictions;"** 1st of the Departed: **"Blessed are they whom Thou hast chosen,"** 2nd: **"Their souls shall dwell among good things."**
 3. Three Canons, on 14: of the Temple, if it is of the Lord or of the Mother of God, with the Heirmos on 6, the Heirmoi twice, and the Troparia on 4;[^106] then of the Saint, which is in sequence in the Menaion, on 4, and the first of the Oktoechos, that is, of the Martyrs,[^107] on 4 (for the second Canon of the Oktoechos is omitted, and is taken only on All Souls' Saturdays).[^108]
 If, however, the Temple is of a Saint, then the first Canon is of the Saint of the row in the Menaion with the Heirmos on 6, the second of the Saint of the Temple on 4, and the third of the Oktoechos of the Martyrs on 4.[^109] The Katavasia after the 3rd, 6th, 8th, and 9th Odes: the Heirmos of the last Canon, that is, of the Oktoechos. After the 3rd Ode, the Sessional Hymn of the Saint; after the 6th, the Kontakion and Ikos of the Saint; after the 9th, the Exaposteilarion of the Saint, **"Glory..."** the Exaposteilarion of the Oktoechos, **"Now and forever..."** its Theotokion.
-— If two Saints occur, there is the Canon of the Temple of the Lord or of the Mother of God on 6, and of the Saint
-
-first on 4, then of the second on 4. If, however, it is a Temple of a Saint, then that of the Temple is omitted, and the Canon of the first Saint is taken on 6, and of the second on 4, then of the Oktoechos of the Martyrs on 4. After the 3rd, 6th, 8th, and 9th Odes, the Katavasia is the Heirmos of the Canon of the Oktoechos. After the 3rd Ode, the Kontakion-Ikos of the second Saint, if he has one, then the Sessional Hymn of the first, **"Glory..."** of the second, **"Now and forever..."** his Theotokion. After the 6th Ode, the Kontakion-Ikos of the first Saint. After the 9th Ode, the Exaposteilarion of the first Saint, **"Glory..."** of the second, **"Now and forever..."** his Theotokion.
+— If two Saints occur, there is the Canon of the Temple of the Lord or of the Mother of God on 6, and of the Saint first on 4, then of the second on 4. If, however, it is a Temple of a Saint, then that of the Temple is omitted, and the Canon of the first Saint is taken on 6, and of the second on 4, then of the Oktoechos of the Martyrs on 4. After the 3rd, 6th, 8th, and 9th Odes, the Katavasia is the Heirmos of the Canon of the Oktoechos. After the 3rd Ode, the Kontakion-Ikos of the second Saint, if he has one, then the Sessional Hymn of the first, **"Glory..."** of the second, **"Now and forever..."** his Theotokion. After the 6th Ode, the Kontakion-Ikos of the first Saint. After the 9th Ode, the Exaposteilarion of the first Saint, **"Glory..."** of the second, **"Now and forever..."** his Theotokion.
 — If a Saint on 6 occurs, there is the Canon of the Temple of the Lord or of the Mother of God with the Heirmos on 4, then of the Saint on 6, and the first of the Oktoechos on 4. If, however, it is a Temple of a Saint, there is first the Canon of the Saint with the Heirmos on 6, then of the Saint of the Temple on 4, and of the Oktoechos of the Martyrs on 4.[^110]
 4. The Small Doxology; but to a Saint on 6 it is sometimes the Great.
 5. At the Aposticha: three Stichera of the Martyrs, written at the Praises,[^111] with the two usual refrains of the Horologion.[^112] **"Glory... Now and forever..."** the Theotokion from the Praises (for that which is appointed at the Aposticha is for the Departed). If there is a Doxastikon to the Saint, the Theotokion is selected for him from the Praises of the Oktoechos, according to the Tone of the Doxastikon. The Stichera of the Aposticha, however, since they are for the Departed, are taken only on All Souls' Saturdays; for then Stichera are taken both at the Praises and at the Aposticha.
@@ -263,10 +243,7 @@ The Triadikon Canon of the Oktoechos of the Tone of the row.
 
 2. The first two Kathismata of the row with their usual Sunday Sessional Hymns of the Oktoechos; then the Polyeleos with the Magnifications of the Saint, and the Angelic Synaxis (*Ангелскїй Соборъ*); thereafter the Little Litany with the exclamation: **"For blessed is Thy name,"** and the Hypakoe of the Tone; then the 1st and 2nd Sessional Hymns of the Saint once each without Theotokia, **"Glory..."** the 3rd Sessional Hymn of the Saint, **"Now and forever..."** his Theotokion[^123] (Chapter 75 of Mark takes the 1st Theotokion of the Tone).
 3. The Graduals (*Степенна*) of the Tone of the row, and the rest even unto the Canon, all Sunday.
-4. Three Canons, on 14: If the Saint is celebrated on 8, there is the Resurrectional Canon of the Oktoechos with the Heirmos on 4, of the Mother of God[^124] on 2, and to the Saint on 8;[^125] if, however, he is celebrated on 6, there is the Resurrectional Canon with the Heirmos on 4, of the Mother of God on 4, and to the Saint on 6;[^126] for the Cross-Resurrectional Canon in both cases is omitted.[^127] ---
-
----
-
+4. Three Canons, on 14: If the Saint is celebrated on 8, there is the Resurrectional Canon of the Oktoechos with the Heirmos on 4, of the Mother of God[^124] on 2, and to the Saint on 8;[^125] if, however, he is celebrated on 6, there is the Resurrectional Canon with the Heirmos on 4, of the Mother of God on 4, and to the Saint on 6;[^126] for the Cross-Resurrectional Canon in both cases is omitted.[^127]
 
 The Katavasia of the row after each Ode. — After the 3rd Ode, the Kontakion-Ikos and Sessional Hymn of the Saint; after the 6th, the Resurrectional Kontakion-Ikos; after the 9th, the Resurrectional Exaposteilarion, **"Glory..."** the Exaposteilarion of the Saint, **"Now and forever..."** the Theotokion of the Resurrectional Exaposteilarion.[^128]
 5. At the Praises (*Хвали́техъ*), 8 Stichera: the Resurrectional ones of the Oktoechos of the Tone of the row, 4; and of the Saint with the Doxastikon, 4, with his two refrains[^129] appointed at the Aposticha of Vespers. **"Glory..."** the Gospel Sticheron of the row, **"Now and forever..." "Most blessed art thou"** (*Преблагослове́нна есѝ*).
@@ -287,9 +264,7 @@ At all the Hours, the Resurrectional Troparion, then **"Glory..."** to the Saint
 #### At Great Vespers
 1. The Kathisma: **"Blessed is the man"** (according to the Typikon, the 1st Antiphon only).
 2. At **"Lord, I have cried,"** six Stichera,[^131] or eight,[^132] all to the Saint. **"Glory..."** to the Saint, **"Now and forever..."** the 1st Theotokion (the Dogmatikon according to the Tone of the Doxastikon; on Friday evening, the 1st Theotokion of the current Tone, on account of its Apodosis). The Prokimenon of the day from the Horologion; and three Readings to the Saint.
-3. The Aposticha entirely to the Saint, with proper refrains. To the Doxastikon of the Saint there is selected the Theotokion
-
-from the Sunday Aposticha according to the Tone of the Doxastikon.[^133]
+3. The Aposticha entirely to the Saint, with proper refrains. To the Doxastikon of the Saint there is selected the Theotokion from the Sunday Aposticha according to the Tone of the Doxastikon.[^133]
 4. At the conclusion: the Troparion of the Saint; **"Glory... Now and forever..."** the Theotokion from the Sunday ones according to the Tone of the Troparion of the Saint.[^134]
 5. The Great Dismissal, with the commemoration of the Service of the Saint alone, but of the day in no wise, because in this case the Oktoechos Service is omitted.
 
@@ -371,9 +346,7 @@ Three Feasts, that is, the Nativity and the Beheading of St. John the Baptist, J
 
 #### At Great Vespers
 1. **"Blessed is the man"** (according to the Typikon, all three Antiphons).
-2. At **"Lord, I have cried,"** 10 Stichera: that is, from the Oktoechos of the Tone of the row, 4; of the Forefeast, 3; and to the Saint, 3. **"Glory..."** of the Forefeast; **"Now and forever..."** the 1st Theotokion of the Tone. If there be a Doxastikon to the Saint, then having omitted the Doxastikon
-
-of the Forefeast, there is taken: **"Glory..."** the Doxastikon to the Saint; **"Now and forever..."** the 1st Theotokion of the Tone.[^159]
+2. At **"Lord, I have cried,"** 10 Stichera: that is, from the Oktoechos of the Tone of the row, 4; of the Forefeast, 3; and to the Saint, 3. **"Glory..."** of the Forefeast; **"Now and forever..."** the 1st Theotokion of the Tone. If there be a Doxastikon to the Saint, then having omitted the Doxastikon of the Forefeast, there is taken: **"Glory..."** the Doxastikon to the Saint; **"Now and forever..."** the 1st Theotokion of the Tone.[^159]
 — If there be a Saint on 6, then there will be: Resurrectional, 3; of the Forefeast, 3; and to the Saint, 4; **"Glory..."** to the Saint; **"Now and forever..."** the 1st Theotokion of the Tone.[^160]
 3. At the Aposticha: the Sunday Stichera; **"Glory... Now and forever..."** of the Forefeast. If there be a Doxastikon to the Saint, then after it at **"Now and forever..."** there is taken of the Forefeast.
 4. At the conclusion: the Sunday Troparion; **"Glory..."** of the Saint; **"Now and forever..."** of the Forefeast.
@@ -474,9 +447,7 @@ At **"Lord, I have cried,"** Stichera of the Feast on 4, and the Aposticha of th
 At all the Hours, the Troparion and Kontakion of the Feast. The Dismissal with the Festal commemoration.
 
 #### At the Divine Liturgy
-The Antiphons, the Introit (*Вхо́дное*), and all the rest to the Feast.[^183] — Instead of the Trisagion: at the Precious Cross, and on the Sunday of the Cross-
-
-veneration we chant: **"Before Thy Cross we bow down, O Master, and Thy holy Resurrection we glorify"** (*Крестꙋ̀ Твоему̀ покланя́емся, Влады́ко, и̂ свято́е Воскресе́нїе Твоѐ сла́вимъ*); at the Nativity of Christ, at Theophany, on Lazarus Saturday, on Great Saturday, and throughout Bright Week, and on the Sunday of Pentecost: **"As many as have been baptized into Christ have put on Christ. Alleluia"** (*Є̂ли́ци во Хрїста̀ крести́стеся, во Хрїста̀ ѡ̂блеко́стеся. А̂ллилꙋ́їа*).[^184] In place of **"It is truly right,"** according to our later Typikon there is taken the Heirmos of the 9th Ode of the Canon, with the Festal Refrain (*Припѣ́въ*).
+The Antiphons, the Introit (*Вхо́дное*), and all the rest to the Feast.[^183] — Instead of the Trisagion: at the Precious Cross, and on the Sunday of the Cross- veneration we chant: **"Before Thy Cross we bow down, O Master, and Thy holy Resurrection we glorify"** (*Крестꙋ̀ Твоему̀ покланя́емся, Влады́ко, и̂ свято́е Воскресе́нїе Твоѐ сла́вимъ*); at the Nativity of Christ, at Theophany, on Lazarus Saturday, on Great Saturday, and throughout Bright Week, and on the Sunday of Pentecost: **"As many as have been baptized into Christ have put on Christ. Alleluia"** (*Є̂ли́ци во Хрїста̀ крести́стеся, во Хрїста̀ ѡ̂блеко́стеся. А̂ллилꙋ́їа*).[^184] In place of **"It is truly right,"** according to our later Typikon there is taken the Heirmos of the 9th Ode of the Canon, with the Festal Refrain (*Припѣ́въ*).
 
 ### Feast of the Mother of God on Sunday
 
@@ -484,10 +455,7 @@ veneration we chant: **"Before Thy Cross we bow down, O Master, and Thy holy Res
 
 #### At Small Vespers
 At **"Lord, I have cried,"** four Resurrectional Stichera of the Tone of the row; **"Glory... Now and forever..."** of the Feast.
-At the Aposticha: one Sunday Sticheron of the Tone of the row, which is in the first place, then three Stichera of the Feast from the Aposticha of Great Vespers with their refrains;[^185] **"Glory... Now and forever..."** of the Feast from Small Vespers.[^186] ---
-
----
-
+At the Aposticha: one Sunday Sticheron of the Tone of the row, which is in the first place, then three Stichera of the Feast from the Aposticha of Great Vespers with their refrains;[^185] **"Glory... Now and forever..."** of the Feast from Small Vespers.[^186]
 
 At the conclusion: the Resurrectional Troparion; **"Glory... Now and forever..."** of the Feast.
 The Small Dismissal, with the commemoration of the Resurrection and of the Feast.
@@ -503,9 +471,7 @@ The Small Dismissal, with the commemoration of the Resurrection and of the Feast
 
 #### At Great Matins
 1. At **"God is the Lord"**: the Resurrectional Troparion twice; **"Glory... Now and forever..."** of the Feast.
-2. The two Kathismata of the row with their Resurrectional Sessional Hymns, and with their Theotokia; then the Polyeleos with the Magnifications, and the Angelic Synaxis, and after the Hypakoe of the Tone, all
-
-three Sessional Hymns of the Feast: that is, the 1st Sessional Hymn once, the 2nd Sessional Hymn once; then **"Glory... Now and forever..."** the 3rd Sessional Hymn once; if, however, this one be twofold, then there will be **"Glory..."** one, **"Now and forever..."** the other.[^188]
+2. The two Kathismata of the row with their Resurrectional Sessional Hymns, and with their Theotokia; then the Polyeleos with the Magnifications, and the Angelic Synaxis, and after the Hypakoe of the Tone, all three Sessional Hymns of the Feast: that is, the 1st Sessional Hymn once, the 2nd Sessional Hymn once; then **"Glory... Now and forever..."** the 3rd Sessional Hymn once; if, however, this one be twofold, then there will be **"Glory..."** one, **"Now and forever..."** the other.[^188]
 3. The Graduals (*Степенна*) of the Tone of the row, and afterwards **"Having beheld the Resurrection of Christ"** (*Воскресе́нїе Хрїсто́во*); all the rest even unto the Canon to the Feast.[^189]
 4. Three Canons, on 14: that is, the Resurrectional one from the Oktoechos with the Heirmos on 4, and the Marian one from the Oktoechos without the Heirmos on 2, and both Canons of the Feast without the Heirmos on 8; if, however, there be only one Canon to the Feast, then that one alone is taken on 8.[^190] The Katavasia of the row after each Ode. After the 3rd Ode, the Resurrectional Kontakion-Ikos, and the Sessional Hymn of the Feast (at the Dormition of the Most Holy Mother of God, in place of the Sessional Hymn, the Hypakoe of the Feast); after the 6th, the Kontakion-Ikos of the Feast; after the 9th, the Resurrectional Exaposteilarion, one of the 11 of the row, then **"Glory... Now and forever..."** of the Feast; at the 9th Ode, **"More honorable"** (*Честнѣ́йшꙋю*); the Festal Refrains, however, according to the Typikon are omitted; nevertheless we consider that, at least for the Troparia of the Festal Canon, the Festal Refrains are more suitable than the common refrain: **"Most Holy Theotokos, save us."**[^191]
 
@@ -587,9 +553,7 @@ All things unchangingly, as in the Horologion.
 — If there be two Saints, then the Troparion of the Feast once, and to the first Saint once; **"Glory..."** to the second, **"Now and forever..."** again of the Feast.
 2. The two Kathismata of the row with the Festal Sessional Hymns.
 3. Two Canons, on 12: that is, of the Feast with the Heirmos on 8, and to the Saint on 4. The Katavasia after the 3rd, 6th, 8th, and 9th Odes: the Heirmos of the last Canon, that is, of the Saint. After the 3rd Ode, the Kontakion-Ikos and Sessional Hymn of the Saint; after the 6th, the Kontakion-Ikos of the Feast; after the 9th, the Exaposteilarion of the Saint twice, **"Glory... Now and forever..."** of the Feast.[^206]
-— If there be two Saints, then three Canons on 14: that is, the Canon of the Feast with the Heirmos on 6, and to the first Saint on 4, and to the second on 4. The Katavasia after the 3rd, 6th, 8th, and 9th Odes: the Heirmos of the last Canon, that is, of the second Saint. After the 3rd Ode, the Kontakion and Ikos
-
-of the first and second Saint, then the Sessional Hymn of the first Saint, **"Glory..."** of the second, **"Now and forever..."** of the Feast; after the 6th, the Kontakion and Ikos of the Feast; after the 9th, the Exaposteilarion of the first Saint, **"Glory..."** of the second, **"Now and forever..."** of the Feast.
+— If there be two Saints, then three Canons on 14: that is, the Canon of the Feast with the Heirmos on 6, and to the first Saint on 4, and to the second on 4. The Katavasia after the 3rd, 6th, 8th, and 9th Odes: the Heirmos of the last Canon, that is, of the second Saint. After the 3rd Ode, the Kontakion and Ikos of the first and second Saint, then the Sessional Hymn of the first Saint, **"Glory..."** of the second, **"Now and forever..."** of the Feast; after the 6th, the Kontakion and Ikos of the Feast; after the 9th, the Exaposteilarion of the first Saint, **"Glory..."** of the second, **"Now and forever..."** of the Feast.
 — If it be a sixfold Saint, then the Canon of the Feast with the Heirmos on 6, and to the Saint on 6,[^207] the rest as above with a single Saint.
 4. At the Aposticha, the Stichera of the Feast; **"Glory..."** to the Saint, if there be one, **"Now and forever..."** of the Feast; if not, then **"Glory... Now and forever..."** of the Feast.
 — If it be a sixfold Saint having Stichera at the Praises with the Small Doxology, then those are taken on 4, and his **"Glory..."**, and **"Now and forever..."** of the Feast. After the Ektenia **"Let us complete"** there will also be at the Aposticha the Stichera of the Feast, **"Glory..."** to the Saint, **"Now and forever..."** of the Feast.[^208] If, however, such a Saint has also the Great Doxology, then at the Praises are taken 3 Stichera to the Feast, and 3 to the Saint; **"Glory..."** to him, and **"Now and forever..."** of the Feast; and after the Doxology with the Trisagion, his Troparion, **"Glory... Now and forever..."** of the Feast, and all the rest as at Great Matins.
@@ -663,9 +627,7 @@ All things as usual.
 1. At **"God is the Lord"**: the Troparion of the Feast twice; **"Glory..."** to the Saint, **"Now and forever..."** again of the Feast once.
 2. The two Kathismata of the row with the Sessional Hymns of the Saint; **"Glory... Now and forever..."** of the Feast. Sometimes these two Sessional Hymns will be of the Feast alone (January 11 and May 6).[^221] The third Kathisma is the Polyeleos with the Magnifications; then the Sessional Hymn of the Saint, **"Glory... Now and forever..."** of the Feast.
 3. The Graduals (*Степенна*) of Tone 4, the 1st Antiphon. All the rest even unto the Canon to the Saint.
-4. Two or three Canons, on 14: that is, of the Feast with the Heirmos on 6; then two Canons or one Canon to the Saint on 8.[^222] — The Katavasia of the row after each Ode. After the 3rd Ode, the Kontakion and Ikos of the Feast, and the Sessional Hymn
-
-of the Saint twice; **"Glory... Now and forever..."** the Sessional Hymn of the Feast; after the 6th, the Kontakion and Ikos of the Saint; after the 9th, the Exaposteilarion of the Saint twice; **"Glory... Now and forever..."** the Exaposteilarion of the Feast.
+4. Two or three Canons, on 14: that is, of the Feast with the Heirmos on 6; then two Canons or one Canon to the Saint on 8.[^222] — The Katavasia of the row after each Ode. After the 3rd Ode, the Kontakion and Ikos of the Feast, and the Sessional Hymn of the Saint twice; **"Glory... Now and forever..."** the Sessional Hymn of the Feast; after the 6th, the Kontakion and Ikos of the Saint; after the 9th, the Exaposteilarion of the Saint twice; **"Glory... Now and forever..."** the Exaposteilarion of the Feast.
 5. At the Praises (*Хвали́техъ*), sometimes 4 Stichera, all to the Saint;[^223] and sometimes 6: that is, 3 of the Feast and 3 to the Saint;[^224] **"Glory..."** to the Saint, **"Now and forever..."** of the Feast.
 6. After the Great Doxology, the Troparion to the Saint; **"Glory... Now and forever..."** of the Feast.
 7. The Great Dismissal, with the commemoration of the Feast and of the Saint.
@@ -706,9 +668,7 @@ All things according to the Common Order of a Polyeleos Saint with an Afterfeast
 ### Apodosis of a Feast on Sunday
 
 #### Note
-1. The Service of the Saint of the row coinciding on the Apodosis of a Feast is transferred to the day immediately preceding,[^229] or following,[^230]
-
-sometimes to another day, which if it be not occupied by two Saints, or by a single celebrated Saint with a Polyeleos; and sometimes it is restricted to the Canon at Compline, after the Marian Canon.
+1. The Service of the Saint of the row coinciding on the Apodosis of a Feast is transferred to the day immediately preceding,[^229] or following,[^230] sometimes to another day, which if it be not occupied by two Saints, or by a single celebrated Saint with a Polyeleos; and sometimes it is restricted to the Canon at Compline, after the Marian Canon.
 2. The Festal Service at an Apodosis, from Vespers even unto the Canon of Matins, has only the weekday form; from the Canon, however, unto the end of Matins, the greater form. If the Apodosis coincides on a Sunday, then Vespers and Matins are great, on account of the Resurrectional Service.
 
 #### At Great Vespers
@@ -723,12 +683,7 @@ sometimes to another day, which if it be not occupied by two Saints, or by a sin
 The Canon of the Mother of God which is in the row of the Oktoechos. After **"It is truly right,"** the single Kontakion of the Feast.[^232]
 
 #### At the Midnight Office
-The Triadic Canon of the Oktoechos as usual. On the Apodosis of Mid-Pentecost and of Pascha, after the 1st Trisagion, the Troparion ---
-
----
-
-
-of the Feast; after the 2nd, the Kontakion of the Feast; the prayers of "Remember, [Lord]" (*Помянѝ*) are not said.
+The Triadic Canon of the Oktoechos as usual. On the Apodosis of Mid-Pentecost and of Pascha, after the 1st Trisagion, the Troparion of the Feast; after the 2nd, the Kontakion of the Feast; the prayers of "Remember, [Lord]" (*Помянѝ*) are not said.
 
 #### At Great Matins
 1. At **"God is the Lord"**: the Resurrectional Troparion twice; **"Glory... Now and forever..."** of the Feast.
@@ -768,7 +723,7 @@ All things without change, even as in the Horologion; only on the Apodosis of Mi
 #### At Matins
 1. At **"God is the Lord"**: the Troparion of the Feast twice; **"Glory... Now and forever..."** again once.
 2. The two Kathismata of the row with the Festal Sessional Hymns, and immediately Psalm 50, and the Canon.
-3. The Canon and all the rest even unto the end of Matins without change, even as on the Feast itself; therefore neither is **"More honorable"** (*Честнѣ́йшꙋю*) sung at the 9th Ode, but the Festal Refrains.
+3. The Canon and all the rest even unto the end of Matins without change, even as on the Feast itself; wherefore neither is **"More honorable"** (*Честнѣ́йшꙋю*) sung at the 9th Ode, but the Festal Refrains.
 4. The Great Dismissal, with the commemoration of the Feast and of the Saint.
 
 #### At the Hours

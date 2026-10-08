@@ -4,107 +4,17 @@
 
 **1.** That the fast is to be held in the highest esteem, we know not only from the prescription of God Himself frequently commanded unto His people, and the example of Moses [^251] and of the people of Israel [^252], but also from this: that by the example of our Lord Jesus Christ through forty days in the wilderness, it was sanctified, and thereafter from Apostolic times down to our own hath been preserved.
 
-**2.** Yet besides the greatest and most holy fast of the Great Forty Days [Holy Lent], which begins from the Monday after Cheesefare Sunday and concludes with the Friday before Palm Sunday (in such manner, however, that according unto the present custom of the people, Saturdays and Sundays also are observed as fast days), there are also prescribed in our liturgical books other fasts, and that the following:
+**2.** Yet besides the greatest and most holy fast of the Great Forty Days [Holy Lent], which beginneth from the Monday after Cheesefare Sunday and concludeth with the Friday before Palm Sunday (in such manner, however, that according unto the present custom of the people, Saturdays and Sundays also are observed as fast days), there are also prescribed in our liturgical books other fasts, and that the following:
 
 1. The six days between Palm Sunday and Pascha [Holy Week]; in such manner, however, that the preceding Palm Sunday and Lazarus Saturday also, according unto the custom of the people, are regarded as fast days.
 2. The Forty Days Fast, that is, forty days before the Nativity of the Lord [St. Philip's Fast / Pylypivka].
-3. The Fast before the feast of the Supreme Apostles Peter and Paul [Apostles Fast / Petrivka], which begins with Monday after the Sunday of All Saints, or the first after Pentecost, and concludes with the eve of the feast itself.
-
- St. Bernard of Clairvaux, *Sermo in Nativitate B.V. Mariae de Aquaeductu* (Homily on the Nativity of the Blessed Virgin Mary, "On the Aqueduct"), no. 3: "Totum nos habere voluit per Mariam" ("He willed that we should have all things through Mary"). Book p. 217 .
-
-[^208]: St. Thomas Aquinas, *Expositio Salutationis Angelicae* (Opusculum 8), a. 1: "Tantum habet de gratia, quod sufficit ad salutem totius mundi" ("She hath so much of grace that it suffices unto the salvation of the whole world"). Book p. 217 .
-
-[^209]: St. Augustine, *Enarrationes in Psalmos*, Ps. 118 [Ps. 119 MT], Sermo 9. Book p. 219 .
-
-[^210]: Pope St. Gregory the Great, *Registrum Epistolarum*, Book I, Epist. 24: on the sublime pastoral responsibility and dignity of the sacred priesthood. Book p. 219 .
-
-[^211]: Wisdom of Sirach (Ecclesiasticus) 45:7, 8, 17, 20, 21 (Septuagint versification: *Сір. 45:7–21 LXX*): the glorification, sacred vestments, and perpetual priesthood of Aaron. Book p. 219 .
-
-[^212]: Wisdom of Sirach 45:17 [cited according to the verse divisions of Codex Vaticanus as v. 70]: "He gave unto him His commandments, and authority in the covenants of judgments, to teach Jacob the testimonies, and to enlighten Israel in His law." Book p. 219 .
-
-[^213]: St. John Chrysostom, *Homily 10 on the Epistle to the Hebrews*, no. 3 (PG 63:83–90): on the bloodless Sacrifice of the New Covenant and the Holy Spirit descending to consecrate the Holy Gifts upon the altar. Book p. 219 .
-
-[^214]: Malachi 1:10–11: "I have no pleasure in you, saith the Lord Almighty, neither will I accept a sacrifice at your hands; for from the rising of the sun even unto the going down thereof My name is glorified among the Gentiles; and in every place incense is offered unto My name, and a pure sacrifice: for My name is great among the Gentiles, saith the Lord Almighty." Book p. 219 .
-
-[^215]: St. Augustine, *Sermo de Verbis Evangelii*, citing the patristic exclamation on the priestly dignity: "O veneranda sacerdotum dignitas, in quorum manibus Dei Filius velut in utero Virginis incarnatur!" and *Enarratio in Psalmum 26 [Ps. 27 MT]*: "O veneranda sanctitas manuum! O felix exercitium! Qui creavit me, dedit mihi creare se; et qui creavit me sine me, creat se per me." Book p. 220 .
-
-[^216]: In St. Alphonsus Maria de Liguori, *Selva di materia predicabile per gli esercizi agli ecclesiastici* (The Forest of Preachable Material for Clergy Retreats), Part I, cap. 1, no. 15, citing St. Augustine (*Tractatus in Joannem* 72): "Majus est opus ex impio justum facere, quam creare caelum et terram" ("It is a greater work to make a righteous man out of an ungodly man than to create heaven and earth"). Book p. 220 .
-
-[^217]: Jan Ignacy Kulczyński, O.S.B.M., *Specimen Ecclesiae Ruthenicae*, Nazianz Msc. Exercit. p. 210: citing the address of Cyril III, Metropolitan of Kyiv (1243–1280), at his Council (Synod of Kyiv, 1273/1274), calling priests "earthly angels and heavenly men" who stand with the Cherubim and Seraphim, summon the Holy Spirit, transform the bread and wine, and bind and loose upon earth and in heaven. Book p. 220 .
-
-[^218]: St. Augustine, *Enarrationes in Psalmos*, Ps. 29 [Ps. 30 MT], and Isaiah 61:10 [printed cited as Isa. 40:10]: on the bridal and priestly vesture of Christ and the Church. Book p. 221 .
-
-[^219]: Isaiah 61:10 (Septuagint versification according to Codex Vaticanus: *Ис. 61:10 LXX*): "Let my soul rejoice in the Lord: for He hath clothed me with the garment of salvation, and the robe of gladness; as a bridegroom He hath put a crown on me, and as a bride He hath adorned me with ornaments." Prescribed in the Ruthenian *Sluzhebnik* at the vesting of the priest with the sticharion (*stikhar*). Book p. 221 .
-
-[^220]: St. Thomas Aquinas, *Summa Theologiae*, I-II, q. 102, a. 5, ad 10 in fine: the allegorical and moral exposition of the eight vestments of the High Priest Aaron (the linen breeches for chastity, linen tunic for purity, girdle for moderation, mitre/tiara for rectitude of intention, golden plate on the forehead for continual remembrance of God, ephod for bearing the infirmities of the people, breastplate for fervent pastoral love, hyacinth-blue tunic for heavenly conversation, golden bells for divine doctrine, and pomegranates for unity of faith and concord in morals). Book p. 221 .
-
-[^221]: St. Jerome, *Epistola 64 (ad Fabiolam)* [printed cited as Epist. 128], no. 19: on the mystical signification of the priestly vestments, requiring that the doctrine, demeanor, gestures, and deeds of the High Priest be a perpetual sermon to the people. Book p. 222 .
-
-[^222]: Pope St. Leo the Great, *Epistola 4 (ad Episcopos per Campaniam)*; codified in Gratian's *Decretum*, Distinctio 32, c. 1 *Omnium*: "Quod enim in aliis fidelibus liberum est a culpa, in his tamen illicitum judicatur" ("For that which in other faithful is free from blame, in them is nevertheless judged unlawful"). Book p. 222 .
-
-[^223]: Council of Trent, Session XXII (September 17, 1562), *Decretum de Reformatione*, Chapter 1: "Nihil est quod alios magis ad pietatem et Dei cultum assidue instruat, quam eorum vita et exemplum, qui se divino ministerio dedicarunt" ("There is nothing that doth more continually instruct others unto piety and the worship of God than the life and example of those who have dedicated themselves unto the divine ministry"). Book p. 222 .
-
-[^224]: 1 Timothy 3:5: "For if a man know not how to rule his own house, how shall he take care of the church of God?" (*Аще кто своего дому не умѣетъ правити, како о церкви Божіей прилѣжати возможетъ?* / *Si quis autem domui suae praeesse nescit, quomodo ecclesiae Dei diligentiam habebit?*). Book p. 224 .
-
-[^225]: 2 Timothy 2:4: "No man that wars entangles himself with the affairs of this life; that he may please him who hath chosen him to be a soldier" (*Никтоже бо, воинъ бывая, обязуется куплями житейскими, да воєводѣ угоденъ будетъ* / *Nemo militans Deo implicat se negotiis saecularibus: ut ei placeat, cui se probavit*). Book p. 225 .
-
-[^226]: St. Ambrose of Milan, *Expositio Evangelii secundum Lucam*, Lib. I (on Luke 1 / Isaiah 1): reminding priests that their commission from Christ is to seek and win souls, not earthly gain. Book p. 226 .
-
-[^227]: 1 Timothy 6:8: "And having food and raiment let us be therewith content" (*Имѣюще же пищу и одѣяніе, сими довольни будемъ* / *Habentes autem alimenta, et quibus tegamur, his contenti simus*). Book p. 226 .
-
-[^228]: 1 Corinthians 9:27: "But I keep under my body, and bring it into subjection: lest that by any means, when I have preached to others, I myself should be a castaway" (*Но умерщвляю тѣло моє и порабощаю, да не како, инымъ проповѣдуя, самъ неключимъ буду* / *Sed castigo corpus meum, et in servitudinem redigo: ne forte cum aliis praedicaverim, ipse reprobus efficiar*). Book p. 226 .
-
-[^229]: Job 14:19 (Septuagint versification: *Іов. 14:19 LXX*): "The waters wear the stones; and thou washest away the things which grow out of the dust of the earth" (*Каменія изгладиша воды, и потопиша воды возвишенія персти земныя* / *Lapides excavant aquae, et alluvione paulatim terra consumitur*), cited in the warning of St. Isidore of Pelusium to Bishop Palladius. Book p. 226 .
-
-[^230]: St. Isidore of Pelusium, *Epistolae*, Book II, Epist. 284 (ad Palladium Episcopum): warning on the perilous snare of familiarity and frequent conversation with women, and how continuous custom wears down even rock and stubborn human nature. Book p. 227 .
-
-[^231]: St. John Chrysostom, *Homily 19 on the Epistle to the Romans*, no. 4: on meekness, patience, and gentle charity as the supreme virtue conforming the Christian minister to God. Book p. 227 .
-
-[^232]: St. Thomas Aquinas, *Summa Theologiae*, II-II, q. 158, a. 1, ad 3: "Irasci secundum rationem rectam laudabile est" ("To be angry according unto right reason is praiseworthy"). Book p. 227 .
-
-[^233]: Pope St. Gregory the Great, *Moralia in Job*, Book XX, cap. 8: "Sit amor, sed non emolliens; sit rigor, sed non exasperans; sit zelus, sed non immoderate saeviens; sit pietas, sed non plus quam expedit indulgens" ("Let there be love, but not enervating; let there be mercy, but not indulging more than is expedient"). Book p. 227 .
-
-[^234]: Proverbs 21:28 (Septuagint: *Притч. 21:28 LXX*): "A false witness shall perish: but an obedient man shall speak being kept [unto victory]" (*Мужъ послушливъ сохраняемъ возглаголетъ* / *Vir obediens loquetur victorias*); citing the diocesan pastoral constitution: *Instructio Pastoralis Eystettensis* (Pastoral Instruction of the Bishop of Eichstätt), Titulus XIII, cap. 1, §§ 6 *De Obedientia et reverentia erga Superiores*. Book p. 228 .
-
-[^235]: *Instructio Pastoralis Eystettensis*, Titulus XIV, cap. II, § 8: on respectful and prudent relations with civil authorities and magistrates, maintaining pastoral independence with Christian modesty when conscience demands declaring with the Apostles "We cannot" (Acts 4:20). Book p. 229 .
-
-[^236]: John 13:35 [printed citation: *Іоан. 16, 35*]: "By this shall all men know that ye are My disciples, if ye have love one to another" (*По семъ познаютъ вси, яко мои ученици єсте, аще любовь имате между собою* / *In hoc cognoscent omnes quia mei discipuli estis, si dilectionem habueritis ad invicem*). Book p. 229 .
-
-[^237]: 2 Corinthians 6:2; Isaiah 49:8: "For He saith, I have heard thee in a time accepted, and in the day of salvation have I succored thee: behold, now is the accepted time; behold, now is the day of salvation." Book p. 231 .
-
-[^238]: 2 Corinthians 9:10: "Now He that ministers seed to the sower both minister bread for your food, and multiply your seed sown, and increase the fruits of your righteousness"; cited in *Instructio Pastoralis Eystettensis*, Titulus XIII, cap. 7, § 1. Book p. 231 .
-
-[^239]: St. Bernard of Clairvaux, *De Consideratione ad Eugenium Papam*, Book I, cap. 7: "Consideratio regit affectus, dirigit actus, corrigit excessus, componit mores, vitam honestat et ordinat" ("Meditation / consideration rules the affections, directs actions, corrects excesses, composes morals, and orders life"). Book p. 231 .
-
-[^240]: St. John Chrysostom, *Homilia in Psalmum 48 [Ps. 47 LXX]*, no. 1; *Homily 3 on the Gospel of Matthew*, and *Homily 3 on Lazarus and the Rich Man*: on the absolute necessity of daily spiritual reading of Holy Scripture for salvation, both for clergy and laity living in the world. Book p. 232 .
-
-[^241]: Malachi 2:7 [printed citation: *Гл. I. 7.*]: "For the priest's lips should keep knowledge, and they should seek the law at his mouth: for he is the messenger of the Lord of hosts" (*Понеже устнѣ ієреовѣ сохранятъ разумъ, и закона взыщутъ отъ устъ єго, яко Ангелъ Господа Вседержителя єсть* / *Labia enim sacerdotis custodient scientiam, et legem requirent ex ore ejus: quia angelus Domini exercituum est*). Book p. 234 .
-
-[^242]: 1 Timothy 4:15–16: "Meditate upon these things; give thyself wholly to them; that thy profiting may appear to all. Take heed unto thyself, and unto the doctrine; continue in them: for in doing this thou shalt both save thyself, and them that hear thee" (*Внимай себѣ и ученію: и пребывай въ нихъ: сія бо творя и самъ спасешися и послушающія тебе* / *Attende tibi, et doctrinae: insta in illis. Hoc enim faciens, et teipsum salvum facies, et eos qui te audiunt*). Book p. 234 .
-
-[^243]: Titus 1:9: "Holding fast the faithful word as he hath been taught, that he may be able by sound doctrine both to exhort and to convince the gainsayers" (*Да силенъ будетъ и утѣшати въ здравѣмъ ученіи и противящіяся обличати* / *Ut potens sit exhortari in doctrina sana, et eos qui contradicunt, arguere*). Book p. 234 .
-
-[^244]: Hosea 4:6: "Because thou hast rejected knowledge, I will also reject thee, that thou shalt be no priest to Me: seeing thou hast forgotten the law of thy God, I will also forget thy children" (*Яко ты умнѣніе отверглъ єси, отвергу и азъ тебе, еже не жречествовати мнѣ* / *Quia tu scientiam repulisti, repellam te, ne sacerdotio fungaris mihi*). Book p. 234 .
-
-[^245]: St. Ambrose of Milan, *De Fide ad Gratianum Augustum*, Lib. III: calling Holy Scripture the priestly book par excellence. Book p. 234 .
-
-[^246]: Origen, *Homilia 7 in Exodum*: comparing Holy Scripture unto the celestial manna containing in itself all heavenly savor and sweetness. Book p. 234 .
-
-[^247]: Council of Trent, Session V (June 17, 1546), *Decretum secundum: Super lectione et praedicatione*, cap. 1: commanding the study and lecturing on Holy Scripture so that the celestial treasure of the sacred books may not lie neglected. Book p. 234 .
-
-[^248]: Appendix XXXVI (*Додатокъ ч. 36*) of the Synodal Acts: Official Directory and Ceremonial Rubrics of the Greek Catholic Church in Galicia (*Ordo celebrationis officiorum divinorum et caeremoniarum*), compiled and approved by the Provincial Synod of 1891. Book p. 235 .
-
-[^249]: Historical pastoral legislation on decanal and parish libraries in Galicia: Pastoral Letter of Cardinal Mykhailo Levytsky, Metropolitan of Lviv, dated May 4, 1826, No. 1995; and Circular Ordinance of the Greek Catholic Metropolitan Consistory of Lviv, dated January 20, 1876, No. 273. Book p. 236 .
-
-[^250]: Appendix XXXVII (*Додатокъ ч. 37*) of the Synodal Acts: Pastoral Letter of the Greek Catholic Metropolitan Consistory of Lviv to the Archeparchial Clergy regarding the Rules for Parochial Competition (*Concursus*), dated January 20, 1890, No. 1018/1889. Book p. 237 .
-
-[^251]: Exodus 24:18 (Septuagint versification: *Исх. 24:18 LXX*): Moses fasting forty days and forty nights upon Mount Sinai in the presence of the Lord. Book p. 240 .
-
-[^252]: Scriptural citations on statutory fasting in the Old Testament: Judges 20:26; 1 Samuel 7:6 (1 Kings 7:6 LXX); Fast of King Jehoshaphat, 2 Chronicles 20:3 (2 Paralipomenon 20:3 LXX); Fast of Ezra, Ezra 8:21, 23 (1 Esdras 8:21, 23 LXX); Esther 4:3; Jeremiah 36:9 (Jeremiah 43:9 LXX); Daniel 10:3. Book p. 240 .
+3. The Fast before the feast of the Supreme Apostles Peter and Paul [Apostles Fast / Petrivka], which beginneth with Monday after the Sunday of All Saints, or the first after Pentecost, and concludeth with the eve of the feast itself.
 
 ---
 
 # Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)
+
+---
 
 ## Titulus XI. On Fasts
 *(Continued from p. 240 / Leaf p245)*
@@ -139,6 +49,8 @@
 
 > *"The benefit of fasting is not to be measured by mere abstinence from foods, for true fasting consists in being free from all sins; loose every bond of iniquity, forgive the wrong done to thy neighbor, and remit the debt. Fast not for strife and debates. Thou eatest no meat, but meanwhile thou devourest thy brother. Thou abstainest from wine, but meanwhile thou dost not abstain from injustices. Woe unto those who are drunken, but not with wine; the wrath of the spirit is drunkenness, robbing him of his senses no less than wine."* [^253]
 
+---
+
 ## TITULUS XII. On Offices for the Departed
 
 ### CHAPTER I. On Divine Liturgies and Other Offices for the Departed
@@ -159,13 +71,17 @@ And on the Acts of the Apostles, St. John Chrysostom speaks thus [^258]:
 
 **3.** But since divine worship for the departed in the course of the year very frequently comes into conflict with the divine services of feast days, both movable and immovable, for the resolution of which the rubrics (*устави*) of the liturgical books are either very scanty or at times none are readily available, so that in many instances Priests, in order to form for themselves a definite judgment on this question, are often left without any guidance, therefore the Synod, for the preservation of perfect uniformity in sacred actions, states and defines a rule, so that priests specifically may know when they may celebrate the Divine Liturgy and the Office for the departed and when not.
 
+---
+
 ### § I. On the Divine Liturgy for the Departed
 
 **1.** Solemn Divine Liturgies for the departed are forbidden, even in the presence of the body, on all Sundays and solemn feast days (*нарочиті праздники*), then throughout the three days of the death of Christ [Holy Week Triduum], as also in those cases in which the parish priest is obligated to celebrate the Divine Liturgy of the day, either full or of the Presanctified; nevertheless in more important cases, if there is a second priest, he shall be able, alongside the parochial Divine Liturgy of the current day, to chant a Liturgy for the departed both on Sundays and also on three commanded feast days (*три праздники приказані*), namely: St. Demetrius, St. Stephen, and the Three Holy Hierarchs, yet not in vestments of black color.
 
-**2.** To the same rule is subject the celebration of the Divine Liturgy for the departed on the 3rd, 9th, and 40th day, as well as on the anniversary of death or burial of the deceased; therefore in those cases it is proper either to celebrate the Divine Liturgy a day in advance, or to transfer it to the nearest unhindered day.
+**2.** To the same rule is subject the celebration of the Divine Liturgy for the departed on the 3rd, 9th, and 40th day, as well as on the anniversary of death or burial of the deceased; wherefore in those cases it is proper either to celebrate the Divine Liturgy a day in advance, or to transfer it to the nearest unhindered day.
 
-**3.** As to private Liturgies (*Литургії приватні* / low masses), these are forbidden on every Sunday, on solemn feasts and polyeleos feasts, as also throughout the three days of the death of Christ, as stated above. In all cases in which a Divine Liturgy for the departed is celebrated, it is not proper to intermingle variable parts (such as troparia, kontakia, etc.) of any current feast or of the office of a Saint, but to take only that which is proper to the departed, excepting the Epistle and Gospel of the day of the week, since these do not have a festal character; therefore they may precede the Epistle and Gospel for the departed.
+**3.** As to private Liturgies (*Литургії приватні* / low masses), these are forbidden on every Sunday, on solemn feasts and polyeleos feasts, as also throughout the three days of the death of Christ, as stated above. In all cases in which a Divine Liturgy for the departed is celebrated, it is not proper to intermingle variable parts (such as troparia, kontakia, etc.) of any current feast or of the office of a Saint, but to take only that which is proper to the departed, excepting the Epistle and Gospel of the day of the week, since these do not have a festal character; wherefore they may precede the Epistle and Gospel for the departed.
+
+---
 
 ### § II. On the Office for the Departed
 
@@ -175,7 +91,7 @@ And on the Acts of the Apostles, St. John Chrysostom speaks thus [^258]:
 
 **3.** Not infrequently among us, and among the Greeks always, the concluding part of the office of Matins for the departed is used under the name of *Panakhyda*, consisting especially of the Troparia and Litanies (*Єктенії*) for the departed; concerning which part of the office, if a question arises regarding the time, the Synod declares that one must adhere here to what is decreed concerning Parastas.
 
-**4.** As to the manner of celebrating the Office of Parastas, Priests, in celebrating the same, must adhere strictly to the prescriptions of the Typikon indicated in the booklet *Parastasnyk* (*Парастасникъ*), omitting nothing and not rushing, but with devotion and with outward composure must celebrate everything and each single element; therefore, alternating with the choir, besides the heirmoi, they shall also read aloud all the troparia. Since, however, this Office, celebrated in that manner as prescribed and as is fitting, requires a rather long time, therefore the Priest, for the celebration of the same, may receive a stipend (*таксу*) of about one gulden (*около одного гульдена*).
+**4.** As to the manner of celebrating the Office of Parastas, Priests, in celebrating the same, must adhere strictly to the prescriptions of the Typikon indicated in the booklet *Parastasnyk* (*Парастасникъ*), omitting nothing and not rushing, but with devotion and with outward composure must celebrate everything and each single element; wherefore, alternating with the choir, besides the heirmoi, they shall also read aloud all the troparia. Since, however, this Office, celebrated in that manner as prescribed and as is fitting, requires a rather long time, therefore the Priest, for the celebration of the same, may receive a stipend (*таксу*) of about one gulden (*около одного гульдена*).
 
 **5.** Finally, although on the one hand the Synod with praise commends the faithful frequently to renew the memory of their departed, on the other hand it does not neglect to censure the abuses in drinking at banquets (*надъужитій въ піятицѣ при гостинахъ*) which in certain localities, on the occasion of funerals or commemorations (*поминокъ*), are customarily held in the homes of the deceased; and therefore, wherever the parish priest observes such abuses at banquets, let him not dare to be present at them; what is more, let him admonish his parishioners that they should entirely abstain from holding such, because by such drinking bouts the holy Office of burial of the departed and the aiding of them is defiled and dishonored, and that all the more because such banquets, on account of the considerable expenses which at times are customarily incurred for them, deter the less well-to-do faithful from bringing aid to the souls of their departed through church services, by which the departed are especially helped; concerning this the faithful must be instructed.
 
@@ -189,11 +105,13 @@ And on the Acts of the Apostles, St. John Chrysostom speaks thus [^258]:
 
 **10.** But since in these more recent times, especially in the towns, it happens at times, as is known, that certain laypersons make bold to extol the memory of the deceased with their own speeches, therefore the Synod strictly commands Pastors that they give no place to such speeches, as far as possible; and if it should be difficult for them to prevent it, then let them expressly declare to such speakers that in the midst of the sacred action they cannot permit their speeches, and that at most this may be permitted them either before or after the sacred action, namely when the Priest has either not yet begun or has already concluded the prescribed sacred action for the departed and has laid aside the sacred vestments; but even this can never be permitted to laypersons in church, but at most may be permitted outside church, that is, tolerated.
 
+---
+
 ### CHAPTER II. On Ecclesiastical Burial and Cemeteries
 
 **1.** How great care the faithful ought to have that their bodies, which on account of communion in heavenly life have already become a temple of the Holy Spirit and at the final renewal of the world are to shine forth like the sun, should after death rest not in any unhallowed place, but in a consecrated place, the holy Patriarchs preceded us by their own example already in the Old Testament, and before all the father of all the faithful, holy Abraham, who, journeying in an alien and unconsecrated land, for his deceased wife Sarah and for the others of his family who should die after her, purchased [^263] a separate place for weighed silver, in which he himself was laid and his only-begotten holy Isaac. Likewise Jacob, his grandson, a stranger in Egypt, dying there, bound by an oath his son Joseph to command his bones to be carried to the holy land, promised by the Lord to his fathers and to their seed and destined to be sanctified by the presence of the Messiah [^264]. That this same command Joseph also gave concerning his bones to his brethren, when one day they should return from Egypt to the Holy Land, Holy Scripture testifies [^265]. And they indeed, returning from Egypt, together with the bones of Jacob, carried also his bones and laid them in that cave purchased by Abraham [^266].
 
-Imitating this example, Christians already from the earliest times took care to bury their dead in places set apart and consecrated, and all the Churches of God spread abroad throughout the whole universe have always firmly kept and now keep this ordinance. Seeing therefore that Christians have always regarded their places of burial as destined for confessors of the true faith, therefore no one who during his lifetime lived outside the great family of the Church of God and passed away outside the same has the right after death to have a common resting place together with the faithful. Whence it follows that, besides infidels, heretics and schismatics have no right to ecclesiastical burial; likewise those excommunicated, public sinners dying in excommunication, those killed in a duel; therefore let priests not dare to bury any such in Catholic cemeteries, but for them a place outside the cemetery must be designated, or at most, on account of urgent necessity, in some separate place of the Catholic cemetery, where it is also proper to bury the bodies of infants who pass away without baptism.
+Imitating this example, Christians already from the earliest times took care to bury their dead in places set apart and consecrated, and all the Churches of God spread abroad throughout the whole universe have always firmly kept and now keep this ordinance. Seeing therefore that Christians have always regarded their places of burial as destined for confessors of the true faith, therefore no one who during his lifetime lived outside the great family of the Church of God and passed away outside the same has the right after death to have a common resting place together with the faithful. Whence it follows that, besides infidels, heretics and schismatics have no right to ecclesiastical burial; likewise those excommunicated, public sinners dying in excommunication, those killed in a duel; wherefore let priests not dare to bury any such in Catholic cemeteries, but for them a place outside the cemetery must be designated, or at most, on account of urgent necessity, in some separate place of the Catholic cemetery, where it is also proper to bury the bodies of infants who pass away without baptism.
 
 **2.** In particular, with respect to those who have voluntarily taken their own life, parish priests must be cautious that, unless they showed any signs of repentance before death, they do not dare to bury them in consecrated cemeteries and according to the rite of the Church. If it should be known beyond doubt to the parish priest that the suicide suffered from the affliction of mental derangement, he is to grant him ecclesiastical burial in the customary manner. If, however, the parish priest, moved by weightier reasons, should hesitate to agree with the judgment of physicians and civil officials, the matter must be reported to the Ordinary; and in the meantime, on account of urgent necessity, the body of the deceased is to be buried without church rites, outside the cemetery. If, however, doubt remains whether the suicide was sane (*почитальний*) or insane (*непочитальний*), he is to be buried according to the rite of the Church, but for the avoidance of scandal that might arise, without the customary solemnities at burial. If, finally, doubt arises whether someone killed himself or perished by accident, judgment must be given in favor of the deceased, since in doubt so grave a crime ought not to be presumed of anyone [^267].
 
@@ -205,9 +123,11 @@ Imitating this example, Christians already from the earliest times took care to 
 
 **4.** For the rest, let everything in the cemetery be clean, honorable, and dignified, so that crosses and monuments fallen from graves be not neglected or trampled under foot, but let them be restored, or if they were wooden and have fallen down, let them be laid together in some suitable place or consumed by fire.
 
+---
+
 ## TITULUS XIII. On Ecclesiastical Courts
 
-**1.** Since Bishops by divine right are appointed to be pastors of the Dioceses entrusted to them, they must therefore be regarded as the ordinary judges of all souls who belong to their Diocese in all cases which pertain to the ecclesiastical state. Therefore upon all and single persons subject to the care of their Bishop there rests a heavy burden of conscience to submit to the judgment of their own Ordinary and to receive his judgment as the judgment of the Lord, Who said to the Apostles and their successors: 
+**1.** Since Bishops by divine right are appointed to be pastors of the Dioceses entrusted to them, they must therefore be regarded as the ordinary judges of all souls who belong to their Diocese in all cases which pertain to the ecclesiastical state. Wherefore upon all and single persons subject to the care of their Bishop there rests a heavy burden of conscience to submit to the judgment of their own Ordinary and to receive his judgment as the judgment of the Lord, Who said to the Apostles and their successors: 
 
 > *"He who hears you hears Me, and he who rejects you rejects Me"* [^269]
 
@@ -218,13 +138,15 @@ and again:
 **2.** As to the procedure for conducting trials, this Synod, besides that which is decreed in general canon law, commands that in all Dioceses of this ecclesiastical Province there be observed (as the basis): that *Instruction* which was submitted for the approval of the entire Austrian Episcopate. That *Instruction*, therefore, adapted to our needs, the Synod has determined to use in conducting trials in the Ruthenian Church Province of Galicia [^271].
 
 **3.** This Synod has resolved to add something regarding the procedure to be observed in judicial appeals, and decrees the following:
-* **a)** The ordinary ecclesiastical judge in his diocese is the Bishop or his Vicar General, whose person is one and the same as the person of the Bishop; therefore from the judgment of the Vicar there is no appeal to the Bishop.
+* **a)** The ordinary ecclesiastical judge in his diocese is the Bishop or his Vicar General, whose person is one and the same as the person of the Bishop; wherefore from the judgment of the Vicar there is no appeal to the Bishop.
 * **b)** The higher ordinary Judge is the Metropolitan of the ecclesiastical province.
 * **c)** The supreme judge is the Roman Pontiff.
 
 Therefore this Synod decrees that appeals are to proceed in this order:
 1. From the court of the Bishop, let appeal be made to the Metropolitan; from the Metropolitan, to the Pope. Nevertheless, appeal to the Pope himself with omission of the intermediate court shall always be free.
 2. As to a judgment issued by the Metropolitan in the first instance, appeal is to be made in the second and third instance to the Holy See, which will deign to delegate a judge of his own rite, unless it should decide otherwise.
+
+---
 
 ## TITULUS XIV. On Synods
 
@@ -234,6 +156,8 @@ Therefore this Synod decrees that appeals are to proceed in this order:
 
 **3.** As to the right of convoking Synods: the Roman Pontiff alone has the right to convoke ecumenical councils; the Metropolitan has the right to convoke provincial synods, or, during a vacancy of the see, the older or senior Bishop; the diocesan Bishop has the right to convoke diocesan synods. All those who have the right to convoke councils have likewise the right to preside over them, either in person or through their delegates.
 
+---
+
 ### I. Regarding Those Who Are to Be Summoned to the Synod
 
 **1.** To an Ecumenical Council Bishops of the whole earthly circle are summoned; to a provincial council all ordinary Bishops of the Province must be summoned and appear, and during a vacancy of the see, Capitular Vicars, and moreover Auxiliary Bishops, then the heads of Chapters (*настоятелѣ Капитулъ*), then cathedral or capitular canons, who may be present either in person or through their representatives; moreover the highest superiors of monasteries, deans, theological faculties, and rectors of major seminaries and those of the clergy whom the Bishops, upon common consultation, judge fitting to summon.
@@ -242,12 +166,16 @@ Therefore this Synod decrees that appeals are to proceed in this order:
 
 **3.** To a diocesan Synod are to be summoned: Canons of the Cathedral Chapter, Professors of Sacred Theology, and Catechists of higher schools, Deans, and delegates of individual deaneries, and as many from the clergy of his diocese as the Bishop in the Lord shall judge fitting to summon.
 
+---
+
 ### II. Regarding the Time of Holding Provincial and Diocesan Synods
 
 According to the Council of Trent [^272], provincial Synods must indeed be held at least every three years, and diocesan synods every year. But when it is not always possible to keep this rule, let them obtain for themselves—the Metropolitan for a provincial Synod, and Bishops for diocesan synods—authority from the Holy See to hold, instead of such Synods, an extraordinary assembly (*зôбранє мѣстосинодальне* / pro-synodal assembly), for which, for a provincial assembly, individual Ordinaries with representatives of the entire clergy are to assemble at the Archcathedral, so that one or another be a delegate of the chapter; from all deaneries of individual dioceses, four delegates, and others whom the Ordinaries upon common consultation deem proper to admit. To diocesan assemblies, besides the Ordinary and the Chapter, twelve delegates from the diocesan clergy and chosen men whom the Bishop shall consider. Nevertheless, the Metropolitan will endeavor that at least every fifth year a provincial Council be held, and Bishops will endeavor that every third year a diocesan Synod be held.
 
 * **As to the place:** This the Metropolitan will choose and designate after common consultation with the Bishops.
 * **As to the manner:** This, as the norm of councils in the future, is set forth here in detail at the beginning of the acts of this Synod.
+
+---
 
 ## TITULUS XV. On Church Property
 
@@ -263,31 +191,11 @@ According to the Council of Trent [^272], provincial Synods must indeed be held 
 
 **6.** If any change should have to be made with respect to church property, let administrators, in order to undertake that...
 
- St. Basil the Great, *Homily I On Fasting* (*De Jejunio*, Hom. I; PG 31, 163–198). The Synod cites St. Basil's classic patristic admonition that bodily fasting from food is rendered void without spiritual abstinence from malice, anger, and injustice.
-[^254]: Heb. 9:12 — "Neither by the blood of goats and calves, but by His own blood He entered in once into the Holy Place, having obtained eternal redemption for us."
-[^255]: St. John Chrysostom, *Homily III on the Epistle to the Philippians*, no. 4 (PG 62, 203–206).
-[^256]: 4 Kings 20:6 (2 Kings 20:6 LXX / Vulgate; 2 Kings 20:6 MT) — "And I will defend this city for My own sake, and for My servant David's sake."
-[^257]: St. John Chrysostom, *Homily LXII on the Gospel of John* (Hom. 61 in other editions; PG 59, 348).
-[^258]: St. John Chrysostom, *Homily XXI on the Acts of the Apostles* (PG 60, 165).
-[^259]: *Lenten Triodion*, Meatfare Saturday, Synaxarion (on the 3rd, 9th, and 40th day commemorations of the departed).
-[^260]: *Apostolic Constitutions*, Bk. VIII, can. 42 (PG 1, 1144).
-[^261]: Pastoral Letter of Metropolitan Spyrydon Lytvynovych of blessed memory, February 9, 1865, No. 5722. Lytvynovych served as Greek-Catholic Metropolitan of Lviv from 1863 to 1869.
-[^262]: *Pastoral Instruction of Eichstätt* (*Instructio Pastoralis Eystettensis*), Titulus IX, Chapter II, § 5. Widely utilized in 19th-century Central European and Austro-Hungarian seminaries as a standard of pastoral theology.
-[^263]: Gen. 23:16 — Abraham weighing four hundred shekels of silver for the cave of Machpelah as a burial possession for Sarah.
-[^264]: Gen. 47:29–30; Gen. 49:29–30 — Jacob charging his son Joseph to carry his bones out of Egypt to the sepulchre of his fathers.
-[^265]: Gen. 50:24 — Joseph adjuring the children of Israel that God will visit them and they shall carry up his bones from Egypt.
-[^266]: Exod. 13:19; Josh. 24:32 — Moses taking the bones of Joseph, and their final interment at Shechem.
-[^267]: *Provincial Synod of Prague* (1860), Titulus III, Chapter XIII (published 1863), establishing the canonical principle *in dubio pro reo* / *in dubio mitior pars sequenda est* regarding suicides lacking proof of deliberate intent.
-[^268]: Pastoral Letter of Metropolitan Spyrydon Lytvynovych of blessed memory, November 26, 1868, No. 5656, on the dignity, leasing restrictions, and proper maintenance of Catholic cemeteries.
-[^269]: Luke 10:16 — "He that heareth you heareth Me; and he that despiseth you despiseth Me; and he that despiseth Me despiseth Him that sent Me."
-[^270]: Matt. 18:17 — "And if he shall neglect to hear them, tell it unto the church: but if he neglect to hear the church, let him be unto thee as a heathen man and a publican."
-[^271]: Refers to the Austrian Judicial Instruction (*Gerichts-Instruction für die geistlichen Gerichte des österreichischen Reiches*), adapted to Galician Greek-Catholic practice and appended to the Synod acts as Appendix XXXVIII (*Додатокъ ч. 38*).
-[^272]: Council of Trent, Session XXIV, Chapter II *On Reform* (*De Reformatione*), prescribing provincial councils every three years and diocesan synods annually.
-[^273]: *Provincial Council of Zamość* (1720), Titulus III *De ecclesiis, earumque bonis et juribus conservandis*.
-
 ---
 
 # Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)
+
+---
 
 ## Titulus XV. On Church Property *(Conclusion)*
 *(Continued from p. 257 / Leaf p262)*
@@ -298,7 +206,10 @@ According to the Council of Trent [^272], provincial Synods must indeed be held 
 
 *Done in Lviv, on the 8th day of October, 1891.*
 
+---
+
 ## Signatures of the Synodal Fathers
+
 The Names of the Signatories Follow:
 
 ### The Synodal Hierarchy & Presidency
@@ -307,6 +218,8 @@ The Names of the Signatories Follow:
 * **Sylvester Sembratovych**, Metropolitan of Halych, Archbishop of Lviv of the Ruthenian Catholics, Bishop of Kamianets.
 * **Julian Pelesz**, Bishop of Przemyśl, Sambir, and Sanok.
 * **Julian Sas-Kuilovsky**, Bishop of Stanyslaviv.
+
+---
 
 ### From the Archeparchy of Lviv
 
@@ -385,6 +298,8 @@ The Names of the Signatories Follow:
 * **Yakov Syroyidov**, Archcathedral Priest of Lviv.
 * **Dr. Isidore Sharanevych**, Senior of the Stavropeghial Institute in Lviv, Public Ordinary Professor in the Imperial-Royal University of Lviv. [^276]
 
+---
+
 ### From the Eparchy of Przemyśl
 
 * **Venedykt Lytynsky**, Archdeacon of the Chapter of Przemyśl.
@@ -440,6 +355,8 @@ The Names of the Signatories Follow:
 * **Mykolay Nazarevych**, Pastor in the village of Serny.
 * **Antoniy Beskyd**, Pastor in Tarnavka, Vice-Dean of Jaśliska.
 
+---
+
 ### From the Eparchy of Stanyslaviv
 
 * **Vasyl Fatsevych**, Archpriest of the Episcopal Chapter of Stanyslaviv.
@@ -476,53 +393,12 @@ The Names of the Signatories Follow:
 
 ---
 
+---
+
 ### Notes
 
 [^251]: Exodus 24:18 (Septuagint versification: *Исх. 24:18 LXX*): Moses fasting forty days and forty nights upon Mount Sinai in the presence of the Lord. Book p. 240 (Leaf p244).
 [^252]: Scriptural citations on statutory fasting in the Old Testament: Judges 20:26; 1 Samuel 7:6 (1 Kings 7:6 LXX); Fast of King Jehoshaphat, 2 Chronicles 20:3 (2 Paralipomenon 20:3 LXX); Fast of Ezra, Ezra 8:21, 23 (1 Esdras 8:21, 23 LXX); Esther 4:3; Jeremiah 36:9 (Jeremiah 43:9 LXX); Daniel 10:3. Book p. 240 (Leaf p244).
-[^208]: St. Thomas Aquinas, *Expositio Salutationis Angelicae* (Opusculum 8), a. 1: "Tantum habet de gratia, quod sufficit ad salutem totius mundi" ("She hath so much of grace that it suffices unto the salvation of the whole world"). Book p. 217 (Leaf p221).
-[^209]: St. Augustine, *Enarrationes in Psalmos*, Ps. 118 [Ps. 119 MT], Sermo 9. Book p. 219 (Leaf p223).
-[^210]: Pope St. Gregory the Great, *Registrum Epistolarum*, Book I, Epist. 24: on the sublime pastoral responsibility and dignity of the sacred priesthood. Book p. 219 (Leaf p223).
-[^211]: Wisdom of Sirach (Ecclesiasticus) 45:7, 8, 17, 20, 21 (Septuagint versification: *Сір. 45:7–21 LXX*): the glorification, sacred vestments, and perpetual priesthood of Aaron. Book p. 219 (Leaf p223).
-[^212]: Wisdom of Sirach 45:17 [cited according to the verse divisions of Codex Vaticanus as v. 70]: "He gave unto him His commandments, and authority in the covenants of judgments, to teach Jacob the testimonies, and to enlighten Israel in His law." Book p. 219 (Leaf p223).
-[^213]: St. John Chrysostom, *Homily 10 on the Epistle to the Hebrews*, no. 3 (PG 63:83–90): on the bloodless Sacrifice of the New Covenant and the Holy Spirit descending to consecrate the Holy Gifts upon the altar. Book p. 219 (Leaf p223).
-[^214]: Malachi 1:10–11: "I have no pleasure in you, saith the Lord of hosts, neither will I accept an offering at your hand. For from the rising of the sun even unto the going down of the same My name shall be great among the Gentiles; and in every place incense shall be offered unto My name, and a pure offering: for My name shall be great among the heathen, saith the Lord of hosts." Book p. 219 (Leaf p223).
-[^215]: St. Augustine, *Sermo de Verbis Evangelii*, citing the patristic exclamation on the priestly dignity: "O veneranda sacerdotum dignitas, in quorum manibus Dei Filius velut in utero Virginis incarnatur!" and *Enarratio in Psalmum 26 [Ps. 27 MT]*: "O veneranda sanctitas manuum! O felix exercitium! Qui creavit me, dedit mihi creare se; et qui creavit me sine me, creat se per me." Book p. 220 (Leaf p224).
-[^216]: In St. Alphonsus Maria de Liguori, *Selva di materia predicabile per gli esercizi agli ecclesiastici* (The Forest of Preachable Material for Clergy Retreats), Part I, cap. 1, no. 15, citing St. Augustine (*Tractatus in Joannem* 72): "Majus est opus ex impio justum facere, quam creare caelum et terram" ("It is a greater work to make a righteous man out of an ungodly man than to create heaven and earth"). Book p. 220 (Leaf p224).
-[^217]: Jan Ignacy Kulczyński, O.S.B.M., *Specimen Ecclesiae Ruthenicae*, Nazianz Msc. Exercit. p. 210: citing the address of Cyril III, Metropolitan of Kyiv (1243–1280), at his Council (Synod of Kyiv, 1273/1274), calling priests "earthly angels and heavenly men" who stand with the Cherubim and Seraphim, summon the Holy Spirit, transform the bread and wine, and bind and loose upon earth and in heaven. Book p. 220 (Leaf p224).
-[^218]: St. Augustine, *Enarrationes in Psalmos*, Ps. 29 [Ps. 30 MT], and Isaiah 61:10 [printed cited as Isa. 40:10]: on the bridal and priestly vesture of Christ and the Church. Book p. 221 (Leaf p225).
-[^219]: Isaiah 61:10 (Septuagint versification according to Codex Vaticanus: *Ис. 61:10 LXX*): "Let my soul rejoice in the Lord: for He hath clothed me with the garment of salvation, and the robe of gladness; as a bridegroom He hath put a crown on me, and as a bride He hath adorned me with ornaments." Prescribed in the Ruthenian *Sluzhebnik* at the vesting of the priest with the sticharion (*stikhar*). Book p. 221 (Leaf p225).
-[^220]: St. Thomas Aquinas, *Summa Theologiae*, I-II, q. 102, a. 5, ad 10 in fine: the allegorical and moral exposition of the eight vestments of the High Priest Aaron (the linen breeches for chastity, linen tunic for purity, girdle for moderation, mitre/tiara for rectitude of intention, golden plate on the forehead for continual remembrance of God, ephod for bearing the infirmities of the people, breastplate for fervent pastoral love, hyacinth-blue tunic for heavenly conversation, golden bells for divine doctrine, and pomegranates for unity of faith and concord in morals). Book p. 221 (Leaf p225).
-[^221]: St. Jerome, *Epistola 64 (ad Fabiolam)* [printed cited as Epist. 128], no. 19: on the mystical signification of the priestly vestments, requiring that the doctrine, demeanor, gestures, and deeds of the High Priest be a perpetual sermon to the people. Book p. 222 (Leaf p226).
-[^222]: Pope St. Leo the Great, *Epistola 4 (ad Episcopos per Campaniam)*; codified in Gratian's *Decretum*, Distinctio 32, c. 1 *Omnium*: "Quod enim in aliis fidelibus liberum est a culpa, in his tamen illicitum judicatur" ("For that which in other faithful is free from blame, in them is nevertheless judged unlawful"). Book p. 222 (Leaf p226).
-[^223]: Council of Trent, Session XXII (September 17, 1562), *Decretum de Reformatione*, Chapter 1: "Nihil est quod alios magis ad pietatem et Dei cultum assidue instruat, quam eorum vita et exemplum, qui se divino ministerio dedicarunt" ("There is nothing that doth more continually instruct others unto piety and the worship of God than the life and example of those who have dedicated themselves unto the divine ministry"). Book p. 222 (Leaf p226).
-[^224]: 1 Timothy 3:5: "For if a man know not how to rule his own house, how shall he take care of the church of God?" (*Аще кто своего дому не умѣетъ правити, како о церкви Божіей прилѣжати возможетъ?* / *Si quis autem domui suae praeesse nescit, quomodo ecclesiae Dei diligentiam habebit?*). Book p. 224 (Leaf p228).
-[^225]: 2 Timothy 2:4: "No man that wars entangles himself with the affairs of this life; that he may please him who hath chosen him to be a soldier" (*Никтоже бо, воинъ бывая, обязуется куплями житейскими, да воєводѣ угоденъ будетъ* / *Nemo militans Deo implicat se negotiis saecularibus: ut ei placeat, cui se probavit*). Book p. 225 (Leaf p229).
-[^226]: St. Ambrose of Milan, *Expositio Evangelii secundum Lucam*, Lib. I (on Luke 1 / Isaiah 1): reminding priests that their commission from Christ is to seek and win souls, not earthly gain. Book p. 226 (Leaf p230).
-[^227]: 1 Timothy 6:8: "And having food and raiment let us be therewith content" (*Имѣюще же пищу и одѣяніе, сими довольни будемъ* / *Habentes autem alimenta, et quibus tegamur, his contenti simus*). Book p. 226 (Leaf p230).
-[^228]: 1 Corinthians 9:27: "But I keep under my body, and bring it into subjection: lest that by any means, when I have preached to others, I myself should be a castaway" (*Но умерщвляю тѣло моє и порабощаю, да не како, инымъ проповѣдуя, самъ неключимъ буду* / *Sed castigo corpus meum, et in servitudinem redigo: ne forte cum aliis praedicaverim, ipse reprobus efficiar*). Book p. 226 (Leaf p230).
-[^229]: Job 14:19 (Septuagint versification: *Іов. 14:19 LXX*): "The waters wear the stones; and thou washest away the things which grow out of the dust of the earth" (*Каменія изгладиша воды, и потопиша воды возвишенія персти земныя* / *Lapides excavant aquae, et alluvione paulatim terra consumitur*), cited in the warning of St. Isidore of Pelusium to Bishop Palladius. Book p. 226 (Leaf p230).
-[^230]: St. Isidore of Pelusium, *Epistolae*, Book II, Epist. 284 (ad Palladium Episcopum): warning on the perilous snare of familiarity and frequent conversation with women, and how continuous custom wears down even rock and stubborn human nature. Book p. 227 (Leaf p231).
-[^231]: St. John Chrysostom, *Homily 19 on the Epistle to the Romans*, no. 4: on meekness, patience, and gentle charity as the supreme virtue conforming the Christian minister to God. Book p. 227 (Leaf p231).
-[^232]: St. Thomas Aquinas, *Summa Theologiae*, II-II, q. 158, a. 1, ad 3: "Irasci secundum rationem rectam laudabile est" ("To be angry according unto right reason is praiseworthy"). Book p. 227 (Leaf p231).
-[^233]: Pope St. Gregory the Great, *Moralia in Job*, Book XX, cap. 8: "Sit amor, sed non emolliens; sit rigor, sed non exasperans; sit zelus, sed non immoderate saeviens; sit pietas, sed non plus quam expedit indulgens" ("Let there be love, but not enervating; let there be mercy, but not indulging more than is expedient"). Book p. 227 (Leaf p231).
-[^234]: Proverbs 21:28 (Septuagint: *Притч. 21:28 LXX*): "A false witness shall perish: but an obedient man shall speak being kept [unto victory]" (*Мужъ послушливъ сохраняемъ возглаголетъ* / *Vir obediens loquetur victorias*); citing the diocesan pastoral constitution: *Instructio Pastoralis Eystettensis* (Pastoral Instruction of the Bishop of Eichstätt), Titulus XIII, cap. 1, §§ 6 *De Obedientia et reverentia erga Superiores*. Book p. 228 (Leaf p232).
-[^235]: *Instructio Pastoralis Eystettensis*, Titulus XIV, cap. II, § 8: on respectful and prudent relations with civil authorities and magistrates, maintaining pastoral independence with Christian modesty when conscience demands declaring with the Apostles "We cannot" (Acts 4:20). Book p. 229 (Leaf p233).
-[^236]: John 13:35 [printed citation: *Іоан. 16, 35*]: "By this shall all men know that ye are My disciples, if ye have love one to another" (*По семъ познаютъ вси, яко мои ученици єсте, аще любовь имате между собою* / *In hoc cognoscent omnes quia mei discipuli estis, si dilectionem habueritis ad invicem*). Book p. 229 (Leaf p233).
-[^237]: 2 Corinthians 6:2; Isaiah 49:8: "For He saith, I have heard thee in a time accepted, and in the day of salvation have I succored thee: behold, now is the accepted time; behold, now is the day of salvation." Book p. 231 (Leaf p235).
-[^238]: 2 Corinthians 9:10: "Now He that ministers seed to the sower both minister bread for your food, and multiply your seed sown, and increase the fruits of your righteousness"; cited in *Instructio Pastoralis Eystettensis*, Titulus XIII, cap. 7, § 1. Book p. 231 (Leaf p235).
-[^239]: St. Bernard of Clairvaux, *De Consideratione ad Eugenium Papam*, Book I, cap. 7: "Consideratio regit affectus, dirigit actus, corrigit excessus, componit mores, vitam honestat et ordinat" ("Meditation / consideration rules the affections, directs actions, corrects excesses, composes morals, and orders life"). Book p. 231 (Leaf p235).
-[^240]: St. John Chrysostom, *Homilia in Psalmum 48 [Ps. 47 LXX]*, no. 1; *Homily 3 on the Gospel of Matthew*, and *Homily 3 on Lazarus and the Rich Man*: on the absolute necessity of daily spiritual reading of Holy Scripture for salvation, both for clergy and laity living in the world. Book p. 232 (Leaf p236).
-[^241]: Malachi 2:7 [printed citation: *Гл. I. 7.*]: "For the priest's lips should keep knowledge, and they should seek the law at his mouth: for he is the messenger of the Lord of hosts" (*Понеже устнѣ ієреовѣ сохранятъ разумъ, и закона взыщутъ отъ устъ єго, яко Ангелъ Господа Вседержителя єсть* / *Labia enim sacerdotis custodient scientiam, et legem requirent ex ore ejus: quia angelus Domini exercituum est*). Book p. 234 (Leaf p238).
-[^242]: 1 Timothy 4:15–16: "Meditate upon these things; give thyself wholly to them; that thy profiting may appear to all. Take heed unto thyself, and unto the doctrine; continue in them: for in doing this thou shalt both save thyself, and them that hear thee" (*Внимай себѣ и ученію: и пребывай въ нихъ: сія бо творя и самъ спасешися и послушающія тебе* / *Attende tibi, et doctrinae: insta in illis. Hoc enim faciens, et teipsum salvum facies, et eos qui te audiunt*). Book p. 234 (Leaf p238).
-[^243]: Titus 1:9: "Holding fast the faithful word as he hath been taught, that he may be able by sound doctrine both to exhort and to convince the gainsayers" (*Да силенъ будетъ и утѣшати въ здравѣмъ ученіи и противящіяся обличати* / *Ut potens sit exhortari in doctrina sana, et eos qui contradicunt, arguere*). Book p. 234 (Leaf p238).
-[^244]: Hosea 4:6: "Because thou hast rejected knowledge, I will also reject thee, that thou shalt be no priest to Me: seeing thou hast forgotten the law of thy God, I will also forget thy children" (*Яко ты умнѣніе отверглъ єси, отвергу и азъ тебе, еже не жречествовати мнѣ* / *Quia tu scientiam repulisti, repellam te, ne sacerdotio fungaris mihi*). Book p. 234 (Leaf p238).
-[^245]: St. Ambrose of Milan, *De Fide ad Gratianum Augustum*, Lib. III: calling Holy Scripture the priestly book par excellence. Book p. 234 (Leaf p238).
-[^246]: Origen, *Homilia 7 in Exodum*: comparing Holy Scripture unto the celestial manna containing in itself all heavenly savor and sweetness. Book p. 234 (Leaf p238).
-[^247]: Council of Trent, Session V (June 17, 1546), *Decretum secundum: Super lectione et praedicatione*, cap. 1: commanding the study and lecturing on Holy Scripture so that the celestial treasure of the sacred books may not lie neglected. Book p. 234 (Leaf p238).
-[^248]: Appendix XXXVI (*Додатокъ ч. 36*) of the Synodal Acts: Official Directory and Ceremonial Rubrics of the Greek Catholic Church in Galicia (*Ordo celebrationis officiorum divinorum et caeremoniarum*), compiled and approved by the Provincial Synod of 1891. Book p. 235 (Leaf p239).
-[^249]: Historical pastoral legislation on decanal and parish libraries in Galicia: Pastoral Letter of Cardinal Mykhailo Levytsky, Metropolitan of Lviv, dated May 4, 1826, No. 1995; and Circular Ordinance of the Greek Catholic Metropolitan Consistory of Lviv, dated January 20, 1876, No. 273. Book p. 236 (Leaf p240).
-[^250]: Appendix XXXVII (*Додатокъ ч. 37*) of the Synodal Acts: Pastoral Letter of the Greek Catholic Metropolitan Consistory of Lviv to the Archeparchial Clergy regarding the Rules for Parochial Competition (*Concursus*), dated January 20, 1890, No. 1018/1889. Book p. 237 (Leaf p241).
 [^253]: St. Basil the Great, *Homily I On Fasting* (*De Jejunio*, Hom. I; PG 31, 163–198). The Synod cites St. Basil's classic patristic admonition that bodily fasting from food is rendered void without spiritual abstinence from malice, anger, and injustice.
 [^254]: Heb. 9:12 — "Neither by the blood of goats and calves, but by His own blood He entered in once into the Holy Place, having obtained eternal redemption for us."
 [^255]: St. John Chrysostom, *Homily III on the Epistle to the Philippians*, no. 4 (PG 62, 203–206).
