@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-10-08T09:50:10.219480+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 84,
+  "target_file": "1888_violakis_typikon_cohort84_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort84_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort84_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort84_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort84_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 5,
+      "definition_markers_count": 5,
+      "text_markers": [
+        "[^475]",
+        "[^476]",
+        "[^477]",
+        "[^478]",
+        "[^479]"
+      ],
+      "definition_markers": [
+        "[^475]",
+        "[^476]",
+        "[^477]",
+        "[^478]",
+        "[^479]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort84_raw_draft.md",
+      "passed": true,
+      "paragraphs": 164,
+      "headings_count": 28,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Apodosis of Pascha Liturgy (§ 37) and Thursday of the Ascension: Vespers (§ 38) and Matins (§ 39)"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Ἡ Ἀπόδοσις τοῦ Πάσχα (Λειτουργία) καὶ Τῇ Πέμπτῃ τῆς Ἀναλήψεως (§§ 37–39) [Violakis, p. 816]"
+        },
+        {
+          "line": 19,
+          "level": 1,
+          "title": "Apodosis of Pascha Liturgy (§ 37) and Thursday of the Ascension: Vespers (§ 38) and Matins (§ 39)"
+        },
+        {
+          "line": 21,
+          "level": 2,
+          "title": "Apodosis of Pascha Liturgy (§ 37) and Thursday of the Ascension: Vespers (§ 38) and Matins (§ 39) [Violakis, p. 817]"
+        },
+        {
+          "line": 25,
+          "level": 1,
+          "title": "THE THURSDAY OF THE ASCENSION"
+        },
+        {
+          "line": 26,
+          "level": 2,
+          "title": "(Great Vespers and Matins of the Ascension)"
+        },
+        {
+          "line": 36,
+          "level": 1,
+          "title": "Thursday of the Ascension: Divine Liturgy Antiphons (§ 40)"
+        },
+        {
+          "line": 38,
+          "level": 2,
+          "title": "Τῇ Πέμπτῃ τῆς Ἀναλήψεως: Τὰ Ἀντίφωνα τῆς Λειτουργίας (§ 40) [Violakis, p. 818]"
+        },
+        {
+          "line": 83,
+          "level": 1,
+          "title": "Thursday of the Ascension: Matins Concluded (§ 39) and Divine Liturgy Antiphons (§ 40)"
+        },
+        {
+          "line": 85,
+          "level": 2,
+          "title": "Thursday of the Ascension: Matins Concluded (§ 39) and Divine Liturgy Antiphons (§ 40) [Violakis, p. 819]"
+        },
+        {
+          "line": 143,
+          "level": 1,
+          "title": "Ascension Liturgy Concluded (§ 40) and The Seventh Sunday: Holy Fathers of the First Synod at Nicea (§§ 41–42)"
+        },
+        {
+          "line": 145,
+          "level": 2,
+          "title": "Ἡ Ἀνάληψις (Τέλος) καὶ Τῇ Ζ΄ Κυριακῇ: Τῶν Ἁγίων Πατέρων τῆς ἐν Νικαίᾳ Α΄ Συνόδου (§§ 40–42) [Violakis, p. 820]"
+        },
+        {
+          "line": 163,
+          "level": 1,
+          "title": "Ascension Liturgy Concluded (§ 40) and The Seventh Sunday: Holy Fathers of the First Synod at Nicea (§§ 41–42)"
+        },
+        {
+          "line": 165,
+          "level": 2,
+          "title": "Ascension Liturgy Concluded (§ 40) and The Seventh Sunday: Holy Fathers of the First Synod at Nicea (§§ 41–42) [Violakis, p. 821]"
+        },
+        {
+          "line": 169,
+          "level": 1,
+          "title": "THE SEVENTH SUNDAY: THE HOLY FATHERS OF THE FIRST SYNOD AT NICEA"
+        }
+      ],
+      "numbered_items_count": 22,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 831,
+        "max_leaf": 840
+      },
+      "anomalies": []
+    }
+  }
+}
