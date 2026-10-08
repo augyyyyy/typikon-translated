@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-10-08T10:36:36.380702+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 89,
+  "target_file": "1888_violakis_typikon_cohort89_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort89_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort89_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort89_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort89_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 5,
+      "definition_markers_count": 5,
+      "text_markers": [
+        "[^500]",
+        "[^501]",
+        "[^502]",
+        "[^503]",
+        "[^504]"
+      ],
+      "definition_markers": [
+        "[^500]",
+        "[^501]",
+        "[^502]",
+        "[^503]",
+        "[^504]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort89_raw_draft.md",
+      "passed": true,
+      "paragraphs": 82,
+      "headings_count": 22,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Appendix: The Ceremony of the Consecration of a Church (Preparations and Pre-Vesperal Rites)"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Ἡ Τελετὴ τῶν Ἐγκαινίων (Προπαρασκευαὶ καὶ Προερτόδιοι Τάξεις) [Violakis, p. 866]"
+        },
+        {
+          "line": 11,
+          "level": 3,
+          "title": "Η ΤΕΛΕΤΗ ΤΩΝ ΕΓΚΑΙΝΙΩΝ"
+        },
+        {
+          "line": 21,
+          "level": 1,
+          "title": "Appendix: The Ceremony of the Consecration of a Church (Preparations and Pre-Vesperal Rites)"
+        },
+        {
+          "line": 23,
+          "level": 2,
+          "title": "The Ceremony of the Consecration of a Church (Preliminary Preparations and Pre-Vesperal Rites) [Violakis, p. 867]"
+        },
+        {
+          "line": 29,
+          "level": 3,
+          "title": "THE CEREMONY OF THE CONSECRATION"
+        },
+        {
+          "line": 42,
+          "level": 1,
+          "title": "Appendix: The Ceremony of the Consecration of a Church (Vesting, Wax-Mastic, and Procession)"
+        },
+        {
+          "line": 44,
+          "level": 2,
+          "title": "Ἡ Τελετὴ τῶν Ἐγκαινίων (Συνέχεια: Ἀμφίεσις, Κηρομαστίχη, καὶ Λιτανεία) [Violakis, p. 868]"
+        },
+        {
+          "line": 58,
+          "level": 1,
+          "title": "Appendix: The Ceremony of the Consecration of a Church (Vesting, Wax-Mastic, and Procession)"
+        },
+        {
+          "line": 60,
+          "level": 2,
+          "title": "The Ceremony of the Consecration of a Church (Vesting, Wax-Mastic Preparation, and Procession) [Violakis, p. 869]"
+        },
+        {
+          "line": 78,
+          "level": 1,
+          "title": "Appendix: The Ceremony of the Consecration of a Church (Triple Procession, Portal Dialogue, and Deposition)"
+        },
+        {
+          "line": 80,
+          "level": 2,
+          "title": "Ἡ Τελετὴ τῶν Ἐγκαινίων (Τριπλῆ Λιτανεία, Εἴσοδος, καὶ Κατάθεσις) [Violakis, p. 870]"
+        },
+        {
+          "line": 94,
+          "level": 1,
+          "title": "Appendix: The Ceremony of the Consecration of a Church (Triple Procession, Portal Dialogue, and Deposition)"
+        },
+        {
+          "line": 96,
+          "level": 2,
+          "title": "The Ceremony of the Consecration of a Church (Triple Procession, Entrance Dialogue, and Deposition of Relics) [Violakis, p. 871]"
+        },
+        {
+          "line": 112,
+          "level": 1,
+          "title": "Appendix: The Ceremony of the Consecration of a Church (Savvanon Vesting, Prayers, and Ablution)"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 881,
+        "max_leaf": 890
+      },
+      "anomalies": []
+    }
+  }
+}
