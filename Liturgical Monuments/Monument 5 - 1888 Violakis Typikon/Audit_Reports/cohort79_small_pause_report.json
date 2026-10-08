@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-10-08T09:03:58.988042+00:00",
+  "timestamp": "2026-10-08T09:08:40.872108+00:00",
   "monument_id": "1888_violakis_typikon",
   "cohort": 79,
-  "target_file": "1888_violakis_typikon_cohort79_raw_draft.md",
+  "target_file": "1888_violakis_typikon_cohort79.md",
   "overall_status": "PASSED",
   "gates": {
     "vocabulary_linter": {
@@ -10,7 +10,7 @@
       "violations": []
     },
     "slop_linter": {
-      "file": "1888_violakis_typikon_cohort79_raw_draft.md",
+      "file": "1888_violakis_typikon_cohort79.md",
       "passed": true,
       "violation_count": 0,
       "violations": []
@@ -20,13 +20,13 @@
       "leaves_checked": 10
     },
     "hieratic_pronouns": {
-      "file": "1888_violakis_typikon_cohort79_raw_draft.md",
+      "file": "1888_violakis_typikon_cohort79.md",
       "passed": true,
       "violations": [],
       "violation_count": 0
     },
     "footnote_symmetry": {
-      "text_file": "1888_violakis_typikon_cohort79_raw_draft.md",
+      "text_file": "1888_violakis_typikon_cohort79.md",
       "footnotes_file": "1888_violakis_typikon_cohort79_footnotes.txt",
       "passed": true,
       "text_markers_count": 5,
@@ -49,7 +49,7 @@
       "orphaned_definitions": []
     },
     "structural_sequence": {
-      "file": "1888_violakis_typikon_cohort79_raw_draft.md",
+      "file": "1888_violakis_typikon_cohort79.md",
       "passed": true,
       "paragraphs": 105,
       "headings_count": 20,

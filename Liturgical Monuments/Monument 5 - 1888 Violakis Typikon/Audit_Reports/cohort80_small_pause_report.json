@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-10-08T09:10:53.698449+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 80,
+  "target_file": "1888_violakis_typikon_cohort80_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort80_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort80_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort80_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort80_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 5,
+      "definition_markers_count": 5,
+      "text_markers": [
+        "[^455]",
+        "[^456]",
+        "[^457]",
+        "[^458]",
+        "[^459]"
+      ],
+      "definition_markers": [
+        "[^455]",
+        "[^456]",
+        "[^457]",
+        "[^458]",
+        "[^459]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort80_raw_draft.md",
+      "passed": true,
+      "paragraphs": 142,
+      "headings_count": 20,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Holy Week: Great and Holy Saturday (Vespers with the Divine Liturgy of Saint Basil the Great Opening) (§ 86 Opening)"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Μέγα Σάββατον: Ὁ Ἑσπερινὸς μετὰ τῆς Λειτουργίας τοῦ Μεγάλου Βασιλείου (Ἀρχή) (§ 86 Ἀρχή) [Violakis, p. 776]"
+        },
+        {
+          "line": 24,
+          "level": 1,
+          "title": "Holy Week: Great and Holy Saturday (Vespers with the Divine Liturgy of Saint Basil the Great Opening) (§ 86 Opening)"
+        },
+        {
+          "line": 26,
+          "level": 2,
+          "title": "Great and Holy Saturday: Vespers with the Divine Liturgy of Saint Basil the Great (Opening) (§ 86 Opening) [Violakis, p. 777]"
+        },
+        {
+          "line": 58,
+          "level": 1,
+          "title": "Holy Week: Great and Holy Saturday (Vespers with the Divine Liturgy of Saint Basil the Great Continued) (§ 86 Continued)"
+        },
+        {
+          "line": 60,
+          "level": 2,
+          "title": "Μέγα Σάββατον: Ὁ Ἑσπερινὸς μετὰ τῆς Λειτουργίας τοῦ Μεγάλου Βασιλείου (Συνέχεια) (§ 86 Συνέχεια) [Violakis, p. 778]"
+        },
+        {
+          "line": 70,
+          "level": 1,
+          "title": "Holy Week: Great and Holy Saturday (Vespers with the Divine Liturgy of Saint Basil the Great Continued) (§ 86 Continued)"
+        },
+        {
+          "line": 72,
+          "level": 2,
+          "title": "Great and Holy Saturday: Vespers with the Divine Liturgy of Saint Basil the Great (Continued) (§ 86 Continued) [Violakis, p. 779]"
+        },
+        {
+          "line": 104,
+          "level": 1,
+          "title": "Holy Week: Great and Holy Saturday (Vespers with the Divine Liturgy of Saint Basil the Great Concluded) (§ 86 Concluded)"
+        },
+        {
+          "line": 106,
+          "level": 2,
+          "title": "Μέγα Σάββατον: Ὁ Ἑσπερινὸς μετὰ τῆς Λειτουργίας τοῦ Μεγάλου Βασιλείου (Τέλος) (§ 86 Τέλος) [Violakis, p. 780]"
+        },
+        {
+          "line": 115,
+          "level": 1,
+          "title": "Holy Week: Great and Holy Saturday (Vespers with the Divine Liturgy of Saint Basil the Great Concluded) (§ 86 Concluded)"
+        },
+        {
+          "line": 117,
+          "level": 2,
+          "title": "Great and Holy Saturday: Vespers with the Divine Liturgy of Saint Basil the Great (Concluded) (§ 86 Concluded) [Violakis, p. 781]"
+        },
+        {
+          "line": 133,
+          "level": 1,
+          "title": "Pentekostarion: The Sunday of Holy Pascha (The Midnight Office Opening)"
+        },
+        {
+          "line": 135,
+          "level": 2,
+          "title": "Τυπικὴ Διάταξις τῶν Ἀκολουθιῶν τοῦ Πεντηκοσταρίου: Τῇ Κυριακῇ τοῦ Πάσχα (Μεσονυκτικόν) [Violakis, p. 782]"
+        },
+        {
+          "line": 153,
+          "level": 1,
+          "title": "Pentekostarion: The Sunday of Holy Pascha (The Midnight Office Opening)"
+        }
+      ],
+      "numbered_items_count": 29,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 791,
+        "max_leaf": 800
+      },
+      "anomalies": []
+    }
+  }
+}
