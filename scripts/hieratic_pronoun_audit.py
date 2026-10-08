@@ -31,6 +31,7 @@ REGISTRY_FILE = PROJECT_ROOT / "Liturgical Monuments" / "codex_registry.json"
 
 HUMAN_INDICATORS = re.compile(
     r'\b(?:Priest|priest|Deacon|deacon|Reader|reader|Bishop|bishop|Metropolitan|'
+    r'Patriarch|patriarch|Patriarchal|patriarchal|Archimandrite|archimandrite|Hierodeacon|hierodeacon|Primikirios|primikirios|'
     r'Archbishop|Archpriest|Protodeacon|Hierarch|Superior|Abbot|celebrant|'
     r'saint|Saint|Prophet|prophet|Apostle|apostle|Martyr|martyr|Hieromartyr|'
     r'Monk|monk|Father|fathers|Synod|Dolnytsky|Mark|Sabbas|Basil|Chrysostom|'
