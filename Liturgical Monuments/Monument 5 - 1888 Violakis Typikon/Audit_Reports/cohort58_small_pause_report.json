@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-10-08T05:52:22.166593+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 58,
+  "target_file": "1888_violakis_typikon_cohort58_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort58_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort58_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort58_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort58_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 5,
+      "definition_markers_count": 5,
+      "text_markers": [
+        "[^345]",
+        "[^346]",
+        "[^347]",
+        "[^348]",
+        "[^349]"
+      ],
+      "definition_markers": [
+        "[^345]",
+        "[^346]",
+        "[^347]",
+        "[^348]",
+        "[^349]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort58_raw_draft.md",
+      "passed": true,
+      "paragraphs": 97,
+      "headings_count": 44,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Month of May: Holy Apostle and Evangelist John the Theologian (Situation VI Concl. § 16 Concl., Situation VII Opening §§ 17–18 Opening)"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Τῇ Η΄: Τοῦ Ἁγίου Ἀποστόλου καὶ Εὐαγγελιστοῦ Ἰωάννου τοῦ Θεολόγου (Περίπτωσις Ϛ΄ Τέλος § 16 Τέλος, Περίπτωσις Ζ΄ Ἀρχὴ §§ 17–18 Ἀρχὴ) [Violakis, p. 556]"
+        },
+        {
+          "line": 9,
+          "level": 3,
+          "title": "Ζ΄."
+        },
+        {
+          "line": 17,
+          "level": 1,
+          "title": "Month of May: Holy Apostle and Evangelist John the Theologian (Situation Six Concl. § 16 Concl., Situation Seven Opening §§ 17–18 Opening)"
+        },
+        {
+          "line": 19,
+          "level": 2,
+          "title": "May 8: The Holy Apostle and Evangelist John the Theologian (Situation Six Concl. § 16 Concl., Situation Seven Opening §§ 17–18 Opening) [Violakis, p. 557]"
+        },
+        {
+          "line": 23,
+          "level": 3,
+          "title": "SITUATION SEVEN"
+        },
+        {
+          "line": 31,
+          "level": 1,
+          "title": "Month of May: Holy Apostle and Evangelist John the Theologian (Situation VII Concl. §§ 18 Concl.–19, Situation VIII § 20); Holy Equals-to-the-Apostles Constantine and Helen (Situation I Opening § 1 Opening)"
+        },
+        {
+          "line": 33,
+          "level": 2,
+          "title": "Τῇ Η΄: Τοῦ Ἁγίου Ἀποστόλου καὶ Εὐαγγελιστοῦ Ἰωάννου τοῦ Θεολόγου (Περίπτωσις Ζ΄ Τέλος §§ 18 Τέλος–19, Περίπτωσις Η΄ § 20)· Τῇ ΚΑ΄: Τῶν Ἁγίων Βασιλέων καὶ Ἰσαποστόλων Κωνσταντίνου καὶ Ἑλένης (Περίπτωσις Α΄ Ἀρχὴ § 1 Ἀρχὴ) [Violakis, p. 558]"
+        },
+        {
+          "line": 39,
+          "level": 3,
+          "title": "Η΄."
+        },
+        {
+          "line": 45,
+          "level": 2,
+          "title": "Τῇ ΚΑ΄: Τῶν Ἁγίων Βασιλέων καὶ Ἰσαποστόλων Κωνσταντίνου καὶ Ἑλένης"
+        },
+        {
+          "line": 47,
+          "level": 3,
+          "title": "ΠΕΡΙΠΤΩΣΕΙΣ"
+        },
+        {
+          "line": 48,
+          "level": 3,
+          "title": "Α΄."
+        },
+        {
+          "line": 54,
+          "level": 1,
+          "title": "Month of May: Holy Apostle and Evangelist John the Theologian (Situation Seven Concl. §§ 18 Concl.–19, Situation Eight § 20); Holy Equals-to-the-Apostles Constantine and Helen (Situation One Opening § 1 Opening)"
+        },
+        {
+          "line": 56,
+          "level": 2,
+          "title": "May 8: The Holy Apostle and Evangelist John the Theologian (Situation Seven Concl. §§ 18 Concl.–19, Situation Eight § 20); May 21: The Holy Glorious Kings and Equals-to-the-Apostles Constantine and Helen (Situation One Opening § 1 Opening) [Violakis, p. 559]"
+        },
+        {
+          "line": 62,
+          "level": 3,
+          "title": "SITUATION EIGHT"
+        }
+      ],
+      "numbered_items_count": 31,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 571,
+        "max_leaf": 580
+      },
+      "anomalies": []
+    }
+  }
+}
