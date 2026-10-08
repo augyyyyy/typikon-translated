@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-10-08T08:17:31.866437+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 74,
+  "target_file": "1888_violakis_typikon_cohort74_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort74_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort74_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort74_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort74_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 5,
+      "definition_markers_count": 5,
+      "text_markers": [
+        "[^425]",
+        "[^426]",
+        "[^427]",
+        "[^428]",
+        "[^429]"
+      ],
+      "definition_markers": [
+        "[^425]",
+        "[^426]",
+        "[^427]",
+        "[^428]",
+        "[^429]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort74_raw_draft.md",
+      "passed": true,
+      "paragraphs": 114,
+      "headings_count": 21,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Great Lent: Third Sunday Concluded, Fourth Week, and Fourth Sunday of Lent (§§ 40 Concluded, 41)"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Τέλος τῆς Γ΄ Κυριακῆς, Μεσοβδόμαδον καὶ Κυριακὴ Δ΄ τῶν Νηστειῶν (Ἰωάννου τῆς Κλίμακος) (§§ 40 Τέλος, 41) [Violakis, p. 716]"
+        },
+        {
+          "line": 32,
+          "level": 1,
+          "title": "Great Lent: Third Sunday Concluded, Fourth Week, and Fourth Sunday of Lent (§§ 40 Concluded, 41, 42 Opening)"
+        },
+        {
+          "line": 34,
+          "level": 2,
+          "title": "Third Sunday of Lent Concluded, Fourth Week, and Fourth Sunday of Lent (St. John of the Ladder) Opening (§§ 40 Concluded, 41, 42 Opening) [Violakis, p. 717]"
+        },
+        {
+          "line": 36,
+          "level": 3,
+          "title": "Third Antiphon"
+        },
+        {
+          "line": 63,
+          "level": 1,
+          "title": "Great Lent: Fourth Sunday of Lent Matins Concluded and Divine Liturgy (§§ 42, 43)"
+        },
+        {
+          "line": 65,
+          "level": 2,
+          "title": "Τέλος τοῦ Ὄρθρου καὶ Θεία Λειτουργία τῆς Δ΄ Κυριακῆς τῶν Νηστειῶν (§§ 42, 43) [Violakis, p. 718]"
+        },
+        {
+          "line": 82,
+          "level": 1,
+          "title": "Great Lent: Fourth Sunday of Lent Matins Concluded and Divine Liturgy (§§ 42 Concluded, 43, 44 Opening)"
+        },
+        {
+          "line": 84,
+          "level": 2,
+          "title": "Fourth Sunday of Lent Matins Concluded and Divine Liturgy (§§ 42 Concluded, 43, 44 Opening) [Violakis, p. 719]"
+        },
+        {
+          "line": 107,
+          "level": 1,
+          "title": "Great Lent: Wednesday of Fifth Week (Presanctified Liturgy, Great Canon at Compline) and Thursday Matins Opening (§§ 44, 45, 46 Opening)"
+        },
+        {
+          "line": 109,
+          "level": 2,
+          "title": "Τετάρτη τῆς Ε΄ Ἑβδομάδος (Προηγιασμένη, Μέγας Κανὼν μετὰ Ἀποδείπνου) καὶ Ὄρθρος Πέμπτης (§§ 44, 45, 46 Ἀρχή) [Violakis, p. 720]"
+        },
+        {
+          "line": 123,
+          "level": 1,
+          "title": "Great Lent: Wednesday of Fifth Week (Presanctified Liturgy, Great Canon at Compline) and Thursday Matins Opening (§§ 44 Concluded, 45, 46 Opening)"
+        },
+        {
+          "line": 125,
+          "level": 2,
+          "title": "Wednesday of Fifth Week (Presanctified Liturgy, Great Canon at Compline) and Thursday Matins Opening (§§ 44 Concluded, 45, 46 Opening) [Violakis, p. 721]"
+        },
+        {
+          "line": 139,
+          "level": 1,
+          "title": "Great Lent: Thursday of Fifth Week Matins Concluded, Thursday Vespers, and The Great Canon with Matins Opening (§§ 46 Concluded, 47, 48 Opening)"
+        },
+        {
+          "line": 141,
+          "level": 2,
+          "title": "Τέλος τοῦ Ὄρθρου τῆς Πέμπτης, Ἑσπερινὸς καὶ Ὄρθρος τοῦ Μεγάλου Κανόνος (§§ 46 Τέλος, 47, 48 Ἀρχή) [Violakis, p. 722]"
+        }
+      ],
+      "numbered_items_count": 23,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 731,
+        "max_leaf": 740
+      },
+      "anomalies": []
+    }
+  }
+}
