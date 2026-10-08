@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-10-08T02:30:49.586825+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 32,
+  "target_file": "1888_violakis_typikon_cohort32.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort32.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort32.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort32.md",
+      "footnotes_file": "1888_violakis_typikon_cohort32_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 5,
+      "definition_markers_count": 5,
+      "text_markers": [
+        "[^215]",
+        "[^216]",
+        "[^217]",
+        "[^218]",
+        "[^219]"
+      ],
+      "definition_markers": [
+        "[^215]",
+        "[^216]",
+        "[^217]",
+        "[^218]",
+        "[^219]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort32.md",
+      "passed": true,
+      "paragraphs": 134,
+      "headings_count": 38,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Month of January: January 1, Circumcision of Christ & St. Basil the Great"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Ἡ Περιτομὴ καὶ ὁ Ἅγιος Βασίλειος (Συνέχεια) [Violakis, p. 296]"
+        },
+        {
+          "line": 14,
+          "level": 3,
+          "title": "᾿Αντίφωνον α'"
+        },
+        {
+          "line": 23,
+          "level": 3,
+          "title": "᾿Αντίφωνον β'"
+        },
+        {
+          "line": 36,
+          "level": 1,
+          "title": "Month of January: January 1, Circumcision of Christ & St. Basil the Great"
+        },
+        {
+          "line": 38,
+          "level": 2,
+          "title": "Circumcision of Christ & St. Basil the Great (Continued) [Violakis, p. 297]"
+        },
+        {
+          "line": 47,
+          "level": 3,
+          "title": "First Antiphon"
+        },
+        {
+          "line": 56,
+          "level": 3,
+          "title": "Second Antiphon"
+        },
+        {
+          "line": 69,
+          "level": 1,
+          "title": "Month of January: January 1, Circumcision of Christ & St. Basil the Great"
+        },
+        {
+          "line": 71,
+          "level": 2,
+          "title": "Θεία Λειτουργία καὶ ἡ Ἑορτὴ ἐν Κυριακῇ [Violakis, p. 298]"
+        },
+        {
+          "line": 73,
+          "level": 3,
+          "title": "᾿Αντίφωνον γ'"
+        },
+        {
+          "line": 91,
+          "level": 1,
+          "title": "Month of January: January 1, Circumcision of Christ & St. Basil the Great"
+        },
+        {
+          "line": 93,
+          "level": 2,
+          "title": "Divine Liturgy and the Feast on Sunday [Violakis, p. 299]"
+        },
+        {
+          "line": 95,
+          "level": 3,
+          "title": "Third Antiphon"
+        },
+        {
+          "line": 112,
+          "level": 1,
+          "title": "Sunday before Theophany: Situation One (January 2, 3, or 4)"
+        }
+      ],
+      "numbered_items_count": 22,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 311,
+        "max_leaf": 320
+      },
+      "anomalies": []
+    }
+  }
+}
