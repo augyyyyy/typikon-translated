@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-10-08T11:13:52.033472+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 94,
+  "target_file": "1888_violakis_typikon_cohort94_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort94_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort94_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort94_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort94_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 5,
+      "definition_markers_count": 5,
+      "text_markers": [
+        "[^525]",
+        "[^526]",
+        "[^527]",
+        "[^528]",
+        "[^529]"
+      ],
+      "definition_markers": [
+        "[^525]",
+        "[^526]",
+        "[^527]",
+        "[^528]",
+        "[^529]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort94_raw_draft.md",
+      "passed": true,
+      "paragraphs": 131,
+      "headings_count": 55,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Appendix: The Funeral Service for the Deceased"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Ἡ Νεκρώσιμος Ἀκολουθία: Εὐλογητάρια καὶ Ἰδιόμελα (Μέρος Δ΄) [Violakis, p. 916]"
+        },
+        {
+          "line": 7,
+          "level": 3,
+          "title": "[ΣΥΝΕΧΕΙΑ ΕΥΛΟΓΗΤΑΡΙΩΝ ΚΑΙ ΝΕΚΡΩΣΙΜΑ ΙΔΙΟΜΕΛΑ ΤΩΝ ΟΚΤΩ ΗΧΩΝ]"
+        },
+        {
+          "line": 13,
+          "level": 4,
+          "title": "Ἦχος α΄."
+        },
+        {
+          "line": 16,
+          "level": 4,
+          "title": "Ἦχος β΄."
+        },
+        {
+          "line": 19,
+          "level": 4,
+          "title": "Ἦχος γ΄."
+        },
+        {
+          "line": 22,
+          "level": 4,
+          "title": "Ἦχος δ΄."
+        },
+        {
+          "line": 31,
+          "level": 1,
+          "title": "Appendix: The Funeral Service for the Deceased"
+        },
+        {
+          "line": 33,
+          "level": 2,
+          "title": "The Funeral Office: Evlogitaria and Idiomela of the Eight Tones (Part 4) [Violakis, p. 917]"
+        },
+        {
+          "line": 35,
+          "level": 3,
+          "title": "CONCLUSION OF EVLOGITARIA AND FUNERAL IDIOMELA (TONES 1–4)"
+        },
+        {
+          "line": 43,
+          "level": 4,
+          "title": "Tone 1"
+        },
+        {
+          "line": 46,
+          "level": 4,
+          "title": "Tone 2"
+        },
+        {
+          "line": 49,
+          "level": 4,
+          "title": "Tone 3"
+        },
+        {
+          "line": 52,
+          "level": 4,
+          "title": "Tone 4"
+        },
+        {
+          "line": 62,
+          "level": 1,
+          "title": "Appendix: The Funeral Service for the Deceased"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 931,
+        "max_leaf": 940
+      },
+      "anomalies": []
+    }
+  }
+}
