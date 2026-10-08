@@ -1,0 +1,147 @@
+{
+  "timestamp": "2026-10-08T12:13:12.705030+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 102,
+  "target_file": "1888_violakis_typikon_cohort102_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort102_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort102_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort102_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort102_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 7,
+      "definition_markers_count": 7,
+      "text_markers": [
+        "[^566]",
+        "[^567]",
+        "[^568]",
+        "[^569]",
+        "[^570]",
+        "[^571]",
+        "[^572]"
+      ],
+      "definition_markers": [
+        "[^566]",
+        "[^567]",
+        "[^568]",
+        "[^569]",
+        "[^570]",
+        "[^571]",
+        "[^572]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort102_raw_draft.md",
+      "passed": true,
+      "paragraphs": 94,
+      "headings_count": 20,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Agion Mandylion Concluded – Agion Potirion – Agion Vima Part 1) [Demos, p. 996 / TD-17]"
+        },
+        {
+          "line": 21,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 23,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Agion Vima Concluded – Agios – Agripnia – Aer – Akathistos) [Demos, p. 997 / TD-18]"
+        },
+        {
+          "line": 41,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 43,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Akathist Hymn Continued) [Demos, p. 998 / TD-19]"
+        },
+        {
+          "line": 63,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 65,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Akathist Concluded – Akoluthia – Alleluia Part 1) [Demos, p. 999 / TD-20]"
+        },
+        {
+          "line": 81,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 83,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Alleluia Concluded – Altar – Altar Table – Amfion) [Demos, p. 1000 / TD-21]"
+        },
+        {
+          "line": 99,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 101,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Amomos – Amvon – Anaginoskomena Part 1) [Demos, p. 1001 / TD-22]"
+        },
+        {
+          "line": 117,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        },
+        {
+          "line": 119,
+          "level": 2,
+          "title": "Extended Dictionary of Typikon Related Terms (Anaginoskomena Continued – Psalm 151 – Odes) [Demos, p. 1002 / TD-23]"
+        },
+        {
+          "line": 135,
+          "level": 1,
+          "title": "Appendix: Dictionary of Terms Related to the Typikon"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 1011,
+        "max_leaf": 1020
+      },
+      "anomalies": []
+    }
+  }
+}

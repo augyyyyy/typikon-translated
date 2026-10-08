@@ -103,12 +103,13 @@
     98,
     99,
     100,
-    101
+    101,
+    102
   ],
-  "translated_pages": 1010,
-  "remaining_pages": 160,
-  "current_cohort": 102,
-  "current_cohort_range": "pp. 1011-1020 (leaves p1011-p1020)",
+  "translated_pages": 1020,
+  "remaining_pages": 150,
+  "current_cohort": 103,
+  "current_cohort_range": "pp. 1021-1030 (leaves p1021-p1030)",
   "small_pause_gate_status": "READY_FOR_STARTUP_PROMPT",
   "active_blockers": []
 }
