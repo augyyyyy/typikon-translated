@@ -55,7 +55,8 @@ def extract_accounted_leaves(text: str) -> Set[int]:
 def audit_structure(
     filepath: Path,
     prev_filepath: Optional[Path] = None,
-    cohort_num: Optional[int] = None
+    cohort_num: Optional[int] = None,
+    monument_id: Optional[str] = None
 ) -> Dict[str, Any]:
     if not filepath.exists():
         raise FileNotFoundError(f"Target file not found: {filepath}")
@@ -65,8 +66,32 @@ def audit_structure(
 
     lines = content.splitlines()
 
+    # Determine if monument is bilingual (e.g. Greek odd leaves, English even leaves)
+    is_bilingual = False
+    resolved_monument = monument_id
+    if not resolved_monument:
+        candidate = filepath.name.split("_cohort")[0]
+        if candidate:
+            resolved_monument = candidate
+
+    if REGISTRY_FILE.exists() and resolved_monument:
+        try:
+            with open(REGISTRY_FILE, "r", encoding="utf-8") as rf:
+                reg_data = json.load(rf)
+            mon_entry = reg_data.get("monuments", {}).get(resolved_monument, {})
+            lang = mon_entry.get("source_language", "")
+            if "bilingual" in lang.lower():
+                is_bilingual = True
+        except (KeyError, json.JSONDecodeError, OSError):
+            pass
+    if "1888_violakis" in filepath.name:
+        is_bilingual = True
+
     headings: List[Dict[str, Any]] = []
     numbered_items: List[int] = []
+    odd_numbered_items: List[int] = []
+    even_numbered_items: List[int] = []
+    current_leaf: Optional[int] = None
     paragraph_count = 0
     anomalies: List[str] = []
 
@@ -75,6 +100,11 @@ def audit_structure(
         if not s:
             continue
         paragraph_count += 1
+
+        # Track active leaf banner
+        m_leaf = re.match(r"===\s*LEAF\s+p?(\d+)", s, re.IGNORECASE)
+        if m_leaf:
+            current_leaf = int(m_leaf.group(1))
 
         # Check markdown headings
         if s.startswith("#"):
@@ -87,15 +117,35 @@ def audit_structure(
         if m_statute:
             num = int(m_statute.group(1))
             numbered_items.append(num)
+            if current_leaf is not None:
+                if current_leaf % 2 == 1:
+                    odd_numbered_items.append(num)
+                else:
+                    even_numbered_items.append(num)
 
     # Check numbering continuity in simple sequential runs
     breaks = []
-    for i in range(len(numbered_items) - 1):
-        curr_n = numbered_items[i]
-        next_n = numbered_items[i + 1]
-        # If numbers ascend but skip (e.g. 1 -> 3)
-        if next_n > curr_n + 1 and next_n < curr_n + 5:
-            breaks.append(f"Jump from {curr_n} to {next_n}")
+    if is_bilingual:
+        # For bilingual interleaved editions (e.g. Violakis), odd leaves are source and even leaves are translation.
+        # Check odd leaves track (source text continuity)
+        for i in range(len(odd_numbered_items) - 1):
+            curr_n = odd_numbered_items[i]
+            next_n = odd_numbered_items[i + 1]
+            if next_n > curr_n + 1 and next_n < curr_n + 5:
+                breaks.append(f"Odd/Source leaf jump from {curr_n} to {next_n}")
+        # Check even leaves track (translation text continuity)
+        for i in range(len(even_numbered_items) - 1):
+            curr_n = even_numbered_items[i]
+            next_n = even_numbered_items[i + 1]
+            if next_n > curr_n + 1 and next_n < curr_n + 5:
+                breaks.append(f"Even/Translation leaf jump from {curr_n} to {next_n}")
+    else:
+        for i in range(len(numbered_items) - 1):
+            curr_n = numbered_items[i]
+            next_n = numbered_items[i + 1]
+            # If numbers ascend but skip (e.g. 1 -> 3)
+            if next_n > curr_n + 1 and next_n < curr_n + 5:
+                breaks.append(f"Jump from {curr_n} to {next_n}")
 
     # Check Leaf Accounting & Continuity
     curr_leaves = extract_accounted_leaves(content)
@@ -191,7 +241,7 @@ def main():
         print("ERROR: Specify --target or (--monument and --cohort)", file=sys.stderr)
         sys.exit(1)
 
-    res = audit_structure(target_path, prev_filepath=prev_path, cohort_num=args.cohort)
+    res = audit_structure(target_path, prev_filepath=prev_path, cohort_num=args.cohort, monument_id=args.monument)
     if args.json:
         print(json.dumps(res, indent=2, ensure_ascii=False))
     else:

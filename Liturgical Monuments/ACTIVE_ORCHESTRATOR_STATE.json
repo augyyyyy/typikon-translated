@@ -23,12 +23,13 @@
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
-  "translated_pages": 210,
-  "remaining_pages": 960,
-  "current_cohort": 22,
-  "current_cohort_range": "pp. 211-220 (leaves p211-p220)",
+  "translated_pages": 220,
+  "remaining_pages": 950,
+  "current_cohort": 23,
+  "current_cohort_range": "pp. 221-230 (leaves p221-p230)",
   "small_pause_gate_status": "AWAITING_SUBAGENT_EXECUTION",
   "active_blockers": []
 }

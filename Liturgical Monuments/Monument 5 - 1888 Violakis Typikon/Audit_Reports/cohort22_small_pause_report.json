@@ -1,0 +1,120 @@
+{
+  "timestamp": "2026-10-08T01:09:10.798824+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 22,
+  "target_file": "1888_violakis_typikon_cohort22_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort22_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort22_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort22_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort22_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 6,
+      "definition_markers_count": 6,
+      "text_markers": [
+        "[^163]",
+        "[^164]",
+        "[^165]",
+        "[^166]",
+        "[^167]",
+        "[^168]"
+      ],
+      "definition_markers": [
+        "[^163]",
+        "[^164]",
+        "[^165]",
+        "[^166]",
+        "[^167]",
+        "[^168]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort22_raw_draft.md",
+      "passed": true,
+      "paragraphs": 76,
+      "headings_count": 10,
+      "headings": [
+        {
+          "line": 5,
+          "level": 3,
+          "title": "Τῇ Κ΄. Τοῦ ἁγίου Μεγαλομάρτυρος Ἀρτεμίου, τῆς ὁσίας Ματρώνης τῆς Χιοπολίτιδος καὶ τοῦ ὁσίου Πατρὸς ἡμῶν Γερασίμου."
+        },
+        {
+          "line": 17,
+          "level": 3,
+          "title": "The 20th Day. The Holy Great-Martyr Artemios, the Righteous Matrona of Chiopolis, and our Righteous Father Gerasimos."
+        },
+        {
+          "line": 32,
+          "level": 3,
+          "title": "Τῇ ΚΓ΄. Τοῦ ἁγίου Ἀποστόλου Ἰακώβου τοῦ Ἀδελφοθέου."
+        },
+        {
+          "line": 46,
+          "level": 3,
+          "title": "The 23rd Day. The Holy Apostle James [Iakovos], Brother of the Lord."
+        },
+        {
+          "line": 61,
+          "level": 3,
+          "title": "Τῇ ΚΣΤ΄. Τοῦ ἁγίου Μεγαλομάρτυρος Δημητρίου τοῦ Μυροβλήτου. [Ἀνάμνησις τοῦ Μεγάλου Σεισμοῦ ἐν Κωνσταντινουπόλει τὸ 791 ἔτος]"
+        },
+        {
+          "line": 74,
+          "level": 3,
+          "title": "The 26th Day. The Holy Great-Martyr Demetrios the Myrrh-Streamer [and Commemoration of the Great Earthquake at Constantinople in the Year 791].[^166]"
+        },
+        {
+          "line": 114,
+          "level": 1,
+          "title": "ΜΗΝ ΝΟΕΜΒΡΙΟΣ"
+        },
+        {
+          "line": 116,
+          "level": 3,
+          "title": "Τῇ Α΄. Τῶν ἁγίων Ἀναργύρων Κοσμᾶ καὶ Δαμιανοῦ."
+        },
+        {
+          "line": 129,
+          "level": 1,
+          "title": "MONTH OF NOVEMBER"
+        },
+        {
+          "line": 131,
+          "level": 3,
+          "title": "The 1st Day. The Holy Unmercenaries Cosmas and Damian."
+        }
+      ],
+      "numbered_items_count": 36,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 211,
+        "max_leaf": 220
+      },
+      "anomalies": []
+    }
+  }
+}
