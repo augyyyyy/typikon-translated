@@ -65,12 +65,13 @@
     60,
     61,
     62,
-    63
+    63,
+    64
   ],
-  "translated_pages": 630,
-  "remaining_pages": 540,
-  "current_cohort": 64,
-  "current_cohort_range": "pp. 631-640 (leaves p631-p640)",
+  "translated_pages": 640,
+  "remaining_pages": 530,
+  "current_cohort": 65,
+  "current_cohort_range": "pp. 641-650 (leaves p641-p650)",
   "small_pause_gate_status": "AWAITING_SUBAGENT_EXECUTION",
   "active_blockers": []
 }

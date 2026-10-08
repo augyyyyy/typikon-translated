@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-10-08T06:49:19.518830+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 64,
+  "target_file": "1888_violakis_typikon_cohort64_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort64_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort64_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort64_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort64_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 5,
+      "definition_markers_count": 5,
+      "text_markers": [
+        "[^375]",
+        "[^376]",
+        "[^377]",
+        "[^378]",
+        "[^379]"
+      ],
+      "definition_markers": [
+        "[^375]",
+        "[^376]",
+        "[^377]",
+        "[^378]",
+        "[^379]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort64_raw_draft.md",
+      "passed": true,
+      "paragraphs": 84,
+      "headings_count": 27,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Month of August: The Seven Holy Maccabees and the Procession of the Cross (August 1, Heading, §§ 1–3, § 4 Opening)"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Τῇ Α΄: Τῶν ἁγίων ἑπτὰ Μακκαβαίων καὶ ἡ Πρόοδος τοῦ τιμίου καὶ ζωοποιοῦ Σταυροῦ (Ἐπιγραφή, §§ 1–3, § 4 Ἀρχὴ) [Violakis, p. 616]"
+        },
+        {
+          "line": 23,
+          "level": 1,
+          "title": "Month of August: The Seven Holy Maccabees and the Procession of the Cross (August 1, Heading, §§ 1–3, § 4 Opening)"
+        },
+        {
+          "line": 25,
+          "level": 2,
+          "title": "August 1: The Seven Holy Maccabees and the Procession of the Precious and Life-Creating Cross (Heading, §§ 1–3, § 4 Opening) [Violakis, p. 617]"
+        },
+        {
+          "line": 27,
+          "level": 1,
+          "title": "MONTH OF AUGUST"
+        },
+        {
+          "line": 29,
+          "level": 3,
+          "title": "August 1: The Seven Holy Maccabees and the Procession of the Precious and Life-Creating Cross"
+        },
+        {
+          "line": 43,
+          "level": 1,
+          "title": "Month of August: The Seven Holy Maccabees (August 1, Concl. §§ 4–6); Translation of the Relics of Saint Stephen (August 2, Heading, § 1 Opening)"
+        },
+        {
+          "line": 45,
+          "level": 2,
+          "title": "Τῇ Α΄: Ἡ Πρόοδος τοῦ τιμίου καὶ ζωοποιοῦ Σταυροῦ (Τέλος §§ 4–6)· Τῇ Β΄: Ἡ Ἀνακομιδὴ τοῦ λειψάνου τοῦ ἁγίου Πρωτομάρτυρος καὶ Ἀρχιδιακόνου Στεφάνου (Ἐπιγραφή, § 1 Ἀρχὴ) [Violakis, p. 618]"
+        },
+        {
+          "line": 53,
+          "level": 3,
+          "title": "Τῇ Β΄. Ἡ Ἀνακομιδὴ τοῦ λειψάνου τοῦ ἁγίου Πρωτομάρτυρος καὶ Ἀρχιδιακόνου Στεφάνου."
+        },
+        {
+          "line": 59,
+          "level": 1,
+          "title": "Month of August: The Seven Holy Maccabees (August 1, Concl. §§ 4–6); Translation of the Relics of Saint Stephen (August 2, Heading, § 1 Opening)"
+        },
+        {
+          "line": 61,
+          "level": 2,
+          "title": "August 1: The Procession of the Precious Cross (Concl. §§ 4–6); August 2: Translation of the Relics of the Holy Protomartyr and Archdeacon Stephen (Heading, § 1 Opening) [Violakis, p. 619]"
+        },
+        {
+          "line": 69,
+          "level": 3,
+          "title": "August 2: The Translation of the Relics of the Holy Protomartyr and Archdeacon Stephen"
+        },
+        {
+          "line": 75,
+          "level": 1,
+          "title": "Month of August: Translation of the Relics of Saint Stephen (August 2, Concl. § 1); The Order of the Paraklesis (p. 620)"
+        },
+        {
+          "line": 77,
+          "level": 2,
+          "title": "Τῇ Β΄: Ἡ Ἀνακομιδὴ τοῦ λειψάνου τοῦ ἁγίου Πρωτομάρτυρος καὶ Ἀρχιδιακόνου Στεφάνου (Τέλος § 1)· Ἡ Παράκλησις [Violakis, p. 620]"
+        },
+        {
+          "line": 81,
+          "level": 3,
+          "title": "Ἡ Παράκλησις."
+        }
+      ],
+      "numbered_items_count": 25,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 631,
+        "max_leaf": 640
+      },
+      "anomalies": []
+    }
+  }
+}
