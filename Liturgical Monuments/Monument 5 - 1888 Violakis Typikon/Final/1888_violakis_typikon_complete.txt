@@ -6,7 +6,7 @@
 > **Source Codex**: `Historical Typikons/1888-Violakis-Typikon-Bilingual-Greek-English.pdf` (1170 physical pages)  
 > **Translation Standard**: Master Translation Standard (MTS-1)  
 > **Governing Register**: RUBRICAL  
-> **Assembled Cohorts**: ['1888_violakis_typikon_cohort1.md', '1888_violakis_typikon_cohort2.md', '1888_violakis_typikon_cohort3.md', '1888_violakis_typikon_cohort4.md', '1888_violakis_typikon_cohort5.md', '1888_violakis_typikon_cohort6.md', '1888_violakis_typikon_cohort7.md', '1888_violakis_typikon_cohort8.md', '1888_violakis_typikon_cohort9.md', '1888_violakis_typikon_cohort10.md', '1888_violakis_typikon_cohort11.md', '1888_violakis_typikon_cohort12.md', '1888_violakis_typikon_cohort13.md', '1888_violakis_typikon_cohort14.md', '1888_violakis_typikon_cohort15.md', '1888_violakis_typikon_cohort16.md', '1888_violakis_typikon_cohort17.md', '1888_violakis_typikon_cohort18.md', '1888_violakis_typikon_cohort19.md', '1888_violakis_typikon_cohort20.md', '1888_violakis_typikon_cohort21.md', '1888_violakis_typikon_cohort22.md', '1888_violakis_typikon_cohort23.md', '1888_violakis_typikon_cohort24.md', '1888_violakis_typikon_cohort25.md', '1888_violakis_typikon_cohort26.md', '1888_violakis_typikon_cohort27.md', '1888_violakis_typikon_cohort28.md', '1888_violakis_typikon_cohort29.md', '1888_violakis_typikon_cohort30.md', '1888_violakis_typikon_cohort31.md', '1888_violakis_typikon_cohort32.md', '1888_violakis_typikon_cohort33.md', '1888_violakis_typikon_cohort34.md', '1888_violakis_typikon_cohort35.md', '1888_violakis_typikon_cohort36.md', '1888_violakis_typikon_cohort37.md', '1888_violakis_typikon_cohort38.md', '1888_violakis_typikon_cohort39.md', '1888_violakis_typikon_cohort40.md', '1888_violakis_typikon_cohort41.md', '1888_violakis_typikon_cohort42.md', '1888_violakis_typikon_cohort43.md', '1888_violakis_typikon_cohort44.md', '1888_violakis_typikon_cohort45.md', '1888_violakis_typikon_cohort46.md', '1888_violakis_typikon_cohort47.md', '1888_violakis_typikon_cohort48.md', '1888_violakis_typikon_cohort49.md', '1888_violakis_typikon_cohort50.md', '1888_violakis_typikon_cohort51.md', '1888_violakis_typikon_cohort52.md', '1888_violakis_typikon_cohort53.md', '1888_violakis_typikon_cohort54.md', '1888_violakis_typikon_cohort55.md', '1888_violakis_typikon_cohort56.md', '1888_violakis_typikon_cohort57.md', '1888_violakis_typikon_cohort58.md', '1888_violakis_typikon_cohort59.md', '1888_violakis_typikon_cohort60.md', '1888_violakis_typikon_cohort61.md', '1888_violakis_typikon_cohort62.md', '1888_violakis_typikon_cohort63.md', '1888_violakis_typikon_cohort64.md', '1888_violakis_typikon_cohort65.md', '1888_violakis_typikon_cohort66.md', '1888_violakis_typikon_cohort67.md', '1888_violakis_typikon_cohort68.md', '1888_violakis_typikon_cohort69.md', '1888_violakis_typikon_cohort70.md', '1888_violakis_typikon_cohort71.md', '1888_violakis_typikon_cohort72.md', '1888_violakis_typikon_cohort73.md', '1888_violakis_typikon_cohort74.md', '1888_violakis_typikon_cohort75.md', '1888_violakis_typikon_cohort76.md', '1888_violakis_typikon_cohort77.md', '1888_violakis_typikon_cohort78.md', '1888_violakis_typikon_cohort79.md', '1888_violakis_typikon_cohort80.md', '1888_violakis_typikon_cohort81.md', '1888_violakis_typikon_cohort82.md', '1888_violakis_typikon_cohort83.md', '1888_violakis_typikon_cohort84.md', '1888_violakis_typikon_cohort85.md', '1888_violakis_typikon_cohort86.md', '1888_violakis_typikon_cohort87.md', '1888_violakis_typikon_cohort88.md', '1888_violakis_typikon_cohort89.md', '1888_violakis_typikon_cohort90.md', '1888_violakis_typikon_cohort91.md', '1888_violakis_typikon_cohort92.md', '1888_violakis_typikon_cohort93.md', '1888_violakis_typikon_cohort94.md', '1888_violakis_typikon_cohort95.md']  
+> **Assembled Cohorts**: ['1888_violakis_typikon_cohort1.md', '1888_violakis_typikon_cohort2.md', '1888_violakis_typikon_cohort3.md', '1888_violakis_typikon_cohort4.md', '1888_violakis_typikon_cohort5.md', '1888_violakis_typikon_cohort6.md', '1888_violakis_typikon_cohort7.md', '1888_violakis_typikon_cohort8.md', '1888_violakis_typikon_cohort9.md', '1888_violakis_typikon_cohort10.md', '1888_violakis_typikon_cohort11.md', '1888_violakis_typikon_cohort12.md', '1888_violakis_typikon_cohort13.md', '1888_violakis_typikon_cohort14.md', '1888_violakis_typikon_cohort15.md', '1888_violakis_typikon_cohort16.md', '1888_violakis_typikon_cohort17.md', '1888_violakis_typikon_cohort18.md', '1888_violakis_typikon_cohort19.md', '1888_violakis_typikon_cohort20.md', '1888_violakis_typikon_cohort21.md', '1888_violakis_typikon_cohort22.md', '1888_violakis_typikon_cohort23.md', '1888_violakis_typikon_cohort24.md', '1888_violakis_typikon_cohort25.md', '1888_violakis_typikon_cohort26.md', '1888_violakis_typikon_cohort27.md', '1888_violakis_typikon_cohort28.md', '1888_violakis_typikon_cohort29.md', '1888_violakis_typikon_cohort30.md', '1888_violakis_typikon_cohort31.md', '1888_violakis_typikon_cohort32.md', '1888_violakis_typikon_cohort33.md', '1888_violakis_typikon_cohort34.md', '1888_violakis_typikon_cohort35.md', '1888_violakis_typikon_cohort36.md', '1888_violakis_typikon_cohort37.md', '1888_violakis_typikon_cohort38.md', '1888_violakis_typikon_cohort39.md', '1888_violakis_typikon_cohort40.md', '1888_violakis_typikon_cohort41.md', '1888_violakis_typikon_cohort42.md', '1888_violakis_typikon_cohort43.md', '1888_violakis_typikon_cohort44.md', '1888_violakis_typikon_cohort45.md', '1888_violakis_typikon_cohort46.md', '1888_violakis_typikon_cohort47.md', '1888_violakis_typikon_cohort48.md', '1888_violakis_typikon_cohort49.md', '1888_violakis_typikon_cohort50.md', '1888_violakis_typikon_cohort51.md', '1888_violakis_typikon_cohort52.md', '1888_violakis_typikon_cohort53.md', '1888_violakis_typikon_cohort54.md', '1888_violakis_typikon_cohort55.md', '1888_violakis_typikon_cohort56.md', '1888_violakis_typikon_cohort57.md', '1888_violakis_typikon_cohort58.md', '1888_violakis_typikon_cohort59.md', '1888_violakis_typikon_cohort60.md', '1888_violakis_typikon_cohort61.md', '1888_violakis_typikon_cohort62.md', '1888_violakis_typikon_cohort63.md', '1888_violakis_typikon_cohort64.md', '1888_violakis_typikon_cohort65.md', '1888_violakis_typikon_cohort66.md', '1888_violakis_typikon_cohort67.md', '1888_violakis_typikon_cohort68.md', '1888_violakis_typikon_cohort69.md', '1888_violakis_typikon_cohort70.md', '1888_violakis_typikon_cohort71.md', '1888_violakis_typikon_cohort72.md', '1888_violakis_typikon_cohort73.md', '1888_violakis_typikon_cohort74.md', '1888_violakis_typikon_cohort75.md', '1888_violakis_typikon_cohort76.md', '1888_violakis_typikon_cohort77.md', '1888_violakis_typikon_cohort78.md', '1888_violakis_typikon_cohort79.md', '1888_violakis_typikon_cohort80.md', '1888_violakis_typikon_cohort81.md', '1888_violakis_typikon_cohort82.md', '1888_violakis_typikon_cohort83.md', '1888_violakis_typikon_cohort84.md', '1888_violakis_typikon_cohort85.md', '1888_violakis_typikon_cohort86.md', '1888_violakis_typikon_cohort87.md', '1888_violakis_typikon_cohort88.md', '1888_violakis_typikon_cohort89.md', '1888_violakis_typikon_cohort90.md', '1888_violakis_typikon_cohort91.md', '1888_violakis_typikon_cohort92.md', '1888_violakis_typikon_cohort93.md', '1888_violakis_typikon_cohort94.md', '1888_violakis_typikon_cohort95.md', '1888_violakis_typikon_cohort96.md']  
 
 ---
 
@@ -18186,6 +18186,325 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ---
 
+<!-- START COHORT 1888_violakis_typikon_cohort96 -->
+
+=== LEAF p951 ===
+
+# Appendix: The Paschalion & Table of Feasts
+
+## Πίναξ τοῦ Ἑορτοδρομίου: Ὁδηγίαι [Violakis, p. 936]
+
+### ΠΙΝΑΞ ΤΟΥ ΕΟΡΤΟΔΡΟΜΙΟΥ
+### Ἴδε τὰς Ἀκολούθους Σελίδας
+
+    Σημείωσις· Ἡ πρώτη ἡμερομηνία εἰς τὰς δύο πρώτας στήλας εἶναι τοῦ Ἰουλιανοῦ Ἡμερολογίου [ΙΗ]. Ἡ ἡμερομηνία ἐντὸς παρενθέσεων εἶναι ἡ Ἰουλιανὴ ἡμερομηνία ἐφηρμοσμένη εἰς τὴν ἀκριβῆ ἀντίστοιχόν της ἡμερομηνίαν εἰς τὸ Γρηγοριανὸν Ἡμερολόγιον [ΓΗ], ἤτοι 13 ἡμέρας ἀργότερον.
+
+    Διὰ ἐπιπρόσθετον παραπομπήν, οἱ ἀριθμοὶ ἐντὸς παρενθέσεων εἰς τὴν τετάρτην στήλην, (ἴδε Τυπικοῦ §) ἀντιπροσωπεύουν τὰς σελίδας εἰς τὸ Τυπικὸν τοῦ Γ. Βιολάκη, 3η ἔκδ., Β. Σαλίβερος, Ἀθῆναι, περίπου 1950-1960.
+
+*(Printed Page 936)*
+
+=== LEAF p952 ===
+
+# Appendix: The Paschalion & Table of Feasts
+
+## Chart of the Feasts: Explanatory Guidelines [Violakis, p. 937]
+
+### CHART OF THE FEASTS (*ΠΙΝΑΞ ΤΟΥ ΕΟΡΤΟΔΡΟΜΙΟΥ*)
+### See the Following Pages
+
+    Note: The first date in each of the first two columns is that of the Julian Calendar [JC]. The date in parentheses appearing next to it is the Julian date adjusted to its exact counterpart in the Gregorian Calendar [GC], that is, 13 days later in each instance.
+
+    For additional reference, the numbers within parentheses in the fourth column (see Typikon §) represent the pages in the Typikon of George Violakis, 3rd edition, V. Saliveros, Athens, c. 1950–1960.[^535]
+
+---
+* *Scholarly Apparatus on the Perpetual Concurrence Matrix:* Physical leaf p952 introduces the structural legend for the tabular Paschalion and Menologion concordance of George Violakis. The dual-dating rubric reflects the pastoral reality of the Eastern Christian diaspora, correlating the classical Julian computus (*Paskhalia*) with the civil Revised Julian and Gregorian calendars. The 13-day delta shifts the liturgical window of immovable commemorations relative to the variable 70-day pre-Paschal and 50-day post-Paschal cycles.
+
+*(Printed Page 937)*
+
+=== LEAF p953 ===
+
+# Appendix: The Paschalion & Table of Feasts
+
+## Ὁ Ἑορτοδρόμιος Πίναξ: 11, 17, 18 Ἰανουαρίου [Violakis, p. 938]
+
+### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ
+
+| Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τοῦ Ὁσίου / τῶν Ἁγίων συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
+| :--- | :--- | :--- | :--- |
+| **Τῇ ΙΑ΄ Ἰανουαρίου τοῦ ὁσίου Πατρὸς ἡμῶν Θεοδοσίου τοῦ Κοινοβιάρχου** | | | |
+| Ἰανουαρίου 11 (24) | Μαρτίου 22 (4 Ἀπριλίου) | † Τῇ Κυριακῇ τοῦ Τελώνου καὶ Φαρισαίου | 42–44 (155) |
+| **Τῇ ΙΖ΄ Ἰανουαρίου τοῦ ὁσίου Πατρὸς ἡμῶν Ἀντωνίου τοῦ Μεγάλου** | | | |
+| Ἰανουαρίου 11 (24) | Μαρτίου 22 (4 Ἀπριλίου) | Τῷ Σαββάτῳ τῆς τοῦ Τελώνου καὶ Φαρισαίου ἑβδομάδος | 1 (158) |
+| Ἰανουαρίου 12 (25) | Μαρτίου 23 (5 Ἀπριλίου) | Τῇ Παρασκευῇ τῆς αὐτῆς ἑβδομάδος | 1 (158) |
+| Ἰανουαρίου 13 (26) | Μαρτίου 24 (6 Ἀπριλίου) | Τῇ Πέμπτῃ | 1 (158) |
+| Ἰανουαρίου 14 (27) | Μαρτίου 25 (7 Ἀπριλίου) | Τῇ Τετάρτῃ | 1 (158) |
+| Ἰανουαρίου 15 (28) | Μαρτίου 26 (8 Ἀπριλίου) | Τῇ Τρίτῃ | 1 (158) |
+| Ἰανουαρίου 16 (29) | Μαρτίου 27 (9 Ἀπριλίου) | Τῇ Δευτέρᾳ | 1 (158) |
+| Ἰανουαρίου 17 (30) | Μαρτίου 28 (10 Ἀπριλίου) | † Τῇ Κυριακῇ τοῦ Τελώνου καὶ Φαρισαίου | 5–6 (158–159) |
+| **Τῇ ΙΗ΄ Ἰανουαρίου τῶν ἐν Ἁγίοις Πατέρων ἡμῶν Ἀθανασίου καὶ Κυρίλλου** | | | |
+| Ἰανουαρίου 11 (24) | Μαρτίου 22 (4 Ἀπριλίου) | † Τῇ Κυριακῇ τοῦ Ἀσώτου | 3–4 (160) |
+| Ἰανουαρίου 12 (25) | Μαρτίου 23 (5 Ἀπριλίου) | Τῷ Σαββάτῳ τῆς τοῦ Τελώνου καὶ Φαρισαίου ἑβδομάδος | 1 (159) |
+
+*(Printed Page 938)*
+
+=== LEAF p954 ===
+
+# Appendix: The Paschalion & Table of Feasts
+
+## The Chart of the Feasts: 11, 17, 18 January (Part 1) [Violakis, p. 939]
+
+### THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ*)
+
+| Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
+| :--- | :--- | :--- | :--- |
+| **11 January: Our Venerable Father Theodosios the Cenobiarch** | | | |
+| January 11 (24) | March 22 (4 April) | † Sunday of the Publican and the Pharisee | §§ 42–44 (p. 155) |
+| **17 January: Our Venerable Father Anthony the Great** | | | |
+| January 11 (24) | March 22 (4 April) | Saturday of the Week of the Publican and the Pharisee | § 1 (p. 158) |
+| January 12 (25) | March 23 (5 April) | Friday of this week | § 1 (p. 158) |
+| January 13 (26) | March 24 (6 April) | Thursday | § 1 (p. 158) |
+| January 14 (27) | March 25 (7 April) | Wednesday | § 1 (p. 158) |
+| January 15 (28) | March 26 (8 April) | Tuesday | § 1 (p. 158) |
+| January 16 (29) | March 27 (9 April) | Monday | § 1 (p. 158) |
+| January 17 (30) | March 28 (10 April) | † Sunday of the Publican and the Pharisee | §§ 5–6 (pp. 158–159) |
+| **18 January: Our Holy Fathers Athanasios and Cyril of Alexandria** | | | |
+| January 11 (24) | March 22 (4 April) | † Sunday of the Prodigal Son | §§ 3–4 (p. 160) |
+| January 12 (25) | March 23 (5 April) | Saturday of the Week of the Publican and the Pharisee | § 1 (p. 159) |[^536]
+
+---
+* *Scholarly Apparatus on the Early Pre-Lenten Concurrences (January 11–18):* Physical leaf p954 tabulates the earliest possible concurrences between the immovable Menologion and the pre-Lenten Triodion cycle. The solitary entry for Saint Theodosios the Cenobiarch (January 11) marks the theoretical frontier: only when Holy Pascha falls upon its earliest possible terminus of March 22 JC does the Sunday of the Publican and the Pharisee open on January 11, displacing the saint's full festive office. For Saint Anthony the Great (January 17), the commemoration sweeps across every day of the pre-Lenten opening week until Pascha reaches March 28 JC, where Anthony coincides directly with the Sunday of the Publican and the Pharisee itself.
+
+*(Printed Page 939)*
+
+=== LEAF p955 ===
+
+# Appendix: The Paschalion & Table of Feasts
+
+## Ὁ Ἑορτοδρόμιος Πίναξ: 18, 20, 25 Ἰανουαρίου (Μέρος Α΄) [Violakis, p. 940]
+
+### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+
+| Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τοῦ Ὁσίου / τῶν Ἁγίων συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
+| :--- | :--- | :--- | :--- |
+| **[Τῇ ΙΗ΄ Ἰανουαρίου Ἀθανασίου καὶ Κυρίλλου — συνέχεια]** | | | |
+| Ἰανουαρίου 13 (26) | Μαρτίου 24 (6 Ἀπριλίου) | Τῇ Παρασκευῇ | 1 (159) |
+| Ἰανουαρίου 14 (27) | Μαρτίου 25 (7 Ἀπριλίου) | Τῇ Πέμπτῃ | 1 (159) |
+| Ἰανουαρίου 15 (28) | Μαρτίου 26 (8 Ἀπριλίου) | Τῇ Τετάρτῃ | 1 (159) |
+| Ἰανουαρίου 16 (29) | Μαρτίου 27 (9 Ἀπριλίου) | Τῇ Τρίτῃ | 1 (159) |
+| Ἰανουαρίου 17 (30) | Μαρτίου 28 (10 Ἀπριλίου) | Τῇ Δευτέρᾳ | 1 (159) |
+| Ἰανουαρίου 18 (31) | Μαρτίου 29 (11 Ἀπριλίου) | † Τῇ Κυριακῇ τοῦ Τελώνου καὶ Φαρισαίου | 3–4 (160) |
+| **Τῇ Κ΄ Ἰανουαρίου τοῦ ὁσίου Πατρὸς ἡμῶν Εὐθυμίου τοῦ Μεγάλου** | | | |
+| Ἰανουαρίου 11 (24) | Μαρτίου 22 (4 Ἀπριλίου) | Τῇ Τρίτῃ τῆς τοῦ Ἀσώτου ἑβδομάδος | 1 (161) |
+| Ἰανουαρίου 12 (25) | Μαρτίου 23 (5 Ἀπριλίου) | Τῇ Δευτέρᾳ | 1 (161) |
+| Ἰανουαρίου 13 (26) | Μαρτίου 24 (6 Ἀπριλίου) | † Τῇ Κυριακῇ τοῦ Ἀσώτου | 1 (161) |
+| Ἰανουαρίου 14 (27) | Μαρτίου 25 (7 Ἀπριλίου) | Τῷ Σαββάτῳ τῆς τοῦ Τελώνου καὶ Φαρισαίου ἑβδομάδος | 1 (161) |
+| Ἰανουαρίου 15 (28) | Μαρτίου 26 (8 Ἀπριλίου) | Τῇ Παρασκευῇ | 1 (161) |
+| Ἰανουαρίου 16 (29) | Μαρτίου 27 (9 Ἀπριλίου) | Τῇ Πέμπτῃ | 1 (161) |
+| Ἰανουαρίου 17 (30) | Μαρτίου 28 (10 Ἀπριλίου) | Τῇ Τετάρτῃ | 1 (161) |
+| Ἰανουαρίου 18 (31) | Μαρτίου 29 (11 Ἀπριλίου) | Τῇ Τρίτῃ | 1 (161) |
+| Ἰανουαρίου 19 (1 Φεβρουαρίου)[*] | Μαρτίου 30 (12 Ἀπριλίου) | Τῇ Δευτέρᾳ | 1 (161) |
+| Ἰανουαρίου 20 (2 Φεβρουαρίου)[*] | Μαρτίου 31 (13 Ἀπριλίου) | † Τῇ Κυριακῇ τοῦ Τελώνου καὶ Φαρισαίου | 1 (161) |
+| **Τῇ ΚΕ΄ Ἰανουαρίου τοῦ ἐν Ἁγίοις Πατρὸς ἡμῶν Γρηγορίου τοῦ Θεολόγου** | | | |
+| Ἰανουαρίου 11 (24) | Μαρτίου 22 (4 Ἀπριλίου) | † Τῇ Κυριακῇ τῆς Ἀπόκρεω | 5–7 (162–163) |
+| Ἰανουαρίου 12 (25) | Μαρτίου 23 (5 Ἀπριλίου) | Τῷ Σαββάτῳ τῶν Ψυχῶν | 8 (164) |
+| Ἰανουαρίου 13 (26) | Μαρτίου 24 (6 Ἀπριλίου) | Τῇ Παρασκευῇ τῆς τοῦ Ἀσώτου ἑβδομάδος | 1 (161) |
+
+---
+[*] *Epigraphic Corrigendum:* The printed Greek edition exhibits a typographical error in the Gregorian date conversions under January 20, erroneously printing "1 Ἀπριλίου" and "2 Ἀπριλίου" instead of 1 Φεβρουαρίου and 2 Φεβρουαρίου.
+
+*(Printed Page 940)*
+
+=== LEAF p956 ===
+
+# Appendix: The Paschalion & Table of Feasts
+
+## The Chart of the Feasts: 18, 20, 25 January (Part 1) [Violakis, p. 941]
+
+### THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)
+
+| Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
+| :--- | :--- | :--- | :--- |
+| **[18 January: Athanasios and Cyril — Continued]** | | | |
+| January 13 (26) | March 24 (6 April) | Friday | § 1 (p. 159) |
+| January 14 (27) | March 25 (7 April) | Thursday | § 1 (p. 159) |
+| January 15 (28) | March 26 (8 April) | Wednesday | § 1 (p. 159) |
+| January 16 (29) | March 27 (9 April) | Tuesday | § 1 (p. 159) |
+| January 17 (30) | March 28 (10 April) | Monday | § 1 (p. 159) |
+| January 18 (31) | March 29 (11 April) | † Sunday of the Publican and the Pharisee | §§ 3–4 (p. 160) |
+| **20 January: Our Venerable Father Euthymios the Great** | | | |
+| January 11 (24) | March 22 (4 April) | Tuesday of the Week of the Prodigal Son | § 1 (p. 161) |
+| January 12 (25) | March 23 (5 April) | Monday of the Week of the Prodigal Son | § 1 (p. 161) |
+| January 13 (26) | March 24 (6 April) | † Sunday of the Prodigal Son | § 1 (p. 161) |
+| January 14 (27) | March 25 (7 April) | Saturday of the Week of the Publican and the Pharisee | § 1 (p. 161) |
+| January 15 (28) | March 26 (8 April) | Friday | § 1 (p. 161) |
+| January 16 (29) | March 27 (9 April) | Thursday | § 1 (p. 161) |
+| January 17 (30) | March 28 (10 April) | Wednesday | § 1 (p. 161) |
+| January 18 (31) | March 29 (11 April) | Tuesday | § 1 (p. 161) |
+| January 19 (1 February)[*] | March 30 (12 April) | Monday | § 1 (p. 161) |
+| January 20 (2 February)[*] | March 31 (13 April) | † Sunday of the Publican and the Pharisee | § 1 (p. 161) |
+| **25 January: Our Father among the Saints Gregory the Theologian** | | | |
+| January 11 (24) | March 22 (4 April) | † Sunday of Meatfare | §§ 5–7 (pp. 162–163) |
+| January 12 (25) | March 23 (5 April) | The Saturday of Souls | § 8 (p. 164) |
+| January 13 (26) | March 24 (6 April) | Friday of the Week of the Prodigal Son | § 1 (p. 161) |[^537]
+
+---
+[*] *Epigraphic Corrigenda on Printed Numerals:* In the printed bilingual edition (p. 941), the first table exhibits gross typesetting errata: Column 1 erroneously prints "13 (20)" through "18 (25)" instead of the correct Julian/Gregorian values "13 (26)" through "18 (31)", and Column 2 erroneously prints "24 (31)" through "29 (5 April)" instead of "24 (6 April)" through "29 (11 April)". In addition, the Gregorian conversions under January 20 reproduce the Greek compositor's mistake of reading "1 April" and "2 April" instead of 1 February and 2 February. All dates have been emended to mathematical orthodoxy in this translation.
+
+*(Printed Page 941)*
+
+=== LEAF p957 ===
+
+# Appendix: The Paschalion & Table of Feasts
+
+## Ὁ Ἑορτοδρόμιος Πίναξ: 25, 27 Ἰανουαρίου [Violakis, p. 942]
+
+### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+
+| Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τοῦ Ὁσίου / τῶν Ἁγίων συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
+| :--- | :--- | :--- | :--- |
+| **[Τῇ ΚΕ΄ Ἰανουαρίου Γρηγορίου τοῦ Θεολόγου — συνέχεια]** | | | |
+| Ἰανουαρίου 14 (27) | Μαρτίου 25 (7 Ἀπριλίου) | Τῇ Πέμπτῃ | 1 (161) |
+| Ἰανουαρίου 15 (28) | Μαρτίου 26 (8 Ἀπριλίου) | Τῇ Τετάρτῃ | 1 (161) |
+| Ἰανουαρίου 16 (29) | Μαρτίου 27 (9 Ἀπριλίου) | Τῇ Τρίτῃ | 1 (161) |
+| Ἰανουαρίου 17 (30) | Μαρτίου 28 (10 Ἀπριλίου) | Τῇ Δευτέρᾳ | 5–7 (162–163) |
+| Ἰανουαρίου 18 (31) | Μαρτίου 29 (11 Ἀπριλίου) | † Τῇ Κυριακῇ τοῦ Ἀσώτου | 1 (163) |
+| Ἰανουαρίου 19 (1 Φεβρουαρίου)[*] | Μαρτίου 30 (12 Ἀπριλίου) | Τῷ Σαββάτῳ τῆς τοῦ Τελώνου καὶ Φαρισαίου ἑβδομάδος | 1 (161) |
+| Ἰανουαρίου 20 (2 Φεβρουαρίου)[*] | Μαρτίου 31 (13 Ἀπριλίου) | Τῇ Παρασκευῇ | 1 (161) |
+| **Ἀπριλίου** | | | |
+| Ἰανουαρίου 21 (3 Φεβρουαρίου)[*] | Ἀπριλίου 1 (14) | Τῇ Πέμπτῃ | 1 (161) |
+| Ἰανουαρίου 22 (4 Φεβρουαρίου) | Ἀπριλίου 2 (15) | Τῇ Τετάρτῃ | 1 (161) |
+| Ἰανουαρίου 23 (5 Φεβρουαρίου) | Ἀπριλίου 3 (16) | Τῇ Τρίτῃ τῆς τοῦ Ἀσώτου ἑβδομάδος | 1 (161) |
+| Ἰανουαρίου 24 (6 Φεβρουαρίου) | Ἀπριλίου 4 (17) | Τῇ Δευτέρᾳ | 1 (164) |
+| Ἰανουαρίου 25 (7 Φεβρουαρίου) | Ἀπριλίου 5 (18) | † Τῇ Κυριακῇ τοῦ Τελώνου καὶ Φαρισαίου | 5–7 (162–163) |
+| **Τῇ ΚΖ΄ Ἰανουαρίου ἡ ἀνακομιδὴ τοῦ Λειψάνου τοῦ ἁγίου Ἰωάννου τοῦ Χρυσοστόμου** | | | |
+| Ἰανουαρίου 11 (24) | Μαρτίου 22 (4 Ἀπριλίου) | Τῇ Τρίτῃ τῆς Τυρινῆς | 1–3 (164–165) |
+| Ἰανουαρίου 12 (25) | Μαρτίου 23 (5 Ἀπριλίου) | Τῇ Δευτέρᾳ | 1–3 (164–165) |
+| Ἰανουαρίου 13 (26) | Μαρτίου 24 (6 Ἀπριλίου) | † Τῇ Κυριακῇ τῆς Ἀπόκρεω | 5–6 (165) |
+| Ἰανουαρίου 14 (27) | Μαρτίου 25 (7 Ἀπριλίου) | Τῷ Σαββάτῳ τῶν Ψυχῶν | 7 (165) |
+| Ἰανουαρίου 15 (28) | Μαρτίου 26 (8 Ἀπριλίου) | Τῇ Παρασκευῇ τῆς τοῦ Ἀσώτου ἑβδομάδος | 1–3 (164–165) |
+| Ἰανουαρίου 16 (29) | Μαρτίου 27 (9 Ἀπριλίου) | Τῇ Πέμπτῃ | 1–3 (164–165) |
+| Ἰανουαρίου 17 (30) | Μαρτίου 28 (10 Ἀπριλίου) | Τῇ Τετάρτῃ | 1–3 (164–165) |
+| Ἰανουαρίου 18 (31) | Μαρτίου 29 (11 Ἀπριλίου) | Τῇ Τρίτῃ | 1–3 (164–165) |
+| Ἰανουαρίου 19 (1 Φεβρουαρίου)[*] | Μαρτίου 30 (12 Ἀπριλίου) | Τῇ Δευτέρᾳ | 5–6 (165) |
+| Ἰανουαρίου 20 (2 Φεβρουαρίου)[*] | Μαρτίου 31 (13 Ἀπριλίου) | † Τῇ Κυριακῇ τοῦ Ἀσώτου | 5–6 (165) |
+
+---
+[*] *Epigraphic Corrigendum:* The printed Greek text on p. 942 repeats the typographical error of printing "Ἀπριλίου" instead of Φεβρουαρίου for the Gregorian month conversion alongside January 19, 20, and 21.
+
+*(Printed Page 942)*
+
+=== LEAF p958 ===
+
+# Appendix: The Paschalion & Table of Feasts
+
+## The Chart of the Feasts: 25, 27 January (Part 1) [Violakis, p. 943]
+
+### THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)
+
+| Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
+| :--- | :--- | :--- | :--- |
+| **[25 January: Gregory the Theologian — Continued]** | | | |
+| January 14 (27) | March 25 (7 April) | Thursday | § 1 (p. 161) |
+| January 15 (28) | March 26 (8 April) | Wednesday | § 1 (p. 161) |
+| January 16 (29) | March 27 (9 April) | Tuesday | § 1 (p. 161) |
+| January 17 (30) | March 28 (10 April) | Monday | §§ 5–7 (pp. 162–163) |
+| January 18 (31) | March 29 (11 April) | † Sunday of the Prodigal Son | § 1 (p. 163) |
+| January 19 (1 February)[*] | March 30 (12 April) | Saturday of the Week of the Publican and the Pharisee | § 1 (p. 161) |
+| January 20 (2 February)[*] | March 31 (13 April) | Friday | § 1 (p. 161) |
+| **April (Paschal Dates)** | | | |
+| January 21 (3 February)[*] | April 1 (14) | Thursday | § 1 (p. 161) |
+| January 22 (4 February) | April 2 (15) | Wednesday | § 1 (p. 161) |
+| January 23 (5 February) | April 3 (16) | Tuesday of the Week of the Prodigal Son | § 1 (p. 161) |
+| January 24 (6 February) | April 4 (17) | Monday | § 1 (p. 164) |
+| January 25 (7 February) | April 5 (18) | † Sunday of the Publican and the Pharisee | §§ 5–7 (pp. 162–163) |
+| **27 January: The Translation of the Relics of Saint John Chrysostom** | | | |
+| January 11 (24) | March 22 (4 April) | Tuesday of Cheesefare | §§ 1–3 (pp. 164–165) |
+| January 12 (25) | March 23 (5 April) | Monday | §§ 1–3 (pp. 164–165) |
+| January 13 (26) | March 24 (6 April) | † Sunday of Meatfare | §§ 5–6 (p. 165) |
+| January 14 (27) | March 25 (7 April) | Saturday of Souls | § 7 (p. 165) |
+| January 15 (28) | March 26 (8 April) | Friday of the Week of the Prodigal Son | §§ 1–3 (pp. 164–165) |
+| January 16 (29) | March 27 (9 April) | Thursday | §§ 1–3 (pp. 164–165) |
+| January 17 (30) | March 28 (10 April) | Wednesday | §§ 1–3 (pp. 164–165) |
+| January 18 (31) | March 29 (11 April) | Tuesday | §§ 1–3 (pp. 164–165) |
+| January 19 (1 February)[*] | March 30 (12 April) | Monday | §§ 1–3 (pp. 164–165) |
+| January 20 (2 February)[*] | March 31 (13 April) | † Sunday of the Prodigal Son | §§ 5–6 (p. 165) |[^538]
+
+---
+[*] *Epigraphic Corrigenda on Facing English Page (p. 943):* The printed English text exhibits recurring calendar distortions in Column 2, misprinting Julian Paschal dates 25 through 30 March as "25 (1 April)" through "30 (6 April)" instead of the correct 13-day Gregorian conversions ("7 April" through "12 April"). Furthermore, the Gregorian adjustments for January 19–21 are erroneously styled "1 April", "2 April", and "3 April" instead of February. These errors have been corrected in the table.
+
+*(Printed Page 943)*
+
+=== LEAF p959 ===
+
+# Appendix: The Paschalion & Table of Feasts
+
+## Ὁ Ἑορτοδρόμιος Πίναξ: 27, 30 Ἰανουαρίου (Μέρος Α΄) [Violakis, p. 944]
+
+### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+
+| Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τοῦ Ὁσίου / τῶν Ἁγίων συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
+| :--- | :--- | :--- | :--- |
+| **Ἀπριλίου (Πάσχα)** | | | |
+| Ἰανουαρίου 21 (3 Φεβρουαρίου)[*] | Ἀπριλίου 1 (14) | Τῷ Σαββάτῳ τῆς τοῦ Τελώνου καὶ Φαρισαίου ἑβδομάδος | 1–3 (164–165) |
+| Ἰανουαρίου 22 (4 Φεβρουαρίου) | Ἀπριλίου 2 (15) | Τῇ Παρασκευῇ | 1–3 (164–165) |
+| Ἰανουαρίου 23 (5 Φεβρουαρίου) | Ἀπριλίου 3 (16) | Τῇ Πέμπτῃ | 1–3 (164–165) |
+| Ἰανουαρίου 24 (6 Φεβρουαρίου) | Ἀπριλίου 4 (17) | Τῇ Τετάρτῃ | 1–3 (164–165) |
+| Ἰανουαρίου 25 (7 Φεβρουαρίου) | Ἀπριλίου 5 (18) | Τῇ Τρίτῃ | 1–3 (164–165) |
+| Ἰανουαρίου 26 (8 Φεβρουαρίου) | Ἀπριλίου 6 (19) | Τῇ Δευτέρᾳ | 1–3 (164–165) |
+| Ἰανουαρίου 27 (9 Φεβρουαρίου) | Ἀπριλίου 7 (20) | † Τῇ Κυρ. τοῦ Τελώνου καὶ Φαρισαίου | 5–6 (165) |
+| **Τῇ Λ΄ Ἰανουαρίου τῶν Τριῶν Ἱεραρχῶν Βασιλείου τοῦ Μεγάλου, Γρηγορίου τοῦ Θεολόγου καὶ Ἰωάννου τοῦ Χρυσοστόμου** | | | |
+| Ἰανουαρίου 11 (24) | Μαρτίου 22 (4 Ἀπριλίου) | Τῇ Παρασκευῇ τῆς Τυρινῆς | 1–3 (166) |
+| Ἰανουαρίου 12 (25) | Μαρτίου 23 (5 Ἀπριλίου) | Τῇ Πέμπτῃ | 1–3 (166) |
+| Ἰανουαρίου 13 (26) | Μαρτίου 24 (6 Ἀπριλίου) | Τῇ Τετάρτῃ | 1–3 (166) |
+| Ἰανουαρίου 14 (27) | Μαρτίου 25 (7 Ἀπριλίου) | Τῇ Τρίτῃ | 1–3 (166) |
+| Ἰανουαρίου 15 (28) | Μαρτίου 26 (8 Ἀπριλίου) | Τῇ Δευτέρᾳ | 5–7 (167–168) |
+| Ἰανουαρίου 16 (29) | Μαρτίου 27 (9 Ἀπριλίου) | † Τῇ Κυριακῇ τῆς Ἀπόκρεω | 8 (168) |
+| Ἰανουαρίου 17 (30) | Μαρτίου 28 (10 Ἀπριλίου) | Τῷ Σαββάτῳ τῶν Ψυχῶν | 1–3 (166) |
+| Ἰανουαρίου 18 (31) | Μαρτίου 29 (11 Ἀπριλίου) | Τῇ Παρασκευῇ τῆς τοῦ Ἀσώτου ἑβδομάδος | 1–3 (166) |
+| Ἰανουαρίου 19 (1 Φεβρουαρίου) | Μαρτίου 30 (12 Ἀπριλίου) | Τῇ Πέμπτῃ | 1–3 (166) |
+| Ἰανουαρίου 20 (2 Φεβρουαρίου) | Μαρτίου 31 (13 Ἀπριλίου) | Τῇ Τετάρτῃ | 1–3 (166) |
+
+*(Printed Page 944)*
+
+=== LEAF p960 ===
+
+# Appendix: The Paschalion & Table of Feasts
+
+## The Chart of the Feasts: 27, 30 January (Part 1) [Violakis, p. 945]
+
+### THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)
+
+| Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
+| :--- | :--- | :--- | :--- |
+| **April (Paschal Dates — St. John Chrysostom Continued)** | | | |
+| January 21 (3 February)[*] | April 1 (14) | Saturday of the Week of the Publican and the Pharisee | §§ 1–3 (pp. 164–165) |
+| January 22 (4 February) | April 2 (15) | Friday | §§ 1–3 (pp. 164–165) |
+| January 23 (5 February) | April 3 (16) | Thursday | §§ 1–3 (pp. 164–165) |
+| January 24 (6 February) | April 4 (17) | Wednesday | §§ 1–3 (pp. 164–165) |
+| January 25 (7 February) | April 5 (18) | Tuesday | §§ 1–3 (pp. 164–165) |
+| January 26 (8 February) | April 6 (19) | Monday | §§ 1–3 (pp. 164–165) |
+| January 27 (9 February) | April 7 (20) | † Sunday of the Publican and the Pharisee | §§ 5–6 (p. 165) |
+| **30 January: The Three Hierarchs Basil the Great, Gregory the Theologian, and John Chrysostom** | | | |
+| January 11 (24) | March 22 (4 April) | Friday of Cheesefare Week | §§ 1–3 (p. 166) |
+| January 12 (25) | March 23 (5 April) | Thursday | §§ 1–3 (p. 166) |
+| January 13 (26) | March 24 (6 April) | Wednesday | §§ 1–3 (p. 166) |
+| January 14 (27) | March 25 (7 April) | Tuesday | §§ 1–3 (p. 166) |
+| January 15 (28) | March 26 (8 April) | Monday | §§ 1–3 (p. 166) |
+| January 16 (29) | March 27 (9 April)[*] | † Sunday of Meatfare | §§ 5–7 (pp. 167–168) |
+| January 17 (30) | March 28 (10 April) | Saturday of Souls | § 8 (p. 168) |
+| January 18 (31) | March 29 (11 April) | Friday of the Week of the Prodigal Son | §§ 1–3 (p. 166) |
+| January 19 (1 February) | March 30 (12 April) | Thursday | §§ 1–3 (p. 166) |
+| January 20 (2 February) | March 31 (13 April) | Wednesday | §§ 1–3 (p. 166) |[^539]
+
+---
+[*] *Epigraphic Corrigenda on Printed Numerals:* On physical leaf p960 (p. 945), Column 1 for the April entries lacks the explicit Gregorian dates in parentheses (listing only "21" through "27"); these have been supplied in square brackets or restored in accordance with the 13-day solar increment. In the Three Hierarchs section, the printed English text exhibits a typographical lapse for the Paschal date of March 27, reading "27 (9 March)" instead of 9 April. In the title header, the compositor's misspelling "Thologian" has been corrected to "Theologian".
+
+*(Printed Page 945)*
+
+<!-- END COHORT 1888_violakis_typikon_cohort96 -->
+
+---
+
 ## Scholarly Critical Apparatus & Footnotes
 
 ## Cohort 1 Footnotes
@@ -19549,3 +19868,16 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 [^533]: Physical leaf p948 (printed page 933), Interpretive Rule 4 (first part) addressing the calendar discrepancy caused by bissextile intercalation (Leap Years) occurring prior to the leap day of February 29. In a common (non-leap) year, the temporal distance between the beginning of the Triodion (Sunday of the Publican and the Pharisee) and Holy Pascha is exactly 70 days. In a leap year, the insertion of February 29 introduces an additional day into February, shifting the beginning of the Triodion by one calendar date relative to the Paschal date (e.g., in 1889 Pascha fell on April 9 with the Triodion opening on January 29, whereas in the leap year 1900 with Pascha likewise on April 9, the Triodion opened on January 30). For immovable feasts falling prior to February 29, the rubrist must shift down one row in the table to obtain the correct day of the week.
 
 [^534]: Physical leaf p950 (printed page 935), conclusion of Interpretive Rule 4 and Rule 5. The text demonstrates the bissextile principle using two benchmark commemorations: the Presentation of our Lord (February 2, prior to leap day, which shifts from Thursday in non-leap 1889 to Wednesday in leap 1900) versus the Annunciation of the Theotokos (March 25, subsequent to leap day, which remains invariant on Saturday of the Fifth Week of Great Lent in both years). Rule 5 defines the extreme boundary condition: when Holy Pascha falls on its latest possible date of April 24 JC (May 7 GC) in a leap year, the Triodion commences on February 14 JC (February 27 GC) rather than February 13 JC (February 26 GC).
+
+
+## Cohort 96 Footnotes
+
+[^535]: Physical leaf p952 (printed page 937), title leaf and explanatory instructions for the Chart of Feasts (*Ο Εορτοδρόμιος Πίναξ* / *The Chart of the Feasts*). The instructions specify that the first date listed in columns 1 and 2 represents the Julian Calendar reckoning (JC / ΙΗ), while the date in parentheses indicates the corresponding civil Gregorian Calendar date (GC / ΓΗ) calculated by adding 13 days (the solar divergence between the calendars during the 20th and 21st centuries). Column 4 references cross-reference the corresponding rubrical paragraphs (§) and pagination of George Violakis's *Typikon of the Great Church of Christ* (specifically referencing the third edition published by V. Saliveros, Athens, c. 1950–1960).
+
+[^536]: Physical leaf p954 (printed page 939), opening section of the perpetual Table of Feasts detailing the movable concurrences for January 11 (Venerable Father Theodosios the Cenobiarch), January 17 (Venerable Father Anthony the Great), and January 18 (Our Holy Fathers Athanasios and Cyril of Alexandria, part 1). For Saint Theodosios (the earliest possible opening of the Triodion), the table documents the solitary occurrence when Pascha falls on March 22 JC (April 4 GC) and the Triodion opens on January 11 JC, placing the saint's feast on the Sunday of the Publican and the Pharisee (§§ 42–44, p. 155). For Saint Anthony the Great, the feast shifts across the days of the Week of the Publican and the Pharisee as Pascha advances from March 22 to March 28 JC, culminating on the Sunday of the Publican and the Pharisee itself when Pascha falls on March 28 JC (§§ 5–6, pp. 158–159).
+
+[^537]: Physical leaf p956 (printed page 941), continuation of the Table of Feasts covering January 18 (Athanasios and Cyril, conclusion), January 20 (Venerable Father Euthymios the Great), and January 25 (Our Father among the Saints Gregory the Theologian, part 1). The facing printed English edition on p. 941 exhibits multiple severe typographical discrepancies in the conversion numerals of the first table: the Julian/Gregorian dates for the opening of the Triodion were misprinted as "13 (20)" through "18 (25)" instead of the correct 13-day advance "13 (26)" through "18 (31)", and Paschal dates were misprinted as "24 (31)" through "29 (5 April)" instead of the correct Julian dates "24 (6 April)" through "29 (11 April)". Furthermore, under January 20, the Gregorian dates for January 19 and 20 JC were erroneously printed as "1 April" and "2 April" instead of 1 and 2 February. These epigraphic defects have been systematically rectified in the critical translation text.
+
+[^538]: Physical leaf p958 (printed page 943), continuation of the Table of Feasts covering January 25 (Gregory the Theologian, conclusion) and January 27 (Translation of the Relics of Saint John Chrysostom, part 1). The table traces the migration of Saint Gregory the Theologian's commemoration from Meatfare Sunday through the Week of the Prodigal Son and into the Week of the Publican and the Pharisee as Pascha advances into April. For Saint John Chrysostom (January 27), the feast intersects with Cheesefare Tuesday when Pascha occurs on March 22 JC (April 4 GC), Meatfare Sunday when Pascha falls on March 24 JC (§§ 5–6, p. 165), the Saturday of Souls when Pascha falls on March 25 JC (§ 7, p. 165), and the Sunday of the Prodigal Son when Pascha falls on March 31 JC (§§ 5–6, p. 165).
+
+[^539]: Physical leaf p960 (printed page 945), conclusion of the concurrence table for January 27 (John Chrysostom) and opening of January 30 (The Three Hierarchs: Basil the Great, Gregory the Theologian, and John Chrysostom). When Pascha falls on March 27 JC, the commemoration of the Three Hierarchs coincides with Meatfare Sunday (§§ 5–7, pp. 167–168; note that the printed English edition erroneously lists "27 (9 March)" instead of 9 April for the Paschal date). When Pascha falls on March 28 JC, the feast coincides with the Saturday of Souls (§ 8, p. 168), demanding the solemn synthesis of the hierarches' festal hymns with the general requiem propers for all departed souls from all ages.
