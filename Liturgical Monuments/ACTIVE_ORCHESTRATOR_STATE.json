@@ -40,12 +40,13 @@
     35,
     36,
     37,
-    38
+    38,
+    39
   ],
-  "translated_pages": 380,
-  "remaining_pages": 790,
-  "current_cohort": 39,
-  "current_cohort_range": "pp. 381-390 (leaves p381-p390)",
+  "translated_pages": 390,
+  "remaining_pages": 780,
+  "current_cohort": 40,
+  "current_cohort_range": "pp. 391-400 (leaves p391-p400)",
   "small_pause_gate_status": "AWAITING_SUBAGENT_EXECUTION",
   "active_blockers": []
 }
