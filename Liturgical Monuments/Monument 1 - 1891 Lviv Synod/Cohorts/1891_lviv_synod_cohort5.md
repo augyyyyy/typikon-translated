@@ -36,11 +36,7 @@
 
 ---
 
-## 1. Decrees of the Ruthenian Provincial Synod: Titulus I. On the Catholic Faith (Continued)
-
 *(Physical Page 79 / Leaf p81)*
-
-### Chapter IV: On Communion in Sacred Things with Heretics and Schismatics (Conclusion)
 
 Further, that doctrine of the Catholic Church concerning communion in sacred things with non-Catholics was also clearly set forth by our Synod of Zamość, which decided thus: *"Moreover, it is not permitted to anyone, of whatever state or station he may be, who professeth the Catholic faith, to go unto outside pastors and their churches, whether for the reception of the Mysteries or out of devotion, lest it appear that they have actual communion with those who are without; in the contrary case, Ordinaries shall proceed against them as against suspects."* [^44]
 
@@ -252,8 +248,7 @@ communicants, then he may administer Holy Communion to them only after the manne
 
 ---
 
-## 3. Scholarly Critical Apparatus & Footnotes
-
+## Footnotes
 [^44]: Ruthenian Provincial Synod of Zamość (1720), Titulus I *De fide catholica*, strictly prohibiting Catholics of whatever state or station from frequenting the churches or ministries of non-Catholic or schismatic pastors for the reception of sacraments or out of personal devotion, lest they give the appearance of having real communion with those outside the Church; commanding Ordinaries to proceed against transgressors as suspect of heresy.
 
 [^45]: 1 Peter 5:2 — "Feed the flock of God which is among you, taking the oversight thereof, not by constraint, but willingly; not for filthy lucre, but of a ready mind."

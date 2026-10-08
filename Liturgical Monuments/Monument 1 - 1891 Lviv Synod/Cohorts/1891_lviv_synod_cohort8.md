@@ -41,10 +41,6 @@
 
 ---
 
-## 1. Titulus IV. On the Public Worship of God (Continued)
-
-### Chapter VI: On the Celebration of Feast Days (Conclusion)
-
 *(Physical Page 141 / Leaf p141 / Book Page 137)*
 
 #### I. Immovable Feasts:
@@ -327,8 +323,7 @@ Note: As to the Psalm: "I will enter," although in certain Sluzhebniks it is fou
 
 ---
 
-## 3. Scholarly Critical Apparatus & Footnotes
-
+## Footnotes
 [^141]: Pastoral Letter of the Greek Catholic Metropolitan Ordinariate of Lviv, September 3, 1889, No. 639; reproduced in Appendix XXXI (*Додатокъ ч. 31*) of the Synodal Acts. On December 8, 1870, Pope Pius IX had declared St. Joseph the Patron of the Universal Church (*Quemadmodum Deus*); this was further amplified by Pope Leo XIII in his encyclical *Quamquam pluries* (August 15, 1889). By this synodal decree, the Ruthenian Church formally and officially adopted St. Joseph, Spouse of the Most Pure Virgin Mary, as a special Patron of the Ruthenian Church.
 
 [^142]: Appendix XXXII (*Додатокъ ч. 32*) of the Synodal Acts: Decree of the Sacred Congregation *de Propaganda Fide*, May 29, 1887, No. 5, published throughout the ecclesiastical province and specifically promulgated in the Archeparchy of Lviv on December 4, 1887, No. 358 ord., establishing canonical and artistic norms governing the design, erection, and veneration of public roadside crosses and outdoor crucifixes.

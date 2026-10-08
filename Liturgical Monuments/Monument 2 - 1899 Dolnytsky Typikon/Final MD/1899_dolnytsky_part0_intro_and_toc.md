@@ -126,6 +126,6 @@ This Typikon consists of five parts, whereof:
   * [General & Proper Temple Typika](1899_dolnytsky_part5_temple.md#temple-typika)
   * [Paschal Tablets & Perpetual Calendar](1899_dolnytsky_part5_temple.md#tablet-i)
 * **[PART VI: HISTORICAL INDEX, SYNODAL DECREES AND COLOPHON](1899_dolnytsky_part6_tables_and_decrees.md#part-vi-historical-index-synodal-decrees-and-colophon)**
-  * [Historical Table of Contents (1899)](#table-of-contents)
+  * [Historical Table of Contents (1899)](1899_dolnytsky_part6_tables_and_decrees.md#table-of-contents)
   * [Colophon and Thanksgiving](1899_dolnytsky_part6_tables_and_decrees.md#colophon-and-thanksgiving)
 * **[FOOTNOTES AND SCHOLARLY COMMENTARY](#footnotes-and-scholarly-commentary)**

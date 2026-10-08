@@ -44,10 +44,6 @@
 
 ---
 
-## 1. Titulus V: On the Holy Liturgy (Continued)
-
-### Model Text, Order, and Manner of Celebrating the Divine Liturgy
-
 === LEAF p161 ===
 *(Physical Page 161 / Book Page 157)*
 
@@ -320,8 +316,7 @@ who is celebrating turneth only from the side and blesseth the people. The Pries
 
 ---
 
-## 2. Scholarly Critical Apparatus & Footnotes
-
+## Footnotes
 [^153]: Pope Benedict XIV (Prospero Lambertini), *De Sacrosancto Sacrificio Missae*, Lib. I, cap. 9, no. 90 (or *Lectio* 90): citing the ancient Eastern liturgical custom whereby Maronites and Ambrosians place the amice (*humerale* / *amictus* / *наплещникъ*) over the alb/sticharion. This directly corresponds to the printed footnote `1) De sacrificio Missae Lect. 90.` at the bottom of Book p. 157 (Leaf p161).
 
 [^154]: Pope Benedict XIV's *Euchologion sive Rituale Graecorum* (Rome, 1754): the exclusion of extracting separate particles on the diskos for the Honorable Cross and the Bodiless Powers (Angels). The Synod adduces this Roman edition of the Greek Euchologion and liturgical theology, explaining that particles extracted upon the diskos represent exclusively the threefold states of the Church—the Church Triumphant (the Saints), the Church Suffering (the souls in Purgatory), and the Church Militant (the living faithful)—whereas the Lamb alone represents Jesus Christ, the Head of the Church.

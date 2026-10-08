@@ -252,10 +252,6 @@ As soon as all those belonging to the Synod have assembled, the Metropolitan sha
 
 **"O Heavenly King, the Comforter, Spirit of truth, Who art everywhere and fillest all things, Treasury of blessings and Giver of life: come and abide in us, and cleanse us from every impurity, and save our souls, O Good One!"**
 
----
-
-# Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)
-
 *Then, having risen from genuflection, all recite further the following prayers:* "Holy God, Holy Mighty, Holy Immortal, have mercy on us" *(3 times);* "Glory be: Both now: Our Father" *and the rest.*  
 *The Metropolitan exclaims:* "For Thine is the kingdom" *and the rest. The clergy:* "Amen."  
 *Then:* "Lord, have mercy" *(12 times).* "Glory be to the Father" *and the rest. —* "Come, let us worship" *and the rest (3 times). And the troparia:* "Have mercy on us, O Lord, have mercy on us" *and the rest.* "Glory be: Lord, have mercy on us" *and the rest.* "Both now: Open unto us the door of mercy" *and the rest. Then:* "Let us pray to the Lord." *The clergy:* "Lord, have mercy."
@@ -479,10 +475,6 @@ When We, by the help of God, have reached the point where everything that it was
 *And the Secretary shall read aloud the Decree of the following tenor:*  
 "S. S.... etc. Following the ancient custom of provincial synods, according to which at the conclusion of the final Session the time of the nearest subsequent Synod is designated and appointed: with the agreement of Our Most Reverend Provincial Bishops, We decree and determine that the next subsequent Provincial Synod shall take place in the year 1896; yet so that this date may be freely shortened or extended, as the circumstances in Our Province shall require for the growth and welfare of the Church."  
 *Finally, the Promoter moves the closing of the Synod in the words:*
-
----
-
-# Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)
 
 ---
 
@@ -794,16 +786,6 @@ Dr. Havryil Kryzhanovsky, Chancellor of the Metropolitan Consistory.
 Yevhen Huzar, Provisional Metropolitan Chaplain and School Catechist.  
 Dr. Ivan Hrobelsky, Professor of Pastoral Theology in the Seminary of Przemyśl.  
 Poliyevkt Kmit, Acting Professor of Canon Law in the Seminary of Przemyśl.
-
----
-
-# Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)
-
----
-
-## 1. Part VII: Acts of the Congregations and Sessions (Continued)
-
-### Nominal Subscription Roll Continued
 
 Kassian Kunytsky, Military Chaplain.  
 Teodor Korduba, Dean of Berezhany.  
@@ -1190,40 +1172,27 @@ President of the Synod.
   * [1. Conclusion of the Conciliar Ceremonies](#1-conclusion-of-the-conciliar-ceremonies)
   * [2. Part VI: Epistolary Exchange with the Apostolic See](#2-part-vi-epistolary-exchange-with-the-apostolic-see)
   * [3. Part VII: Acts of the Congregations and Sessions](#3-part-vii-acts-of-the-congregations-and-sessions)
-  * [1. Part VII: Acts of the Congregations and Sessions (Continued)](#1-part-vii-acts-of-the-congregations-and-sessions-continued)
 * **[SYNODAL DECREES PART I: TITULI I–IV (On the Catholic Faith, Hierarchy, Bishops, and Diocesan Administration)](1891_lviv_synod_part1_decrees_faith_hierarchy.md#synodal-decrees-part-i-tituli-iiv-on-the-catholic-faith-hierarchy-bishops-and-diocesan-administration)**
-  * [3. Scholarly Critical Apparatus & Footnotes](1891_lviv_synod_part1_decrees_faith_hierarchy.md#3-scholarly-critical-apparatus-footnotes)
-  * [1. Decrees of the Ruthenian Provincial Synod: Titulus I. On the Catholic Faith (Continued)](1891_lviv_synod_part1_decrees_faith_hierarchy.md#1-decrees-of-the-ruthenian-provincial-synod-titulus-i-on-the-catholic-faith-continued)
+  * [Titulus I. On the Catholic Faith](1891_lviv_synod_part1_decrees_faith_hierarchy.md#titulus-i-on-the-catholic-faith)
   * [2. Decrees of the Ruthenian Provincial Synod: Titulus II. On the Mysteries and Their Administration](1891_lviv_synod_part1_decrees_faith_hierarchy.md#2-decrees-of-the-ruthenian-provincial-synod-titulus-ii-on-the-mysteries-and-their-administration)
-  * [3. Scholarly Critical Apparatus & Footnotes](1891_lviv_synod_part1_decrees_faith_hierarchy.md#3-scholarly-critical-apparatus-footnotes)
-  * [1. Decrees of the Ruthenian Provincial Synod: Titulus II. On the Mysteries and Their Administration (Continued)](1891_lviv_synod_part1_decrees_faith_hierarchy.md#1-decrees-of-the-ruthenian-provincial-synod-titulus-ii-on-the-mysteries-and-their-administration-continued)
   * [2. Decrees of the Ruthenian Provincial Synod: Titulus III. On Consecrations and Blessings — (Sacramentals)](1891_lviv_synod_part1_decrees_faith_hierarchy.md#2-decrees-of-the-ruthenian-provincial-synod-titulus-iii-on-consecrations-and-blessings-sacramentals)
   * [3. Decrees of the Ruthenian Provincial Synod: Titulus IV. On the Public Worship of God](1891_lviv_synod_part1_decrees_faith_hierarchy.md#3-decrees-of-the-ruthenian-provincial-synod-titulus-iv-on-the-public-worship-of-god)
-  * [4. Scholarly Critical Apparatus & Footnotes](1891_lviv_synod_part1_decrees_faith_hierarchy.md#4-scholarly-critical-apparatus-footnotes)
-  * [1. Titulus IV. On the Public Worship of God (Continued)](1891_lviv_synod_part1_decrees_faith_hierarchy.md#1-titulus-iv-on-the-public-worship-of-god-continued)
-  * [2. Scholarly Critical Apparatus & Footnotes](1891_lviv_synod_part1_decrees_faith_hierarchy.md#2-scholarly-critical-apparatus-footnotes)
-  * [1. Titulus IV. On the Public Worship of God (Continued)](1891_lviv_synod_part1_decrees_faith_hierarchy.md#1-titulus-iv-on-the-public-worship-of-god-continued)
 * **[SYNODAL DECREES PART II: TITULI V–X (On the Liturgy, Sacred Furnishings, Monasteries, Seminaries, Priests, and Holy Sacraments)](1891_lviv_synod_part2_decrees_liturgy_sacraments.md#synodal-decrees-part-ii-tituli-vx-on-the-liturgy-sacred-furnishings-monasteries-seminaries-priests-and-holy-sacraments)**
-  * [3. Scholarly Critical Apparatus & Footnotes](1891_lviv_synod_part1_decrees_faith_hierarchy.md#3-scholarly-critical-apparatus-footnotes)
-  * [1. Titulus V: On the Holy Liturgy (Continued)](1891_lviv_synod_part2_decrees_liturgy_sacraments.md#1-titulus-v-on-the-holy-liturgy-continued)
-  * [2. Scholarly Critical Apparatus & Footnotes](1891_lviv_synod_part1_decrees_faith_hierarchy.md#2-scholarly-critical-apparatus-footnotes)
-  * [1. Titulus V: On the Holy Liturgy (Conclusion)](1891_lviv_synod_part2_decrees_liturgy_sacraments.md#1-titulus-v-on-the-holy-liturgy-conclusion)
+  * [Titulus V. On the Holy Liturgy](1891_lviv_synod_part2_decrees_liturgy_sacraments.md#titulus-v-on-the-holy-liturgy)
   * [2. Titulus VI: On Churches Dedicated unto the Divine Service](1891_lviv_synod_part2_decrees_liturgy_sacraments.md#2-titulus-vi-on-churches-dedicated-unto-the-divine-service)
   * [3. Titulus VII: On the Ecclesiastical Hierarchy](1891_lviv_synod_part2_decrees_liturgy_sacraments.md#3-titulus-vii-on-the-ecclesiastical-hierarchy)
-  * [4. Scholarly Critical Apparatus & Footnotes](1891_lviv_synod_part1_decrees_faith_hierarchy.md#4-scholarly-critical-apparatus-footnotes)
-  * [4. Scholarly Critical Apparatus & Footnotes](1891_lviv_synod_part1_decrees_faith_hierarchy.md#4-scholarly-critical-apparatus-footnotes)
-  * [Titulus X. On Monks](1891_lviv_synod_part2_decrees_liturgy_sacraments.md#titulus-x-on-monks)
+  * [Titulus X. On Monks (*О Монахахъ*)](1891_lviv_synod_part2_decrees_liturgy_sacraments.md#titulus-x-on-monks-о-монахахъ)
 * **[SYNODAL DECREES PART III: TITULI XI–XV (On Fasts, Offices for the Departed, Courts, Synods, and Church Property)](1891_lviv_synod_part3_decrees_discipline_property.md#synodal-decrees-part-iii-tituli-xixv-on-fasts-offices-for-the-departed-courts-synods-and-church-property)**
-  * [Titulus XI. On Fasts](1891_lviv_synod_part3_decrees_discipline_property.md#titulus-xi-on-fasts)
+  * [Titulus XI. On Fasts (*О постахъ*)](1891_lviv_synod_part3_decrees_discipline_property.md#titulus-xi-on-fasts-о-постахъ)
   * [TITULUS XII. On Offices for the Departed](1891_lviv_synod_part3_decrees_discipline_property.md#titulus-xii-on-offices-for-the-departed)
   * [TITULUS XIII. On Ecclesiastical Courts](1891_lviv_synod_part3_decrees_discipline_property.md#titulus-xiii-on-ecclesiastical-courts)
   * [TITULUS XIV. On Synods](1891_lviv_synod_part3_decrees_discipline_property.md#titulus-xiv-on-synods)
   * [TITULUS XV. On Church Property](1891_lviv_synod_part3_decrees_discipline_property.md#titulus-xv-on-church-property)
-  * [Titulus XV. On Church Property *(Conclusion)*](1891_lviv_synod_part3_decrees_discipline_property.md#titulus-xv-on-church-property-conclusion)
   * [Signatures of the Synodal Fathers](1891_lviv_synod_part3_decrees_discipline_property.md#signatures-of-the-synodal-fathers)
 * **[PAPAL CONFIRMATION, SYNODAL APPENDICES (INCLUDING APPENDIX XXXI: LITURGICAL TYPIKON), AND ALPHABETICAL INDEX](1891_lviv_synod_part4_appendices_and_indices.md#papal-confirmation-synodal-appendices-including-appendix-xxxi-liturgical-typikon-and-alphabetical-index)**
+  * [Decree of Papal Confirmation](1891_lviv_synod_part4_appendices_and_indices.md#decree-of-papal-confirmation)
   * [Official Synodal Table of Contents](1891_lviv_synod_part4_appendices_and_indices.md#official-synodal-table-of-contents)
-  * [Похибки друкарскî](1891_lviv_synod_part4_appendices_and_indices.md#похибки-друкарскî)
+  * [Official Synodal Corrigenda & Typographical Errata (*Похибки друкарскî*)](1891_lviv_synod_part4_appendices_and_indices.md#official-synodal-corrigenda-typographical-errata-похибки-друкарскî)
 
 ---
 

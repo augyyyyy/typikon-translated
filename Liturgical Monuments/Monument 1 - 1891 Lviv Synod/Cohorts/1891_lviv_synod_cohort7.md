@@ -35,10 +35,6 @@
 
 ---
 
-## 1. Titulus IV. On the Public Worship of God (Continued)
-
-### Chapter III: On the Canonical Hours (The Church Rule) and Other Public Divine Services (Conclusion)
-
 *(Physical Page 121 / Leaf p121 / Book Page 119)*
 
 ...shall be celebrated at the customary hour, and Great Vespers, which is to be joined, as we have said above, with Matins.
@@ -251,8 +247,7 @@ As to the patronal feast in particular, let Pastors endeavor that the same, so f
 
 ---
 
-## 2. Scholarly Critical Apparatus & Footnotes
-
+## Footnotes
 [^123]: 1 Cor. 14:40 — "Let all things be done decently and in order" (*всяже благообразно и по чину да бываютъ* / *omnia honeste et secundum ordinem fiant*), citing the Pauline apostolic principle of liturgical decorum, public reverence, and celestial harmony in divine worship.
 
 [^124]: St. Alphonsus Maria de Liguori, *Silva de materia praedicabili* (*Selva di materia predicabile*), Part II, Instruction 2: *De oratione mentali et recitatione Divini Officii* (On Mental Prayer and the Recitation of the Divine Office), expounding that the Divine Office honors God, repels demonic assaults, and pleads for divine mercy for sinners.

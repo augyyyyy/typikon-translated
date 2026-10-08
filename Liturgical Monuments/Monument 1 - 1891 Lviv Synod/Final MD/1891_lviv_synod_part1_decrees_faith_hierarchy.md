@@ -1,5 +1,7 @@
 # SYNODAL DECREES PART I: TITULI I–IV (On the Catholic Faith, Hierarchy, Bishops, and Diocesan Administration)
 
+## Titulus I. On the Catholic Faith
+
 ### CHAPTER I. On the Profession of the Catholic Faith
 
 I. We decree that the "Profession of Faith" according to the specimen annexed hereto [^23] for Easterners, prescribed by Pope Urban VIII, shall be made by:  
@@ -38,60 +40,6 @@ All things, therefore, which the Catholic Church, whether by solemn judgment or 
 2. Let them take heed, however, that they never have with them such relations as are called "in sacred things" (in spiritual matters); and this the more so, because thereby non-Catholics might be confirmed in the errors of their false religion, as though by a tacit approval of the same on the part of the faithful; wherefore such communion "in sacred things" (in spiritual matters) hath been forbidden in the Church of Christ at all times, both by the canons of councils and by the decrees of the Supreme Pontiffs and the Roman Sacred Congregations, as also by the teachings of the holy Fathers. For in the canon law of the Greeks many canons are cited concerning this subject, the so-called "Apostolic Canons," namely [^37]: *"If anyone shall pray, even in a house, with an excommunicated person, let him be excommunicated"* [^38]; *"If anyone, being a clergyman, shall pray together with one who is deposed, let him also be deposed"* [^39]; *"If a bishop, or presbyter, or deacon, shall only pray with heretics, let him be excommunicated; but if he hath permitted them to perform any clerical ministration, let him be deposed"* [^40].
 3. Two ancient provincial councils of the East are likewise cited there, namely: of Antioch and of Laodicea, of which the former decreed thus: *"It is not lawful to communicate with those who are excommunicated, nor to assemble in houses to pray with those who do not communicate in the Church, nor can those be received in one Church who have no part in another Church"* [^41]; and the latter thus: *"Heretics must not be permitted to enter into the house of God while they continue in heresy. It is not fitting to permit those who belong to the Church to visit the cemeteries or places called martyria (shrines of martyrs) of any heretics for the sake of prayer or veneration. But such, if they be of the faithful, shall be deprived of communion for an appointed time; yet if they repent and confess that they have sinned, it is fitting to receive them. Likewise it is not fitting to pray with heretics or schismatics"* [^42].  
 As for the decrees of the Supreme Pontiffs and the Sacred Congregations, they, explicitly and expressly treating of this matter, forbid communion in sacred things with non-Catholics, as is evident from the instructions of the Congregation of the Holy Office of June 8, 1859, "On communion with heretics" (*Communicatio cum haereticis*); likewise of the year 1871 to the Archbishop of Corfu, "On the conferral of the Sacrament of Baptism" (*In collatione Sacram. baptismi*); likewise of the year 1729, "Whereas often" (*Cum saepe*); likewise of Thursday, May 10, 1753, "To the first" (*Ad primum*); and of Friday, June 1, 1866, to the Latin-rite Archbishop of Lviv, "It may be tolerated" (*Tolerari posse*); and finally of March 30, 1885, which are appended hereto in the appendix of this Synod [^43].
-
----
-
-## 3. Scholarly Critical Apparatus & Footnotes
-
-[^23]: Refers to Appendix I (*Додатокъ ч. 1*) appended to the Synodal Acts, containing the *Forma Fidei Orthodoxae* (Formula of Orthodox Faith) prescribed for Eastern Catholics under Pope Urban VIII (1642), updated to include the dogmatic definitions of the Immaculate Conception (1854) and the First Vatican Council (1870). The Synod mandates this profession of faith for all bishops prior to consecration, cathedral canons prior to installation, religious superiors, theologians, professors, pastors, catechists, deans, and candidates for Holy Orders.
-
-[^24]: Heb. 11:6 — "But without faith it is impossible to please God: for he that cometh to God must believe that He is, and that He is a rewarder of them that diligently seek Him."
-
-[^25]: Appendix II of the Synodal Acts (*Додатокъ ч. 2*), reproducing the Dogmatic Constitution on the Catholic Faith *Dei Filius* promulgated by the First Vatican Council in Session III (April 24, 1870), setting forth Catholic dogma regarding God the Creator, divine revelation, faith, and the mutual harmony between faith and reason.
-
-[^26]: Appendix III, III-a, and III-b of the Synodal Acts (*Додатокъ ч. 3, 3а, 3б*), reproducing the First Dogmatic Constitution on the Church of Christ *Pastor Aeternus* promulgated by the First Vatican Council in Session IV (July 18, 1870), defining the apostolic primacy and supreme, full, ordinary, and immediate episcopal jurisdiction of the Roman Pontiff over all pastors and faithful, as well as the dogma of papal infallibility when speaking *ex cathedra*.
-
-[^27]: Appendix IV and IV-a of the Synodal Acts (*Додатокъ ч. 4, 4а*), reproducing the Apostolic Constitution *Ineffabilis Deus* promulgated by Pope Pius IX on December 8, 1854, defining the dogma that the Most Blessed Virgin Mary was, from the first instant of her conception, preserved free from all stain of original sin by a singular grace and privilege of Almighty God in view of the merits of Jesus Christ, Savior of the human race.
-
-[^28]: Appendix V of the Synodal Acts (*Додатокъ ч. 5*), reproducing the Encyclical Letter *Quanta cura* promulgated by Pope Pius IX on December 8, 1864, condemning modern ideological errors concerning rationalism, naturalism, religious indifferentism, and the secular state's usurpation of ecclesial authority.
-
-[^29]: Appendix VI of the Synodal Acts (*Додатокъ ч. 6*), reproducing the *Syllabus of Errors* (*Syllabus complectens praecipuos nostrae aetatis errores*) issued under Pope Pius IX on December 8, 1864, cataloging eighty contemporary errors regarding pantheism, naturalism, absolute and moderate rationalism, indifferentism, socialism, secret societies, and the rights of the Church and civil power.
-
-[^30]: Appendix VII, VII-a, and VII-b of the Synodal Acts (*Додатокъ ч. 7, 7а, 7б*), reproducing Pope Leo XIII's Encyclical Letter *Quod Apostolici Muneris* (December 28, 1878), condemning the tenets of socialism, communism, and nihilism, and expounding the Catholic doctrine on human society, legitimate civil authority, Christian marriage, family order, and the natural right to private property.
-
-[^31]: Appendix VIII of the Synodal Acts (*Додатокъ ч. 8*), reproducing Pope Leo XIII's Encyclical Letter *Immortale Dei* (November 1, 1885) on the Christian constitution of states (*De civitatum constitutione christiana*), setting forth the divine foundation of civil society, the legitimate distinction and proper coordination between ecclesiastical and civil jurisdictions, and the duties of Catholic citizens in public life.
-
-[^32]: Appendix IX of the Synodal Acts (*Додатокъ ч. 9*), reproducing Pope Leo XIII's groundbreaking social Encyclical Letter *Rerum novarum* (May 15, 1891) on the condition of the working classes (*De condicione opificum*), establishing Catholic principles regarding human labor, fair wages, workers' associations, private property, and state intervention against socio-economic exploitation.
-
-[^33]: Appendix X of the Synodal Acts (*Додатокъ ч. 10*), reproducing Titulus I *De Fide Catholica* of the Ruthenian Provincial Synod of Zamość (1720), which solemnly affirmed the adherence of the Ruthenian Greek Catholic Church to Catholic dogma, the decrees of the Ecumenical Councils, and full communion with the Roman See.
-
-[^34]: Appendix XI of the Synodal Acts (*Додатокъ ч. 11*), compiling canonical, patristic, and papal pronouncements against religious indifferentism, underscoring the necessity of the Catholic Church as the sole ark of salvation and the obligation of pastors to instruct the faithful in the doctrinal differences distinguishing Catholic truth from Eastern Orthodoxy.
-
-[^35]: 2 John 10–11 — "If there come any unto you, and bring not this doctrine, receive him not into your house, neither bid him God speed: for he that biddeth him God speed is partaker of his evil deeds."
-
-[^36]: Titus 3:10–11 — "A man that is a heretic after the first and second admonition reject; knowing that he that is such is subverted, and sinneth, being condemned of himself."
-
-[^37]: Apostolic Canon 10: "If any one shall pray, even in a private house, with an excommunicated person, let him also be excommunicated" (in Byzantine canonical collections: *Εἴ τις ἀκοινωνήτῳ, κἂν ἐν οἴκῳ, συνεύξηται, οὗτος ἀφοриζέσθω*).
-
-[^38]: Apostolic Canon 11: "If any clergyman shall join in prayer with a deposed clergyman, as a clergyman, let him also be deposed" (*Εἴ τις καθῃρημένῳ κληρικῷ, ὡς κληρικὸς συνεύξηται, καθαιρείσθω καὶ αὐτός*).
-
-[^39]: Apostolic Canon 45 (numbered 44 in certain Western canonical editions and manuscripts, including Hardouin): "Let a bishop, presbyter, or deacon, who has only prayed with heretics, be excommunicated; but if he has permitted them to perform any clerical ministration, let him be deposed" (*Ἐπίσκοπος, ἢ πρεσβύτερος, ἢ διάκονος, αἱρετικοῖς συνευξάμενος μόνον, ἀφοриζέσθω· εἰ δὲ καὶ ἐπέτρεψεν αὐτοῖς ὡς κληρικοῖς ἐνεργῆσαί τι, καθαιρείσθω*).
-
-[^40]: Jean Hardouin, S.J. (*Joannes Harduinus*), *Acta Conciliorum et Epistolae Decretales ac Constitutiones Summorum Pontificum* (Paris, 1715), Vol. I, cols. 12 and 21, collecting the Canons of the Apostles from Greek and Latin canonical codices.
-
-[^41]: Council of Antioch in Encaeniis (A.D. 341), Canon 2: Forbidding ecclesiastical communion or private house-prayer with those cut off from Church communion; Hardouin, *Acta Conciliorum*, Vol. I, col. 593.
-
-[^42]: Council of Laodicea (4th century), Canons 6, 9, and 33: Canon 6 forbids heretics to enter into the house of God while remaining in heresy; Canon 9 forbids Catholics from frequenting heretical cemeteries or alleged shrines of martyrs (*martyria*) for prayer; Canon 33 expressly commands: "One must not join in prayer with heretics or schismatics" (*Ὅτι οὐ δεῖ αἱρετικοῖς ἢ σχισмаτικοῖς συνεύχεσθαι*); Hardouin, *Acta Conciliorum*, Vol. I, cols. 781, 785.
-
-[^43]: Appendix XII and XII-a, b, c, d of the Synodal Acts (*Додатокъ ч. 12, 12а, 12б, 12в, 12г*), collecting normative instructions and responsa of the Supreme Sacred Congregation of the Holy Office (*Sanctum Officium*) regulating *communicatio in sacris* with non-Catholics: the General Instruction of June 8, 1859 (*Communicatio cum haereticis*); the Rescript of 1871 to the Archbishop of Corfu regarding baptismal sponsorship and administration (*In collatione Sacramenti baptismi*); the Decree *Cum saepe* of 1729; the Responsum *Ad primum* of Thursday, May 10, 1753; the Rescript *Tolerari posse* of Friday, June 1, 1866, addressed to the Latin Archbishop of Lviv; and the Holy Office Instruction of March 30, 1885.
-
-# Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)
-
----
-
-## 1. Decrees of the Ruthenian Provincial Synod: Titulus I. On the Catholic Faith (Continued)
-
-### Chapter IV: On Communion in Sacred Things with Heretics and Schismatics (Conclusion)
 
 Further, that doctrine of the Catholic Church concerning communion in sacred things with non-Catholics was also clearly set forth by our Synod of Zamość, which decided thus: *"Moreover, it is not permitted to anyone, of whatever state or station he may be, who professeth the Catholic faith, to go unto outside pastors and their churches, whether for the reception of the Mysteries or out of devotion, lest it appear that they have actual communion with those who are without; in the contrary case, Ordinaries shall proceed against them as against suspects."* [^44]
 
@@ -232,100 +180,6 @@ As to the text and rubrics (*ustav*) of this Holy Mystery, the new edition shall
 4. Finally, as to the jurisdiction (*sudovlastia*) of confessors: although according to common law their jurisdiction is limited to their own subjects, yet on account of the custom long since received in our regions and approved by the Bishops of the various rites, they may hear the confessions also of other faithful not subject to them, whether they be of the same or of another rite, as is also declared in the *Concordia*, or whether of their own or of another Eparchy of this Province, without violating however the right of reservation belonging to individual Bishops. Preachers and confessors therefore shall have in their possession a written list of all cases reserved not only to the Pope, as indicated in the Constitution *Apostolicae Sedis* ("Of the Apostolic See") [^85], but also to the Bishops of the three Catholic rites, lest (confessors) through carelessness arrogate authority unto themselves. Yet notwithstanding all this, let confessors know that their jurisdiction doth not extend to monasteries, and especially to monasteries of nuns; only for hearing the confessions of nuns is it necessary to be provided with special approval from the Ordinaries of the respective monasteries.
 
 5. Finally, pastors of souls shall strive that for hearing confessions they have confessional booths (*spovidalnytsi*) in their churches, so that they may receive the confessions of the faithful therein conveniently and decorously.
-
----
-
-## 3. Scholarly Critical Apparatus & Footnotes
-
-[^44]: Ruthenian Provincial Synod of Zamość (1720), Titulus I *De fide catholica*, strictly prohibiting Catholics of whatever state or station from frequenting the churches or ministries of non-Catholic or schismatic pastors for the reception of sacraments or out of personal devotion, lest they give the appearance of having real communion with those outside the Church; commanding Ordinaries to proceed against transgressors as suspect of heresy.
-
-[^45]: 1 Peter 5:2 — "Feed the flock of God which is among you, taking the oversight thereof, not by constraint, but willingly; not for filthy lucre, but of a ready mind."
-
-[^46]: John 10:4 — "And when He putteth forth His own sheep, He goeth before them, and the sheep follow Him: for they know His voice."
-
-[^47]: Acts 19:19 — "Many of them also which used curious arts brought their books together, and burned them before all men: and they counted the price of them, and found it fifty thousand pieces of silver."
-
-[^48]: François-Louis-Michel Maupied, *Compendium Juris Canonici universi ad usum cleri et seminariorum*, Vol. II: *De personis*, lib. 2, treating of the canonical establishment of the Sacred Congregation of the Index (*Sacra Congregatio Indicis*) by Pope St. Pius V in 1571 via the Apostolic Constitution *Cum pro munere*, charging it with examining suspect publications and updating the *Index Librorum Prohibitorum*.
-
-[^49]: Gen. 3:5 — "For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil."
-
-[^50]: Matt. 18:9 — "And if thine eye offend thee, pluck it out, and cast it from thee: it is better for thee to enter into life with one eye, rather than having two eyes to be cast into hell fire."
-
-[^51]: Matt. 16:26 — "For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul?"
-
-[^52]: Matt. 18:7 — "Woe unto the world because of offences! for it must needs be that offences come; but woe to that man by whom the offence cometh!"
-
-[^53]: Pope Pius IX, Apostolic Constitution *Apostolicae Sedis moderationi* (October 12, 1869), Section II, no. IV, decreeing excommunication reserved to the Roman Pontiff against those who enter the Masonic sect or other secret societies conspiring against the Church or legitimate civil authority, as well as those who favor, conceal, or fail to denounce their leaders.
-
-[^54]: Responsum of the Supreme Sacred Congregation of the Holy Office (*Sanctum Officium*), February 1, 1871, providing that the censure of excommunication incurred for membership in Freemasonry or secret societies ceases and sacramental absolution may be imparted once the penitent makes formal denunciation of the secret chiefs and occult coryphaei to the competent ecclesiastical authority.
-
-[^55]: Appendix XIV (*Додатокъ ч. 14*) of the Synodal Acts: Instruction of the Supreme Sacred Congregation of the Holy Office, May 10, 1884, addressed to all Catholic ordinaries concerning the dangerous propagation of occult brotherhoods, clandestine associations operating under oaths of secrecy, and deceptive philanthropic fronts.
-
-[^56]: Isa. 61:1–2; Luke 4:18–19 — "The Spirit of the Lord is upon Me, because He hath anointed Me to preach the gospel to the poor; He hath sent Me to heal the brokenhearted, to preach deliverance to the captives... to preach the acceptable year of the Lord, and the day of recompense."
-
-[^57]: Mark 16:15 — "And He said unto them, Go ye into all the world, and preach the gospel to every creature."
-
-[^58]: 2 Tim. 4:2 — "Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all longsuffering and doctrine."
-
-[^59]: Council of Trent: Session V (June 17, 1546), Chapter 2 *De reformatione* (defining the preaching of the Gospel as the chief duty of bishops and pastors); Session XXIII (July 15, 1563), Chapter 1 *De reformatione*; Session XXIV (November 11, 1563), Chapter 4 *De reformatione*; reproduced in Appendix XV (*Додатокъ ч. 15*) of the Synodal Acts.
-
-[^60]: Ruthenian Provincial Synod of Zamość (1720), Titulus II *De praedicatione verbi Dei*, obliging all pastors and preachers to instruct the faithful in the Word of God on all Sundays and solemn feast days.
-
-[^61]: Pastoral Letters of Greek Catholic Metropolitan of Lviv Spyrydon Lytvynovych of blessed memory, February 9, 1865, No. 5722, and Bishop of Przemyśl Ivan Stupnytsky, June 28, 1873, on the grave pastoral obligation of regular Sunday preaching and catechetical instruction.
-
-[^62]: Jer. 48:10 (Septuagint Jer. 31:10) — "Cursed be he that doeth the work of the Lord deceitfully [negligently]" (*Проклятъ творяй дѣло Господне съ небреженіемъ* / *Maledictus qui facit opus Domini fraudulenter*).
-
-[^63]: Provincial Council of Vienna (1858), Session IV, Titulus IV, Chapter 4: on conciliar discipline and prudence in sacred preaching, forbidding pastors from venting personal complaints, injuries, or political partisanship from the ambo, and enjoining private fraternal correction rather than public naming of individual sinners.
-
-[^64]: 1 Cor. 9:27 — "But I keep under my body, and bring it into subject: lest that by any means, when I have preached to others, I myself should be a castaway."
-
-[^65]: St. John Chrysostom, cited in the *Pharetra* of St. Bonaventure (Bk. I, ch. 15), received by the Provincial Council of Prague (1860), Titulus II, Chapter 5 *On Preaching the Word of God*: "Great is the condemnation of him who ordereth his discourse well, but neglecteth his own life and his own works."
-
-[^66]: *Pastoral Instruction of Eichstätt* (*Instructio Pastoralis Eystettensis*), Titulus IX, Chapter II, § 6, obliging pastors to summon and admonish negligent parents and guardians who fail to send children and domestic servants to parish catechesis.
-
-[^67]: Appendix XVI (*Додатокъ ч. 16*) of the Synodal Acts: Pastoral Letter of Metropolitan Joseph Sembratovych to the clergy of the Archeparchy of Lviv, December 15, 1876, on the systematic religious instruction and catechetical formation of youth in church and elementary schools.
-
-[^68]: 2 Tim. 4:7–8 — "I have fought a good fight, I have finished my course, I have kept the faith: henceforth there is laid up for me a crown of righteousness, which the Lord, the righteous judge, shall give me at that day."
-
-[^69]: Ruthenian Provincial Synod of Zamość (1720), Titulus III *De Sacramentis*, codifying the dignity, matter, form, and proper administration of the Seven Holy Mysteries for the Ruthenian Church.
-
-[^70]: Appendix XVII (*Додатокъ ч. 17*) of the Synodal Acts: The Decree *Concordia* between the Greek Catholic and Latin Hierarchies of Galicia, promulgated by the Sacred Congregation *de Propaganda Fide* on October 5, 1863, establishing norms governing inter-ritual relations, jurisdiction of pastors, and sacramental administration.
-
-[^71]: Pope Eugenius IV, Bull *Cantate Domino* (February 4, 1442; Council of Florence), Session XI, Decree for the Copts and Ethiopians, warning against delay in the baptism of newborn infants and mandating prompt administration.
-
-[^72]: Clementine Constitutions (*Clementinae*), Lib. III, Tit. XV, cap. unicum *De Baptismo et eius effectu* (Council of Vienne, 1311–1312, promulgated by Pope John XXII in 1317), mandating the administration of baptism in parish churches equipped with baptismal fonts, except in grave necessity.
-
-[^73]: Diocesan Synod of Ferrara (1751), Part II, Chapter 2 *De Baptismo*, celebrated under Cardinal Marcello Crescenzi, regarding the canonical selection, spiritual qualifications, and moral duties of baptismal sponsors (godparents / *kumy*).
-
-[^74]: Appendix XVIII (*Додатокъ ч. 18*) of the Synodal Acts: Draft Rubrical Schema and official text (*Ordo Baptismi et Confirmationis*) for the new *Trebnik* (Ritual) mandated by the Synod of Lviv.
-
-[^75]: Ruthenian Provincial Synod of Zamość (1720), Titulus III, § 2 *De Sacramento Confirmationis*, directing that old Holy Chrism be burned upon a clean stone and its ashes reverently cast into the *Sacrarium*.
-
-[^76]: Appendix XVIII (*Додатокъ ч. 18, выпускъ*) of the Synodal Acts: Official liturgical order and rubrics for the Administration of the Mystery of Holy Chrismation (*Ordo Confirmationis*).
-
-[^77]: Matt. 26:26 — "And as they were eating, Jesus took bread, and blessed it, and brake it, and gave it to the disciples, and said, Take, eat; this is My body."
-
-[^78]: Gen. 1:28 — "And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth."
-
-[^79]: St. John Chrysostom, *Homily on the Treachery of Judas* (*De proditione Judae*, Hom. I & II; PG 49, 373–392), preached on Great Thursday/Friday, asserting that Christ Himself is present to consecrate the gifts, and that the words "This is My Body" effect the transubstantiation of the Eucharistic offerings.
-
-[^80]: St. John Chrysostom, *Homily II on the Second Epistle to the Corinthians*, no. 4 (PG 61, 393–404), affirming that the Eucharistic sacrifice offered today is identical with that instituted by Christ at the Last Supper.
-
-[^81]: St. Irenaeus of Lyons, *Against Heresies* (*Adversus Haereses*), Book V, Chapter 2, no. 3: "When therefore the mingled cup and the broken bread receive the Word of God, it becometh the Eucharist of the Body and Blood of Christ."
-
-[^82]: St. Gregory of Nyssa, *Catechetical Oration* (*Oratio Catechetica Magna*), Chapter 37 (PG 45, 93–97), affirming that the Eucharistic bread is immediately transfigured into the Body of the Word through the divine utterance: "This is My Body."
-
-[^83]: Ruthenian Provincial Synod of Zamość (1720), Titulus III, § 3 *De Sacramento Eucharistiae*, regulating the administration of Holy Viaticum to the sick and canonical vestment exemptions for distant journeys.
-
-[^84]: Ruthenian Provincial Synod of Zamość (1720), Titulus III, § 5 *De Sacramento Poenitentiae*, reaffirming the canonical tradition of the Christian East enjoining confession and communion at least three times yearly: at Pascha, the Dormition of the Theotokos, and the Nativity of Christ.
-
-[^85]: Appendix XVIII-b (*Додатокъ ч. 18б*) of the Synodal Acts: Comprehensive catalog of reserved sins and censures (*Casus reservati*) under the Apostolic Constitution *Apostolicae Sedis* (1869) and the diocesan reservation tables of the Ruthenian and Latin ordinaries of Galicia.
-
-# Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)
-
----
-
-## 1. Decrees of the Ruthenian Provincial Synod: Titulus II. On the Mysteries and Their Administration (Continued)
 
 ### CHAPTER V. On the Mystery of Anointing (Holy Unction)
 
@@ -512,92 +366,6 @@ Likewise, for that same reason, a priest unto whom the celebration of a perpetua
 
 2. On prescribed feast days wherein the All-Night Vigil (*Vsenoshchne bdinie*) is prescribed, since the same ordinarily consisteth of Vespers joined with Matins, the order of Compline and the Midnight Office hath no place; but in that case a double Vespers is prescribed, that is: Small Vespers, which...
 
----
-
-## 4. Scholarly Critical Apparatus & Footnotes
-
-[^86]: Ruthenian Provincial Synod of Zamość (1720), Titulus III, § 6 *De Sacramento Extremae Unctionis*, setting forth the doctrine and canonical discipline governing the administration of Holy Anointing, emphasizing that the sacrament conveys divine comfort to the soul and physical healing to the body when expedient for eternal salvation.
-
-[^87]: Council in Trullo (Quinisext Ecumenical Council, A.D. 692), Canon 15: establishing the minimum canonical age of twenty years for ordination to the Subdiaconate; Jean Hardouin, S.J. (*Joannes Harduinus*), *Acta Conciliorum et Epistolae Decretales ac Constitutiones Summorum Pontificum* (Paris, 1715), Vol. III, col. 1665.
-
-[^88]: Third Council of Carthage (A.D. 397), Canon 4: prescribing that candidates for the Diaconate must not be ordained before reaching twenty-five years of age (in subsequent Byzantine and Ruthenian canon law adapted to twenty-four completed years); Hardouin, *Acta Conciliorum*, Vol. I, col. 961.
-
-[^89]: Council of Neo-Caesarea (c. A.D. 314–325), Canon 11, and Council in Trullo (A.D. 692), Canon 14: establishing that a presbyter must not be ordained before thirty years of age, following the model of our Lord Jesus Christ, who began His public ministry at that age; Hardouin, *Acta Conciliorum*, Vol. I, col. 284 and Vol. III, col. 1665.
-
-[^90]: Council of Trent, Session XXIII (July 15, 1563), Chapter XI *De reformatione*: establishing canonical ages for Holy Orders (Subdiaconate at 21 completed years, Diaconate at 22 completed years, and Presbyterate at 24 completed years) and regulating the annual interstices (*intervalla temporum*) between the reception of successive sacred orders, while granting bishops discretionary authority to shorten these intervals for the utility of the Church.
-
-[^91]: Dr. Julian Pelesz (later Bishop of Stanyslaviv and Przemyśl), *Pastoral Theology* (*Пастырске Богословіє*), citing the Apostolic Letter of Pope Gregory XVI addressed to Austrian Archbishops and Bishops (May 22, 1841) and extended to the Crownland of Galicia on July 16, 1842, promulgated throughout the Archeparchy of Lviv by Cardinal Metropolitan Mykhailo Levytsky on January 31, 1843, regulating canonical warnings and cautions regarding mixed marriages.
-
-[^92]: Appendix XIX and XIX-a (*Додатокъ ч. 19, 19а*) of the Synodal Acts: Instruction and Decree of the Supreme Sacred Congregation of the Holy Office (Inquisition), December 22, 1888, published in the *Lviv Archeparchial Gazette* (*Львôвскіи Архієпархіальнӣ Вѣдомости*), 1889, No. 4, ord. 29, establishing binding universal norms and cautions concerning mixed marriages between Catholics and non-Catholics.
-
-[^93]: Dr. Julian Pelesz, *Pastoral Theology*, Part IX, § 367, p. 854; and Appendix XX (*Додатокъ ч. 20*) of the Synodal Acts: Joint Pastoral Instruction of the Galician Greek Catholic Hierarchs (Metropolitan Spyrydon Lytvynovych and Bishop Joseph Sembratovych), June 24 / July 6, 1868, addressing the pastoral and canonical status of civil marriages (*гражданскі супружества*) enacted under Austrian imperial civil legislation of May 25, 1868.
-
-[^94]: St. Thomas Aquinas, *Summa Theologiae*, Pars III, quaestio 87, articulus 8: "Whether venial sin is remitted by the sacramentals and blessings of the Church?" St. Thomas expounds that sacramentals and ecclesiastical blessings, acting *ex opere operantis Ecclesiae*, arouse devotion and interior contrition, thereby remitting venial sins and conferring actual graces.
-
-[^95]: Appendix XXI (*Додатокъ ч. 21*) of the Synodal Acts: Official Schema and rubrics for the Order of Blessing a New House (*Чинъ благословенія новой храмины*) prepared by the Synodal Liturgical Commission for the new official Ruthenian *Trebnik*.
-
-[^96]: St. Augustine of Hippo, *Enarratio in Psalmum XLIV*, no. 24 (PL 36, 508–509), interpreting the verse: "At Thy right hand stood the queen in gilded clothing, surrounded with variety" (Septuagint Ps. 44:10 / Vulgate Ps. 44:10 / MT 45:9). St. Augustine formulates the classic ecclesiological principle: *"In veste sit varietas, scissura non sit"* ("In the garment let there be variety, but let there be no rent"), celebrating the legitimate diversity of languages and liturgical rites in the Catholic Church united in one faith.
-
-[^97]: Pope Pius IX, Encyclical Letter *Amantissimus humani generis* (April 8, 1862) to the Hierarchs of the Eastern Rites, solemnly declaring that the venerable diversity of Eastern liturgies and rites, far from impairing the unity of the Catholic Church, illustrates and magnifies her apostolic majesty and catholicity.
-
-[^98]: St. Thomas Aquinas, *In Isaiam Prophetam Expositio*, cap. VI, lectio 6, expounding that the fruits and merits of Christ's Passion on the Cross are communicable and applied in their fullness in every Holy Sacrifice of the Mass / Divine Liturgy.
-
-[^99]: St. John Chrysostom, *Homily XLVIII* (Homily 48), affirming that the intrinsic value and infinite efficacy of the Eucharistic Sacrifice offered upon the holy altar correspond to the infinite value of Christ's redemptive death upon the Cross.
-
-[^100]: Timothy of Jerusalem (presbyter, 6th century), *Sermon on the Prophet Simeon and the Presentation of the Lord* (*In Symeonem senecem et in occursum Domini*; PG 86, 237–252), proclaiming that through the continual offering of the Eucharistic Sacrifice the entire cosmos and universe are preserved in existence.
-
-[^101]: Venerable Bede, *On the Eucharistic Sacrifice*: recording the venerable patristic adage on the priest who, without legitimate impediment, neglects to celebrate the Divine Liturgy, thereby depriving the Holy Trinity of glory, the angels of joy, sinners of pardon, the just of divine aid, the souls in purgatory of refreshment, the Church of spiritual benefit, and himself of spiritual medicine.
-
-[^102]: Council of Trent, Session XXII (September 17, 1562), *Decretum de observandis et evitandis in celebratione Missae* (Decree on what is to be observed and avoided in the celebration of Mass), enjoining maximal interior purity of heart and solemn exterior reverential gravity upon celebrating clergy.
-
-[^103]: Ruthenian Provincial Synod of Zamość (1720), Titulus III, § 4 *De Missae celebratione*, prescribing proper clerical attire (the ankle-length cassock / soutane / *reverenda*) and modesty of bearing for all celebrating priests.
-
-[^104]: Ibid., Synod of Zamość (1720), Titulus III, § 4 *De Missae celebratione*, strictly enjoining the natural Eucharistic fast from midnight (*a media nocte*) under pain of mortal sin, condemning lax opinions asserting a mere six-hour interval from eating.
-
-[^105]: Dr. Julian Pelesz, *Pastoral Theology*, expounding traditional Ruthenian clerical ascetical discipline in Galicia prohibiting all tobacco smoking from midnight until the celebration of the Divine Liturgy to prevent public scandal and maintain sacramental reverence.
-
-[^106]: St. Bernard of Clairvaux, cited in St. Alphonsus Maria de Liguori, *Selva di materia predicabile* (*Silva materiarum praedicabilium*), Part II, Instruction I *On the Celebration of Mass*, urging priests to cleanse their souls even of the smallest venial blemishes before ascending the altar, alluding to our Lord's words to St. Peter at the washing of feet (John 13:8).
-
-[^107]: Council of Trent, Session XIII (October 11, 1551), Chapter 7 *On the Holy Eucharist*, decreeing that anyone conscious of mortal sin, however contrite he may believe himself to be, must not approach the Holy Eucharist without previous sacramental confession; in urgent necessity when a confessor is lacking, he must make an act of perfect contrition and confess as soon as possible thereafter.
-
-[^108]: Council of Trent, Session XXII (September 17, 1562), Chapter 5 *On the Ceremonies and Rites of the Mass*, defining that the Church employs external liturgical ceremonies, vestments, and visible signs to elevate the majesty of the divine sacrifice and inspire the faithful to contemplate heavenly mysteries.
-
-[^109]: Pastoral Letter of Greek Catholic Metropolitan of Lviv Spyrydon Lytvynovych of blessed memory, February 9, 1865, No. 5722, regulating the schedule of parochial services and establishing 10:00 AM as the standard hour for Sunday high Divine Liturgy.
-
-[^110]: Synod of Zamość (1720), Titulus III, § 4 *De Missae celebratione*, commanding that parochial Liturgies begin before noon, except on designated fast-day vigils and Holy Week services.
-
-[^111]: *Lenten Triodion* (Church Slavonic edition), Monday of the First Week of the Great Fast, rubrics governing the daytime celebration of the Liturgy of the Presanctified Gifts, typically beginning around the tenth hour before noon.
-
-[^112]: Appendix XXIII (*Додатокъ ч. 23*) of the Synodal Acts: Encyclical Letter *Amantissimi Redemptoris* of Pope Pius IX (May 3, 1856) to all Catholic Hierarchs, affirming the grave personal obligation of residential bishops and parish priests to offer the Holy Sacrifice of the Mass for the people (*Missa pro populo*) on all Sundays and holy days of obligation, including feasts suppressed in civil calendars (*dies festi abrogati*).
-
-[^113]: Appendix XXIV (*Додатокъ ч. 24*) of the Synodal Acts: Rescript of Pope Leo XIII (June 26, 1886) addressed to Metropolitan Sylvester Sembratovych of Lviv, authorizing Galician Greek Catholic pastors to fulfill the *Missa pro populo* obligation on Sundays for holy days transferred from weekdays.
-
-[^114]: Pope Innocent XII, Apostolic Constitution *Nuper* (December 23, 1697), reproduced in Appendix XXV (*Додатокъ ч. 25*) of the Synodal Acts, prohibiting beneficiaries and pastors from reducing, altering, or commuting the number of foundation Masses (*Missae fundatae*) on their private authority without apostolic or episcopal dispensation.
-
-[^115]: Pope Benedict XIV, Apostolic Constitution *Quanta cura* (June 30, 1741), reproduced in Appendix XXVI (*Додатокъ ч. 26*) of the Synodal Acts; and Synod of Zamość (1720), Titulus III, § 4: strictly condemning simony, improper negotiations, and the unlawful trafficking of Mass stipends (*turpe lucrum*).
-
-[^116]: Pope Urban VIII, Decree *Cum saepe* (January 10, 1625), and Pope Innocent XII, Constitution *Nuper* (December 23, 1697); Synod Appendices XXV and XXVI: mandating that whenever a priest transfers a manual Mass stipend to another celebrant, he must remit the stipend in its entirety without retaining any portion.
-
-[^117]: Sacred Congregation of the Council (*Sacra Congregatio Concilii*), Decrees of June 21, 1625 and March 25, 1745, reproduced in Appendix XXVII (*Додатокъ ч. 27*) of the Synodal Acts: distinguishing between manual stipends and parochial benefice endowments (*congrua*), allowing an incumbent pastor who delegates a foundation Mass to provide the celebrant with the standard local stipend while retaining the surplus endowment for parochial maintenance.
-
-[^118]: Sacred Congregation of the Council, Rescript of July 25, 1874, reproduced in Appendix XXVIII (*Додатокъ ч. 28*) of the Synodal Acts: permitting pastors unable to celebrate incidental stole-fee Liturgies personally (e.g., weddings or funerals) to delegate the celebration to another priest by remitting the standard local stipend for a read or sung Liturgy while preserving the parish stole dues.
-
-[^119]: St. Alphonsus Maria de Liguori, *Theologia Moralis*, Book VI, no. 321, confirming the canonical licitness of retaining the surplus endowment of a major foundation bequest established for a priest's sustenance while remitting the customary stipend to a substitute celebrant.
-
-[^120]: Sacred Congregation of the Council, Decree of July 17, 1655, reproduced in Appendix XXIX (*Додатокъ ч. 29*) of the Synodal Acts: forbidding priests from accepting or accumulating more Mass intentions than can be satisfied within a reasonable period (one to two months), unless explicit consent for delay was granted by the donor.
-
-[^121]: Pope Innocent XII, Constitution *Nuper* (December 23, 1697); and Synod of Zamość, Titulus III, § 4: prohibiting priests from independently amalgamating several smaller donations into a single celebrated Mass, reserving the authorization of composite stipend arrangements at shrines and pilgrimage sites to the local Ordinary.
-
-[^122]: Provincial Council of Prague (1860), Titulus III, Chapter 3 *On Mass Obligations*; and Galician eparchial statutes: commanding all priests and parish churches to maintain dedicated Mass registers (*Liber Missarum / книги стипендій*) accurately recording all Mass intentions received, dates celebrated, and remittances.
-
-# Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)
-
----
-
-## 1. Titulus IV. On the Public Worship of God (Continued)
-
-### Chapter III: On the Canonical Hours (The Church Rule) and Other Public Divine Services (Conclusion)
-
 ...shall be celebrated at the customary hour, and Great Vespers, which is to be joined, as we have said above, with Matins.
 
 3. The ordinance of the Church to celebrate publicly (with the whole people) all the above-mentioned Canonical Hours (the Church Rule) hath commendably always been observed in our Monasteries, which shall also be preserved in the future. In secular Churches, however, that celebration hath fallen under a certain limitation, since present custom permitteth that daily there be celebrated publicly in cathedral Churches: Vespers, Matins, and the First Hour, while the remaining three Hours as well as Compline (which, however, during the Great Forty Days [Lent] is celebrated also in Church publicly) and the Midnight Office are left unto private recitation. In parochial Churches, however, only on Sundays and feast days are there celebrated by custom Matins or the All-Night Vigil with the First Hour in the morning, and a second Vespers in the afternoon. That same custom, adopted among us of old, pastors shall strictly observe; the remaining parts of divine worship they shall recite privately, and that according to the abbreviated model composed by the Lviv Liturgical Commission and approved by the Holy Apostolic See. That manner of reciting the liturgical orders privately priests are bound to observe also on all weekdays whereon customarily no divine service is celebrated in Church.
@@ -613,10 +381,6 @@ Likewise, for that same reason, a priest unto whom the celebration of a perpetua
 ### Chapter IV: On the Celebration of Extraordinary Services, Whereof Some are Bound unto Immovable Feasts, and Others unto Moveable Feasts
 
 *As to Services bound unto immovable feasts:*
-
-#### I.
-
-1. On the Feast of the Exaltation of the Precious Cross, on the 14th day of September, pastors are bound to bring forth the Holy Cross for the veneration of the people with all the rites prescribed in the Typikon of that day, and having thus brought it forth and placed it upon the Tetrapod before the Iconostasis, to retain it there until the Apodosis (*Otdaniye*) of the Feast; and if during that time any divine service should take place in Church, then upon the conclusion of that service veneration shall take place during the singing of the Troparion: *"We bow down before Thy Cross, O Master, and we glorify Thy holy Resurrection."*
 
 2. In the months of December and January, on the Eve or on the Friday before the Eve of the Nativity of Christ and Theophany, according to the directions of the Typikon, pastors shall celebrate in Church the Special Hours, commonly called the *Royal Hours*, with the addition of the Order of the *Typika* (*Izobrazitelni*). In particular, as to the Feast of Theophany, they shall celebrate the Blessing of Water: once on the Eve of the Feast upon the conclusion of Vespers, and then on the very day of the Feast more solemnly after the Prayer behind the Ambo.
 
@@ -733,54 +497,6 @@ Finally, let pastors endeavor to instruct the people that on a feast day also in
 As to the patronal feast in particular, let Pastors endeavor that the same, so far as possible, be celebrated in the most solemn manner, arousing especially their faithful unto the reception of the Holy Mysteries of Confession and Communion; and unto this end let them invite neighboring pastors that they may assist them in that matter, of whom one of the more capable and zealous let them not forget to invite to preach the sermon.
 
 7. That the faithful may know which feasts they are bound by command to keep, the Synod admonisheth pastors that they shall publicly and distinctly announce those feasts, and that on the nearest preceding Sunday or feast day, each time in Church. Those feasts are the following:
-
----
-
-## 2. Scholarly Critical Apparatus & Footnotes
-
-[^123]: 1 Cor. 14:40 — "Let all things be done decently and in order" (*всяже благообразно и по чину да бываютъ* / *omnia honeste et secundum ordinem fiant*), citing the Pauline apostolic principle of liturgical decorum, public reverence, and celestial harmony in divine worship.
-
-[^124]: St. Alphonsus Maria de Liguori, *Silva de materia praedicabili* (*Selva di materia predicabile*), Part II, Instruction 2: *De oratione mentali et recitatione Divini Officii* (On Mental Prayer and the Recitation of the Divine Office), expounding that the Divine Office honors God, repels demonic assaults, and pleads for divine mercy for sinners.
-
-[^125]: St. John Cassian, *Conferences* (*Collationes Patrum*), Conference XXIII (*Collatio XXIII: De perfectionis fine*), Chapter 7, teaching that sacred interior prayer must proceed from the heart, so that the mind may meditate upon and the heart experience that which the lips utter (*hoc debet mens habere in corde, quod ore profert*).
-
-[^126]: St. Cyprian of Carthage, *Treatise on the Lord's Prayer* (*De Dominica Oratione*), Chapter 31 (PL 4, 539): *"Cum stamus ad orationem, fratres dilectissimi, vigilare et incumbere ad preces toto corde debemus... Quomodo te audiri a Deo postulas, cum te ipse non audias?"* ("How canst thou demand to be heard of God, when thou hearest not thyself?").
-
-[^127]: St. Alphonsus Maria de Liguori, *Silva de materia praedicabili*, Part II, Instruction 2: "Prayer made with attention is sweet-smelling incense, exceedingly pleasing unto God and obtaining treasures of grace; whereas prayer performed with voluntary distraction is a foul smoke which God abhorreth and which draweth down His chastisements."
-
-[^128]: Pope Urban IV, Papal Bull *Transiturus de hoc mundo* (August 11, 1264), establishing the solemn worldwide feast of the Most Holy Body of Christ (Corpus Christi / *Праздникъ Пресвятои Евхаристіи*) as a feast of the Lord of the first class with an eight-day octave (*cum octava*), assigned to the Thursday after Trinity Sunday (the First Sunday after Pentecost, styled in the Byzantine calendar the Sunday of All Saints).
-
-[^129]: Council of Trent, Session XIII (October 11, 1551), *Decree on the Most Holy Mystery of the Eucharist*, Chapter 5 *On the Cult and Veneration to be Paid to this Most Holy Sacrament*: solemnly praising the pious custom whereby this sublime sacrament is honored each year on a designated solemn feast day with singular reverence, carried in solemn public processions through streets and public squares.
-
-[^130]: *Acta et decreta sacrorum conciliorum recentiorum* (*Collectio Lacensis*), Vol. II (Freiburg im Breisgau: Herder, 1876), recording the conciliar decrees and liturgical celebrations of the Feast and Octave of the Most Holy Eucharist among Eastern Catholics in communion with the Holy See, including the Italo-Greeks, Greek-Melkites, Catholic Armenians, Maronites, Catholic Syrians, Chaldeans, and Catholic Copts.
-
-[^131]: Pastoral Letter of Greek Catholic Metropolitan of Lviv Spyrydon Lytvynovych of blessed memory, February 9, 1865 [in Synod text referenced as 1869, No. 5722], establishing diocesan regulations for the singing of Akathists between Matins and Divine Liturgy or prior to Vespers, safeguarding uninterrupted time for parochial catechesis and preaching.
-
-[^132]: Matt. 26:30; Mark 14:26 — "And when they had sung an hymn, they went out into the mount of Olives" (*И воспѣвше, изыдоша въ гору Єлеонъ* / *Hymnoque dicto, exierunt in montem Oliveti*), establishing our Lord Jesus Christ's divine institution of sacred liturgical hymnody at the conclusion of the Mystical Supper.
-
-[^133]: St. Augustine of Hippo, *Confessions* (*Confessiones*), Book X, Chapter 33, no. 50 (PL 32, 799–800): recording his profound tears shed at the vocal chant and hymnody of the Church in the initial fervor of his conversion, and acknowledging the great utility of sacred singing when melodiously modulated and subordinate to the holy meaning of the sacred text.
-
-[^134]: Septuagint Psalm 46:8 (MT 47:7) — "Sing ye praises with understanding" (*Пойте разумно* / *Psallite sapienter*), cited from the Royal Psalmist David to require rational, distinct, and articulate vocal liturgical singing.
-
-[^135]: St. Jerome, *Commentary on the Epistle to the Ephesians* (*Commentariorum in Epistolam ad Ephesios Libri Tres*), Book III, on Eph. 5:19 (PL 26, 528): instructing that Christians must sing and make melody in their hearts unto the Lord not merely with the voice of the throat, but with understanding of the spirit, lest vocal melodiousness obscure the sacred sense of God's Word.
-
-[^136]: St. John Chrysostom, *Homily XXXIX on the Gospel of Matthew* (*In Matthaeum Homilia XXXIX*), no. 3 (PG 57, 435–436), enjoining Christians to keep continual spiritual festival by abstaining from covetousness, luxury, and earthly anxieties, resting the body from servile works that the soul may attend to divine things.
-
-[^137]: Gen. 2:3 — "And God blessed the seventh day, and sanctified it: because that in it He had rested from all His work which God created and made."
-
-[^138]: Exod. 16:23; 20:8–11; 31:13–15 — Divine Old Testament precepts enjoining Sabbath rest and sanctification under severe penalty of law.
-
-[^139]: St. John Chrysostom, *Homily on the Baptism of Christ* (*De Baptismo Christi et de Epiphania*), no. 4 (PG 49, 369–370): rebuking negligent believers who depart the church before the conclusion of the Eucharistic sacrifice and thanksgiving hymns, comparing them to Judas Iscariot who departed prematurely from the Mystical Supper.
-
-[^140]: St. John Chrysostom, *Homily XXVIII on the First Epistle to the Corinthians* (*In Epistolam I ad Corinthios Homilia XXVIII*), no. 1 (PG 61, 231–234); and Ruthenian Provincial Synod of Zamość (1720), Titulus XVI *De festis*, condemning tavern dancing, drunken carousals, and lascivious songs on Sundays and feast days as desecrations of Christian festivals instituted for the purging of sins rather than their multiplication.
-
-# Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)
-
----
-
-## 1. Titulus IV. On the Public Worship of God (Continued)
-
-### Chapter VI: On the Celebration of Feast Days (Conclusion)
 
 #### I. Immovable Feasts:
 

@@ -1,5 +1,7 @@
 # PART II: COMMON RUBRICS FOR THE DIVERSE SERVICES OF THE OCTOECHOS AND MENAION
 
+## Part II
+
 ## Common Rubrics for the Diverse Services of the Oktoechos and Menaion
 ### Arising from the Distinction of Their Services, and from Their Diverse Concurrence with One Another
 

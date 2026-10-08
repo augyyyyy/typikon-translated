@@ -3,9 +3,6 @@
 
 ---
 
-### Titulus VII (Concluded): On the Ecclesiastical Hierarchy
-### Chapter VII (Concluded): On Seminaries
-
 === LEAF p221 ===
 *(Physical Page 221 / Book Page 217)*
 
@@ -184,8 +181,7 @@ The governance of souls is the art of arts, the holiness corresponding unto this
 
 ---
 
-## Titulus X. On Monks
-### О Монахахъ
+## Titulus X. On Monks (*О Монахахъ*)
 
 **1.** It is beyond dispute that the Monastic Orders are to be held in exceedingly high esteem, especially when it is known that the Church hath ever exalted them. Yet among the Monastic Orders, those are customarily to be regarded as most distinguished which unite the active life with the spiritual; since, gathering unto themselves an abundance of heavenly treasures, they pour them forth upon others.
 
@@ -220,8 +216,7 @@ deficiency of means, the Ordinaries shall endeavor for the present to support th
 
 ---
 
-## Titulus XI. On Fasts
-### О постахъ
+## Titulus XI. On Fasts (*О постахъ*)
 
 **1.** That the fast is to be held in the highest esteem, we know not only from the prescription of God Himself frequently commanded unto His people, and the example of Moses [^251] and of the people of Israel [^252], but also from this: that by the example of our Lord Jesus Christ through forty days in the wilderness, it was sanctified, and thereafter from Apostolic times down to our own hath been preserved.
 

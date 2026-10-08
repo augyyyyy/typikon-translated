@@ -1,5 +1,7 @@
 # PAPAL CONFIRMATION, SYNODAL APPENDICES (INCLUDING APPENDIX XXXI: LITURGICAL TYPIKON), AND ALPHABETICAL INDEX
 
+## Decree of Papal Confirmation
+
 ### By Which the Second Ruthenian Synod of Lviv Is Confirmed
 
 > [!IMPORTANT]
@@ -131,8 +133,7 @@
 * **Signatures of the Synodal Fathers** Who Subscribed to the Decrees of the Synod *(p. 258)*
 * **Decree of the Sacred Congregation *de Propaganda Fide* Confirming the Second Ruthenian Synod of Lviv** *(p. 265)*
 
-# Official Synodal Corrigenda & Typographical Errata
-## Похибки друкарскî
+## Official Synodal Corrigenda & Typographical Errata (*Похибки друкарскî*)
 
 | Original Book Page | Cited Line | Original Printed Reading (*зам.*) | Official Corrected Reading (*має бути*) | English Textual Gloss & Context |
 | :---: | :---: | :---: | :---: | :---: |

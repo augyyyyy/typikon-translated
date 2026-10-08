@@ -293,8 +293,7 @@ As soon as all those belonging to the Synod have assembled, the Metropolitan sha
 
 ---
 
-## Scholarly Critical Apparatus & Footnotes
-
+## Footnotes
 [^1]: The Provincial Synod of Zamość (1720) was convoked under Metropolitan Leo Kishka (Kiszka) and presided over by the Apostolic Nuncio Archbishop Girolamo Grimaldi. It established comprehensive canonical, liturgical, and disciplinary legislation for the Ruthenian Greek Catholic Church, confirmed by Pope Benedict XIII in the Apostolic Constitution *Apostolicus Praedecessor* on December 15, 1724. A span of 171 years elapsed between the Synod of Zamość and the convocation of the 1891 Lviv Provincial Synod.
 
 [^2]: Following the three Partitions of the Polish-Lithuanian Commonwealth (1772, 1793, 1795), the Ruthenian eparchies were geopolitically divided. Those falling under the Russian Empire (Kyiv, Polotsk, Lutsk, Brest) were systematically suppressed and forcibly liquidated by Tsars Catherine II, Nicholas I (the 1839 Synod of Polotsk), and Alexander II (the 1875 liquidation of the Eparchy of Chełm). Conversely, the eparchies annexed by the Habsburg Monarchy (the Archeparchy of Lviv and Eparchy of Przemyśl) were preserved and granted imperial protection under Austrian law.

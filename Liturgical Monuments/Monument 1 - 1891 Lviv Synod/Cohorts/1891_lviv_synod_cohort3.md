@@ -424,8 +424,7 @@ Poliyevkt Kmit, Acting Professor of Canon Law in the Seminary of Przemyśl.
 
 ---
 
-## Scholarly Critical Apparatus & Footnotes
-
+## Footnotes
 [^20]: The Provincial Council of Cologne (1859), celebrated under Cardinal Johannes von Geissel, Titulus VIII *De subscriptione et clausura Concilii*, establishing the formal canonical procedure whereby the presiding Metropolitan queries the assembled conciliar fathers for their definitive consent (*placet*) prior to promulgating the decree of conciliar dissolution.
 
 [^21]: Ibid., Provincial Council of Cologne (1859), Titulus VIII, setting forth the solemn statutory decree of conclusion and closure of the provincial council (*Decretum de clausura Concilii*), followed by the solemn thanksgiving (*Deo gratias*) and the formal charging of the conciliar notaries to compile and authenticate the synodal acts.

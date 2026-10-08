@@ -347,8 +347,7 @@ When We, by the help of God, have reached the point where everything that it was
 
 ---
 
-## Scholarly Critical Apparatus & Footnotes
-
+## Footnotes
 [^11]: The First Vatican Council (1869–1870), *Constitutio Dogmatica Prima de Ecclesia Christi* (*Pastor Aeternus*), and its preliminary procedural regulations (c. 27), strictly mandated confidentiality concerning conciliar drafts, schema distributions, and internal oral votes to protect free theological deliberation from external political interference and secular press misrepresentation until official papal confirmation and promulgation. The synodal oath of secrecy (*secretum synodale*) was likewise standard canonical practice across post-Tridentine provincial councils.
 
 [^12]: The Provincial Council of Orvieto (celebrated under the Archdiocese of Florence / Etruria in Central Italy), tit. 23, governing the exact wording of the obligation of secrecy imposed upon non-episcopal consultors, religious superiors, and lay auditors until acts and decrees receive recognitio from the Holy See.

@@ -1,5 +1,7 @@
 # SYNODAL DECREES PART II: TITULI V–X (On the Liturgy, Sacred Furnishings, Monasteries, Seminaries, Priests, and Holy Sacraments)
 
+## Titulus V. On the Holy Liturgy
+
 ### Model Text, Order, and Manner of Celebrating the Divine Liturgy
 
 The model of the text, order, and manner of celebrating the Holy Liturgy of our Holy Fathers Basil the Great and John Chrysostom, sung and read, approved by the Provincial Synod of Lviv, held in the year 1891.
@@ -68,42 +70,6 @@ Further, before the words: *"Then the deacon taketh a blessing, etc."*: page 300
 *"Having completed the prayers said before the Royal Doors, and having entered into the sanctuary through the deacon's doors, and standing before the steps of the Holy Table, they make three deep bows, ascend the steps, and standing beside the Holy Table, the priest kisseth the Holy Gospel lying upon the Table, and the deacons (if there be such) the Holy Table."*
 
 Note: As to the Psalm: "I will enter," although in certain Sluzhebniks it is found, nevertheless, since in our Sluzhebniks...
-
----
-
-## 3. Scholarly Critical Apparatus & Footnotes
-
-[^141]: Pastoral Letter of the Greek Catholic Metropolitan Ordinariate of Lviv, September 3, 1889, No. 639; reproduced in Appendix XXXI (*Додатокъ ч. 31*) of the Synodal Acts. On December 8, 1870, Pope Pius IX had declared St. Joseph the Patron of the Universal Church (*Quemadmodum Deus*); this was further amplified by Pope Leo XIII in his encyclical *Quamquam pluries* (August 15, 1889). By this synodal decree, the Ruthenian Church formally and officially adopted St. Joseph, Spouse of the Most Pure Virgin Mary, as a special Patron of the Ruthenian Church.
-
-[^142]: Appendix XXXII (*Додатокъ ч. 32*) of the Synodal Acts: Decree of the Sacred Congregation *de Propaganda Fide*, May 29, 1887, No. 5, published throughout the ecclesiastical province and specifically promulgated in the Archeparchy of Lviv on December 4, 1887, No. 358 ord., establishing canonical and artistic norms governing the design, erection, and veneration of public roadside crosses and outdoor crucifixes.
-
-[^143]: Luke 2:41 — "Now His parents went to Jerusalem every year at the feast of the Passover" (Septuagint / Vulgate: *Et ibant parentes ejus per omnes annos in Jerusalem in die solemni Paschae*). The Synod adduces the annual pilgrimage of the Holy Family to the Jerusalem Temple as the divine scriptural prototype for popular Christian pilgrimages to sanctuaries and shrines.
-
-[^144]: Pastoral Letter of the Greek Catholic Metropolitan Ordinariate of Lviv, February 3, 1884, No. 35. The Synod strictly prohibits Catholic faithful from undertaking pilgrimages to non-Catholic or dissident shrines, specifically singling out the Pochaiv Lavra in Volhynia and Suceava in Bukovina. The historic Basilian monastery of the Dormition at Pochaiv had united with Rome at the 1720 Synod of Zamość and flourished as a Greek Catholic pilgrimage center until its forcible confiscation in 1831 by Tsar Nicholas I and transfer to the Russian Orthodox Church; Suceava, preserving the relics of the Great Martyr John the New of Suceava, likewise stood under non-Catholic ecclesiastical administration.
-
-[^145]: St. Alphonsus Maria de Liguori, *Silva de materia praedicabili* (*Selva di materia predicabile*), Part III: *De exercitiis missionum* (On the Exercises of Popular Missions). St. Alphonsus forcefully defends the immense spiritual fruits of parish missions against skeptical critics, demonstrating that missions break down inveterate feuds, enforce financial and moral restitution, root out deep-seated vices, rectify sacrilegious and invalid confessions, and instill a lasting holy fear of sin.
-
-[^146]: St. Gregory the Great (Pope Gregory I), *Homiliae in Evangelia* (Homilies on the Gospels): *"Virtus enim boni operis est perseverantia"* ("For the virtue of a good work is perseverance" / "virtue is constancy in the good"). The Synod invokes St. Gregory to remind pastors that pastoral campaigns against drunkenness and social vices require unflagging steadfastness.
-
-[^147]: 1 Tim. 5:8 — "But if any provide not for his own, and specially for those of his own house, he hath denied the faith, and is worse than an infidel" (*Аще кто о своихъ паче же о присныхъ не промышляетъ, вѣры отверглся есть, и невѣрнаго горшій есть* / *Si quis autem suorum, et maxime domesticorum, curam non habet, fidem negavit, et est infideli deterior*).
-
-[^148]: 1 Tim. 3:4–5 — "One that ruleth well his own house, having his children in subjection with all gravity; for if a man know not how to rule his own house, how shall he take care of the church of God?" (*Свой домъ добрѣ правящу, чада имущу въ послушаніи со всякою чистотою. Ащеже кто своего дому не умѣетъ правити, како о Церкви Божіей прилѣжати можетъ?* / *Qui domui suae bene praesit: filios habens subditos cum omni castitate. Si quis autem domui suae praeesse nescit, quomodo ecclesiae Dei diligentiam habebit?*).
-
-[^149]: St. John Chrysostom, *Homily VI on Genesis* (*In Genesim Homilia VI*), no. 2 (PG 53, 56–57): "Make thy home a church: for thou art accountable for the salvation both of thy children and of thy servants; and even as an account of you will be demanded of us, so an account for thy servant, for thy wife, and for thy child will be demanded of each of you" (*Дôмъ твôй здѣлай церквою...*).
-
-[^150]: St. Augustine of Hippo, *Tractates on the Gospel of John* (*In Joannis Evangelium Tractatus*), Tractate LI, no. 13 (PL 35, 1768), commenting on John 12:26 ("If any man serve Me, let him follow Me"). St. Augustine defines the Christian father's household governance as an ecclesiastical and quasi-episcopal ministry (*ecclesiasticum et quodammodo episcopale munus*), admonishing, instructing, and guiding every member of the domestic church toward eternal salvation.
-
-[^151]: St. Gregory the Great (Pope Gregory I), *Regula Pastoralis* (*Pastoral Care*), Part II, Chapter 1: *"Tantum debet actionem populi actio transcendere praesulis, quantum distare solet a grege vita pastoris"* ("The conduct of the prelate ought so much to excel the conduct of the people as the life of the shepherd is wont to be distinguished from the flock").
-
-[^152]: Synodical rubrical reform to the *Order of the Divine Liturgy* (Entrance Prayers) in the Lviv *Sluzhebnik* (Stauropegion Institute edition of 1866, p. 299). The Synod decrees that the older rubrics prescribing that the clergy physically step over to kiss each sovereign icon (*Таже отходятъ къ Иконѣ Христовѣ* — and *Таже цѣлуютъ Икону Богородицы*) are eliminated / discarded, standardizing the ceremony to reciting the troparia (*Пречистому Твоему образу* and *Милосердія сущи источникъ*) while standing before the Royal Doors with a sign of the cross and moderate bow to the knees.
-
-# Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)
-
----
-
-## 1. Titulus V: On the Holy Liturgy (Continued)
-
-### Model Text, Order, and Manner of Celebrating the Divine Liturgy
 
 in our Sluzhebniks it is not found, the priest omitteth it. *After this, having made a great prostration, they descend from the steps, and having bowed once more before the Holy Table, they depart unto the Prothesis [Table of Oblation].*
 
@@ -291,28 +257,6 @@ Then the Priest proclaimeth: "Among the first remember, O Lord, etc.", page 333 
 
 ---
 
-## 2. Scholarly Critical Apparatus & Footnotes
-
-[^153]: Pope Benedict XIV (Prospero Lambertini), *De Sacrosancto Sacrificio Missae*, Lib. I, cap. 9, no. 90 (or *Lectio* 90): citing the ancient Eastern liturgical custom whereby Maronites and Ambrosians place the amice (*humerale* / *amictus* / *наплещникъ*) over the alb/sticharion. This directly corresponds to the printed footnote `1) De sacrificio Missae Lect. 90.` at the bottom of Book p. 157 (Leaf p161).
-
-[^154]: Pope Benedict XIV's *Euchologion sive Rituale Graecorum* (Rome, 1754): the exclusion of extracting separate particles on the diskos for the Honorable Cross and the Bodiless Powers (Angels). The Synod adduces this Roman edition of the Greek Euchologion and liturgical theology, explaining that particles extracted upon the diskos represent exclusively the threefold states of the Church—the Church Triumphant (the Saints), the Church Suffering (the souls in Purgatory), and the Church Militant (the living faithful)—whereas the Lamb alone represents Jesus Christ, the Head of the Church.
-
-[^155]: The solemn canonization of Saint Josaphat Kuntsevych, OSBM, Archbishop of Polotsk and Hieromartyr of Vitebsk, proclaimed by Pope Pius IX on June 29, 1867, in the Vatican Basilica. By virtue of this universal canonization, the Synod decrees that in the Proskomide commemoration the title "blessed" (*блаженнаго*) is definitively replaced with "holy" (*святаго*), and introduces the commemoration of the Slavic Apostles Saints Cyril and Methodius immediately preceding him.
-
-[^156]: The textual criticism of the Cherubic Hymn (*Херувимская пѣснь* / *Hymnus Cherubicus*). The Synod rejects the textual corruption introduced into the recent Benedictine Roman edition of the Euchologion (*Eὐχολόγιον τὸ μέγα*, Grottaferrata / Rome) which printed *"Яко Царя всѣхъ подъимемъ"* (*Ὡς τὸν βασιλέα τῶν ὅλων ὑποδεξόμενοι* understood as future subjunctive "that we may receive"), affirming instead the authentic traditional Church Slavonic reading *"Яко Царя всѣхъ подъемлюще"* (present participle matching the Greek *ὑποδεξόμενοι* / *doryphoroumenon* as "bearing up / receiving in triumph"), invisibly attended by the angelic ranks.
-
-[^157]: Liturgical textual emendation in the Anaphora of the Divine Liturgy of Saint Basil the Great. The Synod amends the obscure Slavonic rendering *"Путесотворивый воскресеніе"* translating the Greek clause *ὁδοποιήσας πάσῃ σаркὶ τὴν ἐк νεκρῶν ἀνάстаσιν* ("having paved the way for all flesh unto the resurrection from the dead"), clarifying that it must be translated and understood as *"Къ еже изъ мертвыхъ воскресенію"*.
-
-[^158]: The Troparion of the Third Hour (*"O Lord, Who didst send down Thy All-Holy Spirit at the third hour upon Thine Apostles..."*) inserted into the Epiklesis of the Divine Liturgy of St. John Chrysostom and St. Basil the Great. Although critical liturgical scholars and certain Roman editions noted that this troparion was an interpolated medieval Slavic and post-Byzantine addition not found in the ancient uncial Greek euchologia (such as the 8th-century Barberini Greek 336), the Fathers of the 1891 Lviv Synod expressly resolved to omit any reformatory marginal note and maintain the unbroken Ruthenian liturgical praxis and received rubrics of the printed Liturgicons.
-
-[^159]: Church Slavonic philological and grammatical emendation in the diptychs following the Megalynarion (*"Especially for our all-holy, immaculate, most blessed and glorious Lady Theotokos..."*). The Synod corrects the erroneous genitive singular *"Святаго Іоанна"* in late editions, restoring the precise Slavonic locative case *"О святѣмъ Іоаннѣ"* for the Liturgy of St. John Chrysostom (corresponding to Greek *ὑπέρ* with genitive, rendered by Slavonic *o* with locative, Latin *pro*) and the instrumental case *"Съ святымъ Іоанномъ"* for the Liturgy of St. Basil the Great (corresponding to Greek *μετά* with genitive, rendered by Slavonic *съ* with instrumental, Latin *cum*), while mandating the archaic locative adjective ending *-ѣ* rather than *-ой* (*"О Пресвятѣй"*).
-
-# Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)
-
----
-
-## 1. Titulus V: On the Holy Liturgy (Conclusion)
-
 ### The Fraction, Clergy Communion, and Distribution unto the Faithful
 
 taketh with the first two fingers of both hands the Lamb; and when the Deacon from his place (in the church) proclaimeth: "Let us attend!" Goar 65, the Priest raiseth the Lamb slightly aloft over the diskos and not over the chalice, and without tracing a cross with It, proclaimeth: "Holy Things unto the Holy!" Goar 65 (here the server ringeth the altar bell); and then he breaketh the Lamb along the incisions made across Its center crosswise with the spear, already at the Proskomide, into two parts lengthwise, saying: "Broken and divided is the Lamb of God..." etc., Goar 65, Liturgikon page 337 (39). Then he placeth the right side of the half upon the right side of the diskos, and the left half he breaketh again into two parts crosswise and placeth Its upper part upon the upper part of the diskos, and the lower half of the same left side upon the left side of the diskos; then he taketh the right half of the whole Lamb and breaketh It again in the middle crosswise and placeth the upper part upon the lower side of the diskos, and the lower part upon the right side of the diskos; then he taketh the upper part from the upper side of the diskos, raiseth It with both hands over the chalice, and maketh with It the sign of the cross, saying: "The fullness of faith..." etc., page 338 (40), Goar 65, and droppeth the same gently into the chalice; and having covered the chalice with its veil, taking the same between the 3rd finger and the two joined fingers, he boweth profoundly, not opening those two fingers of both hands with which he placed the Lamb into the chalice, and not touching anything with them until the washing of hands, with the exception of the holy Bread in the very rite of Communion, and partially also during the wiping of the chalice, namely when with his thumb he droppeth the particles into the chalice. After the dropping of the upper part of the Lamb into the chalice, if there be concelebrating priests, then they approach in order according to dignity unto the reception of Communion, and the presiding Priest distributeth unto each upon the palm of his right hand a particle, saying: "Christ is among us," and he answereth: "He is, and shall be"...—then the Priest spreadeth his hands, and having inclined his head slightly and gazing upon the Holy Gifts, reciteth the prayer: "I believe, O Lord, and confess..." etc., page 338 (40); at the words: "Remember me, O Lord..." etc., which he repeateth 3 times, he striketh his breast each time,—while the other Priests say the prayer only. Finally, there is a pious custom of those who join unto that prayer yet a second prayer following: "I believe, O Lord, and confess...
@@ -445,62 +389,6 @@ Finally, the Synod deemeth it well to charge the Bishops that, since the present
 
 ---
 
-## 4. Scholarly Critical Apparatus & Footnotes
-
-[^160]: Synodical liturgical appendix reference: *On the Liturgy of the Presanctified Gifts, see Appendix 33; likewise the Slavonic text of the Liturgy of St. John Chrysostom and St. Basil the Great among the Ruthenian appendices 33a and 33b* (*О Литургіи Преждеосвященыхъ зри въ додатку 33, такожь текстъ славяньскій Литургіи св. Іоанна Златоуст. и св. Василія Вел. мѣжь додатками рускими 33, а. и 33, б.*). This directly corresponds to printed footnote `1)` at the bottom of Book p. 182 (Leaf p186), concluding Titulus V (*On the Holy Liturgy*).
-
-[^161]: II Paralipomenon (II Chronicles) 6:18 (Septuagint versification: *ІІ. Параліп. VI. 18*): "If heaven and the heaven of heavens suffice not God, how much less this house which I have built!" Cited at the opening of Titulus VI, *On Churches Dedicated unto the Divine Service* (*О храмахъ посвященыхъ Службѣ Божôй*), Book p. 182 (Leaf p186).
-
-[^162]: Prophecy of Haggai (Aggeus) 2:9–10 (LXX: Haggai 2:10; printed as *Гл. II., 10*): "Great shall be the glory of this last house more than of the first, saith the Lord of hosts: and in this place will I give peace..." Book p. 183 (Leaf p187).
-
-[^163]: Malachi 1:11 (*Малах. I., 11*): "For from the rising of the sun even unto the going down, My name hath been glorified among the Gentiles; and in every place incense is offered unto My name, and a pure offering." Book p. 183 (Leaf p187).
-
-[^164]: Genesis 28:12–13 (*Быт. 28. 12. 13*): Jacob's vision of the heavenly ladder and the Lord standing above it at Bethel: "How dreadful is this place! this is none other but the house of God, and this is the gate of heaven." Book p. 183 (Leaf p187).
-
-[^165]: St. John of Damascus, *De Fide Orthodoxa* (*An Exact Exposition of the Orthodox Faith*), Book IV, Chapter 12 (*Concerning Worship toward the East* / *О вѣрѣ правосл. книг. 4. гл. 12* / PG 94, 1157–1162): demonstrating the Apostolic antiquity and theological symbolism of praying toward the east, facing Christ the spiritual Sun of Righteousness and the ancient Paradise planted in the east. Book p. 184 (Leaf p188).
-
-[^166]: Synod of Zamość (1720), Titulus *On Churches* (*De ecclesiis*), and in the Inquiries for Canonical Visitations; likewise the decrees and canons of the Greek-Melkite (Maronite) Synod of Mount Lebanon (1736), Part IV, Chapter I, in *Collectio Lacensis* (*Acta et Decreta Sacrorum Conciliorum Recentiorum*, Friburgi Brisgoviae, Tom. II): prescribing the retention of the holy water vessel at church entrances for the faithful to sign themselves upon entry. Book p. 186 (Leaf p190).
-
-[^167]: Synod of Zamość (1720), Titulus III, *On the Sacraments and Their Administration*, § 4, *On the Celebration of the Liturgy and Inquiries concerning the Most Holy Eucharist* (*Тит: III. О Тайнахъ и ихъ строеню § 4. О служеню Литургіи и вопр. о Найсвятѣйшой Євхаристіи*): regulating the consecration, gilding, maintenance, and reverence due unto sacred vessels and liturgical linen. Book p. 187 (Leaf p191).
-
-[^168]: Song of Songs (Canticle of Canticles) 6:4, 10 (LXX: Canticle 6:3, 9; printed as *Пѣснь пѣсней 6. 3. 9.*): "Who is she that cometh forth as the morning rising, fair as the moon, clear as the sun, terrible as an army set in array?" (*ужасъ яко вчиненны* / *terribilis ut castrorum acies ordinata*). Opening of Titulus VII, *On the Ecclesiastical Hierarchy* (*О Іерархіи церковнôй*), Book p. 189 (Leaf p193).
-
-[^169]: Hebrews 4:9 (*Євр. 4. 9.*): "There remaineth therefore a sabbath rest for the people of God." Book p. 189 (Leaf p193).
-
-[^170]: Hebrews 10:20 (*Євр. 10. 20.*): "By a new and living way, which He hath consecrated for us, through the veil, that is to say, His flesh." Book p. 189 (Leaf p193).
-
-[^171]: Hebrews 7:25 (and Hebrews 6:20 / 7:24; printed as *Євр. 7. 25.*): Christ the High Priest forever according to the order of Melchizedek, ever living to make intercession for us before the Father. Book p. 189 (Leaf p193).
-
-[^172]: St. Leo the Great (Pope Leo I), *Epistola 84* (to Anastasius, Bishop of Thessalonica), Chapter 11 (PL 54, 920): *"De qua forma episcoporum quoque est orta distinctio, et magna ordinatione provisum est, ne omnes sibi omnia vindicarent, sed essent in singulis provinciis singuli, quorum inter fratres haberetur prima sententia..."* Book p. 190 (Leaf p194).
-
-[^173]: Matthew 28:18 (*Мат. 28. 18.*): "All power is given unto Me in heaven and in earth." Book p. 190 (Leaf p194).
-
-[^174]: Matthew 28:20 (*Мат. 28, 20.*): "Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you always, even unto the end of the world. Amen." Book p. 190 (Leaf p194).
-
-[^175]: Luke 10:16 (*Лук. 10. 16.*): "He that heareth you heareth Me; and he that despiseth you despiseth Me; and he that despiseth Me despiseth Him that sent Me." Book p. 190 (Leaf p194).
-
-[^176]: Appendix III, 1. b: The historic Pastoral Letter of Cardinal Mykhailo Levytsky, Metropolitan of Halych, Archbishop of Lviv, dated March 10, 1841 (*Пастырское посланіє бл. п. Его Еминенціи кардинала Михаила Левицкого, Митрополита Галицкого, зъ дня 10. марта 1841*), compiling patristic and liturgical testimonies from the Ruthenian Sluzhebniks and Trebniks regarding the universal primacy of the Roman See. Book p. 191 (Leaf p195).
-
-[^177]: Fourth Lateran Council (1215) under Pope Innocent III, Constitution V (*De dignitate patriarcharum* / *Antiqua concilia* / *Antiqua patriarchalium sedium privilegia renovantes*), incorporated into the *Decretals of Gregory IX* (Corpus Juris Canonici, Lib. I, tit. 33, cap. 23) and cited by Pope Benedict XI: affirming the traditional order of the four patriarchal sees after Rome (Constantinople, Alexandria, Antioch, and Jerusalem) derived from and dependent upon the Roman primacy. Book p. 192 (Leaf p196).
-
-[^178]: Anthony Petrushevych (*Антоній Петрушевичъ*), Galician-Ruthenian historian and canon: his critical historical monograph (*Историческое изслѣдованіе*) dates the signing or promulgation of Pope Pius VII's Bull *In universalis Ecclesiae regimine* as April 15, 1807, rather than February 22. Book p. 193 (Leaf p197).
-
-[^179]: Papal Apostolic Brief / Constitution of Pope Clement VIII, *Decet Romanum Pontificem*, dated 7 Kalends of March 1595/1596 (February 23, 1596, more romano 1595): ratifying the Union of Brest and confirming unto the Ruthenian Metropolitan of Kyiv the traditional patriarchal right to confirm, institute, and consecrate the suffragan bishops of his province. Book p. 193 (Leaf p197).
-
-[^180]: Papal Bull of Pope Pius VII, *In universalis Ecclesiae regimine*, dated February 22, 1807: canonically restoring the ancient Ruthenian Metropolitan See of Halych and uniting it in perpetuity with the Archeparchy of Lviv, confirming the Metropolitan's jurisdiction over the Eparchies of Peremyshl and Kholm. Book p. 194 (Leaf p198).
-
-[^181]: Ezekiel 34:4 (*Іезек. 34. 4.*): The pastoral mandate and divine judgment against neglectful shepherds: "The weak have ye not strengthened, neither have ye healed that which was sick, neither have ye bound up that which was broken, neither have ye brought again that which was driven away, neither have ye sought that which was lost; but with force and with cruelty have ye ruled them." Book p. 195 (Leaf p199).
-
-[^182]: Apocalypse (Book of Revelation) chapters 2 and 3: the divine epistles and solemn warnings sent by Christ through St. John unto the Angels (Bishops) of the seven Churches of Asia. The printed text reads `Апок. III и IV.` (*Апок. II и III* intended, as chapters 2–3 contain the seven messages unto the Angels of the Churches). Book p. 195 (Leaf p199).
-
-[^183]: Decrees of the 1891 Lviv Provincial Synod, Titulus VII, Chapter IV, *On Cathedral and Collegiate Chapters* (*Глава IV. О Капитулахъ*), infra: regulating the election and powers of the two Vicars (Capitular / Administrator and Temporalities) upon the vacancy of the episcopal see. Book p. 196 (Leaf p200).
-
-# Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)
-
----
-
-### Titulus VII (Continued): On the Ecclesiastical Hierarchy
-
 ### Chapter IV: On Cathedral Chapters
 
 CHAPTER IV.
@@ -616,66 +504,7 @@ Besides this, let the Most Reverend Metropolitan together with the Most Reverend
 9. It is necessary by all means to endeavor that the seminarians during vacation time remain in the Seminary with the superiors, even as was observed in the beginnings. But, so long as this cannot be attained, then lest the seminarians during vacation time lose that benefit of right training which they have attained in the Seminary, let the Superiors, when vacation time approacheth, carefully instruct them in what manner, in all modesty and holiness, they ought to dwell among relatives and cohabitants, what dangers to avoid, that they may preserve themselves unspotted from this world; unto what occupation of the spirit in free time they ought to give themselves, that they may not pine in idleness, whence so many errors grow; by what exercises of piety, finally, they ought daily to occupy themselves, that they may not expose themselves unto the danger of inconstancy. We admonish Pastors, that during vacation time they oversee the seminarians and employ them for teaching the elements of the Christian faith unto children, in choral functions, and other services of that kind pertaining unto the praise of God. Upon the conclusion of vacations the Pastor is bound in conscience to report in a sealed letter unto the Most Reverend Metropolitan concerning the conduct of the seminarians who resided in his parish, and concerning their manner of life, concerning their approach unto the Holy Mysteries, and concerning their diligence in other sacred functions, and whether they wore attire which is suitable for clerics. And that all this may be faithfully and accurately observed, the Bishops assembled in this Synod command, that the rules drawn up by the Metropolitan Ordinariate and presented in this Synod, examined in general deliberation, and furnished with the authority of this Synod, shall be observed by all and singular who administer the Seminary. For the faithful execution of all rules, especially for the removal of abuses if such should creep in, and for the firm and religious maintenance of discipline in the Seminaries, the Metropolitan shall deign to visit the Seminary frequently in the year [^204].
 11. But since no man ought to take honor unto himself, unless he be called of God, as was Aaron [^205], nay more, as Christ the Lord Himself, therefore in the admission of youth unto Sacred Seminaries, it is necessary above all to have conviction concerning their vocation unto the clerical state; for the obtaining whereof, the Bishops shall require from gymnasium catechists the most accurate report concerning their morality, ability, and comprehensive conduct, as also concerning the signs testifying unto their inclination and bent toward the clerical state. In addition let the local pastors diligently observe and direct the life, abilities, and conduct of those youths who reside in their parish during vacation time; and in case they are to be admitted unto the clerical state, and they should judge them unfit for such a calling, they are bound to inform the Ordinariate through testimonials.
 12. For the rest, that they may be the more thoroughly convinced concerning such a vocation, the superiors of Seminaries shall watch over individual youths, as also over their life, that it be suitable and in accord with their calling; for which purpose the superiors also ought to know that they are burdened in conscience as to accurate knowledge of the life of the seminarians, and for this purpose they shall at appointed times render a report concerning each of them in common meetings of the rectorate, and draw up concerning the conduct of each individual written tables, which each year are to be submitted unto the Ordinary; and if it should be ascertained that any of the seminarians manifesteth not signs of a priestly vocation, or defileth the same by deeds contrary unto this calling, then such, if they should prove incorrigible, let them be expelled in good time from the seminary.
-13. This Synod indeed firmly professeth that the celibate state is more perfect than the married state, according to the words of the Apostle: "He that is unmarried careth for the things that belong to the Lord, how he may please the Lord: but he that is married careth for the things that are of the world, how he may please his wife; he is divided" [^206]. Since however the Catholic Church for grave reasons hath permitted and doth permit, that clerics of our rite, before ordination or installation in major orders, have freedom, according to the grace given them by God, either to abide always in celibacy, which would be best, or to marry a maiden: the Synod, recognizing this freedom and leaving it inviolate, nevertheless in view of the benefit and need of our Church, admonisheth the superiors of Seminaries, that seminarians well disposed toward the acceptance
-
----
-
-## 4. Scholarly Critical Apparatus & Footnotes
-
-[^184]: Appendix XXXIV (*Додатокъ ч. 34*) of the Synodal Acts: Official Statutes of the Metropolitan Cathedral Chapter of Lviv (*Statuta Capituli Metropolitani Leopolensis*), approved by the Sacred Congregation *de Propaganda Fide pro negotiis Ritus Orientalis* on September 4, 1875, signed by Cardinal Alessandro Franchi, Prefect, and Archbishop Gaetano Aloisi Masella, Secretary. Book p. 198 (Leaf p202).
-
-[^185]: Printed marginal note: *Which indeed was already accomplished in the year 1894* (*Що и стало ся вже р. 1894*). By formal decree of the Sacred Congregation *de Propaganda Fide* in 1894, the Statutes of the Greek Catholic Cathedral Chapter of Peremyshl were submitted and canonically confirmed. Book p. 199 (Leaf p203).
-
-[^186]: Printed marginal note: *This also was already accomplished in 1894. The statutes of both episcopal Chapters have been confirmed* (*Се такожь вже стало ся 1894 р. Статуты обохъ еписк. Капитулъ подтвердженô*), referring to the Holy See's confirmation of the statutes of the Cathedral Chapters of Peremyshl and Stanyslaviv. Book p. 199 (Leaf p203).
-
-[^187]: Printed cross-reference: *See the statutes of the Chapter of the Metropolitan Church of Lviv, Appendix 34* (*зри статуты Капитулы Церкви Митроп Львôвскои Додат. 34*). Book p. 199 (Leaf p203).
-
-[^188]: Luke 12:48 — "For unto whomsoever much is given, of him shall be much required: and to whom men have committed much, of him they will ask the more" (*Ємуже будетъ дано много, много взыщется отъ него* / *Omni autem cui multum datum est, multum quaeretur ab eo*). Book p. 199 (Leaf p203).
-
-[^189]: 1 Timothy 5:18 — "The laborer is worthy of his reward" (*Достоинъ дѣлатель мзды своея* / *Dignus est operarius mercede sua*), citing the Pauline apostolic principle of pastoral justice and material support for clergy. Book p. 200 (Leaf p204).
-
-[^190]: Acts of the Apostles 1:1 — "The former treatise have I made, O Theophilus, of all that Jesus began both to do and teach" (*Первое убо слово сотворихъ о всѣхъ, о Ѳеофиле, яже начатъ Іисусъ творити же и учити* / *Primum quidem sermonem feci de omnibus, o Theophile, quae coepit Jesus facere et docere*). Book p. 202 (Leaf p206).
-
-[^191]: 2 Timothy 4:2 — "Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all longsuffering and doctrine" (*Проповѣдуй слово, насто́й благовременнѣ и безвременнѣ, обличи, запрети, умоли со всякимъ долготерпѣніемъ и ученіемъ* / *Praedica verbum, insta opportune, importune: argue, obsecra, increpa in omni patientia, et doctrina*). Book p. 203 (Leaf p207).
-
-[^192]: Apocalypse (Book of Revelation) 2:14–16 — The solemn divine warning and judgment addressed unto the Angel (Bishop) of the Church in Pergamum against tolerating the doctrine of Balaam, stumbling blocks, and the deeds of the Nicolaitans. Book p. 204 (Leaf p208).
-
-[^193]: Ruthenian Provincial Synod of Zamość (1720), Titulus X *De parochis* (On Pastors), obliging every pastor to maintain four distinct parish registers (*чотыри книги* / *quatuor libri parochiales*): the register of baptisms (*Liber Baptizatorum*), confirmations (*Liber Confirmatorum*), marriages (*Liber Copulatorum*), and the deceased (*Liber Mortuorum*). Book p. 205 (Leaf p209).
-
-[^194]: Luke 5:5 — "Master, we have toiled all the night, and have taken nothing: nevertheless at Thy word I will let down the net" (*Наставниче, об нощь всю труждьшеся, ничесоже яхомъ: по глаголу же Твоему ввергу мрежу* / *Praeceptor, per totam noctem laborantes, nihil cepimus: in verbo autem tuo laxabo rete*). Book p. 205 (Leaf p209).
-
-[^195]: Provincial Council of Prague (1860), Titulus VI, Chapter 8 *On Parochial Vicars and Assistants* (*De vicariis et cooperatoribus*), prescribing filial obedience, sincere cooperation, and mutual harmony between parochial assistants / curates and parish pastors. Book p. 207 (Leaf p211).
-
-[^196]: Pope Pius IX, Apostolic Letter *Caelestium munerum dispensatio* (July 1, 1873), establishing the Pontifical Seminary of Pius IV (Seminario Pio) in Rome for the ascetical, theological, and disciplinary formation of candidates for the sacred priesthood. Book p. 208 (Leaf p212).
-
-[^197]: Proverbs 22:15 (Septuagint versification: *Притч. 22:15 LXX*): "There are ways before a man, and he loves not to turn away from them; but foolishness is tied to the heart of a youth, and the rod of correction shall drive it far from him" (*Суть путіе предъ мужемъ, и не любитъ возвратити ся отъ нихъ*). Book p. 209 (Leaf p213).
-
-[^198]: Proverbs 22:6 (Vulgate: *Proverbia 22:6*): "Train up a child in the way he should go: and when he is old, he will not depart from it" (*Adolescens juxta viam suam etiam cum senuerit non recedet ab ea*). Book p. 209 (Leaf p213).
-
-[^199]: Third Plenary Council of Baltimore (1884), Titulus V *De clericorum educatione et instructione*, Caput I *De seminariis minoribus* (nos. 139–152), enacting canonical norms requiring seminary superiors and professors to be distinguished by mature piety, exemplary morals, prudence, and sacred learning. Book p. 210 (Leaf p214).
-
-[^200]: Wisdom of Solomon 6:19 (Septuagint versification: Wisdom 6:19 LXX; Wisdom 6:18 MT/Vulgate): "And the care of discipline is love; and love is the keeping of her laws; and the giving heed unto her laws is the assurance of incorruption" (*Попеченіе же о наказаніи любы, любы же сохраненіе законовъ ея* / *Cura ergo disciplinae dilectio est: et dilectio custodia legum illius est*). Book p. 210 (Leaf p214).
-
-[^201]: Comparative conciliar legislation: Provincial Council of Cologne (1860), Titulus IV *De Seminariis*; Provincial Council of Tours (1856); and Third Plenary Council of Baltimore (1884), Titulus V: emphasizing constant vigilance over student morals, Christian civility, and academic progress. Book p. 211 (Leaf p215).
-
-[^202]: Ibid., Provincial Councils of Cologne, Tours, and Baltimore: decreeing the timely expulsion of incorrigible seminarians exhibiting obstinacy, contempt for discipline, or moral scandal. Book p. 211 (Leaf p215).
-
-[^203]: Third Plenary Council of Baltimore (1884), Titulus V, Caput II *De seminariis majoribus*, no. 156: prohibiting seminary rectors and resident superiors from accepting extraneous ecclesiastical or civil duties that divide their attention from the governance of the seminary. Book p. 212 (Leaf p216).
-
-[^204]: Appendix XXXV (*Додатокъ ч. 35*) of the Synodal Acts: General Statutes and Rules of the Greek Catholic Seminary (*Statuta et Regulae Seminarii Generalis Leopolensis*), approved and confirmed by the Synod of 1891. Book p. 215 (Leaf p219).
-
-[^205]: Hebrews 5:4 — "And no man taketh this honor unto himself, but he that is called of God, as was Aaron" (*И никтоже самъ себѣ пріемлетъ честь, но званный отъ Бога, якоже и Ааронъ* / *Nec quisquam sumit sibi honorem, sed qui vocatur a Deo, tamquam Aaron*). Book p. 215 (Leaf p219).
-
-[^206]: 1 Corinthians 7:32–33 — "He that is unmarried careth for the things that belong to the Lord, how he may please the Lord: but he that is married careth for the things that are of the world, how he may please his wife" (*Не оженивыйся печется о Господнихъ, како угодити Господеви: а оженивыйся печется о мірскихъ, како угодити женѣ. Раздѣлися жена и дѣва* / *Qui sine uxore est, sollicitus est quae Domini sunt, quomodo placeat Deo. Qui autem cum uxore est, sollicitus est quae sunt mundi, quomodo placeat uxori: et divisus est*). Book p. 216 (Leaf p220).
-
-# Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)
-
----
-
-### Titulus VII (Concluded): On the Ecclesiastical Hierarchy
-### Chapter VII (Concluded): On Seminaries
-
-of celibacy, shall by favorable and prudent counsel restrain and confirm them in that resolution.
+13. This Synod indeed firmly professeth that the celibate state is more perfect than the married state, according to the words of the Apostle: "He that is unmarried careth for the things that belong to the Lord, how he may please the Lord: but he that is married careth for the things that are of the world, how he may please his wife; he is divided" [^206]. Since however the Catholic Church for grave reasons hath permitted and doth permit, that clerics of our rite, before ordination or installation in major orders, have freedom, according to the grace given them by God, either to abide always in celibacy, which would be best, or to marry a maiden: the Synod, recognizing this freedom and leaving it inviolate, nevertheless in view of the benefit and need of our Church, admonisheth the superiors of Seminaries, that seminarians well disposed toward the acceptance of celibacy, shall by favorable and prudent counsel restrain and confirm them in that resolution.
 14. Those of the seminarians however who desire to embrace the state of matrimony shall not dare to do this sooner than after having duly completed all theological studies and having already been dismissed from the seminary; which is to be understood also concerning betrothal itself, and that under penalty of exclusion from the reception of Sacred Orders. For two things are to be feared from such premature contracting of matrimony: namely, the turning away of minds from diligent application unto studies, and estrangement from the due cultivation of piety; for a spirit distracted by lusts cannot diligently apply itself thereto. Furthermore, an excessively vehement desire to marry before the reception of Sacred Orders maketh dedication unto the state of celibacy at least unsuited, and perchance also odious.
 15. As to the observance of discipline, this is accurately set forth in the rules themselves, whereby therefore, as with a powerful engine, governance is to be directed toward the full and perfect formation of the seminarians; in particular, the superiors of the seminaries shall watch that the seminarians frequently, and if possible every week, as is commonly done in seminaries, or at least twice in a month, approach the Mystery of Penance and the Most Holy Eucharist, that they make daily meditation for at least half an hour, spiritual reading, and examination of conscience, and in their proper time perform spiritual retreats, and finally that they be devoutly present daily at the Divine Liturgy and fail not to visit the Most Holy Gifts, all of which shall take place in common. But whereas the Lord hath placed the fullness of all good in Mary [^207], and whereas He hath granted unto Her so much grace as sufficeth for the salvation of all [^208], therefore doth this Synod earnestly desire that the seminarians be inflamed with true devotion toward that same most glorious Mother of our Lord; and it strictly enjoineth upon the spiritual director that he frequently form them unto that precious devotion by suitable discourses, and endeavor by all means to preserve and maintain in its vigor the Sodality recently established in the Seminary of Lviv under the title: "Presentation of the Most Pure Virgin in the Temple," which was endowed by the Most Holy Father Pope Leo XIII with many indulgences and a privileged altar, unto the end that under the patronage of the Most Holy Virgin, who was once reared in the Temple, the seminarians may in the seminary be imbued with a like spirit of devotion, and afterwards, having gone forth from it, may be able by example, word, and deed to bring forth Christ the Lord in the hearts of men.
 16. As to scholarly pursuits, in addition to those which professors publicly teach in schools, those same superiors shall take care that the seminarians in turn practice the composing and delivering of sermons, and moreover that they be thoroughly instructed in the frequent reading of Holy Scripture in the Church Slavonic tongue, as also in the grammar of that tongue, and no less in the science and celebration of the rites and church chant of our Church.
@@ -760,8 +589,7 @@ The governance of souls is the art of arts, the holiness corresponding unto this
 
 ---
 
-## Titulus X. On Monks
-### О Монахахъ
+## Titulus X. On Monks (*О Монахахъ*)
 
 **1.** It is beyond dispute that the Monastic Orders are to be held in exceedingly high esteem, especially when it is known that the Church hath ever exalted them. Yet among the Monastic Orders, those are customarily to be regarded as most distinguished which unite the active life with the spiritual; since, gathering unto themselves an abundance of heavenly treasures, they pour them forth upon others.
 
@@ -786,17 +614,6 @@ Furthermore, although endeavor must be made by all means that in such Monasterie
 ### Notes
 
 [^152]: Synodical rubrical reform to the *Order of the Divine Liturgy* (Entrance Prayers) in the Lviv *Sluzhebnik* (Stauropegion Institute edition of 1866, p. 299). The Synod decrees that the older rubrics prescribing that the clergy physically step over to kiss each sovereign icon (*Таже отходятъ къ Иконѣ Христовѣ* — and *Таже цѣлуютъ Икону Богородицы*) are eliminated / discarded, standardizing the ceremony to reciting the troparia (*Пречистому Твоему образу* and *Милосердія сущи источникъ*) while standing before the Royal Doors with a sign of the cross and moderate bow to the knees.
-[^141]: Pastoral Letter of the Greek Catholic Metropolitan Ordinariate of Lviv, September 3, 1889, No. 639; reproduced in Appendix XXXI (*Додатокъ ч. 31*) of the Synodal Acts. On December 8, 1870, Pope Pius IX had declared St. Joseph the Patron of the Universal Church (*Quemadmodum Deus*); this was further amplified by Pope Leo XIII in his encyclical *Quamquam pluries* (August 15, 1889). By this synodal decree, the Ruthenian Church formally and officially adopted St. Joseph, Spouse of the Most Pure Virgin Mary, as a special Patron of the Ruthenian Church.
-[^142]: Appendix XXXII (*Додатокъ ч. 32*) of the Synodal Acts: Decree of the Sacred Congregation *de Propaganda Fide*, May 29, 1887, No. 5, published throughout the ecclesiastical province and specifically promulgated in the Archeparchy of Lviv on December 4, 1887, No. 358 ord., establishing canonical and artistic norms governing the design, erection, and veneration of public roadside crosses and outdoor crucifixes.
-[^143]: Luke 2:41 — "Now His parents went to Jerusalem every year at the feast of the Passover" (Septuagint / Vulgate: *Et ibant parentes ejus per omnes annos in Jerusalem in die solemni Paschae*). The Synod adduces the annual pilgrimage of the Holy Family to the Jerusalem Temple as the divine scriptural prototype for popular Christian pilgrimages to sanctuaries and shrines.
-[^144]: Pastoral Letter of the Greek Catholic Metropolitan Ordinariate of Lviv, February 3, 1884, No. 35. The Synod strictly prohibits Catholic faithful from undertaking pilgrimages to non-Catholic or dissident shrines, specifically singling out the Pochaiv Lavra in Volhynia and Suceava in Bukovina. The historic Basilian monastery of the Dormition at Pochaiv had united with Rome at the 1720 Synod of Zamość and flourished as a Greek Catholic pilgrimage center until its forcible confiscation in 1831 by Tsar Nicholas I and transfer to the Russian Orthodox Church; Suceava, preserving the relics of the Great Martyr John the New of Suceava, likewise stood under non-Catholic ecclesiastical administration.
-[^145]: St. Alphonsus Maria de Liguori, *Silva de materia praedicabili* (*Selva di materia predicabile*), Part III: *De exercitiis missionum* (On the Exercises of Popular Missions). St. Alphonsus forcefully defends the immense spiritual fruits of parish missions against skeptical critics, demonstrating that missions break down inveterate feuds, enforce financial and moral restitution, root out deep-seated vices, rectify sacrilegious and invalid confessions, and instill a lasting holy fear of sin.
-[^146]: St. Gregory the Great (Pope Gregory I), *Homiliae in Evangelia* (Homilies on the Gospels): *"Virtus enim boni operis est perseverantia"* ("For the virtue of a good work is perseverance" / "virtue is constancy in the good"). The Synod invokes St. Gregory to remind pastors that pastoral campaigns against drunkenness and social vices require unflagging steadfastness.
-[^147]: 1 Tim. 5:8 — "But if any provide not for his own, and specially for those of his own house, he hath denied the faith, and is worse than an infidel" (*Аще кто о своихъ паче же о присныхъ не промышляетъ, вѣры отверглся есть, и невѣрнаго горшій есть* / *Si quis autem suorum, et maxime domesticorum, curam non habet, fidem negavit, et est infideli deterior*).
-[^148]: 1 Tim. 3:4–5 — "One that ruleth well his own house, having his children in subjection with all gravity; for if a man know not how to rule his own house, how shall he take care of the church of God?" (*Свой домъ добрѣ правящу, чада имущу въ послушаніи со всякою чистотою. Ащеже кто своего дому не умѣетъ правити, како о Церкви Божіей прилѣжати можетъ?* / *Qui domui suae bene praesit: filios habens subditos cum omni castitate. Si quis autem domui suae praeesse nescit, quomodo ecclesiae Dei diligentiam habebit?*).
-[^149]: St. John Chrysostom, *Homily VI on Genesis* (*In Genesim Homilia VI*), no. 2 (PG 53, 56–57): "Make thy home a church: for thou art accountable for the salvation both of thy children and of thy servants; and even as an account of you will be demanded of us, so an account for thy servant, for thy wife, and for thy child will be demanded of each of you" (*Дôмъ твôй здѣлай церквою...*).
-[^150]: St. Augustine of Hippo, *Tractates on the Gospel of John* (*In Joannis Evangelium Tractatus*), Tractate LI, no. 13 (PL 35, 1768), commenting on John 12:26 ("If any man serve Me, let him follow Me"). St. Augustine defines the Christian father's household governance as an ecclesiastical and quasi-episcopal ministry (*ecclesiasticum et quodammodo episcopale munus*), admonishing, instructing, and guiding every member of the domestic church toward eternal salvation.
-[^151]: St. Gregory the Great (Pope Gregory I), *Regula Pastoralis* (*Pastoral Care*), Part II, Chapter 1: *"Tantum debet actionem populi actio transcendere praesulis, quantum distare solet a grege vita pastoris"* ("The conduct of the prelate ought so much to excel the conduct of the people as the life of the shepherd is wont to be distinguished from the flock").
 [^153]: Pope Benedict XIV (Prospero Lambertini), *De Sacrosancto Sacrificio Missae*, Lib. I, cap. 9, no. 90 (or *Lectio* 90): citing the ancient Eastern liturgical custom whereby Maronites and Ambrosians place the amice (*humerale* / *amictus* / *наплещникъ*) over the alb/sticharion. This directly corresponds to the printed footnote `1) De sacrificio Missae Lect. 90.` at the bottom of Book p. 157 (Leaf p161).
 [^154]: Pope Benedict XIV's *Euchologion sive Rituale Graecorum* (Rome, 1754): the exclusion of extracting separate particles on the diskos for the Honorable Cross and the Bodiless Powers (Angels). The Synod adduces this Roman edition of the Greek Euchologion and liturgical theology, explaining that particles extracted upon the diskos represent exclusively the threefold states of the Church—the Church Triumphant (the Saints), the Church Suffering (the souls in Purgatory), and the Church Militant (the living faithful)—whereas the Lamb alone represents Jesus Christ, the Head of the Church.
 [^155]: The solemn canonization of Saint Josaphat Kuntsevych, OSBM, Archbishop of Polotsk and Hieromartyr of Vitebsk, proclaimed by Pope Pius IX on June 29, 1867, in the Vatican Basilica. By virtue of this universal canonization, the Synod decrees that in the Proskomide commemoration the title "blessed" (*блаженнаго*) is definitively replaced with "holy" (*святаго*), and introduces the commemoration of the Slavic Apostles Saints Cyril and Methodius immediately preceding him.

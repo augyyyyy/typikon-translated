@@ -35,11 +35,7 @@
 
 ---
 
-## 1. Part VII: Acts of the Congregations and Sessions (Continued)
-
 *(Physical Page 59 / Leaf p61)*
-
-### Nominal Subscription Roll Continued
 
 Kassian Kunytsky, Military Chaplain.  
 Teodor Korduba, Dean of Berezhany.  
@@ -533,8 +529,7 @@ As for the decrees of the Supreme Pontiffs and the Sacred Congregations, they, e
 
 ---
 
-## 3. Scholarly Critical Apparatus & Footnotes
-
+## Footnotes
 [^23]: Refers to Appendix I (*Додатокъ ч. 1*) appended to the Synodal Acts, containing the *Forma Fidei Orthodoxae* (Formula of Orthodox Faith) prescribed for Eastern Catholics under Pope Urban VIII (1642), updated to include the dogmatic definitions of the Immaculate Conception (1854) and the First Vatican Council (1870). The Synod mandates this profession of faith for all bishops prior to consecration, cathedral canons prior to installation, religious superiors, theologians, professors, pastors, catechists, deans, and candidates for Holy Orders.
 
 [^24]: Heb. 11:6 — "But without faith it is impossible to please God: for he that cometh to God must believe that He is, and that He is a rewarder of them that diligently seek Him."

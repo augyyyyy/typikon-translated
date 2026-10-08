@@ -42,8 +42,6 @@
 
 ---
 
-## 1. Decrees of the Ruthenian Provincial Synod: Titulus II. On the Mysteries and Their Administration (Continued)
-
 *(Physical Page 99 / Leaf p101)*
 
 ### CHAPTER V. On the Mystery of Anointing (Holy Unction)
@@ -335,8 +333,7 @@ unto them to postpone; but if they are hindered from celebrating immediately, le
 
 ---
 
-## 4. Scholarly Critical Apparatus & Footnotes
-
+## Footnotes
 [^86]: Ruthenian Provincial Synod of Zamość (1720), Titulus III, § 6 *De Sacramento Extremae Unctionis*, setting forth the doctrine and canonical discipline governing the administration of Holy Anointing, emphasizing that the sacrament conveys divine comfort to the soul and physical healing to the body when expedient for eternal salvation.
 
 [^87]: Council in Trullo (Quinisext Ecumenical Council, A.D. 692), Canon 15: establishing the minimum canonical age of twenty years for ordination to the Subdiaconate; Jean Hardouin, S.J. (*Joannes Harduinus*), *Acta Conciliorum et Epistolae Decretales ac Constitutiones Summorum Pontificum* (Paris, 1715), Vol. III, col. 1665.

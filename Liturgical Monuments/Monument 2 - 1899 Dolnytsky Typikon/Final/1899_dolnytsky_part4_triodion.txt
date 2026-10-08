@@ -1,5 +1,7 @@
 # PART IV: TYPIKA OF THE TRIODION
 
+## Part IV
+
 ## Typika of the Triodion
 
 ### Sunday of the Publican and the Pharisee

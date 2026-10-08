@@ -1,5 +1,7 @@
 # PART VI: HISTORICAL INDEX, SYNODAL DECREES AND COLOPHON
 
+## Table of Contents
+
 ### Part I
 #### General Form of the Divine Services
 Page

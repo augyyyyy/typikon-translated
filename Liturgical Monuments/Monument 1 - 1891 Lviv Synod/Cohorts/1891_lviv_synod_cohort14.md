@@ -23,10 +23,7 @@
 
 ---
 
-## Titulus XV. On Church Property *(Conclusion)*
-*(Continued from p. 257 / Leaf p262)*
-
-**6.** *(Concluded)* ...that they have recourse to their Ordinaries, but never presume to undertake that on their own. Further, let them endeavor that these goods be preserved intact in their state, and that especially in the case of a transfer of administrators they suffer no injury to the detriment of their successors; in particular, let them not clear-cut forests where the benefice (*ерекція*) possesses such, but for obtaining profit from them, let them proceed according to the forest laws; which must likewise be observed with respect to fruit orchards.
+**6.** ...that they have recourse to their Ordinaries, but never presume to undertake that on their own. Further, let them endeavor that these goods be preserved intact in their state, and that especially in the case of a transfer of administrators they suffer no injury to the detriment of their successors; in particular, let them not clear-cut forests where the benefice (*ерекція*) possesses such, but for obtaining profit from them, let them proceed according to the forest laws; which must likewise be observed with respect to fruit orchards.
 
 **7.** The leasing [of church property] for a year, or with the permission of the Ordinariate for three years, is to be granted to none other than the most honorable Christians.
 
@@ -359,8 +356,7 @@ The Names of the Signatories Follow:
 === LEAF p275 ===
 *(Physical Page 275 / Book Page 271)*
 
-# Official Synodal Corrigenda & Typographical Errata
-## Похибки друкарскî
+## Official Synodal Corrigenda & Typographical Errata (*Похибки друкарскî*)
 
 > [!NOTE]
 > **Scholarly & Textual Note**  
@@ -469,8 +465,7 @@ The Names of the Signatories Follow:
 
 ---
 
-## Scholarly Critical Apparatus & Footnotes
-
+## Footnotes
 [^274]: Cardinal Agostino Ciasca, O.S.A. (1835–1902), renowned Augustinian orientalist and biblical scholar, Titular Archbishop of Larissa, appointed Apostolic Delegate to the 1891 Lviv Provincial Synod by Pope Leo XIII. He subsequently served as Secretary of the Sacred Congregation *de Propaganda Fide* and was elevated to the cardinalate in 1899.
 [^275]: Father Isidore Dolnytsky (1830–1924), Spiritual Director of the Greek-Catholic General Seminary in Lviv, renowned master of Byzantine-Ruthenian rubrics, and author of the landmark 1899 *Typikon* (*Типикъ церковнаго и келейнаго правила*). His signature here establishes his direct statutory involvement in codifying the liturgical legislation of the 1891 Synod, which he implemented throughout his 1899 Typikon.
 [^276]: Dr. Isidore Sharanevych (1829–1901), distinguished historian, archaeologist, Senior (*Сеніоръ*) of the Lviv Dormition Brotherhood / Stavropeghial Institute, and Professor at Lviv University. Under Titulus XIV, I, § 2, the Senior of the Stavropeghial Institute was granted the unique statutory privilege of being summoned to provincial synods as the sole lay representative.

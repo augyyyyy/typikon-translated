@@ -1,6 +1,6 @@
 # SYNODAL DECREES PART III: TITULI XI–XV (On Fasts, Offices for the Departed, Courts, Synods, and Church Property)
 
-### О постахъ
+## Titulus XI. On Fasts (*О постахъ*)
 
 **1.** That the fast is to be held in the highest esteem, we know not only from the prescription of God Himself frequently commanded unto His people, and the example of Moses [^251] and of the people of Israel [^252], but also from this: that by the example of our Lord Jesus Christ through forty days in the wilderness, it was sanctified, and thereafter from Apostolic times down to our own hath been preserved.
 
@@ -11,13 +11,6 @@
 3. The Fast before the feast of the Supreme Apostles Peter and Paul [Apostles Fast / Petrivka], which beginneth with Monday after the Sunday of All Saints, or the first after Pentecost, and concludeth with the eve of the feast itself.
 
 ---
-
-# Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)
-
----
-
-## Titulus XI. On Fasts
-*(Continued from p. 240 / Leaf p245)*
 
 **4.** The Fast before the Dormition of the Most Pure Virgin, which begins with the 1st day of August and concludes with the eve of the feast itself.
 
@@ -193,14 +186,7 @@ According to the Council of Trent [^272], provincial Synods must indeed be held 
 
 ---
 
-# Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)
-
----
-
-## Titulus XV. On Church Property *(Conclusion)*
-*(Continued from p. 257 / Leaf p262)*
-
-**6.** *(Concluded)* ...that they have recourse to their Ordinaries, but never presume to undertake that on their own. Further, let them endeavor that these goods be preserved intact in their state, and that especially in the case of a transfer of administrators they suffer no injury to the detriment of their successors; in particular, let them not clear-cut forests where the benefice (*ерекція*) possesses such, but for obtaining profit from them, let them proceed according to the forest laws; which must likewise be observed with respect to fruit orchards.
+**6.** ...that they have recourse to their Ordinaries, but never presume to undertake that on their own. Further, let them endeavor that these goods be preserved intact in their state, and that especially in the case of a transfer of administrators they suffer no injury to the detriment of their successors; in particular, let them not clear-cut forests where the benefice (*ерекція*) possesses such, but for obtaining profit from them, let them proceed according to the forest laws; which must likewise be observed with respect to fruit orchards.
 
 **7.** The leasing [of church property] for a year, or with the permission of the Ordinariate for three years, is to be granted to none other than the most honorable Christians.
 

@@ -1,5 +1,7 @@
 # PART III: PROPER RUBRICS FOR CERTAIN SERVICES OF THE MENAION
 
+## Part III
+
 ## Proper Rubrics for Certain Services of the Menaion
 ### According to the Order of the 12 Months of the Church Year
 

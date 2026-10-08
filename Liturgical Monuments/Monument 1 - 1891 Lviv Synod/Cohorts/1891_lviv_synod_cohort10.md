@@ -42,8 +42,6 @@
 
 ---
 
-## 1. Titulus V: On the Holy Liturgy (Conclusion)
-
 ### The Fraction, Clergy Communion, and Distribution unto the Faithful
 
 === LEAF p181 ===
@@ -258,8 +256,7 @@ Finally, the Synod deemeth it well to charge the Bishops that, since the present
 
 ---
 
-## 4. Scholarly Critical Apparatus & Footnotes
-
+## Footnotes
 [^160]: Synodical liturgical appendix reference: *On the Liturgy of the Presanctified Gifts, see Appendix 33; likewise the Slavonic text of the Liturgy of St. John Chrysostom and St. Basil the Great among the Ruthenian appendices 33a and 33b* (*О Литургіи Преждеосвященыхъ зри въ додатку 33, такожь текстъ славяньскій Литургіи св. Іоанна Златоуст. и св. Василія Вел. мѣжь додатками рускими 33, а. и 33, б.*). This directly corresponds to printed footnote `1)` at the bottom of Book p. 182 (Leaf p186), concluding Titulus V (*On the Holy Liturgy*).
 
 [^161]: II Paralipomenon (II Chronicles) 6:18 (Septuagint versification: *ІІ. Параліп. VI. 18*): "If heaven and the heaven of heavens suffice not God, how much less this house which I have built!" Cited at the opening of Titulus VI, *On Churches Dedicated unto the Divine Service* (*О храмахъ посвященыхъ Службѣ Божôй*), Book p. 182 (Leaf p186).

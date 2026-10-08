@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-10-08T02:22:40.914468+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 31,
+  "target_file": "1888_violakis_typikon_cohort31_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort31_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort31_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort31_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort31_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 5,
+      "definition_markers_count": 5,
+      "text_markers": [
+        "[^210]",
+        "[^211]",
+        "[^212]",
+        "[^213]",
+        "[^214]"
+      ],
+      "definition_markers": [
+        "[^210]",
+        "[^211]",
+        "[^212]",
+        "[^213]",
+        "[^214]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort31_raw_draft.md",
+      "passed": true,
+      "paragraphs": 122,
+      "headings_count": 40,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Situations Three & Four: Apodosis of Situation Three; Situation Four: Nativity on Monday"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Ἡ Ἀπόδοσις (Συνέχεια) καὶ Περίπτωσις Δ΄ [Violakis, p. 286]"
+        },
+        {
+          "line": 10,
+          "level": 3,
+          "title": "Ἡ Ἀπόδοσις"
+        },
+        {
+          "line": 14,
+          "level": 3,
+          "title": "Δ΄."
+        },
+        {
+          "line": 26,
+          "level": 1,
+          "title": "Situations Three & Four: Apodosis of Situation Three; Situation Four: Nativity on Monday"
+        },
+        {
+          "line": 28,
+          "level": 2,
+          "title": "The Apodosis (Concluded) and Situation Four [Violakis, p. 287]"
+        },
+        {
+          "line": 33,
+          "level": 3,
+          "title": "The Apodosis"
+        },
+        {
+          "line": 37,
+          "level": 3,
+          "title": "Situation Four"
+        },
+        {
+          "line": 49,
+          "level": 1,
+          "title": "Situation Four Continued: Synaxis of the Theotokos; Sunday after Nativity & Apodosis"
+        },
+        {
+          "line": 51,
+          "level": 2,
+          "title": "Ἡ Σύναξις τῆς Ὑπεραγίας Θεοτόκου καὶ ἡ Ἀπόδοσις [Violakis, p. 288]"
+        },
+        {
+          "line": 53,
+          "level": 3,
+          "title": "Ἡ Σύναξις τῆς Ὑπεραγίας Θεοτόκου"
+        },
+        {
+          "line": 57,
+          "level": 3,
+          "title": "Κυριακὴ μετὰ τὴν τοῦ Χριστοῦ Γέννησιν καὶ ἡ Ἀπόδοσις τῆς Ἑορτῆς"
+        },
+        {
+          "line": 66,
+          "level": 1,
+          "title": "Situation Four Continued: Synaxis of the Theotokos; Sunday after Nativity & Apodosis"
+        },
+        {
+          "line": 68,
+          "level": 2,
+          "title": "The Synaxis of the Most Holy Theotokos and the Apodosis [Violakis, p. 289]"
+        },
+        {
+          "line": 70,
+          "level": 3,
+          "title": "The Synaxis of the Most Holy Theotokos"
+        }
+      ],
+      "numbered_items_count": 32,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 301,
+        "max_leaf": 310
+      },
+      "anomalies": []
+    }
+  }
+}

@@ -3,8 +3,6 @@
 
 ---
 
-### Titulus VII (Continued): On the Ecclesiastical Hierarchy
-
 ### Chapter IV: On Cathedral Chapters
 
 === LEAF p201 ===
@@ -212,8 +210,7 @@ concerning their morality, ability, and comprehensive conduct, as also concernin
 
 ---
 
-## 4. Scholarly Critical Apparatus & Footnotes
-
+## Footnotes
 [^184]: Appendix XXXIV (*Додатокъ ч. 34*) of the Synodal Acts: Official Statutes of the Metropolitan Cathedral Chapter of Lviv (*Statuta Capituli Metropolitani Leopolensis*), approved by the Sacred Congregation *de Propaganda Fide pro negotiis Ritus Orientalis* on September 4, 1875, signed by Cardinal Alessandro Franchi, Prefect, and Archbishop Gaetano Aloisi Masella, Secretary. Book p. 198 (Leaf p202).
 
 [^185]: Printed marginal note: *Which indeed was already accomplished in the year 1894* (*Що и стало ся вже р. 1894*). By formal decree of the Sacred Congregation *de Propaganda Fide* in 1894, the Statutes of the Greek Catholic Cathedral Chapter of Peremyshl were submitted and canonically confirmed. Book p. 199 (Leaf p203).

@@ -23,9 +23,6 @@
 
 ---
 
-## Titulus XI. On Fasts
-*(Continued from p. 240 / Leaf p245)*
-
 **4.** The Fast before the Dormition of the Most Pure Virgin, which begins with the 1st day of August and concludes with the eve of the feast itself.
 
 **5.** On the feast of the Beheading of the Head of the Holy Prophet, Forerunner, and Baptist John, August 29.
@@ -200,8 +197,7 @@ According to the Council of Trent [^272], provincial Synods must indeed be held 
 
 ---
 
-## Scholarly Critical Apparatus & Footnotes
-
+## Footnotes
 [^253]: St. Basil the Great, *Homily I On Fasting* (*De Jejunio*, Hom. I; PG 31, 163–198). The Synod cites St. Basil's classic patristic admonition that bodily fasting from food is rendered void without spiritual abstinence from malice, anger, and injustice.
 [^254]: Heb. 9:12 — "Neither by the blood of goats and calves, but by His own blood He entered in once into the Holy Place, having obtained eternal redemption for us."
 [^255]: St. John Chrysostom, *Homily III on the Epistle to the Philippians*, no. 4 (PG 62, 203–206).

@@ -461,6 +461,8 @@ Hitherto the text of the Synod of Lviv.
 
 # PART II: COMMON RUBRICS FOR THE DIVERSE SERVICES OF THE OCTOECHOS AND MENAION
 
+## Part II
+
 ## Common Rubrics for the Diverse Services of the Oktoechos and Menaion
 ### Arising from the Distinction of Their Services, and from Their Diverse Concurrence with One Another
 
@@ -1198,6 +1200,8 @@ At all [the Hours], the Troparion and Kontakion of the Feast alone, even as on t
 ---
 
 # PART III: PROPER RUBRICS FOR CERTAIN SERVICES OF THE MENAION
+
+## Part III
 
 ## Proper Rubrics for Certain Services of the Menaion
 ### According to the Order of the 12 Months of the Church Year
@@ -4419,6 +4423,8 @@ All according to the Typikon of the Deposition of the Robe, July 2, here on p. 3
 
 # PART IV: TYPIKA OF THE TRIODION
 
+## Part IV
+
 ## Typika of the Triodion
 
 ### Sunday of the Publican and the Pharisee
@@ -6033,6 +6039,8 @@ At the Liturgy: at the 3rd Antiphon, and at **"Come, let us worship"** (*Прї�
 
 # PART V: TYPIKON CONCERNING TEMPLES
 
+## Part V
+
 ## Typikon Concerning Temples
 
 The Temple Typika (*Ustavy Khramoviyi*) in use among us are of a twofold kind: some are borrowed from the local Western Churches, which do not enter into the original fabric of our Divine Services, but have been attached to it; and others are innate to our Divine Services. The typika borrowed from the Western Churches relate to the Holy Mysteries of the Eucharist, which on the day of the Patronal Feast are exposed upon the Holy Table, and with Them a Procession takes place around the church; and concerning these it behooves us first to set forth the Typikon, and afterwards concerning the rest.
@@ -6420,8 +6428,6 @@ We follow the Typikon of the Theologian with Mid-Pentecost, here on page 331; on
 #### 1. From the Sunday of the Publican and Pharisee to Pascha
 
 In general, the Katavasia is of the Theotokos: **"I shall open my mouth"** (*Ѿве́рзꙋ оу҆ста̀ моя̀*). However: on the Sunday of the Prodigal Son, Meatfare, and Cheesefare, and on the 1st and 3rd Sundays of the Fast, and on Lazarus Saturday, and on Palm Sunday, and in Passion Week, the Katavasia is from the Triodion Canon of the day. Only in the interval of the Katavasia of the Meeting of the Lord, that is, from January 15 to February 4, will the Katavasia be of the Feast, with the exception of Meatfare Sunday, on which the Slavonic Typika appoint the Katavasia of the Triodion (understood, apart from the very day of the Feast).[^697]
-
-### II. Of Movable Feasts (Continued)
 
 #### 2. From Pascha to All Saints
 
@@ -7844,6 +7850,8 @@ The Curtain, however, according to the current custom of the Athonite Monasterie
 ---
 
 # PART VI: HISTORICAL INDEX, SYNODAL DECREES AND COLOPHON
+
+## Table of Contents
 
 ### Part I
 #### General Form of the Divine Services
