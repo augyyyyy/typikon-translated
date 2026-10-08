@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-10-08T10:50:41.345238+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 91,
+  "target_file": "1888_violakis_typikon_cohort91_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort91_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort91_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort91_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort91_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 5,
+      "definition_markers_count": 5,
+      "text_markers": [
+        "[^510]",
+        "[^511]",
+        "[^512]",
+        "[^513]",
+        "[^514]"
+      ],
+      "definition_markers": [
+        "[^510]",
+        "[^511]",
+        "[^512]",
+        "[^513]",
+        "[^514]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort91_raw_draft.md",
+      "passed": true,
+      "paragraphs": 99,
+      "headings_count": 26,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Appendix: Ceremony of the Return of a Patriarch to the Ecumenical Throne"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Τελετὴ εἰς Ἐπάνοδον Πατριάρχου ἐπὶ τὸν Οἰκουμενικὸν Θρόνον [Violakis, p. 886]"
+        },
+        {
+          "line": 7,
+          "level": 3,
+          "title": "ΤΕΛΕΤΗ ΕΙΣ ΕΠΑΝΟΔΟΝ ΠΑΤΡΙΑΡΧΟΥ ΕΠΙ ΤΟΝ ΟΙΚΟΥΜΕΝΙΚΟΝ ΘΡΟΝΟΝ"
+        },
+        {
+          "line": 15,
+          "level": 1,
+          "title": "Appendix: Ceremony of the Return of a Patriarch to the Ecumenical Throne"
+        },
+        {
+          "line": 17,
+          "level": 2,
+          "title": "Ceremony of the Return [Reinstallation] of the Patriarch to the Ecumenical Throne (Part 1) [Violakis, p. 887]"
+        },
+        {
+          "line": 19,
+          "level": 3,
+          "title": "CEREMONY OF THE RETURN [REINSTALLMENT] OF THE PATRIARCH TO THE ECUMENICAL THRONE"
+        },
+        {
+          "line": 30,
+          "level": 1,
+          "title": "Appendix: Ceremony of the Return of a Patriarch to the Ecumenical Throne"
+        },
+        {
+          "line": 32,
+          "level": 2,
+          "title": "Τελετὴ εἰς Ἐπάνοδον Πατριάρχου (Τέλος) [Violakis, p. 888]"
+        },
+        {
+          "line": 40,
+          "level": 1,
+          "title": "Appendix: Ceremony of the Return of a Patriarch to the Ecumenical Throne"
+        },
+        {
+          "line": 42,
+          "level": 2,
+          "title": "Ceremony of the Return [Reinstallation] of the Patriarch to the Ecumenical Throne (Conclusion) [Violakis, p. 889]"
+        },
+        {
+          "line": 53,
+          "level": 1,
+          "title": "Appendix: The Ceremony of the Indiction in the Great Church"
+        },
+        {
+          "line": 55,
+          "level": 2,
+          "title": "Ἡ ἐν τῇ Μ. Ἐκκλησίᾳ Τελετὴ τῆς Ἰνδίκτου τῇ Α΄ Σεπτεμβρίου [Violakis, p. 890]"
+        },
+        {
+          "line": 57,
+          "level": 3,
+          "title": "Η ΕΝ ΤΗ Μ. ΕΚΚΛΗΣΙᾼ ΤΕΛΕΤΗ ΤΗΣ ΙΝΔΙΚΤΟΥ Τῌ Α΄ ΣΕΠΤΕΜΒΡΙΟΥ"
+        },
+        {
+          "line": 65,
+          "level": 1,
+          "title": "Appendix: The Ceremony of the Indiction in the Great Church"
+        },
+        {
+          "line": 67,
+          "level": 2,
+          "title": "The Ceremony of the Indiction in the Great Church on September 1 (Part 1) [Violakis, p. 891]"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 901,
+        "max_leaf": 910
+      },
+      "anomalies": []
+    }
+  }
+}
