@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-10-08T07:32:08.848846+00:00",
+  "monument_id": "1888_violakis_typikon",
+  "cohort": 69,
+  "target_file": "1888_violakis_typikon_cohort69_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1888_violakis_typikon_cohort69_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1888_violakis_typikon_cohort69_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1888_violakis_typikon_cohort69_raw_draft.md",
+      "footnotes_file": "1888_violakis_typikon_cohort69_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 5,
+      "definition_markers_count": 5,
+      "text_markers": [
+        "[^400]",
+        "[^401]",
+        "[^402]",
+        "[^403]",
+        "[^404]"
+      ],
+      "definition_markers": [
+        "[^400]",
+        "[^401]",
+        "[^402]",
+        "[^403]",
+        "[^404]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1888_violakis_typikon_cohort69_raw_draft.md",
+      "passed": true,
+      "paragraphs": 87,
+      "headings_count": 24,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "Triodion: Meatfare Saturday (Concl. Matins § 8; Liturgy § 9)"
+        },
+        {
+          "line": 5,
+          "level": 2,
+          "title": "Σάββατον πρὸ τῆς Ἀπόκρεω: Τέλος Ὄρθρου (§ 8)· Θεία Λειτουργία (§ 9) [Violakis, p. 666]"
+        },
+        {
+          "line": 15,
+          "level": 1,
+          "title": "Triodion: Meatfare Saturday (Concl. Matins § 8; Liturgy § 9)"
+        },
+        {
+          "line": 17,
+          "level": 2,
+          "title": "Meatfare Saturday: Concl. of Matins (§ 8); Divine Liturgy (§ 9) [Violakis, p. 667]"
+        },
+        {
+          "line": 30,
+          "level": 1,
+          "title": "Triodion: Meatfare Saturday Rubric; Sunday of Meatfare (Heading, §§ 10–11 Opening)"
+        },
+        {
+          "line": 32,
+          "level": 2,
+          "title": "Σάββατον πρὸ τῆς Ἀπόκρεω (Σημείωσις)· Κυριακὴ τῆς Ἀπόκρεω (Ἐπικεφαλίς, §§ 10–11 Ἀρχή) [Violakis, p. 668]"
+        },
+        {
+          "line": 36,
+          "level": 3,
+          "title": "ΚΥΡΙΑΚΗ ΤΗΣ ΑΠΟΚΡΕΩ"
+        },
+        {
+          "line": 46,
+          "level": 1,
+          "title": "Triodion: Meatfare Saturday Rubric; Sunday of Meatfare (Heading, §§ 10–11 Opening)"
+        },
+        {
+          "line": 48,
+          "level": 2,
+          "title": "Meatfare Saturday Rubric; Sunday of Meatfare (Heading, §§ 10–11 Opening) [Violakis, p. 669]"
+        },
+        {
+          "line": 56,
+          "level": 3,
+          "title": "SUNDAY OF MEATFARE"
+        },
+        {
+          "line": 66,
+          "level": 1,
+          "title": "Triodion: Sunday of Meatfare (Liturgy § 12; Evening Vespers § 13); Cheesefare Week Rubrics"
+        },
+        {
+          "line": 68,
+          "level": 2,
+          "title": "Κυριακὴ τῆς Ἀπόκρεω (Λειτουργία § 12· Ἑσπερινὸς § 13)· Ἑβδομὰς τῆς Τυρινῆς [Violakis, p. 670]"
+        },
+        {
+          "line": 85,
+          "level": 1,
+          "title": "Triodion: Sunday of Meatfare (Liturgy § 12; Evening Vespers § 13); Cheesefare Week Rubrics"
+        },
+        {
+          "line": 87,
+          "level": 2,
+          "title": "Sunday of Meatfare (Liturgy § 12; Evening Vespers § 13); Cheesefare Week Rubrics [Violakis, p. 671]"
+        },
+        {
+          "line": 103,
+          "level": 1,
+          "title": "Triodion: Ascetic Fathers Rubric; Sunday of Cheesefare (§§ 14–16 Opening)"
+        }
+      ],
+      "numbered_items_count": 20,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 681,
+        "max_leaf": 690
+      },
+      "anomalies": []
+    }
+  }
+}
