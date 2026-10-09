@@ -1,0 +1,249 @@
+{
+  "timestamp": "2026-10-08T20:27:07.060889+00:00",
+  "monument_id": "1910_skaballanovich_typikon",
+  "cohort": 27,
+  "target_file": "1910_skaballanovich_typikon_cohort27_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1910_skaballanovich_typikon_cohort27_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1910_skaballanovich_typikon_cohort27_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1910_skaballanovich_typikon_cohort27_raw_draft.md",
+      "footnotes_file": "1910_skaballanovich_typikon_cohort27_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 58,
+      "definition_markers_count": 58,
+      "text_markers": [
+        "[^1428]",
+        "[^1429]",
+        "[^1430]",
+        "[^1431]",
+        "[^1432]",
+        "[^1433]",
+        "[^1434]",
+        "[^1435]",
+        "[^1436]",
+        "[^1437]",
+        "[^1438]",
+        "[^1439]",
+        "[^1440]",
+        "[^1441]",
+        "[^1442]",
+        "[^1443]",
+        "[^1444]",
+        "[^1445]",
+        "[^1446]",
+        "[^1447]",
+        "[^1448]",
+        "[^1449]",
+        "[^1450]",
+        "[^1451]",
+        "[^1452]",
+        "[^1453]",
+        "[^1454]",
+        "[^1455]",
+        "[^1456]",
+        "[^1457]",
+        "[^1458]",
+        "[^1459]",
+        "[^1460]",
+        "[^1461]",
+        "[^1462]",
+        "[^1463]",
+        "[^1464]",
+        "[^1465]",
+        "[^1466]",
+        "[^1467]",
+        "[^1468]",
+        "[^1469]",
+        "[^1470]",
+        "[^1471]",
+        "[^1472]",
+        "[^1473]",
+        "[^1474]",
+        "[^1475]",
+        "[^1476]",
+        "[^1477]",
+        "[^1478]",
+        "[^1479]",
+        "[^1480]",
+        "[^1481]",
+        "[^1482]",
+        "[^1483]",
+        "[^1484]",
+        "[^1485]"
+      ],
+      "definition_markers": [
+        "[^1428]",
+        "[^1429]",
+        "[^1430]",
+        "[^1431]",
+        "[^1432]",
+        "[^1433]",
+        "[^1434]",
+        "[^1435]",
+        "[^1436]",
+        "[^1437]",
+        "[^1438]",
+        "[^1439]",
+        "[^1440]",
+        "[^1441]",
+        "[^1442]",
+        "[^1443]",
+        "[^1444]",
+        "[^1445]",
+        "[^1446]",
+        "[^1447]",
+        "[^1448]",
+        "[^1449]",
+        "[^1450]",
+        "[^1451]",
+        "[^1452]",
+        "[^1453]",
+        "[^1454]",
+        "[^1455]",
+        "[^1456]",
+        "[^1457]",
+        "[^1458]",
+        "[^1459]",
+        "[^1460]",
+        "[^1461]",
+        "[^1462]",
+        "[^1463]",
+        "[^1464]",
+        "[^1465]",
+        "[^1466]",
+        "[^1467]",
+        "[^1468]",
+        "[^1469]",
+        "[^1470]",
+        "[^1471]",
+        "[^1472]",
+        "[^1473]",
+        "[^1474]",
+        "[^1475]",
+        "[^1476]",
+        "[^1477]",
+        "[^1478]",
+        "[^1479]",
+        "[^1480]",
+        "[^1481]",
+        "[^1482]",
+        "[^1483]",
+        "[^1484]",
+        "[^1485]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1910_skaballanovich_typikon_cohort27_raw_draft.md",
+      "passed": true,
+      "paragraphs": 58,
+      "headings_count": 15,
+      "headings": [
+        {
+          "line": 9,
+          "level": 3,
+          "title": "Theotokion Feasts: The Dormition and the Annunciation"
+        },
+        {
+          "line": 13,
+          "level": 3,
+          "title": "Commemorations of Martyrs"
+        },
+        {
+          "line": 17,
+          "level": 3,
+          "title": "The Ancient Menologia"
+        },
+        {
+          "line": 20,
+          "level": 4,
+          "title": "a) The Philocalian Calendar"
+        },
+        {
+          "line": 24,
+          "level": 4,
+          "title": "b) The Calendar of Polemius Silvius"
+        },
+        {
+          "line": 28,
+          "level": 4,
+          "title": "c) The Syriac Martyrology"
+        },
+        {
+          "line": 35,
+          "level": 4,
+          "title": "d) The Carthaginian Calendar"
+        },
+        {
+          "line": 42,
+          "level": 4,
+          "title": "e) The Gothic Calendar"
+        },
+        {
+          "line": 46,
+          "level": 3,
+          "title": "Orders of Saints in the Menologia"
+        },
+        {
+          "line": 55,
+          "level": 3,
+          "title": "The Services for Saints"
+        },
+        {
+          "line": 66,
+          "level": 3,
+          "title": "The Day of All Saints"
+        },
+        {
+          "line": 75,
+          "level": 3,
+          "title": "Commemoration of the Departed"
+        },
+        {
+          "line": 88,
+          "level": 3,
+          "title": "Commemorations of Earthquakes, Victories, and Episcopal Consecrations"
+        },
+        {
+          "line": 97,
+          "level": 3,
+          "title": "The Ember Days (Fasts of the Four Seasons)"
+        },
+        {
+          "line": 101,
+          "level": 3,
+          "title": "The Movement Against the Veneration of Martyrs and Monasticism"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 261,
+        "max_leaf": 270
+      },
+      "anomalies": []
+    }
+  }
+}

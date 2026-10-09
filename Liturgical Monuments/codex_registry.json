@@ -235,7 +235,7 @@
       "source_language": "Greek / English Bilingual",
       "genre_register": "rubrical",
       "workspace_dir": "Liturgical Monuments/Monument 5 - 1888 Violakis Typikon",
-      "active": true,
+      "active": false,
       "publication_spec": {
         "hub_inbox_folder": "1888_Violakis_Typikon",
         "master_title": "Typikon of the Great Church of Christ (George Violakis, 1888)",
@@ -289,9 +289,48 @@
       "canonical_mirror_dir": "Historical Typikons/1910-1915-Skaballanovich-Tolkovy-Typikon-Complete",
       "total_physical_pages": 1022,
       "default_cohort_size": 10,
+      "source_language": "Russian / Church Slavonic / Greek",
       "genre_register": "scholarly_critical",
       "workspace_dir": "Liturgical Monuments/Monument 6 - 1910 Skaballanovich Typikon",
-      "active": false
+      "active": false,
+      "status": "completed",
+      "publication_spec": {
+        "hub_inbox_folder": "1910_Skaballanovich_Typikon",
+        "master_title": "Tolkovy Typikon of Mikhail Skaballanovich (Kyiv, 1910–1915)",
+        "parts": [
+          {
+            "id": "part0",
+            "filename": "1910_skaballanovich_part0_intro_and_toc.md",
+            "title": "Official Front Matter, Author's Preface, Annotations, and Master Table of Contents",
+            "start_landmark": null
+          },
+          {
+            "id": "part1",
+            "filename": "1910_skaballanovich_part1_historical_investigation.md",
+            "title": "VOLUME I: THE HISTORICAL INVESTIGATION OF THE TYPIKON (Ancient, Byzantine, Rus'-Ukrainian, and Western Typika)",
+            "start_landmark": "^#\\s+Introductory\\s+Chapter\\b"
+          },
+          {
+            "id": "part2",
+            "filename": "1910_skaballanovich_part2_little_vespers.md",
+            "title": "VOLUME II: EXPLANATORY EXPOSITION OF THE TYPIKON — PART I: ORDER OF LITTLE VESPERS (Typikon Chapter 1)",
+            "start_landmark": "^#\\s+EXPLANATORY\\s+EXPOSITION\\s+OF\\s+THE\\s+TYPIKON\\b"
+          },
+          {
+            "id": "part3",
+            "filename": "1910_skaballanovich_part3_all_night_vigil.md",
+            "title": "VOLUME II: EXPLANATORY EXPOSITION OF THE TYPIKON — PART II: THE ALL-NIGHT VIGIL (Typikon Chapter 2: Great Vespers, Matins, and First Hour)",
+            "start_landmark": "^#\\s+CHAPTER\\s+2\\s+OF\\s+THE\\s+TYPIKON\\b"
+          },
+          {
+            "id": "part4",
+            "filename": "1910_skaballanovich_part4_saints_vigil.md",
+            "title": "VOLUME II: EXPLANATORY EXPOSITION OF THE TYPIKON — PART III: SUNDAY VIGIL FOR A SAINT & CONCLUDING DECREES (Typikon Chapter 3)",
+            "start_landmark": "^##\\s+CHAPTER\\s+3\\s+OF\\s+THE\\s+TYPIKON\\b"
+          }
+        ],
+        "footnotes_filename": "1910_skaballanovich_footnotes.md"
+      }
     },
     "1895_dmitrievsky_vol1": {
       "monument_id": "1895_dmitrievsky_vol1",
@@ -303,7 +342,8 @@
       "default_cohort_size": 10,
       "genre_register": "scholarly_critical",
       "workspace_dir": "Liturgical Monuments/Monument 7 - 1895 Dmitrievsky Vol 1",
-      "active": false
+      "active": false,
+      "status": "ready"
     },
     "1917_dmitrievsky_vol3": {
       "monument_id": "1917_dmitrievsky_vol3",

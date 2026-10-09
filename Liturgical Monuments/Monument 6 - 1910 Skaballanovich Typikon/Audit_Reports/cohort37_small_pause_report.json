@@ -1,0 +1,142 @@
+{
+  "timestamp": "2026-10-08T21:43:24.797715+00:00",
+  "monument_id": "1910_skaballanovich_typikon",
+  "cohort": 37,
+  "target_file": "1910_skaballanovich_typikon_cohort37_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1910_skaballanovich_typikon_cohort37_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1910_skaballanovich_typikon_cohort37_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1910_skaballanovich_typikon_cohort37_raw_draft.md",
+      "footnotes_file": "1910_skaballanovich_typikon_cohort37_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 27,
+      "definition_markers_count": 27,
+      "text_markers": [
+        "[^1700]",
+        "[^1701]",
+        "[^1702]",
+        "[^1703]",
+        "[^1704]",
+        "[^1705]",
+        "[^1706]",
+        "[^1707]",
+        "[^1708]",
+        "[^1709]",
+        "[^1710]",
+        "[^1711]",
+        "[^1712]",
+        "[^1713]",
+        "[^1714]",
+        "[^1715]",
+        "[^1716]",
+        "[^1717]",
+        "[^1718]",
+        "[^1719]",
+        "[^1720]",
+        "[^1721]",
+        "[^1722]",
+        "[^1723]",
+        "[^1724]",
+        "[^1725]",
+        "[^1726]"
+      ],
+      "definition_markers": [
+        "[^1700]",
+        "[^1701]",
+        "[^1702]",
+        "[^1703]",
+        "[^1704]",
+        "[^1705]",
+        "[^1706]",
+        "[^1707]",
+        "[^1708]",
+        "[^1709]",
+        "[^1710]",
+        "[^1711]",
+        "[^1712]",
+        "[^1713]",
+        "[^1714]",
+        "[^1715]",
+        "[^1716]",
+        "[^1717]",
+        "[^1718]",
+        "[^1719]",
+        "[^1720]",
+        "[^1721]",
+        "[^1722]",
+        "[^1723]",
+        "[^1724]",
+        "[^1725]",
+        "[^1726]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1910_skaballanovich_typikon_cohort37_raw_draft.md",
+      "passed": true,
+      "paragraphs": 42,
+      "headings_count": 6,
+      "headings": [
+        {
+          "line": 4,
+          "level": 3,
+          "title": "Compline"
+        },
+        {
+          "line": 17,
+          "level": 3,
+          "title": "The Nocturnal Hours and the Rule of the 12 Psalms"
+        },
+        {
+          "line": 30,
+          "level": 3,
+          "title": "The Three-Part Compline"
+        },
+        {
+          "line": 38,
+          "level": 3,
+          "title": "Little Compline"
+        },
+        {
+          "line": 45,
+          "level": 3,
+          "title": "Great and Daily Compline"
+        },
+        {
+          "line": 52,
+          "level": 3,
+          "title": "The Midnight Office"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 361,
+        "max_leaf": 370
+      },
+      "anomalies": []
+    }
+  }
+}

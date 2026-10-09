@@ -1,0 +1,146 @@
+{
+  "timestamp": "2026-10-09T02:04:31.634658+00:00",
+  "monument_id": "1910_skaballanovich_typikon",
+  "cohort": 76,
+  "target_file": "1910_skaballanovich_typikon_cohort76_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1910_skaballanovich_typikon_cohort76_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1910_skaballanovich_typikon_cohort76_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1910_skaballanovich_typikon_cohort76_raw_draft.md",
+      "footnotes_file": "1910_skaballanovich_typikon_cohort76_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 19,
+      "definition_markers_count": 19,
+      "text_markers": [
+        "[^2398]",
+        "[^2399]",
+        "[^2400]",
+        "[^2401]",
+        "[^2402]",
+        "[^2403]",
+        "[^2404]",
+        "[^2405]",
+        "[^2406]",
+        "[^2407]",
+        "[^2408]",
+        "[^2409]",
+        "[^2410]",
+        "[^2411]",
+        "[^2412]",
+        "[^2413]",
+        "[^2414]",
+        "[^2415]",
+        "[^2416]"
+      ],
+      "definition_markers": [
+        "[^2398]",
+        "[^2399]",
+        "[^2400]",
+        "[^2401]",
+        "[^2402]",
+        "[^2403]",
+        "[^2404]",
+        "[^2405]",
+        "[^2406]",
+        "[^2407]",
+        "[^2408]",
+        "[^2409]",
+        "[^2410]",
+        "[^2411]",
+        "[^2412]",
+        "[^2413]",
+        "[^2414]",
+        "[^2415]",
+        "[^2416]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1910_skaballanovich_typikon_cohort76_raw_draft.md",
+      "passed": true,
+      "paragraphs": 68,
+      "headings_count": 10,
+      "headings": [
+        {
+          "line": 4,
+          "level": 3,
+          "title": "Their History (*Istoriya ikh*)"
+        },
+        {
+          "line": 26,
+          "level": 3,
+          "title": "Their Recitation (*Chtenie ikh*)"
+        },
+        {
+          "line": 33,
+          "level": 3,
+          "title": "Ancient Typika on the Morning Prayers (*Drevnie ustavy ob utrennikh molitvakh*)"
+        },
+        {
+          "line": 43,
+          "level": 1,
+          "title": "THE GREAT LITANY AT MATINS (*Velikaya ekteniya na utrene*)"
+        },
+        {
+          "line": 50,
+          "level": 3,
+          "title": "According to Ancient Typika (*Po starym ustavam*)"
+        },
+        {
+          "line": 61,
+          "level": 1,
+          "title": "\"GOD IS THE LORD\" (*Bog Gospod'*)"
+        },
+        {
+          "line": 72,
+          "level": 3,
+          "title": "Ancient Use of Psalm 117 and \"God is the Lord\" (*Drevnee upotreblenie ps. 117 i \"Bog Gospod'\"*)"
+        },
+        {
+          "line": 79,
+          "level": 3,
+          "title": "Manner of Execution (*Obraz ispolneniya*)"
+        },
+        {
+          "line": 94,
+          "level": 3,
+          "title": "\"God is the Lord\" According to Ancient Typika (*\"Bog Gospod'\" po drevnim ustavam*)"
+        },
+        {
+          "line": 123,
+          "level": 2,
+          "title": "Troparia at \"God is the Lord\" (*Tropari na Bog Gospod'*)"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 751,
+        "max_leaf": 760
+      },
+      "anomalies": []
+    }
+  }
+}

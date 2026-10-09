@@ -1,0 +1,161 @@
+{
+  "timestamp": "2026-10-09T02:29:55.885925+00:00",
+  "monument_id": "1910_skaballanovich_typikon",
+  "cohort": 79,
+  "target_file": "1910_skaballanovich_typikon_cohort79_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1910_skaballanovich_typikon_cohort79_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1910_skaballanovich_typikon_cohort79_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1910_skaballanovich_typikon_cohort79_raw_draft.md",
+      "footnotes_file": "1910_skaballanovich_typikon_cohort79_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 14,
+      "definition_markers_count": 14,
+      "text_markers": [
+        "[^2449]",
+        "[^2450]",
+        "[^2451]",
+        "[^2452]",
+        "[^2453]",
+        "[^2454]",
+        "[^2455]",
+        "[^2456]",
+        "[^2457]",
+        "[^2458]",
+        "[^2459]",
+        "[^2460]",
+        "[^2461]",
+        "[^2462]"
+      ],
+      "definition_markers": [
+        "[^2449]",
+        "[^2450]",
+        "[^2451]",
+        "[^2452]",
+        "[^2453]",
+        "[^2454]",
+        "[^2455]",
+        "[^2456]",
+        "[^2457]",
+        "[^2458]",
+        "[^2459]",
+        "[^2460]",
+        "[^2461]",
+        "[^2462]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1910_skaballanovich_typikon_cohort79_raw_draft.md",
+      "passed": true,
+      "paragraphs": 64,
+      "headings_count": 16,
+      "headings": [
+        {
+          "line": 8,
+          "level": 3,
+          "title": "\"The Assembly of the Angels\" (*Angel'skiy sobor*)"
+        },
+        {
+          "line": 15,
+          "level": 3,
+          "title": "History of the Troparia \"The Assembly of the Angels\" (*Istoriya troparey \"Angel'skiy sobor\"*)"
+        },
+        {
+          "line": 21,
+          "level": 3,
+          "title": "The Little Ektenia at the Polyeleos (*Malaya ekteniya na polielee*)"
+        },
+        {
+          "line": 28,
+          "level": 3,
+          "title": "The Exclamation of the Polyeleos Ektenia in Antiquity (*Vozglas polieleynoy ektenii v drevnosti*)"
+        },
+        {
+          "line": 32,
+          "level": 3,
+          "title": "The Hypakoe (*Ipakoi*)"
+        },
+        {
+          "line": 36,
+          "level": 3,
+          "title": "Its History (*Istoriya ego*)"
+        },
+        {
+          "line": 41,
+          "level": 3,
+          "title": "Sunday Hypakoai (*Voskresnye ipakoi*)"
+        },
+        {
+          "line": 45,
+          "level": 3,
+          "title": "According to Ancient Typika (*Po drevnim ustavam*)"
+        },
+        {
+          "line": 49,
+          "level": 3,
+          "title": "The Polyeleos Reading (*Polieleynoe chtenie*)"
+        },
+        {
+          "line": 55,
+          "level": 1,
+          "title": "THE ANABATHMOI (*Stepenny*)"
+        },
+        {
+          "line": 64,
+          "level": 3,
+          "title": "History of the Anabathmoi (*Istoriya stepenn*)"
+        },
+        {
+          "line": 68,
+          "level": 3,
+          "title": "The Peal for the Gospel (*Zvon k Evangeliyu*)"
+        },
+        {
+          "line": 75,
+          "level": 3,
+          "title": "According to Old Typika (*Po starym ustavam*)"
+        },
+        {
+          "line": 80,
+          "level": 1,
+          "title": "THE MATINS PROKEIMENON (*Prokimen utreni*)"
+        },
+        {
+          "line": 86,
+          "level": 3,
+          "title": "According to Ancient Typika (*Po drevnim ustavam*)"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 781,
+        "max_leaf": 790
+      },
+      "anomalies": []
+    }
+  }
+}

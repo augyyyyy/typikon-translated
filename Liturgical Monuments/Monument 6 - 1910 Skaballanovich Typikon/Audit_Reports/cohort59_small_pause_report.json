@@ -1,0 +1,162 @@
+{
+  "timestamp": "2026-10-09T00:23:32.065888+00:00",
+  "monument_id": "1910_skaballanovich_typikon",
+  "cohort": 59,
+  "target_file": "1910_skaballanovich_typikon_cohort59_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1910_skaballanovich_typikon_cohort59_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1910_skaballanovich_typikon_cohort59_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1910_skaballanovich_typikon_cohort59_raw_draft.md",
+      "footnotes_file": "1910_skaballanovich_typikon_cohort59_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 17,
+      "definition_markers_count": 17,
+      "text_markers": [
+        "[^1974]",
+        "[^1975]",
+        "[^1976]",
+        "[^1977]",
+        "[^1978]",
+        "[^1979]",
+        "[^1980]",
+        "[^1981]",
+        "[^1982]",
+        "[^1983]",
+        "[^1984]",
+        "[^1985]",
+        "[^1986]",
+        "[^1987]",
+        "[^1988]",
+        "[^1989]",
+        "[^1990]"
+      ],
+      "definition_markers": [
+        "[^1974]",
+        "[^1975]",
+        "[^1976]",
+        "[^1977]",
+        "[^1978]",
+        "[^1979]",
+        "[^1980]",
+        "[^1981]",
+        "[^1982]",
+        "[^1983]",
+        "[^1984]",
+        "[^1985]",
+        "[^1986]",
+        "[^1987]",
+        "[^1988]",
+        "[^1989]",
+        "[^1990]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1910_skaballanovich_typikon_cohort59_raw_draft.md",
+      "passed": true,
+      "paragraphs": 67,
+      "headings_count": 14,
+      "headings": [
+        {
+          "line": 6,
+          "level": 2,
+          "title": "History"
+        },
+        {
+          "line": 22,
+          "level": 1,
+          "title": "CHAPTER 2 OF THE TYPIKON: \"THE ALL-NIGHT VIGIL\""
+        },
+        {
+          "line": 23,
+          "level": 2,
+          "title": "(Sunday Great Vespers and Matins, the Hours, the Liturgy, and the Order of the Panagia)"
+        },
+        {
+          "line": 28,
+          "level": 1,
+          "title": "THE BELL-PEAL AND CENSING"
+        },
+        {
+          "line": 30,
+          "level": 2,
+          "title": "The Appointed Time for the Vigil"
+        },
+        {
+          "line": 34,
+          "level": 2,
+          "title": "Character of the Bell-Peal"
+        },
+        {
+          "line": 53,
+          "level": 2,
+          "title": "Prayer Accompanying the Bell-Peal"
+        },
+        {
+          "line": 62,
+          "level": 2,
+          "title": "Meaning of the Censing"
+        },
+        {
+          "line": 75,
+          "level": 2,
+          "title": "Peculiarities of the Present Censing"
+        },
+        {
+          "line": 77,
+          "level": 3,
+          "title": "a) Its Celebrant"
+        },
+        {
+          "line": 83,
+          "level": 3,
+          "title": "b) The Candle at the Censing"
+        },
+        {
+          "line": 100,
+          "level": 2,
+          "title": "Vesting of the Sacred Ministers"
+        },
+        {
+          "line": 116,
+          "level": 2,
+          "title": "Censing of the Sanctuary"
+        },
+        {
+          "line": 120,
+          "level": 2,
+          "title": "\"Arise\" or \"Command\""
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 581,
+        "max_leaf": 590
+      },
+      "anomalies": []
+    }
+  }
+}

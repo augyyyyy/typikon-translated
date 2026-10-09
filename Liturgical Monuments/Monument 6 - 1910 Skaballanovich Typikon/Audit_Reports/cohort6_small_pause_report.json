@@ -1,0 +1,210 @@
+{
+  "timestamp": "2026-10-08T17:28:16.217109+00:00",
+  "monument_id": "1910_skaballanovich_typikon",
+  "cohort": 6,
+  "target_file": "1910_skaballanovich_typikon_cohort6_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1910_skaballanovich_typikon_cohort6_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1910_skaballanovich_typikon_cohort6_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1910_skaballanovich_typikon_cohort6_raw_draft.md",
+      "footnotes_file": "1910_skaballanovich_typikon_cohort6_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 41,
+      "definition_markers_count": 41,
+      "text_markers": [
+        "[^283]",
+        "[^284]",
+        "[^285]",
+        "[^286]",
+        "[^287]",
+        "[^288]",
+        "[^289]",
+        "[^290]",
+        "[^291]",
+        "[^292]",
+        "[^293]",
+        "[^294]",
+        "[^295]",
+        "[^296]",
+        "[^297]",
+        "[^298]",
+        "[^299]",
+        "[^300]",
+        "[^301]",
+        "[^302]",
+        "[^303]",
+        "[^304]",
+        "[^305]",
+        "[^306]",
+        "[^307]",
+        "[^308]",
+        "[^309]",
+        "[^310]",
+        "[^311]",
+        "[^312]",
+        "[^313]",
+        "[^314]",
+        "[^315]",
+        "[^316]",
+        "[^317]",
+        "[^318]",
+        "[^319]",
+        "[^320]",
+        "[^321]",
+        "[^322]",
+        "[^323]"
+      ],
+      "definition_markers": [
+        "[^283]",
+        "[^284]",
+        "[^285]",
+        "[^286]",
+        "[^287]",
+        "[^288]",
+        "[^289]",
+        "[^290]",
+        "[^291]",
+        "[^292]",
+        "[^293]",
+        "[^294]",
+        "[^295]",
+        "[^296]",
+        "[^297]",
+        "[^298]",
+        "[^299]",
+        "[^300]",
+        "[^301]",
+        "[^302]",
+        "[^303]",
+        "[^304]",
+        "[^305]",
+        "[^306]",
+        "[^307]",
+        "[^308]",
+        "[^309]",
+        "[^310]",
+        "[^311]",
+        "[^312]",
+        "[^313]",
+        "[^314]",
+        "[^315]",
+        "[^316]",
+        "[^317]",
+        "[^318]",
+        "[^319]",
+        "[^320]",
+        "[^321]",
+        "[^322]",
+        "[^323]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1910_skaballanovich_typikon_cohort6_raw_draft.md",
+      "passed": true,
+      "paragraphs": 64,
+      "headings_count": 14,
+      "headings": [
+        {
+          "line": 9,
+          "level": 3,
+          "title": "The Agape according to Lucian"
+        },
+        {
+          "line": 19,
+          "level": 3,
+          "title": "Days of Divine Worship"
+        },
+        {
+          "line": 28,
+          "level": 3,
+          "title": "Hours of Prayer"
+        },
+        {
+          "line": 32,
+          "level": 3,
+          "title": "Order of Service"
+        },
+        {
+          "line": 41,
+          "level": 3,
+          "title": "Constituent Parts of Divine Worship"
+        },
+        {
+          "line": 43,
+          "level": 4,
+          "title": "Prayer"
+        },
+        {
+          "line": 47,
+          "level": 4,
+          "title": "Psalmody and Hymns"
+        },
+        {
+          "line": 63,
+          "level": 3,
+          "title": "Reading of Holy Scripture: Formation of the New Testament Canon"
+        },
+        {
+          "line": 72,
+          "level": 3,
+          "title": "The Gospel and the Apostle"
+        },
+        {
+          "line": 85,
+          "level": 3,
+          "title": "The Manner of Reading Holy Scripture"
+        },
+        {
+          "line": 92,
+          "level": 3,
+          "title": "Preaching / The Homily"
+        },
+        {
+          "line": 96,
+          "level": 3,
+          "title": "The Church Year in the II Century: Sunday"
+        },
+        {
+          "line": 105,
+          "level": 3,
+          "title": "Pascha"
+        },
+        {
+          "line": 111,
+          "level": 3,
+          "title": "St. Irenaeus on Pascha"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 51,
+        "max_leaf": 60
+      },
+      "anomalies": []
+    }
+  }
+}

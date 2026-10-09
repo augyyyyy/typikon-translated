@@ -1,0 +1,214 @@
+{
+  "timestamp": "2026-10-09T03:14:26.363687+00:00",
+  "monument_id": "1910_skaballanovich_typikon",
+  "cohort": 85,
+  "target_file": "1910_skaballanovich_typikon_cohort85.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1910_skaballanovich_typikon_cohort85.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1910_skaballanovich_typikon_cohort85.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1910_skaballanovich_typikon_cohort85.md",
+      "footnotes_file": "1910_skaballanovich_typikon_cohort85_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 35,
+      "definition_markers_count": 40,
+      "text_markers": [
+        "[^2588]",
+        "[^2589]",
+        "[^2590]",
+        "[^2591]",
+        "[^2592]",
+        "[^2593]",
+        "[^2594]",
+        "[^2595]",
+        "[^2596]",
+        "[^2597]",
+        "[^2598]",
+        "[^2599]",
+        "[^2600]",
+        "[^2601]",
+        "[^2602]",
+        "[^2603]",
+        "[^2604]",
+        "[^2605]",
+        "[^2606]",
+        "[^2607]",
+        "[^2608]",
+        "[^2609]",
+        "[^2610]",
+        "[^2611]",
+        "[^2612]",
+        "[^2613]",
+        "[^2614]",
+        "[^2615]",
+        "[^2616]",
+        "[^2617]",
+        "[^2618]",
+        "[^2619]",
+        "[^2620]",
+        "[^2621]",
+        "[^2622]"
+      ],
+      "definition_markers": [
+        "[^2588]",
+        "[^2589]",
+        "[^2590]",
+        "[^2591]",
+        "[^2592]",
+        "[^2593]",
+        "[^2594]",
+        "[^2595]",
+        "[^2596]",
+        "[^2597]",
+        "[^2598]",
+        "[^2599]",
+        "[^2600]",
+        "[^2601]",
+        "[^2602]",
+        "[^2603]",
+        "[^2604]",
+        "[^2605]",
+        "[^2606]",
+        "[^2607]",
+        "[^2608]",
+        "[^2609]",
+        "[^2610]",
+        "[^2611]",
+        "[^2612]",
+        "[^2613]",
+        "[^2614]",
+        "[^2615]",
+        "[^2616]",
+        "[^2617]",
+        "[^2618]",
+        "[^2619]",
+        "[^2620]",
+        "[^2621]",
+        "[^2622]",
+        "[^2623]",
+        "[^2624]",
+        "[^2625]",
+        "[^2626]",
+        "[^2627]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": [
+        "[^2623]",
+        "[^2624]",
+        "[^2625]",
+        "[^2626]",
+        "[^2627]"
+      ]
+    },
+    "structural_sequence": {
+      "file": "1910_skaballanovich_typikon_cohort85.md",
+      "passed": true,
+      "paragraphs": 89,
+      "headings_count": 16,
+      "headings": [
+        {
+          "line": 11,
+          "level": 3,
+          "title": "Melody"
+        },
+        {
+          "line": 16,
+          "level": 3,
+          "title": "According unto Ancient Typika"
+        },
+        {
+          "line": 20,
+          "level": 3,
+          "title": "Before the Magnificat"
+        },
+        {
+          "line": 24,
+          "level": 3,
+          "title": "According unto Ancient Typika"
+        },
+        {
+          "line": 38,
+          "level": 3,
+          "title": "Bows at the \"More Honorable\""
+        },
+        {
+          "line": 42,
+          "level": 3,
+          "title": "According unto Ancient Typika"
+        },
+        {
+          "line": 47,
+          "level": 3,
+          "title": "Censing at the \"More Honorable\""
+        },
+        {
+          "line": 53,
+          "level": 3,
+          "title": "According unto Ancient and Other Typika"
+        },
+        {
+          "line": 65,
+          "level": 3,
+          "title": "The Litany after Ode 9"
+        },
+        {
+          "line": 69,
+          "level": 3,
+          "title": "Primordial Antiquity of Its Exclamation"
+        },
+        {
+          "line": 73,
+          "level": 3,
+          "title": "\"Holy is the Lord our God\""
+        },
+        {
+          "line": 80,
+          "level": 3,
+          "title": "History"
+        },
+        {
+          "line": 100,
+          "level": 3,
+          "title": "The Exapostilarion [Svitylen]"
+        },
+        {
+          "line": 111,
+          "level": 3,
+          "title": "History"
+        },
+        {
+          "line": 116,
+          "level": 3,
+          "title": "Sunday Exapostilaria"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 841,
+        "max_leaf": 850
+      },
+      "anomalies": []
+    }
+  }
+}

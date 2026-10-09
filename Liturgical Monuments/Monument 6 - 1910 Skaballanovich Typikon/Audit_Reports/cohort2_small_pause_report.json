@@ -1,0 +1,245 @@
+{
+  "timestamp": "2026-10-08T16:42:26.765599+00:00",
+  "monument_id": "1910_skaballanovich_typikon",
+  "cohort": 2,
+  "target_file": "1910_skaballanovich_typikon_cohort2_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1910_skaballanovich_typikon_cohort2_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1910_skaballanovich_typikon_cohort2_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1910_skaballanovich_typikon_cohort2_raw_draft.md",
+      "footnotes_file": "1910_skaballanovich_typikon_cohort2_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 56,
+      "definition_markers_count": 56,
+      "text_markers": [
+        "[^2]",
+        "[^3]",
+        "[^4]",
+        "[^5]",
+        "[^6]",
+        "[^7]",
+        "[^8]",
+        "[^9]",
+        "[^10]",
+        "[^11]",
+        "[^12]",
+        "[^13]",
+        "[^14]",
+        "[^15]",
+        "[^16]",
+        "[^17]",
+        "[^18]",
+        "[^19]",
+        "[^20]",
+        "[^21]",
+        "[^22]",
+        "[^23]",
+        "[^24]",
+        "[^25]",
+        "[^26]",
+        "[^27]",
+        "[^28]",
+        "[^29]",
+        "[^30]",
+        "[^31]",
+        "[^32]",
+        "[^33]",
+        "[^34]",
+        "[^35]",
+        "[^36]",
+        "[^37]",
+        "[^38]",
+        "[^39]",
+        "[^40]",
+        "[^41]",
+        "[^42]",
+        "[^43]",
+        "[^44]",
+        "[^45]",
+        "[^46]",
+        "[^47]",
+        "[^48]",
+        "[^49]",
+        "[^50]",
+        "[^51]",
+        "[^52]",
+        "[^53]",
+        "[^54]",
+        "[^55]",
+        "[^56]",
+        "[^57]"
+      ],
+      "definition_markers": [
+        "[^2]",
+        "[^3]",
+        "[^4]",
+        "[^5]",
+        "[^6]",
+        "[^7]",
+        "[^8]",
+        "[^9]",
+        "[^10]",
+        "[^11]",
+        "[^12]",
+        "[^13]",
+        "[^14]",
+        "[^15]",
+        "[^16]",
+        "[^17]",
+        "[^18]",
+        "[^19]",
+        "[^20]",
+        "[^21]",
+        "[^22]",
+        "[^23]",
+        "[^24]",
+        "[^25]",
+        "[^26]",
+        "[^27]",
+        "[^28]",
+        "[^29]",
+        "[^30]",
+        "[^31]",
+        "[^32]",
+        "[^33]",
+        "[^34]",
+        "[^35]",
+        "[^36]",
+        "[^37]",
+        "[^38]",
+        "[^39]",
+        "[^40]",
+        "[^41]",
+        "[^42]",
+        "[^43]",
+        "[^44]",
+        "[^45]",
+        "[^46]",
+        "[^47]",
+        "[^48]",
+        "[^49]",
+        "[^50]",
+        "[^51]",
+        "[^52]",
+        "[^53]",
+        "[^54]",
+        "[^55]",
+        "[^56]",
+        "[^57]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1910_skaballanovich_typikon_cohort2_raw_draft.md",
+      "passed": true,
+      "paragraphs": 78,
+      "headings_count": 16,
+      "headings": [
+        {
+          "line": 2,
+          "level": 1,
+          "title": "Introductory Chapter"
+        },
+        {
+          "line": 3,
+          "level": 2,
+          "title": "History of the Liturgical Typikon"
+        },
+        {
+          "line": 8,
+          "level": 3,
+          "title": "From the Author"
+        },
+        {
+          "line": 20,
+          "level": 3,
+          "title": "A. The Liturgical Typikon Prior to the Appearance of Its Complete Manuscripts"
+        },
+        {
+          "line": 21,
+          "level": 4,
+          "title": "(1st–8th Centuries)"
+        },
+        {
+          "line": 36,
+          "level": 3,
+          "title": "Old Testament Jewish Divine Worship"
+        },
+        {
+          "line": 45,
+          "level": 3,
+          "title": "Old Testament Temple Worship"
+        },
+        {
+          "line": 49,
+          "level": 4,
+          "title": "The Order of Sacrificial Psalmody"
+        },
+        {
+          "line": 57,
+          "level": 4,
+          "title": "Daily and Festive Psalms: Canticles of the Sabbath"
+        },
+        {
+          "line": 73,
+          "level": 4,
+          "title": "Significance and Character of Old Testament Temple Singing"
+        },
+        {
+          "line": 84,
+          "level": 4,
+          "title": "Lamps and Incense"
+        },
+        {
+          "line": 93,
+          "level": 4,
+          "title": "Rites of the Feast of Tabernacles (*Sukkot*)"
+        },
+        {
+          "line": 103,
+          "level": 3,
+          "title": "Synagogal Worship"
+        },
+        {
+          "line": 120,
+          "level": 4,
+          "title": "Introductory Psalms and Prayers"
+        },
+        {
+          "line": 131,
+          "level": 4,
+          "title": "The Shema"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 11,
+        "max_leaf": 20
+      },
+      "anomalies": []
+    }
+  }
+}

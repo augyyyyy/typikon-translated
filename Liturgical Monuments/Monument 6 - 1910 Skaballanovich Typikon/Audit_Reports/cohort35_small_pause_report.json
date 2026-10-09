@@ -1,0 +1,211 @@
+{
+  "timestamp": "2026-10-08T21:32:55.621143+00:00",
+  "monument_id": "1910_skaballanovich_typikon",
+  "cohort": 35,
+  "target_file": "1910_skaballanovich_typikon_cohort35_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1910_skaballanovich_typikon_cohort35_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1910_skaballanovich_typikon_cohort35_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1910_skaballanovich_typikon_cohort35_raw_draft.md",
+      "footnotes_file": "1910_skaballanovich_typikon_cohort35_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 54,
+      "definition_markers_count": 54,
+      "text_markers": [
+        "[^1608]",
+        "[^1609]",
+        "[^1610]",
+        "[^1611]",
+        "[^1612]",
+        "[^1613]",
+        "[^1614]",
+        "[^1615]",
+        "[^1616]",
+        "[^1617]",
+        "[^1618]",
+        "[^1619]",
+        "[^1620]",
+        "[^1621]",
+        "[^1622]",
+        "[^1623]",
+        "[^1624]",
+        "[^1625]",
+        "[^1626]",
+        "[^1627]",
+        "[^1628]",
+        "[^1629]",
+        "[^1630]",
+        "[^1631]",
+        "[^1632]",
+        "[^1633]",
+        "[^1634]",
+        "[^1635]",
+        "[^1636]",
+        "[^1637]",
+        "[^1638]",
+        "[^1639]",
+        "[^1640]",
+        "[^1641]",
+        "[^1642]",
+        "[^1643]",
+        "[^1644]",
+        "[^1645]",
+        "[^1646]",
+        "[^1647]",
+        "[^1648]",
+        "[^1649]",
+        "[^1650]",
+        "[^1651]",
+        "[^1652]",
+        "[^1653]",
+        "[^1654]",
+        "[^1655]",
+        "[^1656]",
+        "[^1657]",
+        "[^1658]",
+        "[^1659]",
+        "[^1660]",
+        "[^1661]"
+      ],
+      "definition_markers": [
+        "[^1608]",
+        "[^1609]",
+        "[^1610]",
+        "[^1611]",
+        "[^1612]",
+        "[^1613]",
+        "[^1614]",
+        "[^1615]",
+        "[^1616]",
+        "[^1617]",
+        "[^1618]",
+        "[^1619]",
+        "[^1620]",
+        "[^1621]",
+        "[^1622]",
+        "[^1623]",
+        "[^1624]",
+        "[^1625]",
+        "[^1626]",
+        "[^1627]",
+        "[^1628]",
+        "[^1629]",
+        "[^1630]",
+        "[^1631]",
+        "[^1632]",
+        "[^1633]",
+        "[^1634]",
+        "[^1635]",
+        "[^1636]",
+        "[^1637]",
+        "[^1638]",
+        "[^1639]",
+        "[^1640]",
+        "[^1641]",
+        "[^1642]",
+        "[^1643]",
+        "[^1644]",
+        "[^1645]",
+        "[^1646]",
+        "[^1647]",
+        "[^1648]",
+        "[^1649]",
+        "[^1650]",
+        "[^1651]",
+        "[^1652]",
+        "[^1653]",
+        "[^1654]",
+        "[^1655]",
+        "[^1656]",
+        "[^1657]",
+        "[^1658]",
+        "[^1659]",
+        "[^1660]",
+        "[^1661]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1910_skaballanovich_typikon_cohort35_raw_draft.md",
+      "passed": true,
+      "paragraphs": 40,
+      "headings_count": 9,
+      "headings": [
+        {
+          "line": 4,
+          "level": 2,
+          "title": "Monastic Divine Worship of the 9th and Subsequent Centuries"
+        },
+        {
+          "line": 13,
+          "level": 3,
+          "title": "The Studite Typikon"
+        },
+        {
+          "line": 20,
+          "level": 3,
+          "title": "Daily Worship in the Studion Monastery Under St. Theodore"
+        },
+        {
+          "line": 24,
+          "level": 3,
+          "title": "The Hypotyposis and Diatyposis and Daily Worship According unto Them"
+        },
+        {
+          "line": 28,
+          "level": 3,
+          "title": "The Sinai Kanonarion"
+        },
+        {
+          "line": 35,
+          "level": 3,
+          "title": "The Ktetorial Studite Typika"
+        },
+        {
+          "line": 44,
+          "level": 3,
+          "title": "Vespers According unto the Ktetorial Studite Typika"
+        },
+        {
+          "line": 49,
+          "level": 3,
+          "title": "Matins According unto the Ktetorial Studite Typika"
+        },
+        {
+          "line": 67,
+          "level": 3,
+          "title": "The Hours and Compline in the Studite Typika"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 341,
+        "max_leaf": 350
+      },
+      "anomalies": []
+    }
+  }
+}

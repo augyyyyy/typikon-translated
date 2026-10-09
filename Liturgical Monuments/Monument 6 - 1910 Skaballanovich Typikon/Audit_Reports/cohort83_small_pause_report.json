@@ -1,0 +1,179 @@
+{
+  "timestamp": "2026-10-09T02:56:08.724986+00:00",
+  "monument_id": "1910_skaballanovich_typikon",
+  "cohort": 83,
+  "target_file": "1910_skaballanovich_typikon_cohort83_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1910_skaballanovich_typikon_cohort83_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1910_skaballanovich_typikon_cohort83_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1910_skaballanovich_typikon_cohort83_raw_draft.md",
+      "footnotes_file": "1910_skaballanovich_typikon_cohort83_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 28,
+      "definition_markers_count": 30,
+      "text_markers": [
+        "[^2534]",
+        "[^2535]",
+        "[^2536]",
+        "[^2537]",
+        "[^2538]",
+        "[^2539]",
+        "[^2540]",
+        "[^2541]",
+        "[^2542]",
+        "[^2543]",
+        "[^2544]",
+        "[^2545]",
+        "[^2546]",
+        "[^2547]",
+        "[^2548]",
+        "[^2549]",
+        "[^2550]",
+        "[^2551]",
+        "[^2552]",
+        "[^2553]",
+        "[^2554]",
+        "[^2555]",
+        "[^2556]",
+        "[^2557]",
+        "[^2558]",
+        "[^2559]",
+        "[^2560]",
+        "[^2561]"
+      ],
+      "definition_markers": [
+        "[^2534]",
+        "[^2535]",
+        "[^2536]",
+        "[^2537]",
+        "[^2538]",
+        "[^2539]",
+        "[^2540]",
+        "[^2541]",
+        "[^2542]",
+        "[^2543]",
+        "[^2544]",
+        "[^2545]",
+        "[^2546]",
+        "[^2547]",
+        "[^2548]",
+        "[^2549]",
+        "[^2550]",
+        "[^2551]",
+        "[^2552]",
+        "[^2553]",
+        "[^2554]",
+        "[^2555]",
+        "[^2556]",
+        "[^2557]",
+        "[^2558]",
+        "[^2559]",
+        "[^2560]",
+        "[^2561]",
+        "[^2562]",
+        "[^2563]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": [
+        "[^2562]",
+        "[^2563]"
+      ]
+    },
+    "structural_sequence": {
+      "file": "1910_skaballanovich_typikon_cohort83_raw_draft.md",
+      "passed": true,
+      "paragraphs": 58,
+      "headings_count": 12,
+      "headings": [
+        {
+          "line": 10,
+          "level": 3,
+          "title": "Time of Origin"
+        },
+        {
+          "line": 14,
+          "level": 3,
+          "title": "Unto How Many Stanzas for Each Kanon?"
+        },
+        {
+          "line": 21,
+          "level": 3,
+          "title": "According unto Ancient Typika"
+        },
+        {
+          "line": 40,
+          "level": 3,
+          "title": "Katavasia"
+        },
+        {
+          "line": 45,
+          "level": 3,
+          "title": "History"
+        },
+        {
+          "line": 49,
+          "level": 3,
+          "title": "The Katavasia \"I Will Open My Mouth\""
+        },
+        {
+          "line": 58,
+          "level": 3,
+          "title": "Time of Introduction"
+        },
+        {
+          "line": 64,
+          "level": 3,
+          "title": "Order of Chanting and Melody of the Kanon"
+        },
+        {
+          "line": 71,
+          "level": 3,
+          "title": "When and Why Did They Cease Chanting the Troparia of the Kanon?"
+        },
+        {
+          "line": 80,
+          "level": 3,
+          "title": "Melody of the Kanons at Sunday Matins"
+        },
+        {
+          "line": 97,
+          "level": 3,
+          "title": "Historical Note"
+        },
+        {
+          "line": 101,
+          "level": 3,
+          "title": "Censing at the Beginning of the Kanon According unto Ancient Typika"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 821,
+        "max_leaf": 830
+      },
+      "anomalies": []
+    }
+  }
+}

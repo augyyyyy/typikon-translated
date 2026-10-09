@@ -1,0 +1,211 @@
+{
+  "timestamp": "2026-10-08T17:48:48.007849+00:00",
+  "monument_id": "1910_skaballanovich_typikon",
+  "cohort": 8,
+  "target_file": "1910_skaballanovich_typikon_cohort8_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1910_skaballanovich_typikon_cohort8_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1910_skaballanovich_typikon_cohort8_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1910_skaballanovich_typikon_cohort8_raw_draft.md",
+      "footnotes_file": "1910_skaballanovich_typikon_cohort8_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 54,
+      "definition_markers_count": 54,
+      "text_markers": [
+        "[^361]",
+        "[^362]",
+        "[^363]",
+        "[^364]",
+        "[^365]",
+        "[^366]",
+        "[^367]",
+        "[^368]",
+        "[^369]",
+        "[^370]",
+        "[^371]",
+        "[^372]",
+        "[^373]",
+        "[^374]",
+        "[^375]",
+        "[^376]",
+        "[^377]",
+        "[^378]",
+        "[^379]",
+        "[^380]",
+        "[^381]",
+        "[^382]",
+        "[^383]",
+        "[^384]",
+        "[^385]",
+        "[^386]",
+        "[^387]",
+        "[^388]",
+        "[^389]",
+        "[^390]",
+        "[^391]",
+        "[^392]",
+        "[^393]",
+        "[^394]",
+        "[^395]",
+        "[^396]",
+        "[^397]",
+        "[^398]",
+        "[^399]",
+        "[^400]",
+        "[^401]",
+        "[^402]",
+        "[^403]",
+        "[^404]",
+        "[^405]",
+        "[^406]",
+        "[^407]",
+        "[^408]",
+        "[^409]",
+        "[^410]",
+        "[^411]",
+        "[^412]",
+        "[^413]",
+        "[^414]"
+      ],
+      "definition_markers": [
+        "[^361]",
+        "[^362]",
+        "[^363]",
+        "[^364]",
+        "[^365]",
+        "[^366]",
+        "[^367]",
+        "[^368]",
+        "[^369]",
+        "[^370]",
+        "[^371]",
+        "[^372]",
+        "[^373]",
+        "[^374]",
+        "[^375]",
+        "[^376]",
+        "[^377]",
+        "[^378]",
+        "[^379]",
+        "[^380]",
+        "[^381]",
+        "[^382]",
+        "[^383]",
+        "[^384]",
+        "[^385]",
+        "[^386]",
+        "[^387]",
+        "[^388]",
+        "[^389]",
+        "[^390]",
+        "[^391]",
+        "[^392]",
+        "[^393]",
+        "[^394]",
+        "[^395]",
+        "[^396]",
+        "[^397]",
+        "[^398]",
+        "[^399]",
+        "[^400]",
+        "[^401]",
+        "[^402]",
+        "[^403]",
+        "[^404]",
+        "[^405]",
+        "[^406]",
+        "[^407]",
+        "[^408]",
+        "[^409]",
+        "[^410]",
+        "[^411]",
+        "[^412]",
+        "[^413]",
+        "[^414]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1910_skaballanovich_typikon_cohort8_raw_draft.md",
+      "passed": true,
+      "paragraphs": 54,
+      "headings_count": 9,
+      "headings": [
+        {
+          "line": 11,
+          "level": 3,
+          "title": "The Agape according to Tertullian"
+        },
+        {
+          "line": 20,
+          "level": 3,
+          "title": "The Agape according to Minucius Felix and Origen"
+        },
+        {
+          "line": 26,
+          "level": 3,
+          "title": "The Agape according to Cyprian"
+        },
+        {
+          "line": 38,
+          "level": 3,
+          "title": "The Agape according to the Testamentum Domini"
+        },
+        {
+          "line": 53,
+          "level": 3,
+          "title": "The Agape according to the Canons of Hippolytus and the Egyptian Canons"
+        },
+        {
+          "line": 65,
+          "level": 3,
+          "title": "Firstfruits as Material for the Agapes"
+        },
+        {
+          "line": 72,
+          "level": 3,
+          "title": "Matins according to Tertullian"
+        },
+        {
+          "line": 88,
+          "level": 3,
+          "title": "Matins according to the Testamentum Domini"
+        },
+        {
+          "line": 92,
+          "level": 4,
+          "title": "Episcopal Matins of the Testamentum Domini"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 71,
+        "max_leaf": 80
+      },
+      "anomalies": []
+    }
+  }
+}

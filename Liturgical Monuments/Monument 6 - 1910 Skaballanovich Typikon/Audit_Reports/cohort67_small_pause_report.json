@@ -1,0 +1,152 @@
+{
+  "timestamp": "2026-10-09T01:06:09.720523+00:00",
+  "monument_id": "1910_skaballanovich_typikon",
+  "cohort": 67,
+  "target_file": "1910_skaballanovich_typikon_cohort67_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1910_skaballanovich_typikon_cohort67_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1910_skaballanovich_typikon_cohort67_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1910_skaballanovich_typikon_cohort67_raw_draft.md",
+      "footnotes_file": "1910_skaballanovich_typikon_cohort67_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 27,
+      "definition_markers_count": 27,
+      "text_markers": [
+        "[^2202]",
+        "[^2203]",
+        "[^2204]",
+        "[^2205]",
+        "[^2206]",
+        "[^2207]",
+        "[^2208]",
+        "[^2209]",
+        "[^2210]",
+        "[^2211]",
+        "[^2212]",
+        "[^2213]",
+        "[^2214]",
+        "[^2215]",
+        "[^2216]",
+        "[^2217]",
+        "[^2218]",
+        "[^2219]",
+        "[^2220]",
+        "[^2221]",
+        "[^2222]",
+        "[^2223]",
+        "[^2224]",
+        "[^2225]",
+        "[^2226]",
+        "[^2227]",
+        "[^2228]"
+      ],
+      "definition_markers": [
+        "[^2202]",
+        "[^2203]",
+        "[^2204]",
+        "[^2205]",
+        "[^2206]",
+        "[^2207]",
+        "[^2208]",
+        "[^2209]",
+        "[^2210]",
+        "[^2211]",
+        "[^2212]",
+        "[^2213]",
+        "[^2214]",
+        "[^2215]",
+        "[^2216]",
+        "[^2217]",
+        "[^2218]",
+        "[^2219]",
+        "[^2220]",
+        "[^2221]",
+        "[^2222]",
+        "[^2223]",
+        "[^2224]",
+        "[^2225]",
+        "[^2226]",
+        "[^2227]",
+        "[^2228]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1910_skaballanovich_typikon_cohort67_raw_draft.md",
+      "passed": true,
+      "paragraphs": 60,
+      "headings_count": 8,
+      "headings": [
+        {
+          "line": 24,
+          "level": 2,
+          "title": "History of the Entrance"
+        },
+        {
+          "line": 34,
+          "level": 2,
+          "title": "The Distinction of the Vesperal Entrance from the Liturgical Entrances"
+        },
+        {
+          "line": 38,
+          "level": 2,
+          "title": "Peculiarities of the Vesperal Entrance in Historical Development"
+        },
+        {
+          "line": 65,
+          "level": 1,
+          "title": "\"O GLADSOME LIGHT\" (*PHOS HILARON*)"
+        },
+        {
+          "line": 67,
+          "level": 2,
+          "title": "Content of the Hymn"
+        },
+        {
+          "line": 77,
+          "level": 2,
+          "title": "Origin of the Hymn"
+        },
+        {
+          "line": 86,
+          "level": 2,
+          "title": "Manner of Execution"
+        },
+        {
+          "line": 93,
+          "level": 2,
+          "title": "Ancient Typika Concerning \"O Gladsome Light\""
+        }
+      ],
+      "numbered_items_count": 3,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 661,
+        "max_leaf": 670
+      },
+      "anomalies": []
+    }
+  }
+}

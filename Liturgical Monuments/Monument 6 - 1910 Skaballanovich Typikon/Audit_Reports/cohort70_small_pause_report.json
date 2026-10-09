@@ -1,0 +1,138 @@
+{
+  "timestamp": "2026-10-09T01:24:27.615245+00:00",
+  "monument_id": "1910_skaballanovich_typikon",
+  "cohort": 70,
+  "target_file": "1910_skaballanovich_typikon_cohort70_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1910_skaballanovich_typikon_cohort70_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1910_skaballanovich_typikon_cohort70_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1910_skaballanovich_typikon_cohort70_raw_draft.md",
+      "footnotes_file": "1910_skaballanovich_typikon_cohort70_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 20,
+      "definition_markers_count": 20,
+      "text_markers": [
+        "[^2283]",
+        "[^2284]",
+        "[^2285]",
+        "[^2286]",
+        "[^2287]",
+        "[^2288]",
+        "[^2289]",
+        "[^2290]",
+        "[^2291]",
+        "[^2292]",
+        "[^2293]",
+        "[^2294]",
+        "[^2295]",
+        "[^2296]",
+        "[^2297]",
+        "[^2298]",
+        "[^2299]",
+        "[^2300]",
+        "[^2301]",
+        "[^2302]"
+      ],
+      "definition_markers": [
+        "[^2283]",
+        "[^2284]",
+        "[^2285]",
+        "[^2286]",
+        "[^2287]",
+        "[^2288]",
+        "[^2289]",
+        "[^2290]",
+        "[^2291]",
+        "[^2292]",
+        "[^2293]",
+        "[^2294]",
+        "[^2295]",
+        "[^2296]",
+        "[^2297]",
+        "[^2298]",
+        "[^2299]",
+        "[^2300]",
+        "[^2301]",
+        "[^2302]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1910_skaballanovich_typikon_cohort70_raw_draft.md",
+      "passed": true,
+      "paragraphs": 56,
+      "headings_count": 8,
+      "headings": [
+        {
+          "line": 10,
+          "level": 2,
+          "title": "Who Recites the Augmented Litany at Vespers"
+        },
+        {
+          "line": 20,
+          "level": 1,
+          "title": "\"Vouchsafe, O Lord\" (*Spodobi, Gospodi* — *Kataxioson, Kyrie*)"
+        },
+        {
+          "line": 31,
+          "level": 2,
+          "title": "History of the Prayer"
+        },
+        {
+          "line": 46,
+          "level": 2,
+          "title": "Manner of Performance"
+        },
+        {
+          "line": 53,
+          "level": 1,
+          "title": "The Litany of Supplication (*Prositel'naya Ekteniya*)"
+        },
+        {
+          "line": 57,
+          "level": 2,
+          "title": "History of the Litany"
+        },
+        {
+          "line": 91,
+          "level": 2,
+          "title": "The Bowing of Heads (*Glavopreklońenie*)"
+        },
+        {
+          "line": 98,
+          "level": 3,
+          "title": "History of the Bowing of Heads"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 691,
+        "max_leaf": 700
+      },
+      "anomalies": []
+    }
+  }
+}

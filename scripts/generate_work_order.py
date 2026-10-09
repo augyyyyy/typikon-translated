@@ -266,11 +266,14 @@ def generate_work_order(
     work_order_file = work_orders_dir / f"cohort_{cohort_num:02d}_work_order.md"
 
     source_lang = mon_info.get("source_language", "Church Slavonic")
-    if "Greek" in source_lang:
+    if "bilingual" in source_lang.lower():
         transcription_inst = f"Transcribe Greek and bilingual English facing text leaf-by-leaf with headers `=== LEAF p{{start_page}} ===` (Greek on even folios, English on odd folios)."
         translation_inst = f"Translate and critically audit into MTS-1 compliant text in `{draft_md_out.name}` with inline footnote markers `[^N]`, rectifying chant terms to Tone 1–8 and canonical UGCC loanwords."
+    elif "russian" in source_lang.lower():
+        transcription_inst = f"Transcribe Russian source text, Church Slavonic incipits, and Greek citations leaf-by-leaf with headers `=== LEAF p{{N}} ===` (for each leaf p{start_page} through p{end_page})."
+        translation_inst = f"Translate and critically audit into MTS-1 compliant scholarly critical text in `{draft_md_out.name}` with inline footnote markers `[^N]`, preserving original page markers `*(Orig. p. N)*` and rendering Greek/Slavonic apparatus in footnotes."
     else:
-        transcription_inst = f"Transcribe Church Slavonic source text leaf-by-leaf with headers `=== LEAF p{{start_page}} ===`."
+        transcription_inst = f"Transcribe Church Slavonic source text leaf-by-leaf with headers `=== LEAF p{{N}} ===` (for each leaf p{start_page} through p{end_page})."
         translation_inst = f"Translate unabridged into `{draft_md_out.name}` with inline footnote markers `[^N]`."
 
     content = f"""# Work Order: {mon_info.get('title')} — Cohort {cohort_num}

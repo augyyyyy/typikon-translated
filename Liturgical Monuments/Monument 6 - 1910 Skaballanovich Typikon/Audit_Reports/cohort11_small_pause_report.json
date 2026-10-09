@@ -1,0 +1,190 @@
+{
+  "timestamp": "2026-10-08T18:22:43.796164+00:00",
+  "monument_id": "1910_skaballanovich_typikon",
+  "cohort": 11,
+  "target_file": "1910_skaballanovich_typikon_cohort11_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1910_skaballanovich_typikon_cohort11_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1910_skaballanovich_typikon_cohort11_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1910_skaballanovich_typikon_cohort11_raw_draft.md",
+      "footnotes_file": "1910_skaballanovich_typikon_cohort11_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 36,
+      "definition_markers_count": 36,
+      "text_markers": [
+        "[^468]",
+        "[^469]",
+        "[^470]",
+        "[^471]",
+        "[^472]",
+        "[^473]",
+        "[^474]",
+        "[^475]",
+        "[^476]",
+        "[^477]",
+        "[^478]",
+        "[^479]",
+        "[^480]",
+        "[^481]",
+        "[^482]",
+        "[^483]",
+        "[^484]",
+        "[^485]",
+        "[^486]",
+        "[^487]",
+        "[^488]",
+        "[^489]",
+        "[^490]",
+        "[^491]",
+        "[^492]",
+        "[^493]",
+        "[^494]",
+        "[^495]",
+        "[^496]",
+        "[^497]",
+        "[^498]",
+        "[^499]",
+        "[^500]",
+        "[^501]",
+        "[^502]",
+        "[^503]"
+      ],
+      "definition_markers": [
+        "[^468]",
+        "[^469]",
+        "[^470]",
+        "[^471]",
+        "[^472]",
+        "[^473]",
+        "[^474]",
+        "[^475]",
+        "[^476]",
+        "[^477]",
+        "[^478]",
+        "[^479]",
+        "[^480]",
+        "[^481]",
+        "[^482]",
+        "[^483]",
+        "[^484]",
+        "[^485]",
+        "[^486]",
+        "[^487]",
+        "[^488]",
+        "[^489]",
+        "[^490]",
+        "[^491]",
+        "[^492]",
+        "[^493]",
+        "[^494]",
+        "[^495]",
+        "[^496]",
+        "[^497]",
+        "[^498]",
+        "[^499]",
+        "[^500]",
+        "[^501]",
+        "[^502]",
+        "[^503]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1910_skaballanovich_typikon_cohort11_raw_draft.md",
+      "passed": true,
+      "paragraphs": 57,
+      "headings_count": 12,
+      "headings": [
+        {
+          "line": 8,
+          "level": 4,
+          "title": "Constituent Parts of Divine Worship"
+        },
+        {
+          "line": 12,
+          "level": 4,
+          "title": "The Reading of Holy Scripture"
+        },
+        {
+          "line": 19,
+          "level": 4,
+          "title": "Pericopes"
+        },
+        {
+          "line": 23,
+          "level": 4,
+          "title": "The Reader"
+        },
+        {
+          "line": 30,
+          "level": 4,
+          "title": "Homilies"
+        },
+        {
+          "line": 34,
+          "level": 4,
+          "title": "Prayers"
+        },
+        {
+          "line": 40,
+          "level": 4,
+          "title": "Melodies"
+        },
+        {
+          "line": 54,
+          "level": 4,
+          "title": "The Development of Hymnody"
+        },
+        {
+          "line": 64,
+          "level": 4,
+          "title": "Hymnographers and Hymns of the 3rd Century"
+        },
+        {
+          "line": 80,
+          "level": 4,
+          "title": "The Church Year of the 3rd Century: Feasts and Weekdays"
+        },
+        {
+          "line": 84,
+          "level": 4,
+          "title": "Sunday"
+        },
+        {
+          "line": 89,
+          "level": 4,
+          "title": "Saturday"
+        }
+      ],
+      "numbered_items_count": 2,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 101,
+        "max_leaf": 110
+      },
+      "anomalies": []
+    }
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "timestamp": "2026-10-09T03:18:23.322740+00:00",
+  "monument_id": "1910_skaballanovich_typikon",
+  "cohort": 86,
+  "target_file": "1910_skaballanovich_typikon_cohort86.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1910_skaballanovich_typikon_cohort86.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1910_skaballanovich_typikon_cohort86.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1910_skaballanovich_typikon_cohort86.md",
+      "footnotes_file": "1910_skaballanovich_typikon_cohort86_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 28,
+      "definition_markers_count": 44,
+      "text_markers": [
+        "[^2623]",
+        "[^2624]",
+        "[^2625]",
+        "[^2626]",
+        "[^2627]",
+        "[^2628]",
+        "[^2629]",
+        "[^2630]",
+        "[^2631]",
+        "[^2632]",
+        "[^2633]",
+        "[^2634]",
+        "[^2635]",
+        "[^2636]",
+        "[^2637]",
+        "[^2638]",
+        "[^2639]",
+        "[^2640]",
+        "[^2641]",
+        "[^2642]",
+        "[^2643]",
+        "[^2644]",
+        "[^2645]",
+        "[^2646]",
+        "[^2647]",
+        "[^2648]",
+        "[^2649]",
+        "[^2650]"
+      ],
+      "definition_markers": [
+        "[^2623]",
+        "[^2624]",
+        "[^2625]",
+        "[^2626]",
+        "[^2627]",
+        "[^2628]",
+        "[^2629]",
+        "[^2630]",
+        "[^2631]",
+        "[^2632]",
+        "[^2633]",
+        "[^2634]",
+        "[^2635]",
+        "[^2636]",
+        "[^2637]",
+        "[^2638]",
+        "[^2639]",
+        "[^2640]",
+        "[^2641]",
+        "[^2642]",
+        "[^2643]",
+        "[^2644]",
+        "[^2645]",
+        "[^2646]",
+        "[^2647]",
+        "[^2648]",
+        "[^2649]",
+        "[^2650]",
+        "[^2651]",
+        "[^2652]",
+        "[^2653]",
+        "[^2654]",
+        "[^2655]",
+        "[^2656]",
+        "[^2657]",
+        "[^2658]",
+        "[^2659]",
+        "[^2660]",
+        "[^2661]",
+        "[^2662]",
+        "[^2663]",
+        "[^2664]",
+        "[^2665]",
+        "[^2666]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": [
+        "[^2651]",
+        "[^2652]",
+        "[^2653]",
+        "[^2654]",
+        "[^2655]",
+        "[^2656]",
+        "[^2657]",
+        "[^2658]",
+        "[^2659]",
+        "[^2660]",
+        "[^2661]",
+        "[^2662]",
+        "[^2663]",
+        "[^2664]",
+        "[^2665]",
+        "[^2666]"
+      ]
+    },
+    "structural_sequence": {
+      "file": "1910_skaballanovich_typikon_cohort86.md",
+      "passed": true,
+      "paragraphs": 58,
+      "headings_count": 13,
+      "headings": [
+        {
+          "line": 3,
+          "level": 3,
+          "title": "The Praises [Lauds]"
+        },
+        {
+          "line": 7,
+          "level": 3,
+          "title": "History of Use"
+        },
+        {
+          "line": 13,
+          "level": 3,
+          "title": "Order of Chanting the Praises Psalms"
+        },
+        {
+          "line": 31,
+          "level": 3,
+          "title": "History of Use"
+        },
+        {
+          "line": 37,
+          "level": 3,
+          "title": "Stichera on the Praises"
+        },
+        {
+          "line": 41,
+          "level": 3,
+          "title": "History"
+        },
+        {
+          "line": 45,
+          "level": 3,
+          "title": "Sunday Stichera on the Praises"
+        },
+        {
+          "line": 59,
+          "level": 3,
+          "title": "History"
+        },
+        {
+          "line": 75,
+          "level": 3,
+          "title": "THE GREAT DOXOLOGY"
+        },
+        {
+          "line": 79,
+          "level": 3,
+          "title": "\"Glory to Thee Who Hast Shown Us the Light\""
+        },
+        {
+          "line": 85,
+          "level": 3,
+          "title": "According unto Ancient Typika"
+        },
+        {
+          "line": 91,
+          "level": 3,
+          "title": "Content of the Great Doxology"
+        },
+        {
+          "line": 111,
+          "level": 3,
+          "title": "History"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 851,
+        "max_leaf": 860
+      },
+      "anomalies": []
+    }
+  }
+}

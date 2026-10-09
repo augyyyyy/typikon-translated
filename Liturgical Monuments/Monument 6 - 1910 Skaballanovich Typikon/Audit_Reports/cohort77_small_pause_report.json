@@ -1,0 +1,151 @@
+{
+  "timestamp": "2026-10-09T02:14:33.088118+00:00",
+  "monument_id": "1910_skaballanovich_typikon",
+  "cohort": 77,
+  "target_file": "1910_skaballanovich_typikon_cohort77_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1910_skaballanovich_typikon_cohort77_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1910_skaballanovich_typikon_cohort77_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1910_skaballanovich_typikon_cohort77_raw_draft.md",
+      "footnotes_file": "1910_skaballanovich_typikon_cohort77_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 19,
+      "definition_markers_count": 19,
+      "text_markers": [
+        "[^2417]",
+        "[^2418]",
+        "[^2419]",
+        "[^2420]",
+        "[^2421]",
+        "[^2422]",
+        "[^2423]",
+        "[^2424]",
+        "[^2425]",
+        "[^2426]",
+        "[^2427]",
+        "[^2428]",
+        "[^2429]",
+        "[^2430]",
+        "[^2431]",
+        "[^2432]",
+        "[^2433]",
+        "[^2434]",
+        "[^2435]"
+      ],
+      "definition_markers": [
+        "[^2417]",
+        "[^2418]",
+        "[^2419]",
+        "[^2420]",
+        "[^2421]",
+        "[^2422]",
+        "[^2423]",
+        "[^2424]",
+        "[^2425]",
+        "[^2426]",
+        "[^2427]",
+        "[^2428]",
+        "[^2429]",
+        "[^2430]",
+        "[^2431]",
+        "[^2432]",
+        "[^2433]",
+        "[^2434]",
+        "[^2435]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1910_skaballanovich_typikon_cohort77_raw_draft.md",
+      "passed": true,
+      "paragraphs": 58,
+      "headings_count": 11,
+      "headings": [
+        {
+          "line": 4,
+          "level": 3,
+          "title": "According to Ancient Typika (*Po drevnim ustavam*)"
+        },
+        {
+          "line": 16,
+          "level": 3,
+          "title": "Sunday Troparia (*Voskresnye tropari*)"
+        },
+        {
+          "line": 25,
+          "level": 3,
+          "title": "Their History (*Istoriya ikh*)"
+        },
+        {
+          "line": 30,
+          "level": 1,
+          "title": "THE PSALTER KATHISMATA AT MATINS (*Kafizmy utreni*)"
+        },
+        {
+          "line": 34,
+          "level": 3,
+          "title": "History of the Kathisma (*Istoriya kafizmy*)"
+        },
+        {
+          "line": 41,
+          "level": 3,
+          "title": "The Order of the Kathisma (*Chin kafizmy*)"
+        },
+        {
+          "line": 50,
+          "level": 3,
+          "title": "Ancient Singing of the Kathismata (*Prezhnee penie kafizm*)"
+        },
+        {
+          "line": 69,
+          "level": 3,
+          "title": "Little Litanies at the Kathismata (*Ektenii malye na kafizmakh*)"
+        },
+        {
+          "line": 76,
+          "level": 3,
+          "title": "According to Ancient Typika (*Po drevnim ustavam*)"
+        },
+        {
+          "line": 80,
+          "level": 1,
+          "title": "THE SESSIONAL HYMNS AFTER THE KATHISMATA (*Sedal'ny po kafizmakh*)"
+        },
+        {
+          "line": 86,
+          "level": 3,
+          "title": "Melodies of the Sessional Hymns (*Napevy sedal'nov*)"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 761,
+        "max_leaf": 770
+      },
+      "anomalies": []
+    }
+  }
+}

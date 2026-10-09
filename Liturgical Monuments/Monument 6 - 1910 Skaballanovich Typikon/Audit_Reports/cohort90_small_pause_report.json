@@ -1,0 +1,152 @@
+{
+  "timestamp": "2026-10-09T03:40:02.126640+00:00",
+  "monument_id": "1910_skaballanovich_typikon",
+  "cohort": 90,
+  "target_file": "1910_skaballanovich_typikon_cohort90_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1910_skaballanovich_typikon_cohort90_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1910_skaballanovich_typikon_cohort90_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1910_skaballanovich_typikon_cohort90_raw_draft.md",
+      "footnotes_file": "1910_skaballanovich_typikon_cohort90_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 17,
+      "definition_markers_count": 17,
+      "text_markers": [
+        "[^2721]",
+        "[^2722]",
+        "[^2723]",
+        "[^2724]",
+        "[^2725]",
+        "[^2726]",
+        "[^2727]",
+        "[^2728]",
+        "[^2729]",
+        "[^2730]",
+        "[^2731]",
+        "[^2732]",
+        "[^2733]",
+        "[^2734]",
+        "[^2735]",
+        "[^2736]",
+        "[^2737]"
+      ],
+      "definition_markers": [
+        "[^2721]",
+        "[^2722]",
+        "[^2723]",
+        "[^2724]",
+        "[^2725]",
+        "[^2726]",
+        "[^2727]",
+        "[^2728]",
+        "[^2729]",
+        "[^2730]",
+        "[^2731]",
+        "[^2732]",
+        "[^2733]",
+        "[^2734]",
+        "[^2735]",
+        "[^2736]",
+        "[^2737]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1910_skaballanovich_typikon_cohort90_raw_draft.md",
+      "passed": true,
+      "paragraphs": 87,
+      "headings_count": 12,
+      "headings": [
+        {
+          "line": 16,
+          "level": 3,
+          "title": "THE FIRST HOUR"
+        },
+        {
+          "line": 18,
+          "level": 4,
+          "title": "Its Relationship to the Vigil"
+        },
+        {
+          "line": 24,
+          "level": 4,
+          "title": "Its Relationship to Matins"
+        },
+        {
+          "line": 28,
+          "level": 4,
+          "title": "Structure and Content of the First Hour"
+        },
+        {
+          "line": 58,
+          "level": 4,
+          "title": "History of the Hour"
+        },
+        {
+          "line": 82,
+          "level": 4,
+          "title": "The First Hour on Sunday"
+        },
+        {
+          "line": 90,
+          "level": 4,
+          "title": "According to Ancient Typika"
+        },
+        {
+          "line": 106,
+          "level": 3,
+          "title": "THE THIRD HOUR"
+        },
+        {
+          "line": 108,
+          "level": 4,
+          "title": "Content of the Hour"
+        },
+        {
+          "line": 136,
+          "level": 4,
+          "title": "History of the Hour"
+        },
+        {
+          "line": 150,
+          "level": 3,
+          "title": "THE SIXTH HOUR"
+        },
+        {
+          "line": 152,
+          "level": 4,
+          "title": "Content of the Hour"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 891,
+        "max_leaf": 900
+      },
+      "anomalies": []
+    }
+  }
+}

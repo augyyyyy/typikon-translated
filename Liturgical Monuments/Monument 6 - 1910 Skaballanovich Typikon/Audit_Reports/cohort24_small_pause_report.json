@@ -1,0 +1,222 @@
+{
+  "timestamp": "2026-10-08T20:05:42.885193+00:00",
+  "monument_id": "1910_skaballanovich_typikon",
+  "cohort": 24,
+  "target_file": "1910_skaballanovich_typikon_cohort24_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1910_skaballanovich_typikon_cohort24_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1910_skaballanovich_typikon_cohort24_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1910_skaballanovich_typikon_cohort24_raw_draft.md",
+      "footnotes_file": "1910_skaballanovich_typikon_cohort24_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 57,
+      "definition_markers_count": 57,
+      "text_markers": [
+        "[^1260]",
+        "[^1261]",
+        "[^1262]",
+        "[^1263]",
+        "[^1264]",
+        "[^1265]",
+        "[^1266]",
+        "[^1267]",
+        "[^1268]",
+        "[^1269]",
+        "[^1270]",
+        "[^1271]",
+        "[^1272]",
+        "[^1273]",
+        "[^1274]",
+        "[^1275]",
+        "[^1276]",
+        "[^1277]",
+        "[^1278]",
+        "[^1279]",
+        "[^1280]",
+        "[^1281]",
+        "[^1282]",
+        "[^1283]",
+        "[^1284]",
+        "[^1285]",
+        "[^1286]",
+        "[^1287]",
+        "[^1288]",
+        "[^1289]",
+        "[^1290]",
+        "[^1291]",
+        "[^1292]",
+        "[^1293]",
+        "[^1294]",
+        "[^1295]",
+        "[^1296]",
+        "[^1297]",
+        "[^1298]",
+        "[^1299]",
+        "[^1300]",
+        "[^1301]",
+        "[^1302]",
+        "[^1303]",
+        "[^1304]",
+        "[^1305]",
+        "[^1306]",
+        "[^1307]",
+        "[^1308]",
+        "[^1309]",
+        "[^1310]",
+        "[^1311]",
+        "[^1312]",
+        "[^1313]",
+        "[^1314]",
+        "[^1315]",
+        "[^1316]"
+      ],
+      "definition_markers": [
+        "[^1260]",
+        "[^1261]",
+        "[^1262]",
+        "[^1263]",
+        "[^1264]",
+        "[^1265]",
+        "[^1266]",
+        "[^1267]",
+        "[^1268]",
+        "[^1269]",
+        "[^1270]",
+        "[^1271]",
+        "[^1272]",
+        "[^1273]",
+        "[^1274]",
+        "[^1275]",
+        "[^1276]",
+        "[^1277]",
+        "[^1278]",
+        "[^1279]",
+        "[^1280]",
+        "[^1281]",
+        "[^1282]",
+        "[^1283]",
+        "[^1284]",
+        "[^1285]",
+        "[^1286]",
+        "[^1287]",
+        "[^1288]",
+        "[^1289]",
+        "[^1290]",
+        "[^1291]",
+        "[^1292]",
+        "[^1293]",
+        "[^1294]",
+        "[^1295]",
+        "[^1296]",
+        "[^1297]",
+        "[^1298]",
+        "[^1299]",
+        "[^1300]",
+        "[^1301]",
+        "[^1302]",
+        "[^1303]",
+        "[^1304]",
+        "[^1305]",
+        "[^1306]",
+        "[^1307]",
+        "[^1308]",
+        "[^1309]",
+        "[^1310]",
+        "[^1311]",
+        "[^1312]",
+        "[^1313]",
+        "[^1314]",
+        "[^1315]",
+        "[^1316]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1910_skaballanovich_typikon_cohort24_raw_draft.md",
+      "passed": true,
+      "paragraphs": 47,
+      "headings_count": 10,
+      "headings": [
+        {
+          "line": 9,
+          "level": 3,
+          "title": "Divine Worship of the Forty-Day Fast"
+        },
+        {
+          "line": 16,
+          "level": 3,
+          "title": "The Catechumenate during the Forty-Day Fast"
+        },
+        {
+          "line": 30,
+          "level": 3,
+          "title": "Penance and Communion during the Forty-Day Fast"
+        },
+        {
+          "line": 37,
+          "level": 3,
+          "title": "Civil Legislation concerning the Forty-Day Fast"
+        },
+        {
+          "line": 41,
+          "level": 3,
+          "title": "The Penultimate Week of the Forty-Day Fast"
+        },
+        {
+          "line": 46,
+          "level": 3,
+          "title": "Holy Week"
+        },
+        {
+          "line": 50,
+          "level": 3,
+          "title": "Lazarus Saturday"
+        },
+        {
+          "line": 59,
+          "level": 3,
+          "title": "Palm Sunday"
+        },
+        {
+          "line": 70,
+          "level": 3,
+          "title": "The First Days of Holy Week"
+        },
+        {
+          "line": 77,
+          "level": 3,
+          "title": "Great and Holy Thursday"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 231,
+        "max_leaf": 240
+      },
+      "anomalies": []
+    }
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "timestamp": "2026-10-09T00:40:12.770542+00:00",
+  "monument_id": "1910_skaballanovich_typikon",
+  "cohort": 62,
+  "target_file": "1910_skaballanovich_typikon_cohort62_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1910_skaballanovich_typikon_cohort62_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1910_skaballanovich_typikon_cohort62_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1910_skaballanovich_typikon_cohort62_raw_draft.md",
+      "footnotes_file": "1910_skaballanovich_typikon_cohort62_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 22,
+      "definition_markers_count": 22,
+      "text_markers": [
+        "[^2078]",
+        "[^2079]",
+        "[^2080]",
+        "[^2081]",
+        "[^2082]",
+        "[^2083]",
+        "[^2084]",
+        "[^2085]",
+        "[^2086]",
+        "[^2087]",
+        "[^2088]",
+        "[^2089]",
+        "[^2090]",
+        "[^2091]",
+        "[^2092]",
+        "[^2093]",
+        "[^2094]",
+        "[^2095]",
+        "[^2096]",
+        "[^2097]",
+        "[^2098]",
+        "[^2099]"
+      ],
+      "definition_markers": [
+        "[^2078]",
+        "[^2079]",
+        "[^2080]",
+        "[^2081]",
+        "[^2082]",
+        "[^2083]",
+        "[^2084]",
+        "[^2085]",
+        "[^2086]",
+        "[^2087]",
+        "[^2088]",
+        "[^2089]",
+        "[^2090]",
+        "[^2091]",
+        "[^2092]",
+        "[^2093]",
+        "[^2094]",
+        "[^2095]",
+        "[^2096]",
+        "[^2097]",
+        "[^2098]",
+        "[^2099]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1910_skaballanovich_typikon_cohort62_raw_draft.md",
+      "passed": true,
+      "paragraphs": 55,
+      "headings_count": 11,
+      "headings": [
+        {
+          "line": 2,
+          "level": 1,
+          "title": "THE GREAT LITANY"
+        },
+        {
+          "line": 4,
+          "level": 2,
+          "title": "The Litany"
+        },
+        {
+          "line": 9,
+          "level": 2,
+          "title": "The Great Litany: Its Character and Content"
+        },
+        {
+          "line": 16,
+          "level": 2,
+          "title": "History of the Great Litany: The Litany in First Clement"
+        },
+        {
+          "line": 25,
+          "level": 2,
+          "title": "The Primary Source of the Great Litany"
+        },
+        {
+          "line": 32,
+          "level": 2,
+          "title": "The Litany in the Abyssinian Liturgy"
+        },
+        {
+          "line": 41,
+          "level": 2,
+          "title": "The Litany in the Coptic Liturgy"
+        },
+        {
+          "line": 49,
+          "level": 2,
+          "title": "The Litany in the Syrian Liturgy"
+        },
+        {
+          "line": 58,
+          "level": 2,
+          "title": "The Litany in the Mozarabic Liturgy"
+        },
+        {
+          "line": 66,
+          "level": 2,
+          "title": "The Litany in the Liturgy of the Evangelist Mark"
+        },
+        {
+          "line": 77,
+          "level": 2,
+          "title": "The Litany in the Nestorian Liturgy"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 611,
+        "max_leaf": 620
+      },
+      "anomalies": []
+    }
+  }
+}

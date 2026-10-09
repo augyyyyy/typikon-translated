@@ -1,0 +1,52 @@
+import sys
+from pathlib import Path
+
+sys.stdout.reconfigure(encoding='utf-8')
+
+footnotes_text = """[^1317]: See above, p. 133.
+[^1318]: See above, p. 139.
+[^1319]: *Peregrinatio ad loca sancta* (*Pilgrimage of Egeria*), § 35–36.
+[^1320]: Council of Laodicea, Canon 46.
+[^1321]: J. Bingham, *Origines Ecclesiasticae*, lib. XXI, cap. 2, § 35 [al. p. 235].
+[^1322]: St. Augustine, *Confessiones*, lib. VIII, cap. 5; Migne, *PL*, t. 32, col. 753.
+[^1323]: St. Ambrose of Milan, *Epistola 23*, § 12; Migne, *PL*, t. 16, col. 1030.
+[^1324]: *Apostolic Constitutions*, V, 18. See above, p. 122.
+[^1325]: Pope Innocent I, *Epistola 25 ad Decentium Eugubinum*, cap. 2; Migne, *PL*, t. 20, col. 555.
+[^1326]: *Peregrinatio ad loca sancta* (*Pilgrimage of Egeria*), § 37.
+[^1327]: *Apostolic Constitutions*, V, 18.
+[^1328]: See above, p. 124.
+[^1329]: *Peregrinatio ad loca sancta* (*Pilgrimage of Egeria*), § 38.
+[^1330]: See above, p. 256.
+[^1331]: Eusebius of Caesarea, *Vita Constantini*, lib. III, cap. 5: "there appeared also another (besides Arianism) most grievous affliction—the controversy concerning Pascha."
+[^1332]: Socrates Scholasticus, *Historia Ecclesiastica*, lib. I, cap. 8.
+[^1333]: Sozomen, *Historia Ecclesiastica*, lib. I, cap. 18: "no less (than concerning Arianism) grievous was it unto him (Constantine the Great) to hear that certain celebrate the feast of Pascha not together with all."
+[^1334]: Socrates Scholasticus, *Historia Ecclesiastica*, lib. I, cap. 9.
+[^1335]: Eusebius, *Vita Constantini*, lib. III, cap. 18–19; Socrates Scholasticus, *Historia Ecclesiastica*, lib. I, cap. 9.
+[^1336]: Apostolic Canon 7.
+[^1337]: *Apostolic Constitutions*, V, 18.
+[^1338]: Since the lunar year is shorter than the solar year by 11 and 1/4 days, among those who use lunar reckoning (the Semites) an addition of an intercalary month unto the year is made from time to time; to equalize both reckonings it is necessary in 8 lunar years to make 3 intercalary months. The supplementary month among the Jews was added unto the last month of the year, Adar (corresponding unto February), and was called "Veadar," "another Adar." Yet in that epoch such intercalations were not regulated and depended upon the arbitrary discretion of influential rabbis. And if an intercalation was not made in timely fashion, Pascha fell before spring. In the Talmud there is preserved an epistle of Rabbi Gamaliel (the teacher of the Apostle Paul) unto Babylon and Media: "We inform you that since the pigeons (for sacrifice) are still too tender and the lambs too young, and the season of Aviv (= Nisan, the first spring month) hath not yet arrived, we, in agreement with our colleagues, have deemed it necessary to add 30 days unto the year" (Kellner, *Heortologie*, S. 34). For this reason in every year a special announcement was required concerning the advent of Pascha. When the Sanhedrin existed, it dispatched annually throughout all Palestine special messengers with an announcement as to from which day the beginning of the month of Nisan was to be counted and upon which day Pascha would fall; and in order to make this known unto the Euphrates Jews as well, at the Nisan new moon fires were kindled upon the Mount of Olives and following it upon other mountains as far as Babylonia itself (V. Rybinsky, *On Pilgrimage unto Jerusalem in Biblical Times* [*O palomnichestve v Ierusalim v bibleyskoye vremya*], *Trudy Kievskoy Dukhovnoy Akademii* [1909], no. 11, p. 499).
+[^1339]: St. Athanasius the Great, *Festal Epistle 21* (349 AD); Migne, *PG*, t. 26, col. 1435.
+[^1340]: Compare above, p. 118.
+[^1341]: St. Gregory the Theologian, *Oration 19* (*In laudem patris*); *Oration 42* (*In Pascha*); St. John Chrysostom, *Homilia 85 in Pascha*; J. Bingham, *Origines Ecclesiasticae*, lib. XX, cap. 5, § 1 [al. p. 108].
+[^1342]: *Codex Theodosianus*, lib. IX, tit. 38, leg. 3, 4, 6, 7, 8; *Codex Justinianus*, lib. I, tit. 4, leg. 3.
+[^1343]: St. Epiphanius of Cyprus, *Expositio fidei*, § 22; Migne, *PG*, t. 42, col. 828.
+[^1344]: Socrates Scholasticus, *Historia Ecclesiastica*, lib. VII, cap. 5.
+[^1345]: Compare in our contemporary rite the chanting of **"Behold, the Bridegroom cometh"** (*Se Zhenikh gryadet*) during Passion Week.
+[^1346]: Lactantius, *Divinae Institutiones*, lib. VII, cap. 19; Migne, *PL*, t. 6, col. 797.
+[^1347]: St. Jerome, *Commentarius in Evangelium Matthaei*, lib. IV (ad cap. 25:6); Migne, *PL*, t. 26, col. 184.
+[^1348]: St. John Chrysostom, *Epistola 1 ad Innocentium papam*, § 3; Palladius of Helenopolis, *Dialogus de vita S. Joannis Chrysostomi*, cap. 9; Migne, *PG*, t. 47, col. 33.
+[^1349]: *Apostolic Constitutions*, V, 19 [al. 12]. See above, p. 133.
+[^1350]: *Peregrinatio ad loca sancta* (*Pilgrimage of Egeria*), § 38.
+[^1351]: Eusebius of Caesarea, *Vita Constantini*, lib. IV, cap. 22.
+[^1352]: St. Gregory the Theologian, *Oration 42* (*In Pascha*), § 2; Migne, *PG*, t. 36, col. 624.
+[^1353]: St. John Chrysostom, *Homilia 34 de resurrectione Christi*; Migne, *PG*, t. 50, col. 633.
+[^1354]: *Apostolic Constitutions*, VIII, 33.
+[^1355]: *Codex Justinianus*, lib. III, tit. 12, leg. 8.
+[^1356]: *Codex Theodosianus*, lib. XV, tit. 5, leg. 5.
+[^1357]: St. Augustine, *Epistola 55* (al. 119) *ad Ianuarium*, cap. 17, § 32; Migne, *PL*, t. 33, col. 220.
+[^1358]: *Peregrinatio ad loca sancta* (*Pilgrimage of Egeria*), § 39.
+"""
+
+out_path = Path("Liturgical Monuments/Monument 6 - 1910 Skaballanovich Typikon/Draft/1910_skaballanovich_typikon_cohort25_footnotes.txt")
+out_path.write_text(footnotes_text.strip() + "\n", encoding="utf-8")
+print(f"Wrote {out_path}, size = {out_path.stat().st_size} bytes")

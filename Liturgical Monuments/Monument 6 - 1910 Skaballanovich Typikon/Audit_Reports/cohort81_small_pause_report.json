@@ -1,0 +1,159 @@
+{
+  "timestamp": "2026-10-09T02:45:06.828204+00:00",
+  "monument_id": "1910_skaballanovich_typikon",
+  "cohort": 81,
+  "target_file": "1910_skaballanovich_typikon_cohort81_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1910_skaballanovich_typikon_cohort81_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1910_skaballanovich_typikon_cohort81_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1910_skaballanovich_typikon_cohort81_raw_draft.md",
+      "footnotes_file": "1910_skaballanovich_typikon_cohort81_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 23,
+      "definition_markers_count": 23,
+      "text_markers": [
+        "[^2492]",
+        "[^2493]",
+        "[^2494]",
+        "[^2495]",
+        "[^2496]",
+        "[^2497]",
+        "[^2498]",
+        "[^2499]",
+        "[^2500]",
+        "[^2501]",
+        "[^2502]",
+        "[^2503]",
+        "[^2504]",
+        "[^2505]",
+        "[^2506]",
+        "[^2507]",
+        "[^2508]",
+        "[^2509]",
+        "[^2510]",
+        "[^2511]",
+        "[^2512]",
+        "[^2513]",
+        "[^2514]"
+      ],
+      "definition_markers": [
+        "[^2492]",
+        "[^2493]",
+        "[^2494]",
+        "[^2495]",
+        "[^2496]",
+        "[^2497]",
+        "[^2498]",
+        "[^2499]",
+        "[^2500]",
+        "[^2501]",
+        "[^2502]",
+        "[^2503]",
+        "[^2504]",
+        "[^2505]",
+        "[^2506]",
+        "[^2507]",
+        "[^2508]",
+        "[^2509]",
+        "[^2510]",
+        "[^2511]",
+        "[^2512]",
+        "[^2513]",
+        "[^2514]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1910_skaballanovich_typikon_cohort81_raw_draft.md",
+      "passed": true,
+      "paragraphs": 81,
+      "headings_count": 11,
+      "headings": [
+        {
+          "line": 5,
+          "level": 3,
+          "title": "Their History (*Istoriya ikh*)"
+        },
+        {
+          "line": 19,
+          "level": 3,
+          "title": "The Veneration of the Gospel (*Tselovanie Evangelia*)"
+        },
+        {
+          "line": 26,
+          "level": 3,
+          "title": "Origin of the Custom (*Vozniknovenie obychaya*)"
+        },
+        {
+          "line": 31,
+          "level": 3,
+          "title": "The Order of Veneration (*Chin tselovaniya*)"
+        },
+        {
+          "line": 38,
+          "level": 3,
+          "title": "Development of the Order (*Razvitie china*)"
+        },
+        {
+          "line": 77,
+          "level": 3,
+          "title": "\"Save, O God\" (*Spasi Bozhe*)"
+        },
+        {
+          "line": 84,
+          "level": 3,
+          "title": "According unto Ancient Typika (*Po starym ustavam*)"
+        },
+        {
+          "line": 104,
+          "level": 1,
+          "title": "THE KANON (*Kanon*)"
+        },
+        {
+          "line": 108,
+          "level": 3,
+          "title": "The Word \"Kanon\" and Its Present Application (*Slovo \"kanon\" i ego nastoyashchee primenenie*)"
+        },
+        {
+          "line": 113,
+          "level": 3,
+          "title": "The Biblical Odes of the Kanon (*Bibleyskie pesni kanona*)"
+        },
+        {
+          "line": 143,
+          "level": 3,
+          "title": "History of Use (*Istoriya upotrebleniya*)"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 801,
+        "max_leaf": 810
+      },
+      "anomalies": []
+    }
+  }
+}

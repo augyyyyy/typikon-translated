@@ -1,0 +1,167 @@
+{
+  "timestamp": "2026-10-08T20:13:50.427441+00:00",
+  "monument_id": "1910_skaballanovich_typikon",
+  "cohort": 25,
+  "target_file": "1910_skaballanovich_typikon_cohort25_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1910_skaballanovich_typikon_cohort25_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1910_skaballanovich_typikon_cohort25_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1910_skaballanovich_typikon_cohort25_raw_draft.md",
+      "footnotes_file": "1910_skaballanovich_typikon_cohort25_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 42,
+      "definition_markers_count": 42,
+      "text_markers": [
+        "[^1317]",
+        "[^1318]",
+        "[^1319]",
+        "[^1320]",
+        "[^1321]",
+        "[^1322]",
+        "[^1323]",
+        "[^1324]",
+        "[^1325]",
+        "[^1326]",
+        "[^1327]",
+        "[^1328]",
+        "[^1329]",
+        "[^1330]",
+        "[^1331]",
+        "[^1332]",
+        "[^1333]",
+        "[^1334]",
+        "[^1335]",
+        "[^1336]",
+        "[^1337]",
+        "[^1338]",
+        "[^1339]",
+        "[^1340]",
+        "[^1341]",
+        "[^1342]",
+        "[^1343]",
+        "[^1344]",
+        "[^1345]",
+        "[^1346]",
+        "[^1347]",
+        "[^1348]",
+        "[^1349]",
+        "[^1350]",
+        "[^1351]",
+        "[^1352]",
+        "[^1353]",
+        "[^1354]",
+        "[^1355]",
+        "[^1356]",
+        "[^1357]",
+        "[^1358]"
+      ],
+      "definition_markers": [
+        "[^1317]",
+        "[^1318]",
+        "[^1319]",
+        "[^1320]",
+        "[^1321]",
+        "[^1322]",
+        "[^1323]",
+        "[^1324]",
+        "[^1325]",
+        "[^1326]",
+        "[^1327]",
+        "[^1328]",
+        "[^1329]",
+        "[^1330]",
+        "[^1331]",
+        "[^1332]",
+        "[^1333]",
+        "[^1334]",
+        "[^1335]",
+        "[^1336]",
+        "[^1337]",
+        "[^1338]",
+        "[^1339]",
+        "[^1340]",
+        "[^1341]",
+        "[^1342]",
+        "[^1343]",
+        "[^1344]",
+        "[^1345]",
+        "[^1346]",
+        "[^1347]",
+        "[^1348]",
+        "[^1349]",
+        "[^1350]",
+        "[^1351]",
+        "[^1352]",
+        "[^1353]",
+        "[^1354]",
+        "[^1355]",
+        "[^1356]",
+        "[^1357]",
+        "[^1358]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1910_skaballanovich_typikon_cohort25_raw_draft.md",
+      "passed": true,
+      "paragraphs": 46,
+      "headings_count": 5,
+      "headings": [
+        {
+          "line": 18,
+          "level": 3,
+          "title": "Great and Holy Friday"
+        },
+        {
+          "line": 30,
+          "level": 3,
+          "title": "Great and Holy Saturday"
+        },
+        {
+          "line": 37,
+          "level": 3,
+          "title": "Pascha"
+        },
+        {
+          "line": 77,
+          "level": 3,
+          "title": "Bright Week (The Paschal Week)"
+        },
+        {
+          "line": 81,
+          "level": 3,
+          "title": "Thomas Sunday"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 241,
+        "max_leaf": 250
+      },
+      "anomalies": []
+    }
+  }
+}

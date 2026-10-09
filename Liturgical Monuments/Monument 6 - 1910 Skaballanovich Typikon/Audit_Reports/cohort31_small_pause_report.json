@@ -1,0 +1,134 @@
+{
+  "timestamp": "2026-10-08T20:59:03.023365+00:00",
+  "monument_id": "1910_skaballanovich_typikon",
+  "cohort": 31,
+  "target_file": "1910_skaballanovich_typikon_cohort31_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1910_skaballanovich_typikon_cohort31_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1910_skaballanovich_typikon_cohort31_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1910_skaballanovich_typikon_cohort31_raw_draft.md",
+      "footnotes_file": "1910_skaballanovich_typikon_cohort31_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 8,
+      "definition_markers_count": 8,
+      "text_markers": [
+        "[^1541]",
+        "[^1542]",
+        "[^1543]",
+        "[^1544]",
+        "[^1545]",
+        "[^1546]",
+        "[^1547]",
+        "[^1548]"
+      ],
+      "definition_markers": [
+        "[^1541]",
+        "[^1542]",
+        "[^1543]",
+        "[^1544]",
+        "[^1545]",
+        "[^1546]",
+        "[^1547]",
+        "[^1548]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1910_skaballanovich_typikon_cohort31_raw_draft.md",
+      "passed": true,
+      "paragraphs": 48,
+      "headings_count": 12,
+      "headings": [
+        {
+          "line": 4,
+          "level": 3,
+          "title": "Matins (Laudes) in Western Monasteries"
+        },
+        {
+          "line": 11,
+          "level": 3,
+          "title": "The Hours"
+        },
+        {
+          "line": 19,
+          "level": 3,
+          "title": "Vespers"
+        },
+        {
+          "line": 23,
+          "level": 3,
+          "title": "Compline"
+        },
+        {
+          "line": 30,
+          "level": 3,
+          "title": "The Roman Rite"
+        },
+        {
+          "line": 41,
+          "level": 3,
+          "title": "Other Western Liturgical Rites"
+        },
+        {
+          "line": 45,
+          "level": 3,
+          "title": "The Ambrosian Rite"
+        },
+        {
+          "line": 52,
+          "level": 3,
+          "title": "The Mozarabic Rite"
+        },
+        {
+          "line": 60,
+          "level": 3,
+          "title": "The Gallican or Lyonese Rite"
+        },
+        {
+          "line": 68,
+          "level": 3,
+          "title": "The Church Year"
+        },
+        {
+          "line": 72,
+          "level": 4,
+          "title": "Martyrologies: a) The Pseudo-Hieronymian"
+        },
+        {
+          "line": 79,
+          "level": 4,
+          "title": "b) The Lesser Roman and c) Silos Martyrologies"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 301,
+        "max_leaf": 310
+      },
+      "anomalies": []
+    }
+  }
+}

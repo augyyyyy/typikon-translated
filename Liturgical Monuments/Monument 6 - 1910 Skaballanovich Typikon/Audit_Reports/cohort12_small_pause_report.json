@@ -1,0 +1,216 @@
+{
+  "timestamp": "2026-10-08T18:31:44.747559+00:00",
+  "monument_id": "1910_skaballanovich_typikon",
+  "cohort": 12,
+  "target_file": "1910_skaballanovich_typikon_cohort12_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1910_skaballanovich_typikon_cohort12_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1910_skaballanovich_typikon_cohort12_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1910_skaballanovich_typikon_cohort12_raw_draft.md",
+      "footnotes_file": "1910_skaballanovich_typikon_cohort12_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 54,
+      "definition_markers_count": 54,
+      "text_markers": [
+        "[^504]",
+        "[^505]",
+        "[^506]",
+        "[^507]",
+        "[^508]",
+        "[^509]",
+        "[^510]",
+        "[^511]",
+        "[^512]",
+        "[^513]",
+        "[^514]",
+        "[^515]",
+        "[^516]",
+        "[^517]",
+        "[^518]",
+        "[^519]",
+        "[^520]",
+        "[^521]",
+        "[^522]",
+        "[^523]",
+        "[^524]",
+        "[^525]",
+        "[^526]",
+        "[^527]",
+        "[^528]",
+        "[^529]",
+        "[^530]",
+        "[^531]",
+        "[^532]",
+        "[^533]",
+        "[^534]",
+        "[^535]",
+        "[^536]",
+        "[^537]",
+        "[^538]",
+        "[^539]",
+        "[^540]",
+        "[^541]",
+        "[^542]",
+        "[^543]",
+        "[^544]",
+        "[^545]",
+        "[^546]",
+        "[^547]",
+        "[^548]",
+        "[^549]",
+        "[^550]",
+        "[^551]",
+        "[^552]",
+        "[^553]",
+        "[^554]",
+        "[^555]",
+        "[^556]",
+        "[^557]"
+      ],
+      "definition_markers": [
+        "[^504]",
+        "[^505]",
+        "[^506]",
+        "[^507]",
+        "[^508]",
+        "[^509]",
+        "[^510]",
+        "[^511]",
+        "[^512]",
+        "[^513]",
+        "[^514]",
+        "[^515]",
+        "[^516]",
+        "[^517]",
+        "[^518]",
+        "[^519]",
+        "[^520]",
+        "[^521]",
+        "[^522]",
+        "[^523]",
+        "[^524]",
+        "[^525]",
+        "[^526]",
+        "[^527]",
+        "[^528]",
+        "[^529]",
+        "[^530]",
+        "[^531]",
+        "[^532]",
+        "[^533]",
+        "[^534]",
+        "[^535]",
+        "[^536]",
+        "[^537]",
+        "[^538]",
+        "[^539]",
+        "[^540]",
+        "[^541]",
+        "[^542]",
+        "[^543]",
+        "[^544]",
+        "[^545]",
+        "[^546]",
+        "[^547]",
+        "[^548]",
+        "[^549]",
+        "[^550]",
+        "[^551]",
+        "[^552]",
+        "[^553]",
+        "[^554]",
+        "[^555]",
+        "[^556]",
+        "[^557]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1910_skaballanovich_typikon_cohort12_raw_draft.md",
+      "passed": true,
+      "paragraphs": 58,
+      "headings_count": 10,
+      "headings": [
+        {
+          "line": 4,
+          "level": 4,
+          "title": "Wednesday and Friday"
+        },
+        {
+          "line": 12,
+          "level": 4,
+          "title": "Fasting in General"
+        },
+        {
+          "line": 23,
+          "level": 4,
+          "title": "Prolongation of the Paschal Fast"
+        },
+        {
+          "line": 39,
+          "level": 4,
+          "title": "Pascha According to 3rd-Century Writers"
+        },
+        {
+          "line": 48,
+          "level": 4,
+          "title": "Pascha According to Canonical Monuments of the 3rd Century"
+        },
+        {
+          "line": 52,
+          "level": 5,
+          "title": "The Canons of Hippolytus"
+        },
+        {
+          "line": 61,
+          "level": 5,
+          "title": "The Egyptian Canons"
+        },
+        {
+          "line": 72,
+          "level": 4,
+          "title": "The Synoptic Comparison: Syriac Didascalia and Apostolic Constitutions"
+        },
+        {
+          "line": 74,
+          "level": 5,
+          "title": "1. The Syriac Didascalia"
+        },
+        {
+          "line": 92,
+          "level": 5,
+          "title": "2. The Apostolic Constitutions"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 111,
+        "max_leaf": 120
+      },
+      "anomalies": []
+    }
+  }
+}

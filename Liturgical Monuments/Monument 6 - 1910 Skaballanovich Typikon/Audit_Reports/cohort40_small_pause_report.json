@@ -1,0 +1,139 @@
+{
+  "timestamp": "2026-10-08T22:02:00.601696+00:00",
+  "monument_id": "1910_skaballanovich_typikon",
+  "cohort": 40,
+  "target_file": "1910_skaballanovich_typikon_cohort40_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1910_skaballanovich_typikon_cohort40_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1910_skaballanovich_typikon_cohort40_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1910_skaballanovich_typikon_cohort40_raw_draft.md",
+      "footnotes_file": "1910_skaballanovich_typikon_cohort40_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 28,
+      "definition_markers_count": 28,
+      "text_markers": [
+        "[^1778]",
+        "[^1779]",
+        "[^1780]",
+        "[^1781]",
+        "[^1782]",
+        "[^1783]",
+        "[^1784]",
+        "[^1785]",
+        "[^1786]",
+        "[^1787]",
+        "[^1788]",
+        "[^1789]",
+        "[^1790]",
+        "[^1791]",
+        "[^1792]",
+        "[^1793]",
+        "[^1794]",
+        "[^1795]",
+        "[^1796]",
+        "[^1797]",
+        "[^1798]",
+        "[^1799]",
+        "[^1800]",
+        "[^1801]",
+        "[^1802]",
+        "[^1803]",
+        "[^1804]",
+        "[^1805]"
+      ],
+      "definition_markers": [
+        "[^1778]",
+        "[^1779]",
+        "[^1780]",
+        "[^1781]",
+        "[^1782]",
+        "[^1783]",
+        "[^1784]",
+        "[^1785]",
+        "[^1786]",
+        "[^1787]",
+        "[^1788]",
+        "[^1789]",
+        "[^1790]",
+        "[^1791]",
+        "[^1792]",
+        "[^1793]",
+        "[^1794]",
+        "[^1795]",
+        "[^1796]",
+        "[^1797]",
+        "[^1798]",
+        "[^1799]",
+        "[^1800]",
+        "[^1801]",
+        "[^1802]",
+        "[^1803]",
+        "[^1804]",
+        "[^1805]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1910_skaballanovich_typikon_cohort40_raw_draft.md",
+      "passed": true,
+      "paragraphs": 37,
+      "headings_count": 5,
+      "headings": [
+        {
+          "line": 8,
+          "level": 3,
+          "title": "Byzantine Hymnographers of the Ninth to Eleventh Centuries"
+        },
+        {
+          "line": 28,
+          "level": 3,
+          "title": "Russian and Slavic Hymnographers"
+        },
+        {
+          "line": 32,
+          "level": 3,
+          "title": "Western Hymnography"
+        },
+        {
+          "line": 39,
+          "level": 3,
+          "title": "The Disciplinary Portion of the Typika"
+        },
+        {
+          "line": 43,
+          "level": 3,
+          "title": "Monastic Discipline under St. Theodore, in the Hypotyposis and Diatyposis"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 391,
+        "max_leaf": 400
+      },
+      "anomalies": []
+    }
+  }
+}

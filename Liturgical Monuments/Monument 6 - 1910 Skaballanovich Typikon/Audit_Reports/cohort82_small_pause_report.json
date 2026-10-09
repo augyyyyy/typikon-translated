@@ -1,0 +1,136 @@
+{
+  "timestamp": "2026-10-09T02:52:13.099584+00:00",
+  "monument_id": "1910_skaballanovich_typikon",
+  "cohort": 82,
+  "target_file": "1910_skaballanovich_typikon_cohort82_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1910_skaballanovich_typikon_cohort82_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1910_skaballanovich_typikon_cohort82_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1910_skaballanovich_typikon_cohort82_raw_draft.md",
+      "footnotes_file": "1910_skaballanovich_typikon_cohort82_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 19,
+      "definition_markers_count": 21,
+      "text_markers": [
+        "[^2515]",
+        "[^2516]",
+        "[^2517]",
+        "[^2518]",
+        "[^2519]",
+        "[^2520]",
+        "[^2521]",
+        "[^2522]",
+        "[^2523]",
+        "[^2524]",
+        "[^2525]",
+        "[^2526]",
+        "[^2527]",
+        "[^2528]",
+        "[^2529]",
+        "[^2530]",
+        "[^2531]",
+        "[^2532]",
+        "[^2533]"
+      ],
+      "definition_markers": [
+        "[^2515]",
+        "[^2516]",
+        "[^2517]",
+        "[^2518]",
+        "[^2519]",
+        "[^2520]",
+        "[^2521]",
+        "[^2522]",
+        "[^2523]",
+        "[^2524]",
+        "[^2525]",
+        "[^2526]",
+        "[^2527]",
+        "[^2528]",
+        "[^2529]",
+        "[^2530]",
+        "[^2531]",
+        "[^2532]",
+        "[^2533]",
+        "[^2534]",
+        "[^2535]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": [
+        "[^2534]",
+        "[^2535]"
+      ]
+    },
+    "structural_sequence": {
+      "file": "1910_skaballanovich_typikon_cohort82_raw_draft.md",
+      "passed": true,
+      "paragraphs": 95,
+      "headings_count": 7,
+      "headings": [
+        {
+          "line": 10,
+          "level": 3,
+          "title": "Manner of Execution (*Sposob ispolneniya*)"
+        },
+        {
+          "line": 32,
+          "level": 3,
+          "title": "Manner of Execution in Antiquity (*Sposob ispolneniya v drevnosti*)"
+        },
+        {
+          "line": 61,
+          "level": 3,
+          "title": "Refrains (*Pripevy*)"
+        },
+        {
+          "line": 89,
+          "level": 3,
+          "title": "Antiquity of the Practice (*Davnost' praktiki*)"
+        },
+        {
+          "line": 100,
+          "level": 1,
+          "title": "THE HEIRMOS AND TROPARIA (*Irmos i tropari*)"
+        },
+        {
+          "line": 117,
+          "level": 3,
+          "title": "History (*Istoriya*)"
+        },
+        {
+          "line": 143,
+          "level": 1,
+          "title": "THE KANON OF SUNDAY MATINS (*Kanon voskresnoy utreni*)"
+        }
+      ],
+      "numbered_items_count": 9,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 811,
+        "max_leaf": 820
+      },
+      "anomalies": []
+    }
+  }
+}

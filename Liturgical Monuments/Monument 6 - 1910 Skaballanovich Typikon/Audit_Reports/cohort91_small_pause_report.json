@@ -1,0 +1,175 @@
+{
+  "timestamp": "2026-10-09T03:44:03.211751+00:00",
+  "monument_id": "1910_skaballanovich_typikon",
+  "cohort": 91,
+  "target_file": "1910_skaballanovich_typikon_cohort91_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1910_skaballanovich_typikon_cohort91_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1910_skaballanovich_typikon_cohort91_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1910_skaballanovich_typikon_cohort91_raw_draft.md",
+      "footnotes_file": "1910_skaballanovich_typikon_cohort91_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 21,
+      "definition_markers_count": 21,
+      "text_markers": [
+        "[^2738]",
+        "[^2739]",
+        "[^2740]",
+        "[^2741]",
+        "[^2742]",
+        "[^2743]",
+        "[^2744]",
+        "[^2745]",
+        "[^2746]",
+        "[^2747]",
+        "[^2748]",
+        "[^2749]",
+        "[^2750]",
+        "[^2751]",
+        "[^2752]",
+        "[^2753]",
+        "[^2754]",
+        "[^2755]",
+        "[^2756]",
+        "[^2757]",
+        "[^2758]"
+      ],
+      "definition_markers": [
+        "[^2738]",
+        "[^2739]",
+        "[^2740]",
+        "[^2741]",
+        "[^2742]",
+        "[^2743]",
+        "[^2744]",
+        "[^2745]",
+        "[^2746]",
+        "[^2747]",
+        "[^2748]",
+        "[^2749]",
+        "[^2750]",
+        "[^2751]",
+        "[^2752]",
+        "[^2753]",
+        "[^2754]",
+        "[^2755]",
+        "[^2756]",
+        "[^2757]",
+        "[^2758]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1910_skaballanovich_typikon_cohort91_raw_draft.md",
+      "passed": true,
+      "paragraphs": 72,
+      "headings_count": 19,
+      "headings": [
+        {
+          "line": 9,
+          "level": 3,
+          "title": "History of the Hour"
+        },
+        {
+          "line": 15,
+          "level": 2,
+          "title": "THE VARIABLE PARTS OF THE DIVINE LITURGY (SUNDAY)"
+        },
+        {
+          "line": 19,
+          "level": 3,
+          "title": "The Typika (Typical Antiphons)"
+        },
+        {
+          "line": 22,
+          "level": 3,
+          "title": "Content of the Typical Psalms"
+        },
+        {
+          "line": 29,
+          "level": 3,
+          "title": "History"
+        },
+        {
+          "line": 42,
+          "level": 3,
+          "title": "The Order of Chanting the Typical Psalms"
+        },
+        {
+          "line": 51,
+          "level": 3,
+          "title": "Historical References"
+        },
+        {
+          "line": 58,
+          "level": 3,
+          "title": "The Beatitudes: Content"
+        },
+        {
+          "line": 61,
+          "level": 3,
+          "title": "Melody"
+        },
+        {
+          "line": 64,
+          "level": 3,
+          "title": "Order of Chanting"
+        },
+        {
+          "line": 71,
+          "level": 3,
+          "title": "\"O Come, Let Us Worship\""
+        },
+        {
+          "line": 74,
+          "level": 3,
+          "title": "Significance of the Beatitudes"
+        },
+        {
+          "line": 80,
+          "level": 3,
+          "title": "History of Usage"
+        },
+        {
+          "line": 85,
+          "level": 3,
+          "title": "Troparia and Kontakia"
+        },
+        {
+          "line": 98,
+          "level": 3,
+          "title": "History of Usage"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 901,
+        "max_leaf": 910
+      },
+      "anomalies": []
+    }
+  }
+}

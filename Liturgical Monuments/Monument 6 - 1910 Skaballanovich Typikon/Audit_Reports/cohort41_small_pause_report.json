@@ -1,0 +1,122 @@
+{
+  "timestamp": "2026-10-08T22:08:09.623464+00:00",
+  "monument_id": "1910_skaballanovich_typikon",
+  "cohort": 41,
+  "target_file": "1910_skaballanovich_typikon_cohort41_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1910_skaballanovich_typikon_cohort41_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1910_skaballanovich_typikon_cohort41_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1910_skaballanovich_typikon_cohort41_raw_draft.md",
+      "footnotes_file": "1910_skaballanovich_typikon_cohort41_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 17,
+      "definition_markers_count": 17,
+      "text_markers": [
+        "[^1806]",
+        "[^1807]",
+        "[^1808]",
+        "[^1809]",
+        "[^1810]",
+        "[^1811]",
+        "[^1812]",
+        "[^1813]",
+        "[^1814]",
+        "[^1815]",
+        "[^1816]",
+        "[^1817]",
+        "[^1818]",
+        "[^1819]",
+        "[^1820]",
+        "[^1821]",
+        "[^1822]"
+      ],
+      "definition_markers": [
+        "[^1806]",
+        "[^1807]",
+        "[^1808]",
+        "[^1809]",
+        "[^1810]",
+        "[^1811]",
+        "[^1812]",
+        "[^1813]",
+        "[^1814]",
+        "[^1815]",
+        "[^1816]",
+        "[^1817]",
+        "[^1818]",
+        "[^1819]",
+        "[^1820]",
+        "[^1821]",
+        "[^1822]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1910_skaballanovich_typikon_cohort41_raw_draft.md",
+      "passed": true,
+      "paragraphs": 34,
+      "headings_count": 6,
+      "headings": [
+        {
+          "line": 4,
+          "level": 3,
+          "title": "The Disciplinary Portion of the Holy Mountain Typikon"
+        },
+        {
+          "line": 12,
+          "level": 3,
+          "title": "The Disciplinary Portion of the Studite-Alexis Typikon"
+        },
+        {
+          "line": 31,
+          "level": 3,
+          "title": "The Disciplinary Portion of Ancient Founder Typika"
+        },
+        {
+          "line": 38,
+          "level": 3,
+          "title": "The Typikon of Empress Irene in Disciplinary Regard"
+        },
+        {
+          "line": 43,
+          "level": 3,
+          "title": "The Disciplinary Portion in the Jerusalem Typikon According to Georgian and Ancient Greek Manuscripts"
+        },
+        {
+          "line": 53,
+          "level": 3,
+          "title": "The Disciplinary Portion According to Late Greek and Slavic Jerusalem Typika"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 401,
+        "max_leaf": 410
+      },
+      "anomalies": []
+    }
+  }
+}

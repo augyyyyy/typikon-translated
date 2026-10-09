@@ -108,7 +108,7 @@ def run_gate_1c_chromatic(cohort_dir: Path, leaves: List[int]) -> bool:
         print("  PASSED (Bypassed: no matching leaf scan files in scan directory)")
     return True
 
-def run_gate(monument_id: str, cohort_num: int) -> int:
+def run_gate(monument_id: str, cohort_num: int, custom_draft: Optional[Path] = None, custom_footnotes: Optional[Path] = None) -> int:
     with open(REGISTRY_FILE, "r", encoding="utf-8") as f:
         registry = json.load(f)
     mon_info = registry.get("monuments", {}).get(monument_id)
@@ -120,14 +120,14 @@ def run_gate(monument_id: str, cohort_num: int) -> int:
     audit_reports_dir.mkdir(parents=True, exist_ok=True)
     report_file = audit_reports_dir / f"cohort{cohort_num}_small_pause_report.json"
 
-    # Identify target files (Final MD preferred, Draft fallback)
-    target_text = (
+    # Identify target files (Explicit flags, Final MD preferred, Draft fallback)
+    target_text = custom_draft or (
         find_target_file(ws / "Final MD", f"*cohort{cohort_num}*.md", cohort_num=cohort_num) or
         find_target_file(ws / "Final", f"*cohort{cohort_num}*.txt", cohort_num=cohort_num) or
         find_target_file(ws / "Draft", f"*cohort{cohort_num}*.md", cohort_num=cohort_num)
     )
 
-    footnotes_file = (
+    footnotes_file = custom_footnotes or (
         find_target_file(ws / "Draft", f"*cohort{cohort_num}*footnote*.txt", cohort_num=cohort_num) or
         find_target_file(ws / "Final", "*footnote*.txt")
     )
@@ -140,8 +140,8 @@ def run_gate(monument_id: str, cohort_num: int) -> int:
     print("=" * 65)
     print(f"  SMALL PAUSE GATEKEEPER SUITE — COHORT #{cohort_num}")
     print(f"  Monument: {mon_info.get('title')}")
-    print(f"  Audited File: {target_text.relative_to(PROJECT_ROOT)}")
-    print(f"  Footnotes File: {footnotes_file.relative_to(PROJECT_ROOT) if footnotes_file.exists() else 'N/A'}")
+    print(f"  Audited File: {target_text.relative_to(PROJECT_ROOT) if target_text.is_relative_to(PROJECT_ROOT) else target_text}")
+    print(f"  Footnotes File: {footnotes_file.relative_to(PROJECT_ROOT) if footnotes_file.exists() and footnotes_file.is_relative_to(PROJECT_ROOT) else footnotes_file}")
     print("=" * 65)
 
     master_report = {
@@ -358,12 +358,31 @@ def run_gate(monument_id: str, cohort_num: int) -> int:
 
 def main():
     parser = argparse.ArgumentParser(description="Universal Small Pause Gatekeeper Suite")
-    parser.add_argument("--monument", default="1891_lviv_synod", help="Monument ID")
+    parser.add_argument("--monument", default=None, help="Monument ID")
     parser.add_argument("--cohort", type=int, default=1, help="Cohort number")
+    parser.add_argument("--draft", default=None, help="Path to draft markdown file")
+    parser.add_argument("--footnotes", default=None, help="Path to footnotes txt file")
 
     args = parser.parse_args()
+
+    draft_path = Path(args.draft) if args.draft else None
+    footnotes_path = Path(args.footnotes) if args.footnotes else None
+
+    monument_id = args.monument
+    if not monument_id:
+        if draft_path:
+            norm_str = str(draft_path).lower()
+            if "1910" in norm_str or "skaballanovich" in norm_str:
+                monument_id = "1910_skaballanovich_typikon"
+            elif "1899" in norm_str or "dolnytsky" in norm_str:
+                monument_id = "1899_dolnytsky_typikon"
+            elif "1891" in norm_str or "lviv" in norm_str:
+                monument_id = "1891_lviv_synod"
+        if not monument_id:
+            monument_id = "1891_lviv_synod"
+
     try:
-        sys.exit(run_gate(args.monument, args.cohort))
+        sys.exit(run_gate(monument_id, args.cohort, custom_draft=draft_path, custom_footnotes=footnotes_path))
     except Exception as e:
         print(f"ERROR: {e}", file=sys.stderr)
         sys.exit(1)

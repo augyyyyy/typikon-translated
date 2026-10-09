@@ -1,0 +1,192 @@
+{
+  "timestamp": "2026-10-09T03:08:07.799055+00:00",
+  "monument_id": "1910_skaballanovich_typikon",
+  "cohort": 84,
+  "target_file": "1910_skaballanovich_typikon_cohort84_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1910_skaballanovich_typikon_cohort84_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1910_skaballanovich_typikon_cohort84_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1910_skaballanovich_typikon_cohort84_raw_draft.md",
+      "footnotes_file": "1910_skaballanovich_typikon_cohort84_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 26,
+      "definition_markers_count": 29,
+      "text_markers": [
+        "[^2562]",
+        "[^2563]",
+        "[^2564]",
+        "[^2565]",
+        "[^2566]",
+        "[^2567]",
+        "[^2568]",
+        "[^2569]",
+        "[^2570]",
+        "[^2571]",
+        "[^2572]",
+        "[^2573]",
+        "[^2574]",
+        "[^2575]",
+        "[^2576]",
+        "[^2577]",
+        "[^2578]",
+        "[^2579]",
+        "[^2580]",
+        "[^2581]",
+        "[^2582]",
+        "[^2583]",
+        "[^2584]",
+        "[^2585]",
+        "[^2586]",
+        "[^2587]"
+      ],
+      "definition_markers": [
+        "[^2562]",
+        "[^2563]",
+        "[^2564]",
+        "[^2565]",
+        "[^2566]",
+        "[^2567]",
+        "[^2568]",
+        "[^2569]",
+        "[^2570]",
+        "[^2571]",
+        "[^2572]",
+        "[^2573]",
+        "[^2574]",
+        "[^2575]",
+        "[^2576]",
+        "[^2577]",
+        "[^2578]",
+        "[^2579]",
+        "[^2580]",
+        "[^2581]",
+        "[^2582]",
+        "[^2583]",
+        "[^2584]",
+        "[^2585]",
+        "[^2586]",
+        "[^2587]",
+        "[^2588]",
+        "[^2589]",
+        "[^2590]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": [
+        "[^2588]",
+        "[^2589]",
+        "[^2590]"
+      ]
+    },
+    "structural_sequence": {
+      "file": "1910_skaballanovich_typikon_cohort84_raw_draft.md",
+      "passed": true,
+      "paragraphs": 73,
+      "headings_count": 18,
+      "headings": [
+        {
+          "line": 10,
+          "level": 3,
+          "title": "Inter-Ode Breaks [Mesodia]"
+        },
+        {
+          "line": 17,
+          "level": 3,
+          "title": "Antiquity of the Mesodion"
+        },
+        {
+          "line": 21,
+          "level": 3,
+          "title": "Litanies after Ode 3 and Ode 6"
+        },
+        {
+          "line": 30,
+          "level": 3,
+          "title": "Variants of the Exclamations and Ancient Typika concerning the Litanies"
+        },
+        {
+          "line": 34,
+          "level": 3,
+          "title": "Sessional Hymn and Reading after Ode 3"
+        },
+        {
+          "line": 41,
+          "level": 3,
+          "title": "According unto Ancient and Other Typika"
+        },
+        {
+          "line": 45,
+          "level": 3,
+          "title": "Kontakion and Ikos after Ode 6"
+        },
+        {
+          "line": 50,
+          "level": 3,
+          "title": "History"
+        },
+        {
+          "line": 54,
+          "level": 3,
+          "title": "Sunday Kontakia and Ikoi"
+        },
+        {
+          "line": 60,
+          "level": 3,
+          "title": "History"
+        },
+        {
+          "line": 71,
+          "level": 3,
+          "title": "The Prolog"
+        },
+        {
+          "line": 75,
+          "level": 3,
+          "title": "History"
+        },
+        {
+          "line": 89,
+          "level": 3,
+          "title": "The Eighth Ode"
+        },
+        {
+          "line": 93,
+          "level": 3,
+          "title": "According unto Ancient Typika"
+        },
+        {
+          "line": 107,
+          "level": 3,
+          "title": "The Ninth Ode. Vesting for It"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 831,
+        "max_leaf": 840
+      },
+      "anomalies": []
+    }
+  }
+}

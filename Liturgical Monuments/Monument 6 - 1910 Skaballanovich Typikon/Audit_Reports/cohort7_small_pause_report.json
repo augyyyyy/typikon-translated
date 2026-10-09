@@ -1,0 +1,187 @@
+{
+  "timestamp": "2026-10-08T17:34:58.406557+00:00",
+  "monument_id": "1910_skaballanovich_typikon",
+  "cohort": 7,
+  "target_file": "1910_skaballanovich_typikon_cohort7_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1910_skaballanovich_typikon_cohort7_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1910_skaballanovich_typikon_cohort7_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1910_skaballanovich_typikon_cohort7_raw_draft.md",
+      "footnotes_file": "1910_skaballanovich_typikon_cohort7_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 37,
+      "definition_markers_count": 37,
+      "text_markers": [
+        "[^324]",
+        "[^325]",
+        "[^326]",
+        "[^327]",
+        "[^328]",
+        "[^329]",
+        "[^330]",
+        "[^331]",
+        "[^332]",
+        "[^333]",
+        "[^334]",
+        "[^335]",
+        "[^336]",
+        "[^337]",
+        "[^338]",
+        "[^339]",
+        "[^340]",
+        "[^341]",
+        "[^342]",
+        "[^343]",
+        "[^344]",
+        "[^345]",
+        "[^346]",
+        "[^347]",
+        "[^348]",
+        "[^349]",
+        "[^350]",
+        "[^351]",
+        "[^352]",
+        "[^353]",
+        "[^354]",
+        "[^355]",
+        "[^356]",
+        "[^357]",
+        "[^358]",
+        "[^359]",
+        "[^360]"
+      ],
+      "definition_markers": [
+        "[^324]",
+        "[^325]",
+        "[^326]",
+        "[^327]",
+        "[^328]",
+        "[^329]",
+        "[^330]",
+        "[^331]",
+        "[^332]",
+        "[^333]",
+        "[^334]",
+        "[^335]",
+        "[^336]",
+        "[^337]",
+        "[^338]",
+        "[^339]",
+        "[^340]",
+        "[^341]",
+        "[^342]",
+        "[^343]",
+        "[^344]",
+        "[^345]",
+        "[^346]",
+        "[^347]",
+        "[^348]",
+        "[^349]",
+        "[^350]",
+        "[^351]",
+        "[^352]",
+        "[^353]",
+        "[^354]",
+        "[^355]",
+        "[^356]",
+        "[^357]",
+        "[^358]",
+        "[^359]",
+        "[^360]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1910_skaballanovich_typikon_cohort7_raw_draft.md",
+      "passed": true,
+      "paragraphs": 66,
+      "headings_count": 11,
+      "headings": [
+        {
+          "line": 8,
+          "level": 3,
+          "title": "The Paschal Fast"
+        },
+        {
+          "line": 30,
+          "level": 3,
+          "title": "Disputes concerning the Time of Pascha"
+        },
+        {
+          "line": 39,
+          "level": 3,
+          "title": "Wednesday and Friday"
+        },
+        {
+          "line": 45,
+          "level": 3,
+          "title": "Pentecost"
+        },
+        {
+          "line": 49,
+          "level": 3,
+          "title": "Commemorations of Martyrs"
+        },
+        {
+          "line": 64,
+          "level": 2,
+          "title": "III Century"
+        },
+        {
+          "line": 66,
+          "level": 3,
+          "title": "Sources"
+        },
+        {
+          "line": 72,
+          "level": 3,
+          "title": "The Apostolic Constitutions as a Redaction of III-Century Canonical Monuments"
+        },
+        {
+          "line": 92,
+          "level": 3,
+          "title": "The Testament (Testamentum) of Our Lord Jesus Christ"
+        },
+        {
+          "line": 116,
+          "level": 3,
+          "title": "The Agape in the III Century"
+        },
+        {
+          "line": 120,
+          "level": 3,
+          "title": "The Agape according to Clement of Alexandria"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 61,
+        "max_leaf": 70
+      },
+      "anomalies": []
+    }
+  }
+}

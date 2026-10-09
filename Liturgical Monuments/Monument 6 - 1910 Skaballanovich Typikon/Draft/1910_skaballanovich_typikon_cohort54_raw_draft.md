@@ -1,0 +1,344 @@
+=== LEAF p531 ===
+      - Censing at **"Lord, I have cried"**
+      - The Number of Stichera
+      - The Composition of the Stichera on Sunday
+      - The Dogmatics
+      - The Distribution of the Stichera between the Choirs
+    - The Entrance
+      - Its Meaning
+      - The Order of the Entrance
+      - The History of the Entrance
+      - Distinction of the Vesperal Entrance from the Liturgical Entrances
+      - Peculiarities of the Vesperal Entrance in Historical Development
+    - **"Gladsome Light"**
+      - The Content of the Hymn
+      - The Origin of the Hymn
+      - The Manner of Performance
+      - Ancient Typika on **"Gladsome Light"**
+    - The Vesperal Prokimenon
+      - The Concept of the Prokimenon
+      - The History of the Prokimenon
+      - The Exclamations before the Prokimenon
+      - Their History
+      - The Performance of the Prokimenon
+      - According to Ancient Typika
+      - The Prokimenon of Sunday Vespers
+    - Part 2 of Vespers
+    - The Augmented Litany
+      - Its Content
+      - The History of the Augmented Litany
+      - The Triple **"Lord, have mercy"**
+      - The Augmented Litany at Vespers
+      - Who Pronounces the Augmented Litany at Vespers?
+    - **"Vouchsafe, O Lord"**
+      - The History of the Prayer
+      - The Manner of Performance
+    - The Litany of Supplication
+      - Its History
+      - The Bowing of Heads
+    - The Litiya
+      - Its General History
+
+=== LEAF p532 ===
+      - The Procession to the Litiya
+      - The Procession according to Ancient Typika
+      - The Litiya Stichera
+      - The Litiya Stichera according to Ancient Typika
+      - The Litiya Prayers
+      - The History of the Litiya Prayers
+      - The Return from the Litiya
+      - According to Ancient Typika
+    - The Aposticha
+      - Their History
+      - Sunday Aposticha
+      - Their History
+      - Omission and Abbreviation
+    - **"Now lettest Thou Thy servant depart"**
+      - The History of Its Usage
+      - The Trisagion
+      - The Trisagion at Ancient Vespers
+      - The Dismissal Troparion of Vespers
+      - History
+    - **"O Theotokos Virgin, rejoice"**
+      - History
+      - The Manner of Performance
+      - According to Ancient Typika
+      - Abbreviation and Omission
+    - The Blessing of Loaves
+      - The History of the Rite
+    - **"Blessed be the name of the Lord"**
+      - History
+      - The Manner of Performance
+      - According to Ancient Typika
+    - The Great Reading
+      - Its Origin
+      - The Order of the Great Reading
+      - Ancient Typika on the Great Reading
+    - The Breaking of Bread and Partaking of Wine
+      - Ancient Typika on the Blessing of Loaves
+      - The Historical Basis of the Evening
+
+=== LEAF p533 ===
+        Blessing of Loaves and Wine
+    - Non-Orthodox Vespers
+    - The Beginning of Matins
+      - The Bell-Peal for Matins
+      - According to Ancient Typika
+      - The Initial Verses of Matins
+      - Their History
+      - The Plan of Matins
+      - Part 1 of Matins
+    - The Six Psalms (*Hexapsalmos*)
+      - Its Origin
+      - The Manner of Performance
+      - Performance in Antiquity
+    - The Morning Prayers
+      - Their History
+      - Their Reading
+      - Ancient Typika on the Morning Prayers
+      - The Great Litany at Matins
+      - According to Old Typika
+    - **"God is the Lord"**
+      - Ancient Usage of Psalm 117 [LXX] and **"God is the Lord"**
+      - The Manner of Performance
+      - **"God is the Lord"** according to Ancient Typika
+      - Troparia at **"God is the Lord"**
+      - According to Ancient Typika
+      - Sunday Troparia
+      - Their History
+    - The Kathismata of Matins
+      - Sitting during the Kathismata
+      - The Order of a Kathisma
+      - Little Litanies at the Kathismata
+      - According to Ancient Typika
+      - Sessional Hymns
+      - Sunday Sessional Hymns according to Ancient Typika
+      - Readings after the Kathismata
+      - Their History
+    - The Amomos or Polyeleos
+      - The Amomos
+      - The Manner of Performance
+
+=== LEAF p534 ===
+      - The History of the Amomos
+      - The Polyeleos
+      - Its History
+      - Censing at the Amomos and Polyeleos
+      - **"The assembly of the angels"**
+      - History of the Troparia **"The assembly of the angels"**
+      - The Little Litany at the Polyeleos
+      - The Exclamation of the Polyeleos Litany in Antiquity
+      - The Hypakoe
+      - Its History
+      - Sunday Hypakoai
+      - According to Ancient Typika
+      - The Polyeleos Reading
+    - The Gradual Antiphons (*Stepenny*)
+      - History of the Gradual Antiphons
+      - The Bell-Peal for the Gospel
+      - According to Old Typika
+    - The Matins Prokimenon
+      - According to Ancient Typika
+      - Sunday Matins Prokimena
+      - Their History
+    - The Gospel
+      - **"For holy art Thou"**
+      - Origin
+      - **"Let every breath"**
+      - History
+      - **"And that we may be accounted worthy"**
+      - Origin
+      - The Preparatory Exclamations before the Gospel
+      - Their History
+      - The Typikon for Reading the Matins Gospel
+      - Historical Note
+      - Sunday Matins Gospels
+      - History
+    - From the Gospel to the Kanon
+      - **"Having beheld the Resurrection of Christ"**
+      - Ancient Usage
+      - Psalm 50 [LXX]
+      - The Manner of Performance
+      - Its Constant Usage at Matins
+      - Refrains to Psalm 50
+      - Their History
+
+=== LEAF p535 ===
+      - The Veneration of the Gospel
+      - Origin of the Custom
+      - The Order of Veneration
+      - Development of the Order
+      - **"Save, O God, Thy people"**
+      - According to Old Typika
+    - The Kanon
+      - The Word "Kanon" and Its Present Application
+      - The Biblical Odes of the Kanon
+      - History of Usage
+      - The Manner of Performance
+      - The Manner of Performance in Antiquity
+      - Refrains
+      - Antiquity of the Practice
+      - The Heirmos and Troparia
+      - History
+      - The Kanon of Sunday Matins
+      - Time of Origin
+      - To How Many Troparia Each Kanon?
+      - According to Old Typika
+      - The Katavasia
+      - History
+      - The Katavasia **"I shall open my mouth"**
+      - Time of Introduction
+      - The Order of Singing and the Melody of the Kanon
+      - When and Why Did They Cease Singing the Troparia of the Kanon?
+      - Melody of the Kanons at Sunday Matins
+      - Historical Note
+      - Censing at the Beginning of the Kanon according to Old Typika
+      - Inter-Ode Canticles
+      - Antiquity of the Inter-Ode Canticles
+      - Litanies after Odes 3 and 6
+      - Variants of Exclamations and Old Typika on the Litanies
+      - The Sessional Hymn and Reading after Ode 3
+      - According to Old and Other Typika
+      - The Kontakion and Oikos after Ode 6
+      - History
+      - Sunday Kontakia and Oikoi
+      - History
+
+=== LEAF p536 ===
+      - The Synaxarion Reading (*Prologue*)
+      - History
+      - Ode 8
+      - According to Ancient Typika
+      - Ode 9: Vesting for It
+      - According to Old Typika
+      - **"More honorable than the Cherubim"**
+      - History
+      - Melody
+      - According to Old Typika
+      - Before the Magnificat
+      - According to Old Typika
+      - Prostrations at **"More honorable"**
+      - According to Old Typika
+      - Censing at **"More honorable"**
+      - According to Old and Other Typika
+      - The Litany after Ode 9
+      - The Primordial Origin of Its Exclamation
+      - **"Holy is the Lord our God"**
+      - History
+      - Hymn of Light
+      - History
+      - Sunday Exapostilaria
+      - History
+    - The Praises (*Ainoi*)
+      - History of Usage
+      - The Order of Singing the Psalms of Praises
+      - History of Usage
+      - The Stichera of the Praises
+      - History
+      - Sunday Stichera of the Praises
+      - History
+    - The Great Doxology
+      - **"Glory to Thee, Who hast shown us the light"**
+      - According to Old Typika
+      - Content of the Great Doxology
+      - History
+      - The Trisagion (Great)
+      - History
+      - The Singing of the Great Doxology
+      - According to Old Typika
+    - The Sunday Troparion
+
+=== LEAF p537 ===
+      - Their History
+    - The Concluding Litanies of Matins
+      - The Augmented Litany at Matins
+      - Its History
+      - Its Pronunciation
+      - According to Old Typika
+      - The Litany of Supplication at Matins
+      - Historical Note
+    - The Dismissal
+      - The Order of the Dismissal
+      - Preliminary Exclamations and Prayers
+      - The Dismissal in the Strict Sense
+      - History of the Dismissal
+      - The Polychronion (*Many Years*)
+      - History
+    - The Morning Litiya
+      - History
+    - The Studite Catechesis
+      - Bibliography
+      - The Order of the Catechesis
+      - History
+    - Non-Orthodox Matins
+    - Practical Feasibility of the Entire Typikon of the All-Night Vigil
+    - The First Hour
+      - Its Relationship to the Vigil
+      - Its Relationship to Matins
+      - Composition and Content of the First Hour
+      - History of the Hour
+      - The First Hour on Sunday
+      - According to Old Typika
+    - The Third Hour
+      - Content of the Hour
+      - History of the Hour
+    - The Sixth Hour
+      - Content of the Hour
+      - History of the Hour
+    - The Variable Parts of the Liturgy (Sunday)
+      - The Typika (*Izobrazitel'nye*)
+
+=== LEAF p538 ===
+        - Content of the Typika Psalms
+        - History
+        - Historical Notes
+        - The Beatitudes: Content
+        - Melody
+        - Order of Singing
+        - **"Come, let us worship"**
+        - Significance of the Beatitudes
+        - History of Usage
+        - Troparia and Kontakia
+        - History of Usage
+        - The Prokimenon and Alleluiarion
+          - The Prokimenon
+            - In the Western Church
+            - Sunday Prokimena
+            - History
+          - The Alleluiarion
+            - The Order of Singing the Alleluia
+            - History of the Gospel Alleluia and Alleluiarion
+            - Sunday Alleluiaria
+            - Their History
+          - Prokimena and Alleluiaria for Two Commemorations
+        - The Epistle and Gospel
+          - History
+          - Exclamations before the Gospel
+          - Sunday Liturgical Readings
+          - The Liturgical Shift (*Otstupka*)
+          - History of the Sunday Pericopes
+          - Roman Catholic and Protestant Sunday Liturgical Readings
+          - The Armenian System of Readings
+        - **"It is truly meet"** (*Axion Estin*)
+          - History
+        - The Communion Verse
+          - History
+    - The Order of the Panagia
+      - Meaning and Content of the Order
+      - History of the Order of the Panagia
+  - **Chapter 3 of the Typikon**
+    - On the Saint Having a Vigil on Sunday
+      - Content of the Chapter
+
+=== LEAF p539 ===
+      - History of the Chapter
+    - The Order of the Blessing of Kolyvo
+      - History of the Rite
+  - **Endnotes**
+  - **Explanatory Typikon: Explanatory Exposition of the Typikon, Part 2**
+
+=== LEAF p540 ===
+*(Title Page of Volume II)*
+
+# Mikhail Skaballanovich
+## Explanatory Typikon

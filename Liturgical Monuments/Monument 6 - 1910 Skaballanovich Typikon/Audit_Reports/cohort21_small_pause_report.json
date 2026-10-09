@@ -1,0 +1,167 @@
+{
+  "timestamp": "2026-10-08T19:46:55.470253+00:00",
+  "monument_id": "1910_skaballanovich_typikon",
+  "cohort": 21,
+  "target_file": "1910_skaballanovich_typikon_cohort21_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1910_skaballanovich_typikon_cohort21_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1910_skaballanovich_typikon_cohort21_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1910_skaballanovich_typikon_cohort21_raw_draft.md",
+      "footnotes_file": "1910_skaballanovich_typikon_cohort21_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 37,
+      "definition_markers_count": 37,
+      "text_markers": [
+        "[^1079]",
+        "[^1080]",
+        "[^1081]",
+        "[^1082]",
+        "[^1083]",
+        "[^1084]",
+        "[^1085]",
+        "[^1086]",
+        "[^1087]",
+        "[^1088]",
+        "[^1089]",
+        "[^1090]",
+        "[^1091]",
+        "[^1092]",
+        "[^1093]",
+        "[^1094]",
+        "[^1095]",
+        "[^1096]",
+        "[^1097]",
+        "[^1098]",
+        "[^1099]",
+        "[^1100]",
+        "[^1101]",
+        "[^1102]",
+        "[^1103]",
+        "[^1104]",
+        "[^1105]",
+        "[^1106]",
+        "[^1107]",
+        "[^1108]",
+        "[^1109]",
+        "[^1110]",
+        "[^1111]",
+        "[^1112]",
+        "[^1113]",
+        "[^1114]",
+        "[^1115]"
+      ],
+      "definition_markers": [
+        "[^1079]",
+        "[^1080]",
+        "[^1081]",
+        "[^1082]",
+        "[^1083]",
+        "[^1084]",
+        "[^1085]",
+        "[^1086]",
+        "[^1087]",
+        "[^1088]",
+        "[^1089]",
+        "[^1090]",
+        "[^1091]",
+        "[^1092]",
+        "[^1093]",
+        "[^1094]",
+        "[^1095]",
+        "[^1096]",
+        "[^1097]",
+        "[^1098]",
+        "[^1099]",
+        "[^1100]",
+        "[^1101]",
+        "[^1102]",
+        "[^1103]",
+        "[^1104]",
+        "[^1105]",
+        "[^1106]",
+        "[^1107]",
+        "[^1108]",
+        "[^1109]",
+        "[^1110]",
+        "[^1111]",
+        "[^1112]",
+        "[^1113]",
+        "[^1114]",
+        "[^1115]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1910_skaballanovich_typikon_cohort21_raw_draft.md",
+      "passed": true,
+      "paragraphs": 41,
+      "headings_count": 7,
+      "headings": [
+        {
+          "line": 5,
+          "level": 3,
+          "title": "Egyptian Cenobia According unto Blessed Jerome"
+        },
+        {
+          "line": 15,
+          "level": 3,
+          "title": "Egyptian Cenobia According unto St. John Cassian"
+        },
+        {
+          "line": 21,
+          "level": 3,
+          "title": "Divine Worship in Egyptian Cenobia According unto Cassian"
+        },
+        {
+          "line": 44,
+          "level": 3,
+          "title": "The Attitude of Egyptian Monasticism toward Church Hymnody"
+        },
+        {
+          "line": 57,
+          "level": 3,
+          "title": "Palestinian Monasteries. St. Hilarion"
+        },
+        {
+          "line": 61,
+          "level": 3,
+          "title": "The Lavras of St. Chariton"
+        },
+        {
+          "line": 66,
+          "level": 3,
+          "title": "The Lavra of St. Euthymius and the Coenobium of St. Theoctistus"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 201,
+        "max_leaf": 210
+      },
+      "anomalies": []
+    }
+  }
+}

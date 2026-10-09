@@ -1,0 +1,84 @@
+{
+  "timestamp": "2026-10-08T22:26:15.374665+00:00",
+  "monument_id": "1910_skaballanovich_typikon",
+  "cohort": 43,
+  "target_file": "1910_skaballanovich_typikon_cohort43_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1910_skaballanovich_typikon_cohort43_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1910_skaballanovich_typikon_cohort43_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1910_skaballanovich_typikon_cohort43_raw_draft.md",
+      "footnotes_file": "1910_skaballanovich_typikon_cohort43_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 3,
+      "definition_markers_count": 3,
+      "text_markers": [
+        "[^1832]",
+        "[^1833]",
+        "[^1834]"
+      ],
+      "definition_markers": [
+        "[^1832]",
+        "[^1833]",
+        "[^1834]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1910_skaballanovich_typikon_cohort43_raw_draft.md",
+      "passed": true,
+      "paragraphs": 153,
+      "headings_count": 4,
+      "headings": [
+        {
+          "line": 4,
+          "level": 3,
+          "title": "The Present-Day Greek Typikon"
+        },
+        {
+          "line": 13,
+          "level": 2,
+          "title": "Notes to Volume I: The Historical Investigation of the Typikon"
+        },
+        {
+          "line": 15,
+          "level": 3,
+          "title": "Notes to the Chapter: Old Testament Jewish Worship"
+        },
+        {
+          "line": 113,
+          "level": 3,
+          "title": "Notes to the Chapter: Worship in the Apostolic Age"
+        }
+      ],
+      "numbered_items_count": 130,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 421,
+        "max_leaf": 430
+      },
+      "anomalies": []
+    }
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "timestamp": "2026-10-09T01:36:31.473325+00:00",
+  "monument_id": "1910_skaballanovich_typikon",
+  "cohort": 72,
+  "target_file": "1910_skaballanovich_typikon_cohort72_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1910_skaballanovich_typikon_cohort72_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1910_skaballanovich_typikon_cohort72_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1910_skaballanovich_typikon_cohort72_raw_draft.md",
+      "footnotes_file": "1910_skaballanovich_typikon_cohort72_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 19,
+      "definition_markers_count": 19,
+      "text_markers": [
+        "[^2337]",
+        "[^2338]",
+        "[^2339]",
+        "[^2340]",
+        "[^2341]",
+        "[^2342]",
+        "[^2343]",
+        "[^2344]",
+        "[^2345]",
+        "[^2346]",
+        "[^2347]",
+        "[^2348]",
+        "[^2349]",
+        "[^2350]",
+        "[^2351]",
+        "[^2352]",
+        "[^2353]",
+        "[^2354]",
+        "[^2355]"
+      ],
+      "definition_markers": [
+        "[^2337]",
+        "[^2338]",
+        "[^2339]",
+        "[^2340]",
+        "[^2341]",
+        "[^2342]",
+        "[^2343]",
+        "[^2344]",
+        "[^2345]",
+        "[^2346]",
+        "[^2347]",
+        "[^2348]",
+        "[^2349]",
+        "[^2350]",
+        "[^2351]",
+        "[^2352]",
+        "[^2353]",
+        "[^2354]",
+        "[^2355]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1910_skaballanovich_typikon_cohort72_raw_draft.md",
+      "passed": true,
+      "paragraphs": 83,
+      "headings_count": 18,
+      "headings": [
+        {
+          "line": 8,
+          "level": 2,
+          "title": "Number of \"Lord, have mercy\" at the Litiya Petitions"
+        },
+        {
+          "line": 26,
+          "level": 2,
+          "title": "Bodily Posture during the Final Prayer (\"O Master Great in Mercy\")"
+        },
+        {
+          "line": 42,
+          "level": 2,
+          "title": "The Litiya according to the Present Typikon of the Great Church"
+        },
+        {
+          "line": 51,
+          "level": 2,
+          "title": "The Return from the Litiya"
+        },
+        {
+          "line": 55,
+          "level": 3,
+          "title": "According unto Ancient Typika"
+        },
+        {
+          "line": 60,
+          "level": 1,
+          "title": "The Aposticha (*Stikhovny* — *Eis ton stichon*)"
+        },
+        {
+          "line": 64,
+          "level": 2,
+          "title": "History of the Aposticha"
+        },
+        {
+          "line": 68,
+          "level": 2,
+          "title": "Sunday Aposticha"
+        },
+        {
+          "line": 75,
+          "level": 3,
+          "title": "History of Sunday Aposticha"
+        },
+        {
+          "line": 79,
+          "level": 2,
+          "title": "Cancellation and Abbreviation"
+        },
+        {
+          "line": 87,
+          "level": 1,
+          "title": "\"Now lettest Thou Thy servant depart\" (*Nunc Dimittis* — *Nyně otpushchayeshi*)"
+        },
+        {
+          "line": 95,
+          "level": 2,
+          "title": "History of Its Usage"
+        },
+        {
+          "line": 102,
+          "level": 2,
+          "title": "The Trisagion"
+        },
+        {
+          "line": 106,
+          "level": 3,
+          "title": "The Trisagion at Ancient Vespers"
+        },
+        {
+          "line": 110,
+          "level": 2,
+          "title": "The Dismissal Troparion of Vespers"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 711,
+        "max_leaf": 720
+      },
+      "anomalies": []
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "timestamp": "2026-10-08T22:52:58.602359+00:00",
+  "monument_id": "1910_skaballanovich_typikon",
+  "cohort": 46,
+  "target_file": "1910_skaballanovich_typikon_cohort46_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1910_skaballanovich_typikon_cohort46_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1910_skaballanovich_typikon_cohort46_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1910_skaballanovich_typikon_cohort46_raw_draft.md",
+      "footnotes_file": "1910_skaballanovich_typikon_cohort46_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 0,
+      "definition_markers_count": 0,
+      "text_markers": [],
+      "definition_markers": [],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1910_skaballanovich_typikon_cohort46_raw_draft.md",
+      "passed": true,
+      "paragraphs": 239,
+      "headings_count": 1,
+      "headings": [
+        {
+          "line": 35,
+          "level": 3,
+          "title": "Notes to the Chapter: Divine Worship in the IV–V Centuries"
+        }
+      ],
+      "numbered_items_count": 224,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 451,
+        "max_leaf": 460
+      },
+      "anomalies": []
+    }
+  }
+}

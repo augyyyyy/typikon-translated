@@ -1,0 +1,164 @@
+{
+  "timestamp": "2026-10-08T21:37:33.850351+00:00",
+  "monument_id": "1910_skaballanovich_typikon",
+  "cohort": 36,
+  "target_file": "1910_skaballanovich_typikon_cohort36_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1910_skaballanovich_typikon_cohort36_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1910_skaballanovich_typikon_cohort36_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1910_skaballanovich_typikon_cohort36_raw_draft.md",
+      "footnotes_file": "1910_skaballanovich_typikon_cohort36_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 38,
+      "definition_markers_count": 38,
+      "text_markers": [
+        "[^1662]",
+        "[^1663]",
+        "[^1664]",
+        "[^1665]",
+        "[^1666]",
+        "[^1667]",
+        "[^1668]",
+        "[^1669]",
+        "[^1670]",
+        "[^1671]",
+        "[^1672]",
+        "[^1673]",
+        "[^1674]",
+        "[^1675]",
+        "[^1676]",
+        "[^1677]",
+        "[^1678]",
+        "[^1679]",
+        "[^1680]",
+        "[^1681]",
+        "[^1682]",
+        "[^1683]",
+        "[^1684]",
+        "[^1685]",
+        "[^1686]",
+        "[^1687]",
+        "[^1688]",
+        "[^1689]",
+        "[^1690]",
+        "[^1691]",
+        "[^1692]",
+        "[^1693]",
+        "[^1694]",
+        "[^1695]",
+        "[^1696]",
+        "[^1697]",
+        "[^1698]",
+        "[^1699]"
+      ],
+      "definition_markers": [
+        "[^1662]",
+        "[^1663]",
+        "[^1664]",
+        "[^1665]",
+        "[^1666]",
+        "[^1667]",
+        "[^1668]",
+        "[^1669]",
+        "[^1670]",
+        "[^1671]",
+        "[^1672]",
+        "[^1673]",
+        "[^1674]",
+        "[^1675]",
+        "[^1676]",
+        "[^1677]",
+        "[^1678]",
+        "[^1679]",
+        "[^1680]",
+        "[^1681]",
+        "[^1682]",
+        "[^1683]",
+        "[^1684]",
+        "[^1685]",
+        "[^1686]",
+        "[^1687]",
+        "[^1688]",
+        "[^1689]",
+        "[^1690]",
+        "[^1691]",
+        "[^1692]",
+        "[^1693]",
+        "[^1694]",
+        "[^1695]",
+        "[^1696]",
+        "[^1697]",
+        "[^1698]",
+        "[^1699]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1910_skaballanovich_typikon_cohort36_raw_draft.md",
+      "passed": true,
+      "paragraphs": 33,
+      "headings_count": 6,
+      "headings": [
+        {
+          "line": 4,
+          "level": 3,
+          "title": "The Jerusalem Typikon According unto Nikon of the Black Mountain"
+        },
+        {
+          "line": 13,
+          "level": 3,
+          "title": "The Domain and Recensions of the Jerusalem Typikon"
+        },
+        {
+          "line": 24,
+          "level": 3,
+          "title": "The Character of the Daily Office According unto the Jerusalem Typikon"
+        },
+        {
+          "line": 32,
+          "level": 3,
+          "title": "Vespers and Matins of Mixed Type"
+        },
+        {
+          "line": 44,
+          "level": 3,
+          "title": "The Hours"
+        },
+        {
+          "line": 53,
+          "level": 3,
+          "title": "The Inter-Hours (Mesoria)"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 351,
+        "max_leaf": 360
+      },
+      "anomalies": []
+    }
+  }
+}
