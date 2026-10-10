@@ -1,5 +1,7 @@
 # PART I: GENERAL ORDO & DIVINE SERVICES (Principles of Worship and Sacerdotal Rubrics)
 
+## On the Church Rule in General
+
 The Church Rule (*Пра́вило церко́вное*), or Divine Worship (*Богослуже́нїе*), arranged by the holy Fathers and chanted in church or read in private by persons of the spiritual rank[^5], consists of:
 * Vespers (*Вече́рня*)
 * Compline (*Павече́рїе*)

@@ -29,6 +29,7 @@
   * [OF ECCLESIASTICAL CHANTING](#of-ecclesiastical-chanting)
   * [The Gospel Pillars[^2]](#the-gospel-pillars)
 * **[PART I: GENERAL ORDO & DIVINE SERVICES (Principles of Worship and Sacerdotal Rubrics)](1852_doskovsky_part1_general_services.md#part-i-general-ordo-divine-services-principles-of-worship-and-sacerdotal-rubrics)**
+  * [On the Church Rule in General](1852_doskovsky_part1_general_services.md#on-the-church-rule-in-general)
   * [On Vespers[^8]](#on-vespers)
   * [On Compline](1852_doskovsky_part1_general_services.md#on-compline)
   * [On the Midnight Office](1852_doskovsky_part1_general_services.md#on-the-midnight-office)
@@ -53,8 +54,11 @@
   * [The Month of February](1852_doskovsky_part3_menaion.md#the-month-of-february)
   * [The Month of March](1852_doskovsky_part3_menaion.md#the-month-of-march)
 * **[PART IV: TYPIKA OF THE TRIODION AND HOLY WEEK](1852_doskovsky_part4_triodion.md#part-iv-typika-of-the-triodion-and-holy-week)**
+  * [Sunday of the Publican and Pharisee,](1852_doskovsky_part4_triodion.md#sunday-of-the-publican-and-pharisee)
 * **[PART V: PENTECOSTARION CYCLE AND GENERAL LITURGICAL APPENDICES](1852_doskovsky_part5_pentecostarion.md#part-v-pentecostarion-cycle-and-general-liturgical-appendices)**
+  * [The Beginning of the Pentecostarion,](1852_doskovsky_part5_pentecostarion.md#the-beginning-of-the-pentecostarion)
 * **[PART VI: PASCHAL TABLES, GOSPEL PILLARS, TYPOGRAPHICAL ERRATA, AND SLAVONIC INDEX](1852_doskovsky_part6_tables_and_colophon.md#part-vi-paschal-tables-gospel-pillars-typographical-errata-and-slavonic-index)**
+  * [THE SIX PILLARS](1852_doskovsky_part6_tables_and_colophon.md#the-six-pillars)
 
 ---
 

@@ -1,5 +1,7 @@
 # PART VI: PASCHAL TABLES, GOSPEL PILLARS, TYPOGRAPHICAL ERRATA, AND SLAVONIC INDEX
 
+## THE SIX PILLARS
+
 ### Wherein the Eight Tones of the Octoechos Are Joined to the Eleven Resurrectional Morning Gospels
 
 #### Pillar 1: Begins on the First Sunday of the Apostles' Fast
@@ -160,7 +162,7 @@
 | **1869** | **Ы** | **1888** | **Т** | **1907** | **Х** |
 | **1870** | **Г** | **1889** | **И** | **1908** | **М** |
 
-### PASCHAL KEY LETTERS (Continued)
+### PASCHAL KEY LETTERS
 ### Indicating the Boundary Keys for the Years of the Lord 1909 to 1940
 
 | Year of the Lord | Boundary Key | Year of the Lord | Boundary Key | Year of the Lord | Boundary Key |
@@ -197,7 +199,7 @@
 - Order of the Little Hours . . . p. 77  
 - Order of the Divine Liturgy . . . p. 83[^300]
 
-### TABLE OF CONTENTS (Continued)
+### TABLE OF CONTENTS
 ### Part 2: Typikon of Feasts and Saints on Sundays
 
 - Concerning a saint having a vigil on Sunday . . . p. 86  
@@ -214,7 +216,7 @@
 - Concerning a Sunday with a Polyeleos saint . . . p. 122  
 - Concerning the Sunday of the Forefathers and the Sunday of the Ancestors . . . p. 126
 
-### TABLE OF CONTENTS (Continued)
+### TABLE OF CONTENTS
 ### Part 3: Weekday Feasts, Fixed Calendar, and the Triodion
 
 - If there be an Afterfeast on a weekday with a single minor saint . . . p. 126  
@@ -229,8 +231,7 @@
 - Meatfare Sunday . . . p. 193  
 - Cheesefare Week and Sunday . . . p. 196[^301]
 
-### TABLE OF CONTENTS (Conclusion)
-### Part 4: Holy Great Lent, Holy Week, the Pentecostarion, and General Rubrics
+### TABLE OF CONTENTS (### Part 4: Holy Great Lent, Holy Week, the Pentecostarion, and General Rubrics
 
 - Typikon for Cheesefare Sunday . . . p. 198  
 - Typikon for Monday of the First Week of Holy Lent . . . p. 202  

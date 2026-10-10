@@ -8,7 +8,7 @@ from the First Sunday after All Saints, that is, the 2nd Sunday after the Descen
 
 ### Brief Instruction: How to Chant for Minor or Feasted Saints on Sunday and Weekdays
 
-### 1. Directory for Sundays: On a Non-Feasted (Minor) Saint Occurring on a Sunday[^88]  
+### 1. Directory for Sundays: On a Non-Feasted (Minor) Saint Occurring on a Sunday[^88]
 
 On Saturday at Great Vespers: **"Blessed is the man..."** (*Блаже́нъ мꙋ́жъ*), the entire Kathisma.  
 At **"Lord, I have cried"** (*Го́споди воззва́хъ*), we set 10 verses, and we chant 6 stichera of the Octoechos and 3 of the Saint; **"Glory to the Father, and to the Son, and to the Holy Spirit,"** of the Saint, if there is one; **"Now and forever, and unto the ages of ages. Amen:"** the Dogmatikon (the 1st Theotokion) of the current Tone. If there is no sticheron appointed for the Saint at **"Glory"**, then: **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the Dogmatikon.  

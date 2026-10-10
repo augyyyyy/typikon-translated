@@ -1,5 +1,7 @@
 # PART IV: TYPIKA OF THE TRIODION AND HOLY WEEK
 
+## Sunday of the Publican and Pharisee,
+
 #### That is to say the Third before Lent
 *On Saturday evening, at Great Vespers: at* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *Sunday Resurrection stichera 3, Anatolian 4, and of the Triodion 3, repeating the first, or adding the Litiya sticheron. Glory, of the Triodion; now and ever, the Dogmatikon of the current Tone. At the Aposticha of the Octoechos; Glory, of the Triodion; now and ever, Theotokion in the same place in the Triodion. After* **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): *Sunday Resurrection troparion; Glory, now and ever, its Theotokion. At Compline after "It is truly right" and after the Trisagion, the kontakion of the Triodion alone.*  
 ☞ *Be it known: That the office of the Saint who coincides on this Sunday, and on the Sunday of the Prodigal Son, on Meatfare and Cheesefare Sundays, we sing on Friday at Compline, or whenever the superior of the church decides, provided only that the memory of some great Saint does not occur. Then thou hast the directive in the Triodion.*[^213]  

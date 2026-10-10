@@ -1,5 +1,7 @@
 # PART V: PENTECOSTARION CYCLE AND GENERAL LITURGICAL APPENDICES
 
+## The Beginning of the Pentecostarion,
+
 *Beginning from the Holy and Great Sunday of Pascha in the morning, and concluding even unto the Sunday of All Saints.*
 
 ### On the Holy and Great Sunday of Pascha

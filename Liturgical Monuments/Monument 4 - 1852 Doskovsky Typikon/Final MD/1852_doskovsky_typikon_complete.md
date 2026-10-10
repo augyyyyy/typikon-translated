@@ -29,6 +29,7 @@
   * [OF ECCLESIASTICAL CHANTING](#of-ecclesiastical-chanting)
   * [The Gospel Pillars[^2]](#the-gospel-pillars)
 * **[PART I: GENERAL ORDO & DIVINE SERVICES (Principles of Worship and Sacerdotal Rubrics)](#part-i-general-ordo-divine-services-principles-of-worship-and-sacerdotal-rubrics)**
+  * [On the Church Rule in General](#on-the-church-rule-in-general)
   * [On Vespers[^8]](#on-vespers)
   * [On Compline](#on-compline)
   * [On the Midnight Office](#on-the-midnight-office)
@@ -53,12 +54,17 @@
   * [The Month of February](#the-month-of-february)
   * [The Month of March](#the-month-of-march)
 * **[PART IV: TYPIKA OF THE TRIODION AND HOLY WEEK](#part-iv-typika-of-the-triodion-and-holy-week)**
+  * [Sunday of the Publican and Pharisee,](#sunday-of-the-publican-and-pharisee)
 * **[PART V: PENTECOSTARION CYCLE AND GENERAL LITURGICAL APPENDICES](#part-v-pentecostarion-cycle-and-general-liturgical-appendices)**
+  * [The Beginning of the Pentecostarion,](#the-beginning-of-the-pentecostarion)
 * **[PART VI: PASCHAL TABLES, GOSPEL PILLARS, TYPOGRAPHICAL ERRATA, AND SLAVONIC INDEX](#part-vi-paschal-tables-gospel-pillars-typographical-errata-and-slavonic-index)**
+  * [THE SIX PILLARS](#the-six-pillars)
 
 ---
 
 # PART I: GENERAL ORDO & DIVINE SERVICES (Principles of Worship and Sacerdotal Rubrics)
+
+## On the Church Rule in General
 
 The Church Rule (*Пра́вило церко́вное*), or Divine Worship (*Богослуже́нїе*), arranged by the holy Fathers and chanted in church or read in private by persons of the spiritual rank[^5], consists of:
 * Vespers (*Вече́рня*)
@@ -1367,7 +1373,7 @@ from the First Sunday after All Saints, that is, the 2nd Sunday after the Descen
 
 ### Brief Instruction: How to Chant for Minor or Feasted Saints on Sunday and Weekdays
 
-### 1. Directory for Sundays: On a Non-Feasted (Minor) Saint Occurring on a Sunday[^88]  
+### 1. Directory for Sundays: On a Non-Feasted (Minor) Saint Occurring on a Sunday[^88]
 
 On Saturday at Great Vespers: **"Blessed is the man..."** (*Блаже́нъ мꙋ́жъ*), the entire Kathisma.  
 At **"Lord, I have cried"** (*Го́споди воззва́хъ*), we set 10 verses, and we chant 6 stichera of the Octoechos and 3 of the Saint; **"Glory to the Father, and to the Son, and to the Holy Spirit,"** of the Saint, if there is one; **"Now and forever, and unto the ages of ages. Amen:"** the Dogmatikon (the 1st Theotokion) of the current Tone. If there is no sticheron appointed for the Saint at **"Glory"**, then: **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the Dogmatikon.  
@@ -2277,6 +2283,8 @@ FROM THE SUNDAY OF THE PUBLICAN AND PHARISEE EVEN UNTO THE 2ND SUNDAY AFTER THE 
 
 # PART IV: TYPIKA OF THE TRIODION AND HOLY WEEK
 
+## Sunday of the Publican and Pharisee,
+
 #### That is to say the Third before Lent
 *On Saturday evening, at Great Vespers: at* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *Sunday Resurrection stichera 3, Anatolian 4, and of the Triodion 3, repeating the first, or adding the Litiya sticheron. Glory, of the Triodion; now and ever, the Dogmatikon of the current Tone. At the Aposticha of the Octoechos; Glory, of the Triodion; now and ever, Theotokion in the same place in the Triodion. After* **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): *Sunday Resurrection troparion; Glory, now and ever, its Theotokion. At Compline after "It is truly right" and after the Trisagion, the kontakion of the Triodion alone.*  
 ☞ *Be it known: That the office of the Saint who coincides on this Sunday, and on the Sunday of the Prodigal Son, on Meatfare and Cheesefare Sundays, we sing on Friday at Compline, or whenever the superior of the church decides, provided only that the memory of some great Saint does not occur. Then thou hast the directive in the Triodion.*[^213]  
@@ -2569,6 +2577,8 @@ In which we sing the Supplicatory Office of the Akathist.
 
 # PART V: PENTECOSTARION CYCLE AND GENERAL LITURGICAL APPENDICES
 
+## The Beginning of the Pentecostarion,
+
 *Beginning from the Holy and Great Sunday of Pascha in the morning, and concluding even unto the Sunday of All Saints.*
 
 ### On the Holy and Great Sunday of Pascha
@@ -2803,6 +2813,8 @@ In which we sing the Supplicatory Office of the Akathist.
 
 # PART VI: PASCHAL TABLES, GOSPEL PILLARS, TYPOGRAPHICAL ERRATA, AND SLAVONIC INDEX
 
+## THE SIX PILLARS
+
 ### Wherein the Eight Tones of the Octoechos Are Joined to the Eleven Resurrectional Morning Gospels
 
 #### Pillar 1: Begins on the First Sunday of the Apostles' Fast
@@ -2963,7 +2975,7 @@ In which we sing the Supplicatory Office of the Akathist.
 | **1869** | **Ы** | **1888** | **Т** | **1907** | **Х** |
 | **1870** | **Г** | **1889** | **И** | **1908** | **М** |
 
-### PASCHAL KEY LETTERS (Continued)
+### PASCHAL KEY LETTERS
 ### Indicating the Boundary Keys for the Years of the Lord 1909 to 1940
 
 | Year of the Lord | Boundary Key | Year of the Lord | Boundary Key | Year of the Lord | Boundary Key |
@@ -3000,7 +3012,7 @@ In which we sing the Supplicatory Office of the Akathist.
 - Order of the Little Hours . . . p. 77  
 - Order of the Divine Liturgy . . . p. 83[^300]
 
-### TABLE OF CONTENTS (Continued)
+### TABLE OF CONTENTS
 ### Part 2: Typikon of Feasts and Saints on Sundays
 
 - Concerning a saint having a vigil on Sunday . . . p. 86  
@@ -3017,7 +3029,7 @@ In which we sing the Supplicatory Office of the Akathist.
 - Concerning a Sunday with a Polyeleos saint . . . p. 122  
 - Concerning the Sunday of the Forefathers and the Sunday of the Ancestors . . . p. 126
 
-### TABLE OF CONTENTS (Continued)
+### TABLE OF CONTENTS
 ### Part 3: Weekday Feasts, Fixed Calendar, and the Triodion
 
 - If there be an Afterfeast on a weekday with a single minor saint . . . p. 126  
@@ -3032,8 +3044,7 @@ In which we sing the Supplicatory Office of the Akathist.
 - Meatfare Sunday . . . p. 193  
 - Cheesefare Week and Sunday . . . p. 196[^301]
 
-### TABLE OF CONTENTS (Conclusion)
-### Part 4: Holy Great Lent, Holy Week, the Pentecostarion, and General Rubrics
+### TABLE OF CONTENTS (### Part 4: Holy Great Lent, Holy Week, the Pentecostarion, and General Rubrics
 
 - Typikon for Cheesefare Sunday . . . p. 198  
 - Typikon for Monday of the First Week of Holy Lent . . . p. 202  
