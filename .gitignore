@@ -37,6 +37,7 @@ desktop.ini
 **/scratch/*.jpg
 **/scratch/*.jpeg
 **/scratch/*.pdf
+**/scratch/*.txt
 
 # Python Virtual Environments
 .venv/

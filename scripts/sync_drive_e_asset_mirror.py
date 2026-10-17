@@ -45,9 +45,9 @@ PROJECT_ROOT = SCRIPT_DIR.parent
 REGISTRY_FILE = PROJECT_ROOT / "Liturgical Monuments" / "codex_registry.json"
 
 DEFAULT_VAULT_ROOTS = [
-    Path("E:/") / "Google Drive" / "Liturgical Library" / "3. Modern Service Books and Typikons" / "Typikon",
-    Path("D:/") / "Google Drive" / "Liturgical Library" / "3. Modern Service Books and Typikons" / "Typikon",
-    Path("C:/") / "Google Drive" / "Liturgical Library" / "3. Modern Service Books and Typikons" / "Typikon",
+    Path("E:/") / "Google Drive" / "Liturgical Library",
+    Path("D:/") / "Google Drive" / "Liturgical Library",
+    Path("C:/") / "Google Drive" / "Liturgical Library",
 ]
 
 def resolve_vault_root() -> Path:
@@ -66,13 +66,22 @@ def resolve_source_pdf(relative_pdf_path: str, vault_root: Path) -> Optional[Pat
     cand1 = vault_root / relative_pdf_path
     if cand1.exists():
         return cand1
-    cand2 = vault_root / "Historical Typikons" / Path(relative_pdf_path).name
+    cand2 = vault_root / "2. Historical Liturgical Texts" / "Typikons_and_Ordines" / Path(relative_pdf_path).name
     if cand2.exists():
         return cand2
     cand3 = PROJECT_ROOT / relative_pdf_path
     if cand3.exists():
         return cand3
     return None
+
+def resolve_mirror_dirs(vault_root: Path, rel_mirror: str) -> Tuple[Path, Path]:
+    base = vault_root / rel_mirror
+    if base.name.upper() == "JPGS":
+        return base.parent, base
+    if base.parent.name.upper() == "JPGS" or (base.exists() and any(base.glob("Page_*.jpg"))):
+        mon_dir = base.parent.parent if base.parent.name.upper() == "JPGS" else base
+        return mon_dir, base
+    return base, base / "JPGs"
 
 def is_junction(path: Path) -> bool:
     try:
@@ -82,6 +91,14 @@ def is_junction(path: Path) -> bool:
             return os.path.isjunction(path)
         return path.exists() and (os.lstat(path).st_file_attributes & 0x400 != 0)
     except (OSError, AttributeError):
+        return False
+
+def is_valid_junction_to(local_path: Path, target_dir: Path) -> bool:
+    if not is_junction(local_path) or not local_path.exists():
+        return False
+    try:
+        return local_path.resolve() == target_dir.resolve()
+    except OSError:
         return False
 
 def write_monument_manifest(
@@ -124,8 +141,7 @@ def sync_monument_mirror(
     if not rel_mirror:
         raise ValueError(f"Monument '{monument_id}' lacks 'canonical_mirror_dir' in registry.")
 
-    vault_mon_dir = vault_root / rel_mirror
-    vault_jpg_dir = vault_mon_dir / "JPGs"
+    vault_mon_dir, vault_jpg_dir = resolve_mirror_dirs(vault_root, rel_mirror)
     total_pages = mon_info.get("total_physical_pages", 0)
 
     workspace_dir = PROJECT_ROOT / mon_info.get("workspace_dir", f"Liturgical Monuments/{monument_id}")
@@ -150,14 +166,8 @@ def sync_monument_mirror(
 
     vault_jpg_dir.mkdir(parents=True, exist_ok=True)
 
-    # Check source PDF
     pdf_path = resolve_source_pdf(mon_info.get("relative_pdf_path", ""), vault_root)
     doc = None
-    if pdf_path and fitz:
-        try:
-            doc = fitz.open(str(pdf_path))
-        except Exception as e:
-            print(f"  [Warning] Could not open PDF {pdf_path}: {e}", file=sys.stderr)
 
     synced_count = 0
     converted_count = 0
@@ -172,11 +182,16 @@ def sync_monument_mirror(
         if target_canon.exists() and target_canon.stat().st_size > 1000:
             synced_count += 1
         else:
-            # Need to create target_canon. Try local PNG first
-            local_png = local_img_dir / f"p{p}.png"
-            local_jpg = local_img_dir / f"p{p}.jpg"
+            if doc is None and pdf_path and fitz:
+                try:
+                    doc = fitz.open(str(pdf_path))
+                except Exception as e:
+                    print(f"  [Warning] Could not open PDF {pdf_path}: {e}", file=sys.stderr)
 
-            if local_png.exists() and local_png.stat().st_size > 1000:
+            local_png = local_img_dir / f"p{p}.png" if local_img_dir.exists() else None
+            local_jpg = local_img_dir / f"p{p}.jpg" if local_img_dir.exists() else None
+
+            if local_png and local_png.exists() and local_png.stat().st_size > 1000:
                 if Image:
                     with Image.open(local_png) as img:
                         img.convert("RGB").save(str(target_canon), format="JPEG", quality=92, optimize=True)
@@ -190,7 +205,7 @@ def sync_monument_mirror(
                     synced_count += 1
                 else:
                     raise RuntimeError(f"Cannot convert {local_png} (Pillow missing and PDF unavailable)")
-            elif local_jpg.exists() and local_jpg.stat().st_size > 1000:
+            elif local_jpg and local_jpg.exists() and local_jpg.stat().st_size > 1000:
                 shutil.copy2(local_jpg, target_canon)
                 converted_count += 1
                 synced_count += 1
@@ -228,23 +243,33 @@ def sync_monument_mirror(
         print(f"  Manifest generated: {manifest_file.name}")
         print(f"  Vault count: {actual_count}/{total_pages} leaves verified ({total_bytes / (1024*1024):.2f} MB)")
 
-    # Junction Creation
+    # Junction Creation / Repair
     junction_status = "NOT_REQUESTED"
     if create_junction:
-        if is_junction(local_img_dir):
+        if is_valid_junction_to(local_img_dir, vault_jpg_dir):
             if verbose:
-                print(f"  [JUNCTION] {local_img_dir} is already an active NTFS junction.")
+                print(f"  [JUNCTION] {local_img_dir} is already a valid NTFS junction -> {vault_jpg_dir}")
             junction_status = "ALREADY_JUNCTION"
         else:
             backup_dir = local_img_dir.parent / "images_legacy_backup"
-            if local_img_dir.exists():
-                if backup_dir.exists():
-                    shutil.rmtree(backup_dir, ignore_errors=True)
-                local_img_dir.rename(backup_dir)
+            if is_junction(local_img_dir):
+                subprocess.run(["cmd.exe", "/c", "rmdir", str(local_img_dir)], capture_output=True, text=True, check=True)
                 if verbose:
-                    print(f"  [BACKUP] Renamed existing C: images -> {backup_dir.name}")
+                    print(f"  [REPAIR] Removed stale NTFS junction at {local_img_dir.name}")
+            elif local_img_dir.exists():
+                if is_junction(backup_dir):
+                    subprocess.run(["cmd.exe", "/c", "rmdir", str(backup_dir)], capture_output=True, text=True)
+                elif backup_dir.exists():
+                    subprocess.run(["cmd.exe", "/c", "rmdir", "/s", "/q", str(backup_dir)], capture_output=True, text=True)
+                if not backup_dir.exists():
+                    local_img_dir.rename(backup_dir)
+                    if verbose:
+                        print(f"  [BACKUP] Renamed existing C: images -> {backup_dir.name}")
+                else:
+                    subprocess.run(["cmd.exe", "/c", "rmdir", "/s", "/q", str(local_img_dir)], capture_output=True, text=True)
 
-            cmd = ["cmd.exe", "/c", "mklink", "/J", str(local_img_dir.resolve()), str(vault_jpg_dir.resolve())]
+            local_img_dir.parent.mkdir(parents=True, exist_ok=True)
+            cmd = ["cmd.exe", "/c", "mklink", "/J", str(local_img_dir), str(vault_jpg_dir.resolve())]
             res = subprocess.run(cmd, capture_output=True, text=True, check=True)
             if verbose:
                 print(f"  [JUNCTION] Created NTFS Junction: {local_img_dir.name} -> {vault_jpg_dir}")
@@ -260,7 +285,7 @@ def sync_monument_mirror(
             # Cleanup backup if requested
             if cleanup_backup and backup_dir.exists():
                 backup_size = sum(f.stat().st_size for f in backup_dir.glob("*") if f.is_file())
-                shutil.rmtree(backup_dir, ignore_errors=True)
+                subprocess.run(["cmd.exe", "/c", "rmdir", "/s", "/q", str(backup_dir)], capture_output=True, text=True)
                 if verbose:
                     print(f"  [RECLAIMED] Removed legacy backup directory, freeing {backup_size / (1024*1024):.2f} MB on Drive C:!")
                 junction_status = "CREATED_AND_CLEANED"
@@ -286,12 +311,17 @@ def verify_all_mirrors(registry: Dict[str, Any], vault_root: Path) -> int:
         if not rel_mirror:
             continue
         expected = mon_info.get("total_physical_pages", 0)
-        jpg_dir = vault_root / rel_mirror / "JPGs"
+        _, jpg_dir = resolve_mirror_dirs(vault_root, rel_mirror)
 
         workspace_dir = PROJECT_ROOT / mon_info.get("workspace_dir", f"Liturgical Monuments/{mon_id}")
         local_img_dir = workspace_dir / "Source Text" / "images"
+        status = mon_info.get("status", "ready")
 
         if not jpg_dir.exists():
+            pdf_cand = resolve_source_pdf(mon_info.get("relative_pdf_path", ""), vault_root)
+            if status == "queued" and pdf_cand and pdf_cand.exists():
+                print(f"  [~] {mon_id:<28} : QUEUED (Master PDF verified on Drive E:, {expected} pp.)")
+                continue
             print(f"  [-] {mon_id:<28} : MISSING from Drive E: ({rel_mirror})")
             all_ok = False
             continue
@@ -300,10 +330,24 @@ def verify_all_mirrors(registry: Dict[str, Any], vault_root: Path) -> int:
         actual_count = len(actual_files)
         total_mb = sum(f.stat().st_size for f in actual_files) / (1024 * 1024)
 
-        junc_flag = "JUNCTION_OK" if is_junction(local_img_dir) else "LOCAL_DIR"
+        if is_valid_junction_to(local_img_dir, jpg_dir):
+            junc_flag = "JUNCTION_OK"
+        elif is_junction(local_img_dir):
+            junc_flag = "BROKEN_JUNCTION"
+        elif local_img_dir.exists():
+            junc_flag = "LOCAL_DIR"
+        else:
+            junc_flag = "NO_LOCAL_DIR"
 
         if actual_count == expected:
             print(f"  [+] {mon_id:<28} : 100% OK ({actual_count}/{expected} leaves, {total_mb:.1f} MB) [{junc_flag}]")
+        elif status == "queued":
+            pdf_cand = resolve_source_pdf(mon_info.get("relative_pdf_path", ""), vault_root)
+            if pdf_cand and pdf_cand.exists():
+                print(f"  [~] {mon_id:<28} : QUEUED (Master PDF verified on Drive E:, {expected} pp.)")
+            else:
+                print(f"  [!] {mon_id:<28} : PARTIAL ({actual_count}/{expected} leaves, {total_mb:.1f} MB) [{junc_flag}]")
+                all_ok = False
         else:
             print(f"  [!] {mon_id:<28} : PARTIAL ({actual_count}/{expected} leaves, {total_mb:.1f} MB) [{junc_flag}]")
             all_ok = False
@@ -314,7 +358,7 @@ def verify_all_mirrors(registry: Dict[str, Any], vault_root: Path) -> int:
 def main():
     parser = argparse.ArgumentParser(description="Canonical Drive E: Master Asset Vault & Storage Tiering Synchronizer")
     parser.add_argument("--monument", help="Specific monument ID to synchronize")
-    parser.add_argument("--all", action="store_true", help="Synchronize all completed monuments (excludes Monument 5)")
+    parser.add_argument("--all", action="store_true", help="Synchronize all active and completed monuments")
     parser.add_argument("--dry-run", action="store_true", help="Preview synchronization without file I/O")
     parser.add_argument("--create-junction", action="store_true", help="Replace local C: images with NTFS Directory Junction")
     parser.add_argument("--cleanup-backup", action="store_true", help="Delete legacy backup on C: once junction verified")
@@ -345,12 +389,10 @@ def main():
             sys.exit(1)
         target_monuments.append(args.monument)
     elif args.all:
-        # Include completed monuments; explicitly quarantine active Monument 5
         for m_id, m_info in registry["monuments"].items():
-            if m_id == "1888_violakis_typikon":
-                print(f"[QUARANTINE] Skipping active {m_id} while concurrent chat session executes.")
-                continue
-            if m_info.get("status") == "completed" or (PROJECT_ROOT / m_info.get("workspace_dir", "") / "Source Text" / "images").exists():
+            w_dir = PROJECT_ROOT / m_info.get("workspace_dir", "")
+            img_dir = w_dir / "Source Text" / "images"
+            if m_info.get("status") in ("completed", "ready") or img_dir.exists() or is_junction(img_dir):
                 target_monuments.append(m_id)
 
     if not target_monuments:

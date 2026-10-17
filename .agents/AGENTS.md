@@ -4,7 +4,7 @@
 This workspace inherits and enforces all compliance protocols, API configurations, and general code safety standards defined in the parent root:
 * [GLOBAL_SYSTEM_RULES.md](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/GLOBAL_SYSTEM_RULES.md)
 
-You must strictly comply with the Honesty Protocol, the Evidence Gate, Banned Phrases, UTF-8 Enforcement, Dynamic Path Resolution, and DeepSeek V4 API Orchestration rules defined therein.
+You must strictly comply with the Honesty Protocol, the Evidence Gate, Banned Phrases, UTF-8 Enforcement, Dynamic Path Resolution, and the Native Gemini Vision Mandate (Zero Third-Party APIs) defined therein.
 
 ---
 
@@ -17,14 +17,12 @@ The status output must be compared with the last known "golden" baseline. If the
 
 ---
 
-## The 12 Master Rules & Codified Anti-Patterns
+## The Master Rules & Codified Anti-Patterns
 
-### 1. Unified DeepSeek V4 Pro API Standard
-* The Translation spoke operates exclusively using the DeepSeek API.
-* Always resolve keys via `get_deepseek_key()` to support local, workspace, and global `.env` files.
-* For reasoning-intensive text audits, always use `deepseek-v4-pro` and ensure that thinking mode is correctly configured:
-  * For direct HTTP POST requests, pass `"thinking": {"type": "enabled"}` at the root level of the payload.
-  * For OpenAI SDK client requests, pass `extra_body={"thinking": {"type": "enabled"}}`.
+### 1. Native Gemini Vision Mandate & Prohibition of Third-Party APIs
+* The Translation spoke operates exclusively using **Native Gemini Vision** (`view_file` on 300 DPI leaf images) and context-sequestered Antigravity subagents (`invoke_subagent`).
+* All third-party LLM/Vision APIs (including DeepSeek, OpenAI, Anthropic, and external OCR endpoints) are permanently prohibited across all active pipelines.
+* Legacy scripts referencing third-party APIs must remain isolated in `scripts/archived_pipelines/` and must never be invoked during production runs.
 
 ### 2. Logical & Semantic Chunking Engine
 * Naive character-based chunking splits paragraphs arbitrarily and breaks semantic context, causing false positives and alignment mismatches.
@@ -75,13 +73,13 @@ Do not invent logs, confirmation messages, or file states. Every statement about
 ### 12. Pre-Flight Checklist (Before ANY Modification)
 Before editing or running any scripts/files, you MUST:
 1. Verify you have read `.agents/AGENTS.md`.
-2. Inspect the file map and understand the target directory (`Final/` for deliverables, `scratch/` for utilities).
-3. Confirm the DeepSeek API configuration standard is applied to the script.
+2. Inspect the file map and understand the target directory (`Final/` and `Final MD/` for deliverables, `scratch/` for utilities).
+3. Confirm that no third-party API calls are introduced and all paths use `pathlib.Path` relative to project root or canonical environment variables.
 
 ### 13. Post-Flight Checklist & Handoff (After ANY Modification)
 After modifying files or completing audits:
 1. Run `git diff --stat` to verify changes.
-2. Run a dry run of the verifiers if they were modified to ensure API connection and key resolution functions.
+2. Run a dry run or test suite (`py -m pytest tests/ -v`) of any modified verifiers or linters.
 3. Update the global notice board at `GLOBAL_ECOSYSTEM_STATE.md` if shipping a new translation segment.
 4. Copy finalized deliverables to the Hub's inbox: `C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Inbox\`.
 5. Write a `handoff_note.md` in the Inbox detailing what was translated and any terminology considerations.
@@ -185,7 +183,7 @@ When a major developmental breakthrough occurs (e.g., new OCR/vision models, glo
 
 ### 20. Canonical Drive E: Master Asset Vault & Storage Tiering Mandate
 * **External Single Source of Truth**:
-  * `E:\Google Drive\Liturgical Library\3. Modern Service Books and Typikons\Typikon\Historical Typikons\<Stem>\JPGs\` is the immutable canonical master vault for all 300 DPI high-resolution page rasters across all monuments.
+  * `E:\Google Drive\Liturgical Library\` (specifically `E:\Google Drive\Liturgical Library\2. Historical Liturgical Texts\Typikons_and_Ordines\<Stem>\JPGs\` for historical Typika and the corresponding `<canonical_mirror_dir>\JPGs\` defined in `Liturgical Monuments/codex_registry.json`) is the immutable canonical master vault for all 300 DPI high-resolution page rasters across all monuments.
   * Image format is strictly standardized to **300 DPI JPEG (Quality 92)** with 4-digit zero-padded indexing (`Page_0001.jpg`), matching the Chant Indexer spoke specification.
 * **Prohibition of Local Raster Bloat on Drive C:**:
   * Multi-gigabyte image sets must **never** reside natively on Drive C:, as OneDrive synchronization congests cloud bandwidth and consumes local SSD capacity.

@@ -458,8 +458,8 @@ def apply_global_cohort_policy():
                 sdata = json.load(sf)
                 if sdata.get("remaining_pages", 0) > 0:
                     active_mon_id = sdata.get("monument_id")
-        except Exception:
-            pass
+        except (OSError, json.JSONDecodeError) as exc:
+            print(f"  [Notice] Could not read active state file: {exc}", file=sys.stderr)
 
     updated_count = 0
     for mon_id, mon_data in registry.get("monuments", {}).items():

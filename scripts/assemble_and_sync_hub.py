@@ -311,7 +311,9 @@ def ingest_and_sync(monument_id: str, cohort_num: int) -> int:
             print(f"Notice: Liturgical PDF compilation skipped ({e}). Markdown deliverables remain canonical.")
 
     # 4. Sync Deliverables to Hub Inbox
-    hub_inbox = get_hub_inbox(mon_info.get("short_title", monument_id))
+    pub_spec = mon_info.get("publication_spec", {})
+    inbox_folder = pub_spec.get("hub_inbox_folder") or mon_info.get("short_title", monument_id).replace(" ", "_")
+    hub_inbox = get_hub_inbox(inbox_folder)
     print(f"Syncing deliverables to Hub Inbox: {hub_inbox}")
 
     files_to_sync = [

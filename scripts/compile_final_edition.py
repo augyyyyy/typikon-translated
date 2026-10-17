@@ -545,6 +545,9 @@ class UniversalPublicationEngine:
         print("[Step 11] Synchronizing deliverables to Typikon Coded Hub Inbox...")
         hub_folder_name = self.pub_spec.get("hub_inbox_folder", self.monument_id)
         hub_inbox = get_hub_inbox(hub_folder_name)
+        for stale_file in list(hub_inbox.glob("*cohort*")) + list(hub_inbox.glob("*.txt")):
+            if stale_file.is_file():
+                stale_file.unlink()
         for filename, content in all_deliverables.items():
             (hub_inbox / filename).write_text(content, encoding="utf-8")
         print(f"  Successfully synced {len(all_deliverables)} files to: {hub_inbox.relative_to(PROJECT_ROOT.parent)}")
@@ -586,8 +589,9 @@ class UniversalPublicationEngine:
         if not part_specs:
             return {"part0": text}
 
-        # Find landmark indices
+        # Find landmark indices monotonically
         landmarks: List[Tuple[str, int, str]] = [] # (part_id, line_index, title)
+        last_idx = 0
         for ps in part_specs:
             pid = ps["id"]
             pat = ps.get("start_landmark")
@@ -597,11 +601,14 @@ class UniversalPublicationEngine:
 
             found_idx = -1
             for idx, line in enumerate(lines):
+                if idx <= last_idx:
+                    continue
                 if re.search(pat, line.strip(), re.IGNORECASE):
                     # For Part 6 table of contents, Dolnytsky's historical index is in the final portion
                     if self.monument_id == "1899_dolnytsky_typikon" and pid == "part6" and idx < len(lines) * 0.7:
                         continue
                     found_idx = idx
+                    last_idx = idx
                     break
 
             if found_idx == -1:
