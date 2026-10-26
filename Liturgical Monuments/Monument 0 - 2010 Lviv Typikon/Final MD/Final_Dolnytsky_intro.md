@@ -222,3 +222,9 @@ Like every work of such magnitude, this translation is not devoid of errors and 
 Publisher "Ukrainian Spiritual Library"
 COMPONENT PARTS OF THE TYPIKON
 This Typikon consists of five parts, of which Part 1 presents the general view of the divine service; Part 2 – general rubrics for various services of the *Octoechos* and *Menaion*; Part 3 – specific rubrics for certain services of the *Menaion*; Part 4 – specific rubrics for the services of the *Triodion*; Part 5 – specific rubrics for temple feasts.
+
+---
+
+### Notes
+
+[^1]: Title of the original text: "Typikon of the Ruthenian Catholic Church." "Ruthenian" is the ancient name for Ukrainians.

@@ -2,7 +2,7 @@
 
 **Document ID**: `1899_dolnytsky_typikon`  
 **Cohort Number**: 27  
-**Physical Leaves**: Physical pages 521 to 540 (`p521.png` through `p540.png`, 20 leaves total)  
+**Physical Leaves**: Physical pages 521 to 540 (`Page_0521.jpg` through `Page_0540.jpg`, 20 leaves total)  
 **Starting Footnote Index**: `[^673]`  
 **Governing Genre Register**: **RUBRICAL** (Per Master Translation Standard MTS-1)  
 **Image Cache Directory**: `Liturgical Monuments\Monument 2 - 1899 Dolnytsky Typikon\Source Text\images`  
@@ -28,7 +28,7 @@
 ---
 
 ## 3. Autonomous Execution Instructions
-1. Inspect images `p521.png` through `p540.png` in `Liturgical Monuments\Monument 2 - 1899 Dolnytsky Typikon\Source Text\images`.
+1. Inspect images `Page_0521.jpg` through `Page_0540.jpg` in `Liturgical Monuments\Monument 2 - 1899 Dolnytsky Typikon\Source Text\images`.
 2. Transcribe Church Slavonic source text leaf-by-leaf with headers `=== LEAF p521 ===`.
 3. Translate unabridged into `1899_dolnytsky_typikon_cohort27_raw_draft.md` with inline footnote markers `[^N]`.
 4. Write footnote definitions into `1899_dolnytsky_typikon_cohort27_footnotes.txt` starting at `[^673]`.

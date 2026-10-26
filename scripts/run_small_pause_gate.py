@@ -9,6 +9,7 @@ Executes the mandatory linters and auditors at the conclusion of every cohort:
   2. scripts/hieratic_pronoun_audit.py (100% Deity Pronoun Capitalization)
   3. scripts/reconcile_footnotes.py (Exact 1:1 Footnote Parity)
   4. scripts/structural_audit.py (Unbroken Sequence & Heading Hierarchy)
+  5. Phase 1 -> Phase 2 Argon Review Queue Collector (Audit_Reports/argon_review_queue.json)
 
 Gate Enforcement:
   If all gates pass -> updates state to PASSED_COHORT_<N>, exit code 0.
@@ -43,11 +44,32 @@ STATE_FILE = PROJECT_ROOT / "Liturgical Monuments" / "ACTIVE_ORCHESTRATOR_STATE.
 TRIAGE_INBOX = PROJECT_ROOT / "scratch" / "triage_inbox.jsonl"
 SHARED_LEXICON_DIR = PROJECT_ROOT.parent / "Shared_Lexicon"
 
+EPIGRAPHIC_UNCERTAINTY_PATTERNS = [
+    (r"\[\?+\]", "epigraphic_uncertainty_marker: [?]"),
+    (r"\[illegible[^\]]*\]", "epigraphic_uncertainty_marker: [illegible]"),
+    (r"\[lacuna[^\]]*\]", "epigraphic_uncertainty_marker: [lacuna]"),
+    (r"\[damaged[^\]]*\]", "epigraphic_uncertainty_marker: [damaged]"),
+    (r"\[corrupt[^\]]*\]", "epigraphic_uncertainty_marker: [corrupt]"),
+]
+
+SPARSE_EXEMPT_KEYWORDS = (
+    "blank",
+    "vacat",
+    "frontispiece",
+    "title page",
+    "imprimatur",
+    "icon",
+    "table",
+    "colophon",
+)
+
+
 def log_to_triage(entry: Dict[str, Any]) -> None:
     TRIAGE_INBOX.parent.mkdir(parents=True, exist_ok=True)
     with open(TRIAGE_INBOX, "a", encoding="utf-8") as f:
         f.write(json.dumps(entry, ensure_ascii=False) + "\n")
     print(f"Logged failure signature to: {TRIAGE_INBOX.relative_to(PROJECT_ROOT)}")
+
 
 def find_target_file(dir_path: Path, pattern: str, cohort_num: Optional[int] = None) -> Optional[Path]:
     if not dir_path.exists():
@@ -62,6 +84,158 @@ def find_target_file(dir_path: Path, pattern: str, cohort_num: Optional[int] = N
         if filtered:
             return filtered[0]
     return cands[0] if cands else None
+
+
+def collect_argon_review_signals(
+    monument_id: str,
+    cohort_num: int,
+    ws: Path,
+    target_text: Path,
+    source_file: Optional[Path] = None,
+    quarantine_reasons: Optional[List[str]] = None,
+    quarantine_leaves: Optional[List[int]] = None,
+) -> Dict[str, Any]:
+    """
+    Scans each === LEAF pN === block in the cohort and updates
+    Audit_Reports/argon_review_queue.json with the 4 locked signals:
+      1. Epigraphic uncertainty/lacuna markers ([?], [illegible], [lacuna], [damaged], [corrupt])
+      2. Borderline SGC-02 draft-to-source length ratios (<0.50 or >2.20 on non-sparse leaves)
+      3. High-complexity Paschalion/multi-column tables (>=5 table rows) or dense polyglot apparatus (>=5 footnotes on 1 leaf)
+      4. Quarantined leaves after deterministic self-healing + 1 Flash retry
+    """
+    from scripts.structural_audit import parse_leaf_blocks
+
+    audit_dir = ws / "Audit_Reports"
+    audit_dir.mkdir(parents=True, exist_ok=True)
+    queue_path = audit_dir / "argon_review_queue.json"
+
+    if source_file is None:
+        cand_src = ws / "Source Text" / f"{monument_id}_cohort{cohort_num}_source.txt"
+        if cand_src.exists():
+            source_file = cand_src
+
+    draft_content = target_text.read_text(encoding="utf-8") if target_text.exists() else ""
+    draft_blocks = parse_leaf_blocks(draft_content)
+
+    src_blocks: Dict[int, str] = {}
+    if source_file and source_file.exists():
+        src_blocks = parse_leaf_blocks(source_file.read_text(encoding="utf-8"))
+
+    existing_queue: Dict[str, Any] = {
+        "monument_id": monument_id,
+        "updated_at": datetime.now(timezone.utc).isoformat(),
+        "total_queued_leaves": 0,
+        "unresolved_quarantines": 0,
+        "items": [],
+    }
+    if queue_path.exists():
+        try:
+            loaded = json.loads(queue_path.read_text(encoding="utf-8"))
+            if isinstance(loaded, dict):
+                existing_queue.update(loaded)
+        except (OSError, json.JSONDecodeError) as e:
+            print(f"  [Warning] Could not read existing argon_review_queue.json ({e}), reinitializing.", file=sys.stderr)
+
+    items_by_leaf: Dict[int, Dict[str, Any]] = {}
+    for item in existing_queue.get("items", []):
+        if isinstance(item, dict) and "leaf_num" in item:
+            items_by_leaf[int(item["leaf_num"])] = item
+
+    all_leaves = sorted(set(draft_blocks.keys()) | set(src_blocks.keys()))
+    newly_queued: List[int] = []
+    quarantine_set = set(quarantine_leaves or [])
+
+    for leaf_num in all_leaves:
+        d_txt = draft_blocks.get(leaf_num, "")
+        s_txt = src_blocks.get(leaf_num, "")
+        combined = f"{s_txt}\n{d_txt}"
+        reasons: List[str] = []
+
+        # Signal 1: Epigraphic uncertainty / lacuna markers
+        for pat, label in EPIGRAPHIC_UNCERTAINTY_PATTERNS:
+            if re.search(pat, combined, re.IGNORECASE):
+                reasons.append(label)
+
+        # Signal 2: Borderline SGC-02 draft-to-source length ratio (<0.50 or >2.20 on non-sparse leaves)
+        if s_txt and d_txt:
+            s_len = len(s_txt)
+            t_len = len(d_txt)
+            combined_lower = combined.lower()
+            is_exempt_sparse = any(kw in combined_lower for kw in SPARSE_EXEMPT_KEYWORDS) or s_len < 120
+            if not is_exempt_sparse and s_len > 0:
+                ratio = t_len / float(s_len)
+                if (0.25 <= ratio < 0.50) or (2.20 < ratio <= 5.00):
+                    reasons.append(f"borderline_sgc02_ratio: {ratio:.2f} (draft={t_len}c, source={s_len}c)")
+
+        # Signal 3: High-complexity tables (>=5 table rows) or dense polyglot apparatus (>=5 footnotes on 1 leaf)
+        table_rows = [
+            ln for ln in d_txt.splitlines()
+            if ln.strip().startswith("|") and ln.strip().endswith("|") and not re.match(r"^\|[\s\-:|]+\|$", ln.strip())
+        ]
+        if len(table_rows) >= 5:
+            reasons.append(f"complex_multicolumn_table: {len(table_rows)} table rows")
+
+        fn_markers = re.findall(r"\[\^\d+\]", d_txt)
+        if len(fn_markers) >= 5:
+            reasons.append(f"dense_polyglot_apparatus: {len(fn_markers)} footnotes on leaf")
+
+        # Signal 4: Quarantine override after deterministic self-healing + 1 Flash retry
+        is_quarantined = leaf_num in quarantine_set
+        if is_quarantined and quarantine_reasons:
+            for qr in quarantine_reasons:
+                tag = f"quarantined_gate_anomaly: {qr}"
+                if tag not in reasons:
+                    reasons.append(tag)
+
+        prev_item = items_by_leaf.get(leaf_num)
+        if prev_item and prev_item.get("status") == "RESOLVED_BY_ARGON" and not is_quarantined:
+            continue
+
+        if reasons or is_quarantined:
+            status_val = "QUARANTINED_FOR_ARGON" if is_quarantined else "QUEUED_FOR_ARGON"
+            if prev_item and prev_item.get("status") == "QUARANTINED_FOR_ARGON" and not is_quarantined:
+                status_val = "QUARANTINED_FOR_ARGON"
+                for old_r in prev_item.get("reasons", []):
+                    if old_r.startswith("quarantined_gate_anomaly:") and old_r not in reasons:
+                        reasons.append(old_r)
+
+            items_by_leaf[leaf_num] = {
+                "leaf_num": leaf_num,
+                "cohort": cohort_num,
+                "status": status_val,
+                "reasons": reasons,
+                "draft_file": str(target_text.relative_to(PROJECT_ROOT)) if target_text.is_relative_to(PROJECT_ROOT) else str(target_text),
+                "source_file": (
+                    str(source_file.relative_to(PROJECT_ROOT))
+                    if (source_file and source_file.is_relative_to(PROJECT_ROOT))
+                    else (str(source_file) if source_file else None)
+                ),
+                "updated_at": datetime.now(timezone.utc).isoformat(),
+            }
+            newly_queued.append(leaf_num)
+        elif prev_item and prev_item.get("cohort") == cohort_num and prev_item.get("status") == "QUEUED_FOR_ARGON":
+            # Signal cleared on re-run
+            del items_by_leaf[leaf_num]
+
+    sorted_items = [items_by_leaf[k] for k in sorted(items_by_leaf.keys())]
+    active_items = [it for it in sorted_items if it.get("status") != "RESOLVED_BY_ARGON"]
+    quarantined_items = [it for it in sorted_items if it.get("status") == "QUARANTINED_FOR_ARGON"]
+
+    existing_queue["monument_id"] = monument_id
+    existing_queue["updated_at"] = datetime.now(timezone.utc).isoformat()
+    existing_queue["total_queued_leaves"] = len(active_items)
+    existing_queue["unresolved_quarantines"] = len(quarantined_items)
+    existing_queue["items"] = sorted_items
+
+    queue_path.write_text(json.dumps(existing_queue, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+
+    return {
+        "queue_path": str(queue_path.relative_to(PROJECT_ROOT)) if queue_path.is_relative_to(PROJECT_ROOT) else str(queue_path),
+        "cohort_queued_leaves": newly_queued,
+        "total_queued_leaves": len(active_items),
+        "unresolved_quarantines": len(quarantined_items),
+    }
+
 
 def run_gate_1c_chromatic(cohort_dir: Path, leaves: List[int]) -> bool:
     """
@@ -84,7 +258,7 @@ def run_gate_1c_chromatic(cohort_dir: Path, leaves: List[int]) -> bool:
     warnings = 0
     verified = 0
     for leaf in leaves:
-        for fname in (f"p{leaf}.png", f"p{leaf}.jpg", f"Page_{leaf:04d}.jpg"):
+        for fname in (f"Page_{leaf:04d}.jpg", f"p{leaf}.jpg", f"p{leaf}.png"):
             leaf_img = scan_dir / fname
             if leaf_img.exists():
                 break
@@ -107,6 +281,7 @@ def run_gate_1c_chromatic(cohort_dir: Path, leaves: List[int]) -> bool:
     else:
         print("  PASSED (Bypassed: no matching leaf scan files in scan directory)")
     return True
+
 
 def run_gate(monument_id: str, cohort_num: int, custom_draft: Optional[Path] = None, custom_footnotes: Optional[Path] = None) -> int:
     with open(REGISTRY_FILE, "r", encoding="utf-8") as f:
@@ -144,7 +319,7 @@ def run_gate(monument_id: str, cohort_num: int, custom_draft: Optional[Path] = N
     print(f"  Footnotes File: {footnotes_file.relative_to(PROJECT_ROOT) if footnotes_file.exists() and footnotes_file.is_relative_to(PROJECT_ROOT) else footnotes_file}")
     print("=" * 65)
 
-    master_report = {
+    master_report: Dict[str, Any] = {
         "timestamp": datetime.now(timezone.utc).isoformat(),
         "monument_id": monument_id,
         "cohort": cohort_num,
@@ -186,7 +361,6 @@ def run_gate(monument_id: str, cohort_num: int, custom_draft: Optional[Path] = N
     # Gate 1B: Anti-Fanciful Slop Language Linter
     print("\n[Gate 1B/4] Running Anti-Slop Linter (scripts/lint_liturgical_slop.py)...")
     slop_linter_script = SCRIPT_DIR / "lint_liturgical_slop.py"
-    slop_passed = True
     slop_data = {}
     if slop_linter_script.exists():
         cmd_slop = [
@@ -203,7 +377,6 @@ def run_gate(monument_id: str, cohort_num: int, custom_draft: Optional[Path] = N
                 slop_data = {"passed": True}
                 print("  PASSED")
         else:
-            slop_passed = False
             all_passed = False
             try:
                 slop_data = json.loads(res_slop.stdout)
@@ -264,13 +437,10 @@ def run_gate(monument_id: str, cohort_num: int, custom_draft: Optional[Path] = N
             fn_data = {"passed": True}
             print("  PASSED")
     else:
-        # Check if orphaned definitions are from other cohorts in the shared footnotes file
         try:
             fn_data = json.loads(res_fn.stdout)
             missing = fn_data.get("missing_definitions", [])
             orphaned = fn_data.get("orphaned_definitions", [])
-            # For a single cohort, missing definitions is always fatal. Orphaned definitions
-            # in a multi-cohort shared file are expected if the footnotes file contains all cohorts.
             if len(missing) == 0:
                 print(f"  PASSED (All {fn_data.get('text_markers_count', 0)} cohort markers defined; {len(orphaned)} definitions belong to sibling cohorts)")
                 fn_data["passed"] = True
@@ -331,6 +501,21 @@ def run_gate(monument_id: str, cohort_num: int, custom_draft: Optional[Path] = N
     master_report["gates"]["structural_sequence"] = struct_data
     master_report["overall_status"] = "PASSED" if all_passed else "FAILED"
 
+    # Gate 5: Argon Review Queue Signal Collector (Phase 1 -> Phase 2)
+    print("\n[Argon Queue Collector] Scanning cohort leaves for Phase 2 Argon review signals...")
+    queue_summary = collect_argon_review_signals(
+        monument_id=monument_id,
+        cohort_num=cohort_num,
+        ws=ws,
+        target_text=target_text,
+    )
+    master_report["argon_review_queue"] = queue_summary
+    print(
+        f"  Queued from Cohort #{cohort_num}: {queue_summary['cohort_queued_leaves']} "
+        f"(Monument Total Queued: {queue_summary['total_queued_leaves']}, "
+        f"Unresolved Quarantines: {queue_summary['unresolved_quarantines']})"
+    )
+
     # Save audit report
     with open(report_file, "w", encoding="utf-8") as f:
         json.dump(master_report, f, indent=2, ensure_ascii=False)
@@ -355,6 +540,7 @@ def run_gate(monument_id: str, cohort_num: int, custom_draft: Optional[Path] = N
             "status": "PENDING_DEVELOPER_TRIAGE"
         })
         return 1
+
 
 def main():
     parser = argparse.ArgumentParser(description="Universal Small Pause Gatekeeper Suite")
@@ -386,6 +572,7 @@ def main():
     except Exception as e:
         print(f"ERROR: {e}", file=sys.stderr)
         sys.exit(1)
+
 
 if __name__ == "__main__":
     main()

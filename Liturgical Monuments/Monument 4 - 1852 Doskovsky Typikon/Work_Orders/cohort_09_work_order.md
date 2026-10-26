@@ -2,7 +2,7 @@
 
 **Document ID**: `1852_doskovsky_typikon`  
 **Cohort Number**: 9  
-**Physical Leaves**: Physical pages 81 to 90 (`p81.png` through `p90.png`, 10 leaves total)  
+**Physical Leaves**: Physical pages 81 to 90 (`Page_0081.jpg` through `Page_0090.jpg`, 10 leaves total)  
 **Starting Footnote Index**: `[^175]`  
 **Governing Genre Register**: **RUBRICAL** (Per Master Translation Standard MTS-1)  
 **Image Cache Directory**: `Liturgical Monuments\Monument 4 - 1852 Doskovsky Typikon\Source Text\images`  
@@ -28,7 +28,7 @@
 ---
 
 ## 3. Autonomous Execution Instructions
-1. Inspect images `p81.png` through `p90.png` in `Liturgical Monuments\Monument 4 - 1852 Doskovsky Typikon\Source Text\images`.
+1. Inspect images `Page_0081.jpg` through `Page_0090.jpg` in `Liturgical Monuments\Monument 4 - 1852 Doskovsky Typikon\Source Text\images`.
 2. Transcribe Church Slavonic source text leaf-by-leaf with headers `=== LEAF p81 ===`.
 3. Translate unabridged into `1852_doskovsky_typikon_cohort9_raw_draft.md` with inline footnote markers `[^N]`.
 4. Write footnote definitions into `1852_doskovsky_typikon_cohort9_footnotes.txt` starting at `[^175]`.

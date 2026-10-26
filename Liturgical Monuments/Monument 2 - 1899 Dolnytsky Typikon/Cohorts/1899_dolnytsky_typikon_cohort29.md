@@ -3,7 +3,7 @@
 
 ---
 
-[Leaf p561 / Page 559]
+=== LEAF p561 ===
 
 ## Directory of Movable Services
 
@@ -30,7 +30,7 @@ In the six days from Monday until the Saturday of the Prodigal Son, the Triodion
 
 ---
 
-[Leaf p562 / Page 560]
+=== LEAF p562 ===
 
 #### 1st Sunday of the Fast
 ##### Orthodoxy: Against the Iconoclasts
@@ -55,7 +55,7 @@ At discretion, also the Service to Saint John of the Ladder (Climacus).
 
 ---
 
-[Leaf p563 / Page 561]
+=== LEAF p563 ===
 
 **2.** On Thursday of the 5th Week of the Fast: Penitential Service of the Great Canon, with prostrations.  
 **3.** 5th Saturday of the Fast: Of the Akathist.
@@ -83,7 +83,7 @@ Feast of thirty-nine days.
 
 ---
 
-[Leaf p564 / Page 562]
+=== LEAF p564 ===
 
 **2.** On Monday and Tuesday we abstain from labor and are present at divine services; and during the entire week we are permitted meat (fast-free).
 
@@ -108,7 +108,7 @@ Feast of four days.
 
 ---
 
-[Leaf p565 / Page 563]
+=== LEAF p565 ===
 
 #### 6th Sunday after Pascha: Of the Blind Man
 Feast of four days.  
@@ -134,7 +134,7 @@ Here is the end of the ancient Triodion.
 
 ---
 
-[Leaf p566 / Page 564]
+=== LEAF p566 ===
 
 #### 2nd Sunday after Pentecost: Vigil of the Eucharist
 **1.** With this Sunday begins the cycle of the Tones.  
@@ -154,7 +154,7 @@ Here is the end of the ancient Triodion.
 
 ---
 
-[Leaf p567 / Page 565]
+=== LEAF p567 ===
 
 ### Tablet I
 #### Dominical Letters and Boundary Keys
@@ -181,7 +181,7 @@ For the last 40 years of the Indiction, that is, of the Cycle of 532 years, the 
 
 ---
 
-[Leaf p568 / Page 566]
+=== LEAF p568 ===
 
 ### Tablet II
 #### Dominical Letters and Boundary Keys
@@ -212,7 +212,7 @@ For all 532 years of the 15th Indiction from the creation of the world (Years 19
 
 ---
 
-[Leaf p569 / Page 567]
+=== LEAF p569 ===
 
 ### Tablet II (Continued: Years 2001 to 2084)
 
@@ -249,7 +249,7 @@ For all 532 years of the 15th Indiction from the creation of the world (Years 19
 
 ---
 
-[Leaf p570 / Page 568]
+=== LEAF p570 ===
 
 ### Tablet II (Continued: Years 2085 to 2168)
 
@@ -286,7 +286,7 @@ For all 532 years of the 15th Indiction from the creation of the world (Years 19
 
 ---
 
-[Leaf p571 / Page 569]
+=== LEAF p571 ===
 
 ### Tablet II (Continued: Years 2169 to 2252)
 
@@ -323,7 +323,7 @@ For all 532 years of the 15th Indiction from the creation of the world (Years 19
 
 ---
 
-[Leaf p572 / Page 570]
+=== LEAF p572 ===
 
 ### Tablet II (Continued: Years 2253 to 2336)
 
@@ -360,7 +360,7 @@ For all 532 years of the 15th Indiction from the creation of the world (Years 19
 
 ---
 
-[Leaf p573 / Page 571]
+=== LEAF p573 ===
 
 ### Tablet II (Continued: Years 2337 to 2420)
 
@@ -397,7 +397,7 @@ For all 532 years of the 15th Indiction from the creation of the world (Years 19
 
 ---
 
-[Leaf p574 / Page 572]
+=== LEAF p574 ===
 
 ### Tablet II (Concluded: Years 2421 to 2472)
 
@@ -424,7 +424,7 @@ For all 532 years of the 15th Indiction from the creation of the world (Years 19
 
 ---
 
-[Leaf p575 / Page 573]
+=== LEAF p575 ===
 
 ### Roman and Greek Paschas
 #### Difference
@@ -456,7 +456,7 @@ Apr. = April. — Mar. = March. — 0 = equal (same day).
 
 ---
 
-[Leaf p576 / Pages 574–575]
+=== LEAF p576 ===
 
 ### Tablet III: Perpetual Table
 Containing 35 Columns of the Sundays of the Entire Year, with Indication of the Regular Gospels and Tones.
@@ -507,7 +507,7 @@ Containing 35 Columns of the Sundays of the Entire Year, with Indication of the 
 
 ---
 
-[Leaf p577 / Pages 576–577]
+=== LEAF p577 ===
 
 ### Tablet III: Perpetual Table (Continued)
 #### Sundays 12 to 29 after Pentecost
@@ -558,7 +558,7 @@ Containing 35 Columns of the Sundays of the Entire Year, with Indication of the 
 
 ---
 
-[Leaf p578 / Pages 578–579]
+=== LEAF p578 ===
 
 ### Tablet III: Perpetual Table (Concluded)
 #### Sundays 30 to 32 after Pentecost, Pre-Lenten Cycle, and Legend of Concurring Gospels
@@ -617,7 +617,7 @@ Concurring with the Gospels of the Ordinary Sundays.
 
 ---
 
-[Leaf p579 / Page 580]
+=== LEAF p579 ===
 
 ### Explanation of the Tablet
 
@@ -633,7 +633,7 @@ Concurring with the Gospels of the Ordinary Sundays.
 
 ---
 
-[Leaf p580 / Page 581]
+=== LEAF p580 ===
 
 these 5 Sundays not a single one is then taken, but immediately after Theophany the Triodion begins.
 

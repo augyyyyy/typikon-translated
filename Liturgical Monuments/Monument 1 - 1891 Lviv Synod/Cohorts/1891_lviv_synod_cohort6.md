@@ -42,6 +42,7 @@
 
 ---
 
+=== LEAF p101 ===
 *(Physical Page 99 / Leaf p101)*
 
 ### CHAPTER V. On the Mystery of Anointing (Holy Unction)
@@ -59,6 +60,7 @@
 
 ---
 
+=== LEAF p102 ===
 *(Physical Page 100 / Leaf p102)*
 
 *to anoint any other part of the body instead of the loins."* If anyone should lack any sense, for example sight, or if any member should be amputated, for example an arm or a leg, then the nearest part of that sense or member shall be anointed, since he could have sinned, if not through the external senses, then through the powers corresponding to them, or through the lust of an illicit deed.
@@ -69,6 +71,7 @@
 
 ---
 
+=== LEAF p103 ===
 *(Physical Page 101 / Leaf p103)*
 
 ### CHAPTER VI. On the Mystery of Priesthood (Holy Orders)
@@ -80,6 +83,7 @@
 
 ---
 
+=== LEAF p104 ===
 *(Physical Page 102 / Leaf p104)*
 
 cted; between the Subdiaconate and the Diaconate, for the most part, an interstice of one day is observed, and between the Diaconate and the Presbyterate (an interstice of) eight days. The present Synod, consenting to the observance of the custom just cited, enacteth in addition that the orders of Deacon and Presbyter may be conferred only on two days, and those solemn feasts, yet not following immediately upon each other; whereas the orders of Reader and Subdeacon, according to ancient practice, may be conferred also on a ferial day (on weekdays).
@@ -94,6 +98,7 @@ The Synod addeth, however, that those to be ordained, before receiving the Subdi
 
 ---
 
+=== LEAF p105 ===
 *(Physical Page 103 / Leaf p105)*
 
 or Presbyter together, the Hierarch shall lay his hands upon each individual ordinand separately when he pronounceth the essential form of the Holy Order, namely: *"Divine grace..."* and so forth.
@@ -110,6 +115,7 @@ or Presbyter together, the Hierarch shall lay his hands upon each individual ord
 
 ---
 
+=== LEAF p106 ===
 *(Physical Page 104 / Leaf p106)*
 
 dated May 22, 1841, to the Austrian Archbishops and Bishops, and under date of July 16, 1842, extended to the territory of Galicia, and by His Eminence Cardinal Metropolitan Mykhailo Levytsky under date of January 31, 1843, promulgated in the Archeparchy of Lviv [^91]; and likewise by the Sacred Congregation of the Inquisition (*Congregatio Inquisitionis*) dated December 22, 1888 (*Archeparchial Gazette*, No. 4; of the year 1889, No. 29, ord.), which are cited here in full at the end of the Synod. [^92]
@@ -128,6 +134,7 @@ Although Consecrations and Blessings (Sacramentals) do not confer that abundance
 
 ---
 
+=== LEAF p107 ===
 *(Physical Page 105 / Leaf p107)*
 
 tions (Sacramentals) are wont in our Church to be used more than in the Greek Church, and to be highly esteemed. And that justly: for if the prayer even of an individual man is acceptable to God and yieldeth unto man precious consequences and spiritual fruits, how much more the prayers of blessings and consecrations which are offered in the name of the Bride of Christ the Lord Himself unto His Heavenly Father! But whereas blessings and consecrations are wont to confer the more abundant graces the greater the spiritual disposition wherewith they are celebrated both by the faithful and by the ministers; therefore the Synod admonisheth sacred ministers that they impart such blessings and consecrations unto the faithful devoutly, piously, and with a clean conscience; and likewise it admonisheth the faithful that they receive the same devoutly, piously, and with a clean conscience. [^94]
@@ -144,6 +151,7 @@ Now just as certain Holy Mysteries, besides conferring grace, are ordained for t
 
 ---
 
+=== LEAF p108 ===
 *(Physical Page 106 / Leaf p108)*
 
 duly instruct his faithful and with all gravity strictly admonish them to avoid sins and transgressions of this kind; and those who transgress let him regard as public sinners and persons giving scandal so long as they do not repent; and wherefore for such a woman, for the expiation of her sin, instead of purification, let him impose the reception of the Holy Mystery of Repentance. Generally, however, concerning all women who after childbirth come to church for the purpose of purification: since immediately after receiving this rite they are wont to give themselves over to domestic and field labor, wherefore that they may still be regarded as unfit for such labor by reason of infirmity, the Synod ordaineth that they shall approach the reception of this rite ordinarily not before 20 days after childbirth; and that all the more since, according to the prescriptions of the *Trebnik* (*Euchologion*), properly speaking, this rite ought to be received on the 40th day after childbirth.
@@ -158,6 +166,7 @@ duly instruct his faithful and with all gravity strictly admonish them to avoid 
 
 ---
 
+=== LEAF p109 ===
 *(Physical Page 107 / Leaf p109)*
 
 ### Section 5: On the Blessing of Sacred Vestments, Vessels, and Furnishings
@@ -174,6 +183,7 @@ In addition, the Synod desireth that in the future the oil which hath served for
 
 ---
 
+=== LEAF p110 ===
 *(Physical Page 108 / Leaf p110)*
 
 phany excepted, is wont to be celebrated in the course of the year according to need, after the commemoration of our Emperor there shall also be, and that in the first place, the commemoration of the Supreme Hierarch, as is already set down in the Pochaiv editions, and that according to the following formula: *"And save, O Lord, Thy servants, the Universal Pontiff N. N., and our right-believing Emperor N. N."*
@@ -188,6 +198,7 @@ phany excepted, is wont to be celebrated in the course of the year according to 
 
 ---
 
+=== LEAF p111 ===
 *(Physical Page 109 / Leaf p111)*
 
 2. That this diversity of rites not only doth not hinder, but even contributeth in the highest degree unto the multiplication of the beauty and majesty of the Church, Pope Pius IX of immortal memory declared in his Encyclical to the Easterners, saying: *"To the unity of the Catholic Church the manifold diversity of holy and lawful rites is in no way opposed; what is more, it contributeth in the highest degree to the increase of the dignity, majesty, beauty, and splendor of the Church herself,"* [^97] which thought almost in the very same words the present Supreme Hierarch Pope Leo XIII also expressed before our clergy, admitted to an audience with Him in the Vatican on the occasion of His sacerdotal jubilee in the year 1888.
@@ -204,6 +215,7 @@ phany excepted, is wont to be celebrated in the course of the year according to 
 
 ---
 
+=== LEAF p112 ===
 *(Physical Page 110 / Leaf p112)*
 
 ests also on other ferial days (weekdays) celebrate the Holy Liturgy (the Divine Liturgy), even though they should have no stipend; for *"in every Liturgy (Divine Liturgy) is found all the fruit which Christ wrought upon the Cross; such as are the fruits of the Passion of the Lord, such are the fruits of this Sacrifice"*; [^98] further: *"every Liturgy (Divine Liturgy) is worth as much as the death of Christ upon the Cross is worth,"* [^99] through which Liturgy the universe standeth. [^100] And wherefore *"a priest who, not being lawfully hindered, omitteth to celebrate the Liturgy, depriveth, so far as in him lieth, the Holy Trinity of glory, the Angels of joy, sinners of pardon, the just of help, those abiding in purgatory of refreshment, the Church of benefit, and himself of medicine."* [^101]
@@ -217,6 +229,7 @@ ests also on other ferial days (weekdays) celebrate the Holy Liturgy (the Divine
 
 ---
 
+=== LEAF p113 ===
 *(Physical Page 111 / Leaf p113)*
 
 5. Finally, the solemn Liturgy joined with Vespers is to be celebrated on the Eve of the Nativity of Christ and of the Theophany of the Lord, if the same falleth not on a Saturday or a Sunday; likewise on Great Thursday and Great Saturday of Passion (Holy) Week; so that on those days there shall be only one Liturgy, and that sung by one or by many priests concelebrating together (*soborno*), excluding all other Liturgies.
@@ -227,6 +240,7 @@ ests also on other ferial days (weekdays) celebrate the Holy Liturgy (the Divine
 
 ---
 
+=== LEAF p114 ===
 *(Physical Page 112 / Leaf p114)*
 
 to so great a mystery, and for avoiding scandal unto our people, let them retain the inviolate custom, hitherto existing among us, of not smoking from midnight until the Holy Liturgy. [^105]
@@ -239,6 +253,7 @@ to so great a mystery, and for avoiding scandal unto our people, let them retain
 
 ---
 
+=== LEAF p115 ===
 *(Physical Page 113 / Leaf p115)*
 
 and let them not pronounce words incompletely (not entirely) or fragmentarily, or only in thought, but distinctly, observing however at the same time the distinction between prayers said secretly (*v tai*) and aloud (*v holos*), the utterance of which shall be moderate.
@@ -251,6 +266,7 @@ and let them not pronounce words incompletely (not entirely) or fragmentarily, o
 
 ---
 
+=== LEAF p116 ===
 *(Physical Page 114 / Leaf p116)*
 
 able hour for the celebration is the tenth hour (10:00 AM) [^109]; for the rest, regarding the time of celebrating the Divine Liturgy the pastor must take into consideration the circumstances of his parishioners. If ever it should happen that the Divine Liturgy must be later, the prescription of the Synod of Zamość must be preserved, that it shall begin at least before noon, the Eves of the Nativity of Christ and Theophany excepted (unless they fall on a Saturday or Sunday), as also on Thursday and Saturday of Passion (Holy) Week. [^110]
@@ -269,6 +285,7 @@ able hour for the celebration is the tenth hour (10:00 AM) [^109]; for the rest,
 
 ---
 
+=== LEAF p117 ===
 *(Physical Page 115 / Leaf p117)*
 
 the same unto Sundays and prescribed feast days; therefore it is fitting that all pastors of souls, first of all Bishops, and then proper pastors and those priests who have the administration of parishes, shall offer the Sacrifice of the Liturgy for the portion of the flock committed unto them on every Sunday and prescribed feast day.
@@ -289,6 +306,7 @@ As to assistants (*sotrudnyky* / parochial vicars) of pastors, these properly sp
 
 ---
 
+=== LEAF p118 ===
 *(Physical Page 116 / Leaf p118)*
 
 2. In a concelebrated Liturgy (*soborna Lyturhiia*), although each of the concelebrants is bound to have and apply his own intention; nevertheless, let him make the application for a certain stipend specifically given unto him on another day in an individual (low) Divine Liturgy, since ordinarily such is shown to be the intention of the donor; unless the donor should have agreed thereto.
@@ -303,6 +321,7 @@ Yet let no beneficiary dare on his own authority to diminish any burdens of Litu
 
 ---
 
+=== LEAF p119 ===
 *(Physical Page 117 / Leaf p119)*
 
 Further, a priest who, having received a manual stipend, transferreth the obligation of celebrating the Divine Liturgy unto another, is bound to transmit unto him the entire stipend. [^116]
@@ -317,6 +336,7 @@ Likewise, for that same reason, a priest unto whom the celebration of a perpetua
 
 ---
 
+=== LEAF p120 ===
 *(Physical Page 118 / Leaf p120)*
 
 unto them to postpone; but if they are hindered from celebrating immediately, let them return the stipend unto the donor, stating the reason for the refusal. In a case, however, where anyone should give a priest a stipend smaller than the tax accepted according to law or custom amounteth to, the sacred celebrant is bound to apply the Liturgy for the donor, if he himself hath agreed thereto; in the contrary case, let him return the stipend unto the donor. By his own authority, however, let him not dare to combine as many smaller stipends as are due for the celebration of one Divine Liturgy, but he ought to have recourse unto the local Ordinary, as is also wont to be done in miraculous or pilgrimage places, that he himself by virtue of lawful authority may designate that combination of stipends. [^121]

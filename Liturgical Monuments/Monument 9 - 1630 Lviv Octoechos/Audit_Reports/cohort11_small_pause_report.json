@@ -1,0 +1,187 @@
+{
+  "timestamp": "2026-10-25T18:33:23.570902+00:00",
+  "monument_id": "1630_lviv_octoechos",
+  "cohort": 11,
+  "target_file": "1630_lviv_octoechos_cohort11_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1630_lviv_octoechos_cohort11_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1630_lviv_octoechos_cohort11_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1630_lviv_octoechos_cohort11_raw_draft.md",
+      "footnotes_file": "1630_lviv_octoechos_cohort11_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 24,
+      "definition_markers_count": 24,
+      "text_markers": [
+        "[^146]",
+        "[^147]",
+        "[^148]",
+        "[^149]",
+        "[^150]",
+        "[^151]",
+        "[^152]",
+        "[^153]",
+        "[^154]",
+        "[^155]",
+        "[^156]",
+        "[^157]",
+        "[^158]",
+        "[^159]",
+        "[^160]",
+        "[^161]",
+        "[^162]",
+        "[^163]",
+        "[^164]",
+        "[^165]",
+        "[^166]",
+        "[^167]",
+        "[^168]",
+        "[^169]"
+      ],
+      "definition_markers": [
+        "[^146]",
+        "[^147]",
+        "[^148]",
+        "[^149]",
+        "[^150]",
+        "[^151]",
+        "[^152]",
+        "[^153]",
+        "[^154]",
+        "[^155]",
+        "[^156]",
+        "[^157]",
+        "[^158]",
+        "[^159]",
+        "[^160]",
+        "[^161]",
+        "[^162]",
+        "[^163]",
+        "[^164]",
+        "[^165]",
+        "[^166]",
+        "[^167]",
+        "[^168]",
+        "[^169]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1630_lviv_octoechos_cohort11_raw_draft.md",
+      "passed": true,
+      "paragraphs": 447,
+      "headings_count": 61,
+      "headings": [
+        {
+          "line": 3,
+          "level": 4,
+          "title": "[Left Page — Folio 100v]"
+        },
+        {
+          "line": 4,
+          "level": 5,
+          "title": "Column A"
+        },
+        {
+          "line": 17,
+          "level": 5,
+          "title": "Column B"
+        },
+        {
+          "line": 30,
+          "level": 4,
+          "title": "[Right Page — Folio 101r]"
+        },
+        {
+          "line": 31,
+          "level": 5,
+          "title": "Column A"
+        },
+        {
+          "line": 45,
+          "level": 5,
+          "title": "Column B"
+        },
+        {
+          "line": 61,
+          "level": 4,
+          "title": "[Left Page — Folio 101v]"
+        },
+        {
+          "line": 62,
+          "level": 5,
+          "title": "Column A"
+        },
+        {
+          "line": 68,
+          "level": 5,
+          "title": "Column B"
+        },
+        {
+          "line": 73,
+          "level": 4,
+          "title": "[Right Page — Folio 102r]"
+        },
+        {
+          "line": 74,
+          "level": 5,
+          "title": "Column A"
+        },
+        {
+          "line": 83,
+          "level": 5,
+          "title": "Column B"
+        },
+        {
+          "line": 96,
+          "level": 4,
+          "title": "[Left Page — Folio 102v]"
+        },
+        {
+          "line": 97,
+          "level": 5,
+          "title": "Column A"
+        },
+        {
+          "line": 104,
+          "level": 5,
+          "title": "Column B"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 101,
+        "max_leaf": 110
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 9 - 1630 Lviv Octoechos\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "total_queued_leaves": 5,
+    "unresolved_quarantines": 0
+  }
+}

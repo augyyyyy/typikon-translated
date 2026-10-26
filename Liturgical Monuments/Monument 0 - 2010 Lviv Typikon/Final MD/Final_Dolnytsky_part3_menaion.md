@@ -5174,3 +5174,457 @@ Everything – according to the rule of 24 June, however, by the decision of the
 ### 3.12.6 August: Deposition of the Sash of the Most Holy Theotokos
 
 Everything – according to the rule of the Deposition of the Robe 2. VII, here on p. 305-306.
+
+---
+
+### Notes
+
+[^241]: Thus is called the first day of the year, from the Latin indicere -- to proclaim, for on this day tributes were announced throughout the entire Roman state. Nilles, Calend. 1 Sept.
+
+[^242]: Synaxis (Συναξις), that is, a gathering of people for the solemn veneration of the miracle-working icon of the Most Holy Theotokos, which iconoclasts threw into the Gazoura or Zagoura lake at the Monastery of Miasena, not far from the city of Melitene in Armenia, during an attack; they found it undamaged after a long time (Synaxarion of the Greek *Menaion* on this day and Nilles 1 September).
+
+[^243]: The Greek-Venetian *Menaion* has the entire Matins – Great.
+
+[^244]: Pochaiv *Menaion* and Moscow Typikon.
+
+[^245]: Thus the Pochaiv *Menaion* and Moscow Typikon; but our liturgikons end the kontakia with the troparion of the Synaxis.
+
+[^246]: Thus the Pochaiv *Menaion* and Moscow Typikon, but Chapter 1 of Mark, which is in the *Tserkovne Oko*, in accordance with the general Greek typikon, Which does not have Sunday kontakia, gives only the Kontakion of the Indiction and the Saint alternating, that is on the 1st and 6th -- Indiction, on the 3rd and 9th -- to the Saint.
+
+[^247]: According to the rule of the *Menaion* (8 September, at the end) the entire service to the Saint is also taken; however, with us, for a Saint without Polyeleos it is usually not taken; just as the sequential Apostle-Gospel; for if one is already taken, there is no need to take [another], except in cathedral churches, at sung Liturgies.
+
+[^248]: Rule of the *Menaion* 8 September.
+
+[^249]: *Menaion* 13 September.
+
+[^250]: *Menaion* 7 September. According to the ancient rule -- also the entire service to the Saint.
+
+[^251]: *Tserkovne Oko* and *Menaion* 8 September.
+
+[^252]: *Menaion* 15 September.
+
+[^253]: *Menaion* 12 September.
+
+[^254]: This renovation, in Greek Εγκαίνια /renovation/, in Latin Dedicatio, or Dedication of the temple of the Resurrection of Christ, built in Jerusalem on Golgotha under Emperor Constantine in the year 335.
+
+[^255]: The *Tserkovne Oko* and our handwritten typikon do not give this first kontakion of the Renovation. But the Greek-Venetian *Menaion* gives it after the 6th ode; also we do not find the kontakion of the Cross, nor the kontakion of Cornelius in any edition, but only in our horologion and the Greek one of the Propaganda, and of the cross also in the *Tserkovne Oko*; the well-written typikon of the XVII century of the Lviv University library (1. N. 4), our handwritten typikon and the Greek-Venetian *Menaion* do not give either a troparion or a kontakion to the saint.
+
+[^256]: The *Tserkovne Oko* (in the menologion, fol. 268), and after it the Moscow Typikon (fol. 54, on the reverse) give at the hours only the Troparion of the Renovation and Glory: to the Forefeast, kontakia to the Renovation and to the Forefeast -- alternating, and to the saint -- nothing. We think that this rule will be good if the saint does not have a troparion and kontakion. In those editions where a troparion and kontakion to the saint are given, there is no reason not to take them at the hours.
+
+[^257]: Thus we consider; for in the case when the typikon does not give the Kontakion of the Forefeast, this one is added later.
+
+[^258]: Title XI. p. 4. b.
+
+[^259]: More simply, according to the ancient rule, the cross with basil is placed on a tray. Today's Greeks more often, instead of basil, place flowers under the cross.
+
+[^260]: According to the Slavic typikon -- also a phelonion.
+
+[^261]: According to our custom -- on a pillow.
+
+[^262]: *Menaion* 14 September.
+
+[^263]: In the Greek Typikon and the Slavic one of the Lviv University nothing is said about this bringing out of the precious Cross, except the Troparion "Save, O Lord"; Απέρχεται ο Ιερεύς και ο Εκκλησιαρχης συν τω Κανδηλαπτη εν τω σκευοφυλακιω μετά λαμπάδων και θυμιατών, και λαμβανουσιν το τιμιον ξυλον του Σταυρου, ψάλλοντες και το Τροπαριον Σωσον Κύριε τον λαον σου, και φερουσιν εις την Εκκλησιαν, και επιτνθεασιν αυτό επάνω της αγίας Τραπέζης, και απτει κηρος έμπροσθεν αυτό επάνω της αγίας Τραπέζης, και απτει κηρος έμπροσθεν δι όλης της νυκτός/The Priest and the Ecclesiarch with the lamp-lighter go to the sacristy with candles and censers and take the precious wood of the Cross, singing the troparion "Save, O Lord, Thy people", carry it to the church and place it on the holy table, and a candle is lit before it for the whole night/. (14 September). The beginning is usual and other preparatory prayers, that is Trisagion with "Our Father", as later Slavic typikons give, longer than this entire order, for it consists only of one Troparion of the Cross, and with the Slavic addition, also of a Kontakion.
+
+[^264]: Ancient Greek typikons mention nothing about a Deacon, neither at the bringing out, nor at the exaltation, nor at the laying of the precious Cross, but only about one priest. The Greek typikon, similarly to the Slavic ones, prescribes for the Priest to vest in all priestly vestments: αλασσει ο Ιερεύς πασαν την ιερατικην στολην /the Priest vests in all priestly vestments/. The Greek *Triodion* (Sunday of the Veneration of the Cross) and the new Constantinopolitan Typikon, similarly to Slavic typikons, prescribes for the Priest to enter with the cross from the sanctuary to the temple through the northern doors: εκ του αριστερού Βήματος /from the left side of the sanctuary/. Greek typikons, with the exception of the new Constantinopolitan, and the Slavic of the Lviv University, prescribe for the Priest, having exited from the sanctuary to the temple, to head to the entrance doors that lead from the temple to the narthex, which are sometimes called royal, and there await the end of the Doxology and from there exclaim "Wisdom, attend", and then head to the tetrapod, which is before the iconostasis. Although these doors are called royal, βασιλικαι /royal/, one must understand that they were called so in the past. Today we call royal the middle doors of the iconostasis, which according to ancient custom are called holy: αγιαι ΰυραι /holy doors/ (chapter 96, Greek Typikon).
+
+[^265]: According to the Slavic typikon or, speaking more precisely, according to the Pochaiv *Menaion*, according to the Moscow Typikon and according to the *Tserkovne Oko*, the Deacon sings the whole litany, and the Priest sings nothing. And the censer, which with us the Priest holds with the cross, it would be better for the Deacon to hold and cense, as the new Constantinopolitan Typikon and the *Tserkovne Oko* prescribe on 14 September.
+
+[^266]: From the aforesaid we see that with us, according to the Typikon of the Lviv University, the Priest turns first to the east, then to the north, after that to the west, to the south and again to the east. According to general Slavic typikons: to the east, to the west, to the south, to the north and again to the east. According to the Greek Typikon: to the east, to the south, to the west, to the north and again to the east. The new Constantinopolitan Typikon prescribes as with us.
+
+[^267]: The rule of the *Triodion* of the Sunday of the Veneration of the Cross prescribes for the Priest before the veneration to open the reliquary of the cross: και ανοιξας την ύηκην /and, having opened the repository/, and in the Typikon of the Lviv University: "And after the opening of the reliquary of the cross". From this it follows that they had particles of the precious Cross in monasteries. The Greek Typikon and two handwritten Slavic ones that you have, do not prescribe for the Priest to sing separately "Before Thy Cross", but for the choirs; nor to bow to the precious Cross to the ground; for only the *Tserkovne Oko* prescribes this on 14 September.
+
+[^268]: The Greek Typikon prescribes before the kissing of the Cross three prostrations, and after the kissing -- one; and Slavic ones -- before the kissing -- two, and after the kissing -- one; however, today we make only one before and one after the kissing. Also the Greek Typikon, having discarded both last litanies, immediately after the veneration gives the dismissal: Ψαλλομενης δε της μεγάλης δοξολογίας, αλασσει ο Ιερεύς πασαν την ιερατικην στολην, και εισέρχεται μετά του θυμιατού, προηγουμένων των λαμπάδων, εν τη αγία Τρεπεζη, και Ουμιων τον αγιον σταυρόν σταυροειδως, αίρει αυτόν μετά δίσκου επί καιφαλης, και προπορευόμενων δυο λαμπάδων, φέρει αυτόν μέχρι των βασιλικών πυλών του ναού, κακεισαι ισταται. Και πληρουμενης της δοξολογίας και του τρισάγιου, λέγει ο Ιερεύς μεγαλόφωνος: Σοφια ορθοί. Και αρχόμενα του τροπαρίου Σωσον Κύριε, και ούτως εισοδευει μετά του αγίου σταυρού, και ούτως ευτρεπισμενου τετραποδιου, τνθεται ο τίμιος σταυρός επάνω αυτού, και Ουμια ο Ιερεύς σταυροειδως. ЕІ6 ούτως βολών μετανοίας τρεις, καν ποια εστίν ήμερα, και λαβών ανά χείρας τον τιμιον σταυρόν γυμνον μετά βασιλικών κλάδων, ισταται έμπροσθεν του τετραποδιου, βλέπων κατ ανατολάς, και λέγει εις επηκοον πάντων: Ελεησον ημάς ο Θεός. Και αρχόμενα της πρώτης εκατοντάδας το Κύριε ελεησον, σφραγίζοντας του Ιερέως εν ταις εναρξεσιν μετά του αγίου σταυρού. Είτα κλίνει την καιφαλην όσον σπιύαμην από της γης, και καταμικρον ανισταται άχρι συμπληρωσεος της εκατοντάδας. Ηνικα δε φθάσει ενς το 97 Κύριε ελεησον, υψοι την φωνην ο Εκκλησιαρχης, ήγουν το Κύριε ελεησον τρις, και αισθομενος ο Ιερεύς τέλος λαμβάνειν την εκατοντάδα, σφραγίζει πάλιν τρις. Είτα στραφείς επί το νοτιον μέρος, λέγει: Ετι δεομεβα... και αρχόμενα της δευτέρας εκατοντάδας, και ποιεί ο Ιερεύς την δεύτερον υψωσιν, ως προγεγραπται. Ειύ ούτως στραφείς επί δυσμάς λέγει: Ετι δεομεθα, και αρχόμενα της τρίτης εκατοντάδας. Πληρωμένης δε αυτής, στρέφεται ο Ιερεύς επί το βορειον μέρος, και λέγει: Ετι δεομεθα... και γίνεται η τετάρτη υψωσις. Και ούτως στρέφεται ο Ιερεύς κατ ανατολάς, και λέγει: Ετι δεομεύα... και αρχομεΟα της πέμπτης εκατοντάδας. Μετά δε την πεμπτην υψωσιν ψαλλομεν το Κοντακιον Ο υψωθείς. ЕІІ9 ούτως: Τον σταυρόν σου προσκυνουμεν Δέσποτα τρεις. Ψαλλόντων δε των αδελφών, αποτι6ισιν ο Ιερεύς το τιμιον ξυλον εν τετραποδιω, και αρχόμενα προσκυνειν, ο τε Ιερεύς, και ο Προεστως, ποιουντες και μετανοίας τρεις κατενωπιον του τυμιου σταυρού, είτα ασπάζονται. Και μετά το ασπαζαστ)αι βαλλουσιν μιαν μετανοιαν; ειΰ ούτως εις τους χορούς δεξιά και αριστερά. Είτα εισέρχονται οι αδελφοί δυο δυο κατά ταξιν, και προσκυνουσι και ασπάζονται ομοίως. Ψαλλομεν δε και τα στιχηρα ιδιομελα, αχρις ουν προσκυνουσιν οι αδελφοί, εις ηχον β το Δεύτε πιστοί. Και μετά το προσκυνησαι παντός λέγει ο Ιερεύς: Σοφια, και Απολυσις /During the singing of the Great Doxology the Priest vests in all priestly vestments and proceeds with the censer, preceded by candle-bearers, to the holy table. Having censed the holy cross crosswise, he takes it with the diskos on his head and, preceded by two candle-bearers, carries it to the royal doors of the temple, remaining there. At the end of the Doxology and Trisagion, the Priest loudly exclaims: "Wisdom, attend!" and we begin the troparion "Save, O Lord". The Priest enters with the holy cross and places the precious cross on the prepared tetrapod, having censed it crosswise. Then, having bowed three times, whatever day it may be, he takes into his hands the precious cross, wrapped with basil branches, stands before the tetrapod, looking to the east, and says so that all can hear: "Have mercy on us, O God". And we begin "Lord, have mercy" of the first hundred, and the Priest at the beginning blesses with the holy cross. After this he bows his head to, approximately, a quarter of a meter from the ground and gradually rises until the end of the hundred. When "Lord, have mercy" is sung for the 97th time, the Ecclesiarch raises his voice. Then "Lord, have mercy" is sung three times, and the Priest, noticing that the hundred is coming to an end, again signs three times with the cross. Then he, having turned to the south, says: "Again we pray" and we begin the second hundred, and the Priest performs the second exaltation of the cross, as prescribed. Then, turned to the west, says: "Again we pray" and we begin the third hundred. At the end, the Priest turns to the north and says: "Again we pray" and the fourth exaltation takes place. Then the Priest turns to the east and says: "Again we pray" and we begin the fifth hundred. After the fifth exaltation we sing the Kontakion "Thou Who Wast lifted up" ("Voznesyisya"). Then "Before Thy Cross" is sung three times. While the brethren sing, the Priest places the precious cross on the tetrapod and we begin to venerate. The Priest and the Superior, having bowed three times before the precious cross, kiss it. After kissing they bow once. Also those in the choirs on the right and left. Then the brethren approach two by two, according to rank, bowing, simultaneously and kiss. We sing the stichera idiomesa, while the brethren venerate, in Tone 2 "Come, ye faithful". And when all have finished venerating, the Priest exclaims: "Wisdom!" and the dismissal follows/ (14 September).
+
+[^269]: Thus our menaia and Moscow Typikon (15 September). And when the typikons say nothing about the sequential Apostle and Gospel, then, however, they can be taken in the second place, as on the Apodosis of the feast 21 September, when it falls on a Sunday, and when -- not, then even on the Apodosis of the Exaltation not to take the sequential ones, so that there would be a certain coordination of rules.
+
+[^270]: *Menaion* 15 September.
+
+[^271]: Eparchial News. 4 September 1898, part XVI, p. 149.
+
+[^272]: Thus our Pochaiv *Menaion*, *Tserkovne Oko* and Moscow Typikon. But our liturgikons, horologia and the Greek-Venetian *Menaion* of 1755 prescribe to take the Service of the Holy Fathers on the Sunday following 11 October; one must understand, that when 11 October falls on a weekday; similarly in the latest Greek-Venetian *Menaion* (1884) and in the new Constantinopolitan Typikon, where it is prescribed to take on the very day of 11 October, if Sunday, if -- not, then on the following Sunday. What shall we say to this? We consider that all these rules are good, however, it is not good when liturgical books of one and the same church province give uncoordinated rules. For when we accept the rule of our *Menaion*, then let it be placed also in the liturgikons And in the horologia, for when we accept the rule of the latter, then let It be also in the *Menaion*. And if we adhere to the rule of the *Menaion*, then it is necessary to present it already on 8 October, so that, reading, one can notice about the Following Sunday. This must be understood also about the Service of the Holy Fathers of the First Six Councils on 16 July, which the menaia both ours and Greek, Prescribe to transfer back, to 13 July, if it falls on Wednesday; the Greek menaia present this not in accordance with their rule on 11 October, when they prescribe to transfer this service from 16 July back, they have to transfer it back also from 11 October. It seems to us, And it would be simpler not to transfer these services back, but to take on the very [days of] 11 October and 16 July, when they fall on Sunday, if -- not, on the following Sunday.
+
+[^273]: According to the rule of our *Menaion*, Moscow Typikon and *Tserkovne Oko*, first everything -- to the Earthquake, and then -- to the Saint. In the Greek-Venetian *Menaion* of 1755 Prokimenon, Apostle, Alleluia, Gospel and Communion Hymn -- only to the Saint, and in the latest, of 1884, first -- to the Saint, and afterwards -- to the Earthquake. In the new Constantinopolitan -- Troparia of the Earthquake, and everything else -- only to the Saint. According to the general Slavic typikon, which is adhered to only in cathedral churches, before the Apostle-Gospel of the Saint, the Apostle-Gospel also of the day is taken.
+
+[^274]: Thus the typikons both Greek and Slavic, but since the latter are taken from the Greek ones, which generally do not have Sunday kontakia, and Slavic ones do, we think that Slavs should take also the Sunday Kontakion alternating with the others, that is on the 1st -- Resurrectional; on the 3rd -- of the Earthquake; on the 6th -- to the Saint; on the 9th -- again Resurrectional.
+
+[^275]: According to the rule of our *Menaion*, Moscow Typikon and *Tserkovne Oko* -- / Resurrectional Troparion, of the Earthquake and of the Saint. Resurrectional Kontakion, Glory: to the Saint, Both now: of the Earthquake. Everything else -- to the Earthquake, and afterwards -- to the Saint; Apostle-Gospel -- sequential, under the Prokimenon (zaspiv). The Greek *Menaion* of 1755 gives nothing of the Earthquake.
+
+[^276]: It would be better to transfer it to 12 November, so that with the change of the calendar there would be no confusion in new editions of church books. For already this year, 1900, the day 31 October corresponds not to 12, but to 13 November.
+
+[^277]: Some consider, according to the edition of the Peremyshl Typikon of 1870, p. 271, that neither on St. Michael, nor on St. Prophet Elias, should *“Blessed is the man”* be sung and, that then not a single kathisma is taken, for this kathisma, as the publisher writes about it, is found only in the Pochaiv Anthologion, and in the most ancient menaia and Anthologia they are not mentioned; the reason for this is considered to be that "Elias did not die, and St. Michael, as bodiless, is not subject to death". However, this is not enough. For regarding the rule, not only the Pochaiv Anthologion (Anthologion) of 1777 and the Pochaiv *Menaion* of the same year, but also the Lviv Anthologion (Anthologion) of 1643 and the Great Typikon, under the title *Tserkovne Oko*, printed in Moscow in 1615, that is more than a century and a half before the Pochaiv Anthologion, and the manuscript Anthologion of 1736, which we have, and the Typikon of the All-Russian Church, printed in Moscow in 1859, by the decision of its Governing Synod, give also on these two feasts the kathisma *“Blessed is the man”*. Although some rules, like the Moscow *Menaion* of 1782, the Greek-Venetian of 1884 do not give *“Blessed is the man”*, it does not follow from this that no kathisma is needed, for even on Saints without Polyeleos in the *Menaion* a kathisma is not given, but the sequential one is meant; so here one can understand the sequential one, which three ancient handwritten Slavic typikons give: one -- of the Lviv University, the second -- of St. Onuphrius in Lviv, and the third -- of the library of the Chapter of St. George; also *Tserkovne Oko* (which gives two rules: one with *“Blessed is the man”*, and the second with the sequential kathisma). The reason that these rules give for these two feasts a sequential kathisma, may lie in the fact that their service initially had neither All-Night Vigil nor Polyeleos, but gradually, with time, grew into All-Night Vigil. About St. Elias it is written in the Pochaiv *Menaion*: "Let it be known that in printed Greek menaia, in handwritten typikons, and also in Slavic handwritten and printed typikons, the service of the Prophet Elias is given on 6, with *Octoechos*". And regarding St. Michael, the above-mentioned Slavic typikons give him a service only of the Polyeleos type, but incomplete, for they partially combine his service with the service of the *Octoechos*, as for a Saint without Polyeleos.
+
+[^278]: According to the known general explanation of the Sacred Congregation of Indulgences, in the usual expression: Pater et Ave, the number e. g. 7 or 5, standing only before Pater, refers also to Ave. See e. g. Decrees of the Sacred Congregation of Indulgences of 22 March 1847, about the pious order of St. Joseph the Betrothed.
+
+[^279]: We find the Service of St. Catherine as having Polyeleos only in our Pochaiv *Menaion* and in the new Greek-Venetian one; but in others -- without Polyeleos. In later Greek typikons we find it given on 25 November with the Apodosis of the Feast of the Entry into the Temple of the Most Holy Theotokos, and in earlier ones -- on the 24th, as it is today among Greek-Slavs. Thus the Greek-Venetian *Menaion* of 1615 gives: Σημειωσαι ουν, ότι ευρομεν εν τισι Τυπικοις των νεωτέρων, ότι εν τιοα των πόλεων ψαλλεται η ακολουθία της αγίας μάρτυρος Αικατερίνης εν τη κε του μηνός, εν η και αποδιδοται η εορτή. Εν ετεροις δε Τυπικοις παλαιοτεροις ευρομεν αυτήν εορτάζεσαι εν τη κδ του αυτού μηνός: εν δε τη κε ψαλλομεν την ακολουθίαν του εν αγιοις Κλημεντος Παπα Ρώμης, και Πέτρου Αλεξανδρείας, εν η και αποδιδοται η εορτή των Εισοδιων /Note, therefore, that we found in some newer typikons, that in some places the service of the holy martyr Catherine is sung on the 25th day of this month, on which the feast is also given up. In other older typikons we found that her memory is celebrated on the 24th of this month, and on the 25th we sing the service of Saints Clement Pope of Rome and Peter of Alexandria, and on this day also the feast of the Entry is given up/. This transfer from the 24th to the 25th day, in the opinion of the Greeks, as explained by the new Greek-Venetian *Menaion* (24 November, p. 158), was done at the wish of the monks of Mount Sinai, so that it would not coincide with the Apodosis of the feast and, so that in this way the memory of the saint would be honored more solemnly. For we know that the body of the holy great martyr was transferred by angelic power to Mount Sinai and buried there.
+
+[^280]: In the typikon there is nothing about the hours, so we give it ourselves, taking the kontakia alternatingly, following the model of the rule of 1 September, when it falls on a Sunday.
+
+[^281]: However, regarding the troparia, if there is only one troparion for both, then there will be the troparion according to the rule of one saint, and if there is a separate one for each, then there will be according to the rule of two saints.
+
+[^282]: The ancient handwritten *Menaion* that we have gives the stichera of the Praises only to Peter; and the handwritten typikon -- stichera of the Praises to Peter, and afterwards -- the Aposticha of the feast.
+
+[^283]: The Moscow Typikon prescribes to take the refrains of the odes; but since we limit the odes now to Great Lent, we take here the refrain according to the title and name of the saint, with the addition "Pray to God for us". Also the Oko gives: "and to the saints we sing the refrain by name".
+
+[^284]: Where there is only one troparion for both, there will be their troparion, also Glory, Both now: of the feast.
+
+[^285]: According to the ancient rule the troparion of the saints is taken with Glory, also on the 1st and 6th hours; but with us today -- only the one of the day.
+
+[^286]: 4 *Tserkovne Oko* and Moscow Typikon.
+
+[^287]: According to the Moscow Typikon -- troparion and kontakion also to the saint. According to our handwritten typikon -- Resurrectional troparion and of the feast; Glory, Both now: kontakion of the feast.
+
+[^288]: Without Polyeleos and with *Octoechos*, as it is in previous typikons, or with All-Night Vigil, as it is in our Pochaiv *Menaion* and in the handwritten *Anthologion* of 1736, which you have.
+
+[^289]: Pochaiv *Anthologion* and Moscow Typikon 11 December.
+
+[^290]: Our Liturgikon, in the rule before the 32nd Sunday, also the Greeks, directly before the *Triodion* take the Sunday about Zacchaeus, however, only in four cases, that is if between the Sunday after the Enlightenment and the *Triodion* there is either one Sunday, or two, or three, or four; and if there is one Sunday, then on this Sunday they take with the Slavs the 32nd Sunday (with the Greeks -- 15 of Luke) about Zacchaeus; if there are two Sundays, then they take first the 29th (with the Greeks -- 12 of Luke) about the ten lepers, and also the 32nd about Zacchaeus; if there are three Sundays, they take 29, 32 and 17 of Matthew, which is about the Canaanite woman; if four, then they take 29, 30 and 31 about the blind man and 17 of Matthew. (Thus have the Ευαγγελισταρια /Evangelistarion/ of the Greeks; thus also Leo Allatius in Assemani, Calend. Univ. Eccl. Tom. VI. Pag. 516.
+
+[^291]: Our Liturgikon in the above-mentioned place.
+
+[^292]: Rule before the 29th Sunday.
+
+[^293]: Thus both our liturgikons, Pochaiv ones and others, that are reprinted from them, give six cases of Sundays between Theophany and the *Triodion*, according to the number of the six columns of boundary keys, beginning from the last to the first column, from the 29th sequential Sunday to the 32nd (Peremyshl edition, p. 226, 231, 236, 241).
+
+[^294]: The Pochaiv Liturgikon and those from it, in the rule on 7 January; also the Moscow Typikon on 7 January prescribes to discard the superfluous ones.
+
+[^295]: In the Typikon of the Lviv University: "At the wish of the Superior we sing *“Blessed is the man”* and Polyeleos".
+
+[^296]: Thus *Tserkovne Oko* in chapter 114 of Mark; but our and Russian typikons give also the Resurrectional Kontakion; however, if at the Liturgy the Resurrectional Kontakion is not prescribed, then why is it prescribed here? **
+
+[^297]: According to the ancient rule the service is taken also to the saint, if he has one, and the Apostle and Gospel -- first to the Saturday before the Nativity of Christ, sequential, according to the Slavic typikon are taken under the Prokimenon (zaspiv) of the Saturday before the Nativity of Christ (Menaion 18 December and Moscow Typikon).
+
+[^298]: Thus the Pochaiv *Anthologion* on the Sunday of the Forefathers, fol. 200, on the reverse, and on the Sunday of the Fathers, fol. 215; also the Moscow Typikon, fol. 119 and 129. In Greek typikons and our Slavic handwritten one we do not find the Sessional hymn of the Fathers.
+
+[^299]: Sequential ones, according to the rule of the *Menaion*, are not taken; and according to the Moscow Typikon, also on the Forefathers.
+
+[^300]: The Typikon is silent here; but we borrow it from 24 December, when it falls on a Sunday.
+
+[^301]: Thus the Pochaiv *Menaion* and Moscow Typikon. Regarding the troparia, our liturgikons correctly prescribe the Troparion of the Forefeast in the second place, for so they are taken on the Sunday of the Fathers, which is before the Descent of the Holy Spirit; however, there is no need to adhere to this, for the Troparion of the Fathers can be considered not of the Lord. Regarding the kontakia, our horologia do not have the Kontakion of the Fathers and give a separate Kontakion to the Forefeast, in which the Holy Fathers are mentioned.
+
+[^302]: The table, which is at the end of new liturgikons, also erroneously gives the Apostle-Gospel of the Eve, not taking into account the Liturgy of the Eve on Sunday, which is dedicated to the Holy Fathers, and therefore it is not good to discard their Apostle-Gospel.
+
+[^303]: *Menaion* 20 and 31 December, but in any case not on the Apodosis of Theophany.
+
+[^304]: Pochaiv *Menaion* 22 December.
+
+[^305]: *Menaion* 20 December.
+
+[^306]: The Hymns "Let us sing to the Lord", which are at the end of the Psalter, the rule of the *Menaion* on 20 December prescribes not to take from 20 December to 14 January; however, today we do not take them not only in this interval, but generally throughout the whole year, with the exception of Great Lent.
+
+[^307]: For the Greek typikon is silent, and the Slavic ones -- clearly prescribe: "There is no Liturgy on this day" (Menaion 25 December).
+
+[^308]: Lviv Synod, Title IV, § 1, part 2; and Title VI, chapter VI, part 4.
+
+[^309]: 2 In the patriarchal Constantinopolitan church all hours are read together, περί α. ωραν της ημέρας/around the 1st hour of the day/, but without the Typika (Typikon, 1884). According to the rule of the Greek Typikon the First Hour is combined with Matins, and the others, on the Eve of the Nativity of Christ, are sung περί ωραν ζ /around the 7th hour/, on the Eve of Theophany περί ωραν εκτην /around the 6th hour/; when from the Eve they are transferred back, to the previous Friday, then they are sung γεννομενης εννατης /at the beginning of the ninth hour/. In various Russian monasteries, mentioned by the *Tserkovne Oko*, the first two Hours are sung "at the second hour of the day", and the other two with "The Typika" at the fifth hour of the day. Thus also Lviv typikons, but Hours I and III -- at the first hour of the day; according to the rule of our *Menaion* and Moscow Typikon, all Hours are combined with "The Typika", and begin at the beginning of the second hour.
+
+[^310]: Title IV, Chapter II. I, part 15.
+
+[^311]: Typikons of some Russian monasteries, given by the *Tserkovne Oko*, prescribe for the Deacon at each Hour to sing three litanies, that is "In peace let us pray to the Lord" at the end of the tripalm, the Small Litany before the Prokimenon and "Let us complete" after the singing of the Gospel. This is not enough for Greek length and with unnecessary additions the Greeks distort the form of the Hours, handed down to us from the beginnings; also ancient Lviv typikons add litanies.
+
+[^312]: According to Slavic typikons the Priest and deacons must stand before the analogion throughout the entire service: the Priest -- vested in a phelonion, and the Deacon -- in a sticharion.
+
+[^313]: In general Slavic typikons "O come, let us worship" with the preceding "Lord, have mercy" (12) and "Glory, Both now" is not mentioned, but is meant; for in the Greek ones they are unequivocally given, as also in some Slavic ones.
+
+[^314]: In Slavic typikons these stichera are called troparia, and in Greek -- idiomesa Ιδιομελα /idiomela (idiomesa)/.
+
+[^315]: Thus has our Pochaiv Menaion. According to the Lviv *Anthologion* of 1643 and according to the handwritten festal Menaion of 1736 this stichera is sung once by the canonarch, with the refrain "Glory", and also "sweetly with humility both choirs, the first -- one line and the left -- the same", after that, at the end -- Both now: the whole stichera once. The Greek-Venetian Menaion, similarly, as in ours, however, gives "Glory" for reading by the canonarch. Other typikons give also the third stichera, only twice; however, the new Constantinopolitan Typikon and the Greek-Venetian Menaion give before it the refrain "Glory, Both now", and also the stichera, which the canonarch reads ευλαβως και μεγαλοφωνως (Μηνεα: μετά μέλους) /piously and in a loud voice (Menaion: with melody)/, and at the end -- the second time the same stichera, both choirs together. Russian typikons prescribe to take this stichera once without a refrain, which the canonarch or Deacon reads, adding the Many Years to the Emperor, in Constantinople: λέγει το εγκωμιον του Πατριάρχου/reads the encomium of the Patriarch/. The verse "We worship Thy Nativity" is sung three times, according to the typikons of distant Russian monasteries, sung each time higher, and the highest -- "Show us also Thy divine Theophany", as is written in the *Tserkovne Oko*.
+
+[^316]: In Greek typikons nothing is said about the vestments of the sacred ministers, nor about the censing. Our *Menaion* and the Moscow Typikon give censing at the beginning of each Hour, only at the 9th Hour they give censing before the Prokimenon.
+
+[^317]: The ancient Lviv *Horologion* gives the dismissal of the feast, however, since in all other cases dismissals of feasts begin with Vespers of the feast, rightly the *Tserkovne Oko* and Pochaiv *Menaion* give "dismissal of the day", with commemoration, as it seems to us, also of the saint who falls on this day.
+
+[^318]: According to our most general and Russian typikons, Vespers with the Service of Basil on the Eve of the Nativity of Christ begins at the seventh hour of the day (At one in the afternoon), and on the Eve of Theophany -- at the fifth hour of the day (at eleven before noon, according to the present calculation); but according to other most ancient typikons in both cases: περί ωραν δεκατην της ημέρας/around the tenth hour of the day/ (at four in the afternoon). All-Night Vigil according to the general Slavic [typikon], among which also *Tserkovne Oko* -- at the tenth hour of the night (that is in the morning); according to others, the most ancient, on the Eve of the Nativity: περί ωραν πρωτην της νυκτός /around the first hour of the night/, and Theophany: περί ωραν δεύτερον της νυκτός /around the second hour of the night/. In the Constantinopolitan Patriarchate Vespers begins immediately after the ninth Royal Hour.
+
+[^319]: According to the Slavic typikon and according to the Greek Typikon the Priest serves the Proskomedia when *“Lord, I have cried”* begins.
+
+[^321]: In the Greek-Venetian *Menaion* -- five.
+
+[^322]: The new Constantinopolitan Typikon of the Patriarchate prescribes only three readings, and after the first and after the second readings -- separate troparia with verses, about which we have spoken.
+
+[^320]: At the Service with Vespers the Greek-Venetian *Menaion* of 1755 and the new Constantinopolitan Typikon after "Blessed is the Kingdom" has "Blessed is our God" and before "O come, let us worship" -- Trisagion with "Our Father". *Tserkovne Oko* and our and Russian menaia have everything as we have presented in the text.
+
+[^323]: Thus Greek agnostiki and our menaia at Great Compline of the Nativity and Theophany prescribe for the Deacon to exclaim before "Blessed is our God".
+
+[^324]: Thus *Tserkovne Oko* and our and Russian typikons; but Greek typikons and the Ostromir Gospel give the Gospel according to Luke, zaspiv 5: "And it came to pass in those days, that there went out a decree from Caesar Augustus", also our horologia; the same Gospel as at Vespers with the Service of Basil, as happens on the Eve of Theophany; and so it is better, for it relates more closely to the feast. Furthermore, if the Eve falls on a Saturday, then at the Liturgy there will be the Gospel of the Saturday before the Nativity according to Luke, zaspiv 72, also about the mustard seed.
+
+[^325]: There is no custom for the Deacon to read the Gospel, with the exception of the Liturgy, but the Priest reads, as was noted also at the Royal Hours.
+
+[^326]: Slavic typikons give the censing immediately after "Blessed is our God", which the Priest performs, vested in a phelonion; but according to our custom, the censing takes place before "Blessed is our God", which the Priest performs only in an epitrachelion or deacons in dalmatics, if there be [any], as the Lviv Synod has in appendix 36.
+
+[^327]: The Greek *Horologion*, which we have, gives this verse at the end only once, which both choirs sing together; according to others -- one choir once, then -- both choirs together once. And they prescribe to sing only in Great Lent, in tone 8, and outside the Forty Days -- to read fast without singing: χυρα και άνευ μέλους/fast and without singing/.
+
+[^328]: To sing only the end of the troparion after each subsequent verse; we find also in the Troparion, which is sung with verses between the readings of Vespers of the Nativity of Christ and Theophany.
+
+[^329]: Lviv Synod in appendix 36.
+
+[^330]: Similarly also *Tserkovne Oko* in chapter 29: "And from the Nativity of Christ until the day of Holy Theophany to eat cheese and eggs, and milk, and meat on Wednesday and Friday, as one day; for this lasts 11 days". And again: "In the twelve days after the Nativity of Christ we allow everything".
+
+[^331]: Thus: "Christ our God, Who was born in a cavern... through the prayers of His Most Pure Mother and of the Holy Joseph the Betrothed, whose synaxis we brightly celebrate today, of the holy glorious and all-laudable apostles, and of the holy hieromartyr Euthymius, Bishop of Sardis, whose memory we celebrate today, and of all saints etc.".
+
+[^332]: Thus the *Menaion*; and about the troparia "Have mercy on us, O Lord" and the litany "Have mercy on us, O God" the *Menaion* does not mention, for they are not given in general editions of Greek horologia.
+
+[^333]: About this case the typikons are silent; but because the Synaxis of the Forerunner (7 January) can fall on a Saturday after Theophany, the typikons join his Synaxis to the Saturday after Theophany, and here it should be so.
+
+[^334]: The Moscow Typikon adds also the sequential (it is meant, if there is no dispensation); according to the ancient rule it would be necessary to add also to the saint, if he has something, however, for a saint without Polyeleos with us usually nothing is taken.
+
+[^335]: Rule of Slavic menaia at the end of 26 December, when the Nativity of Christ falls on Sunday.
+
+[^336]: In chapter 23 of Mark of the *Tserkovne Oko* and in the Moscow Typikon the sequential Apostle-Gospel of the Sunday -- under the Prokimenon (zaspiv); however, it is meant that there will be no dispensation.
+
+[^337]: Greek menaia and typikons give a rule only for two cases of Saturdays and Sundays between the Nativity and Theophany, that is: one -- for two Saturdays and two Sundays; the second -- for one Saturday and one Sunday, and for these one Saturday and one Sunday they give the following rule: Ει δε τύχη εν Σαββατον και μια Κυριακή, αναγινωσκεται τω μεν Σαββατω, Σαββατω μετά την Χρίστου γεννησιν, τη δε Κυριακή, Κυριακή προ των Φοτων /If there should happen to be one Saturday and one Sunday, on the Saturday is read that which is also on the Saturday after the Nativity of Christ, and on the Sunday that which is on the Sunday before Theophany/. And this rule is enough for the case of one Saturday with one Sunday, for then this Saturday falls during December (the 31st), and the Sunday -- during January (the 1st); however, it is not enough for one Saturday with two Sundays, nor for one Sunday with two Saturdays, for then this Saturday falls during January (the 1st), as in the seventh row, and the Sunday -- during December (the 31st), as this is in the 3rd row; and as it is not possible, according to the Greek Typikon itself, to read the Apostle-Gospel of the Sunday after the Nativity outside the feast of the Nativity, in January, but it must be transferred back, to 26 December δια το αρχήν λαμβάνειν τον Ιαννουαριον μήνα, και την των Χρίστου Γεννών εορτην αποδιδοσΟαι /because the month of January begins and the feast of the Nativity of Christ is given up/: so it is not possible to read the Apostle-Gospel of the Sunday before Theophany, within the feast of the Nativity, or the Apostle-Gospel of the Saturday after the Nativity to read in January. Therefore there is nothing strange that the Slavs supplemented their rules with what was lacking. However, the rules of our *Menaion* and the Russian ones, given on 26 December, for Saturdays and Sundays between the Nativity and Theophany, likely due to the negligence of copyists, in some places gave incorrectly and must be corrected, in our opinion, thus: The rule of the first case: "If the Nativity falls on a Sunday", then it should end thus: "as in the present section in the row it will appear, if the Circumcision and Basil fall on a Sunday" (as in the following case). The rule of the third case, "if the Nativity on Tuesday", then from the words: "And on Sunday" to the end, and should be: "And on Sunday, which is before Theophany, Prokimenon, Apostle, Alleluia and Gospel we read on the first day of January, as will be in the row, if the Circumcision and Basil fall on a Sunday". The rule of the fifth case from the words: "And on the second day Prokimenon, Apostle, Alleluia and Gospel we read first of the Sunday before Theophany, and then -- of the Saint" and everything that is there. The rule prescribes to read in this case at Matins two Gospels: one of the Sunday, and the second -- sequential, we do not know from where it has this, for besides one sequential Sunday Gospel at Matins we know not, because the Sunday before Theophany has nothing at Matins.
+
+[^338]: *Menaion* 31 December.
+
+[^339]: Also in Russia the official Church marks the beginning of the civil year, as Nikolsky writes about this in the "Manual": "On the 1st of January with us (from 1700 -- 20) the beginning of the new year is celebrated".
+
+[^340]: The Moscow Typikon gives the Aposticha to the Circumcision, even if there is a temple of Basil.
+
+[^341]: Since ancient typikons do not give All-Night Vigil, nothing is mentioned about the troparia at the blessing of loaves; but to sing: troparion to the saint once, Glory, Both now: to the feast, as the Pochaiv *Anthologion* has, does not correspond to the rite, according to which troparia are taken at the All-Night Vigil. -- "If there is no All-Night Vigil, at Compline -- Kontakion to the Saint, Glory, Both now: of the Feast". At Midnight Office, after the 1st Trisagion -- Troparion of the Feast; after the 2nd -- Kontakion of the Feast; we do not say the prayer "Remember", but "Lord, have mercy" (12) and dismissal. Thus in Slavic menaia.
+
+[^342]: Thus have later editions, namely ours Pochaiv and the Russian, and the most ancient Greek, namely Ευχολογιον /*Euchologion*/ of Benedict, and of the Slavic ones -- Ostromir Gospel, *Tserkovne Oko* and the manuscript give the Prokimenon only to the Saint, and the Apostle-Gospel -- only to the Circumcision, for the Prokimenon of the Feast and the Apostle-Gospel to the Saint -- is a later addition of the Slavs. However, now comes the time not of adding new, but of shortening ancient prayers. The ancient typikon has this: "Let the Gospel be taken at Matins to the saint, and at the Liturgy -- to the Circumcision".
+
+[^343]: Prescription for 26 December, Pochaiv and Moscow menaia.
+
+[^344]: Pochaiv and Moscow menaia in the prescription for 26 December.
+
+[^345]: Instead of "In Thee rejoiceth" our sluzhebnyky give the heirmos of the 9th ode of the canon of the feast.
+
+[^346]: From the rule of the *Menaion* and *Tserkovne Oko*, which we presented on [p. 175](Final_Dolnytsky_part3_menaion.md#sunday-after-the-nativity-of-christ), in the notes, one could conclude that on the Eve of Theophany there is no fast. However, from another rule of the same *Menaion* and *Tserkovne Oko*, given for the Eve of Theophany, it follows that on the Eve of Theophany there is exactly the same fast as on the Eve of the Nativity of Christ, with the exception of Saturday and Sunday, that is: with one meal and abstinence from dairy and fish, and on Saturday and on Sunday – with two meals, with the same abstinence. How this is reconciled, we do not see.
+
+[^347]: 1 We sing these troparia to idiomela, for in Greek typikons they are called Ιδιομελα /idiomela/.
+
+[^348]: 2 Ευχολογιον /*Euchologion*/ of Benedict ends this litany with the exclamation "For merciful"; and the Greek Ευχολογιον /*Euchologion*/ of Cardinal Julian in the Cryptoferrata monastery gives this litany in a shortened form.
+
+[^349]: These are the words of the *Euchologion* of Benedict XIV: Ιστεον ότι η παρούσα ευχή, ήγουν το Τριας υπερουσιε αναγινωσκεται μεν παρά τισιν; εν δε τη μεγάλη Εκκλησία (Царгородська), και εν τω αγιω Ορει ου λέγεται. £υ δε ει βουλει ταυτην ειπείν etc. /One must know that the present prayer, that is "O Trinity beyond all being" is read by some, but in the Great Church (Constantinopolitan) and on the Holy Mountain it is not said. But if you wish to say it etc./.
+
+[^350]: 1 We find nothing about the tri-candle either in Greek typikons, or in Slavic typikons of non-united Churches, but only in our Ukrainian ones. There exists a custom of many of our churches to use three tri-candles, one for each immersion. The typikon does not mention only one and, in this case, all three tri-candles are not immersed simultaneously, but one at each of the three exclamations of the words "Great Art Thou, O Lord", about which also Kulchynsky writes: Trinae candelae accensae immerguntur singulatim in aqua (Specim. Eccl. Ruth. Pars II ad 6 Jan.) /"Lit tri-candles are immersed one by one into the water" (Specimen of the Ruthenian Church, part II, on 6 January)/. Also about the immersion of fingers and blowing on the water Greek typikons are silent, but only Russian Euchologia mention the blessing with the hand.
+
+[^351]: Commemoration of the Most Holy Primate the Pope of Rome is given in the Pochaiv *Anthologion* of 1777. The Lviv Synod orders to commemorate thus (Title III, part 6, at the end).
+
+[^352]: *Tserkovne Oko* and menaia, ours and Russian.
+
+[^353]: In Greek typikons it is noted that the troparion "When in Jordan" is sung only once, and only the Priest himself sings it (Euchologion and *Menaion*). According to the *Tserkovne Oko* the Priest sings "When in Jordan" twice, and according to the Priest each time the same also the singers (fol. 517, on the reverse). According to our *Menaion* and the Moscow Typikon, the Priest sings the same with the priests three times, and at the end also the choirs. According to the Typikon of the Lviv University, the Priest sings once, and afterwards -- the choirs three times during the sprinkling. About the crosswise blessing of the water with the cross the Ευχολογιον /Euchologion/ does not mention, but the Greek-Venetian *Menaion* mentions, which gives: ευλόγων τα ύδατα σταυροειδως/blessing the water crosswise/.
+
+[^354]: Greek typikons order to sprinkle the temple, and our Euchologia -- also the Holy Table. Slavic menaia give the following rule about the sprinkling of monks: "And the Superior, having taken holy water in a bowl and turning his face to the west, holds with his left hand the precious Cross, and with his right -- basil, and sprinkles crosswise on all sides. Then the priests approach first, two by two, and kiss the precious Cross, and the Superior signs them with basil with holy water crosswise on the forehead; in the same way also all the brethren. All sing the troparion many times, until all the brethren are sanctified by the sprinkling with water and kissing". Similarly also the Constantinopolitan Patriarch signs with holy water the hierarchs and church dignitaries (Ορφικιουχους /officials/), as the new Constantinopolitan Typikon gives.
+
+[^356]: Typikons ours and Russian.
+
+[^355]: Thus typikons ours and Russian.
+
+[^357]: If there be no dispensation, our *Menaion* prescribes to read the sequential under the Prokimenon (zaspiv), that is in the second place together with the Sunday after Theophany, and also of the saint (according to the rule of the Afterfeast of the Nativity of the Most Holy Theotokos on the Sunday before the Exaltation).
+
+[^358]: The Moscow Typikon prescribes also the Prokimenon of the Feast in the second place; however, our *Menaion* does not contain it, for the Prokimenon of the Sunday after Theophany replaces the Prokimenon of the Feast. But the *Tserkovne Oko* prescribes the sequential Apostle-Gospel under the section (rozdil), it is meant that there will be no dispensation. The *Menaion* prescribes also to the Saint, if he has something, according to the rule given before for the Synaxis of the Forerunner here on [p. 201](Final_Dolnytsky_part3_menaion.md#7-january--synaxis-of-the-holy-glorious-prophet-forerunner-and-baptist-john); however, for a Saint without Polyeleos now with us nothing is taken. Our *Menaion* and the Moscow Typikon and another handwritten one that we have, prescribes the Communion Hymn first of the Feast, and also "Praise the Lord"; however, if on the Sunday after the Exaltation "Praise the Lord" is given first, and then -- of the Feast, then here too it should be so. Similarly happens also on the Apodosis of the Transfiguration and Dormition.
+
+[^359]: Our Liturgikon on the Sunday of the Publican.
+
+[^360]: The Constantinopolitan Τυπικον /Typikon/ prescribes to combine the service of St. Theodosius with the service of the Sunday and of the Feast; but since in this case three Apostle-Gospels coincide, that is of the Sunday after Theophany, of the Publican and of the Saint, Slavic typikons transfer the service of Theodosius to another day. And the mentioned Τυπικον /Typikon/ prescribes to take at the Liturgy the Apostle only of the Sunday after Jordan, the Gospel -- only of the *Triodion*, and to the Saint -- nothing.
+
+[^361]: Similarly also on the Publican with the Apodosis of Theophany, after the Kontakion of the Feast the Kontakion of the *Triodion* is taken with "Glory, Both now", here on [p. 204](Final_Dolnytsky_part3_menaion.md#359-january-apodosis-of-theophany).
+
+[^362]: *Tserkovne Oko* leaves the decision regarding the celebration of All-Night Vigil to the Superior.
+
+[^363]: For the Resurrectional stichera yields to this one and, all the more, the stichera of the Saints.
+
+[^364]: In the general Greek typikon there is no Resurrectional Kontakion.
+
+[^365]: Neither *Tserkovne Oko*, nor the Greek *Menaion*, nor the new Constantinopolitan Typikon, nor the Slavic manuscripts that we have, give the rule of the Three Hierarchs on the weekdays of Cheesefare week; from this it follows that the general rule, given in the text of their service, is taken without doubt also on the days of Cheesefare. Also on 24 February, when it falls on the days of Cheesefare, the Greek-Venetian *Menaion* (1884) prescribes the entire service -- only to the Saint.
+
+[^366]: Thus in our and Russian menaia; but the new Greek-Venetian *Menaion* does not prescribe to transfer the service of the Three Hierarchs to another day, but to take it on the same Wednesday and Friday with the Liturgy of Chrysostom.
+
+[^367]: Similarly also in the new Constantinopolitan Typikon the Forefeast is transferred back, to Friday; and in the new Greek-Venetian *Menaion* the service for the deceased is transferred to the Saturday of the Prodigal [Son].
+
+[^368]: Similarly the Pochaiv *Menaion*, Moscow Typikon 1 February and *Tserkovne Oko* (in chapter 35 of Mark); but we do not know from where at the Praises, at "Glory, Both now" to take the stichera of the Forefeast, for it is not good that this one, which is at the Aposticha of Matins, be repeated at the Praises; better let that be repeated, which is at the Aposticha of Vespers.
+
+[^369]: Rules of menaia ours and Russian; however, the Typikon of the Lviv University prescribes to the saint only two troparia.
+
+[^370]: According to *Tserkovne Oko* *“Blessed is the man”* is sung; our handwritten typikon allows to sing either *“Blessed is the man”*, or the sequential kathisma; the Greek *Triodion* prescribes the sequential kathisma, similarly also the Typikon of the Lviv University.
+
+[^371]: Rules of menaia ours and Russian give an entrance, however, this does not correspond to the rule of the *Triodion* of Cheesefare Saturday, in which an entrance is not given, nor is it prescribed to sing *“Blessed is the man”*. Rather one could assume an entrance if *“Blessed is the man”* is taken; however, even *“Blessed is the man”* by no means corresponds to a saint who does not have Polyeleos.
+
+[^372]: Menaia ours and Russian and *Tserkovne Oko* (in chapter 40 of Mark) here give: reading of the feast as if one, for the Greek *Menaion* has: τα Αναγνώσματα /readings/, and the Slavic handwritten typikon, which is with us, also: readings of the feast.
+
+[^373]: The handwritten typikon, which we have, and *Tserkovne Oko* in chapter 40 of Mark.
+
+[^374]: 3 Thus we find in all Slavic typikons.
+
+[^375]: On Cheesefare Sunday, if the Afterfeast falls, the Feast is given up, for on Monday the Fast begins.
+
+[^376]: Thus in chapter 43 of Mark, *Tserkovne Oko*, Pochaiv *Menaion* and Moscow Typikon; however, if there is to be uniformity in typikons, then we think that here too the 1st Theotokion of the tone should be according to the general rule of the Afterfeast of the Lord and the Theotokos, given at the end of the Pochaiv and Moscow *Octoechos* under the prescription about the temple of the Resurrection of Christ; and if -- not, then also in the Afterfeast of other feasts there should be a stichera of the Feast, which would be in greater conformity with ancient typikons, in which neither on the Forefeast, nor on the Afterfeast, nor on the Apodosis of the Feast is the Dogmatikon given on Friday evening, but only stichera of the Feast, regardless -- whether it is Saturday or another day of the week. (Our handwritten Typikon, chapter 20 and chapter 11 of Mark in the *Tserkovne Oko*), although general Slavic typikons on the Fore- and Afterfeast and on the Apodosis of the Feast give the Dogmatikon. Moscow Typikon 12 September, 24 March, 14 August; *Tserkovne Oko* 12 September, 21 September; Pochaiv *Menaion* 12 September; Typikon of the Lviv University, p. 87.
+
+[^377]: On Meatfare Sunday there will be no Apodosis, but it will be before that, on Meatfare Friday, for the service of the Feast with the service of the Last Judgment is not reconciled.
+
+[^378]: 2 On Wednesday and Friday there will be no Apodosis of the Meeting (it is written in the *Menaion*); if it were to fall on Wednesday, then it is given up on Tuesday; if on Friday, then it is given up on Thursday. And if on Monday, then it is given up on Meatfare Friday, as can be seen in the 1st row of the table of Apodosis. More simply our handwritten Typikon 2 February, in chapter 17 of Mark, and *Tserkovne Oko*, in chapter 46 of Mark, give only one rule for each day of Cheesefare Week, with the exception of Saturday, which we will give for Cheesefare Tuesday and Thursday, on [p. 229-230](Final_Dolnytsky_part3_menaion.md#9-february--apodosis-of-the-meeting-in-cheesefare-week), only on Wednesday and Friday three great prostrations are made at the litany "Have mercy on us, O God", at the end of Vespers and Compline.
+
+[^379]: Thus, e. g. on the Apodosis of the Feast of the Entry into the Temple of the Most Holy Theotokos on Sunday.
+
+[^380]: Our ancient handwritten typikon and another of the Lviv University provide only one rule for any day of Cheesefare week without *“Blessed is the man”* on Sunday evening. And the new Greek-Venetian *Menaion* prescribes nothing from the *Triodion* during Cheesefare week, but only for the Forerunner.
+
+[^381]: Our and Russian general rubrics and the typikon of the Lviv University do not mention the entrance; but our handwritten typikon mentions it, and since even on the days of the Forty Days [Lent] the Finding of the Head of the Forerunner is not excluded, then all the more so during Cheesefare week.
+
+[^382]: Our handwritten typikon and another of the Lviv University prescribe to transfer the service of the Forerunner to another day, and to sing with the *Triodion*, as also on fast days of other weeks. Also *Tserkovne Oko* 24 February; and in chapter 61 of Mark -- to transfer to Cheesefare Sunday only from Monday.
+
+[^383]: Our handwritten typikon gives the second reading of the *Triodion* with its Prokimenon after the three readings to the Forerunner.
+
+[^384]: Only our and Russian typikons prescribe to discard the Entrance, but on Cheesefare Saturday -- not; about which inconsistency there was mention in note 2 on [p. 229](Final_Dolnytsky_part3_menaion.md#9-february--apodosis-of-the-meeting).
+
+[^385]: Menaia Pochaiv and Russian.
+
+[^386]: Since the Gospel of the day of this Saturday has something about fasting, our and Russian typikons prescribe here to take the Apostle-Gospel first of the day and to Theodore under the Prokimenon (zaspiv), and then -- to the Forerunner; on Cheesefare Saturday first -- to the Forerunner, and then -- to the Fathers and of the day under the Prokimenon (zaspiv). Our handwritten typikon prescribes only of the day and to the Forerunner; for according to the Greek typikon more than two Apostle-Gospels at the Liturgy is not taken, nor is one read under the Prokimenon (zaspiv) of another.
+
+[^387]: General typikons end the troparia with a Resurrectional Theotokion; however, the *Tserkovne Oko* (on the first Sunday of Lent) discards it and ends with the Troparion of the Image, since it is -- of the Lord.
+
+[^388]: According to the rule of the *Menaion* on 24 February, when this feast falls on one of the fast days of the Forty Days, Vespers with the Presanctified should be served both on the Eve of the feast and on the very day of the feast; on the Eve -- with readings, and on the feast itself -- with the Apostle-Gospel of the Forerunner. However, with us now the custom is adhered to of celebrating the Service of the Presanctified only on Wednesdays and Fridays, and on the other three fast days -- the Service of Chrysostom, after which, in cathedral churches, the three last Hours with the Typika are also sung, and Vespers -- at 11 o'clock. And where on Monday, Tuesday and Thursday the Service of Chrysostom is not celebrated, there will be no Service of the Presanctified, then, on the Eve of the feast, there will be Vespers, according to the above-mentioned rule; and on the very day of the feast, according to the rule of the *Tserkovne Oko* (chapter 62 of Mark) and of the handwritten typikon, which we have (24 February), there should be the Liturgy of the Presanctified, even if it were not Wednesday, and not Friday, and on it, after "Let my prayer be set forth", it is proper to take the Prokimenon, Alleluia and Apostle-Gospel of the Forerunner, Communion Hymn "O taste" and of the Forerunner. And if, for some reason, the Liturgy cannot be celebrated, then we think that after the readings to the Forerunner there should be the Prokimenon and Apostle-Gospel of the Forerunner, as in the rule for the Annunciation.
+
+[^389]: Thus the Moscow Typikon, although, according to the Slavic typikon, also of the temple is taken.
+
+[^390]: Menaia Pochaiv and Russian.
+
+[^391]: Neither in Greek books, nor in our Slavic handwritten typikon do we find different rules for this forefeast, but only one, for fast days, in the text; *Tserkovne Oko* adds to this one another one, shortened for the Akathist Saturday, and another -- for Lazarus Saturday.
+
+[^392]: The handwritten typikon and *Tserkovne Oko* in chapter 78 of Mark give the service of the 40 Martyrs with the service of the Akathist Saturday; similarly also the Constantinopolitan Typikon, and the new Greek-Venetian *Menaion*.
+
+[^393]: This forefeast has the peculiarity that the service to the Saint is not given for it in the *Menaion*.
+
+[^394]: *Tserkovne Oko* prescribes the Canon of the Temple Saint on 4 and of the *Octoechos* on 4.
+
+[^395]: On Friday -- after the 5th, 8th and 9th.
+
+[^396]: Thus give the Greek and our Pochaiv *Triodion* for this Wednesday; we think that it is proper to take the Triadikon Exaposteilarion once and without "Glory, Both now", for Glory: will be the Exaposteilarion of the Cross, Both now: its Cross-Theotokion.
+
+[^397]: These are the consequences of the usual Slavic length. We think, therefore, that it is better in this case to discard the stichera at the Praises, for neither in Greek, nor in other editions do we find such a rule, but only in the Russian, Pochaiv and those derived from them.
+
+[^398]: The Rule of the Annunciation on Friday of the 5th week of Lent.
+
+[^399]: Typikons mention only the troparia at *“God is the Lord”*; but we, in accordance with the rule at *“God is the Lord”*, gave the troparia and kontakia at all services. *Tserkovne Oko* does not give at *“God is the Lord”* the troparion of the Forefeast, but only of the Akathist, from this it follows that only the troparion of the Akathist should be taken.
+
+[^400]: The handwritten typikon that we have prescribes the second reading of the *Triodion*, after the completion of the readings of the Feast.
+
+[^401]: This feast has five readings, of which two, which relate more closely to this feast: "Moses came" and "The Lord created me", are read in the morning at Vespers with the Full Liturgy, and all five are read together at Vespers when the next day will be Saturday or Sunday, on which there is no Liturgy with Vespers.
+
+[^402]: Our handwritten typikon prescribes to take the second reading of the *Triodion* with its Prokimenon, after the completion of the readings of the Feast.
+
+[^403]: According to the rule of our and Russian menaia.
+
+[^404]: Our handwritten typikon adds also 3 prostrations at the last Trisagion; and the rules of our and Russian menaia, *Tserkovne Oko* give 3 prostrations also at "Glory to God in the highest", after the Trisagion and at the last Trisagion, but small ones.
+
+[^405]: Our handwritten typikon prescribes Resurrectional ones, as usual (Mark, 32).
+
+[^406]: About the Katavasia in the odes where the three-ode canon does not come, the typikon is silent. Although according to the general rule of the Apodosis of feasts the Katavasia should be of the Feast, and after each ode, however, we think that the Katavasia of the Feast in this case does not have greater weight than in the Afterfeast, for the service of the Feast on this Apodosis has little. Finally we consider that the Katavasia in this case should be only after the 3rd, 6th, 8th and 9th odes, namely the heirmos of the last canon, that is after the 3rd, 8th and 9th -- the heirmos of the three-ode canon, and after the 6th -- of the Cross.
+
+[^409]: In the rule about the troparion and kontakion here nothing is said; however, as happens in the case of Lazarus Saturday.
+
+[^407]: *Tserkovne Oko* prescribes to sing at Vespers of the Great Canon.
+
+[^408]: Our and Russian typikons give 3 prostrations at "Blessed be the name" and at the dismissal; our handwritten -- at "Now the Powers" and at "Blessed be the name"; and we discard them.
+
+[^410]: Since there are 4 kathismata, that is 3 sequential ones and Polyeleos, the question arises, which litanies should be sung here; for the general rule has only three. To this, since the feast has three sessional hymns, and here only two are given, then which two of the three to sing here? Regarding the litanies, our and Russian typikons mention litanies after the 3rd kathisma, from this it follows that after the 1st and 2nd kathismata there are no litanies, which the Pochaiv *Triodion* also excludes after the 1st kathisma before the sessional hymn of the *Triodion* on 25 March; and assuming such, it is proper to take two small litanies: one -- before the post-Polyeleos sessional hymn, with the exclamation "For blessed is Thy name", and the second -- before the sessional hymn of the 3rd kathisma, with the exclamation "For Thou Art good" or "For Thine is the dominion", at choice. But because only the Russian and Romanian typikons do not prescribe the Small Litany at Matins on a weekday, and with us this is not adhered to, therefore we think that here only after the 1st kathisma one need not take a litany, and after the 2nd one should take with the exclamation "For Thine is the dominion", after the 3rd -- with the exclamation "For Thou Art good". And of the two sessional hymns of the feast let one be taken, which is after the Polyeleos, and the second -- one of the first two, at choice.
+
+[^411]: Pochaiv and Russian typikons give a dismissal here, and others -- none.
+
+[^412]: Pochaiv Typikon of 1780 adds: and in the temple of the Annunciation -- refrain and heirmos of the feast.
+
+[^413]: *Tserkovne Oko*, chapter 96 and chapter 44 of Mark handwritten.
+
+[^414]: Although the typikon is silent about this. Finally, according to the Greek *Triodion* and others, with the exception of the Pochaiv (in which about Compline: if there be), Compline should not be.
+
+[^415]: Although the typikon is silent about this.
+
+[^416]: The typikon has also 3 prostrations at "Glory to God in the highest", after the Trisagion and at the last Trisagion; however, small ones.
+
+[^417]: Although the *Menaion* is silent here, however, similar has on Friday of the 3rd week of Lent.
+
+[^418]: We assume that on Friday, and not on Thursday, as it is in the *Tserkovne Oko* at the end of chapter 79 of Mark, for on Thursday there will be Great Compline with All-Night Vigil, without canon. It will be better in this case to discard the four-ode canon completely, for this rule -- is from the numerous inventions of the Slavs.
+
+[^419]: About the Katavasia in the odes where the three-ode canon does not come, the typikon is silent. Although according to the general rule of the Apodosis of feasts the Katavasia should be of the Feast, and after each ode, however, we think that the Katavasia of the Feast in this case does not have greater weight than in the Afterfeast, for the service of the Feast on this Apodosis has little. Finally we consider that the Katavasia in this case should be only after the 3rd, 6th, 8th and 9th odes, namely the heirmos of the last canon, that is after the 3rd, 8th and 9th -- the heirmos of the three-ode canon, and after the 6th -- of the Cross.
+
+[^420]: According to our and Russian typikons the four-ode canon of Matins is sung here.
+
+[^421]: About the troparia here, at Compline, and afterwards, at the Liturgy, the typikons do not give anything; however, since at the Hours they give only of the Feast of the Annunciation, then here too it will be sufficient to take only of the Feast, for the order of the Akathist and of the Feast -- is about the Annunciation.
+
+[^422]: We took the rule from chapter 104 of Mark of the *Tserkovne Oko*, for our and Russian menaia do not give for this case a rule with All-Night Vigil.
+
+[^423]: *Tserkovne Oko* in chapter 105 of Mark.
+
+[^424]: Thus we assume, for the typikon is silent.
+
+[^425]: Our and Russian typikons leave to the choice to sing at *“Lord, I have cried”* stichera either to the Feast, or to the Saint; but since this feast does not have Small Vespers, nor stichera at Small Vespers, and the Saint has, then it will be better to sing only to the Saint.
+
+[^426]: Our and Russian typikons prescribe stichera of the Saint from Small Vespers; however, in the same typikons the Saint has his separate stichera at the Litya, therefore, there is no need to take them elsewhere.
+
+[^427]: Pochaiv *Menaion* of 1863.
+
+[^428]: Refrains to the troparia of the canon of the feast the typikon does not give; one could append "Glory to Thee, our God, glory to Thee".
+
+[^429]: The Typikon about "Having beheld the Resurrection of Christ" is silent; however, if on Mid-Pentecost and on Saturdays of the 2nd, 3rd, 4th and 5th weeks of Pentecost, in the case of a Saint with Polyeleos, on all other weekdays the typikon gives "Having beheld the Resurrection of Christ", then we think that here too it should be so, as we gave also in the previous case.
+
+[^430]: The Venetian *Menaion* gives to the Feast -- 3 and to the Cross -- 3.
+
+[^431]: In non-cathedral churches we take all this only to the Cross.
+
+[^432]: The Canon of the Forefeast is not taken here, but we sing it on the previous Tuesday.
+
+[^433]: The Constantinopolitan Typikon prescribes first of the Apostle, and then -- of the Fathers. On the Finding of the Precious Head of the Forerunner 25 May Slavic typikons give stichera first to the Forerunner, and afterwards -- to the Fathers, however, not in accordance with the rule of Matins, Hours and Liturgy, on which they give the service first to the Fathers, and afterwards -- to the Forerunner, just as for the Theologian.
+
+[^434]: More correctly the *Tserkovne Oko* has also here, instead of the Theotokion, the Troparion of the Ascension, as at Small Vespers.
+
+[^435]: Thus has the *Tserkovne Oko*; and our and Russian typikons, instead of the feast, give on "Both now" the Theotokion, but we do not know from where to take this Theotokion.
+
+[^436]: *Tserkovne Oko* prescribes of the Ascension.
+
+[^437]: At the 1st hour the Moscow Typikon has the Resurrectional Kontakion, but it is not given either by the *Tserkovne Oko* (chapter 114 of Mark), or by our *Menaion*.
+
+[^438]: Troparion of the Ascension at Vespers and here the Kontakion to the Ascension is given by the Greek-Venetian *Menaion*.
+
+[^439]: Thus we consider, for the typikon is silent.
+
+[^440]: The Co-suffering of the Most Holy Theotokos can fall up to 20 July, in the case of the latest Pascha, which is 25 April. For from Pascha to the Co-suffering there will be 69 days, that is from Pascha to the Descent -- 50, from the Descent to the Sunday of All Saints and to the following Sunday (of the Eucharist) -- 14, from the second Sunday to the following Friday -- 5 days. If on 25 April there will be Pascha, then the 69th day from Pascha will be 2 July. If the last boundary of Pascha shifts three days back, then the Co-suffering will move to 29 June, and if eight days back, it will move to 24 June.
+
+[^441]: Similarly, as in the case of the Theologian on the Apodosis of the Resurrection.
+
+[^442]: Greek books do not give Polyeleos, and also Russian typikons and menaia and the handwritten typikon, which we have; but *Tserkovne Oko* gives Polyeleos; Pochaiv *Menaion* gives also All-Night Vigil, and Pochaiv *Anthologion* gives All-Night Vigil at choice; however, this is in view of the great piety of the Slavs.
+
+[^443]: As the new Constantinopolitan Typikon gives.
+
+[^444]: How the Deposition of the Precious Robe can fall on the Co-suffering, we showed in note 1 on [p. 303](Final_Dolnytsky_part3_menaion.md#2-july--deposition-of-the-precious-robe-of-the-most-holy-theotokos).
+
+[^445]: See note 1 of 8 November on [p. 135](Final_Dolnytsky_part3_menaion.md#8-november--synaxis-of-the-archangel-michael-and-the-other-bodiless-powers), about the kathisma *“Blessed is the man”*, which some discard on the feast of this Prophet and on St. Michael.
+
+[^446]: То Χειρογραφον ουδέν έτερον έχει εκ της Ακολουθίας της Αγιας Αννης, ειμή τρία Προσομοια, (διαφορά και αυτά προς τα ενταύθα) τα εις τον Εσπερινον δυο Δοξαστικά, και τον ενταύθα Κανόνα. Συναπτει δε μετά τούτων και ετεραν Ακολουύιαν των αγίων γυναικών Ολυμπιάδος και Ευπραξιας (Publisher of the Venetian *Menaion* 1884) /The manuscript has nothing else from the service in honor of St. Anne, except three prosomia (and they are different from those here), two Doxastika at Vespers and the Canon here. To them is added also the second service of the holy women Olympias and Eupraxia/.
+
+[^447]: Titul XVI /Title XVI/.
+
+[^448]: The above-mentioned *Menaion* and the new Constantinopolitan Typikon.
+
+[^449]: Pochaiv *Anthologion*.
+
+[^450]: This procession is explained by the Greek *Menaion*: Προεορτια του τίμιου και ζωοποιού σταυρού, ήτοι η εξελευσις αυτού εκ του βασιλικού παλατιού εις την πολιν / Forefeast of the Precious and Life-giving Cross, that is its true procession from the royal palace to the city/. And more clearly Nilles: Profecto hoc die processionis pretiosae ac vivificae cruces lignum sanctae cruces e palatio Imperatoris Constantinopolitano prolatum, in magnam Ecclesiam S. Sophiae translatum est, ut crastino die ibidem adoranda proponeretur, ad depellendos scilicet ingruentes per aestatem morbos, uti ex libris liturgicis notant Bollandiani in praetermissis ad 30. et 31. Julii (Calendar.) /On this day they conduct a wonderful procession and carry the wood of the life-giving holy cross from the palace of the Constantinopolitan Emperor, and bring it to the Great Church of St. Sophia, so that there on the next day it may be venerated, to drive away severe infirmities of the hot summer, as the Bollandists note from liturgical books, given on 30 and 31 July (Calendar)/.
+
+[^452]: *Tserkovne Oko* and our handwritten typikon before the Sessional hymn of the Saint give the Kontakion of the Cross.
+
+[^453]: That is particles of the true cross, on which Christ was crucified.
+
+[^451]: As also on 1 August on Sunday.
+
+[^454]: Although Greek typikons do not give the blessing of water on this day, however, this custom, inherent to Greek-Slavs, is taken from the Greeks, who once had the custom of performing the blessing of water at the beginning of each month and, accordingly, on 1 August, according to the testimony of Balsamon in the explanation of Canon V of the Trullan Synod: Haec statuente canone, novilunium quidem festum ante annos omnem memoriam supeantes cessavit; eius loco, Dei gratia, ut et ipse propitious reddatur, preces, as Aquae lustrales in Ecclesia a populo fideli fiunt in uniuscuiusque mensis principio (Asseman. Calend. Tom. I. Cap. XI. Pag. 156) /Establishing this canon, truly the new moon feast, which from ancient times erased all memory of it; in its place, thanks be to God, and better prayers take place, and sanctification of water in the church, which the faithful people perform at the beginning of each month (Assemani, Calend., Vol. III, Part I, Chapter XI, p. 156)/.
+
+[^455]: According to the Lviv Synod; and according to the ancient -- of crimson color.
+
+[^456]: Thus have our and Russian typikons.
+
+[^457]: More precisely, after the anaphora (Αντιδωρον /antidoron/, which was distributed after "Blessed be the name of the Lord"), as it is in our handwritten typikon, *Tserkovne Oko*, Pochaiv and Russian menaia.
+
+[^458]: Pochaiv [Trebniks] of 1792 and 1771 and those after them.
+
+[^459]: Although the Pochaiv Trebnik of 1771 does not give this.
+
+[^460]: In our typikons and *Tserkovne Oko*, at the end.
+
+[^461]: Our Trefologia give this service with Polyeleos, *Tserkovne Oko* -- with All-Night Vigil, with the consent of the Superior, and our Handwritten Typikon and the Greek *Menaion* give without Polyeleos.
+
+[^462]: Our and Russian typikons give only the Kontakion of the Dormition; however, since on Sunday they give also of the Image, then here too it should be so, so as not to fall into contradiction.
+
+[^463]: Similarly, as on 1 September on Sunday.
+
+[^464]: Similarly also the feast of the Falling Asleep of John the Theologian on 26 September, if it falls on Monday or Tuesday, so as not to coincide with the Protection, we transfer to the previous Sunday, as you have here on [p. 129](Final_Dolnytsky_part3_menaion.md#26-september--falling-asleep-of-the-holy-apostle-and-evangelist-john-the-theologian).
+
+[^465]: Thus gives also "Pastoral Theology" of Bishop Pelesh, on p. 334.

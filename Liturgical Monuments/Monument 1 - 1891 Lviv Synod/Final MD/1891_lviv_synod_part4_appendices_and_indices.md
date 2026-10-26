@@ -12,8 +12,6 @@
 >  
 > *Given at Rome, from the house of the same Sacred Congregation de Propaganda Fide for the Affairs of the Eastern Rite, on the 1st day of March, 1895.* [^278]
 
----
-
 ## Official Synodal Table of Contents
 ### Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)
 
@@ -30,6 +28,7 @@
   - First General Congregation *(p. 46)*
   - First Session *(p. 48)*
   - Second General Congregation *(p. 63)*
+
   - Second Session *(p. 65)*
   - Third General Congregation *(p. 67)*
   - Third Session *(p. 67)*
@@ -63,6 +62,7 @@
 
 * **TITULUS IV. On Public Worship of God** *(p. 109)*
   - Chapter I. On the Sacrifice of the Divine Liturgy *(p. 109)*
+
   - Chapter II. On Intentions and Stipends for Divine Liturgies *(p. 114)*
   - Chapter III. On the Canonical Hours (Church Rule) and Other Public Divine Services *(p. 118)*
   - Chapter IV. Regarding the Celebration of Extra-Ordinary Rites, Certain of Which Are Attached to Immovable Feasts and Others to Movable Feasts *(p. 121)*
@@ -92,6 +92,7 @@
 * **TITULUS VII. On the Ecclesiastical Hierarchy** *(p. 189)*
   - Chapter I. On the Roman Pontiff *(p. 190)*
   - Chapter II. On the Metropolitan *(p. 191)*
+
   - Chapter III. On Bishops *(p. 194)*
   - Chapter IV. On Cathedral Chapters *(p. 197)*
   - Chapter V. On Vicars Forane or Deans *(p. 200)*

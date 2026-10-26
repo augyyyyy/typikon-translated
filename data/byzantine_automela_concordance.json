@@ -1,0 +1,636 @@
+{
+  "schema_version": "1.0.0",
+  "description": "Byzantine Greek Automelon, Sunday Heirmos, and LXX Stichos Reference Concordance for Primary-Source Extraction",
+  "rubrical_calls": {
+    "Слава, и нынѣ": "*Glory... Both now...*",
+    "Слава, и ннѣ": "*Glory... Both now...*",
+    "Слава:": "*Glory...*",
+    "И нынѣ:": "*Both now...*",
+    "И ннѣ:": "*Both now...*",
+    "Богородиченъ": "*Theotokion:*",
+    "Бг҃ородиченъ": "*Theotokion:*",
+    "Крестобогородиченъ": "*Stavrotheotokion:*",
+    "Кр(ес)тобогородиченъ": "*Stavrotheotokion:*",
+    "Мучениченъ": "*For the Martyrs:*",
+    "Мч҃ниченъ": "*For the Martyrs:*",
+    "Подобенъ": "*Podoben:*",
+    "Подо́бенъ": "*Podoben:*",
+    "Ірмосъ": "*Heirmos:*",
+    "І҆рмо́съ": "*Heirmos:*",
+    "Стихъ": "*Verse:*",
+    "Сті́хъ": "*Verse:*",
+    "На стиховнѣ": "*At the Aposticha*",
+    "Стихиры воскресны": "*Resurrectional Stichera*",
+    "И́ны стры восточны": "*Other Eastern Stichera*",
+    "Инны стры восточны": "*Other Eastern Stichera*",
+    "Тропарь воскресенъ": "*Resurrectional Troparion*",
+    "Кондакъ": "*Kontakion*",
+    "Ікосъ": "*Ikos*",
+    "Сѣдаленъ": "*Sessional Hymn*",
+    "Ипакои": "*Hypakoe*",
+    "Степенна": "*Songs of Ascents [Anabathmoi]*",
+    "Прокименъ": "*Prokeimenon*",
+    "Блаженна": "*The Beatitudes*"
+  },
+  "podoben_catalog": [
+    {
+      "id": "POD.T1.NEBESNYKH_CHINOV",
+      "tone": 1,
+      "slavonic_canonical": "Небе́сныхъ чинѡ́въ",
+      "slavonic_patterns": ["небесных чинов", "небным чином", "небесным чином"],
+      "greek": "Τῶν οὐρανίων ταγμάτων",
+      "english_canonical": "Joy of the heavenly ranks",
+      "english_aliases": ["joy of the heavenly ranks", "of the heavenly ranks"]
+    },
+    {
+      "id": "POD.T1.VSEKHVALNII_MUCHENITSY",
+      "tone": 1,
+      "slavonic_canonical": "Прехва́льніи мꙋ́ченицы",
+      "slavonic_patterns": ["прехвалнии мученици", "всехвалнии мученици", "прехвалнии мчнци", "прехвалнии мунци"],
+      "greek": "Πανεύφημοι μάρτυρες",
+      "english_canonical": "O all-lauded martyrs",
+      "english_aliases": ["o all-lauded martyrs", "all-praised martyrs", "all-lauded martyrs"]
+    },
+    {
+      "id": "POD.T1.KAMENI_ZAPECHATLENU",
+      "tone": 1,
+      "slavonic_canonical": "Ка́мени запеча́танꙋ",
+      "slavonic_patterns": ["камени запечатану", "камени запечат"],
+      "greek": "Τοῦ λίθου σφραγισθέντος",
+      "english_canonical": "When the stone had been sealed",
+      "english_aliases": ["when the stone had been sealed", "the stone being sealed"]
+    },
+    {
+      "id": "POD.T1.GROB_TVOI_SPASE",
+      "tone": 1,
+      "slavonic_canonical": "Гро́бъ тво́й Сп҃се",
+      "slavonic_patterns": ["гроб твой спасе", "гроб твои спсе", "воином стрегущым"],
+      "greek": "Τὸν τάφον σου Σωτήρ",
+      "english_canonical": "While the soldiers were guarding Thy tomb",
+      "english_aliases": ["while the soldiers were guarding thy tomb", "thy tomb, o savior", "thy tomb o savior"]
+    },
+    {
+      "id": "POD.T1.EGDA_PRIIDESHI",
+      "tone": 1,
+      "slavonic_canonical": "Е҆гда̀ прі́йдеши",
+      "slavonic_patterns": ["егда приидеши", "егда пріидеши"],
+      "greek": "Ὅταν ἔλθῃς ὁ Θεός",
+      "english_canonical": "When Thou shalt come",
+      "english_aliases": ["when thou shalt come"]
+    },
+    {
+      "id": "POD.T2.EGDA_OT_DREVA",
+      "tone": 2,
+      "slavonic_canonical": "Е҆гда̀ ѿ дре́ва",
+      "slavonic_patterns": ["егда от древа", "егда о древа"],
+      "greek": "Ὅτε ἐκ τοῦ ξύλου",
+      "english_canonical": "When from the Tree",
+      "english_aliases": ["when from the tree"]
+    },
+    {
+      "id": "POD.T2.VYSHNIKH_ISHCHA",
+      "tone": 2,
+      "slavonic_canonical": "Вы́шнихъ и҆щѧ̀",
+      "slavonic_patterns": ["вышних ищя", "вышних ища"],
+      "greek": "Τὰ ἄνω ζητῶν",
+      "english_canonical": "Seeking the highest",
+      "english_aliases": ["seeking the highest"]
+    },
+    {
+      "id": "POD.T2.MILOSERDIA_SUSHCHI",
+      "tone": 2,
+      "slavonic_canonical": "Милосе́рдія сꙋ́щи и҆сто́чникъ",
+      "slavonic_patterns": ["милосердия сущи", "милосердиа сущи"],
+      "greek": "Εὐσπλαγχνίας ὑπάρχουσα πηγή",
+      "english_canonical": "Being the wellspring of loving-kindness",
+      "english_aliases": ["being the wellspring of loving-kindness", "being full of compassion"]
+    },
+    {
+      "id": "POD.T2.DOM_EVFRATOV",
+      "tone": 2,
+      "slavonic_canonical": "До́ме Е҆ѵфра́ѳовъ",
+      "slavonic_patterns": ["доме евфрафов"],
+      "greek": "Οἶκος τοῦ Εὐφραθᾶ",
+      "english_canonical": "O House of Ephratha",
+      "english_aliases": ["o house of ephratha", "house of ephratha"]
+    },
+    {
+      "id": "POD.T3.KRASOTE_DEVSTVA",
+      "tone": 3,
+      "slavonic_canonical": "Красотѣ̀ дѣ́вства твоегѡ̀",
+      "slavonic_patterns": ["красоте девства", "красоте дтва", "красоте девтва"],
+      "greek": "Τὴν ὡραιότητα τῆς παρθενίας σου",
+      "english_canonical": "Beholding the beauty of thy virginity",
+      "english_aliases": ["beholding the beauty of thy virginity", "at the beauty of virginity", "the beauty of virginity"]
+    },
+    {
+      "id": "POD.T3.DELA_DNIA",
+      "tone": 3,
+      "slavonic_canonical": "Дѣла̀ дні́а",
+      "slavonic_patterns": ["дела дниа", "дела дня"],
+      "greek": "Τὰ ἔργα τῆς ἡμέρας",
+      "english_canonical": "The works of the day",
+      "english_aliases": ["the works of the day"]
+    },
+    {
+      "id": "POD.T3.VELIA_MUCHENIK_TVOIKH",
+      "tone": 3,
+      "slavonic_canonical": "Ве́лія мꙋ́ченикъ твои́хъ",
+      "slavonic_patterns": ["велия мученик", "велиа мчник", "велиа мунк", "велиа муник"],
+      "greek": "Μεγάλη τῶν Μαρτύρων σου",
+      "english_canonical": "Great is the power of Thy martyrs",
+      "english_aliases": ["great is the power of thy martyrs", "great is the martyr"]
+    },
+    {
+      "id": "POD.T3.VELIA_KRESTA_TVOEGO",
+      "tone": 3,
+      "slavonic_canonical": "Ве́лія Крⷭ҇та̀ твоегѡ̀ Гдⷭ҇и",
+      "slavonic_patterns": ["велия креста твоего", "велиа крта твоего"],
+      "greek": "Μεγάλη τοῦ Σταυροῦ σου, Κύριε",
+      "english_canonical": "Great is the power of Thy Cross, O Lord",
+      "english_aliases": ["great is the power of thy cross, o lord", "great is the power of thy cross"]
+    },
+    {
+      "id": "POD.T3.KRESTOOBRAZNO",
+      "tone": 3,
+      "slavonic_canonical": "Крⷭ҇тоѡбра́зно",
+      "slavonic_patterns": ["крестообразно", "кртаобразно"],
+      "greek": "Σταυροφανῶς Μωϋσῆς",
+      "english_canonical": "In the likeness of the Cross",
+      "english_aliases": ["in the likeness of the cross"]
+    },
+    {
+      "id": "POD.T3.BOZHESTVENNYYA_VERY",
+      "tone": 3,
+      "slavonic_canonical": "Бж҃е́ственныя вѣ́ры",
+      "slavonic_patterns": ["божественныя веры", "бжтвенныя веры"],
+      "greek": "Θείας πίστεως",
+      "english_canonical": "Of the divine faith",
+      "english_aliases": ["of the divine faith"]
+    },
+    {
+      "id": "POD.T3.POSTAVISHA_TRIDESYATE",
+      "tone": 3,
+      "slavonic_canonical": "Поста́виша три́десѧте",
+      "slavonic_patterns": ["поставиша тридесяте"],
+      "greek": "Ἔστησαν τὰ τριάκοντα ἀργύρια",
+      "english_canonical": "They weighed thirty pieces of silver",
+      "english_aliases": ["they weighed thirty pieces of silver"]
+    },
+    {
+      "id": "POD.T4.ZVANNYI_SVYSHE",
+      "tone": 4,
+      "slavonic_canonical": "Зва́нный свы́ше",
+      "slavonic_patterns": ["званный свыше", "званый свышше", "званный бывше", "званый свыше"],
+      "greek": "Ὁ κληθεὶς ἄνωθεν",
+      "english_canonical": "Being called from on high",
+      "english_aliases": ["being called from on high", "called from on high"]
+    },
+    {
+      "id": "POD.T4.YAKO_DOBLYA",
+      "tone": 4,
+      "slavonic_canonical": "Я҆́кѡ до́бля",
+      "slavonic_patterns": ["яко добля", "яко добла"],
+      "greek": "Ὡς γενναῖον ἐν Μάρτυσιν",
+      "english_canonical": "As one valiant among martyrs",
+      "english_aliases": ["as a valiant one among martyrs", "as one valiant", "as one noble"]
+    },
+    {
+      "id": "POD.T4.DALS_ESI_ZNAMENIE",
+      "tone": 4,
+      "slavonic_canonical": "Да́лъ е҆сѝ зна́меніе",
+      "slavonic_patterns": ["дал еси знамение", "дал еси знаме"],
+      "greek": "Ἔδωκας σημείωσιν",
+      "english_canonical": "Thou hast given a sign",
+      "english_aliases": ["thou hast given a sign"]
+    },
+    {
+      "id": "POD.T4.VOZNESYISYA_NA_KREST",
+      "tone": 4,
+      "slavonic_canonical": "Вознесы́йся на Крⷭ҇тъ",
+      "slavonic_patterns": ["вознесыйся на крест", "вознесыися на крт"],
+      "greek": "Ὁ ὑψωθεὶς ἐν τῷ Σταυρῷ",
+      "english_canonical": "Thou Who wast lifted up upon the Cross",
+      "english_aliases": ["thou who wast lifted up upon the cross", "lifted up upon the cross"]
+    },
+    {
+      "id": "POD.T4.SKORO_PREDVARI",
+      "tone": 4,
+      "slavonic_canonical": "Ско́рѡ предварѝ",
+      "slavonic_patterns": ["скоро предвари"],
+      "greek": "Ταχὺ προκατάλαβε",
+      "english_canonical": "Speedily anticipate",
+      "english_aliases": ["speedily anticipate"]
+    },
+    {
+      "id": "POD.T4.YAVILSYA_ESI_DNESS",
+      "tone": 4,
+      "slavonic_canonical": "Я҆ви́лся е҆сѝ дне́сь",
+      "slavonic_patterns": ["явился еси днесь"],
+      "greek": "Ἐπεφάνης σήμερον",
+      "english_canonical": "Thou hast appeared today",
+      "english_aliases": ["thou hast appeared today"]
+    },
+    {
+      "id": "POD.T4.KHOTEKH_SLEZAMI",
+      "tone": 4,
+      "slavonic_canonical": "Хотѣ́хъ слеза́ми",
+      "slavonic_patterns": ["хотех слезами"],
+      "greek": "Ἤθελον δάκρυσιν ἐξαλεῖψαι",
+      "english_canonical": "With tears I desired",
+      "english_aliases": ["with tears i desired"]
+    },
+    {
+      "id": "POD.T4.UDIVISYA_IOSIF",
+      "tone": 4,
+      "slavonic_canonical": "Оу҆диви́ся І҆ѡ́сифъ",
+      "slavonic_patterns": ["удивися иосиф"],
+      "greek": "Κατεπλάγη Ἰωσήφ",
+      "english_canonical": "Joseph was amazed",
+      "english_aliases": ["joseph was amazed", "joseph marveled"]
+    },
+    {
+      "id": "POD.T5.RADUISYA_POSTNIKOV",
+      "tone": 5,
+      "slavonic_canonical": "Ра́дꙋйся по́стникѡвъ",
+      "slavonic_patterns": ["радуйся постников", "радуися постников", "радуйся постником", "радуйся постничком", "радуйся постнико"],
+      "greek": "Χαίροις ἀσκητικῶν",
+      "english_canonical": "Rejoice, O container of ascetics",
+      "english_aliases": ["rejoice, o container of ascetics", "rejoice o container of ascetics"]
+    },
+    {
+      "id": "POD.T5.RADUISYA_ZHIVONOSNYI_KRESTE",
+      "tone": 5,
+      "slavonic_canonical": "Ра́дꙋйся живоно́сный Крⷭ҇те",
+      "slavonic_patterns": ["радуйся живоносный кресте", "радуйся живоносный"],
+      "greek": "Χαίροις ὁ ζωηφόρος Σταυρός",
+      "english_canonical": "Rejoice, O life-bearing Cross",
+      "english_aliases": ["rejoice, o life-bearing cross", "rejoice, life-bearing [cross]", "rejoice, life-bearing"]
+    },
+    {
+      "id": "POD.T5.SLOVO_SOBEZNACHALNOE",
+      "tone": 5,
+      "slavonic_canonical": "Собезнача́льное Сло́во",
+      "slavonic_patterns": ["собезначальное слово", "слово собезначальное", "собезначално слово"],
+      "greek": "Τὸν συνάναρχον Λόγον",
+      "english_canonical": "The Word co-unoriginate",
+      "english_aliases": ["the word co-unoriginate", "co-unoriginate word", "the word co-beginningless"]
+    },
+    {
+      "id": "POD.T5.PREPODOBNE_OTCHE",
+      "tone": 5,
+      "slavonic_canonical": "Преподо́бне ѻ҆́тче",
+      "slavonic_patterns": ["преподобне отче", "преподобне оче"],
+      "greek": "Ὅσιε Πάτερ",
+      "english_canonical": "O venerable father",
+      "english_aliases": ["o venerable father"]
+    },
+    {
+      "id": "POD.T6.VSE_OTLOZHSHE",
+      "tone": 6,
+      "slavonic_canonical": "Всѐ ѿло́жше",
+      "slavonic_patterns": ["все отложше", "всю отложивше", "все упование"],
+      "greek": "Ὅλην ἀποθέμενοι",
+      "english_canonical": "Having laid aside all earthly hope",
+      "english_aliases": ["having laid aside all earthly hope", "having laid all their hope", "having laid aside all", "having set aside all", "all my hope", "all our hope is in heaven"]
+    },
+    {
+      "id": "POD.T6.EZHE_O_NAS",
+      "tone": 6,
+      "slavonic_canonical": "Е҆́же ѡ҆ на́съ",
+      "slavonic_patterns": ["еже о нас"],
+      "greek": "Τὴν ὑπὲρ ἡμῶν πληρώσας οἰκονομίαν",
+      "english_canonical": "Fulfilling the dispensation for our sake",
+      "english_aliases": ["fulfilling the dispensation", "fulfilling the dispensation for our sake"]
+    },
+    {
+      "id": "POD.T6.ANGELSKIYA_SILY",
+      "tone": 6,
+      "slavonic_canonical": "А҆́гг҃льскія си́лы",
+      "slavonic_patterns": ["ангельския силы", "агглския силы", "агглския предыдут силы"],
+      "greek": "Αἱ Ἀγγελικαὶ δυνάμεις",
+      "english_canonical": "The Angelic Powers",
+      "english_aliases": ["the angelic powers", "the angelic hosts", "the angelic hosts shall go before"]
+    },
+    {
+      "id": "POD.T6.TRIDNEVEN_VOSKRESL_ESI",
+      "tone": 6,
+      "slavonic_canonical": "Тридне́вно воскре́слъ е҆сѝ",
+      "slavonic_patterns": ["тридневно воскресл еси", "тридневен воскресл еси", "тридневно воскресл"],
+      "greek": "Τριήμερος ἀνέστης",
+      "english_canonical": "Having risen on the third day",
+      "english_aliases": ["on the third day thou didst arise", "having risen on the third day"]
+    },
+    {
+      "id": "POD.T6.YAKO_POSUKHU_KHODIV",
+      "tone": 6,
+      "slavonic_canonical": "Я҆́кѡ посꙋ́хꙋ ходи́въ",
+      "slavonic_patterns": ["яко посуху ходив"],
+      "greek": "Ὡς ἐν ἠπείρῳ πεζεύσας",
+      "english_canonical": "Having walked as on dry land",
+      "english_aliases": ["having walked as on dry land"]
+    },
+    {
+      "id": "POD.T6.OGNYA_OSTROV",
+      "tone": 6,
+      "slavonic_canonical": "О҆гня̀ ѡ҆стро́въ",
+      "slavonic_patterns": ["огня остров", "огня остро"],
+      "greek": "Πυρὸς σβέσαντες δύναμιν",
+      "english_canonical": "The island of fire",
+      "english_aliases": ["the island of fire"]
+    },
+    {
+      "id": "POD.T7.NE_KTOMU_VOZBRANENI",
+      "tone": 7,
+      "slavonic_canonical": "Не ктомꙋ̀ возбране́ни е҆смы̀",
+      "slavonic_patterns": ["не ктому возбранени", "не ктому возбраняеми", "никтому возбраняеми"],
+      "greek": "Οὐκέτι κωλυόμεθα",
+      "english_canonical": "No longer are we forbidden",
+      "english_aliases": ["we are no longer forbidden", "no longer are we forbidden"]
+    },
+    {
+      "id": "POD.T7.DNES_BDIT_IUDA",
+      "tone": 7,
+      "slavonic_canonical": "Дне́сь бди́тъ І҆ю́да",
+      "slavonic_patterns": ["днесь бдит іюда", "днесь бдит иуда", "днесь иуда"],
+      "greek": "Σήμερον γρηγορεῖ ὁ Ἰούδας",
+      "english_canonical": "Today Judas watcheth",
+      "english_aliases": ["today judas watcheth", "today judas"]
+    },
+    {
+      "id": "POD.T7.PLOD_CHREVA",
+      "tone": 7,
+      "slavonic_canonical": "Пло́дъ чре́ва твоегѡ̀",
+      "slavonic_patterns": ["плод чрева"],
+      "greek": "Καρπὸς κοιλίας",
+      "english_canonical": "Fruit of thy womb",
+      "english_aliases": ["fruit of the womb", "fruit of thy womb", "the fruit of thy womb"]
+    },
+    {
+      "id": "POD.T7.RADUISYA",
+      "tone": 7,
+      "slavonic_canonical": "Ра́дꙋйся",
+      "slavonic_patterns": ["радуйся"],
+      "greek": "Χαῖρε",
+      "english_canonical": "Rejoice",
+      "english_aliases": ["rejoice"]
+    },
+    {
+      "id": "POD.T8.POVELENNOE_TAINSTVENNO",
+      "tone": 8,
+      "slavonic_canonical": "Повелѣ́нное та́инственно",
+      "slavonic_patterns": ["повеленное таинственно", "повеленное таинство"],
+      "greek": "Τὸ προσταχθὲν μυστικῶς",
+      "english_canonical": "That which was commanded mystically",
+      "english_aliases": ["that which was commanded mystically", "the commanded mystery", "having received mystically"]
+    },
+    {
+      "id": "POD.T8.YAKO_NACHATKI_ESTESTVA",
+      "tone": 8,
+      "slavonic_canonical": "Я҆́кѡ нача́тки е҆стества̀",
+      "slavonic_patterns": ["яко начатки естества"],
+      "greek": "Ὡς ἀπαρχὰς τῆς φύσεως",
+      "english_canonical": "As first-fruits of nature",
+      "english_aliases": ["as first-fruits of nature"]
+    },
+    {
+      "id": "POD.T8.GOSPODI_ASHCHE_I_NA_SUDISHCHI",
+      "tone": 8,
+      "slavonic_canonical": "Гдⷭ҇и, а҆́ще и҆ на сꙋди́щи",
+      "slavonic_patterns": ["господи аще и на судищи", "гди аще и на судищи"],
+      "greek": "Κύριε, εἰ καὶ κριτηρίῳ παρέστης",
+      "english_canonical": "O Lord, though Thou didst stand before the tribunal",
+      "english_aliases": ["o lord, though thou didst stand before the tribunal"]
+    },
+    {
+      "id": "POD.T8.O_PRESLAVNAGO_CHUDESE",
+      "tone": 8,
+      "slavonic_canonical": "Ѡ пресла́внагѡ чꙋдесѐ",
+      "slavonic_patterns": ["о преславнаго чудесе", "о преславное чудо"],
+      "greek": "Ὢ τοῦ παραδόξου θαύματος",
+      "english_canonical": "O most marvelous wonder",
+      "english_aliases": ["o most marvelous wonder", "o most glorious wonder"]
+    },
+    {
+      "id": "POD.T8.MUCHENITSY_GOSPODNI",
+      "tone": 8,
+      "slavonic_canonical": "Мч҃ницы Гдⷭ҇ни",
+      "slavonic_patterns": ["мученицы господни", "мчнци гдни"],
+      "greek": "Οἱ Μάρτυρές σου Κύριε",
+      "english_canonical": "Martyrs of the Lord",
+      "english_aliases": ["martyrs of the lord"]
+    },
+    {
+      "id": "POD.T8.PREMUDROSTI_NASTAVNICHE",
+      "tone": 8,
+      "slavonic_canonical": "Премꙋ́дрости наста́вниче",
+      "slavonic_patterns": ["премудрости наставниче", "премудрости напутл", "премудрости настла"],
+      "greek": "Τῆς σοφίας ὁδηγέ",
+      "english_canonical": "Guiding unto wisdom",
+      "english_aliases": ["guiding unto wisdom", "o guide of wisdom"]
+    },
+    {
+      "id": "POD.T8.CHTO_VAS_NARECHEM",
+      "tone": 8,
+      "slavonic_canonical": "Что̀ вы нарече́мъ ст҃і́и",
+      "slavonic_patterns": ["что вас наречем", "что вы наречем"],
+      "greek": "Τί ὑμᾶς καλέσωμεν ἅγιοι",
+      "english_canonical": "What shall we call you, O holy ones",
+      "english_aliases": ["what shall we call you, o holy ones", "what shall we call you, o holy ones?"]
+    }
+  ],
+  "psalm_stichoi_catalog": [
+    {
+      "id": "PRIM.VERSE.PS92_1A",
+      "lxx_ref": "Ps. 92:1a",
+      "slavonic_canonical": "Госпо́дь воцари́ся, въ лѣ́потꙋ ѡ҆блече́ся",
+      "slavonic_patterns": ["господь воцарися", "гдь воцарися"],
+      "greek": "Ὁ Κύριος ἐβασίλευσεν, εὐπρέπειαν ἐνεδύσατο",
+      "english_canonical": "*Verse: The Lord is King, He is robed in majesty.*",
+      "english_patterns": ["the lord is king"]
+    },
+    {
+      "id": "PRIM.VERSE.PS92_1B",
+      "lxx_ref": "Ps. 92:1b",
+      "slavonic_canonical": "И҆́бо оу҆твердѝ вселе́ннꙋю, я҆́же не подви́жится",
+      "slavonic_patterns": ["ибо утверди вселенную"],
+      "greek": "καὶ γὰρ ἐστερέωσε τὴν οἰκουμένην, ἥτις οὐ σαλευθήσεται",
+      "english_canonical": "*Verse: For He hath established the world, so that it cannot be moved.*",
+      "english_patterns": ["for he hath established the world", "for he established the world", "for he established the universe"]
+    },
+    {
+      "id": "PRIM.VERSE.PS92_5",
+      "lxx_ref": "Ps. 92:5",
+      "slavonic_canonical": "До́мꙋ твоемꙋ̀ подоба́етъ святы́ня Го́споди, въ долготꙋ̀ дні́й",
+      "slavonic_patterns": ["дому твоему подобает"],
+      "greek": "τῷ οἴκῳ σου πρέπει ἁγίασμα, Κύριε, εἰς μακρότητα ἡμερῶν",
+      "english_canonical": "*Verse: Holiness becometh Thine house, O Lord, unto length of days.*",
+      "english_patterns": ["holiness becometh"]
+    },
+    {
+      "id": "PRIM.VERSE.PS9_33",
+      "lxx_ref": "Ps. 9:33",
+      "slavonic_canonical": "Воскреснѝ Го́споди Бо́же мо́й, да вознесе́тся рꙋка̀ твоя̀, не забꙋ́ди оу҆бо́гихъ твои́хъ до конца̀",
+      "slavonic_patterns": ["воскресни господи боже мой", "воскресни гди бже мой"],
+      "greek": "ἀνάστηθι, Κύριε ὁ Θεός μου, ὑψωθήτω ἡ χείρ σου, μὴ ἐπιλάθῃ τῶν πενήτων σου εἰς τέλος",
+      "english_canonical": "*Verse: Arise, O Lord my God, let Thy hand be lifted up; forget not Thy poor unto the end.*",
+      "english_patterns": ["arise, o lord my god, let thy hand be lifted up"]
+    },
+    {
+      "id": "PRIM.VERSE.PS9_2",
+      "lxx_ref": "Ps. 9:2",
+      "slavonic_canonical": "И҆сповѣ́мся тебѣ̀ Го́споди всѣ́мъ се́рдцемъ мои́мъ, повѣ́мъ вся̑ чꙋдеса̀ твоя̑",
+      "slavonic_patterns": ["исповемся тебе господи", "исповемся тебе гди"],
+      "greek": "Ἐξομολογήσομαί σοι, Κύριε, ἐν ὅλῃ καρδίᾳ μου, διηγήσομαι πάντα τὰ θαυμάσιά σου",
+      "english_canonical": "*Verse: I will give thanks unto Thee, O Lord, with my whole heart; I will speak of all Thy marvelous works.*",
+      "english_patterns": ["with my whole heart"]
+    },
+    {
+      "id": "PRIM.VERSE.PS122_1",
+      "lxx_ref": "Ps. 122:1",
+      "slavonic_canonical": "Къ тебѣ̀ возведо́хъ ѻ҆́чи мои́, живꙋ́щемꙋ на небесѝ",
+      "slavonic_patterns": ["к тебе возведох очи мои"],
+      "greek": "Πρὸς σὲ ἦρα τοὺς ὀφθαλμούς μου τὸν κατοικοῦντα ἐν τῷ οὐρανῷ",
+      "english_canonical": "*Verse: Unto Thee have I lifted up mine eyes, unto Thee that dwellest in heaven.*",
+      "english_patterns": ["unto thee have i lifted up mine eyes"]
+    },
+    {
+      "id": "PRIM.VERSE.PS122_3",
+      "lxx_ref": "Ps. 122:3",
+      "slavonic_canonical": "Поми́лꙋй на́съ Го́споди, поми́лꙋй на́съ, я҆́ко помно́гꙋ и҆спо́лнихомся оу҆ничиже́нія",
+      "slavonic_patterns": ["помилуй нас господи помилуй нас"],
+      "greek": "ἐλέησον ἡμᾶς, Κύριε, ἐλέησον ἡμᾶς, ὅτι ἐπὶ πολὺ ἐπλήσθημεν ἐξουδενώσεως",
+      "english_canonical": "*Verse: Have mercy on us, O Lord, have mercy on us, for we are utterly filled with contempt.*",
+      "english_patterns": ["have mercy on us, o lord, have mercy on us"]
+    },
+    {
+      "id": "PRIM.VERSE.PS64_5A",
+      "lxx_ref": "Ps. 64:5a",
+      "slavonic_canonical": "Блаже́ни, я҆̀же и҆збра́лъ и҆ прія́лъ е҆сѝ, Го́споди",
+      "slavonic_patterns": ["блажени яже избрал", "блажени иже избрал"],
+      "greek": "μακάριοι οὓς ἐξελέξω καὶ προσελάβου, Κύριε",
+      "english_canonical": "*Verse: Blessed are they whom Thou hast chosen and taken to Thyself, O Lord.*",
+      "english_patterns": ["blessed are they whom thou hast chosen"]
+    },
+    {
+      "id": "PRIM.VERSE.PS24_13A",
+      "lxx_ref": "Ps. 24:13a",
+      "slavonic_canonical": "Дꙋ́шы и҆́хъ во благи́хъ водворя́тся",
+      "slavonic_patterns": ["душы их во благих", "душа их во благих"],
+      "greek": "ἡ ψυχὴ αὐτοῦ ἐν ἀγαθοῖς αὐλισθήσεται",
+      "english_canonical": "*Verse: Their souls shall dwell among good things.*",
+      "english_patterns": ["their souls shall dwell", "their souls shall abide"]
+    },
+    {
+      "id": "PRIM.VERSE.PS44_11",
+      "lxx_ref": "Ps. 44:11",
+      "slavonic_canonical": "Слы́ши дщѝ и҆ ви́ждь, и҆ приклонѝ оу҆́хо твоѐ",
+      "slavonic_patterns": ["слыши дщи и виждь"],
+      "greek": "Ἄκουσον, θύγατερ, καὶ ἴδε, καὶ κλῖνον τὸ οὖς σου",
+      "english_canonical": "*Verse: Hear, O daughter, and see, and incline thine ear.*",
+      "english_patterns": ["hear, o daughter, and see"]
+    },
+    {
+      "id": "PRIM.VERSE.PS44_13",
+      "lxx_ref": "Ps. 44:13",
+      "slavonic_canonical": "Лицꙋ̀ твоемꙋ̀ помоля́тся бога́тіи лю́дстіи",
+      "slavonic_patterns": ["лицу твоему помолятся"],
+      "greek": "τὸ πρόσωπόν σου λιτανεύσουσιν οἱ πλούσιοι τοῦ λαοῦ",
+      "english_canonical": "*Verse: The rich among the people shall entreat thy countenance.*",
+      "english_patterns": ["the rich among the people shall entreat"]
+    },
+    {
+      "id": "PRIM.VERSE.PS44_15",
+      "lxx_ref": "Ps. 44:15",
+      "slavonic_canonical": "Приведꙋ́тся Царе́ви дѣ́вы въ слѣ́дъ е҆я̀, и҆скренняѧ е҆я̀ приведꙋ́тся тебѣ̀",
+      "slavonic_patterns": ["приведутся цареви девы", "помянутся слца двы"],
+      "greek": "ἀπενεχθήσονται τῷ Βασιλεῖ παρθένοι ὀπίσω αὐτῆς",
+      "english_canonical": "*Verse: Virgins shall be brought unto the King after her, her companions shall be brought unto Thee.*",
+      "english_patterns": ["virgins shall be brought unto the king", "the virgins that follow her"]
+    },
+    {
+      "id": "PRIM.VERSE.PS44_18",
+      "lxx_ref": "Ps. 44:18",
+      "slavonic_canonical": "Помянꙋ̀ и҆́мя твоѐ во вся́комъ ро́дѣ и҆ ро́дѣ",
+      "slavonic_patterns": ["помяну имя твое"],
+      "greek": "μνησθήσομαι τοῦ ὀνόματός σου ἐν πάσῃ γενεᾷ καὶ γενεᾷ",
+      "english_canonical": "*Verse: I will remember thy name in every generation and generation.*",
+      "english_patterns": ["remember thy name in every generation"]
+    },
+    {
+      "id": "PRIM.VERSE.PS150_1",
+      "lxx_ref": "Ps. 150:1",
+      "slavonic_canonical": "Хвали́те Бо́га во святы́хъ е҆гѡ̀, хвали́те е҆го̀ во оу҆тверже́ніи си́лы е҆гѡ̀",
+      "slavonic_patterns": ["хвалите бога во святых"],
+      "greek": "Αἰνεῖτε τὸν Θεὸν ἐν τοῖς ἁγίοις αὐτοῦ",
+      "english_canonical": "*Verse: Praise God in His saints; praise Him in the firmament of His power.*",
+      "english_patterns": ["praise god in his saints"]
+    }
+  ],
+  "sunday_heirmoi_greek": {
+    "T1_O1": "Σοῦ ἡ τροπαιοῦχος δεξιά",
+    "T1_O3": "Ὁ μόνος εἰδὼς τῆς τῶν βροτῶν",
+    "T1_O4": "Ὄρος σε τῇ χάριτι τῇ θείᾳ κατάσκιον",
+    "T1_O5": "Ὁ φωτίσας τῇ ἐλλάμψει",
+    "T1_O6": "Ἐκύκλωσεν ἡμᾶς ἐσχάτη ἄβυσσος",
+    "T1_O7": "Σὲ νοητήν, Θεοτόκε, κάμινον",
+    "T1_O8": "Ἐν καμίνῳ Παῖδες Ἰσραήλ",
+    "T1_O9": "Τύπον τῆς ἁγνῆς λοχείας σου",
+    "T2_O1": "Ἐν βυθῷ κατέστρωσε ποτέ",
+    "T2_O3": "Ἐν πέτρᾳ με τῆς πίστεως στερεώσας",
+    "T2_O4": "Ὑμνῶ σε, ἀκοῇ γάρ, Κύριε, εἰσήκουσα",
+    "T2_O5": "Ὁ φωτισμὸς τῶν ἐν σκότει κειμένων",
+    "T2_O6": "Ἐν ἀβύσσῳ πταισμάτων κυκλούμενος",
+    "T2_O7": "Ἀντίθεον πρόσταγμα παρανόμου τυράννου",
+    "T2_O8": "Κάμινος ποτὲ πυρὸς ἐν Βαβυλῶνι",
+    "T2_O9": "Ὁ τῷ Πατρὶ συνάναρχος Υἱὸς καὶ Λόγος",
+    "T3_O1": "Ὁ τὰ ὕδατα πάλαι νεύματι θείῳ",
+    "T3_O3": "Ὁ ἐκ μὴ ὄντων τὰ πάντα παραγαγών",
+    "T3_O4": "Ἔθου πρὸς ἡμᾶς κραταιὰν ἀγάπην, Κύριε",
+    "T3_O5": "Πρὸς σὲ ὀρθρίζω, τὸν πάντων Δημιουργόν",
+    "T3_O6": "Ἄβυσσος ἐσχάτη ἁμαρτημάτων ἐκύκλωσέ με",
+    "T3_O7": "Ὡς πάλαι τοὺς εὐσεβεῖς τρεῖς Παῖδας",
+    "T3_O8": "Ἀστέκτῳ πυρὶ ἑνωθέντες",
+    "T3_O9": "Καινὸν τὸ θαῦμα καὶ θεοπρεπές",
+    "T4_O1": "Θαλάσσης τὸ ἐρυθραῖον πέλαγος",
+    "T4_O3": "Εὐφραίνεται ἐπὶ σοὶ ἡ Ἐκκλησία σου, Χριστέ",
+    "T4_O4": "Ἐπαρθέντα σε ἰδοῦσα ἡ Ἐκκλησία",
+    "T4_O5": "Σύ, Κύριέ μου, φῶς εἰς τὸν κόσμον ἐλήλυθας",
+    "T4_O6": "Θύσω σοι μετὰ φωνῆς αἰνέσεως, Κύριε",
+    "T4_O7": "Ἐν τῇ καμίνῳ Ἀβραμιαῖοι Παῖδες",
+    "T4_O8": "Χεῖρας ἐκπετάσας Δανιήλ",
+    "T4_O9": "Λίθος ἀχειρότμητος ὄρους",
+    "T5_O1": "Ἵππον καὶ ἀναβάτην εἰς θάλασσαν Ἐρυθράν",
+    "T5_O3": "Ὁ πήξας ἐπ' οὐδενὸς τὴν γῆν",
+    "T5_O4": "Τὴν θείαν ἐννοήσας σου κένωσιν",
+    "T5_O5": "Ὁ ἀναβαλλόμενος φῶς ὡς ἱμάτιον",
+    "T5_O6": "Μαινομένην κλύδωνι ψυχοφθόρων παθῶν",
+    "T5_O7": "Ὁ ὑπερυψούμενος τῶν Πατέρων Κύριος",
+    "T5_O8": "Σοὶ τῷ παντουργῷ ἐν τῇ καμίνῳ Παῖδες",
+    "T5_O9": "Ἠσαΐα χόρευε, ἡ Παρθένος ἔσχεν ἐν γαστρί",
+    "T6_O1": "Ὡς ἐν ἠπείρῳ πεζεύσας ὁ Ἰσραήλ",
+    "T6_O3": "Οὐκ ἔστιν ἅγιος ὡς σύ, Κύριε ὁ Θεός μου",
+    "T6_O4": "Χριστός μου δύναμις, Θεὸς καὶ Κύριος",
+    "T6_O5": "Τῷ θείῳ φέγγει σου, ἀγαθέ",
+    "T6_O6": "Τοῦ βίου τὴν θάλασσαν ὑψουμένην καθορῶν",
+    "T6_O7": "Δροσοβόλον μὲν τὴν κάμινον",
+    "T6_O8": "Ἐκ φλογὸς τοῖς ὁσίοις δρόσον ἐπήγασας",
+    "T6_O9": "Θεὸν ἀνθρώποις ἰδεῖν ἀδύνατον",
+    "T7_O1": "Νεύματί σου πρὸς γεώδη ἀντίτυπον",
+    "T7_O3": "Ὁ κατ' ἀρχὰς τοὺς οὐρανοὺς παντοδυνάμῳ λόγῳ",
+    "T7_O4": "Πατρικοὺς κόλπους μὴ λιπών",
+    "T7_O5": "Νὺξ ἀφεγγὴς τοῖς ἀπίστοις, Χριστέ",
+    "T7_O6": "Ναυτιλλόμενος τῷ σάλῳ τῶν βιωτικῶν μεριμνῶν",
+    "T7_O7": "Κάμινον παῖδες πυρίνην πάλαι δροσοβόλον",
+    "T7_O8": "Ἄφλεκτος πυρὶ ἐν Σινᾷ προσομιλοῦσα βάτος",
+    "T7_O9": "Μὴ τῆς φθορᾶς διαπείρᾳ κυοφορήσασα",
+    "T8_O1": "Ἁρματηλάτην Φαραὼ ἐβύθισε",
+    "T8_O3": "Ὁ στερεώσας κατ' ἀρχὰς τοὺς οὐρανούς",
+    "T8_O4": "Σύ μου ἰσχύς, Κύριε, σύ μου καὶ δύναμις",
+    "T8_O5": "Ἵνα τί με ἀπώσω ἀπὸ τοῦ προσώπου σου",
+    "T8_O6": "Ἱλάσθητί μοι, Σωτήρ, πολλαὶ γὰρ αἱ ἀνομίαι μου",
+    "T8_O7": "Θεοῦ συγκατάβασιν τὸ πῦρ ᾐδέσθη ἐν Βαβυλῶνι",
+    "T8_O8": "Ἑπταπλασίως κάμινον τῶν Χαλδαίων ὁ τύραννος",
+    "T8_O9": "Ἐξέστη ἐπὶ τούτῳ ὁ οὐρανός"
+  }
+}

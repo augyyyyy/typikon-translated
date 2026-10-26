@@ -1,160 +1,520 @@
 # Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)
-## Raw Draft Translation — Cohort 14: Physical Pages 221–240 (Leaves p221–p240 / Book pp. 217–236)
+## Cohort 14: Physical Pages 258–278 (Leaves p262–p278)
 
-=== LEAF p221 ===
-*(Physical Page 221 / Book Page 217)*
+> [!NOTE]
+> **Historical & Canonical Significance**  
+> Cohort 14 concludes the legal enactments of the 1891 Lviv Provincial Synod (*Чинности и рѣшеня руского провинціяльного Собора въ Галичинѣ ôтбувшого ся во Львовѣ въ роцѣ 1891*). It features the conclusion of **Titulus XV (On Church Property)**, the historic **Signatures of the Synodal Hierarchy and Clergy** (including Fr. Isidore Dolnytsky, author of the 1899 Typikon, and Dr. Isidore Sharanevych, Senior of the Stavropeghial Institute), the formal **Decree of Papal Confirmation** from Rome (Pope Leo XIII and the Sacred Congregation *de Propaganda Fide pro negotiis Ritus Orientalis*), and the **Official Synodal Table of Contents** detailing the entire statutory framework of the Galician Greek-Catholic Church.
 
-of celibacy, shall by favorable and prudent counsel restrain and confirm them in that resolution.
-14. Those of the seminarians however who desire to embrace the state of matrimony shall not dare to do this sooner than after having duly completed all theological studies and having already been dismissed from the seminary; which is to be understood also concerning betrothal itself, and that under penalty of exclusion from the reception of Sacred Orders. For two things are to be feared from such premature contracting of matrimony: namely, the turning away of minds from diligent application unto studies, and estrangement from the due cultivation of piety; for a spirit distracted by lusts cannot diligently apply itself thereto. Furthermore, an excessively vehement desire to marry before the reception of Sacred Orders makes dedication unto the state of celibacy at least unsuited, and perchance also odious.
-15. As to the observance of discipline, this is accurately set forth in the rules themselves, whereby therefore, as with a powerful engine, governance is to be directed toward the full and perfect formation of the seminarians; in particular, the superiors of the seminaries shall watch that the seminarians frequently, and if possible every week, as is commonly done in seminaries, or at least twice in a month, approach the Mystery of Penance and the Most Holy Eucharist, that they make daily meditation for at least half an hour, spiritual reading, and examination of conscience, and in their proper time perform spiritual retreats, and finally that they be devoutly present daily at the Divine Liturgy and fail not to visit the Most Holy Gifts, all of which shall take place in common. But whereas the Lord hath placed the fullness of all good in Mary [^233], and whereas He hath granted unto Her so much grace as suffices for the salvation of all [^234], therefore doth this Synod earnestly desire that the seminarians be inflamed with true devotion toward that same most glorious Mother of our Lord; and it strictly enjoins upon the spiritual director that he frequently form them unto that precious devotion by suitable discourses, and endeavor by all means
+---
 
-=== LEAF p222 ===
-*(Physical Page 222 / Book Page 218)*
+## Table of Contents
+1. [Titulus XV. On Church Property *(Conclusion)*](#titulus-xv-on-church-property-conclusion)
+2. [Signatures of the Synodal Fathers](#signatures-of-the-synodal-fathers)
+   - [The Synodal Hierarchy & Presidency](#the-synodal-hierarchy--presidency)
+   - [From the Archeparchy of Lviv](#from-the-archeparchy-of-lviv)
+   - [From the Eparchy of Przemyśl](#from-the-eparchy-of-przemyśl)
+   - [From the Eparchy of Stanyslaviv](#from-the-eparchy-of-stanyslaviv)
+3. [Decree of Papal Confirmation](#decree-of-papal-confirmation)
+4. [Official Synodal Table of Contents](#official-synodal-table-of-contents)
+   - [Part I: Acts of the Synod](#part-i-acts-of-the-synod)
+   - [Part II: Decrees of the Synod (Tituli I–XV)](#part-ii-decrees-of-the-synod)
+   - [Part III: Concluding Acts & Confirmation](#part-iii-concluding-acts--confirmation)
+5. [Scholarly Critical Apparatus & Footnotes](#scholarly-critical-apparatus--footnotes)
 
-to preserve and maintain in its vigor the Sodality recently established in the Seminary of Lviv under the title: "Presentation of the Most Pure Virgin in the Temple," which was endowed by the Most Holy Father Pope Leo XIII with many indulgences and a privileged altar, unto the end that under the patronage of the Most Holy Virgin, who was once reared in the Temple, the seminarians may in the seminary be imbued with a like spirit of devotion, and afterwards, having gone forth from it, may be able by example, word, and deed to bring forth Christ the Lord in the hearts of men.
-16. As to scholarly pursuits, in addition to those which professors publicly teach in schools, those same superiors shall take care that the seminarians in turn practice the composing and delivering of sermons, and moreover that they be thoroughly instructed in the frequent reading of Holy Scripture in the Church Slavonic tongue, as also in the grammar of that tongue, and no less in the science and celebration of the rites and church chant of our Church.
-Whereas upon the exact observance of seminary discipline depends almost the entire fruit and success of the faithful and of the whole nation, therefore both the Bishops and the other superiors of the seminaries shall direct their entire labor and endeavor unto this, that that discipline be duly observed, and shall themselves both by word and deed stimulate the seminarians unto the same, considering all this in spirit: that nothing is more pleasing unto God, nor more profitable unto the Church and society, than due solicitude for the seminary and the skillful and proper education of clerics in all virtues, sciences, and Christian manners.
+---
 
--------------------------
+=== LEAF p262 ===
+*(Physical Page 258 / Leaf p262)*
 
-TITULUS IX.
+**6.** ...that they have recourse to their Ordinaries, but never presume to undertake that on their own. Further, let them endeavor that these goods be preserved intact in their state, and that especially in the case of a transfer of administrators they suffer no injury to the detriment of their successors; in particular, let them not clear-cut forests where the benefice (*ерекція*) possesses such, but for obtaining profit from them, let them proceed according to the forest laws; which must likewise be observed with respect to fruit orchards.
 
-CHAPTER I.
+**7.** The leasing [of church property] for a year, or with the permission of the Ordinariate for three years, is to be granted to none other than the most honorable Christians.
 
-On the Dignity of a Priest of the New Testament.
+*Done in Lviv, on the 8th day of October, 1891.*
 
-1. That which the divinely inspired Sirach writes in the Book of Wisdom concerning the height and glory of the first High Priest of the law of shadows pertains unto every priest of the Gospel law—
+---
 
-=== LEAF p223 ===
-*(Physical Page 223 / Book Page 219)*
+## Signatures of the Synodal Fathers
 
-as holy Fathers Augustine [^235] and Gregory the Great [^236] assert. For thus Sirach writes concerning Aaron the brother of Moses [^237]: "He exalted Aaron, a holy man like unto him, his brother... He gave him the priesthood of the people, and blessed him with splendid ornament." And afterwards, having described the wondrous costliness and beauty of the sacred vestments, he continues thus: "Their sacrifices were burned every day twice continually... He chose him out of all men living to offer sacrifice unto the Lord, incense, and a sweet savor for a memorial, to make reconciliation for his people. He gave unto him His commandments, and authority in the covenants of judgments, to teach Jacob the testimonies, and to enlighten Israel in His law [^238]." What is more, every priest of the New Testament is so much higher and more glorious than Aaron as reality exceeds the shadow. For he is chosen by God out of the general multitude of the human race, that he may offer sacrifices unto Him, and that not of calves, or of goats, or of fragrant material incense, to be consumed indeed by fire coming down from heaven, yet material; but the sacrifice of the unblemished Body and the most precious Blood of the very Only-Begotten Son of God for an odor of sweetness penetrating the clouds and ascending even unto the throne of God, to be consumed by a fire far more wondrous, as St. Chrysostom saith [^239], that is, by the Holy Spirit, transforming the proposed gifts. For the Lord, rejecting the sacrifices of the Old Testament together with its priests, glorifies Himself concerning this alone in Malachi [^240], saying: "I have no pleasure in you, saith the Lord Almighty, neither will I accept a sacrifice at your hands; for from the rising of the sun even unto the going down thereof My name is glorified among the Gentiles; and in every place incense is offered unto My name, and a pure sacrifice: for My name is great among the Gentiles, saith the Lord Almighty." Likewise also at the changing of bread and wine into the most honorable Body and Blood of the Lord, the priest shows himself to be a far greater and more frequent worker of miracles than was Moses at the turning of the Egyptian rivers into blood and his staff into a serpent. Admiring this, the renowned Teacher of Africa, St. Augustine, exclaims: "O re-
+The Names of the Signatories Follow:
 
-=== LEAF p224 ===
-*(Physical Page 224 / Book Page 220)*
+### The Synodal Hierarchy & Presidency
 
-verend dignity of priests, in whose hands the Son of God is incarnate, as it were in the Virgin's womb!" And again: "O venerable holiness of hands! O happy exercise! He Who created me, if it be lawful so to speak, gave unto me to create Himself; and He Who created me without me, created Himself through me!" [^241]. But what shall we say concerning the power of the priest over the Mystical Body of Christ, or over the Church? If the justification of the ungodly, as St. Thomas teaches, is the greatest work of God, then the priest who absolves a man from sins performs a greater work than the creating of heaven and earth, even as St. Augustine also previously taught, saying: "It is a greater work to make a righteous man out of an ungodly man than to create heaven and earth" [^242].
-2. Gathering all this together, Cyril III, Metropolitan of Kyiv, in the middle of the 13th century in his Synod thus addressed the priests: "Hear, O holy council of priests, for unto you do I turn my words: Ye are called earthly angels and heavenly men; ye together with the angels stand at the altar of the Lord; ye with the Seraphim bear the Lord; ye bring down the Holy Spirit from heaven, and change the bread into the Body of Christ, and the wine into the Blood of Christ!... Ye bind on earth, and God doth not loose in heaven; ye loose on earth, and God doth not bind in heaven. Through you doth God accomplish the mystery of the salvation of the human race; you hath He Himself appointed as watchmen and pastors of His sheep, for whom He poured out His most precious blood" [^243].
-3. But although the priest of the New Testament is not clothed with such fair material garments as Aaron, yet is he clothed with raiment far more precious, immaterial, the author whereof is not man, but the Holy Spirit Himself, and clad in Whose vesture the priest confesses himself in the prayer of the Cherubic Hymn, praying: "And strengthen me by the power of the Holy Spirit, clad with the grace of the priesthood": and before the Holy Liturgy, at the putting on of the sticharion (*stikhar*), in the person of the Church, the Bride of Christ, and in the person of Christ, the Bridegroom
+* **Fr. Agostino, Archbishop of Larissa**, Apostolic Delegate, President of the Synod. [^274]
+* **Sylvester Sembratovych**, Metropolitan of Halych, Archbishop of Lviv of the Ruthenian Catholics, Bishop of Kamianets.
+* **Julian Pelesz**, Bishop of Przemyśl, Sambir, and Sanok.
+* **Julian Sas-Kuilovsky**, Bishop of Stanyslaviv.
 
-=== LEAF p225 ===
-*(Physical Page 225 / Book Page 221)*
+---
 
-of the Church [^244], saying: "My soul shall exult in the Lord, for He hath clothed me with the garment of salvation, and with the robe of gladness hath He covered me; He hath set a crown upon me as upon a bridegroom, and as a bride hath He adorned me with beauty" [^245].
-4. But unto the dignity of so lofty an excellence ought to correspond excellence of life, that is, a constellation of virtues and a treasure of sacred learning, wherewith, as if with two wings, the priest, being provided, in the fulfillment of his office soars aloft, and which were prefigured in the very vestments of Aaron.
+### From the Archeparchy of Lviv
 
-CHAPTER II.
+* **Mykhailo Singalevych**, Archpriest of the Greek-Catholic Metropolitan Chapter of Lviv, Domestic Prelate of His Holiness Pope Leo XIII.
+* **Lev Hoterovsky**, Archdeacon of the Greek-Catholic Metropolitan Chapter of Lviv.
+* **Andrei Biletsky**, Scholastic of the Greek-Catholic Metropolitan Chapter of Lviv, Domestic Prelate of His Holiness Pope Leo XIII.
+* **Yosyf Kobyliansky**, Chancellor of the Metropolitan Chapter.
+* **Lev Turkevych**, Canon of the Greek-Catholic Chapter of Lviv and Pastor of the Archcathedral.
 
-On the Righteousness of Life of a Priest.
+=== LEAF p263 ===
+*(Physical Page 259 / Leaf p263)*
 
-1. The constellation of virtues wherewith a priest ought to shine is derived by St. Thomas from the eight sacred garments of Aaron, in such wise that the breeches (*nadrahy*) signify chastity; the linen tunic, purity of life; the girdle, moderation in choice; the tiara or mitre, rectitude of intention; the golden plate upon the forehead, unceasing remembrance of God in meditation; the shoulder-pieces (*naramennyk*), bearing the infirmities of the people upon oneself; the breastplate, solicitude of love which they ought to bear in their heart and bosom toward the people. The hyacinth-blue tunic signifies heavenly conversation through works of perfection. Afterwards he adds, saying: for this cause also there are attached unto the hem of the hyacinth tunic golden bells, whereby is signified the knowledge of divine things, which ought to be joined unto the heavenly conversation of the High Priest; there are joined likewise pomegranates, whereby are expressed unity of faith and concord in good morals, since his doctrine ought to be so conjoined that the unity of faith and peace may not be severed through it [^246]. Likewise the ecumenical teacher St. Cyril of Alexandria similarly explains the signification of the bells and pomegranates (in the book: *De adoratione in spiritu et veritate*), writing: "For those golden bells and cities' pomegranates are by no means an obscure riddle of saving preaching. For even as a
+* **Dr. Yosyf Komarnytsky**, Canon of the Greek-Catholic Metropolitan Chapter and Ordinary Professor of the University.
+* **Martin Pakizh**, Privy Chamberlain of His Holiness, Canon of the Greek-Catholic Chapter of Lviv.
+* **Emilian Bilynsky**, Canon of the Greek-Catholic Metropolitan Chapter of Lviv.
+* **Dr. Klyment Sarnytsky**, Protohegumen of the Order of Saint Basil the Great.
+* **Mykhailo Malynovsky**, Retired Canon, Archdeacon of the Metropolitan Chapter.
+* **Oleksandr Bachynsky**, Rector of the Greek-Catholic General Seminary of Lviv, Honorary Canon of the Chapter of Lviv.
+* **Vasyl Ilnytsky**, Director of the Imperial-Royal Academic Gymnasium, Honorary Canon, Member of the Provincial School Board, Imperial-Royal School Councillor.
+* **Dr. Theol. Yosyf Levytsky**, Honorary Canon of the Metropolitan Chapter, Imperial-Royal Professor.
+* **Vasyl Fortuna**, Honorary Canon, Pastor and Dean of Ternopil.
+* **Dr. Teofil Sembratovych**, Rector of the Seminary of Vienna.
+* **Dr. Emilian Ohonovsky**, Titular Councillor of the Metropolitan Consistory of Lviv, Public Ordinary Professor of the University of Lviv.
+* **Dr. Ioan Bartoshevsky**, Active Councillor of the Metropolitan Consistory of Lviv and Public Ordinary Professor of the Imperial-Royal University of Lviv.
+* **Onufriy Lepky**, Professor of Religion in the Imperial-Royal Franz Joseph Gymnasium of Lviv, Councillor of the Metropolitan Consistory.
+* **Dr. Yosyf Melnytsky**, Vice-Rector.
+* **Ioan Hushalevych**, Retired Professor.
+* **Isidore Dolnytsky**, Spiritual Director of the Seminary. [^275]
+* **Severyn Toronsky**, Vice-Rector of the Ruthenian Greek-Catholic Seminary.
+* **Teodor Korduba**, Dean and Pastor of Berezhany.
+* **Stefan Yuryk**, Prefect of Studies in the Greek-Catholic General Seminary of Lviv.
+* **Oleksandr Radykevych**, Dean of Bibrka.
+* **Hryhoriy Slovytsky**, Dean of Busk and Pastor in Kozliv.
+* **Dr. Havryil Kryzhanovsky**, Referendary, Councillor, and Chancellor of the Metropolitan Consistory.
+* **Yulian Koptsiansky**, Administrator of the Deanery of Halych and Pastor of Halych.
+* **Mykhailo Kulmatytsky**, Dean and Pastor of Horodok.
+* **Yosyf Kernyakevych**, Dean of Zhuravno, Pastor in Cherniv.
 
-=== LEAF p226 ===
-*(Physical Page 226 / Book Page 222)*
+=== LEAF p264 ===
+*(Physical Page 260 / Leaf p264)*
 
-city is indeed surrounded by a single wall on the outside, but contains far more houses within itself, in that very same manner a pomegranate is surrounded by a single outer rind only, but within the seeds are separated among themselves by delicate membranes, as if by walls, and I might almost say they cluster like little houses. A bell therefore is joined unto each pomegranate, for each city also hath its own Teacher, who by the sound and harmony of divine teachings might proclaim unto all the entrance of our Savior into the Holy of Holies." For the dread of death threatened those who were charged with performing the priestly office in the tabernacle, namely Aaron, if the bells should not resound to the uttermost. For silence is especially perilous for Teachers, and this is evidently that concerning which St. Paul saith: "For woe is unto me, if I preach not the gospel." And St. Jerome adds: "Such ought to be the learning and knowledge of the High Priest of God that both his walk and his gestures and everything should be a preaching. Let him understand the truth with his mind, and proclaim it by his whole posture and dress, so that whatever he does, whatever he speaks, may be instruction for the nations: for without bells and diverse colors, and precious stones and flowers of virtues, he cannot enter into the Holy Place, nor possess the name of Superior" [^247].
-In particular, as to the righteousness of life, the Synod sets forth for priests the following precepts for observance: first, in the house of God; next, in their own house; and finally, outside the house, that they may know what they ought most of all to avoid and what to perform.
-2. "Of all priests," saith St. Leo the Great, "the choice is so excellent that that which in other members of the Church is free from guilt, in them is nevertheless regarded as unlawful" [^248]. Therefore justly doth the holy Council of Trent [^249] so wisely declare concerning the life of priests: "There is nothing that doth more continually dispose others unto piety and divine worship than the life and example of those who have dedicated themselves unto the service of God. For when they are seen to be raised above the affairs of this world unto a higher sta-
+* **Kornyliy Montsibovych**, Administrator of the Deanery of Zalozhtsi and Pastor in Vertilka.
+* **Hryhoriy Chubaty**, Dean of Zbarazh, Pastor in Stupky.
+* **Yevstakhiy Klosevych**, Dean of Zboriv, Pastor in Prysivtsi.
+* **Oleksandr Chemarynsky**, Dean and Pastor of Zolochiv.
+* **Ihnatiy Hubchak**, Dean and Pastor of Kalush.
+* **Ioan Yurkevych**, Dean of the Suburban Deanery of Lviv, Pastor in Hermaniv.
+* **Aleksander Tanchakovsky**, Administrator of the Deanery of Naraiv, Pastor of Dunaiv.
+* **Antoniy Davydovych**, Dean of Olesko, Pastor in Zabolottsi.
+* **Mykolay Kobrynsky**, Pastor in Tseniv.
+* **Lev Levytsky**, Dean of Perehinske, Pastor in Yanivtsi.
+* **Ilariy Stetkevych**, Dean of Pidhaitsi and Pastor in Bozhykiv.
+* **Yosyf Makohonsky**, Dean of Rohatyn, Pastor in Horishnia Lypytsia.
+* **Konstantyn Strotsky**, Administrator of the Deanery of Rozdil and Pastor in Rudnyky.
+* **Ioan Slyuzar**, Dean and Pastor of Skalat.
+* **Ioan Zalutsky**, Dean and Pastor of Terebovlya.
+* **Yulian Levytsky**, Dean of Univ, Pastor in Slovita.
+* **Teodor Stupnytsky**, Dean of Khodoriv, Pastor in Molotiv.
+* **Ioan Sokhatsky**, Dean of Kholoyiv, Pastor in Stoyaniv.
+* **Yevstakhiy Merunovych**, Dean of Shchyrets, Pastor of the Church of the Holy Apostles Peter and Paul in Lviv.
+* **Yosyf Zayachkovsky**, Pastor in Lopianka of the Deanery of Perehinske.
+* **Adolf Vasylevsky**, Pastor of Lviv, Vice-Dean of the Urban Deanery of Lviv.
+* **Fr. Meletiy Tybnyka**, Hegumen of the Hoshiv Monastery of the Order of Saint Basil the Great.
+* **Fr. Pavlo Pylynsky**, Hegumen of the Monastery of Zolochiv.
+* **Fr. Vladyslav Dorozhynsky**, Pastor in Mizun.
+* **Fr. Longin Karpovych**, Hegumen of Pidhirtsi.
+* **Dmytro Huzar**, Titular Councillor of the Metropolitan Consistory, Pastor in Zavaliv.
+* **Vasyl Kopytchak**, Imperial-Royal Gymnasium Professor of Religion in Ternopil.
+* **Aleksander Stefanovych**, Professor of Religion in the Pedagogical Seminary of Lviv.
+* **Kassiyan Kunytsky**, Imperial and Royal Military Chaplain from the Eparchy of Lviv.
+* **Klyment Hlynsky**, Titular Consistorial Councillor, Pastor in Kamianka.
+* **Atanasiy Pashkovsky**, Pastor in Olesko.
+* **Volodymyr Petrushevych**, Archcathedral Confessor.
 
-=== LEAF p227 ===
-*(Physical Page 227 / Book Page 223)*
+=== LEAF p265 ===
+*(Physical Page 261 / Leaf p265)*
 
-tion, the rest turn their eyes upon them as into a mirror, and take from them that which they ought to imitate. Therefore it behoves clerics, called unto the lot of the Lord's ministry, so to order their entire life and morals that by their dress, gesture, walk, speech, and all other things they may show forth only that which is grave, moderate, and full of religion; let them avoid even slight faults, which in them would be very great, so that their actions may awaken reverence in all." And to begin with that which a priest ought to avoid, then—first: in the house of God and the church, or during sacred actions, they shall not converse, nor gaze curiously upon the faithful; they shall not celebrate sacred actions, especially the awe-inspiring Sacrifice, superficially, distractedly, hastily, and with an absent, dissipated mind; and the holy rites themselves they shall perform uniformly, and execute accurately according to the exemplar which this Synod presents for observance in the rubric specially prepared for that purpose. Furthermore, during sacred actions they shall not scold anyone; they shall not forget also to render honor or reverences (prostrations / *metanias*) before the Most Holy Gifts, not haphazard, but profound; they shall not approach the celebration of the Holy Liturgy without preparation and in a state of distraction, or without a cassock (*reverenda*) and without a collar (*oboychyk*), or with disheveled hair, or with a beard untrimmed for several days, or in torn garments and soiled vestments; nor shall they dare to celebrate sacred actions on unclean vessels; and finally, in the house of God, where His Only-Begotten Son Himself dwells with a multitude of angels present, they shall not behave themselves as in human dwellings.
-3. At home they shall not neglect the recitation of the Canonical Hours, and they shall not approach the table without prayer, nor depart from it without having given thanks; and priests shall not cease to watch that all members of the family and servants do not pass their lives without daily exercises of piety, that on feast days they fail not to be present at divine services and at appointed times receive the Holy Mysteries; let them endeavor to preserve peace and concord in their house among all members, mindful of the words of the holy
+* **Ioan Chapelsky**, Prefect of the Greek-Catholic Seminary in Lviv.
+* **Dr. Tyt Myshkovsky**, Prefect of Studies in the Greek-Catholic General Seminary in Lviv.
+* **Dr. of Sacred Theology Ilariy Vatsyk**, Prefect of Studies, Catechist of Gymnasium V in Lviv.
+* **Onufriy Zatserkovny**, Pastor in Sknyliv.
+* **Lev Dzhulynsky**, Pastor in Lapshyn, Editor of the periodical *Poslannyk*.
+* **Anatol Dolynsky**, Pastor of Yakhtoriv.
+* **Ioan Redkevych**, Archcathedral Preacher.
+* **Aleksander Zderkovsky**, Pastor of Krushelnytsia.
+* **Yevheniy Huzar**, Catechist of the Municipal Girls' School and Deputy Secretary to His Excellency the Most Reverend Metropolitan.
+* **Petro Frants Krypyakevych**, Archcathedral Vicar of Lviv, Notary of the Provincial Synod.
+* **Yakov Syroyidov**, Archcathedral Priest of Lviv.
+* **Dr. Isidore Sharanevych**, Senior of the Stavropeghial Institute in Lviv, Public Ordinary Professor in the Imperial-Royal University of Lviv. [^276]
 
-=== LEAF p228 ===
-*(Physical Page 228 / Book Page 224)*
+---
 
-Apostle, saying [^250]: "For if a man know not how to rule his own house, how shall he take care of the church of God?" Moreover, this present Synod strictly commands that on fast days, and especially on feast days and temple patronal feasts on which fasting is prescribed, such as: on the day of the Exaltation of the Honorable Cross, the Beheading of St. John the Baptist, and others, priests themselves shall not eat meat, whether openly or secretly, nor tolerate that others eat it, and that on such days they shall not permit dancing and music to be held in their house or among the faithful. An evil example given in this matter by a pastor exceedingly scandalizes the faithful and leads them unto depreciation of religion and of the authority of the priest himself; likewise the priests themselves, on the occasion of recreation during any feast, shall not forget that they will celebrate the Divine Liturgy on the following day, and that it behoves them to be fasting from midnight; likewise they shall avoid games of hazard at cards, played with excessive stakes and for the sake of obtaining gain; likewise they shall not engage in hunting, for such an occupation betrays a worldly spirit and levity, incompatible with the dignity of those who on every occasion ought to be fishers of souls by the spotlessness of their life, after the example of St. Josaphat and St. Cajetan, who among the people earned for themselves the name of hunters and catchers of souls. Theatrical performances, dances, and other public spectacles, which frequently cannot be reconciled with the holiness of the priestly life and cannot be visited without scandal to the people, priests must avoid. Appearing publicly, they shall preserve both in dress and in deportment such modesty and gravity as corresponds unto their station; in particular, as to dress, priests shall wear a long garment, that is, a cassock (*reverenda*) with a collar (*oboychyk*), not only during sacred actions, but also outside of them, whenever they assemble for public functions, whether ecclesiastical or civil; yet appearing on other occasions publicly, they may indeed wear shorter dress, but not according to the worldly cut, but according to the regulation indicated unto the clergy by the Ordinariates of this our province, the color of which garment
+### From the Eparchy of Przemyśl
 
-=== LEAF p229 ===
-*(Physical Page 229 / Book Page 225)*
+* **Venedykt Lytynsky**, Archdeacon of the Chapter of Przemyśl.
+* **Myron Podolynsky**, Canon of the Chapter of Przemyśl.
+* **Ioan Voytovych**, Canon of the Chapter of Przemyśl and Rector of the Diocesan Seminary.
+* **Dr. of Sacred Theology Yosyf Delkevych**, Honorary Greek-Catholic Canon of the Eparchy of Przemyśl, Retired Professor of Church History in the University of Lviv.
+* **Vasyl Cheparnyk**, Honorary Canon of the Eparchy of Przemyśl and Pastor of Sanok.
+* **Plyaton Paslavsky**, Honorary Canon of the Eparchy of Przemyśl and Pastor of Belz.
+* **Mykolay Rozdilsky**, Honorary Canon of the Chapter of Przemyśl, Pastor of Sokal.
+* **Ioan Koptsiansky**, Honorary Canon of the Chapter of Przemyśl, Retired Dean and Greek-Catholic Pastor of Krynytsia.
+* **Ioan Borsuk**, Pastor of Kraków and Honorary Canon of Przemyśl.
+* *With reservation of the rights reserved to the Apostolic See, I sign:* [^277]  
+  **Dr. Yosyf Cherlyunchakevych**, Retired Professor and Dean of the Jagiellonian University of Kraków and of Lviv.
+* **Oleksiy Toronsky**, Professor of Religion in the Imperial and Royal Academic Gymnasium of Lviv and Councillor of the Metropolitan Consistory.
 
-shall be black or darkish, which ought to be observed also as to head coverings; and in this matter, even as on the one hand immoderate, superfluous elegance is to be avoided, so on the other hand is all neglect; but unto such dress the priestly collar (*oboychyk*) must belong, and not something else according to the custom of the laity. Moreover, priests shall not dare to wear a full beard or side-whiskers. Walking upon public roads, and especially in towns, they shall not permit themselves ostentatiously to perform such actions as they could not do without scandalizing others whether within domestic walls—in a house—or within the precinct of villages: for example, smoking, talking loudly, or making immoderate and unbecoming gestures.
-4. At home they shall not perform such labors as are proper unto the lowest servants, and they shall not immerse themselves excessively in purely secular affairs, even though otherwise honorable, such as the medical or surgical art and the like; and they shall not summon the faithful, without very grave cause and permission of the Ordinariate, unto public secular courts; at public markets they shall so conduct themselves that they manage nothing of such sort before the people, nor conduct transactions in selling or purchasing in such a manner that they would appear to be merchants of temporal things; but in necessities of that kind let them employ some honest man who may transact those affairs in their stead, mindful of the words of the Apostle unto Timothy [^251]: "No man that wars entangles himself with the affairs of this life; that he may please him who hath chosen him to be a soldier."
-5. And although it is just that those who serve the altar should also live from the altar, and the Synod likewise doth not oppose that priests should decently request that which is due unto them by legal title, it strictly forbids, however, that they raise the dues of the stole-fee (*prava epytrakhylia*) above that which is fair and customary, or cover their cupidity and most shameful trafficking in holy things under some outwardly fair title.
-6. Let priests consider that unto them, as St. Ambrose saith, is entrusted the office of winning not money,
+=== LEAF p266 ===
+*(Physical Page 262 / Leaf p266)*
 
-=== LEAF p230 ===
-*(Physical Page 230 / Book Page 226)*
+* **Dr. of Sacred Theology Ioan Hrobelsky**, Professor of Pastoral Theology in the Greek-Catholic Seminary of Przemyśl.
+* **Poliyevkt Kmyt**, Substitute Professor of Canon Law and Prefect of Studies in the Greek-Catholic Seminary of Przemyśl.
+* **Dr. Mykolay Malynyak**, Pastor of Slyvnytsia, Delegate of Nizhankovychi.
+* **Orest Chekhovych**, Pastor of Boratyn, Vice-Dean of Belz, Eparchy of Przemyśl.
+* **Dr. Sylvester Koptsiansky**, Greek-Catholic Pastor in Kinsko, Eparchy of Przemyśl.
+* **Dioniziy Dobriansky**, Administrator of the Deanery of Biecz, Pastor in Zdynia.
+* **Volodymyr Khylyak**, Pastor in Bartne of the Deanery of Biecz.
+* **Mykhailo Prukhnytsky**, Dean of Vysochany and Pastor in Turka.
+* **Mykhailo Matkovsky**, Vice-Dean of Horozhanna and Pastor in Horozhanka, Eparchy of Przemyśl.
+* **Yosyf Merena**, Pastor of Grab, Eparchy of Przemyśl.
+* **Konstantyn Hukevych**, Pastor in Kvashenyna and Vice-Dean of Dobromyl, Eparchy of Przemyśl.
+* **Vasyl Chernetsky**, Pastor in Siltse-Belzske, of the Deanery of Belz, Eparchy of Przemyśl.
+* **Ioan Skobelsky**, Dean of Drohobych, Pastor in Lishnia, Eparchy of Przemyśl.
+* **Kyrylo Seletsky**, Pastor of Zhuzhel of the Deanery of Belz.
+* **Teodor Borys**, Pastor in Khashchiv and Vice-Dean of Zhukotyn.
+* **Markyl Myhulovych**, Dean of Zatvarnytsia, Pastor in Chorna.
+* **Toma Shumylo**, Administrator of the Deanery of Kańczuga, Pastor in Kuryłówka.
+* **Ioan Negrebetsky**, Pastor of Zalissia.
+* **Iliya Kalamunetsky**, Dean of Komarno and Pastor of Kropylnyk.
+* **Ioan Yablonovsky**, Pastor of Lyubachiv.
+* **Ioan Parylovych**, Pastor in Zlotske.
+* **Lev Hrynvevetsky**, Pastor of Bykiv.
+* **Hryhoriy Koptsiansky**, Pastor of Snitnytsia, Deanery of Muszyna.
+* **Severyn Turchmanovych**, Pastor of Lukiv, Vice-Dean of Olkhivtsi.
+* **Anatol Sinkevych**, Pastor of Stobna for the Deanery of Przemyśl.
+* **Ioan Borysevych**, Pastor of Kryvets, Vice-Dean of Porokhnyk.
+* **Ioan Reshetylo**, Pastor of Maheriv for the Deanery of Potelych.
+* **Emilian Levytsky**, Pastor of Tartakiv, Deanery of Sokal.
+* **Aleksander Nestorowych**, Dean of Sambir and Pastor in Sambir.
+* **Georgiy Hladylovych**, Pastor of Khyriv, Retired Dean of Birecha.
 
-but souls [^252], and let them keep before their eyes the saying of the holy Apostle, admonishing: "And having food and raiment let us be therewith content" [^253]. Moreover, priests shall beware of all usury whatsoever, and shall not squander their own goods, and much less those of the church, on luxury in clothing for themselves or their family, and shall not contract debts which they would not be in a condition to repay to the injury of creditors.
-7. As to virtues, first of all in regard of themselves, chastity is indispensable for priests, whether they be married, or widowers, or celibates; therefore the Synod admonishes those same priests that they arm themselves with temperance, fasting, and other pious works, as with weapons against the temptations of carnal lusts, following the example of the holy Apostle, who saith: "I keep under my body, and bring it into subjection, lest that by any means, when I have preached to others, I myself should be a castaway" [^254]. Above all, let them avoid familiar cohabitation with strange women, which, as experience teaches, leads exceedingly unto corruption of morals, as everyone may learn from the admonition given unto Palladius the Bishop by St. Isidore of Pelusium: "Avoid the assemblies of women, O good man, as far as possible... but if any necessity compel thee to meet with them, keep thine eyes cast down unto the ground... and when thou hast briefly spoken that which may strengthen and enlighten their souls, flee immediately, lest perchance longer converse weaken and crush thy powers... but however that matter may be, have no relations with women, and then shalt thou gain honor among them... and if thou shouldst say unto me that thou dost frequently converse with them, and yet hast never suffered any harm therefrom, then indeed perhaps I might suffer myself to be persuaded, yet I would that all should believe it: they say that stones are softened by water, and a rock is hollowed out by incessantly falling drops [^255]. Frequent repetition overcomes nature. If therefore nature, which doth not willingly suffer itself to be removed, is removed and aban-
+=== LEAF p267 ===
+*(Physical Page 263 / Leaf p267)*
 
-=== LEAF p231 ===
-*(Physical Page 231 / Book Page 227)*
+* **Lev Shchavynsky**, Dean of Staryi Sambir, Pastor in Stare Misto.
+* **Lev Sembratovych**, Administrator of the Deanery of Sanok and Pastor in Chertezh.
+* **Ioan Holovynsky**, Pastor in Moloshkovychi, Dean of Sudova Vyshnia.
+* **Yosyf Krushynsky**, Pastor in Selyska of the Deanery of Yavoriv.
+* **Hryhoriy Sekela**, Pastor in Lisko for the Deanery of Lisko.
+* **Emilian Didytsky**, Pastor in Mosty, Deanery of Uhniv.
+* **Antal Fedynkevych**, Pastor in Buniv, Deanery of Yavoriv.
+* **Teodor Melnyk**, Pastor of Staryava of Sanok, Delegate of the Deanery of Ustrzyki.
+* **Mykolay Nazarevych**, Pastor in the village of Serny.
+* **Antoniy Beskyd**, Pastor in Tarnavka, Vice-Dean of Jaśliska.
 
-dons that which it ought least of all, by what manner of miracle then and means should the will, which is so easily moved, not be overcome and changed by habit?" [^256].
-8. Unto celibate priests and widowers in particular the Synod enjoins that they endeavor to have for the management of the domestic household such a woman as shall either belong unto their near kin, or, if they cannot have such a one, a stranger indeed, but advanced in age and distinguished by honesty of morals. Likewise female servants, assistants of the same in labors, they shall accept who are equally pious and well-mannered, and they shall unceasingly watch over the preservation of their morality and piety, and those who are suspect and ill-conducted they shall immediately remove from their house.
-9. In relations with others, a priest ought above all to preserve gentleness, especially toward his domestic household and parishioners; for frequent occasions present themselves for the exercise of that virtue, whether in bearing human faults, or in correcting their errors and subduing passions, not infrequently sharp and stubborn. A priest therefore ought to hold his heart as it were in his hands, that he may be able without anger, in a spirit of meekness, to deal with his neighbor. For gentleness not only makes us conformed unto God above other virtues [^257], but moreover contributes most of all unto the reconciliation of human hearts. From this, however, it doth not follow that punishment ought never to be employed, since Christ the Lord Himself also at times spoke more severely unto His disciples. But that fervor ought not to proceed from anger or from passion, but only from that love which enlightens and warms all, as St. Thomas saith: "To be angry according unto right reason is praiseworthy" [^258], and St. Gregory the Great: "Let there be love, but not enervating; let there be mercy, but not indulging more than is proper" [^259].
-10. In regard of ecclesiastical superiors, the first duty of pastors as well as of other priests, which they have already promised at their ordination and assumption of their office, is true and sincere reverence and obedi-
+---
 
-=== LEAF p232 ===
-*(Physical Page 232 / Book Page 228)*
+### From the Eparchy of Stanyslaviv
 
-ence unto them. And first of all they shall show the greatest reverence and obedience unto the Roman Pontiff, the Vicar of Christ upon earth and Head of the universal Church, praying for him, defending and vindicating His dignity, and receiving and observing the ordinances of the Apostolic See in humility. With that very same proportionate sentiment ought they to be animated toward their own Bishop, not forgetting the words of St. Cyprian: "A diocese is: a people united around its Priest, and a flock attached unto its Pastor; therefore thou oughtest to know that the Bishop is in the Church, and the Church in the Bishop, and if anyone be not with the Bishop, he is not in the Church." For the Bishop, as the Apostle saith, is placed by the Holy Spirit to govern the Church of God. Therefore according to the admonition of St. Jerome: "Fearing the Superior as the Lord, and loving him as a father." All priests shall avoid every manifestation of obstinacy, and in the first place they shall endeavor: 1) that all commands of the Bishop or his vicars be faithfully executed; 2) that for conscience' sake, both in private life and in the administration of their duties, they sincerely and completely observe diocesan regulations (laws), and especially statutes; 3) that they refrain from all judging of the acts and enactments of superiors; 4) that in all doubts or matters wherein they feel themselves aggrieved, they have recourse unto their Bishop with all filial confidence and submissiveness; 5) that they never urge, either by themselves or through others, that contrary to the sentence and decision of superiors they obtain any place or parish, or that of their own will, by unlawful steps, secret compacts, troubling the magnates, canvassed petitions, or other means of that sort incompatible with the holy canons, they procure success for themselves. We do by no means forbid, however, that difficulties and objections, if any exist according to circumstances, be set forth unto superiors according to the dictate of conscience; but where the reasons set forth have not been judged sufficient for departing from the decision, then assuredly the place of Holy Scripture shall be: "An obedient man shall speak being kept [unto victory]" [^260].
+* **Vasyl Fatsevych**, Archpriest of the Episcopal Chapter of Stanyslaviv.
+* **Ioan Lytvynovych**, Custos of the Episcopal Chapter of Stanyslaviv.
+* **Teodat Shankovsky**, Honorary Canon, Dean and Pastor of the Cathedral of Stanyslaviv.
+* **Teodor Lisivych**, Honorary Canon, Dean of Kosiv, Pastor in Stari Kuty.
+* **Ioan Kobliansky**, Honorary Canon, Dean of Kolomyia, Pastor in Kolomyia, Knight of the Imperial-Royal Order of Franz Joseph.
+* **Kelestyn Kostetsky**, Honorary Canon, Dean of Bukovyna, Pastor of Chernivtsi.
+* **Vasyl Bohonos**, Honorary Canon and Pastor in Khorostkiv.
+* **Antal Kobrynsky**, Urban Dean, Pastor in Rakivtsi.
+* **Lev Kalynsky**, Dean of Tysmenytsia and Pastor in Olshanytsia.
+* **Mykhailo Hulla**, Councillor of the Episcopal Consistory, Dean of Kudryntsi, Pastor of Borshchiv and Mushkativ.
+* **Ioan Partytsky**, Titular Councillor of the Episcopal Consistory, Dean of Tovmach, Pastor in Torhovytsia.
+* **Ioan Mykhalevych**, Titular Councillor of the Episcopal Consistory, Dean of Chortkiv, Pastor in Bilobozhnytsia.
+* **Mykolay Drohomyretsky**, Dean of Buchach and Pastor from Stinka.
+* **Yulian Levytsky**, Vice-Dean of Buchach, Pastor of Zhyznomyr.
+* **Kyrylo Pachovsky**, Pastor and Dean of Bohorodchany.
+* **Kyrylo Hamorak**, Greek-Catholic Cooperator with right of parish administration in Stetseva.
 
-=== LEAF p233 ===
-*(Physical Page 233 / Book Page 229)*
+=== LEAF p268 ===
+*(Physical Page 264 / Leaf p268)*
 
-11. But whereas all authority is from God, priests shall show obedience and honor also unto the supreme Ruler, rendering unto Caesar that which is Caesar's, and by prayers, especially public ones, and namely on his name day and birthday, together with the whole people commend His person unto God. Regional authorities, judges, magistrates, and leading inhabitants they shall endeavor to win over for themselves, that their own authority may be elevated by the authority of the same, at least lest by occasion of offense they create for themselves innumerable difficulties in parochial administrations. To enter into so great a familiarity, however, that it would appear as though one wished to please the prominent alone and seek after their favor, rejecting the lower and poor among one's parishioners, offends pastoral dignity and love, and can in no wise be free from danger.—If however perchance a priest cannot gain the goodwill of the hearts of the said superiors, he shall nevertheless so conduct himself toward them that it come not to open discord, and that he give them no occasion for just complaint, refraining also both privately and publicly from every offensive word. If ever conscience should compel him to answer them with the Apostles: "We cannot," let that be done without any arrogant pride, but with wisdom and moderation [^261].
-12. Moreover, priests shall maintain mutual love and concord especially among themselves, mindful that the mark of the disciples of Christ is mutual love itself, as the Lord Himself on the Mystical Supper testifies with the words: "By this shall all men know that ye are My disciples, if ye have love one to another," which also He commanded three times in that same discourse, as if by a last testament, leaving unto them that His own and new commandment [^262]. They shall avoid all disputes, rivalries, and discords among themselves. In this matter they ought to pay no regard unto difference of rite, or diversity of nationality; for there is no difference between the Jew and the Greek; for the same Lord over all is rich unto all that call upon
+* **Stefan Lenkavsky**, Pastor in Uhornyky.
+* **Maksymiliyan Krushelnytsky**, Pastor in Nazirna.
+* **Ioan Hrabovych**, Pastor in Tysmenytsia.
+* **Andrei Stotanchyk**, Pastor and Vice-Dean of Ustechko, Eparchy of Stanyslaviv.
+* **Iliya Mardarovych**, Archeparchial Mission Preacher for the Eradication of Drunkenness, Episcopal Consultor, Pastor of Kaminky, Eparchy of Stanyslaviv.
+* **Mykolay Hoshowsky**, Administrator of the Deanery of Yezupil and Pastor of Blyudnyky, Eparchy of Stanyslaviv.
+* **Fr. Ieron Ostroverkha**, Hegumen of the Monastery of the Order of Saint Basil the Great in Buchach.
+* **Leontiy Lushpynsky**, Pastor in Trybukhivtsi, Second Vice-Dean of Chortkiv.
+* **Petro Mytskovsky**, Dean of Skala and Pastor in Chornokintsi, Eparchy of Stanyslaviv.
+* **Petro Hyl**, Pastor in Oleksyntsi, Eparchy of Stanyslaviv.
+* **Rudolf Mokh**, Greek-Catholic Pastor in Ostriv with Kurydiv, Deanery of Yezupil, Titular Councillor of the Episcopal Consistory of Stanyslaviv, Mission Preacher for the Establishment of Sobriety, Member of the Society of the Holy Apostle Paul.
+* **Hryhoriy Tymyak**, Administrator of the Deanery of Pistyn, Pastor in Sheshory, Eparchy of Stanyslaviv.
+* **Ioan Bilous**, Pastor to Biloberezka.
+* **Aleksander Knyahynytsky**, Pastor in Zalishchyky, Retired Dean.
+* **Volodymyr Kozyorovsky**, Vice-Dean of Husiatyn, Pastor in Horodnytsia.
 
-=== LEAF p234 ===
-*(Physical Page 234 / Book Page 230)*
+---
 
-Him. Therefore, joined by a mutual and fraternal bond, Catholic priests of all rites shall have this one thing especially before their eyes: that, regardless of personal conveniences and private advantages, they become all things unto all men, that they may gain all for the Kingdom of God. Unto the awakening, fostering, and preserving of that peace and concord among priests, the concord and friendship of the Bishops of the diverse rites shall contribute most of all. Concerning this it behoves to make mention and declare unto all from time to time that the enemy man, that is, the devil, sows tares, excites and fosters discords, that through divided minds the power and success of the priestly ministry may be diminished; for where peace and love are, there the grace of the Holy Spirit abounds.—No less shall priests show love toward the faithful committed unto their care, who one day, at the coming of the Lord, shall be their crown of glory; for the commandment of love is infused by the Bishop into priests being ordained, as he clothes them in the phelonion (*felon*), saying: "Receive the priestly vestment, whereby love is understood; for God is able to increase love in thee and the perfect work."
-13. Love however is twofold: namely, of God and of neighbor. Love of God shows itself especially in the love of souls; for unto no priest will Christ say: "Feed My sheep," save unto him who shall be able to affirm with Peter: "Thou knowest, Lord, that I love Thee." That love every priest ought to prove not in word and tongue only, but in deed and in truth. The zeal therefore of the house of God ought to consume the priest, and by reason of his office let him be wholly dedicated unto procuring the salvation of souls, not fainting under any burden, unterrified by any human considerations, prudent indeed and moderately wise, yet strong as death, and ready to give himself up for the salvation of souls. Whosoever therefore turns a sinner from the error of his iniquity, encourages the wavering and fainthearted, instructs and teaches the ignorant and doubting how they ought to walk in the way of the Lord, and directs other wanderers onto the right way, he shall render an acceptable service unto God and offer a sacrifice pleasing unto Him, and by that means through his solicitude and diligence shall attain that for which Christ offered Himself unto God the Father as a whole burnt offering.
+=== LEAF p269 ===
+*(Physical Page 265 / Leaf p269)*
 
-=== LEAF p235 ===
-*(Physical Page 235 / Book Page 231)*
+## Decree of Papal Confirmation
+### By Which the Second Ruthenian Synod of Lviv Is Confirmed
 
-14. Let us not ignore the greatness of the labor and the heaviness of the burden which very frequently are laid upon priests, especially pastors, for the purpose of removing abuses and restoring good morals among the people. For before all else it is necessary to contend against those who resist and defend unlawful customs long in use. For no one wishes to think ill of himself; not many recognize their own errors; what is more, they more frequently defend faults, and if anything better is proposed, they turn away from it, enticed by ancient custom. It is very difficult in such persons to destroy the body of sin, that they should no longer serve sin; nevertheless it is not impossible, for God is able of these stones to raise up children unto Abraham. And the vinedresser plants new vines, and prunes the old, digs about them, and adds fertilizer, that he may thereby bring it to pass that they yield more fruit. So also the Lord wills that we all apply diligence, and that nothing remain uncultivated in His vineyard.
-15. But let that difficulty terrify no one; for He Himself shall assist Who saith: "I have heard thee in a time accepted, and in the day of salvation have I succored thee" [^263]; He will not suffer those labors to be in vain, for "He that ministers," as the Apostle saith, "seed to the sower both minister bread for your food, and multiply your seed sown, and increase the fruits of your righteousness," and finally shall give unto us the reward of the labors of His saints [^264].
-16. Furthermore, as to duties toward God, it behoves above all that the priest of God, if it can be, daily offer the sacrifice of the Divine Liturgy, having preceded the same with suitable preparation through canonical prayers and devout meditation, which shall last at least half an hour; for meditation, according to the words of St. Bernard: "Rules the affections, directs actions, corrects faults" [^265]; and St. Cyril of Alexandria, upon the words of the Psalm: "And in my meditation a fire shall flame out," saith: "Meditation is the flint whereby the fire of the Holy Spirit is struck within us"; and having added after the Divine Liturgy devout and fervent thanksgiving. Likewise through examination
+> [!IMPORTANT]
+> **Apostolic Decree of Pope Leo XIII and the Sacred Congregation *de Propaganda Fide***  
+> When the Most Reverend Father Sylvester Sembratovych, Ruthenian Archbishop of Lviv, and the Bishops his Suffragans determined to hold a Provincial Synod, the second after that of Zamość, and the same was held in Lviv in the year 1891, announced for the 22nd day of September and happily concluded on the 8th day of October, under the presidency of the Delegate of the Holy Apostolic See, the Most Reverend Father Agostino Ciasca, Archbishop of Larissa; afterwards, when the acts and decrees of the same Synod the Most Reverend Archbishop and the other Bishops with due submission subjected to the examination and judgment of the Holy See: then Their Eminences the Fathers of the Sacred Congregation *de Propaganda Fide* for the Affairs of the Eastern Rite subjected them to examination and approved them according to the exemplar hereto annexed; and in witness of that approval they commanded a Decree to be issued, that it might be observed by all whom it concerns.  
+>  
+> When the undersigned Secretary submitted this resolution of the Sacred Congregation to the Holy Father, Our Lord Pope Leo XIII, in an audience on the 30th day of April 1895, the Most Holy Father deigned to approve and confirm it in all respects, anything to the contrary notwithstanding.  
+>  
+> *Given at Rome, from the house of the same Sacred Congregation de Propaganda Fide for the Affairs of the Eastern Rite, on the 1st day of March, 1895.* [^278]
 
-=== LEAF p236 ===
-*(Physical Page 236 / Book Page 232)*
+---
 
-of conscience they shall secure themselves daily, at least once in the day, when they are to go to sleep, which also the blessed John Chrysostom recommends and explains the profit thereof in his commentary upon the words of Psalm IV, v. 5: "The things ye say in your hearts, be sorry for them upon your beds." "After supper," he saith, "when ye go to sleep, when ye are to lie down, and when no one is present, there is great peace, and when no one hinders, there is deep silence: awaken the judgment of thy conscience, demand of it an examination, and if through the day thou hast conceived evil designs, or prepared snares, or deceived thy neighbor, or stirred up evil desires, when in the time of that silence thou shalt bring this before thyself and appoint conscience as judge over those dishonorable thoughts, pierce them and tear them and punish them, torment the thought that hath sinned."
-17. Likewise daily shall he engage in spiritual reading, especially from Holy Scripture and the lives of the Saints, adhering in that matter unto the admonition of the said ecumenical Teacher St. John Chrysostom, affirming that such reading is indispensable for salvation, and that not only for men dedicated unto God, but also for those married and living in the world: "As unto a quiet haven—he saith—do we bring our soul by the reading of the Holy Scriptures. For a haven it is, untroubled by any waves, an unconquerable wall, an immovable tower, a glory that cannot be wrested away, an impenetrable armor, unconquerable peace of the soul, unceasing delight, every good that thou canst mention: such is the collection of the Divine Scripture. It both drives away sadness and guards peace of mind; it makes the poor richer, and procures security for the well-to-do and rich; it makes the sinner righteous, and protects the righteous with a safe covering; the evil that exists it uproots, and the good that is lacking it plants; it puts wickedness to flight, and not only leads unto virtue, but also strengthens it with roots and causes it to abide unceasingly; for it is a spiritual medicine and a kind of divine and unspeakable enchantment that destroys passions" [^266]. Likewise Homily III on Matthew and Homily III on Lazarus, where among other things he saith: "Concerning this do I ever admonish and shall not cease to admonish, that ye not
+=== LEAF p270 ===
+*(Physical Page 266 / Leaf p270)*
 
-=== LEAF p237 ===
-*(Physical Page 237 / Book Page 233)*
+## Official Synodal Table of Contents
+### Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)
 
-only attend here unto that which is spoken, but also, when ye shall be at home, unceasingly apply yourselves unto the reading of the Holy Scripture."
-18. The visit of the Holy Mysteries the priest shall not omit on any day; his conscience he shall cleanse by frequent confession; and finally, at least for eight days in some retired place, every year, he shall give himself unto spiritual exercises [retreat]. In order that priests may be able to perform such exercises in a better manner, so far as may be, the Bishops shall endeavor that for participation in them there be found in the dioceses designated spiritual houses or monasteries where neighboring priests might assemble for retreats, and for that purpose they shall endeavor to appoint spiritual directors chosen by themselves. Until all this shall be arranged, the priests themselves, reflecting upon the brevity and fleeting nature of this life, and in spirit traversing the boundless expanse of eternity and the duration of eternal rewards, and hoping for the eternal salvation of themselves and their flock, shall of their own accord retire into some solitary place, if they have not at home a separate room, for the performance every year of spiritual exercises; choosing for that purpose such days in the year as shall be freer for them from the duties of their station and occupation.
+#### Part I: Acts of the Synod (*Чинности Собора*)
 
-CHAPTER III.
+* **I.** Letter of the Ruthenian Metropolitan Province of Halych to the Holy Apostolic See, humbly requesting and awaiting permission to convoke and celebrate the Synod *(p. 3)*
+* **II.** Letter of the Metropolitan of the Ruthenian Province of Halych to His Eminence the Most Reverend Father Cardinal Simeoni, Cardinal of the Holy Roman Church, Prefect of the Sacred Congregation *de Propaganda Fide*, regarding the Ruthenian Provincial Synod to be celebrated in Lviv *(p. 5)*
+* **III.** Letter of His Eminence Cardinal Giovanni Simeoni, Cardinal of the Holy Roman Church, Prefect of the Sacred Congregation *de Propaganda Fide*, to the Ruthenian Metropolitan of Halych, informing him of the most gracious granting of the Apostolic Blessing by the Holy Father to the Ruthenian Synod of Lviv, and of the sending of a special Delegate of the Holy Father to the Synod *(p. 7)*
+* **IV.** Announcement of the Convocation of the Ruthenian Provincial Synod to be held in the month of September 1891 *(p. 9)*
+* **V.** Order to be observed and proceedings to be undertaken in the convocation and celebration of the Ruthenian Provincial Synod in Lviv, in the month of September 1891 *(p. 17)*
+* **VI.** Letter of the Ruthenian Episcopate of the Province of Halych, reporting to the Holy Father the completion of the Synod and humbly requesting the approval of its decrees *(p. 43)*
+* Letter of Pope Leo XIII to the Ruthenian Episcopate *(p. 45)*
+* **VII.** Acts of the General Congregations and Sessions:
+  - First General Congregation *(p. 46)*
+  - First Session *(p. 48)*
+  - Second General Congregation *(p. 63)*
 
-On the Learning of a Priest.
+=== LEAF p271 ===
+*(Physical Page 267 / Leaf p271)*
 
-1. A priest, for the fulfillment of his office, ought to be provided as it were with two wings: with holiness of life and with sacred learning. Unto that explanation the sacred vestments of Aaron clearly lead, whereof some, as we have mentioned above, prefigure holiness of life, and some instruction in knowledge; and moreover the authority granted unto Aaron to teach Israel the commandments of the Lord and His laws. Therefore also through Malachi the Lord, calling the priest an Angel, that is, a messenger of God, adds: "For the priest's lips should keep knowledge, and they should seek the law at his mouth:
+  - Second Session *(p. 65)*
+  - Third General Congregation *(p. 67)*
+  - Third Session *(p. 67)*
+  - Fourth General Congregation *(p. 68)*
+  - Fourth and Final Session *(p. 69)*
 
-=== LEAF p238 ===
-*(Physical Page 238 / Book Page 234)*
+---
 
-for he is the messenger of the Lord of hosts" [^267]. And in the New Testament the chosen vessel Paul admonishes Timothy with the words: "Take heed unto thyself, and unto the doctrine; continue in them: for in doing this thou shalt both save thyself, and them that hear thee" [^268].
-2. But whereas among men there are found also worldly persons who combat true religion among the faithful with false reasoning, for this reason that same Apostle requires of the priest such learning, "that he may be able by sound doctrine both to exhort and to convince the gainsayers" [^269].
-3. Therefore the Lord rejects from the priesthood those who neglect to acquire that learning, with the words: "Because thou hast rejected knowledge, I will also reject thee, that thou shalt be no priest to Me" [^270].
-4. Whereas however among books from which safe doctrine is drawn Holy Scripture occupies the first place as divinely inspired, and as the holy Fathers Augustine and Gregory the Great say, is as it were a letter sent from God unto men, and which St. Ambrose calls the priestly book [^271], and Origen: manna containing in itself all savor [^272], therefore it behoves the priest of God principally to apply himself unto the study of Holy Scripture, "that that heavenly treasure of sacred books, which the Holy Spirit with the greatest bounty hath given unto men, may not lie neglected" [^273]. In particular, let the priest be well-versed in the Four Gospels (Tetraevangelion), since especially from thence ought he to take the subject for holy sermons for the people.
-5. But whereas Holy Scripture was translated from the Greek text into the Old Slavonic or sacred language, therefore in that tongue it behoves the priest to read the same, and unto that end he ought to acquire for himself adequate knowledge of the grammar of the church language, unto the study of which they ought already in the seminary to apply themselves. Unto that end they ought to procure for themselves also certain commentaries, even though shorter ones, such as: Massl, Allioli, Brentano, Serwatowski, Pelzel, and others. With the reading of Holy Scripture let them frequently interweave the reading of the lives of the Saints, which will supply very savory spiritual food both unto themselves and from their lips also unto the people committed unto their pas-
+#### Part II: Decrees of the Ruthenian Provincial Synod of Lviv (1891) (*Рѣшеня Собора*)
 
-=== LEAF p239 ===
-*(Physical Page 239 / Book Page 235)*
+* **TITULUS I. On the Catholic Faith** *(p. 73)*
+  - Chapter I. On the Profession of the Catholic Faith *(p. 73)*
+  - Chapter II. On Catholic Doctrine *(p. 74)*
+  - Chapter III. On Religious Indifference *(p. 76)*
+  - Chapter IV. On Communication in Sacred Things with Heretics and Schismatics *(p. 77)*
+  - Chapter V. On the Censorship of Books *(p. 79)*
+  - Chapter VI. On the Sect of Freemasons and Other Condemned or Forbidden Societies *(p. 82)*
+  - Chapter VII. On Preaching the Word of God *(p. 85)*
+  - Chapter VIII. On the Catechism *(p. 88)*
 
-toral guidance. The second place shall be occupied by Dogmatic and Moral Theology, the study of which is above all necessary for pastors, and of which latter the surest source are the works of St. Alphonsus Liguori, and as it were compendiums of the same, logically arranged, are the Morals of Gury and Müller. The third place shall be occupied by the Catechism published by authority of the Council of Trent, which, besides dogmatic doctrine, contains the fullest exposition of the whole Christian Catechism.—The fourth place shall be occupied by the study of Canon Law, collected in compendium, since our clergy is almost entirely dedicated unto the care of souls, so that without such learning, especially in matrimonial matters, a pastor could not duly execute his office.
-6. But not the last place ought the science of Liturgics to occupy, combined with unceasing practice; and whereas it is closely bound up with dogmas, the priest ought diligently to investigate both the letter and the spirit of the rites, that from those treasures he may be able to set before the people in his instructions spiritual food. In that matter he ought not only to know the rites and ceremonies as they are set forth in the liturgical books, but also as they are used according to ancient lawful usage; and that uncertainty concerning them may be removed, priests shall observe and learn accurately above all that which this Synod, having already compiled and approved it, presents unto the whole clergy of this province for observance [^274].
-7. In general, other branches of knowledge also, whether sacred or secular, which can be auxiliary unto supplementing priestly learning, ought not to be neglected.
-8. The Synod fails not, however, to admonish priests here that, neglecting grave and pious reading, they squander not their time on the reading of harmful and empty novelties, and likewise that they read not periodicals which combat the authority of the Church, vex ecclesiastical superiors and their ordinances and statutes, and spit upon them with the spittle of an unclean heart.
+* **TITULUS II. On the Sacraments and Their Administration** *(p. 91)*
+  - Chapter I. On the Holy Sacrament of Baptism *(p. 91)*
+  - Chapter II. On the Holy Sacrament of Chrismation *(p. 92)*
+  - Chapter III. On the Most Holy Sacrament of the Eucharist *(p. 93)*
+  - Chapter IV. On the Sacrament of Penance *(p. 97)*
+  - Chapter V. On the Sacrament of Anointing of the Sick *(p. 99)*
+  - Chapter VI. On the Sacrament of Holy Orders *(p. 101)*
+  - Chapter VII. On the Sacrament of Matrimony *(p. 103)*
 
-=== LEAF p240 ===
-*(Physical Page 240 / Book Page 236)*
+* **TITULUS III. On Consecrations and Blessings (Sacramentals)** *(p. 103)*
 
-9. Furthermore, for the progress of sacred learning and the perfection of the spirit, decanal conferences [synodules] as well as libraries can contribute very much. Therefore, as to decanal conferences, the Synod approves and for the future deems proper to retain and ever more to perfect the custom of holding such conferences at appointed times in individual deaneries, according to the rule submitted and approved by this Synod. As to libraries, the Synod commands that individual pastors endeavor to have at their church a small library, the books or works whereof must be entered in the church inventory. In this matter care must be taken that no one remove any book, for the purpose of taking it home to himself, without having deposited a receipt (*revers*), which is to be preserved in some secure place of the parish library itself. Besides such parish libraries, the Synod renews the enactments or circular regulations of the Ordinariates according to which in each deanery there shall be established in some more suitable place a decanal library for the convenience of the entire decanal clergy, and that under some competent curator or custodian, who should have care of the books distinctly and accurately described in a catalogue, and designate for those coming to the library a place for reading; and in case it should be necessary to lend any book from the same for home use, he shall permit this for an appointed time only, and that under security upon a receipt. For the augmentation of the library, endeavor shall be made to collect among fellow decanal priests, as members of the same, contributions wherewith new books may be purchased [^275].
+* **TITULUS IV. On Public Worship of God** *(p. 109)*
+  - Chapter I. On the Sacrifice of the Divine Liturgy *(p. 109)*
 
-CHAPTER IV.
+=== LEAF p272 ===
+*(Physical Page 268 / Leaf p272)*
 
-On Parochial Competition [*Concursus Parochialis*].
+  - Chapter II. On Intentions and Stipends for Divine Liturgies *(p. 114)*
+  - Chapter III. On the Canonical Hours (Church Rule) and Other Public Divine Services *(p. 118)*
+  - Chapter IV. Regarding the Celebration of Extra-Ordinary Rites, Certain of Which Are Attached to Immovable Feasts and Others to Movable Feasts *(p. 121)*
+    * Regarding Rites Attached to Immovable Feasts *(p. 121)*
+    * Regarding Rites Attached to Movable Feasts *(p. 122)*
+    * On the Exposition and Blessing with the Most Blessed Gifts *(p. 125)*
+    * On the Celebration of the Akathist Office *(p. 127)*
+    * On the Office of the Paraklesis *(p. 128)*
+  - Chapter V. On Church Singing *(p. 128)*
+  - Chapter VI. On the Celebration of Feast Days *(p. 132)*
+    * Immovable Feasts *(p. 137)*
+    * Movable Feasts *(p. 138)*
+  - Chapter VII. On the Veneration of the Saints, Relics, and Holy Images (Icons) *(p. 138)*
+  - Chapter VIII. On Holy Processions, Pilgrimages, and Missions *(p. 144)*
+  - Chapter IX. On Domestic Worship of God *(p. 151)*
 
-The governance of souls is the art of arts, the holiness corresponding unto this office so transcendent, that the Church to
+* **TITULUS V. On the Holy Divine Liturgy** *(p. 153)*
+  - The Order of the Divine Liturgy — Proskomedia for Divine Liturgies *(p. 154)*
+  - Regarding the Divine Liturgy Itself *(p. 161)*
+
+* **TITULUS VI. On Churches Dedicated to the Worship of God** *(p. 182)*
+  - Chapter I. On the Construction of Churches *(p. 183)*
+  - Chapter II. On the Interior Decoration of Churches *(p. 185)*
+  - Chapter III. On Sacred Vessels and Church Utensils *(p. 186)*
+  - Chapter IV. On the Colors of Sacred Vestments *(p. 187)*
+
+* **TITULUS VII. On the Ecclesiastical Hierarchy** *(p. 189)*
+  - Chapter I. On the Roman Pontiff *(p. 190)*
+  - Chapter II. On the Metropolitan *(p. 191)*
+
+=== LEAF p273 ===
+*(Physical Page 269 / Leaf p273)*
+
+  - Chapter III. On Bishops *(p. 194)*
+  - Chapter IV. On Cathedral Chapters *(p. 197)*
+  - Chapter V. On Vicars Forane or Deans *(p. 200)*
+  - Chapter VI. On Pastors *(p. 202)*
+  - Chapter VII. On Parochial Assistants (Cooperators) *(p. 206)*
+
+* **TITULUS VIII. On Theological Seminaries** *(p. 208)*
+  - Chapter I. On Minor Seminaries *(p. 209)*
+  - Chapter II. On Major Seminaries *(p. 212)*
+
+* **TITULUS IX. On the Clergy** *(p. 218)*
+  - Chapter I. On the Dignity of the Priest of the New Testament *(p. 218)*
+  - Chapter II. On the Righteousness of the Priest's Life *(p. 221)*
+  - Chapter III. On the Knowledge and Learning of the Priest *(p. 233)*
+  - Chapter IV. On Parochial Examinations (Concursus) *(p. 236)*
+
+* **TITULUS X. On Monks** *(p. 237)*
+
+* **TITULUS XI. On Fasts** *(p. 240)*
+
+* **TITULUS XII. On Offices for the Departed** *(p. 243)*
+  - Chapter I. On Divine Liturgies and Other Offices for the Departed *(p. 243)*
+    * § I. On the Divine Liturgy for the Departed *(p. 246)*
+    * § II. On the Office for the Departed (Parastas & Panakhyda Rubrics) *(p. 247)*
+  - Chapter II. On Ecclesiastical Burial and Cemeteries *(p. 250)*
+
+* **TITULUS XIII. On Ecclesiastical Courts** *(p. 252)*
+
+* **TITULUS XIV. On Synods** *(p. 253)*
+  - 1. Regarding Those Who Are to Be Summoned to the Synod *(p. 254)*
+  - 2. Regarding the Time of Holding Provincial and Diocesan Synods *(p. 255)*
+
+=== LEAF p274 ===
+*(Physical Page 270 / Leaf p274)*
+
+* **TITULUS XV. On Church Property** *(p. 256)*
+
+---
+
+#### Part III: Concluding Acts & Confirmation
+
+* **Signatures of the Synodal Fathers** Who Subscribed to the Decrees of the Synod *(p. 258)*
+* **Decree of the Sacred Congregation *de Propaganda Fide* Confirming the Second Ruthenian Synod of Lviv** *(p. 265)*
+
+---
+
+---
+
+=== LEAF p275 ===
+*(Physical Page 275 / Book Page 271)*
+
+## Official Synodal Corrigenda & Typographical Errata (*Похибки друкарскî*)
+
+> [!NOTE]
+> **Scholarly & Textual Note**  
+> The following table represents the official list of typographical corrections (*Похибки друкарскî*) appended to the original 1896 edition published by the Stauropegial Institute in Lviv. In this English critical edition, all of these corrections have been directly verified and integrated into the body of the translated text. The table is preserved here in full for scholarly reference, documenting the original page citations, lines, printed errors, and authoritative synodal corrections.
+
+| Original Book Page | Cited Line | Original Printed Reading (*зам.*) | Official Corrected Reading (*має бути*) | English Textual Gloss & Context |
+| :---: | :---: | :---: | :---: | :---: |
+| **p. 12** | line 11 from bottom | 17 4 | **1724** | Historical date typographical spacing error |
+| **p. 21** | line 4 from top | обнародовляти предметы | **обнародовляти, предметы** | Punctuation: comma insertion between verbs and objects |
+| **p. 23** | line 13 from top | єдинодушнои | **єдиносущнои** | Dogmatic term: *"consubstantial"* (corrected from *"unanimous"*) |
+| **p. 24** | line 2 from top | єдинодушнои | **єдиносущнои** | Dogmatic term: *"consubstantial"* |
+| **p. 24** | line 23 from top | єдинодушнои | **єдиносущнои** | Dogmatic term: *"consubstantial"* |
+| **p. 25** | line 28 from top | єдинодушнои | **єдиносущнои** | Dogmatic term: *"consubstantial"* |
+| **p. 26** | line 31 from top | єдинодушнои | **єдиносущнои** | Dogmatic term: *"consubstantial"* |
+| **p. 29** | line 12 from top | зôбравши | **зôбравши** | Accentuation / letterform correction |
+| **p. 35** | line 10 from top | проповѣды | **проповѣди** | Grammatical ending: accusative plural of *"sermons"* |
+| **p. 35** | line 17 from top | Пресвященство | **Преосвященство** | Hieratic title: *"His Excellency / Most Reverend"* |
+| **p. 36** | line 8 from bottom | укôн еня | **укôнченя** | Typographical space removal (*"completion"*) |
+| **p. 53** | line 4 from top | мершрымъ | **мершымъ** | Typographical letter inversion (*"earlier / sooner"*) |
+| **p. 66** | line 17 from top | вазвычайныхъ | **надпорядковыхъ** | Canonical term: *"extraordinary / out of order"* |
+| **p. 70** | line 17 from top | уданой | **удалой** | Orthography: *"successful / favorable"* |
+| **p. 77** | line 10 from bottom | одобренөмъ | **одобренємъ** | Letterform correction (*"approval"*) |
+| **p. 78** | line 12 from top | прийняти | **приняти̂** | Orthography / circumflex accent mark |
+| **p. 79** | lines 5–6 from top | вѣру до | **вѣру, до** | Punctuation: comma insertion |
+| **p. 79** | line 27 from top | святыхъ безсомиѣнну | **святыхъ, безсомнѣнну** | Punctuation and letterform: *"of the saints, indubitable"* |
+| **p. 80** | line 16 from top | княгъ вѣрныхъ | **книгъ, вѣрнымъ** | Orthography and case ending: *"of books, unto the faithful"* |
+| **p. 80** | lines 30–31 from top | управилнивъ | **управильнивъ** | Soft sign insertion (*"administrators"*) |
+| **p. 87** | line 23 from top | вынята | **вынятя** | Grammatical case ending: neuter noun *"exemption"* |
+| **p. 92** | line 17 from top | тое | **тоє** | Letterform: Ukrainian Cyrillic *ye* |
+| **p. 94** | line 18 from top | сказаалъ | **сказавъ** | Typographical double letter correction (*"said"* / past tense) |
+| **p. 96** | line 23 from top | у насъ въ Недѣлею | **у насъ Недѣлею** | Preposition removal before instrumental case |
+| **p. 96** | line 33 from top | произволенємъ | **призволенємъ** | Lexical correction: *"consent / permission"* |
+| **p. 99** | line 7 from bottom | сподной | **спôдной** | Accentuation / circumflex over *o* |
+| **p. 104** | line 21 from top | 18 8 | **1868** | Historical date: insertion of dropped numeral *6* |
+| **p. 109** | line 18 from top | Церкрѣ | **Церквѣ** | Typographical error: *r* corrected to *v* (*"in the Church"*) |
+| **p. 116** | line 18 from top | пихъ | **нихъ** | Typographical error: *p* corrected to *n* (*"them"*) |
+| **p. 133** | line 1 from bottom | брята | **братя** | Typographical error (*"brethren / brothers"*) |
+| **p. 135** | line 5 from top | позбули ся | **позбули ся,** | Punctuation: comma insertion |
+| **p. 144** | line 1 from top | въпѣлôй | **въ цѣлôй** | Typographical letter error (*"in the whole"*) |
+| **p. 144** | line 12 from top | людемъ | **люди** | Grammatical case: nominative plural *"people"* |
+| **p. 146** | line 10 from top | подôзрѣня | **пôдозрѣня** | Accentuation / vowel shift |
+| **p. 147** | line 2 from bottom | подозрѣваючи | **пôдозрѣваючи** | Accentuation / vowel shift |
+| **p. 148** | line 1 from top | Въ концѣ | **Въ кôнцѣ** | Accentuation: *"At the end"* |
+| **p. 153** | line 6 from bottom | Εὐκολόγιον | **Εὐχολόγιον** | Greek orthography: *chi* instead of *kappa* (*Euchologion*) |
+| **p. 154** | line 16 from top | Проекомидія | **Проскомидія** | Liturgical term: *Proskomedia* (*s* restored) |
+| **p. 156** | line 24 from top | и | **„** | Punctuation: opening quotation mark |
+| **p. 156** | line 34 from top | Примч. | **Примѣч.** | Abbreviation: *"Note / Annotation"* (*yat* restored) |
+| **p. 157** | line 8 from bottom | 301 | **300** | Canonical cross-reference number |
+| **p. 157** | line 1 from bottom | Leet. | **Lect.** | Latin abbreviation: *Lectio* (*reading*) |
+| **p. 160** | line 7 from top | бôльшій котрымъ | **бôльшій, котрымъ** | Punctuation: comma before relative pronoun |
+| **p. 162** | line 14 from bottom | вее | **все** | Typographical error (*"all / everything"*) |
+| **p. 163** | line 14 from top | неопускаючи | **не опускаючи** | Orthography: negative particle separated (*"not omitting"*) |
+
+=== LEAF p276 ===
+*(Physical Page 276 / Book Page 272)*
+
+| Original Book Page | Cited Line | Original Printed Reading (*зам.*) | Official Corrected Reading (*має бути*) | English Textual Gloss & Context |
+| :---: | :---: | :---: | :---: | :---: |
+| **p. 163** | line 15 from top | Духа | **духа** | Orthography: lowercase for non-deity spirit (*human spirit*) |
+| **p. 163** | line 9 from bottom | Аншифоны | **Антифоны** | Liturgical chant: *"Antiphons"* (*sh* corrected to *t*) |
+| **p. 165** | line 17 from top | нынѣ | **нынѣ** | Letterform / spacing correction |
+| **p. 169** | line 20 from top | трисвятію | **трисвятую** | Hymnographic term: *"Trisagion [Thrice-Holy]"* |
+| **p. 175** | line 14 from top | Іоанна | **Іоанна** | Letterform / breathing correction |
+| **p. 175** | line 19 from top | ὑπέρ а въ | **ὑπέρ въ** | Syntax correction in bilingual Greek-Slavonic citation |
+| **p. 175** | line 23 from top | (pro u cum) | **(pro и cum)** | Typography: Cyrillic *и* restored in Latin-Slavonic gloss |
+| **p. 175** | line 3 from bottom | Єктенію; | **Єктенію:** | Punctuation: colon after rubric |
+| **p. 176** | line 17 from top | концѣ | **кôнцѣ** | Accentuation: *"at the end"* |
+| **p. 177** | line 9 from top | раздробляєтся и раздѣляєтся | **раздробляєтся и раздѣляєтся** | Liturgical rubric: Fraction of the Holy Lamb (ligature correction) |
+| **p. 183** | line 19 from top | воплещеного | **воплощеного** | Theological term: *"incarnate"* (*e* corrected to *o*) |
+| **p. 188** | line 11 from top | крестопоклонну | **крестопоклонну)** | Punctuation: closing parenthesis restored |
+| **p. 189** | line 1 from top | приняти | **приняти** | Letterform / accent correction |
+| **p. 189** | lines 1–2 from top | звычай, нѣкоторыхъ мѣсцевостей | **звычай нѣкоторыхъ мѣсцевостей,** | Punctuation: relocation of comma |
+| **p. 189** | line 7 from top | воинсвуюча | **воинствуюча** | Theological term: Church *"Militant"* (*t* restored) |
+| **p. 190** | line 8 from top | межн | **межи** | Typographical error: *n* corrected to *i* (*"between / among"*) |
+| **p. 190** | line 14 from top | єдности надавъ, | **єдности, надавъ** | Punctuation: comma repositioned |
+| **p. 190** | line 24 from top | слухяти | **слухати** | Typographical error (*"to listen / hear"*) |
+| **p. 190** | line 24 from top | зобовязавъ | **зьобовязавъ** | Prefix orthography (*"obligated"* / soft sign) |
+| **p. 190** | line 26 from top | княвя | **князя** | Typographical error: *v* corrected to *z* (*"prince"* / civil ruler) |
+| **p. 190** | line 27 from top | Вожого | **Божого** | Typographical error: *V* corrected to *B* (*"of God"*) |
+| **p. 191** | line 9 from bottom | Ієрусалимскій, | **Ієрусалимскій.** | Punctuation: period after title |
+| **p. 191** | line 3 from bottom | Настоятетя | **Настоятеля** | Typographical error: *t* corrected to *l* (*"Superior / Hegumen"*) |
+| **p. 192** | line 9 from top | ôтзыскали | **ôтзыскала** | Grammatical agreement: feminine past tense (*"recovered"*) |
+| **p. 213** | line 15 from bottom | котрого | **котрои** | Grammatical agreement: feminine genitive (*"of which"*) |
+| **p. 218** | line 9 from top | производити | **производити** | Orthography / spacing correction |
+| **p. 219** | line 22 from top | мовить | **мовить** | Orthography / spacing correction |
+| **p. 224** | line 1 from top | Апоетола | **Апостола** | Typographical error: *e* corrected to *s* (*"of the Apostle"*) |
+| **p. 224** | line 5 from bottom | прн | **при** | Typographical error: *n* corrected to *i* (*"at / by"*) |
+
+=== LEAF p277 ===
+*(Physical Page 277 / Unnumbered Rear Flyleaf)*
+
+### Archival Accession & Provenance Collation
+- **Repository**: Library of the National University of Kyiv-Mohyla Academy (Національний університет «Києво-Могилянська академія» — НаУКМА).
+- **Accession Stamp**: `130251`
+- **Shelfmark / Call Numbers**: `123/98` (top margin, blue ink) and `7526` (lower margin, blue ink).
+- **Electronic Barcode Registry**: `UKMA Library * Book` | Barcode `0018435`.
+- **Digitization Source**: Electronic Library of Ukraine (`dlib.kiev.ua`).
+
+=== LEAF p278 ===
+*(Physical Page 278 / Unnumbered Codex Rear Binding)*
+
+### Physical Codex Collation & Binding
+- **Physical Structure**: Original 1896 rear binding cover of the Synodal Acts volume.
+- **Material & Finish**: Heavy bookbinder's board bound in brown embossed pebble-grain leather/buckram (*maroquin grainé*), exhibiting historical wear, edge-rubbing, and minor blind-ruling around the board margins.
+- **Sealing Status**: Concludes the physical volume of the 1891 Lviv Provincial Synod Acts and Decrees at leaf 278 of 278, fulfilling 100% Closed Mathematical Leaf Conservation.
+
+---
+
+## Footnotes
+[^274]: Cardinal Agostino Ciasca, O.S.A. (1835–1902), renowned Augustinian orientalist and biblical scholar, Titular Archbishop of Larissa, appointed Apostolic Delegate to the 1891 Lviv Provincial Synod by Pope Leo XIII. He subsequently served as Secretary of the Sacred Congregation *de Propaganda Fide* and was elevated to the cardinalate in 1899.
+[^275]: Father Isidore Dolnytsky (1830–1924), Spiritual Director of the Greek-Catholic General Seminary in Lviv, renowned master of Byzantine-Ruthenian rubrics, and author of the landmark 1899 *Typikon* (*Типикъ церковнаго и келейнаго правила*). His signature here establishes his direct statutory involvement in codifying the liturgical legislation of the 1891 Synod, which he implemented throughout his 1899 Typikon.
+[^276]: Dr. Isidore Sharanevych (1829–1901), distinguished historian, archaeologist, Senior (*Сеніоръ*) of the Lviv Dormition Brotherhood / Stavropeghial Institute, and Professor at Lviv University. Under Titulus XIV, I, § 2, the Senior of the Stavropeghial Institute was granted the unique statutory privilege of being summoned to provincial synods as the sole lay representative.
+[^277]: Dr. Yosyf Cherlyunchakevych (1829–1911), prominent canonist and professor at Kraków and Lviv Universities. His conditional signature (*"With reservation of the rights reserved to the Apostolic See, I sign"*) reflected contemporary canonical discussions regarding the precise scope of provincial synodal authority relative to the Roman Curia and the preservation of eastern canonical traditions.
+[^278]: The confirmation of the 1891 Synod was enacted through the Sacred Congregation *de Propaganda Fide pro negotiis Ritus Orientalis* (established by Pope Pius IX in 1862 via the constitution *Romani Pontifices*), culminating in Pope Leo XIII's formal apostolic confirmation on April 30, 1895. The promulgation of these decrees constituted the statutory foundation for all Greek-Catholic liturgical and canonical reforms in Galicia at the turn of the 20th century.

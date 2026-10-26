@@ -43,6 +43,7 @@
 
 ---
 
+=== LEAF p21 ===
 *(Physical Page 19 / Leaf p21)*
 
 *Then, having risen from genuflection, all recite further the following prayers:* "Holy God, Holy Mighty, Holy Immortal, have mercy on us" *(3 times);* "Glory be: Both now: Our Father" *and the rest.*  
@@ -58,6 +59,7 @@
 
 ---
 
+=== LEAF p22 ===
 *(Physical Page 20 / Leaf p22)*
 
 *At this summons, all, according to the dignity of their station and rank, shall approach the Metropolitan and promise upon their honor to keep secrecy in the following words:*  
@@ -81,6 +83,7 @@ The duties of the Synodal Judges in the present times comprise the following poi
 
 ---
 
+=== LEAF p23 ===
 *(Physical Page 21 / Leaf p23)*
 
 4) The Judges shall watch over the preservation of secrecy and with discretion admonish those who fail to observe it.  
@@ -99,6 +102,7 @@ The duties of the Synodal Judges in the present times comprise the following poi
 
 ---
 
+=== LEAF p24 ===
 *(Physical Page 22 / Leaf p24)*
 
 **d) Duties of the Notaries of the Synod.**  
@@ -118,6 +122,7 @@ It shall be the duty of the Masters of Ceremonies to oversee that at General Con
 
 ---
 
+=== LEAF p25 ===
 *(Physical Page 23 / Leaf p25)*
 
 *When the Officials of the Synod have been announced, the first Secretary shall summon the proxies of the Chapters to present their credentials unto the Most Reverend Metropolitan. When they have done so in order, they shall, with the agreement of the Provincial Bishops, be approved and admitted to the Synod.*  
@@ -131,6 +136,7 @@ May the Father of our Lord Jesus Christ, the Father of mercies and God of all co
 
 ---
 
+=== LEAF p26 ===
 *(Physical Page 24 / Leaf p26)*
 
 ### 2. Decree on the Making of the Profession of Faith
@@ -145,6 +151,7 @@ Whereas We are conscious that Our powers are insufficient for so momentous an ob
 
 ---
 
+=== LEAF p27 ===
 *(Physical Page 25 / Leaf p27)*
 
 ...virtues with which they are endowed, they might unceasingly direct unto the spiritual benefit of the province. Let them likewise strive, especially by salvific counsels and holy prayers, to assist the synodal work which We, by the cooperation of the Holy Spirit, have begun this day. The Honorable Dignitaries, Canons, and all Priests who have assembled with Us, and all other Ecclesiastical Men We admonish and adjure by the mercy of God, that, as at all times they shine before layfolk by the light of their virtues, so especially during the celebration of this Synod they conduct themselves in a manner pleasing unto God, mindful of their office, and live holily, as befitteth those who are called unto the service of the Lord; likewise that by the most holy Sacrifice of the Divine Liturgy they devoutly assist the work of this Synod, and with pure prayers implore God, the Giver of all good things, to grant unto Our minds the light of His grace, that We may adopt the best counsels and decree salvific enactments. — All and each of the citizens and inhabitants of the city of Lviv, beloved unto Us in Christ, We admonish and summon in the Lord, that, as always, so especially during this Synod, they elevate their spirit unto zeal for Christian virtues, that they entirely abstain from evil, turn away from carnal lusts, apply themselves unto prayer, feed Christ the Son of God in the poor, confess their sins, fortify themselves with the Bread of Angels, and daily with devout prayers implore the God of mercies, that We, in celebrating this Synod and in every pastoral undertaking, may serve the glory of God and the salvation of souls with reverent solicitude [^14].
@@ -154,6 +161,7 @@ In the name of the Holy, Consubstantial Trinity... etc. We, S. S., Metropolitan,
 
 ---
 
+=== LEAF p28 ===
 *(Physical Page 26 / Leaf p28)*
 
 ...of his rights or possession, but everything remains valid and inviolable in the very same state in which it previously stood before this Provincial Synod commenced.
@@ -168,6 +176,7 @@ In the name of the Holy, Consubstantial Trinity, etc. We, S. S., Metropolitan...
 
 ---
 
+=== LEAF p29 ===
 *(Physical Page 27 / Leaf p29)*
 
 ...yet so that the designated term may in General Congregation be freely shortened or extended, as shall appear most expedient for the affairs of the Synod. — *Thereafter the Promoters shall request the Metropolitan to command the drawing up of the record of proceedings of this first Congregation. The Metropolitan shall so command.*  
@@ -188,6 +197,7 @@ In the name of the Holy, Consubstantial Trinity, etc. We, S. S., Metropolitan...
 
 ---
 
+=== LEAF p30 ===
 *(Physical Page 28 / Leaf p30)*
 
 *At the signal given by the Masters of Ceremonies and upon the tolling of all the bells of the city, the procession shall set out toward the Metropolitan Church in the following order:*  
@@ -213,6 +223,7 @@ In the name of the Holy, Consubstantial Trinity, etc. We, S. S., Metropolitan...
 
 ---
 
+=== LEAF p31 ===
 *(Physical Page 29 / Leaf p31)*
 
 *Note: This order shall be observed at all public Sessions that shall be celebrated, with this distinction only, that when one of the Provincial Bishops shall celebrate the Divine Liturgy, the seat for him shall be prepared opposite the Metropolitan throne.*  
@@ -226,6 +237,7 @@ In the name of the Holy, Consubstantial Trinity, etc. We, S. S., Metropolitan...
 
 ---
 
+=== LEAF p32 ===
 *(Physical Page 30 / Leaf p32)*
 
 *...from the assigned place. — After the reading of the decree, which the Bishops hear seated, but the rest standing, the second Secretary shall approach with one of the Notaries individually unto each of the Provincial Bishops and inquire concerning their opinion, saying:* "Will Your Grace deign to declare whether you accept the decree on the opening of the Synod just read?" *Upon the reply of both:* "I accept," *the Secretary returns to the Metropolitan, and presenting unto him the reply of the Bishops, shall say:* "The Most Reverend Bishops accept the Decree." *Whereupon the Metropolitan announces:*  
@@ -239,6 +251,7 @@ In the name of the Holy, Consubstantial Trinity, etc. We, S. S., Metropolitan...
 
 ---
 
+=== LEAF p33 ===
 *(Physical Page 31 / Leaf p33)*
 
 *Then the first Promoter shall move that the Decrees which are customarily promulgated at the beginning of a provincial Synod be read aloud, in the words:*  
@@ -254,6 +267,7 @@ The Decree on the manner of life during the Synod and the Decree on non-departur
 
 ---
 
+=== LEAF p34 ===
 *(Physical Page 32 / Leaf p34)*
 
 *...held on the N. day, on the N. Sunday of the month of N., yet so that the designated term may in General Congregation be freely shortened or extended, as shall appear profitable for the affairs of the Synod?" And having received the reply:* "It is pleasing," *he shall report this unto the Metropolitan and receive from him the decree announcing the second session and read it aloud publicly.*  
@@ -270,6 +284,7 @@ The Decree on the manner of life during the Synod and the Decree on non-departur
 
 ---
 
+=== LEAF p35 ===
 *(Physical Page 33 / Leaf p35)*
 
 *Three such Commissions shall be established, and their task shall be properly to deliberate and prepare everything that is subsequently to be decided publicly. Namely:*  
@@ -284,6 +299,7 @@ The Decree on the manner of life during the Synod and the Decree on non-departur
 
 ---
 
+=== LEAF p36 ===
 *(Physical Page 34 / Leaf p36)*
 
 *The subjects examined by the General Congregations shall be weighed once again by the Bishops with the Metropolitan, and finally by a majority of their votes they shall definitively resolve what is to be established and decreed; these decisions the Metropolitan shall subsequently order to be read aloud and promulgated at the public Sessions.*  
@@ -296,6 +312,7 @@ The Decree on the manner of life during the Synod and the Decree on non-departur
 
 ---
 
+=== LEAF p37 ===
 *(Physical Page 35 / Leaf p37)*
 
 ## Second Public and Solemn Session
@@ -307,6 +324,7 @@ The Decree on the manner of life during the Synod and the Decree on non-departur
 
 ---
 
+=== LEAF p38 ===
 *(Physical Page 36 / Leaf p38)*
 
 *At the first Session the Metropolitan himself shall deliver the discourse, and the concluding blessing at all public Sessions shall likewise be imparted by the Metropolitan himself.*
@@ -319,6 +337,7 @@ The Decree on the manner of life during the Synod and the Decree on non-departur
 
 ---
 
+=== LEAF p39 ===
 *(Physical Page 37 / Leaf p39)*
 
 "...have represented the truth. Wherefore, adhering unto this custom, We have resolved to choose and appoint two Synodal Witnesses for each Diocese [^17]. We therefore name as Synodal Witnesses:  
@@ -333,6 +352,7 @@ Thereafter the Promoter shall request the signing of the Synod in these words:
 
 ---
 
+=== LEAF p40 ===
 *(Physical Page 38 / Leaf p40)*
 
 *The Most Reverend Metropolitan shall declare:* "This We decree and command." *Whereupon the Secretary receives the said Decree and reads it aloud, namely:*  

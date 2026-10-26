@@ -1,6 +1,6 @@
 # Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852) — Cohort 8 (Leaves p71–p80)
 
-<!-- LEAF: p71 -->
+=== LEAF p71 ===
 
 [Book Page 140]
 
@@ -12,7 +12,7 @@
 
 *Cross three times. Then the Superior inclines his head, so that the head is about a span from the earth, and gradually is elevated upward until the completion of the second fifty,* **"Lord, have mercy"** (*Го́споди, поми́луй*). *And when it reaches ninety-seven,* **"Lord, have mercy"**, *the leader of the choir raises his voice; and the Superior standing upright awaits the end of the hundred [the hundredfold* **"Lord, have mercy"**], *and signs [blesses] with the Cross again 3 times. Thereafter he turns toward the west, and the deacon says:* **"Again we pray for the most holy universal Pontiff (name), and for our God-preserved Emperor, for his realm..."** *and the rest. And we begin the second hundred,* **"Lord, have mercy"**. *And the Superior makes the second elevation as was prescribed above. Then turning toward the south, the deacon says:* **"Again we pray for the remission of sins of our Most Reverend Metropolitan (name), and of our God-loving Bishop (name), and for all our brethren in Christ, for health, and for salvation, let us all say."** *And he begins the third hundred,* **"Lord, have mercy"**. *When that is finished, the Superior turns toward the north, and the deacon says:* **"Again we pray for every Christian soul, afflicted and distressed, and for health and salvation and remission of sins, let us all say."** *And the fourth elevation takes place. And the Superior, turning toward the east, blesses again; and the deacon says:* **"Again we pray for all who serve and have served in this holy church*
 
-<!-- LEAF: p72 -->
+=== LEAF p72 ===
 
 [Book Page 142]
 
@@ -32,7 +32,7 @@
 *In the evening we do not say a Kathisma, on account of the labor of the Vigil. At* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *stichera to 6: of the Cross 3, and of the saint 3; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the saint; "Now and forever, and unto the ages of ages. Amen:" of the feast. Entrance. Great Prokeimenon, Tone 7:* **"Our God is in heaven and on earth; He hath done whatsoever He pleased"** (*Бо́гъ на́шъ на небесѝ и҆ на землѝ, вся̑ є҆ли̑ка восхотѣ̀ сотворѝ*), *and its verses. Thereafter the ectene:* **"Let us all say..."** (*Рце́мъ всѝ...*); *and* **"Vouchsafe, O Lord..."** (*Сподо́би, Го́споди...*); *and* **"Let us complete our evening prayer..."** (*И҆спо́лнимъ вече́рнюю моли́тву на́шу...*). [*Thus it is fitting to sing on all Dominical feasts in the evening, on which there is an Entrance and the Great Prokeimenon]. Then at the Aposticha: stichera of the feast, with its refrains; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the saint; "Now and forever, and unto the ages of ages. Amen:" of the Cross; Tone of the Prophet. After* **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): *troparion of the saint; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:" of the feast. Great Dismissal.*  
 *Matins takes place according to the general Typikon: see if the saint occurs within the feast [in the Afterfeast]. At the Divine Liturgy: Beatitudes of the feast, Ode 3 to 4, and of the saint, Ode 6 to 4. After the Entrance:* **"Save us, O Son of God, Who wast crucified in the flesh, who sing to Thee: Alleluia."** [*Thus we sing until the Apodosis*].[^157]
 
-<!-- LEAF: p73 -->
+=== LEAF p73 ===
 
 [Book Page 144]
 
@@ -65,7 +65,7 @@
 ☞ *If the Temple be of the Protection of the Theotokos, on whatever day it occur, except Sunday: we sing the entire office of the Protection, as on another feast of the Theotokos; but the office of the saints we sing on another day.*  
 *If the feast of the Most Holy Theotokos,*
 
-<!-- LEAF: p74 -->
+=== LEAF p74 ===
 
 [Book Page 146]
 
@@ -86,7 +86,7 @@
 ☞ *If the holy Great-Martyr occur on a Sunday: on Saturday at Little Vespers: Sunday Resurrection stichera and of the Theotokos according to custom. At Great Vespers, at* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *Sunday Resurrection stichera 3, and of the Earthquake 3 (written at Great Vespers at the Aposticha), of Demetrius 4; "Glory to the Father, and to the Son, and to the Holy Spirit:" of Demetrius; "Now and forever, and unto the ages of ages. Amen:" Dogmatikon of the 1st Tone.*  
 *At the Litiya: sticheron of the Temple, and stichera of the saint; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the saint; "Now and forever, and unto the ages of ages. Amen:" Theotokion. At the Aposticha:*
 
-<!-- LEAF: p75 -->
+=== LEAF p75 ===
 
 [Book Page 148]
 
@@ -106,7 +106,7 @@
 *Be it known: That we always observe Meatfare on the 14th day, on the commemoration of the holy Apostle Philip, without change, except for the two days of Wednesday and Friday; and on the 15th we begin the Fast before the Nativity of Christ.*[^164]  
 *If Wednesday or Friday occur on the 14th day, on the commemoration of the holy Apostle Philip, then we observe Meatfare on the 13th day, on the commemoration of Saint John Chrysostom; but on Wednesday or on Friday we dare by no means to make Meatfare, for it is forbidden by the holy Canons.*
 
-<!-- LEAF: p76 -->
+=== LEAF p76 ===
 
 [Book Page 150]
 
@@ -133,7 +133,7 @@
 *Concerning the festal Sundays occurring here, that is: concerning the Sunday of the Forefathers, the Sunday of the Fathers before the Nativity of Christ, concerning the Sunday after the Nativity, before and after Theophany, it is necessary to know: that if in any year the Sunday of the Publican occur earlier, and the ordinary Sundays before the Sunday of the Forefathers remain unfulfilled, then it is not fitting to omit them; but after the Epistles and Gospels of the aforesaid festal Sundays, read also the ordinary ones, lest they remain unread.*[^167]  
 *If ever the Sunday of the Publican and the Pharisee be far removed from the Sunday after Theophany, then these ordinary Sundays are omitted here, and after the Sunday which is after Theophany they are resumed. These Sundays are omitted where there is a deferral [otstupka] for the Sundays, that is: a Paschal letter indicating which Sunday is to be taken after the 4th Sunday after Theophany. Such deferrals are found around the 24th Sunday after the Descent [of the Holy Spirit]: see in the Sluzhebniks.*
 
-<!-- LEAF: p77 -->
+=== LEAF p77 ===
 
 [Book Page 152]
 
@@ -155,7 +155,7 @@
 | K, L, M, N, O, P, Q [Ѳ҃. К҃. Л҃. М҃. Н҃. О҃. П҃.] | April 1, 2, 3, 4, 5, 6, and 7 | Immediately the Sunday of Zacchaeus, then the Publican's. |
 | R, S, T, U, V, W, X [Р҃. С҃. Т҃. Ѹ҃. Ф҃. Х҃. Ѿ҃.] | April 8, 9, 10, 11, 12, 13, 14 | The 31st Sunday after the Descent. |
 
-<!-- LEAF: p78 -->
+=== LEAF p78 ===
 
 [Book Page 154]
 
@@ -182,7 +182,7 @@
 
 *It is necessary to know: If it occur outside the 20th of December of this month: that is, on the 18th or the 19th day: the Sunday Resurrection service is sung, and of the Holy Fathers, thus: at* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *Sunday Resurrection stichera 3, and Anatolian 2, and of the Holy Fathers 4; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Fathers; "Now and forever, and unto the ages of ages. Amen:" Dogmatikon. For the rest see the Anthologion. At the Divine Liturgy: after the Entrance: Sunday Resurrection troparion and of the Fathers; "Glory to the Father, and to the Son, and to the Holy Spirit:" kontakion of the Fathers; "Now and forever, and unto the ages of ages. Amen:" of the Theotokos of the Temple. But if the Temple be not of the Theotokos: "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:" kontakion of the Fathers. Prokeimenon of the Tone, and the Hymn of the Fathers:* **"Blessed art Thou, O Lord God of our Fathers..."** (*Благослове́нъ є҆сѝ, Го́споди Бо́же ѻ҆тє́цъ на́шихъ...*);
 
-<!-- LEAF: p79 -->
+=== LEAF p79 ===
 
 [Book Page 156]
 
@@ -205,7 +205,7 @@
 *The Order of the Royal or Great Hours, sung on the Eve of the Nativity of Christ:*  
 *At the beginning of the 2nd hour [the 2nd hour before noon], the bell strikes. And having assembled in church, the priest vests in phelonion, and the deacon in sticharion. And the sacristan places a decorated tetrapod directly opposite the Royal Doors, and lights a candle upon the candle-stand. And the priest, taking from the altar the Holy Gospel, comes out with the Gospel into the church through the Royal Doors, preceded by the deacon with the censer. And he places*
 
-<!-- LEAF: p80 -->
+=== LEAF p80 ===
 
 [Book Page 158]
 

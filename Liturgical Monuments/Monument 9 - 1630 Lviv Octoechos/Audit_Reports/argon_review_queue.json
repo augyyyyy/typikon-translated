@@ -1,0 +1,68 @@
+{
+  "monument_id": "1630_lviv_octoechos",
+  "updated_at": "2026-10-26T02:59:26.750782+00:00",
+  "total_queued_leaves": 0,
+  "unresolved_quarantines": 0,
+  "items": [
+    {
+      "leaf_num": 3,
+      "cohort": 1,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "epigraphic_uncertainty_marker: [illegible]"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 9 - 1630 Lviv Octoechos\\Draft\\1630_lviv_octoechos_cohort1_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 9 - 1630 Lviv Octoechos\\Source Text\\1630_lviv_octoechos_cohort1_source.txt",
+      "updated_at": "2026-10-25T13:43:42.274048+00:00",
+      "resolved_at": "2026-10-26T02:59:20.554740+00:00"
+    },
+    {
+      "leaf_num": 22,
+      "cohort": 3,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "epigraphic_uncertainty_marker: [?]"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 9 - 1630 Lviv Octoechos\\Draft\\1630_lviv_octoechos_cohort3_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 9 - 1630 Lviv Octoechos\\Source Text\\1630_lviv_octoechos_cohort3_source.txt",
+      "updated_at": "2026-10-25T14:33:55.471345+00:00",
+      "resolved_at": "2026-10-26T02:59:20.554755+00:00"
+    },
+    {
+      "leaf_num": 24,
+      "cohort": 3,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "epigraphic_uncertainty_marker: [?]"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 9 - 1630 Lviv Octoechos\\Draft\\1630_lviv_octoechos_cohort3_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 9 - 1630 Lviv Octoechos\\Source Text\\1630_lviv_octoechos_cohort3_source.txt",
+      "updated_at": "2026-10-25T14:33:55.471709+00:00",
+      "resolved_at": "2026-10-26T02:59:20.554758+00:00"
+    },
+    {
+      "leaf_num": 29,
+      "cohort": 3,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "epigraphic_uncertainty_marker: [?]"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 9 - 1630 Lviv Octoechos\\Draft\\1630_lviv_octoechos_cohort3_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 9 - 1630 Lviv Octoechos\\Source Text\\1630_lviv_octoechos_cohort3_source.txt",
+      "updated_at": "2026-10-25T14:33:55.472413+00:00",
+      "resolved_at": "2026-10-26T02:59:20.554760+00:00"
+    },
+    {
+      "leaf_num": 72,
+      "cohort": 8,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 9 - 1630 Lviv Octoechos\\Final MD\\1630_lviv_octoechos_cohort8.md",
+      "source_file": "Liturgical Monuments\\Monument 9 - 1630 Lviv Octoechos\\Source Text\\1630_lviv_octoechos_cohort8_source.txt",
+      "updated_at": "2026-10-25T17:32:53.216711+00:00",
+      "resolved_at": "2026-10-26T02:59:20.554762+00:00"
+    }
+  ]
+}

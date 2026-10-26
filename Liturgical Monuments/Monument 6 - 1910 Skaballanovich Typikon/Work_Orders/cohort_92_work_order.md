@@ -2,7 +2,7 @@
 
 **Document ID**: `1910_skaballanovich_typikon`  
 **Cohort Number**: 92  
-**Physical Leaves**: Physical pages 911 to 920 (`p911.png` through `p920.png`, 10 leaves total)  
+**Physical Leaves**: Physical pages 911 to 920 (`Page_0911.jpg` through `Page_0920.jpg`, 10 leaves total)  
 **Starting Footnote Index**: `[^2759]` (Notes 925–941 of Volume II, mapping to global indices `[^2759]` through `[^2775]`, 17 footnotes total)  
 **Governing Genre Register**: **SCHOLARLY_CRITICAL** (Per Master Translation Standard MTS-1)  
 **Image Cache Directory**: `Liturgical Monuments\Monument 6 - 1910 Skaballanovich Typikon\Source Text\images`  
@@ -45,7 +45,7 @@
 ---
 
 ## 3. Autonomous Execution Instructions
-1. Inspect images `p911.png` through `p920.png` in `Liturgical Monuments\Monument 6 - 1910 Skaballanovich Typikon\Source Text\images` and PDF.
+1. Inspect images `Page_0911.jpg` through `Page_0920.jpg` in `Liturgical Monuments\Monument 6 - 1910 Skaballanovich Typikon\Source Text\images` and PDF.
 2. Transcribe Russian source text leaf-by-leaf with headers `=== LEAF p{N} ===` (for each leaf p911 through p920).
 3. Translate and critically audit into MTS-1 compliant scholarly critical text in `1910_skaballanovich_typikon_cohort92_raw_draft.md` with footnote markers `[^2759]` through `[^2775]`.
 4. Extract and translate footnote definitions 925 through 941 from leaves `p1015`–`p1016` into `1910_skaballanovich_typikon_cohort92_footnotes.txt` as `[^2759]: ...` through `[^2775]: ...`.

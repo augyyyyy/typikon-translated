@@ -1,300 +1,306 @@
-# Draft Translation: Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891) — Cohort 10
-## Physical Pages 141–160 (Leaves p141–p160 / Book pp. 137–156)
+# Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)
+## Cohort 10: Physical Pages 181–200 (Leaves p181–p200 / Book pp. 177–196)
 
-=== LEAF p141 ===
-*(Physical Page 141 / Book Page 137)*
-
-#### I. Immovable Feasts:
-
-**September:**
-- Day 8: Nativity of the Most Holy Virgin Mary.
-- Day 14: Exaltation of the Precious Cross.
-- Day 26: Falling Asleep of the Holy Apostle and Evangelist John (with transfer unto Sunday).
-
-**October:**
-- Day 1: Protection of the Most Holy Virgin Mary (transferred unto Sunday).
-- Day 26: Feast of the Holy Great Martyr Demetrius.
-- Day 31: Feast of the Holy Hieromartyr Josaphat (transferred unto Sunday).
-
-**November:**
-- Day 8: Feast of the Holy Archangel Michael.
-- Day 21: Entrance into the Temple of the Most Holy Virgin Mary.
-
-**December:**
-- Day 6: Feast of our Holy Father Nicholas.
-- Day 9: Immaculate Conception of the Most Holy Virgin Mary.
-- Day 25: Nativity of Our Lord Jesus Christ.
-- Day 26: Feast of the Synaxis of the Most Holy Virgin Mary and Saint Joseph.
-- Day 27: Feast of the Holy Protomartyr Stephen.
-
-**January:**
-- Day 1: Circumcision of Our Lord Jesus Christ and Saint Basil the Great.
-- Day 6: Theophany of the Lord.
-- Day 30: The Three Hierarchs: Saints Basil the Great, Gregory the Theologian, and John Chrysostom.
-
-**February:**
-- Day 2: Meeting of the Lord.
-
-**March:**
-- Day 25: Annunciation of the Most Holy Virgin Mary.
-
-**April:**
-- Day 23: Feast of the Holy Great Martyr George (transferred unto Sunday).
-
-**May:**
-- Day 8: Feast of the Holy Apostle and Evangelist John (transferred unto Sunday).
-
-=== LEAF p142 ===
-*(Physical Page 142 / Book Page 138)*
-
-**June:**
-- Day 24: Nativity of Saint John the Baptist.
-- Day 29: Feast of the Holy Apostles Peter and Paul.
-
-**July:**
-- Day 20: Feast of the Holy Prophet Elias (transferred unto Sunday).
-
-**August:**
-- Day 6: Transfiguration of the Lord.
-- Day 15: Dormition of the Most Holy Virgin Mary.
-- Day 29: Beheading of the Precious Head of Saint John the Baptist (transferred unto Sunday).
-
-#### II. Moveable Feasts:
-
-1. Flowery Sunday (Palm Sunday / of the Palms).
-2. Great Friday.
-3. Pascha of the Lord (three days).
-4. Thomas Sunday.
-5. Ascension of the Lord.
-6. Pentecost.
-7. Feast of the Holy Trinity.
-8. Feast of the Most Holy Eucharist (transferred unto Sunday).
-
-Aside from the above-adduced obligatory feast days, whereon the "All-Night Vigil" is always to be celebrated, there remains also the Temple Feast [Patronal Feast of the church], whether moveable or immovable, which not only shall be celebrated with the "All-Night Vigil" either on the day itself, or where such custom exists, on the nearest following Sunday, but also with the Divine Liturgy and the "Order for the Departed" on the following day, according to the devout and universal custom of our Churches.
+> [!NOTE]
+> **Historical & Canonical Significance**  
+> Cohort 12 of the **1891 Lviv Provincial Synod** (*Чинности и рѣшеня руского провинціяльного Собора въ Галичинѣ ôтбувшого ся во Львовѣ въ роцѣ 1891*) spans three foundational titles of the conciliar legislation, transitioning from the completion of the Divine Liturgy unto church architecture, liturgical vessels, vestment colors, and the constitutional hierarchy of the Catholic Church in Galicia:
+> 1. **Conclusion of Titulus V: On the Holy Liturgy (Leaves p181–p186 / Book pp. 177–182)**:
+>    - **The Fraction of the Lamb & Commixture**: Elevation of the Lamb over the diskos at *"Holy Things unto the Holy"*; precise cruciform fraction along the Proskomide incisions; placement of particles on the diskos; commixture of the upper particle into the chalice with the sign of the cross (*"The fullness of faith..."*); canonical rubrics for handling the sacred species with joined fingers until the final ablution.
+>    - **Communion of the Clergy**: Fraternal diptych greeting (*"Christ is among us — He is, and shall be"*); recitation of the pre-communion prayer (*"I believe, O Lord, and confess..."*) with triple breast-striking at the Publican's prayer; simultaneous consumption of the three diskos particles; chalice communion taken in a single draught; wiping of the chalice exterior with the *lention* [purificator] reciting Isaiah 6:7 (*"Lo, this hath touched thy lips..."*).
+>    - **Communion of the Faithful**: Pre-communion catechetical prayer; veneration of the hand-cross; orderly kneeling of communicants; two candle-bearers assisting; diaconal or priestly positioning with the diskos beneath the communicant's chin and *lention* lip-wiping; distribution via the communion spoon (*"The precious and most holy and immaculate Body and Blood..."*).
+>    - **Post-Communion & Ablutions**: Crosswise blessing with the veiled chalice (*"Save, O God, Thy people..."*); elevation at the Holy Table (*"Be Thou exalted above the heavens..."*); proclamation of the eternal doxology (*"Always, now and forever, and unto the ages of ages"*); consumption of remaining species and double ablution with wine and water; distribution of the diskos to be kissed by hierarchs, chapter canons (*kryloshane*), patron-collators, or civil authorities; folding of veils, *iliton*, and the placement of the Holy Gospel Book upon the High Altar.
+>    - **Dismissal & Polychronion**: Prayer behind the Ambo (*"O Lord, Who blessest them that bless Thee..."*); statutory blessing from the Royal Doors; the Polychronion (*Mnoholitstviye / "Unto many years"*) regulated for secret recitation on ferial days and solemn vocal proclamation for the Pope, Emperor Franz Joseph I, Metropolitan, and Eparchial Bishop on solemnities; Canticle of Simeon (*Nunc Dimittis*); thanksgiving in the sanctuary.
+> 2. **Titulus VI: On Churches Dedicated unto the Divine Service (Leaves p186–p193 / Book pp. 182–189)**:
+>    - **Ecclesiological & Biblical Preamble**: The Old Testament Ark and Temple of Solomon; Haggai's prophecy of the greater glory of the second temple; Jacob's ladder at Bethel; the indwelling of the Incarnate God within the tabernacle (*kovcheh*) attended by the angelic hosts.
+>    - **Orientation toward the East (Chapter I)**: Strict canonical obligation of east-facing altars and basilicas, citing St. John of Damascus (*De Fide Orthodoxa*) and St. Basil the Great (*De Spiritu Sancto*); theological symbolism of Christ as the Dayspring (*Oriens*) and yearning for the celestial Paradise.
+>    - **Tripartite Architecture**: Mandatory three-part layout: Sanctuary (*sviatylyshche*), Nave (*khram sam*), and Narthex (*prytvor*), divided by the solid wall of the Iconostasis; bilateral sacristies (diakonikon and prothesis); external belfries (*dzvonytsi*).
+>    - **Sanctuary & Nave Adornment (Chapter II)**: Freestanding Holy Table permitting solemn circumambulation; Tabernacle (*Kovcheh*) with interior metal plate; 6 large candlesticks and central Crucifix; High Throne behind the altar; two sovereign icon candlesticks; sanctuary lamp; central chandelier; the **Tetrapod** centrally positioned bearing the Cross and patronal icons between candlesticks; choir-stalls (*Krylosy*); elevated Ambo/pulpit on the northern wall; confessionals with grates; patronal pews; holy water vessel in the narthex.
+>    - **Sacred Vessels & Implements (Chapter III)**: Episcopal consecration reserved for vessels immediately touching the Eucharistic Body and Blood (chalice, diskos/paten, pyx/pushka, communion spoons, *daronosytsia*, and the *Melchizedek* monstrance receptacle); prohibition against purchasing or repairing sacred vessels among Jewish merchants; enforcement of the Synod of Zamość standards.
+>    - **Liturgical Vestment Colors (Chapter IV)**: Codification of the 5 canonical colors: Bright/White (gold, silver) for Sundays and dominical/Marian feasts; Red for Holy Martyrs; Violet for fasting eves, Great Lent, Holy Week, and cross days; Black for the Office of the Dead and Requiem Liturgies (except Bright Week); Mixed colors for ordinary ferial offices; White for the burial of baptized children.
+> 3. **Titulus VII: On the Ecclesiastical Hierarchy (Leaves p193–p200 / Book pp. 189–196)**:
+>    - **Ecclesiological Foundation**: The Church Militant as an ordered host (*terribilis ut castrorum acies ordinata*); Christ the eternal High Priest through the veil of His flesh; divine institution of the threefold hierarchy (Bishops, Priests, Deacons) and ecclesiastical grades (Patriarchs, Metropolitans, Archbishops) citing St. Leo the Great (*Epistola 84*).
+>    - **Chapter I: On the Roman Pontiff**: Petrine primacy and supreme ordinary jurisdiction over the universal Church; succession of the Roman Popes; exclusion of autocephalous autonomy; citation of Cardinal Mykhailo Levytsky's 1841 Pastoral Letter.
+>    - **Chapter II: On the Metropolitan**: Historical pentarchy and patriarchal sees (Fourth Lateran Council, Pope Benedict XI); transfer of the Kyivan Metropolitan See to Halych; papal restoration by Pope Pius VII's Bull *In universalis Ecclesiae regimine* (1807); confirmation of Clement VIII's brief *Decet Romanum Pontificem* (1596); extraordinary right of the Metropolitan of Halych to confirm and consecrate his suffragans (Peremyshl and Stanyslaviv); heraldic privileges (double-barred patriarchal archiepiscopal cross, pallium, sakkos, dikirion); Chapter administration during *sede vacante* (election of two Vicars).
+>    - **Chapter III: On Bishops**: The Bishop as shepherd and angel of his church (Ezekiel 34:4; Revelation 2–3); landmark conciliar reform permitting **secular celibate clergy** to be consecrated bishops without individual papal dispensations; extension of canonical visitations to a five-year cycle supported by annual decanal inspections; establishment of diocesan minor seminaries for boys.
 
 ---
 
-### CHAPTER VII. On the Veneration of Saints, Relics, and Images (Icons)
-
-1. Upon the mystical firmament of the Church, beside the greater luminary, which is Christ the Lord, God hath set
-
-=== LEAF p143 ===
-*(Physical Page 143 / Book Page 139)*
-
-also a lesser luminary, which is the Most Pure Virgin Mary, and the stars, that is, His Saints, so that throughout the entire night of this age, shining with the radiance of their holiness, they might dispel sinful darkness. As to the Most Blessed Mother of our Savior, although Her veneration is so intensely developed in our Church that almost on every page in divine worship Her commemoration occurs, nevertheless the Synod hath it supremely at heart that Her veneration shall ever increase also among us; and therefore pastors shall never cease, in their ancient zeal, to elevate the same daily, whether through sermons concerning Her, or through the establishment of pious brotherhoods to be founded under Her name, or through the solemnity of Her feasts and the frequent reception of the Holy Mysteries at Her solemnities. As to the veneration of the Saints, since, as the Apostle saith, *"one star differs from another star,"* although all the Saints before God are great, nevertheless some are more glorious than others; and that among them Saint Joseph, Spouse of the Most Pure Virgin, especially distinguishes himself, we hold as instructed by the most solemn authority of the Vicar of Christ upon earth; for this Saint by decrees both of Pius IX of blessed memory and of his glorious successor Leo XIII was established Patron of the Universal Church. Therefore also this Synod, promising unto itself renowned spiritual blessings from the patronage of this Saint, desires by the mercy of God to receive Him as the special Patron of the Ruthenian Church [^167].
-
-Unto the veneration of Saint Joseph, Spouse of the Most Pure Virgin Mary, there ought to be joined also the veneration of the most glorious parents of that same Most Blessed Virgin, Saints Joachim and Anna, which likewise through the decrees of the Supreme Pontiffs shines ever more brightly, and whose commemoration among us is celebrated with special divine service again and again. Pastors, therefore, shall endeavor also to cultivate the veneration of these Saints ever more ardently by joining sermons thereto upon given opportunity, and on the days dedicated unto their commemoration, to sing the Divine Liturgy.
-
-=== LEAF p144 ===
-*(Physical Page 144 / Book Page 140)*
-
-Since, however, the Church consists of all generations, tongues, and nations, and all Her members, together with Christ their Head, constitute Her great and glorious Body, which is ever vivified by the very same life of the Holy Spirit; therefore the number of Saints in the Church of God hath increased from Her very beginning unto this day, and until the end of the ages shall not cease to increase. Therefore, as before the schism of the Eastern Church between both Churches the Saints of the Eastern Church found veneration in the Western Church and vice versa, so also now after the schism of the Greeks, when our Church, by virtue of the Union with the Mother of all Churches, constitutes one Body with the Catholic Church, therefore the Synod decrees in the Lord, that both for obtaining unto ourselves intercession before God of those Saints, and for demonstrating the profession of our Catholicity, our Ruthenian Church hath recognized and received also all those Saints who, being solemnly canonized by the Holy Apostolic See, are venerated with special divine worship in the Roman Church.
-
-2. Finally, unto a particularly special veneration of Ruthenians those Saints justly have a right who in our conversion and in our liturgical language bore the greatest labors, namely: the Holy Brothers Cyril and Methodius; as well as those who from our own lineage have long since attained heavenly glory, and are venerated with ecclesiastical service, namely: Saint Vladimir the Great and his two sons, the Martyrs Boris and Gleb; Anthony and Theodosius of the Caves; Saint Paraskeva; and Saint Josaphat, in recent times inscribed into the book of Saints by the Apostolic See and presented unto the whole universal Catholic Church for celebration. Namely, as to the Holy Hieromartyr Josaphat, who sealed with his blood the defense of the Holy Union, the Synod hath resolved to transfer his service from September 16 unto October 31 (November 12), upon which day he was crowned with martyrdom; while the commemoration of our Holy Apostles Cyril and Methodius, from June 23 (July 5)—whereon His Holiness Leo XIII by a special encyclical letter unto the Catholics of the whole world given on September 30, 1880, prescribed their commemoration to be celebrated by the universal Church—shall be transferred unto the nearest Sunday, whether preceding or following, because on the very day of June 23
-
-=== LEAF p145 ===
-*(Physical Page 145 / Book Page 141)*
-
-(July 5) among us there already occurs a service, and that a Polyeleos service, of Saint Peter of Mount Athos.
-
-3. As to Holy Relics, the Synod especially decrees that pastors, having duly investigated their identity, either by the authentic document attached unto them, or at least by the attached seal of some person from the Treasury of Relics of the City of Rome, or by the certification (of identity) of an Ordinariate, shall treat them, as more precious than all pearls, with due reverence and render them worthy honor, especially if they proceed from the body of a Saint which was a living temple of the Holy Spirit and an instrument of so many glorious deeds, keeping well in mind that these relics belong unto those who among the souls destined by God for eternal life have in an extraordinary manner shone forth with virtues unto the whole world. Therefore, if in Churches such relics are found, pastors shall not permit that they remain in an undignified place or in a corner, but shall expose them in Church for the general veneration of the people; exposing the same especially upon certain festive occasions upon the altar, or in some other becoming place, and that having lighted candles around them, and offering them for kissing unto the people approaching with reverence.
-
-4. If ever in their Churches they should find any relics whereof the authenticity is unknown unto them, they are bound to submit them unto the respective Ordinariate and await the judgment thereof. Moreover, they shall not permit any lay person to touch them, but they themselves, at least vested in an epitrachelion, shall bring them unto the altar and carry them unto their own proper treasury, neat and becoming. Since at times it happens that in Churches there are found Antimensia worn out by age, which in their center, as if upon the altar, still contain relics of Holy Martyrs embedded, then if they no longer serve for the use of the Church, they shall be sent unto the Ordinariate, or those old ones shall be replaced by new ones. Those Antimensia, no less than the holy relics themselves, they shall not permit lay persons to touch; they shall not give them unto them for washing, and they themselves shall not dare to wash them, and that all the more because, beside the holy relics embedded therein, they are anointed with Holy Myron, which also lay persons are not permitted to touch, nor is it lawful for anyone whatsoever to wash them.
-
-=== LEAF p146 ===
-*(Physical Page 146 / Book Page 142)*
-
-Whenever necessity arises for the celebration of the Divine Liturgy to place the Antimension between the altar cloths, which often need to be changed, the priest himself shall do this, and not anyone else from the laity serving at the altar.
-
-5. Since man is most moved by things falling under the senses, and through things visible is elevated unto things invisible, it corresponds unto this disposition of his that he should have before his eyes the images of those who by their life and heavenly communion have expressed upon themselves the image of the Heavenly Father. When this custom of venerating holy icons was once opposed by some, they were condemned as heretics by the Seventh Ecumenical Council, and thereafter the veneration of holy icons spread further; and for the witnessing of that dogma, Holy Icons were from that time placed in Greek Churches upon the wall (wooden) for universal veneration, and unto this day occupy under the name of the Iconostasis in our Churches the most important and prominent place. Those images on the Iconostasis, however, must not be just any images and in just any order, placed according to whim, but in such wise that on the lower tier the two principal ones, namely: of the Divine Savior and of the Most Pure Virgin Mary, shall occupy on the one and the other side the first place—the Savior on the right, and the Most Pure Virgin on the left—and beside them there follow, according to greater or lesser space, others of other Saints, especially of the Temple Patron; on the upper tier there shall be arranged in twelve compartments the images of the twelve principal feasts, both Dominical and Theotokian, and in the center the image of the Mystical Supper of the Lord. Above them, the icons of the twelve Apostles, and in their midst Christ the Savior; upon the highest tier, of the Prophets, and in their midst may be placed the image of the Most Blessed Virgin Mary; at the very summit, the Crucifixion between the Most Pure Virgin Mary and Saint John the Theologian. Following therefore that ancient custom of the Church, we command that nowhere such Iconostases shall be lacking in our Churches, as of great importance for the exact celebration of the rites of our order; and moreover we prescribe that the icons therein shall be arranged not in any random manner and not just any, but according to the method indicated above, and those of which we made mention above. Moreover, all those icons shall be painted
-
-=== LEAF p147 ===
-*(Physical Page 147 / Book Page 143)*
-
-according to the style of our Church, corresponding unto the Eastern. Moreover, the custom of our Churches shall be preserved, that is, to keep upon the Tetrapod with the image of the Holy Cross also the Temple Patronal Icon of the Church, and that for kissing by the people coming unto the church. In order that this icon, through frequent kissing, may not be effaced, as happens in some places, it will be appropriate to protect it with glass.
-
-6. As to the other icons placed in church by the faithful out of devotion, the Synod commands above all that they shall not be exposed for public veneration without the prior consent and approval of the respective pastor; and we obligate pastors that they shall not accept any whatsoever without distinction, and shall never permit the introduction of those painted unseemingly or contrary to church style, and finally they shall not allow that they be displayed in places less suitable for veneration. We also approve portable icons for carrying, which maidens are accustomed to carry upon inserted transverse staves during the most solemn processions; nevertheless we desire that pastors shall see to it that in the adornment of those icons nothing unbecoming shall be found, and that nothing shall be introduced that would display a worldly or frivolous taste according to the conceit of the female mind, which may especially occur with statues; and at the same time that the maidens carrying the icon shall be dressed becomingly indeed, but without luxury, and shall have their heads covered with a white veil (*namitka*).
-
-7. Where finally there should be found in Churches any old icons no longer serving for ecclesiastical use, pastors shall not allow them to lie in the dust, but shall send them unto the Ordinariate, because it happens very frequently that among them there are found some distinguished either by antiquity or by art, and in that case their Churches may obtain some compensation therefor; and moreover such sacred monuments may be preserved as a memorial as well as for the further cultivation of church style. As to the form of the Holy Cross which is customarily erected in public places, pastors and faithful shall conform unto the prescription of the Sacred Congregation for the Propagation of the Faith issued on May 29, 1887, No. 5, and promulgated
-
-=== LEAF p148 ===
-*(Physical Page 148 / Book Page 144)*
-
-throughout our entire province, and specifically in the Archeparchy of Lviv on December 4, 1887, No. 358 ord. [^168]
+## Table of Contents
+1. [Titulus V: On the Holy Liturgy (Conclusion)](#1-titulus-v-on-the-holy-liturgy-conclusion)
+   - [The Fraction, Clergy Communion, and Distribution unto the Faithful (Leaves p181–p183 / Book pp. 177–179)](#the-fraction-clergy-communion-and-distribution-unto-the-faithful)
+   - [Post-Communion, Ablutions, and Dismissal (Leaves p184–p186 / Book pp. 180–182)](#post-communion-ablutions-and-dismissal)
+2. [Titulus VI: On Churches Dedicated unto the Divine Service](#2-titulus-vi-on-churches-dedicated-unto-the-divine-service)
+   - [Preamble and Chapter I: On the Construction of a Church (Leaves p186–p189 / Book pp. 182–185)](#preamble-and-chapter-i-on-the-construction-of-a-church)
+   - [Chapter II: On the Interior Adornment of the Church (Leaves p189–p190 / Book pp. 185–186)](#chapter-ii-on-the-interior-adornment-of-the-church)
+   - [Chapter III: On Sacred Vessels and Church Implements (Leaves p190–p191 / Book pp. 186–187)](#chapter-iii-on-sacred-vessels-and-church-implements)
+   - [Chapter IV: On the Colors of Church Vestments (Leaves p191–p193 / Book pp. 187–189)](#chapter-iv-on-the-colors-of-church-vestments)
+3. [Titulus VII: On the Ecclesiastical Hierarchy](#3-titulus-vii-on-the-ecclesiastical-hierarchy)
+   - [Preamble and Chapter I: On the Roman Pontiff (Leaves p193–p195 / Book pp. 189–191)](#preamble-and-chapter-i-on-the-roman-pontiff)
+   - [Chapter II: On the Metropolitan (Leaves p195–p198 / Book pp. 191–194)](#chapter-ii-on-the-metropolitan)
+   - [Chapter III: On Bishops (Leaves p198–p200 / Book pp. 194–196)](#chapter-iii-on-bishops)
+4. [Scholarly Critical Apparatus & Footnotes](#4-scholarly-critical-apparatus--footnotes)
 
 ---
 
-### CHAPTER VIII. On Holy Processions, Pilgrimages, and Missions
+### The Fraction, Clergy Communion, and Distribution unto the Faithful
 
-1. That holy processions, which at times take place in our churches, since they are but tokens and incentives of the spirit of devotion and religion, as also of the triumph of Christ the Lord over the prince of this world, ought to be highly esteemed, no one can doubt, whensoever only they are undertaken and performed in a becoming manner. Most of all, therefore, the pastor shall ensure that during a procession with the Most Holy Gifts, people who do not walk in the procession, but stand here and there, shall during the passing of the Most Holy Gifts bend both knees and fall unto the earth with reverence.
+=== LEAF p181 ===
+*(Physical Page 181 / Book Page 177)*
 
-The Holy Gifts ought to be carried beneath a Baldachin, surrounded by lighted candles, and unceasingly accompanied by incensation from the front, either by deacons, if there be such, or at least by one of the most worthy servants of the Church, the so-called trustees (*provizory*). As to the priest himself carrying the Most Holy Gifts, it is required that he be vested in all sacred vestments and with head uncovered.
+taketh with the first two fingers of both hands the Lamb; and when the Deacon from his place (in the church) proclaimeth: "Let us attend!" Goar 65, the Priest raiseth the Lamb slightly aloft over the diskos and not over the chalice, and without tracing a cross with It, proclaimeth: "Holy Things unto the Holy!" Goar 65 (here the server ringeth the altar bell); and then he breaketh the Lamb along the incisions made across Its center crosswise with the spear, already at the Proskomide, into two parts lengthwise, saying: "Broken and divided is the Lamb of God..." etc., Goar 65, Liturgikon page 337 (39). Then he placeth the right side of the half upon the right side of the diskos, and the left half he breaketh again into two parts crosswise and placeth Its upper part upon the upper part of the diskos, and the lower half of the same left side upon the left side of the diskos; then he taketh the right half of the whole Lamb and breaketh It again in the middle crosswise and placeth the upper part upon the lower side of the diskos, and the lower part upon the right side of the diskos; then he taketh the upper part from the upper side of the diskos, raiseth It with both hands over the chalice, and maketh with It the sign of the cross, saying: "The fullness of faith..." etc., page 338 (40), Goar 65, and droppeth the same gently into the chalice; and having covered the chalice with its veil, taking the same between the 3rd finger and the two joined fingers, he boweth profoundly, not opening those two fingers of both hands with which he placed the Lamb into the chalice, and not touching anything with them until the washing of hands, with the exception of the holy Bread in the very rite of Communion, and partially also during the wiping of the chalice, namely when with his thumb he droppeth the particles into the chalice. After the dropping of the upper part of the Lamb into the chalice, if there be concelebrating priests, then they approach in order according to dignity unto the reception of Communion, and the presiding Priest distributeth unto each upon the palm of his right hand a particle, saying: "Christ is among us," and he answereth: "He is, and shall be"...—then the Priest spreadeth his hands, and having inclined his head slightly and gazing upon the Holy Gifts, reciteth the prayer: "I believe, O Lord, and confess..." etc., page 338 (40); at the words: "Remember me, O Lord..." etc., which he repeateth 3 times, he striketh his breast each time,—while the other Priests say the prayer only. Finally, there is a pious custom of those who join unto that prayer yet a second prayer following: "I believe, O Lord, and confess...
 
-2. As to the manner and order of the procession, the following shall be observed: in front let the cross-bearer proceed with the image of the Crucifixion turned toward the way, that is, forward, which again will be all the more becoming if the cross shall be borne between two candle-bearers. Since the representation of the cross is an image of the exaltation of Christ, who thereby accomplished the salvation of the world, therefore unto the carrying thereof there shall not be assigned the lowest persons among the people, as at times happens, but with that honor shall be distinguished the more honorable and prominent. After the cross let there follow, arranged in two rows, those bearing the banners or holy flags (*khoruhvy*); after them let maidens follow with
+=== LEAF p182 ===
+*(Physical Page 182 / Book Page 178)*
 
-=== LEAF p149 ===
-*(Physical Page 149 / Book Page 145)*
+that this which I receive..." etc., pages 338 and 339 (40–41), Goar 65, and at the end the Publican's prayer: "O God, be merciful unto me a sinner;—O God, cleanse my sins and have mercy on me;—I have sinned without number, forgive me," and striketh his breast each time. Then the Priest, having bowed profoundly, taketh with the first two fingers of his right hand all three particles together, so far as this is possible, placing one particle upon the other in the prescribed order: from the lower part, from the left side, and from the right side of the diskos, and saith: "The precious and most holy..." etc., page 339 (41), Goar page 82, and consumeth them with reverence, meditating somewhat upon this Holy Mystery. Having communicated of the Holy Bread, he himself uncovereth the chalice (or the Deacon, if there be one), boweth profoundly, and sweepeth into the chalice attentively and devoutly with the thumb (using also, if it should be necessary, the second finger) of the right hand, holding in his left hand the diskos over the chalice in such wise that not even the smallest particle remaineth upon the diskos. Then, having bowed profoundly, he taketh the chalice in his right hand and the diskos in his left, and placing the same beneath his chin, communicateth devoutly, saying: "The precious, most holy..." etc., page 339 (41), Goar 82, drinking from the chalice only once, that is, with a single draught. Then, having set down the chalice on his right side and the diskos on his left side upon the Holy Table, he taketh between his third and second finger the lention [purificator], wipeth his lips with it with the angelic words spoken unto Isaiah the Prophet: "Lo, this hath touched thy lips..." etc., page 339 (41), Goar 66; then holding with his left hand the base of the chalice, he wipeth with the lention that place of the chalice from which he drank, and that only on top and on the outside, and not inside the chalice. Then the other concelebrants also approach and communicate from the chalice in the same manner as the presiding Priest. Then the Priest or the Deacon covereth the chalice with its veil, having set aside the lention on the right side, and having bowed profoundly even unto the ground, he taketh the chalice with his left hand by its base and with his right by its node [bottom], and turning unto the people proclaimeth: "With the fear of God [and faith draw near]..." etc., page 340 (42), Goar 67. If there be a Deacon, then the Priest handeth him the chalice, turning toward him from the right side; and he, having bowed profoundly, taketh the chalice from the Priest in the same manner as the Priest, and from the altar, and not from the Royal Doors, turning with his left side toward the people, proclaimeth: "With the fear of God...
 
-their icon; after them let the brotherhoods follow, then the cantors; after them, likewise in two rows, the clerics, if there be such; then priests in Epitrachelia, immediately after them others in Phelonia, and at the end the principal celebrant himself, surrounded by the people.
+=== LEAF p183 ===
+*(Physical Page 183 / Book Page 179)*
 
-3. If a circuit takes place around the Church, then, having exited from it, it turns immediately rightward following the sun toward the west, and having circumnavigated the Church, returns unto it from the other side.
-
-In order to attain the purpose of such processions, it is necessary that all, and especially the clerics, and before all the presiding priest, shall walk with spirit directed unto God, and by the exterior posture of the body give an edifying example unto the beholders; all shall walk modestly, singing together with the people hymns more suited unto the character of the procession.
-
-4. That pilgrimages which are undertaken unto holy places renowned for miracles and endowed with indulgences from the Apostolic See, if they are undertaken as is fitting, are salvific for the faithful, everyone knows; so that God Himself, knowing well the disposition of the human spirit, already in the Old Testament prescribed the same unto His chosen people, commanding that every male from all the land of Israel should appear three times before Him in the Temple at Jerusalem; and a visible example of the observance of such a commandment was left unto all the faithful also by the Holy Family itself, as we read in the Gospel [^169].
-
-5. That those pilgrimages may be undertaken as is fitting, it is necessary to keep before eyes the warnings which unto that end above all regarding pastors the Metropolitan Gregory Yakhymovych of blessed memory prescribed to be observed in his Pastoral Letter of December 24, 1861, wherein, among other things, the following ought to be mentioned: "In particular, as to pilgrimages and the visiting of churches endowed with indulgences, we have no reason to oppose them, if they are undertaken for the consolation of the soul—if only a time be chosen free from parochial duties, and if they be not frequent, and the absence of the pastor from his parish do not exceed the time of three days; and during them it is necessary
-
-=== LEAF p150 ===
-*(Physical Page 150 / Book Page 146)*
-
-to observe modesty and decorum becoming the priestly state, enjoined upon all the honorable Clergy by the local circular of July 16, 1825, No. 2723; further, no priest shall dare arbitrarily and without the knowledge, and much less against the will of the respective local pastor, to meddle in the celebration of sacred Rites there, or to administer any assistance unto the faithful gathered there; but when invited, he is bound gladly to render brotherly assistance, far removed, however, from any mercenary gain and suspicion of filthy lucre."
-
-6. As to the faithful, the following admonitions shall be observed: 1) that they themselves through absence shall not neglect the pressing duties of their state and calling; 2) that pilgrimages be undertaken with a proper intention, and not for idle curiosity; 3) that they shall not waste the time of pilgrimage thither and back in jests, drunkenness in taverns, thefts, shameless deeds, and other similar sins; 4) that in the very place unto which the pilgrimage is undertaken, they shall pour forth prayers, listen with all attention unto sermons, and worthily receive the Mysteries of Penance and the Holy Eucharist; and finally, 5) that pilgrimages shall not take place unto the sanctuaries of non-Catholics, such as, among others, at present are the sanctuaries of Pochayiv and Suceava, whereof the former namely, once belonging unto the Catholic Church, is now annexed unto the Church of the Russian Empire, separated from the Catholic Church [^170].
-
-If such pilgrimages take place in a body by the people gathered together, it would be well that their leader should be the pastor himself, so that beneath his guidance abuses which might easily occur may be prevented; if, however, that should be impossible for the pastor, then let him appoint as leader of the pilgrimage some man of proven conduct and exceptional prudence, whom he shall fittingly instruct concerning the duty entrusted unto him.
-
-7. As to the places of pilgrimage themselves, their superiors or pastors shall endeavor to invite unto their Church a sufficient number of priests, especially such as they deem most capable of hearing confessions,
-
-=== LEAF p151 ===
-*(Physical Page 151 / Book Page 147)*
-
-so that through a lack of such, the faithful may not be deprived of the Holy Mysteries, the reception whereof is the chief instrument of their sanctification; moreover they shall invite one or another, burning with greater zeal, for sermons. Nevertheless, pastors of holy places shall take good care that the revenues gathered from such solemnities, especially those wherewith is attached the obligation of celebrating Divine Liturgies or another divine service, they shall not retain entirely for themselves, but shall make partakers thereof also those whose participation with them in labors they experience, laying upon them the obligation of satisfying the intentions of the donors. For in this manner, on the one hand, the superiors of the places themselves will preserve the peace of their own conscience, manifesting a spirit entirely far removed from greed for material gain, and will contribute, according unto the duty and purpose of their calling, unto the glory of God and the salvation of souls; while on the other hand, by this conduct of theirs they will inspire both priests and faithful not only unto greater zeal in celebrating there pious exercises and devotions, but also unto a greater frequentation of the wonderworking shrines, namely in that they will admire the very harmonious order in these holy places, as well as the zealous activity of the sacred ministers, especially when their chief desire, which is the reception of the Holy Mysteries, is fully satisfied, and they will not be constrained, as in some places happens, to return home with grief of heart without that religious consolation.
-
-8. Pastors of holy places are here admonished that they shall accurately record the obligations of intentions together with their purpose in books expressly prepared for this, sitting either in the narthex or in some place near the Church; and if the pastors should be so greatly occupied in Church that it would be impossible for them personally to fulfill that duty, they are bound in their stead to appoint some other priest, or in default thereof, a cleric, but never, generally speaking, any layman, and much less a woman. If anything of the kind should happen, then the faithful would become alienated from pious offerings, suspecting that those offerings might perhaps be diverted unto some other purpose.
-
-=== LEAF p152 ===
-*(Physical Page 152 / Book Page 148)*
-
-9. Finally, superiors of holy places shall endeavor that the faithful coming in great numbers shall have places where they may take shelter from inclement weather, or spend the night between the eve and the feast day, so that they may not be constrained to wander about taverns and Jewish lodgings. Furthermore, we charge the conscience of superiors that, whether in Church or around it, they shall especially not permit anything to be done that would be contrary unto sobriety or the gravity of the Christian faith, or might afford anyone an occasion of scandal or cause for the condemnation of pious Christian institutions.
-
-10. That the most powerful means for the sanctification of the faithful are also parish missions is manifest unto everyone; therefore Saint Alphonsus expresses himself concerning those who did not hesitate to declare that missions bring more harm than benefit, thus: "Those who say this, say it because they have no experience in missions, and therefore do not understand that great winning of souls which through them takes place for God. Whosoever hath experienced it knows well how many inveterate enmities are removed, how many evil customs are uprooted, how many restitutions take place, how many disputes (which later become a hotbed of hatreds) are assuaged, and above all, how many badly made confessions are rectified; especially throughout villages and smaller localities, where in that respect missions are not only profitable as in large cities, but may even be called necessary, because in such localities all the inhabitants know one another, whence it not infrequently happens that they are subsequently ashamed to reveal their sins unto the confessors of the village... It is true also that many after missions fall anew, but would God grant that all who once convert might remain in grace even unto death, never falling anew! Such is human infirmity, that many obtain the grace of God, and then lose it again. But even were nothing else attained, it is certain that during missions at least a multitude of sins is prevented. Furthermore, on account of missions many souls return unto God and remain in His grace even unto death; and many, even though they fall anew, remain (therein) at least for
-
-=== LEAF p153 ===
-*(Physical Page 153 / Book Page 149)*
-
-several months, and in every case during a mission they conceive a greater fear of sin and acquire a greater knowledge of God and of the great importance of their eternal salvation" [^171].
-
-11. Although among us hitherto missions have been employed for the people especially unto the end that the faithful might turn away from the sin of drunkenness, which indeed is exceedingly commendable, nevertheless it cannot be doubted that it is exceedingly profitable to conduct them also for the extirpation of other vices according unto the need of the localities; therefore in missions sacred discourses ought not always to be restricted merely unto the vice of drunkenness alone, but shall be extended also unto other vices.
-
-12. The subject and distribution of those discourses shall be especially those truths of our faith which are designated by the name of the "last things," as also the heinousness of mortal sin, which ought to be arranged in the form of meditation, and interwoven also with other discourses and catechetical teachings, particularly concerning the principal articles of faith, confession, and Holy Communion. Here especially the Synod deems it its duty to direct the attention of pastors unto the utility of missions, and unto that end submits unto them above all that which was cited above from Saint Alphonsus, and then observes the following: People are far less moved by ordinary things unto doing good than by extraordinary things; therefore it is necessary from time to time to propose unto them extraordinary things, that they may be moved unto good; and since it is known that it commonly happens that the faithful, not daring at times to reveal certain things unto their own pastors at confession, being shaken by extraordinary sermons concerning the fearful truths of our holy religion, are accustomed to confess unto strange priests with full liberty and true contrition, therefore it follows clearly from this that the organizing of missions is an exceedingly salvific work.
-
-13. The whole art, therefore, for attaining salvific fruit from missions consists in a good arrangement of exercises
-
-=== LEAF p154 ===
-*(Physical Page 154 / Book Page 150)*
-
-and in the selection of priests capable thereof; therefore the local pastor himself who desires to arrange a mission in his parish shall, with the counsel of pious and prudent priests, draw up before all a plan thereof, and designate the hours of the day whereon what is to take place; then through his deanery office transmit that plan thus composed, together with the opinion of the priests invited unto the work of the mission, unto the Ordinariate for the approval thereof, requesting from it at the same time extraordinary faculties for the confessors, as well as a blessing for the successful outcome of the mission. Having received all this, he shall announce unto the people the time whereon the mission is to begin and end, moving the same by suitable means unto the celebration of the mission with a well-disposed spirit, on which occasion he shall expound unto them also the order and time both of divine services, and of sermons and confessions. When the mission shall already be conducted, he shall endeavor, among other things, to arrange that during sermons confessors shall cease hearing confessions, as also that in participation therein (in the mission) the faithful of that parish shall have the first place, because the mission was arranged especially for his own parishioners. Unto the priests invited for conducting the mission, he shall set forth the principal failings of his parish, so that they may direct the entire weight of their discourses and admonitions, both outside and inside confession, with all force against them. Since, however, it cannot be denied that in the missions undertaken among us against drunkenness priests have labored with fortunate success, so that entire villages began completely to abstain from intoxicating drinks, and for perseverance in their resolution very many enrolled in the society of temperance, chiefly on account of the spiritual graces—indulgences—wherewith the same were endowed by Pius IX of blessed memory; nevertheless, since in that direction much labor is still necessary so that this error may be further eradicated, and that the temperate may be strengthened in their resolution, we admonish pastors in the Lord that they shall not cease henceforth from their labors, "for virtue is constancy in the good" [^172].
-
-=== LEAF p155 ===
-*(Physical Page 155 / Book Page 151)*
-
-14. Unto that end further, the ordinances and instructions given unto us by His Excellency Metropolitan Joseph Sembratovych in his pastoral letter both of April 3, 1874 under the title: "On the High Dignity of Man," as also of April 6, 1878, No. 7628, will most serve; these instructions pastors must keep before their eyes.
-
-15. In order that in this so salvific work a certain permanent method may be established also for the future, the Synod decrees that instead of one of the clerical conferences (*soborchyky*) which are customarily held annually in each deanery, there shall be conducted in a certain parish of each deanery one mission, where precisely, upon mutual consultation of the pastors of that deanery, the dean shall assign the holding of such a mission, having regard unto greater need. Upon the conclusion of such a mission the dean is bound annually to transmit a detailed report thereof unto the Ordinariate.
+and faith draw near]..." etc.; then he turneth with that very same side toward the Priest and handeth him, having bowed, the chalice. Here, if there be laity for Communion, the Priest shall lead for them the prayer: "I believe, O Lord, and confess..." etc., Goar 66, beginning with the sign of the cross: "In the name of the Father, and of the Son, and of the Holy Spirit. Amen"; and upon the conclusion of the prayer add: "O God, be merciful [unto me a sinner]..." etc., as was said above, and addeth: "In the name of the Father, and of the Son, and of the Holy Spirit," 1 time, and distributeth Communion unto the kneeling laity. Here it is accepted by custom, that before communion the cross also is given to kiss, and that one or two candle-bearers be beside the Priest when he communicateth the people kneeling lengthwise in the church and in good order; and he shall communicate them so carefully, lest anything should spill from the spoon; if there be Deacons, then the first of them taketh the diskos and goeth on the right side ahead, holding the diskos beneath the chin of the communicant, and the second wipeth their lips with the lention, saying: "Lo, this hath touched thy lips..." etc., while the Priest distributeth Holy Communion with the words: "The precious and most holy and immaculate Body and Blood of our Lord and God..." etc., page as above. If there be no Deacons, then the Priest himself taketh in his left hand the chalice, holding the same more or less with the last smaller fingers, and with the two joined fingers and the third, that is, the middle finger, holding the diskos, placing the same beneath the chin of the communicant, and holding with his right hand the lention hanging upon the 4th and 5th fingers, he taketh between the two joined fingers and the following third finger the spoon, and communicateth the people, saying at each one: "The precious and most holy..." etc., and wiping: "Lo, this hath touched..." etc.
+After Communion they enter into the sanctuary, and having set the chalice and diskos with the lention upon the Holy Table and having bowed profoundly, the Priest removeth the spoon from the chalice, consumeth the remaining particles of the Holy Mysteries with the small spoon if there be need, which he then wipeth with his lips and layeth upon the lention; and having covered the chalice again with its veil, he turneth toward the people (if he doth not communicate laity, then immediately having taken the chalice from the Deacon), and blesseth the people crosswise with the chalice covered with the veil with the words: "Save, O God, Thy people, and bless Thine inheritance..." etc., Goar page 67, Liturgikon page 340 (42), and having turned back toward the Altar by that same half-circle, he removeth the veil from the chalice, and having bowed profoundly, saith: "Be Thou exalted above the heavens...
 
 ---
 
-### CHAPTER IX. On Domestic Worship
+### Post-Communion, Ablutions, and Dismissal
 
-1. Every family represents in its own way the Church of Christ, the head whereof is the father of the family himself, who as a Christian man, animated by living faith, ought to govern the entire family, not only in matters pertaining unto temporal life, but still more in those which relate unto eternal life, as the Apostle admonishes: *"If any provide not for his own, and specially for those of his own house, he hath denied the faith, and is worse than an infidel"* [^173]. Although this relates unto all fathers of families, yet most of all unto spiritual fathers of families, such as pastors are in their own homes: *"for a bishop must be such,"*—saith the holy Apostle—*"one that rules well his own house, having his children in subjection with all gravity. For if a man know not how to rule his own house, how shall he take care of the church of God?"* [^174]
+=== LEAF p184 ===
+*(Physical Page 184 / Book Page 180)*
 
-=== LEAF p156 ===
-*(Physical Page 156 / Book Page 152)*
+O God," Goar 67, Liturgikon page 340 (42); he taketh the chalice with both hands, and standing before the Altar, saith secretly: "Blessed is our God," and tracing with it (the chalice) a cross, he turneth with his right side toward the people, and not blessing with it, but proclaiming: "Always, now and forever, and unto the ages of ages," Goar 67, completeth a full circle unto the left side toward the Altar; and having set down the chalice here, he maketh a profound bow and consumeth [the remaining Gifts] devoutly and attentively, having placed the diskos beneath his chin with his left hand. The spoon after Communion (if it was used) he layeth upon the iliton or upon the lention, and during the ablution of hands he placeth it into the chalice; and after pouring wine and water into it, he returneth toward the center of the altar, and having consumed this, wipeth it with the lention and setteth it aside in its place, etc., as is said in the rubric on page 340 (42): "And the Priest..."
+At the words: "With the fear of God..." etc., and further after the words: "Save, O God, Thy people" and "Always, now and forever" at the signal of the bell all the faithful kneel. In accordance with what is here stated, the rubrics in the Sluzhebnik must also be emended.
+Here, if there be Deacons, the one who is on the right side poureth wine unto the Priest holding the chalice at the first ablution, and wine and water at the second; and then the Deacons, having unbound the orarion, arrange it upon themselves as at the beginning of the Liturgy, and depart unto their places in the church; and having bowed profoundly toward the altar, one of them singeth the Ecteny: "Arise, having partaken..." etc., Goar 67, Liturgikon pages 340–341 (42–43).
+Here it is noted, that if there be present in the church: the Hierarch, canons [kryloshane], collator (patron), or other distinguished personages, whether ecclesiastical or secular, as for example the chiefs of civil authority, then the Priest, having wiped the diskos, placeth beneath it a veil, and giveth it unto the Deacon, who carrieth the same unto the said personages to kiss.
+Further, the Priest after wiping the chalice and other vessels, foldeth the same in the very same manner as at the Proskomide, kissing each one separately: having first wiped the chalice and then the diskos, upon the diskos the asterisk, upon the asterisk the small rigid veil, then the aer folded in three and the iliton, and upon this the soft veil, if the Divine Liturgy is celebrated upon some smaller altar (for upon the High...
 
-2. Since, however, discourse here turns upon divine worship, fathers of families must watch that not only their domestic servants, but still more their own children, by their instruction and example, shall render unto God at the appointed times due honor.
+=== LEAF p185 ===
+*(Physical Page 185 / Book Page 181)*
 
-3. In particular, as to the adornment of the house, especially of a priest, it ought to breathe holiness and the manifestation of faith, before all in the choice of holy images which are customarily hung upon the walls; from among which all images representing vanity ought to be removed; and if at times certain images that are not sacred are retained, they must not be merely such as would adorn rooms, and let them not be such as would in any way offend devotion or Christian modesty or religious feeling. For we are bound wholly and constantly to adhere unto the examples of our ancestors, who in all their deeds were distinguished by a character of religiousness, and never ought we to degenerate from them, lest we gradually be deprived of the so precious gifts of the Holy Spirit, and appear to be filled with a purely worldly spirit. Indeed it is to be lamented that in these our times it gains strength with impunity, removing everything that is Christian, both from whole societies and families, and also from individual persons, so that we must fear an advance not only unto religious indifference, but even unto the destruction of all religious profession.
+Altar the iliton shall always remain beneath the Gospel Book) and the spoon, if he taketh it unto the sacristy; the chalice thus covered he setteth slightly aside, and having folded the iliton, he layeth upon it the Holy Gospel Book, which shall always remain upon the High Altar.
+Then the Priest readeth the prayer: "We give thanks unto Thee, O Master..." etc., Goar 67, Liturgikon page 341 (43), and then proclaimeth: "For Thou art our sanctification..." etc., Goar 67, Liturgikon 341 (43). Upon the conclusion of this prayer and exclamation, when the Deacon (if there be one; if not, then the Priest himself) proclaimeth: "Let us go forth in peace," Goar page 68, the Priest descendeth before the step, and having bowed profoundly before the Altar, goeth forth through the Royal Doors into the church; and the Deacons approach the Royal Doors and standing here together, slightly distanced from the Royal Doors, after the Deacon's exclamation: "Let us pray to the Lord," Goar page 68, hold the Sluzhebnik for the Priest, who singeth the prayer: "O Lord, Who blessest them that bless Thee..." Goar page 68, Liturgikon page 341 (43). Upon the conclusion of the prayer they enter: the Priest through the Royal Doors, and the Deacons through the deacons' doors unto the Altar; and having recited here the prayer: "The fulfillment of the Law [and the Prophets, Christ our God]..." etc., Goar 68, Liturgikon page 342 (44), all three descend before the step of the altar toward the Royal Doors, and having bowed before the Holy Altar, the Priest standeth in the Royal Doors: he blesseth the people once with the words: "The blessing of the Lord be upon you, always, now and forever, and unto the ages of ages..." etc., Goar page 89, Liturgikon page 342 (44); then the Deacon, facing the people and raising the end of the orarion slightly aloft with his right hand, proclaimeth: "Wisdom!" Liturgikon page 342 (44). At the words: "Glory be to Thee, O Christ our God, our hope, glory be to Thee..." etc., Goar 68, which the Priest proclaimeth, they turn toward the Holy Table, making a profound bow, and turn again toward the people, and the Priest singeth the Dismissal [Otpust], not blessing, but standing with joined hands.
+At a spoken [Read / Low] Divine Liturgy the Priest doth not descend from the Altar, neither here for the dismissal, nor at "The blessing of the Lord," nor for the Small or Great Entrance; but at the Great Entrance at the words: "All you Orthodox Christians..." he turneth with the offered Gifts toward the people, completing a full circle, and likewise for the blessing and for the dismissal of the people.
 
-4. Beside this, the father of the family shall insist that under his leadership all members of the family in the morning and evening, before eating and after eating, shall devoutly recite prayers. *"Make thy home a church,"* saith Saint John Chrysostom, *"for thou hast to give an answer both for the salvation of thy children and of thy servants; and even as an answer will be required of us for you, so an answer will be demanded of each of you for the servant, for the wife, and for the child"* [^175].
+=== LEAF p186 ===
+*(Physical Page 186 / Book Page 182)*
 
-5. Moreover, in all his deeds a Christian father of a family ought unto all his household to show
-
-=== LEAF p157 ===
-*(Physical Page 157 / Book Page 153)*
-
-himself as an example of heavenly life, so that *"for Christ's sake and for the eternal salvation of all his own he may admonish, teach, command, show favor, and exercise discipline; thus shall he fulfill in his own house an ecclesiastical and, as it were, episcopal duty, serving Christ, that he may be with Him forever"* [^176].
-
-6. In addition, that the worship of God in the family may ever more expand, pastors before all are bound to take care that, according unto their power, they shall in the observance of such domestic worship give in all things and constantly an example worthy of imitation unto the people committed unto them; for if the neglect of such matters in the house of a layman awakens astonishment, how much more when this is observed in the house of a priest, according unto the teaching of Saint Gregory the Great: *"The conduct of the prelate ought so much to excel the conduct of the people as the life of the shepherd is wont to be distinguished from the flock... after which thought the people are called a flock"* [^177].
+Then followeth the polychronion [mnoholitstviye] "Unto many years" as on page 343 (45), to be used according to circumstances and discretion; and that at daily Divine Liturgies secretly only and before the Altar, while at the more solemn and extraordinary ones, the Priest proclaimeth the polychronion aloud, facing the people: "Unto our most holy Universal Pontiff..." etc. Many years! The choir repeateth: "Unto our most faithful Emperor..." etc., "Unto the Most Reverend Archbishop and Metropolitan..." etc., "Unto the God-loving Bishop..." etc.
+After that the Priest taketh the arranged vessels, descendeth before the steps of the Altar, reciting the Canticle of St. Simeon: "Now lettest Thou Thy servant depart [in peace]..." Liturgikon page 343 (45); the Deacons, if there be any, or if not, the Priest himself, close the Royal Doors, and having bowed, they depart unto the sacristy. Having arrived thither, the Priest setteth the chalice in its place and divesteth himself of the sacred vestments; in like manner the Deacons and the Priest, having washed their hands, recite the Prayers after Communion devoutly, and lingering for some time in the church, give thanks unto the Lord God for the benefit of the Mystery of the Eucharist, and then departeth unto his home [^160].
 
 ---
 
-# TITULUS V. On the Holy Liturgy
+## 2. Titulus VI: On Churches Dedicated unto the Divine Service
 
-The model of the text, order, and manner of celebrating the Holy Liturgy of our Holy Fathers Basil the Great and John Chrysostom, sung and read, approved by the Provincial Synod of Lviv, held in the year 1891.
+### Preamble and Chapter I: On the Construction of a Church
 
-As the foundation serves the Slavonic text of the Holy Liturgy contained in the *Sluzhebnik* printed in the year 1866 in Lviv, at the Stauropegial Institute. As the foundation of the Latin text see: *Εὐχολόγιον sive Rituale Graecorum etc.*, illustrated by the labor of the Reverend Father Jacques Goar. Second edition in Venice, 1730.
+TITULUS VI.
+On Churches Dedicated unto the Divine Service.
 
-The title is the very same as in the Slavonic text of the year 1866, only it is necessary to add:
+"If heaven and the heaven of heavens suffice not God" [^161], how much less can churches erected by men; yet for the sake of men it pleased God that they should render Him honor in some consecrated place; and that in the Old Testament was the Ark, of which God Himself was the architect, wherein also all the holy things of religion were preserved, and all the people gathered at appointed times for the Divine service. But in later ages it pleased God to dwell with men no longer in tents, but in a temple,
 
-=== LEAF p158 ===
-*(Physical Page 158 / Book Page 154)*
+=== LEAF p187 ===
+*(Physical Page 187 / Book Page 183)*
 
-"Of the Holy Eastern Catholic Church..." And thus the full title shall be the following: *"Liturgikon, that is to say Sluzhebnik, containing according to the order of the Holy Catholic Eastern Church the Liturgies of our Holy Fathers John Chrysostom, Basil the Great, and Gregory the Dialogist, Pope of Rome, with all the orders for Sunday, daily, and common of the Saints."* Further, on the following page instead of: *"With the blessing, etc."*, there shall stand: *"By command of the Provincial Synod of Lviv of the year 1891, held, and with the blessing of:*
-*His Excellency the Most Reverend Sylvester Sembratovych, by the Grace of God, etc., likewise;*
-*Of the God-loving Bishops: Julian Pelesz, Bishop, etc., and*
-*Julian Kuylovsky, Bishop, etc."*
-On the third page: *The Table of Contents, etc., remains the same.*
+which by divine promptings was prepared by David, and finally constructed most magnificently by Solomon; and after its destruction a second was dedicated by Zerubbabel, which, although less magnificent than the first, yet on account of the presence of the Messiah was to become far more illustrious than that one according to the prophecy of Haggai [^162]. But when that one, for the sins of the Jews, was turned unto ashes, new temples were raised everywhere throughout the earth by the new worshippers of God—Christians—in which, from the rising of the sun even unto its going down, a pure offering is offered unto God [^163]; which, although often small, are yet far more magnificent than the first and second Jewish temple, and more awe-inspiring than the place where the wayfaring Patriarch Jacob, standing, beheld in vision heaven opened and a ladder whose ends touched heaven and earth, and the Angels of God ascending upon it, and the Lord Himself established upon its summit [^164]. For our temples derive their sanctity principally from the presence of the Incarnate God, Who abideth unceasingly within their tabernacles [kovchehs], ennobled not only by the visitation of Angels, but of the very King of Angels, Whom they, in His descending and ascending unto us, in the Sacrifice and Mystery of the Most Holy Eucharist, themselves accompany inseparably and with reverence. If this be so, then our churches, as abodes of the Living God and havens of the Angels, ought to be so built and adorned as befitteth so great a Guest: that is, to be erected with all possible magnificence, adorned with external and internal furnishings, provided with sacred vessels and implements, and secured with sufficient revenues for the maintenance thereof.
 
-### The Order of the Divine Liturgy. — The Proskomide for the Liturgies
+CHAPTER I.
+On the Construction of a Church.
 
-*Note: The priest wishing to accomplish the Divine Mystagogy ought above all to have a good testimony of his own conscience, and to be reconciled with God by confession of sins and with all by love; likewise he ought according to his strength to have a heart clean from evil thoughts; and specifically he ought to abstain from midnight even unto the time of the sacred celebration entirely from all food and drink, under mortal sin.*
+1. Before all things We gladly express Our joy unto our whole people and clergy, that in these recent times, albeit distressing, they have built as many churches
 
-*Beside this, it is fitting beforehand to prepare for the Holy Liturgy by the reading of the prescribed prayers, and to be vested in priestly garments according unto the statutes of the canons of the Church. The time of the sacred celebration having arrived, the priest enters into the church, and having joined himself with the deacon (if there be one), and standing before the Royal Doors together with the deacon, makes three deep bows, and that in this manner:*
+=== LEAF p188 ===
+*(Physical Page 188 / Book Page 184)*
 
-*Having joined the first three fingers of his right hand, he makes upon himself the sign of the holy cross, touching lightly the forehead, the breast, the right and the left shoulder; and turning toward the altar, he bows, reaching with the fingers of the right hand even unto the ground, and begins the customary prayers:*
+as possible, new, more spacious, and more durable than the old, with the financial assistance of our most pious Emperor Franz Joseph I, whom may God preserve prosperously for the good of His Church unto many years.
+Having regard unto the actual construction of our churches in particular, they shall, with respect unto the four cardinal directions, be so oriented as the Typikon of our Rite presupposeth and as is requisite for the performance of the rites: namely, so that the people standing and praying in the church of God shall have their faces turned toward the east; that the main doors of the church be turned toward the west, the right side of the church toward the south, and the left toward the north. The reason for this layout is that the people, and with them the priest praying in the church, may be turned toward the east, namely toward Christ Himself, Who in the Holy Scriptures is called the Orient [Dayspring] and Light, because having come into this world, He hath by the light of His truth dispersed the darkness of the night of this age; as also that we, turned toward the east, may recall that we, having been cast out of the earthly paradise planted in the east, ought again to sigh after it. For that we should so act is taught, among others, by St. John of Damascus [^165]: "Since therefore God is spiritual Light, and Christ is the Sun of Righteousness and is called the Orient in Holy Scripture, therefore that direction from which the sun shineth forth ought to be consecrated unto Him for worship." Again: "That we, with longing for the ancient paradise, may worship God with our eyes turned toward it." And St. Basil the Great in the Book on the Holy Spirit, Chapter 27, saith: "For this reason we all look toward the east when we pray, yet not many of us know that in doing this we seek our ancient fatherland, that is, paradise, which God planted in Eden toward the east." Likewise: "When the Lord hung upon the Cross, He was turned with His face toward the west, and for that reason we also so worship that we may look upon Him with our eyes." And again: "When the Lord ascended into heaven, He ascended toward the east, and so shall He come as they beheld Him ascending into heaven... therefore, since we await His coming, we worship toward the east. This is an Apostolic tradition not explicitly recorded in the Holy Scriptures."
 
-The deacon (if there be one) saith:  
-Bless, Master.
+=== LEAF p189 ===
+*(Physical Page 189 / Book Page 185)*
 
-=== LEAF p159 ===
-*(Physical Page 159 / Book Page 155)*
+2. In the construction of a church, moreover, it is necessary to preserve the style and arrangement of parts corresponding unto our Rite, namely: that the church shall be tripartite, comprising the sanctuary [sviatylyshche], separated from the rest of the church by the wall of the Iconostasis, and the nave [khram sam] itself, separated from the narthex [prytvor].
+3. As regards the sacristies [diakonikon / vestry], it is better that there be two: one on the right and the other on the left side of the sanctuary, and in that on the left or northern side the table of oblation [prothesis / zhertovnyk] shall be located; yet this sacristy as well as the prothesis must be adjoining the walls of the sanctuary and not of the nave, so that the entrance of the priest prescribed at Vespers and the Liturgy may take place through the northern door from the sanctuary. Unto the building of the church belong also the belfries [dzvonytsi], which likewise shall be built decently, so that by their unsightly appearance they may not clash with the magnificence of the temple.
 
-And the priest [saith]:  
-Blessed is our God always, now and forever, and unto the ages of ages.  
-The deacon: Amen.  
-Then they say: Glory be to Thee, our God, glory be to Thee.  
-O Heavenly King, the Comforter, the Spirit of Truth, who art everywhere and fillest all things, Treasury of blessings and Giver of life: come and abide in us, and cleanse us from every stain, and save our souls, O Good One.  
-Holy God, Holy Mighty, Holy Immortal, have mercy on us (3 times).  
-Glory be to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages.  
-The deacon (if there be one): Amen.  
-All-Holy Trinity, have mercy on us. Lord, cleanse our sins. Master, pardon our transgressions. Holy One, visit and heal our infirmities, for Thy name's sake.  
-Lord, have mercy (3 times).  
-Glory be to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages.  
-The deacon (if there be one): Amen. And: Our Father, who art in the heavens! Hallowed be Thy name; Thy kingdom come; Thy will be done on earth as it is in heaven. Give us this day our daily bread; and forgive us our debts, as we forgive our debtors; and lead us not into temptation, but deliver us from the evil one.  
-The priest: For Thine is the kingdom and the power and the glory, of the Father, and of the Son, and of the Holy Spirit, now and forever, and unto the ages of ages.  
-The deacon: Amen.  
-Troparia: Have mercy on us, O Lord, have mercy on us; for, laying aside all defense, we sinners offer this prayer unto Thee as Master: have mercy on us. Glory: O Lord, have mercy on us; for in Thee have we put our trust. Be not exceedingly angry with us, neither remember our transgressions; but look upon us even now as Thou art compassionate, and deliver us from our enemies. For Thou art our God, and we are Thy people; we are all the work of Thy hands, and we call upon Thy name. Both now: Open unto us the door of tender mercy, O blessed Theotokos, that hoping in thee we may not perish
+---
 
-=== LEAF p160 ===
-*(Physical Page 160 / Book Page 156)*
+### Chapter II: On the Interior Adornment of the Church
 
-but that through thee we may be delivered from adversities; for thou art the salvation of the Christian race.
+CHAPTER II.
+On the Interior Adornment of the Church.
 
-*After this the priest with the deacon (if there be one), having turned slightly with face and body toward the right side unto the Icon of the Savior, and signing themselves with the sign of the holy cross with the right hand, as was said above, make a moderate bow, reaching with the hand unto the knees, and saying:*
+In the sanctuary, and that in its very center, there shall stand before all things the Holy Table [Altar], so constructed that one can walk around it conveniently; and upon the center of the Altar shall be placed the Tabernacle [Kovcheh], most decently adorned and always maintained with great care and cleanliness both within and without for the reservation of the Most Holy Mysteries. The Tabernacle shall also be lined within with some metal plate. Between 6 larger candlesticks, arranged on both sides of the Tabernacle, there shall rise the Cross, and that with the figure of the Crucified; lower down, four smaller candlesticks, two on each side; in the center of the Altar before the Tabernacle is laid the book of the Holy Gospel, handsomely and beautifully bound, representing Christ the Lord; behind the Altar against the wall there shall be an elevated High Throne, higher up, for the priest to sit during the Epistle and readings. In the nave itself, especially before the icons of the Savior and of the Most Holy Theotokos, let there stand two larger candlesticks placed at such a distance from the Iconostasis that every danger of fire may be guarded against.
 
-"Unto Thy most pure Image, etc." Slavonic Lit. page 299 (1) and Latin text Goar page 70.
+=== LEAF p190 ===
+*(Physical Page 190 / Book Page 186)*
 
-*Likewise, having turned toward the left side unto the Icon of the Theotokos, signing themselves with the holy cross, they make a moderate bow, saying:*
+Before the Most Holy Mysteries, whether within or outside the Iconostasis, let there hang a burning lamp, either perpetually, or at least during the time of sacred functions. Moreover, from the ceiling of the nave itself there shall hang a chandelier [polyeleos / mnohosvichnyk]; upon the floor in the midst of the nave there shall stand the Tetrapod, upon which the holy icons shall lie for the veneration of the people entering the church, namely on the right the icon of the Cross, and on the left the icon of the Patron Saint or Feast of the church, and that with a standing Cross between four or at least two candlesticks. On both sides of the nave along the walls, near the Iconostasis, there shall be stalls with individual compartments or small Krylosy (choir-stalls / klirosy) for the cantors. In larger churches there shall also be an Ambo [Pulpit] for sermons, and that, if it can conveniently be placed, on the left side, that is, toward the icon of the Most Pure Virgin Mary. Finally, care must be taken that confessionals be provided with grates. In some part closer unto the iconostasis, there shall also be seats or pews for the collators or patrons of the church, and after them also for other distinguished persons. The pious custom is commended, adopted in notable churches, of keeping in the narthex or inner church vestibule a vessel of holy water, with which the faithful, upon entering the church, sign themselves [^166].
 
-"A fountain of tender mercy being, etc.": both texts as above [^178].
+---
 
-On pages 299 and 300 (1 and 2) of the Slavonic text it shall be thus:
+### Chapter III: On Sacred Vessels and Church Implements
 
-*Turning unto the Holy Table and having bowed his head slightly, the priest saith this prayer:*
+CHAPTER III.
+On Sacred Vessels and Church Implements.
 
-"O Lord, send down [Thy hand], etc."
+Before all things this Synod admonisheth pastors that they endeavor to furnish their church with all sacred vessels, and above all, at least with two chalices; and if one of them should already be so worn that in the interior of the cup the gilding is rubbed off, let them immediately endeavor to have it newly gilded and blessed. In general
 
-*All these prayers he saith with joined hands (finger unto finger).*
+=== LEAF p191 ===
+*(Physical Page 191 / Book Page 187)*
 
-The corresponding illustration of the joining of the hands shall be placed in the margin.
+all those holy vessels which immediately touch the Most Pure Body and Blood of the Lord must be handed over for consecration unto the Ordinary, or unto one furnished by him with special faculty; wherefore, besides the chalice, the diskos or paten, and the pyx [ciborium / pushka], there shall be surrendered for consecration the sacred spoons, the pyx [daronosytsia] for carrying the Most Holy Mysteries, and the monstrance-receptacle for inserting the Lamb, the so-called Melchizedek, serving for the placement of the Most Holy Body in the monstrance; whereas other vessels may be blessed by an ordinary priest. Let them endeavor that sacred vessels be not purchased or repaired among Jews, which is to be understood also concerning all sacred implements. As to sacred vestments and cloths [snariady], let them also endeavor not only that they be in sufficient abundance, but also that they be decent and clean, and let them strictly observe concerning them everything that was already prescribed by the Synod of Zamość [^167].
 
-*After this they enter into the sanctuary, saying within themselves:*
+---
 
-"O God, be merciful unto me a sinner," and instead of: "O God, cleanse me, etc." as is in the Lviv Liturgikon.
+### Chapter IV: On the Colors of Church Vestments
 
-Further, before the words: *"Then the deacon takes a blessing, etc."*: page 300 (2) of the Slavonic Liturgikon there shall be placed:
+CHAPTER IV.
+On the Colors of Church Vestments.
 
-*"Having completed the prayers said before the Royal Doors, and having entered into the sanctuary through the deacon's doors, and standing before the steps of the Holy Table, they make three deep bows, ascend the steps, and standing beside the Holy Table, the priest kisses the Holy Gospel lying upon the Table, and the deacons (if there be such) the Holy Table."*
+1. Although in the church Typikons mention is made of only two colors, yet nowadays vestments of any color whatsoever are frequently used, as well as of mixed color; nevertheless this present Synod, desiring also on this point to introduce uniformity, deemeth it expedient to set forth for Priests the following rule:
+2. a) That the bright color, that is, white, and those closest unto it, such as gold, silver, or variegated white (provided however that white predominate), shall be used on Sundays, on Feasts of the Lord, of the Most Blessed Virgin, and of Polyeleos Saints who are not martyrs; excepting however the Feast of the Compassion [Dolors / Sostradaniye] of the Most Pure Virgin Mary, of the Precious Cross, and of the Beheading of St. John the Baptist, on which it is proper to use violet (purple) color.
 
-Note: As to the Psalm: "I will enter," although in certain Sluzhebniks it is found, nevertheless, since in our Sluzhebniks...
+=== LEAF p192 ===
+*(Physical Page 192 / Book Page 188)*
+
+3. b) Vestments of red color shall be used on the feasts of Holy Martyrs, unless they fall on a Sunday, for then on account of the predominant Sunday service, bright vestments shall be used.
+4. c) Vestments of violet color on the Eves of the Nativity and Theophany of the Lord if they fall on fasting days; on the days of the Great Fast (Lent), as also of Holy Week, until the reading of the Gospel at the Liturgy of Holy Saturday, before which the violet vestments shall be laid aside and bright ones assumed, understood except on Sundays (except the 3rd Sunday of the Veneration of the Cross) and Saturdays, on which the bright color shall be used, unless there should occur the daily office for the departed as on the 2nd, 3rd, and 4th Saturdays of the Great Fast.
+5. d) Vestments of black color shall be used at Offices and Liturgies for the departed, by reason of the prevailing contemporary custom both of the Greeks and of all adherents of this Rite, excepting the days of the whole Bright Week, for then the white color shall be used.
+6. e) During daily or ferial services vestments of mixed color shall be used, on account of the combined service of the Octoechos and Menaion, excepting Wednesdays and Fridays, on which on account of the service of the Cross and the fast, violet shall be used.
+As to the days of the other fasts besides the Great Fast (Lent), a celebration of a strictly penitential character is no longer in use; therefore those days, as to the use of vestments, are to be regarded as non-fasting.
+Such an assignment of colors, although red was formerly proper unto penitential days and for the departed, yet by reason of the prevailing contemporary custom both of the Greeks and of all Catholic Churches of every Rite, the Synod hath judged it expedient to enact for future practice. Since however as regards distinguishing red from violet, vestments of this latter color are nowadays very rarely used, therefore, wherever such are lacking, red may temporarily be used.
+7. At the burials of children who before the use of reason have passed from this life unto the Lord, it is
+
+=== LEAF p193 ===
+*(Physical Page 193 / Book Page 189)*
+
+proper to adopt that reasonable custom of certain localities, that during these ceremonies bright vestments should be used, to signify the innocence and the joy of heavenly glory whereof they have become partakers.
+
+---
+
+## 3. Titulus VII: On the Ecclesiastical Hierarchy
+
+### Preamble and Chapter I: On the Roman Pontiff
+
+TITULUS VII.
+On the Ecclesiastical Hierarchy.
+
+The Church of Christ militant journeyeth through the wilderness of this age unto eternal felicity—unto the Promised Land—not in disarray and blindly, but in order and with majesty, terrible unto her enemies: "terrible as an army set in array" [^168]. This very march of the people of God unto eternal rest and heavenly sabbath observance [^169], the Only-begotten Son of God, having become man, prefigured in Himself and inaugurated from Himself.
+And having Himself to depart through the veil of His flesh [^170] into the holy of holies not made with hands, a High Priest forever [^171] to make intercession for us before the Heavenly Father, and the Forerunner of our entrance into heaven, He left in His stead here on earth a teaching society, and that so firmly bound and ordered that it should consist both of a visible head and of other visible members after the likeness of the human body. He left, namely: the Supreme Head of the Church, the Roman Pontiff the Pope, and Bishops, and then Presbyters and Deacons, so that each lower grade should be subject unto the higher.
+Yet, since with the course of time the congregation of the faithful spread throughout the whole universe, the Church of Christ, guided by His Spirit, for the better administration of the sacred office, besides those grades which the Lord Himself appointed, instituted also other grades, both higher and lower: and the higher in such wise that among Bishops certain ones in the provinces should take precedence over others both in honor and in jurisdiction, which are, first: Patriarchs, then Metropolitans, and finally Archbishops. Because, as saith
+
+=== LEAF p194 ===
+*(Physical Page 194 / Book Page 190)*
+
+St. Leo the Great, even among the most blessed Apostles, alongside similarity of honor, there was a certain distinction in power; and though the election of all was equal, yet unto one was it given to preside over the rest. From that pattern arose also the distinction among Bishops, and by a sublime ordinance it was established that not all should claim all things for themselves, but that in individual provinces there should be individuals who should have the first voice among the brethren [^172]. As lower grades there are also appointed Subdeacons, Cantors, and Readers in our Church.
+
+CHAPTER I.
+On the Roman Pontiff.
+
+Although the Lord conferred upon all the Apostles authority to govern the visible Kingdom of God, yet for the preservation of unity He bestowed immediate, ordinary, supreme power upon Peter alone. For when the Savior, sending the Apostles into the whole world, furnished them with that same power which He Himself had received from His Father: "All power is given unto Me in heaven and in earth" [^173]... and promised them that He would be with them even unto the end of the ages [^174]: "Lo, I am with you always, even unto the end of the world"; yet, since on account of death it was not permitted unto the Apostles to abide even unto the consummation of the age, it followeth that Christ even unto the end of the ages remaineth equally with their successors, whom also He bound all the faithful to obey: "He that heareth you heareth Me" [^175].
+In the place therefore of Peter, the Prince of the Apostles, his lawful successors hold the supreme power of ecclesiastical governance according to divine law. But since Peter, by reason of holding the Episcopate in Rome, died there, and after him the Roman Pontiffs the Popes succeeded there: therefore by that very fact, none other than they are accounted the successors of Peter in the Church of God. It is necessary therefore that every soul belonging unto the flock of the Lord should be subject unto that supreme authority, and that as well in what pertaineth unto faith
+
+=== LEAF p195 ===
+*(Physical Page 195 / Book Page 191)*
+
+and morals, as in everything else that pertaineth unto the external governance of the Church; and although in the Catholic Church there flourisheth a diversity as well of rites as of discipline, yet this occurreth not otherwise than under that supreme governor. Complete autonomy therefore of Churches that differ whether in rite, or language, or nationality, must be utterly excluded from this form of ecclesiastical governance. Wherefore this Synod deemeth it its duty to insist that that which it hath set forth in Titulus I concerning the supreme authority and rights of the Roman Pontiff, all should have before their eyes and diligently observe, even as concerning the very same both ecclesiastical testimonies, especially from our liturgical books relating unto this matter, and collected by the late His Eminence Cardinal Mykhailo Levytsky, Metropolitan of Halych, in his Pastoral Letter of March 10, 1841, clearly instruct us [^176].
+
+---
+
+### Chapter II: On the Metropolitan
+
+CHAPTER II.
+On the Metropolitan.
+
+1. According to the ancient custom of the Church, sacred Prelates more distinguished among others had their seats in the more distinguished cities, so that already in Apostolic times in the center of the universal empire Peter himself and his successors established their see; after him in Alexandria, the second city after Rome, the Patriarch of Alexandria; in Antioch, the third city—the Patriarch of Antioch; in Jerusalem, the fourth city after Rome—the Patriarch of Jerusalem. When however Constantine the Great transferred the seat of his political rule from the city of Rome unto Constantinople, there began by reason of the preeminence of the political center to grow also the Church of Constantinople, and thence the Bishop of Constantinople strove to arrogate unto himself the title of Patriarch. But although at first on account of the authority of the Prelate of Old Rome that title was not generally recognized, yet in the course of time, and especially
+
+=== LEAF p196 ===
+*(Physical Page 196 / Book Page 192)*
+
+with the consent of the Roman Pontiff, the patriarchal dignity and title of Patriarch was recognized for the Bishops of Constantinople, yet under this condition, that they should preserve communion with the See of Peter, and recognize the primacy of the Roman Pontiffs.
+Nor was this patriarchate alone, but the other three above-mentioned were established not otherwise than by the authority of the Supreme Pontiff, that is, with his consent and approval, according to the testimony of Benedict XI, who thus teacheth concerning this: "The Holy Roman Church, which according to the ordinance of the Lord holdeth over all others the primacy of ordinary power from God, as the mother and teacher of all Christ's faithful, instituted four patriarchal sees, among which she willed that after the Roman Church herself, Constantinople should hold the first, Alexandria the second, Antioch the third, and Jerusalem the fourth place, and adorned them with many prerogatives, honors, and privileges" [^177].
+2. That rule, of establishing the more distinguished sacred Prelates in cities more notable from a political point of view, was observed also in our Ruthenian lands; so that in the chief city of all Rus', immediately from the conversion of the Ruthenians unto the Christian faith in the 10th century and afterwards, while communion with the Holy Apostolic Roman See still continued, the chief Bishop of all Rus' was established in Kyiv, under the title of Metropolitan of All Rus'. Although, on account of political changes and the machinations of the Patriarchs of Constantinople, that see lost its original title and its rights, yet the Ruthenian Church, united with the center of ecclesiastical unity, the Roman Pope, recovered again the Metropolitan dignity by the providence of God and the gracious favor of the Roman Pontiffs themselves, with an altered place of residence and thereby also with the title of Kyiv changed unto Halych. For when the realms of the Ruthenian rulers were divided through the invasions of the Tatars and the separation of Kyiv from the Principality of Halych was consummated, by reason of the Halychian
+
+=== LEAF p197 ===
+*(Physical Page 197 / Book Page 193)*
+
+princes their chief city of political rule—Halych—was elevated unto the dignity of a Metropolis, and this the Apostolic See confirmed again together with the Holy Union, and restored unto it all former rights which the Metropolitan of Kyiv possessed. For in the Bull of Pope Pius VII, *In universalis [Ecclesiae regimine]*, of February 22 [^178], 1807, we read thus: "We grant unto the same Francis, Emperor and King, and unto His successors in the Kingdom of Galicia, by special favor of grace, the power, in every case of vacancy, to nominate unto the above-mentioned jointly united Archiepiscopal Churches of Lviv and Halych, and unto the Episcopal Churches of Kholm and Peremyshl within the time defined by law, ecclesiastical persons, capable, and furnished with such qualities as are required according to the prescriptions of the sacred Canons and according to the decrees... of the Synod of Zamość; with this disposition, however, that every one nominated for the Metropolitan Church shall be bound to request and obtain from Us and from the Roman Pontiff for the time being the confirmation of his nomination, installation, and possession of the same Church, as also permission for the rite of consecration, and to procure the Apostolic letters in the customary form through the secret channel indicated by the Curia... Unto the same... Metropolitan, having regard unto special circumstances and out of special favor, We concede the faculty to confirm and institute, and unto the same to confer consecration, by the authority and in the name of the Apostolic See, those nominated unto his suffragan Episcopal Churches of Kholm and Peremyshl, provided only they be furnished with those qualities which, as aforesaid, are required, in the manner and form in which that power was granted unto the Metropolitan of Kyiv by the above-named Pope Clement VIII, by the same's Apostolic Brief: *Decet Romanum Pontificem*" [^179].
+3. Furthermore, although the ancient metropolitan rights, cited above, granted by Pope Clement VIII and confirmed by Pius VII, yet nevertheless, because the contemporary governance of Churches, including our own, hath been almost accommodated unto the prescription
+
+=== LEAF p198 ===
+*(Physical Page 198 / Book Page 194)*
+
+of the Council of Trent, therefore also the rights of the Metropolitan of Halych are more or less the very same which according to common law belong unto all Metropolitans, excepting this one thing: that unto this day the Metropolitan of Halych hath the power, in the name of the Apostolic See, to confirm, institute, and confer the rite of consecration upon the Bishop of Peremyshl [^180], and according to the most recent concession of the Holy Apostolic See, also as regards the Bishop of Stanyslaviv.
+4. Of honorary privileges, moreover, besides those which according to common law belong unto Metropolitans, the Metropolitan of Halych retaineth specifically this: that before him is borne a cross with two transverse bars; further he hath the use of the Pallium and Sakkos, and the right of commemoration of his name during divine services in all the churches of the province, as also to wear a double-barred cross upon the top of the mitre, pastoral staff, and dikirion.
+5. For the rest, leaving in inviolability the decrees of the Synod of Zamość concerning the duties of Metropolitans, a change must here be made regarding the administration of Dioceses when the see becometh vacant in those Chapters which have obtained their confirmation and approval of their statutes from the Holy See, regarding two Vicars whom for this purpose the Chapters immediately upon the death of a Bishop are bound to elect: one for the spiritual governance of the Eparchy, and the other for the administration of temporals, that is, the episcopal mensa estates. Confirmation of those Vicars, however, must be requested of the Metropolitan.
+
+---
+
+### Chapter III: On Bishops
+
+CHAPTER III.
+On Bishops.
+
+1. As the Roman Pontiff is set upon the highest watchtower, whence he may watch over the vineyard of the Lord of hosts spread throughout the whole universe, so the Bishop is set by the Holy Spirit as overseer of his particular vineyard, which, by command of the Lord, hath been committed unto
+
+=== LEAF p199 ===
+*(Physical Page 199 / Book Page 195)*
+
+his watch. As an overseer therefore he ought day and night to keep watch, lest any stranger should damage the vineyard; nay more, he ought to restrain every enemy of the vineyard from afar by his vigilance, so that in due season he may yield the fruits of the vineyard unto the Lord of the vineyard. Moreover the Bishop is pastor of that portion of the Lord's flock which hath been committed unto his special care by the Lord. As such therefore let him, after the example of Christ the Lord Himself, not refuse even to lay down his life for his sheep, if need should be; watching day and night, as was already said above, let him protect them from wolves, let him lead them unto the most wholesome pasture, and turn them away from what is harmful. He himself is bound "to take up the weak, to heal the sick, to bind up the broken, to bring back the strayed, to seek the lost, and with authority to correct them without harshness" [^181]. The Bishop is furthermore the Angel of his Church, as he is called in the Book of Revelation. As such he ought therefore to keep most diligent watch in the name of God over his Church, and from the wiles of Satan and his angels protect her with the most vigilant circumspection, and that not carelessly or languidly, lest he should perchance fall under those very threats which the Lord announced unto such angels through His servant, the prophet of the New Testament, St. John the Evangelist [^182].
+2. As to the rights and duties of Bishops, those rights the Synod of Zamość enumerated quite extensively in Titulus VI, *On Bishops*, which therefore ought to be preserved, except for those changes which, in view of the circumstances of the times, this present Synod deemeth expedient to make therein; namely: 1) as to the qualities of those who are to bear the episcopal burden.
+Although according to the law of the Greeks this right belongeth only unto persons chosen from among the monastics, yet on account of the changed circumstances of both the monastic and secular clergy, the Synod declareth, on the basis of the dispensation—at least tacit—from that law granted as well unto Metropolitan Spyrydon Lytvynovych as unto his successors by the late Pius
+
+=== LEAF p200 ===
+*(Physical Page 200 / Book Page 196)*
+
+Pope Pius IX even unto this present day, that from now on there may be elevated unto the Episcopate also candidates chosen from among the secular clergy, being in the celibate state, without requesting any further dispensation. 2) As to the canonical visitation of the diocese: That which the Synod of Zamość commandeth, that it should take place every year, or on account of the extent of the diocese at least every two years, either by the Bishop himself or by visitors to be specially designated by him, this Synod deemeth proper to modify in such wise that, on account of the excessively great extent of our dioceses, the canonical visitation shall take place every five years, either through the Bishop or through others. This the Synod permitteth all the more, since it is considered that Bishops already through the deans [proto-presbyters], as it were through their deputies, visit the entire diocese, namely through decanal visitations which take place at least once a year in every parish. The reports moreover of such decanal visitations through the deans let them order to be sent unto themselves immediately, and let them endeavor without delay to prevent any abuses, if any should have occurred.
+3. As to the estate of a deceased Bishop, instead of that disposition which the Synod of Zamość prescribeth, the prescription of modern law ought to be adopted, as was set forth in the preceding chapter on the Metropolitan, and the same is expressly defined in the statutes of the Chapters [^183].
+Finally, the Synod deemeth it well to charge the Bishops that, since the present age hath produced a worse generation and corruption of morals and subversive principles are creeping in, they endeavor to train the younger clergy already from their youth in piety and the study of the arts, so that the education of seminarians devoting themselves already unto theological studies may not become too difficult, and that for this purpose, with the greatest possible effort, they establish so-called minor seminaries for boys, and furnish those already established with good governance.
+
+---
+
+## Footnotes
+[^160]: Synodical liturgical appendix reference: *On the Liturgy of the Presanctified Gifts, see Appendix 33; likewise the Slavonic text of the Liturgy of St. John Chrysostom and St. Basil the Great among the Ruthenian appendices 33a and 33b* (*О Литургіи Преждеосвященыхъ зри въ додатку 33, такожь текстъ славяньскій Литургіи св. Іоанна Златоуст. и св. Василія Вел. мѣжь додатками рускими 33, а. и 33, б.*). This directly corresponds to printed footnote `1)` at the bottom of Book p. 182 (Leaf p186), concluding Titulus V (*On the Holy Liturgy*).
+
+[^161]: II Paralipomenon (II Chronicles) 6:18 (Septuagint versification: *ІІ. Параліп. VI. 18*): "If heaven and the heaven of heavens suffice not God, how much less this house which I have built!" Cited at the opening of Titulus VI, *On Churches Dedicated unto the Divine Service* (*О храмахъ посвященыхъ Службѣ Божôй*), Book p. 182 (Leaf p186).
+
+[^162]: Prophecy of Haggai (Aggeus) 2:9–10 (LXX: Haggai 2:10; printed as *Гл. II., 10*): "Great shall be the glory of this last house more than of the first, saith the Lord of hosts: and in this place will I give peace..." Book p. 183 (Leaf p187).
+
+[^163]: Malachi 1:11 (*Малах. I., 11*): "For from the rising of the sun even unto the going down, My name hath been glorified among the Gentiles; and in every place incense is offered unto My name, and a pure offering." Book p. 183 (Leaf p187).
+
+[^164]: Genesis 28:12–13 (*Быт. 28. 12. 13*): Jacob's vision of the heavenly ladder and the Lord standing above it at Bethel: "How dreadful is this place! this is none other but the house of God, and this is the gate of heaven." Book p. 183 (Leaf p187).
+
+[^165]: St. John of Damascus, *De Fide Orthodoxa* (*An Exact Exposition of the Orthodox Faith*), Book IV, Chapter 12 (*Concerning Worship toward the East* / *О вѣрѣ правосл. книг. 4. гл. 12* / PG 94, 1157–1162): demonstrating the Apostolic antiquity and theological symbolism of praying toward the east, facing Christ the spiritual Sun of Righteousness and the ancient Paradise planted in the east. Book p. 184 (Leaf p188).
+
+[^166]: Synod of Zamość (1720), Titulus *On Churches* (*De ecclesiis*), and in the Inquiries for Canonical Visitations; likewise the decrees and canons of the Greek-Melkite (Maronite) Synod of Mount Lebanon (1736), Part IV, Chapter I, in *Collectio Lacensis* (*Acta et Decreta Sacrorum Conciliorum Recentiorum*, Friburgi Brisgoviae, Tom. II): prescribing the retention of the holy water vessel at church entrances for the faithful to sign themselves upon entry. Book p. 186 (Leaf p190).
+
+[^167]: Synod of Zamość (1720), Titulus III, *On the Sacraments and Their Administration*, § 4, *On the Celebration of the Liturgy and Inquiries concerning the Most Holy Eucharist* (*Тит: III. О Тайнахъ и ихъ строеню § 4. О служеню Литургіи и вопр. о Найсвятѣйшой Євхаристіи*): regulating the consecration, gilding, maintenance, and reverence due unto sacred vessels and liturgical linen. Book p. 187 (Leaf p191).
+
+[^168]: Song of Songs (Canticle of Canticles) 6:4, 10 (LXX: Canticle 6:3, 9; printed as *Пѣснь пѣсней 6. 3. 9.*): "Who is she that cometh forth as the morning rising, fair as the moon, clear as the sun, terrible as an army set in array?" (*ужасъ яко вчиненны* / *terribilis ut castrorum acies ordinata*). Opening of Titulus VII, *On the Ecclesiastical Hierarchy* (*О Іерархіи церковнôй*), Book p. 189 (Leaf p193).
+
+[^169]: Hebrews 4:9 (*Євр. 4. 9.*): "There remaineth therefore a sabbath rest for the people of God." Book p. 189 (Leaf p193).
+
+[^170]: Hebrews 10:20 (*Євр. 10. 20.*): "By a new and living way, which He hath consecrated for us, through the veil, that is to say, His flesh." Book p. 189 (Leaf p193).
+
+[^171]: Hebrews 7:25 (and Hebrews 6:20 / 7:24; printed as *Євр. 7. 25.*): Christ the High Priest forever according to the order of Melchizedek, ever living to make intercession for us before the Father. Book p. 189 (Leaf p193).
+
+[^172]: St. Leo the Great (Pope Leo I), *Epistola 84* (to Anastasius, Bishop of Thessalonica), Chapter 11 (PL 54, 920): *"De qua forma episcoporum quoque est orta distinctio, et magna ordinatione provisum est, ne omnes sibi omnia vindicarent, sed essent in singulis provinciis singuli, quorum inter fratres haberetur prima sententia..."* Book p. 190 (Leaf p194).
+
+[^173]: Matthew 28:18 (*Мат. 28. 18.*): "All power is given unto Me in heaven and in earth." Book p. 190 (Leaf p194).
+
+[^174]: Matthew 28:20 (*Мат. 28, 20.*): "Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you always, even unto the end of the world. Amen." Book p. 190 (Leaf p194).
+
+[^175]: Luke 10:16 (*Лук. 10. 16.*): "He that heareth you heareth Me; and he that despiseth you despiseth Me; and he that despiseth Me despiseth Him that sent Me." Book p. 190 (Leaf p194).
+
+[^176]: Appendix III, 1. b: The historic Pastoral Letter of Cardinal Mykhailo Levytsky, Metropolitan of Halych, Archbishop of Lviv, dated March 10, 1841 (*Пастырское посланіє бл. п. Его Еминенціи кардинала Михаила Левицкого, Митрополита Галицкого, зъ дня 10. марта 1841*), compiling patristic and liturgical testimonies from the Ruthenian Sluzhebniks and Trebniks regarding the universal primacy of the Roman See. Book p. 191 (Leaf p195).
+
+[^177]: Fourth Lateran Council (1215) under Pope Innocent III, Constitution V (*De dignitate patriarcharum* / *Antiqua concilia* / *Antiqua patriarchalium sedium privilegia renovantes*), incorporated into the *Decretals of Gregory IX* (Corpus Juris Canonici, Lib. I, tit. 33, cap. 23) and cited by Pope Benedict XI: affirming the traditional order of the four patriarchal sees after Rome (Constantinople, Alexandria, Antioch, and Jerusalem) derived from and dependent upon the Roman primacy. Book p. 192 (Leaf p196).
+
+[^178]: Anthony Petrushevych (*Антоній Петрушевичъ*), Galician-Ruthenian historian and canon: his critical historical monograph (*Историческое изслѣдованіе*) dates the signing or promulgation of Pope Pius VII's Bull *In universalis Ecclesiae regimine* as April 15, 1807, rather than February 22. Book p. 193 (Leaf p197).
+
+[^179]: Papal Apostolic Brief / Constitution of Pope Clement VIII, *Decet Romanum Pontificem*, dated 7 Kalends of March 1595/1596 (February 23, 1596, more romano 1595): ratifying the Union of Brest and confirming unto the Ruthenian Metropolitan of Kyiv the traditional patriarchal right to confirm, institute, and consecrate the suffragan bishops of his province. Book p. 193 (Leaf p197).
+
+[^180]: Papal Bull of Pope Pius VII, *In universalis Ecclesiae regimine*, dated February 22, 1807: canonically restoring the ancient Ruthenian Metropolitan See of Halych and uniting it in perpetuity with the Archeparchy of Lviv, confirming the Metropolitan's jurisdiction over the Eparchies of Peremyshl and Kholm. Book p. 194 (Leaf p198).
+
+[^181]: Ezekiel 34:4 (*Іезек. 34. 4.*): The pastoral mandate and divine judgment against neglectful shepherds: "The weak have ye not strengthened, neither have ye healed that which was sick, neither have ye bound up that which was broken, neither have ye brought again that which was driven away, neither have ye sought that which was lost; but with force and with cruelty have ye ruled them." Book p. 195 (Leaf p199).
+
+[^182]: Apocalypse (Book of Revelation) chapters 2 and 3: the divine epistles and solemn warnings sent by Christ through St. John unto the Angels (Bishops) of the seven Churches of Asia. The printed text reads `Апок. III и IV.` (*Апок. II и III* intended, as chapters 2–3 contain the seven messages unto the Angels of the Churches). Book p. 195 (Leaf p199).
+
+[^183]: Decrees of the 1891 Lviv Provincial Synod, Titulus VII, Chapter IV, *On Cathedral and Collegiate Chapters* (*Глава IV. О Капитулахъ*), infra: regulating the election and powers of the two Vicars (Capitular / Administrator and Temporalities) upon the vacancy of the episcopal see. Book p. 196 (Leaf p200).

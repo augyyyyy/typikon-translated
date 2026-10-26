@@ -1,6 +1,6 @@
 # Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852) — Cohort 3 (Leaves p21–p30)
 
-<!-- LEAF: p21 -->
+=== LEAF p21 ===
 
 [Book Page 40]
 
@@ -57,7 +57,7 @@ If, however, you read Vespers privately (*на еди́нѣ*), you have for this
 * * *  
 **Note.** Be it known that on weekdays following the dismissal of Vespers and Matins, there is sometimes a procession into the narthex, or a Litiya for the reposed.
 
-<!-- LEAF: p22 -->
+=== LEAF p22 ===
 
 [Book Page 42]
 
@@ -106,7 +106,7 @@ The Priest:
 And after **"Amen,"** he reads the Prayer:  
 **"O Undefiled, Untainted, Uncorrupted, Inviolate, Pure Virgin, Lady Bride of God..."** (*Нескве́рнаѧ, небла́знаѧ, нетлѣ́ннаѧ, пречи́стаѧ, чи́стаѧ Дѣ́во...*)
 
-<!-- LEAF: p23 -->
+=== LEAF p23 ===
 
 [Book Page 44]
 
@@ -152,7 +152,7 @@ He commemorates also the reposed, as in the Horologion, then at the end: **"Thro
 And upon the completion of this, he begins Matins.  
 In like manner is chanted also the Saturday Midnight Office.
 
-<!-- LEAF: p24 -->
+=== LEAF p24 ===
 
 [Book Page 46]
 
@@ -189,7 +189,7 @@ And the Priest says the Litany:
 **"Have mercy on us, O God, according to Thy great mercy, we pray Thee, hear and have mercy."**  
 **"Again let us pray for our pious Emperor [Franz Joseph I]..."** after which
 
-<!-- LEAF: p25 -->
+=== LEAF p25 ===
 
 [Book Page 48]
 
@@ -233,7 +233,7 @@ The Heirmos of the 1st canon only is sung. The Heirmoi from the canon of the Sai
 — After Ode 3: the Little Litany, and the Sessional Hymn from the General Menaion, **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** Theotokion.  
 After Ode 6: the Heirmos, the Little Litany, and the Kontakion of the Saint
 
-<!-- LEAF: p26 -->
+=== LEAF p26 ===
 
 [Book Page 50]
 
@@ -290,7 +290,7 @@ Trisagion, and after **"Our Father..."** and the exclamation: Kontakion of the d
 **"Lord, have mercy"** (40 times).  
 Then the Priest before the holy doors
 
-<!-- LEAF: p27 -->
+=== LEAF p27 ===
 
 [Book Page 52]
 
@@ -313,7 +313,7 @@ one, however, we omit, the 14th and of the reposed, by Damascene.[^63] And the S
 * * *  
 Following Matins on weekdays the typikon directs the celebration of the Litiya for the reposed, as was portrayed after Vespers; but among us it is performed only when commemoration is made for all the reposed in general.
 
-<!-- LEAF: p28 -->
+=== LEAF p28 ===
 
 [Book Page 54]
 
@@ -356,7 +356,7 @@ And he begins the Proskomedia together with the Deacon in order, as set forth in
 [**It is fitting to know** that if many priests concelebrate in a sobor, the action of the Proskomedia is performed by one priest only, and he says the prescribed prayers; the other concelebrants say nothing of the Proskomedia privately].  
 And having arrived down to the prayer: **"Incense
 
-<!-- LEAF: p29 -->
+=== LEAF p29 ===
 
 [Book Page 56]
 
@@ -391,7 +391,7 @@ Then the Deacon says to the Priest:
 **"Command, Master."** (*Повелѝ, Влады́ко*)  
 And they both depart to the High
 
-<!-- LEAF: p30 -->
+=== LEAF p30 ===
 
 [Book Page 58]
 

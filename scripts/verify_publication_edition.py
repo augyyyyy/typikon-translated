@@ -40,6 +40,14 @@ PLACEHOLDER_PATTERNS = [
     (r"^#+\s*.*?Cohort\s+\d+\s+Raw Draft", "Cohort raw draft header"),
     (r"^#+\s*Cohort\s+\d+\s+Footnotes", "Cohort footnotes header"),
     (r"<!--\s*(?:START|END)?\s*COHORT", "Cohort HTML delimiter"),
+    (r"\[INSERT\s+DIAGRAM", "Unresolved diagram placeholder"),
+    (r"Translator's\s+Note:\s*Pages\s+\d+", "Synthetic table/page omission disclaimer"),
+    (r"\[Left\s+Column\]", "ASCII diagram approximation placeholder"),
+    (r"\[Summary\s*:", "Leaked pre-written summary block"),
+    (r"\^\[[A-Za-z]\]", "Unnumbered inline translator note"),
+    (r"\[TODO\b", "Unresolved TODO marker"),
+    (r"\[PLACEHOLDER\b", "Unresolved PLACEHOLDER marker"),
+    (r"\[UNRESOLVED_CANONICAL_GAP", "Unresolved canonical gap marker"),
 ]
 
 BANNED_PHRASES = [
@@ -98,7 +106,9 @@ def verify_monument_publication(monument_id: str) -> bool:
     print("=" * 75)
 
     all_passed = True
-    md_files = list(final_md_dir.glob("*.md"))
+    # Filter out scholarly companion deliverables (Slavonic complete, Drift report, Primitives review, Podoben grid) from English publication gates
+    companion_suffixes = ("_slavonic_complete.md", "_drift_report.md", "_primitives_review.md", "_podoben_grid.md")
+    md_files = [mf for mf in sorted(final_md_dir.glob("*.md")) if not any(mf.name.endswith(sfx) for sfx in companion_suffixes)]
     if not md_files:
         print(f"[FAIL] No Markdown deliverables found in {final_md_dir.relative_to(PROJECT_ROOT)}")
         return False
@@ -323,6 +333,222 @@ def verify_monument_publication(monument_id: str) -> bool:
         print(f"  >>> Gate 5 Result: FAIL ({gate5_violations} typography/isolation violations detected)")
         all_passed = False
 
+    # -------------------------------------------------------------
+    # Check 6: SGC-02 3-Tier Ground-Truth & Leaf Bijection Audit
+    # -------------------------------------------------------------
+    print("\n[Gate 6] Auditing SGC-02 3-Tier Ground-Truth & Primary-Source Bijection...")
+    gate6_violations = 0
+    total_pages = mon_cfg.get("total_physical_pages", 0)
+    expected_leaves = set(range(1, total_pages + 1))
+
+    # Tier 0: Physical Raster Vault Verification via recursive .rglob()
+    img_dir = ws_dir / "Source Text" / "images"
+    if img_dir.exists() and total_pages > 0:
+        jpg_files = list(img_dir.rglob("Page_*.jpg"))
+        if len(jpg_files) < total_pages:
+            print(f"  [FAIL] Tier 0 Physical Vault: Found {len(jpg_files)}/{total_pages} Page_XXXX.jpg rasters in {img_dir.relative_to(PROJECT_ROOT)}")
+            gate6_violations += 1
+        else:
+            print(f"  [PASS] Tier 0 Physical Vault: {len(jpg_files)}/{total_pages} 300 DPI leaf rasters verified via .rglob().")
+
+    if monument_id == "2010_lviv_typikon":
+        # Part-Level SGC-02 Bijection against Ukrainian TXTs/
+        ukr_dir = ws_dir / "Ukrainian TXTs"
+        part_pairs = [
+            ("Intro.txt", "Final_Dolnytsky_intro.md"),
+            ("Part 1.txt", "Final_Dolnytsky_part1_structure.md"),
+            ("Part 2.txt", "Final_Dolnytsky_part2_general_rubrics.md"),
+            ("Part 3.txt", "Final_Dolnytsky_part3_menaion.md"),
+            ("Part 4.txt", "Final_Dolnytsky_part4_triodion.md"),
+            ("Part 5.txt", "Final_Dolnytsky_part5_temple.md"),
+            ("Appendix.txt", "Final_Dolnytsky_appendix.md"),
+        ]
+        for ukr_name, eng_name in part_pairs:
+            u_path = ukr_dir / ukr_name
+            e_path = final_md_dir / eng_name
+            if not u_path.exists() or not e_path.exists():
+                print(f"  [FAIL] Missing Part pair: {ukr_name} <-> {eng_name}")
+                gate6_violations += 1
+                continue
+            u_len = len(u_path.read_text(encoding="utf-8").strip())
+            e_len = len(e_path.read_text(encoding="utf-8").strip())
+            ratio = e_len / max(1, u_len)
+            if ratio < 0.70 or ratio > 2.80:
+                print(f"  [FAIL] Anomalous SGC-02 length ratio for {eng_name}: ratio={ratio:.2f} (eng={e_len}, ukr={u_len})")
+                gate6_violations += 1
+            else:
+                print(f"  [PASS] Part Bijection {ukr_name} <-> {eng_name}: ratio={ratio:.2f} ({e_len:,} chars)")
+    else:
+        # Cohort-Based Monuments (Monuments 1–6): Enforce 100% canonical === LEAF pN === bijection
+        leaf_re = re.compile(r"===\s*LEAF\s+p?(\d+)\s*===", re.IGNORECASE)
+        tier_dirs = [
+            ("Source Text", ws_dir / "Source Text", "*_cohort*_source.txt"),
+            ("Draft", ws_dir / "Draft", "*_cohort*_raw_draft.md"),
+            ("Cohorts", ws_dir / "Cohorts", "*_cohort*.md"),
+            ("Final TXT", ws_dir / "Final", "*_cohort*.txt"),
+        ]
+        cohort_counts = {}
+        for label, t_dir, pat in tier_dirs:
+            if not t_dir.exists():
+                print(f"  [FAIL] Missing tier directory: {t_dir.relative_to(PROJECT_ROOT)}")
+                gate6_violations += 1
+                continue
+            files = sorted(t_dir.glob(pat))
+            cohort_counts[label] = len(files)
+            found_leaves: Set[int] = set()
+            for f in files:
+                txt = f.read_text(encoding="utf-8")
+                for m in leaf_re.finditer(txt):
+                    found_leaves.add(int(m.group(1)))
+            missing_leaves = sorted(list(expected_leaves - found_leaves))
+            if missing_leaves:
+                print(
+                    f"  [FAIL] {label} ({len(files)} files): Missing {len(missing_leaves)} canonical '=== LEAF pN ===' markers: "
+                    f"{missing_leaves[:15]}"
+                )
+                gate6_violations += 1
+            else:
+                print(f"  [PASS] {label} ({len(files)} files): {len(found_leaves)}/{total_pages} canonical '=== LEAF pN ===' markers verified.")
+
+        if len(set(cohort_counts.values())) > 1:
+            print(f"  [FAIL] Cohort file count mismatch across tiers: {cohort_counts}")
+            gate6_violations += 1
+
+        # Cohorts <-> Final MD/*_complete.md Word Conservation
+        cohorts_dir = ws_dir / "Cohorts"
+        if cohorts_dir.exists() and master_complete_candidates:
+            cohort_words = 0
+            for cf in sorted(cohorts_dir.glob("*_cohort*.md")):
+                c_txt = cf.read_text(encoding="utf-8")
+                c_txt = re.sub(r"===\s*LEAF\s+p?\d+\s*===", "", c_txt, flags=re.IGNORECASE)
+                cohort_words += len(c_txt.split())
+            comp_txt = master_complete_candidates[0].read_text(encoding="utf-8")
+            comp_words = len(comp_txt.split())
+            w_ratio = comp_words / max(1, cohort_words)
+            if w_ratio < 0.90:
+                print(f"  [FAIL] Cohort-to-Complete word conservation drop: complete={comp_words:,}w vs cohorts={cohort_words:,}w (ratio={w_ratio:.3f})")
+                gate6_violations += 1
+            else:
+                print(f"  [PASS] Cohort-to-Complete Word Conservation: {comp_words:,} / {cohort_words:,} words (ratio={w_ratio:.3f})")
+
+    if gate6_violations == 0:
+        print("  >>> Gate 6 Result: PASS (100% 3-Tier SGC-02 Ground-Truth Bijection Verified)")
+    else:
+        print(f"  >>> Gate 6 Result: FAIL ({gate6_violations} SGC-02 bijection violations detected)")
+        all_passed = False
+
+    # -------------------------------------------------------------
+    # Check 7: Hymnographic Normalization, 8-Tone Primitives & Anti-Stub Corpus Gate
+    # -------------------------------------------------------------
+    propers_corpus_file = final_md_dir / f"{monument_id}_propers_corpus.json"
+    primitives_review_file = final_md_dir / f"{monument_id}_primitives_review.md"
+    if propers_corpus_file.exists() or primitives_review_file.exists() or "octoechos" in monument_id.lower():
+        print("\n[Gate 7] Auditing Hymnographic Normalization, 8-Tone Primitives & Anti-Stub Propers Corpus...")
+        gate7_violations = 0
+
+        # 7A & 7B: Scan part1..N and _complete.md for unnormalized Model: labels and un-parenthesized *Podoben: lines
+        unnorm_model_hits = []
+        unparen_podoben_hits = []
+        for mf in md_files:
+            if mf.name.endswith("_apparatus.md"):
+                continue
+            content = mf.read_text(encoding="utf-8")
+            # Separate body from ### Notes / # FOOTNOTES
+            body_part = re.split(r"\n(?:---\s*\n\s*### Notes|#\s*FOOTNOTES AND SCHOLARLY COMMENTARY)\b", content, flags=re.IGNORECASE)[0]
+            for ln_num, ln in enumerate(body_part.splitlines(), start=1):
+                if re.match(r"^\s*\[\^\d+\]:", ln):
+                    continue
+                if re.search(r"\b(?:Model:|Melodic\s+model:|Special\s+Melody:|Same\s+Model\b|Same\s+melody\b)", ln, re.IGNORECASE):
+                    unnorm_model_hits.append((mf.name, ln_num, ln.strip()[:80]))
+                if "*Podoben:" in ln and not re.search(r"\([^)]*[\u0400-\u04FF][^)]*\)", ln):
+                    unparen_podoben_hits.append((mf.name, ln_num, ln.strip()[:80]))
+
+        if unnorm_model_hits:
+            gate7_violations += len(unnorm_model_hits)
+            print(f"  [FAIL] Gate 7A: Found {len(unnorm_model_hits)} unnormalized 'Model:'/'Melodic model:' lines:")
+            for fn, ln_num, snip in unnorm_model_hits[:5]:
+                print(f"    {fn}:L{ln_num}: {snip}")
+        else:
+            print("  [PASS] Gate 7A: 0 unnormalized 'Model:' / 'Melodic model:' / 'Same melody' lines across all files.")
+
+        if unparen_podoben_hits:
+            gate7_violations += len(unparen_podoben_hits)
+            print(f"  [FAIL] Gate 7B: Found {len(unparen_podoben_hits)} '*Podoben:' lines missing parenthetical Slavonic witness:")
+            for fn, ln_num, snip in unparen_podoben_hits[:5]:
+                print(f"    {fn}:L{ln_num}: {snip}")
+        else:
+            print("  [PASS] Gate 7B: 100% of '*Podoben:' headings include parenthetical 1630 Slavonic witness.")
+
+        # 7C: 8-Tone Primitives Registry & Father Paul Digest Completeness
+        prim_reg_file = PROJECT_ROOT / "data" / "liturgical_primitives_registry.json"
+        if not prim_reg_file.exists():
+            print("  [FAIL] Gate 7C: Missing data/liturgical_primitives_registry.json!")
+            gate7_violations += 1
+        else:
+            prim_reg = json.loads(prim_reg_file.read_text(encoding="utf-8"))
+            pod_models = prim_reg.get("podoben_models", [])
+            pod_tones = set(int(p.get("tone", 0)) for p in pod_models)
+            heir_tones = set(int(h.get("tone", 0)) for h in prim_reg.get("sunday_heirmoi", []))
+            expected_tones = {1, 2, 3, 4, 5, 6, 7, 8}
+            unattested_models = [p.get("id") for p in pod_models if not p.get("attested_loci")]
+            if expected_tones - pod_tones or expected_tones - heir_tones:
+                print(f"  [FAIL] Gate 7C: Incomplete 8-Tone primitives coverage (Podoben tones={sorted(pod_tones)}, Heirmos tones={sorted(heir_tones)})")
+                gate7_violations += 1
+            elif unattested_models:
+                print(f"  [FAIL] Gate 7C: Found {len(unattested_models)} models with 0 attested loci in active registry: {unattested_models}")
+                gate7_violations += 1
+            else:
+                print(
+                    f"  [PASS] Gate 7C: 8-Tone Primitives Registry verified "
+                    f"({len(pod_models)} 100% physically-attested Podobens across Tones 1-8, "
+                    f"{len(prim_reg.get('sunday_heirmoi', []))} Sunday Heirmoi across Tones 1-8)."
+                )
+
+        # 7D: Anti-Stub Bilingual Propers Corpus Gate
+        if not propers_corpus_file.exists():
+            print(f"  [FAIL] Gate 7D: Missing {propers_corpus_file.name}!")
+            gate7_violations += 1
+        else:
+            corpus_data = json.loads(propers_corpus_file.read_text(encoding="utf-8"))
+            c_items = corpus_data.get("items", [])
+            c_tones = set(int(it.get("tone", 0)) for it in c_items if int(it.get("tone", 0)) in range(1, 9))
+            if len(c_items) < 1500 or len(c_tones) < 8 or "source_provenance" not in corpus_data:
+                print(
+                    f"  [FAIL] Gate 7D: Propers corpus failed anti-stub gate "
+                    f"(items={len(c_items)}, tones={sorted(c_tones)}, has_provenance={'source_provenance' in corpus_data})"
+                )
+                gate7_violations += 1
+            else:
+                print(
+                    f"  [PASS] Gate 7D: Bilingual Cross-Propers Corpus verified "
+                    f"({len(c_items):,} atomic stanzas across Tones {sorted(c_tones)})."
+                )
+
+        # 7E: Internally-Attested Podoben Grid Gate
+        grid_md_file = final_md_dir / f"{monument_id}_podoben_grid.md"
+        grid_json_file = final_md_dir / f"{monument_id}_podoben_grid.json"
+        if not grid_md_file.exists() or not grid_json_file.exists():
+            print(f"  [FAIL] Gate 7E: Missing {grid_md_file.name} or {grid_json_file.name}!")
+            gate7_violations += 1
+        else:
+            grid_data = json.loads(grid_json_file.read_text(encoding="utf-8"))
+            invocations = grid_data.get("invocations", [])
+            grid_tones = set(it.get("tone") for it in invocations if it.get("tone") in range(1, 9))
+            if len(invocations) < 100 or len(grid_tones) < 8:
+                print(f"  [FAIL] Gate 7E: Podoben grid incomplete (invocations={len(invocations)}, tones={sorted(grid_tones)})")
+                gate7_violations += 1
+            else:
+                print(
+                    f"  [PASS] Gate 7E: Podoben Grid verified "
+                    f"({len(invocations)} physical invocations across Tones {sorted(grid_tones)})."
+                )
+
+        if gate7_violations == 0:
+            print("  >>> Gate 7 Result: PASS (100% Hymnographic Normalization, 8-Tone Primitives & Full Propers Corpus Verified)")
+        else:
+            print(f"  >>> Gate 7 Result: FAIL ({gate7_violations} hymnographic/corpus violations detected)")
+            all_passed = False
+
     print("\n" + "=" * 75)
     if all_passed:
         print(f"  >>> ALL QUALITY GATES PASSED FOR MONUMENT: {monument_id} <<<")
@@ -335,11 +561,28 @@ def verify_monument_publication(monument_id: str) -> bool:
 
 def main():
     parser = argparse.ArgumentParser(description="Publication Quality Gate & Ergonomics Auditor")
-    parser.add_argument("--monument", required=True, help="Monument ID (e.g. 1899_dolnytsky_typikon)")
+    parser.add_argument("--monument", help="Monument ID (e.g. 1899_dolnytsky_typikon)")
+    parser.add_argument("--all-completed", action="store_true", help="Verify all monuments with status=completed")
     args = parser.parse_args()
+
+    if args.all_completed:
+        registry = json.loads(REGISTRY_FILE.read_text(encoding="utf-8"))
+        completed_ids = [
+            m_id for m_id, cfg in registry.get("monuments", {}).items()
+            if cfg.get("status") == "completed"
+        ]
+        all_ok = True
+        for m_id in completed_ids:
+            if not verify_monument_publication(m_id):
+                all_ok = False
+        sys.exit(0 if all_ok else 1)
+
+    if not args.monument:
+        parser.error("Must specify --monument <id> or --all-completed")
 
     success = verify_monument_publication(args.monument)
     sys.exit(0 if success else 1)
 
 if __name__ == "__main__":
     main()
+

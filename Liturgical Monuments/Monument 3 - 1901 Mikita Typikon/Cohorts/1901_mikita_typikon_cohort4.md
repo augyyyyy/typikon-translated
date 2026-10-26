@@ -1,4 +1,4 @@
-<!-- LEAF: p31 -->
+=== LEAF p31 ===
 
 ...of the Holy Fast, or of Lazarus; (τ) The Sixth Sunday of the Holy Fast, or Palm Sunday (*“kyriake ton baion”* [κυριακὴ τῶν βαΐων] or *“heorte baiophoros”* [ἑορτὴ βαϊοφόρος], *festum Palmarum*, from the Greek word *“baia”* [βαΐα]—boughs of palm, olive, or willow); (υ) Great Week, with Great Thursday, Friday, and Saturday.
 
@@ -8,11 +8,11 @@ III. To the Afterfeast of Pascha belong: (α) The First Sunday, that is, Thomas 
 
 IV. There are 32 Sundays after the Descent of the Holy Spirit,[^8] of which: (α) The first is the Sunday of All Saints. On this Sunday
 
-<!-- LEAF: p32 -->
+=== LEAF p32 ===
 
 ...the *Octoechos* beginneth with Tone 8 and the fast unto the Feast of the Holy Apostles Peter and Paul, which, however, is not always of equal length, for it can last at the least 7 days, and at the most 6 weeks; (β) The Thursday of the second week is in Galicia the Feast of the Holy Eucharist; (γ) The Second Sunday after the Descent of the Holy Spirit: the Gospel for this day is “On the manifestation of Jesus Christ and the calling unto Apostleship of Peter, Andrew, James, and John”; (δ) The Friday of the third week is in Galicia the Feast of the “Compassion of the Most Holy Virgin at the Passion of Jesus Christ”; (ε) In July, on a Sunday near the 16th day of that month, we celebrate the “Memory of the Holy Fathers of the Six Ecumenical Councils,” and that in such wise: if the 16th day falleth on a Monday, Tuesday, or Wednesday, then the “Council of the Holy Fathers” is celebrated on the preceding Sunday; but if on a Thursday, Friday, or Saturday, then on the following Sunday; finally, if the 16th day falleth on a Sunday, then we celebrate the memory of the holy Fathers on that very same Sunday; (ϛ) In September, around the 14th day, are celebrated the Sunday before the Exaltation of the Precious Cross and the Sunday after the Exaltation of the Precious Cross; (η) In October, around the 11th day, is celebrated: the “Sunday of the Holy Fathers of the Seventh Ecumenical Council held in Nicaea in the year 787”;[^9] (ϑ) In December, on the penultimate Sunday before the Nativity of Christ, is celebrated the “Memory of the Holy Forefathers” (*Dominica Protopatrum*). By “Forefathers” we understand: Abraham, Isaac, and Jacob. (Some understand Adam and Eve, but erroneously); (ι) The last Sunday before the Nativity of Christ is called the “Sunday of the Holy Fathers of the Old Testament” (*Dominica SS. Patrum*). By “Holy Fathers” we understand here all the God-fearing men of the Old Testament, beginning
 
-<!-- LEAF: p33 -->
+=== LEAF p33 ===
 
 ...from Adam even unto holy Joseph, the Betrothed of Mary; (κ) On the first Sunday after the Nativity of Jesus Christ we celebrate the memory of holy Joseph, the Betrothed of Mary, David the King, and James, the Brother of the Lord according to the flesh; (λ) In January we celebrate the Sunday before Theophany and after Theophany. Mention is also made of the “Sunday of the Holy Guardian Angels” and of the “Sunday of the Holy Fathers of the Council of Florence,” but the day of these feasts is not appointed; (μ) The 32nd Sunday after the Descent of the Holy Spirit is “of Zacchaeus.”[^10]
 
@@ -22,7 +22,7 @@ Of the immovable feasts we shall adduce only the most important. The focal point
 
 I. In September the most notable of the immovable feasts are: (α) On the 1st: The Beginning of the Indiction, that is, of the New Year. The name “Indiction” is the Latin word *indictio*, *initium et finis* [beginning and end]. It is a period consisting of 15 years, which period was divided into three parts (*lustrum*), after which the Roman Emperors decreed a tax upon their subjects in the first days of each five-year period, and collected the same in the first days of each five-year period. The Church beginneth the new year on this day either because on this day Jesus came into the Jewish synagogue and there began to preach, and having taken the book of the Prophet Isaiah, read from it that place where it is written: “The Spirit of the Lord is upon Me” (Isa. 61:1, *Initium indictionis ab initio
 
-<!-- LEAF: p34 -->
+=== LEAF p34 ===
 
 ...praedicationis Jesu* [The beginning of the Indiction from the beginning of the preaching of Jesus]). Others, however, consider that the Church beginneth the new year on that day because, according to tradition, time began on that day (*Initium indictionis a principio temporis* [The beginning of the Indiction from the beginning of time]); (β) On the 6th: “Commemoration of the Miracle Wrought at Colossae by the Archistrategos Michael.” This miracle was that the pagans wished to destroy the church of the holy Archistrategos Michael by means of a river which they directed against the church; but the holy Archangel Michael appeared, and striking the rock with his staff, made a passage for the river, which even now floweth through this rock; (γ) On the 8th: The Nativity of the Most Holy Theotokos; (δ) On the 14th: The Exaltation of the Precious Cross. On the 16th: St. Josaphat; (ε) On the 26th: The Falling Asleep of the Holy Apostle and Evangelist John the Theologian; (ϛ) On the 28th: Our Venerable Father Chariton.
 
@@ -30,7 +30,7 @@ II. In the month of October the most notable feasts are the following: (α) On t
 
 III. In the month of November the most notable feast days are the following: (α) On the 1st: The holy Wonderworkers and Unmercenaries Cosmas and Damian. These Saints were physicians who miraculously and not for money, but gratuitously healed people (*“Anargyros”* [Ἀνάργυρος] = unmercenary, *argento carens*, *mercedem non recipiens* [lacking silver, receiving no fee]); (β) On the 8th: The Synaxis of the Holy Archangel Michael, Guardian of Holy Mother Church
 
-<!-- LEAF: p35 -->
+=== LEAF p35 ===
 
 ...and of the other Bodiless Powers (Synaxis = *“Synaxis”* [Σύναξις], *conventus sacer fidelium solemnitatis causa* [a holy gathering of the faithful for the purpose of a solemnity]); (γ) On the 13th: Our Holy Father John Chrysostom; (δ) On the 14th: The Holy Apostle Philip. From this day beginneth the fast unto the Nativity of Jesus Christ; (ε) On the 16th: The Holy Apostle Matthew; (ϛ) On the 21st: The Entry (*Praesentatio*) into the Temple of the All-Pure Virgin; (η) On the 30th: The Holy Apostle Andrew the First-Called (*“Protokletos”* [Πρωτόκλητος] = first-called).
 
@@ -46,7 +46,7 @@ VIII. In April the most notable feasts are: (α) On the 23rd: St. George the Gre
 
 IX. In May the most notable feasts are: (α) On the 3rd: The Falling Asleep of St. Theodosius of the Caves; (β) On the 8th: St. John the Evangelist;
 
-<!-- LEAF: p36 -->
+=== LEAF p36 ===
 
 (γ) On the 9th: The Translation of the Relics of St. Nicholas from Myra to the city of Bari; (δ) On the 10th: The Holy Apostle Simon; (ε) On the 21st: St. Constantine and St. Helen; (ϛ) On the 25th: The Third Finding of the Head of St. John the Baptist (*Comanae in Cappadocia*).
 
@@ -60,7 +60,7 @@ XII. In August: (α) On the 1st: The Procession of the Precious Wood of the Prec
 
 The Feasts of the Lord are the following: 1. The Conception, that is, the Incarnation of our Lord Jesus Christ.[^12] 2. The Nativity of Jesus Christ. 3. The Circumcision of Jesus Christ. 4. The Presentation in the Temple or Meeting (*“Hypapante”* [Ὑπαπαντή] = *occursus*) of our Lord Jesus Christ with Simeon. 5. The Baptism of Jesus Christ. 6. The Transfiguration of Jesus Christ. 7. The Entry of Jesus Christ into Jerusalem (*Dies Palmarum*). 8. The Death of Jesus Christ, that is, the Pascha of Death. 9. The Resurrection of Jesus Christ,
 
-<!-- LEAF: p37 -->
+=== LEAF p37 ===
 
 that is, the Joyful Pascha. 10. The Ascension of Jesus Christ. 11. The Descent of the Holy Spirit. 12. The Monday of the Holy Spirit, when at the same time the Feast of the Holy Trinity is also celebrated. 13. The Procession of the Precious Wood of the Precious and Life-Giving Cross. 14. The Exaltation of the Precious Cross. 15. The Translation from Edessa to the City of Constantine of the Icon Made without Hands of Jesus Christ.
 
@@ -76,7 +76,7 @@ Among the Saints are holy men and holy women. (α) Among men are the following c
 
 Among their feasts the most notable are the following: 1. The Synaxis of the Holy Archangel Michael and of the other Bodiless Powers. 2. The feasts of St. John the Baptist, namely: Conception, Nativity, Beheading, Synaxis, First, Second, and Third Finding of the Head of the Honorable John the Baptist. 3. The Holy Prophet Elijah. 4. The feasts of the Holy Apostles, especially the feasts of the Holy Apostles Peter and Paul.
 
-<!-- LEAF: p38 -->
+=== LEAF p38 ===
 
 5. The feasts of the Great Hierarchs, especially St. Nicholas and the Three Hierarchs. 6. The Holy Martyrs: Stephen, Demetrius, and George. 7. The feasts of our Venerable Fathers, especially St. Anthony and St. Theodosius. 8. The Holy Unmercenaries: Cosmas and Damian. 9. The feasts of holy women: St. Anna, St. Helen, St. Paraskeva, etc.
 
@@ -88,7 +88,7 @@ In the Eparchy of Mukachevo the decretal feasts are: 1. The Nativity of the Most
 
 According to the direction[^15] of the late Bishop of the city of Nagyvárad [Veliko-Varadin], Papp-Szilágyi, the following were at one time church feasts: 1. The Falling Asleep of St. John the Apostle and Evangelist Luke. 4. The Day of the Holy Apostle James, Brother of the Lord. 5. The Day of the Holy Great-Martyr Demetrius. 6. The Immaculate Conception of the Most Holy Virgin. 7. The Day of St. John Chrysostom. 8. The Day of the Holy Apostle Philip. 9.
 
-<!-- LEAF: p39 -->
+=== LEAF p39 ===
 
 The Day of the Holy Apostle and Evangelist Matthew. 10. The Day of the Holy Martyr Catherine. 11. The Day of the Holy Apostle Andrew. 12. The Holy 14,000 Infant Martyrs Slain for Christ by Herod. 13. The Day of St. Anthony the Great. 14. The Day of St. Athanasius and Cyril. 15. The Day of St. Euthymius the Great. 16. The Translation of the Relics of St. John Chrysostom. 17. The Day of St. Theodore Stratelates.[^16] 18. The Day of St. Theodore the Tyro.[^17] 19. The First and Second Finding of the Honorable Head of St. John the Baptist. 20. The Day of the Holy 40 Martyrs. 21. The Day of the Holy Evangelist Mark. 22. The Day of the Holy Apostle James, Brother of St. John.[^18] 23. The Day of St. Athanasius.[^19] 24. The Day of St. John the Apostle and Evangelist.[^20] 25. The Day of St. Constantine and St. Helen. 26. The Third Finding of the Head of St. John the Baptist. 27. The Synaxis of the Holy 12 Apostles. 28. The Day of St. Mary Magdalene.[^21] 29. The Dormition of St. Anna. 30. The Day of the Holy Martyr Panteleimon. 31. The Day of the Holy Apostle Matthias.[^22][^23] But now the days of choral feasts depend upon eparchial determinations.
 
@@ -96,7 +96,7 @@ The Day of the Holy Apostle and Evangelist Matthew. 10. The Day of the Holy Mart
 
 Great feasts are divided into 3 classes: (α) To the first belongeth only Pascha, which is the “feast of feasts”; (β) To the second belong the 12 feasts: Nativity of the Theotokos, Entry, Annunciation, Dormition of the Most Holy Virgin, Nativity of Jesus Christ, Meeting, Theophany, Transfiguration, Entry into Jerusalem, Ascension, Descent of the Holy Spirit, and Exaltation of the Precious Cross; (γ) To the third class belong: The Circumcision of the Lord, Nativity and Beheading of John the Baptist, and the Holy Apostles Peter and Paul.
 
-<!-- LEAF: p40 -->
+=== LEAF p40 ===
 
 Great feasts are designated in the Menologion by an enclosed cross 🞣, and the titles are usually printed in red letters. They are Feasts of the Lord and Marian Feasts. All these feasts have Great Vespers with a Litiya, and Matins with a Polyeleos, Gospel, and Great Doxology; besides this they have a Forefeast and Afterfeast, that is, the divine service of those feasts is not limited to the very day of the feast, but extends unto preceding and following days. For the most part, great feasts have one day of Forefeast each; only the Feast of the Nativity of Christ hath 5 days, and the Feast of Theophany 4 days. The Circumcision and the other feasts of the 3rd class do not have a Forefeast.
 

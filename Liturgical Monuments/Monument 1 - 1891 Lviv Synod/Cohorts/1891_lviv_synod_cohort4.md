@@ -35,6 +35,7 @@
 
 ---
 
+=== LEAF p61 ===
 *(Physical Page 59 / Leaf p61)*
 
 Kassian Kunytsky, Military Chaplain.  
@@ -81,6 +82,7 @@ Mykhail Matkovsky, Pastor in Horozhanna.
 
 ---
 
+=== LEAF p62 ===
 *(Physical Page 60 / Leaf p62)*
 
 Konstantyn Hukevych, Pastor in Kvashenyna.  
@@ -127,6 +129,7 @@ Volodymyr Koziorovsky, Vice-Dean of Husiatyn.
 
 ---
 
+=== LEAF p63 ===
 *(Physical Page 61 / Leaf p63)*
 
 Mykola Hoshovsky, Dean of Yezupil.  
@@ -167,6 +170,7 @@ President: The Most Reverend Bishop of Przemyśl, Dr. Julian Pelesz.
 
 ---
 
+=== LEAF p64 ===
 *(Physical Page 62 / Leaf p64)*
 
 Members: Archpriest Mykhail Singalewych, Archdeacon Benedict Litynsky, Custos Ivan Lytvynovych, Scholaster Andriy Biletsky.  
@@ -201,6 +205,7 @@ It is so: + F. A., Archbishop of Larissa.
 
 ---
 
+=== LEAF p65 ===
 *(Physical Page 63 / Leaf p65)*
 
 #### On the Making of the Profession of Faith (Basilian Hieromonks)
@@ -235,6 +240,7 @@ On the 29th day of September, 1891, on the Feast of Saint Michael the Archistrat
 
 ---
 
+=== LEAF p66 ===
 *(Physical Page 64 / Leaf p66)*
 
 the Seminary Church under the presidency of His Excellency the Apostolic Delegate, Father Agostino Ciasca, Archbishop of Larissa.  
@@ -275,6 +281,7 @@ Ch. 4. On the colors of church vestments.
 
 ---
 
+=== LEAF p67 ===
 *(Physical Page 65 / Leaf p67)*
 
 **Titulus VII. On the Ecclesiastical Hierarchy.**  
@@ -304,6 +311,7 @@ Ch. 5. On the censorship of books.
 
 ---
 
+=== LEAF p68 ===
 *(Physical Page 66 / Leaf p68)*
 
 Ch. 6. On the sect of Freemasons and other condemned and prohibited sects.  
@@ -345,6 +353,7 @@ The Promoters then moved the announcement of the Third Session. His Excellency t
 
 ---
 
+=== LEAF p69 ===
 *(Physical Page 67 / Leaf p69)*
 
 of October; and the Secretary announced the decree convoking the Third Session.  
@@ -374,6 +383,7 @@ On Sunday, the 4th day of October, 1891, after the celebration of the solemn pro
 
 ---
 
+=== LEAF p70 ===
 *(Physical Page 68 / Leaf p70)*
 
 After the offering of prayers and supplications, the Synodal Promoters moved that the decisions read in the Third General Congregation be promulgated. Having received the order from His Excellency the Apostolic Delegate and President of the Synod, the Synodal Secretaries read:  
@@ -402,6 +412,7 @@ Protonotary of the Synod.
 
 ---
 
+=== LEAF p71 ===
 *(Physical Page 69 / Leaf p71)*
 
 #### Session IV and Final
@@ -426,6 +437,7 @@ Upon the conclusion of the subscriptions, the Secretary read the decree announci
 
 ---
 
+=== LEAF p72 ===
 *(Physical Page 70 / Leaf p72)*
 
 With the assent of the Most Reverend Metropolitan and the Most Reverend Bishops, the Apostolic Delegate and President of the Synod, His Excellency the Archbishop of Larissa, Father Agostino Ciasca, decided that the Synod should be brought to a close, and ordered the Decree on the Conclusion of the Synod to be read. The Promoters summon the Notaries, that the Acts of this Session be drawn up. The First Notary answereth that he shall draw them up.  
@@ -447,6 +459,7 @@ Synodal Protonotary.
 
 ---
 
+=== LEAF p73 ===
 *(Physical Page 71 / Leaf p73)*
 
 I, the undersigned, do certify that all and singular things contained in the Acts and Decrees of this Synod were accomplished according to the rules established by the sacred canons and approved by customs; and in particular I do certify that the above-cited Profession of Faith was made into my hands by the Most Reverend and Most Worthy Sylvester Sembratovych, Metropolitan of Halych, Archbishop of Lviv, and Bishop of Kamianets; by the Bishops: of Przemyśl and of Stanyslaviv; as also by the others whose names are written above.  
@@ -457,11 +470,13 @@ President of the Synod.
 
 ---
 
+=== LEAF p74 ===
 *(Physical Page 72 / Leaf p74)*  
 *[Blank Leaf preceding the Decrees]*
 
 ---
 
+=== LEAF p75 ===
 *(Physical Page 73 / Leaf p75)*
 
 ## 2. Decrees of the Ruthenian Provincial Synod: Titulus I. On the Catholic Faith
@@ -480,6 +495,7 @@ h) Deans;
 
 ---
 
+=== LEAF p76 ===
 *(Physical Page 74 / Leaf p76)*
 
 i) Those endowed with any benefices connected with the cure of souls;  
@@ -494,6 +510,7 @@ All things, therefore, which the Catholic Church, whether by solemn judgment or 
 
 ---
 
+=== LEAF p77 ===
 *(Physical Page 75 / Leaf p77)*
 
 3. Likewise, all and singular false opinions and doctrines that are gaining ground in our age, which the same Ecumenical Pontiff Pius IX, in his Consistorial Allocutions and in the Encyclical Letter *Quanta cura* ("How Great Solicitude") [^28] and in the annexed Syllabus of the 8th of December, 1864 [^29], by apostolic authority rejected and condemned, we in this Synod recognize and confess to be entirely rejected, and we pronounce that they must be held as rejected and condemned under penalty of the loss of salvation.  
@@ -503,6 +520,7 @@ All things, therefore, which the Catholic Church, whether by solemn judgment or 
 
 ---
 
+=== LEAF p78 ===
 *(Physical Page 76 / Leaf p78)*
 
 ### CHAPTER III. On Religious Indifferentism
@@ -512,6 +530,7 @@ All things, therefore, which the Catholic Church, whether by solemn judgment or 
 
 ---
 
+=== LEAF p79 ===
 *(Physical Page 77 / Leaf p79)*
 
 ### CHAPTER IV. On Communion in Sacred Things with Heretics and Schismatics
@@ -521,6 +540,7 @@ All things, therefore, which the Catholic Church, whether by solemn judgment or 
 
 ---
 
+=== LEAF p80 ===
 *(Physical Page 78 / Leaf p80)*
 
 [^38]; *"If anyone, being a clergyman, shall pray together with one who is deposed, let him also be deposed"* [^39]; *"If a bishop, or presbyter, or deacon, shall only pray with heretics, let him be excommunicated; but if he hath permitted them to perform any clerical ministration, let him be deposed"* [^40].  

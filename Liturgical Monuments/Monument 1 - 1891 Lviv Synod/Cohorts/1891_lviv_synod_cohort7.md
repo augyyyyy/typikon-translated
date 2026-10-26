@@ -3,7 +3,7 @@
 
 > [!NOTE]
 > **Historical & Canonical Significance**  
-> Cohort 9 of the **1891 Lviv Provincial Synod** (*Чинности и рѣшеня руского провинціяльного Собора въ Галичинѣ ôтбувшого ся во Львовѣ въ роцѣ 1891*) establishes fundamental canonical, liturgical, hymnographic, and rubrical legislation for public worship in the Ruthenian Greek Catholic Church:  
+> Cohort 7 of the **1891 Lviv Provincial Synod** (*Чинности и рѣшеня руского провинціяльного Собора въ Галичинѣ ôтбувшого ся во Львовѣ въ роцѣ 1891*) establishes fundamental canonical, liturgical, hymnographic, and rubrical legislation for public worship in the Ruthenian Greek Catholic Church:  
 > 1. **Conclusion of Titulus IV, Chapter III: On the Canonical Hours (The Church Rule) and Other Public Divine Services (Leaves p121–p122 / Book pp. 119–120)**:  
 >    - **Parochial and Cathedral Norms for the Divine Office**: Reception of the eight parts of the Byzantine Divine Office (*Pravylo Tserkovne*); distinction between monastics (full public recitation of all hours), cathedral chapters (public celebration of Vespers, Matins, and 1st Hour daily, with Compline in Great Lent), and parish churches (public Matins or All-Night Vigil with 1st Hour, and Sunday afternoon Vespers); private recitation of remaining hours according to the official abbreviated model (*skorochenyi zrazok*) approved by the Holy See; mortal sin attaching to negligent clerical omission of the Office; patristic and conciliar theology of clerical recitation (Fifth Lateran Council canon *Dolentes*, St. Alphonsus Liguori, St. John Cassian, St. Cyprian of Carthage).  
 > 2. **Titulus IV, Chapter IV: On the Celebration of Extraordinary Services (Leaves p123–p133 / Book pp. 121–129)**:  
@@ -35,6 +35,7 @@
 
 ---
 
+=== LEAF p121 ===
 *(Physical Page 121 / Leaf p121 / Book Page 119)*
 
 ...shall be celebrated at the customary hour, and Great Vespers, which is to be joined, as we have said above, with Matins.
@@ -45,6 +46,7 @@
 
 5. As to the actual celebration of the Canonical Hours (the Church Rule) in particular, let priests and deacons understand well that these are not ordinary prayers, but rather
 
+=== LEAF p122 ===
 *(Physical Page 122 / Leaf p122 / Book Page 120)*
 
 public ones, and that offered by sacred ministers in the name of the Church, fulfilling an embassy before God on behalf of the people; wherefore also their omission, proceeding from negligence and sloth, is a mortal sin, and that not only when an entire service is omitted, or any considerable part, but also whatever integral part thereof, even were it one of the eight above-mentioned. Wherefore, whatever opinion there may hitherto have been regarding the obligation of reciting that Rule, now, by the decree of the Synod, diversity of opinions shall cease, since the obligation is clearly and expressly laid upon ordained clerics, especially upon approval by the Holy See.
@@ -55,6 +57,7 @@ public ones, and that offered by sacred ministers in the name of the Church, ful
 
 ### Chapter IV: On the Celebration of Extraordinary Services, Whereof Some are Bound unto Immovable Feasts, and Others unto Moveable Feasts
 
+=== LEAF p123 ===
 *(Physical Page 123 / Leaf p123 / Book Page 121)*
 
 *As to Services bound unto immovable feasts:*
@@ -69,6 +72,7 @@ public ones, and that offered by sacred ministers in the name of the Church, ful
 
 3. On the 1st day of August, on the Feast of the Holy Maccabean Brethren, the Holy Cross shall be brought forth for the veneration of the people, and shall lie upon the Tetrapod for one day, observing all the rites as at the Exaltation of the Precious Cross, with the exception of the rite of the actual elevation (*vozdvyzhaniye*) toward the four corners of the earth, which is proper unto the Feast of the Exaltation. Moreover, they shall also on that day celebrate the Lesser Blessing of Water,
 
+=== LEAF p124 ===
 *(Physical Page 124 / Leaf p124 / Book Page 122)*
 
 and where such custom existeth, they shall bless herbs and seeds.
@@ -87,6 +91,7 @@ d) On Great and Holy Thursday of Passion Week, they shall sing the Divine Liturg
 e) On the same Thursday after sunset, they shall chant the Office of the Holy Passions with the 12 Gospels.
 f) On Great Friday, which is regarded as an extraordinary solemn feast, they shall celebrate in Church in the morning the Hours commonly called *Royal*, and around midday Vespers, at which is carried forth the holy icon called the *Plashchanytsia*, which, once carried forth before the Iconostasis, is placed in the place
 
+=== LEAF p125 ===
 *(Physical Page 125 / Leaf p125 / Book Page 123)*
 
 called the *Tomb* (*Hrob*), and here let it remain for the continual veneration of the people until the celebration of the Resurrection, and that strictly according to the prescriptions of the Typikon which this Synod hath endeavored to compile.
@@ -101,10 +106,12 @@ l) On the first three days of this week, called *Bright Week* (*Svitla*), they s
 m) On the very day of Pentecost, pastors shall celebrate immediately after the Divine Liturgy Vespers with the Kneeling Prayers (*Kolinopryklonni Molytvy*), according to the rule indicated in the typikons.
 n) As to the Feast of the Most Holy Eucharist in particular, although the memory of its institution is celebrated year by year on Great Thursday at the Mystical Supper of the Lord, and indeed daily in the sacrifice of the Divine Liturgy, nevertheless, on account of the majesty of that Mystery, Pope Urban IV already in the 13th century [^128] established
 
+=== LEAF p126 ===
 *(Physical Page 126 / Leaf p126 / Book Page 124)*
 
 that it should be commemorated with an annual solemnity throughout the entire Church in the manner of a Feast of the Lord of the first class, with an eight-day afterfeast (*cum octava*), namely on the Thursday after the first Sunday [after Pentecost], *All Saints*. This subsequently the Ecumenical Council of Trent likewise commendeth in these words: *"Most piously and religiously was that custom introduced into the Church of God, that every year on a certain and solemn day this most sublime and most blessed Sacrament should be celebrated with singular veneration and solemnity, and that It should be borne in processions with honor and majesty through the streets and public places."* [^129] Wherefore, following this supreme ecclesiastical authority, not only all the Western Churches, but also almost all the Eastern Churches united with the Catholic Church celebrate this feast solemnly, especially our Ruthenian Church ever since the Union, and that with a special divine service arranged throughout all eight days; likewise do we find that this feast is celebrated among the Italo-Greeks, Greek-Melkites, Armenians, Maronites, Syrians, Chaldeans, and Copts. [^130] Furthermore, although properly this feast ought to be celebrated on Thursday, for on this day the Holy Eucharist was instituted by Christ the Lord, nevertheless, on account of the transference of feasts from weekdays unto the following Sunday, it is transferred unto Sunday; in which case, however, that is, on that Sunday, the entire divine service shall be celebrated, and that one and the same as indicated on the first day in the Triodion, with All-Night Vigil, while on the remaining days observing the rules of divine service prescribed in the general typikon with the afterfeast. On the Sunday itself there shall also be, according to custom, a procession with the Most Holy Mysteries after the recitation of the Prayer behind the Ambo, that is, from the Church unto four altars erected outside the Church, equidistant from one another. Where, however, it should be impossible to do this, it shall suffice to begin the procession from the Altar of the Church and, having thrice circuited the Church with the Most Holy Mysteries, to conclude this sacred rite
 
+=== LEAF p127 ===
 *(Physical Page 127 / Leaf p127 / Book Page 125)*
 
 upon that same Altar in the Church with the blessing with the Most Holy Mysteries. As to the four Gospels, whereof one is customarily sung at each of the four altars according to the custom adopted here in the north, the Synod decreeth that those should be selected which speak of the Most Holy Sacrament, according to the ritual prescriptions for this feast.
@@ -121,16 +128,19 @@ As to the exposition of the Most Holy Sacrament and the imparting of benediction
 
 On those days on the occasion of this exposition, priests according to custom shall impart the blessing with the Most Holy
 
+=== LEAF p128 ===
 *(Physical Page 128 / Leaf p128 / Book Page 124 — Duplicate Scan Witness)*
 
 > [!NOTE]
-> Physical leaf `p128.png` in the source witness is an identical secondary photographic scan of printed book page 124 (transcribed under leaf `p126`). The canonical continuous text proceeds directly from leaf `p127` to leaf `p130`.
+> Physical leaf `Page_0128.jpg` in the source witness is an identical secondary photographic scan of printed book page 124 (transcribed under leaf `p126`). The canonical continuous text proceeds directly from leaf `p127` to leaf `p130`.
 
+=== LEAF p129 ===
 *(Physical Page 129 / Leaf p129 / Book Page 125 — Duplicate Scan Witness)*
 
 > [!NOTE]
-> Physical leaf `p129.png` in the source witness is an identical secondary photographic scan of printed book page 125 (transcribed under leaf `p127`). The canonical continuous text proceeds directly from leaf `p127` to leaf `p130`.
+> Physical leaf `Page_0129.jpg` in the source witness is an identical secondary photographic scan of printed book page 125 (transcribed under leaf `p127`). The canonical continuous text proceeds directly from leaf `p127` to leaf `p130`.
 
+=== LEAF p130 ===
 *(Physical Page 130 / Leaf p130 / Book Page 126)*
 
 Gifts once, and Bishops three times (toward the three sides); and that on the Feast of the Holy Eucharist once at the beginning of the Liturgy, and then at the conclusion of the Liturgy after the procession.
@@ -145,6 +155,7 @@ The above-mentioned exposition and at the same time the procession with the Most
 Finally, priests must remember that it is never lawful to expose the Most Holy Gifts upon the altar, whether this taketh place during the Liturgy, or at Vespers, or on any other occasion, unless there burn upon the Altar at least six wax candles.
 As to the Lamb itself for exposition, before it is consecrated, it shall be fitted unto its vessel called the *Melchizedek* (lunette custodial insert), well positioned therein, and carefully wiped, so that particles may not subsequently fall from it
 
+=== LEAF p131 ===
 *(Physical Page 131 / Leaf p131 / Book Page 127)*
 
 and having been placed in this manner into the Melchizedek, it shall be consecrated at some preceding Divine Liturgy, and once consecrated, preserved in the Tabernacle until the actual exposition.
@@ -157,6 +168,7 @@ Finally, pastors must know that they ought to preserve the custom, already of ol
 
 1. As on the one hand the present Synod earnestly commendeth the celebration of the Order of the Akathist, chiefly because the people take a great part in the singing thereof, and repeat easy and moving refrains after the numerous kontakia and ikoi, as also because therein devout affections may frequently be aroused by dart-like, short petitions; so on the other hand it directeth that priests who chant this prayer together with the people shall celebrate the same truly devoutly and reverently, and not cursorily or by way of abbreviation. Since, however, the devout celebration of such prayer executed according to the prescription of the typikon requireth considerable exertion of the voice and chest, as also a duration of nearly half an hour, while the remuneration for it in many places is far too small, whence it ariseth that priests have become accustomed when singing it to abbreviate, or at least silently to recite a significant portion thereof: therefore the Synod decreeth that in the future this prayer shall always be sung entirely and in a moderate voice. In a case, however, where the remuneration offered is not sufficient, the priest may combine several such stipends, and only when the sum reacheth 40 cents, then chant the prayer. If, however, certain of the faithful desire to apply the said prayer for
 
+=== LEAF p132 ===
 *(Physical Page 132 / Leaf p132 / Book Page 128)*
 
 themselves, priests must know that, generally speaking, they may require for the celebration thereof a stipend of 40 cents.
@@ -169,6 +181,7 @@ themselves, priests must know that, generally speaking, they may require for the
 
 2. The celebration of the Order of the Paraklesis priests are bound to perform properly and accurately, observing always that devotion and gravity which befit divine worship; wherefore any abbreviation or curt truncation in the
 
+=== LEAF p133 ===
 *(Physical Page 133 / Leaf p133 / Book Page 129)*
 
 celebration thereof this Synod condemneth as impious and illicit, and utterly forbiddeth.
@@ -183,6 +196,7 @@ celebration thereof this Synod condemneth as impious and illicit, and utterly fo
 
 2. That the employment of sacred singing in our rite must be of greater weight is evident already from this, that among us musical instruments are not employed, but only the human voice alone, which is so much more noble than lifeless instruments as it is itself a living instrument of God's praise. And how capable singing is of arousing in the soul devout sentiments toward God, the great Luminary of the Catholic Church, St. Augustine, clearly expresseth in the following words: *"When I recall the tears which I shed at the singing of Thy Church in the beginnings of my recovered faith, even now I am moved myself not by the singing, but by the things which are sung, when they are sung with a clear voice and suitable modulation, and I acknowledge again the great utility of that institution."* [^133]
 
+=== LEAF p134 ===
 *(Physical Page 134 / Leaf p134 / Book Page 130)*
 
 3. That singing may attain its full end, it must be performed suitably unto so high an end, that is, *"with understanding,"* as the Royal Singer admonisheth. [^134] Above all things in singing the voice must be so modulated that this modulation may not stifle the clarity of the words, that is, so that not so much the vocal sounds of the singer may please, but rather that the sense of the sacred words may penetrate the soul. [^135]
@@ -193,6 +207,7 @@ celebration thereof this Synod condemneth as impious and illicit, and utterly fo
 
 6. As to singing by ear which already existeth in many places of this our ecclesiastical province, the Synod commendeth it to the utmost, as not only universally praiseworthy, but above all as exceedingly profitable and salutary, especially because by means thereof the faithful are more active in the sacred action itself, and become fuller participants in the holy divine service; so that not
 
+=== LEAF p135 ===
 *(Physical Page 135 / Leaf p135 / Book Page 131)*
 
 the cantors alone, but under their lead in singing the entire congregation may sing the principal responses and hymns, especially at the Divine Liturgy, and that in this manner the praise of God may resound as widely as possible among the faithful, and they themselves more readily and, as we have said, with greater profit may participate in divine worship.
@@ -206,12 +221,14 @@ Since, however, Churches for the most part do not possess sufficient funds for t
 
 ### Chapter VI: On the Celebration of Feast Days
 
+=== LEAF p136 ===
 *(Physical Page 136 / Leaf p136 / Book Page 132)*
 
 1. Although God ought to be glorified by every prayer and good works, and as St. John Chrysostom admonisheth: we Christians are commanded to keep festival unceasingly, doing nothing evil, for that is truly a feast, but turning our attention unto spiritual things and leaving earthly things, that we may rest with a spiritual rest, withholding our hands from greed, withdrawing the body from superfluous and unnecessary labors; [^136] nevertheless, above all, Sundays and holy days are dedicated unto the glorification of God, or unto divine worship and the sanctification of Christian life. Therefore these days dedicated unto spiritual good the faithful of Christ are bound to celebrate in an extraordinary manner, which obligation is laid upon us by God Himself. For God Himself after the six days of creation blessed the seventh day and sanctified it, ceasing on this day from all His work, [^137] and moreover commanded His people the celebration of this day under pain of death. [^138] In the New Testament the Church of Christ in place of the Sabbath day hath set Sunday, because on this day salvation was accomplished, as it were a second creation or regeneration of the world through the Resurrection of Jesus Christ, and was as it were sealed.
 
 2. But as in the Old Testament, besides the Sabbath day, God Himself instituted the celebration of yet other days, that in them year by year the more important events might be commemorated; so likewise in the New Testament the Church of Christ, guided by the Holy Spirit, besides the celebration of Sunday, hath established the keeping of yet other days, that in them each year the special mysteries of the Christian religion might be celebrated. But since in these chief mysteries together with Christ the Most Pure Virgin Mary had part above all, therefore unto the feasts of the Lord the Church hath joined several feasts of the Most Blessed Virgin, and finally throughout
 
+=== LEAF p137 ===
 *(Physical Page 137 / Leaf p137 / Book Page 133)*
 
 the entire circle of the year the feasts of the Saints, who together with Christ constitute in the Church triumphant the mystical body, and furthermore by the examples of their lives summon us unto participation in the Heavenly City.
@@ -221,12 +238,14 @@ When, therefore, the faithful are bound to keep the days established by the Chur
 
 4. As to other divine services and the hearing of the Word of God, although there is not so grievous a liability for every omission whatsoever, nevertheless they shall commend unto them, so far as possible, the most frequent presence thereat. But since regarding the hearing of the Liturgy, liturgical offices, and sermons, there hath been observed in many places that intolerable custom, that during their celebration many of the faithful make bold to promenade outside the church, or to stand and converse, or even to depart before the conclusion of the Divine Liturgy: therefore the Synod commandeth that pastors, wherever such abuses are found, shall strictly admonish such faithful and point out unto them that in this manner they do not at all satisfy the commandment of the Church; nay rather, they draw down upon themselves the wrath of God, as deceivers of Him and of themselves, following the example of St. John Chrysostom, who for similar abuses thus rebuked his faithful: *"What art thou doing, O man? When Christ is present, the Angels stand by, this awesome Table is set before thee, when as yet thy brethren are being initiated into the Mystery,*
 
+=== LEAF p138 ===
 *(Physical Page 138 / Leaf p138 / Book Page 134)*
 
 *dost thou leave them and depart? Why, if thou hadst been invited to a banquet, even if thou hadst been filled earlier, yet so long as others are seated, thou darest not depart before thy friends;—and here, when the Mysteries of Christ are being celebrated, when that holy sacrifice is still being offered, dost thou leave everything in the midst and depart? Who then shall judge this worthy of pardon? Who shall cleanse it with a defense? Do ye wish that I should tell whose work they perform who depart before the completion and end, and do not offer thanksgiving hymns after the finished Supper? Bitter perhaps will seem that which I say, yet it must needs be spoken on account of the negligence of many. When on that last night Judas had partaken of the Last Supper, and while all the rest were yet sitting, he himself, breaking away, went out. Him do they imitate who depart before the final act of thanksgiving... With great quietness therefore, with great modesty and fitting reverence let us approach this holy sacrifice, that we may obtain greater favor with God, purify our soul, and attain eternal blessings."* [^139]
 Moreover, let them urge upon the faithful that they be present, especially at the sacrifice of the Divine Liturgy, not merely in any casual manner, but with great devotion and reverence, as also that they frequently approach the reception of Holy Communion, which is of all means the most efficacious to sanctify oneself, and consequently also the holy day.
 Since the sacrifice of the Liturgy is the center and summit of divine worship and the sun of all spiritual exercises, pouring out upon men abundantly the gifts and graces of God: therefore let them not cease to urge upon the faithful that without grave cause they do not delay from hearing it, not only in their own Church, but also in the other churches of the same parish, demonstrating unto them the groundlessness of the reasons under pretext whereof some endeavor to excuse themselves from the obligation of going to the Church of another village. Nevertheless, since just causes may arise and indeed do arise, on account whereof for many of the faithful it is either
 
+=== LEAF p139 ===
 *(Physical Page 139 / Leaf p139 / Book Page 135)*
 
 very difficult, or even impossible, to go to another village to hear the Divine Liturgy: therefore, that the faithful may not be deprived of so many and so great gifts of God, let pastors know that they are bound in a Church within the territory of their parish wherein on that day no Divine Liturgy was celebrated, to celebrate at least Vespers with the addition of catechesis. If, however, a territory of that kind possesseth more than two churches, let them arrange that in the third and others, the church cantor himself, after the tolling of the bells, shall recite with the people some portion of the catechism, ordinary or daily prayers, and sing together with them some sacred folk hymn, to the end that the faithful at least in this manner may render due honor unto Christ the Lord hidden in the Most Holy Mystery of the Eucharist, and from Him in return be endowed with heavenly gifts.
@@ -235,6 +254,7 @@ very difficult, or even impossible, to go to another village to hear the Divine 
 Although on such days honorable recreation is not forbidden, nevertheless any entertainment worthy of condemnation entailing the corruption of morals is never permitted, as is wont to happen, as is well known, at dances which at times are accustomed to take place in taverns, with the addition of drunkenness and dissolute songs. *"For the Sabbath day,"* saith St. Augustine, *"is not carnally, not in the luxuries of the Jews, who abuse rest unto licentiousness; for it were better that they should dig all day, than dance or drink"*; and St. John Chrysostom saith: *"The time for prayers, not of drunkenness, is indeed always, but above all on a feast day; for a feast day was established for this, not that we should heap up sins, but that we should be rid of them."* [^140]
 Since for the celebration of such feasts there is likewise imposed by the Church abstinence from servile works,
 
+=== LEAF p140 ===
 *(Physical Page 140 / Leaf p140 / Book Page 136)*
 
 let pastors more frequently remind the faithful of the binding nature of that commandment, and at the same time let them thoroughly instruct them that that time of abstinence beginneth from midnight of the preceding day, and concludeth with midnight of the day following the feast.

@@ -1,4 +1,4 @@
-<!-- LEAF: p191 -->
+=== LEAF p191 ===
 
 4th; at the 9th: 5th; and at Vespers: 18th. On Thursday at Matins: 6th, 7th, and 8th; at the 1st Hour: 9th; at the 3rd: 10th; at the 6th: 11th; at the 9th: 12th; at Vespers: 18th. On Friday at Matins: 13th, 14th, and 15th; at the 1st Hour there is no kathisma; at the 3rd: 19th; at the 6th: 20th; at the 9th again there is no kathisma; and at Vespers: 18th. On Saturday at Matins: 16th and 17th; at the Hours there are no kathismata; and at Vespers: 1st.
 
@@ -10,7 +10,7 @@
 
 8. From September 22 unto December 20 in the same manner as from January 15 unto the Sunday of the Prodigal Son.
 
-<!-- LEAF: p192 -->
+=== LEAF p192 ===
 
 §. 130.
 
@@ -24,7 +24,7 @@ On Which Sundays Is the Resurrection Gospel Not Read, and When Is “Having Behe
 
 The Resurrection Gospel is not read on Sundays on which a feast of the Lord or of the Theotokos occurreth, for then the festal Gospel is taken.[^175] Likewise “Having Beheld the Resurrection of Christ” is omitted on feasts of the Lord, but on feasts of the Theotokos it is taken. Furthermore, the Resurrection Gospel is not read on Palm Sunday, when also “Having Beheld the Resurrection of Christ” is not said; for “Having Beheld the Resurrection of Christ” is said on Lazarus Saturday. From Pascha Sunday unto the Ascension, “Having Beheld the Resurrection of Christ” occurs also at daily Matins. At the Ascension, the 3rd Resurrection Gospel is read at Matins and “Having Beheld the Resurrection of Christ”
 
-<!-- LEAF: p193 -->
+=== LEAF p193 ===
 
 is said. — Finally, at the Descent of the Holy Spirit [Pentecost], “Having Beheld the Resurrection of Christ” is not read; but on the Feast of the “Exaltation of the Precious Cross” it is said.
 
@@ -67,7 +67,7 @@ Tone 6. Resurrection Gospel 1, from Matthew, pericope 116.
 Tone 7. Resurrection Gospel 2, from Mark, pericope 70.  
 Tone 8. Resurrection Gospel 3, from Mark, pericope 71.  
 
-<!-- LEAF: p194 -->
+=== LEAF p194 ===
 
 (d) The 4th Pillar begins in the Nativity Fast [Philip's Fast].
 
@@ -110,7 +110,7 @@ Concerning the Ordinary Katavasia.
 
 The Katavasia is sung on feasts of the Lord, of the Theotokos, and of Great Saints, and on Sundays, thus: From September 1
 
-<!-- LEAF: p195 -->
+=== LEAF p195 ===
 
 unto September 21 (that is, unto the Apodosis of the Feast of the Exaltation): “Tracing a cross, Moses” [*Krest nachertav Moisey*] and the other odes from the canon of the Feast of the Exaltation, Tone 8. From September 22 unto November 20: “I shall open my mouth” [*Otverzu usta moya*], Tone 4. From November 21 unto December 31: “Christ is born” [*Khristos razhdayetsya*], Tone 1. From January 1 unto the 14th, that is, unto the Apodosis of Theophany: “Thou didst uncover the bottom of the deep” [*Glubiny otkryl yesi dno*], Tone 2. From January 15 unto the Apodosis of the Encounter: “The sun once shone upon the dry deep” [*Sushu gluboroditelnuyu*], Tone 3. From the Apodosis of the Encounter (except the Sundays of the Forty Days [Great Fast] and the Fifty Days [Pentecostarion]) unto August 1: “I shall open my mouth” [*Otverzu usta moya*], Tone 4. From August 1 unto the Feast of the Transfiguration, and on the feast itself: “Tracing a cross, Moses” [*Krest nachertav Moisey*]. In the afterfeast of the Transfiguration and unto the Apodosis: “The choirs of Israel” [*Litsy Izrailtii*]. From August 14 unto the Apodosis of the Dormition: “Adorned with divine glory” [*Preukrashennaya Bozhestvennoyu*]. From the Apodosis of the Dormition unto September 1: “Tracing a cross” [*Krest nachertav*].
 
@@ -122,7 +122,7 @@ When Is “My Soul Doth Magnify the Lord” and “More Honorable than the Cheru
 
 “My soul doth magnify the Lord” is sung on Sundays throughout the whole year, on forefeasts, afterfeasts, and on weekdays. It is not sung, however: on feasts of the Lord and of the Theotokos, and on their apodoses; that is to say: at the Nativity of the Theotokos and at her apodosis; at the Exaltation of the Precious Cross and at its apodosis; at the Entry of the Most Holy Virgin and at its apodosis; at the Nativity of Christ, and on the
 
-<!-- LEAF: p196 -->
+=== LEAF p196 ===
 
 morrow [Synaxis] and at its apodosis; at the Circumcision; at Theophany, and on the morrow [Synaxis] and at its apodosis; furthermore on the feast days of our holy Fathers, the Great Hierarchs Basil the Great, Gregory the Theologian, and John Chrysostom; at the Encounter and at its apodosis; at the Annunciation; thereafter from Lazarus Saturday unto Thomas Sunday; on all the Sundays of the Fifty Days [Pentecostarion] (except the Sunday of the Holy Fathers) and at its apodosis; on the Wednesday before the Ascension; at the Ascension and at its apodosis; at the Descent of the Holy Spirit and at its apodosis; at the Transfiguration and at its apodosis; at the Dormition and at its apodosis. Only if a feast or the apodosis of any feast occurreth on a Sunday, then “More Honorable than the Cherubim” is sung.
 
@@ -142,7 +142,7 @@ What Else Is Worthy of Note?
 
 3. At Great Matins, if there is a feast of the Lord or of the Theotokos, after the Great Doxology only the troparion of the feast is sung; if, however, there is a feast of a Saint, then not only the troparion of the Saint, but at “Glory... Now and...” also the Resurrection Theotokion from the major ones according to the tone of the troparion of the Saint.
 
-<!-- LEAF: p197 -->
+=== LEAF p197 ===
 
 4. The dismissals of feasts of the Lord are performed as they are given; nor is it permissible in these to say erroneously thus: “...Christ our true God, through the prayers ... of the holy Ascension, whose feast we celebrate,” etc. In the dismissals of feasts of the Theotokos and of Saints, moreover, it is not permissible to say thus: “...through the prayers of His most pure Mother and of her honorable and glorious Nativity or Dormition,” etc., or: “through the prayers of the holy Forerunner John’s Nativity or Beheading,” etc., because we do not urge the Nativity of the Theotokos, nor her Dormition, nor the Nativity of the holy Forerunner John, nor his Beheading to prayer unto God, but their very persons. — The dismissal must rather be said as was stated above, p. 56.
 
@@ -156,7 +156,7 @@ Concerning Liturgical Celebrations.
 
 Liturgy (from the Greek word *leitón* [λειτόν] = public, common, and *érgon* [ἔργον] = work) in the broad sense (*sensu lato*) [*in the broad sense*] comprehendeth within itself all divine services, but in the strict sense (*sensu stricto*) [*in the strict sense*] by it is understood solely the unbloody sacrifice of the New Testament. And although the unbloody sacrifice of the New Testament in essence (*in essentia*) [*in essence*] is only one, nevertheless the manner of offering this sacrifice (*modus vel forma offerendi*) [*the manner or form of offering*] both in the East and in the West is not one, and that because both in the East and in the West many Liturgies exist. Among us the Liturgy of the Church of Constantinople [Tsarhorod] is used, and it is threefold, that is to say: (a) The Liturgy of Saint John Chrysostom, (b) the Liturgy of Saint Basil the Great, and (c) the Liturgy of Saint Gregory the Dialogist, or the Liturgy of the Presanctified Gifts.
 
-<!-- LEAF: p198 -->
+=== LEAF p198 ===
 
 Of these Liturgies, the Liturgy of the Presanctified Gifts is celebrated in the Great Fast on Wednesday and Friday; and in Passion Week on Monday, Tuesday, and Wednesday.
 
@@ -178,7 +178,7 @@ Concerning the Liturgies in General.
 
 In the Church of Constantinople [Tsarhorod], as was said, a threefold Liturgy was used, and is even now still used. Each
 
-<!-- LEAF: p199 -->
+=== LEAF p199 ===
 
 one of these Liturgies consisteth of three parts, namely: (a) Of the Proskomedia, (b) of the Liturgy of the Catechumens, and (c) of the Liturgy of the Faithful. We also in three articles shall speak: (a) Concerning the Liturgy of Saint John Chrysostom, (b) concerning the Liturgy of Saint Basil the Great, and (c) concerning the Liturgy of the Presanctified. In each article we shall describe also the aforementioned parts of the holy Liturgies.
 
@@ -196,7 +196,7 @@ The priest, wishing to celebrate the Liturgy, upon entering the temple, reciteth
 
 Upon the completion of this prayer, the priest, standing there, beginneth the usual prayers before the Proskomedia, saying: “Blessed is our God,” etc. “Amen.” “Heavenly King,” “Trisagion,” “Our Father.” After this the troparia: “Have mercy on us, O Lord,” etc. “Glory”: “Lord, have mercy on us,” etc. “Now and forever”: “Open unto us the doors of thy loving-kindness,” etc.
 
-<!-- LEAF: p200 -->
+=== LEAF p200 ===
 
 Upon the completion of this, bowing low, he departeth before the icon of the Savior, and there reciteth the troparion: “We bow down before Thy most pure icon, O Gracious One, asking forgiveness of our transgressions, O Christ God; for of Thine Own good will Thou wast pleased to ascend the Cross in the flesh, that Thou mightest deliver those whom Thou hadst created from the bondage of the enemy. Therefore, thankfully we cry aloud unto Thee: Thou hast filled all things with joy, O our Savior, Who camest to save the world; glory be to Thee!” And having bowed before the icon of the Savior, he goeth unto the icon of the Theotokos, and here reciteth the troparion: “Inasmuch as thou art a fountain of mercy, vouchsafe us compassion, O Theotokos; look upon a people that hath sinned; show forth as always thy power, for hoping in thee, we cry aloud unto thee ‘Rejoice!’ as once did Gabriel, the supreme commander of the bodiless hosts.” Upon the completion of this troparion he boweth before the icon, and standeth once again before the Holy Doors, and bowing his head (or with outstretched hands) reciteth the prayer: “O Lord, send down Thy hand from the height of Thy holy dwelling place, and strengthen me for this Thy service set before me, that uncondemned I may stand before Thy dread altar-throne and perform the unbloody sacrifice; for Thine is the power and the glory unto ages of ages. Amen.” After this, before the Holy Doors, he maketh three bows, and entereth into the holy Sanctuary [Altar],[^181] and striking his breast, saith: “O God, be merciful unto me a sinner!”
 

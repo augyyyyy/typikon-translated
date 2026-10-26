@@ -1,4 +1,4 @@
-<!-- LEAF: p251 -->
+=== LEAF p251 ===
 
 (p. 227)
 
@@ -10,7 +10,7 @@ III. If the Annunciation occurreth on the fasting days of the 4th, 5th, and 6th 
 
 If, however, there is no Liturgy of the Presanctified Gifts (if the forefeast be on Tuesday or Thursday), at “Lord, I have cried”: prosomia stichera from the Triodion, and of the feast 5. Entrance. Prokimenon and readings of the day and of the feast: 3 (of the Theotokos). And immediately the Royal Doors are closed. Then: “Vouchsafe, O Lord.” “Let us complete our evening prayer.” At the aposticha, the stichera of the Triodion, etc. After “Now Thou lettest depart”: the troparion of the feast. Litany: “Have mercy on us, O God,” and 3 great prostrations, and the dismissal. Before sunrise Great Compline is sung with litiya and the customary vigil prayers, as was prescribed on the feast of the Nativity of Christ. At the blessing of loaves, the troparion of the feast 3 times. At “God is the Lord”: the troparion of the feast 3 times. After the 1st kathisma, both Sessional Hymns of the Triodion without a litany. After the 2nd kathisma, a litany and the Sessional Hymn of the feast. The Polyeleos and the refrain of the feast in the Heirmologion. The Gospel of the feast, etc. Small Doxology without chanting. Litany: “Let us complete.” At the aposticha, the stichera of the Triodion. “Glory,” and “Now and,” of the feast. After “It is good to give praise,” the troparion of the feast once. Litany: “Have mercy on us, O God.” And at the end 3 great prostrations, saying only: “God, be merciful unto me a sinner.”
 
-<!-- LEAF: p252 -->
+=== LEAF p252 ===
 
 (p. 228)
 
@@ -26,7 +26,7 @@ VII. If the Annunciation occurreth on Great Friday:[^271] Vespers of the Annunci
 
 Great Compline, which formerly was celebrated for this feast with the sweet chanting of “God is with us,” is now not sung, nor is litiya celebrated, but only Matins itself of the Annunciation, which otherwise ought to be celebrated early on the very feast day, is now in the eve-
 
-<!-- LEAF: p253 -->
+=== LEAF p253 ===
 
 (p. 229)
 
@@ -34,7 +34,7 @@ ning of Great Thursday combined with the Passion [Gospels] of Christ in the foll
 
 In the morning on Great Friday at the sixth hour, the tolling is given not with the klepalo, but for the sake of the feast with the bells
 
-<!-- LEAF: p254 -->
+=== LEAF p254 ===
 
 (p. 230)
 
@@ -42,7 +42,7 @@ for the celebration of the Hours; and the priest, having come unto the church in
 
 Although on Great Friday the Divine Liturgy generally doth not take place, nevertheless for the sake of the solemn feast of the Annunciation there is a departure from this rule, and on the Annunciation falling on Great Friday the Liturgy of Chrysostom with Vespers is to be celebrated in the following order: When at the 10th hour before noon the peal of bells is given not with the klepalo, but for the sake of the feast with the chiming of bells, then the priest, having vested in festal vestments, beginneth the Liturgy of Chrysostom with Vespers, at which at “Lord, I have cried,” there are taken the stichera of the day on 6 (“All creation is changed”), and of the Feast of the Annunciation on 4 (“In the sixth month”)... “Glory,” of the day (“O how the lawless assembly”); “Now and forever,” of the feast (“The Angel was sent”); then the entrance with the Gospel, Prokimenon, readings of the day (“The Lord said”) and of the feast 2 readings (“Moses entered,” “The Lord created me” [Prov. 8:22]). — After these, the small litany, “For holy art Thou, O our God.” The Trisagion, Prokimenon, Epistle, and Gospel first of the feast, Luke, peric. 3: “In the sixth month the Angel was sent” [Luke 1:26], then the Gospel of the day, Matthew, peric. 110: “When morning was come, they took counsel” [Matt. 27:1]... and so forth in course the Liturgy of Chrysostom; at the Commemoration of the Theotokos [“Especially”] the Heirmos of the feast is sung: “As of a living Ark of God”; then the great bell is tolled, and from that time the bells fall silent even unto the most bright Resurrection of Christ; — after the Prayer behind the Ambo and after “Blessed be the name of the Lord,” when the choir beginneth to sing the aposticha stichera: “When Joseph took Thee down dead from the Tree,” then the priest divesteth himself of the festal vestments, for the feast of the Annunciation is already completed, and having vested in black vestments, censeth the Plashchanytsia upon the Altar-Table, and after “Now Thou lettest depart,” taking it upon his shoulders, goeth forth through the Royal Doors and carrieth it around the church according to custom in procession, with the chanting of: “The noble Joseph”; and from that time it will be necessary always to sound the klepalo and not to ring the bells. And the priest, having returned into the church, layeth the Plashchanytsia into the tomb, or upon another prepared place adorned with burning candles, and having censed it, having ascended the pul-
 
-<!-- LEAF: p255 -->
+=== LEAF p255 ===
 
 (p. 231)
 
@@ -60,7 +60,7 @@ Concerning Processions.
 
 Processions among us are performed thus: after the Divine Liturgy, after “Blessed be the name of the Lord,” the priest proclaimeth on the ambo: “Let us go forth in peace”; whereunto the choir singeth: “In the name of the Lord,” and they go forth outside the church. In front goeth the cross-bearer; behind him go the people with processional banners, and thus goeth the cantor, and after him the priest, holding the holy Cross in his hands, with candle-bearers preceding.
 
-<!-- LEAF: p256 -->
+=== LEAF p256 ===
 
 (p. 232)
 
@@ -79,7 +79,7 @@ At processions the Gospels also are read in such wise that the priest proclaimet
 
 At those processions which are made unto designated places (as for example on the feast of Theophany, or for the bles-
 
-<!-- LEAF: p257 -->
+=== LEAF p257 ===
 
 (p. 233)
 
@@ -101,7 +101,7 @@ Ecclesiastical sanctifications and blessings, however, through which a sinner is
 
 Nevertheless, between the Holy Mysteries and ecclesiastical sanctifications and blessings there is such a distinction, that: (a) The Holy Mysteries are instituted by Jesus Christ (*institutionis divinae* [*of divine institution*]), and are visible signs of invisible grace, which they have annexed unto them (*habent adnexam gratiam* [*they have grace annexed*]); whereas ecclesiastical blessings and sanctifications are instituted by the Church (*institutionis ecclesiasticae* [*of ecclesiastical institution*]), and although they too are visible signs, nevertheless they do not have grace annexed unto themselves (*non habent adnexam gratiam* [*they do not have grace annexed*]), but only prepare for it or increase it in men. — (b) Through the Holy Mysteries we receive the grace of God unfailingly “by the power of the completed action” (*ex opere operato* [*by the work worked*]), whereas through ecclesiastical sanctifications and blessings “by way of intercession” (*ex opere operantis* [*by the work of the worker*]), in consideration of the prayers and merits of the Church and of the interior preparation of our soul.
 
-<!-- LEAF: p258 -->
+=== LEAF p258 ===
 
 (p. 234)
 
@@ -117,13 +117,13 @@ The rite of Holy Baptism is divided into 3 parts: (α) Actions performed before 
 
 The first part of the rite of Holy Baptism correspondeth unto the ancient catechumenate, and in brief is an aggregate of those actions of Holy Bap-
 
-<!-- LEAF: p259 -->
+=== LEAF p259 ===
 
 (p. 235)
 
 tism which before the bringing of the one to be baptized into the church are performed in the narthex. That is to say: the priest cometh into the narthex vested in epitrachelion and phelonion, holding in his hands the holy Cross, where those who brought the child already await him. Here the priest first with great diligence inquireth concerning the parents and concerning their faith; after this: “Who are the sponsors that receive the child from the holy font?”[^277] After this, bestowing a name upon the child, he signeth his head with the sign of the holy Cross 3 times, saying: “In the name of the Father, and of the Son, and of the Holy Spirit,” etc.; and having laid his right hand upon the head of the child, he reciteth the prayer: “In Thy name, O Lord...” etc. After this prayer follow the 3 exorcisms, — and immediately the 2nd prayer: “O Master, Lord, Who hast created man...” in which, when the priest speaketh the words: “Drive out from him (or: from her) every evil and unclean spirit,” etc., he bloweth upon the forehead, the mouth, and the breast of the child (these words the priest speaketh 3 times, and likewise bloweth 3 times); upon the conclusion of this, the prayer is concluded with the words: “...now and forever, and unto the ages of ages. Amen.” — After this prayer the priest turneth the one to be baptized with his face toward the west, and commandeth the sponsors to do likewise, of whom he inquireth 3 times in the present tense: “Dost thou renounce Satan, and all his works, and all his angels, and all his service, and all his pride?” etc., whereunto the catechumen or the sponsors answer: “I renounce him.” — After this the priest again inquireth of them in the past tense: “Hast thou renounced Satan?” etc., and they answer: “I have renounced him.” And immediately the priest biddeth them to blow and spit upon the ground (that is, upon Satan); and when they have done this, again at the command of the priest they turn toward the east. — After this the priest inquireth of them: “Dost thou unite thyself unto Christ?” whereunto they answer 3 times: “I do unite myself.” — This he inquireth of them also in the past tense, saying: “Hast thou united thyself unto Christ?” whereunto they answer: “I have united myself.” Finally the priest inquireth of them: “Dost thou believe in Christ?” and they answer: “I believe”; and entering into the nave, they recite the Creed. During this the priest, having laid the epitrachelion upon the one to be baptized, saith: “He shall enter into Thy house, he shall worship toward Thy holy temple,” etc., — and immediately — when he hath already entered into the nave — he saith: “Blessed is our God, Who desireth that all men should be saved,” etc. And herewith the 1st Part is concluded.
 
-<!-- LEAF: p260 -->
+=== LEAF p260 ===
 
 (p. 236)
 

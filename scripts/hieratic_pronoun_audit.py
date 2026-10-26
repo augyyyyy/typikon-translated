@@ -59,7 +59,7 @@ HUMAN_INDICATORS = re.compile(
     r'hands|his hands|his head|head|lips|my lips|mouth|eyes|ears|feet|knees|'
     r'kneeleth|kneeling|kneels|standeth|stands|prostrateth|prostrates|censing|reciteth|recites|taketh|takes|speaks|saying|signs|'
     r'he that|him that|he who|him who|those who|whosoever|whoever|God speed|bid him|biddeth|'
-    r'Theotokos|Mother of God|Virgin Mary|Ever-Virgin|Most Holy Lady|Our Lady|Virgin|incarnate of)\b',
+    r'Theotokos|Mother of God|Birth-giver of God|Virgin Mary|Ever-Virgin|Most Holy Lady|Our Lady|Virgin|Sion|Zion|all-pure Mother|pure Mother|Sovereign Lady|all-lauded|incarnate of|incarnate from)\b',
     re.IGNORECASE
 )
 

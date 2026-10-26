@@ -19,7 +19,7 @@
 
 ## Workspace Directory Map
 * **Workspace Root**: `Liturgical Monuments/Monument 5 - 1888 Violakis Typikon`
-  - `Source Text/images/`: 300 DPI high-resolution page renders (`p1.png`, `p2.png`, etc.)
+  - `Source Text/images/`: 300 DPI high-resolution page renders (`Page_0001.jpg`, `Page_0002.jpg`, etc.)
   - `Source Text/`: Ink transcriptions (`1888_violakis_typikon_cohort{k}_source.txt`)
   - `Draft/`: Draft translations (`1888_violakis_typikon_cohort{k}_raw_draft.md`) and cohort footnotes (`1888_violakis_typikon_cohort{k}_footnotes.txt`)
   - `Final/`: Promoted cohort files and cumulative `Final_footnotes.txt`

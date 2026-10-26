@@ -1,6 +1,6 @@
 # Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852) — Cohort 13 (Leaves p121–p130)
 
-<!-- LEAF: p121 -->
+=== LEAF p121 ===
 
 [Book Page 238]
 
@@ -25,7 +25,7 @@
 
 *The klepalo is struck for Matins at the 6th hour of the night [12:00 midnight]. And when they have assembled in church, the Priest vesteth in black...*
 
-<!-- LEAF: p122 -->
+=== LEAF p122 ===
 
 [Book Page 240]
 
@@ -43,7 +43,7 @@
 
 *At a late hour of the day Vespers is sung together with the Liturgy of Saint Basil the Great according to custom. The Priest vesteth in black vestments. At* **"Lord, I have cried"** (*Господи воззвахъ*), *we set 8 verses. Entrance with the Gospel.* **"O Gladsome Light"** (*Свѣте тихій*). *The Prokeimenon is not said. But immediately the Priest or Deacon:* **"Wisdom!"** *And the reader beginneth the readings of the day from the Triodion according to their order, and the verses with the refrain. All the readings are 15 in number. At the conclusion of the readings, the Little Ectene. The Priest, the exclamation:* **"For holy art Thou, our God."** *Instead of the Trisagion, we sing:* **"As many as have been baptized into Christ have put on Christ. Alleluia"** (*Елицы во Христа креститеся, во Христа облекостеся. Аллилуіа*). *Prokeimenon. Epistle to the Romans, pericope 91 [Romans 6:3–11]. Alleluia is not said; but after the Priest saith:* **"Peace be unto thee"**, *immediately the reader saith:...*
 
-<!-- LEAF: p123 -->
+=== LEAF p123 ===
 
 [Book Page 242]
 
@@ -64,7 +64,7 @@
 
 *At the hour of Matins [immediately after midnight: 12:00 AM] the sacristan kindleth all the tapers and lamps. Then the Priest vesteth [in cathedral temples the Superior with the priests and deacons] in all his brightest vestments. And he distributeth candles unto the brethren. Thereafter, when the Priest hath censed the Plashchanytsia, they begin to sing the burial troparion:* **"When Thou didst descend unto death, O Life Immortal"** (*Егда снизшелъ еси къ смерти животе безсмертный*); *[and they sing it in Tone 2, to the melody:* **"The Noble Joseph"**]. *While this is sung, the Plashchanytsia is taken up and laid upon the Holy Table. Then the Priest [the Superior], having taken the Precious Cross [according to local custom, the pyx with the Divine Mysteries], and the Deacon taking the censer, issueth forth through the North Door, the Deacon preceding him with two tapers, and both choirs singing the sticheron of the Triodion, Tone 6:* **"Thy Resurrection, O Christ our Saviour, the Angels sing in the heavens: and make Thou us worthy on earth to glorify Thee with a pure heart"** (*Воскресеніе твое Христе спасе, аггели поютъ на небеси*). *Then they ring all the bells. And thus we issue forth outside the church and go in procession around the entire church. Thereafter, all having stood before the holy doors [and the Priest having placed the pyx with the Divine Mysteries in the tabernacle], the church doors which face westward are shut. Then the Priest taketh the censer from the Deacon into his right hand, and the Cross into his left, and censeth the icons and the people according to custom, as they stand with...*[^274]
 
-<!-- LEAF: p124 -->
+=== LEAF p124 ===
 
 [Book Page 244]
 
@@ -78,7 +78,7 @@
 
 *...the Superior beginneth the Canon, the Heirmos in Tone 1:* **"The Day of Resurrection"** (*Воскресенія день*). *And at the beginning of the canon the Superior [the Priest] censeth the holy icons, and both choirs, and all the people according to rank, making a full procession with the censer; and censing, he greeteth each one, saying:* **"Christ is risen!"** *At the other odes the other priests cense, if there be any. And after each ode there is a Little Ectene outside the sanctuary on this holy day. The exclamation is by the Priest from within the sanctuary. At the 9th Ode, the refrain:* **"The Angel cried unto her that is full of grace: O pure Virgin, rejoice! And again I say, rejoice! For thy Son is risen from the tomb on the third day"** (*Аггелъ вопіяше*); *and:* **"Shine, shine, O new Jerusalem"** (*Свѣтися, свѣтися*). *Exapostilarion:* **"Having fallen asleep in the flesh as a mortal, O King and Lord, on the third day Thou didst rise again..."** (*Плотію уснувъ*), *thrice. Thereafter they sing:* **"Let every breath praise the Lord"** (*Всякое дыханіе*), *in Tone 1, and we sing at the Praises 4 Resurrectional stichera. Then both choirs, having united, sing the Paschal stichera, Tone 5, with their verses:* **"Let God arise"**; **"A Pascha sacred hath appeared unto us today..."** (*Пасха священная*), *and the rest. Glory, now and ever:* **"The Day of Resurrection"** (*Воскресенія день*). *Then:* **"Christ is risen"**; *and we sing this many times, while the priests and brethren kiss one another. Thereafter the Superior, having taken the Precious Cross, standeth outside before the Holy Doors of the church. Likewise also all the priests, as many as there be, and the deacons, each of them having taken the Holy Gospel and the precious icons according to their order, stand all in a row on the right side of the Superior. And there come first the most venerable members of the clergy and elders, and thereafter the laity one by one. And they bow slightly before the Superior. And each of them kisseth the Precious Cross and the Holy Gospel which the Priest holdeth, and the other icons, and also the hand of the Superior himself, saying:...*[^276]
 
-<!-- LEAF: p125 -->
+=== LEAF p125 ===
 
 [Book Page 246]
 
@@ -94,7 +94,7 @@
 *...likewise facing east; the other priests stand in diverse places from the Holy Table unto the western doors of the church, one by one; and after all of them standeth the Archdeacon. And all read the Gospel in turn after the Superior, pericope by pericope, as the Superior arrangeth. And at every exclamation or pericope of the Gospel they strike the bells. Instead of* **"It is truly right"**, *we sing:* **"The Angel cried unto her that is full of grace: O pure Virgin, rejoice! And again I say, rejoice! For thy Son is risen from the tomb on the third day"**; *then the Heirmos:* **"Shine, shine, O new Jerusalem"**. *When the Priest saith:* **"With fear of God and faith draw near"**, *we sing instead of* **"Blessed is he that cometh"**: **"Christ is risen"**, *once. Priest:* **"Save, O God, Thy people"**; *and we:* **"Christ is risen"**, *once. When the Priest proclaimeth:* **"Always, now and forever, and unto the ages of ages"**, *we:* **"Christ is risen"**, *once. Instead of:* **"Blessed be the name of the Lord"**: **"Christ is risen"**, *many times. Then the Priest, instead of:* **"Glory to Thee, O Christ God"**, *singeth:* **"Christ is risen from the dead, trampling down death by death"**; *and the choir:* **"And upon those in the tombs bestowing life."** *Thereafter the Priest saith the Dismissal with the Cross, as was indicated at Matins.*[^277]  
 ☞ *Be it also known: That the doors of the church sanctuary [the Royal Doors] and the small side doors throughout all churches are not shut throughout the entire Bright Week, even during the time of communion.*
 
-<!-- LEAF: p126 -->
+=== LEAF p126 ===
 
 [Book Page 248]
 
@@ -119,7 +119,7 @@
 
 *At Vespers, after* **"Christ is risen"** *and the rest, we sing* **"Lord, I have cried"**, *and set 6 verses, as on Sunday. Entrance with the censer.* **"O Gladsome Light."** *The Great Prokeimenon. And immediately the ectene:* **"Let us all say."** *(There is no Gospel). And the rest, as was prescribed for Sunday, and the Dismissal. In this manner we sing Vespers through the entire Bright Week.*
 
-<!-- LEAF: p127 -->
+=== LEAF p127 ===
 
 [Book Page 250]
 
@@ -144,7 +144,7 @@
 
 *When the Priest hath blessed, we say:* **"Christ is risen"** *thrice. Then the Trisagion [* **"O Heavenly King"** *is not said until the Descent of the Holy Spirit]; after* **"Our Father"**, **"Lord, have mercy"** *12 times. Glory, now and ever:* **"O come, let us worship"** *thrice. Psalm:* **"Bless the Lord, O my soul"**, *and the rest. At* **"Lord, I have cried"**, *stichera of the feast 3, and of the saint 3. Glory of the saint; if there be none, Glory, now and ever, of the feast. Entrance. The Great Prokeimenon of the Triodion. Aposticha as arranged in the Triodion. After* **"Now lettest Thou"**, *troparion of the saint; Glory, now and ever, of the feast:* **"With the tomb sealed."** *And the Great Dismissal. In this manner therefore taketh place the order of Vespers on all Sundays of the Holy Pentecostarion.* ☞ *From this day we sing the services also of the saints throughout the entire Pentecostarion. Compline is Small. After* **"It is truly right"** *and after* **"Our Father"**, *we say the kontakion of the feast throughout the entire Pentecostarion.*
 
-<!-- LEAF: p128 -->
+=== LEAF p128 ===
 
 [Book Page 252]
 
@@ -169,7 +169,7 @@
 *At* **"Lord, I have cried"** (*Господи воззвахъ*), *we set 10 verses. And we sing 4 Resurrectional stichera, and of the Myrrhbearers with the Litiya stichera on 6 [for Litiya taketh not place among us]. Entrance. At the Aposticha, one Resurrectional sticheron in order in the Triodion. Then the Paschal stichera:* **"Let God arise"**; *Glory, now and ever, Tone 5:* **"Thou Who clothest Thyself with light"**. *After* **"Now lettest Thou"**, *troparion:* **"When Thou didst descend unto death"**; *Glory:* **"The Noble Joseph"**; *now and ever:* **"Unto the Myrrhbearing Women"**. *At the Midnight Office the Triadic Canon is sung according to custom.*  
 *At Matins, after the Blameless [Amomos], troparia:* **"The Angelic Council"**, *and the Hypakoë of the Tone. Gradual hymns and Prokeimenon of the Tone. Gospel of Mark, pericope 4 [Mark 16:9–20].* **"Having beheld the Resurrection of Christ"** *thrice, and the rest. Canon of Pascha. Then another Canon of the Theotokos, whose troparia are sung likewise as those of Pascha. And the Canon of the Myrrhbearers on 8. Katavasia of Pascha. At...*[^281]
 
-<!-- LEAF: p129 -->
+=== LEAF p129 ===
 
 [Book Page 254]
 
@@ -205,7 +205,7 @@
 
 *On Tuesday evening, after the 4th hour [that is, after 4:00 PM], the Priest maketh the beginning with the censer and candle, the Royal...*
 
-<!-- LEAF: p130 -->
+=== LEAF p130 ===
 
 [Book Page 256]
 

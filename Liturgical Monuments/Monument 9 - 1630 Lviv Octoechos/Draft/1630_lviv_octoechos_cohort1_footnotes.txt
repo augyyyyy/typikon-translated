@@ -1,0 +1,41 @@
+[^1]: Physical description of the binding of the 1630 Lviv Octoechos: blind-tooled brown calfskin over bevelled wooden boards with concentric ornamental rolls, rosettes, and geometric strapwork. In the central oval mandorla medallion is embossed the Crucifixion of Christ with the Most Holy Mother of God and Saint John the Theologian standing at the foot of the Cross. Three brass clasps on leather straps are preserved along the fore-edge.
+
+[^2]: Library classification and accession shelfmarks: "LNBU 2124, SV-97", representing the holdings of the Lviv National Scientific Library of Ukraine named after V. Stefanyk (Department of Manuscripts and Rare Books), where this copy is preserved.
+
+[^3]: Mounted fragments of an early Cyrillic printed liturgical edition (containing Resurrectional stichera from an Octoechos), affixed to the front flyleaf during a historical binding repair.
+
+[^4]: 17th/18th-century liturgical annotations in semi-uncial and cursive by a parish cantor or reader, citing folio 171 verso, the Tone 6 Gradual Antiphon 1 ("Unto heaven I lift up mine eyes"), the Tone 6 Prokeimenon ("O Lord, stir up Thy might..."), and Paschal cycle calculations.
+
+[^5]: Mounted printed fragments on the flyleaf verso preserving Church Slavonic Gradual Antiphons (Anabathmoi) based on Psalm 126 (LXX): "Unless the Lord build the house..." (Аще не Господь созиждетъ домъ...).
+
+[^6]: Parish ownership inscription dated 1838: "Oktoich Cerkwi Borchowskiey 1838", attributing the book to the Church of the Dormition in the village of Borkhiv near Lviv.
+
+[^7]: A humorous cantor's note in Polish orthography recording a vernacular Ruthenian ditty: "Oy pope popoyku pryichaly władyki / chot' nam kony wziaty nie / wim meje semoho klasa wspinjuty" ("O priest, dear little priest, the hierarchs have arrived! Even if they want to take our horses, I do not know how to sing my seventh tone!"), signed by the cantor Kaniwczyk *manu propria*.
+
+[^8]: A reader's chronological calculation in pencil inscribed in 1964: "1964 - 1630 = 334", calculating the 334th anniversary of the monument's publication.
+
+[^9]: Engraved architectural title page of the 1630 Lviv Octoechos (*Октоихъ, сирѣчь Осмогласникъ*), printed in red and black cinnabar/carbon ink by the Lviv Dormition Stauropegion Brotherhood under the blessing of the Ecumenical Patriarch of Constantinople. Imprint dated December 15, 7138 / 1630. The printer's device displays the coat of arms of Lviv (a three-turreted gate with a passant lion) and the Brotherhood's initials (G-A-V-L).
+
+[^10]: Heraldic woodcut of the coat of arms of the Mohyla family, Voivodes of Moldavia, surrounded by the initials P-B-M-M-K-P, accompanied by a six-line panegyric epigram in Ruthenian verse celebrating their valor and eternal heavenly renown (*"Снѣжныи знаки за Клейнотъ маютъ..."*).
+
+[^11]: A two-column manuscript replacement leaf in 17th/18th-century semi-uncial supplying the missing opening of the Weekday Midnight Office (*Полунощница повседневная*), replacing lost or damaged printed folios of the 1630 edition.
+
+[^12]: Manuscript continuation of the Weekday Midnight Office, containing the prayers of Saint Eustratius and Saint Mardarios (*Владыко Боже, Отче Вседержителю...*), concluding with the mutual forgiveness formula.
+
+[^13]: Dedicatory preface (*Премова*) by the Lviv Dormition Brotherhood addressed to Archimandrite Petro Mohyla of the Kyiv Caves Monastery (later Metropolitan of Kyiv), honoring his noble Moldavian lineage and lavish benefactions to the Lviv Brotherhood.
+
+[^14]: Conclusion and date of the dedicatory preface to Petro Mohyla: Lviv, December 25, 1631 (from the Incarnation, 7139 / 1631), signed by the Stauropegion Brotherhood of Lviv.
+
+[^15]: Tone 1 begins on Folio 1r with Great Vespers for Saturday evening. The text is supplied by a calligraphic 17th/18th-century manuscript replacement leaf imitating early Cyrillic liturgical type.
+
+[^16]: Saturday Great Vespers Stichera and the Dogmatic Theotokion of Tone 1 (*"Всемирную славу..."*), extolling the Virgin Mary as the heavenly gate and temple of the Godhead.
+
+[^17]: Saturday Great Vespers dismissal, Resurrectional Troparion of Tone 1 (*"Камени запечатанну..."*), Theotokion (*"Гаврїилу провѣщавшу..."*), and rubrics for the beginning of Sunday Matins.
+
+[^18]: Sunday Matins Sessional Hymns (Kathisma 1 and 2) in Tone 1, commemorating the angel at the tomb and the overthrow of Hades.
+
+[^19]: Sunday Matins Hypakoe and Songs of Ascents (Anabathmoi, Antiphons 1–3) in Tone 1, meditating upon divine longing in the wilderness and the heavenly Jerusalem.
+
+[^20]: Sunday Matins Prokeimenon, Gospel order, and the Resurrectional Canon of Tone 1 by Saint John Damascene, containing the Heirmoi of Odes 1 through 6.
+
+[^21]: Sunday Matins Resurrectional Kontakion and Ikos in Tone 1 (*"Воскреслъ еси яко Богъ из гроба..."*), followed by the Heirmoi of Odes 7 and 8.

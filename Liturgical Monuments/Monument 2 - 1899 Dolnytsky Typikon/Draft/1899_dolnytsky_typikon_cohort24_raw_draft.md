@@ -1,10 +1,10 @@
-[Leaf p461 / Page 459]
+=== LEAF p461 ===
 
 the Holy Mysteries from the top of the Tabernacle (*Skynia*), and having placed them upon the Iliton, steps back a little to the side; and the Hierarch (or presiding Priest), having censed the Holy Mysteries thrice according to custom, and put on the Omophorion, standing up and ascending the steps, and having bowed down, receives the Holy Mysteries from the hands of the Deacon, turns toward the people, and when he begins to sing the Sticheron **"Jesus is risen from the tomb"** (*Воскре́съ І҆исꙋ́съ ѿ гро́ба*), while all the bells chime joyfully, the Procession around the church takes place, in all respects as was depicted on Great Friday at Vespers, here on page 445, except for the Plashchanytsia, which here, by order of Cardinal Sembratovych of blessed memory, is not to be carried, because it does not agree with the joy of the Resurrection; rather, it is fitting to carry the Icon of the Resurrection, as the Triodion has it at the beginning of Paschal Matins during the Procession to the church doors. And when the Superior begins to sing the Sticheron **"Jesus is risen from the tomb"**, the Choirs and the people follow in singing the same, and they sing it, repeating it until the Procession is completed, that is, a threefold, or at least a single circuit around the church, which when it is completed, all enter into the church, while the banner-bearers and icon-bearers remain before the church doors to avoid commotion during the second Procession; while in the church the cross-bearer with two candle-bearers, the Brotherhood, the Choirs, and the Clergy arrange themselves for the Procession; and when the sacred ministers have entered into the Sanctuary, the Superior ascends the Altar, and having turned toward the people, blesses them with the Holy Mysteries, saying in a gentle voice: **"Save, O God, Thy people, and bless Thine inheritance"** (*Спасѝ, Бо́же, лю́ди Твоя̀, и҆ благословѝ достоя́нїе Твоѐ*); and having set down the Holy Mysteries upon the Altar, he descends before the steps, bends his knees, and having laid aside the Omophorion, censes the Holy Mysteries thrice according to custom; and the Deacon, having approached the Holy Mysteries and bowed deeply, removes them with the lunette from the Monstrance (*Darookazalnytsia*), and places them into the Tabernacle (*Kivot*),
 
 ---
 
-[Leaf p462 / Page 460]
+=== LEAF p462 ===
 
 and the Tabernacle (*Kivot*) into the Ark (*Skynia*), and having bowed down, closes it. And where there is no Monstrance (*Darookazalnytsia*), the Holy Mysteries are exposed with the Tabernacle (*Kivot*), and with it are closed in the Ark (*Skynia*).
 
@@ -16,7 +16,7 @@ and the Tabernacle (*Kivot*) into the Ark (*Skynia*), and having bowed down, clo
 
 ---
 
-[Leaf p463 / Page 461]
+=== LEAF p463 ===
 
 Holy Table, first of all the Icon of the Resurrection of Christ, usually upon the Artos, and other venerable Icons, and Reliquaries, and the most precious Gospels, or whatever else of sacred things, all these according to the number of Priests who intend to give them to the people to kiss at the end of Matins; while outside before the church doors the beginning of Matins takes place thus.[^620]
 
@@ -24,13 +24,13 @@ Holy Table, first of all the Icon of the Resurrection of Christ, usually upon th
 
 ---
 
-[Leaf p464 / Page 462]
+=== LEAF p464 ===
 
 and when the Choirs have answered: **"Amen"**, having handed over the Censer, he sings with a loud voice the Troparion **"Christ is risen"**, then all sing the same; and a second time the Priest sings the same, and all the same; and a third time the Priest sings the same, and all the same; then the Priest in a clear voice proclaims the Verses, while all after each verse chant the same Troparion once.[^622] Finally the Priest, having sung in a higher voice the same Troparion only up to **"trampling down death by death"** inclusively, opens the doors, while all conclude: **"and upon those in the tombs bestowing life"**; and while all the bells are rung again, all enter into the church.[^623] But the Morning Prayers at
 
 ---
 
-[Leaf p465 / Page 463]
+=== LEAF p465 ===
 
 Paschal Matins throughout all of Bright Week are not said, because these are linked to the Six Psalms, and since the latter here give way, the Prayers also give way. If the Prayers were to be said, the Typikon would have had to indicate where to say them, for during the Verses **"Let God arise"**, which occupy the place of the Six Psalms, they cannot be said, for at that time the Typikon commands the Priest to pronounce the verses, and not to add the Prayers besides.
 
@@ -42,7 +42,7 @@ Paschal Matins throughout all of Bright Week are not said, because these are lin
 
 ---
 
-[Leaf p466 / Page 464]
+=== LEAF p466 ===
 
 once. The Priest sings the Heirmoi, and the Choirs sing the Troparia and Katavasia. Refrain to the Troparia of the Canon: **"Christ is risen from the dead"** (*Христо́съ воскре́се и҆зъ ме́ртвыхъ*); at the penultimate, **"Glory"** (*Сла́ва*), and at the last, **"Both now"** (*И҆ ны́нѣ*), according to custom.
 
@@ -56,19 +56,19 @@ After the 3rd Ode, the Hypakoe; after the 6th, the Kontakion and Ikos, and **"Ha
 
 ---
 
-[Leaf p467 / Page 465]
+=== LEAF p467 ===
 
 7. **The Kiss of Peace.** This in the Typika is appointed at **"Christ is risen"** at the conclusion of the last Sticheron of Pascha; nevertheless, today we do not kiss one another, as the Sticheron has it, saying: **"and let us embrace one another"**, but only the Venerable Cross, the Gospel, and the Holy Icons held by the Priests, who greet each of those approaching with the words: **"Christ is risen"**, and receive the response: **"Truly He is risen"**. Furthermore, we begin the kiss not after the Paschal Stichera, but at their beginning at the Verse **"Let God arise"**, because of the many people approaching for the kiss. When very many approach, the kiss takes place even during the Canon. And this kiss according to our custom takes place thus: if there be only one Priest, he, standing in the Royal Doors, gives the Cross from there to the people to kiss, saying to each: **"Christ is risen"**, and the one kissing answers: **"Truly He is risen"**. If there be more Priests, first the Superior, having gone out with the Cross in his hand from the Royal Doors, stands before the Iconostasis on the right side, that is, by the Icon of the Savior, looking toward the north; and the second Priest, having gone out after him from the Royal Doors with the Gospel, approaches him, and the Superior gives him the Cross to kiss, saying: **"Christ is risen"**, and he having kissed it gives him the Gospel to kiss, answering: **"Truly He is risen"**, and takes his stand at his left hand; then the third Priest, having gone out with the Icon of the Resurrection of Christ, approaches the first, who gives him the Cross to kiss, saying: **"Christ is risen"**, and he having kissed it gives him the Icon of the Resurrection to kiss, answering: **"Truly He is risen"**; and he approaches the second Priest, who gives him the Gospel to kiss, saying: **"Christ is risen"**, and he having kissed the Gospel gives him the Icon of the Resurrection to kiss, answering: **"Truly He is risen"**, and
 
 ---
 
-[Leaf p468 / Page 466]
+=== LEAF p468 ===
 
 takes his stand at the left hand of the second. And the fourth Priest, having gone out with the Icon of the Theotokos, approaches the first, then the second and the third, each of whom gives him his sacred object to kiss, saying: **"Christ is risen"**, and he having kissed it gives each of them the Icon of the Theotokos to kiss, answering: **"Truly He is risen"**; and in this manner do also the other Priests, as many as there be. In Cathedral Churches the Hierarch, sitting upon his Throne by the Icon of the Savior, gives the Cross to kiss, and likewise the Choir-clerics, each giving his sacred image to kiss, sitting upon the benches. When the kiss has been completed among the Priests, then the other sacred ministers and all the people approach one by one to each Priest according to rank, beginning from the first, and kiss his sacred emblem, answering: **"Truly He is risen"**.[^626] After the kiss there was sometimes read the Catechetical Homily of Chrysostom, which is in the Flowery Triodion.
 
 ---
 
-[Leaf p469 / Page 467]
+=== LEAF p469 ===
 
 8. **Ektenias:** **"Have mercy on us, O God"** (*Поми́луй на́съ, Бо́же*) and **"Let us complete"** (*И҆спо́лнимъ*), by the Deacons standing at the accustomed place.
 
@@ -92,7 +92,7 @@ Then elevating the Cross, he says: **"Christ is risen!"** thrice, and we each ti
 
 ---
 
-[Leaf p470 / Page 468]
+=== LEAF p470 ===
 
 **He is risen!"** Then we sing the final **"Christ is risen"** thrice, the entire Troparion, and after it we conclude by chanting: **"And unto us He hath granted eternal life: we worship His three-day resurrection."**[^628]
 
@@ -111,7 +111,7 @@ All things according to the general Typikon of a Feast of the Lord; only:
 
 ---
 
-[Leaf p471 / Page 469]
+=== LEAF p471 ===
 
 Descent [of the Holy Spirit], in place of **"O Heavenly King"** we say nothing.[^629]
 
@@ -123,7 +123,7 @@ Likewise also after **"With fear of God"**, in place of **"Blessed is He that co
 
 ---
 
-[Leaf p472 / Page 470]
+=== LEAF p472 ===
 
 is risen"** also in place of **"Be Thou exalted above the heavens, O God"**; nevertheless, this impairs the memorial of the Mystery of Christ's Ascension, which was originally instituted at this place of the Liturgy. Our Priests also say **"Christ is risen"** (only these two words) after **"With fear of God"**, and after **"Save, O God"**, and after **"Always, now and forever"**; nevertheless, in no Typikon do we find this.
 
@@ -135,7 +135,7 @@ is risen"** also in place of **"Be Thou exalted above the heavens, O God"**; nev
 
 ---
 
-[Leaf p473 / Page 471]
+=== LEAF p473 ===
 
 read in various languages, as takes place in our Cathedral Churches, wherein the Hierarch reads the same in the Greek tongue from the Holy Doors, then the Deacon in Slavonic from the Ambo, and at the end the Choir-clerics and Priests in various liturgical languages, positioned throughout the church. In Russia the Hierarch reads in Slavonic, the other Priests in Hebrew, Greek, and Latin, in which the Title of the Cross was written, and then in other modern languages (Muralt, *Epistle 14*, p. 142). The Greeks likewise read the Gospel according to modern custom in various languages, yet not at the Liturgy, but at Vespers (the Gospel which is read at Vespers of this day), as takes place in the Patriarchate of Constantinople.[^632]
 
@@ -147,7 +147,7 @@ read in various languages, as takes place in our Cathedral Churches, wherein the
 
 ---
 
-[Leaf p474 / Page 472]
+=== LEAF p474 ===
 
 Artos with the Feast, that is, with the Icon of the Resurrection, after the Dismissal of the Liturgy is carried out from the Sanctuary where it was blessed onto the Tetrapod, where it remains even unto Bright Saturday, and is kissed by the faithful entering the church. On Bright Saturday at the Liturgy after the Ambo Prayer, the Priest having gone out from the Holy Doors reads over it the Prayer for the Breaking thereof, set down in our Sluzhebnik only in the order of Bright Saturday; and thereafter having been taken from the Tetrapod, it is broken in the Sacristy, and on the morrow, that is, on Thomas Sunday after the Ambo Prayer, it is distributed to the faithful by the Priest standing in the Holy Doors.[^634]
 
@@ -155,7 +155,7 @@ Artos with the Feast, that is, with the Icon of the Resurrection, after the Dism
 
 ---
 
-[Leaf p475 / Page 473]
+=== LEAF p475 ===
 
 ### Blessing of Paschal Foods
 This, according to our custom and according to the Typikon of the Triodion, takes place outside the church, and that either after the conclusion of the Divine Liturgy (and then going out from the church we sing the Paschal Stichera, optionally), or after Matins, or in homes on Saturday evening. The Order of this Blessing thou hast in the Sluzhebnik, in the Trebnik, in the Triodion, and in the Prayer Book after the Paschal Hours, with the sprinkling of holy water at the end.
@@ -169,7 +169,7 @@ This, according to our custom and according to the Typikon of the Triodion, take
 
 ---
 
-[Leaf p476 / Page 474]
+=== LEAF p476 ===
 
 #### Typikon
 1. The Priest and Deacons, if there be any, vested in all the sacred vestments of their order, come before the steps of the Altar and bow deeply according to custom; and the Priest having taken the censer, with the customary prayer of blessing of incense, and censing before the Holy Table, proclaims: **"Blessed is our God"**;[^636] then having handed over the censer, and ascended the steps with the Deacons, he sings **"Christ is risen"** once, and both Choirs once each. After this the Priest says clearly **"Let God arise"** and the other Verses, with **"Glory... Both now..."**, while the Choirs sing **"Christ is risen"** once or thrice after each Verse, without change as indicated at the beginning of Matins. Finally the Priest: **"Christ is risen"** up to **"trampling down death by death"**, and the Choirs: **"and upon those in the tombs bestowing life"**, and the rest.
@@ -179,7 +179,7 @@ This, according to our custom and according to the Typikon of the Triodion, take
 
 ---
 
-[Leaf p477 / Page 475]
+=== LEAF p477 ===
 
 then the Priest himself reads the Gospel from the Holy Doors (from John, pericope 65, up to: "I will not believe").
 
@@ -199,7 +199,7 @@ According to the earlier Typikon, the Priest at Vespers of Bright Week, from Mon
 
 ---
 
-[Leaf p478 / Page 476]
+=== LEAF p478 ===
 
 Among us the custom holds to use all the sacred vestments during the first three days of this Week, that is, on Sunday, Monday, and Tuesday evening, because our people celebrate these three days by abstaining from labor and by attending divine services. On the other days of this Week it suffices to use only the epitrachelion and phelonion.
 
@@ -219,7 +219,7 @@ Without change as on the day of Pascha; only on Bright Saturday the 9th Hour is 
 
 ---
 
-[Leaf p479 / Page 477]
+=== LEAF p479 ===
 
 2. On Saturday after the Ambo Prayer we read the prayer for the breaking of the Artos, set down in our Sluzhebnik in the order of Bright Saturday.[^639]
 
@@ -230,7 +230,7 @@ The divine services from Thomas Sunday even unto the Ascension could be compress
 
 ---
 
-[Leaf p480 / Page 478]
+=== LEAF p480 ===
 
 **He hath granted eternal life: we worship His three-day resurrection"**;[^641] and before the Dismissal, in place of **"More honorable"** we sing **"Shine, shine"**.[^642]
 

@@ -1,6 +1,6 @@
 ---
 
-[Leaf p121 / Page 119]
+=== LEAF p121 ===
 
 of the Feast; after the 2nd, the Kontakion of the Feast; the prayers of "Remember, [Lord]" (*Помянѝ*) are not said.
 
@@ -17,7 +17,7 @@ At all [the Hours], the Resurrectional Troparion, and **"Glory..."** of the Feas
 
 ---
 
-[Leaf p122 / Page 120]
+=== LEAF p122 ===
 
 #### At the Divine Liturgy
 1. The Antiphons: if it be a Feast of the Lord, the first two are of the Feast, and the third the usual one with the Festal Refrain, likewise also **"Come, let us worship"** (*Прїидѣ́те поклони́мся*); if, however, it be a Feast of the Mother of God, the Resurrectional Antiphons, even as is the custom here on all Sundays. Elsewhere, **"It is good to give praise"** (*Бла́го є̂́сть*) with the Resurrectional Refrain.
@@ -33,7 +33,7 @@ On Friday evening, **"Now and forever..."** the 1st Theotokion of the concluding
 
 ---
 
-[Leaf p123 / Page 121]
+=== LEAF p123 ===
 
 3. There is no Entrance, nor Readings; the Prokimenon of the day from the Horologion.
 4. The entire Aposticha of the Feast from Great Vespers.
@@ -55,7 +55,7 @@ All things without change, even as in the Horologion; only on the Apodosis of Mi
 
 ---
 
-[Leaf p124 / Page 122]
+=== LEAF p124 ===
 
 #### At the Hours
 At all [the Hours], the Troparion and Kontakion of the Feast alone, even as on the Feast itself.
@@ -67,7 +67,7 @@ At all [the Hours], the Troparion and Kontakion of the Feast alone, even as on t
 
 ---
 
-[Leaf p125 / Page 123]
+=== LEAF p125 ===
 
 # Part III
 
@@ -83,7 +83,7 @@ At all [the Hours], the Troparion and Kontakion of the Feast alone, even as on t
 
 ---
 
-[Leaf p126 / Page 124]
+=== LEAF p126 ===
 
 ### Order for September 1 on Weekdays
 
@@ -106,7 +106,7 @@ After **"It is truly right"**: the Kontakion to the Saint, **"Glory... Now and f
 
 ---
 
-[Leaf p127 / Page 125]
+=== LEAF p127 ===
 
 the Kontakion-Ikos to the Saint; after the 9th, the Exaposteilarion of the Indiction, **"Glory..."** to the Saint, **"Now and forever..."** of the Indiction.
 5. At the Praises (*Хвали́техъ*), 4 Stichera, all to the Indiction; **"Glory..."** to the Saint, **"Now and forever..."** to the Indiction.
@@ -129,7 +129,7 @@ After the Entrance, the Troparion of the Indiction, and of the Synaxis, and to t
 
 ---
 
-[Leaf p128 / Page 126]
+=== LEAF p128 ===
 
 3. Three Readings: to the Indiction, 2; and to the Saint, 1.
 4. The Resurrectional Aposticha; **"Glory..."** to the Saint, **"Now and forever..."** to the Indiction.
@@ -149,7 +149,7 @@ After **"It is truly right,"** the Kontakion to the Saint, **"Glory... Now and f
 
 ---
 
-[Leaf p129 / Page 127]
+=== LEAF p129 ===
 
 #### At the Hours
 At all [the Hours], the Resurrectional Troparion; then **"Glory..."** at the 1st and 6th to the Indiction, at the 3rd and 9th to the Saint; the Kontakia alternately: that is, at the 1st the Resurrectional one, at the 3rd to the Indiction, at the 6th to the Saint, at the 9th the Resurrectional one.[^247]
@@ -164,7 +164,7 @@ At all [the Hours], the Resurrectional Troparion; then **"Glory..."** at the 1st
 
 ---
 
-[Leaf p130 / Page 128]
+=== LEAF p130 ===
 
 ### Order of Saturday Before the Exaltation
 
@@ -186,7 +186,7 @@ All things as above in the Forefeast; only the Communion Hymn of the Feast.
 
 ---
 
-[Leaf p131 / Page 129]
+=== LEAF p131 ===
 
 ##### E. In the Forefeast of the Exaltation
 1. After the Entrance, the Troparion of the Dedication, and of the Forefeast; **"Glory... Now and forever..."** the Kontakion of the Dedication. If, however, in thy edition there be also a Kontakion of the Forefeast, then there will be: **"Glory..."** the Kontakion of the Dedication, **"Now and forever..."** of the Forefeast.
@@ -206,7 +206,7 @@ All things as above in the Forefeast; only the Communion Hymn of the Feast.
 
 ---
 
-[Leaf p132 / Page 130]
+=== LEAF p132 ===
 
 The Epistle-Gospel first of the Sunday before the Exaltation (and the row under the pericope), then to the Feast. The Communion Hymn: **"Praise the Lord"** (*Хвали́те*), and of the Feast.[^252]
 
@@ -224,7 +224,7 @@ All things even as above in the Forefeast; only the Communion Hymn: **"Praise th
 
 ---
 
-[Leaf p133 / Page 131]
+=== LEAF p133 ===
 
 ### Order for September 13 on Weekdays
 
@@ -246,7 +246,7 @@ After the Trisagion, the Kontakion of the Dedication; then **"Glory... Now and f
 
 ---
 
-[Leaf p134 / Page 132]
+=== LEAF p134 ===
 
 Sessional Hymn of the Dedication; **"Glory..."** the Sessional Hymn to the Saint, **"Now and forever..."** of the Dedication; after the 6th, the Kontakion-Ikos of the Dedication; after the 9th, the Exaposteilarion of the Dedication, **"Glory... Now and forever..."** of the Forefeast.
 4. At the Praises (*Хвали́техъ*), the Stichera of the Dedication on 6; **"Glory..."** of the Dedication, **"Now and forever..."** of the Forefeast.
@@ -265,7 +265,7 @@ After the Entrance: the Troparion of the Dedication, and of the Forefeast; **"Gl
 
 ---
 
-[Leaf p135 / Page 133]
+=== LEAF p135 ===
 
 #### At Great Vespers
 1. Kathisma: **"Blessed is the man"** (according to the Typikon, the whole [Kathisma]).
@@ -286,7 +286,7 @@ After **"It is truly right,"** the Kontakion of the Dedication, **"Glory... Now 
 
 ---
 
-[Leaf p136 / Page 134]
+=== LEAF p136 ===
 
 5. After the Great Doxology, one of the two usual Resurrectional Troparia.
 6. The Dismissal, as at Vespers.
@@ -307,7 +307,7 @@ The Service of this Feast is performed according to the Common Rule of the Great
 
 ---
 
-[Leaf p137 / Page 135]
+=== LEAF p137 ===
 
 then before the beginning of Great Vespers; then from the Altar to the Tetrapod on the very day of the Feast at Matins during the Great Doxology. The Exaltation takes place at the Tetrapod after the Great Doxology; the Veneration, however, immediately after the Exaltation, and likewise after every Divine Service celebrated in the Church even unto the Apodosis of the Feast (September 21). All these are performed as follows, and before all else the Preparation of the Precious Cross.
 
@@ -321,13 +321,13 @@ After the Dismissal of Small Vespers, and where there is none, then before the b
 
 ---
 
-[Leaf p138 / Page 136]
+=== LEAF p138 ===
 
 of purple color (according to the Synod of Lviv, violet), stand before the Table of Preparation of the Proskomide, upon which lies the Precious Cross with sprigs of basil; behind them stand two candle-bearers with lighted tapers, and when the Deacon has censed the Precious Cross and said: "Bless, Master," the Priest begins: **"Blessed is our God."** If there is no Deacon, the Priest himself, having censed, says: **"Blessed is our God."** The Choir: "Amen"; then the Trisagion and the rest with **"Our Father."** The Priest: **"For Thine is the kingdom."** After this, while the Choir sings the Troparion: **"Save, O Lord, Thy people,"** **"Glory... Now and forever..."** the Kontakion: **"Thou Who wast lifted up,"** the Priest, having made a metania before the Precious Cross, takes it with both hands, and having rested it upon his head with the side of the basil, turns around, and preceded by the two candle-bearers, and with the Deacon at his right side censing the Precious Cross with the censer, comes forth from the Skeuophylakion; and when the candle-bearers and the Deacon have halted below the steps of the Sanctuary near the Holy Doors, the Priest, having ascended to the Altar, "places the Precious Cross upon the Holy Table in the place of the Gospel,[^262] and sets the Gospel in the High Place (that is, near the Tabernacle opposite himself), and they kindle before it a taper for the whole night."[^263] In the end, the Priest with the concelebrants, having made a metania, departs behind the candle-bearers and behind the Deacon to the Skeuophylakion.[^264]
 
 ---
 
-[Leaf p139 / Page 137]
+=== LEAF p139 ===
 
 ### Procession of the Precious Cross from the Altar to the Tetrapod
 ### The Exaltation and Veneration of the Precious Cross
@@ -336,7 +336,7 @@ of purple color (according to the Synod of Lviv, violet), stand before the Table
 
 ---
 
-[Leaf p140 / Page 138]
+=== LEAF p140 ===
 
 -placed the Precious Cross upon the cushion on top of the Tetrapod, covered with an *obrus* (veil) or precious silken cloth, the Priest censes it from the four sides, while the Choirs sing the Troparion: **"Save, O Lord, Thy people"** (*Спасѝ Гд҃и*).[^265]
 

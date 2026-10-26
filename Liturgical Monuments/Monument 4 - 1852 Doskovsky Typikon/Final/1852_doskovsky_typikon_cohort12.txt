@@ -1,6 +1,6 @@
 # Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852) — Cohort 12 (Leaves p111–p120)
 
-<!-- LEAF: p111 -->
+=== LEAF p111 ===
 
 [Book Page 218]
 
@@ -26,7 +26,7 @@ The Veneration of the Precious and Life-Giving Cross is Celebrated.
 *On Saturday after the Dismissal of (Little) Vespers, the Priest enters the vestry [skeuophylakion], and having censed, takes the Precious Wood with sweet-smelling basil. While a taper-bearer and censer precede him, as they sing the troparion:* **"Save, O Lord, Thy people, and bless Thine inheritance"**, *he carries it unto the Holy Table, as on September 14.[^248]*  
 *At Great Vespers, at* **"Lord, I have cried"** (*Го́споди воззва́хъ*), *stichera of the Octoechos 6, and of the Triodion 4. At the Litiya, the sticheron of the temple...*
 
-<!-- LEAF: p112 -->
+=== LEAF p112 ===
 
 [Book Page 220]
 
@@ -45,7 +45,7 @@ The Veneration of the Precious and Life-Giving Cross is Celebrated.
 *At Matins according to Lenten custom. At the First Hour we make veneration of the Precious Cross, as on Sunday, singing instead of:* **"Order my steps"**: **"Before Thy Cross we bow down in worship, O Master."** *While the brethren bow down, we sing the stichera, Tone 2:* **"Come, O ye faithful."** *After the Trisagion we say the kontakion of the Cross. Likewise also at the other Hours we sing after the Trisagion the kontakion of the Cross. It is proper to know: That we make the veneration of the Precious Cross according to the above-written manner at the First Hour on Monday, Wednesday, and Friday.*  
 *On Friday we restore [repose] the Cross, as will be set forth there.*
 
-<!-- LEAF: p113 -->
+=== LEAF p113 ===
 
 [Book Page 222]
 
@@ -70,7 +70,7 @@ The Veneration of the Precious and Life-Giving Cross is Celebrated.
 ### Thursday of the Fifth Week of the Holy Fasts
 *The bell is rung at the 4th hour of the night [4:00 PM on Wednesday]. And when we are gathered into the church, the Priest, having taken upon himself the epitrachelion, makes the beginning:* **"Blessed is our God..."** *And we say:* **"O Heavenly King"**, *Trisagion, and* **"Our Father"**. **"Lord, have mercy"** *12 times; Glory, now and ever:* **"O come, let us worship"**; *the two Psalms: 19 and 20, and the rest of the beginning of Matins. After the Six Psalms and after the Ectene, we sing Alleluia and the Trinity Hymns...*
 
-<!-- LEAF: p114 -->
+=== LEAF p114 ===
 
 [Book Page 224]
 
@@ -90,7 +90,7 @@ The Veneration of the Precious and Life-Giving Cross is Celebrated.
 In which we sing the Supplicatory Office of the Akathist.  
 *At Matins, after the Six Psalms and after the Ectene,* **"God is the Lord"** (*Богъ Господь*), *in Tone 8. And we sing the troparion:* **"Taking knowledge of the command secretly..."** (*Повеленное тайно*), *twice; Glory, now and ever, the same. Then Kathisma 16 is read. And upon its completion, the Little Ectene. Immediately the choir sings the kontakion in the midst of the church melodiously and prolonged:* **"To Thee, the Champion Leader"** (*Взбранной воеводѣ*), *during which the Priest censes the icons and the brethren according to order, and, vested in phelonion, reads 3 oikoi and 3 kontakia in the holy sanctuary [or before the icon]. At the reading we do not sit, but stand. After these the Blameless [Amomos] are recited, and the Little Ectene. And again the choir sings:* **"To Thee, the Champion Leader"**; *and the Priest saith the other oikoi and kontakia. Then Psalm 50. And the canons of the holy temple with heirmos on 6, and of the Most Holy Theotokos on 6. Katavasia:* **"I shall open my mouth"** (*Отверзу уста моя*). *If it be a temple of the Theotokos, we sing...*[^254]
 
-<!-- LEAF: p115 -->
+=== LEAF p115 ===
 
 [Book Page 226]
 
@@ -116,7 +116,7 @@ In which we sing the Supplicatory Office of the Akathist.
 ### On Palm Sunday, or the Flowery Sunday
 *At Great Vespers and at the Litiya, all is as in the Triodion. At the blessing of loaves:* **"Giving assurance of the universal resurrection"** *twice, and* **"Buried with Thee through baptism, O Christ our God"** *once. The Gradual hymns [Anabathmoi], the 1st Antiphon of Tone 4. Prokeimenon of the feast. Gospel of Matthew, pericope 83 [Matthew 21:1–11, 15–17]. And immediately we say Psalm 50.* [**"Having beheld the Resurrection of Christ"** *we do not say]. Then the Priest, taking the censer...*
 
-<!-- LEAF: p116 -->
+=== LEAF p116 ===
 
 [Book Page 228]
 
@@ -137,7 +137,7 @@ In which we sing the Supplicatory Office of the Akathist.
 *...the Heirmologion. Then the customary Kathisma with metanias. And the sessional hymn of the Triodion. Thereafter the Priest, having vested in the phelonion, saith:* **"And that we may be accounted worthy to hear the holy Gospel..."** *and reads the Gospel of Matthew, pericope 84 [Matthew 21:18–43], ending in pericope 88:* **"and it shall be given to a nation bringing forth the fruits thereof."** *Then Psalm 50. And the customary prayer:* **"Save, O God, Thy people..."** *And they begin to sing the triodion [three-canto canon] of the Triodion. (So it is on Monday, Tuesday, and Wednesday). After the 8th Ode, the Little Ectene, and the rest. At the 9th Ode we do not sing* **"More honorable than the Cherubim"**, *but the heirmos. The Exapostilarion [Photagogicon]:* **"Thy Bridal Chamber do I see adorned, O my Saviour, and I have no wedding garment that I may enter thereinto..."** (*Чертогъ твой вижду Спасе мой украшенный*), *is sung thrice melodiously from the Heirmologion. This is said until Great Thursday; it is sung in the midst of the church by 1 chanter, and responsive singing by the 2 choirs. After the Aposticha:* **"It is good to give praise."** *And the rest according to custom with prostrations. And the First Hour without a kathisma with prostrations. Then the Dismissal:* **"May the Lord Who comes unto His voluntary Passion for our salvation, Christ our true God..."** *This Dismissal is said also on Tuesday and on Wednesday.*  
 ☞ *At the First Hour and at Compline we do not recite kathismata in Holy Week. Be it known: That on these three days at the Hours the readings of all four Evangelists take place (the Tetraevangelion). This takes place in this manner: At the First Hour the Gospel is not read. At the Third, Sixth, and Ninth Hours there is read on Monday the Gospel of Matthew in two readings entirely, and half of Mark. On Tuesday there is read the second half of Mark, and two readings of Luke; on Wednesday the third reading of Luke, and of John there is read in two readings until the beginning...*[^260]
 
-<!-- LEAF: p117 -->
+=== LEAF p117 ===
 
 [Book Page 230]
 
@@ -160,7 +160,7 @@ In which we sing the Supplicatory Office of the Akathist.
 ### On Holy and Great Tuesday
 *At Matins we sing Alleluia in Tone 8, and the troparion:* **"Behold, the Bridegroom comes"** *thrice, sonorously.*
 
-<!-- LEAF: p118 -->
+=== LEAF p118 ===
 
 [Book Page 232]
 
@@ -186,7 +186,7 @@ In which we sing the Supplicatory Office of the Akathist.
 ### On Holy and Great Thursday
 *At Matins, after the Six Psalms, the Great Ectene, and we sing Alleluia in Tone 8. Then the troparion:* **"When the glorious disciples were enlightened at the washing of the feet, then Judas the ungodly was darkened with the love of silver..."** (*Егда славніи ученицы*), *thrice, (with sweet chanting from the Heirmologion). And thereafter immediately...*
 
-<!-- LEAF: p119 -->
+=== LEAF p119 ===
 
 [Book Page 234]
 
@@ -206,7 +206,7 @@ In which we sing the Supplicatory Office of the Akathist.
 ### The Office of the Holy, Saving Passions of Our Lord Jesus Christ
 *On Holy and Great Thursday in the evening, at the 2nd hour of the night [8:00 PM], the bell is rung for Matins of Great Friday. The Priest, having taken the epitrachelion, makes the beginning:* **"Blessed is our God..."** *And we say:* **"O Heavenly King"**, *Trisagion, and the rest of the beginning of Matins according to custom. After the Six Psalms, the Great Ectene, and after the exclamation we sing Alleluia, in Tone 8, with the verses. And the troparion:* **"When the glorious disciples were enlightened..."**, *slowly and melodiously, written on Thursday at Matins in the Heirmologion, thrice. Then the church attendant [ecclesiarches] distributes tapers unto the brethren, which they light at every Gospel.[^264] And the Priest enters the holy sanctuary, vests in the phelonion, and having opened the Royal Doors, censes the Holy Table, and the entire holy sanctuary, and the choirs and brethren according to order. Then the Little Ectene is sung. (These ectenes are said by the Deacon or Priest before the sessional hymns until the 8th Gospel). Thereafter the Priest (or Deacon, if there be one):* **"And that we may be accounted worthy..."**
 
-<!-- LEAF: p120 -->
+=== LEAF p120 ===
 
 [Book Page 236]
 

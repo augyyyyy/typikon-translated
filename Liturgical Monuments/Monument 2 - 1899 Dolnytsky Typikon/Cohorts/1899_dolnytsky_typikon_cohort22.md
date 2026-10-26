@@ -1,4 +1,4 @@
-[Leaf p421 / Page 419]
+=== LEAF p421 ===
 
 ...altar of the Most Holy Theotokos, which is in its right aisle; and then for the first time the Priest censes the Sanctuary and all the rest according to custom, and having left the Holy Doors open, he exits through them to the altar of the Most Holy Theotokos, and chants the Order of the Akathist there, censing from that altar at the beginning of each third [stasis] the icon of the Most Holy Theotokos, the sacred dignitaries, the Choirs, and the people. After the chanting of the fourth third [stasis] of Ikoses and Kontakia, the Priest returns to the Sanctuary, and having closed the Holy Doors, goes to the sacristy, divests himself of the sacred vestments, and having put on his epitrachelion, completes the rest of Matins.
 
@@ -8,7 +8,7 @@ After the 3rd Ode, upon the final completion of the chanting of the Kontakion **
 
 ---
 
-[Leaf p422 / Page 420]
+=== LEAF p422 ===
 
 and thus **"To thee, the Champion Leader"** (*Взбра́нной*). At the 9th Ode we sing **"More honorable"** (*Честнѣ́йшꙋю*), and after the 9th [Ode] the Exaposteilarion of the Feast.
 5. At the Praises, 4 Stichera, all of the Feast; and **"Glory... Both now..."**, of the Feast.
@@ -29,7 +29,7 @@ All according to the general fasting Typikon of the preceding weeks.
 
 ---
 
-[Leaf p423 / Page 421]
+=== LEAF p423 ===
 
 2. On Palm Sunday, they are to perform all things according to custom, according to the Typikon of a Master Feast of the First Rank, with the inclusion of the blessing of branches at Matins.
 3. On the three following days of Holy Week, they are to sing the Liturgy of the Presanctified.
@@ -43,7 +43,7 @@ All according to the general fasting Typikon of the preceding weeks.
 
 ---
 
-[Leaf p424 / Page 422]
+=== LEAF p424 ===
 
 -ceding it, and this according to the Typikon approved by this Synod. In Cathedral Churches, and likewise in other non-cathedral ones, this Matins is usually anticipated, so as to be performed on Saturday evening; the Synod judges that this custom may be retained.
 11. On the first three days of Bright Week, they are daily to sing Matins, the Liturgy, and Vespers in church.
@@ -58,7 +58,7 @@ The Service of this Feast is of the lesser rank, and only at Matins from the Can
 
 ---
 
-[Leaf p425 / Page 423]
+=== LEAF p425 ===
 
 after the Evlogitaria (*Neporóchni*), it has **"The angelic assembly"** (*А҆́нгельскїй собо́ръ*), and after the 2nd Sessional Hymn **"Having beheld the Resurrection of Christ"** (*Воскресе́нїе Хрїсто́во ви́дѣвше*), and before the Exaposteilarion: **"Holy is the Lord our God"** (*Свѧ́тъ Госпо́дь Бо́гъ на́шъ*) thrice.
 
@@ -77,7 +77,7 @@ After the 1st Trisagion, instead of the Troparia **"Uncreated nature"** (*Нес
 
 ---
 
-[Leaf p426 / Page 424]
+=== LEAF p426 ===
 
 #### At Matins
 1. At **"The Lord is God"** (*Бо́гъ Госпо́дь*), the Troparion of the Feast twice; **"Glory... Both now..."**, the same.
@@ -92,7 +92,7 @@ All of the Feast alone; and at the Liturgy, instead of the Trisagion, we sing **
 
 ---
 
-[Leaf p427 / Page 425]
+=== LEAF p427 ===
 
 ### Palm Sunday[^566]
 All according to the general Typikon of a Master Feast with Vigil, without Afterfeast. It has all its proper texts, and at the Liturgy Antiphons and the Introit (*Vhódnoje*). However, before the Troparion of Palm Sunday, we sing yesterday's Troparion of Lazarus; only after the Great Doxology do we sing the Troparion of Lazarus alone.
@@ -107,14 +107,14 @@ When the Priest has read the Gospel, he places it upon the Analogion near the Te
 
 ---
 
-[Leaf p428 / Page 426]
+=== LEAF p428 ===
 
 the branches being placed on the Tetrapod, and the censer and aspersorium being prepared, the Priest approaches the Tetrapod, and while the Choirs read Psalm 50, having placed incense in and blessed the censer, he censes the branches from the four sides of the Tetrapod; and at the conclusion of Psalm 50, after the Deacon has exclaimed (or if there is none, the Priest himself): **"Let us pray to the Lord"** (*Го́споду помоли́мся*), he reads aloud (from the Sluzhebnik or from the Triodion)[^567] the first prayer, **"O Lord our God"** (*Го́споди Бо́же на́шъ*); and the Choir having responded: "Amen," the Priest says: **"Peace be to all"** (*Ми́ръ всѣ̑мъ*); the Deacon: **"Bow your heads unto the Lord"** (*Главы̑ ва́шѧ Го́сподеви приклони́те*); and after **"To Thee, O Lord"** (*Тебѣ̀, Го́споди*), the Priest [reads] the second prayer, **"O Lord God Almighty... and unto the ages of ages"** (*Го́споди Бо́же Вседержи́телю... и҆ во вѣ́ки вѣкѡ́въ*).[^568] And the Choir responding: "Amen," he sprinkles the branches with holy water, saying: **"These branches are blessed and sanctified..."** (*Благословля́ются и҆ ѡ҆свяща́ются вѣ̑тви сїѧ̑...*); and after the chanting of the Ektenia **"Save, O God, Thy people"** (*Спасѝ, Бо́же, лю́ди Твоя̑*), with his right hand he anoints the people with oil, while with his left hand he distributes a branch to each, which are orderly handed to the Priest by the Deacon, or if there is none, by one of the church servers.[^569]
 After the 9th Ode: "We do not say the Exaposteilarion, but immediately **'Holy is the Lord our God'** (*Свѧ́тъ Госпо́дь Бо́гъ на́шъ*) thrice in Tone 4."
 
 ---
 
-[Leaf p429 / Page 427]
+=== LEAF p429 ===
 
 #### At the Liturgy
 After the Introit: Troparion of Lazarus; **"Glory..."**, of Palm Sunday; **"Both now..."**, Kontakion of Palm Sunday; and we sing the Trisagion.
@@ -134,7 +134,7 @@ On Monday, Wednesday, and Friday the Synod of Lviv prescribes xerophagy (*sukhoj
 
 ---
 
-[Leaf p430 / Page 428]
+=== LEAF p430 ===
 
 3. Aposticha of the Triodion, with proper refrains.
 4. After **"Now You dismiss"** (*Ны́нѣ ѿпꙋща́еши*) with the Trisagion, the Troparion **"Rejoice, O Virgin Theotokos"** (*Богоро́дице Дѣ́во*), and all the rest with prostrations, as on the past Sundays of the Holy Forty Days.
@@ -150,7 +150,7 @@ On Monday, Wednesday, and Friday the Synod of Lviv prescribes xerophagy (*sukhoj
 
 ---
 
-[Leaf p431 / Page 429]
+=== LEAF p431 ===
 
 #### At Compline
 On Sunday evening we sing Little Compline, according to the Typikon of the other Sundays of the Great Forty Days, and on it the Three-Ode Canon [Triodion] of the Triodion, and after the Trisagion the Kontakion of the Triodion alone.
@@ -165,7 +165,7 @@ Nothing special.
 
 ---
 
-[Leaf p432 / Page 430]
+=== LEAF p432 ===
 
 2. Three Kathismas in course with their Sessional Hymns, then **"And that we may be accounted worthy..."** (*И҆ ѡ҆ є҆́же сподо́битися на́мъ*), and the Matins Gospel[^574] following the title of the Gospel, and Psalm 50, and **"Save, O God, Thy people"** (*Спасѝ, Бо́же, лю́ди Твоя̑*).[^575]
 3. Only one Canon: a Three-Ode Canon on Monday and Wednesday, or a Two-Ode Canon on Tuesday; Troparia for 12, Heirmoi twice. We do not say the Biblical Odes, but the refrain to the Troparia of the Canon: **"Glory to Thee, our God, glory to Thee"** (*Сла́ва Тебѣ̀, Бо́же на́шъ, сла́ва Тебѣ̀*);[^576] then the Katavasia: the Heirmos of the Canon once, both Choirs together. Before the Kontakion and Ikos the Priest says the Little Ektenia; at the 9th Ode we do not sing **"More honorable"** (*Честнѣ́йшꙋю*), nor **"It is truly right"** (*Досто́йно*) after the Canon, but after the Katavasia immediately the Little Ektenia, and the Exaposteilarion **"Thy bridal chamber"** (*Черто́гъ тво́й*) twice, then **"Glory... Both now..."**, the same a third time.
@@ -178,14 +178,14 @@ All according to the general fasting Typikon of the Great Forty Days; however:
 
 ---
 
-[Leaf p433 / Page 431]
+=== LEAF p433 ===
 
 two Hours, the Typika appoint the Reading of the Four Gospels (*Tetraevangélion*), which among us today is read only in Cathedral or Collegiate Churches;[^577] at the 6th Hour, however, we read the Gospel not immediately after the Theotokion, but after the conclusion of the Troparion of the Prophecy and the Prokeimena of the Paremia. The Reading of the Four Gospels embraces all Evangelists, that is, Matthew, Mark, and Luke whole, but John only up to the Passions of Christ, that is, up to: **"Now is the Son of man glorified"** (*Ны́нѣ просла́висѧ*), in Pericope 46, Chapter 13:32 [13:31]. All the Evangelists taken together are divided into 9 Readings, according to the number of the three Hours (3rd, 6th, 9th) and three days (Monday, Tuesday, and Wednesday). Matthew is divided into 2 Readings, and Mark into 2, and John into 2, but Luke into 3. The 1st Reading embraces the first half of Matthew, the 2nd the second half of Matthew, the 3rd the first half of Mark, the 4th the second half of Mark, the 5th the first part of Luke, the 6th the second part of Luke, the 7th the third part of Luke; the 8th the first part of John, the 9th the second part of John. And the Typikon indeed does not determine where the first half of the three Evangelists and the first and second parts of Luke conclude; but since Matthew has 28 chapters, his half concludes with Chapter 14; Mark has 16 chapters, so his half concludes with Chapter 8; Luke has 24 chapters, so his first part concludes with Chapter 8, and the second with Chapter 16; John up to **"Now is the Son of man glorified"** has 12 chapters and part of Chapter 13, so his half concludes with Chapter 6 and part of 7.
 The Priest, at the beginning of each Reading, vested in a phelonion of fasting colors, and having opened the Holy Doors, censes all things according to custom, then having gone out through the Holy Doors to the Analogion placed before the Holy Doors facing
 
 ---
 
-[Leaf p434 / Page 432]
+=== LEAF p434 ===
 
 the people, having upon it two burning candlesticks, reads from there the Gospel, beginning from **"And that we may be accounted worthy..."** (*И҆ ѡ҆ є҆́же сподо́битися на́мъ*). Upon completing each Reading, having kissed the beginning of the reading and left the Gospel on the Analogion until the completion of the 3rd Reading, he returns to the Sanctuary, and having closed the Holy Doors, divests himself of the phelonion.[^578]
 3. After the Trisagion, the Kontakion of the Triodion.
@@ -199,7 +199,7 @@ All according to the Typikon of Monday and Tuesday, here on p. 573 [428]; only o
 
 ---
 
-[Leaf p435 / Page 433]
+=== LEAF p435 ===
 
 Presanctified, "the prostrations made in church cease, but in cells they are performed even until the bell for Matins of Christ's Bright Resurrection."[^579] We, however, even until the Resurrection of Christ make 3 great prostrations in church at the end of the divine service, singing the stichon **"Thou Who hast suffered..."** (*Претерпѣ́вый за на́съ*), and at the veneration of the Plashchanytsia, singing **"The noble Joseph"** (*Благообра́зный І҆ѡ́сифъ*).
 
@@ -212,7 +212,7 @@ Presanctified, "the prostrations made in church cease, but in cells they are per
 
 ---
 
-[Leaf p436 / Page 434]
+=== LEAF p436 ===
 
 5. Only one Canon: Heirmoi twice, Troparia for 6,[^582] with the refrain: **"Glory to Thee, our God, glory to Thee"** (*Сла́ва Тебѣ̀, Бо́же на́шъ, сла́ва Тебѣ̀*). Katavasia after each Ode: the Heirmos of the same Canon once, both Choirs together. After the 3rd Ode we say the Sessional Hymn; after the 6th, the Kontakion and Ikos; at the 9th we do not sing **"More honorable"** (*Честнѣ́йшꙋю*),[^583] nor **"It is truly right"** (*Досто́йно*) after the 9th, but instead of it the Heirmos of the Canon;[^584] and immediately the Exaposteilarion twice; **"Glory... Both now..."**, the same.
 6. At the Praises, 4 Stichera; and after the Little Doxology, the Ektenia **"Let us complete"** (*И҆спо́лнимъ*), and the Aposticha with proper refrains.
@@ -225,7 +225,7 @@ Presanctified, "the prostrations made in church cease, but in cells they are per
 
 ---
 
-[Leaf p437 / Page 435]
+=== LEAF p437 ===
 
 #### At the Typika (Obidnytsia)
 1. It begins from the Beatitudes without Stichera. The Creed may be omitted, since it will be at the Liturgy.
@@ -239,7 +239,7 @@ Presanctified, "the prostrations made in church cease, but in cells they are per
 
 ---
 
-[Leaf p438 / Page 436]
+=== LEAF p438 ===
 
 the Lamb that is to be consumed at that same Liturgy, for it is deemed to be only for the Communicants; it suffices to trim it for its easier fracturing and consumption on another day.
 
@@ -258,7 +258,7 @@ All according to custom. — In cells.
 
 ---
 
-[Leaf p439 / Page 437]
+=== LEAF p439 ===
 
 ### Great Friday
 #### At Matins
@@ -272,7 +272,7 @@ From the usual beginning even unto the conclusion of the chanting of the Tropari
 
 ---
 
-[Leaf p440 / Page 438]
+=== LEAF p440 ===
 
 with which the joyous sound of bells does not harmonize. Likewise in Rome at Passion Matins they already use clappers (*byla*).
 

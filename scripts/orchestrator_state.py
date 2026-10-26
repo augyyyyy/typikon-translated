@@ -5,6 +5,11 @@ Sovereign Translation Orchestrator State Controller
 Manages telemetry and atomic state transitions for Byzantine-Ruthenian
 Typikon monuments in Liturgical Monuments/ACTIVE_ORCHESTRATOR_STATE.json.
 
+Enforces the 3-Phase Bookend Hybrid Model Routing Architecture:
+  - Phase 0 (PHASE_0_ARGON_PLANNING): Locked for Argon Pre-Flight, /plan, and /grill-me.
+  - Phase 1 (PHASE_1_FLASH_SPRINT): Unattended 100% Flash cohort sprint + argon_review_queue.json.
+  - Phase 2 (PHASE_2_AWAITING_ARGON_AUDIT): Argon post-sprint queue audit & LCPE compilation.
+
 Usage:
     python scripts/orchestrator_state.py --status
     python scripts/orchestrator_state.py --set-status <STATUS>
@@ -28,11 +33,13 @@ PROJECT_ROOT = SCRIPT_DIR.parent
 STATE_FILE = PROJECT_ROOT / "Liturgical Monuments" / "ACTIVE_ORCHESTRATOR_STATE.json"
 REGISTRY_FILE = PROJECT_ROOT / "Liturgical Monuments" / "codex_registry.json"
 
+
 def load_registry() -> Dict[str, Any]:
     if not REGISTRY_FILE.exists():
         raise FileNotFoundError(f"Codex registry not found at: {REGISTRY_FILE}")
     with open(REGISTRY_FILE, "r", encoding="utf-8") as f:
         return json.load(f)
+
 
 def load_state() -> Dict[str, Any]:
     if not STATE_FILE.exists():
@@ -40,11 +47,13 @@ def load_state() -> Dict[str, Any]:
     with open(STATE_FILE, "r", encoding="utf-8") as f:
         return json.load(f)
 
+
 def save_state(state: Dict[str, Any]) -> None:
     STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(state, f, indent=2, ensure_ascii=False)
         f.write("\n")
+
 
 def display_status(state: Dict[str, Any]) -> None:
     print("=" * 65)
@@ -57,6 +66,9 @@ def display_status(state: Dict[str, Any]) -> None:
     print(f"  Pages Remaining       : {state.get('remaining_pages')}")
     print(f"  Current Cohort        : #{state.get('current_cohort')}")
     print(f"  Current Cohort Range  : {state.get('current_cohort_range')}")
+    print(f"  Routing Phase         : {state.get('routing_phase', 'PHASE_1_FLASH_SPRINT')}")
+    print(f"  Subagent Model Lock   : {state.get('active_subagent_model', 'flash')}")
+    print(f"  Argon Review Queue    : {state.get('argon_review_queue_count', 0)} queued ({state.get('unresolved_quarantines', 0)} quarantined)")
     print(f"  Gate Status           : {state.get('small_pause_gate_status')}")
     blockers = state.get('active_blockers', [])
     if blockers:
@@ -65,7 +77,7 @@ def display_status(state: Dict[str, Any]) -> None:
             print(f"    - {b}")
     else:
         print("  Active Blockers       : None (All Clear)")
-    
+
     total = state.get('total_physical_pages', 0)
     done = state.get('translated_pages', 0)
     pct = (done / total * 100) if total > 0 else 0
@@ -75,12 +87,14 @@ def display_status(state: Dict[str, Any]) -> None:
     print(f"  Codex Progress        : {bar} {pct:.1f}% ({done}/{total} leaves)")
     print("=" * 65)
 
+
 def set_status(new_status: str) -> None:
     state = load_state()
     old_status = state.get("small_pause_gate_status")
     state["small_pause_gate_status"] = new_status
     save_state(state)
     print(f"Updated gate status: {old_status} -> {new_status}")
+
 
 def add_blocker(blocker_text: str) -> None:
     state = load_state()
@@ -90,11 +104,13 @@ def add_blocker(blocker_text: str) -> None:
     save_state(state)
     print(f"Added blocker: {blocker_text}")
 
+
 def clear_blockers() -> None:
     state = load_state()
     state["active_blockers"] = []
     save_state(state)
     print("Cleared all active blockers.")
+
 
 def advance_cohort() -> None:
     state = load_state()
@@ -102,10 +118,8 @@ def advance_cohort() -> None:
     completed = state.setdefault("completed_cohorts", [])
     if current_cohort not in completed:
         completed.append(current_cohort)
-    
-    # Calculate pages in just completed cohort
+
     range_str = state.get("current_cohort_range", "")
-    # e.g., "pp. 1-20 (leaves p1-p20)"
     cohort_pages = 20
     if "leaves p" in range_str:
         try:
@@ -118,25 +132,24 @@ def advance_cohort() -> None:
     state["translated_pages"] = state.get("translated_pages", 0) + cohort_pages
     total = state.get("total_physical_pages", 278)
     state["remaining_pages"] = max(0, total - state["translated_pages"])
-    
+
     next_cohort = current_cohort + 1
     state["current_cohort"] = next_cohort
-    
-    # Calculate next cohort range
-    # Next cohort starts right after end_p
+
     next_start = end_p + 1 if "end_p" in locals() else 21
     registry = load_registry()
     mon_id = state.get("monument_id", "1891_lviv_synod")
     mon_info = registry.get("monuments", {}).get(mon_id, {})
     cohort_size = mon_info.get("default_cohort_size", 20)
-    
+
     next_end = min(total, next_start + cohort_size - 1)
     state["current_cohort_range"] = f"pp. {next_start}-{next_end} (leaves p{next_start}-p{next_end})"
-    state["small_pause_gate_status"] = "READY_FOR_STARTUP_PROMPT"
-    
+    state["small_pause_gate_status"] = "READY_FOR_NEXT_COHORT"
+
     save_state(state)
     print(f"Advanced to Cohort #{next_cohort}: {state['current_cohort_range']}")
     display_status(state)
+
 
 def set_monument(monument_id: str) -> None:
     registry = load_registry()
@@ -144,12 +157,12 @@ def set_monument(monument_id: str) -> None:
     if monument_id not in monuments:
         available = ", ".join(monuments.keys())
         raise ValueError(f"Unknown monument ID '{monument_id}'. Available: {available}")
-    
+
     mon = monuments[monument_id]
     total = mon.get("total_physical_pages", 0)
     cohort_size = mon.get("default_cohort_size", 20)
     first_end = min(total, cohort_size)
-    
+
     new_state = {
         "active_monument": mon.get("title", monument_id),
         "monument_id": monument_id,
@@ -159,12 +172,18 @@ def set_monument(monument_id: str) -> None:
         "remaining_pages": total,
         "current_cohort": 1,
         "current_cohort_range": f"pp. 1-{first_end} (leaves p1-p{first_end})",
-        "small_pause_gate_status": "READY_FOR_STARTUP_PROMPT",
+        "routing_phase": "PHASE_0_ARGON_PLANNING",
+        "active_subagent_model": "flash",
+        "argon_review_queue_count": 0,
+        "unresolved_quarantines": 0,
+        "cohort_retry_counts": {},
+        "small_pause_gate_status": "PHASE_0_ARGON_PLANNING_LOCKED",
         "active_blockers": []
     }
     save_state(new_state)
-    print(f"Switched active monument to: {mon.get('title')}")
+    print(f"Switched active monument to: {mon.get('title')} (Phase 0 Argon Planning Lock engaged)")
     display_status(new_state)
+
 
 def main():
     parser = argparse.ArgumentParser(description="Sovereign Orchestrator State Controller")
@@ -174,9 +193,9 @@ def main():
     parser.add_argument("--set-monument", help="Switch active monument by ID")
     parser.add_argument("--add-blocker", help="Register an active blocker")
     parser.add_argument("--clear-blockers", action="store_true", help="Clear all blockers")
-    
+
     args = parser.parse_args()
-    
+
     if args.status or len(sys.argv) == 1:
         display_status(load_state())
     elif args.set_status:
@@ -189,6 +208,7 @@ def main():
         add_blocker(args.add_blocker)
     elif args.clear_blockers:
         clear_blockers()
+
 
 if __name__ == "__main__":
     main()

@@ -1,4 +1,4 @@
-<!-- LEAF: p1 -->
+=== LEAF p1 ===
 
 # GUIDE TO THE ECCLESIASTICAL TYPIKON,
 
@@ -25,12 +25,12 @@
 **BOOK-PRINTING PRESS OF THE SOCIETY OF ST. BASIL THE GREAT**  
 **1901**
 
-<!-- LEAF: p2 -->
+=== LEAF p2 ===
 
 > “The law of Thy mouth is good to me, above thousands of gold and silver.”  
 > — *Psalm 118:72*
 
-<!-- LEAF: p3 -->
+=== LEAF p3 ===
 
 # TO MY PROTECTRESS:
 
@@ -40,9 +40,11 @@
 
 # BE HONOUR AND GLORY!
 
-<!-- LEAF: p4 [Blank Leaf] -->
+=== LEAF p4 ===
 
-<!-- LEAF: p5 -->
+[Blank Leaf]
+
+=== LEAF p5 ===
 
 # PREFACE TO THE READER
 
@@ -56,7 +58,7 @@ And although in ecclesiastical services both elements are equally important, nev
 
 This material element, these ritual prescriptions, are compiled in our public ecclesiastical books. Our ecclesiastical books are an evident witness to how great, how magnificent, how wondrous is the material element of our
 
-<!-- LEAF: p6 -->
+=== LEAF p6 ===
 
 ecclesiastical rites. Yet not only are they witnesses, but what is more, they are themselves the rite-bearing books.
 
@@ -72,7 +74,7 @@ However, since such a guiding and systematic booklet, in which this material ele
 
 My aim was likewise none other than through this booklet to be of assistance to our alumni, our future! For up to this time, as is well known, for the most part they learned the holy rites solely from the oral instruction of professors; and this oral instruction—without any textbook—was very arduous for them. But besides this, in the sense of the Latin proverb: *“Verba volant, scripta manent”* [Spoken words fly away, written words remain], with many it also happened that in practical life they forgot these ritual instructions, or mistakenly adapted and distorted them into something else, so that by not keeping the ecclesiastical prescriptions before their eyes they testified to the truth of these words: *“Graeca per Ausoniae fines sine lege vagantur”* [Greek rites wander without law throughout the borders of Ausonia].
 
-<!-- LEAF: p7 -->
+=== LEAF p7 ===
 
 Therefore, esteemed reader, in these remarks you have learned my aim and intention, lest you should think that through this booklet I desire to uproot the antiquity and antiquities (*antiquitates* [antiquities]) of our Church and introduce novelty and novelties (*novitates* [novelties]) according to my own opinion—oh no!—this intention is far from me. I keep in mind the words of the Universal Chief Hierarch of blessed memory, Pope Pius IX, who in the Bull *“Omnem sollicitudinem”* (May 3, 1874)[^1] expresses himself thus: *“Nemini prorsus, hac Sancta Sede inconsulta, fas esse in re liturgica vel leviores innovationes peragere”* [It is absolutely unlawful for anyone, without consulting this Holy See, to carry out even rather slight innovations in liturgical matters]; and further: *“Nec ullius momenti est, quod ad fucum faciendum adjicitur, nimirum hujusmodi liturgicas innovationes proponi, ut orientalis ritus expurgetur et ad nativam integritatem restituatur”* [Nor is it of any weight whatsoever what is added to create a pretext—namely, that liturgical innovations of this kind are proposed so that the Eastern rite may be purified and restored to its native integrity]. And I will sincerely say that I desire only what others also ought to desire, namely: *“Ut tollatur abusus, et maneat usus”* [That abuse may be removed, and customary usage may remain].
 
@@ -88,9 +90,11 @@ In Ungvár (Uzhhorod), on the feast of St. Panteleimon the Healer, 1900.
 
 **THE AUTHOR.**
 
-<!-- LEAF: p8 [Blank Leaf] -->
+=== LEAF p8 ===
 
-<!-- LEAF: p9 -->
+[Blank Leaf]
+
+=== LEAF p9 ===
 
 # TABLE OF CONTENTS
 
@@ -122,7 +126,7 @@ In Ungvár (Uzhhorod), on the feast of St. Panteleimon the Healer, 1900.
 **§ 14.** On Ecclesiastical Books in General — 25  
 **§ 15.** Which of the Ecclesiastical Books are Public? Horologion (*Chasoslov*), Psalter (*Psaltyr*), Triodion (*Trypisnets*), Pentecostarion (*Piatdesiatnytsia*), Octoechos (*Osmohlasnyk*), Chant Book (*Pisnoslov*), Monthly Books (*Misiachnyia Knyhy* / Menaia), Anthologion (*Tsvitoslov*), Synaxarion, Apostol, Gospel (*Evangeliye*), Sluzhebnik, Trebnik, and Typikon (*Typik*) — 25
 
-<!-- LEAF: p10 -->
+=== LEAF p10 ===
 
 *Page*  
 **§ 17.** Which of the Ecclesiastical Books are Private? — 33  

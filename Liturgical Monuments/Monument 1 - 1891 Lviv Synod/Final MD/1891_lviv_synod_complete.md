@@ -54,7 +54,9 @@
 
 Ever since the Ruthenian people embraced holy union with the Holy Apostolic See, which was happily accomplished in the year 1595, they have celebrated in the course of 125 years only one synod, and that a provincial one in the year 1720, in the city of Zamość [^1]. That from that time onward no other synod was celebrated was due to many impeding circumstances, above all the political partition of the realm, namely the Kingdom of Poland, of which the Ruthenian principality constituted no small part. Through that partition the dioceses were likewise severed from one another and annexed to new states, namely to Russia and Austria [^2].
 
-The Churches of the Catholic Ruthenians who stood under the dominion of Russia experienced indeed at first a semblance of certain tolerance from the rulers of Russia; nevertheless even then the Ruthenian Churches were not granted a genuine opportunity freely to develop their spiritual welfare. With time, however, even that apparent liberty was completely taken away; what is more, through the employment of diverse artifices and intrigues on the part of the schismatics, the Ruthenian Church in the aforementioned state was not only unable to celebrate any synod, but, alas! led by the most unhappy fate, fell into ruin; for, having been forcibly dragged into lamentable apostasy and compelled to draw and drink foul water from the cesspool of schism, she lost the vital power of the spirit, and, having abandoned Peter, who by eternal decree from Christ the Lord was established as the lawful Pastor of the flock of His sheep, she perished miserably.
+The Churches of the Catholic Ruthenians who stood under the dominion of Russia experienced indeed at first a semblance of certain tolerance from the rulers of Russia; nevertheless even then the Ruthenian Churches were not granted a genuine opportunity freely to develop their spiritual welfare.
+
+With time, however, even that apparent liberty was completely taken away; what is more, through the employment of diverse artifices and intrigues on the part of the schismatics, the Ruthenian Church in the aforementioned state was not only unable to celebrate any synod, but, alas! led by the most unhappy fate, fell into ruin; for, having been forcibly dragged into lamentable apostasy and compelled to draw and drink foul water from the cesspool of schism, she lost the vital power of the spirit, and, having abandoned Peter, who by eternal decree from Christ the Lord was established as the lawful Pastor of the flock of His sheep, she perished miserably.
 
 As regards the other part of the Ruthenian Church, which Divine Providence was pleased to entrust to the solicitude of the Rulers of Austria, she, by the grace of God down to this day, ever listens to the voice of the Supreme Pastor, and follows Him whithersoever He leads, and flourishes, nourished by the wholesome food provided unto her by Him; yet notwithstanding this, neither was she in a position to celebrate synods. For the two Ruthenian dioceses situated in Hungary, on account of territorial distance, possess no hierarchical union with the Metropolitanate of Halych, but are subject to the Primate of Hungary, on which account from almost immemorial times they have had no connection with the Galician Ruthenians, especially since the state was divided, as it were, into two parts, namely into the Austrian and the Hungarian. The third diocese, that of Križevci (of the Holy Cross), situated in Croatia, which employs in its sacred ministrations the very same rite and liturgical language as the Ruthenians, is likewise not joined to the Metropolitanate of Halych, but is subject to the Archbishop of Croatia and Slavonia of the Latin rite [^3]; so that when Your Holiness happily assumed the governance of the universal Church, only two Catholic Ruthenian dioceses remained in connection with each other, and these were not in a position to hold a provincial synod.
 
@@ -191,7 +193,7 @@ We append also unto this Encyclical the Program of the Ordo of the Synod to be c
 ### Papal Confirmation & Appointment of Archbishop Ciasca
 **Most Reverend Bishops, Very Reverend Fathers, and Brethren in Christ!**
 
-At this last moment, as We were concluding the printing of our Encyclical, We received that joyful communication which, by means of a dispatch of His Eminence Giovanni Cardinal Simeoni, Prefect of the S. Congregation for the Propagation of the Faith, under date of August 10 of the current year, No. 368, was communicated unto Us: that His Holiness Pope Leo XIII was graciously pleased to impart, for the inception and prosperous conduct and success of the synodal labors, His Apostolic Blessing; and at the same time, to confer greater honor and importance upon this our Synod, to appoint as His Delegate and President:
+At this last moment, as We were concluding the printing of our Encyclical, We received that joyful communication which, by means of a dispatch of His Eminence Giovanni Cardinal Simeoni, Prefect of the S. Congregation for the Propagation of the Faith, under date of August 10 of the current year, No. 368, was communicated unto Us: that His Holiness Pope Leo XIII was graciously pleased to impart, for the inception and prosperous conduct and success of the synodal labors, His Apostolic Blessing; and at the time, to confer greater honor and importance upon this our Synod, to appoint as His Delegate and President:
 
 His Excellency the Most Reverend **Agostino Ciasca**, titular Archbishop of Larissa, Prefect of the Vatican Archives, Member and Consultor of the Sacred Congregation for the Propagation of the Faith.
 
@@ -2470,8 +2472,6 @@ Furthermore, although endeavor must be made by all means that in such Monasterie
 2. The Forty Days Fast, that is, forty days before the Nativity of the Lord [St. Philip's Fast / Pylypivka].
 3. The Fast before the feast of the Supreme Apostles Peter and Paul [Apostles Fast / Petrivka], which beginneth with Monday after the Sunday of All Saints, or the first after Pentecost, and concludeth with the eve of the feast itself.
 
----
-
 **4.** The Fast before the Dormition of the Most Pure Virgin, which begins with the 1st day of August and concludes with the eve of the feast itself.
 
 **5.** On the feast of the Beheading of the Head of the Holy Prophet, Forerunner, and Baptist John, August 29.
@@ -2498,7 +2498,7 @@ Furthermore, although endeavor must be made by all means that in such Monasterie
 
 **6.** Having in this manner mitigated the law on fasting, the Synod trusts that the faithful will not cease to apply themselves to the observance of the same, and especially pastors of souls will exercise care that these be not broken on account of any circumstance that might seem to counsel their omission; lest peradventure the faithful be scandalized, especially if dancing should also be joined to the transgression of fasts.
 
-**7.** Finally, pastors of souls must instruct the faithful committed to them concerning the manner of keeping the fast, that is, that they should not restrict themselves to abstinence from foods, but also rein in the impulses of sins; moreover they must insist upon the multiplication of saving works, especially of charity, such as almsgiving and other works of piety, according to the teaching of St. Basil the Great: 
+**7.** Finally, pastors of souls must instruct the faithful committed to them concerning the manner of keeping the fast, that is, that they should not restrict themselves to abstinence from foods, but also rein in the impulses of sins; moreover they must insist upon the multiplication of saving works, especially of charity, such as almsgiving and other works of piety, according to the teaching of St. Basil the Great:
 
 > *"The benefit of fasting is not to be measured by mere abstinence from foods, for true fasting consists in being free from all sins; loose every bond of iniquity, forgive the wrong done to thy neighbor, and remit the debt. Fast not for strife and debates. Thou eatest no meat, but meanwhile thou devourest thy brother. Thou abstainest from wine, but meanwhile thou dost not abstain from injustices. Woe unto those who are drunken, but not with wine; the wrath of the spirit is drunkenness, robbing him of his senses no less than wine."* [^253]
 
@@ -2508,7 +2508,7 @@ Furthermore, although endeavor must be made by all means that in such Monasterie
 
 ### CHAPTER I. On Divine Liturgies and Other Offices for the Departed
 
-**1.** If already in the Old Testament it was a saving and holy thought to pray to God for the departed that they might be loosed from the burden of their sins, far more does it behoove us to hold this in the New Testament, especially since Christ, having conquered death, opened for us in His blood the way into the Holy of Holies not made with hands, that is, into heaven, under Whose guidance the multitude of the Saints ceases not to enter into that eternal rest from this valley of our mortal pilgrimage. Seeing, therefore, that this eternal rest, through the finding of eternal redemption by Christ [^254], is already opened, while in the meantime many souls detained in purgatory yearn for it with the greatest longing, it appears most fitting that on the part of the Church Militant saving assistance be granted them for their deliverance therefrom, which can be accomplished especially and above all through the sacrifice of the Divine Liturgy, almsgiving, and prayers, both public by the Church and private by the faithful, as we know and believe from the faith. Concerning this, St. John Chrysostom [^255] expresses himself thus: 
+**1.** If already in the Old Testament it was a saving and holy thought to pray to God for the departed that they might be loosed from the burden of their sins, far more does it behoove us to hold this in the New Testament, especially since Christ, having conquered death, opened for us in His blood the way into the Holy of Holies not made with hands, that is, into heaven, under Whose guidance the multitude of the Saints ceases not to enter into that eternal rest from this valley of our mortal pilgrimage. Seeing, therefore, that this eternal rest, through the finding of eternal redemption by Christ [^254], is already opened, while in the meantime many souls detained in purgatory yearn for it with the greatest longing, it appears most fitting that on the part of the Church Militant saving assistance be granted them for their deliverance therefrom, which can be accomplished especially and above all through the sacrifice of the Divine Liturgy, almsgiving, and prayers, both public by the Church and private by the faithful, as we know and believe from the faith. Concerning this, St. John Chrysostom [^255] expresses himself thus:
 
 > *"Let us therefore weep for them (the deceased), let us bring relief according to our power, let us prepare some help for them, small indeed, yet such as can help. How, or in what manner? Both by pouring forth prayers ourselves, and by asking others to pour forth prayers for them, and by giving almsgiving frequently for them to the poor. That deed brings some consolation. For hear God speaking thus: 'I will protect this city for My own sake and for the sake of David My servant' [^256]. If the very remembrance of a righteous man availed so much, where in addition deeds are performed for the dead, what will they not be able to achieve? Not in vain was this established by ordinances from the Apostles, that in the venerable, I say, and awesome Mysteries remembrance should be made of those who have fallen asleep; they knew that from this much gain, much benefit would come to them. For at that time, when the whole people and the council of Priests stand with outstretched hands and that awe-inspiring Sacrifice is present, how should we not conciliate God when praying for them? And that for those who have fallen asleep in the faith?"*
 
@@ -2518,7 +2518,7 @@ And in Homily [^257] on the Gospel of John the same Saint says:
 
 And on the Acts of the Apostles, St. John Chrysostom speaks thus [^258]: 
 
-> *"Not in vain are there oblations for the departed; not in vain prayers, not in vain almsgiving; all this the Holy Spirit ordained, willing that we should help one another mutually. For look: he receives benefit through thee, and thou art assisted for his sake; thou hast despised wealth in order to do something noble, and thou hast become the cause of his salvation, while he is the cause of thine almsgiving. Doubt not that he will bear away something good therefrom. Not in vain does the Deacon proclaim: **\"For those who have fallen asleep in Christ, and for those who make remembrance of them\"** (\*О иже во Христѣ преставивших ся, и иже о нихъ память творящихъ\*); it is not the Deacon who utters this voice, but the Holy Spirit, I say, His gift... Knowing this, then, let us consider what great consolations we can provide to the departed, instead of tears, instead of weeping, instead of monuments, namely: almsgiving, prayers, oblations, that both they and we may inherit the promised blessings."*
+> *"Not in vain are there oblations for the departed; not in vain prayers, not in vain almsgiving; all this the Holy Spirit ordained, willing that we should help one another mutually. For look: he receives benefit through thee, and thou art assisted for his sake; thou hast despised wealth in order to do something noble, and thou hast become the cause of his salvation, while he is the cause of thine almsgiving. Doubt not that he will bear away something good therefrom. Not in vain does the Deacon proclaim: **\"For those who have fallen asleep in Christ, and for those who make remembrance of them\"** (\*О иже во Христѣ преставивших ся, и иже о нихъ память творящихъ\*); it is not the Deacon who utters this > voice, but the Holy Spirit, I say, His gift... Knowing this, then, let us consider what great consolations we can provide to the departed, instead of tears, instead of weeping, instead of monuments, namely: almsgiving, prayers, oblations, that both they and we may inherit the promised blessings."*
 
 **2.** This saving and holy thought of praying for the departed Holy Church of God has always preserved; now directing sacrifices of the Divine Liturgy to be offered for them, now establishing special and proper offices for the departed; and specifically the Church of our rite prescribes both the sacrifice of the Divine Liturgy and the entire Office for the departed to be celebrated at determined times during the year, and that fully twice in the year, namely: on Meatfare Saturday and on the Saturday before the Descent of the Holy Spirit [Pentecost Saturday]; partially also on every Saturday of the entire year, and especially on the 2nd, 3rd, and 4th Saturdays of the Great Forty Days [Lent]; finally, it is ordained in our Typikon (*Уставъ*) to make remembrance of the departed on the 3rd, 9th, and 40th day after death [^259], and according to the Apostolic Constitutions likewise on the anniversary of death [^260]. According to the pious custom of our Ruthenian Churches, it is also customary to celebrate solemnly the Divine Liturgy and the Office for the departed immediately on the day following the patronal feast of the church (*храмовий праздник*), unless it falls on one of those days when a Liturgy for the departed is forbidden, in which case it is proper to transfer it to the nearest following unhindered day. Beyond the regular order, parish priests (*парохи*) are obligated to celebrate divine worship for the departed on convenient days, as many times as the faithful, out of their own holy devotion, request the same for a given stipend.
 
@@ -2533,8 +2533,6 @@ And on the Acts of the Apostles, St. John Chrysostom speaks thus [^258]:
 **2.** To the same rule is subject the celebration of the Divine Liturgy for the departed on the 3rd, 9th, and 40th day, as well as on the anniversary of death or burial of the deceased; wherefore in those cases it is proper either to celebrate the Divine Liturgy a day in advance, or to transfer it to the nearest unhindered day.
 
 **3.** As to private Liturgies (*Литургії приватні* / low masses), these are forbidden on every Sunday, on solemn feasts and polyeleos feasts, as also throughout the three days of the death of Christ, as stated above. In all cases in which a Divine Liturgy for the departed is celebrated, it is not proper to intermingle variable parts (such as troparia, kontakia, etc.) of any current feast or of the office of a Saint, but to take only that which is proper to the departed, excepting the Epistle and Gospel of the day of the week, since these do not have a festal character; wherefore they may precede the Epistle and Gospel for the departed.
-
----
 
 ### § II. On the Office for the Departed
 
@@ -2557,8 +2555,6 @@ And on the Acts of the Apostles, St. John Chrysostom speaks thus [^258]:
 **9.** At funeral sermons, which are not infrequently delivered at the burial of the deceased, whether in church or outside and in cemeteries, let the speaker exercise great caution that the sermon does not dwell upon scandalous matters, but rather upon the commendation of virtues, contempt for human affairs, and the inculcation of love for heavenly things, or at the very least upon awakening the remembrance of death and entreating assistance for the departed [^262].
 
 **10.** But since in these more recent times, especially in the towns, it happens at times, as is known, that certain laypersons make bold to extol the memory of the deceased with their own speeches, therefore the Synod strictly commands Pastors that they give no place to such speeches, as far as possible; and if it should be difficult for them to prevent it, then let them expressly declare to such speakers that in the midst of the sacred action they cannot permit their speeches, and that at most this may be permitted them either before or after the sacred action, namely when the Priest has either not yet begun or has already concluded the prescribed sacred action for the departed and has laid aside the sacred vestments; but even this can never be permitted to laypersons in church, but at most may be permitted outside church, that is, tolerated.
-
----
 
 ### CHAPTER II. On Ecclesiastical Burial and Cemeteries
 
@@ -2644,8 +2640,6 @@ According to the Council of Trent [^272], provincial Synods must indeed be held 
 
 **6.** If any change should have to be made with respect to church property, let administrators, in order to undertake that...
 
----
-
 **6.** ...that they have recourse to their Ordinaries, but never presume to undertake that on their own. Further, let them endeavor that these goods be preserved intact in their state, and that especially in the case of a transfer of administrators they suffer no injury to the detriment of their successors; in particular, let them not clear-cut forests where the benefice (*ерекція*) possesses such, but for obtaining profit from them, let them proceed according to the forest laws; which must likewise be observed with respect to fruit orchards.
 
 **7.** The leasing [of church property] for a year, or with the permission of the Ordinariate for three years, is to be granted to none other than the most honorable Christians.
@@ -2674,6 +2668,7 @@ The Names of the Signatories Follow:
 * **Andrei Biletsky**, Scholastic of the Greek-Catholic Metropolitan Chapter of Lviv, Domestic Prelate of His Holiness Pope Leo XIII.
 * **Yosyf Kobyliansky**, Chancellor of the Metropolitan Chapter.
 * **Lev Turkevych**, Canon of the Greek-Catholic Chapter of Lviv and Pastor of the Archcathedral.
+
 * **Dr. Yosyf Komarnytsky**, Canon of the Greek-Catholic Metropolitan Chapter and Ordinary Professor of the University.
 * **Martin Pakizh**, Privy Chamberlain of His Holiness, Canon of the Greek-Catholic Chapter of Lviv.
 * **Emilian Bilynsky**, Canon of the Greek-Catholic Metropolitan Chapter of Lviv.
@@ -2699,6 +2694,7 @@ The Names of the Signatories Follow:
 * **Yulian Koptsiansky**, Administrator of the Deanery of Halych and Pastor of Halych.
 * **Mykhailo Kulmatytsky**, Dean and Pastor of Horodok.
 * **Yosyf Kernyakevych**, Dean of Zhuravno, Pastor in Cherniv.
+
 * **Kornyliy Montsibovych**, Administrator of the Deanery of Zalozhtsi and Pastor in Vertilka.
 * **Hryhoriy Chubaty**, Dean of Zbarazh, Pastor in Stupky.
 * **Yevstakhiy Klosevych**, Dean of Zboriv, Pastor in Prysivtsi.
@@ -2731,6 +2727,7 @@ The Names of the Signatories Follow:
 * **Klyment Hlynsky**, Titular Consistorial Councillor, Pastor in Kamianka.
 * **Atanasiy Pashkovsky**, Pastor in Olesko.
 * **Volodymyr Petrushevych**, Archcathedral Confessor.
+
 * **Ioan Chapelsky**, Prefect of the Greek-Catholic Seminary in Lviv.
 * **Dr. Tyt Myshkovsky**, Prefect of Studies in the Greek-Catholic General Seminary in Lviv.
 * **Dr. of Sacred Theology Ilariy Vatsyk**, Prefect of Studies, Catechist of Gymnasium V in Lviv.
@@ -2760,6 +2757,7 @@ The Names of the Signatories Follow:
 * *With reservation of the rights reserved to the Apostolic See, I sign:* [^277]  
   **Dr. Yosyf Cherlyunchakevych**, Retired Professor and Dean of the Jagiellonian University of Kraków and of Lviv.
 * **Oleksiy Toronsky**, Professor of Religion in the Imperial and Royal Academic Gymnasium of Lviv and Councillor of the Metropolitan Consistory.
+
 * **Dr. of Sacred Theology Ioan Hrobelsky**, Professor of Pastoral Theology in the Greek-Catholic Seminary of Przemyśl.
 * **Poliyevkt Kmyt**, Substitute Professor of Canon Law and Prefect of Studies in the Greek-Catholic Seminary of Przemyśl.
 * **Dr. Mykolay Malynyak**, Pastor of Slyvnytsia, Delegate of Nizhankovychi.
@@ -2790,6 +2788,7 @@ The Names of the Signatories Follow:
 * **Emilian Levytsky**, Pastor of Tartakiv, Deanery of Sokal.
 * **Aleksander Nestorowych**, Dean of Sambir and Pastor in Sambir.
 * **Georgiy Hladylovych**, Pastor of Khyriv, Retired Dean of Birecha.
+
 * **Lev Shchavynsky**, Dean of Staryi Sambir, Pastor in Stare Misto.
 * **Lev Sembratovych**, Administrator of the Deanery of Sanok and Pastor in Chertezh.
 * **Ioan Holovynsky**, Pastor in Moloshkovychi, Dean of Sudova Vyshnia.
@@ -2821,6 +2820,7 @@ The Names of the Signatories Follow:
 * **Yulian Levytsky**, Vice-Dean of Buchach, Pastor of Zhyznomyr.
 * **Kyrylo Pachovsky**, Pastor and Dean of Bohorodchany.
 * **Kyrylo Hamorak**, Greek-Catholic Cooperator with right of parish administration in Stetseva.
+
 * **Stefan Lenkavsky**, Pastor in Uhornyky.
 * **Maksymiliyan Krushelnytsky**, Pastor in Nazirna.
 * **Ioan Hrabovych**, Pastor in Tysmenytsia.
@@ -2839,8 +2839,6 @@ The Names of the Signatories Follow:
 
 ---
 
----
-
 # PAPAL CONFIRMATION, SYNODAL APPENDICES (INCLUDING APPENDIX XXXI: LITURGICAL TYPIKON), AND ALPHABETICAL INDEX
 
 ## Decree of Papal Confirmation
@@ -2854,8 +2852,6 @@ The Names of the Signatories Follow:
 > When the undersigned Secretary submitted this resolution of the Sacred Congregation to the Holy Father, Our Lord Pope Leo XIII, in an audience on the 30th day of April 1895, the Most Holy Father deigned to approve and confirm it in all respects, anything to the contrary notwithstanding.  
 >  
 > *Given at Rome, from the house of the same Sacred Congregation de Propaganda Fide for the Affairs of the Eastern Rite, on the 1st day of March, 1895.* [^278]
-
----
 
 ## Official Synodal Table of Contents
 ### Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)
@@ -2873,6 +2869,7 @@ The Names of the Signatories Follow:
   - First General Congregation *(p. 46)*
   - First Session *(p. 48)*
   - Second General Congregation *(p. 63)*
+
   - Second Session *(p. 65)*
   - Third General Congregation *(p. 67)*
   - Third Session *(p. 67)*
@@ -2906,6 +2903,7 @@ The Names of the Signatories Follow:
 
 * **TITULUS IV. On Public Worship of God** *(p. 109)*
   - Chapter I. On the Sacrifice of the Divine Liturgy *(p. 109)*
+
   - Chapter II. On Intentions and Stipends for Divine Liturgies *(p. 114)*
   - Chapter III. On the Canonical Hours (Church Rule) and Other Public Divine Services *(p. 118)*
   - Chapter IV. Regarding the Celebration of Extra-Ordinary Rites, Certain of Which Are Attached to Immovable Feasts and Others to Movable Feasts *(p. 121)*
@@ -2935,6 +2933,7 @@ The Names of the Signatories Follow:
 * **TITULUS VII. On the Ecclesiastical Hierarchy** *(p. 189)*
   - Chapter I. On the Roman Pontiff *(p. 190)*
   - Chapter II. On the Metropolitan *(p. 191)*
+
   - Chapter III. On Bishops *(p. 194)*
   - Chapter IV. On Cathedral Chapters *(p. 197)*
   - Chapter V. On Vicars Forane or Deans *(p. 200)*

@@ -1,6 +1,6 @@
 ---
 
-[Leaf p361 / Page 359]
+=== LEAF p361 ===
 
 ### August 29
 
@@ -16,7 +16,7 @@ All according to the Typikon of the Deposition of the Robe, July 2, here on p. 3
 
 ---
 
-[Leaf p362 / Page 360]
+=== LEAF p362 ===
 
 # Part IV
 
@@ -42,7 +42,7 @@ After **"It is truly right"** (*Достойно есть*), the Kontakion of th
 
 ---
 
-[Leaf p363 / Page 361]
+=== LEAF p363 ===
 
 2. All the rest up to the Canon is Resurrectional as usual, only after Psalm 50, in place of **"Glory: Through the prayers of the holy Apostles..."** and the rest, on all Sundays of the Lenten Triodion we sing **"Glory: Open to me the doors of repentance..."**, **"Both now: Guide me onto the paths of salvation..."**; and after the verse **"Have mercy on me, O God..."**, the Sticheron: **"When I ponder the multitude of evil things I have done..."**
 3. 4 Canons for 14: Resurrectional of the Octoechos with the Heirmos for 4, and Cross-Resurrectional for 2, and of the Mother of God for 2, and of the Triodion for 6. Katavasia of the day: **"I will open my mouth"** (*Отверзу уста моя*). — After the 3rd Ode, Sessional Hymn of the Triodion; after the 6th Ode, Kontakion and Ikos of the Triodion; after the 9th Ode, **"Holy is the Lord our God"** (*Святъ Господь Богъ нашъ*), and Resurrectional Exaposteilarion; **"Glory..."**, of the Triodion; **"Both now..."**, its Theotokion.
@@ -58,7 +58,7 @@ At all [the Hours], the Resurrectional Troparion, and the Kontakion of the Triod
 
 ---
 
-[Leaf p364 / Page 362]
+=== LEAF p364 ===
 
 2. Prokimenon and Alleluia of the Resurrection Tone.
 3. Apostle and Gospel of the Sunday.
@@ -76,7 +76,7 @@ All according to the Typikon of the Sunday of the Publican and the Pharisee, her
 
 ---
 
-[Leaf p365 / Page 363]
+=== LEAF p365 ===
 
 Matins we read only two Kathismata. We do likewise also in Cheesefare Week, except for Wednesday and Friday.[^475]
 
@@ -95,7 +95,7 @@ Matins we read only two Kathismata. We do likewise also in Cheesefare Week, exce
 
 ---
 
-[Leaf p366 / Page 364]
+=== LEAF p366 ===
 
 4. In place of the daily Prokimenon, we sing Alleluia in Tone 8, with two Funeral verses.
 5. Aposticha of the Octoechos of the current Tone; **"Glory..."**, of the Triodion; **"Both now..."**, likewise of the Triodion.
@@ -113,7 +113,7 @@ Matins we read only two Kathismata. We do likewise also in Cheesefare Week, exce
 
 ---
 
-[Leaf p367 / Page 365]
+=== LEAF p367 ===
 
 4. Kathisma 16 of the day, the Small Litany, and Sessional Hymn of the Octoechos of the current Tone.
 5. All the rest up to the Canon as at the Parastas, namely the 17th Kathisma (the *Amomoi* / Blameless) with their verses, divided into two Stases, of which the first concludes with the Litany for the departed, and the second with the Funeral Troparia: **"The Choir of the Saints"** (*Святыхъ Ликъ*), then the Litany for the departed, and at the end both the Funeral Sessional Hymn and Psalm 50.
@@ -132,7 +132,7 @@ All for the departed, only the Epistle and Gospel first of the day, then for the
 
 ---
 
-[Leaf p368 / Page 366]
+=== LEAF p368 ===
 
 ### Meatfare Sunday: On the Dread Judgment
 
@@ -153,7 +153,7 @@ The Odes of the Triodion-Canon on the first five days of this Week, as also of a
 
 ---
 
-[Leaf p369 / Page 367]
+=== LEAF p369 ===
 
 ### Typikon for Cheesefare Monday, Tuesday, and Thursday
 
@@ -172,7 +172,7 @@ The Canon of the Mother of God is omitted.[^480]
 
 ---
 
-[Leaf p370 / Page 368]
+=== LEAF p370 ===
 
 6th, 8th, and 9th Odes, and also wherever there is a Triodion-Canon, always the Heirmos of the last Canon.
 3. Aposticha of the Triodion with the usual Refrains of the Horologion.
@@ -191,7 +191,7 @@ Because of the Lenten appearance of the Church Office of these days, one ought t
 
 ---
 
-[Leaf p371 / Page 369]
+=== LEAF p371 ===
 
 2. After **"Now lettest Thou Thy servant depart"** with the Trisagion, 3 Troparia, namely: **"O Virgin Theotokos"** (*Богородице Дѣво*), **"Glory..."**, to the Baptist, **"Both now..."**: **"Pray for us, holy Apostles"** (*Молите*), each with a prostration at the end; then **"Beneath Thy compassion"** (*Подъ твою милость*) without a prostration.[^484]
 3. From **"Lord, have mercy"** 40 times even unto the end, all as in the Horologion; nevertheless, at the last Trisagion and at **"Blessed be the name of the Lord"**, which must be said before Psalm 33: **"I will bless the Lord at all times"**, there are 3 prostrations (smaller); at the Prayer of St. Ephrem there are 16 prostrations,[^485] namely 3 great, 12 small, and again one great, as thou hast at the daily Midnight Office after **"Thou Who at all times"**.[^486] The Dismissal is with the usual commemoration of the weekday service, and of the Saint.
@@ -202,7 +202,7 @@ The prostrations made at the first three Troparia, according to the Typikon, are
 
 ---
 
-[Leaf p372 / Page 370]
+=== LEAF p372 ===
 
 piety, among us great ones are made. For here this bow is simply called *metanoia*, whereas with the addition *megale* [great] it is appointed only at the Prayer of St. Ephrem, and sometimes at the end of Vespers after the Litany **"Have mercy on us, O God"**. Nor at the Great Canon does the Typikon prescribe great prostrations, but simply *metanoias*.
 2. Neither the Greek nor the Slavic Typika describe the manner of the great or the smaller prostration. Custom, however, has it thus: that one making a great prostration falls upon the knees and touches the forehead to the ground; while one making a smaller prostration does not fall upon the knees, nor touches the forehead to the ground, but having signed himself with the cross bows down, touching with the right hand either to the ground, or only to the knees, as the Synod of Lviv has in Title V: *On the Holy Liturgy*, in the prayers made before the Iconostas prior to the Proskomide.[^487] We touch with the right hand even unto the ground when we bow to the Holy Mysteries, but only to the knees when we bow to the Holy Icons, or in various kinds of supplications. Nevertheless, our people in these lands do not have the custom when bowing to stretch out their hands to the ground or to the knees, but only make the sign of the cross and bow: more deeply indeed before the Holy Mysteries, but less so in other circumstances. We deem, however, that in the smaller Lenten prostrations we ought to reach with the hand even unto the knees, for throughout the entire year at the Trisagion and at **"Come, let us worship"** we make bows without reaching with the hand even to the knees.[^488]
@@ -214,7 +214,7 @@ piety, among us great ones are made. For here this bow is simply called *metanoi
 
 ---
 
-[Leaf p373 / Page 371]
+=== LEAF p373 ===
 
 the three verses of **"Come, let us worship"**;[^489] 3. At the **"Alleluia"** which follows the first and second Trisagion; 4. At **"O God, be merciful"** which follows the suppliant Verses to the Most Holy Theotokos; 5. At each suppliant Verse one small prostration, and at the Prayer of St. Ephrem 16 prostrations: 4 great and 12 small.[^490]
 
@@ -228,7 +228,7 @@ We make 3 small prostrations: at every Trisagion; at both verses of **"Come, let
 
 ---
 
-[Leaf p374 / Page 372]
+=== LEAF p374 ===
 
 of the three *Glories* of the *Amomoi* (Blameless); and 16 at the Prayer of St. Ephrem, namely 4 great and 12 small.
 
@@ -245,13 +245,13 @@ We make prostrations according to the Typikon of Lenten Matins: 1. At the **"All
 
 ---
 
-[Leaf p375 / Page 373]
+=== LEAF p375 ===
 
 for the Saint for 4, and of the Triodion for 4. In whichever Odes the Triodion-Canon arrives, we sing the Canon of the Triodion for 6, and both Canons of the Triodion-Canon together for 8, and yet one additional Troparion with the Refrain: **"Glory to Thee, our God, glory to Thee"**, and afterwards for the Katavasia the Heirmos of the second Triodion-Canon; and in whichever Odes there is no Triodion-Canon, we deem that the Katavasia will be the Heirmos of the last Canon, namely of the Triodion, after each Ode, as the Triodion has on Cheesefare Friday: for these two days have one and the same Typikon, although on Wednesday it is not set forth precisely. The Canon of the Octoechos and of the Menaion, in these Odes according to the Typikon of the Greek Triodia, is omitted.[^497] The Slavic Typika, however, for which the Greek length is not sufficient, transfer the Odes of the Canon of the Menaion to the preceding Odes, in which the Triodion-Canon has no place, and they sing on Wednesday Ode 1 of the Octoechos with the Heirmos for 4, and of the Menaion Odes 1 and 3 (without Theotokia) for 6, and of the Triodion for 4; on Friday, Ode 4 of the Octoechos for 4, and of the Menaion Odes 4 and 5 for 6, and of the Triodion for 4. Similarly also Ode 6 of the Octoechos for 4, and of the Menaion Odes 6 and 8 for 6, and of the Triodion for 4. Likewise also Ode 6 of the Octoechos for 4, and of the Menaion Odes 7 and 8 for 6, and of the Triodion for 4. The Biblical Canticles from the Psalter we do not say.[^498] To the Troparia of the Canons we chant the general Refrains (on p. 30). After the 3rd Ode, Sessional Hymn to the Saint; after the 6th Ode, Kontakion to the Saint; if not, we say the Martyr's Troparion of the Octoechos of the current Tone, set at the end of the Triodion after the Sessional Hymns of Matins. Moreover, in our present-day Horologia,
 
 ---
 
-[Leaf p376 / Page 374]
+=== LEAF p376 ===
 
 Kontakia are appointed for all Saints.[^499] After the 9th Ode, the Triadicon Exaposteilarion of the Tone.
 5. Before the Small Doxology the Priest says: **"To Thee glory is due."**
@@ -265,7 +265,7 @@ All according to the Lenten Typikon of the Holy Forty Days, except for the readi
 
 ---
 
-[Leaf p377 / Page 375]
+=== LEAF p377 ===
 
 parion.[^501] This kneeling the Choir makes 3 times: once after singing the Troparion before the Verse, and once after singing the Troparion after the 1st verse, and once after singing the Troparion after the 2nd verse.[^502] After singing the Troparion with its Verses we say **"Glory... Both now..."**, Theotokion, and 3 prostrations. (At the 6th Hour, immediately after the Theotokion, there is the Troparion of the Prophecy, and one Reading of the Prophecy between two Prokimena in the Triodion).
 3. Then we sing: **"Order my steps"** (*Стопы моя*) in 4 Verses, namely:
@@ -278,7 +278,7 @@ parion.[^501] This kneeling the Choir makes 3 times: once after singing the Trop
 
 ---
 
-[Leaf p378 / Page 376]
+=== LEAF p378 ===
 
 *Note.* The 3rd, 6th, and 9th Hours, the Typika (*Obidnytsia*), and Vespers in the Cathedral Church are sung together, beginning about the 11th hour before midday.[^503]
 
@@ -302,7 +302,7 @@ On Wednesday evening for Thursday, and on Friday evening for Saturday.
 
 ---
 
-[Leaf p379 / Page 377]
+=== LEAF p379 ===
 
 weekday.[^505] (On Friday evening, Theotokion from the Resurrectional ones according to the Tone of the Troparion).
 8. The Litany **"Have mercy on us, O God"**, and 3 great prostrations without the prayer.
@@ -323,7 +323,7 @@ On Cheesefare Thursday evening and Friday morning we sing the Service without al
 
 ---
 
-[Leaf p380 / Page 378]
+=== LEAF p380 ===
 
 ### On Cheesefare Saturday
 

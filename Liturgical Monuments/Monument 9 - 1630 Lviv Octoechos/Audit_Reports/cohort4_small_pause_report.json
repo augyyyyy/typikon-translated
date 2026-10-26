@@ -1,0 +1,155 @@
+{
+  "timestamp": "2026-10-25T15:00:50.883339+00:00",
+  "monument_id": "1630_lviv_octoechos",
+  "cohort": 4,
+  "target_file": "1630_lviv_octoechos_cohort4_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1630_lviv_octoechos_cohort4_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1630_lviv_octoechos_cohort4_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1630_lviv_octoechos_cohort4_raw_draft.md",
+      "footnotes_file": "1630_lviv_octoechos_cohort4_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 8,
+      "definition_markers_count": 8,
+      "text_markers": [
+        "[^41]",
+        "[^42]",
+        "[^43]",
+        "[^44]",
+        "[^45]",
+        "[^46]",
+        "[^47]",
+        "[^48]"
+      ],
+      "definition_markers": [
+        "[^41]",
+        "[^42]",
+        "[^43]",
+        "[^44]",
+        "[^45]",
+        "[^46]",
+        "[^47]",
+        "[^48]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1630_lviv_octoechos_cohort4_raw_draft.md",
+      "passed": true,
+      "paragraphs": 481,
+      "headings_count": 75,
+      "headings": [
+        {
+          "line": 3,
+          "level": 4,
+          "title": "[Left Page — Folio 27v]"
+        },
+        {
+          "line": 4,
+          "level": 5,
+          "title": "Column A"
+        },
+        {
+          "line": 17,
+          "level": 5,
+          "title": "Column B"
+        },
+        {
+          "line": 33,
+          "level": 4,
+          "title": "[Right Page — Folio 28r]"
+        },
+        {
+          "line": 34,
+          "level": 5,
+          "title": "Column A"
+        },
+        {
+          "line": 53,
+          "level": 5,
+          "title": "Column B"
+        },
+        {
+          "line": 72,
+          "level": 4,
+          "title": "[Left Page — Folio 28v]"
+        },
+        {
+          "line": 73,
+          "level": 5,
+          "title": "Column A"
+        },
+        {
+          "line": 87,
+          "level": 5,
+          "title": "Column B"
+        },
+        {
+          "line": 102,
+          "level": 4,
+          "title": "[Right Page — Folio 29r]"
+        },
+        {
+          "line": 103,
+          "level": 5,
+          "title": "Column A"
+        },
+        {
+          "line": 112,
+          "level": 2,
+          "title": "AT THE APOSTICHA"
+        },
+        {
+          "line": 117,
+          "level": 5,
+          "title": "Column B"
+        },
+        {
+          "line": 124,
+          "level": 1,
+          "title": "ON FRIDAY AT THE BEATITUDES"
+        },
+        {
+          "line": 134,
+          "level": 4,
+          "title": "[Left Page — Folio 29v]"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 31,
+        "max_leaf": 40
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 9 - 1630 Lviv Octoechos\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "total_queued_leaves": 4,
+    "unresolved_quarantines": 0
+  }
+}

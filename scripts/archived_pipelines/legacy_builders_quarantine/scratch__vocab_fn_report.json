@@ -1,0 +1,40 @@
+{
+  "target": "C:\\Users\\augus\\OneDrive\\Documents\\Google Antigravity\\Projects\\Translation\\Liturgical Monuments\\Monument 3 - 1901 Mikita Typikon\\Draft\\1901_mikita_typikon_cohort25_footnotes.txt",
+  "total_violations": 3,
+  "files_with_violations": 1,
+  "violations": [
+    {
+      "file": "C:\\Users\\augus\\OneDrive\\Documents\\Google Antigravity\\Projects\\Translation\\Liturgical Monuments\\Monument 3 - 1901 Mikita Typikon\\Draft\\1901_mikita_typikon_cohort25_footnotes.txt",
+      "file_rel": "Translation\\Liturgical Monuments\\Monument 3 - 1901 Mikita Typikon\\Draft\\1901_mikita_typikon_cohort25_footnotes.txt",
+      "line_number": 6,
+      "column": 439,
+      "matched_token": "Leave-Taking",
+      "canonical_form": "Apodosis",
+      "mode": "typikon",
+      "rule_key": "apodosis",
+      "context": "Thomas Sunday until the Leave-Taking of Pascha: in place of “"
+    },
+    {
+      "file": "C:\\Users\\augus\\OneDrive\\Documents\\Google Antigravity\\Projects\\Translation\\Liturgical Monuments\\Monument 3 - 1901 Mikita Typikon\\Draft\\1901_mikita_typikon_cohort25_footnotes.txt",
+      "file_rel": "Translation\\Liturgical Monuments\\Monument 3 - 1901 Mikita Typikon\\Draft\\1901_mikita_typikon_cohort25_footnotes.txt",
+      "line_number": 7,
+      "column": 972,
+      "matched_token": "Leave-Taking",
+      "canonical_form": "Apodosis",
+      "mode": "typikon",
+      "rule_key": "apodosis",
+      "context": "Thomas Sunday until the Leave-Taking of Pascha) at Vespers: “"
+    },
+    {
+      "file": "C:\\Users\\augus\\OneDrive\\Documents\\Google Antigravity\\Projects\\Translation\\Liturgical Monuments\\Monument 3 - 1901 Mikita Typikon\\Draft\\1901_mikita_typikon_cohort25_footnotes.txt",
+      "file_rel": "Translation\\Liturgical Monuments\\Monument 3 - 1901 Mikita Typikon\\Draft\\1901_mikita_typikon_cohort25_footnotes.txt",
+      "line_number": 13,
+      "column": 30,
+      "matched_token": "leave-taking",
+      "canonical_form": "Apodosis",
+      "mode": "typikon",
+      "rule_key": "apodosis",
+      "context": "0]: Among us on the very leave-taking of the Exaltation of the"
+    }
+  ]
+}

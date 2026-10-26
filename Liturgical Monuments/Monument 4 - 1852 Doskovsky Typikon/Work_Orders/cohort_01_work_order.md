@@ -2,11 +2,11 @@
 
 **Document ID**: `1852_doskovsky_typikon`  
 **Cohort Number**: 1  
-**Physical Leaves**: Physical facsimile leaves p1 to p10 (`p1.png` through `p10.png`, 10 leaves total)  
+**Physical Leaves**: Physical facsimile leaves p1 to p10 (`Page_0001.jpg` through `Page_0010.jpg`, 10 leaves total)  
 **Book Page Concordance**:
-- `p1.png`: Book Page [1] (Title Page)
-- `p2.png`: Book Pages [2] (Epigraphs) & [3] (Beginning of General Rule)
-- `p3.png` through `p10.png`: Book Pages 4 through 19 (Small Vespers, All-Night Vigil, Great Vespers)
+- `Page_0001.jpg`: Book Page [1] (Title Page)
+- `Page_0002.jpg`: Book Pages [2] (Epigraphs) & [3] (Beginning of General Rule)
+- `Page_0003.jpg` through `Page_0010.jpg`: Book Pages 4 through 19 (Small Vespers, All-Night Vigil, Great Vespers)
 **Starting Footnote Index**: `[^1]`  
 **Governing Genre Register**: **RUBRICAL** (Per Master Translation Standard MTS-1)  
 **Image Cache Directory**: `Liturgical Monuments\Monument 4 - 1852 Doskovsky Typikon\Source Text\images`  
@@ -32,7 +32,7 @@
 ---
 
 ## 3. Autonomous Execution Instructions
-1. Inspect images `p1.png` through `p10.png` in `Liturgical Monuments\Monument 4 - 1852 Doskovsky Typikon\Source Text\images` using `view_file`.
+1. Inspect images `Page_0001.jpg` through `Page_0010.jpg` in `Liturgical Monuments\Monument 4 - 1852 Doskovsky Typikon\Source Text\images` using `view_file`.
 2. Transcribe Church Slavonic source text leaf-by-leaf with headers `=== LEAF p{N} ===` and page sub-headers `--- Page {L} ---` / `--- Page {R} ---`.
 3. Translate unabridged into `1852_doskovsky_typikon_cohort1_raw_draft.md` with primary spread banner `<!-- LEAF: p{N} -->` and sub-markers `[Book Page {L}]` and `[Book Page {R}]`, with inline footnote markers `[^N]`.
 4. Write footnote definitions into `1852_doskovsky_typikon_cohort1_footnotes.txt` starting at `[^1]`.

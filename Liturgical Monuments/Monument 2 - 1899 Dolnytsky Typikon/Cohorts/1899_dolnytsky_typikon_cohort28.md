@@ -1,6 +1,6 @@
 # Typik of Fr. Isidore Dolnytsky (1899) — Cohort 28
 
-[Leaf p541 / Page 539]
+=== LEAF p541 ===
 
 ### II. Of Movable Feasts (Continued)
 
@@ -32,7 +32,7 @@
 
 ---
 
-[Leaf p542 / Page 540]
+=== LEAF p542 ===
 
 ## Directory of Services of the Entire Year
 
@@ -60,7 +60,7 @@
 
 ---
 
-[Leaf p543 / Page 541]
+=== LEAF p543 ===
 
 ## Directory of Immovable Services
 
@@ -107,7 +107,7 @@
 
 ---
 
-[Leaf p544 / Page 542]
+=== LEAF p544 ===
 
 **19.** **(** Holy Martyrs Trophimus, Sabbatius, and Dorymedon.
 
@@ -149,7 +149,7 @@
 
 ---
 
-[Leaf p545 / Page 543]
+=== LEAF p545 ===
 
 **7.** **(:** Holy Martyrs Sergius and Bacchus. Stichera at the Praises.
 
@@ -196,7 +196,7 @@
 
 ---
 
-[Leaf p546 / Page 544]
+=== LEAF p546 ===
 
 **28.** **(** Holy Martyrs Terentius and Neonilla, and Venerable Stephen; (and Martyress Paraskeva.[^710] By order of the Metropolitan, with **(:**).
 
@@ -232,7 +232,7 @@
 
 ---
 
-[Leaf p547 / Page 545]
+=== LEAF p547 ===
 
 **12.** **⊕** Holy Hieromartyr Josaphat (on Sunday); (and **(:** Saint John the Merciful, and Venerable Nilus).[^713]
 
@@ -275,7 +275,7 @@
 
 ---
 
-[Leaf p548 / Page 546]
+=== LEAF p548 ===
 
 ### December
 
@@ -325,7 +325,7 @@
 
 ---
 
-[Leaf p549 / Page 547]
+=== LEAF p549 ===
 
 **22.** **(:** Great-martyress Anastasia.
 
@@ -367,7 +367,7 @@
 
 ---
 
-[Leaf p550 / Page 548]
+=== LEAF p550 ===
 
    Saturday and Sunday after Theophany (Illumination).
 
@@ -422,7 +422,7 @@
 
 ---
 
-[Leaf p551 / Page 549]
+=== LEAF p551 ===
 
 ### February
 
@@ -487,7 +487,7 @@
 
 ---
 
-[Leaf p552 / Page 550]
+=== LEAF p552 ===
 
 ### March
 
@@ -555,7 +555,7 @@
 
 ---
 
-[Leaf p553 / Page 551]
+=== LEAF p553 ===
 
 ### April
 
@@ -611,7 +611,7 @@
 
 ---
 
-[Leaf p554 / Page 552]
+=== LEAF p554 ===
 
 **26.** **(** Hieromartyr Basil of Amasea.
 
@@ -649,7 +649,7 @@
 
 ---
 
-[Leaf p555 / Page 553]
+=== LEAF p555 ===
 
 **12.** **(:** Saints Epiphanius and Germanus.
 
@@ -699,7 +699,7 @@
 
 ---
 
-[Leaf p556 / Page 554]
+=== LEAF p556 ===
 
 **3.** **(** Holy Martyr Lucillian and those with him.
 
@@ -755,7 +755,7 @@
 
 ---
 
-[Leaf p557 / Page 555]
+=== LEAF p557 ===
 
 **29.** **⊕** Holy Glorious and All-praised Preeminent Apostles Peter and Paul.
 
@@ -787,7 +787,7 @@
 
 ---
 
-[Leaf p558 / Page 556]
+=== LEAF p558 ===
 
 **12.** **(** Holy Martyrs Proclus and Hilary; and **(·** Venerable Michael of Maleon.
 
@@ -830,7 +830,7 @@
 
 ---
 
-[Leaf p559 / Page 557]
+=== LEAF p559 ===
 
 **31.** **(:** Forefeast of the Procession of the Precious Cross; and **(·** Righteous Eudocimus.
 
@@ -886,7 +886,7 @@
 
 ---
 
-[Leaf p560 / Page 558]
+=== LEAF p560 ===
 
 **25.** **(:** Return of the Relics of the Holy Apostles Bartholomew and Titus.
 

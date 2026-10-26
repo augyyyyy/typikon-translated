@@ -1,6 +1,6 @@
 ---
 
-[Leaf p181 / Page 179]
+=== LEAF p181 ===
 
 #### At the Divine Liturgy
 Nothing proper, except the Liturgy of Basil the Great with Vespers of the Feast on the Eve of the Nativity and of Theophany, if the Eve occurs on one of the five fasting days from Monday unto Friday; for if it occurs on Saturday or Sunday, then on the Eve the Liturgy of Chrysostom is celebrated at its own time without Vespers, and afterwards Vespers of the Feast at its own time; while on the Feast itself the Liturgy of Basil the Great without Vespers; and on Friday before the Eve, unto which the Royal Hours are transferred, the Typikon appoints no Liturgy whatever, which the Synod of Lviv also follows.[^311]
@@ -15,7 +15,7 @@ All according to the Typikon previously indicated for the Forefeast of the Nativ
 
 ---
 
-[Leaf p182 / Page 180]
+=== LEAF p182 ===
 
 ### The Hours of the Eve of the Nativity of Christ
 *(And of Theophany)*
@@ -28,7 +28,7 @@ All according to the Typikon previously indicated for the Forefeast of the Nativ
 
 ---
 
-[Leaf p183 / Page 181]
+=== LEAF p183 ===
 
 5. Two analogia are placed in the church directly opposite the Holy Doors, facing the people, upon which the Gospel is set, and the other lower, opposite the Holy Doors, from which the Paremia and Apostle are to be read. Where there is no analogion for the Gospel, it lies upon the Holy Table, and is carried out by the Priest into the Holy Doors only for its reading, and is supported by the ministers.[^316]
 6. The Royal Hours are celebrated with the Holy Doors closed, being opened only for the reading of the Gospel.
@@ -39,7 +39,7 @@ The time having arrived, the Priest enters the church, approaches the Holy Table
 
 ---
 
-[Leaf p184 / Page 182]
+=== LEAF p184 ===
 
 -ing the Tri-psalmody while the Choirs sing it, reads it also himself, sitting in his place.
 
@@ -49,7 +49,7 @@ After the singing of the three Stichera, there are 3 Readings: the first, of the
 
 ---
 
-[Leaf p185 / Page 183]
+=== LEAF p185 ===
 
 -ing the same from **"Wisdom! Stand upright! Let us hear..."**, and so forth.
 
@@ -59,7 +59,7 @@ All these are performed with the following actions: as the Stichera are concludi
 
 ---
 
-[Leaf p186 / Page 184]
+=== LEAF p186 ===
 
 only **"Blessed is our God"**, as at Great Vespers with Vigil.
 
@@ -69,7 +69,7 @@ If a Bishop or other dignitaries happen to be present, the Deacons must cense th
 
 ---
 
-[Leaf p187 / Page 185]
+=== LEAF p187 ===
 
 the analogion; and having bowed profoundly to the Holy Mysteries, they return, each by his own doors, into the sanctuary.
 
@@ -85,7 +85,7 @@ After the concluding prayer of the 9th Hour, we immediately read the Typika (*Ob
 
 ---
 
-[Leaf p188 / Page 186]
+=== LEAF p188 ===
 
 2. The Choirs read: Psalm 102: **"Bless the Lord, O my soul, and all that is within me"**; and Psalm 145: **"Praise the Lord, O my soul"**; and **"Glory... Both now... Only-begotten Son"**.
 3. The Beatitudes: **"In Thy kingdom remember us, O Lord... great is your reward in heaven"**; and **"Glory... Both now..."**.
@@ -102,7 +102,7 @@ Priest to the people: the Daily Dismissal.[^321]
 
 ---
 
-[Leaf p189 / Page 187]
+=== LEAF p189 ===
 
 ### Saturday before the Nativity of Christ
 If this occurs on the Eve, seek the Typikon concerning the Liturgy here on page 170.
@@ -120,7 +120,7 @@ The order of service for the day of the Feast of the Nativity of Christ itself (
 
 ---
 
-[Leaf p190 / Page 188]
+=== LEAF p190 ===
 
 Basil in order; but if separately, then only unto the end of the Litany *Let us complete*, that is, unto the end of its second Exclamation (**"Blessed and glorified be the majesty"**); for the Aposticha and all the rest will be taken at the All-Night Vigil after the Litiya.
 4. Vespers does not have only 3 Readings, as on other Feasts, but 8 (and at Theophany 13); moreover, after the first three and after the other three Readings it has a proper Troparion with its own Verses.
@@ -133,7 +133,7 @@ Now we set forth three detailed Orders of Service: one for the case of Vespers w
 
 ---
 
-[Leaf p191 / Page 189]
+=== LEAF p191 ===
 
 ### Order of Service
 #### 1. Vespers with the Liturgy of Basil
@@ -147,7 +147,7 @@ Now we set forth three detailed Orders of Service: one for the case of Vespers w
 
 ---
 
-[Leaf p192 / Page 190]
+=== LEAF p192 ===
 
 6. Entrance with the Gospel, with the customary prayer of the Entrance. If there be Deacons, the first of them, who is at the right hand of the Priest, carries the Gospel, while the second precedes with the censer, and they perform therewith all things as at the Entrance with the Gospel at the Liturgy.
 7. The Prokimenon of the day from the Horologion; only on Friday evening toward Saturday is there the Great Prokimenon of the Feast, appointed on the day of the Feast itself at Vespers toward December 26. Having pronounced before the steps of the Altar: **"Let us attend! Peace be to all! Wisdom! Let us attend!"**, and the Prokimenon being sung, the Priest, having gone behind the Holy Table, sits there during the Readings in his place. The Deacons, if there be any, remain at the Holy Doors, and from thence exclaim in order: **"Wisdom!"** and **"Let us attend!"**, raising the orarion toward the people, as was laid down in the Order of the All-Night Vigil.
@@ -156,7 +156,7 @@ Now we set forth three detailed Orders of Service: one for the case of Vespers w
 
 ---
 
-[Leaf p193 / Page 191]
+=== LEAF p193 ===
 
 10. The Apostle for the Nativity of Christ: to the Hebrews, pericope 303: **"At sundry times"**; Gospel from Luke, pericope 5: **"There went out a decree"**. At Theophany: to the Corinthians, pericope 143: **"For though I be free"**; Gospel from Luke, pericope 9: **"In the fifteenth year"**.
 11. In place of **"It is truly right"**, we sing **"All of creation rejoices in thee"**; or, according to the later Typikon of our Sluzhebniks, the Heirmos of the 9th Ode of the Canon appointed at Compline of the Eve.
@@ -172,7 +172,7 @@ The Deacons, if there be any, go out with the Priest before the Holy Doors, and 
 
 ---
 
-[Leaf p194 / Page 192]
+=== LEAF p194 ===
 
 2. During the Proemial Psalm the Priest, standing before the Holy Doors, says the Prayers of Vespers according to custom with head uncovered, the Deacons standing by him; and upon the completion of the Psalm, one of them (the right) says the Great Litany, and the Priest its exclamation; and having thus bowed profoundly and equally, they depart into the sanctuary; but if there be no Deacons, the Priest himself says the Litany.
 3. **"Blessed is the man"**,[^328] and the Little Litany, for which the second Deacon goes out before the Holy Doors, and the Priest gives the exclamation from his place. If there be no Deacon, the Priest himself, according to local custom, reads the Litany secretly, sitting in his place, while the Choir sings its responses.
@@ -183,7 +183,7 @@ The Deacons, if there be any, go out with the Priest before the Holy Doors, and 
 
 ---
 
-[Leaf p195 / Page 193]
+=== LEAF p195 ===
 
 remain at the Holy Doors, exclaiming: **"Wisdom!"** and **"Let us attend!"** for all the Readings, which at the Nativity of Christ are 8, and at Theophany 13, with the proper Troparion and its Verses after the first three and after the other three Readings.
 8. Upon the conclusion of the Readings, the Priest having returned before the steps of the Altar, or the 1st Deacon, if there be one, having gone out before the Holy Doors, says the Little Litany, and the Priest the exclamation of the Trisagion; however, the Trisagion is not sung, but immediately after the exclamation there is said: **"Let us attend! Peace be to all! Wisdom! Let us attend!"**, and the Prokimenon of the Feast is sung; and after **"Wisdom! Let us attend!"**, the Apostle to the Galatians, pericope 207: **"I speak after the manner of men"**; Gospel from Matthew, pericope 53: **"The kingdom of heaven is like to a grain of mustard seed"**.[^329] (At Theophany: to the Corinthians, pericope 143 from the middle: **"Brethren, I would not that ye should be ignorant"**; Gospel from Luke, pericope 9: **"In the fifteenth year"**). And this Gospel the Priest himself reads[^330] from the Holy Doors; the Deacons, if there be any: the first of them says: **"Wisdom! Stand upright! Let us hear the Holy Gospel"**; the Priest: **"The reading from the Holy Gospel according to [Name]"**; and the second: **"Let us attend!"**.
@@ -191,7 +191,7 @@ remain at the Holy Doors, exclaiming: **"Wisdom!"** and **"Let us attend!"** for
 
 ---
 
-[Leaf p196 / Page 194]
+=== LEAF p196 ===
 
 then to the other, departs unto the Holy Table, and having placed the Holy Gospel upon it, stands there; while the Deacons, having bowed profoundly before the steps of the Altar, go out each by his own doors before the Holy Doors, and having bowed again profoundly, first the second Deacon says: **"Let us all say"**, then the first, after **"Vouchsafe, O Lord"**, the Litany: **"Let us complete"**. If there be no Deacons, the Priest himself chants the Litanies from the sanctuary; and immediately after the second exclamation of the Litany *Let us complete*, the Great Dismissal of the Feast itself takes place. (At Theophany there is no Dismissal here, but after the Blessing of Water).
 10. After the Dismissal, both Choirs having gathered together in the midst of the church, sing together the Troparion, **"Glory... Both now..."**, and Kontakion of the Feast; and at the end the sacred ministers, having closed the Holy Doors and bowed profoundly, depart unto the Vestry.
@@ -202,7 +202,7 @@ then to the other, departs unto the Holy Table, and having placed the Holy Gospe
 
 ---
 
-[Leaf p197 / Page 195]
+=== LEAF p197 ===
 
 **"our God, glory to Thee"**, **"O Heavenly King"**, and the rest with the Trisagion and **"Our Father"**, up to and including **"Come, let us worship"**; and then the sacred ministers, having bowed profoundly, go behind the Holy Table, and sit there in their places.
 3. Upon the conclusion of the second Tri-psalmody the Choirs sing alternately **"God is with us"**, that is, selected Verses from the 8th and 9th Chapters of the Prophecy of Isaiah; and they sing thus: the 1st Choir: **"God is with us, understand, O ye nations... For God is with us"**; after this the 2nd Choir sings the same; then the Choirs read the remaining Verses alternately, concluding each Verse with the words: **"For God is with us"**; and upon the conclusion of all the Verses they sing **"God is with us"** thrice.[^332] But to sing the entire first Verse after each of the following ones, as they customarily do here, we find in not a single Typikon.[^333] The Synod of Lviv also adds this: that it is not proper for the Priest to go out before the Holy Doors and say these Verses alternately with the Choirs, but only when there happens to be only one Choir, for then the Priest takes the place of one of the Choirs; likewise he is not to go out for the supplicatory Verses: **"All-holy Lady Theotokos"**, which are said by the Choirs twice, that is, once by one, and once by the other Choir, except only if there be only one Choir.[^334]
@@ -210,7 +210,7 @@ then to the other, departs unto the Holy Table, and having placed the Holy Gospe
 
 ---
 
-[Leaf p198 / Page 196]
+=== LEAF p198 ===
 
 Feast is sung; and in place of the Troparia: **"Have mercy on us, O Lord"**, appointed after the Trisagion which follows the Prayer of Manasseh, the Kontakion of the Feast is sung.
 5. The Priest goes out before the Holy Doors for three prayers, that is, for that of Basil, for that of Manasseh, and for the other of Basil.
@@ -230,7 +230,7 @@ All of the Feast; in place of the Trisagion we sing at the Liturgy: **"All of yo
 
 ---
 
-[Leaf p199 / Page 197]
+=== LEAF p199 ===
 
 and the Synaxis of the Most Holy Theotokos likewise has little. Vespers of this day indeed occurs with an Entrance, not for the sake of the Synaxis, but for the sake of the Great Festal Prokimenon. Matins from the beginning even unto the Canon is of the lesser rank, and from the Canon unto the end of the greater rank.
 3. Although the divine worship of this day, as also of the following day, does not have an All-Night Vigil, nor a Polyeleos, nevertheless our custom, approved by the Synods of Zamosc (*Titulo de Jejuniis et Festis*) and of Lviv (Title IV, Chap. 6), commands to abstain through the first three days of this Feast from servile works and to attend divine services; for to this they reckon December 25, 26, and 27.
@@ -247,7 +247,7 @@ and the Synaxis of the Most Holy Theotokos likewise has little. Vespers of this 
 
 ---
 
-[Leaf p200 / Page 198]
+=== LEAF p200 ===
 
 6. Great Festal Dismissal with commemoration of the Synaxis of the Most Holy Theotokos and of the Betrothed, and of the Holy Hieromartyr.[^336]
 

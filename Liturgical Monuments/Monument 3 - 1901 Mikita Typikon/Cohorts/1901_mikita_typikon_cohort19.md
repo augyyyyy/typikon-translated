@@ -1,4 +1,4 @@
-<!-- LEAF: p181 -->
+=== LEAF p181 ===
 
 stichera of the temple from Great Vespers. “Glory”: of the temple; “Now and”: of the feast. After the Trisagion: Troparion of the temple; “Glory,” and “Now and”: of the feast. Ektenia: “Have mercy on us, O God,” and Dismissal;
 
@@ -14,11 +14,11 @@ XLVIII.) How the Triodion with the Menaion Is Sung from St. Thomas Sunday Throug
 
 On “Lord, I have cried” during the weeks of the Triodion, the Idiomelon stichera (or Prosomoia) precede: of the feast 3, and of the Saint from the Menaion 3. “Glory”: of the Saint, if he hath one; but if not, “Glory,” and “Now and”: of the feast. On the aposticha, from the Triodion of the day. If two Saints occur, we sing the stichera of the Saints at 6. “Glory”: of the 1st Saint; “Now and”: of the feast. But if not: “Glory,” and “Now and”: of the feast. Stichera of the feast from the Triodion
 
-<!-- LEAF: p182 -->
+=== LEAF p182 ===
 
 we sing on the aposticha with the refrains of the feast. “Glory”: of the Saints, if they have one; but if not, “Glory,” and “Now and”: of the feast; for then the aposticha of the Triodion is not sung. If, however, the Saint hath a Polyeleos, we sing the stichera of the feast 3, and of the Saint 5. “Glory”: of the Saint; “Now and”: of the feast. If the Menaion is sung at 6, and another great Saint hath a Polyeleos: On “Lord, I have cried” we sing the stichera at 10: of the feast 3, of the daily Saint 3, and of the great Saint 4. “Glory”: of the great Saint; “Now and”: of the feast. Entrance and three Readings of the Saint. On the aposticha, stichera and “Glory”: of the Saint; “Now and”: of the feast. In St. Thomas week, after the Trisagion: Troparion of the Saint; “Glory,” and “Now and”: of the feast. In the week of the Holy Myrrh-bearers, however: Troparion of the feast: “The noble Joseph”; “Glory”: of the Saint, if he hath one; “Now and”: “Unto the myrrh-bearing women.” The troparion of the feast: “The noble Joseph,” and of the Resurrection: “When Thou didst descend unto death” we alternate when there is a troparion of the Saint. If it be during the week of the Paralytic, or of the Samaritan Woman, or of the Blind Man: Troparion of the Resurrection; “Glory”: of the Saint; “Now and”: 1st Resurrection Theotokion in the same tone. At Compline: After the Trisagion: Kontakion of the feast. If, however, it be a Saint who hath a Polyeleos, we say first the kontakion of the Saint; “Glory,” and “Now and”: of the feast. If in St. Thomas week at Matins: At “God is the Lord” the troparion of the feast twice; “Glory”: of the Saint; “Now and”: of the feast. If in the week of the Holy Myrrh-bearers: At “God is the Lord” the troparion of the feast: “The noble Joseph” once, and of the Resurrection: “When Thou didst descend” once; “Glory”: of the Saint; “Now and”: “Unto the myrrh-bearing women.” If, however, it be in the week of the Paralytic, or of the Samaritan Woman, or of the Blind Man: At “God is the Lord” the troparion of the Resurrection twice; “Glory”: of the Saint; “Now and”: 1st Resurrection Theotokion in the same tone. And the usual kathismata, and Sessional Hymns of the Triodion. “Having beheld the Resurrection of Christ.” Psalm 50 [Ps. 50]. The Canon of the Triodion of the feast with the heirmos at 8 (heirmos twice, troparia at 6), and of the Saint from the Menaion at 4. After Ode 3 of the canon: Kontakion of the Saint and his ikos and Sessional Hymn; “Glory,” and “Now and”: of the feast. After Ode 6: Kontakion and ikos of the feast. If the Saint is sung at 6: The Canon of the feast with the heirmos at 6 (heirmos twice, troparia at 4), and of the Saint at 6. After Ode 3: Kontakion and ikos of the feast, and Sessional Hymn of the Saint twice; “Glory,” and “Now and”: of the feast of the Triodion. After Ode 6: Kontakion and ikos of the Saint. If, however, there are two Saints in the Menaion: The Canon of the Triodion of the feast with the heirmos at 6, and two canons to the Saints at 8. Exaposteilarion of the Saint; “Glory,” and “Now and”: of the feast. If the Saint is sung at 6, and another great Saint hath a Polyeleos: The Canon of the feast with the heirmos at 4 (heirmos twice), and of the daily Saint
 
-<!-- LEAF: p183 -->
+=== LEAF p183 ===
 
 at 4, and of the great Saint at 6. After Ode 3 of the canon: Kontakion of the daily Saint and his Sessional Hymn; “Glory”: Sessional Hymn of the great Saint; “Now and”: of the feast of the Triodion. After Ode 6: Kontakion of the great Saint and ikos. The kontakion of the feast is omitted here, but we say the kontakion of the feast at the 1st Hour, and at the other Hours we say it alternating with the great Saint. Exaposteilarion of the Saint twice; “Glory,” and “Now and”: of the feast. If, however, the Saint hath stichera on the Praises, we sing 3 stichera of the Triodion of the day: one of the Resurrection, one penitential, and one of the martyrs; and 3 of the Saint from the Menaion. “Glory”: of the Saint; “Now and”: of the feast. On the aposticha, stichera of the feast of the Triodion with the refrains of the feast; “Glory”: of the Saint, if he hath one; but if not, “Glory,” and “Now and”: of the feast. — If the Saint hath a Polyeleos: On the Praises, 3 stichera of the feast of the Triodion, and 3 of the Saint; “Glory”: of the Saint; “Now and”: of the feast. Great Doxology; after the Trisagion: Troparion of the Resurrection; “Glory”: of the Saint; “Now and”: Theotokion in the same tone or of the feast. Ektenia and Dismissal. And the 1st Hour: Troparion of the Resurrection; “Glory”: of the Saint; “Now and”: Theotokion of the Hours. After the Trisagion: Kontakion of the feast of the current Sunday, and complete Dismissal. Likewise also at the other Hours we say the kontakion of the feast without alternating. If there be a Polyeleos, at the Hours we say the kontakion of the feast and of the Saint alternating.
 
@@ -32,7 +32,7 @@ XLIX.) How the Entire Divine Worship, and More Especially Matins, Ought to Be Ce
 
 (α) At Vespers (on Friday) on “Lord, I have cried” stichera of the Saint 3, and of the Octoechos to All Saints 3. (According to ancient typika, stichera of the Saint at 6.) “Glory,” and “Now and”: Dogmatikon of the current tone of the preceding Sunday. (If the Saint have a Doxastikon [*Naslavnyk*], then “Glory”: of the Saint; “Now and”: Dogmatikon.) On the aposticha,
 
-<!-- LEAF: p184 -->
+=== LEAF p184 ===
 
 3 martyr stichera (the first being on the aposticha, and two being on “Lord, I have cried”). The other stichera with the usual verses of the Horologion [*Chasoslov*]. (The stichera for the departed are omitted, and are sung only during the fast and if there be “Alleluia.”) “Glory”: of the Saint, if he hath one; “Now and”: Theotokion. After “Now lettest Thou dismiss”: Troparion of the Saint; “Glory,” and “Now and”: Resurrection Theotokion according to the tone;
 
@@ -44,7 +44,7 @@ XLIX.) How the Entire Divine Worship, and More Especially Matins, Ought to Be Ce
 
 (ε) At the Hours: At the 1st: Troparion and kontakion of the day; at the 3rd: Troparion and kontakion of the Saint; at the 6th: Troparion and kontakion of the temple; at the 9th: Troparion and kontakion of the Saint. — At the Typika [*Obidnytsia*]: Beatitudes [*Blazhenna*] of the Octoechos at 6. Kontakion of the temple and kontakion of the Saint; “Glory”: “With the Saints give rest”; “Now and”: “As the first-fruits of nature.”
 
-<!-- LEAF: p185 -->
+=== LEAF p185 ===
 
 §. 118.
 
@@ -64,7 +64,7 @@ LII.) How Divine Worship Is Celebrated If It Be a Saturday, a Temple of a Saint,
 
 (α) At Vespers (on Friday) on “Lord, I have cried” stichera to both Saints at 6; “Glory”: of the 1st Saint (if he hath one); “Now and”: Theotokion-Dogmatikon of the current tone (of the preceding Sunday). On the aposticha, stichera from the Octoechos, 3 martyr stichera; and that: one being on the aposticha, and two being on “Lord, I have cried.”
 
-<!-- LEAF: p186 -->
+=== LEAF p186 ===
 
 The other stichera with the usual verses. “Glory,” and “Now and”: Theotokion from the aposticha. “Glory” (if he hath one): of the Saint; “Now and”: Theotokion according to the tone; but if the Saint hath no “Glory,” then “Glory,” and “Now and”: Theotokion from the aposticha. After “Now lettest Thou dismiss”: Troparion of the 1st Saint; “Glory”: Troparion of the 2nd Saint; “Now and”: Resurrection Theotokion according to the tone of the troparion of the 2nd Saint;
 
@@ -82,7 +82,7 @@ LIII.) How Matins Is Celebrated If It Be a Saturday, a Temple of Christ or of th
 
 At “God is the Lord” the troparion of the Saint twice; “Glory,” and “Now and”: Resurrection Theotokion according to the tone of the Saint. Canon of the temple of Christ or of the Theotokos with the heirmos at 6, of the Saint at 4, martyr canon from the Octoechos at 4. (The canon for the departed is sung on Friday evening at Compline.) Katavasia after Ode 3, 6, 8, and 9: the heirmos of the canon of the Octoechos. After Ode 3: Kontakion of the temple; “Glory”: Sessional Hymn of the Saint; “Now and”: Sessional Hymn of the temple. After Ode 6:
 
-<!-- LEAF: p187 -->
+=== LEAF p187 ===
 
 Kontakion and ikos of the Saint. After Ode 9: Exaposteilarion of the Saint; “Glory,” and “Now and”: Theotokion from the Octoechos. The Praises [Pss. 148–150] are read. Small Doxology. Ektenia: “Let us complete.” Stichera on the aposticha: 3 martyr stichera, which are given on the Praises, with the daily verses. (Aposticha having verses for the departed are not taken, except on All Souls Saturdays [*Zadushni Suboty*].) After “It is good to give praise” [Ps. 91:2], Trisagion, and thus the troparion of the Saint; “Glory,” and “Now and”: Dismissal Theotokion according to the tone of the troparion of the Saint. Ektenia: “Have mercy on us.” Daily Dismissal.
 
@@ -98,7 +98,7 @@ LV.) How Matins Is Celebrated on Saturday If It Be a Temple of Christ or of the 
 
 At “God is the Lord” the troparion of the Saint twice; “Glory,” and “Now and”: Resurrection Theotokion from the greater ones. Sessional Hymns from the Menaion or from the Anthologion [*Trefologion*]. Polyeleos. Graduals [*Stepenny*] of Tone 4, Antiphon 1. Gospel. Canon of the temple at 6, and canon of the Saint at 8. (The Theotokion Canon from the Octoechos is omitted.) After Ode 9 of the canon, Exaposteilarion of the Saint with its Theotokion. On the Praises, stichera of the Saint at 4 or at 6. “Glory”: of the Saint; “Now and”: Theotokion. Great Doxology. Trisagion. Troparion of the Saint; “Glory,” and “Now and”: Resurrection Theotokion. Ektenias. Daily Great Dismissal.
 
-<!-- LEAF: p188 -->
+=== LEAF p188 ===
 
 §. 124.
 
@@ -122,7 +122,7 @@ At “God is the Lord” the troparion of the feast twice; “Glory”: of the S
 
 LIX.) How Matins Is Celebrated If It Be a Saturday, Any Temple Whatever, and Within a Feast a Polyeleos Saint?
 
-<!-- LEAF: p189 -->
+=== LEAF p189 ===
 
 At “God is the Lord” the troparion of the feast twice; “Glory”: of the Saint; “Now and”: of the feast. (If, however, it is the Apodosis of the feast, then at “God is the Lord” the troparion of the feast 3 times). Canon of the feast with the heirmos at 6, of the Saint at 6 or at 8. After Ode 3 of the canon: Kontakion and ikos of the feast; “Glory”: Sessional Hymn of the Saint; “Now and”: Theotokion. If, however, it is a temple of Christ or of the Theotokos, then “Glory”: Sessional Hymn of the Saint; “Now and”: Sessional Hymn of the feast. After Ode 6: Kontakion and ikos of the Saint, if he hath a Polyeleos or Great Doxology. After Ode 9: Exaposteilarion of the feast; “Glory”: of the Saint; “Now and”: of the feast. (If, however, it is an Apodosis, then only the Exaposteilarion of the feast). All the rest as usual.
 
@@ -140,7 +140,7 @@ Concerning the Kathismata.
 
 The Psalter (that is, the collection of 150 Psalms [Pss. 1–150]) is divided into 20 kathismata, and that in such wise that unto the 1st Kathisma belong Psalms from the 1st unto the 8th Psalm [Pss. 1–8]; unto the 2nd Kathisma Psalms 9–16 [Pss. 9–16]; unto the 3rd Kathisma Psalms 17–23 [Pss. 17–23]; unto the 4th Psalms 24–31 [Pss. 24–31]; unto the 5th Psalms 32–36 [Pss. 32–36]; unto the 6th Psalms 37–45 [Pss. 37–45]; unto the 7th Psalms 46–54 [Pss. 46–54]; unto the 8th
 
-<!-- LEAF: p190 -->
+=== LEAF p190 ===
 
 Psalms 55–63 [Pss. 55–63]; unto the 9th Psalms 64–69 [Pss. 64–69]; unto the 10th Psalms 70–76 [Pss. 70–76]; unto the 11th Psalms 77–84 [Pss. 77–84]; unto the 12th Psalms 85–90 [Pss. 85–90]; unto the 13th Psalms 91–100 [Pss. 91–100]; unto the 14th Psalms 101–104 [Pss. 101–104]; unto the 15th Psalms 105–108 [Pss. 105–108]; unto the 16th Psalms 109–117 [Pss. 109–117]; unto the 17th Psalm 118 [Ps. 118]; unto the 18th Psalms 119–133 [Pss. 119–133]; unto the 19th Psalms 134–142 [Pss. 134–142]; unto the 20th Psalms 143–150 [Pss. 143–150].
 

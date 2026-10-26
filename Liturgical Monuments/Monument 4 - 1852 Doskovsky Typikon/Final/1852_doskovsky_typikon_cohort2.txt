@@ -1,6 +1,6 @@
 # Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852) — Cohort 2 (Leaves p11–p20)
 
-<!-- LEAF: p11 -->
+=== LEAF p11 ===
 
 [Book Page 20]
 
@@ -60,7 +60,7 @@ And after **"Amen,"** they begin the Heirmos of the Canon; then they read also t
 
 ---
 
-<!-- LEAF: p12 -->
+=== LEAF p12 ===
 
 [Book Page 22]
 
@@ -123,7 +123,7 @@ and the complete Dismissal.
 
 ---
 
-<!-- LEAF: p13 -->
+=== LEAF p13 ===
 
 [Book Page 24]
 
@@ -164,7 +164,7 @@ The Choir, having
 
 ---
 
-<!-- LEAF: p14 -->
+=== LEAF p14 ===
 
 [Book Page 26]
 
@@ -227,7 +227,7 @@ and the rest, as in the Horologion, and commemorates the saint whose service is 
 
 ---
 
-<!-- LEAF: p15 -->
+=== LEAF p15 ===
 
 [Book Page 28]
 
@@ -277,7 +277,7 @@ and the rest.
 
 ---
 
-<!-- LEAF: p16 -->
+=== LEAF p16 ===
 
 [Book Page 30]
 
@@ -349,7 +349,7 @@ Then the Reader reads the Blameless [Amomos], that is: Kathisma XVII:
 
 ---
 
-<!-- LEAF: p17 -->
+=== LEAF p17 ===
 
 [Book Page 32]
 
@@ -420,7 +420,7 @@ Then the Kontakion and Sessional Hymn in the General Menaion of the Saint.
 
 ---
 
-<!-- LEAF: p18 -->
+=== LEAF p18 ===
 
 [Book Page 34]
 
@@ -495,7 +495,7 @@ The Priest:
 
 ---
 
-<!-- LEAF: p19 -->
+=== LEAF p19 ===
 
 [Book Page 36]
 
@@ -563,7 +563,7 @@ and the Sticheron of the Saint. After
 
 ---
 
-<!-- LEAF: p20 -->
+=== LEAF p20 ===
 
 [Book Page 38]
 

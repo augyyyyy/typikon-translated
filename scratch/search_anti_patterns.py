@@ -88,6 +88,9 @@ def detect_fragile_regex(line):
 
 def scan_file(filepath):
     findings = []
+    if os.path.basename(filepath) == 'search_anti_patterns.py':
+        return findings
+    is_py = filepath.endswith('.py')
     try:
         with open(filepath, 'r', encoding='utf-8', errors='ignore') as f:
             lines = f.readlines()
@@ -96,20 +99,21 @@ def scan_file(filepath):
         return findings
 
     for i, line in enumerate(lines):
-        bare, code = detect_bare_except(lines, i, filepath)
-        if bare:
-            findings.append((filepath, i + 1, 'Bare except (pass/empty)', code))
+        if is_py:
+            bare, code = detect_bare_except(lines, i, filepath)
+            if bare:
+                findings.append((filepath, i + 1, 'Bare except (pass/empty)', code))
 
         if detect_hardcoded_paths(line):
             findings.append((filepath, i + 1, 'Hardcoded absolute path', line.rstrip('\n').strip()))
 
-        if detect_missing_encoding(line):
+        if is_py and detect_missing_encoding(line):
             findings.append((filepath, i + 1, 'Missing encoding in open()', line.rstrip('\n').strip()))
 
         if detect_git_no_pager(line):
             findings.append((filepath, i + 1, 'Git command without pager disable', line.rstrip('\n').strip()))
 
-        if detect_fragile_regex(line):
+        if is_py and detect_fragile_regex(line):
             findings.append((filepath, i + 1, 'Fragile regex for structural headers', line.rstrip('\n').strip()))
 
     return findings

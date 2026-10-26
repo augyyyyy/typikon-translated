@@ -1,6 +1,6 @@
 ---
 
-[Leaf p21 / Page 19]
+=== LEAF p21 ===
 
 Choir: **"Glory... Now and forever...; Lord, have mercy"** thrice; **"Lord, bless."**[^16]
 
@@ -12,7 +12,7 @@ Choir: **"Glory... Now and forever...; Lord, have mercy"** thrice; **"Lord, bles
 
 ---
 
-[Leaf p22 / Page 20]
+=== LEAF p22 ===
 
 2. "It is not proper to sit during this Vespers at those points where it was indicated not to sit at Vespers with the All-Night Vigil, as well as during the Dismissal."
 
@@ -33,7 +33,7 @@ The Stichera at **"Lord, I have cried"** are not ten or eight, but only six; and
 
 ---
 
-[Leaf p23 / Page 21]
+=== LEAF p23 ===
 
 At the conclusion of the Stichera: **"Wisdom! Stand upright! O Joyful Light; Let us be attentive! Peace be to all! Wisdom! Let us be attentive!"** and the Prokimenon of the day from the Horologion. Readings do not occur, neither is the Litany: **"Let us all say"** recited here; but immediately: **"Vouchsafe, O Lord,"** and all the rest unto the end, as at Great Vespers without an All-Night Vigil. Only here, after the Troparion of the Saint, since he is not a Polyeleos Saint, the Sunday Theotokion is not taken, but the Daily Dismissal Theotokion, according to the Tone of the Troparion of the Saint and according to the day of the week. But if there are two Saints, then the Troparion of the first Saint is taken, **"Glory..."** the Troparion of the second Saint, and **"Now and forever..."** the Dismissal Theotokion according to the Tone of the second Saint; during an Afterfeast, however, also at this Vespers we do not cover the Troparia with the Dismissal Theotokion, but with the Troparion of the Feast.
 Furthermore, at the conclusion of the Troparia the Priest chants the Litany: **"Have mercy on us, O God,"** and performs the Moderate Dismissal, that is, he says: **"Wisdom!"** and the Choir immediately: **"More honorable than the Cherubim..."** and the rest as at Great Vespers without an All-Night Vigil, the Priest turning toward the people at: **"Christ our true God..."**"
@@ -45,7 +45,7 @@ Furthermore, at the conclusion of the Troparia the Priest chants the Litany: **"
 
 ---
 
-[Leaf p24 / Page 22]
+=== LEAF p24 ===
 
 ### Order of Small Vespers
 
@@ -63,7 +63,7 @@ Furthermore, at the conclusion of the Troparia the Priest chants the Litany: **"
 
 ---
 
-[Leaf p25 / Page 23]
+=== LEAF p25 ===
 
 after Ode 6: **"Lord, have mercy"** thrice, and **"Glory... Now and forever..."** the Sessional Hymn, and sometimes the Kontakion. [For private recitation, there is appointed in the Molitvoslov a single Theotokion Canon taken from the Oktoechos, from Tuesday of Tone 8, and in it after Ode 3 the Sessional Hymn, and after Ode 6 the Kontakion and Ikos].
 4. After the Canon: **"It is truly right,"** and the Trisagion and the rest with **"Our Father,"** and: **"For Thine is the kingdom."**
@@ -76,7 +76,7 @@ On the first five days of the week, the following Troparia are taken, six in num
 
 ---
 
-[Leaf p26 / Page 24]
+=== LEAF p26 ===
 
 and of Friday, since the Troparion is of the Lord, namely of the Precious Cross, it has in every case first place, and after it that of the Temple.
 For Saturday, that is, Friday evening on the eve of Saturday, three Troparia: first of the day, then **"Glory..."** the Kontakion for the Departed, **"Now and forever..."** the Kontakion of the day. Since on Saturday the Service of the Temple has greater force than on the other days of the week, as is evident from the fact that it has a Canon at Matins, for this reason it is better to precede the daily Troparion with the Troparion of the Temple, if it is of the Lord or of the Mother of God, but by no means if it is of a Saint, because his memory is already made in the daily Troparion, which is of All Saints.
@@ -91,7 +91,7 @@ This Compline, whenever it is celebrated in church, is celebrated only in the Ep
 
 ---
 
-[Leaf p27 / Page 25]
+=== LEAF p27 ===
 
 The Priest goes forth before the Holy Doors at the beginning and remains there until **"Come, let us worship,"** and goes forth again at **"O Christ, Who at all times,"** and remains there even unto the end.
 At the Dismissal of this Compline, as also at every Dismissal of any Divine Service that is celebrated in church, the Priest turns toward the people."
@@ -110,7 +110,7 @@ At the Dismissal of this Compline, as also at every Dismissal of any Divine Serv
 
 ---
 
-[Leaf p28 / Page 26]
+=== LEAF p28 ===
 
 Friday) of each week of the Great Fast, and on Tuesday and Thursday of Cheesefare Week preceding the Great Fast, and on Monday and Tuesday of Holy Week following the Great Fast."
 
@@ -122,7 +122,7 @@ At the beginning of Compline the Holy Doors are opened, and the Priest censes on
 
 ---
 
-[Leaf p29 / Page 27]
+=== LEAF p29 ===
 
 ### Concerning the Midnight Office
 
@@ -144,7 +144,7 @@ In the Triodion cycle:
 
 ---
 
-[Leaf p30 / Page 28]
+=== LEAF p30 ===
 
 - The Apodosis of Pascha.
 - Monday of the Holy Spirit (Pentecost Monday), that is, on Sunday evening on the eve of Monday.[^22]
@@ -160,7 +160,7 @@ The Priest, after **"O Lord, open Thou my lips,"** having closed the Holy Doors 
 
 ---
 
-[Leaf p31 / Page 29]
+=== LEAF p31 ===
 
 If there is no All-Night Vigil, then Matins is chanted in the morning separately from Vespers, thus: The Priest, having taken the Epitrakhelion, signed it with the cross, and kissed its top where it has the cross, goes forth through the northern door before the Holy Doors, which are closed; and making a profound metania, proclaims together: **"Blessed is our God,"** Choir: **"Amen;"** then: **"Glory to Thee, our God, glory to Thee; Heavenly King;"** the Trisagion with **"Our Father."** Priest: **"For Thine is the kingdom;"** Choir: **"Amen; Lord, have mercy"** twelve times, and: **"Come, let us worship"** thrice.
 The Priest, having made a profound bow, enters through the southern door into the Sanctuary; and having stood and bowed low before the steps of the Holy Table, and taken the censer, put incense into it, and blessed it with its short prayer: **"Incense we offer unto Thee,"** censes the Holy Table round about; after this, having gone forth through the northern door, and bowed profoundly, he censes the Iconostasis, the Choirs, and the people according to custom, while the Choirs recite the Two Psalms.
@@ -169,7 +169,7 @@ After the Six Psalms, the Priest chants the Litany: **"In peace let us pray to t
 
 ---
 
-[Leaf p32 / Page 30]
+=== LEAF p32 ===
 
 #### Troparia at "God is the Lord"
 
@@ -183,7 +183,7 @@ If on a weekday there is a Festive Service and of a Saint, then the Troparion of
 
 ---
 
-[Leaf p33 / Page 31]
+=== LEAF p33 ===
 
 If on a weekday there is a Festive Service and of two Saints with separate Troparia, then the Troparion of the Festive Service once, the Troparion of the first Saint once, and **"Glory..."** of the second Saint once, then **"Now and forever..."** again the Troparion of the Festive Service once.[^27]
 
@@ -196,7 +196,7 @@ When, moreover, there is both a Sunday Service and the Service of a Polyeleos Sa
 
 ---
 
-[Leaf p34 / Page 32]
+=== LEAF p34 ===
 
 then the Kathisma taken is only the 19th, and immediately the Exaltations, then **"The angelic council,"** and the Little Litany with the exclamation: **"For blessed is Thy name,"** and the Hypakoe of the Tone; and afterwards all three Sessional Hymns to the Saint, that is, the first and second once each, without Theotokia, then **"Glory..."** his Polyeleos Sessional Hymn once, and **"Now and forever..."** its Theotokion; because after the first and second Kathismas the Sunday Sessional Hymns were taken, and there was no place there for the Sessional Hymns of the Saint.
 Concerning the Polyeleos, be it known that it is chanted on all Feasts having Great Vespers and Great Matins. On account of Sunday, it is chanted only on Sundays from the Apodosis of the Precious Cross even unto the Forefeast of the Nativity of Christ, excluding both, that is, from September 22 even unto December 19 inclusively, and from the Apodosis of Theophany (January 14) exclusively, even unto Cheesefare Sunday, which precedes the Great Fast, inclusively. On other Sundays of the entire year the 17th Kathisma is used.
@@ -208,7 +208,7 @@ After the Hypakoe, or after the third Sessional Hymn, if it is a Sunday Service,
 
 ---
 
-[Leaf p35 / Page 33]
+=== LEAF p35 ===
 
 4.[^29] You have the Graduals set down in the Oktoechos in the Sunday order of each Tone, and likewise in the Heirmologion set to musical notation.
 When the Graduals are already concluding, the Priest, having risen from his place, vests in the Phelonion, having first blessed it and kissed it where it has the cross (if he celebrates Matins separately from Vespers; for if together, it suffices for the Priest to bless and kiss the Phelonion when he takes it the first time, according to our custom, for the Entrance at Vespers). He goes before the steps of the Altar, and having bowed profoundly toward the Holy Mysteries, turns by his right side toward the Holy Doors; and having opened them, and turned again toward the Altar in the same semicircle, proclaims after the completion of the Graduals: **"Let us be attentive! Peace be to all!"** with a turn and blessing toward the people; **"Wisdom! Let us be attentive!"** and the Prokimenon is chanted twice.
@@ -217,7 +217,7 @@ And having taken the censer, he censes the Altar from four sides; and having bow
 
 ---
 
-[Leaf p36 / Page 34]
+=== LEAF p36 ===
 
 **"Peace be to all,"** blessing the people crosswise with his right hand, and adds: **"Wisdom! Stand upright!"** and the rest. And at: **"Glory to Thee, O Lord, glory to Thee,"** having signed himself with the sign of the cross, with a slight bowing of the head, he introduces: **"Let us be attentive! At that time..."** or: **"The Lord said..."** and the rest.
 After the chanting of the Gospel, having kissed It where the Reading began, and at: **"Glory to Thee, O Lord, glory to Thee,"** having again signed himself with a bowing of the head, and closed the Gospel, and taken It with both hands, with the candle-bearers going before, he carries It onto the Tetrapod from its left side, that is, from the Icon of the Mother of God; and having placed It in the middle of the Tetrapod, he himself departs by its right side, from the Icon of the Savior, through the Royal Doors into the Altar, while the people approach to kiss the Gospel.
@@ -226,7 +226,7 @@ If, however, it is Matins with an All-Night Vigil, then the Priest here does not
 
 ---
 
-[Leaf p37 / Page 35]
+=== LEAF p37 ===
 
 at Vespers, the forehead of each of the people who has kissed the Gospel and approaches for the anointing, saying to him: **"Christ is among us;"** and the one anointed responds: **"He is and ever will be."** In the Paschal season the Priest says: **"Christ is risen;"** and the one anointed responds: **"Truly He is risen."**
 When he has anointed all, he returns through the Holy Doors into the Sanctuary; and having bowed profoundly, and handed over the vessel with the brush, he closes the Holy Doors; and having again bowed profoundly, departs; and having divested himself of the Phelonion, sits in his place."
@@ -239,7 +239,7 @@ Such Canons at Matins, whether Great or Small, may be either one, or two, or thr
 
 ---
 
-[Leaf p38 / Page 36]
+=== LEAF p38 ===
 
 Feasts of the Lord and of the Mother of God; in other cases there are three or four.
 With regard to the number of Troparia of the Canon: on Feasts of the Lord and of the Mother of God, whether there are two Canons or only one, their Troparia are taken together on 12, besides the Heirmoi, and the Heirmoi twice each.
@@ -250,7 +250,7 @@ At the end of the last Troparion of each Ode,[^33] the prescribed Katavasia is c
 
 ---
 
-[Leaf p39 / Page 37]
+=== LEAF p39 ===
 
 occurring in the course of the whole year within the boundaries determined in the Typikon.
 Refrains to the Troparia of the Canon today we do not use from the Canticles appointed at the end of the Psalter (for these we restrict to the fasting days of the Great Fast), but we use them as follows:
@@ -261,7 +261,7 @@ Refrains to the Troparia of the Canon today we do not use from the Canticles app
 
 ---
 
-[Leaf p40 / Page 38]
+=== LEAF p40 ===
 
 Since Canons at Matins are usually more numerous, and each Ode concludes with a Theotokion, for this reason to the Theotokia of the preceding Canons we attach the above-mentioned Marian refrain: **"Most Holy Mother of God, save us;"** but to the Theotokion of the last Canon we attach: **"Now and forever..."** and to the penultimate Troparion of the last Canon we attach: **"Glory..."**, whether it be a Theotokion or of any other kind whatsoever.
 In a mixed Canon, that is, one whose Troparia are partly of one kind and partly of another kind of Saints, as occurs in the weekday service of the Oktoechos, there is attached to each Troparion a verse according to its title or subject.

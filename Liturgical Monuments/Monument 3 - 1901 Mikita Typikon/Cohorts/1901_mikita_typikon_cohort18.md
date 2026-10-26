@@ -1,4 +1,4 @@
-<!-- LEAF: p171 -->
+=== LEAF p171 ===
 
 (α) At Small Vespers: Stichera on “Lord, I have cried” at 4; “Glory”: of the Saint; “Now and”: Theotokion. On the aposticha, stichera of the Saint; “Glory”: of the Saint; “Now and”: Theotokion in the same place. After “Now lettest Thou dismiss”: Troparion of the Saint; “Glory,” and “Now and”: Resurrection Theotokion;
 
@@ -14,7 +14,7 @@ XXXII.) If a Feast of the Theotokos Fall on a Weekday.
 
 Since feasts of the Theotokos for the most part all have a Litiya, therefore at these feasts Compline and the Midnight Office are omitted. The festal Divine Worship is celebrated thus:
 
-<!-- LEAF: p172 -->
+=== LEAF p172 ===
 
 (α) At Small Vespers: The beginning is as usual. Instead of the Peace Ektenia, 12 times “Lord, have mercy.” There is no Kathisma. On “Lord, I have cried” stichera of the feast 4; “Glory,” and “Now and”: of the feast. There is no entrance. Prokimenon of the day. “Vouchsafe, O Lord.” Instead of the ektenia: “Let us complete,” 12 times “Lord, have mercy”; on the aposticha, stichera of the feast from the Anthologion or from the Menaion; “Glory,” and “Now and”: of the feast; after “Now lettest Thou dismiss”: Trisagion, “Our Father” with the ecphonesis. Troparion of the feast once. Ektenia: “Have mercy on us.” The smallest Dismissal;
 
@@ -30,7 +30,7 @@ XXXIII.) If a Feast of the Lord Fall on a Weekday.
 
 In this case all things are celebrated in such manner as is set forth in Case XXXII, only this is necessary to note, that
 
-<!-- LEAF: p173 -->
+=== LEAF p173 ===
 
 there are certain Feasts of the Lord in which at Matins after the Gospel “Having beheld the Resurrection of Christ” is also taken (the Exaltation of the Precious Cross and the Ascension).[^166]
 
@@ -54,7 +54,7 @@ XXXV.) If Forefeast and One Saint Fall on Weekdays.
 
 (ε) At the Hours: At the 1st Hour: Troparion and kontakion of the forefeast; at the 3rd Hour: Troparion of the forefeast; “Glory”: of the Saint;
 
-<!-- LEAF: p174 -->
+=== LEAF p174 ===
 
 after the “Our Father”: Kontakion of the Saint; at the 6th Hour: Troparion of the forefeast and kontakion of the forefeast; at the 9th Hour: All things just as at the 3rd. — At the Typika [*Obidnytsia*] all things are in order.
 
@@ -78,7 +78,7 @@ XXXVII.) If It Be a Weekday and Within a Feast a Small Saint Occur.
 
 (α) At Vespers: On “Lord, I have cried” stichera of the feast 3, of the Saint 3; “Glory”: of the Saint, if he hath one; “Now and”: of the feast.
 
-<!-- LEAF: p175 -->
+=== LEAF p175 ===
 
 There is no entrance. Prokimenon of the day. Stichera on the aposticha of the feast 3 with its refrains; “Glory”: of the Saint (if there be one); “Now and”: of the feast. After “Now lettest Thou dismiss”: Troparion of the Saint; “Glory,” and “Now and”: of the feast. The rest as usual;
 
@@ -102,7 +102,7 @@ XXXVIII.) If It Be a Weekday and Within a Feast a Middle Saint Occur.
 
 (δ) At Matins: At “God is the Lord” the troparion of the feast; “Glory”: Troparion of the Saint; “Now and”: of the feast. After the usual kathismata, Sessional Hymns of the feast. Psalm 50 [Ps. 50]. The Canon of the feast with the heirmos at 6 (the Canon of the Octoechos is omitted), and of the Saint likewise at 6;
 
-<!-- LEAF: p176 -->
+=== LEAF p176 ===
 
 Katavasia as before. After Ode 3: Kontakion and ikos of the feast, and Sessional Hymn of the Saint. After Ode 6: Kontakion and ikos of the Saint. After Ode 9: Exaposteilarion of the Saint; “Glory,” and “Now and”: of the feast. On the Praises there are six-stichera Saints who have stichera and a Great Doxology; in this case stichera of the feast 3 and of the Saint 3 are taken; “Glory,” and “Now and”: of the feast; after the Great Doxology, Trisagion. But there are six-stichera Saints who do not have stichera on the Praises, and then the “Praise the Lord” Psalms [Pss. 148–150], etc., are only read; and after this: Small Doxology, etc. Ektenia: “Let us complete.” Stichera on the aposticha of the feast; “Glory”: of the Saint; “Now and”: of the feast; “It is good to give praise” [Ps. 91:2]. Trisagion. “Our Father” with the ecphonesis. Troparion of the Saint; “Glory,” and “Now and”: of the feast. Ektenia: “Have mercy on us.” Small Dismissal;
 
@@ -120,7 +120,7 @@ XXXIX.) If It Be a Weekday and Within a Feast a Great Saint (Polyeleos = at 8).
 
 (δ) At Matins: At “God is the Lord” the troparion of the feast twice; “Glory”: Troparion of the Saint; “Now and”: of the feast. After the kathismata, Sessional Hymns of the Saint. Instead of the 3rd Kathisma: Polyeleos and Magnification. After this, 3rd Sessional Hymn of the Saint; “Glory,” and “Now and”: of the feast. Graduals [*Stepenny*] of Tone 4, the 1st Antiphon (“From my youth”). Prokimenon and Gospel of the Saint. And immediately Psalm 50 [Ps. 50], sticheron of the Saint. Ektenia: “Save, O God.” The Canon at 14; and that: the Canon of the feast with the heirmos at 6, and of the Saint at 8. Katavasia of the day. After Ode 3 of the canon: Kontakion and ikos of the feast and Sessional Hymn of the Saint. After Ode 6: Kontakion and ikos of the Saint. At Ode 9: “More honorable than the Cherubim.” After Ode 9: Exaposteilarion of the feast; “Glory”: of the Saint; and
 
-<!-- LEAF: p177 -->
+=== LEAF p177 ===
 
 “Now and”: of the feast. Stichera on the Praises of the feast 3, and of the Saint 3; “Glory”: of the Saint; “Now and”: of the feast. Great Doxology. Trisagion. Troparion of the Saint; “Glory,” and “Now and”: of the feast. The rest as usual;
 
@@ -140,7 +140,7 @@ XL.) If It Be a Weekday and Within a Feast Two Small Saints Occur.
 
 (ε) At the Hours: At the 1st: Troparion and kontakion of the feast; at the 3rd: Troparion of the feast and “Glory”: Troparion of the 1st Saint; after the “Our Father”: Kontakion of the 1st Saint; at the 6th: Troparion of the feast, kontakion of the feast; at the 9th: Troparion of the feast and “Glory”:
 
-<!-- LEAF: p178 -->
+=== LEAF p178 ===
 
 Troparion of the 2nd Saint; after the “Our Father”: Kontakion of the 2nd Saint. — At the Typika [*Obidnytsia*] all things are in order.
 
@@ -160,7 +160,7 @@ In this case likewise the small Saint is transferred to Compline. — The office
 
 Note: It may happen within a feast on a weekday that there are also many Saints: then those Saints either have one combined office, and in this case it is performed as was said above; or each individual Saint hath his own proper office, and then only the office of the 1st Saint is performed, while the others are omitted and are commemorated only in the Dismissals.
 
-<!-- LEAF: p179 -->
+=== LEAF p179 ===
 
 §. 111.
 
@@ -186,7 +186,7 @@ The Apodosis of the temple takes place on the feast itself at Vespers, and that 
 
 XLV.) If the Apodosis of a Feast and One Saint Fall on a Weekday.
 
-<!-- LEAF: p180 -->
+=== LEAF p180 ===
 
 In this case the entire office of the Saint is celebrated a day beforehand (excepting the Entry into the Temple, when the office of the Saint is also celebrated together), and all things are celebrated as on the feast itself, except: The entrance, the Readings at Vespers, the Polyeleos, and the morning Gospel. However:
 

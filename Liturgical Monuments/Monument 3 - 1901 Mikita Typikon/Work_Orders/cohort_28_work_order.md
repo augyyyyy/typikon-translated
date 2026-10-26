@@ -2,7 +2,7 @@
 
 **Document ID**: `1901_mikita_typikon`  
 **Cohort Number**: 28  
-**Physical Leaves**: Physical pages 271 to 280 (`p271.png` through `p280.png`, 10 leaves total)  
+**Physical Leaves**: Physical pages 271 to 280 (`Page_0271.jpg` through `Page_0280.jpg`, 10 leaves total)  
 **Starting Footnote Index**: `[^286]`  
 **Governing Genre Register**: **RUBRICAL** (Per Master Translation Standard MTS-1)  
 **Image Cache Directory**: `Liturgical Monuments\Monument 3 - 1901 Mikita Typikon\Source Text\images`  
@@ -28,7 +28,7 @@
 ---
 
 ## 3. Autonomous Execution Instructions
-1. Inspect images `p271.png` through `p280.png` in `Liturgical Monuments\Monument 3 - 1901 Mikita Typikon\Source Text\images`.
+1. Inspect images `Page_0271.jpg` through `Page_0280.jpg` in `Liturgical Monuments\Monument 3 - 1901 Mikita Typikon\Source Text\images`.
 2. Transcribe Church Slavonic source text leaf-by-leaf with headers `=== LEAF p271 ===`.
 3. Translate unabridged into `1901_mikita_typikon_cohort28_raw_draft.md` with inline footnote markers `[^N]`.
 4. Write footnote definitions into `1901_mikita_typikon_cohort28_footnotes.txt` starting at `[^286]`.

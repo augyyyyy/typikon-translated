@@ -43,31 +43,11 @@ def get_hub_inbox(monument_name: str) -> Path:
     return hub_inbox
 
 def extract_accounted_leaves(file_path: Path) -> Set[int]:
-    """Extracts all physical leaf numbers witnessed in a cohort text file."""
+    """Extracts all physical leaf numbers witnessed by canonical individual === LEAF pN === markers."""
     accounted = set()
     text = file_path.read_text(encoding='utf-8')
-    
-    # 1. Bracketed leaf markers: [Leaf p123 ...] or [Leaf 123 ...]
-    for m in re.finditer(r'\[Leaf\s+p?(\d+)', text, re.IGNORECASE):
+    for m in re.finditer(r'===\s*LEAF\s+p?(\d+)\s*===', text, re.IGNORECASE):
         accounted.add(int(m.group(1)))
-
-    # 2. Markdown delimiter banners: === LEAF p123 === or === LEAF 123 ===
-    for m in re.finditer(r'===\s*LEAF\s+p?(\d+)', text, re.IGNORECASE):
-        accounted.add(int(m.group(1)))
-
-    # 3. Parenthetical leaf references: *(... Leaf p123 ...) or (... Leaf p123 ...)
-    for m in re.finditer(r'\(\*?[^)]*\bLeaf\s+p?(\d+)', text, re.IGNORECASE):
-        accounted.add(int(m.group(1)))
-
-    # 4. HTML comment banners: <!-- LEAF: p123 --> or <!-- LEAF: 123 -->
-    for m in re.finditer(r'<!--\s*LEAF:?\s*p?(\d+)', text, re.IGNORECASE):
-        accounted.add(int(m.group(1)))
-
-    # 5. Header spans: Leaves p1–p20 or Leaves 1-20
-    for m in re.finditer(r'Leaves\s+p?(\d+)\s*[-–]\s*p?(\d+)', text, re.IGNORECASE):
-        start, end = int(m.group(1)), int(m.group(2))
-        accounted.update(range(start, end + 1))
-
     return accounted
 
 
@@ -183,18 +163,20 @@ def ingest_and_sync(monument_id: str, cohort_num: int) -> int:
     final_dir.mkdir(parents=True, exist_ok=True)
     final_md_dir.mkdir(parents=True, exist_ok=True)
 
-    # 1. Promote Draft to Final
+    # 1. Promote Draft to Final (or update if re-ingesting during Phase 2 Argon audit)
     draft_md = draft_dir / f"{monument_id}_cohort{cohort_num}_raw_draft.md"
     target_md = final_md_dir / f"{monument_id}_cohort{cohort_num}.md"
     target_txt = final_dir / f"{monument_id}_cohort{cohort_num}.txt"
+    cohorts_md = ws / "Cohorts" / f"{monument_id}_cohort{cohort_num}.md"
 
-    if draft_md.exists() and not target_md.exists():
+    if draft_md.exists():
         shutil.copy2(str(draft_md), str(target_md))
-        print(f"Promoted draft: {draft_md.name} -> {target_md.name}")
-        # Plain text copy
         shutil.copy2(str(draft_md), str(target_txt))
+        if cohorts_md.parent.exists() and cohorts_md.exists():
+            shutil.copy2(str(draft_md), str(cohorts_md))
+        print(f"Promoted/updated draft: {draft_md.name} -> {target_md.name}")
 
-    # 2. Append new footnotes to master Final_footnotes.txt
+    # 2. Append or in-place update footnotes in master Final_footnotes.txt
     master_fn_file = final_dir / "Final_footnotes.txt"
     draft_fn_file = draft_dir / f"{monument_id}_cohort{cohort_num}_footnotes.txt"
 
@@ -207,10 +189,19 @@ def ingest_and_sync(monument_id: str, cohort_num: int) -> int:
             with open(master_fn_file, "r", encoding="utf-8") as mf:
                 existing_text = mf.read()
 
-        if new_fn_text and f"## Cohort {cohort_num} Footnotes" not in existing_text:
-            with open(master_fn_file, "a", encoding="utf-8") as mf:
-                mf.write(f"\n\n## Cohort {cohort_num} Footnotes\n\n" + new_fn_text + "\n")
-            print(f"Appended Cohort {cohort_num} footnotes to {master_fn_file.name}")
+        cohort_fn_header = f"## Cohort {cohort_num} Footnotes"
+        if new_fn_text:
+            if cohort_fn_header in existing_text:
+                pattern = rf"(## Cohort {cohort_num} Footnotes\s*\n)(.*?)(?=\n## Cohort \d+ Footnotes|\Z)"
+                replacement = f"## Cohort {cohort_num} Footnotes\n\n{new_fn_text}\n"
+                updated_text = re.sub(pattern, replacement, existing_text, flags=re.DOTALL)
+                with open(master_fn_file, "w", encoding="utf-8") as mf:
+                    mf.write(updated_text)
+                print(f"Updated Cohort {cohort_num} footnotes in-place in {master_fn_file.name}")
+            else:
+                with open(master_fn_file, "a", encoding="utf-8") as mf:
+                    mf.write(f"\n\n{cohort_fn_header}\n\n{new_fn_text}\n")
+                print(f"Appended Cohort {cohort_num} footnotes to {master_fn_file.name}")
 
     # 3. Assemble Master Edition
     # Collect unique cohort files in Final MD (one per cohort number, preferring larger file)
@@ -361,10 +352,23 @@ All files have passed the Small Pause Gatekeeper Suite (vocabulary linting, 100%
         f.write(handoff_note)
     print(f"Updated Hub handoff note: {hub_inbox / 'handoff_note.md'}")
 
-    # 6. Advance State
-    state_cmd = [sys.executable, str(SCRIPT_DIR / "orchestrator_state.py"), "--advance-cohort"]
-    res_st = subprocess.run(state_cmd, capture_output=True, text=True, encoding="utf-8")
-    print(res_st.stdout)
+    # 6. Advance State (only if cohort is not already completed)
+    should_advance = True
+    if STATE_FILE.exists():
+        try:
+            with open(STATE_FILE, "r", encoding="utf-8") as sf:
+                cur_state = json.load(sf)
+                if cur_state.get("monument_id") == monument_id and cohort_num in cur_state.get("completed_cohorts", []):
+                    should_advance = False
+        except (json.JSONDecodeError, OSError, KeyError) as e:
+            print(f"[State check note] Could not inspect active state: {e}")
+
+    if should_advance:
+        state_cmd = [sys.executable, str(SCRIPT_DIR / "orchestrator_state.py"), "--advance-cohort"]
+        res_st = subprocess.run(state_cmd, capture_output=True, text=True, encoding="utf-8")
+        print(res_st.stdout)
+    else:
+        print(f"[State] Cohort {cohort_num} already in completed_cohorts; skipping orchestrator advance.")
 
     print("=" * 65)
     print(">>> GRAND PAUSE INGESTION & HUB SYNC COMPLETE. <<<")

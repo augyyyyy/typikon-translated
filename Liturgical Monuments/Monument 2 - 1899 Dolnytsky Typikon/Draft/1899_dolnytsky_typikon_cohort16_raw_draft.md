@@ -1,6 +1,6 @@
 ---
 
-[Leaf p301 / Page 299]
+=== LEAF p301 ===
 
 3. At the Typika, Kontakion of the Feast; according to the Pochaiv Typikon and the Russian ones, however, Kontakion of the day (**"Behold, the Bridegroom"** (*Се женихъ*)); **"Glory... Both now..."**, of the Feast; and after **"More honorable than the Cherubim"** (*Честнѣйшую*), great prostrations.
 
@@ -19,7 +19,7 @@
 
 ---
 
-[Leaf p302 / Page 300]
+=== LEAF p302 ===
 
 > 5. After **"Now lettest Thou Thy servant depart"** (*Нынѣ отпущаеши*), Troparion of the Feast, and the Ektenia: **"Have mercy on us, O God"** (*Помилуй насъ Боже*); and the Dismissal (the greater one with commemoration of the Passion and of the Feast).
 
@@ -38,7 +38,7 @@ At all the Hours: Troparion of the Feast; **"Glory..."**, of the day: **"When th
 
 ---
 
-[Leaf p303 / Page 301]
+=== LEAF p303 ===
 
 the Troparion of the Prophecy and the Paremia. At the Beatitudes, Kontakion of the Feast, and after **"All-Holy Trinity"** (*Всесвятая Троице*), the Dismissal.
 
@@ -61,7 +61,7 @@ All is according to the Typikon of the Triodion; only:
 
 ---
 
-[Leaf p304 / Page 302]
+=== LEAF p304 ===
 
 1. At **"God is the Lord"** (*Богъ Господь*): Troparion of the Feast twice; **"Glory... Both now..."**, of the day (**"When the glorious disciples"** (*Егда славніи*)).
 2. After the 6th Gospel, the Gradual Hymn of the 4th Tone, and all the rest up to the Canon is of the Feast, according to the general Typikon of Feasts of the Mother of God; only after the Gospel of the Feast is read also the 7th Passion Gospel.
@@ -78,7 +78,7 @@ All is according to their Typikon; only at all of them, Troparion of the Feast; 
 
 ---
 
-[Leaf p305 / Page 303]
+=== LEAF p305 ===
 
 2. At **"Lord, I have cried"** (*Господи воззвахъ*), 10 Stichera: 6 of the Triodion, and 4 of the Feast; **"Glory..."**, of the Triodion; **"Both now..."**, of the Feast. — Entrance with the Gospel.
 3. 5 Readings: 3 of the Triodion, the first 2 with their Prokimena, and 2 of the Feast; and immediately the Little Ektenia with the Exclamation of the Trisagion; and in order the Divine Liturgy of St. John Chrysostom, in which all is first of the Feast, then of the day; Communion Hymn only of the Feast. In place of **"It is truly right"** (*Достойно есть*), the Heirmos of the Feast.
@@ -95,7 +95,7 @@ All is according to the Typikon of Great Friday; only:
 
 ---
 
-[Leaf p306 / Page 304]
+=== LEAF p306 ===
 
 5. At the Dismissal of Great Saturday, commemoration of the Annunciation is made.
 
@@ -115,7 +115,7 @@ At the Beatitudes, Kontakion of the day; **"Glory... Both now..."**, Kontakion o
 
 ---
 
-[Leaf p307 / Page 305]
+=== LEAF p307 ===
 
 #### At Vespers with the Divine Liturgy of St. Basil
 1. There is no Kathisma.
@@ -134,7 +134,7 @@ After **"It is truly right"** (*Достойно есть*), Kontakion of the Tr
 
 ---
 
-[Leaf p308 / Page 306]
+=== LEAF p308 ===
 
 #### In Place of Midnight Office
 After Psalm 50 [LXX], the Canon of Matins of the Annunciation for 6, and of Great Saturday for 8. Katavasia of the Triodion. After the 3rd Ode, Kontakion and Ikos of the Feast, and Sessional Hymn of the Triodion; **"Glory... Both now..."**, of the Feast; after the 6th Ode, Kontakion and Ikos of the Triodion; after the 9th Ode, the Trisagion, and after **"Our Father"** (*Отче нашъ*), Troparion: **"When Thou didst descend"** (*Егда снизшелъ еси*); **"Glory... Both now..."**, of the Feast; Ektenia and Dismissal.
@@ -149,7 +149,7 @@ The Hours: according to the Typikon of Pascha.
 
 ---
 
-[Leaf p309 / Page 307]
+=== LEAF p309 ===
 
 #### At the Divine Liturgy
 1. Troparion **"Christ is risen"** (*Христосъ воскресе*) thrice; **"Glory..."**, Troparion of the Feast; **"Both now..."**, Kontakion of Pascha.
@@ -169,7 +169,7 @@ All is according to the Typikon of the Triodion of these days, only:
 
 ---
 
-[Leaf p310 / Page 308]
+=== LEAF p310 ===
 
 4. In place of **"Blessed be the name of the Lord"** (*Буди имя Господне*): **"Christ is risen"** (*Христосъ воскресе*) thrice, and Psalm 33 [LXX]: **"I will bless the Lord at all times"** (*Благословлю Господа*).[^421]
 
@@ -187,7 +187,7 @@ All the rest is first of the day, then of the Feast.
 
 ---
 
-[Leaf p311 / Page 309]
+=== LEAF p311 ===
 
 ## March 26: Apodosis of the Annunciation and Synaxis of the Holy Archangel Gabriel
 
@@ -215,7 +215,7 @@ We sing Small Compline on account of the labor of the preceding vigil, without a
 
 ---
 
-[Leaf p312 / Page 310]
+=== LEAF p312 ===
 
 3 great prostrations with the Prayer of St. Ephrem, and the other 12 metanias, and again 1 great prostration with the entire prayer of Ephrem.[^422]
 
@@ -238,7 +238,7 @@ Small Compline is sung according to the Typikon here on page 287.
 
 ---
 
-[Leaf p313 / Page 311]
+=== LEAF p313 ===
 
 #### At Matins
 1. At **"God is the Lord"** (*Богъ Господь*): Troparion of the Feast twice; **"Glory..."**, of the Archangel; **"Both now..."**, of the Feast.
@@ -256,7 +256,7 @@ At all the Hours, Troparion of the Feast and of the Archangel; Kontakia: at the 
 
 ---
 
-[Leaf p314 / Page 312]
+=== LEAF p314 ===
 
 ### 3. Apodosis of the Annunciation on the Sunday of the Cross-veneration (3rd of the Fast)
 
@@ -281,7 +281,7 @@ The Service of the Archangel we sing on another day, or at Compline; the Service
 
 ---
 
-[Leaf p315 / Page 313]
+=== LEAF p315 ===
 
 2. After the Entrance, two Readings of the Triodion with their Prokimena, and the first two of the five Festal ones appointed at Vespers of yesterday; then the Little Ektenia with the Exclamation of the Trisagion, and thence in order the Divine Liturgy of St. John Chrysostom.
 
@@ -298,7 +298,7 @@ All is according to the general Typikon of a Forefeast or Afterfeast with a Sain
 
 ---
 
-[Leaf p316 / Page 314]
+=== LEAF p316 ===
 
 #### At Compline
 After **"It is truly right"** (*Достойно есть*): Kontakion of the Triodion; **"Glory... Both now..."**, of the Feast.
@@ -320,7 +320,7 @@ The Great Canon is transferred back to Tuesday. Here is sung the Service of the 
 
 ---
 
-[Leaf p317 / Page 315]
+=== LEAF p317 ===
 
 ### 7. Apodosis of the Feast on Akathist Saturday
 
@@ -343,7 +343,7 @@ At all the Hours, Troparion and Kontakion only of the Feast.
 
 ---
 
-[Leaf p318 / Page 316]
+=== LEAF p318 ===
 
 #### At the Divine Liturgy
 1. Troparion of the Feast; **"Glory... Both now..."**, Kontakion of the Feast.
@@ -366,7 +366,7 @@ This Feast is celebrated among us with an All-Night Vigil, and by decree of the 
 
 ---
 
-[Leaf p319 / Page 317]
+=== LEAF p319 ===
 
 ### Typika for the Aforesaid Cases
 
@@ -387,7 +387,7 @@ All is according to the Typikon of the Triodion of these days, only:
 
 ---
 
-[Leaf p320 / Page 318]
+=== LEAF p320 ===
 
 2. After the Great Prokimenon of the Triodion, 3 Readings of the Saint; and if it is the very day of Pascha, then the Priest reads the Gospel of Pascha, from **"And that we may be accounted worthy"** (*И о еже сподобитися намъ*).
 3. At the Litiya, Stichera of the Saint.

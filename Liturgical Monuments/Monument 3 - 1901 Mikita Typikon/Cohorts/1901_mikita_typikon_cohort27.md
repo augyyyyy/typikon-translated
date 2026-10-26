@@ -1,4 +1,4 @@
-<!-- LEAF: p261 -->
+=== LEAF p261 ===
 
 (p. 237)
 
@@ -10,7 +10,7 @@ The Order of the Holy Mystery of Chrismation.
 
 If a child of the Greek Rite was baptized by a priest of the Latin Rite, then the priest, vested in epitrachelion and phelonion, cometh unto the tetrapod, upon which are laid the cross, the Gospel-Book, and burning candles, and administereth Holy Chrismation unto him, saying thus: “Blessed is the Kingdom,” etc., whereunto the cantor speaketh the sticheron in Tone 6: “O Heavenly King,” and so followeth the Litany of Chrismation: “In peace let us pray unto the Lord.” After the Litany the priest loudly proclaimeth: “Let us pray unto the Lord,” and readeth with the greatest attentiveness loudly the prayer: “Blessed art Thou, O Lord God Almighty,” etc. After the prayer, having dipped his finger into the holy Myron,[^280] he cruciformly anointeth the newly-baptized one upon the forehead, upon the eyes, upon the nostrils, upon the lips, upon the ears, upon the breast, upon the hands, and upon the feet, together with the anointing saying:[^281] “The seal of the gift of the Holy Spirit. Amen.” After this he wipeth his finger and all parts of the chrismated one and destroyeth the paper, while the cantor speaketh: “As many of you as have been baptized into Christ,” etc. After this followeth the Prokimenon. The Epistle. The Gospel. After the Gospel the priest loudly proclaimeth: “Let us pray unto the Lord,” and readeth loudly the prayer: “O Lord God
 
-<!-- LEAF: p262 -->
+=== LEAF p262 ===
 
 (p. 238)
 
@@ -40,7 +40,7 @@ For I believe and confess that that which I receive is the true, most pure Body 
 
 After the prayer, for the communicating of the laity, the priest descendeth unto the ambo, and administereth Holy Communion in such a manner that, holding the holy Chalice in the left hand, and between two fingers, between the second and middle fingers, the diskos, which he placeth under the mouth of the communicant, and with his right hand from the Chalice with the spoon he taketh the Body and Blood of the Savior, and placing it into the mouth of the communicant, say-
 
-<!-- LEAF: p263 -->
+=== LEAF p263 ===
 
 (p. 239)
 
@@ -48,7 +48,7 @@ ing the prayer: “The servant of God (the handmaid of God) partaketh of the pre
 
 II. If, however, the Holy Eucharist is administered unto the sick, this taketh place thus. — The priest, especially the pastor, — since he must particularly care also concerning this, that not one of his faithful at the departure from his life should be deprived of Divine Communion of the Holy Mysteries, — first must keep and carefully preserve the Holy Mysteries in the church upon the holy table in the tabernacle [ciborium]; furthermore, secondly, he must admonish his faithful also unto this, that if sickness should fall upon any of them, they should make this known unto him as quickly as possible. — If, then, it is necessary for the priest to go unto the sick person, then he cometh into the church and there taketh upon himself the epitrachelion, then having devoutly taken forth from the tabernacle a particle of the Holy Eucharist, placeth it into a pyx specially prepared for this, which he carefully shutteth, and after this placeth the pyx into a burse [pira] made of silk cloth, in which in a separate compartment he putteth an eileton, a spoon, and a communion-cloth [lention]. Having then carefully tied this burse, he hangeth it upon his neck, so that the Divine Mysteries lie upon his breast. Thus prepared he proceedeth unto the house of the sick person, on the way devoutly reciting quietly to himself Psalm 50 [LXX Ps. 50], and the other Penitential Psalms. — Likewise the priest must have with him one server, who
 
-<!-- LEAF: p264 -->
+=== LEAF p264 ===
 
 (p. 240)
 
@@ -56,7 +56,7 @@ preceding with a candle, is to carry with himself a vessel with wine, and accord
 
 Note. There is among us the pious custom of the “First Communion of Children.” It is for the most part celebrated on Thomas Sunday. The children on the preceding day toward evening come for
 
-<!-- LEAF: p265 -->
+=== LEAF p265 ===
 
 (p. 241)
 
@@ -70,7 +70,7 @@ If a priest is called unto the hearing of holy confession, let him show himself 
 
 And immediately the sinner himself or with the priest speaketh the prayer: “I confess unto the Lord God...” etc. — After this the priest inquireth of the penitent: “When didst thou confess the last time? Hast thou concealed in thy last confession any sin? Hast thou performed the works of penance [pokuta] appointed in thy former confession? What sins dost thou remember since thy last confession?”
 
-<!-- LEAF: p266 -->
+=== LEAF p266 ===
 
 (p. 242)
 
@@ -88,7 +88,7 @@ The Holy Mystery of Priesthood, — as is known from Dogmatic Theology, — hath
 
 I. Ordination [Cheirothesia] of a Reader. This rite among us the Bishop celebrateth in the Liturgy after the exclamation: “For holy art Thou, O our God.” — And that thus: The Bishop, vested in all pontifical
 
-<!-- LEAF: p267 -->
+=== LEAF p267 ===
 
 (p. 243)
 
@@ -102,7 +102,7 @@ After this the one being ordained, having given back the candle, cometh unto the
 
 After this prayer the Hierarch handeth unto the Reader the Book of the Epistles [Apostol], who kisseth the right hand of the Bishop and the book. At this the Archdeacon proclaimeth: “Let us attend,” the Bishop: “Peace be unto all,”
 
-<!-- LEAF: p268 -->
+=== LEAF p268 ===
 
 (p. 244)
 
@@ -122,7 +122,7 @@ After this they bring the washbasin with water and a towel [lention], and the Hi
 
 III. The Ordination [Cheirotonia] of a Deacon. In the Holy Liturgy after
 
-<!-- LEAF: p269 -->
+=== LEAF p269 ===
 
 (p. 245)
 
@@ -134,7 +134,7 @@ After this the deacon lieth prostrate upon the earth cruciformly, during which t
 
 After the litany the deacon, having arisen, boweth his knees, while the Hierarch, standing without the mitre, at the exclamation of the Archdeacon: “Let us pray unto the
 
-<!-- LEAF: p270 -->
+=== LEAF p270 ===
 
 (p. 246)
 

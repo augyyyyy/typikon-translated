@@ -1,0 +1,129 @@
+{
+  "monument_id": "1895_dmitrievsky_vol1",
+  "updated_at": "2026-10-25T00:32:20.680100+00:00",
+  "total_queued_leaves": 11,
+  "unresolved_quarantines": 0,
+  "items": [
+    {
+      "leaf_num": 23,
+      "cohort": 3,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 7 - 1895 Dmitrievsky Vol 1\\Draft\\1895_dmitrievsky_vol1_cohort3_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 7 - 1895 Dmitrievsky Vol 1\\Source Text\\1895_dmitrievsky_vol1_cohort3_source.txt",
+      "updated_at": "2026-10-24T21:53:01.255780+00:00"
+    },
+    {
+      "leaf_num": 24,
+      "cohort": 3,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 7 - 1895 Dmitrievsky Vol 1\\Draft\\1895_dmitrievsky_vol1_cohort3_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 7 - 1895 Dmitrievsky Vol 1\\Source Text\\1895_dmitrievsky_vol1_cohort3_source.txt",
+      "updated_at": "2026-10-24T21:53:01.255922+00:00"
+    },
+    {
+      "leaf_num": 30,
+      "cohort": 3,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 7 - 1895 Dmitrievsky Vol 1\\Draft\\1895_dmitrievsky_vol1_cohort3_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 7 - 1895 Dmitrievsky Vol 1\\Source Text\\1895_dmitrievsky_vol1_cohort3_source.txt",
+      "updated_at": "2026-10-24T21:53:01.256358+00:00"
+    },
+    {
+      "leaf_num": 32,
+      "cohort": 4,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 7 - 1895 Dmitrievsky Vol 1\\Draft\\1895_dmitrievsky_vol1_cohort4_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 7 - 1895 Dmitrievsky Vol 1\\Source Text\\1895_dmitrievsky_vol1_cohort4_source.txt",
+      "updated_at": "2026-10-24T22:04:43.894992+00:00"
+    },
+    {
+      "leaf_num": 36,
+      "cohort": 4,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "borderline_sgc02_ratio: 0.30 (draft=667c, source=2248c)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 7 - 1895 Dmitrievsky Vol 1\\Draft\\1895_dmitrievsky_vol1_cohort4_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 7 - 1895 Dmitrievsky Vol 1\\Source Text\\1895_dmitrievsky_vol1_cohort4_source.txt",
+      "updated_at": "2026-10-24T22:04:43.895303+00:00"
+    },
+    {
+      "leaf_num": 56,
+      "cohort": 6,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "borderline_sgc02_ratio: 0.48 (draft=1064c, source=2230c)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 7 - 1895 Dmitrievsky Vol 1\\Draft\\1895_dmitrievsky_vol1_cohort6_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 7 - 1895 Dmitrievsky Vol 1\\Source Text\\1895_dmitrievsky_vol1_cohort6_source.txt",
+      "updated_at": "2026-10-24T22:42:40.859174+00:00"
+    },
+    {
+      "leaf_num": 99,
+      "cohort": 10,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "borderline_sgc02_ratio: 0.49 (draft=944c, source=1909c)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 7 - 1895 Dmitrievsky Vol 1\\Draft\\1895_dmitrievsky_vol1_cohort10_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 7 - 1895 Dmitrievsky Vol 1\\Source Text\\1895_dmitrievsky_vol1_cohort10_source.txt",
+      "updated_at": "2026-10-24T23:29:48.308278+00:00"
+    },
+    {
+      "leaf_num": 111,
+      "cohort": 12,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 7 - 1895 Dmitrievsky Vol 1\\Draft\\1895_dmitrievsky_vol1_cohort12_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 7 - 1895 Dmitrievsky Vol 1\\Source Text\\1895_dmitrievsky_vol1_cohort12_source.txt",
+      "updated_at": "2026-10-24T23:55:50.826181+00:00"
+    },
+    {
+      "leaf_num": 114,
+      "cohort": 12,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 7 - 1895 Dmitrievsky Vol 1\\Draft\\1895_dmitrievsky_vol1_cohort12_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 7 - 1895 Dmitrievsky Vol 1\\Source Text\\1895_dmitrievsky_vol1_cohort12_source.txt",
+      "updated_at": "2026-10-24T23:55:50.826422+00:00"
+    },
+    {
+      "leaf_num": 137,
+      "cohort": 14,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 7 - 1895 Dmitrievsky Vol 1\\Draft\\1895_dmitrievsky_vol1_cohort14_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 7 - 1895 Dmitrievsky Vol 1\\Source Text\\1895_dmitrievsky_vol1_cohort14_source.txt",
+      "updated_at": "2026-10-25T00:18:46.840566+00:00"
+    },
+    {
+      "leaf_num": 147,
+      "cohort": 15,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 7 - 1895 Dmitrievsky Vol 1\\Draft\\1895_dmitrievsky_vol1_cohort15_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 7 - 1895 Dmitrievsky Vol 1\\Source Text\\1895_dmitrievsky_vol1_cohort15_source.txt",
+      "updated_at": "2026-10-25T00:32:20.679824+00:00"
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-<!-- LEAF: p291 -->
+=== LEAF p291 ===
 
 (p. 267)
 
@@ -20,7 +20,7 @@ The Blessing of Foods taketh place on Pascha Sunday.
 
 At the Liturgy after the Ambo Prayer and after “Christ is risen” hath been sung three times, etc., the Priest proclaimeth: “Glory to the Holy, Consubstantial,” etc., unto which the choir singeth: “Amen,” etc. After this “Christ is risen” three times, during which singing the Priest, having come unto the place where the artos and the foods have been prepared, censeth them. After this he proclaimeth: “Let us pray to the Lord,” and reciteth three prayers, namely: a) for the blessing of the artos, b) for the blessing of the lamb and other meat foods, and c) for the blessing of dairy and other foods. And having finished these prayers, he sprinkleth the foods with holy water, saying: “These foods are blessed and sanctified by the sprinkling of this holy water, in the name of the Father, and of the Son, and of the Holy Spirit,” etc., and the Dismissal.
 
-<!-- LEAF: p292 -->
+=== LEAF p292 ===
 
 (p. 268)
 
@@ -40,7 +40,7 @@ At the Third Stasis the Priest turneth toward the west; the cantor readeth Psalm
 
 At the Fourth Stasis he turneth toward the north, and the choir readeth Psalm 147: “Praise Jerusalem,” after which the Priest in a loud voice reciteth the prayer: “O Creator of all,” readeth the Gospel, and the second prayer in a loud voice: “O Holy Master,” etc. And he conjureth with the words: “I conjure you, devils,” etc.; afterwards he blesseth the field, sprinkling with holy water, saying as before: “May He bless,” and with this is concluded also the Fourth Stasis, after which they return unto the church.
 
-<!-- LEAF: p293 -->
+=== LEAF p293 ===
 
 (p. 269)
 
@@ -62,7 +62,7 @@ a) The Blessing of Candles: it is twofold: on the feast of the Meeting of the Lo
 
 b) Grapes or vine berries and grain seeds are blessed on the feast of the Transfiguration of Christ, and that in token of thanksgiving for the receiving of these fruits and in test-
 
-<!-- LEAF: p294 -->
+=== LEAF p294 ===
 
 (p. 270)
 
@@ -86,7 +86,7 @@ Having arrived at the place, they place upon the prepared Tetrapod candles, the 
 
 After the troparia the Priest sprinkleth with holy water the place where the Holy Cross is to be — or hath already been erected — and saith the prayer: “Deign, O Christ our God,” etc.; and having taken the Holy Cross, if it is not yet erected, he erecteth it, while the choir singeth the troparion: “The Cross having been erected on the earth.” Afterwards the Priest
 
-<!-- LEAF: p295 -->
+=== LEAF p295 ===
 
 (p. 271)
 
@@ -110,7 +110,7 @@ Order of the Blessing of a New Church.[^315]
 
 The Priest, having permission from the Bishop, wishing to bless a new church, after the singing of Matins, vested in all the priestly vestments, goeth with the other invited Priests unto the doors of the church, one holy cross preceding them, where first of all he saith secretly the prayer of intention: “O God of our action.” After this he beginneth in a loud voice: “Blessed is our God,” etc. “Heavenly King,” “Trisagion,” “Our Father,” “Come, let us worship” (three times). Psalm 50.
 
-<!-- LEAF: p296 -->
+=== LEAF p296 ===
 
 (p. 272)
 
@@ -128,7 +128,7 @@ And the Priest again before the great Throne proclaimeth: “Again and again, wi
 
 After this the Priest sanctifieth — if they be present — the new priestly vestments, and having vested in them, and having placed the Antimension, the Epistle, the Gospel, and the Holy Cross upon the holy Altar-Table, beginneth the Divine Litur-
 
-<!-- LEAF: p297 -->
+=== LEAF p297 ===
 
 (p. 273)
 
@@ -154,7 +154,7 @@ Order of the Blessing of Altar Linens.
 
 The linens are placed upon the Tetrapod before the Royal Doors. The Priest, vested in epitrachelion and phelonion, goeth forth from the Sanctuary and, having censed them cruciformly, proclaimeth in a loud voice: “Blessed is our God.” After this: Heavenly King. Trisagion. Our Father. Lord, have mercy (12 times). Come, let us worship (three times). And Psalm 92: (“The Lord reigneth.”)
 
-<!-- LEAF: p298 -->
+=== LEAF p298 ===
 
 (p. 274)
 
@@ -180,7 +180,7 @@ After this, wishing to sanctify the Star, he again proclaimeth: “Let us pray t
 
 Finally he sanctifieth the Spoon, proclaiming: “Let us pray to the Lord,” and readeth the prayer: “O Lord God Almighty, with the coal taken with tongs by the Seraph,” etc. Then he sprinkleth the Spoon with holy water, saying: “This Spoon is sanctified by the grace
 
-<!-- LEAF: p299 -->
+=== LEAF p299 ===
 
 (p. 275)
 
@@ -206,7 +206,7 @@ Order of the Blessing of the Iconostasis.
 
 An Iconostasis can be erected either in a blessed church or in an unblessed church.
 
-<!-- LEAF: p300 -->
+=== LEAF p300 ===
 
 (p. 276)
 

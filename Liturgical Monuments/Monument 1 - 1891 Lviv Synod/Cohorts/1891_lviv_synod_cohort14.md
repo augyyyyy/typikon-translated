@@ -3,7 +3,7 @@
 
 > [!NOTE]
 > **Historical & Canonical Significance**  
-> Cohort 2 concludes the legal enactments of the 1891 Lviv Provincial Synod (*Чинности и рѣшеня руского провинціяльного Собора въ Галичинѣ ôтбувшого ся во Львовѣ въ роцѣ 1891*). It features the conclusion of **Titulus XV (On Church Property)**, the historic **Signatures of the Synodal Hierarchy and Clergy** (including Fr. Isidore Dolnytsky, author of the 1899 Typikon, and Dr. Isidore Sharanevych, Senior of the Stavropeghial Institute), the formal **Decree of Papal Confirmation** from Rome (Pope Leo XIII and the Sacred Congregation *de Propaganda Fide pro negotiis Ritus Orientalis*), and the **Official Synodal Table of Contents** detailing the entire statutory framework of the Galician Greek-Catholic Church.
+> Cohort 14 concludes the legal enactments of the 1891 Lviv Provincial Synod (*Чинности и рѣшеня руского провинціяльного Собора въ Галичинѣ ôтбувшого ся во Львовѣ въ роцѣ 1891*). It features the conclusion of **Titulus XV (On Church Property)**, the historic **Signatures of the Synodal Hierarchy and Clergy** (including Fr. Isidore Dolnytsky, author of the 1899 Typikon, and Dr. Isidore Sharanevych, Senior of the Stavropeghial Institute), the formal **Decree of Papal Confirmation** from Rome (Pope Leo XIII and the Sacred Congregation *de Propaganda Fide pro negotiis Ritus Orientalis*), and the **Official Synodal Table of Contents** detailing the entire statutory framework of the Galician Greek-Catholic Church.
 
 ---
 
@@ -23,6 +23,9 @@
 
 ---
 
+=== LEAF p262 ===
+*(Physical Page 258 / Leaf p262)*
+
 **6.** ...that they have recourse to their Ordinaries, but never presume to undertake that on their own. Further, let them endeavor that these goods be preserved intact in their state, and that especially in the case of a transfer of administrators they suffer no injury to the detriment of their successors; in particular, let them not clear-cut forests where the benefice (*ерекція*) possesses such, but for obtaining profit from them, let them proceed according to the forest laws; which must likewise be observed with respect to fruit orchards.
 
 **7.** The leasing [of church property] for a year, or with the permission of the Ordinariate for three years, is to be granted to none other than the most honorable Christians.
@@ -32,7 +35,6 @@
 ---
 
 ## Signatures of the Synodal Fathers
-*(Physical pp. 258–264 / Leaves p262–p268)*
 
 The Names of the Signatories Follow:
 
@@ -52,6 +54,10 @@ The Names of the Signatories Follow:
 * **Andrei Biletsky**, Scholastic of the Greek-Catholic Metropolitan Chapter of Lviv, Domestic Prelate of His Holiness Pope Leo XIII.
 * **Yosyf Kobyliansky**, Chancellor of the Metropolitan Chapter.
 * **Lev Turkevych**, Canon of the Greek-Catholic Chapter of Lviv and Pastor of the Archcathedral.
+
+=== LEAF p263 ===
+*(Physical Page 259 / Leaf p263)*
+
 * **Dr. Yosyf Komarnytsky**, Canon of the Greek-Catholic Metropolitan Chapter and Ordinary Professor of the University.
 * **Martin Pakizh**, Privy Chamberlain of His Holiness, Canon of the Greek-Catholic Chapter of Lviv.
 * **Emilian Bilynsky**, Canon of the Greek-Catholic Metropolitan Chapter of Lviv.
@@ -77,6 +83,10 @@ The Names of the Signatories Follow:
 * **Yulian Koptsiansky**, Administrator of the Deanery of Halych and Pastor of Halych.
 * **Mykhailo Kulmatytsky**, Dean and Pastor of Horodok.
 * **Yosyf Kernyakevych**, Dean of Zhuravno, Pastor in Cherniv.
+
+=== LEAF p264 ===
+*(Physical Page 260 / Leaf p264)*
+
 * **Kornyliy Montsibovych**, Administrator of the Deanery of Zalozhtsi and Pastor in Vertilka.
 * **Hryhoriy Chubaty**, Dean of Zbarazh, Pastor in Stupky.
 * **Yevstakhiy Klosevych**, Dean of Zboriv, Pastor in Prysivtsi.
@@ -109,6 +119,10 @@ The Names of the Signatories Follow:
 * **Klyment Hlynsky**, Titular Consistorial Councillor, Pastor in Kamianka.
 * **Atanasiy Pashkovsky**, Pastor in Olesko.
 * **Volodymyr Petrushevych**, Archcathedral Confessor.
+
+=== LEAF p265 ===
+*(Physical Page 261 / Leaf p265)*
+
 * **Ioan Chapelsky**, Prefect of the Greek-Catholic Seminary in Lviv.
 * **Dr. Tyt Myshkovsky**, Prefect of Studies in the Greek-Catholic General Seminary in Lviv.
 * **Dr. of Sacred Theology Ilariy Vatsyk**, Prefect of Studies, Catechist of Gymnasium V in Lviv.
@@ -138,6 +152,10 @@ The Names of the Signatories Follow:
 * *With reservation of the rights reserved to the Apostolic See, I sign:* [^277]  
   **Dr. Yosyf Cherlyunchakevych**, Retired Professor and Dean of the Jagiellonian University of Kraków and of Lviv.
 * **Oleksiy Toronsky**, Professor of Religion in the Imperial and Royal Academic Gymnasium of Lviv and Councillor of the Metropolitan Consistory.
+
+=== LEAF p266 ===
+*(Physical Page 262 / Leaf p266)*
+
 * **Dr. of Sacred Theology Ioan Hrobelsky**, Professor of Pastoral Theology in the Greek-Catholic Seminary of Przemyśl.
 * **Poliyevkt Kmyt**, Substitute Professor of Canon Law and Prefect of Studies in the Greek-Catholic Seminary of Przemyśl.
 * **Dr. Mykolay Malynyak**, Pastor of Slyvnytsia, Delegate of Nizhankovychi.
@@ -168,6 +186,10 @@ The Names of the Signatories Follow:
 * **Emilian Levytsky**, Pastor of Tartakiv, Deanery of Sokal.
 * **Aleksander Nestorowych**, Dean of Sambir and Pastor in Sambir.
 * **Georgiy Hladylovych**, Pastor of Khyriv, Retired Dean of Birecha.
+
+=== LEAF p267 ===
+*(Physical Page 263 / Leaf p267)*
+
 * **Lev Shchavynsky**, Dean of Staryi Sambir, Pastor in Stare Misto.
 * **Lev Sembratovych**, Administrator of the Deanery of Sanok and Pastor in Chertezh.
 * **Ioan Holovynsky**, Pastor in Moloshkovychi, Dean of Sudova Vyshnia.
@@ -199,6 +221,10 @@ The Names of the Signatories Follow:
 * **Yulian Levytsky**, Vice-Dean of Buchach, Pastor of Zhyznomyr.
 * **Kyrylo Pachovsky**, Pastor and Dean of Bohorodchany.
 * **Kyrylo Hamorak**, Greek-Catholic Cooperator with right of parish administration in Stetseva.
+
+=== LEAF p268 ===
+*(Physical Page 264 / Leaf p268)*
+
 * **Stefan Lenkavsky**, Pastor in Uhornyky.
 * **Maksymiliyan Krushelnytsky**, Pastor in Nazirna.
 * **Ioan Hrabovych**, Pastor in Tysmenytsia.
@@ -217,6 +243,9 @@ The Names of the Signatories Follow:
 
 ---
 
+=== LEAF p269 ===
+*(Physical Page 265 / Leaf p269)*
+
 ## Decree of Papal Confirmation
 ### By Which the Second Ruthenian Synod of Lviv Is Confirmed
 
@@ -229,6 +258,9 @@ The Names of the Signatories Follow:
 > *Given at Rome, from the house of the same Sacred Congregation de Propaganda Fide for the Affairs of the Eastern Rite, on the 1st day of March, 1895.* [^278]
 
 ---
+
+=== LEAF p270 ===
+*(Physical Page 266 / Leaf p270)*
 
 ## Official Synodal Table of Contents
 ### Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)
@@ -246,6 +278,10 @@ The Names of the Signatories Follow:
   - First General Congregation *(p. 46)*
   - First Session *(p. 48)*
   - Second General Congregation *(p. 63)*
+
+=== LEAF p271 ===
+*(Physical Page 267 / Leaf p271)*
+
   - Second Session *(p. 65)*
   - Third General Congregation *(p. 67)*
   - Third Session *(p. 67)*
@@ -279,6 +315,10 @@ The Names of the Signatories Follow:
 
 * **TITULUS IV. On Public Worship of God** *(p. 109)*
   - Chapter I. On the Sacrifice of the Divine Liturgy *(p. 109)*
+
+=== LEAF p272 ===
+*(Physical Page 268 / Leaf p272)*
+
   - Chapter II. On Intentions and Stipends for Divine Liturgies *(p. 114)*
   - Chapter III. On the Canonical Hours (Church Rule) and Other Public Divine Services *(p. 118)*
   - Chapter IV. Regarding the Celebration of Extra-Ordinary Rites, Certain of Which Are Attached to Immovable Feasts and Others to Movable Feasts *(p. 121)*
@@ -308,6 +348,10 @@ The Names of the Signatories Follow:
 * **TITULUS VII. On the Ecclesiastical Hierarchy** *(p. 189)*
   - Chapter I. On the Roman Pontiff *(p. 190)*
   - Chapter II. On the Metropolitan *(p. 191)*
+
+=== LEAF p273 ===
+*(Physical Page 269 / Leaf p273)*
+
   - Chapter III. On Bishops *(p. 194)*
   - Chapter IV. On Cathedral Chapters *(p. 197)*
   - Chapter V. On Vicars Forane or Deans *(p. 200)*
@@ -339,6 +383,9 @@ The Names of the Signatories Follow:
 * **TITULUS XIV. On Synods** *(p. 253)*
   - 1. Regarding Those Who Are to Be Summoned to the Synod *(p. 254)*
   - 2. Regarding the Time of Holding Provincial and Diocesan Synods *(p. 255)*
+
+=== LEAF p274 ===
+*(Physical Page 270 / Leaf p274)*
 
 * **TITULUS XV. On Church Property** *(p. 256)*
 

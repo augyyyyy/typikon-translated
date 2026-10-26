@@ -1,6 +1,6 @@
 # Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852) — Cohort 5 (Leaves p41–p50)
 
-<!-- LEAF: p41 -->
+=== LEAF p41 ===
 
 [Book Page 80]
 
@@ -31,7 +31,7 @@ At the Divine Liturgy: the Typika (Psalm 102): **"Bless the Lord, O my soul..."*
 At the Beatitudes: the stichera of the Octoechos in the Tone of the week to 8.  
 After the Little Entrance: the Resurrection Troparion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** the Resurrection Kontakion; **"Now and forever, and unto the ages of ages. Amen:"** the Kontakion according to the Tone from the Feasts of the Theotokos, or of the Temple if the temple is dedicated to the Theotokos.
 
-<!-- LEAF: p42 -->
+=== LEAF p42 ===
 
 [Book Page 82]
 
@@ -67,7 +67,7 @@ Prokeimenon, Epistle, and Gospel: of the cycle of the Sunday; and if the saint a
 
 On Saturday evening, at **"Lord, I have cried"** (*Го́споди воззва́хъ*), we set 10 verses, that is: Resurrection stichera of the Octoechos 3, and Anatolian (Eastern) 1,
 
-<!-- LEAF: p43 -->
+=== LEAF p43 ===
 
 [Book Page 84]
 
@@ -102,7 +102,7 @@ At the Divine Liturgy: the Resurrection Beatitudes of the Octoechos to 6, and of
 After the Little Entrance: the Resurrection Troparion, and the troparion of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** kontakion of the saint; **"Now and forever, and unto the ages of ages. Amen:"** the Kontakion from the Feasts of the Theotokos according to the Tone, or **"Steadfast Protectress of Christians..."** (*Застꙋ́пнице хрїстїа́нъ...*).  
 Prokeimenon, Epistle, Alleluia, Gospel, and Communion Hymn: of the Sunday and of the saint.
 
-<!-- LEAF: p44 -->
+=== LEAF p44 ===
 
 [Book Page 86]
 
@@ -133,7 +133,7 @@ The Resurrection Canon with its Heirmos to 4; of the Theotokos to 4; and of the 
 After Ode 3: the Kontakion and Ikos of the saint, and his Sessional Hymn; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** Theotokion in the same place.  
 After Ode 6: the Resurrection Kontakion and Ikos.
 
-<!-- LEAF: p45 -->
+=== LEAF p45 ===
 
 [Book Page 88]
 
@@ -159,7 +159,7 @@ At Compline: the Hypakoe of the Tone; **"Glory to the Father, and to the Son, an
 At the Midnight Office: the Triadikos Canon of the Tone.  
 At Matins: at **"God is the Lord"** (*Бо́гъ Госпо́дь*), the Resurrection Troparion
 
-<!-- LEAF: p46 -->
+=== LEAF p46 ===
 
 [Book Page 90]
 
@@ -187,7 +187,7 @@ Prokeimenon, Epistle, Gospel, and Communion Hymn: of the Sunday only.
 It is necessary to know that if a Dominical Feast [of Christ] occurs, namely: the Exaltation of the Precious Cross, the Nativity of Christ, Theophany, and the Transfiguration, nothing whatsoever is sung of the Resurrection: neither the Resurrection stichera, nor the Blameless, nor the Anavathmoi of the Tone, nor is the Resurrection Gospel read [only on the Exaltation of the Precious Cross after the Gospel do we sing: **"Having beheld the Resurrection of Christ..."** (*Воскресе́нїе Хрїсто́во ви́дѣвше...*)], nor is **"God is the Lord"** said with Resurrection troparia; but the entire office is of the Feast at Vespers and Matins, and at the Divine Liturgy, invariantly.[^104]  
 The Tone of the week, the Resurrection Gospel, the Gospel Sticheron, and
 
-<!-- LEAF: p47 -->
+=== LEAF p47 ===
 
 [Book Page 92]
 
@@ -217,7 +217,7 @@ At all the Hours: troparion of the feast; after **"Our Father..."**: Kontakion o
 At the Divine Liturgy: Festal Antiphons of the feast.  
 After the Little Entrance: troparion of the feast; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"**
 
-<!-- LEAF: p48 -->
+=== LEAF p48 ===
 
 [Book Page 94]
 
@@ -252,7 +252,7 @@ Then: **"Having beheld the Resurrection of Christ..."** (*Воскресе́нї
 Thereafter: **"Glory to the Father, and to the Son, and to the Holy Spirit:"** **"Through the prayers of the Theotokos..."**; **"Now and forever, and unto the ages of ages. Amen:"** the same; the Sticheron of the feast.  
 The Resurrection Canon with its Heirmos to 4; and of the Theotokos
 
-<!-- LEAF: p49 -->
+=== LEAF p49 ===
 
 [Book Page 96]
 
@@ -286,7 +286,7 @@ At Compline: the Hypakoe of the Tone; **"Glory to the Father, and to the Son, an
 On Sunday morning, we sing the Midnight Office as usual with the Triadikos Canon.  
 At Matins: at **"God is the Lord"** (*Бо́гъ Госпо́дь*), the Resurrection Troparion
 
-<!-- LEAF: p50 -->
+=== LEAF p50 ===
 
 [Book Page 98]
 

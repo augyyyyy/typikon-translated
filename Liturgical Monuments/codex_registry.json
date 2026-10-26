@@ -1,8 +1,70 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "Byzantine-Ruthenian Typikon Transmission Chain Codex Registry",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "monuments": {
+    "2010_lviv_typikon": {
+      "monument_id": "2010_lviv_typikon",
+      "title": "Typikon of the Ukrainian Greek-Catholic Church (Lviv, 2010)",
+      "short_title": "2010 Lviv Synodal Typikon",
+      "relative_pdf_path": "3. Modern Service Books and Typikons/03. Modern Typikons & Liturgical Ordines/01. Modern Typikons & Commentaries/2010 Lviv Typikon/Typyk UHKC(укр).pdf",
+      "canonical_mirror_dir": "3. Modern Service Books and Typikons/03. Modern Typikons & Liturgical Ordines/01. Modern Typikons & Commentaries/2010 Lviv Typikon",
+      "total_physical_pages": 287,
+      "default_cohort_size": 10,
+      "genre_register": "rubrical",
+      "workspace_dir": "Liturgical Monuments/Monument 0 - 2010 Lviv Typikon",
+      "active": false,
+      "status": "completed",
+      "publication_spec": {
+        "hub_inbox_folder": "2010_Lviv_Typikon",
+        "master_title": "TYPIKON Of the Ukrainian Catholic Church",
+        "parts": [
+          {
+            "id": "part0",
+            "filename": "Final_Dolnytsky_intro.md",
+            "title": "Introduction, Publisher's Foreword, and Table of Contents",
+            "start_landmark": null
+          },
+          {
+            "id": "part1",
+            "filename": "Final_Dolnytsky_part1_structure.md",
+            "title": "PART I: GENERAL VIEW OF THE DIVINE SERVICES",
+            "start_landmark": "^#\\s+PART I:"
+          },
+          {
+            "id": "part2",
+            "filename": "Final_Dolnytsky_part2_general_rubrics.md",
+            "title": "PART II: GENERAL RUBRICS FOR VARIOUS SERVICES (OCTOECHOS & MENAION)",
+            "start_landmark": "^#\\s+PART II:"
+          },
+          {
+            "id": "part3",
+            "filename": "Final_Dolnytsky_part3_menaion.md",
+            "title": "PART III: SPECIFIC RUBRICS FOR CERTAIN SERVICES OF THE MENAION",
+            "start_landmark": "^#\\s+PART III:"
+          },
+          {
+            "id": "part4",
+            "filename": "Final_Dolnytsky_part4_triodion.md",
+            "title": "PART IV: RUBRICS OF THE TRIODION AND PENTECOSTARION",
+            "start_landmark": "^#\\s+PART IV:"
+          },
+          {
+            "id": "part5",
+            "filename": "Final_Dolnytsky_part5_temple.md",
+            "title": "PART V: RUBRICS CONCERNING TEMPLES",
+            "start_landmark": "^#\\s+PART V:"
+          },
+          {
+            "id": "appendix",
+            "filename": "Final_Dolnytsky_appendix.md",
+            "title": "APPENDIX: RUBRICS FOR SACRED MINISTERS",
+            "start_landmark": "^#\\s+APPENDIX"
+          }
+        ],
+        "footnotes_filename": "Final_footnotes.md"
+      }
+    },
     "1891_lviv_synod": {
       "monument_id": "1891_lviv_synod",
       "title": "Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)",
@@ -342,20 +404,653 @@
       "default_cohort_size": 10,
       "genre_register": "scholarly_critical",
       "workspace_dir": "Liturgical Monuments/Monument 7 - 1895 Dmitrievsky Vol 1",
+      "active": true,
+      "status": "in_progress",
+      "front_matter_leaf_offset": 150,
+      "printed_book_page_start": 1,
+      "coordinate_notes": "Tri-zone pagination: p1 is Title Page; p2-p3 are Table of Contents (pp. I-II); p4-p150 are Author's Preface (Roman pp. I-CXLVII, Roman = Leaf - 3); p151-p1065 are Main Body (Arabic pp. 1-915, Book Page = Leaf - 150); p1066-p1090 are Errata and Addenda (Rear Roman pp. I-XXV, Roman = Leaf - 1065).",
+      "source_language": "Russian / Byzantine Greek / Church Slavonic",
+      "publication_spec": {
+        "hub_inbox_folder": "1895_Dmitrievsky_Opisanie_Vol1",
+        "master_title": "Description of Liturgical Manuscripts Preserved in the Libraries of the Orthodox East, Vol. I: Typika, Part 1 (Aleksei Dmitrievsky, Kyiv, 1895)",
+        "parts": [
+          {
+            "id": "part0",
+            "filename": "1895_dmitrievsky_vol1_part0_intro_and_toc.md",
+            "title": "FRONT MATTER, TABLE OF CONTENTS, AND AUTHOR'S PREFACE (Pages I–CXLVII)",
+            "start_landmark": null
+          },
+          {
+            "id": "part1",
+            "filename": "1895_dmitrievsky_vol1_part1_patriarchal_typika.md",
+            "title": "SECTION I: MONUMENTS OF PATRIARCHAL TYPIKA (Great Church of Constantinople Patmos MS 266, Athos St. Andrew Ordo, and Sinaitic Kanonaria)",
+            "start_landmark": "^#+\\s*(?:SECTION\\s+I|PART\\s+FIRST|FIRST\\s+SECTION|MONUMENTS\\s+OF\\s+PATRIARCHAL\\s+TYPIKA)\\b"
+          },
+          {
+            "id": "part2",
+            "filename": "1895_dmitrievsky_vol1_part2_sabbas_studite_evergetis_menaion.md",
+            "title": "SECTION II (PART A): KTETORIK MONASTIC TYPIKA — TESTAMENT OF ST. SABBAS, STUDITE HYPOTYPOSIS, ATHONITE DIATYPOSIS, AND EVERGETIS SYNAXARION (FIXED CYCLE SEPT.–AUG.)",
+            "start_landmark": "^#+.*?(?:Testament\\s+of\\s+(?:St\\.|Saint|Our\\s+Venerable\\s+Father)\\s+Sabbas|SECTION\\s+II|KTETORIK\\s+MONASTIC\\s+TYPIKA)"
+          },
+          {
+            "id": "part3",
+            "filename": "1895_dmitrievsky_vol1_part3_evergetis_triodion_and_ktetorik_rule.md",
+            "title": "SECTION II (PART B): EVERGETIS SYNAXARION (TRIODION & PENTECOSTARION CYCLE) AND KTETORIK RULE OF TIMOTHY",
+            "start_landmark": "^#+.*?(?:Exact\\s+Order,?\\s+with\\s+God,?\\s+of\\s+(?:Holy\\s+and\\s+)?Great\\s+Lent|Order\\s+of\\s+(?:Holy\\s+and\\s+)?Great\\s+Lent.*?Publican\\s+and\\s+(?:the\\s+)?Pharisee)"
+          },
+          {
+            "id": "part4",
+            "filename": "1895_dmitrievsky_vol1_part4_pantokrator_mamas_elegmon_auxentios.md",
+            "title": "SECTION II (PART C): CONSTANTINOPOLITAN & BITHYNIAN IMPERIAL MONASTIC TYPIKA (Pantokrator, St. Mamas, Heliou Bomon / Elegmon, and Mt. St. Auxentios)",
+            "start_landmark": "^#+.*?Typikon\\s+of\\s+the\\s+(?:Constantinopolitan\\s+|Imperial\\s+)?Pantokrator\\s+Monastery"
+          },
+          {
+            "id": "part5",
+            "filename": "1895_dmitrievsky_vol1_part5_italo_greek_and_western_mss.md",
+            "title": "SECTION II (PART D): ITALO-GREEK, VATICAN, BARBERINI, VALLICELLIANA, TURIN, VIENNA, AND GROTTAFERRATA TYPIKA",
+            "start_landmark": "^#+.*?Typikon\\s+of\\s+the\\s+(?:12th|XII).*?Turin\\s+University\\s+Library"
+          },
+          {
+            "id": "part6",
+            "filename": "1895_dmitrievsky_vol1_part6_errata_and_addenda.md",
+            "title": "APPENDIX: ERRATA, CORRECTIONS, AND ADDENDA (Pages I–XXV)",
+            "start_landmark": "^#+\\s*(?:Errata,\\s*Corrections,\\s*and\\s*Addenda|ERRATA,\\s*CORRECTIONS)"
+          }
+        ],
+        "footnotes_filename": "1895_dmitrievsky_vol1_footnotes.md"
+      }
+    },
+    "1630_lviv_octoechos": {
+      "monument_id": "1630_lviv_octoechos",
+      "title": "Lviv Printed Octoechos (Lviv Stauropegion, 1630)",
+      "short_title": "1630 Lviv Octoechos",
+      "relative_pdf_path": "2. Historical Liturgical Texts/Kyivan_Recension/Octoechos/Lviv_1630_Octoechos/PDFs/Lviv_1630_Octoechos.pdf",
+      "canonical_mirror_dir": "2. Historical Liturgical Texts/Kyivan_Recension/Octoechos/Lviv_1630_Octoechos",
+      "total_physical_pages": 267,
+      "default_cohort_size": 10,
+      "genre_register": "hymnographic",
+      "workspace_dir": "Liturgical Monuments/Monument 9 - 1630 Lviv Octoechos",
       "active": false,
-      "status": "ready"
+      "status": "ready",
+      "wave": 1,
+      "publication_spec": {
+        "hub_inbox_folder": "1630_Lviv_Octoechos",
+        "master_title": "Lviv Printed Octoechos (Lviv Stauropegion, 1630)",
+        "canonical_h1_instruction": "When a new Tone or rear section begins on a leaf, emit its canonical H1 Markdown header on its own line: `# TONE 1`, `# TONE 2`, `# TONE 3`, `# TONE 4`, `# TONE 5`, `# TONE 6`, `# TONE 7`, `# TONE 8`, or `# EXAPOSTILARIA AND EVANGELICAL STICHERA`.",
+        "parts": [
+          {
+            "id": "part0",
+            "filename": "1630_lviv_octoechos_part0_front_matter.md",
+            "title": "Front Matter, Title Page, Dedicatory Preface, and Opening Offices",
+            "start_landmark": null
+          },
+          {
+            "id": "part1",
+            "filename": "1630_lviv_octoechos_part1_tone1.md",
+            "title": "TONE 1: SATURDAY VESPERS, SUNDAY MATINS, AND WEEKDAY OFFICES",
+            "start_landmark": "^#+\\s*(?:TONE\\s+(?:1|I|FIRST)|BEGINNING\\s+OF\\s+TONE\\s+1)\\b"
+          },
+          {
+            "id": "part2",
+            "filename": "1630_lviv_octoechos_part2_tone2.md",
+            "title": "TONE 2: SATURDAY VESPERS, SUNDAY MATINS, AND WEEKDAY OFFICES",
+            "start_landmark": "^#+\\s*(?:TONE\\s+(?:2|II|SECOND)|BEGINNING\\s+OF\\s+TONE\\s+2)\\b"
+          },
+          {
+            "id": "part3",
+            "filename": "1630_lviv_octoechos_part3_tone3.md",
+            "title": "TONE 3: SATURDAY VESPERS, SUNDAY MATINS, AND WEEKDAY OFFICES",
+            "start_landmark": "^#+\\s*(?:TONE\\s+(?:3|III|THIRD)|BEGINNING\\s+OF\\s+TONE\\s+3)\\b"
+          },
+          {
+            "id": "part4",
+            "filename": "1630_lviv_octoechos_part4_tone4.md",
+            "title": "TONE 4: SATURDAY VESPERS, SUNDAY MATINS, AND WEEKDAY OFFICES",
+            "start_landmark": "^#+\\s*(?:TONE\\s+(?:4|IV|FOURTH)|BEGINNING\\s+OF\\s+TONE\\s+4)\\b"
+          },
+          {
+            "id": "part5",
+            "filename": "1630_lviv_octoechos_part5_tone5.md",
+            "title": "TONE 5: SATURDAY VESPERS, SUNDAY MATINS, AND WEEKDAY OFFICES",
+            "start_landmark": "^#+\\s*(?:TONE\\s+(?:5|V|FIFTH)|BEGINNING\\s+OF\\s+TONE\\s+5)\\b"
+          },
+          {
+            "id": "part6",
+            "filename": "1630_lviv_octoechos_part6_tone6.md",
+            "title": "TONE 6: SATURDAY VESPERS, SUNDAY MATINS, AND WEEKDAY OFFICES",
+            "start_landmark": "^#+\\s*(?:TONE\\s+(?:6|VI|SIXTH)|BEGINNING\\s+OF\\s+TONE\\s+6)\\b"
+          },
+          {
+            "id": "part7",
+            "filename": "1630_lviv_octoechos_part7_tone7.md",
+            "title": "TONE 7: SATURDAY VESPERS, SUNDAY MATINS, AND WEEKDAY OFFICES",
+            "start_landmark": "^#+\\s*(?:TONE\\s+(?:7|VII|SEVENTH)|BEGINNING\\s+OF\\s+TONE\\s+7)\\b"
+          },
+          {
+            "id": "part8",
+            "filename": "1630_lviv_octoechos_part8_tone8.md",
+            "title": "TONE 8: SATURDAY VESPERS, SUNDAY MATINS, AND WEEKDAY OFFICES",
+            "start_landmark": "^#+\\s*(?:TONE\\s+(?:8|VIII|EIGHTH)|BEGINNING\\s+OF\\s+TONE\\s+8)\\b"
+          },
+          {
+            "id": "part9",
+            "filename": "1630_lviv_octoechos_part9_exapostilaria_eothina_and_colophon.md",
+            "title": "RESURRECTIONAL EXAPOSTILARIA, EVANGELICAL STICHERA (EOTHINA), AND COLOPHON",
+            "start_landmark": "^#+.*?(?:EXAPOSTILARIA|EVANGELICAL\\s+STICHERA|GOSPEL\\s+STICHERA|EOTHINA)\\b"
+          }
+        ],
+        "footnotes_filename": "1630_lviv_octoechos_footnotes.md"
+      }
+    },
+    "1629_kyiv_octoechos": {
+      "monument_id": "1629_kyiv_octoechos",
+      "title": "Kyiv-Pechersk Lavra Octoechos (Kyiv, 1629)",
+      "short_title": "1629 Kyiv-Pechersk Octoechos",
+      "relative_pdf_path": "2. Historical Liturgical Texts/Kyivan_Recension/Octoechos/Kyiv_1629_Octoechos/PDFs/Kyiv_1629_Octoechos.pdf",
+      "canonical_mirror_dir": "2. Historical Liturgical Texts/Kyivan_Recension/Octoechos/Kyiv_1629_Octoechos",
+      "total_physical_pages": 295,
+      "default_cohort_size": 10,
+      "genre_register": "hymnographic",
+      "workspace_dir": "Liturgical Monuments/Monument 8 - 1629 Kyiv Octoechos",
+      "active": false,
+      "status": "ready",
+      "wave": 1,
+      "source_language": "Church Slavonic / Ruthenian (Kyivan Recension)",
+      "coordinate_notes": "p1 and p295 are 1-up outer leather binding boards; p2 through p294 are 2-up open spreads (Left Page = Verso of Folio N-1, Right Page = Recto of Folio N). p2 Right contains the Ruthenian ('prosta mova') preface 'ДО ЧИТЕЛНИКА'; p3 Left contains the full-page woodcut of St. John of Damascus ('К Д'); p3 Right opens Tone 1 ('ВЪ КНИГИ ОКТѠИХЪ ВСКРСНЪ, Гласъ Первый') below the Resurrection woodcut ('В Т'); p293 Right concludes with 'Конецъ Свѣтилнамъ и Троичнамъ'; p294 contains cursive marginalia and Stroev's collation slip (No. 39).",
+      "flash_execution_guardrails": [
+        "2-UP SPREAD & CATCHWORD PROTOCOL: Leaves p2..p294 are 2-up open spreads. Inside each '=== LEAF pN ===' block, emit '**[Left Page — Fol. Nv]**' and '**[Right Page — Fol. Nr]**' in both Source Text and Draft MD. Record bottom-right catchwords as '[Кустод: ...]' in Source Text, complete any hyphenated cross-page word at the page where it begins in Draft MD, and never duplicate catchwords into the English hymn prose.",
+        "H1 LANDMARK DISCIPLINE: Emit top-level H1 headers ('# PREFACE: TO THE READER', '# TONE 1'..'# TONE 8', '# EXAPOSTILARIA AND TRIADIKA') ONLY when a primary ornamental woodcut/vyaz section headpiece opens a new Tone or major book division. NEVER emit H1 or H2 for page running headers ('Гласъ А'..'Гласъ И') or rear per-tone Exapostilaria/Triadika subheadings ('Свѣтиленъ Гласъ З' -> use H3 '### Exapostilarion, Tone 7').",
+        "COLOMETRIC ASTERISKS & DUAL REGISTER: Preserve literal '*' colometric dividers in Source Text while normalizing superscripts/titla into readable Cyrillic. In Draft MD, convert '*' dividers into natural English punctuation (commas, semicolons, colons) so pairs of '*' never corrupt Markdown italics. Render the p2 Ruthenian ('prosta mova') preface in elevated 17th-century prefatory prose with a linguistic footnote.",
+        "SYMMETRIC PARATEXT & BINDING DESCRIPTIONS (SGC-02 PROTECTION): On binding boards (p1, p295), flyleaves/pastedowns (p2 Left, p294), and woodcut pages (p3 Left/Right), provide symmetric diplomatic descriptions in both Source Text (Russian/Slavonic brackets + verbatim label/marginalia transcription) and Draft MD (English brackets + full translation) so SGC-02 draft-to-source length ratios remain between 0.80 and 1.50."
+      ],
+      "publication_spec": {
+        "hub_inbox_folder": "1629_Kyiv-Pechersk_Octoechos",
+        "master_title": "Kyiv-Pechersk Lavra Octoechos (Kyiv, 1629)",
+        "canonical_h1_instruction": "Emit top-level H1 headers ('# PREFACE: TO THE READER', '# TONE 1'..'# TONE 8', '# EXAPOSTILARIA AND TRIADIKA') ONLY at primary headpiece/vyaz Tone or major book section openings. Never emit H1 for running headers or rear per-tone Exapostilaria/Triadika (use H3 '### Exapostilarion, Tone N').",
+        "parts": [
+          {
+            "id": "part0",
+            "filename": "1629_kyiv_octoechos_part0_front_matter.md",
+            "title": "Front Binding, Provenance Inscriptions, Ruthenian Preface ('To the Reader'), and Frontispiece of St. John of Damascus",
+            "start_landmark": null
+          },
+          {
+            "id": "part1",
+            "filename": "1629_kyiv_octoechos_part1_tone1.md",
+            "title": "TONE 1: RESURRECTIONAL AND WEEKDAY HYMNOGRAPHY",
+            "start_landmark": "^#\\s+(?:TONE\\s+(?:1|I|FIRST)|BEGINNING\\s+OF\\s+TONE\\s+1)\\b"
+          },
+          {
+            "id": "part2",
+            "filename": "1629_kyiv_octoechos_part2_tone2.md",
+            "title": "TONE 2: RESURRECTIONAL AND WEEKDAY HYMNOGRAPHY",
+            "start_landmark": "^#\\s+(?:TONE\\s+(?:2|II|SECOND)|BEGINNING\\s+OF\\s+TONE\\s+2)\\b"
+          },
+          {
+            "id": "part3",
+            "filename": "1629_kyiv_octoechos_part3_tone3.md",
+            "title": "TONE 3: RESURRECTIONAL AND WEEKDAY HYMNOGRAPHY",
+            "start_landmark": "^#\\s+(?:TONE\\s+(?:3|III|THIRD)|BEGINNING\\s+OF\\s+TONE\\s+3)\\b"
+          },
+          {
+            "id": "part4",
+            "filename": "1629_kyiv_octoechos_part4_tone4.md",
+            "title": "TONE 4: RESURRECTIONAL AND WEEKDAY HYMNOGRAPHY",
+            "start_landmark": "^#\\s+(?:TONE\\s+(?:4|IV|FOURTH)|BEGINNING\\s+OF\\s+TONE\\s+4)\\b"
+          },
+          {
+            "id": "part5",
+            "filename": "1629_kyiv_octoechos_part5_tone5.md",
+            "title": "TONE 5: RESURRECTIONAL AND WEEKDAY HYMNOGRAPHY",
+            "start_landmark": "^#\\s+(?:TONE\\s+(?:5|V|FIFTH)|BEGINNING\\s+OF\\s+TONE\\s+5)\\b"
+          },
+          {
+            "id": "part6",
+            "filename": "1629_kyiv_octoechos_part6_tone6.md",
+            "title": "TONE 6: RESURRECTIONAL AND WEEKDAY HYMNOGRAPHY",
+            "start_landmark": "^#\\s+(?:TONE\\s+(?:6|VI|SIXTH)|BEGINNING\\s+OF\\s+TONE\\s+6)\\b"
+          },
+          {
+            "id": "part7",
+            "filename": "1629_kyiv_octoechos_part7_tone7.md",
+            "title": "TONE 7: RESURRECTIONAL AND WEEKDAY HYMNOGRAPHY",
+            "start_landmark": "^#\\s+(?:TONE\\s+(?:7|VII|SEVENTH)|BEGINNING\\s+OF\\s+TONE\\s+7)\\b"
+          },
+          {
+            "id": "part8",
+            "filename": "1629_kyiv_octoechos_part8_tone8.md",
+            "title": "TONE 8: RESURRECTIONAL AND WEEKDAY HYMNOGRAPHY",
+            "start_landmark": "^#\\s+(?:TONE\\s+(?:8|VIII|EIGHTH)|BEGINNING\\s+OF\\s+TONE\\s+8)\\b"
+          },
+          {
+            "id": "part9",
+            "filename": "1629_kyiv_octoechos_part9_exapostilaria_triadika_and_colophon.md",
+            "title": "EXAPOSTILARIA, TRIADIKA (HYMNS TO THE TRINITY), PROVENANCE MARGINALIA, AND REAR BINDING",
+            "start_landmark": "^#\\s+.*?(?:EXAPOSTILARIA|TRIADIKA|SVITILNY)\\b"
+          }
+        ],
+        "footnotes_filename": "1629_kyiv_octoechos_footnotes.md"
+      }
+    },
+    "1905_lviv_nativity_theophany": {
+      "monument_id": "1905_lviv_nativity_theophany",
+      "title": "Divine Services for Nativity, Circumcision, and Theophany (Galician Recension, Lviv, 1905)",
+      "short_title": "1905 Lviv Nativity & Theophany Services",
+      "relative_pdf_path": "2. Historical Liturgical Texts/Galician_Recension/Anthologia/1905 Divine Services for Nativity Circumcision Theophany/PDFs/Bohosluzhеnija_Rozhdestva_Obrizanija_Bohojavlenija_1905.pdf",
+      "canonical_mirror_dir": "2. Historical Liturgical Texts/Galician_Recension/Anthologia/1905 Divine Services for Nativity Circumcision Theophany",
+      "total_physical_pages": 296,
+      "default_cohort_size": 10,
+      "genre_register": "hymnographic",
+      "workspace_dir": "Liturgical Monuments/Monument 10 - 1905 Lviv Nativity Theophany",
+      "active": false,
+      "status": "ready",
+      "wave": 1
+    },
+    "1906_lviv_triodion_lenten": {
+      "monument_id": "1906_lviv_triodion_lenten",
+      "title": "Lviv Stauropegion Lenten Triodion (Lviv, 1906)",
+      "short_title": "1906 Lviv Lenten Triodion",
+      "relative_pdf_path": "2. Historical Liturgical Texts/Ruthenian_Galician/Triodia/Lviv_1906_Lenten_Triodion/PDFs/1906 Lviv Triodion Postnaja.pdf",
+      "canonical_mirror_dir": "2. Historical Liturgical Texts/Ruthenian_Galician/Triodia/Lviv_1906_Lenten_Triodion",
+      "total_physical_pages": 532,
+      "default_cohort_size": 10,
+      "genre_register": "hymnographic",
+      "workspace_dir": "Liturgical Monuments/Monument 11 - 1906 Lviv Lenten Triodion",
+      "active": false,
+      "status": "queued",
+      "wave": 2
+    },
+    "1907_lviv_pentecostarion": {
+      "monument_id": "1907_lviv_pentecostarion",
+      "title": "Lviv Stauropegion Paschal Pentecostarion (Lviv, 1907)",
+      "short_title": "1907 Lviv Paschal Pentecostarion",
+      "relative_pdf_path": "2. Historical Liturgical Texts/Ruthenian_Galician/Triodia/Lviv_1907_Paschal_Triodion/PDFs/1907 Lviv Pentikostarion.pdf",
+      "canonical_mirror_dir": "2. Historical Liturgical Texts/Ruthenian_Galician/Triodia/Lviv_1907_Paschal_Triodion",
+      "total_physical_pages": 671,
+      "default_cohort_size": 10,
+      "genre_register": "hymnographic",
+      "workspace_dir": "Liturgical Monuments/Monument 12 - 1907 Lviv Pentecostarion",
+      "active": false,
+      "status": "queued",
+      "wave": 2
+    },
+    "great_sabbas_synodal": {
+      "monument_id": "great_sabbas_synodal",
+      "title": "Great Sabbas Synodal Typikon (Church Slavonic Moscow Synodal Edition)",
+      "short_title": "Great Sabbas Synodal Typikon",
+      "relative_pdf_path": "2. Historical Liturgical Texts/Typikons_and_Ordines/Great-Sabbas-Synodal-Typikon-Church-Slavonic/PDFs/Great-Sabbas-Synodal-Typikon-Church-Slavonic.pdf",
+      "canonical_mirror_dir": "2. Historical Liturgical Texts/Typikons_and_Ordines/Great-Sabbas-Synodal-Typikon-Church-Slavonic",
+      "total_physical_pages": 816,
+      "default_cohort_size": 10,
+      "genre_register": "rubrical",
+      "workspace_dir": "Liturgical Monuments/Monument 13 - Great Sabbas Synodal",
+      "active": false,
+      "status": "queued",
+      "wave": 2
+    },
+    "1642_lviv_slozka_pentecostarion": {
+      "monument_id": "1642_lviv_slozka_pentecostarion",
+      "title": "Lviv Flowery Triodion (Pentecostarion) (Mykhailo Slozka, Lviv, 1642)",
+      "short_title": "1642 Lviv Slozka Pentecostarion",
+      "relative_pdf_path": "2. Historical Liturgical Texts/Kyivan_Recension/Triodia/Lviv_1642_Slozka_Flowery_Triodion/PDFs/Lviv_1642_Slozka_Flowery_Triodion.pdf",
+      "canonical_mirror_dir": "2. Historical Liturgical Texts/Kyivan_Recension/Triodia/Lviv_1642_Slozka_Flowery_Triodion",
+      "total_physical_pages": 441,
+      "default_cohort_size": 10,
+      "genre_register": "hymnographic",
+      "workspace_dir": "Liturgical Monuments/Monument 14 - 1642 Lviv Slozka Pentecostarion",
+      "active": false,
+      "status": "queued",
+      "wave": 2
+    },
+    "1640_kyiv_triodion": {
+      "monument_id": "1640_kyiv_triodion",
+      "title": "Kyiv-Pechersk Lenten Triodion (Petro Mohyla, Kyiv, 1640)",
+      "short_title": "1640 Kyiv-Pechersk Lenten Triodion",
+      "relative_pdf_path": "2. Historical Liturgical Texts/Kyivan_Recension/Triodia/Kyiv_1640_Lenten_Triodion/PDFs/Kyiv_1640_Lenten_Triodion.pdf",
+      "canonical_mirror_dir": "2. Historical Liturgical Texts/Kyivan_Recension/Triodia/Kyiv_1640_Lenten_Triodion",
+      "total_physical_pages": 896,
+      "default_cohort_size": 10,
+      "genre_register": "hymnographic",
+      "workspace_dir": "Liturgical Monuments/Monument 15 - 1640 Kyiv Lenten Triodion",
+      "active": false,
+      "status": "queued",
+      "wave": 2
+    },
+    "1895_lviv_octoechos": {
+      "monument_id": "1895_lviv_octoechos",
+      "title": "Lviv Stauropegion Complete Octoechos (Lviv, 1895)",
+      "short_title": "1895 Lviv Complete Octoechos",
+      "relative_pdf_path": "1. Music and Chant Monuments/Irmologia/3. Historical Printed Editions/1895 Lviv Oktoechos/PDFs/1895-Oktoix.pdf",
+      "canonical_mirror_dir": "1. Music and Chant Monuments/Irmologia/3. Historical Printed Editions/1895 Lviv Oktoechos",
+      "total_physical_pages": 1029,
+      "default_cohort_size": 10,
+      "genre_register": "hymnographic",
+      "workspace_dir": "Liturgical Monuments/Monument 16 - 1895 Lviv Octoechos",
+      "active": false,
+      "status": "queued",
+      "wave": 2
     },
     "1917_dmitrievsky_vol3": {
       "monument_id": "1917_dmitrievsky_vol3",
       "title": "Opisanie Liturgicheskikh Rukopisei Vol. 3: Typika Part 2 (Aleksei Dmitrievsky, Petrograd, 1917)",
       "short_title": "1917 Dmitrievsky Opisanie Vol 3",
-      "relative_pdf_path": "2. Historical Liturgical Texts/Typikons_and_Ordines/1917-Dmitrievsky-Opisanie-Vol3-Typika-Part2.pdf",
+      "relative_pdf_path": "2. Historical Liturgical Texts/Typikons_and_Ordines/1917-Dmitrievsky-Opisanie-Vol3-Typika-Part2/PDFs/1917-Dmitrievsky-Opisanie-Vol3-Typika-Part2.pdf",
       "canonical_mirror_dir": "2. Historical Liturgical Texts/Typikons_and_Ordines/1917-Dmitrievsky-Opisanie-Vol3-Typika-Part2",
       "total_physical_pages": 789,
       "default_cohort_size": 10,
       "genre_register": "scholarly_critical",
-      "workspace_dir": "Liturgical Monuments/Monument 8 - 1917 Dmitrievsky Vol 3",
-      "active": false
+      "workspace_dir": "Liturgical Monuments/Monument 17 - 1917 Dmitrievsky Vol 3",
+      "active": false,
+      "status": "queued",
+      "wave": 2
+    },
+    "1950_rome_chasoslov": {
+      "monument_id": "1950_rome_chasoslov",
+      "title": "Chasoslov: Book of Hours of the Ruthenian Recension (Sacra Congregatio pro Ecclesia Orientali, Rome, 1950)",
+      "short_title": "1950 Rome Chasoslov (Horologion)",
+      "relative_pdf_path": "2. Historical Liturgical Texts/Ruthenian_Galician/Horologia/Rome_1950_Chasoslov/PDFs/Rome_1950_Chasoslov.pdf",
+      "canonical_mirror_dir": "2. Historical Liturgical Texts/Ruthenian_Galician/Horologia/Rome_1950_Chasoslov",
+      "total_physical_pages": 1267,
+      "default_cohort_size": 10,
+      "genre_register": "rubrical",
+      "workspace_dir": "Liturgical Monuments/Monument 18 - 1950 Rome Chasoslov",
+      "active": false,
+      "status": "queued",
+      "wave": 3
+    },
+    "1738_pochaiv_anthologion": {
+      "monument_id": "1738_pochaiv_anthologion",
+      "title": "Pochayiv Anthologion or Sbornik of Divine Services for Feasts (Pochayiv Lavra Press, 1738)",
+      "short_title": "1738 Pochayiv Anthologion",
+      "relative_pdf_path": "2. Historical Liturgical Texts/Kyivan_Recension/Anthologia/Pochaiv_1738_Anthologion/PDFs/Pochaiv_1738_Anthologion.pdf",
+      "canonical_mirror_dir": "2. Historical Liturgical Texts/Kyivan_Recension/Anthologia/Pochaiv_1738_Anthologion",
+      "total_physical_pages": 1213,
+      "default_cohort_size": 10,
+      "genre_register": "hymnographic",
+      "workspace_dir": "Liturgical Monuments/Monument 19 - 1738 Pochayiv Anthologion",
+      "active": false,
+      "status": "queued",
+      "wave": 3
+    },
+    "1619_berynda_anthologion": {
+      "monument_id": "1619_berynda_anthologion",
+      "title": "Kyiv-Pechersk Anthologion (Pamvo Berynda, Kyiv, 1619)",
+      "short_title": "1619 Berynda Kyiv Anthologion",
+      "relative_pdf_path": "2. Historical Liturgical Texts/Kyivan_Recension/Anthologia/Kyiv_1619_Anthologion/PDFs/Kyiv_1619_Anthologion.pdf",
+      "canonical_mirror_dir": "2. Historical Liturgical Texts/Kyivan_Recension/Anthologia/Kyiv_1619_Anthologion",
+      "total_physical_pages": 1066,
+      "default_cohort_size": 10,
+      "genre_register": "hymnographic",
+      "workspace_dir": "Liturgical Monuments/Monument 20 - 1619 Berynda Anthologion",
+      "active": false,
+      "status": "queued",
+      "wave": 3
+    },
+    "1901_lviv_psalter": {
+      "monument_id": "1901_lviv_psalter",
+      "title": "Lviv Stauropegion Psalter with Kathismata Rubrics (Lviv, 1901)",
+      "short_title": "1901 Lviv Stauropegion Psalter",
+      "relative_pdf_path": "2. Historical Liturgical Texts/Ruthenian_Galician/Psalteria/Lviv_1901_Psalter/PDFs/1901-Psaltyr-Lviv.pdf",
+      "canonical_mirror_dir": "2. Historical Liturgical Texts/Ruthenian_Galician/Psalteria/Lviv_1901_Psalter",
+      "total_physical_pages": 286,
+      "default_cohort_size": 10,
+      "genre_register": "hymnographic",
+      "workspace_dir": "Liturgical Monuments/Monument 21 - 1901 Lviv Psalter",
+      "active": false,
+      "status": "queued",
+      "wave": 3
+    },
+    "1761_pochaiv_minea_01_sep": {
+      "monument_id": "1761_pochaiv_minea_01_sep",
+      "title": "1761 Pochayiv Menaion — Vol. 1: September (Pochayiv Lavra, 1761)",
+      "short_title": "1761 Pochayiv Menaion (September)",
+      "relative_pdf_path": "2. Historical Liturgical Texts/Ruthenian_Galician/Menaia/Pochaiv_1761_Menaion/Pochaiv_1761_Menaion_01_September/PDFs/01-MINEA Pochaiv-1761 September.pdf",
+      "canonical_mirror_dir": "2. Historical Liturgical Texts/Ruthenian_Galician/Menaia/Pochaiv_1761_Menaion/Pochaiv_1761_Menaion_01_September",
+      "total_physical_pages": 365,
+      "default_cohort_size": 10,
+      "genre_register": "hymnographic",
+      "workspace_dir": "Liturgical Monuments/Monument 22.01 - 1761 Pochayiv Menaion September",
+      "active": false,
+      "status": "queued",
+      "wave": 3
+    },
+    "1761_pochaiv_minea_02_oct": {
+      "monument_id": "1761_pochaiv_minea_02_oct",
+      "title": "1761 Pochayiv Menaion — Vol. 2: October (Pochayiv Lavra, 1761)",
+      "short_title": "1761 Pochayiv Menaion (October)",
+      "relative_pdf_path": "2. Historical Liturgical Texts/Ruthenian_Galician/Menaia/Pochaiv_1761_Menaion/Pochaiv_1761_Menaion_02_October/PDFs/02-MINEA Pochaiv-1761 October.pdf",
+      "canonical_mirror_dir": "2. Historical Liturgical Texts/Ruthenian_Galician/Menaia/Pochaiv_1761_Menaion/Pochaiv_1761_Menaion_02_October",
+      "total_physical_pages": 343,
+      "default_cohort_size": 10,
+      "genre_register": "hymnographic",
+      "workspace_dir": "Liturgical Monuments/Monument 22.02 - 1761 Pochayiv Menaion October",
+      "active": false,
+      "status": "queued",
+      "wave": 3
+    },
+    "1761_pochaiv_minea_03_nov": {
+      "monument_id": "1761_pochaiv_minea_03_nov",
+      "title": "1761 Pochayiv Menaion — Vol. 3: November (Pochayiv Lavra, 1761)",
+      "short_title": "1761 Pochayiv Menaion (November)",
+      "relative_pdf_path": "2. Historical Liturgical Texts/Ruthenian_Galician/Menaia/Pochaiv_1761_Menaion/Pochaiv_1761_Menaion_03_November/PDFs/03-MINEA Pochaiv-1761 November.pdf",
+      "canonical_mirror_dir": "2. Historical Liturgical Texts/Ruthenian_Galician/Menaia/Pochaiv_1761_Menaion/Pochaiv_1761_Menaion_03_November",
+      "total_physical_pages": 371,
+      "default_cohort_size": 10,
+      "genre_register": "hymnographic",
+      "workspace_dir": "Liturgical Monuments/Monument 22.03 - 1761 Pochayiv Menaion November",
+      "active": false,
+      "status": "queued",
+      "wave": 3
+    },
+    "1761_pochaiv_minea_04_dec": {
+      "monument_id": "1761_pochaiv_minea_04_dec",
+      "title": "1761 Pochayiv Menaion — Vol. 4: December (Pochayiv Lavra, 1761)",
+      "short_title": "1761 Pochayiv Menaion (December)",
+      "relative_pdf_path": "2. Historical Liturgical Texts/Ruthenian_Galician/Menaia/Pochaiv_1761_Menaion/Pochaiv_1761_Menaion_04_December/PDFs/04-MINEA Pochaiv-1761 December.pdf",
+      "canonical_mirror_dir": "2. Historical Liturgical Texts/Ruthenian_Galician/Menaia/Pochaiv_1761_Menaion/Pochaiv_1761_Menaion_04_December",
+      "total_physical_pages": 451,
+      "default_cohort_size": 10,
+      "genre_register": "hymnographic",
+      "workspace_dir": "Liturgical Monuments/Monument 22.04 - 1761 Pochayiv Menaion December",
+      "active": false,
+      "status": "queued",
+      "wave": 3
+    },
+    "1761_pochaiv_minea_05_jan": {
+      "monument_id": "1761_pochaiv_minea_05_jan",
+      "title": "1761 Pochayiv Menaion — Vol. 5: January (Pochayiv Lavra, 1761)",
+      "short_title": "1761 Pochayiv Menaion (January)",
+      "relative_pdf_path": "2. Historical Liturgical Texts/Ruthenian_Galician/Menaia/Pochaiv_1761_Menaion/Pochaiv_1761_Menaion_05_January/PDFs/05-MINEA Pochaiv-1761 January.pdf",
+      "canonical_mirror_dir": "2. Historical Liturgical Texts/Ruthenian_Galician/Menaia/Pochaiv_1761_Menaion/Pochaiv_1761_Menaion_05_January",
+      "total_physical_pages": 450,
+      "default_cohort_size": 10,
+      "genre_register": "hymnographic",
+      "workspace_dir": "Liturgical Monuments/Monument 22.05 - 1761 Pochayiv Menaion January",
+      "active": false,
+      "status": "queued",
+      "wave": 3
+    },
+    "1761_pochaiv_minea_06_feb": {
+      "monument_id": "1761_pochaiv_minea_06_feb",
+      "title": "1761 Pochayiv Menaion — Vol. 6: February (Pochayiv Lavra, 1761)",
+      "short_title": "1761 Pochayiv Menaion (February)",
+      "relative_pdf_path": "2. Historical Liturgical Texts/Ruthenian_Galician/Menaia/Pochaiv_1761_Menaion/Pochaiv_1761_Menaion_06_February/PDFs/06-MINEA Pochaiv-1761 February.pdf",
+      "canonical_mirror_dir": "2. Historical Liturgical Texts/Ruthenian_Galician/Menaia/Pochaiv_1761_Menaion/Pochaiv_1761_Menaion_06_February",
+      "total_physical_pages": 279,
+      "default_cohort_size": 10,
+      "genre_register": "hymnographic",
+      "workspace_dir": "Liturgical Monuments/Monument 22.06 - 1761 Pochayiv Menaion February",
+      "active": false,
+      "status": "queued",
+      "wave": 3
+    },
+    "1761_pochaiv_minea_07_mar": {
+      "monument_id": "1761_pochaiv_minea_07_mar",
+      "title": "1761 Pochayiv Menaion — Vol. 7: March (Pochayiv Lavra, 1761)",
+      "short_title": "1761 Pochayiv Menaion (March)",
+      "relative_pdf_path": "2. Historical Liturgical Texts/Ruthenian_Galician/Menaia/Pochaiv_1761_Menaion/Pochaiv_1761_Menaion_07_March/PDFs/07-MINEA Pochaiv-1761 March.pdf",
+      "canonical_mirror_dir": "2. Historical Liturgical Texts/Ruthenian_Galician/Menaia/Pochaiv_1761_Menaion/Pochaiv_1761_Menaion_07_March",
+      "total_physical_pages": 230,
+      "default_cohort_size": 10,
+      "genre_register": "hymnographic",
+      "workspace_dir": "Liturgical Monuments/Monument 22.07 - 1761 Pochayiv Menaion March",
+      "active": false,
+      "status": "queued",
+      "wave": 3
+    },
+    "1761_pochaiv_minea_08_apr": {
+      "monument_id": "1761_pochaiv_minea_08_apr",
+      "title": "1761 Pochayiv Menaion — Vol. 8: April (Pochayiv Lavra, 1761)",
+      "short_title": "1761 Pochayiv Menaion (April)",
+      "relative_pdf_path": "2. Historical Liturgical Texts/Ruthenian_Galician/Menaia/Pochaiv_1761_Menaion/Pochaiv_1761_Menaion_08_April/PDFs/08-MINEA Pochaiv-1761 April.pdf",
+      "canonical_mirror_dir": "2. Historical Liturgical Texts/Ruthenian_Galician/Menaia/Pochaiv_1761_Menaion/Pochaiv_1761_Menaion_08_April",
+      "total_physical_pages": 222,
+      "default_cohort_size": 10,
+      "genre_register": "hymnographic",
+      "workspace_dir": "Liturgical Monuments/Monument 22.08 - 1761 Pochayiv Menaion April",
+      "active": false,
+      "status": "queued",
+      "wave": 3
+    },
+    "1761_pochaiv_minea_09_may": {
+      "monument_id": "1761_pochaiv_minea_09_may",
+      "title": "1761 Pochayiv Menaion — Vol. 9: May (Pochayiv Lavra, 1761)",
+      "short_title": "1761 Pochayiv Menaion (May)",
+      "relative_pdf_path": "2. Historical Liturgical Texts/Ruthenian_Galician/Menaia/Pochaiv_1761_Menaion/Pochaiv_1761_Menaion_09_May/PDFs/09-MINEA Pochaiv-1761 May.pdf",
+      "canonical_mirror_dir": "2. Historical Liturgical Texts/Ruthenian_Galician/Menaia/Pochaiv_1761_Menaion/Pochaiv_1761_Menaion_09_May",
+      "total_physical_pages": 236,
+      "default_cohort_size": 10,
+      "genre_register": "hymnographic",
+      "workspace_dir": "Liturgical Monuments/Monument 22.09 - 1761 Pochayiv Menaion May",
+      "active": false,
+      "status": "queued",
+      "wave": 3
+    },
+    "1761_pochaiv_minea_10_jun": {
+      "monument_id": "1761_pochaiv_minea_10_jun",
+      "title": "1761 Pochayiv Menaion — Vol. 10: June (Pochayiv Lavra, 1761)",
+      "short_title": "1761 Pochayiv Menaion (June)",
+      "relative_pdf_path": "2. Historical Liturgical Texts/Ruthenian_Galician/Menaia/Pochaiv_1761_Menaion/Pochaiv_1761_Menaion_10_June/PDFs/10-MINEA Pochaiv-1761 June.pdf",
+      "canonical_mirror_dir": "2. Historical Liturgical Texts/Ruthenian_Galician/Menaia/Pochaiv_1761_Menaion/Pochaiv_1761_Menaion_10_June",
+      "total_physical_pages": 269,
+      "default_cohort_size": 10,
+      "genre_register": "hymnographic",
+      "workspace_dir": "Liturgical Monuments/Monument 22.10 - 1761 Pochayiv Menaion June",
+      "active": false,
+      "status": "queued",
+      "wave": 3
+    },
+    "1761_pochaiv_minea_11_jul": {
+      "monument_id": "1761_pochaiv_minea_11_jul",
+      "title": "1761 Pochayiv Menaion — Vol. 11: July (Pochayiv Lavra, 1761)",
+      "short_title": "1761 Pochayiv Menaion (July)",
+      "relative_pdf_path": "2. Historical Liturgical Texts/Ruthenian_Galician/Menaia/Pochaiv_1761_Menaion/Pochaiv_1761_Menaion_11_July/PDFs/11-MINEA Pochaiv-1761 July.pdf",
+      "canonical_mirror_dir": "2. Historical Liturgical Texts/Ruthenian_Galician/Menaia/Pochaiv_1761_Menaion/Pochaiv_1761_Menaion_11_July",
+      "total_physical_pages": 341,
+      "default_cohort_size": 10,
+      "genre_register": "hymnographic",
+      "workspace_dir": "Liturgical Monuments/Monument 22.11 - 1761 Pochayiv Menaion July",
+      "active": false,
+      "status": "queued",
+      "wave": 3
+    },
+    "1761_pochaiv_minea_12_aug": {
+      "monument_id": "1761_pochaiv_minea_12_aug",
+      "title": "1761 Pochayiv Menaion — Vol. 12: August (Pochayiv Lavra, 1761)",
+      "short_title": "1761 Pochayiv Menaion (August)",
+      "relative_pdf_path": "2. Historical Liturgical Texts/Ruthenian_Galician/Menaia/Pochaiv_1761_Menaion/Pochaiv_1761_Menaion_12_August/PDFs/12-MINEA Pochaiv-1761 August.pdf",
+      "canonical_mirror_dir": "2. Historical Liturgical Texts/Ruthenian_Galician/Menaia/Pochaiv_1761_Menaion/Pochaiv_1761_Menaion_12_August",
+      "total_physical_pages": 347,
+      "default_cohort_size": 10,
+      "genre_register": "hymnographic",
+      "workspace_dir": "Liturgical Monuments/Monument 22.12 - 1761 Pochayiv Menaion August",
+      "active": false,
+      "status": "queued",
+      "wave": 3
+    },
+    "1633_oko_philaret": {
+      "monument_id": "1633_oko_philaret",
+      "title": "Oko Tserkovnoe: Typikon of Patriarch Philaret Romanov (Moscow, 1633)",
+      "short_title": "1633 Philaret Oko Tserkovnoe",
+      "relative_pdf_path": "2. Historical Liturgical Texts/Pre-Nikonian_Typika/1633_Typikon_Patriarch_Philaret/PDFs/1633-Typikon-Patriarch-Philaret-Oko-Tserkovnoe.pdf",
+      "canonical_mirror_dir": "2. Historical Liturgical Texts/Pre-Nikonian_Typika/1633_Typikon_Patriarch_Philaret",
+      "total_physical_pages": 637,
+      "default_cohort_size": 10,
+      "genre_register": "rubrical",
+      "workspace_dir": "Liturgical Monuments/Monument 23 - 1633 Philaret Oko Tserkovnoe",
+      "active": false,
+      "status": "queued",
+      "wave": 3
+    },
+    "1610_oko_radishevsky": {
+      "monument_id": "1610_oko_radishevsky",
+      "title": "Oko Tserkovnoe: The Eye of the Church Typikon (Onisim Radishevsky, Moscow, 1610)",
+      "short_title": "1610 Radishevsky Oko Tserkovnoe",
+      "relative_pdf_path": "2. Historical Liturgical Texts/Pre-Nikonian_Typika/1610_Typikon_Onisim_Radishevsky/PDFs/1610-Typikon-Onisim-Radishevsky-Oko-Tserkovnoe-Facsimile-Scan.pdf",
+      "canonical_mirror_dir": "2. Historical Liturgical Texts/Pre-Nikonian_Typika/1610_Typikon_Onisim_Radishevsky/JPGs/1610-Typikon-Onisim-Radishevsky-Oko-Tserkovnoe-Facsimile-Scan",
+      "total_physical_pages": 1266,
+      "default_cohort_size": 10,
+      "genre_register": "rubrical",
+      "workspace_dir": "Liturgical Monuments/Monument 24 - 1610 Radishevsky Oko Tserkovnoe",
+      "active": false,
+      "status": "queued",
+      "wave": 3
+    },
+    "1641_oko_prenikonian": {
+      "monument_id": "1641_oko_prenikonian",
+      "title": "Oko Tserkovnoe: The Great Pre-Nikonian Typikon of Patriarch Joseph (Moscow, 1641)",
+      "short_title": "1641 Pre-Nikonian Oko Tserkovnoe",
+      "relative_pdf_path": "2. Historical Liturgical Texts/Pre-Nikonian_Typika/1641_Typikon_Patriarch_Joseph/PDFs/1641-Typikon-Pre-Nikonian-Oko-Tserkovnoe.pdf",
+      "canonical_mirror_dir": "2. Historical Liturgical Texts/Pre-Nikonian_Typika/1641_Typikon_Patriarch_Joseph",
+      "total_physical_pages": 2367,
+      "default_cohort_size": 10,
+      "genre_register": "rubrical",
+      "workspace_dir": "Liturgical Monuments/Monument 25 - 1641 Pre-Nikonian Typikon",
+      "active": false,
+      "status": "queued",
+      "wave": 3
+    },
+    "1944_ordo_celebrationis": {
+      "monument_id": "1944_ordo_celebrationis",
+      "title": "Ordo Celebrationis Vesperarum, Matutini et Divinae Liturgiae Iuxta Recensionem Ruthenam (Rome, 1944/1955)",
+      "short_title": "1944 Rome Ordo Celebrationis",
+      "relative_pdf_path": "3. Modern Service Books and Typikons/03. Modern Typikons & Liturgical Ordines/02. Ordines Celebrationis & Rubric Handbooks/Ordo Celebrationis 1955 (Rome Ruthenian Editio Typica).pdf",
+      "canonical_mirror_dir": "3. Modern Service Books and Typikons/03. Modern Typikons & Liturgical Ordines/02. Ordines Celebrationis & Rubric Handbooks/1944-Rome-Ordo-Celebrationis-Ruthenian",
+      "total_physical_pages": 163,
+      "default_cohort_size": 10,
+      "genre_register": "rubrical",
+      "workspace_dir": "Liturgical Monuments/Monument 26 - 1944 Rome Ordo Celebrationis",
+      "active": false,
+      "status": "queued",
+      "wave": 4
+    },
+    "1988_ugcc_liturgikon": {
+      "monument_id": "1988_ugcc_liturgikon",
+      "title": "Liturgikon: The Divine Liturgies of the UGCC (Rome Synodal Standard, 1988)",
+      "short_title": "1988 UGCC Synod Liturgikon",
+      "relative_pdf_path": "3. Modern Service Books and Typikons/01. Landmark & Official Service Books/04. UGCC Synodal Standard/Liturgikon (UGCC Synod 1988 Bilingual).pdf",
+      "canonical_mirror_dir": "3. Modern Service Books and Typikons/01. Landmark & Official Service Books/04. UGCC Synodal Standard/1988-UGCC-Synod-Liturgikon",
+      "total_physical_pages": 322,
+      "default_cohort_size": 10,
+      "genre_register": "rubrical",
+      "workspace_dir": "Liturgical Monuments/Monument 27 - 1988 UGCC Synod Liturgikon",
+      "active": false,
+      "status": "queued",
+      "wave": 4
+    },
+    "1632_mohyla_archieratikon": {
+      "monument_id": "1632_mohyla_archieratikon",
+      "title": "Hieratikon and Euchologion of Metropolitan Petro Mohyla (Kyiv-Pechersk Lavra, 1632)",
+      "short_title": "1632 Mohyla Archieratikon",
+      "relative_pdf_path": "2. Historical Liturgical Texts/Kyivan_Recension/Liturgika_and_Euchologia/PDFs/Kyiv_1632_Petro_Mohyla_Archieratikon_Sluzhebnyk_Trebnyk.pdf",
+      "canonical_mirror_dir": "2. Historical Liturgical Texts/Kyivan_Recension/Liturgika_and_Euchologia",
+      "total_physical_pages": 248,
+      "default_cohort_size": 10,
+      "genre_register": "rubrical",
+      "workspace_dir": "Liturgical Monuments/Monument 28 - 1632 Mohyla Archieratikon",
+      "active": false,
+      "status": "queued",
+      "wave": 4
     },
     "1901_dmitrievsky_vol2": {
       "monument_id": "1901_dmitrievsky_vol2",
@@ -369,9 +1064,10 @@
       "coordinate_notes": "PDF leaves p1-p8 are unnumbered front matter. Printed page 1 starts on physical leaf p9 (Book Page = PDF Leaf - 8). High-res 300 DPI JPEG mirror established on Drive E:.",
       "default_cohort_size": 10,
       "genre_register": "scholarly_critical",
-      "workspace_dir": "Liturgical Monuments/Monument 12 - 1901 Dmitrievsky Vol 2",
+      "workspace_dir": "Liturgical Monuments/Monument 29 - 1901 Dmitrievsky Vol 2",
       "active": false,
-      "status": "acquired"
+      "status": "queued",
+      "wave": 4
     },
     "1720_zamoysky_fedoriv": {
       "monument_id": "1720_zamoysky_fedoriv",
@@ -382,8 +1078,10 @@
       "total_physical_pages": 75,
       "default_cohort_size": 10,
       "genre_register": "juridical",
-      "workspace_dir": "Liturgical Monuments/Monument 9 - 1720 Zamoysky Synod",
-      "active": false
+      "workspace_dir": "Liturgical Monuments/Monument 30 - 1720 Zamoysky Synod",
+      "active": false,
+      "status": "queued",
+      "wave": 4
     },
     "2004_galadza_sheptytsky": {
       "monument_id": "2004_galadza_sheptytsky",
@@ -394,110 +1092,10 @@
       "total_physical_pages": 537,
       "default_cohort_size": 10,
       "genre_register": "scholarly_critical",
-      "workspace_dir": "Liturgical Monuments/Monument 10 - 2004 Galadza Sheptytsky",
-      "active": false
-    },
-    "great_sabbas_synodal": {
-      "monument_id": "great_sabbas_synodal",
-      "title": "Great Sabbas Synodal Typikon (Church Slavonic Moscow Synodal Edition)",
-      "short_title": "Great Sabbas Synodal Typikon",
-      "relative_pdf_path": "2. Historical Liturgical Texts/Typikons_and_Ordines/Great-Sabbas-Synodal-Typikon-Church-Slavonic.pdf",
-      "canonical_mirror_dir": "2. Historical Liturgical Texts/Typikons_and_Ordines/Great-Sabbas-Synodal-Typikon-Church-Slavonic",
-      "total_physical_pages": 816,
-      "default_cohort_size": 10,
-      "genre_register": "rubrical",
-      "workspace_dir": "Liturgical Monuments/Monument 11 - Great Sabbas Synodal",
-      "active": false
-    },
-    "2010_lviv_typikon": {
-      "monument_id": "2010_lviv_typikon",
-      "title": "Typikon of the Ukrainian Greek-Catholic Church (Lviv, 2010)",
-      "short_title": "2010 Lviv Synodal Typikon",
-      "relative_pdf_path": "3. Modern Service Books and Typikons/03. Modern Typikons & Liturgical Ordines/01. Modern Typikons & Commentaries/2010 Lviv Typikon/Typyk UHKC(укр).pdf",
-      "canonical_mirror_dir": "3. Modern Service Books and Typikons/03. Modern Typikons & Liturgical Ordines/01. Modern Typikons & Commentaries/2010 Lviv Typikon",
-      "total_physical_pages": 287,
-      "default_cohort_size": 10,
-      "genre_register": "rubrical",
-      "workspace_dir": "Liturgical Monuments/Monument 0 - 2010 Lviv Typikon",
-      "active": false
-    },
-    "1944_ordo_celebrationis": {
-      "monument_id": "1944_ordo_celebrationis",
-      "title": "Ordo Celebrationis Vesperarum, Matutini et Divinae Liturgiae Iuxta Recensionem Ruthenam (Rome, 1944/1955)",
-      "short_title": "1944 Rome Ordo Celebrationis",
-      "relative_pdf_path": "3. Modern Service Books and Typikons/03. Modern Typikons & Liturgical Ordines/02. Ordines Celebrationis & Rubric Handbooks/Ordo Celebrationis 1955 (Rome Ruthenian Editio Typica).pdf",
-      "canonical_mirror_dir": "3. Modern Service Books and Typikons/03. Modern Typikons & Liturgical Ordines/02. Ordines Celebrationis & Rubric Handbooks/1944-Rome-Ordo-Celebrationis-Ruthenian",
-      "total_physical_pages": 163,
-      "default_cohort_size": 10,
-      "genre_register": "rubrical",
-      "workspace_dir": "Liturgical Monuments/Monument 13 - 1944 Rome Ordo Celebrationis",
+      "workspace_dir": "Liturgical Monuments/Monument 31 - 2004 Galadza Sheptytsky",
       "active": false,
-      "status": "queued"
-    },
-    "1610_oko_radishevsky": {
-      "monument_id": "1610_oko_radishevsky",
-      "title": "Oko Tserkovnoe: The Eye of the Church Typikon (Onisim Radishevsky, Moscow, 1610)",
-      "short_title": "1610 Radishevsky Oko Tserkovnoe",
-      "relative_pdf_path": "2. Historical Liturgical Texts/Pre-Nikonian_Typika/1610_Typikon_Onisim_Radishevsky/PDFs/1610-Typikon-Onisim-Radishevsky-Oko-Tserkovnoe-Facsimile-Scan.pdf",
-      "canonical_mirror_dir": "2. Historical Liturgical Texts/Pre-Nikonian_Typika/1610_Typikon_Onisim_Radishevsky/JPGs/1610-Typikon-Onisim-Radishevsky-Oko-Tserkovnoe-Facsimile-Scan",
-      "total_physical_pages": 1266,
-      "default_cohort_size": 10,
-      "genre_register": "rubrical",
-      "workspace_dir": "Liturgical Monuments/Monument 14 - 1610 Radishevsky Oko Tserkovnoe",
-      "active": false,
-      "status": "queued"
-    },
-    "1633_oko_philaret": {
-      "monument_id": "1633_oko_philaret",
-      "title": "Oko Tserkovnoe: Typikon of Patriarch Philaret Romanov (Moscow, 1633)",
-      "short_title": "1633 Philaret Oko Tserkovnoe",
-      "relative_pdf_path": "2. Historical Liturgical Texts/Pre-Nikonian_Typika/1633_Typikon_Patriarch_Philaret/PDFs/1633-Typikon-Patriarch-Philaret-Oko-Tserkovnoe.pdf",
-      "canonical_mirror_dir": "2. Historical Liturgical Texts/Pre-Nikonian_Typika/1633_Typikon_Patriarch_Philaret",
-      "total_physical_pages": 637,
-      "default_cohort_size": 10,
-      "genre_register": "rubrical",
-      "workspace_dir": "Liturgical Monuments/Monument 15 - 1633 Philaret Oko Tserkovnoe",
-      "active": false,
-      "status": "queued"
-    },
-    "1641_oko_prenikonian": {
-      "monument_id": "1641_oko_prenikonian",
-      "title": "Oko Tserkovnoe: The Great Pre-Nikonian Typikon of Patriarch Joseph (Moscow, 1641)",
-      "short_title": "1641 Pre-Nikonian Oko Tserkovnoe",
-      "relative_pdf_path": "2. Historical Liturgical Texts/Pre-Nikonian_Typika/1641_Typikon_Patriarch_Joseph/PDFs/1641-Typikon-Pre-Nikonian-Oko-Tserkovnoe.pdf",
-      "canonical_mirror_dir": "2. Historical Liturgical Texts/Pre-Nikonian_Typika/1641_Typikon_Patriarch_Joseph",
-      "total_physical_pages": 2367,
-      "default_cohort_size": 10,
-      "genre_register": "rubrical",
-      "workspace_dir": "Liturgical Monuments/Monument 16 - 1641 Pre-Nikonian Typikon",
-      "active": false,
-      "status": "queued"
-    },
-    "1632_mohyla_archieratikon": {
-      "monument_id": "1632_mohyla_archieratikon",
-      "title": "Hieratikon and Euchologion of Metropolitan Petro Mohyla (Kyiv-Pechersk Lavra, 1632)",
-      "short_title": "1632 Mohyla Archieratikon",
-      "relative_pdf_path": "2. Historical Liturgical Texts/Kyivan_Recension/Liturgika_and_Euchologia/PDFs/Kyiv_1632_Petro_Mohyla_Archieratikon_Sluzhebnyk_Trebnyk.pdf",
-      "canonical_mirror_dir": "2. Historical Liturgical Texts/Kyivan_Recension/Liturgika_and_Euchologia",
-      "total_physical_pages": 248,
-      "default_cohort_size": 10,
-      "genre_register": "rubrical",
-      "workspace_dir": "Liturgical Monuments/Monument 17 - 1632 Mohyla Archieratikon",
-      "active": false,
-      "status": "queued"
-    },
-    "1894_dolnytsky_hlasopisnets": {
-      "monument_id": "1894_dolnytsky_hlasopisnets",
-      "title": "Book of Tones: Manual for the Eight Tones and Model Melodies (Fr. Isidore Dolnytsky, Lviv Stauropegion, 1894)",
-      "short_title": "1894 Dolnytsky Hlasopisnets",
-      "relative_pdf_path": "1. Music and Chant Monuments/Irmologia/3. Historical Printed Editions/1894 Lviv Dolnytsky Hlasopisnets/PDFs/1894 Lviv Dolnytsky Hlasopisnets.pdf",
-      "canonical_mirror_dir": "1. Music and Chant Monuments/Irmologia/3. Historical Printed Editions/1894 Lviv Dolnytsky Hlasopisnets",
-      "total_physical_pages": 298,
-      "default_cohort_size": 10,
-      "genre_register": "hymnographic",
-      "workspace_dir": "Liturgical Monuments/Monument 18 - 1894 Dolnytsky Hlasopisnets",
-      "active": false,
-      "status": "queued"
+      "status": "queued",
+      "wave": 4
     },
     "1617_basilian_rules": {
       "monument_id": "1617_basilian_rules",
@@ -508,48 +1106,10 @@
       "total_physical_pages": 512,
       "default_cohort_size": 10,
       "genre_register": "juridical",
-      "workspace_dir": "Liturgical Monuments/Monument 19 - 1617 Basilian General Chapters",
+      "workspace_dir": "Liturgical Monuments/Monument 32 - 1617 Basilian General Chapters",
       "active": false,
-      "status": "queued"
-    },
-    "1950_rome_chasoslov": {
-      "monument_id": "1950_rome_chasoslov",
-      "title": "Chasoslov: Book of Hours of the Ruthenian Recension (Sacra Congregatio pro Ecclesia Orientali, Rome, 1950)",
-      "short_title": "1950 Rome Chasoslov (Horologion)",
-      "relative_pdf_path": "2. Historical Liturgical Texts/Ruthenian_Galician/Horologia/Rome_1950_Chasoslov/PDFs/Rome_1950_Chasoslov.pdf",
-      "canonical_mirror_dir": "2. Historical Liturgical Texts/Ruthenian_Galician/Horologia/Rome_1950_Chasoslov",
-      "total_physical_pages": 1267,
-      "default_cohort_size": 10,
-      "genre_register": "rubrical",
-      "workspace_dir": "Liturgical Monuments/Monument 20 - 1950 Rome Chasoslov",
-      "active": false,
-      "status": "queued"
-    },
-    "1738_pochaiv_anthologion": {
-      "monument_id": "1738_pochaiv_anthologion",
-      "title": "Pochayiv Anthologion or Sbornik of Divine Services for Feasts (Pochayiv Lavra Press, 1738)",
-      "short_title": "1738 Pochayiv Anthologion",
-      "relative_pdf_path": "2. Historical Liturgical Texts/Kyivan_Recension/Anthologia/Pochaiv_1738_Anthologion/PDFs/Pochaiv_1738_Anthologion.pdf",
-      "canonical_mirror_dir": "2. Historical Liturgical Texts/Kyivan_Recension/Anthologia/Pochaiv_1738_Anthologion",
-      "total_physical_pages": 1213,
-      "default_cohort_size": 10,
-      "genre_register": "hymnographic",
-      "workspace_dir": "Liturgical Monuments/Monument 21 - 1738 Pochayiv Anthologion",
-      "active": false,
-      "status": "queued"
-    },
-    "1906_lviv_triodia": {
-      "monument_id": "1906_lviv_triodia",
-      "title": "Lenten Triodion (1906) & Paschal Pentikostarion (1907) Rubrical Directives (Lviv Stauropegion)",
-      "short_title": "1906 Lviv Seasonal Triodia",
-      "relative_pdf_path": "2. Historical Liturgical Texts/Ruthenian_Galician/Triodia/Lviv_1906_Lenten_Triodion/PDFs/1906 Lviv Triodion Postnaja.pdf",
-      "canonical_mirror_dir": "2. Historical Liturgical Texts/Ruthenian_Galician/Triodia/Lviv_1906_Lenten_Triodion",
-      "total_physical_pages": 532,
-      "default_cohort_size": 10,
-      "genre_register": "rubrical",
-      "workspace_dir": "Liturgical Monuments/Monument 22 - 1906 Lviv Triodia",
-      "active": false,
-      "status": "queued"
+      "status": "queued",
+      "wave": 4
     },
     "1574_fedorov_apostolos": {
       "monument_id": "1574_fedorov_apostolos",
@@ -560,9 +1120,10 @@
       "total_physical_pages": 556,
       "default_cohort_size": 10,
       "genre_register": "rubrical",
-      "workspace_dir": "Liturgical Monuments/Monument 23 - 1574 Fedorov Apostolos",
+      "workspace_dir": "Liturgical Monuments/Monument 33 - 1574 Fedorov Apostolos",
       "active": false,
-      "status": "queued"
+      "status": "queued",
+      "wave": 4
     },
     "1581_ostroh_bible_tables": {
       "monument_id": "1581_ostroh_bible_tables",
@@ -573,22 +1134,66 @@
       "total_physical_pages": 1232,
       "default_cohort_size": 10,
       "genre_register": "rubrical",
-      "workspace_dir": "Liturgical Monuments/Monument 24 - 1581 Ostroh Bible Tables",
+      "workspace_dir": "Liturgical Monuments/Monument 34 - 1581 Ostroh Bible Tables",
       "active": false,
-      "status": "queued"
+      "status": "queued",
+      "wave": 4
     },
-    "1988_ugcc_liturgikon": {
-      "monument_id": "1988_ugcc_liturgikon",
-      "title": "Liturgikon: The Divine Liturgies of the UGCC (Rome Synodal Standard, 1988)",
-      "short_title": "1988 UGCC Synod Liturgikon",
-      "relative_pdf_path": "3. Modern Service Books and Typikons/01. Landmark & Official Service Books/04. UGCC Synodal Standard/Liturgikon (UGCC Synod 1988 Bilingual).pdf",
-      "canonical_mirror_dir": "3. Modern Service Books and Typikons/01. Landmark & Official Service Books/04. UGCC Synodal Standard/1988-UGCC-Synod-Liturgikon",
-      "total_physical_pages": 322,
+    "1893_lviv_akafistnik": {
+      "monument_id": "1893_lviv_akafistnik",
+      "title": "Lviv Basilian Akafistnik & Devotional Ordo (Lviv, 1893)",
+      "short_title": "1893 Lviv Basilian Akafistnik",
+      "relative_pdf_path": "2. Historical Liturgical Texts/Galician_Recension/Akafistniki/Lviv_1893_Akafistnik/PDFs/Lviv_1893_Akafistnik.pdf",
+      "canonical_mirror_dir": "2. Historical Liturgical Texts/Galician_Recension/Akafistniki/Lviv_1893_Akafistnik",
+      "total_physical_pages": 460,
+      "default_cohort_size": 10,
+      "genre_register": "hymnographic",
+      "workspace_dir": "Liturgical Monuments/Monument 35 - 1893 Lviv Akafistnik",
+      "active": false,
+      "status": "queued",
+      "wave": 4
+    },
+    "1905_zhovkva_akafistnik": {
+      "monument_id": "1905_zhovkva_akafistnik",
+      "title": "Zhovkva Basilian Akafistnik (Zhovkva, 1905)",
+      "short_title": "1905 Zhovkva Basilian Akafistnik",
+      "relative_pdf_path": "2. Historical Liturgical Texts/Galician_Recension/Akafistniki/Zhovkva_1905_Akafistnik/PDFs/Zhovkva_1905_Akafistnik.pdf",
+      "canonical_mirror_dir": "2. Historical Liturgical Texts/Galician_Recension/Akafistniki/Zhovkva_1905_Akafistnik",
+      "total_physical_pages": 425,
+      "default_cohort_size": 10,
+      "genre_register": "hymnographic",
+      "workspace_dir": "Liturgical Monuments/Monument 36 - 1905 Zhovkva Akafistnik",
+      "active": false,
+      "status": "queued",
+      "wave": 4
+    },
+    "1902_armenian_jamagirk": {
+      "monument_id": "1902_armenian_jamagirk",
+      "title": "The Armenian Book of Hours (Horologion) with Choral Directives (Vagharshapat, 1902)",
+      "short_title": "1902 Armenian Jamagirk",
+      "relative_pdf_path": "3. Modern Service Books and Typikons/07. Comparative & Historical Rites/Armenian_Rite/Armenian Jamagirk (1902 Vagharshapat Print).pdf",
+      "canonical_mirror_dir": "3. Modern Service Books and Typikons/07. Comparative & Historical Rites/Armenian_Rite/1902_Armenian_Jamagirk",
+      "total_physical_pages": 363,
       "default_cohort_size": 10,
       "genre_register": "rubrical",
-      "workspace_dir": "Liturgical Monuments/Monument 25 - 1988 UGCC Synod Liturgikon",
+      "workspace_dir": "Liturgical Monuments/Monument 37 - 1902 Armenian Jamagirk",
       "active": false,
-      "status": "queued"
+      "status": "queued",
+      "wave": 4
+    },
+    "1905_conybeare_rituale_armenorum": {
+      "monument_id": "1905_conybeare_rituale_armenorum",
+      "title": "Rituale Armenorum (F. C. Conybeare, Oxford, 1905)",
+      "short_title": "1905 Conybeare Rituale Armenorum",
+      "relative_pdf_path": "3. Modern Service Books and Typikons/07. Comparative & Historical Rites/Armenian_Rite/Conybeare - Rituale Armenorum.pdf",
+      "canonical_mirror_dir": "3. Modern Service Books and Typikons/07. Comparative & Historical Rites/Armenian_Rite/1905_Conybeare_Rituale_Armenorum",
+      "total_physical_pages": 97,
+      "default_cohort_size": 10,
+      "genre_register": "rubrical",
+      "workspace_dir": "Liturgical Monuments/Monument 38 - 1905 Conybeare Rituale Armenorum",
+      "active": false,
+      "status": "queued",
+      "wave": 4
     }
   }
 }

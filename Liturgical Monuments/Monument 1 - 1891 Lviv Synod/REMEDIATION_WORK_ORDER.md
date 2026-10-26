@@ -23,7 +23,7 @@ During the initial translation of Monument 1, an unmapped gap occurred due to co
 
 ## 2. Inviolable Liturgical Translation Standards (MTS-1)
 * **Governing Register**: **JURIDICAL** (Prescriptive statutory verbs: *"The parish priest shall be bound under pain of..."*).
-* **Native Vision Mandate**: Inspect high-resolution 300 DPI images directly in `Typikons/1891 Lviv Synod/Source Text/images/` (`p241.png` through `p244.png` and `p275.png` through `p278.png`).
+* **Native Vision Mandate**: Inspect high-resolution 300 DPI images directly in `Typikons/1891 Lviv Synod/Source Text/images/` (`Page_0241.jpg` through `Page_0244.jpg` and `Page_0275.jpg` through `Page_0278.jpg`).
 * **Canonical Realia**: Use canonical loanwords (`Tetrapod`, `Klepalo`, `Aer`, `Sluzhebnik`, `Trebnik`, `Kryloshany`, `Basilian`, `Archimandrite`, `Protohegumen`, `Hegumen`).
 * **Pronouns & Doxology**:
   - 100% capitalization on Trinity Deity pronouns (*He, Him, His, Thou, Thee, Thy, Thine*). Clergy, monks, and human actors remain lowercase.
@@ -36,7 +36,7 @@ During the initial translation of Monument 1, an unmapped gap occurred due to co
 
 ### Step 1: Transcribe and Translate Leaves p241–p244
 1. **Source Transcriptions**:
-   - Inspect `Source Text/images/p241.png` through `p244.png`.
+   - Inspect `Source Text/images/Page_0241.jpg` through `Page_0244.jpg`.
    - Write Church Slavonic / Ruthenian transcription into `Source Text/1891_synod_remediation_core_source.txt`.
 2. **English Translation**:
    - Write translated markdown into `Draft/1891_synod_remediation_core_draft.md`.
@@ -48,7 +48,7 @@ During the initial translation of Monument 1, an unmapped gap occurred due to co
    - Any scholarly footnotes must be documented in `Draft/1891_synod_remediation_footnotes.txt`.
 
 ### Step 2: Transcribe and Translate Leaves p275–p278
-1. Inspect `Source Text/images/p275.png` through `p278.png`.
+1. Inspect `Source Text/images/Page_0275.jpg` through `Page_0278.jpg`.
 2. Translate the official Synodal Errata (*Похибки друкарски*) into `Draft/1891_synod_remediation_errata_draft.md`.
 3. Format each erratum with the cited page, original reading, and corrected reading.
 

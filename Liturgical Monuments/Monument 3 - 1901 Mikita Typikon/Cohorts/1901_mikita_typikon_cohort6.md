@@ -1,4 +1,4 @@
-<!-- LEAF: p51 -->
+=== LEAF p51 ===
 
 non.[^36] (δ) The exaposteilarion sung after the 9th ode. (ε) Two stichera at the Praises and at “Glory.” For weekday services it hath: (α) At Vespers three stichera and two readings, and stichera at the aposticha. (β) Small Matins with three sessional hymns and with three odes of the canon. (γ) The Triadicon exaposteilarion with “Glory,” which is read only after the 9th ode. (δ) At the end it hath a small Typikon. It must be noted that this book in the Greek-Ruthenian Church is also called the “Lenten Triodion.”
 
@@ -8,13 +8,13 @@ Note: It is necessary to note that because in Galicia the services of Passion We
 
 5. The Octoechos (in Greek: *Octoechos* [Ὀκτώηχος], from the words: *octo* [ὀκτώ] and *echos* [ἦχος] = *octo* et *sonus* [eight and tone/sound]). It beginneth on the Sunday of All Saints in the evening and is used alone until the Sunday of the Publican and the Pharisee, and together with the Triodion until Lazarus Saturday. It containeth in itself: Sunday and weekday services according to the 8 tones, and that in each tone: (α) The Sunday service, namely: stichera of Small and Great Vespers, both at “Lord, I have cried” and at the aposticha; furthermore, the Theotokion canon of Compline, the Trinity canon of the Midnight Office, sessional hymns, the hypakoe, the morning graduals [stepenny], a threefold Matins canon: of the Resurrection, Cross-Resurrection, and Theotokion, Sunday stichera at the Praises, and the Beatitudes at the Liturgy; (β) The Monday service: Vespers with stichera, the Theotokion canon of Compline, Matins with 3 sessional hymns and with
 
-<!-- LEAF: p52 -->
+=== LEAF p52 ===
 
 two canons, namely: of Repentance and to the Angels, stichera at the aposticha, and the Beatitudes; (γ) The Tuesday service: It containeth in itself the stichera of Vespers, the Theotokion canon of Compline, and Matins with sessional hymns and with two canons, namely: of Repentance and to the Forerunner; (δ) The Wednesday service: It containeth in itself: evening stichera, the Theotokion canon of Compline, and Matins with sessional hymns and with two canons, namely: of the Theotokos and of the Cross; (ε) The Thursday service: It containeth in itself: evening stichera, the Theotokion canon of Compline, and Matins with sessional hymns and with two canons: to the Holy Apostles and to St. Nicholas; (ϛ) The Friday service, that is, stichera of the Cross and Stavrotheotokia at Vespers, the canon of the Theotokos at Compline, at Matins after the sessional hymns the canon: of the Cross and of the Theotokos; (η) The Saturday service: It containeth in itself: evening stichera, the Theotokion canon of Compline, and Matins with sessional hymns and with two canons: to All Saints and for the Departed. At the Praises (which the other days do not have) martyr stichera, and at the aposticha stichera for the departed. Besides these, there are found here: (ϑ) The Triadica of Gregory of Sinai used on Sunday at the Midnight Office after the Theotokion canon; (ι) Troparia after the Evlogitaria [Amomos / Psalm 118]: “The angelic council,” etc.; (κ) The 11 Matins Gospels with 11 Sunday exaposteilaria and with 11 Gospel stichera; (λ) Daily exaposteilaria sung throughout the entire week, and daily Triadica for the Holy Forty Days; (μ) A small Typikon on how the Octoechos must be used with the Menaion.
 
 6. The Heirmologion [Chant-Book] (in Greek: *Heirmologion* [Ἑιρμολόγιον], from the word: *heirmon* [εἱρμὸν] = *melodia vel series* [melody or chain/series]). It is so called because it containeth in musical notes various church chants, especially from the Octoechos, but besides this also taken from the Menaion, from the Triodion, and from other books, which in church must be sung and not read, and according to which many other hymns are also sung. It is likewise for the most part an abridged Octoechos, but since it also hath hymns taken from other books which are set here to musical notes, therefore in this sense it is an excerpt from all the principal books. Most particularly it containeth in itself: The Heirmologisation of the Octoechos, which is divided according to the 8 tones, that is, melodies. In each tone there is set in notes: (α) How the stichera at “Lord, I have cried” are to be sung with the dogmatica and with the doxastica [slavy]; (β) Sunday Troparia with sessional hymns and graduals [stepenny]; (γ) Heirmoi of the canon with exaposteilaria; (δ) Then model hymns [prosomoia] and Bulgarian chants, etc. — With each tone there are also stichera of the great feasts
 
-<!-- LEAF: p53 -->
+=== LEAF p53 ===
 
 which at Great Vespers are sung in place of Sunday dogmatica. After the eighth tone there are various hymns and chants taken from other books, such as: the Polyeleos [*Mnohomylostyven*], Exaltations [Velichaniya], the hymn “We who the Cherubim” [Cherubic Hymn], “All of creation rejoiceth in thee,” chants of the Liturgy of the Presanctified, and the thanksgiving hymn of St. Ambrose: “We praise Thee, O God” [*Te Deum*].
 
@@ -22,7 +22,7 @@ which at Great Vespers are sung in place of Sunday dogmatica. After the eighth t
 
 8. The Anthologion (in Greek: *Anthologion* [᾿Ανθολόγιον], from the word: *anthos* [ἄνθος] = *flos*, flower; or: *Tryphologion* [Τρυφολόγιον], from the word: *tryphe* [τρύφη] = *deliciae* [delights]). This book is nothing other than an abridged Menaion, which is also called the “Festal Menaion,” and that because it containeth in itself all those services of immovable
 
-<!-- LEAF: p54 -->
+=== LEAF p54 ===
 
 feasts of the Lord, Marian feasts, and great Saints which are found also in the Menaion. Besides this, the Anthologion containeth in itself at the end of the second volume also the common services for middle and lesser Saints according to various ranks [choirs], and therefore this part is called: The General Menaion, that is, the *Obshchina*. This book containeth in itself: (a) If there be a Feast of the Lord: (α) Stichera of Small Vespers; (β) Stichera of Great Vespers with readings; (γ) Stichera at the Litiya with stichera at the aposticha; (δ) Three morning sessional hymns; (ε) The sticheron sung after Psalm 50; (ϑ) The Magnification refrain in place of “My soul doth magnify the Lord”; (η) An exaposteilarion; (ι) Stichera at the Praises; (κ) Antiphons at the Liturgy; (λ) Stichera of the Afterfeast sung at Vespers; (b) If there be a Marian Feast, then everything is found just as at Feasts of the Lord, except at Matins, for here after the 8th ode there is no magnification refrain; if there be a refrain, it is found in the Psalter; (c) If there be a great Saint, then it is one case if there be a Litiya, and another if there be no Litiya. If there be a Litiya, then it containeth in itself: (α) Small Vespers with 4 stichera at “Lord, I have cried” and with stichera at the aposticha; (β) Great Vespers with stichera at “Lord, I have cried” and readings, and with stichera at the Litiya and with stichera at the aposticha; Matins with canons, which concludeth in regular order. If there be no Litiya, then it containeth in itself: (α) Stichera of Great Vespers with readings, and with stichera at the aposticha; (β) Three morning sessional hymns; (γ) The sticheron sung after Psalm 50; (δ) Three canons: the first to the Theotokos, and the second and third to the Saint; (ε) Stichera at the Praises; (d) Finally, if there be a middle or lesser Saint, the service is taken from the General Menaion [*Obshchina*]. In the General Menaion the Saint hath: (α) Three stichera at Vespers; “Glory and now”: a Theotokion or Stavrotheotokion; (β) At Matins he hath a canon, sometimes also an exaposteilarion.
 
@@ -30,7 +30,7 @@ feasts of the Lord, Marian feasts, and great Saints which are found also in the 
 
 10. The Apostol (in Greek: *Apostolos* [᾿Απόστολος] or *Apostolikon biblion* [᾿Αпоστολικὸν βιβλίον]). It containeth in itself: (α) The Acts of the Apostles, writ-
 
-<!-- LEAF: p55 -->
+=== LEAF p55 ===
 
 ten by the Holy Evangelist Luke; (β) The General [Catholic] Epistles of the Holy Apostles: James, Peter, John, and Jude; (γ) The Epistles of the Holy Apostle Paul to various churches or persons, thus: to the Romans, 2 to the Corinthians, to the Galatians, to the Ephesians, to the Philippians, to the Colossians, 2 to the Thessalonians, 2 to Timothy, to Titus, to Philemon, and to the Hebrews. — The Apostol with respect to ecclesiastical use is divided into pericopes [*pericopae* / *zachala*], of which there are 339. The numbering by pericopes beginneth from the first chapter of the Acts of the Apostles and proceedeth through all the apostolic epistles in the cited order, even unto the end of the Epistle to the Hebrews. In the margin it is indicated when at the beginning of the reading one must begin: “In those days,” when: “Brethren,” when: “Child Titus,” or: “Child Timothy!” — At the end of the book there is found a direction when and how the appointed portions from the epistles are to be read.[^38]
 
@@ -38,7 +38,7 @@ ten by the Holy Evangelist Luke; (β) The General [Catholic] Epistles of the Hol
 
 12. The Sluzhebnik (in Greek: *Leitourgikon* [Λειτουργικόν], from the word: *leitourgein* [λειτουργεῖν] = *munus publicum obire* [to perform a public duty/office], which word is composed
 
-<!-- LEAF: p56 -->
+=== LEAF p56 ===
 
 of *leiton* and *ergon* [λεῖτον et ἔργον] = *publicum* et *munus* [public and duty]). It containeth in itself: (α) All things necessary for the Holy Liturgy, namely: Antiphons, Troparia, Prokeimena, Epistles, and Gospels, Exaltations [Velichaniya],[^39] Communion Hymns, and dismissals of Sundays, feasts, and plain movable days, and that: beginning from the Sunday of Pascha unto the Sunday of All Saints, furthermore from the Sunday of All Saints unto the Sunday of the Publican and the Pharisee, and from thence unto Great Saturday; (β) The Order of the Divine Liturgies: of St. John Chrysostom, of St. Basil the Great, and of St. Gregory the Dialogist, that is, of the Presanctified; (γ) Services of the entire year for immovable feasts, and that: Feasts of the Lord, Marian Feasts, and proper to Saints; (δ) General services for other Saints having no proper services in the Menologion; (ε) Services of various intentions; (ϛ) The Order of Vespers with Litiya, the Order of the Midnight Office, both Sunday and daily, and the Order of Matins; (η) Sunday Troparia, Kontakia, and Theotokia of the eight tones; (ϑ) Daily and general Troparia to the Saints; (ι) The prayer over kolyvo (offering), and “We praise Thee, O God.”
 
@@ -46,7 +46,7 @@ of *leiton* and *ergon* [λεῖτον et ἔργον] = *publicum* et *munus* [
 
 14. The Pontifical Sluzhebnik [Archieratikon], that is, *Archieratikon* [᾿Αρχιερατικόν], which containeth in itself the services celebrated by a Bishop.
 
-<!-- LEAF: p57 -->
+=== LEAF p57 ===
 
 15. The Typikon (in Greek: *Typikon* [Τυπικὸν], from the word: *typos* [τύπος] = *forma*, *regula* [form, rule]) is the rubrical order, or guide, for how the divine services of the entire year are to be celebrated from all the above-mentioned books. The Typikon which is used among us[^40] was published for the Eparchy of Przemyśl; it is divided into the following parts: (α) On the ecclesiastical rule in general; (β) On the order of sacred ministrations, that is, how Small and Great Vespers, Compline, the Midnight Office, Matins, the Hours, the Typika [*Obidnytsia*], and the Liturgy are celebrated in general; (γ) Special directions for the most notable immovable feasts in the order of the Menologion, beginning from September 1; (δ) Special directions for movable feasts, Sundays, and weekdays from the Sunday of the Publican and the Pharisee even unto the Sunday of All Saints; (ε) Directions on the Polyeleos, the ordinary Katavasia, the hymn “My soul doth magnify the Lord,” on the Typika [*Izobrazitelni*] and Antiphons, and on dismissals with supplementary notes; (ϛ) Finally, it containeth six pillars [stólpy] with the incipits of the Gospel pillars taken from the Indiction, and a brief Paschalion direction. The Typikon was compiled on the foundation of the church books, to which it frequently referreth, and in which explanation must be sought if anything in the Typikon should be stated incompletely or not entirely clearly.
 
@@ -54,7 +54,7 @@ of *leiton* and *ergon* [λεῖτον et ἔργον] = *publicum* et *munus* [
 
 (α) The Molitvoslov, or better said, the “Priestly Horologion,” for it containeth in itself everything that the Horologion containeth, but besides this priestly needs are also satisfied here; (β) The Izbornik of needful ecclesiastical rites and services taken from the Horologion, Leitourgikon, Octoechos, Menaion, and Triodion; (γ) The “Sunday Octoechos,” which containeth in itself only the Sunday service; (δ) The “Strastnik” [Passion Book], that is, the book containing the Gospels that are read in Passion Week; (ε) The “Hlasopesnets,” containing in itself the most frequently used chants of the Heirmologion and other church hymns; (ϛ) The “Bohohlasnyk” (in Greek: *hymnologion* [ὑμνολόγιον]), containing in itself church hymns in musical notes;[^41] (η) The “Akathistnik,” which containeth in itself 20 Akathists.
 
-<!-- LEAF: p58 -->
+=== LEAF p58 ===
 
 ## § 18. How Are Public Books Divided?
 
@@ -68,7 +68,7 @@ Public books are divided in accordance with church rites into 3 parts, and that 
 
 3. Because each day we celebrate together a twofold feast or day, that is, movable and immovable, therefore in a single service those two feasts or days are combined, and in accordance with this, in a single Horologion there are combined from the Sunday of All
 
-<!-- LEAF: p59 -->
+=== LEAF p59 ===
 
 Saints unto the Sunday of the Publican and the Pharisee the Octoechos with the Menaion; in the fast, the Triodion with the Octoechos and with the Menaion; and during the time of the Pentecostarion, the Flower Triodion with the Menaion.
 
@@ -78,7 +78,7 @@ Saints unto the Sunday of the Publican and the Pharisee the Octoechos with the M
 
 6. The Menaion is omitted: (α) On all Sundays of the Lenten Triodion, beginning from the Sunday of the Publican and the Pharisee unto Palm Sunday
 
-<!-- LEAF: p60 -->
+=== LEAF p60 ===
 
 inclusively; (β) On Wednesday and Friday of the 3rd week and on Thursday of the 5th week of the Great Fast; (γ) On Saturdays, namely Meatfare, Cheesefare, of the 1st and 5th weeks, and on Lazarus Saturday; (δ) On all days of Passion Week.
 

@@ -1,0 +1,84 @@
+{
+  "target": "C:\\Users\\augus\\OneDrive\\Documents\\Google Antigravity\\Projects\\Translation\\Liturgical Monuments\\Monument 6 - 1910 Skaballanovich Typikon\\Draft\\1910_skaballanovich_typikon_cohort96_raw_draft.md",
+  "total_violations": 7,
+  "files_with_violations": 1,
+  "violations": [
+    {
+      "file": "C:\\Users\\augus\\OneDrive\\Documents\\Google Antigravity\\Projects\\Translation\\Liturgical Monuments\\Monument 6 - 1910 Skaballanovich Typikon\\Draft\\1910_skaballanovich_typikon_cohort96_raw_draft.md",
+      "file_rel": "Translation\\Liturgical Monuments\\Monument 6 - 1910 Skaballanovich Typikon\\Draft\\1910_skaballanovich_typikon_cohort96_raw_draft.md",
+      "line_number": 52,
+      "column": 397,
+      "matched_token": "Lity",
+      "canonical_form": "Litiya",
+      "mode": "typikon",
+      "rule_key": "litiya",
+      "context": "i*) of the saint. At the Lity, according to custom, th"
+    },
+    {
+      "file": "C:\\Users\\augus\\OneDrive\\Documents\\Google Antigravity\\Projects\\Translation\\Liturgical Monuments\\Monument 6 - 1910 Skaballanovich Typikon\\Draft\\1910_skaballanovich_typikon_cohort96_raw_draft.md",
+      "file_rel": "Translation\\Liturgical Monuments\\Monument 6 - 1910 Skaballanovich Typikon\\Draft\\1910_skaballanovich_typikon_cohort96_raw_draft.md",
+      "line_number": 52,
+      "column": 460,
+      "matched_token": "Lity",
+      "canonical_form": "Litiya",
+      "mode": "typikon",
+      "rule_key": "litiya",
+      "context": "on of the temple and the Lity stichera of the saint; *"
+    },
+    {
+      "file": "C:\\Users\\augus\\OneDrive\\Documents\\Google Antigravity\\Projects\\Translation\\Liturgical Monuments\\Monument 6 - 1910 Skaballanovich Typikon\\Draft\\1910_skaballanovich_typikon_cohort96_raw_draft.md",
+      "file_rel": "Translation\\Liturgical Monuments\\Monument 6 - 1910 Skaballanovich Typikon\\Draft\\1910_skaballanovich_typikon_cohort96_raw_draft.md",
+      "line_number": 60,
+      "column": 29,
+      "matched_token": "irmos",
+      "canonical_form": "Heirmos",
+      "mode": "typikon",
+      "rule_key": "heirmos",
+      "context": "ons: Resurrectional with irmos on 4, of the Theotokos o"
+    },
+    {
+      "file": "C:\\Users\\augus\\OneDrive\\Documents\\Google Antigravity\\Projects\\Translation\\Liturgical Monuments\\Monument 6 - 1910 Skaballanovich Typikon\\Draft\\1910_skaballanovich_typikon_cohort96_raw_draft.md",
+      "file_rel": "Translation\\Liturgical Monuments\\Monument 6 - 1910 Skaballanovich Typikon\\Draft\\1910_skaballanovich_typikon_cohort96_raw_draft.md",
+      "line_number": 62,
+      "column": 688,
+      "matched_token": "lity",
+      "canonical_form": "Litiya",
+      "mode": "typikon",
+      "rule_key": "litiya",
+      "context": ", that is, the customary lity; since at this lity only"
+    },
+    {
+      "file": "C:\\Users\\augus\\OneDrive\\Documents\\Google Antigravity\\Projects\\Translation\\Liturgical Monuments\\Monument 6 - 1910 Skaballanovich Typikon\\Draft\\1910_skaballanovich_typikon_cohort96_raw_draft.md",
+      "file_rel": "Translation\\Liturgical Monuments\\Monument 6 - 1910 Skaballanovich Typikon\\Draft\\1910_skaballanovich_typikon_cohort96_raw_draft.md",
+      "line_number": 62,
+      "column": 708,
+      "matched_token": "lity",
+      "canonical_form": "Litiya",
+      "mode": "typikon",
+      "rule_key": "litiya",
+      "context": "mary lity; since at this lity only a single sticheron"
+    },
+    {
+      "file": "C:\\Users\\augus\\OneDrive\\Documents\\Google Antigravity\\Projects\\Translation\\Liturgical Monuments\\Monument 6 - 1910 Skaballanovich Typikon\\Draft\\1910_skaballanovich_typikon_cohort96_raw_draft.md",
+      "file_rel": "Translation\\Liturgical Monuments\\Monument 6 - 1910 Skaballanovich Typikon\\Draft\\1910_skaballanovich_typikon_cohort96_raw_draft.md",
+      "line_number": 70,
+      "column": 5,
+      "matched_token": "irmos",
+      "canonical_form": "Heirmos",
+      "mode": "typikon",
+      "rule_key": "heirmos",
+      "context": "the irmos). The troparia following"
+    },
+    {
+      "file": "C:\\Users\\augus\\OneDrive\\Documents\\Google Antigravity\\Projects\\Translation\\Liturgical Monuments\\Monument 6 - 1910 Skaballanovich Typikon\\Draft\\1910_skaballanovich_typikon_cohort96_raw_draft.md",
+      "file_rel": "Translation\\Liturgical Monuments\\Monument 6 - 1910 Skaballanovich Typikon\\Draft\\1910_skaballanovich_typikon_cohort96_raw_draft.md",
+      "line_number": 76,
+      "column": 97,
+      "matched_token": "Lity",
+      "canonical_form": "Litiya",
+      "mode": "typikon",
+      "rule_key": "litiya",
+      "context": "”, as at present; at the Lity, sticheron “unto the sai"
+    }
+  ]
+}

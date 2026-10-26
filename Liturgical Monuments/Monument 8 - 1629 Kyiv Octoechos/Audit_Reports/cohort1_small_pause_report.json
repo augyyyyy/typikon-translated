@@ -1,0 +1,114 @@
+{
+  "timestamp": "2026-10-26T10:50:56.188242+00:00",
+  "monument_id": "1629_kyiv_octoechos",
+  "cohort": 1,
+  "target_file": "1629_kyiv_octoechos_cohort1_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1629_kyiv_octoechos_cohort1_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1629_kyiv_octoechos_cohort1_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1629_kyiv_octoechos_cohort1_raw_draft.md",
+      "footnotes_file": "1629_kyiv_octoechos_cohort1_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 10,
+      "definition_markers_count": 10,
+      "text_markers": [
+        "[^1]",
+        "[^2]",
+        "[^3]",
+        "[^4]",
+        "[^5]",
+        "[^6]",
+        "[^7]",
+        "[^8]",
+        "[^9]",
+        "[^10]"
+      ],
+      "definition_markers": [
+        "[^1]",
+        "[^2]",
+        "[^3]",
+        "[^4]",
+        "[^5]",
+        "[^6]",
+        "[^7]",
+        "[^8]",
+        "[^9]",
+        "[^10]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1629_kyiv_octoechos_cohort1_raw_draft.md",
+      "passed": true,
+      "paragraphs": 125,
+      "headings_count": 6,
+      "headings": [
+        {
+          "line": 15,
+          "level": 1,
+          "title": "PREFACE: TO THE READER"
+        },
+        {
+          "line": 33,
+          "level": 1,
+          "title": "TONE 1"
+        },
+        {
+          "line": 39,
+          "level": 3,
+          "title": "On Saturday Evening at Great Vespers"
+        },
+        {
+          "line": 73,
+          "level": 3,
+          "title": "At the Aposticha"
+        },
+        {
+          "line": 111,
+          "level": 2,
+          "title": "At the Midnight Office"
+        },
+        {
+          "line": 113,
+          "level": 3,
+          "title": "Canon to the Holy and Life-Creating Trinity[^6]"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 1,
+        "max_leaf": 10
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 8 - 1629 Kyiv Octoechos\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "total_queued_leaves": 0,
+    "unresolved_quarantines": 0
+  }
+}

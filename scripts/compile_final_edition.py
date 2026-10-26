@@ -417,11 +417,31 @@ class UniversalPublicationEngine:
         self.final_dir = self.ws_dir / "Final"
         self.footnotes_file = self.final_dir / "Final_footnotes.txt"
         self.pub_spec = self.cfg.get("publication_spec", {})
+        self._is_scaffolded_pub_spec = not bool(self.pub_spec.get("parts"))
+        if self._is_scaffolded_pub_spec:
+            self.pub_spec = self._load_scaffolded_pub_spec()
         self.total_pages = self.cfg["total_physical_pages"]
 
         self.cohorts_dir.mkdir(parents=True, exist_ok=True)
         self.final_md_dir.mkdir(parents=True, exist_ok=True)
         self.final_dir.mkdir(parents=True, exist_ok=True)
+
+    def _load_scaffolded_pub_spec(self) -> Dict[str, Any]:
+        """Universal default publication_spec scaffold for any monument lacking explicit registry parts."""
+        return {
+            "mode": "universal_dynamic_h1",
+            "hub_inbox_folder": self.cfg.get("short_title", self.monument_id).replace(" ", "_"),
+            "master_title": self.cfg.get("title", self.monument_id),
+            "parts": [
+                {
+                    "id": "part0",
+                    "filename": f"{self.monument_id}_part0_front_matter.md",
+                    "title": "Front Matter, Title Page, and Introductory Apparatus",
+                    "start_landmark": None,
+                }
+            ],
+            "footnotes_filename": f"{self.monument_id}_footnotes.md",
+        }
 
     def run(self) -> None:
         print("=" * 75)
@@ -451,7 +471,21 @@ class UniversalPublicationEngine:
 
         # 6. Scaffolding Purging & Seam Stitching
         print("[Step 5] Purging academic scaffolding and stitching cohort seams...")
-        stitched_body = stitch_cohort_boundaries(cohort_texts)
+        source_dir = self.ws_dir / "Source Text"
+        is_hymnographic = (source_dir.exists() and bool(list(source_dir.glob("*source.txt"))))
+
+        if is_hymnographic:
+            print("  [Hymnographic Engine] Running 2-up seam stitching, stanza formatting, and primitive normalization...")
+            from scripts.hymnographic_gold_normalizer import process_monument_cohorts
+            stitched_body, stats = process_monument_cohorts(
+                self.monument_id,
+                self.cohorts_dir,
+                source_dir,
+                self.final_md_dir
+            )
+            print(f"  [Hymnographic Engine] Successfully stitched {stats['total_stitches']} 2-up seams; {stats['drift_events_count']} drift events tracked.")
+        else:
+            stitched_body = stitch_cohort_boundaries(cohort_texts)
 
         # 7. Apply Liturgical Typography
         print("[Step 6] Applying liturgical typography rules (Monument 0 parity)...")
@@ -550,6 +584,19 @@ class UniversalPublicationEngine:
                 stale_file.unlink()
         for filename, content in all_deliverables.items():
             (hub_inbox / filename).write_text(content, encoding="utf-8")
+
+        # Also sync companion deliverables (Slavonic, Drift ledger, Primitives review)
+        for companion in [
+            f"{self.monument_id}_slavonic_complete.md",
+            f"{self.monument_id}_drift_ledger.json",
+            f"{self.monument_id}_drift_report.md",
+            f"{self.monument_id}_primitives_review.md",
+            f"{self.monument_id}_propers_corpus.json"
+        ]:
+            src_c = self.final_md_dir / companion
+            if src_c.exists():
+                (hub_inbox / companion).write_text(src_c.read_text(encoding="utf-8"), encoding="utf-8")
+
         print(f"  Successfully synced {len(all_deliverables)} files to: {hub_inbox.relative_to(PROJECT_ROOT.parent)}")
 
         # 15. Generate Handoff Note
@@ -585,35 +632,64 @@ class UniversalPublicationEngine:
 
     def _slice_parts(self, text: str) -> Dict[str, str]:
         lines = text.splitlines()
-        part_specs = self.pub_spec.get("parts", [])
-        if not part_specs:
-            return {"part0": text}
-
-        # Find landmark indices monotonically
-        landmarks: List[Tuple[str, int, str]] = [] # (part_id, line_index, title)
-        last_idx = 0
-        for ps in part_specs:
-            pid = ps["id"]
-            pat = ps.get("start_landmark")
-            if not pat:
-                landmarks.append((pid, 0, ps["title"]))
-                continue
-
-            found_idx = -1
+        if getattr(self, "_is_scaffolded_pub_spec", False):
+            dynamic_parts = [
+                {
+                    "id": "part0",
+                    "filename": f"{self.monument_id}_part0_front_matter.md",
+                    "title": "Front Matter, Title Page, and Introductory Apparatus",
+                    "start_landmark": None,
+                }
+            ]
+            landmarks: List[Tuple[str, int, str]] = [("part0", 0, dynamic_parts[0]["title"])]
+            part_counter = 1
             for idx, line in enumerate(lines):
-                if idx <= last_idx:
+                if idx < 15:
                     continue
-                if re.search(pat, line.strip(), re.IGNORECASE):
-                    # For Part 6 table of contents, Dolnytsky's historical index is in the final portion
-                    if self.monument_id == "1899_dolnytsky_typikon" and pid == "part6" and idx < len(lines) * 0.7:
-                        continue
-                    found_idx = idx
-                    last_idx = idx
-                    break
+                m_h1 = re.match(r"^#\s+([^\n#]+)$", line.strip())
+                if m_h1:
+                    h1_title = m_h1.group(1).strip()
+                    pid = f"part{part_counter}"
+                    slug = slugify(h1_title)[:40].strip("_") or pid
+                    dynamic_parts.append(
+                        {
+                            "id": pid,
+                            "filename": f"{self.monument_id}_{pid}_{slug}.md",
+                            "title": h1_title,
+                            "start_landmark": rf"^#\s+{re.escape(h1_title)}$",
+                        }
+                    )
+                    landmarks.append((pid, idx, h1_title))
+                    part_counter += 1
+            self.pub_spec["parts"] = dynamic_parts
+        else:
+            part_specs = self.pub_spec.get("parts", [])
+            if not part_specs:
+                return {"part0": text}
 
-            if found_idx == -1:
-                raise ValueError(f"Failed to locate landmark for {pid} with pattern: {pat}")
-            landmarks.append((pid, found_idx, ps["title"]))
+            landmarks = []
+            last_idx = 0
+            for ps in part_specs:
+                pid = ps["id"]
+                pat = ps.get("start_landmark")
+                if not pat:
+                    landmarks.append((pid, 0, ps["title"]))
+                    continue
+
+                found_idx = -1
+                for idx, line in enumerate(lines):
+                    if idx <= last_idx:
+                        continue
+                    if re.search(pat, line.strip(), re.IGNORECASE):
+                        if self.monument_id == "1899_dolnytsky_typikon" and pid == "part6" and idx < len(lines) * 0.7:
+                            continue
+                        found_idx = idx
+                        last_idx = idx
+                        break
+
+                if found_idx == -1:
+                    raise ValueError(f"Failed to locate landmark for {pid} with pattern: {pat}")
+                landmarks.append((pid, found_idx, ps["title"]))
 
         landmarks.sort(key=lambda x: x[1])
 
@@ -631,7 +707,10 @@ class UniversalPublicationEngine:
                     chunk = re.sub(r"(To the glory\s*\nof the All-Holy)", r"## Dedication\n\n\1", chunk, count=1)
                 master_title_slug = slugify(self.pub_spec.get("master_title", ""))
                 if master_title_slug and f'<a id="{master_title_slug}">' not in chunk:
-                    chunk = re.sub(r"^(#\s+[^\n]+)", rf'\1 <a id="{master_title_slug}"></a>', chunk, count=1, flags=re.MULTILINE)
+                    if re.search(r"^#\s+[^\n]+", chunk, flags=re.MULTILINE):
+                        chunk = re.sub(r"^(#\s+[^\n]+)", rf'\1 <a id="{master_title_slug}"></a>', chunk, count=1, flags=re.MULTILINE)
+                    else:
+                        chunk = f'# {self.pub_spec.get("master_title", "")} <a id="{master_title_slug}"></a>\n\n' + chunk
 
             # Ensure proper H1 header for modular parts > 0
             if i > 0:
@@ -674,70 +753,8 @@ class UniversalPublicationEngine:
     def _build_master_toc(self, parts_raw: Dict[str, str]) -> str:
         """Builds master Table of Contents matching Dolnytsky or auto-generating from parts."""
         if self.monument_id == "1899_dolnytsky_typikon":
-            return """## TABLE OF CONTENTS
-
-* **[Title Page & Frontispiece Icon](#typikon)**
-* **[Approbation and Imprimatur](#approbation-and-imprimatur)**
-* **[Dedication](#dedication)**
-* **[Notice](#notice)**
-* **[Constituent Parts of the Typikon](#constituent-parts-of-the-typikon)**
-* **[PART I: THE GENERAL ORDER OF DIVINE WORSHIP](#part-i-the-general-order-of-divine-worship)**
-  * [On the Various Parts of Divine Worship](#on-the-various-parts-of-divine-worship)
-  * [Vespers](#on-vespers)
-    * [Order of Great Vespers at an All-Night Vigil](#order-of-great-vespers-at-an-all-night-vigil)
-    * [Order of Great Vespers without an All-Night Vigil](#order-of-great-vespers-without-an-all-night-vigil)
-    * [Order of Daily Vespers](#order-of-daily-vespers)
-    * [Order of Small Vespers](#order-of-small-vespers)
-  * [Compline](#concerning-compline)
-    * [Order of Small Compline](#order-of-small-compline)
-    * [Order of Great Compline without an All-Night Vigil](#order-of-great-compline-without-an-all-night-vigil)
-    * [Order of Great Compline with an All-Night Vigil](#order-of-great-compline-with-an-all-night-vigil)
-  * [Midnight Office](#concerning-the-midnight-office)
-  * [Matins](#order-of-great-matins)
-    * [Order of Great Matins (With & Without Vigil)](#with-an-all-night-vigil-and-without-an-all-night-vigil)
-    * [From the Praises unto the End](#from-the-praises-unto-the-end)
-    * [Rubric for Deacons](#rubric-for-deacons)
-    * [Order of Daily Matins](#order-of-daily-matins)
-  * [Order of the Usual Hours](#order-of-the-usual-hours)
-  * [Vespers with the Divine Liturgy](#concerning-vespers-with-the-divine-liturgy)
-* **[PART II: COMMON RUBRICS FOR THE DIVERSE SERVICES (OCTOECHOS & MENAION)](#part-ii-common-rubrics-for-the-diverse-services-of-the-octoechos-and-menaion)**
-  * [Outside a Feast (The Seven Ranks of Saints)](#outside-a-feast)
-    * [1. Non-Polyeleos Saint on Sunday](#1-non-polyeleos-saint-on-sunday)
-    * [2. Non-Polyeleos Saint on Weekdays](#non-polyeleos-saint-on-weekdays-except-saturday)
-    * [3. Non-Polyeleos Saint on Saturday](#non-polyeleos-saint-on-saturday)
-    * [4. Polyeleos Saint on Sunday](#polyeleos-saint-on-sunday)
-    * [5. Polyeleos Saint on Weekdays & Saturday](#polyeleos-saint-on-weekdays-and-on-saturday)
-    * [6. Vigil Saint on Sunday](#vigil-saint-on-sunday)
-    * [7. Vigil Saint on Weekdays & Saturday](#vigil-saint-on-weekdays-and-on-saturday)
-  * [Within a Feast](#within-a-feast)
-    * [In the Forefeast](#in-the-forefeast)
-    * [On the Feast (Dominical & Theotokion)](#on-the-feast)
-    * [In the Afterfeast](#in-the-afterfeast)
-    * [On the Apodosis of the Feast](#on-the-apodosis-of-the-feast)
-* **[PART III: PROPER RUBRICS FOR CERTAIN SERVICES OF THE MENAION](#part-iii-proper-rubrics-for-certain-services-of-the-menaion)**
-  * [September](#september) (Nativity of the Theotokos, Exaltation of the Cross)
-  * [October](#october-1) (Protection of the Theotokos, Demetrius)
-  * [November](#november) (Michael the Archangel, Entrance of the Theotokos)
-  * [December](#december) (St. Nicholas, Conception of St. Anna, Nativity of Christ)
-  * [January](#january) (Circumcision, Theophany, Three Hierarchs)
-  * [February](#february-the-meeting-of-the-lord) (Meeting of the Lord, Finding of Forerunner's Head)
-  * [March](#march) (Forty Martyrs, Annunciation of the Theotokos)
-  * [April](#april) (St. George)
-  * [May](#may) (St. Athanasius, St. John the Theologian, St. Nicholas Translation)
-  * [June](#june) (Nativity of St. John the Baptist, Sts. Peter & Paul)
-  * [July](#july) (St. Vladimir, St. Elias)
-  * [August](#august) (Transfiguration, Dormition of the Theotokos, Beheading of Forerunner)
-* **[PART IV: TYPIKA OF THE TRIODION](#part-iv-typika-of-the-triodion)**
-  * [Lenten Triodion](#typika-of-the-triodion) (Publican & Pharisee to Great Saturday)
-  * [Flowery Triodion / Pentecostarion](#flowery-triodion) (Pascha to All Saints)
-* **[PART V: TYPIKON CONCERNING TEMPLES](#part-v-typikon-concerning-temples)**
-  * [Chapter I & II: Temple Typika](#typikon-concerning-temples)
-  * [General & Proper Temple Typika](#temple-typika)
-  * [Paschal Tablets & Perpetual Calendar](#tablet-i)
-* **[PART VI: HISTORICAL INDEX, SYNODAL DECREES AND COLOPHON](#part-vi-historical-index-synodal-decrees-and-colophon)**
-  * [Historical Table of Contents (1899)](#table-of-contents)
-  * [Colophon and Thanksgiving](#colophon-and-thanksgiving)
-* **[FOOTNOTES AND SCHOLARLY COMMENTARY](#footnotes-and-scholarly-commentary)**"""
+            toc_template_path = PROJECT_ROOT / "data" / "templates" / "dolnytsky_1899_master_toc.md"
+            return toc_template_path.read_text(encoding="utf-8").strip()
 
         # Auto-generation fallback from parts
         toc_lines = ["## TABLE OF CONTENTS", ""]

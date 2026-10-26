@@ -25,7 +25,7 @@
 ## 2. Inviolable Liturgical Translation Standards (MTS-1 / TA-1)
 
 ### A. Universal Native Vision Mandate (Physical Ink Sovereignty)
-* Inspect each 300 DPI image (`p{N}.png`) in `Liturgical Monuments/Monument 6 - 1910 Skaballanovich Typikon/Source Text/images/` directly.
+* Inspect each 300 DPI image (`Page_{N:04d}.jpg`) in `Liturgical Monuments/Monument 6 - 1910 Skaballanovich Typikon/Source Text/images/` directly.
 * Cinnabar Rubrics: Red ink is visually identified and rendered in ceremonial italics (`*...*`); black ink is rendered in spoken/chanted prayers, psalmody, and hymnography.
 
 ### B. Ceremonial / Rubrical Register Norms (SCHOLARLY_CRITICAL)

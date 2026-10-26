@@ -1,6 +1,6 @@
 # Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852) — Cohort 7 (Leaves p61–p70)
 
-<!-- LEAF: p61 -->
+=== LEAF p61 ===
 
 [Book Page 120]
 
@@ -18,7 +18,7 @@ On Sunday evening and the other days of the week, we sing **"Blessed is the man"
 Aposticha. After **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): troparion of the saint once; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** Sunday Resurrection Theotokion. Great Dismissal. At Compline: kontakion of the saint only. The Midnight Office is celebrated with the customary troparia.  
 At Matins: at **"God is the Lord"** (*Бо́гъ Госпо́дь*): troparion of the saint twice; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** Sunday Resurrection Theotokion. After the Kathismata: Sessional Hymns of the saint; then the Polyeleos, Megalynarion, and the Sessional Hymn following the Polyeleos; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** Theotokion in the same place. Graduals: Tone 4, 1st Antiphon (and its 3rd verse) with **"Glory..., Now and forever..."**. Prokeimenon, **"Let every breath"** (*Вся́кое дыха́нїе*), Gospel, and sticheron of the saint. Canon of the Theotokos [one of the two][^134] to 6, and of the commemorated saint to 8. Katavasia of the cycle after each ode. After Ode 3: Sessional Hymn of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** Theotokion in the same place. After Ode 6: kontakion and ikos of the saint. After Ode 9: exapostilarion of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** Theotokion in the same place. At the Praises (*Хвали́тны*): stichera of the saint to 4, with **"Glory..., Now and forever..."**, as in the Anthologion. The Great Doxology. After the Trisagion: troparion of the saint once; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** Sunday Resurrection Theotokion. Great Dismissal, and the First Hour. At the Hours: troparion and kontakion of the saint. At the Divine Liturgy: the Beatitudes from the canon of the saint, Odes 3 and 6 to 8. After the Entrance: troparion of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** his kontakion; **"Now and forever, and unto the ages of ages. Amen:"** **"Steadfast Protectress of Christians..."** (*Застꙋ́пнице хрїстїа́нъ...*)
 
-<!-- LEAF: p62 -->
+=== LEAF p62 ===
 
 [Book Page 122]
 
@@ -41,7 +41,7 @@ After the Entrance: troparion of the saint; **"Glory to the Father, and to the S
 * * *  
 At the Typika (Obidnytsia), if there is no Liturgy: kontakion of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the Temple of Christ or of the Theotokos. But if the Temple is of the saint: kontakion of the Temple,
 
-<!-- LEAF: p63 -->
+=== LEAF p63 ===
 
 [Book Page 124]
 
@@ -65,7 +65,7 @@ If there is also a service of a particular petition: troparion of the forefeast,
 * * *  
 At the Typika (Obidnytsia), after **"Our Father..."**: kontakion of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the forefeast.
 
-<!-- LEAF: p64 -->
+=== LEAF p64 ===
 
 [Book Page 126]
 
@@ -84,7 +84,7 @@ At Matins: at **"God is the Lord"** (*Бо́гъ Госпо́дь*): troparion o
 After Ode 3: kontakion and ikos of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** his Sessional Hymn; **"Now and forever, and unto the ages of ages. Amen:"** Sessional Hymn of the feast. If two saints: kontakion and ikos of both, Sessional Hymn of the first saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the second; **"Now and forever, and unto the ages of ages. Amen:"** Sessional Hymn of the feast. After Ode 6: kontakion and ikos of the feast. At Ode 9: we sing **"More honorable than the Cherubim"** (*Честнѣ́йшꙋю*). Exapostilarion of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the feast. At the Aposticha: stichera of the feast with their refrains; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint, if there is one; **"Now and forever, and unto the ages of ages. Amen:"** of the feast. At the First Hour: troparion and kontakion of the feast. At the Third Hour: troparion of the feast; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** troparion of the saint, kontakion of the saint. At the Sixth Hour: troparion and kontakion of the feast. At the Ninth Hour: as at the Third Hour. If two saints: we say at the Third Hour the troparion of the feast and the troparion of the 1st saint; at the Sixth Hour [printed "д҃" for ѕ҃ / ѳ҃]: troparion of the feast; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** troparion of the 2nd saint.  
 At the Divine Liturgy: Beatitudes of the feast to 4, and of the saint to 4. [Some chant the festal Antiphons, if it is a Dominical Feast until the Apodosis, and in place of
 
-<!-- LEAF: p65 -->
+=== LEAF p65 ===
 
 [Book Page 128]
 
@@ -109,7 +109,7 @@ After Ode 9: exapostilarion of the feast; **"Glory to the Father, and to the Son
 At the Hours: troparion of the feast; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; alternating the kontakia of the feast and of the saint.  
 At the Divine Liturgy: Typika. Beatitudes of the feast the cycle ode to 4, and of the saint, Ode 6 to 4. After the Entrance: troparion of the feast, troparion of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** kontakion of the saint; **"Now and forever, and unto the ages of ages. Amen:"** kontakion of the feast. Prokeimenon of the feast and of the saint; Epistle and Gospel of the day, and of the saint. In place of **"It is truly meet"**: the Heirmos of the feast; Communion Hymn of the feast and of the saint.
 
-<!-- LEAF: p66 -->
+=== LEAF p66 ===
 
 [Book Page 130]
 
@@ -134,7 +134,7 @@ If the Temple of the holy man or woman occur outside of others (on weekdays), we
 The office of the saint occurring on this day is sung beforehand on the preceding day (only on the Apodosis of the Feast of the Entry of the Most Holy Theotokos is it sung together with the saint).[^144] We sing everything as on the feast itself, except: the Entrance, Readings, Polyeleos, and Matins Gospel.  
 At **"Lord, I have cried"** (*Го́споди воззва́хъ*): stichera of the feast to 6, sung on the feast itself; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the feast. If on Friday evening: **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the feast; **"Now and forever, and unto the ages of ages. Amen:"** Dogmatikon of the incoming Tone (except the Apodosis of the Nativity of Christ and Theophany). An Entrance does not take place. After the Prokeimenon, immediately: **"Vouchsafe, O Lord, to keep us this evening without sin"** (*Сподо́би, Го́споди, въ ве́черъ се́й*); **"Let us complete our evening prayer"** (*И҆спо́лнимъ вече́рнюю моли́тву на́шу*). At the Aposticha: stichera of the feast; **"Glory to the Father, and to the Son, and to the Holy Spirit,"**
 
-<!-- LEAF: p67 -->
+=== LEAF p67 ===
 
 [Book Page 132]
 
@@ -161,7 +161,7 @@ At Matins: after the Kathismata and Sessional Hymns, immediately Psalm 50 and th
 At the Divine Liturgy: the Beatitudes from the canon of the Indiction, Ode 3, and of the saint to 4. After the Entrance: troparion first of the Indiction, and of the Theotokos: **"Rejoice, full of grace, Virgin Theotokos..."** (*Ра́дꙋйся, благода́тная...*), and of the Venerable Father; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** kontakion of the saint; **"Now and forever, and unto the ages of ages. Amen:"** kontakion of the Indiction. If the Temple is of the Theotokos: **"Now and forever, and unto the ages of ages. Amen:"** of the Temple of the Theotokos. Prokeimenon, Epistle, and Gospel of the Indiction and of the Venerable Father. The daily Epistle and Gospel are read beforehand.  
 If the Temple is of St. Symeon: at Great Vespers, at **"Lord, I have cried"** (*Го́споди воззва́хъ*): stichera of the Indiction 3, and of the Temple of Symeon to 5 (if two stichera of the Venerable Father, we sing of him to 6); **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the Venerable Father; **"Now and forever, and unto the ages of ages. Amen:"** of the Indiction. Entrance, Prokeimenon of the day, and readings
 
-<!-- LEAF: p68 -->
+=== LEAF p68 ===
 
 [Book Page 134]
 
@@ -188,7 +188,7 @@ At Matins: Prokeimenon and Gospel of the Temple; **"Having seen the Resurrection
 Office of the Forefeast and of the Saint in the customary manner.[^148]  
 ☞ But if the Forefeast of the Nativity of the Theotokos occur on a Sunday, at the Divine Liturgy after the Entrance: Resurrection Troparion and of the Forefeast; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** Resurrection Kontakion; **"Now and forever, and unto the ages of ages. Amen:"** of the Forefeast. Prokeimenon, Epistle, and Gospel: first of Sunday before the Exaltation [if applicable], then of the day/cycle...
 
-<!-- LEAF: p69 -->
+=== LEAF p69 ===
 
 [Book Page 136]
 
@@ -217,7 +217,7 @@ At the Divine Liturgy: Prokeimenon, Tone 6: **"Save, O Lord, Thy people, and ble
 At Vespers: the customary Kathisma. At **"Lord, I have cried"** (*Го́споди воззва́хъ*): stichera to 6: of the Dedication 3, and of the saint 3; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the Dedication; **"Now and forever, and unto the ages of ages. Amen:"** of the forefeast. If on Friday evening: **"Now and forever, and unto the ages of ages. Amen:"** Dogmatikon. Entrance. Readings: 3, and all the rest in order of the Anthologion.  
 At the Divine Liturgy: After the Entrance: troparion of the Dedication, and of the Cross, and of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** kontakion of the saint; **"Now and forever, and unto the ages of ages. Amen:"**
 
-<!-- LEAF: p70 -->
+=== LEAF p70 ===
 
 [Book Page 138]
 

@@ -2,7 +2,7 @@
 
 **Document ID**: `1891_lviv_synod`  
 **Cohort Number**: 5  
-**Physical Leaves**: Physical pages 41 to 60 (`p41.png` through `p60.png`, 20 leaves total)  
+**Physical Leaves**: Physical pages 41 to 60 (`Page_0041.jpg` through `Page_0060.jpg`, 20 leaves total)  
 **Starting Footnote Index**: `[^46]`  
 **Governing Genre Register**: **JURIDICAL** (Per Master Translation Standard MTS-1)  
 **Image Cache Directory**: `Liturgical Monuments\Monument 1 - 1891 Lviv Synod\Source Text\images`  
@@ -38,7 +38,7 @@
 ---
 
 ## 3. Worker Execution Instructions
-1. Inspect images `p41.png` through `p60.png` in `Liturgical Monuments\Monument 1 - 1891 Lviv Synod\Source Text\images`.
+1. Inspect images `Page_0041.jpg` through `Page_0060.jpg` in `Liturgical Monuments\Monument 1 - 1891 Lviv Synod\Source Text\images`.
 2. Transcribe the primary Church Slavonic / Ukrainian / Latin text leaf-by-leaf with clear leaf headers `=== LEAF p41 ===`.
 3. Translate unabridged into `1891_lviv_synod_cohort5_raw_draft.md` with inline footnote markers `[^N]`.
 4. Write all footnote definitions into `1891_lviv_synod_cohort5_footnotes.txt`.

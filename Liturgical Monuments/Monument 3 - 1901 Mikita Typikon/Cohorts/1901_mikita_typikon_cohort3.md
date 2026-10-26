@@ -1,4 +1,4 @@
-<!-- LEAF: p21 -->
+=== LEAF p21 ===
 
 *Page*  
 **§ 187.** Order of the Burial of Infants — 258  
@@ -33,7 +33,7 @@
 **§ 216.** What is the Dread Prayer? — 280  
 **§ 217.** Order of the Akathist to the Dormition of the Most Holy Virgin Mary — 281  
 
-<!-- LEAF: p22 -->
+=== LEAF p22 ===
 
 *Page*  
 ### APPENDIX
@@ -44,7 +44,7 @@
 
 Glory be to Thee, O Holy Trinity, Glory be to Thee!
 
-<!-- LEAF: p23 -->
+=== LEAF p23 ===
 
 ### INDEX OF DIVERSE PRAYERS
 
@@ -62,11 +62,11 @@ Prayer before Holy Communion: “I believe, O Lord, and I confess” — 238
 Prayer before Holy Confession, when the Priest receiveth a sinner — 241  
 Prayer after Confession, when the Priest absolveth a sinner — 242  
 
-<!-- LEAF: p24 -->
+=== LEAF p24 ===
 
 *[Blank Leaf / Чистый листъ]*
 
-<!-- LEAF: p25 -->
+=== LEAF p25 ===
 
 # INTRODUCTION
 
@@ -80,7 +80,7 @@ Public services are divided into 3 parts: (α) Into pre-liturgical (*ante-liturg
 
 The pastor must celebrate the holy services: (α) Intelligibly, that is, with distinct pronunciation and with a decent voice; (β) In godly fear, that is, with an interior spirit for the profit of the people; (γ) In unity with other pastors and with ecclesiastical ordinances; wherefore the Council of Trent stateth: “If anyone should say that the received and approved rites of the Church
 
-<!-- LEAF: p26 -->
+=== LEAF p26 ===
 
 may be omitted by any pastor at his own pleasure without sin, or changed into other new ones, let him be anathema.”[^4] (δ) Uniformly, that is, without any diminution or addition, and at that very time which hath been appointed by the eparchial authority.
 
@@ -94,7 +94,7 @@ In accordance with this, we also divide our Typikon first into 2 principal parts
 
 Divine services are celebrated according to feasts or according to ordinary church days from the church books, and consist of diverse parts: wherefore in this part we shall speak:
 
-<!-- LEAF: p27 -->
+=== LEAF p27 ===
 
 1) concerning the Menologion; 2) concerning the church books; and 3) concerning the technical terms by which the diverse psalms, hymns, and ecclesiastical chants are designated.
 
@@ -106,7 +106,7 @@ The ecclesiastical year consists of: (α) Days dedicated to the worship of God, 
 
 The focal point of the entire ecclesiastical year is the Resurrection of Christ, even as the Resurrection of Christ is the seal of the redemption of the human race. “And if Christ be not risen,” saith the Apostle, “then is our preaching vain, and your faith is also vain” (1 Cor. 15:14). And therefore His memorial is celebrated every week on Sunday, and all other feasts receive their brightness and warmth from this feast; in a word: what the sun is among the stars, that the Feast of Pascha is among the other feasts.
 
-<!-- LEAF: p28 -->
+=== LEAF p28 ===
 
 The sequential order, that is, the arrangement of the church year according to diverse feasts, is called the “Menologion” (*Misiatsoslov*), in Greek: “*Heortologion*” [Ἑορтоλόγιον].
 
@@ -117,7 +117,7 @@ Furthermore, feasts are variously divided,[^5] namely:
 3. In regard to the object celebrated (*ratione objecti celebrati*), they are divided: (α) into Feasts of the Lord (*cultus latriae* [worship of adoration]); (β) into Marian Feasts (*cultus hyperdouliae* [veneration of highest honour]); and (γ) into Feasts of the Saints (*cultus douliae* [veneration of honour]).
 4. In regard to the liturgical rite (*ratione ritus liturgici*), into: (α) great; (β) middle; and (γ) lesser feasts. — Great feasts have Great Vespers with 10 or 8 stichera with an entrance, and sometimes with a Litiya; Matins with a Polyeleos, Gospel, and the Great Doxology. Middle feasts have Vespers with 8 stichera with an entrance, but without a Litiya; and Matins with a Polyeleos, Gospel, and the Great Doxology. Lesser feasts have Vespers with 6 stichera, but without an entrance; at Matins there is no Polyeleos, the canon is on 6, but they have the Great Doxology, and therefore are called “doxology feasts” (*doxologoumena* [δοξоλογούμενα]).
 
-<!-- LEAF: p29 -->
+=== LEAF p29 ===
 
 Besides feast days there are also non-festal days, on which we celebrate the memory of lesser Saints having 3 stichera at Vespers and a canon on 4 at Matins.
 
@@ -131,6 +131,6 @@ The boundary key beginneth with the Nativity of Christ and governeth throughout 
 
 I. To the Forefeast of Pascha belong: (α) The Sunday of the Publican and the Pharisee, with the following week called “fast-free” (*pospolytsia*, *zahalnytsia*, *hyrtsia*),
 
-<!-- LEAF: p30 -->
+=== LEAF p30 ===
 
 that is, when there is no fasting either on Wednesday or on Friday; (β) The Sunday of the Prodigal Son; (γ) Meatfare Saturday, which is a Saturday for the departed; (δ) Meatfare Sunday (or Sunday of the Second Coming of Jesus Christ); (ε) Cheesefare Saturday, on which is celebrated the memory of all our Venerable and God-bearing Fathers who shone forth in asceticism (*in ascesi*). On that day is celebrated the canon of St. Theodore the Studite, in which Odes 1–6 glorify those holy Fathers who were ascetics, Ode 7 the holy Women, and Odes 8 and 9 the holy Pastors of the Church; (ϛ) Cheesefare Sunday, or the Sunday of the Expulsion of the First-Created Adam from the Paradise of Delight; (η) The First Saturday of the Forty Days (*Chetyredesiatnytsia*), when we celebrate the memory of the miracle of the kolyva wrought by the holy Great-Martyr Theodore the Tyro, who died in the year 306. This miracle occurred in the year 362 in Constantinople, in the time of Julian the Apostate, who wished to turn all Christians back unto paganism, and that in such wise that he commanded that all provisions found in the marketplace should be secretly sprinkled with the blood of pagan sacrifices. But St. Theodore appeared by night unto Eudoxius, Bishop of this city, and told him that he should forbid them to buy that, and commanded that wheat, that is, grain boiled in pots, called “*kollyva*” [κολλύβα], should be given unto the needy; (ϑ) The First Sunday of the Fast, when is also celebrated the memory of the triumph of Orthodoxy over the Iconoclasts, wherefore it is also called the “Sunday of Orthodoxy”; (ι) The Second Saturday of the Forty Days, and for the departed; (κ) The Second Sunday of the Holy Great Fast. The Synod of Zamość (in the year 1720) forbade the celebration on that day of the memory of Gregory Palamas, the heretic[^7]; (λ) The Third Saturday of the Holy Fast, for the departed; (μ) The Third Sunday of the Forty Days, which is called “Veneration of the Precious Cross” (*kyriake tes stauroproskyneseos* [κυριακὴ τῆς σταυροпροσκυνήσεως]); (ν) The Fourth Saturday of the Holy Fast, for the departed; (ξ) The Fourth Sunday of the Fast, in which we celebrate the memory of our Venerable Father John of the Ladder; (ο) The Fifth Thursday of the Holy Forty Days, on which day at Matins (with us, on the evening of the 7th hour) the Great Canon of St. Andrew of Crete is sung; (ρ) The Fifth Saturday of the Holy Fast, with the Akathist to the Most Holy Virgin; (π) The Fifth Sunday of the Holy Fast, in which is celebrated the memory of our Venerable Mother Mary of Egypt; (σ) The Sixth Saturday...

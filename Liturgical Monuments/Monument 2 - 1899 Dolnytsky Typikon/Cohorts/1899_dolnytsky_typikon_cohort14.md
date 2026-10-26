@@ -1,6 +1,6 @@
 ---
 
-[Leaf p261 / Page 259]
+=== LEAF p261 ===
 
 #### At the Divine Liturgy
 1. Troparion of the Resurrection and of the Forerunner; **"Glory..."**, Kontakion of the Forerunner; **"Both now..."**, Kontakion of the Triodion.
@@ -15,7 +15,7 @@
 
 ---
 
-[Leaf p262 / Page 260]
+=== LEAF p262 ===
 
 4. Aposticha of the Triodion; **"Glory..."**, of the Forerunner; **"Both now..."**, its Theotokion.
 5. Troparion of the Forerunner; **"Glory... Both now..."**, Sunday Theotokion according to the Tone of the Troparion.
@@ -39,7 +39,7 @@ At all the Hours, Troparion and Kontakion of the Forerunner.
 
 ---
 
-[Leaf p263 / Page 261]
+=== LEAF p263 ===
 
 ### 4. Finding of the Precious Head on Cheese-fare Wednesday and Friday
 The service of the Forerunner is transferred back to Cheese-fare Tuesday or Thursday, and is sung according to the preceding Typikon here on page 259.
@@ -60,7 +60,7 @@ After **"It is truly right"** (*Достойно есть*), Kontakion of the Fo
 
 ---
 
-[Leaf p264 / Page 262]
+=== LEAF p264 ===
 
 #### At Matins
 1. At **"God is the Lord"** (*Богъ Господь*), Troparion of the Forerunner twice; **"Glory..."**, to the Fathers; **"Both now..."**, Sunday Theotokion according to the Tone of the Fathers.
@@ -80,7 +80,7 @@ If it occurs on Monday, its service is transferred to Cheese-fare Sunday; if on 
 
 ---
 
-[Leaf p265 / Page 263]
+=== LEAF p265 ===
 
 Cheese-fare Sunday, or to the First Saturday of the Fast.[^388]
 
@@ -98,7 +98,7 @@ If there is no Liturgy of the Presanctified, all is performed according to the T
 
 ---
 
-[Leaf p266 / Page 264]
+=== LEAF p266 ===
 
 -takion of the Forerunner and of Theodore; if Great Compline, as the Slavic Triodia have it, then after the 1st Trisagion we say the Troparion of both Saints, after the 2nd the customary Troparia **"Have mercy on us, O Lord"** (*Помилуй насъ Господи*), and at the last Trisagion the Kontakion of the Forerunner.[^391]
 
@@ -117,7 +117,7 @@ All according to the Typikon of Cheese-fare Saturday here on page 262, only:
 
 ---
 
-[Leaf p267 / Page 265]
+=== LEAF p267 ===
 
 #### At Compline
 After **"It is truly right"** (*Достойно есть*), Kontakion of the Forerunner; **"Glory... Both now..."**, Kontakion of the Triodion.
@@ -135,7 +135,7 @@ At all the Hours, Troparion of the Resurrection, then **"Glory..."**: at the 1st
 
 ---
 
-[Leaf p268 / Page 266]
+=== LEAF p268 ===
 
 #### At the Divine Liturgy
 1. Troparion of the Resurrection, and of the Icon, and of the Forerunner; **"Glory..."**, Kontakion of the Forerunner; **"Both now..."**, Kontakion of the Icon.
@@ -154,7 +154,7 @@ At all the Hours, Troparion of the Resurrection, then **"Glory..."**: at the 1st
 
 ---
 
-[Leaf p269 / Page 267]
+=== LEAF p269 ===
 
 #### On Monday, Tuesday, and Thursday evening, when the Feast occurs on Tuesday, Wednesday, and Friday:
 All according to the Typikon written above for Sunday evening, only:
@@ -165,7 +165,7 @@ All according to the Typikon written above for Sunday evening, only:
 
 ---
 
-[Leaf p270 / Page 268]
+=== LEAF p270 ===
 
 #### On Wednesday evening, when the Feast occurs on Thursday:
 1. At **"Lord, I have cried"** (*Господи воззвахъ*), there are 10 Stichera: 6 of the Triodion, and 4 of the Forerunner; **"Glory..."**, of the Forerunner; **"Both now..."**, Dogmatikon Theotokion of the Tone (1st Theotokion) of the inheriting Tone.
@@ -182,7 +182,7 @@ All according to the general Typikon of a Saint with a Polyeleos, however:
 
 ---
 
-[Leaf p271 / Page 269]
+=== LEAF p271 ===
 
 is the Canon of the Forerunner for 6, and both Canons of the Triode for 8, and Katavasia of the Triodion.
 3. After the Stichera at the Praises, there is the Small Doxology, and afterwards the Aposticha of the Triodion in its place with the Doxastikon of the Forerunner, and after the Troparion of the Forerunner, **"Glory... Both now..."**, Sunday Theotokion according to the Tone of the Troparion, and after the Ektenia **"Have mercy on us, O God"** (*Помилуй насъ Боже*), 3 great prostrations without a Dismissal.
@@ -198,7 +198,7 @@ All according to the general Typikon of a Saint with a Polyeleos on Saturday, on
 
 ---
 
-[Leaf p272 / Page 270]
+=== LEAF p272 ===
 
 ### 11. Finding of the Precious Head on the Second Sunday of the Fast
 All according to the general Typikon of a Saint with a Polyeleos on Sunday, only:
@@ -221,7 +221,7 @@ All the rest first of the Sunday, then of the Forerunner.
 
 ---
 
-[Leaf p273 / Page 271]
+=== LEAF p273 ===
 
 ### 12. Finding of the Precious Head on the Third Sunday of the Fast
 All according to the Typikon of the First Sunday of the Fast, here on page 264.
@@ -247,7 +247,7 @@ All according to the Typikon of the Finding of the Precious Head here on page 26
 
 ---
 
-[Leaf p274 / Page 272]
+=== LEAF p274 ===
 
 ### 2. The 40 Martyrs on the First Saturday of the Fast
 According to the Typikon of the Finding here on page 263.
@@ -276,7 +276,7 @@ Their service is transferred to the preceding Tuesday, according to the Typikon 
 
 ---
 
-[Leaf p275 / Page 273]
+=== LEAF p275 ===
 
 ### 10. The 40 Martyrs on Akathist Saturday[^397]
 We sing their service on the morrow, that is, on the 5th Sunday of the Fast, according to the Typikon of the Finding on the 2nd Sunday here on page 270.
@@ -295,7 +295,7 @@ It has the following 10 cases:
 
 ---
 
-[Leaf p276 / Page 274]
+=== LEAF p276 ===
 
 5. On Thursday of the Cross-veneration.
 6. On the 4th and 5th Sunday of the Fasts.
@@ -320,7 +320,7 @@ All according to the general Typikon of these fast days, only:
 
 ---
 
-[Leaf p277 / Page 275]
+=== LEAF p277 ===
 
 At **"Lord, I have cried"** (*Господи воззвахъ*), 6 Stichera: 3 Prosomoia of the Triodion, and 3 of the Forefeast; **"Glory... Both now..."**, of the Forefeast; likewise also at the Aposticha, after the Stichera of the Triodion: **"Glory... Both now..."**, of the Forefeast.
 
@@ -343,7 +343,7 @@ All according to the general Lenten Typikon.
 
 ---
 
-[Leaf p278 / Page 276]
+=== LEAF p278 ===
 
 ### 2. Forefeast of the Annunciation on Saturday of the Third and Fourth Week of the Fasts
 
@@ -361,7 +361,7 @@ If Small Compline is sung, then after **"It is truly right"** (*Достойно
 
 ---
 
-[Leaf p279 / Page 277]
+=== LEAF p279 ===
 
 4. Aposticha of the Octoechos, just as on all Saturdays, only **"Glory... Both now..."**, of the Forefeast.
 5. Troparion of the Forefeast, one, and after the Ektenia the Dismissal according to custom.
@@ -387,7 +387,7 @@ After **"It is truly right"** (*Достойно есть*), Kontakion of the Cr
 
 ---
 
-[Leaf p280 / Page 278]
+=== LEAF p280 ===
 
 2. All the rest up to the Canon is of the Resurrection, just as outside of the Forefeast.
 3. 3 Canons for 14: of the Resurrection for 4, of the Cross for 6, and of the Forefeast for 4. Katavasia of the Triodion. After the 3rd Ode, Kontakion of the Forefeast, then Sessional Hymn of the Cross; **"Glory... Both now..."**, of the Forefeast; after the 6th Ode, Kontakion and Ikos of the Cross; after the 9th Ode, Exapostilarion of the Resurrection; **"Glory..."**, of the Cross; **"Both now..."**, of the Forefeast.

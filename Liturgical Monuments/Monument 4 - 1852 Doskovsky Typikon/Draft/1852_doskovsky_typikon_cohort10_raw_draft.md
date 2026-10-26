@@ -1,6 +1,6 @@
 # Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852) — Cohort 10 (Leaves p91–p100)
 
-<!-- LEAF: p91 -->
+=== LEAF p91 ===
 
 [Book Page 180]
 
@@ -25,7 +25,7 @@ Month — 181 — March
 *2). If the Annunciation occur on* MONDAY *of the 4th, 5th, or 6th week of the Holy Fast: On Sunday Little Vespers takes place, at it stichera of the feast to 4, and the rest. And Great Vespers takes place with Litiya [customarily before the rising of the sun on Monday]. Readings of the feast 3. At the blessing of the loaves, troparion of the feast 3 times. At Matins: Polyeleos and Gospel of the feast; Little Doxology, and the rest of the service, as was prescribed for a fasting day in the cycle in the Anthologion and here below. The Divine Liturgy of the Holy Chrysostom with Vespers, and the rest.*  
 *3). If the Annunciation occur on* FASTING DAYS *of the 4th, 5th, and 6th week of the Fast, that is to say: on Tuesday, Wednesday, Thursday, and Friday: then on the Forefeast in the evening [if Wednesday or Friday] we begin Vespers without a Kathisma. At* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *we set 6 stichera, and we sing of the Triodion of the day 2, and of the feast 3 repeating two; Theotokion. Readings of the day and of the feast 3: the 1st from Genesis:* **"Jacob went forth..."** (*И҆зы́ди І҆а́кѡвъ...*); *the 2nd from the Prophet Ezekiel:* **"It shall be from the eighth day..."** (*Бꙋ́детъ ѿ днѐ ѻ҆сма́гѡ...*); *the 3rd from Proverbs:* **"Wisdom hath builded..."** (*Премꙋ́дрость созда̀...*). *Then:* **"Let my prayer be set forth..."** (*Да и҆спра́вится...*); *and 3 great prostrations; and the rest of the Presanctified.*
 
-<!-- LEAF: p92 -->
+=== LEAF p92 ===
 
 [Book Page 182]
 
@@ -44,7 +44,7 @@ Month — 183 — March
 *5). If the Annunciation occur on* GREAT FRIDAY: *On Thursday evening: at* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *stichera of the day 5, and of the feast 5, and the rest. Entrance with the Gospel. Readings of the day and of the feast 3. Little Ectene and exclamation. And the Trisagion, Prokeimenon, and Epistle and Gospel of the day; and the rest of the Divine Liturgy of the Great Basil. Little Compline.*  
 ☞ *At the 1st hour of the night, they strike upon the great bell and the other bells; and we begin the Matins of Great Friday [the Office of the Holy Passions]. At* **"God is the Lord"** (*Бо́гъ Госпо́дь*): *troparion of the feast 3 times; Glory, and*
 
-<!-- LEAF: p93 -->
+=== LEAF p93 ===
 
 [Book Page 184]
 
@@ -72,7 +72,7 @@ Month — 185 — August
 ### IN THE MONTH OF AUGUST,
 ### On the 1st Day: The Procession of the Precious Wood of the Honorable and Life-Giving Cross; and the Memory of the Holy Seven Maccabee Martyrs
 
-<!-- LEAF: p94 -->
+=== LEAF p94 ===
 
 [Book Page 186]
 
@@ -89,7 +89,7 @@ Month — 187 — August
 ☞ *If the 1st day of August occur on a Sunday: we sing the entire service as is sung on September the 14th day on Sunday with the Indiction and the Venerable Symeon.*  
 ☞ *Look: In the evening on that same day (the 1st of August), after the dismissal of Vespers, the Precious Cross is carried back in, the priest being vested in the phelonion and the deacon in the sticharion with candles and censer, singing the troparion:* **"Save, O Lord..."**; *and the kontakion:* **"Thou Who wast lifted up upon the Cross..."** (*Вознесы́йся на Кре́стъ...*); *and it is placed upon the Holy Table.*[^210]
 
-<!-- LEAF: p95 -->
+=== LEAF p95 ===
 
 [Book Page 188]
 
@@ -108,7 +108,7 @@ PART II,
 CONTAINING THE ORDER PERTAINING TO THE TRIODION:
 FROM THE SUNDAY OF THE PUBLICAN AND PHARISEE EVEN UNTO THE 2ND SUNDAY AFTER THE DESCENT OF THE HOLY SPIRIT.[^212]
 
-<!-- LEAF: p96 -->
+=== LEAF p96 ===
 
 [Book Page 190]
 
@@ -130,7 +130,7 @@ FROM THE SUNDAY OF THE PUBLICAN AND PHARISEE EVEN UNTO THE 2ND SUNDAY AFTER THE 
 *After Psalm 50 immediately the Penitential stichera are sung: Glory, 1st sticheron Tone 8:* **"Open to me the doors of repentance, O Giver of Life..."** (*Покая́нїя ѿве́рзи ми две́ри, Жизнода́вче...*); *Now and ever, Theotokion:* **"Make straight the paths of salvation..."** (*На спасе́нїя стезѝ...*); *Then the refrain:* **"Have mercy on me, O God, according to Thy great mercy..."** (*Поми́лꙋй мя̀, Бо́же, по вели́цѣй ми́лости Твое́й...*); *and the sticheron, Tone 6:* **"When I ponder the multitude of evil deeds..."** (*Мно́жество содѣ́янныхъ...*). [*And these stichera are sung from the Sunday of the Publican and Pharisee even unto the 5th Sunday of the Holy Great Fast.* **"Jesus having risen from the tomb..."** (*Воскре́съ І҆исꙋ́съ ѿ гро́ба...*) *is not sung]. Canons 4, that is to say: the 1st Sunday Resurrection from the Octoechos with the Heirmos to 4; Cross-Resurrection without Heirmos to 2; Theotokos without Heirmos to 2; 4th of the Triodion without Heirmos to 6. Katavasia after each Ode of the Theotokos:* **"I shall open my mouth..."** (*Ѿве́рзꙋ оу҆ста̀ моя̀...*). *After the 3rd Ode, Sunday Resurrection kontakion and ikos, and Sessional Hymn of the Triodion; Glory, now and ever, Theotokion. After the 6th Ode, kontakion and ikos of the Triodion. After the 8th Ode:* **"My soul doth magnify the Lord..."** (*Вели́читъ дꙋша̀ моя̀ Го́спода...*); *after the 9th Ode:* **"Holy is the Lord our God..."** (*Свѧ́тъ Госпо́дь Бо́гъ на́шъ...*); *and Sunday Resurrection Exapostilarion; Glory, of the Triodion; now and ever, Theotokion in the same place. At the Praises, Sunday Resurrection stichera of the Octoechos 4; and of the Triodion idiomela 4, Tone 1:* **"Let us not pray as the Pharisee..."** (*Не помо́лимся фарисе́йски...*); *and:* **"The Pharisee through vainglory..."** (*Фарисе́й тщесла́вїемъ...*), *written at Vespers, and in the Triodion at the Praises, with the verses:* **"Arise, O Lord my God..."** (*Воскреснѝ, Го́споди Бо́же мо́й...*); *and:* **"I will confess Thee..."** (*И҆сповѣ́мся Тебѣ̀...*); *Glory, of the Triodion; now and ever:* **"Most blessed art thou..."** (*Преблагослове́нна є҆сѝ...*). *After the Doxology, Sunday Resurrection troparion only one of the two; Ectenes and the Dismissal.*[^214]  
 *It is necessary to know: That all 11 Matins Gospel stichera, from this current Sunday even until All Saints, are sung after the dismissal of Matins, at Glory, now and ever. At the Hours: at the 1st, Sunday Resurrection troparion, and kontakion from the Triodion; at the 3rd, the same likewise; at the 6th, Sunday Resurrection troparion; Glory, troparion of the temple, and*
 
-<!-- LEAF: p97 -->
+=== LEAF p97 ===
 
 [Book Page 192]
 
@@ -157,7 +157,7 @@ FROM THE SUNDAY OF THE PUBLICAN AND PHARISEE EVEN UNTO THE 2ND SUNDAY AFTER THE 
 *On Friday evening, after the customary ectene, and after the Prooemiac Psalm [Psalm 103], and after the Kathisma: at* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *we set 6 stichera, and sing of the Octoechos 3 of the Martyrs, and of the Triodion 3 prosomoia. Instead of the Prokeimenon, we sing Alleluia in Tone 8, with the verses:* **"Blessed are they whom Thou hast chosen..."** (*Блаже́ни, я҆́же и҆збра́лъ...*); *and:* **"Their souls shall dwell among good things..."** (*Дꙋ́шы и҆́хъ во благи́хъ...*); *and the rest. After* **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): *Troparion:* **"With depth of wisdom..."** (*Глꙋбино́ю мꙋ́дрости...*); *Glory, now and ever, Theotokion:* **"Thee we have as a rampart..."** (*Тебѐ и҆ стѣ́нꙋ...*). *Ectene:* **"Have mercy on us, O God..."**; **"Again we pray for the most holy..."**; *and the Dismissal. After the dismissal of Vespers we perform a Panakhyda for the reposed.*[^217]  
 *At Compline after "It is truly right": Kontakion:* **"With the Saints give rest..."** (*Со святы́ми оу҆поко́й...*). *At Matins, after the Six Psalms, the customary ectene. Then immediately we sing Alleluia in Tone 8, and say the verses; Troparion:* **"With depth of wisdom..."**; *Glory, now and ever, Theotokion:* **"Thee we have as a rampart..."**; *and the customary chanting of the Psalter and Sessional Hymns of the Octoechos. Thereafter the Amomos [Psalm 118] is sung in two Stases with the refrain:* **"Blessed art Thou, O Lord..."** (*Благослове́нъ є҆сѝ, Го́споди...*); *at the end of the verses:* **"Unless Thy law had been my meditation..."** (*Ꙗ҆́кѡ а҆́ще бы не зако́нъ Тво́й...*) *3 times. And after it the Ectene for the Reposed:* **"Again and again in peace let us pray to the Lord."** *Choir:* **"Lord, have mercy"** *3 times.* **"Again we pray for the repose of the souls of the departed servants of God, our forefathers, fathers, and brethren who lie here, and all orthodox"**
 
-<!-- LEAF: p98 -->
+=== LEAF p98 ===
 
 [Book Page 194]
 
@@ -181,7 +181,7 @@ FROM THE SUNDAY OF THE PUBLICAN AND PHARISEE EVEN UNTO THE 2ND SUNDAY AFTER THE 
 ### On Cheesefare Tuesday Evening
 *From the beginning of Vespers, we begin prostrations. After the customary Psalm [Psalm 103], the Kathisma of the cycle. At* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *stichera of the Octoechos 3, and to the Saint 3; Glory, of the Saint, if he has one; if not, Glory, now and ever, Stavrotheotokion. Prokeimenon of the day. Then:* **"Vouchsafe, O Lord..."** (*Сподо́би, Го́споди...*); *and 3 prostrations. At the Aposticha, idiomelon of the Triodion with the customary refrains; Glory, of the Saint, if he has one; if not, Glory, now and ever, Stavrotheotokion. After* **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*) *and after the Trisagion, troparion Tone 4:* **"O Theotokos and Virgin, rejoice..."** (*Богоро́дице Дѣ́во, ра́дꙋйся...*); *and one prostration; Glory:* **"O Baptizer of Christ..."** (*Крести́телю Христо́въ...*); *and a prostration; Now and ever:* **"Intercede for us, O holy Apostles..."** (*Моли́те за ны̀, святи́и а҆по́столи...*); *a prostration;* **"Beneath thy compassion..."** (*Подъ твою̀ ми́лость...*); *without a prostration;* **"Lord, have mercy"** *40 times; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:";* **"More honorable than the Cherubim..."** (*Честнѣ́йшꙋю херꙋвї́мъ...*); **"In the name of the Lord bless, father"** (*И҆́менемъ Госпо́днимъ благословѝ, ѻ҆́тче*). *Priest:* **"Blessed is He Who is, Christ our God..."** (*Сы́й благослове́нъ Христо́съ Бо́гъ на́шъ...*); *and we say the prayer:* **"O Heavenly King..."** (*Царю̀ Небе́сный...*); *and 3 great prostrations with the prayer of Saint Ephrem:* **"O Lord and Master of my life..."** (*Го́споди и҆ Влады́ко живота̀ моегѡ̀...*); *and the rest 12 metanias; and thereafter the prayer all together:* **"O Lord and Master..."**; *and a great prostration; Tri-*
 
-<!-- LEAF: p99 -->
+=== LEAF p99 ===
 
 [Book Page 194 (Facsimile Duplication / Alternate Exposure)]
 
@@ -205,7 +205,7 @@ FROM THE SUNDAY OF THE PUBLICAN AND PHARISEE EVEN UNTO THE 2ND SUNDAY AFTER THE 
 ### On Cheesefare Tuesday Evening
 *From the beginning of Vespers, we begin prostrations. After the customary Psalm [Psalm 103], the Kathisma of the cycle. At* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *stichera of the Octoechos 3, and to the Saint 3; Glory, of the Saint, if he has one; if not, Glory, now and ever, Stavrotheotokion. Prokeimenon of the day. Then:* **"Vouchsafe, O Lord..."** (*Сподо́би, Го́споди...*); *and 3 prostrations. At the Aposticha, idiomelon of the Triodion with the customary refrains; Glory, of the Saint, if he has one; if not, Glory, now and ever, Stavrotheotokion. After* **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*) *and after the Trisagion, troparion Tone 4:* **"O Theotokos and Virgin, rejoice..."** (*Богоро́дице Дѣ́во, ра́дꙋйся...*); *and one prostration; Glory:* **"O Baptizer of Christ..."** (*Крести́телю Христо́въ...*); *and a prostration; Now and ever:* **"Intercede for us, O holy Apostles..."** (*Моли́те за ны̀, святи́и а҆по́столи...*); *a prostration;* **"Beneath thy compassion..."** (*Подъ твою̀ ми́лость...*); *without a prostration;* **"Lord, have mercy"** *40 times; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:";* **"More honorable than the Cherubim..."** (*Честнѣ́йшꙋю херꙋвї́мъ...*); **"In the name of the Lord bless, father"** (*И҆́менемъ Госпо́днимъ благословѝ, ѻ҆́тче*). *Priest:* **"Blessed is He Who is, Christ our God..."** (*Сы́й благослове́нъ Христо́съ Бо́гъ на́шъ...*); *and we say the prayer:* **"O Heavenly King..."** (*Царю̀ Небе́сный...*); *and 3 great prostrations with the prayer of Saint Ephrem:* **"O Lord and Master of my life..."** (*Го́споди и҆ Влады́ко живота̀ моегѡ̀...*); *and the rest 12 metanias; and thereafter the prayer all together:* **"O Lord and Master..."**; *and a great prostration; Tri-*
 
-<!-- LEAF: p100 -->
+=== LEAF p100 ===
 
 [Book Page 196]
 

@@ -1,0 +1,33 @@
+[^49]: Folio 38v — Paleographical Apparatus: Paper Damage and Physical Reconstruction. On Leaf p41 (Folios 38v and 39r), the lower inner and outer margins have suffered physical loss, attrition, and rodent or moisture damage. Standard liturgical restorations for the Tone 2 Sunday Midnight Office conclusion, Sessional Hymns (Sedalna), and Anabathmoi Antiphons are supplied in editorial square brackets `[...]` adhering to epigraphic paleographical standard MTS-1.
+
+[^50]: Folio 39r — Liturgical Apparatus: Tone 2 Sunday Matins Anabathmoi and Resurrectional Prokeimenon. The Gradual Antiphons of Tone 2 (*"На небо очи пущаю моего сердца..."*, LXX Psalm 122:1; *"Аще не Господь бы былъ въ насъ..."*, LXX Psalm 123:1; *"Надѣющіися на Господа..."*, LXX Psalm 124:1) culminate in the Sunday Matins Prokeimenon from LXX Psalm 9:33 (*"Воскресни, Господи Боже мой..."*).
+
+[^51]: Folio 39r — Codicological and Typographical Structure: Canon Selection and Abridgement. Tone 2 Sunday Matins features the Resurrectional Canon by Saint John of Damascus (*"Во глубинѣ потопи древле..."*) paired with the Cross-Resurrectional Canon (*"Нетренну не обычну..."*). The 1630 Lviv print sets Ode 1 on Folio 39r, then transitions directly across the leaf to Folio 39v where the pre-Kontakion Theotokion of Ode 6 leads immediately into the Resurrectional Kontakion and Ikos, followed by Odes 7, 8, and 9. Physical continuity of Leaf 39 (recto on p41, verso on p42) proves this is the intended typographic layout rather than a missing gathering.
+
+[^52]: Folio 39v — Hymnographic Realia: Sunday Resurrectional Kontakion and Ikos in Tone 2. Composed by Saint Romanos the Melodist, the Kontakion (*"Воскреслъ еси отъ гроба, Спасе всесильне..."*) and Ikos (*"Ты еси свѣтъ омраченнымъ..."*) proclaim Christ's descent into Hades, the shattering of the infernal gates, and the liberation of Adam and all humanity.
+
+[^53]: Folio 40r — Typikon Rubrics: Tone 2 Sunday Matins Ode 8 and 9 Heirmoi. The Heirmoi of Odes 8 (*"Пещь огненная иногда въ Вавулонѣ..."*) and 9 (*"Безначална Родителя и Господь..."*) frame the concluding glorification of the Incarnation, contrasting the Three Youths in the Babylonian furnace with the immaterial light revealed in Christ.
+
+[^54]: Folio 40v — Codicological Apparatus: Omission of Printed Folio 41. In this exemplar, printed Folio 42 (`мв҃`) immediately follows Folio 40v (`м`), omitting Folio 41 (`ма҃`) in the printed foliation numbering sequence. The liturgical text is strictly continuous without omission or lacuna between the conclusion of Tone 2 Sunday Matins Ode 9 on Folio 40v and the Sunday Praises (*"Всяко дыханіе..."*) on Folio 42r.
+
+[^55]: Folio 40v — Hymnographic Apparatus: Sunday Praises (Ainoi / Lauds) and Eastern Stichera. The Praises in Tone 2 open with the Resurrectional Stichera (*"Всяко дыханіе и вся тварь..."*), followed by the Anatolian (Eastern) Stichera recounting the Myrrh-bearing women at the sepulchre and the angelic proclamation of the Resurrection.
+
+[^56]: Folio 42r — Liturgical Structure: Sunday Divine Liturgy Beatitudes (Makarismoi). Folio 42r introduces the Sunday Beatitudes in Tone 2 (*"Гласъ Ти приносимъ разбойничь..."*), commemorating the confession of the Good Thief and linking the Cross to Paradise.
+
+[^57]: Folio 42r — Typikon Rubrics: Sunday Vespers for Monday (Incipient Weekday Cycle). Following the Divine Liturgy Beatitudes, Folio 42r initiates Sunday evening Vespers for Monday (*"Въ Недѣлю, въ вечеръ, на Господи, воззвахъ..."*) with Penitential Stichera (*"Имѣяй благоутробія источникъ..."*) modeled on the Podoben *"Егда отъ древа"*.
+
+[^58]: Folio 42v — Hymnographic Apparatus: Monday Midnight Office and Vespers Stichera to the Bodiless Powers. The liturgical cycle transitions to the weekly commemoration of the Holy Angels and Bodiless Hosts (*"Престоли, Херувими, и Серафими..."*), invoking the nine angelic ranks as unceasing celebrants around the Divine Throne.
+
+[^59]: Folio 43r — Typikon Rubrics: Monday Matins Kathisma Sessional Hymns (Sedalna). Monday Matins features Penitential Sessional Hymns after the 1st and 2nd Kathismata (*"Яко волны морскія восташа на мя..."*, *"Помилуй мя, рече Давидъ..."*), focusing on personal compunction and comparing the penitent's plight to the barren fig tree and David's repentance.
+
+[^60]: Folio 43r — Hymnographic Realia: Monday Matins Canon of Repentance and Canon to the Bodiless Hosts. Monday Matins features the Penitential Canon (*"Грядите, людіе, поемъ пѣснь Христу Богу..."*) paired with the Canon to the Incorporeal Hosts by Saint Theophanes the Branded (*"Твореніе Ѳеофаново"*, Heirmos *"Нетренну, необычну..."*).
+
+[^61]: Folio 46r — Typikon Rubrics: Monday Matins Aposticha and Monday Vespers for Tuesday. Concluding the Monday cycle with the Aposticha (*"Содѣянныхъ моихъ золъ помышляю безмѣстная..."*), Folio 46r transitions to Monday evening Vespers for Tuesday (*"Въ понедѣлокъ въ вечеръ, на Господи, воззвахъ..."*), initiating the weekly commemoration of Saint John the Forerunner and Baptist.
+
+[^62]: Folio 46v — Hymnographic Realia: Tuesday Vespers Stichera to Saint John the Baptist. Dedicated to the Precursor and Baptist of the Lord (*"Проповѣдниче Христовъ и Крестителю..."*), highlighting John as angel, apostle, martyr, prophet, friend of the Bridegroom, and seal of the Prophets bridging the Old and New Covenants.
+
+[^63]: Folio 46v — Typikon Rubrics: Tuesday Matins Kathisma Sessional Hymns. Tuesday Matins continues the cycle of repentance while weaving in petitions to the Forerunner, Apostles, and Martyrs (*"Апостоли, Пророцы, и Мученицы..."*).
+
+[^64]: Folio 47r — Hymnographic Realia: Tuesday Matins Canon of Compunction and Canon to the Forerunner by Saint Joseph the Hymnographer. Tuesday Matins pairs the Penitential Canon of Compunction (*"Канонъ умиленія, Твореніе Іѡсифово"*, Heirmos *"Моѵсейскую пѣснь воспріимши..."*) with the Canon to the Holy Forerunner (*"Инъ канонъ Предтечи, Твореніе Іѡсифово"*, Heirmos *"Во глубинѣ потопи древле..."*).
+
+[^65]: Folio 49r — Paleographical Apparatus: Colophon and Transition to Tuesday Canon Odes 7–9. Folio 49r presents the concluding troparia of Ode 6 and the opening of Ode 7 for Tuesday Matins, bearing the catchword *"въ втор[окъ]"* indicating continuity into the completion of the Tuesday Matins hymnody in Cohort 6.

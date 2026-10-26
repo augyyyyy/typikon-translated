@@ -1,69 +1,112 @@
 {
-  "timestamp": "2026-10-04T19:04:13.931379+00:00",
+  "timestamp": "2026-10-24T22:51:33.562695+00:00",
   "monument_id": "1891_lviv_synod",
   "cohort": 7,
-  "target_file": "1891_synod_cohort7.md",
-  "overall_status": "PASSED",
+  "target_file": "1891_lviv_synod_cohort7.txt",
+  "overall_status": "FAILED",
   "gates": {
     "vocabulary_linter": {
       "passed": true,
       "violations": []
     },
+    "slop_linter": {
+      "file": "1891_lviv_synod_cohort7.txt",
+      "passed": false,
+      "violation_count": 8,
+      "violations": [
+        {
+          "line": 52,
+          "category": "pseudo_archaic_slop",
+          "pattern": "\\bwherefore\\b",
+          "matched_text": "wherefore",
+          "line_snippet": "public ones, and that offered by sacred ministers in the name of the Church, fulfilling an embassy before God on behalf "
+        },
+        {
+          "line": 112,
+          "category": "pseudo_archaic_slop",
+          "pattern": "\\bwherefore\\b",
+          "matched_text": "Wherefore",
+          "line_snippet": "that it should be commemorated with an annual solemnity throughout the entire Church in the manner of a Feast of the Lor"
+        },
+        {
+          "line": 147,
+          "category": "archaic_rubrical_verb_drift",
+          "pattern": "\\b(?:singeth|proclaimeth|censeth|entereth|maketh|readeth|beginneth|taketh|vesteth|boweth|kisseth|turneth|standeth)\\b",
+          "matched_text": "taketh",
+          "line_snippet": "In this latter case, the Most Holy Gifts immediately after the Liturgy shall be returned unto the Tabernacle until Vespe"
+        },
+        {
+          "line": 155,
+          "category": "archaic_rubrical_verb_drift",
+          "pattern": "\\b(?:singeth|proclaimeth|censeth|entereth|maketh|readeth|beginneth|taketh|vesteth|boweth|kisseth|turneth|standeth)\\b",
+          "matched_text": "taketh",
+          "line_snippet": "Finally, priests must remember that it is never lawful to expose the Most Holy Gifts upon the altar, whether this taketh"
+        },
+        {
+          "line": 182,
+          "category": "pseudo_archaic_slop",
+          "pattern": "\\bwherefore\\b",
+          "matched_text": "wherefore",
+          "line_snippet": "2. The celebration of the Order of the Paraklesis priests are bound to perform properly and accurately, observing always"
+        },
+        {
+          "line": 195,
+          "category": "pseudo_archaic_slop",
+          "pattern": "\\bwherefore\\b",
+          "matched_text": "Wherefore",
+          "line_snippet": "1. Since the modulation of the human voice hath been given unto man by nature, man is bound therewith above all things t"
+        },
+        {
+          "line": 237,
+          "category": "pseudo_archaic_slop",
+          "pattern": "\\bwherefore\\b",
+          "matched_text": "Wherefore",
+          "line_snippet": "3. Wherefore, as to the keeping of feast days, pastors shall direct the attention of the faithful especially unto the ob"
+        },
+        {
+          "line": 260,
+          "category": "archaic_rubrical_verb_drift",
+          "pattern": "\\b(?:singeth|proclaimeth|censeth|entereth|maketh|readeth|beginneth|taketh|vesteth|boweth|kisseth|turneth|standeth)\\b",
+          "matched_text": "beginneth",
+          "line_snippet": "let pastors more frequently remind the faithful of the binding nature of that commandment, and at the same time let them"
+        }
+      ]
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 20
+    },
     "hieratic_pronouns": {
-      "file": "1891_synod_cohort7.md",
+      "file": "1891_lviv_synod_cohort7.txt",
       "passed": true,
       "violations": [],
       "violation_count": 0
     },
     "footnote_symmetry": {
-      "text_file": "1891_synod_cohort7.md",
+      "text_file": "1891_lviv_synod_cohort7.txt",
       "footnotes_file": "1891_lviv_synod_cohort7_footnotes.txt",
-      "passed": true,
-      "text_markers_count": 42,
+      "passed": false,
+      "text_markers_count": 18,
       "definition_markers_count": 42,
       "text_markers": [
-        "[^70]",
-        "[^71]",
-        "[^72]",
-        "[^73]",
-        "[^74]",
-        "[^75]",
-        "[^76]",
-        "[^77]",
-        "[^78]",
-        "[^79]",
-        "[^80]",
-        "[^81]",
-        "[^82]",
-        "[^83]",
-        "[^84]",
-        "[^85]",
-        "[^86]",
-        "[^87]",
-        "[^88]",
-        "[^89]",
-        "[^90]",
-        "[^91]",
-        "[^92]",
-        "[^93]",
-        "[^94]",
-        "[^95]",
-        "[^96]",
-        "[^97]",
-        "[^98]",
-        "[^99]",
-        "[^100]",
-        "[^101]",
-        "[^102]",
-        "[^103]",
-        "[^104]",
-        "[^105]",
-        "[^106]",
-        "[^107]",
-        "[^108]",
-        "[^109]",
-        "[^110]",
-        "[^111]"
+        "[^123]",
+        "[^124]",
+        "[^125]",
+        "[^126]",
+        "[^127]",
+        "[^128]",
+        "[^129]",
+        "[^130]",
+        "[^131]",
+        "[^132]",
+        "[^133]",
+        "[^134]",
+        "[^135]",
+        "[^136]",
+        "[^137]",
+        "[^138]",
+        "[^139]",
+        "[^140]"
       ],
       "definition_markers": [
         "[^70]",
@@ -109,14 +152,76 @@
         "[^110]",
         "[^111]"
       ],
-      "missing_definitions": [],
-      "orphaned_definitions": []
+      "missing_definitions": [
+        "[^123]",
+        "[^124]",
+        "[^125]",
+        "[^126]",
+        "[^127]",
+        "[^128]",
+        "[^129]",
+        "[^130]",
+        "[^131]",
+        "[^132]",
+        "[^133]",
+        "[^134]",
+        "[^135]",
+        "[^136]",
+        "[^137]",
+        "[^138]",
+        "[^139]",
+        "[^140]"
+      ],
+      "orphaned_definitions": [
+        "[^70]",
+        "[^71]",
+        "[^72]",
+        "[^73]",
+        "[^74]",
+        "[^75]",
+        "[^76]",
+        "[^77]",
+        "[^78]",
+        "[^79]",
+        "[^80]",
+        "[^81]",
+        "[^82]",
+        "[^83]",
+        "[^84]",
+        "[^85]",
+        "[^86]",
+        "[^87]",
+        "[^88]",
+        "[^89]",
+        "[^90]",
+        "[^91]",
+        "[^92]",
+        "[^93]",
+        "[^94]",
+        "[^95]",
+        "[^96]",
+        "[^97]",
+        "[^98]",
+        "[^99]",
+        "[^100]",
+        "[^101]",
+        "[^102]",
+        "[^103]",
+        "[^104]",
+        "[^105]",
+        "[^106]",
+        "[^107]",
+        "[^108]",
+        "[^109]",
+        "[^110]",
+        "[^111]"
+      ]
     },
     "structural_sequence": {
-      "file": "1891_synod_cohort7.md",
-      "passed": true,
-      "paragraphs": 185,
-      "headings_count": 16,
+      "file": "1891_lviv_synod_cohort7.txt",
+      "passed": false,
+      "paragraphs": 190,
+      "headings_count": 15,
       "headings": [
         {
           "line": 1,
@@ -126,7 +231,7 @@
         {
           "line": 2,
           "level": 2,
-          "title": "Tier 1 (The Calibration Anchor) — Cohort 7: Physical Pages 81–100 (Leaves p81–p100)"
+          "title": "Cohort 7: Physical Pages 121–140 (Leaves p121–p140 / Book pp. 119–136)"
         },
         {
           "line": 22,
@@ -134,69 +239,84 @@
           "title": "Table of Contents"
         },
         {
-          "line": 39,
-          "level": 2,
-          "title": "1. Decrees of the Ruthenian Provincial Synod: Titulus I. On the Catholic Faith (Continued)"
-        },
-        {
-          "line": 43,
+          "line": 58,
           "level": 3,
-          "title": "Chapter IV: On Communion in Sacred Things with Heretics and Schismatics (Conclusion)"
+          "title": "Chapter IV: On the Celebration of Extraordinary Services, Whereof Some are Bound unto Immovable Feasts, and Others unto Moveable Feasts"
         },
         {
-          "line": 51,
-          "level": 3,
-          "title": "CHAPTER V. On the Censorship of Books"
+          "line": 65,
+          "level": 4,
+          "title": "I."
         },
         {
-          "line": 75,
-          "level": 3,
-          "title": "CHAPTER VI. On the Sect of Freemasons and Other Condemned or Forbidden Societies"
+          "line": 71,
+          "level": 4,
+          "title": "II."
         },
         {
-          "line": 105,
-          "level": 3,
-          "title": "CHAPTER VII. On Preaching the Word of God"
+          "line": 104,
+          "level": 4,
+          "title": "III."
         },
         {
-          "line": 137,
-          "level": 3,
-          "title": "CHAPTER VIII. On the Catechism"
+          "line": 119,
+          "level": 4,
+          "title": "IV."
         },
         {
-          "line": 159,
-          "level": 2,
-          "title": "2. Decrees of the Ruthenian Provincial Synod: Titulus II. On the Mysteries and Their Administration"
+          "line": 127,
+          "level": 4,
+          "title": "V."
+        },
+        {
+          "line": 149,
+          "level": 4,
+          "title": "VI."
+        },
+        {
+          "line": 153,
+          "level": 4,
+          "title": "VII."
         },
         {
           "line": 163,
-          "level": 3,
-          "title": "Preamble: Mandate for the Official Ruthenian Trebnik"
+          "level": 4,
+          "title": "VIII."
         },
         {
-          "line": 171,
+          "line": 193,
           "level": 3,
-          "title": "CHAPTER I. On the Holy Mystery of Baptism"
+          "title": "Chapter V: On Church Singing"
         },
         {
-          "line": 191,
+          "line": 222,
           "level": 3,
-          "title": "CHAPTER II. On the Holy Mystery of Chrismation"
+          "title": "Chapter VI: On the Celebration of Feast Days"
         },
         {
-          "line": 205,
-          "level": 3,
-          "title": "CHAPTER III. On the Most Holy Mystery of the Eucharist"
-        },
-        {
-          "line": 239,
-          "level": 3,
-          "title": "CHAPTER IV. On the Mystery of Repentance"
+          "line": 270,
+          "level": 2,
+          "title": "Footnotes"
         }
       ],
-      "numbered_items_count": 45,
-      "number_breaks": [],
+      "numbered_items_count": 31,
+      "number_breaks": [
+        "Jump from 4 to 6"
+      ],
+      "leaf_stats": {
+        "leaves_count": 20,
+        "min_leaf": 121,
+        "max_leaf": 140
+      },
       "anomalies": []
     }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 1 - 1891 Lviv Synod\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [
+      140
+    ],
+    "total_queued_leaves": 1,
+    "unresolved_quarantines": 0
   }
 }

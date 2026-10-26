@@ -252,10 +252,13 @@ After the exclamation, the deacons return through their doors into the sanctuary
 
 2. For the Entrance, all go out, having made a small bow, through the northern doors; they lower their phelons and hands down and stand, in front – the younger ones, in a double row before the holy doors, facing one another, and the principal celebrant stands in the middle, behind all, and recites the Prayer of the Entrance himself (see no. 34)
 
-[Diagram: At the Entrance]
-[Left Column] 6 ... 4 ... 2
-[Center] C (Celebrant) | D (Deacon)
-[Right Column] 5 ... 3 ... 1
+| Left Concelebrants | Center | Right Concelebrants |
+| :---: | :---: | :---: |
+| 6 | D (Deacon) | 5 |
+| 4 | | 3 |
+| 2 | C (Celebrant) | 1 |
+
+*At the Entrance*
 
 After the call of the Deacon "Wisdom, arise," all enter immediately after the Deacon through the holy doors and take their places on the sides of the holy table. During the censing of the holy table by the Deacon, the concelebrating priests move away slightly from it.
 
@@ -391,10 +394,15 @@ Everything else takes place as presented in the rubric of Vespers with Vigil in 
 
 2. Then, during the procession at the Litiya, all make a small bow before the holy table and go out, in front – the younger ones, whether through the northern, or, if there exists a custom, through the holy doors, having lowered their phelons and hands down. In the narthex or at the place near the church doors they stand in two rows, one beside the other, and the principal celebrant – in the middle, behind all. The Deacon or deacons stand near the principal celebrant
 
-[Diagram: At the Narthex]
-[Left Column] Candle-bearer ... 6 ... 4 ... 2
-[Center] Celebrant ... Deacon
-[Right Column] Candle-bearer ... 5 ... 3 ... 1 ... Concelebrants
+| Left Side (Concelebrants) | Center | Right Side (Concelebrants) |
+| :---: | :---: | :---: |
+| Candle-bearer | | Candle-bearer |
+| 6 | | 5 |
+| 4 | | 3 |
+| 2 | | 1 |
+| **Celebrant** | | **Deacon** |
+
+*In the Narthex*
 
 If only one deacon censes, then, having censed the icons in the narthex, he censes first the principal celebrant, then – the concelebrants on the right, and finally those standing to the left of the principal celebrant. If both deacons cense, each censes those standing on his side. If there are no deacons, the principal celebrant censes the concelebrants, beginning from those standing on his right hand.
 
@@ -402,11 +410,15 @@ The exclamation "Hear us, O God" is exclaimed by the principal celebrant.
 
 3. At the blessing of loaves, the concelebrants are arranged thus:
 
-[Diagram: At the Blessing of Loaves]
-[Left Column] Candle-bearer ... Concelebrants ... 6 ... 4 ... 2
-[Center] TETRAPOD
-[Right Column] Candle-bearer ... Concelebrants ... 5 ... 3 ... 1
-[Bottom] Celebrant ... Deacon
+| Left Side (Concelebrants) | Center | Right Side (Concelebrants) |
+| :---: | :---: | :---: |
+| Candle-bearer | | Candle-bearer |
+| 6 | | 5 |
+| 4 | **TETRAPOD** | 3 |
+| 2 | | 1 |
+| **Celebrant** | | **Deacon** |
+
+*At the Blessing of Loaves*
 
 After the blessing of loaves, all go in a double row, in front – the younger ones, to the iconostasis and stand before the solea, and the celebrant approaches the holy doors and blesses the people: "The blessing of the Lord be upon you." After the dismissal, the concelebrating priests return with the younger ones in front into the sanctuary and, having made a small bow before the throne, depart; after this they take off the sacred vestments (see no. 60 and no. 36, note).
 
@@ -418,7 +430,7 @@ After the blessing of loaves, all go in a double row, in front – the younger o
 
 ### In Concelebration of One Deacon
 
-1. If before this there was no Vigil, then Matins begins thus[^764]:
+1. If before this there was no Vigil, then Matins begins thus:[^764]
 
 2. The Priest puts on the ryasa the epitrachelion, having previously blessed it, goes before the holy doors and begins: "Blessed is our God."
 
@@ -436,7 +448,7 @@ After the blessing of loaves, all go in a double row, in front – the younger o
 
 "In the name of the Lord, bless, father."
 
-The Priest exclaims[^765]: "Glory to the Holy, Consubstantial."
+The Priest exclaims:[^765] "Glory to the Holy, Consubstantial."
 
 > **Choir**: "Amen,"
 
@@ -590,11 +602,15 @@ After the anointing, he returns through the holy doors into the sanctuary and ta
 
 1. Concelebrants, in an even number, put on epitrachelia over their ryasas and put on phelons during the reading of the Kathisma and stand on the sides of the holy table, as at Vespers (see no. 50). During the singing of the Polyeleos, all go out, having made a small bow, through the holy doors, having lowered the phelonion and hands down, in front – the younger ones. Two first ones carry the icon of the feast or saint, if it has not yet been placed on the left side of the tetrapod between both choirs, and place it on the tetrapod; all stand on the sides of the tetrapod in two rows, facing one another, the principal celebrant stands in the middle before the tetrapod, and to his right – the Deacon
 
-[Diagram: At the Magnification]
-[Left Column] Candle-bearer ... 6 ... 4 ... 2 ... Concelebrants
-[Center] TETRAPOD
-[Right Column] Candle-bearer ... 5 ... 3 ... 1 ... Concelebrants
-[Bottom] Celebrant ... Deacon
+| Left Side (Concelebrants) | Center | Right Side (Concelebrants) |
+| :---: | :---: | :---: |
+| Candle-bearer | | Candle-bearer |
+| 6 | | 5 |
+| 4 | **TETRAPOD** | 3 |
+| 2 | | 1 |
+| | **Celebrant** &nbsp;&nbsp; **Deacon** | |
+
+*At the Magnifications*
 
 2. Then all sing the Magnification. When the Choir repeats the Magnification, the Priest, preceded by the Deacon with a lighted candle, censes from four sides the icon of the feast or saint on the tetrapod, the holy table, the sanctuary, the iconostasis, the concelebrants, both choirs, the people and once more the icon of the feast, but only from the front. If, however, the usual censing takes place before the Gospel, then at the Magnification the Priest censes only the icon itself
 
@@ -652,15 +668,13 @@ and again the Magnification. Then the celebrant and concelebrants sing the Magni
 
 At Paschal Matins the censing takes place with special solemnity. The servers, having put on the best vestments, as at the Divine Liturgy, go out before the throne in the usual order and make a bow all together. The principal celebrant gives the Gospel to the 1st server, and to the 2nd – the icon of the Resurrection of Christ, He Himself takes the cross with His left hand, and with the right (from the Deacon) – the censer. He censes first the throne, and afterwards – the servers. Then the principal celebrant, having given the censer to the Deacon, stands at his place. All bow before the throne and turn to the east to go out to the narthex. The exit takes place according to the usual order of seniority under the peeling of bells and with the singing of the hymn "Thy Resurrection, O Christ Savior." And the order is such: candle-bearers, priests, deacons with lighted candles, and behind them – the principal celebrant. All are also given lighted candles. In the narthex all stand before the closed church doors, as in the diagram below:
 
-[Diagram: At the Church Doors]
-Church doors
-___________I_______I___________
-Left Kliros ...................................... Right Kliros
-A2 ..................................................... A1
-C4 ..................................................... C3
-C2 ..................................................... C1
-D2                     PC                    D1
-People
+| Left Kliros | Center (Church Doors) | Right Kliros |
+| :---: | :---: | :---: |
+| A2 (Candle-bearer) | | A1 (Candle-bearer) |
+| C4 (Concelebrant) | | C3 (Concelebrant) |
+| C2 (Concelebrant) | | C1 (Concelebrant) |
+| | **D2** &nbsp;&nbsp; **PC (Principal Celebrant)** &nbsp;&nbsp; **D1** | |
+| | *People* | |
 
 Here the principal celebrant takes the censer from the Deacon and censes the icons of the narthex, the kliroses and the people. The Deacon precedes him the entire time with a lighted candle. Then the principal celebrant returns before the doors and censes the Deacon; and then the latter, having taken the censer from the principal celebrant, censes him and immediately gives the censer back to the principal celebrant, who thrice censes the doors and then exclaims: "Glory to the Holy." After "Amen," the principal celebrant with the concelebrants sings thrice "Christ is risen" and the verses "Let God arise," to which the people respond with the song "Christ is risen." After the last "Christ is risen," the principal celebrant opens the doors (Among us he knocks thrice with the cross) and enters the church, and behind him all the servers and people (see no. 71; *Liturgicon*, pp. 141-146).
 
@@ -1237,10 +1251,16 @@ Then the 1st deacon returns to his place and begins "Again and again." After the
 
 6. When the singers, who are singing the third Antiphon or the Beatitudes, reach "Glory" or the last verses of the Beatitudes, the Priest and deacons make three small bows. Then the Priest hands the Holy Gospel to the 1st deacon, and himself lowers the phelonion (see no. 34). The Priest with the 1st deacon go around the holy table from the right side, during which the 2nd Deacon takes the censer, and all go out through the northern doors, preceded by candle-bearers: first goes, censing, the 2nd deacon, then – the 1st deacon, carrying the Holy Gospel, and behind them – the Priest. Having approached the holy doors, the candle-bearers stand on opposite sides: one – near the icon of the Theotokos, and the other – near the icon of the Savior, the 1st deacon – on the right, and the 2nd – on the left side, and the Priest stands in the middle behind them
 
-[Diagram: At the Little Entrance]
-[Left Column] 6 ... 4 ... 2
-[Center] D.2 ... D.1 ... Priest
-[Right Column] 5 ... 3 ... 1
+| Left Side | Center | Right Side |
+| :---: | :---: | :---: |
+| Candle-bearer | | Candle-bearer |
+| 6 | | 5 |
+| 4 | | 3 |
+| 2 | | 1 |
+| | **D.2** &nbsp;&nbsp;&nbsp;&nbsp; **D.1** | |
+| | **Priest** | |
+
+*Before the Little Entrance*
 
 The first Deacon says: "Let us pray to the Lord," and the Priest recites quietly the Prayer of the Entrance. After the completion of the prayer the 1st deacon, pointing with his right hand to the east, says to the
 
@@ -1630,17 +1650,35 @@ Other exclamations are taken by the concelebrants in turn. To better maintain or
 
 all enter behind the Deacon through the holy doors into the sanctuary and occupy their places near the holy table.
 
-[Diagram: Before the Little Entrance, before the Holy Doors]
-[Left Column] Candle-bearer ... 6 ... 4 ... 2 ... Concelebrants
-[Right Column] Candle-bearer ... 5 ... 3 ... 1 ... Concelebrants
-[Bottom] Celebrant ... Deacon
+| Left Side (Concelebrants) | Center | Right Side (Concelebrants) |
+| :---: | :---: | :---: |
+| Candle-bearer | | Candle-bearer |
+| 6 | | 5 |
+| 4 | | 3 |
+| 2 | | 1 |
+| **Celebrant** | | **Deacon** |
+
+*Before the Little Entrance, before the Holy Doors*
 
 10. The concelebrants sit near the High Throne in the same order in which they stand at the throne, that is, those who stand to the right of the principal celebrant sit to his right, and those on the left side – sit to the left
 
-[Diagram: At the High Throne]
-[Left] 2 ... 4 ... 6
-[Center] D (High Place)
-[Right] 1 ... 3 ... 5
+| Left Side (Concelebrants) | Center | Right Side (Concelebrants) |
+| :---: | :---: | :---: |
+| 6 | | 5 |
+| 4 | | 3 |
+| 2 | | 1 |
+| **Celebrant** | | **Deacon** |
+
+*At the Holy Table*
+
+| Left Side | Center | Right Side | Far Right |
+| :---: | :---: | :---: | :---: |
+| | **[HP (High Place)]** | | |
+| 2 | | 1 | |
+| 4 | | 3 | |
+| 6 | | 5 | D (Deacon) |
+
+*At the High Place*
 
 11. During the reading of the Gospel all remain in their places, looking towards the ambo or the place from which the Gospel is read
 
@@ -2002,3 +2040,73 @@ The rest takes place just as at the Liturgy of Chrysostom.
 - The principal celebrant exclaims: "For to Thee belongs," "For a merciful," "According to the gift of Thy Christ," "For Thou Art our sanctification." Other exclamations are exclaimed by concelebrants in turn.
 
 - At "Let my prayer be set forth" concelebrants remain in their places, stepping back slightly from the holy table when the principal celebrant needs to pass, together with the principal [celebrant] they bend their knees and rise.
+
+---
+
+### Notes
+
+[^753]: The translation from Latin was made according to the edition: Ordo Celebrationis vesperarum, matutini et Divinae Liturgiae iuxta recensionem rutenorum, Sacra Congregatio pro Ecclesia Orientali, Roma 1953.
+
+[^754]: Ed. note. In ancient times, "Royal Doors" referred to those doors that led from the narthex to the temple, for at them the Patriarch met the Emperor. Later this name was applied with improper meaning to the middle doors of the iconostasis. In the rubrics of modern Greek liturgical books, "holy doors" are given (see Akolouthia tou Esperinou kai tou Orthrou, Roma 1950, p. 16), therefore we also consistently correct "Royal Doors" to "Holy Doors" everywhere in this Typikon.
+
+[^755]: According to our custom, the holy doors remain open already after the carrying out of the Shroud [Epitaphios].
+
+[^756]: Only one prayer of the current tone should be read throughout the whole week (Lviv Synod, App. XXX, I, p. 392).
+
+[^757]: The Small Litany is usually not taken (see Lviv Synod, App. XXXVI, p. 472).
+
+[^758]: Also -- the cross, if it be behind the throne (see no. 149).
+
+[^759]: He does not make the sign of the cross with the Gospel.
+
+[^760]: Pre-festive days do not introduce any changes into the dismissal. In the Afterfeast, attention should be paid to such changes: 1. The words "resplendent feast" and "light" are omitted. 2. On Wednesday and Friday "cross" is not mentioned: "by the power of the precious and life-giving Cross." 3. If there be a temple of a Feast of the Lord (Nativity, etc.), then outside the feast the usual dismissal is taken, without the mention of the temple feast. 4. On Sunday, the dismissal of the feast is completely left aside and only the Sunday dismissal is taken, and on other days, until the very Apodosis, the dismissal of the feast is taken again. 5. On the Apodosis of the feast, the words "whose feast we give away today" are not added. Likewise on daily dismissals "whose temple it is" or "whose day it is" is omitted, for this is -- rubric explanations (see St. Josaphat, "Rules for Priests," no. 20).
+
+[^761]: If there be readings, see no. 233.
+
+[^762]: Before the Litiya entrance there is no censing of either the throne, or the iconostasis, or the people. It will take place only in the narthex.
+
+[^763]: These gifts are arranged according to such a scheme so that the blessing of the priest depicts upon them the sign of the cross: loaf • wine • • oil • wheat.
+
+[^764]: The initial part "for the emperors" we do not take, we omit. At Matins in the shortened form, the priest, having censed according to the rubric, exclaims before the holy doors: "Glory to the Holy" and remains there to recite the Matins Prayers. There will be no censing during the reading of the psalms. Generally censing takes place thus: -- there will be no censing at Daily Matins and when Great Matins follows immediately after a Vigil; -- if Matins is celebrated separately, the priest or deacon censes as usual (see *Liturgicon*, Rome 1952, pp. 52, 88, 130).
+
+[^765]: From here Matins in the shortened form begins.
+
+[^766]: The Lviv Synod established such an order of recitation: "From the Six Psalms, only one psalm should be read in turn daily, namely: on Monday -- the first in order, on Tuesday -- the second, on Wednesday -- the third, on Thursday -- the fourth, on Friday -- the fifth, on Saturday -- the sixth, on Sunday -- again the sixth" (App. no. XXX, IV. Matins, p. 393).
+
+[^767]: Such a shortening is generally practiced, therefore we present it here as an appendix.
+
+[^768]: If a larger number of communicants is expected, then the priest places a larger number of particles on the diskos, and on them places the Lamb (see no. 230).
+
+[^769]: He holds the book vertically.
+
+[^770]: He does not make the sign of the cross with the book, but only lifts it up.
+
+[^771]: After the reading, neither the deacon nor the priest blesses the people with the holy book.
+
+[^772]: This part is shortened thus: Deacon: "Only the faithful, again and again in peace let us pray to the Lord." Choir: "Lord, have mercy." The priest reads the Second Prayer of the Faithful, for the first is very similar in content to the prayer "No one is worthy."
+
+[^773]: This time the table of oblation is not censed, for it will be censed later, before the Great Entrance (see nos. 9, 20, 149, 157).
+
+[^774]: The shape of current diskoses does not allow fulfilling this requirement, therefore the deacon holds the diskos in his hands.
+
+[^775]: The priest does not bless the people with the chalice, for there are no consecrated Gifts in it yet (see St. Josaphat, "Rules for Priests," S. Josaphat Hieromartyr; Documenta Beatifications et canonizations, I, 235. Lviv Synod, "Appendix", 1897, § IV, "Holy Liturgy," p. 217).
+
+[^776]: The deacon stands to the left and together with the priest recites the dialogue, and then goes out through the northern doors, as is specified in no. 132.
+
+[^777]: He does not make the sign of the cross with the *aer* nor kiss the throne.
+
+[^778]: The rite of pouring warm water is not an absolute requirement (see no. 183). The Lviv Synod abolished it "for a significant reason" ("Appendix" 1897, § IV, p. 218).
+
+[^779]: He holds the book vertically and thus makes the sign of the cross (see no. 119).
+
+[^780]: This prayer is not read before the icon of the Savior, because it is -- "behind the ambo". Its content is directed to the "Father of Lights" (not to Christ), and the conclusion -- Trinitarian.
+
+[^781]: Here neither the deacon nor the priest (when serving alone) makes the sign of the cross with the book of the Holy Gospel, but only lifts it up (a sign for attention).
+
+[^782]: In the shortened form this part is not taken. Deacon exclaims: "Only the faithful, again and again in peace let us pray to the Lord".
+
+[^783]: No participation of all in the exit is required (see nos. 211 and 213).
+
+[^784]: Form of current diskoses does not allow to fulfill this requirement, therefore the deacon holds the diskos in his hands.
+
+[^785]: I corrected it (Dutka Ivan), because here it was written "does not happen", but this is an incorrect translation.

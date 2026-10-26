@@ -1,6 +1,6 @@
 ---
 
-[Leaf p381 / Page 379]
+=== LEAF p381 ===
 
 6. Great Dismissal, with the commemoration of the Fathers.
 
@@ -25,7 +25,7 @@ All according to the Typikon of the Sunday of the Prodigal Son, here on p. 362.
 
 ---
 
-[Leaf p382 / Page 380]
+=== LEAF p382 ===
 
 #### At Cheesefare Sunday at Vespers
 
@@ -39,7 +39,7 @@ All according to the Typikon of the Sunday of the Prodigal Son, here on p. 362.
 
 ---
 
-[Leaf p383 / Page 381]
+=== LEAF p383 ===
 
 6. Aposticha of the Triodion with the usual refrains of the Horologion; only if there is a **"Glory..."** of the Saint, then the Theotokion will be the usual one according to the Tone of the Doxastikon.
 7. After **"Now lettest Thou"** (*Нынѣ отпущаеши*) and the Trisagion with 3 small bows, we sing 3 Troparia with prostrations, namely: **"O Virgin Mother of God"** (*Богородице Дѣво*), and a prostration; **"Glory..."**, **"O Baptist of Christ"** (*Крестителю Христовъ*), and a prostration; **"Both now..."**, **"Intercede for us"** (*Молите о насъ*), and a prostration; then **"Beneath thy compassion"** (*Подъ твою милость*), without a bow.
@@ -50,7 +50,7 @@ We sing Small Compline with penitential bows, that is, 3 small bows at **"Glory 
 
 ---
 
-[Leaf p384 / Page 382]
+=== LEAF p384 ===
 
 -yer of Ephrem,[^515] and the usual 16 at the Prayer of Ephrem; the Canon of the Mother of God, however, we do not omit, since there was no Vigil.
 
@@ -66,7 +66,7 @@ On the first day of the Great Fast we do not make bows at the Midnight Office, e
 
 ---
 
-[Leaf p385 / Page 383]
+=== LEAF p385 ===
 
 #### At Matins
 *Note.* We begin the bows from the Kathismata, and make: 1. at **"Alleluia"** of each **"Glory..."** of the Kathismata, 3 bows;[^517] 2. at **"More honorable than the Cherubim"** (*Честнѣйшую*) of each of the 6 verses of the Canticle of the Mother of God, 1 bow; 3. at **"It is truly right"** (*Достойно есть*), 1 bow; 4. at **"Glory to God in the highest"** (*Слава во вышнихъ Богу*), 3 bows; 5. at the final Trisagion, 3 bows; 6. at the Prayer of Ephrem, 16 bows, that is, 4 great and 12 small.
@@ -80,7 +80,7 @@ On the first day of the Great Fast we do not make bows at the Midnight Office, e
 
 ---
 
-[Leaf p386 / Page 384]
+=== LEAF p386 ===
 
 Tone, sung 3 times, therefore when it is sung the first time, the Commemoration of the weekday Service is attached to it; when the second time with the refrain **"Glory..."**, then the commemoration of All Saints; when the third time with the refrain **"Both now..."**, then the commemoration of the Mother of God. These commemorations are attached where the colon is depicted, namely before **"And save me."**
 4. Three Kathismata with their Sessional Hymns, of which the Sessional Hymns sung after the 1st Kathisma are of the Octoechos of the current Tone, placed also at the end of the Triodion; the Sessional Hymns sung after the 2nd and 3rd Kathisma, however, are of the Triodion.
@@ -90,7 +90,7 @@ The Canons will be only of the Menaion and the Triodion, for according to the Gr
 
 ---
 
-[Leaf p387 / Page 385]
+=== LEAF p387 ===
 
 6, and both Canons of the Triodion for 8, one for 4, and the other for 4; while in certain Odes there will be only one Canon of the Saint for 4; and in the 2nd Ode there will be only 2 Canons of the Triodion for 8, with the Heirmos for 4. This variation in the number of Canons and their Troparia in the Odes arises from this, that the Canons of the Triodion do not occur daily in all Odes, but generally only in three Odes, in the following order:
 On Monday: Ode 1, 8, and 9.
@@ -104,7 +104,7 @@ On Monday: at Odes 1, 8, and 9, 3 Canons for 14; that is, of the Menaion with th
 
 ---
 
-[Leaf p388 / Page 386]
+=== LEAF p388 ===
 
 On Tuesday: at Ode 2, because the Saint does not have this Ode, there will be only two Canons of the Triodion, for 8, and afterwards yet another separate Troparion, and Katavasia the Heirmos of the 2nd Canon of the Triodion; at Odes 8 and 9, 3 Canons for 14, without change just as on Monday. At the other Odes, however, there will be only the Canon of the Menaion for 4, without change just as on Monday.
 On Wednesday: at Odes 3, 8, and 9 there will be 3 Canons, for 14, without change just as at Odes 1, 8, and 9 on Monday; at the other Odes, however, there will be only a single Canon of the Saint for 4, as on Monday.
@@ -116,21 +116,21 @@ Katavasia will always be the Heirmos of the last Canon, whether of the Triodion 
 
 ---
 
-[Leaf p389 / Page 387]
+=== LEAF p389 ===
 
 -naion, the Katavasia of the Menaion will be only after the 3rd and 6th Ode, for at the 8th and 9th a Triodion always occurs, and therefore there will always be the Katavasia of the Triodion.
 A most precise example of the interweaving of the Canticles of the Psalter with the Canticles of the Canon, given at the 1st Canticle in the Moscow Typikon, reads as follows: "After this we begin: **"Let us sing unto the Lord"**, in the Tone of the Canon of the Menaion of the Saint of the day; and they say the Verses of the Canticles quickly, each Choir its own Verse, until they reach **"The deep waters congealed"**, and from that point they begin to maintain the verses for 14; and we sing the Menaion with the Heirmos for 6. And we sing thus: The first Choir says the Verse: **"The deep waters congealed"**, and sings the Heirmos. The second Choir says the second Verse: **"The enemy said"**, and after it the Troparion of the Canon, and in order the verses by Choirs until **"Then did the leaders of Edom make haste"**. From the verse **"Then did the leaders of Edom make haste"** we begin the Triodion of the Lord Joseph for 4. At **"The Lord who reigneth"** we sing the second Triodion of the Lord Theodore the Studite, and one Choir sings a Troparion, while the other Choir sings the second verse, and a Troparion. After this, when the two Choirs have united, they sing: **"Glory..."**, Triadicon in a higher voice; **"Both now..."**, Theotokion. Then we say in the highest voice: **"Glory to Thee, our God, glory to Thee"**, and we sing another Troparion of the Lord Theodore, for the Ode has five Troparia; and at the end we say as Katavasia the Heirmos of the second Canon."[^520]
 
 ---
 
-[Leaf p390 / Page 388]
+=== LEAF p390 ===
 
 Yet concerning the Refrains to the Troparia of the Canon, know that in order that the number of refrains may be found more quickly, the last four, six, and eight verses of the Canticles of the Psalter (except the 2nd, for this is read entirely before the Heirmos) are designated from the bottom upwards within the Canticle, or at least in the margin, by the inscription: for 4, for 6, for 8; for 14, however, they are not counted off, because 6 Verses from the 8th upwards are easy to count off. However, the counting of the 14 Verses in modern Psalters does not agree exactly with the counting of earlier Psalters, for where the Typika place the 14th verse at **"The deep waters congealed"**, in modern Psalters the 14th verse is placed at **"The enemy said"**, for **"The deep waters congealed"** reaches to the 15th verse. The 6th Canticle has only 12 Verses, therefore let the reader divide these two verses of it into 4. The 9th Canticle, the one which is of the Mother of God, is sung entirely before the Heirmos, with **"More honorable than the Cherubim"**; while the other, which is of Zechariah, is sung entirely in Refrains, and in those editions where it has only 13 verses, let one verse be divided into 2. The latest edition of the Lviv Psalter neglects the counting of the last Verses, except in the 9th Canticle; and in general modern editions carelessly count off the verses.
 After the 3rd Ode, Sessional Hymn of the Saint; after the 6th, Kontakion and Ikos of the Saint; but if the Saint does not have these, then the Sessional Hymn to the Martyrs from the Octoechos of the current Tone,[^521] placed also at the end of the Triodion. After the 9th Ode, **"It is truly right"** (*Достойно есть*), and after the Litany, the Exaposteilarion of the Tone, which is in the Horologion, 3 times, with refrains and commemorations as the Triadica here on p. 383 in the Note.
 
 ---
 
-[Leaf p391 / Page 389]
+=== LEAF p391 ===
 
 7. Before the Small Doxology the Priest says: **"To Thee glory is due..."** and the rest, and at **"Glory to God in the highest"** we make 3 bows.
 8. Aposticha of the Triodion; if there is a **"Glory..."** of the Saint, then the Theotokion will be the usual one according to the Tone of the **"Glory..."**.
@@ -143,7 +143,7 @@ After the 3rd Ode, Sessional Hymn of the Saint; after the 6th, Kontakion and Iko
 
 ---
 
-[Leaf p392 / Page 390]
+=== LEAF p392 ===
 
 4. Verses selected from the sacred Scriptures of the Old Testament, namely: at the First Hour: **"Order my steps"** (*Стопы моя*); at the Third: **"Blessed is the Lord God"** (*Господь Богъ благословенъ*); at the Sixth: **"Let Thy tender mercies speedily prevent us"** (*Скоро да предварятъ ны*); at the Ninth: **"Deliver us not up"** (*Не предаждь насъ*). At the First Hour, **"Order my steps"** is divided into 4 Verses, of which we sing the first 3 twice each, and the fourth 3 times. At the Sixth Hour, between the Theotokion and the Old Testament verses, we sing the Troparion of the Prophecy in the Triodion, and one Prophecy between the two Prokeimena in the same place.
 5. After the Trisagion, in place of the Kontakion, we say the three penitential Troparia which are in the order of the Hours in the Horologion, appending before the second **"Glory..."**, and before the third **"Both now..."**.
@@ -157,7 +157,7 @@ After the 3rd Ode, Sessional Hymn of the Saint; after the 6th, Kontakion and Iko
 
 ---
 
-[Leaf p393 / Page 391]
+=== LEAF p393 ===
 
 of our Pochaiv Triodion is transferred to the end of Vespers.[^524] On Wednesday and Friday, however, because Vespers is with the Presanctified, **"All-holy Trinity"** cannot be transferred to the end of Vespers, since it concludes there with the Liturgy, and therefore remains in its place at the Typika; likewise the prayer **"O Master, Lord Jesus Christ"** remains in its place at the Ninth Hour.
 
@@ -175,7 +175,7 @@ And a great prostration.[^525]
 
 ---
 
-[Leaf p394 / Page 392]
+=== LEAF p394 ===
 
 2. **"The heavenly host"** (*Ликъ небесный*), and Verse, and again **"The heavenly host"**; **"Glory..."**, **"The choir of the holy Angels"** (*Соборъ Святыхъ Ангелъ*); **"Both now..."**, the Creed (**"I believe..."** [*Вѣрую*]).
 3. **"Remit, pardon"** (*Ослаби, остави*), and **"Our Father"**.
@@ -196,7 +196,7 @@ We make 3 small bows: at **"Come, let us worship"**; at the **"Alleluia"** after
 
 ---
 
-[Leaf p395 / Page 393]
+=== LEAF p395 ===
 
 2. After the Prooemiac Psalm, at **"Alleluia"**, 3 bows.
 3. Kathisma 18, with 3 bows at **"Alleluia"** after each Antiphon of it (today we read only the beginning of the Kathisma).
@@ -212,7 +212,7 @@ We make 3 small bows: at **"Come, let us worship"**; at the **"Alleluia"** after
 
 ---
 
-[Leaf p396 / Page 394]
+=== LEAF p396 ===
 
 11. **"All-holy Trinity"** and **"Blessed be the name of the Lord"** 3 times, with bows.
 12. **"Glory... Both now..."**, Psalm: **"I will bless the Lord"** [Psalm 33].
@@ -226,7 +226,7 @@ The Typikon of Great Compline thou hast partly here on p. 371, and partly in the
 
 ---
 
-[Leaf p397 / Page 395]
+=== LEAF p397 ===
 
 ### Vespers on Wednesday and Friday with the Presanctified
 
@@ -240,7 +240,7 @@ On Wednesday we make 3 small bows: at the Trisagion which is at the beginning; a
 
 ---
 
-[Leaf p398 / Page 396]
+=== LEAF p398 ===
 
 4. At **"Lord, I have cried"**, Stichera for 10: of the Triodion for 6, and of the Menaion for 4; **"Glory... Both now..."**, Theotokion of the Menaion. If there is a Doxastikon of the Saint, we match the Theotokion according to his Tone. (On Friday evening, Stichera: Idiomelon of the Triodion twice, and 4 Martyrs' Stichera of the Octoechos of the current Tone,[^533] and 4 of the Saint. **"Glory..."**, of the Saint, if there is one; **"Both now..."**, the 1st Theotokion [Dogmatikon] of the departing Tone; but if not, then **"Glory... Both now..."**, the same Theotokion).
 5. Entrance with the Censer. (On the Finding of the Precious Head of the Forerunner, on the 40 Martyrs, and on Great Monday, Tuesday, and Wednesday, the Entrance is with the Gospel).
@@ -248,14 +248,14 @@ On Wednesday we make 3 small bows: at the Trisagion which is at the beginning; a
 
 ---
 
-[Leaf p399 / Page 397]
+=== LEAF p399 ===
 
 7. **"Let my prayer be set forth"** (*Да исправится*). This has three verses after it, and is sung six times, that is, twice before the first verse, then once after each verse, and again once at the end. And so, among us, the Priest sings **"Let my prayer be set forth"** the first time, the Choir the second time, all three Verses the Priest, after them **"Let my prayer be set forth"** the Choir, and at the end in a higher voice up to the half the Priest, and from the half the Choir. Where there are two Choirs, they sing **"Let my prayer be set forth"** alternately, the first beginning after the Priest, and the last half both Choirs sing together. When the Priest sings, then he stands, but the Choirs and the people kneel; when the Choir sings, then it stands, and with it likewise the people stand and sing, but the Priest kneels. If there are two Choirs, then while one stands and sings, the other kneels, and the people who are on the right side kneel, stand, and sing with the right Choir, and those on the left, with the left.[^536]
 The Priest sings **"Let my prayer be set forth"** first from the front side of the Holy Table, then the 1st Verse from the south side, the 2nd from the rear, the 3rd from the north side, and at the end the first half again from the front side;[^537] and he censes each side of the Holy Table twice, that is, before the beginning of his own singing, and at the end of the Choir's singing, namely at **"the lifting up of my hands"**; for then, having censed, he departs to the next side of the Holy Table, so that having censed there also, as the Choir is concluding he may be ready to chant his Verse.[^538]
 
 ---
 
-[Leaf p400 / Page 398]
+=== LEAF p400 ===
 
 8. Immediately after the completion of the singing of **"Let my prayer be set forth"**, **"Let us all say"** is said, and the rest of the Liturgy of the Presanctified in order.
 

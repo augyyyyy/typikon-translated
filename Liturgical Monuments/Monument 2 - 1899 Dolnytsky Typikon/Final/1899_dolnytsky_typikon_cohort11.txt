@@ -1,6 +1,6 @@
 ---
 
-[Leaf p201 / Page 199]
+=== LEAF p201 ===
 
 5. Great Doxology; and after the Trisagion, Troparion of the Betrothed; **"Glory... Both now..."**, of the Feast.
 6. Great Dismissal with commemorations as at Vespers.
@@ -22,7 +22,7 @@ At all the Hours, Troparion of the Feast; **"Glory..."**, of the Betrothed; and 
 
 ---
 
-[Leaf p202 / Page 200]
+=== LEAF p202 ===
 
 -ly to St. Joseph and the other two Holy God-ancestors. The service of these Saints is without Polyeleos, according to the general rule of a Saint on 4 in the Afterfeast. It will be, therefore:
 
@@ -47,7 +47,7 @@ After the 1st Trisagion, Troparion of the Nativity; after the 2nd, Kontakion of 
 
 ---
 
-[Leaf p203 / Page 201]
+=== LEAF p203 ===
 
 and of the God-ancestors on 4. Katavasia of the Feast after each Ode. After the 3rd Ode, Kontakion-Ikos of the Synaxis, then Sessional Hymn of the God-ancestors; **"Glory... Both now..."**, of the Feast; after the 6th Ode, Kontakion-Ikos of the God-ancestors; at the 9th Ode, in place of **"More honorable than the Cherubim"**, the Heirmos of the Canon of the Feast with the Refrains of the Feast; after the 9th Ode, Exaposteilarion of the God-ancestors; **"Glory... Both now..."**, of the Feast.
 4. At the Praises: Stichera of the Feast 4; **"Glory..."**, to the God-ancestors; **"Both now..."**, of the Feast.
@@ -67,7 +67,7 @@ The service of the Synaxis is omitted, and the Kontakion and Troparion of St. Jo
 
 ---
 
-[Leaf p204 / Page 202]
+=== LEAF p204 ===
 
 ## Saturday after the Nativity
 
@@ -88,7 +88,7 @@ Prokimenon, Apostle, Gospel, and Communion Hymn for the Saturday after the Nativ
 
 ---
 
-[Leaf p205 / Page 203]
+=== LEAF p205 ===
 
 #### 3. Saturday after the Nativity, December 31
 *With the Apodosis of the Feast of the Nativity.*
@@ -108,7 +108,7 @@ All according to the Typikon of the following case, with the exception only of t
 
 ---
 
-[Leaf p206 / Page 204]
+=== LEAF p206 ===
 
 #### 2. Sunday after the Nativity, December 27, 28, 29, 30
 
@@ -132,7 +132,7 @@ The Triadic Canon of the Tone.
 
 ---
 
-[Leaf p207 / Page 205]
+=== LEAF p207 ===
 
 of the Saints; after the 9th Ode, Exaposteilarion of the Resurrection; **"Glory..."**, of the Saints; **"Both now..."**, of the Feast.
 4. At the Praises, Stichera indeed: of the Resurrection 4, and of the Feast 4 with its two Refrains; **"Glory..."**, to the Saints; **"Both now..."**: **"Most blessed art thou"**.
@@ -152,7 +152,7 @@ All according to the Typikon indicated in the preceding case on page 203, only:
 
 ---
 
-[Leaf p208 / Page 206]
+=== LEAF p208 ===
 
 2. At the Divine Liturgy: Prokimenon of the Feast and of the Saints (that of the Resurrection is omitted); Alleluia only of the Feast; Apostle and Gospel only of the Saints; Communion Hymn **"Praise the Lord"** and of the Feast.
 
@@ -182,7 +182,7 @@ This difference regarding the number of Saturdays and Sundays depends on the day
 
 ---
 
-[Leaf p209 / Page 207]
+=== LEAF p209 ===
 
 If the Nativity of Christ occurs on Sunday, or Monday, then between the Nativity and Theophany there is one Saturday, and one Sunday, as thou shalt see in the 1st and 2nd transverse row of weekly letters.
 If the Nativity of Christ occurs on Tuesday, then there are two Saturdays, and one Sunday, as thou shalt see in the 3rd row.
@@ -194,7 +194,7 @@ Now therefore, if thou desirest to know how many Saturdays and Sundays there wil
 
 ---
 
-[Leaf p210 / Page 208]
+=== LEAF p210 ===
 
 2. What is to be done with the other Saturday or Sunday, which then has no place?
 
@@ -209,7 +209,7 @@ A Saturday, if between the Nativity and Theophany there be only one, then this m
 
 ---
 
-[Leaf p211 / Page 209]
+=== LEAF p211 ===
 
 as in the 7th row, that is, on January 1, then the Apostle and Gospel will be first for the Circumcision, then for the Saturday before Theophany; but the Prokimenon, Alleluia, and Communion Hymn only for the Circumcision, because the Saturday does not have these. And for the Saturday after the Nativity, the Apostle and Gospel are taken on the Apodosis of the Feast, December 31; but the Prokimenon, Alleluia, and Communion Hymn only of the Feast.
 
@@ -218,7 +218,7 @@ A Sunday, if between the Nativity and Theophany there be only one, then, similar
 
 ---
 
-[Leaf p212 / Page 210]
+=== LEAF p212 ===
 
 ## December 27: Holy Protomartyr Stephen and the Venerable Theodore
 
@@ -226,7 +226,7 @@ The service of these Saints is without Polyeleos, according to the general Typik
 
 ---
 
-[Leaf p213 / Page 211]
+=== LEAF p213 ===
 
 -ses, and afterwards the Small Doxology, and the Aposticha in its own place. For the rest, our people also on this 3rd day abstain from works, and attend divine worship.
 
@@ -250,7 +250,7 @@ After the Trisagion, Kontakion to the Saints; **"Glory... Both now..."**, Kontak
 
 ---
 
-[Leaf p214 / Page 212]
+=== LEAF p214 ===
 
 #### At Great Matins
 1. At **"God is the Lord"**, Troparion of the Resurrection twice; **"Glory..."**, to the Saints; **"Both now..."**, of the Feast.
@@ -270,7 +270,7 @@ At all the Hours, Troparion of the Resurrection, then **"Glory..."** at the 1st 
 
 ---
 
-[Leaf p215 / Page 213]
+=== LEAF p215 ===
 
 # January
 
@@ -287,7 +287,7 @@ Stichera at **"Lord, I have cried"** and at the Aposticha to Basil; **"Both now.
 
 ---
 
-[Leaf p216 / Page 214]
+=== LEAF p216 ===
 
 ##### At Great Vespers
 1. **"Blessed is the man"**, according to custom (according to the Typikon, the 1st Antiphon).
@@ -304,7 +304,7 @@ Stichera at **"Lord, I have cried"** and at the Aposticha to Basil; **"Both now.
 
 ---
 
-[Leaf p217 / Page 215]
+=== LEAF p217 ===
 
 of Basil; at the 9th Ode, in place of **"More honorable than the Cherubim"**, Refrains of the Feast and of the Saint; after the 9th Ode, Exaposteilarion of the Saint; **"Glory... Both now..."**, of the Feast.
 5. At the Praises, Stichera on 6: to the Feast 3, and to the Saint 3; **"Glory..."**, to the Saint; **"Both now..."**, to the Feast.
@@ -325,7 +325,7 @@ At all the Hours, Troparion of the Feast; **"Glory..."**, of Basil; Kontakia: at
 
 ---
 
-[Leaf p218 / Page 216]
+=== LEAF p218 ===
 
 has no place, as is seen in the Table here on page 206, and then the later Slavonic Typika[^348] appoint the Prokimenon, Apostle, Alleluia, and Gospel, and Communion Hymn of that Sunday on January 1 with the Circumcision, according to the Typikon about to be set forth immediately for the case of January 1 on Sunday: that is, then the Sunday before Theophany takes the first place, then the Circumcision, while the Apostle and Gospel of Basil fall away.
 2. If January 1 occurs on Saturday, then after the Apostle and Gospel of the Circumcision there is read the Apostle and Gospel for the Saturday before Theophany, without Basil.[^349] The rest as indicated above.
@@ -345,7 +345,7 @@ has no place, as is seen in the Table here on page 206, and then the later Slavo
 
 ---
 
-[Leaf p219 / Page 217]
+=== LEAF p219 ===
 
 5. Aposticha of the Resurrection; **"Glory..."**, of the Saint; **"Both now..."**, of the Feast.
 6. At the blessing of the loaves: Troparion of the Saint twice, and **"O Theotokos Virgin"** once.
@@ -365,7 +365,7 @@ At all the Hours, Troparion of the Resurrection, then **"Glory..."** at the 1st 
 
 ---
 
-[Leaf p220 / Page 218]
+=== LEAF p220 ===
 
 2. Prokimenon of the Sunday before Theophany, and of the Saint; Alleluia of the Sunday before Theophany and of the Feast; Apostle and Gospel of the Sunday before Theophany; then of the Feast, without Basil.
 3. Communion Hymn **"Praise the Lord"**, and of the Saint.[^350]

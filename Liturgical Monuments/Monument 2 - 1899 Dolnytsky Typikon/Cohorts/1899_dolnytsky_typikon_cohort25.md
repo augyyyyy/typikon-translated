@@ -1,4 +1,4 @@
-[Leaf p481 / Page 479]
+=== LEAF p481 ===
 
 Christ", on Sundays indeed thrice, but on Weekdays once.[^643]
 
@@ -18,7 +18,7 @@ We say the Dismissal of Pascha, except in Thomas Week, which has its own Dismiss
 
 ---
 
-[Leaf p482 / Page 480]
+=== LEAF p482 ===
 
 the Cross only on Sundays,[^645] and on the Feast of the Mid-Feast,[^646] and at the Apodosis of Pascha.[^647] We deem that on certain other days also, when there is a sufficient number of people, it will be well to say the Dismissal with the Cross, yet not on all days, as some do, having for this neither Typikon nor general custom.
 
@@ -40,7 +40,7 @@ On weekdays even unto the Sunday of the Myrrh-bearers, we sing all things accord
 
 ---
 
-[Leaf p483 / Page 481]
+=== LEAF p483 ===
 
 of the Feast; only at the Aposticha of Vespers, and at the Sessional Hymns of Matins which follow the 1st Kathisma-reading, and at the Praises (for there are Stichera both at the Praises and afterwards at the Aposticha) there are certain Stichera, taken from the Weekday Service of the Octoechos, according to the Tone and day of the week, except on Saturday, which has the entire Service festal. Likewise at Matins before Psalm 50 we say **"Having beheld the Resurrection of Christ"** (*Воскресе́нїе Христо́во*) once. And on Saturday we sing 3 Canons: of the Feast with the Heirmoi for 6, and of the Saint to whom the Temple is dedicated for 4, and of the Menaion for 4.
 
@@ -57,7 +57,7 @@ of the Feast; only at the Aposticha of Vespers, and at the Sessional Hymns of Ma
 
 ---
 
-[Leaf p484 / Page 482]
+=== LEAF p484 ===
 
 #### At Compline
 
@@ -79,7 +79,7 @@ At all [the Hours]: Resurrectional Troparion; **"Glory"** (*Сла́ва*): **"T
 
 ---
 
-[Leaf p485 / Page 483]
+=== LEAF p485 ===
 
 #### At the Liturgy
 
@@ -99,7 +99,7 @@ At **"The Lord is God"** (*Бо́гъ Госпо́дь*), Troparion **"The noble
 
 ---
 
-[Leaf p486 / Page 484]
+=== LEAF p486 ===
 
 their own Troparia, then we deem that the Resurrectional one is to be omitted.
 
@@ -115,7 +115,7 @@ Troparia: **"The noble Joseph"** (*Благообра́зный*), and Resurrect
 
 ---
 
-[Leaf p487 / Page 485]
+=== LEAF p487 ===
 
 bearers, without Pascha.[^654] If the Service of a Saint is also taken, or of some of the various Petitions, then after the three Troparia of the Sunday, we take also the Troparion to the Saint, or to the Petition; then Kontakion to the Myrrh-bearers, **"Glory"** (*Сла́ва*), Kontakion to the Saint, or to the Petition; **"Both now"** (*И҆ ны́нѣ*), Kontakion of Pascha; or **"Glory"** (*Сла́ва*), Kontakion to the Saint, or to the Petition, and **"Both now"** (*И҆ ны́нѣ*), Kontakion to the Myrrh-bearers. Epistle and Gospel of the day; and all the rest of the Sunday of the Myrrh-bearers, or also of the Saint, or of the Petition, if there be one.
 
@@ -135,7 +135,7 @@ After **"It is truly meet"** (*Досто́йно є҆́сть*), the one Kontak
 
 ---
 
-[Leaf p488 / Page 486]
+=== LEAF p488 ===
 
 #### At Great Matins
 
@@ -163,7 +163,7 @@ The Order of the Paralytic embraces only two weekdays, Monday and Tuesday, for
 
 ---
 
-[Leaf p489 / Page 487]
+=== LEAF p489 ===
 
 on Wednesday begins already the Feast of the Mid-Feast of Pentecost.
 
@@ -182,7 +182,7 @@ At the Liturgy: Resurrectional Troparion; **"Glory"** (*Сла́ва*), Kontakio
 
 ---
 
-[Leaf p490 / Page 488]
+=== LEAF p490 ===
 
 alone is sung, while the Service of the Saint of the day from the Menaion is sung at Compline; but on the other days it is combined with the Menaion, except on the Sunday of the Samaritan Woman, for then it is combined with the Service of the Sunday. This Feast does not have an All-Night Vigil, nor a Polyeleos at Matins, but only the Great Doxology; while at Vespers there are both Entrance and Readings. We begin its Service from Tuesday evening, for the Church day begins from the evening of the preceding day.
 
@@ -210,7 +210,7 @@ After the 1st Trisagion, Troparion of the Feast; and after the 2nd, Kontakion of
 
 ---
 
-[Leaf p491 / Page 489]
+=== LEAF p491 ===
 
 After the 3rd Ode, Sessional Hymn; after the 6th, Kontakion and Ikos; after the 9th, Exaposteilarion of the Feast; at the 9th, in place of **"More honorable"** (*Честнѣ́йшꙋю*), we sing the Heirmos of the Feast.
 
@@ -237,7 +237,7 @@ We sing all things according to the Typikon of the Feast of Thomas Sunday, here 
 
 ---
 
-[Leaf p492 / Page 490]
+=== LEAF p492 ===
 
 ### Sunday of the Samaritan Woman
 **5th from Pascha. Tone 4.**
@@ -263,7 +263,7 @@ After **"It is truly meet"** (*Досто́йно є҆́сть*): Kontakion of t
 
 ---
 
-[Leaf p493 / Page 491]
+=== LEAF p493 ===
 
 3. 4 Canons for 14: Resurrectional with the Heirmos for 4, and of the Theotokos in the Triodion for 2, and of the Mid-Feast for 4, and of the Samaritan Woman for 4. Katavasia of Pascha.
 
@@ -288,7 +288,7 @@ We sing the Service of the Mid-Feast and of the Saint from the Menaion, accordin
 
 ---
 
-[Leaf p494 / Page 492]
+=== LEAF p494 ===
 
 the General Typikon inside a Feast, as we set down previously on page 488.
 
@@ -315,7 +315,7 @@ All things according to the Typikon of the weekdays of the Paralytic, here on pa
 
 ---
 
-[Leaf p495 / Page 493]
+=== LEAF p495 ===
 
 ### Wednesday of the Apodosis of Pascha
 
@@ -342,7 +342,7 @@ After the 1st Trisagion, in place of **"Behold, the Bridegroom"** (*Сѐ Жен�
 
 ---
 
-[Leaf p496 / Page 494]
+=== LEAF p496 ===
 
 After the 3rd Ode, Kontakion and Ikos of the Blind Man, and his Sessional Hymn; **"Glory... Both now..."** (*Сла́ва, и҆ ны́нѣ*): of the Forefeast; after the 6th Ode, Kontakion and Ikos of Pascha; at the 9th Ode, in place of **"More honorable"** (*Честнѣ́йшꙋю*), we sing **"The Angel cried"** (*А҆́нгелъ вопїя́ше*) and **"Shine, shine"** (*Свѣти́ся*); after the 9th Ode, Exaposteilarion of Pascha twice; **"Glory... Both now..."** (*Сла́ва, и҆ ны́нѣ*): of the Blind Man.
 
@@ -365,7 +365,7 @@ This Feast extends over 9 days; for it reaches even unto Friday after the Sunday
 
 ---
 
-[Leaf p497 / Page 495]
+=== LEAF p497 ===
 
 The Feast, the Afterfeast, and the Apodosis of the Feast we celebrate according to the General Rule of a Feast of the Lord; only at the Liturgy our Sluzhebnyks, in place of **"We have seen"** (*Ви́дѣхомъ*), and in place of **"Let our mouths be filled"** (*Да и҆спо́лнятся*), appoint the Verse: **"Be Thou exalted above the heavens, O God, and Thy glory over all the earth"** (*Вознеси́ся на небеса̀, Бо́же, и҆ по все́й землѝ сла́ва Твоя̀*), which we say even unto the Apodosis; and on the following Sunday of the Holy Fathers, the Service of the Ascension has a proper Typikon, for it is combined both with the Resurrectional Service and with that of the Holy Fathers, as follows.
 
@@ -389,7 +389,7 @@ After **"It is truly meet"** (*Досто́йно є҆́сть*): Kontakion to t
 
 ---
 
-[Leaf p498 / Page 496]
+=== LEAF p498 ===
 
 2. Customary Kathismas, and all the rest even unto the Canon, is Resurrectional according to custom; only the Resurrectional Gospel is the 10th.
 3. 3 Canons for 14: Resurrectional with the Heirmos for 4, and of the Ascension for 4, and of the Fathers for 6. Katavasia of the Descent of the Holy Spirit (*Soshéstviye*).
@@ -414,7 +414,7 @@ The Apodosis of the Service of the Holy Fathers takes place according to the fol
 
 ---
 
-[Leaf p499 / Page 497]
+=== LEAF p499 ===
 
 1. At **"Lord, I have cried"** (*Го́споди воззва́хъ*), 6 Stichera: 3 of the Fathers, and 3 of the Saint from the Menaion; **"Glory"** (*Сла́ва*) of the Fathers; **"Both now"** (*И҆ ны́нѣ*): of the Feast.
 2. At the Aposticha, Stichera of the Fathers; only **"Both now"** (*И҆ ны́нѣ*): of the Feast.
@@ -435,7 +435,7 @@ All things according to the Typikon of Meatfare Saturday, here on page 363.
 
 ---
 
-[Leaf p500 / Page 498]
+=== LEAF p500 ===
 
 All the rest, from the Feast even unto its Apodosis, is performed according to the General Rule of a Feast and Inside a Feast of the Lord. At the Liturgy, **"As many of you as have been baptized into Christ"** (*Є҆ли́цы*), only on the Feast.
 

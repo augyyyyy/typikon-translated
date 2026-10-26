@@ -1,0 +1,84 @@
+{
+  "octoechos": {
+    "canonical_h1_instruction": "When a new Tone or rear section begins on a leaf, emit its canonical H1 Markdown header on its own line: `# TONE 1`, `# TONE 2`, `# TONE 3`, `# TONE 4`, `# TONE 5`, `# TONE 6`, `# TONE 7`, `# TONE 8`, or `# EXAPOSTILARIA AND EVANGELICAL STICHERA`.",
+    "parts": [
+      {
+        "id": "part0",
+        "suffix": "part0_front_matter.md",
+        "title": "Front Matter, Title Page, Dedicatory Preface, and Opening Offices",
+        "start_landmark": null
+      },
+      {
+        "id": "part1",
+        "suffix": "part1_tone1.md",
+        "title": "TONE 1: SATURDAY VESPERS, SUNDAY MATINS, AND WEEKDAY OFFICES",
+        "start_landmark": "^#+\\s*(?:TONE\\s+(?:1|I|FIRST)|BEGINNING\\s+OF\\s+TONE\\s+1)\\b"
+      },
+      {
+        "id": "part2",
+        "suffix": "part2_tone2.md",
+        "title": "TONE 2: SATURDAY VESPERS, SUNDAY MATINS, AND WEEKDAY OFFICES",
+        "start_landmark": "^#+\\s*(?:TONE\\s+(?:2|II|SECOND)|BEGINNING\\s+OF\\s+TONE\\s+2)\\b"
+      },
+      {
+        "id": "part3",
+        "suffix": "part3_tone3.md",
+        "title": "TONE 3: SATURDAY VESPERS, SUNDAY MATINS, AND WEEKDAY OFFICES",
+        "start_landmark": "^#+\\s*(?:TONE\\s+(?:3|III|THIRD)|BEGINNING\\s+OF\\s+TONE\\s+3)\\b"
+      },
+      {
+        "id": "part4",
+        "suffix": "part4_tone4.md",
+        "title": "TONE 4: SATURDAY VESPERS, SUNDAY MATINS, AND WEEKDAY OFFICES",
+        "start_landmark": "^#+\\s*(?:TONE\\s+(?:4|IV|FOURTH)|BEGINNING\\s+OF\\s+TONE\\s+4)\\b"
+      },
+      {
+        "id": "part5",
+        "suffix": "part5_tone5.md",
+        "title": "TONE 5: SATURDAY VESPERS, SUNDAY MATINS, AND WEEKDAY OFFICES",
+        "start_landmark": "^#+\\s*(?:TONE\\s+(?:5|V|FIFTH)|BEGINNING\\s+OF\\s+TONE\\s+5)\\b"
+      },
+      {
+        "id": "part6",
+        "suffix": "part6_tone6.md",
+        "title": "TONE 6: SATURDAY VESPERS, SUNDAY MATINS, AND WEEKDAY OFFICES",
+        "start_landmark": "^#+\\s*(?:TONE\\s+(?:6|VI|SIXTH)|BEGINNING\\s+OF\\s+TONE\\s+6)\\b"
+      },
+      {
+        "id": "part7",
+        "suffix": "part7_tone7.md",
+        "title": "TONE 7: SATURDAY VESPERS, SUNDAY MATINS, AND WEEKDAY OFFICES",
+        "start_landmark": "^#+\\s*(?:TONE\\s+(?:7|VII|SEVENTH)|BEGINNING\\s+OF\\s+TONE\\s+7)\\b"
+      },
+      {
+        "id": "part8",
+        "suffix": "part8_tone8.md",
+        "title": "TONE 8: SATURDAY VESPERS, SUNDAY MATINS, AND WEEKDAY OFFICES",
+        "start_landmark": "^#+\\s*(?:TONE\\s+(?:8|VIII|EIGHTH)|BEGINNING\\s+OF\\s+TONE\\s+8)\\b"
+      },
+      {
+        "id": "part9",
+        "suffix": "part9_exapostilaria_eothina_and_colophon.md",
+        "title": "RESURRECTIONAL EXAPOSTILARIA, EVANGELICAL STICHERA (EOTHINA), AND COLOPHON",
+        "start_landmark": "^#+.*?(?:EXAPOSTILARIA|EVANGELICAL\\s+STICHERA|GOSPEL\\s+STICHERA|EOTHINA)\\b"
+      }
+    ]
+  },
+  "default": {
+    "canonical_h1_instruction": "Emit clear H1 Markdown headers (`# PART I: ...`, `# PART II: ...`, `# APPENDIX: ...`) at major structural divisions of the codex.",
+    "parts": [
+      {
+        "id": "part0",
+        "suffix": "part0_intro_and_front_matter.md",
+        "title": "Front Matter, Title Page, and Introductory Apparatus",
+        "start_landmark": null
+      },
+      {
+        "id": "part1",
+        "suffix": "part1_main_corpus.md",
+        "title": "PART I: MAIN LITURGICAL CORPUS",
+        "start_landmark": "^#\\s+(?:PART\\s+I|CHAPTER\\s+1|SECTION\\s+I|TONE\\s+1|MONTH\\s+OF)\\b"
+      }
+    ]
+  }
+}

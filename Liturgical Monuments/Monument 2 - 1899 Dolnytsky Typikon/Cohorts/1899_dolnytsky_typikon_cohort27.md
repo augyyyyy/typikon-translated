@@ -1,6 +1,6 @@
 ---
 
-[Leaf p521 / Page 519]
+=== LEAF p521 ===
 
 ### § 2. Proper Temple Typika[^673]
 
@@ -23,7 +23,7 @@
 
 ---
 
-[Leaf p522 / Page 520]
+=== LEAF p522 ===
 
 3. At the Aposticha: Stichera of the Temple, and **"Glory"** (*Сла́ва*) to him, **"Both now"** (*И҆ ны́нѣ*) of the Indiction.
 4. At the Blessing of Loaves: Troparion of the Temple twice, and **"O Theotokos and Virgin"** (*Богоро́дице Дѣ́во*) once.
@@ -43,7 +43,7 @@ All things as also outside the Temple [Feast], here on page 125.
 
 ---
 
-[Leaf p523 / Page 521]
+=== LEAF p523 ===
 
 ##### September 1: Temple of the Venerable Simeon the Stylite on Sunday
 
@@ -67,7 +67,7 @@ All things as also outside the Temple [Feast], here on page 125.
 
 ---
 
-[Leaf p524 / Page 522]
+=== LEAF p524 ===
 
 3. After the Polyeleos, Sessional Hymns of the Temple, once each, then **"Glory... Both now..."** (*Сла́ва, и҆ ны́нѣ*), of the Indiction.[^677]
 4. Prokimenon, Gospel, and Sticheron of the Temple.
@@ -83,7 +83,7 @@ All things as also outside the Temple [Feast], here on page 127.
 
 ---
 
-[Leaf p525 / Page 523]
+=== LEAF p525 ===
 
 #### January 1: Temple of Saint Basil the Great on the Sunday before the Theophany
 
@@ -101,7 +101,7 @@ All things as also outside the Temple [Feast], here on page 127.
 
 ---
 
-[Leaf p526 / Page 524]
+=== LEAF p526 ===
 
 **"Glory"** (*Сла́ва*) of the Temple, **"Both now"** (*И҆ ны́нѣ*) of the Triodion. — At the Blessing of Loaves, Troparion **"O Theotokos and Virgin"** (*Богоро́дице Дѣ́во*) twice, and of the Temple once.
 3. At Great Matins: three Canons, for 14: Resurrectional for 4, and of the Triodion for 4, and of the Temple for 6. — After the 3rd Ode, Kontakion and Ikos of the Triodion, then Sessional Hymn of the Temple, **"Glory... Both now..."** (*Сла́ва, и҆ ны́нѣ*), of the Triodion; after the 6th [Ode], Kontakion and Ikos of the Temple; after the 9th [Ode], Resurrectional Exaposteilarion, **"Glory"** (*Сла́ва*) of the Temple, **"Both now"** (*И҆ ны́нѣ*) of the Triodion. — Katavasia ordinary, only on Meatfare Sunday Katavasia of the Triodion. — At the Praises, 8 Stichera: Resurrectional 4, and of the Temple 4, with two refrains to him; **"Glory"** (*Сла́ва*) of the Temple, **"Both now"** (*И҆ ны́нѣ*): **"All-blessed art Thou"** (*Преблагослове́нна є҆сѝ*); however, on Meatfare and Cheesefare Sundays, after the four Stichera of the Temple with their two refrains, we sing the Idiomelon Sticheron of the Triodion with the refrain **"Arise, O Lord"** (*Воскреснѝ Го́споди*), **"Glory"** (*Сла́ва*), the same, **"Both now"** (*И҆ ны́нѣ*): **"All-blessed art Thou"** (*Преблагослове́нна є҆сѝ*).[^682]
@@ -117,7 +117,7 @@ All things according to the general Typikon of a Temple Saint, here on page 516;
 
 ---
 
-[Leaf p527 / Page 525]
+=== LEAF p527 ===
 
 2. On Wednesday and Friday at the end of Vespers, and Matins, and each Hour we make 3 great prostrations; and at the 6th Hour there will be the Troparion of the Prophecy (*Paroimia*), and the Prophecy; but the Liturgy of Saint John Chrysostom.[^684]
 
@@ -134,7 +134,7 @@ The entire Service of the Temple is sung on Cheesefare Sunday according to the T
 
 ---
 
-[Leaf p528 / Page 526]
+=== LEAF p528 ===
 
 ##### 6. Temple of a Saint on Tuesday, Wednesday, Thursday, Friday, and Saturday of the 1st Week of the Fast
 
@@ -159,7 +159,7 @@ All things according to the Typikon of the Finding of the Head, here on page 264
 
 ---
 
-[Leaf p529 / Page 527]
+=== LEAF p529 ===
 
 ##### 8. Temple of a Saint on the 1st and 3rd Sundays of the Fast
 
@@ -184,7 +184,7 @@ After the 3rd Ode, Kontakion of the Triodion, then Sessional Hymn of the Temple,
 
 ---
 
-[Leaf p530 / Page 528]
+=== LEAF p530 ===
 
 ##### 9. Temple of a Saint on One of the Fasting Days of the 2nd and Subsequent Weeks of the Fast, that is, until Lazarus Saturday
 
@@ -205,7 +205,7 @@ All things according to the general Typikon of a Saint with a Vigil, outside the
 
 ---
 
-[Leaf p531 / Page 529]
+=== LEAF p531 ===
 
 2. At the Litiya, and at the Aposticha, Stichera of the Temple.
 3. At the Blessing of Loaves, Troparion of the Temple twice, and **"O Theotokos and Virgin"** (*Богоро́дице Дѣ́во*) once.
@@ -233,7 +233,7 @@ At Vespers, and at Great Compline we sing all things according to the Lenten Typ
 
 ---
 
-[Leaf p532 / Page 530]
+=== LEAF p532 ===
 
 At Matins, at the Hours, and at the Liturgy the entire Service is of the Temple alone, according to the general Typikon of a Saint with a Vigil.[^691]
 
@@ -251,7 +251,7 @@ All things according to the general Lenten Typikon with the Temple [Saint], here
 
 ---
 
-[Leaf p533 / Page 531]
+=== LEAF p533 ===
 
 ...we sing on Monday at Vespers; but the Great Canon we sing on Tuesday at Matins, with the Tuesday Tri-Ode (*Tripísnets*).
 
@@ -279,7 +279,7 @@ All things according to the Typikon of Akathist Saturday, only:
 
 ---
 
-[Leaf p534 / Page 532]
+=== LEAF p534 ===
 
 2. After the 2nd third of the Akathist Kontakions and Ikoses we sing all the Sessional Hymns of the Temple, and all other things of the Temple even to the Canon.
 3. Two Canons, for 14: of the Akathist for 8, and of the Temple for 6.
@@ -307,7 +307,7 @@ The entire Service of the Akathist, then of the Temple.
 
 ---
 
-[Leaf p535 / Page 533]
+=== LEAF p535 ===
 
 After the 2nd Trisagion, Kontakion of the Temple, **"Glory... Both now..."** (*Сла́ва, и҆ ны́нѣ*), of Lazarus.
 2. At the Litiya, the Stichera of Lazarus written at the Praises, the first 4, then of the Temple; **"Glory"** (*Сла́ва*) of the Temple, **"Both now"** (*И҆ ны́нѣ*) of Lazarus.
@@ -329,7 +329,7 @@ All things first to Lazarus, then to the Temple.
 
 ---
 
-[Leaf p536 / Page 534]
+=== LEAF p536 ===
 
 ##### 17. Temple of a Saint on Palm Sunday
 
@@ -347,7 +347,7 @@ If it occur on Holy and Great Monday, Tuesday, Wednesday, and Thursday, it is tr
 
 ---
 
-[Leaf p537 / Page 535]
+=== LEAF p537 ===
 
 ##### 20. Temple of a Saint from the 4th Sunday after Pascha to the Saturday of Pentecost
 
@@ -375,7 +375,7 @@ On this day the entire Service is sung of the Temple alone, according to the gen
 
 ---
 
-[Leaf p538 / Page 536]
+=== LEAF p538 ===
 
 ...an Apodosis at Vespers, according to the general Typikon of a Temple Saint, here on page 517; but the Service of the Departed is sent beforehand to the Saturday or the Thursday prior.
 
@@ -393,7 +393,7 @@ All things according to the general Typikon of a Saint with a Vigil occurring in
 
 ---
 
-[Leaf p539 / Page 537]
+=== LEAF p539 ===
 
 ##### 29. Temple of a Saint on the Sunday of All Saints
 
@@ -411,7 +411,7 @@ We follow the Typikon of the Theologian with Mid-Pentecost, here on page 331; on
 
 ---
 
-[Leaf p540 / Page 538]
+=== LEAF p540 ===
 
 ## Ordinary Katavasias of the Entire Year
 

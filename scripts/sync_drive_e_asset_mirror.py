@@ -66,9 +66,14 @@ def resolve_source_pdf(relative_pdf_path: str, vault_root: Path) -> Optional[Pat
     cand1 = vault_root / relative_pdf_path
     if cand1.exists():
         return cand1
-    cand2 = vault_root / "2. Historical Liturgical Texts" / "Typikons_and_Ordines" / Path(relative_pdf_path).name
+    pdf_name = Path(relative_pdf_path).name
+    cand2 = vault_root / "2. Historical Liturgical Texts" / "Typikons_and_Ordines" / pdf_name
     if cand2.exists():
         return cand2
+    parent_cluster = cand1.parent
+    if parent_cluster.exists():
+        for r_cand in parent_cluster.rglob(pdf_name):
+            return r_cand
     cand3 = PROJECT_ROOT / relative_pdf_path
     if cand3.exists():
         return cand3
@@ -78,9 +83,10 @@ def resolve_mirror_dirs(vault_root: Path, rel_mirror: str) -> Tuple[Path, Path]:
     base = vault_root / rel_mirror
     if base.name.upper() == "JPGS":
         return base.parent, base
-    if base.parent.name.upper() == "JPGS" or (base.exists() and any(base.glob("Page_*.jpg"))):
-        mon_dir = base.parent.parent if base.parent.name.upper() == "JPGS" else base
-        return mon_dir, base
+    if (base / "JPGs").exists():
+        return base, base / "JPGs"
+    if base.parent.name.upper() == "JPGS":
+        return base.parent.parent, base
     return base, base / "JPGs"
 
 def is_junction(path: Path) -> bool:
@@ -110,6 +116,12 @@ def write_monument_manifest(
 ) -> Path:
     stem = monument_dir.name
     manifest_path = monument_dir / f"{stem}.md"
+    if manifest_path.exists() and (
+        manifest_path.stat().st_size > 800
+        or "Type_3_Historical_Liturgical_Text" in manifest_path.read_text(encoding="utf-8", errors="ignore")
+    ):
+        # Preserve rich pre-existing catalog manifests (e.g. Kyivan Musicology / Chant Indexer / Type 3 catalogs)
+        return manifest_path
     content = f"""# Metadata: {mon_info.get('title', stem)}
 
 - **Canonical Monument ID**: `{mon_info.get('monument_id', '')}`
@@ -175,8 +187,6 @@ def sync_monument_mirror(
 
     for p in range(1, total_pages + 1):
         target_canon = vault_jpg_dir / f"Page_{p:04d}.jpg"
-        target_p_jpg = vault_jpg_dir / f"p{p}.jpg"
-        target_p_png = vault_jpg_dir / f"p{p}.png"
 
         # Check if canonical exists and valid
         if target_canon.exists() and target_canon.stat().st_size > 1000:
@@ -218,15 +228,6 @@ def sync_monument_mirror(
             else:
                 print(f"  [ERROR] Page {p} could not be sourced from local image or PDF!", file=sys.stderr)
 
-        # Ensure compatibility hardlinks (p{p}.jpg, p{p}.png) on Drive E:
-        if target_canon.exists():
-            for alias in [target_p_jpg, target_p_png]:
-                if not alias.exists():
-                    try:
-                        os.link(str(target_canon), str(alias))
-                    except (OSError, FileExistsError):
-                        pass
-
         if p % 100 == 0 or p == total_pages:
             print(f"  Processed {p}/{total_pages} leaves (Synced: {synced_count}, Converted: {converted_count}, Rendered: {rendered_count})...")
 
@@ -234,7 +235,7 @@ def sync_monument_mirror(
         doc.close()
 
     # Calculate mirror size
-    vault_files = list(vault_jpg_dir.glob("Page_*.jpg"))
+    vault_files = list(vault_jpg_dir.rglob("Page_*.jpg"))
     actual_count = len(vault_files)
     total_bytes = sum(f.stat().st_size for f in vault_files)
 
@@ -278,13 +279,12 @@ def sync_monument_mirror(
 
             # Verify through junction
             test_target = local_img_dir / "Page_0001.jpg"
-            test_alias = local_img_dir / "p1.png"
-            if not test_target.exists() and not test_alias.exists():
+            if not test_target.exists() and not any(local_img_dir.rglob("Page_0001.jpg")):
                 raise RuntimeError(f"Junction verification failed: {test_target} not readable!")
 
             # Cleanup backup if requested
             if cleanup_backup and backup_dir.exists():
-                backup_size = sum(f.stat().st_size for f in backup_dir.glob("*") if f.is_file())
+                backup_size = sum(f.stat().st_size for f in backup_dir.rglob("*") if f.is_file())
                 subprocess.run(["cmd.exe", "/c", "rmdir", "/s", "/q", str(backup_dir)], capture_output=True, text=True)
                 if verbose:
                     print(f"  [RECLAIMED] Removed legacy backup directory, freeing {backup_size / (1024*1024):.2f} MB on Drive C:!")
@@ -326,7 +326,7 @@ def verify_all_mirrors(registry: Dict[str, Any], vault_root: Path) -> int:
             all_ok = False
             continue
 
-        actual_files = list(jpg_dir.glob("Page_*.jpg"))
+        actual_files = list(jpg_dir.rglob("Page_*.jpg"))
         actual_count = len(actual_files)
         total_mb = sum(f.stat().st_size for f in actual_files) / (1024 * 1024)
 

@@ -1,366 +1,354 @@
 # Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)
-## Cohort 5: Physical Pages 41–60 (Leaves p41–p60)
-### Raw Draft Translation (Juridical / Canonical Register)
+## Cohort 5: Physical Pages 81–100 (Leaves p81–p100)
+
+> [!NOTE]
+> **Historical & Canonical Significance**  
+> Cohort 7 of the **1891 Lviv Provincial Synod** (*Чинности и рѣшеня руского провинціяльного Собора въ Галичинѣ ôтбувшого ся во Львовѣ въ роцѣ 1891*) encompasses two core legislative pillars of the Galician Greek-Catholic Church at the close of the 19th century:  
+> 1. **Conclusion of Titulus I: On the Catholic Faith (Leaves p81–p92 / Book pp. 79–90)**:  
+>    - **Chapter IV Conclusion: On Communion in Sacred Things with Heretics and Schismatics (Leaf p81 / Book p. 79)**: Reaffirmation of the 1720 Synod of Zamość's strict prohibition against *communicatio in sacris*; pastoral warning and censure against lay attendance at schismatic divine services and the payment of Mass stipends to schismatic clergy for memorial services of deceased national figures (e.g., poets and politicians).  
+>    - **Chapter V: On the Censorship of Books (Leaves p81–p84 / Book pp. 79–82)**: Natural law foundation of ecclesiastical censorship; apostolic precedent at Ephesus (Acts 19:19); establishment of the Sacred Congregation of the Index by St. Pius V; systematization of excommunications *latae sententiae* reserved to the Holy See under Pope Pius IX's Constitution *Apostolicae Sedis* (1869); warning against secular rationalism, curiosity, and commercial gain; Pope Gregory XVI's 1841 Apostolic Letter to Metropolitan Mykhailo Levytsky forbidding liturgical books printed at Russian schismatic presses; mandatory episcopal approvals for prayerbooks, theological treatises, and parochial libraries; pastoral vigilance regarding hostile periodicals.  
+>    - **Chapter VI: On the Sect of Freemasons and Other Condemned or Forbidden Societies (Leaves p84–p87 / Book pp. 82–85)**: Condemnation of secret societies and Freemasonry under Pope Leo XIII; excommunication reserved to the Roman Pontiff; canonical obligation of denouncing secret coryphaei to ecclesiastical authority (Holy Office Responsum of 1871); vigilance against oath-bound fraternal groups and deceptive philanthropic organizations (Holy Office Instruction of May 10, 1884); pre-sacramental pledges for youth; warning against magnetism, spiritism, divination, and sorcery; promotion of Catholic guilds for artisans and agriculturalists under heavenly patron saints.  
+>    - **Chapter VII: On Preaching the Word of God (Leaves p87–p90 / Book pp. 85–88)**: Scriptural mandate of preaching (Isa. 61:1 / Luke 4:18, Mark 16:15, 2 Tim. 4:2); Tridentine conciliar legislation (Sess. V, XXIII, XXIV); Ruthenian precedents from Zamość (1720) and pastoral letters of Metropolitan Spyrydon Lytvynovych (1865) and Bishop Ivan Stupnytsky (1873); mandatory Sunday and feast-day preaching; homilies at early Liturgy; homiletic content (Sunday Gospels, Catechism, dogmatics, morals, and liturgy); preparation and sacred decorum on the ambo; citation of scripture from approved Church Slavonic editions accompanied by vernacular translation; strict prohibition of airing personal disputes, injuries, political partisanship, or public shaming of individual sinners from the ambo (Council of Vienna 1858); invocation of the Holy Spirit; moral purity of the preacher (1 Cor. 9:27, Bonaventure's *Pharetra*, Council of Prague).  
+>    - **Chapter VIII: On the Catechism (Leaves p90–p92 / Book pp. 88–90)**: Foundational importance of childhood religious formation; mandatory catechetical instruction after Vespers on Sundays/feasts, in daughter churches, and in elementary schools; prescribed textbooks; biblical history; intensive Lenten instruction for First Confession and Solemn Communion; daily prayers; pastoral duty to admonish negligent parents and employers (Eichstätt Pastoral Instruction); Metropolitan Joseph Sembratovych's 1876 pastoral letter; eternal pastoral recompense (2 Tim. 4:7–8).  
+> 2. **Promulgation of Titulus II: On the Mysteries and Their Administration (Leaves p93–p100 / Book pp. 91–98)**:  
+>    - **Synodal Preamble (Leaf p93 / Book p. 91)**: Reaffirmation of the 1720 Synod of Zamość and the 1863 *Concordia*; urgent statutory mandate for the Metropolitan to publish an official, uniform Ruthenian *Trebnik* (Ritual) conforming to the synodal schema.  
+>    - **Chapter I: On the Holy Mystery of Baptism (Leaves p93–p94 / Book pp. 91–92)**: Time of administration (without delay, Eugenius IV *Cantate Domino*); ordinary place (parish church with font, Clementine Constitutions) with winter domestic exception in the parish house; mode of administration (preserving Ruthenian triple infusion / pouring); prohibition of separating baptism from accompanying rites; canonical qualifications and moral obligations of godparents (*kumy*, Synod of Ferrara 1751); appendix rubric schema.  
+>    - **Chapter II: On the Holy Mystery of Chrismation (Leaves p94–p95 / Book pp. 92–93)**: Annual renewal of Holy Chrism (*sviate Myro*) consecrated on Great and Holy Thursday; decanal distribution within thirty days; burning of old Chrism on a clean stone and deposition of ashes into the *Sacrarium*; mandatory construction of parochial *Sacraria* for ashes and sacred ablution waters; official schema for the new *Trebnik*.  
+>    - **Chapter III: On the Most Holy Mystery of the Eucharist (Leaves p95–p98 / Book pp. 93–96)**: Dogmatic definition affirming that the Words of Institution alone ("This is My Body... This is My Blood") effect Eucharistic transubstantiation, refuting contemporary schismatic errors attributing consecration solely to the Epiklesis; patristic authorities (St. John Chrysostom, St. Irenaeus, St. Gregory of Nyssa) and Council of Florence; liturgical uniformity in reciting the Words of Institution; vestments for carrying Holy Viaticum (epitrachelion and phelonion, updating Zamość); communal prayers before communion; prohibition of interpolating "unworthy" into the distribution formula; communion under both kinds during Liturgy; prohibition of adding unblessed wine to the chalice; communion from reserved particles for the sick, pilgrims arriving late fasting, and outside Liturgy; wiping of mouth with communion cloth by priest or deacon; extension of the Paschal communion period from Clean Monday through the Feast of the Ascension; pastoral denunciation of non-communicants to the Ordinary for excommunication.  
+>    - **Chapter IV: On the Mystery of Repentance (Leaves p99–p100 / Book pp. 97–98)**: Canonical tradition of confessing at least three times annually (Pascha, Dormition, Nativity); liberty to make annual confession before any approved priest while receiving Paschal communion in one's own parish; absolute prohibition of charging confession fees, selling confession tickets (*kartky do spovidi*), or demanding parish dues (*proskurne*); bi-ritual confessional faculties under the 1863 *Concordia*; distribution of lists of reserved cases (*Apostolicae Sedis* and diocesan tables); special faculties required for confessors of nuns; mandatory installation of confessional booths (*spovidalnytsi*) in churches.
 
 ---
 
-[Leaf p41 / Page 39]
-
-"Your Grace! Whereas, on the one hand, all that it pleased the Fathers to deliberate and establish at this Synod hath, by the help of God, been happily accomplished; and, on the other hand, pastoral solicitude summons the Most Reverend Bishops present at this Synod back to the flock entrusted unto Them: I, the Promoter of this Synod, do make motion and most humbly pray that Your Grace may deign to bring this Synod to a close, and to promulgate the Decree on the Conclusion of the Synod."  
-*The Metropolitan shall say:* "This we decree and command, if it so please the Most Reverend Fathers" [^46].  
-*The Secretary asks the Most Reverend Fathers Bishops:* "Most Reverend Fathers Hierarchs! Doth it please you now to conclude this Synod unto the glory of Almighty God?" *Having received the answer:* "It pleases us," *and reported the same to the Metropolitan, the latter shall say:* "It pleases all the Fathers; therefore we decree the conclusion of this Synod, and hereby do conclude it."  
-*The Secretary, having received the Decree on the Conclusion of the Synod from the Most Reverend Metropolitan, shall read it and announce it as follows:*  
-"S. S. . . . Metropolitan, etc.  
-Whereas all that this Provincial Synod was to deliberate upon, what it was to establish and decide, hath by the help of God already been accomplished and brought to an end, and nothing further remains whereon deliberation should be held; and moreover, pastoral solicitude summons the Most Reverend Fathers Bishops present at this Synod back to their flock: with the assent of the same Most Reverend Fathers Bishops, we ordain and decree that this Synod be concluded, and by this very act we do conclude it. Thanks be to God!" [^47].  
-*After the promulgation of the Decree, the Promoter summons the Notaries with these words:* "I, the Promoter of this Synod, do admonish and pray you, Venerable Notaries of this Synod, that you diligently record all who were present at this final Session, and draw up an accurate and authentic report of all that was treated and enacted at this Synod."  
-*The First Notary answers:* "I shall draw it up."  
-*After all this, the Most Reverend Metropolitan shall deliver a brief concluding address to the conciliar members.*  
-*At the conclusion of the address, the Most Reverend Metropolitan, vested in all sacred vestments, the Bishops in mantiyas and mitres, and the Chapter Canons in epitrachelia and phelonia, shall descend to the lowest step of the Altar [Prestol],*
-
----
-
-[Leaf p42 / Page 40]
-
-*and here all, having bent their knees, shall bow down with a profound inclination of the head before the Most Holy Mystery of the Eucharist, removed from the Tabernacle [Kyvot] by the Deacon and exposed upon the Altar. After the thrice-repeated incensation of the Most Holy Mystery by the Metropolitan, the same Metropolitan together with the assisting Priests shall chant the hymn used in the Ruthenian Churches, the so-called Supplication [suplikatsia / умилительну пѣснь] in the Slavonic tongue:*  
-1) "Holy God, Holy Mighty, Holy Immortal, have mercy on us" *(thrice); and the people, chanting, repeat the same three times.*  
-2) "From pestilence, famine, fire, and war, deliver us, O Lord" *(thrice); and the people thrice.*  
-3) "From sudden and unprovided death, preserve us, O Lord" *(thrice); and the people three times.*  
-4) "We sinners pray Thee, O God, hear us, O Lord." *And the people the same.*  
-5) "We sinners pray Thee, O God, forgive us, O Lord." — *And the people the same.*  
-6) "We sinners pray Thee, O God, have mercy on us, O Lord." — *And the people the same.*  
-7) "O Jesus, O Jesus, O Jesus, Son of the Living God, have mercy upon us." *And the people the same.*  
-8) "O Mary, O Mary, O Mary, Mother of the Son of God Most High, intercede for us." *And the people.*  
-*Upon the conclusion of these prayers and the thrice-repeated incensation of the Most Holy Gifts, the Metropolitan shall intone the hymn:* "We praise Thee, O God" *[Te Deum laudamus], and then the choir and people standing alternately with the clergy shall chant the remaining verses of the hymn up to the words:* "Save Thy people, O Lord." *Before these words, the Metropolitan, having incensed the Most Holy Gifts three times, approaches the Altar, and holding in his hands the Ostensorium [Daronosytsia] containing the Most Holy Gifts, facing the people, proclaims:* "Save Thy people, O Lord!" *once and a second time, and these same words are chanted by all assisting with the people; then the Metropolitan proclaims again:* "Save Thy people, O Lord, and bless Thine inheritance," *and chanting these words, blesses the people toward the three sides, while the people, together with the clergy and choir, chant the remaining verses of the Ambrosian hymn unto the end.*  
-*After this, having incensed the Most Holy Gifts three times, They are reposed into the Tabernacle [Kyvot].*  
-*The choir shall begin to chant:* "Blessed be the name of the Lord from now and forever" *(thrice).*
+## Table of Contents
+1. [Decrees of the Ruthenian Provincial Synod: Titulus I. On the Catholic Faith (Continued)](#1-decrees-of-the-ruthenian-provincial-synod-titulus-i-on-the-catholic-faith-continued)
+   - [Chapter IV: On Communion in Sacred Things with Heretics and Schismatics (Conclusion) (Leaf p81 / p. 79)](#chapter-iv-on-communion-in-sacred-things-with-heretics-and-schismatics-conclusion)
+   - [Chapter V: On the Censorship of Books (Leaves p81–p84 / pp. 79–82)](#chapter-v-on-the-censorship-of-books)
+   - [Chapter VI: On the Sect of Freemasons and Other Condemned or Forbidden Societies (Leaves p84–p87 / pp. 82–85)](#chapter-vi-on-the-sect-of-freemasons-and-other-condemned-or-forbidden-societies)
+   - [Chapter VII: On Preaching the Word of God (Leaves p87–p90 / pp. 85–88)](#chapter-vii-on-preaching-the-word-of-god)
+   - [Chapter VIII: On the Catechism (Leaves p90–p92 / pp. 88–90)](#chapter-viii-on-the-catechism)
+2. [Decrees of the Ruthenian Provincial Synod: Titulus II. On the Mysteries and Their Administration](#2-decrees-of-the-ruthenian-provincial-synod-titulus-ii-on-the-mysteries-and-their-administration)
+   - [Preamble: Mandate for the Official Ruthenian Trebnik (Leaf p93 / p. 91)](#preamble-mandate-for-the-official-ruthenian-trebnik)
+   - [Chapter I: On the Holy Mystery of Baptism (Leaves p93–p94 / pp. 91–92)](#chapter-i-on-the-holy-mystery-of-baptism)
+   - [Chapter II: On the Holy Mystery of Chrismation (Leaves p94–p95 / pp. 92–93)](#chapter-ii-on-the-holy-mystery-of-chrismation)
+   - [Chapter III: On the Most Holy Mystery of the Eucharist (Leaves p95–p98 / pp. 93–96)](#chapter-iii-on-the-most-holy-mystery-of-the-eucharist)
+   - [Chapter IV: On the Mystery of Repentance (Leaves p99–p100 / pp. 97–98)](#chapter-iv-on-the-mystery-of-repentance)
+3. [Scholarly Critical Apparatus & Footnotes](#3-scholarly-critical-apparatus--footnotes)
 
 ---
 
-[Leaf p43 / Page 41]
+=== LEAF p81 ===
+*(Physical Page 79 / Leaf p81)*
 
-*The Metropolitan, facing the faithful in mitre and with pastoral staff, shall impart the customary blessing to the people and those present; and if he hath most graciously obtained from the Holy Father the faculty to impart the Papal Blessing, he shall then give the Papal Blessing with plenary indulgences according to the form prescribed for such a blessing.*  
-*Then the Deacon proclaims:* "Wisdom!" *Choir:* "More honorable than the Cherubim, and more glorious beyond compare than the Seraphim, without defilement Thou gavest birth to God the Word: true Mother of God, Thee do we magnify."  
-*Metropolitan:* "Glory be to Thee, O Christ God, our hope, glory be to Thee." *Choir:* "Glory be to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen. Lord, have mercy" *(twice).* "Master, bless."  
-*The Metropolitan, standing facing the people and holding the holy Cross in his right hand, proclaims the Dismissal [Otpost]:*  
-"May Christ our true God, through the prayers of His most pure Mother; by the power of the precious and life-giving Cross; of the holy Archistrategos Michael; of the holy Joseph the Betrothed; of the holy, glorious, and all-praised Apostles Peter and Paul; of the holy Andrew the First-Called, and of the other holy Apostles; of the holy Apostles of the Slavs Cyril and Methodius; of the holy Hieromartyr Josaphat; of the holy, glorious, God-fearing Ruthenian Princes Vladimir and Olga; of our venerable Fathers Anthony and Theodosius of the Caves; of the holy and righteous Ancestors of God Joachim and Anna; and of the holy Great-Martyr, Victorious Wonderworker George, whose temple this is; and of all the Saints: have mercy † and save † you †, for He is good and the Lover of mankind." —  
-*Choir:* "Amen."  
-*After these prayers, the Metropolitan intones the Polychronion [Mnohaya Lita]:* "To the Most Holy Ecumenical Hierarch Leo, Pope of Rome: Many years!"  
-*Clergy, choir, and people:* "Many years!"  
-*Metropolitan:* "To our right-believing and God-preserved Emperor Franz Joseph: Many years!"  
-*Choir:* "Many years!"  
-*The First Bishop:* "To our Most Reverend Archbishop and Metropolitan, the Lord Sylvester: Many years!"  
-*Choir:* "Many years!"  
-*Metropolitan:* "To the God-beloved Bishops: Julian, Bishop of Przemyśl, and Julian, Bishop of Stanyslaviv: Many years!"  
-*Choir:* "Many years!"  
-*The Second Bishop:* "To the entire Catholic Episcopate: Many years!"  
-*Choir:* "Many years!"
+Further, that doctrine of the Catholic Church concerning communion in sacred things with non-Catholics was also clearly set forth by our Synod of Zamość, which decided thus: *"Moreover, it is not permitted to anyone, of whatever state or station he may be, who professeth the Catholic faith, to go unto outside pastors and their churches, whether for the reception of the Mysteries or out of devotion, lest it appear that they have actual communion with those who are without; in the contrary case, Ordinaries shall proceed against them as against suspects."* [^44]
+
+3. Whereas, however, the present Synod hath learned not without great sorrow of its heart that certain laymen at times depart from that doctrine, so that in the church of schismatics during sacred functions together with them, without scruple of conscience, they are observed to be present, and at times also do not hesitate to give stipends for sacred services for the help of the soul of some Ruthenian poet or some political man of greater renown, a schismatic, unto schismatic priests, and seem to regard this as permitted, or at least as indifferent; therefore it strictly admonisheth all priests, catechists of public schools, as also other pastors of souls, especially where occasion presenteth itself, that they duly instruct the faithful committed to their care concerning this matter, and fail not to deter them from that custom, which is contrary to the spirit of Christ's Church, since such communion with those of other faiths in sacred things would prepare undoubted harm for their souls.
 
 ---
 
-[Leaf p44 / Page 42]
+### CHAPTER V. On the Censorship of Books
 
-*The same:* "To the Very Reverend Canons of all our three Chapters: Many years!"  
-*Choir:* "Many years!"  
-*Then the same:* "To the entire Catholic Priesthood: Many years!"  
-*Choir:* "Many years!"  
-*The same:* "To all orthodox Christians: Many years!"  
-*Choir:* "Many years!"  
-*After this, the Metropolitan, having laid aside the sacred vestments, vests in the mantiya, and giving the Kiss of Peace, kisses the senior Bishop on the left shoulder, saying:* "Christ is among us," *who, kissing the shoulder of the Metropolitan in turn, answers:* "He is and shall be"; *and he approaches the other Bishop and gives him the Kiss of Peace in the same manner, who thereafter approaches the first Canon and greets him with peace and kissing with the aforesaid words, and so it proceeds down unto the last Priest, repeating the same greeting and response.*  
-*When all have greeted one another in this manner, they shall forthwith proceed in procession to the Metropolitan Palace, and having bidden farewell to the Metropolitan, shall depart to their homes in peace.*
+1. By the very law of nature the reading of those books whose use bringeth the danger of sin is forbidden. Therefore from the very beginning of the Church, Bishops, and above all the Roman Pontiff, have always the duty, and to them
 
-—————
+=== LEAF p82 ===
+*(Physical Page 80 / Leaf p82)*
 
-The Acts and Decrees of the Synod, not only recorded in the original text, that is, in the vernacular Ruthenian language, but also well and faithfully translated into the Latin tongue, shall be dispatched as speedily as possible to the Holy Apostolic See, through His Eminence the Cardinal Prefect of the Sacred Congregation of Propaganda, for examination and approval.  
-And finally, when they shall have been approved, they shall be promulgated and observed.
+pertaineth the right to prohibit the reading of bad books and periodicals; for they are appointed pastors of the flock of God [^45]; and the duty of a pastor is to go before his sheep [^46] and lead them unto good pastures, and to restrain them from bad and harmful pastures, whether they be delivered by word or in writing. Wherefore already the Apostles strove by their authority to tear bad books from the hands of the faithful, just as, according to the testimony of Saint Luke [^47], many Ephesians who followed curious arts brought together their books and burned them before the eyes of all. Following the example of the Apostles, their successors, the Catholic Bishops, in every age condemned evil writings and strove to uproot them.
 
-B. V. V. S. Pr. D. M. Ch. [To God Almighty in the Holy Trinity, and to the Ever-Virgin Mary, Honor.]
+2. Greater vigilance in this matter Bishops exercised from the time when, through the invention of printing, books began to be disseminated with great rapidity. — And that the condemnations of books might become more easily known to the faithful, and that the reading of forbidden books might be more safely prevented, through the care and solicitude of the Roman Pontiffs there was compiled an Index of Forbidden Books, and church censures or penalties were prescribed and established against transgressors of the prohibitions of censorship. In addition, Saint Pius V established a special "Congregation of the Index" (*Congregatio Indicis*), which hath the duty to examine books infected with the poison of heresy, permeated with doctrine harmful to religion and good morals, and to prohibit the dissemination, keeping, and reading of such books, subjecting those who act to the contrary to excommunication [^48]. That Congregation therefore from time to time inscribeth works harmful to faith and morals into the Index of Forbidden Books and deterreth from the reading of the same. In more recent times, however, the Supreme Pontiff Pope Pius IX of blessed memory abolished, or rather systematized, the earlier prescriptions regarding censures, imposed by the Constitution *Apostolicae Sedis* ("Of the Apostolic See") of October 12, 1869, in Section 2, against those who would not cease to read forbidden books, and decreed that all and singular, who knowingly without permission of the Apostolic See read the books of apostates and heretics defending heresy, as also the books of whatever author
 
----
+=== LEAF p83 ===
+*(Physical Page 81 / Leaf p83)*
 
-[Leaf p45 / Page 43]
+specifically forbidden by Apostolic Letters, and who retain, print, and in any way defend those same books, shall incur excommunication of judgment passed (*latae sententiae*), in a special manner reserved to the Roman Pontiff.
 
-### VI.
+3. On that foundation the present Synod admonisheth pastors constantly and unceasingly to prevent the dangers to faith and morals arising from the reading of bad books, brochures, and periodicals. Wherefore let them strive to prohibit the doctrines of those of other faiths, and to see that books containing heresy or schism, or offending against the purity of morals, or superstitious, or in any way contrary to public order, be not sown among the faithful. There are indeed those who deem it an unjust thing to prohibit people from reading any books under the pretext of desiring to know everything; but these are drawn and deceived by the whisperings of the ancient serpent, who under pretext of bringing our first parents to the knowledge of everything, urged them to pluck the forbidden fruit with the words: *"Ye shall be as gods, knowing good and evil"* [^49]. Others deem it unbearable not to have books that satisfy curiosity and bring something new to an insatiable spirit, as if Christians ought to suffer nothing burdensome, and as if the words of the Savior and Lord had no meaning: *"If thine eye offend thee, pluck it out, and cast it from thee"* [^50]. There are also not a few who support themselves by scribbling, and for the sake of obtaining gain labor in the writing, printing, and selling of subversive books; but these, having faith and good morals for sale, and enriching their estate from the death of souls, forget the words of the Savior in Saint Matthew: *"What is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul?"* [^51]. Wherefore the present Synod, renewing the decisions and enactments concerning forbidden books issued by the Synod of Zamość, as found at the end of Title I, "On the Catholic Faith," commandeth all that for church use they acquire and admit only such editions of liturgical books as
 
-#### Letter of the Ruthenian Episcopate of the Province of Galicia, Wherein the Same Reports to the Holy Father the Completion of the Synod and Humbly Prays for the Approval of the Decrees
+=== LEAF p84 ===
+*(Physical Page 82 / Leaf p84)*
 
-**Most Holy Father!**
+are printed with the permission of the legitimate Ordinary (Bishop). To memory must be recalled here the words addressed by Pope Gregory XVI of blessed memory to Metropolitan Mykhailo Levytsky on the 17th of July, 1841: *"With a vigilant spirit continually take heed that this clergy and people (Ruthenian) receive not Sluzhebniks or Catechisms, or any other liturgical and religious books whatever, that have issued from schismatic presses."* The same applieth also to printed prayer books for the use of the laity, namely that they use no other books of devotion except those that have been printed with the permission of ecclesiastical authority. In addition, the same Synod commandeth that in the future theological books and any others treating directly of religion shall not, without the prior approval of the Bishop, be published or read by persons of whatever estate. The parish, decanal, and eparchial library shall be provided only with such theological, homiletic, and catechetical works wherein the approval of the Superiors of the Catholic Church is explicitly found.
 
-We hasten to report to Your Holiness that the work which we, having assembled for the benefit and good of our Church, undertook, hath been happily accomplished with the help of Almighty God and the Most Blessed Virgin Mary. For unto You, Most Holy Father, and unto Your goodwill toward our Ruthenian people, is it to be attributed that this Provincial Synod was celebrated for the growth of the Catholic faith, for the closest bond of holy Union with the Roman Church, for the ordering of the morals of the clergy, for the proper regulation of priestly life, and for the fitting establishment of our discipline. This Synod, mindful of those truths which You, Most Holy Father, in Your exalted Constitutions and Encyclicals have set forth as testimonies of heavenly doctrine, and which illumine the whole universe like the brightest light, accepts and reveres the same, and hath resolved to append them unto its own Acts. We profess that all which the Hierarchs and the entire Priesthood of this ecclesiastical Province desired, hath come to pass through the fatherly love of Your Holiness toward us, since it was regarded as exceedingly desirable that some prelate from among the Roman Hierarchy should preside over this our assembly, who, representing the person of the Roman Pontiff Himself, should exercise the office of Apostolic Delegate.  
-Receive, Most Holy Father, the grateful sentiments of our soul, that, gifted with piercing discernment of mind, You selected for that office the Most Reverend Agostino Ciasca, Archbishop of Larissa, a man so illustrious, distinguished in learning, and exceedingly skilled in the knowledge of Eastern rites. He, by his prudence, patience, moderation conjoined with resolve, and other endowments so greatly necessary for such an office, distinguished himself especially in the General Congregations, so that he not only guided divergent and differing opinions to the attainment of truth, but also won the minds of those present unto himself and carried them away in admiration. And indeed his wisdom shone forth most brilliantly in his collaboration both in drafting and in properly arranging all that relates...
+4. In fine, this our Synod admonisheth priests that they lead the laity by their own example, and that they read not bad periodicals, hostile to the faith and the Catholic Church, and especially those prohibited by ecclesiastical authority, and that they strive with all their might to turn away the faithful committed to their pastoral care from reading them. — If, however, any priest for a just cause should need to read forbidden books, let him not do so without the knowledge and permission of his Ordinary, who will be able to grant priests such permission according to the faculties received from the Holy See.
 
 ---
 
-[Leaf p46 / Page 44]
+### CHAPTER VI. On the Sect of Freemasons and Other Condemned or Forbidden Societies
 
-...unto the establishment of the Minor Seminary, unto the fitting education of alumni in the Major Seminary, unto the proper ordering of the life of the clergy of the New Testament, and unto the statutes to be observed in conducting ecclesiastical courts. He spoke effectively for the propagation of the veneration of the Virgin Mother of God, whose praises and magnificats we have drawn anew, Most Holy Father, from Your most recent Encyclical of the 22nd day of September last [*Octobri Mense*, September 22, 1891]. No small labor and effort did he also contribute together with the Bishops both in examining the diverse proposals of the Commissions, in preparing the agenda of the General Congregations, and in collating the Latin text with the Ruthenian translation. Therefore the outcome of the work was such that everything proceeded in this Synod fittingly and orderly, amid the unanimous and perfect concord of the Fathers.  
-Therefore, prostrating ourselves at the feet of Your Holiness, we humbly pray that You, Most Holy Father, may accept the celebration of this Synod as the brightest pledge of our honor, obedience, devotion, and love toward You, our most loving Father and most gracious Vicar, Protector, and Defender of the Catholic Ruthenians.  
-Deign, Most Holy Father, to command that the Acts of this Synod, as soon as they are transmitted to Rome, be examined and provided with Apostolic confirmation.  
-Humbly prostrate at the feet of Your Holiness, we implore the Apostolic Blessing.
+1. Already from the beginning of the Church, by the permission of Christ the Lord, who explicitly foretold: *"It must needs be that
 
-At Lviv, the 8th day of October, 1891.
+=== LEAF p85 ===
+*(Physical Page 83 / Leaf p85)*
 
-**Sylvester Sembratovych,**  
-Metropolitan of Halych, Archbishop of Lviv.  
-**Julian Pelesz,**  
-Bishop of Przemyśl.  
-**Julian Kuylivsky,**  
-Bishop of Stanyslaviv.
+offences come"* [^52], subtle men arose who, mingling divine things with human, sowed tares in the field of the Church. Worst among others arose those who flatter human passions and seduce the uneducated and simple, striving with all their might under the guise of honesty and beneficence to overturn the firm and unshakable principles of the Catholic faith and divine revelation, as well as the foundations of civil society. And that these men might more easily attain their subversive purpose, they joined together in secret societies, which go under the name of Freemasons or under other names.
 
----
+2. Against this kind of secret societies the Roman Pontiffs issued very many constitutions and apostolic decrees, and most recently our Most Holy Father Pope Leo XIII exposed their murderous teachings, contrary to Christ and His Church, and their secret aims for the destruction of both civil and ecclesiastical society, and at the same time seasonably instructed the faithful by what means they may guard themselves against their deception and snares.
 
-[Leaf p47 / Page 45]
+3. Yet the Roman Pontiffs were not content merely to condemn and publicly excommunicate them, but willed also that those who in any degree adhere to them, or show them any favor, should incur excommunication reserved to the Pope [^53]. Therefore let all those who strive to avoid shipwreck concerning faith and eternal salvation shun this kind of sects, and those who have unhappily fallen into them, let them separate themselves from them without delay.
 
-#### To Sylvester Sembratovych, Archbishop of Lviv, — Julian Pelesz, Bishop of Przemyśl, — Julian Kuylivsky, Bishop of Stanyslaviv — of the Ruthenians
+4. Sectarians of this kind, and likewise all the faithful cognizant of the matter, are strictly bound to denounce to the Church—that is, unto him who by reason of his pastoral office is bound to watch and guard lest the sheep committed to him fall among wolves—the members of an excommunicated society; and under censure reserved to the Roman Pope, the secret coryphaei and leaders of those sects, which censure upon denunciation ceaseth [^54].
 
-### Leo, Pope XIII
+=== LEAF p86 ===
+*(Physical Page 84 / Leaf p86)*
 
-**Venerable Brethren!**
+5. Besides these, there are yet other societies that work against the Church or legitimate authorities, whether secretly or openly, under oath or without an oath concerning the keeping of secrecy, which are forbidden and which under threat of grave guilt must be avoided; among these must be numbered above all those societies that demand of their adherents under oath not to disclose secrets to anyone and to obey secret leaders. Likewise, there are found here and there societies that, although they seem to differ from the above-mentioned, are nevertheless questionable and full of danger both on account of the doctrines they profess and on account of the manner of conduct their leaders maintain. Against these also the Holy Synod warneth pastors, fathers of families, and other righteous men, that they deter and restrain everyone, but especially the youth, and that the more carefully, since on account of a certain appearance of honesty and even beneficence maintained by them, the danger of corruption hidden within them cannot so easily be perceived and guarded against [^55].
 
-We cannot sufficiently express in words the singular joy which seized Us when We learned that you, Venerable Brethren, for the increase of the Catholic faith and to make firmer the bond with the Roman Church, outside of which there is no salvation, under the leadership of Our Delegate, have happily celebrated the First Synod of Lviv. For from it We have known that you with provident zeal have striven to provide appropriate remedies whereby the errors introduced by the hardships of time and the deceit of men might be removed; that the priests committed to your care might manifest holiness of life; that candidates called to the lot of the Lord's service might in the seminaries be trained in the best manner for the proper fulfillment of the duties belonging to the holy order of the priesthood; that certain and secure rules of liturgy and discipline might be established; that the obedience due to sacred pastors might be strengthened; that fraternal love and concord might endure; and that the people might faithfully apply themselves to the duties of Catholic profession and piety.  
-Therefore, having rendered thanks unto the Heavenly Chief of Pastors, Who assisted you with His aid that you might provide for the common good of your flock, We deemed it the duty of Our supreme Pastorate to bestow upon you sincere and well-deserved praise for what you have accomplished in religious zeal, and We earnestly exhort you that in this holy undertaking you remain steadfast and continue to labor for the cause of God and of the Church.  
-Having this in view in the future, you will multiply your merits before God and contribute to the increase of the true happiness of the entire Ruthenian Nation, most dear unto Us.  
-We beseech Almighty God, the Giver of all good things, with Our whole heart, that He may graciously incline unto the desires expressed by you, and We most lovingly impart the requested Apostolic Blessing unto you, Venerable Brethren, and unto the entire Ruthenian people.  
-Given at Rome, at St. Peter's, the 20th day of May, in the year 1895, the eighteenth of Our Pontificate.
+6. Likewise this Synod decreeth that pastors in teaching the catechism frequently explain what kinds of societies these are and whither they tend. And those who instruct the youth for the reception of the Holy Mysteries, let them lead them to promise beforehand that they will never enter any society without taking counsel of their parents, pastor, or confessor.
 
----
+7. We likewise admonish pastors of souls that they warn the faithful committed to them with all diligence, both against practicing and against having recourse for counsel to that kind of sorceries known under the name of magnetism, spiritism, divination, and witchcraft, which have already and in such manner been forbidden by the Church.
 
-[Leaf p48 / Page 46]
+8. Let the Most Reverend Bishops strive diligently that in individual parishes societies of artisans and agriculturalists, for piety and mutual
 
-### VII.
+=== LEAF p87 ===
+*(Physical Page 85 / Leaf p87)*
 
-### Acts of the Congregations and Sessions
-
-#### General Congregation I
-
-On the 24th day of September, at 9 o'clock before noon, there assembled in the chapel of the Metropolitan Palace:  
-The Most Reverend Fathers:  
-Agostino Ciasca, Archbishop of Larissa, President of the Synod;  
-Sylvester Sembratovych, Metropolitan, etc.;  
-Julian Pelesz, Bishop of Przemyśl;  
-Julian Kuylivsky, Bishop of Stanyslaviv;  
-and all the other Fathers.  
-The Most Reverend Metropolitan celebrated the Divine Liturgy in the Archcathedral Church of St. George the Great-Martyr, and at its conclusion celebrated in his chapel prayers with the invocation of the Holy Spirit, greeted the assembly with a brief address, and set forth the purpose and benefit of the Synod.  
-At the conclusion of the address, His Excellency the President of the Synod and Apostolic Delegate Father Agostino Ciasca, upon the counsel of the Bishops, summoned the Metropolitan, the Bishops, all Priests present, and the Senior of the Stauropegion Institute to make the promise of observing secrecy. — Then all the Priests upon their priestly conscience gave the promise of observing secrecy, and the Senior upon his dignity and honor.  
-The Apostolic Delegate and Synodal President commanded through the Consistorial Chancellor that the decrees of election and nomination of the officials of the Synod be promulgated, namely:  
-1. Judges of Excuses and Complaints:  
-President: The Most Reverend Bishop of Przemyśl, Dr. Julian Pelesz.  
-Members: The Very Reverend Mykhailo Sinhalewych, Archpresbyter of the Metropolitan Chapter.  
-The Very Reverend Venedykt Lytynsky, Archdeacon of the Chapter of Przemyśl.  
-The Very Reverend Ivan Lytvynovych, Custos of the Chapter of Stanyslaviv.  
-The Very Reverend Andrei Biletsky, Scholastic of the Metropolitan Chapter.  
-2. Promoters of the Synod: The Very Reverend Fathers: Lev Turkewych, Cathedral Canon of the Metropolitan Chapter; Myron Podolynsky,
+assistance, having chosen for themselves a heavenly Patron, be founded, and that from day to day they grow ever more in the number of their members.
 
 ---
 
-[Leaf p49 / Page 47]
+### CHAPTER VII. On Preaching the Word of God
 
-Cathedral Canon of the Chapter of Przemyśl; Celestyn Kostetsky, Honorary Canon of the Chapter of Stanyslaviv.  
-3. Secretaries of the Synod: First Secretary: Konstantyn Strotsky; further: Kornylii Montsybovych, Leontii Lushpynsky, Teofil Dmukhovsky, Anatolii Dolynsky, Yosyf Tykhovych, Ivan Redkevych, Oleksander Tanchakovsky.  
-4. Notaries: Protonotary of the Synod: Oleksiy Toronsky; further Notaries: Yevstakhii Klosevych, Petro Krypiakevych, Tyt Myshkovsky, Vasyl Chernetsky, Vasyl Bohonos, Stefan Yuryk.  
-5. Master of Ceremonies: Cathedral Canon of the Metropolitan Chapter Martyn Pakizh. Assistants: Teodor Korduba, Yevhen Huzar, Dr. Ivan Hrobelsky, Volodymyr Petrushewych, Oleksander Zderkovsky.  
-6. Theologians and Canonists: Dr. Klyment Sarnytsky, Dr. Yosyf Komarnytsky, Dr. Yosyf Cherlyunchakevych, Dr. Yosyf Levytsky, Dr. Yosyf Delkevych, Isidore Dolnytsky, Oleksiy Kniahynytsky, Dr. Teofil Sembratovych, Andrei Biletsky, Ivan Lytvynovych.  
-Then were nominated three Commissions for the examination of the Decrees:  
-1. Commission:  
-President: The Most Reverend Bishop Dr. Julian Pelesz; Vice-President: Venedykt Lytynsky, Archdeacon of Przemyśl; Antonii Petrushewych, Custos of the Metropolitan Chapter. Members: Lev Turkewych, Ilarii Stetkewych, Dmytro Huzar, Ihnatii Hubchak, Vasyl Fortuna, Ivan Slyuzar, Yevstakhii Merunovych, Volodymyr Dorozhynsky, Orest Chekhovych, Dionizii Dobriansky, Stefan Khylyak, Kasiyan Kunytsky, Ivan Kobliansky, Teodor Lisewych, Hryhorii Tymyak, Teodat Shankovsky, Onufrii Lepky, Mykhailo Gulla, Petro Mytskovsky;  
-2. Commission:  
-President: The Most Reverend Bishop Julian Kuylivsky. Vice-Presidents: Andrei Biletsky and Myron Podolynsky.  
-Members: Teofil Pavlykov, Mykhailo Kulmatytsky, Yosyf Zaiachkivsky, Mykola Kobrynsky, Ivan Yurkevych, Teodor Stupnytsky, Yosyf Kerniakevych, Ivan Kopystiansky, Toma Shumylo, Ivan Yablonovsky, Teodor Melnyk, Kyrylo Pachovsky, Antonii Kobrynsky, Ivan Mykhalevych, Mykola Malyniak, Julian Levytsky.
+1. Since the Word of God is spiritual bread to the soul, indispensably necessary for man unto the attainment of eternal salvation, therefore it is manifest that this apostolic office of preaching the Word of God pertaineth to the chief duties of pastors of souls, because they further fulfill that same mission which the Son of God Himself incarnate received from His heavenly Father, as He Himself saith according to the prophet Isaiah: *"The Spirit of the Lord is upon Me, because He hath anointed Me to preach the gospel to the poor; He hath sent Me... to preach the acceptable year of the Lord, and the day of recompense"* [^56]; and which He enjoined upon the Apostles and their successors in the apostolic office after His glorious Resurrection, saying: *"Go ye into all the world, and preach the gospel to every creature"* [^57]. In obedience to that command, the Apostles not only themselves fearlessly fulfilled this office even unto death, but also strictly enjoined the same upon the pastors appointed by them, and among them most of all Paul, saying unto Timothy: *"Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all longsuffering and doctrine"* [^58].
 
----
+2. Wherefore it hath at all times lain closest to the heart of the Church to lay this commandment upon pastors of souls, whether by laws or by admonitions; and most solemnly the Fathers of the Council of Trent thought fit to recall this duty to the memory of pastors of souls [^59].
 
-[Leaf p50 / Page 48]
+3. In particular, regarding our Church, this command was emphatically enjoined at our first
 
-3. Commission:  
-President: The Very Reverend Father Mykhailo Sinhalewych; Vice-Presidents: Ivan Lytvynovych and Ivan Voytovych, Cathedral Canon of Przemyśl. Members: Mykhailo Karachevsky, Dr. Yosyf Komarnytsky, Omelian Bilynsky, Oleksander Stefanovych, Vasyl Kopytchak, Oleksander Chemerynsky, Ivan Zalutsky, Antonii Davydovych, Atanasii Pashkovsky, Ivan Sokhansky, Hryhorii Slovitsky, Yosyf Makohonysky, Kyrylo Seletsky, Sylvester Kopystiansky, Mykola Rozdilsky, Platon Paslavsky, Vasyl Chemarnyk, Rudolf Mokh, Mykola Hoshovsky, Ivan Partytsky.  
-The assembled Fathers present to His Excellency the Apostolic Delegate the letters of their delegation, on the basis of which, after their examination and recognition of their authenticity, they participate in the Synod.  
-The President asks the Fathers whether they know of anyone absent from among those who by law or custom ought to be present at the council.  
-Upon receiving a negative reply, he ordered the Decrees, previously drawn up for the First Session by counsel and consent of the Bishops, to be read, namely:  
-1. Decree on the Opening of the Synod.  
-2. Decree on the Profession of Faith to be Made.  
-3. Decree on the Manner of Life during the Time of the Synod.  
-4. Decree on the Non-Infringement of the Rights of Others.  
-5. Decree That It Is Not Permitted to Withdraw from the Synod.  
-At the conclusion of this, the President, with the consent of the Bishops, announced that the First Session would take place on Sunday, the 27th of this month and year, and ordered the respective decree to be promulgated. Upon the conclusion of the reading thereof and after the recitation of prayers, this First Congregation was concluded.  
-**Oleksiy Toronsky,**  
-Synodal Protonotary.
+=== LEAF p88 ===
+*(Physical Page 86 / Leaf p88)*
 
-### Session 1
+Provincial Synod [^60], and thereafter in many pastoral letters of the Ruthenian Bishops [^61].
 
-On Sunday, the 27th day of the month of September, at the 9th hour before noon, all proceeded from the Metropolitan Palace in solemn procession to the Archcathedral Church of St. George. There, after the celebration of the Divine Liturgy sung by the Most Reverend Metropolitan with both Most Reverend Bishops, and after the celebration of the customary prayers, the Most Reverend Apostolic Delegate delivered the following address to the Synod:
+4. Therefore the present Synod commandeth pastors of souls that at least on every Sunday and on feast days, they themselves never omit to preach the Word of God suitably to their own understanding and that of their people, unless they be legitimately hindered. Those pastors to whom assistants are assigned, let them see that they do not cast upon them the entire burden of the preaching office, nor that they entirely exclude them from the fulfillment of that office, but that by turns, together with them, they apply themselves to the duty of preaching the Word of God. In the parishes of larger towns, where there are more priests, the pastor shall see to it that the faithful who are able to be present only at the earlier Divine Liturgy on Sundays and feast days, be nourished at that same Divine Liturgy with the Word of God in a short homiletic instruction.
+
+5. Since the purpose of preaching is to enlighten the minds of the faithful and move their hearts to the pursuit of virtues and the avoidance of errors, let them choose as the subject of their sermons dogmatic and moral truths, often also liturgical ones for the connection of rites with dogmas and morals, as also historical ones, in so far as they relate to dogmas and morals; but above all let them direct their diligence toward drawing the subject of their preaching from the appointed Gospels of Sundays or feasts, whose mysteries let them clearly set forth and explain, and also from Christian doctrine contained in the catechism.
+
+6. As to the manner of their sermons, above all let preachers take care that they go not up to the ambo without due preparation, and thus proclaim whatever first cometh into their heads, without any order and arrangement; and in general let them guard lest they set before the faithful anything confused, not pertaining to the subject of the sermon suitable for the day; since
+
+=== LEAF p89 ===
+*(Physical Page 87 / Leaf p89)*
+
+from such a sermon not only could the faithful derive no benefit, but the preacher himself would call down upon himself the wrath of God speaking through the Prophet: *"Cursed be he that doeth the work of the Lord negligently"* [^62]. Let preachers observe that commendable custom recognized among us as best, to cite at the head of the sermon a text containing, as it were in seed, the entire sermon, and that in the liturgical language; where, however, such a text happeneth to be difficult to understand, let them immediately subjoin a translation of it in the vernacular tongue; and let them do likewise wherever in the course of the sermon texts of Sacred Scripture are to be proclaimed; these, however, must be taken from the authentic Slavonic edition approved by the Catholic Church; then let the speech of the sermon always be vernacular, that is, accessible to the understanding of the people, yet not disfigured by vulgar expressions. Further, let them take heed not to repeat too frequently one and the same thing to the people. In addition: *"Let the priest preaching Christ be filled with the affairs of Christ, and think not even of his own; let him hold to the rule that it is never fitting to speak of himself, and let him not easily persuade himself that he hath a just cause for an exception. Concerning an injury which he hath suffered or thinketh he hath suffered, let him not complain before the parishioners from the sacred elevation (the ambo). He will fulfill his duty if he discuss more thoroughly the sins that more frequently occur among his people, stand up against their abomination, recommend the rewards and beauty of the contrary virtue, but never let him describe the scandals of individual persons in such a manner that withholding the name will be of little avail. Let the pastor summon to himself the man through whom scandal came among the people, and let him confer with him privately, or let him use the assistance of the village elders. Public reproof of sinners, according to the circumstances of the time, is wont rather to embitter them than to incline them unto salvation, and great contentions and difficulties may even arise therefrom"* [^63]. Therefore let the preacher strictly beware lest in
+
+=== LEAF p90 ===
+*(Physical Page 88 / Leaf p90)*
+
+his discourses to the people he speak either of himself, or of his private affairs, or of matters purely political and secular, which have no connection with the doctrine of faith and good morals; and equally let him not revile publicly and by name, nor censure any persons whatever, even private ones, and much less superiors and men distinguished by public authority.
+
+7. And that unto the salvific fulfillment of that duty of preaching, preachers may be duly animated and inspired in spirit, let them fail not to invoke the Teacher of truth and the Comforter, who alone hath the keys and openeth when He willeth and is able, by His internal operation, to enter into the souls of the faithful and by His divine power penetrate the hearts of the hearers. Further, let them frequently awaken within themselves the pure and holy resolution that they seek the glory of God alone, and not their own, and no other reward for their labor than the salvation of souls.
+
+8. Unto that end, constantly turning their eyes upon their own weakness, let them earnestly beware *"lest by any means, when they have preached to others, they themselves should be castaways"* [^64]. Finally, that they may be able the more surely to trust that, fulfilling their ministry duly, they will merit a portion with those who from the beginning have wielded the Word of God well: let them not cease to shepherd and teach the flock of the Lord not only by word, but also by their own example. *"For great is the condemnation of him who ordereth his discourse well, but neglecteth his own life and his own works"* [^65].
 
 ---
 
-[Leaf p51 / Page 49]
+### CHAPTER VIII. On the Catechism
 
-**Most Reverend and Very Reverend Fathers!**
+1. Since the Catechism aimeth especially at the instruction of youth in the doctrine of salvation, and since this age is most inclined both unto good and unto evil, and longest retaineth the first teachings received from childhood,
 
-In the grievous misfortunes of our times, which press upon the Church of Jesus Christ from all sides, nothing so greatly comforts and uplifts the spirit of our Most Holy Father Pope Leo XIII as the union of Pastors in faith and charity with the Supreme Governor of the Church and their endeavor actively to provide for the integrity of morals and the benefit of the faithful. Therefore ye will readily understand, Very Reverend Fathers, how pleasing unto the same Most Holy Chief Pastor was the tidings of your desire to celebrate this Synod in this renowned Metropolitanate of Lviv, imbued with the principles of the true faith by the most holy teacher and Apostle to the Slavs Methodius, and distinguished by an episcopal see from the very beginning. In order to give proof unto all of the joy which arose in His heart from the above-mentioned tidings, and of the solicitude with which He cares for all Churches, and most especially for this your own, the same Supreme Pontiff hath deigned to entrust unto my humility, not only that I should represent His Person in this your glorious Assembly for the elevation of the dignity and splendor of this Synod, but also that I should declare the sentiments of His paternal benevolence and singular love toward the renowned Church of the Ruthenians, and testify anew that your Churches occupy the greatest and most important part of His cares, and that He desires nothing more or more earnestly than that He might provide what is necessary for their benefit and prosperity [^48].  
-Finally, His Holiness, convinced that very great benefits shall come forth from this Synod, bestows upon you all assembled in the Lord, and upon your strivings and labors, and upon the entire Ruthenian people, a special blessing from the heart; and may this blessing be for you a renewed, clear proof of His benevolence toward you, and may it bring unto you, who desire to cultivate the fruitfulness of the Lord's field, an abundance of heavenly gifts.  
-This mandate of the Supreme Pontiff I willingly fulfill and with joy announce unto you, and at the same time I pray and beseech Your Graces that ye look upon the supreme dignity of Him Who commanded me to fulfill this mission among you, Most Illustrious Sacred Pastors, and not upon the weakness of the legate. Unto me indeed, on account of that reverence and affection with which I have been imbued from my earliest youth for the rite and the Churches of the East, among...
+=== LEAF p91 ===
+*(Physical Page 89 / Leaf p91)*
 
----
+so that the direction given in that age is the foundation of the religious way of life in mature age, therefore the Synod deemeth it its duty to turn the greatest attention of pastors unto that most chief duty, that they apply themselves unto it with the utmost exactitude, as unto a very powerful means whereby the faithful committed to their solicitude are most successfully directed unto an honorable life. Let pastors of souls therefore know that they are bound in conscience, and that under grave accountability before God, to teach and expound the principles of Christian doctrine not only in church on every Sunday and feast day immediately after Vespers, and in daughter churches immediately after that divine service which they have celebrated therein, but also in schools according to the regulations issued by the Ordinary, and that above all on account of the present system adopted in modern schools.
 
-[Leaf p52 / Page 50]
+2. In expounding the Catechism they shall follow the order of that textbook which is temporarily prescribed by the Ordinary as the rule to be used in elementary schools, so that in the course of a year they may complete the entire subject matter of the Catechism. To the Catechism let them also join the principal events of Biblical history that have a special connection with the dogmas of faith and morals. In the season of the Great Fast (Forty Days), let them choose for their instructions the doctrine concerning the Mysteries of Repentance and the Most Holy Eucharist, that they may worthily prepare the youth, especially those who are to receive those Mysteries for the first time, for the reception of them; and let them strive that they learn all that must be explicitly believed for the attainment of eternal salvation. Let them also turn their attention to this, that the youth learn the daily prayers correctly, so that they interpolate nothing unnecessary, and neither corrupt nor omit words.
 
-...which the Ruthenian Church is exceedingly distinguished both by the number of the faithful and the excellence of her men, it is pleasing to be present at these your assemblies, in which, by God's help and protection, ye strive with redoubled diligence to preserve inviolate the integrity of this Church and to uphold her welfare. Truly a magnificent counsel! And if from the beginning of matters it is permissible to foretell their end, I doubt not that on the foundation of the constitutions and decrees of this Synod, your Church shall from day to day flourish more and more, diffuse the splendor of faith and ecclesiastical discipline, and attain her ancient glory and pristine beauty. — That this may proceed happily, having invoked the aid of the Most Holy Virgin Mary, Mother of God, immaculately conceived, and of the Holy Archangel Michael, heavenly patron, of Cyril and Methodius, Apostles to the Slavic race, of the Hieromartyr Josaphat, and of Vladimir and Olga, former Ruthenian princes: let us beseech God with fervent prayers that He may graciously favor our intentions, direct our counsels, assist the work begun, and crown its end.  
-Immediately thereafter, he ordered the Apostolic Brief of his delegation as President of the Synod to be read publicly, which was of the following tenor:
+3. In addition, this Synod remindeth pastors of souls that it is their duty to admonish fathers and mothers to send their children and domestic servants at the appointed times to church for instruction in the Catechism, and to teach them that they are strictly bound to do so, since they ought not only to care for their temporal good, but much more for their spiritual and eternal good; the pastor himself ought to go before them by his own example, sending also his own domestics
 
-#### To Our Venerable Brother Agostino Ciasca, Archbishop of Larissa
+=== LEAF p92 ===
+*(Physical Page 90 / Leaf p92)*
 
-### Leo, Pope XIII
+to church for the Catechism. And if any parents or guardians show themselves negligent in sending their dependents, let him summon them to himself, that with paternal firmness he may remind them of this so sacred a duty [^66].
 
-**Venerable Brother!**  
-*Health and Apostolic Blessing.*  
-The office of the Apostleship, committed by God unto Our humility, requires that We strive with prompt zeal for that which redounds to the good, welfare, and prosperity of the Catholic cause. Therefore, when Our Venerable Brethren Sylvester Sembratovych, Metropolitan of Halych, Archbishop of Lviv, Bishop of Kamianets of the Greek-Ruthenian rite, and the Suffragan Bishops of the same rite took counsel to assemble together to celebrate a Provincial Synod: We, praising this salutary and fruitful resolve from Our soul and approving it most highly, having examined all the circumstances of the matter attentively and maturely with Our Venerable Brethren the Cardinals of the Holy Roman Church, Prefects of Propaganda Fide, in order that greater honor might accrue unto the said Synod, upon the counsel of the same Brethren, have resolved to commit the conduct of governing that Synod unto thee, Venerable Brother, in full confidence that thou, with that wisdom, dignity,...
+4. Finally, this Synod, desiring that pastors of souls undertake and perform catechesis with all diligence both in church and in school—for they must know that this is their first and greatest duty, and therefore any negligence or omission in this matter, however slight, yet culpable, inflicteth great harm upon the parish—obligeth them before all things to the greatest diligence and zeal in teaching the youth; and unto that end, besides what hath been set forth above, it also recalleth to their memory the most luminous instructions and regulations that were enjoined concerning this office and duty by the pastoral letter of the Most Reverend Metropolitan Joseph Sembratovych to the clergy of the Archeparchy of Lviv on the 15th of December, 1876 [^67].
 
----
-
-[Leaf p53 / Page 51]
-
-...learning, piety, prudence, skill, and zeal in promoting the Catholic faith — wherein thou mayest be set forth as an exemplar — in the discharge of the duties of this office, wilt fully answer Our expectation. Therefore, showing thee special favor, and absolving thee and holding thee absolved, for the purpose of this matter only, from any sentences of excommunication, suspension, and interdict, and other ecclesiastical censures and penalties, in whatever manner or for whatever cause inflicted, if thou perchance hast incurred any: We, by Our Apostolic authority, by virtue of these letters, do choose, appoint, and declare thee Apostolic Delegate for the convocation and celebration of the said Provincial Synod of Lviv; and that thou mayest fulfill the office of President of the said Synod the more diligently and splendidly, likewise by Apostolic authority We commit, grant, and give unto thee, Venerable Brother, the necessary and appropriate particular and general faculties for this purpose. It shall therefore be thy first task to see to it that the instructions imparted unto thee by the Congregation for the celebration of the Synod of Our above-mentioned Brethren, and the decrees and regulations issued from time to time, especially in more important matters, by this Holy Apostolic See or by the said Congregation, be executed; but also to assist that such discipline to be observed in practice be enacted as shall be consistent with the above-mentioned decrees and introduce uniformity into all provinces and dioceses. Furthermore, We will that thou endeavor to ensure that the acts and decrees of the said Synod be transmitted unto this Holy Apostolic See for examination, and, when deemed appropriate, confirmed by Our authority or that of Our successors.  
-Anything to the contrary, even Apostolic constitutions and ordinances, notwithstanding.  
-Given at Rome, at St. Peter's, under the Ring of the Fisherman, the 4th day of September, 1891, in the fourteenth year of Our Pontificate.  
-For Cardinal Ledóchowski,  
-**T. Archbishop of Seleucia, Substitute.**  
-*Place of the † Fisherman's Seal.*  
-At the conclusion of the reading, His Excellency the Metropolitan delivered an address, wherein he declared the faith and devotion of the Ruthenian Bishops and Clergy toward the Holy Catholic Church and the Holy Apostolic See, and at the same time affirmed their love and attachment toward the Ruthenian Church and rite,...
+5. For having duly preserved and conscientiously fulfilled the above-mentioned regulations, they may hope not only for a hundredfold fruit from the seed of the Word of God sown by them, but they themselves will surely become partakers of that reward wherewith the Lord will crown the labors bestowed by them in explaining the Catechism; for the rest, already on this earth they will rejoice in that comfort and satisfaction which the Apostle of the Nations experienced when, hoping in the goodness of Christ the Lord, he said: *"I have fought a good fight... henceforth there is laid up for me a crown of righteousness"* [^68]. Especially when catechesis, diligently and in a due manner imparted, will effect that as many spiritual sons as possible are formed unto the glory of God, the consolation of the pastor himself and parents, and unto the crown of an honorable Christian in the future, and unto the adornment of the parish, through whose care religion and piety will ever flourish among the faithful of the parish.
 
 ---
 
-[Leaf p54 / Page 52]
+## 2. Decrees of the Ruthenian Provincial Synod: Titulus II. On the Mysteries and Their Administration
 
-...and that the purpose of this Synod is to attest and strengthen Union with the Church of Rome and to satisfy the needs of the Ruthenian Church. He greets His Excellency the Apostolic Delegate and presents a telegram whereby the Holy Father imparts the Apostolic Blessing unto the Synod.  
-The Protonotary reads the telegram:  
-"To the Most Reverend, All-Venerable Father, the Greco-Ruthenian Archbishop in Lviv. S. S. br. Rome 17, 32, 25, 5, 10 sp. The Holy Father with singular joy and pleasure hath read the telegram of Your Grace expressing the sentiments of that Synod, and most lovingly imparts the requested Apostolic Blessing. m. p. Cardinal Rampolla †."  
-Upon the conclusion of this, the Promoters of the Synod make motion for the opening of the Synod. His Excellency the President ordered the Decree on the Opening of the Synod to be read. The First Secretary reads the same.  
-Having inquired of the opinion of the Most Reverend Metropolitan and the Bishops, the President announced and declared that this Synod is to begin, and hath already begun.  
-The Promoters moved the making of the Profession of Faith. The President so decided and ordered, and the Secretary promulgated the Decree on the Making of the Profession of Faith.  
-Upon the promulgation of the Decree, the Metropolitan, having laid aside his mitre, facing the altar, kneels down, and placing his hand upon the book of the Gospels, makes in an elevated voice the Profession of Faith prescribed by Pope Urban VIII for the Orientals, and deposits the same into the hands of the Most Reverend Father President of the Synod:
+=== LEAF p93 ===
+*(Physical Page 91 / Leaf p93)*
 
-### Formula of the Profession of Faith
+### Preamble: Mandate for the Official Ruthenian Trebnik
 
-In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.  
-I, Sylvester Sembratovych, Metropolitan of Halych, Archbishop of Lviv, Bishop of Kamianets, etc., believe with a firm faith and profess each and every thing contained in the Symbol of Faith which the Holy Roman Church makes use of, that is to say:  
-I believe in one God, the Father Almighty, Maker of heaven and earth, and of all things visible and invisible. And in one Lord Jesus Christ, the only-begotten Son of God, begotten of the Father before all ages. God of God, Light of Light, true God of true God, begotten, not made, consubstantial with the Father, by Whom all things were made. Who for us men and for our salvation came down from heaven, and was incarnate by the Holy Spirit of the Virgin Mary, and became man. He was crucified also for us...
+Retaining without change and in its full force all that the Synod of Zamość [^69] pronounced concerning the dignity and manner of administering the Holy Mysteries, as also that which is prescribed in the Decree of the Sacred Congregation for the Propagation of the Faith promulgated under the name *Concordia* ("Agreement") of the 5th of October, 1863, which is annexed hereto in the appendix [^70], this Synod decreeth:
+
+Whereas up to this time the wise regulation of the said Synod of Zamość concerning the publication of a new *Trebnik* (Ritual), on the basis of which all priests of our rite might observe uniformity in the administration of the Holy Mysteries, hath not yet been satisfied in all its parts, the Most Reverend Metropolitan shall take care that such an edition, with all possible diligence and exactness, according to the exemplar prescribed by this Synod, be printed as soon as possible.
 
 ---
 
-[Leaf p55 / Page 53]
+### CHAPTER I. On the Holy Mystery of Baptism
 
-...under Pontius Pilate, and suffered, and was buried. And He rose again on the third day according to the Scriptures. And He ascended into heaven, and sits at the right hand of the Father. And He shall come again with glory to judge the living and the dead, Whose kingdom shall have no end. And in the Holy Spirit, the Lord and Giver of life, Who proceeds from the Father and the Son; Who with the Father and the Son together is worshipped and glorified, Who spake by the Prophets. And in one, holy, catholic, and apostolic Church. I confess one baptism for the remission of sins. And I look for the resurrection of the dead, and the life of the world to come. Amen.  
-I also venerate and accept the Ecumenical Councils, as follows, that is:  
-The First Nicene; and I confess that which was defined therein against Arius, of condemned memory: that the Lord Jesus Christ is the Son of God, begotten of the Father, only-begotten, that is, begotten of the substance of the Father, not made, consubstantial with the Father; and those impious assertions were rightly condemned at the same Council: that there was a time when He was not, or that the Son of God is changeable or mutable.  
-The First of Constantinople, the Second in order; and I confess that which was defined therein against Macedonius, of condemned memory: that the Holy Spirit is not a servant, but the Lord; not a creature, but God; and hath one Godhead with the Father and the Son.  
-The First of Ephesus, the Third in order; and I confess that which was defined therein against Nestorius, of condemned memory: that from the Godhead and the manhood, by an ineffable and incomprehensible union in the one Person of the Son of God, one Jesus Christ was constituted for us, and for this reason the Most Blessed Virgin is truly the Mother of God [*Theotokos*].  
-The Council of Chalcedon, the Fourth in order; and I confess that which was defined therein against Eutyches and Dioscorus, both of condemned memory: that the one and the same Son of God, our Lord Jesus Christ, is perfect in Godhead and perfect in manhood, true God and true man of a rational soul and body, consubstantial with the Father according to the Godhead, and the same consubstantial with us according to the manhood, like unto us in all things, sin apart; begotten before the ages indeed of the Father according to the Godhead, and in the latter days the same for us and for our salvation of Mary the Virgin Mother of God according to the manhood, one and the same Christ the only-begotten Son, acknowledged in two natures without confusion, without change, without division, without separation; the distinction of natures being in no way taken away...
+Concerning the administration of Holy Baptism, the present Synod decreeth that unto what the Synod of Zamość prescribed, the following be added:
 
----
+1. a) *As to the time*: Pastors shall endeavor that it be administered as soon as can possibly be according to circumstances [^71].  
+b) *As to the place*: That the same be ordinarily administered in church [^72]. In our regions, however, on account of the severity of the climate, especially in the winter season, the Synod of Zamość permitteth that the same may at times be administered also in private houses (Tit. III, § 1); according however to the custom now existing
 
-[Leaf p56 / Page 54]
+=== LEAF p94 ===
+*(Physical Page 92 / Leaf p94)*
 
-...by the union, but rather the property of each nature being preserved and concurring into one Person and one Hypostasis; not parted or divided into two persons, but one and the same Son and Only-begotten, God the Word, the Lord Jesus Christ. Likewise, that the Godhead of the same our Lord Jesus Christ, according to which He is consubstantial with the Father and the Holy Spirit, is impassible and immortal: that He was crucified and died only according to the flesh, as was likewise defined at the said Council, and in the Epistle of Saint Leo, Pope of Rome, through whose mouth the Fathers at the same Council proclaimed that the blessed Apostle Peter had spoken; by which definition is condemned the impious heresy of those who added to the Trisagion handed down by the Angels and chanted at the aforesaid Council of Chalcedon: "Holy God, Holy Mighty, Holy Immortal, have mercy on us," the clause: "Who wast crucified for us"; and thus asserted that the divine nature of the three Persons was passible and mortal.  
-The Second Council of Constantinople, the Fifth in order, wherein the definition of the aforesaid Council of Chalcedon was renewed.  
-The Third Council of Constantinople, the Sixth in order; and I confess that which was defined therein against the Monothelites: that in one and the same our Lord Jesus Christ there are two natural wills and two natural operations, without division, without change, without separation, without confusion; and that His human will is not contrary, but subject to His divine and almighty will.  
-The Second Nicene Council, the Seventh in order; and I confess that which was defined therein against the Iconoclasts: that the Icons of Christ, of the Virgin Mother of God, and of the other Saints are to be possessed and retained, and that due honor and veneration are to be rendered unto them.  
-The Fourth Council of Constantinople, the Eighth in order; and I confess that Photius was justly condemned therein, and Holy Patriarch Ignatius restored.  
-I likewise venerate and accept all other Ecumenical Councils lawfully held and confirmed by the authority of the Roman Pontiff; and especially the Council of Florence, and I confess those things which were defined therein, that is: that the Holy Spirit is eternally from the Father and the Son, and hath His essence and His subsistent (hypostatic) being from the Father together with the Son, and from both eternally as from one principle and by a single spiration. Likewise, that the phrase "and the Son" [*Filioque*] was lawfully and reasonably added to the Symbol for the sake of clarifying the truth and out of imminent necessity. Likewise, that in unleavened or leavened wheat bread the Body of Christ...
+in the said cases the child to be baptized is wont to be brought to the parish house, which custom, according to the judgment of the present Synod, may be retained.  
+c) *As to the manner*: Above all the Synod decreeth that the custom received among us from time immemorial, of baptizing by triple pouring (infusion), must be retained.
 
----
+2. That, except in case of extreme necessity, baptism be not separated from the ceremonies attached thereto in the Ritual (*Ustav*).
 
-[Leaf p57 / Page 55]
+3. That the pastor pay heed to the choice of sponsors (godparents / *kumy*), as is already prescribed in the Synod of Zamość (Tit. III, § 1); in particular, let the pastor of souls instruct the sponsors that they are placed in the room of parents, and it properly belongeth unto them to instill into the children whom they held at baptism the precepts of faith and good morals, if their parents should either neglect to do so, or be overtaken by death, or by reason of their absence or in any other way hindered, be unable to do so of themselves [^73].
 
-...is truly consecrated, and that priests are bound to consecrate the Body of the Lord in either of these, that is, each according to the custom of his Church, whether Western or Eastern. — Likewise, that if those who are truly penitent depart this life in the charity of God before they have made satisfaction by worthy fruits of penance for sins committed and omitted, their souls are cleansed after death by purgatorial pains, and that, for the lightening of such pains, the suffragals of the living faithful are profitable unto them, that is to say, the sacrifices of the Divine Liturgy, prayers, alms, and other pious works, which are customarily performed by the faithful for other faithful according to the ordinances of the Church; but that the souls of those who, after receiving baptism, have incurred no defilement of sin at all, and also those which, after contracting the defilement of sin, whether in their bodies or after leaving them, have been cleansed, are straightway received into heaven and clearly behold God Himself, one in Trinity, as He is, yet one more perfectly than another according to the diversity of their merits. But the souls of those who die in actual mortal sin, or in original sin alone, straightway descend into hell, to be punished, however, with unequal pains. Likewise, that the Holy Apostolic See and the Roman Pontiff hold primacy over the whole world, and that the Roman Pontiff himself is the successor of blessed Peter, Chief of the Apostles, and the true Vicar of Christ, and the Head of the whole Church, and the Father and Teacher of all Christians, and that unto him in blessed Peter was delivered by our Lord Jesus Christ full power to pasture, rule, and govern the universal Church, as is contained in the acts of the ecumenical councils and in the holy canons. — Likewise, that the legal ceremonies of the Old Testament or the Mosaic law, the sacred sacrifices and mysteries, upon the coming of our Lord Jesus Christ, have ceased and cannot be observed after the promulgation of the Gospel without sin. Likewise also, that the distinction of clean and unclean meats of the Old Law pertains to ceremonies which have passed away with the arrival of the Gospel. — Likewise, that the apostolic prohibition against things offered to idols, and blood, and things strangled, was suited to that time, that the occasion of discord between Jews and Gentiles might be taken away; which apostolic prohibition having lost its cause, its operation hath also ceased.  
-Likewise I venerate and accept the Council of Trent; and I confess those things which were defined and declared therein. Especially that in the Divine Liturgy there is offered unto God a true, proper, and propitiatory sacrifice for the living and the dead; and in the Most Holy...
+For the rest, for the introduction of perfect uniformity in the administration of this as of all the other Holy Mysteries, the Synod annexeth hereto a schema both of the text and of the ceremonies, which ought to serve as an exemplar for the publication of the new *Trebnik*, which all are bound strictly to observe [^74].
 
 ---
 
-[Leaf p58 / Page 56]
+### CHAPTER II. On the Holy Mystery of Chrismation
 
-...Mystery of the Eucharist (according to the faith which hath always been in the Church of God) there are contained truly, really, and substantially the Body and Blood, together with the Soul and Divinity of our Lord Jesus Christ, and therefore the whole Christ; and that there is made a conversion of the whole substance of bread into the Body, and of the whole substance of wine into the Blood, which conversion the Catholic Church most aptly calls transubstantiation, and that under each species, and under each separate part of each species when divided, the whole Christ is contained. Likewise, that there are seven Sacraments of the New Law instituted by Christ our Lord for the salvation of the human race, although not all are necessary for every individual, namely: Baptism, Chrismation [Myroponamazaniye], the Eucharist, Penance, Anointing of the Sick [Eleosvyashcheniye], Holy Orders, and Matrimony; and that they confer grace: and that of these, Baptism, Chrismation, and Holy Orders cannot be repeated. Likewise, that Baptism is necessary for salvation: and therefore, when danger of death threatens, it ought to be conferred forthwith without any delay; and when conferred by anyone, at any time, with the proper matter, form, and intention, it is valid.  
-Likewise, that the bond of the Sacrament of Matrimony is indissoluble; and even if, on account of adultery, heresy, or other causes, separation of bed and cohabitation may take place between spouses, yet it is not lawful for them to contract another marriage.  
-Likewise, that Apostolic and Ecclesiastical traditions are to be received and venerated. Likewise, that the power of Indulgences was left by Christ in the Church, and that their use is most salutary to Christian people. Likewise, what was defined at the aforesaid Council of Trent concerning original sin, concerning justification, and concerning the canon and interpretation of the sacred books of the Old and New Testaments, I accept and confess.  
-Likewise I venerate and accept the Ecumenical Vatican Council, and all things handed down, defined, and declared thereby, and especially concerning the primacy of the Roman Pontiff and his infallible magisterium, I most firmly accept and confess.  
-Likewise I accept and profess all other things which the Holy Roman Church accepts and professes; and at the same time all things contrary, and whatever schisms and heresies have been condemned and anathematized by the same Church, I likewise condemn and anathematize.  
-Moreover, unto the Roman Pontiff, successor of blessed Peter, Chief of the Apostles, and Vicar of Jesus Christ, I promise and swear true obedience.
+Concerning the Holy Mystery of Chrismation, the Synod commandeth pastors of souls that they preserve all that the Synod of Zamość prescribed regarding this Holy Mystery; in particular, as to the matter of this Mystery, that is, the Holy Chrism (*sviate Myro*), the present Synod insisteth that the same be renewed yearly at the appointed time. But whereas in this regard negligence of pastors is at times observed, the Synod strictly admonisheth them that they observe this prescription exactly;
 
----
+=== LEAF p95 ===
+*(Physical Page 93 / Leaf p95)*
 
-[Leaf p59 / Page 57]
+and therefore immediately after the consecration of the new Chrism, which ordinarily taketh place on Great and Holy Thursday, they shall procure the same through their respective decanal office, and it shall be used only until the consecration of the new Chrism of the following year, which is to be performed on Great and Holy Thursday, so that within a month from the consecration they may already have the new Chrism in their possession; and the strict duty of watching over this is laid upon the respective Deans themselves. The Holy Chrism the Deans themselves, or priests commissioned by them, are ordinarily bound to receive from the Prefect of the Cathedral Sacristy and deliver to the decanate.
 
-This faith of the Catholic Church, outside of which no one can be saved, which I at this present time freely profess and truly hold, the same whole and inviolate, even unto the last breath of life, most constantly, with God's help, to retain and confess, and to take care, as far as in me lies, that it be held, taught, and preached by those subject to me, or by those whose care shall belong unto me in my office: I, the same Sylvester Sembratovych, Metropolitan of Halych, Archbishop of Lviv, Bishop of Kamianets, do promise, vow, and swear.  
-So help me God, and this Holy Divine Gospel.  
-*Immediately thereafter, the Bishops without mitres, the Priests, and the Senior of the Stauropegion Institute approached and, likewise bending their knees and placing their hand upon the book of the Gospels, made the profession of faith in the following words:*  
-"I, N. N., confess this same faith according to the formula which the Most Reverend Metropolitan hath read, and this I promise, vow, and swear. So help me God, and this holy divine Gospel."  
-*Names of those who on that day made the profession of faith:*  
-Dr. Julian Pelesz, Bishop of Przemyśl, Sambir, and Sanok.  
-Julian Kuylivsky, Bishop of Stanyslaviv.  
-Mykhailo Sinhalewych, Archpresbyter of the Metropolitan Chapter.  
-Lev Hoterovsky, Archdeacon.  
-Antonii Petrushewych, Custos.  
-Andrei Biletsky, Scholarch [Scholastic].  
-Yosyf Kobylyansky, Chancellor.  
-Lev Turkewych, Cathedral Canon and Cathedral Pastor.  
-Mykhailo Karachevsky, Cathedral Canon.  
-Dr. Yosyf Komarnytsky, Cathedral Canon and Professor of the University.  
-Martyn Pakizh, Cathedral Canon.  
-Omelian Bilynsky, Cathedral Canon.  
-Venedykt Lytynsky, Archdeacon of the Chapter of Przemyśl.  
-Myron Podolynsky, Cathedral Canon and Cathedral Pastor.  
-Ivan Voytovych, Cathedral Canon and Rector of the Diocesan Seminary.  
-Vasyl Fatsiyevych, Archpresbyter of the Chapter of Stanyslaviv.  
-Ivan Lytvynovych, Custos.  
-Symeon Tkachunyk, Cathedral Canon.  
-Teofil Pavlykov, Honorary Canon, Pastor at the Dormition of the Most Holy Virgin in Lviv.  
-Teodor Lisewych, Honorary Canon, Pastor in Stari Kuty.  
-Ivan Kobliansky, Honorary Canon, Dean and Pastor in Kolomyia.
+But whereas the Synod of Zamość prescribeth that the old Chrism be burned upon a clean stone, and its ashes cast into a sacred place (*Sacrarium*) [^75], therefore the present Synod admonisheth pastors, all and singular, that in their churches they have such sacred places (*Sacraria*), and where there are none, that they hasten as quickly as possible to construct such, into which shall be cast not only these ashes, but also those from other sacred things, and where also shall be poured out the water that hath served either for Holy Baptism already administered, or for the washing of hands after Chrismation and other holy anointings.
+
+As to the text and rubrics (*ustav*) of this Holy Mystery, the new edition shall conform to the outline which is here annexed and approved by the Synod [^76].
 
 ---
 
-[Leaf p60 / Page 58]
+### CHAPTER III. On the Most Holy Mystery of the Eucharist
 
-Oleksander Bachynsky, Honorary Canon, Rector of the Seminary of Lviv.  
-Dr. Yosyf Levytsky, Honorary Canon, Professor of Religion at the Gymnasium of Lviv.  
-Mykhailo Borysikewych, Honorary Canon, Pastor in Zarvanytsia.  
-Vasyl Fortuna, Honorary Canon, Pastor and Dean in Ternopil.  
-Dr. Yosyf Delkevych, Honorary Canon, Emeritus Professor of Theology at the University of Lviv.  
-Ivan Borsuk, Honorary Canon, Pastor in Kraków.  
-Vasyl Chemarnyk, Honorary Canon, Pastor in Sanok.  
-Platon Paslavsky, Honorary Canon, Dean and Pastor of Belz.  
-Mykola Rozdilsky, Honorary Canon, Dean and Pastor of Sokal.  
-Ivan Kopystiansky, Honorary Canon and Pastor in Krynytsia.  
-Teodat Shankovsky, Honorary Canon and Pastor in Stanyslaviv.  
-Celestyn Kostetsky, Honorary Canon and Pastor in Chernivtsi.  
-Vasyl Bohonos, Honorary Canon and Pastor in Khorostkiv.  
-Dr. Teofil Sembratovych, Rector of the Seminary and Pastor in Vienna.  
-Dr. Yosyf Melnytsky, Vice-Rector of the Seminary of Lviv.  
-Severyn Toronsky, Vice-Rector of the Seminary of Lviv.  
-Isidore Dolnytsky, Spiritual Director of the Seminary of Lviv.  
-Ivan Chapelsky, Prefect in the Seminary of Lviv.  
-Dr. Tyt Myshkovsky, Prefect of Studies.  
-Dr. Ilarii Vatsyk, Prefect of Studies.  
-Stefan Yuryk, Prefect of Studies.  
-Dr. Yosyf Cherlyunchakevych, Emeritus Professor of Theology at the University of Kraków.  
-Dr. Ivan Bartoshevsky, Professor of Theology at the University of Lviv.  
-Dr. Omelian Ohonovsky, Professor of the University of Lviv.  
-Oleksiy Toronsky, Consistorial Counselor, Professor of Religion at the Academic Gymnasium in Lviv.  
-Onufrii Lepky, Consistorial Counselor and Referendary, Professor of Religion at the Franz Joseph Gymnasium in Lviv.  
-Vasyl Kopytchak, Professor of Religion at the Gymnasium in Ternopil.  
-Oleksander Stefanovych, Professor of Religion at the Teachers' Seminary.  
-Ivan Hushalewych, Emeritus Professor of Religion at the Gymnasium in Lviv.  
-Ivan Redkevych, Assistant and Preacher of the Archcathedral.  
-Petro Krypiakevych, Assistant of the Archcathedral.  
-Oleksander Zderkovsky, Assistant of the Archcathedral.  
-Dr. Havryil Kryzhanovsky, Chancellor of the Metropolitan Consistory.  
-Yevhen Huzar, Provisional Metropolitan Chaplain and School Catechist.  
-Dr. Ivan Hrobelsky, Professor of Pastoral Theology in the Seminary of Przemyśl.  
-Poliyevkt Kmit, Acting Professor of Canon Law in the Seminary of Przemyśl.
+1. Retaining all that concerning the matter and form of this Mystery, as necessary to be known and done, was prescribed in the Synod of Zamość, we omit not especially to emphasize anew that all priests hold and firmly believe that the words consecrating this Mystery are no other than the words of the Lord alone: *"Take, eat: this is*
+
+=== LEAF p96 ===
+*(Physical Page 94 / Leaf p96)*
+
+*My Body"*, and *"Drink of it, all of you: this is My Blood"*; and not the words invoking the Holy Spirit, which, as we learn, certain ignorant persons maintain in many catechisms, and following them also in recent observations of schismatic liturgical books (*Liturgikons*) against the ancient faith of the Greek Church. Concerning this truth, among others, Saint John Chrysostom teacheth thus: *"Christ is present now also to adorn the table, because it is not man who causeth the offered gifts to become the Body and Blood of Christ. The priest standeth only fulfilling the figure and offereth prayer: but the grace and power of God it is that accomplisheth all. 'This is My Body' [^77], saith He. This word transubstantiateth the offered gifts. And as that voice: 'Be fruitful, and multiply, and replenish the earth' [^78], was a word and became an act that gave to human nature the power of procreating children, so also this voice uttered, ever multiplieth grace in those who worthily partake"* [^79]. And again: *"For as the words which Christ spoke are the very same which the priest speaketh today, so also the oblation is the very same"* [^80]. Saint Irenaeus: *"When therefore the mingled cup and the broken bread receive the Word of God, it becometh the Eucharist of the Body and Blood of Christ"* [^81]. Saint Gregory of Nyssa: *"Immediately by the Word it is changed into the Body, when the word was spoken: 'This is My Body'"* [^82]. Finally, that true doctrine the entire Church solemnly confessed at the Council of Florence. The Synod likewise insisteth that priests in pronouncing the words of consecration in no wise depart from the received form of individual words wherewith that same consecration is expressed in our present *Liturgikons*; which we have thought necessary to mention here, because it is known to us that one priest in this matter had departed from the common practice.
+
+2. As to the decree of the Synod of Zamość regarding sacred vestments which a priest must use in carrying this Most Holy Mystery to the sick,
+
+=== LEAF p97 ===
+*(Physical Page 95 / Leaf p97)*
+
+the said Synod permitteth: *"if the house of the sick person be farther removed from the place where the parish church is situated, to carry Holy Communion secretly, and thereby without church vestments"* [^83]; the present Synod, however, hath thought fit to modify the said decree so far, that a priest carrying the Holy Viaticum (*Sviate Naputie*) to a sick person in this our province shall do so openly and at least according to the common and orderly custom, vested in epitrachelion and phelonion, since such custom hath already entered into practice among us.
+
+3. In addition, as to the pattern of prayers which the priest is accustomed to recite for the people to repeat after him when approaching Holy Communion, the Synod admonisheth that all conduct the same exactly as it shall be set forth in the rule above mentioned by this Synod, adding nothing and omitting nothing.
+
+4. During the very action of administering this Holy Mystery, let them not add to the formula: *"The servant of God partaketh"*, the word: *"unworthy"*, as some have been accustomed to add; and after administering Holy Communion to individual communicants, let them not wipe with the towel the holy spoon (*lozhychka*) moistened in the chalice, without a grave reason.
+
+5. But since Holy Communion in our rite is ordinarily administered under both kinds and that during the Divine Liturgy, although under each kind Christ is present whole and entire: at a great concourse of communicating people, let the priest, before the distribution of Holy Communion, never pour unblessed wine into the particles placed in the chalice for the easier distribution of particles placed in large number in the chalice; but let him above all before the Divine Liturgy inquire concerning the number of those who are to receive Communion, and let him pour in a proportionately necessary quantity of wine; and if it should at times happen that an unexpectedly extraordinary number of communicants approach the Holy Table, then let him distribute Holy Communion with that quantity of consecrated wine which he then hath in the chalice; and in the case where particles for Communion in the consecrated chalice should no longer suffice, and there yet remain
+
+=== LEAF p98 ===
+*(Physical Page 96 / Leaf p98)*
+
+communicants, then he may administer Holy Communion to them only after the manner of the sick, that is: taking consecrated particles from the pyx (*pushka*) and giving them to those approaching; which latter custom may be observed also in those cases when communicants have not the opportunity to be present at the Divine Liturgy, as especially happeneth in towns, as also on pilgrimages to miraculous places, unto which also not infrequently very late in the afternoon the faithful arrive fasting from distant localities, with the intention of receiving Holy Communion on that same day.
+
+6. Finally, having administered the holy particle to the communicant, let him wipe his mouth with the communion cloth (*ruchnychok*), either himself or the deacon, if there be one; but let him not permit the communicant himself, taking the cloth with his own hand, to wipe his mouth; and it is necessary to wipe it thoroughly, lest accidentally the communicant himself, with his own hand or with his own handkerchief, should wipe his mouth.
+
+7. In fine, regarding the appointed time (*rechyenets*) for Paschal Communion, although it is not unknown to the Synod that according to common law it is comprised within fifteen days, namely in the days from Palm Sunday (*Nedilia Vayi / Tsvitna*) up to Low Sunday (*Antipascha*), called among us Saint Thomas Sunday: — yet since among us the custom hath long since entered, on account of the large number of penitents, to begin that precept from the first day of the Great Fast (Forty Days) and to extend it much later beyond Saint Thomas Sunday: therefore the Synod deemeth it well to retain the custom as to the first term, and as the second term it appointeth the feast of the Ascension of the Lord itself, so that with that feast endeth the second term of Paschal Communion to be received by the faithful, and that in their own parish, from their own pastor, or by his permission and knowledge, in another church and from another priest.
+
+8. If however pastors should learn that anyone of the faithful hath not fulfilled the precept of Paschal Communion, they are bound, after unsuccessful admonitions, to announce to them that the penalty of excommunication existeth, and finally to report such persons to their own Ordinary, who will not fail to issue against the disobedient the penalty of excommunication already decreed at the Synod of Zamość.
+
+---
+
+=== LEAF p99 ===
+*(Physical Page 97 / Leaf p99)*
+
+### CHAPTER IV. On the Mystery of Repentance
+
+1. As to the Mystery of Repentance, pastors of souls shall encourage the faithful committed to their solicitude that they receive the same frequently, setting before them earnestly the ancient custom in this matter of the Eastern Church, cited by the Synod of Zamość, that *"at least three times a year, namely at the Resurrection of the Lord (at which time they are bound to do so under penalty of excommunication), at the Dormition of the Most Holy Mother of God, and at the Nativity of Christ the Lord, they approach holy Confession and the Communion of the Divine Body"* [^84]. Although indeed this obligation in later times was relaxed and limited so that these Mysteries should be received at least once a year, around Pascha: nevertheless the present Synod, understanding the importance of the matter, layeth upon pastors the duty to admonish the faithful that they preserve that ancient custom in its integrity, confessing at least three times in the year.
+
+2. The doctrine concerning the precept of annual Confession and Paschal Communion, which in our Catechisms is expounded so that that Confession and Communion should take place specifically before one's own pastor, the present Synod decreeth to modify so that Confession may be made before any priest authorized to hear confessions, but Communion before one's own pastor, or also before another, yet only with the knowledge and permission of one's own pastor. As to the terms of annual Confession, since it is wont to precede Paschal Communion, it is to be comprised within the very same terms as Communion.
+
+3. As to the very administration of this Mystery: whereas in many places the custom hath taken root that the faithful approaching Confession lay down beside the confessor one or two cents (*kraytsary*), and again that on the occasion of Paschal Confession pastors themselves, before issuing to the faithful the confession ticket (*kartka do spovidi*), demand certain dues to be contributed by them under various titles, whether for the pastor (such as *proskurne* and the like), or for the church cantor; and this can very often be an obstacle to willingly approaching Confession, or at least give someone occasion for malicious interpretation: therefore the Synod commandeth that pastors of souls explain to the people in public instructions that for the administration of this Mystery they are not bound to any payment, nor to any offerings. In addition, this Synod forbiddeth pastors in the future, on the occasion of Paschal Confession, to demand either the above-mentioned or any other dues whatever, but to postpone the payment of such to a more suitable time.
+
+=== LEAF p100 ===
+*(Physical Page 98 / Leaf p100)*
+
+4. Finally, as to the jurisdiction (*sudovlastia*) of confessors: although according to common law their jurisdiction is limited to their own subjects, yet on account of the custom long since received in our regions and approved by the Bishops of the various rites, they may hear the confessions also of other faithful not subject to them, whether they be of the same or of another rite, as is also declared in the *Concordia*, or whether of their own or of another Eparchy of this Province, without violating however the right of reservation belonging to individual Bishops. Preachers and confessors therefore shall have in their possession a written list of all cases reserved not only to the Pope, as indicated in the Constitution *Apostolicae Sedis* ("Of the Apostolic See") [^85], but also to the Bishops of the three Catholic rites, lest (confessors) through carelessness arrogate authority unto themselves. Yet notwithstanding all this, let confessors know that their jurisdiction doth not extend to monasteries, and especially to monasteries of nuns; only for hearing the confessions of nuns is it necessary to be provided with special approval from the Ordinaries of the respective monasteries.
+
+5. Finally, pastors of souls shall strive that for hearing confessions they have confessional booths (*spovidalnytsi*) in their churches, so that they may receive the confessions of the faithful therein conveniently and decorously.
 
 ---
 
 ## Footnotes
+[^44]: Ruthenian Provincial Synod of Zamość (1720), Titulus I *De fide catholica*, strictly prohibiting Catholics of whatever state or station from frequenting the churches or ministries of non-Catholic or schismatic pastors for the reception of sacraments or out of personal devotion, lest they give the appearance of having real communion with those outside the Church; commanding Ordinaries to proceed against transgressors as suspect of heresy.
 
-[^46]: The Provincial Council of Cologne (1859), celebrated under Cardinal Johannes von Geissel, Titulus VIII *De subscriptione et clausura Concilii*, establishing the formal canonical procedure whereby the presiding Metropolitan queries the assembled conciliar fathers for their definitive consent (*placet*) prior to promulgating the decree of conciliar dissolution.
+[^45]: 1 Peter 5:2 — "Feed the flock of God which is among you, taking the oversight thereof, not by constraint, but willingly; not for filthy lucre, but of a ready mind."
 
-[^47]: Ibid., Provincial Council of Cologne (1859), Titulus VIII, setting forth the solemn statutory decree of conclusion and closure of the provincial council (*Decretum de clausura Concilii*), followed by the solemn thanksgiving (*Deo gratias*) and the formal charging of the conciliar notaries to compile and authenticate the synodal acts.
+[^46]: John 10:4 — "And when He putteth forth His own sheep, He goeth before them, and the sheep follow Him: for they know His voice."
 
-[^48]: Pope Leo XIII, Encyclical Letter *Grande Munus* (September 30, 1880), *Acta Sanctae Sedis* 13 (1880), pp. 145–153. In this seminal apostolic encyclical, Pope Leo XIII extended the liturgical feast and veneration of Saints Cyril and Methodius, the Apostles to the Slavs, to the universal Church. The Pontiff extolled the historical planting of the Catholic faith among the Slavic peoples, underscored the paternal solicitude of the Apostolic See toward Eastern Christendom, and affirmed the venerable antiquity, liturgical dignity, and canonical integrity of the Byzantine-Slavonic patrimony within Catholic communion.
+[^47]: Acts 19:19 — "Many of them also which used curious arts brought their books together, and burned them before all men: and they counted the price of them, and found it fifty thousand pieces of silver."
+
+[^48]: François-Louis-Michel Maupied, *Compendium Juris Canonici universi ad usum cleri et seminariorum*, Vol. II: *De personis*, lib. 2, treating of the canonical establishment of the Sacred Congregation of the Index (*Sacra Congregatio Indicis*) by Pope St. Pius V in 1571 via the Apostolic Constitution *Cum pro munere*, charging it with examining suspect publications and updating the *Index Librorum Prohibitorum*.
+
+[^49]: Gen. 3:5 — "For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil."
+
+[^50]: Matt. 18:9 — "And if thine eye offend thee, pluck it out, and cast it from thee: it is better for thee to enter into life with one eye, rather than having two eyes to be cast into hell fire."
+
+[^51]: Matt. 16:26 — "For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul?"
+
+[^52]: Matt. 18:7 — "Woe unto the world because of offences! for it must needs be that offences come; but woe to that man by whom the offence cometh!"
+
+[^53]: Pope Pius IX, Apostolic Constitution *Apostolicae Sedis moderationi* (October 12, 1869), Section II, no. IV, decreeing excommunication reserved to the Roman Pontiff against those who enter the Masonic sect or other secret societies conspiring against the Church or legitimate civil authority, as well as those who favor, conceal, or fail to denounce their leaders.
+
+[^54]: Responsum of the Supreme Sacred Congregation of the Holy Office (*Sanctum Officium*), February 1, 1871, providing that the censure of excommunication incurred for membership in Freemasonry or secret societies ceases and sacramental absolution may be imparted once the penitent makes formal denunciation of the secret chiefs and occult coryphaei to the competent ecclesiastical authority.
+
+[^55]: Appendix XIV (*Додатокъ ч. 14*) of the Synodal Acts: Instruction of the Supreme Sacred Congregation of the Holy Office, May 10, 1884, addressed to all Catholic ordinaries concerning the dangerous propagation of occult brotherhoods, clandestine associations operating under oaths of secrecy, and deceptive philanthropic fronts.
+
+[^56]: Isa. 61:1–2; Luke 4:18–19 — "The Spirit of the Lord is upon Me, because He hath anointed Me to preach the gospel to the poor; He hath sent Me to heal the brokenhearted, to preach deliverance to the captives... to preach the acceptable year of the Lord, and the day of recompense."
+
+[^57]: Mark 16:15 — "And He said unto them, Go ye into all the world, and preach the gospel to every creature."
+
+[^58]: 2 Tim. 4:2 — "Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all longsuffering and doctrine."
+
+[^59]: Council of Trent: Session V (June 17, 1546), Chapter 2 *De reformatione* (defining the preaching of the Gospel as the chief duty of bishops and pastors); Session XXIII (July 15, 1563), Chapter 1 *De reformatione*; Session XXIV (November 11, 1563), Chapter 4 *De reformatione*; reproduced in Appendix XV (*Додатокъ ч. 15*) of the Synodal Acts.
+
+[^60]: Ruthenian Provincial Synod of Zamość (1720), Titulus II *De praedicatione verbi Dei*, obliging all pastors and preachers to instruct the faithful in the Word of God on all Sundays and solemn feast days.
+
+[^61]: Pastoral Letters of Greek Catholic Metropolitan of Lviv Spyrydon Lytvynovych of blessed memory, February 9, 1865, No. 5722, and Bishop of Przemyśl Ivan Stupnytsky, June 28, 1873, on the grave pastoral obligation of regular Sunday preaching and catechetical instruction.
+
+[^62]: Jer. 48:10 (Septuagint Jer. 31:10) — "Cursed be he that doeth the work of the Lord deceitfully [negligently]" (*Проклятъ творяй дѣло Господне съ небреженіемъ* / *Maledictus qui facit opus Domini fraudulenter*).
+
+[^63]: Provincial Council of Vienna (1858), Session IV, Titulus IV, Chapter 4: on conciliar discipline and prudence in sacred preaching, forbidding pastors from venting personal complaints, injuries, or political partisanship from the ambo, and enjoining private fraternal correction rather than public naming of individual sinners.
+
+[^64]: 1 Cor. 9:27 — "But I keep under my body, and bring it into subject: lest that by any means, when I have preached to others, I myself should be a castaway."
+
+[^65]: St. John Chrysostom, cited in the *Pharetra* of St. Bonaventure (Bk. I, ch. 15), received by the Provincial Council of Prague (1860), Titulus II, Chapter 5 *On Preaching the Word of God*: "Great is the condemnation of him who ordereth his discourse well, but neglecteth his own life and his own works."
+
+[^66]: *Pastoral Instruction of Eichstätt* (*Instructio Pastoralis Eystettensis*), Titulus IX, Chapter II, § 6, obliging pastors to summon and admonish negligent parents and guardians who fail to send children and domestic servants to parish catechesis.
+
+[^67]: Appendix XVI (*Додатокъ ч. 16*) of the Synodal Acts: Pastoral Letter of Metropolitan Joseph Sembratovych to the clergy of the Archeparchy of Lviv, December 15, 1876, on the systematic religious instruction and catechetical formation of youth in church and elementary schools.
+
+[^68]: 2 Tim. 4:7–8 — "I have fought a good fight, I have finished my course, I have kept the faith: henceforth there is laid up for me a crown of righteousness, which the Lord, the righteous judge, shall give me at that day."
+
+[^69]: Ruthenian Provincial Synod of Zamość (1720), Titulus III *De Sacramentis*, codifying the dignity, matter, form, and proper administration of the Seven Holy Mysteries for the Ruthenian Church.
+
+[^70]: Appendix XVII (*Додатокъ ч. 17*) of the Synodal Acts: The Decree *Concordia* between the Greek Catholic and Latin Hierarchies of Galicia, promulgated by the Sacred Congregation *de Propaganda Fide* on October 5, 1863, establishing norms governing inter-ritual relations, jurisdiction of pastors, and sacramental administration.
+
+[^71]: Pope Eugenius IV, Bull *Cantate Domino* (February 4, 1442; Council of Florence), Session XI, Decree for the Copts and Ethiopians, warning against delay in the baptism of newborn infants and mandating prompt administration.
+
+[^72]: Clementine Constitutions (*Clementinae*), Lib. III, Tit. XV, cap. unicum *De Baptismo et eius effectu* (Council of Vienne, 1311–1312, promulgated by Pope John XXII in 1317), mandating the administration of baptism in parish churches equipped with baptismal fonts, except in grave necessity.
+
+[^73]: Diocesan Synod of Ferrara (1751), Part II, Chapter 2 *De Baptismo*, celebrated under Cardinal Marcello Crescenzi, regarding the canonical selection, spiritual qualifications, and moral duties of baptismal sponsors (godparents / *kumy*).
+
+[^74]: Appendix XVIII (*Додатокъ ч. 18*) of the Synodal Acts: Draft Rubrical Schema and official text (*Ordo Baptismi et Confirmationis*) for the new *Trebnik* (Ritual) mandated by the Synod of Lviv.
+
+[^75]: Ruthenian Provincial Synod of Zamość (1720), Titulus III, § 2 *De Sacramento Confirmationis*, directing that old Holy Chrism be burned upon a clean stone and its ashes reverently cast into the *Sacrarium*.
+
+[^76]: Appendix XVIII (*Додатокъ ч. 18, выпускъ*) of the Synodal Acts: Official liturgical order and rubrics for the Administration of the Mystery of Holy Chrismation (*Ordo Confirmationis*).
+
+[^77]: Matt. 26:26 — "And as they were eating, Jesus took bread, and blessed it, and brake it, and gave it to the disciples, and said, Take, eat; this is My body."
+
+[^78]: Gen. 1:28 — "And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth."
+
+[^79]: St. John Chrysostom, *Homily on the Treachery of Judas* (*De proditione Judae*, Hom. I & II; PG 49, 373–392), preached on Great Thursday/Friday, asserting that Christ Himself is present to consecrate the gifts, and that the words "This is My Body" effect the transubstantiation of the Eucharistic offerings.
+
+[^80]: St. John Chrysostom, *Homily II on the Second Epistle to the Corinthians*, no. 4 (PG 61, 393–404), affirming that the Eucharistic sacrifice offered today is identical with that instituted by Christ at the Last Supper.
+
+[^81]: St. Irenaeus of Lyons, *Against Heresies* (*Adversus Haereses*), Book V, Chapter 2, no. 3: "When therefore the mingled cup and the broken bread receive the Word of God, it becometh the Eucharist of the Body and Blood of Christ."
+
+[^82]: St. Gregory of Nyssa, *Catechetical Oration* (*Oratio Catechetica Magna*), Chapter 37 (PG 45, 93–97), affirming that the Eucharistic bread is immediately transfigured into the Body of the Word through the divine utterance: "This is My Body."
+
+[^83]: Ruthenian Provincial Synod of Zamość (1720), Titulus III, § 3 *De Sacramento Eucharistiae*, regulating the administration of Holy Viaticum to the sick and canonical vestment exemptions for distant journeys.
+
+[^84]: Ruthenian Provincial Synod of Zamość (1720), Titulus III, § 5 *De Sacramento Poenitentiae*, reaffirming the canonical tradition of the Christian East enjoining confession and communion at least three times yearly: at Pascha, the Dormition of the Theotokos, and the Nativity of Christ.
+
+[^85]: Appendix XVIII-b (*Додатокъ ч. 18б*) of the Synodal Acts: Comprehensive catalog of reserved sins and censures (*Casus reservati*) under the Apostolic Constitution *Apostolicae Sedis* (1869) and the diocesan reservation tables of the Ruthenian and Latin ordinaries of Galicia.

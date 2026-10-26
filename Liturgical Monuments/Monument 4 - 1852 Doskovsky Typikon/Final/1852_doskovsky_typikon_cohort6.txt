@@ -1,6 +1,6 @@
 # Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852) — Cohort 6 (Leaves p51–p60)
 
-<!-- LEAF: p51 -->
+=== LEAF p51 ===
 
 [Book Page 100]
 
@@ -22,7 +22,7 @@ At the Hours: at the First Hour, the Resurrection Troparion; **"Glory to the Fat
 At the Divine Liturgy: the Beatitudes of the Octoechos to 4, of the feast the ode of the cycle to 4, and of the saint Ode 3 to 4. At the Entrance: if it is the Afterfeast of a Dominical Feast, we sing: **"Come, let us worship and bow down to Christ. Save us, O Son of God... who sing to Thee: Alleluia,"** (*Прїиди́те, поклони́мся... Спасѝ ны́, Сы́не Бо́жїй...*) with the concluding refrain of the feast.[^114]  
 After the Entrance: the Resurrection Troparion, troparion of the feast, troparion of the saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** kontakion of the saint; **"Now and forever, and unto the ages of ages. Amen:"** kontakion of the feast. Prokeimenon of the Tone and of the saint; Epistle and Gospel; Communion Hymn of the day and of the saint.
 
-<!-- LEAF: p52 -->
+=== LEAF p52 ===
 
 [Book Page 102]
 
@@ -49,7 +49,7 @@ At Matins: at **"God is the Lord"** (*Бо́гъ Госпо́дь*), the Resurre
 After the Kathismata: the Sunday Resurrection Sessional Hymns with their Theotokia. After the Amomos (Psalm 118): the troparia **"The Angelic Counsel was amazed..."** (*А҆́гг҃льскїй собо́ръ...*); the Hypakoe of the Tone; the Graduals and Prokeimenon of the Tone; the ordinary Sunday Resurrection Gospel, and the rest of the Resurrection in the customary manner.  
 The Resurrection Canon with its Heirmos to 4, of the Theotokos to 2, and of the feast both canons to 8. Katavasia
 
-<!-- LEAF: p53 -->
+=== LEAF p53 ===
 
 [Book Page 104]
 
@@ -75,7 +75,7 @@ On the evening of the same day, there takes place the Apodosis in honor of the t
 
 And we sing the office of the Temple as for a great saint, if it occur on a Sunday, while the office of the Afterfeast we omit.[^121] At Matins: the Polyeleos and Sessional Hymn of the Temple only; **"Now and forever, and unto the ages of ages. Amen:"** of the feast; Gospel of the Temple, and the rest. Katavasia of the feast, Gospel Sticheron. At the First Hour and at the Divine Liturgy: the office of the Resurrection and of the Temple.
 
-<!-- LEAF: p54 -->
+=== LEAF p54 ===
 
 [Book Page 106]
 
@@ -95,7 +95,7 @@ At the Divine Liturgy: the Beatitudes of the Resurrection to 4, of the feast Ode
 After the Entrance: the Resurrection Troparion, of the feast, and of the temple saint; the Resurrection Kontakion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the Temple; **"Now and forever, and unto the ages of ages. Amen:"** of the feast. Prokeimenon of the Tone and of the Temple. Ordinary Epistle, then of the temple saint. Gospel of the cycle and of the Temple. Communion Hymn: **"Praise the Lord from the heavens..."** (*Хвали́те Го́спода съ небе́съ...*), and of the Temple.  
 On the evening of the same day, there takes place the Apodosis in honor of the temple patron, as indicated above.
 
-<!-- LEAF: p55 -->
+=== LEAF p55 ===
 
 [Book Page 108]
 
@@ -119,7 +119,7 @@ After the Kathismata of the Psalter: the Sessional Hymns of the Octoechos.
 Canons: both canons of the Octoechos with the Heirmos to 8, and of the saint to 4. Katavasia, that is the Heirmos of the canon of the saint, only after Odes 3, 6, 8, and 9.[^126] (On Monday, to the troparia of the Penitential Canon we say the refrain: **"Glory to Thee, our God, glory to Thee"** [*Сла́ва Тебѣ̀, Бо́же на́шъ, сла́ва Тебѣ̀*]; to the troparia of the Canon of the Bodiless Powers we say: **"Holy Archangels and Angels, pray to God for us"** [*Святи́и Арха́ггели и҆ А҆́ггели, моли́те Бо́га ѡ҆ на́съ*], and so forth).  
 After Ode 3: Sessional Hymn of the saint once; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** Theotokion (on Wednesday and Friday, however, the Stavrotheotokion).
 
-<!-- LEAF: p56 -->
+=== LEAF p56 ===
 
 [Book Page 110]
 
@@ -144,7 +144,7 @@ Prokeimenon of the day 2, and of the special service 1. Epistle, Gospel, and Com
 
 On Friday evening, at **"Lord, I have cried"** (*Го́споди воззва́хъ*): the stichera of the saint take precedence 3, and of the Octoechos to all
 
-<!-- LEAF: p57 -->
+=== LEAF p57 ===
 
 [Book Page 112]
 
@@ -166,7 +166,7 @@ After **"It is good to give praise..."** (*Бла́го е́сть*) and after *
 At the Hours: at the First Hour, the troparion and kontakion of the day. At the Third Hour: the troparion and kontakion of the saint. At the Sixth Hour: the troparion and kontakion of the Temple. At the Ninth Hour: the troparion and kontakion of the saint.  
 At the Divine Liturgy: the troparion of the day; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the kontakion of the day: **"As the first-fruits of nature..."** (*Я҆́кѡ нача́тки є҆стества̀...*). Prokeimenon, Epistle, Gospel, and Communion Hymn of the day.
 
-<!-- LEAF: p58 -->
+=== LEAF p58 ===
 
 [Book Page 114]
 
@@ -194,7 +194,7 @@ Exapostilarion of the Octoechos and of the 1st saint; **"Glory to the Father, an
 At the Aposticha: stichera of the Octoechos; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint, if there is one; **"Now and forever, and unto the ages of ages. Amen:"** the Theotokion according to the Tone. If there is no Doxastikon for the saint, then: **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the Theotokion of the Octoechos.  
 After **"It is good to give praise..."** (*Бла́го е́сть*) and after the Trisagion: troparion of the first
 
-<!-- LEAF: p59 -->
+=== LEAF p59 ===
 
 [Book Page 116]
 
@@ -219,7 +219,7 @@ At Matins on Saturday, at **"God is the Lord"** (*Бо́гъ Госпо́дь*):
 The Canon: if the temple is dedicated to Christ or to the Theotokos, we sing first that of the Temple with the Heirmos to 6, and to both saints to 8 (that of the Octoechos is omitted). If, however, the temple is dedicated to a saint, the Canon of the Temple is omitted, and there is sung: the Canon to one saint with the Heirmos to 6, and to the other to 4, and the Martyria Canon of the Octoechos to 4. Katavasia: the Heirmos of the final canon.  
 After Odes 3, 6, and 4 [sic]:[^130] the Kontakion and Ikos of the second saint, and the Sessional Hymn of the 1st saint; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** Sessional Hymn of the other; **"Now and forever, and unto the ages of ages. Amen:"** the Theotokion in the same place.
 
-<!-- LEAF: p60 -->
+=== LEAF p60 ===
 
 [Book Page 118]
 

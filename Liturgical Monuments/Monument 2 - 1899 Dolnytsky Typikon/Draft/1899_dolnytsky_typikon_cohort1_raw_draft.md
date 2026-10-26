@@ -1,12 +1,12 @@
 # Typikon of the Ruthenian-Catholic Church (1899) — Cohort 1 Raw Draft (Physical Leaves p1–p20)
 
-[Leaf p1 / Cover]
+=== LEAF p1 ===
 
 *(Front Cover: Hardcover dark cloth binding with blind-stamped decorative corner flourishes and a central gold-embossed Byzantine floriated cross.)*
 
 ---
 
-[Leaf p2 / Frontispiece Icon]
+=== LEAF p2 ===
 
 *(Icon: Mother of God of Perpetual Help / Мати Божа Неустанної Помочі)*
 
@@ -17,7 +17,7 @@
 
 ---
 
-[Leaf p3 / Title Page]
+=== LEAF p3 ===
 
 # TYPIKON
 ## OF THE RUTHENIAN-CATHOLIC CHURCH
@@ -33,7 +33,7 @@ Published at the Expense of the Author.
 
 ---
 
-[Leaf p4 / Approbations & Imprimatur]
+=== LEAF p4 ===
 
 **No. 1195/Ord.**
 
@@ -52,7 +52,7 @@ Typography of the Monks of the Order of Saint Basil the Great in Zhovkva.
 
 ---
 
-[Leaf p5 / Dedication]
+=== LEAF p5 ===
 
 To the glory  
 of the All-Holy, Consubstantial, and Life-Creating  
@@ -64,7 +64,7 @@ the Mother of God and Ever-Virgin
 
 ---
 
-[Leaf p6 / Notice]
+=== LEAF p6 ===
 
 *[Library Stamp: LVIV THEOLOGICAL ACADEMY / LIBRARY / 1009679]*
 
@@ -74,7 +74,7 @@ The entire income from this work, according to the intention of the Author, is t
 
 ---
 
-[Leaf p7 / Page 5]
+=== LEAF p7 ===
 
 ## Constituent Parts of the Typikon
 
@@ -98,7 +98,7 @@ This Typikon consists of five parts, whereof:
 
 ---
 
-[Leaf p8 / Page 6]
+=== LEAF p8 ===
 
 "Except for the four Hours, whereof all have one and the same form, all the other parts of Divine Worship have multiple forms. Thus: Vespers is Great, Daily, and Small; and furthermore Great Vespers is either with an All-Night Vigil or without an All-Night Vigil. Compline is Great and Small; and furthermore Great Compline is either without an All-Night Vigil or with an All-Night Vigil. Midnight Office is Daily, Saturday, and Sunday. Matins is Great and Small, that is to say, Daily; and furthermore Great Matins is either without or with an All-Night Vigil. — The Divine Liturgy is either complete, that is, of Chrysostom and of Basil, or incomplete, that is, of the Presanctified."
 
@@ -111,13 +111,13 @@ This Typikon consists of five parts, whereof:
 
 ---
 
-[Leaf p9 / Page 7]
+=== LEAF p9 ===
 
 the right side of the Priest, with the Priest in their midst: all three bow profoundly toward the Holy Mysteries; and turning together toward the Holy Doors, the Priest and the second Deacon by their right side, and the first Deacon by his left, open them. And turning again toward the Altar with the same semicircle movement, the Deacons take the censers; and the Priest, taking the spoon with his right hand, places incense first into the censer of the first Deacon, then into the censer of the second Deacon. And when the Deacons say: **\"Bless, Master, the incense,\"** the Priest blesses both censers separately in the form of a cross, saying together the short prayer: **\"Incense we offer unto Thee,\"** found in the *Sluzhebnik* at the end of the Proskomedia. At other censings, in place of this, he says only: **\"Blessed is our God, always, now and forever, and unto the ages of ages.\"** Then, while the Priest waits in the same place, and only in cathedral churches, whether secular or monastic, the second Deacon having proclaimed: **\"Command!\"**[^5] and all having stood up, the Deacons cense—always with three movements of the censer—first the Holy Table on its four sides, that is, first from the front both together, and they bow toward the Holy Mysteries; then stepping, the first Deacon to the right side and the second Deacon to the left, they cense it from there; then its rear side (and the Icon, if there is one behind the Holy Table) both together; and the Priest from the front corners of the Altar both together. And thus they go forth, each by his own door, before the Royal Doors; and having bowed profoundly toward the Holy Mysteries, they turn toward the sovereign icons of the Iconostas, each censing them from his own side; then
 
 ---
 
-[Leaf p10 / Page 8]
+=== LEAF p10 ===
 
 they process with the smoking censers around the temple, each on his own side, censing at the same time also the icons of the side altars, if there be any; and having thus returned down the center of the temple from the great church doors before the Royal Doors, and having bowed profoundly toward the Holy Mysteries, they turn—the right Deacon by his left side, and the left Deacon by his right side—to the west, and each censes from his own side: first the Kliros, if it is a cathedral church, then the Choirs, and finally both together cense the people."
 
@@ -130,7 +130,7 @@ they process with the smoking censers around the temple, each on his own side, c
 
 ---
 
-[Leaf p11 / Page 9]
+=== LEAF p11 ===
 
 and at the conclusion of the censing, he proclaims before the Royal Doors: **\"Lord, bless!\"** and returns into the Sanctuary through the Royal Doors of the Iconostas, that is to say, the middle doors.[^7]"
 
@@ -140,7 +140,7 @@ and at the conclusion of the censing, he proclaims before the Royal Doors: **\"L
 
 ---
 
-[Leaf p12 / Page 10]
+=== LEAF p12 ===
 
 the Introductory Psalm with *Alleluia* is concluding, the first Deacon chants the Great Litany: **\"In peace let us pray to the Lord,\"** while the Priest continues to read the evening prayers in the same place, and proclaims at the end of the Litany: **\"For unto Thee is due all glory, honor, and worship...\"**; and having thus bowed all three together, they depart into the Sanctuary—the right Deacon and after him the Priest through the southern door, and the left Deacon through the northern door—and they sit behind the Altar, the Priest in the midst, the first Deacon on his right, and the second Deacon on his left. After the first Kathisma, that is to say, after **\"Blessed is the man,\"** the second Deacon, having gone forth before the Holy Doors, chants the Small Litany; and the Priest, having risen, proclaims from his place: **\"For Thine is the majesty, and Thine is the kingdom...\"** But if there is no Deacon, then this Litany according to local custom is said by the Priest secretly, while the Choir chants its responses aloud. After the Litany, **\"Lord, I have cried\"** is chanted in the Tone of the first Stichera; and while it is being chanted, the Deacons saying to the Priest: **\"Bless, Master, the incense,\"** and the Priest having blessed the incense with the verse: **\"Blessed is our God,\"**[^9] they cense the Altar on its four sides, the Iconostas, the clergy, the Choirs, and the people; and having bowed before the Holy Doors, they return behind the Altar to the Priest."
 
@@ -150,7 +150,7 @@ the Introductory Psalm with *Alleluia* is concluding, the first Deacon chants th
 
 ---
 
-[Leaf p13 / Page 11]
+=== LEAF p13 ===
 
 the cross; and at **\"Glory...\"** all three make the Entrance with the censer thus: Coming before the steps of the Altar, and having bowed together toward the Holy Mysteries, they open the Royal Doors (which remain open even until the beginning of Matins), and turning again toward the Altar, the Deacons take the censers; and having received from the Priest the blessing of the censer, as directed at **\"Lord, I have cried,\"** all three go around the Altar from its right side, the second Deacon preceding, then the first, and finally the Priest; and two candle-bearers preceding them, they go forth through the northern door and stand before the Royal Doors, that is to say: the second Deacon on the left side near the icon of the Mother of God, facing south; the first Deacon on the right side, from the icon of the Savior, somewhat lower; and the Priest directly facing the Holy Doors. And immediately the first Deacon, standing on the right of the Priest somewhat obliquely from him, bowing slightly and holding the Orarion with the first three fingers of his right hand, says to the Priest secretly: **\"Let us pray to the Lord.\"** The Priest also, bowing slightly, recites the Prayer of the Entrance; and after the prayer, when they have raised themselves up, the Deacon, holding the Orarion with the three fingers of his right hand toward the east, says to the Priest: **\"Bless, Master, the holy Entrance.\"** And the Priest blesses toward the east, saying: **\"Blessed is the Entrance of Thy Saints, always, now and forever, and unto the ages of ages.\"**"
 
@@ -161,7 +161,7 @@ the cross; and at **\"Glory...\"** all three make the Entrance with the censer t
 
 ---
 
-[Leaf p14 / Page 12]
+=== LEAF p14 ===
 
 first Deacon with his back to the Priest, and the second Deacon with his back to the first Deacon. And after the Stichera have been chanted, the first Deacon, having traced a cross with the censer, proclaims: **\"Wisdom! Stand upright!\"** And thus, while **\"O Joyful Light\"** (*Свѣте тихій*) is being chanted, the Deacons enter into the Sanctuary, and cense the Holy Table on its four sides, and all the rest, as at **\"Lord, I have cried.\"**[^11] After the Deacons, the Priest also enters into the Sanctuary, and waits before the steps until the Deacons, having censed all things, return into the Sanctuary and take their stand together with him before the steps of the Altar, having made a bow toward the Holy Mysteries."
 
@@ -171,7 +171,7 @@ first Deacon with his back to the Priest, and the second Deacon with his back to
 
 ---
 
-[Leaf p15 / Page 13]
+=== LEAF p15 ===
 
 #### 5. From "Let us all say" unto the Litiya
 
@@ -183,7 +183,7 @@ first Deacon with his back to the Priest, and the second Deacon with his back to
 
 ---
 
-[Leaf p16 / Page 14]
+=== LEAF p16 ===
 
 into the Narthex, or if there is none, to a place near the doors of the temple, and they stand there facing the Altar, the Choirs on two wings, and the sacred ministers in a single transverse rank, that is to say: the Priest between the Deacons. And the Deacons, having received the blessing of the censer from the Priest as at **\"Lord, I have cried,\"** cense the Priest both together; after this, each censes his own Choir; and finally both together cense the people standing opposite him in the temple.[^13] When the Litiya Stichera are completed, the Deacons, beginning with the first, chant in turn the Litany: **\"Save, O God, Thy people,\"** after which the Priest proclaims: **\"Hear us, O God,\"** and **\"Peace be unto all,\"** with a crosswise signing with his right hand toward the people, and the final prayer: **\"O Master, abundant in mercy,\"** with the bowing of heads by all, even unto its end."
 
@@ -193,7 +193,7 @@ into the Narthex, or if there is none, to a place near the doors of the temple, 
 
 ---
 
-[Leaf p17 / Page 15]
+=== LEAF p17 ===
 
 to him: **\"Bless, Master, the incense,\"** having placed incense into the censer and blessed it, and having uttered: **\"Blessed is our God,\"** the Priest censes the loaves set forth upon the Tetrapod from four sides: first from the front, then from the south, after that from the east, and finally from the north. It is proper for him, before and after the censing from the eastern side, to bow profoundly toward the Holy Mysteries; and after the bow, to turn by his left side toward the Tetrapod, and after the censing, to turn again by his right side toward the Holy Mysteries, and thus after a bow to depart to the northern side."
 
@@ -205,7 +205,7 @@ to him: **\"Bless, Master, the incense,\"** having placed incense into the cense
 
 ---
 
-[Leaf p18 / Page 16]
+=== LEAF p18 ===
 
 these loaves ☩, wheat ☩, wine ☩, and oil ☩,\"** signing with the cross each of the four items at the mention of its name."
 
@@ -226,7 +226,7 @@ these loaves ☩, wheat ☩, wine ☩, and oil ☩,\"** signing with the cross e
 
 ---
 
-[Leaf p19 / Page 17]
+=== LEAF p19 ===
 
 ### Order of Great Vespers without an All-Night Vigil
 
@@ -245,7 +245,7 @@ these loaves ☩, wheat ☩, wine ☩, and oil ☩,\"** signing with the cross e
 
 ---
 
-[Leaf p20 / Page 18]
+=== LEAF p20 ===
 
 an All-Night Vigil, except that here at **\"Lord, I have cried\"** there may be not only ten or eight Stichera as there, but likewise six.
 

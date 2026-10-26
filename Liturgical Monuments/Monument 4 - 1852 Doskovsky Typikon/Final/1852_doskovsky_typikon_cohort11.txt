@@ -1,6 +1,6 @@
 # Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852) — Cohort 11 (Leaves p101–p110)
 
-<!-- LEAF: p101 -->
+=== LEAF p101 ===
 
 [Book Page 198]
 
@@ -26,7 +26,7 @@ The Expulsion of Adam from Paradise.
 ### On That Same Cheesefare Sunday in the Evening
 *After the customary Psalm, at* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *we sing the penitential stichera of the Octoechos, in order of Tone 4. These two are written, in the evening at the Aposticha: and two at the morning Aposticha. [Likewise also on the other Sundays, from this one even unto the fifth of Holy Lent, "Lord, I have cried" we sing to the Tone of the Octoechos in order]. And of the Triodion, 3 prosomoia, and of the Menaion of the saint 3. Glory of the saint, if he has one; if not, Glory, now and ever, Theotokion in that same Tone of the Menaion. And there is an entrance with the censer. Then after* **"O Gladsome Light"** (*Свѣ́те ти́хїй*), *we sing the Great Prokeimenon:* **"Turn not away Thy face from Thy child, for I am afflicted; quickly hear me; draw near unto my soul, and deliver it."** *And the reader reads verse 1:* **"Let Thy salvation, O God, sustain me."** *Turn not away... then the 2nd, 3rd, and 4th verses. And again in a higher voice:* **"Turn not away Thy face..."** [☞ *Be it known, that on all Sundays of the Holy Forty Days an entrance takes place in the evening, on account of the Great Prokeimena*]. *After the Prokeimenon the holy doors [Royal Doors] are closed, and the ectene:* **"Let us all say"** *we do not say. But immediately they read:* **"Vouchsafe, O Lord, to keep us this evening without sin."** *And we make 3 metanias. [Henceforth we begin to make prostrations].*[^227] *Then the ectene by the priest before the Royal Doors:* **"Let us complete our evening prayer unto the Lord..."** *And thereafter both choirs having gathered together, sing at the Aposticha the idiomelon stichera of the day, Tone 4:* **"Thy grace hath shone forth, O Lord, the grace of Thy grace hath shone forth..."** *with the customary refrains, and the Martyrion. Glory of the saint, if he has one. If not, Glory, now and ever, Theotokion, the same Tone:* **"The angelic ranks..."** *Then:* **"Now lettest Thou Thy servant depart..."** *Thereafter the Trisagion.*
 
-<!-- LEAF: p102 -->
+=== LEAF p102 ===
 
 [Book Page 200]
 
@@ -47,7 +47,7 @@ The Expulsion of Adam from Paradise.
 *It is necessary to know: That if our brother happen to depart unto the Lord on these holy days, in the midst of the week, his third-day memorial does not take place until Friday evening, for then his Panakhyda is celebrated: similarly also on Saturday his Divine Liturgy.*[^230]  
 *Note. Be it known unto thee also this, which is written in the ancient parchment codices concerning great and small prostrations. When the time draws near for the holy great prostrations to take place, then each one, having lifted up his hands, and having together raised his physical eyes and mental eyes unto God, begins the prayer with compunction and the fear of God, saying:* **"O Lord and Master of my life..."**, *standing erect. And having completed the prayer, he makes a great prostration, bending with knees and head as much as possible to reach the earth.*[^229]
 
-<!-- LEAF: p103 -->
+=== LEAF p103 ===
 
 [Book Page 202]
 
@@ -64,7 +64,7 @@ The Expulsion of Adam from Paradise.
 
 *Psalm 120:* **"I have lifted up mine eyes..."** *Glory, now and ever: Trisagion. After* **"Our Father"**, *the customary troparia:* **"Remember, O Lord..."** **"Lord, have mercy"** *12 times, and the prayer aloud from the priest:* **"Remember, O Lord, in hope..."** *And immediately after this prayer, the priest:* **"Glory to Thee, O God, our hope, glory to Thee."** *And the Dismissal. And the customary mutual forgiveness. And the priest having risen, says:* **"Let us pray for our most holy..."** *And upon the completion of this, the priest begins Matins, exclaiming:* **"Blessed is our God, always, now and ever, and unto ages of ages."** *Reader:* **"Amen."** *Then Trisagion:* **"O Most Holy Trinity"**: *After* **"Our Father"**, *exclamation from the priest:* **"For Thine is the kingdom..."** **"Lord, have mercy"** *12 times.* **"O come, let us worship"**: *And Psalms 19 and 20:* **"The Lord hear thee in the day of trouble [O king]..."** *and the rest of Matins according to custom as in the Horologion. At the completion of the Six Psalms, and after the Great Ectene, instead of "God is the Lord", we sing "Alleluia", to the Tone of the Octoechos that occurs, and the verses are read through. Verse 1:* **"From the night my spirit wakes early unto Thee, O God, for Thy light is upon the earth."** *Verse 2:* **"Learn righteousness, ye inhabitants of the earth..."** *and the rest. And after each verse the cantors sing Alleluia 3 times. Then we sing the Trinity Hymns of the Tone with a loud voice and lingering melody. At the 2nd verse Glory, and at the 3rd now and ever. Be it known, that at the end of the first Trinity Hymn of all eight Tones, the ending proper to the day is said, that is: on Monday:* **"Through the intercessions of Thy bodiless hosts, have mercy on us."** *Look in the Horologion or Molitvoslov. [Likewise also the 3rd Trinity Hymn ends in the same way]. Thereafter is read one Kathisma of the Psalter. After the Antiphons [Stases], at the Alleluia...*[^231]
 
-<!-- LEAF: p104 -->
+=== LEAF p104 ===
 
 [Book Page 204]
 
@@ -80,7 +80,7 @@ The Expulsion of Adam from Paradise.
 *the 1st choir sings the heirmos of the canon of the saint. The second choir says the second verse:* **"The enemy said..."** *And after it the troparion of the canon, and of the Triodia both to 8, thereafter Glory, Trinity Hymn in a higher voice, and now and ever, Theotokion. Then we say in the highest voice:* **"Glory to Thee, our God, glory to Thee,"** *and we sing another troparion of the Lord Theodore. At the end we sing the Katavasia, the heirmos of the second canon. In this manner is sung the 8th and 9th Ode. On Tuesday the Psalter is chanted thus: the 2nd and 3rd and 4th Ode of the Psalter. On Wednesday the 3rd, and 4th Ode. On Thursday the 4th, and 4th.*  
 *If, however, it occur on weekdays, except Saturday and Sunday, that two saints occur in order in the Menaion: we sing in the Octoechos the penitential canon with the heirmos to 6. And to the saints both canons to 8. But when the Triodion arrives, the canon in the Octoechos is left aside, and we sing both canons in the Menaion to the saints with the heirmos to 6. And in the Triodion, as was previously indicated. And thus we do every day throughout the entire Holy Forty Days. The Katavasia on weekdays throughout the entire Forty Days is sung thus: On Monday after the 1st, 3rd, 6th, and 8th and 9th Odes. On Tuesday, after the 2nd, 3rd, 6th, and 8th and 9th. On Wednesday after the 3rd, 6th, and 8th and 9th. On Thursday after the 4th, 6th, and 8th and 9th. On Friday after the 3rd, 5th, 6th, and 8th and 9th. On Saturday after the 3rd, 6th, 7th, and 8th and 9th Ode. After the 3rd Ode, the Sessional Hymn of the saint, Glory, now and ever, Theotokion (on Wednesday and Friday Stavrotheotokion). After the 6th Ode, the Kontakion...*[^233]
 
-<!-- LEAF: p105 -->
+=== LEAF p105 ===
 
 [Book Page 206]
 
@@ -96,7 +96,7 @@ The Expulsion of Adam from Paradise.
 
 **"O Heavenly King, strengthen our faithful sovereigns..."**: *Thereafter we stand and pray within ourselves, saying the prayer of our venerable father Ephrem:* **"O Lord and Master of my life..."**: *dividing it into 3 parts, as was prescribed above, making 3 prostrations. And after these, 12 small ones, saying within ourselves at each one:* **"O God, cleanse me a sinner."** *At the end we say the entire above-written prayer in one:* **"O Lord and Master of my life... a spirit of chastity..."** *And one great prostration. And having risen, we begin:* **"O come, let us worship"** *3 times, and 3 metanias, and we join the First Hour. And having finished the third psalm, we say Alleluia, and three metanias. It is necessary to know: That on all Mondays of the Holy Forty Days, at the First Hour we do not say a Kathisma. [On the other days we recite a Kathisma, and make at each stasis 3 metanias. In like manner also on Friday the First Hour and the Ninth are without a Kathisma]. Then the appointed reader or priest, having stood in the midst of the church, sings the Prokeimenon, in Tone 6:* **"In the morning hear my voice, O my King and my God."** *And we sing the same in a loud voice. To both choirs 3 times. The cantor also says the verses. In which we make genuflections upon the earth [prostrations]. [When the choir sings, then the reader bows]. Thereafter Glory, now and ever:* **"What shall we call thee, O full of grace..."**: *and 3 metanias. Then we sing twice:* **"Order my steps according to Thy word, and let no iniquity have dominion over me."** *And the other choir sings the same. Then:* **"Deliver me from the oppression of men, and I will keep Thy commandments."** *Again the same.* **"Make Thy face to shine upon Thy servant, and teach me Thy statutes."** *Again the same. And this:* **"Let my mouth be filled with Thy praise, O Lord, that I may hymn Thy glory, and Thy majesty all the day long."** *we say three times in a loud voice and lingering melody...*[^234]
 
-<!-- LEAF: p106 -->
+=== LEAF p106 ===
 
 [Book Page 208]
 
@@ -114,7 +114,7 @@ The Expulsion of Adam from Paradise.
 ☞ *Look: According to the ancient custom of the Holy Eastern Church, in the Holy Forty Days the complete Liturgy was not celebrated, except on Saturdays and Sundays.*[^236]  
 *At the Ninth Hour: The priest having given the blessing, we sing the Ninth Hour. Trisagion, and the rest of the customary beginning. At the end of the third psalm at Alleluia, 3 metanias. And the Kathisma of the cycle is chanted. After the reading of the Kathisma, the reader in the midst of the church sings the troparion in Tone 8:* **"O Thou Who at the ninth hour for our sake didst taste of death in the flesh, mortify the carnal mind of our flesh, O Christ God, and save us."** *We say also the verses, making prostrations at them: and the rest.* **"Thou Who at every time"**: *and after* **"God be merciful unto us"**, *we make 3 great prostrations, with the prayer of Saint Ephrem. But the other 12 we do not make, but we say the prayer:* **"O Master, Lord Jesus Christ our God, Who hast patiently endured our sins..."**
 
-<!-- LEAF: p107 -->
+=== LEAF p107 ===
 
 [Book Page 210]
 
@@ -129,7 +129,7 @@ The Expulsion of Adam from Paradise.
 *And after* **"O Gladsome Light"** *is sung the Prokeimenon, and the reading from Genesis. Thereafter another Prokeimenon of the Paremia. And the 2nd reading from Proverbs. For throughout the entire Great Forty Days in the evening is read one Paremia from Genesis, and the other from Proverbs. Then immediately:* **"Vouchsafe, O Lord, to keep us this evening without sin."** *And 3 metanias. Priest:* **"Let us complete our evening prayer unto the Lord..."**: *And after the exclamation, both choirs having gathered together: sing the stichera at the Aposticha in the Triodion. Then both choirs depart to their places and say:* **"Now lettest Thou Thy servant depart in peace..."** *Trisagion. After* **"Our Father"**: *Priest exclamation. Then they sing:* **"O Theotokos and Virgin, rejoice..."** *Prostration.* **"Glory: O Baptizer of Christ..."**, *and the rest. After the prayer:* **"O Heavenly King"**, *we make the customary 3 great prostrations with the prayer of the venerable Ephrem:* **"O Lord and Master of my life..."**: *and the other 12 small ones, and again the prescribed prayer in its entirety in one, and one prostration. And after these Trisagion: after* **"Our Father"**: **"Lord, have mercy"** *12 times. Then the prayer:* **"O All-Holy Trinity, Consubstantial Might..."** *And* **"Blessed be the name of the Lord"** *3 times, and 3 metanias. And reader: Glory, now and ever, Psalm:* **"I will bless the Lord at all times..."** *Thereafter:* **"It is truly right..."**: *And a prostration. Thereafter the other choir sings: Glory, now and ever,* **"Lord, have mercy"** *3 times,* **"Bless."** *And the priest says the daily Dismissal.*  
 *This order of the Lychnikon (Vespers) takes place in the entire Holy Forty Days when there is no Presanctified. For the Presanctified is celebrated only on Wednesday and Friday. We sing Great Compline with prostrations.*[^238]
 
-<!-- LEAF: p108 -->
+=== LEAF p108 ===
 
 [Book Page 212]
 
@@ -144,7 +144,7 @@ The Expulsion of Adam from Paradise.
 
 **"O God, cleanse me a sinner"** *3 times. Thereafter Trisagion, and after* **"Our Father"**: *we sing the troparia, on Monday and Wednesday:* **"Enlighten mine eyes, O Christ God, lest I sleep in death..."** *Verse:* **"Look down and hear me, O Lord my God."** *and again the same. On Tuesday and Thursday evening, the troparion:* **"The invisible enemies that war against me Thou knowest, O Lord..."** *Verse:* **"How fearful is Thy judgment seat, O Lord..."** *and the rest.* **"Lord, have mercy"** *40 times, Glory, now and ever,* **"More honorable than the Cherubim..."** **"In the Name of the Lord, bless, Father"**: *Priest verse:* **"Through the prayers of the holy fathers, O Lord Jesus Christ our God, have mercy on us,"** *and he reads the prayer:* **"O Lord, Lord, Who hast delivered us from every arrow that flies by day..."** *Then* **"O come, let us worship"** *3 times, and Psalms 50 and 101. And the Prayer of Manasseh is read in a loud voice by the priest before the Royal Doors:* **"O Lord Almighty, God of our fathers, of Abraham, Isaac, and Jacob, and of their righteous seed..."** *After this, Trisagion, and after* **"Our Father"**, *we say the troparia:* **"Have mercy on us, O Lord, have mercy on us..."** **"Lord, have mercy"** *40 times, Glory, now and ever,* **"More honorable than the Cherubim..."** **"In the Name of the Lord, bless, Father."** *Priest verse:* **"Through the prayers of the saints..."** *And the prayer:* **"O Master God, Father Almighty, O Lord, the Only-begotten Son, Jesus Christ, and the Holy Spirit..."** **"O come, let us worship..."** *And 3 metanias. And* **"O Lord, hear my prayer, give ear unto my supplication in Thy truth..."** *And* **"Glory to God in the highest..."** **"Lord, Thou hast been our refuge from generation to generation."** **"Vouchsafe, O Lord, to keep us this night without sin."** *Then Trisagion, 3 metanias, and after* **"Our Father"**: *Priest:* **"For Thine is the kingdom..."**: *Then we sing in a loud voice and lingering melody, in Tone 6:* **"O Lord of hosts, be with us; for besides Thee we have no other helper in distress: O Lord of hosts, have mercy on us."** *And the other choir responds the same. And the 1st choir says the verse:* **"Praise God in His saints; praise Him in the firmament of His power."** *and the troparion:* **"O Lord of hosts, be with us..."** *Then the same troparion the other choir at each verse. Upon the completion of the five verses, both choirs say together the first verse and troparion. Then the choir that began begins: Glory:* **"O Lord, if we had not had Thy saints as intercessors, and Thy goodness pitying us, how should we have dared, O Saviour, to hymn Thee..."** *And...*[^240]
 
-<!-- LEAF: p109 -->
+=== LEAF p109 ===
 
 [Book Page 214]
 
@@ -166,7 +166,7 @@ The Expulsion of Adam from Paradise.
 ### On Friday of the First Week in the Evening
 *Vespers together with the Presanctified. After the customary kathisma-reading, at* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *we sing stichera...*
 
-<!-- LEAF: p110 -->
+=== LEAF p110 ===
 
 [Book Page 216]
 

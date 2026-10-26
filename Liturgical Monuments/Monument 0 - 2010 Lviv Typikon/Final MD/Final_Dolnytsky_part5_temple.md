@@ -18,17 +18,13 @@ After the Ambo [prayer], let the Holy Mysteries be hidden in the tabernacle [kyv
 
 ##### At Vespers
 
-Before the beginning of Vespers, the Priest, dressed in all sacerdotal [vestments], and the Deacon – in all diaconal vestments, having come before the steps of the holy table, open the holy doors and the first deacon, having laid aside the Gospel to the right side, takes the Holy Mysteries from the tabernacle [kyvot] and places Them on the iliton; the Priest censes Them thrice over all, as at the beginning of the Liturgy, places Them on the skynia^[A] on the folded iliton and, having placed the Gospel again in the middle of the holy table, exclaims: "Bless, Master," and the Priest, standing with the deacons at the holy table, begins: "Blessed is our God." Vespers is sung with an Entrance. The Priest departs from the holy table only at the Entrance, and the deacons – also at the litanies and after the prokimenon for the sermon, if there be one; then the Holy Mysteries are covered with a veil.
+Before the beginning of Vespers, the Priest, dressed in all sacerdotal [vestments], and the Deacon – in all diaconal vestments, having come before the steps of the holy table, open the holy doors and the first deacon, having laid aside the Gospel to the right side, takes the Holy Mysteries from the tabernacle [kyvot] and places Them on the iliton; the Priest censes Them thrice over all, as at the beginning of the Liturgy, places Them on the skynia [exposition throne] on the folded iliton and, having placed the Gospel again in the middle of the holy table, exclaims: "Bless, Master," and the Priest, standing with the deacons at the holy table, begins: "Blessed is our God." Vespers is sung with an Entrance. The Priest departs from the holy table only at the Entrance, and the deacons – also at the litanies and after the prokimenon for the sermon, if there be one; then the Holy Mysteries are covered with a veil.
 
 Before the dismissal of Vespers, all kneel, and the Deacon takes the Holy Gospel from the middle of the holy table and, having placed it on the right side, removes the Holy Mysteries from the skynia and places [Them] on the folded iliton. The Priest censes Them thrice with a bowing of the head and, having given away the censer, takes upon himself the omophorets [humeral veil], approaches the Holy Mysteries and, having bowed low, takes Them with both hands, with the help of the Deacon, turns right to the people, begins some pious hymn and goes out through the holy doors into the church; he enters under the baldachin and proceeds to the church doors, preceded by deacons with censers, who incessantly cense the Holy Mysteries from the sides; after them follow other priests in phelons, some – only in epitrachelia, with lighted candles in their hands, in two wings, likewise – the church brotherhood, afterwards – four girls with icons, banner-bearers and the cross-bearer. Under the sounds of bells, the procession goes out of the church and encircles it, beginning from its northern side, and returning from the southern side. When the Priest with the Holy Mysteries reaches the middle of the northern side, the procession stops, interrupts the singing, all kneel, and the Priest blesses all the present people with the Holy Mysteries four times, that is, first directly before himself, then – to the right side, then – behind and finally – to the left, saying each time in a quiet voice: "Save, O God, Thy people and bless Thine inheritance." Similarly it happens on the eastern, southern and western sides[^664]. After the blessing on the western side, the procession enters the church: first the Priest with the Holy Mysteries, other sacred ministers, then – the rest of the procession and the people. Then the Priest places the Holy Mysteries on the holy table, on the folded iliton, and, having laid aside the omophorets, kneels and censes the Holy Mysteries thrice. All kneel, and the Priest, together with other sacred ministers, sings the verses of the supplicatory hymn "Holy God." All the people repeat each of its verses. After the completion of the litiya, the Priest, having censed the Holy Mysteries thrice and having taken upon himself the omophorets, approaches the holy table and, having bowed low, takes the Holy Mysteries and, having turned right to the people, sings piously the verse of the hymn of St. Ambrose "Save Thy people, O Lord" twice, and the people repeat the same. The third time the Priest [sings]: "Save Thy people, O Lord, and bless Thine inheritance"; singing: "and bless," He blesses the people solemnly crosswise, making a half-turn from the right to the left side.
 
 While the Choir sings the continuation of the Ambrosian hymn, the Priest places the Holy Mysteries on the holy table, goes down before the steps and, having laid aside the omophorets and having censed Them thrice, kneels together with all others until the Deacon hides the Holy Mysteries in the skynia. Then the Great Dismissal takes place, according to custom.
 
 On one of the days following the feast, the Priest at the Liturgy shall consume after his communion also the Lamb hidden in the ark [kyvot], taking It from the vessel in which It stands. Let him do so if he has a Monstrance [Monstrantsia], for if the Holy Mysteries are exposed only in the pyx [darokhranylnytsia], none of this will happen.
-
----
-
-^[A] Translator's Note: Context suggests "Skynia" here refers to an exposition throne or tabernacle stand placed on the altar.
 
 ---
 
@@ -276,7 +272,7 @@ On these days we sing the service of the temple just as of other great saints wh
 
 Note
 
-During this period fall only two feasts of great saints, that is, on February 24 the Finding of the Precious Head and on March 9 the Forty Martyrs. But since these saints are only Polyeleos [rank], without Vigil, one will have to arrange for oneself a Vigil rubric either with Vespers, or with Great Compline, according to the rubric of the Annunciation, observing in the rest the rubrics of the Findings. However[^686]:
+During this period fall only two feasts of great saints, that is, on February 24 the Finding of the Precious Head and on March 9 the Forty Martyrs. But since these saints are only Polyeleos [rank], without Vigil, one will have to arrange for oneself a Vigil rubric either with Vespers, or with Great Compline, according to the rubric of the Annunciation, observing in the rest the rubrics of the Findings. However:[^686]
 
 #### On Sunday Evening For Monday
 
@@ -1611,107 +1607,164 @@ PASCHAL ROMAN AND GREEK DISCREPANCIES[^748]
 
 for the last 40 years of the 14th indiction[^749]
 
-Year Roman Greek Discrepancy (weeks)
-
-1901 A. 7 A. 1 1
-
-1902 M. 30 A. 14 4
-
-1903 A. 12 A. 6 1
-
-1904 A. 3 A 28 1
-
-1905 A. 23 A. 17 1
-
-1906 A. 15 A. 2 0
-
-1907 M. 31 A. 22 5
-
-1908 A. 19 A. 13 1
-
-1909 A. 11 M. 29 0
-
-1910 M. 27 A. 18 5
-
-1911 A. 16 A. 10 1
-
-1912 A. 7 M. 25 0
-
-1913 M. 23 A. 14 5
-
-1914 A. 12 A. 6 1
-
-1915 A. 4 M. 22 0
-
-1916 A. 23 A. 10 0
-
-1917 A. 8 A. 2 1
-
-1918 M. 31 A. 22 5
-
-1919 A. 20 A. 7 0
-
-1920 A. 4 M. 29 1
-
-1921 M. 27 A. 18 1
-
-1922 A. 16 A. 3 5
-
-1923 A. 1 M. 26 0
-
-1924 A. 20 A. 14 1
-
-1925 A. 12 A. 6 1
-
-1926 A. 4 A. 19 4
-
-1927 A. 17 A. 11 1
-
-1928 A. 8 A. 2 1
-
-1929 M. 31 A. 22 5
-
-1930 A. 20 A. 7 1
-
-1931 A. 5 M. 30 1
-
-1932 M. 27 A. 18 5
-
-1933 A. 16 A. 3 0
-
-1934 A. 1 M. 26 1
-
-1935 A. 21 M. 15 1
-
-1936 A. 12 M. 30 0
-
-1937 M. 28 A. 19 5
-
-1938 A. 17 A. 11 1
-
-1939 A. 9 M. 27 0
-
-1940 M. 24 A. 15 5
-
-[INSERT DIAGRAM/TABLE HERE FROM ORIGINAL PDF]
+| Year | Roman | Greek | Discrepancy (weeks) |
+| :--- | :--- | :--- | :--- |
+| 1901 | A. 7 | A. 1 | 1 |
+| 1902 | M. 30 | A. 14 | 4 |
+| 1903 | A. 12 | A. 6 | 1 |
+| 1904 | A. 3 | A. 28 | 1 |
+| 1905 | A. 23 | A. 17 | 1 |
+| 1906 | A. 15 | A. 2 | 0 |
+| 1907 | M. 31 | A. 22 | 5 |
+| 1908 | A. 19 | A. 13 | 1 |
+| 1909 | A. 11 | M. 29 | 0 |
+| 1910 | M. 27 | A. 18 | 5 |
+| 1911 | A. 16 | A. 10 | 1 |
+| 1912 | A. 7 | M. 25 | 0 |
+| 1913 | M. 23 | A. 14 | 5 |
+| 1914 | A. 12 | A. 6 | 1 |
+| 1915 | A. 4 | M. 22 | 0 |
+| 1916 | A. 23 | A. 10 | 0 |
+| 1917 | A. 8 | A. 2 | 1 |
+| 1918 | M. 31 | A. 22 | 5 |
+| 1919 | A. 20 | A. 7 | 0 |
+| 1920 | A. 4 | M. 29 | 1 |
+| 1921 | M. 27 | A. 18 | 1 |
+| 1922 | A. 16 | A. 3 | 5 |
+| 1923 | A. 1 | M. 26 | 0 |
+| 1924 | A. 20 | A. 14 | 1 |
+| 1925 | A. 12 | A. 6 | 1 |
+| 1926 | A. 4 | A. 19 | 4 |
+| 1927 | A. 17 | A. 11 | 1 |
+| 1928 | A. 8 | A. 2 | 1 |
+| 1929 | M. 31 | A. 22 | 5 |
+| 1930 | A. 20 | A. 7 | 1 |
+| 1931 | A. 5 | M. 30 | 1 |
+| 1932 | M. 27 | A. 18 | 5 |
+| 1933 | A. 16 | A. 3 | 0 |
+| 1934 | A. 1 | M. 26 | 1 |
+| 1935 | A. 21 | M. 15 | 1 |
+| 1936 | A. 12 | M. 30 | 0 |
+| 1937 | M. 28 | A. 19 | 5 |
+| 1938 | A. 17 | A. 11 | 1 |
+| 1939 | A. 9 | M. 27 | 0 |
+| 1940 | M. 24 | A. 15 | 5 |
 
 #### III. PERPETUAL TABLE,
 
 which contains 35 columns of Sundays of the whole year with the indication of Gospels and tones of the week
 
-[Page 244]
+##### Part A: Paschal Keys Columns 1–21 (*А – Іжиця*)
 
-A B V G D E Zh Z i l o Z I I K L M N O P R S T I
+| Month / Row | А | Б | В | Г | Д | Є | Ж | Зіло | З | И | І | К | Л | М | Н | О | П | Р | С | Т | Іжиця |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Jan.** (After Theoph.) | — | — | — | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 7 | 8 | 9 | 10 |
+| **Jan.** (Ord. 29) | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — |
+| **Jan.** (Ord. 30) | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — |
+| **Jan.** (Ord. 31) | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — | 14 | 15 | 16 | 17 |
+| **Jan.** (Ord. 32) | — | — | — | — | — | — | — | — | — | — | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
+| **Jan.** (Publican) | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
+| **Mar. / Apr.** (Pascha) | **22** | **23** | **24** | **25** | **26** | **27** | **28** | **29** | **30** | **31** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** |
+| **May / Jun.** (All Saints) | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 1 | 2 | 3 | 4 | 5 | 6 |
+| **May / Jun.** (2nd Pent.) | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |
+| **May / Jun.** (3rd Pent.) | 31 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+| **Jun.** (4th Pent.) | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
+| **Jun. / Jul.** (5th Pent.) | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 1 | 2 | 3 | 4 |
+| **Jun. / Jul.** (6th Pent.) | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+| **Jun. / Jul.** (7th Pent.) | 28 | 29 | 30 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13a | 14a | 15a | 16a | 17a | 18a |
+| **Jul.** (8th Pent.) | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13a | 14a | 15a | 16a | 17a | 18a | 19a | 20 | 21 | 22 | 23 | 24 | 25 |
+| **Jul. / Aug.** (9th Pent.) | 12 | 13a | 14a | 15a | 16a | 17a | 18a | 19a | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 1 |
+| **Jul. / Aug.** (10th Pent.) | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| **Jul. / Aug.** (11th Pent.) | 26 | 27 | 28 | 29 | 30 | 31 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| **Aug.** (12th Pent.) | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 |
+| **Aug.** (13th Pent.) | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 |
+| **Aug. / Sep.** (14th Pent.) | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 1 | 2 | 3 | 4 | 5 |
+| **Aug. / Sep.** (15th Pent.) | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 1 | 2 | 3 | 4 | 5 | 6 | 7b | 8b | 9b | 10b | 11b | 12b |
+| **Aug. / Sep.** (16th Pent.) | 30 | 31 | 1 | 2 | 3 | 4 | 5 | 6 | 7b | 8b | 9b | 10b | 11b | 12b | 13b | 14 | 15c | 16c | 17c | 18c | 19c |
+| **Sep.** (17th Pent.) | 6 | 7b | 8b | 9b | 10b | 11b | 12b | 13b | 14 | 15c | 16c | 17c | 18c | 19c | 20c | 21c | 22 | 23 | 24 | 25 | 26 |
+| **Sep. / Oct.** (18th Pent.) | 13b | 14 | 15c | 16c | 17c | 18c | 19c | 20c | 21c | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 1 | 2 | 3 |
+| **Sep. / Oct.** (19th Pent.) | 20c | 21c | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| **Sep. / Oct.** (20th Pent.) | 27 | 28 | 29 | 30 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8d | 9d | 10d | 11d | 12d | 13d | 14d | 15 | 16 | 17 |
+| **Oct.** (21st Pent.) | 4 | 5 | 6 | 7 | 8d | 9d | 10d | 11d | 12d | 13d | 14d | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
+| **Oct.** (22nd Pent.) | 11d | 12d | 13d | 14d | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
+| **Oct. / Nov.** (23rd Pent.) | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| **Oct. / Nov.** (24th Pent.) | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
+| **Nov.** (25th Pent.) | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 |
+| **Nov.** (26th Pent.) | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
+| **Nov. / Dec.** (27th Pent.) | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 1 | 2 | 3 | 4 | 5 |
+| **Nov. / Dec.** (28th Pent.) | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11e | 12e |
+| **Nov. / Dec.** (Forefathers) | 29 | 30 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11f | 12f | 13f | 14f | 15f | 16f | 17f | 18g | 19g |
+| **Dec.** (Fathers) | 6 | 7 | 8 | 9 | 10 | 11f | 12f | 13f | 14f | 15f | 16f | 17f | 18g | 19g | 20g | 21g | 22g | 23g | 24g | 25 | 26h |
+| **Dec. / Jan.** (29th Pent.) | 13f | 14f | 15f | 16f | 17f | 18g | 19g | 20g | 21g | 22g | 23g | 24g | 25 | 26h | 27h | 28h | 29h | 30h | 31h | 1i | 2i |
+| **Dec. / Jan.** (30th Pent.) | 20g | 21g | 22g | 23g | 24g | 25 | 26h | 27h | 28h | 29h | 30h | 31h | 1i | 2i | 3i | 4i | 5i | 6 | 7I | 8I | 9I |
+| **Dec. / Jan.** (31st Pent.) | 27h | 28h | 29h | 30h | 31h | 1i | 2i | 3i | 4i | 5i | 6 | 7I | 8I | 9I | 10I | 11I | 12I | 13I | 14 | 15 | 16 |
+| **Jan.** (32nd Pent.) | 3i | 4i | 5i | 6 | 7I | 8I | 9I | 10I | 11I | 12I | 13I | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
+| **Jan.** (row 42) | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
+| **Jan. / Feb.** (row 43) | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 1 | 2 | 3 | 4 | 5 | 6 |
+| **Jan. / Feb.** (row 44) | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |
+| **Jan. / Feb.** (row 45) | 31 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+| **Feb.** (row 46) | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
+| **Feb. / Mar.** (row 47) | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 1 | 2 | 3 | 4 | 5 | 6 |
+| **Feb. / Mar.** (row 48) | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |
+| **Feb. / Mar.** (row 49) | 28 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+| **Mar.** (row 50) | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 |
+| **Feb. (Apodosis of Meeting)** | 0 | 2 | 3 | 4 | 5 | 5 | 6 | 5 | 6 | 5 | 6 | 7 | 8 | 5 | 6 | 7 | 8 | 9 | 9 | 9 | 9 |
 
-S
+##### Part B: Paschal Keys Columns 22–35 (*Ф – Я*) with Sunday, Tone, and Sunday Gospel
 
-i   7 8 9 10 11 12 13 7 8 9 10 11 12 13 7 8 9 10
-
-[INSERT DIAGRAM/TABLE HERE FROM ORIGINAL PDF]
-
-(Translator's Note: Pages 245-248 contain the massive numerical grids of the Perpetual Calendar, correlating the Keys [A-I] with dates across all months of the year. Due to the graphical complexity and formatting limitations, the full numerical matrix is not reproduced here, but the textual content and explanatory rules follow below.)
-
-[Page 249]
+| Month | Ф | Х | От | Ц | Ч | Ш | Щ | Йор | Йори | Ь | Ять | Ю | Вел. юс | Я | Sunday | Tone | Sunday Gospel |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: | :---: |
+| **Jan.** | 11 | 12 | 13 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 7 | 8 | 9 | 10 | Sunday after Theophany | — | — |
+| **Jan.** | — | — | — | — | — | — | — | — | — | — | 14 | 15 | 16 | 17 | Ord. 29 | — | — |
+| **Jan.** | — | — | — | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | Ord. 30 | — | — |
+| **Jan.** | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | Ord. 31 | — | — |
+| **Jan. / Feb.** | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | Ord. 32 | — | — |
+| **Feb.** | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | Publican | — | — |
+| **Apr.** | **12** | **13** | **14** | **15** | **16** | **17** | **18** | **19** | **20** | **21** | **22** | **23** | **24** | **25** | Pascha | — | — |
+| **Jun.** | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 1st after Pentecost (All Saints) | 8 | 1 |
+| **Jun.** | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 2nd after Pentecost | 1 | 2 |
+| **Jun. / Jul.** | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 1 | 2 | 3 | 4 | 3rd after Pentecost | 2 | 3 |
+| **Jun. / Jul.** | 28 | 29 | 30 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 4th after Pentecost | 3 | 4 |
+| **Jul.** | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13a | 14a | 15a | 16a | 17a | 18a | 5th after Pentecost | 4 | 5 |
+| **Jul.** | 12 | 13a | 14a | 15a | 16a | 17a | 18a | 19a | 20 | 21 | 22 | 23 | 24 | 25 | 6th after Pentecost | 5 | 6 |
+| **Jul. / Aug.** | 19a | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 1 | 7th after Pentecost | 6 | 7 |
+| **Jul. / Aug.** | 26 | 27 | 28 | 29 | 30 | 31 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 8th after Pentecost | 7 | 8 |
+| **Aug.** | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 9th after Pentecost | 8 | 9 |
+| **Aug.** | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 10th after Pentecost | 1 | 10 |
+| **Aug.** | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 11th after Pentecost | 2 | 11 |
+| **Aug. / Sep.** | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 1 | 2 | 3 | 4 | 5 | 12th after Pentecost | 3 | 1 |
+| **Aug. / Sep.** | 30 | 31 | 1 | 2 | 3 | 4 | 5 | 6 | 7b | 8b | 9b | 10b | 11b | 12b | 13th after Pentecost | 4 | 2 |
+| **Sep.** | 6 | 7b | 8b | 9b | 10b | 11b | 12b | 13b | 14 | 15c | 16c | 17c | 18c | 19c | 14th after Pentecost | 5 | 3 |
+| **Sep.** | 13b | 14 | 15c | 16c | 17c | 18c | 19c | 20c | 21c | 22 | 23 | 24 | 25 | 26 | 15th after Pentecost | 6 | 4 |
+| **Sep. / Oct.** | 20c | 21c | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 1 | 2 | 3 | 16th after Pentecost | 7 | 5 |
+| **Sep. / Oct.** | 27 | 28 | 29 | 30 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8d | 9d | 10d | 17th after Pentecost | 8 | 6 |
+| **Oct.** | 4 | 5 | 6 | 7 | 8d | 9d | 10d | 11d | 12d | 13d | 14d | 15 | 16 | 17 | 18th after Pentecost | 1 | 7 |
+| **Oct.** | 11d | 12d | 13d | 14d | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 19th after Pentecost | 2 | 8 |
+| **Oct.** | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 20th after Pentecost | 3 | 9 |
+| **Oct. / Nov.** | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 21st after Pentecost | 4 | 10 |
+| **Nov.** | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 22nd after Pentecost | 5 | 11 |
+| **Nov.** | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 23rd after Pentecost | 6 | 1 |
+| **Nov.** | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 24th after Pentecost | 7 | 2 |
+| **Nov. / Dec.** | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 1 | 2 | 3 | 4 | 5 | 25th after Pentecost | 8 | 3 |
+| **Nov. / Dec.** | 29 | 30 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11f | 12f | 26th after Pentecost | 1 | 4 |
+| **Dec.** | 6 | 7 | 8 | 9 | 10 | 11f | 12f | 13f | 14f | 15f | 16f | 17f | 18g | 19g | 27th after Pentecost | 2 | 5 |
+| **Dec.** | 13f | 14f | 15f | 16f | 17f | 18g | 19g | 20g | 21g | 22g | 23g | 24g | 25 | 26h | 28th after Pentecost | 3 | 6 |
+| **Dec. / Jan.** | 20g | 21g | 22g | 23g | 24g | 25 | 26h | 27h | 28h | 29h | 30h | 31h | 1i | 2i | 29th after Pentecost | 4 | 7 |
+| **Dec. / Jan.** | 27h | 28h | 29h | 30h | 31h | 1i | 2i | 3i | 4i | 5i | 6 | 7I | 8I | 9I | 30th after Pentecost | 5 | 8 |
+| **Jan.** | 3i | 4i | 5i | 6 | 7I | 8I | 9I | 10I | 11I | 12I | 13I | 14 | 15 | 16 | 31st after Pentecost | 6 | 9 |
+| **Jan.** | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 32nd after Pentecost | 7 | 10 |
+| **Jan.** | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | Sunday (see note 7) | 8 | 11 |
+| **Jan. / Feb.** | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 1 | 2 | 3 | 4 | 5 | 6 | Sunday (see note 7) | 1 | 1 |
+| **Jan. / Feb.** | 31 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | Sunday (see note 7) | 2 | 2 |
+| **Feb.** | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | Sunday (see note 7) | 3 | 3 |
+| **Feb.** | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | Sunday (see note 7) | 4 | 4 |
+| **Feb. / Mar.** | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 1 | 2 | 3 | 4 | 5 | 6 | Sunday (see note 7) | 5 | 5 |
+| **Feb. / Mar.** | 28 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | Sunday (see note 7) | 6 | 6 |
+| **Mar.** | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | Sunday (see note 7) | 7 | 7 |
+| **Mar.** | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | Sunday (see note 7) | 8 | 8 |
+| **Mar. / Apr.** | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 1 | 2 | 3 | Sunday (see note 7) | 1 | 9 |
+| **Mar. / Apr.** | 28 | 29 | 30 | 31 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | Sunday (see note 7) | 2 | 10 |
+| **Feb. (Apodosis)** | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | Apodosis of the Meeting | — | — |
 
 GOSPELS OF SPECIFIC MENAION SUNDAYS,
 
@@ -1749,7 +1802,7 @@ In the 8th row are given in double print all 35 Paschal days, corresponding to t
 
 In the five rows that are between the Publican and the Paschal keys, are indicated all 35 Sundays that may fall between Theophany and the Publican, that is, the Sunday after Theophany and the four last ordinary ones (29th, 30th, 31st and 32nd). However, since not all these Sundays will always take place, the explanation of which we gave on [p. 144](Final_Dolnytsky_part3_menaion.md#sunday-of-the-holy-ancestors-forefathers) (for this depends on whether Pascha falls earlier or later), between these five Sundays some places may be unfilled, and this means that then the Sundays corresponding to them, indicated on the right side of the table, will not take place. For example, under the Paschal key "A" all places are unfilled; this means that none of these 5 Sundays will be taken, but immediately after Theophany – the *Triodion
 
-Of the *Triodion* Sundays, we presented only three, that is, the middle one – the Resurrection, and the two extreme ones, that is [Page 250] the Publican and All Saints; the rest of the Sundays that are between them, we do not present, for one can conveniently keep them in memory even without the table, because usually they have proper names and services that correspond to these names
+Of the *Triodion* Sundays, we presented only three, that is, the middle one – the Resurrection, and the two extreme ones, that is the Publican and All Saints; the rest of the Sundays that are between them, we do not present, for one can conveniently keep them in memory even without the table, because usually they have proper names and services that correspond to these names
 
 For the Sundays preceding the Sunday of the Publican, we do not present either the tone or the Sunday Gospel, for they depend on the past Pascha, and therefore one must look for them at the end of the table, within the limits of January and February under the Paschal key of the past Pascha
 
@@ -1770,3 +1823,187 @@ The curtain, according to the present custom of Athonite monasteries, at the Lit
 The End and Glory to God.
 
 Bless, O All-Holy Theotokos, this work for the good of God's holy Churches. Amen.
+
+---
+
+### Notes
+
+[^663]: Lviv Synod, Tit. IV, Chap. IV, p. VII.
+
+[^664]: However, since such numerous blessings with the Holy Mysteries are imparted more out of piety than for a certain reason, it would be better to adapt to the Roman Church and leave for the people only one blessing, which is imparted among us upon the return of the procession to the church, as the Lviv Synod also prescribes for the feast of the Eucharist in the case when, during the encirclement of the church, there are not four altars (Tit. 4, Chap. 3, p. III).
+
+[^665]: Greek books do not provide any rubrics for temple feasts; of the Slavonic ones, only ours have some, and more broadly -- in the Russian ones, which follow the *Tserkovne Oko* of 1615.
+
+[^666]: If the temple is of a minor saint, who in the *Menaion* has no stichera at Small Vespers, nor stichera at the Litiya, nor Aposticha at Great Vespers, nor Sessional Hymns, nor Stichera at the Praises at Matins, then all this can be borrowed from the Common Service of the *Anthologion* [*Anthologion*], under the general heading of either a Venerable, or a Martyr, or another.
+
+[^667]: The *Tserkovne Oko* (About Temples, Chapter 26) and, following it, the Moscow Typikon do not prescribe the service of the Afterfeast on Sunday.
+
+[^668]: *Tserkovne Oko*, Chapter 26.
+
+[^669]: The *Tserkovne Oko* and the Moscow Typikon provide numerous specific rubrics for temple saints, but we provide only for some, since the number of our temple saints is small (about 25) and many of them are subject to the general rubrics which we presented before.
+
+[^670]: All this regarding Small Vespers we presented according to the rubric of the Moscow Typikon, for in the *Tserkovne Oko* and other rubrics there is nothing about this.
+
+[^671]: All this for Small Vespers is provided also by the Lviv *Anthologion* of 1633.
+
+[^672]: So in the *Tserkovne Oko*; in the Moscow Typikon stichera of both the temple and the Indiction are provided.
+
+[^673]: So also in the Lviv *Anthologion*.
+
+[^674]: The Lviv *Anthologion* does not provide the Sunday Kontakion and Ikos, but provides after the 6th Ode the Kontakion and Ikos of the temple; however, if it is a Sunday, it should not be omitted.
+
+[^675]: The *Tserkovne Oko* prescribes to discard the Sunday stichera, and take 4 of the Indiction and 4 of the temple; the Moscow Typikon prescribes 9: 3 Sunday, 3 of the Indiction and 3 of the temple.
+
+[^676]: *Tserkovne Oko*, Chapter 23.
+
+[^677]: *Tserkovne Oko*, Chapter 29, Temple.
+
+[^678]: This is all -- according to Chapter 49 of the *Tserkovne Oko*.
+
+[^679]: Chapter 50 of Mark in the *Tserkovne Oko*.
+
+[^680]: Chapter 50 of Mark in the *Tserkovne Oko*, fol. 79.
+
+[^681]: The Moscow Typikon in Chapter 29 "Temple": "In everything the service of the Fathers takes precedence"; however, Chapter 50 of Mark in the *Tserkovne Oko*, fol. 80 better provides first the service to the temple, and afterwards -- to the Fathers.
+
+[^682]: Chapter 50 of Mark in the *Tserkovne Oko*, fol. 51v, prescribes the service to the temple on Monday; and the Moscow Typikon -- on Cheesefare Sunday, with which we also agree, for we also transfer the feast of the Meeting to Cheesefare Sunday, as you have here on [p. 220](Final_Dolnytsky_part3_menaion.md#2-february--the-meeting-on-cheesefare-sunday).
+
+[^683]: In Chapter 50 of Mark of the *Tserkovne Oko* it is prescribed first to Theodore on 6, then to the temple on 8; in our opinion, however, the temple feast is greater than the Saturday of St. Theodore. And if on the Finding of the Precious Head, when it falls on the Saturday of Theodore, in Chapter 63 of Mark of the *Tserkovne Oko* the Canon of the temple saint is prescribed in the first place, in the second -- of the Forerunner, and in the third -- of Theodore, then why here, on the very day of the temple feast, put it in the second place?
+
+[^684]: This is all -- from Chapter 53 of Mark of the *Tserkovne Oko*.
+
+[^685]: *Tserkovne Oko*. "About Temples", Chapter 29, fol. 222.
+
+[^686]: According to the rubric of Chapters 50 and 51 in the *Tserkovne Oko*, fol. 81 and 84.
+
+[^687]: This is -- according to the rubric of Chapter 55 of Mark in the *Tserkovne Oko* and Chapter 36 of the Moscow Typikon "Temple".
+
+[^688]: The *Tserkovne Oko* does not prescribe transferring the service of the temple to another day, but prescribes singing it together with the service of the day on which it falls.
+
+[^689]: So the *Tserkovne Oko* in Chapter 37 "Temple". From this it follows that in this case in Bright Week there is no Vigil; although in the Moscow Typikon, in Chapter 104 of Mark, it is left to choice to serve a Vigil, and in the event of a Vigil, two Vespers are prescribed, after the pattern of the Annunciation.
+
+[^690]: *Tserkovne Oko*, in Chapter 42 "Temple", fol. 237. Chapter 117 forged of Mark in the *Tserkovne Oko* prescribes for this day two Great Vespers with the same stichera and readings: one with kneeling prayers, together with the Liturgy, and the second -- at the Vigil. Which, however, is superfluous. In the Moscow Typikon only one Great Vespers with kneeling prayers is rightly prescribed, and then, in its own time, -- Small Compline, Midnight Office and Matins without Vigil.
+
+[^691]: *Tserkovne Oko*, Chapter 45 "Temple", fol. 238.
+
+[^692]: All these Heirmoi are given at Matins on all Fridays of the *Octoechos* of the 4th Tone and on Akathist Saturday, also on the Annunciation, however, on this feast the 6th, 8th and 9th Odes have a separate Heirmos.
+
+[^693]: This we should have said on [p. 212](Final_Dolnytsky_part3_menaion.md#2-february--meeting-of-our-lord-jesus-christ). Finally, the Constantinopolitan Typikon and the Greek *Menaion* which we possess give without exception also for this Sunday the Katavasia of the feast. The Greek-Venetian *Heirmologion* gives the Katavasia of the *Triodion* not only for Meatfare Sunday, but also for the Sundays of the Prodigal and Cheesefare.
+
+[^694]: Greek rubrics prescribe the Katavasia of Pascha also on its Apodosis.
+
+[^695]: We present this litany according to the edition of our Pochaiv *Menaion*. The Greek-Venetian *Menaion*, which we possess, does not add to any of its five petitions "Let us all say"; in the rest it agrees with the Pochaiv one, except for the second petition, for not having either a Pope or a Tsar, they pray only generally for Orthodox Christians.
+
+[^696]: The Lviv Synod forbids the service for the deceased only on Polyeleos feasts; however, it would be better not to take it also on Doxology feasts, as also the circular of the Metropolitan of Nov. 1, 1901 commands.
+
+[^697]: Services of the *Menaion* we present according to the edition of the Pochaiv *Menaion* of 1761, and services of the *Triodion* -- according to the edition of the Pochaiv Lenten *Triodion* of 1784 and Flower *Triodion* of 1786.
+
+[^698]: Ed. Note. The signs that were given in the original have been replaced with others for the purpose of facilitating the determination of the kind of service. In view of this, footnotes 3 and 5 in these notes have also been replaced.
+
+[^699]: Thus we present according to ancient rubrics; according to the new -- in our Horologia troparia to saints are added for all days.
+
+[^700]: In the Typikon of Lviv University and our manuscript one only -- feast on 4 with Apostle-Gospel at Liturgy.
+
+[^701]: In the *Tserkovne Oko*, as also in the Typikon of Lviv University, -- feast on 6 with Small Doxology.
+
+[^702]: In the Greek-Venetian *Menaion*, in the Greek *Horologion* and in our manuscript Typikon the memories of these two Jonahs are not given, but they are given in the Menologion of Basil; in our and Russian rubrics their service is given at Compline; likewise in the Typikon of Lviv University.
+
+[^703]: In the Typikon of Lviv University the Kathisma is -- usual of the season.
+
+[^704]: With the exception of the Chiefs of the Apostles Peter and Paul on June 29 and the Beloved Apostle on September 26 and May 8, to whom the rubrics prescribe a Vigil, to other Apostles and Evangelists ancient rubrics prescribe a service only on 6, without Doxology; but in our and Russian rubrics Polyeleos is prescribed to them.
+
+[^705]: Polyeleos -- at choice; and then to the martyrs we sing at Compline or transfer to the 13th and sing -- only on 4 with Troparion. In the Typikon of Lviv University is prescribed to them -- on 14, also only on 4 with Praises stichera.
+
+[^706]: In the Pochaiv *Anthologion* Polyeleos is given to him. In the Roman Breviary, May 1, it is assumed that he was supposed to be one of the twelve.
+
+[^707]: Also this Paraskeva, as that of October 14, is given in the *Menaion* on 6, without Great Doxology, and Polyeleos -- only at choice. In the Typikon of Lviv University she is not even mentioned; and Greek Menologia do not have any of these Paraskevas.
+
+[^708]: Our *Menaion* leaves at choice -- to sing Polyeleos or only on 6 with Doxology, or without Doxology, but others -- without Doxology. By decision of the Metropolitan in 1901 -- with Great Doxology.
+
+[^709]: In the *Tserkovne Oko* prescribed on 6. In the Typikon of the University -- on 4 and, at choice, Praises stichera.
+
+[^710]: If on the Sunday to which the service of St. Josaphat is transferred falls a Polyeleos saint, as on Nov. 13, 14 or 16, then it is necessary to transfer the service of the Polyeleos saint to Nov. 15 or 18; if on Sunday fall the services of Saints John and Nilus -- transfer them to another day. The Lviv Synod appointed the service of St. Josaphat on Nov. 12 according to the Gregorian [calendar], afterwards, however, all our three ordinariates appointed it on the 12th according to the Julian [calendar]. ("Eparchial News," June 8, 1900, part VII), and this we observe until the calendar is changed.
+
+[^711]: Because the Fast before the Nativity of Christ begins, the *Menaion* gives "Alleluia," except Saturday and Sunday.
+
+[^712]: The second Barlaam and Josaphat the Metropolitan Ordinariate ordered not to take ("Eparchial News," Nov. 16, 1901).
+
+[^713]: The Pochaiv *Anthologion* of 1777 (not the *Menaion*, as we noted on [p. 136](Final_Dolnytsky_part3_menaion.md#12-november--holy-hieromartyr-josaphat)) prescribes Polyeleos to the saint.
+
+[^714]: Our *Menaion* gives: "Alleluia" or Troparion, because according to the previous rubric on fast days of the Fast before the Nativity of Christ "Alleluia" was sung.
+
+[^715]: Because the Fast before the Nativity of Christ begins, the *Menaion* gives "Alleluia," except Saturday and Sunday.
+
+[^716]: Our *Menaion* gives: "Alleluia" or Troparion" because according to the previous rubric on fast days of the Fast before the Nativity of Christ "Alleluia" was sung.
+
+[^717]: Our *Menaion* gives: "Alleluia" or Troparion, because according to the previous rubric on fast days of the Fast before the Nativity of Christ "Alleluia" was sung.
+
+[^718]: Our *Menaion* gives: "Alleluia" or Troparion, because according to the previous rubric on fast days of the Fast before the Nativity of Christ "Alleluia" was sung.
+
+[^719]: Our *Menaion* leaves to the decision of the Superior to sing the service of St. Barbara with Vigil or with Polyeleos, or on 6 with Doxology, or without Doxology; others give also on 6, without Doxology. By decision of the Metropolitan -- on 6 with Great Doxology.
+
+[^720]: Our *Menaion* gives: "Alleluia" or Troparion, because according to the previous rubric on fast days of the Fast before the Nativity of Christ "Alleluia" was sung.
+
+[^721]: Our *Menaion* gives: "Alleluia" or Troparion, because according to the previous rubric on fast days of the Fast before the Nativity of Christ "Alleluia" was sung.
+
+[^722]: According to general rubrics the service of this feast -- only on 6 without Doxology; in the Moscow Typikon -- with Doxology.
+
+[^723]: Our *Menaion* gives: "Alleluia" or Troparion, because according to the previous rubric on fast days of the Fast before the Nativity of Christ "Alleluia" was sung.
+
+[^724]: Our *Menaion* gives: "Alleluia" or Troparion, because according to the previous rubric on fast days of the Fast before the Nativity of Christ "Alleluia" was sung.
+
+[^725]: *Tserkovne Oko*, our manuscript Typikon and the Typikon of Lviv University prescribe "Alleluia".
+
+[^726]: Our *Menaion* gives: "Alleluia" or Troparion, because according to the previous rubric on fast days of the Fast before the Nativity of Christ "Alleluia" was sung.
+
+[^727]: The twelve-day fast-free period, from December 25 to January 6 both inclusive, we understand with the exception of the Eve of Theophany, for with it there would be thirteen days.
+
+[^728]: Days 26 and 27 of December, although in the *Menaion* they do not have a Vigil, nor even Polyeleos, however, for the greater honor of the Nativity of Christ are marked among us by abstention from work and presence at divine service; to St. Stephen the Lviv Ordinariate prescribes Great Doxology ("Eparchial News," Nov. 16, 1901). To Euthymius -- at Compline on another day.
+
+[^729]: In Greek Menaia the service of this saint is not given, only in the Synaxarion is his name mentioned.
+
+[^730]: Service to many Hieromartyrs.
+
+[^731]: The *Tserkovne Oko*, Pochaiv *Anthologion* of 1777 and our manuscript Typikon provide also the service of the Translation of the Relics of the Holy Passion-Bearers of Rus' Boris and Gleb; however, since neither our Pochaiv *Menaion*, nor the Moscow Typikon provide it, nor even mention it, it remains at choice whether to sing it or not, whether to sing with Polyeleos, as the *Tserkovne Oko* and Pochaiv *Anthologion* have, or without Polyeleos, together with the service of St. Athanasius, as our manuscript Typikon provides. Finally, the memory of the Holy Martyrs falls on July 24 and then we sing their service; but where there is a temple, one should not reject.
+
+[^732]: Their service -- at Compline or on another day, by decision of the Superior.
+
+[^733]: In Greek editions only Peter, Dionysius and Seven Virgins are given, and Theodotus -- only on June 7. 3 "Alleluia" or Troparion.
+
+[^734]: St. Apostle Hermas, one of the 70 disciples (the Apostle mentions him in the Epistle to the Romans 16:14; Roman and Flower Martyrologion), we do not present here because in the divine service he has nothing, nor is he mentioned in the Greek Menologion.
+
+[^735]: St. Apostle Hermas, one of the 70 disciples (the Apostle mentions him in the Epistle to the Romans 16:14; Roman and Flower Martyrologion), we do not present here because in the divine service he has nothing, nor is he mentioned in the Greek Menologion.
+
+[^736]: *Tserkovne Oko*, our manuscript Typikon and the Typikon of Lviv University prescribe only on 6, without Doxology.
+
+[^737]: Our *Menaion* and the *Tserkovne Oko* leave to the decision of the Ecclesiarch to sing to Ven. Onuphrius with Vigil. The Metropolitan Ordinariate -- on 6 with Great Doxology.
+
+[^738]: The *Tserkovne Oko* prescribes to him only on 6, without Doxology; our manuscript Typikon -- only on 4.
+
+[^739]: Our manuscript Typikon and the Typikon of Lviv University prescribe this service (just as that of August 31) -- only on 6, with *Octoechos*. The Moscow Typikon and the Greek-Venetian *Menaion* prescribe the whole service -- only to the Theotokos, however, of the small kind, only at Matins, from the Canon to the end, -- of the large kind; however, the Greek-Venetian *Menaion*, instead of the regular Katavasia "I will open my mouth," gives the Heirmos of the last Canon and only after the 3rd, 6th and 9th Odes. The *Tserkovne Oko* and our *Menaion* prescribe -- with Polyeleos; and our *Menaion* adds: "if there is no Vigil"; but this we do not do.
+
+[^740]: The Lviv Synod (in the Ukrainian text) appointed the day of memory of these saints on July 5 according to the Gregorian calendar, however, later our ordinariates appointed it on July 5 according to the Julian. St. Athanasius of Athos was transferred from July 5 to July 6 ("Archeparchial News," June 8, 1900).
+
+[^741]: Everything -- according to the rubric of the Theologian, when it falls on the Sunday of the Fathers before Pentecost, with the exception of the Vigil. At the Liturgy: Troparia of all three services -- according to their order. Prokimenon-Alleluia, Apostle-Gospel -- to the Fathers and Vladimir; we do not take the daily ones (Note on [p. 296](Final_Dolnytsky_part3_menaion.md#8-may--rubric-for-the-divine-liturgy)). Communion Hymn -- "Praise" and to Vladimir. The *Tserkovne Oko* and our *Menaion* add: with Polyeleos; and our *Menaion* adds: "Praise [the Lord]" (Kvalite) also to Vladimir.
+
+[^742]: Our manuscript Typikon, Greek [Typikon] and [Typikon] of Lviv University and the *Tserkovne Oko* prescribe the service of St. Anna on 6, together with the [Holy] Women and with the *Octoechos*, without Doxology, likewise the Moscow Typikon, however, with Doxology. The Greek-Venetian *Menaion* gives Great Vespers, and Matins -- Great only from the Canon.
+
+[^743]: Troparion or "Alleluia".
+
+[^744]: See July 2, note 1.
+
+[^745]: Typikon S. Sabae; Codex Vatican. An. 1317, sub num. 784; to it corresponds also the one printed in Venice in 1615, Library of St. Augustine in Rome.
+
+[^746]: See note 1 on [p. 427](Final_Dolnytsky_part5_temple.md#specific-temple-rubrics-outside-the-triodion).
+
+[^747]: Ed. Note. Instead of letters, which in the modern Ukrainian alphabet do not have a direct equivalent, their names in Cyrillic are given.
+
+[^748]: The discrepancy is determined after adding 13 days to the Greek Pascha.
+
+[^749]: M. – March, A. – April, 0 – coincide.
+
+[^750]: Only the Gospel of the 28th Sunday, when it falls before or after the Sunday of the Forefathers, we leave for the Sunday of the Forefathers, and on the 28th -- one of the regular [Gospels] of the Forefathers.
+
+[^751]: I had a student, a Bulgarian, who performed this service on the Holy Mountain [Athos].
+
+[^752]: So holds the *Tserkovne Oko* in Chapter 7. Finally, now among us the holy doors are high [lattice-work/open], and therefore we do not use a curtain.

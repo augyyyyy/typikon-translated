@@ -1,8 +1,8 @@
-<!-- LEAF: p221 -->
+=== LEAF p221 ===
 
 Upon the conclusion of the litany, the priest, having taken the holy Gospel Book from the right side, maketh therewith the sign of the holy cross over the Iliton, saying the exclamation: “For Thou art our sanctification, and unto Thee we ascribe glory: to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages.” The choir singeth: “Amen.” The priest: “Let us go forth in peace.” The choir: “In the name of the Lord.” The deacon: “Let us pray to the Lord.” The choir: “Lord, have mercy.” After this the priest goeth forth through the Royal Doors, and standing in the midst of the church (below the ambo)[^214] saith the prayer (the Prayer Behind the Ambo): “O Lord, Who blessest them that bless Thee, and sanctifiest them that put their trust in Thee...”[^215] etc. Unto such prayer the choir singeth: “Amen.” After this: “Blessed be the name of the Lord from this time forth, and unto the ages” (thrice), and Psalm 33: “I will bless the Lord at all times.” During the singing of this psalm the priest distributeth unto the faithful the antidoron[^216] (blessed bread), in memory of that which the Christians of the first centuries
 
-<!-- LEAF: p222 -->
+=== LEAF p222 ===
 
 left the holy bread unto the poor. After the distribution of the antidoron the priest entereth through the Royal Doors into the holy Sanctuary [Altar], and standing before the holy Altar-Table quietly saith the prayer: “Thou Who art Thyself the fulfillment of the Law and the Prophets, O Christ our God...” etc. After this: “Let us pray to the Lord.” The choir: “Lord, have mercy.” The priest: “The blessing of the Lord be upon you, through His grace and love for mankind, always, now and forever, and unto the ages of ages.” The choir: “Amen.” The priest turneth unto the holy Altar-Table and saith: “Glory to Thee, O Christ God, our hope, glory to Thee!” The choir: “Glory be to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen. Lord, have mercy (thrice). Bless.” After this the priest turneth toward the people and pronounceth the dismissal: “May Christ our true God, through the prayers of His most pure Mother...” etc. After the dismissal the choir singeth: “Many years.” And the priest, having bowed thrice before the holy Altar-Table, saith the prayers of thanksgiving: “Glory to Thee, O God; glory to Thee, O God; glory to Thee, O God,” and the prayer of St. Simeon: “Now lettest Thou Thy servant depart in peace, O Master...” etc., the Trisagion through the Our Father, the Troparion of St. John Chrysostom: “The grace of thy mouth shining forth...” etc., the Kontakion: “From heaven hast thou received divine grace...” etc., “Lord, have mercy” (12 times), “More honorable than the Cherubim,” “Glory be to the Father... now and forever,” and maketh the small dismissal. After this he divesteth himself of the sacred vestments, saying: “Now lettest Thou Thy servant depart,” and kisseth the holy Altar-Table.
 
@@ -18,7 +18,7 @@ The Liturgy of Saint Basil the Great is celebrated 10 times in the year: 1. On t
 
 The order of this Liturgy is entirely the same as that of the Liturgy of Saint John Chrysostom, with this distinction only: 1. that the priestly prayers in the Liturgy of Saint Basil are longer, on which account the singers sing the chants more slowly and at greater length, that the priest during that time may quietly read his prayers; 2. the priest at the words of consecration
 
-<!-- LEAF: p223 -->
+=== LEAF p223 ===
 
 doth not say: “Take, eat,” but first saith: “He gave it unto His holy disciples and Apostles, saying: Take, eat: this is My Body...” Likewise also over the holy chalice he first saith: “He gave it unto His holy disciples and Apostles, saying: Drink of it, all of you: this is My Blood...”[^220] 3. Instead of “It is truly right” there is sung: “All of creation rejoiceth in thee, O full of grace, the assembly of Angels and the human race: sanctified temple and spiritual paradise, virgin boast, from whom God was incarnate and became a child, Who is our God before the ages; for He made thy womb a throne, and shaped thy body more spacious than the heavens. All of creation rejoiceth in thee, O full of grace, glory to thee!”[^221] 4. The Prayer Behind the Ambo is different: “O Master rich in mercy...”
 
@@ -30,7 +30,7 @@ The order of this Liturgy with Vespers is as follows:
 
 After the initial exclamation: “Blessed is the kingdom...” there is read: “Come, let us worship,” and the Introductory Psalm 103: “Bless the Lord, O my soul.” The deacon readeth the prayers of the Lucernarium. After the psalm there is the Litany of Peace. After the litany: “Lord, I have cried” on 8, at the end the Theotokion or Dogmatikon, during which the entrance is made with the censer (and if the Gospel Book is to be read, then with the Gospel Book). After the entrance: “O Joyful Light.” After this the deacon: “Let us attend!” The priest: “Peace be unto all.” The deacon: “Wisdom! Let us attend!” and the Prokimenon of the day. After the Prokimenon the Paremias are read (on the Eve of the Nativity 8, of the Theophany 13, on Great Thursday 3, on Great Saturday 15). After the Paremias
 
-<!-- LEAF: p224 -->
+=== LEAF p224 ===
 
 there is the small litany, and the Trisagion (but on Great Thursday and Great Saturday, instead of the Trisagion: “All ye who have been baptized into Christ”). After the Trisagion the Prokimenon, Epistle, Alleluia, and Gospel. After the Gospel, the customary order of the Liturgy of Saint Basil the Great.
 
@@ -46,7 +46,7 @@ The order of this Liturgy consisteth of 4 parts: (a) The Preparation of the Holy
 
 The Holy Lamb[^225] for the Liturgy of the Presanctified Gifts is prepared at a full Liturgy on the preceding Sunday (or Saturday), when there is prepared not one Lamb alone, but two or three
 
-<!-- LEAF: p225 -->
+=== LEAF p225 ===
 
 (according to the number of Presanctified Liturgies to be celebrated). At the Proskomedia over each Lamb the priest doth the same as over the first Lamb. At the consecration of the gifts, however, the priest pronounceth the words of consecration once only in the plural number: “Make these breads the precious Body of Thy Christ...” And at the fraction of the Lamb the priest taketh the first Lamb and inciseth it and placeth a particle into the chalice; the other Lambs he doth not divide, but having dipped the spoon into the Holy Blood, he anointeth them crosswise on the side of the incision with the Holy Blood of Christ and placeth them into the Tabernacle [Kyvot] upon the holy Altar-Table[^226] until the day of celebration of the Presanctified Liturgy.
 
@@ -60,7 +60,7 @@ Having opened the curtain (the Royal Doors, however, remaining closed), the prie
 
 The reader: “Come, let us worship” (thrice), and the Introductory Psalm 103: “Bless the Lord, O my soul.” The priest, having gone forth through the northern door, standing before the Royal Doors readeth the prayers of the Lucernarium (beginning from the 4th, because the first three prayers are read later at the litanies of the faithful). After the psalm the priest entereth into the holy Sanctuary [Altar], and exclaimeth the Great Litany: “In peace let us pray to the Lord.” After the litany the reader readeth the 18th Kathisma: “Unto the Lord in mine affliction have I cried...” divided into three Stases [Slavas]
 
-<!-- LEAF: p226 -->
+=== LEAF p226 ===
 
 At the first Stasis [Slava] the priest taketh the Holy Lamb from the Tabernacle [Kyvot], placeth it upon the Diskos, and censeth the holy Altar-Table round about and the Holy Lamb.
 
@@ -76,7 +76,7 @@ After the first Paremia the Royal Doors are opened. The priest exclaimeth: “Le
 
 And immediately the Royal Doors are opened. The priest, having taken the censer and standing before the holy Altar-Table, singeth with a contrite voice:[^228]
 
-<!-- LEAF: p227 -->
+=== LEAF p227 ===
 
 “Let my prayer arise like incense before Thee, the lifting up of my hands as an evening sacrifice.” The choir singeth the very same, and all the people pray kneeling. And the priest censeth the holy Altar-Table on the right side.
 
@@ -92,7 +92,7 @@ Then the priest singeth: “The righteous man shall correct me in mercy and repr
 
 Then the priest, having returned before the holy Altar-Table, singeth the first half of the verse: “Let my prayer arise like incense before Thee.” And having handed over the censer, he prostrateth himself unto the ground. And the choir finisheth singing: “The lifting up of my hands as an evening sacrifice.” The priest maketh 3 prostrations with the prayer of St. Ephrem: “O Lord and Master of my life...”[^229] The Royal Doors are closed.
 
-<!-- LEAF: p228 -->
+=== LEAF p228 ===
 
 (If it is a feast day, then after “Let my prayer arise” the Epistle and Gospel of the feast are read.)
 
@@ -110,7 +110,7 @@ After this he exclaimeth: “All ye that are preparing for illumination, depart.
 
 And hereby the Liturgy of the Catechumens is concluded.
 
-<!-- LEAF: p229 -->
+=== LEAF p229 ===
 
 §. 147. (d) The Liturgy of the Faithful.
 
@@ -126,7 +126,7 @@ The priest, having passed through the church, entereth through the Royal Doors i
 
 The choir then singeth the second half of the hymn: “In faith and love let us draw near...” Upon the conclusion of this singing, all arise from the earth; the priest maketh 3 prostrations with the prayer of St. Ephrem: “O Lord and Master of my life...” The Royal Doors are closed, and the curtain is drawn halfway.
 
-<!-- LEAF: p230 -->
+=== LEAF p230 ===
 
 After this the priest exclaimeth the Litany of Supplication: “Let us complete our evening prayer unto the Lord.” The choir: “Lord, have mercy.” “For the precious Gifts set forth and presanctified...” And the priest prayeth quietly: “O God of ineffable and invisible mysteries...” After the litany the exclamation: “And account us worthy, O Master, with boldness...” The choir singeth: “Our Father.” The priest: “For Thine is the kingdom...” The choir: “Amen.” The priest: “Peace be unto all.” The choir: “And unto thy spirit.” The priest: “Bow your heads unto the Lord.” The choir: “To Thee, O Lord.” The priest quietly saith the prayer of the bowing of heads: “O God, Who alone art good and compassionate...” and the exclamation: “Through the grace and compassions...” The choir: “Amen.”
 

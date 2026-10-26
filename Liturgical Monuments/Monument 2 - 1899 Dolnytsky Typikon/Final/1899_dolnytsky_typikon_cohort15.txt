@@ -1,6 +1,6 @@
 ---
 
-[Leaf p281 / Page 279]
+=== LEAF p281 ===
 
 #### At Great Compline
 All is according to the Lenten Typikon.
@@ -15,7 +15,7 @@ All is according to the general Lenten Typikon, only:
 
 ---
 
-[Leaf p282 / Page 280]
+=== LEAF p282 ===
 
 #### At Vespers
 At **"Lord, I have cried"** (*Господи воззвахъ*), 10 Stichera: 6 of the Triodion, and 4 of the Forefeast; **"Glory..."**, of the Cross; **"Both now..."**, of the Forefeast.
@@ -39,7 +39,7 @@ At all the Hours, Troparion of the Resurrection; **"Glory..."**, of the Forefeas
 
 ---
 
-[Leaf p283 / Page 281]
+=== LEAF p283 ===
 
 #### At the Divine Liturgy
 Troparion of the Resurrection and of the Forefeast; **"Glory..."**, Kontakion of the Triodion; **"Both now..."**, of the Forefeast. All the rest of the Sunday.
@@ -61,7 +61,7 @@ Morning Tetraode of the Triodion. After **"It is truly right"** (*Достойн
 
 ---
 
-[Leaf p284 / Page 282]
+=== LEAF p284 ===
 
 #### At Matins
 1. At **"God is the Lord"** (*Богъ Господь*),[^405] Troparion of the Akathist twice; **"Glory... Both now..."**, of the Forefeast. (After both Kathismata, three Kontakia and Ikoses of the Akathist).
@@ -80,7 +80,7 @@ The Service of the Forefeast is sung on the preceding Thursday, according to the
 
 ---
 
-[Leaf p285 / Page 283]
+=== LEAF p285 ===
 
 ## March 25: The Annunciation of the Most Holy Mother of God
 
@@ -110,7 +110,7 @@ This Feast has 16 occurrences, as follows:
 
 ---
 
-[Leaf p286 / Page 284]
+=== LEAF p286 ===
 
 Matins, with which it constitutes the All-Night Vigil. But since at present among us the Liturgy of the Presanctified is celebrated only on Wednesday and Friday of the Forty Days, on this account we have appointed three Typika for Vespers of this Feast: one for Sunday evening, the second for Monday, Tuesday, and Thursday evening, and the third for Wednesday evening.
 
@@ -132,7 +132,7 @@ The Aposticha will be of the Triodion; and **"Glory... Both now..."**, of the Fe
 
 ---
 
-[Leaf p287 / Page 285]
+=== LEAF p287 ===
 
 verses; **"Glory... Both now..."**, of the Feast. After **"Now You dismiss"** (*Нынѣ отпущаеши*), Troparion of the Feast. Ektenia, and 3 great prostrations, and the Great Dismissal with commemoration of the Feast.
 
@@ -152,7 +152,7 @@ All is according to the general Typikon of a Feast of the Mother of God, only:
 
 ---
 
-[Leaf p288 / Page 286]
+=== LEAF p288 ===
 
 3. After the Stichera at the Praises, the Small Doxology; Aposticha of the Triodion; **"Glory... Both now..."**, of the Feast. **"It is good to give praise"** (*Благо есть*) once, and after **"Our Father"** (*Отче нашъ*), Troparion of the Feast, and the Ektenia: **"Have mercy on us, O God"** (*Помилуй насъ Боже*), and 3 great prostrations, and this Matins concludes as daily, without a Dismissal.
 
@@ -172,7 +172,7 @@ All is according to the Lenten Typikon, without prostrations, except three great
 
 ---
 
-[Leaf p289 / Page 287]
+=== LEAF p289 ===
 
 #### If on Account of Great Necessity There is No Divine Liturgy[^409]
 ##### At Vespers
@@ -193,7 +193,7 @@ We sing Small Compline without a Canon, but immediately after the Creed, **"It i
 
 ---
 
-[Leaf p290 / Page 288]
+=== LEAF p290 ===
 
 3. 7 Readings: 2 of the Triodion with their Prokimena, and 5 of the Feast; then **"Let my prayer be set forth"** (*Да исправится*), and in order the Liturgy of the Presanctified.
 
@@ -217,7 +217,7 @@ All is according to the general Typikon of a Feast of the Mother of God on Sunda
 
 ---
 
-[Leaf p291 / Page 289]
+=== LEAF p291 ===
 
 5. Aposticha of the Resurrection; **"Glory..."**, of the Cross; **"Both now..."**, of the Feast.
 6. At the Blessing of Loaves: Troparion of the Feast twice, and of the Cross once.
@@ -238,7 +238,7 @@ At all the Hours: Troparion of the Resurrection; **"Glory..."** at the 1st and 6
 
 ---
 
-[Leaf p292 / Page 290]
+=== LEAF p292 ===
 
 2. In place of the Trisagion: **"Before Thy Cross we bow down, O Master, and Thy holy Resurrection we glorify"** (*Кресту Твоему*); and in place of **"It is truly right"** (*Достойно есть*), the Heirmos of the Feast.
 3. All the rest first of the Feast, then of the Cross.
@@ -260,7 +260,7 @@ At **"Lord, I have cried"** (*Господи воззвахъ*), all the Sticher
 
 ---
 
-[Leaf p293 / Page 291]
+=== LEAF p293 ===
 
 2. At the Praises, after the 4 Stichera of the Resurrection and 4 Stichera of the Feast, there will be also the 6th Idiomelon Sticheron of the Triodion, with its verse, then **"Glory..."**, likewise; **"Both now..."**, **"O Most Blessed"** (*Преблагословенна*).
 3. After the Dismissal, Gospel Sticheron.
@@ -282,7 +282,7 @@ The Service of the Forefeast is sung on the preceding Wednesday; and the Saint o
 
 ---
 
-[Leaf p294 / Page 292]
+=== LEAF p294 ===
 
 2. After the Entrance, 7 Readings: 2 of the Triodion with their Prokimena, and 5 of the Feast; then **"Let my prayer be set forth"** (*Да исправится*), and the rest of the Presanctified.[^414]
 
@@ -306,7 +306,7 @@ All is according to the general Typikon of Great Compline with an All-Night Vigi
 
 ---
 
-[Leaf p295 / Page 293]
+=== LEAF p295 ===
 
 1. At the Litiya, after the Stichera of the Feast, there will be also 3 Idiomela of the Triodion, written at the Praises.
 2. At the Aposticha, Doxastikon of Lazarus. (At the Blessing of Loaves, Troparion of the Feast thrice).
@@ -323,7 +323,7 @@ At all the Hours: Troparion of the Feast; **"Glory..."**, of Lazarus; Kontakia: 
 
 ---
 
-[Leaf p296 / Page 294]
+=== LEAF p296 ===
 
 #### At the Divine Liturgy
 1. Troparion of the Feast and of Lazarus; **"Glory..."**, Kontakion of Lazarus; **"Both now..."**, of the Feast.
@@ -349,7 +349,7 @@ At all the Hours: Troparion of the Feast; **"Glory..."**, of Lazarus; Kontakia: 
 
 ---
 
-[Leaf p297 / Page 295]
+=== LEAF p297 ===
 
 2. After the first two Kathismata, Sessional Hymn of the Palms; **"Glory... Both now..."**, of the Feast; after the Polyeleos, Sessional Hymn of the Feast; all the rest up to the Canon is only of the Palms, with the distribution of palms as usual.
 3. 2 Canons for 16: of the Feast with the Heirmos for 8, and of the Palms with the Heirmos for 8; (the Heirmoi twice). Katavasia of both Canons, each Choir its own Heirmos. — After the 3rd Ode, Kontakion and Ikos, and Sessional Hymn (Hypakoe) of the Palms; **"Glory... Both now..."**, of the Feast; after the 6th Ode, Kontakion and Ikos of the Feast; at the 9th Ode, in place of **"More honorable than the Cherubim"** (*Честнѣйшую*), Refrain of the Feast; but the refrain to the Troparia of the Palms is: **"Glory to Thee, our God, glory to Thee"** (*Слава Тебѣ, Боже нашъ, слава Тебѣ*); after the 9th Ode, **"Holy is the Lord our God"** (*Святъ Господь Богъ нашъ*) in Tone 1, and Exaposteilarion of the Feast.
@@ -365,7 +365,7 @@ At all the Hours, Troparion of the Feast; **"Glory..."**, of Lazarus; Kontakia: 
 
 ---
 
-[Leaf p298 / Page 296]
+=== LEAF p298 ===
 
 ### 11. The Annunciation on Great Monday, Great Tuesday, and Great Wednesday
 It is done differently on Sunday evening, and differently on Monday and Tuesday evening: for on Sunday evening there are two Vespers: one small at its proper time, and the other great with Matins; whereas on Monday and Tuesday evening there is only one Great Vespers with the Presanctified, and afterwards at its proper time the All-Night Vigil with Great Compline. We will set forth the Typikon first for Sunday evening, then for Monday and Tuesday. But before all things we call to mind that at the Dismissals commemoration ought to be made of the Passion Service and of the Annunciation.
@@ -389,7 +389,7 @@ All is of the Feast; the Stichera at the Aposticha we take from Great Vespers.
 
 ---
 
-[Leaf p299 / Page 297]
+=== LEAF p299 ===
 
 4. **"Let my prayer be set forth"** (*Да исправится*), and 3 prostrations, and Gospel of the day, and in order the Service of the Presanctified.
 
@@ -402,7 +402,7 @@ All is according to the general Typikon of Great Compline with an All-Night Vigi
 
 ---
 
-[Leaf p300 / Page 298]
+=== LEAF p300 ===
 
 3. Canon of the Feast with the Heirmos for 14, the Heirmos twice, the Troparia for 12; Katavasia of the Feast; but where the Diode or Triode enters, there the Canon of the Feast with the Heirmos for 6, and the Diode or Triode for 8; and Katavasia: the Heirmos of the Triodion; after the 3rd Ode, Kontakion and Ikos of the Triodion, and Sessional Hymn of the Feast; after the 6th Ode, Kontakion and Ikos of the Feast; at the 9th Ode, in place of **"More honorable than the Cherubim"** (*Честнѣйшую*), Refrain of the Feast; to the Troparia of the Diode or Triode, however: **"Glory to Thee, our God, glory to Thee"** (*Слава Тебѣ, Боже нашъ, слава Тебѣ*). The Katavasia will be the Heirmos of the Triodion, then, according to the Pochaiv Typikon and the Russian ones, the Refrain and the Heirmos of the Feast. After the 9th Ode, Exaposteilarion of the Feast; **"Glory..."**, of the Triodion; **"Both now..."**, of the Feast.
 4. At the Praises, 4 Stichera, all of the Feast; **"Glory..."**, of the Feast; **"Both now..."**, of the Triodion.

@@ -1,6 +1,6 @@
 ---
 
-[Leaf p321 / Page 319]
+=== LEAF p321 ===
 
 ### 3. Holy Great-Martyr George on Thomas Sunday
 All is according to the Typikon of Thomas Sunday, only:
@@ -24,7 +24,7 @@ All is according to the Typikon of Thomas Sunday, only:
 
 ---
 
-[Leaf p322 / Page 320]
+=== LEAF p322 ===
 
 and Ikos of the Feast; at the 9th Ode we do not sing **"More honorable than the Cherubim"** (*Честнѣйшую*)[^429]; after the 9th Ode, **"Holy is the Lord our God"** (*Святъ Господь Богъ нашъ*), and Exaposteilarion of the Feast; **"Glory..."**, of the Saint; **"Both now..."**, of the Feast.
 4. At the Praises, 7 Stichera: 3 of the Feast, and 3 of the Saint, then the Idiomelon of the Saint, with his verse; **"Glory..."**, of the Feast; **"Both now..."**, **"Most blessed art Thou"** (*Преблагословенна*).
@@ -47,7 +47,7 @@ All is according to the general Typikon of a Saint with Vigil on Sunday. Only at
 
 ---
 
-[Leaf p323 / Page 321]
+=== LEAF p323 ===
 
 the Troparion of the Saint; **"Glory... Both now..."**: **"The noble Joseph"** (*Благообразный Іѡсифъ*); on the Sunday of the Paralytic and of the Samaritan Woman: Resurrectional Troparion; **"Glory..."**, of the Saint; **"Both now..."**, Theotokion from the Resurrectional ones according to the Tone of the Saint.
 
@@ -66,7 +66,7 @@ the Troparion of the Saint; **"Glory... Both now..."**: **"The noble Joseph"** (
 
 ---
 
-[Leaf p324 / Page 322]
+=== LEAF p324 ===
 
 Triadicon, and the last Theotokion, therefore we take one Resurrectional, and one Festal, then the Triadicon and Theotokion). Katavasia of Pascha. After the 3rd Ode, Kontakion, Ikos, and Sessional Hymn of the Saint; **"Glory... Both now..."**, of the Feast; after the 6th Ode, Kontakion and Ikos of the Feast; at the 9th Ode we do not sing **"More honorable than the Cherubim"** (*Честнѣйшую*), but to the Troparia of the Canon of Pascha we sing the Refrain of Pascha, as on Pascha; to the Troparia of the Saint we append the usual Refrain of the Saint; to the Troparia of the Triodion: **"Glory, O Lord, to Thy holy Resurrection"** (*Слава Господи святому Воскресенію твоему*)[^430], except at **"Glory..."** to the penultimate and **"Both now..."** to the last as usual; after the 9th Ode: **"Holy is the Lord our God"** (*Святъ Господь Богъ нашъ*), and Exaposteilarion of Pascha; **"Glory..."**, of the Saint; **"Both now..."**: of the Feast.
 4. At the Praises, 8 Stichera: 4 Resurrectional of the Triodion, and 4 of the Saint, with his verses; **"Glory..."**, of the Feast; **"Both now..."**: **"Most blessed art Thou"** (*Преблагословенна*).
@@ -81,7 +81,7 @@ At all [the Hours], Resurrectional Troparion; **"Glory..."**, of the Saint; Kont
 
 ---
 
-[Leaf p325 / Page 323]
+=== LEAF p325 ===
 
 ### 5. Holy Great-Martyr George on Mid-Pentecost Wednesday
 
@@ -101,7 +101,7 @@ All is of the Saint, only **"Both now..."**, of the Feast, at **"Lord, I have cr
 
 ---
 
-[Leaf p326 / Page 324]
+=== LEAF p326 ===
 
 2. 3 Canons for 14: first of the Feast for 6, of the Saint for 4, and second of the Feast for 4. Katavasia: the Heirmos of the last Canon. After the 3rd Ode, Kontakion, Ikos, and Sessional Hymn of the Saint; **"Glory... Both now..."**, of the Feast; after the 6th Ode, Kontakion and Ikos of the Feast; at the 9th Ode we do not sing **"More honorable than the Cherubim"** (*Честнѣйшую*)[^434]; after the 9th Ode, Exaposteilarion of the Feast; **"Glory..."**, of the Saint; **"Both now..."**, of the Feast.
 3. At the Praises, 6 Stichera: 3 of the Feast, and 3 of the Saint; **"Glory..."**, of the Saint; **"Both now..."**, of the Feast.
@@ -119,7 +119,7 @@ Thou hast the Typikon within the Order of Service with our additions, that is:
 
 ---
 
-[Leaf p327 / Page 325]
+=== LEAF p327 ===
 
 #### At Small Vespers
 1. At **"Lord, I have cried"** (*Господи воззвахъ*), and at the Aposticha, Stichera of the Saint, only **"Both now..."**, of the Feast.
@@ -141,7 +141,7 @@ In the Week of the Myrrh-bearers: Troparion **"The noble Joseph"** (*Благо�
 
 ---
 
-[Leaf p328 / Page 326]
+=== LEAF p328 ===
 
 In the Week of the Paralytic and of the Samaritan Woman: Resurrectional Troparion twice; **"Glory..."**, of the Saint; **"Both now..."**, Resurrectional Theotokion according to the Tone of the Saint.
 2. Before Psalm 50 [LXX], **"Having seen the Resurrection of Christ"** (*Воскресеніе Христово*) will be said once[^435].
@@ -157,7 +157,7 @@ Within the Feast of Thomas Sunday and of Mid-Pentecost: Troparion of the Feast a
 
 ---
 
-[Leaf p329 / Page 327]
+=== LEAF p329 ===
 
 In the Week of the Myrrh-bearers: Resurrectional Troparion, and **"The noble Joseph"** (*Благообразный Іѡсифъ*), and of the Saint; Kontakion of the Myrrh-bearers; **"Glory..."**, of the Saint; **"Both now..."**, of Pascha.
 In the other Weeks: Resurrectional Troparion and of the Saint; Kontakion of the Sunday; **"Glory..."**, of the Saint; **"Both now..."**, of Pascha.
@@ -175,7 +175,7 @@ It may occur with the Services of the Triodion from Friday of Bright Week even u
 
 ---
 
-[Leaf p330 / Page 328]
+=== LEAF p330 ===
 
 of the Blind Man, the 6th from Pascha. It follows according to the Chapters of George, here on p. 316, except for the All-Night Vigil, as we said concerning Mark, April 23 [i.e., April 25]. Even though George does not reach unto the Sunday of the Blind Man, as James does, nevertheless the Sunday of the Blind Man has the same Typikon which the three preceding Sundays also have, unto which James reaches. But since on Wednesday after the Sunday of the Blind Man is the Apodosis of Pascha, and on Thursday the Ascension, unto which the Chapters of George do not reach, therefore in these two cases it is proper to hold to the Chapters of the Theologian, May 8, which we set down below, except for the All-Night Vigil, which James does not have.
 
@@ -188,7 +188,7 @@ The Service of the Holy Martyrs is sung at Compline.
 
 ---
 
-[Leaf p331 / Page 329]
+=== LEAF p331 ===
 
 ## May 7
 ### The Appearance of the Sign of the Precious Cross in the Heavens in Jerusalem
@@ -206,7 +206,7 @@ In the Week of the Myrrh-bearers: Troparion **"The noble Joseph"** (*Благо�
 
 ---
 
-[Leaf p332 / Page 330]
+=== LEAF p332 ===
 
 In the other Weeks, in which the Resurrectional Troparion only comes, there will be the Resurrectional Troparion; **"Glory... Both now..."**, of the Cross.
 
@@ -228,7 +228,7 @@ At all [the Hours]: Troparion of the Feast; **"Glory..."**, of the Cross; Kontak
 
 ---
 
-[Leaf p333 / Page 331]
+=== LEAF p333 ===
 
 ## May 8
 ### Holy Apostle and Evangelist John the Theologian
@@ -254,7 +254,7 @@ According to the Typikon of St. George, here on p. 325.
 
 ---
 
-[Leaf p334 / Page 332]
+=== LEAF p334 ===
 
 #### 4. John the Theologian on Wednesday before Ascension with the Apodosis of Pascha
 
@@ -276,7 +276,7 @@ All is of the Theologian, only at **"Lord, I have cried"** (*Господи во
 
 ---
 
-[Leaf p335 / Page 333]
+=== LEAF p335 ===
 
 [^438]. After the 3rd Ode, Kontakion and Ikos of the Apostle, and Hypakoe of Pascha; **"Glory..."**, Sessional Hymn of the Apostle; **"Both now..."**, of the Blind Man; after the 6th Ode, Kontakion and Ikos of Pascha; at the 9th Ode we do not sing **"More honorable than the Cherubim"** (*Честнѣйшую*); after the 9th Ode, Exaposteilarion of Pascha; **"Glory..."**, of the Apostle; **"Both now..."**, of the Blind Man.
 4. At the Praises, Stichera of the Apostle for 4, then the Stichera of Pascha; **"Glory..."**, of the Apostle; **"Both now..."**, of Pascha; and **"Christ is risen"** (*Христосъ воскресе*) once.
@@ -298,7 +298,7 @@ The Service of Saint Arsenius is sung on another day according to the judgment o
 
 ---
 
-[Leaf p336 / Page 334]
+=== LEAF p336 ===
 
 ##### At Great Vespers
 1. **"Blessed is the man"** (*Блаженъ мужъ*) as usual.
@@ -320,7 +320,7 @@ At all [the Hours]: Troparion of the Feast; **"Glory..."**, of the Theologian; K
 
 ---
 
-[Leaf p337 / Page 335]
+=== LEAF p337 ===
 
 ##### At the Divine Liturgy
 1. Troparion of the Feast and of the Apostle; **"Glory..."**, Kontakion of the Apostle; **"Both now..."**, of the Feast.
@@ -340,7 +340,7 @@ The Service of the Ascension is omitted, and there is sung the Resurrectional, o
 
 ---
 
-[Leaf p338 / Page 336]
+=== LEAF p338 ===
 
 3. At the Litiya: Doxastikon Sticheron of the Fathers, and the Stichera of the Apostle; **"Glory..."**, of the Apostle; **"Both now..."**, of the Ascension.
 4. Resurrectional Aposticha; **"Glory..."**, of the Fathers; **"Both now..."**, of the Ascension.
@@ -356,7 +356,7 @@ The Service of the Ascension is omitted, and there is sung the Resurrectional, o
 
 ---
 
-[Leaf p339 / Page 337]
+=== LEAF p339 ===
 
 ##### At the Hours
 At all [the Hours], Resurrectional Troparion, then **"Glory..."** at the 1st and 6th of the Fathers, at the 3rd and 9th of the Apostle; Kontakia: at the 1st and 6th of the Fathers, at the 3rd and 9th of the Apostle[^443].
@@ -375,7 +375,7 @@ According to the Typikon of George on p. 324.
 
 ---
 
-[Leaf p340 / Page 338]
+=== LEAF p340 ===
 
 2. On the Sunday of the Myrrh-bearers, of the Paralytic, of the Samaritan Woman, and of the Man Born Blind:
 According to the Typikon of George on p. 320.

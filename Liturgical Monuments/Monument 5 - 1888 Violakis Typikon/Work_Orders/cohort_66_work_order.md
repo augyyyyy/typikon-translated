@@ -2,7 +2,7 @@
 
 **Document ID**: `1888_violakis_typikon`  
 **Cohort Number**: 66  
-**Physical Leaves**: Physical pages 651 to 660 (`p651.png` through `p660.png`, 10 leaves total)  
+**Physical Leaves**: Physical pages 651 to 660 (`Page_0651.jpg` through `Page_0660.jpg`, 10 leaves total)  
 **Starting Footnote Index**: `[^385]`  
 **Governing Genre Register**: **RUBRICAL** (Per Master Translation Standard MTS-1)  
 **Image Cache Directory**: `Liturgical Monuments\Monument 5 - 1888 Violakis Typikon\Source Text\images`  
@@ -28,7 +28,7 @@
 ---
 
 ## 3. Autonomous Execution Instructions
-1. Inspect images `p651.png` through `p660.png` in `Liturgical Monuments\Monument 5 - 1888 Violakis Typikon\Source Text\images`.
+1. Inspect images `Page_0651.jpg` through `Page_0660.jpg` in `Liturgical Monuments\Monument 5 - 1888 Violakis Typikon\Source Text\images`.
 2. Transcribe Greek and bilingual English facing text leaf-by-leaf with headers `=== LEAF p{start_page} ===` (Greek on even folios, English on odd folios).
 3. Translate and critically audit into MTS-1 compliant text in `1888_violakis_typikon_cohort66_raw_draft.md` with inline footnote markers `[^N]`, rectifying chant terms to Tone 1–8 and canonical UGCC loanwords.
 4. Write footnote definitions into `1888_violakis_typikon_cohort66_footnotes.txt` starting at `[^385]`.

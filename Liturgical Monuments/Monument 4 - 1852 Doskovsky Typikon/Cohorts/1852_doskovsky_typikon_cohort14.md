@@ -1,6 +1,6 @@
 # Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852) — Cohort 14 (Leaves p131–p140)
 
-<!-- LEAF: p131 -->
+=== LEAF p131 ===
 
 [Book Page 258]
 
@@ -42,7 +42,7 @@
 *Wherein an All-Night Vigil is celebrated. The entire service is in order in the Triodion. At the blessing of loaves, the troparion:* **"Rejoice, O Virgin Mother of God"** (*Бцⷣе Дѣ́во*), *twice, and of the Saints, once.*  
 *At Matins, at* **"God is the Lord"** (*Бг҃ъ Гдⷭ҇ь*), *Resurrectional troparion:* **"When Thou didst descend from on high, O Compassionate One, and didst submit to burial for three days..."** (*Со высоты́ снизше́лъ есѝ*), *twice; Glory, of the Saints; now and ever,*
 
-<!-- LEAF: p132 -->
+=== LEAF p132 ===
 
 [Book Page 260]
 
@@ -80,7 +80,7 @@
 *On the Sunday of the Prodigal Son, Meatfare Sunday, and Cheesefare Sunday, in addition to the two aforementioned psalms, there is also chanted Psalm 136:* **"By the rivers of Babylon, there we sat and wept, when we remembered Zion..."** (*На рѣ́кахъ Вавѷлѡ́нскихъ*), *with the beautiful Alleluia.*  
 *On other Sundays the Polyeleos is not chanted, but the 17th Kathisma is read [The Blameless, Psalm 118], unless a Feast of the Lord or of the Mother of God, or of a great Saint occurs on a Sunday.*
 
-<!-- LEAF: p133 -->
+=== LEAF p133 ===
 
 [Book Page 262]
 
@@ -127,7 +127,7 @@
 *Likewise, it is not chanted from Lazarus Saturday until Saint Thomas Sunday throughout all bright days, nor on the Sunday of the Holy Fathers, nor on Pentecost Sunday.*  
 ☞ *Notice: If one of the nine aforementioned feasts occurs on a Sunday,* **"My soul doth magnify"** *is not chanted, but the festal refrains are chanted. But if an Afterfeast occurs on a Sunday, then* **"My soul doth magnify"** *and* **"More honorable than the Cherubim"** *are chanted.*
 
-<!-- LEAF: p134 -->
+=== LEAF p134 ===
 
 [Book Page 264]
 
@@ -166,7 +166,7 @@
 *The Small Dismissal is spoken at Small Vespers, Small Compline, the Midnight Office, and at Matins when the daily doxology is read, and at the Little Hours.*  
 *In the Daily Dismissals, as well as on Theotokian Feasts, the Priest doth not say:* **"Christ our true God"**, *but begins directly:* **"May Christ our true God, through the prayers of His most pure Mother..."** *or on feasts:* **"May He Who was born in a cave..."**, *etc.*
 
-<!-- LEAF: p135 -->
+=== LEAF p135 ===
 
 [Book Page 266]
 
@@ -223,7 +223,7 @@
 *Tone 7: Resurrectional Gospel 9, John, pericope 65.*  
 *Tone 8: Resurrectional Gospel 10, John, pericope 66.*
 
-<!-- LEAF: p136 -->
+=== LEAF p136 ===
 
 [Book Page 268]
 
@@ -274,7 +274,7 @@
 | **Л** | May 31 | July 31 | Sept. 20 | Nov. 15 | Jan. 12 | March 11 (Leap: March 10) |
 | **М** | June 1 | Aug. 1 | Sept. 21 | Nov. 16 | Jan. 13 | March 12 (Leap: March 11) |
 
-<!-- LEAF: p137 -->
+=== LEAF p137 ===
 
 [Book Page 270]
 
@@ -328,7 +328,7 @@
 *February 8: Tone 5, Gospel 5.*  
 *February 15: Tone 6, Gospel 6.*[^297]
 
-<!-- LEAF: p138 -->
+=== LEAF p138 ===
 
 [Book Page 272]
 
@@ -373,7 +373,7 @@
 | **1869** | **Ы** | **1888** | **Т** | **1907** | **Х** |
 | **1870** | **Г** | **1889** | **И** | **1908** | **М** |
 
-<!-- LEAF: p139 -->
+=== LEAF p139 ===
 
 [Book Page 274]
 
@@ -422,7 +422,7 @@
 - Order of the Little Hours . . . p. 77  
 - Order of the Divine Liturgy . . . p. 83[^300]
 
-<!-- LEAF: p140 -->
+=== LEAF p140 ===
 
 [Book Page 276]
 

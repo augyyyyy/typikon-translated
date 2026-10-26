@@ -1,6 +1,6 @@
 ---
 
-[Leaf p81 / Page 79]
+=== LEAF p81 ===
 
 The Katavasia of the row after each Ode. — After the 3rd Ode, the Kontakion-Ikos and Sessional Hymn of the Saint; after the 6th, the Resurrectional Kontakion-Ikos; after the 9th, the Resurrectional Exaposteilarion, **"Glory..."** the Exaposteilarion of the Saint, **"Now and forever..."** the Theotokion of the Resurrectional Exaposteilarion.[^128]
 5. At the Praises (*Хвали́техъ*), 8 Stichera: the Resurrectional ones of the Oktoechos of the Tone of the row, 4; and of the Saint with the Doxastikon, 4, with his two refrains[^129] appointed at the Aposticha of Vespers. **"Glory..."** the Gospel Sticheron of the row, **"Now and forever..." "Most blessed art thou"** (*Преблагослове́нна есѝ*).
@@ -12,7 +12,7 @@ At all the Hours, the Resurrectional Troparion, then **"Glory..."** to the Saint
 
 ---
 
-[Leaf p82 / Page 80]
+=== LEAF p82 ===
 
 #### At the Divine Liturgy
 1. The Resurrectional Troparion and to the Saint; then the Resurrectional Kontakion, **"Glory..."** to the Saint, **"Now and forever..."** the Theotokion, either one of the Feasts of the Mother of God according to the Tone of the Doxastikon, or another, as we set down in the first case on page 58.
@@ -29,7 +29,7 @@ At all the Hours, the Resurrectional Troparion, then **"Glory..."** to the Saint
 
 ---
 
-[Leaf p83 / Page 81]
+=== LEAF p83 ===
 
 from the Sunday Aposticha according to the Tone of the Doxastikon.[^133]
 4. At the conclusion: the Troparion of the Saint; **"Glory... Now and forever..."** the Theotokion from the Sunday ones according to the Tone of the Troparion of the Saint.[^134]
@@ -43,7 +43,7 @@ The Canon of the Mother of God from the Oktoechos of the Tone of the row.[^135] 
 
 ---
 
-[Leaf p84 / Page 82]
+=== LEAF p84 ===
 
 2. The two Kathismata of the row, with the Sessional Hymns of the Saint; then the 19th Kathisma, that is, the Polyeleos, with the Magnifications, and the Sessional Hymn after the Polyeleos to the Saint.
 3. The Graduals (*Степенна*) of Tone 4, the first Antiphon.
@@ -58,7 +58,7 @@ The Katavasia of the row after each Ode. After the 3rd Ode, the Sessional Hymn o
 
 ---
 
-[Leaf p85 / Page 83]
+=== LEAF p85 ===
 
 #### At the Hours
 At all the Hours, the Troparion and Kontakion of the Saint.
@@ -74,7 +74,7 @@ All things to the Saint alone; the Epistle and Gospel first of the day, then to 
 
 ---
 
-[Leaf p86 / Page 84]
+=== LEAF p86 ===
 
 3. At the conclusion: the Resurrectional Troparion; **"Glory..."** to the Saint; **"Now and forever..."** the Theotokion from the Sunday ones according to the Tone of the Troparion of the Saint.
 4. The Dismissal, with the commemoration of the Sunday and of the Saint.
@@ -89,7 +89,7 @@ All things to the Saint alone; the Epistle and Gospel first of the day, then to 
 
 ---
 
-[Leaf p87 / Page 85]
+=== LEAF p87 ===
 
 #### At Great Matins
 1. At **"God is the Lord"**: the Resurrectional Troparion twice; **"Glory..."** to the Saint; **"Now and forever..."** the Theotokion from the Sunday ones according to the Tone of the Troparion of the Saint.[^147]
@@ -101,7 +101,7 @@ The Katavasia of the row after each Ode. After the 3rd Ode, the Kontakion, Ikos,
 
 ---
 
-[Leaf p88 / Page 86]
+=== LEAF p88 ===
 
 All the rest at Matins, at the Hours, and at the Divine Liturgy as with a Polyeleos Saint, here on pages 79 and 80.
 
@@ -113,7 +113,7 @@ All the rest at Matins, at the Hours, and at the Divine Liturgy as with a Polyel
 
 ---
 
-[Leaf p89 / Page 87]
+=== LEAF p89 ===
 
 #### At Great Vespers
 1. **"Blessed is the man"** (according to the Typikon, the 1st Antiphon only).
@@ -128,7 +128,7 @@ All things as in the case of a Polyeleos Saint without an All-Night Vigil here o
 
 ---
 
-[Leaf p90 / Page 88]
+=== LEAF p90 ===
 
 *Note.*
 Three Feasts, that is, the Nativity and the Beheading of St. John the Baptist, June 24 and August 29, and of the Preeminent Apostles Peter and Paul, June 29, surpass the Feasts of the other Vigil Saints in that at Matins their Canons are taken alone, without the Marian Canon, and at the Divine Liturgy their Epistle and Gospel are taken alone,[^156] without the daily one, which is to be read a day in advance combined under one pericope (*подъ зача́ло*), except for the Sunday ones, for these always precede; although according to our present general custom, except in Cathedral Temples, the daily Epistles and Gospels are omitted also for the other Saints. To these three Feasts the Moscow Typikon adds also the Feast of John the Theologian, and the Patronal Feast (*Храмовый*).[^157]
@@ -145,7 +145,7 @@ Three Feasts, that is, the Nativity and the Beheading of St. John the Baptist, J
 
 ---
 
-[Leaf p91 / Page 89]
+=== LEAF p91 ===
 
 of the Forefeast, there is taken: **"Glory..."** the Doxastikon to the Saint; **"Now and forever..."** the 1st Theotokion of the Tone.[^159]
 — If there be a Saint on 6, then there will be: Resurrectional, 3; of the Forefeast, 3; and to the Saint, 4; **"Glory..."** to the Saint; **"Now and forever..."** the 1st Theotokion of the Tone.[^160]
@@ -161,7 +161,7 @@ The Triadikon Canon of the Tone of the row, and all the rest as usual.
 
 ---
 
-[Leaf p92 / Page 90]
+=== LEAF p92 ===
 
 #### At Great Matins
 1. At **"God is the Lord,"** the Sunday Troparion twice; **"Glory..."** to the Saint; **"Now and forever..."** of the Forefeast.
@@ -173,7 +173,7 @@ The Triadikon Canon of the Tone of the row, and all the rest as usual.
 
 ---
 
-[Leaf p93 / Page 91]
+=== LEAF p93 ===
 
 #### At the Hours
 At all the Hours, the Sunday Troparion, then **"Glory..."** at the 1st and 6th also of the Forefeast, at the 3rd and 9th also to the Saint. The Resurrectional and Festal Kontakia we recite alternately: that is, at the 1st and 6th, of the Forefeast; and at the 3rd and 9th, the Resurrectional one.[^166]
@@ -189,7 +189,7 @@ The entire Service is of the Sunday alone, except for the Troparia; for these ar
 
 ---
 
-[Leaf p94 / Page 92]
+=== LEAF p94 ===
 
 *3. The sequence of Stichera and Troparia is not concluded with the usual Marian Theotokia of the Oktoechos, but with the Festal ones; except on Friday evening for Saturday, for then, on account of the Apodosis of the Tone, the 1st Theotokion of the Tone is usually taken.*
 
@@ -204,7 +204,7 @@ On Friday evening for Saturday: the Dogmatikon of the outgoing Tone.
 
 ---
 
-[Leaf p95 / Page 93]
+=== LEAF p95 ===
 
 — If there be two Saints, then first the Troparion of the first Saint, **"Glory..."** of the other, **"Now and forever..."** of the Forefeast.
 5. The Middling Dismissal, with the commemoration of the daily Service and of the Saint.[^170]
@@ -222,7 +222,7 @@ All things without change as in the Horologion, of the festal nothing.
 
 ---
 
-[Leaf p96 / Page 94]
+=== LEAF p96 ===
 
 3. Two Canons, on 12: that is, of the Forefeast with the Heirmos on 8, and to the Saint on 4.[^173] The Katavasia after the 3rd, 6th, 8th, and 9th Odes: the Heirmos of the last Canon, that is, of the Saint.[^174] After the 3rd Ode, the Kontakion, Ikos, and Sessional Hymn of the Saint, **"Glory... Now and forever..."** of the Forefeast; after the 6th, the Kontakion and Ikos of the Forefeast; after the 9th, the Exaposteilarion of the Saint, if the Saint has one, but if not, then only of the Forefeast (December 24, January 20), **"Glory... Now and forever..."** of the Forefeast.[^175]
 — If two Saints occur, then there will be three Canons, on 14: that is, of the Forefeast with the Heirmos on 6, then of the first Saint on 4,[^176] and of the other on 4; the Katavasia after the 3rd, 6th, 8th, and 9th Odes: the Heirmos of the last Canon, that is, of the other Saint.[^177] After the 3rd Ode, the Kontakion-Ikos of the first and of the second Saint,[^178] then the Sessional Hymn of the first, **"Glory... Now and forever..."** of the Forefeast; after the 6th, the Kontakion-Ikos of the Forefeast; after the 9th, the Exaposteilarion of the first Saint, **"Glory..."** of the second, if he has one, **"Now and forever..."** of the Forefeast (for example, November 20).
@@ -230,7 +230,7 @@ All things without change as in the Horologion, of the festal nothing.
 
 ---
 
-[Leaf p97 / Page 95]
+=== LEAF p97 ===
 
 4. At the Aposticha, the Stichera of the Forefeast; **"Glory..."** to the Saint, if there be one, **"Now and forever..."** of the Forefeast; but if not, then **"Glory... Now and forever..."** of the Forefeast.
 5. At the conclusion: the Troparion of the Saint; **"Glory... Now and forever..."** of the Forefeast.
@@ -245,7 +245,7 @@ According to our present custom: the Troparion, **"Glory... Now and forever..."*
 
 ---
 
-[Leaf p98 / Page 96]
+=== LEAF p98 ===
 
 ### Feast of the Lord on Sunday and on Weekdays
 
@@ -261,7 +261,7 @@ At **"Lord, I have cried,"** Stichera of the Feast on 4, and the Aposticha of th
 
 ---
 
-[Leaf p99 / Page 97]
+=== LEAF p99 ===
 
 4. Three Readings of the Feast.
 5. At the Litiya and at the Aposticha, the Stichera of the Feast.
@@ -284,7 +284,7 @@ The Antiphons, the Introit (*Вхо́дное*), and all the rest to the Feast.[
 
 ---
 
-[Leaf p100 / Page 98]
+=== LEAF p100 ===
 
 veneration we chant: **"Before Thy Cross we bow down, O Master, and Thy holy Resurrection we glorify"** (*Крестꙋ̀ Твоему̀ покланя́емся, Влады́ко, и̂ свято́е Воскресе́нїе Твоѐ сла́вимъ*); at the Nativity of Christ, at Theophany, on Lazarus Saturday, on Great Saturday, and throughout Bright Week, and on the Sunday of Pentecost: **"As many as have been baptized into Christ have put on Christ. Alleluia"** (*Є̂ли́ци во Хрїста̀ крести́стеся, во Хрїста̀ ѡ̂блеко́стеся. А̂ллилꙋ́їа*).[^184] In place of **"It is truly right,"** according to our later Typikon there is taken the Heirmos of the 9th Ode of the Canon, with the Festal Refrain (*Припѣ́въ*).
 

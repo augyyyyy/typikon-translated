@@ -1,6 +1,6 @@
 ---
 
-[Leaf p61 / Page 59]
+=== LEAF p61 ===
 
 ### Non-Polyeleos Saint on Weekdays, Except Saturday
 
@@ -11,7 +11,7 @@
 
 ---
 
-[Leaf p62 / Page 60]
+=== LEAF p62 ===
 
 and according to the day of the week, from **"Lord, I have cried."** Such a Doxastikon, according to the rule of the Greek Typikon, is to be chanted by both Choirs joined together: *ἑνουμένων τῶν δύο χορῶν* (Chapter 5).[^73]
 — If two Saints occur, then having omitted the Stichera of the Oktoechos, we chant only of the Menaion, to the first Saint 3, and to the second 3; then **"Glory... Now and forever..."** the Theotokion (or Stavrotheotokion) which is after the Stichera of the second Saint. If there is a Doxastikon to the first Saint, we select the Theotokion for him as above for a single Saint.
@@ -20,7 +20,7 @@ and according to the day of the week, from **"Lord, I have cried."** Such a Doxa
 
 ---
 
-[Leaf p63 / Page 61]
+=== LEAF p63 ===
 
 4. At the Aposticha: all the Stichera from the Oktoechos, with the two refrains appointed in the Horologion in the sequence of Vespers; only **"Glory..."** to the Saint, if there is one in the Menaion, and **"Now and forever..."** the Theotokion from the Aposticha of the Oktoechos, according to the Tone of the Doxastikon and the day of the week.
 5. The Troparion of the Saint; **"Glory... Now and forever..."** the Dismissal Theotokion from the Horologion, according to the Tone of the Troparion of the Saint and according to the day of the week.
@@ -35,7 +35,7 @@ All things without change as in the Horologion on weekdays.
 
 ---
 
-[Leaf p64 / Page 62]
+=== LEAF p64 ===
 
 #### At Matins
 1. At **"God is the Lord,"** the Troparion of the Saint twice; **"Glory... Now and forever..."** the Dismissal Theotokion according to the Tone of the Troparion of the Saint and according to the day of the week.[^76]
@@ -44,13 +44,13 @@ All things without change as in the Horologion on weekdays.
 
 ---
 
-[Leaf p65 / Page 63]
+=== LEAF p65 ===
 
 3. Three Canons, on 14: the first of the Oktoechos with the Heirmos on 6, the second of the Oktoechos without the Heirmos on 4, and of the Saint from the Menaion without the Heirmos on 4; for the Heirmoi are taken only of the first Canon. The Katavasia is only after the 3rd, 6th, 8th, and 9th Odes: the Heirmos of the last Canon, that is, of the Saint.[^79] After the 3rd Ode, the Sessional Hymn of the Saint; after the 6th, the Kontakion-Ikos of the Saint, if he has one; after the 9th, the Exaposteilarion of the Oktoechos, then **"Glory..."** the Exaposteilarion of the Saint, if he has one, **"Now and forever..."** the Theotokion of the Exaposteilarion of the Saint; if, however, the Saint does not have an Exaposteilarion, then **"Glory... Now and forever..."** the Theotokion of the Exaposteilarion of the Oktoechos; only on Wednesday and Friday, since the Exaposteilarion of the Saint does not have a Stavrotheotokion, but a Theotokion, the Stavrotheotokion of the Exaposteilarion of the Oktoechos is taken; likewise also on Thursday, because then the Theotokion of the Oktoechos is proper, relating to St. Nicholas, whose
 
 ---
 
-[Leaf p66 / Page 64]
+=== LEAF p66 ===
 
 Service is designated for this day, the Theotokion of the Oktoechos is taken, and not of the Menaion.[^80]
 — If two Saints occur, there is the first Canon of the Oktoechos (for the second is omitted) with the Heirmos on 6; then the Canon of the first Saint, without the Heirmos, on 4, and of the second, without the Heirmos, on 4.[^81] The Katavasia after the 3rd, 6th, 8th, and 9th Odes: the Heirmos of the second Canon.[^82] After the 3rd Ode, the Kontakion-Ikos of the second Saint, if he has one, then the Sessional Hymn of the first Saint without a Theotokion, **"Glory..."** the Sessional Hymn of the second Saint, **"Now and forever..."** his Theotokion.[^83] After the 6th Ode, the Kontakion-Ikos of the first Saint. After the 9th Ode, the Exaposteilarion of the Oktoechos, then the Exaposteilarion of the first Saint, **"Glory..."** of the second, if he has one, **"Now and forever..."** his Theotokion.[^84]
@@ -59,7 +59,7 @@ Service is designated for this day, the Theotokion of the Oktoechos is taken, an
 
 ---
 
-[Leaf p67 / Page 65]
+=== LEAF p67 ===
 
 5. At the end: the Troparion of the Saint; **"Glory... Now and forever..."** the Dismissal Theotokion according to the Tone of the Troparion of the Saint and according to the day of the week, different from that which was at Vespers and at **"God is the Lord."**
 — If two Saints occur, there is the Troparion of the first, **"Glory..."** of the second, **"Now and forever..."** the Dismissal Theotokion according to the Tone of the second and according to the day of the week.[^86]
@@ -72,7 +72,7 @@ Service is designated for this day, the Theotokion of the Oktoechos is taken, an
 
 ---
 
-[Leaf p68 / Page 66]
+=== LEAF p68 ===
 
 #### At the Hours
 Troparia and Kontakia: at the 1st, of the day of the week; at the 3rd and 9th, to the Saint; at the 6th, of the Temple.[^88]
@@ -85,7 +85,7 @@ According to our most common custom, all things are taken of the day alone, name
 
 ---
 
-[Leaf p69 / Page 67]
+=== LEAF p69 ===
 
 3. The Epistle and Gospel of the day of the week in sequence after Pentecost.[^92]
 
@@ -97,20 +97,20 @@ According to our most common custom, all things are taken of the day alone, name
 
 ---
 
-[Leaf p70 / Page 68]
+=== LEAF p70 ===
 
 5. The Service for the Departed, according to the directive of the Synod of Lviv,[^93] is always to be taken alone, except for the daily Epistle and Gospel, which may concur with that for the Departed, and it precedes it.
 6. In Cathedral Temples, in which the Divine Service is performed regularly and daily, it is not proper to omit the daily Epistle and Gospel; and it is far better to read the daily Epistle and Gospel rather than that of the Saint, for the more perfect attainment of the knowledge of Sacred Scripture, because the Epistles and Gospels of the Saints are more frequently repeated, but the daily ones by no means.[^94]
 
 ---
 
-[Leaf p71 / Page 69]
+=== LEAF p71 ===
 
 7. If there be more Prokimena, Alleluias, Epistles-Gospels, and Communion Hymns, that thou mayest understand how they are taken, know first that more than two are not appointed in the Church Typika, except for the Epistles and Gospels, which in the Slavonic Typika alone are appointed even three: for the Slavs abound in supplications more than the Greeks. For where, in the concurrence of three Readings, the Greek Typika omit the one of the row, the Slavonic Typika take it under the incipit (*під зачало*) of the first Reading, as though one with it;[^95] and when this is impossible on account of some Great Feast, they then command to take it a day earlier under the incipit with that of the row.[^96] Nevertheless, this rubric is today preserved among us scarcely in Cathedral Temples, while in the rest they usually take only a single Epistle and Gospel, even as also a single Service, whether of the day, or to the Saint, or one of the various Petitions. If, then, there are two Prokimena and two Alleluias, both are taken under a single heading, that is, both Prokimena before the beginning of the first Reading, and both Alleluias at the conclusion of the second Reading; nevertheless, the first Prokimenon is taken twice, that is, once before, and once after the verse; the second, however, only once and without a verse, because in this case the Typikon does not appoint a verse. Similarly also the Alleluias: both verses thereof are taken only of the first Service, while of the second only a single verse, the first.[^97] The title, that is, whence it is—whether from Paul, or Matthew, or another—is taken only of the first Reading, and of the rest is usually omitted, although it would be better to announce the titles of the other Readings also: for it is not prejudicial to the hearers to know which Sacred Writer's Reading is being pronounced; and only on that supposition would the Typikon commanding to take the Reading of the row under the incipit have any sense, for to take one Reading under the incipit of another we understand to be the merging of it into one with the preceding by the omission of its title. If, however, the title of the succeeding third Reading, which is not taken under the incipit, is also passed over in silence, then it would be necessary to say that this third Reading also is taken under the incipit. **"Let us be attentive"** (*Вонмемъ*) is introduced only at the beginning of the first Reading. If there are two Communion Hymns, we say the Alleluia only at the conclusion of the second.[^98]
 
 ---
 
-[Leaf p72 / Page 70]
+=== LEAF p72 ===
 
 ### Non-Polyeleos Saint on Saturday
 
@@ -124,7 +124,7 @@ On the first five weekdays the Service of the Oktoechos precedes the Service of 
 
 ---
 
-[Leaf p73 / Page 71]
+=== LEAF p73 ===
 
 — If a Saint on 6 occurs, then to him alone are taken all 6 Stichera, and the Doxastikon; **"Now and forever..."** the 1st Theotokion of the current Tone.
 3. The Prokimenon of the day from the Horologion.
@@ -134,7 +134,7 @@ On the first five weekdays the Service of the Oktoechos precedes the Service of 
 
 ---
 
-[Leaf p74 / Page 72]
+=== LEAF p74 ===
 
 parion of the first Saint, **"Glory..."** of the second, **"Now and forever..."** the Theotokion from the Sunday ones according to the Tone of the second.
 6. The Dismissal, according to our custom, the Great Dismissal on account of the Apodosis of the Tone, with the commemoration of the daily Service and of the Saint.[^103]
@@ -152,7 +152,7 @@ parion of the first Saint, **"Glory..."** of the second, **"Now and forever..."*
 
 ---
 
-[Leaf p75 / Page 73]
+=== LEAF p75 ===
 
 and two of the Departed, according to some editions do not have refrains, but according to some have them, namely: 1st of the Martyrs: **"Wondrous is God,"** 2nd: **"Many are the afflictions;"** 1st of the Departed: **"Blessed are they whom Thou hast chosen,"** 2nd: **"Their souls shall dwell among good things."**
 3. Three Canons, on 14: of the Temple, if it is of the Lord or of the Mother of God, with the Heirmos on 6, the Heirmoi twice, and the Troparia on 4;[^106] then of the Saint, which is in sequence in the Menaion, on 4, and the first of the Oktoechos, that is, of the Martyrs,[^107] on 4 (for the second Canon of the Oktoechos is omitted, and is taken only on All Souls' Saturdays).[^108]
@@ -161,7 +161,7 @@ If, however, the Temple is of a Saint, then the first Canon is of the Saint of t
 
 ---
 
-[Leaf p76 / Page 74]
+=== LEAF p76 ===
 
 first on 4, then of the second on 4. If, however, it is a Temple of a Saint, then that of the Temple is omitted, and the Canon of the first Saint is taken on 6, and of the second on 4, then of the Oktoechos of the Martyrs on 4. After the 3rd, 6th, 8th, and 9th Odes, the Katavasia is the Heirmos of the Canon of the Oktoechos. After the 3rd Ode, the Kontakion-Ikos of the second Saint, if he has one, then the Sessional Hymn of the first, **"Glory..."** of the second, **"Now and forever..."** his Theotokion. After the 6th Ode, the Kontakion-Ikos of the first Saint. After the 9th Ode, the Exaposteilarion of the first Saint, **"Glory..."** of the second, **"Now and forever..."** his Theotokion.
 — If a Saint on 6 occurs, there is the Canon of the Temple of the Lord or of the Mother of God with the Heirmos on 4, then of the Saint on 6, and the first of the Oktoechos on 4. If, however, it is a Temple of a Saint, there is first the Canon of the Saint with the Heirmos on 6, then of the Saint of the Temple on 4, and of the Oktoechos of the Martyrs on 4.[^110]
@@ -170,7 +170,7 @@ first on 4, then of the second on 4. If, however, it is a Temple of a Saint, the
 
 ---
 
-[Leaf p77 / Page 75]
+=== LEAF p77 ===
 
 6. At the conclusion: the Troparion of the Saint; **"Glory... Now and forever..."** the Dismissal Theotokion according to the Tone of the Troparion of the Saint, and according to the day of the week.[^113]
 — If two Saints occur, there is the Troparion of the first Saint, **"Glory..."** of the second, **"Now and forever..."** the Dismissal Theotokion (which is at the end of Matins) according to the Tone of the second Saint.
@@ -185,7 +185,7 @@ According to our custom all things are of the day alone: that is, the Troparion;
 
 ---
 
-[Leaf p78 / Page 76]
+=== LEAF p78 ===
 
 If thou takest the Service both of the day and to the Saint, then the Service of the Saint precedes that of the day, except for the Epistle and Gospel, which are taken first of the day, then to the Saint; and there is the Troparion to the Saint and of the day, **"Glory..."** the Kontakion to the Saint, **"Now and forever..."** the Kontakion of the day. The Prokimenon, Alleluia, and Communion Hymn to the Saint, then of the day; the Epistle and Gospel of the day and to the Saint.[^116]
 
@@ -200,7 +200,7 @@ A Polyeleos Saint may be celebrated either on 6 or on 8,[^117] although in prese
 
 ---
 
-[Leaf p79 / Page 77]
+=== LEAF p79 ===
 
 4. At the Aposticha: the Sunday Stichera of the Oktoechos; **"Glory..."** to the Saint; **"Now and forever..."** the Sunday Theotokion from the Aposticha according to the Tone of the Doxastikon.[^119]
 5. At the conclusion: the Sunday Troparion; **"Glory..."** to the Saint; **"Now and forever..."** the Theotokion from the Sunday ones according to the Tone of the Troparion of the Saint.[^120]
@@ -217,7 +217,7 @@ The Triadikon Canon of the Oktoechos of the Tone of the row.
 
 ---
 
-[Leaf p80 / Page 78]
+=== LEAF p80 ===
 
 2. The first two Kathismata of the row with their usual Sunday Sessional Hymns of the Oktoechos; then the Polyeleos with the Magnifications of the Saint, and the Angelic Synaxis (*Ангелскїй Соборъ*); thereafter the Little Litany with the exclamation: **"For blessed is Thy name,"** and the Hypakoe of the Tone; then the 1st and 2nd Sessional Hymns of the Saint once each without Theotokia, **"Glory..."** the 3rd Sessional Hymn of the Saint, **"Now and forever..."** his Theotokion[^123] (Chapter 75 of Mark takes the 1st Theotokion of the Tone).
 3. The Graduals (*Степенна*) of the Tone of the row, and the rest even unto the Canon, all Sunday.

@@ -1,4 +1,4 @@
-[Leaf p401 / Page 399]
+=== LEAF p401 ===
 
 ### First Saturday of the Great Fast
 **Commemoration of the Holy Great-Martyr Theodore the Tyro**[^542]
@@ -13,7 +13,7 @@ Compline on all Fridays of the Great Forty Days according to the Greek Typikon i
 
 ---
 
-[Leaf p402 / Page 400]
+=== LEAF p402 ===
 
 #### Typikon
 1. If Compline is Little, after **"It is truly right"** we say the Kontakion of the Great-Martyr; but if Great, then after the 1st Trisagion the Troparion of the Great-Martyr, **"Glory... Both now..."**, Theotokion (the Resurrectional one according to the Tone of the Troparion of the Saint[^543]); after the 2nd Trisagion the usual Troparia **"Have mercy on us, O Lord"**; after **"It is truly right"** the Kontakion of the Great-Martyr, but the Troparion **"O Lord of hosts"** we do not say.[^544]
@@ -25,7 +25,7 @@ Compline on all Fridays of the Great Forty Days according to the Greek Typikon i
 
 ---
 
-[Leaf p403 / Page 401]
+=== LEAF p403 ===
 
 After the 3rd Ode, the Sessional Hymn of the Saint; after the 6th Ode, the Kontakion and Ikos of the Saint; after the 9th Ode, the Exaposteilarion of the Saint.
 3. At the Praises, Stichera to the Saint for 4, and his Doxastikon, and Theotokion in the Triodion.
@@ -46,7 +46,7 @@ All to the Saint; the Epistle and Gospel first of the day, then of the Saint.
 
 ---
 
-[Leaf p404 / Page 402]
+=== LEAF p404 ===
 
 #### Typikon
 ##### At Great Vespers
@@ -66,7 +66,7 @@ After the 3rd Ode, the Sessional Hymn of the Triodion; after the 6th Ode, the Ko
 
 ---
 
-[Leaf p405 / Page 403]
+=== LEAF p405 ===
 
 At the Praises, Stichera for 8: of the Octoechos 4, and of the Triodion 4, the three last with their proper refrains; then **"Glory..."**, and again the 4th Sticheron of the Triodion; **"Both now..."**, **"Most blessed art thou"**.
 4. After the Doxology, Troparion Resurrectional, one of the two usual ones.
@@ -87,7 +87,7 @@ Be it known that from this Monday of the second Week of the Fast, there are chan
 
 ---
 
-[Leaf p406 / Page 404]
+=== LEAF p406 ===
 
 ### Saturday of the Second Week of the Holy Fasts
 *Note.*
@@ -104,7 +104,7 @@ The Service of this Saturday, as also the Service of the 3rd and 4th Saturdays o
 
 ---
 
-[Leaf p407 / Page 405]
+=== LEAF p407 ===
 
 2. If there is no Presanctified, we chant Vespers according to the Typikon set down here on p. 392.
 
@@ -121,7 +121,7 @@ Compline according to the Greek Typikon we chant Little. After **"It is truly ri
 
 ---
 
-[Leaf p408 / Page 406]
+=== LEAF p408 ===
 
 ...**pray to God for us."** And at the end of the eight Troparia of each Ode of the Four-Ode Canon we add yet two Troparia: one of the Martyrs with the refrain of the Martyrs, and the other for the Departed with the refrain for the Departed. Of the two refrains of the Martyrs, **"Wondrous is God"** and **"Unto the saints who are in His earth"** [Psalm 15:3 LXX], and of the two refrains for the Departed, **"Their souls shall dwell among good things"** and **"Blessed are they whom Thou hast chosen"** [Psalm 64:5 LXX], we chant the first to the Martyrs' and Departed [Troparia] of the 6th and 8th Odes, and the second to the Martyrs' and Departed [Troparia] of the 7th and 9th Odes. Katavasia after the 3rd, 6th, 7th, 8th, and 9th Odes, the Heirmos of the last Canon: after the 3rd indeed that of the Octoechos, but after the others that of the Triodion.
 After the 3rd Ode, the Sessional Hymn of the Saint;[^553] after the 6th Ode, the Kontakion and Ikos for the Departed; after the 9th Ode, the Exaposteilarion of the Octoechos (All Saints; **"Glory..."**, of the Departed).
@@ -138,7 +138,7 @@ At all [Hours], Troparion of the day (**"Apostles, Prophets, and Martyrs"**); **
 
 ---
 
-[Leaf p409 / Page 407]
+=== LEAF p409 ===
 
 ### Second Sunday of the Great Fast
 All according to the general Typikon of a Saint without Polyeleos on Sunday, here on p. 50. Except:
@@ -161,7 +161,7 @@ Instead of the Resurrectional Kontakion we say the Kontakion of the Triodion; th
 
 ---
 
-[Leaf p410 / Page 408]
+=== LEAF p410 ===
 
 #### At the Liturgy
 1. Instead of the Resurrectional Kontakion we sing the Kontakion of the Triodion.
@@ -181,7 +181,7 @@ All according to the Typikon of the 2nd Saturday of the Great Fast, here on p. 4
 
 ---
 
-[Leaf p411 / Page 409]
+=== LEAF p411 ===
 
 #### At Great Vespers
 1. **"Blessed is the man"** (*Блаженъ мужъ*), according to custom.
@@ -203,7 +203,7 @@ After **"It is truly right"**, the Kontakion of the Cross: **"No longer does the
 
 ---
 
-[Leaf p412 / Page 410]
+=== LEAF p412 ===
 
 After the 3rd Ode, the Sessional Hymn of the Cross; after the 6th Ode, the Kontakion and Ikos of the Cross; after the 9th Ode, the Exaposteilarion Resurrectional; **"Glory..."**, of the Cross; **"Both now..."**, Theotokion of the Cross.
 4. At the Praises, Stichera for 8: Resurrectional of the Octoechos 4, and of the Triodion 4, of which the last three are with refrains of the Cross; **"Glory..."**, again the last Sticheron of the Triodion; **"Both now..."**, **"Most blessed art thou"**.
@@ -223,7 +223,7 @@ After the Dismissal of the Liturgy, and likewise after the completion of every O
 
 ---
 
-[Leaf p413 / Page 411]
+=== LEAF p413 ===
 
 ...a sufficient number of people, until all have venerated, according to the Typikon set down on p. 140, in the Note.[^554]
 
@@ -235,7 +235,7 @@ All according to the Typikon of the 2nd Saturday of the Great Fast, here on p. 4
 
 ---
 
-[Leaf p414 / Page 412]
+=== LEAF p414 ===
 
 ### Fourth Sunday of the Great Fast
 All according to the Typikon of the 2nd Sunday of the Great Fast, here on p. 407.
@@ -252,7 +252,7 @@ The Service of the daily Saint we transfer to another day.
 
 ---
 
-[Leaf p415 / Page 413]
+=== LEAF p415 ===
 
 #### On Wednesday Evening
 ##### At Vespers with the Presanctified
@@ -272,7 +272,7 @@ Without prostrations. After the 1st Trisagion, the usual Troparia; after the 2nd
 
 ---
 
-[Leaf p416 / Page 414]
+=== LEAF p416 ===
 
 ##### At Matins
 1. From the beginning even unto the completion of the Sessional Hymns of the Octoechos, set down at the end of the Triodion at the 1st Psalter reading of the Kathisma, we chant all according to the general Lenten Typikon, then Psalm 50, and, omitting the Litany **"Save, O God, Thy people"**, we immediately chant the Great Canon;[^555] while it is being chanted, the Holy Doors remain open, and candles are lighted on the Holy Table. Before the Holy Doors in Cathedral Churches a carpet is spread, upon which first the Bishop, if there is one, then the other sacred dignitaries two by two according to the order of their dignity make at each Ode one great prostration after the chanting of each Troparion of the Ode of the Canon. In our Seminary before the Holy Doors the seminarians make prostrations, and in the sanctuary before the step of the Holy Table all eight Superiors make prostrations, according to the order of their dignity, one at a single Ode in turn; but at the 9th Ode all eight together, in epitrachelia.
@@ -280,7 +280,7 @@ Without prostrations. After the 1st Trisagion, the usual Troparia; after the 2nd
 
 ---
 
-[Leaf p417 / Page 415]
+=== LEAF p417 ===
 
 ...**pray to God for us"**, and: **"Venerable Mother Mary, pray to God for us."** And to the Troparia of the Three-Ode Canon we say: **"Holy Apostles, pray to God for us"**;[^556] for they are of the contents of the Thursday Service. At each Troparion of the Canon of Andrew the Typika appoint three prostrations, but we make only one, yet a great one; and in Cathedral churches the Clergy bow only in turn and alternately throughout the nine Odes of the Canon. The Choirs sing the Canon in the middle of the Church, each at a separate Analogion, making a small bow at the Troparia of the Canon. We take the Katavasia after all Odes, the Heirmos of the last Canon.[^557]
 After the 3rd Ode, the Sessional Hymn of the Triodion; after the 6th Ode, the Kontakion and Ikos of the Triodion, with the Beatitudes; after the 9th Ode, the Triadikon Exaposteilarion; all these with the usual Litanies. At the 9th Ode we chant **"More honorable"**, as also the Moscow Typikon and the new Constantinopolitan Typikon have it. After the Canon, **"It is truly right"**.[^558]
@@ -288,7 +288,7 @@ After the 3rd Ode, the Sessional Hymn of the Triodion; after the 6th Ode, the Ko
 
 ---
 
-[Leaf p418 / Page 416]
+=== LEAF p418 ===
 
 ...we say the Trisagion with **"Our Father"** and 12 times **"Lord, have mercy"**, then the Priest: **"Glory to Thee, Christ God, our hope, glory to Thee"**, and the Dismissal.
 
@@ -307,7 +307,7 @@ The Service of this Feast is of the lesser rank; it has only at Matins a Katavas
 
 ---
 
-[Leaf p419 / Page 417]
+=== LEAF p419 ===
 
 ...with the usual Service of Lenten Saturday and with the Temple Canon at Matins. The peculiarity of this Feast consists in this: that at its Matins there is chanted the entire Order of the Akathist to the Most Holy Theotokos, the 12 Ikoses and Kontakia being divided into four Staseis [Thirds], of which the first is chanted in place of the Sessional Hymn after the first Psalter reading, the second in place of the Sessional Hymn after the second Psalter reading, the third after the 3rd Ode, and the fourth after the 6th Ode of the Canon, the initial Kontakion being sung at the beginning and at the end of each Stasis, and before its final chanting, the first Ikos is sung again.[^560] This Matins is chanted, according to the Typikon, at the 4th hour of the night, but we chant it at the usual hour.[^561] The Service of the daily Saint according to the Greek Triodion is chanted at Compline.
 
@@ -319,7 +319,7 @@ The Service of this Feast is of the lesser rank; it has only at Matins a Katavas
 
 ---
 
-[Leaf p420 / Page 418]
+=== LEAF p420 ===
 
 ##### Little Compline
 After **"It is truly right"**, the Kontakion of the Feast alone.

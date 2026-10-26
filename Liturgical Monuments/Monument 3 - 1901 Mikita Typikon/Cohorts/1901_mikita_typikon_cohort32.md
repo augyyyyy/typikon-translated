@@ -1,4 +1,4 @@
-<!-- LEAF: p311 -->
+=== LEAF p311 ===
 
 (p. 287)
 
@@ -12,7 +12,7 @@ For calculating the day of Pascha and of all movable feasts and seasons, the so-
 
 **3.** Calculation according to the Indiction. Since the period of the moon containeth within itself 19 years, and the period of the sun 28 years, both these periods will coincide in one and the same order after 532 years (19 × 28 = 532). This 532-year period is called the “Indiction” or the “Great Cycle.”[^342]
 
-<!-- LEAF: p312 -->
+=== LEAF p312 ===
 
 (p. 288)
 
@@ -24,7 +24,7 @@ In order to find from this table the boundary letter for any given year, the fol
 
 From that year for which we wish to find the boundary letter, we subtract 1408 (the beginning of the present Indiction). The remainder we divide by 19 (the lunar cycle). The quotient resulting from the division (*osztalék*) showeth in which row (*sor*) from top to bottom it is necessary to seek the letter; while the remainder from the division (*maradék*) showeth in which column (across) the sought-for boundary letter (*betü*) is found.[^345]
 
-<!-- LEAF: p313 -->
+=== LEAF p313 ===
 
 (p. 289)
 
@@ -53,7 +53,7 @@ Notes:
 
 **3.** In the first centuries of Christianity the faithful on Sunday did not bend their knees, but prayed standing in token of joy and
 
-<!-- LEAF: p314 -->
+=== LEAF p314 ===
 
 (p. 290)
 
@@ -63,7 +63,7 @@ in representation of the Resurrection of Christ from the tomb and the resurrecti
 
 ---
 
-<!-- LEAF: p315 -->
+=== LEAF p315 ===
 
 ### I. Visual Paschalion (Table I, Part 1)
 
@@ -94,7 +94,7 @@ in representation of the Resurrection of Christ from the tomb and the resurrecti
 | **Ꙋ(Ѵ)** | Fri | Thu | Jan 31 | Feb 1 | 4 | Thu Prostr. | Apr 11 | Jun 6 | Jun 13 | Aug 8 | Oct 3 | Nov 28 | Jan 23 | Mar 20 | Mar 19 |
 | **Ф** | Thu | Wed | Feb 1 | Feb 2 | 3 | Wed 5 Fast | Apr 12 | Jun 7 | Jun 14 | Aug 9 | Oct 4 | Nov 29 | Jan 24 | Mar 21 | Mar 20 |
 
-<!-- LEAF: p316 -->
+=== LEAF p316 ===
 
 ### I. Visual Paschalion (Table I, Part 2)
 
@@ -118,7 +118,7 @@ in representation of the Resurrection of Christ from the tomb and the resurrecti
 
 Note: In this table the days are designated thus: И = Sunday, П = Monday, В = Tuesday, Р = Wednesday, Ч = Thursday, Т = Friday, С = Saturday. Wednesday and Friday are designated not by their initial letters, but by other letters, for the reason that by the letters “С” and “П” other days of the week are already designated.
 
-<!-- LEAF: p317 -->
+=== LEAF p317 ===
 
 ### II. Indiction (Table II, Part 1)
 
@@ -182,7 +182,7 @@ Note: In this table the days are designated thus: И = Sunday, П = Monday, В =
 - **2061**: ж; **2062**: ш; **2063**: с; **2064** *(leap)*: и; **2065**: х; **2066**: н; **2067**: ж; **2068** *(leap)*: ч; **2069**: ї; **2070**: ь; **2071**: о; **2072** *(leap)*: ж; **2073**: ш; **2074**: с; **2075**: г; **2076** *(leap)*: х; **2077**: н; **2078**: ѧ; **2079**: т; **2080** *(leap)*: ї; **2081**: ь; **2082**: о; **2083**: s; **2084** *(leap)*: ш; **2085**: к; **2086**: г; **2087**: ѿ; **2088** *(leap)*: н; **2089**: ц; **2090**: т; **2091**: д; **2092** *(leap)*: ѿ; **2093**: о; **2094**: s; **2095**: s; **2096** *(leap)*: к; **2097**: ѣ; **2098**: ѿ; **2099**: з; **2100** *(leap)*: ц; **2101**: т; **2102**: д; **2103**: ц; **2104** *(leap)*: о; **2105**: д; **2106**: s; **2107**: л; **2108** *(leap)*: ѣ; **2109**: п; **2110**: з; **2111**: z; **2112** *(leap)*: л; **2113**: д; **2114**: ц; **2115**: и; **2116** *(leap)*: z; **2117**: s; **2118**: л; **2119**: ч; **2120** *(leap)*: ц;
 - **2121**: з; **2122**: z; **2123**: м; **2124** *(leap)*: д; **2125**: ц; **2126**: и; **2127**: ы; **2128** *(leap)*: s; **2129**: є; **2130**: ч; **2131**: р; **2132** *(leap)*: б; **2133**: ѱ; **2134**: м; **2135**: э; **2136** *(leap)*: р; **2137**: и; **2138**: ы; **2139**: н; **2140** *(leap)*: є; **2141**: ч; **2142**: р; **2143**: к; **2144** *(leap)*: ѱ; **2145**: м; **2146**: э; **2147**: с; **2148** *(leap)*: и; **2149**: ы; **2150**: н.
 
-<!-- LEAF: p318 -->
+=== LEAF p318 ===
 
 ### II. Indiction (Table II, Part 2)
 
@@ -198,7 +198,7 @@ Note: In this table the days are designated thus: И = Sunday, П = Monday, В =
 
 AND ANEW WITH THE YEAR 2473 BEGINNETH THE 16TH INDICTION.
 
-<!-- LEAF: p319 -->
+=== LEAF p319 ===
 
 ### Note on Dominical and Ferial Letters in the Menologion
 
@@ -211,7 +211,7 @@ $$egin{array}{ccccccc}
 
 Concerning these letters we appoint the following: In the first row stand the dominical letters, in the second row the ferial letters. The dominical letters everywhere, for every single day, are inscribed uniformly, while the ferial letters vary. These letters serve for this purpose: that if I know the dominical letter, I immediately say upon which day one or another feast will occur, if only I look at that ferial letter which standeth beneath the dominical letter. For example, if the dominical letter is А, then the day of the Indiction will occur on Sunday; but if the dominical letter is З, then on Saturday, since those letters stood beneath the dominical letters.
 
-<!-- LEAF: p320 -->
+=== LEAF p320 ===
 
 ### III. Perpetual Paschalion (Table III)
 

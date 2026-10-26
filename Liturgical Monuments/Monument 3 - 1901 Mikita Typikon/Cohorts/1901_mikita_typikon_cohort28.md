@@ -1,4 +1,4 @@
-<!-- LEAF: p271 -->
+=== LEAF p271 ===
 
 (p. 247)
 
@@ -12,7 +12,7 @@ After this the one being ordained ariseth, and having bowed his knees before the
 
 After this followeth the investiture with the ecclesiastical vestments (*porrectio instrumentorum* [*handing-over of the instruments*]). The Hierarch, having sat upon the faldstool in the mitre with the pastoral staff in his hands, giveth unto the newly-ordained Priest the epitrachelion, saying: “Blessed is God Who poureth out His grace... Axios”; the choir singeth three times: “Axios.” After this he giveth unto him the cincture, saying: “Blessed is God Who girdeth thee with strength... Axios”; and the choir singeth: “Axios.” Further he giveth unto him the cuffs, saying: “Thy right hand, O Lord, is glorified in strength... Axios”; and the choir singeth: “Axios.” Further he giveth unto him the phelonion, saying: “Thy priests, O Lord, shall be clothed with righteousness... Axios”; and the choir singeth: “Axios.” — After this the Archdeacon carrieth the holy Chalice with the diskos standing upon it (and upon the diskos lie the asterisk and the veils, and upon the holy Chalice lieth the veil and the holy aer) and giveth it unto the Hierarch, while the Hierarch giveth it unto the newly-ordained Priest, saying: “Receive these vessels, and keep them as a guardian of the Mysteries of Christ... Axios.” The newly-ordained Priest kisseth the holy Chalice and the hand of the Hierarch, while the choir singeth three times: “Axios.” — Finally the Hierarch giveth unto him the holy Sluzhebnik, saying: “Receive this Liturgikon... Axios”; and the Priest again kisseth
 
-<!-- LEAF: p272 -->
+=== LEAF p272 ===
 
 (p. 248)
 
@@ -30,7 +30,7 @@ It is celebrated in the episcopal cathedral. In the church there is prepared a f
 
 When the Hierarch (Archbishop) cometh into the church, and is vested in all the hierarchal vestments, then two Bishops-consecrators take the one newly elected unto a Bishop, vested in priestly vestments without the phelonion, and lead him before the Royal Doors upon the first eagle-rug.
 
-<!-- LEAF: p273 -->
+=== LEAF p273 ===
 
 (p. 249)
 
@@ -46,7 +46,7 @@ After the Little Entrance and after the singing of the troparia, when the choir 
 
 After this the Bishop Consecrator, delivering unto the one being ordained
 
-<!-- LEAF: p274 -->
+=== LEAF p274 ===
 
 (p. 250)
 
@@ -62,7 +62,7 @@ After this the newly-ordained Bishop is led up unto the high place, where he sit
 
 After the Ambo Prayer the newly-ordained Bishop maketh the circuit of the church, blessing the people on both sides, while the choir singeth: “Many Years.”
 
-<!-- LEAF: p275 -->
+=== LEAF p275 ===
 
 (p. 251)
 
@@ -80,7 +80,7 @@ On the appointed day and hour the bridegroom and bride, accompanied by witnesses
 
 The priest, vested in epitrachelion and phelonion, cometh out before the Royal Doors or unto the tetrapod, and questioneth the bridegroom: “Hast thou a good and unconstrained desire, and a firm purpose, to take unto thyself as wife this woman (*Name*)?” The bridegroom answereth: “I have, reverend Father.” Further he questioneth: “Hast thou not promised thyself unto another bride?” He answereth: “I have not promised myself, reverend Father.” In like manner he questioneth the bride also.
 
-<!-- LEAF: p276 -->
+=== LEAF p276 ===
 
 (p. 252)
 
@@ -96,7 +96,7 @@ After this the priest beginneth: “Blessed is the Kingdom...” The Great Litan
 
 There followeth the Prokimenon, the Epistle (Eph. § 230), the Gospel (John § 6), the Augmented Litany and the Litany of Supplication. “Our Father.”
 
-<!-- LEAF: p277 -->
+=== LEAF p277 ===
 
 (p. 253)
 
@@ -114,7 +114,7 @@ After the litany the priest readeth two prayers with penitential meaning: “O E
 
 After this he placeth the rings without special prayers, but directly with the words: “The servant of God is betrothed...”
 
-<!-- LEAF: p278 -->
+=== LEAF p278 ===
 
 (p. 254)
 
@@ -136,7 +136,7 @@ In the house of the sick person there is prepared a table covered with a white c
 
 The priests vest in epitrachelia and phelonia (if, however, there be one priest, then in epitrachelion and phelonion).
 
-<!-- LEAF: p279 -->
+=== LEAF p279 ===
 
 (p. 255)
 
@@ -150,7 +150,7 @@ The 1st Epistle from James (§ 57: “Is any sick among you...”). The Gospel f
 
 In like manner are celebrated also the second, third, fourth, fifth, sixth, and seventh anointings with the corresponding Epistles, Gospels, and prayers.
 
-<!-- LEAF: p280 -->
+=== LEAF p280 ===
 
 (p. 256)
 

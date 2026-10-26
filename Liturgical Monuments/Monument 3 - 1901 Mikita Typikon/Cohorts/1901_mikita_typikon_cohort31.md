@@ -1,4 +1,4 @@
-<!-- LEAF: p301 -->
+=== LEAF p301 ===
 
 (p. 277)
 
@@ -18,7 +18,7 @@ Order of the Blessing of a Cross to be Erected upon the Roof of a Newly Built Ch
 
 The Priest in epitrachelion censeth the cross and beginneth as usual: “Blessed is our God,” etc., “Trisagion,” “Our Father,” etc. And immediately the troparia are sung: “Save, O Lord, Thy people,” “Glory”: Kontakion: “Thou Who wast lifted up upon the Cross of Thine own will,” “Both now”: “Protection of Christians.” After this the Priest, having said “Let us pray to the Lord,” proclaimeth in a loud voice the prayer: “O Lord Almighty,” after which
 
-<!-- LEAF: p302 -->
+=== LEAF p302 ===
 
 (p. 278)
 
@@ -39,7 +39,7 @@ Order of the Blessing and Sanctification of a Newly Erected Cross.
 
 The Priest, vested in epitrachelion and phelonion, having come unto the cross beginneth: “Blessed is our God,” unto which the choir singeth: “Amen,” and there followeth: “Trisagion,” “Our Father,” “Come, let us worship” (three times).
 
-<!-- LEAF: p303 -->
+=== LEAF p303 ===
 
 (p. 279)
 
@@ -56,7 +56,7 @@ The Priest coming into the house that is to be blessed bringeth holy water with 
 The Priest, having come into the house, having taken upon himself the epitrachelion and phelonion, beginneth as usual: “Blessed is our God,” etc., “Heavenly King,” “Trisagion,” “Our Father,” “Lord, have mercy” (12 times), “Come, let us worship” (three times), etc. And Psalms 126, 127, and 132 are read. After the Psalms the troparion: “As unto the house of Zacchaeus,” etc., unto which the Priest proclaimeth: “Let us pray to the Lord,” and in a loud voice readeth the prayers: “To Thee we fervently pray,” etc., and “Visit, we pray Thee,” etc.
 After these prayers the Priest first sprinkleth the walls of the house with holy water, saying first: a) “In the name of the Father, and of the Son, and of the Holy Spirit, Amen”; b) after this: “By this sprinkling of holy water may the Lord grant unto this house and unto the things found therein His blessing and a peaceful dwelling”; c) at the end: “May the blessing of God the Almighty, the Father, † and the Son, and the Holy Spirit, † descend upon this place and abide forever. Amen.”
 
-<!-- LEAF: p304 -->
+=== LEAF p304 ===
 
 (p. 280)
 
@@ -74,7 +74,7 @@ What is the Dread Prayer?
 
 The dread prayer is a service over those who suffer from demons. It is the adjuration of the devil. It consisteth of Psalms 142, 22, 26, 64, and 50, further of the canon to Jesus Christ, to the Most Pure Virgin, to the Bodiless Powers, to the Apostles, and to All Saints, and of the exorcistic prayers of Saint Basil the Great and Saint John Chrysostom.[^321]
 
-<!-- LEAF: p305 -->
+=== LEAF p305 ===
 
 (p. 281)
 
@@ -88,7 +88,7 @@ Order of the Akathist to the Dormition of the Most Holy Virgin Mary.[^322]
 The Priest, in epitrachelion, standing before the Royal Doors, proclaimeth: “Blessed is our God.” The choir: “Amen,” and immediately “Heavenly King,” “Trisagion,” “Our Father,” and the exclamation. After the exclamation the Priest entereth into the Sanctuary, and the cantors sing the troparia: “Have mercy on us, O Lord,” etc. “Glory”: “Lord, have mercy on us,” “Both now”: “Open unto us the doors of compassion.” After this: Lord, have mercy (12 times), “Glory, Both now,” “Come, let us worship” (three times), and immediately Psalm 142: “Lord, hear.” After the Psalm, “Glory, Both now,” and the troparion: “In giving birth, O Virgin.” After the troparion: Lord, have mercy (three times), “Glory, Both now,” and Psalm 50: “Have mercy on me, O God.”
 After this the Priest cometh forth, and before the Tetrapod, vested in phelonion, singeth alternately 13 kontakia and 13 ikoi. (The kontakia are: “To the chosen from all generations,” “Seeing the Apostles,” “The power of the Most High,” “Having within a storm,” “The God-guided stars,” “The God-bearing heralds, the Apostles,” “Desiring all,” “Seeing Thee strange in the highest,” “All nature,” “Desiring to save the world,” “All singing,” “The grace of high-enthroned glory,” and “O all-hymned Mother.” — And the ikoi are: “The foremost Angel,” “All rational creation,” “The disciple having within a thought,” “The initiates having heard,” “The God-beholders seeing their Master,” “Unto us the Sun of righteousness hath shone,” “Showing a new wonder,” “All being on high,” “The oratory of the God-enlightened,” “A rampart art Thou unto the faithful,” “The light-receiving lamp,” “Singing Thine all-venerable dormition,” and “The foremost Angel.”[^323])
 
-<!-- LEAF: p306 -->
+=== LEAF p306 ===
 
 (p. 282)
 
@@ -108,7 +108,7 @@ We use the censer in our divine services many times, namely:
 Note: At Small Vespers only once, at “Lord, I have cried” (but this is omitted among us).
 2. At Great Matins: At the beginning, when there is a vigil, we do not cense; but we cense: a) At the beginning of Matins in
 
-<!-- LEAF: p307 -->
+=== LEAF p307 ===
 
 (p. 283)
 
@@ -124,7 +124,7 @@ What is Necessary to Note Concerning the Color of Church Vestments?
 
 In the Western-Latin Church the color of church vestments is strictly regulated, and it is fivefold: white, red [crimson], green, violet, and black;[^328] further, vestments of diverse colors may be used freely only if one of these five colors is the fundamental color; moreover, it is most precisely
 
-<!-- LEAF: p308 -->
+=== LEAF p308 ===
 
 (p. 284)
 
@@ -141,7 +141,7 @@ The language of divine services is twofold: $\alpha$) symbolic (*képnyelv* [sym
 In order that a man may understand the symbolic language of divine services, he must first learn what essence or what symbolic meaning each individual service hath according to its theological sense, and therein each individual liturgical action.
 As for the verbal language, concerning it we indicate this: that it must be, according to the common law of each church (*juxta jus commune*), more or less distinct from the common and ordinarily spoken tongue (*köznyelv* [vernacular]), and unchangeable, that is, a dead language (*holt nyelv* [dead language]).
 
-<!-- LEAF: p309 -->
+=== LEAF p309 ===
 
 (p. 285)
 
@@ -155,7 +155,7 @@ Brief Explanation Concerning the Paschalion.[^337]
 
 According to the statute of the Ecumenical Council of Nicaea (held in the year 325), the Feast of Pascha may occur on the days from March 22 unto April 25; for this Council decided “to celebrate the Pascha of Christ on the first Sunday following the full moon which occurreth either on the very day of the vernal equinox (March 21), or the first after it.” — If this full moon should occur on the very day of the vern-
 
-<!-- LEAF: p310 -->
+=== LEAF p310 ===
 
 (p. 286)
 

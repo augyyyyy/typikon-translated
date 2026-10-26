@@ -1,6 +1,6 @@
 ---
 
-[Leaf p161 / Page 159]
+=== LEAF p161 ===
 
 ### Concerning the Gospels of the Other Four Regular Sundays: the 29th, 30th, 31st, and 32nd
 
@@ -10,7 +10,7 @@ When therefore between Theophany and the Triodion there are 5 Sundays, then imme
 
 ---
 
-[Leaf p162 / Page 160]
+=== LEAF p162 ===
 
 with the Menaion Sundays which fall around the Nativity of Christ and Theophany, but are transferred here to fill up the vacant Sundays before the Triodion.
 
@@ -26,7 +26,7 @@ When between Theophany and the Triodion there is not even a single Sunday, then 
 
 ---
 
-[Leaf p163 / Page 161]
+=== LEAF p163 ===
 
 *Note.*  
 When the final regular Sundays are transferred to the vacant Sundays between the Sunday after the Enlightenment and the Triodion, then, according to the Typikon of our Sluzhebnik,[^295] together with the Sunday Gospels the weekday Gospels are likewise transferred; and for this reason on the weekdays which fall around the Menaion Sundays relating to the Nativity of Christ and Theophany, the Gospels of the above-mentioned weekdays are to be omitted, and the Epistle and Gospel of the services of the Saints of the Menologion, or of various services for every need, are read. If anyone wishes to repeat past readings, he may repeat as many past weeks as he desires, as the *Evangelistarion* says: *Ἀναпоδίζειν δεῖ ὄπισθεν, καὶ ἀναγινώσκειν ὅθεν θέλεις* (One must turn back and read from wherever one wishes).
@@ -43,7 +43,7 @@ Total: 74 days — 70 = 4 weekdays, but not even a single Sunday.
 
 ---
 
-[Leaf p164 / Page 162]
+=== LEAF p164 ===
 
 The latest Pascha is April 25; there will be therefore between Pascha and Theophany:  
 April: 24 days  
@@ -69,7 +69,7 @@ This table consists of six lines, of which the first two comprise March, and the
 
 ---
 
-[Leaf p165 / Page 163]
+=== LEAF p165 ===
 
 line three Sundays; in the case of the fifth four, and in the case of the sixth five Sundays.[^296]
 
@@ -83,13 +83,13 @@ Concerning surplus: we consider that this never takes place; concerning deficien
 
 ---
 
-[Leaf p166 / Page 164]
+=== LEAF p166 ===
 
 occur one or two weeks earlier, or two or three weeks later than the preceding one, as can be understood by comparing all the Boundary Keys of the entire Indiction from year to year. The latest Pascha, therefore, can occur even five weeks later than the earliest, yet intermittently, and not consecutively from year to year. In the case where from Pascha to Pascha exactly a whole year unfolded, that is, 52 weeks, then the Epistles and Gospels would be lacking by two Sundays, for of these there are only 50, that is, 18 of the Triodion and 32 after the Triodion. When, therefore, the coming Pascha occurs two weeks earlier than the preceding one, then from Pascha to Pascha only 50 weeks elapse, and thus the number of regular Epistles and Gospels equals the number of weeks that occur from Pascha to Pascha, for both the former and the latter are 50, and nothing is in surplus. But if from Pascha to Pascha 51 weeks elapse, then the regular Epistles and Gospels are lacking by one week; if 53 (52, that is, exactly one year, cannot be), then three weeks will be lacking; if 54, then four weeks will be lacking; if 55, then five weeks will be lacking. This deficiency of 5 regular Sundays can be supplied by the Menaion Sundays which fall around the Nativity of Christ and Theophany, yet not by all five, but only by four, for the Sunday of the Forefathers and the 28th regular Sunday have the same Gospel, and for this reason merge into a single Sunday; wherefore one of the past regular Sundays must be repeated after the Sunday after the Enlightenment.
 
 ---
 
-[Leaf p167 / Page 165]
+=== LEAF p167 ===
 
 ### Sunday of the Holy Forefathers
 
@@ -108,7 +108,7 @@ And the Sunday of the Forefathers, therefore, restricts the service of a Non-Pol
 
 ---
 
-[Leaf p168 / Page 166]
+=== LEAF p168 ===
 
 3. After the Prokimenon there are no Old Testament Readings.
 4. At the Aposticha, Resurrectional Stichera; *Glory...* of the Forefathers, *Now and forever...* of the Feast.
@@ -130,7 +130,7 @@ At all the Hours, Resurrectional Troparion; then *Glory...* at the 1st and 6th o
 
 ---
 
-[Leaf p169 / Page 167]
+=== LEAF p169 ===
 
 #### At the Liturgy
 1. Troparion: Resurrectional, and of the Conception, and of the Forefathers; *Glory...* Kontakion of the Forefathers, *Now and forever...* of the Conception.
@@ -150,7 +150,7 @@ When the service of these Martyrs occurs on weekdays, then their office is accor
 
 ---
 
-[Leaf p170 / Page 168]
+=== LEAF p170 ===
 
 #### At Compline
 After *It is truly right*, Kontakion of the Martyrs; *Glory... Now and forever...* Kontakion of the Forefathers.
@@ -168,7 +168,7 @@ At all the Hours, Resurrectional Troparion; then *Glory...* at the 1st and 6th o
 
 ---
 
-[Leaf p171 / Page 169]
+=== LEAF p171 ===
 
 #### At the Liturgy
 1. Troparion: Resurrectional, and of the Forefathers, and of the Martyrs; *Glory...* Kontakion of the Martyrs, *Now and forever...* of the Forefathers.
@@ -193,7 +193,7 @@ Kontakion of the Forefathers alone (as with a Polyeleos Saint).
 
 ---
 
-[Leaf p172 / Page 170]
+=== LEAF p172 ===
 
 3. Canons 4, on 14: Resurrectional with the Heirmos on 4, of Daniel on 3, of the Children on 3, and of the Forefathers on 4. Katavasia of the current order (*Christ is born*). After the 3rd Ode, Kontakion, Ikos, and Sessional Hymn of the Prophet; *Glory...* Sessional Hymn of the Children, *Now and forever...* Hypakoe of the Forefathers; after the 6th Ode, Kontakion and Ikos of the Forefathers; after the 9th Ode, Resurrectional Exaposteilarion; *Glory...* of the Prophet, *Now and forever...* of the Forefathers: *The Great Sun*.
 4. At the Praises, 8 Stichera: Resurrectional 4, and of the Forefathers with their two refrains; *Glory...* of the Forefathers, *Now and forever... Most blessed art thou*.
@@ -216,7 +216,7 @@ This Saturday can occur before or after the Sunday of the Fathers, and outside o
 
 ---
 
-[Leaf p173 / Page 171]
+=== LEAF p173 ===
 
 (which begins on December 20), and it has nothing proper in the divine service except the Prokimenon, Alleluia, Epistle, Gospel, and Communion Hymn at the Liturgy, as also do the Saturdays after the Nativity, before the Enlightenment, and after the Enlightenment.
 
@@ -231,7 +231,7 @@ This Sunday can occur on any one of seven days beginning from December 18 unto D
 
 ---
 
-[Leaf p174 / Page 172]
+=== LEAF p174 ===
 
 ### Rubric: 1. Sunday of the Holy Fathers outside the Forefeast of the Nativity of Christ, December 18 and 19
 
@@ -254,7 +254,7 @@ After the Canon, Kontakion of the Fathers alone.
 
 ---
 
-[Leaf p175 / Page 173]
+=== LEAF p175 ===
 
 3. Canons 4: Resurrectional with the Heirmos on 4, and Cross-Resurrectional on 2, and of the Theotokos on 2, and of the Fathers on 6. Katavasia of the current order (*Christ is born*). After the 3rd Ode, Hypakoe of the Fathers; after the 6th Ode, Kontakion and Ikos of the Fathers; after the 9th Ode, Resurrectional Exaposteilarion; *Glory...* of the Fathers, *Now and forever...* their Theotokion.
 4. At the Praises, 8 Stichera: Resurrectional 4, and of the Fathers 4 with their two refrains; *Glory...* of the Fathers, *Now and forever... Most blessed art thou*.
@@ -276,7 +276,7 @@ After the Entrance, Troparion: Resurrectional and of the Fathers; *Glory... Now 
 
 ---
 
-[Leaf p176 / Page 174]
+=== LEAF p176 ===
 
 4. At the Aposticha, Resurrectional Stichera; *Glory...* of the Fathers, *Now and forever...* of the Forefeast.
 5. At the end, Resurrectional Troparion; *Glory...* of the Fathers, *Now and forever...* of the Forefeast.
@@ -293,7 +293,7 @@ After the Canon, Kontakion of the Fathers; *Glory... Now and forever...* Kontaki
 
 ---
 
-[Leaf p177 / Page 175]
+=== LEAF p177 ===
 
 #### At the Hours
 At all the Hours, Resurrectional Troparion; *Glory...* of the Fathers; Kontakia in alternation: at the 1st and 6th of the Fathers, at the 3rd and 9th of the Forefeast.[^304]
@@ -313,7 +313,7 @@ At all the Hours, Resurrectional Troparion; *Glory...* of the Fathers; Kontakia 
 
 ---
 
-[Leaf p178 / Page 176]
+=== LEAF p178 ===
 
 #### At Compline
 Kontakion of the Fathers; *Glory... Now and forever...* Kontakion of the Forefeast.
@@ -331,7 +331,7 @@ All as in the preceding case here on page 175. At the Liturgy, however, take hee
 
 ---
 
-[Leaf p179 / Page 177]
+=== LEAF p179 ===
 
 ### December 20–24: Forefeast of the Nativity of Christ
 
@@ -345,7 +345,7 @@ From December 20 unto January 14, that is, unto the Apodosis of Theophany, the T
 
 ---
 
-[Leaf p180 / Page 178]
+=== LEAF p180 ===
 
 and the Troparia of both Canons together on 6. The refrain to the Troparia of the Canon will be: *Glory to Thee, our God, glory to Thee*; *Glory...* at the penultimate, *Now and forever...* at the last, only at the 8th Ode in place of *Glory...* we chant: *Let us bless the Father, and the Son, and the Holy Spirit, the Lord*,[^308] and before the Katavasia we chant the refrain: *We praise, we bless, and we worship the Lord*, as at Matins. And the Katavasia is chanted by both choirs together, with a metania at its conclusion at the 8th and 9th Odes; likewise also after the Heirmos of the 9th Ode before the Troparia a metania is made.[^309] In other respects, after the 3rd, 6th, and 9th Odes the Canon has nothing. After the Canon: either *It is truly right*, as the Moscow Typikon has on December 20, or only the Heirmos of the 9th Ode, as the Pochaiv and Lviv Anthologion (*Трефоло́гїй*) have on January 2.
 

@@ -55,7 +55,11 @@ def is_junction_path(path: Path) -> bool:
 
 def resolve_vault_jpg_dir(vault_root: Path, rel_mirror: str) -> Path:
     base = vault_root / rel_mirror
-    if base.name.upper() == "JPGS" or (base.exists() and any(base.glob("Page_*.jpg"))):
+    if base.name.upper() == "JPGS":
+        return base
+    if (base / "JPGs").exists():
+        return base / "JPGs"
+    if base.parent.name.upper() == "JPGS":
         return base
     return base / "JPGs"
 
@@ -78,23 +82,33 @@ def resolve_pdf_path(relative_pdf_path: str, custom_pdf: Optional[str] = None) -
             return p
         raise FileNotFoundError(f"Specified custom PDF not found: {custom_pdf}")
 
+    pdf_name = Path(relative_pdf_path).name
+
     # Check environment variables
     env_dir = os.environ.get("HISTORICAL_TYPIKONS_DIR")
     if env_dir:
-        cand = Path(env_dir) / Path(relative_pdf_path).name
+        cand = Path(env_dir) / pdf_name
         if cand.exists():
             return cand
+        for r_cand in Path(env_dir).rglob(pdf_name):
+            return r_cand
 
     for root_cand in DRIVE_CANDIDATES:
+        if not root_cand.exists():
+            continue
         cand = root_cand / relative_pdf_path
         if cand.exists():
             return cand
-        cand_typ = root_cand / "2. Historical Liturgical Texts" / "Typikons_and_Ordines" / Path(relative_pdf_path).name
+        cand_typ = root_cand / "2. Historical Liturgical Texts" / "Typikons_and_Ordines" / pdf_name
         if cand_typ.exists():
             return cand_typ
-        cand_flat = root_cand / Path(relative_pdf_path).name
+        cand_flat = root_cand / pdf_name
         if cand_flat.exists():
             return cand_flat
+        parent_cluster = (root_cand / relative_pdf_path).parent
+        if parent_cluster.exists():
+            for r_cand in parent_cluster.rglob(pdf_name):
+                return r_cand
 
     # Check relative to project root
     local_cand = PROJECT_ROOT / relative_pdf_path
@@ -192,26 +206,16 @@ def extract_leaves(
 
     for p in range(start_page, end_page + 1):
         target_vault_canon = vault_jpg_dir / f"Page_{p:04d}.jpg" if vault_jpg_dir else None
-        target_vault_alias_png = vault_jpg_dir / f"p{p}.png" if vault_jpg_dir else None
-        target_vault_alias_jpg = vault_jpg_dir / f"p{p}.jpg" if vault_jpg_dir else None
-        target_local_png = images_dir / f"p{p}.png"
-        target_local_jpg = images_dir / f"p{p}.jpg"
+        target_local_canon = images_dir / f"Page_{p:04d}.jpg"
 
         # Tier 1: Check existing files in Drive E vault first
         found_file = None
-        for cand in [target_vault_canon, target_vault_alias_png, target_vault_alias_jpg, target_local_png, target_local_jpg]:
+        for cand in [target_vault_canon, target_local_canon]:
             if cand and cand.exists() and cand.stat().st_size > 1000:
                 found_file = cand
                 break
 
         if found_file and not force:
-            if target_vault_canon and target_vault_canon.exists():
-                for alias in [target_vault_alias_png, target_vault_alias_jpg]:
-                    if alias and not alias.exists():
-                        try:
-                            os.link(str(target_vault_canon), str(alias))
-                        except (OSError, FileExistsError):
-                            pass
             print(f"  [CACHED] Leaf p{p} -> {found_file.name} ({found_file.stat().st_size} bytes)")
             extracted_count += 1
             total_bytes += found_file.stat().st_size
@@ -231,21 +235,11 @@ def extract_leaves(
 
         if vault_jpg_dir and target_vault_canon:
             pix.save(str(target_vault_canon), output="jpeg", jpg_quality=92)
-            if target_vault_alias_png and not target_vault_alias_png.exists():
-                try:
-                    os.link(str(target_vault_canon), str(target_vault_alias_png))
-                except (OSError, FileExistsError):
-                    pass
-            if target_vault_alias_jpg and not target_vault_alias_jpg.exists():
-                try:
-                    os.link(str(target_vault_canon), str(target_vault_alias_jpg))
-                except (OSError, FileExistsError):
-                    pass
             out_file = target_vault_canon
             tier_label = "VAULT_RENDERED_E"
         else:
-            out_file = target_local_png
-            pix.save(str(out_file))
+            out_file = target_local_canon
+            pix.save(str(out_file), output="jpeg", jpg_quality=92)
             tier_label = "LOCAL_RENDERED_C"
 
         size = out_file.stat().st_size

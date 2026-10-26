@@ -1,6 +1,6 @@
 # Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852) — Cohort 9 (Leaves p81–p90)
 
-<!-- LEAF: p81 -->
+=== LEAF p81 ===
 
 [Book Page 160]
 
@@ -15,7 +15,7 @@
 
 *and thereafter a festive chiming on all the bells; and the sacristan lights the lamps before the icon of the Savior and of the Theotokos. And the priest having vested makes the beginning:* **"Blessed is our God..."** (*Благослове́нъ Бо́гъ на́шъ...*) [*not opening the Royal Doors*]. *And he censes the icons and the whole church. And the choir says Great Compline from the beginning:* **"Glory to Thee, our God, glory to Thee. O Heavenly King..."** (*Сла́ва Тебѣ̀, Бо́же на́шъ, сла́ва Тебѣ̀. Царю̀ Небе́сный...*); *the Trisagion, and the rest, as in the Horologion. And after the Six Psalms and after "Glory...": the choir with those present sings in a loud voice and lingeringly:* **"God is with us, understand, O ye nations..."** (*Съ на́ми Бо́гъ, разꙋмѣ́йте, я҆зы́цы...*): *the first verse 3 times. And the priest standing before the Royal Doors reads the verses:* **"Even unto the uttermost parts of the earth..."** (*До послѣ́днихъ землѝ...*), *and the rest. After each verse the choir sings:* **"God is with us"** (*Съ на́ми Бо́гъ*); *and at the end, this verse 3 times. Then:* **"The day is past..."** (*Де́нь преше́дъ...*); **"I believe in one God..."** (*Вѣ́рую во є҆ди́наго Бо́га...*); **"All-Holy Trinity..."** (*Прест҃ая Тро́ице...*): *each verse 2 times each. Thereafter the Trisagion; and after "Our Father": the troparion of the feast, 1 time;* **"Lord, have mercy"** *40 times; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"* **"More honorable than the Cherubim..."** (*Честнѣ́йшꙋю херꙋвї́мъ...*); **"In the name of the Lord..."** (*И҆́менемъ Госпо́днимъ...*). *Priest:* **"Through the prayers of the holy..."** (*Моли́твами святы́хъ...*); *and reads the prayer:* **"O Lord, Lord, Who hast delivered us..."** (*Го́споди, Го́споди, и҆збавле́й на́съ...*); **"Come, let us bow down in worship..."** (*Прїиди́те, поклони́мся...*) *3 times, and Psalm 50 [Psalm 51] and Psalm 101 [Psalm 102]. Thereafter the prayer by the priest:* **"O Lord Almighty..."** (*Го́споди Вседержи́телю...*); *the Trisagion, and after "Our Father": the kontakion of the feast;* **"Lord, have mercy"** *40 times; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"* **"More honorable..."**; *Priest:* **"Through the prayers of the holy fathers..."** (*Моли́твами святы́хъ ѻ҆те́цъ...*); *then the prayer:* **"O Master, God the Father..."** (*Влады́ко Бо́же Ѻ҆́тче...*). *Thereafter the choir:* **"Come, let us bow down in worship..."**; *Psalm 69 [Psalm 70], Psalm 142 [Psalm 143]; and reads:* **"Glory to God in the highest..."** (*Сла́ва въ вы́шнихъ Бо́гꙋ...*). *The priest censes the icons and the whole church; and after "Glory to God in the highest", the Litiya takes place with the cross into the narthex according to custom, as for an All-Night*
 
-<!-- LEAF: p82 -->
+=== LEAF p82 ===
 
 [Book Page 162]
 
@@ -33,7 +33,7 @@
 ### The Saturday after the Nativity
 *At the Divine Liturgy: Prokeimenon, Tone 4:* **"I will remember Thy name in every generation and generation"** (*Помянꙋ̀ и҆́мя Твоѐ во вся́комъ ро́дѣ и҆ ро́дѣ*). *Epistle and Gospel*
 
-<!-- LEAF: p83 -->
+=== LEAF p83 ===
 
 [Book Page 164]
 
@@ -54,7 +54,7 @@
 ### If the Nativity of Christ Occur on a Tuesday:
 *Then on December the 29th day at the Divine Liturgy, Prokeimenon, Epistle, Alleluia, Gospel, and Communion verse: first*
 
-<!-- LEAF: p84 -->
+=== LEAF p84 ===
 
 [Book Page 166]
 
@@ -71,7 +71,7 @@
 ☞ *If it be a temple dedicated to St. Stephen, an All-Night Vigil takes place; but the service of the Venerable is sung at Compline. And we sing the entire service of St. Stephen, evening and morning, as for a saint with a vigil occurring in the afterfeast. At Matins: Polyeleos and Megalynarion of the Saint; Graduals the 1st Antiphon of Tone 4 [Tone 3]; Prokeimenon of the Saint; Gospel from John, pericope 52; and the rest.*  
 ☞ *If the temple feast of St. Stephen occur on the Sunday after the Nativity of Christ: At Little Vespers, Sunday Resurrection stichera and of the temple according to custom. At Great Vespers, Sunday Resurrection stichera 3, and of the God-ancestors with the Doxastikon 4, and of the temple 3; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the temple; "Now and forever, and unto the ages of ages. Amen:" Dogmatic Theotokion of the 1st Tone. The Entrance. Prokeimenon of the day, and 3 readings of the temple. At the Litiya, stichera of the feast and of the temple [of Stephen]; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the temple; "Now and forever, and unto the ages of ages. Amen:" of the feast. At the Aposticha, Sunday Resurrection stichera; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the temple; "Now and forever, and unto the ages of ages. Amen:" of the feast. At the blessing of the loaves:* **"O Theotokos Virgin..."** (*Богоро́дице Дѣ́во...*) *1 time, and of the Saints 1 time, and of the temple of Stephen 1 time. At Matins, Sunday Resurrection troparion 1 time, and of the Saints 1 time; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the temple; "Now and forever, and unto the ages of ages. Amen:" of the feast. Sunday Resurrection Sessional Hymns. After the Polyeleos, Sessional Hymn of the temple; Graduals of the Tone; Pro-*
 
-<!-- LEAF: p85 -->
+=== LEAF p85 ===
 
 [Book Page 168]
 
@@ -89,7 +89,7 @@
 ### On the 5th Day: The Eve of the Theophany of the Lord
 *The order of the Royal Hours on the Eve of Theophany or Illumination takes place according to the directive; see December the 24th day, on leaf 157. After the Hours, the departure takes place until the 6th hour of the day. Vespers takes place with the Divine Liturgy of Basil the Great at its proper time. And after the Ambo Prayer, immediately we all go forth to the blessing of water into the narthex [or to the springs/rivers] of the church with the brethren. The senior priest, if there be many, bearing upon his head the Precious Cross, preceded by candle-bearers and the deacon with the censer. And he places the Precious Cross upon a decorated table, where water is also prepared in a basin with candles standing round about, and candles are distributed to the brethren. While the choirs sing the troparia, Tone 8:* **"The voice of the Lord upon the waters..."** (*Гла́съ Госпо́день на вода́хъ...*) *3 times. At that same time the Superior censes round about the table, the icons, and the people in order, preceded by the deacon with a candle. And the blessing of water takes place, as indicated in the Trebnik and Anthologion. While the ectene of blessing is said by the deacon, the priest*
 
-<!-- LEAF: p86 -->
+=== LEAF p86 ===
 
 [Book Page 170]
 
@@ -110,7 +110,7 @@
 ### On the 7th Day: The Synaxis of the Holy, Glorious Prophet, Forerunner and Baptist John
 *In the evening, no Stichology takes place, except on Saturday. At* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *stichera of the feast 3, and of the Holy*
 
-<!-- LEAF: p87 -->
+=== LEAF p87 ===
 
 [Book Page 173]
 
@@ -123,7 +123,7 @@
 ### The Sunday after Theophany
 *At the Divine Liturgy, Prokeimenon, Tone 1:* **"Let Thy mercy, O Lord, be upon us, according as we have hoped in Thee"** (*Бꙋ́ди, Го́споди, ми́лость Твоя̀ на на́съ, я҆́коже оу҆пова́хомъ на Тя̀*); *and of the feast. But if a saint occur who hath at the Divine Liturgy a Prokeimenon, Epistle, and Gospel: then the festal Prokeimenon and Communion verse are omitted. Epistle to the Ephesians, pericope 224 from the midpoint. Gospel from Matthew, pericope 8:* **"When Jesus heard..."** (*Слы́шавъ І҆исоу́съ...*). *Communion verse of the feast; another:* **"Praise the Lord from the heavens..."** (*Хвали́те Го́спода съ небе́съ...*).
 
-<!-- LEAF: p88 -->
+=== LEAF p88 ===
 
 [Book Page 174]
 
@@ -146,7 +146,7 @@
 *This feast begins from Wednesday of Meatfare Week, and extends unto Tuesday of the 4th Week of Great Lent. A sufficient directive thou shalt find in the Triodion. Here only this:*  
 *If the Finding of the Precious Head of John the Forerunner occur on Meatfare Saturday: the entire feast of the Forerunner is sung beforehand on Meatfare Friday invariably. Likewise, if the Finding of the Precious Head of the Forerunner occur on Monday of the 1st Week of the Fast: the entire service of the Forerunner is sung on Cheesefare Sunday. But if on whatever day of the 1st Week of the Fast: then his service is sung on Cheesefare Sunday or on the 1st Saturday of the Fast.*[^193]
 
-<!-- LEAF: p89 -->
+=== LEAF p89 ===
 
 [Book Page 176]
 
@@ -158,7 +158,7 @@
 *and the rest in the Triodion. At the Praises, stichera of the Forerunner to 4; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Forerunner. Little Doxology. Thereafter the ectene:* **"Let us complete our morning prayer..."**; *then stichera at the Aposticha of the day; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Forerunner. Thereafter:* **"It is good to give praise..."** (*Бла́го є҆́сть...*) *1 time. After "Our Father": troparion of the Forerunner; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:" Sunday Resurrection Theotokion; ectene:* **"Have mercy on us, O God..."**; *and 3 great prostrations. [And Dismissal]. And the First Hour: at the Hours we say the troparion of the Forerunner; and after the Trisagion, the kontakion; and at the end 3 great prostrations. After the prostrations of the Trisagion we do not say* **"O Christ, the True Light..."** (*Христѐ, Свѣ́те и҆́стинный...*); *and the Dismissal. Likewise we say the other Hours. After the Ninth Hour and after the prayer:* **"O Master, Lord Jesus Christ..."** (*Влады́ко Го́споди І҆исоу́се Христѐ...*); *we say also the Psalm:* **"Bless the Lord, O my soul, and all that is within me..."** (*Благословѝ, душѐ моя̀, Го́спода, и҆ вся̑ внꙋ́тренная моя̀...*); *“Glory to the Father, and to the Son, and to the Holy Spirit:”* **"Praise the Lord, O my soul..."** (*Хвалѝ, душѐ моя̀, Го́спода...*); *“Now and forever, and unto the ages of ages. Amen:”* **"Only-begotten Son and Word of God..."** (*Е҆диноро́дный Сы́не и҆ Сло́ве...*); *and* **"In Thy kingdom remember us, O Lord..."** (*Во Ца́рствїи Твое́мъ помянѝ на́съ, Го́споди...*), *quickly without singing. At the Beatitudes we say of the Forerunner, Ode 3 and Ode 6. Then Epistle and Gospel of the Forerunner. Thereafter:* **"Remember us, O Lord..."**; *after* **"Remit, pardon..."**; *and after "Our Father": kontakion of the temple; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Forerunner; "Now and forever, and unto the ages of ages. Amen:" of the Theotokos of the temple; but if it be not a temple of the Theotokos:* **"O Protection of Christians..."** (*Предста́тельство хрїстїа́нъ...*); *then* **"Lord, have mercy"** *40 times; and 3 great prostrations, and at that time the paramonarios strikes two bells; and after the three great prostrations we say:* **"Come, let us bow down in worship..."**; *and we sing Vespers with prostrations and troparia according to the Lenten custom.*[^194]  
 ☞ *If the Finding of the Precious Head of the Forerunner occur on any Tuesday or Thursday of*
 
-<!-- LEAF: p90 -->
+=== LEAF p90 ===
 
 [Book Page 178]
 

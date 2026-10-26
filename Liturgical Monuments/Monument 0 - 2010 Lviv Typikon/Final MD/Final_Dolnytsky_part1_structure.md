@@ -627,3 +627,93 @@ When Vespers is combined with the Divine Liturgy (as on the eves of the Nativity
 * **From the Liturgy:** The introductory portion (from the opening exclamation through the Antiphons) falls away, and the Liturgy begins directly:
   * *At a Full Liturgy (St. Basil or St. John Chrysostom):* The bridge is the Small Litany with the exclamation of the **Trisagion**, from which the Liturgy of the Word begins.
   * *At the Liturgy of the Presanctified Gifts:* The bridge is the singing of *"Let my prayer arise"*, which the Priest sings before the four sides of the Holy Table, followed immediately by the Litany of Fervent Supplication ("Let us say all"). If a Polyeleos Saint occurs, his Epistle and Gospel precede the litany.
+
+---
+
+### Notes
+
+[^2]: Excerpt from Appendix XXXI.
+
+[^3]: Let it be known, that the Synod provides the rule only of this, the 1st part. The rules of the other four parts are presented according to Slavic and Greek liturgical books, and also according to the customs of our churches.
+
+[^4]: Corrected by me (Ivan Dutka), since in the translation this service was omitted.
+
+[^5]: The Rubric of the Liturgy is not given, for it is given in detail in the newly published Sluzhebnyky (lit. "Service Books").
+
+[^6]: The Greek Euchologia and Slavonic Menaia (December 25 at the Vigil with Great Compline) prescribe also the phelonion; the rubric of our Sluzhebnyky and the Moscow Typikons prescribe only the epitrachelion. Also, the Greek Typikon mentions the phelonion for the first time at the Entrance, prescribing: Και ειςελΰοντες (priest and deacon) αλασσουσιν την ιερατικην στολην εν τω διακονικό. (Καιφ. β) /And, having entered, they dress in the sacred robes (Chapter 2)/.
+
+[^7]: Likewise in the order of the Divine Service published by Bp. Tsikhanovsky for the use of the clergy of his Kholm Eparchy, this exclamation is prescribed for one of the deacons; in the Greek *Euchologion* -- to the Reader τω Αναγνώστη or Ευταξιω /the Master of Ceremonies/; in the Greek Typikon -- to the serving cleric who lights the candles Κανδηλαπτη (Sacristæ).
+
+[^8]: The Greek Typikon prescribes this to the Priest, and this is evident, for according to its rubric, from the beginning it is not the Deacon who serves, but the Priest himself.
+
+[^9]: The Greek Typikon orders the Deacon to mention the service from the litany "In peace let us pray to the Lord," however, the Greek Euchologia do not forbid him to serve from the beginning: Ει μη φορεση ο διάκονος εις την αρχήν του Εσπερινού, ενδύεται ψαλλομενου του γ αντίφωνου του ψαλτηρίου, ει εστίν Στιχολογια; ει δε μη, του Προοιμιακου ψαλλομενου /If the Deacon has not vested from the beginning of Vespers, let him vest during the singing of the prefatory psalm/. Our Sluzhebnyky prescribe for the Deacon to begin serving already from the beginning of Vespers, but prescribe the censing to the Priest himself; the Synod approves the current custom for two deacons to cense. Regarding what some say, that it is not proper for two deacons to serve at the Divine Services, but only one, because the rubrics mention only one, the Synod does not accept this, and rightly so. And since there is nothing against our rite when several priests serve concelebrating, even though the rubrics mention only one priest, so nothing prevents the service of several deacons.
+
+[^10]: The Greek Typikon prescribes for the Priest, before "Glory to the Holy," to make the sign of the cross with the censer before the Holy Table three times, and the *Euchologion* -- to sing "Glory to the Holy" while censing the Holy Table.
+
+[^11]: In the Greek Ευχολογ. /*Euchologion*/, in the order of Vespers, it is presented: Και φησιν (ο διάκονος): Ευλογησον Δέσποτα το ΰυμιαμα. Και ο Ιερεύς ευλογεί αυτό λέγων: Ευλογητος ο θεός ημών, πάντοτε /And (the Deacon) exclaims: "Bless, Master, the censer." And the Priest blesses, saying: "Blessed is our God, always"/ and at subsequent censings, the prayer "Incense we offer to Thee" is not mentioned, but only at the beginning. Therefore, it is proper to adhere to this rule at the Liturgy as well, using this prayer only once, at the beginning.
+
+[^12]: The Greek Ευχολογιον /*Euchologion*/ prescribes to cense only the Holy Table.
+
+[^13]: In some parishes, they still bend their knees and heads to the ground, as presented in the Greek Typikon, in which: Και ημών κλιναντων, και επί γης κεκυφωτων, (Καιφ. β) /And while we have bowed and bent down to the ground (Chapter 2)/.
+
+[^14]: Since no Typikon (the Synod testifies) prescribes censing in the temple here, it would be better if the deacons cense from the place of the Litiya when they arrive there. And since this is better, we have placed such a rubric in the text, and we have completely rejected the worse existing local custom of censing the Holy Table and the local icons as at "Lord, I have cried," although the Synod mentions it too. However, if there are icons in the narthex, it is proper to cense them first, for the ancient Typikons prescribe so.
+
+[^15]: To exclaim at this place "Bless, Master" is prescribed for the Deacon also by the Greek Διακονικον /*Diakonikon*/. The same is prescribed also by the *Menaion* at Great Compline of the Nativity of Christ and Theophany.
+
+[^16]: The Greek Ευχολογ. /*Euchologion*/. Likewise the Pochaiv *Triodion* at Matins of Pascha Sunday.
+
+[^17]: Some of us consider that here it is not proper to say "Lord, bless," but only "Bless," because here a blessing is not asked from the Lord, but from the Priest. But this we do not know for certain, for in other Typikons, namely in the Moscow Typikons and Horologia in the order of Vespers, and in the Greek Horologia at Daily Midnight Office, the words "Lord" are absent; however, in our Horologia (at the end of Matins) and in the *Tserkovne Oko*, and in the Greek Euchologia in the order of Vespers this word is given. Here are the words of the Roman *Euchologion*: "Ο ιερεύς ησυχως: Δόξα σοι ο θεός, η ελπις ημών, δόξα σοι; και λεγουσιν οι Αδελφοί: Δόξα, και νυν, Κύριε ευλογησον /The Priest quietly: 'Glory to Thee, O God, our hope, glory to Thee.' And the brethren say: 'Glory, Both now,' 'Lord, bless'/." Therefore, both the former and the latter are good, for it is possible to ask the Lord God for a blessing at the conclusion of the Divine Service, just as is asked at Vespers with Vigil, at the beginning of which the Deacon, or the Priest himself, exclaims: Κύριε ευλογησον /"Lord, bless"/.
+
+[^18]: (similar to Daily).
+
+[^19]: All this the Greek *Horologion* also presents. The Peremyshl Prayer Book incorrectly does not present them; incorrectly also our Horologia begin them from the Trisagion, not prescribing "Glory to Thee, our God, glory to Thee" and "O Heavenly King."
+
+[^20]: However, it is better presented in the Greek Horologia -- only one troparion, that is of the current Saint, or the four aforementioned: "O God of our Fathers" with the three others, without distinction of day. In the Greek Menaia the Saint does not always have a troparion and, when he does not have one, then the general troparia are taken -- "O God of our Fathers"; when he has one, then to the Saint. With us, because the current Saint in the *Menaion* always has a troparion, then, if it were taken always, the troparia "O God of our Fathers" would be superfluous; so that they not be superfluous, they are taken daily, and to the Saints -- only to the Polyeleos ones. The troparion of the day and of the Temple is given only in the Slavonic Typikons.
+
+[^21]: After "Blessed is our God" there will be also "Glory to Thee, our God, glory to Thee," "O Heavenly King," Trisagion etc. up to "Come, let us worship," as the *Menaion* of December 25 presents.
+
+[^22]: To the aforementioned cases which the Greek and Slavonic Typikons present, the Moscow *Octoechos* of 1782 adds also other Feasts of the Lord and of the Theotokos, presenting at the Midnight Office on the feast day itself, on the first day of Afterfeast, the troparion and kontakion of the feast; however, we do not have this new Typikon.
+
+[^23]: The Six Psalms are divided into two parts [by] "Glory, Both now," "Alleluia" (3), "Glory to Thee, O God" (3), "Lord, have mercy" (3), "Glory, Both now"; and then the typikons prescribe for the Priest to recite with uncovered head the Morning Prayers before the Holy Doors; however, because now the Six Psalms are recited without interruption, the Priest begins to recite the prayers already at the beginning of the Six Psalms. Therefore also the censing, which was prescribed in previous typikons at the first three psalms, does not exist with us, and has not for a long time, for it is no longer mentioned in the Pochaiv *Sluzhebnik* (lit. "Sluzhebnik").
+
+[^24]: E. g., St. John the Theologian, if it falls on the Sunday of the Holy Fathers.
+
+[^25]: E. g., on Sunday after Nativity.
+
+[^3a]: E. g., *Menaion* September 9 or 11.
+
+[^26]: E. g., *Menaion* December 29.
+
+[^27]: In the Greek *Euchologion* only one exclamation Οτι ευλογητοα /"For blessed is"/ is given, the same one both on Sunday and on Feasts; the Greeks do not have "Magnifications" here, for they are an invention of the Slavs.
+
+[^28]: When the first antiphon of Tone 4 must be sung, it is not proper to add to it the third troparion of the second antiphon, as some do, but it is sufficient to sing only the first antiphon with the refrain Glory, Both now before its third troparion.
+
+[^29]: So it is presented in the Latin compilation approved in Rome. However, the Ruthenian text prescribes for the Priest to hold in his hand the cross intended for kissing; if someone wants to do so, then let someone else hold the vessel with oil.
+
+[^30]: E. g., Μηναιον /*Menaion*/ 11, 15, 16, 17, 18 September.
+
+[^31]: Because regarding the troparia of the canon the text of the Synod is somewhat unclear, therefore, adhering on the whole to the essence, we have presented it here in a simplified manner.
+
+[^33]: Pochaiv *Octoechos*, Tone 4, Wednesday.
+
+[^32]: At Great Matins.
+
+[^34]: Likewise in the *Tserkovne Oko*, in the 2nd chapter: "But we recite its heirmos, which the Priest begins in a loud voice in the sanctuary; here they have the custom that the Priest, instead of the heirmos, exclaims: 'The Theotokos in songs let us magnify'." The Typikon of the Greek Euchologia on Feasts prescribes for the Deacon to sing the beginning of the heirmos: Ψάλλει ο διάκονος μεγαλοφωνως: "Την θεοτοκον και μητέρα του φωτός εν υμνοις μεγαλυνωμεν", και στιχολογειται η Τιμιότερα; ει δε μη, ψάλλει την αρχήν του ειρμού της Ι5. της εορτής /The Deacon sings very loudly: "The Theotokos and Mother of the Light let us magnify in songs," and "More honorable" is recited (read, or sung); if not, then he sings the beginning of the heirmos of the 9th ode of the Feast/. In the Order of Matins.
+
+[^35]: E. g. January 11 and 17.
+
+[^36]: E. g. December 6 and January 25 and 30.
+
+[^37]: Sometimes also according to the Greeks. February 7 and 8.
+
+[^38]: The Greek *Heirmologion* also presents: Ει μεν ουκ εστί Κυριακή, μετά τον Ειρμον το Αξιον εστίν; ει δε Κυριακή, μετά την Καταβασιαν συνακτη, το Αγιος Κύριος ο θεός ημών /If it is not Sunday, after the Heirmos -- *“It is truly meet”*; but if it is Sunday, after the Katavasia the Small Litany, "Holy is the Lord our God"/. Ed. Propag. 1876. Regarding the troparion "Holy is the Lord our God," neither the ancient Greek Typikons nor the Euchologia prescribe to take it three times, nor do they adduce its verses. However, the Slavonic rubrics and the new Constantinopolitan Typikon prescribe to take it three times; regarding the verses -- they do not agree. Our *Sluzhebnik* and the new Constantinopolitan Typikon present only one verse; ours: "Exalt ye the Lord our God, and worship at His footstool, for He is holy" (5th verse of the 98th psalm, from the last verse of which this troparion is taken). Constantinopolitan: Υψουτε Κυριον τον θεον ημών /Exalt ye the Lord our God/. The *Tserkovne Oko* and following it the Moscow Typikons present two verses, namely: 1. "For holy is the Lord our God"; 2. "Over all people is our God." In our opinion, if the troparion must be taken three times, then one verse is not sufficient; therefore it is possible to divide the verse "Exalt ye" into two parts, of which the second would begin from: "And worship at His footstool" etc.
+
+[^39]: In the Greek Horologia the given addition refers only to the first verse.
+
+[^40]: For the Pochaiv *Sluzhebnik* of 1744 also presents censing here only "if it is Sunday or a Feast."
+
+[^41]: Let it be known that besides the Great Forty Days there exist two other periods in which the rubric of the *Menaion* on September 21 prescribes also a 3rd Sessional Hymn with a Small Litany and a Kathisma before it. The first period lasts from the Apodosis of the Feast of the Holy Cross, which falls on September 21, to the Forefeast of the Nativity of Christ, which falls on December 20 exclusively. The second lasts from the Apodosis of the Feast of Theophany to Cheese-fare Sunday exclusively, that is in these two periods, in which at Sunday Matins the Polyeleos is given. However, in the content of our Psalter three Sessional Hymns and three Kathismata are given only in the Great Forty Days, so we use them.
+
+[^42]: That is, the troparion of the Saint is taken, and then -- Glory, Both now: troparion of the Feast; if two Saints, then troparion of the first Saint, Glory: of the second, Both now: of the Feast.
+
+[^43]: Sometimes inclusive, as October 23 and July 25; sometimes exclusively, that is beginning from the Praises (Pochaiv *Anthologion* November 12 and December 4, Greek *Menaion* September 23). In the first case the Katavasia will be the current one after every ode, in the second -- the heirmos of the last canon after the 3rd, 6th, 8th and 9th. ________________________________________

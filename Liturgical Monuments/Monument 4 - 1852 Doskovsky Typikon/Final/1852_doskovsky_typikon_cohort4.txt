@@ -1,6 +1,6 @@
 # Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852) — Cohort 4 (Leaves p31–p40)
 
-<!-- LEAF: p31 -->
+=== LEAF p31 ===
 
 [Book Page 60]
 
@@ -27,7 +27,7 @@ Again the First Priest, looking toward the people:
 The Deacon having entered within the holy doors with the diskos, stands at the right hand of the Priest. And the Priest places the chalice and the diskos upon the holy table, covers them, and censes the Holy Gifts thrice, saying: **"Do good, O Lord, in Thy good pleasure unto Zion..."** (*Оу҆блажѝ Го́споди благоволе́нїемъ твои́мъ Сїѡ́на...*) and the rest. The Deacon, having asked a blessing and forgiveness, goes forth unto the place of the ambo and says the litany: **"Let us complete our prayer unto the Lord..."** (*И҆спо́лнимъ моли́твꙋ на́шꙋ...*). And when the Deacon says: **"Let us love one another, that with one accord we may confess:"** (*Возлю́бимъ дрꙋ́гъ дрꙋ́га...*) The Choir: **"The Father, and the Son, and the Holy Spirit: the Trinity, one in essence and undivided."** And the Priest bows, saying secretly: **"I will love Thee, O Lord, my strength; the Lord is my support, and my refuge, and my deliverer"** (thrice), and kisses the Holy Gifts in this manner as they are covered: first the top of the holy diskos, then the top of the holy chalice (the cup), and the edge of the holy table before him.[^72]  
 If, however, there are two or more priests, then they also all kiss the covered Holy Gifts, and one another on the shoulder. The presiding Priest says: **"Christ is among us."** (*Хрїсто́съ посредѣ̀ на́съ*). And he that was kissed replies: **"He is and shall be."** (*И҆ е́сть и҆ бꙋ́детъ*). Likewise the deacons, if there are two or three, each kisses his own orarion where the image of the cross is, and one another on the shoulder, saying the same as the priests. In like manner also the Deacon bows together in the place where he stands, and kisses
 
-<!-- LEAF: p32 -->
+=== LEAF p32 ===
 
 [Book Page 62]
 
@@ -57,7 +57,7 @@ If on any day there is no Divine Liturgy, the Typika is chanted thus:
 After the prayer of the Sixth Hour, there is immediately read:  
 Psalm 102: **"Bless the Lord, O my soul, and all**
 
-<!-- LEAF: p33 -->
+=== LEAF p33 ===
 
 [Book Page 64]
 
@@ -86,7 +86,7 @@ The beginning of the Liturgy of Saint Basil together with Vespers takes place th
 * * *  
 † *The order of the sacred ministry of the Liturgy of Saint Basil, outside of Vespers, is the same as that of Saint John Chrysostom.*
 
-<!-- LEAF: p34 -->
+=== LEAF p34 ===
 
 [Book Page 66]
 
@@ -118,7 +118,7 @@ or Deacon says: **"Let us complete our evening prayer unto the Lord:"** **"For a
 
 First of all, be it known that on the Sunday before the days on which the Priest is to celebrate the Presanctified Liturgy, he performs the Proskomedia in the customary manner, save only that in addition to the first Lamb which he extracts in the customary manner, he extracts also other Lambs according to the number of days on which he is to celebrate the Presanctified Liturgy; and cutting them and piercing them, he says over each one individually these words: **"In remembrance of our Lord and God and Savior Jesus Christ;"** **"As a sheep He was led to the slaughter;"** and **"Sacrificed is the Lamb of God;"** and **"One of the soldiers pierced His side with a spear;"** and he places them upon the diskos. Then when he is to make the sign of the cross over the loaves at the invocation
 
-<!-- LEAF: p35 -->
+=== LEAF p35 ===
 
 [Book Page 68]
 
@@ -149,7 +149,7 @@ The Priest [or the Deacon, if there is one] censes the altar and the whole churc
 Thereafter they sing the stichera on **"Lord, I have cried"**, and they set 10 verses.  
 When the singers begin to chant: **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the Priest recites the Entrance Prayer and makes the Entrance with the censer without the Gospel Book, two [servers] with candles preceding him. [When, however, the Gospel Book is to be carried, on
 
-<!-- LEAF: p36 -->
+=== LEAF p36 ===
 
 [Book Page 70]
 
@@ -209,7 +209,7 @@ And again the soloist sings:
 And then both choirs and all the people standing in the church, as well as the Priest in the sanctuary, fall upon their knees and remain on their knees while the soloist sings. —  
 And having risen,
 
-<!-- LEAF: p37 -->
+=== LEAF p37 ===
 
 [Book Page 72]
 
@@ -232,7 +232,7 @@ When the Divine Mysteries are carried past, all the people and the singers fall 
 The Priest, having entered through the holy doors into the holy sanctuary, places the holy pyx upon the holy table, and kneeling down, censes it. —  
 Thereafter, having given away the censer and bowed low, he removes the presanctified holy Lamb from the holy pyx with the spoon, and with great reverence and attentiveness places it upon the diskos, saying nothing. Then having bowed low, he puts
 
-<!-- LEAF: p38 -->
+=== LEAF p38 ===
 
 [Book Page 74]
 
@@ -253,7 +253,7 @@ beginning
 from the First Sunday after All Saints, that is, the 2nd Sunday after the Descent of the Holy Spirit, down to the Sunday of the Publican and Pharisee.  
 
 ---
-<!-- LEAF: p39 -->
+=== LEAF p39 ===
 
 [Book Page 76]
 
@@ -277,7 +277,7 @@ After the Kathismas, the Sessional Hymns of the Octoechos.
 After the Blameless (Psalm 118), that is, after Kathisma 17, immediately: **"The Angelic Counsel was amazed..."** (*А҆́ггельскїй собо́ръ оу҆диви́ся...*).  
 [**Behold:** From the first Sunday after the Apodosis of the Feast of the Exaltation of the Precious Cross until December 20, and likewise from January 14 until Cheesefare Sunday, there is chanted the Polyeleos or *Many-Merciful*, that is, two psalms from the 19th Kathisma: 1st: **"Praise the name of the Lord..."** (*Хвали́те и҆́мя Госпо́дне...*); 2nd: **"Give thanks unto the Lord, for He is good; for His mercy endures forever..."** (*И҆сповѣ́дайтеся Го́сподеви, я҆́ко бла́гъ...*); customary Bulgarian refrains from the *Heirmologion* are also appended: **"Glory to the Father, and to the Son, and to the Holy Spirit; Glory to Thee, O Holy Trinity; Now and forever, and unto the ages of ages. Amen: Rejoice, thou that art full of grace. Alleluia, alleluia, alleluia, glory to Thee, O God: O Most Pure Bearer of God, Mary:"**][^89]
 
-<!-- LEAF: p40 -->
+=== LEAF p40 ===
 
 [Book Page 78]
 

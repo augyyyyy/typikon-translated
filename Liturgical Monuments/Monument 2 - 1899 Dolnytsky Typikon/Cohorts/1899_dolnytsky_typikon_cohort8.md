@@ -1,12 +1,12 @@
 ---
 
-[Leaf p141 / Page 139]
+=== LEAF p141 ===
 
 -hundred, then he censes the Cross on the Tetrapod from all four sides, chanting the Troparion: *Save, O Lord, Thy people...* with the refrain: *Glory... Now and forever...* then the Kontakion: *Thou Who wast lifted up upon the Cross of Thine Own will...* And having again approached the Tetrapod, turned towards the south, he blesses with the Cross three times, and prays with contrition: *Again we pray for the most holy...* and exclaims: *For Thou art a merciful...* And upon the completion of the 100 *Lord, have mercy*, the Priest blesses with the Cross three times, and turns towards the east, that is, to his first place.[^267] And again he makes the prayer: *Again we pray for the preservation of this holy temple...* and exclaims: *Hear us, O God our Savior...* And upon the completion of the fifth hundred, the Priest blesses with the Cross three times forcefully, the Choir chanting more forcefully the final three *Lord, have mercy*, he places the Cross upon the Tetrapod, chanting with the people: *Thy Cross do we worship, O Master...* three times with prostrations, and performs the veneration of the Cross.
 
 ---
 
-[Leaf p142 / Page 140]
+=== LEAF p142 ===
 
 ### Concerning the Veneration and Kissing of the Precious Cross
 Before the kissing,[^268] the Priest makes three metanias, and again after the kissing three,[^269] chanting with the people the Stichera of the Cross; all likewise venerate and kiss, likewise making three metanias before and after the kissing. And upon completing the kissing, the Priest blesses the people with the Cross, chanting the Troparion: *Save, O Lord...* and taking the Cross upon his head, carries it through the Royal Doors into the Holy of Holies, and places it upon the Altar, and censes it from the four sides. Then the Priest, standing before the Altar, exclaims: *Wisdom!* And we chant: *More honorable than the Cherubim...* And the Great Dismissal of the Feast: *Christ our true God, risen from the dead, through the prayers of His most pure Mother, by the power of the precious and life-giving Cross...* And after the Dismissal, the First Hour.
@@ -16,7 +16,7 @@ On the weekdays of the Afterfeast we venerate the Precious Cross upon the Tetrap
 
 ---
 
-[Leaf p143 / Page 141]
+=== LEAF p143 ===
 
 this veneration in such vestments as it happens that he celebrates the divine service, that is, sometimes in all the priestly vestments, if he performs the veneration after the Liturgy; sometimes only in Epitrakhelion and Phelonion, if he venerates, for example, after Great Vespers; sometimes only in Epitrakhelion, if he venerates, for example, after Vespers without an Entrance, or after the First Hour, except for the First Hour on the very day of the Feast, for then at the First Hour we do not make the veneration, because this already took place beforehand at Matins. Likewise the Stichera of the Cross are chanted during the Afterfeast only when a sufficient number of people is present.
 
@@ -25,7 +25,7 @@ In place of the Trisagion we chant *Thy Cross do we worship...* only on this fir
 
 ---
 
-[Leaf p144 / Page 142]
+=== LEAF p144 ===
 
 ### Saturday after the Exaltation
 #### At the Liturgy
@@ -45,7 +45,7 @@ According to our present custom, the Priest, having completed the Liturgy, veste
 
 ---
 
-[Leaf p145 / Page 143]
+=== LEAF p145 ===
 
 and having left the Chalice upon the Altar, goes forth through the Royal Doors before the Tetrapod, and while the Choir chants the Troparion *Save, O Lord...* censes the Precious Cross from the four sides of the Tetrapod, and having sung with the Choir and the people the Troparion *Thy Cross do we worship...* three times, with prostrations, steps forward, and having made a metania, kisses the Precious Cross, himself and the rest as many as there be, (the Choir chanting one of the Stichera of the Cross until all have kissed); then, while the Choir chants *Glory... Now and forever...* the Kontakion of the Cross: *Thou Who wast lifted up...* taking the Precious Cross and resting it upon his head, he carries it through the Royal Doors to the Table of Oblation of the Proskomide, and having returned to the Altar and taken the Chalice, closes the Royal Doors, departs to the Sacristy, and having divested himself of the sacred vestments and completed the prayers after Communion, detaches the Precious Cross from the basil, and stores them away.
 
@@ -56,7 +56,7 @@ and having left the Chalice upon the Altar, goes forth through the Royal Doors b
 
 ---
 
-[Leaf p146 / Page 144]
+=== LEAF p146 ===
 
 3. At Matins: at the Praises, 3 Stichera; Great Doxology; then the Troparion of the Saint, *Glory... Now and forever...* Theotokion from the lesser ones: *The mystery hidden from all ages...* which is in Tone 4, according to the Tone of the Troparion of the Saint. Insistent Ektenia, and Great Dismissal. At the Hours, Troparion and Kontakion of the Saint.
 4. At the Liturgy: Prokimenon, Epistle, Alleluia, Gospel, and Kinonikon of the Saint, then of the day in order.
@@ -71,7 +71,7 @@ We celebrate an All-Night Vigil, and chant the entire service according to the g
 
 ---
 
-[Leaf p147 / Page 145]
+=== LEAF p147 ===
 
 ### October 11
 #### Sunday of the Holy Fathers of the Seventh Ecumenical Council
@@ -79,7 +79,7 @@ The memory of these Holy Fathers is celebrated on the Sunday which occurs betwee
 
 ---
 
-[Leaf p148 / Page 146]
+=== LEAF p148 ===
 
 ### October 26
 #### The Holy Great-Martyr Demetrius the Myrrh-streamer, and Commemoration of the Great Earthquake
@@ -87,7 +87,7 @@ The memory of these Holy Fathers is celebrated on the Sunday which occurs betwee
 
 ---
 
-[Leaf p149 / Page 147]
+=== LEAF p149 ===
 
 #### A. On Weekdays
 ##### At Small Vespers
@@ -108,7 +108,7 @@ If, however, there is no Vigil, then at Compline after the Trisagion, the Kontak
 
 ---
 
-[Leaf p150 / Page 148]
+=== LEAF p150 ===
 
 4. Two Canons: of the Earthquake with the Heirmos on 6, and of the Saint on 8. Katavasia: *I shall open my mouth...* After Ode 3, Kontakion-Ikos and Sessional Hymn of the Earthquake, *Glory... Now and forever...* of the Saint. After Ode 6, Kontakion-Ikos of the Saint. After Ode 9, Exapostilarion of the Saint twice, *Glory... Now and forever...* of the Earthquake.
 5. At the Praises, Stichera of the Saint only on 4, *Glory...* of the Saint, *Now and forever...* of the Earthquake.  
@@ -126,7 +126,7 @@ If October 26 occurs on Sunday, then at Great Vespers the entire service is chan
 
 ---
 
-[Leaf p151 / Page 149]
+=== LEAF p151 ===
 
 -day; only the Canons: Resurrectional with the Heirmos on 4, and of the Earthquake on 4, and of the Saint on 6. After Ode 3, Kontakion-Ikos and Sessional Hymn of the Saint; after Ode 6, Resurrectional Kontakion-Ikos; after Ode 9, Resurrectional Exapostilarion, *Glory...* of the Saint, *Now and forever...* of the Earthquake.
 
@@ -142,7 +142,7 @@ By command of the Synod of Lviv we chant his service on this day with an All-Nig
 
 ---
 
-[Leaf p152 / Page 150]
+=== LEAF p152 ===
 
 ## November
 ### November 8
@@ -151,7 +151,7 @@ We celebrate an All-Night Vigil, and chant *Blessed is the man*; and the entire 
 
 ---
 
-[Leaf p153 / Page 151]
+=== LEAF p153 ===
 
 ### November 15
 #### Beginning of the Forty Days' Fast before the Nativity of Christ [Philip's Fast]
@@ -165,7 +165,7 @@ We celebrate an All-Night Vigil, and chant *Blessed is the man*; and the entire 
 
 ---
 
-[Leaf p154 / Page 152]
+=== LEAF p154 ===
 
 #### Typikon
 ##### A. On Weekdays
@@ -185,7 +185,7 @@ After the Canon, Kontakion of the Saint [Catherine], *Glory... Now and forever..
 
 ---
 
-[Leaf p155 / Page 153]
+=== LEAF p155 ===
 
 3. Three Canons: of the Feast with the Heirmos on 4, and of the Saint [Catherine] on 6, and of the Saint [Mercurius] on 4. Katavasia of the Feast: *Christ is born...* After Ode 3, Kontakion and Sessional Hymn of the Saint [Mercurius], *Glory...* of the Saint [Catherine], *Now and forever...* of the Feast. After Ode 6, Kontakion-Ikos of the Saint [Catherine]. After Ode 9, Exapostilarion of the Saint [Catherine], *Glory...* of the Saint [Mercurius], *Now and forever...* of the Feast.
 4. At the Praises, 6 Stichera: of the Saint [Catherine] 3, and of the Saint [Mercurius] 3; *Glory...* of the Saint [Catherine], *Now and forever...* of the Feast.  
@@ -203,7 +203,7 @@ If November 24 occurs on Sunday, the service of St. Mercurius is taken at Compli
 
 ---
 
-[Leaf p156 / Page 154]
+=== LEAF p156 ===
 
 day according to the discretion of the Superior; and the service is chanted: Resurrectional, and of the Feast, and of the Saint [Catherine], according to the general rule of a Polyeleos Saint with an Afterfeast on Sunday.
 
@@ -218,7 +218,7 @@ At *Lord, I have cried*, there are not 3 Stichera to each Saint, but 3 to the Fe
 
 ---
 
-[Leaf p157 / Page 155]
+=== LEAF p157 ===
 
 while to Peter there will be 3 Stichera at the Praises following the three Stichera of the Feast.[^284]
 
@@ -236,7 +236,7 @@ According to the Typikon, the entire service both of the Feast and of the Saints
 
 ---
 
-[Leaf p158 / Page 156]
+=== LEAF p158 ===
 
 (for to Non-Polyeleos Saints we are not obliged to take it); the Epistle and Gospel we take from the Feast itself.
 
@@ -250,7 +250,7 @@ The service of St. Peter is transferred to another day according to the discreti
 
 ---
 
-[Leaf p159 / Page 157]
+=== LEAF p159 ===
 
 -maculate Conception of the Theotokos, for this reason the Synod of Lviv, having approved the newly composed Service of the Immaculate Conception of the Theotokos, commanded it to be chanted in all our Churches, arranged for 8 days, of which the first, which is December 8, comprises the Forefeast, the second (Dec. 9) the Feast, the following six the Afterfeast, and the last (Dec. 16) the Apodosis of the Feast. While the ancient service (Dec. 9), that it be not abandoned, it commanded to be transferred backward to December 8 as a Forefeast service, having given it, however, a lesser form, that is to say, daily.
 
@@ -262,7 +262,7 @@ The final five consecutive Sundays are: 28, 29, 30, 31, and 32, after which foll
 
 ---
 
-[Leaf p160 / Page 158]
+=== LEAF p160 ===
 
 and the Pharisee, the 10th before the Resurrection [Pascha], with which also the Triodion begins. While the five Menaion Sundays relating to the Feast of the Nativity of Christ and Theophany are: 1: of the Forefathers, the second before the Nativity of Christ; 2: of the Fathers, the first before the Nativity of Christ; 3: after the Nativity; 4: before the Enlightenment (Theophany); 5: after the Enlightenment.
 

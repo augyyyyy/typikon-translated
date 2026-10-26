@@ -3,7 +3,7 @@
 
 > [!NOTE]
 > **Historical & Canonical Significance**  
-> Cohort 3 opens the official monumental record of the **1891 Lviv Provincial Synod** (*Чинности и рѣшеня руского провинціяльного Собора въ Галичинѣ ôтбувшого ся во Львовѣ въ роцѣ 1891*). It encompasses the original binding and archival provenance (from the library of Dr. Yuriy Mulyk-Lutsyk donated to Kyiv-Mohyla Academy), the canonical inspection decree, the official Title Page (Stauropegion Institute Typography, 1896), the initial petitions and diplomatic correspondence with the Holy See (Pope Leo XIII and Cardinal Giovanni Simeoni), the appointment of Apostolic Delegate Archbishop Agostino Ciasca, O.S.A., the Solemn Pastoral Convocation Encyclical by Metropolitan Sylvester Sembratovych establishing the biblical and theological foundation of synodal authority and mandatory eparchial prayer rules, and the initial chapters of the official Synodal Ordo (*Directorium*) regulating the solemn Preparatory General Congregation in the Metropolitan Palace.
+> Cohort 1 opens the official monumental record of the **1891 Lviv Provincial Synod** (*Чинности и рѣшеня руского провинціяльного Собора въ Галичинѣ ôтбувшого ся во Львовѣ въ роцѣ 1891*). It encompasses the original binding and archival provenance (from the library of Dr. Yuriy Mulyk-Lutsyk donated to Kyiv-Mohyla Academy), the canonical inspection decree, the official Title Page (Stauropegion Institute Typography, 1896), the initial petitions and diplomatic correspondence with the Holy See (Pope Leo XIII and Cardinal Giovanni Simeoni), the appointment of Apostolic Delegate Archbishop Agostino Ciasca, O.S.A., the Solemn Pastoral Convocation Encyclical by Metropolitan Sylvester Sembratovych establishing the biblical and theological foundation of synodal authority and mandatory eparchial prayer rules, and the initial chapters of the official Synodal Ordo (*Directorium*) regulating the solemn Preparatory General Congregation in the Metropolitan Palace.
 
 ---
 
@@ -35,6 +35,7 @@
 ## Official Front Matter & Provenance
 
 ### Original Outer Binding
+=== LEAF p1 ===
 *(Physical Leaf p1)*
 
 **THE SYNOD OF LVIV**  
@@ -44,6 +45,7 @@
 ---
 
 ### Archival Provenance & Accession Flyleaf
+=== LEAF p2 ===
 *(Physical Leaf p2)*
 
 *Donation copy to the University of "Kyiv-Mohyla Academy" from the archive of the late Dr. Yuriy Mulyk-Lutsyk, presented by his wife, Mrs. Valentyna Mulyk-Lutsyk (Bonitenko).*  
@@ -55,6 +57,7 @@
 ---
 
 ### Canonical Inspection Inscription
+=== LEAF p3 ===
 *(Physical Leaf p3)*
 
 *Presented at the canonical inspection on the 22nd day of September, 1901.*  
@@ -63,6 +66,7 @@
 ---
 
 ### Official Synodal Title Page
+=== LEAF p4 ===
 *(Physical Leaf p4)*
 
 # ACTS AND DECREES
@@ -83,17 +87,28 @@
 
 ## Document I: Letter of the Ruthenian Metropolitan Province of Halych to the Holy Apostolic See
 ### Humbly Requesting and Awaiting Permission to Convoke and Celebrate a Synod
-*(Physical pp. 3–5 / Leaves p5–p7)*
+=== LEAF p5 ===
+*(Physical Page 3 / Leaf p5)*
 
 **Most Holy Father!**
 
 Ever since the Ruthenian people embraced holy union with the Holy Apostolic See, which was happily accomplished in the year 1595, they have celebrated in the course of 125 years only one synod, and that a provincial one in the year 1720, in the city of Zamość [^1]. That from that time onward no other synod was celebrated was due to many impeding circumstances, above all the political partition of the realm, namely the Kingdom of Poland, of which the Ruthenian principality constituted no small part. Through that partition the dioceses were likewise severed from one another and annexed to new states, namely to Russia and Austria [^2].
 
-The Churches of the Catholic Ruthenians who stood under the dominion of Russia experienced indeed at first a semblance of certain tolerance from the rulers of Russia; nevertheless even then the Ruthenian Churches were not granted a genuine opportunity freely to develop their spiritual welfare. With time, however, even that apparent liberty was completely taken away; what is more, through the employment of diverse artifices and intrigues on the part of the schismatics, the Ruthenian Church in the aforementioned state was not only unable to celebrate any synod, but, alas! led by the most unhappy fate, fell into ruin; for, having been forcibly dragged into lamentable apostasy and compelled to draw and drink foul water from the cesspool of schism, she lost the vital power of the spirit, and, having abandoned Peter, who by eternal decree from Christ the Lord was established as the lawful Pastor of the flock of His sheep, she perished miserably.
+The Churches of the Catholic Ruthenians who stood under the dominion of Russia experienced indeed at first a semblance of certain tolerance from the rulers of Russia; nevertheless even then the Ruthenian Churches were not granted a genuine opportunity freely to develop their spiritual welfare.
+
+=== LEAF p6 ===
+*(Physical Page 4 / Leaf p6)*
+
+With time, however, even that apparent liberty was completely taken away; what is more, through the employment of diverse artifices and intrigues on the part of the schismatics, the Ruthenian Church in the aforementioned state was not only unable to celebrate any synod, but, alas! led by the most unhappy fate, fell into ruin; for, having been forcibly dragged into lamentable apostasy and compelled to draw and drink foul water from the cesspool of schism, she lost the vital power of the spirit, and, having abandoned Peter, who by eternal decree from Christ the Lord was established as the lawful Pastor of the flock of His sheep, she perished miserably.
 
 As regards the other part of the Ruthenian Church, which Divine Providence was pleased to entrust to the solicitude of the Rulers of Austria, she, by the grace of God down to this day, ever listens to the voice of the Supreme Pastor, and follows Him whithersoever He leads, and flourishes, nourished by the wholesome food provided unto her by Him; yet notwithstanding this, neither was she in a position to celebrate synods. For the two Ruthenian dioceses situated in Hungary, on account of territorial distance, possess no hierarchical union with the Metropolitanate of Halych, but are subject to the Primate of Hungary, on which account from almost immemorial times they have had no connection with the Galician Ruthenians, especially since the state was divided, as it were, into two parts, namely into the Austrian and the Hungarian. The third diocese, that of Križevci (of the Holy Cross), situated in Croatia, which employs in its sacred ministrations the very same rite and liturgical language as the Ruthenians, is likewise not joined to the Metropolitanate of Halych, but is subject to the Archbishop of Croatia and Slavonia of the Latin rite [^3]; so that when Your Holiness happily assumed the governance of the universal Church, only two Catholic Ruthenian dioceses remained in connection with each other, and these were not in a position to hold a provincial synod.
 
-When, however, the Most Merciful God was pleased to choose Your Holiness, Most Blessed Father, as the Pastor of His Flock, and in this manner commanded You to shine upon the horizon of His Church as a heavenly luminary, whose beneficent rays have illuminated us also, although situated upon the farthest frontiers; it is only now, when through the wise foresight of Your Holiness our Ruthenian Hierarchy has been augmented by one Bishopric, that the possibility of celebrating a synod opens before us. On the other hand, the necessity of a synod is likewise manifested on account of the diversity in the holy rites, which, by reason of the accession of a new Diocese, becomes even greater. Wherefore we, the three Hierarchs of the Dioceses of the Galician Province, having taken counsel among ourselves—although the great difficulties that must yet be overcome with respect to the expenses that the celebration of such a synod requires are not unknown to us—nevertheless, placing our hope in God, have resolved to celebrate a Provincial Synod, which is to take place in the following year in Lviv.
+When, however, the Most Merciful God was pleased to choose Your Holiness, Most Blessed Father, as the Pastor of His Flock, and in this manner commanded You to shine upon the horizon of His Church as a heavenly luminary, whose beneficent rays have illuminated us also, although situated upon the farthest frontiers; it is only now, when through the wise foresight of Your Holiness our Ruthenian Hierarchy has been augmented by one Bishopric, that the possibility of celebrating a synod opens before us. On the other hand, the necessity of a synod is likewise manifested on account of the diversity in the holy rites, which, by reason of the accession of a new Diocese, becomes even greater. Wherefore we, the three Hierarchs of the Dioceses of the Galician Province, having taken counsel among ourselves—although the great difficulties that must yet be overcome
+
+=== LEAF p7 ===
+*(Physical Page 5 / Leaf p7)*
+
+with respect to the expenses that the celebration of such a synod requires are not unknown to us—nevertheless, placing our hope in God, have resolved to celebrate a Provincial Synod, which is to take place in the following year in Lviv.
 
 Before the same is canonically announced and happily accomplished, We have deemed it our duty to have recourse to that Heavenly Light which is unceasingly illuminated by the light of the Divine Spirit, the Comforter—to the Infallible Pastor teaching from the Chair of Peter, unto You, Most Holy Father, and to implore the Apostolic Blessing, which I, the humbly subscribed Metropolitan, for the Bishops, the Clergy, and the faithful Ruthenian people devoted unto You, prostrate at the feet of Your Holiness, together with my Brother Bishops, with the greatest reverence, most fervently implore.
 
@@ -108,11 +123,15 @@ Of Your Holiness the most humble, most devoted, and most obedient servant:
 
 ## Document II: Letter of the Metropolitan of the Ruthenian Province of Halych to Cardinal Simeoni
 ### Prefect of the Sacred Congregation for the Propagation of the Faith, Regarding the Ruthenian Provincial Synod to Be Celebrated in Lviv
-*(Physical pp. 5–7 / Leaves p7–p9)*
 
 **Your Eminence!**
 
-To the highly valued letter of Your Eminence of January 18 of the past year, No. 21, I did not wish immediately to reply, because I deemed it necessary first to confer personally with both of my fellow Bishops, which could not take place earlier than after the conclusion of the sessions of the Provincial Diet, at which I, as Deputy Marshal, was obliged constantly to be present, and at times even twice a day. Having thus discharged that duty of mine, we traveled with the Right Reverend Bishop of Stanyslaviv to Przemyśl, in order to confer with the Bishop of that city, the Right Reverend Stupnytsky. On the 28th day of January of this year, having communicated to him the letter of Your Eminence and held a consultation regarding the reply that ought to be given, we agreed that in general nothing would stand in the way—on the contrary, it would be advantageous and honorable for the Synod—if an Apostolic Delegate were present and presided over it; yet so that the speech in the Synod, both in assemblies and in sessions, should be Ruthenian, not excluding Latin in the event that anyone should feel competent properly to express himself therein [^4].
+To the highly valued letter of Your Eminence of January 18 of the past year, No. 21, I did not wish immediately to reply, because I deemed it necessary first to confer personally with both of my fellow Bishops, which could not take place earlier than after the conclusion of the sessions of the Provincial Diet, at which I, as Deputy
+
+=== LEAF p8 ===
+*(Physical Page 6 / Leaf p8)*
+
+Marshal, was obliged constantly to be present, and at times even twice a day. Having thus discharged that duty of mine, we traveled with the Right Reverend Bishop of Stanyslaviv to Przemyśl, in order to confer with the Bishop of that city, the Right Reverend Stupnytsky. On the 28th day of January of this year, having communicated to him the letter of Your Eminence and held a consultation regarding the reply that ought to be given, we agreed that in general nothing would stand in the way—on the contrary, it would be advantageous and honorable for the Synod—if an Apostolic Delegate were present and presided over it; yet so that the speech in the Synod, both in assemblies and in sessions, should be Ruthenian, not excluding Latin in the event that anyone should feel competent properly to express himself therein [^4].
 
 The reasons for such a resolution are precisely these two:  
 First: the small number of those who might possess sufficient practice to express themselves in Latin;  
@@ -122,7 +141,12 @@ In the event that Your Eminence should be pleased to accept that resolution of o
 
 Relying upon all that the Holy See shall be pleased to ordain, we have the honor to inform Your Eminence that we have resolved to hold the Synod in the month of September or October, and this for the reason that we may have sufficient time to prepare the subject matters, which are so diverse and so important, and to examine the labors prepared by the various commissions, so that they may be mutually communicated and definitively resolved.
 
-Awaiting the esteemed commands of Your Eminence, wishing every blessing from the Lord, and thanking You for Your untiring solicitude for the good of this portion of the Lord's vineyard entrusted especially unto me, I approach with reverence to kiss the sacred hands of Your Eminence and declare myself with the deepest veneration of my heart,
+Awaiting the esteemed commands of Your Eminence, wishing every blessing from the Lord, and thanking You for Your untiring solicitude for the good of this portion of the Lord's vineyard entrusted especially unto me, I approach with reverence to kiss the sacred
+
+=== LEAF p9 ===
+*(Physical Page 7 / Leaf p9)*
+
+hands of Your Eminence and declare myself with the deepest veneration of my heart,
 
 *In Lviv, on the 13th day of February, 1889.*
 
@@ -137,7 +161,6 @@ Of Your Eminence the most humble and most devoted servant:
 
 ## Document III: Letter of Cardinal Giovanni Simeoni to the Ruthenian Metropolitan of Halych
 ### Informing Him of the Blessing of the Holy Father and the Appointment of Archbishop Agostino Ciasca
-*(Physical pp. 7–8 / Leaves p9–p10)*
 
 *Rome, the 10th day of August, 1891.*
 
@@ -145,7 +168,12 @@ Of Your Eminence the most humble and most devoted servant:
 
 Your Grace informed me by your valued letter of February 13, 1889, that you had agreed with your colleagues that the presence and presidency of an Apostolic Delegate would not be an obstacle to the Provincial Synod, but on the contrary would be advantageous and bring honor, and expressed the desire that the Holy See would be pleased to send a person who would give no occasion unto the Ruthenians to suspect any political tendency unfavorable to their ecclesiastical and national affairs.
 
-Now it rejoices me that I can inform you that the Holy Father received this resolution with pleasure, and was pleased to appoint to the honorable office of President of the same Synod Monsignor, the Most Reverend Father Agostino Ciasca of the Order of Augustinians, Archbishop of Larissa [^5]. The said Prelate has for a long time been a Consultor of this Sacred Congregation, unto which he has rendered important services, both in the capacity of President of the Papal Interpreters of the same Congregation for Oriental languages, in which he is exceedingly experienced, and in commissions of great weight which were repeatedly entrusted unto him, and which he discharged with great knowledge and prudence. For these and other illustrious services of his, the Holy Father elevated him to the important position of Prefect of the Archives of the Holy See. It is pleasing to me, therefore, to assure you that he will respond completely to the confidence which the Holy Father has reposed in him, and will fulfill his office to the satisfaction of the Ruthenian Episcopate.
+Now it rejoices me that I can inform you that the Holy Father received this resolution with pleasure, and was pleased to appoint to the
+
+=== LEAF p10 ===
+*(Physical Page 8 / Leaf p10)*
+
+honorable office of President of the same Synod Monsignor, the Most Reverend Father Agostino Ciasca of the Order of Augustinians, Archbishop of Larissa [^5]. The said Prelate has for a long time been a Consultor of this Sacred Congregation, unto which he has rendered important services, both in the capacity of President of the Papal Interpreters of the same Congregation for Oriental languages, in which he is exceedingly experienced, and in commissions of great weight which were repeatedly entrusted unto him, and which he discharged with great knowledge and prudence. For these and other illustrious services of his, the Holy Father elevated him to the important position of Prefect of the Archives of the Holy See. It is pleasing to me, therefore, to assure you that he will respond completely to the confidence which the Holy Father has reposed in him, and will fulfill his office to the satisfaction of the Ruthenian Episcopate.
 
 The aforementioned Most Reverend Father intends to depart at the beginning of the following month of September, in order to be on site at a suitable time for the purpose of conferring with Your Grace regarding the mission that has been entrusted unto him. He will take with him one priest as his private Secretary, and one servant. Since the Sacred Congregation assumes upon itself the expenses necessary for their maintenance, I therefore request you to inform me whether you will be in a position to procure for them suitable lodgings in the local Seminary, or in some other building.
 
@@ -162,7 +190,8 @@ Of Your Grace the most sincerely devoted servant:
 
 ## Document IV: Announcement of the Convocation of the Ruthenian Provincial Synod
 ### Solemn Pastoral Letter of Metropolitan Sylvester Sembratovych
-*(Physical pp. 9–16 / Leaves p11–p18)*
+=== LEAF p11 ===
+*(Physical Page 9 / Leaf p11)*
 
 **SYLVESTER SEMBRATOVYCH,**  
 *By the Grace of God and the Favor of the Holy Apostolic See, Metropolitan of Halych, Archbishop of Lviv, Bishop of Kamianets-Podilskyi, Privy Councillor of His Imperial and Royal Apostolic Majesty, Member of the House of Lords of the Austrian Imperial Parliament, Vice-Marshal and Member of the Diet of the Kingdom of Galicia and Lodomeria with the Grand Duchy of Cracow, Doctor of Sacred Theology, etc.*
@@ -173,7 +202,12 @@ Of Your Grace the most sincerely devoted servant:
 **Beloved in Christ!**
 
 ### Theological Foundation
-The highest good of man, unto which he is bound to strive with all his powers, consists in the attainment of the ultimate end destined for him by God. Above this there is nothing greater and nothing more important: *"For one thing is necessary,"* saith the Savior unto Martha, the sister of Mary (Luke 10:42): the salvation of one's soul. And indeed: *"For what shall it profit a man,"* saith the same Divine Savior of ours in another place, *"if he shall gain the whole world, and lose his own soul? Or what shall a man give in exchange for his soul?"* (Mark 8:36–37).
+The highest good of man, unto which he is bound to strive with all his powers, consists in the attainment of the ultimate end destined for him by God. Above this there is nothing greater and nothing more important: *"For one thing is necessary,"* saith the Savior unto Martha, the sister of Mary (Luke 10:42): the salvation of one's soul. And indeed: *"For what shall it profit a man,"* saith the same Divine
+
+=== LEAF p12 ===
+*(Physical Page 10 / Leaf p12)*
+
+Savior of ours in another place, *"if he shall gain the whole world, and lose his own soul? Or what shall a man give in exchange for his soul?"* (Mark 8:36–37).
 
 And when the entire human race through the sin of our first parents turned away from God, wandered from the right way, and fell into the abyss of eternal perdition, God, in His ineffable love for mankind, had mercy upon the unhappy condition of man, that most illustrious creation, the work of His all-powerful hands, and in a wondrous manner surpassing all human comprehension, prepared anew salvation for him, and that through the great mystery of the Incarnation of His Only-Begotten Son. For, prizing highly the salvation of man, He so loved him that He hesitated not to surrender even His own Son for him: *"For God so loved the world, as to give His Only-Begotten Son, that whosoever believeth in Him should not perish, but may have life everlasting,"* declareth the same Savior Himself (John 3:16). And He delivered Him over to toils, poverty, dishonor, suffering, and torments, even unto death upon the Cross. O truly! great is the mercy of God, great is His love toward the human race!
 
@@ -181,14 +215,24 @@ And how highly the Son of God Himself valued the salvation of human souls is dem
 
 And after His glorious Resurrection, when He was about to ascend unto His Heavenly Father, He manifested that great love of His for His sheep and solicitude for their eternal salvation also in this, that, as the great Doctor of the Church St. John Chrysostom observeth: passing over the other Apostles, He committed the pasturing of His sheep unto that one among them who was the most eminent and who loved Him more than the rest, and consequently loved His sheep also (Vol. 87 and *On the Priesthood*, Book 2, ch. 1): *"Jesus saith to Simon Peter: Simon, son of John, lovest thou Me more than these?... Feed My sheep... Feed My lambs"* (John 21:15–18).
 
-The election of the Apostles, the establishment of St. Peter as Supreme Pastor, the institution of the Holy Mystery of the Priesthood, the commission given to the Apostles and their successors to preach, baptize, and administer the Holy Mysteries, is a clear witness of the fervent love and solicitude of Christ for men, and a luminous proof of how highly He valued the eternal salvation of their souls: *"Going into the world, preach the Gospel to every creature. He that believeth and is baptized shall be saved"* (Mark 16:15).
+The election of the Apostles, the establishment of St. Peter as Supreme Pastor, the institution of the Holy Mystery of the Priesthood, the commission given to the Apostles and their successors to preach, baptize, and administer the Holy Mysteries, is a clear witness of the fervent love and solicitude of Christ
+
+=== LEAF p13 ===
+*(Physical Page 11 / Leaf p13)*
+
+for men, and a luminous proof of how highly He valued the eternal salvation of their souls: *"Going into the world, preach the Gospel to every creature. He that believeth and is baptized shall be saved"* (Mark 16:15).
 
 ### Apostolic Succession & Synodal Tradition
 Now Christ instituted the Church of the New Testament, and willed that this same Church, founded by Him for the purpose of preparing eternal salvation for men, should not be bound to one single place or to one single nation, as was the church of the Old Testament, but that she should spread throughout the whole world and encompass all nations; wherefore also that power of governance which He bequeathed unto the Bishops in order further to carry on the work of salvation, He did not restrict to the single person of Peter and his successors (as was the case in the Old Testament, when the power of governance was tied to the person of Aaron and his successors), but distributed the same likewise among the other Apostles and their successors the Bishops; and they, together with St. Peter and under the primacy of St. Peter and his Successors, care, both of themselves and with the assistance of the lower ministers, the priests, called by them, for the salvation of souls; and thus they cooperate with God Himself in that work which, among all divine works, is the most sublime work of God.
 
 And although each individual pastor of souls is bound himself to answer for the sheep committed unto him, nevertheless, because this work is of exceeding great weight—so that, as St. John Chrysostom affirmeth, Christ would not have hesitated to undergo death for the salvation of even a single soul—therefore all chief Pastors endeavor to summon unto their counsel and assistance other lower fellow laborers also, who in spiritual matters are more experienced and above all solicitous for the salvation of souls, so that by every possible means they may secure their salvation, and lest at any time the Lord should require their blood at their hands. And if in matters of greater weight, even temporal ones, whether public or private—especially when it concerneth the preservation of the integrity of the state or the health of the body—men are accustomed to call into common counsel those who are most skilled in art, wisdom, or statecraft; far more just is it that such consultations should take place where the question concerneth the attainment of the highest good and the averting of the greatest evil for man, and what is more, for all mankind.
 
-Common consultations of this kind among churchmen assembled in one place, termed Councils or Synods, have been held, beginning from the Apostles of Christ themselves, very frequently in the Christian Church, and have always been regarded as one of the most suitable means for acquiring the necessary knowledge for the proper and successful guidance of souls unto eternal salvation, and for gaining skill in steering the ecclesiastical ship, so as to conduct those committed to their charge amidst the perilous waves of the agitated sea of this world unto the tranquil haven of heaven.
+Common consultations of this kind among churchmen assembled in one place, termed Councils or Synods, have been held, beginning from the Apostles of Christ themselves, very frequently in the Christian Church, and have always been regarded as one of the
+
+=== LEAF p14 ===
+*(Physical Page 12 / Leaf p14)*
+
+most suitable means for acquiring the necessary knowledge for the proper and successful guidance of souls unto eternal salvation, and for gaining skill in steering the ecclesiastical ship, so as to conduct those committed to their charge amidst the perilous waves of the agitated sea of this world unto the tranquil haven of heaven.
 
 ### Historical Succession of Ruthenian Synods
 And thus the Most Holy Ecumenical Pontiffs, the Popes of Rome, as Supreme Pastors of the entire Church of Christ, in the course of nineteen centuries have held more or less nineteen Councils, called Ecumenical Councils. We have likewise a great number of assemblies held by the presiding Hierarchs of Provinces, which are called Provincial Councils or Synods, and a multitude of assemblies celebrated by individual Bishops of dioceses, which are called Diocesan or Eparchial Synods. And our Ruthenian Church also, following the example of the same Catholic Church—from which she received the fruitful branch that, engrafted upon her healthy trunk, immediately took root and grew into a great fruitful tree, bearing many fruits of faith and splendid virtues pleasing unto God—animated by that same spirit of zeal for the salvation of souls, in order to manifest her vitality, celebrated many Provincial Councils, of which the most notable were the following:
@@ -196,14 +240,24 @@ And thus the Most Holy Ecumenical Pontiffs, the Popes of Rome, as Supreme Pastor
 * That of Kobryn, held after the conclusion of the Union of the Ruthenian Bishops with the Holy Apostolic See of Rome, under the leadership of Metropolitan Rutsky of blessed memory in the year 1626, confirmed by Pope Urban VIII of blessed memory [^7];
 * And the last one, appointed for Lviv, but on account of the plague celebrated in the city of Zamość under Metropolitan Leo Kishka, under the presidency of the Apostolic Nuncio, Archbishop Girolamo Grimaldi, in the year 1720, confirmed by His Holiness Pope Benedict XIII in the year 1724.
 
-Yet although Holy Catholic Church, seeing and recognizing the great benefits that Councils customarily bring, commandeth by decree of the Council of Trent that the same be celebrated in every ecclesiastical province at least every three years (Sess. 24, ch. 2 *de Reformatione*); and according to the prescription of our Council of Kobryn, at least every fourth year (see Kulczyński, *Specimen Ecclesiae Ruthenicae*); nevertheless in our Ruthenian Church 171 years have already elapsed since the last Synod of Zamość, in which time not a single Provincial Synod has been celebrated, and that on account of circumstances, partly political and partly religious, unfavorable to the well-being of the Church of our Ruthenian people. Namely: on account of the hostile persecution of holy Union with the Catholic Church, there was no Provincial Synod in the Province of Kyiv, and that persecution, alas! had as its consequence the destruction of the holy Union, at least externally, in the Russian realm. As for our Galician Province, the chief cause for the non-celebration of Synods was especially the lack of the requisite number of eparchial Bishops.
+Yet although Holy Catholic Church, seeing and recognizing the great benefits that Councils customarily bring, commandeth by decree of the Council of Trent that the same be celebrated in every ecclesiastical province at least every three years (Sess. 24, ch. 2 *de Reformatione*); and according to the prescription of our Council of Kobryn, at least every fourth year (see Kulczyński, *Specimen Ecclesiae Ruthenicae*); nevertheless in our Ruthenian Church 171 years have already elapsed since the last Synod of Zamość, in which time not a single Provincial Synod has been celebrated, and that on account of circumstances, partly political and partly religious, unfavorable to the well-being of the Church of our
+
+=== LEAF p15 ===
+*(Physical Page 13 / Leaf p15)*
+
+Ruthenian people. Namely: on account of the hostile persecution of holy Union with the Catholic Church, there was no Provincial Synod in the Province of Kyiv, and that persecution, alas! had as its consequence the destruction of the holy Union, at least externally, in the Russian realm. As for our Galician Province, the chief cause for the non-celebration of Synods was especially the lack of the requisite number of eparchial Bishops.
 
 ### Imperial Patronage & Creation of Stanyslaviv
 Now, however, since on the one hand our Ruthenian Church in the Galician Province, remaining under the paternal sceptre of the magnanimous and pious successor of the devout Rudolf of Habsburg, His Majesty our God-preserved Emperor Franz Joseph I, the most illustrious Protector of the holy Catholic faith, has recovered full freedom to profess her holy faith and cherish her native Ruthenian rite, as also autonomous governance; and since on the other hand the Great Pope Leo XIII, that universal Hierarch who loveth our Ruthenian people and is exceedingly solicitous for the welfare of our Ruthenian Church and of our rite, in agreement with and after magnanimous and generous endowment by the same most gracious Emperor gloriously reigning over us, ordained the creation of the Diocese of Stanyslaviv and was pleased to establish a third Bishop in our Province, whereby every hindrance to the celebration of Synods was removed:
 
 Therefore We, whom it pleased God according to His unsearchable counsels to choose as Ruler of the Metropolitan Archprimary Diocese of Lviv, and thereby to place upon the heights for the watch of this ecclesiastical Province—conscious in the full measure of that great calling of ours, deeply convinced of the importance of that task which God was pleased to lay upon Us, though His least servant, and conscious likewise that of the proper fulfillment of that obligation an account will one day especially be required of Us—having frequently and diligently meditated upon all that is set forth above, resolved to make known unto the Holy Apostolic See our conceived intention and mature counsel to celebrate a Provincial Synod in our Archcathedral church, and to submit the same in humility for approval.
 
-And having received the most favorable approval of that intention of ours, as also the approval of the Program of the Ordo to be observed in the celebration of the Synod, by letter issued by His Eminence the Cardinal Prefect of the Sacred Congregation for the Propagation of the Faith for the Oriental Rites, Giovanni Simeoni, under date of July 4 of the current year, No. 337/14: We hasten unto you with that joyful tidings, and by this our present Encyclical We announce the Provincial Synod to be celebrated in Lviv; and appointing the first solemn and public session thereof for the 27th (15th) day of September of the current year, that is, on the 14th Sunday after the Descent of the Holy Spirit, which is at the same time the Sunday after the Exaltation of the Precious Cross—before which day there will take place also the 1st Preparatory General Congregation on Thursday morning, September 24 (12)—We invite in the Lord, by our Metropolitan authority, unto that same Synod:
+And having received the most favorable approval of that intention of ours, as also the approval of the Program of the Ordo to be observed in the celebration of the Synod, by letter issued by His Eminence the Cardinal Prefect of the Sacred Congregation for the Propagation of the Faith for the Oriental Rites, Giovanni Simeoni, under date of July 4 of the current year, No. 337/14: We hasten unto you with that joyful tidings, and by this our present Encyclical We announce the Provincial Synod to be celebrated in
+
+=== LEAF p16 ===
+*(Physical Page 14 / Leaf p16)*
+
+Lviv; and appointing the first solemn and public session thereof for the 27th (15th) day of September of the current year, that is, on the 14th Sunday after the Descent of the Holy Spirit, which is at the same time the Sunday after the Exaltation of the Precious Cross—before which day there will take place also the 1st Preparatory General Congregation on Thursday morning, September 24 (12)—We invite in the Lord, by our Metropolitan authority, unto that same Synod:
 
 ### Formal Synodal Summons
 Above all, you, the Most Reverend Bishops and spiritual Rulers of the Ruthenian Eparchies of Przemyśl and Stanyslaviv, as our fellow laborers in pastoring Christ's flock in this Province, **with decisive voice** (*голосъ рѣшаючий* / *votum deliberativum*) [^8];
@@ -212,7 +266,12 @@ The Most Reverend and Very Reverend Chapters: our Metropolitan Chapter of Lviv a
 
 Finally, following the custom of our preceding Synods, We invite also the Highly Honored Senior of our praiseworthy Ruthenian Stauropegion Institute, the Most Illustrious Doctor and Professor of the University of Lviv, Isidore Sharanevych, as **witness and hearer** (*свѣдокъ и слушатель* / *auditor et testis*) of this our Provincial Synod [^9].
 
-We implore you, at the same time, Most Reverend Brethren in Christ, Bishops and spiritual Rulers of the Dioceses of Przemyśl and Stanyslaviv, that you be pleased to summon unto the same our Provincial Synod on your part—besides your Most Reverend Episcopal Chapters, likewise invited by Us through this our present Metropolitan Encyclical—the Very Reverend Fathers Deans, the Reverend Fathers Hegumens of Monasteries situated within the territory of your Dioceses, and other most distinguished and experienced churchmen according to your pleasure; so that We, assembled in Christ and with Christ in our midst, with the luminous and conscientious counsel of those our fellow laborers, as spiritual Rulers of this Province, may be able to decide and enact at this our Synod that which may serve unto the honor and greater praise of the One God in the Trinity, unto the glory of our Holy Catholic Church, unto the elevation and progress of our native Ruthenian rite, and unto the welfare, benefit, and salvation of our people committed by God unto Us.
+We implore you, at the same time, Most Reverend Brethren in Christ, Bishops and spiritual Rulers of the Dioceses of Przemyśl and Stanyslaviv, that you be pleased to summon unto the same our Provincial Synod on your part—besides your Most Reverend Episcopal Chapters, likewise invited by Us through this our present Metropolitan Encyclical—the Very Reverend Fathers Deans, the Reverend Fathers Hegumens of Monasteries situated within the territory of your Dioceses, and other most distinguished and experienced churchmen according to your pleasure; so that We, assembled in Christ and with Christ in our midst, with the luminous and conscientious counsel of those our fellow laborers, as spiritual Rulers of this Province, may be able to decide and enact at this our Synod that which may serve unto the honor and greater praise of the One God in the Trinity, unto the glory of our Holy Catholic Church,
+
+=== LEAF p17 ===
+*(Physical Page 15 / Leaf p17)*
+
+unto the elevation and progress of our native Ruthenian rite, and unto the welfare, benefit, and salvation of our people committed by God unto Us.
 
 ### Mandatory Prayer Rule & Bell-Ringing Rubrics
 Yet remembering withal that *"every good gift and every perfect gift is from above, coming down from the Father of lights"* (James 1:17), and that we cannot even think anything saving without the grace of the Holy Spirit: We implore you, Most Reverend Brethren, and beseech you that you yourselves in your prayers offer unto God humble petitions for the good success of this our Synod, as also that you be pleased to call upon your subject Very Reverend Eparchial Clergy and all the faithful diocesans committed unto your solicitude, to join in common prayer for the intention of the good success of this our Synod; even as I, by this my present Encyclical, ordain the same in my Metropolitan Archeparchy, calling in the Lord upon the Very Reverend Archeparchial Clergy:
@@ -226,10 +285,13 @@ Moreover, We ordain that in all churches, at least parish ones, on the 14th, 15t
 
 We append also unto this Encyclical the Program of the Ordo of the Synod to be celebrated, one copy for each Parish.
 
+=== LEAF p18 ===
+*(Physical Page 16 / Leaf p18)*
+
 ### Papal Confirmation & Appointment of Archbishop Ciasca
 **Most Reverend Bishops, Very Reverend Fathers, and Brethren in Christ!**
 
-At this last moment, as We were concluding the printing of our Encyclical, We received that joyful communication which, by means of a dispatch of His Eminence Giovanni Cardinal Simeoni, Prefect of the S. Congregation for the Propagation of the Faith, under date of August 10 of the current year, No. 368, was communicated unto Us: that His Holiness Pope Leo XIII was graciously pleased to impart, for the inception and prosperous conduct and success of the synodal labors, His Apostolic Blessing; and at the same time, to confer greater honor and importance upon this our Synod, to appoint as His Delegate and President:
+At this last moment, as We were concluding the printing of our Encyclical, We received that joyful communication which, by means of a dispatch of His Eminence Giovanni Cardinal Simeoni, Prefect of the S. Congregation for the Propagation of the Faith, under date of August 10 of the current year, No. 368, was communicated unto Us: that His Holiness Pope Leo XIII was graciously pleased to impart, for the inception and prosperous conduct and success of the synodal labors, His Apostolic Blessing; and at the time, to confer greater honor and importance upon this our Synod, to appoint as His Delegate and President:
 
 His Excellency the Most Reverend **Agostino Ciasca**, titular Archbishop of Larissa, Prefect of the Vatican Archives, Member and Consultor of the Sacred Congregation for the Propagation of the Faith.
 
@@ -248,7 +310,8 @@ May God prosper Us! May the Queen of the Heavens protect Us!
 
 ## Document V: Ordo to Be Observed in the Convocation and Celebration of the Synod
 ### Directorium of Actions and Ceremonies in the Month of September, 1891
-*(Physical pp. 17–18 / Leaves p19–p20)*
+=== LEAF p19 ===
+*(Physical Page 17 / Leaf p19)*
 
 #### Section I: Reports to the Holy See
 a) Letters to Rome, in which permission is requested for the convocation and celebration of the Synod, as also the Apostolic Blessing and indulgences for the faithful, from His Holiness, through His Eminence the Cardinal Prefect of the Sacred Congregation for the Propagation of the Faith for the Oriental Rites.  
@@ -265,7 +328,12 @@ A pastoral proclamation announcing the Provincial Synod, addressed to:
 * Other ecclesiastical dignitaries who, whether by right or custom, are bound to be present;
 * And also to the Honored Senior of the renowned ecclesiastical-civic Stauropegion Institute.
 
-In that proclamation there shall be announced the day of the inception of the Synod, and there shall be designated the place where the Synod shall be celebrated; the clergy and the faithful shall be summoned to invoke the divine assistance; there shall be published the indulgences most graciously granted by His Holiness, and there shall be brought to knowledge the ordo and program that is to be observed at the Synod. Namely:
+In that proclamation there shall be announced the day of the inception of the Synod, and there shall be designated the place where the Synod shall be celebrated; the clergy and the faithful shall be summoned to invoke the divine assistance; there shall be published the
+
+=== LEAF p20 ===
+*(Physical Page 18 / Leaf p20)*
+
+indulgences most graciously granted by His Holiness, and there shall be brought to knowledge the ordo and program that is to be observed at the Synod. Namely:
 
 #### Preparatory General Congregation
 **2) Prior to the opening of the Synod there shall take place above all a Preparatory General Congregation:**  

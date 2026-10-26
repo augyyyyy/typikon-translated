@@ -1,6 +1,6 @@
 ---
 
-[Leaf p341 / Page 339]
+=== LEAF p341 ===
 
 Finding begins with Tuesday after the Sunday of the Samaritan Woman (the 5th after Pascha), and ends with Monday after the 2nd Sunday after All Saints. They can occur:
 1. On one of the weekdays of Pentecost.  
@@ -26,7 +26,7 @@ Finding begins with Tuesday after the Sunday of the Samaritan Woman (the 5th aft
 
 ---
 
-[Leaf p342 / Page 340]
+=== LEAF p342 ===
 
 11. On Saturday before All Saints, with the Apodosis of the Descent of the Holy Spirit.  
    The Typikon is here a little below, following the enumeration of all 14 cases.
@@ -53,7 +53,7 @@ Finding begins with Tuesday after the Sunday of the Samaritan Woman (the 5th aft
 
 ---
 
-[Leaf p343 / Page 341]
+=== LEAF p343 ===
 
 of the day. After the 3rd Ode, Kontakion, Ikos, and Sessional Hymn of the Saint; **"Glory... Both now..."**, of the Feast; after the 6th Ode, Kontakion and Ikos of the Feast; at the 9th Ode we do not sing **"More honorable than the Cherubim"** (*Честнѣйшую*), but the Refrain of the Feast; and to the Troparia of the Saint we chant his usual Refrain; after the 9th Ode, Exaposteilarion of the Feast; **"Glory..."**, of the Saint; **"Both now..."**, of the Feast.
 4. At the Praises, 6 Stichera: 3 of the Feast, and 3 of the Saint, with his two verses; **"Glory..."**, of the Saint; **"Both now..."**, of the Feast.
@@ -75,7 +75,7 @@ They have the following 11 cases:
 
 ---
 
-[Leaf p344 / Page 342]
+=== LEAF p344 ===
 
 2. On Friday of the Apodosis of the Ascension.  
    According to the Typikon of Constantine and Helen here on p. 340.
@@ -100,7 +100,7 @@ They have the following 11 cases:
 
 ---
 
-[Leaf p345 / Page 343]
+=== LEAF p345 ===
 
 ### June 24: The Nativity of the Holy Forerunner and Baptist John
 ### and June 29: The Holy Preeminent Apostles Peter and Paul
@@ -112,7 +112,7 @@ These two Feasts, as also the Beheading of the Precious Head of the Forerunner, 
 
 ---
 
-[Leaf p346 / Page 344]
+=== LEAF p346 ===
 
 ### Typikon for June 24 and June 29 if It Occurs with the Feast of the Eucharist and the Compassion of the Most Holy Theotokos[^446]
 
@@ -129,7 +129,7 @@ For the 3rd case, that is, at the Apodosis of the Eucharist, the Order is accord
 
 ---
 
-[Leaf p347 / Page 345]
+=== LEAF p347 ===
 
 account here at Small Vespers after the Stichera at **"Lord, I have cried"** (*Господи воззвахъ*) and at the Aposticha is sung **"Both now..."**, the Sticheron of the Feast; after the Troparion of the Saints: **"Glory... Both now..."**, Troparion of the Feast; likewise also at the Litiya, the Stichera of the Saints with **"Both now..."** of the Feast; at the Blessing of Loaves, the Troparion of the Saints twice, and **"O Theotokos and Virgin"** (*Богородице Дѣво*) once[^447].
 
@@ -142,7 +142,7 @@ Polyeleos optional[^448].
 
 ---
 
-[Leaf p348 / Page 346]
+=== LEAF p348 ===
 
 #### 1. On Weekdays
 If this Service is not sung with the Polyeleos, then it has the daily form, with Stichera at the Praises and the Great Doxology; nevertheless on weekdays it excludes the Service of the Octoechos; but if with the Polyeleos, then it has the form of Great Vespers and Great Matins.
@@ -157,7 +157,7 @@ In the Church books there is no Typikon for this case; nevertheless we deem that
 
 ---
 
-[Leaf p349 / Page 347]
+=== LEAF p349 ===
 
 of the Deposition to the following Saturday, and to chant the Service of the Saint of the day of that Saturday at Compline.
 
@@ -172,7 +172,7 @@ All is according to the general Typikon of a Saint with Vigil occurring on Sunda
 
 ---
 
-[Leaf p350 / Page 348]
+=== LEAF p350 ===
 
 ### July 25: Dormition of St. Anne, Mother of the Most Holy Theotokos
 And the Commemoration of the Holy Women Olympias and Eupraxia.
@@ -185,7 +185,7 @@ All is according to the general Rule of a Saint with Polyeleos, whether on Sunda
 
 ---
 
-[Leaf p351 / Page 349]
+=== LEAF p351 ===
 
 ### July 31: Forefeast of the Procession of the Precious Cross[^456]
 And the Holy and Righteous Eudocimus.
@@ -198,7 +198,7 @@ And the Holy and Righteous Eudocimus.
 
 ---
 
-[Leaf p352 / Page 350]
+=== LEAF p352 ===
 
 ### Typikon of the Forefeast of the Procession of the Precious Cross
 
@@ -221,7 +221,7 @@ After **"It is truly right"** (*Достойно есть*), the Kontakion of th
 
 ---
 
-[Leaf p353 / Page 351]
+=== LEAF p353 ===
 
 ##### At the Hours and at the Divine Liturgy
 All is according to the general Typikon of a Forefeast with a Saint without Polyeleos.
@@ -238,7 +238,7 @@ And the Commemoration of the Holy Seven Maccabean Martyrs.
 
 ---
 
-[Leaf p354 / Page 352]
+=== LEAF p354 ===
 
 the Veneration, or afterwards at another hour of the day, likewise in places also the blessing of herbs, as also on the Dormition of the Most Holy Theotokos[^460].
 
@@ -253,7 +253,7 @@ All is as on the Forefeast of July 31 here on p. 349; however:
 
 ---
 
-[Leaf p355 / Page 353]
+=== LEAF p355 ===
 
 doors before the Holy Doors; and after the conclusion of the Great Doxology with the Trisagion, having exclaimed: **"Wisdom! Stand aright!"** (*Премудрость прости*), goes before the Tetrapod, and having placed the Precious Cross upon it, while the Choir sings the Troparion **"Save, O Lord, Thy people"** (*Спаси Господи*), censes it from the four sides, and makes the veneration of the Precious Cross, in everything as was set forth for September 14 here on p. 135.
 5. The Blessing of Water, if it takes place outside of Matins, is performed in full, as you have in the Trebnik; but if at Matins after the singing of the Doxology and the Troparion **"Save, O Lord, Thy people"** (*Спаси Господи*), that is, directly before the veneration, then the beginning and the end of the Order of the Blessing of Water are omitted: for immediately after the Troparion **"Save, O Lord, Thy people"** (*Спаси Господи*), it begins from **"Rejoice"** (*Еже радуйся*), and concludes with the Sticheron **"O Lady, receive"** (*Владычице прійми*), omitting the Ektenia **"Have mercy on us, O God"** (*Помилуй насъ Боже*) with the rest.
@@ -265,7 +265,7 @@ All is according to the general Typikon of an Afterfeast with a Saint without Po
 
 ---
 
-[Leaf p356 / Page 354]
+=== LEAF p356 ===
 
 *покланяемся*); or before the veneration to take up also the Order of the Blessing of Water, according to the Typikon set down here for weekdays in item 5.
 2. At the Divine Liturgy: The entire Service is taken first of Sunday, then of the Cross; but of the Saints, since they do not have a Polyeleos, we usually omit; but if anyone wills to take this also, then the Prokimena, Alleluias, and Communion Hymns will be only two: of the Cross and of the Saints; the Epistles and Gospels, however, three: of the day, of the Cross, and of the Saints[^462].
@@ -278,7 +278,7 @@ All is according to the general Typikon of a Dominical Feast; only after the Pra
 
 ---
 
-[Leaf p357 / Page 355]
+=== LEAF p357 ===
 
 but immediately **"Let us pray to the Lord"** (*Господу помолимся*), and the Prayer; for the Menaion indicates only the Prayer.
 
@@ -296,7 +296,7 @@ And the Holy Martyr Diomedes.
 
 ---
 
-[Leaf p358 / Page 356]
+=== LEAF p358 ===
 
 4. Although the Service of the Image is not with Polyeleos, nevertheless at the Divine Liturgy we do not omit it, as neither the other Feasts without Polyeleos, Dominical and Marian.
 
@@ -321,7 +321,7 @@ After **"It is truly right"** (*Достойно есть*), Kontakion of the Im
 
 ---
 
-[Leaf p359 / Page 357]
+=== LEAF p359 ===
 
 **"Glory... Both now..."**, of the Dormition; after the 6th Ode, Kontakion and Ikos of the Image; after the 9th Ode, Exaposteilarion of the Image; **"Glory... Both now..."**, of the Dormition.
 4. At the Praises, 4 Stichera of the Image; **"Glory..."**, of the Image; **"Both now..."**, of the Dormition.
@@ -346,7 +346,7 @@ At all [the Hours], Troparion of the Image; **"Glory..."**, of the Dormition. Ko
 
 ---
 
-[Leaf p360 / Page 358]
+=== LEAF p360 ===
 
 ##### At Compline
 After **"It is truly right"** (*Достойно есть*), Kontakion of the Image; **"Glory... Both now..."**, Kontakion of the Dormition.

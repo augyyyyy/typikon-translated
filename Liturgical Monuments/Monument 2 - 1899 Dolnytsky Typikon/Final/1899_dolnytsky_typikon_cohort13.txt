@@ -1,6 +1,6 @@
 ---
 
-[Leaf p241 / Page 239]
+=== LEAF p241 ===
 
 #### Typika
 ### 1. Forefeast of the Meeting on the Sunday of the Publican, of the Prodigal Son, Meat-fare, and Cheese-fare Sunday
@@ -20,7 +20,7 @@ Kontakion of the Forefeast; **"Glory... Both now..."**, Kontakion of the Triodio
 
 ---
 
-[Leaf p242 / Page 240]
+=== LEAF p242 ===
 
 3. 4 Canons for 14: of the Resurrection with the Heirmos for 4, of the Theotokos for 2, of the Forefeast for 4, and of the Triodion for 4. Katavasia of the Feast.
 On Meat-fare Sunday: 3 Canons: of the Resurrection for 4, of the Forefeast for 4, and of the Triodion for 6. Katavasia of the Triodion.
@@ -39,7 +39,7 @@ At all the Hours, Troparion of the Resurrection; **"Glory..."**, of the Forefeas
 
 ---
 
-[Leaf p243 / Page 241]
+=== LEAF p243 ===
 
 ### 2. Forefeast of the Meeting on Meat-fare Saturday
 When the Forefeast of the Meeting occurs on Meat-fare Saturday, we then sing the service of the Forefeast beforehand on Friday together with the Holy Unmercenaries Cyrus and John and the Martyr Tryphon,[^372] according to the general Typikon for two Saints for 4 with a Forefeast; only at **"Lord, I have cried"** (*Господи воззвахъ*) there are 3 Stichera of the Forefeast and 3 to the Holy Unmercenaries; while the Stichera of Tryphon are taken on the morrow at the Praises for 4; **"Glory... Both now..."**, of the Forefeast;[^373] after them, at the Aposticha, Stichera of the Forefeast with their verses. On Meat-fare Saturday itself we sing the customary Office for the Departed.
@@ -49,7 +49,7 @@ All according to the general Typikon of a Saint for 6 in the Forefeast, only at 
 
 ---
 
-[Leaf p244 / Page 242]
+=== LEAF p244 ===
 
 -feast, but of the Triodion; and the Canon, where the Triode occurs, is of the Forefeast with the Heirmos for 4, of the Saint three Troparia for 2, and of the Triodion for 8.[^374] Katavasia after the 3rd, 6th, 8th, and 9th Odes is the Heirmos of the Canon of the Saint; and in general, in whichever Odes the Triode occurs, there is the Katavasia of the Triodion.
 
@@ -64,7 +64,7 @@ The service of the Holy Martyr Tryphon is sung at Compline, or whenever the Supe
 
 ---
 
-[Leaf p245 / Page 243]
+=== LEAF p245 ===
 
 -vice of the Forefeast together with the service of the Triodion, which is of the Holy Fathers who shone forth in ascetic fasting, without Polyeleos, as follows:
 
@@ -84,7 +84,7 @@ After the Canon, Kontakion of the Fathers; **"Glory... Both now..."**, Kontakion
 
 ---
 
-[Leaf p246 / Page 244]
+=== LEAF p246 ===
 
 2. Two Kathismata of the day with Sessional Hymns of the Fathers; **"Glory... Both now..."**, of the Forefeast.
 3. Two Canons for 14: of the Forefeast for 6, and of the Fathers for 8. Katavasia after each Ode is the Heirmos of the Triodion. After the 3rd Ode, Kontakion and Ikos of the Forefeast, and Sessional Hymn of the Fathers; **"Glory... Both now..."**, of the Forefeast. After the 6th Ode, Kontakion and Ikos of the Fathers. After the 9th Ode, Exapostilarion of the Fathers; **"Glory... Both now..."**, of the Forefeast.
@@ -106,7 +106,7 @@ It has the six following cases:
 
 ---
 
-[Leaf p247 / Page 245]
+=== LEAF p247 ===
 
 2. On Meat-fare Saturday.
 3. On Cheese-fare Monday, Tuesday, and Thursday.
@@ -129,7 +129,7 @@ All according to the general Typikon of a Feast of the Mother of God on Sunday, 
 
 ---
 
-[Leaf p248 / Page 246]
+=== LEAF p248 ===
 
 **"...Both now..."**, of the Feast. After the 6th Ode, Kontakion and Ikos of the Feast. At the 9th Ode, **"More honorable than the Cherubim"** (*Честнѣйшую*). After the 9th Ode, Exapostilarion of the Resurrection; **"Glory..."**, of the Triodion; **"Both now..."**, of the Feast.
 3. At the Praises, 8 Stichera: 4 of the Resurrection and 4 of the Feast with the Festal verses. (On Meat-fare and Cheese-fare Sunday, after the conclusion of the Stichera of the Feast, we sing the verse: **"Arise, O Lord"** (*Воскресни Господи*), and the Idiomelon of the Triodion); **"Glory..."**, of the Triodion; **"Both now..."**, **"O Most Blessed"** (*Преблагословенна*).
@@ -151,7 +151,7 @@ All according to the general Typikon of a Feast of the Mother of God on weekdays
 
 ---
 
-[Leaf p249 / Page 247]
+=== LEAF p249 ===
 
 there are Stichera of the Triodion; only **"Glory... Both now..."**, of the Feast.
 *Note.* The Typikon concerning the Triode of Matins we have set forth here on page 237 in the Note.
@@ -174,7 +174,7 @@ All as in the preceding case, only at the conclusion of Vespers, of Matins, and 
 
 ---
 
-[Leaf p250 / Page 248]
+=== LEAF p250 ===
 
 5. Aposticha of the Feast, only the Doxastikon of the Fathers.
 6. At the Blessing of the Loaves, Troparion of the Feast twice, and of the Fathers once.
@@ -196,7 +196,7 @@ At all the Hours: Troparion of the Feast; **"Glory..."**, of the Fathers; Kontak
 
 ---
 
-[Leaf p251 / Page 249]
+=== LEAF p251 ===
 
 ### 6. The Meeting on Monday of the 1st Week of the Fast
 The entire service of the Feast is sung beforehand on Cheese-fare Sunday according to the Typikon prescribed here on page 245.
@@ -216,7 +216,7 @@ All according to the Typikon of the Forefeast here on page 239, only:
 
 ---
 
-[Leaf p252 / Page 250]
+=== LEAF p252 ===
 
 And at the Praises here on Meat-fare Sunday there are not only 8 Stichera, but also a 9th with the verse **"Arise, O Lord"** (*Воскресни Господи*).
 2. At the Divine Liturgy: instead of **"It is truly right"** (*Достойно есть*), we sing here the Heirmos of the Feast; all the rest as in the Forefeast here on page 240.
@@ -237,7 +237,7 @@ All according to the Typikon of the Forefeast here on page 242, only:
 
 ---
 
-[Leaf p253 / Page 251]
+=== LEAF p253 ===
 
 1. At Vespers at **"Lord, I have cried"** (*Господи воззвахъ*), instead of the Dogmatikon Theotokion of the Tone that yields, the Typika appoint here the Sticheron of the Feast.[^381]
 2. At Compline the said Typika appoint here only the Kontakion of the Feast, whereas in the Forefeast they appoint first the Kontakion of the Fathers, then **"Glory... Both now..."**, of the Feast; we judge, however, that here also it ought to be thus.
@@ -247,7 +247,7 @@ At the Praises we sing here 6 Stichera: 3 of the Feast and 3 of the Fathers (in 
 
 ---
 
-[Leaf p254 / Page 252]
+=== LEAF p254 ===
 
 ### Apodosis of the Feast of the Meeting
 *Note.* This Apodosis can occur either within or outside the Triodion. Within the Triodion, if the Triodion occurs on one of the 30 days from January 11 to February 9 inclusive; outside the Triodion, if it occurs in the other five days from February 10 to February 14. And if it occurs outside the Triodion, then the Apodosis takes place on February 9, according to the general Typikon of the Apodosis of a Feast of the Mother of God; and in this case the Afterfeast has 7 days inclusive with the Apodosis. If however it occurs within the Triodion, then the number of days of the Afterfeast can be reduced from 7 to 6, 5, 4, 3, 2, 1, or 0, and this on account of the various services of the Triodion with which it coincides. However, this reduction does not always take place within the Triodion, but only when the Apodosis of the Feast coincides with certain services of the Triodion which cannot admit the Festal services. Such are: Meat-fare Saturday (All Souls' Day); Meat-fare Sunday, which is of the Dread Judgment; Cheese-fare Wednesday and Friday, which have an entirely fasting Typikon; and Monday of the 1st Week of the Fast, onto which the 9th day of February can fall, and in part also Cheese-fare Sunday. In general, one can establish the rule that when Pascha occurs on the days from April 8 and later, while the Triodion begins from January 28 and later, then the Apodosis of the Meeting takes place on February 9, that is, on the 7th day after the Feast. But when in a given year the Apodosis of the Feast occurs not at its proper time, but earlier, and when the Apodosis does not occur at all, the following Table shows, drawn up according to the directions of the Slavic Menaia.
@@ -266,7 +266,7 @@ At the Praises we sing here 6 Stichera: 3 of the Feast and 3 of the Fathers (in 
 
 ---
 
-[Leaf p255 / Page 253]
+=== LEAF p255 ===
 
 In the 1st case the Feast has its Apodosis on Meat-fare Friday, because after it follows Meat-fare Saturday (All Souls' Day).
 In the 2nd case it already has its Apodosis on Cheese-fare Tuesday, because Wednesday which follows it has an entirely fasting Typikon.
@@ -283,7 +283,7 @@ The cases in which the service of the Apodosis of the Feast is sung with the Tri
 
 ---
 
-[Leaf p256 / Page 254]
+=== LEAF p256 ===
 
 #### Typika for the Aforesaid Cases
 ### 1. Apodosis of the Meeting on the Sunday of the Publican, of the Prodigal Son, and Cheese-fare Sunday
@@ -302,7 +302,7 @@ Communion Hymn: **"Praise the Lord"** (*Хвалите*) and of the Feast.[^384]
 
 ---
 
-[Leaf p257 / Page 255]
+=== LEAF p257 ===
 
 ### 2. Apodosis of the Meeting on Cheese-fare Tuesday and Thursday
 All according to the general Typikon of the Apodosis of a Feast of the Mother of God, only:
@@ -326,7 +326,7 @@ All according to the Typikon of the Afterfeast on Cheese-fare Saturday here on p
 
 ---
 
-[Leaf p258 / Page 256]
+=== LEAF p258 ===
 
 of the Fathers; **"Glory... Both now..."**, of the Feast; after the 6th Ode, Kontakion and Ikos of the Feast.
 
@@ -335,7 +335,7 @@ of the Fathers; **"Glory... Both now..."**, of the Feast; after the 6th Ode, Kon
 
 ---
 
-[Leaf p259 / Page 257]
+=== LEAF p259 ===
 
 2. The service of this Feast is of the class of a Saint with Polyeleos, without an All-Night Vigil; but on account of its concurrence with the services of the Triodion it has the following 12 cases:
 
@@ -364,7 +364,7 @@ The Feast of the Forerunner is transferred to the preceding Friday, and the enti
 
 ---
 
-[Leaf p260 / Page 258]
+=== LEAF p260 ===
 
 3. Aposticha of the Resurrection; **"Glory..."**, of the Forerunner; **"Both now..."**, of the Triodion.
 4. Troparion of the Resurrection; **"Glory..."**, of the Forerunner; **"Both now..."**, Resurrectional Theotokion according to the Tone.

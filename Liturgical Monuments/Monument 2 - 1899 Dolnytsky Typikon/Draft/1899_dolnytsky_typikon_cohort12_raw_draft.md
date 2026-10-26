@@ -1,6 +1,6 @@
 ---
 
-[Leaf p221 / Page 219]
+=== LEAF p221 ===
 
 2. Prokimenon, Alleluia, and Communion Hymn of the day; Apostle and Gospel of the Sunday before Theophany; Communion Hymn: **"Praise the Lord"** (*Хвалите*).
 
@@ -18,7 +18,7 @@ After the Prayer behind the Ambo, but if it is Saturday or Sunday, then after th
 
 ---
 
-[Leaf p222 / Page 220]
+=== LEAF p222 ===
 
 having stood with the Cross between two candle-bearers in the midst of the Temple, and before him the Church Server with the Trikiria, with the Censer and with the incense boat, the Deacon having taken the Holy Gospel from the Holy Table, and the Priest in his right hand the Precious Cross, and having bowed deeply toward the Holy Mysteries, go forth through the Royal Doors, first the Deacon with the Gospel, and after him also the Priest with the Cross, vested in all the sacred vestments of their order, and while the choir sings the Troparia of the Cross of the Lord,[^352] all follow into the Church Narthex; and when they arrive there, the Deacon places the Holy Gospel, and the Priest the Cross on a table covered with a cloth, or with a clean linen, upon which is also a spacious vessel with water, and immediately the Priest censes from the four sides of the table, and the bystanders according to rank.
 
@@ -28,7 +28,7 @@ After the chanting of the Gospel, the Deacon says the Ektenia: **"In peace let u
 
 ---
 
-[Leaf p223 / Page 221]
+=== LEAF p223 ===
 
 it is found, he may omit, the *Euchologion* of Benedict consenting thereto, although our Typika do not grant dispensation for this.[^354]
 
@@ -38,13 +38,13 @@ After the conclusion of this prayer the Choir: **"Amen"**, the Priest: **"Peace 
 
 ---
 
-[Leaf p224 / Page 222]
+=== LEAF p224 ===
 
 *-drawing it, holding it with both hands, singing the appointed Troparion: “When Thou, O Lord, wast baptized in the Jordan...”*[^357] all the people singing along with him. *“And a second time likewise, singing that same Troparion,”*[^358] all the people singing along with him. And the server having poured holy water into a dish or Aspergillum vessel, the Priest, having turned his face toward the west, holding the Precious Cross in his left hand, and the aspergillum in his right, sprinkles all the people with holy water; and after this, while the choirs sing: **"Glory... Both now..."**, and the Sticheron: **"Let us sing, O believers"**, the Procession returns into the Temple, in the same manner as it went thither, the Priest sprinkling hither and thither;[^359] and the Deacon having entered with the Gospel, and after him also the Priest with the Cross through the Royal Doors into the Sanctuary, when the Priest has sprinkled also the entire Sanctuary, the Deacon places the Gospel, and the Priest the Cross on the Holy Table, in its place, and the Choir: **"Blessed be the name of the Lord"**, if it is Vespers with the Liturgy of Basil, but if Ve-
 
 ---
 
-[Leaf p225 / Page 223]
+=== LEAF p225 ===
 
 -spers alone without the Liturgy, then immediately the Great Festal Dismissal, and at the conclusion the Troparion, **"Glory... Both now..."**, Kontakion of the Feast by both choirs together in the midst of the Temple, as was set forth at Vespers alone or with the Liturgy of Basil on December 25.
 
@@ -64,7 +64,7 @@ This Synaxis can occur either on weekdays, or on Sunday. His service has the for
 
 ---
 
-[Leaf p226 / Page 224]
+=== LEAF p226 ===
 
 4. Aposticha of the Feast, only the Doxastikon of the Forerunner.
 5. At the conclusion: Troparion of the Forerunner; **"Glory... Both now..."**, of the Feast.
@@ -83,7 +83,7 @@ After the 1st Trisagion, Troparion of the Feast; and after the 2nd, Kontakion of
 
 ---
 
-[Leaf p227 / Page 225 (misprinted 125)]
+=== LEAF p227 ===
 
 4. At the Praises, Stichera on 4, all of the Feast; **"Glory..."**, of the Forerunner; **"Both now..."**, of the Feast.
 5. After the Great Doxology, Troparion of the Forerunner; **"Glory... Both now..."**, of the Feast.
@@ -108,7 +108,7 @@ At all the Hours, Troparion of the Feast, then **"Glory..."**, of the Synaxis. K
 
 ---
 
-[Leaf p228 / Page 226]
+=== LEAF p228 ===
 
 #### At Compline
 Canon of the Mother of God there is none. After **"It is truly right"**, Kontakion of the Forerunner; **"Glory... Both now..."**, Kontakion of the Feast.[^361]
@@ -128,7 +128,7 @@ At all the Hours, Troparion Sunday, then **"Glory..."** at the 1st and 6th Hour 
 
 ---
 
-[Leaf p229 / Page 227]
+=== LEAF p229 ===
 
 #### At the Divine Liturgy
 1. Troparion Sunday and of the Feast and of the Forerunner; **"Glory..."**, Kontakion of the Forerunner; **"Both now..."**, of the Feast.
@@ -152,7 +152,7 @@ At all the Hours, Troparion Sunday, then **"Glory..."** at the 1st and 6th Hour 
 
 ---
 
-[Leaf p230 / Page 228]
+=== LEAF p230 ===
 
 ##### 2. With the Synaxis of the Forerunner
 See the Typikon here above on page 227, concerning the Synaxis of the Forerunner on Sunday.
@@ -167,7 +167,7 @@ All according to the general Typikon of a Saint with Polyeleos; however if it oc
 
 ---
 
-[Leaf p231 / Page 229]
+=== LEAF p231 ===
 
 ### January 14: Apodosis of Theophany
 All according to the general Typikon of the Apodosis of a Dominical Feast; however if it occurs on the Sunday of the Publican and the Pharisee, we sing thus:
@@ -188,7 +188,7 @@ After **"It is truly right"**, Kontakion of the Feast; **"Glory... Both now..."*
 
 ---
 
-[Leaf p232 / Page 230]
+=== LEAF p232 ===
 
 at **"Both now..."**: **"Guide me in the paths of salvation"**; at **"Have mercy upon me, O God"**: **"When I ponder the multitude of evil deeds I have done"**.
 3. 4 Canons on 14: Sunday with the Heirmos on 4, and of the Triodion on 4, and of the Feast both Canons on 6. Katavasia of the Feast. After the 3rd Ode, Kontakion-Ikos, and Sessional Hymn of the Triodion; **"Glory... Both now..."**, of the Feast; after the 6th Ode, Kontakion-Ikos of the Feast; at the 9th Ode, **"More honorable than the Cherubim"**; after the 9th Ode, Exaposteilarion Sunday; **"Glory..."**, of the Triodion; **"Both now..."**, of the Feast.
@@ -206,7 +206,7 @@ At all the Hours, Troparion Sunday; **"Glory..."**, of the Feast; and the Kontak
 
 ---
 
-[Leaf p233 / Page 231]
+=== LEAF p233 ===
 
 ### Commemorations in January:
 **January 17: Our Venerable Father Anthony the Great**  
@@ -221,7 +221,7 @@ Of the above-mentioned five Saints, St. Theodosius can occur only with a single 
 
 ---
 
-[Leaf p234 / Page 232]
+=== LEAF p234 ===
 
 of the Saint, therefore, lest this should occur, the Slavic Typika transfer the service of the Venerable Father to another day.
 
@@ -236,7 +236,7 @@ If any of these Saints occurs outside the Triodion, it is proper to observe the 
 
 ---
 
-[Leaf p235 / Page 233]
+=== LEAF p235 ===
 
 they occur on the Sunday of the Publican, or of the Prodigal Son, or Meat-fare Sunday, or on Meat-fare Saturday, or on Cheese-fare Tuesday, then it is proper to observe the Typikon of the Three Hierarchs set forth in the Menaion on January 30, which we immediately provide, except for the All-Night Vigil, which will not take place here, but at Great Vespers at the conclusion: Troparion Sunday; **"Glory..."**, of the Saint; **"Both now..."**, Sunday Theotokion according to the Tone of the Saint. At Compline after **"It is truly right"**, Kontakion of the Saint; **"Glory... Both now..."**, Kontakion of the Triodion.[^366]
 
@@ -255,7 +255,7 @@ We provide the Typikon for all these cases.
 
 ---
 
-[Leaf p236 / Page 234]
+=== LEAF p236 ===
 
 ### 1. The Three Hierarchs on the Sunday of the Publican and the Pharisee, of the Prodigal Son, and Meat-fare Sunday
 #### At Small Vespers
@@ -274,7 +274,7 @@ All as outside the Triodion.
 
 ---
 
-[Leaf p237 / Page 235]
+=== LEAF p237 ===
 
 and of the Saints on 4. (If it is Meat-fare Sunday, then Sunday on 4, and of the Triodion on 6, and of the Saints on 4). Regular Katavasia: **"The One Who traversed the deep"** (*Сушу глубородительную*). After the 3rd Ode, Kontakion-Ikos, and Sessional Hymn of the Saints; **"Both now..."**, of the Triodion; after the 6th Ode, Kontakion-Ikos of the Triodion; at the 9th Ode, **"More honorable than the Cherubim"**; after the 9th Ode, **"Holy is the Lord our God"**, and Exaposteilarion Sunday; **"Glory..."**, of the Saints; **"Both now..."**, of the Triodion.
 3. At the Praises, Stichera on 8: Sunday 4, and of the Saints with the Doxastikon 4, with their two Refrains. (On Meat-fare Sunday, after the Stichera of the Saints with their Refrains we say the Refrain: **"Arise, O Lord"**, and the Sticheron of the Triodion); **"Glory..."**, of the Triodion; **"Both now..."**, **"Most blessed art thou"**.
@@ -290,7 +290,7 @@ At all the Hours, Troparion Sunday; **"Glory..."**, of the Saints. Kontakia: at 
 
 ---
 
-[Leaf p238 / Page 236]
+=== LEAF p238 ===
 
 3. Apostle and Gospel of the Sunday and of the Saints.
 4. Communion Hymn: **"Praise the Lord"** (*Хвалите*) and of the Saints.
@@ -307,7 +307,7 @@ All as outside the Triodion; only at the Aposticha, Idiomelon Sticheron of the d
 
 ---
 
-[Leaf p239 / Page 237]
+=== LEAF p239 ===
 
 #### At Great Vespers, at Matins, at the Hours, and at the Divine Liturgy
 All as outside the Triodion, only at Matins at the Praises **"Glory..."** will be in the Triodion, and **"Both now..."** there likewise.
@@ -322,7 +322,7 @@ Their service is transferred from Wednesday to Tuesday, and from Friday to the p
 
 ---
 
-[Leaf p240 / Page 238]
+=== LEAF p240 ===
 
 -odion is January 11, and the last February 14, for this reason it can occur, at the latest, 22 days after the beginning, and 12 days before the beginning of the Triodion, that is, it can stand 22 days distant from the first boundary of the Triodion, and 12 days from the last boundary. But when the earliest boundary of the Triodion occurs, namely January 11, then the Feast reaches even unto Monday of the 1st Week of the Fast, which follows immediately after the 4th Sunday of the Triodion, that is, after Cheese-fare Sunday. And if therefore it occurs outside the Triodion, then its Order is celebrated according to the general Typikon of a Feast of the Mother of God, although in part it is Dominical. It diverges from a Feast of the Mother of God only by its proper Dismissal, and at the Liturgy by its proper Entrance Hymn, and at the Apodosis by the Apostle and Gospel not of the Feast and the day, as a Feast of the Mother of God, but only of the day, as a Dominical Feast. And if it occurs on Sunday, its service is joined with the Sunday service according to the Typikon of a Feast of the Mother of God. It has one day of Forefeast, and seven days of Afterfeast, for its Apodosis is on February 9. If however it occurs within the Triodion, then where it collides with the services of the Triodion, it has special Typika in the Forefeast, in the Feast, and in the Afterfeast, which we also set forth.
 

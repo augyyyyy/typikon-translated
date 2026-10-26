@@ -1,11 +1,11 @@
-[Leaf p441 / Page 439]
+=== LEAF p441 ===
 
 Priest: **"Let us attend!"** (*Во́ньмемъ*), and reads the 1st Gospel; and at the conclusion of the Reading, the Choir, instead of **"Glory to Thee, O Lord"** (*Сла́ва Тебѣ̀, Го́споди*), sings: **"Glory to Thy longsuffering, O Lord"** (*Сла́ва долготерпѣ́нїю Твоему̀, Го́споди*).[^591] The Priest, having kissed the beginning of the Reading, returns into the Sanctuary, and having closed the Holy Doors and bowed down toward the Holy Mysteries, departs to the sacristy, and having divested himself of the phelonion, goes to his place.
 All these things take place also at the Readings of the other Gospels, except for the Little Ektenia and the censing, which according to the Typikon of our Triodia and the Typikon of the University of Lviv takes place only at the 1st Gospel, and at the 5 Sessional Hymns, and this only the censing of the Holy Table. For they say: "We do not sit at such Sessional Hymns, because the Priest censes the holy Altar, but standing we chant them."[^592] For the rest, we deem
 
 ---
 
-[Leaf p442 / Page 440]
+=== LEAF p442 ===
 
 that one ought to cense not only at the Sessional Hymns, but also at all the other Gospels, for the censing is not for the sake of the Sessional Hymns, but for the sake of the Gospels, yet only around the Holy Table, as our Triodia have it, which mention censing only of the Holy Table; but it suffices to cense everything only twice, that is, at the 1st Gospel, and in the Canon at the Heirmos of the 4th Ode.
 According to the Slavonic Typika, the 1st Gospel, and according to others also the 12th, is to be read by the Superior or Abbot. In the Cathedral Church the Hierarch reads them; while the other [Gospels are read by] the other sacred dignitaries according to the order of their dignity.[^593]
@@ -13,7 +13,7 @@ According to the Slavonic Typika, the 1st Gospel, and according to others also t
 
 ---
 
-[Leaf p443 / Page 441]
+=== LEAF p443 ===
 
 steps of the Altar, they close the Holy Doors, and having all bowed equally toward the Holy Mysteries, they depart to their places. At the other Gospels, since the Little Ektenia is not said, the Deacons, having come before the Holy Doors, bow, and having changed their sides, go to the Analogion; and the Priest having taken his stand in their midst, they proclaim: **"And that we may be accounted worthy..."** (*И҆ ѡ҆ є҆́же сподо́битися*), and the rest, as above.
 If it happens that a Hierarch or other sacred dignitaries are present, the Deacons ought to cense them before the Choirs, and neither the Priest nor the Deacons are to kiss the Gospel before the Hierarch and sacred dignitaries; and for this reason both Deacons carry the open Gospel together to them for kissing, then to the Priest standing in the Holy Doors; and when they have kissed it, they also kiss the same, and place it upon the Analogion; and having bowed deeply toward the Holy Mysteries, they return, each through his own door, into the Sanctuary.
@@ -24,7 +24,7 @@ If it happens that a Hierarch or other sacred dignitaries are present, the Deaco
 
 ---
 
-[Leaf p444 / Page 442]
+=== LEAF p444 ===
 
 and the Kontakion and Ikos; at the 9th Ode we do not sing **"More honorable"** (*Честнѣ́йшꙋю*), but the Heirmos of the 9th Ode;[^597] after the 9th [Ode] we do not sing **"It is truly right"** (*Досто́йно є҆́сть*), but the Katavasia;[^598] then the Little Ektenia, and the Exaposteilarion thrice with the refrain **"Glory... Both now..."**, according to custom; then the 9th Gospel.
 9. At the Praises, Stichera for 4; **"Glory"**, one Sticheron; **"Both now"**, another; then the 10th Gospel.
@@ -39,7 +39,7 @@ On Friday morning, before the beginning of the Royal Hours, there are placed upo
 
 ---
 
-[Leaf p445 / Page 443]
+=== LEAF p445 ===
 
 and Western Latin Churches,[^602] the Holy Mysteries are exposed even until the Resurrection of Christ. And our Sluzhebnyks indeed command the Tabernacle (*Kivot*) with the Holy Mysteries to be placed upon such a Tomb; but the custom of our Cathedral Church is to expose the Holy Mysteries in the Monstrance (*Darookazalnytsia*) upon the High Altar, and to erect the Tomb of the Lord thus: above it there stands a Cross without the Crucified, with a shroud hung upon its crossbeam, and with the Instruments of Christ's Passion; it is adorned with costly cloth, and surrounded with many candlesticks and lamps, and vessels with small trees and flowers. The front board of the Sarcophagus is covered with crimson damask, to which is attached a white cloth, to which later the Plashchanytsia is to be pinned; the board itself is not flat, but inclined, so that the Plashchanytsia pinned to it may be visible and more accessible for kissing.
 
@@ -48,7 +48,7 @@ In the Cathedral Church they are sung at the 10th hour of the morning, together 
 
 ---
 
-[Leaf p446 / Page 444]
+=== LEAF p446 ===
 
 the sacred ministers say before the Royal Doors, here they say before the Tomb; but they do not cense the Tomb, because until now there is nothing within it.
 
@@ -70,7 +70,7 @@ There is no Liturgy today under any circumstances, except for the Annunciation; 
 
 ---
 
-[Leaf p447 / Page 445]
+=== LEAF p447 ===
 
 2. All actions which the sacred ministers perform at ordinary Vespers before the Iconostasis, at this Vespers they perform before the Tomb of Christ.
 
@@ -83,25 +83,25 @@ There is no Liturgy today under any circumstances, except for the Annunciation; 
 
 ---
 
-[Leaf p448 / Page 446]
+=== LEAF p448 ===
 
 to the left on the Altar, the candles are lit on the Altar and on the Tomb, and the sacred ministers vest: the Hierarch and four most worthy Choir-clerics who are to carry the Plashchanytsia in all the sacred vestments of their Order, while the other Choir-clerics and Priests vest only in epitrachelia and phelonia, and others only in epitrachelia, and two Deacons in all the diaconal vestments. Burning candles are distributed to all the Choir-clerics and other Priests in the Sanctuary, and to the Brotherhood in the church; and the sacred ministers having approached the steps of the Altar and bowed deeply, the Hierarch ascends to the Altar, and having taken the Plashchanytsia spread out upon the Altar, hands it to four Choir-clerics, so that each holds one of its corners. Then the Deacon on the right ascends to the Altar, and having bowed deeply, brings out the Tabernacle (*Kivot*) with the Holy Mysteries, and having placed it upon the (folded) Iliton, takes out from it the Lamb with the pyx (*kletka*) in which It rests, not touching It with fingers, but holding by the pyx, and places It into the Monstrance (*Darookazalnytsia*), having securely closed it; and having closed the Tabernacle, he places it into the Tabernacle-shrine (*Skynia*), and having bowed and closed it, and having placed the Monstrance in the midst of the Iliton facing the people, he steps back a little to the side, until the Hierarch, kneeling, censes the Holy Mysteries thrice, each time with a bow at the end, and having taken upon himself the small omophorion (*omophorets*), approaches the Holy Table; for then the Deacon, having bowed down before the Holy Mysteries and taken Them with both hands, delivers Them to the Hierarch, who has first made a metania, who turns by the right toward the people; and the Singers beginning to sing **"Thou Who clothest Thyself"** (*Тебѐ ѡ҆дѣ́ющагося*), he goes out behind the Clergy from the Royal Doors by the north side of the Tomb into the church; and having entered under the Baldachin, surrounded by candle-bearers, with the two Deacons preceding and censing unceasingly, he advances behind all to the Doors of the church,
 
 ---
 
-[Leaf p449 / Page 447]
+=== LEAF p449 ===
 
 the Cross-bearer going before all, then the Banner-bearers, then four maidens bearing icons, then the Church Brotherhood, the students of the Seminary, the Choir of singers of the Seminary, then from the Royal Doors the Priests, the Choir-clerics, the four sacred dignitaries carrying the Plashchanytsia facing with its feet toward the people; and at the end the Hierarch with the Deacons censing, and the candle-bearers. As the procession exits from the church, it turns to the right, that is to its northern side, and having circled it thrice (or as they do there today, once), returns into the church; and those with the Plashchanytsia and the other Priests having halted before the Tomb, the Hierarch with the Deacons returns by the south side of the Tomb, through the Royal Doors, into the Sanctuary; and the Deacon on the right having received from his hands the Holy Mysteries and placed Them upon the Holy Table, the Hierarch, having bent his knees and laid aside the Omophorion (Velum), censes Them thrice with the bowing of his head; and the Deacon, having bowed, exposes Them above the Tabernacle-shrine (*Skynia*); then all three having bowed before the steps of the Altar, they go out, the Hierarch through the middle doors, and the Deacons through the side doors, before the Tomb; and the Hierarch, having received the Plashchanytsia from the Choir-clerics holding it, lays it upon the Tomb, and they pin it down to the Tomb; and when the Singers finish **"Now lettest Thou depart"** (*Ны́нѣ ѿпꙋща́еши*), and the Trisagion and the rest with **"Our Father"** (*Ѡ҆́тче на́шъ*), the Hierarch exclaims: **"For Thine is the Kingdom"** (*Я҆́ко Твоѐ є҆́сть Ца́рство*), and beginning, sings with the concelebrants the Troparion **"The noble Joseph"** (*Благообра́зный Іѡ́сифъ*), and at the end makes with the concelebrants a deep metania, while all the people make a great prostration to the ground; then for the second time the same Troparion the second Choir [sings], and all make a metania and prostration as before. And where there is only one Choir, then the first time this Troparion is sung by the sacred ministers, the second time by the Choir, the third time half by the sacred ministers, and the remainder from the Plashchanytsia and below
 
 ---
 
-[Leaf p450 / Page 448]
+=== LEAF p450 ===
 
 by the Choir.[^605] And after the chanting of the Troparion and after the prostrations they kiss the Plashchanytsia, all according to rank, having made before the kissing a single metania, first the Hierarch, then the other sacred ministers according to the order of their dignity; and there takes place the Great Dismissal proper to this Saturday, after which the sacred ministers return into the Sanctuary, and having left the Royal Doors open even until the end of Bright Week, divest themselves of the sacred vestments, and go each to his own home; while the people follow to kiss the Plashchanytsia.[^606]
 
 ---
 
-[Leaf p451 / Page 449]
+=== LEAF p451 ===
 
 *Note.*
 1. Where there is only one Priest, let him choose for himself four most honorable lay men for the carrying of the Plashchanytsia.
@@ -122,7 +122,7 @@ All according to custom.
 
 ---
 
-[Leaf p452 / Page 450]
+=== LEAF p452 ===
 
 candlesticks and Books, so that sitting they may sing from there the Order, the Priests in epitrachelia and phelonia, and the Deacons in dalmatics, of violet color.
 
@@ -135,7 +135,7 @@ Concerning the Funeral Troparia, called in the Greek Triodia *Ἐγκώμια* (
 
 ---
 
-[Leaf p453 / Page 451]
+=== LEAF p453 ===
 
 is sung without a Verse, and this both at the beginning and at the end of the Stasis, except for the 3rd Stasis, after which the 1st Troparion is not sung, nor is the Little Ektenia said, but immediately **"The Angelic Host"** (*А҆́нгельскїй собо́ръ*), and after its chanting the Little Ektenia.
 4. After **"The Angelic Host"** with the Little Ektenia: Sessional Hymn, and Psalm 50, and the Canon.
@@ -147,19 +147,19 @@ And the Entrance takes place thus: During the chanting of the Stichera of the Pr
 
 ---
 
-[Leaf p454 / Page 452]
+=== LEAF p454 ===
 
 and the Priest with the Deacons having come before the steps of the Altar, they also stand together with him on this side and that; and all having bowed down toward the Holy Mysteries, the Priest proclaims after the chanting of the Stichera of the Praises: **"Glory to Thee Who hast shown us the light"** (*Сла́ва Тебѣ̀ показа́вшему на́мъ свѣ́тъ*); then, having placed incense for the Deacon on the left, as the Doxology is ending he ascends to the Altar, and having taken the Gospel from the Holy Table, hands it to the Deacon on the right, and they make the Entrance in all things as takes place at the Liturgy, preceded by the candle-bearers, and the Deacon with the censer; and they halt before the Lord's Tomb, the Deacon on the right at the right hand, and the one on the left at the left hand of the Priest, closer to the Tomb, while the other sacred ministers are on two wings, a little lower, with the Priest, awaiting the end of the Trisagion and the Sticheron **"Come, let us bless Joseph"** (*Прїиди́те, оу҆блажи́мъ Іѡ́сифа*). When this has taken place, the first Deacon, raising his orarion toward the people, proclaims: **"Let us attend!"** (*Во́ньмемъ*); the Priest, signing the people: **"Peace be to all"** (*Ми́ръ всѣ̑мъ*); the second Deacon, raising his orarion: **"Wisdom, let us attend!"** (*Премꙋ́дрость, во́ньмемъ*); and we sing the Troparion **"The noble Joseph"** (*Благообра́зный Іѡ́сифъ*) once. The Deacon having placed the Gospel upon the Analogion facing the people, and the other having handed over the censer, we sing also the Troparion of the Prophecy once.[^611]
 
 ---
 
-[Leaf p455 / Page 453]
+=== LEAF p455 ===
 
 Then again: **"Let us attend! Peace be to all! Wisdom, let us attend!"**, and the Prokeimenon, and the Reading of the Prophecy, and the other Prokeimenon, and the Reading of the Apostle, and Alleluia, at which the Deacons cense the Tomb, the presiding sacred ministers, and the people. After these, the first Deacon: **"Wis-**
 
 ---
 
-[Leaf p456 / Page 454]
+=== LEAF p456 ===
 
 **-dom! Stand upright! Let us hear..."**; Priest: **"The Reading from the Holy Gospel according to Matthew"**; Choir: **"Glory to Thy Passion, O Lord"** (*Сла́ва страсте́мъ Твои̑мъ, Го́споди*); the second Deacon: **"Let us attend!"**; and the Priest sings the Gospel facing the people; and at its conclusion, the Choir: **"Glory to Thy longsuffering, O Lord"** (*Сла́ва долготерпѣ́нїю Твоему̀, Го́споди*). Then the Priest, having kissed and closed the Gospel, leaves it upon the Analogion; and the first Deacon says the Ektenia **"Let us all say"** (*Рце́мъ всѝ*), and the second **"Let us complete"** (*И҆спо́лнимъ*), all according to custom.
 8. [9 in original] After the Dismissal, having chanted the Troparion **"The noble Joseph"** (*Благообра́зный Іѡ́сифъ*) thrice with prostrations, as at Vespers, and the Deacon having taken the Gospel from the Analogion, the sacred ministers depart into the Sanctuary and divest themselves of their vestments; and the Deacon having placed the Gospel upon the Holy Table and bowed, departs and divests himself.
@@ -178,7 +178,7 @@ As on Great Thursday, here on p. 435; however, the Greek Triodion does not appoi
 
 ---
 
-[Leaf p457 / Page 455]
+=== LEAF p457 ===
 
 take place; but after the Ambo Prayer, or (as the Typika have it) after the Dismissal of the Liturgy, there shall be the blessing of loaves, as usually at a Vigil.
 3. The form and Typikon of this Vespers is the same as that of the Vespers with the Liturgy celebrated on the Paramony of the Nativity of Christ, here on p. 189, without **"Blessed is the man"** (*Блаже́нъ мꙋ́жъ*); only here after **"O Joyful Light"** (*Свѣ́те ти́хїй*) there shall be no Prokeimenon, but immediately the Readings, 15 in number, and between the Readings there shall be no Troparia; but at the 6th Reading all the Verses of the Canticle of Moses are read with the refrain: **"For gloriously is He glorified"** (*Сла́вно бо просла́вися*); and at the 15th Reading the Verses of the Canticle of the Three Youths are read with the refrain: **"Praise the Lord and exalt Him above all forever"** (*Го́спода по́йте, и҆ превозноси́те є҆го̀ во вѣ́ки*); and instead of Alleluia we sing the last verse of Psalm 81 with the other Verses thereof, in the manner of a Prokeimenon.[^613] Dismissal of Saturday Matins.
@@ -186,7 +186,7 @@ take place; but after the Ambo Prayer, or (as the Typika have it) after the Dism
 
 ---
 
-[Leaf p458 / Page 456]
+=== LEAF p458 ===
 
 5. Throughout all of Bright Week, beginning from the Vespers of this day, the Resurrection Service is sung, and besides the Stichera of the Triodion there are sung also the Resurrection Stichera of the Octoechos, of a different Tone daily, that is: on Sunday, Tone 1; on Monday, Tone 2; on Tuesday, Tone 3; on Wednesday, Tone 4; on Thursday, Tone 5; on Friday, Tone 6; on Saturday, Tone 8, having skipped Tone 7.
 
@@ -199,7 +199,7 @@ This Compline would have to be small. For the rest, even our Triodion itself lea
 
 ---
 
-[Leaf p459 / Page 457]
+=== LEAF p459 ===
 
 #### Typikon
 1. From the usual beginning even unto **"Come, let us worship"** (*Прїиди́те, поклони́мся*), we say all things as usually at the Midnight Office; and immediately Psalm 50 and the Canon.
@@ -211,7 +211,7 @@ After the 3rd Ode, the Sessional Hymn; and after the 6th, the Kontakion and Ikos
 
 ---
 
-[Leaf p460 / Page 458]
+=== LEAF p460 ===
 
 *Note Concerning the Plashchanytsia.*
 Concerning the time and place of the deposition of the Plashchanytsia we find no ancient Typikon; for this rite is later, and varies according to different regions. According to the custom of our First-Cathedral Church, the Plashchanytsia remains hung behind the Holy Table above the High Place from Paschal Matins even unto the Apodosis of Pascha inclusively, that is until the Wednesday before the Ascension. According to the custom of other churches of ours, the Plashchanytsia, having been taken from the Tomb before Paschal Matins, is placed upon the Holy Table, where it lies throughout all of Bright Week, and from Thomas Sunday even unto the Apodosis of Pascha, behind the Holy Table. According to others, it lies upon the Holy Table from Pascha until its Apodosis.[^618] When therefore the Plashchanytsia lies upon the Holy Table, the Iliton with the Gospel is placed upon it, and the Liturgy is celebrated upon it. However, it is better to keep the Plashchanytsia behind the Holy Table, because lying upon the Holy Table it is not a little damaged by candles dripping upon it.

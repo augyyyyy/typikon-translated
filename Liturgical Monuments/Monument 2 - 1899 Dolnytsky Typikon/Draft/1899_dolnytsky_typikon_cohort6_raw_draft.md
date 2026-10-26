@@ -1,6 +1,6 @@
 ---
 
-[Leaf p101 / Page 99]
+=== LEAF p101 ===
 
 At the conclusion: the Resurrectional Troparion; **"Glory... Now and forever..."** of the Feast.
 The Small Dismissal, with the commemoration of the Resurrection and of the Feast.
@@ -20,7 +20,7 @@ The Small Dismissal, with the commemoration of the Resurrection and of the Feast
 
 ---
 
-[Leaf p102 / Page 100]
+=== LEAF p102 ===
 
 three Sessional Hymns of the Feast: that is, the 1st Sessional Hymn once, the 2nd Sessional Hymn once; then **"Glory... Now and forever..."** the 3rd Sessional Hymn once; if, however, this one be twofold, then there will be **"Glory..."** one, **"Now and forever..."** the other.[^188]
 3. The Graduals (*Степенна*) of the Tone of the row, and afterwards **"Having beheld the Resurrection of Christ"** (*Воскресе́нїе Хрїсто́во*); all the rest even unto the Canon to the Feast.[^189]
@@ -28,7 +28,7 @@ three Sessional Hymns of the Feast: that is, the 1st Sessional Hymn once, the 2n
 
 ---
 
-[Leaf p103 / Page 101]
+=== LEAF p103 ===
 
 5. At the Praises (*Хвали́техъ*), 8 Stichera: that is, 4 Resurrectional and 4 of the Feast with two Festal Refrains; **"Glory..."** of the Feast, **"Now and forever..." "Most blessed art thou"** (*Преблагослове́нна есѝ*).
 6. After the Great Doxology with the Trisagion, one of the two usual Resurrectional Troparia.
@@ -43,7 +43,7 @@ The Sunday Antiphons. At **"Come, let us worship"** (*Прїиди́те пок�
 
 ---
 
-[Leaf p104 / Page 102]
+=== LEAF p104 ===
 
 ### Feast of the Mother of God on Weekdays
 
@@ -55,7 +55,7 @@ All things are performed according to the Order of the Forefeast set down here p
 
 ---
 
-[Leaf p105 / Page 103]
+=== LEAF p105 ===
 
 ### Afterfeast with a Saint Without a Polyeleos on Sunday
 
@@ -70,7 +70,7 @@ All things are performed according to the Order of the Forefeast set down here p
 
 ---
 
-[Leaf p106 / Page 104]
+=== LEAF p106 ===
 
 #### At Compline
 After **"It is truly right"** with the Trisagion: the Hypakoe of the Tone; **"Glory... Now and forever..."** the Kontakion of the Feast.
@@ -85,7 +85,7 @@ The Triadic Canon of the Oktoechos of the Tone of the row, and the rest as usual
 
 ---
 
-[Leaf p107 / Page 105]
+=== LEAF p107 ===
 
 The Katavasia of the row after each Ode. After the 3rd Ode, the Kontakion-Ikos of the Feast and of the Saint; **"Glory..."** the Sessional Hymn of the Saint, **"Now and forever..."** of the Feast; after the 6th, the Resurrectional Kontakion-Ikos; at the 9th, **"More honorable"**; after the 9th, **"Holy is the Lord our God"** (*Свѧтъ Господь Богъ нашъ*); the Resurrectional Exaposteilarion; **"Glory..."** to the Saint, **"Now and forever..."** of the Feast.
 3. At the Praises (*Хвали́техъ*), 8 Stichera: that is, from the Oktoechos 4 Resurrectional, and of the Feast 4, with two refrains of their own; **"Glory..."** the Gospel Sticheron, **"Now and forever..." "Most blessed art thou"**.
@@ -98,14 +98,14 @@ At all the Hours, the Resurrectional Troparion; then **"Glory..."** at the 1st a
 
 ---
 
-[Leaf p108 / Page 106]
+=== LEAF p108 ===
 
 #### At the Divine Liturgy
 The Antiphons: in an Afterfeast of the Lord, the first two we take from the Feast, and the third the common one with the Refrain of the Feast, likewise also **"Come, let us worship"**;[^201] in an Afterfeast of the Mother of God, the usual Antiphons for all Sundays. The Resurrectional Troparion and of the Feast; **"Glory..."** the Resurrectional Kontakion, **"Now and forever..."** of the Feast; and the Trisagion.[^202] The Prokimenon, Epistle, Alleluia, Gospel, and Communion Hymn of Sunday alone.[^203]
 
 ---
 
-[Leaf p109 / Page 107]
+=== LEAF p109 ===
 
 ### Afterfeast with a Saint Without a Polyeleos on Weekdays and on Saturday
 
@@ -121,7 +121,7 @@ On Friday evening for Saturday: the 1st Theotokion of the departing Tone (the Do
 
 ---
 
-[Leaf p110 / Page 108]
+=== LEAF p110 ===
 
 5. The Middling Dismissal, with the commemoration of the Feast and of the Saint, without the commemoration of the weekday Service, because that is not taken.
 
@@ -140,7 +140,7 @@ All things unchangingly, as in the Horologion.
 
 ---
 
-[Leaf p111 / Page 109]
+=== LEAF p111 ===
 
 of the first and second Saint, then the Sessional Hymn of the first Saint, **"Glory..."** of the second, **"Now and forever..."** of the Feast; after the 6th, the Kontakion and Ikos of the Feast; after the 9th, the Exaposteilarion of the first Saint, **"Glory..."** of the second, **"Now and forever..."** of the Feast.
 — If it be a sixfold Saint, then the Canon of the Feast with the Heirmos on 6, and to the Saint on 6,[^207] the rest as above with a single Saint.
@@ -154,7 +154,7 @@ At all the Hours, the Troparion of the Feast; **"Glory..."** at the 3rd and 9th 
 
 ---
 
-[Leaf p112 / Page 110]
+=== LEAF p112 ===
 
 — If there be two Saints, then **"Glory..."** at the 3rd to the first, and at the 9th to the second Saint; the Kontakia: at the 3rd to the first, at the 9th to the second Saint.[^209]
 
@@ -170,7 +170,7 @@ At all the Hours, the Troparion of the Feast; **"Glory..."** at the 3rd and 9th 
 
 ---
 
-[Leaf p113 / Page 111]
+=== LEAF p113 ===
 
 2. At **"Lord, I have cried,"** 10 Stichera: that is, 3 Resurrectional from the Oktoechos, and 3 of the Feast, and 4 to the Saint; **"Glory..."** to the Saint, **"Now and forever..."** the 1st Theotokion of the current Tone (the Dogmatikon).[^211]
 3. The Prokimenon of the day: **"The Lord is King"** (*Господь воцарися*), and three Readings to the Saint.
@@ -190,7 +190,7 @@ The Triadic Canon from the Oktoechos of the Tone of the row; and all the rest as
 
 ---
 
-[Leaf p114 / Page 112]
+=== LEAF p114 ===
 
 2. The two Kathismata of the row with their Resurrectional Sessional Hymns; then the Polyeleos with the Magnifications, and the Angelic Synaxis. After the Little Ektenia, the Hypakoe of the Tone, and all three Sessional Hymns of the Saint without their Theotokia: that is, the 1st and 2nd; then **"Glory..."** the 3rd, **"Now and forever..."** of the Feast. All the rest even unto the Canon is Resurrectional as usual.
 3. Three Canons, on 14: that is, the Resurrectional one with the Heirmos on 4, and of the Feast on 4, and to the Saint on 6. The Katavasia of the row after each Ode. After the 3rd Ode, the Kontakion and Ikos of the Feast and of the Saint, then the Sessional Hymn of the Saint, **"Glory... Now and forever..."** of the Feast; after the 6th, the Resurrectional Kontakion and Ikos; after the 9th, the Resurrectional Exaposteilarion, **"Glory..."** of the Saint, **"Now and forever..."** of the Feast. At the 9th, **"More honorable"** (except on Sundays within the Feast of Pascha; for then we chant the Heirmos of the Festal Canon).[^214]
@@ -203,7 +203,7 @@ At all the Hours, the Resurrectional Troparion; then **"Glory..."** at the 1st a
 
 ---
 
-[Leaf p115 / Page 113]
+=== LEAF p115 ===
 
 #### At the Divine Liturgy
 1. The Antiphons: in an Afterfeast of the Lord, the first two will be of the Feast, and the third the common one with the Festal Refrain, likewise also **"Come, let us worship."**
@@ -221,7 +221,7 @@ At all the Hours, the Resurrectional Troparion; then **"Glory..."** at the 1st a
 
 ---
 
-[Leaf p116 / Page 114]
+=== LEAF p116 ===
 
 7. The Dismissal, with the commemoration of the Feast and of the Saint.
 
@@ -240,7 +240,7 @@ All things as usual.
 
 ---
 
-[Leaf p117 / Page 115]
+=== LEAF p117 ===
 
 of the Saint twice; **"Glory... Now and forever..."** the Sessional Hymn of the Feast; after the 6th, the Kontakion and Ikos of the Saint; after the 9th, the Exaposteilarion of the Saint twice; **"Glory... Now and forever..."** the Exaposteilarion of the Feast.
 5. At the Praises (*Хвали́техъ*), sometimes 4 Stichera, all to the Saint;[^223] and sometimes 6: that is, 3 of the Feast and 3 to the Saint;[^224] **"Glory..."** to the Saint, **"Now and forever..."** of the Feast.
@@ -258,7 +258,7 @@ In place of **"It is truly right,"** the Heirmos of the Feast.
 
 ---
 
-[Leaf p118 / Page 116]
+=== LEAF p118 ===
 
 ### Afterfeast with a Vigil Saint on Sunday
 
@@ -275,7 +275,7 @@ All things according to the Order of a Polyeleos Saint set down here above on pa
 
 ---
 
-[Leaf p119 / Page 117]
+=== LEAF p119 ===
 
 ### Afterfeast with a Vigil Saint on Weekdays
 
@@ -295,7 +295,7 @@ All things according to the Common Order of a Polyeleos Saint with an Afterfeast
 
 ---
 
-[Leaf p120 / Page 118]
+=== LEAF p120 ===
 
 sometimes to another day, which if it be not occupied by two Saints, or by a single celebrated Saint with a Polyeleos; and sometimes it is restricted to the Canon at Compline, after the Marian Canon.
 2. The Festal Service at an Apodosis, from Vespers even unto the Canon of Matins, has only the weekday form; from the Canon, however, unto the end of Matins, the greater form. If the Apodosis coincides on a Sunday, then Vespers and Matins are great, on account of the Resurrectional Service.

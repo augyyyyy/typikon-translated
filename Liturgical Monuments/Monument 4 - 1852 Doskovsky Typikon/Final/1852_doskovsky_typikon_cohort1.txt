@@ -1,6 +1,6 @@
 # Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852) — Cohort 1 (Leaves p1–p10)
 
-<!-- LEAF: p1 -->
+=== LEAF p1 ===
 
 [Book Page 1]
 
@@ -22,7 +22,7 @@
 
 ---
 
-<!-- LEAF: p2 -->
+=== LEAF p2 ===
 
 [Book Page 2]
 
@@ -59,7 +59,7 @@ After the Sixth Hour, the Divine Liturgy takes place. But if the Divine Liturgy 
 
 ---
 
-<!-- LEAF: p3 -->
+=== LEAF p3 ===
 
 [Book Page 4]
 
@@ -87,7 +87,7 @@ Compline is Small and Great. Small Compline is read throughout the entire year; 
 
 ---
 
-<!-- LEAF: p4 -->
+=== LEAF p4 ===
 
 [Book Page 6]
 
@@ -119,7 +119,7 @@ The Liturgy of St. Basil is chanted without Vespers on the Feast of St. Basil th
 
 ---
 
-<!-- LEAF: p5 -->
+=== LEAF p5 ===
 
 [Book Page 8]
 
@@ -158,7 +158,7 @@ And the Ninth Hour is read in sequence. Then at its conclusion, and after the di
 
 ---
 
-<!-- LEAF: p6 -->
+=== LEAF p6 ===
 
 [Book Page 10]
 
@@ -202,7 +202,7 @@ While he stands before the Holy Table, the serving Deacon (or the lamplighter if
 
 ---
 
-<!-- LEAF: p7 -->
+=== LEAF p7 ===
 
 [Book Page 12]
 
@@ -240,7 +240,7 @@ At the conclusion of the festal stichera, when we say the verse: **"For His merc
 
 ---
 
-<!-- LEAF: p8 -->
+=== LEAF p8 ===
 
 [Book Page 14]
 
@@ -285,7 +285,7 @@ After this, the Deacon, taking the censer and asking a blessing, goes out before
 
 ---
 
-<!-- LEAF: p9 -->
+=== LEAF p9 ===
 
 [Book Page 16]
 
@@ -326,7 +326,7 @@ Then Psalm 33 is read: **"I will bless the Lord at all times..."** (*Благо�
 
 ---
 
-<!-- LEAF: p10 -->
+=== LEAF p10 ===
 
 [Book Page 18]
 

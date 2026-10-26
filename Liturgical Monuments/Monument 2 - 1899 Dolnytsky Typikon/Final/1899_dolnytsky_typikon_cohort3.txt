@@ -1,6 +1,6 @@
 ---
 
-[Leaf p41 / Page 39]
+=== LEAF p41 ===
 
 "Before the Canticle of the Mother of God, the Deacon, or in his stead the Priest, proclaims: **"The Mother of God and Mother of the Light let us magnify in hymns,"** (*Богородицу и Матерь свѣта въ пѣснехъ возвеличимъ*), which our people have chosen to use also on the above-mentioned Great Feasts, when instead of **"My soul doth magnify..."** the Heirmos of the Ode is chanted.[^35]
 During the Canticle of the Mother of God the Typikon directs the Deacon, or the Priest, to cense the Holy Table, the Iconostasis, and the rest, even as at the beginning.
@@ -9,14 +9,14 @@ If, however, such a Saint has two Sessional Hymns or Exapostilaria, then they ar
 
 ---
 
-[Leaf p42 / Page 40]
+=== LEAF p42 ===
 
 the first simply, the second with the refrain: **"Glory..."**, then: **"Now and forever..."** and his Theotokion.[^37] When several Services concur, each with its own Sessional Hymn, Kontakion-Ikos, and Exaposteilarion, then they are taken one after another according to the order of the Services; yet the Kontakion-Ikos of the first Service is taken at the 6th Ode in its own place, while the Kontakion-Ikos of the second Service, according to the Slavonic Typika,[^38] is transferred to the 3rd Ode and placed immediately before the Sessional Hymn. The series of Sessional Hymns and Exapostilaria within a Feast of the Lord or of the Mother of God is concluded by the Festal Sessional Hymn or Exaposteilarion.
 After the Katavasia of the 9th Ode, according to the Slavonic Typikon, **"It is truly right"** (*Достойно есть*) is recited, unless it is Sunday; for if it is Sunday, **"It is truly right"** is omitted; yet thereafter, between the Litany and the Exaposteilarion, we chant in the Tone of the Liturgical Prokimenon the small Troparion: **"Holy is the Lord our God"** (*Святъ Господь Богъ нашъ*) thrice.[^39]"
 
 ---
 
-[Leaf p43 / Page 41]
+=== LEAF p43 ===
 
 ### From the Praises unto the End
 
@@ -27,7 +27,7 @@ And afterwards the other verses are read in order, until we reach the last four 
 
 ---
 
-[Leaf p44 / Page 42]
+=== LEAF p44 ===
 
 at **"Now and forever..."**; on Sundays at **"Glory..."** the appointed Gospel Sticheron, one of the eleven, and at **"Now and forever..."** the Theotokion of the Horologion: **"Most blessed art thou"** (*Преблагословенна еси*).
 While the Doxastikon of the Praises is being chanted, the Priest vests in the Phelonion, and having come before the steps of the Altar and bowed low, opens the Royal Doors, and facing the Altar, stands there. At the conclusion of the Stichera, when he has proclaimed: **"Glory to Thee Who hast shown us the light,"** the Great Doxology is chanted, and the Trisagion with small metanias, the Priest standing before the steps of the Altar and making metanias at the Trisagion. As this is concluding, the Priest, having bowed profoundly, proceeds through the Royal Doors to the Tetrapod from its left side, that is, from the Icon of the Mother of God; and having taken the Gospel and kissed It, he departs by the other side of the Tetrapod, and through the Royal Doors into the Sanctuary, places It upon the Altar, and stands there even unto the end of Matins. Meanwhile, at the conclusion of the Trisagion, Troparia are chanted, as follows:
@@ -38,7 +38,7 @@ If the Service is Sunday on a Sunday, then we chant only one Sunday Troparion of
 
 ---
 
-[Leaf p45 / Page 43]
+=== LEAF p45 ===
 
 "At the conclusion of the Troparia, the Priest chants two Litanies, namely: **"Have mercy on us, O God"** and **"Let us complete"** with the peace-giving according to what was indicated at Vespers; then the Dismissal according to the pattern indicated at Great Vespers without Litiya. And when the Choirs begin the First Hour from **"Come, let us worship"** with metanias alternately, then also the Priest, having made two metanias with the first Choir, closes the Holy Doors, and having bowed profoundly toward the Altar, departs to the Vestry, and having divested himself of the Phelonion, sits in his place behind the Altar."
 
@@ -52,7 +52,7 @@ If the Service is Sunday on a Sunday, then we chant only one Sunday Troparion of
 
 ---
 
-[Leaf p46 / Page 44]
+=== LEAF p46 ===
 
 ### Order of Daily Matins
 
@@ -60,7 +60,7 @@ If the Service is Sunday on a Sunday, then we chant only one Sunday Troparion of
 
 ---
 
-[Leaf p47 / Page 45]
+=== LEAF p47 ===
 
 "the Choirs the Doxology. The Priest stands there until the completion of the Litany: **"Let us complete,"** which follows after the Doxology, at which he also gives peace as at Vespers. After **"Let us complete,"** the Priest departs to his place, having bowed profoundly, and the Aposticha is chanted, and after it: **"It is good to give praise,"** the Trisagion, and the rest with **"Our Father,"** the Priest proclaiming while standing at his place: **"For Thine is the kingdom;"** then the Troparion of the Saint is chanted once, and **"Glory... Now and forever..."** the Dismissal Theotokion according to the Tone of the Troparion of the Saint and the day of the week. If there are two Saints with their own Troparia, then the Troparion of the first Saint is taken, **"Glory..."** of the second, **"Now and forever..."** the Dismissal Theotokion according to the Tone of the second Saint and the day of the week. In Forefeasts and Afterfeasts the Theotokion is not taken, but in its place the Festal Troparion is chanted.[^43] As this is concluding, the Priest goes forth before the Holy Doors and chants the Litany: **"Have mercy on us, O God,"** and after its exclamation, having said: **"Wisdom!"** and the Choir having responded: **"Bless,"** he introduces: **"Blessed and most glorified is He Who is... of ages;"** Choir: **"Amen,"** and immediately: **"Come, let us worship"** with small metanias. The Priest, after the last profound metania, departs to his place, and the First Hour."
 
@@ -70,7 +70,7 @@ If the Service is Sunday on a Sunday, then we chant only one Sunday Troparion of
 
 ---
 
-[Leaf p48 / Page 46]
+=== LEAF p48 ===
 
 ### Order of the Usual Hours
 
@@ -81,7 +81,7 @@ Concerning the Troparia and Kontakia be it known:
 
 ---
 
-[Leaf p49 / Page 47]
+=== LEAF p49 ===
 
 "3. That in the ancient Menologia, which our Menaia follow, Troparia and Kontakia are not appointed for each Saint, as in later times they are found appointed in our Horologia. For this reason be not surprised if regarding the Troparia to be taken at the Hours in the Typika thou findest some discrepancy between the Menaion and our Horologion or Molitvoslov. When therefore a Saint had a Troparion or Kontakion, according to the ancient Typikon they were taken at all the Hours; but according to the Typikon of our Horologia or Molitvoslovy, lest on all the Hours every day one and the same Troparion and Kontakion be taken, for the sake of some distinction there is appointed at the 1st Hour the Troparion and Kontakion of the day of the week, at the 3rd and 9th of the Saint, at the 6th of the Church.
 These things we have said concerning daily Troparia and Kontakia; for on Sunday it is proper to take the Sunday Troparion of the current Tone at each Hour as follows: at the 1st the Sunday Troparion alone; at the 3rd and 9th the Sunday Troparion, then **"Glory..."** the Troparion to the Saint; at the 6th the Sunday Troparion, then **"Glory..."** the Troparion of the Church; the Kontakia alternately, that is, at the 1st the Sunday, at the 3rd to the Saint, at the 6th to the Church, at the 9th again the Sunday. Likewise also on Forefeasts and Afterfeasts of the Lord and of the Mother of God, and on Polyeleos Saints, their Troparia are taken at each Hour, the Church being then omitted.
@@ -89,7 +89,7 @@ Concerning the commemoration made at the Dismissal of the Hours, be it known tha
 
 ---
 
-[Leaf p50 / Page 48]
+=== LEAF p50 ===
 
 "**our true God, through the prayers of His most pure Mother, whose Dormition we celebrate, and of the holy martyr [Name], whose memory we today honor,"** and the rest."
 Hitherto the text of the Synod of Lviv.
@@ -100,7 +100,7 @@ Hitherto the text of the Synod of Lviv.
 
 ---
 
-[Leaf p51 / Page 49]
+=== LEAF p51 ===
 
 # Part II
 
@@ -143,7 +143,7 @@ Hitherto the text of the Synod of Lviv.
 
 ---
 
-[Leaf p52 / Page 50]
+=== LEAF p52 ===
 
 #### Rubrical Notes
 
@@ -159,7 +159,7 @@ Now let us set forth the rubrics for each of the above-mentioned 20 cases.
 
 ---
 
-[Leaf p53 / Page 51]
+=== LEAF p53 ===
 
 "the Heirmologion with musical notes. If there is a Doxastikon to the Saint, then there is **"Glory..."** the Doxastikon to the Saint, then **"Now and forever..."** the 1st Theotokion of the current Tone.[^47]
 — If two Saints occur, there will be 4 Stichera of the Oktoechos, and of the Menaion to the first Saint 3, and to the second 3, then **"Glory... Now and forever..."** the 1st Theotokion of the Tone. If there is a Doxastikon to the first Saint, there will be **"Glory..."** his Doxastikon, then **"Now and forever..."** the 1st Theotokion of the Tone.[^48]
@@ -171,7 +171,7 @@ Now let us set forth the rubrics for each of the above-mentioned 20 cases.
 
 ---
 
-[Leaf p54 / Page 52]
+=== LEAF p54 ===
 
 "6. Great Dismissal with commemoration of the Sunday Service, and of the one Saint, and of the second, if there be.[^52]
 
@@ -186,7 +186,7 @@ For the easier finding of the Theotokia used at Vespers and at Matins according 
 
 ---
 
-[Leaf p55 / Page 53]
+=== LEAF p55 ===
 
 "3. Dismissal: from **"Glory to Thee, O Christ God,"** with the response: **"Glory... Now and forever...; Lord, have mercy"** twice; **"Lord, bless."**[^55]
 
@@ -202,7 +202,7 @@ Trinity Canon of the Oktoechos of the current Tone, invariably as in the Oktoech
 
 ---
 
-[Leaf p56 / Page 54]
+=== LEAF p56 ===
 
 "of the Precious Cross (September 21), and the Forefeast of the Nativity of Christ (December 20); the 14th on the Sundays which are between the Apodosis of Theophany (January 14) and the First Sunday of the Great Fast.[^58] After the 17th or 14th Kathisma, immediately the Angelic Synaxis (*Ангелскiй Соборъ* / Evlogitaria), the Little Litany, and the Hypakoe of the current Tone.
 2. Gradual Antiphons (*Степенна*) of the current Tone from the Oktoechos or from the Heirmologion.
@@ -213,7 +213,7 @@ Trinity Canon of the Oktoechos of the current Tone, invariably as in the Oktoech
 
 ---
 
-[Leaf p57 / Page 55]
+=== LEAF p57 ===
 
 "and the Sessional Hymn of the Saint; after the 6th Ode, the Sunday Kontakion and Ikos; at the 8th Ode, before its Katavasia, the refrain: **"We praise, we bless, we worship the Lord..."**, which we sing to the melody of the Idiomelon refrains according to the Tone of the Katavasia. At the 9th Ode we sing **"My soul doth magnify the Lord"** with **"More honorable than the Cherubim..."** After the 9th Ode, **"Holy is the Lord our God"** thrice, in the Tone of the current Prokimenon, and the Sunday Exaposteilarion, one of the eleven, corresponding to the number of the Sunday Matins Gospel; then **"Glory..."** the Exaposteilarion of the Saint, if he has one, **"Now and forever..."** the Theotokion of the Sunday Exaposteilarion.[^60]
 — If two Saints occur, there will be two Canons of the Oktoechos on 6: that is, the Resurrectional with the Heirmos on 4, and the Marian on 2; and two of the Menaion on 8: that is, to the first Saint on 4 and to the second on 4. The Katavasia after each Ode is the appointed one. After the 3rd Ode, the Kontakion and Ikos of the first and second Saint, if they have them; then the Sessional Hymn of the first without a Theotokion, **"Glory..."** of the second, **"Now and forever..."** his Theotokion.[^61] After the 6th Ode, the Sunday Kontakion and Ikos. After the 9th Ode, the Sunday Exaposteilarion; then, if there be in the Menaion, of the first Saint, **"Glory..."** of the second, **"Now and forever..."** the Theotokion of the Sunday Exaposteilarion.[^62]
@@ -221,7 +221,7 @@ Trinity Canon of the Oktoechos of the current Tone, invariably as in the Oktoech
 
 ---
 
-[Leaf p58 / Page 56]
+=== LEAF p58 ===
 
 "7. At the Praises, 8 Sunday Stichera of the Oktoechos of the current Tone; then **"Glory..."** the Gospel Sticheron, one of the eleven, corresponding to the Sunday Matins Gospel; **"Now and forever..."**: **"Most blessed art thou,"** from the Horologion in the Order of Matins. The refrains of the aforesaid 8 Stichera are not all selected from the Psalms of Praise, but only 6; for to the 7th and 8th are appended the proper Sunday refrains: to the 7th: **"Arise, O Lord;"** to the 8th: **"I will confess Thee."**
 — If a Saint on 6 has Stichera at the Praises, there will be 4 Sunday, and of the Saint with the Doxastikon 4, with his two refrains.[^64]
@@ -235,7 +235,7 @@ Trinity Canon of the Oktoechos of the current Tone, invariably as in the Oktoech
 
 ---
 
-[Leaf p59 / Page 57]
+=== LEAF p59 ===
 
 "2. Dismissal from **"Glory to Thee, O Christ God,"** with the Sunday commemoration, and of the one Saint, and of the second, if there be.
 
@@ -245,7 +245,7 @@ Trinity Canon of the Oktoechos of the current Tone, invariably as in the Oktoech
 
 ---
 
-[Leaf p60 / Page 58]
+=== LEAF p60 ===
 
 "2. Sunday Troparion, **"Glory..."** Sunday Kontakion, **"Now and forever..."** Marian Kontakion, one from the Feasts of the Mother of God, according to the Tone of the Doxastikon of the Sunday Kontakion; or the Kontakion of the Church, if it is a Marian one; but if not, then the Sunday Theotokion according to the Tone of the Sunday Kontakion,[^68] or the general Kontakion: **"Protection of Christians"** (*Заступнице / Предстательство христiанъ*).[^69]
 3. Sunday Prokimenon and Alleluia of the current Tone.

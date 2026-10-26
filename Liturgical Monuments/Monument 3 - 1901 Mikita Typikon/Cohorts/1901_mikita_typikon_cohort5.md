@@ -1,4 +1,4 @@
-<!-- LEAF: p41 -->
+=== LEAF p41 ===
 
 II. There are also such feasts as are not decretal and are merely called “polyeleos feasts,” and that because at Matins they have a “Polyeleos.”  
 Those feasts are:  
@@ -14,7 +14,7 @@ Those feasts are:
 10. In June: (α) On the 11th: The Holy Apostles Bartholomew and Barnabas; (β) On the 19th: The Holy Apostle Jude, Brother of the Lord.  
 11. In July: (α) On the 2nd: The Deposition of the Precious Robe of the Most Holy Theotokos; (β) On the 5th: St. Cyril and St. Methodius, Enlighteners of the Slavs, and our Venerable Father Athanasius of Athos; (γ) On the 10th: The Memory of St. Anthony of the Caves; (δ) On the 15th: St. Vladimir;
 
-<!-- LEAF: p42 -->
+=== LEAF p42 ===
 
 (ε) On the 24th: St. Boris and St. Gleb; (ϛ) On the 25th: The Dormition of St. Anna; (η) On the 27th: St. Panteleimon.  
 12. In August: (α) On the 9th: The Holy Apostle Matthias; (β) On the 31st: The Deposition of the Sash of the Most Holy Virgin.
@@ -27,7 +27,7 @@ I. There are such feasts as have at Vespers the customary kathisma, at “Lord, 
 
 These are: 1. September 1: The Beginning of the Indiction; 2. Sept. 12: The Apodosis of the Nativity of the Most Holy Virgin; 3. Sept. 13: The Commemoration of the Renewal [Dedication] of the Church of our Lord Jesus Christ;[^24] 4. Sept. 23: The Conception of St. John the Baptist; 5. Sept. 21: The Apodosis of the Exaltation of the Precious Cross; 6. Oct. 23: St. James, Brother of the Lord; 7. Nov. 25: The Apodosis of the Entry; 8. Dec. 26: The Synaxis of the Most Holy Virgin;[^25] 9. Dec. 31: The Apodosis of the Nativity; 10. Jan. 7: The Synaxis of St. John the Baptist; 11. Jan. 14: The Apodosis of Theophany; 12. Feb. 9: The Apodosis of the Meeting; 13. Cheesefare Saturday, which is of All Venerable Fathers; 14. March 26: The Apodosis of the Annunciation; 15. Saturday of the Akathist; 16. Lazarus Saturday; 17. Great Saturday; 18. Mid-Pentecost Wednesday; 19. The Apodosis of Mid-Pentecost; 20. The Apodosis of Pascha (on Wednesday before Ascension); 21. The Apodosis of Ascension (on Friday before the Descent of the Holy Spirit); 22. Monday of the Holy Spirit;[^26] 23. The Apodosis of the Descent of the Holy Spirit (on Saturday before the Sunday of All Saints); 24. June 30: The Synaxis of the Holy 12 Apostles; 25. Aug. 1: The Procession of the Precious Wood of the Honorable and Life-Giving Cross; 26. Aug. 13: The Apodosis of the Transfiguration; 27. Aug. 16:
 
-<!-- LEAF: p43 -->
+=== LEAF p43 ===
 
 The Translation from Edessa to Constantinople of the Icon Made without Hands; 28. Aug. 23: The Apodosis of the Dormition.[^27]
 
@@ -35,7 +35,7 @@ II. But among the lesser feasts there are also such feasts as are designated in 
 
 Of these feasts there are more; among them the most notable are: 1. Sept. 5: The Holy Prophet Zachariah, father of St. John the Baptist; 2. Sept. 6: Commemoration of the Miracle Wrought at Colossae; 3. Sept. 9: Holy Joachim and Anna; 4. Sept. 24: The Holy Protomartyr Thecla. She was received into the faith of Christ by the Holy Apostle Paul; 5. Sept. 29: Our Venerable Father Cyriacus the Anchorite. Cyriacus was a Corinthian by birth, living in the time of Emperor Theodosius, and as a monk lived for 109 years; 6. Sept. 30: St. Gregory of Greater Armenia. By order of his kinsman Tiridates, King of Armenia, he was cast into captivity, where he remained for 15 years; 7. Oct. 2: The Holy Hieromartyr Cyprian. He suffered as bishop in the time of Emperor Decius in the year 247; 8. Oct. 3: The Holy Hieromartyr Dionysius the Areopagite. He received the Christian faith from the Holy Apostle Paul, and as bishop died a martyr's death in the year 98; 9. Oct. 7: The Holy Martyrs Sergius and Bacchus, who suffered under Emperor Maximian in the year 288; 10. Oct. 20: The Holy Great-Martyr Artemius, who suffered in the time of Emperor Julian the Apostate in the year 344; 11. Oct. 21: Our Venerable Father Hilarion († 325); 12. Nov. 1: St. Cosmas and St. Damian; 13. Nov. 6: Holy Father Paul, Confessor of Constantinople, who lived in the time of Constantius; 14. Nov. 17: St. Gregory, Bishop of Neo-Caesarea; 15. Nov. 28: St. Stephen the New; 16. Dec. 12: Our Venerable Father Spyridon the Wonderworker, Bishop of Trimythous; 17. Jan. 16: The Veneration of the Precious Chains of the Holy Apostle Peter; 18. Jan. 18: St. Athanasius; 19. Jan. 28: St. Ephrem; 20. Jan. 29: St. Ignatius the God-Bearer; 21. Jan. 30: St. Cyrus and John; 22. Feb. 17: The Holy Great-Martyr Theodore
 
-<!-- LEAF: p44 -->
+=== LEAF p44 ===
 
 the Tyro; 23. April 1: Venerable Mary of Egypt; 24. May 7: Commemoration of the Sign of the Precious Cross which Appeared in the Heavens in Jerusalem; 25. May 24: Venerable Symeon; 26. June 8: The Holy Great-Martyr Theodore Stratelates, in memory of the translation of his relics from Heraclea to Euchaita; 27. June 9: St. Cyril, Archbishop of Alexandria; 28. June 28: The Translation of the Relics of the Holy Wonderworkers and Unmercenaries Cyrus and John; 29. July 1: The Holy Unmercenaries Cosmas and Damian; 30. July 8: The Holy Martyr Procopius; 31. July 24: St. Christina; 32. Aug. 2: The Translation of the Relics of St. Stephen the Archdeacon and Protomartyr.
 
@@ -49,7 +49,7 @@ His Excellency Julius Firczák, Bishop of Mukachevo, under number 4227:1897 give
 
 I. Great and decretal feasts, namely: (α) Of the 1st division is Pascha, sorrowful and joyful, that is, Great Friday and the Bright Resurrection; (β) Of the 2nd division are these 12: Nativity of the Theotokos, Entry, Annunciation, Nativity of Christ, Meeting, Theophany [Baptism],
 
-<!-- LEAF: p45 -->
+=== LEAF p45 ===
 
 Transfiguration, Entry into Jerusalem, Ascension, Descent of the Holy Spirit, Dormition of the Most Holy Virgin, and Exaltation of the Precious Cross; on all these we celebrate a Litiya; (γ) Of the 3rd division are: The Circumcision of the Lord, Protection of the Most Holy Virgin, Nativity and Beheading of the Head of John the Baptist, the Holy Apostles Peter and Paul, Holy Father Nicholas, and the feast of the church patron. On the Circumcision we celebrate a Litiya only if it falleth on a Sunday. On the Protection of the Most Holy Virgin, by the decree of His Excellency our Bishop Julius, given under number 1557:1898, we therefore celebrate a Litiya because this day is the feast of the Patroness of our Eparchy of Mukachevo. On the Nativity and on the Beheading of the Honorable Head of St. John the Baptist it is proper to celebrate a Litiya, but we do not celebrate a Litiya, except where there is the patronal feast of a church. On the day of the Holy Apostles Peter and Paul we always celebrate a Litiya, likewise also on the day of Holy Father Nicholas, for Holy Father Nicholas is the Patron of our Greek-Ruthenian Church; besides these, we celebrate a Litiya also on the patronal feast of a church.
 
@@ -59,7 +59,7 @@ II. Middle feasts are divided into decretal, and into choral, that is, polyeleos
 
 (b) Polyeleos feasts are the following: 1. Jan. 11: St. Theodosius the Great; 2. Jan. 17: St. Anthony the Great; 3. Jan. 20: St. Euthymius the Great; 4. Jan. 25: St. Gregory the Theologian; 5. Jan. 27: The Translation of the Relics of St. John Chrysostom; 6. Feb. 24: The First and Second Finding of the Honorable Head of St. John the Baptist; 7. March 9: The 40 Martyrs; 8. April 25: St. Mark the Evangelist; 9. April 30: The Holy Apostle James, son of Zebedee; 10. May 8: St. John the Evangelist; 11. May 10: The Holy Apostle Simon; 12. May 21: St. Constantine and St.
 
-<!-- LEAF: p46 -->
+=== LEAF p46 ===
 
 Helen; 13. May 25: The Third Finding of the Head of St. John the Baptist; 14. June 11: The Holy Apostles Bartholomew and Barnabas; 15. June 19: The Holy Apostle Jude; 16. July 2: The Deposition of the Robe of the Most Holy Virgin; 17. July 5: St. Cyril and St. Methodius; 18. July 25: The Dormition of St. Anna; 19. July 27: St. Panteleimon; 20. Aug. 9: The Holy Apostle Matthias; 21. Aug. 31: The Deposition of the Sash of the Most Holy Virgin; 22. Sept. 26: The Falling Asleep of St. John the Evangelist; 23. Oct. 6: The Holy Apostle Thomas; 24. Oct. 9: The Holy Apostle James, son of Alphaeus; 25. Oct. 18: St. Luke the Evangelist; 26. Oct. 26: St. Demetrius the Great-Martyr; 27. Nov. 13: St. John Chrysostom; 28. Nov. 14: The Holy Apostle Philip; 29. Nov. 16: The Holy Apostle and Evangelist Matthew; 30. Nov. 30: The Holy Apostle Andrew; 31. Dec. 5: Our Venerable Father Sabbas; 32. Dec. 9: The Immaculate Conception of the Most Holy Virgin.
 
@@ -67,7 +67,7 @@ III. Lesser feasts, that is, doxology feasts, are the following: 1. Jan. 7: The 
 
 Note 1: The following days: 1. May 3: The Dormition of St. Theodosius of the Caves; 2. May 9: The Translation of the Relics of St. Nicholas; 3. July 10: St. Anthony of the Caves; 4. July 15: St. Vladimir; 5. July 24: St. Boris and St. Gleb; 6. Sept. 16: St. Josaphat; 7. Oct. 28: St. Paraskeva—are in our cathedral
 
-<!-- LEAF: p47 -->
+=== LEAF p47 ===
 
 church only commemorative days without a Polyeleos and without the Great Doxology. (See Eparchial Ordinariate number 3212:1897.)
 
@@ -81,7 +81,7 @@ Note 4: The Galician-Greek Church hath also proper feasts (*festa propria*), and
 
 Sunday is dedicated to the Resurrection of Christ; of all Sundays there are 52. They are reckoned either after the Resurrection, 1st, 2nd, etc., or after the Descent of the Holy Spirit, 1st, 2nd, etc., or 1st, 2nd, etc., of the Fast.
 
-<!-- LEAF: p48 -->
+=== LEAF p48 ===
 
 Monday is dedicated to the Angels; Tuesday to St. John the Baptist; Wednesday and Friday to the Precious Cross; Thursday to the Apostles and St. Nicholas; Saturday to All Saints and the Departed.
 
@@ -93,7 +93,7 @@ Free or fast-free (*pospolyta*) days are: 1. The week after the Nativity of Chri
 
 Requiem days: 1. The Saturday of Meatfare Sunday; 2. The Saturday before the Descent of the Holy Spirit (these days are *per excellentiam* All Souls’ Saturdays [*zadushni suboty*]); 3. The 2nd, 3rd, and 4th Saturdays of the Great Fast.
 
-<!-- LEAF: p49 -->
+=== LEAF p49 ===
 
 # CHAPTER II
 
@@ -107,7 +107,7 @@ It is not permitted to use unapproved books or books approved by schismatics in 
 
 1. The Horologion (in Greek: *Horologion* [Ὡроλόγιον], from the word: *hora* [ὥра] = *hora* [hour]), which is so called because the services contained therein had to be completed daily according to appointed hours (*per horas*), according to the words of the Psalmist: “Seven times a day have I praised Thee for the judgements of Thy righteousness” (Ps. 118:164 [LXX]). It containeth in itself: (α) Morning prayers for lay people; (β) The service of the Midnight Office, daily, Saturday, and Sunday; (γ) The Order of Matins, both Sunday and daily; (δ) The Hours with the Typika [*Obidnytsia*]; (ε) The Order of Vespers with Litiya; (ϛ) The service of Compline, small and great, with the Paraklesis to the Most Holy Virgin; (η) Various services, both Sunday and for the departed, prayers before Communion and after Communion, besides this also prayers for those going to sleep;
 
-<!-- LEAF: p50 -->
+=== LEAF p50 ===
 
 (ϑ) Sunday Troparia with Theotokia, Kontakia and Hypakoai, Prokeimena and Communion Hymns of the eight Sunday tones; likewise the daily Troparia with Kontakia and other chants of the entire week; (ι) Dismissal Theotokia in 8 tones and for all days of the week, sung after the Troparia of the Saints throughout the whole year at Vespers and at Matins at “The Lord is God” and again at the conclusion; (κ) The Menologion for the entire year according to movable[^33] and immovable feasts, in which the Troparion, Kontakion, Prokeimenon, and Communion Hymn of the feast or of the Saint, and at great feasts also the Antiphons with the Zadostoiniki [Hymns in place of *It is truly meet*], are found; (λ) Finally, there are the Indiction, Paschalion, and other rubrical directions.
 

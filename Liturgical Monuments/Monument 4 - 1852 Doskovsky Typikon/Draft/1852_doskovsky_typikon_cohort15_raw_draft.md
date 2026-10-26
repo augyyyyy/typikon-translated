@@ -1,6 +1,6 @@
 # Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852) — Cohort 15 (Leaf p141)
 
-<!-- LEAF: p141 -->
+=== LEAF p141 ===
 
 [Book Page 278 (Table of Contents Conclusion)]
 

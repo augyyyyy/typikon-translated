@@ -1,4 +1,4 @@
-<!-- LEAF: p231 -->
+=== LEAF p231 ===
 
 [...Blessed be the] name [of the Lord,”] the choir readeth Psalm 33 (“I will bless the Lord”), and upon the conclusion of this reading exclaimeth: “It is truly right... of our [God],” unto which the priest exclaimeth: “Wisdom!” and the choir continueth: “More honorable than the Cherubim,” etc., and there is the dismissal and blessing. After the dismissal the priest saith: “Now lettest Thou Thy servant depart,” etc., and the prayers found in the Sluzhebnik. Finally, having kissed the holy Altar-Table and the Cross, he departeth from the holy Altar-Table and, having divested himself of the priestly vestments, washeth his hands, readeth the prayers after Holy Communion, and having given thanks unto God, departeth.
 
@@ -20,7 +20,7 @@ I. How the Liturgy is Celebrated if it is Sunday and a Minor Saint?
 
 At the Liturgy the typical antiphons are sung, that is, “Bless the Lord, O my soul” (Psalm 102) and “Praise the Lord, O my soul” (Psalm 145). The first is concluded with “Glory... now and forever,” and the second after “Glory
 
-<!-- LEAF: p232 -->
+=== LEAF p232 ===
 
 and now and forever” with the hymn “Only-begotten Son,” etc. At the Beatitudes, the Sunday stichera of the Oktoechos on 8. After the entrance, the Sunday troparion; “Glory”: the Sunday kontakion; “Now and forever”: the kontakion according to the tone from the feasts of the Mother of God,[^231] or of the temple, if the temple is of Christ or of the Mother of God,[^232] or “O Protection of Christians,” if the temple is of a Saint.[^233] The Prokimenon of the tone. The Epistle and Gospel of the Sunday. The Communion Hymn likewise of the Sunday: “Praise the Lord.” From this it is evident that a Minor Saint hath no proper celebration at the Liturgy.
 
@@ -36,7 +36,7 @@ III. How the Liturgy is Celebrated if it is Sunday and a Polyeleos Saint.
 
 “Bless the Lord, O my soul,” etc. The Beatitudes of the tone in course on 6, and unto the Saint Ode 3 on 4. After the entrance, the Sunday troparion and the troparion of the Saint; the Sunday kontakion; “Glory”: the kontakion of the Saint; “Now and forever”: the kontakion according to the tone from the feasts of the Mother of God, or “O Protection of Christians.” The Prokimenon, Epistle, Gospel, and Communion Hymn of the Sunday and of the Saint.
 
-<!-- LEAF: p233 -->
+=== LEAF p233 ===
 
 §. 152.
 
@@ -56,7 +56,7 @@ VI. How the Liturgy is Celebrated if it is Sunday and a Feast of the Lord?
 
 Festal antiphons are taken.[^234] After each verse of the 1st festal Antiphon there is appended the refrain: “Through the prayers of the Mother of God, O Savior, save us”; after each verse of the 2nd Antiphon there is appended the refrain: “Save us, O Son of God, Who art risen from the dead” (or “Who wast born of the Virgin,” or “Who wast transfigured on the mount,” corresponding to the feast), “who chant unto Thee: Alleluia.” After the 2nd Antiphon: “Glory... now and forever,” “Only-begotten Son.” After each verse of the 3rd Antiphon the troparion of the feast is sung. Likewise instead of “Come, let us worship,” the great feasts have an Introit [Entrance Hymn], that is, entrance verses of the feast taken from the prophetic Psalms pertaining unto the
 
-<!-- LEAF: p234 -->
+=== LEAF p234 ===
 
 feast. After the entrance, the troparion of the Feast; “Glory... now and forever”: the kontakion of the Feast. At the Megalynarion [“Especially”], instead of “It is truly right,” the refrain of the feast is sung with the Heirmos of the 9th Ode. The Prokimenon, Epistle, Gospel, and Communion Hymn of the Feast; of the Sunday nothing is taken.[^235]
 
@@ -73,7 +73,7 @@ VII. How the Liturgy is Celebrated if it is Sunday and within a Feast there is a
 
 Unto the Minor Saint nothing is taken, but only unto the Sunday and the Afterfeast. There are sung: the typical antiphons; stichera at the Beatitudes of the tone on 6, and of the feast the ode in course from the canon on 4. After the entrance, if it is an afterfeast of a Feast of the Lord, after “Wisdom! Stand aright!”: “Come, let us worship” and “Save us, O Son of God, Who wast born of the Virgin,” or “Who wast transfigured on the mount,” etc. After the entrance, the Sunday troparion, the troparion of the feast; “Glory”: the Sunday kontakion; “Now and forever”: the kontakion of the feast. The Prokimenon of the tone and of the feast. The Epistle and Gospel of the Sunday only. Instead of “It is truly right,” the refrain of the feast with the Heirmos of the 9th Ode. The Communion Hymn of the Sunday and of the Feast.
 
-<!-- LEAF: p235 -->
+=== LEAF p235 ===
 
 §. 156.
 
@@ -93,7 +93,7 @@ X. How the Liturgy is Celebrated if the Apodosis of a Feast Falleth on a Sunday?
 
 The typical antiphons. The Beatitudes of the tone on 6, and of the feast Ode 9 on 4, that is, unto 4 verses of the Beatitudes the 4 troparia of the 9th Ode of the Matins canon prescribed for the feast are appended. At the entrance, if it is the Apodosis of a Feast of the Lord, there is sung: “Come, let us worship” and the final refrain of the feast. After the entrance: the Sunday troparion and the troparion of the feast;
 
-<!-- LEAF: p236 -->
+=== LEAF p236 ===
 
 “Glory”: the Sunday kontakion; “Now and forever”: the kontakion of the feast. The Epistle and Gospel of the Sunday in course only. Instead of “It is truly right,” the Heirmos of the 9th Ode of the feast is sung. The Prokimenon and Communion Hymn of the Sunday and of the Feast. The dismissal of the Sunday.
 
@@ -116,7 +116,7 @@ XII. How the Holy Liturgy is Celebrated if it is a Weekday and a Minor Saint?
 
 The weekday service according to the Oktoechos is taken on Monday unto the Angels, on Tuesday unto the Forerunner, on Wednesday and Friday unto the Cross, on Thursday unto the Apostles and Saint Nicholas, and on Saturday unto All Saints. But the service unto those Saints at the Liturgy is taken only
 
-<!-- LEAF: p237 -->
+=== LEAF p237 ===
 
 then, when upon a weekday there falleth a Minor or Middle Saint.[^237]
 On such days the daily antiphons are taken (1st Antiphon: “It is good to give praise”; 2nd Antiphon: “The Lord reigneth”; 3rd Antiphon: “Come, let us rejoice in the Lord”).[^238]
@@ -129,7 +129,7 @@ XIII. How the Liturgy is Celebrated on a Weekday if there is a Saint on 6.
 
 The daily antiphons, unless the Saint hath [stichera] at the Beatitudes, otherwise the typical antiphons. After the entrance: the troparion of the day and the troparion of the Saint (if he hath an Epistle and Gospel), the kontakion of the day; “Glory”: the kontakion of the Saint; “Now and forever”: the kontakion as above. The Prokimenon, Epistle, Gospel, and Communion Hymn of the day and of the Saint, if he hath them.[^241]
 
-<!-- LEAF: p238 -->
+=== LEAF p238 ===
 
 Note. If there is a service of a particular intention, there is sung: the troparion of the day, the troparion of the Saint, and the troparion of intention; the kontakion of the day, the kontakion of the Saint; “Glory”: the kontakion of intention; “Now and forever”: the Theotokion, as above. On Wednesday or Friday it is covered with the daily kontakion of the Cross.
 
@@ -146,7 +146,7 @@ XV. What We Need to Note Concerning Weekday Liturgies Celebrated during the Holy
 
 Since those Sundays are festal, whose entire service is repeated also on weekdays, therefore the troparia, kontakia, prokimena, and communion hymns of those Sunday services are likewise repeated on weekdays at the liturgical services. The Epistles and Gospels are read daily in course, corresponding to the festal Sundays. Concerning these Liturgies we note the following:
 
-<!-- LEAF: p239 -->
+=== LEAF p239 ===
 
 1) At a weekday Liturgy during the Holy Pentecostarion with the service of a Minor Saint:
 (α) Without an intention: The typical antiphons and the Beatitudes of the feast, the ode in course. After the entrance: the Sunday troparion (festal, of the resurrection),[^245] “Glory... now and forever”: the festal kontakion (of the Sunday).[^246] The Prokimenon and Communion Hymn of the festal Sunday: “Praise the Lord”:[^247] In place of “It is truly right”: “The Angel cried aloud,” and at Mid-Pentecost: the Heirmos of the 9th Ode until the Apodosis.
@@ -163,7 +163,7 @@ XVI. How the Liturgy is Celebrated on Weekdays if a Forefeast Occurreth with a M
 Unto the Minor Saint at the Liturgy nothing is taken. There are taken: the typical antiphons. After the entrance: the troparion of the forefeast; “Glory... now and forever”: the kontakion of the forefeast. The Prokimenon, Epistle, Gospel, and Communion Hymn of the day (in course).
 If there is also a service of some intention, then it is taken thus: The troparion of the forefeast and the troparion of intention; “Glory”: the kontakion of intention; “Now and forever”: of the forefeast. The Prokimenon, Epistle, Gospel, and Communion Hymn of the day and of intention.
 
-<!-- LEAF: p240 -->
+=== LEAF p240 ===
 
 §. 165.
 

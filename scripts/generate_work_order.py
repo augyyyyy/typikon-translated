@@ -113,98 +113,22 @@ def generate_monument_startup_directive(monument_id: Optional[str] = None) -> Pa
         )
     table_str = "\n".join(table_lines)
 
-    directive_content = f"""# Autonomous Monument Translation Directive: {mon_info.get('title')}
-## Complete Unabridged Translation Execution Specification across All {num_cohorts} Cohorts
-
-> [!IMPORTANT]
-> **Sovereign Autonomous Execution Mandate (Rule 14 of `.agents/AGENTS.md`)**  
-> This directive equips the Automator / Worker Agent with the **complete codex partition schedule and autonomous loop controller** for **{mon_info.get('title')}** ({total_pages} physical pages).  
-> **Zero Inter-Cohort Human Stalls**: The Automator executes continuously through Cohort 1 to Cohort {num_cohorts}, triggering backend Small Pause Gates (`scripts/run_small_pause_gate.py`) automatically between cohorts.  
-> Execution yields to the Human Operator **strictly and exclusively at the Sovereign Grand Pause** when 100% of all {total_pages} leaves are translated and assembled (`remaining_pages == 0`).
-
----
-
-## 1. Codex Transmission Metadata & Conservation Scope
-* **Monument ID**: `{monument_id}`
-* **Title**: {mon_info.get('title')}
-* **Source Facsimile**: `{rel_pdf}`
-* **Total Physical Pages**: **{total_pages} leaves**
-* **Cohort Bounding**: Strictly **{cohort_size} physical pages** per cohort ($15 \\le C \\le 25$, final cohort = {partitions[-1]['leaf_count']} leaves)
-* **Total Scheduled Cohorts**: **{num_cohorts} cohorts**
-* **Governing Register**: **{genre_register.upper()}** (Per Master Translation Standard MTS-1)
-* **Mathematical Conservation**:
-  $$\\mathbf{{Total\\ Physical\\ Pages\\ in\\ Codex}} \\equiv \\sum_{{k=1}}^{{{num_cohorts}}} C_k = ({num_cohorts - 1} \\times {cohort_size}) + {partitions[-1]['leaf_count']} = {total_pages} \\text{{ Leaves (100.0% Closed Conservation)}}$$
-
----
-
-## 2. Inviolable Liturgical Translation Standards (MTS-1 / TA-1)
-
-### A. Universal Native Vision Mandate (Physical Ink Sovereignty)
-* Inspect each 300 DPI image (`p{{N}}.png`) in `{rel_ws}/Source Text/images/` directly.
-* Cinnabar Rubrics: Red ink is visually identified and rendered in ceremonial italics (`*...*`); black ink is rendered in spoken/chanted prayers, psalmody, and hymnography.
-
-### B. Ceremonial / Rubrical Register Norms ({genre_register.upper()})
-* Concise, imperative, and active: Use **Active Present Indicative** for all rubrical actions (*"The Priest enters the sanctuary, venerates the Holy Table, and begins..."*).
-* Absolute prohibition of gratuitous legalistic *"shall"*s in ordinary liturgical rubrics.
-
-### C. Byzantine-Ruthenian Realia & Melodic Headings
-* Technical Loanwords mandatory: `Tetrapod` (never "center table"), `Klepalo`, `Aer`, `Kolyvo`, `Plashchanytsia`, `Sluzhebnik`, `Trebnik`.
-* Ruthenian Chant Headings: Tone designations must be **`Tone 1`** through **`Tone 8`** (never Greek "Mode I").
-* Model Melodies: **`Podoben: "[Canonical Incipit]"`**, **`Samohlasen`** (proper melody), **`Samopodoben`**.
-* Dual Incipits: Bold English followed by italicized Slavonic (*"Lord, I have cried"* (*Господи воззвахъ*)).
-
-### D. Father Paul Doxology Standard & Hieratic Pronouns
-* Full choral: *"Glory be to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen."*
-* Shorthand rubric: *"Glory... Now and forever, and unto the ages of ages:"*
-* **Strict Ban**: The phrase *"for ever and ever"* is 100% prohibited.
-* **100% Deity Pronoun Capitalization**: Mandatory capitalization for Divine Persons (*He, Him, His, Thou, Thee, Thy, Thine*). Clergy, celebrants, saints, and rubrical "he" remain lowercase.
-
-### E. Scripture & Psalter (Septuagint LXX)
-* Mandatory Septuagint versification across all psalm citations and biblical references.
-
-### F. Footnote Bijectivity
-* Continuous monotonic numbering across the monument: Every `[^N]` in body text must have a matching `[^N]:` definition.
-
----
-
-## 3. Autonomous Multi-Cohort Loop Controller Specification
-
-For each cohort $k \\in [1, {num_cohorts}]$:
-
-```
-[COHORT LOOP: k = 1 to {num_cohorts}]
-  1. INGESTION : Verify/render 300 DPI leaves p{{start}}..p{{end}} in '{rel_ws}/Source Text/images/'
-  2. TRANSCRIPTION : Transcribe source ink into '{rel_ws}/Source Text/{monument_id}_cohort{{k}}_source.txt'
-  3. TRANSLATION : Draft unabridged English into '{rel_ws}/Draft/{monument_id}_cohort{{k}}_raw_draft.md'
-  4. FOOTNOTES : Write definitions into '{rel_ws}/Draft/{monument_id}_cohort{{k}}_footnotes.txt'
-  5. SMALL PAUSE GATE : Run 'python scripts/run_small_pause_gate.py --monument {monument_id} --cohort {{k}}'
-     - Gate 1: Shared_Lexicon/lint_vocabulary.py (0 violations)
-     - Gate 2: scripts/hieratic_pronoun_audit.py (100% Deity capitalization)
-     - Gate 3: scripts/reconcile_footnotes.py (1:1 footnote parity)
-     - Gate 4: scripts/structural_audit.py (unbroken sequence)
-  6. INTEGRATION : Run 'python scripts/assemble_and_sync_hub.py --monument {monument_id} --cohort {{k}}'
-     - Promotes Draft -> Final MD & Final
-     - Appends footnotes to Final_footnotes.txt
-     - Advances ACTIVE_ORCHESTRATOR_STATE.json
-  7. NEXT COHORT : If k < {num_cohorts}, immediately advance to cohort k+1. DO NOT pause for human input!
-[END LOOP at k = {num_cohorts} -> REACHED SOVEREIGN GRAND PAUSE]
-```
-
----
-
-## 4. Complete Codex Partition Schedule ({num_cohorts} Cohorts)
-
-{table_str}
-
----
-
-## 5. Sovereign Grand Pause Termination
-When Cohort {num_cohorts} completes its Small Pause Gate and final integration:
-- `remaining_pages == 0`
-- The entire {total_pages}-page codex is assembled in `{rel_ws}/Final MD/{monument_id}_complete.md`
-- Deliverables are synchronized to `Projects/Typikon Coded/Data/Inbox/{mon_info.get('short_title', monument_id).replace(' ', '_')}/`
-- Automator halts and delivers the final Grand Pause notification to the Human Operator.
-"""
+    template_dir = PROJECT_ROOT / "data" / "templates"
+    directive_tpl = (template_dir / "monument_startup_directive_template.md").read_text(encoding="utf-8")
+    directive_content = directive_tpl.format(
+        title=mon_info.get("title"),
+        num_cohorts=num_cohorts,
+        num_cohorts_minus_1=num_cohorts - 1,
+        total_pages=total_pages,
+        monument_id=monument_id,
+        rel_pdf=rel_pdf,
+        cohort_size=cohort_size,
+        last_leaf_count=partitions[-1]["leaf_count"],
+        genre_register_upper=genre_register.upper(),
+        rel_ws=rel_ws,
+        table_str=table_str,
+        short_title_slug=mon_info.get("short_title", monument_id).replace(" ", "_"),
+    )
 
     directive_path = workspace_dir / "AUTONOMOUS_MONUMENT_DIRECTIVE.md"
     with open(directive_path, "w", encoding="utf-8") as f:
@@ -267,7 +191,7 @@ def generate_work_order(
 
     source_lang = mon_info.get("source_language", "Church Slavonic")
     if "bilingual" in source_lang.lower():
-        transcription_inst = f"Transcribe Greek and bilingual English facing text leaf-by-leaf with headers `=== LEAF p{{start_page}} ===` (Greek on even folios, English on odd folios)."
+        transcription_inst = "Transcribe Greek and bilingual English facing text leaf-by-leaf with headers `=== LEAF p{start_page} ===` (Greek on even folios, English on odd folios)."
         translation_inst = f"Translate and critically audit into MTS-1 compliant text in `{draft_md_out.name}` with inline footnote markers `[^N]`, rectifying chant terms to Tone 1–8 and canonical UGCC loanwords."
     elif "russian" in source_lang.lower():
         transcription_inst = f"Transcribe Russian source text, Church Slavonic incipits, and Greek citations leaf-by-leaf with headers `=== LEAF p{{N}} ===` (for each leaf p{start_page} through p{end_page})."
@@ -276,42 +200,47 @@ def generate_work_order(
         transcription_inst = f"Transcribe Church Slavonic source text leaf-by-leaf with headers `=== LEAF p{{N}} ===` (for each leaf p{start_page} through p{end_page})."
         translation_inst = f"Translate unabridged into `{draft_md_out.name}` with inline footnote markers `[^N]`."
 
-    content = f"""# Work Order: {mon_info.get('title')} — Cohort {cohort_num}
+    scaffolds_path = PROJECT_ROOT / "data" / "templates" / "publication_spec_scaffolds.json"
+    if scaffolds_path.exists():
+        try:
+            scaffolds = json.loads(scaffolds_path.read_text(encoding="utf-8"))
+            key = "octoechos" if "octoechos" in monument_id.lower() else "default"
+            h1_inst = scaffolds.get(key, scaffolds.get("default", {})).get("canonical_h1_instruction", "")
+            if h1_inst:
+                translation_inst = f"{translation_inst} {h1_inst}"
+        except (OSError, json.JSONDecodeError) as e:
+            print(f"[Warning] Could not load publication_spec_scaffolds.json: {e}", file=sys.stderr)
 
-**Document ID**: `{monument_id}`  
-**Cohort Number**: {cohort_num}  
-**Physical Leaves**: Physical pages {start_page} to {end_page} (`p{start_page}.png` through `p{end_page}.png`, {leaf_count} leaves total)  
-**Starting Footnote Index**: `[^{starting_footnote}]`  
-**Governing Genre Register**: **{genre_register.upper()}** (Per Master Translation Standard MTS-1)  
-**Image Cache Directory**: `{images_dir.relative_to(PROJECT_ROOT)}`  
+    work_order_tpl = (PROJECT_ROOT / "data" / "templates" / "work_order_template.md").read_text(encoding="utf-8")
+    content = work_order_tpl.format(
+        title=mon_info.get("title"),
+        cohort_num=cohort_num,
+        monument_id=monument_id,
+        start_page=start_page,
+        end_page=end_page,
+        leaf_count=leaf_count,
+        starting_footnote=starting_footnote,
+        genre_register_upper=genre_register.upper(),
+        genre_register_cap=genre_register.capitalize(),
+        images_rel=images_dir.relative_to(PROJECT_ROOT),
+        source_rel=source_out.relative_to(PROJECT_ROOT),
+        draft_rel=draft_md_out.relative_to(PROJECT_ROOT),
+        footnotes_rel=footnotes_out.relative_to(PROJECT_ROOT),
+        footnotes_name=footnotes_out.name,
+        transcription_inst=transcription_inst,
+        translation_inst=translation_inst,
+    )
 
----
-
-## 1. Statutory Mandates & Inviolable Guardrails (MTS-1 / TA-1)
-1. **Physical Ink Witness**: Transcribe 100% directly from 300 DPI page images in `Source Text/images/`. Distinguish red cinnabar rubrics (render in italics `*...*`) from black text (render in standard Roman).
-2. **Register Enforcement ({genre_register.capitalize()})**: Concise, imperative, Active Present Indicative for rubrical movements.
-3. **Canonical Realia & Loanwords**: `Tetrapod`, `Klepalo`, `Aer`, `Kolyvo`, `Plashchanytsia`, `Sluzhebnik`, `Trebnik`.
-4. **Father Paul Doxology Standard**: Banned phrase *"for ever and ever"*.
-5. **Hieratic Deity Pronouns**: 100% mandatory capitalization for Holy Trinity pronouns (*He, Him, His, Thou, Thee, Thy, Thine*).
-6. **Scripture & Psalter**: Septuagint (LXX) versification mandatory.
-7. **Footnote Monotonic Bijectivity**: Every marker `[^N]` in body text MUST have an exact corresponding entry `[^N]:` in the footnotes file.
-
----
-
-## 2. Target Disk Output Files
-- **Source Text Transcription**: `{source_out.relative_to(PROJECT_ROOT)}`
-- **Draft Markdown Translation**: `{draft_md_out.relative_to(PROJECT_ROOT)}`
-- **Cohort Footnotes File**: `{footnotes_out.relative_to(PROJECT_ROOT)}`
-
----
-
-## 3. Autonomous Execution Instructions
-1. Inspect images `p{start_page}.png` through `p{end_page}.png` in `{images_dir.relative_to(PROJECT_ROOT)}`.
-2. {transcription_inst}
-3. {translation_inst}
-4. Write footnote definitions into `{footnotes_out.name}` starting at `[^{starting_footnote}]`.
-5. Flush outputs to disk and advance through the autonomous pipeline.
-"""
+    coord_notes = mon_info.get("coordinate_notes")
+    guardrails = mon_info.get("flash_execution_guardrails", [])
+    if coord_notes or guardrails:
+        content += "\n\n---\n\n## 4. Monument-Specific Codicological & Formatting Guardrails\n"
+        if coord_notes:
+            content += f"**Codicological Notes**: {coord_notes}\n\n"
+        if guardrails:
+            content += "**Flash Execution Guardrails**:\n"
+            for g in guardrails:
+                content += f"- {g}\n"
 
     with open(work_order_file, "w", encoding="utf-8") as f:
         f.write(content)

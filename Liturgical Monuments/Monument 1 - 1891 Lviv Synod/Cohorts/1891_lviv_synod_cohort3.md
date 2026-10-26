@@ -39,6 +39,7 @@
 
 ## 1. Conclusion of the Conciliar Ceremonies
 
+=== LEAF p41 ===
 *(Physical Page 39 / Leaf p41)*
 
 ### Promoter's Motion & Suffrage of Dissolution
@@ -63,6 +64,7 @@ Whereas all that this Provincial Synod was to deliberate upon, what it was to es
 
 ---
 
+=== LEAF p42 ===
 *(Physical Page 40 / Leaf p42)*
 
 ### Eucharistic Exposition & The Slavonic Supplications
@@ -85,6 +87,7 @@ Whereas all that this Provincial Synod was to deliberate upon, what it was to es
 
 ---
 
+=== LEAF p43 ===
 *(Physical Page 41 / Leaf p43)*
 
 ### Solemn Dismissal, Polychronion, & Kiss of Peace
@@ -108,6 +111,7 @@ Whereas all that this Provincial Synod was to deliberate upon, what it was to es
 
 ---
 
+=== LEAF p44 ===
 *(Physical Page 42 / Leaf p44)*
 
 *The same:* "To the Very Reverend Canons of all our three Chapters: Many years!"  
@@ -131,6 +135,7 @@ And finally, when they shall have been approved, they shall be promulgated and o
 
 ## 2. Part VI: Epistolary Exchange with the Apostolic See
 
+=== LEAF p45 ===
 *(Physical Page 43 / Leaf p45)*
 
 ### VI.
@@ -145,6 +150,7 @@ Receive, Most Holy Father, the grateful sentiments of our soul, that, gifted wit
 
 ---
 
+=== LEAF p46 ===
 *(Physical Page 44 / Leaf p46)*
 
 ...unto the establishment of the Minor Seminary, unto the fitting education of alumni in the Major Seminary, unto the proper ordering of the life of the clergy of the New Testament, and unto the statutes to be observed in conducting ecclesiastical courts. He spoke effectively for the propagation of the veneration of the Virgin Mother of God, whose praises and magnificats we have drawn anew, Most Holy Father, from Your most recent Encyclical of the 22nd day of September last (*Octobri Mense*, September 22, 1891). No small labor and effort did he also contribute together with the Bishops both in examining the diverse proposals of the Commissions, in preparing the agenda of the General Congregations, and in collating the Latin text with the Ruthenian translation. Wherefore the outcome of the work was such that everything proceeded in this Synod fittingly and orderly, amid the unanimous and perfect concord of the Fathers.  
@@ -163,6 +169,7 @@ Bishop of Stanyslaviv.
 
 ---
 
+=== LEAF p47 ===
 *(Physical Page 45 / Leaf p47)*
 
 #### Apostolic Letter of Pope Leo XIII to the Ruthenian Hierarchy
@@ -182,6 +189,7 @@ Given at Rome, at St. Peter's, the 20th day of May, in the year 1895, the eighte
 
 ## 3. Part VII: Acts of the Congregations and Sessions
 
+=== LEAF p48 ===
 *(Physical Page 46 / Leaf p48)*
 
 ### VII.
@@ -210,6 +218,7 @@ The Very Reverend Andrei Biletsky, Scholastic of the Metropolitan Chapter.
 
 ---
 
+=== LEAF p49 ===
 *(Physical Page 47 / Leaf p49)*
 
 Cathedral Canon of the Chapter of Przemyśl; Celestyn Kostetsky, Honorary Canon of the Chapter of Stanyslaviv.  
@@ -226,6 +235,7 @@ Members: Teofil Pavlykov, Mykhailo Kulmatytsky, Yosyf Zaiachkivsky, Mykola Kobry
 
 ---
 
+=== LEAF p50 ===
 *(Physical Page 48 / Leaf p50)*
 
 3. Commission:  
@@ -248,6 +258,7 @@ On Sunday, the 27th day of the month of September, at the 9th hour before noon, 
 
 ---
 
+=== LEAF p51 ===
 *(Physical Page 49 / Leaf p51)*
 
 ### Conciliar Address of Apostolic Delegate Ciasca
@@ -260,6 +271,7 @@ This mandate of the Supreme Pontiff I willingly fulfill and with joy announce un
 
 ---
 
+=== LEAF p52 ===
 *(Physical Page 50 / Leaf p52)*
 
 ...which the Ruthenian Church is exceedingly distinguished both by the number of the faithful and the excellence of her men, it is pleasing to be present at these your assemblies, in which, by God's help and protection, ye strive with redoubled diligence to preserve inviolate the integrity of this Church and to uphold her welfare. Truly a magnificent counsel! And if from the beginning of matters it is permissible to foretell their end, I doubt not that on the foundation of the constitutions and decrees of this Synod, your Church shall from day to day flourish more and more, diffuse the splendor of faith and ecclesiastical discipline, and attain her ancient glory and pristine beauty. — That this may proceed happily, having invoked the aid of the Most Holy Virgin Mary, Mother of God, immaculately conceived, and of the Holy Archangel Michael, heavenly patron, of Cyril and Methodius, Apostles to the Slavic race, of the Hieromartyr Josaphat, and of Vladimir and Olga, former Ruthenian princes: let us beseech God with fervent prayers that He may graciously favor our intentions, direct our counsels, assist the work begun, and crown its end.  
@@ -277,6 +289,7 @@ The office of the Apostleship, committed by God unto Our humility, requireth tha
 
 ---
 
+=== LEAF p53 ===
 *(Physical Page 51 / Leaf p53)*
 
 ...learning, piety, prudence, skill, and zeal in promoting the Catholic faith — wherein thou mayest be set forth as an exemplar — in the discharge of the duties of this office, wilt fully answer Our expectation. Wherefore, showing thee special favor, and absolving thee and holding thee absolved, for the purpose of this matter only, from any sentences of excommunication, suspension, and interdict, and other ecclesiastical censures and penalties, in whatever manner or for whatever cause inflicted, if thou perchance hast incurred any: We, by Our Apostolic authority, by virtue of these letters, do choose, appoint, and declare thee Apostolic Delegate for the convocation and celebration of the said Provincial Synod of Lviv; and that thou mayest fulfill the office of President of the said Synod the more diligently and splendidly, likewise by Apostolic authority We commit, grant, and give unto thee, Venerable Brother, the necessary and appropriate particular and general faculties for this purpose. It shall therefore be thy first task to see to it that the instructions imparted unto thee by the Congregation for the celebration of the Synod of Our above-mentioned Brethren, and the decrees and regulations issued from time to time, especially in more important matters, by this Holy Apostolic See or by the said Congregation, be executed; but also to assist that such discipline to be observed in practice be enacted as shall be consistent with the above-mentioned decrees and introduce uniformity into all provinces and dioceses. Furthermore, We will that thou endeavor to ensure that the acts and decrees of the said Synod be transmitted unto this Holy Apostolic See for examination, and, when deemed appropriate, confirmed by Our authority or that of Our successors.  
@@ -289,6 +302,7 @@ At the conclusion of the reading, His Excellency the Metropolitan delivered an a
 
 ---
 
+=== LEAF p54 ===
 *(Physical Page 52 / Leaf p54)*
 
 ...and that the purpose of this Synod is to attest and strengthen Union with the Church of Rome and to satisfy the needs of the Ruthenian Church. He greeteth His Excellency the Apostolic Delegate and presenteth a telegram whereby the Holy Father imparteth the Apostolic Blessing unto the Synod.  
@@ -308,6 +322,7 @@ I believe in one God, the Father Almighty, Maker of heaven and earth, and of all
 
 ---
 
+=== LEAF p55 ===
 *(Physical Page 53 / Leaf p55)*
 
 ...under Pontius Pilate, and suffered, and was buried. And He rose again on the third day according to the Scriptures. And He ascended into heaven, and sitteth at the right hand of the Father. And He shall come again with glory to judge the living and the dead, Whose kingdom shall have no end. And in the Holy Spirit, the Lord and Giver of life, Who proceedeth from the Father and the Son; Who with the Father and the Son together is worshipped and glorified, Who spake by the Prophets. And in one, holy, catholic, and apostolic Church. I confess one baptism for the remission of sins. And I look for the resurrection of the dead, and the life of the world to come. Amen.  
@@ -319,6 +334,7 @@ The Council of Chalcedon, the Fourth in order; and I confess that which was defi
 
 ---
 
+=== LEAF p56 ===
 *(Physical Page 54 / Leaf p56)*
 
 ...by the union, but rather the property of each nature being preserved and concurring into one Person and one Hypostasis; not parted or divided into two persons, but one and the same Son and Only-begotten, God the Word, the Lord Jesus Christ. Likewise, that the Godhead of the same our Lord Jesus Christ, according to which He is consubstantial with the Father and the Holy Spirit, is impassible and immortal: that He was crucified and died only according to the flesh, as was likewise defined at the said Council, and in the Epistle of Saint Leo, Pope of Rome, through whose mouth the Fathers at the same Council proclaimed that the blessed Apostle Peter had spoken; by which definition is condemned the impious heresy of those who added to the Trisagion handed down by the Angels and chanted at the aforesaid Council of Chalcedon: "Holy God, Holy Mighty, Holy Immortal, have mercy on us," the clause: "Who wast crucified for us"; and thus asserted that the divine nature of the three Persons was passible and mortal.  
@@ -330,6 +346,7 @@ I likewise venerate and accept all other Ecumenical Councils lawfully held and c
 
 ---
 
+=== LEAF p57 ===
 *(Physical Page 55 / Leaf p57)*
 
 ...is truly consecrated, and that priests are bound to consecrate the Body of the Lord in either of these, that is, each according to the custom of his Church, whether Western or Eastern. — Likewise, that if those who are truly penitent depart this life in the charity of God before they have made satisfaction by worthy fruits of penance for sins committed and omitted, their souls are cleansed after death by purgatorial pains, and that, for the lightening of such pains, the suffragals of the living faithful are profitable unto them, that is to say, the sacrifices of the Divine Liturgy, prayers, alms, and other pious works, which are customarily performed by the faithful for other faithful according to the ordinances of the Church; but that the souls of those who, after receiving baptism, have incurred no defilement of sin at all, and also those which, after contracting the defilement of sin, whether in their bodies or after leaving them, have been cleansed, are straightway received into heaven and clearly behold God Himself, one in Trinity, as He is, yet one more perfectly than another according to the diversity of their merits. But the souls of those who die in actual mortal sin, or in original sin alone, straightway descend into hell, to be punished, however, with unequal pains. Likewise, that the Holy Apostolic See and the Roman Pontiff hold primacy over the whole world, and that the Roman Pontiff himself is the successor of blessed Peter, Chief of the Apostles, and the true Vicar of Christ, and the Head of the whole Church, and the Father and Teacher of all Christians, and that unto him in blessed Peter was delivered by our Lord Jesus Christ full power to pasture, rule, and govern the universal Church, as is contained in the acts of the ecumenical councils and in the holy canons. — Likewise, that the legal ceremonies of the Old Testament or the Mosaic law, the sacred sacrifices and mysteries, upon the coming of our Lord Jesus Christ, have ceased and cannot be observed after the promulgation of the Gospel without sin. Likewise also, that the distinction of clean and unclean meats of the Old Law pertaineth to ceremonies which have passed away with the arrival of the Gospel. — Likewise, that the apostolic prohibition against things offered to idols, and blood, and things strangled, was suited to that time, that the occasion of discord between Jews and Gentiles might be taken away; which apostolic prohibition having lost its cause, its operation hath also ceased.  
@@ -337,6 +354,7 @@ Likewise I venerate and accept the Council of Trent; and I confess those things 
 
 ---
 
+=== LEAF p58 ===
 *(Physical Page 56 / Leaf p58)*
 
 ...Mystery of the Eucharist (according to the faith which hath always been in the Church of God) there are contained truly, really, and substantially the Body and Blood, together with the Soul and Divinity of our Lord Jesus Christ, and therefore the whole Christ; and that there is made a conversion of the whole substance of bread into the Body, and of the whole substance of wine into the Blood, which conversion the Catholic Church most aptly calleth transubstantiation, and that under each species, and under each separate part of each species when divided, the whole Christ is contained. Likewise, that there are seven Sacraments of the New Law instituted by Christ our Lord for the salvation of the human race, although not all are necessary for every individual, namely: Baptism, Chrismation (*Myroponamazaniye*), the Eucharist, Penance, Anointing of the Sick (*Eleosvyashcheniye*), Holy Orders, and Matrimony; and that they confer grace: and that of these, Baptism, Chrismation, and Holy Orders cannot be repeated. Likewise, that Baptism is necessary for salvation: and therefore, when danger of death threateneth, it ought to be conferred forthwith without any delay; and when conferred by anyone, at any time, with the proper matter, form, and intention, it is valid.  
@@ -348,6 +366,7 @@ Moreover, unto the Roman Pontiff, successor of blessed Peter, Chief of the Apost
 
 ---
 
+=== LEAF p59 ===
 *(Physical Page 57 / Leaf p59)*
 
 This faith of the Catholic Church, outside of which no one can be saved, which I at this present time freely profess and truly hold, the same whole and inviolate, even unto the last breath of life, most constantly, with God's help, to retain and confess, and to take care, as far as in me lieth, that it be held, taught, and preached by those subject to me, or by those whose care shall belong unto me in my office: I, the same Sylvester Sembratovych, Metropolitan of Halych, Archbishop of Lviv, Bishop of Kamianets, do promise, vow, and swear.  
@@ -383,6 +402,7 @@ Ivan Kobliansky, Honorary Canon, Dean and Pastor in Kolomyia.
 
 ---
 
+=== LEAF p60 ===
 *(Physical Page 58 / Leaf p60)*
 
 Oleksander Bachynsky, Honorary Canon, Rector of the Seminary of Lviv.  

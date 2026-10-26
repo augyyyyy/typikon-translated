@@ -29,28 +29,22 @@ REGISTRY_FILE = PROJECT_ROOT / "Liturgical Monuments" / "codex_registry.json"
 def extract_accounted_leaves(text: str) -> Set[int]:
     """Extracts all physical leaf numbers witnessed in text content."""
     accounted: Set[int] = set()
-    # 1. Bracketed leaf markers: [Leaf p123 ...] or [Leaf 123 ...]
-    for m in re.finditer(r'\[Leaf\s+p?(\d+)', text, re.IGNORECASE):
+    for m in re.finditer(r'===\s*LEAF\s+p?(\d+)\s*===', text, re.IGNORECASE):
         accounted.add(int(m.group(1)))
-
-    # 2. Markdown delimiter banners: === LEAF p123 === or === LEAF 123 ===
-    for m in re.finditer(r'===\s*LEAF\s+p?(\d+)', text, re.IGNORECASE):
-        accounted.add(int(m.group(1)))
-
-    # 3. Parenthetical leaf references: *(... Leaf p123 ...) or (... Leaf p123 ...)
-    for m in re.finditer(r'\(\*?[^)]*\bLeaf\s+p?(\d+)', text, re.IGNORECASE):
-        accounted.add(int(m.group(1)))
-
-    # 4. HTML comment banners: <!-- LEAF: p123 --> or <!-- LEAF: 123 -->
-    for m in re.finditer(r'<!--\s*LEAF:?\s*p?(\d+)', text, re.IGNORECASE):
-        accounted.add(int(m.group(1)))
-
-    # 5. Header spans: Leaves p1–p20 or Leaves 1-20
-    for m in re.finditer(r'Leaves\s+p?(\d+)\s*[-–]\s*p?(\d+)', text, re.IGNORECASE):
-        start, end = int(m.group(1)), int(m.group(2))
-        accounted.update(range(start, end + 1))
-
     return accounted
+
+
+def parse_leaf_blocks(text: str) -> Dict[int, str]:
+    """Parses text into {leaf_num: leaf_body} using canonical === LEAF pN === delimiters."""
+    blocks: Dict[int, str] = {}
+    matches = list(re.finditer(r'===\s*LEAF\s+p?(\d+)\s*===', text, re.IGNORECASE))
+    for idx, m in enumerate(matches):
+        leaf_num = int(m.group(1))
+        start = m.end()
+        end = matches[idx + 1].start() if idx + 1 < len(matches) else len(text)
+        blocks[leaf_num] = text[start:end].strip()
+    return blocks
+
 
 def audit_structure(
     filepath: Path,
@@ -155,11 +149,16 @@ def audit_structure(
         "max_leaf": max(curr_leaves) if curr_leaves else None,
     }
 
+    target_blocks = parse_leaf_blocks(content)
     if curr_leaves:
         c_min, c_max = min(curr_leaves), max(curr_leaves)
         intra_gaps = sorted(list(set(range(c_min, c_max + 1)) - curr_leaves))
         if intra_gaps:
             anomalies.append(f"Intra-cohort leaf gaps detected: {intra_gaps}")
+
+        for p_num, body_txt in sorted(target_blocks.items()):
+            if len(body_txt) < 5:
+                anomalies.append(f"Empty or trivial leaf block for === LEAF p{p_num} === ({len(body_txt)} chars)")
 
         # Invariant for Cohort 1: Must anchor on physical page 1
         if cohort_num == 1 and c_min != 1:

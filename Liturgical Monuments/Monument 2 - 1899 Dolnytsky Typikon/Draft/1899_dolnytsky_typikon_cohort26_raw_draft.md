@@ -1,4 +1,4 @@
-[Leaf p501 / Page 499]
+=== LEAF p501 ===
 
 ## Monday of the Holy Spirit
 ### Typikon
@@ -12,7 +12,7 @@
 
 ---
 
-[Leaf p502 / Page 500]
+=== LEAF p502 ===
 
 **"Remembering our most holy, most pure..."** (*Пресвяту́ю, пречи́стую*); the Priest [says] the proper Exclamation. We do likewise both after **"Let us all say"** (*Рцѣ́мъ всѝ*), and after **"Vouchsafe, O Lord"** (*Сподо́би, Го́споди*).[^662]
 6. At the Aposticha, [Stichera] of the Feast; and after **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*), the Troparion of the Feast; and the Great Dismissal proper to this Vespers.
@@ -32,7 +32,7 @@ After the 1st Trisagion, the Troparion, and after the 2nd, the Kontakion of the 
 
 ---
 
-[Leaf p503 / Page 501]
+=== LEAF p503 ===
 
 3. Canons of the Feast, two, on 14: the first with the Heirmos for 8, the second with the Heirmos for 6. Katavasia of the Feast.
 After the 3rd Ode, Sessional Hymn of the Feast; after the 6th Ode, Kontakion and Ikos of the Feast; at the 9th Ode, we do not sing **"More honorable"** (*Честнѣ́йшꙋю*); after the 9th Ode, Exapostilarion of the Feast; **"Glory... Both now..."** (*Сла́ва, и҆ ны́нѣ*), the other.
@@ -57,7 +57,7 @@ Takes place on Saturday, according to the General Typikon of the Apodosis of a F
 
 ---
 
-[Leaf p504 / Page 502]
+=== LEAF p504 ===
 
 ### Sunday of All Saints: 1st After the Descent
 **Tone 8.**
@@ -87,7 +87,7 @@ All things according to custom, that is, the Canon of the Holy Trinity of the To
 
 ---
 
-[Leaf p505 / Page 503]
+=== LEAF p505 ===
 
 After the 3rd Ode, Sessional Hymn of the Saints; after the 6th Ode, Kontakion and Ikos of the Saints; at the 9th Ode, **"More honorable"** (*Честнѣ́йшꙋю*); after the 9th Ode: **"Holy is the Lord our God"** (*Свя́тъ Госпо́дь Бо́гъ на́шъ*) thrice, and the Resurrectional Exapostilarion of the cycle (1st); **"Glory"** (*Сла́ва*) of the Saints; **"Both now"** (*И҆ ны́нѣ*), their Theotokion.
 4. At the Praises, 8 Stichera: 5 Resurrectional from the Octoechos, and 3 of the Saints, with their two refrains; **"Glory"** (*Сла́ва*), 1st Gospel Sticheron; **"Both now"** (*И҆ ны́нѣ*): **"Most blessed art thou"** (*Преблагослове́нна е҆сѝ*).
@@ -109,7 +109,7 @@ This Fast begins with Monday after the Sunday of All Saints, and ends with the E
 
 ---
 
-[Leaf p506 / Page 504]
+=== LEAF p506 ===
 
 fasting, as in the fast-days of the Holy Forty Days; yet today we restrict the Alleluia to the Great Forty Days, and here we sing **"God is the Lord"** (*Бо́гъ Госпо́дь*).
 Regarding the Fast: the Synod of Lviv restricts this Fast to Mondays, Wednesdays, and Fridays of each of its weeks, and dispenses those same [days] to dairy products; the other four days it dispenses to meat, yet under the condition of reciting Psalm 50 for the Clergy, and five **"Our Father"** and five **"O Theotokos and Virgin"** for the laity, before the midday meal and before the evening meal.[^664]
@@ -122,7 +122,7 @@ This Feast is celebrated with an Octave (*osmodnéviye*), from the Thursday afte
 
 ---
 
-[Leaf p507 / Page 505]
+=== LEAF p507 ===
 
 outside the church, equally distant from one another. Where this would be impossible, it suffices to begin the Procession from the Altar which is inside the church, and having circled the church thrice, to conclude this rite at the very same Altar in the church with the blessing with the Holy Mysteries. Regarding the four Gospel Readings, commonly chanted one at each of the four Altars, the Synod commands that those be chosen which discourse concerning the Most Holy Mysteries, according to the Typikon prescribed for this Feast.[^665]
 After these things it is necessary to present two Typika: 1. How the Exposition of the Holy Mysteries takes place on this Feast; 2. How the Procession with the Holy Mysteries takes place.
@@ -134,13 +134,13 @@ The Priest, on one of the days preceding the Feast, consecrates at the Liturgy t
 
 ---
 
-[Leaf p508 / Page 506]
+=== LEAF p508 ===
 
 of the Holy Mysteries, thus: The ranking Deacon (the one at the right hand of the Priest), having laid aside the Gospel Book to the right side of the Holy Table, and having opened the Tabernacle (*Skíniya*), and having bowed profoundly toward the Holy Mysteries, brings forth the Pyx (*Kivot*) from the Tabernacle, all having bended their knees, and places it upon the folded Iliton; and if there is an Ostensorium (*Daroukazálnitsya* / Monstrance), having opened the Pyx, and having taken the Lamb out of it, not touching it with the fingers, but with the forceps in which it is held, places the Lamb into the receptacle (*rovéts*) of the Ostensorium, and having closed it well, and having placed the Pyx back into the Tabernacle, and having bowed toward it, and having closed the Tabernacle, sets the Ostensorium upon the Iliton, turned with its front side toward the people, and steps aside a little to the right. And the Priest, having placed incense into the Censer, and having blessed it, saying: **"Blessed is our God"** (*Благослове́нъ Бо́гъ на́шъ*), censes the Holy Mysteries with both hands thrice, bowing his head after each censing; and having thus taken upon himself the humeral veil (*Omofórets*) with the assistance of the second Deacon, and having approached the Holy Table, and having bowed profoundly, takes, with the assistance of the first Deacon, with both hands through the humeral veil the Ostensorium, and having turned its back side toward himself, turns by his right toward the people, and sings slowly and devoutly the beginning of the first stanza: **"O Saving Victim"** (*Ѡ҆ спаси́тельная Же́ртво*); all the people following with the remainder of that stanza. And again the Priest [sings] the beginning of the second stanza: **"To the One God in Trinity"** (*Є҆ди́номꙋ въ Тро́йци Бо́гꙋ*); while all follow with the rest, he blesses the people with Them crosswise, completing a circle from the south to the north side; and having thus turned by the north side toward the Holy Table, he sets the Ostensorium upon the Iliton, turning it, with the Deacon assisting, with its front side toward the people; then having stepped aside a little to the left, he descends before the step of the Holy Table in such a way that his back is not turned toward the Holy Mysteries, bends his knees, and having laid aside the humeral veil, and having censed again
 
 ---
 
-[Leaf p509 / Page 507]
+=== LEAF p509 ===
 
 the Holy Mysteries thrice, as before, waits there kneeling until the Deacon, having approached the middle of the Holy Table, and having bowed profoundly, sets the Holy Mysteries atop the Tabernacle. This having been done, the Priest, having ascended the steps, begins the Liturgy from **"Blessed is our God"** (*Благослове́нъ Бо́гъ на́шъ*), **"O Heavenly King"** (*Царю̀ небе́сный*), and the rest. During the Liturgy, the Sacred Ministers never turn their backs toward the Holy Mysteries, as our Sluzhebniks command, saying: *"When the Priest, according to the order of the rites, is to turn his face to the people, he ought not to turn from the middle of the sanctuary, lest he turn his back to the Body of Christ, but having made a profound bow, and having stepped somewhat toward the left side, from this side he turns to the people, and having turned back to the sanctuary, he makes a profound bow to the Body of Christ; and where the Priest is to make a full circle, as at 'Always, now and ever' (*Всегда̀, ны́нѣ и҆ при́снѡ*), when he turns with the Holy Mysteries, at that time he does not complete a full circle in turning, lest he turn his back to the Body of Christ."*[^666] We add also this: that when the Priest, or the Deacon, goes forth before the Iconostasis for the censing, he is not to cense from the middle, nor turn his back toward the Holy Mysteries, but to stand somewhat to the side, the Priest indeed from the side of the Theotokos, and the Deacons, one from the Savior's side, the other from the Theotokos' side.
 
@@ -151,7 +151,7 @@ the Holy Mysteries thrice, as before, waits there kneeling until the Deacon, hav
 
 ---
 
-[Leaf p510 / Page 508]
+=== LEAF p510 ===
 
 ### Typikon II
 #### Concerning the Procession with the Holy Mysteries After the Prayer Behind the Ambo
@@ -160,13 +160,13 @@ After the conclusion of the Prayer behind the Ambo, the Sacred Ministers having 
 
 ---
 
-[Leaf p511 / Page 509]
+=== LEAF p511 ===
 
 the Procession has arrived at the first Altar, and has drawn up beside it, and the entire Clergy having divided into two wings by the Altar, and the Canopy having stopped facing the Altar, the Priest with the Holy Mysteries ascends to the Altar, and with the Deacon assisting, sets the Holy Mysteries upon the folded Iliton; then having bended his knees, he censes Them thrice, and having risen steps aside a little to the left, and turns to the people. Then the Gospel-bearers having approached the Priest, and he having opened the place of the 1st Reading, the first Deacon exclaims: **"And that we may be accounted worthy..."** (*И҆ ѡ҆ є҆́же сподо́битися на́мъ*), and the Choir having answered: **"Lord, have mercy"** (*Го́споди поми́луй*) thrice, and the Priest having intoned: **"Peace be unto all"** (*Ми́ръ всѣ̑мъ*), the second Deacon says: **"Wisdom. Let us attend. Let us hear..."** (*Премꙋ́дрость про́сти, оу҆слы́шимъ*), the Priest: **"The Reading from the Holy Gospel according to [Name]"**; and the first Deacon having prompted: **"Let us attend"** (*Во́ньмемъ*), the Priest reads the 1st Gospel (Matthew, Pericope 108, [ch. 26:] 17–30); and after the reading, having kissed the beginning thereof, and having bended his knees before the Holy Mysteries, he sings (if such is the custom anywhere) with the other Sacred Ministers the first clause of the Penitential Supplication (*Péniye Oumilítelnoye*): **"Holy God"** (*Святы́й Бо́же*) thrice, and all the people the same thrice. Then having censed the Holy Mysteries again thrice, and having risen, and having made a profound bow (*metania*), he takes Them with both hands, and having turned by his right toward the people, blesses them crosswise once (a Bishop thrice), saying in a gentle voice: **"O God, save Thy people, and bless Thine inheritance"** (*Спасѝ, Бо́же, лю́ди твоя̀, и҆ благословѝ достоя́нїе твоѐ*); and thus, the Festal Troparion or another hymn being sung again, and the Priest having entered beneath the Canopy, the Procession continues to the second Altar, and from this to the third, and from this to the fourth; and at each there take place unalterably all things as at the first Altar, varying only the Clauses of the Penitential Supplication, and the Gospel Readings, of which the 2nd is from Mark, Pericope 64, [ch. 14:] 12–26; the 3rd from Luke, Pericope 108, [ch. 22:] 7–22; the 4th from John, Pericope 23, [ch. 6:] 48–58. If there are multiple Priests, they read the Gospels in
 
 ---
 
-[Leaf p512 / Page 510]
+=== LEAF p512 ===
 
 turn. After these things the Procession returns into the church, and the Priest having set the Holy Mysteries upon the Altar, and having bended his knees, and having censed Them thrice, rises, and having taken the Holy Mysteries, and having turned to the people, sings slowly and devoutly the verse of the Ambrosian Hymn (*Te Deum*): **"Save Thy people, O Lord"** (*Спасѝ лю́ди твоя̀, Го́споди*), thrice, the people responding with the same the first and second time; and when the Priest sings it the third time, he concludes it with the words: **"and bless Thine inheritance"** (*и҆ благословѝ достоя́нїе твоѐ*), with the blessing of the people once; then while the people sing the remaining verses of the same Hymn, the Priest, having turned by the north side toward the Altar, and having set upon it the Holy Mysteries, descends before the steps, and having laid aside the humeral veil, bends his knees, and censes Them thrice. And the Deacon on the right, having approached the Holy Mysteries, and having bowed profoundly, brings forth the Pyx from the Tabernacle, and having taken the Lamb from the Ostensorium, places It with the forceps into the Pyx, and the Pyx into the Tabernacle, and having bowed again, closes the Tabernacle, and places the Gospel Book upon the Iliton. If there is no Deacon, the Priest himself performs all these things. Then, all having stood up, Choir: **"Blessed be the name of the Lord"** (*Бꙋ́ди и҆́мя Госпо́дне*), and the rest of the Liturgy according to custom.
 
@@ -177,7 +177,7 @@ turn. After these things the Procession returns into the church, and the Priest 
 
 ---
 
-[Leaf p513 / Page 511]
+=== LEAF p513 ===
 
 ### On Thursday of the 3rd Week After the Descent
 #### Apodosis of the Feast of the Eucharist
@@ -194,7 +194,7 @@ At the Liturgy: at the 3rd Antiphon, and at **"Come, let us worship"** (*Прї�
 
 ---
 
-[Leaf p514 / Page 512]
+=== LEAF p514 ===
 
 # Part V
 ## Typikon Concerning Temples
@@ -208,7 +208,7 @@ The Priest, on one of the days preceding the Feast, consecrates at the Liturgy t
 
 ---
 
-[Leaf p515 / Page 513]
+=== LEAF p515 ===
 
 according to custom, the Exposition of the Holy Mysteries takes place unalterably as was indicated on the Feast of the Eucharist, here on page 512.
 After the Prayer behind the Ambo, the Holy Mysteries are hidden in the Tabernacle, and before the beginning of Vespers are exposed again; for it is not fitting to leave the Holy Mysteries without adorers, and without a sufficient number of candles, of which according to the Synod of Lviv there are to be at least six of wax.[^667]
@@ -221,20 +221,20 @@ Before the Dismissal of Vespers, all having bended their knees, the Deacon, havi
 
 ---
 
-[Leaf p516 / Page 514]
+=== LEAF p516 ===
 
 the Holy Mysteries from atop the Tabernacle, and sets Them upon the folded Iliton; and the Priest having censed Them thrice with a bow of the head, and having returned the Censer, and having taken upon himself the humeral veil, approaches the Holy Mysteries, and having bowed profoundly, takes Them with both hands, with the Deacon assisting, and having turned by his right toward the people, and having intoned the beginning of some devout hymn, goes forth by the Royal Doors into the church; and having entered beneath the Canopy, advances unto the doors of the church, the Deacons preceding him with Censers, and unceasingly censing the Holy Mysteries from the sides; then the other Priests in Phelonia, and others only in Epitrakhelia, with lighted candles in hand, in two wings; likewise also the Church Brotherhood, then four Maidens carrying icons, and Banner-bearers, and the Cross-bearer. With bells chiming, the Procession issuing from the church circles around the same, beginning from its northern side, and returning from the southern. When the Holy Mysteries have reached the middle of the northern side, the Procession halts, and the chanting being interrupted, and all having bended their knees, the Priest blesses the entire people present with the Holy Mysteries four times, that is, first straight ahead of himself, then to his right, then to his back, then to his left side, saying at each turning in a gentle voice: **"O God, save Thy people, and bless Thine inheritance"** (*Спасѝ, Бо́же, лю́ди твоя̀, и҆ благословѝ достоя́нїе твоѐ*). In like manner it takes place also on the eastern side, and on the southern, and on the western.[^668] And after the blessing at the western side of the church, [the Priest] enters into
 
 ---
 
-[Leaf p517 / Page 515]
+=== LEAF p517 ===
 
 the church: first the Priest carrying the Holy Mysteries, with the other Sacred Ministers, then the rest of the Procession and the people. Then the Priest having set the Holy Mysteries upon the Holy Table, upon the folded Iliton, and having laid aside the humeral veil, and having bended his knees, and having censed the Holy Mysteries thrice, all having bended their knees, sings with the other Sacred Ministers the Verses of the Penitential Litiya: **"Holy God"** (*Святы́й Бо́же*), all the people repeating each Verse. After the conclusion of the Litiya, the Priest having censed the Holy Mysteries thrice, and having taken upon himself the humeral veil, approaches the Holy Table, and having bowed profoundly, takes the Holy Mysteries, and having turned by his right toward the people, sings with devotion the Verse of the Ambrosian Hymn (*Te Deum*): **"Save Thy people, O Lord"** (*Спасѝ лю́ди твоя̀, Го́споди*), twice, the people repeating the same; then a third time: **"Save Thy people, O Lord, and bless Thine inheritance"** (*Спасѝ лю́ди твоя̀, Го́споди, и҆ благословѝ достоя́нїе твоѐ*); after: **"and bless"**, he blesses the people crosswise and slowly, completing a semicircle from the right to the left side; and, while the Choir sings the rest of the Ambrosian Hymn, having set the Holy Mysteries upon the Holy Table, and having descended before the steps, and having laid aside the humeral veil, and having censed Them thrice, he kneels himself and all the rest, until the Deacon encloses the Holy Mysteries into the Tabernacle; then takes place the Great Dismissal according to custom.
 On one of the days after the Feast, the Priest, celebrating the Liturgy, consumes after his communion also the Lamb preserved in the Pyx, taking It from the small vessel in which It is kept. These things he does if he has an Ostensorium; for if the Holy Mysteries are exposed only with the Pyx, none of these things takes place.
 
 ---
 
-[Leaf p518 / Page 516]
+=== LEAF p518 ===
 
 ### Chapter II
 ## Temple Typika
@@ -249,14 +249,14 @@ Such Typika are either general or proper. The general apply to many cases, the p
 
 ---
 
-[Leaf p519 / Page 517]
+=== LEAF p519 ===
 
 on a weekday, it excludes at the Liturgy the Epistle and Gospel of the day, which are then read on the day preceding the Feast. Finally, the Patronal Feast of a Saint has its own Apodosis, which takes place on the very day of the Feast at Vespers toward the following day, and this with an Entrance, like a Feast of the Lord. There will be therefore at this Apodosis at **"Lord, I have cried"** (*Го́споди воззва́хъ*), 6 Stichera: 3 to the Temple [Saint], and 3 to the Saint of the day; **"Glory"** (*Сла́ва*) to the Temple; **"Both now"** (*И҆ ны́нѣ*), Theotokion from the Resurrectional ones (Dogmatikon) according to the Tone of the Doxastikon (*Naslávnyk*). If the Temple is dedicated to the Lord, or to the Theotokos, then both **"Glory... Both now..."** (*Сла́ва, и҆ ны́нѣ*) of the Temple. On Friday evening toward Saturday, we always sing the Dogmatikon of the departing Tone. — After the Prokeimenon: **"Let us all say"** (*Рцѣ́мъ всѝ*). At the Aposticha, [Stichera] of the Temple with its refrains; **"Glory"** (*Сла́ва*) of the Temple; **"Both now"** (*И҆ ны́нѣ*), Theotokion from the Resurrectional ones according to the Tone of the Doxastikon. If the Temple is dedicated to the Lord or to the Theotokos, then **"Both now"** (*И҆ ны́нѣ*) of the Temple. At the conclusion, Troparion of the Temple; **"Glory"** (*Сла́ва*), Troparion of the Saint of the day; **"Both now"** (*И҆ ны́нѣ*), Theotokion from the Resurrectional ones according to the Tone of the Doxastikon. If the Temple is dedicated to the Lord, or to the Theotokos, then Troparion of the Saint of the day; **"Glory... Both now..."** (*Сла́ва, и҆ ны́нѣ*), of the Temple. Great Dismissal with commemoration of the Temple, and of the Saint of the day. With this Vespers the Service of the Patron Saint of the Temple is concluded; however, the Patron Saint of the Temple has no Apodosis if on the morrow there occurs a Sunday, or a Saint with Polyeleos.
 3. If the Temple [Feast] of a Saint occurs inside a Feast, that is, in the Forefeast and Afterfeast, and at the Apodosis of a Feast, hold to the Typikon of a Saint with a Vigil occurring in an Afterfeast, whether on a Sunday or on weekdays, here on pages 116 and 117;[^671] only on Sunday at Matins, we sing the Prokeimenon, Gospel, and Sticheron of the Temple; at
 
 ---
 
-[Leaf p520 / Page 518]
+=== LEAF p520 ===
 
 the Praises, **"Glory"** (*Сла́ва*) to the Temple, but the Gospel Sticheron after the Dismissal of Matins.[^672]
 4. On the very day of the Feast after the Prayer behind the Ambo, commonly in our lands there takes place the Blessing of Waters outside the church, whither the Procession goes, the Cross-bearer preceding, and the Censer-bearer, and the Deacon with the Gospel Book, and the Priest with the Hand Cross. And the church servers ought to carry thither also the Incense Boat (*Korablets*) with incense, and the Aspergillum (*Kropylo*) with the Aspergil-bucket (*Kropilnitsya*), and a vial (*stklyanitsya*), and a small towel (*obrusets*) for wiping the Cross upon its immersion into the water, and the Priest's hands. After the Dismissal of the Liturgy there takes place the Polychronion (*Mnoholitstviye*) to the Ecumenical Pontiff, and to the Emperor, and to the Metropolitan, and to the local Hierarch, and to all the Sacred Ministers present, and to the people of the Parish.

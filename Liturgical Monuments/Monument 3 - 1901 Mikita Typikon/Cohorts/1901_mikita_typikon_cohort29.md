@@ -1,4 +1,4 @@
-<!-- LEAF: p281 -->
+=== LEAF p281 ===
 
 (p. 257)
 
@@ -24,7 +24,7 @@ The Order of the Churching of a Woman after Childbirth.
 
 When the woman cometh with the child into the church, the Priest, having taken the epitrachelion and having come unto the church doors, where the woman, having fallen upon her knees, awaiteth him, beginneth thus: “In the name of the Father, and of the Son, and of the Holy Spirit, Amen.” And having laid his right hand upon the head of the woman, he speaketh first the prayer: “O Lord God Almighty...”[^295] etc., and secondly the second prayer: “O Lord our God...” etc.
 
-<!-- LEAF: p282 -->
+=== LEAF p282 ===
 
 (p. 258)
 
@@ -46,7 +46,7 @@ First the Priest speaketh: “Blessed is our God...” etc.; the choir: “Amen�
 
 After the Psalms the Priest proclaimeth: “For holy art Thou, O God...” etc., and the Trisagion is sung. — After this follow: the Prokeimenon, the Epis-
 
-<!-- LEAF: p283 -->
+=== LEAF p283 ===
 
 (p. 259)
 
@@ -66,7 +66,7 @@ After the troparia there are sung first the verses from the first stasis of Kath
 
 After this the Little Litany, and the Priest censeth the body of the deceased from the four sides.
 
-<!-- LEAF: p284 -->
+=== LEAF p284 ===
 
 (p. 260)
 
@@ -86,7 +86,7 @@ After this the Priests, having clothed themselves in epitrachelion and phelonion
 
 When the presiding Priest proclaimeth: “In blessed repose grant eternal rest, O Lord, unto Thy departed servant
 
-<!-- LEAF: p285 -->
+=== LEAF p285 ===
 
 (p. 261)
 
@@ -114,7 +114,7 @@ The Order of Burial celebrated in Bright Week.
 
 First of all it is proper to know that — if anyone departeth in Bright Week — the order of singing at the burial on account of
 
-<!-- LEAF: p286 -->
+=== LEAF p286 ===
 
 (p. 262)
 
@@ -128,7 +128,7 @@ After this (instead of “Come, let us give the last kiss”) are sung the Pasch
 
 And when the body is carried unto the cemetery, on the way also is sung: “Christ is risen.” At the cemetery everything is as usual. The Sunday Dismissal.[^303] Instead of “Memory eternal”: “Christ is risen.”[^304]
 
-<!-- LEAF: p287 -->
+=== LEAF p287 ===
 
 (p. 263)
 
@@ -148,7 +148,7 @@ After this is sung the canon: “Having traversed the water.” After the 3rd od
 
 After this the Priests sing: “Holy God,” and the Little Panikhida beginneth with the litany for the departed and with the Dismissal. At the conclusion the Priest proclaimeth: “In blessed repose...” etc., and the cantor singeth: “Memory eternal.”
 
-<!-- LEAF: p288 -->
+=== LEAF p288 ===
 
 (p. 264)
 
@@ -172,7 +172,7 @@ After the Ambo Prayer[^309] the Priest, with candle-bearers preceding him, goeth
 
 After this the Priest proclaimeth loudly: “Let us pray to the Lord,” and beginneth the prayer: “O Trinity beyond all essence,” in which prayer, when he cometh unto the words: “Great art Thou, O Lord,” he taketh a three-branched lighted candle and signeth with it cruciformly the water (and that: he speaketh these words 3 times, and 3 times signeth the water); after this he continueth the prayer, and when the Priest speaketh the words: “Do Thou
 
-<!-- LEAF: p289 -->
+=== LEAF p289 ===
 
 (p. 265)
 
@@ -186,7 +186,7 @@ The Order of the Sanctification of Water on the Feast of the Procession of the P
 
 The Priest, having finished the Holy Liturgy and being vested in phelonion and epitrachelion, after the Ambo Prayer goeth unto the Altar-Table, while the cantor singeth: “God is the Lord and hath appeared unto us” (3 times) etc., with the troparion unto the Mother of God, “Glory, and Now”: “We shall never be silent.” Psalm 50, after which the Priest singeth troparia in honor of the Mother of God: “Having received joy from the Angel,” while the cantor answereth: “Most Holy Mother of God, save us.” After “Glory, and Now,” the Priest singeth again troparia unto the Most Holy Mother of God, the Archangels, the Forerunner, the Apostles, the Unmercen-
 
-<!-- LEAF: p290 -->
+=== LEAF p290 ===
 
 (p. 266)
 

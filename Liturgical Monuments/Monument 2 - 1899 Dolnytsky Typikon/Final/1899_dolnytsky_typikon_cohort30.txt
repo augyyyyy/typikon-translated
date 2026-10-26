@@ -3,7 +3,7 @@
 
 ---
 
-[Leaf p581 / Page 582]
+=== LEAF p581 ===
 
 -ing known the Boundary Key of that year, and having gone down along its Column to the month and day of the Sunday, proceed from it along the horizontal row to the right side of the Tablet, and you will find all these things.
 
@@ -19,7 +19,7 @@ The Curtain, however, according to the current custom of the Athonite Monasterie
 
 ---
 
-[Leaf p582 / Page 583]
+=== LEAF p582 ===
 
 ## Table of Contents
 
@@ -59,7 +59,7 @@ Vespers with the Liturgy . . . . . . . . . 48
 
 ---
 
-[Leaf p583 / Page 584]
+=== LEAF p583 ===
 
 ###### In the Feast
 3. A Dominical Feast on Sunday and on Weekdays . . . . . 96  
@@ -105,7 +105,7 @@ Vespers with the Liturgy . . . . . . . . . 48
 
 ---
 
-[Leaf p584 / Page 585]
+=== LEAF p584 ===
 
 ##### December
 9. Dec.: Immaculate Conception of the Most Holy Theotokos . . . . . . 156  
@@ -147,7 +147,7 @@ Vespers with the Liturgy . . . . . . . . . 48
 
 ---
 
-[Leaf p585 / Page 586]
+=== LEAF p585 ===
 
 2. On Sunday . . . . . . 216  
 2. Jan.: Forefeast of Theophany . . . . . . 218  
@@ -192,7 +192,7 @@ Vespers with the Liturgy . . . . . . . . . 48
 
 ---
 
-[Leaf p586 / Page 587]
+=== LEAF p586 ===
 
 4. On Cheesefare Wednesday and Friday . . . . . . 250  
 5. On Cheesefare Saturday . . . . . . 250  
@@ -236,7 +236,7 @@ Vespers with the Liturgy . . . . . . . . . 48
 
 ---
 
-[Leaf p587 / Page 588]
+=== LEAF p587 ===
 
 6. On the 4th and 5th Sundays of the Fast . . . . . . 280  
 7. On Tuesday of the 5th Week of the Fast . . . . . 281  
@@ -280,7 +280,7 @@ Vespers with the Liturgy . . . . . . . . . 48
 
 ---
 
-[Leaf p588 / Page 589]
+=== LEAF p588 ===
 
 25. April: St. Apostle and Evangelist Mark . . . . . 327  
 30. April: St. Apostle James, Brother of St. John the Theologian . . . 327  
@@ -326,7 +326,7 @@ Vespers with the Liturgy . . . . . . . . . 48
 
 ---
 
-[Leaf p589 / Page 590]
+=== LEAF p589 ===
 
 ### Part IV
 #### Triodion Rubrics
@@ -370,7 +370,7 @@ Saturday of the 5th Week of the Fast: The Akathist . . . . . 416
 
 ---
 
-[Leaf p590 / Page 591]
+=== LEAF p590 ===
 
 5th Sunday of the Fast . . . . . . 420  
 Monday, Tuesday, Wednesday, Thursday, and Friday of the 6th Week of the Fast . . . . 420  
@@ -415,7 +415,7 @@ Memorial Saturday [All Souls] before the Descent [of the Holy Spirit] . . . . . 
 
 ---
 
-[Leaf p591 / Page 592]
+=== LEAF p591 ===
 
 Sunday of Pentecost . . . . . . 497  
 Monday of the Holy Spirit . . . . . . 498  

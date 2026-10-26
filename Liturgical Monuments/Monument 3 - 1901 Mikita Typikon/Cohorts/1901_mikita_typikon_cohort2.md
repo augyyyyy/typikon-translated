@@ -1,4 +1,4 @@
-<!-- LEAF: p11 -->
+=== LEAF p11 ===
 
 *Page*  
 **II. Extraordinary Vespers**  
@@ -26,7 +26,7 @@
 #### MEMBER III
 **§ 43.** On the Midnight Office — 88
 
-<!-- LEAF: p12 -->
+=== LEAF p12 ===
 
 *Page*  
 **I. Ordinary Midnight Offices**  
@@ -55,7 +55,7 @@
 **§ 58.** Order of Matins on Holy and Great Saturday — 108  
 **§ 59.** Order of Matins in Bright Week: (α) Order of Matins on the Sunday of Pascha; (β) Order of Sunday Matins, if on a certain day in Bright Week a Saint with a Polyeleos falls; (γ) Notes on Matins from Thomas Sunday unto Ascension — 109
 
-<!-- LEAF: p13 -->
+=== LEAF p13 ===
 
 *Page*  
 **§ 60.** Order of Matins for the Exaltation of the Precious Cross. Note on Matins for the Sunday of the Veneration of the Cross — 112
@@ -89,7 +89,7 @@
 **§ 76.** (VIII) If it is Sunday and a Great Saint having a Litiya — 128  
 **§ 77.** (IX) If it is Sunday and a Marian Feast — 129
 
-<!-- LEAF: p14 -->
+=== LEAF p14 ===
 
 *Page*  
 **§ 78.** (X) If it is Sunday and a Feast of the Lord — 130  
@@ -116,7 +116,7 @@
 **§ 97.** (XXIX) If it is a weekday and two Saints: one Middle or Great, and one Lesser — 146  
 **§ 98.** (XXX) If it is a weekday and many Saints — 146
 
-<!-- LEAF: p15 -->
+=== LEAF p15 ===
 
 *Page*  
 **§ 99.** (XXXI) If it is a weekday and a Saint having a Litiya — 146  
@@ -138,7 +138,7 @@
 **§ 115.** (XLVII) If on weekdays the Patronal Feast of a Male or Female Saint occurs with a Forefeast or with the Apodosis of any feast — 156  
 **§ 116.** (XLVIII) How the Triodion is sung with the Menaion from Thomas Sunday throughout the entire Pentecostarion on each week, even unto the Apodosis of Pentecost, except Saturdays and Sundays, at Vespers and at Matins? — 157
 
-<!-- LEAF: p16 -->
+=== LEAF p16 ===
 
 *Page*  
 #### MEMBER III
@@ -159,7 +159,7 @@
 **§ 129.** On the Kathismata — 165  
 **§ 130.** When is the Polyeleos Sung? — 168
 
-<!-- LEAF: p17 -->
+=== LEAF p17 ===
 
 *Page*  
 **§ 131.** On which Sundays the Sunday Gospel is not read, and when “Having Beheld the Resurrection of Christ” is omitted — 168  
@@ -193,7 +193,7 @@
 **§ 146.** (c) Liturgy of the Catechumens — 204  
 **§ 147.** (d) Liturgy of the Faithful — 205
 
-<!-- LEAF: p18 -->
+=== LEAF p18 ===
 
 *Page*  
 ### CHAPTER II
@@ -216,7 +216,7 @@
 **§ 161.** (XIII) How the Liturgy is performed, if it is a weekday and a Middle Saint? — 213  
 **§ 162.** (XIV) How the Liturgy is performed, if on a weekday a Great Saint occurs? — 214
 
-<!-- LEAF: p19 -->
+=== LEAF p19 ===
 
 *Page*  
 **§ 163.** (XV) What is Necessary for Us to Note Concerning Weekday Liturgies Celebrated in the Holy Pentecostarion (That Is, from Thomas Sunday unto All Saints Sunday)? — 214  
@@ -232,7 +232,7 @@
 #### On Liturgical Peculiarities
 **§ 171.** Which are the Most Renowned Peculiarities in the Holy Liturgies? “Heavenly King”; “Christ is Risen”; Antiphons; “As Many as Have Been Baptized into Christ”; “To Thy Cross We Bow Down”; “Arise, O God, Judge Thou the Earth”; Reading of the Gospel according to John, Tone 1, in 12 stations; On the Epistles (*Apostoly*) and Gospels of festal Sundays; On extraordinary ektenias; “Let All Mortal Flesh Keep Silence”; “Of Thy Mystical Supper”; On the Megalynaria (*Velichaniya*); “Of Thy Mystical Supper” [repeated in orig.]; “Be Thou Exalted Above the Heavens, O God”; The Oblation (*Prynos* / Prosphora); Antidoron; Anointing with Blessed Oil (*Myrovaniye*); The first blessing of a newly ordained priest; Sunday Dismissal — 219
 
-<!-- LEAF: p20 -->
+=== LEAF p20 ===
 
 *Page*  
 ### APPENDIX
