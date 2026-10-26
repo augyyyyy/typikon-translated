@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-26T12:14:47.923371+00:00",
+  "timestamp": "2026-10-26T13:15:40.507928+00:00",
   "monument_id": "1629_kyiv_octoechos",
   "cohort": 4,
   "target_file": "1629_kyiv_octoechos_cohort4_raw_draft.md",
@@ -61,85 +61,9 @@
     "structural_sequence": {
       "file": "1629_kyiv_octoechos_cohort4_raw_draft.md",
       "passed": true,
-      "paragraphs": 195,
-      "headings_count": 26,
-      "headings": [
-        {
-          "line": 36,
-          "level": 2,
-          "title": "At Sunday Midnight Office"
-        },
-        {
-          "line": 38,
-          "level": 3,
-          "title": "Canon to the Most Holy Trinity, Tone 2[^37]"
-        },
-        {
-          "line": 40,
-          "level": 4,
-          "title": "Ode 1"
-        },
-        {
-          "line": 64,
-          "level": 4,
-          "title": "Ode 3"
-        },
-        {
-          "line": 81,
-          "level": 3,
-          "title": "Sessional Hymn to the Trinity, Tone 2"
-        },
-        {
-          "line": 89,
-          "level": 4,
-          "title": "Ode 4"
-        },
-        {
-          "line": 109,
-          "level": 4,
-          "title": "Ode 5"
-        },
-        {
-          "line": 131,
-          "level": 4,
-          "title": "Ode 6"
-        },
-        {
-          "line": 143,
-          "level": 3,
-          "title": "Sessional Hymn, Tone 2"
-        },
-        {
-          "line": 155,
-          "level": 4,
-          "title": "Ode 7"
-        },
-        {
-          "line": 175,
-          "level": 4,
-          "title": "Ode 8"
-        },
-        {
-          "line": 193,
-          "level": 4,
-          "title": "Ode 9"
-        },
-        {
-          "line": 216,
-          "level": 2,
-          "title": "At Sunday Matins"
-        },
-        {
-          "line": 220,
-          "level": 3,
-          "title": "Sessional Hymns of the Resurrection, Tone 2"
-        },
-        {
-          "line": 240,
-          "level": 3,
-          "title": "Hypakoe, Tone 2[^41]"
-        }
-      ],
+      "paragraphs": 192,
+      "headings_count": 0,
+      "headings": [],
       "numbered_items_count": 0,
       "number_breaks": [],
       "leaf_stats": {

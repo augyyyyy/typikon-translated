@@ -34,6 +34,7 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = SCRIPT_DIR.parent
 REGISTRY_FILE = PROJECT_ROOT / "Liturgical Monuments" / "codex_registry.json"
 STATE_FILE = PROJECT_ROOT / "Liturgical Monuments" / "ACTIVE_ORCHESTRATOR_STATE.json"
+from orchestrator_state import load_state
 
 def get_hub_inbox(monument_name: str) -> Path:
     # Ecosystem Projects root is parent of Translation
@@ -217,15 +218,8 @@ def ingest_and_sync(monument_id: str, cohort_num: int) -> int:
     print(f"Assembling master edition from {len(all_cohort_files)} cohorts: {[p.name for p in all_cohort_files]}...")
 
     # Enforce Closed Mathematical Leaf Conservation Gate
-    is_final_sync = False
-    if STATE_FILE.exists():
-        try:
-            with open(STATE_FILE, "r", encoding="utf-8") as sf:
-                s_data = json.load(sf)
-                if s_data.get("monument_id") == monument_id and s_data.get("remaining_pages", 0) == 0:
-                    is_final_sync = True
-        except (json.JSONDecodeError, OSError) as e:
-            print(f"[Leaf Conservation] Note: Could not read {STATE_FILE.name}: {e}")
+    s_data = load_state(monument_id=monument_id)
+    is_final_sync = (s_data.get("monument_id") == monument_id and s_data.get("remaining_pages", 0) == 0)
 
     verify_closed_leaf_conservation(
         cohort_files=all_cohort_files,
@@ -353,18 +347,11 @@ All files have passed the Small Pause Gatekeeper Suite (vocabulary linting, 100%
     print(f"Updated Hub handoff note: {hub_inbox / 'handoff_note.md'}")
 
     # 6. Advance State (only if cohort is not already completed)
-    should_advance = True
-    if STATE_FILE.exists():
-        try:
-            with open(STATE_FILE, "r", encoding="utf-8") as sf:
-                cur_state = json.load(sf)
-                if cur_state.get("monument_id") == monument_id and cohort_num in cur_state.get("completed_cohorts", []):
-                    should_advance = False
-        except (json.JSONDecodeError, OSError, KeyError) as e:
-            print(f"[State check note] Could not inspect active state: {e}")
+    s_data = load_state(monument_id=monument_id)
+    should_advance = (cohort_num not in s_data.get("completed_cohorts", []))
 
     if should_advance:
-        state_cmd = [sys.executable, str(SCRIPT_DIR / "orchestrator_state.py"), "--advance-cohort"]
+        state_cmd = [sys.executable, str(SCRIPT_DIR / "orchestrator_state.py"), "--monument", monument_id, "--advance-cohort"]
         res_st = subprocess.run(state_cmd, capture_output=True, text=True, encoding="utf-8")
         print(res_st.stdout)
     else:

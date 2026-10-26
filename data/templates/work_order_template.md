@@ -17,7 +17,7 @@
 5. **Hieratic Deity Pronouns**: 100% mandatory capitalization for Holy Trinity pronouns (*He, Him, His, Thou, Thee, Thy, Thine*).
 6. **Scripture & Psalter**: Septuagint (LXX) versification mandatory.
 7. **Footnote Monotonic Bijectivity**: Every marker `[^N]` in body text MUST have an exact corresponding entry `[^N]:` in the footnotes file.
-8. **Universal Heading Hierarchy (Phase 2 Auto-Slicing)**: Reserve top-level H1 headers (`# ...`) strictly for major codex-level divisions (e.g., a new Tone, Month, Book, Rite/Liturgy, Part, or Rear Appendix marked by a primary headpiece/title). Use `##` (H2) and `###` (H3) for daily offices, canons, odes, and internal sub-sections.
+8. **Strict Epigraphic Markdown Discipline**: Never invent or interpolate modern liturgical office or structural headings (`## At Sunday Midnight Office`, `## At Sunday Matins`, `### Canon...`, `#### Ode...`). Liturgical rubrics, genre indicators, ode numbers, troparion labels, kathismata, and prosomoia must be rendered strictly as inline italicized text (e.g. `*Ode 1, Tone 2. Heirmos:*`, `*Troparion:*`, `*Sessional Hymn, Tone 2:*`). Markdown headings (`#`) are strictly restricted to primary decorative woodcut headpieces (e.g. `# TONE 1`, `# TONE 2`, `# PREFACE: TO THE READER`) explicitly sanctioned in the publication spec and present on the physical page. Any other markdown header (`#`, `##`, `###`, `####`) will trigger an immediate Small Pause Gate failure.
 
 ---
 

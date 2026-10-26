@@ -1,0 +1,659 @@
+{
+  "schema_version": "1.0.0",
+  "description": "Comprehensive Physical Podoben Invocation Concordance for Kyiv-Pechersk Lavra Octoechos (Kyiv, 1629)",
+  "summary": {
+    "monument_id": "1629_kyiv_octoechos",
+    "total_podoben_invocations": 27,
+    "distinct_model_families": 21,
+    "tones_represented": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "families": [
+      {
+        "model_id": "POD.T1.GROB_TVOI_SPASE",
+        "tone": 1,
+        "prescribed_model": "While the soldiers were guarding Thy tomb",
+        "byzantine_greek_automelon": "Τὸν τάφον σου Σωτήρ",
+        "total_invocations": 2,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      },
+      {
+        "model_id": "POD.T1.SAME",
+        "tone": 1,
+        "prescribed_model": "The same (то́йже)",
+        "byzantine_greek_automelon": "Τὸ αὐτό",
+        "total_invocations": 1,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      },
+      {
+        "model_id": "POD.T2.EGDA_OT_DREVA",
+        "tone": 2,
+        "prescribed_model": "When from the Tree",
+        "byzantine_greek_automelon": "Ὅτε ἐκ τοῦ ξύλου",
+        "total_invocations": 2,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      },
+      {
+        "model_id": "POD.T2.SAME",
+        "tone": 2,
+        "prescribed_model": "The same (то́йже)",
+        "byzantine_greek_automelon": "Τὸ αὐτό",
+        "total_invocations": 1,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      },
+      {
+        "model_id": "POD.T3.KRASOTE_DEVSTVA",
+        "tone": 3,
+        "prescribed_model": "Beholding the beauty of thy virginity",
+        "byzantine_greek_automelon": "Τὴν ὡραιότητα τῆς παρθενίας σου",
+        "total_invocations": 1,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      },
+      {
+        "model_id": "POD.T3.DEVA_DNESS",
+        "tone": 3,
+        "prescribed_model": "Today the Virgin",
+        "byzantine_greek_automelon": "Ἡ Παρθένος σήμερον",
+        "total_invocations": 1,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      },
+      {
+        "model_id": "POD.T3.VELIA_KRESTA_TVOEGO",
+        "tone": 3,
+        "prescribed_model": "Great is the power of Thy Cross, O Lord",
+        "byzantine_greek_automelon": "Μεγάλη τοῦ Σταυροῦ σου, Κύριε",
+        "total_invocations": 1,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      },
+      {
+        "model_id": "POD.T4.SKORO_PREDVARI",
+        "tone": 4,
+        "prescribed_model": "Speedily anticipate",
+        "byzantine_greek_automelon": "Ταχὺ προκατάλαβε",
+        "total_invocations": 1,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      },
+      {
+        "model_id": "POD.T4.VOZNESYISYA_NA_KREST",
+        "tone": 4,
+        "prescribed_model": "Thou Who wast lifted up upon the Cross",
+        "byzantine_greek_automelon": "Ὁ ὑψωθεὶς ἐν τῷ Σταυρῷ",
+        "total_invocations": 1,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      },
+      {
+        "model_id": "POD.T4.DALS_ESI_ZNAMENIE",
+        "tone": 4,
+        "prescribed_model": "Thou hast given a sign",
+        "byzantine_greek_automelon": "Ἔδωκας σημείωσιν",
+        "total_invocations": 1,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      },
+      {
+        "model_id": "POD.T4.YAKO_DOBLYA",
+        "tone": 4,
+        "prescribed_model": "As one valiant among martyrs",
+        "byzantine_greek_automelon": "Ὡς γενναῖον ἐν Μάρτυσιν",
+        "total_invocations": 2,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      },
+      {
+        "model_id": "POD.T5.SLOVO_SOBEZNACHALNOE",
+        "tone": 5,
+        "prescribed_model": "The Word co-unoriginate",
+        "byzantine_greek_automelon": "Τὸν συνάναρχον Λόγον",
+        "total_invocations": 3,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      },
+      {
+        "model_id": "POD.T5.SAME",
+        "tone": 5,
+        "prescribed_model": "The same (то́йже)",
+        "byzantine_greek_automelon": "Τὸ αὐτό",
+        "total_invocations": 1,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      },
+      {
+        "model_id": "POD.T6.EZHE_O_NAS",
+        "tone": 6,
+        "prescribed_model": "Fulfilling the dispensation for our sake",
+        "byzantine_greek_automelon": "Τὴν ὑπὲρ ἡμῶν πληρώσας οἰκονομίαν",
+        "total_invocations": 1,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      },
+      {
+        "model_id": "POD.T6.ANGELSKIYA_SILY",
+        "tone": 6,
+        "prescribed_model": "The Angelic Powers",
+        "byzantine_greek_automelon": "Αἱ Ἀγγελικαὶ δυνάμεις",
+        "total_invocations": 1,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      },
+      {
+        "model_id": "POD.T6.TRIDNEVEN_VOSKRESL_ESI",
+        "tone": 6,
+        "prescribed_model": "Having risen on the third day",
+        "byzantine_greek_automelon": "Τριήμερος ἀνέστης",
+        "total_invocations": 1,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      },
+      {
+        "model_id": "POD.T7.IZHE_MENE_RADI",
+        "tone": 7,
+        "prescribed_model": "He Who for my sake",
+        "byzantine_greek_automelon": "Ὁ δι' ἐμὲ",
+        "total_invocations": 1,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      },
+      {
+        "model_id": "POD.T7.OGNYA_SVETLEE",
+        "tone": 7,
+        "prescribed_model": "Brighter than fire",
+        "byzantine_greek_automelon": "Πυρὸς τηλαυγέστερον",
+        "total_invocations": 1,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      },
+      {
+        "model_id": "POD.T5.PREPODOBNE_OTCHE",
+        "tone": 8,
+        "prescribed_model": "O venerable father",
+        "byzantine_greek_automelon": "Ὅσιε Πάτερ",
+        "total_invocations": 1,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      },
+      {
+        "model_id": "POD.T8.SAME",
+        "tone": 8,
+        "prescribed_model": "The same (то́йже)",
+        "byzantine_greek_automelon": "Τὸ αὐτό",
+        "total_invocations": 2,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      },
+      {
+        "model_id": "POD.T5.RADUISYA_ZHIVONOSNYI_KRESTE",
+        "tone": 8,
+        "prescribed_model": "Rejoice, O life-bearing Cross",
+        "byzantine_greek_automelon": "Χαίροις ὁ ζωηφόρος Σταυρός",
+        "total_invocations": 1,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      }
+    ]
+  },
+  "invocations": [
+    {
+      "index": 1,
+      "tone": 1,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "TONE 1",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "то́йже",
+      "verbatim_slavonic_witness": "то́йже",
+      "normalized_rubric": "*Podoben: \"While the soldiers were guarding Thy tomb\" (Гро́бъ тво́й):* [^7]",
+      "prescribed_model": "While the soldiers were guarding Thy tomb",
+      "model_id": "POD.T1.GROB_TVOI_SPASE",
+      "byzantine_greek_automelon": "Τὸν τάφον σου Σωτήρ",
+      "governed_hymn_opening": "All-creating Trinity and most good Unity, receive the supplications of..."
+    },
+    {
+      "index": 2,
+      "tone": 1,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "TONE 1",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "то́йже",
+      "verbatim_slavonic_witness": "то́йже",
+      "normalized_rubric": "*Podoben: \"While the soldiers were guarding Thy tomb\" (Гро́бъ тво́й):* [^10]",
+      "prescribed_model": "While the soldiers were guarding Thy tomb",
+      "model_id": "POD.T1.GROB_TVOI_SPASE",
+      "byzantine_greek_automelon": "Τὸν τάφον σου Σωτήρ",
+      "governed_hymn_opening": "Crying aloud with faith of heart, we fall down before..."
+    },
+    {
+      "index": 3,
+      "tone": 1,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "TONE 1",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "то́йже",
+      "verbatim_slavonic_witness": "то́йже",
+      "normalized_rubric": "*Podoben: \"The same\" (то́йже):*",
+      "prescribed_model": "The same (то́йже)",
+      "model_id": "POD.T1.SAME",
+      "byzantine_greek_automelon": "Τὸ αὐτό",
+      "governed_hymn_opening": "Ye bodiless Angels, standing before the throne of God and..."
+    },
+    {
+      "index": 4,
+      "tone": 2,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "TONE 2",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "то́йже",
+      "verbatim_slavonic_witness": "то́йже",
+      "normalized_rubric": "*Podoben: \"When from the Tree\" (Е҆гда̀ ѿ дре́ва):*",
+      "prescribed_model": "When from the Tree",
+      "model_id": "POD.T2.EGDA_OT_DREVA",
+      "byzantine_greek_automelon": "Ὅτε ἐκ τοῦ ξύλου",
+      "governed_hymn_opening": "Having the fountain of loving-kindness, and pouring forth the abysses..."
+    },
+    {
+      "index": 5,
+      "tone": 2,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "TONE 2",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "то́йже",
+      "verbatim_slavonic_witness": "то́йже",
+      "normalized_rubric": "*Podoben: \"The same\" (то́йже):*",
+      "prescribed_model": "The same (то́йже)",
+      "model_id": "POD.T2.SAME",
+      "byzantine_greek_automelon": "Τὸ αὐτό",
+      "governed_hymn_opening": "Thrones, Cherubim, and Seraphim, Dominions and Powers, and honorable Authorities,..."
+    },
+    {
+      "index": 6,
+      "tone": 3,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "TONE 3",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "то́йже",
+      "verbatim_slavonic_witness": "то́йже",
+      "normalized_rubric": "*Podoben: \"Beholding the beauty of thy virginity\" (Красотѣ̀ дѣ́вства твоегѡ̀):*",
+      "prescribed_model": "Beholding the beauty of thy virginity",
+      "model_id": "POD.T3.KRASOTE_DEVSTVA",
+      "byzantine_greek_automelon": "Τὴν ὡραιότητα τῆς παρθενίας σου",
+      "governed_hymn_opening": "O undivided and inseparable Trinity, have mercy on us who..."
+    },
+    {
+      "index": 7,
+      "tone": 3,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "TONE 3",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "то́йже",
+      "verbatim_slavonic_witness": "то́йже",
+      "normalized_rubric": "*Podoben: \"Today the Virgin\" (Дѣ́ва дне́сь):*",
+      "prescribed_model": "Today the Virgin",
+      "model_id": "POD.T3.DEVA_DNESS",
+      "byzantine_greek_automelon": "Ἡ Παρθένος σήμερον",
+      "governed_hymn_opening": "When Thou shalt come upon the earth, O Master, to..."
+    },
+    {
+      "index": 8,
+      "tone": 3,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "TONE 3",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "то́йже",
+      "verbatim_slavonic_witness": "то́йже",
+      "normalized_rubric": "*Podoben: \"Great is the power of Thy Cross, O Lord\" (Ве́лія Крⷭ҇та̀ твоегѡ̀ Гдⷭ҇и):*",
+      "prescribed_model": "Great is the power of Thy Cross, O Lord",
+      "model_id": "POD.T3.VELIA_KRESTA_TVOEGO",
+      "byzantine_greek_automelon": "Μεγάλη τοῦ Σταυροῦ σου, Κύριε",
+      "governed_hymn_opening": "As one who sins exceedingly and grieves Thee, my good..."
+    },
+    {
+      "index": 9,
+      "tone": 4,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "TONE 4",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "то́йже",
+      "verbatim_slavonic_witness": "то́йже",
+      "normalized_rubric": "*Podoben: \"Speedily anticipate\" (Ско́рѡ предварѝ):*",
+      "prescribed_model": "Speedily anticipate",
+      "model_id": "POD.T4.SKORO_PREDVARI",
+      "byzantine_greek_automelon": "Ταχὺ προκατάλαβε",
+      "governed_hymn_opening": "He Who alone by a beckoning and by the most..."
+    },
+    {
+      "index": 10,
+      "tone": 4,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "TONE 4",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "то́йже",
+      "verbatim_slavonic_witness": "то́йже",
+      "normalized_rubric": "*Podoben: \"Thou Who wast lifted up upon the Cross\" (Вознесы́йся на Крⷭ҇тъ во́лею):*",
+      "prescribed_model": "Thou Who wast lifted up upon the Cross",
+      "model_id": "POD.T4.VOZNESYISYA_NA_KREST",
+      "byzantine_greek_automelon": "Ὁ ὑψωθεὶς ἐν τῷ Σταυρῷ",
+      "governed_hymn_opening": "Incomprehensible and unapproachable God, Who art alone by nature good..."
+    },
+    {
+      "index": 11,
+      "tone": 4,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "TONE 4",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "то́йже",
+      "verbatim_slavonic_witness": "то́йже",
+      "normalized_rubric": "*Podoben: \"Thou hast given a sign\" (Да́лъ є҆сѝ зна́менїе):*",
+      "prescribed_model": "Thou hast given a sign",
+      "model_id": "POD.T4.DALS_ESI_ZNAMENIE",
+      "byzantine_greek_automelon": "Ἔδωκας σημείωσιν",
+      "governed_hymn_opening": "I have sinned against Thee, O Lover of mankind, not..."
+    },
+    {
+      "index": 12,
+      "tone": 4,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "TONE 4",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "то́йже",
+      "verbatim_slavonic_witness": "то́йже",
+      "normalized_rubric": "*Podoben: \"As one valiant among martyrs\" (Я҆́кѡ до́бля):*",
+      "prescribed_model": "As one valiant among martyrs",
+      "model_id": "POD.T4.YAKO_DOBLYA",
+      "byzantine_greek_automelon": "Ὡς γενναῖον ἐν Μάρτυσιν",
+      "governed_hymn_opening": "Thou didst create the angelic hosts and divine assemblies as..."
+    },
+    {
+      "index": 13,
+      "tone": 5,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "TONE 5",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "то́йже",
+      "verbatim_slavonic_witness": "то́йже",
+      "normalized_rubric": "*Podoben: \"The Word co-unoriginate\" (Собезнача́льное Сло́во):*",
+      "prescribed_model": "The Word co-unoriginate",
+      "model_id": "POD.T5.SLOVO_SOBEZNACHALNOE",
+      "byzantine_greek_automelon": "Τὸν συνάναρχον Λόγον",
+      "governed_hymn_opening": "Thou art merciful, O undivided Trinity; for Thou hast mercy..."
+    },
+    {
+      "index": 14,
+      "tone": 5,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "TONE 5",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "то́йже",
+      "verbatim_slavonic_witness": "то́йже",
+      "normalized_rubric": "*Podoben: \"The Word co-unoriginate\" (Собезнача́льное Сло́во):*",
+      "prescribed_model": "The Word co-unoriginate",
+      "model_id": "POD.T5.SLOVO_SOBEZNACHALNOE",
+      "byzantine_greek_automelon": "Τὸν συνάναρχον Λόγον",
+      "governed_hymn_opening": "**[Right Page — Fol. 104r]**"
+    },
+    {
+      "index": 15,
+      "tone": 5,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "TONE 5",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "то́йже",
+      "verbatim_slavonic_witness": "то́йже",
+      "normalized_rubric": "*Podoben: \"The same\" (то́йже):* [^126]",
+      "prescribed_model": "The same (то́йже)",
+      "model_id": "POD.T5.SAME",
+      "byzantine_greek_automelon": "Τὸ αὐτό",
+      "governed_hymn_opening": "Venerable initiates of the divine Sovereignty, of the thrice-radiant and..."
+    },
+    {
+      "index": 16,
+      "tone": 6,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "TONE 6",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "то́йже",
+      "verbatim_slavonic_witness": "то́йже",
+      "normalized_rubric": "*Podoben: \"Fulfilling the dispensation for our sake\" (Е҆́же ѡ҆ на́съ):*",
+      "prescribed_model": "Fulfilling the dispensation for our sake",
+      "model_id": "POD.T6.EZHE_O_NAS",
+      "byzantine_greek_automelon": "Τὴν ὑπὲρ ἡμῶν πληρώσας οἰκονομίαν",
+      "governed_hymn_opening": "O Father and Son with the Holy Spirit, mercifully [number]..."
+    },
+    {
+      "index": 17,
+      "tone": 6,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "TONE 6",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "то́йже",
+      "verbatim_slavonic_witness": "то́йже",
+      "normalized_rubric": "*Podoben: \"The Angelic Powers\" (А҆́гг҃льскія си́лы):*",
+      "prescribed_model": "The Angelic Powers",
+      "model_id": "POD.T6.ANGELSKIYA_SILY",
+      "byzantine_greek_automelon": "Αἱ Ἀγγελικαὶ δυνάμεις",
+      "governed_hymn_opening": "Grant tears of repentance with a contrite mind, that I..."
+    },
+    {
+      "index": 18,
+      "tone": 6,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "TONE 6",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "то́йже",
+      "verbatim_slavonic_witness": "то́йже",
+      "normalized_rubric": "*Podoben: \"Having risen on the third day\" (Тридне́вно воскре́слъ е҆сѝ):*",
+      "prescribed_model": "Having risen on the third day",
+      "model_id": "POD.T6.TRIDNEVEN_VOSKRESL_ESI",
+      "byzantine_greek_automelon": "Τριήμερος ἀνέστης",
+      "governed_hymn_opening": "Standing before Thy throne, O Christ, the angelic hosts make..."
+    },
+    {
+      "index": 19,
+      "tone": 7,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "TONE 7",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "то́йже",
+      "verbatim_slavonic_witness": "то́йже",
+      "normalized_rubric": "*Podoben: \"He Who for my sake\" (И҆́же менѐ ра́ди):*",
+      "prescribed_model": "He Who for my sake",
+      "model_id": "POD.T7.IZHE_MENE_RADI",
+      "byzantine_greek_automelon": "Ὁ δι' ἐμὲ",
+      "governed_hymn_opening": "Have mercy, O Holy Trinity, upon Thy servants who have..."
+    },
+    {
+      "index": 20,
+      "tone": 7,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "TONE 7",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "то́йже",
+      "verbatim_slavonic_witness": "то́йже",
+      "normalized_rubric": "*Podoben: \"Brighter than fire\" (О҆гня̀ свѣтлѣ́е):*",
+      "prescribed_model": "Brighter than fire",
+      "model_id": "POD.T7.OGNYA_SVETLEE",
+      "byzantine_greek_automelon": "Πυρὸς τηλαυγέστερον",
+      "governed_hymn_opening": "O consubstantial Trinity, tri-hypostatic Unity..."
+    },
+    {
+      "index": 21,
+      "tone": 8,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "TONE 8",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "то́йже",
+      "verbatim_slavonic_witness": "то́йже",
+      "normalized_rubric": "*Podoben: \"When from the Tree\" (Е҆гда̀ ѿ дре́ва):* [^214]",
+      "prescribed_model": "When from the Tree",
+      "model_id": "POD.T2.EGDA_OT_DREVA",
+      "byzantine_greek_automelon": "Ὅτε ἐκ τοῦ ξύλου",
+      "governed_hymn_opening": "O preacher of Christ and Baptist: angel, apostle, martyr, prophet,..."
+    },
+    {
+      "index": 22,
+      "tone": 8,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "TONE 8",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "то́йже",
+      "verbatim_slavonic_witness": "то́йже",
+      "normalized_rubric": "*Podoben: \"As one valiant among martyrs\" (Я҆́кѡ до́бля):* [^243]",
+      "prescribed_model": "As one valiant among martyrs",
+      "model_id": "POD.T4.YAKO_DOBLYA",
+      "byzantine_greek_automelon": "Ὡς γενναῖον ἐν Μάρτυσιν",
+      "governed_hymn_opening": "With stoutest mind warring as soldiers, O holy ones, ye..."
+    },
+    {
+      "index": 23,
+      "tone": 8,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "TONE 8",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "то́йже",
+      "verbatim_slavonic_witness": "то́йже",
+      "normalized_rubric": "*Podoben: \"O venerable father\" (Преподо́бне ѻ҆́тче):* [^256]",
+      "prescribed_model": "O venerable father",
+      "model_id": "POD.T5.PREPODOBNE_OTCHE",
+      "byzantine_greek_automelon": "Ὅσιε Πάτερ",
+      "governed_hymn_opening": "Let all the trees of the forest rejoice (Psalm 95:12..."
+    },
+    {
+      "index": 24,
+      "tone": 8,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "TONE 8",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "то́йже",
+      "verbatim_slavonic_witness": "то́йже",
+      "normalized_rubric": "*Podoben: \"The same Tone and Podoben\" (Гла́съ и҆ подо́бенъ то́йже):* [^257]",
+      "prescribed_model": "The same (то́йже)",
+      "model_id": "POD.T8.SAME",
+      "byzantine_greek_automelon": "Τὸ αὐτό",
+      "governed_hymn_opening": "When Thou, like a vine, didst behold the unplanted Cluster..."
+    },
+    {
+      "index": 25,
+      "tone": 8,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "TONE 8",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "то́йже",
+      "verbatim_slavonic_witness": "то́йже",
+      "normalized_rubric": "*Podoben: \"Rejoice, O life-bearing Cross\" (Ра́дꙋйся живоно́сный Крⷭ҇те):* [^258]",
+      "prescribed_model": "Rejoice, O life-bearing Cross",
+      "model_id": "POD.T5.RADUISYA_ZHIVONOSNYI_KRESTE",
+      "byzantine_greek_automelon": "Χαίροις ὁ ζωηφόρος Σταυρός",
+      "governed_hymn_opening": "For our redemption and as a great ransom didst Thou..."
+    },
+    {
+      "index": 26,
+      "tone": 8,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "TONE 8",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "то́йже",
+      "verbatim_slavonic_witness": "то́йже",
+      "normalized_rubric": "*Podoben: \"The Word co-unoriginate\" (Собезнача́льное Сло́во):*",
+      "prescribed_model": "The Word co-unoriginate",
+      "model_id": "POD.T5.SLOVO_SOBEZNACHALNOE",
+      "byzantine_greek_automelon": "Τὸν συνάναρχον Λόγον",
+      "governed_hymn_opening": "When the angelic ranks beheld Thee nailed upon the Cross,..."
+    },
+    {
+      "index": 27,
+      "tone": 8,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "TONE 8",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "то́йже",
+      "verbatim_slavonic_witness": "то́йже",
+      "normalized_rubric": "*Podoben: \"The same Tone and Podoben\" (Гла́съ и҆ подо́бенъ то́йже):*",
+      "prescribed_model": "The same (то́йже)",
+      "model_id": "POD.T8.SAME",
+      "byzantine_greek_automelon": "Τὸ αὐτό",
+      "governed_hymn_opening": "Thy martyrs, O Lord, denied Thee not, neither did they..."
+    }
+  ]
+}

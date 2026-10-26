@@ -26,6 +26,11 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = SCRIPT_DIR.parent
 REGISTRY_FILE = PROJECT_ROOT / "Liturgical Monuments" / "codex_registry.json"
 
+BANNED_FABRICATED_HEADING_PATTERNS = [
+    (re.compile(r"^#{1,6}\s+(?:At\s+(?:Sunday\s+)?(?:Midnight\s+Office|Matins|Vespers|the\s+Praises)|Sunday\s+Divine\s+Liturgy|On\s+(?:Saturday|Sunday)\s+Evening|On\s+Sunday\s+at\s+the\s+Liturgy|Canon\s+(?:to|of)\s+|Ode\s+\d+|Sessional\s+Hymn|Hypakoe|Hymns\s+of\s+Ascent|Gradual\s+Hymns|Prokeimenon|The\s+Beatitudes|Penitential\s+Stichera|Other\s+Stichera|Antiphon\s+\d+)", re.IGNORECASE), "FABRICATED_LITURGICAL_HEADING"),
+]
+
+
 def extract_accounted_leaves(text: str) -> Set[int]:
     """Extracts all physical leaf numbers witnessed in text content."""
     accounted: Set[int] = set()
@@ -104,7 +109,7 @@ def audit_structure(
         if s.startswith("#"):
             level = len(s) - len(s.lstrip("#"))
             title = s.lstrip("#").strip()
-            headings.append({"line": line_num, "level": level, "title": title})
+            headings.append({"line": line_num, "level": level, "title": title, "leaf": current_leaf})
 
         # Check numbered statutory items (e.g., "**1.**", "1.", "§ 1.")
         m_statute = re.match(r"^(?:\*{1,2})?(\d+)\.(?:\*{1,2})?\s+", s)
@@ -183,6 +188,63 @@ def audit_structure(
                         f"Out-of-order cohort sequence: Current max leaf p{c_max} "
                         f"precedes previous max leaf p{prev_max}."
                     )
+
+    # Epigraphic Heading & Pre-Training Incursion Linter
+    is_hymnographic = False
+    genre = mon_entry.get("genre_register", "").lower()
+    if genre == "hymnographic" or (resolved_monument and "octoechos" in resolved_monument.lower()):
+        is_hymnographic = True
+
+    cand_src = None
+    if resolved_monument and cohort_num:
+        ws_rel = mon_entry.get("workspace_dir", f"Liturgical Monuments/{resolved_monument}")
+        ws = PROJECT_ROOT / ws_rel
+        src_path = ws / "Source Text" / f"{resolved_monument}_cohort{cohort_num}_source.txt"
+        if src_path.exists():
+            cand_src = src_path
+
+    source_leaf_blocks = {}
+    if cand_src and cand_src.exists():
+        source_leaf_blocks = parse_leaf_blocks(cand_src.read_text(encoding="utf-8"))
+
+    for h in headings:
+        line_no = h["line"]
+        lvl = h["level"]
+        htitle = h["title"]
+        hleaf = h.get("leaf")
+
+        # 1. Banned pre-training liturgical headings across all monuments
+        for pat, pat_name in BANNED_FABRICATED_HEADING_PATTERNS:
+            if pat.search(f"{'#' * lvl} {htitle}"):
+                anomalies.append(
+                    f"PRE_TRAINING_DATA_INCURSION (L{line_no}, leaf p{hleaf}): "
+                    f"Heading '{htitle}' is a fabricated modern office / liturgical heading. "
+                    f"Historical codices format rubrics as inline italics ('*...*')."
+                )
+
+        # 2. In hymnographic codices, ban all headings level >= 2
+        if is_hymnographic and lvl >= 2:
+            anomalies.append(
+                f"EPIGRAPHIC_HEADING_VIOLATION (L{line_no}, leaf p{hleaf}): "
+                f"Level-{lvl} heading '{htitle}' is prohibited in hymnographic codices. "
+                f"Use inline italic rubrics ('*...*')."
+            )
+
+        # 3. For Level-1 headings (# Title), verify against publication spec landmarks
+        if lvl == 1:
+            pub_spec = mon_entry.get("publication_spec", {})
+            parts = pub_spec.get("parts", [])
+            allowed_landmarks = [p.get("start_landmark") for p in parts if p.get("start_landmark")]
+            allowed_landmarks.append(r"^#\s+PREFACE:\s+TO\s+THE\s+READER")
+            allowed_landmarks.append(r"^#\s+TONE\s+\d+")
+            allowed_landmarks.append(r"^#\s+EXAPOSTILARIA")
+            
+            is_valid_h1 = any(re.search(lm, f"# {htitle}", re.IGNORECASE) for lm in allowed_landmarks if lm)
+            if not is_valid_h1:
+                anomalies.append(
+                    f"UNSANCTIONED_H1_HEADING (L{line_no}, leaf p{hleaf}): "
+                    f"'# {htitle}' does not match any authorized publication landmark in codex_registry.json."
+                )
 
     # Basic structural health check: must have paragraphs and zero anomalies
     passed = len(anomalies) == 0 and len(breaks) == 0 and paragraph_count > 0

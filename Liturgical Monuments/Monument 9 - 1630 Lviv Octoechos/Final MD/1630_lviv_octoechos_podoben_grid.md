@@ -8,7 +8,7 @@
 
 - **Monument ID**: `1630_lviv_octoechos`
 - **Total Physical Podoben Invocations**: `145`
-- **Distinct Model Families Prescribed**: `49` across Tones 1–8
+- **Distinct Model Families Prescribed**: `48` across Tones 1–8
 - **Tones Represented**: `Tones [1, 2, 3, 4, 5, 6, 7, 8]`
 
 ---
@@ -41,7 +41,7 @@
 | Tone 4 | `POD.T4.SAME` | **The same (то́йже)** | 3 | `f. 119rA (p125)` | f. 119rA (p125), f. 122vA (p128), f. 132rA (p138) | *Τὸ αὐτό* |
 | Tone 4 | `POD.T4.UNKNOWN` | **The same** | 1 | `f. 105vA (p111)` | f. 105vA (p111) | *—* |
 | Tone 4 | `POD.T4.KHOTEKH_SLEZAMI` | **With tears I desired** | 1 | `f. 114rB (p120)` | f. 114rB (p120) | *Ἤθελον δάκρυσιν ἐξαλεῖψαι* |
-| Tone 5 | `POD.T5.RADUISYA_POSTNIKOV` | **Rejoice, O container of ascetics** | 9 | `f. 144vB (p150)` | f. 144vB (p150), f. 148vA (p154), f. 153rA (p159), f. 157rA (p163), f. 157rB (p163) (+4 more) | *Χαίροις ἀσκητικῶν* |
+| Tone 5 | `POD.T5.RADUISYA_POSTNIKOV` | **Rejoice, O container of ascetics** | 10 | `f. 144vB (p150)` | f. 144vB (p150), f. 148vA (p154), f. 153rA (p159), f. 157rA (p163), f. 157rB (p163) (+5 more) | *Χαίροις ἀσκητικῶν* |
 | Tone 5 | `POD.T5.SLOVO_SOBEZNACHALNOE` | **The Word co-unoriginate** | 8 | `f. 139rB (p145)` | f. 139rB (p145), f. 139vB (p145), f. 142vB (p148), f. 146rA (p152), f. 149vA (p155) (+3 more) | *Τὸν συνάναρχον Λόγον* |
 | Tone 5 | `POD.T5.PREPODOBNE_OTCHE` | **O venerable father** | 2 | `f. 153vB (p159)` | f. 153vB (p159), f. 161rA (p167) | *Ὅσιε Πάτερ* |
 | Tone 5 | `POD.T5.RADUISYA_ZHIVONOSNYI_KRESTE` | **Rejoice, O life-bearing Cross** | 1 | `f. 137rB (p143)` | f. 137rB (p143) | *Χαίροις ὁ ζωηφόρος Σταυρός* |
@@ -57,7 +57,6 @@
 | Tone 7 | `POD.T7.PLOD_CHREVA` | **Fruit of thy womb** | 3 | `f. 206vA (p212)` | f. 206vA (p212), f. 210rA (p216), f. 218rA (p224) | *Καρπὸς κοιλίας* |
 | Tone 7 | `POD.T6.OGNYA_OSTROV` | **The island of fire** | 1 | `f. 200vA (p206)` | f. 200vA (p206) | *Πυρὸς σβέσαντες δύναμιν* |
 | Tone 7 | `POD.T7.SAME` | **The same (то́йже)** | 1 | `f. 217vA (p223)` | f. 217vA (p223) | *Τὸ αὐτό* |
-| Tone 7 | `POD.T7.UNKNOWN` | **The same** | 1 | `f. 227vB (p233)` | f. 227vB (p233) | *—* |
 | Tone 8 | `POD.T8.POVELENNOE_TAINSTVENNO` | **That which was commanded mystically** | 8 | `f. 229rB (p235)` | f. 229rB (p235), f. 229vB (p235), f. 235vB (p241), f. 240rA (p246), f. 244rB (p250) (+3 more) | *Τὸ προσταχθὲν μυστικῶς* |
 | Tone 8 | `POD.T8.GOSPODI_ASHCHE_I_NA_SUDISHCHI` | **O Lord, though Thou didst stand before the tribunal** | 4 | `f. 235rA (p241)` | f. 235rA (p241), f. 243vB (p249), f. 247vA (p253), f. 247vB (p253) | *Κύριε, εἰ καὶ κριτηρίῳ παρέστης* |
 | Tone 8 | `POD.T8.O_PRESLAVNAGO_CHUDESE` | **O most marvelous wonder** | 3 | `f. 239rA (p245)` | f. 239rA (p245), f. 251vB (p257), f. 260vB (p266) | *Ὢ τοῦ παραδόξου θαύματος* |
@@ -197,7 +196,7 @@
 | 122 | `f. 220vB` (p226) | T7 | TONE 7 — *At 'Lord, I have cried'* | *Ꙗ҆́кѡ живы̑ми и҆ ме́ртвымъ, Сло́ве* | **No longer are we forbidden** | "That Thou mightest make man a god, Thou becamest man,..." |
 | 123 | `f. 221rA` (p227) | T7 | TONE 7 — *At 'Lord, I have cried'* | *Пра́ведныхъ* | **Today Judas watcheth** | "Beholding the Lamb stretched upon the Tree, the spotless Ewe-lamb..." |
 | 124 | `f. 224rB` (p230) | T7 | TONE 7 — *At 'Lord, I have cried'* | *то́йже* | **No longer are we forbidden** | "The Martyrs quenched the fire, and drove away idol deceit,..." |
-| 125 | `f. 227vB` (p233) | T7 | TONE 7 — *At 'Lord, I have cried'* | *то́йже* | **The same** | "For the Departed:" |
+| 125 | `f. 227vB` (p233) | T7 | TONE 7 — *At 'Lord, I have cried'* | *то́йже* | **Rejoice, O container of ascetics** | "For the Departed:" |
 | 126 | `f. 229rB` (p235) | T8 | TONE 8 — *At 'Lord, I have cried'* | *Глас, и҃. По* | **That which was commanded mystically** | "The power of the Triple-radiant and honorable Godhead let us,..." |
 | 127 | `f. 229vB` (p235) | T8 | TONE 8 — *At 'Lord, I have cried'* | *Глас, и҃. По* | **That which was commanded mystically** | "As beginningless Root, and co-beginningless Son, and Divine Spirit, truly..." |
 | 128 | `f. 233rA` (p239) | T8 | TONE 8 — *At 'Lord, I have cried'* | *Повеле́нное та́инство* | **As first-fruits of nature** | "Having risen from the tomb, Thou didst raise the dead,..." |

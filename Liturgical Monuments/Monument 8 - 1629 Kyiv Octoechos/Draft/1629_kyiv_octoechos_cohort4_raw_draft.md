@@ -33,13 +33,12 @@ When Thou didst descend unto death, O Life...
 *Theotokion:*
 All beyond thought, all all-glorious are thy...
 
-## At Sunday Midnight Office
 
-### Canon to the Most Holy Trinity, Tone 2[^37]
+*Canon to the Most Holy Trinity, Tone 2:*
 
-#### Ode 1
+*Ode 1:*
 
-*Heirmos:* Of old, the all-armed power drowned the whole host of Pharaoh in the deep; and the Incarnate Word consumed all-wicked sin: the all-glorious Lord, for gloriously hath He been glorified.
+*Heirmos:* Of old, the all-armed power drowned the whole host of Pharaoh in the deep; and the Incarnate Word consumed all-wicked sin: the all-glorious Lord, for gloriously hath He been glorified.[^37]
 
 *Troparia:*
 Let us sing hymns unto the Triune and unique beginning nature of the Godhead, crying: O abyss of mercy,
@@ -61,7 +60,7 @@ The ancient flow of our nature, having suffered unworthily and slid into corrupt
 
 shone forth in love for mankind, and mystically taught us the tri-radiant divine Principle.
 
-#### Ode 3
+*Ode 3:*
 
 *Heirmos:* Establish me upon the rock of faith...
 
@@ -78,7 +77,7 @@ He Who formed every substance beforehand
 
 united with the creation in thy womb, through unmeasured goodness, O Theotokos; and the three-sunned Light shone forth unto all, of one Godhead and Lordship.
 
-### Sessional Hymn to the Trinity, Tone 2
+*Sessional Hymn to the Trinity, Tone 2:*
 
 *Prosomoion: Having sought the things on high:*[^38]
 Holy Trinity, have mercy on those whom Thou didst create, and deliver them from fire and all condemnation, for Thou canst do all things, as compassionate and most merciful God; therefore falling down before Thee, we cry: Forgive our sins, O Lover of mankind!
@@ -86,7 +85,7 @@ Holy Trinity, have mercy on those whom Thou didst create, and deliver them from 
 *Glory, both now: Theotokion:*
 Filled with many wounds, Thy servants, by the invisible arrows of the destroyer, and lying upon the bed of despair, O Lady, we cry: Despise not our supplication, who flee unto thee in faith!
 
-#### Ode 4
+*Ode 4:*
 
 *Heirmos:* Covered by the report...
 
@@ -106,7 +105,7 @@ We hymn the unconfused Trinity of the primordial Unity, as possessing properties
 *Theotokion:*
 A pure and all-pure temple did the Creator find thee alone clearly from the ages, O Virgin Theotokos: having dwelt wherein, He reformed human nature, as Lover of mankind.
 
-#### Ode 5
+*Ode 5:*
 
 *Heirmos:* Thou Who art the Enlightenment...
 
@@ -128,7 +127,7 @@ Being by essence the Upholder of all ages, O Virgin Mother, God the Word was ine
 
 **[Left Page — Fol. 32v]**
 
-#### Ode 6
+*Ode 6:*
 
 *Heirmos:* Held fast in the abyss of sins...
 
@@ -140,7 +139,7 @@ By Thine ineffable abyss of goodness, brightly grant me the Light-giving and uns
 *Theotokion:*
 Ineffably, O Virgin, the Most High, having become man from thee, clothed Himself in man in every way; and illuminated me with the three-sunned Light.
 
-### Sessional Hymn, Tone 2
+*Sessional Hymn, Tone 2:*
 
 *Prosomoion: Having sought the things on high:*
 O Christ God, only all-good One, Who didst pour out Thy Blood for our sake when suspended upon the Cross by the counsel of Thy Father and of the Spirit: therefore taking courage we cry: Have mercy on Thy flock, O Lover of mankind!
@@ -152,7 +151,7 @@ O pure Virgin, have mercy on thy servants, and deliver from fire and all torment
 
 unto thy Son, O all-pure one; despise not Thy flock, O Christ, through the prayers of her who bare Thee!
 
-#### Ode 7
+*Ode 7:*
 
 *Heirmos:* From the golden image...
 
@@ -172,7 +171,7 @@ we may ceaselessly glorify: Father and Son, and Holy Spirit, in one Godhead.
 *Theotokion:*
 Guiding us and lifting us up unto the heavens unerringly who love thee, He Who for His ineffable love for mankind became man in the Virgin's womb, and deified man, and sits upon the throne of glory with the Father.
 
-#### Ode 8
+*Ode 8:*
 
 *Heirmos:* Of the image...
 
@@ -190,7 +189,7 @@ O Wisdom of the Father, incomprehensible, ineffable Word of God: without changin
 *Theotokion:*
 Righteousness and Wisdom, guiding all things, loved thee worthily, O all-honored and light-bearing Virgin: ineffably did He dwell within thee, O all-pure one; and hymn-glorifying Him, we sing, crying: Bless the Lord, all ye works of the Lord; sing and supreme in glory exalt Him unto all ages!
 
-#### Ode 9
+*Ode 9:*
 
 *Heirmos:* Him Who before the sun...
 
@@ -213,11 +212,10 @@ Save me, O my Savior, from every temptation and affliction, Who art hymned in th
 
 prayers.
 
-## At Sunday Matins
 
 *At "God is the Lord," Troparion, Tone 2, chanted as on Saturday evening:* "When Thou didst descend..." *and its Theotokion.*
 
-### Sessional Hymns of the Resurrection, Tone 2
+*Sessional Hymns of the Resurrection, Tone 2:*
 
 *After the First Kathisma Reading:*[^40]
 The noble Joseph, having taken down Thine all-pure Body from the tree, wrapped it in a clean shroud with sweet spices, and laying it in a new tomb, covered it; but on the third day Thou didst rise, O Lord, granting great mercy unto the world.
@@ -237,13 +235,13 @@ but Christ hath shown Himself a stranger to corruption: but cry aloud, singing: 
 *Glory, both now: Theotokion:*
 Having concealed thyself from the laws of nature, in thy divine childbirth thou didst unite virginity: for thou alone didst bring forth Him Who was begotten timelessly before thee; therefore, O Theotokos, we magnify thee!
 
-### Hypakoe, Tone 2[^41]
-After the Passion, the women having gone unto the tomb to anoint Thy Body, O Christ God, saw Angels in the tomb and were terrified; for they heard a voice from them: The Lord has risen, granting great mercy unto the world!
+*Hypakoe, Tone 2:*
+After the Passion, the women having gone unto the tomb to anoint Thy Body, O Christ God, saw Angels in the tomb and were terrified; for they heard a voice from them: The Lord has risen, granting great mercy unto the world![^41]
 
-### The Gradual Hymns (Anavathmoi), Tone 2[^42]
+*The Gradual Hymns (Anavathmoi), Tone 2:*
 
-#### Antiphon 1
-Unto heaven I send up the eyes of my heart, unto Thee, O Savior: save me by Thine illumination!
+*Antiphon 1:*
+Unto heaven I send up the eyes of my heart, unto Thee, O Savior: save me by Thine illumination![^42]
 
 Have mercy on us who sin against Thee greatly, at every hour, O my Christ; give me a manner of repenting unto Thee
 
@@ -253,14 +251,14 @@ before the end!
 
 To the Holy Spirit it belongs to reign, to sanctify and to move creation: for He is God, consubstantial with the Father and the Word.
 
-#### Antiphon 2
+*Antiphon 2:*
 Unless the Lord were among us, who could be kept whole from the enemy and manslayer together?
 
 Unto their teeth deliver not Thy servant, O Savior; for like lions mine enemies move against me.
 
 To the Holy Spirit belongs the origin of life and honor: for as God He is able to preserve all created things, from the Father and with the Son.
 
-#### Antiphon 3
+*Antiphon 3:*
 They who trust in the Lord are like unto the holy mountain: who shall in nowise be moved by the assaults of the enemy.
 
 In iniquities let not those who live divinely stretch forth their hands:
@@ -278,11 +276,10 @@ Through the Holy Spirit gushes forth all wisdom, thence grace unto the Apostles;
 *Then:* Let every breath praise the Lord. *Verse:* Praise God in His saints.  
 *The Gospel.*
 
-## Canons of Sunday Matins, Tone 2[^43]
 
-### Ode 1
+*Ode 1:*
 
-*Canon of the Resurrection, Tone 2. Heirmos:*
+*Canon of the Resurrection, Tone 2. Heirmos:*[^43]
 Of old, the all-armed power drowned the whole host of Pharaoh in the deep; and the Incarnate Word consumed all-wicked sin: the all-glorious Lord, for gloriously hath He been glorified.
 
 *Refrain: Glory, O Lord, to Thy Resurrection.*
@@ -299,9 +296,9 @@ O Redeemer of the human race, and Prince of incorruptible life, having come into
 *Theotokion:*
 Thou hast appeared higher than all visible and invisible creation, O pure, ever-virgin Maid: for thou didst bear the Creator, as He was well pleased to become incarnate in thy womb; Whom pray with boldness to save our souls.
 
-### Canon of the Cross, Tone 2
+*Canon of the Cross, Tone 2:*
 
-#### Ode 1
+*Ode 1:*
 
 *Heirmos:* Traversing an untrodden, unaccustomed, pathless sea without wetting foot, chosen Israel cried aloud: Let us sing unto the Lord, for gloriously hath He been glorified!
 
@@ -319,9 +316,9 @@ Have compassion upon the fallen image, and renew that which was crushed, O Creat
 *Theotokion:*
 The angelic ranks minister with rejoicing unto thy childbirth beyond nature, O pure one: for thou didst bear their God and Lord!
 
-### Canon of the Most Holy Theotokos, Tone 2
+*Canon of the Most Holy Theotokos, Tone 2:*
 
-#### Ode 1
+*Ode 1:*
 
 *Heirmos: The same.*
 The immaterial ladder of old, and the strange solidifying of the pathway of the sea, foreshadowed thy childbirth, O pure one, which we hymn, O Lady, for gloriously hath He been glorified!
@@ -332,7 +329,7 @@ The Power of the Most High, the perfect Essence, the Wisdom of God, having becom
 
 The Sun of righteousness passed through the impenetrable, closed gate of thy womb, O pure one, and shone forth upon the world: for gloriously hath He been glorified!
 
-### Ode 3
+*Ode 3:*
 
 *Canon of the Resurrection, Tone 2. Heirmos:*
 The desert of the barren church of the Gentiles hath blossomed as a lily at Thy coming, O Lord; wherein my heart hath been established!

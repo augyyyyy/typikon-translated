@@ -34,7 +34,7 @@ Look down upon our supplications, O God Who art ever glorified as one in three d
 
 He endured not to see the earthly nature fallen into corruption through the disobedience of the first-fashioned man, but bowing the heavens He came down without parting from the Father, being incarnate of the Virgin without a father, that He might deify those on earth.
 
-## At Sunday Matins[^12]
+*Beginning of Matins:[^12]*
 
 *At "God is the Lord," Troparion, Tone 1:* **"The stone being sealed,"** *twice; and its Theotokion, written at Saturday Vespers. Thereafter, the Sessional Hymns (Kathismata).*
 
@@ -64,13 +64,13 @@ Having conceived the divine Fire unburnt, and having given birth without seed un
 
 **[Left Page — Fol. 10v]**
 
-### Hypakoe, Tone 1[^14]
+*Hypakoe, Tone 1:*
 
-The repentance of the thief opened Paradise, and the lamentation of the Myrrh-bearers proclaimed joy: that the Lord has risen, granting unto the world great mercy.
+The repentance of the thief opened Paradise, and the lamentation of the Myrrh-bearers proclaimed joy: that the Lord has risen, granting unto the world great mercy.[^14]
 
-### Hymns of Ascent (Anavathmoi), Tone 1[^15]
+*Hymns of Ascent (Anavathmoi), Tone 1:*
 
-*Antiphon 1:*
+*Antiphon 1:*[^15]
 
 When I am afflicted, hear Thou my pangs, O Lord, unto Thee do I cry.
 
@@ -98,13 +98,11 @@ In the house of David there is great awe; for there thrones being set, all the t
 
 Unto the Holy Spirit belong honor and worship, glory and dominion, as is worthy to be offered unto the Father and the Son; for the Trinity is one in essence, yet not in persons.[^16]
 
-### Prokeimenon, Tone 1
+*Prokeimenon, Tone 1:*
 
 "Now will I arise," says the Lord. *Verse:* The words of the Lord are pure words. *Then:* Let every breath praise the Lord. *Verse:* Praise God in His saints. *Matins Gospel of the Resurrection. Having seen the Resurrection of Christ... Psalm 50.*
 
-### Sunday Canon of the Resurrection, Tone 1[^17]
-
-#### Ode 1
+*Canon of the Resurrection, Tone 1, Ode 1. Heirmos:[^17]*
 
 *Heirmos:* Thy victorious right hand has been glorified in strength in a manner befitting God; for that immortal hand, as all-powerful, shattered the adversaries,
 
@@ -126,7 +124,7 @@ Thou didst submit unto mortification for my sake, and didst deliver Thy soul unt
 
 Rejoice, O fountain of grace! Rejoice, O ladder and heavenly gate! Rejoice, O lampstand, and golden jar, and unhewn mountain, who hast given birth unto Christ the Giver of life for the world!
 
-### Canon of the Cross, Tone 1[^18]
+*Another Canon, to the Cross:[^18]*
 
 *Katavasia: Christ is born...*
 
@@ -142,7 +140,7 @@ Christ raises me up by being crucified; Christ quickens me by being put to death
 
 Thou didst conceive God, O daughter, and in virginity didst give birth unto Christ, Who was incarnate of thee, O most pure one: the Only-begotten Son, one in hypostasis, known in two natures, for He has been glorified.[^19]
 
-### Canon of the Most Holy Theotokos, Tone 1
+*Another Canon, to the Theotokos:*
 
 *Heirmos: Thy victorious right hand...*
 
@@ -158,7 +156,7 @@ Unto the virgin song, and unto the Mother of the King of the supernal hosts, let
 
 An impassable abyss is the mystery of thy incomprehensible childbirth, O all-pure one; therefore we the faithful, without doubting, cleanly fall down before thee, saying: Rejoice, O Virgin Theotokos, unwedded Mother!
 
-#### Ode 3
+*Ode 3:*
 
 *Resurrection Canon. Heirmos:* O Thou Who alone knowest the weakness of human nature, and hast mercifully clothed Thyself therein, gird me from on high with power to cry unto Thee: Holy art Thou, O living temple of Thine ineffable glory, O Lover of mankind!
 
@@ -204,7 +202,7 @@ The choir of prophets truly termed thee a sealed fountain and a shut gate, O all
 
 childbirth.
 
-#### Ode 4
+*Ode 4:*
 
 *Resurrection Canon. Heirmos:* Seeing thee with prophetic eyes as a mountain overshadowed by the grace of God, Habakkuk proclaimed that from thee would come forth the Holy One of Israel, for our salvation and renewal.
 
@@ -246,7 +244,7 @@ Hear of these marvels, O heaven, and give ear, O earth: that the daughter of fal
 
 We hymn thy great and awesome mystery; for hidden from the angelic ranks above the world, He Who is came down upon thee like rain upon the fleece, O all-hymned one, for our salvation and renewal.
 
-#### Ode 5
+*Ode 5:*
 
 *Resurrection Canon. Heirmos:* O Christ Who didst shine forth the radiance of Thy coming, and didst hallow the ends of the world by Thy Cross, enlighten with the light of Thy divine knowledge the hearts of those who praise Thee in orthodox faith.
 
@@ -294,7 +292,7 @@ for the Virgin has manifestly appeared, glorifying in faith those who hymn her m
 
 Every song of praise offered by the world above glorifies the Virgin Mother of God; for she became the temple of pre-divine glory, whom we worthily glorify.
 
-#### Ode 6
+*Ode 6:*
 
 *Resurrection Canon. Heirmos:* The lowest abyss has surrounded us, and there is none to deliver; we are accounted as sheep for the slaughter. Save Thy people, O our God, for Thou art the strength of the weak, and their restoration!
 
@@ -340,7 +338,7 @@ The Word Who was bodiless before became incarnate of thee, O all-pure one, He Wh
 
 as all-powerful.
 
-#### Ode 7
+*Ode 7:*
 
 *Resurrection Canon. Heirmos:* Thee, O Theotokos, do we the faithful perceive as a spiritual furnace; for just as the Exalted One saved the three youths, so He has renewed the world, being made complete within thy womb: the praised God of our fathers, blessed art Thou!
 

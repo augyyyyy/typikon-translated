@@ -788,6 +788,11 @@ def format_hymnographic_stanzas_and_headings(text: str) -> str:
         line = RE_INVENTED_STANZA_NUM.sub(r"\1", line)
 
         # 2. Heading Normalizations
+        # Codex-level division headers (H1: Tone 1..8, Exapostilaria, Preface, Colophon) must NEVER be demoted
+        if re.match(r"^#\s+(?:TONE\s+\d+|PREFACE|EXAPOSTILARIA|EVANGELICAL|COLOPHON)", line, re.IGNORECASE):
+            formatted.extend(["", line, ""])
+            continue
+
         m_ode = RE_CANON_ODE.match(line)
         if m_ode:
             line = f"#### Ode {m_ode.group(1)}"
@@ -806,10 +811,6 @@ def format_hymnographic_stanzas_and_headings(text: str) -> str:
         if m_sec:
             sec_title = m_sec.group(0).lstrip("#").strip()
             line = f"### {sec_title}"
-            formatted.extend(["", line, ""])
-            continue
-
-        if re.match(r"^#\s*TONE\s+\d+", line, re.IGNORECASE):
             formatted.extend(["", line, ""])
             continue
 
@@ -1042,12 +1043,7 @@ def emit_deliverables(
     )
     print(f"  [Companion] Emitted {monument_id}_propers_corpus.json ({len(corpus_json.get('items', []))} items)")
 
-    # 6. Comprehensive Podoben Grid (Markdown & JSON)
-    try:
-        from generate_podoben_grid import emit_podoben_grid
-        emit_podoben_grid()
-    except Exception as e:
-        print(f"  [Companion] Podoben grid generation note: {e}")
+    # 6. Companion Deliverables generated directly by compiler engine
 
 
 def generate_father_paul_digest(
@@ -1083,8 +1079,8 @@ def generate_father_paul_digest(
         "## 2. Model Hymns (Podobens / Automela — Tones 1 to 8)",
         "",
         "> [!NOTE]",
-        "> **Internal Attestation Guarantee:** 100% of the models below are physically attested and prescribed within the 1630 Lviv Octoechos.",
-        f"> For the complete chronological invocation log across all 145 physical occurrences in the codex, see [{monument_id}_podoben_grid.md](file:///{PROJECT_ROOT.as_posix()}/Liturgical%20Monuments/Monument%209%20-%201630%20Lviv%20Octoechos/Final%20MD/{monument_id}_podoben_grid.md).",
+        f"> **Internal Attestation Guarantee:** 100% of the models below are physically attested and prescribed within `{monument_id}`.",
+        f"> For the complete chronological invocation log across the codex, see [{monument_id}_podoben_grid.md]({monument_id}_podoben_grid.md).",
         "",
         "| ID | Tone | 1630 Church Slavonic Incipit | Byzantine Greek Automelon | Canonical English Incipit | Attested Loci |",
         "| :--- | :---: | :--- | :--- | :--- | :---: |"

@@ -4,7 +4,7 @@
   "summary": {
     "monument_id": "1630_lviv_octoechos",
     "total_podoben_invocations": 145,
-    "distinct_model_families": 49,
+    "distinct_model_families": 48,
     "tones_represented": [
       1,
       2,
@@ -358,7 +358,7 @@
         "tone": 5,
         "prescribed_model": "Rejoice, O container of ascetics",
         "byzantine_greek_automelon": "Χαίροις ἀσκητικῶν",
-        "total_invocations": 9,
+        "total_invocations": 10,
         "first_locus": "f. 144vB (p150)",
         "attested_loci": [
           "f. 144vB (p150)",
@@ -369,7 +369,8 @@
           "f. 161vB (p167)",
           "f. 164vB (p170)",
           "f. 165rB (p171)",
-          "f. 169rA (p175)"
+          "f. 169rA (p175)",
+          "f. 227vB (p233)"
         ]
       },
       {
@@ -534,17 +535,6 @@
         "first_locus": "f. 217vA (p223)",
         "attested_loci": [
           "f. 217vA (p223)"
-        ]
-      },
-      {
-        "model_id": "POD.T7.UNKNOWN",
-        "tone": 7,
-        "prescribed_model": "The same",
-        "byzantine_greek_automelon": "—",
-        "total_invocations": 1,
-        "first_locus": "f. 227vB (p233)",
-        "attested_loci": [
-          "f. 227vB (p233)"
         ]
       },
       {
@@ -2394,10 +2384,10 @@
       "office": "TONE 7",
       "section": "At 'Lord, I have cried'",
       "verbatim_1630_slavonic": "то́йже",
-      "normalized_rubric": "*Podoben: \"Rejoice\" (Ра́дꙋйся):*",
-      "prescribed_model": "The same",
-      "model_id": "POD.T7.UNKNOWN",
-      "byzantine_greek_automelon": "—",
+      "normalized_rubric": "*Podoben: \"Rejoice, O container of ascetics\" (Ра́дꙋйся по́стникѡвъ):*",
+      "prescribed_model": "Rejoice, O container of ascetics",
+      "model_id": "POD.T5.RADUISYA_POSTNIKOV",
+      "byzantine_greek_automelon": "Χαίροις ἀσκητικῶν",
       "governed_hymn_opening": "For the Departed:"
     },
     {

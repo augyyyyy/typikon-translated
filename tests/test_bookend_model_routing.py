@@ -323,6 +323,8 @@ def test_phase_0_onboarding_prompt_and_defer_monument(monkeypatch, tmp_path):
     fake_registry_file = tmp_path / "codex_registry.json"
     monkeypatch.setattr(orchestrator_state, "STATE_FILE", fake_state_file)
     monkeypatch.setattr(autonomous_orchestrator, "STATE_FILE", fake_state_file)
+    monkeypatch.setattr(orchestrator_state, "STATE_FILE", fake_state_file)
+    monkeypatch.setattr(orchestrator_state, "get_state_file_path", lambda mid=None: fake_state_file)
     monkeypatch.setattr(orchestrator_state, "REGISTRY_FILE", fake_registry_file)
     monkeypatch.setattr(autonomous_orchestrator, "REGISTRY_FILE", fake_registry_file)
 

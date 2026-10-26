@@ -34,7 +34,7 @@ Rejoice, O fount of ever-living water! Rejoice, O paradise of delight! Rejoice, 
 
 **[Left Page — Fol. 19v]**
 
-#### Ode 8
+*Ode 8:*
 
 *Resurrection Canon. Heirmos:* In the furnace the children of Israel, as in a crucible, shone with the beauty of piety purer than gold, saying: Bless the Lord, all ye works of the Lord; sing and supreme in glory exalt Him unto all ages!
 
@@ -80,7 +80,7 @@ Rejoice, glorious throne of God! Rejoice,
 
 wall of the faithful, from whom Christ, the Light unto those in darkness, shone forth! Unto thee who blessest Him and criest: Bless the Lord, all ye works of the Lord; sing and supreme in glory exalt Him unto all ages.
 
-#### Ode 9
+*Ode 9:*
 
 *Resurrection Canon. Heirmos:* The type of thy pure childbearing did the burning bush reveal unconsumed;[^27] and now we pray thee to quench the furnace of temptations raging against us, that we may ceaselessly magnify thee, O Theotokos.
 
@@ -124,7 +124,7 @@ O wonders of thine surpassing understanding! For thou alone, O Virgin, hast give
 
 for Whose sake we all magnify thee.
 
-## At the Praises
+*At the Praises:*
 
 *Stichera of the Resurrection. Tone 1.*[^28]
 
@@ -158,7 +158,7 @@ Give ear, O riot-loving Hebrew race! Where are those who went unto Pilate? Let t
 
 *Glory: Evangelical Sticheron. Both now: Most blessed art thou...*
 
-## On Sunday at the Liturgy: The Beatitudes
+*At the Liturgy, the Beatitudes, Tone 1:*
 
 *Tone 1*[^29]
 
@@ -194,7 +194,7 @@ Thy people offer Thy Mother unto Thee in prayer, O Christ: by her supplication g
 
 ---
 
-## Sunday Evening at Vespers: Penitential Stichera
+*On Sunday Evening, Penitential Stichera, by Lord Joseph. At "Lord, I have cried," Tone 1:*
 
 *Composed by Kyr Joseph. At "Lord, I have cried," Tone 1. Podoben: "O most praised martyrs..."*[^30]
 
@@ -230,7 +230,7 @@ Having become the pure dwelling-place of God, O pure one, pray together with the
 
 that I may purely complete the path of this life, lest the evening of death overtake me unprepared and cast me into the fiery flame to be tormented; but do thou deliver me from this!
 
-### At the Aposticha, Stichera
+*At the Aposticha, Stichera, Tone 1:*
 
 *Tone 1*
 
@@ -256,7 +256,7 @@ The rejoicing of the heavenly ranks, and upon earth the mighty helper of mankind
 
 # TONE 2
 
-## On Saturday Evening at Great Vespers
+*In the Book of the Octoechos, of the Resurrection. Composition of John of Damascus. Tone 2:*
 
 *At "Lord, I have cried," Stichera of the Resurrection. Tone 2.*[^32]  
 *Composed by John Damascene.*

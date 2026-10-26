@@ -1,0 +1,159 @@
+{
+  "timestamp": "2026-10-26T12:52:49.099757+00:00",
+  "monument_id": "1629_kyiv_octoechos",
+  "cohort": 6,
+  "target_file": "1629_kyiv_octoechos_cohort6_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1629_kyiv_octoechos_cohort6_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1629_kyiv_octoechos_cohort6_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1629_kyiv_octoechos_cohort6_raw_draft.md",
+      "footnotes_file": "1629_kyiv_octoechos_cohort6_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 10,
+      "definition_markers_count": 10,
+      "text_markers": [
+        "[^54]",
+        "[^55]",
+        "[^56]",
+        "[^57]",
+        "[^58]",
+        "[^59]",
+        "[^60]",
+        "[^61]",
+        "[^62]",
+        "[^63]"
+      ],
+      "definition_markers": [
+        "[^54]",
+        "[^55]",
+        "[^56]",
+        "[^57]",
+        "[^58]",
+        "[^59]",
+        "[^60]",
+        "[^61]",
+        "[^62]",
+        "[^63]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1629_kyiv_octoechos_cohort6_raw_draft.md",
+      "passed": true,
+      "paragraphs": 191,
+      "headings_count": 27,
+      "headings": [
+        {
+          "line": 19,
+          "level": 3,
+          "title": "At the Aposticha"
+        },
+        {
+          "line": 41,
+          "level": 1,
+          "title": "TONE 3"
+        },
+        {
+          "line": 43,
+          "level": 2,
+          "title": "Saturday Evening"
+        },
+        {
+          "line": 45,
+          "level": 3,
+          "title": "At \"Lord, I have cried\""
+        },
+        {
+          "line": 85,
+          "level": 3,
+          "title": "At the Aposticha"
+        },
+        {
+          "line": 105,
+          "level": 3,
+          "title": "Dismissal Troparion"
+        },
+        {
+          "line": 121,
+          "level": 2,
+          "title": "Sunday Midnight Office"
+        },
+        {
+          "line": 123,
+          "level": 3,
+          "title": "Canon to the Holy and Life-Creating Trinity"
+        },
+        {
+          "line": 127,
+          "level": 4,
+          "title": "Ode 1"
+        },
+        {
+          "line": 146,
+          "level": 4,
+          "title": "Ode 3"
+        },
+        {
+          "line": 167,
+          "level": 3,
+          "title": "Sessional Hymn, Tone 3"
+        },
+        {
+          "line": 180,
+          "level": 4,
+          "title": "Ode 4"
+        },
+        {
+          "line": 198,
+          "level": 4,
+          "title": "Ode 5"
+        },
+        {
+          "line": 215,
+          "level": 4,
+          "title": "Ode 6"
+        },
+        {
+          "line": 234,
+          "level": 3,
+          "title": "Sessional Hymn, Tone 3"
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 51,
+        "max_leaf": 60
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 8 - 1629 Kyiv Octoechos\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "total_queued_leaves": 0,
+    "unresolved_quarantines": 0
+  }
+}

@@ -30,7 +30,7 @@ if sys.stderr and hasattr(sys.stderr, 'reconfigure'):
 SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = SCRIPT_DIR.parent
 REGISTRY_FILE = PROJECT_ROOT / "Liturgical Monuments" / "codex_registry.json"
-STATE_FILE = PROJECT_ROOT / "Liturgical Monuments" / "ACTIVE_ORCHESTRATOR_STATE.json"
+from orchestrator_state import load_state, resolve_monument_id
 
 def get_next_footnote_index(footnotes_path: Path) -> int:
     if not footnotes_path.exists():
@@ -73,13 +73,8 @@ def generate_monument_startup_directive(monument_id: Optional[str] = None) -> Pa
         registry = json.load(f)
     monuments = registry.get("monuments", {})
 
-    state: Dict[str, Any] = {}
-    if STATE_FILE.exists():
-        with open(STATE_FILE, "r", encoding="utf-8") as f:
-            state = json.load(f)
-
-    if not monument_id:
-        monument_id = state.get("monument_id", "1899_dolnytsky_typikon")
+    monument_id = resolve_monument_id(monument_id)
+    state = load_state(monument_id=monument_id)
 
     if monument_id not in monuments:
         raise ValueError(f"Unknown monument '{monument_id}'. Available: {list(monuments.keys())}")
@@ -148,13 +143,8 @@ def generate_work_order(
         registry = json.load(f)
     monuments = registry.get("monuments", {})
 
-    state: Dict[str, Any] = {}
-    if STATE_FILE.exists():
-        with open(STATE_FILE, "r", encoding="utf-8") as f:
-            state = json.load(f)
-
-    if not monument_id:
-        monument_id = state.get("monument_id", "1899_dolnytsky_typikon")
+    monument_id = resolve_monument_id(monument_id)
+    state = load_state(monument_id=monument_id)
 
     if monument_id not in monuments:
         raise ValueError(f"Unknown monument '{monument_id}'. Available: {list(monuments.keys())}")

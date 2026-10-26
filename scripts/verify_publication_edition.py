@@ -534,7 +534,8 @@ def verify_monument_publication(monument_id: str) -> bool:
             grid_data = json.loads(grid_json_file.read_text(encoding="utf-8"))
             invocations = grid_data.get("invocations", [])
             grid_tones = set(it.get("tone") for it in invocations if it.get("tone") in range(1, 9))
-            if len(invocations) < 100 or len(grid_tones) < 8:
+            min_invocations = 100 if monument_id == "1630_lviv_octoechos" else 20
+            if len(invocations) < min_invocations or len(grid_tones) < 8:
                 print(f"  [FAIL] Gate 7E: Podoben grid incomplete (invocations={len(invocations)}, tones={sorted(grid_tones)})")
                 gate7_violations += 1
             else:

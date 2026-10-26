@@ -1,0 +1,19 @@
+[^204]: Codicologically and liturgically, weekday Matins in the Octoechos features two distinct canons chanted in parallel: the first canon is dedicated to the primary weekday theme (on Mondays, Repentance/Compunction), while the second canon is dedicated to the heavenly patrons of that day (on Mondays, the Bodiless Powers, i.e., the Angels). The heirmoi of the second canon are typically identical to or modeled upon those of the primary canon, indicated by the rubric *І҆рмо́съ то́йже* ("Same Heirmos").
+
+[^205]: This Theotokion emphasizes the orthodox Christology formulated at the Ecumenical Councils of Nicaea (325) and Chalcedon (451): Christ possesses two nativities—an eternal, incorporeal generation from the Father before all ages (*и҆з̾ ѿц҃а нерожде́нна*), and a temporal, incarnate birth in the fullness of time from the Virgin Theotokos (*ржⷭ҇тво̀ и҆мѣ́я лѣ́тное и҆з̾ тебѐ дв҃о во пло́щеся*).
+
+[^206]: The text reflects the Dionysian celestial hierarchy (*De Coelesti Hierarchia* by Pseudo-Dionysius the Areopagite), invoking the second triad of the angelic orders: Dominions (*гдⷭ҇ствїя* / *Kyriotētes*), Authorities (*вла́сти* / *Exousiai*), and Powers (*си́лы* / *Dynameis*), who contemplate and hymn the transcendent unity and tri-hypostatic essence of the Godhead.
+
+[^207]: Codicological Note: In the 1629 Kyiv edition, the foliation on this right-hand page (Fol. 202r) is misprinted as *рч҃н* (198), repeating a pagination sequence from the preceding quire rather than advancing to *с҃в* (202). The liturgical and hymnographic text, however, is completely continuous and undamaged across the leaf boundary.
+
+[^208]: Codicological Note: At the foot of this right-hand page (Fol. 203r), quire signature *Лл* (Quire 22) begins, indicating that Quire *Кк* (Quire 21) was configured as a four-leaf gathering (bifolium fold, leaves 199–202). Furthermore, the printed foliation on this leaf is misnumbered *рч҃д* (194) instead of *с҃г* (203), continuing the typesetter's foliation anomaly observed on Fol. 202r.
+
+[^209]: The Heirmos of Ode 8 (*Во пе́щи* / "In the furnace") invokes the scriptural archetype of the Three Holy Youths in the Babylonian furnace (Daniel 3), a standard typological model of salvation through faith. The following troparion specifically addresses the personal guardian angel (*а҆́ггла твое́го смире́нїя*), assigned by divine providence to preserve the believer in Orthodox faith.
+
+[^210]: The Heirmos of Ode 9 (*Ѻ҆́бразъ чи́стъ* / "Pure image") introduces the biblical canticle of the Theotokos (Magnificat, Luke 1:46–55). The first troparion employs the scriptural repentance model of the Canaanite woman (*ханане́а*, Matthew 15:22), pleading for deliverance from demonic torment and spiritual insensibility.
+
+[^211]: The Exapostilarion (Photogogikon) to the Bodiless Powers is chanted to the Byzantine prosomoion melody *Жє́ны оу҆слы́шите* (*Gynaikes akoutisthēte* / "Give ear, ye women"). It invokes all nine orders of the celestial hierarchy: Angels, Archangels, Principalities, Dominions, Powers, Authorities, Thrones, Cherubim, and Seraphim.
+
+[^212]: The Monday Matins Aposticha stichera draw upon classical evangelical parables of compunction, specifically contrasting the soul's spiritual inertia with the eleventh-hour laborer (*є҆динагона́десѧте ча́са мздꙋ̀*, Matthew 20:1–16) who receives divine mercy and reward despite late arrival in the vineyard.
+
+[^213]: Liturgically, this rubric marks the transition at sunset from the liturgical day of Monday to Tuesday (dedicated to the Forerunner and Baptist John). While the overall Octoechos weekly cycle remains in Tone 1, the evening Idiomela (*стїхи̑ры самогла́сны*) at *Lord, I have cried* are set in Tone 2, reflecting the ancient practice of utilizing specific idiomelon melodies across the liturgical week.

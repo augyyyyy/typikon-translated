@@ -69,7 +69,7 @@ from extract_cohort_leaves import extract_leaves
 from generate_work_order import generate_work_order, compute_monument_cohort_partitions
 from run_small_pause_gate import run_gate, collect_argon_review_signals
 from assemble_and_sync_hub import ingest_and_sync
-from orchestrator_state import load_state, save_state, load_registry, display_status
+from orchestrator_state import load_state, save_state, load_registry, display_status, resolve_monument_id
 from chronicle_manager import ChronicleManager
 
 MAX_PHASE_0_VISION_BATCHES = 2
@@ -90,7 +90,8 @@ EPHEMERAL_TRANSLATOR_DEFINITION: Dict[str, Any] = {
         "3. Place all footnote definitions '[^N]:' exclusively in the cohort footnotes.txt file (never inline in Draft MD).\n"
         "4. Capitalize 100% of Trinity Deity pronouns (He, Him, His, Thou, Thee, Thy, Thine, Who, Whom, Whose) and use 'unto ages of ages'.\n"
         "5. Never expand printed incipits into unwritten full prayers; mark damaged/illegible ink with '[?]' or '[illegible]'.\n"
-        "6. Strictly ban pseudo-archaic slop ('wherefore' -> 'therefore', 'wondrous' -> 'marvelous', 'verily' -> 'truly', 'hearken' -> 'give ear', 'resplendent'/'effulgent' -> 'radiant') and 3rd-person -eth verbs ('singeth', 'standeth', 'maketh', etc.)."
+        "6. Strictly ban pseudo-archaic slop ('wherefore' -> 'therefore', 'wondrous' -> 'marvelous', 'verily' -> 'truly', 'hearken' -> 'give ear', 'resplendent'/'effulgent' -> 'radiant') and 3rd-person -eth verbs ('singeth', 'standeth', 'maketh', etc.).\n"
+        "7. STRICT EPIGRAPHIC MARKDOWN DISCIPLINE: You are strictly forbidden from emitting ANY markdown heading ('#', '##', '###', '####', etc.) unless it is an authorized primary woodcut book headpiece explicitly printed in large display font on the physical page (e.g. '# TONE N', '# PREFACE: TO THE READER'). Never fabricate modern liturgical office headings (e.g. '## At Sunday Midnight Office', '## At Sunday Matins', '### Canon to...'). All liturgical labels, odes, canons, stichera markers, and sessional hymns must ALWAYS be rendered as inline italic rubrics ('*Ode 1, Tone 2. Heirmos:*', '*Troparion:*', '*Sessional Hymn, Tone 2:*'), never as markdown headers."
     ),
     "EnableWriteTools": True,
     "EnableSubagentTools": False,
@@ -115,14 +116,63 @@ def log_triage_incident(ticket_id: str, monument: str, component: str, descripti
 
 def get_current_context(monument_override: Optional[str] = None) -> Tuple[Dict[str, Any], Dict[str, Any], str]:
     try:
-        state = load_state()
+        state = load_state(monument_id=monument_override)
     except FileNotFoundError:
         state = {}
     registry = load_registry()
-    mon_id = monument_override or state.get("monument_id", "1899_dolnytsky_typikon")
+    mon_id = resolve_monument_id(monument_override or state.get("monument_id"))
     mon_info = registry.get("monuments", {}).get(mon_id)
     if not mon_info:
         raise ValueError(f"Monument '{mon_id}' not found in codex_registry.json")
+
+    # If state is missing or pointing to a different monument, re-sync state for mon_id from disk
+    if state.get("monument_id") != mon_id:
+        total_pages = int(mon_info.get("total_physical_pages", 0))
+        cohort_size = int(mon_info.get("default_cohort_size", 10))
+        ws = PROJECT_ROOT / mon_info.get("workspace_dir", f"Liturgical Monuments/{mon_id}")
+        final_dir = ws / "Final MD"
+        completed = []
+        if final_dir.exists():
+            for f in final_dir.glob(f"{mon_id}_cohort*.md"):
+                m = re.search(r"cohort(\d+)", f.name)
+                if m:
+                    completed.append(int(m.group(1)))
+        completed.sort()
+        state["active_monument"] = mon_info.get("title", mon_id)
+        state["monument_id"] = mon_id
+        state["total_physical_pages"] = total_pages
+        state["completed_cohorts"] = completed
+        translated = 0
+        for c in completed:
+            sp = ((c - 1) * cohort_size) + 1
+            ep = min(total_pages, c * cohort_size)
+            translated += (ep - sp + 1)
+        state["translated_pages"] = translated
+        state["remaining_pages"] = max(0, total_pages - translated)
+        curr_cohort = (max(completed) + 1) if completed else 1
+        state["current_cohort"] = curr_cohort
+        curr_sp = ((curr_cohort - 1) * cohort_size) + 1
+        curr_ep = min(total_pages, curr_cohort * cohort_size)
+        state["current_cohort_range"] = f"pp. {curr_sp}-{curr_ep} (leaves p{curr_sp}-p{curr_ep})"
+        state["routing_phase"] = "PHASE_1_FLASH_SPRINT"
+        state["active_subagent_model"] = "flash"
+        q_file = ws / "Audit_Reports" / "argon_review_queue.json"
+        if q_file.exists():
+            try:
+                q_data = json.loads(q_file.read_text(encoding="utf-8"))
+                state["argon_review_queue_count"] = int(q_data.get("total_queued_leaves", 0))
+                state["unresolved_quarantines"] = int(q_data.get("unresolved_quarantines", 0))
+            except Exception:
+                state["argon_review_queue_count"] = 0
+                state["unresolved_quarantines"] = 0
+        else:
+            state["argon_review_queue_count"] = 0
+            state["unresolved_quarantines"] = 0
+        state["cohort_retry_counts"] = {}
+        state["small_pause_gate_status"] = "AWAITING_SUBAGENT_EXECUTION"
+        state["active_blockers"] = []
+        save_state(state)
+
     return state, mon_info, mon_id
 
 
@@ -379,6 +429,7 @@ def prepare_cohort(
             f"Transcribe and translate physical leaves p{start_page} through p{end_page} directly from 300 DPI images in '{rel_ws}/Source Text/images/'.\n"
             f"Write all three output files to disk (Source, Draft MD, Footnotes) with UTF-8 encoding.\n"
             f"Ensure every physical leaf p{start_page}..p{end_page} has an explicit '=== LEAF pN ===' banner.\n"
+            f"STRICT EPIGRAPHIC DISCIPLINE: Do NOT emit any '##', '###', or '####' markdown headings for offices, canons, or odes. Render all rubrics, odes, heirmoi, troparia, and prayers as inline italics ('*...*'). Reserve '#' strictly for major decorative woodcut headings present in ink.\n"
             f"When finished, send a completion notification to the parent orchestrator."
         ),
     }
@@ -684,6 +735,122 @@ def _reconcile_footnote_bijectivity(draft_text: str, footnotes_path: Path) -> Tu
     return healed_draft, modified
 
 
+
+def _heal_epigraphic_headings(draft_txt: str, source_path: Path, mon_info: Dict[str, Any]) -> Tuple[str, bool]:
+    """
+    Gate 4 Epigraphic Heading Healer:
+    1. Preserves authorized H1 landmarks (# TONE N, # PREFACE: TO THE READER, # EXAPOSTILARIA).
+    2. Strips unprinted modern office hallucinations (## At Sunday Midnight Office, ## Sunday Matins, ## Divine Liturgy)
+       while safely re-anchoring any attached [^N] footnote markers to the next line.
+    3. Converts ink-attested rubric headings (#### Ode N, ### Sessional Hymn, ### Hypakoe, ### Canon of...)
+       into inline italic rubrics ('*...*') or merges with adjacent *Heirmos:* rubrics.
+    """
+    from scripts.structural_audit import parse_leaf_blocks
+    source_blocks = {}
+    if source_path.exists():
+        source_blocks = parse_leaf_blocks(source_path.read_text(encoding="utf-8"))
+
+    modified = False
+    lines = draft_txt.splitlines()
+    new_lines: List[str] = []
+    pending_footnotes: List[str] = []
+    current_leaf = None
+
+    for idx, line in enumerate(lines):
+        s = line.strip()
+        m_leaf = re.match(r"^===\s*LEAF\s+p?(\d+)", s, re.IGNORECASE)
+        if m_leaf:
+            current_leaf = int(m_leaf.group(1))
+
+        m_head = re.match(r"^(#{1,6})\s+(.*)$", s)
+        if m_head:
+            level = len(m_head.group(1))
+            raw_title = m_head.group(2).strip()
+
+            # Preserve legitimate H1 woodcut headpieces
+            if level == 1 and (re.match(r"^PREFACE:\s+TO\s+THE\s+READER", raw_title, re.IGNORECASE) or
+                               re.match(r"^TONE\s+\d+", raw_title, re.IGNORECASE) or
+                               re.match(r"^EXAPOSTILARIA", raw_title, re.IGNORECASE)):
+                new_lines.append(line)
+                continue
+
+            # Extract any footnote markers on the heading
+            fn_markers = re.findall(r"\[\^\d+\]", raw_title)
+            clean_title = re.sub(r"\[\^\d+\]", "", raw_title).strip()
+            if fn_markers:
+                pending_footnotes.extend(fn_markers)
+
+            src_text = source_blocks.get(current_leaf, "").lower() if current_leaf else ""
+
+            # Detect pure office hallucinations lacking source witness
+            is_hallucinated_office = False
+            if re.search(r"\b(?:Midnight\s+Office|Sunday\s+Matins|Sunday\s+Divine\s+Liturgy|Saturday\s+Evening)\b", clean_title, re.IGNORECASE):
+                # Check if leaf source actually has matching token
+                if "полунощниц" not in src_text and "оутренн" not in src_text and "лїтург" not in src_text and "навечерн" not in src_text and "вечеръ" not in src_text:
+                    is_hallucinated_office = True
+
+            if is_hallucinated_office or clean_title in ["At Sunday Midnight Office", "At Sunday Matins", "Sunday Divine Liturgy", "On Saturday Evening at Great Vespers"]:
+                # Strip line completely
+                modified = True
+                continue
+
+            # Convert ink-attested headings into inline italic rubrics
+            # Check for Ode
+            m_ode = re.match(r"^(?:(?:Sunday\s+)?Canon.*?,\s*)?Ode\s+(\d+)", clean_title, re.IGNORECASE)
+            if m_ode:
+                ode_num = m_ode.group(1)
+                new_rubric = f"*Ode {ode_num}:*"
+                new_lines.append(new_rubric)
+                modified = True
+                continue
+
+            # Check for Sessional Hymn
+            if re.match(r"^Sessional\s+Hymn", clean_title, re.IGNORECASE):
+                new_rubric = f"*{clean_title}:*"
+                new_lines.append(new_rubric)
+                modified = True
+                continue
+
+            # Check for Hypakoe
+            if re.match(r"^Hypakoe", clean_title, re.IGNORECASE):
+                new_rubric = f"*{clean_title}:*"
+                new_lines.append(new_rubric)
+                modified = True
+                continue
+
+            # Check for Canon of...
+            if re.match(r"^Canon\s+of", clean_title, re.IGNORECASE):
+                new_rubric = f"*{clean_title}:*"
+                new_lines.append(new_rubric)
+                modified = True
+                continue
+
+            # Check for Hymns of Ascent / Antiphon
+            if re.match(r"^(?:The\s+)?(?:Hymns\s+of\s+Ascent|Gradual|Antiphon)", clean_title, re.IGNORECASE):
+                new_rubric = f"*{clean_title}:*"
+                new_lines.append(new_rubric)
+                modified = True
+                continue
+
+            # Generic fallback: convert level >= 2 heading to italic rubric
+            new_rubric = f"*{clean_title}:*"
+            new_lines.append(new_rubric)
+            modified = True
+            continue
+
+        # If we have pending footnotes and hit a non-empty, non-banner line
+        if pending_footnotes and s and not s.startswith("===") and not s.startswith("**["):
+            fn_suffix = "".join(pending_footnotes)
+            pending_footnotes = []
+            line = line + fn_suffix
+            modified = True
+
+        new_lines.append(line)
+
+    result_txt = "\n".join(new_lines) + "\n"
+    return result_txt, modified
+
+
 def attempt_deterministic_self_healing(monument_id: str, cohort_num: int) -> bool:
     """
     Decision 6: Deterministic Python self-healing across all 4 mechanical fault classes
@@ -760,10 +927,17 @@ def attempt_deterministic_self_healing(monument_id: str, cohort_num: int) -> boo
                     any_modified = True
         draft_txt = "\n".join(lines) + "\n"
 
+    # 5. Gate 4: Epigraphic Heading Normalization & Office Hallucination Stripping
+    struct_gate = report.get("gates", {}).get("structural_sequence", {})
+    if not struct_gate.get("passed", True):
+        draft_txt, head_mod = _heal_epigraphic_headings(draft_txt, source_path, mon_info)
+        if head_mod:
+            any_modified = True
+
     if any_modified:
         draft_path.write_text(draft_txt if draft_txt.endswith("\n") else draft_txt + "\n", encoding="utf-8")
-        print(f"  [Self-Healing] Applied deterministic 4-part repairs to {draft_path.name}. Re-verifying gate...")
-        retry_res = run_gate(monument_id=monument_id, cohort_num=cohort_num)
+        print(f"  [Self-Healing] Applied deterministic 5-part repairs to {draft_path.name}. Re-verifying gate...")
+        retry_res = run_gate(monument_id=monument_id, cohort_num=cohort_num, custom_draft=draft_path)
         return retry_res == 0
 
     return False
@@ -1494,7 +1668,7 @@ def main():
     args = parser.parse_args()
 
     if args.status:
-        state = load_state()
+        state, _, _ = get_current_context(args.monument)
         display_status(state)
         return
 
@@ -1562,7 +1736,7 @@ def main():
         return
 
     if args.step:
-        state = load_state()
+        state, _, _ = get_current_context(args.monument)
         status = state.get("small_pause_gate_status", "UNKNOWN")
         phase = state.get("routing_phase", "PHASE_1_FLASH_SPRINT")
         curr_cohort = state.get("current_cohort", 1)
@@ -1591,7 +1765,7 @@ def main():
             print("Monument translation complete! Awaiting Grand Pause human sign-off via '--approve-grand-pause'.")
         return
 
-    state = load_state()
+    state, _, _ = get_current_context(args.monument)
     display_status(state)
 
 

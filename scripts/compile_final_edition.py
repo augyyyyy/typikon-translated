@@ -575,6 +575,14 @@ class UniversalPublicationEngine:
                 txt_path = self.final_dir / (filename[:-3] + ".txt")
                 txt_path.write_text(content, encoding="utf-8")
 
+        # Step 10.5: Emit Podoben Grid from fresh master complete edition
+        if is_hymnographic or "octoechos" in self.monument_id.lower():
+            try:
+                from scripts.generate_podoben_grid import emit_podoben_grid
+                emit_podoben_grid(self.monument_id)
+            except Exception as e:
+                print(f"  [Companion] Podoben grid generation note: {e}")
+
         # 14. Synchronize to Typikon Coded Hub Inbox
         print("[Step 11] Synchronizing deliverables to Typikon Coded Hub Inbox...")
         hub_folder_name = self.pub_spec.get("hub_inbox_folder", self.monument_id)
@@ -585,13 +593,15 @@ class UniversalPublicationEngine:
         for filename, content in all_deliverables.items():
             (hub_inbox / filename).write_text(content, encoding="utf-8")
 
-        # Also sync companion deliverables (Slavonic, Drift ledger, Primitives review)
+        # Also sync companion deliverables (Slavonic, Drift ledger, Primitives review, Podoben grid)
         for companion in [
             f"{self.monument_id}_slavonic_complete.md",
             f"{self.monument_id}_drift_ledger.json",
             f"{self.monument_id}_drift_report.md",
             f"{self.monument_id}_primitives_review.md",
-            f"{self.monument_id}_propers_corpus.json"
+            f"{self.monument_id}_propers_corpus.json",
+            f"{self.monument_id}_podoben_grid.md",
+            f"{self.monument_id}_podoben_grid.json"
         ]:
             src_c = self.final_md_dir / companion
             if src_c.exists():
@@ -686,6 +696,18 @@ class UniversalPublicationEngine:
                         found_idx = idx
                         last_idx = idx
                         break
+
+                if found_idx == -1:
+                    # Fallback: if pat has '^#\s+' or similar leading hash anchor, allow any heading level '^#+\s*'
+                    relaxed_pat = re.sub(r"^\^#\+?\\s\*", r"^#+\\s*", pat)
+                    if relaxed_pat != pat:
+                        for idx, line in enumerate(lines):
+                            if idx <= last_idx:
+                                continue
+                            if re.search(relaxed_pat, line.strip(), re.IGNORECASE):
+                                found_idx = idx
+                                last_idx = idx
+                                break
 
                 if found_idx == -1:
                     raise ValueError(f"Failed to locate landmark for {pid} with pattern: {pat}")

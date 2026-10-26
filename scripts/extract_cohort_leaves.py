@@ -35,7 +35,7 @@ except ImportError:
 SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = SCRIPT_DIR.parent
 REGISTRY_FILE = PROJECT_ROOT / "Liturgical Monuments" / "codex_registry.json"
-STATE_FILE = PROJECT_ROOT / "Liturgical Monuments" / "ACTIVE_ORCHESTRATOR_STATE.json"
+from orchestrator_state import STATE_FILE, load_state, resolve_monument_id
 
 DRIVE_CANDIDATES = [
     Path("E:/") / "Google Drive" / "Liturgical Library",

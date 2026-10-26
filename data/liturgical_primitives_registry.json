@@ -715,14 +715,17 @@
       "english_aliases": [
         "beholding the beauty of thy virginity",
         "at the beauty of virginity",
-        "the beauty of virginity"
+        "the beauty of virginity",
+        "awed by the beauty of thy virginity",
+        "at the beauty of thy virginity"
       ],
       "slavonic_stem": "красоте девства твоего",
       "attested_loci": [
         "C07:p70",
         "C08:p71",
         "C08:p76",
-        "C09:p85"
+        "C09:p85",
+        "C06:p57"
       ],
       "attested_slavonic_variants": [
         "Красотѣ дѣвства"
@@ -1617,6 +1620,105 @@
       "attested_english_variants": [
         "What shall we call you, O holy ones?"
       ]
+    },
+    {
+      "id": "POD.T3.DEVA_DNESS",
+      "tone": 3,
+      "slavonic_canonical": "Дѣ́ва дне́сь",
+      "slavonic_patterns": [
+        "дѣва днесь",
+        "дѣва",
+        "дваа",
+        "дв҃аа"
+      ],
+      "greek": "Ἡ Παρθένος σήμερον",
+      "english_canonical": "Today the Virgin",
+      "english_aliases": [
+        "today the virgin",
+        "the virgin today"
+      ],
+      "slavonic_stem": "дѣва днесь",
+      "attested_loci": [
+        "C06:p58"
+      ],
+      "attested_slavonic_variants": [],
+      "attested_english_variants": [
+        "Today the Virgin"
+      ]
+    },
+    {
+      "id": "POD.T4.VOZNESYISYA_NA_KREST",
+      "tone": 4,
+      "slavonic_canonical": "Вознесы́йся на Крⷭ҇тъ во́лею",
+      "slavonic_patterns": [
+        "вознесыйся на крⷭ҇тъ",
+        "вознесыйся на крестъ",
+        "вознесый",
+        "вознесыйсѧ на крⷭ҇тъ",
+        "вознесыйсѧ"
+      ],
+      "greek": "Ὁ ὑψωθεὶς ἐν τῷ Σταυρῷ",
+      "english_canonical": "Thou Who wast lifted up upon the Cross",
+      "english_aliases": [
+        "thou who wast lifted up upon the cross",
+        "thou who wast lifted up on the cross",
+        "lifted up upon the cross"
+      ],
+      "slavonic_stem": "вознесийся на крест",
+      "attested_loci": [
+        "C09:p80"
+      ],
+      "attested_slavonic_variants": [],
+      "attested_english_variants": [
+        "Thou Who wast lifted up upon the Cross"
+      ]
+    },
+    {
+      "id": "POD.T7.IZHE_MENE_RADI",
+      "tone": 7,
+      "slavonic_canonical": "И҆́же менѐ ра́ди",
+      "slavonic_patterns": [
+        "иже мене ради",
+        "иже менеради",
+        "иже мене"
+      ],
+      "greek": "Ὁ δι' ἐμὲ",
+      "english_canonical": "He Who for my sake",
+      "english_aliases": [
+        "he who for my sake",
+        "who for my sake"
+      ],
+      "slavonic_stem": "иже мене ради",
+      "attested_loci": [
+        "C16:p153"
+      ],
+      "attested_slavonic_variants": [],
+      "attested_english_variants": [
+        "He Who for my sake"
+      ]
+    },
+    {
+      "id": "POD.T7.OGNYA_SVETLEE",
+      "tone": 7,
+      "slavonic_canonical": "О҆гня̀ свѣтлѣ́е",
+      "slavonic_patterns": [
+        "огня свѣтлѣе",
+        "огня свѣтлѣйши",
+        "огнѧ свѣтлѣе"
+      ],
+      "greek": "Πυρὸς τηλαυγέστερον",
+      "english_canonical": "Brighter than fire",
+      "english_aliases": [
+        "brighter than fire"
+      ],
+      "slavonic_stem": "огня свѣтлѣе",
+      "attested_loci": [
+        "C16:p154"
+      ],
+      "attested_slavonic_variants": [],
+      "attested_english_variants": [
+        "Brighter than fire"
+      ]
     }
   ],
   "unattested_comparative_models": [
@@ -1634,25 +1736,6 @@
         "house of ephratha"
       ],
       "slavonic_stem": "доме еифрафов",
-      "attested_loci": [],
-      "attested_slavonic_variants": [],
-      "attested_english_variants": []
-    },
-    {
-      "id": "POD.T4.VOZNESYISYA_NA_KREST",
-      "tone": 4,
-      "slavonic_canonical": "Вознесы́йся на Крⷭ҇тъ",
-      "slavonic_patterns": [
-        "вознесыйся на крест",
-        "вознесыися на крт"
-      ],
-      "greek": "Ὁ ὑψωθεὶς ἐν τῷ Σταυρῷ",
-      "english_canonical": "Thou Who wast lifted up upon the Cross",
-      "english_aliases": [
-        "thou who wast lifted up upon the cross",
-        "lifted up upon the cross"
-      ],
-      "slavonic_stem": "вознесийся на крт",
       "attested_loci": [],
       "attested_slavonic_variants": [],
       "attested_english_variants": []

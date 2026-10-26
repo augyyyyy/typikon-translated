@@ -3,7 +3,7 @@
 **Document ID**: `1629_kyiv_octoechos`  
 **Cohort Number**: 2  
 **Physical Leaves**: Physical pages 11 to 20 (`Page_0011.jpg` through `Page_0020.jpg`, 10 leaves total)  
-**Starting Footnote Index**: `[^11]`  
+**Starting Footnote Index**: `[^64]`  
 **Governing Genre Register**: **HYMNOGRAPHIC** (Per Master Translation Standard MTS-1)  
 **Image Cache Directory**: `Liturgical Monuments\Monument 8 - 1629 Kyiv Octoechos\Source Text\images`  
 
@@ -17,7 +17,7 @@
 5. **Hieratic Deity Pronouns**: 100% mandatory capitalization for Holy Trinity pronouns (*He, Him, His, Thou, Thee, Thy, Thine*).
 6. **Scripture & Psalter**: Septuagint (LXX) versification mandatory.
 7. **Footnote Monotonic Bijectivity**: Every marker `[^N]` in body text MUST have an exact corresponding entry `[^N]:` in the footnotes file.
-8. **Universal Heading Hierarchy (Phase 2 Auto-Slicing)**: Reserve top-level H1 headers (`# ...`) strictly for major codex-level divisions (e.g., a new Tone, Month, Book, Rite/Liturgy, Part, or Rear Appendix marked by a primary headpiece/title). Use `##` (H2) and `###` (H3) for daily offices, canons, odes, and internal sub-sections.
+8. **Strict Epigraphic Markdown Discipline**: Never invent or interpolate modern liturgical office or structural headings (`## At Sunday Midnight Office`, `## At Sunday Matins`, `### Canon...`, `#### Ode...`). Liturgical rubrics, genre indicators, ode numbers, troparion labels, kathismata, and prosomoia must be rendered strictly as inline italicized text (e.g. `*Ode 1, Tone 2. Heirmos:*`, `*Troparion:*`, `*Sessional Hymn, Tone 2:*`). Markdown headings (`#`) are strictly restricted to primary decorative woodcut headpieces (e.g. `# TONE 1`, `# TONE 2`, `# PREFACE: TO THE READER`) explicitly sanctioned in the publication spec and present on the physical page. Any other markdown header (`#`, `##`, `###`, `####`) will trigger an immediate Small Pause Gate failure.
 
 ---
 
@@ -32,7 +32,7 @@
 1. Inspect images `Page_0011.jpg` through `Page_0020.jpg` in `Liturgical Monuments\Monument 8 - 1629 Kyiv Octoechos\Source Text\images`.
 2. Transcribe Church Slavonic source text leaf-by-leaf with headers `=== LEAF p{N} ===` (for each leaf p11 through p20).
 3. Translate unabridged into `1629_kyiv_octoechos_cohort2_raw_draft.md` with inline footnote markers `[^N]`. When a new Tone or rear section begins on a leaf, emit its canonical H1 Markdown header on its own line: `# TONE 1`, `# TONE 2`, `# TONE 3`, `# TONE 4`, `# TONE 5`, `# TONE 6`, `# TONE 7`, `# TONE 8`, or `# EXAPOSTILARIA AND EVANGELICAL STICHERA`.
-4. Write footnote definitions into `1629_kyiv_octoechos_cohort2_footnotes.txt` starting at `[^11]`.
+4. Write footnote definitions into `1629_kyiv_octoechos_cohort2_footnotes.txt` starting at `[^64]`.
 5. Flush outputs to disk and advance through the autonomous pipeline.
 
 
@@ -43,6 +43,6 @@
 
 **Flash Execution Guardrails**:
 - 2-UP SPREAD & CATCHWORD PROTOCOL: Leaves p2..p294 are 2-up open spreads. Inside each '=== LEAF pN ===' block, emit '**[Left Page — Fol. Nv]**' and '**[Right Page — Fol. Nr]**' in both Source Text and Draft MD. Record bottom-right catchwords as '[Кустод: ...]' in Source Text, complete any hyphenated cross-page word at the page where it begins in Draft MD, and never duplicate catchwords into the English hymn prose.
-- H1 LANDMARK DISCIPLINE: Emit top-level H1 headers ('# PREFACE: TO THE READER', '# TONE 1'..'# TONE 8', '# EXAPOSTILARIA AND TRIADIKA') ONLY when a primary ornamental woodcut/vyaz section headpiece opens a new Tone or major book division. NEVER emit H1 or H2 for page running headers ('Гласъ А'..'Гласъ И') or rear per-tone Exapostilaria/Triadika subheadings ('Свѣтиленъ Гласъ З' -> use H3 '### Exapostilarion, Tone 7').
+- H1 LANDMARK DISCIPLINE: Emit top-level H1 headers ('# PREFACE: TO THE READER', '# TONE 1'..'# TONE 8', '# EXAPOSTILARIA AND TRIADIKA') ONLY when a primary ornamental woodcut/vyaz section headpiece opens a new Tone or major book division. NEVER emit H1, H2, H3, or H4 for page running headers ('Гласъ А'..'Гласъ И'), offices, canons, odes, or rear per-tone Exapostilaria/Triadika subheadings ('Свѣтиленъ Гласъ З' -> use inline italic rubric '*Exapostilarion, Tone 7:*').
 - COLOMETRIC ASTERISKS & DUAL REGISTER: Preserve literal '*' colometric dividers in Source Text while normalizing superscripts/titla into readable Cyrillic. In Draft MD, convert '*' dividers into natural English punctuation (commas, semicolons, colons) so pairs of '*' never corrupt Markdown italics. Render the p2 Ruthenian ('prosta mova') preface in elevated 17th-century prefatory prose with a linguistic footnote.
 - SYMMETRIC PARATEXT & BINDING DESCRIPTIONS (SGC-02 PROTECTION): On binding boards (p1, p295), flyleaves/pastedowns (p2 Left, p294), and woodcut pages (p3 Left/Right), provide symmetric diplomatic descriptions in both Source Text (Russian/Slavonic brackets + verbatim label/marginalia transcription) and Draft MD (English brackets + full translation) so SGC-02 draft-to-source length ratios remain between 0.80 and 1.50.

@@ -36,8 +36,6 @@ Saint John of Damascus.
 
 *Tone 1.*
 
-### On Saturday Evening at Great Vespers
-
 *At "Lord, I have cried," the Resurrectional Stichera:*
 
 Receive our evening prayers, O holy Lord, and grant us remission of sins, for Thou alone art He Who hath revealed the Resurrection unto the world.
@@ -70,7 +68,7 @@ Let us hymn the Virgin Mary, the glory of the whole world, who sprang forth from
 
 Having her therefore as a steadfast confirmation of our faith, we have as our defender the Lord Who was born of her. Be bold therefore, be bold, O people of God; for He shall conquer the enemies, for He is the Lover of mankind.
 
-### At the Aposticha
+*Aposticha Stichera of the Resurrection, of the Tone:*
 
 *Resurrectional Stichera. Tone 1:*
 
@@ -108,9 +106,7 @@ When Gabriel proclaimed unto thee, O Virgin, "Rejoice," with that voice the Mast
 
 Thou hast been shown forth more spacious than the heavens, having borne thy Creator. Glory to Him Who dwelt within thee; glory to Him Who came forth from thee; glory to Him Who hath set us free through thy childbearing.
 
-## At the Midnight Office
-
-### Canon to the Holy and Life-Creating Trinity[^6]
+*At the Midnight Office, Canon to the Holy and Life-Creating Trinity:[^6]*
 
 *Ode 1. Tone 1. Heirmos: Thy victorious right hand.*
 
