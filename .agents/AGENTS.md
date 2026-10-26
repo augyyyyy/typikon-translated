@@ -224,3 +224,18 @@ Nested under the ecosystem-wide **Synthetic Goodhart Compliance (`SGC-01`..`SGC-
   * Leaked `### Notes` headers, inline footnote definitions inside body prose, and pre-written summary blocks or agent internal reasoning notes are prohibited inside canonical publication files and enforced by Gate 1 and Gate 5 of `scripts/verify_publication_edition.py`.
 * **Shared Atomic Liturgical Corpus Integration (§7)**:
   * When referencing standard fixed liturgical prayers or psalmody in `Shared_Lexicon/Atomic_Liturgical_Corpus/`, scripts and validators must consume the canonical 4-shard atomic files (`01_horologion_and_fixed_prayers.json`, `02_octoechos_and_menaion_propers.json`, `03_triodion_and_pentecostarion.json`, `04_euchologion_and_sacraments.json`) read-only and never write to `Shared_Lexicon/Atomic_Liturgical_Corpus/`.
+
+---
+
+### 22. Universal Epigraphic Grounding & Anti-Pretraining Incursion Law (`SGC-06` / Rule 22)
+* **The Root Problem (Pre-Training Data Incursion)**: LLM agents carry latent pre-trained assumptions from modern liturgical handbooks, standard Byzantine Greek automela compendia, and 19th/20th-century Russian Synodal rubrics. Conflating internal codex evidence with external pre-trained tradition—or projecting external taxonomies onto historical monuments—is a critical failure mode that corrupts the empirical integrity of our research.
+* **Invariant Principles**:
+  1. **Tabula Rasa Internal Ground Truth**: Every monument's internal index, primitives registry, подобен grid, or rubric catalog must be constructed **100% bottom-up from the physical ink of its leaves (`p1`..`pN`)**.
+  2. **Zero Internal Model Hallucination**: No liturgical model, category, or hymnographic primitive may appear in an internal monument dataset unless it possesses $\ge 1$ verified physical attestation tuple on a physical leaf:
+     $$\mathbf{Attestation\ Locus} \equiv \big\langle \mathbf{Physical\ Folio\ \&\ Column},\ \mathbf{Leaf\ Number},\ \mathbf{Liturgical\ Office},\ \mathbf{Verbatim\ Slavonic\ Rubric},\ \mathbf{Governed\ Incipit} \big\rangle$$
+  3. **Strict Epistemic Layering (Internal vs. External Concordance)**:
+     - **Internal Primary Source Layer**: Contains ONLY what is physically printed in that monument.
+     - **External Comparative Layer**: Broad Byzantine Greek roots, post-Nikonian variants, cross-monument links, and general automela concordances MUST be strictly quarantined in separate comparative datasets (e.g. `data/byzantine_automela_concordance.json`, dedicated concordance appendices, or Section 4 of review digests). They must NEVER be merged into primary internal registries or presented as internal codex evidence.
+  4. **Prohibition of Negative Hallucinations / Ghost Stubs**: Internal codex grids and registries must never list un-invoked external textbook models with blank (`—`) or zero (`0`) attestations as if the historical codex was deficient or omitted them. A monument is its own primary witness; missing an external model belonging to a different liturgical cycle (e.g. Menaion or Horologion) is not a codex defect.
+  5. **Programmatic Assertion Gate**: Every primitives registry and podoben grid builder must programmatically assert that 100% of items in any primary monument registry satisfy `len(attested_loci) > 0`. Empty or un-attested stubs are rejected at runtime.
+

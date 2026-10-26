@@ -1,22 +1,19 @@
 {
-  "active_monument": "Kyiv-Pechersk Lavra Octoechos (Kyiv, 1629)",
-  "monument_id": "1629_kyiv_octoechos",
-  "total_physical_pages": 295,
+  "active_monument": "Lviv Printed Octoechos (Lviv Stauropegion, 1630)",
+  "monument_id": "1630_lviv_octoechos",
+  "total_physical_pages": 267,
   "completed_cohorts": [
-    1,
-    2,
-    3,
-    4
+    1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27
   ],
-  "translated_pages": 40,
-  "remaining_pages": 255,
-  "current_cohort": 5,
-  "current_cohort_range": "pp. 41-50 (leaves p41-p50)",
-  "routing_phase": "PHASE_1_FLASH_SPRINT",
-  "active_subagent_model": "flash",
+  "translated_pages": 267,
+  "remaining_pages": 0,
+  "current_cohort": 27,
+  "current_cohort_range": "pp. 261-267 (leaves p261-p267)",
+  "routing_phase": "PHASE_2_ARGON_DEEP_AUDIT",
+  "active_subagent_model": "inherit",
   "argon_review_queue_count": 0,
   "unresolved_quarantines": 0,
   "cohort_retry_counts": {},
-  "small_pause_gate_status": "AWAITING_SUBAGENT_EXECUTION",
+  "small_pause_gate_status": "MONUMENT_SEALED_AND_HANDED_OFF",
   "active_blockers": []
 }
