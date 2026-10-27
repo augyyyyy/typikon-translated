@@ -220,8 +220,8 @@ nificent Name, of the Father, and of the Son,
 and of the Holy Spirit, now and ever and unto ages of ages.
 *Lord, have mercy (12). Then: Come, let us worship (3).*
 [Psalm 120 and Psalm 133]
-*Behold, the Bridegroom cometh at midnight, and blessed is the servant whom He shall find watching, but unworthy again is he whom He shall find heedless. Beware therefore, O my soul, lest thou be weighed down with sleep, lest thou be given over unto death, and be shut out from the kingdom. But arise, crying aloud: Holy, Holy, Holy art Thou, O our God; through the prayers of the Mother of God, have mercy on us. Glory:*
-*Reflecting upon that fearful day, O my soul, keep watch, making bright thy lamps, enlightening them with the oil [of good works]; for thou knowest not when the voice shall come unto thee, saying: Behold, thy Bridegroom cometh!*
+*Behold, the Bridegroom comes at midnight, and blessed is the servant whom He shall find watching, but unworthy again is he whom He shall find heedless. Beware therefore, O my soul, lest thou be weighed down with sleep, lest thou be given over unto death, and be shut out from the kingdom. But arise, crying aloud: Holy, Holy, Holy art Thou, O our God; through the prayers of the Mother of God, have mercy on us. Glory:*
+*Reflecting upon that fearful day, O my soul, keep watch, making bright thy lamps, enlightening them with the oil [of good works]; for thou knowest not when the voice shall come unto thee, saying: Behold, thy Bridegroom comes!*
 
 === LEAF p6 ===
 
@@ -270,7 +270,7 @@ Likewise thee also, O renowned Mohyla, our Father and Pastor, by thine outstandi
 our desire is ardently to honor and exalt the renowned family of Your Illustriousness with immortal renown. Striving therefore with all our strength, behold, following the renewal of our Brotherhood Printing-House, we issue under the illustrious name of Your Grace this very first book, filled with God-inspired consolations, and offer it unto thee, as a pious man unto a pious patron. For who is such a witness thereof, as that thou, being born of a most renowned family, having deservedly gained the royal favor of the Crown of Poland and the goodwill of His Royal Majesty our gracious King, and of the whole Commonwealth, and having formed bonds of friendship with the noble assembly of Senators of the Crown of Poland, didst renounce all these things out of piety, making an offering unto God the Creator, voluntarily embracing poverty and virginal chastity, lovingly receiving the angelic monastic habit? And immediately, by the providence of God and the favor of His Royal Majesty, by the common consent of both spiritual and lay fathers, thou wast crowned with high ecclesiastical dignity.
 
 ##### Column B
-Witness thereto is thy fervent prayer unto God the Creator, unto His most pure and most blessed Mother, and unto the beloved Eastern Church. Witness also is thy zealous and pious care for the multiplication of the praise of God, for the elevation of schools, for good order in the Monastery, and for the internal and external adornment of churches. By the rule of thy piety, not only Kyiv, but the whole Rus’ land rejoiceth and giveth thanks unto God, that unto that holy place, for the profit and consolation of all Christendom, after holy and pious men, He hath granted so holy, pious, and watchful a Pastor.
+Witness thereto is thy fervent prayer unto God the Creator, unto His most pure and most blessed Mother, and unto the beloved Eastern Church. Witness also is thy zealous and pious care for the multiplication of the praise of God, for the elevation of schools, for good order in the Monastery, and for the internal and external adornment of churches. By the rule of thy piety, not only Kyiv, but the whole Rus’ land rejoices and gives thanks unto God, that unto that holy place, for the profit and consolation of all Christendom, after holy and pious men, He hath granted so holy, pious, and watchful a Pastor.
 
 Unto thee therefore, a pious father, we offer, present, and dedicate this pious Book, and place it beneath the broad wings of our Father and Pastor. Let it fly forth under thy patronage; let it pay thee this tribute; under thy name let it go forth securely into the world. Receive therefore, most illustrious, most venerable, and gracious Father and our Pastor, this work kindly, graciously, and favorably; and deign ever to keep us, thy servants and perpetual petitioners, grateful well-wishers of Your Illustriousness, in thy gracious, fatherly love and holy prayers.
 
@@ -297,7 +297,7 @@ Come, O ye peoples, let us sing and worship Christ, glorifying His Resurrection 
 Rejoice, O heavens; sound the trumpet, ye foundations of the earth; cry aloud with joy, ye mountains! For behold, Emmanuel hath nailed our sins
 
 ##### Column B
-to the Cross, and, putting death to death, hath granted life, raising fallen Adam, the father of all, for He loveth mankind.
+to the Cross, and, putting death to death, hath granted life, raising fallen Adam, the father of all, for He loves mankind.
 Him Who was willingly crucified in the flesh for our sake, Who suffered, and was buried, and rose from the dead, let us praise, saying: Confirm Thy Church in Orthodoxy, O Christ, and make peace in our life, for Thou art good and lovest mankind.
 Standing unworthy before Thy life-receiving tomb, we offer a hymn of praise unto Thine ineffable loving-kindness, O Christ our God; for Thou, being sinless, didst accept the Cross and death, that Thou mightest grant the Resurrection unto the world, as Thou lovest mankind.
 Let us praise the Word, co-eternal with the Father...
@@ -318,14 +318,14 @@ Let us sing of Mary the Virgin, the glory of the whole world, who blossomed fort
 By Thy Passion, O Christ, we have been set free from passions, and by Thy Resurrection we have been delivered from corruption: O Lord, glory to Thee!
 *Other Stichera according to the Alphabet. Tone 1:*
 *Verse: The Lord is King, He is robed in majesty.*
-Let creation rejoice, let the heavens be glad; let the nations clap their hands with gladness! For Christ our Savior hath nailed our sins to the Cross, and, putting death to death, hath granted us life, raising the fallen Adam, the father of all, for He loveth mankind.
+Let creation rejoice, let the heavens be glad; let the nations clap their hands with gladness! For Christ our Savior hath nailed our sins to the Cross, and, putting death to death, hath granted us life, raising the fallen Adam, the father of all, for He loves mankind.
 *Verse: For He hath established the world, so that it cannot be moved.*
 Being King of heaven and earth, O Incomprehensible One, Thou wast willingly crucified for the love of mankind! Hades, meeting Thee below, was embittered, and the souls of the righteous, receiving Thee, rejoiced; and Adam, seeing Thee, the Creator, in the nethermost regions, arose! O wonder! How did He Who is the Life of all taste of death? But as He willed to enlighten the world, crying out and saying: O Lord Who art risen from the dead, glory to Thee!
 
 #### [Right Page — Folio 2r (Manuscript replacement: Saturday Great Vespers & Sunday Matins)]
 ##### Column A
 [Continuation of Aposticha, Tone 1:][^17]
-*Verse: Holiness becometh Thine house, O Lord, unto length of days.*
+*Verse: Holiness becomes Thine house, O Lord, unto length of days.*
 The Myrrh-bearing women, carrying myrrh, reached Thy tomb with haste and lamentation; and not finding Thy most pure Body, but learning from the Angel of the new and glorious miracle, they said unto the Apostles: The Lord is risen, granting great mercy unto the world!
 *Glory... Both now... Theotokion:*
 Lo, the prophecy of Isaiah is fulfilled, for a Virgin hast thou given birth, and after giving birth, as before giving birth, thou didst remain. For God was He Who was born; therefore nature was miraculously made new. But, O Mother of God, despise not the supplications of thy servants offered unto thee in thy temple; but as thou bearest the Merciful One in thine arms, have compassion upon thy servants, and pray that our souls may be saved.
@@ -380,7 +380,7 @@ Unto the mountains of Thy laws, of virtues, hast Thou exalted me; enlighten me, 
 May Thy right hand take hold of me, O Word; preserve me and keep me, lest the fire of sin burn me! *Glory:*
 By the Holy Spirit every creature is renewed, running again unto its first state; for He is equal in power unto the Father and the Word. *Both now, the same.*
 *Antiphon 3:*
-Concerning those who said unto me: *We will go into the courts of the Lord*, my spirit rejoiced, my heart rejoiceth together.
+Concerning those who said unto me: *We will go into the courts of the Lord*, my spirit rejoiced, my heart rejoices together.
 In the house of David there is great fear; for there thrones being set, all the tribes and tongues of the earth shall be judged.
 *Glory:*
 Unto the Holy Spirit belong honor and worship, glory and dominion; as it is fitting unto the Father, so is it proper to offer unto the Son.
@@ -412,12 +412,12 @@ For the Trinity is a monad in essence, but not in persons.[^20]
 #### [Right Page — Folio 4r (Manuscript replacement: Sunday Matins)]
 ##### Column A
 *Kontakion, Tone 1. Model: When Thou shalt come...*[^21]
-As God Thou didst arise from the tomb in glory, and didst raise the world with Thyself; and human nature sings praise unto Thee as God, and death hath vanished! Adam rejoices, O Master, and Eve, now delivered from bonds, rejoiceth, crying aloud: Thou art He Who granteth Resurrection unto all, O Christ!
+As God Thou didst arise from the tomb in glory, and didst raise the world with Thyself; and human nature sings praise unto Thee as God, and death hath vanished! Adam rejoices, O Master, and Eve, now delivered from bonds, rejoices, crying aloud: Thou art He Who grants Resurrection unto all, O Christ!
 *Ikos:*
 Let us sing of Him Who arose on the third day as the almighty God, Who broke down the gates of Hades and raised up from the tomb those who were dead from all ages, appearing unto the Myrrh-bearing women as it pleased Him, having first said unto them *Rejoice!*, and proclaiming joy unto the Apostles as the only Giver of life. Therefore with faith the women announce the signs of victory unto the disciples;
 
 ##### Column B
-and Hades groaneth, and death lamenteth, and the world rejoiceth, and all rejoice together with him in the Resurrection of Christ: for Thou, O Christ, grantest Resurrection unto all!
+and Hades groans, and death laments, and the world rejoices, and all rejoice together with him in the Resurrection of Christ: for Thou, O Christ, grantest Resurrection unto all!
 *Ode 7: Heirmos:*
 *Thee, O Mother of God, we faithful perceive as the spiritual furnace: for as the highly exalted One saved the three children, so hath the praised and all-glorious God of our fathers wholly renewed the world in thy womb.*
 *Ode 8: Heirmos:*

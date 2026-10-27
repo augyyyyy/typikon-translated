@@ -12,7 +12,7 @@ Antiphon 1:
 [4] Having turned back the captivity of Sion from delusion: do Thou also make me alive, O Savior, delivering me from slavish passions!
 [5] They that sow in the south with tears of fasting sorrows: shall reap joyous sheaves that ever nourish life!
 Glory: Now and ever:
-[6] Unto the Holy Spirit belongeth the fountain of divine treasures; from Him proceed wisdom, understanding, and fear: unto Him be praise, glory, honor, and dominion!
+[6] Unto the Holy Spirit belongs the fountain of divine treasures; from Him proceed wisdom, understanding, and fear: unto Him be praise, glory, honor, and dominion!
 Antiphon 2:
 [7] Except the Lord build the house of the soul, in vain do we labor; for from Him alone do well-pleasing works...
 
@@ -30,7 +30,7 @@ Verse (Psalm 9:2): I will give praise unto Thee, O Lord, with my whole heart; I 
 Let every breath praise the Lord: The Resurrection Gospel. And the rest in order.
 Resurrection Canon.
 Ode 1. Tone 7. Heirmos:
-By Thy nod upon the earth, the image of the watery nature, which formerly flowed easily, was transformed, O Lord; therefore Israel, passing through dry-shod, chanteth unto Thee a song of victory!
+By Thy nod upon the earth, the image of the watery nature, which formerly flowed easily, was transformed, O Lord; therefore Israel, passing through dry-shod, chants unto Thee a song of victory!
 Troparia:
 [5] That which was condemned of old by Thy nod, having fallen into slavery among the daughters of Adam through righteous death: Thou didst loose, O Lord and Lover of mankind, by Thy Resurrection, having raised up human nature without condemnation, chanting unto Thee a song of victory!
 [6] [Having slain the adversary beast, O Savior, Thou didst tear asunder the waves of death...]
@@ -65,7 +65,7 @@ Theotokion:
 Another [Canon]. Heirmos:
 The power of the Disciples was struck with awe, O Christ:
 [4] The captive weapon was dyed red with blood, and the spear that pierced Thy side was held fast lawfully when blood and water were poured forth upon the Tree at Thy Crucifixion!
-[5] O Savior, Thou didst lead the Thief into Paradise, and breaking down the gates of hades, he rejoiceth, having received remission of sins through Thee!
+[5] O Savior, Thou didst lead the Thief into Paradise, and breaking down the gates of hades, he rejoices, having received remission of sins through Thee!
 Theotokion:
 [6] [O all-pure Virgin, who remained unconsumed by the divine flame: pray that our souls may be saved!]
 Another [Canon to the Theotokos]. Heirmos: He hath helped His servant:
@@ -160,13 +160,13 @@ Ikos:
 The underworld below trembled...
 
 ##### Column B
-...today, hades and death were afraid of the One of the Trinity; the earth was shaken, and the gatekeepers of hades, beholding Thee, were terrified! And all creation, rejoicing with the Prophets, chanteth unto Thee a song of victory, unto our Redeemer and God, Who hath now destroyed the power of death: let us shout aloud and cry unto Adam and unto those born of Adam: The Tree hath brought him back again; come forth, ye faithful, unto the Resurrection!
+...today, hades and death were afraid of the One of the Trinity; the earth was shaken, and the gatekeepers of hades, beholding Thee, were terrified! And all creation, rejoicing with the Prophets, chants unto Thee a song of victory, unto our Redeemer and God, Who hath now destroyed the power of death: let us shout aloud and cry unto Adam and unto those born of Adam: The Tree hath brought him back again; come forth, ye faithful, unto the Resurrection!
 Resurrection Canon.
 Ode 7. Heirmos:
 The Children of old showed the fiery furnace to be dew-bearing, praising the one God and saying: O God of our fathers, supremely exalted and supremely glorified!
 Troparia:
 [1] By a tree was Adam put to death, having willingly committed disobedience; but by the obedience of Christ is he made alive again, for for my sake the Son of God, the supremely glorified, is crucified!
-[2] All creation hymneth Thee Who didst arise from the tomb, O Christ; for Thou didst blossom forth as life unto those in hades, resurrection unto the dead, and the supremely glorified Light unto those in darkness!
+[2] All creation hymns Thee Who didst arise from the tomb, O Christ; for Thou didst blossom forth as life unto those in hades, resurrection unto the dead, and the supremely glorified Light unto those in darkness!
 Theotokion:
 [3] Rejoice, O daughter of corrupt Adam! Rejoice, O only Bride of God! Rejoice, through whom corruption was driven away, for Thou didst give birth unto God: pray unto Him, O pure one, that we all may be saved!
 Canon of the Cross and Resurrection.
@@ -203,7 +203,7 @@ Triadicon:
 [5] The only compassionate, pre-eternal Word, Who at the last was born of the Virgin and saved the human race: Praise Him, ye priests, and supremely exalt Him, ye people, unto the ages!
 Another Canon to the Theotokos.
 Ode 8. Heirmos: Unburned by fire:
-[6] By the brightness of Thy childbearing, O Birth-giver of God, Thou didst wondrously enlighten the universe, carrying in Thine arms the existing God, Who illumineth those who faithfully cry: All ye works of the Lord, bless ye the Lord, and supremely exalt Him unto the ages!
+[6] By the brightness of Thy childbearing, O Birth-giver of God, Thou didst wondrously enlighten the universe, carrying in Thine arms the existing God, Who illuminates those who faithfully cry: All ye works of the Lord, bless ye the Lord, and supremely exalt Him unto the ages!
 [7] Piously do we hymn Thy womb, O pure one...[^282]
 
 === LEAF p204 ===
@@ -230,7 +230,7 @@ Ode 9. Heirmos: Mother of God and Virgin in childbearing:
 Another Canon to the Theotokos.
 Same Heirmos:
 [4] Truly hast Thou appeared unto us as the mediatress of eternal joy and gladness, O Virgin Maiden, having given birth unto the Redeemer, Whom those who honor Him in truth and by the Divine Spirit confess as God the Deliverer!
-[5] David Thy forefather, O all-pure one, calleth Thee the Ark of divine holiness, who contained beyond nature God Who sitteth in the bosom of the Father, Whom we faithful unceasingly magnify!
+[5] David Thy forefather, O all-pure one, calls Thee the Ark of divine holiness, who contained beyond nature God Who sits in the bosom of the Father, Whom we faithful unceasingly magnify!
 [6] Truly art Thou higher than all creation, O pure one, for Thou didst bear bodily unto us the Designer of all; therefore as Mother of the only Master, Thou dost heal the damage that befell all...
 
 #### [Right Page — Folio 205r]
@@ -247,7 +247,7 @@ Other Stichera (Anatolian). Same Tone:
 ##### Column B
 ...and as God He granted eternal life and great mercy unto the world!
 Verse (Psalm 9:33): Arise, O Lord my God, let Thy hand be lifted up; forget not Thy poor unto the end!
-[1] Shining with brightness, the Angel sat upon the stone of Thy life-receiving tomb, and proclaimed glad tidings unto the Myrrh-bearing women, saying: The Lord is risen, as He said unto you before; proclaim unto His Disciples that He goeth before you into Galilee, and bestoweth eternal life and great mercy upon the world!
+[1] Shining with brightness, the Angel sat upon the stone of Thy life-receiving tomb, and proclaimed glad tidings unto the Myrrh-bearing women, saying: The Lord is risen, as He said unto you before; proclaim unto His Disciples that He goes before you into Galilee, and bestows eternal life and great mercy upon the world!
 Verse (Psalm 9:2): I will give praise unto Thee, O Lord, with my whole heart; I will tell of all Thy wonders!
 [2] Why have ye set at naught the cornerstone, O lawless Jews? Lo, He is the One Whom God placed in Sion, Who brought forth water from the rock in the wilderness, and poured forth immortality for us from His side! He is the stone cut out without human hands from the mountain of Daniel: the Son of man coming upon the clouds of heaven unto the Ancient of Days, as Daniel said, and His Kingdom is everlasting!
 The Matins Gospel. And thereafter spiritually, the Great Doxology, and the Dismissal.
@@ -271,11 +271,11 @@ Beatitudes. Tone 7.
 Glory: Triadicon:
 [1] Light is the Father, Light is the Son and Word, Light is the Holy Spirit, but one Light are the Three; for God is One in three Persons, one simple Nature, indivisible and unconfused, abiding eternally!
 Now and ever: Theotokion:
-[2] Thou didst give birth bodily for our sake unto the Son and Word of God, as He alone knoweth, O Birth-giver of God; therefore, O Virgin Mother, being deified through Thee, we cry aloud unto Thee: Rejoice, O Hope of Christians!
+[2] Thou didst give birth bodily for our sake unto the Son and Word of God, as He alone knows, O Birth-giver of God; therefore, O Virgin Mother, being deified through Thee, we cry aloud unto Thee: Rejoice, O Hope of Christians!
 ON SUNDAY EVENING, AT "LORD, I HAVE CRIED":
-Penitential Stichera. Tone 7. Model: Today Judas watcheth:
+Penitential Stichera. Tone 7. Model: Today Judas watches:
 [3] Lift up thine eye, O my soul, and look upon the dispensation and divine ordering of God! How He inclined the heavens and descended unto earth, that He might raise thee up from all the misery of passions, and set thee upon the rock of faith! O fearful wonder! Glory to Thy condescension, O Lover of mankind!
-[4] Look upon thine iniquitous deeds, O my soul, and consider how the earth beareth thee! How the lightning bolt doth not consume thee! How wild beasts devour thee not! And how the unwaning Sun ever shineth upon thee! Arise, repent, and cry aloud unto the Lord: I have sinned against Thee, I have sinned, have mercy upon me!
+[4] Look upon thine iniquitous deeds, O my soul, and consider how the earth bears thee! How the lightning bolt doth not consume thee! How wild beasts devour thee not! And how the unwaning Sun ever shines upon thee! Arise, repent, and cry aloud unto the Lord: I have sinned against Thee, I have sinned, have mercy upon me!
 [5] Having Thee as our hope, O almighty Lord, we pray Thee: deliver us from all perils and from the tempest of passions, that we may peacefully...
 
 #### [Right Page — Folio 206r]
@@ -304,7 +304,7 @@ Glory: Now and ever: Theotokion:
 [4] Higher art Thou than the heavenly hosts, for Thou wast shown to be the Divine Temple, O blessed Birth-giver of God, having given birth unto Christ, the Savior of our souls!
 After the 2nd Kathisma, Penitential Sessional Hymns. Tone 7:
 [5] I have not emulated the repentance of the Publican, nor have I acquired the tears of the Harlot; for I am bewildered by blindness regarding such amendment: but by Thy compassions, O good One, save me, for Thou art the Lover of mankind!
-[6] The abyss of life overwhelmeth me...[^284]
+[6] The abyss of life overwhelms me...[^284]
 
 === LEAF p206 ===
 
@@ -316,7 +316,7 @@ Martyrs:
 Glory: Now and ever: Theotokion:
 [2] More honorable than the glorious Cherubim art Thou, O Most Holy Virgin; for they, unable to bear the Divine Power, cover their faces with wings as they perform their ministry; but Thou, visibly beholding the Incarnate Word, didst bear Him in Thine arms: Him do Thou unceasingly entreat for our souls!
 After the 3rd Kathisma, Penitential Sessional Hymns. Tone 7. Model: Fruit of the womb:
-[3] The tempest of diverse passions and of my sins drowneth me in the depth of despair; but by the prayers of Thine Angels, O most merciful Jesus, save me as the Prodigal!
+[3] The tempest of diverse passions and of my sins drowns me in the depth of despair; but by the prayers of Thine Angels, O most merciful Jesus, save me as the Prodigal!
 [4] Prepare thyself, O my soul, for thy departure, facing the life to come without wavering! For neither wealth, nor strength, nor friends, nor princes shall avail there: but only the display of deeds and the love of God toward mankind!
 Glory: Now and ever: Theotokion:
 [5] O immaculate Virgin Birth-giver of God: pray unto Thy Son together with the hosts on high, to grant us forgiveness of sins before our end, who faithfully glorify Thee!
@@ -355,7 +355,7 @@ Martyrs:
 Martyrs:
 [4] Having endured a multitude of afflictions, O victorious Passion-bearers, ye were accounted worthy of myriads of good things, being joined unto the myriads of bodiless powers!
 Theotokion:
-[5] Having alone given birth unto the transcendent King, O Virgin: cast down the sin that dwelleth within me, and having compassion, save me!
+[5] Having alone given birth unto the transcendent King, O Virgin: cast down the sin that dwells within me, and having compassion, save me!
 Another Canon [to the Bodiless Powers].
 Ode 3. Heirmos: Be established, O Church of Christ:
 [6] Being intercessors of divine boldness, ye angelic ranks cry aloud immaterially: Holy art Thou, O Lord, Who hast saved our souls!
@@ -416,7 +416,7 @@ Ode 6. Heirmos:
 Jonah cried aloud from the belly of hades: Lead up my life from corruption! And we cry aloud unto Thee: O almighty Savior, have mercy upon us!
 Troparia:
 [3] The abyss of transgressions hath encompassed me, and I have sunk into the depth of destruction: lead me up from corruption unto life, O Word, as of old Thou didst Jonah!
-[4] The storm of evil thoughts casteth me down; guide me, O compassionate One, unto the harbor of true repentance, preserving my heart in peace!
+[4] The storm of evil thoughts casts me down; guide me, O compassionate One, unto the harbor of true repentance, preserving my heart in peace!
 Martyrs:
 [5] Protected by the shield of truth, the Holy Martyrs turned away the deceitful flatteries of tyrants, and were unwounded by the barbs of the enemy!
 Martyrs:
@@ -436,8 +436,8 @@ Penitential Canon.
 Ode 7. Heirmos:
 Thou didst bedew the burning furnace, O Savior, and didst save the Children who sang and said: O God of our fathers, blessed art Thou!
 Troparia:
-[2] Offer unto God the sacrifice of praise, O my soul! Hasten and repent while the festival of life endureth, and the market of good works is open!
-[3] The mortal cutting-down draweth near, O my soul: bring forth worthy fruits, lest like an unfruitful tree thou be cast into the fire of Gehenna, and weep without avail!
+[2] Offer unto God the sacrifice of praise, O my soul! Hasten and repent while the festival of life endures, and the market of good works is open!
+[3] The mortal cutting-down draws near, O my soul: bring forth worthy fruits, lest like an unfruitful tree thou be cast into the fire of Gehenna, and weep without avail!
 Martyrs:
 [4] Having extinguished the furnace of delusion with streams of blood, the Holy Martyrs cried aloud as the Children: Blessed art Thou, O Lord God of our fathers!
 Martyrs:
@@ -452,7 +452,7 @@ Ode 7. Heirmos: As in the fiery furnace:
 ##### Column B
 ...encompassing Him with unceasing hymns, crying: Blessed art Thou, O Lord God of our fathers!
 Theotokion:
-[1] One Person in two natures, O Birth-giver of God, didst Thou seedlessly bear: Christ, the only Lover of mankind, Who accomplisheth a fearful dispensation: Blessed is the God of our fathers!
+[1] One Person in two natures, O Birth-giver of God, didst Thou seedlessly bear: Christ, the only Lover of mankind, Who accomplishes a fearful dispensation: Blessed is the God of our fathers!
 Penitential Canon.
 Ode 8. Heirmos:
 Being made like unto the Children in the furnace, having received the dew of the Spirit, let us cry aloud in faith: Bless the Lord, all ye works of the Lord; hymn and supremely exalt Him unto the ages!
@@ -464,7 +464,7 @@ Martyrs:
 Martyrs:
 [5] Ye ascended unto the divine rest, having obtained the good things of piety, O all-praised Martyrs: therefore we worthily call you blessed!
 Theotokion:
-[6] Human nature was loosed from the curse by Thy childbearing, O Virgin, for Thou didst give birth unto the All-blessed One Who blessedly adorneth all unto the ages!
+[6] Human nature was loosed from the curse by Thy childbearing, O Virgin, for Thou didst give birth unto the All-blessed One Who blessedly adorns all unto the ages!
 Another Canon [to the Bodiless Powers].
 Ode 8. Heirmos: The only unoriginate King of glory:
 [7] Him Whom the heavenly hosts praise, and before Whom the ranks of Angels tremble: Praise Him...[^286]
@@ -482,7 +482,7 @@ Penitential Canon.
 Ode 9. Heirmos:
 Thee Who art Mother beyond nature and Virgin according to nature, the only blessed one among women: in hymns, we the faithful magnify Thee as the Birth-giver of God!
 Troparia:
-[4] Lo, the judgment draweth near, and the deeds of condemnation terrify me: I tremble at all things; O righteous Judge, Christ God, condemn me not!
+[4] Lo, the judgment draws near, and the deeds of condemnation terrify me: I tremble at all things; O righteous Judge, Christ God, condemn me not!
 [5] As the faithful Canaanite woman, I cry unto Thee: Have mercy upon me! And as Thou didst the bowed-down woman of old, make me upright, that I may walk straight in Thy paths, O Lover of mankind!
 Martyrs:
 [6] Having stripped yourselves of the garments of malice, ye adorned yourselves with the clothing of martyrdom, O Passion-bearers, obtaining the garments of all glory!
@@ -525,10 +525,10 @@ Glory: Triadicon:
 Now and ever: Theotokion:
 [2] Defiled by worldly pleasures, I have fled unto Thee, the immaculate Virgin: deliver my all-immaculate soul from every blemish and transgression, that I may ever call Thee blessed!
 ON MONDAY EVENING, AT "LORD, I HAVE CRIED":
-Penitential Stichera. Tone 7. Model: Today Judas watcheth:
+Penitential Stichera. Tone 7. Model: Today Judas watches:
 [3] O all-compassionate Master and God: by whatever judgments Thou knowest, grant me to come unto contrite feeling! Grant me to love Thee with all my soul! Grant me to be angry against the deeds of the enemy, and to do Thy will unto salvation! For Thou art our God, Who didst say: Ask, and ye shall receive!
 [4] Satan hath made me his mockery, an object of contempt unto men, a cause of weeping unto the righteous, of lamentation unto the Angels, a defilement unto the air, the earth, and the water: for I have defiled my body, and stained my soul and mind with irrational deeds, and have become an enemy of God! Woe is me, woe is me! O Lord, I have sinned against Thee, I have sinned: forgive me!
-[5] Accept the prayer offered for me, the unfruitful one, O long-suffering Master, and cut me not down as an unfruitful tree by the mortal cutting that casteth into the fire; but be Thou entreated to make me fruitful, granting me time for repentance, as Thou art the Lover of mankind, that I may wash away...[^287]
+[5] Accept the prayer offered for me, the unfruitful one, O long-suffering Master, and cut me not down as an unfruitful tree by the mortal cutting that casts into the fire; but be Thou entreated to make me fruitful, granting me time for repentance, as Thou art the Lover of mankind, that I may wash away...[^287]
 
 === LEAF p209 ===
 
@@ -628,7 +628,7 @@ Penitential Canon.
 Ode 4. Heirmos:
 Perceiving Thy bodily coming, O Christ, the Prophet Habakkuk cried aloud: Glory to Thy power, O Lord!
 Troparia:
-[5] I have strayed from the path that leadeth unto life, and have fallen into the evil pit: O Savior, despise me not!
+[5] I have strayed from the path that leads unto life, and have fallen into the evil pit: O Savior, despise me not!
 [6] Send down streams of tears unto me, O Word of God, that I may wash away the filth of my many transgressions!
 Martyrs:
 [7] Led as lambs unto the slaughter, the Martyrs slew the tyrant enemy, being accounted worthy of glory!
@@ -654,7 +654,7 @@ Troparia:
 
 ##### Column B
 ...and having cleansed me through repentance from my many sins, show me forth as a temple of Thy goodness, O only Creator of all!
-[1] With the grievous mist of passions have I blinded my mind, and with a troubled heart I know not what I do: turn me back, O Christ, and grant me repentance that cleanseth all defilement!
+[1] With the grievous mist of passions have I blinded my mind, and with a troubled heart I know not what I do: turn me back, O Christ, and grant me repentance that cleanses all defilement!
 Martyrs:
 [2] Having youthfully run the course that was full of sweat, O holy sufferers, ye reached the unwaning splendor, having received the prize of victory from the life-originating Hand: therefore ye now rejoice!
 Martyrs:
@@ -663,7 +663,7 @@ Theotokion:
 [4] O radiant Cloud of the Sun, kindle within me the spiritual light of true repentance, and drive away the darkness of wicked thoughts, that in faith I may hymn Thee as the salvation of the faithful!
 Another Canon to the Forerunner.
 Ode 5. Heirmos: The Lord our God:
-[5] Thou didst foresee the voice of him that crieth in the wilderness, O all-wise one, preaching the knowledge of God: therefore I pray Thee, renew my soul that is made desolate by all manner of transgressions!
+[5] Thou didst foresee the voice of him that cries in the wilderness, O all-wise one, preaching the knowledge of God: therefore I pray Thee, renew my soul that is made desolate by all manner of transgressions!
 [6] Having been shown forth as a radiant vessel, O divine Forerunner: by Thy prayers deliver me from dishonorable deeds, and entreat the Benefactor that I may obtain eternal honor!
 [7] Iniquities have drawn near unto us in the departure of slothfulness: establish me in the ways of repentance, O blessed Forerunner, that I may earnestly walk in the ways of the Lord, chanting unto Thee!
 Theotokion:

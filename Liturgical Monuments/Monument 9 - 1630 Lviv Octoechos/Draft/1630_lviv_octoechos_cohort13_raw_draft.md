@@ -28,7 +28,7 @@ By Thy compassions transform my unmerciful ways by Thine intercessions, O Christ
 Ode 4. Heirmos:
 Beholding Thee lifted up [upon the Cross...]:
 Beholding Thee willingly lifted up upon the tree, the sun of the Sun of glory was clad in darkness, and the rocks were split, and the veil of the temple was rent in twain.
-When Thou wast crucified and pierced with a spear, O Lord, the weapon turned back, giving its back at Thy command; the wise thief hymneth Thy dominion.
+When Thou wast crucified and pierced with a spear, O Lord, the weapon turned back, giving its back at Thy command; the wise thief hymns Thy dominion.
 Martyricon:
 Armed with the weapon of Thy Cross, Thy Passion-bearers, O Lord: were shown unwounded by the arrow of malice, and destroyed the unstable walls of the idols.
 Martyricon:
@@ -59,11 +59,11 @@ He Who alone is good, having entered Thy womb incorruptibly, O Most-pure One, wa
 
 Another Canon. Heirmos:
 The ungodly shall not see Thy glory, [O Christ...]:
-O Ewe-lamb, who didst bear the Lamb of God: seek out my soul that hath been deceived by the serpent's deceit, and that wandereth upon
+O Ewe-lamb, who didst bear the Lamb of God: seek out my soul that hath been deceived by the serpent's deceit, and that wanders upon
 
 ##### Column B
 the mountains through transgression, O Lady.
-By Thy warm prayer, O ever-Virgin Lady: vouchsafe my soul, which freezeth in cruel frost, to draw near in piety unto the warmth of the Creator of divine love.
+By Thy warm prayer, O ever-Virgin Lady: vouchsafe my soul, which freezes in cruel frost, to draw near in piety unto the warmth of the Creator of divine love.
 Thou who alone art good and spotless among women, O Pure One: free my wretched soul from passionate blemish, and dispose me to live purely by Thine intercessions.
 Preserve my soul as the apple of Thine eye, O Most-pure One, under the cover of Thy wings, O Good One, and deliver me from the torment of spiritual wickedness and from torments.
 
@@ -74,7 +74,7 @@ Thou wast dead indeed, lifted up upon the tree: but make dead the slayer of my s
 Martyricon:
 Wounded with incurable torments, O all-glorious ones: and by your fingernails, O Martyrs, the wounded enemy was cast down, and is seen put to shame by faith.
 Martyricon:
-The dust of the Martyrs' relics lying in the tomb worketh sleep-granting rest, and bloweth away the demons like dust, and healeth diverse sicknesses.
+The dust of the Martyrs' relics lying in the tomb works sleep-granting rest, and blows away the demons like dust, and heals diverse sicknesses.
 Theotokion:
 The lawless assembly nailed Thee with nails, and the Virgin lamented, crying: 'Now with the sword of grief...
 
@@ -102,11 +102,11 @@ ever tripping up the enemy.
 Martyricon:
 Ye cast down the fortifications of deceptive walls by your sacred sufferings, O glorious Sufferers: and became a wall, fortress, and protector unto the faithful who piously glorify you.
 Theotokion:
-As the dew in the furnace cooled the youths, O Virgin Maiden, and in no wise burned Thy womb, so when Thou didst see Christ hanging upon the tree, Thou didst praise His condescension which transcendeth the mind.
+As the dew in the furnace cooled the youths, O Virgin Maiden, and in no wise burned Thy womb, so when Thou didst see Christ hanging upon the tree, Thou didst praise His condescension which transcends the mind.
 
 Another Canon. Same Heirmos:
 O divine Mountain from which the Stone was cut, O Maiden, which crushed the idols of the idolatrous: heal my sculpted soul, and drive away the stony perplexity of my heart.
-O unshakable Maiden, who didst receive in Thy midst Him Who by His glance shaketh the earth, and now when He willeth shaketh us: therefore strengthen me who am shaken by the enemy's assaults.
+O unshakable Maiden, who didst receive in Thy midst Him Who by His glance shakes the earth, and now when He wills shakes us: therefore strengthen me who am shaken by the enemy's assaults.
 Casting down my carnal mindsets, show me, O Theotokos, wholly spiritual, adorned with virtues: whom the all-cunning one darkened through the unseemliness of pleasures.
 O divine Lily of mercy and goodness, pour forth abundantly the wealth of Thy compassions: and washing away the filth of my transgressions, quench the carnal inflammation.
 
@@ -118,7 +118,7 @@ Stretching out Thy palms upon the Cross, O Good One, desiring to heal the unrest
 ##### Column A
 [...for him who cried]:[^188] 'Remember me, crying in Thy kingdom!'
 Nailed upon the Cross, O Christ, Goodness of many wounds, pierced in the side, Thou didst pour forth two streams of remission; and the earth, not enduring to see the boldness, shook; the rocks were split, the sun was darkened, the mountains and hills trembled. Glory to Thy dominion!
-The hands of the forefather formerly stretched out unrestrainedly toward the food of the tree, Thou didst make right, O Christ, their slip, stretching out Thyself willingly, and Thy hands were nailed, O Long-suffering One, Who didst fashion man with Thy hand, for the sake of Thine immeasurable goodness. Glory to Thine arrangement which transcendeth the mind!
+The hands of the forefather formerly stretched out unrestrainedly toward the food of the tree, Thou didst make right, O Christ, their slip, stretching out Thyself willingly, and Thy hands were nailed, O Long-suffering One, Who didst fashion man with Thy hand, for the sake of Thine immeasurable goodness. Glory to Thine arrangement which transcends the mind!
 Martyricon:
 Like blazing lands, O holy ones, by the most-radiant beams of your honorable struggles, whereby ye destroyed all the darkness of vanity, and dwelt in the unwaning Light, being
 
@@ -127,7 +127,7 @@ deified by participation, and ye illumine all with spiritual light who worthily 
 Glory... Triadicon:
 Rendering praise, glory, and honor unto the all-causing Trinity, and offering with thrice-holy voices the angelic song unto the beginningless Father, and the Son, and the Holy Spirit, we lift up the voice of the wise thief, singing and crying aloud unto It: 'Remember us in Thy kingdom!'
 Both now... Theotokion:
-Beholding Her Son and God willingly lifted up upon the Cross, the Most-pure One marveled, weeping and saying unto Him Who adorned all things: 'Whither hath Thy beauty set, O Lord? What is this that the ungrateful assembly hath repaid unto Thee instead of good things? I sing of Thy goodness which transcendeth the mind!'
+Beholding Her Son and God willingly lifted up upon the Cross, the Most-pure One marveled, weeping and saying unto Him Who adorned all things: 'Whither hath Thy beauty set, O Lord? What is this that the ungrateful assembly hath repaid unto Thee instead of good things? I sing of Thy goodness which transcends the mind!'
 
 ON WEDNESDAY EVENING, AT 'LORD, I HAVE CRIED':[^189]
 Stichera to the Holy Apostles, Tone 4. To: As one noble:
@@ -180,8 +180,8 @@ Tear up the bonds of my transgressions, and calm the bodily uprisings, O Theotok
 Fear not, O my wretched soul, the darkness of slander of those who slander my countless evil deeds; therefore repent, and take the only Most-pure One as an ally unto good, for She is the refuge of mankind!
 Ode 9. Heirmos:
 The stone cut without hands from the mountain:
-Behold, Life hanging upon the Cross hath appeared unto all; the sun, not enduring it, withholdeth its beam, and the earth shaketh, and thoughts are confirmed in the purity of piety.
-How doth the lawless assembly condemn Thee, my Jesus, the Lawgiver, to die upon the tree: Who art the Life and Lord of all, and Who through sufferings bestoweth incorruptible impassibility upon all mankind!
+Behold, Life hanging upon the Cross hath appeared unto all; the sun, not enduring it, withholds its beam, and the earth shakes, and thoughts are confirmed in the purity of piety.
+How doth the lawless assembly condemn Thee, my Jesus, the Lawgiver, to die upon the tree: Who art the Life and Lord of all, and Who through sufferings bestows incorruptible impassibility upon all mankind!
 With your blessed mouths, O all-wise ones, ye proclaimed the incarnation of the Word: in the midst of the lawless enemies, O all-praised ones...
 
 === LEAF p124 ===
@@ -204,7 +204,7 @@ Be Thou a wall unto us, Thy Cross,
 O Jesus our Savior, for no other consolation have we faithful, save Thee, Who in the flesh wast nailed upon it, and Who grantest us great mercy.
 Thou hast given a sign unto those who fear Thee, O Lord: Thy precious Cross, whereby Thou didst put to shame the Principalities of darkness and powers, and didst lead us back unto the first blessedness. Therefore we glorify Thy dispensation, the Lover of mankind: O all-powerful Jesus, Savior of our souls!
 Martyricon:
-As in fields we marvel not at the struggles of the holy Martyrs, for being surrounded by a body that dieth, ye conquered the incorporeal enemies; for the torturers' threats terrified you not, nor did the application of torments dismay you; truly worthily ye were glorified by Christ.
+As in fields we marvel not at the struggles of the holy Martyrs, for being surrounded by a body that dies, ye conquered the incorporeal enemies; for the torturers' threats terrified you not, nor did the application of torments dismay you; truly worthily ye were glorified by Christ.
 Glory... Both now... Stavrotheotokion:
 To: As one noble:
 Beholding Thee crucified, O Christ, the Most-pure Lady, putting to death the deceiver: as Master, weeping She praised the Tender-hearted One Who had come forth from Her, and marveling at His long-suffering, She cried aloud: 'O My most-beloved Child, forget not Thine handmaid! Tarry not, O Lover of mankind, my consolation!'
@@ -270,7 +270,7 @@ Me who am dissipated in carnal improprieties, O glorious disciples of the incorr
 Theotokion:
 Choirs of Angels, choirs of Martyrs and Apostles: ever entreat Thee, O Word, according to the multitude of Thy compassions, to cleanse sins, for Her sake, as Thou art wise.
 Another Canon [to St. Nicholas]. Heirmos: Three youths [in Babylon...]:
-O Saint Nicholas, who restest in the only Holy God Who resteth in the saints: pray that He may sanctify us, and send down upon us rich mercies...
+O Saint Nicholas, who restest in the only Holy God Who rests in the saints: pray that He may sanctify us, and send down upon us rich mercies...
 
 #### [Right Page — Folio 125r]
 ##### Column A
@@ -322,7 +322,7 @@ Thy Church doth rejoice in Thee, [O Christ, crying: Thou art my strength, O Lord
 Thy city, O God, the streams of the rivers of Thy disciples, O Master, sacredly make glad.
 Heavenly citizens, fellow-guests of the spiritual ranks, O all-glorious Apostles: deliver us from every tribulation!
 Thou Who didst establish Thy rational sheep, O Christ: establish me through their prayers upon the rock of Thy desires, as Thou art tender-hearted.
-As Thy Mother entreateth Thee together with the choir of the Lord's Disciples, who purely bore Thee: grant us Thy mercies.
+As Thy Mother entreats Thee together with the choir of the Lord's Disciples, who purely bore Thee: grant us Thy mercies.
 Another Canon. Heirmos:
 Not in wisdom, nor in power, nor in riches do we boast: but in Thine, O Father, hypostatic Wisdom of God: for there is none holy save Thee, O Lover of mankind.
 Thou wast revealed as a weapon, slaying the subduing enemies; from whom, O Nicholas, keep us unharmed and spotless, performing the divine will.
@@ -372,7 +372,7 @@ With the holy Angels, with the divine Apostles, with the glorious Martyrs: entre
 Another Canon [to St. Nicholas]. Heirmos:
 Eve, through the disease of disobedience, [brought in the curse...]:
 The curse was introduced; but Thou, O Virgin Theotokos, through the sprout of Thy dwelling, didst blossom forth blessing unto the world. Therefore we all magnify Thee.
-Working healings, thy tomb, O venerable one, poureth forth fragrant myrrh unto those who approach with faith and love, O Nicholas, and who honor thy memory. Therefore we all magnify thee.
+Working healings, thy tomb, O venerable one, pours forth fragrant myrrh unto those who approach with faith and love, O Nicholas, and who honor thy memory. Therefore we all magnify thee.
 Like the sun thou dost enlighten the whole northern region, O all-blessed Nicholas, by the beams of divine wonders driving away the darkness of cruel circumstances, through thy sacred intercessions, O adornment of hierarchs!
 As is thy wont, show compassion upon us, O Nicholas:
 
@@ -401,7 +401,7 @@ Being crushed by torments, and burned with material fire: ye burned up the bitte
 ##### Column B
 O all-blessed ones, and now ye pour forth streams of healings unto those who come unto you with warm faith, O preachers of Christ, and who cry unto Christ: Remember us in Thy kingdom!
 Glory... Triadicon:
-With unwavering thought, with sober mind, lifting up our hands unto Him Who sitteth on high with the Father and the Holy Spirit, O indivisible Trinity, Who didst establish all things by Thy word, and Who dost enlighten all who call in faith and ever cry: Remember us also in Thy kingdom!
+With unwavering thought, with sober mind, lifting up our hands unto Him Who sits on high with the Father and the Holy Spirit, O indivisible Trinity, Who didst establish all things by Thy word, and Who dost enlighten all who call in faith and ever cry: Remember us also in Thy kingdom!
 Both now... Theotokion:
 Joy of the Apostles, and unfading crown of the Passion-bearers, art Thou truly, O all-immaculate Virgin Theotokos. With them ask for us, O Lady, remission of transgressions, and amendment of life, who sing of Thee in faith and faithfully cry: Save us, O Mother of God, who bow down before Thee!
 ON THURSDAY EVENING, AT 'LORD, I HAVE CRIED':

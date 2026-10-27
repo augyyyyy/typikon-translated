@@ -123,8 +123,9 @@
         "дому твоему подобает"
       ],
       "greek": "τῷ οἴκῳ σου πρέπει ἁγίασμα, Κύριε, εἰς μακρότητα ἡμερῶν",
-      "english_canonical": "*Verse: Holiness becometh Thine house, O Lord, unto length of days.*",
+      "english_canonical": "*Verse: Holiness becomes Thine house, O Lord, unto length of days.*",
       "english_patterns": [
+        "holiness becomes",
         "holiness becometh"
       ],
       "slavonic_stem": "дому твоему подобает святиня господи в долготу дний",
@@ -505,14 +506,19 @@
         "прехвалнии мученици",
         "всехвалнии мученици",
         "прехвалнии мчнци",
-        "прехвалнии мунци"
+        "прехвалнии мунци",
+        "прехвалныи",
+        "прехвальнии",
+        "всехвалныи"
       ],
       "greek": "Πανεύφημοι μάρτυρες",
       "english_canonical": "O all-lauded martyrs",
       "english_aliases": [
         "o all-lauded martyrs",
         "all-praised martyrs",
-        "all-lauded martyrs"
+        "all-lauded martyrs",
+        "o most praised martyrs",
+        "most praised martyrs"
       ],
       "slavonic_stem": "прехвальнии мученици",
       "attested_loci": [
@@ -562,14 +568,17 @@
       "slavonic_patterns": [
         "гроб твой спасе",
         "гроб твои спсе",
-        "воином стрегущым"
+        "воином стрегущым",
+        "гроб твой",
+        "гроб твои"
       ],
       "greek": "Τὸν τάφον σου Σωτήρ",
       "english_canonical": "While the soldiers were guarding Thy tomb",
       "english_aliases": [
         "while the soldiers were guarding thy tomb",
         "thy tomb, o savior",
-        "thy tomb o savior"
+        "thy tomb o savior",
+        "thy tomb"
       ],
       "slavonic_stem": "гроб твой спсе",
       "attested_loci": [
@@ -659,7 +668,9 @@
       "greek": "Τὰ ἄνω ζητῶν",
       "english_canonical": "Seeking the highest",
       "english_aliases": [
-        "seeking the highest"
+        "seeking the highest",
+        "having sought the things on high",
+        "seeking the things on high"
       ],
       "slavonic_stem": "вишних ищя",
       "attested_loci": [
@@ -683,7 +694,9 @@
       "english_canonical": "Being the wellspring of loving-kindness",
       "english_aliases": [
         "being the wellspring of loving-kindness",
-        "being full of compassion"
+        "being full of compassion",
+        "being tenderly compassionate",
+        "being a fountain of mercy"
       ],
       "slavonic_stem": "милосердия сущи источник",
       "attested_loci": [
@@ -767,13 +780,17 @@
         "велия мученик",
         "велиа мчник",
         "велиа мунк",
-        "велиа муник"
+        "велиа муник",
+        "велиа мученик",
+        "велия мчник"
       ],
       "greek": "Μεγάλη τῶν Μαρτύρων σου",
       "english_canonical": "Great is the power of Thy martyrs",
       "english_aliases": [
         "great is the power of thy martyrs",
-        "great is the martyr"
+        "great is the martyr",
+        "the great martyrs",
+        "great are thy martyrs"
       ],
       "slavonic_stem": "велия мученик твоих",
       "attested_loci": [
@@ -1052,13 +1069,18 @@
         "радуися постников",
         "радуйся постником",
         "радуйся постничком",
-        "радуйся постнико"
+        "радуйся постнико",
+        "радуйся постнический",
+        "радуися постническии",
+        "радуйся постническии"
       ],
       "greek": "Χαίροις ἀσκητικῶν",
       "english_canonical": "Rejoice, O container of ascetics",
       "english_aliases": [
         "rejoice, o container of ascetics",
-        "rejoice o container of ascetics"
+        "rejoice o container of ascetics",
+        "rejoice, thou bearer of the ascetic life",
+        "rejoice, o bearer of the ascetic life"
       ],
       "slavonic_stem": "радуйся постников",
       "attested_loci": [
@@ -1126,7 +1148,8 @@
       "english_aliases": [
         "the word co-unoriginate",
         "co-unoriginate word",
-        "the word co-beginningless"
+        "the word co-beginningless",
+        "co-unoriginate"
       ],
       "slavonic_stem": "собезначальное слово",
       "attested_loci": [
@@ -1182,7 +1205,8 @@
       "slavonic_patterns": [
         "все отложше",
         "всю отложивше",
-        "все упование"
+        "все упование",
+        "всю надежду"
       ],
       "greek": "Ὅλην ἀποθέμενοι",
       "english_canonical": "Having laid aside all earthly hope",
@@ -1192,7 +1216,9 @@
         "having laid aside all",
         "having set aside all",
         "all my hope",
-        "all our hope is in heaven"
+        "all our hope is in heaven",
+        "having placed all their hope",
+        "having set all their hope"
       ],
       "slavonic_stem": "все отложше",
       "attested_loci": [
@@ -1227,7 +1253,8 @@
       "english_canonical": "Fulfilling the dispensation for our sake",
       "english_aliases": [
         "fulfilling the dispensation",
-        "fulfilling the dispensation for our sake"
+        "fulfilling the dispensation for our sake",
+        "having fulfilled the dispensation"
       ],
       "slavonic_stem": "еже о нас",
       "attested_loci": [
@@ -1254,7 +1281,8 @@
       "english_aliases": [
         "the angelic powers",
         "the angelic hosts",
-        "the angelic hosts shall go before"
+        "the angelic hosts shall go before",
+        "the angelic hosts go before"
       ],
       "slavonic_stem": "аггльския сили",
       "attested_loci": [
@@ -1280,7 +1308,8 @@
       "english_canonical": "Having risen on the third day",
       "english_aliases": [
         "on the third day thou didst arise",
-        "having risen on the third day"
+        "having risen on the third day",
+        "risen on the third day"
       ],
       "slavonic_stem": "тридневно воскресл еси",
       "attested_loci": [
@@ -1354,7 +1383,8 @@
       "english_canonical": "No longer are we forbidden",
       "english_aliases": [
         "we are no longer forbidden",
-        "no longer are we forbidden"
+        "no longer are we forbidden",
+        "no longer forbidden"
       ],
       "slavonic_stem": "не ктому возбранени есми",
       "attested_loci": [
@@ -1383,10 +1413,11 @@
         "днесь иуда"
       ],
       "greek": "Σήμερον γρηγορεῖ ὁ Ἰούδας",
-      "english_canonical": "Today Judas watcheth",
+      "english_canonical": "Today Judas watches",
       "english_aliases": [
         "today judas watcheth",
-        "today judas"
+        "today judas",
+        "today judas watches"
       ],
       "slavonic_stem": "днес бдит июда",
       "attested_loci": [
@@ -1445,7 +1476,8 @@
       "english_aliases": [
         "that which was commanded mystically",
         "the commanded mystery",
-        "having received mystically"
+        "having received mystically",
+        "that which was commanded secretly"
       ],
       "slavonic_stem": "повеленное таинственно",
       "attested_loci": [
@@ -1498,12 +1530,16 @@
       "slavonic_canonical": "Гдⷭ҇и, а҆́ще и҆ на сꙋди́щи",
       "slavonic_patterns": [
         "господи аще и на судищи",
-        "гди аще и на судищи"
+        "гди аще и на судищи",
+        "гди аще на судищи",
+        "господи аще на судищи"
       ],
       "greek": "Κύριε, εἰ καὶ κριτηρίῳ παρέστης",
       "english_canonical": "O Lord, though Thou didst stand before the tribunal",
       "english_aliases": [
-        "o lord, though thou didst stand before the tribunal"
+        "o lord, though thou didst stand before the tribunal",
+        "o lord, though before the judgment seat",
+        "lord, though before the judgment seat"
       ],
       "slavonic_stem": "гди аще и на судищи",
       "attested_loci": [
@@ -1635,7 +1671,8 @@
       "english_canonical": "Today the Virgin",
       "english_aliases": [
         "today the virgin",
-        "the virgin today"
+        "the virgin today",
+        "the virgin"
       ],
       "slavonic_stem": "дѣва днесь",
       "attested_loci": [
@@ -1718,6 +1755,33 @@
       "attested_slavonic_variants": [],
       "attested_english_variants": [
         "Brighter than fire"
+      ]
+    },
+    {
+      "id": "POD.EXAP.ZHENY_USLYSHITE",
+      "tone": 1,
+      "slavonic_canonical": "Же́ны оу҆слы́шите",
+      "slavonic_patterns": [
+        "жены услышите",
+        "жени оуслышите",
+        "жены оуслышите"
+      ],
+      "greek": "Γυναῖκες ἀκουτίσθητε",
+      "english_canonical": "Give ear, ye women",
+      "english_aliases": [
+        "give ear, ye women",
+        "hearken, o ye women",
+        "hear, ye women"
+      ],
+      "slavonic_stem": "жени оуслишите",
+      "attested_loci": [
+        "C21:p208"
+      ],
+      "attested_slavonic_variants": [
+        "Жє́ны оу҆слы́шите"
+      ],
+      "attested_english_variants": [
+        "Give ear, ye women"
       ]
     }
   ],
@@ -1871,7 +1935,7 @@
       "slavonic_stem": "образ чтаго рожтва твоего распалаему купину",
       "greek": "Τύπον τῆς ἁγνῆς λοχείας σου",
       "english_incipit": "The burning bush showed forth an unburnt image",
-      "english_full": "The burning bush showed forth an unburnt image of thy pure childbearing; and now we pray thee to quench the furnace of temptations that rageth against us, that we may unceasingly magnify thee, O Mother of God."
+      "english_full": "The burning bush showed forth an unburnt image of thy pure childbearing; and now we pray thee to quench the furnace of temptations that rages against us, that we may unceasingly magnify thee, O Mother of God."
     },
     {
       "id": "HEIRMOS.T2.ODE1",
@@ -2063,7 +2127,7 @@
       "slavonic_stem": "новое чюдо и бголепное девическою оубо",
       "greek": "Καινὸν τὸ θαῦμα καὶ θεοπρεπές",
       "english_incipit": "A new wonder and God-befitting: for through the",
-      "english_full": "A new wonder and God-befitting: for through the closed virginal gate the Lord manifestly passeth; bare at His entrance, and flesh-bearing God appeared at His going forth, and the gate remaineth shut: her unceasingly as Mother of God do we magnify."
+      "english_full": "A new wonder and God-befitting: for through the closed virginal gate the Lord manifestly passes; bare at His entrance, and flesh-bearing God appeared at His going forth, and the gate remains shut: her unceasingly as Mother of God do we magnify."
     },
     {
       "id": "HEIRMOS.T4.ODE1",
@@ -2171,7 +2235,7 @@
       "slavonic_stem": "коня и всадника в море чермное",
       "greek": "Ἵππον καὶ ἀναβάτην εἰς θάλασσαν Ἐρυθράν",
       "english_incipit": "The steed and rider into the Red Sea",
-      "english_full": "The steed and rider into the Red Sea: Christ Who shattereth warfare with a high arm shook them off; but He saved Israel, as they sang a song of victory!"
+      "english_full": "The steed and rider into the Red Sea: Christ Who shatters warfare with a high arm shook them off; but He saved Israel, as they sang a song of victory!"
     },
     {
       "id": "HEIRMOS.T5.ODE3",
@@ -2291,7 +2355,7 @@
       "slavonic_stem": "хртос моя сила бг и гд",
       "greek": "Χριστός μου δύναμις, Θεὸς καὶ Κύριος",
       "english_incipit": "Christ is my power, God and Lord!\" the",
-      "english_full": "Christ is my power, God and Lord!\" the venerable Church divinely crieth aloud, keeping feast in the Lord from a pure understanding!"
+      "english_full": "Christ is my power, God and Lord!\" the venerable Church divinely cries aloud, keeping feast in the Lord from a pure understanding!"
     },
     {
       "id": "HEIRMOS.T6.ODE5",

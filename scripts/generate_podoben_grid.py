@@ -33,7 +33,15 @@ REGISTRY_FILE = PROJECT_ROOT / "data" / "liturgical_primitives_registry.json"
 
 DIACRITICS_RE = re.compile(r"[\u0300-\u036f\u0483-\u0487\u2de0-\u2dff\ua670-\ua67f]")
 SLAV_POD_RE = re.compile(
-    r"(?:^|[\s\.\*:])(Подо́?б?е?н?ъ?|Подѡ́?б?е?н?ъ?|По́?д?о?б?|По̀?|Гла́мо(?:\s*\[Подобен\])?)\s*:\s*(.*)$",
+    r"(?:^|[\s\.\*:])(Подо́?б?е?н?ъ?|Подѡ́?б?е?н?ъ?|По́?д?о?б?|По̀?|Гла́мо(?:\s*\[Подобен\])?)(?:\s*:\s*|\s*,\s+|\.\s+)(.*)$",
+    re.IGNORECASE
+)
+SLAV_UNLABELED_POD_RE = re.compile(
+    r"(?:Сѣда́\S*|Стїхи\S*)\s+[^\.,:;]*?гла\S*\s*,?\s*[а-иѳa-z0-9]+̃?\s*[\.,]\s*([А-ЯІЇЄѠѢꙊѦѬѮѰѲѴ].+)$",
+    re.IGNORECASE
+)
+RE_PAGE_HEADER = re.compile(
+    r"^(?:#{1,6}\s*|\*\*)?\[(Left|Right)\s+Page\s*(?:—|--|-|:)\s*(?:(?:Fol\.?|Folio)\s*([0-9]+[rv])|(.+?))\](?:\*\*)?(?:\s*(\[\^\d+\]))?$",
     re.IGNORECASE
 )
 
@@ -69,10 +77,40 @@ def parse_by_leaf(text: str) -> Dict[int, List[str]]:
     return by_leaf
 
 
+def build_folio_to_leaf_map(cohorts_dir: Path) -> Dict[str, int]:
+    """Builds an exact empirical folio->leaf mapping from === LEAF pN === and page headers in Cohorts/*.md."""
+    folio_map: Dict[str, int] = {}
+    if not cohorts_dir.is_dir():
+        return folio_map
+    cohort_files = sorted(
+        list(cohorts_dir.glob("*.md")),
+        key=lambda p: int(re.search(r"cohort(\d+)", p.name).group(1)) if re.search(r"cohort(\d+)", p.name) else 999
+    )
+    for cf in cohort_files:
+        curr_leaf = 1
+        for raw_ln in cf.read_text(encoding="utf-8-sig").splitlines():
+            ln = raw_ln.strip()
+            m_lf = re.match(r"^===\s*LEAF\s+p?(\d+)\s*===$", ln, re.IGNORECASE)
+            if m_lf:
+                curr_leaf = int(m_lf.group(1))
+                continue
+            m_pg = RE_PAGE_HEADER.match(ln)
+            if m_pg:
+                f_str = (m_pg.group(2) or "").strip().lower()
+                if not f_str and m_pg.group(3):
+                    mf_desc = re.search(r"(?:Fol\.?|Folio)\s*([0-9]+[rv])", m_pg.group(3), re.IGNORECASE)
+                    if mf_desc:
+                        f_str = mf_desc.group(1).strip().lower()
+                if f_str:
+                    folio_map[f_str] = curr_leaf
+    return folio_map
+
+
 def extract_podoben_grid_data(monument_id: str = "1630_lviv_octoechos") -> Tuple[List[Dict[str, Any]], Dict[str, Any], Path, str]:
     ws_dir, monument_title = get_monument_context(monument_id)
     final_md_dir = ws_dir / "Final MD"
     source_dir = ws_dir / "Source Text"
+    cohorts_dir = ws_dir / "Cohorts"
 
     comp_file = final_md_dir / f"{monument_id}_complete.md"
     if not comp_file.is_file():
@@ -80,13 +118,14 @@ def extract_podoben_grid_data(monument_id: str = "1630_lviv_octoechos") -> Tuple
 
     registry = json.loads(REGISTRY_FILE.read_text(encoding="utf-8"))
     pod_catalog = {p["id"]: p for p in registry.get("podoben_models", [])}
+    folio_to_leaf_map = build_folio_to_leaf_map(cohorts_dir)
 
     # Collect source lines by physical leaf
     source_leaves: Dict[int, List[str]] = {}
-    for sf in sorted(source_dir.glob("*_source.txt"), key=lambda p: int(re.search(r"cohort(\d+)", p.name).group(1)) if re.search(r"cohort(\d+)", p.name) else 0):
-        source_leaves.update(parse_by_leaf(sf.read_text(encoding="utf-8")))
+    for sf in sorted(source_dir.glob("*source.txt"), key=lambda p: int(re.search(r"cohort(\d+)", p.name).group(1)) if re.search(r"cohort(\d+)", p.name) else 0):
+        source_leaves.update(parse_by_leaf(sf.read_text(encoding="utf-8-sig")))
 
-    lines = comp_file.read_text(encoding="utf-8").splitlines()
+    lines = comp_file.read_text(encoding="utf-8-sig").splitlines()
 
     invocations: List[Dict[str, Any]] = []
     curr_tone = 1
@@ -96,25 +135,37 @@ def extract_podoben_grid_data(monument_id: str = "1630_lviv_octoechos") -> Tuple
     curr_leaf = 1
     seen_slav_idx_by_leaf: Dict[int, int] = {}
 
+    word_to_num = {
+        "one": 1, "two": 2, "three": 3, "four": 4,
+        "five": 5, "six": 6, "seven": 7, "eight": 8
+    }
+
     for idx, raw_line in enumerate(lines):
         ln = raw_line.strip()
         if not ln:
             continue
 
         # Track milestone
-        m_loc = re.search(r"\[(f\.\s*([0-9]+)[rv][AB]|p(\d+)[LR][AB])\]", ln)
+        m_loc = re.search(r"\[(f\.\s*([0-9]+[rv])[AB]?|p(\d+)[LR][AB]?)\]", ln)
         if m_loc:
             curr_locus = m_loc.group(1)
             if m_loc.group(3):
                 curr_leaf = int(m_loc.group(3))
             elif m_loc.group(2):
-                curr_leaf = min(300, int(m_loc.group(2)) + 6)
+                f_key = m_loc.group(2).strip().lower()
+                if f_key in folio_to_leaf_map:
+                    curr_leaf = folio_to_leaf_map[f_key]
+                else:
+                    f_num_only = int(re.sub(r"[^0-9]", "", f_key))
+                    curr_leaf = min(300, f_num_only + 6)
 
-        # Track Tone
-        m_t = re.search(r"^#\s*TONE\s+(\d+)\b", ln, re.IGNORECASE)
+        # Track Tone from major headings or rubrics
+        m_t = re.search(r"\bTONE\s+(\d+|ONE|TWO|THREE|FOUR|FIVE|SIX|SEVEN|EIGHT)\b", ln, re.IGNORECASE)
         if m_t:
-            curr_tone = int(m_t.group(1))
-            continue
+            t_val = m_t.group(1).lower()
+            curr_tone = word_to_num.get(t_val, int(t_val) if t_val.isdigit() else curr_tone)
+            if re.match(r"^#\s*TONE\b", ln, re.IGNORECASE):
+                continue
 
         # Track Major Office
         m_off = re.search(r"^##\s*(.+)$", ln)
@@ -135,33 +186,47 @@ def extract_podoben_grid_data(monument_id: str = "1630_lviv_octoechos") -> Tuple
             for look in range(idx + 1, min(idx + 5, len(lines))):
                 nxt = lines[look].strip()
                 if nxt and not nxt.startswith("#") and not nxt.startswith("*Podoben:") and not nxt.startswith("*Verse:") and nxt != "---":
-                    clean_hymn = re.sub(r"^\[(?:f\.\s*[^\]]+|p\d+[LR][AB])\]\s*", "", nxt).strip().strip('"\'“”')
+                    clean_hymn = re.sub(r"^\[(?:f\.\s*[^\]]+|p\d+[LR][AB]?)\]\s*", "", nxt).strip().strip('"\'“”')
                     governed_hymn = " ".join(clean_hymn.split()[:10]) + ("..." if len(clean_hymn.split()) > 10 else "")
                     break
 
-            # Find matching Slavonic witness on curr_leaf
-            s_lns = source_leaves.get(curr_leaf, [])
-            s_pods: List[str] = []
-            for sl_idx, sl in enumerate(s_lns):
-                sl_no_diac = DIACRITICS_RE.sub("", sl)
-                ms = SLAV_POD_RE.search(sl) or SLAV_POD_RE.search(sl_no_diac)
-                if ms:
-                    colon_parts = re.split(r"(?:По[^\s:]*|Гла́мо(?:\s*\[Подобен\])?)\s*:\s*", sl, maxsplit=1, flags=re.IGNORECASE)
-                    rest = colon_parts[1].strip() if len(colon_parts) > 1 else ""
-                    if not rest and sl_idx + 1 < len(s_lns):
-                        rest = s_lns[sl_idx + 1].strip()
-                    if rest:
-                        s_pods.append(rest.rstrip(".:"))
+            # Find matching Slavonic witness on curr_leaf or directly from leaf-verified parenthetical citation
+            m_paren_cyr = re.search(r"\(([^)]*[\u0400-\u04ff][^)]*)\)\s*:?\*?(?:\s*\[\^\d+\])?\s*$", ln)
+            if m_paren_cyr:
+                slav_witness = m_paren_cyr.group(1).strip()
+            else:
+                s_lns = source_leaves.get(curr_leaf, [])
+                s_pods: List[str] = []
+                for sl_idx, sl in enumerate(s_lns):
+                    sl_no_diac = DIACRITICS_RE.sub("", sl)
+                    ms = SLAV_POD_RE.search(sl) or SLAV_POD_RE.search(sl_no_diac)
+                    if ms:
+                        colon_parts = re.split(r"(?:По[^\s:,]*|Гла́мо(?:\s*\[Подобен\])?)(?:\s*:\s*|\s*,\s+|\.\s+)", sl, maxsplit=1, flags=re.IGNORECASE)
+                        rest = colon_parts[1].strip() if len(colon_parts) > 1 else ""
+                        if not rest and sl_idx + 1 < len(s_lns):
+                            rest = s_lns[sl_idx + 1].strip()
+                        if rest:
+                            s_pods.append(rest.rstrip(".:"))
+                    else:
+                        m_unlbl = SLAV_UNLABELED_POD_RE.search(sl) or SLAV_UNLABELED_POD_RE.search(sl_no_diac)
+                        if m_unlbl:
+                            cand_inc = m_unlbl.group(1).strip().rstrip(".:*")
+                            if cand_inc:
+                                s_pods.append(f"[Подо́бенъ:] {cand_inc}")
 
-            cur_s_idx = seen_slav_idx_by_leaf.get(curr_leaf, 0)
-            slav_witness = s_pods[cur_s_idx] if cur_s_idx < len(s_pods) else (s_pods[-1] if s_pods else "то́йже")
-            seen_slav_idx_by_leaf[curr_leaf] = cur_s_idx + 1
+                cur_s_idx = seen_slav_idx_by_leaf.get(curr_leaf, 0)
+                slav_witness = s_pods[cur_s_idx] if cur_s_idx < len(s_pods) else (s_pods[-1] if s_pods else "то́йже")
+                seen_slav_idx_by_leaf[curr_leaf] = cur_s_idx + 1
 
-            # Match model ID
+            # Match model ID (prioritizing curr_tone)
             model_id = f"POD.T{curr_tone}.UNKNOWN"
             model_title = "The same"
             greek_automelon = "—"
-            for m_cand_id, m_cand in pod_catalog.items():
+            ordered_cands = (
+                [(cid, c) for cid, c in pod_catalog.items() if c.get("tone") == curr_tone]
+                + [(cid, c) for cid, c in pod_catalog.items() if c.get("tone") != curr_tone]
+            )
+            for m_cand_id, m_cand in ordered_cands:
                 if f'"{m_cand["english_canonical"]}"' in ln:
                     model_id = m_cand_id
                     model_title = m_cand["english_canonical"]

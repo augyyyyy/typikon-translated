@@ -1,7 +1,11 @@
 {
   "monument_id": "1630_lviv_octoechos",
-  "total_stitches": 475,
-  "total_drift_records": 269,
+  "title": "Lviv Printed Octoechos (Lviv Stauropegion, 1630)",
+  "publication_year": "1630",
+  "total_physical_pages": 267,
+  "total_stitches": 466,
+  "seam_overlaps_deduplicated": 79,
+  "total_drift_records": 349,
   "events": [
     {
       "type": "PSALM_VERSE_NORMALIZED",
@@ -33,8 +37,8 @@
       "locus": "C01:p8",
       "lxx_ref": "Ps. 92:5",
       "slavonic_source": "До́мꙋ твоемꙋ̀ подоба́етъ святы́ня Го́споди, въ долготꙋ̀ дні́й",
-      "raw_english": "Holiness becometh Thine house, O Lord, unto length of days.",
-      "canonical_english": "*Verse: Holiness becometh Thine house, O Lord, unto length of days.*",
+      "raw_english": "Holiness becomes Thine house, O Lord, unto length of days.",
+      "canonical_english": "*Verse: Holiness becomes Thine house, O Lord, unto length of days.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
       "greek": "τῷ οἴκῳ σου πρέπει ἁγίασμα, Κύριε, εἰς μακρότητα ἡμερῶν",
       "is_ai_drift": false
@@ -47,6 +51,19 @@
       "greek_incipit": "Τοῦ λίθου σφραγισθέντος",
       "slavonic_source": "Камени запечат",
       "slavonic_canonical": "Ка́мени запеча́танꙋ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.5,
+      "drift_info": {
+        "similarity": 0.5,
+        "tokens_only_in_a": [
+          "запечат"
+        ],
+        "tokens_only_in_b": [
+          "запечатану"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 50.0%)"
+      },
       "raw_cohort_english": "Model: When the stone had been sealed",
       "canonical_english": "When the stone had been sealed",
       "is_ai_drift": true
@@ -59,6 +76,19 @@
       "greek_incipit": "Τὸν τάφον σου Σωτήρ",
       "slavonic_source": "Гробъ твои Сп̃се",
       "slavonic_canonical": "Гро́бъ тво́й Сп҃се",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.667,
+      "drift_info": {
+        "similarity": 0.667,
+        "tokens_only_in_a": [
+          "твои"
+        ],
+        "tokens_only_in_b": [
+          "твой"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 66.7%)"
+      },
       "raw_cohort_english": "Model: While the soldiers were guarding Thy tomb",
       "canonical_english": "While the soldiers were guarding Thy tomb",
       "is_ai_drift": true
@@ -71,6 +101,19 @@
       "greek_incipit": "Ὅταν ἔλθῃς ὁ Θεός",
       "slavonic_source": "Егда прїидеши",
       "slavonic_canonical": "Е҆гда̀ прі́йдеши",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.5,
+      "drift_info": {
+        "similarity": 0.5,
+        "tokens_only_in_a": [
+          "приидеши"
+        ],
+        "tokens_only_in_b": [
+          "прийдеши"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 50.0%)"
+      },
       "raw_cohort_english": "Model: When Thou shalt come",
       "canonical_english": "When Thou shalt come",
       "is_ai_drift": true
@@ -105,8 +148,21 @@
       "locus": "C02:p12",
       "tone": 1,
       "greek_incipit": "Πανεύφημοι μάρτυρες",
-      "slavonic_source": "Прехва́льніи мꙋ́ченицы",
+      "slavonic_source": "Прехвальніи мч̃нци",
       "slavonic_canonical": "Прехва́льніи мꙋ́ченицы",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.5,
+      "drift_info": {
+        "similarity": 0.5,
+        "tokens_only_in_a": [
+          "мчнци"
+        ],
+        "tokens_only_in_b": [
+          "мученици"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 50.0%)"
+      },
       "raw_cohort_english": "Model: O all-lauded martyrs",
       "canonical_english": "O all-lauded martyrs",
       "is_ai_drift": true
@@ -118,7 +174,8 @@
       "tone": 1,
       "slavonic_source": "то́йже",
       "raw_cohort_english": "*Other Stichera to the Bodiless Powers, the same Tone and Model.*",
-      "canonical_english": "The same (то́йже)",
+      "canonical_english": "The same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже)",
+      "drift_tier": "TIER_0_EXACT",
       "is_ai_drift": true
     },
     {
@@ -151,8 +208,21 @@
       "locus": "C02:p16",
       "tone": 1,
       "greek_incipit": "Πανεύφημοι μάρτυρες",
-      "slavonic_source": "Прехва́льніи мꙋ́ченицы",
+      "slavonic_source": "Прехвальніи мч̃нци",
       "slavonic_canonical": "Прехва́льніи мꙋ́ченицы",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.5,
+      "drift_info": {
+        "similarity": 0.5,
+        "tokens_only_in_a": [
+          "мчнци"
+        ],
+        "tokens_only_in_b": [
+          "мученици"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 50.0%)"
+      },
       "raw_cohort_english": "Model: O all-lauded martyrs",
       "canonical_english": "O all-lauded martyrs",
       "is_ai_drift": true
@@ -165,6 +235,7 @@
       "slavonic_source": "то́йже",
       "raw_cohort_english": "*Other Stichera to the Forerunner. The same Model:*",
       "canonical_english": "The same (то́йже)",
+      "drift_tier": "TIER_0_EXACT",
       "is_ai_drift": true
     },
     {
@@ -175,6 +246,19 @@
       "greek_incipit": "Τὸν τάφον σου Σωτήρ",
       "slavonic_source": "Гробъ твои Сп̃се",
       "slavonic_canonical": "Гро́бъ тво́й Сп҃се",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.667,
+      "drift_info": {
+        "similarity": 0.667,
+        "tokens_only_in_a": [
+          "твои"
+        ],
+        "tokens_only_in_b": [
+          "твой"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 66.7%)"
+      },
       "raw_cohort_english": "Model: While the soldiers were guarding Thy tomb",
       "canonical_english": "While the soldiers were guarding Thy tomb",
       "is_ai_drift": true
@@ -185,8 +269,21 @@
       "locus": "C03:p21",
       "tone": 1,
       "greek_incipit": "Πανεύφημοι μάρτυρες",
-      "slavonic_source": "Прехва́льніи мꙋ́ченицы",
+      "slavonic_source": "Прехвальніи мчнци",
       "slavonic_canonical": "Прехва́льніи мꙋ́ченицы",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.5,
+      "drift_info": {
+        "similarity": 0.5,
+        "tokens_only_in_a": [
+          "мчнци"
+        ],
+        "tokens_only_in_b": [
+          "мученици"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 50.0%)"
+      },
       "raw_cohort_english": "Model: O all-lauded martyrs",
       "canonical_english": "O all-lauded martyrs",
       "is_ai_drift": true
@@ -197,8 +294,23 @@
       "locus": "C03:p21",
       "tone": 1,
       "greek_incipit": "Τῶν οὐρανίων ταγμάτων",
-      "slavonic_source": "Небе́сныхъ чинѡ́въ",
+      "slavonic_source": "Небнымъ чиномъ",
       "slavonic_canonical": "Небе́сныхъ чинѡ́въ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.0,
+      "drift_info": {
+        "similarity": 0.0,
+        "tokens_only_in_a": [
+          "небним",
+          "чином"
+        ],
+        "tokens_only_in_b": [
+          "небесних",
+          "чинов"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 0.0%)"
+      },
       "raw_cohort_english": "Model: Of the heavenly ranks",
       "canonical_english": "Joy of the heavenly ranks",
       "is_ai_drift": true
@@ -211,6 +323,19 @@
       "greek_incipit": "Τὸν τάφον σου Σωτήρ",
       "slavonic_source": "Гробъ твои Сп҃се",
       "slavonic_canonical": "Гро́бъ тво́й Сп҃се",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.667,
+      "drift_info": {
+        "similarity": 0.667,
+        "tokens_only_in_a": [
+          "твои"
+        ],
+        "tokens_only_in_b": [
+          "твой"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 66.7%)"
+      },
       "raw_cohort_english": "Model: Thy tomb, O Savior",
       "canonical_english": "While the soldiers were guarding Thy tomb",
       "is_ai_drift": true
@@ -221,8 +346,21 @@
       "locus": "C03:p25",
       "tone": 1,
       "greek_incipit": "Πανεύφημοι μάρτυρες",
-      "slavonic_source": "Прехва́льніи мꙋ́ченицы",
+      "slavonic_source": "Прехвальніи мꙋнци",
       "slavonic_canonical": "Прехва́льніи мꙋ́ченицы",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.5,
+      "drift_info": {
+        "similarity": 0.5,
+        "tokens_only_in_a": [
+          "мунци"
+        ],
+        "tokens_only_in_b": [
+          "мученици"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 50.0%)"
+      },
       "raw_cohort_english": "Model: O all-lauded martyrs",
       "canonical_english": "O all-lauded martyrs",
       "is_ai_drift": true
@@ -235,6 +373,12 @@
       "greek_incipit": "Τῶν οὐρανίων ταγμάτων",
       "slavonic_source": "Небе́сныхъ чинѡ́въ",
       "slavonic_canonical": "Небе́сныхъ чинѡ́въ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
       "raw_cohort_english": "Model: Of the heavenly ranks",
       "canonical_english": "Joy of the heavenly ranks",
       "is_ai_drift": true
@@ -245,8 +389,21 @@
       "locus": "C03:p29",
       "tone": 1,
       "greek_incipit": "Πανεύφημοι μάρτυρες",
-      "slavonic_source": "Прехва́льніи мꙋ́ченицы",
+      "slavonic_source": "Прехвальніи, мꙋнци",
       "slavonic_canonical": "Прехва́льніи мꙋ́ченицы",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.5,
+      "drift_info": {
+        "similarity": 0.5,
+        "tokens_only_in_a": [
+          "мунци"
+        ],
+        "tokens_only_in_b": [
+          "мученици"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 50.0%)"
+      },
       "raw_cohort_english": "Model: O all-lauded martyrs",
       "canonical_english": "O all-lauded martyrs",
       "is_ai_drift": true
@@ -259,6 +416,7 @@
       "slavonic_source": "то́йже",
       "raw_cohort_english": "*Other Stichera, Stavrotheotokia, Tone 1. Model: The same:*",
       "canonical_english": "The same (то́йже)",
+      "drift_tier": "TIER_0_EXACT",
       "is_ai_drift": true
     },
     {
@@ -267,8 +425,21 @@
       "locus": "C04:p32",
       "tone": 1,
       "greek_incipit": "Πανεύφημοι μάρτυρες",
-      "slavonic_source": "Прехва́льніи мꙋ́ченицы",
+      "slavonic_source": "Прехвальніи мꙋнцы",
       "slavonic_canonical": "Прехва́льніи мꙋ́ченицы",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.5,
+      "drift_info": {
+        "similarity": 0.5,
+        "tokens_only_in_a": [
+          "мунци"
+        ],
+        "tokens_only_in_b": [
+          "мученици"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 50.0%)"
+      },
       "raw_cohort_english": "Model: O all-lauded martyrs",
       "canonical_english": "O all-lauded martyrs",
       "is_ai_drift": true
@@ -279,8 +450,21 @@
       "locus": "C04:p33",
       "tone": 1,
       "greek_incipit": "Πανεύφημοι μάρτυρες",
-      "slavonic_source": "Прехва́льніи мꙋ́ченицы",
+      "slavonic_source": "Прехвальніи мꙋнци",
       "slavonic_canonical": "Прехва́льніи мꙋ́ченицы",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.5,
+      "drift_info": {
+        "similarity": 0.5,
+        "tokens_only_in_a": [
+          "мунци"
+        ],
+        "tokens_only_in_b": [
+          "мученици"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 50.0%)"
+      },
       "raw_cohort_english": "Model: O all-lauded martyrs",
       "canonical_english": "O all-lauded martyrs",
       "is_ai_drift": true
@@ -361,6 +545,19 @@
       "greek_incipit": "Ὅτε ἐκ τοῦ ξύλου",
       "slavonic_source": "Егда́ ѡ҆ дре́ва",
       "slavonic_canonical": "Е҆гда̀ ѿ дре́ва",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.667,
+      "drift_info": {
+        "similarity": 0.667,
+        "tokens_only_in_a": [
+          "о"
+        ],
+        "tokens_only_in_b": [
+          "от"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 66.7%)"
+      },
       "raw_cohort_english": "Model: When from the Tree",
       "canonical_english": "When from the Tree",
       "is_ai_drift": true
@@ -415,8 +612,21 @@
       "locus": "C04:p38",
       "tone": 1,
       "greek_incipit": "Πανεύφημοι μάρτυρες",
-      "slavonic_source": "Прехва́льніи мꙋ́ченицы",
+      "slavonic_source": "Прехвальніи мꙋнцы",
       "slavonic_canonical": "Прехва́льніи мꙋ́ченицы",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.5,
+      "drift_info": {
+        "similarity": 0.5,
+        "tokens_only_in_a": [
+          "мунци"
+        ],
+        "tokens_only_in_b": [
+          "мученици"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 50.0%)"
+      },
       "raw_cohort_english": "Model: O all-lauded martyrs",
       "canonical_english": "O all-lauded martyrs",
       "is_ai_drift": true
@@ -462,7 +672,7 @@
       "id": "PRIM.VERSE.PS92_1B",
       "locus": "C04:p39",
       "lxx_ref": "Ps. 92:1b",
-      "slavonic_source": "И҆́бо оу҆твердѝ вселе́ннꙋю, я҆́же не подви́жится",
+      "slavonic_source": "И҆́бо оу҆тверди́ вселе́ннꙋю, я́же не подви́жится.",
       "raw_english": "For He hath established the world which shall not be moved.",
       "canonical_english": "*Verse: For He hath established the world, so that it cannot be moved.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
@@ -474,7 +684,7 @@
       "id": "PRIM.VERSE.PS92_5",
       "locus": "C04:p39",
       "lxx_ref": "Ps. 92:5",
-      "raw_english": "Holiness becometh Thy house, O Lord, unto length of days.",
+      "raw_english": "Holiness becomes Thy house, O Lord, unto length of days.",
       "slavonic_source": "До́мꙋ твоемꙋ подоба́етъ ст҃ыни Гд̃и въ долготꙋ дн̃іи.",
       "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
       "info": {
@@ -497,8 +707,15 @@
       "locus": "C04:p39",
       "tone": 2,
       "greek_incipit": "Τὰ ἄνω ζητῶν",
-      "slavonic_source": "Вы́шнихъ и҆щѧ̀",
+      "slavonic_source": "Вы́шнихъ и҆щѧ",
       "slavonic_canonical": "Вы́шнихъ и҆щѧ̀",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
+      "drift_similarity": 0.98,
+      "drift_info": {
+        "t1": "вышнихъ ищѧ",
+        "details": "Accents, titla, or contractions variance"
+      },
       "raw_cohort_english": "Model: Seeking the highest",
       "canonical_english": "Seeking the highest",
       "is_ai_drift": true
@@ -509,62 +726,42 @@
       "locus": "C04:p40",
       "tone": 2,
       "greek_incipit": "Τὰ ἄνω ζητῶν",
-      "slavonic_source": "Вы́шнихъ и҆щѧ̀",
+      "slavonic_source": "Вы́шнихъ и҆щѧ",
       "slavonic_canonical": "Вы́шнихъ и҆щѧ̀",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
+      "drift_similarity": 0.98,
+      "drift_info": {
+        "t1": "вышнихъ ищѧ",
+        "details": "Accents, titla, or contractions variance"
+      },
       "raw_cohort_english": "Model: Seeking the highest",
       "canonical_english": "Seeking the highest",
       "is_ai_drift": true
     },
     {
-      "type": "PSALM_VERSE_TIER3_SOURCE_VARIANT",
+      "type": "PSALM_VERSE_NORMALIZED",
       "id": "PRIM.VERSE.PS9_33",
       "locus": "C05:p43",
       "lxx_ref": "Ps. 9:33",
-      "raw_english": "Arise, O Lord my God, let Thy hand be lifted up.",
       "slavonic_source": "Воскресни Гди Бже мой,",
-      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
-      "info": {
-        "similarity": 0.444,
-        "tokens_only_in_a": [],
-        "tokens_only_in_b": [
-          "да",
-          "вознесется",
-          "рука",
-          "твоя",
-          "не",
-          "забуди",
-          "оубогих",
-          "твоих",
-          "до",
-          "конца"
-        ],
-        "details": "Lexical/syntactic variation (token similarity: 44.4%)"
-      },
-      "is_ai_drift": false
+      "raw_english": "Arise, O Lord my God, let Thy hand be lifted up.",
+      "canonical_english": "*Verse: Arise, O Lord my God, let Thy hand be lifted up; forget not Thy poor unto the end.*",
+      "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
+      "greek": "ἀνάστηθι, Κύριε ὁ Θεός μου, ὑψωθήτω ἡ χείρ σου, μὴ ἐπιλάθῃ τῶν πενήτων σου εἰς τέλος",
+      "is_ai_drift": true
     },
     {
-      "type": "PSALM_VERSE_TIER3_SOURCE_VARIANT",
+      "type": "PSALM_VERSE_NORMALIZED",
       "id": "PRIM.VERSE.PS9_2",
       "locus": "C05:p43",
       "lxx_ref": "Ps. 9:2",
-      "raw_english": "I will praise Thee, O Lord, with my whole heart.",
       "slavonic_source": "Исповѣмся тебѣ Гди",
-      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
-      "info": {
-        "similarity": 0.462,
-        "tokens_only_in_a": [],
-        "tokens_only_in_b": [
-          "всем",
-          "сердцем",
-          "моим",
-          "повем",
-          "вся",
-          "чудеса",
-          "твоя"
-        ],
-        "details": "Lexical/syntactic variation (token similarity: 46.2%)"
-      },
-      "is_ai_drift": false
+      "raw_english": "I will praise Thee, O Lord, with my whole heart.",
+      "canonical_english": "*Verse: I will give thanks unto Thee, O Lord, with my whole heart; I will speak of all Thy marvelous works.*",
+      "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
+      "greek": "Ἐξομολογήσομαί σοι, Κύριε, ἐν ὅλῃ καρδίᾳ μου, διηγήσομαι πάντα τὰ θαυμάσιά σου",
+      "is_ai_drift": true
     },
     {
       "type": "PODOBEN_NORMALIZED",
@@ -574,6 +771,19 @@
       "greek_incipit": "Ὅτε ἐκ τοῦ ξύλου",
       "slavonic_source": "Егда ѡ древа",
       "slavonic_canonical": "Е҆гда̀ ѿ дре́ва",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.667,
+      "drift_info": {
+        "similarity": 0.667,
+        "tokens_only_in_a": [
+          "о"
+        ],
+        "tokens_only_in_b": [
+          "от"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 66.7%)"
+      },
       "raw_cohort_english": "Podoben: When from the Tree",
       "canonical_english": "When from the Tree",
       "is_ai_drift": false
@@ -585,7 +795,8 @@
       "tone": 2,
       "slavonic_source": "то́йже",
       "raw_cohort_english": "*Tone and Podoben: The same.*",
-      "canonical_english": "The same (то́йже)",
+      "canonical_english": "The same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже)",
+      "drift_tier": "TIER_0_EXACT",
       "is_ai_drift": false
     },
     {
@@ -596,6 +807,21 @@
       "greek_incipit": "Εὐσπλαγχνίας ὑπάρχουσα πηγή",
       "slavonic_source": "Милосердіа сꙋщи исто",
       "slavonic_canonical": "Милосе́рдія сꙋ́щи и҆сто́чникъ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.333,
+      "drift_info": {
+        "similarity": 0.333,
+        "tokens_only_in_a": [
+          "милосердиа",
+          "исто"
+        ],
+        "tokens_only_in_b": [
+          "милосердия",
+          "источник"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 33.3%)"
+      },
       "raw_cohort_english": "Podoben: Being the Wellspring of loving-kindness",
       "canonical_english": "Being the wellspring of loving-kindness",
       "is_ai_drift": false
@@ -608,6 +834,19 @@
       "greek_incipit": "Ὅτε ἐκ τοῦ ξύλου",
       "slavonic_source": "[Егда ѡ древа:]",
       "slavonic_canonical": "Е҆гда̀ ѿ дре́ва",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.667,
+      "drift_info": {
+        "similarity": 0.667,
+        "tokens_only_in_a": [
+          "о"
+        ],
+        "tokens_only_in_b": [
+          "от"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 66.7%)"
+      },
       "raw_cohort_english": "Podoben: When from the Tree",
       "canonical_english": "When from the Tree",
       "is_ai_drift": false
@@ -619,7 +858,8 @@
       "tone": 2,
       "slavonic_source": "то́йже",
       "raw_cohort_english": "*Tone and Podoben: The same.*",
-      "canonical_english": "The same (то́йже)",
+      "canonical_english": "The same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже)",
+      "drift_tier": "TIER_0_EXACT",
       "is_ai_drift": false
     },
     {
@@ -630,6 +870,21 @@
       "greek_incipit": "Εὐσπλαγχνίας ὑπάρχουσα πηγή",
       "slavonic_source": "Милосердіа сꙋщи исто",
       "slavonic_canonical": "Милосе́рдія сꙋ́щи и҆сто́чникъ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.333,
+      "drift_info": {
+        "similarity": 0.333,
+        "tokens_only_in_a": [
+          "милосердиа",
+          "исто"
+        ],
+        "tokens_only_in_b": [
+          "милосердия",
+          "источник"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 33.3%)"
+      },
       "raw_cohort_english": "Podoben: Being the Wellspring of loving-kindness",
       "canonical_english": "Being the wellspring of loving-kindness",
       "is_ai_drift": false
@@ -664,6 +919,13 @@
       "greek_incipit": "Ὅτε ἐκ τοῦ ξύλου",
       "slavonic_source": "Егда́ ѿ дре́ва",
       "slavonic_canonical": "Е҆гда̀ ѿ дре́ва",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
+      "drift_similarity": 0.98,
+      "drift_info": {
+        "t1": "егда ѿ древа",
+        "details": "Accents, titla, or contractions variance"
+      },
       "raw_cohort_english": "Podoben: When from the Tree",
       "canonical_english": "When from the Tree",
       "is_ai_drift": false
@@ -675,7 +937,8 @@
       "tone": 2,
       "slavonic_source": "то́йже",
       "raw_cohort_english": "*Other Stichera to the Most Holy Theotokos. Tone and Podoben the same:*",
-      "canonical_english": "The same (то́йже)",
+      "canonical_english": "The same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже)",
+      "drift_tier": "TIER_0_EXACT",
       "is_ai_drift": false
     },
     {
@@ -686,6 +949,14 @@
       "greek_incipit": "Εὐσπλαγχνίας ὑπάρχουσα πηγή",
       "slavonic_source": "Милосе́рдїа сꙋ́щи",
       "slavonic_canonical": "Милосе́рдія сꙋ́щи и҆сто́чникъ",
+      "scribal_omitted_label": false,
+      "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
+      "drift_similarity": 0.9,
+      "drift_info": {
+        "t2_source": "милосердиа сущи",
+        "t2_canonical": "милосердия сущи источник",
+        "details": "Scribal incipit truncation (2 vs 3 words)"
+      },
       "raw_cohort_english": "Model: Being full of compassion",
       "canonical_english": "Being the wellspring of loving-kindness",
       "is_ai_drift": true
@@ -698,6 +969,14 @@
       "greek_incipit": "Εὐσπλαγχνίας ὑπάρχουσα πηγή",
       "slavonic_source": "Милосе́рдїа сꙋ́щи",
       "slavonic_canonical": "Милосе́рдія сꙋ́щи и҆сто́чникъ",
+      "scribal_omitted_label": false,
+      "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
+      "drift_similarity": 0.9,
+      "drift_info": {
+        "t2_source": "милосердиа сущи",
+        "t2_canonical": "милосердия сущи источник",
+        "details": "Scribal incipit truncation (2 vs 3 words)"
+      },
       "raw_cohort_english": "Model: Being full of compassion",
       "canonical_english": "Being the wellspring of loving-kindness",
       "is_ai_drift": true
@@ -710,6 +989,13 @@
       "greek_incipit": "Ὅτε ἐκ τοῦ ξύλου",
       "slavonic_source": "Егда́ ѿ дрѣ́ва",
       "slavonic_canonical": "Е҆гда̀ ѿ дре́ва",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_2_ORTHOGRAPHIC_PHONOLOGICAL",
+      "drift_similarity": 0.92,
+      "drift_info": {
+        "t2": "егда от древа",
+        "details": "Ruthenian spelling / phonological reflex variance"
+      },
       "raw_cohort_english": "Model: When from the Tree",
       "canonical_english": "When from the Tree",
       "is_ai_drift": true
@@ -722,6 +1008,13 @@
       "greek_incipit": "Ὅτε ἐκ τοῦ ξύλου",
       "slavonic_source": "Егда́ ѿ дрѣ́ва",
       "slavonic_canonical": "Е҆гда̀ ѿ дре́ва",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_2_ORTHOGRAPHIC_PHONOLOGICAL",
+      "drift_similarity": 0.92,
+      "drift_info": {
+        "t2": "егда от древа",
+        "details": "Ruthenian spelling / phonological reflex variance"
+      },
       "raw_cohort_english": "Podoben: When from the Tree",
       "canonical_english": "When from the Tree",
       "is_ai_drift": false
@@ -733,7 +1026,8 @@
       "tone": 2,
       "slavonic_source": "то́йже",
       "raw_cohort_english": "*Other Stichera to Saint Nicholas. Tone and Podoben the same:*",
-      "canonical_english": "The same (то́йже)",
+      "canonical_english": "The same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже)",
+      "drift_tier": "TIER_0_EXACT",
       "is_ai_drift": false
     },
     {
@@ -742,8 +1036,27 @@
       "locus": "C06:p57",
       "tone": 2,
       "greek_incipit": "Εὐσπλαγχνίας ὑπάρχουσα πηγή",
-      "slavonic_source": "Милосе́рдїа сꙋ́щи",
+      "slavonic_source": "г҃. стїхолосїи: Гла́с, в҃. По: Милосе́рдїа сꙋ́щи",
       "slavonic_canonical": "Милосе́рдія сꙋ́щи и҆сто́чникъ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.2,
+      "drift_info": {
+        "similarity": 0.2,
+        "tokens_only_in_a": [
+          "г",
+          "стихолосии",
+          "глас",
+          "в",
+          "по",
+          "милосердиа"
+        ],
+        "tokens_only_in_b": [
+          "милосердия",
+          "источник"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 20.0%)"
+      },
       "raw_cohort_english": "Model: Being full of compassion",
       "canonical_english": "Being the wellspring of loving-kindness",
       "is_ai_drift": true
@@ -756,6 +1069,13 @@
       "greek_incipit": "Ὅτε ἐκ τοῦ ξύλου",
       "slavonic_source": "Егда́ ѿ дрѣ́ва",
       "slavonic_canonical": "Е҆гда̀ ѿ дре́ва",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_2_ORTHOGRAPHIC_PHONOLOGICAL",
+      "drift_similarity": 0.92,
+      "drift_info": {
+        "t2": "егда от древа",
+        "details": "Ruthenian spelling / phonological reflex variance"
+      },
       "raw_cohort_english": "Podoben: When from the Tree",
       "canonical_english": "When from the Tree",
       "is_ai_drift": false
@@ -767,7 +1087,8 @@
       "tone": 2,
       "slavonic_source": "то́йже",
       "raw_cohort_english": "*Tone and Podoben the same:*",
-      "canonical_english": "The same (то́йже)",
+      "canonical_english": "The same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже)",
+      "drift_tier": "TIER_0_EXACT",
       "is_ai_drift": false
     },
     {
@@ -778,6 +1099,17 @@
       "greek_incipit": "Ὅτε ἐκ τοῦ ξύλου",
       "slavonic_source": "Егда́ ѿ дре́ва та",
       "slavonic_canonical": "Е҆гда̀ ѿ дре́ва",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.857,
+      "drift_info": {
+        "similarity": 0.857,
+        "tokens_only_in_a": [
+          "та"
+        ],
+        "tokens_only_in_b": [],
+        "details": "Lexical/syntactic variation (token similarity: 85.7%)"
+      },
       "raw_cohort_english": "Podoben: When from the Tree",
       "canonical_english": "When from the Tree",
       "is_ai_drift": false
@@ -790,6 +1122,13 @@
       "greek_incipit": "Ὅτε ἐκ τοῦ ξύλου",
       "slavonic_source": "Егда́ ѿ дре́ва",
       "slavonic_canonical": "Е҆гда̀ ѿ дре́ва",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
+      "drift_similarity": 0.98,
+      "drift_info": {
+        "t1": "егда ѿ древа",
+        "details": "Accents, titla, or contractions variance"
+      },
       "raw_cohort_english": "Podoben: When from the Tree",
       "canonical_english": "When from the Tree",
       "is_ai_drift": false
@@ -802,6 +1141,13 @@
       "greek_incipit": "Ὅτε ἐκ τοῦ ξύλου",
       "slavonic_source": "Егда́ ѿ дре́ва",
       "slavonic_canonical": "Е҆гда̀ ѿ дре́ва",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
+      "drift_similarity": 0.98,
+      "drift_info": {
+        "t1": "егда ѿ древа",
+        "details": "Accents, titla, or contractions variance"
+      },
       "raw_cohort_english": "Podoben: When from the Tree",
       "canonical_english": "When from the Tree",
       "is_ai_drift": false
@@ -813,7 +1159,8 @@
       "tone": 2,
       "slavonic_source": "то́йже",
       "raw_cohort_english": "*Other Stichera to the Martyrs. Tone and Podoben the same:*",
-      "canonical_english": "The same (то́йже)",
+      "canonical_english": "The same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже)",
+      "drift_tier": "TIER_0_EXACT",
       "is_ai_drift": false
     },
     {
@@ -832,9 +1179,10 @@
       "type": "POKOIN_ABBREV_CORRECTED",
       "locus": "C07:p65",
       "tone": 2,
-      "slavonic_source": "По[ко́инъ]:",
+      "slavonic_source": "Поко́инъ",
       "raw_cohort_english": "*Podoben:*",
-      "canonical_english": "*For the Departed [Поко́инъ]:*",
+      "canonical_english": "*Hymn for the Departed (Поко́инъ):*",
+      "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
       "is_ai_drift": true
     },
     {
@@ -857,6 +1205,17 @@
       "greek_incipit": "Ὅτε ἐκ τοῦ ξύλου",
       "slavonic_source": "Егда́ ѿ дре́ва та",
       "slavonic_canonical": "Е҆гда̀ ѿ дре́ва",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.857,
+      "drift_info": {
+        "similarity": 0.857,
+        "tokens_only_in_a": [
+          "та"
+        ],
+        "tokens_only_in_b": [],
+        "details": "Lexical/syntactic variation (token similarity: 85.7%)"
+      },
       "raw_cohort_english": "Podoben: When from the Tree",
       "canonical_english": "When from the Tree",
       "is_ai_drift": false
@@ -893,6 +1252,12 @@
       "greek_incipit": "Τὴν ὡραιότητα τῆς παρθενίας σου",
       "slavonic_source": "Красотѣ̀ дѣ́вства твоегѡ̀",
       "slavonic_canonical": "Красотѣ̀ дѣ́вства твоегѡ̀",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
       "raw_cohort_english": "Podoben: At the beauty of virginity",
       "canonical_english": "Beholding the beauty of thy virginity",
       "is_ai_drift": true
@@ -905,9 +1270,17 @@
       "greek_incipit": "Τὴν ὡραιότητα τῆς παρθενίας σου",
       "slavonic_source": "Красотѣ дѣвства",
       "slavonic_canonical": "Красотѣ̀ дѣ́вства твоегѡ̀",
+      "scribal_omitted_label": false,
+      "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
+      "drift_similarity": 0.9,
+      "drift_info": {
+        "t2_source": "красоте девства",
+        "t2_canonical": "красоте девства твоего",
+        "details": "Scribal incipit truncation (2 vs 3 words)"
+      },
       "raw_cohort_english": "Podoben: At the beauty of virginity",
       "canonical_english": "Beholding the beauty of thy virginity",
-      "is_ai_drift": true
+      "is_ai_drift": false
     },
     {
       "type": "PSALM_VERSE_NORMALIZED",
@@ -929,6 +1302,13 @@
       "greek_incipit": "Τὰ ἔργα τῆς ἡμέρας",
       "slavonic_source": "Дѣла дніа",
       "slavonic_canonical": "Дѣла̀ дні́а",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
+      "drift_similarity": 0.98,
+      "drift_info": {
+        "t1": "дѣла дніа",
+        "details": "Accents, titla, or contractions variance"
+      },
       "raw_cohort_english": "Podoben: The works of the day",
       "canonical_english": "The works of the day",
       "is_ai_drift": false
@@ -941,9 +1321,26 @@
       "greek_incipit": "Μεγάλη τῶν Μαρτύρων σου",
       "slavonic_source": "Веліа мчникъ твои",
       "slavonic_canonical": "Ве́лія мꙋ́ченикъ твои́хъ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.0,
+      "drift_info": {
+        "similarity": 0.0,
+        "tokens_only_in_a": [
+          "велиа",
+          "мчник",
+          "твои"
+        ],
+        "tokens_only_in_b": [
+          "велия",
+          "мученик",
+          "твоих"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 0.0%)"
+      },
       "raw_cohort_english": "Podoben: Great is the martyr",
       "canonical_english": "Great is the power of Thy martyrs",
-      "is_ai_drift": true
+      "is_ai_drift": false
     },
     {
       "type": "PODOBEN_NORMALIZED",
@@ -953,6 +1350,12 @@
       "greek_incipit": "Τὴν ὡραιότητα τῆς παρθενίας σου",
       "slavonic_source": "Красотѣ̀ дѣ́вства твоегѡ̀",
       "slavonic_canonical": "Красотѣ̀ дѣ́вства твоегѡ̀",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
       "raw_cohort_english": "Podoben: At the beauty of virginity",
       "canonical_english": "Beholding the beauty of thy virginity",
       "is_ai_drift": true
@@ -965,6 +1368,19 @@
       "greek_incipit": "Σταυροφανῶς Μωϋσῆς",
       "slavonic_source": "Кртаѡбразно",
       "slavonic_canonical": "Крⷭ҇тоѡбра́зно",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.0,
+      "drift_info": {
+        "similarity": 0.0,
+        "tokens_only_in_a": [
+          "кртаобразно"
+        ],
+        "tokens_only_in_b": [
+          "кртообразно"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 0.0%)"
+      },
       "raw_cohort_english": "Podoben: In the likeness of the Cross",
       "canonical_english": "In the likeness of the Cross",
       "is_ai_drift": false
@@ -975,10 +1391,43 @@
       "locus": "C09:p81",
       "tone": 3,
       "greek_incipit": "Θείας πίστεως",
-      "slavonic_source": "Бж҃е́ственныя вѣ́ры",
+      "slavonic_source": "Бжтвенныя вѣры",
       "slavonic_canonical": "Бж҃е́ственныя вѣ́ры",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.5,
+      "drift_info": {
+        "similarity": 0.5,
+        "tokens_only_in_a": [
+          "бжтвенния"
+        ],
+        "tokens_only_in_b": [
+          "бжественния"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 50.0%)"
+      },
       "raw_cohort_english": "Podoben: Of the divine faith",
       "canonical_english": "Of the divine faith",
+      "is_ai_drift": false
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T3.KRASOTE_DEVSTVA",
+      "locus": "C09:p81",
+      "tone": 3,
+      "greek_incipit": "Τὴν ὡραιότητα τῆς παρθενίας σου",
+      "slavonic_source": "Красотѣ дѣвтва",
+      "slavonic_canonical": "Красотѣ̀ дѣ́вства твоегѡ̀",
+      "scribal_omitted_label": false,
+      "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
+      "drift_similarity": 0.9,
+      "drift_info": {
+        "t2_source": "красоте девтва",
+        "t2_canonical": "красоте девства твоего",
+        "details": "Scribal incipit truncation (2 vs 3 words)"
+      },
+      "raw_cohort_english": "Podoben: The beauty of virginity",
+      "canonical_english": "Beholding the beauty of thy virginity",
       "is_ai_drift": false
     },
     {
@@ -989,6 +1438,23 @@
       "greek_incipit": "Μεγάλη τῶν Μαρτύρων σου",
       "slavonic_source": "Веліа мункъ твои",
       "slavonic_canonical": "Ве́лія мꙋ́ченикъ твои́хъ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.0,
+      "drift_info": {
+        "similarity": 0.0,
+        "tokens_only_in_a": [
+          "велиа",
+          "мунк",
+          "твои"
+        ],
+        "tokens_only_in_b": [
+          "велия",
+          "мученик",
+          "твоих"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 0.0%)"
+      },
       "raw_cohort_english": "Podoben: Great is the power of Thy Martyrs",
       "canonical_english": "Great is the power of Thy martyrs",
       "is_ai_drift": false
@@ -1001,6 +1467,12 @@
       "greek_incipit": "Τὴν ὡραιότητα τῆς παρθενίας σου",
       "slavonic_source": "Красотѣ̀ дѣ́вства твоегѡ̀",
       "slavonic_canonical": "Красотѣ̀ дѣ́вства твоегѡ̀",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
       "raw_cohort_english": "Podoben: The beauty of virginity",
       "canonical_english": "Beholding the beauty of thy virginity",
       "is_ai_drift": true
@@ -1013,6 +1485,14 @@
       "greek_incipit": "Μεγάλη τῶν Μαρτύρων σου",
       "slavonic_source": "Веліа мункъ",
       "slavonic_canonical": "Ве́лія мꙋ́ченикъ твои́хъ",
+      "scribal_omitted_label": false,
+      "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
+      "drift_similarity": 0.9,
+      "drift_info": {
+        "t2_source": "велиа мунк",
+        "t2_canonical": "велия мученик твоих",
+        "details": "Scribal incipit truncation (2 vs 3 words)"
+      },
       "raw_cohort_english": "Podoben: Great is the power of Thy Martyrs",
       "canonical_english": "Great is the power of Thy martyrs",
       "is_ai_drift": false
@@ -1025,6 +1505,7 @@
       "slavonic_source": "то́йже",
       "raw_cohort_english": "*Other Stichera to Saint Nicholas, Tone 3. Podoben: The same:*",
       "canonical_english": "The same (то́йже)",
+      "drift_tier": "TIER_0_EXACT",
       "is_ai_drift": false
     },
     {
@@ -1035,6 +1516,12 @@
       "greek_incipit": "Ἔστησαν τὰ τριάκοντα ἀργύρια",
       "slavonic_source": "Поста́виша три́десѧте",
       "slavonic_canonical": "Поста́виша три́десѧте",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
       "raw_cohort_english": "Model: They weighed thirty pieces of silver",
       "canonical_english": "They weighed thirty pieces of silver",
       "is_ai_drift": true
@@ -1047,6 +1534,21 @@
       "greek_incipit": "Μεγάλη τῶν Μαρτύρων σου",
       "slavonic_source": "Веліа му́никъ твоихъ",
       "slavonic_canonical": "Ве́лія мꙋ́ченикъ твои́хъ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.333,
+      "drift_info": {
+        "similarity": 0.333,
+        "tokens_only_in_a": [
+          "велиа",
+          "муник"
+        ],
+        "tokens_only_in_b": [
+          "велия",
+          "мученик"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 33.3%)"
+      },
       "raw_cohort_english": "Model: Great is the power of Thy martyrs",
       "canonical_english": "Great is the power of Thy martyrs",
       "is_ai_drift": true
@@ -1058,7 +1560,8 @@
       "tone": 3,
       "slavonic_source": "то́йже",
       "raw_cohort_english": "Tone and Model the same.",
-      "canonical_english": "The same (то́йже)",
+      "canonical_english": "The same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже)",
+      "drift_tier": "TIER_0_EXACT",
       "is_ai_drift": true
     },
     {
@@ -1069,6 +1572,19 @@
       "greek_incipit": "Μεγάλη τοῦ Σταυροῦ σου, Κύριε",
       "slavonic_source": "Ве́ліа Кр́та твое́го Гди",
       "slavonic_canonical": "Ве́лія Крⷭ҇та̀ твоегѡ̀ Гдⷭ҇и",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.75,
+      "drift_info": {
+        "similarity": 0.75,
+        "tokens_only_in_a": [
+          "велиа"
+        ],
+        "tokens_only_in_b": [
+          "велия"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 75.0%)"
+      },
       "raw_cohort_english": "To: Great is the power of Thy Cross, O Lord",
       "canonical_english": "Great is the power of Thy Cross, O Lord",
       "is_ai_drift": true
@@ -1117,8 +1633,21 @@
       "locus": "C11:p102",
       "tone": 4,
       "greek_incipit": "Ὁ κληθεὶς ἄνωθεν",
-      "slavonic_source": "Зва́нный свы́ше",
+      "slavonic_source": "Зва́нный бы́вше",
       "slavonic_canonical": "Зва́нный свы́ше",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.5,
+      "drift_info": {
+        "similarity": 0.5,
+        "tokens_only_in_a": [
+          "бивше"
+        ],
+        "tokens_only_in_b": [
+          "свише"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 50.0%)"
+      },
       "raw_cohort_english": "To: Being called from on high",
       "canonical_english": "Being called from on high",
       "is_ai_drift": true
@@ -1136,24 +1665,15 @@
       "is_ai_drift": false
     },
     {
-      "type": "PSALM_VERSE_TIER3_SOURCE_VARIANT",
+      "type": "PSALM_VERSE_NORMALIZED",
       "id": "PRIM.VERSE.PS44_18",
       "locus": "C11:p103",
       "lxx_ref": "Ps. 44:18",
-      "raw_english": "I will remember Thy name in every generation and generation.",
       "slavonic_source": "Помѧнꙋ̀ и́мя твоѐ въвсѧ́ко ро́дѣ и ро́дѣ.",
-      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
-      "info": {
-        "similarity": 0.8,
-        "tokens_only_in_a": [
-          "въвсяко"
-        ],
-        "tokens_only_in_b": [
-          "во",
-          "всяком"
-        ],
-        "details": "Lexical/syntactic variation (token similarity: 80.0%)"
-      },
+      "raw_english": "I will remember Thy name in every generation and generation.",
+      "canonical_english": "*Verse: I will remember thy name in every generation and generation.*",
+      "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
+      "greek": "μνησθήσομαι τοῦ ὀνόματός σου ἐν πάσῃ γενεᾷ καὶ γενεᾷ",
       "is_ai_drift": false
     },
     {
@@ -1185,7 +1705,7 @@
       "id": "PRIM.VERSE.PS92_5",
       "locus": "C11:p104",
       "lxx_ref": "Ps. 92:5",
-      "raw_english": "Holiness becometh Thy house, O Lord, unto length of days.",
+      "raw_english": "Holiness becomes Thy house, O Lord, unto length of days.",
       "slavonic_source": "До́мꙋ твое́мꙋ подоба́етъ ст҃ы́ни Гдⷭ҇и въ долготꙋ дні́й.",
       "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
       "info": {
@@ -1208,7 +1728,8 @@
       "slavonic_source": "По: [Оу҆диви́ся І҆ѡ́сифъ]",
       "raw_cohort_english": "Resurrectional. Tone 4. To:",
       "canonical_english": "Joseph was amazed",
-      "is_ai_drift": true
+      "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
+      "is_ai_drift": false
     },
     {
       "type": "WEEKDAY_HEIRMOS_ALIGNED",
@@ -1222,51 +1743,28 @@
       "is_ai_drift": true
     },
     {
-      "type": "PSALM_VERSE_TIER3_SOURCE_VARIANT",
+      "type": "PSALM_VERSE_NORMALIZED",
       "id": "PRIM.VERSE.PS9_33",
       "locus": "C11:p109",
       "lxx_ref": "Ps. 9:33",
-      "raw_english": "Arise, O Lord my God, let Thy hand be lifted up.",
       "slavonic_source": "Воскреснѝ Гдⷭ҇и Бж҃е мо́й, да вознесе́тся рꙋка̀ твоя̀:",
-      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
-      "info": {
-        "similarity": 0.727,
-        "tokens_only_in_a": [],
-        "tokens_only_in_b": [
-          "не",
-          "забуди",
-          "оубогих",
-          "твоих",
-          "до",
-          "конца"
-        ],
-        "details": "Lexical/syntactic variation (token similarity: 72.7%)"
-      },
-      "is_ai_drift": false
+      "raw_english": "Arise, O Lord my God, let Thy hand be lifted up.",
+      "canonical_english": "*Verse: Arise, O Lord my God, let Thy hand be lifted up; forget not Thy poor unto the end.*",
+      "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
+      "greek": "ἀνάστηθι, Κύριε ὁ Θεός μου, ὑψωθήτω ἡ χείρ σου, μὴ ἐπιλάθῃ τῶν πενήτων σου εἰς τέλος",
+      "is_ai_drift": true
     },
     {
-      "type": "PSALM_VERSE_TIER3_SOURCE_VARIANT",
+      "type": "PSALM_VERSE_NORMALIZED",
       "id": "PRIM.VERSE.PS9_2",
       "locus": "C11:p109",
       "lxx_ref": "Ps. 9:2",
-      "raw_english": "I will praise Thee, O Lord, with my whole heart.",
       "slavonic_source": "Исповѣ́мся тебѣ́ Гдⷭ҇и всѣ́мъ ср́цемъ мои́мъ.",
-      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
-      "info": {
-        "similarity": 0.625,
-        "tokens_only_in_a": [
-          "срцем"
-        ],
-        "tokens_only_in_b": [
-          "сердцем",
-          "повем",
-          "вся",
-          "чудеса",
-          "твоя"
-        ],
-        "details": "Lexical/syntactic variation (token similarity: 62.5%)"
-      },
-      "is_ai_drift": false
+      "raw_english": "I will praise Thee, O Lord, with my whole heart.",
+      "canonical_english": "*Verse: I will give thanks unto Thee, O Lord, with my whole heart; I will speak of all Thy marvelous works.*",
+      "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
+      "greek": "Ἐξομολογήσομαί σοι, Κύριε, ἐν ὅλῃ καρδίᾳ μου, διηγήσομαι πάντα τὰ θαυμάσιά σου",
+      "is_ai_drift": true
     },
     {
       "type": "PODOBEN_NORMALIZED",
@@ -1276,6 +1774,13 @@
       "greek_incipit": "Ἔδωκας σημείωσιν",
       "slavonic_source": "Да́лъ есѝ зна́менїе",
       "slavonic_canonical": "Да́лъ е҆сѝ зна́меніе",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_2_ORTHOGRAPHIC_PHONOLOGICAL",
+      "drift_similarity": 0.92,
+      "drift_info": {
+        "t2": "дал еси знамение",
+        "details": "Ruthenian spelling / phonological reflex variance"
+      },
       "raw_cohort_english": "To: Thou hast given a sign",
       "canonical_english": "Thou hast given a sign",
       "is_ai_drift": true
@@ -1288,6 +1793,12 @@
       "greek_incipit": "Ὡς γενναῖον ἐν Μάρτυσιν",
       "slavonic_source": "Я҆́кѡ до́бля",
       "slavonic_canonical": "Я҆́кѡ до́бля",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
       "raw_cohort_english": "To: As one noble",
       "canonical_english": "As one valiant among martyrs",
       "is_ai_drift": true
@@ -1300,6 +1811,12 @@
       "greek_incipit": "Ἤθελον δάκρυσιν ἐξαλεῖψαι",
       "slavonic_source": "Хотѣ́хъ слеза́ми",
       "slavonic_canonical": "Хотѣ́хъ слеза́ми",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
       "raw_cohort_english": "To: With tears I desired",
       "canonical_english": "With tears I desired",
       "is_ai_drift": true
@@ -1323,6 +1840,12 @@
       "greek_incipit": "Ὡς γενναῖον ἐν Μάρτυσιν",
       "slavonic_source": "Я҆́кѡ до́бля",
       "slavonic_canonical": "Я҆́кѡ до́бля",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
       "raw_cohort_english": "To: As one noble",
       "canonical_english": "As one valiant among martyrs",
       "is_ai_drift": true
@@ -1335,6 +1858,7 @@
       "slavonic_source": "то́йже",
       "raw_cohort_english": "Tone 4. Same melody.",
       "canonical_english": "The same (то́йже)",
+      "drift_tier": "TIER_0_EXACT",
       "is_ai_drift": true
     },
     {
@@ -1345,6 +1869,12 @@
       "greek_incipit": "Ὡς γενναῖον ἐν Μάρτυσιν",
       "slavonic_source": "Я҆́кѡ до́бля",
       "slavonic_canonical": "Я҆́кѡ до́бля",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
       "raw_cohort_english": "To: As one noble",
       "canonical_english": "As one valiant among martyrs",
       "is_ai_drift": true
@@ -1357,6 +1887,7 @@
       "slavonic_source": "то́йже",
       "raw_cohort_english": "Other Stichera to Saint Nicholas, Tone 4. Same melody:",
       "canonical_english": "The same (то́йже)",
+      "drift_tier": "TIER_0_EXACT",
       "is_ai_drift": true
     },
     {
@@ -1378,6 +1909,19 @@
       "greek_incipit": "Ἔδωκας σημείωσιν",
       "slavonic_source": "Да́лъ єсѝ зна́ме",
       "slavonic_canonical": "Да́лъ е҆сѝ зна́меніе",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.667,
+      "drift_info": {
+        "similarity": 0.667,
+        "tokens_only_in_a": [
+          "знаме"
+        ],
+        "tokens_only_in_b": [
+          "знамение"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 66.7%)"
+      },
       "raw_cohort_english": "To: Thou hast given a sign",
       "canonical_english": "Thou hast given a sign",
       "is_ai_drift": true
@@ -1390,6 +1934,12 @@
       "greek_incipit": "Ὡς γενναῖον ἐν Μάρτυσιν",
       "slavonic_source": "Я҆́кѡ до́бля",
       "slavonic_canonical": "Я҆́кѡ до́бля",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
       "raw_cohort_english": "To: As one noble",
       "canonical_english": "As one valiant among martyrs",
       "is_ai_drift": true
@@ -1402,6 +1952,12 @@
       "greek_incipit": "Ὡς γενναῖον ἐν Μάρτυσιν",
       "slavonic_source": "Я҆́кѡ до́бля",
       "slavonic_canonical": "Я҆́кѡ до́бля",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
       "raw_cohort_english": "Podoben: As one valiant",
       "canonical_english": "As one valiant among martyrs",
       "is_ai_drift": true
@@ -1414,6 +1970,13 @@
       "greek_incipit": "Ἔδωκας σημείωσιν",
       "slavonic_source": "Да́лъ єсѝ зна́менїе",
       "slavonic_canonical": "Да́лъ е҆сѝ зна́меніе",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_2_ORTHOGRAPHIC_PHONOLOGICAL",
+      "drift_similarity": 0.92,
+      "drift_info": {
+        "t2": "дал еси знамение",
+        "details": "Ruthenian spelling / phonological reflex variance"
+      },
       "raw_cohort_english": "Podoben: Thou hast given a sign",
       "canonical_english": "Thou hast given a sign",
       "is_ai_drift": false
@@ -1425,7 +1988,8 @@
       "tone": 4,
       "slavonic_source": "то́йже",
       "raw_cohort_english": "Other Stichera to the Holy Martyrs. Tone and Podoben the same:",
-      "canonical_english": "The same (то́йже)",
+      "canonical_english": "The same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже)",
+      "drift_tier": "TIER_0_EXACT",
       "is_ai_drift": false
     },
     {
@@ -1434,7 +1998,8 @@
       "tone": 4,
       "slavonic_source": "По[ко́инъ]:",
       "raw_cohort_english": "For the Departed: Podoben:",
-      "canonical_english": "*For the Departed [Поко́инъ]:*",
+      "canonical_english": "*Hymn for the Departed (Поко́инъ):*",
+      "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
       "is_ai_drift": true
     },
     {
@@ -1456,6 +2021,13 @@
       "greek_incipit": "Ἔδωκας σημείωσιν",
       "slavonic_source": "Да́лъ єсѝ зна́менїе",
       "slavonic_canonical": "Да́лъ е҆сѝ зна́меніе",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_2_ORTHOGRAPHIC_PHONOLOGICAL",
+      "drift_similarity": 0.92,
+      "drift_info": {
+        "t2": "дал еси знамение",
+        "details": "Ruthenian spelling / phonological reflex variance"
+      },
       "raw_cohort_english": "Podoben: Thou hast given a sign",
       "canonical_english": "Thou hast given a sign",
       "is_ai_drift": false
@@ -1468,9 +2040,17 @@
       "greek_incipit": "Χαίροις ὁ ζωηφόρος Σταυρός",
       "slavonic_source": "Ра́дꙋйся живоно",
       "slavonic_canonical": "Ра́дꙋйся живоно́сный Крⷭ҇те",
+      "scribal_omitted_label": false,
+      "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
+      "drift_similarity": 0.9,
+      "drift_info": {
+        "t2_source": "радуйся живоно",
+        "t2_canonical": "радуйся живоносний крте",
+        "details": "Scribal incipit truncation (2 vs 3 words)"
+      },
       "raw_cohort_english": "Podoben: Rejoice, life-bearing [Cross]",
       "canonical_english": "Rejoice, O life-bearing Cross",
-      "is_ai_drift": true
+      "is_ai_drift": false
     },
     {
       "type": "PSALM_VERSE_NORMALIZED",
@@ -1538,8 +2118,8 @@
       "locus": "C14:p138",
       "lxx_ref": "Ps. 92:5",
       "slavonic_source": "До́мꙋ твоемꙋ̀ подоба́етъ святы́ня Го́споди, въ долготꙋ̀ дні́й",
-      "raw_english": "Holiness becometh Thy house, O Lord, unto length of days.",
-      "canonical_english": "*Verse: Holiness becometh Thine house, O Lord, unto length of days.*",
+      "raw_english": "Holiness becomes Thy house, O Lord, unto length of days.",
+      "canonical_english": "*Verse: Holiness becomes Thine house, O Lord, unto length of days.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
       "greek": "τῷ οἴκῳ σου πρέπει ἁγίασμα, Κύριε, εἰς μακρότητα ἡμερῶν",
       "is_ai_drift": true
@@ -1552,6 +2132,19 @@
       "greek_incipit": "Τὸν συνάναρχον Λόγον",
       "slavonic_source": "Собезнача́лно Сло́во",
       "slavonic_canonical": "Собезнача́льное Сло́во",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.5,
+      "drift_info": {
+        "similarity": 0.5,
+        "tokens_only_in_a": [
+          "собезначално"
+        ],
+        "tokens_only_in_b": [
+          "собезначальное"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 50.0%)"
+      },
       "raw_cohort_english": "Podoben: The Word co-unoriginate",
       "canonical_english": "The Word co-unoriginate",
       "is_ai_drift": false
@@ -1564,6 +2157,19 @@
       "greek_incipit": "Τὸν συνάναρχον Λόγον",
       "slavonic_source": "Собезна́чално Слово",
       "slavonic_canonical": "Собезнача́льное Сло́во",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.5,
+      "drift_info": {
+        "similarity": 0.5,
+        "tokens_only_in_a": [
+          "собезначално"
+        ],
+        "tokens_only_in_b": [
+          "собезначальное"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 50.0%)"
+      },
       "raw_cohort_english": "Podoben: The Word co-unoriginate",
       "canonical_english": "The Word co-unoriginate",
       "is_ai_drift": false
@@ -1644,6 +2250,12 @@
       "greek_incipit": "Τὸν συνάναρχον Λόγον",
       "slavonic_source": "Собезнача́льное Сло́во",
       "slavonic_canonical": "Собезнача́льное Сло́во",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
       "raw_cohort_english": "Model: Co-unoriginate Word",
       "canonical_english": "The Word co-unoriginate",
       "is_ai_drift": true
@@ -1713,6 +2325,12 @@
       "greek_incipit": "Χαίροις ἀσκητικῶν",
       "slavonic_source": "Ра́дꙋйся по́стникѡвъ",
       "slavonic_canonical": "Ра́дꙋйся по́стникѡвъ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
       "raw_cohort_english": "Model: Rejoice, O container of ascetics",
       "canonical_english": "Rejoice, O container of ascetics",
       "is_ai_drift": true
@@ -1725,6 +2343,12 @@
       "greek_incipit": "Τὸν συνάναρχον Λόγον",
       "slavonic_source": "Собезнача́льное Сло́во",
       "slavonic_canonical": "Собезнача́льное Сло́во",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
       "raw_cohort_english": "Model: Co-unoriginate Word",
       "canonical_english": "The Word co-unoriginate",
       "is_ai_drift": true
@@ -1814,6 +2438,12 @@
       "greek_incipit": "Χαίροις ἀσκητικῶν",
       "slavonic_source": "Ра́дꙋйся по́стникѡвъ",
       "slavonic_canonical": "Ра́дꙋйся по́стникѡвъ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
       "raw_cohort_english": "Model: Rejoice, O container of ascetics",
       "canonical_english": "Rejoice, O container of ascetics",
       "is_ai_drift": true
@@ -1826,6 +2456,12 @@
       "greek_incipit": "Τὸν συνάναρχον Λόγον",
       "slavonic_source": "Собезнача́льное Сло́во",
       "slavonic_canonical": "Собезнача́льное Сло́во",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
       "raw_cohort_english": "Model: Co-unoriginate Word",
       "canonical_english": "The Word co-unoriginate",
       "is_ai_drift": true
@@ -1882,6 +2518,13 @@
       "greek_incipit": "Χαίροις ἀσκητικῶν",
       "slavonic_source": "Ра́дꙋйсѧ по́стникѡвъ",
       "slavonic_canonical": "Ра́дꙋйся по́стникѡвъ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_2_ORTHOGRAPHIC_PHONOLOGICAL",
+      "drift_similarity": 0.92,
+      "drift_info": {
+        "t2": "радуйся постников",
+        "details": "Ruthenian spelling / phonological reflex variance"
+      },
       "raw_cohort_english": "Melodic model: Rejoice, O container of ascetics",
       "canonical_english": "Rejoice, O container of ascetics",
       "is_ai_drift": true
@@ -1894,6 +2537,19 @@
       "greek_incipit": "Ὅσιε Πάτερ",
       "slavonic_source": "Преподо́бне ѻ҆́ч҃е",
       "slavonic_canonical": "Преподо́бне ѻ҆́тче",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.5,
+      "drift_info": {
+        "similarity": 0.5,
+        "tokens_only_in_a": [
+          "оче"
+        ],
+        "tokens_only_in_b": [
+          "отче"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 50.0%)"
+      },
       "raw_cohort_english": "Melodic model: O venerable father",
       "canonical_english": "O venerable father",
       "is_ai_drift": true
@@ -1906,6 +2562,12 @@
       "greek_incipit": "Τὸν συνάναρχον Λόγον",
       "slavonic_source": "Собезнача́льное Сло́во",
       "slavonic_canonical": "Собезнача́льное Сло́во",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
       "raw_cohort_english": "Melodic model: The Word co-beginningless",
       "canonical_english": "The Word co-unoriginate",
       "is_ai_drift": true
@@ -1929,6 +2591,19 @@
       "greek_incipit": "Χαίροις ἀσκητικῶν",
       "slavonic_source": "Ра́дꙋйсѧ по́стникѡмъ",
       "slavonic_canonical": "Ра́дꙋйся по́стникѡвъ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.5,
+      "drift_info": {
+        "similarity": 0.5,
+        "tokens_only_in_a": [
+          "постником"
+        ],
+        "tokens_only_in_b": [
+          "постников"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 50.0%)"
+      },
       "raw_cohort_english": "Melodic model: Rejoice, O container of ascetics",
       "canonical_english": "Rejoice, O container of ascetics",
       "is_ai_drift": true
@@ -1941,6 +2616,19 @@
       "greek_incipit": "Χαίροις ἀσκητικῶν",
       "slavonic_source": "Ра́дꙋйсѧ по́стникѡмъ",
       "slavonic_canonical": "Ра́дꙋйся по́стникѡвъ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.5,
+      "drift_info": {
+        "similarity": 0.5,
+        "tokens_only_in_a": [
+          "постником"
+        ],
+        "tokens_only_in_b": [
+          "постников"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 50.0%)"
+      },
       "raw_cohort_english": "Melodic model: Rejoice, O container of ascetics",
       "canonical_english": "Rejoice, O container of ascetics",
       "is_ai_drift": true
@@ -1952,7 +2640,8 @@
       "tone": 5,
       "slavonic_source": "то́йже",
       "raw_cohort_english": "Other Stichera to Saint Nicholas, Tone and melodic model the same:",
-      "canonical_english": "The same (то́йже)",
+      "canonical_english": "The same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже)",
+      "drift_tier": "TIER_0_EXACT",
       "is_ai_drift": true
     },
     {
@@ -1963,6 +2652,12 @@
       "greek_incipit": "Τὸν συνάναρχον Λόγον",
       "slavonic_source": "Собезнача́льное Сло́во",
       "slavonic_canonical": "Собезнача́льное Сло́во",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
       "raw_cohort_english": "Melodic model: The Word co-beginningless",
       "canonical_english": "The Word co-unoriginate",
       "is_ai_drift": true
@@ -1975,6 +2670,19 @@
       "greek_incipit": "Ὅσιε Πάτερ",
       "slavonic_source": "Преподо́бне ѻ҆́ч҃е",
       "slavonic_canonical": "Преподо́бне ѻ҆́тче",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.5,
+      "drift_info": {
+        "similarity": 0.5,
+        "tokens_only_in_a": [
+          "оче"
+        ],
+        "tokens_only_in_b": [
+          "отче"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 50.0%)"
+      },
       "raw_cohort_english": "Melodic model: O venerable father",
       "canonical_english": "O venerable father",
       "is_ai_drift": true
@@ -1987,6 +2695,19 @@
       "greek_incipit": "Χαίροις ἀσκητικῶν",
       "slavonic_source": "Ра́дꙋйсѧ по́стничкѡмъ",
       "slavonic_canonical": "Ра́дꙋйся по́стникѡвъ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.5,
+      "drift_info": {
+        "similarity": 0.5,
+        "tokens_only_in_a": [
+          "постничком"
+        ],
+        "tokens_only_in_b": [
+          "постников"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 50.0%)"
+      },
       "raw_cohort_english": "Melodic model: Rejoice, O container of ascetics",
       "canonical_english": "Rejoice, O container of ascetics",
       "is_ai_drift": true
@@ -1999,6 +2720,12 @@
       "greek_incipit": "Τὸν συνάναρχον Λόγον",
       "slavonic_source": "Собезнача́льное Сло́во",
       "slavonic_canonical": "Собезнача́льное Сло́во",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
       "raw_cohort_english": "Melodic model: The Word co-beginningless",
       "canonical_english": "The Word co-unoriginate",
       "is_ai_drift": true
@@ -2011,6 +2738,19 @@
       "greek_incipit": "Χαίροις ἀσκητικῶν",
       "slavonic_source": "Ра́дꙋйся по́стничкѡмъ",
       "slavonic_canonical": "Ра́дꙋйся по́стникѡвъ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.5,
+      "drift_info": {
+        "similarity": 0.5,
+        "tokens_only_in_a": [
+          "постничком"
+        ],
+        "tokens_only_in_b": [
+          "постников"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 50.0%)"
+      },
       "raw_cohort_english": "Melodic model: Rejoice, O container of ascetics",
       "canonical_english": "Rejoice, O container of ascetics",
       "is_ai_drift": true
@@ -2023,6 +2763,19 @@
       "greek_incipit": "Χαίροις ἀσκητικῶν",
       "slavonic_source": "Ра́дꙋйся по́стничкѡмъ",
       "slavonic_canonical": "Ра́дꙋйся по́стникѡвъ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.5,
+      "drift_info": {
+        "similarity": 0.5,
+        "tokens_only_in_a": [
+          "постничком"
+        ],
+        "tokens_only_in_b": [
+          "постников"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 50.0%)"
+      },
       "raw_cohort_english": "Melodic model: Rejoice, O container of ascetics",
       "canonical_english": "Rejoice, O container of ascetics",
       "is_ai_drift": true
@@ -2035,6 +2788,19 @@
       "greek_incipit": "Χαίροις ἀσκητικῶν",
       "slavonic_source": "Ра́дꙋйся по́стникѡ",
       "slavonic_canonical": "Ра́дꙋйся по́стникѡвъ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.5,
+      "drift_info": {
+        "similarity": 0.5,
+        "tokens_only_in_a": [
+          "постнико"
+        ],
+        "tokens_only_in_b": [
+          "постников"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 50.0%)"
+      },
       "raw_cohort_english": "Melodic model: Rejoice, O container of ascetics",
       "canonical_english": "Rejoice, O container of ascetics",
       "is_ai_drift": true
@@ -2071,6 +2837,12 @@
       "greek_incipit": "Ὅλην ἀποθέμενοι",
       "slavonic_source": "Всѐ ѿло́жше",
       "slavonic_canonical": "Всѐ ѿло́жше",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
       "raw_cohort_english": "Melodic model: Having laid all their hope",
       "canonical_english": "Having laid aside all earthly hope",
       "is_ai_drift": true
@@ -2141,8 +2913,8 @@
       "locus": "C18:p171",
       "lxx_ref": "Ps. 92:5",
       "slavonic_source": "До́мꙋ твоемꙋ̀ подоба́етъ святы́ня Го́споди, въ долготꙋ̀ дні́й",
-      "raw_english": "Holiness becometh Thine house, O Lord, unto length of days [LXX Ps. 92:5].",
-      "canonical_english": "*Verse: Holiness becometh Thine house, O Lord, unto length of days.*",
+      "raw_english": "Holiness becomes Thine house, O Lord, unto length of days [LXX Ps. 92:5].",
+      "canonical_english": "*Verse: Holiness becomes Thine house, O Lord, unto length of days.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
       "greek": "τῷ οἴκῳ σου πρέπει ἁγίασμα, Κύριε, εἰς μακρότητα ἡμερῶν",
       "is_ai_drift": true
@@ -2155,56 +2927,39 @@
       "greek_incipit": "Τὴν ὑπὲρ ἡμῶν πληρώσας οἰκονομίαν",
       "slavonic_source": "Е҆́же ѡ҆ на́съ",
       "slavonic_canonical": "Е҆́же ѡ҆ на́съ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
       "raw_cohort_english": "Model: Fulfilling the dispensation",
       "canonical_english": "Fulfilling the dispensation for our sake",
       "is_ai_drift": true
     },
     {
-      "type": "PSALM_VERSE_TIER3_SOURCE_VARIANT",
+      "type": "PSALM_VERSE_NORMALIZED",
       "id": "PRIM.VERSE.PS9_33",
       "locus": "C18:p177",
       "lxx_ref": "Ps. 9:33",
-      "raw_english": "Arise, O Lord my God, let Thy hand be lifted up [LXX Ps. 9:33].",
       "slavonic_source": "Воскреснѝ Гдⷭ҇и Бж҃е мо́й, да вознесе́тсѧ рꙋка̀ твоѧ̀.",
-      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
-      "info": {
-        "similarity": 0.727,
-        "tokens_only_in_a": [],
-        "tokens_only_in_b": [
-          "не",
-          "забуди",
-          "оубогих",
-          "твоих",
-          "до",
-          "конца"
-        ],
-        "details": "Lexical/syntactic variation (token similarity: 72.7%)"
-      },
-      "is_ai_drift": false
+      "raw_english": "Arise, O Lord my God, let Thy hand be lifted up [LXX Ps. 9:33].",
+      "canonical_english": "*Verse: Arise, O Lord my God, let Thy hand be lifted up; forget not Thy poor unto the end.*",
+      "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
+      "greek": "ἀνάστηθι, Κύριε ὁ Θεός μου, ὑψωθήτω ἡ χείρ σου, μὴ ἐπιλάθῃ τῶν πενήτων σου εἰς τέλος",
+      "is_ai_drift": true
     },
     {
-      "type": "PSALM_VERSE_TIER3_SOURCE_VARIANT",
+      "type": "PSALM_VERSE_NORMALIZED",
       "id": "PRIM.VERSE.PS9_2",
       "locus": "C18:p177",
       "lxx_ref": "Ps. 9:2",
-      "raw_english": "I will confess Thee, O Lord my God, with my whole heart [LXX Ps. 9:2].",
       "slavonic_source": "И҆сповѣ́мсѧ тебѣ̀ Гдⷭ҇и Бж҃е мо́й, всѣ́мъ се́рдцемъ мои́мъ.",
-      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
-      "info": {
-        "similarity": 0.667,
-        "tokens_only_in_a": [
-          "боже",
-          "мой"
-        ],
-        "tokens_only_in_b": [
-          "повем",
-          "вся",
-          "чудеса",
-          "твоя"
-        ],
-        "details": "Lexical/syntactic variation (token similarity: 66.7%)"
-      },
-      "is_ai_drift": false
+      "raw_english": "I will confess Thee, O Lord my God, with my whole heart [LXX Ps. 9:2].",
+      "canonical_english": "*Verse: I will give thanks unto Thee, O Lord, with my whole heart; I will speak of all Thy marvelous works.*",
+      "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
+      "greek": "Ἐξομολογήσομαί σοι, Κύριε, ἐν ὅλῃ καρδίᾳ μου, διηγήσομαι πάντα τὰ θαυμάσιά σου",
+      "is_ai_drift": true
     },
     {
       "type": "PODOBEN_NORMALIZED",
@@ -2212,8 +2967,21 @@
       "locus": "C18:p177",
       "tone": 6,
       "greek_incipit": "Αἱ Ἀγγελικαὶ δυνάμεις",
-      "slavonic_source": "А҆́гг҃льскія си́лы",
+      "slavonic_source": "А҆́гг҃лскїѧ си́лы",
       "slavonic_canonical": "А҆́гг҃льскія си́лы",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.5,
+      "drift_info": {
+        "similarity": 0.5,
+        "tokens_only_in_a": [
+          "агглския"
+        ],
+        "tokens_only_in_b": [
+          "аггльския"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 50.0%)"
+      },
       "raw_cohort_english": "Model: The Angelic Hosts",
       "canonical_english": "The Angelic Powers",
       "is_ai_drift": true
@@ -2226,6 +2994,13 @@
       "greek_incipit": "Τριήμερος ἀνέστης",
       "slavonic_source": "Тридне́вно воскре́слъ є҆сѝ",
       "slavonic_canonical": "Тридне́вно воскре́слъ е҆сѝ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_2_ORTHOGRAPHIC_PHONOLOGICAL",
+      "drift_similarity": 0.92,
+      "drift_info": {
+        "t2": "тридневно воскресл еси",
+        "details": "Ruthenian spelling / phonological reflex variance"
+      },
       "raw_cohort_english": "Model: Having Risen on the Third Day",
       "canonical_english": "Having risen on the third day",
       "is_ai_drift": true
@@ -2236,8 +3011,21 @@
       "locus": "C18:p178",
       "tone": 6,
       "greek_incipit": "Ὅλην ἀποθέμενοι",
-      "slavonic_source": "Всѐ ѿло́жше",
+      "slavonic_source": "Всѐ ᲂу҆пова́нїе",
       "slavonic_canonical": "Всѐ ѿло́жше",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.5,
+      "drift_info": {
+        "similarity": 0.5,
+        "tokens_only_in_a": [
+          "упование"
+        ],
+        "tokens_only_in_b": [
+          "отложше"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 50.0%)"
+      },
       "raw_cohort_english": "Model: All my Hope",
       "canonical_english": "Having laid aside all earthly hope",
       "is_ai_drift": true
@@ -2250,6 +3038,12 @@
       "greek_incipit": "Ὡς ἐν ἠπείρῳ πεζεύσας",
       "slavonic_source": "Я҆́кѡ посꙋ́хꙋ ходи́въ",
       "slavonic_canonical": "Я҆́кѡ посꙋ́хꙋ ходи́въ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
       "raw_cohort_english": "Model: Having Walked as on Dry Land",
       "canonical_english": "Having walked as on dry land",
       "is_ai_drift": true
@@ -2262,6 +3056,12 @@
       "greek_incipit": "Τριήμερος ἀνέστης",
       "slavonic_source": "Тридне́вно воскре́слъ е҆сѝ",
       "slavonic_canonical": "Тридне́вно воскре́слъ е҆сѝ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
       "raw_cohort_english": "Model: Having risen on the third day",
       "canonical_english": "Having risen on the third day",
       "is_ai_drift": true
@@ -2272,8 +3072,23 @@
       "locus": "C19:p182",
       "tone": 6,
       "greek_incipit": "Ὅλην ἀποθέμενοι",
-      "slavonic_source": "Всѐ ѿло́жше",
+      "slavonic_source": "Все оу҆пова́нїе на нб҃сѣхъ",
       "slavonic_canonical": "Всѐ ѿло́жше",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.333,
+      "drift_info": {
+        "similarity": 0.333,
+        "tokens_only_in_a": [
+          "упование",
+          "на",
+          "нбсех"
+        ],
+        "tokens_only_in_b": [
+          "отложше"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 33.3%)"
+      },
       "raw_cohort_english": "Model: All our hope is in heaven",
       "canonical_english": "Having laid aside all earthly hope",
       "is_ai_drift": true
@@ -2341,6 +3156,21 @@
       "greek_incipit": "Ὅλην ἀποθέμενοι",
       "slavonic_source": "Всю̀ ѿложи́вше",
       "slavonic_canonical": "Всѐ ѿло́жше",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.0,
+      "drift_info": {
+        "similarity": 0.0,
+        "tokens_only_in_a": [
+          "всю",
+          "отложивше"
+        ],
+        "tokens_only_in_b": [
+          "все",
+          "отложше"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 0.0%)"
+      },
       "raw_cohort_english": "Model: Having laid aside all",
       "canonical_english": "Having laid aside all earthly hope",
       "is_ai_drift": true
@@ -2353,6 +3183,12 @@
       "greek_incipit": "Τριήμερος ἀνέστης",
       "slavonic_source": "Тридне́вно воскре́слъ е҆сѝ",
       "slavonic_canonical": "Тридне́вно воскре́слъ е҆сѝ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
       "raw_cohort_english": "Model: Having risen on the third day",
       "canonical_english": "Having risen on the third day",
       "is_ai_drift": true
@@ -2364,7 +3200,8 @@
       "tone": 6,
       "slavonic_source": "то́йже",
       "raw_cohort_english": "Tone and Model: The same.",
-      "canonical_english": "The same (то́йже)",
+      "canonical_english": "The same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже)",
+      "drift_tier": "TIER_0_EXACT",
       "is_ai_drift": true
     },
     {
@@ -2373,8 +3210,23 @@
       "locus": "C19:p185",
       "tone": 6,
       "greek_incipit": "Ὅλην ἀποθέμενοι",
-      "slavonic_source": "Всѐ ѿло́жше",
+      "slavonic_source": "Все оу҆пова́нїе на нб҃сѣхъ",
       "slavonic_canonical": "Всѐ ѿло́жше",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.333,
+      "drift_info": {
+        "similarity": 0.333,
+        "tokens_only_in_a": [
+          "упование",
+          "на",
+          "нбсех"
+        ],
+        "tokens_only_in_b": [
+          "отложше"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 33.3%)"
+      },
       "raw_cohort_english": "Model: All our hope is in heaven",
       "canonical_english": "Having laid aside all earthly hope",
       "is_ai_drift": true
@@ -2451,8 +3303,22 @@
       "locus": "C19:p188",
       "tone": 6,
       "greek_incipit": "Αἱ Ἀγγελικαὶ δυνάμεις",
-      "slavonic_source": "А҆́гг҃льскія си́лы",
+      "slavonic_source": "А҆́ггл҃скїѧ пред̾и́дꙋтъ си́лы",
       "slavonic_canonical": "А҆́гг҃льскія си́лы",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.4,
+      "drift_info": {
+        "similarity": 0.4,
+        "tokens_only_in_a": [
+          "агглския",
+          "предидут"
+        ],
+        "tokens_only_in_b": [
+          "аггльския"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 40.0%)"
+      },
       "raw_cohort_english": "Model: The angelic hosts shall go before",
       "canonical_english": "The Angelic Powers",
       "is_ai_drift": true
@@ -2464,7 +3330,8 @@
       "tone": 6,
       "slavonic_source": "то́йже",
       "raw_cohort_english": "Tone and Model: The same.",
-      "canonical_english": "The same (то́йже)",
+      "canonical_english": "The same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже)",
+      "drift_tier": "TIER_0_EXACT",
       "is_ai_drift": true
     },
     {
@@ -2475,6 +3342,12 @@
       "greek_incipit": "Ὅλην ἀποθέμενοι",
       "slavonic_source": "Всѐ ѿло́жше",
       "slavonic_canonical": "Всѐ ѿло́жше",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
       "raw_cohort_english": "Model: Having set aside all",
       "canonical_english": "Having laid aside all earthly hope",
       "is_ai_drift": true
@@ -2486,7 +3359,8 @@
       "tone": 6,
       "slavonic_source": "то́йже",
       "raw_cohort_english": "Same Tone and Model.",
-      "canonical_english": "The same (то́йже)",
+      "canonical_english": "The same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже)",
+      "drift_tier": "TIER_0_EXACT",
       "is_ai_drift": true
     },
     {
@@ -2497,6 +3371,12 @@
       "greek_incipit": "Ὅλην ἀποθέμενοι",
       "slavonic_source": "Всѐ ѿло́жше",
       "slavonic_canonical": "Всѐ ѿло́жше",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
       "raw_cohort_english": "Model: Having set aside all",
       "canonical_english": "Having laid aside all earthly hope",
       "is_ai_drift": true
@@ -2579,8 +3459,8 @@
       "locus": "C20:p199",
       "lxx_ref": "Ps. 92:5",
       "slavonic_source": "До́мꙋ твоемꙋ̀ подоба́етъ святы́ня Го́споди, въ долготꙋ̀ дні́й",
-      "raw_english": "Holiness becometh Thy house, O Lord, unto length of days.",
-      "canonical_english": "*Verse: Holiness becometh Thine house, O Lord, unto length of days.*",
+      "raw_english": "Holiness becomes Thy house, O Lord, unto length of days.",
+      "canonical_english": "*Verse: Holiness becomes Thine house, O Lord, unto length of days.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
       "greek": "τῷ οἴκῳ σου πρέπει ἁγίασμα, Κύριε, εἰς μακρότητα ἡμερῶν",
       "is_ai_drift": true
@@ -2593,6 +3473,12 @@
       "greek_incipit": "Πυρὸς σβέσαντες δύναμιν",
       "slavonic_source": "О҆гня̀ ѡ҆стро́въ",
       "slavonic_canonical": "О҆гня̀ ѡ҆стро́въ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
       "raw_cohort_english": "Model: The island of fire",
       "canonical_english": "The island of fire",
       "is_ai_drift": true
@@ -2647,10 +3533,17 @@
       "locus": "C21:p205",
       "tone": 7,
       "greek_incipit": "Σήμερον γρηγορεῖ ὁ Ἰούδας",
-      "slavonic_source": "Дне́сь бди́тъ І҆ю́да",
+      "slavonic_source": "Дне́сь бди́тъ Ію́да",
       "slavonic_canonical": "Дне́сь бди́тъ І҆ю́да",
-      "raw_cohort_english": "Model: Today Judas watcheth",
-      "canonical_english": "Today Judas watcheth",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
+      "drift_similarity": 0.98,
+      "drift_info": {
+        "t1": "днесь бдитъ іюда",
+        "details": "Accents, titla, or contractions variance"
+      },
+      "raw_cohort_english": "Model: Today Judas watches",
+      "canonical_english": "Today Judas watches",
       "is_ai_drift": true
     },
     {
@@ -2661,6 +3554,13 @@
       "greek_incipit": "Οὐκέτι κωλυόμεθα",
       "slavonic_source": "Не ктомꙋ̀ возбране́ни есмы̀",
       "slavonic_canonical": "Не ктомꙋ̀ возбране́ни е҆смы̀",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
+      "drift_similarity": 0.98,
+      "drift_info": {
+        "t1": "не ктомꙋ возбранени есмы",
+        "details": "Accents, titla, or contractions variance"
+      },
       "raw_cohort_english": "Model: We are no longer forbidden",
       "canonical_english": "No longer are we forbidden",
       "is_ai_drift": true
@@ -2673,6 +3573,14 @@
       "greek_incipit": "Καρπὸς κοιλίας",
       "slavonic_source": "Пло́дъ чре́ва",
       "slavonic_canonical": "Пло́дъ чре́ва твоегѡ̀",
+      "scribal_omitted_label": false,
+      "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
+      "drift_similarity": 0.9,
+      "drift_info": {
+        "t2_source": "плод чрева",
+        "t2_canonical": "плод чрева твоего",
+        "details": "Scribal incipit truncation (2 vs 3 words)"
+      },
       "raw_cohort_english": "Model: Fruit of the womb",
       "canonical_english": "Fruit of thy womb",
       "is_ai_drift": true
@@ -2694,10 +3602,17 @@
       "locus": "C21:p208",
       "tone": 7,
       "greek_incipit": "Σήμερον γρηγορεῖ ὁ Ἰούδας",
-      "slavonic_source": "Дне́сь бди́тъ І҆ю́да",
+      "slavonic_source": "Дне́сь бди́тъ Ію́да",
       "slavonic_canonical": "Дне́сь бди́тъ І҆ю́да",
-      "raw_cohort_english": "Model: Today Judas watcheth",
-      "canonical_english": "Today Judas watcheth",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
+      "drift_similarity": 0.98,
+      "drift_info": {
+        "t1": "днесь бдитъ іюда",
+        "details": "Accents, titla, or contractions variance"
+      },
+      "raw_cohort_english": "Model: Today Judas watches",
+      "canonical_english": "Today Judas watches",
       "is_ai_drift": true
     },
     {
@@ -2708,6 +3623,13 @@
       "greek_incipit": "Καρπὸς κοιλίας",
       "slavonic_source": "Пло́дъ чре́ва твоегѡ́",
       "slavonic_canonical": "Пло́дъ чре́ва твоегѡ̀",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
+      "drift_similarity": 0.98,
+      "drift_info": {
+        "t1": "плодъ чрева твоегѡ",
+        "details": "Accents, titla, or contractions variance"
+      },
       "raw_cohort_english": "Model: Fruit of Thy womb",
       "canonical_english": "Fruit of thy womb",
       "is_ai_drift": true
@@ -2742,6 +3664,12 @@
       "greek_incipit": "Οὐκέτι κωλυόμεθα",
       "slavonic_source": "Не ктомꙋ̀ возбране́ни е҆смы̀",
       "slavonic_canonical": "Не ктомꙋ̀ возбране́ни е҆смы̀",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
       "raw_cohort_english": "Model: No longer are we forbidden",
       "canonical_english": "No longer are we forbidden",
       "is_ai_drift": true
@@ -2752,10 +3680,18 @@
       "locus": "C22:p212",
       "tone": 7,
       "greek_incipit": "Σήμερον γρηγορεῖ ὁ Ἰούδας",
-      "slavonic_source": "Дне́сь бди́тъ І҆ю́да",
+      "slavonic_source": "Дне́сь І҆ꙋ́да",
       "slavonic_canonical": "Дне́сь бди́тъ І҆ю́да",
+      "scribal_omitted_label": false,
+      "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
+      "drift_similarity": 0.9,
+      "drift_info": {
+        "t2_source": "днес иуда",
+        "t2_canonical": "днес бдит июда",
+        "details": "Scribal incipit truncation (2 vs 3 words)"
+      },
       "raw_cohort_english": "Model: Today Judas",
-      "canonical_english": "Today Judas watcheth",
+      "canonical_english": "Today Judas watches",
       "is_ai_drift": true
     },
     {
@@ -2766,6 +3702,12 @@
       "greek_incipit": "Οὐκέτι κωλυόμεθα",
       "slavonic_source": "Не ктомꙋ̀ возбране́ни е҆смы̀",
       "slavonic_canonical": "Не ктомꙋ̀ возбране́ни е҆смы̀",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
       "raw_cohort_english": "Model: No longer are we forbidden",
       "canonical_english": "No longer are we forbidden",
       "is_ai_drift": true
@@ -2778,6 +3720,7 @@
       "slavonic_source": "то́йже",
       "raw_cohort_english": "Tone 7. Same Model:",
       "canonical_english": "The same (то́йже)",
+      "drift_tier": "TIER_0_EXACT",
       "is_ai_drift": true
     },
     {
@@ -2788,6 +3731,13 @@
       "greek_incipit": "Καρπὸς κοιλίας",
       "slavonic_source": "Пло́дъ чре́ва твое́го",
       "slavonic_canonical": "Пло́дъ чре́ва твоегѡ̀",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_2_ORTHOGRAPHIC_PHONOLOGICAL",
+      "drift_similarity": 0.92,
+      "drift_info": {
+        "t2": "плод чрева твоего",
+        "details": "Ruthenian spelling / phonological reflex variance"
+      },
       "raw_cohort_english": "Model: The fruit of thy womb",
       "canonical_english": "Fruit of thy womb",
       "is_ai_drift": true
@@ -2811,6 +3761,12 @@
       "greek_incipit": "Οὐκέτι κωλυόμεθα",
       "slavonic_source": "Не ктомꙋ̀ возбране́ни е҆смы̀",
       "slavonic_canonical": "Не ктомꙋ̀ возбране́ни е҆смы̀",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
       "raw_cohort_english": "Model: No longer are we forbidden",
       "canonical_english": "No longer are we forbidden",
       "is_ai_drift": true
@@ -2821,10 +3777,18 @@
       "locus": "C22:p220",
       "tone": 7,
       "greek_incipit": "Σήμερον γρηγορεῖ ὁ Ἰούδας",
-      "slavonic_source": "Дне́сь бди́тъ І҆ю́да",
+      "slavonic_source": "Дне́сь І҆ꙋ́да",
       "slavonic_canonical": "Дне́сь бди́тъ І҆ю́да",
+      "scribal_omitted_label": false,
+      "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
+      "drift_similarity": 0.9,
+      "drift_info": {
+        "t2_source": "днес иуда",
+        "t2_canonical": "днес бдит июда",
+        "details": "Scribal incipit truncation (2 vs 3 words)"
+      },
       "raw_cohort_english": "Model: Today Judas",
-      "canonical_english": "Today Judas watcheth",
+      "canonical_english": "Today Judas watches",
       "is_ai_drift": true
     },
     {
@@ -2835,6 +3799,23 @@
       "greek_incipit": "Οὐκέτι κωλυόμεθα",
       "slavonic_source": "Нїкто́мꙋ возбра́няеми",
       "slavonic_canonical": "Не ктомꙋ̀ возбране́ни е҆смы̀",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.0,
+      "drift_info": {
+        "similarity": 0.0,
+        "tokens_only_in_a": [
+          "никтому",
+          "возбраняеми"
+        ],
+        "tokens_only_in_b": [
+          "не",
+          "ктому",
+          "возбранени",
+          "есми"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 0.0%)"
+      },
       "raw_cohort_english": "Model: No longer are we forbidden",
       "canonical_english": "No longer are we forbidden",
       "is_ai_drift": true
@@ -2843,18 +3824,20 @@
       "type": "POKOIN_ABBREV_CORRECTED",
       "locus": "C23:p224",
       "tone": 7,
-      "slavonic_source": "По[ко́инъ]:",
+      "slavonic_source": "Поко́инъ",
       "raw_cohort_english": "Model:",
-      "canonical_english": "*For the Departed [Поко́инъ]:*",
+      "canonical_english": "*Hymn for the Departed (Поко́инъ):*",
+      "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
       "is_ai_drift": true
     },
     {
       "type": "POKOIN_ABBREV_CORRECTED",
       "locus": "C23:p224",
       "tone": 7,
-      "slavonic_source": "По[ко́инъ]:",
+      "slavonic_source": "Поко́инъ",
       "raw_cohort_english": "Model:",
-      "canonical_english": "*For the Departed [Поко́инъ]:*",
+      "canonical_english": "*Hymn for the Departed (Поко́инъ):*",
+      "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
       "is_ai_drift": true
     },
     {
@@ -2876,28 +3859,27 @@
       "greek_incipit": "Χαίροις ἀσκητικῶν",
       "slavonic_source": "Ра́дꙋйся по́стникѡвъ",
       "slavonic_canonical": "Ра́дꙋйся по́стникѡвъ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
       "raw_cohort_english": "Model: Rejoice",
       "canonical_english": "Rejoice, O container of ascetics",
       "is_ai_drift": true
     },
     {
-      "type": "PSALM_VERSE_TIER3_SOURCE_VARIANT",
+      "type": "PSALM_VERSE_NORMALIZED",
       "id": "PRIM.VERSE.PS64_5A",
       "locus": "C23:p227",
       "lxx_ref": "Ps. 64:5a",
-      "raw_english": "Blessed are they whom Thou hast chosen and taken, O Lord: And their memory is from generation to generation [Ps. 64:5; 101:13].",
       "slavonic_source": "Блаже́ни я҆̀же и҆збра́лъ и҆ прїя́лъ",
-      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
-      "info": {
-        "similarity": 0.833,
-        "tokens_only_in_a": [],
-        "tokens_only_in_b": [
-          "еси",
-          "господи"
-        ],
-        "details": "Lexical/syntactic variation (token similarity: 83.3%)"
-      },
-      "is_ai_drift": false
+      "raw_english": "Blessed are they whom Thou hast chosen and taken, O Lord: And their memory is from generation to generation [Ps. 64:5; 101:13].",
+      "canonical_english": "*Verse: Blessed are they whom Thou hast chosen and taken to Thyself, O Lord.*",
+      "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
+      "greek": "μακάριοι οὓς ἐξελέξω καὶ προσελάβου, Κύριε",
+      "is_ai_drift": true
     },
     {
       "type": "PSALM_VERSE_NORMALIZED",
@@ -2936,26 +3918,16 @@
       "is_ai_drift": true
     },
     {
-      "type": "PSALM_VERSE_TIER3_SOURCE_VARIANT",
+      "type": "PSALM_VERSE_NORMALIZED",
       "id": "PRIM.VERSE.PS92_5",
       "locus": "C23:p228",
       "lxx_ref": "Ps. 92:5",
-      "raw_english": "Holiness becometh Thy house, O Lord, unto length of days [Ps. 92:5].",
       "slavonic_source": "До́мꙋ твое́му подоба́етъ,",
-      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
-      "info": {
-        "similarity": 0.545,
-        "tokens_only_in_a": [],
-        "tokens_only_in_b": [
-          "святиня",
-          "господи",
-          "в",
-          "долготу",
-          "дний"
-        ],
-        "details": "Lexical/syntactic variation (token similarity: 54.5%)"
-      },
-      "is_ai_drift": false
+      "raw_english": "Holiness becomes Thy house, O Lord, unto length of days [Ps. 92:5].",
+      "canonical_english": "*Verse: Holiness becomes Thine house, O Lord, unto length of days.*",
+      "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
+      "greek": "τῷ οἴκῳ σου πρέπει ἁγίασμα, Κύριε, εἰς μακρότητα ἡμερῶν",
+      "is_ai_drift": true
     },
     {
       "type": "PODOBEN_NORMALIZED",
@@ -2965,6 +3937,13 @@
       "greek_incipit": "Τὸ προσταχθὲν μυστικῶς",
       "slavonic_source": "Пове́лѣнное та́инственно",
       "slavonic_canonical": "Повелѣ́нное та́инственно",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
+      "drift_similarity": 0.98,
+      "drift_info": {
+        "t1": "повелѣнное таинственно",
+        "details": "Accents, titla, or contractions variance"
+      },
       "raw_cohort_english": "Model: That which was commanded mystically",
       "canonical_english": "That which was commanded mystically",
       "is_ai_drift": true
@@ -2988,6 +3967,12 @@
       "greek_incipit": "Τὸ προσταχθὲν μυστικῶς",
       "slavonic_source": "Повелѣ́нное та́инственно",
       "slavonic_canonical": "Повелѣ́нное та́инственно",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
       "raw_cohort_english": "Model: That which was commanded mystically",
       "canonical_english": "That which was commanded mystically",
       "is_ai_drift": true
@@ -3012,6 +3997,12 @@
       "greek_incipit": "Ὡς ἀπαρχὰς τῆς φύσεως",
       "slavonic_source": "Я҆́кѡ нача́тки е҆стества̀",
       "slavonic_canonical": "Я҆́кѡ нача́тки е҆стества̀",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
       "raw_cohort_english": "Model: As first-fruits of nature",
       "canonical_english": "As first-fruits of nature",
       "is_ai_drift": true
@@ -3029,30 +4020,16 @@
       "is_ai_drift": true
     },
     {
-      "type": "PSALM_VERSE_TIER3_SOURCE_VARIANT",
+      "type": "PSALM_VERSE_NORMALIZED",
       "id": "PRIM.VERSE.PS9_2",
       "locus": "C24:p234",
       "lxx_ref": "Ps. 9:2",
-      "raw_english": "I will give thanks unto Thee, O Lord, with my whole heart [Ps. 9:2]!",
       "slavonic_source": "Исповѣмся тебѣ Гди Бже",
-      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
-      "info": {
-        "similarity": 0.429,
-        "tokens_only_in_a": [
-          "боже"
-        ],
-        "tokens_only_in_b": [
-          "всем",
-          "сердцем",
-          "моим",
-          "повем",
-          "вся",
-          "чудеса",
-          "твоя"
-        ],
-        "details": "Lexical/syntactic variation (token similarity: 42.9%)"
-      },
-      "is_ai_drift": false
+      "raw_english": "I will give thanks unto Thee, O Lord, with my whole heart [Ps. 9:2]!",
+      "canonical_english": "*Verse: I will give thanks unto Thee, O Lord, with my whole heart; I will speak of all Thy marvelous works.*",
+      "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
+      "greek": "Ἐξομολογήσομαί σοι, Κύριε, ἐν ὅλῃ καρδίᾳ μου, διηγήσομαι πάντα τὰ θαυμάσιά σου",
+      "is_ai_drift": true
     },
     {
       "type": "PODOBEN_NORMALIZED",
@@ -3062,6 +4039,13 @@
       "greek_incipit": "Κύριε, εἰ καὶ κριτηρίῳ παρέστης",
       "slavonic_source": "Гдⷭи, а҆́ще и҆ на сꙋди́щи",
       "slavonic_canonical": "Гдⷭ҇и, а҆́ще и҆ на сꙋди́щи",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
+      "drift_similarity": 0.98,
+      "drift_info": {
+        "t1": "господи аще и на сꙋдищи",
+        "details": "Accents, titla, or contractions variance"
+      },
       "raw_cohort_english": "Model: O Lord, though Thou didst stand before the tribunal",
       "canonical_english": "O Lord, though Thou didst stand before the tribunal",
       "is_ai_drift": true
@@ -3072,8 +4056,21 @@
       "locus": "C24:p235",
       "tone": 8,
       "greek_incipit": "Τὸ προσταχθὲν μυστικῶς",
-      "slavonic_source": "Повелѣ́нное та́инственно",
+      "slavonic_source": "Повеле́нное таинство",
       "slavonic_canonical": "Повелѣ́нное та́инственно",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.5,
+      "drift_info": {
+        "similarity": 0.5,
+        "tokens_only_in_a": [
+          "таинство"
+        ],
+        "tokens_only_in_b": [
+          "таинственно"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 50.0%)"
+      },
       "raw_cohort_english": "Model: The commanded mystery",
       "canonical_english": "That which was commanded mystically",
       "is_ai_drift": true
@@ -3086,6 +4083,12 @@
       "greek_incipit": "Ὢ τοῦ παραδόξου θαύματος",
       "slavonic_source": "Ѡ пресла́внагѡ чꙋдесѐ",
       "slavonic_canonical": "Ѡ пресла́внагѡ чꙋдесѐ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
       "raw_cohort_english": "Model: O most marvelous wonder",
       "canonical_english": "O most marvelous wonder",
       "is_ai_drift": true
@@ -3097,7 +4100,8 @@
       "tone": 8,
       "slavonic_source": "то́йже",
       "raw_cohort_english": "Other Stichera to the Forerunner John. Same Tone and Model:",
-      "canonical_english": "The same (то́йже)",
+      "canonical_english": "The same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже)",
+      "drift_tier": "TIER_0_EXACT",
       "is_ai_drift": true
     },
     {
@@ -3108,6 +4112,19 @@
       "greek_incipit": "Τὸ προσταχθὲν μυστικῶς",
       "slavonic_source": "Повеле́нное та́инство",
       "slavonic_canonical": "Повелѣ́нное та́инственно",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.5,
+      "drift_info": {
+        "similarity": 0.5,
+        "tokens_only_in_a": [
+          "таинство"
+        ],
+        "tokens_only_in_b": [
+          "таинственно"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 50.0%)"
+      },
       "raw_cohort_english": "Model: The commanded mystery",
       "canonical_english": "That which was commanded mystically",
       "is_ai_drift": true
@@ -3120,6 +4137,19 @@
       "greek_incipit": "Οἱ Μάρτυρές σου Κύριε",
       "slavonic_source": "Мч҃нци Гдⷭ҇ни",
       "slavonic_canonical": "Мч҃ницы Гдⷭ҇ни",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.5,
+      "drift_info": {
+        "similarity": 0.5,
+        "tokens_only_in_a": [
+          "мчнци"
+        ],
+        "tokens_only_in_b": [
+          "мчници"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 50.0%)"
+      },
       "raw_cohort_english": "Model: Martyrs of the Lord",
       "canonical_english": "Martyrs of the Lord",
       "is_ai_drift": true
@@ -3132,6 +4162,13 @@
       "greek_incipit": "Κύριε, εἰ καὶ κριτηρίῳ παρέστης",
       "slavonic_source": "Гдⷭ҇и, аще и на судїщи",
       "slavonic_canonical": "Гдⷭ҇и, а҆́ще и҆ на сꙋди́щи",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_2_ORTHOGRAPHIC_PHONOLOGICAL",
+      "drift_similarity": 0.92,
+      "drift_info": {
+        "t2": "господи аще и на судищи",
+        "details": "Ruthenian spelling / phonological reflex variance"
+      },
       "raw_cohort_english": "Model: O Lord, though Thou didst stand before the tribunal",
       "canonical_english": "O Lord, though Thou didst stand before the tribunal",
       "is_ai_drift": true
@@ -3144,6 +4181,13 @@
       "greek_incipit": "Τὸ προσταχθὲν μυστικῶς",
       "slavonic_source": "Повеленное таинственно",
       "slavonic_canonical": "Повелѣ́нное та́инственно",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_2_ORTHOGRAPHIC_PHONOLOGICAL",
+      "drift_similarity": 0.92,
+      "drift_info": {
+        "t2": "повеленное таинственно",
+        "details": "Ruthenian spelling / phonological reflex variance"
+      },
       "raw_cohort_english": "Model: That which was commanded mystically",
       "canonical_english": "That which was commanded mystically",
       "is_ai_drift": true
@@ -3156,6 +4200,13 @@
       "greek_incipit": "Κύριε, εἰ καὶ κριτηρίῳ παρέστης",
       "slavonic_source": "Гдⷭ҇и, аще и на судїщи",
       "slavonic_canonical": "Гдⷭ҇и, а҆́ще и҆ на сꙋди́щи",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_2_ORTHOGRAPHIC_PHONOLOGICAL",
+      "drift_similarity": 0.92,
+      "drift_info": {
+        "t2": "господи аще и на судищи",
+        "details": "Ruthenian spelling / phonological reflex variance"
+      },
       "raw_cohort_english": "Model: O Lord, though Thou didst stand before the tribunal",
       "canonical_english": "O Lord, though Thou didst stand before the tribunal",
       "is_ai_drift": true
@@ -3168,6 +4219,13 @@
       "greek_incipit": "Κύριε, εἰ καὶ κριτηρίῳ παρέστης",
       "slavonic_source": "Гдⷭ҇и, аще и на судїщи",
       "slavonic_canonical": "Гдⷭ҇и, а҆́ще и҆ на сꙋди́щи",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_2_ORTHOGRAPHIC_PHONOLOGICAL",
+      "drift_similarity": 0.92,
+      "drift_info": {
+        "t2": "господи аще и на судищи",
+        "details": "Ruthenian spelling / phonological reflex variance"
+      },
       "raw_cohort_english": "Model: O Lord, though Thou didst stand before the tribunal",
       "canonical_english": "O Lord, though Thou didst stand before the tribunal",
       "is_ai_drift": true
@@ -3180,6 +4238,19 @@
       "greek_incipit": "Τῆς σοφίας ὁδηγέ",
       "slavonic_source": "Премꙋдрости напꙋтл",
       "slavonic_canonical": "Премꙋ́дрости наста́вниче",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.5,
+      "drift_info": {
+        "similarity": 0.5,
+        "tokens_only_in_a": [
+          "напутл"
+        ],
+        "tokens_only_in_b": [
+          "наставниче"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 50.0%)"
+      },
       "raw_cohort_english": "Model: Guiding unto wisdom",
       "canonical_english": "Guiding unto wisdom",
       "is_ai_drift": true
@@ -3192,6 +4263,13 @@
       "greek_incipit": "Τὸ προσταχθὲν μυστικῶς",
       "slavonic_source": "Повеленное таинственно",
       "slavonic_canonical": "Повелѣ́нное та́инственно",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_2_ORTHOGRAPHIC_PHONOLOGICAL",
+      "drift_similarity": 0.92,
+      "drift_info": {
+        "t2": "повеленное таинственно",
+        "details": "Ruthenian spelling / phonological reflex variance"
+      },
       "raw_cohort_english": "Model: That which was commanded mystically",
       "canonical_english": "That which was commanded mystically",
       "is_ai_drift": true
@@ -3204,6 +4282,21 @@
       "greek_incipit": "Ὢ τοῦ παραδόξου θαύματος",
       "slavonic_source": "О преславное чудо",
       "slavonic_canonical": "Ѡ пресла́внагѡ чꙋдесѐ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.333,
+      "drift_info": {
+        "similarity": 0.333,
+        "tokens_only_in_a": [
+          "преславное",
+          "чудо"
+        ],
+        "tokens_only_in_b": [
+          "преславнаго",
+          "чудесе"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 33.3%)"
+      },
       "raw_cohort_english": "Model: O most glorious wonder",
       "canonical_english": "O most marvelous wonder",
       "is_ai_drift": true
@@ -3216,6 +4309,13 @@
       "greek_incipit": "Τὸ προσταχθὲν μυστικῶς",
       "slavonic_source": "Повелѣнное таинственно",
       "slavonic_canonical": "Повелѣ́нное та́инственно",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
+      "drift_similarity": 0.98,
+      "drift_info": {
+        "t1": "повелѣнное таинственно",
+        "details": "Accents, titla, or contractions variance"
+      },
       "raw_cohort_english": "Model: That which was commanded mystically",
       "canonical_english": "That which was commanded mystically",
       "is_ai_drift": true
@@ -3226,8 +4326,15 @@
       "locus": "C26:p256",
       "tone": 8,
       "greek_incipit": "Τί ὑμᾶς καλέσωμεν ἅγιοι",
-      "slavonic_source": "Что̀ вы нарече́мъ ст҃і́и",
+      "slavonic_source": "Что вы наречемъ ст҃ыи;",
       "slavonic_canonical": "Что̀ вы нарече́мъ ст҃і́и",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_2_ORTHOGRAPHIC_PHONOLOGICAL",
+      "drift_similarity": 0.92,
+      "drift_info": {
+        "t2": "что ви наречем стии",
+        "details": "Ruthenian spelling / phonological reflex variance"
+      },
       "raw_cohort_english": "Model: What shall we call you, O holy ones?",
       "canonical_english": "What shall we call you, O holy ones",
       "is_ai_drift": true
@@ -3240,6 +4347,12 @@
       "greek_incipit": "Τὸ προσταχθὲν μυστικῶς",
       "slavonic_source": "Повелѣ́нное та́инственно",
       "slavonic_canonical": "Повелѣ́нное та́инственно",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
       "raw_cohort_english": "Model: Having received mystically",
       "canonical_english": "That which was commanded mystically",
       "is_ai_drift": true
@@ -3252,6 +4365,21 @@
       "greek_incipit": "Ὢ τοῦ παραδόξου θαύματος",
       "slavonic_source": "О преславное чудо",
       "slavonic_canonical": "Ѡ пресла́внагѡ чꙋдесѐ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.333,
+      "drift_info": {
+        "similarity": 0.333,
+        "tokens_only_in_a": [
+          "преславное",
+          "чудо"
+        ],
+        "tokens_only_in_b": [
+          "преславнаго",
+          "чудесе"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 33.3%)"
+      },
       "raw_cohort_english": "Model: O most glorious wonder",
       "canonical_english": "O most marvelous wonder",
       "is_ai_drift": true
@@ -3278,6 +4406,559 @@
       "canonical_english": "*Verse: Their souls shall dwell among good things.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
       "greek": "ἡ ψυχὴ αὐτοῦ ἐν ἀγαθοῖς αὐλισθήσεται",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 21vA]",
+      "prev_tail": "d as a lamp of God, O Forerunner...[^32]",
+      "curr_head": "O Prophet, forerunner of the unwaning Li",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 22vB]",
+      "prev_tail": "se Thy passions, Who didst suffer and...",
+      "curr_head": "...didst deliver me from passions!",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 26vA]",
+      "prev_tail": "th hath not concealed you, but heaven...",
+      "curr_head": "...hath received you, and the gates of P",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 29rA]",
+      "prev_tail": "gin, of Him Who shone forth from thee...",
+      "curr_head": "...illuminate my mind and enlighten my h",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 31rB]",
+      "prev_tail": ", where ineffable joy and delight abide,",
+      "curr_head": "...where the all-joyful assembly of the ",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 33vA]",
+      "prev_tail": "ll deceit: worthily were they crowned...",
+      "curr_head": "...they ask of the Savior peace, and gre",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 37vB]",
+      "prev_tail": "ng unto the union of the one Dominion...",
+      "curr_head": "...calling unto the union of the one Dom",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 40vA]",
+      "prev_tail": "union... [hath blossomed forth unto us.]",
+      "curr_head": "...hath blossomed forth unto us.",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 42vB]",
+      "prev_tail": " [revelations in purity with diligence.]",
+      "curr_head": "...in purity with diligence.",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 46vA]",
+      "prev_tail": "y tears I defile the earth: but grant...",
+      "curr_head": "...grant me remission of sins, O God, an",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 47vA]",
+      "prev_tail": "rs we may escape the tears of torment...",
+      "curr_head": "...of torment, which will then profit no",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 48vB]",
+      "prev_tail": "and the terror of the future judgment...",
+      "curr_head": "...terror. O tender-hearted Lord, spare ",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 60vA]",
+      "prev_tail": "y; unto thee do I flee, and my salvation",
+      "curr_head": "and I shall obtain the salvation of my s",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 93vA]",
+      "prev_tail": "re Thee, O Christ, was wounded in heart,",
+      "curr_head": "was wounded, by whose prayers, for the s",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 95rA]",
+      "prev_tail": "maternally: How dost Thou die, O my Son,",
+      "curr_head": "O my Son, my immortal Life?",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 97vA]",
+      "prev_tail": "appears, and quickly perishes; therefore",
+      "curr_head": "therefore unto Christ the Immortal let u",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 104vA]",
+      "prev_tail": "nt Trinity, in the unity of the Godhead,",
+      "curr_head": "Godhead and Lordship, with the Seraphim ",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 110vA]",
+      "prev_tail": "e: together with the Angels ever pray...",
+      "curr_head": "pray Thou unto Him Who rules over the An",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 111rA]",
+      "prev_tail": " enlighten the minds of the faithful]...",
+      "curr_head": "to enlighten the minds of the faithful, ",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 111vA]",
+      "prev_tail": "d filled with divine radiance, O Angels,",
+      "curr_head": "O Angels, illumine me with your ray as I",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 114vA]",
+      "prev_tail": "eep in mind the fearful judgment-seat...",
+      "curr_head": "to keep in mind, O Lord, Thy judgment-se",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 120vA]",
+      "prev_tail": "efiled fiercely with unclean passions...",
+      "curr_head": "my heart, with Thy pure prayer, O Theoto",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 121vA]",
+      "prev_tail": " crying: 'Now with the sword of grief...",
+      "curr_head": "[...now] with a sword I rend my heart, O",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 129rA]",
+      "prev_tail": "anks, being filled with joy ineffable...",
+      "curr_head": "[...being filled with joy ineffable.][^2",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 130vA]",
+      "prev_tail": "the dominion of pleasure and passions...",
+      "curr_head": "deliver me, that rejoicing I may sing: R",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 135rA]",
+      "prev_tail": "O fountain truly ever-flowing...",
+      "curr_head": "fountain of grace, receive in Thy heaven",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 135vA]",
+      "prev_tail": "ll not marvel, seeing, O holy Martyrs...",
+      "curr_head": "O Martyrs, the good fight which ye have ",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 137vA]",
+      "prev_tail": " prayers, and granting unto the world...",
+      "curr_head": "granting great mercy!",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 138vA]",
+      "prev_tail": "the dead man was stolen from the tomb...",
+      "curr_head": "dead man. Who hath ever seen, or who hat",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 145rA]",
+      "prev_tail": "kle of death, before the dread judgment,",
+      "curr_head": "before I am to receive condemnation wher",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 149rA]",
+      "prev_tail": "God the Lover of mankind and our Savior,",
+      "curr_head": "our Savior, Who grants great mercy unto ",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 156rA]",
+      "prev_tail": " didst endure spitting, and crucifixion,",
+      "curr_head": "and crucifixion, and death, being immort",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 160rA]",
+      "prev_tail": "pit of malice, by Thy prayers, O Virgin,",
+      "curr_head": "O Virgin, and those of the divine Apostl",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 173rB]",
+      "prev_tail": "diant dwellings, for Thou art all-good!]",
+      "curr_head": "...who hymn Thee, and deliver us from da",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 178vA]",
+      "prev_tail": " and grant me compunction, that...[^256]",
+      "curr_head": "...that I may be delivered from torment!",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 179rA]",
+      "prev_tail": "ear in mind the dread day of judgment...",
+      "curr_head": "...thou dost not bear in mind! Arouse th",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 182rA]",
+      "prev_tail": "hat Adam suffered, having been robbed...",
+      "curr_head": "...having been robbed by reason of sight",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 184rA]",
+      "prev_tail": "Sovereign Lady of all, deliver me, as...",
+      "curr_head": "...as thou art merciful, from the dreadf",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 185vA]",
+      "prev_tail": "ree of the Cross, with maternal...[^263]",
+      "curr_head": "...with maternal lamentation she cried a",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 186rB]",
+      "prev_tail": "th, a door of repentance, and a guide...",
+      "curr_head": "...and a guide of our souls, and a bulwa",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 186vA]",
+      "prev_tail": "und went forth, and enlightened...[^264]",
+      "curr_head": "...and enlightened those who were in dar",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 188rA]",
+      "prev_tail": "idst bear, to deliver me from earthly...",
+      "curr_head": "...to deliver me from earthly evils, and",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 188rB]",
+      "prev_tail": "d Maiden who ineffably contained Thee...",
+      "curr_head": "...who ineffably contained Thee in her w",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 188vB]",
+      "prev_tail": "he whole world into tranquility, unto...",
+      "curr_head": "...unto the Orthodox faith: and now pray",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 190rA]",
+      "prev_tail": "l handwriting of sin, as almighty God...",
+      "curr_head": "...as almighty God! Therefore we piously",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 190rB]",
+      "prev_tail": "uly praiseworthy Martyrs, ye overcame...",
+      "curr_head": "...ye overcame the assault of the advers",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 190vA]",
+      "prev_tail": "aving opened the heavenly gates...[^268]",
+      "curr_head": "...having opened the heavenly gates, lea",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 191rB]",
+      "prev_tail": "e of the fallen one, and condescended...",
+      "curr_head": "...and condescended impassibly even unto",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 191vB]",
+      "prev_tail": "; for having been crucified, O Master...",
+      "curr_head": "...having been crucified, all we faithfu",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 192rB]",
+      "prev_tail": "the midst of the flame, O all-praised...",
+      "curr_head": "...all-praised Martyrs, visibly consumin",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 193vA]",
+      "prev_tail": "t and cried aloud with maternal...[^271]",
+      "curr_head": "...maternal lamentation: \"O my Son and m",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 193vB]",
+      "prev_tail": "eavenly fold. Therefore, now dwelling...",
+      "curr_head": "...dwelling therein, remember with love ",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 194vA]",
+      "prev_tail": "resent multitude, having united...[^272]",
+      "curr_head": "...having united themselves unto Christ,",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 195rA]",
+      "prev_tail": "al habitations, having justified them...",
+      "curr_head": "...having justified them through faith a",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 195vB]",
+      "prev_tail": "ay meet Thee brightly upon the clouds...",
+      "curr_head": "...upon the clouds, O Redeemer!",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 196rA]",
+      "prev_tail": "aiming faithful, and let us cry aloud...",
+      "curr_head": "...let us cry aloud with compunction: by",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 196vB]",
+      "prev_tail": ", and the choir of both entreats Thee...",
+      "curr_head": "...entreats Thee, with Her that bare The",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 197rA]",
+      "prev_tail": "parted unto Thee, the only Benefactor...",
+      "curr_head": "...unto Thy faithful servants, with Thin",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 198vA]",
+      "prev_tail": "d calm them, that I may glorify...[^276]",
+      "curr_head": "...that I may glorify Thee, O Birth-give",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 199rB]",
+      "prev_tail": " Thou wast nailed upon the Cross, and...",
+      "curr_head": "...and I conceal it not: I boast in Thy ",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 199vB]",
+      "prev_tail": "e up Adam with Thyself, who glorifies...",
+      "curr_head": "...who glorifies Thy versatile resurrect",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 200rA]",
+      "prev_tail": "inate, sovereign Lordship of the Mind...",
+      "curr_head": "...the unoriginate Mind, having begotten",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 200vA]",
+      "prev_tail": "rit: one God-originating Nature...[^278]",
+      "curr_head": "...Nature, the deliverer from temptation",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 201rA]",
+      "prev_tail": "ts, and show forth invisible beauties...",
+      "curr_head": "...invisible beauties, and manifest a sp",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 202vA]",
+      "prev_tail": " we all hymn Thy Resurrection!]...[^280]",
+      "curr_head": "...Whom Thou didst bear as Lord! Having ",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 202vB]",
+      "prev_tail": "gest the whole earth in righteousness...",
+      "curr_head": "...in righteousness!",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 204rA]",
+      "prev_tail": "art Thou, O Lord God of our fathers!]...",
+      "curr_head": "...Blessed art Thou, O Lord God of our f",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 204vA]",
+      "prev_tail": "do we hymn Thy womb, O pure one...[^282]",
+      "curr_head": "...Thy womb: which ineffably contained G",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 205vB]",
+      "prev_tail": "orth venom into the ear of Eve of old...",
+      "curr_head": "...of old, but Christ upon the Tree of t",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 206vA]",
+      "prev_tail": "The abyss of life overwhelms me...[^284]",
+      "curr_head": "...me, O Lord, and the billows of mine i",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 207vA]",
+      "prev_tail": "o God: entreat Him to save us!]...[^285]",
+      "curr_head": "...having ineffably given birth unto God",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 208vA]",
+      "prev_tail": "s of Angels tremble: Praise Him...[^286]",
+      "curr_head": "...Praise Him, ye priests, and supremely",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 210vA]",
+      "prev_tail": "ne Forerunner, as a gentle lamb...[^288]",
+      "curr_head": "...as a gentle lamb: therefore in faith ",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 210vB]",
+      "prev_tail": "e Virgin: therefore open Thou unto me...",
+      "curr_head": "...open Thou unto me the gates of repent",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 220rA]",
+      "prev_tail": ", and supremely exalt Him unto all ages!",
+      "curr_head": "...supremely exalt Him unto all ages!",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 230rB]",
+      "prev_tail": "he incomprehensible glory of Thy divine,",
+      "curr_head": "...divine, self-beginning, supremely rad",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 257rA]",
+      "prev_tail": "reation with the stream of your blood...",
+      "curr_head": "...sanctify all creation: heal me who am",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 258vB]",
+      "prev_tail": "e bosom of Abraham, and with boldness...",
+      "curr_head": "...with boldness to stand before Thy dre",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 1vA]",
+      "prev_tail": " brought signs of ineffable joy...[^341]",
+      "curr_head": "...of ineffable joy, while the other, in",
       "is_ai_drift": true
     }
   ]

@@ -6,7 +6,7 @@ deliver me, that rejoicing I may sing: Rejoice, O Throne of the Most High, O ble
 Thee alone upon earth have I as protectress and help in truth, I Thy servant: a secure and firm [refuge], O Pure One, glorified of God; and unto Thee do I flee: save me from the snares of those who hunt [after my soul], O Mother of God!
 
 Ode 8. Heirmos:[^206]
-The pious youths in the furnace, the childbearing of the Theotokos saved: then prefigured, but now fulfilled; it raiseth up the whole universe to sing: Chant unto the Lord, all ye works, and exalt Him above all unto the ages!
+The pious youths in the furnace, the childbearing of the Theotokos saved: then prefigured, but now fulfilled; it raises up the whole universe to sing: Chant unto the Lord, all ye works, and exalt Him above all unto the ages!
 Having loosed me from temporal bonds, Thou didst become subject to time, Who art timeless; being bound by Thine own will, Thou didst bind the proud one with unlooseable bonds, that Thou mightest save me by the Cross and Passion. Therefore, we bless Thee, O Christ, unto the ages!
 Being lifted up upon the tree by Thine own will, all creation was lifted up with Thee, O all-hymned Word, unoriginate and invisible, O Christ; by Thy Passion Thou didst expose [the enemy]. Therefore, we sing unto Thee unto the ages!
 Martyricon:
@@ -15,7 +15,7 @@ Lifted up upon the tree, surrendered unto wild beasts, and shedding your blood, 
 
 ##### Column B
 Theotokion:
-Beholding Thee wounded upon the tree, Who grantest unto all divine and saving vigilance, the all-immaculate Mother wept aloud with lamentation and cried: What is this newest wonder, O God-fighting arrogance, that desireth to put to death [the Author of life]!
+Beholding Thee wounded upon the tree, Who grantest unto all divine and saving vigilance, the all-immaculate Mother wept aloud with lamentation and cried: What is this newest wonder, O God-fighting arrogance, that desires to put to death [the Author of life]!
 
 Another Canon. Same Heirmos:
 Having led a prodigal life, and committed every uncleanness: I tremble before the judgment seat, I tremble at the scrutiny, I tremble also at the portion of my condemnation, O Pure One, who didst bear the Judge; stand by me then, and deliver me from distress!
@@ -30,7 +30,7 @@ Let every earthborn mortal...
 ##### Column A
 Ode 9. Heirmos:
 Let every earthborn mortal leap for joy in spirit, being enlightened; and let the nature of the bodiless minds celebrate, honoring the sacred festival of the Mother of God, and let them cry out: Rejoice, O all-blessed one, pure Theotokos, ever Virgin!
-He Who desireth to judge mankind stood as One judged, O Lover of mankind; and He was willingly crowned with a crown of thorns, O Savior, not enduring that the briars of disobedience remain unrooted, O Christ, but planting in all the knowledge of Thy loving-kindness!
+He Who desires to judge mankind stood as One judged, O Lover of mankind; and He was willingly crowned with a crown of thorns, O Savior, not enduring that the briars of disobedience remain unrooted, O Christ, but planting in all the knowledge of Thy loving-kindness!
 O how did a lawless people condemn the righteous and blameless One! Darkened by a curse, they deliver Thee, O Light-giver, unto the Cross, at Whose Passion the sun was darkened, and the splendor of the temple was rent in twain, and the foundations of the earth were shaken!
 Martyricon:
 Conformed unto the Passion of Christ, O holy Martyrs, and looking upon the heavenly Kingdom and its brightness: therefore enlighten your chanters, delivering them from sinful darkness and manifold cruelties!
@@ -111,7 +111,7 @@ Glory... Now and ever... Theotokion:
 The mystery hidden from all ages, and unknown even to the Angels, was manifest through Thee, O Theotokos, unto those upon earth: God incarnate in unconfused union, willingly accepting the Cross for our sake; whereby, having resurrected the First-fashioned, He saved our souls from death!
 After the 2nd Kathisma: Sessional Hymns to the Martyrs, Tone 4:
 Thy Martyrs, O Lord, in their sufferings received incorruptible crowns from Thee, our God; for possessing Thine invincible strength, they put down the tormentors, and crushed the feeble insolence of the demons. By their prayers, O Christ God, save our souls!
-As with purple and fine linen, Thy Church hath been adorned with the blood of Thy Martyrs throughout the whole world; therefore She crieth aloud unto Thee, O Christ God: Send down Thy compassions upon Thy people, grant peace unto Thy city...
+As with purple and fine linen, Thy Church hath been adorned with the blood of Thy Martyrs throughout the whole world; therefore She cries aloud unto Thee, O Christ God: Send down Thy compassions upon Thy people, grant peace unto Thy city...
 
 ##### Column B
 and unto our souls great mercy!
@@ -123,7 +123,7 @@ O Pure, All-immaculate, and Unwedded One, who alone in time didst bear the Son a
 Canon to All Saints (Martyrs, Hierarchs, Venerables) and for the Departed.[^210]
 Ode 1. Tone 4. Heirmos:
 O Thou Who wast born of the Virgin, drown the tripartite nature of my soul in the deep of passionlessness, I pray Thee, O mighty Captain, that as on a timbrel, in the mortification of the body, I may sing unto Thee a song of victory!
-The honorable Church is enlightened continually by the radiant struggles of the Lord's Passion-bearers; and She glorifieth in festive dance Christ the Sun Who shone forth from the Virgin and dispersed the darkness of deception!
+The honorable Church is enlightened continually by the radiant struggles of the Lord's Passion-bearers; and She glorifies in festive dance Christ the Sun Who shone forth from the Virgin and dispersed the darkness of deception!
 Let us in faith praise the High Priests of Christ, who well pastured the chosen people; and let us brightly extol the holy assembly of the Venerables who lived godly lives and mortified carnal pleasures by the Spirit!
 Strength from God was granted unto women, who in asceticism and valiant...
 
@@ -167,7 +167,7 @@ Having extolled the all-sacred choir of Martyrs, they sacredly glorified the Lor
 Possessing the light of immaterial understanding, the divine Hierarchs dispersed the night of all deception, and by unerring guidance they guide the God-chosen flock of Christ unto comprehension!
 The venerable multitude of the holy ascetics was adorned, and the unique festivity of godly women was magnified; the holy choir of Prophets was honored, being united with the angelic hosts, rejoicing!
 Having become fellow citizens with the Angels, O holy Martyrs, ask relief for all who entreat you, and dwelling in the spiritual paradise, and perfect remission of transgressions!
-Thou Who didst preserve Her as a Virgin after childbearing unblemished, the Virgin choir glorifieth Thee Who standest before all; with them unceasingly intercede, that our souls may be saved from all affliction and assault!
+Thou Who didst preserve Her as a Virgin after childbearing unblemished, the Virgin choir glorifies Thee Who standest before all; with them unceasingly intercede, that our souls may be saved from all affliction and assault!
 Another Canon. Heirmos: Beholding Thee lifted up:
 The Martyrs were seen as luminaries, enlightening the firmament of the Church; they ask of Christ the Savior to grant relief unto the reposed!
 
@@ -281,7 +281,7 @@ O only pure and all-immaculate Virgin, who didst bear God without seed: pray tha
 ##### Column B
 At the Aposticha, Stichera for the Departed, Tone 4. Podoben: "Thou hast given a sign":
 Truly dread is the mystery of death, how the soul is violently parted from the body, severed from the harmony and natural bond by divine will! Therefore we pray Thee: grant repose unto the translated, in the tabernacles of Thy righteous ones, O Life-giving Lover of mankind!
-Death appeareth as sleep unto those who grieve; for Thou wast placed in the tomb, Who rulest over all, and didst shatter the dominion of death, bringing to naught its ancient violence! Therefore we pray Thee: place the translated in the light of Thy Saints, and in the splendor of the righteous!
+Death appears as sleep unto those who grieve; for Thou wast placed in the tomb, Who rulest over all, and didst shatter the dominion of death, bringing to naught its ancient violence! Therefore we pray Thee: place the translated in the light of Thy Saints, and in the splendor of the righteous!
 Thou wast made righteousness and sanctification unto us, and deliverance for our souls; for Thou didst bring us justified and redeemed unto the Father, having taken upon Thyself our due condemnation. And now we pray Thee, grant repose unto the translated, in the joy and brightness of Thy Saints, O Benefactor and Lover of mankind!
 Glory... Now and ever... Theotokion, Tone 4:
 Following the words of the God-inspired Prophets, O All-immaculate One, we profess Thee as Mother of God; for Thou didst ineffably give birth unto God incarnate, Who delivered us from burning transgressions; Whom now entreat to illumine with His radiance Thy reposed servants, O All-pure One!
@@ -294,7 +294,7 @@ ON SATURDAY AT LITTLE VESPERS:[^214]
 We set 4 verses, and we sing Resurrectional Stichera, Tone 5:
 ##### Column A
 By Thy precious Cross, O Christ, Thou didst put the devil to shame; and by Thy Resurrection Thou didst blunt the sting of sin, and didst save us from the gates of death. We glorify Thee, O Only-begotten One!
-He Who granteth Resurrection unto the human race was led as a sheep to the slaughter; the princes of hades were terrified of Him, and the gates of sorrow were lifted up. For Christ, the King of glory, entered in, saying unto those in bonds: Come forth! and unto those in darkness: Uncover yourselves!
+He Who grants Resurrection unto the human race was led as a sheep to the slaughter; the princes of hades were terrified of Him, and the gates of sorrow were lifted up. For Christ, the King of glory, entered in, saying unto those in bonds: Come forth! and unto those in darkness: Uncover yourselves!
 A great wonder! The Creator of the invisible, having suffered in the flesh through love of mankind, the Immortal One is risen! Come, all ye families of the nations, let us worship Him; for having been delivered from deception by His compassion, we have learned to hymn one God in three Hypostases!
 Glory... Now and ever... Theotokion:
 Rejoice, noetic door, through which the Chief Illuminator, God, passed! Rejoice, rod of Aaron, that didst blossom forth a flower from the root of Jesse! Rejoice, Table that didst provide the Bread of Life as food...
@@ -323,7 +323,7 @@ My soul having been continually burdened with darkness, O Lady, from the multitu
 ##### Column B
 I cry aloud unto Thee: Have mercy on me! O Thou Who didst cause the all-merciful God to shine forth from Thy most-pure womb, show forth Thy wonders now ineffably; and lifting up Thy hands unto Thy Son, O All-pure One, send down great mercy upon me who pray!
 Glory... Now and ever... Theotokion:
-Who can worthily call Thee, O pure Mother of God? Shall I name Thee the God-receiving Church? Or the Garden of Eden? Or Noah's glorious Ark of salvation? The Dominion of God the King of all? The Holy Nation? The Abode of Christ our God? For Thou wast likened unto the Ark of Moses, having within the cleansing and the blossomed Rod, the Candlestick, the Urn, and the all-golden Censer; unto which every believer fleeth and asketh great mercy!
+Who can worthily call Thee, O pure Mother of God? Shall I name Thee the God-receiving Church? Or the Garden of Eden? Or Noah's glorious Ark of salvation? The Dominion of God the King of all? The Holy Nation? The Abode of Christ our God? For Thou wast likened unto the Ark of Moses, having within the cleansing and the blossomed Rod, the Candlestick, the Urn, and the all-golden Censer; unto which every believer flees and asks great mercy!
 
 #### [Right Page — Folio 138r]
 ON SATURDAY AT GREAT VESPERS:[^215]
@@ -331,13 +331,13 @@ Resurrectional Stichera, Tone 5.
 Work of John of Damascus.
 ##### Column A
 By Thy precious Cross, O Christ, Thou didst put the devil to shame; and by Thy Resurrection Thou didst blunt the sting of sin, and didst save us from the gates of death. We glorify Thee, O Only-begotten One!
-He Who granteth Resurrection unto the human race was led as a sheep to the slaughter; the princes of hades were terrified of Him, and the gates of sorrow were lifted up. For Christ, the King of glory, entered in, saying unto those in bonds: Come forth! and unto those in darkness: Uncover yourselves!
+He Who grants Resurrection unto the human race was led as a sheep to the slaughter; the princes of hades were terrified of Him, and the gates of sorrow were lifted up. For Christ, the King of glory, entered in, saying unto those in bonds: Come forth! and unto those in darkness: Uncover yourselves!
 A great wonder! The Creator of the invisible, having suffered in the flesh through love of mankind, the Immortal One is risen! Come, all ye families of the nations, let us worship Him; for having been delivered from deception by His compassion, we have learned to hymn one God in three Hypostases!
 
 ##### Column B
 Other Stichera, Anatolian (Eastern), Tone the same:
 We offer evening worship unto Thee, the Unwaning Light, Who at the end of the ages, as in a glass, didst shine forth in the flesh unto the world, and descended even unto hades, and shattered the darkness therein, and showed forth the light of the Resurrection unto the nations. O Light-giver, Lord, glory to Thee!
-Let us glorify Christ, the Author of our salvation; for when He was risen from the dead, the world was saved from deception. The angelic choir rejoiceth, and demonic deceit fleeth away; fallen Adam is raised, and the devil is brought to naught!
+Let us glorify Christ, the Author of our salvation; for when He was risen from the dead, the world was saved from deception. The angelic choir rejoices, and demonic deceit flees away; fallen Adam is raised, and the devil is brought to naught!
 The guards who were instructed by the lawless to conceal the Resurrection of Christ received pieces of silver and said: While we slept, the dead man was stolen from the tomb...
 
 === LEAF p138 ===
@@ -359,7 +359,7 @@ Verse: The Lord is King, He is clothed with majesty!
 When Thy side was pierced, O Life-giver, Thou didst pour forth streams of forgiveness unto all, life and salvation; and having accepted death in the flesh, Thou didst bestow immortality upon us. And taking up dwelling in the tomb, Thou didst set us free, co-resurrecting us with Thyself gloriously, as God. Therefore we cry aloud: O Lover of mankind, Lord, glory to Thee!
 Verse: For He hath established the world, which shall not be shaken.
 Strange is Thy Crucifixion, and Thy descent into hades, O Lover of mankind! For having despoiled it, and co-resurrected with Thyself gloriously the ancient prisoners, as God, Thou didst open paradise, and vouchsafed them to enjoy it. Therefore, unto us who glorify Thy three-day rising, grant cleansing of sins, making us dwellers of paradise, as Thou alone art tender-hearted!
-Verse: Holiness becometh Thy house, O Lord, unto length of days.
+Verse: Holiness becomes Thy house, O Lord, unto length of days.
 Thou Who for our sake didst accept suffering in the flesh, and on the third day didst rise from the dead: heal our carnal passions, and raise us up from cruel transgressions, O Lover of mankind, and save us!
 Glory... Now and ever... Theotokion:
 Thou art the Temple and the Door, the Palace and the Throne of the King, O all-pure Virgin; from whom my Deliverer, Christ the Lord, appeared unto those sleeping in darkness, being the Sun of righteousness, desiring to enlighten those whom He fashioned according to His own image with His own hand. Therefore, O All-hymned One, as Thou hast acquired maternal boldness toward Him: unceasingly pray, that our souls...
@@ -441,7 +441,7 @@ Ode 8. Heirmos:
 Unto Thee, Creator of all, in the furnace, the youths, weaving a world-wide choir, sang: All ye works, chant unto the Lord, and exalt Him above all unto the ages!
 Thou didst appear of old, O my God, unto Abraham in the form of three men, prefiguring the Trinity of the Godhead, as he sang of Thy single dominion!
 Vouchsafe me now to look upon Thy beneficent rays, O Unapproachable Light, Father of compassions, Word, and Spirit, that I may render thanks unto Thee, singing unto the Lord of all!
-From the Father God is pre-eternal; the Son is the Son born of the Father; and the Holy and Life-giving Spirit proceedeth from the Father, being manifest through the Son!
+From the Father God is pre-eternal; the Son is the Son born of the Father; and the Holy and Life-giving Spirit proceeds from the Father, being manifest through the Son!
 
 ##### Column B
 Thou didst shine forth unto us from the three-sunned glory the single, all-radiant Christ the Lord, secretly teaching all to hymn one Godhead in three Persons unto the ages!
@@ -451,7 +451,7 @@ Isaiah, dance! A Virgin hath conceived in the womb, and hath borne a Son, Emmanu
 Human deeds cannot worthily hymn the Sovereign Unity; yet as we are able, daring through faith, O Sovereign, Co-enthroned Trinity, we offer glory and praise unto Thy dominion!
 With hypostatic glory, the Cherubim and Seraphim praise the single-origin, tri-radiant God with unceasing mouths; receive also us sinners, O Lord, who magnify Thy dominion!
 Three lights today upon the Cherubic Throne, and the Seraphim standing round about Thee, covering their faces with wings, cry aloud: Holy, Holy, Holy, Thrice-holy God, glorified in Thy three holy Persons! Theotokion:
-As pure, immaculate, and Virgin, Thou didst bear the unchanging Son and God, Who delivereth us from temptations; entreat Him now to send down remission of transgressions upon us!
+As pure, immaculate, and Virgin, Thou didst bear the unchanging Son and God, Who delivers us from temptations; entreat Him now to send down remission of transgressions upon us!
 
 At Matins, after the Gospel: "God is the Lord and hath appeared unto us" in Tone 5. And we chant the Resurrection Troparion: "The Word co-unoriginate"; Glory... Now and ever... Theotokion: "Rejoice, impassable gate of the Lord"; then the usual Kathisma reading of the Psalter...
 
@@ -476,7 +476,7 @@ Glory... Now and ever... Theotokion:
 Rejoice, holy mountain, impassable to man! Rejoice, animate and unburned Bush! Rejoice, only bridge of the world unto God, leading mortals unto eternal life! Rejoice, incorrupt Maiden, who without knowing man didst bear the Salvation of our souls!
 
 Hypakoe, Tone 5:
-Terrifying the mind with angelic appearance, yet enlightening their souls with the divine rising, the Myrrh-bearing women proclaimed the good tidings unto the Apostles: Announce among the nations the Resurrection of the Lord, Who worketh wonders with you, and granteth us great mercy!
+Terrifying the mind with angelic appearance, yet enlightening their souls with the divine rising, the Myrrh-bearing women proclaimed the good tidings unto the Apostles: Announce among the nations the Resurrection of the Lord, Who works wonders with you, and grants us great mercy!
 
 Hymns of Ascents (Anavathmoi), Tone 5:[^219]
 Antiphon 1:
@@ -493,8 +493,8 @@ Unto the Holy Spirit, speaking of God, let us say: Thou art God, Life, Desire, L
 
 Antiphon 3:
 Concerning those who said unto me: We will go into the courts of the Lord; being filled with great joy, I send up prayers!
-In the house of David dread things are accomplished; for there fire burneth every defiled mind!
-Unto the Holy Spirit belongeth the life-originating dignity: from Whom every living creature is animated, as in the Father, together with the Word!
+In the house of David dread things are accomplished; for there fire burns every defiled mind!
+Unto the Holy Spirit belongs the life-originating dignity: from Whom every living creature is animated, as in the Father, together with the Word!
 
 Prokeimenon, Tone 5:
 Arise, O Lord my God, let Thy hand be lifted up; for Thou reignest unto the ages!
@@ -505,7 +505,7 @@ Resurrection Gospel. We sing: Psalm 50 ("Have mercy on me, O God"). And the rest
 
 RESURRECTION CANON.
 Ode 1. Tone 5. Heirmos:
-The steed and rider into the Red Sea: Christ Who shattereth warfare with a high arm shook them off; but He saved Israel, as they sang a song of victory!
+The steed and rider into the Red Sea: Christ Who shatters warfare with a high arm shook them off; but He saved Israel, as they sang a song of victory!
 
 ##### Column B
 The thorn-bearing Hebrew assembly, not preserving maternal love toward Thee, their Benefactor, O Christ, crowned Thee with thorns, Who didst loose the thorn-bearing sentence of the First-fashioned!

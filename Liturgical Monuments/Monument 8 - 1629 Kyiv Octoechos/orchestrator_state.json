@@ -43,6 +43,6 @@
   "argon_review_queue_count": 0,
   "unresolved_quarantines": 0,
   "cohort_retry_counts": {},
-  "small_pause_gate_status": "GRAND_PAUSE_READY_FOR_HUMAN_INSPECTION",
+  "small_pause_gate_status": "MONUMENT_SEALED_AND_HANDED_OFF",
   "active_blockers": []
 }

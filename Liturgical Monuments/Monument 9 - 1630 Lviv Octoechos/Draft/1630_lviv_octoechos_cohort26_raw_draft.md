@@ -2,7 +2,7 @@
 
 #### [Left Page — Folio 251v]
 ##### Column A
-[1] ...of the manslayer, who desireth craftily to swallow me up utterly: crush his jaws, I pray thee, and destroy his snares: that, delivered from his claws, I may magnify thy protection!
+[1] ...of the manslayer, who desires craftily to swallow me up utterly: crush his jaws, I pray thee, and destroy his snares: that, delivered from his claws, I may magnify thy protection!
 On Thursday, at the Divine Liturgy.
 The Beatitudes. Tone 8.
 Remember us, O Christ, Savior of the world, even as Thou didst remember the thief upon the Tree: and account all worthy, O Thou Who alone art compassionate, of Thy heavenly Kingdom!
@@ -28,7 +28,7 @@ Stichera of the Precious Cross. Tone 8. Model: "O most glorious wonder":
 [1] ...whereby we have all been drawn unto God, and death hath been swallowed up utterly! O all-honored Tree, whereby we have taken delight in the immortal food in Eden, glorifying Christ!
 [2] Many are Thy bounties toward us, O good Jesus! How Thou didst humble Thyself, and became man, and didst will to suffer the Cross and shameful death, held fast for the sake of unprofitable servants! What worthy gift, meet for God, shall we offer unto Thee? Only glorifying Thee, we the faithful give thanks!
 Other Stichera to the Most Holy Theotokos. Tone 8.
-[3] O the ineffable goodness of Him Who was incarnate of thee, O all-hymned Theotokos! For as the Lover of mankind He endured the Cross and death, that He might save the world which He created. Entreat Him to deliver me, wretched one, from painful torment, and to settle me where the unwaning Light shineth!
+[3] O the ineffable goodness of Him Who was incarnate of thee, O all-hymned Theotokos! For as the Lover of mankind He endured the Cross and death, that He might save the world which He created. Entreat Him to deliver me, wretched one, from painful torment, and to settle me where the unwaning Light shines!
 [4] What is this visible sight which is seen by mine eyes, O Master, Who upholdest all creation? Lifted up upon the Tree, and dying, Thou givest life unto all! The Theotokos, weeping, cried aloud when she beheld the King and God, Who shone forth ineffably from her, lifted up upon the Cross!
 [5] Deliver from tribulations, O all-pure one, by thy precious prayers, the flock which Thy Son and God acquired and sprinkled with His Blood: driving away visible and invisible enemies like wild beasts, and fill their faces with dishonor, even as David the singer proclaimed of old, O pure one!
 Glory... Both now... Stavrotheotokion:
@@ -131,7 +131,7 @@ Martyrs:
 [5] Having become partakers of Christ's Sufferings, the divine Martyrs were also shown to be partakers of heavenly splendor!
 [6] Ye were adorned, O Martyrs, being united unto the fair Word: brightly enlightened, having loved the Sun of righteousness!
 Theotokion:
-[7] Thou didst bear as a young babe Him Who was perfect before the ages, O all-immaculate Maiden, Who accomplisheth marvelous deeds by the Cross and through goodness!
+[7] Thou didst bear as a young babe Him Who was perfect before the ages, O all-immaculate Maiden, Who accomplishes marvelous deeds by the Cross and through goodness!
 Another Heirmos: Thou art my strength, O Lord:
 (Canon to the Theotokos Ode 4 Troparia):
 [8] O thou who didst ineffably bear God the Word: assuage the passions of my soul, pouring out the grief of cruel assaults with the precious Blood of thy Son, Who destroyed the soul-devouring womb of hades and poured forth resurrection unto the world!
@@ -142,7 +142,7 @@ Another Heirmos: Thou art my strength, O Lord:
 [2] I flee now unto thy protection, O all-pure one: anticipate and deliver me, O all-honored one, from the cruel storm of the enemy and from the torrents of iniquity that trouble me; and direct me without turning aside unto thy haven and unto thy calm, O Mother of God!
 [3] The enemy hath wounded all my soul with the arrows of sin, and defiled my heart with pleasures, and turned me away from the right path: therefore I cry aloud unto thee: Having converted me, heal me and save me!
 Ode 5. Heirmos:
-O thrice-blessed Tree, whereon Christ the King and Lord was crucified, through which he who deceived by the tree fell, being caught by thee, when God was nailed in the flesh, Who granteth peace unto our souls!
+O thrice-blessed Tree, whereon Christ the King and Lord was crucified, through which he who deceived by the tree fell, being caught by thee, when God was nailed in the flesh, Who grants peace unto our souls!
 (Canon of the Cross Ode 5 Troparia):
 [4] Desiring to clothe us who were stripped bare of the garment of incorruption: Thou wast crucified upon the Cross, O Christ, and didst strip bare the wiles of the enemy: therefore we glorify Thy sufferings!
 [5] The saving Blood of incorruption from Thy side hath cleansed the world for Thee: the blood of idol-shrines hath ceased, and Thou hast renewed the incorruptible through intelligent fruit, and poured forth incorruption unto our souls!
@@ -206,9 +206,9 @@ Another Heirmos: The Hebrew Children:
 [3] Thou art all light-bearing, O Virgin, having received the unwaning Light, and thou dost enlighten, O pure one, them that cry aloud unto thee in faith: Blessed art thou, O all-pure one, and blessed is the Fruit of thy womb!
 [4] Show forth thy love for mankind and thy mercy, O Virgin: raise me up, delivered from evils, who cry aloud: Blessed art thou, O all-pure one, and blessed is the Fruit of thy womb!
 [5] Unto thee, O Mother and Virgin, do I flee, being wounded by hidden arrows of the soul: protect me with all thy mercy, as I cry aloud: Blessed art thou, O all-pure one, and blessed is the Fruit of thy womb!
-[6] Deliver me, O Mother of the Savior, from the cruel captivity of wicked thoughts and sinful causes that holdeth me fast: that, being ever saved, I may glorify thee as is meet!
+[6] Deliver me, O Mother of the Savior, from the cruel captivity of wicked thoughts and sinful causes that holds me fast: that, being ever saved, I may glorify thee as is meet!
 Ode 8. Heirmos:
-Bless, ye Children, equal in number to the Trinity: sing praise unto God the Father and Creator, and unto the Word Who came down and turned the fire into dew; and supremely exalt unto all ages the all-holy Spirit, Who giveth life unto all!
+Bless, ye Children, equal in number to the Trinity: sing praise unto God the Father and Creator, and unto the Word Who came down and turned the fire into dew; and supremely exalt unto all ages the all-holy Spirit, Who gives life unto all!
 (Canon of the Cross Ode 8 Troparia):
 [7] Blessed is the Tree, whereby all the curse was destroyed that sprouted in Eden...[^333]
 
@@ -218,7 +218,7 @@ Bless, ye Children, equal in number to the Trinity: sing praise unto God the Fat
 ##### Column A
 [1] ...the cruel curse that grew from the branch of the evil tree: and Christ, the supremely glorified, is lifted up, Who hath cleansed us, having willed it of His own accord through tender mercy!
 [2] Sacredly crossing his hands, the ever-glorious patriarch blessed his grandsons of old, revealing the image of the sacred Tree: whereby blessing was granted unto all who were cursed through the evil eating of the tree and had slipped down into the depth of evils!
-[3] All mankind is righted, O Master, when Thou wast stretched upon the Cross; and the host of wicked demons falleth, and being scattered, receiveth destruction; and the dominion of Thy power and Thy strength is exalted unto ages!
+[3] All mankind is righted, O Master, when Thou wast stretched upon the Cross; and the host of wicked demons falls, and being scattered, receives destruction; and the dominion of Thy power and Thy strength is exalted unto ages!
 Martyrs:
 [4] Blessed glory, and incorruptible food, and light-bearing dwellings have ye inherited now, O divine martyrs of the Lord: and ye have been joined with heavenly ranks, and in gladness have received now the fulfillment of your blessed hopes!
 [5] With courage surpassing the sun, the light-bearing martyrs of Christ shone forth, and by divine power ground to powder all the deceit of the devil, and God-wisely enlightened the hearts of all in all ends of the earth unto ages!
@@ -258,7 +258,7 @@ Another Heirmos: Amazed was the heaven at this:
 [4] O pure and glorified Mother of God: save them that sing praise unto thee in love, and mercifully destroy the tempest of temptations: for having born God, thou canst do whatsoever thou desirest, and dost grant it without hindrance, O Virgin: therefore we all magnify thee!
 At the Aposticha, Stichera of the Precious Cross. Tone 8.
 [5] The rod of Moses prefigured Thy precious Cross, O our Savior, whereby Thou didst lead Thy people unto salvation, as from the depths of the sea, O Lover of mankind!
-[6] The tree that grew in the midst of the garden in Eden of old was for food; but the Church, O Christ, hath blossomed forth Thy Cross, pouring forth life unto all the world: but that one brought death unto Adam who ate of the food, whereas this one quickeneth through faith...[^334]
+[6] The tree that grew in the midst of the garden in Eden of old was for food; but the Church, O Christ, hath blossomed forth Thy Cross, pouring forth life unto all the world: but that one brought death unto Adam who ate of the food, whereas this one quickens through faith...[^334]
 
 === LEAF p256 ===
 
@@ -266,7 +266,7 @@ At the Aposticha, Stichera of the Precious Cross. Tone 8.
 ##### Column A
 [1] ...and saved the thief through faith: show us forth as partakers of his salvation, O Christ God, Who by Thy Passion didst loose the snares of the enemy that were set against us: and account us worthy of Thy Kingdom, O Lord!
 Martyrs:
-[2] What shall we call you, O holy ones? Cherubim? For Christ resteth upon you! Seraphim? For unceasingly ye glorify Him! Angels? For ye turned away from the body! Powers? For ye work miracles! Many are your names, and yet greater are your gifts! Pray ye that our souls may be saved!
+[2] What shall we call you, O holy ones? Cherubim? For Christ rests upon you! Seraphim? For unceasingly ye glorify Him! Angels? For ye turned away from the body! Powers? For ye work miracles! Many are your names, and yet greater are your gifts! Pray ye that our souls may be saved!
 Glory... Both now... Stavrotheotokion:
 [3] I cannot endure, my Child, beholding Thee fallen asleep upon the Tree, Who bestowest wakefulness unto all: that Thou mayest bestow divine and saving wakefulness unto them that of old fell asleep in the fatal sleep through the fruit of transgression! the Virgin said, weeping: whom we magnify!
 On Friday, the Beatitudes. Tone 8.
@@ -304,7 +304,7 @@ At the Aposticha, Stichera of the Martyrs. Tone 8.
 ...and heedless of torments for the sake of the life to come, they were shown to be heirs thereof: therefore they also rejoice with the Angels. By their prayers, grant Thy people great mercy!
 [1] If there be any virtue, and if there be any praise, it is meet for the holy ones: for they bowed their necks to the sword for the sake of Thee Who didst bow the heavens and come down; they shed their blood for the sake of Thee Who didst pour out Thyself and take the form of a servant; they humbled themselves even unto death, conforming themselves unto Thy poverty: by their prayers have mercy on us, O God, according to Thy great mercy!
 Aposticha of the Departed:
-[2] I weep and lament when I contemplate death, and behold our beauty, fashioned according to the image of God, lying in the graves, formless, inglorious, having no shape! O wonder! What is this mystery that hath happened unto us? How have we been surrendered unto corruption? How have we been yoked unto death? Truly by the command of God, as it is written: Who giveth rest unto the departed!
+[2] I weep and lament when I contemplate death, and behold our beauty, fashioned according to the image of God, lying in the graves, formless, inglorious, having no shape! O wonder! What is this mystery that hath happened unto us? How have we been surrendered unto corruption? How have we been yoked unto death? Truly by the command of God, as it is written: Who gives rest unto the departed!
 Glory... Both now... Theotokion. Tone 4:
 [3] O Sovereign Lady, receive the supplications of thy servants, and deliver us from every distress and sorrow!
 On Saturday, at Matins.
@@ -318,7 +318,7 @@ After the 1st Kathisma, Sessional Hymns of the Martyrs. Tone 8.
 [1] ...at the memory of the passion-bearers: by their prayers, send down peace unto Thy world, O Christ, and great mercy!
 [2] As noetic luminaries were ye revealed, O holy Martyrs, for by faith ye destroyed the gloom of deceit, and enlightened your spiritual lamps, and entered with glory with the Bridegroom into the heavenly bridal chamber: and now we pray you: Entreat that our souls may be saved!
 Glory... Both now... Theotokion:
-[3] O Thou Who for our sake wast born of the Virgin and didst endure the Crucifixion, O Good One, Who by death didst despoil death and manifest the Resurrection as God: despise not them whom Thou didst create with Thy hand; show forth Thy love for mankind, O merciful One; accept the Theotokos who bore Thee and prayeth for us: and save, O our Savior, a despairing people!
+[3] O Thou Who for our sake wast born of the Virgin and didst endure the Crucifixion, O Good One, Who by death didst despoil death and manifest the Resurrection as God: despise not them whom Thou didst create with Thy hand; show forth Thy love for mankind, O merciful One; accept the Theotokos who bore Thee and prays for us: and save, O our Savior, a despairing people!
 After the 2nd Kathisma, Sessional Hymns of the Martyrs. Tone 8. Model: "Having received mystically":
 [4] Luminaries shining ever in the universe were ye revealed through martyrdom: ye placed all your hope in the Lord, and with the spiritual oil of the Holy Spirit ye enlightened your spiritual lamps: whence also ye were revealed as cups of the spiritual Church, pouring forth healings like water! O all-lauded passion-bearers, entreat Christ God to grant remission of transgressions unto them that honor your holy memory with love!
 [5] Having put to death the fiery forms and stirrings of passions through abstinence, the Martyrs of Christ received grace to drive away illnesses from the sick, and while living quietly in order, to work miracles: truly a most glorious wonder, that bare bones pour forth healings! Glory to God, the only all-wise Creator!
@@ -368,7 +368,7 @@ Another Heirmos: There is none holy like Thee:
 [4] Having willingly been laid dead in a grave, raising them that dwell in the graves, O Savior: be well-pleased that those whom Thou hast received from us may dwell in the mansions of Thy saints!
 [5] Being entreated through divine tender mercy and the true goodness of Thy nature, grant remission of sins unto Thy servants, and give rest unto them who have fallen asleep!
 Theotokion:
-[6] Incarnate from thy womb and having become man, He Who alone is supremely the Lover of mankind saveth man from the gates of death, O all-pure, all-hymned Mother of God!
+[6] Incarnate from thy womb and having become man, He Who alone is supremely the Lover of mankind saves man from the gates of death, O all-pure, all-hymned Mother of God!
 Ode 4. Heirmos:
 I heard, O Lord, the mystery of Thy dispensation, I understood Thy works, and I glorified Thy Divinity!
 (Canon of All Saints Ode 4 Troparia):
@@ -380,7 +380,7 @@ I heard, O Lord, the mystery of Thy dispensation, I understood Thy works, and I 
 Of the Departed:
 [3] Account Thy servants, whom Thou hast translated, O most good One, worthy of the promised mansions with all the saints, as I invoke the prayers of the saints!
 Theotokion:
-[4] Beyond the law of nature thou didst bear the Giver of the divine law, Who reneweth fallen human nature, O Bride of God!
+[4] Beyond the law of nature thou didst bear the Giver of the divine law, Who renews fallen human nature, O Bride of God!
 Another Heirmos: Thou art my strength, O Lord:
 (Canon for the Departed Ode 4 Troparia):
 [5] That they might behold Thy glory, O Master, and receive brightly Thy light-bestowing rays in the heavens: the divine Martyrs endured to bear every kind of torture, singing unto Thee, O Christ: Glory to Thy power, O Lover of mankind!
@@ -402,7 +402,7 @@ Enlighten us by Thy commandments:
 Of the Departed:
 [4] Having slain death by Thy death, O immortal One: give rest unto Thy faithful servants who died in the hope of life, as Thou art the Lover of mankind!
 Theotokion:
-[5] Thou hast abolished the condemnation of our forefather, O pure one, having born in the flesh Jesus, the only Lord, Who justifieth all!
+[5] Thou hast abolished the condemnation of our forefather, O pure one, having born in the flesh Jesus, the only Lord, Who justifies all!
 Another Heirmos: Therefore hast Thou cast me off:
 (Canon for the Departed Ode 5 Heirmos and Troparia):
 [6] In Thy ineffable glory, and in Thy blessedness which is beyond word, in the dwellings of the righteous where the fair voice of them that feast is heard: account them that have been translated unto immortal life worthy through Thy bounties, O Thou Who alone art the Lover of mankind!
@@ -432,7 +432,7 @@ Another Heirmos the same:
 [2] Thou didst tear asunder the death enmity of sin, O Savior, and didst raise the prisoners that were held therein, granting life: whereunto account them that have been translated worthy, O Benefactor!
 [3] Deliver Thy servants from tears and groaning in hades, O Savior, as Thou alone art merciful: taking away every tear from every face of them that bless Thee unto eternity!
 Theotokion:
-[4] He Who is by nature the Creator is formed in thy womb: being full as God, He is emptied, O all-immaculate one: the only immortal One dieth by death for the salvation of all!
+[4] He Who is by nature the Creator is formed in thy womb: being full as God, He is emptied, O all-immaculate one: the only immortal One dies by death for the salvation of all!
 Kontakion. Tone 8:
 [5] With the saints give rest, O Christ, unto the souls of Thy servants, where there is no sickness, nor sorrow, nor sighing, but life unending!
 Ikos:
@@ -508,7 +508,7 @@ Theotokion:
 ##### Column A
 [1] Save me, O Mother of God, who didst bear my Savior, God and man: two natures, but not two persons: only-begotten of the Father, incorruptible, firstborn of all creation, Whom in two natures we magnify!
 At the Praises, Stichera of the Martyrs. Tone 8:
-[2] What shall we call you, O holy ones? Cherubim? For Christ resteth upon you! Seraphim? For unceasingly ye glorify Him! Angels? For ye turned away from the body! Powers? For ye work miracles! Many are your names, and yet greater are your gifts! Pray ye that our souls may be saved!
+[2] What shall we call you, O holy ones? Cherubim? For Christ rests upon you! Seraphim? For unceasingly ye glorify Him! Angels? For ye turned away from the body! Powers? For ye work miracles! Many are your names, and yet greater are your gifts! Pray ye that our souls may be saved!
 [3] Greatly did ye contend, O holy ones, manfully enduring torments from the lawless, confessing Christ before kings! And having departed from this life, ye work powers in the world, and heal the sick through your sufferings, O holy ones: pray that our souls may be saved!
 [4] Invincible Martyrs of Christ, having overcome deceit by the power of the Cross, ye received the grace of eternal life: ye feared not the threats of the tormentors, and when wounded by torments, ye made merry! And now your blood hath become healings for our souls: entreat Christ that our souls may be saved!
 [5] Clothed well in faith and by faith, and armed with the weapon of the Cross: ye appeared as valiant soldiers, manfully opposing the tormentors, and casting down the deceit of the devil; having become victors, ye were accounted worthy of crowns:

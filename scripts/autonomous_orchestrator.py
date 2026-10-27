@@ -592,7 +592,7 @@ def _apply_anti_slop_healing(draft_text: str) -> Tuple[str, bool]:
         (r"\bserves as a reminder\b", "reminds us"),
         (r"\binextricably linked\b", "closely joined"),
         (r"\bpivotal moment\b", "turning point"),
-        (r"\bpoignant\b", "solemn"),
+        (r"\bpoignant\b", "penitential"),
         (r"\bneedless to say\b", "indeed"),
         (r"\bit is important to remember\b", "note that"),
     ]
@@ -903,12 +903,16 @@ def attempt_deterministic_self_healing(monument_id: str, cohort_num: int) -> boo
         if bij_mod:
             any_modified = True
 
-    # 3. Gate 1A: Vocabulary & Father Paul Doxology replacements
-    vocab_gate = report.get("gates", {}).get("vocabulary_linter", {})
-    slop_gate = report.get("gates", {}).get("slop_linter", {})
-    if not vocab_gate.get("passed", True) or not slop_gate.get("passed", True):
-        draft_txt, vocab_mod = _apply_vocabulary_and_doxology_healing(draft_txt)
-        if vocab_mod:
+    # 3. Gate 1A & 1B: Universal MTS-1 Vocabulary, Doxology, Slop & -eth Healing (Body & Footnotes)
+    from scripts.compile_final_edition import heal_cohort_and_apparatus_text
+    draft_txt, vocab_mod = heal_cohort_and_apparatus_text(draft_txt, is_footnotes=False)
+    if vocab_mod:
+        any_modified = True
+    if footnotes_path.exists():
+        fn_raw = footnotes_path.read_text(encoding="utf-8-sig")
+        fn_healed, fn_vocab_mod = heal_cohort_and_apparatus_text(fn_raw, is_footnotes=True)
+        if fn_vocab_mod:
+            footnotes_path.write_text(fn_healed if fn_healed.endswith("\n") else fn_healed + "\n", encoding="utf-8")
             any_modified = True
 
     # 4. Gate 2: Pronoun healing
@@ -1165,28 +1169,27 @@ def verify_cohort_and_advance(monument_id: Optional[str] = None, cohort_num: Opt
     except Exception as e:
         print(f"[Warning] Failed to sync chronicle bench: {e}", file=sys.stderr)
 
-    # Decision 5 (Zero-Switch Single-Model Hardening):
-    # When remaining == 0:
-    #   - If 0 leaves are queued/quarantined, automatically compile the final publication
-    #     and reach GRAND_PAUSE without halting for a manual UI model switch!
-    #   - If leaves are queued/quarantined, automatically dispatch run_argon_post_sprint_audit()
-    #     using the active model ('inherit') without requiring a manual UI model switch!
+    # Strict 3-Phase Bookend Circuit-Breaker (.agents/AGENTS.md Rule 14):
+    # When remaining == 0, unconditionally halt at AWAITING_ARGON_POST_SPRINT_AUDIT so the human operator
+    # can switch the Main Window UI dropdown from Flash -> Gemini 4 Argon (High) before Phase 2 audit & compilation.
     if remaining == 0:
         queued_total = state.get("argon_review_queue_count", 0)
         quarantined_total = state.get("unresolved_quarantines", 0)
-
-        if queued_total == 0 and quarantined_total == 0:
-            print("\n" + "=" * 70)
-            print("  PHASE 1 FLASH COHORT SPRINT 100% COMPLETE (0 QUEUED / 0 QUARANTINED)!")
-            print("  ZERO-SWITCH AUTO-PROGRESSION: Compiling canonical publication edition...")
-            print("=" * 70 + "\n")
-            return compile_final_publication(resolved_id)
+        state["routing_phase"] = "PHASE_2_AWAITING_ARGON_AUDIT"
+        state["small_pause_gate_status"] = "AWAITING_ARGON_POST_SPRINT_AUDIT"
+        save_state(state)
 
         print("\n" + "=" * 70)
-        print("  PHASE 1 FLASH COHORT SPRINT COMPLETE!")
-        print(f"  Auto-dispatching Post-Sprint Audit for {queued_total} queued leaves ({quarantined_total} quarantined)...")
+        print("  PHASE 1 FLASH COHORT SPRINT 100% COMPLETE!")
+        print(f"  Queued for Argon Deep Audit: {queued_total} leaves ({quarantined_total} quarantined).")
+        print("  CIRCUIT-BREAKER HALT: Switch Main Window UI dropdown from Flash -> Gemini 4 Argon (High),")
+        print("  then execute: py scripts/autonomous_orchestrator.py --run-argon-audit")
         print("=" * 70 + "\n")
-        return run_argon_post_sprint_audit(resolved_id)
+        return {
+            "status": "AWAITING_ARGON_POST_SPRINT_AUDIT",
+            "queued_leaves": queued_total,
+            "unresolved_quarantines": quarantined_total,
+        }
 
     # Advance to next cohort on Flash
     next_cohort = cohort_num + 1
@@ -1401,15 +1404,28 @@ def compile_final_publication(monument_id: Optional[str] = None) -> Dict[str, An
     return {"status": "GRAND_PAUSE", "monument_complete": True, "publication_edition_ready": True}
 
 
-def approve_grand_pause(monument_id: Optional[str] = None, push_to_git: bool = True) -> Dict[str, Any]:
+def approve_grand_pause(
+    monument_id: Optional[str] = None,
+    push_to_git: bool = True,
+    confirm_human_signoff: bool = False,
+) -> Dict[str, Any]:
     """
     Formally approves the Grand Pause for a completed monument.
+    Requires explicit --confirm-human-signoff CLI flag to prevent unattended agent self-approval.
     1. Enforces unresolved_quarantines == 0 and re-verifies canonical publication edition integrity.
     2. Syncs deliverables to Hub inbox (Typikon Coded/Data/Inbox/).
-    3. Stages and commits all translation artifacts to Git.
+    3. Stages and commits monument translation artifacts to Git (scoped to monument files).
     4. Pushes commits to remote repository (git push origin master).
     5. Advances monument state and generates the copy-pasteable /plan prompt for the next monument.
     """
+    if not confirm_human_signoff:
+        msg = (
+            "Grand Pause approval blocked: '--confirm-human-signoff' is required. "
+            "Never execute --approve-grand-pause without explicit human operator approval."
+        )
+        print(f"\n[CIRCUIT-BREAKER] {msg}", file=sys.stderr)
+        return {"status": "BLOCKED_AWAITING_HUMAN_SIGNOFF", "error": msg}
+
     state, mon_info, resolved_id = get_current_context(monument_id)
     with open(REGISTRY_FILE, "r", encoding="utf-8") as f:
         registry = json.load(f)
@@ -1430,15 +1446,16 @@ def approve_grand_pause(monument_id: Optional[str] = None, push_to_git: bool = T
     print(f"EXECUTING GRAND PAUSE APPROVAL & FINAL SEALING: {short_title}")
     print("=" * 70)
 
-    # 1. Gate Invariant Check
+    # 1. Gate Invariant Check (Hard Blocker — never swallow import/gate failures)
     try:
-        from verify_publication_edition import verify_monument_publication
+        from scripts.verify_publication_edition import verify_monument_publication
         pub_ok = verify_monument_publication(resolved_id)
         if not pub_ok:
             print("\n[ERROR] Grand Pause aborted: Publication quality gate failed!", file=sys.stderr)
             return {"status": "FAILED", "error": "Publication gate failed"}
     except Exception as e:
-        print(f"\n[Warning] Verification check raised exception: {e}", file=sys.stderr)
+        print(f"\n[ERROR] Grand Pause aborted: Verification check raised exception: {e}", file=sys.stderr)
+        return {"status": "FAILED", "error": f"Publication verification exception: {e}"}
 
     # 2. Hub Inbox Sync
     hub_inbox = PROJECT_ROOT.parent / "Typikon Coded" / "Data" / "Inbox"
@@ -1450,12 +1467,16 @@ def approve_grand_pause(monument_id: Optional[str] = None, push_to_git: bool = T
 
         if final_md_dir.exists():
             copied_files = 0
-            for f in final_md_dir.glob("*.md"):
-                shutil.copy2(f, target_inbox / f.name)
-                copied_files += 1
+            for f in final_md_dir.glob("*"):
+                if f.is_file() and f.suffix.lower() in (".md", ".json"):
+                    shutil.copy2(f, target_inbox / f.name)
+                    copied_files += 1
             print(f"  [HUB SYNC] Synced {copied_files} publication files to {target_inbox.name}")
 
-            handoff_note = f"""# Hub Ingestion Handoff: {short_title}
+            # Preserve the detailed handoff_note.md generated by compile_final_edition.py if already present
+            handoff_path = target_inbox / "handoff_note.md"
+            if not handoff_path.exists():
+                handoff_note = f"""# Hub Ingestion Handoff: {short_title}
 
 - **Monument ID**: `{resolved_id}`
 - **Title**: {mon_info.get('title', short_title)}
@@ -1465,7 +1486,7 @@ def approve_grand_pause(monument_id: Optional[str] = None, push_to_git: bool = T
 - **Image Mirror**: Permanent 300 DPI JPEG Vault on Drive E:
 - **Timestamp**: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
 """
-            (target_inbox / "handoff_note.md").write_text(handoff_note, encoding="utf-8")
+                handoff_path.write_text(handoff_note, encoding="utf-8")
 
     # 3. Chronicle Bench Sync
     try:
@@ -1477,14 +1498,19 @@ def approve_grand_pause(monument_id: Optional[str] = None, push_to_git: bool = T
     except Exception as e:
         print(f"  [Warning] Chronicle sync error: {e}", file=sys.stderr)
 
-    # 4. Git Stage, Commit, and Push
+    # 4. Scoped Git Stage, Commit, and Push
     git_result = {"committed": False, "pushed": False}
     if push_to_git:
-        print("\n[GIT PIPELINE] Staging and committing all deliverables...")
+        print("\n[GIT PIPELINE] Staging and committing monument deliverables...")
         try:
-            subprocess.run(["git", "add", "."], cwd=PROJECT_ROOT, check=True)
+            scoped_paths = [
+                str(ws.relative_to(PROJECT_ROOT)),
+                "Liturgical Monuments/codex_registry.json",
+                "Liturgical Monuments/ACTIVE_ORCHESTRATOR_STATE.json",
+            ]
+            subprocess.run(["git", "add", "--"] + scoped_paths, cwd=PROJECT_ROOT, check=True)
             status_res = subprocess.run(
-                ["git", "status", "--porcelain"], cwd=PROJECT_ROOT, capture_output=True, text=True, check=True
+                ["git", "diff", "--cached", "--name-only"], cwd=PROJECT_ROOT, capture_output=True, text=True, check=True
             )
 
             commit_msg = f"feat({resolved_id}): seal canonical publication edition of {short_title} (leaves 1..{total_pages})"
@@ -1658,6 +1684,7 @@ def main():
     parser.add_argument("--compile-publication", action="store_true", help="Compile LCPE publication edition after Argon audit (requires 0 unresolved quarantines)")
     parser.add_argument("--step", action="store_true", help="Execute the next autonomous loop step")
     parser.add_argument("--approve-grand-pause", action="store_true", help="Formally approve Grand Pause, sync Hub, push deliverables to git, and hand off")
+    parser.add_argument("--confirm-human-signoff", action="store_true", help="Explicit confirmation flag required with --approve-grand-pause after human operator sign-off")
     parser.add_argument("--defer-monument", action="store_true", help="Gate 0 remediation: mark monument failed, move to back of codex_registry.json, and hand off to next monument")
     parser.add_argument("--reason", type=str, default="", help="Reason for deferring a monument via --defer-monument")
     parser.add_argument("--no-git-push", action="store_true", help="Skip remote git push during Grand Pause approval")
@@ -1691,9 +1718,15 @@ def main():
         return
 
     if args.approve_grand_pause:
-        res = approve_grand_pause(monument_id=args.monument, push_to_git=(not args.no_git_push))
+        res = approve_grand_pause(
+            monument_id=args.monument,
+            push_to_git=(not args.no_git_push),
+            confirm_human_signoff=args.confirm_human_signoff,
+        )
         if args.json:
             print(json.dumps(res, indent=2, ensure_ascii=False))
+        if res.get("status") != "APPROVED":
+            sys.exit(2)
         return
 
     if args.run_argon_audit:

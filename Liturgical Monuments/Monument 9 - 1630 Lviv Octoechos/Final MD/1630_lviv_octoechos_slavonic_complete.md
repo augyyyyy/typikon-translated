@@ -137,7 +137,7 @@ Oktoich
 20/V 76
 
 [Жартівливий канторський запис латинкою руською мовою:]
-Tropar hlas 7
+(*Tropar hlas 7*)
 Oy pope popoyku pryichaly władyki
 chot' nam kony wziaty nie
 wim meje semoho klasa wspinjuty

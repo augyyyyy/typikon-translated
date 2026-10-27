@@ -463,7 +463,7 @@ def test_zero_switch_end_of_sprint_auto_progression(monkeypatch, tmp_path):
     )
 
     res = autonomous_orchestrator.verify_cohort_and_advance(monument_id="test_zero_switch", cohort_num=1)
-    assert res["status"] == "GRAND_PAUSE"
-    assert res["monument_complete"] is True
-    assert res["publication_edition_ready"] is True
+    assert res["status"] == "AWAITING_ARGON_POST_SPRINT_AUDIT"
+    assert res["queued_leaves"] == 0
+    assert res["unresolved_quarantines"] == 0
 

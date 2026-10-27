@@ -16,7 +16,7 @@ Now as the only good and mankind-loving God, by the supplications of the martyrs
 
 ##### Column B
 unto those who unceasingly magnify Thee with hymns.
-In the holy tabernacles, in the bosom of Abraham, number those whom Thou hast received, O Christ, with the righteous, where the light of Thy countenance shineth, the ineffable and divine, and true everlasting joy that abideth unto the ages.
+In the holy tabernacles, in the bosom of Abraham, number those whom Thou hast received, O Christ, with the righteous, where the light of Thy countenance shines, the ineffable and divine, and true everlasting joy that abides unto the ages.
 Make Thy servants whom Thou hast translated by Thy will worthy of Thy blessed life, eternal good things, unceasing delight, and true gladness, O Giver of life, in a place of pasture, beside the waters of rest.
 Theotokion:
 As the holy Ark and candlestick of the Tabernacle of the Lawgiver, O all-immaculate Lady, Thou didst receive in Thy womb Thy Creator, Who by His death overthrew the ancient weapon found against us and the law of death.
@@ -53,7 +53,7 @@ Thou didst cast out our forefather Adam from Paradise when he set aside Thy comm
 Mingling yourselves with fiery wounds, O passion-bearers of Christ, ye found heavenly dew which refreshed and strengthened you to endure the bitter bodily pains; therefore ye ease every pain continually for our souls.
 O sacred hierarchs, glorious Prophets, multitude of the venerable, and choir of divine women, through fasting ye received heavenly glory, trampling down the deception of the enemy; by their prayers, O Savior, have mercy upon Thy servants.
 For the Departed:
-Where Thy light shineth in the mansions of Thine elect, O God, where delight floweth evermore, establish those who have been translated from among us in faith, O Jesus, overlooking their transgressions, O Savior, that we may diligently glorify Thee.
+Where Thy light shines in the mansions of Thine elect, O God, where delight flows evermore, establish those who have been translated from among us in faith, O Jesus, overlooking their transgressions, O Savior, that we may diligently glorify Thee.
 Glory...
 
 === LEAF p102 ===
@@ -68,7 +68,7 @@ Enlightenment and cleansing, and deliverance for all through Him Who was reveale
 ##### Column B
 O Lady full of the grace of God, fervently beseech Him to deliver us from all condemnation at the dread future judgment, O Most-pure One, who ever faithfully hymn Thee.
 
-[Woodcut: The Golgotha Crucifixion scene, depicting the Cross of Christ on Mount Golgotha flanked by the spear on the left and the reed with sponge on the right, bearing the titulus inscribed ІС ХС ЦРЬ СЛВЫ (Jesus Christ, King of Glory), with the walled city of Jerusalem in the background and the skull of Adam in the cavern below.][^150]
+[Woodcut: The Golgotha Crucifixion scene, depicting the Cross of Christ on Mount Golgotha flanked by the spear on the left and the reed with sponge on the right, bearing the titulus inscribed "Jesus Christ, King of Glory" (*ІС ХС ЦРЬ СЛВЫ*), with the walled city of Jerusalem in the background and the skull of Adam in the cavern below.][^150]
 
 #### [Right Page — Folio 102r]
 ##### Column A
@@ -99,7 +99,7 @@ save from the assault of the enemy, O all-immaculate Mother of God, as the Prote
 Verse: Hear, O daughter, and see, and incline thine ear. [Ps. 44:11]
 Behold, I lay bare unto Thee the sores of my soul, and show Thee the wounded afflictions which robbers have inflicted upon me through wicked thoughts and demonic agitations, O all-immaculate Mother of God, who gavest birth to the Physician of souls and bodies; grant me healing of these by Thy supplication, pouring forth the oil of Thy compassion and goodness according to the dignity of salvation and deliverance.
 Verse: I will remember Thy name in every generation and generation. [Ps. 44:18]
-I, wretched one, do not hide my ways, for I have acquired all things that God hateth; I have defiled flesh
+I, wretched one, do not hide my ways, for I have acquired all things that God hates; I have defiled flesh
 
 ##### Column B
 and my spirit, and the intellectual thoughts, with unfitting deeds and vile words, with tongue and deeds, senses, and most-grievous acts. O Mother of God, grant me amendment of all these, that I may not be put to shame by my evil customs; I fall down and weep for the wretched deeds I have committed walking through this life.
@@ -133,7 +133,7 @@ O Lord, Thy birth from the Father is timeless and co-eternal;
 ##### Column A
 and Thine incarnation from the Virgin is ineffable and inexplicable unto men; and Thy descent into hades was dreadful unto the devil and his angels; for having trampled down death, Thou didst rise on the third day, granting incorruption and great mercy unto mankind.
 Glory... Both now... Theotokion:[^154]
-David, the forefather of God, through Thee, O Prophet, musically proclaimed concerning Thee unto Him Who hath done great things for Thee: The Queen stood at Thy right hand; for God, Who willed to become man from Thee without a father, showed Thee as the Mother and mediatress of life, that He might renew His own image corrupted by passions; and having found the wandering sheep, caught by wolves, taking it upon His shoulders, He brought it unto the Father, and according to His own will united it with the heavenly powers; and Christ, Who possesseth great and abundant mercy, saved the world through the Mother of God.
+David, the forefather of God, through Thee, O Prophet, musically proclaimed concerning Thee unto Him Who hath done great things for Thee: The Queen stood at Thy right hand; for God, Who willed to become man from Thee without a father, showed Thee as the Mother and mediatress of life, that He might renew His own image corrupted by passions; and having found the wandering sheep, caught by wolves, taking it upon His shoulders, He brought it unto the Father, and according to His own will united it with the heavenly powers; and Christ, Who possesses great and abundant mercy, saved the world through the Mother of God.
 
 AT THE APOSTICHA, STICHERON
 Resurrectional. Tone 4.[^155]
@@ -147,8 +147,8 @@ Suspended upon the wood, O only Mighty One, Thou didst shake all creation; and l
 unto the human race. Therefore, singing we glorify Thy three-day rising.
 Verse: For He hath established the world, which shall not be shaken. [Ps. 92:1]
 The lawless people, O Christ, having betrayed Thee unto Pilate, condemned Thee to be crucified, appearing ungrateful toward their Benefactor; but of Thine own will Thou didst endure burial, and by Thine own sovereign power didst rise on the third day as God, granting unto us unending life and great mercy.
-Verse: Holiness becometh Thy house, O Lord, unto length of days. [Ps. 92:5]
-Reaching the tomb with tears, the women sought Thee; and not finding Thee, they wept and cried aloud with lamentation, saying: Woe unto us, our Savior, King of all! How wast Thou stolen away? What place containeth Thy life-bearing body? An Angel answered them, saying: Weep not, but go and proclaim that the Lord is risen, granting us joy, as the only Compassionate One!
+Verse: Holiness becomes Thy house, O Lord, unto length of days. [Ps. 92:5]
+Reaching the tomb with tears, the women sought Thee; and not finding Thee, they wept and cried aloud with lamentation, saying: Woe unto us, our Savior, King of all! How wast Thou stolen away? What place contains Thy life-bearing body? An Angel answered them, saying: Weep not, but go and proclaim that the Lord is risen, granting us joy, as the only Compassionate One!
 Glory... Both now... Theotokion:
 Grant consolation unto Thy servants, O All-immaculate One, putting down the fierce risings against us, delivering us from every affliction; for Thee alone do we hold as a firm and sure hope, and we have acquired Thy protection; let us not be put to shame, O Lady, who call upon Thee; hasten Thou unto the supplication of those who faithfully cry unto Thee: Rejoice, O Lady, helper of all, joy and protection of our souls!
 
@@ -169,7 +169,7 @@ Let us glorify the Persons of the divine-originating Trinity, the one Nature equ
 Thou wast anointed by the Father with the oil of gladness through the Spirit, O God-crowned One, as Son; and becoming man, Thou didst teach the co-essential nature of the one Godhead.
 The Seraphim, unable to endure the beauty of the inaccessible glory of Thy three-sunned Unity, cover themselves with their wings, and unceasingly glorify Thee with thrice-holy hymns.
 Theotokion:
-Ineffably Thou gavest birth unto the Creator of all, O Most-pure One, Who delivereth mankind from the ancient curse and from mortal corruption; through Thee have we come to know the one co-essential God.
+Ineffably Thou gavest birth unto the Creator of all, O Most-pure One, Who delivers mankind from the ancient curse and from mortal corruption; through Thee have we come to know the one co-essential God.
 
 Ode 3. Heirmos.
 Not by wisdom nor by power:
@@ -246,7 +246,7 @@ Ode 9. Heirmos.
 Let every earthborn:
 Unto Thee now I direct my heart and thought, and both day and night my whole soul and body unto my Creator and Deliverer, O three-radiant Ruler of all; and I cry unto Thee: Save me Thy servant from perils and great afflictions!
 Exalt our mind and thought unto Thee on high, enlighten us with Thy most-pure radiances, O Father, Word, and Comforter, dwelling in inaccessible light, O Sun of glory holding the light: ever to glorify Thee, the one-originating God in three Persons.
-One Light in three properties, divided in Persons: Father, Son, and Holy Spirit, by Whom all creation subsisteth; Whom the Son, descending, renewed, suffered, and rose on the third day.
+One Light in three properties, divided in Persons: Father, Son, and Holy Spirit, by Whom all creation subsists; Whom the Son, descending, renewed, suffered, and rose on the third day.
 Save those who believe in Thee as God, who proclaim the transcendent beginningless Essence as one God: the three Persons, equal in beginning and dominion, of Thy Lordship, and worthy of divine glory, through the prayers of the pure Mother of God.
 
 At Matins, after God is the Lord: Troparion:
@@ -273,7 +273,7 @@ By Thy voluntary counsel Thou didst endure crucifixion, O Savior, and in a new t
 the Giver of life, abiding unto the ages!
 Gabriel descended from the heights on high, and approaching the stone where the Stone of life lay, shining in white he cried aloud unto the weeping women: Cease your cries of lamentation, ye who ever have grace; for Him Whom ye seek weeping, take courage, for He is truly risen; therefore cry aloud unto the Apostles that the Lord is risen!
 Glory... Both now... Theotokion:
-Joseph was astonished, beholding that which was beyond nature, and meditating upon the rain upon the fleece in Thy seedless conception, O Mother of God: the Bush unburnt by fire, Aaron's rod that budded; and he bore witness, as Thy betrothed and guardian, crying unto the priests: A Virgin giveth birth, and after giving birth remaineth still a Virgin!
+Joseph was astonished, beholding that which was beyond nature, and meditating upon the rain upon the fleece in Thy seedless conception, O Mother of God: the Bush unburnt by fire, Aaron's rod that budded; and he bore witness, as Thy betrothed and guardian, crying unto the priests: A Virgin gives birth, and after giving birth remains still a Virgin!
 
 Hypakoe, Tone 4.
 Running swiftly unto Thy glorious rising, the Myrrh-bearers proclaimed unto the Apostles, O Christ: that Thou art risen as God, granting great mercy unto the world.
@@ -294,7 +294,7 @@ Through the Holy Spirit the streams of grace gush forth, watering all creation u
 Antiphon 3.
 Let my heart be lifted up unto Thee, O Word, and let none of the beauties of the world sweeten me unto pleasure.
 As one hath love toward his mother, so are we bound to have warmer affection toward the Lord.
-Through the Holy Spirit cometh the wealth of the knowledge of God, contemplation, and wisdom; for from Him the Word revealeth all the Father's commandments.
+Through the Holy Spirit comes the wealth of the knowledge of God, contemplation, and wisdom; for from Him the Word reveals all the Father's commandments.
 
 Prokeimenon, Tone 4: Arise, O Lord, help us, and deliver us for Thy name's sake. [Ps. 43:26] Verse: O God, we have heard with our ears. [Ps. 43:1] Let every breath praise the Lord. Resurrection Gospel, and the rest in order.
 
@@ -312,14 +312,14 @@ Without seed by the Father's will, from the divine Spirit, Thou didst conceive t
 Another Canon, of the Cross and Resurrection.
 Tone 4. Heirmos: I will open my mouth:
 Healing the shattered nature of mankind, O Lord, Thou didst renew it by Thy divine blood, and shattering him who was mighty in strength, who of old shattered Thy creation.
-The rising of the dead came to pass through Thy being put to death; for the strength of death was taken away, being surpassed by eternal life, when God, Who ruleth over all, became incarnate.
+The rising of the dead came to pass through Thy being put to death; for the strength of death was taken away, being surpassed by eternal life, when God, Who rules over all, became incarnate.
 Theotokion:
 Remaining glorious above the heavenly hosts, Thy divine temple became animate; Thou didst bear in Thy womb, O Virgin, holy mountain, our Lady.
 
 Another Canon, to the Most-holy Mother of God.
 Tone 4. Heirmos: The three mighty captains:
 The peoples were shaken, the nations were troubled, and the mighty kingdoms were bowed down, O Pure One, from fear of Thy birth-giving; for my King came, cast down the tyrant, and delivered the world from evil.
-Descending unto men, Christ cleansed the dwelling where He Who dwelleth in the highest dwelt, and showed it to be unshakable, the only
+Descending unto men, Christ cleansed the dwelling where He Who dwells in the highest dwelt, and showed it to be unshakable, the only
 
 === LEAF p107 ===
 
@@ -328,8 +328,8 @@ Descending unto men, Christ cleansed the dwelling where He Who dwelleth in the h
 vessel of virginity after childbearing, having preserved her who gave birth unto the Creator.[^162]
 
 Ode 3. Heirmos.
-Thy Church rejoiceth in Thee, O Christ, crying aloud: Thou art my strength, O Lord, my refuge, and my confirmation!
-The wood of life, the spiritual and true Vine, hangeth upon the wood, pouring forth incorruption unto all.
+Thy Church rejoices in Thee, O Christ, crying aloud: Thou art my strength, O Lord, my refuge, and my confirmation!
+The wood of life, the spiritual and true Vine, hangs upon the wood, pouring forth incorruption unto all.
 As great, as dreadful, He cast down the insolence of hades; and as incorrupt God, He is now risen bodily from the tomb.
 Theotokion:
 Thou alone, O Mother of God, wast the mediatress of goods beyond nature for those on earth; therefore we cry unto Thee: Rejoice!
@@ -379,7 +379,7 @@ We offer Thee as an invincible weapon against enemies; we have acquired Thee as 
 Another [Canon]. Heirmos: All things were amazed:
 Senseless hades prepared to receive Thee entirely, for beholding Thee nailed to the Cross, pierced with the lance, breathless, the living God: it thought Thee to be a mere man; but experiencing the might of Thy Godhead, it came to know Thee.
 The tomb and hades, O Lover of mankind, divided the ruined temple of Thy body, having gone thither unwillingly unto those who had decayed; so that the souls of Thy saints and their bodies, O all-mortal One, were quickened.
-Lo, now the prophetic utterance is fulfilled; for Thou, O Virgin unwedded, didst receive in Thy womb the God Who is over all, and gavest birth unto the timeless Son, Who granteth peace unto all who sing of Thee.
+Lo, now the prophetic utterance is fulfilled; for Thou, O Virgin unwedded, didst receive in Thy womb the God Who is over all, and gavest birth unto the timeless Son, Who grants peace unto all who sing of Thee.
 
 Another [Canon]. Heirmos: Unto those walking in darkness:
 A house of glory, and a holy mountain of God, O Pure One, a bridal chamber, a temple of sanctification of the Son of God Who dwelt in Thee, and made for us the eternal wounds of delight.
@@ -387,7 +387,7 @@ Thou didst take flesh from virginal blood, O Christ, a thickened substance and c
 The virginal womb put to shame the mind of tyrants; for as an infant He tested the soul-destroying viper's den with His hand, and cast down the proud whisperer, subjecting him under the feet of the faithful.
 
 Ode 6. Heirmos.
-I will sacrifice unto Thee with the voice of praise, O Lord, the Church crieth unto Thee, having been cleansed from the blood of demons by the mercy
+I will sacrifice unto Thee with the voice of praise, O Lord, the Church cries unto Thee, having been cleansed from the blood of demons by the mercy
 
 === LEAF p108 ===
 
@@ -397,7 +397,7 @@ flowing from Thy side.
 Thou didst ascend the Cross, girded with power, and grappling with the tyrant as God, Thou didst cast that adversary down from on high; and Adam Thou didst raise up by Thine invincible power.
 Rising radiant and beautiful from the tomb, O Christ, Thou didst scatter all Thine enemies by divine power, and as God didst fill all things with gladness.
 Theotokion:
-O wonder newest of all wonders! For a Virgin, having conceived without a man, contained without confinement in her womb Him Who upholdeth all things by His word.
+O wonder newest of all wonders! For a Virgin, having conceived without a man, contained without confinement in her womb Him Who upholds all things by His word.
 
 Another [Canon]. Heirmos:
 I came into the depth of the sea:
@@ -435,7 +435,7 @@ Triadicon:
 Shining with divine rays, we glorify the one Godhead, as in three lights, unmingled, undivided, the eternal flame enlightening all who cry: O praised God of our fathers, blessed art Thou!
 Another [Canon]. Heirmos:
 The three youths in Babylon:
-Virginal love draweth me unto singing, the fire unto rest in the Mother and Virgin: Blessed art Thou, O Lord, Who art.
+Virginal love draws me unto singing, the fire unto rest in the Mother and Virgin: Blessed art Thou, O Lord, Who art.
 Thou art higher than all creatures, for Thou gavest birth unto the Creator and Lord; therefore I cry unto Thee, O blessed Mother of God: The Lord of hosts is with Thee!
 Triadicon:
 I honor one Nature indivisible in three Hypostases, and I sing of the three-hypostatic Nature: Blessed art Thou, O Lord God of our fathers!
@@ -517,7 +517,7 @@ Through the tree Adam became an exile from Paradise; but through the tree of the
 Having the Cross of Christ in our thoughts, let us strive to put to death the pleasures of life, making our souls a resting-place for the Holy Spirit; and raising the voice of the wise thief, let us cry aloud in faith: Remember us also in Thy kingdom!
 O faithful, let us beseech Him Who is risen from the dead, Who despoiled the dominion of hades, and appeared unto the Myrrh-bearing women, crying aloud unto them: Rejoice! that He may deliver mankind from corruption, ever crying unto Him with the voice of the wise thief: Remember us also in Thy kingdom!
 Unto Thy tomb, O Christ, the Myrrh-bearers came to anoint Thee; and not finding Thy life-bearing and most-pure body, O Good One, they were in perplexity, seeking Thee with tears and weeping; but beholding Thee, the beloved Master, they cried unto Thee: Remember us in Thy kingdom!
-In truth Christ is risen! And the tomb beareth witness, O transgressors
+In truth Christ is risen! And the tomb bears witness, O transgressors
 
 ##### Column B
 of the law; for leaving the grave-clothes, He is risen on the third day, though ye sealed the stone; and the guards stood before the tomb; hades was despoiled, death was put to death; Christ was not stolen away: believe with us in His Resurrection!

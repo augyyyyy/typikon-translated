@@ -26,6 +26,42 @@ if sys.stdout and hasattr(sys.stdout, "reconfigure"):
 SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = SCRIPT_DIR.parent
 REGISTRY_FILE = PROJECT_ROOT / "data" / "liturgical_primitives_registry.json"
+CODEX_REGISTRY_FILE = PROJECT_ROOT / "Liturgical Monuments" / "codex_registry.json"
+
+
+def load_monument_metadata(monument_id: str) -> Dict[str, Any]:
+    """Loads dynamic codicological and topology metadata for monument_id from codex_registry.json."""
+    default_year = "1630"
+    m_yr = re.match(r"^(\d{4})_", monument_id)
+    if m_yr:
+        default_year = m_yr.group(1)
+
+    meta: Dict[str, Any] = {
+        "monument_id": monument_id,
+        "title": monument_id.replace("_", " ").title(),
+        "short_title": monument_id.replace("_", " ").title(),
+        "publication_year": default_year,
+        "total_physical_pages": 267,
+        "workspace_dir": f"Liturgical Monuments/{monument_id}",
+        "folio_offset": 13 if "1629" in monument_id else 6,
+        "opening_geometry": "2-up",
+    }
+    if CODEX_REGISTRY_FILE.is_file():
+        try:
+            reg = json.loads(CODEX_REGISTRY_FILE.read_text(encoding="utf-8-sig"))
+            mon_cfg = reg.get("monuments", {}).get(monument_id, {})
+            if mon_cfg:
+                meta["title"] = mon_cfg.get("title", meta["title"])
+                meta["short_title"] = mon_cfg.get("short_title", meta["title"])
+                meta["total_physical_pages"] = int(mon_cfg.get("total_physical_pages", meta["total_physical_pages"]))
+                meta["workspace_dir"] = mon_cfg.get("workspace_dir", meta["workspace_dir"])
+                if "folio_offset" in mon_cfg:
+                    meta["folio_offset"] = int(mon_cfg["folio_offset"])
+                if "opening_geometry" in mon_cfg:
+                    meta["opening_geometry"] = str(mon_cfg["opening_geometry"])
+        except (OSError, ValueError, json.JSONDecodeError):
+            pass
+    return meta
 
 
 # ==============================================================================
@@ -82,6 +118,8 @@ CONTRACTIONS = {
     "мти": "мати",
     "мтре": "матере",
     "дв": "дѣв",
+    "два": "дѣва",
+    "дваа": "дѣва",
     "дво": "дѣво",
     "влк": "владык",
     "влко": "владыко",
@@ -127,7 +165,8 @@ def normalize_slavonic_tier2(s: str) -> str:
     spelling and phonological reflexes (vowels, yers, iotation).
     """
     t1 = normalize_slavonic_tier1(s)
-    t2 = t1.replace("ѡ", "о").replace("ѻ", "о").replace("ꙋ", "у").replace("ѧ", "я")
+    t2 = t1.replace("\u1c82у", "у").replace("\u1c82", "о").replace("оу", "у")
+    t2 = t2.replace("ѡ", "о").replace("ѻ", "о").replace("ꙋ", "у").replace("ѧ", "я")
     t2 = t2.replace("ѣ", "е").replace("є", "е")
     t2 = t2.replace("ї", "и").replace("і", "и").replace("ѵ", "и").replace("ы", "и")
     t2 = t2.replace("ѿ", "от").replace("ѳ", "ф").replace("ѯ", "кс").replace("ѱ", "пс")
@@ -147,26 +186,39 @@ def classify_slavonic_drift(text_a: str, text_b: str) -> Tuple[str, float, Dict[
     - TIER_0_EXACT: 100% character identical.
     - TIER_1_TYPOGRAPHIC_TITLO: Identical after removing accents, titla, contractions.
     - TIER_2_ORTHOGRAPHIC_PHONOLOGICAL: Identical after Ruthenian spelling harmonization.
+    - SCRIBAL_INCIPIT_TRUNCATION: Scribe printed an abbreviated/shortened opening incipit of the canonical model.
     - TIER_3_LEXICAL_RECENSIONAL: Lexical, syntactic, or morphological variation.
     """
-    if text_a.strip() == text_b.strip():
+    clean_a = re.sub(r"^\[Подо́бенъ:\]\s*", "", text_a.strip())
+    clean_b = re.sub(r"^\[Подо́бенъ:\]\s*", "", text_b.strip())
+    if clean_a == clean_b:
         return "TIER_0_EXACT", 1.0, {"details": "Exact character match"}
 
-    t1_a = normalize_slavonic_tier1(text_a)
-    t1_b = normalize_slavonic_tier1(text_b)
+    t1_a = normalize_slavonic_tier1(clean_a)
+    t1_b = normalize_slavonic_tier1(clean_b)
     if t1_a == t1_b:
         return "TIER_1_TYPOGRAPHIC_TITLO", 0.98, {"t1": t1_a, "details": "Accents, titla, or contractions variance"}
 
-    t2_a = normalize_slavonic_tier2(text_a)
-    t2_b = normalize_slavonic_tier2(text_b)
+    t2_a = normalize_slavonic_tier2(clean_a)
+    t2_b = normalize_slavonic_tier2(clean_b)
     if t2_a == t2_b:
         return "TIER_2_ORTHOGRAPHIC_PHONOLOGICAL", 0.92, {"t2": t2_a, "details": "Ruthenian spelling / phonological reflex variance"}
 
-    matcher = difflib.SequenceMatcher(None, t2_a.split(), t2_b.split())
+    words_a = t2_a.split()
+    words_b = t2_b.split()
+    if words_a and words_b and len(words_a) < len(words_b):
+        if words_b[:len(words_a)] == words_a or words_a[0][:4] == words_b[0][:4]:
+            return "SCRIBAL_INCIPIT_TRUNCATION", 0.90, {
+                "t2_source": t2_a,
+                "t2_canonical": t2_b,
+                "details": f"Scribal incipit truncation ({len(words_a)} vs {len(words_b)} words)"
+            }
+
+    matcher = difflib.SequenceMatcher(None, words_a, words_b)
     ratio = matcher.ratio()
 
-    diff_tokens_a = [t for t in t2_a.split() if t not in t2_b.split()]
-    diff_tokens_b = [t for t in t2_b.split() if t not in t2_a.split()]
+    diff_tokens_a = [t for t in words_a if t not in words_b]
+    diff_tokens_b = [t for t in words_b if t not in words_a]
 
     return "TIER_3_LEXICAL_RECENSIONAL", round(ratio, 3), {
         "similarity": round(ratio, 3),
@@ -181,7 +233,11 @@ def classify_slavonic_drift(text_a: str, text_b: str) -> Tuple[str, float, Dict[
 # ==============================================================================
 
 SLAV_POD_RE = re.compile(
-    r"(?:^|[\s\.\*:])(Подо́?б?е?н?ъ?|Подѡ́?б?е?н?ъ?|По́?д?о?б?|По̀?|Гла́мо(?:\s*\[Подобен\])?)\s*:\s*(.*)$",
+    r"(?:^|[\s\.\*:])(Подо́?б?е?н?ъ?|Подѡ́?б?е?н?ъ?|Поⷣо́?б?е?н?ъ?|По́?д?о?б?|Поⷣ\.?|По́\.|По̀\s*,|По̀\s*:|Гла́мо(?:\s*\[Подобен\])?)(?:\s*[:\.,]|\s+)\s*(.*)$",
+    re.IGNORECASE
+)
+SLAV_UNLABELED_POD_RE = re.compile(
+    r"(?:Сѣда́?л?н?а?|Сѣ̑да̑|Стїхи́?р?ы?|Стіхи́?р?ы?)\s*,?\s*(?:Гла́?с?ъ?|гла̑)\s*,?\s*[а-яіїєѡꙋ҃\d]+\s*[\.,:]\s*(.+)$",
     re.IGNORECASE
 )
 SLAV_VERSE_RE = re.compile(
@@ -190,7 +246,10 @@ SLAV_VERSE_RE = re.compile(
 )
 
 
-def extract_leaf_slavonic_primitives(s_lines: List[str]) -> Tuple[List[str], List[str], List[str]]:
+def extract_leaf_slavonic_primitives(
+    s_lines: List[str],
+    podoben_models: Optional[List[Dict[str, Any]]] = None
+) -> Tuple[List[str], List[str], List[str]]:
     """Extracts Slavonic Podoben incipits, Psalm Stichoi, and full stanzas from a single leaf's lines."""
     s_pods: List[str] = []
     s_verses: List[str] = []
@@ -198,24 +257,46 @@ def extract_leaf_slavonic_primitives(s_lines: List[str]) -> Tuple[List[str], Lis
 
     for idx_s, raw_sl in enumerate(s_lines):
         sl = raw_sl.strip()
-        if not sl or sl.startswith("#") or sl.startswith("===") or sl.startswith("[Колонка"):
+        if not sl or sl.startswith("#") or sl.startswith("===") or sl.startswith("[Колонка") or sl.startswith("[Кустод"):
             continue
-        sl_no_diac = DIACRITICS_RE.sub("", sl)
-        ms_pod = SLAV_POD_RE.search(sl) or SLAV_POD_RE.search(sl_no_diac)
+        sl_clean = sl.strip("*")
+        sl_no_diac = DIACRITICS_RE.sub("", sl_clean)
+        ms_pod = SLAV_POD_RE.search(sl_clean) or SLAV_POD_RE.search(sl_no_diac)
         if ms_pod:
-            colon_parts = re.split(r"(?:По[^\s:]*|Гла́мо(?:\s*\[Подобен\])?)\s*:\s*", sl, maxsplit=1, flags=re.IGNORECASE)
-            rest = colon_parts[1].strip() if len(colon_parts) > 1 else ""
+            # Extract substring from original sl_clean starting at group(2)
+            # To preserve original diacritics even when matched on sl_no_diac, split on the label pattern
+            split_parts = re.split(
+                r"(?:Подо́?б?е?н?ъ?|Подѡ́?б?е?н?ъ?|Поⷣо́?б?е?н?ъ?|По́?д?о?б?|Поⷣ\.?|По́\.|По̀\s*[,:]|По\s*:|Гла́мо(?:\s*\[Подобен\])?)(?:\s*[:\.,]|\s+)\s*",
+                sl_clean,
+                maxsplit=1,
+                flags=re.IGNORECASE,
+            )
+            rest = split_parts[1].strip() if len(split_parts) > 1 else ms_pod.group(2).strip()
             if not rest and idx_s + 1 < len(s_lines):
-                rest = s_lines[idx_s + 1].strip()
+                rest = s_lines[idx_s + 1].strip().strip("*")
             if rest:
-                s_pods.append(rest.rstrip(".:"))
+                s_pods.append(rest.rstrip(".:*"))
+        elif podoben_models and len(sl_clean) < 110:
+            # Check for scribal omission of 'Подо́бенъ' immediately after 'Гла́съ X,' (e.g., 'Сѣда̑ гла̑, з҃, И҆́же менера́ди')
+            m_unlbl = SLAV_UNLABELED_POD_RE.search(sl_clean)
+            if m_unlbl:
+                cand_inc = m_unlbl.group(1).strip().rstrip(".:*")
+                cand_t2 = normalize_slavonic_tier2(cand_inc)
+                if cand_t2 and any(
+                    any(
+                        normalize_slavonic_tier2(pat) in cand_t2 or cand_t2 in normalize_slavonic_tier2(pat)
+                        for pat in p.get("slavonic_patterns", [])
+                    )
+                    for p in podoben_models
+                ):
+                    s_pods.append(f"[Подо́бенъ:] {cand_inc}")
 
-        ms_v = SLAV_VERSE_RE.search(sl)
+        ms_v = SLAV_VERSE_RE.search(sl_clean)
         if ms_v:
             s_verses.append(ms_v.group(1).strip())
 
-        if len(sl) > 35:
-            s_stanzas.append(sl)
+        if len(sl_clean) > 35:
+            s_stanzas.append(sl_clean)
 
     return s_pods, s_verses, s_stanzas
 
@@ -224,7 +305,7 @@ class HymnographicNormalizer:
     def __init__(self, registry_path: Path = REGISTRY_FILE):
         if not registry_path.is_file():
             raise FileNotFoundError(f"Registry not found: {registry_path}")
-        self.registry = json.loads(registry_path.read_text(encoding="utf-8"))
+        self.registry = json.loads(registry_path.read_text(encoding="utf-8-sig"))
         self.stichoi = self.registry.get("psalm_stichoi", [])
         self.podobens = self.registry.get("podoben_models", [])
         self.heirmoi = self.registry.get("sunday_heirmoi", [])
@@ -239,35 +320,48 @@ class HymnographicNormalizer:
         leaf_num: int
     ) -> Tuple[str, Optional[Dict[str, Any]]]:
         """
-        Normalizes any Podoben / Model / Melodic model / Same melody / To: line into the
-        canonical parenthetical format:
-            *Podoben: "[Canonical English]" (Verbatim 1630 Slavonic):*
+        Normalizes any Podoben / Prosomoion / Model / Melodic model / Same melody / To: / Pokoin line
+        into the canonical parenthetical format:
+            *Podoben: "[Canonical English]" (Verbatim Slavonic):*
+        or when the scribe omitted the Podoben label on the physical leaf:
+            *Podoben: "[Canonical English]" ([Подо́бенъ:] Verbatim Slavonic):*
         """
         stripped = line.strip()
         fn_m = re.search(r"(\[\^\d+\])", stripped)
         fn_suffix = f" {fn_m.group(1)}" if fn_m else ""
         stripped_no_fn = re.sub(r"\[\^\d+\]", "", stripped).strip()
 
-        # Case 1: Saturday Stichera for the Departed where `По:` = `Поко́инъ:` was misread as bare Podoben:/Model:
-        if re.match(r"^\*?(?:Podoben|Model):\*?$", stripped_no_fn, re.IGNORECASE):
-            return f"*For the Departed [Поко́инъ]:*{fn_suffix}", {
+        # Case 1: Saturday Stichera / Canon Troparia for the Departed (`Поко́инъ:` / `Nekrosimon:` / `For the Departed:`)
+        if re.match(
+            r"^\*?(?:Podoben|Model|Nekrosimon|For\s+the\s+Departed(?:\s*\[Поко́инъ\])?|Hymn\s+for\s+the\s+Departed(?:\s*\(Поко́инъ\))?):\*?$",
+            stripped_no_fn,
+            re.IGNORECASE,
+        ):
+            is_bare_pod = bool(re.match(r"^\*?(?:Podoben|Model|Nekrosimon):\*?$", stripped_no_fn, re.IGNORECASE))
+            return f"*Hymn for the Departed (Поко́инъ):*{fn_suffix}", (
+                {
+                    "type": "POKOIN_ABBREV_CORRECTED",
+                    "locus": f"C{c_idx:02d}:p{leaf_num}",
+                    "tone": current_tone,
+                    "slavonic_source": "Поко́инъ",
+                    "raw_cohort_english": stripped_no_fn,
+                    "canonical_english": "*Hymn for the Departed (Поко́инъ):*",
+                    "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
+                    "is_ai_drift": is_bare_pod,
+                }
+                if is_bare_pod
+                else None
+            )
+        if re.search(r"For the Departed:\s*(?:Podoben|Model):\s*$", stripped_no_fn, re.IGNORECASE):
+            return f"*Hymn for the Departed (Поко́инъ):*{fn_suffix}", {
                 "type": "POKOIN_ABBREV_CORRECTED",
                 "locus": f"C{c_idx:02d}:p{leaf_num}",
                 "tone": current_tone,
                 "slavonic_source": "По[ко́инъ]:",
                 "raw_cohort_english": stripped_no_fn,
-                "canonical_english": "*For the Departed [Поко́инъ]:*",
-                "is_ai_drift": True
-            }
-        if re.search(r"For the Departed:\s*Podoben:\s*$", stripped_no_fn, re.IGNORECASE):
-            return f"*For the Departed [Поко́инъ]:*{fn_suffix}", {
-                "type": "POKOIN_ABBREV_CORRECTED",
-                "locus": f"C{c_idx:02d}:p{leaf_num}",
-                "tone": current_tone,
-                "slavonic_source": "По[ко́инъ]:",
-                "raw_cohort_english": stripped_no_fn,
-                "canonical_english": "*For the Departed [Поко́инъ]:*",
-                "is_ai_drift": True
+                "canonical_english": "*Hymn for the Departed (Поко́инъ):*",
+                "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
+                "is_ai_drift": True,
             }
 
         # Case 2: C11 p106 `Resurrectional. Tone 4. To:` (unstated Podoben `Оудиви́ся Іѡ́сифъ` after `По:`)
@@ -281,19 +375,20 @@ class HymnographicNormalizer:
                 "slavonic_source": "По: [Оу҆диви́ся І҆ѡ́сифъ]",
                 "raw_cohort_english": stripped_no_fn,
                 "canonical_english": "Joseph was amazed",
-                "is_ai_drift": True
+                "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
+                "is_ai_drift": False,
             }
 
         # Case 3: "The same" Podoben / Model / Melodic model / Melody
         same_pat = re.compile(
-            r"(?:,\s*|\.\s*|^|\*)(?:"
-            r"Tone\s+and\s+(?:Podoben|Model|melodic\s+model)\s*:?\s*the\s+same"
-            r"|the\s+same\s+Tone\s+and\s+(?:Podoben|Model|melodic\s+model)"
-            r"|Same\s+Tone\s+and\s+(?:Podoben|Model|melodic\s+model|melody)"
-            r"|(?:The\s+)?same\s+(?:Podoben|Model|melodic\s+model|melody)"
-            r"|(?:Podoben|Model|Melodic\s+model)\s*:\s*The\s+same"
-            r")\s*[\.:]?\*?",
-            re.IGNORECASE
+            r"(?:[,;:]\s*|\.\s*|^|\*)(?:"
+            r"(?:same\s+Tone\s+and\s+(?:Podoben|Prosomoion|Model\s+melody|Model|melodic\s+model|melody))"
+            r"|(?:Tone\s+and\s+(?:Podoben|Prosomoion|Model\s+melody|Model|melodic\s+model)\s*:?\s*the\s+same)"
+            r"|(?:the\s+same\s+Tone\s+and\s+(?:Podoben|Prosomoion|Model\s+melody|Model|melodic\s+model))"
+            r"|(?:(?:The\s+)?same\s+(?:Podoben|Prosomoion|Model\s+melody|Model|melodic\s+model|melody))"
+            r"|(?:(?:Podoben|Prosomoion|Model\s+melody|Model|Melodic\s+model)\s*:\s*[\"“]?(?:The\s+same|The\s+same\s+Tone\s+and\s+Podoben)[\"”]?)"
+            r")(?:\s*\([^)]*\))?\s*[\.:]?\*?",
+            re.IGNORECASE,
         )
         m_same = same_pat.search(stripped_no_fn)
         if m_same:
@@ -301,8 +396,10 @@ class HymnographicNormalizer:
             matched_text = m_same.group(0).lower()
             if "tone" in matched_text:
                 rep = f'*Podoben: "The same Tone and Podoben" (Гла́съ и҆ подо́бенъ то́йже):*{fn_suffix}'
+                canon_same = "The same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже)"
             else:
                 rep = f'*Podoben: "The same" (то́йже):*{fn_suffix}'
+                canon_same = "The same (то́йже)"
             final_str = f"*{prefix}.*\n\n{rep}" if prefix else rep
             return final_str, {
                 "type": "PODOBEN_SAME_NORMALIZED",
@@ -311,14 +408,15 @@ class HymnographicNormalizer:
                 "tone": current_tone,
                 "slavonic_source": "то́йже",
                 "raw_cohort_english": stripped_no_fn,
-                "canonical_english": "The same (то́йже)",
-                "is_ai_drift": ("model" in matched_text or "melody" in matched_text)
+                "canonical_english": canon_same,
+                "drift_tier": "TIER_0_EXACT",
+                "is_ai_drift": ("model" in matched_text or "melody" in matched_text or "prosomoion" in matched_text),
             }
 
-        # Case 4: Standard Named Podoben / Model / Melodic model / Special Melody / To:
+        # Case 4: Standard Named Podoben / Prosomoion / Model melody / Model / Melodic model / Special Melody / To:
         label_pat = re.compile(
-            r"(?:^|\*|\.\s*)\b(Podoben|Model|Melodic\s+model|Special\s+Melody|To):\s*(.+)$",
-            re.IGNORECASE
+            r"(?:^|\*|[\.,;:]\s*)\b(Podoben|Prosomoion|Model\s+melody|Model|Melodic\s+model|Special\s+Melody|To):\s*(.+)$",
+            re.IGNORECASE,
         )
         m_lbl = label_pat.search(stripped_no_fn)
         if not m_lbl:
@@ -335,7 +433,6 @@ class HymnographicNormalizer:
             trailing_clause = m_trail.group(1).strip()
             raw_eng_incipit = rest_after_lbl[:m_trail.start()].strip().strip('"\'“”.:*')
         else:
-            # Remove any existing parenthetical Slavonic if present
             raw_eng_incipit = re.sub(r"\s*\([^)]*[\u0400-\u04FF][^)]*\)\s*:?\*?$", "", rest_after_lbl).strip()
             raw_eng_incipit = raw_eng_incipit.strip('"\'“”.:*')
 
@@ -346,19 +443,30 @@ class HymnographicNormalizer:
             + [p for p in self.podobens if p["tone"] != current_tone]
         )
 
-        # 4a. Match by English alias substring
+        # 4a. Match by exact English alias first, then substring match
+        raw_eng_clean = raw_eng_incipit.lower().rstrip(".")
         for pod in candidates_ordered:
             aliases = [pod["english_canonical"].lower()] + [a.lower() for a in pod.get("english_aliases", [])]
-            if any(a == raw_eng_incipit.lower() or a in raw_eng_incipit.lower() or raw_eng_incipit.lower() in a for a in aliases if a):
+            if any(a == raw_eng_clean for a in aliases if a):
                 matched_model = pod
                 break
+        if not matched_model:
+            for pod in candidates_ordered:
+                aliases = [pod["english_canonical"].lower()] + [a.lower() for a in pod.get("english_aliases", [])]
+                if any(a in raw_eng_clean or raw_eng_clean in a for a in aliases if a):
+                    matched_model = pod
+                    break
 
         # 4b. Fallback match by leaf-aligned Slavonic Podoben
         if not matched_model and s_pods:
             for sp in s_pods:
-                sp_stem = normalize_slavonic_tier2(sp)
+                sp_clean_check = re.sub(r"^\[Подо́бенъ:\]\s*", "", sp)
+                sp_stem = normalize_slavonic_tier2(sp_clean_check)
                 for pod in candidates_ordered:
-                    if any(pat in sp_stem or sp_stem in pat for pat in pod.get("slavonic_patterns", [])):
+                    if any(
+                        normalize_slavonic_tier2(pat) in sp_stem or sp_stem in normalize_slavonic_tier2(pat)
+                        for pat in pod.get("slavonic_patterns", [])
+                    ):
                         matched_model = pod
                         break
                 if matched_model:
@@ -369,17 +477,25 @@ class HymnographicNormalizer:
 
         canonical_eng = matched_model["english_canonical"]
 
-        # Find leaf-local verbatim 1630 Slavonic witness if present on this leaf
+        # Find leaf-local verbatim Slavonic witness if present on this leaf
         verbatim_slav = ""
+        scribal_omitted_label = False
         for sp in s_pods:
-            sp_stem = normalize_slavonic_tier2(sp)
-            if any(pat in sp_stem or sp_stem in pat for pat in matched_model.get("slavonic_patterns", [])):
-                # Clean any trailing "Стіх:" from sp
-                sp_clean = re.split(r"\s+Ст[і ї]́?х?", sp, maxsplit=1)[0].strip().rstrip(".:")
-                verbatim_slav = sp_clean
+            has_supplied_lbl = sp.startswith("[Подо́бенъ:]")
+            sp_body = re.sub(r"^\[Подо́бенъ:\]\s*", "", sp)
+            sp_stem = normalize_slavonic_tier2(sp_body)
+            if any(
+                normalize_slavonic_tier2(pat) in sp_stem or sp_stem in normalize_slavonic_tier2(pat)
+                for pat in matched_model.get("slavonic_patterns", [])
+            ):
+                sp_clean = re.split(r"\s+Ст[і ї]́?х?", sp_body, maxsplit=1)[0].strip().rstrip(".:*")
+                verbatim_slav = f"[Подо́бенъ:] {sp_clean}" if has_supplied_lbl else sp_clean
+                scribal_omitted_label = has_supplied_lbl
                 break
 
         slav_display = verbatim_slav if verbatim_slav else matched_model["slavonic_canonical"]
+        drift_tier, drift_sim, drift_info = classify_slavonic_drift(slav_display, matched_model["slavonic_canonical"])
+
         normalized_core = f'*Podoben: "{canonical_eng}" ({slav_display}):*{fn_suffix}'
 
         parts_out = []
@@ -395,6 +511,15 @@ class HymnographicNormalizer:
 
         normalized_line = "\n\n".join(parts_out)
 
+        # Layer 3 (True AI Translation Drift):
+        # True AI drift occurs ONLY when the translator used a non-MTS-1 label (e.g. Model:, Prosomoion:)
+        # OR diverged from the canonical English when the Slavonic source itself was NOT truncated/variant.
+        eng_diverged = raw_eng_clean != canonical_eng.lower()
+        non_mts1_label = label_used.lower() != "podoben"
+        scribal_truncated_or_tier3 = drift_tier in ("SCRIBAL_INCIPIT_TRUNCATION", "TIER_3_LEXICAL_RECENSIONAL")
+
+        is_ai_drift = non_mts1_label or (eng_diverged and not scribal_truncated_or_tier3)
+
         drift_record = {
             "type": "PODOBEN_NORMALIZED",
             "primitive_id": matched_model["id"],
@@ -403,12 +528,13 @@ class HymnographicNormalizer:
             "greek_incipit": matched_model["greek"],
             "slavonic_source": slav_display,
             "slavonic_canonical": matched_model["slavonic_canonical"],
+            "scribal_omitted_label": scribal_omitted_label,
+            "drift_tier": drift_tier,
+            "drift_similarity": drift_sim,
+            "drift_info": drift_info,
             "raw_cohort_english": f"{label_used}: {raw_eng_incipit}",
             "canonical_english": canonical_eng,
-            "is_ai_drift": (
-                raw_eng_incipit.lower() != canonical_eng.lower()
-                or label_used.lower() != "podoben"
-            )
+            "is_ai_drift": is_ai_drift,
         }
         return normalized_line, drift_record
 
@@ -437,10 +563,8 @@ class HymnographicNormalizer:
             return line, None
 
         matched_stichos = None
-        # 1. Match by English patterns first to identify which Psalm verse this line is
         for st in self.stichoi:
             if any(pat in raw_eng_verse.lower() for pat in st.get("english_patterns", [])):
-                # Check if leaf-local s_verses has a corresponding Slavonic witness
                 slav_witness = st["slavonic_canonical"]
                 drift_tier = "TIER_1_TYPOGRAPHIC_TITLO"
                 info: Dict[str, Any] = {"details": "Matched via leaf-synchronized stichos"}
@@ -453,7 +577,6 @@ class HymnographicNormalizer:
                 matched_stichos = (st, slav_witness, drift_tier, info)
                 break
 
-        # 2. Fallback similarity match
         if not matched_stichos:
             for st in self.stichoi:
                 matcher = difflib.SequenceMatcher(None, raw_eng_verse.lower(), st["english_canonical"].lower())
@@ -481,7 +604,6 @@ class HymnographicNormalizer:
                 }
                 return final_line, drift_event
             else:
-                # Tier 3 lexical variant in source: preserve distinct English!
                 preserved_line = f"*Verse: {raw_eng_verse}*{fn_suffix}"
                 drift_event = {
                     "type": "PSALM_VERSE_TIER3_SOURCE_VARIANT",
@@ -525,7 +647,6 @@ class HymnographicNormalizer:
         for h in self.heirmoi:
             if h["tone"] == tone and h["ode"] == ode:
                 sunday_opening = h["english_incipit"]
-                # Check if this weekday Heirmos is an incipit of the Sunday Heirmos (similarity >= 0.45)
                 sim = difflib.SequenceMatcher(None, raw_incipit.lower(), sunday_opening.lower()).ratio()
                 if sim >= 0.45 and raw_incipit.lower() != sunday_opening.lower():
                     fn_m = re.search(r"(\[\^\d+\])", line)
@@ -559,24 +680,38 @@ class HymnographicNormalizer:
 # ==============================================================================
 
 RE_LEAF_BANNER = re.compile(r"^===\s*LEAF\s+p?(\d+)\s*===$", re.IGNORECASE)
+RE_COHORT_BOUNDARY = re.compile(r"^===\s*COHORT_BOUNDARY\s+(\d+)\s*===$", re.IGNORECASE)
 RE_PAGE_HEADER = re.compile(
-    r"^#{1,6}\s*\[(Left|Right)\s+Page\s+—\s+(?:Folio\s+([0-9]+[rv])|([^\]]+))\](?:\s*(\[\^\d+\]))?",
+    r"^(?:#{1,6}\s*|\*\*)?\[(Left|Right)\s+Page\s*(?:—|--|-|:)\s*(?:(?:Fol\.?|Folio)\s*([0-9]+[rv])|(.+?))\](?:\*\*)?(?:\s*(\[\^\d+\]))?$",
     re.IGNORECASE
 )
 RE_COLUMN_HEADER = re.compile(
-    r"^#{1,6}\s*(?:\[)?(?:Column|Колонка)\s+([ABab])(?::|\])?(?:\s*(\[\^\d+\]))?",
+    r"^(?:#{1,6}\s*|\*\*)?(?:\[)?(?:Column|Колонка)\s+([ABab])(?::|\])?(?:\s*\([^)]+\))?(?:\*\*)?(?:\s*(\[\^\d+\]))?$",
     re.IGNORECASE
 )
 RE_CONTINUATION = re.compile(
-    r"^\[(?:Continuation\s+of\s+|Продовження\s+)[^\]]+\](\[\^\d+\])?",
+    r"^(?:\[(?:Continuation\s+of\s+|Продовження\s+)[^\]]+\]|\*\([^)]*?\b(?:continued|concluded|conclusion)\b[^)]*\):?\*?\:?)(?:\s*(\[\^\d+\]))?$",
     re.IGNORECASE
 )
 RE_BLANK_LINE = re.compile(r"^\*?\[(?:Blank|Чистий)\s+[^\]]+\]\*?$", re.IGNORECASE)
 
 RE_NON_STITCHABLE_START = re.compile(
-    r"^(?:#|\[\d+\]|\*\*\d+\.\*\*|\d+\.\s|\*?(?:Podoben|Verse|Stichos|Glory|Both now|Theotokion|Stavrotheotokion|For the Martyrs|For the Departed|Ode\s+\d+|Another\s+(?:Canon|Heirmos|Stichera)|Other\s+Stichera|Stichera\b|Penitential\s+Stichera|Resurrectional|After\s+the\s+\d+|At\s+the\s+(?:Aposticha|Praises)|Sessional\s+Hymn|Kontakion|Ikos|Hypakoe|Prokeimenon|Tone\s+\d+|Same\s+Tone)\b)",
+    r"^(?:#|\[\d+\]|\*\*\d+\.\*\*|\d+\.\s|\[(?:Headpiece|Woodcut|Primary|Marginalia|17th-century)|\*?(?:Podoben|Prosomoion|Model\s+melody|Model|Verse|Stichos|Glory|Both now|Theotokion|Stavrotheotokion|For the Martyrs|For the Departed|Hymn for the Departed|Nekrosimon|Ode\s+\d+|Another\s+(?:Canon|Heirmos|Stichera)|Other\s+Stichera|Stichera\b|Penitential\s+Stichera|Resurrectional|After\s+the\s+\d+|At\s+the\s+(?:Aposticha|Praises)|Sessional\s+Hymn|Kontakion|Ikos|Hypakoe|Prokeimenon|Tone\s+\d+|Same\s+Tone)\b)",
     re.IGNORECASE
 )
+
+SEAM_STOPWORDS = {
+    "that", "this", "with", "from", "unto", "upon", "have", "hath", "hast", "thou",
+    "thee", "thine", "your", "their", "them", "they", "were", "been", "being", "which",
+    "when", "what", "where", "there", "into", "through", "before", "after", "over",
+    "under", "more", "most", "also", "even", "only", "all", "both", "each", "other",
+    "some", "such", "than", "then", "very", "will", "shall", "may", "might", "must",
+    "would", "should", "could", "who", "whom", "whose",
+}
+
+ANAPHORA_EXEMPT_WORDS = {
+    "rejoice", "hail", "blessed", "bless", "praise", "sing", "exalt", "holy", "alleluia", "glory",
+}
 
 
 class LocusTracker:
@@ -596,11 +731,11 @@ class LocusTracker:
         if folio_str:
             self.folio = folio_str.strip()
         elif desc_str:
-            m_f = re.search(r"Folio\s+([0-9]+[rv])", desc_str, re.IGNORECASE)
+            m_f = re.search(r"(?:Fol\.?|Folio)\s*([0-9]+[rv])", desc_str, re.IGNORECASE)
             if m_f:
                 self.folio = m_f.group(1).strip()
             else:
-                self.folio = f"p{self.leaf_num}{self.side}"
+                self.folio = ""
         self.col = "A"
 
     def update_col(self, col_str: str):
@@ -612,11 +747,197 @@ class LocusTracker:
         return f"[p{self.leaf_num}{self.side}{self.col}]"
 
 
+def _norm_seam_word(w: str) -> str:
+    """Normalizes a token for seam catchword/phrase overlap comparison."""
+    w_no_fn = re.sub(r"\[\^\d+\]", "", w)
+    return re.sub(r"^[^\w]+|[^\w]+$", "", w_no_fn).lower()
+
+
+def _content_stem(w: str) -> str:
+    """Returns a 5-char lowercase stem for content words (length >= 4, excluding stopwords)."""
+    nw = _norm_seam_word(w)
+    if len(nw) < 4 or nw in SEAM_STOPWORDS:
+        return ""
+    return nw[:5]
+
+
+def _extract_fn_markers(tokens: List[str]) -> List[str]:
+    """Extracts any [^N] footnote markers from a list of tokens so none are ever lost."""
+    markers: List[str] = []
+    for t in tokens:
+        markers.extend(re.findall(r"\[\^\d+\]", t))
+    return markers
+
+
+def deduplicate_seam_overlap(cleaned_prev: str, cleaned_curr: str) -> Tuple[str, str]:
+    """
+    Universal 5-rule seam overlap deduplicator for 2-up folios and inter-cohort boundaries.
+    Guarantees 100% preservation of [^N] footnote markers on both sides of the seam, while
+    protecting legitimate liturgical anaphora/refrains.
+    """
+    # Rule 0: Hyphenated word split across seam (e.g. "virginal ha-" + "nds borne")
+    m_hyph = re.search(r"([A-Za-z]{2,})-(?:\s*(\[\^\d+\]))*\s*$", cleaned_prev)
+    m_curr_frag = re.match(r"^([a-z]{2,})\b(.*)$", cleaned_curr)
+    if m_hyph and m_curr_frag:
+        rescued_fns = re.findall(r"\[\^\d+\]", m_hyph.group(0))
+        joined_word = m_hyph.group(1) + m_curr_frag.group(1)
+        prefix_prev = cleaned_prev[:m_hyph.start()] + joined_word
+        if rescued_fns:
+            prefix_prev = f"{prefix_prev} {' '.join(rescued_fns)}"
+        cleaned_prev = prefix_prev.rstrip()
+        cleaned_curr = m_curr_frag.group(2).lstrip()
+        return cleaned_prev, cleaned_curr
+
+    # Rule 1: Bracketed catchword/editorial restoration at tail or mid-phrase (0-6 trailing words) of cleaned_prev
+    # e.g. "...we magnify the [first-enthroned bishop]. [^28]" + "first-enthroned hierarch..."
+    # or "...anoint thee, [first-enthroned bishop] of the people of Myra" + "first-enthroned bishop, and..."
+    m_br = re.search(r"\s*\[([^\^\]]+)\]([\.,;:]?(?:\s+\S+){0,6}?)(?:\s*(\[\^\d+\]))*\s*$", cleaned_prev)
+    if m_br:
+        bracket_inner = m_br.group(1)
+        trailing_after_br = m_br.group(2) or ""
+        bracket_words = [_norm_seam_word(w) for w in bracket_inner.split() if _norm_seam_word(w)]
+        curr_words_raw = cleaned_curr.split()
+        curr_words_norm = [_norm_seam_word(w) for w in curr_words_raw[:8] if _norm_seam_word(w)]
+        if bracket_words and curr_words_norm:
+            first_match = (bracket_words[0] == curr_words_norm[0])
+            content_match = any(len(bw) >= 4 and bw in curr_words_norm[:5] for bw in bracket_words)
+            if first_match or content_match:
+                rescued_fns = re.findall(r"\[\^\d+\]", m_br.group(0))
+                if not trailing_after_br.strip(".,;: "):
+                    # Bracket is at the very end of cleaned_prev: strip bracketed catchword from prev
+                    prefix_prev = cleaned_prev[:m_br.start()].rstrip()
+                    prefix_prev = re.sub(r"(?:\.\.\.|…)+\s*$", "", prefix_prev).rstrip()
+                    if rescued_fns:
+                        prefix_prev = f"{prefix_prev} {' '.join(rescued_fns)}"
+                    cleaned_prev = prefix_prev
+                else:
+                    # Mid-phrase bracket followed by trailing words on prev (e.g. L5613):
+                    # Unwrap the bracket in prev and strip the repeated bracket_words prefix from curr
+                    k_br = len(bracket_words)
+                    if curr_words_norm[:k_br] == bracket_words:
+                        rescued_curr = _extract_fn_markers(curr_words_raw[:k_br])
+                        cleaned_prev = (
+                            cleaned_prev[:m_br.start()]
+                            + " "
+                            + bracket_inner
+                            + trailing_after_br
+                            + (f" {' '.join(rescued_fns + rescued_curr)}" if (rescued_fns or rescued_curr) else "")
+                        ).strip()
+                        cleaned_curr = " ".join(curr_words_raw[k_br:]).lstrip(",;: ")
+                        return cleaned_prev, cleaned_curr
+
+    words_prev = cleaned_prev.split()
+    words_curr = cleaned_curr.split()
+    if not words_prev or not words_curr:
+        return cleaned_prev, cleaned_curr
+
+    norm_prev = [_norm_seam_word(w) for w in words_prev]
+    norm_curr = [_norm_seam_word(w) for w in words_curr]
+
+    # Rule 2a: Exact k-word suffix of prev matching k-word prefix of curr (1 <= k <= 18)
+    max_k = min(18, len(words_prev), len(words_curr))
+    for k in range(max_k, 0, -1):
+        if norm_prev[-k:] == norm_curr[:k] and any(norm_prev[-k:]):
+            if norm_curr[0] in ANAPHORA_EXEMPT_WORDS and (k == 1 or re.search(r"[\.!\?;:]\s*$", cleaned_prev)):
+                continue
+            rescued = _extract_fn_markers(words_curr[:k])
+            if rescued:
+                cleaned_prev = f"{cleaned_prev} {' '.join(rescued)}"
+            cleaned_curr = " ".join(words_curr[k:])
+            return cleaned_prev, cleaned_curr
+
+    # Rule 2b: 3-word near-exact suffix/prefix where word 1 and word 3 (>=5 chars) match (e.g. "at the childbirth" / "at thy childbirth")
+    if len(words_prev) >= 3 and len(words_curr) >= 3:
+        if (
+            norm_prev[-3] == norm_curr[0]
+            and norm_prev[-1] == norm_curr[2]
+            and len(norm_curr[2]) >= 5
+            and norm_curr[2] not in ANAPHORA_EXEMPT_WORDS
+        ):
+            rescued = _extract_fn_markers(words_prev[-3:])
+            trimmed_prev = " ".join(words_prev[:-3]).rstrip()
+            if rescued:
+                trimmed_prev = f"{trimmed_prev} {' '.join(rescued)}"
+            return trimmed_prev, cleaned_curr
+
+    # Rule 3: Short incomplete tail phrase on prev after a shared anchor word (1 <= tail_len <= 5)
+    # e.g. prev="...who with faith celebrate your all-laudable" + curr="celebrate your all-praised memory..."
+    # or prev="...the deadness of the guards, and the seals" + curr="and the destruction of the seals..."
+    anchor_curr = norm_curr[0]
+    if anchor_curr and anchor_curr not in ANAPHORA_EXEMPT_WORDS:
+        for tail_len in range(1, min(6, len(words_prev))):
+            idx = len(words_prev) - 1 - tail_len
+            if norm_prev[idx] == anchor_curr:
+                tail_stems = {_content_stem(w) for w in words_prev[idx:] if _content_stem(w)}
+                curr_head_stems = {_content_stem(w) for w in words_curr[:7] if _content_stem(w)}
+                if len(anchor_curr) >= 4 or (tail_stems and (tail_stems & curr_head_stems)):
+                    rescued = _extract_fn_markers(words_prev[idx:])
+                    trimmed_prev = " ".join(words_prev[:idx]).rstrip(",;: ")
+                    if rescued:
+                        trimmed_prev = f"{trimmed_prev} {' '.join(rescued)}"
+                    return trimmed_prev, cleaned_curr
+
+    # Rule 4: Syntax-Bounded Sub-Clause / Restatement Overlap Trimmer with Anaphora Guards
+    # 4a. Whole-clause anticipation on prev: when cleaned_prev is a short unpunctuated clause (<= 15 words)
+    # whose content stems are >= 60% repeated inside cleaned_curr (e.g. L2979, L6325).
+    if len(words_prev) <= 15 and not re.search(r"[\.!?;:]\s*$", cleaned_prev):
+        prev_stems = [_content_stem(w) for w in words_prev if _content_stem(w)]
+        curr_stems_set = {_content_stem(w) for w in words_curr[:20] if _content_stem(w)}
+        if len(prev_stems) >= 3 and not (set( norm_prev ) & ANAPHORA_EXEMPT_WORDS):
+            overlap_cnt = sum(1 for st in prev_stems if st in curr_stems_set)
+            if overlap_cnt >= 3 and (overlap_cnt / len(prev_stems)) >= 0.60:
+                rescued = _extract_fn_markers(words_prev)
+                trimmed_prev = " ".join(rescued) if rescued else ""
+                if cleaned_curr and cleaned_curr[0].islower():
+                    cleaned_curr = cleaned_curr[0].upper() + cleaned_curr[1:]
+                return trimmed_prev, cleaned_curr
+
+    # 4b. Opening sub-clause of curr (up to first comma/semicolon/colon/period, max 8 words)
+    # repeating an exact phrase or >= 75% content stems from the last 14 words of prev (e.g. L1111, L4269, L5735).
+    m_open_clause = re.match(r"^([^\.,;:!\?]+?)([\.,;:!\?])(?:\s+(.*))?$", cleaned_curr)
+    if m_open_clause:
+        clause_body = m_open_clause.group(1).strip()
+        clause_punct = m_open_clause.group(2)
+        clause_rest = (m_open_clause.group(3) or "").strip()
+        c_clause_words = clause_body.split()
+        c_clause_norm = [_norm_seam_word(w) for w in c_clause_words if _norm_seam_word(w)]
+        prev_window_norm = norm_prev[-14:]
+
+        if 2 <= len(c_clause_norm) <= 8 and not (set(c_clause_norm) & ANAPHORA_EXEMPT_WORDS):
+            # Check if c_clause_norm appears verbatim inside prev_window_norm
+            k_cl = len(c_clause_norm)
+            exact_in_window = any(
+                prev_window_norm[j:j + k_cl] == c_clause_norm
+                for j in range(len(prev_window_norm) - k_cl + 1)
+            )
+            # Or if clause_rest is empty (terminal clause) and >= 75% of its content stems are in prev_window
+            c_stems = [_content_stem(w) for w in c_clause_words if _content_stem(w)]
+            p_win_stems = {_content_stem(w) for w in words_prev[-14:] if _content_stem(w)}
+            stem_restatement = (
+                not clause_rest
+                and len(c_stems) >= 3
+                and sum(1 for st in c_stems if st in p_win_stems) / len(c_stems) >= 0.75
+            )
+            if exact_in_window or stem_restatement:
+                rescued = _extract_fn_markers(c_clause_words)
+                if rescued:
+                    cleaned_prev = f"{cleaned_prev} {' '.join(rescued)}"
+                if clause_rest:
+                    return cleaned_prev, clause_rest
+                else:
+                    # Preserve terminal punctuation on prev if prev lacks it
+                    if not re.search(r"[\.!\?]\s*$", re.sub(r"\[\^\d+\]\s*$", "", cleaned_prev)):
+                        cleaned_prev = re.sub(r"[\.,;:]?\s*((?:\[\^\d+\]\s*)*)$", rf"{clause_punct} \1", cleaned_prev).strip()
+                    return cleaned_prev, ""
+
+    return cleaned_prev, cleaned_curr
+
+
 def stitch_2up_hymnographic_stream(cohort_text: str) -> Tuple[str, List[Dict[str, Any]]]:
     """
-    Parses cohort text line by line, tracking folio/column locus.
-    Stitches sentences severed across column and leaf breaks, inserting compact
-    inline locus milestones `[f. XvA]` at the exact boundary.
+    Parses cohort/codex text line by line, tracking folio/column locus.
+    Stitches sentences severed across column, leaf, and cohort breaks, inserting compact
+    inline locus milestones `[f. XvA]` at the exact boundary while preserving cohort boundary markers.
     """
     lines = cohort_text.splitlines()
     output_lines: List[str] = []
@@ -625,6 +946,7 @@ def stitch_2up_hymnographic_stream(cohort_text: str) -> Tuple[str, List[Dict[str
     locus = LocusTracker()
     pending_milestone: Optional[str] = None
     pending_footnote: Optional[str] = None
+    pending_cohort_boundary: Optional[str] = None
 
     i = 0
     n = len(lines)
@@ -634,6 +956,14 @@ def stitch_2up_hymnographic_stream(cohort_text: str) -> Tuple[str, List[Dict[str
         line = raw_line.strip()
 
         if RE_BLANK_LINE.match(line):
+            i += 1
+            continue
+
+        m_cb = RE_COHORT_BOUNDARY.match(line)
+        if m_cb:
+            c_num = int(m_cb.group(1))
+            if c_num > 1:
+                pending_cohort_boundary = f"=== COHORT_BOUNDARY {c_num} ==="
             i += 1
             continue
 
@@ -669,6 +999,9 @@ def stitch_2up_hymnographic_stream(cohort_text: str) -> Tuple[str, List[Dict[str
             continue
 
         if line.lower() == "[typographic divider]" or line == "---":
+            if pending_cohort_boundary:
+                output_lines.append(pending_cohort_boundary)
+                pending_cohort_boundary = None
             if pending_milestone and output_lines:
                 output_lines.append(f"{pending_milestone} ---")
                 pending_milestone = None
@@ -687,57 +1020,86 @@ def stitch_2up_hymnographic_stream(cohort_text: str) -> Tuple[str, List[Dict[str
         if pending_milestone and output_lines:
             last_idx = -1
             for idx in range(len(output_lines) - 1, -1, -1):
-                if output_lines[idx].strip():
+                s_cand = output_lines[idx].strip()
+                if s_cand and not RE_COHORT_BOUNDARY.match(s_cand):
                     last_idx = idx
                     break
 
             if last_idx >= 0:
                 prev_content = output_lines[last_idx].strip()
+                prev_no_fn = re.sub(r"(?:\s*\[\^\d+\])+\s*$", "", prev_content).rstrip()
                 core_prev = re.sub(r'(?:\[\^\d+\]|[\]\)\*_`"\'\”\’]|\s)+$', '', prev_content)
                 ends_punct = bool(core_prev and core_prev[-1] in ('.', '!', '?', ':'))
-                ends_ellipsis = prev_content.rstrip().endswith("...")
+                ends_ellipsis = prev_no_fn.endswith("...")
                 starts_ellipsis = curr_line.startswith("...")
+                curr_starts_lower = bool(re.match(r"^[a-z]", curr_line))
+                has_bracket_tail = bool(re.search(r"\[[^\^\]]+\][\.,;:]?(?:\s*\[\^\d+\])*\s*$", prev_content))
+                prev_is_paratext_block = bool(prev_no_fn.startswith("[") and prev_no_fn.endswith("]"))
                 starts_new_block = bool(RE_NON_STITCHABLE_START.match(curr_line))
-                prev_is_rubric = prev_content.startswith("*Podoben:") or prev_content.startswith("*Verse:")
+                prev_is_rubric = (
+                    prev_content.startswith("*Podoben:")
+                    or prev_content.startswith("*Verse:")
+                    or prev_content.startswith("#")
+                    or prev_is_paratext_block
+                    or (prev_content.startswith("*") and prev_content.endswith("*") and not curr_line.startswith("*"))
+                )
 
                 is_mid_sentence = (
-                    (ends_ellipsis or starts_ellipsis or not ends_punct)
+                    (ends_ellipsis or starts_ellipsis or not ends_punct or (curr_starts_lower and has_bracket_tail))
                     and not starts_new_block
                     and not prev_is_rubric
                 )
 
                 if is_mid_sentence:
-                    cleaned_prev = re.sub(r"\.\.\.\s*$", "", prev_content).rstrip()
+                    # Strip '...' before or after trailing [^N] footnote markers on prev_content
+                    cleaned_prev = re.sub(r"\.\.\.(?=\s*(?:\[\^\d+\]\s*)*$)", "", prev_content)
+                    cleaned_prev = re.sub(r"\.\.\.\s*$", "", cleaned_prev).rstrip()
                     cleaned_curr = re.sub(r"^\.\.\.\s*", "", curr_line).lstrip()
 
-                    words_prev = cleaned_prev.split()
-                    words_curr = cleaned_curr.split()
-                    if words_prev and words_curr:
-                        last_w = re.sub(r"^[^\w]+|[^\w]+$", "", words_prev[-1]).lower()
-                        first_w = re.sub(r"^[^\w]+|[^\w]+$", "", words_curr[0]).lower()
-                        if last_w and last_w == first_w:
-                            cleaned_curr = " ".join(words_curr[1:])
+                    # Merge adjacent italic wrappers across the seam if both sides are italicized
+                    if cleaned_prev.endswith("*") and not cleaned_prev.endswith("**") and cleaned_curr.startswith("*") and not cleaned_curr.startswith("**"):
+                        cleaned_prev = cleaned_prev[:-1].rstrip()
+                        cleaned_curr = cleaned_curr[1:].lstrip()
+
+                    before_dedup = (cleaned_prev, cleaned_curr)
+                    cleaned_prev, cleaned_curr = deduplicate_seam_overlap(cleaned_prev, cleaned_curr)
+                    was_dedup = (cleaned_prev, cleaned_curr) != before_dedup
 
                     fn_suffix = f" {pending_footnote}" if pending_footnote else ""
                     pending_footnote = None
 
-                    stitched = f"{cleaned_prev}{fn_suffix} {pending_milestone} {cleaned_curr}"
+                    if cleaned_prev and cleaned_curr:
+                        stitched = f"{cleaned_prev}{fn_suffix} {pending_milestone} {cleaned_curr}"
+                    elif cleaned_curr:
+                        stitched = f"{pending_milestone} {cleaned_curr}{fn_suffix}"
+                    else:
+                        # Avoid trailing orphan milestone at end of line: place milestone before terminal clause or keep clean
+                        stitched = f"{cleaned_prev}{fn_suffix}"
                     output_lines[last_idx] = stitched
+
+                    if pending_cohort_boundary:
+                        output_lines.append(pending_cohort_boundary)
+                        pending_cohort_boundary = None
 
                     stitch_events.append({
                         "milestone": pending_milestone,
-                        "prev_tail": prev_content[-30:],
-                        "curr_head": curr_line[:30],
-                        "type": "SEAM_STITCHED"
+                        "prev_tail": prev_content[-40:],
+                        "curr_head": curr_line[:40],
+                        "type": "SEAM_OVERLAP_DEDUPLICATED" if was_dedup else "SEAM_STITCHED",
+                        "deduplicated": was_dedup,
                     })
                     pending_milestone = None
                     i += 1
                     continue
 
+        if pending_cohort_boundary:
+            output_lines.append(pending_cohort_boundary)
+            pending_cohort_boundary = None
+
         if pending_milestone:
             if not curr_line.startswith("#"):
                 curr_line = f"{pending_milestone} {curr_line}"
-            pending_milestone = None
+                pending_milestone = None
 
         if pending_footnote:
             curr_line = f"{curr_line} {pending_footnote}"
@@ -745,6 +1107,9 @@ def stitch_2up_hymnographic_stream(cohort_text: str) -> Tuple[str, List[Dict[str
 
         output_lines.append(curr_line)
         i += 1
+
+    if pending_cohort_boundary:
+        output_lines.append(pending_cohort_boundary)
 
     return "\n".join(output_lines), stitch_events
 
@@ -756,7 +1121,7 @@ def stitch_2up_hymnographic_stream(cohort_text: str) -> Tuple[str, List[Dict[str
 RE_INVENTED_STANZA_NUM = re.compile(r"^((?:\[(?:f\.\s*[^\]]+|p\d+[LR][AB])\]\s*)?)(?:\[\d+\]|\*\*\d+\.\*\*|\d+\.)\s+", re.IGNORECASE)
 
 RE_MAJOR_OFFICE = re.compile(
-    r"^#+\s*(?:Tone\s+\d+\s*[-—:]\s*)?(?:ON\s+)?(SATURDAY\s+EVENING|SUNDAY\s+MORNING|SUNDAY\s+MATINS|MONDAY\s+EVENING|MONDAY\s+MORNING|TUESDAY\s+EVENING|TUESDAY\s+MORNING|WEDNESDAY\s+EVENING|WEDNESDAY\s+MORNING|THURSDAY\s+EVENING|THURSDAY\s+MORNING|FRIDAY\s+EVENING|FRIDAY\s+MORNING|SATURDAY\s+MORNING)\b[^\n]*",
+    r"^#+\s*(?:Tone\s+\d+\s*[-—:]\s*)?(?:ON\s+)?(SATURDAY\s+EVENING|SUNDAY\s+MORNING|SUNDAY\s+MATINS|SUNDAY\s+MIDNIGHT\s+OFFICE|AT\s+THE\s+MIDNIGHT\s+OFFICE|MONDAY\s+EVENING|MONDAY\s+MORNING|MONDAY\s+AT\s+MATINS|TUESDAY\s+EVENING|TUESDAY\s+MORNING|TUESDAY\s+AT\s+MATINS|WEDNESDAY\s+EVENING|WEDNESDAY\s+MORNING|WEDNESDAY\s+AT\s+MATINS|THURSDAY\s+EVENING|THURSDAY\s+MORNING|THURSDAY\s+AT\s+MATINS|FRIDAY\s+EVENING|FRIDAY\s+MORNING|FRIDAY\s+AT\s+MATINS|SATURDAY\s+MORNING|SATURDAY\s+AT\s+MATINS)\b[^\n]*",
     re.IGNORECASE
 )
 
@@ -773,33 +1138,174 @@ def format_hymnographic_stanzas_and_headings(text: str) -> str:
     Enforces hymnographic paragraph separation:
     - Every sticheron, troparion, heirmos, and rubric is separated by \\n\\n.
     - Heading hierarchy is normalized across all 8 Tones (H2 Office, H3 Section, H4 Ode).
+    - Deterministically promotes italicized liturgical office rubrics into canonical H2
+      service headings (and injects H1 # WEEKDAY OFFICES OF THE OCTOECHOS for consolidated
+      weekday cycles) when any Tone/section has < 3 explicit H2 headings.
     - Subagent-invented bracketed stanza numbers ([1], [2]) are stripped (even after [f. XvA]).
     """
     lines = text.splitlines()
     formatted: List[str] = []
 
-    for raw_line in lines:
+    def _section_has_enough_explicit_h2(start_idx: int) -> bool:
+        count = 0
+        for fwd_line in lines[start_idx + 1:]:
+            s_fwd = re.sub(r"^(?:\[(?:f\.\s*[^\]]+|p\d+[LR][AB])\]\s*)+", "", fwd_line.strip()).strip()
+            if re.match(r"^#+\s*(?:TONE\s+\d+|Book\s+of\s+the\s+Octoechos.*Tone\s+\d+|WEEKDAY\s+OFFICES|PREFACE|EXAPOSTILARIA|EVANGELICAL|COLOPHON)\b", s_fwd, re.IGNORECASE):
+                break
+            if RE_MAJOR_OFFICE.match(s_fwd):
+                count += 1
+        return count >= 3
+
+    section_has_explicit_h2 = _section_has_enough_explicit_h2(0)
+    active_macro = "FRONT_MATTER"
+    emitted_in_section: Set[str] = set()
+
+    weekday_rubric_map = [
+        ("MON_MATINS", r"^\*?(?:On\s+)?Monday\s+(?:at\s+Matins|Morning)\b", "## MONDAY MATINS: REPENTANCE AND THE BODILESS POWERS"),
+        ("MON_VESPERS", r"^\*?(?:On\s+)?Monday\s+evening\b", "## MONDAY EVENING VESPERS (FOR TUESDAY)"),
+        ("TUE_MATINS", r"^\*?(?:On\s+)?Tuesday\s+(?:at\s+Matins|Morning)\b", "## TUESDAY MATINS: REPENTANCE AND ST. JOHN THE FORERUNNER"),
+        ("TUE_VESPERS", r"^\*?(?:On\s+)?Tuesday\s+evening\b", "## TUESDAY EVENING VESPERS (FOR WEDNESDAY)"),
+        ("WED_MATINS", r"^\*?(?:On\s+)?Wednesday\s+(?:at\s+Matins|Morning)\b", "## WEDNESDAY MATINS: THE PRECIOUS CROSS AND THE THEOTOKOS"),
+        ("WED_VESPERS", r"^\*?(?:On\s+)?Wednesday\s+evening\b", "## WEDNESDAY EVENING VESPERS (FOR THURSDAY)"),
+        ("THU_MATINS", r"^\*?(?:(?:On\s+)?Thursday\s+(?:at\s+Matins|Morning)|At\s+Matins,\s+after\s+the\s+(?:1st|First)\s+Kathisma,\s+Sessional\s+Hymns,\s+Tone\s+4)\b", "## THURSDAY MATINS: THE HOLY APOSTLES AND ST. NICHOLAS"),
+        ("THU_VESPERS", r"^\*?(?:On\s+)?Thursday\s+evening\b", "## THURSDAY EVENING VESPERS (FOR FRIDAY)"),
+        ("FRI_MATINS", r"^\*?(?:On\s+)?Friday\s+(?:at\s+Matins|Morning)\b", "## FRIDAY MATINS: THE PRECIOUS CROSS AND THE THEOTOKOS"),
+        ("FRI_VESPERS", r"^\*?(?:On\s+)?Friday\s+evening\b", "## FRIDAY EVENING VESPERS (FOR SATURDAY)"),
+        ("SAT_MATINS", r"^\*?(?:On\s+)?Saturday\s+(?:at\s+Matins|Morning)\b", "## SATURDAY MATINS: ALL SAINTS, MARTYRS, AND THE DEPARTED"),
+    ]
+
+    for line_idx, raw_line in enumerate(lines):
         line = raw_line.strip()
         if not line:
             formatted.append("")
             continue
 
-        # 1. Strip invented stanza numbers (preserving any leading [f. XvA] milestone)
-        line = RE_INVENTED_STANZA_NUM.sub(r"\1", line)
-
-        # 2. Heading Normalizations
-        # Codex-level division headers (H1: Tone 1..8, Exapostilaria, Preface, Colophon) must NEVER be demoted
-        if re.match(r"^#\s+(?:TONE\s+\d+|PREFACE|EXAPOSTILARIA|EVANGELICAL|COLOPHON)", line, re.IGNORECASE):
+        if RE_COHORT_BOUNDARY.match(line):
             formatted.extend(["", line, ""])
             continue
 
-        m_ode = RE_CANON_ODE.match(line)
+        # 1. Strip invented stanza numbers (preserving any leading [f. XvA] milestone)
+        line = RE_INVENTED_STANZA_NUM.sub(r"\1", line)
+        clean_line = re.sub(r"^(?:\[(?:f\.\s*[^\]]+|p\d+[LR][AB])\]\s*)+", "", line).strip()
+
+        # 2. Heading Normalizations
+        if re.match(r"^#+\s*(?:TONE\s+\d+|Book\s+of\s+the\s+Octoechos.*Tone\s+\d+|WEEKDAY\s+OFFICES|PREFACE|EXAPOSTILARIA|EVANGELICAL|COLOPHON)\b", clean_line, re.IGNORECASE):
+            m_t = re.search(r"\bTONE\s+(\d+)\b", clean_line, re.IGNORECASE)
+            if m_t and not RE_MAJOR_OFFICE.match(clean_line):
+                active_macro = f"TONE_{int(m_t.group(1))}"
+                emitted_in_section.clear()
+                section_has_explicit_h2 = _section_has_enough_explicit_h2(line_idx)
+                if clean_line.startswith("# "):
+                    formatted.extend(["", clean_line, ""])
+                    continue
+            elif re.match(r"^#\s+WEEKDAY\s+OFFICES", clean_line, re.IGNORECASE):
+                active_macro = "WEEKDAY_OFFICES"
+                emitted_in_section.clear()
+                section_has_explicit_h2 = _section_has_enough_explicit_h2(line_idx)
+                formatted.extend(["", clean_line, ""])
+                continue
+            elif re.match(r"^#\s+(?:EXAPOSTILARIA|EVANGELICAL)", clean_line, re.IGNORECASE):
+                active_macro = "EXAPOSTILARIA"
+                emitted_in_section.clear()
+                section_has_explicit_h2 = _section_has_enough_explicit_h2(line_idx)
+                formatted.extend(["", clean_line, ""])
+                continue
+            elif re.match(r"^#\s+(?:PREFACE|COLOPHON)", clean_line, re.IGNORECASE):
+                section_has_explicit_h2 = _section_has_enough_explicit_h2(line_idx)
+                formatted.extend(["", clean_line, ""])
+                continue
+
+        # Detect Consolidated Weekday Cycle after Tone 8 Sunday Evening (Layout B Octoechos, e.g. Kyiv 1629)
+        if (
+            active_macro == "TONE_8"
+            and "SUNDAY_EVENING" in emitted_in_section
+            and re.match(r"^\*?(?:On\s+Monday\s+at\s+Matins|Monday\s+Matins)\b.*?\bTone\s+1\b", clean_line, re.IGNORECASE)
+        ):
+            formatted.extend(["", "# WEEKDAY OFFICES OF THE OCTOECHOS (MONDAY THROUGH SATURDAY)", ""])
+            active_macro = "WEEKDAY_OFFICES"
+            emitted_in_section.clear()
+            section_has_explicit_h2 = _section_has_enough_explicit_h2(line_idx)
+
+        # Promote italicized liturgical office rubrics into canonical H2 headings when section has < 3 explicit H2s
+        if not section_has_explicit_h2 and not clean_line.startswith("#") and clean_line != "---":
+            if active_macro.startswith("TONE_"):
+                t_num = active_macro.split("_")[1]
+                if "SATURDAY_EVENING" not in emitted_in_section and (
+                    re.match(r"^\*?(?:On\s+Saturday\s+evening|At\s+Great\s+Vespers|At\s+Vespers|At\s+[\"“']?Lord,\s+I\s+have\s+cried)\b", clean_line, re.IGNORECASE)
+                    or len(emitted_in_section) == 0
+                ):
+                    if not clean_line.startswith("["):
+                        formatted.extend(["", f"## SATURDAY EVENING: VESPERS (TONE {t_num})", ""])
+                        emitted_in_section.add("SATURDAY_EVENING")
+                elif "SUNDAY_MIDNIGHT" not in emitted_in_section and (
+                    re.match(r"^\*?(?:On\s+Sunday\s+at\s+the\s+Midnight\s+Office|At\s+the\s+Midnight\s+Office|Midnight\s+Office)\b", clean_line, re.IGNORECASE)
+                    or re.search(r"\bCanon\s+(?:to|of)\s+the\s+(?:Most\s+)?Holy\s+(?:and\s+)?(?:Life-[A-Za-z]+\s+)?Trinity\b", clean_line, re.IGNORECASE)
+                ):
+                    formatted.extend(["", f"## SUNDAY MIDNIGHT OFFICE (TONE {t_num})", ""])
+                    emitted_in_section.add("SUNDAY_MIDNIGHT")
+                elif "SUNDAY_MATINS" not in emitted_in_section and re.match(
+                    r"^\*?(?:At\s+Matins|Beginning\s+of\s+Matins|On\s+Sunday\s+Morning|On\s+Sunday\s+at\s+Matins|At\s+[\"“]?God\s+is\s+the\s+Lord|(?:After|At|Resurrection\s+Sessional\s+Hymn\.\s+At)\s+the\s+(?:1st|First)\s+(?:Kathisma|Stichology))\b",
+                    clean_line,
+                    re.IGNORECASE,
+                ):
+                    formatted.extend(["", f"## SUNDAY MATINS (TONE {t_num})", ""])
+                    emitted_in_section.add("SUNDAY_MATINS")
+                elif "SUNDAY_BEATITUDES" not in emitted_in_section and re.match(
+                    r"^\*?(?:On\s+Sunday,?\s+(?:at\s+)?the\s+Beatitudes|At\s+the\s+(?:Divine\s+)?Liturgy,\s+the\s+Beatitudes|The\s+Beatitudes,\s+Tone)\b",
+                    clean_line,
+                    re.IGNORECASE,
+                ):
+                    formatted.extend(["", f"## SUNDAY LITURGY: THE BEATITUDES (TONE {t_num})", ""])
+                    emitted_in_section.add("SUNDAY_BEATITUDES")
+                elif "SUNDAY_EVENING" not in emitted_in_section and re.match(
+                    r"^\*?(?:On\s+)?Sunday\s+evening\b",
+                    clean_line,
+                    re.IGNORECASE,
+                ):
+                    formatted.extend(["", f"## SUNDAY EVENING VESPERS (TONE {t_num})", ""])
+                    emitted_in_section.add("SUNDAY_EVENING")
+                else:
+                    for wk_key, wk_pat, wk_h2 in weekday_rubric_map:
+                        if wk_key not in emitted_in_section and re.match(wk_pat, clean_line, re.IGNORECASE):
+                            formatted.extend(["", f"{wk_h2} (TONE {t_num})", ""])
+                            emitted_in_section.add(wk_key)
+                            break
+            elif active_macro == "WEEKDAY_OFFICES":
+                for wk_key, wk_pat, wk_h2 in weekday_rubric_map:
+                    if wk_key not in emitted_in_section and re.match(wk_pat, clean_line, re.IGNORECASE):
+                        formatted.extend(["", wk_h2, ""])
+                        emitted_in_section.add(wk_key)
+                        break
+            elif active_macro == "EXAPOSTILARIA":
+                if "EXAP_EOTHINA" not in emitted_in_section and re.match(
+                    r"^\*?(?:\*\*)?(?:The\s+)?(?:Resurrectional\s+Exapostilaria|First\s+Exapostilarion|Exapostilarion\s+1)\b",
+                    clean_line,
+                    re.IGNORECASE,
+                ):
+                    formatted.extend(["", "## RESURRECTIONAL EXAPOSTILARIA AND ELEVEN EVANGELICAL STICHERA (EOTHINA)", ""])
+                    emitted_in_section.add("EXAP_EOTHINA")
+                elif "TRIADIKA" not in emitted_in_section and re.match(
+                    r"^\*?(?:Beginning\s+with\s+God\s+of\s+the\s+Triadika|Triadika\s+(?:of\s+the\s+days|hymns))\b",
+                    clean_line,
+                    re.IGNORECASE,
+                ):
+                    formatted.extend(["", "## WEEKDAY TRIADIKA (HYMNS TO THE TRINITY) AND PHOTOGOGIKA (TONES 1–8)", ""])
+                    emitted_in_section.add("TRIADIKA")
+                elif "PROVENANCE" not in emitted_in_section and re.match(
+                    r"^\*?(?:\*\*|\[)?(?:Lower\s+Margin|Archival\s+Stamp|Library\s+Stamp|Rear\s+Pastedown|Rear\s+Flyleaf|Manuscript\s+provenance)\b",
+                    clean_line,
+                    re.IGNORECASE,
+                ):
+                    formatted.extend(["", "## CODICOLOGICAL PROVENANCE, ARCHIVAL INSCRIPTIONS, AND REAR BINDING", ""])
+                    emitted_in_section.add("PROVENANCE")
+
+        m_ode = RE_CANON_ODE.match(clean_line)
         if m_ode:
             line = f"#### Ode {m_ode.group(1)}"
             formatted.extend(["", line, ""])
             continue
 
-        m_office = RE_MAJOR_OFFICE.match(line)
+        m_office = RE_MAJOR_OFFICE.match(clean_line)
         if m_office:
             office_title = m_office.group(0).lstrip("#").strip()
             office_title = re.sub(r"^TONE\s+\d+\s*[-—:]\s*", "", office_title, flags=re.IGNORECASE)
@@ -807,8 +1313,8 @@ def format_hymnographic_stanzas_and_headings(text: str) -> str:
             formatted.extend(["", line, ""])
             continue
 
-        m_sec = RE_SECTION_HEADING.match(line)
-        if m_sec:
+        m_sec = RE_SECTION_HEADING.match(clean_line)
+        if m_sec and not RE_MAJOR_OFFICE.match(clean_line):
             sec_title = m_sec.group(0).lstrip("#").strip()
             line = f"### {sec_title}"
             formatted.extend(["", line, ""])
@@ -817,7 +1323,7 @@ def format_hymnographic_stanzas_and_headings(text: str) -> str:
         # 3. Liturgical Stanza Separation: always insert blank line between distinct paragraphs
         if formatted and formatted[-1].strip():
             prev_l = formatted[-1].strip()
-            if not prev_l.startswith("#") and prev_l != "---":
+            if not prev_l.startswith("#") and prev_l != "---" and not RE_COHORT_BOUNDARY.match(prev_l):
                 formatted.append("")
 
         formatted.append(line)
@@ -832,7 +1338,8 @@ def format_hymnographic_stanzas_and_headings(text: str) -> str:
 # ==============================================================================
 
 POD_TRIGGER_RE = re.compile(
-    r"\b(?:Podoben|Model|Melodic\s+model|Special\s+Melody|Same\s+melody)\b"
+    r"\b(?:Podoben|Prosomoion|Model\s+melody|Model|Melodic\s+model|Special\s+Melody|Same\s+melody|Nekrosimon)\b"
+    r"|^\*?(?:For\s+the\s+Departed(?:\s*\[Поко́инъ\])?|Hymn\s+for\s+the\s+Departed(?:\s*\(Поко́инъ\))?):\*?(?:\s*\[\^\d+\])?$"
     r"|\b(?:Tone\s+\d+|Same\s+Tone|For\s+the\s+Departed|Resurrectional|Penitential\s+Stichera|Stichera\s+[^\n:]+)\.\s+To:",
     re.IGNORECASE
 )
@@ -847,13 +1354,15 @@ def process_monument_cohorts(
     """
     Main orchestrator for hymnographic normalizations:
     1. Reads all cohorts and verbatim Slavonic source files.
-    2. Performs leaf-synchronized primitive normalization (Podobens, Stichoi, Weekday Heirmoi).
-    3. Runs 2-up seam stitching with [f. XvA] locus milestones.
+    2. Performs leaf-synchronized primitive normalization (Podobens, Stichoi, Weekday Heirmoi, Pokoin).
+    3. Runs unified codex-wide 2-up seam stitching with [f. XvA] locus milestones across both
+       intra-cohort and inter-cohort boundaries.
     4. Runs stanza separation (\\n\\n) and heading hierarchy standardization.
     5. Emits _drift_ledger.json, _drift_report.md, _primitives_review.md,
        _propers_corpus.json, and _slavonic_complete.md.
     """
     normalizer = HymnographicNormalizer()
+    mon_meta = load_monument_metadata(monument_id)
 
     cohort_files = sorted(
         list(cohorts_dir.glob("*.md")),
@@ -864,18 +1373,18 @@ def process_monument_cohorts(
         key=lambda p: int(re.search(r"cohort(\d+)", p.name).group(1)) if re.search(r"cohort(\d+)", p.name) else 999
     )
 
-    all_stitched_cohorts: List[str] = []
-    total_stitch_count = 0
+    pre_norm_cohorts: List[str] = []
     all_drift_events: List[Dict[str, Any]] = []
     slavonic_stanzas_by_leaf: Dict[int, List[str]] = {}
+    folio_to_leaf_map: Dict[str, int] = {}
 
     current_tone = 1
     current_ode = 1
 
     for idx, c_file in enumerate(cohort_files):
         c_idx = idx + 1
-        c_text = c_file.read_text(encoding="utf-8")
-        s_text = source_files[idx].read_text(encoding="utf-8") if idx < len(source_files) else ""
+        c_text = c_file.read_text(encoding="utf-8-sig")
+        s_text = source_files[idx].read_text(encoding="utf-8-sig") if idx < len(source_files) else ""
 
         # Parse Slavonic source by physical leaf pN
         s_by_leaf: Dict[int, List[str]] = {}
@@ -890,12 +1399,12 @@ def process_monument_cohorts(
 
         s_primitives_by_leaf: Dict[int, Tuple[List[str], List[str], List[str]]] = {}
         for lf_num, s_lns in s_by_leaf.items():
-            s_pods, s_verses, s_stanzas = extract_leaf_slavonic_primitives(s_lns)
+            s_pods, s_verses, s_stanzas = extract_leaf_slavonic_primitives(s_lns, normalizer.podobens)
             s_primitives_by_leaf[lf_num] = (s_pods, s_verses, s_stanzas)
             slavonic_stanzas_by_leaf[lf_num] = s_stanzas
 
         # Step A: Leaf-Synchronized Primitive Normalization (while === LEAF pN === banners are intact)
-        norm_lines: List[str] = []
+        norm_lines: List[str] = [f"=== COHORT_BOUNDARY {c_idx} ==="]
         curr_c_leaf = 1
 
         for raw_c_line in c_text.splitlines():
@@ -907,9 +1416,24 @@ def process_monument_cohorts(
                 norm_lines.append(raw_c_line)
                 continue
 
-            m_t = re.search(r"\bTONE\s+(\d+)\b", c_line, re.IGNORECASE)
+            m_pg = RE_PAGE_HEADER.match(c_line)
+            if m_pg:
+                f_str = (m_pg.group(2) or "").strip().lower()
+                if not f_str and m_pg.group(3):
+                    mf_desc = re.search(r"(?:Fol\.?|Folio)\s*([0-9]+[rv])", m_pg.group(3), re.IGNORECASE)
+                    if mf_desc:
+                        f_str = mf_desc.group(1).strip().lower()
+                if f_str:
+                    folio_to_leaf_map[f_str] = curr_c_leaf
+
+            m_t = re.search(r"\bTONE\s+(\d+|ONE|TWO|THREE|FOUR|FIVE|SIX|SEVEN|EIGHT)\b", c_line, re.IGNORECASE)
             if m_t:
-                current_tone = int(m_t.group(1))
+                word_to_num = {
+                    "one": 1, "two": 2, "three": 3, "four": 4,
+                    "five": 5, "six": 6, "seven": 7, "eight": 8
+                }
+                t_val = m_t.group(1).lower()
+                current_tone = word_to_num.get(t_val, int(t_val) if t_val.isdigit() else current_tone)
 
             m_o = re.search(r"\bOde\s+(\d+)\b", c_line, re.IGNORECASE)
             if m_o:
@@ -917,7 +1441,7 @@ def process_monument_cohorts(
 
             s_pods, s_verses, _ = s_primitives_by_leaf.get(curr_c_leaf, ([], [], []))
 
-            # 1. Check Podoben / Model / Melodic model / Same melody / To:
+            # 1. Check Podoben / Prosomoion / Model / Melodic model / Same melody / To: / Pokoin
             if POD_TRIGGER_RE.search(c_line):
                 norm_l, event = normalizer.normalize_podoben_line(
                     c_line, s_pods, current_tone, c_idx, curr_c_leaf
@@ -949,25 +1473,44 @@ def process_monument_cohorts(
 
             norm_lines.append(raw_c_line)
 
-        pre_norm_cohort = "\n".join(norm_lines)
+        pre_norm_cohorts.append("\n".join(norm_lines))
 
-        # Step B: 2-up seam stitching with [f. XvA] milestones
-        stitched_c, stitch_log = stitch_2up_hymnographic_stream(pre_norm_cohort)
-        total_stitch_count += len(stitch_log)
+    # Step B: Unified Codex-Wide 2-up seam stitching with [f. XvA] milestones (intra-cohort + inter-cohort)
+    combined_pre_norm = "\n".join(pre_norm_cohorts)
+    stitched_codex, stitch_log = stitch_2up_hymnographic_stream(combined_pre_norm)
+    total_stitch_count = len(stitch_log)
 
-        # Step C: Stanza separation & heading standardization
-        formatted_c = format_hymnographic_stanzas_and_headings(stitched_c)
-        all_stitched_cohorts.append(formatted_c)
+    # Record SEAM_OVERLAP_DEDUPLICATED events into all_drift_events for auditability
+    for s_ev in stitch_log:
+        if s_ev.get("deduplicated"):
+            all_drift_events.append({
+                "type": "SEAM_OVERLAP_DEDUPLICATED",
+                "locus": s_ev.get("milestone", ""),
+                "prev_tail": s_ev.get("prev_tail", ""),
+                "curr_head": s_ev.get("curr_head", ""),
+                "is_ai_drift": True,
+            })
 
-    unified_codex_text = "\n\n".join(all_stitched_cohorts)
-    unified_codex_text = re.sub(r"\n{3,}", "\n\n", unified_codex_text)
+    # Step C: Stanza separation & heading standardization across full codex
+    formatted_codex = format_hymnographic_stanzas_and_headings(stitched_codex)
+
+    # Split back by cohort boundaries for propers corpus tracking, and strip markers for unified text
+    all_stitched_cohorts = [
+        chunk.strip()
+        for chunk in re.split(r"(?m)^===\s*COHORT_BOUNDARY\s+\d+\s*===$", formatted_codex)
+        if chunk.strip()
+    ]
+    unified_codex_text = re.sub(r"(?m)^===\s*COHORT_BOUNDARY\s+\d+\s*===\n*", "", formatted_codex)
+    unified_codex_text = re.sub(r"\n{3,}", "\n\n", unified_codex_text).strip()
 
     # Step D: Emit Companion Deliverables
     emit_deliverables(
         monument_id=monument_id,
+        mon_meta=mon_meta,
         source_files=source_files,
         all_stitched_cohorts=all_stitched_cohorts,
         slavonic_stanzas_by_leaf=slavonic_stanzas_by_leaf,
+        folio_to_leaf_map=folio_to_leaf_map,
         all_drift_events=all_drift_events,
         total_stitch_count=total_stitch_count,
         final_md_dir=final_md_dir,
@@ -983,9 +1526,11 @@ def process_monument_cohorts(
 
 def emit_deliverables(
     monument_id: str,
+    mon_meta: Dict[str, Any],
     source_files: List[Path],
     all_stitched_cohorts: List[str],
     slavonic_stanzas_by_leaf: Dict[int, List[str]],
+    folio_to_leaf_map: Dict[str, int],
     all_drift_events: List[Dict[str, Any]],
     total_stitch_count: int,
     final_md_dir: Path,
@@ -995,15 +1540,21 @@ def emit_deliverables(
     final_md_dir.mkdir(parents=True, exist_ok=True)
 
     # 1. Consolidated Church Slavonic Master
-    slavonic_parts = [sf.read_text(encoding="utf-8").strip() for sf in source_files]
+    slavonic_parts = [sf.read_text(encoding="utf-8-sig").strip() for sf in source_files]
     slavonic_complete = "\n\n---\n\n".join(slavonic_parts)
+    slavonic_complete = re.sub(r"^Tropar hlas 7$", "(*Tropar hlas 7*)", slavonic_complete, flags=re.MULTILINE)
     (final_md_dir / f"{monument_id}_slavonic_complete.md").write_text(slavonic_complete, encoding="utf-8")
     print(f"  [Companion] Emitted {monument_id}_slavonic_complete.md ({len(slavonic_complete):,} chars)")
 
     # 2. Drift Ledger JSON
+    seam_dedup_count = sum(1 for e in all_drift_events if e.get("type") == "SEAM_OVERLAP_DEDUPLICATED")
     ledger_data = {
         "monument_id": monument_id,
+        "title": mon_meta["title"],
+        "publication_year": mon_meta["publication_year"],
+        "total_physical_pages": mon_meta["total_physical_pages"],
         "total_stitches": total_stitch_count,
+        "seam_overlaps_deduplicated": seam_dedup_count,
         "total_drift_records": len(all_drift_events),
         "events": all_drift_events
     }
@@ -1012,29 +1563,21 @@ def emit_deliverables(
         encoding="utf-8"
     )
 
-    audit_rep_dir = PROJECT_ROOT / "Audit_Reports"
+    audit_rep_dir = final_md_dir.parent / "Audit_Reports"
     audit_rep_dir.mkdir(parents=True, exist_ok=True)
     (audit_rep_dir / f"{monument_id}_drift_ledger.json").write_text(
         json.dumps(ledger_data, indent=2, ensure_ascii=False) + "\n",
         encoding="utf-8"
     )
-    print(f"  [Companion] Emitted {monument_id}_drift_ledger.json ({len(all_drift_events)} records)")
+    print(f"  [Companion] Emitted {monument_id}_drift_ledger.json ({len(all_drift_events)} records, {seam_dedup_count} seam overlaps deduplicated)")
 
-    # 3. Father Paul Primitives Review Digest (Complete 8-Tone Edition)
-    primitives_review = generate_father_paul_digest(monument_id, normalizer, all_drift_events)
-    (final_md_dir / f"{monument_id}_primitives_review.md").write_text(primitives_review, encoding="utf-8")
-    print(f"  [Companion] Emitted {monument_id}_primitives_review.md ({len(primitives_review):,} chars)")
-
-    # 4. Drift Analysis Markdown Report
-    drift_report = generate_drift_report(monument_id, total_stitch_count, all_drift_events)
-    (final_md_dir / f"{monument_id}_drift_report.md").write_text(drift_report, encoding="utf-8")
-    print(f"  [Companion] Emitted {monument_id}_drift_report.md ({len(drift_report):,} chars)")
-
-    # 5. Complete Bilingual Cross-Propers Corpus JSON
+    # 3. Complete Bilingual Cross-Propers Corpus JSON (computed first so dynamic Heirmoi can feed Primitives Digest)
     corpus_json = generate_propers_corpus(
         monument_id=monument_id,
+        mon_meta=mon_meta,
         all_stitched_cohorts=all_stitched_cohorts,
         slavonic_stanzas_by_leaf=slavonic_stanzas_by_leaf,
+        folio_to_leaf_map=folio_to_leaf_map,
         normalizer=normalizer
     )
     (final_md_dir / f"{monument_id}_propers_corpus.json").write_text(
@@ -1043,33 +1586,94 @@ def emit_deliverables(
     )
     print(f"  [Companion] Emitted {monument_id}_propers_corpus.json ({len(corpus_json.get('items', []))} items)")
 
-    # 6. Companion Deliverables generated directly by compiler engine
+    # 4. Father Paul Primitives Review Digest (Dynamic Per-Monument Attestation)
+    primitives_review = generate_father_paul_digest(
+        monument_id=monument_id,
+        mon_meta=mon_meta,
+        normalizer=normalizer,
+        events=all_drift_events,
+        corpus_items=corpus_json.get("items", [])
+    )
+    (final_md_dir / f"{monument_id}_primitives_review.md").write_text(primitives_review, encoding="utf-8")
+    print(f"  [Companion] Emitted {monument_id}_primitives_review.md ({len(primitives_review):,} chars)")
+
+    # 5. Drift Analysis Markdown Report
+    drift_report = generate_drift_report(monument_id, mon_meta, total_stitch_count, all_drift_events)
+    (final_md_dir / f"{monument_id}_drift_report.md").write_text(drift_report, encoding="utf-8")
+    print(f"  [Companion] Emitted {monument_id}_drift_report.md ({len(drift_report):,} chars)")
 
 
 def generate_father_paul_digest(
     monument_id: str,
+    mon_meta: Dict[str, Any],
     normalizer: HymnographicNormalizer,
-    events: List[Dict[str, Any]]
+    events: List[Dict[str, Any]],
+    corpus_items: List[Dict[str, Any]]
 ) -> str:
+    """
+    Generates the Canonical Liturgical Primitives Review Digest dynamically from the target
+    monument's actual normalization events and extracted corpus stanzas.
+    """
+    pub_year = mon_meta["publication_year"]
+    short_title = mon_meta["short_title"]
+
+    # Dynamically aggregate Stichoi attested in this monument
+    verse_loci_by_id: Dict[str, List[str]] = {}
+    verse_slav_by_id: Dict[str, str] = {}
+    for ev in events:
+        if ev.get("type") in ("PSALM_VERSE_NORMALIZED", "PSALM_VERSE_TIER3_SOURCE_VARIANT"):
+            vid = ev.get("id", "")
+            loc = ev.get("locus", "")
+            if vid:
+                verse_loci_by_id.setdefault(vid, []).append(loc)
+                if vid not in verse_slav_by_id and ev.get("slavonic_source"):
+                    verse_slav_by_id[vid] = ev["slavonic_source"]
+
+    # Dynamically aggregate Podobens attested in this monument
+    pod_loci_by_id: Dict[str, List[str]] = {}
+    pod_slav_by_id: Dict[str, str] = {}
+    same_pod_loci: List[str] = []
+    for ev in events:
+        ev_type = ev.get("type", "")
+        if ev_type == "PODOBEN_NORMALIZED":
+            pid = ev.get("primitive_id", "")
+            loc = ev.get("locus", "")
+            if pid:
+                pod_loci_by_id.setdefault(pid, []).append(loc)
+                if pid not in pod_slav_by_id and ev.get("slavonic_source"):
+                    pod_slav_by_id[pid] = ev["slavonic_source"]
+        elif ev_type == "PODOBEN_SAME_NORMALIZED":
+            same_pod_loci.append(ev.get("locus", ""))
+
+    attested_stichoi = [st for st in normalizer.stichoi if verse_loci_by_id.get(st["id"])]
+    unattested_stichoi = [st for st in normalizer.stichoi if not verse_loci_by_id.get(st["id"])]
+
+    attested_podobens = [pod for pod in normalizer.podobens if pod_loci_by_id.get(pod["id"])]
+    unattested_podobens_in_monument = [pod for pod in normalizer.podobens if not pod_loci_by_id.get(pod["id"])]
+
+    total_pod_invocations = sum(len(v) for v in pod_loci_by_id.values()) + len(same_pod_loci)
+
     lines = [
-        f"# Canonical Liturgical Primitives Review Digest: {monument_id.replace('_', ' ').title()}",
+        f"# Canonical Liturgical Primitives Review Digest: {short_title}",
         "",
         "> [!IMPORTANT]",
         "> **For Pastoral and Liturgical Review by Father Paul**",
-        f"> This document collects all recurring liturgical primitives across **all 8 Tones** of the 1630 Lviv Octoechos (`{len(normalizer.stichoi)}` Psalm *Stichoi*, `{len(normalizer.podobens)}` *Podoben* / *Automelon* models across Tones 1–8, and all `{len(normalizer.heirmoi)}` Sunday Canon *Heirmoi* across Tones 1–8).",
+        f"> This document collects all recurring liturgical primitives physically attested across **all 8 Tones** of the {short_title} (`{len(attested_stichoi)}` recurring Psalm *Stichoi*, `{len(attested_podobens)}` distinct *Podoben* / *Automelon* models invoked `{total_pod_invocations}` times across Tones 1–8, and all `{len(normalizer.heirmoi)}` Sunday Canon *Heirmoi* across Tones 1–8).",
         "> Any revision made to a canonical English rendering in `data/liturgical_primitives_registry.json` will automatically propagate across every service in the codex via a single re-compile.",
         "",
         "---",
         "",
         "## 1. Recurring Psalm Verses (Stichoi)",
         "",
-        "| ID | LXX Reference | Church Slavonic Canonical | Byzantine Greek | Canonical English Translation | Attested Loci |",
+        f"| ID | LXX Reference | {pub_year} Church Slavonic Witness | Byzantine Greek | Canonical English Translation | Attested Loci |",
         "| :--- | :--- | :--- | :--- | :--- | :---: |"
     ]
-    for st in normalizer.stichoi:
-        loci_cnt = len(st.get("attested_loci", []))
+    for st in (attested_stichoi if attested_stichoi else normalizer.stichoi):
+        loci_list = verse_loci_by_id.get(st["id"], [])
+        loci_cnt = len(loci_list)
+        slav_w = verse_slav_by_id.get(st["id"], st["slavonic_canonical"])
         lines.append(
-            f"| `{st['id']}` | **{st['lxx_ref']}** | *{st['slavonic_canonical']}* | *{st['greek']}* | {st['english_canonical']} | {loci_cnt} leaves |"
+            f"| `{st['id']}` | **{st['lxx_ref']}** | *{slav_w}* | *{st['greek']}* | {st['english_canonical']} | {loci_cnt} leaves |"
         )
 
     lines.extend([
@@ -1079,19 +1683,27 @@ def generate_father_paul_digest(
         "## 2. Model Hymns (Podobens / Automela — Tones 1 to 8)",
         "",
         "> [!NOTE]",
-        f"> **Internal Attestation Guarantee:** 100% of the models below are physically attested and prescribed within `{monument_id}`.",
-        f"> For the complete chronological invocation log across the codex, see [{monument_id}_podoben_grid.md]({monument_id}_podoben_grid.md).",
+        f"> **Internal Attestation & Mathematical Parity Guarantee:** 100% of the `{len(attested_podobens)}` models below (plus `{len(same_pod_loci)}` *\"The same\"* continuation rubrics = `{total_pod_invocations}` total Podoben invocations) are physically attested and prescribed within `{monument_id}`.",
+        f"> For the complete chronological invocation log across all `{total_pod_invocations}` occurrences, see [{monument_id}_podoben_grid.md]({monument_id}_podoben_grid.md).",
         "",
-        "| ID | Tone | 1630 Church Slavonic Incipit | Byzantine Greek Automelon | Canonical English Incipit | Attested Loci |",
-        "| :--- | :---: | :--- | :--- | :--- | :---: |"
+        f"| ID | Tone | {pub_year} Church Slavonic Incipit | Byzantine Greek Automelon | Canonical English Incipit | Attested Loci |",
+        "| :--- | :---: | :--- | :--- | :--- | :--- |"
     ])
-    for pod in normalizer.podobens:
-        loci_cnt = len(pod.get("attested_loci", []))
-        loci_sample = ", ".join(pod.get("attested_loci", [])[:4])
+    for pod in attested_podobens:
+        loci_list = pod_loci_by_id.get(pod["id"], [])
+        loci_cnt = len(loci_list)
+        loci_sample = ", ".join(loci_list[:4])
         if loci_cnt > 4:
             loci_sample += f" (+{loci_cnt - 4} more)"
+        slav_w = pod_slav_by_id.get(pod["id"], pod["slavonic_canonical"])
         lines.append(
-            f"| `{pod['id']}` | Tone {pod['tone']} | *{pod['slavonic_canonical']}* | *{pod['greek']}* | **{pod['english_canonical']}** | `{loci_sample or 'C01:p1'}` ({loci_cnt}x) |"
+            f"| `{pod['id']}` | Tone {pod['tone']} | *{slav_w}* | *{pod['greek']}* | **{pod['english_canonical']}** | `{loci_sample}` ({loci_cnt}x) |"
+        )
+    if same_pod_loci:
+        same_cnt = len(same_pod_loci)
+        same_sample = ", ".join(same_pod_loci[:4]) + (f" (+{same_cnt - 4} more)" if same_cnt > 4 else "")
+        lines.append(
+            f"| `POD.SAME.TOIZHE` | Tones 1–8 | *то́йже / Гла́съ и҆ подо́бенъ то́йже* | *Ὁ αὐτός* | **The same / The same Tone and Podoben** | `{same_sample}` ({same_cnt}x) |"
         )
 
     lines.extend([
@@ -1101,42 +1713,68 @@ def generate_father_paul_digest(
         "## 3. Sunday Canon Heirmoi (Complete 8-Tone Cycle: Tones 1–8, Odes 1, 3–9)",
         ""
     ])
+
+    # Build dynamic lookup of Sunday Resurrectional Canon Heirmoi from corpus_items
+    dynamic_heirmoi_by_key: Dict[Tuple[int, int], Dict[str, Any]] = {}
+    for it in corpus_items:
+        t_num = int(it.get("tone", 0))
+        o_num = it.get("ode") or 0
+        if t_num in range(1, 9) and o_num in (1, 3, 4, 5, 6, 7, 8, 9):
+            if (t_num, o_num) not in dynamic_heirmoi_by_key and it.get("hymn_type") == "Heirmos":
+                dynamic_heirmoi_by_key[(t_num, o_num)] = it
+
     for tone_num in range(1, 9):
         lines.extend([
             f"### Tone {tone_num} Sunday Canon Heirmoi",
             "",
-            "| Ode | Locus | 1630 Church Slavonic Incipit | Byzantine Greek Incipit | 1630 Lviv Octoechos Translation |",
+            f"| Ode | Locus | {pub_year} Church Slavonic Incipit | Byzantine Greek Incipit | {short_title} Translation |",
             "| :---: | :---: | :--- | :--- | :--- |"
         ])
         tone_heirmoi = [h for h in normalizer.heirmoi if h["tone"] == tone_num]
         for h in tone_heirmoi:
+            dyn_h = dynamic_heirmoi_by_key.get((tone_num, h["ode"]))
+            if dyn_h:
+                loc_str = f"{dyn_h.get('leaf', '')} ({dyn_h.get('locus', '')})"
+                slav_inc = (dyn_h.get("slavonic_text") or h["slavonic_incipit"])[:75].strip()
+                eng_full = re.sub(r"^\*?[^\*:]*Heirmos:\*?\s*", "", dyn_h.get("english_text", "")).strip() or h["english_full"]
+            else:
+                loc_str = h.get("leaf", "")
+                slav_inc = h["slavonic_incipit"]
+                eng_full = h["english_full"]
             lines.append(
-                f"| Ode {h['ode']} | `{h.get('leaf', '')}` | *{h['slavonic_incipit']}* | *{h['greek']}* | {h['english_full']} |"
+                f"| Ode {h['ode']} | `{loc_str}` | *{slav_inc}* | *{h['greek']}* | {eng_full} |"
             )
         lines.append("")
 
-    # Section 4: Un-invoked Comparative Automela
-    unattested = normalizer.registry.get("unattested_comparative_models", [])
-    if unattested:
+    # Section 4: Un-Invoked Comparative Automela in This Edition
+    all_uninvoked = unattested_podobens_in_monument + normalizer.registry.get("unattested_comparative_models", [])
+    if all_uninvoked:
         lines.extend([
             "",
             "---",
             "",
-            "## 4. Un-Invoked Comparative Automela (Not Prescribed in this Octoechos)",
+            "## 4. Un-Invoked Comparative Automela (Not Prescribed in This Edition)",
             "",
-            "The following classical Byzantine Automela exist in the broader Byzantine/Slavonic tradition but are **not physically prescribed** within the weekly Octoechos cycle of the 1630 Lviv edition (they belong primarily to the Menaion, Triodion, or Horologion):",
+            f"The following classical Byzantine/Slavonic Automela exist in the shared liturgical registry (`data/liturgical_primitives_registry.json`) but have **0 invocations** within the physical leaves of `{monument_id}`:",
             "",
             "| Tone | Model ID | Classical Slavonic Incipit | Byzantine Greek Automelon | Classical English Title | Liturgical Provenance / Reason for Non-Invocation |",
             "| :---: | :--- | :--- | :--- | :--- | :--- |"
         ])
         notes_map = {
             "POD.T2.DOM_EVFRATOV": "Menaion December cycle (Forefeast of the Nativity); not used in the weekly Octoechos.",
-            "POD.T4.VOZNESYISYA_NA_KREST": "Horologion Troparion of the Holy Cross; used as a statutory dismissal troparion rather than a sticheron model in this print.",
-            "POD.T4.UDIVISYA_IOSIF": "Tone 4 Sessional Hymn model; in this 1630 edition on f. 105v (p106) the rubric is left as an unstated incipit after 'По:'.",
-            "POD.T7.RADUISYA": "Chanted as a borrowed model heading on f. 227v (p227); functions as a cross-tone reference rather than an independent Tone 7 model."
+            "POD.T4.VOZNESYISYA_NA_KREST": "Horologion Troparion of the Holy Cross; chanted as a Sessional model in some recensions.",
+            "POD.T4.UDIVISYA_IOSIF": "Tone 4 Sessional Hymn model; omitted when weekday cycles are condensed.",
+            "POD.T7.RADUISYA": "Cross-tone borrowed model heading.",
         }
-        for u in unattested:
-            note = notes_map.get(u["id"], "Festal or specialized cycle automelon not prescribed in Octoechos.")
+        seen_uninv: Set[str] = set()
+        for u in all_uninvoked:
+            if u["id"] in seen_uninv:
+                continue
+            seen_uninv.add(u["id"])
+            note = notes_map.get(
+                u["id"],
+                f"Prescribed in full 8-week weekday Octoechos recensions; not invoked in the {short_title} cycle."
+            )
             lines.append(
                 f"| Tone {u['tone']} | `{u['id']}` | *{u['slavonic_canonical']}* | *{u['greek']}* | **{u['english_canonical']}** | {note} |"
             )
@@ -1146,65 +1784,77 @@ def generate_father_paul_digest(
 
 def generate_drift_report(
     monument_id: str,
+    mon_meta: Dict[str, Any],
     total_stitches: int,
     events: List[Dict[str, Any]]
 ) -> str:
+    pub_year = mon_meta["publication_year"]
+    short_title = mon_meta["short_title"]
+    total_pages = mon_meta["total_physical_pages"]
+
     ai_drift_count = sum(1 for e in events if e.get("is_ai_drift"))
-    tier3_source_count = sum(1 for e in events if e.get("drift_tier") == "TIER_3_LEXICAL_RECENSIONAL")
+    tier3_source_count = sum(1 for e in events if e.get("drift_tier") in ("TIER_3_LEXICAL_RECENSIONAL", "SCRIBAL_INCIPIT_TRUNCATION"))
+    seam_dedup_events = [e for e in events if e.get("type") == "SEAM_OVERLAP_DEDUPLICATED"]
     pod_events = [e for e in events if "PODOBEN" in e.get("type", "") or "POKOIN" in e.get("type", "")]
     verse_events = [e for e in events if "VERSE" in e.get("type", "")]
     heirmos_events = [e for e in events if "HEIRMOS" in e.get("type", "")]
 
     lines = [
-        f"# Scholarly Drift & Seam-Stitching Audit Report: {monument_id.replace('_', ' ').title()}",
+        f"# Scholarly Drift & Seam-Stitching Audit Report: {short_title}",
         "",
         f"- **Monument ID**: `{monument_id}`",
-        f"- **Total 2-Up Mid-Sentence Seams Stitched**: {total_stitches} boundaries",
-        f"- **Inline Locus Milestones Inserted**: `[f. XvA]`, `[f. XvB]` across all 267 leaves",
-        f"- **Total Primitive Normalization & Drift Events**: {len(events)} (`{len(pod_events)}` Podobens, `{len(verse_events)}` Psalm Stichoi, `{len(heirmos_events)}` Weekday Heirmoi)",
-        f"- **Pre-Normalization AI Translation Drift Unified**: {ai_drift_count} occurrences",
-        f"- **Source-Text (1630 Slavonic) Tier 3 Variations Preserved**: {tier3_source_count} events",
+        f"- **Total 2-Up Mid-Sentence Seams Stitched**: {total_stitches} boundaries (`{len(seam_dedup_events)}` sub-clause seam overlaps deduplicated)",
+        f"- **Inline Locus Milestones Inserted**: `[f. XvA]`, `[f. XrA]` across all {total_pages} leaves",
+        f"- **Total Primitive Normalization & Drift Events**: {len(events)} (`{len(pod_events)}` Podobens/Pokoin, `{len(verse_events)}` Psalm Stichoi, `{len(heirmos_events)}` Weekday Heirmoi, `{len(seam_dedup_events)}` Seam Deduplications)",
+        f"- **True Pre-Normalization AI Translation Drift Unified**: {ai_drift_count} occurrences",
+        f"- **Source-Text ({pub_year} Slavonic) Scribal Truncations & Tier 3 Variations Classified**: {tier3_source_count} events",
         "",
         "---",
         "",
-        "## 1. Summary of 3-Tier Source Drift Engine",
+        "## 1. Summary of 3-Tier Source & Scribal Drift Engine",
         "",
         "1. **Tier 1 (Typographic / Titlo Equivalence)**: Strips accents, titla, and sacred abbreviations (`бг҃` -> `богъ`). Unified silently to canonical English.",
-        "2. **Tier 2 (Orthographic / Phonological Variant)**: Harmonizes Ruthenian/Church Slavonic vowel and yer reflexes (`ѡ`/`о`, `ѣ`/`е`, `ꙋ`/`у`). Unified to canonical English while logging orthographic drift.",
-        "3. **Tier 3 (Lexical / Syntactic / Recensional Variant)**: Genuine source variations in the 1630 print. **Preserved as distinct English translations** and annotated.",
+        "2. **Tier 2 (Orthographic / Phonological Variant)**: Harmonizes Ruthenian/Church Slavonic vowel and yer reflexes (`ѡ`/`о`, `ѣ`/`е`, `ꙋ`/`у`, `ᲂу`/`у`). Unified to canonical English while logging orthographic drift.",
+        "3. **Scribal Incipit Truncation (`SCRIBAL_INCIPIT_TRUNCATION`)**: The printer/scribe abbreviated the model incipit on the physical leaf (e.g. `По̀, Дв҃аа` for `Дѣ́ва дне́сь`, or omitted `Подо́бенъ` before the incipit). Classified as a scribal convention, never counted as AI translation error.",
+        f"4. **Tier 3 (Lexical / Syntactic / Recensional Variant)**: Genuine source variations in the {pub_year} print. **Preserved as distinct English translations** and annotated.",
         "",
         "---",
         "",
         "## 2. Complete Podoben & Rubric Drift Log",
         "",
-        "| Type | Locus | ID | 1630 Slavonic Witness | Pre-Normalization Cohort Text | Canonical Normalized Reading |",
-        "| :--- | :---: | :--- | :--- | :--- | :--- |"
+        f"| Type | Locus | ID | Drift Tier | {pub_year} Slavonic Witness | Pre-Normalization Cohort Text | Canonical Normalized Reading |",
+        "| :--- | :---: | :--- | :---: | :--- | :--- | :--- |"
     ]
 
     for ev in pod_events:
         ev_type = ev.get("type", "PODOBEN_NORMALIZED")
         locus = ev.get("locus", "")
         prim_id = ev.get("primitive_id", ev.get("id", "N/A"))
+        d_tier = ev.get("drift_tier", "TIER_1_TYPOGRAPHIC_TITLO")
         slav = ev.get("slavonic_source", ev.get("slavonic_canonical", ""))
         raw_eng = ev.get("raw_cohort_english", ev.get("raw_english", ""))
         canon_eng = ev.get("canonical_english", "")
-        lines.append(f"| `{ev_type}` | `{locus}` | `{prim_id}` | *{slav}* | {raw_eng} | **{canon_eng}** |")
+        lines.append(f"| `{ev_type}` | `{locus}` | `{prim_id}` | `{d_tier}` | *{slav}* | {raw_eng} | **{canon_eng}** |")
 
     return "\n".join(lines)
 
 
 def generate_propers_corpus(
     monument_id: str,
+    mon_meta: Dict[str, Any],
     all_stitched_cohorts: List[str],
     slavonic_stanzas_by_leaf: Dict[int, List[str]],
+    folio_to_leaf_map: Dict[str, int],
     normalizer: HymnographicNormalizer
 ) -> Dict[str, Any]:
     """
-    Parses all 27 stitched cohorts into a complete bilingual atomic hymn corpus
-    (`~5,000+` stanzas across all 8 Tones and Appendix) with full liturgical coordinates
-    and leaf-synchronized Slavonic source text.
+    Parses all stitched cohorts into a complete bilingual atomic hymn corpus
+    with full liturgical coordinates and leaf-synchronized Slavonic source text.
     """
     items: List[Dict[str, Any]] = []
+    total_pages = mon_meta["total_physical_pages"]
+    folio_offset = mon_meta["folio_offset"]
+    ws_rel = mon_meta["workspace_dir"]
 
     current_tone = 0
     current_office = "Front Matter"
@@ -1216,22 +1866,23 @@ def generate_propers_corpus(
     leaf_stanza_cursor: Dict[int, int] = {}
 
     for c_idx, cohort_text in enumerate(all_stitched_cohorts, start=1):
-        # Estimate base leaf for cohort if no milestone yet
         current_leaf = (c_idx - 1) * 10 + 1
         paragraphs = [p.strip() for p in cohort_text.split("\n\n") if p.strip()]
 
         for para in paragraphs:
-            # Update active_locus if paragraph contains a milestone [f. XvA] or [p12LA]
-            m_loc = re.search(r"\[(f\.\s*([0-9]+)[rv][AB]|p(\d+)[LR][AB])\]", para)
+            m_loc = re.search(r"\[(f\.\s*([0-9]+[rv])[AB]?|p(\d+)[LR][AB]?)\]", para)
             if m_loc:
                 active_locus = m_loc.group(1)
                 if m_loc.group(3):
                     current_leaf = int(m_loc.group(3))
                 elif m_loc.group(2):
-                    # Approximate leaf from folio number (folio + 6)
-                    current_leaf = min(267, int(m_loc.group(2)) + 6)
+                    f_key = m_loc.group(2).strip().lower()
+                    if f_key in folio_to_leaf_map:
+                        current_leaf = folio_to_leaf_map[f_key]
+                    else:
+                        f_num_only = int(re.sub(r"[^0-9]", "", f_key))
+                        current_leaf = min(total_pages, f_num_only + folio_offset)
 
-            # Check Headings to update Tone / Office / Section / Ode
             if para.startswith("#"):
                 hdr_clean = para.lstrip("#").strip()
                 m_t = re.search(r"\bTONE\s+(\d+)\b", hdr_clean, re.IGNORECASE)
@@ -1261,12 +1912,10 @@ def generate_propers_corpus(
             if para == "---":
                 continue
 
-            # Strip inline milestones for clean text inspection
             clean_para = re.sub(r"\[(?:f\.\s*[^\]]+|p\d+[LR][AB])\]\s*", "", para).strip()
             if not clean_para:
                 continue
 
-            # Check if this paragraph is a Podoben declaration
             if clean_para.startswith("*Podoben:"):
                 m_pod_eng = re.search(r'\*Podoben:\s*"([^"]+)"', clean_para)
                 if m_pod_eng:
@@ -1277,13 +1926,11 @@ def generate_propers_corpus(
                             break
                 continue
 
-            # Skip pure short rubrics or standalone Verse lines without hymn body
             if clean_para.startswith("*Verse:") and len(clean_para) < 160:
                 continue
             if len(clean_para) < 40 and clean_para.startswith("*") and clean_para.endswith("*"):
                 continue
 
-            # Determine hymn_type
             hymn_type = "Sticheron"
             if current_ode is not None:
                 if "Heirmos:" in clean_para:
@@ -1295,13 +1942,12 @@ def generate_propers_corpus(
             elif "Stavrotheotokion" in clean_para:
                 hymn_type = "Stavrotheotokion"
             elif "Sessional" in current_section or "Kathisma" in current_section:
-                hymn_type = "Sessional Hymn (Sedalen)"
+                hymn_type = "Sessional Hymn"
             elif "Beatitudes" in current_section:
                 hymn_type = "Beatitudes Troparion"
             elif "Kontakion" in clean_para or "KONTAKION" in current_section.upper():
                 hymn_type = "Kontakion / Ikos"
 
-            # Pair with leaf-local Slavonic stanza
             s_list = slavonic_stanzas_by_leaf.get(current_leaf, [])
             cur_idx = leaf_stanza_cursor.get(current_leaf, 0)
             slav_text = ""
@@ -1336,8 +1982,8 @@ def generate_propers_corpus(
         "corpus_schema": "2.0.0",
         "corpus_type": "OCTOECHOS_PROPERS_BILINGUAL_COMPLETE",
         "source_provenance": {
-            "source_dir": f"Liturgical Monuments/Monument 9 - {monument_id.replace('_', ' ').title()}/Source Text",
-            "cohorts_dir": f"Liturgical Monuments/Monument 9 - {monument_id.replace('_', ' ').title()}/Cohorts",
+            "source_dir": f"{ws_rel}/Source Text",
+            "cohorts_dir": f"{ws_rel}/Cohorts",
             "cohorts_count": len(all_stitched_cohorts),
             "total_stanzas_extracted": len(items)
         },
@@ -1352,7 +1998,8 @@ if __name__ == "__main__":
     parser.add_argument("--monument", default="1630_lviv_octoechos", help="Monument ID")
     args = parser.parse_args()
 
-    ws_dir = PROJECT_ROOT / "Liturgical Monuments" / f"Monument 9 - {args.monument.replace('_', ' ').title()}"
+    mon_meta = load_monument_metadata(args.monument)
+    ws_dir = PROJECT_ROOT / mon_meta["workspace_dir"]
     cohorts_dir = ws_dir / "Cohorts"
     source_dir = ws_dir / "Source Text"
     final_md_dir = ws_dir / "Final MD"

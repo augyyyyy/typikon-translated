@@ -70,7 +70,7 @@ Beholding the Lamb and Shepherd hung dead upon the Wood, the undefiled Ewe-lamb 
 ## ON WEDNESDAY: CANON TO THE PRECIOUS AND LIFE-CREATING CROSS
 *Composition of Saint Joseph.*[^34]
 *Ode 1, Tone 1. Heirmos:*
-*Having delivered Israel from bitter servitude, and having passed through the impassable as on dry land: seeing the enemy drowned, they sing a song of joy unto God, Who worketh wonders with a high arm, for He is glorified!*
+*Having delivered Israel from bitter servitude, and having passed through the impassable as on dry land: seeing the enemy drowned, they sing a song of joy unto God, Who works wonders with a high arm, for He is glorified!*
 Being lifted up upon the Cross, O Christ, Thou didst raise up fallen man with Thyself, and didst cast down all the power of the enemy, O Word; therefore we praise Thy passions, Who didst suffer and...
 
 ##### Column B
@@ -80,7 +80,7 @@ Thou art the Lord of glory, Who crownest man with glory, and wast crowned with e
 The most sacred assembly of the holy ones, having lawfully contested, washed their body in the streams of all their holy blood, and utterly destroyed the defiled sacrifices offered unto demons, O fathers!
 The clouds of tortures did not defile your patient burning, O martyrs; therefore ye shone forth more brightly than the rays of the sun, illuminating for me the dawn of salvation!
 *Theotokion:*
-The all-pure womb of her Son was consumed as with a sword, as she beheld Him pierced with a spear: which weapon forbiddeth entry into Paradise, denying the faithful divine entrance!
+The all-pure womb of her Son was consumed as with a sword, as she beheld Him pierced with a spear: which weapon forbids entry into Paradise, denying the faithful divine entrance!
 
 ### Another Canon to the Most Holy Theotokos
 *Ode 1, Tone 1. Heirmos:*
@@ -93,7 +93,7 @@ Appear unto me, O pure and much-hymned one, in the day of judgment, delivering m
 ##### Column A
 ...and fierce torment, who flee beneath thy protection, O all-pure Sovereign Lady!
 *Theotokion:*
-Darkness of sins holdeth me fast, and I am fallen, O all-pure one; raise me up, giving me a shower of tears, whereby I may wash away my defiled deeds: for thee alone do we have as intercessor, O Mother of God!
+Darkness of sins holds me fast, and I am fallen, O all-pure one; raise me up, giving me a shower of tears, whereby I may wash away my defiled deeds: for thee alone do we have as intercessor, O Mother of God!
 *Ode 3. Heirmos:*
 *Let not the mortal boast in his wisdom or riches, but in the faith of the Lord, orthodoxly crying out unto Christ God, and singing ever: Upon the rock of Thy commandments establish me, O Master!*
 The lawless dug through Thy hands and feet, O my Jesus, Who by Thy palm ineffably fashionedst man out of dust, O Christ God, and by Thy suffering didst free all from corruption!
@@ -136,7 +136,7 @@ I am fallen into death and lie in the grave of despondency, O all-pure one, boun
 *Thy never-waning Light...*
 
 ##### Column B
-...shine forth, O Christ, in the hearts of those who faithfully sing unto Thee, granting us Thy peace which surpasseth all understanding: that in the night of ignorance, running unto the day of Thy commandments, we may glorify Thee, O Lover of mankind!
+...shine forth, O Christ, in the hearts of those who faithfully sing unto Thee, granting us Thy peace which surpasses all understanding: that in the night of ignorance, running unto the day of Thy commandments, we may glorify Thee, O Lover of mankind!
 The sun, O Savior, stripped itself of light, seeing Thee hanging naked on the Tree, Who didst suspend the earth upon the waters; and the rocks were split asunder with fear, perceiving Thee lifted up, and the foundations of the earth were shaken!
 Raised upon the Tree and nailed with nails, Thou didst stain Thy fingers with blood, O Long-suffering One, and being pierced in the ribs with a spear, Thou didst heal the wound of Adam, which he suffered through listening to the rib and disobeying Thee Who fashionedst him!
 *For the Martyrs:*
@@ -151,7 +151,7 @@ The undefiled and immaculate one, seeing Christ willingly raised upon the Tree, 
 ...Torrents of my many transgressions have fallen upon me, O all-pure one, and have cast down the temple of my soul; but do thou who art the Guide of righteousness, O Mother of God, raise me up, thy servant!
 I am stuck fast in the darkness of passions, a wretch, and drowned by the tempest of many sins; stretch forth thy hand, O Sovereign Lady, raise me up, and guide me unto the harbor of repentance!
 *Theotokion:*
-Grant cleansing of the defilements of my soul, and heal the diseases of my flesh, I pray; and deliver me by thy prayers from the fierce despondency that holdeth me fast!
+Grant cleansing of the defilements of my soul, and heal the diseases of my flesh, I pray; and deliver me by thy prayers from the fierce despondency that holds me fast!
 *Ode 6. Heirmos:*
 *I am wholly held fast by boundless passions, and have been swallowed up by the fierce whale; but raise me up from corruption, O Christ, as Thou didst Jonah of old, and by Thy passion grant me dispassion, that with the voice of praise and the spirit of truth I may sing unto Thee!*
 When Moses raised up his hands on the hill, he prefigured Thy passion, Who didst stretch forth Thy palms upon the Tree and destroy the destructive dominion of the crafty one; therefore knowing Thee as Redeemer and Savior, we sing unto Thee, O Lover of mankind!
@@ -163,10 +163,10 @@ Honorable in the eyes of the Lord is now your death, O holy ones, having honored
 ...and put to shame the dishonorable Beliar with all his applications of tortures, who sought to cast you down by his wiles!
 With all your soul attaining unto all things, O all-wise ones, through manifold tortures ye found all assistance helping you, Who clothed Himself in all humanity; therefore being torn on the judgments and receiving the fire, ye rejoice!
 *Theotokion:*
-Beholding Thy crucifixion, O all-pure one, she cried: "O Son, what is this strange vision that is seen? He Who healeth those sick in passions, how dost Thou, O Christ, endure a novel suffering? What have Thine enemies rendered unto Thee, the Benefactor, in return for the grace they received?"
+Beholding Thy crucifixion, O all-pure one, she cried: "O Son, what is this strange vision that is seen? He Who heals those sick in passions, how dost Thou, O Christ, endure a novel suffering? What have Thine enemies rendered unto Thee, the Benefactor, in return for the grace they received?"
 *Another Canon. Heirmos:*
 *The deepest abyss hath surrounded us...*
-Tear up the handwriting of my transgressions with the spear, O all-pure one, of Him Who was born of thy seedless womb; account him who fleeth unto thy divine protection worthy to be written in the book of the chosen!
+Tear up the handwriting of my transgressions with the spear, O all-pure one, of Him Who was born of thy seedless womb; account him who flees unto thy divine protection worthy to be written in the book of the chosen!
 Heal Thy servants, O Christ, by the prayers of her who bore Thee, and send down forgiveness of sins, as Thou alone art good: for Thou art the Savior and Redeemer of all who hope in Thee!
 *Theotokion:*
 Slain by passions am I, O pure Virgin: do thou who didst bear the Giver of life now quicken me by thy prayers, and show me to be victorious over the evil enemy: for thee alone do we have as our helper before God!
@@ -193,7 +193,7 @@ Of thy pure blood, O Virgin, the pre-eternal God willed to become a new Adam, Wh
 ##### Column B
 ...now pray to renew me who am grown old, crying: Blessed art Thou, O God of our fathers, and exceeding praised!
 *Theotokion:*
-The enemy cometh by the way of wrath, wishing unsparingly to snatch away my humble soul: dissolve his counsels, O all-pure one, and have mercy on me who sing: Blessed art Thou, O God of our fathers, and exceeding praised!
+The enemy comes by the way of wrath, wishing unsparingly to snatch away my humble soul: dissolve his counsels, O all-pure one, and have mercy on me who sing: Blessed art Thou, O God of our fathers, and exceeding praised!
 *Ode 8. Heirmos:*
 *The furnace moist with dew prefigured of old a wonder beyond nature; for the fire burned not the young children, revealing the seedless, divine birthgiving of Christ from the Virgin: therefore singing we praise: Bless the Lord, all ye works of the Lord, and exalt Him supremely unto all ages!*
 He Who by His nod stretched out the heaven was crucified upon the Cross of His own will, and was nailed with nails, wishing to abolish the strange fall of the first-fashioned Adam; therefore singing we praise: Bless the Lord, all ye works of the Lord, and exalt Him supremely unto all ages!
@@ -207,7 +207,7 @@ All the holy passion-bearers wove for themselves a sacred garment, patiently suf
 *For the Martyrs:*
 Mercilessly scraped with claws, the sufferers endured, and being torn apart without mercy on the racks, and partaking greatly of wounds, they put on incorruption and showed themselves as pillars of courage unto the faithful, crying: Bless Christ, all ye works, and exalt Him supremely unto all ages!
 *Stavrotheotokion:*
-The foolish assembly provoked the Child, thinking to remove Him from the earth; I became childless and sorrowful in maternal heart, cried the unwedded one of old, seeing Thee lifted up upon the Cross; but the creation glorifieth Thee, the Redeemer of all, Jesus, unto all ages!
+The foolish assembly provoked the Child, thinking to remove Him from the earth; I became childless and sorrowful in maternal heart, cried the unwedded one of old, seeing Thee lifted up upon the Cross; but the creation glorifies Thee, the Redeemer of all, Jesus, unto all ages!
 *Another Canon. Heirmos:*
 *In the furnace, the youths...*
 Enlighten the eyes of my heart, O pure gate of Light, driving away the clouds of passions and the deep darkness, that I may sing: Bless the Lord, all ye works of the Lord, and exalt Him supremely unto all ages!
@@ -221,10 +221,10 @@ Having ineffably given birth to Christ, the Cause of salvation, pray earnestly f
 When the prudent Thief of old saw Thee hung upon the Tree, O Savior, Who didst suspend the earth upon the boundless waters, he faithfully cried unto Thee: "Remember me!" With him we piously glorify Thy voluntary sufferings!
 Crucified, Thou didst shake the foundations of the earth; pierced with a spear, Thou didst pour forth drops of immortality, blood and water, wherewith Thou didst cleanse humanity from passions, O Jesus; therefore singing we magnify Thee!
 *For the Martyrs:*
-The holy ones rejoiced in tortures, thinking within themselves as if at a noble feast, crying with voices: "Behold, Christ hath opened the contest, and now bestoweth crowns upon those whom He loved!"
+The holy ones rejoiced in tortures, thinking within themselves as if at a noble feast, crying with voices: "Behold, Christ hath opened the contest, and now bestows crowns upon those whom He loved!"
 The unique festival of the faithful is illuminated in every way, honoring the sufferings of all the invincible martyrs and their countless sicknesses: for whose sake they were accounted worthy of painless life, and delight, and everlasting enjoyment!
 *Stavrotheotokion:*
-Thou didst ineffably give birth to the Word, the Lover of mankind; and seeing Him suffering willingly, the Maiden cried: "What is this? The impassible God accepteth suffering, that He may deliver from passions those who worship Him in faith!"
+Thou didst ineffably give birth to the Word, the Lover of mankind; and seeing Him suffering willingly, the Maiden cried: "What is this? The impassible God accepts suffering, that He may deliver from passions those who worship Him in faith!"
 *Another Canon. Heirmos:*
 *The image of thy pure birthgiving...*
 Take away the heavy burden of my sins, O all-hymned Mother of God, and grant me to bear the light yoke of thy Son and God; and renewed, may I attain unto the heavenly...
@@ -233,7 +233,7 @@ Take away the heavy burden of my sins, O all-hymned Mother of God, and grant me 
 
 #### [Left Page — Folio 25v]
 ##### Column A
-...perfection that leadeth upward!
+...perfection that leads upward!
 I tremble as I reflect, O all-immaculate one, upon the dread day of the coming of Christ; for all my life hath ended in sins, and my soul is filled with passions: but have compassion on me, and deliver me then from all condemnation!
 *Theotokion:*
 Receive, O all-pure Sovereign Lady, the supplication of thine unprofitable servant, and turn the confusion of my soul and body into deep tranquility, that being saved, I may magnify thee!
@@ -257,7 +257,7 @@ Thou didst endure a reproachful passion, O Christ, and didst take away our great
 Thou didst cover the nakedness of Adam, O Christ, when Thou wast stripped in the flesh; and being raised upon the Cross, Thou didst raise us up from the depth of evils; therefore we glorify Thy holy descent, O Word!
 By your holy sufferings, O all-lauded martyrs, having wounded the multitude of demons, ye heal all infirmities, wounds, and passions by grace truly evermore!
 *Glory... Triadikon:*
-The Trinity enlighteneth all who purely honor It and know Its undivided dominion; therefore we cry aloud: Save those who sing unto Thee in love, O Trinity!
+The Trinity enlightens all who purely honor It and know Its undivided dominion; therefore we cry aloud: Save those who sing unto Thee in love, O Trinity!
 *Both now... Theotokion:*
 Standing by the Cross and beholding Christ nailed in the flesh, the all-immaculate one exclaimed and cried: "Whither hath Thy merciful beauty set, O truly ineffable One?"[^36]
 
@@ -299,7 +299,7 @@ All-wise fishers of the universe, having received from God the power of prayer, 
 *Glory...*
 Let the faithful honor in hymns the divinely-sounding trumpets of Christ, the all-wise Apostles, who stirred up the Egyptian sea like horses, and drew men who were without head unto the divine harbor of salvation by the grace of the Spirit!
 *Both now... Theotokion:*
-Having acquired an insurmountable wall, the Theotokos Mary, come, let us the faithful bow down and fall before her: for she hath boldness to pray unto Him Who was born of her, and she saveth our souls from wrath and death!
+Having acquired an insurmountable wall, the Theotokos Mary, come, let us the faithful bow down and fall before her: for she hath boldness to pray unto Him Who was born of her, and she saves our souls from wrath and death!
 *After the 2nd Kathisma, Sessional Hymn, Tone 1:*
 With the spiritual net of rhetorical windings, the simple fishermen having cast the net of the Cross: enlightened the nations piously to glorify Thee, the true God; therefore we cry unto Thee Who didst strengthen them: Glory to the Father, and to the Son,...
 
@@ -440,7 +440,7 @@ O most wretched soul, sigh and cry unto the Lord: "I have sinned more than...
 With the Angels, O Mother of God, with the Apostles and martyrs and with the Prophets, implore Christ to save those who cry aloud: Bless the Lord, all ye works of the Lord; sing praise and exalt Him supremely unto all ages!
 *Another Canon [to Saint Nicholas]. Heirmos:*
 *Him of Whom the Angels stand in awe...*
-Standing upon the mountain of divine virtues, known unto the ends of the earth by high miracles, O Nicholas, revealed by signs: therefore every nation honoreth thee unto all ages!
+Standing upon the mountain of divine virtues, known unto the ends of the earth by high miracles, O Nicholas, revealed by signs: therefore every nation honors thee unto all ages!
 In the visions of divine sweetness, O venerable one, thou didst hate the bitterness of passions and pleasures; deliver me from them, I pray Christ, to quell afflictions!
 As an unshakable pillar and confirmation of the faithful: ever strengthen me who am shaken by worldly evils and demonic blastings, O all-blessed Nicholas, by thy prayers!
 *Theotokion:*
@@ -460,7 +460,7 @@ Thou alone didst deify human nature, having given birth to the incarnate Word; W
 *The light-bearing cloud...*
 As a light of Christ, as a light-radiant star, as a worker of miracles, as a wellspring of healings, as a speedy helper in sacred trials, as a most fervent deliverer unto those who call upon thee in afflictions, O father: we praise thee with sacred hymns!
 Thee, the great shepherd and imitator of the Chief Shepherd Christ, we earnestly pray: protect thy servants from sacred misfortunes, O Nicholas, ever delivering them from all worldly assaults!
-Already the end draweth near; why art thou slothful, O my soul? Why art thou not zealous to live in a manner pleasing unto God? Strive, arise at last, and cry: "O Lover of mankind, have compassion on me by the prayers of Nicholas, steering my life, for Thou art good!"
+Already the end draws near; why art thou slothful, O my soul? Why art thou not zealous to live in a manner pleasing unto God? Strive, arise at last, and cry: "O Lover of mankind, have compassion on me by the prayers of Nicholas, steering my life, for Thou art good!"
 *Theotokion:*
 Thou who didst bear the divine Light,...
 
@@ -496,7 +496,7 @@ We bless thee, O all-pure one, as thou didst prophesy; for thou didst bear God i
 
 # ON THURSDAY EVENING, AT "LORD, I HAVE CRIED"
 *Stichera of the Cross, Tone 1. Model: "O all-lauded martyrs":*
-Thou didst stretch forth Thine all-pure hands on the Cross, O Christ, calling those who were far off from Thee and bringing them near unto Thee. Therefore I pray Thee: gather me who am captive unto passions, and grant me repentance that cleanseth every defilement of passion!
+Thou didst stretch forth Thine all-pure hands on the Cross, O Christ, calling those who were far off from Thee and bringing them near unto Thee. Therefore I pray Thee: gather me who am captive unto passions, and grant me repentance that cleanses every defilement of passion!
 Thou didst lift up Thine all-pure palms upon the Tree, O Christ, and didst stain Thy fingers with blood, wishing to deliver the work of Thy divine hands, O Lover of mankind, Adam who was held by transgression in the kingdom of death; whom Thou didst raise up by Thine all-powerful authority!
 Thou didst deign to suffer for our sake, O Savior, Who art unchangeable in nature and impassible...
 
@@ -510,7 +510,7 @@ The undefiled Virgin, seeing on the Tree of old Him Whom she bore of her seedles
 ##### Column A
 ...the Cross: "How do I not understand for what things the ungrateful people have rewarded Thee with these? But in that Thou art come to save Thy creation, Thou endurest all things, O long-suffering and compassionate One!"[^39]
 *Glory... Both now... Stavrotheotokion:*
-Heal my soul grievously ailing with wicked passions, O all-hymned one, who didst bear Christ, the Physician and Savior of all, Who healeth every infirmity, and delivereth from the malice of the devil and from death him who is wounded!
+Heal my soul grievously ailing with wicked passions, O all-hymned one, who didst bear Christ, the Physician and Savior of all, Who heals every infirmity, and delivers from the malice of the devil and from death him who is wounded!
 
 ## AT THE APOSTICHA, STICHERA OF THE CROSS
 *Tone 1:*
@@ -581,7 +581,7 @@ Thou didst stretch forth Thy palms upon the Cross, and didst stain Thy divine fi
 Thy side was pierced with a spear, correcting the slipping of the rib; He was raised upon the Wood Who received the fruit of the tree of old, and opened Paradise unto the prudent Thief!
 *For the Martyrs:*
 Confirmations of the Church, foremost pillars of piety, destroyers of the enemy, martyrs of the Lord: with pure thought let us bless you in hymnody!
-As divine branches of the spiritual vineyard, O martyrs: the clusters brought forth by your endurance pour out wine that cheereth the hearts of the faithful!
+As divine branches of the spiritual vineyard, O martyrs: the clusters brought forth by your endurance pour out wine that cheers the hearts of the faithful!
 *Stavrotheotokion:*
 Blessed is the fruit of thy womb, O all-hymned Virgin: Who by the Wood of His Cross made those who were corrupted through the fruit to become partakers of incorruption through divine grace!
 *Another Canon [to the Theotokos]. Heirmos: The same.*

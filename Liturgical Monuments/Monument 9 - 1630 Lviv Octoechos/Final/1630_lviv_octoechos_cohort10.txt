@@ -19,14 +19,14 @@ Unto me, who more than all men have provoked Thee to wrath with an unreasoning m
 
 ##### Column B
 In slothfulness all my life hath been spent; by thy prayer, O father Nicholas, raise me up unto repentance, taking pity on my defilement. Theotokion:
-As the singular joy of the Angels, O Lady full of divine grace, fill my soul with joy, which mourneth and is submerged in indolence.
+As the singular joy of the Angels, O Lady full of divine grace, fill my soul with joy, which mourns and is submerged in indolence.
 
 Ode 6. Heirmos.
 The lowest depth of sins hath surrounded me:
 O apostolic choir, thou unfailing abyss of spiritual wisdom, dry up the stream of the worldly wisdom of the nations, and water the assemblies of the pious.
 Sigh and weep, O my humble soul, and cry aloud unto the Lord, saying: I have sinned against Thee; cleanse me, O Tender-hearted One, by the intercessions of Thine all-wise Apostles.
 The torrents of passions have overflowed and submerged the tabernacle of my soul; O Apostles, being spiritual rivers, renew me who am crushed, restoring me unto life. Theotokion:
-The assembly of the Apostles, O Christ, together with Her that bare Thee, entreateth Thee: send down cleansing unto us, and peace unto Thy servants, as Thou art the Lover of mankind and God Who art easily reconciled.
+The assembly of the Apostles, O Christ, together with Her that bare Thee, entreats Thee: send down cleansing unto us, and peace unto Thy servants, as Thou art the Lover of mankind and God Who art easily reconciled.
 
 Another [Canon]. Heirmos.
 The depth of passions hath risen against me, and the tempest of contrary winds; but preventing me, save me, O Savior, and deliver me from corruption, as Thou didst save the Prophet from the beast.
@@ -76,7 +76,7 @@ My strength and my song is He Who was born of Thee, O All-immaculate One; entrea
 to perform His saving commandments.
 
 Ode 9. Heirmos.
-In the shadow and letter of the Law, we the faithful perceive a figure: every male that openeth the womb is holy unto God; therefore the Firstborn Word of the unoriginate Father, the Son Who is the firstborn of a Mother that knew not man, do we magnify.[^128]
+In the shadow and letter of the Law, we the faithful perceive a figure: every male that opens the womb is holy unto God; therefore the Firstborn Word of the unoriginate Father, the Son Who is the firstborn of a Mother that knew not man, do we magnify.[^128]
 O Word of the unoriginate Father, Who by the words of Thy disciples hast established the ends of the earth: through their supplications show mercy also unto me, who have slipped into irrational passions and have fallen into demonic delusions.
 O my soul, enslaved to the impulses of passions, offer supplications unto Him Who suffered for our sake, that He may deliver thee from tribulations, when the glorious and sacred disciples pray, having in their flesh imitated His sufferings.
 O disciples of Christ, when ye shall sit upon thrones to judge those guilty before the tribunal, keep my soul uncondemned, which is defiled by improper deeds, as my good advocates and intercessors for the world. Theotokion:
@@ -141,7 +141,7 @@ At the Aposticha, Stichera
 of the Cross, Tone 3.
 We venerate Thy Cross, O Christ, the precious guardian of the world, the salvation of us sinners, the great cleansing, the victory of the Church, and the praise of the whole universe.
 Moses upon the mountain, lifting up his hands toward the height in the figure of the Cross, overcame Amalek; and Thou, O Savior, stretching out Thy palms upon the precious Cross, embracing me, hast saved me from the bondage of the enemy, and hast given me the sign of life, to flee from the bow of those who oppose me; therefore, O Word, we venerate Thy precious Cross.[^132]
-Great is the power of Thy Cross, O Lord: for it was planted in one place, and worketh throughout the world, and made Apostles out of fishermen, and martyrs out of the nations, that they may pray for our souls.
+Great is the power of Thy Cross, O Lord: for it was planted in one place, and works throughout the world, and made Apostles out of fishermen, and martyrs out of the nations, that they may pray for our souls.
 Glory... Both now... Staurotheotokion:
 Beholding Thee, O my Christ, the All-good One, lifted up upon the tree, the All-immaculate One cried aloud, weeping maternally: O my most-beloved Son, how hath the lawless assembly lifted Thee up upon the Cross?
 
@@ -231,7 +231,7 @@ Having received the divine coal, as with tongs, which was in no wise burning, bu
 
 Another [Canon]. Heirmos.
 Thou hast placed toward us:
-All my hope have I placed upon Thee, O Mother of God; falling down before Thee, my soul prayeth: deliver me from deadly diseases, raising me up unto the life of salvation, O Thou who gavest birth unto Life.
+All my hope have I placed upon Thee, O Mother of God; falling down before Thee, my soul prays: deliver me from deadly diseases, raising me up unto the life of salvation, O Thou who gavest birth unto Life.
 O Pure Lady, mighty helper of the world, cast me not away from Thy presence, nor send me away ashamed from Thy countenance, nor show me as a mockery unto the ages.
 Entirely naked have I become, wretch that I am, of divine deeds, and I have been wounded by the sharp arrows of pleasures, and covered with sores; therefore I cry unto Thee, O Lady: save me, O Most-pure One.
 The waters of improper deeds have come, O Pure One, unto my wretched soul, and holding it fast with earthly thoughts,
@@ -269,7 +269,7 @@ The human mind cannot comprehend, O Maiden, the mystery of Thy birth-giving whic
 
 Another [Canon]. Heirmos.
 The lowest depth of sins:
-Grant forgiveness of transgressions, as Thou art good, unto Thy servant, O Most-pure One, who with faith asketh for Thy protection; and snatch me from the future judgment.
+Grant forgiveness of transgressions, as Thou art good, unto Thy servant, O Most-pure One, who with faith asks for Thy protection; and snatch me from the future judgment.
 O Good One and Mother of the Deliverer, stand Thou by me at the hour of my departure, when I am examined by the spirits of the air concerning what I have committed with an unreasoning mind.
 Wretched have I become within myself, ever encompassed with uncleannesses; and now beholding death standing before my feet, I cry aloud unto Thee, O Mother of God: help me!
 The waves of passionate thoughts ever agitate me, O Most-pure One, and the crafty spirits barely keep from drowning me; but establish me upon the rock of passionlessness.
@@ -310,10 +310,10 @@ the cloud, the royal palace, and the fiery throne do all we the faithful call Th
 
 Another [Canon]. Heirmos.
 Unto Him Who descended into the flame unto the Hebrew children by divine power, and appeared unto them: all ye men, worship the Lord; ye priests, sing and exalt Him unto the ages.
-The bitterness of pleasures, having passed through all my bodily senses, immeasurably defileth my soul and draggeth it into death; O Lady of the world, be Thou my salvation.
+The bitterness of pleasures, having passed through all my bodily senses, immeasurably defiles my soul and drags it into death; O Lady of the world, be Thou my salvation.
 I have committed both soul and body and heart unto Thee, for I have no other hope save Thee, O Lady, through whom I shall obtain mercy; therefore grant me Thy rich grace.
 The serpent crawled near me with venom, and through carnal pleasure cruelly killed my wretched soul; but revive it with contrary remedies, O Pure One, through Thy prayers.
-The cruel night of transgressions covereth me, O Pure Lady, for I have no lamp of good deeds enlightening my soul; therefore I have been deprived of the unwaning light on high.
+The cruel night of transgressions covers me, O Pure Lady, for I have no lamp of good deeds enlightening my soul; therefore I have been deprived of the unwaning light on high.
 
 Ode 9. Heirmos.
 In the shadow and letter of the Law:
@@ -369,7 +369,7 @@ Ye imitated the immaterial and bodiless ones, O God-bearing ascetics, having sho
 
 Other Stichera of the Martyrs.
 Tone and Model the same.
-Great is the power of Thy Cross, O Lord: for the Cross was planted for us, and worketh in the world, and made Apostles out of fishermen, and martyrs out of the nations, that they may pray for our souls.
+Great is the power of Thy Cross, O Lord: for the Cross was planted for us, and works in the world, and made Apostles out of fishermen, and martyrs out of the nations, that they may pray for our souls.
 Great is the power of Thy martyrs, O Christ: for lying in the tombs, they drive away evil spirits, and have abolished the power of the enemy, through faith in the Trinity, having contended for piety.
 
 ##### Column B
@@ -382,8 +382,8 @@ Tone 3. Of the Martyrs.
 The martyrs of the Lord, established in faith and strengthened in hope, united in soul through the love of Thy Cross, destroyed the tyranny of the enemy; and having obtained crowns, they pray with the Bodiless Hosts for our souls.
 
 For the Departed.
-All human existence, howsoever much it may be, passeth away after death: riches remain not, nor doth glory descend; for when death cometh, it destroyeth all these things; therefore unto Christ the Immortal let us cry: Unto those translated from among us, grant rest, where the dwelling of all who rejoice is found, O Consolation![^140]
-O mortals, why do we trouble ourselves in vain? The path on which we run is brief; life is smoke, vapor, earth, and ash; for a little while it appeareth, and quickly perisheth; therefore
+All human existence, howsoever much it may be, passes away after death: riches remain not, nor doth glory descend; for when death comes, it destroys all these things; therefore unto Christ the Immortal let us cry: Unto those translated from among us, grant rest, where the dwelling of all who rejoice is found, O Consolation![^140]
+O mortals, why do we trouble ourselves in vain? The path on which we run is brief; life is smoke, vapor, earth, and ash; for a little while it appears, and quickly perishes; therefore
 
 === LEAF p98 ===
 
@@ -485,7 +485,7 @@ With Thine unwaning light, O Christ, illumine, O God, my humble soul, and guide 
 Your wounds and bruises appeared unto the enemy as incurable wounds; and now do ye, O sufferers of the Lord, heal the wounds of all the faithful.
 Let us hymn the multitude of the venerable, and call blessed the hierarchs of Christ, and honor His Prophets, who ever pray for us.
 Loving God Who became incarnate for our sake, the glorious women suffered with an upright disposition, and having contested, they now abide in the heavens. For the Departed:
-In the delight of Paradise, in the land of the living, O Christ, where Thy light shineth: settle Thy faithful servants whom Thou hast translated from the earth.
+In the delight of Paradise, in the land of the living, O Christ, where Thy light shines: settle Thy faithful servants whom Thou hast translated from the earth.
 The Father's Word became incarnate from Thee, O Most-pure One, and showed Thee forth as higher than the Angels, surpassing all creatures; therefore we hymn Thee.
 
 Another [Canon]. Heirmos: Rising early at the dawn unto Thee:
@@ -495,7 +495,7 @@ Direct, O Word, the souls of the departed unto the eternal place of Thy delight,
 Thee, O Virgin, who beyond word didst conceive in Thy womb the uncontainable Word,
 
 ##### Column B
-Who giveth life unto the dead, do we worthily call blessed.
+Who gives life unto the dead, do we worthily call blessed.
 
 Ode 6. Heirmos.
 The depth of passions hath risen against me, and the tempest of contrary winds; but preventing me, save me, O Savior, and deliver me from corruption, as Thou didst save the Prophet from the beast.
@@ -514,7 +514,7 @@ Turn the weeping of those who have fallen asleep in faith into joy, O Christ, th
 #### [Left Page — Folio 99v]
 ##### Column A
 with divinely-befitting gladness, O Christ, as the blessed God Who didst strengthen them, guiding and directing them unto Thy light.
-By the multitude of Thy compassions, O God, give rest unto the departed in the bosom of the Patriarchs, where the radiant light of Thy countenance shineth, O Christ, overlooking all their transgressions.
+By the multitude of Thy compassions, O God, give rest unto the departed in the bosom of the Patriarchs, where the radiant light of Thy countenance shines, O Christ, overlooking all their transgressions.
 Pour forth, O Christ, upon those who have departed from among us and been delivered from the cruelties of this life, the marvelous mercy of Thy love for mankind, and satisfy them with Thy joy and meekness. Theotokion:
 From deadness, corruption, and death have we been delivered through Thy glorious birth-giving, O Mother of God; for Thou, O Pure One, gavest birth unto the Fountain of incorruption, and hast enlightened the whole world with Thy light.
 

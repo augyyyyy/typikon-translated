@@ -3,7 +3,7 @@
 #### [Left Page — Folio 4v (Manuscript replacement: Sunday Matins)]
 ##### Column A
 *Ode 9: Heirmos:*
-*The unburnt bush showed forth an image of thy pure childbearing; and now we pray thee to quench the furnace of temptations that rageth against us, that we may unceasingly magnify thee, O Mother of God.*
+*The unburnt bush showed forth an image of thy pure childbearing; and now we pray thee to quench the furnace of temptations that rages against us, that we may unceasingly magnify thee, O Mother of God.*
 *At the Praises [Lauds]: Resurrectional Stichera to 4, Tone 1:*
 We praise Thy saving Passion, O Christ, and we glorify Thy Resurrection.
 Thou Who didst endure crucifixion, and abolish death, and arise from the dead: bring peace unto our life, O Lord, as the only almighty One.
@@ -70,7 +70,7 @@ Having become the pure dwelling-place of God, O pure one: pray together with the
 *Verse: Ye that stand in the house of the Lord, in the courts of the house of our God [Psalm 133:2 LXX].*
 *Then: Vouchsafe, O Lord, to keep us this evening without sin.*
 *At the Aposticha, Penitential Stichera, Tone 1:*
-As a great abyss are my transgressions, O Savior, and grievously am I sunken in mine iniquities; stretch forth Thy hand unto me and save me, as the God Who loveth mankind, and have mercy on me.
+As a great abyss are my transgressions, O Savior, and grievously am I sunken in mine iniquities; stretch forth Thy hand unto me and save me, as the God Who loves mankind, and have mercy on me.
 *Verse: Unto Thee have I lifted up mine eyes, unto Thee that dwellest in heaven [Psalm 122:1 LXX].*
 [Ensnared] by evil thoughts and base deeds, O Savior, grant me turning unto Thee: save me and have mercy on me.
 *Verse: Have mercy on us, O Lord, have mercy on us [Psalm 122:3 LXX].*
@@ -84,7 +84,7 @@ Joy of the heavenly ranks, and mighty helper of men on earth: O all-pure Virgin,
 In iniquities was I conceived, prodigal that I am; I dare not look up unto the height of heaven, but taking courage in Thy love for mankind, I cry: O God, cleanse me, a sinner, and save me!
 If the righteous man scarcely be saved, where shall I, a sinner, appear, who have not borne the burden and heat of the day? But with the laborers of the eleventh hour, number me, O God, and have mercy on me.
 *Glory... Both now... Theotokion:*
-Beholding the wonder of wonders in thee, O thou full of grace, creation rejoiceth; for thou didst conceive without seed and ineffably give birth unto Him Whom the ranks of Angels cannot behold: Him do thou implore, O Mother of God, that our souls may be saved.
+Beholding the wonder of wonders in thee, O thou full of grace, creation rejoices; for thou didst conceive without seed and ineffably give birth unto Him Whom the ranks of Angels cannot behold: Him do thou implore, O Mother of God, that our souls may be saved.
 *After the 2nd Kathisma, Penitential Sessional Hymns, Tone 1:*
 Haste Thou to open Thy Fatherly embrace unto me: prodigally have I squandered my life, looking upon the inexhaustible wealth of Thy bounties, O Savior; despise not now my impoverished heart. For unto Thee, O Lord, in compunction do I cry: Father, I have sinned against heaven and before Thee!
 Having distanced myself without measure from Thee, prodigally have I squandered my life,
@@ -127,7 +127,7 @@ Ye mirrors of the God-originating light and radiance of the thrice-radiant dawn,
 Having adorned the orders of the supreme Powers as God, He Who is higher than the Cherubim dwelt in thy virginal womb, O Mother of God, and unchangeably became flesh.
 *Ode 3. Heirmos:*
 *Thou Who alone knowest the weakness of human nature, and didst compassionately take form therein: gird me with power from on high, that I may cry unto Thee: Holy is the living temple of Thine ineffable glory, O Lover of mankind!*
-Bow down, lament, O my soul, and cry aloud: I have sinned against the only One Who knoweth thy hidden secrets! And bring forth fruits of repentance, that the compassionate Lord may cleanse thee, His servant, and deliver thee from eternal [torment].
+Bow down, lament, O my soul, and cry aloud: I have sinned against the only One Who knows thy hidden secrets! And bring forth fruits of repentance, that the compassionate Lord may cleanse thee, His servant, and deliver thee from eternal [torment].
 O good and compassionate Lord, save me: like the Publican I cry unto Thee with fear, dragged down deep by a multitude of sins, burdened with the weight of transgressions, and filled with boundless shame.
 *For the Martyrs:*
 Enlightened with the wisdom and understanding of the truth, the martyrs turned Hellenic wisdom into foolishness, manfully
@@ -137,7 +137,7 @@ destroyed wickedness, and having suffered valiantly, worthily received the crown
 *For the Martyrs:*
 Confessing the Trinity as a Monad in essence and three in Persons, O sufferers, ye destroyed the delusion of polytheism through divine faith; and ye were revealed as beacons, illuminating the hearts of all with the rays of grace.
 *Theotokion:*
-O pure Bride of God: thou didst give birth unto the Savior Who resteth among the saints, the Son and Word co-unoriginate with the Father, Who through the Holy Spirit cleanseth those who piously honor Him.
+O pure Bride of God: thou didst give birth unto the Savior Who rests among the saints, the Son and Word co-unoriginate with the Father, Who through the Holy Spirit cleanses those who piously honor Him.
 *Another Canon [to the Bodiless Powers]. Heirmos: The same.*
 The Seraphim, drawing closely nigh unto the divine and deifying Light and abundantly filled with His primary outpourings, are illuminated in a primal manner; and they become secondary lights, being deified by grace.
 Zealously desiring to praise the brightness of the Angels, let us fittingly entreat with purity of mind and pure lips the aid granted by God through them, that we may be renewed by their radiance.
@@ -176,7 +176,7 @@ Partaking of burning, the holy ones were refreshed by their divine love, being G
 #### [Left Page — Folio 15v]
 ##### Column A
 *Theotokion:*
-God-inspired mouths can never declare the ineffable mystery of thy childbearing, O Maiden; for thou didst give birth unto Him Who is without change, and on thine arms dost bear Him Who holdeth all things in His hand.
+God-inspired mouths can never declare the ineffable mystery of thy childbearing, O Maiden; for thou didst give birth unto Him Who is without change, and on thine arms dost bear Him Who holds all things in His hand.
 *Another Canon [to the Bodiless Powers]. Heirmos: The same.*
 Kindled with the fire of divine love, the Dominions, Authorities, and Powers, the secondary orders, sing praise with ceaseless mouths unto the God-originating one essence and power.
 The spiritual ranks together with the Archangels, Angels, and Principalities in the spirit, as co-unoriginate hosts, honor the one thrice-hypostatic, illuminating Essence.
@@ -197,20 +197,20 @@ Having given birth unto the Fire that created the fiery servants, thou wast reve
 The ranks of the Bodiless Powers, O Lord, standing before the throne of Thy glory, O Lover of mankind, honor Thee with unceasing voices; for Thou art their strength and song.
 Beholding the unfathomable beauty of the divine countenance and supersubstantial divine splendor, the Angels are illuminated by Thy divine rays; for Thou art their light and joy.
 *Theotokion:*
-He Who existed before, the Bodiless Word, became incarnate of thee, O all-pure one, Who by His will createth all things, and Who brought the bodiless hosts out of non-existence, as almighty.
+He Who existed before, the Bodiless Word, became incarnate of thee, O all-pure one, Who by His will creates all things, and Who brought the bodiless hosts out of non-existence, as almighty.
 *Ode 7. Heirmos:*
 *Thee, O Mother of God, we faithful perceive as the spiritual furnace: for as the highly exalted One saved the three children, so hath God wholly renewed me, man, in thy womb: the praised and all-glorious God of our fathers.*
 As of old Daniel tamed the lions by excelling in virtue, emulate him, O my soul, and by ever gazing unto God render powerless the one who...
 
 #### [Right Page — Folio 16r]
 ##### Column A
-...ever roareth like a lion, seeking to devour thee.
+...ever roars like a lion, seeking to devour thee.
 Through an excess of prodigality, O Lord, I have grievously defiled my soul; but possessing exceeding goodness, O Christ, receive me as the prodigal and have compassion on me as I sing: Blessed and all-glorious is the God of our fathers!
 *For the Martyrs:*
 Firmly strengthened by the law of Christ, the invincible martyrs cast down the wily snares of the lawless; and having finished their course lawfully, they sang: Blessed and all-glorious is the God of our fathers!
 Radiant martyrs of the Lord, manifestly kindled by the light of the Trinity, ye dispelled the darkness of torture and the gloom of delusion, singing: Blessed and all-glorious is the God of our fathers!
 *Theotokion:*
-The laws of nature are renewed in thee: for beyond the laws of the flesh thou didst give birth unto Christ the Lawgiver, O all-immaculate one, Who ordaineth deliverance for all that sing: Blessed and all-glorious is the God of our fathers![^27]
+The laws of nature are renewed in thee: for beyond the laws of the flesh thou didst give birth unto Christ the Lawgiver, O all-immaculate one, Who ordains deliverance for all that sing: Blessed and all-glorious is the God of our fathers![^27]
 *Another Canon [to the Bodiless Powers]. Heirmos: The same.*
 Being unoriginate Light, O Master, shining forth from the Father Who is Light: Thou didst establish the angelic hosts as lights, mirrors receiving the flash of the unsetting brightness: Blessed art Thou, O God of our fathers!
 As Lord of all, Thou manifestly savest the human race through the guardianship of the Angels; for Thou didst appoint them over all who believe and sing praise unto Thee in Orthodox faith: the praised and all-glorious God of our fathers!
@@ -222,7 +222,7 @@ Tongue and mind cannot declare Thy wonders, O Master, and the beauty of Thy work
 O incorrupt one, thou didst incarnate the Son Who was timelessly begotten of the Father and is God, having become man for our sake, Whom the ranks of the Bodiless Powers now serve as the praised and all-glorious God of our fathers.
 *Ode 8. Heirmos:*
 *In the furnace the children of Israel, as in a crucible, shining with the beauty of piety purer than gold, said: Bless the Lord, all ye works of the Lord; sing praise and exalt Him supremely unto all ages!*
-My compassionate Redeemer, O Christ: deliver me now from the sinful gloom that holdeth me and from all passions, as I cry: Bless the Lord, all ye works of the Lord; sing praise and exalt Him supremely unto all ages!
+My compassionate Redeemer, O Christ: deliver me now from the sinful gloom that holds me and from all passions, as I cry: Bless the Lord, all ye works of the Lord; sing praise and exalt Him supremely unto all ages!
 When Thou shalt come, O Christ, in glory to judge the world: preserve those who stand marked with Thy name, crying aloud and saying: Bless the Lord, all ye works of the Lord; sing praise and exalt Him supremely unto all ages!
 *For the Martyrs:*
 Leaving earthly things, O holy martyrs of Christ, having contended valiantly on earth, ye received heavenly life, singing: Bless the Lord, all ye works of the Lord; sing praise and exalt Him supremely unto all ages!
@@ -238,21 +238,21 @@ The voices of holy mouths foreproclaimed from afar that thou, O all-pure one, wo
 *Another Canon [to the Bodiless Powers]. Heirmos: The same.*
 Illuminated by the splendors of the angelic hosts and the rays of thrice-radiant beauty, let us faithful emulate them, singing: Bless the Lord, all ye works of the Lord; sing praise and exalt Him supremely unto all ages!
 As the divine Source of every good, He brought forth secondary lights of divine light, who receive the primal light and cry: Bless the Lord, all ye works of the Lord; sing praise and exalt Him supremely unto all ages!
-The primal creative Mind, having established the transcendent angelic minds before all ages, draweth them nigh unto Himself as they cry: Bless the Lord, all ye works of the Lord; sing praise and exalt Him supremely unto all ages!
+The primal creative Mind, having established the transcendent angelic minds before all ages, draws them nigh unto Himself as they cry: Bless the Lord, all ye works of the Lord; sing praise and exalt Him supremely unto all ages!
 *Theotokion:*
 Him Who was begotten of the Father before the ages beyond all word, thou didst ineffably bear for us incarnate, O all-immaculate Virgin, unto Whom we cry: Bless the Lord, all ye works of the Lord; sing praise and exalt Him supremely unto all ages!
 *Ode 9. Heirmos:*
-*The burning bush showed forth an unburnt image of thy pure childbearing; and now we pray thee to quench the furnace of temptations that rageth against us, that we may unceasingly magnify thee, O Mother of God.*
+*The burning bush showed forth an unburnt image of thy pure childbearing; and now we pray thee to quench the furnace of temptations that rages against us, that we may unceasingly magnify thee, O Mother of God.*
 Like the Canaanite woman I cry unto Thee: Have mercy on me, O Word! For my soul is sorely vexed by harmful assaults, foolishly committing unseemly deeds and feeling no divine fear of Thee, O longsuffering Lord!
 Establish the steps of my soul upon the rock of Thy commandments, O Lord, and...
 
 ##### Column B
-...trip up the serpent who craftily seeketh to overthrow me; and deliver me from his malice, as Thou art good and abundant in mercy.
+...trip up the serpent who craftily seeks to overthrow me; and deliver me from his malice, as Thou art good and abundant in mercy.
 *For the Martyrs:*
 The martyrs passed through the unstable water of temptations and the surging waves of grievous wounds unto the joyful haven of the Kingdom on high, enjoying divine tranquility.
 Having become luminous, O martyrs, ye were counted worthy of the unwaning Light; and ye dwell in the Kingdom of the firstborn, rejoicing with the choirs of Angels, with whom implore ye the Life-giving Son!
 *Theotokion:*
-Bearing Him Who upholdeth all things, and nursing Him Who giveth food unto all: great and beyond understanding is thy mystery, O ark of honorable radiance, Virgin Mother of God; therefore in faith we bless thee!
+Bearing Him Who upholds all things, and nursing Him Who gives food unto all: great and beyond understanding is thy mystery, O ark of honorable radiance, Virgin Mother of God; therefore in faith we bless thee!
 *Another Canon [to the Bodiless Powers]. Heirmos: The same.*
 Thou didst establish the bodiless minds as partakers of Thine ineffable glory, O Savior; and now for their sake preserve Thy people who flee unto Thee in faith and love, that we may unceasingly magnify Thee, the Master!
 Thou sendest an Angel of all humility, O Almighty One, guarding Thy holy flock; for Thou art the cause of humility and love, preserving faith in divine wisdom and destroying every harmful thing by Thy power.
@@ -264,7 +264,7 @@ The intelligible angelic thrones unceasingly...
 ##### Column A
 ...glorify thy childbearing; for together they stand gazing, filled with His joy, and unceasingly magnifying thee, O Mother of God!
 *At the Aposticha, Penitential Stichera, Tone 1:*
-Eternity awaiteth thee, O my soul, and the Judge is about to expose thy hidden and vile deeds; neglect not therefore to sigh, but anticipate Him, crying alone: O God, cleanse me and save me!
+Eternity awaits thee, O my soul, and the Judge is about to expose thy hidden and vile deeds; neglect not therefore to sigh, but anticipate Him, crying alone: O God, cleanse me and save me!
 Condemn me not, O my Savior, who am held fast by sinful slothfulness; but awaken in me thoughts of repentance, and show me to be an earnest laborer in Thy vineyard, granting me the reward of the eleventh hour and great mercy!
 *For the Martyrs:*
 Come, all ye people, let us honor the passion-bearers of Christ with spiritual hymns and songs, as the enlighteners of the world and preachers of the faith, ever-flowing fountains that pour forth healings unto the faithful. By their prayers, O Christ our God, grant peace unto Thy world, and unto our souls great mercy!
@@ -293,16 +293,16 @@ Having given birth unto the unsetting Light, enlighten my darkened soul that is 
 #### [Left Page — Folio 17v]
 ##### Column A
 ...cleanse me and save me, and cast me not away who have distanced myself from Thee and am now impoverished through barren deeds!
-Though rich, Thou didst become poor, O Christ, and didst enrich men with immortality and brightness; therefore enrich me with virtues who am impoverished through a life of pleasures, and number me with poor Lazarus, delivering me from the torment of the rich man and the Gehenna that awaiteth me.
+Though rich, Thou didst become poor, O Christ, and didst enrich men with immortality and brightness; therefore enrich me with virtues who am impoverished through a life of pleasures, and number me with poor Lazarus, delivering me from the torment of the rich man and the Gehenna that awaits me.
 Grievously have I grown rich in wickedness, loving pleasure; in this life I received good things, O Lord, and was condemned unto Gehenna; having neglected my starving mind like Lazarus, cast down before the gates of divine deeds: have compassion on me, O Lord!
 *Other Stichera to the Forerunner. The same Model:*[^29]
 Marvelous Prophet, Baptist of Christ and Forerunner: my heart is dried up by wickedness; cause it to pour forth ever-flowing rivers of tears through thy prayers, I beseech thee, that being saved through thee in my many afflictions, I may magnify Him Who hath magnified thee!
-Blessed Prophet, in thee do I place all my hope and the life of my human soul, who didst baptize Jesus Christ, the Abyss Who beareth away the sins of the world; implore Him, O merciful John, to cleanse my heart and save me!
+Blessed Prophet, in thee do I place all my hope and the life of my human soul, who didst baptize Jesus Christ, the Abyss Who bears away the sins of the world; implore Him, O merciful John, to cleanse my heart and save me!
 Wise preacher of grace, who didst foreannounce repentance unto all nations: grant that my all-wretched and desolate soul may ever bring forth fruits of repentance, O divine Forerunner, unto the salvation of our souls!
 
 ##### Column B
 *Glory... Both now... Theotokion:*
-With the great Forerunner who preached unto all the Lamb Who beareth away the sins of the whole world, pray thou, O Virgin, that I, a prodigal, may escape the portion of the goats, and that He may number me, unworthy though I am, among the sheep at His right hand.
+With the great Forerunner who preached unto all the Lamb Who bears away the sins of the whole world, pray thou, O Virgin, that I, a prodigal, may escape the portion of the goats, and that He may number me, unworthy though I am, among the sheep at His right hand.
 *Prokeimenon:*
 *The Lord will hear me when I cry unto Him [Psalm 4:4 LXX].*
 *Verse: When I called upon Thee, Thou didst hear me [Psalm 4:2 LXX].*
@@ -329,7 +329,7 @@ Beholding the wealth of Job's virtues, the enemy of the righteous plotted agains
 As good soldiers believing with one mind, ye feared not the threats of the tyrants, O holy ones; ye came eagerly unto Christ, taking up the precious Cross; and having finished your course...
 
 ##### Column B
-...ye received victory from heaven: glory to Him Who strengthened you, glory to Him Who crowned you, glory to Him Who through you worketh healings for all!
+...ye received victory from heaven: glory to Him Who strengthened you, glory to Him Who crowned you, glory to Him Who through you works healings for all!
 *Glory... Both now... Theotokion:*
 Thou didst anticipate the despair of the Ninevites, averting the proclaimed destruction, and Thy mercy overcame Thy wrath, O Lord; have compassion now upon Thy people and Thy holy inheritance, and with Thy mighty hand cast down our enemies: through the prayers of the Mother of God, grant us Thy mercy!
 *After the 3rd Kathisma, Sessional Hymns, Tone 1. Model: While the soldiers were guarding Thy tomb...*
@@ -348,7 +348,7 @@ Enslaved by the passions of sin, I fall down before Thee, O Lord, that Thou maye
 #### [Left Page — Folio 18v]
 ##### Column A
 ...Thy goodness.
-With a wretched tongue I cry out in sin, and am dead; and the enemy rejoiceth seeing me lying low: O Thou Who raisest the dead, quicken and save me!
+With a wretched tongue I cry out in sin, and am dead; and the enemy rejoices seeing me lying low: O Thou Who raisest the dead, quicken and save me!
 *For the Martyrs:*
 The ranks of the sufferers were glorified, having glorified Christ in their honorable members; they subjected the flesh, and by their suffering destroyed corruption.
 As pillars and ramparts of piety, the glorious martyrs remained unshaken by the assaults of the enemy: by their prayers, O God, have compassion on us all!
@@ -380,7 +380,7 @@ From a barren womb that bore not, O Forerunner, thou didst sacredly spring forth
 ##### Column A
 ...wast revealed fruitful in divine deeds; therefore make my heart, wholly barren of good, fruitful in virtues, that in faith I may glorify thee!
 With the heavenly Bread strengthen my heart, O blessed one, weakened as it is by evil thoughts, and grant me zealously to do the will of the all-bountiful God, that in faith I, a sinner, may ever glorify thee, O Prophet.
-Thou didst proclaim the Lamb Who beareth away the sin of the world, O blessed Prophet; lighten, I pray thee, the heavy burden of my sins, granting me compunction that cleanseth the defilements of the passions.
+Thou didst proclaim the Lamb Who bears away the sin of the world, O blessed Prophet; lighten, I pray thee, the heavy burden of my sins, granting me compunction that cleanses the defilements of the passions.
 *Theotokion:*
 The Word Who came forth taking flesh entirely, clothed Himself with the image of Adam, O incorrupt Mother of God; implore Him therefore to deliver us from passions, and from all tribulations, and from eternal fire.
 *Ode 4. Heirmos:*
@@ -397,7 +397,7 @@ The angelic hosts marveled, beholding how He Who is invisible in appearance was 
 *Another Canon [to the Forerunner]. Heirmos: The same.*
 Having obtained the robe of salvation for thyself in bodily nakedness, O Baptist of the Lord: clothe me, I pray thee, who am stripped bare of noble struggle, with the garment of righteousness and gladness.
 Rain down upon me a drop of salvation, O Forerunner, who am wasting away through the offspring of lusts, who didst immerse in the streams of the Jordan the Torrent of delight, Jesus the Giver of life, that worthily I may glorify thee.
-Neither an angel nor an intercessor saved us, but the Lord Himself Who came upon earth, for Whom thou didst make straight the paths, O blessed one; implore Him to smooth my path that leadeth unto salvation.[^31]
+Neither an angel nor an intercessor saved us, but the Lord Himself Who came upon earth, for Whom thou didst make straight the paths, O blessed one; implore Him to smooth my path that leads unto salvation.[^31]
 *Theotokion:*
 A sacred temple of God wast thou revealed, having contained God beyond understanding, O Virgin...
 
@@ -450,7 +450,7 @@ Vanquished by bodily pleasures, I am become irrational though endowed with reaso
 Redeemed by the blood of Christ Who suffered in the flesh for our sake, O martyrs, for Whose sake ye chose eagerly to pour out your blood:...
 
 ##### Column B
-...by the building of your sacred sufferings ye were revealed as an all-bright palace, wherein resteth Christ, the only King and Lord, Who translated you unto the heavenly mansions!
+...by the building of your sacred sufferings ye were revealed as an all-bright palace, wherein rests Christ, the only King and Lord, Who translated you unto the heavenly mansions!
 *Theotokion:*
 Out of all generations, O all-praised Virgin, Christ chose thee alone as His dwelling, as fair and pure; and shining forth from thee like the sun, He enlightened all the earth.
 *Another Canon [to the Forerunner]. Heirmos: The same.*
@@ -497,16 +497,16 @@ The endurance of the wise passion-bearers of Christ shone more brightly than the
 *Theotokion:*
 ...Of the Word Who shone forth from thy holy womb, O Virgin Mother of God, and enlightened the ends of the earth: illuminate my soul darkened by the blackness of pleasures, that in faith I may sing praise unto thee!
 *Another Canon [to the Forerunner]. Heirmos: The same.*
-Behold the lamp shining unto souls that are in darkness, behold the fair-working swallow that heraldeth the spring unto all, the great Forerunner of Christ, the mediator between the Old and the New: through whose prayers may we who sing praise be preserved!
+Behold the lamp shining unto souls that are in darkness, behold the fair-working swallow that heralds the spring unto all, the great Forerunner of Christ, the mediator between the Old and the New: through whose prayers may we who sing praise be preserved!
 As the friend of the Bridegroom I now offer thee as intercessor, having a multitude of sins, and I cry unto thee, O Baptist: grant me remission of debts, O all-blessed one, and rekindle the lamp of my soul, which through slothfulness is utterly extinguished!
 Together with the Bodiless Angels, the honorable Apostles, the sacred passion-bearers, and the Prophets, O Forerunner: ever implore the all-good God that we may obtain eternal blessings, having thee enriched as our advocate of good things before Him!
 Fair swallow, honorable nightingale, most good dove, wilderness-loving turtledove, Baptist of the Lord, shoot of the wilderness: show my soul, desolate through fruitlessness, to be fruitful in good things!
 *Theotokion:*
-Thou bearest Him Who upholdeth all things, as a Cherubic throne, and thou dost nurse Him Who nourisheth us; implore Him unceasingly, O pure one full of divine joy, that Thy flock may ever be delivered from delusion and falling, captivity and every distress!
+Thou bearest Him Who upholds all things, as a Cherubic throne, and thou dost nurse Him Who nourishes us; implore Him unceasingly, O pure one full of divine joy, that Thy flock may ever be delivered from delusion and falling, captivity and every distress!
 *At the Aposticha, Penitential Stichera, Tone 1:*
 
 ##### Column B
-Eternity awaiteth thee, O my soul, and the Judge is about to expose thy hidden and vile deeds; neglect not therefore in these things, but anticipate Him, crying alone: O God, cleanse me and save me!
+Eternity awaits thee, O my soul, and the Judge is about to expose thy hidden and vile deeds; neglect not therefore in these things, but anticipate Him, crying alone: O God, cleanse me and save me!
 Condemn me not, O my Savior, who am held fast by sinful slothfulness; but awaken in me thoughts of repentance, and show me to be an earnest laborer in Thy vineyard, granting me the reward of the eleventh hour and great mercy!
 *For the Martyrs:*
 Holy soldiers of the Great King, ye resisted the commands of the tyrants, manfully disregarding torments; and having trampled upon all delusion, being worthily crowned, ye ask peace from the Savior and for our souls great mercy.

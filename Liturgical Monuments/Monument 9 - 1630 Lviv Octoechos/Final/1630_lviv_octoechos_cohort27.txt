@@ -4,7 +4,7 @@
 [Seventeenth-century Ukrainian chancery script inscription in faded brown ink commemorating the purchase, binding, and donation of this Octoechos:][^340]
 [...Purchased this book, the Octoechos, for ... table-zlotys... under the oversight of...]
 [...of the Church of Saint Nicholas...]
-[...had it bound, and donateth it unto the village... with love...]
+[...had it bound, and donates it unto the village... with love...]
 [...unto the temple of Saint Nicholas... for perpetual times, immutably.]
 [By God's ... the day of November ... in the year of the Lord 1638.]
 Anno Domini 1638.
@@ -23,7 +23,7 @@ This book the Pope-cantor Tereshko Kuzmyn Vyshnevskyi gave to be bound; he gave 
 Resurrectional Exaposteilaria and Evangelical Stichera
 
 Tone 1. Exaposteilarion 1:
-Let us go up with the disciples into the mountain of Galilee, by faith to behold Christ saying: Authority over the highest and lowest hath been received; let us learn how He teacheth to baptize in the Name of the Father, and of the Son, and of the Holy Spirit, and to abide with the initiates of the mysteries, even as He promised, unto the end of the age. (Twice)
+Let us go up with the disciples into the mountain of Galilee, by faith to behold Christ saying: Authority over the highest and lowest hath been received; let us learn how He teaches to baptize in the Name of the Father, and of the Son, and of the Holy Spirit, and to abide with the initiates of the mysteries, even as He promised, unto the end of the age. (Twice)
 
 Theotokion:
 Rejoice with the disciples, O Virgin Theotokos, for thou didst behold Christ risen from the tomb on the third day, even as He said; unto whom He appeared, teaching and saying as He revealed Himself: Baptize in the Name of the Father, and of the Son, and of the Holy Spirit; commanding us to believe in His Resurrection, and to glorify thee, O Maiden!
@@ -49,7 +49,7 @@ Tone 3. Exaposteilarion 3:
 That Christ is risen, let no one disbelieve! For He appeared unto Mary, and was then seen by two who were walking into the countryside; and He appeared again unto the eleven disciples as they reclined at table; and having sent them forth to baptize, He ascended into the heavens whence He had descended, confirming the preaching with multitudes of signs!
 
 Theotokion:
-Thou hast shone forth, O Sun, from the tomb today as a Bridegroom from his bridal chamber, and hast despoiled hades; by the maternal prayers of her who bore Thee, send down Light upon us: the Light that illumineth hearts and souls, a light for all souls to walk, setting their steps upon the paths of Thy commandments and into the way of peace!
+Thou hast shone forth, O Sun, from the tomb today as a Bridegroom from his bridal chamber, and hast despoiled hades; by the maternal prayers of her who bore Thee, send down Light upon us: the Light that illuminates hearts and souls, a light for all souls to walk, setting their steps upon the paths of Thy commandments and into the way of peace!
 
 Evangelical Stichera 3. Tone 3:[^342]
 
@@ -60,7 +60,7 @@ Tone 4. Exaposteilarion 4:
 Enlightened by the virtues, having seen the men standing in shining garments at the life-bearing Tomb, while the Myrrh-bearing women bowed their faces to the earth: let us learn of the Resurrection of the Ruler of heaven, and with Peter let us run unto life, unto the tomb; and marvelling at what hath been done, let us remain praising Christ!
 
 Theotokion:
-From thy womb, O Virgin, the Lord having become incarnate, willed to recall the perishing world from corruption, even as the Almighty One knoweth; and finding salvation in thee, O Theotokos, we all cry aloud unto thee as the angel: Rejoice, thou who alone art pure and most blessed among women, who didst bear salvation unto all the universe!
+From thy womb, O Virgin, the Lord having become incarnate, willed to recall the perishing world from corruption, even as the Almighty One knows; and finding salvation in thee, O Theotokos, we all cry aloud unto thee as the angel: Rejoice, thou who alone art pure and most blessed among women, who didst bear salvation unto all the universe!
 
 Evangelical Stichera 4. Tone 4:
 Very early in the morning the women came unto Thy Tomb, O Christ, but the Body loved by them was not found; therefore, while they were perplexed, those standing by in shining garments said: Why seek ye the Living among the dead?...[^343]
@@ -113,7 +113,7 @@ Theotokion:
 O Maiden, thou didst ineffably give birth unto One of the Trinity in two natures of essence, and in two operations, and in one hypostasis: Him therefore entreat thou unceasingly for them that worship thee in faith, that we may be delivered from every assault of the enemy; for we all flee unto thee, O Sovereign Lady and Theotokos!
 
 Evangelical Stichera 8. Tone 8:
-Mary's tears are not poured forth warmly in vain; for behold, she was accounted worthy of angelic teachings, and of the sight of Jesus Himself; yet she still mindeth earthly things, as a frail woman; therefore she is forbidden to touch Christ, but is sent forth as a herald unto His disciples, unto whom she declared the glad tidings, announcing His ascent unto the Father's inheritance: with her, account us also worthy of Thine appearance, O Master and Lord!
+Mary's tears are not poured forth warmly in vain; for behold, she was accounted worthy of angelic teachings, and of the sight of Jesus Himself; yet she still minds earthly things, as a frail woman; therefore she is forbidden to touch Christ, but is sent forth as a herald unto His disciples, unto whom she declared the glad tidings, announcing His ascent unto the Father's inheritance: with her, account us also worthy of Thine appearance, O Master and Lord!
 
 Evangelical 9. Exaposteilarion 9. Tone 5:
 The doors being shut, O Master, when Thou didst enter, Thou didst fill the Apostles with the Spirit, unto whom Thou didst say to bind and to loose sins; and after eight days Thou didst show Thy side and hands unto Thomas, with whom we cry aloud: Thou art my Lord and my God!

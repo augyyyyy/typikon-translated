@@ -27,6 +27,8 @@ if sys.stderr and hasattr(sys.stderr, 'reconfigure'):
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = SCRIPT_DIR.parent
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT))
 REGISTRY_FILE = PROJECT_ROOT / "Liturgical Monuments" / "codex_registry.json"
 
 PLACEHOLDER_PATTERNS = [
@@ -48,11 +50,26 @@ PLACEHOLDER_PATTERNS = [
     (r"\[TODO\b", "Unresolved TODO marker"),
     (r"\[PLACEHOLDER\b", "Unresolved PLACEHOLDER marker"),
     (r"\[UNRESOLVED_CANONICAL_GAP", "Unresolved canonical gap marker"),
+    (r"^[ \t]*(?:#{1,6}\s*|\*\*)?\[(?:Left|Right)\s+Page\s*(?:—|--|-|:)\s*.+?\](?:\*\*)?[ \t]*$", "Un-inlined 2-up Left/Right Page banner"),
+    (r"^===\s*COHORT_BOUNDARY\s+\d+\s*===$", "Unstripped cohort boundary marker"),
+    (r"\.\.\.\s*(?:\[\^\d+\]\s*)*\[(?:f\.\s*[^\]]+|p\d+[LR][AB]?)\]", "Unstripped seam ellipsis before milestone"),
+    (r"\[(?:f\.\s*[^\]]+|p\d+[LR][AB]?)\]\s*$", "Orphan trailing milestone at end of line"),
 ]
 
 BANNED_PHRASES = [
     (r"\bfor ever and ever\b", "Banned liturgical doxology ('for ever and ever') -> MTS-1 Father Paul standard requires 'now and forever, and unto ages of ages'"),
+    (r"\bSedalen\b", "Forbidden vocabulary ('Sedalen' -> MTS-1 requires 'Sessional Hymn')"),
+    (r"\bIrmos\b", "Forbidden vocabulary ('Irmos' -> MTS-1 requires 'Heirmos')"),
+    (r"\bApolytikion\b", "Forbidden vocabulary ('Apolytikion' -> MTS-1 requires 'Troparion')"),
+    (r"\bNekrosim(?:on|a)\b", "Forbidden vocabulary ('Nekrosimon/Nekrosima' -> MTS-1 requires 'Hymn(s) for the Departed (Поко́инъ)')"),
 ]
+
+NON_VERB_ETH_SET = {
+    "beth", "seth", "nazareth", "elizabeth", "gennesaret", "shibboleth",
+    "kenneth", "teeth", "beneath", "underneath", "twentieth", "thirtieth",
+    "fortieth", "fiftieth", "sixtieth", "seventieth", "eightieth",
+    "ninetieth", "hundredth", "thousandth",
+}
 
 def slugify(heading_text: str) -> str:
     cleaned = re.sub(r'\[\^?\d+\]', '', heading_text)
@@ -258,19 +275,99 @@ def verify_monument_publication(monument_id: str) -> bool:
             print(f"  [FAIL] Part 0 TOC has {broken_rel} broken file links.")
             all_passed = False
 
+    # 3. Check Deep Service Heading Granularity & Modular Part Balance (Gate 3B / 3C)
+    if "octoechos" in monument_id.lower():
+        tone_part_files = [
+            pf for pf in sorted(final_md_dir.glob("*_part*_tone*.md"))
+            if re.search(r"_part[1-8]_tone[1-8]\.md$", pf.name)
+        ]
+        weekday_part_files = list(final_md_dir.glob("*_part*_weekday*.md"))
+        service_check_files = tone_part_files + weekday_part_files
+        granularity_errors = 0
+        for spf in service_check_files:
+            sp_txt = spf.read_text(encoding="utf-8")
+            h2_headings = [
+                m.group(1).strip()
+                for m in re.finditer(r"^##\s+(.+)$", sp_txt, flags=re.MULTILINE)
+                if not re.match(r"^(?:TABLE OF CONTENTS|Notes|Footnotes)\b", m.group(1).strip(), re.IGNORECASE)
+            ]
+            # Check for redundant echo heading e.g. '## TONE 1' right under '# Tone 1: ...'
+            redundant_echo = [h for h in h2_headings if re.match(r"^TONE\s+\d+$", h, re.IGNORECASE)]
+            if redundant_echo:
+                granularity_errors += 1
+                print(f"  [FAIL] Gate 3B: {spf.name} contains redundant H2 echo header: {redundant_echo}")
+            if len(h2_headings) < 3:
+                granularity_errors += 1
+                print(f"  [FAIL] Gate 3B: {spf.name} has insufficient H2 service headings ({len(h2_headings)} found, >= 3 required).")
+        if granularity_errors == 0 and service_check_files:
+            print(f"  [PASS] Gate 3B: All {len(service_check_files)} Tone/Weekday parts have deep H2 service headings and 0 redundant echo headers.")
+        elif granularity_errors > 0:
+            all_passed = False
+
+        if len(tone_part_files) == 8:
+            sizes = [len(pf.read_text(encoding="utf-8")) for pf in tone_part_files]
+            sorted_sizes = sorted(sizes)
+            median_size = (sorted_sizes[3] + sorted_sizes[4]) / 2.0
+            max_size = max(sizes)
+            max_pf = tone_part_files[sizes.index(max_size)]
+            if max_size > median_size * 2.5:
+                print(f"  [FAIL] Gate 3C: Modular Tone part imbalance: {max_pf.name} ({max_size:,} chars) exceeds 2.5x median Tone size ({median_size:,.0f} chars). Consolidated Weekday Cycle must be sliced into its own Part.")
+                all_passed = False
+            else:
+                print(f"  [PASS] Gate 3C: Modular Tone 1-8 part sizes balanced (max={max_size:,} chars vs median={median_size:,.0f} chars, ratio={max_size/max(1.0, median_size):.2f}x <= 2.50x).")
+
     # -------------------------------------------------------------
-    # Check 4: MTS-1 Compliance & Encoding
+    # Check 4: MTS-1 Compliance, Full-Text Vocabulary/Slop/-eth & Encoding
     # -------------------------------------------------------------
-    print("\n[Gate 4] Auditing MTS-1 liturgical phrasing and UTF-8 encoding...")
+    print("\n[Gate 4] Auditing MTS-1 liturgical phrasing, full-text vocabulary/slop/-eth, and UTF-8 encoding...")
     banned_hits = 0
+    is_octoechos_monument = "octoechos" in monument_id.lower() or (final_md_dir / f"{monument_id}_propers_corpus.json").exists()
+    from scripts.lint_liturgical_slop import lint_slop
+
     for mf in md_files:
+        raw_bytes = mf.read_bytes()
+        if raw_bytes.startswith(b"\xef\xbb\xbf"):
+            banned_hits += 1
+            print(f"  [FAIL] {mf.name}: Contains UTF-8 BOM (\\ufeff)!")
+
         content = mf.read_text(encoding="utf-8")
+        if re.search(r"<sup>.*?</sup>", content, re.IGNORECASE):
+            banned_hits += 1
+            print(f"  [FAIL] {mf.name}: Contains stray HTML <sup>...</sup> tag!")
+
         for line_num, line in enumerate(content.splitlines(), start=1):
             for pat, reason in BANNED_PHRASES:
-                if re.search(pat, line, re.IGNORECASE):
+                for m_bp in re.finditer(pat, line, re.IGNORECASE):
+                    before = line[:m_bp.start()]
+                    after = line[m_bp.end():]
+                    if "(*" in before and "*)" in after:
+                        last_open = before.rfind("(*")
+                        if "*)" not in before[last_open:]:
+                            continue
+                    if 'lit. "' in line or "(lit. " in line:
+                        continue
                     banned_hits += 1
                     print(f"  [FAIL] {mf.name}:L{line_num}: Found banned phrase: {line.strip()[:80]}")
                     print(f"         Reason: {reason}")
+
+            if is_octoechos_monument:
+                for m_eth in re.finditer(r"\b([A-Za-z]+eth)\b", line):
+                    w_eth = m_eth.group(1)
+                    if w_eth.lower() not in NON_VERB_ETH_SET:
+                        banned_hits += 1
+                        print(f"  [FAIL] {mf.name}:L{line_num}: Unnormalized 3rd-person '-eth' verb '{w_eth}': {line.strip()[:80]}")
+
+        slop_res = lint_slop(mf)
+        if not slop_res["passed"]:
+            banned_hits += slop_res["violation_count"]
+            for v in slop_res["violations"][:5]:
+                print(f"  [FAIL] {mf.name}:L{v['line']} [{v['category']}]: '{v['matched_text']}' in: {v['line_snippet'][:80]}")
+
+    if banned_hits == 0:
+        print("  >>> Gate 4 Result: PASS (Zero banned phrases, zero slop/BOM/HTML tags, zero unnormalized -eth verbs across body and footnotes)")
+    else:
+        print(f"  >>> Gate 4 Result: FAIL ({banned_hits} MTS-1 vocabulary/slop/encoding violations detected)")
+        all_passed = False
 
     # -------------------------------------------------------------
     # Check 5: Heading Typography, Language Purity & Apparatus Isolation (Strict Blocker)
@@ -283,25 +380,23 @@ def verify_monument_publication(monument_id: str) -> bool:
         content = mf.read_text(encoding="utf-8")
         lines = content.splitlines()
 
-        # 5A: Unparenthesized Cyrillic in Markdown Headings (#)
+        # 5A: Unparenthesized Cyrillic in Markdown Headings (#) and Body Lines
         for line_num, line in enumerate(lines, start=1):
-            if not line.startswith('#'):
+            if re.match(r"^\s*\[\^\d+\]:", line):
                 continue
             if re.search(r'[\u0400-\u04FF]', line):
                 # Remove parenthesized substrings (*...*) or (...)
-                clean_heading = re.sub(r'\([^\)]*[\u0400-\u04FF][^\)]*\)', '', line)
-                if re.search(r'[\u0400-\u04FF]', clean_heading):
+                clean_line = re.sub(r'\([^\)]*[\u0400-\u04FF][^\)]*\)', '', line)
+                if re.search(r'[\u0400-\u04FF]', clean_line):
                     gate5_violations += 1
-                    print(f"  [FAIL] {mf.name}:L{line_num}: Unparenthesized Cyrillic heading: {line.strip()[:80]}")
-                    print("         MTS-1 requires Cyrillic incipits to be parenthesized in italics: e.g. (*О постахъ*)")
+                    print(f"  [FAIL] {mf.name}:L{line_num}: Unparenthesized Cyrillic in body/heading: {line.strip()[:80]}")
+                    print("         MTS-1 requires Cyrillic incipits/marginalia to be parenthesized: e.g. (*О постахъ*)")
 
         # 5B: Repeated Master Document Title in Body
         if master_title:
             escaped_m = re.escape(master_title)
             for line_num, line in enumerate(lines, start=1):
-                if mf.name.endswith("_part0_intro_and_toc.md") and line_num == 1:
-                    continue
-                if mf.name.endswith("_complete.md") and line_num == 1:
+                if ("_part0_" in mf.name or mf.name.endswith("_complete.md")) and line_num == 1:
                     continue
                 if re.match(rf"^#\s+{escaped_m}\b", line.strip(), re.IGNORECASE):
                     gate5_violations += 1
@@ -446,11 +541,11 @@ def verify_monument_publication(monument_id: str) -> bool:
         print("\n[Gate 7] Auditing Hymnographic Normalization, 8-Tone Primitives & Anti-Stub Propers Corpus...")
         gate7_violations = 0
 
-        # 7A & 7B: Scan part1..N and _complete.md for unnormalized Model: labels and un-parenthesized *Podoben: lines
+        # 7A & 7B: Scan part1..N and _complete.md for unnormalized Model:/Prosomoion:/Nekrosimon: labels and un-parenthesized Podoben: lines
         unnorm_model_hits = []
         unparen_podoben_hits = []
         for mf in md_files:
-            if mf.name.endswith("_apparatus.md"):
+            if mf.name.endswith("_apparatus.md") or mf.name.endswith("_footnotes.md"):
                 continue
             content = mf.read_text(encoding="utf-8")
             # Separate body from ### Notes / # FOOTNOTES
@@ -458,26 +553,26 @@ def verify_monument_publication(monument_id: str) -> bool:
             for ln_num, ln in enumerate(body_part.splitlines(), start=1):
                 if re.match(r"^\s*\[\^\d+\]:", ln):
                     continue
-                if re.search(r"\b(?:Model:|Melodic\s+model:|Special\s+Melody:|Same\s+Model\b|Same\s+melody\b)", ln, re.IGNORECASE):
+                if re.search(r"\b(?:Model:|Melodic\s+model:|Model\s+melody:|Prosomoion:|Special\s+Melody:|Same\s+Model\b|Same\s+melody\b|Same\s+Prosomoion\b|Nekrosimon:)", ln, re.IGNORECASE):
                     unnorm_model_hits.append((mf.name, ln_num, ln.strip()[:80]))
-                if "*Podoben:" in ln and not re.search(r"\([^)]*[\u0400-\u04FF][^)]*\)", ln):
+                if re.search(r"\bPodoben:", ln, re.IGNORECASE) and not re.search(r"\([^)]*[\u0400-\u04FF][^)]*\)", ln):
                     unparen_podoben_hits.append((mf.name, ln_num, ln.strip()[:80]))
 
         if unnorm_model_hits:
             gate7_violations += len(unnorm_model_hits)
-            print(f"  [FAIL] Gate 7A: Found {len(unnorm_model_hits)} unnormalized 'Model:'/'Melodic model:' lines:")
+            print(f"  [FAIL] Gate 7A: Found {len(unnorm_model_hits)} unnormalized 'Model:'/'Prosomoion:'/'Model melody:'/'Nekrosimon:' lines:")
             for fn, ln_num, snip in unnorm_model_hits[:5]:
                 print(f"    {fn}:L{ln_num}: {snip}")
         else:
-            print("  [PASS] Gate 7A: 0 unnormalized 'Model:' / 'Melodic model:' / 'Same melody' lines across all files.")
+            print("  [PASS] Gate 7A: 0 unnormalized 'Model:' / 'Prosomoion:' / 'Model melody:' / 'Nekrosimon:' lines across all files.")
 
         if unparen_podoben_hits:
             gate7_violations += len(unparen_podoben_hits)
-            print(f"  [FAIL] Gate 7B: Found {len(unparen_podoben_hits)} '*Podoben:' lines missing parenthetical Slavonic witness:")
+            print(f"  [FAIL] Gate 7B: Found {len(unparen_podoben_hits)} 'Podoben:' lines missing parenthetical Slavonic witness:")
             for fn, ln_num, snip in unparen_podoben_hits[:5]:
                 print(f"    {fn}:L{ln_num}: {snip}")
         else:
-            print("  [PASS] Gate 7B: 100% of '*Podoben:' headings include parenthetical 1630 Slavonic witness.")
+            print("  [PASS] Gate 7B: 100% of 'Podoben:' headings include parenthetical Slavonic witness.")
 
         # 7C: 8-Tone Primitives Registry & Father Paul Digest Completeness
         prim_reg_file = PROJECT_ROOT / "data" / "liturgical_primitives_registry.json"
@@ -524,7 +619,7 @@ def verify_monument_publication(monument_id: str) -> bool:
                     f"({len(c_items):,} atomic stanzas across Tones {sorted(c_tones)})."
                 )
 
-        # 7E: Internally-Attested Podoben Grid Gate
+        # 7E & 7F: Internally-Attested Podoben Grid & Cross-Deliverable Mathematical Parity Gate
         grid_md_file = final_md_dir / f"{monument_id}_podoben_grid.md"
         grid_json_file = final_md_dir / f"{monument_id}_podoben_grid.json"
         if not grid_md_file.exists() or not grid_json_file.exists():
@@ -543,6 +638,30 @@ def verify_monument_publication(monument_id: str) -> bool:
                     f"  [PASS] Gate 7E: Podoben Grid verified "
                     f"({len(invocations)} physical invocations across Tones {sorted(grid_tones)})."
                 )
+
+            # 7F: Cross-Deliverable Podoben Mathematical Parity (complete.md == _podoben_grid.json == _primitives_review.md)
+            if master_complete_candidates and primitives_review_file.exists():
+                comp_body = re.split(r"\n#\s*FOOTNOTES AND SCHOLARLY COMMENTARY", master_complete_candidates[0].read_text(encoding="utf-8"), flags=re.IGNORECASE)[0]
+                comp_pod_count = sum(
+                    1 for ln in comp_body.splitlines()
+                    if "*Podoben:" in ln or "*Tone and Podoben:" in ln
+                )
+                grid_pod_count = len(invocations)
+                rev_txt = primitives_review_file.read_text(encoding="utf-8")
+                m_rev_cnt = re.search(r"invoked\s+`(\d+)`\s+times", rev_txt)
+                rev_pod_count = int(m_rev_cnt.group(1)) if m_rev_cnt else -1
+
+                if not (comp_pod_count == grid_pod_count == rev_pod_count):
+                    print(
+                        f"  [FAIL] Gate 7F: Cross-Deliverable Podoben Mathematical Parity mismatch! "
+                        f"complete.md={comp_pod_count}, _podoben_grid.json={grid_pod_count}, _primitives_review.md={rev_pod_count}"
+                    )
+                    gate7_violations += 1
+                else:
+                    print(
+                        f"  [PASS] Gate 7F: 100% Cross-Deliverable Podoben Mathematical Parity verified "
+                        f"(complete.md == _podoben_grid.json == _primitives_review.md == {comp_pod_count} invocations)."
+                    )
 
         if gate7_violations == 0:
             print("  >>> Gate 7 Result: PASS (100% Hymnographic Normalization, 8-Tone Primitives & Full Propers Corpus Verified)")

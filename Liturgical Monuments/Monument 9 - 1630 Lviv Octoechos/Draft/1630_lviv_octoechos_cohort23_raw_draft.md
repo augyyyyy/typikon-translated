@@ -2,7 +2,7 @@
 
 #### [Left Page — Folio 221v]
 ##### Column A
-[1] ...of Thy Cross, which burneth up the sins of men and enlighteneth the hearts of them that sing: O Christ God, glory to Thee for Thy voluntary Crucifixion!
+[1] ...of Thy Cross, which burns up the sins of men and enlightens the hearts of them that sing: O Christ God, glory to Thee for Thy voluntary Crucifixion!
 [2] Today beholding the elevation of Thy Cross, ever falling down in faith and kissing it with songs and singing, in fear and joy: cleanse Thy servants, and give peace unto Thy world by its manifestation, O Thou Who alone art most merciful!
 Martyrs:
 [3] Pray ye, O holy ones, that forgiveness of our transgressions may be granted unto us, and that we may be delivered from grievous secret sins and bitter death, we pray you!
@@ -36,7 +36,7 @@ Ode 1. Tone 7. Heirmos: The same.
 [7] My deadened mind, by the action of the Life Who was truly born of thee, O all-pure Virgin, do thou make alive!
 [8] They that bless thee in faith are manifestly blessed of God; for thou didst bear the Fountain of blessing, O only all-immaculate, all-lauded one!
 Ode 3. Heirmos:
-The Church of Christ hath been established by faith: the heaven unceasingly crieth aloud with hymns, praising:
+The Church of Christ hath been established by faith: the heaven unceasingly cries aloud with hymns, praising:
 
 #### [Right Page — Folio 222r]
 ##### Column A
@@ -51,10 +51,10 @@ Theotokion:
 [5] Entreat for us remission of debts, O Virgin Mother, and grant it through thy prayers, having borne God the Word made man, Who was nailed upon the Cross!
 Another Canon [to the Theotokos].
 Ode 3. Heirmos: The same.
-[6] God showed thee forth on the mountain unto Moses the Lawgiver as a living, all-holy tabernacle; for thou becamest the dwelling-place of Him Who sanctifieth all!
-[7] We all know thee, O Virgin, as holy earth, who hast sprouted forth for us without seed the beauteous Ear of Wheat, Jesus Christ, Who nourisheth them that call thee blessed, O Virgin, in faith and love!
-[8] The goings of the most high God from thee, O Virgin, were seen, when He was ineffably incarnate; for thou becamest the Mother of Him Who reigneth over all!
-[9] Ever guided, the Church of Christ glorifieth thee before God: O Virgin Mother of God...
+[6] God showed thee forth on the mountain unto Moses the Lawgiver as a living, all-holy tabernacle; for thou becamest the dwelling-place of Him Who sanctifies all!
+[7] We all know thee, O Virgin, as holy earth, who hast sprouted forth for us without seed the beauteous Ear of Wheat, Jesus Christ, Who nourishes them that call thee blessed, O Virgin, in faith and love!
+[8] The goings of the most high God from thee, O Virgin, were seen, when He was ineffably incarnate; for thou becamest the Mother of Him Who reigns over all!
+[9] Ever guided, the Church of Christ glorifies thee before God: O Virgin Mother of God...
 
 ##### Column B
 ...thou didst bear the incarnate Savior unto them that sing praise unto thee, O Virgin!
@@ -74,7 +74,7 @@ Ode 4. Heirmos: The same.
 [7] The Orthodox assembly is made upright, singing praise unto thee, the all-holy Mother of God, and crying with the Archangel: "Rejoice!"
 [8] The face of Nestorius is confounded, who was unwilling to confess thee as pure Birth-giver of God; for thou didst truly bear God, O all-pure one!
 [9] Having found thee beauteous and radiant in virtues, the Bridegroom took up His abode in thee, and made thee the all-holy Birth-giver of God!
-Ode 5. Heirmos: My spirit seeketh Thee early in the morning, O Christ...[^300]
+Ode 5. Heirmos: My spirit seeks Thee early in the morning, O Christ...[^300]
 
 === LEAF p222 ===
 
@@ -107,8 +107,8 @@ Theotokion:
 [5] In sorrow of heart thou didst behold Him Who was incarnate of thee, O pure and all-immaculate Virgin Mother, weeping as thou didst look upon Him lifted up upon the Cross!
 Another Canon [to the Theotokos].
 Ode 6. Heirmos: The same.
-[6] Thou didst bear the One Who lived among men, O Virgin Birth-giver of God, the only Savior Who granteth life unto mankind!
-[7] Emmanuel, O Birth-giver of God, Whom thou didst bear according to essence, the perfect Word before all ages, incarnate God Who granteth redemption unto us!
+[6] Thou didst bear the One Who lived among men, O Virgin Birth-giver of God, the only Savior Who grants life unto mankind!
+[7] Emmanuel, O Birth-giver of God, Whom thou didst bear according to essence, the perfect Word before all ages, incarnate God Who grants redemption unto us!
 [8] The Ark that contained the tables of the law prefigured thee, O Birth-giver of God, as having received the Word of God in thy womb, incarnate for our sake!
 Ode 7. Heirmos:
 
@@ -120,13 +120,13 @@ Troparia:
 [2] Pierced with a spear in Thy divine side, O God, Thou didst make upright the slip of the rib, ever commanding the flaming sword to grant me entrance into Paradise, O Savior!
 Martyrs:
 [3] Having become stars set upon the heights of the Church, the Martyrs enlighten creation by the manifestations of their sufferings and by the radiance of healings!
-[4] The Book of the living ever bringeth the names of the Lord's Martyrs written therein, who fervently preserved the divine commandments and valiantly suffered!
+[4] The Book of the living ever brings the names of the Lord's Martyrs written therein, who fervently preserved the divine commandments and valiantly suffered!
 Theotokion:
 [5] The all-holy Mother, beholding the all-holy Word Who came forth from her lifted up upon the holy Cross and cleansing mankind, wept aloud!
 Another Canon [to the Theotokos].
 Ode 7. Heirmos: The same.
 [6] We thankfully offer unto thee the "Rejoice," O Mother of God, having truly been delivered through thee from every difficulty, and harmoniously crying aloud: In majesty and joy we magnify thee!
-[7] David the forefather of God describeth thy glory, O Virgin, and divinely proclaims thee as Queen of creation standing at the right hand of God the Father, O all-immaculate one!
+[7] David the forefather of God describes thy glory, O Virgin, and divinely proclaims thee as Queen of creation standing at the right hand of God the Father, O all-immaculate one!
 
 ##### Column B
 [1] Thou hast renewed the nature of earthborn beings, O pure one, by the renewal of thy childbearing; therefore we cry aloud unto thee, O Virgin: Blessed unto all ages is God, the Fruit of thy womb!
@@ -170,7 +170,7 @@ Ode 9. Heirmos: The same.
 [4] Divinely perfected humanity was assumed from thee, O all-pure Maiden, united unto the Word, flesh animate, adorned with the Word: therefore all we, the faithful, magnify thee!
 [5] Let Egyptian praise now be silent; but let the trumpet of David divinely sound, praising thee, O Virgin, with radiant voices, and confessing thee as the true Birth-giver of God!
 [6] Humanity was now pitied through thee, being truly united in person unto the Word: and God, having become man, was lifted up, O Virgin: therefore all we ever magnify thee!
-[7] Foreknowing by prophetic sharp vision the mystery of thy childbearing, O Maiden, that thou didst bear God incarnate unto men, Who delivereth us from temptations: by thy prayers save us!
+[7] Foreknowing by prophetic sharp vision the mystery of thy childbearing, O Maiden, that thou didst bear God incarnate unto men, Who delivers us from temptations: by thy prayers save us!
 
 #### [Right Page — Folio 224r]
 ##### Column A
@@ -307,7 +307,7 @@ Ode 4. Heirmos: The heavens heard:
 Theotokion:
 [2] Without leaving the Father, Christ took up His abode in the virginal womb, and delivered them that bless thee from death, O Mother of good, only all-pure one!
 Ode 5. Heirmos:
-My spirit seeketh Thee early in the morning, O Christ God; for Thy commandments are light, and have become healings unto Thy servants, O Lover of mankind!
+My spirit seeks Thee early in the morning, O Christ God; for Thy commandments are light, and have become healings unto Thy servants, O Lover of mankind!
 Troparia:
 [3] The valiant passion-bearers cared not for bodily bonds, and by your divine wounds ye heal the wounds and passions of all!
 [4] Ye received authority to loose and to bind upon earth, O hierarchs of Christ: therefore ever loose the burdens of our evils!
@@ -463,7 +463,7 @@ Verse: The Lord is King, He is clothed with majesty [Ps. 92:1].
 [2] We glorify Christ Who rose from the dead: for He assumed soul and body, and by His Passion separated them one from the other: His soul indeed descended into hades, which also He despoiled; but in the tomb His holy body saw no corruption, the Redeemer of our souls!
 Verse: For He established the universe which shall not be moved [Ps. 92:1].
 [3] With psalms and songs we glorify Thy Resurrection from the dead, O Christ, wherewith Thou didst free us from the tyranny of hades; and as God Thou didst bestow upon us eternal life and great mercy!
-Verse: Holiness becometh Thy house, O Lord, unto length of days [Ps. 92:5].
+Verse: Holiness becomes Thy house, O Lord, unto length of days [Ps. 92:5].
 [4] O incomprehensible Master of all, Creator of heaven and earth: by the sufferings of the Cross Thou didst pour forth dispassion unto me; and having received burial and risen in glory, Thou didst raise up Adam with Thyself by Thine almighty hand! Glory to Thy third-day rising, wherewith Thou hast granted us eternal life and cleansing of sins, as Thou alone art compassionate!
 
 ##### Column B
@@ -472,7 +472,7 @@ Glory: Now and ever: Theotokion:
 Troparion, Tone 8:
 [2] From on high didst Thou descend, O Compassionate One, and didst submit to three-day burial, that Thou mightest free us from our passions: O our Life and Resurrection, Lord, glory to Thee!
 Glory: Now and ever: Theotokion:
-[3] O Thou Who for our sake wast born of the Virgin and didst endure crucifixion, O Good One: Who by death didst despoil death and show forth the Resurrection as God: despise not them whom Thou didst create with Thine own hand; show forth Thy love for mankind, O Merciful One; accept the Birth-giver of God who bore Thee, who prayeth for us: and save a despairing people, O our Savior!
+[3] O Thou Who for our sake wast born of the Virgin and didst endure crucifixion, O Good One: Who by death didst despoil death and show forth the Resurrection as God: despise not them whom Thou didst create with Thine own hand; show forth Thy love for mankind, O Merciful One; accept the Birth-giver of God who bore Thee, who prays for us: and save a despairing people, O our Savior!
 SUNDAY AT THE MIDNIGHT OFFICE
 Canon to the Holy and Life-Originating
 T R I N I T Y.
@@ -480,7 +480,7 @@ Creation of Metrophanes.
 Ode 1. Tone 8. Heirmos:
 He plunged the armed Pharaoh into the deep:
 Troparia:
-[4] Unto the Triple-radiant dominion, the Creator and Provider of all things, God Who alone is good by nature, and possesseth the single glory of Godhead: we fall down before the single Beginning, singing the Thrice-holy hymn!
+[4] Unto the Triple-radiant dominion, the Creator and Provider of all things, God Who alone is good by nature, and possesses the single glory of Godhead: we fall down before the single Beginning, singing the Thrice-holy hymn!
 [5] Remembering the divine utterances and the all-pure sayings that declared it: we glorify the single divine Nature, ever-existing, co-beginningless, in three Persons: Father, Son, and Holy Spirit, creative and almighty!
 
 #### [Right Page — Folio 229r]
@@ -493,7 +493,7 @@ Thou Who in the beginning established the heavens:
 Troparia:
 [3] Isaiah, seeing Thee on high upon the throne, O inaccessible God and King of glory, and the Cherubim and Seraphim crying aloud with unceasing hymns, praised the single three-hypostatic God!
 [4] The marvelous Word, begotten of the Father as from Mind, and the Holy Spirit ineffably proceeding: comprehended by each thought and by scriptural teachings, we honor the one Triple-radiant God!
-[5] The unbegotten Father, having incorruptibly begotten the Son as the radiance of His own essence, Light from Light, setteth forth by procession the co-enthroned Light of the Spirit, all-creative and of equal honor!
+[5] The unbegotten Father, having incorruptibly begotten the Son as the radiance of His own essence, Light from Light, sets forth by procession the co-enthroned Light of the Spirit, all-creative and of equal honor!
 Theotokion:
 [6] Thou wast shown forth as a pure temple, O Virgin Mother Mary: unto Him Who divinely, all-powerfully, and most wisely established the other creation, ordering and upholding it: make Him merciful through thy maternal prayers!
 
@@ -517,13 +517,13 @@ Troparia:
 Theotokion:
 [2] He Who was born of thee, O all-pure one, One of the Trinity, the all-creative and divine Word, almighty God, renewed human nature: Whom do thou entreat without ceasing, to deliver me from all sorrow!
 Ode 5. Heirmos:
-My spirit seeketh Thee early in the morning:
+My spirit seeks Thee early in the morning:
 Troparia:
 [3] I understand Thee, O three-hypostatic, co-ever-existing Three Persons glorified: yet one Lord, the divine Nature, simply dividing and uniting; and faithfully we cry aloud: O single Beginning, Holy Trinity, deliver Thy servants from sorrow!
 [4] I weep bitterly for the weakness of my mind: how do I suffer against my will? An unstable alteration in truth: therefore I cry unto the Life-originating Trinity: O Holy Trinity, establish me in the good station!
 [5] Weighed down by the slumber of my sin, and cast into the sleep of death: as Thou art loving mankind, most good, and all-merciful, O divine Holy Trinity, have compassion and raise me up!
 Theotokion:
-[6] O Virgin Mother, Maiden, all-pure, all-immaculate, full of God's grace: by thy prayers make Thy Son and God, the Lord Who loveth mankind, merciful unto me; and speedily deliver Thy servant from the passions of sin!
+[6] O Virgin Mother, Maiden, all-pure, all-immaculate, full of God's grace: by thy prayers make Thy Son and God, the Lord Who loves mankind, merciful unto me; and speedily deliver Thy servant from the passions of sin!
 
 ##### Column B
 Ode 6. Heirmos: Cleanse me, O Savior, for many are my transgressions:
@@ -572,7 +572,7 @@ Theotokion:
 
 #### [Left Page — Folio 230v]
 ##### Column A
-[1] ...wisely, in a God-man manner, unchangeably, unconfusedly in truth: and sanctifying forever, Thy mercy abideth with Thy servants; therefore by the prayers of her that bore Thee, grant peace unto Thy Church!
+[1] ...wisely, in a God-man manner, unchangeably, unconfusedly in truth: and sanctifying forever, Thy mercy abides with Thy servants; therefore by the prayers of her that bore Thee, grant peace unto Thy Church!
 AT MATINS, AFTER THE PSALMS:
 "God is the Lord": and the Resurrectional Troparion. Glory: Now and ever: "O Thou Who for our sake wast born of the Virgin": Then the customary chanting of the Psalter.
 After the 1st Kathisma, Sessional Hymns
@@ -588,7 +588,7 @@ Resurrectional. Tone 8:
 [1] Men sealed Thy tomb, O Savior, and an Angel rolled away the stone from the doors: and the women, seeing Thee risen from the dead, proclaimed the good tidings unto Thy disciples in Sion: that the Life of all hath risen, and the bonds of death have been loosed! O Lord, glory to Thee!
 [2] The women, bringing burial myrrh, heard an angelic voice from the tomb: "Cease from tears, and bring joy instead of grief; shout aloud, singing: Christ the Lord hath risen, Who was well pleased as God to save the human race!"
 Glory: Now and ever: Theotokion:
-[3] In thee, O full of grace, all creation rejoiceth: the angelic assembly and the human race: hallowed temple and rational paradise, virginal boast: whereof God was incarnate and became a child, Who is our God before all ages! For He made thy womb a throne, and made thy belly more spacious than the heavens! In thee, O full of grace, all creation rejoiceth: glory to thee!
+[3] In thee, O full of grace, all creation rejoices: the angelic assembly and the human race: hallowed temple and rational paradise, virginal boast: whereof God was incarnate and became a child, Who is our God before all ages! For He made thy womb a throne, and made thy belly more spacious than the heavens! In thee, O full of grace, all creation rejoices: glory to thee!
 Ypakoë. Tone 8:
 [4] The Myrrh-bearers, standing before the life-giving tomb, sought the Master, the Immortal One among the dead: and receiving the joyful tidings from the Angel, they announced unto the Apostles that Christ God hath risen, granting great mercy unto the world!
 Hymns of Ascent (Anavathmoi). Tone 8.
@@ -596,7 +596,7 @@ Antiphon 1:
 
 #### [Right Page — Folio 231r]
 ##### Column A
-[1] From my youth the enemy tempteth me and burneth me with pleasures; but hoping in Thee, O Lord, I conquer him!
+[1] From my youth the enemy tempts me and burns me with pleasures; but hoping in Thee, O Lord, I conquer him!
 [2] They that hate Sion shall become as grass before it is plucked up; for Christ shall cut off their necks with the cutting of torments!
 Glory: Now and ever:
 [3] By the Holy Spirit all things have life: Light from Light, great God, we sing praise unto Him with the Father and with the Word!
@@ -604,17 +604,17 @@ Antiphon 2:
 [4] I cried unto Thee, O Lord, attend, incline Thine ear unto me as I cry; and cleanse me before Thou takest me hence!
 [5] He that hath hope in the Lord shall not be afraid then, when He shall judge all things with fire and torment!
 Glory: Now and ever:
-[6] By the Holy Spirit is the God-spoken unity, the Thrice-holy: for the Father is beginningless, from Whom the Son was timelessly begotten; and the Spirit, co-enthroned and conformed, proceedeth from the Father!
+[6] By the Holy Spirit is the God-spoken unity, the Thrice-holy: for the Father is beginningless, from Whom the Son was timelessly begotten; and the Spirit, co-enthroned and conformed, proceeds from the Father!
 Antiphon 3:
 [7] Let my heart be covered with Thy fear, being humble-minded: lest being lifted up, it fall away from Thee, O all-compassionate One!
-[8] Everyone that departeth unto his mother, the earth, shall come again to receive torments or rewards according to what he hath lived!
+[8] Everyone that departs unto his mother, the earth, shall come again to receive torments or rewards according to what he hath lived!
 Glory: Now and ever:
-[9] By the Holy Spirit everyone divinely seeth and foretelleth: he worketh wonders on high, singing of one God in three Persons: for though it shineth triply, the Godhead reigneth as one!
+[9] By the Holy Spirit everyone divinely sees and foretells: he works wonders on high, singing of one God in three Persons: for though it shines triply, the Godhead reigns as one!
 Antiphon 4:
 
 ##### Column B
 [1] Behold now, what is so good, or what is so pleasant, as for brethren to dwell together in unity? For herein the Lord promised eternal life [Ps. 132:1]!
-[2] Concerning His garment, He Who adorneth the lilies of the field commandeth that it is not meet to be anxious [Matt. 6:28]!
+[2] Concerning His garment, He Who adorns the lilies of the field commands that it is not meet to be anxious [Matt. 6:28]!
 Glory: Now and ever:
 [3] By the Holy Spirit, as by a single cause, all things are upheld, giving peace: for He is God, consubstantial with the Father and the Son, in Lordship!
 Prokeimenon, Tone 8:
@@ -627,5 +627,5 @@ RESURRECTIONAL CANON.
 Ode 1. Tone 8. Heirmos:
 He plunged the armed Pharaoh into the deep: of old the wonder-working rod of Moses, striking the sea crosswise, divided it; and it saved Israel, the fugitive traveling on foot, as he sang a song unto God!
 Troparia:
-[4] How can we not marvel at the almighty Godhead of Christ? Which gusheth forth dispassion unto all the faithful from His sufferings, an ever-flowing fountain from the Holy One, and [everlasting life]!
+[4] How can we not marvel at the almighty Godhead of Christ? Which gushes forth dispassion unto all the faithful from His sufferings, an ever-flowing fountain from the Holy One, and [everlasting life]!
 [5] As Thou wast well [pleased to take flesh, O Christ], now having [sanctified] our nature [by Thy divine Passion]...[^309]

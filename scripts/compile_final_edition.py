@@ -75,6 +75,11 @@ def is_explicit_leaf_marker(s: str) -> bool:
     # Bracketed page/leaf: [Book Page 134], [Physical Page 1 / Leaf p1], [Leaf p12], [Page 12]
     if re.fullmatch(r"\[(?:Physical\s+Page\s+\d+\s*/\s*)?(?:Book\s+Page|Physical\s+Page|Leaf|Page)\s+[^\]]+\]", s, re.IGNORECASE):
         return True
+    # 2-Up Folio & Column headers: **[Left Page — Fol. 1v]**, ### [Right Page — Folio 2r], [Column A]
+    if re.fullmatch(r"(?:#{1,6}\s*|\*\*)?\[(?:Left|Right)\s+Page\s*(?:—|--|-|:)\s*.+?\](?:\*\*)?", s, re.IGNORECASE):
+        return True
+    if re.fullmatch(r"(?:#{1,6}\s*|\*\*)?\[?(?:Column|Колонка)\s+[ABab](?::|\])?(?:\s*\([^)]+\))?(?:\*\*)?", s, re.IGNORECASE):
+        return True
     # Blank folios: [Blank Leaf], *[Blank Leaf preceding the Decrees]*, *(Blank Flyleaf / Vacat)*
     if re.fullmatch(r"\*?\[Blank\s+[^\]]+\]\*?", s, re.IGNORECASE):
         return True
@@ -338,17 +343,286 @@ def format_liturgical_typography(text: str) -> str:
 
     return "\n".join(formatted_lines)
 
+
+SUPERSCRIPT_CHAR_MAP = str.maketrans({
+    "0": "⁰", "1": "¹", "2": "²", "3": "³", "4": "⁴",
+    "5": "⁵", "6": "⁶", "7": "⁷", "8": "⁸", "9": "⁹",
+    "+": "⁺", "-": "⁻", "=": "⁼", "(": "⁽", ")": "⁾",
+    "a": "ᵃ", "b": "ᵇ", "c": "ᶜ", "d": "ᵈ", "e": "ᵉ",
+    "f": "ᶠ", "g": "ᵍ", "h": "ʰ", "i": "ⁱ", "j": "ʲ",
+    "k": "ᵏ", "l": "ˡ", "m": "ᵐ", "n": "ⁿ", "o": "ᵒ",
+    "p": "ᵖ", "r": "ʳ", "s": "ˢ", "t": "ᵗ", "u": "ᵘ",
+    "v": "ᵛ", "w": "ʷ", "x": "ˣ", "y": "ʸ", "z": "ᶻ",
+})
+
+NON_VERB_ETH_TOKENS = {
+    "beth", "seth", "nazareth", "elizabeth", "gennesaret", "shibboleth",
+    "kenneth", "teeth", "beneath", "underneath", "twentieth", "thirtieth",
+    "fortieth", "fiftieth", "sixtieth", "seventieth", "eightieth",
+    "ninetieth", "hundredth", "thousandth",
+}
+
+EXACT_ETH_VERB_MAP = {
+    "abideth": "abides", "agreeth": "agrees", "assuageth": "assuages",
+    "battleth": "battles", "becometh": "becomes", "begetteth": "begets",
+    "beginneth": "begins", "beguileth": "beguiles", "behooveth": "behooves",
+    "blotteth": "blots", "causeth": "causes", "ceaseth": "ceases",
+    "celebrateth": "celebrates", "censeth": "censes", "cleanseth": "cleanses",
+    "cometh": "comes", "commiteth": "commits", "committeth": "commits",
+    "createth": "creates", "crieth": "cries", "cutteth": "cuts",
+    "danceth": "dances", "decreeth": "decrees", "defileth": "defiles",
+    "denieth": "denies", "describeth": "describes", "desireth": "desires",
+    "dieth": "dies", "dispelleth": "dispels", "doeth": "does",
+    "donateth": "donates", "draggeth": "drags", "driveth": "drives",
+    "droppeth": "drops", "dryeth": "dries", "edifieth": "edifies",
+    "emptieth": "empties", "endureth": "endures", "enticeth": "entices",
+    "envieth": "envies", "fadeth": "fades", "fleeth": "flees",
+    "flieth": "flies", "forbiddeth": "forbids", "forgetteth": "forgets",
+    "freeth": "frees", "freezeth": "freezes", "getteth": "gets",
+    "giveth": "gives", "glorifieth": "glorifies", "goeth": "goes",
+    "hateth": "hates", "hearkeneth": "gives ear", "hopeth": "hopes",
+    "illumineth": "illuminates", "inclineth": "inclines",
+    "intercedeth": "intercedes", "inundateth": "inundates",
+    "issueth": "issues", "judgeth": "judges", "justifieth": "justifies",
+    "knitteth": "knits", "letteth": "lets", "lieth": "lies",
+    "liveth": "lives", "looseth": "looses", "loveth": "loves",
+    "magnifieth": "magnifies", "maketh": "makes", "marvelleth": "marvels",
+    "moveth": "moves", "multiplieth": "multiplies", "permitteth": "permits",
+    "pitieth": "pities", "praiseth": "praises", "prepareth": "prepares",
+    "preserveth": "preserves", "procureth": "procures",
+    "prophesieth": "prophesies", "provoketh": "provokes",
+    "purifieth": "purifies", "putteth": "puts", "rageth": "rages",
+    "raiseth": "raises", "receiveth": "receives", "rejoiceth": "rejoices",
+    "riseth": "rises", "ruleth": "rules", "runneth": "runs",
+    "saith": "says", "sanctifieth": "sanctifies", "satisfieth": "satisfies",
+    "saveth": "saves", "schemeth": "schemes", "seeth": "sees",
+    "setteth": "sets", "shaketh": "shakes", "shareth": "shares",
+    "shippeth": "ships", "shineth": "shines", "shunneth": "shuns",
+    "shutteth": "shuts", "signifieth": "signifies", "sinneth": "sins",
+    "sitteth": "sits", "slippeth": "slips", "sprinkleth": "sprinkles",
+    "steppeth": "steps", "stirreth": "stirs", "stoppeth": "stops",
+    "striketh": "strikes", "strippeth": "strips", "submitteth": "submits",
+    "taketh": "takes", "tasteth": "tastes", "testifieth": "testifies",
+    "trampleth": "tramples", "trembleth": "trembles", "troubleth": "troubles",
+    "undergoeth": "undergoes", "waketh": "wakes", "warreth": "wars",
+    "winneth": "wins", "worshippeth": "worships", "writeth": "writes",
+}
+
+
+def _preserve_case_token(original: str, replacement: str) -> str:
+    if original.isupper():
+        return replacement.upper()
+    if original[0].isupper() and replacement:
+        return replacement[0].upper() + replacement[1:]
+    return replacement
+
+
+def _convert_3rd_person_eth_token(match: re.Match) -> str:
+    token = match.group(1)
+    wl = token.lower()
+    if wl in NON_VERB_ETH_TOKENS:
+        return token
+    if wl in EXACT_ETH_VERB_MAP:
+        return _preserve_case_token(token, EXACT_ETH_VERB_MAP[wl])
+    stem = wl[:-3]
+    if len(stem) < 2:
+        return token
+    if stem.endswith(("sh", "ch", "ss", "x", "z")):
+        mod = stem + "es"
+    else:
+        mod = stem + "s"
+    return _preserve_case_token(token, mod)
+
+
+def heal_cohort_and_apparatus_text(text: str, is_footnotes: bool = False) -> Tuple[str, bool]:
+    """
+    Universal dual-stage self-healing engine for both cohort body text and scholarly apparatus:
+      1. Strips UTF-8 BOMs (\\ufeff) and converts stray <sup>...</sup> HTML tags to Unicode superscripts.
+      2. Enforces Father Paul Doxology Standard ('for ever and ever' -> 'unto ages of ages').
+      3. Enforces MTS-1 Master Liturgical Vocabulary (Sedalen -> Sessional Hymn, Irmos -> Heirmos,
+         Apolytikion -> Troparion, Nekrosimon/Nekrosima -> Hymn(s) for the Departed (Поко́инъ), etc.)
+         while respecting (*...*) transliterated incipits.
+      4. Remediates AI slop & cliches ('poignant' -> 'penitential', 'beacon of' -> 'light of', etc.)
+         and rubrical 'shall'-bombing.
+      5. Normalizes 3rd-person '-eth' verbs while preserving 2nd-person archaic verbs (art/wast/hast/dost/shalt/wilt).
+      6. Normalizes unparenthesized Cyrillic marginalia/woodcut inscriptions into MTS-1 parenthetical format.
+    """
+    original = text
+    healed = text
+
+    # 1. Strip UTF-8 BOM
+    if healed.startswith("\ufeff"):
+        healed = healed.lstrip("\ufeff")
+
+    # 2. Convert stray <sup>...</sup> HTML tags to Unicode superscripts
+    def _sup_repl(m: re.Match) -> str:
+        inner = m.group(1).strip()
+        if inner and all(ch in "0123456789+-=()abcdefghijklmnoprstuvwxyz" for ch in inner.lower()):
+            return inner.lower().translate(SUPERSCRIPT_CHAR_MAP)
+        return f"[{inner}]"
+
+    healed = re.sub(r"<sup>(.*?)</sup>", _sup_repl, healed, flags=re.IGNORECASE)
+
+    # 3. Father Paul Doxology Standard
+    healed = re.sub(r"\bfor\s+ever\s+and\s+ever\b", "unto ages of ages", healed, flags=re.IGNORECASE)
+
+    # 4. Compound slash/parenthetical pre-cleanups before 1-to-1 vocabulary replacement
+    healed = re.sub(r"\bApolytikion\s*/\s*Troparion\b", "Troparion", healed, flags=re.IGNORECASE)
+    healed = re.sub(r"\(Kathisma\s*/\s*Sedalen\)", "(Kathisma)", healed, flags=re.IGNORECASE)
+    healed = re.sub(r"\(Sedalen\s*/\s*Kathisma\)", "(Kathisma)", healed, flags=re.IGNORECASE)
+
+    # 5. Nekrosimon / Nekrosima normalization
+    healed = re.sub(
+        r"(?m)^\*?(?:Nekrosimon|For\s+the\s+Departed\s*\[Поко́инъ\]):\*?(?=\s*(?:\[\^\d+\])?\s*$)",
+        "*Hymn for the Departed (Поко́инъ):*",
+        healed,
+        flags=re.IGNORECASE,
+    )
+    healed = re.sub(
+        r"\(Nekrosima\s*/\s*\*?Поко́ины\*?\)",
+        "(Hymns for the Departed / *Поко́ины*)",
+        healed,
+        flags=re.IGNORECASE,
+    )
+    healed = re.sub(
+        r"\bNekrosima\b(?!\s*\([^)]*Поко)",
+        "Hymns for the Departed (Поко́инъ)",
+        healed,
+        flags=re.IGNORECASE,
+    )
+    healed = re.sub(r"\bNekrosima\b", "Hymns for the Departed", healed, flags=re.IGNORECASE)
+    healed = re.sub(
+        r"\bNekrosimon\b(?!\s*\([^)]*Поко)",
+        "Hymn for the Departed (Поко́инъ)",
+        healed,
+        flags=re.IGNORECASE,
+    )
+    healed = re.sub(r"\bNekrosimon\b", "Hymn for the Departed", healed, flags=re.IGNORECASE)
+
+    # 6. Master Liturgical Vocabulary (Shared_Lexicon/master_liturgical_vocabulary.json)
+    vocab_file = PROJECT_ROOT.parent / "Shared_Lexicon" / "master_liturgical_vocabulary.json"
+    if vocab_file.exists():
+        try:
+            vocab_data = json.loads(vocab_file.read_text(encoding="utf-8"))
+            elements = vocab_data.get("liturgical_elements", {})
+            rules = []
+            for _key, entry in elements.items():
+                canonical = entry.get("tier_3_typikon", "")
+                plural_canonical = entry.get("plural_typikon", "")
+                if not canonical:
+                    continue
+                for raw_f in entry.get("forbidden_in_typikon", []) + entry.get("forbidden_variants", []):
+                    clean_f = re.sub(r"\(.*?\)", "", raw_f).strip()
+                    if not clean_f:
+                        continue
+                    repl = plural_canonical if (plural_canonical and clean_f.lower().endswith("i")) else canonical
+                    rules.append((re.compile(rf"\b{re.escape(clean_f)}\b", re.IGNORECASE), repl))
+
+            if rules:
+                out_lines = []
+                for ln in healed.splitlines():
+                    if ln.strip().startswith("```"):
+                        out_lines.append(ln)
+                        continue
+                    for pat, repl in rules:
+                        def _vocab_sub(m: re.Match, r: str = repl, line_ref: str = ln) -> str:
+                            before = line_ref[:m.start()]
+                            after = line_ref[m.end():]
+                            if "(*" in before and "*)" in after:
+                                last_open = before.rfind("(*")
+                                if "*)" not in before[last_open:]:
+                                    return m.group(0)
+                            if 'lit. "' in line_ref or "(lit. " in line_ref:
+                                return m.group(0)
+                            return _preserve_case_token(m.group(0), r)
+                        ln = pat.sub(_vocab_sub, ln)
+                    out_lines.append(ln)
+                healed = "\n".join(out_lines) + ("\n" if healed.endswith("\n") else "")
+        except (OSError, json.JSONDecodeError) as e:
+            print(f"  [Warning] Could not apply vocabulary healing ({e})", file=sys.stderr)
+
+    # 7. Anti-Slop & Cliche Replacements (Body & Footnotes)
+    slop_map = [
+        (r"\bverily\b", "truly"),
+        (r"\btwas\b", "it was"),
+        (r"\bbetwixt\b", "between"),
+        (r"\bmethinks\b", "it seems"),
+        (r"\bhearken\b", "give ear"),
+        (r"\bwherefore\b", "therefore"),
+        (r"\bperadventure\b", "perhaps"),
+        (r"\beffulgent\b", "radiant"),
+        (r"\bresplendent\b", "radiant"),
+        (r"\bbeholden\b", "obliged"),
+        (r"\blo and behold\b", "behold"),
+        (r"\bwondrous\b(?!\s+(?:is\s+God|art\s+Thou))", "marvelous"),
+        (r"\btestament to\b", "witness to"),
+        (r"\bbeacon of\b", "light of"),
+        (r"\bdelve into\b", "examine"),
+        (r"\btapestry of\b", "body of"),
+        (r"\brich history\b", "history"),
+        (r"\bserves as a reminder\b", "reminds us"),
+        (r"\binextricably linked\b", "closely joined"),
+        (r"\bpivotal moment\b", "turning point"),
+        (r"\bpoignant\b", "penitential"),
+        (r"\bneedless to say\b", "indeed"),
+        (r"\bit is important to remember\b", "note that"),
+    ]
+    for pat_str, repl in slop_map:
+        pat = re.compile(pat_str, re.IGNORECASE)
+        healed = pat.sub(lambda m, r=repl: _preserve_case_token(m.group(0), r), healed)
+
+    shall_verbs = {
+        "bow": "bows", "enter": "enters", "take": "takes", "cense": "censes",
+        "kiss": "kisses", "bless": "blesses", "proclaim": "proclaims",
+        "say": "says", "chant": "chants", "vest": "vests",
+    }
+    shall_pat = re.compile(
+        r"\b(the\s+(?:priest|deacon|bishop|choir|reader))\s+shall\s+(bow|enter|take|cense|kiss|bless|proclaim|say|chant|vest)\b",
+        re.IGNORECASE,
+    )
+    healed = shall_pat.sub(
+        lambda m: f"{m.group(1)} {shall_verbs.get(m.group(2).lower(), m.group(2) + 's')}",
+        healed,
+    )
+
+    # 8. 3rd-person -eth verb normalization
+    healed = re.sub(r"\b([A-Za-z]+eth)\b", _convert_3rd_person_eth_token, healed)
+
+    # 9. Epigraphic unparenthesized Cyrillic marginalia & woodcut inscription normalization
+    if not is_footnotes:
+        healed = re.sub(
+            r'"([\u0400-\u04FF][^"]+)"\s*\(([^)]+)\)',
+            r'"\2" (*\1*)',
+            healed,
+        )
+        healed = re.sub(
+            r"(initial\s+)'([\u0400-\u04FF]+)'",
+            r"\1(*\2*)",
+            healed,
+            flags=re.IGNORECASE,
+        )
+        healed = re.sub(
+            r"(inscribed\s+)([\u0400-\u04FF\s]+?)\s*\(([^)]+)\)",
+            lambda m: f'{m.group(1)}"{m.group(3).strip()}" (*{m.group(2).strip()}*)',
+            healed,
+            flags=re.IGNORECASE,
+        )
+
+    return healed, (healed != original)
+
+
 def clean_and_parse_footnotes(footnotes_file: Path) -> Dict[int, str]:
-    """Cleans cohort headers from footnotes file and returns footnote_number -> definition text."""
+    """Cleans cohort headers and heals MTS-1 vocabulary/slop/-eth in footnotes file, returning footnote_number -> definition text."""
     if not footnotes_file.exists():
         return {}
 
-    content = footnotes_file.read_text(encoding="utf-8")
+    content = footnotes_file.read_text(encoding="utf-8-sig")
     cleaned_content = re.sub(r"^#+\s*Cohort\s+\d+\s+Footnotes.*?\n+", "", content, flags=re.MULTILINE | re.IGNORECASE)
     cleaned_content = re.sub(r"\n{3,}", "\n\n", cleaned_content).strip()
+    cleaned_content, _ = heal_cohort_and_apparatus_text(cleaned_content, is_footnotes=True)
 
     if cleaned_content != content:
-        footnotes_file.write_text(cleaned_content, encoding="utf-8")
+        footnotes_file.write_text(cleaned_content + "\n", encoding="utf-8")
 
     fn_map: Dict[int, str] = {}
     pattern = re.compile(r"^\[\^(\d+)\]:\s*(.*?)(?=\n\[\^\d+\]:|\Z)", re.DOTALL | re.MULTILINE)
@@ -461,11 +735,35 @@ class UniversalPublicationEngine:
         print("[Step 3] Archiving raw cohort drafts to Cohorts/ folder...")
         self._archive_cohorts(cohort_files)
 
-        # 4. Read archived cohorts in strict order
+        # 4. Read and deterministically heal archived cohorts in strict order (persisting to disk)
         archived_cohorts = sorted(list(self.cohorts_dir.glob("*.md")), key=self._cohort_sort_key)
-        cohort_texts = [cf.read_text(encoding="utf-8") for cf in archived_cohorts]
+        cohort_texts: List[str] = []
+        healed_cohort_count = 0
+        draft_dir = self.ws_dir / "Draft"
+        for cf in archived_cohorts:
+            raw_c = cf.read_text(encoding="utf-8-sig")
+            healed_c, was_healed = heal_cohort_and_apparatus_text(raw_c, is_footnotes=False)
+            if was_healed:
+                cf.write_text(healed_c, encoding="utf-8")
+                healed_cohort_count += 1
+                # Synchronize Final/*cohort*.txt and Draft/*cohort*.md mirrors on disk if present
+                c_num_m = re.search(r"cohort0?(\d+)", cf.name, re.IGNORECASE)
+                if c_num_m:
+                    c_num = int(c_num_m.group(1))
+                    for f_txt in self.final_dir.glob(f"*cohort*{c_num}*.txt"):
+                        m_check = re.search(r"cohort0?(\d+)", f_txt.name, re.IGNORECASE)
+                        if m_check and int(m_check.group(1)) == c_num:
+                            f_txt.write_text(healed_c, encoding="utf-8")
+                    if draft_dir.exists():
+                        for d_md in draft_dir.glob(f"*cohort*{c_num}*.md"):
+                            m_check = re.search(r"cohort0?(\d+)", d_md.name, re.IGNORECASE)
+                            if m_check and int(m_check.group(1)) == c_num:
+                                d_md.write_text(healed_c, encoding="utf-8")
+            cohort_texts.append(healed_c)
+        if healed_cohort_count > 0:
+            print(f"  [Self-Healer] Synchronized MTS-1 vocabulary/slop/-eth healing across {healed_cohort_count} cohort files on disk.")
 
-        # 5. Parse master footnotes (purging cohort headers)
+        # 5. Parse master footnotes (purging cohort headers & healing apparatus on disk)
         fn_map = clean_and_parse_footnotes(self.footnotes_file)
         print(f"[Step 4] Parsed {len(fn_map)} clean master footnote definitions.")
 
@@ -565,6 +863,14 @@ class UniversalPublicationEngine:
         }
         all_deliverables.update(formatted_parts)
 
+        # Clean any stale modular part files from prior part-spec layouts before writing
+        for old_md in list(self.final_md_dir.glob(f"{self.monument_id}_part*.md")):
+            if old_md.name not in all_deliverables:
+                old_md.unlink()
+        for old_txt in list(self.final_dir.glob(f"{self.monument_id}_part*.txt")):
+            if (old_txt.stem + ".md") not in all_deliverables:
+                old_txt.unlink()
+
         for filename, content in all_deliverables.items():
             md_path = self.final_md_dir / filename
             md_path.write_text(content, encoding="utf-8")
@@ -590,6 +896,9 @@ class UniversalPublicationEngine:
         for stale_file in list(hub_inbox.glob("*cohort*")) + list(hub_inbox.glob("*.txt")):
             if stale_file.is_file():
                 stale_file.unlink()
+        for old_hub_part in list(hub_inbox.glob(f"{self.monument_id}_part*.md")):
+            if old_hub_part.name not in all_deliverables:
+                old_hub_part.unlink()
         for filename, content in all_deliverables.items():
             (hub_inbox / filename).write_text(content, encoding="utf-8")
 
@@ -677,6 +986,51 @@ class UniversalPublicationEngine:
             if not part_specs:
                 return {"part0": text}
 
+            # Universal Layout-B Octoechos Auto-Expansion:
+            # When the codex contains a consolidated Weekday Cycle ('# WEEKDAY OFFICES OF THE OCTOECHOS')
+            # not yet listed as its own modular Part in publication_spec, automatically expand part_specs
+            # and persist the updated schema to codex_registry.json.
+            has_weekday_h1 = any(re.match(r"^#\s+WEEKDAY\s+OFFICES\b", l.strip(), re.IGNORECASE) for l in lines)
+            has_weekday_part = any("weekday" in p.get("filename", "").lower() for p in part_specs)
+            if has_weekday_h1 and not has_weekday_part:
+                new_part_specs = []
+                for ps in part_specs:
+                    pid = ps["id"]
+                    m_tone_p = re.match(r"^Tone\s+(\d+):", ps.get("title", ""), re.IGNORECASE)
+                    if m_tone_p and "weekday" in ps.get("title", "").lower():
+                        ps["title"] = f"TONE {m_tone_p.group(1)}: SUNDAY RESURRECTIONAL HYMNOGRAPHY"
+                    if pid == "part8":
+                        new_part_specs.append(ps)
+                        new_part_specs.append({
+                            "id": "part9",
+                            "filename": f"{self.monument_id}_part9_weekday_offices.md",
+                            "title": "WEEKDAY OFFICES OF THE OCTOECHOS (MONDAY THROUGH SATURDAY)",
+                            "start_landmark": r"^#\s+WEEKDAY\s+OFFICES\b",
+                        })
+                    elif pid == "part9":
+                        ps_copy = dict(ps)
+                        ps_copy["id"] = "part10"
+                        ps_copy["filename"] = re.sub(r"_part9_", "_part10_", ps_copy.get("filename", f"{self.monument_id}_part10_exapostilaria_and_colophon.md"))
+                        new_part_specs.append(ps_copy)
+                    else:
+                        new_part_specs.append(ps)
+                part_specs = new_part_specs
+                self.pub_spec["parts"] = part_specs
+                self.registry["monuments"][self.monument_id]["publication_spec"] = self.pub_spec
+                REGISTRY_FILE.write_text(json.dumps(self.registry, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+                print(f"  [Universal Engine] Auto-expanded Consolidated Weekday Cycle into {self.monument_id}_part9_weekday_offices.md (persisted to codex_registry.json).")
+            elif has_weekday_part:
+                updated_titles = False
+                for ps in part_specs:
+                    m_tone_p = re.match(r"^Tone\s+(\d+):", ps.get("title", ""), re.IGNORECASE)
+                    if m_tone_p and "weekday" in ps.get("title", "").lower():
+                        ps["title"] = f"TONE {m_tone_p.group(1)}: SUNDAY RESURRECTIONAL HYMNOGRAPHY"
+                        updated_titles = True
+                if updated_titles:
+                    self.pub_spec["parts"] = part_specs
+                    self.registry["monuments"][self.monument_id]["publication_spec"] = self.pub_spec
+                    REGISTRY_FILE.write_text(json.dumps(self.registry, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+
             landmarks = []
             last_idx = 0
             for ps in part_specs:
@@ -715,10 +1069,45 @@ class UniversalPublicationEngine:
 
         landmarks.sort(key=lambda x: x[1])
 
+        # Pre-compute opening headpiece lines immediately preceding each Part landmark (i > 0)
+        # so opening [f. X] + [Woodcut Headpiece...] lines start the new Part rather than bleeding into the end of the previous Part.
+        opening_headpiece_re = re.compile(
+            r"^(?:\[(?:f\.\s*[^\]]+|p\d+[LR][AB]?)\]\s*)?\[(?:Woodcut(?!\s+tailpiece)|Primary\s+ornamental\s+woodcut\s+headpiece|Ornamental\s+woodcut\s+headpiece|Headpiece)\b",
+            re.IGNORECASE,
+        )
+        effective_bounds: List[Tuple[int, int, List[str]]] = []
+        raw_starts = [lm[1] for lm in landmarks]
+        raw_ends = [landmarks[i + 1][1] if i + 1 < len(landmarks) else len(lines) for i in range(len(landmarks))]
+        pre_headpieces_by_part: Dict[int, List[str]] = {i: [] for i in range(len(landmarks))}
+
+        for i in range(1, len(landmarks)):
+            s_idx = raw_starts[i]
+            # Check up to 3 lines immediately preceding s_idx
+            k = s_idx - 1
+            moved_lines: List[str] = []
+            earliest_moved = s_idx
+            while k >= max(raw_starts[i - 1], s_idx - 4):
+                cand = lines[k].strip()
+                if not cand:
+                    k -= 1
+                    continue
+                if opening_headpiece_re.match(cand):
+                    moved_lines.insert(0, cand)
+                    earliest_moved = k
+                    k -= 1
+                else:
+                    break
+            if moved_lines:
+                raw_ends[i - 1] = earliest_moved
+                pre_headpieces_by_part[i] = moved_lines
+
+        for i in range(len(landmarks)):
+            effective_bounds.append((raw_starts[i], raw_ends[i], pre_headpieces_by_part[i]))
+
         parts_raw: Dict[str, str] = {}
         for i in range(len(landmarks)):
             pid, start_idx, title = landmarks[i]
-            end_idx = landmarks[i+1][1] if i + 1 < len(landmarks) else len(lines)
+            _, end_idx, pre_hp_lines = effective_bounds[i]
             chunk = "\n".join(lines[start_idx:end_idx]).strip()
 
             if pid == "part0":
@@ -727,28 +1116,43 @@ class UniversalPublicationEngine:
                     chunk = re.sub(r"\*{0,2}(No\.\s*1195/Ord\.)\*{0,2}", r"## Approbation and Imprimatur\n\n**\1**", chunk, count=1)
                 if "## Dedication" not in chunk:
                     chunk = re.sub(r"(To the glory\s*\nof the All-Holy)", r"## Dedication\n\n\1", chunk, count=1)
-                master_title_slug = slugify(self.pub_spec.get("master_title", ""))
+                master_title_str = self.pub_spec.get("master_title", "")
+                master_title_slug = slugify(master_title_str)
                 if master_title_slug and f'<a id="{master_title_slug}">' not in chunk:
-                    if re.search(r"^#\s+[^\n]+", chunk, flags=re.MULTILINE):
+                    first_h1_m = re.search(r"^#\s+([^\n]+)", chunk, flags=re.MULTILINE)
+                    if first_h1_m and slugify(first_h1_m.group(1)) == master_title_slug:
                         chunk = re.sub(r"^(#\s+[^\n]+)", rf'\1 <a id="{master_title_slug}"></a>', chunk, count=1, flags=re.MULTILINE)
                     else:
-                        chunk = f'# {self.pub_spec.get("master_title", "")} <a id="{master_title_slug}"></a>\n\n' + chunk
+                        # Demote any internal H1s in part0 (e.g. '# PREFACE: TO THE READER') to H2 and prepend master H1
+                        chunk = re.sub(r"^#\s+", "## ", chunk, flags=re.MULTILINE)
+                        chunk = f'# {master_title_str} <a id="{master_title_slug}"></a>\n\n' + chunk
 
             # Ensure proper H1 header for modular parts > 0
             if i > 0:
+                hp_block = ("\n\n".join(pre_hp_lines) + "\n\n") if pre_hp_lines else ""
                 m_h = re.match(r"^(#+)\s*(.+)$", lines[start_idx].strip())
                 if m_h:
                     matched_heading = m_h.group(2).strip()
                     # If matched line was a generic Part title (e.g. Dolnytsky '# Part I.'), replace it
                     if re.match(r"^Part\s+[IVXLCDM\d]+[\.:\s]", matched_heading, re.IGNORECASE):
-                        chunk = f"# {title}\n\n" + re.sub(r"^#+\s*.*?\n+", "", chunk, count=1).lstrip()
+                        chunk = f"# {title}\n\n{hp_block}" + re.sub(r"^#+\s*.*?\n+", "", chunk, count=1).lstrip()
                     else:
                         # Preservative landmark: normalize as H2 and clean subagent numbering prefixes
                         norm_heading = re.sub(r"^(?:\d+[\.\)]\s+)?(?:Decrees of the Ruthenian Provincial Synod:[ \t]*)?", "", matched_heading).strip()
                         body_without_landmark = re.sub(r"^#+\s*.*?\n+", "", chunk, count=1).lstrip()
-                        chunk = f"# {title}\n\n## {norm_heading}\n\n{body_without_landmark}"
+                        # Suppress redundant H2 echo when norm_heading is already subsumed by the H1 Part title
+                        norm_prefix = norm_heading.split("(")[0].strip().lower()
+                        first_word = norm_prefix.split()[0] if norm_prefix.split() else ""
+                        if (
+                            norm_heading.lower() in title.lower()
+                            or (norm_prefix and norm_prefix in title.lower())
+                            or (len(first_word) >= 6 and title.lower().startswith(first_word))
+                        ):
+                            chunk = f"# {title}\n\n{hp_block}{body_without_landmark}"
+                        else:
+                            chunk = f"# {title}\n\n{hp_block}## {norm_heading}\n\n{body_without_landmark}"
                 else:
-                    chunk = f"# {title}\n\n" + chunk
+                    chunk = f"# {title}\n\n{hp_block}" + chunk
 
             parts_raw[pid] = chunk
 

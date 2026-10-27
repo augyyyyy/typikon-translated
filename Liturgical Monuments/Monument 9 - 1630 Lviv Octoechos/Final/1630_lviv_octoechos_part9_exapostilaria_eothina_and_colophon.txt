@@ -2,11 +2,11 @@
 
 ## EXAPOSTILARIA AND EVANGELICAL STICHERA
 
-Resurrectional Exaposteilaria and Evangelical Stichera
+[f. 1rA] Resurrectional Exaposteilaria and Evangelical Stichera
 
 Tone 1. Exaposteilarion 1:
 
-Let us go up with the disciples into the mountain of Galilee, by faith to behold Christ saying: Authority over the highest and lowest hath been received; let us learn how He teacheth to baptize in the Name of the Father, and of the Son, and of the Holy Spirit, and to abide with the initiates of the mysteries, even as He promised, unto the end of the age. (Twice)
+Let us go up with the disciples into the mountain of Galilee, by faith to behold Christ saying: Authority over the highest and lowest hath been received; let us learn how He teaches to baptize in the Name of the Father, and of the Son, and of the Holy Spirit, and to abide with the initiates of the mysteries, even as He promised, unto the end of the age. (Twice)
 
 Theotokion:
 
@@ -22,7 +22,7 @@ Beholding the stone rolled away, the Myrrh-bearing women rejoiced; for they saw 
 
 Theotokion:
 
-An angel indeed brought unto the Virgin the 'Rejoice!' before Thy conception, O Christ; and an angel also rolled away the stone from Thy tomb; in the place of sorrow, the one indeed brought signs of ineffable joy...[^341] [f. 1vA] of ineffable joy, while the other, in place of death, proclaimed and magnified Thee, the Giver of life, and declared the Resurrection unto the initiates of the mysteries.
+An angel indeed brought unto the Virgin the 'Rejoice!' before Thy conception, O Christ; and an angel also rolled away the stone from Thy tomb; in the place of sorrow, the one indeed brought signs of ineffable joy[^341] [f. 1vA] while the other, in place of death, proclaimed and magnified Thee, the Giver of life, and declared the Resurrection unto the initiates of the mysteries.
 
 Evangelical Stichera 2. Tone 2:
 
@@ -34,7 +34,7 @@ That Christ is risen, let no one disbelieve! For He appeared unto Mary, and was 
 
 Theotokion:
 
-Thou hast shone forth, O Sun, from the tomb today as a Bridegroom from his bridal chamber, and hast despoiled hades; by the maternal prayers of her who bore Thee, send down Light upon us: the Light that illumineth hearts and souls, a light for all souls to walk, setting their steps upon the paths of Thy commandments and into the way of peace!
+Thou hast shone forth, O Sun, from the tomb today as a Bridegroom from his bridal chamber, and hast despoiled hades; by the maternal prayers of her who bore Thee, send down Light upon us: the Light that illuminates hearts and souls, a light for all souls to walk, setting their steps upon the paths of Thy commandments and into the way of peace!
 
 Evangelical Stichera 3. Tone 3:[^342]
 
@@ -46,11 +46,11 @@ Enlightened by the virtues, having seen the men standing in shining garments at 
 
 Theotokion:
 
-From thy womb, O Virgin, the Lord having become incarnate, willed to recall the perishing world from corruption, even as the Almighty One knoweth; and finding salvation in thee, O Theotokos, we all cry aloud unto thee as the angel: Rejoice, thou who alone art pure and most blessed among women, who didst bear salvation unto all the universe!
+From thy womb, O Virgin, the Lord having become incarnate, willed to recall the perishing world from corruption, even as the Almighty One knows; and finding salvation in thee, O Theotokos, we all cry aloud unto thee as the angel: Rejoice, thou who alone art pure and most blessed among women, who didst bear salvation unto all the universe!
 
 Evangelical Stichera 4. Tone 4:
 
-Very early in the morning the women came unto Thy Tomb, O Christ, but the Body loved by them was not found; therefore, while they were perplexed, those standing by in shining garments said: Why seek ye the Living among the dead?...[^343] [f. 2vA] He is risen, even as He said before! Why do ye not remember His words? Believing whom, they preached what they had seen; but their glad tidings seemed to be idle tales: so dull of understanding were the disciples yet. But Peter ran, and saw, and glorified Thy all-powerful wonders!
+Very early in the morning the women came unto Thy Tomb, O Christ, but the Body loved by them was not found; therefore, while they were perplexed, those standing by in shining garments said: Why seek ye the Living among the dead?[^343] [f. 2vA] He is risen, even as He said before! Why do ye not remember His words? Believing whom, they preached what they had seen; but their glad tidings seemed to be idle tales: so dull of understanding were the disciples yet. But Peter ran, and saw, and glorified Thy all-powerful wonders!
 
 Tone 5. Exaposteilarion 5:
 
@@ -62,7 +62,7 @@ The Creator of creation and God of all things, having taken earthly flesh from t
 
 Evangelical Stichera 5. Tone 5:
 
-O how wise are Thy judgments, O Christ! How unto Peter indeed by the grave-clothes alone Thou gavest understanding of Thy Resurrection; and walking with Luke and Cleopas, Thou didst converse with them, and didst not reveal Thyself unto them quickly; therefore Thou wast reproached as being the only stranger in Jerusalem who knew not the counsel thereof unto the end; yet ordering all things unto the profit of creation, Thou didst unveil the prophetic words concerning Thyself; and in the blessing of the bread Thou wast made known unto them, whose hearts before that were kindled unto the knowledge of Thee; who also, when the disciples were gathered together, already clearly preached...[^344] [f. 3rA] Thy Resurrection, through which have mercy on us!
+O how wise are Thy judgments, O Christ! How unto Peter indeed by the grave-clothes alone Thou gavest understanding of Thy Resurrection; and walking with Luke and Cleopas, Thou didst converse with them, and didst not reveal Thyself unto them quickly; therefore Thou wast reproached as being the only stranger in Jerusalem who knew not the counsel thereof unto the end; yet ordering all things unto the profit of creation, Thou didst unveil the prophetic words concerning Thyself; and in the blessing of the bread Thou wast made known unto them, whose hearts before that were kindled unto the knowledge of Thee; who also, when the disciples were gathered together, already clearly preached[^344] [f. 3rA] Thy Resurrection, through which have mercy on us!
 
 Tone 6. Exaposteilarion 6:
 
@@ -90,7 +90,7 @@ Behold, it was darkness and early; and why, O Mary, standest thou at the tomb, h
 
 Tone 8. Exaposteilarion 8:
 
-Beholding two angels within the tomb, Mary was amazed; and not knowing Christ, she asked Him as the gardener: Sir, where hast Thou laid the body of my Jesus?...[^346] [f. 4rA] and recognizing Him by His call, she heard that He was the Savior Himself: Touch Me not, for I ascend unto the Father; say unto My brethren!
+Beholding two angels within the tomb, Mary was amazed; and not knowing Christ, she asked Him as the gardener: Sir, where hast Thou laid the body of my Jesus?[^346] [f. 4rA] and recognizing Him by His call, she heard that He was the Savior Himself: Touch Me not, for I ascend unto the Father; say unto My brethren!
 
 Theotokion:
 
@@ -98,7 +98,7 @@ O Maiden, thou didst ineffably give birth unto One of the Trinity in two natures
 
 Evangelical Stichera 8. Tone 8:
 
-Mary's tears are not poured forth warmly in vain; for behold, she was accounted worthy of angelic teachings, and of the sight of Jesus Himself; yet she still mindeth earthly things, as a frail woman; therefore she is forbidden to touch Christ, but is sent forth as a herald unto His disciples, unto whom she declared the glad tidings, announcing His ascent unto the Father's inheritance: with her, account us also worthy of Thine appearance, O Master and Lord!
+Mary's tears are not poured forth warmly in vain; for behold, she was accounted worthy of angelic teachings, and of the sight of Jesus Himself; yet she still minds earthly things, as a frail woman; therefore she is forbidden to touch Christ, but is sent forth as a herald unto His disciples, unto whom she declared the glad tidings, announcing His ascent unto the Father's inheritance: with her, account us also worthy of Thine appearance, O Master and Lord!
 
 Evangelical 9. Exaposteilarion 9. Tone 5:
 
@@ -122,7 +122,7 @@ Worshipping Thine honored icon, O all-pure one: show us to be children of the li
 
 Evangelical Stichera 10. Tone 6:
 
-After the descent into hades and the Resurrection from the dead, Thy disciples, sorrowing over Thy parting, O Christ, turned unto labor; and again there were boats and nets, but no catch at all; but Thou, O Savior, appearing as the Master of all, commandest them to cast the net on the right side; and straightway the word became deed, and the multitude of fish was great; and a strange supper...[^348] [f. 5rA] was ready on the earth; of which Thy disciples having partaken then, account us also now worthy spiritually to be filled, O Lord, Lover of mankind!
+After the descent into hades and the Resurrection from the dead, Thy disciples, sorrowing over Thy parting, O Christ, turned unto labor; and again there were boats and nets, but no catch at all; but Thou, O Savior, appearing as the Master of all, commandest them to cast the net on the right side; and straightway the word became deed, and the multitude of fish was great; and a strange supper[^348] [f. 5rA] was ready on the earth; of which Thy disciples having partaken then, account us also now worthy spiritually to be filled, O Lord, Lover of mankind!
 
 Evangelical 11. Exaposteilarion 11. Tone 2:
 
@@ -142,9 +142,7 @@ End of the Evangelical Stichera, on the 11th day of March in the year 1631.
 
 [Secondary note in cursive hand:]
 
-On the 11th day of March in the year 1631...[^349]
-
-[f. 266vA] [Autograph memorandum in blue ballpoint script recording the clandestine preservation of this Octoechos during Soviet anti-religious persecutions:][^350]
+On the 11th day of March in the year 1631[^349] [f. 266vA] [Autograph memorandum in blue ballpoint script recording the clandestine preservation of this Octoechos during Soviet anti-religious persecutions:][^350]
 
 Makar Mykola,
 
@@ -168,7 +166,7 @@ State Museum of the Book and Printing of the Ukrainian SSR
 
 Fond 2124
 
-Inventory No. CD-97 [f. p267RA] [Monumental seventeenth-century blind-tooled calfskin binding over bevelled wooden boards. The decorative program consists of an outer rectangular border impressed with a Renaissance floral and vine roll, enclosed within triple fillet blind lines; an intermediate frieze of palmette scrolls; and an inner rectangular panel divided into two quadripartite compartments by diagonal blind fillets forming cross-hatched triangular fields. Along the fore-edge are affixed three chased brass clasp catches mounted upon layered calfskin thongs with brass rivets, matching the front board fittings and preserving the volume under tension. Marking the physical completion of Monument 9: 1630 Lviv Octoechos.][^351]
+Inventory No. CD-97 [p267RA] [Monumental seventeenth-century blind-tooled calfskin binding over bevelled wooden boards. The decorative program consists of an outer rectangular border impressed with a Renaissance floral and vine roll, enclosed within triple fillet blind lines; an intermediate frieze of palmette scrolls; and an inner rectangular panel divided into two quadripartite compartments by diagonal blind fillets forming cross-hatched triangular fields. Along the fore-edge are affixed three chased brass clasp catches mounted upon layered calfskin thongs with brass rivets, matching the front board fittings and preserving the volume under tension. Marking the physical completion of Monument 9: 1630 Lviv Octoechos.][^351]
 
 ---
 

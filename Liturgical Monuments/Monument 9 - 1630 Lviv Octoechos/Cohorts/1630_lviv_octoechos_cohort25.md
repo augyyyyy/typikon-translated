@@ -29,7 +29,7 @@ Ode 7. Heirmos:
 Thou Who didst save the Children from the fire through the Angel, and didst turn the furnace roaring with flames into cool dew: Blessed art Thou, O Lord God of our fathers!
 Troparia:
 [4] Since I was conceived and born in iniquities, O compassionate One: I have sinned more than all men: grant me a time of conversion that will justify me!
-[5] Having exalted myself foolishly as formerly the Pharisee, I have fallen down in a grievous fall, and the adversary rejoiceth over my fall; O Word of God, despise me not!
+[5] Having exalted myself foolishly as formerly the Pharisee, I have fallen down in a grievous fall, and the adversary rejoices over my fall; O Word of God, despise me not!
 Martyrs:
 [6] The assembly of the honored Martyrs, the invincible army, the holy regiment: having shown themselves surpassingly upon the earth, they dwell in the heavens!
 [7] Having endured suffering with fortitude, the Martyrs, mediating immortality: pour forth a stream of healings, putting human passions to shame!
@@ -47,7 +47,7 @@ Thou Who didst establish the earth upon understanding:
 Theotokion:
 [4] O chosen Ewe-lamb of God the Word: entreat Christ Who was incarnate of thee, that He may number me with the chosen sheep at the dread hour!
 Ode 8. Heirmos:
-Thou Who coverest Thy high chambers with waters, Who settest the sand as a bound unto the sea, and Who upholdest all things: the sun chanteth praise unto Thee, the moon glorifieth Thee, all creation bringeth praise unto Thee, as the Creator of all unto ages!
+Thou Who coverest Thy high chambers with waters, Who settest the sand as a bound unto the sea, and Who upholdest all things: the sun chants praise unto Thee, the moon glorifies Thee, all creation brings praise unto Thee, as the Creator of all unto ages!
 Troparia:
 [5] O my soul, thou hast greatly defiled thy hands with evil deeds: and how wilt thou lift them up on high unto the all-knowing God? Thou hast made thy feet unprofitable, walking in lewd ways: make haste to lay hold of the paths of salvation through repentance!
 [6] I have never walked in Thy commandments, O Lord; I have not performed Thy will for even a single day, O Good One: how then shall I look upon Thee with mine eyes when Thou sittest to execute righteous judgment, sending the guilty into the fire of gehenna?
@@ -61,7 +61,7 @@ Theotokion:
 [3] Tossed about by the storm of sin, I cry aloud unto thee, O good and pure one: by thy mediation direct me unto saving repentance and unto the eternal haven: that I, who am continually darkened by slothfulness, may know the light of salvation!
 Another Heirmos: The beginningless King:
 (Canon to the Forerunner)
-[4] Entreat the Lamb of God Who beareth away the sin of the world, Whom thou didst point out unto all, O Forerunner: to put my passions to death and to save my soul!
+[4] Entreat the Lamb of God Who bears away the sin of the world, Whom thou didst point out unto all, O Forerunner: to put my passions to death and to save my soul!
 [5] Lighten the burden of my soul, O Baptist of the Lord, vanquishing them that burn me: and show me uninjured from their malice!
 [6] Thou didst withdraw far off, O Forerunner, and didst make thy dwelling in the impassable wilderness: therefore I pray thee, quickly extinguish the burning passions of my soul!
 Theotokion:
@@ -157,7 +157,7 @@ Of the Cross, Tone 8.
 ##### Column A
 [1] ...O Christ God, glory to Thee!
 Glory... Both now... Stavrotheotokion:
-[2] Beholding the Lamb, Pastor, and Deliverer unjustly lifted up upon the Cross, the Ewe-lamb wept bitterly and cried aloud: The world indeed rejoiceth, receiving redemption through Thee; but my maternal heart burneth, beholding Thy Crucifixion which Thou endurest for the tender mercy of Thy compassion, O most good, sinless Lord! Therefore with one accord let us cry aloud: O Virgin, have compassion upon us, and deliver thy servants from every distress!
+[2] Beholding the Lamb, Pastor, and Deliverer unjustly lifted up upon the Cross, the Ewe-lamb wept bitterly and cried aloud: The world indeed rejoices, receiving redemption through Thee; but my maternal heart burns, beholding Thy Crucifixion which Thou endurest for the tender mercy of Thy compassion, O most good, sinless Lord! Therefore with one accord let us cry aloud: O Virgin, have compassion upon us, and deliver thy servants from every distress!
 After the 2nd Kathisma, Sessional Hymns:
 Of the Cross, Tone 8.
 [3] In the midst of Eden a tree budded forth death; but in the midst of all the earth, the Tree blossomed life. For having tasted of the first fruit, being incorrupt, we became corrupt; but having obtained the second, we have enjoyed incorruption: for by the Cross we have been saved, since God is the Deliverer of the human race!
@@ -290,12 +290,12 @@ The fire was ashamed before the condescension of God: Thou wast pierced in Thy h
 [2] Thou wast nailed in Thy hands and feet with nails, O Savior, when Thou wast crucified, and pierced in the side: pouring forth streams of forgiveness unto all them that unceasingly sing praise, saying: Blessed is the God of our fathers!
 Martyrs:
 [3] The Martyrs of God formed a choir, singing praise: being numbered with the angelic ranks, and enlightening the earth, and ever chanting: Blessed is the God of our fathers!
-[4] The universe, being illumined with the splendors of the Saints, sendeth up sanctification and deliverance unto all them that praise you, O divine Martyrs, and sing praise unto Christ: Blessed art Thou, O God of our fathers!
+[4] The universe, being illumined with the splendors of the Saints, sends up sanctification and deliverance unto all them that praise you, O divine Martyrs, and sing praise unto Christ: Blessed art Thou, O God of our fathers!
 Stavrotheotokion:
 [5] How hath the unwaning Sun set, crucified upon the Tree? cried the Virgin unto Thee, O Word; and seeing it, the sun stayed its course, unable to shine: while Thou sufferest, O Master, I praise Thy guilelessness, O my Son!
 Another Heirmos: The Children from Judea:
 (Canon to Theotokos)
-[6] I pray thee, O all-pure one: put to death the sin that dwelleth in me, and account me worthy to attain life, O Virgin, and deliver me from the portion of them that are tormented there!
+[6] I pray thee, O all-pure one: put to death the sin that dwells in me, and account me worthy to attain life, O Virgin, and deliver me from the portion of them that are tormented there!
 [7] Diverse passions surround me: O pure one who didst bear the Fountain of passionlessness, deliver me from their dominion and from eternal fire, O Theotokos, by thy prayers!
 [8] Through willful inclination I have sinned, and I am enslaved to disorderly habits: renew me who now flee unto thy tender mercy, and save me from despair, O all-holy Theotokos: quench...[^324]
 
@@ -333,7 +333,7 @@ Troparia:
 [1] ...and all the might of the adversary fell down: and all the earth was sanctified by the blood and water poured forth from Thy ribs: therefore we unceasingly magnify Thee, O all-compassionate One!
 Martyrs:
 [2] Blessed holy Martyrs: ye loosed the bonds of the wicked one, and by the fetters which ye patiently endured ye bound him, and made him subject beneath your feet, filled with shame and made a laughing-stock unto the beholders by divine grace!
-[3] The earth was sanctified by the laying down of the relics of the holy Martyrs; for it poureth forth a fountain of great healings: these things divinely establish us, unceasingly curing the passions of body and soul, and banishing the malice of demons by divine grace!
+[3] The earth was sanctified by the laying down of the relics of the holy Martyrs; for it pours forth a fountain of great healings: these things divinely establish us, unceasingly curing the passions of body and soul, and banishing the malice of demons by divine grace!
 Stavrotheotokion:
 [4] Having escaped maternal pains at the time of Thy birthgiving, O Long-suffering One: yet now beholding Thee partaking of the pains of suffering, and having received Thee upon her knees from the Cross, the all-pure one was filled with grief of heart and soul, and cried aloud: whom worthily we magnify!
 Another Heirmos: Amazed was every ear:
@@ -438,7 +438,7 @@ Troparia:
 [3] Close friends of the Deliverer: deliver me from friendship with passions, who am overcome by many deceptions of life, and covered by the night of ignorance!
 [4] Heal the weapon-wounded of the wicked one, being the arrows of the Mighty One, O divine Apostles: unto them that flee under your protection in faith!
 Theotokion:
-[5] He that is full emptieth Himself in godlike manner, and issueth from thy womb bearing flesh, O pure Mother: saving by His compassion them that were deceived by the malice of the serpent!
+[5] He that is full empties Himself in godlike manner, and issues from thy womb bearing flesh, O pure Mother: saving by His compassion them that were deceived by the malice of the serpent!
 Another Canon to Saint Nicholas.
 Composition of Joseph.
 Ode 1. Tone 8. Heirmos:
@@ -451,7 +451,7 @@ Unto Him Who cleft the unhewn sea:
 Theotokion:
 [3] Beyond the laws of nature thou didst bear God the Lawgiver, Who became man: entreat Him as good, O all-immaculate one, to overlook our iniquities, who ever cry aloud: Let us sing unto the Lord, for He is gloriously glorified!
 Ode 3. Heirmos:
-Thou art the establishment of them that flee unto Thee, O Lord, Thou art the Light of the darkened: and my spirit chanteth praise unto Thee!
+Thou art the establishment of them that flee unto Thee, O Lord, Thou art the Light of the darkened: and my spirit chants praise unto Thee!
 Troparia:
 [4] Gird my fainting heart with power, O Apostles of the Savior, and by your noetic thoughts, O brightest divine radiance: destroy the darkness of polytheism!
 [5] Heal the cruelest woundings of my heart, as physicians with divine motion of the hands, O Disciples of our God!
@@ -465,7 +465,7 @@ Another Heirmos the same.[^327]
 ##### Column A
 (Canon to Saint Nicholas)
 [1] That we may honor thee and sing praise unto thee, O holy one: grant us a hand of help, O hierarch Nicholas!
-[2] Put to sleep, O Nicholas, by thine unsleeping prayers, the affliction that riseth up against us, we pray thee!
+[2] Put to sleep, O Nicholas, by thine unsleeping prayers, the affliction that rises up against us, we pray thee!
 [3] Heal me who am wholly surrounded by passions and by the temptations of wicked men, by thine intercession, O Saint Nicholas!
 Theotokion:
 [4] Pray thou, O pure one, unto the Deliverer to grant me forgiveness of sins and deliverance from the cruel distresses of life!
@@ -494,7 +494,7 @@ Troparia:
 [5] O eyewitnesses of God in the Spirit: deliver me who am caught in the snare of dishonorable deeds, we pray you!
 [6] Having emulated the holy Sufferings of the Savior: drive away all voluptuousness from my soul, O Apostles!
 Theotokion:
-[7] Heal my sick soul, O all-pure Sovereign Lady: who didst bear Him Who beareth away the diseases of all!
+[7] Heal my sick soul, O all-pure Sovereign Lady: who didst bear Him Who bears away the diseases of all!
 Another Heirmos the same:
 (Canon to Saint Nicholas)
 [8] Strengthen us by thy prayers, O divinely blessed Nicholas, to keep the commandments of Christ, our only God!
@@ -521,13 +521,13 @@ Another Heirmos the same:
 ##### Column B
 [1] ...to make citizens of Paradise all of us that have acquired thee as a fervent protector!
 [2] In slothfulness I pass my life, and unceasingly I sin, wretched one: and I behold that ineffable judgment there, and I am seized with fear: have compassion upon me, O God, by the prayers of Nicholas, as Thou art compassionate!
-[3] Against the storm of manifold temptations that suddenly cometh upon me for the multitude of my sins, I cry: Leave me not, O blessed one, without protection; but stretch forth unto me a hand of merciful help, and save me!
+[3] Against the storm of manifold temptations that suddenly comes upon me for the multitude of my sins, I cry: Leave me not, O blessed one, without protection; but stretch forth unto me a hand of merciful help, and save me!
 Theotokion:
 [4] Palace of the high King, and fiery throne wast thou, O Virgin, higher than the Cherubim and Seraphim beyond understanding: therefore let every breath glorify thee as the Mother of the Creator!
 Ode 7. Heirmos:
 The Hebrew Children in the furnace boldly trampled upon the flame, and turned the fire into dew, crying aloud: Blessed art Thou, O Lord God of our fathers!
 Troparia:
-[5] The night of slothfulness holdeth me fast, and the darkness of sin covereth me: O all-wise Apostles who were revealed as the light of the world, hasten to enlighten my darkened heart!
+[5] The night of slothfulness holds me fast, and the darkness of sin covers me: O all-wise Apostles who were revealed as the light of the world, hasten to enlighten my darkened heart!
 [6] Revealed as another heaven, declaring the glory of our God: deliver from the misery of passions, O divine heralds, them that flee in faith under your mighty protection!
 [7] Revealed as fiery coals, O Apostles: kindled by the fire of the Comforter...[^328]
 
