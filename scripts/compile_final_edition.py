@@ -770,9 +770,14 @@ class UniversalPublicationEngine:
         # 6. Scaffolding Purging & Seam Stitching
         print("[Step 5] Purging academic scaffolding and stitching cohort seams...")
         source_dir = self.ws_dir / "Source Text"
-        is_hymnographic = (source_dir.exists() and bool(list(source_dir.glob("*source.txt"))))
+        is_hymnographic_2up = (
+            source_dir.exists()
+            and bool(list(source_dir.glob("*source.txt")))
+            and self.cfg.get("opening_geometry") != "1-up"
+            and "octoechos" in self.monument_id.lower()
+        )
 
-        if is_hymnographic:
+        if is_hymnographic_2up:
             print("  [Hymnographic Engine] Running 2-up seam stitching, stanza formatting, and primitive normalization...")
             from scripts.hymnographic_gold_normalizer import process_monument_cohorts
             stitched_body, stats = process_monument_cohorts(
@@ -882,7 +887,7 @@ class UniversalPublicationEngine:
                 txt_path.write_text(content, encoding="utf-8")
 
         # Step 10.5: Emit Podoben Grid from fresh master complete edition
-        if is_hymnographic or "octoechos" in self.monument_id.lower():
+        if is_hymnographic_2up or "octoechos" in self.monument_id.lower():
             try:
                 from scripts.generate_podoben_grid import emit_podoben_grid
                 emit_podoben_grid(self.monument_id)
@@ -1195,7 +1200,7 @@ class UniversalPublicationEngine:
             for line in raw_text.splitlines():
                 m = re.match(r"^##\s+(.+)$", line.strip())
                 if m:
-                    sub_title = m.group(1).strip()
+                    sub_title = re.sub(r"\[\^\d+\]", "", m.group(1)).strip()
                     sub_slug = slugify(sub_title)
                     if sub_slug in ["table-of-contents", "notes", "footnotes", "scholarly-critical-apparatus-footnotes"]:
                         continue
