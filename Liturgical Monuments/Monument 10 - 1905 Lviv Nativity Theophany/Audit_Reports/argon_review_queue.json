@@ -1,0 +1,1042 @@
+{
+  "monument_id": "1905_lviv_nativity_theophany",
+  "updated_at": "2026-10-27T08:48:10.622402+00:00",
+  "total_queued_leaves": 0,
+  "unresolved_quarantines": 0,
+  "items": [
+    {
+      "leaf_num": 65,
+      "cohort": 7,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort7_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort7_source.txt",
+      "updated_at": "2026-10-27T03:59:30.048680+00:00"
+    },
+    {
+      "leaf_num": 66,
+      "cohort": 7,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort7_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort7_source.txt",
+      "updated_at": "2026-10-27T03:59:30.048830+00:00"
+    },
+    {
+      "leaf_num": 125,
+      "cohort": 13,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort13_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort13_source.txt",
+      "updated_at": "2026-10-27T05:11:03.993436+00:00"
+    },
+    {
+      "leaf_num": 127,
+      "cohort": 13,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort13_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort13_source.txt",
+      "updated_at": "2026-10-27T05:11:03.993574+00:00"
+    },
+    {
+      "leaf_num": 130,
+      "cohort": 13,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort13_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort13_source.txt",
+      "updated_at": "2026-10-27T05:11:03.993740+00:00"
+    },
+    {
+      "leaf_num": 131,
+      "cohort": 14,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 13 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort14_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort14_source.txt",
+      "updated_at": "2026-10-27T05:21:25.481731+00:00"
+    },
+    {
+      "leaf_num": 132,
+      "cohort": 14,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 14 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort14_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort14_source.txt",
+      "updated_at": "2026-10-27T05:21:25.481923+00:00"
+    },
+    {
+      "leaf_num": 133,
+      "cohort": 14,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort14_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort14_source.txt",
+      "updated_at": "2026-10-27T05:21:25.482095+00:00"
+    },
+    {
+      "leaf_num": 134,
+      "cohort": 14,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 17 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort14_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort14_source.txt",
+      "updated_at": "2026-10-27T05:21:25.482286+00:00"
+    },
+    {
+      "leaf_num": 135,
+      "cohort": 14,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort14_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort14_source.txt",
+      "updated_at": "2026-10-27T05:21:25.482450+00:00"
+    },
+    {
+      "leaf_num": 137,
+      "cohort": 14,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort14_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort14_source.txt",
+      "updated_at": "2026-10-27T05:21:25.482682+00:00"
+    },
+    {
+      "leaf_num": 138,
+      "cohort": 14,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 14 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort14_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort14_source.txt",
+      "updated_at": "2026-10-27T05:21:25.482869+00:00"
+    },
+    {
+      "leaf_num": 139,
+      "cohort": 14,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort14_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort14_source.txt",
+      "updated_at": "2026-10-27T05:21:25.483035+00:00"
+    },
+    {
+      "leaf_num": 140,
+      "cohort": 14,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort14_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort14_source.txt",
+      "updated_at": "2026-10-27T05:21:25.483203+00:00"
+    },
+    {
+      "leaf_num": 141,
+      "cohort": 15,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 13 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort15_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort15_source.txt",
+      "updated_at": "2026-10-27T05:32:11.349996+00:00"
+    },
+    {
+      "leaf_num": 147,
+      "cohort": 15,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort15_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort15_source.txt",
+      "updated_at": "2026-10-27T05:32:11.350300+00:00"
+    },
+    {
+      "leaf_num": 148,
+      "cohort": 15,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort15_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort15_source.txt",
+      "updated_at": "2026-10-27T05:32:11.350410+00:00"
+    },
+    {
+      "leaf_num": 149,
+      "cohort": 15,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort15_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort15_source.txt",
+      "updated_at": "2026-10-27T05:32:11.350511+00:00"
+    },
+    {
+      "leaf_num": 150,
+      "cohort": 15,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 12 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort15_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort15_source.txt",
+      "updated_at": "2026-10-27T05:32:11.350610+00:00"
+    },
+    {
+      "leaf_num": 151,
+      "cohort": 16,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort16_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort16_source.txt",
+      "updated_at": "2026-10-27T05:43:28.303650+00:00"
+    },
+    {
+      "leaf_num": 152,
+      "cohort": 16,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort16_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort16_source.txt",
+      "updated_at": "2026-10-27T05:43:28.303763+00:00"
+    },
+    {
+      "leaf_num": 153,
+      "cohort": 16,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort16_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort16_source.txt",
+      "updated_at": "2026-10-27T05:43:28.303870+00:00"
+    },
+    {
+      "leaf_num": 154,
+      "cohort": 16,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort16_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort16_source.txt",
+      "updated_at": "2026-10-27T05:43:28.303973+00:00"
+    },
+    {
+      "leaf_num": 155,
+      "cohort": 16,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort16_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort16_source.txt",
+      "updated_at": "2026-10-27T05:43:28.304070+00:00"
+    },
+    {
+      "leaf_num": 156,
+      "cohort": 16,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort16_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort16_source.txt",
+      "updated_at": "2026-10-27T05:43:28.304176+00:00"
+    },
+    {
+      "leaf_num": 157,
+      "cohort": 16,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort16_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort16_source.txt",
+      "updated_at": "2026-10-27T05:43:28.304271+00:00"
+    },
+    {
+      "leaf_num": 158,
+      "cohort": 16,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort16_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort16_source.txt",
+      "updated_at": "2026-10-27T05:43:28.304380+00:00"
+    },
+    {
+      "leaf_num": 159,
+      "cohort": 16,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort16_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort16_source.txt",
+      "updated_at": "2026-10-27T05:43:28.304480+00:00"
+    },
+    {
+      "leaf_num": 160,
+      "cohort": 16,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort16_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort16_source.txt",
+      "updated_at": "2026-10-27T05:43:28.304576+00:00"
+    },
+    {
+      "leaf_num": 161,
+      "cohort": 17,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort17_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort17_source.txt",
+      "updated_at": "2026-10-27T05:59:39.200174+00:00"
+    },
+    {
+      "leaf_num": 162,
+      "cohort": 17,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort17_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort17_source.txt",
+      "updated_at": "2026-10-27T05:59:39.200291+00:00"
+    },
+    {
+      "leaf_num": 163,
+      "cohort": 17,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort17_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort17_source.txt",
+      "updated_at": "2026-10-27T05:59:39.200402+00:00"
+    },
+    {
+      "leaf_num": 164,
+      "cohort": 17,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort17_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort17_source.txt",
+      "updated_at": "2026-10-27T05:59:39.200504+00:00"
+    },
+    {
+      "leaf_num": 165,
+      "cohort": 17,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort17_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort17_source.txt",
+      "updated_at": "2026-10-27T05:59:39.200605+00:00"
+    },
+    {
+      "leaf_num": 166,
+      "cohort": 17,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort17_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort17_source.txt",
+      "updated_at": "2026-10-27T05:59:39.200699+00:00"
+    },
+    {
+      "leaf_num": 167,
+      "cohort": 17,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort17_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort17_source.txt",
+      "updated_at": "2026-10-27T05:59:39.200801+00:00"
+    },
+    {
+      "leaf_num": 168,
+      "cohort": 17,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort17_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort17_source.txt",
+      "updated_at": "2026-10-27T05:59:39.200902+00:00"
+    },
+    {
+      "leaf_num": 169,
+      "cohort": 17,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort17_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort17_source.txt",
+      "updated_at": "2026-10-27T05:59:39.201002+00:00"
+    },
+    {
+      "leaf_num": 170,
+      "cohort": 17,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort17_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort17_source.txt",
+      "updated_at": "2026-10-27T05:59:39.201114+00:00"
+    },
+    {
+      "leaf_num": 183,
+      "cohort": 19,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort19_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort19_source.txt",
+      "updated_at": "2026-10-27T06:27:36.758568+00:00"
+    },
+    {
+      "leaf_num": 184,
+      "cohort": 19,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort19_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort19_source.txt",
+      "updated_at": "2026-10-27T06:27:36.758683+00:00"
+    },
+    {
+      "leaf_num": 185,
+      "cohort": 19,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort19_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort19_source.txt",
+      "updated_at": "2026-10-27T06:27:36.758790+00:00"
+    },
+    {
+      "leaf_num": 186,
+      "cohort": 19,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort19_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort19_source.txt",
+      "updated_at": "2026-10-27T06:27:36.758888+00:00"
+    },
+    {
+      "leaf_num": 187,
+      "cohort": 19,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort19_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort19_source.txt",
+      "updated_at": "2026-10-27T06:27:36.758985+00:00"
+    },
+    {
+      "leaf_num": 188,
+      "cohort": 19,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort19_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort19_source.txt",
+      "updated_at": "2026-10-27T06:27:36.759086+00:00"
+    },
+    {
+      "leaf_num": 189,
+      "cohort": 19,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort19_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort19_source.txt",
+      "updated_at": "2026-10-27T06:27:36.759187+00:00"
+    },
+    {
+      "leaf_num": 190,
+      "cohort": 19,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort19_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort19_source.txt",
+      "updated_at": "2026-10-27T06:27:36.759285+00:00"
+    },
+    {
+      "leaf_num": 191,
+      "cohort": 20,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort20_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort20_source.txt",
+      "updated_at": "2026-10-27T06:40:32.371976+00:00"
+    },
+    {
+      "leaf_num": 192,
+      "cohort": 20,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort20_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort20_source.txt",
+      "updated_at": "2026-10-27T06:40:32.372100+00:00"
+    },
+    {
+      "leaf_num": 193,
+      "cohort": 20,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort20_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort20_source.txt",
+      "updated_at": "2026-10-27T06:40:32.372211+00:00"
+    },
+    {
+      "leaf_num": 194,
+      "cohort": 20,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort20_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort20_source.txt",
+      "updated_at": "2026-10-27T06:40:32.372323+00:00"
+    },
+    {
+      "leaf_num": 195,
+      "cohort": 20,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort20_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort20_source.txt",
+      "updated_at": "2026-10-27T06:40:32.372426+00:00"
+    },
+    {
+      "leaf_num": 196,
+      "cohort": 20,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort20_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort20_source.txt",
+      "updated_at": "2026-10-27T06:40:32.372526+00:00"
+    },
+    {
+      "leaf_num": 198,
+      "cohort": 20,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort20_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort20_source.txt",
+      "updated_at": "2026-10-27T06:40:32.372684+00:00"
+    },
+    {
+      "leaf_num": 199,
+      "cohort": 20,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort20_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort20_source.txt",
+      "updated_at": "2026-10-27T06:40:32.372787+00:00"
+    },
+    {
+      "leaf_num": 200,
+      "cohort": 20,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort20_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort20_source.txt",
+      "updated_at": "2026-10-27T06:40:32.372892+00:00"
+    },
+    {
+      "leaf_num": 201,
+      "cohort": 21,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Final MD\\1905_lviv_nativity_theophany_cohort21.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort21_source.txt",
+      "updated_at": "2026-10-27T07:01:02.472893+00:00"
+    },
+    {
+      "leaf_num": 202,
+      "cohort": 21,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Final MD\\1905_lviv_nativity_theophany_cohort21.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort21_source.txt",
+      "updated_at": "2026-10-27T07:01:02.473011+00:00"
+    },
+    {
+      "leaf_num": 205,
+      "cohort": 21,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Final MD\\1905_lviv_nativity_theophany_cohort21.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort21_source.txt",
+      "updated_at": "2026-10-27T07:01:02.473204+00:00"
+    },
+    {
+      "leaf_num": 206,
+      "cohort": 21,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Final MD\\1905_lviv_nativity_theophany_cohort21.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort21_source.txt",
+      "updated_at": "2026-10-27T07:01:02.473312+00:00"
+    },
+    {
+      "leaf_num": 215,
+      "cohort": 22,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort22_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort22_source.txt",
+      "updated_at": "2026-10-27T07:13:52.899110+00:00"
+    },
+    {
+      "leaf_num": 222,
+      "cohort": 23,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort23_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort23_source.txt",
+      "updated_at": "2026-10-27T07:27:37.900945+00:00"
+    },
+    {
+      "leaf_num": 230,
+      "cohort": 23,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort23_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort23_source.txt",
+      "updated_at": "2026-10-27T07:27:37.901319+00:00"
+    },
+    {
+      "leaf_num": 232,
+      "cohort": 24,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort24_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort24_source.txt",
+      "updated_at": "2026-10-27T07:38:03.856731+00:00"
+    },
+    {
+      "leaf_num": 235,
+      "cohort": 24,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort24_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort24_source.txt",
+      "updated_at": "2026-10-27T07:38:03.856929+00:00"
+    },
+    {
+      "leaf_num": 236,
+      "cohort": 24,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort24_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort24_source.txt",
+      "updated_at": "2026-10-27T07:38:03.857034+00:00"
+    },
+    {
+      "leaf_num": 241,
+      "cohort": 25,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort25_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort25_source.txt",
+      "updated_at": "2026-10-27T07:53:22.078590+00:00"
+    },
+    {
+      "leaf_num": 243,
+      "cohort": 25,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort25_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort25_source.txt",
+      "updated_at": "2026-10-27T07:53:22.078754+00:00"
+    },
+    {
+      "leaf_num": 254,
+      "cohort": 26,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort26_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort26_source.txt",
+      "updated_at": "2026-10-27T08:04:22.771676+00:00"
+    },
+    {
+      "leaf_num": 269,
+      "cohort": 27,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort27_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort27_source.txt",
+      "updated_at": "2026-10-27T08:15:32.834642+00:00"
+    },
+    {
+      "leaf_num": 270,
+      "cohort": 27,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort27_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort27_source.txt",
+      "updated_at": "2026-10-27T08:15:32.834756+00:00"
+    },
+    {
+      "leaf_num": 272,
+      "cohort": 28,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort28_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort28_source.txt",
+      "updated_at": "2026-10-27T08:26:36.941989+00:00"
+    },
+    {
+      "leaf_num": 273,
+      "cohort": 28,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort28_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort28_source.txt",
+      "updated_at": "2026-10-27T08:26:36.942110+00:00"
+    },
+    {
+      "leaf_num": 275,
+      "cohort": 28,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort28_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort28_source.txt",
+      "updated_at": "2026-10-27T08:26:36.942248+00:00"
+    },
+    {
+      "leaf_num": 276,
+      "cohort": 28,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort28_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort28_source.txt",
+      "updated_at": "2026-10-27T08:26:36.942364+00:00"
+    },
+    {
+      "leaf_num": 277,
+      "cohort": 28,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort28_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort28_source.txt",
+      "updated_at": "2026-10-27T08:26:36.942469+00:00"
+    },
+    {
+      "leaf_num": 278,
+      "cohort": 28,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort28_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort28_source.txt",
+      "updated_at": "2026-10-27T08:26:36.942575+00:00"
+    },
+    {
+      "leaf_num": 279,
+      "cohort": 28,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort28_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort28_source.txt",
+      "updated_at": "2026-10-27T08:26:36.942679+00:00"
+    },
+    {
+      "leaf_num": 280,
+      "cohort": 28,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort28_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort28_source.txt",
+      "updated_at": "2026-10-27T08:26:36.942786+00:00"
+    },
+    {
+      "leaf_num": 281,
+      "cohort": 29,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort29_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort29_source.txt",
+      "updated_at": "2026-10-27T08:39:00.163906+00:00"
+    },
+    {
+      "leaf_num": 282,
+      "cohort": 29,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort29_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort29_source.txt",
+      "updated_at": "2026-10-27T08:39:00.164022+00:00"
+    },
+    {
+      "leaf_num": 283,
+      "cohort": 29,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort29_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort29_source.txt",
+      "updated_at": "2026-10-27T08:39:00.164129+00:00"
+    },
+    {
+      "leaf_num": 284,
+      "cohort": 29,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort29_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort29_source.txt",
+      "updated_at": "2026-10-27T08:39:00.164231+00:00"
+    },
+    {
+      "leaf_num": 285,
+      "cohort": 29,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort29_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort29_source.txt",
+      "updated_at": "2026-10-27T08:39:00.164332+00:00"
+    },
+    {
+      "leaf_num": 286,
+      "cohort": 29,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort29_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort29_source.txt",
+      "updated_at": "2026-10-27T08:39:00.164437+00:00"
+    },
+    {
+      "leaf_num": 287,
+      "cohort": 29,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort29_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort29_source.txt",
+      "updated_at": "2026-10-27T08:39:00.164537+00:00"
+    },
+    {
+      "leaf_num": 288,
+      "cohort": 29,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort29_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort29_source.txt",
+      "updated_at": "2026-10-27T08:39:00.164646+00:00"
+    },
+    {
+      "leaf_num": 289,
+      "cohort": 29,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort29_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort29_source.txt",
+      "updated_at": "2026-10-27T08:39:00.164737+00:00"
+    },
+    {
+      "leaf_num": 290,
+      "cohort": 29,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort29_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort29_source.txt",
+      "updated_at": "2026-10-27T08:39:00.164843+00:00"
+    },
+    {
+      "leaf_num": 291,
+      "cohort": 30,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort30_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort30_source.txt",
+      "updated_at": "2026-10-27T08:48:10.621909+00:00"
+    },
+    {
+      "leaf_num": 292,
+      "cohort": 30,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort30_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort30_source.txt",
+      "updated_at": "2026-10-27T08:48:10.622025+00:00"
+    },
+    {
+      "leaf_num": 293,
+      "cohort": 30,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort30_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort30_source.txt",
+      "updated_at": "2026-10-27T08:48:10.622137+00:00"
+    },
+    {
+      "leaf_num": 294,
+      "cohort": 30,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort30_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort30_source.txt",
+      "updated_at": "2026-10-27T08:48:10.622241+00:00"
+    },
+    {
+      "leaf_num": 296,
+      "cohort": 30,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 18 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Draft\\1905_lviv_nativity_theophany_cohort30_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Source Text\\1905_lviv_nativity_theophany_cohort30_source.txt",
+      "updated_at": "2026-10-27T08:48:10.622378+00:00"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "timestamp": "2026-10-27T07:13:51.397116+00:00",
+  "monument_id": "1905_lviv_nativity_theophany",
+  "cohort": 22,
+  "target_file": "1905_lviv_nativity_theophany_cohort22_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1905_lviv_nativity_theophany_cohort22_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1905_lviv_nativity_theophany_cohort22_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1905_lviv_nativity_theophany_cohort22_raw_draft.md",
+      "footnotes_file": "1905_lviv_nativity_theophany_cohort22_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 24,
+      "definition_markers_count": 24,
+      "text_markers": [
+        "[^721]",
+        "[^722]",
+        "[^723]",
+        "[^724]",
+        "[^725]",
+        "[^726]",
+        "[^727]",
+        "[^728]",
+        "[^729]",
+        "[^730]",
+        "[^731]",
+        "[^732]",
+        "[^733]",
+        "[^734]",
+        "[^735]",
+        "[^736]",
+        "[^737]",
+        "[^738]",
+        "[^739]",
+        "[^740]",
+        "[^741]",
+        "[^742]",
+        "[^743]",
+        "[^744]"
+      ],
+      "definition_markers": [
+        "[^721]",
+        "[^722]",
+        "[^723]",
+        "[^724]",
+        "[^725]",
+        "[^726]",
+        "[^727]",
+        "[^728]",
+        "[^729]",
+        "[^730]",
+        "[^731]",
+        "[^732]",
+        "[^733]",
+        "[^734]",
+        "[^735]",
+        "[^736]",
+        "[^737]",
+        "[^738]",
+        "[^739]",
+        "[^740]",
+        "[^741]",
+        "[^742]",
+        "[^743]",
+        "[^744]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1905_lviv_nativity_theophany_cohort22_raw_draft.md",
+      "passed": true,
+      "paragraphs": 114,
+      "headings_count": 1,
+      "headings": [
+        {
+          "line": 5,
+          "level": 1,
+          "title": "Order of the Royal Hours on the Eve of Holy Theophany",
+          "leaf": 212
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 211,
+        "max_leaf": 220
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [
+      215
+    ],
+    "total_queued_leaves": 61,
+    "unresolved_quarantines": 0
+  }
+}

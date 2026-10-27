@@ -1,0 +1,132 @@
+{
+  "timestamp": "2026-10-27T06:13:01.652395+00:00",
+  "monument_id": "1905_lviv_nativity_theophany",
+  "cohort": 18,
+  "target_file": "1905_lviv_nativity_theophany_cohort18_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1905_lviv_nativity_theophany_cohort18_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1905_lviv_nativity_theophany_cohort18_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1905_lviv_nativity_theophany_cohort18_raw_draft.md",
+      "footnotes_file": "1905_lviv_nativity_theophany_cohort18_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 31,
+      "definition_markers_count": 31,
+      "text_markers": [
+        "[^524]",
+        "[^525]",
+        "[^526]",
+        "[^527]",
+        "[^528]",
+        "[^529]",
+        "[^530]",
+        "[^531]",
+        "[^532]",
+        "[^533]",
+        "[^534]",
+        "[^535]",
+        "[^536]",
+        "[^537]",
+        "[^538]",
+        "[^539]",
+        "[^540]",
+        "[^541]",
+        "[^542]",
+        "[^543]",
+        "[^544]",
+        "[^545]",
+        "[^546]",
+        "[^547]",
+        "[^548]",
+        "[^549]",
+        "[^550]",
+        "[^551]",
+        "[^552]",
+        "[^553]",
+        "[^554]"
+      ],
+      "definition_markers": [
+        "[^524]",
+        "[^525]",
+        "[^526]",
+        "[^527]",
+        "[^528]",
+        "[^529]",
+        "[^530]",
+        "[^531]",
+        "[^532]",
+        "[^533]",
+        "[^534]",
+        "[^535]",
+        "[^536]",
+        "[^537]",
+        "[^538]",
+        "[^539]",
+        "[^540]",
+        "[^541]",
+        "[^542]",
+        "[^543]",
+        "[^544]",
+        "[^545]",
+        "[^546]",
+        "[^547]",
+        "[^548]",
+        "[^549]",
+        "[^550]",
+        "[^551]",
+        "[^552]",
+        "[^553]",
+        "[^554]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1905_lviv_nativity_theophany_cohort18_raw_draft.md",
+      "passed": true,
+      "paragraphs": 71,
+      "headings_count": 1,
+      "headings": [
+        {
+          "line": 52,
+          "level": 1,
+          "title": "Vespers on the Circumcision of Our Lord Jesus Christ and St. Basil the Great[^541]",
+          "leaf": 177
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 171,
+        "max_leaf": 180
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 10 - 1905 Lviv Nativity Theophany\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "total_queued_leaves": 39,
+    "unresolved_quarantines": 0
+  }
+}

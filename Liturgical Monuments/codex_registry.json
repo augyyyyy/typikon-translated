@@ -648,9 +648,69 @@
       "default_cohort_size": 10,
       "genre_register": "hymnographic",
       "workspace_dir": "Liturgical Monuments/Monument 10 - 1905 Lviv Nativity Theophany",
-      "active": false,
-      "status": "ready",
-      "wave": 1
+      "active": true,
+      "status": "in_progress",
+      "wave": 1,
+      "opening_geometry": "1-up",
+      "folio_offset": 5,
+      "source_language": "Church Slavonic / Galician Ruthenian (Zhovkva Basilian Press, 1905)",
+      "coordinate_notes": "1-up single-column printed pages (Physical Leaf = Printed Page + 5 across p6..p295). p1..p5 are unnumbered front matter (p1 cloth cover, p2 half-title, p3 Nativity engraving, p4 Zhovkva 1905 Basilian Press title page, p5 Lviv June 21, 1905 Metropolitan Andrey Sheptytsky Imprimatur); p6..p295 are printed pages 1..290; p296 is the unnumbered rear Table of Contents ('Оглавленіе').",
+      "flash_execution_guardrails": [
+        "1-UP GEOMETRY & RUNNING PAGINATION: Every image Page_0001.jpg..Page_0296.jpg is a 1-up single page. Never emit 2-up '[Left Page]' or '[Right Page]' tags, and never emit standalone '[Page N]' or '[Leaf pN]' bracket lines in Draft MD (which fail Gate 1). Only use the required '=== LEAF pN ===' delimiter banner per physical leaf.",
+        "H1 & H2 LANDMARK DISCIPLINE: Emit H1 ('# ...') at the 6 Feast-Cycle Part openings (p6 Royal Hours of Nativity; p71 Great Compline of Nativity; p130 Synaxis of Mother of God & St. Joseph; p177 Vespers of Circumcision & St. Basil; p212 Royal Hours of Theophany; p269 Great Compline of Theophany) and H2 ('## ...') at the remaining 11 service openings from the Оглавленіе (p49, p96, p125, p152, p184, p206, p240, p254, p273, p289, p292, and p296 Original TOC). Render all internal rubrics, Hours, Canons, Odes, Troparia, and Kontakia as inline italic rubrics ('*...*'), never as '###' or '####' headings.",
+        "COLOMETRIC ASTERISKS & DIALOGUE LABELS: Preserve literal '*' chanter breathing-pause asterisks in Source Text. In Draft MD, convert '*' dividers into natural English punctuation (commas, semicolons, colons) so pairs of '*' never corrupt Markdown italics. Format litany and Liturgy speaker labels in bold ('**Priest:**', '**Deacon:**', '**Reader:**', '**Choir:**') and ceremonial rubrics in italics ('*...*').",
+        "GATE-1-SAFE CROSS-REFERENCES & SYMMETRIC PARATEXT (SGC-02 PROTECTION): Render internal page cross-references in body text as '(see p. 285)[^N]' or '(p. 364 [sic; cf. p. 264])[^N]' without expanding incipits and without using '[Leaf ...]' or '[Page ...]' brackets in the body; place the physical leaf coordinate ('Physical Leaf pN = Printed Page + 5') in the footnote definition '[^N]:'. On non-text leaves (p1 front cover, p3 Nativity engraving), provide symmetric diplomatic descriptions in both Source Text and Draft MD so SGC-02 length ratios remain between 0.80 and 1.50."
+      ],
+      "publication_spec": {
+        "hub_inbox_folder": "1905_Lviv_Nativity_&_Theophany_Services",
+        "master_title": "Divine Services for Nativity, Circumcision, and Theophany (Galician Recension, Lviv, 1905)",
+        "canonical_h1_instruction": "Emit H1 ('# ...') at the 6 Feast-Cycle Part openings (p6, p71, p130, p177, p212, p269) and H2 ('## ...') at the remaining 11 primary service openings from the Оглавленіе (p49, p96, p125, p152, p184, p206, p240, p254, p273, p289, p292, p296).",
+        "parts": [
+          {
+            "id": "part0",
+            "filename": "1905_lviv_nativity_theophany_part0_front_matter.md",
+            "title": "Front Matter, Zhovkva Basilian Press Title Page (1905), Archiepiscopal Imprimatur of Metropolitan Andrey Sheptytsky, and Table of Contents",
+            "start_landmark": null
+          },
+          {
+            "id": "part1",
+            "filename": "1905_lviv_nativity_theophany_part1_nativity_eve.md",
+            "title": "PART I: EVE OF THE NATIVITY OF CHRIST (ROYAL HOURS AND VESPERAL DIVINE LITURGY OF ST. BASIL)",
+            "start_landmark": "^#+\\s*(?:PART\\s+I\\b|Order\\s+of\\s+the\\s+Royal\\s+Hours\\s+on\\s+the\\s+Eve\\s+of\\s+the\\s+Nativity)"
+          },
+          {
+            "id": "part2",
+            "filename": "1905_lviv_nativity_theophany_part2_nativity_feast.md",
+            "title": "PART II: THE FEAST OF THE NATIVITY OF OUR LORD JESUS CHRIST (GREAT COMPLINE, MATINS, AND DIVINE LITURGY)",
+            "start_landmark": "^#+\\s*(?:PART\\s+II\\b|Great\\s+Compline\\s+on\\s+the\\s+Nativity\\s+of\\s+Christ)"
+          },
+          {
+            "id": "part3",
+            "filename": "1905_lviv_nativity_theophany_part3_nativity_postfeast.md",
+            "title": "PART III: POST-FEAST OF THE NATIVITY (SYNAXIS OF THE MOST HOLY MOTHER OF GOD & ST. JOSEPH AND ST. STEPHEN THE FIRST-MARTYR)",
+            "start_landmark": "^#+\\s*(?:PART\\s+III\\b|Synaxis\\s+of\\s+the\\s+Most\\s+Holy\\s+Mother\\s+of\\s+God)"
+          },
+          {
+            "id": "part4",
+            "filename": "1905_lviv_nativity_theophany_part4_circumcision_basil.md",
+            "title": "PART IV: THE CIRCUMCISION OF OUR LORD JESUS CHRIST AND ST. BASIL THE GREAT (VESPERS, MATINS, AND DIVINE LITURGY)",
+            "start_landmark": "^#+\\s*(?:PART\\s+IV\\b|Vespers\\s+on\\s+the\\s+Circumcision\\s+of\\s+Our\\s+Lord)"
+          },
+          {
+            "id": "part5",
+            "filename": "1905_lviv_nativity_theophany_part5_theophany_eve_water.md",
+            "title": "PART V: EVE OF HOLY THEOPHANY AND THE GREAT SANCTIFICATION OF WATER (ROYAL HOURS, VESPERAL LITURGY, AND SANCTIFICATION OF WATER)",
+            "start_landmark": "^#+\\s*(?:PART\\s+V\\b|Order\\s+of\\s+the\\s+Royal\\s+Hours\\s+on\\s+the\\s+Eve\\s+of\\s+(?:Holy\\s+)?Theophany)"
+          },
+          {
+            "id": "part6",
+            "filename": "1905_lviv_nativity_theophany_part6_theophany_feast_forerunner.md",
+            "title": "PART VI: THE FEAST OF HOLY THEOPHANY AND SYNAXIS OF ST. JOHN THE FORERUNNER (GREAT COMPLINE, MATINS, LITURGY, AND VESPERS OF THE FORERUNNER)",
+            "start_landmark": "^#+\\s*(?:PART\\s+VI\\b|Great\\s+Compline\\s+on\\s+(?:Holy\\s+)?Theophany)"
+          }
+        ],
+        "footnotes_filename": "1905_lviv_nativity_theophany_footnotes.md"
+      }
     },
     "1906_lviv_triodion_lenten": {
       "monument_id": "1906_lviv_triodion_lenten",
