@@ -268,7 +268,7 @@ Having suffered for Thy sake, O Christ, they endured many torments...
 
 Thy Cross, O Lord, became an unconquerable weapon for the martyrs; for they foresaw the death lying before them, yet looked beyond unto the life to come, strengthened by their hope in Thee; by their prayers have mercy on us.
 
-*Nekrosimon:*
+*Hymn for the Departed (Поко́инъ):*
 
 My beginning and foundation was Thy creative command; for wishing to fashion me as a living creature out of invisible and visible nature, Thou didst fashion my body from the earth, and gavest me a soul by Thy divine and life-creating inbreathing; therefore, O Savior, give rest unto Thy servants in the land of the living and in the tents of the righteous!
 
@@ -300,9 +300,9 @@ O Thou Who didst call Thine own Mother blessed, Thou camest unto the Passion by 
 
 The sufferings of resistance at the tribunal, the tormentors' wounds inflicted upon the martyrs, while the ranks of the bodiless hosts stood by holding crowns of victory! The wise ones astonished the tormentor and the king, and cast down the apostate by the confession of Christ; O Lord Who didst strengthen them, glory to Thee!
 
-O Lord, the memory of Thy saints this day is shown to be like the paradise in Eden; for therein all creation rejoiceth; and by their supplications grant us purification and great mercy.
+O Lord, the memory of Thy saints this day is shown to be like the paradise in Eden; for therein all creation rejoices; and by their supplications grant us purification and great mercy.
 
-*Nekrosimon:*
+*Hymn for the Departed (Поко́инъ):*
 
 Truly all things are vanity, and life is but a shadow and a dream (Ecclesiastes 1:2); for in vain doth every...
 

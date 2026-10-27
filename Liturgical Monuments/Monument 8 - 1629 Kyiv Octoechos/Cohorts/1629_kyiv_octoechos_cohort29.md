@@ -80,7 +80,7 @@ When Mary Magdalene announced the Savior's resurrection from the dead and His ap
 
 *Fourth Exapostilarion:*
 
-Having shone forth in virtues, let us behold standing in the life-bearing tomb men in gleaming raiment; and as the myrrh-bearing women bowed their faces to the earth before Him Who ruleth the heavens, let us learn of the resurrection, and run with Peter to the life-bearing tomb... [^287]
+Having shone forth in virtues, let us behold standing in the life-bearing tomb men in gleaming raiment; and as the myrrh-bearing women bowed their faces to the earth before Him Who rules the heavens, let us learn of the resurrection, and run with Peter to the life-bearing tomb... [^287]
 
 === LEAF p284 ===
 
@@ -90,7 +90,7 @@ Having shone forth in virtues, let us behold standing in the life-bearing tomb m
 
 *Theotokion:*
 
-Having become incarnate in thy womb, O Lord, willing to call back from corruption a fallen world, as He alone knoweth, He dwelt in thee, O Mother of God; and having all found salvation, we cry unto thee like the angel: Rejoice, only pure Lady, blessed among all women, for thou didst bear salvation unto the whole universe!
+Having become incarnate in thy womb, O Lord, willing to call back from corruption a fallen world, as He alone knows, He dwelt in thee, O Mother of God; and having all found salvation, we cry unto thee like the angel: Rejoice, only pure Lady, blessed among all women, for thou didst bear salvation unto the whole universe!
 
 *Evangelical Sticheron 4, Tone 4:*
 

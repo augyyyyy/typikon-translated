@@ -1,86 +1,61 @@
-# Canonical Liturgical Primitives Review Digest: 1629 Kyiv Octoechos
+# Canonical Liturgical Primitives Review Digest: 1629 Kyiv-Pechersk Octoechos
 
 > [!IMPORTANT]
 > **For Pastoral and Liturgical Review by Father Paul**
-> This document collects all recurring liturgical primitives across **all 8 Tones** of the 1630 Lviv Octoechos (`14` Psalm *Stichoi*, `45` *Podoben* / *Automelon* models across Tones 1–8, and all `64` Sunday Canon *Heirmoi* across Tones 1–8).
+> This document collects all recurring liturgical primitives physically attested across **all 8 Tones** of the 1629 Kyiv-Pechersk Octoechos (`5` recurring Psalm *Stichoi*, `28` distinct *Podoben* / *Automelon* models invoked `42` times across Tones 1–8, and all `64` Sunday Canon *Heirmoi* across Tones 1–8).
 > Any revision made to a canonical English rendering in `data/liturgical_primitives_registry.json` will automatically propagate across every service in the codex via a single re-compile.
 
 ---
 
 ## 1. Recurring Psalm Verses (Stichoi)
 
-| ID | LXX Reference | Church Slavonic Canonical | Byzantine Greek | Canonical English Translation | Attested Loci |
+| ID | LXX Reference | 1629 Church Slavonic Witness | Byzantine Greek | Canonical English Translation | Attested Loci |
 | :--- | :--- | :--- | :--- | :--- | :---: |
-| `PRIM.VERSE.PS92_1A` | **Ps. 92:1a** | *Госпо́дь воцари́ся, въ лѣ́потꙋ ѡ҆блече́ся* | *Ὁ Κύριος ἐβασίλευσεν, εὐπρέπειαν ἐνεδύσατο* | *Verse: The Lord is King, He is robed in majesty.* | 7 leaves |
-| `PRIM.VERSE.PS92_1B` | **Ps. 92:1b** | *И҆́бо оу҆твердѝ вселе́ннꙋю, я҆́же не подви́жится* | *καὶ γὰρ ἐστερέωσε τὴν οἰκουμένην, ἥτις οὐ σαλευθήσεται* | *Verse: For He hath established the world, so that it cannot be moved.* | 7 leaves |
-| `PRIM.VERSE.PS92_5` | **Ps. 92:5** | *До́мꙋ твоемꙋ̀ подоба́етъ святы́ня Го́споди, въ долготꙋ̀ дні́й* | *τῷ οἴκῳ σου πρέπει ἁγίασμα, Κύριε, εἰς μακρότητα ἡμερῶν* | *Verse: Holiness becometh Thine house, O Lord, unto length of days.* | 7 leaves |
-| `PRIM.VERSE.PS9_33` | **Ps. 9:33** | *Воскреснѝ Го́споди Бо́же мо́й, да вознесе́тся рꙋка̀ твоя̀, не забꙋ́ди оу҆бо́гихъ твои́хъ до конца̀* | *ἀνάστηθι, Κύριε ὁ Θεός μου, ὑψωθήτω ἡ χείρ σου, μὴ ἐπιλάθῃ τῶν πενήτων σου εἰς τέλος* | *Verse: Arise, O Lord my God, let Thy hand be lifted up; forget not Thy poor unto the end.* | 6 leaves |
-| `PRIM.VERSE.PS9_2` | **Ps. 9:2** | *И҆сповѣ́мся тебѣ̀ Го́споди всѣ́мъ се́рдцемъ мои́мъ, повѣ́мъ вся̑ чꙋдеса̀ твоя̑* | *Ἐξομολογήσομαί σοι, Κύριε, ἐν ὅλῃ καρδίᾳ μου, διηγήσομαι πάντα τὰ θαυμάσιά σου* | *Verse: I will give thanks unto Thee, O Lord, with my whole heart; I will speak of all Thy marvelous works.* | 7 leaves |
-| `PRIM.VERSE.PS122_1` | **Ps. 122:1** | *Къ тебѣ̀ возведо́хъ ѻ҆́чи мои́, живꙋ́щемꙋ на небесѝ* | *Πρὸς σὲ ἦρα τοὺς ὀφθαλμούς μου τὸν κατοικοῦντα ἐν τῷ οὐρανῷ* | *Verse: Unto Thee have I lifted up mine eyes, unto Thee that dwellest in heaven.* | 1 leaves |
-| `PRIM.VERSE.PS122_3` | **Ps. 122:3** | *Поми́лꙋй на́съ Го́споди, поми́лꙋй на́съ, я҆́ко помно́гꙋ и҆спо́лнихомся оу҆ничиже́нія* | *ἐλέησον ἡμᾶς, Κύριε, ἐλέησον ἡμᾶς, ὅτι ἐπὶ πολὺ ἐπλήσθημεν ἐξουδενώσεως* | *Verse: Have mercy on us, O Lord, have mercy on us, for we are utterly filled with contempt.* | 1 leaves |
-| `PRIM.VERSE.PS64_5A` | **Ps. 64:5a** | *Блаже́ни, я҆̀же и҆збра́лъ и҆ прія́лъ е҆сѝ, Го́споди* | *μακάριοι οὓς ἐξελέξω καὶ προσελάβου, Κύριε* | *Verse: Blessed are they whom Thou hast chosen and taken to Thyself, O Lord.* | 9 leaves |
-| `PRIM.VERSE.PS24_13A` | **Ps. 24:13a** | *Дꙋ́шы и҆́хъ во благи́хъ водворя́тся* | *ἡ ψυχὴ αὐτοῦ ἐν ἀγαθοῖς αὐλισθήσεται* | *Verse: Their souls shall dwell among good things.* | 9 leaves |
-| `PRIM.VERSE.PS44_11` | **Ps. 44:11** | *Слы́ши дщѝ и҆ ви́ждь, и҆ приклонѝ оу҆́хо твоѐ* | *Ἄκουσον, θύγατερ, καὶ ἴδε, καὶ κλῖνον τὸ οὖς σου* | *Verse: Hear, O daughter, and see, and incline thine ear.* | 4 leaves |
-| `PRIM.VERSE.PS44_13` | **Ps. 44:13** | *Лицꙋ̀ твоемꙋ̀ помоля́тся бога́тіи лю́дстіи* | *τὸ πρόσωπόν σου λιτανεύσουσιν οἱ πλούσιοι τοῦ λαοῦ* | *Verse: The rich among the people shall entreat thy countenance.* | 2 leaves |
-| `PRIM.VERSE.PS44_15` | **Ps. 44:15** | *Приведꙋ́тся Царе́ви дѣ́вы въ слѣ́дъ е҆я̀, и҆скренняѧ е҆я̀ приведꙋ́тся тебѣ̀* | *ἀπενεχθήσονται τῷ Βασιλεῖ παρθένοι ὀπίσω αὐτῆς* | *Verse: Virgins shall be brought unto the King after her, her companions shall be brought unto Thee.* | 1 leaves |
-| `PRIM.VERSE.PS44_18` | **Ps. 44:18** | *Помянꙋ̀ и҆́мя твоѐ во вся́комъ ро́дѣ и҆ ро́дѣ* | *μνησθήσομαι τοῦ ὀνόματός σου ἐν πάσῃ γενεᾷ καὶ γενεᾷ* | *Verse: I will remember thy name in every generation and generation.* | 5 leaves |
-| `PRIM.VERSE.PS150_1` | **Ps. 150:1** | *Хвали́те Бо́га во святы́хъ е҆гѡ̀, хвали́те е҆го̀ во оу҆тверже́ніи си́лы е҆гѡ̀* | *Αἰνεῖτε τὸν Θεὸν ἐν τοῖς ἁγίοις αὐτοῦ* | *Verse: Praise God in His saints; praise Him in the firmament of His power.* | 3 leaves |
+| `PRIM.VERSE.PS9_33` | **Ps. 9:33** | *Воскреснѝ Го́споди Бо́же мо́й, да вознесе́тся рꙋка̀ твоя̀, не забꙋ́ди оу҆бо́гихъ твои́хъ до конца̀* | *ἀνάστηθι, Κύριε ὁ Θεός μου, ὑψωθήτω ἡ χείρ σου, μὴ ἐπιλάθῃ τῶν πενήτων σου εἰς τέλος* | *Verse: Arise, O Lord my God, let Thy hand be lifted up; forget not Thy poor unto the end.* | 1 leaves |
+| `PRIM.VERSE.PS9_2` | **Ps. 9:2** | *И҆сповѣ́мся тебѣ̀ Го́споди всѣ́мъ се́рдцемъ мои́мъ, повѣ́мъ вся̑ чꙋдеса̀ твоя̑* | *Ἐξομολογήσομαί σοι, Κύριε, ἐν ὅλῃ καρδίᾳ μου, διηγήσομαι πάντα τὰ θαυμάσιά σου* | *Verse: I will give thanks unto Thee, O Lord, with my whole heart; I will speak of all Thy marvelous works.* | 1 leaves |
+| `PRIM.VERSE.PS64_5A` | **Ps. 64:5a** | *Блаже́ни, я҆̀же и҆збра́лъ и҆ прія́лъ е҆сѝ, Го́споди* | *μακάριοι οὓς ἐξελέξω καὶ προσελάβου, Κύριε* | *Verse: Blessed are they whom Thou hast chosen and taken to Thyself, O Lord.* | 1 leaves |
+| `PRIM.VERSE.PS24_13A` | **Ps. 24:13a** | *Дꙋ́шы и҆́хъ во благи́хъ водворя́тся* | *ἡ ψυχὴ αὐτοῦ ἐν ἀγαθοῖς αὐλισθήσεται* | *Verse: Their souls shall dwell among good things.* | 1 leaves |
+| `PRIM.VERSE.PS150_1` | **Ps. 150:1** | *Хвали́те Бо́га во святы́хъ е҆гѡ̀, хвали́те е҆го̀ во оу҆тверже́ніи си́лы е҆гѡ̀* | *Αἰνεῖτε τὸν Θεὸν ἐν τοῖς ἁγίοις αὐτοῦ* | *Verse: Praise God in His saints; praise Him in the firmament of His power.* | 1 leaves |
 
 ---
 
 ## 2. Model Hymns (Podobens / Automela — Tones 1 to 8)
 
 > [!NOTE]
-> **Internal Attestation Guarantee:** 100% of the models below are physically attested and prescribed within `1629_kyiv_octoechos`.
-> For the complete chronological invocation log across the codex, see [1629_kyiv_octoechos_podoben_grid.md](1629_kyiv_octoechos_podoben_grid.md).
+> **Internal Attestation & Mathematical Parity Guarantee:** 100% of the `28` models below (plus `5` *"The same"* continuation rubrics = `42` total Podoben invocations) are physically attested and prescribed within `1629_kyiv_octoechos`.
+> For the complete chronological invocation log across all `42` occurrences, see [1629_kyiv_octoechos_podoben_grid.md](1629_kyiv_octoechos_podoben_grid.md).
 
-| ID | Tone | 1630 Church Slavonic Incipit | Byzantine Greek Automelon | Canonical English Incipit | Attested Loci |
-| :--- | :---: | :--- | :--- | :--- | :---: |
-| `POD.T1.NEBESNYKH_CHINOV` | Tone 1 | *Небе́сныхъ чинѡ́въ* | *Τῶν οὐρανίων ταγμάτων* | **Joy of the heavenly ranks** | `C03:p21, C03:p25` (2x) |
-| `POD.T1.VSEKHVALNII_MUCHENITSY` | Tone 1 | *Прехва́льніи мꙋ́ченицы* | *Πανεύφημοι μάρτυρες* | **O all-lauded martyrs** | `C02:p12, C02:p16, C03:p21, C03:p25 (+4 more)` (8x) |
-| `POD.T1.KAMENI_ZAPECHATLENU` | Tone 1 | *Ка́мени запеча́танꙋ* | *Τοῦ λίθου σφραγισθέντος* | **When the stone had been sealed** | `C01:p9` (1x) |
-| `POD.T1.GROB_TVOI_SPASE` | Tone 1 | *Гро́бъ тво́й Сп҃се* | *Τὸν τάφον σου Σωτήρ* | **While the soldiers were guarding Thy tomb** | `C01:p9, C02:p17, C03:p22` (3x) |
-| `POD.T1.EGDA_PRIIDESHI` | Tone 1 | *Е҆гда̀ прі́йдеши* | *Ὅταν ἔλθῃς ὁ Θεός* | **When Thou shalt come** | `C01:p10` (1x) |
-| `POD.T2.EGDA_OT_DREVA` | Tone 2 | *Е҆гда̀ ѿ дре́ва* | *Ὅτε ἐκ τοῦ ξύλου* | **When from the Tree** | `C04:p36, C05:p43, C05:p47, C06:p52 (+6 more)` (10x) |
-| `POD.T2.VYSHNIKH_ISHCHA` | Tone 2 | *Вы́шнихъ и҆щѧ̀* | *Τὰ ἄνω ζητῶν* | **Seeking the highest** | `C04:p39, C04:p40` (2x) |
-| `POD.T2.MILOSERDIA_SUSHCHI` | Tone 2 | *Милосе́рдія сꙋ́щи и҆сто́чникъ* | *Εὐσπλαγχνίας ὑπάρχουσα πηγή* | **Being the wellspring of loving-kindness** | `C05:p44, C05:p48, C06:p53, C06:p57` (4x) |
-| `POD.T3.KRASOTE_DEVSTVA` | Tone 3 | *Красотѣ̀ дѣ́вства твоегѡ̀* | *Τὴν ὡραιότητα τῆς παρθενίας σου* | **Beholding the beauty of thy virginity** | `C07:p70, C08:p71, C08:p76, C09:p85 (+1 more)` (5x) |
-| `POD.T3.DELA_DNIA` | Tone 3 | *Дѣла̀ дні́а* | *Τὰ ἔργα τῆς ἡμέρας* | **The works of the day** | `C08:p73` (1x) |
-| `POD.T3.VELIA_MUCHENIK_TVOIKH` | Tone 3 | *Ве́лія мꙋ́ченикъ твои́хъ* | *Μεγάλη τῶν Μαρτύρων σου* | **Great is the power of Thy martyrs** | `C08:p76, C09:p84, C09:p89, C10:p97` (4x) |
-| `POD.T3.VELIA_KRESTA_TVOEGO` | Tone 3 | *Ве́лія Крⷭ҇та̀ твоегѡ̀ Гдⷭ҇и* | *Μεγάλη τοῦ Σταυροῦ σου, Κύριε* | **Great is the power of Thy Cross, O Lord** | `C11:p101` (1x) |
-| `POD.T3.KRESTOOBRAZNO` | Tone 3 | *Крⷭ҇тоѡбра́зно* | *Σταυροφανῶς Μωϋσῆς* | **In the likeness of the Cross** | `C08:p80` (1x) |
-| `POD.T3.BOZHESTVENNYYA_VERY` | Tone 3 | *Бж҃е́ственныя вѣ́ры* | *Θείας πίστεως* | **Of the divine faith** | `C09:p81` (1x) |
-| `POD.T3.POSTAVISHA_TRIDESYATE` | Tone 3 | *Поста́виша три́десѧте* | *Ἔστησαν τὰ τριάκοντα ἀργύρια* | **They weighed thirty pieces of silver** | `C10:p93` (1x) |
-| `POD.T4.ZVANNYI_SVYSHE` | Tone 4 | *Зва́нный свы́ше* | *Ὁ κληθεὶς ἄνωθεν* | **Being called from on high** | `C11:p102, C12:p119, C13:p128` (3x) |
-| `POD.T4.YAKO_DOBLYA` | Tone 4 | *Я҆́кѡ до́бля* | *Ὡς γενναῖον ἐν Μάρτυσιν* | **As one valiant among martyrs** | `C11:p110, C12:p119, C12:p120, C13:p122 (+3 more)` (7x) |
-| `POD.T4.DALS_ESI_ZNAMENIE` | Tone 4 | *Да́лъ е҆сѝ зна́меніе* | *Ἔδωκας σημείωσιν* | **Thou hast given a sign** | `C11:p110, C13:p127, C14:p132, C14:p136` (4x) |
-| `POD.T4.SKORO_PREDVARI` | Tone 4 | *Ско́рѡ предварѝ* | *Ταχὺ προκατάλαβε* | **Speedily anticipate** | `C11:p104` (1x) |
-| `POD.T4.YAVILSYA_ESI_DNESS` | Tone 4 | *Я҆ви́лся е҆сѝ дне́сь* | *Ἐπεφάνης σήμερον* | **Thou hast appeared today** | `C11:p108` (1x) |
-| `POD.T4.KHOTEKH_SLEZAMI` | Tone 4 | *Хотѣ́хъ слеза́ми* | *Ἤθελον δάκρυσιν ἐξαλεῖψαι* | **With tears I desired** | `C12:p114` (1x) |
-| `POD.T5.RADUISYA_POSTNIKOV` | Tone 5 | *Ра́дꙋйся по́стникѡвъ* | *Χαίροις ἀσκητικῶν* | **Rejoice, O container of ascetics** | `C15:p144, C15:p148, C16:p152, C16:p156 (+4 more)` (8x) |
-| `POD.T5.RADUISYA_ZHIVONOSNYI_KRESTE` | Tone 5 | *Ра́дꙋйся живоно́сный Крⷭ҇те* | *Χαίροις ὁ ζωηφόρος Σταυρός* | **Rejoice, O life-bearing Cross** | `C14:p136` (1x) |
-| `POD.T5.SLOVO_SOBEZNACHALNOE` | Tone 5 | *Собезнача́льное Сло́во* | *Τὸν συνάναρχον Λόγον* | **The Word co-unoriginate** | `C14:p138, C14:p139, C15:p142, C15:p145 (+4 more)` (8x) |
-| `POD.T5.PREPODOBNE_OTCHE` | Tone 5 | *Преподо́бне ѻ҆́тче* | *Ὅσιε Πάτερ* | **O venerable father** | `C16:p153, C16:p160` (2x) |
-| `POD.T6.VSE_OTLOZHSHE` | Tone 6 | *Всѐ ѿло́жше* | *Ὅλην ἀποθέμενοι* | **Having laid aside all earthly hope** | `C17:p169, C18:p178, C19:p182, C19:p184 (+3 more)` (7x) |
-| `POD.T6.EZHE_O_NAS` | Tone 6 | *Е҆́же ѡ҆ на́съ* | *Τὴν ὑπὲρ ἡμῶν πληρώσας οἰκονομίαν* | **Fulfilling the dispensation for our sake** | `C18:p171` (1x) |
-| `POD.T6.ANGELSKIYA_SILY` | Tone 6 | *А҆́гг҃льскія си́лы* | *Αἱ Ἀγγελικαὶ δυνάμεις* | **The Angelic Powers** | `C18:p177, C19:p188` (2x) |
-| `POD.T6.TRIDNEVEN_VOSKRESL_ESI` | Tone 6 | *Тридне́вно воскре́слъ е҆сѝ* | *Τριήμερος ἀνέστης* | **Having risen on the third day** | `C18:p177, C19:p181, C19:p185` (3x) |
-| `POD.T6.YAKO_POSUKHU_KHODIV` | Tone 6 | *Я҆́кѡ посꙋ́хꙋ ходи́въ* | *Ὡς ἐν ἠπείρῳ πεζεύσας* | **Having walked as on dry land** | `C18:p178` (1x) |
-| `POD.T6.OGNYA_OSTROV` | Tone 6 | *О҆гня̀ ѡ҆стро́въ* | *Πυρὸς σβέσαντες δύναμιν* | **The island of fire** | `C20:p200` (1x) |
-| `POD.T7.NE_KTOMU_VOZBRANENI` | Tone 7 | *Не ктомꙋ̀ возбране́ни е҆смы̀* | *Οὐκέτι κωλυόμεθα* | **No longer are we forbidden** | `C21:p205, C22:p212, C22:p216, C22:p220 (+1 more)` (5x) |
-| `POD.T7.DNES_BDIT_IUDA` | Tone 7 | *Дне́сь бди́тъ І҆ю́да* | *Σήμερον γρηγορεῖ ὁ Ἰούδας* | **Today Judas watcheth** | `C21:p205, C21:p208, C22:p212, C22:p220` (4x) |
-| `POD.T7.PLOD_CHREVA` | Tone 7 | *Пло́дъ чре́ва твоегѡ̀* | *Καρπὸς κοιλίας* | **Fruit of thy womb** | `C21:p206, C21:p209, C22:p217` (3x) |
-| `POD.T8.POVELENNOE_TAINSTVENNO` | Tone 8 | *Повелѣ́нное та́инственно* | *Τὸ προσταχθὲν μυστικῶς* | **That which was commanded mystically** | `C23:p228, C23:p229, C24:p235, C24:p239 (+4 more)` (8x) |
-| `POD.T8.YAKO_NACHATKI_ESTESTVA` | Tone 8 | *Я҆́кѡ нача́тки е҆стества̀* | *Ὡς ἀπαρχὰς τῆς φύσεως* | **As first-fruits of nature** | `C24:p232` (1x) |
-| `POD.T8.GOSPODI_ASHCHE_I_NA_SUDISHCHI` | Tone 8 | *Гдⷭ҇и, а҆́ще и҆ на сꙋди́щи* | *Κύριε, εἰ καὶ κριτηρίῳ παρέστης* | **O Lord, though Thou didst stand before the tribunal** | `C24:p234, C25:p243, C25:p247` (3x) |
-| `POD.T8.O_PRESLAVNAGO_CHUDESE` | Tone 8 | *Ѡ пресла́внагѡ чꙋдесѐ* | *Ὢ τοῦ παραδόξου θαύματος* | **O most marvelous wonder** | `C24:p238, C26:p251, C26:p260` (3x) |
-| `POD.T8.MUCHENITSY_GOSPODNI` | Tone 8 | *Мч҃ницы Гдⷭ҇ни* | *Οἱ Μάρτυρές σου Κύριε* | **Martyrs of the Lord** | `C25:p242` (1x) |
-| `POD.T8.PREMUDROSTI_NASTAVNICHE` | Tone 8 | *Премꙋ́дрости наста́вниче* | *Τῆς σοφίας ὁδηγέ* | **Guiding unto wisdom** | `C25:p247` (1x) |
-| `POD.T8.CHTO_VAS_NARECHEM` | Tone 8 | *Что̀ вы нарече́мъ ст҃і́и* | *Τί ὑμᾶς καλέσωμεν ἅγιοι* | **What shall we call you, O holy ones** | `C26:p256` (1x) |
-| `POD.T3.DEVA_DNESS` | Tone 3 | *Дѣ́ва дне́сь* | *Ἡ Παρθένος σήμερον* | **Today the Virgin** | `C06:p58` (1x) |
-| `POD.T4.VOZNESYISYA_NA_KREST` | Tone 4 | *Вознесы́йся на Крⷭ҇тъ во́лею* | *Ὁ ὑψωθεὶς ἐν τῷ Σταυρῷ* | **Thou Who wast lifted up upon the Cross** | `C09:p80` (1x) |
-| `POD.T7.IZHE_MENE_RADI` | Tone 7 | *И҆́же менѐ ра́ди* | *Ὁ δι' ἐμὲ* | **He Who for my sake** | `C16:p153` (1x) |
-| `POD.T7.OGNYA_SVETLEE` | Tone 7 | *О҆гня̀ свѣтлѣ́е* | *Πυρὸς τηλαυγέστερον* | **Brighter than fire** | `C16:p154` (1x) |
+| ID | Tone | 1629 Church Slavonic Incipit | Byzantine Greek Automelon | Canonical English Incipit | Attested Loci |
+| :--- | :---: | :--- | :--- | :--- | :--- |
+| `POD.T1.VSEKHVALNII_MUCHENITSY` | Tone 1 | *Прехва́лныи* | *Πανεύφημοι μάρτυρες* | **O all-lauded martyrs** | `C03:p27` (1x) |
+| `POD.T1.GROB_TVOI_SPASE` | Tone 1 | *Гро́бъ тво́й* | *Τὸν τάφον σου Σωτήρ* | **While the soldiers were guarding Thy tomb** | `C01:p7, C01:p9` (2x) |
+| `POD.T2.EGDA_OT_DREVA` | Tone 2 | *Е҆гда̀ ѿ дре́ва* | *Ὅτε ἐκ τοῦ ξύλου* | **When from the Tree** | `C05:p50, C22:p211` (2x) |
+| `POD.T2.VYSHNIKH_ISHCHA` | Tone 2 | *Вы́шнихъ и҆щѧ̀* | *Τὰ ἄνω ζητῶν* | **Seeking the highest** | `C04:p33, C04:p35` (2x) |
+| `POD.T2.MILOSERDIA_SUSHCHI` | Tone 2 | *Милосе́рдія сꙋ́щи и҆сто́чникъ* | *Εὐσπλαγχνίας ὑπάρχουσα πηγή* | **Being the wellspring of loving-kindness** | `C22:p213` (1x) |
+| `POD.T3.KRASOTE_DEVSTVA` | Tone 3 | *Красотѣ̀ дѣ́вства твоегѡ̀* | *Τὴν ὡραιότητα τῆς παρθενίας σου* | **Beholding the beauty of thy virginity** | `C06:p56` (1x) |
+| `POD.T3.VELIA_MUCHENIK_TVOIKH` | Tone 3 | *Ве́лія мꙋ́ченикъ твои́хъ* | *Μεγάλη τῶν Μαρτύρων σου* | **Great is the power of Thy martyrs** | `C23:p226` (1x) |
+| `POD.T3.VELIA_KRESTA_TVOEGO` | Tone 3 | *Ве́ліа крⷭ҇та твое́го Гдⷭ҇и си́ла* | *Μεγάλη τοῦ Σταυροῦ σου, Κύριε* | **Great is the power of Thy Cross, O Lord** | `C08:p73` (1x) |
+| `POD.T4.YAKO_DOBLYA` | Tone 4 | *Я҆́кѡ до́бля* | *Ὡς γενναῖον ἐν Μάρτυσιν* | **As one valiant among martyrs** | `C10:p98, C24:p240` (2x) |
+| `POD.T4.DALS_ESI_ZNAMENIE` | Tone 4 | *Да́лъ є҆сѝ зна́менїе* | *Ἔδωκας σημείωσιν* | **Thou hast given a sign** | `C10:p98` (1x) |
+| `POD.T4.SKORO_PREDVARI` | Tone 4 | *Ско́рѡ предварѝ* | *Ταχὺ προκατάλαβε* | **Speedily anticipate** | `C08:p79` (1x) |
+| `POD.T5.RADUISYA_POSTNIKOV` | Tone 5 | *Ра́дꙋйсѧ по́стническїи* | *Χαίροις ἀσκητικῶν* | **Rejoice, O container of ascetics** | `C13:p122` (1x) |
+| `POD.T5.RADUISYA_ZHIVONOSNYI_KRESTE` | Tone 5 | *Ра́дꙋйся живоно́сный Крⷭ҇те* | *Χαίροις ὁ ζωηφόρος Σταυρός* | **Rejoice, O life-bearing Cross** | `C26:p255` (1x) |
+| `POD.T5.SLOVO_SOBEZNACHALNOE` | Tone 5 | *Собезнача́льное Сло́во* | *Τὸν συνάναρχον Λόγον* | **The Word co-unoriginate** | `C11:p104, C11:p106, C26:p258` (3x) |
+| `POD.T5.PREPODOBNE_OTCHE` | Tone 5 | *Преподо́бне ѻ҆́тче* | *Ὅσιε Πάτερ* | **O venerable father** | `C26:p253` (1x) |
+| `POD.T6.VSE_OTLOZHSHE` | Tone 6 | *Все ᲂу҆пова́нїе* | *Ὅλην ἀποθέμενοι* | **Having laid aside all earthly hope** | `C27:p267, C28:p279` (2x) |
+| `POD.T6.EZHE_O_NAS` | Tone 6 | *Єже ѡ на* | *Τὴν ὑπὲρ ἡμῶν πληρώσας οἰκονομίαν* | **Fulfilling the dispensation for our sake** | `C13:p129, C14:p131` (2x) |
+| `POD.T6.ANGELSKIYA_SILY` | Tone 6 | *А҆́гг҃льскія си́лы* | *Αἱ Ἀγγελικαὶ δυνάμεις* | **The Angelic Powers** | `C15:p148` (1x) |
+| `POD.T6.TRIDNEVEN_VOSKRESL_ESI` | Tone 6 | *Тридне́вно воскре́слъ е҆сѝ* | *Τριήμερος ἀνέστης* | **Having risen on the third day** | `C15:p149` (1x) |
+| `POD.T7.NE_KTOMU_VOZBRANENI` | Tone 7 | *Не ктомꙋ̀ возбранѧ́еми* | *Οὐκέτι κωλυόμεθα* | **No longer are we forbidden** | `C18:p173` (1x) |
+| `POD.T7.DNES_BDIT_IUDA` | Tone 7 | *Дне́сь бди́тъ І҆ꙋ́да* | *Σήμερον γρηγορεῖ ὁ Ἰούδας* | **Today Judas watches** | `C18:p172` (1x) |
+| `POD.T8.POVELENNOE_TAINSTVENNO` | Tone 8 | *Повеле́нное* | *Τὸ προσταχθὲν μυστικῶς* | **That which was commanded mystically** | `C18:p178, C18:p180` (2x) |
+| `POD.T8.GOSPODI_ASHCHE_I_NA_SUDISHCHI` | Tone 8 | *Гдⷭ҇и а҆́ще на сꙋди́щи* | *Κύριε, εἰ καὶ κριτηρίῳ παρέστης* | **O Lord, though Thou didst stand before the tribunal** | `C20:p196` (1x) |
+| `POD.T3.DEVA_DNESS` | Tone 3 | *Дв҃аа* | *Ἡ Παρθένος σήμερον* | **Today the Virgin** | `C06:p58` (1x) |
+| `POD.T4.VOZNESYISYA_NA_KREST` | Tone 4 | *Вознесы́йсѧ на крⷭ҇тъ* | *Ὁ ὑψωθεὶς ἐν τῷ Σταυρῷ* | **Thou Who wast lifted up upon the Cross** | `C09:p81` (1x) |
+| `POD.T7.IZHE_MENE_RADI` | Tone 7 | *И҆́же менѐ ра́ди* | *Ὁ δι' ἐμὲ* | **He Who for my sake** | `C16:p154` (1x) |
+| `POD.T7.OGNYA_SVETLEE` | Tone 7 | *Огнѧ свѣтлѣе* | *Πυρὸς τηλαυγέστερον* | **Brighter than fire** | `C16:p155` (1x) |
+| `POD.EXAP.ZHENY_USLYSHITE` | Tone 1 | *Же́ны оу҆слы́шите* | *Γυναῖκες ἀκουτίσθητε* | **Give ear, ye women** | `C21:p208` (1x) |
+| `POD.SAME.TOIZHE` | Tones 1–8 | *то́йже / Гла́съ и҆ подо́бенъ то́йже* | *Ὁ αὐτός* | **The same / The same Tone and Podoben** | `C03:p27, C05:p50, C13:p123, C26:p254 (+1 more)` (5x) |
 
 ---
 
@@ -88,7 +63,7 @@
 
 ### Tone 1 Sunday Canon Heirmoi
 
-| Ode | Locus | 1630 Church Slavonic Incipit | Byzantine Greek Incipit | 1630 Lviv Octoechos Translation |
+| Ode | Locus | 1629 Church Slavonic Incipit | Byzantine Greek Incipit | 1629 Kyiv-Pechersk Octoechos Translation |
 | :---: | :---: | :--- | :--- | :--- |
 | Ode 1 | `p10` | *Твоя побѣдителная десница, бл҃голѣпно въ крѣпости* | *Σοῦ ἡ τροπαιοῦχος δεξιά* | Thy victorious right hand hath been glorified in strength in a manner befitting God; for, O Immortal One, as almighty it gloriously shattered the adversaries upon the Cross, forging a new path for Israel through the deep. |
 | Ode 3 | `p14` | *Единъ свѣдыи чл҃ческаго существа неможеніе, и* | *Ὁ μόνος εἰδὼς τῆς τῶν βροτῶν* | Thou Who alone knowest the weakness of human nature, and didst compassionately take form therein: gird me with power from on high, that I may cry unto Thee: Holy is the living temple of Thine ineffable glory, O Lover of mankind! |
@@ -97,11 +72,11 @@
 | Ode 6 | `p10` | *Ѡбыиде насъ послѣдная бездна, инѣсть избавляющаго* | *Ἐκύκλωσεν ἡμᾶς ἐσχάτη ἄβυσσος* | The lowest abyss hath compassed us about, and there is none to deliver; and we were accounted as sheep for the slaughter: save Thy people, O our God! |
 | Ode 7 | `p15` | *Тебе мысленную Бце пещь, разумѣемъ вѣрнїи* | *Σὲ νοητήν, Θεοτόκε, κάμινον* | Thee, O Mother of God, we faithful perceive as the spiritual furnace: for as the highly exalted One saved the three children, so hath God wholly renewed me, man, in thy womb: the praised and all-glorious God of our fathers. |
 | Ode 8 | `p10` | *В пещи ѡтроцы Исраильсти, якоже въ* | *Ἐν καμίνῳ Παῖδες Ἰσραήλ* | In the furnace the children of Israel, as in a crucible, burning with the beauty of piety purer than gold, said: Bless the Lord, all ye works of the Lord; sing praise and exalt Him supremely unto all ages! |
-| Ode 9 | `p16` | *О́бразъ ч̃таго рожтва твоего, распалаемꙋ кꙋпину* | *Τύπον τῆς ἁγνῆς λοχείας σου* | The burning bush showed forth an unburnt image of thy pure childbearing; and now we pray thee to quench the furnace of temptations that rageth against us, that we may unceasingly magnify thee, O Mother of God. |
+| Ode 9 | `p16` | *О́бразъ ч̃таго рожтва твоего, распалаемꙋ кꙋпину* | *Τύπον τῆς ἁγνῆς λοχείας σου* | The burning bush showed forth an unburnt image of thy pure childbearing; and now we pray thee to quench the furnace of temptations that rages against us, that we may unceasingly magnify thee, O Mother of God. |
 
 ### Tone 2 Sunday Canon Heirmoi
 
-| Ode | Locus | 1630 Church Slavonic Incipit | Byzantine Greek Incipit | 1630 Lviv Octoechos Translation |
+| Ode | Locus | 1629 Church Slavonic Incipit | Byzantine Greek Incipit | 1629 Kyiv-Pechersk Octoechos Translation |
 | :---: | :---: | :--- | :--- | :--- |
 | Ode 1 | `p39` | *Въ глубинѣ́ потопи́ дре́вле: трꙋное единонача́лное* | *Ἐν βυθῷ κατέστρωσε ποτέ* | He Who submerged of old in the deep: let us hymn the three-personed, single-principled essence of the Godhead, singing: Possessing essentially an inexhaustible abyss of mercy: have compassion and save those who bow down before Thee, as Thou art the Lover of mankind! |
 | Ode 3 | `p39` | *На ка́мени мя вѣ́ры оу҆тверди́: а҆́лѳоткомъ* | *Ἐν πέτρᾳ με τῆς πίστεως στερεώσας* | Establish me upon the rock of faith: the Godhead, first principle of nature, glorifying Thee with equal honor in three Persons; for Thou, proceeding as Life from Life, art without corruption our only God, and none is holy save Thee, O Lord! |
@@ -114,7 +89,7 @@
 
 ### Tone 3 Sunday Canon Heirmoi
 
-| Ode | Locus | 1630 Church Slavonic Incipit | Byzantine Greek Incipit | 1630 Lviv Octoechos Translation |
+| Ode | Locus | 1629 Church Slavonic Incipit | Byzantine Greek Incipit | 1629 Kyiv-Pechersk Octoechos Translation |
 | :---: | :---: | :--- | :--- | :--- |
 | Ode 1 | `p72` | *Иже воды древле, маніемъ Божественымъ, въ* | *Ὁ τὰ ὕδατα πάλαι νεύματι θείῳ* | He Who of old by His divine nod gathered the waters into one gathering, and divided the sea for the people of Israel: this is our God, and He is exceedingly glorious; unto Him alone let us sing, for He hath been glorified. |
 | Ode 3 | `p70` | *И́же ѿ неси́щныхъ вся̀ приве́: трои́ти* | *Ὁ ἐκ μὴ ὄντων τὰ πάντα παραγαγών* | He Who brought all things out of nothing: to divide the waters of old, He commanded, watering the earth; prefiguring unto all the Trinitarian hypostasis of the sole Godhead and Dominion. |
@@ -123,11 +98,11 @@
 | Ode 6 | `p78` | *Иже въ конецъ вѣкѡмъ дошедшихъ члѣколюбче* | *Ἄβυσσος ἐσχάτη ἁμαρτημάτων ἐκύκλωσέ με* | Thou Who hast reached unto the end of the ages, O Lover of mankind, and hast them that are engulfed in the storm-tossed thoughts of wrath: despise not them that cry: Save, O Savior, as Thou didst save the Prophet from the beast. |
 | Ode 7 | `p74` | *Якоже древле, блгочестивыя три отроки ѡросилъ* | *Ὡς πάλαι τοὺς εὐσεβεῖς τρεῖς Παῖδας* | As of old Thou didst bedew the three pious Children in the Chaldean furnace: with the bright fire of the Godhead enlighten us also, who cry: Blessed art Thou, O God of our fathers! |
 | Ode 8 | `p74` | *Въ непостоянномъ огни сококубльшеся, иже блгочестіемъ* | *Ἀστέκτῳ πυρὶ ἑνωθέντες* | Gathered together in the unenduring fire, yet unharmed by the flame, the youths pre-eminent in piety sang a divine hymn: 'Bless the Lord, all ye works of the Lord; sing and exalt Him above all unto the ages!' |
-| Ode 9 | `p74` | *Новое чюдо, и бголѣпное: Дѣвическою оубо* | *Καινὸν τὸ θαῦμα καὶ θεοπρεπές* | A new wonder and God-befitting: for through the closed virginal gate the Lord manifestly passeth; bare at His entrance, and flesh-bearing God appeared at His going forth, and the gate remaineth shut: her unceasingly as Mother of God do we magnify. |
+| Ode 9 | `p74` | *Новое чюдо, и бголѣпное: Дѣвическою оубо* | *Καινὸν τὸ θαῦμα καὶ θεοπρεπές* | A new wonder and God-befitting: for through the closed virginal gate the Lord manifestly passes; bare at His entrance, and flesh-bearing God appeared at His going forth, and the gate remains shut: her unceasingly as Mother of God do we magnify. |
 
 ### Tone 4 Sunday Canon Heirmoi
 
-| Ode | Locus | 1630 Church Slavonic Incipit | Byzantine Greek Incipit | 1630 Lviv Octoechos Translation |
+| Ode | Locus | 1629 Church Slavonic Incipit | Byzantine Greek Incipit | 1629 Kyiv-Pechersk Octoechos Translation |
 | :---: | :---: | :--- | :--- | :--- |
 | Ode 1 | `p111` | *Триста́ты крѣ́пкїѧ, рожде́нся ѡ Дв҃ы, безстра́стїя* | *Θαλάσσης τὸ ἐρυθραῖον πέλαγος* | The three mighty captains: He Who was born of the Virgin hath drowned the tripartite soul in the deep of impassibility; by prayer, as upon a timbrel, in the mortification of the body, let me sing a hymn of victory unto Thee! |
 | Ode 3 | `p112` | *С высоты̀ сни́де во́лею на́землю, и́же* | *Εὐφραίνεται ἐπὶ σοὶ ἡ Ἐκκλησία σου, Χριστέ* | From on high He descended willingly upon the earth, He Who is exalted above every principality and power, and hath lifted up from nethermost hades the humble nature of mankind; for there is none holy save Thee, O Lord! |
@@ -140,9 +115,9 @@
 
 ### Tone 5 Sunday Canon Heirmoi
 
-| Ode | Locus | 1630 Church Slavonic Incipit | Byzantine Greek Incipit | 1630 Lviv Octoechos Translation |
+| Ode | Locus | 1629 Church Slavonic Incipit | Byzantine Greek Incipit | 1629 Kyiv-Pechersk Octoechos Translation |
 | :---: | :---: | :--- | :--- | :--- |
-| Ode 1 | `p140` | *Коня̀ и҆ вса́дника въ мо́ре чермно́е* | *Ἵππον καὶ ἀναβάτην εἰς θάλασσαν Ἐρυθράν* | The steed and rider into the Red Sea: Christ Who shattereth warfare with a high arm shook them off; but He saved Israel, as they sang a song of victory! |
+| Ode 1 | `p140` | *Коня̀ и҆ вса́дника въ мо́ре чермно́е* | *Ἵππον καὶ ἀναβάτην εἰς θάλασσαν Ἐρυθράν* | The steed and rider into the Red Sea: Christ Who shatters warfare with a high arm shook them off; but He saved Israel, as they sang a song of victory! |
 | Ode 3 | `p138` | *Оу҆тверзе́й ниначїо́мъ же: зми́сленъ ѹ҆мная сꙋще́ства* | *Ὁ πήξας ἐπ' οὐδενὸς τὴν γῆν* | Thou Who upon nothing didst establish the noetic essences by Thy thought, and didst constitute them as unceasing chanters of Thy Godhead, O Tri-radiant God and Creator of all: receive also from mortals and earthborn beings praise and supplication, as Thou art tender-hearted! |
 | Ode 4 | `p141` | *Бж҃твенное твоѐ разꙋмѣ́въ истоща́нїе, прозри́тельнѣ А҆вваку́мъ* | *Τὴν θείαν ἐννοήσας σου κένωσιν* | Perceiving Thy divine condescension with prophetic insight, O Christ, Habakkuk cried aloud unto Thee in trembling: Thou art come for the salvation of Thy people, to save Thine anointed ones! |
 | Ode 5 | `p141` | *Ѡ҆дѣѧ́исѧ свѣ́томъ, ꙗ́кѡ ри́зою, к тебѣ̀* | *Ὁ ἀναβαλλόμενος φῶς ὡς ἱμάτιον* | Thou Who clothest Thyself with light as with a garment, unto Thee I rise early and unto Thee I cry: Enlighten my darkened soul, O Christ, as the only Merciful One! |
@@ -153,11 +128,11 @@
 
 ### Tone 6 Sunday Canon Heirmoi
 
-| Ode | Locus | 1630 Church Slavonic Incipit | Byzantine Greek Incipit | 1630 Lviv Octoechos Translation |
+| Ode | Locus | 1629 Church Slavonic Incipit | Byzantine Greek Incipit | 1629 Kyiv-Pechersk Octoechos Translation |
 | :---: | :---: | :--- | :--- | :--- |
 | Ode 1 | `p178` | *Ꙗ҆́кωтве́нный Фараѡ́нъ, погло́пленъ бы́сть со во́инствомъ* | *Ὡς ἐν ἠπείρῳ πεζεύσας ὁ Ἰσραήλ* | The hard-hearted Pharaoh was swallowed up with his army, but Israel passed through the midst of the sea, crying aloud: "Let us sing unto the Lord our God, for He hath been glorified! |
 | Ode 3 | `p173` | *Нѣ́сть ст҃ъ ꙗ҆́коже ты̀, Гдⷭ҇и Бж҃е* | *Οὐκ ἔστιν ἅγιος ὡς σύ, Κύριε ὁ Θεός μου* | There is none holy as Thou, O Lord my God, Who hast exalted the horn of Thy faithful, O Good One, and established us upon the rock of Thy confession! |
-| Ode 4 | `p174` | *Хрⷭ҇то́съ моѧ̀ си́ла, Бг҃ъ и҆ Гдⷭ҇ь* | *Χριστός μου δύναμις, Θεὸς καὶ Κύριος* | Christ is my power, God and Lord!" the venerable Church divinely crieth aloud, keeping feast in the Lord from a pure understanding! |
+| Ode 4 | `p174` | *Хрⷭ҇то́съ моѧ̀ си́ла, Бг҃ъ и҆ Гдⷭ҇ь* | *Χριστός μου δύναμις, Θεὸς καὶ Κύριος* | Christ is my power, God and Lord!" the venerable Church divinely cries aloud, keeping feast in the Lord from a pure understanding! |
 | Ode 5 | `p174` | *Бж҃твеннымъ свѣ́то́ ти Бл҃же: ᲂу҆́тренюющихъ тебѣ̀* | *Τῷ θείῳ φέγγει σου, ἀγαθέ* | With Thy Divine light, O Good One, illumine, I pray Thee, the souls of those who rise early unto Thee with love, to behold Thee, O Word of God, the true God, Who deliverest us from the gloom of sins! |
 | Ode 6 | `p179` | *Къ то́мꙋ поже́ртꙋ бы́въ грѣхо́внымъ: вопїю́* | *Τοῦ βίου τὴν θάλασσαν ὑψουμένην καθορῶν* | Being swallowed up by the abyss of sins, I cry unto Thee, O Christ, with the Prophet: Lead me up from corruption! |
 | Ode 7 | `p175` | *Хладода́тельнꙋ ᲂу҆́бо пе́щь, сотвори́ А҆́гг҃лъ прпⷣбнымъ* | *Δροσοβόλον μὲν τὴν κάμινον* | The Angel made the furnace sprinkle dew for the holy children, but the command of God consumed the Chaldeans, persuading the tyrant to cry: "Blessed art Thou, O God of our fathers! |
@@ -166,7 +141,7 @@
 
 ### Tone 7 Sunday Canon Heirmoi
 
-| Ode | Locus | 1630 Church Slavonic Incipit | Byzantine Greek Incipit | 1630 Lviv Octoechos Translation |
+| Ode | Locus | 1629 Church Slavonic Incipit | Byzantine Greek Incipit | 1629 Kyiv-Pechersk Octoechos Translation |
 | :---: | :---: | :--- | :--- | :--- |
 | Ode 1 | `p199` | *Ма́нїемъ тѝ на зе́млемъ ѡ҆бразꙋ́етсѧ мно́готꙋлъ* | *Νεύματί σου πρὸς γεώδη ἀντίτυπον* | By Thy nod upon earth is fashioned the multitude of intellectual beings, and by material order a choir unto the praise of the thrice-radiant one Godhead of all, to chant a song of victory unto Thee! |
 | Ode 3 | `p206` | *Оу́тверди́ся срⷣце моѐ ѡ́ Гдⷭѣ, воз-* | *Ὁ κατ' ἀρχὰς τοὺς οὐρανοὺς παντοδυνάμῳ λόγῳ* | My heart is established in the Lord, my horn is exalted in my God, my mouth is enlarged over mine enemies: I have rejoiced in Thy salvation! |
@@ -179,7 +154,7 @@
 
 ### Tone 8 Sunday Canon Heirmoi
 
-| Ode | Locus | 1630 Church Slavonic Incipit | Byzantine Greek Incipit | 1630 Lviv Octoechos Translation |
+| Ode | Locus | 1629 Church Slavonic Incipit | Byzantine Greek Incipit | 1629 Kyiv-Pechersk Octoechos Translation |
 | :---: | :---: | :--- | :--- | :--- |
 | Ode 1 | `p230` | *Воѡруже́нна Фараѡ́на погрузѝ: чꙋ-* | *Ἁρματηλάτην Φαραὼ ἐβύθισε* | He plunged the armed Pharaoh into the deep: of old the wonder-working rod of Moses, striking the sea crosswise, divided it; and it saved Israel, the fugitive traveling on foot, as he sang a song unto God! |
 | Ode 3 | `p235` | *Небесно́мꙋ кругꙋ, верхотво́рче* | *Ὁ στερεώσας κατ' ἀρχὰς τοὺς οὐρανούς* | O Lord, Builder of the vault of heaven and Founder of the Church: do Thou establish me in Thy love, O summit of desires, confirmation of the faithful, O Thou Who alone art the Lover of mankind! |
@@ -193,12 +168,30 @@
 
 ---
 
-## 4. Un-Invoked Comparative Automela (Not Prescribed in this Octoechos)
+## 4. Un-Invoked Comparative Automela (Not Prescribed in This Edition)
 
-The following classical Byzantine Automela exist in the broader Byzantine/Slavonic tradition but are **not physically prescribed** within the weekly Octoechos cycle of the 1630 Lviv edition (they belong primarily to the Menaion, Triodion, or Horologion):
+The following classical Byzantine/Slavonic Automela exist in the shared liturgical registry (`data/liturgical_primitives_registry.json`) but have **0 invocations** within the physical leaves of `1629_kyiv_octoechos`:
 
 | Tone | Model ID | Classical Slavonic Incipit | Byzantine Greek Automelon | Classical English Title | Liturgical Provenance / Reason for Non-Invocation |
 | :---: | :--- | :--- | :--- | :--- | :--- |
+| Tone 1 | `POD.T1.NEBESNYKH_CHINOV` | *Небе́сныхъ чинѡ́въ* | *Τῶν οὐρανίων ταγμάτων* | **Joy of the heavenly ranks** | Prescribed in full 8-week weekday Octoechos recensions; not invoked in the 1629 Kyiv-Pechersk Octoechos cycle. |
+| Tone 1 | `POD.T1.KAMENI_ZAPECHATLENU` | *Ка́мени запеча́танꙋ* | *Τοῦ λίθου σφραγισθέντος* | **When the stone had been sealed** | Prescribed in full 8-week weekday Octoechos recensions; not invoked in the 1629 Kyiv-Pechersk Octoechos cycle. |
+| Tone 1 | `POD.T1.EGDA_PRIIDESHI` | *Е҆гда̀ прі́йдеши* | *Ὅταν ἔλθῃς ὁ Θεός* | **When Thou shalt come** | Prescribed in full 8-week weekday Octoechos recensions; not invoked in the 1629 Kyiv-Pechersk Octoechos cycle. |
+| Tone 3 | `POD.T3.DELA_DNIA` | *Дѣла̀ дні́а* | *Τὰ ἔργα τῆς ἡμέρας* | **The works of the day** | Prescribed in full 8-week weekday Octoechos recensions; not invoked in the 1629 Kyiv-Pechersk Octoechos cycle. |
+| Tone 3 | `POD.T3.KRESTOOBRAZNO` | *Крⷭ҇тоѡбра́зно* | *Σταυροφανῶς Μωϋσῆς* | **In the likeness of the Cross** | Prescribed in full 8-week weekday Octoechos recensions; not invoked in the 1629 Kyiv-Pechersk Octoechos cycle. |
+| Tone 3 | `POD.T3.BOZHESTVENNYYA_VERY` | *Бж҃е́ственныя вѣ́ры* | *Θείας πίστεως* | **Of the divine faith** | Prescribed in full 8-week weekday Octoechos recensions; not invoked in the 1629 Kyiv-Pechersk Octoechos cycle. |
+| Tone 3 | `POD.T3.POSTAVISHA_TRIDESYATE` | *Поста́виша три́десѧте* | *Ἔστησαν τὰ τριάκοντα ἀργύρια* | **They weighed thirty pieces of silver** | Prescribed in full 8-week weekday Octoechos recensions; not invoked in the 1629 Kyiv-Pechersk Octoechos cycle. |
+| Tone 4 | `POD.T4.ZVANNYI_SVYSHE` | *Зва́нный свы́ше* | *Ὁ κληθεὶς ἄνωθεν* | **Being called from on high** | Prescribed in full 8-week weekday Octoechos recensions; not invoked in the 1629 Kyiv-Pechersk Octoechos cycle. |
+| Tone 4 | `POD.T4.YAVILSYA_ESI_DNESS` | *Я҆ви́лся е҆сѝ дне́сь* | *Ἐπεφάνης σήμερον* | **Thou hast appeared today** | Prescribed in full 8-week weekday Octoechos recensions; not invoked in the 1629 Kyiv-Pechersk Octoechos cycle. |
+| Tone 4 | `POD.T4.KHOTEKH_SLEZAMI` | *Хотѣ́хъ слеза́ми* | *Ἤθελον δάκρυσιν ἐξαλεῖψαι* | **With tears I desired** | Prescribed in full 8-week weekday Octoechos recensions; not invoked in the 1629 Kyiv-Pechersk Octoechos cycle. |
+| Tone 6 | `POD.T6.YAKO_POSUKHU_KHODIV` | *Я҆́кѡ посꙋ́хꙋ ходи́въ* | *Ὡς ἐν ἠπείρῳ πεζεύσας* | **Having walked as on dry land** | Prescribed in full 8-week weekday Octoechos recensions; not invoked in the 1629 Kyiv-Pechersk Octoechos cycle. |
+| Tone 6 | `POD.T6.OGNYA_OSTROV` | *О҆гня̀ ѡ҆стро́въ* | *Πυρὸς σβέσαντες δύναμιν* | **The island of fire** | Prescribed in full 8-week weekday Octoechos recensions; not invoked in the 1629 Kyiv-Pechersk Octoechos cycle. |
+| Tone 7 | `POD.T7.PLOD_CHREVA` | *Пло́дъ чре́ва твоегѡ̀* | *Καρπὸς κοιλίας* | **Fruit of thy womb** | Prescribed in full 8-week weekday Octoechos recensions; not invoked in the 1629 Kyiv-Pechersk Octoechos cycle. |
+| Tone 8 | `POD.T8.YAKO_NACHATKI_ESTESTVA` | *Я҆́кѡ нача́тки е҆стества̀* | *Ὡς ἀπαρχὰς τῆς φύσεως* | **As first-fruits of nature** | Prescribed in full 8-week weekday Octoechos recensions; not invoked in the 1629 Kyiv-Pechersk Octoechos cycle. |
+| Tone 8 | `POD.T8.O_PRESLAVNAGO_CHUDESE` | *Ѡ пресла́внагѡ чꙋдесѐ* | *Ὢ τοῦ παραδόξου θαύματος* | **O most marvelous wonder** | Prescribed in full 8-week weekday Octoechos recensions; not invoked in the 1629 Kyiv-Pechersk Octoechos cycle. |
+| Tone 8 | `POD.T8.MUCHENITSY_GOSPODNI` | *Мч҃ницы Гдⷭ҇ни* | *Οἱ Μάρτυρές σου Κύριε* | **Martyrs of the Lord** | Prescribed in full 8-week weekday Octoechos recensions; not invoked in the 1629 Kyiv-Pechersk Octoechos cycle. |
+| Tone 8 | `POD.T8.PREMUDROSTI_NASTAVNICHE` | *Премꙋ́дрости наста́вниче* | *Τῆς σοφίας ὁδηγέ* | **Guiding unto wisdom** | Prescribed in full 8-week weekday Octoechos recensions; not invoked in the 1629 Kyiv-Pechersk Octoechos cycle. |
+| Tone 8 | `POD.T8.CHTO_VAS_NARECHEM` | *Что̀ вы нарече́мъ ст҃і́и* | *Τί ὑμᾶς καλέσωμεν ἅγιοι* | **What shall we call you, O holy ones** | Prescribed in full 8-week weekday Octoechos recensions; not invoked in the 1629 Kyiv-Pechersk Octoechos cycle. |
 | Tone 2 | `POD.T2.DOM_EVFRATOV` | *До́ме Е҆ѵфра́ѳовъ* | *Οἶκος τοῦ Εὐφραθᾶ* | **O House of Ephratha** | Menaion December cycle (Forefeast of the Nativity); not used in the weekly Octoechos. |
-| Tone 4 | `POD.T4.UDIVISYA_IOSIF` | *Оу҆диви́ся І҆ѡ́сифъ* | *Κατεπλάγη Ἰωσήφ* | **Joseph was amazed** | Tone 4 Sessional Hymn model; in this 1630 edition on f. 105v (p106) the rubric is left as an unstated incipit after 'По:'. |
-| Tone 7 | `POD.T7.RADUISYA` | *Ра́дꙋйся* | *Χαῖρε* | **Rejoice** | Chanted as a borrowed model heading on f. 227v (p227); functions as a cross-tone reference rather than an independent Tone 7 model. |
+| Tone 4 | `POD.T4.UDIVISYA_IOSIF` | *Оу҆диви́ся І҆ѡ́сифъ* | *Κατεπλάγη Ἰωσήφ* | **Joseph was amazed** | Tone 4 Sessional Hymn model; omitted when weekday cycles are condensed. |
+| Tone 7 | `POD.T7.RADUISYA` | *Ра́дꙋйся* | *Χαῖρε* | **Rejoice** | Cross-tone borrowed model heading. |

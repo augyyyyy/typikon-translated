@@ -1,16 +1,12 @@
-# TONE 7: RESURRECTIONAL AND WEEKDAY HYMNOGRAPHY
+# TONE 7: SUNDAY RESURRECTIONAL HYMNOGRAPHY
 
-## TONE 7
+## SATURDAY EVENING: VESPERS (TONE 7)
 
-*In the Book of the Resurrection: Tone 7.*
+[f. 148rA] *In the Book of the Resurrection: Tone 7.*
 
 Come, let us rejoice in the Lord, Who shattered the dominion of death and enlightened the human race, crying with the bodiless hosts: O our Creator and Savior, glory to Thee!
 
-Thou didst endure the Cross and burial for our sake, O Savior; and as God, by death Thou didst put death to death.
-
-**[Left Page — Fol. 148v]**
-
-...didst put to death: therefore we worship Thy third-day Resurrection, O Lord, glory to Thee!
+Thou didst endure the Cross and burial for our sake, O Savior; and as God, by death Thou [f. 148vA] didst put to death: therefore we worship Thy third-day Resurrection, O Lord, glory to Thee!
 
 The Apostles, seeing the Resurrection of the Creator, marveled, singing the angelic praise: This is the glory of the Church, this is the wealth of the Kingdom! O Thou Who didst suffer for our sake, O Lord, glory to Thee!
 
@@ -18,11 +14,7 @@ The Apostles, seeing the Resurrection of the Creator, marveled, singing the ange
 
 Though Christ was seized by lawless men, yet Thou art my God, and I am not ashamed; He was smitten upon the back, and I deny Thee not; He was nailed unto the Cross, and I conceal it not; in Thy Resurrection do I boast, for Thy death is my life: O Almighty One, Lover of mankind, O Lord, glory to Thee! [^154]
 
-Fulfilling the prophecy of David, Christ revealed...
-
-**[Right Page — Fol. 149r]**
-
-...revealed His majesties in Zion unto His disciples, showing Himself praised and ever glorified with the Father and the Holy Spirit: first indeed bodiless as the Word, and afterwards for our sake incarnate and put to death as man, and risen with power as the Lover of mankind.
+Fulfilling the prophecy of David, Christ revealed [f. 149rA] His majesties in Zion unto His disciples, showing Himself praised and ever glorified with the Father and the Holy Spirit: first indeed bodiless as the Word, and afterwards for our sake incarnate and put to death as man, and risen with power as the Lover of mankind.
 
 Thou didst descend into Hades, O Christ, as Thou didst will; Thou didst overthrow death as God and Master, and didst rise on the third day, raising Adam with Thyself from the bonds of Hades and from corruption, as he cried out and said: Glory to Thy Resurrection, O only Lover of mankind!
 
@@ -30,11 +22,7 @@ The Lord was laid in the tomb as one asleep, and He arose on the third day as On
 
 *Glory, and now. Theotokion:*
 
-Thou wast known as Mother above nature, O Theotokos, yet remainedst...
-
-**[Left Page — Fol. 149v]**
-
-...remainedst a virgin above speech and understanding, and no tongue can declare the wonders of thy childbearing; for glorious being thy conception, O pure one, incomprehensible is the manner of thy giving birth: for where God so wills, the order of nature is overcome. Therefore, knowing thee as the Mother of God, we earnestly pray thee: Intercede that our souls may be saved! [^155]
+Thou wast known as Mother above nature, O Theotokos, yet remainedst [f. 149vA] a virgin above speech and understanding, and no tongue can declare the wonders of thy childbearing; for glorious being thy conception, O pure one, incomprehensible is the manner of thy giving birth: for where God so wills, the order of nature is overcome. Therefore, knowing thee as the Mother of God, we earnestly pray thee: Intercede that our souls may be saved! [^155]
 
 *At the Aposticha, Resurrection Stichera, Tone 7:*
 
@@ -44,9 +32,7 @@ Risen from the tomb, O Savior of the world, Thou didst raise man with Thyself in
 
 Come, let us worship Him Who rose from the dead and enlightened all things; for He has freed us from the tyranny of Hades by His third-day Resurrection, granting us life and great mercy.
 
-**[Right Page — Fol. 150r]**
-
-Having descended into Hades, O Christ, Thou didst take death captive, and having risen on the third day, Thou didst raise us with Thyself as we cry: Glory to Thy Resurrection, O only Lover of mankind!
+[f. 150rA] Having descended into Hades, O Christ, Thou didst take death captive, and having risen on the third day, Thou didst raise us with Thyself as we cry: Glory to Thy Resurrection, O only Lover of mankind!
 
 Thou didst appear fearful, O Lord, even as Thou layest in the tomb as one asleep; but having risen on the third day as One mighty, Thou didst raise Adam with Thyself, who glorifies Thy almighty uprising, O Lord, Lover of mankind.
 
@@ -54,13 +40,11 @@ Thou didst appear fearful, O Lord, even as Thou layest in the tomb as one asleep
 
 Beneath thy shelter, O Sovereign Lady, all we who are born of earth flee, crying unto thee: O Theotokos, our hope, deliver us from our countless transgressions, and save our souls!
 
+## SUNDAY MIDNIGHT OFFICE (TONE 7)
+
 *On Sunday at the Midnight Office, Canon to the Holy and Life-Originating Trinity, Tone 7. Ode 1. Heirmos: By Thy beck:*
 
-Open Thou the spiritual lips of my heart and these material lips to Thy praise, O Thrice-Radiant One, unique Godhead of all, that I may sing unto Thee...
-
-**[Left Page — Fol. 150v]**
-
-...a light-bestowing song of thanksgiving. [^156]
+Open Thou the spiritual lips of my heart and these material lips to Thy praise, O Thrice-Radiant One, unique Godhead of all, that I may sing unto Thee [f. 150vA] a light-bestowing song of thanksgiving. [^156]
 
 That Thou mightest show forth the co-eternal power of Thy goodness, O unfathomable Trinity, Thou didst fashion man, an earthen image of Thy primordial and sovereign lordship, O Creator.
 
@@ -72,11 +56,7 @@ Thou didst appear unto Moses at the bush, O Word of God, as a consuming fire, ye
 
 *Ode 3. Heirmos: In the beginning, the heavens:*
 
-Hymning Thee as the single, thrice-radiant, and all-creative Master, we ask deliverance from sins and...
-
-**[Right Page — Fol. 151r]**
-
-...and calamities: O Almighty God, despise not those who in faith glorify Thy goodness!
+Hymning Thee as the single, thrice-radiant, and all-creative Master, we ask deliverance from sins and [f. 151rA] calamities: O Almighty God, despise not those who in faith glorify Thy goodness!
 
 A shoot sprouted from the Father as from an unoriginate root, God the Word, equal in power with the connatural Divine Spirit; therefore, O faithful, in Trinity of persons we glorify the single Lordship.
 
@@ -84,11 +64,7 @@ Equal in glory and connatural is the tri-hypostatic Godhead, indivisible and ins
 
 *Theotokion:*
 
-Unchangeably likened in all things unto men, O Word of God, Thou didst come forth visibly from the pure Virgin, and didst reveal unto all the thrice-radiant Godhead and single essence of the unchangeable...
-
-**[Left Page — Fol. 151v]**
-
-...hypostases. [^157]
+Unchangeably likened in all things unto men, O Word of God, Thou didst come forth visibly from the pure Virgin, and didst reveal unto all the thrice-radiant Godhead and single essence of the unchangeable [f. 151vA] hypostases. [^157]
 
 *Sessional Hymn, Tone 7.*
 
@@ -108,9 +84,7 @@ Through symbolic utterances knowing of Thy incomprehensible, thrice-radiant Godh
 
 *Glory:*
 
-**[Right Page — Fol. 152r]**
-
-On earth as in heaven, together with the bodiless choirs, indivisibly we distinguish Thee, and in love we glorify Thee: O Unity Trinity, as reigning piously over all that exists!
+[f. 152rA] On earth as in heaven, together with the bodiless choirs, indivisibly we distinguish Thee, and in love we glorify Thee: O Unity Trinity, as reigning piously over all that exists!
 
 *And now. Theotokion:*
 
@@ -126,11 +100,7 @@ Mind, Word, and Spirit, glorifying the one divine Principle and tri-personal Nat
 
 *And now. Theotokion:*
 
-Taking shape in human nature from the holy Virgin, O Word of God, Thou didst teach us to sing...
-
-**[Left Page — Fol. 152v]**
-
-...unto the Trinity in unity, connatural and sharing one throne. [^158]
+Taking shape in human nature from the holy Virgin, O Word of God, Thou didst teach us to sing [f. 152vA] unto the Trinity in unity, connatural and sharing one throne. [^158]
 
 *Ode 6. Heirmos: Sailing in the surge of the billows of...*
 
@@ -146,13 +116,9 @@ Having by an ineffable word begotten the Word from the Sun, the Father: another 
 
 *Then the Sessional Hymn, Tone 7.*
 
-*Podoben: "Brighter than fire" (О҆гня̀ свѣтлѣ́е):*
+*Podoben: "Brighter than fire" (Огнѧ свѣтлѣе):*
 
-O consubstantial Trinity, tri-hypostatic Unity...
-
-**[Right Page — Fol. 153r]**
-
-...have mercy on those whom Thou hast created, O Intangible One, burning away the wickedness of our souls and enlightening the hearts of those who hymn Thy compassion: O God, glory to Thee!
+O consubstantial Trinity, tri-hypostatic Unity [f. 153rA] have mercy on those whom Thou hast created, O Intangible One, burning away the wickedness of our souls and enlightening the hearts of those who hymn Thy compassion: O God, glory to Thee!
 
 *Glory, and now. Theotokion:*
 
@@ -162,11 +128,7 @@ Brighter than fire and more active than flame, O Mother of goodness, our Soverei
 
 Ever shining with beam-radiant splendors, O Thrice-Radiant God, inaccessible and super-essential Unity: save those who piously believe in Thee, O Master, and who worship Thee!
 
-Obedient to the voice of the divine prophets, Thee alone, the God of all, we glorify in three Persons, thus crying: Blessed...
-
-**[Left Page — Fol. 153v]**
-
-...art Thou, O Lord God of our fathers! [^159]
+Obedient to the voice of the divine prophets, Thee alone, the God of all, we glorify in three Persons, thus crying: Blessed [f. 153vA] art Thou, O Lord God of our fathers! [^159]
 
 *Glory:*
 
@@ -180,11 +142,7 @@ That He Who fashioned man might renew him again, O all-pure one, having become v
 
 Vouchsafe the hearts of Thy cantors to be illumined with light-bestowing rays of the thrice-radiant Sun, and grant now unto all, as far as it is possible, ever to behold Thy beauty, O Unity Trinity, who with fitting faith warmly and gloriously hymn Thy majesty.
 
-Thou upholdest all things, O Triune and Single...
-
-**[Right Page — Fol. 154r]**
-
-...Lordship without beginning, and rulest over heaven and earth; therefore, drawn by Thy love, ever preserve me who sing: Bless the Lord, all ye works of the Lord, and exalt Him above all unto ages of ages!
+Thou upholdest all things, O Triune and Single [f. 154rA] Lordship without beginning, and rulest over heaven and earth; therefore, drawn by Thy love, ever preserve me who sing: Bless the Lord, all ye works of the Lord, and exalt Him above all unto ages of ages!
 
 Make me a temple of Thy thrice-radiant ray, O Benefactor, Lover of mankind; and by communion and Thy overshadowing, show me inaccessible to invisible foes and bodily passions, O Sovereign Master, my monarchical God, O Lord of glory, that I may warmly sing unto ages of ages!
 
@@ -194,11 +152,7 @@ The primordial Light, having shone forth from thy womb, O all-pure Mother of God
 
 *Ode 9. Heirmos: Mother of God and Virgin:*
 
-To exalt and hymn Thee worthily, Whom...
-
-**[Left Page — Fol. 154v]**
-
-...the Seraphim unceasingly hymn in the highest, we earthen ones are unable to do; nevertheless, taking courage, we sing unto Thee as the Master of all, and we magnify the God Who loves mankind. [^160]
+To exalt and hymn Thee worthily, Whom [f. 154vA] the Seraphim unceasingly hymn in the highest, we earthen ones are unable to do; nevertheless, taking courage, we sing unto Thee as the Master of all, and we magnify the God Who loves mankind. [^160]
 
 Deliver Thy faithful cantors from bodily ailments and spiritual passions, O unified, indivisible Trinity, and vouchsafe that we be preserved unharmed from every worldly assault!
 
@@ -206,11 +160,9 @@ O co-equal, primordial, thrice-radiant, almighty Dominion, immutable Beauty, ess
 
 *Theotokion:*
 
-Taking a mind and a soul and the commingling of flesh from thy all-pure womb, O Mother of God, God the Word truly appeared as man, and...
+Taking a mind and a soul and the commingling of flesh from thy all-pure womb, O Mother of God, God the Word truly appeared as man, and [f. 155rA] clearly revealed man as a partaker of the divine nature.
 
-**[Right Page — Fol. 155r]**
-
-...clearly revealed man as a partaker of the divine nature.
+## SUNDAY MATINS (TONE 7)
 
 *At "God is the Lord", Resurrection Troparion, Tone 7:*
 
@@ -222,11 +174,7 @@ As the treasure of our Resurrection, O all-hymned one, lead up from the pit and 
 
 *After the 1st Kathisma, Sunday Sessional Hymn, Tone 7:*
 
-While the tomb was sealed, O Life, Thou didst shine forth from the tomb, O Christ God; and while the doors were shut...
-
-**[Left Page — Fol. 155v]**
-
-...unto the disciples Thou didst appear, O Resurrection of all, renewing an upright spirit in them according to Thy great mercy. [^161]
+While the tomb was sealed, O Life, Thou didst shine forth from the tomb, O Christ God; and while the doors were shut [f. 155vA] unto the disciples Thou didst appear, O Resurrection of all, renewing an upright spirit in them according to Thy great mercy. [^161]
 
 *Glory, and now. Theotokion:*
 
@@ -238,11 +186,7 @@ Life lay in the tomb, and a seal lay upon the stone; soldiers guarded the King a
 
 *Glory, and now. Theotokion:*
 
-Him Who was crucified for our sake, Christ Who cast down the power of death, unceasingly entreat...
-
-**[Right Page — Fol. 156r]**
-
-...entreat, O Theotokos Virgin, that He may save our souls!
+Him Who was crucified for our sake, Christ Who cast down the power of death, unceasingly entreat [f. 156rA] O Theotokos Virgin, that He may save our souls!
 
 *Hypakoe:*
 
@@ -260,9 +204,7 @@ In the Holy Spirit is the fountain of divine treasures; from Him come wisdom, un
 
 Unless the Lord build the spiritual house, in vain do we labor; for without Him neither deed nor word is accomplished.
 
-**[Left Page — Fol. 156v]**
-
-Moved by the Spirit, Thy saints sprout forth as fruit of the womb, fulfilling the Father's commandments of adoption. [^162]
+[f. 156vA] Moved by the Spirit, Thy saints sprout forth as fruit of the womb, fulfilling the Father's commandments of adoption. [^162]
 
 In the Holy Spirit all things have existence: for He is God before all, Lordship over all, unapproachable Light, and the Life of all.
 
@@ -278,9 +220,7 @@ In the Holy Spirit is the depth of gifts, the riches of glory, and the great dep
 
 *Sunday Resurrection Canon, Tone 7. Ode 1. Heirmos:*
 
-**[Right Page — Fol. 157r]**
-
-By Thy beck, the watery element previously pouring forth was transformed into dry land, O Lord; therefore Israel, walking dryshod, sings unto Thee a song of victory.
+[f. 157rA] By Thy beck, the watery element previously pouring forth was transformed into dry land, O Lord; therefore Israel, walking dryshod, sings unto Thee a song of victory.
 
 The tyranny of death was condemned by the Tree, through the unrighteous death adjudged unto Thee, O Lord; therefore the prince of darkness, having not prevailed against Thee, was justly cast out.
 
@@ -292,9 +232,7 @@ The pangs of foremother Eve were loosed: escaping childbearing pangs, thou didst
 
 *Second Canon, Cross-Resurrection. Ode 1. Heirmos: Like the former:*
 
-**[Left Page — Fol. 157v]**
-
-Christ poured forth two life-bearing streams for me upon the Cross from His pierced side: let us sing unto Him, for He is glorified! [^163]
+[f. 157vA] Christ poured forth two life-bearing streams for me upon the Cross from His pierced side: let us sing unto Him, for He is glorified! [^163]
 
 Dwelling in the tomb and rising on the third day, Christ granted incorruption unto the dead who awaited Him: let us sing unto Him, for He is glorified!
 
@@ -306,11 +244,7 @@ Thou wast revealed as alone a virgin even after childbearing; for thou didst giv
 
 Having given birth to the abyss of compassion, O Virgin, illumine my soul with thy light-bearing radiance, that I may worthily hymn the abyss of thy wonders!
 
-Seeing the sinful arrows wounding us, O Word, as the Benefactor Thou didst have mercy; therefore, ineffably united...
-
-**[Right Page — Fol. 158r]**
-
-...to flesh from thee, O all-pure one, is the super-divine One.
+Seeing the sinful arrows wounding us, O Word, as the Benefactor Thou didst have mercy; therefore, ineffably united [f. 158rA] to flesh from thee, O all-pure one, is the super-divine One.
 
 Corruptible and frail human nature was held fast by death; but thou, O Sovereign Lady, having conceived the Life, didst lead it up from incorruption unto life.
 
@@ -320,11 +254,7 @@ In the beginning, O Lord and Savior, by Thine almighty Word Thou didst establish
 
 Having mounted upon the Tree of Thine own will, O merciful Savior, Thou didst suffer for our sake, and didst endure the wound that mediated humility and salvation unto the faithful, through which we were reconciled unto Thy merciful Father.
 
-Thou cleansest me from the wound, O Christ, who was wounded in soul by the serpent's bite, and Thou hast shown forth light unto those who of old...
-
-**[Left Page — Fol. 158v]**
-
-when I lay in corruption of old: for having descended into Hades, by the Cross Thou didst raise me up together with Thyself. *Theotokion:*
+Thou cleansest me from the wound, O Christ, who was wounded in soul by the serpent's bite, and Thou hast shown forth light unto those who of old [f. 158vA] when I lay in corruption of old: for having descended into Hades, by the Cross Thou didst raise me up together with Thyself. *Theotokion:*
 
 By the supplications of Thy Mother who knew not man, grant peace to the world, O Savior, and grant victory to the king against adversary enemies, and make worthy of Thine ineffable glory those who glorify Thee.
 
@@ -334,9 +264,7 @@ Thou didst quench the flaming sword, O Lord, when the lawless people nailed Thee
 
 Having risen from Thy tomb, O Christ, Thou didst first manifest Thyself to the women, and Thou didst dispel the grief of Eve, and didst raise up together with Thyself Adam who had fallen into corruption, as the compassionate God; therefore we all sing of Thy rising. *Theotokion:*
 
-**[Right Page — Fol. 159r]**
-
-Having received the Lord into thy virginal womb, O all-pure one, thou didst give birth to Him incarnate. Grant Him to be reconciled to us, His servants, through thy maternal supplications, as a haven wherein we are saved.[^164]
+[f. 159rA] Having received the Lord into thy virginal womb, O all-pure one, thou didst give birth to Him incarnate. Grant Him to be reconciled to us, His servants, through thy maternal supplications, as a haven wherein we are saved.[^164]
 
 *Another Heirmos: In the beginning, the heavens with Thine all-powerful Word.*
 
@@ -344,11 +272,7 @@ The crawling serpent, having crept out from Eden and deceived me with the cravin
 
 Blessed is the fruit of thy womb, O Virgin Theotokos, the Joy of all; for thou didst bear joy unto all the world, and true gladness, destroying sinful sorrow, O Bride of God.
 
-Eternal life, and light, and peace, O Virgin Birth-giver of God, hast thou brought forth unto us, quieting mankind's ancient enmity toward the Father and God,
-
-**[Left Page — Fol. 159v]**
-
-who pacified it through faith and graceful confession.
+Eternal life, and light, and peace, O Virgin Birth-giver of God, hast thou brought forth unto us, quieting mankind's ancient enmity toward the Father and God, [f. 159vA] who pacified it through faith and graceful confession.
 
 *Ode 4. Heirmos:*
 
@@ -360,9 +284,7 @@ Standing before the judge, the Judge of judges receives judgment like a condemne
 
 As the true Mother of God, pray to thy Creator and Son to guide me unto the saving haven of thy glorious will, O all-immaculate one.
 
-**[Right Page — Fol. 160r]**
-
-*Another Heirmos: Foreseeing.*
+[f. 160rA] *Another Heirmos: Foreseeing.*
 
 Knowing no sin, yet made sin for its sake, O Lord, that He might know it, accepting to be formed in what was foreign, that Thou mightest make manifest their madness; and Thou didst slay the tyrant of deceit.[^165]
 
@@ -374,11 +296,7 @@ Having come from the snowy part of the mountain, O Virgin Maiden, He was enrolle
 
 Having appeared all-chosen and good unto God before creation, illumine with thy radiance those who sing of thee.
 
-Thou didst bear God for earthly mortals, O pure one, incarnate
-
-**[Left Page — Fol. 160v]**
-
-from thy pure blood, delivering from grievous sins those who honor and glorify thee with love, O all-pure one.
+Thou didst bear God for earthly mortals, O pure one, incarnate [f. 160vA] from thy pure blood, delivering from grievous sins those who honor and glorify thee with love, O all-pure one.
 
 Rational nature ministers unto Him Who came forth from thee beyond understanding, O praised one, having now partaken of the ineffable mystery of thy childbearing, O all-blessed one.
 
@@ -388,11 +306,7 @@ Night is unillumined to the faithless, but unto the faithful there is illuminati
 
 For the sake of Thy servants Thou wast sold, O Christ, and Thou didst endure buffeting, procuring freedom for those who sing: I rise early unto Thee, and I praise Thy Divinity.
 
-By Thy divine power, O Christ, through the weakness of the flesh,
-
-**[Right Page — Fol. 161r]**
-
-Thou didst cast down the strong one, and by Thy Resurrection, O Savior, Thou hast shown me to be victorious over death. *Theotokion:*
+By Thy divine power, O Christ, through the weakness of the flesh, [f. 161rA] Thou didst cast down the strong one, and by Thy Resurrection, O Savior, Thou hast shown me to be victorious over death. *Theotokion:*
 
 Thou didst give birth to God, O pure Mother, incarnate from thee, O lauded in godlike manner; for thou knewest not the male sex, but didst bring forth from the Holy Spirit.[^166]
 
@@ -402,11 +316,7 @@ When He was numbered with the lawless and lifted up upon the Place of the Skull,
 
 Thee, Who didst destroy the tyrant's power by the might of Thine incomprehensible Godhead, and didst raise the dead by Thy Resurrection, we glorify with hymns. *Theotokion:*
 
-O Mother of the King and God, all-hymned Theotokos, unto those who in faith
-
-**[Left Page — Fol. 161v]**
-
-and love ever praise thee with hymns, send down cleansing from sins through thy supplications.
+O Mother of the King and God, all-hymned Theotokos, unto those who in faith [f. 161vA] and love ever praise thee with hymns, send down cleansing from sins through thy supplications.
 
 *Another Heirmos: Night is unillumined to the faithless.*
 
@@ -418,21 +328,13 @@ Having found thee alone as a lily in the midst of thorns, O Virgin, shining with
 
 *Ode 6. Heirmos:*
 
-As I float in the surge of worldly vanities,
-
-**[Right Page — Fol. 162r]**
-
-and am shipwrecked and sinking through sins, and cast out to the soul-destroying beast, yet like Jonah, O Christ, I cry unto Thee: Bring me up from the depth of death![^167]
+As I float in the surge of worldly vanities, [f. 162rA] and am shipwrecked and sinking through sins, and cast out to the soul-destroying beast, yet like Jonah, O Christ, I cry unto Thee: Bring me up from the depth of death![^167]
 
 The fainting souls of the righteous imprisoned in Hades remembered Thee, and prayed for salvation from Thee, which Thou, O Christ, didst grant by the Cross unto those in the nethermost regions, having arrived as the merciful One.
 
 When Thine ensouled and not-made-by-hands temple was destroyed by sufferings, the company of the Apostles of old despaired of beholding it; but worshipping beyond expectation, they proclaimed Thee risen everywhere.
 
-The Myrrh-bearing women, having first received the glad tidings of the joy of Thy rising, O Giver of life, exultingly told the Apostles: The curse of denial
-
-**[Left Page — Fol. 162v]**
-
-is dissolved, for Christ is risen from the dead!
+The Myrrh-bearing women, having first received the glad tidings of the joy of Thy rising, O Giver of life, exultingly told the Apostles: The curse of denial [f. 162vA] is dissolved, for Christ is risen from the dead!
 
 Who among men can declare the manner of thine ineffable childbearing for our sake, O all-immaculate Virgin, Bride of God? For uncircumscribably, God the Word was united unto me and became flesh from thee.
 
@@ -446,11 +348,7 @@ O all-pure Sovereign Lady, sure Hope, preserve those who sing of thee in love as
 
 *Another Heirmos: As I float.*
 
-The figures of the Law and the prophecies of the prophets clearly prefigured thee as the one who would give birth
-
-**[Right Page — Fol. 163r]**
-
-to the Benefactor of all creation, O pure one, Who in many parts and in diverse manners has bestowed benefits upon those who faithfully magnify thee.[^168]
+The figures of the Law and the prophecies of the prophets clearly prefigured thee as the one who would give birth [f. 163rA] to the Benefactor of all creation, O pure one, Who in many parts and in diverse manners has bestowed benefits upon those who faithfully magnify thee.[^168]
 
 Adam the first-formed, alienated of old from divine Paradise food by the plotting of the manslayer, hast thou led in again, O Bride of God, having given birth to Him Who delivered us from transgression.
 
@@ -460,9 +358,7 @@ He Who by divine counsel and effective power composed all things out of non-exis
 
 Of old the youths showed the burning furnace to be cooling, singing to the one God and saying: Supremely exalted God of our fathers, blessed art Thou.
 
-**[Left Page — Fol. 163v]**
-
-By the tree was Adam put to death, having wrought disobedience by his own will, but by Christ's obedience is he quickened; for for my sake is the supremely glorified Son of God crucified.
+[f. 163vA] By the tree was Adam put to death, having wrought disobedience by his own will, but by Christ's obedience is he quickened; for for my sake is the supremely glorified Son of God crucified.
 
 All creation sings of Thee risen from the tomb, O Christ; for Thou, the Life, didst blossom forth in Hades, the Resurrection to the dead, and the supremely glorified Light to those in darkness.
 
@@ -472,9 +368,7 @@ Rejoice, daughter of corruptible Adam! Rejoice, only Bride of God! Rejoice, for 
 
 Thou Who didst blunt the sting of sin on the Tree of the Cross, and didst tear up the handwriting of Adam's transgression by the spear of Thy side: Blessed art Thou, O Lord God of our fathers.
 
-**[Right Page — Fol. 164r]**
-
-Thou Who by the piercing of Thy side and the sprinkling of Thy divine blood didst cleanse the earth defiled by the blood of idol sacrifices: Blessed art Thou, O Lord God of our fathers. *Triadikon:*
+[f. 164rA] Thou Who by the piercing of Thy side and the sprinkling of Thy divine blood didst cleanse the earth defiled by the blood of idol sacrifices: Blessed art Thou, O Lord God of our fathers. *Triadikon:*
 
 The undivided Nature we orthodoxly theologize: God the unoriginate Father, and the Word and the Spirit of the same dominion, crying: Blessed art Thou, O God of our fathers.[^169]
 
@@ -484,9 +378,7 @@ Having acquired for thyself a variegated, gilded adornment, thy Creator and Lord
 
 Isaiah is cleansed, receiving a live coal of old, beholding typically thy childbearing, O Maiden: Supremely exalted God of our fathers, blessed art Thou.
 
-**[Left Page — Fol. 164v]**
-
-All the divine prophets, beholding the figures of thy divine childbearing, joyfully sang and cried: Supremely exalted God of our fathers, blessed art Thou.
+[f. 164vA] All the divine prophets, beholding the figures of thy divine childbearing, joyfully sang and cried: Supremely exalted God of our fathers, blessed art Thou.
 
 *Ode 8. Heirmos:*
 
@@ -494,11 +386,7 @@ Unconsumed by fire as it partook of it on Sinai, the bush revealed God to slow-t
 
 The all-pure, rational Lamb, having been slain for the world, taking away the ordinances according to the Law, cleanses all its transgressions as God, for those who ever cry: All ye works of the Lord, sing ye the Lord, and supremely exalt Him unto ages.
 
-Our flesh, received from the Creator, which was not incorruptible before the Passion,
-
-**[Right Page — Fol. 165r]**
-
-was made untouched by corruption after the Passion and Resurrection, and it renews mortals who cry: All ye works of the Lord, sing ye the Lord, and supremely exalt Him unto ages.[^170]
+Our flesh, received from the Creator, which was not incorruptible before the Passion, [f. 165rA] was made untouched by corruption after the Passion and Resurrection, and it renews mortals who cry: All ye works of the Lord, sing ye the Lord, and supremely exalt Him unto ages.[^170]
 
 Thy pure and all-immaculate childbearing, O Virgin, cleansed the foul and abominable of the universe, and became the cause of our reconciliation with God, O all-pure one; therefore, O Theotokos, all the works of the Lord hymn thee unto ages.
 
@@ -508,9 +396,7 @@ Him Who endured sufferings voluntarily, and was nailed to the Cross willingly, a
 
 Him Who abolished the dominion of death, and rose from the tomb with glory, and saved the human race: praise, ye priests, and supremely exalt Him, ye peoples, unto ages.
 
-**[Left Page — Fol. 165v]**
-
-The only compassionate One, the pre-eternal Word, Who in the end was born of the Virgin, and saved the human race: praise, ye priests, and supremely exalt Him, ye peoples, unto ages.
+[f. 165vA] The only compassionate One, the pre-eternal Word, Who in the end was born of the Virgin, and saved the human race: praise, ye priests, and supremely exalt Him, ye peoples, unto ages.
 
 *Another Heirmos: Unconsumed by fire.*
 
@@ -518,9 +404,7 @@ By the radiance of thy childbearing, in wondrously-fitting manner thou didst ill
 
 With piety we sing of thy womb, O pure one, which ineffably contained God being incarnate, Who gave the enlightenment of divine knowledge unto all the faithful who ever cry: All ye works of the Lord, sing ye the Lord, and supremely exalt Him unto ages.
 
-**[Right Page — Fol. 166r]**
-
-By the beams of thy light make luminous those who sing of thee, O Virgin Mother, parent of the Light; for thou wast shown to be the dwelling-place of the Light, brightly illuminating those who ever call out: All ye works of the Lord, sing ye the Lord, and supremely exalt Him unto ages.
+[f. 166rA] By the beams of thy light make luminous those who sing of thee, O Virgin Mother, parent of the Light; for thou wast shown to be the dwelling-place of the Light, brightly illuminating those who ever call out: All ye works of the Lord, sing ye the Lord, and supremely exalt Him unto ages.
 
 *Ode 9. Heirmos:*
 
@@ -528,11 +412,7 @@ Having brought forth without experience of corruption, having lent flesh to the 
 
 Let all alien-minded heretics be put to shame who ascribe suffering to the Godhead; for the Lord of glory was crucified in the flesh, but was not crucified in His divine nature, as we magnify the one Christ in two natures.
 
-Let those who do not believe in the bodily resurrection
-
-**[Left Page — Fol. 166v]**
-
-go to Christ's tomb and learn: that the flesh of the Giver of life was put to death and rose again, for assurance of the final resurrection which we hope for.
+Let those who do not believe in the bodily resurrection [f. 166vA] go to Christ's tomb and learn: that the flesh of the Giver of life was put to death and rose again, for assurance of the final resurrection which we hope for.
 
 *Triadikon:*
 
@@ -542,11 +422,7 @@ Not dividing the Trinity into Godheads, but confessing It in Hypostases; neither
 
 Beholding the fleshly passions and the power of the Godhead in Christ, let those be put to shame who hold the doctrine of a single composite nature; for the same Christ dies as man, but as the Creator of all has risen.
 
-Myrrh is for the dead, but praise for the living; tears for those who die, but bring a song unto the Life of all, O women! For the preacher of His rising
-
-**[Right Page — Fol. 167r]**
-
-cried out, announcing the good news of Christ's Resurrection.[^172]
+Myrrh is for the dead, but praise for the living; tears for those who die, but bring a song unto the Life of all, O women! For the preacher of His rising [f. 167rA] cried out, announcing the good news of Christ's Resurrection.[^172]
 
 Light from Light, the Father's Radiance, shone timelessly with glory; for unto human nature in the darkness of life Christ appeared, and drove away the pursuing darkness: Whom we, the faithful, unceasingly magnify.
 
@@ -556,9 +432,7 @@ Thou wast shown to be the mediatress of eternal joy and gladness unto us, O Virg
 
 David thy forefather sings of thee, O pure one, naming thee the Ark of divine holiness, who contained beyond nature God Who sits in the Father's bosom: Whom we, the faithful, unceasingly magnify.
 
-**[Left Page — Fol. 167v]**
-
-For in truth thou alone art higher than all creation; thou didst bear the Creator in the flesh for us all; therefore, as the Mother who carried the one Master, thou art the cause of victory for all.
+[f. 167vA] For in truth thou alone art higher than all creation; thou didst bear the Creator in the flesh for us all; therefore, as the Mother who carried the one Master, thou art the cause of victory for all.
 
 *At the Praises: Sunday Resurrection Stichera, Tone 7:*
 
@@ -566,29 +440,23 @@ Thou art risen from the dead, O Christ, having shattered the bonds of death; pro
 
 Having seen the Resurrection of Christ, let us bow down before the holy Lord Jesus, the only sinless One. We unceasingly venerate the Resurrection of Christ, for He has saved us from our iniquities, the holy Lord Jesus, Who has manifested the Resurrection in the world.
 
-What shall I render unto the Lord for all that He has rendered unto us? For on our account, among men, for our corrupted nature, God the Word became flesh,
-
-**[Right Page — Fol. 168r]**
-
-and dwelt among us: the Benefactor unto the ungrateful, the Deliverer unto the captives, the Sun of Righteousness unto those sitting in darkness, impassible upon the Cross, Light in Hades, Life in death, the Resurrection for the sake of the fallen: unto Whom let us cry: Our God, glory to Thee![^173]
+What shall I render unto the Lord for all that He has rendered unto us? For on our account, among men, for our corrupted nature, God the Word became flesh, [f. 168rA] and dwelt among us: the Benefactor unto the ungrateful, the Deliverer unto the captives, the Sun of Righteousness unto those sitting in darkness, impassible upon the Cross, Light in Hades, Life in death, the Resurrection for the sake of the fallen: unto Whom let us cry: Our God, glory to Thee![^173]
 
 Thou didst smash the gates of Hades, O Lord, and abolish the dominion of death by Thy mighty power, and didst raise up together with Thyself the dead who from the ages were sleeping in darkness, by Thy divine and glorious Resurrection, as the King of all and Almighty God.
 
 Come, let us rejoice in the Lord, and let us exult in His Resurrection; for He raised up together with Himself the dead from the indissoluble bonds of Hades, and granted unto the world eternal life and great mercy.
 
-**[Left Page — Fol. 168v]**
+[f. 168vA] The shining angel sat upon the stone of Thy life-bearing tomb, and announced good tidings unto the myrrh-bearing women, saying: The Lord is risen, as He said unto you before; proclaim unto His disciples that He goes before you into Galilee, and grants unto the world eternal life and great mercy.
 
-The shining angel sat upon the stone of Thy life-bearing tomb, and announced good tidings unto the myrrh-bearing women, saying: The Lord is risen, as He said unto you before; proclaim unto His disciples that He goes before you into Galilee, and grants unto the world eternal life and great mercy.
-
-Why have ye disregarded the Chief Cornerstone, O most lawless Jews? Lo, He is the One Whom God placed in Sion, Who gushed forth water from the rock in the wilderness, and poureth forth immortality unto us from His side. He is the Stone that was cut out from the mountain virgin-like without the will of man, the Son of Man coming on the clouds of heaven unto the Ancient of Days, as Daniel said, and His kingdom is eternal.
+Why have ye disregarded the Chief Cornerstone, O most lawless Jews? Lo, He is the One Whom God placed in Sion, Who gushed forth water from the rock in the wilderness, and pours forth immortality unto us from His side. He is the Stone that was cut out from the mountain virgin-like without the will of man, the Son of Man coming on the clouds of heaven unto the Ancient of Days, as Daniel said, and His kingdom is eternal.
 
 *Glory: Evangelical Sticheron. Both now: Most blessed art thou.*
 
+## SUNDAY LITURGY: THE BEATITUDES (TONE 7)
+
 *On Sunday, The Beatitudes, Tone 7:*
 
-**[Right Page — Fol. 169r]**
-
-Fair and good for food was the fruit that put me to death; Christ is the Tree of life, eating whereof I die not, but cry with the thief: Remember me, O Savior, in Thy kingdom.[^174]
+[f. 169rA] Fair and good for food was the fruit that put me to death; Christ is the Tree of life, eating whereof I die not, but cry with the thief: Remember me, O Savior, in Thy kingdom.[^174]
 
 Lifted up upon the Cross, O Compassionate One, Thou didst blot out the handwriting of Adam's ancient sin, and didst save the human race from deception; therefore we hymn Thee, O Benefactor and Lord.
 
@@ -596,9 +464,7 @@ In the tomb as mortal wast Thou laid, O Christ, the Life of all, and Thou didst 
 
 Thou didst raise up Adam together with Thyself in Thy Resurrection, O Christ Giver of life, granting the ancient incorruption that was in Paradise. Therefore I cry with the thief:
 
-**[Left Page — Fol. 169v]**
-
-Remember me, O Savior, in Thy kingdom.
+[f. 169vA] Remember me, O Savior, in Thy kingdom.
 
 The Lord, having risen on the third day from the dead, granted peace unto His disciples; and having blessed them and sent them forth, He said: Bring all into My kingdom.
 
@@ -606,23 +472,23 @@ The serpent once poured out poison into the hearing of Eve, but Christ in His Pa
 
 Light is the Father, Light is the Son the Word, Light is the Holy Spirit; yet one Light is the Trinity, for God is one in three Persons, one Essence and Principle, indivisible and unconfused, abiding eternally. *Both now.*
 
-Thou didst bear in the flesh the Son the Word, of God and Father, as He alone knows, O Theotokos; therefore, O Virgin Mother, having been deified on thy account, we cry unto thee: Rejoice,
+Thou didst bear in the flesh the Son the Word, of God and Father, as He alone knows, O Theotokos; therefore, O Virgin Mother, having been deified on thy account, we cry unto thee: Rejoice, [f. 170rA] the hope of Christians![^175]
 
-**[Right Page — Fol. 170r]**
+## SUNDAY EVENING VESPERS (TONE 7)
 
-we cry unto thee, the hope of Christians![^175]
+*On Sunday evening, at "Lord, I have cried," Penitential Stichera, Tone 7.*
 
-*On Sunday evening, at "Lord, I have cried," Penitential Stichera, Tone 7. Model melody: "Today Judas watches":*
+*Podoben: "Today Judas watches" (Дне́сь бди́тъ І҆ꙋ́да):*
 
 Lift up thine eyes, O my soul, and look upon God's dispensation and tender mercy: how, having bowed the heavens, He came down upon earth, that He might lift thee up from the misery of thy passions and set thee upon the rock of faith. O operation of an awesome wonder! Glory to Thy condescension, O Lover of mankind!
 
 Behold thy most lawless deeds, O my soul, and marvel how the earth bears thee, how it has not split apart, how wild beasts devour thee not, how the unsetting Sun has not ceased to shine upon thee! Arise, repent, and cry out unto the Lord: I have sinned against Thee, I have sinned, have mercy on me!
 
-**[Left Page — Fol. 170v]**
+[f. 170vA] Having our hope in Thee, O almighty Lord, we pray Thee: deliver us from all tribulations, passions, and turmoil, that we may pass our life in peace, and having lived in purity, we may find Thee, O Master, favorable and merciful on the Day of Judgment.
 
-Having our hope in Thee, O almighty Lord, we pray Thee: deliver us from all tribulations, passions, and turmoil, that we may pass our life in peace, and having lived in purity, we may find Thee, O Master, favorable and merciful on the Day of Judgment.
+*Other Stichera to the Holy Angels, Tone 7.*
 
-*Other Stichera to the Holy Angels, Tone 7. Model melody: "No longer forbidden":*
+*Podoben: "No longer are we forbidden" (Не ктомꙋ̀ возбранѧ́еми):*
 
 Illumined by the rays of the Trinity, O archangels, enlighten those who sing of you in faith.
 
@@ -634,9 +500,7 @@ Under the shelter of your wings protect all the faithful, dispelling darkness fr
 
 Let us all with songs cry aloud unto the Theotokos with the angels:
 
-**[Right Page — Fol. 171r]**
-
-For thou hast given birth to the Savior of the world, and after childbirth thou didst remain again a Virgin, and hast delivered the world from deception by thy childbearing, and hast given unto us unfailing food, feeding with milk the Deliverer of our souls.[^176]
+[f. 171rA] For thou hast given birth to the Savior of the world, and after childbirth thou didst remain again a Virgin, and hast delivered the world from deception by thy childbearing, and hast given unto us unfailing food, feeding with milk the Deliverer of our souls.[^176]
 
 *At the Aposticha, Stichera, Tone 7:*
 
@@ -644,19 +508,11 @@ Like the prodigal son I have come, O Compassionate One; receive me falling down 
 
 Like the one who fell among thieves and was wounded, so also have I fallen through many sins, and my soul is wounded. Unto whom shall I flee in my guilt, save unto Thee, the tender-hearted Physician of souls? Pour out upon me, O God, Thy great mercy. *Martyrikon:*
 
-Glory to Thee, O Christ God, the praise of Apostles,
-
-**[Left Page — Fol. 171v]**
-
-and the exultation of martyrs, whose preaching was the consubstantial Trinity. *Glory, both now. Theotokion:*
+Glory to Thee, O Christ God, the praise of Apostles, [f. 171vA] and the exultation of martyrs, whose preaching was the consubstantial Trinity. *Glory, both now. Theotokion:*
 
 We cry unto thee "Rejoice!" with the angel, O Virgin Bride of God, calling thee chamber and gate and fiery throne, the unquarried mountain, and the unburnt bush.[^177]
 
 [Ornamental woodcut tailpiece vignette in the form of a carved foliate palmette. Along the gutter fold, a paper reinforcement strip is affixed with contemporary 17th-century cursive ink script.]
-
-**[Right Page — Fol. 172r]**
-
-[Primary ornamental woodcut headpiece across the page width with foliate scrollwork, floral vases, and strapwork acanthus motifs]
 
 ---
 

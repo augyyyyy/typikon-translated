@@ -4,7 +4,7 @@
 
 The shining angel sat upon the stone of Thy life-bearing tomb, and announced good tidings unto the myrrh-bearing women, saying: The Lord is risen, as He said unto you before; proclaim unto His disciples that He goes before you into Galilee, and grants unto the world eternal life and great mercy.
 
-Why have ye disregarded the Chief Cornerstone, O most lawless Jews? Lo, He is the One Whom God placed in Sion, Who gushed forth water from the rock in the wilderness, and poureth forth immortality unto us from His side. He is the Stone that was cut out from the mountain virgin-like without the will of man, the Son of Man coming on the clouds of heaven unto the Ancient of Days, as Daniel said, and His kingdom is eternal.
+Why have ye disregarded the Chief Cornerstone, O most lawless Jews? Lo, He is the One Whom God placed in Sion, Who gushed forth water from the rock in the wilderness, and pours forth immortality unto us from His side. He is the Stone that was cut out from the mountain virgin-like without the will of man, the Son of Man coming on the clouds of heaven unto the Ancient of Days, as Daniel said, and His kingdom is eternal.
 
 *Glory: Evangelical Sticheron. Both now: Most blessed art thou.*
 
@@ -92,7 +92,7 @@ We cry unto thee "Rejoice!" with the angel, O Virgin Bride of God, calling thee 
 
 *In the Book of the Octoechos of the Resurrection: Tone Eight.*
 
-[Large decorative historiated woodcut initial 'В']
+[Large decorative historiated woodcut initial (*В*)]
 
 *Lord, I have cried: Resurrection Stichera, Tone 8:*
 

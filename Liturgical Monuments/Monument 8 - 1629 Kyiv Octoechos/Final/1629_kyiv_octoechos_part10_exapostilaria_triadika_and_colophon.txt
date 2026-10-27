@@ -1,8 +1,8 @@
 # EXAPOSTILARIA, TRIADIKA (HYMNS TO THE TRINITY), PROVENANCE MARGINALIA, AND REAR BINDING
 
-## EXAPOSTILARIA AND EVANGELICAL STICHERA
+## RESURRECTIONAL EXAPOSTILARIA AND ELEVEN EVANGELICAL STICHERA (EOTHINA)
 
-*The Resurrectional Exapostilaria and Evangelical Stichera. The work of Emperor Leo.* [^285]
+[f. 279rA] *The Resurrectional Exapostilaria and Evangelical Stichera. The work of Emperor Leo.* [^285]
 
 *First Exapostilarion:*
 
@@ -10,11 +10,7 @@ With the disciples let us ascend the mountain of Galilee in faith, to behold Chr
 
 *Theotokion:*
 
-He Who is divinely glorified in the highest by the angels, not departing ineffably from the bosom of the Father, O all-holy Virgin, and lived among those below...
-
-**[Left Page — Fol. 279v]**
-
-...lived: and thou, having received Him as the Mediator of salvation, from thy pure blood didst lend flesh beyond understanding unto the Redeemer: pray Him to grant deliverance from transgressions unto thy servants.
+He Who is divinely glorified in the highest by the angels, not departing ineffably from the bosom of the Father, O all-holy Virgin, and [f. 279vA] lived: and thou, having received Him as the Mediator of salvation, from thy pure blood didst lend flesh beyond understanding unto the Redeemer: pray Him to grant deliverance from transgressions unto thy servants.
 
 *Evangelical Sticheron 1, Tone 1:*
 
@@ -24,9 +20,7 @@ When the disciples were going up to the mountain for the earthly ascension, the 
 
 Seeing the stone rolled away, the myrrh-bearing women rejoiced; for they beheld a young man sitting in the tomb, and he said unto them: "Behold, Christ is risen! Say therefore unto Peter and to the disciples:
 
-**[Right Page — Fol. 280r]**
-
-Hasten to the mountain of Galilee; there shall He appear unto you, as He foretold unto His friends."
+[f. 280rA] Hasten to the mountain of Galilee; there shall He appear unto you, as He foretold unto His friends."
 
 *Theotokion:*
 
@@ -34,11 +28,7 @@ The Sun shone forth from the tomb today as a bridegroom from his chamber, and le
 
 *Evangelical Sticheron 2, Tone 2:*
 
-Unto the women who came with myrrh together with Mary, and were in perplexity how they might attain their desire, the stone appeared rolled away; and a divine young man assuaged the turmoil of their souls, for he said: "The Lord is risen; therefore hasten to Galilee unto His preachers, the disciples, and behold Him... [^286]
-
-**[Left Page — Fol. 280v]**
-
-...raised from the dead, as Giver of life and Lord."
+Unto the women who came with myrrh together with Mary, and were in perplexity how they might attain their desire, the stone appeared rolled away; and a divine young man assuaged the turmoil of their souls, for he said: "The Lord is risen; therefore hasten to Galilee unto His preachers, the disciples, and behold Him [^286] [f. 280vA] raised from the dead, as Giver of life and Lord."
 
 *Third Exapostilarion:*
 
@@ -50,29 +40,21 @@ By essential properties, O Virgin, Thy Son awoke from sleep as one dead, and ros
 
 *Evangelical Sticheron 3, Tone 3:*
 
-**[Right Page — Fol. 281r]**
-
-When Mary Magdalene announced the Savior's resurrection from the dead and His appearance, the disciples, disbelieving, were reproached for their hardness of heart; yet, being filled with signs and wonders, they were sent forth to preach. But Thou, O Lord, didst ascend unto the Father, the primal Light; and they proclaimed the Word everywhere, confirmed by wonders. And having been enlightened through them, we glorify Thy resurrection from the dead, O Lord, Lover of mankind.
+[f. 281rA] When Mary Magdalene announced the Savior's resurrection from the dead and His appearance, the disciples, disbelieving, were reproached for their hardness of heart; yet, being filled with signs and wonders, they were sent forth to preach. But Thou, O Lord, didst ascend unto the Father, the primal Light; and they proclaimed the Word everywhere, confirmed by wonders. And having been enlightened through them, we glorify Thy resurrection from the dead, O Lord, Lover of mankind.
 
 *Fourth Exapostilarion:*
 
-Having shone forth in virtues, let us behold standing in the life-bearing tomb men in gleaming raiment; and as the myrrh-bearing women bowed their faces to the earth before Him Who ruleth the heavens, let us learn of the resurrection, and run with Peter to the life-bearing tomb... [^287]
-
-**[Left Page — Fol. 281v]**
-
-...and marveling at what was done, let us remain to behold Christ.
+Having shone forth in virtues, let us behold standing in the life-bearing tomb men in gleaming raiment; and as the myrrh-bearing women bowed their faces to the earth before Him Who rules the heavens, let us learn of the resurrection, and run with Peter to the life-bearing tomb [^287] [f. 281vA] and marveling at what was done, let us remain to behold Christ.
 
 *Theotokion:*
 
-Having become incarnate in thy womb, O Lord, willing to call back from corruption a fallen world, as He alone knoweth, He dwelt in thee, O Mother of God; and having all found salvation, we cry unto thee like the angel: Rejoice, only pure Lady, blessed among all women, for thou didst bear salvation unto the whole universe!
+Having become incarnate in thy womb, O Lord, willing to call back from corruption a fallen world, as He alone knows, He dwelt in thee, O Mother of God; and having all found salvation, we cry unto thee like the angel: Rejoice, only pure Lady, blessed among all women, for thou didst bear salvation unto the whole universe!
 
 *Evangelical Sticheron 4, Tone 4:*
 
 It was early morning, and the women came unto Thy tomb, O Christ, but the body desired by them was not found. Therefore, as they were in perplexity, two men stood by them in gleaming raiment, saying: "Why seek ye the living among the dead? He is risen, as He said before! Why remember ye not His words?" And believing them, they proclaimed what they had seen; but their glad tidings seemed an idle tale:
 
-**[Right Page — Fol. 282r]**
-
-so slumbering were the disciples still! But Peter ran and beheld, and glorified within himself Thy wonders.
+[f. 282rA] so slumbering were the disciples still! But Peter ran and beheld, and glorified within himself Thy wonders.
 
 *Fifth Exapostilarion:*
 
@@ -84,17 +66,13 @@ The Creator and Lord and God of all things, taking earthly flesh from thy pure b
 
 *Evangelical Sticheron 5, Tone 5:* [^288]
 
-**[Left Page — Fol. 282v]**
-
-O how wise are Thy judgments, O Christ! How unto Peter indeed by the graveclothes alone Thou gavest to understand Thy resurrection; yet walking on the way with Luke and Cleopas, Thou didst converse with them, and speaking, didst not quickly reveal Thyself. Therefore Thou wast reproached as one journeying alone in Jerusalem, not knowing her counsel unto the end. Yet disposing all things for the benefit of the creation, Thou didst unfold the prophecies concerning Thyself, and in the blessing of the bread wast made known unto them, whose hearts even before that were kindled unto the knowledge of Thee; and they openly proclaimed Thy resurrection unto the assembled disciples: through whom have mercy upon us!
+[f. 282vA] O how wise are Thy judgments, O Christ! How unto Peter indeed by the graveclothes alone Thou gavest to understand Thy resurrection; yet walking on the way with Luke and Cleopas, Thou didst converse with them, and speaking, didst not quickly reveal Thyself. Therefore Thou wast reproached as one journeying alone in Jerusalem, not knowing her counsel unto the end. Yet disposing all things for the benefit of the creation, Thou didst unfold the prophecies concerning Thyself, and in the blessing of the bread wast made known unto them, whose hearts even before that were kindled unto the knowledge of Thee; and they openly proclaimed Thy resurrection unto the assembled disciples: through whom have mercy upon us!
 
 *Sixth Exapostilarion:*
 
 Thou didst show Thyself, O Savior, as man by nature, standing in their midst when Thou didst rise from the tomb; and partaking of food, Thou didst teach the baptism of repentance:
 
-**[Right Page — Fol. 283r]**
-
-and straightway Thou didst ascend unto the heavenly Father, and didst promise to send the Comforter unto the disciples: O supremely divine Lover of mankind, glory to Thy rising!
+[f. 283rA] and straightway Thou didst ascend unto the heavenly Father, and didst promise to send the Comforter unto the disciples: O supremely divine Lover of mankind, glory to Thy rising!
 
 *Theotokion:*
 
@@ -102,11 +80,7 @@ Beholding her Son risen from the dead, the all-holy Virgin was filled with joy, 
 
 *Evangelical Sticheron 6, Tone 6:*
 
-Truly Thou art peace, O Christ, granting Thy peace of God unto men; after the resurrection showing Thyself unto the disciples, Thou didst find them terrified, supposing that they beheld a spirit; but Thou didst quell the turmoil of their souls, showing them Thy hands and Thy feet... [^289]
-
-**[Left Page — Fol. 283v]**
-
-...yet while they still disbelieved, by the partaking of food and the recalling of teachings Thou didst open their mind to understand the Scriptures; and having promised them the Father's promise, and blessed them, Thou didst ascend into heaven: therefore with them we worship Thee: O Lord, glory to Thee!
+Truly Thou art peace, O Christ, granting Thy peace of God unto men; after the resurrection showing Thyself unto the disciples, Thou didst find them terrified, supposing that they beheld a spirit; but Thou didst quell the turmoil of their souls, showing them Thy hands and Thy feet [^289] [f. 283vA] yet while they still disbelieved, by the partaking of food and the recalling of teachings Thou didst open their mind to understand the Scriptures; and having promised them the Father's promise, and blessed them, Thou didst ascend into heaven: therefore with them we worship Thee: O Lord, glory to Thee!
 
 *Seventh Exapostilarion:*
 
@@ -114,11 +88,7 @@ Saying that they had taken away the Lord, Mary ran to the tomb, and Simon Peter 
 
 *Theotokion:*
 
-Sing of Thy countless mercy, O my Savior, for Thou didst pour Thyself out to bear and to save
-
-**[Right Page — Fol. 284r]**
-
-the fallen nature of earthly beings: being God, Thou wast pleased to become like me from the pure Virgin Maiden of God, and to descend into Hades, and to lead me forth thence: by her prayers, O Lord, save our souls!
+Sing of Thy countless mercy, O my Savior, for Thou didst pour Thyself out to bear and to save [f. 284rA] the fallen nature of earthly beings: being God, Thou wast pleased to become like me from the pure Virgin Maiden of God, and to descend into Hades, and to lead me forth thence: by her prayers, O Lord, save our souls!
 
 *Evangelical Sticheron 7, Tone 7:*
 
@@ -126,11 +96,7 @@ Lo, it is dark and early: why standest thou at the tomb, O Mary, having great da
 
 *Eighth Exapostilarion:*
 
-Beholding two angels within the tomb, Mary was amazed; and not knowing Christ, she questioned Him as the gardener: "Sir, where hast thou laid the body of my Jesus?" But having recognized Him by His call... [^290]
-
-**[Left Page — Fol. 284v]**
-
-...within herself, she heard the Savior say: "Touch Me not, for I ascend unto My Father: say unto My brethren!"
+Beholding two angels within the tomb, Mary was amazed; and not knowing Christ, she questioned Him as the gardener: "Sir, where hast thou laid the body of my Jesus?" But having recognized Him by His call [^290] [f. 284vA] within herself, she heard the Savior say: "Touch Me not, for I ascend unto My Father: say unto My brethren!"
 
 *Theotokion:*
 
@@ -138,11 +104,7 @@ Not having left the Father's bosom, though He became incarnate of the Virgin, th
 
 *Evangelical Sticheron 8, Tone 8:*
 
-Not without reason were Mary's warm tears poured forth: for lo, she was accounted worthy of the instruction of angels and the vision of Jesus Himself! Yet still she thought earthly thoughts, being frail: therefore she was sent away not to touch Christ. But nevertheless she was sent as a herald unto Thy disciples, bearing the glad tidings unto them,
-
-**[Right Page — Fol. 285r]**
-
-announcing Thine ascent unto the Father's portion: and by these things vouchsafe Thine appearance unto us also, O Master and Lord!
+Not without reason were Mary's warm tears poured forth: for lo, she was accounted worthy of the instruction of angels and the vision of Jesus Himself! Yet still she thought earthly thoughts, being frail: therefore she was sent away not to touch Christ. But nevertheless she was sent as a herald unto Thy disciples, bearing the glad tidings unto them, [f. 285rA] announcing Thine ascent unto the Father's portion: and by these things vouchsafe Thine appearance unto us also, O Master and Lord!
 
 *Ninth Exapostilarion:*
 
@@ -154,17 +116,13 @@ O Birthgiver of God, pure and all-holy Virgin, Joy of the afflicted, Protection 
 
 *Evangelical Sticheron 9, Tone 5:* [^291]
 
-**[Left Page — Fol. 285v]**
-
-As in the latter times, on the evening of the Sabbath, Thou didst appear unto Thy friends, O Christ, and by a wonder didst confirm a wonder: entering through shut doors, Thou didst confirm Thy resurrection from the dead! But Thou didst fill the disciples with joy, and didst bestow upon them the Holy Spirit, and gavest authority for the remission of sins; and Thou didst not leave Thomas to drown in the tempest of unbelief: therefore grant unto us true understanding and remission of transgressions, O tender-hearted Lord!
+[f. 285vA] As in the latter times, on the evening of the Sabbath, Thou didst appear unto Thy friends, O Christ, and by a wonder didst confirm a wonder: entering through shut doors, Thou didst confirm Thy resurrection from the dead! But Thou didst fill the disciples with joy, and didst bestow upon them the Holy Spirit, and gavest authority for the remission of sins; and Thou didst not leave Thomas to drown in the tempest of unbelief: therefore grant unto us true understanding and remission of transgressions, O tender-hearted Lord!
 
 *Tenth Exapostilarion:*
 
 At the Sea of Tiberias of old, with the sons of Zebedee, Nathanael was with Peter, and two other disciples, engaged in fishing; who at Christ's bidding cast the net on the right side, and drew out a multitude of fishes:
 
-**[Right Page — Fol. 286r]**
-
-whom Peter recognizing, waded toward Him. Behold, this was the third time He appeared, showing bread and fish upon the coals.
+[f. 286rA] whom Peter recognizing, waded toward Him. Behold, this was the third time He appeared, showing bread and fish upon the coals.
 
 *Theotokion:*
 
@@ -172,11 +130,7 @@ Venerating thine honorable icon, O all-holy Lady, show us to be sons of light, a
 
 *Evangelical Sticheron 10, Tone 6:*
 
-After the descent into Hades and the resurrection from the dead, grieving as was meet over parting from Thee, O Christ, the disciples returned to work, and again took to the boat and nets; and of catch there was nothing! But Thou, O Savior, didst appear as Master of all, commanding to cast the net on the right side; and immediately the word became deed... [^292]
-
-**[Left Page — Fol. 286v]**
-
-...swiftly, and a great multitude of fishes, and a strange supper prepared on the earth! Of which Thy disciples then partook: vouchsafe us also now to be spiritually filled, O Lord Lover of mankind!
+After the descent into Hades and the resurrection from the dead, grieving as was meet over parting from Thee, O Christ, the disciples returned to work, and again took to the boat and nets; and of catch there was nothing! But Thou, O Savior, didst appear as Master of all, commanding to cast the net on the right side; and immediately the word became deed [^292] [f. 286vA] swiftly, and a great multitude of fishes, and a strange supper prepared on the earth! Of which Thy disciples then partook: vouchsafe us also now to be spiritually filled, O Lord Lover of mankind!
 
 *Eleventh Exapostilarion:*
 
@@ -184,23 +138,17 @@ After the divine rising, thrice the Lord said unto Peter: "Lovest thou Me?" prop
 
 *Theotokion:*
 
-Rejoice! we cry unto thee, O all-holy Mother of God, for thou didst announce joy unto Eve, turning sorrow into joy, O Virgin: and fill us with thy joy, and account us worthy of the radiant glory of thy Son and the portion of all the elect,
-
-**[Right Page — Fol. 287r]**
-
-O all-pure one, that we all may cry unto thee: Rejoice, pure Maiden!
+Rejoice! we cry unto thee, O all-holy Mother of God, for thou didst announce joy unto Eve, turning sorrow into joy, O Virgin: and fill us with thy joy, and account us worthy of the radiant glory of thy Son and the portion of all the elect, [f. 287rA] O all-pure one, that we all may cry unto thee: Rejoice, pure Maiden!
 
 *Evangelical Sticheron 11, Tone 8:*
 
 Manifesting Himself unto the disciples after the resurrection, the Savior gave unto thee, Simon, the pasturing of His sheep as a recompense for love, requiring care of the flock; therefore He said unto thee: "If thou lovest Me, Peter, feed My lambs, feed My sheep." Whereupon, straightway showing his brotherly love, he questioned concerning the other disciple: by whose prayers, O Christ, preserve Thy flock from the wolves that destroy it!
 
+## WEEKDAY TRIADIKA (HYMNS TO THE TRINITY) AND PHOTOGOGIKA (TONES 1–8)
+
 *Triadika of the days, which are chanted in the Holy Forty Days and other fasts when Alleluia is chanted; then Triadikon, Tone 1:*
 
-In the bodily configurations of the bodiless hosts, being led up in mind to the intelligible and immaterial... [^293]
-
-**[Left Page — Fol. 287v]**
-
-...mind, and receiving the illumination of the thrice-holy hymn of the tri-hypostatic Godhead, cherubically we cry: Holy, Holy, Holy art Thou, O God: through the intercession of Thy bodiless hosts, have mercy on us!
+In the bodily configurations of the bodiless hosts, being led up in mind to the intelligible and immaterial [^293] [f. 287vA] mind, and receiving the illumination of the thrice-holy hymn of the tri-hypostatic Godhead, cherubically we cry: Holy, Holy, Holy art Thou, O God: through the intercession of Thy bodiless hosts, have mercy on us!
 
 *Glory:*
 
@@ -216,11 +164,7 @@ Thou Who hast shone forth the light, O Lord, cleanse my soul from every sin, and
 
 *Triadika, Tone 2:*
 
-O uncreated Nature, Creator of all, open our lips that we may proclaim Thy praise,
-
-**[Right Page — Fol. 288r]**
-
-crying: Holy, Holy, Holy art Thou, O God!
+O uncreated Nature, Creator of all, open our lips that we may proclaim Thy praise, [f. 288rA] crying: Holy, Holy, Holy art Thou, O God!
 
 *Glory:*
 
@@ -240,9 +184,7 @@ The unoriginate Father, and the co-unoriginate Son, and the co-eternal Spirit, o
 
 *Glory:* [^294]
 
-**[Left Page — Fol. 288v]**
-
-O Trinity consubstantial and undivided, Monad tri-hypostatic and co-eternal: unto Thee as God we cry the angelic hymn: Holy, Holy, Holy art Thou, O God: by the prayers of all Thy saints, have mercy on us!
+[f. 288vA] O Trinity consubstantial and undivided, Monad tri-hypostatic and co-eternal: unto Thee as God we cry the angelic hymn: Holy, Holy, Holy art Thou, O God: by the prayers of all Thy saints, have mercy on us!
 
 *Both now:*
 
@@ -258,9 +200,7 @@ Thine unoriginate Father, and Thee, O Christ God, and Thy Most-Holy Spirit, dari
 
 *Glory:*
 
-**[Right Page — Fol. 289r]**
-
-As now the angelic ranks in the heavens, and human assemblies with fear upon the earth, we offer Thee the triumphal hymn, O Good One: Holy, Holy, Holy art Thou, O God: by the prayers of all Thy saints, have mercy on us!
+[f. 289rA] As now the angelic ranks in the heavens, and human assemblies with fear upon the earth, we offer Thee the triumphal hymn, O Good One: Holy, Holy, Holy art Thou, O God: by the prayers of all Thy saints, have mercy on us!
 
 *Both now:*
 
@@ -276,11 +216,7 @@ It is the time of singing, and the hour for prayer: fervently let us cry unto th
 
 *Glory:*
 
-Daring to emulate Thy noetic armies...
-
-**[Left Page — Fol. 289v]**
-
-...armies, O unoriginate Trinity, with unworthy lips we cry unto Thee: Holy, Holy, Holy art Thou, O God: by the prayers of all Thy saints, have mercy on us!
+Daring to emulate Thy noetic armies [f. 289vA] O unoriginate Trinity, with unworthy lips we cry unto Thee: Holy, Holy, Holy art Thou, O God: by the prayers of all Thy saints, have mercy on us!
 
 *Both now:*
 
@@ -296,9 +232,7 @@ With bodiless lips, with unceasing doxologies, the six-winged ones sing unto The
 
 *Glory:*
 
-**[Right Page — Fol. 290r]**
-
-Standing before Thee with fear the Cherubim, and dreading with trembling the Seraphim, offer the thrice-holy hymn with unceasing voice; with whom also we sinners cry: Holy, Holy, Holy art Thou, O God: by the prayers of all Thy saints, have mercy on us!
+[f. 290rA] Standing before Thee with fear the Cherubim, and dreading with trembling the Seraphim, offer the thrice-holy hymn with unceasing voice; with whom also we sinners cry: Holy, Holy, Holy art Thou, O God: by the prayers of all Thy saints, have mercy on us!
 
 *Both now:*
 
@@ -314,11 +248,7 @@ Unapproachable in Godhead, Who art in the Unity of the Trinity, sending up the S
 
 *Glory:*
 
-Having cast off sluggish sleep, O my soul, and...
-
-**[Left Page — Fol. 290v]**
-
-...amendment toward standing show forth unto the Judge, and with fear cry out: Holy, Holy, Holy art Thou, O God: by the prayers of all Thy saints, have mercy on us!
+Having cast off sluggish sleep, O my soul, and [f. 290vA] amendment toward standing show forth unto the Judge, and with fear cry out: Holy, Holy, Holy art Thou, O God: by the prayers of all Thy saints, have mercy on us!
 
 *Both now:*
 
@@ -334,11 +264,7 @@ Having our hearts in the heavens, let us emulate the angelic rank, and with fear
 
 *Glory:*
 
-Not daring to gaze upon Thee, the Cherubim, flying, cry with acclamation the divine hymn of the thrice-holy voice; with whom also we cry:...
-
-**[Right Page — Fol. 291r]**
-
-...cry, we sinners: Holy, Holy, Holy art Thou, O God: by the prayers of all Thy saints, have mercy on us!
+Not daring to gaze upon Thee, the Cherubim, flying, cry with acclamation the divine hymn of the thrice-holy voice; with whom also we cry: [f. 291rA] we sinners: Holy, Holy, Holy art Thou, O God: by the prayers of all Thy saints, have mercy on us!
 
 *Both now:*
 
@@ -352,9 +278,7 @@ Being the Light, O Christ, enlighten me through Thyself: through the intercessio
 
 *The End of the Exapostilaria and Triadika.* [^297]
 
-**[Left Page — Fol. 291v]**
-
-[Blank verso of the final printed leaf (Fol. 291v), reinforced with ancient paper repair strips, with pasted slips and manuscript annotations of the 17th–19th centuries.
+[f. 291vA] [Blank verso of the final printed leaf (Fol. 291v), reinforced with ancient paper repair strips, with pasted slips and manuscript annotations of the 17th–19th centuries.
 
 Affixed to the lower part of the page is a rectangular paper label with a bibliographical note in 19th-century cursive ink:
 
@@ -372,9 +296,9 @@ Pasted diagonally in the center of the leaf is a rhomboid paper fragment with 17
 
 In the upper part of the leaf beneath the pasted slips can be discerned faded 17th-century cursive notes and pen trials: "... by mercy ...", "... Pan gift ...", "... of the parish clerk ...", as well as ink stains and offsets.]
 
-**[Right Page — Fol. [Rear Flyleaf]]**
+## CODICOLOGICAL PROVENANCE, ARCHIVAL INSCRIPTIONS, AND REAR BINDING
 
-[Rear Flyleaf / free endleaf (Fol. [292r]). The page is filled with ownership inscriptions, business memoranda, and calligraphic pen trials of the 17th–18th centuries.
+[p294RA] [Rear Flyleaf / free endleaf (Fol. [292r]). The page is filled with ownership inscriptions, business memoranda, and calligraphic pen trials of the 17th–18th centuries.
 
 In the upper left corner is a pencil notation: "N 2740".
 

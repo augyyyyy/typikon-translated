@@ -1,0 +1,1715 @@
+{
+  "monument_id": "1629_kyiv_octoechos",
+  "title": "Kyiv-Pechersk Lavra Octoechos (Kyiv, 1629)",
+  "publication_year": "1629",
+  "total_physical_pages": 295,
+  "total_stitches": 305,
+  "seam_overlaps_deduplicated": 71,
+  "total_drift_records": 150,
+  "events": [
+    {
+      "type": "WEEKDAY_HEIRMOS_ALIGNED",
+      "id": "HEIRMOS.T1.ODE3",
+      "locus": "C01:p7",
+      "tone": 1,
+      "ode": 3,
+      "raw_incipit": "Who alone knowest",
+      "canonical_english": "Thou Who alone knowest the weakness of human",
+      "greek": "Ὁ μόνος εἰδὼς τῆς τῶν βροτῶν",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T1.GROB_TVOI_SPASE",
+      "locus": "C01:p7",
+      "tone": 1,
+      "greek_incipit": "Τὸν τάφον σου Σωτήρ",
+      "slavonic_source": "Гро́бъ тво́й",
+      "slavonic_canonical": "Гро́бъ тво́й Сп҃се",
+      "scribal_omitted_label": false,
+      "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
+      "drift_similarity": 0.9,
+      "drift_info": {
+        "t2_source": "гроб твой",
+        "t2_canonical": "гроб твой спсе",
+        "details": "Scribal incipit truncation (2 vs 3 words)"
+      },
+      "raw_cohort_english": "Podoben: Thy Tomb",
+      "canonical_english": "While the soldiers were guarding Thy tomb",
+      "is_ai_drift": false
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T1.GROB_TVOI_SPASE",
+      "locus": "C01:p9",
+      "tone": 1,
+      "greek_incipit": "Τὸν τάφον σου Σωτήρ",
+      "slavonic_source": "Гро́бъ тво́й",
+      "slavonic_canonical": "Гро́бъ тво́й Сп҃се",
+      "scribal_omitted_label": false,
+      "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
+      "drift_similarity": 0.9,
+      "drift_info": {
+        "t2_source": "гроб твой",
+        "t2_canonical": "гроб твой спсе",
+        "details": "Scribal incipit truncation (2 vs 3 words)"
+      },
+      "raw_cohort_english": "Podoben: Thy Tomb",
+      "canonical_english": "While the soldiers were guarding Thy tomb",
+      "is_ai_drift": false
+    },
+    {
+      "type": "WEEKDAY_HEIRMOS_ALIGNED",
+      "id": "HEIRMOS.T1.ODE1",
+      "locus": "C02:p14",
+      "tone": 1,
+      "ode": 1,
+      "raw_incipit": "Thy victorious right hand",
+      "canonical_english": "Thy victorious right hand hath been glorified in",
+      "greek": "Σοῦ ἡ τροπαιοῦχος δεξιά",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T1.VSEKHVALNII_MUCHENITSY",
+      "locus": "C03:p27",
+      "tone": 1,
+      "greek_incipit": "Πανεύφημοι μάρτυρες",
+      "slavonic_source": "Прехва́лныи",
+      "slavonic_canonical": "Прехва́льніи мꙋ́ченицы",
+      "scribal_omitted_label": false,
+      "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
+      "drift_similarity": 0.9,
+      "drift_info": {
+        "t2_source": "прехвалнии",
+        "t2_canonical": "прехвальнии мученици",
+        "details": "Scribal incipit truncation (1 vs 2 words)"
+      },
+      "raw_cohort_english": "Podoben: O most praised martyrs",
+      "canonical_english": "O all-lauded martyrs",
+      "is_ai_drift": false
+    },
+    {
+      "type": "PODOBEN_SAME_NORMALIZED",
+      "primitive_id": "POD.T1.SAME",
+      "locus": "C03:p27",
+      "tone": 1,
+      "slavonic_source": "то́йже",
+      "raw_cohort_english": "*Other Stichera, to the Bodiless Hosts. Podoben: the same.*",
+      "canonical_english": "The same (то́йже)",
+      "drift_tier": "TIER_0_EXACT",
+      "is_ai_drift": false
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T2.VYSHNIKH_ISHCHA",
+      "locus": "C04:p33",
+      "tone": 2,
+      "greek_incipit": "Τὰ ἄνω ζητῶν",
+      "slavonic_source": "Вы́шнихъ и҆щѧ̀",
+      "slavonic_canonical": "Вы́шнихъ и҆щѧ̀",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
+      "raw_cohort_english": "Prosomoion: Having sought the things on high",
+      "canonical_english": "Seeking the highest",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T2.VYSHNIKH_ISHCHA",
+      "locus": "C04:p35",
+      "tone": 2,
+      "greek_incipit": "Τὰ ἄνω ζητῶν",
+      "slavonic_source": "Вы́шнихъ и҆щѧ̀",
+      "slavonic_canonical": "Вы́шнихъ и҆щѧ̀",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
+      "raw_cohort_english": "Prosomoion: Having sought the things on high",
+      "canonical_english": "Seeking the highest",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PSALM_VERSE_NORMALIZED",
+      "id": "PRIM.VERSE.PS9_33",
+      "locus": "C05:p49",
+      "lxx_ref": "Ps. 9:33",
+      "slavonic_source": "Воскреснѝ Го́споди Бо́же мо́й, да вознесе́тся рꙋка̀ твоя̀, не забꙋ́ди оу҆бо́гихъ твои́хъ до конца̀",
+      "raw_english": "Arise, O Lord my God, [let Thy hand be lifted high; forget not Thy poor unto the end].",
+      "canonical_english": "*Verse: Arise, O Lord my God, let Thy hand be lifted up; forget not Thy poor unto the end.*",
+      "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
+      "greek": "ἀνάστηθι, Κύριε ὁ Θεός μου, ὑψωθήτω ἡ χείρ σου, μὴ ἐπιλάθῃ τῶν πενήτων σου εἰς τέλος",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PSALM_VERSE_NORMALIZED",
+      "id": "PRIM.VERSE.PS9_2",
+      "locus": "C05:p49",
+      "lxx_ref": "Ps. 9:2",
+      "slavonic_source": "И҆сповѣ́мся тебѣ̀ Го́споди всѣ́мъ се́рдцемъ мои́мъ, повѣ́мъ вся̑ чꙋдеса̀ твоя̑",
+      "raw_english": "I will confess Thee, O Lord, [with my whole heart; I will tell of all Thy marvelous works].",
+      "canonical_english": "*Verse: I will give thanks unto Thee, O Lord, with my whole heart; I will speak of all Thy marvelous works.*",
+      "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
+      "greek": "Ἐξομολογήσομαί σοι, Κύριε, ἐν ὅλῃ καρδίᾳ μου, διηγήσομαι πάντα τὰ θαυμάσιά σου",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T2.EGDA_OT_DREVA",
+      "locus": "C05:p50",
+      "tone": 2,
+      "greek_incipit": "Ὅτε ἐκ τοῦ ξύλου",
+      "slavonic_source": "Е҆гда̀ ѿ дре́ва",
+      "slavonic_canonical": "Е҆гда̀ ѿ дре́ва",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
+      "raw_cohort_english": "Podoben: When from the Tree",
+      "canonical_english": "When from the Tree",
+      "is_ai_drift": false
+    },
+    {
+      "type": "PODOBEN_SAME_NORMALIZED",
+      "primitive_id": "POD.T2.SAME",
+      "locus": "C05:p50",
+      "tone": 2,
+      "slavonic_source": "то́йже",
+      "raw_cohort_english": "*Podoben: The same.*",
+      "canonical_english": "The same (то́йже)",
+      "drift_tier": "TIER_0_EXACT",
+      "is_ai_drift": false
+    },
+    {
+      "type": "WEEKDAY_HEIRMOS_ALIGNED",
+      "id": "HEIRMOS.T3.ODE3",
+      "locus": "C06:p55",
+      "tone": 3,
+      "ode": 3,
+      "raw_incipit": "He Who from non-being",
+      "canonical_english": "He Who brought all things out of nothing",
+      "greek": "Ὁ ἐκ μὴ ὄντων τὰ πάντα παραγαγών",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T3.KRASOTE_DEVSTVA",
+      "locus": "C06:p56",
+      "tone": 3,
+      "greek_incipit": "Τὴν ὡραιότητα τῆς παρθενίας σου",
+      "slavonic_source": "Красотѣ̀ дѣ́вства твоегѡ̀",
+      "slavonic_canonical": "Красотѣ̀ дѣ́вства твоегѡ̀",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
+      "raw_cohort_english": "Podoben: Awed by the beauty of thy virginity",
+      "canonical_english": "Beholding the beauty of thy virginity",
+      "is_ai_drift": true
+    },
+    {
+      "type": "WEEKDAY_HEIRMOS_ALIGNED",
+      "id": "HEIRMOS.T3.ODE4",
+      "locus": "C06:p56",
+      "tone": 3,
+      "ode": 4,
+      "raw_incipit": "Thou hast placed toward us",
+      "canonical_english": "Thou hast set firm love toward us: the",
+      "greek": "Ἔθου πρὸς ἡμᾶς κραταιὰν ἀγάπην, Κύριε",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T3.DEVA_DNESS",
+      "locus": "C06:p58",
+      "tone": 3,
+      "greek_incipit": "Ἡ Παρθένος σήμερον",
+      "slavonic_source": "Дв҃аа",
+      "slavonic_canonical": "Дѣ́ва дне́сь",
+      "scribal_omitted_label": false,
+      "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
+      "drift_similarity": 0.9,
+      "drift_info": {
+        "t2_source": "дева",
+        "t2_canonical": "дева днес",
+        "details": "Scribal incipit truncation (1 vs 2 words)"
+      },
+      "raw_cohort_english": "Podoben: Today the Virgin",
+      "canonical_english": "Today the Virgin",
+      "is_ai_drift": false
+    },
+    {
+      "type": "WEEKDAY_HEIRMOS_ALIGNED",
+      "id": "HEIRMOS.T3.ODE7",
+      "locus": "C06:p58",
+      "tone": 3,
+      "ode": 7,
+      "raw_incipit": "As of old the pious youths",
+      "canonical_english": "As of old Thou didst bedew the three",
+      "greek": "Ὡς πάλαι τοὺς εὐσεβεῖς τρεῖς Παῖδας",
+      "is_ai_drift": true
+    },
+    {
+      "type": "WEEKDAY_HEIRMOS_ALIGNED",
+      "id": "HEIRMOS.T3.ODE9",
+      "locus": "C06:p59",
+      "tone": 3,
+      "ode": 9,
+      "raw_incipit": "A new and divinely-befitting wonder",
+      "canonical_english": "A new wonder and God-befitting: for through the",
+      "greek": "Καινὸν τὸ θαῦμα καὶ θεοπρεπές",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PSALM_VERSE_NORMALIZED",
+      "id": "PRIM.VERSE.PS150_1",
+      "locus": "C07:p61",
+      "lxx_ref": "Ps. 150:1",
+      "slavonic_source": "Хвали́те Бо́га во святы́хъ е҆гѡ̀, хвали́те е҆го̀ во оу҆тверже́ніи си́лы е҆гѡ̀",
+      "raw_english": "Praise God in His saints.",
+      "canonical_english": "*Verse: Praise God in His saints; praise Him in the firmament of His power.*",
+      "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
+      "greek": "Αἰνεῖτε τὸν Θεὸν ἐν τοῖς ἁγίοις αὐτοῦ",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T3.VELIA_KRESTA_TVOEGO",
+      "locus": "C08:p73",
+      "tone": 3,
+      "greek_incipit": "Μεγάλη τοῦ Σταυροῦ σου, Κύριε",
+      "slavonic_source": "Ве́ліа крⷭ҇та твое́го Гдⷭ҇и си́ла",
+      "slavonic_canonical": "Ве́лія Крⷭ҇та̀ твоегѡ̀ Гдⷭ҇и",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.667,
+      "drift_info": {
+        "similarity": 0.667,
+        "tokens_only_in_a": [
+          "велиа",
+          "сила"
+        ],
+        "tokens_only_in_b": [
+          "велия"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 66.7%)"
+      },
+      "raw_cohort_english": "Model: Great is the power of Thy Cross, O Lord",
+      "canonical_english": "Great is the power of Thy Cross, O Lord",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T4.SKORO_PREDVARI",
+      "locus": "C08:p79",
+      "tone": 4,
+      "greek_incipit": "Ταχὺ προκατάλαβε",
+      "slavonic_source": "Ско́рѡ предварѝ",
+      "slavonic_canonical": "Ско́рѡ предварѝ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
+      "raw_cohort_english": "Model: Speedily anticipate",
+      "canonical_english": "Speedily anticipate",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T4.VOZNESYISYA_NA_KREST",
+      "locus": "C09:p81",
+      "tone": 4,
+      "greek_incipit": "Ὁ ὑψωθεὶς ἐν τῷ Σταυρῷ",
+      "slavonic_source": "Вознесы́йсѧ на крⷭ҇тъ",
+      "slavonic_canonical": "Вознесы́йся на Крⷭ҇тъ во́лею",
+      "scribal_omitted_label": false,
+      "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
+      "drift_similarity": 0.9,
+      "drift_info": {
+        "t2_source": "вознесийся на крт",
+        "t2_canonical": "вознесийся на крт волею",
+        "details": "Scribal incipit truncation (3 vs 4 words)"
+      },
+      "raw_cohort_english": "Model: Thou Who wast lifted up upon the Cross",
+      "canonical_english": "Thou Who wast lifted up upon the Cross",
+      "is_ai_drift": true
+    },
+    {
+      "type": "WEEKDAY_HEIRMOS_ALIGNED",
+      "id": "HEIRMOS.T4.ODE7",
+      "locus": "C09:p81",
+      "tone": 4,
+      "ode": 7,
+      "raw_incipit": "In the furnace, the Abrahamic children",
+      "canonical_english": "In the fiery furnace the Persian children of",
+      "greek": "Ἐν τῇ καμίνῳ Ἀβραμιαῖοι Παῖδες",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T4.DALS_ESI_ZNAMENIE",
+      "locus": "C10:p98",
+      "tone": 4,
+      "greek_incipit": "Ἔδωκας σημείωσιν",
+      "slavonic_source": "Да́лъ є҆сѝ зна́менїе",
+      "slavonic_canonical": "Да́лъ е҆сѝ зна́меніе",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_2_ORTHOGRAPHIC_PHONOLOGICAL",
+      "drift_similarity": 0.92,
+      "drift_info": {
+        "t2": "дал еси знамение",
+        "details": "Ruthenian spelling / phonological reflex variance"
+      },
+      "raw_cohort_english": "Model: Thou hast given a sign",
+      "canonical_english": "Thou hast given a sign",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T4.YAKO_DOBLYA",
+      "locus": "C10:p98",
+      "tone": 4,
+      "greek_incipit": "Ὡς γενναῖον ἐν Μάρτυσιν",
+      "slavonic_source": "Я҆́кѡ до́бля",
+      "slavonic_canonical": "Я҆́кѡ до́бля",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
+      "raw_cohort_english": "Model: As one noble",
+      "canonical_english": "As one valiant among martyrs",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T5.SLOVO_SOBEZNACHALNOE",
+      "locus": "C11:p104",
+      "tone": 5,
+      "greek_incipit": "Τὸν συνάναρχον Λόγον",
+      "slavonic_source": "Собезнача́льное Сло́во",
+      "slavonic_canonical": "Собезнача́льное Сло́во",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
+      "raw_cohort_english": "Model: Co-unoriginate Word",
+      "canonical_english": "The Word co-unoriginate",
+      "is_ai_drift": true
+    },
+    {
+      "type": "WEEKDAY_HEIRMOS_ALIGNED",
+      "id": "HEIRMOS.T5.ODE4",
+      "locus": "C11:p105",
+      "tone": 5,
+      "ode": 4,
+      "raw_incipit": "\"Perceiving Thy divine...\"",
+      "canonical_english": "Perceiving Thy divine condescension with prophetic insight, O",
+      "greek": "Τὴν θείαν ἐννοήσας σου κένωσιν",
+      "is_ai_drift": true
+    },
+    {
+      "type": "WEEKDAY_HEIRMOS_ALIGNED",
+      "id": "HEIRMOS.T5.ODE5",
+      "locus": "C11:p105",
+      "tone": 5,
+      "ode": 5,
+      "raw_incipit": "\"Thou Who clothest Thyself...\"",
+      "canonical_english": "Thou Who clothest Thyself with light as with",
+      "greek": "Ὁ ἀναβαλλόμενος φῶς ὡς ἱμάτιον",
+      "is_ai_drift": true
+    },
+    {
+      "type": "WEEKDAY_HEIRMOS_ALIGNED",
+      "id": "HEIRMOS.T5.ODE6",
+      "locus": "C11:p106",
+      "tone": 5,
+      "ode": 6,
+      "raw_incipit": "\"Surging with the soul-destroying tempest\"",
+      "canonical_english": "Surging with the storm of soul-corrupting passions, O",
+      "greek": "Μαινομένην κλύδωνι ψυχοφθόρων παθῶν",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T5.SLOVO_SOBEZNACHALNOE",
+      "locus": "C11:p106",
+      "tone": 5,
+      "greek_incipit": "Τὸν συνάναρχον Λόγον",
+      "slavonic_source": "Собезнача́льное Сло́во",
+      "slavonic_canonical": "Собезнача́льное Сло́во",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
+      "raw_cohort_english": "Model: Co-unoriginate Word",
+      "canonical_english": "The Word co-unoriginate",
+      "is_ai_drift": true
+    },
+    {
+      "type": "WEEKDAY_HEIRMOS_ALIGNED",
+      "id": "HEIRMOS.T5.ODE8",
+      "locus": "C11:p107",
+      "tone": 5,
+      "ode": 8,
+      "raw_incipit": "\"Unto Thee, Creator of all\"",
+      "canonical_english": "Unto Thee, the Creator of all, the youth",
+      "greek": "Σοὶ τῷ παντουργῷ ἐν τῇ καμίνῳ Παῖδες",
+      "is_ai_drift": true
+    },
+    {
+      "type": "WEEKDAY_HEIRMOS_ALIGNED",
+      "id": "HEIRMOS.T5.ODE9",
+      "locus": "C11:p107",
+      "tone": 5,
+      "ode": 9,
+      "raw_incipit": "\"Rejoice, O Isaiah, for the Virgin...\"",
+      "canonical_english": "Rejoice, O Isaiah! For a Virgin hath conceived",
+      "greek": "Ἠσαΐα χόρευε, ἡ Παρθένος ἔσχεν ἐν γαστρί",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T5.RADUISYA_POSTNIKOV",
+      "locus": "C13:p122",
+      "tone": 5,
+      "greek_incipit": "Χαίροις ἀσκητικῶν",
+      "slavonic_source": "Ра́дꙋйсѧ по́стническїи",
+      "slavonic_canonical": "Ра́дꙋйся по́стникѡвъ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.5,
+      "drift_info": {
+        "similarity": 0.5,
+        "tokens_only_in_a": [
+          "постническии"
+        ],
+        "tokens_only_in_b": [
+          "постников"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 50.0%)"
+      },
+      "raw_cohort_english": "Podoben: Rejoice, thou bearer of the ascetic life",
+      "canonical_english": "Rejoice, O container of ascetics",
+      "is_ai_drift": false
+    },
+    {
+      "type": "PODOBEN_SAME_NORMALIZED",
+      "primitive_id": "POD.T5.SAME",
+      "locus": "C13:p123",
+      "tone": 5,
+      "slavonic_source": "то́йже",
+      "raw_cohort_english": "*Other Stichera to the Bodiless Powers. Podoben: The same:*",
+      "canonical_english": "The same (то́йже)",
+      "drift_tier": "TIER_0_EXACT",
+      "is_ai_drift": false
+    },
+    {
+      "type": "WEEKDAY_HEIRMOS_ALIGNED",
+      "id": "HEIRMOS.T6.ODE3",
+      "locus": "C13:p128",
+      "tone": 6,
+      "ode": 3,
+      "raw_incipit": "There is none holy as Thou",
+      "canonical_english": "There is none holy as Thou, O Lord",
+      "greek": "Οὐκ ἔστιν ἅγιος ὡς σύ, Κύριε ὁ Θεός μου",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T6.EZHE_O_NAS",
+      "locus": "C13:p129",
+      "tone": 6,
+      "greek_incipit": "Τὴν ὑπὲρ ἡμῶν πληρώσας οἰκονομίαν",
+      "slavonic_source": "Єже ѡ на",
+      "slavonic_canonical": "Е҆́же ѡ҆ на́съ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.667,
+      "drift_info": {
+        "similarity": 0.667,
+        "tokens_only_in_a": [
+          "на"
+        ],
+        "tokens_only_in_b": [
+          "нас"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 66.7%)"
+      },
+      "raw_cohort_english": "Podoben: Having fulfilled the dispensation",
+      "canonical_english": "Fulfilling the dispensation for our sake",
+      "is_ai_drift": false
+    },
+    {
+      "type": "WEEKDAY_HEIRMOS_ALIGNED",
+      "id": "HEIRMOS.T6.ODE4",
+      "locus": "C13:p129",
+      "tone": 6,
+      "ode": 4,
+      "raw_incipit": "Christ is my power, God and Lord",
+      "canonical_english": "Christ is my power, God and Lord!\" the",
+      "greek": "Χριστός μου δύναμις, Θεὸς καὶ Κύριος",
+      "is_ai_drift": true
+    },
+    {
+      "type": "WEEKDAY_HEIRMOS_ALIGNED",
+      "id": "HEIRMOS.T6.ODE6",
+      "locus": "C13:p130",
+      "tone": 6,
+      "ode": 6,
+      "raw_incipit": "Beholding the sea of life",
+      "canonical_english": "Being swallowed up by the abyss of sins",
+      "greek": "Τοῦ βίου τὴν θάλασσαν ὑψουμένην καθορῶν",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T6.EZHE_O_NAS",
+      "locus": "C14:p131",
+      "tone": 6,
+      "greek_incipit": "Τὴν ὑπὲρ ἡμῶν πληρώσας οἰκονομίαν",
+      "slavonic_source": "Єже ѡ насъ",
+      "slavonic_canonical": "Е҆́же ѡ҆ на́съ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_2_ORTHOGRAPHIC_PHONOLOGICAL",
+      "drift_similarity": 0.92,
+      "drift_info": {
+        "t2": "еже о нас",
+        "details": "Ruthenian spelling / phonological reflex variance"
+      },
+      "raw_cohort_english": "Model: Fulfilling the dispensation for us",
+      "canonical_english": "Fulfilling the dispensation for our sake",
+      "is_ai_drift": true
+    },
+    {
+      "type": "WEEKDAY_HEIRMOS_ALIGNED",
+      "id": "HEIRMOS.T6.ODE8",
+      "locus": "C14:p132",
+      "tone": 6,
+      "ode": 8,
+      "raw_incipit": "From the flame Thou didst pour dew upon the venerable ones",
+      "canonical_english": "From the flame Thou didst pour forth dew",
+      "greek": "Ἐκ φλογὸς τοῖς ὁσίοις δρόσον ἐπήγασας",
+      "is_ai_drift": true
+    },
+    {
+      "type": "WEEKDAY_HEIRMOS_ALIGNED",
+      "id": "HEIRMOS.T6.ODE9",
+      "locus": "C14:p132",
+      "tone": 6,
+      "ode": 9,
+      "raw_incipit": "It is impossible for mankind to see God",
+      "canonical_english": "It is impossible for men to see God",
+      "greek": "Θεὸν ἀνθρώποις ἰδεῖν ἀδύνατον",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T6.ANGELSKIYA_SILY",
+      "locus": "C15:p148",
+      "tone": 6,
+      "greek_incipit": "Αἱ Ἀγγελικαὶ δυνάμεις",
+      "slavonic_source": "А҆́гг҃льскія си́лы",
+      "slavonic_canonical": "А҆́гг҃льскія си́лы",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
+      "raw_cohort_english": "Model: The angelic hosts go before",
+      "canonical_english": "The Angelic Powers",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T6.TRIDNEVEN_VOSKRESL_ESI",
+      "locus": "C15:p149",
+      "tone": 6,
+      "greek_incipit": "Τριήμερος ἀνέστης",
+      "slavonic_source": "Тридне́вно воскре́слъ е҆сѝ",
+      "slavonic_canonical": "Тридне́вно воскре́слъ е҆сѝ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
+      "raw_cohort_english": "Model: Risen on the third day",
+      "canonical_english": "Having risen on the third day",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T7.IZHE_MENE_RADI",
+      "locus": "C16:p154",
+      "tone": 7,
+      "greek_incipit": "Ὁ δι' ἐμὲ",
+      "slavonic_source": "И҆́же менѐ ра́ди",
+      "slavonic_canonical": "И҆́же менѐ ра́ди",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
+      "raw_cohort_english": "Model: He Who for my sake",
+      "canonical_english": "He Who for my sake",
+      "is_ai_drift": true
+    },
+    {
+      "type": "WEEKDAY_HEIRMOS_ALIGNED",
+      "id": "HEIRMOS.T7.ODE5",
+      "locus": "C16:p154",
+      "tone": 7,
+      "ode": 5,
+      "raw_incipit": "Night without light",
+      "canonical_english": "Night is without light unto the unbelieving, O",
+      "greek": "Νὺξ ἀφεγγὴς τοῖς ἀπίστοις, Χριστέ",
+      "is_ai_drift": true
+    },
+    {
+      "type": "WEEKDAY_HEIRMOS_ALIGNED",
+      "id": "HEIRMOS.T7.ODE6",
+      "locus": "C16:p155",
+      "tone": 7,
+      "ode": 6,
+      "raw_incipit": "Swimming in the surge",
+      "canonical_english": "Sailing in the surge of the billows of",
+      "greek": "Ναυτιλλόμενος τῷ σάλῳ τῶν βιωτικῶν μεριμνῶν",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T7.OGNYA_SVETLEE",
+      "locus": "C16:p155",
+      "tone": 7,
+      "greek_incipit": "Πυρὸς τηλαυγέστερον",
+      "slavonic_source": "Огнѧ свѣтлѣе",
+      "slavonic_canonical": "О҆гня̀ свѣтлѣ́е",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_2_ORTHOGRAPHIC_PHONOLOGICAL",
+      "drift_similarity": 0.92,
+      "drift_info": {
+        "t2": "огня светлее",
+        "details": "Ruthenian spelling / phonological reflex variance"
+      },
+      "raw_cohort_english": "Model: Brighter than fire",
+      "canonical_english": "Brighter than fire",
+      "is_ai_drift": true
+    },
+    {
+      "type": "WEEKDAY_HEIRMOS_ALIGNED",
+      "id": "HEIRMOS.T7.ODE7",
+      "locus": "C16:p155",
+      "tone": 7,
+      "ode": 7,
+      "raw_incipit": "He Who in the furnace",
+      "canonical_english": "The Children of old showed the fiery furnace",
+      "greek": "Κάμινον παῖδες πυρίνην πάλαι δροσοβόλον",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T7.DNES_BDIT_IUDA",
+      "locus": "C18:p172",
+      "tone": 7,
+      "greek_incipit": "Σήμερον γρηγορεῖ ὁ Ἰούδας",
+      "slavonic_source": "Дне́сь бди́тъ І҆ꙋ́да",
+      "slavonic_canonical": "Дне́сь бди́тъ І҆ю́да",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.667,
+      "drift_info": {
+        "similarity": 0.667,
+        "tokens_only_in_a": [
+          "иуда"
+        ],
+        "tokens_only_in_b": [
+          "июда"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 66.7%)"
+      },
+      "raw_cohort_english": "Model melody: Today Judas watches",
+      "canonical_english": "Today Judas watches",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T7.NE_KTOMU_VOZBRANENI",
+      "locus": "C18:p173",
+      "tone": 7,
+      "greek_incipit": "Οὐκέτι κωλυόμεθα",
+      "slavonic_source": "Не ктомꙋ̀ возбранѧ́еми",
+      "slavonic_canonical": "Не ктомꙋ̀ возбране́ни е҆смы̀",
+      "scribal_omitted_label": false,
+      "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
+      "drift_similarity": 0.9,
+      "drift_info": {
+        "t2_source": "не ктому возбраняеми",
+        "t2_canonical": "не ктому возбранени есми",
+        "details": "Scribal incipit truncation (3 vs 4 words)"
+      },
+      "raw_cohort_english": "Model melody: No longer forbidden",
+      "canonical_english": "No longer are we forbidden",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T8.POVELENNOE_TAINSTVENNO",
+      "locus": "C18:p178",
+      "tone": 8,
+      "greek_incipit": "Τὸ προσταχθὲν μυστικῶς",
+      "slavonic_source": "Повеле́нное",
+      "slavonic_canonical": "Повелѣ́нное та́инственно",
+      "scribal_omitted_label": false,
+      "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
+      "drift_similarity": 0.9,
+      "drift_info": {
+        "t2_source": "повеленное",
+        "t2_canonical": "повеленное таинственно",
+        "details": "Scribal incipit truncation (1 vs 2 words)"
+      },
+      "raw_cohort_english": "Model melody: That which was commanded secretly",
+      "canonical_english": "That which was commanded mystically",
+      "is_ai_drift": true
+    },
+    {
+      "type": "WEEKDAY_HEIRMOS_ALIGNED",
+      "id": "HEIRMOS.T8.ODE4",
+      "locus": "C18:p178",
+      "tone": 8,
+      "ode": 4,
+      "raw_incipit": "Thou art my Lord, O Christ",
+      "canonical_english": "Thou art my Lord, O Christ, Thou art",
+      "greek": "Σύ μου ἰσχύς, Κύριε, σύ μου καὶ δύναμις",
+      "is_ai_drift": true
+    },
+    {
+      "type": "WEEKDAY_HEIRMOS_ALIGNED",
+      "id": "HEIRMOS.T8.ODE5",
+      "locus": "C18:p179",
+      "tone": 8,
+      "ode": 5,
+      "raw_incipit": "Why hast Thou cast me off",
+      "canonical_english": "Why hast Thou cast me off from Thy",
+      "greek": "Ἵνα τί με ἀπώσω ἀπὸ τοῦ προσώπου σου",
+      "is_ai_drift": true
+    },
+    {
+      "type": "WEEKDAY_HEIRMOS_ALIGNED",
+      "id": "HEIRMOS.T8.ODE6",
+      "locus": "C18:p180",
+      "tone": 8,
+      "ode": 6,
+      "raw_incipit": "Cleanse me, O Savior",
+      "canonical_english": "Cleanse me, O Savior, for many are mine",
+      "greek": "Ἱλάσθητί μοι, Σωτήρ, πολλαὶ γὰρ αἱ ἀνομίαι μου",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T8.POVELENNOE_TAINSTVENNO",
+      "locus": "C18:p180",
+      "tone": 8,
+      "greek_incipit": "Τὸ προσταχθὲν μυστικῶς",
+      "slavonic_source": "Повеле́нное та́инство",
+      "slavonic_canonical": "Повелѣ́нное та́инственно",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.5,
+      "drift_info": {
+        "similarity": 0.5,
+        "tokens_only_in_a": [
+          "таинство"
+        ],
+        "tokens_only_in_b": [
+          "таинственно"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 50.0%)"
+      },
+      "raw_cohort_english": "Model melody: That which was commanded secretly",
+      "canonical_english": "That which was commanded mystically",
+      "is_ai_drift": true
+    },
+    {
+      "type": "WEEKDAY_HEIRMOS_ALIGNED",
+      "id": "HEIRMOS.T8.ODE9",
+      "locus": "C19:p182",
+      "tone": 8,
+      "ode": 9,
+      "raw_incipit": "Heaven was astonished",
+      "canonical_english": "The heaven was amazed at this, and the",
+      "greek": "Ἐξέστη ἐπὶ τούτῳ ὁ οὐρανός",
+      "is_ai_drift": true
+    },
+    {
+      "type": "WEEKDAY_HEIRMOS_ALIGNED",
+      "id": "HEIRMOS.T8.ODE4",
+      "locus": "C19:p187",
+      "tone": 8,
+      "ode": 4,
+      "raw_incipit": "Thou art my Lord, O Christ",
+      "canonical_english": "Thou art my Lord, O Christ, Thou art",
+      "greek": "Σύ μου ἰσχύς, Κύριε, σύ μου καὶ δύναμις",
+      "is_ai_drift": true
+    },
+    {
+      "type": "WEEKDAY_HEIRMOS_ALIGNED",
+      "id": "HEIRMOS.T8.ODE5",
+      "locus": "C19:p188",
+      "tone": 8,
+      "ode": 5,
+      "raw_incipit": "Why hast Thou cast me off",
+      "canonical_english": "Why hast Thou cast me off from Thy",
+      "greek": "Ἵνα τί με ἀπώσω ἀπὸ τοῦ προσώπου σου",
+      "is_ai_drift": true
+    },
+    {
+      "type": "WEEKDAY_HEIRMOS_ALIGNED",
+      "id": "HEIRMOS.T8.ODE6",
+      "locus": "C19:p189",
+      "tone": 8,
+      "ode": 6,
+      "raw_incipit": "Cleanse me, O Savior",
+      "canonical_english": "Cleanse me, O Savior, for many are mine",
+      "greek": "Ἱλάσθητί μοι, Σωτήρ, πολλαὶ γὰρ αἱ ἀνομίαι μου",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T8.GOSPODI_ASHCHE_I_NA_SUDISHCHI",
+      "locus": "C20:p196",
+      "tone": 8,
+      "greek_incipit": "Κύριε, εἰ καὶ κριτηρίῳ παρέστης",
+      "slavonic_source": "Гдⷭ҇и а҆́ще на сꙋди́щи",
+      "slavonic_canonical": "Гдⷭ҇и, а҆́ще и҆ на сꙋди́щи",
+      "scribal_omitted_label": false,
+      "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
+      "drift_similarity": 0.9,
+      "drift_info": {
+        "t2_source": "господи аще на судищи",
+        "t2_canonical": "господи аще и на судищи",
+        "details": "Scribal incipit truncation (4 vs 5 words)"
+      },
+      "raw_cohort_english": "Model melody: O Lord, though before the judgment seat",
+      "canonical_english": "O Lord, though Thou didst stand before the tribunal",
+      "is_ai_drift": true
+    },
+    {
+      "type": "WEEKDAY_HEIRMOS_ALIGNED",
+      "id": "HEIRMOS.T1.ODE6",
+      "locus": "C21:p204",
+      "tone": 1,
+      "ode": 6,
+      "raw_incipit": "The lowest abyss hath encompassed us",
+      "canonical_english": "The lowest abyss hath compassed us about, and",
+      "greek": "Ἐκύκλωσεν ἡμᾶς ἐσχάτη ἄβυσσος",
+      "is_ai_drift": true
+    },
+    {
+      "type": "WEEKDAY_HEIRMOS_ALIGNED",
+      "id": "HEIRMOS.T1.ODE7",
+      "locus": "C21:p205",
+      "tone": 1,
+      "ode": 7,
+      "raw_incipit": "Thee, noetic furnace, O Mother of God",
+      "canonical_english": "Thee, O Mother of God, we faithful perceive",
+      "greek": "Σὲ νοητήν, Θεοτόκε, κάμινον",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.EXAP.ZHENY_USLYSHITE",
+      "locus": "C21:p208",
+      "tone": 1,
+      "greek_incipit": "Γυναῖκες ἀκουτίσθητε",
+      "slavonic_source": "Же́ны оу҆слы́шите",
+      "slavonic_canonical": "Же́ны оу҆слы́шите",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
+      "raw_cohort_english": "Podoben: Give ear, ye women",
+      "canonical_english": "Give ear, ye women",
+      "is_ai_drift": false
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T2.EGDA_OT_DREVA",
+      "locus": "C22:p211",
+      "tone": 2,
+      "greek_incipit": "Ὅτε ἐκ τοῦ ξύλου",
+      "slavonic_source": "Е҆гда̀ ѿ дре́ва тя̀",
+      "slavonic_canonical": "Е҆гда̀ ѿ дре́ва",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.857,
+      "drift_info": {
+        "similarity": 0.857,
+        "tokens_only_in_a": [
+          "тя"
+        ],
+        "tokens_only_in_b": [],
+        "details": "Lexical/syntactic variation (token similarity: 85.7%)"
+      },
+      "raw_cohort_english": "Podoben: When from the Tree",
+      "canonical_english": "When from the Tree",
+      "is_ai_drift": false
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T2.MILOSERDIA_SUSHCHI",
+      "locus": "C22:p213",
+      "tone": 2,
+      "greek_incipit": "Εὐσπλαγχνίας ὑπάρχουσα πηγή",
+      "slavonic_source": "Милосе́рдія сꙋ́щи и҆сто́чникъ",
+      "slavonic_canonical": "Милосе́рдія сꙋ́щи и҆сто́чникъ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
+      "raw_cohort_english": "Podoben: Being tenderly compassionate",
+      "canonical_english": "Being the wellspring of loving-kindness",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T3.VELIA_MUCHENIK_TVOIKH",
+      "locus": "C23:p226",
+      "tone": 3,
+      "greek_incipit": "Μεγάλη τῶν Μαρτύρων σου",
+      "slavonic_source": "Ве́лія мꙋ́ченикъ твои́хъ",
+      "slavonic_canonical": "Ве́лія мꙋ́ченикъ твои́хъ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
+      "raw_cohort_english": "Podoben: The great martyrs",
+      "canonical_english": "Great is the power of Thy martyrs",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T4.YAKO_DOBLYA",
+      "locus": "C24:p240",
+      "tone": 4,
+      "greek_incipit": "Ὡς γενναῖον ἐν Μάρτυσιν",
+      "slavonic_source": "Я҆́кѡ до́бля",
+      "slavonic_canonical": "Я҆́кѡ до́бля",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
+      "raw_cohort_english": "Model: As one noble",
+      "canonical_english": "As one valiant among martyrs",
+      "is_ai_drift": true
+    },
+    {
+      "type": "WEEKDAY_HEIRMOS_ALIGNED",
+      "id": "HEIRMOS.T4.ODE4",
+      "locus": "C25:p245",
+      "tone": 4,
+      "ode": 4,
+      "raw_incipit": "Beholding Thee lifted up, the Church",
+      "canonical_english": "Beholding Thee, the Sun of righteousness, lifted up",
+      "greek": "Ἐπαρθέντα σε ἰδοῦσα ἡ Ἐκκλησία",
+      "is_ai_drift": true
+    },
+    {
+      "type": "WEEKDAY_HEIRMOS_ALIGNED",
+      "id": "HEIRMOS.T4.ODE6",
+      "locus": "C25:p247",
+      "tone": 4,
+      "ode": 6,
+      "raw_incipit": "I will sacrifice unto Thee with the voice of praise",
+      "canonical_english": "I came into the deep of the sea",
+      "greek": "Θύσω σοι μετὰ φωνῆς αἰνέσεως, Κύριε",
+      "is_ai_drift": true
+    },
+    {
+      "type": "WEEKDAY_HEIRMOS_ALIGNED",
+      "id": "HEIRMOS.T4.ODE7",
+      "locus": "C25:p248",
+      "tone": 4,
+      "ode": 7,
+      "raw_incipit": "In the furnace, the children of Abraham",
+      "canonical_english": "In the fiery furnace the Persian children of",
+      "greek": "Ἐν τῇ καμίνῳ Ἀβραμιαῖοι Παῖδες",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T5.PREPODOBNE_OTCHE",
+      "locus": "C26:p253",
+      "tone": 5,
+      "greek_incipit": "Ὅσιε Πάτερ",
+      "slavonic_source": "Преподо́бне ѻ҆́тче",
+      "slavonic_canonical": "Преподо́бне ѻ҆́тче",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
+      "raw_cohort_english": "Model: O venerable father",
+      "canonical_english": "O venerable father",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PODOBEN_SAME_NORMALIZED",
+      "primitive_id": "POD.T5.SAME",
+      "locus": "C26:p254",
+      "tone": 5,
+      "slavonic_source": "то́йже",
+      "raw_cohort_english": "*Other Stichera to the Most Holy Theotokos, same Tone and Model melody:*",
+      "canonical_english": "The same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже)",
+      "drift_tier": "TIER_0_EXACT",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T5.RADUISYA_ZHIVONOSNYI_KRESTE",
+      "locus": "C26:p255",
+      "tone": 5,
+      "greek_incipit": "Χαίροις ὁ ζωηφόρος Σταυρός",
+      "slavonic_source": "Ра́дꙋйся живоно́сный Крⷭ҇те",
+      "slavonic_canonical": "Ра́дꙋйся живоно́сный Крⷭ҇те",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
+      "raw_cohort_english": "Model: Rejoice, life-bearing",
+      "canonical_english": "Rejoice, O life-bearing Cross",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T5.SLOVO_SOBEZNACHALNOE",
+      "locus": "C26:p258",
+      "tone": 5,
+      "greek_incipit": "Τὸν συνάναρχον Λόγον",
+      "slavonic_source": "Собезнача́льное Сло́во",
+      "slavonic_canonical": "Собезнача́льное Сло́во",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
+      "raw_cohort_english": "Model: Co-unoriginate",
+      "canonical_english": "The Word co-unoriginate",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T6.VSE_OTLOZHSHE",
+      "locus": "C27:p267",
+      "tone": 6,
+      "greek_incipit": "Ὅλην ἀποθέμενοι",
+      "slavonic_source": "Все ᲂу҆пова́нїе",
+      "slavonic_canonical": "Всѐ ѿло́жше",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.5,
+      "drift_info": {
+        "similarity": 0.5,
+        "tokens_only_in_a": [
+          "упование"
+        ],
+        "tokens_only_in_b": [
+          "отложше"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 50.0%)"
+      },
+      "raw_cohort_english": "Model melody: Having placed all their hope",
+      "canonical_english": "Having laid aside all earthly hope",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PODOBEN_SAME_NORMALIZED",
+      "primitive_id": "POD.T6.SAME",
+      "locus": "C27:p268",
+      "tone": 6,
+      "slavonic_source": "то́йже",
+      "raw_cohort_english": "*Other Stichera, same Tone and model melody:*",
+      "canonical_english": "The same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже)",
+      "drift_tier": "TIER_0_EXACT",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T6.VSE_OTLOZHSHE",
+      "locus": "C28:p279",
+      "tone": 6,
+      "greek_incipit": "Ὅλην ἀποθέμενοι",
+      "slavonic_source": "Всѐ ᲂу҆пова́нїе",
+      "slavonic_canonical": "Всѐ ѿло́жше",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.5,
+      "drift_info": {
+        "similarity": 0.5,
+        "tokens_only_in_a": [
+          "упование"
+        ],
+        "tokens_only_in_b": [
+          "отложше"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 50.0%)"
+      },
+      "raw_cohort_english": "model melody: Having placed all their hope",
+      "canonical_english": "Having laid aside all earthly hope",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PSALM_VERSE_NORMALIZED",
+      "id": "PRIM.VERSE.PS24_13A",
+      "locus": "C28:p280",
+      "lxx_ref": "Ps. 24:13a",
+      "slavonic_source": "Дꙋ́шы и҆́хъ во благи́хъ водворя́тся",
+      "raw_english": "Their souls shall dwell amid good things.",
+      "canonical_english": "*Verse: Their souls shall dwell among good things.*",
+      "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
+      "greek": "ἡ ψυχὴ αὐτοῦ ἐν ἀγαθοῖς αὐλισθήσεται",
+      "is_ai_drift": true
+    },
+    {
+      "type": "PSALM_VERSE_NORMALIZED",
+      "id": "PRIM.VERSE.PS64_5A",
+      "locus": "C28:p280",
+      "lxx_ref": "Ps. 64:5a",
+      "slavonic_source": "Блаже́ни, я҆̀же и҆збра́лъ и҆ прія́лъ е҆сѝ, Го́споди",
+      "raw_english": "Blessed are they whom Thou hast chosen and taken to Thyself, O Lord.",
+      "canonical_english": "*Verse: Blessed are they whom Thou hast chosen and taken to Thyself, O Lord.*",
+      "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
+      "greek": "μακάριοι οὓς ἐξελέξω καὶ προσελάβου, Κύριε",
+      "is_ai_drift": false
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 12rA]",
+      "prev_tail": " Christ elevates me by humbling Himself;",
+      "curr_head": "Christ makes me impassible, as the Giver",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 28vA]",
+      "prev_tail": "ved; for as the bush was not consumed...",
+      "curr_head": "...consumed: so being a Virgin didst tho",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 38vA]",
+      "prev_tail": " hearts were terrified at the childbirth",
+      "curr_head": "at thy childbirth; therefore faithfully ",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 39rA]",
+      "prev_tail": "Neither mediator nor an angel,",
+      "curr_head": "an angel; but Thou Thyself, the Lord inc",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 40vA]",
+      "prev_tail": "aving been crucified, abolishes this sin",
+      "curr_head": "this sin, having been crucified as the s",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 41rA]",
+      "prev_tail": "was condemned, and with two lawless ones",
+      "curr_head": "lawless ones is nailed upon the Tree, be",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 41vA]",
+      "prev_tail": " which had gathered much wealth, the One",
+      "curr_head": "the One emptied of all us, O Christ.",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 43rA]",
+      "prev_tail": "proclaims not the one Son of the Virgin,",
+      "curr_head": "Virgin, One of the praised Trinity, and ",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 43vA]",
+      "prev_tail": "ying unto Thee: Death is swallowed up in",
+      "curr_head": "swallowed up in victory!",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 45rA]",
+      "prev_tail": "sible divine nature: the thrice-radiant,",
+      "curr_head": "thrice-radiant, unwaning dawn, the one i",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 46rA]",
+      "prev_tail": "e peoples, and be glad! An angel sitting",
+      "curr_head": "sitting upon the stone of the tomb, he p",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 46vA]",
+      "prev_tail": "e gentiles and peoples praise Christ our",
+      "curr_head": "our God, Who of His own will endured cru",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 49vA]",
+      "prev_tail": "ing the pleasures of earth, the passion-",
+      "curr_head": "bearers were accounted worthy of heavenl",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 53vA]",
+      "prev_tail": " the one thrice-radiant Creator, the un-",
+      "curr_head": "changeable One; and I cry unto Thee, O M",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 64vA]",
+      "prev_tail": " in the Chaldean furnace with the light-",
+      "curr_head": "bearing fire of Divinity, do Thou illumi",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 65vA]",
+      "prev_tail": "s with the Father, and with virginal ha-",
+      "curr_head": "nds borne: we bless Thy childbearing, O ",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 92vA]",
+      "prev_tail": "at we may magnify thee as the Theotokos.",
+      "curr_head": "...magnify thee.[^98]",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 108vA]",
+      "prev_tail": "e, O all-undefiled one, and illumined...",
+      "curr_head": "O Virgin Mother, pray unto Christ, the L",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 118vA]",
+      "prev_tail": "ss of the guards, and the seals...[^123]",
+      "curr_head": "...and the destruction of the seals, the",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 122vA]",
+      "prev_tail": "ntained within a womb, and the Mother...",
+      "curr_head": "...and the Mother after childbirth remai",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 129rA]",
+      "prev_tail": "d Theotokos; shine forth illumination...",
+      "curr_head": "...illumination unto darkened hearts, an",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 129vA]",
+      "prev_tail": "ile in personal properties unconfused...",
+      "curr_head": "...unconfused hypostases, O Trinity, sim",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 130rA]",
+      "prev_tail": "ord begotten as Light, co-everlasting...",
+      "curr_head": "...co-everlasting, with the Spirit proce",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 130vA]",
+      "prev_tail": "rant them to partake of] imperishable...",
+      "curr_head": "...imperishable nourishment, vouchsafe a",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 131vA]",
+      "prev_tail": "ike dew upon the fleece into Thy womb...",
+      "curr_head": "...Thy womb; and without seed Thou hast ",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 133vA]",
+      "prev_tail": " food of disobedience from the garden...",
+      "curr_head": "...food brought in a curse; but this Tho",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 134rA]",
+      "prev_tail": "ful, O Good One, and hast established...",
+      "curr_head": "...established them upon the rock of Thy",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 135rA]",
+      "prev_tail": "e amazed with fear, and as the Mother...",
+      "curr_head": "...the Mother of God they glorified thee",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 138vA]",
+      "prev_tail": "hou wast willing as man, in the flesh...",
+      "curr_head": "...in the flesh Thou didst endure suffer",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 141vA]",
+      "prev_tail": "ing in the prison of Hades, suffering...",
+      "curr_head": "...suffering Passion, Thou didst deliver",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 142rA]",
+      "prev_tail": "on of the Word with me, man, a divine...",
+      "curr_head": "...a divine dwelling wast thou, O all-pu",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 145rA]",
+      "prev_tail": "-receiving tomb, O Lord; and carrying...",
+      "curr_head": "...carrying myrrh, they sought to anoint",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 145vA]",
+      "prev_tail": " Thou didst save him again, who cries...",
+      "curr_head": "...who cries: Remember me, O Lord, when ",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 147rA]",
+      "prev_tail": " brought forth the powers of heavenly...",
+      "curr_head": "...heavenly minds, formless and immateri",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 148vA]",
+      "prev_tail": " by death Thou didst put death to death.",
+      "curr_head": "...didst put to death: therefore we wors",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 149rA]",
+      "prev_tail": "he prophecy of David, Christ revealed...",
+      "curr_head": "...revealed His majesties in Zion unto H",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 149vA]",
+      "prev_tail": "e nature, O Theotokos, yet remainedst...",
+      "curr_head": "...remainedst a virgin above speech and ",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 151rA]",
+      "prev_tail": "ter, we ask deliverance from sins and...",
+      "curr_head": "...and calamities: O Almighty God, despi",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 156rA]",
+      "prev_tail": "e power of death, unceasingly entreat...",
+      "curr_head": "...entreat, O Theotokos Virgin, that He ",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 170rA]",
+      "prev_tail": " thy account, we cry unto thee: Rejoice,",
+      "curr_head": "we cry unto thee, the hope of Christians",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 208vA]",
+      "prev_tail": "shall be guilty of torment. But grant...",
+      "curr_head": "...grant me amendment, O only Good God, ",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 209vA]",
+      "prev_tail": "nd prayerful agreement, with one soul...",
+      "curr_head": "...with one soul: O Mother of the King o",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 214vA]",
+      "prev_tail": " Spirit, the glorious prophetic choir...",
+      "curr_head": "...the glorious prophetic choir, in dive",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 219rA]",
+      "prev_tail": "t bear in thy womb the Incarnate Word...",
+      "curr_head": "...the Incarnate Word: recognizing Him b",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 219vA]",
+      "prev_tail": "et us stand manfully together!” cried...",
+      "curr_head": "...cried the valiant sufferers one unto ",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 220vA]",
+      "prev_tail": "e with divine virtues, O all-pure one...",
+      "curr_head": "...enrich me with divine virtues, O all-",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 221rA]",
+      "prev_tail": "The radiant memory...",
+      "curr_head": "The radiant memory of the divine suffere",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 221vA]",
+      "prev_tail": "e art sinless and abundantly merciful...",
+      "curr_head": "...Deliver me from sinful mire, O Lord, ",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 222rA]",
+      "prev_tail": "ant from above deliverance from cruel...",
+      "curr_head": "...grant from above deliverance from cru",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 223rA]",
+      "prev_tail": "m perils, O Virgin Theotokos, for all...",
+      "curr_head": "...for all after God flee unto thee, O V",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 224rA]",
+      "prev_tail": " He pierced His side, O Giver of life...",
+      "curr_head": "...O Giver of life, Thou didst pour fort",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 224vA]",
+      "prev_tail": "ck beneath the light yoke of thy Lord...",
+      "curr_head": "...thy Lord, Who shone forth from the Vi",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 225rA]",
+      "prev_tail": "hose who oppose me; therefore, O Word...",
+      "curr_head": "...therefore, O Word, do I bow down befo",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 225vA]",
+      "prev_tail": "wn the haughty insolence of the enemy...",
+      "curr_head": "...the haughty insolence of the enemy, a",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 226rA]",
+      "prev_tail": "the armor of faith, the hostile ranks...",
+      "curr_head": "...the hostile ranks ye did cast down in",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 227rA]",
+      "prev_tail": " own will, hast bound him, dissolving...",
+      "curr_head": "...dissolving our transgressions, O Love",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 227vA]",
+      "prev_tail": "Grant that the furrows of my soul...",
+      "curr_head": "...Grant that the furrows of my soul may",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 228rA]",
+      "prev_tail": "ncy, and cry out fervently and warmly...",
+      "curr_head": "...cry out fervently and warmly: “Save m",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 238vA]",
+      "prev_tail": "throned bishop] of the people of Myra...",
+      "curr_head": "...first-enthroned bishop, and having an",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 244rA]",
+      "prev_tail": " the afflictions that slay us cruelly...",
+      "curr_head": "...by thy prayers.",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 249vA]",
+      "prev_tail": " Paul, Andrew, and James, Bartholomew...",
+      "curr_head": "...and Matthew, James and Philip, Thomas",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 255vA]",
+      "prev_tail": "ath been abolished, and demonic power...",
+      "curr_head": "...hath been trampled down; therefore do",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 257rA]",
+      "prev_tail": " of God, and make it a dwelling place...",
+      "curr_head": "...of God, that I may ever duly glorify ",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 268vA]",
+      "prev_tail": "by death, and His Passion by passions...",
+      "curr_head": "...honorably imitating the death of Chri",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 270vA]",
+      "prev_tail": "red, singing unto Thee, O Christ: [^276]",
+      "curr_head": "...singing: \"Glory to Thy power, O Lover",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 272vA]",
+      "prev_tail": "rgin, through thy intercession... [^278]",
+      "curr_head": "...through thy maternal intercession.",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 274vA]",
+      "prev_tail": "received heavenly crowns, crying: [^280]",
+      "curr_head": "...crying unto the Savior: \"Praise the L",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 277vA]",
+      "prev_tail": "le fountain of divine goodness... [^283]",
+      "curr_head": "...goodness, O Most-Merciful One: settle",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 279vA]",
+      "prev_tail": "y Virgin, and lived among those below...",
+      "curr_head": "...lived: and thou, having received Him ",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 289vA]",
+      "prev_tail": "Daring to emulate Thy noetic armies...",
+      "curr_head": "...armies, O unoriginate Trinity, with u",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 291rA]",
+      "prev_tail": "ce-holy voice; with whom also we cry:...",
+      "curr_head": "...cry, we sinners: Holy, Holy, Holy art",
+      "is_ai_drift": true
+    }
+  ]
+}

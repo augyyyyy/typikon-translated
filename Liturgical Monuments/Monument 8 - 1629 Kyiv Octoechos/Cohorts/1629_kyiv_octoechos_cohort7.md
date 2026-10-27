@@ -32,7 +32,7 @@ Through the Holy Spirit is all the wealth of glory, from Whom comes grace and li
 
 *Sunday Prokeimenon, Tone 3:*
 
-*Prokeimenon, Tone 3:* Say among the nations that the Lord reigneth.  
+*Prokeimenon, Tone 3:* Say among the nations that the Lord reigns.  
 *Verse:* Sing unto the Lord a new song.  
 *Let every breath praise the Lord.*  
 *Verse:* Praise God in His saints.
@@ -189,7 +189,7 @@ Thou art my portion, O Lord, and my desired inheritance, Who hast united me from
 Unto Thee I rise early, the Creator of all, Who passest all understanding of peace; for a light are Thy commandments, wherein do Thou direct me.
 
 *Troparia:*  
-Being delivered up through Jewish envy unto an unjust judge, the All-seeing One, Who judgeth all the earth justly, Thou didst deliver ancient Adam from condemnation.
+Being delivered up through Jewish envy unto an unjust judge, the All-seeing One, Who judges all the earth justly, Thou didst deliver ancient Adam from condemnation.
 
 Grant Thy peace unto Thy churches, O Christ, by the unconquerable power of Thy Cross, Thou Who art risen from the dead; and save our souls.
 
@@ -312,7 +312,7 @@ An inexhaustible treasury didst thou become, O blessed and all-pure one, unto th
 *Ode 7:*
 
 *The Heirmos, the same:*  
-He Who is the Lord of glory and ruler of the higher hosts, Who sitteth with the Father, and with virginal ha-
+He Who is the Lord of glory and ruler of the higher hosts, Who sits with the Father, and with virginal ha-
 
 === LEAF p68 ===
 

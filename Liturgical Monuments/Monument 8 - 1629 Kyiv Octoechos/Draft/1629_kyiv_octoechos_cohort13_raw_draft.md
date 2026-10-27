@@ -2,7 +2,7 @@
 
 **[Left Page — Fol. 118v]**
 
-...and the destruction of the seals, the emptying of Hades, Who made void the victory of Hades and crushed the sting of death: "Why seek ye as dead Him Who liveth? Go quickly, proclaim to the Apostles the Resurrection, crying without fear: Truly the Lord is risen, having great mercy!"[^124]
+...and the destruction of the seals, the emptying of Hades, Who made void the victory of Hades and crushed the sting of death: "Why seek ye as dead Him Who lives? Go quickly, proclaim to the Apostles the Resurrection, crying without fear: Truly the Lord is risen, having great mercy!"[^124]
 
 *Glory... Evangelical Stichera. Both now and ever... Most blessed art Thou...*
 
@@ -54,13 +54,13 @@ Woe is me! How have I been darkened in mind! How have I departed from Thee and p
 
 *Other Stichera to the Bodiless Powers. Podoben: The same:*[^126]
 
-Venerable initiates of the divine Sovereignty, of the thrice-radiant and unique Godhead, who ceaselessly offer hymnody with bodiless voices and tongues of fire: offer our entreaties and prayers which we send up from defiled lips, and ask remission for our transgressions! For He Who clothed Himself in our weakness knoweth it, and being merciful by nature, He will accept your supplications made on behalf of servants who have sinned,
+Venerable initiates of the divine Sovereignty, of the thrice-radiant and unique Godhead, who ceaselessly offer hymnody with bodiless voices and tongues of fire: offer our entreaties and prayers which we send up from defiled lips, and ask remission for our transgressions! For He Who clothed Himself in our weakness knows it, and being merciful by nature, He will accept your supplications made on behalf of servants who have sinned,
 
 **[Right Page — Fol. 121r]**
 
 granting great mercy unto the world.
 
-All ye angelic multitude who draw near unto Him and stand with trembling before His divine throne, incomprehensible by reason of ineffable light: guide me, who have gone astray in sinful darkness, unto the saving light! By the command of the bountiful God, drive away the dark and alien gloom of crafty demons through your protection and grace; for it endureth not the coming of light, but is chased away.
+All ye angelic multitude who draw near unto Him and stand with trembling before His divine throne, incomprehensible by reason of ineffable light: guide me, who have gone astray in sinful darkness, unto the saving light! By the command of the bountiful God, drive away the dark and alien gloom of crafty demons through your protection and grace; for it endures not the coming of light, but is chased away.
 
 Ye luminous angels of God, standing before the divine throne of grace, being humility and receiving true enlightenment from the divine light: watch over us from the heavens, serving the Lover of mankind, over us who wander in the cruel seduction of the ruler of this world and sleep in darkness! Come...
 
@@ -82,7 +82,7 @@ O Lord, sinning ceaselessly, yet being accounted worthy of Thy love for mankind 
 
 overcome my darkness, O only Good One, and have mercy on me!
 
-O Lord, fearing Thy dread fear, yet I cease not doing evil. Who standing before the judge at the judgment-seat feareth not? Or who, desiring healing, provoketh the physician to wrath as I do? O longsuffering Lord, have compassion on my weakness, and have mercy on me!
+O Lord, fearing Thy dread fear, yet I cease not doing evil. Who standing before the judge at the judgment-seat fears not? Or who, desiring healing, provokes the physician to wrath as I do? O longsuffering Lord, have compassion on my weakness, and have mercy on me!
 
 *Martyrion:*
 
@@ -100,7 +100,7 @@ A dread, marvelous, and great mystery: the Incomprehensible One is contained wit
 
 [Tailpiece: Ornamental Renaissance woodcut cartouche featuring a grotesque cherubic mascaron flanked by scrollwork and foliate flourishes]
 
-[17th-century cursive ink marginalia at lower margin: "сто рословъ нинець всуботу" (one hundred words... on Saturday)]
+[17th-century cursive ink marginalia at lower margin: "one hundred words... on Saturday" (*сто рословъ нинець всуботу*)]
 
 **[Right Page — Fol. 123r]**
 
@@ -184,7 +184,7 @@ Let us hymn the three hypostases of the Sovereign Godhead of one unique
 
 **[Right Page — Fol. 126r]**
 
-nature, the immutable form of the good God Who loveth mankind, Who granteth us cleansing of transgressions.
+nature, the immutable form of the good God Who loves mankind, Who grants us cleansing of transgressions.
 
 O unique, supremely divine Lord, thrice-radiant in hypostases, yet being in identity of form: give us understanding and vouchsafe us Thy divine radiance!
 

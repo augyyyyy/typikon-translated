@@ -14,9 +14,9 @@
 
 # PREFACE: TO THE READER
 
-Be it known unto every pious reader,[^1] that each one of us is a temple of the living God, wherein necessity showeth at every hour that we should offer up unto Him godly chants. Procure therefore for thyself this little book, that in thine own church during visitation,[^2] by celebrating the canons therefrom, thou mayest praise the living God: so that, having instructed thyself therein from such a beginning of virtues as the fear of God, thou mayest advance into love, the perfect mother of virtues, which is God Himself. Unto Whom be glory, honor, and worship, unto ages of ages: Amen.
+Be it known unto every pious reader,[^1] that each one of us is a temple of the living God, wherein necessity shows at every hour that we should offer up unto Him godly chants. Procure therefore for thyself this little book, that in thine own church during visitation,[^2] by celebrating the canons therefrom, thou mayest praise the living God: so that, having instructed thyself therein from such a beginning of virtues as the fear of God, thou mayest advance into love, the perfect mother of virtues, which is God Himself. Unto Whom be glory, honor, and worship, unto ages of ages: Amen.
 
-[Nineteenth-century cursive inscription at the foot of the page:] Belongeth to the library of the Trinity-St. Sergius Lavra. In the year 1859.
+[Nineteenth-century cursive inscription at the foot of the page:] Belongs to the library of the Trinity-St. Sergius Lavra. In the year 1859.
 
 === LEAF p3 ===
 
@@ -28,7 +28,7 @@ Saint John of Damascus.
 
 **[Right Page — Fol. 1r]**
 
-[Woodcut Headpiece: The Resurrection of Christ / Descent into Hades. The Savior in an almond mandorla trampleth the shattered gates of Hades and raiseth Adam and Eve, flanked by Kings David and Solomon and the Holy Prophets; inscribed: "RESURRECTION OF CHRIST," with engraver's monogram in lower left: "V T."]
+[Woodcut Headpiece: The Resurrection of Christ / Descent into Hades. The Savior in an almond mandorla tramples the shattered gates of Hades and raises Adam and Eve, flanked by Kings David and Solomon and the Holy Prophets; inscribed: "RESURRECTION OF CHRIST," with engraver's monogram in lower left: "V T."]
 
 # TONE 1
 
@@ -112,7 +112,7 @@ Thou hast been shown forth more spacious than the heavens, having borne thy Crea
 
 *Refrain: Most Holy Trinity, our God, glory to Thee.*
 
-The one Tri-hypostatic Origin, unoriginate, co-eternal, Creator of all, incomprehensible, the Seraphim glorify unceasingly, and every tongue faithfully laudeth in hymns.
+The one Tri-hypostatic Origin, unoriginate, co-eternal, Creator of all, incomprehensible, the Seraphim glorify unceasingly, and every tongue faithfully lauds in hymns.
 
 That Thou mightest reveal unto mankind Thy singular, thrice-shining Godhead: having fashioned man, Thou didst form him according to Thine image, giving him intellect, word, and spirit, as Lover of mankind.
 
@@ -172,7 +172,7 @@ Even as Thou hast fashioned me according to Thine image and likeness, O divine, 
 
 *Theotokion:*
 
-Thou hast given birth unto One of the Trinity, O most pure one, the divine Son Who became incarnate for our sake from thee, and Who enlighteneth earthly things with the unwaning light and radiances of the thrice-shining Godhead.
+Thou hast given birth unto One of the Trinity, O most pure one, the divine Son Who became incarnate for our sake from thee, and Who enlightens earthly things with the unwaning light and radiances of the thrice-shining Godhead.
 
 *Ode 5. Heirmos: Illumination.*
 
@@ -184,7 +184,7 @@ O singular, divine, thrice-radiant Trinity, our nature, which Thou hast communed
 
 **[Left Page — Fol. 6v]**
 
-out of grace, praiseth Thee: unceasingly seeking deliverance from transgressions, temptations, perils, and afflictions.
+out of grace, praises Thee: unceasingly seeking deliverance from transgressions, temptations, perils, and afflictions.
 
 The Father, the Son, and the Holy Spirit, one nature and Godhead, we, the faithful, glorify, indivisibly divided: the one God of creation invisible and visible.
 

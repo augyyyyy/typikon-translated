@@ -577,54 +577,60 @@
           {
             "id": "part1",
             "filename": "1629_kyiv_octoechos_part1_tone1.md",
-            "title": "TONE 1: RESURRECTIONAL AND WEEKDAY HYMNOGRAPHY",
+            "title": "TONE 1: SUNDAY RESURRECTIONAL HYMNOGRAPHY",
             "start_landmark": "^#\\s+(?:TONE\\s+(?:1|I|FIRST)|BEGINNING\\s+OF\\s+TONE\\s+1)\\b"
           },
           {
             "id": "part2",
             "filename": "1629_kyiv_octoechos_part2_tone2.md",
-            "title": "TONE 2: RESURRECTIONAL AND WEEKDAY HYMNOGRAPHY",
+            "title": "TONE 2: SUNDAY RESURRECTIONAL HYMNOGRAPHY",
             "start_landmark": "^#\\s+(?:TONE\\s+(?:2|II|SECOND)|BEGINNING\\s+OF\\s+TONE\\s+2)\\b"
           },
           {
             "id": "part3",
             "filename": "1629_kyiv_octoechos_part3_tone3.md",
-            "title": "TONE 3: RESURRECTIONAL AND WEEKDAY HYMNOGRAPHY",
+            "title": "TONE 3: SUNDAY RESURRECTIONAL HYMNOGRAPHY",
             "start_landmark": "^#\\s+(?:TONE\\s+(?:3|III|THIRD)|BEGINNING\\s+OF\\s+TONE\\s+3)\\b"
           },
           {
             "id": "part4",
             "filename": "1629_kyiv_octoechos_part4_tone4.md",
-            "title": "TONE 4: RESURRECTIONAL AND WEEKDAY HYMNOGRAPHY",
+            "title": "TONE 4: SUNDAY RESURRECTIONAL HYMNOGRAPHY",
             "start_landmark": "^#\\s+(?:TONE\\s+(?:4|IV|FOURTH)|BEGINNING\\s+OF\\s+TONE\\s+4)\\b"
           },
           {
             "id": "part5",
             "filename": "1629_kyiv_octoechos_part5_tone5.md",
-            "title": "TONE 5: RESURRECTIONAL AND WEEKDAY HYMNOGRAPHY",
+            "title": "TONE 5: SUNDAY RESURRECTIONAL HYMNOGRAPHY",
             "start_landmark": "^#\\s+(?:TONE\\s+(?:5|V|FIFTH)|BEGINNING\\s+OF\\s+TONE\\s+5)\\b"
           },
           {
             "id": "part6",
             "filename": "1629_kyiv_octoechos_part6_tone6.md",
-            "title": "TONE 6: RESURRECTIONAL AND WEEKDAY HYMNOGRAPHY",
+            "title": "TONE 6: SUNDAY RESURRECTIONAL HYMNOGRAPHY",
             "start_landmark": "^#\\s+(?:TONE\\s+(?:6|VI|SIXTH)|BEGINNING\\s+OF\\s+TONE\\s+6)\\b"
           },
           {
             "id": "part7",
             "filename": "1629_kyiv_octoechos_part7_tone7.md",
-            "title": "TONE 7: RESURRECTIONAL AND WEEKDAY HYMNOGRAPHY",
+            "title": "TONE 7: SUNDAY RESURRECTIONAL HYMNOGRAPHY",
             "start_landmark": "^#\\s+(?:TONE\\s+(?:7|VII|SEVENTH)|BEGINNING\\s+OF\\s+TONE\\s+7)\\b"
           },
           {
             "id": "part8",
             "filename": "1629_kyiv_octoechos_part8_tone8.md",
-            "title": "TONE 8: RESURRECTIONAL AND WEEKDAY HYMNOGRAPHY",
+            "title": "TONE 8: SUNDAY RESURRECTIONAL HYMNOGRAPHY",
             "start_landmark": "^#\\s+(?:TONE\\s+(?:8|VIII|EIGHTH)|BEGINNING\\s+OF\\s+TONE\\s+8)\\b"
           },
           {
             "id": "part9",
-            "filename": "1629_kyiv_octoechos_part9_exapostilaria_triadika_and_colophon.md",
+            "filename": "1629_kyiv_octoechos_part9_weekday_offices.md",
+            "title": "Weekday Offices of the Octoechos (Monday through Saturday)",
+            "start_landmark": "^#\\s+WEEKDAY\\s+OFFICES\\b"
+          },
+          {
+            "id": "part10",
+            "filename": "1629_kyiv_octoechos_part10_exapostilaria_triadika_and_colophon.md",
             "title": "EXAPOSTILARIA, TRIADIKA (HYMNS TO THE TRINITY), PROVENANCE MARGINALIA, AND REAR BINDING",
             "start_landmark": "^#\\s+.*?(?:EXAPOSTILARIA|TRIADIKA|SVITILNY)\\b"
           }

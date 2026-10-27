@@ -272,4 +272,4 @@ He Who adorned the supreme powers as Commander of the ranks, took up His abode w
 
 *Ode 3. Heirmos: Thou Who alone knowest:*[^203]
 
-Awake and arise, O my soul, and cry out: I have sinned unto Him Who alone knoweth thy secret things, and bring forth fruits of repentance, that the bountiful Lord may take compassion upon thee, a sinner, and deliver thee from the eternal fire!
+Awake and arise, O my soul, and cry out: I have sinned unto Him Who alone knows thy secret things, and bring forth fruits of repentance, that the bountiful Lord may take compassion upon thee, a sinner, and deliver thee from the eternal fire!

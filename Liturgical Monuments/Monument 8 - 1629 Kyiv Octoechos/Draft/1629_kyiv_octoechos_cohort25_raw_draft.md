@@ -110,7 +110,7 @@ Ever sailing over the deep of corruptible life amid the assaults of all manner o
 
 Possessing unsleeping prayer, O Pure One, lull to sleep our soul-destroying passions by thy sacred intercessions, granting divine and saving vigilance unto the fulfilling of God's will.
 
-*Ode 3. Heirmos: Thy Church rejoiceth in Thee...*
+*Ode 3. Heirmos: Thy Church rejoices in Thee...*
 
 The streams of Thy spiritual rivers, O Master, the disciples, have holily gladdened Thy city, O God.
 
@@ -160,7 +160,7 @@ My soul, embittered by venom through the bite of the adversary, heal with effica
 
 ...O Christ, by the prayers of Her who bore Thee, and of Thy sacred apostles.
 
-*Another [Canon to Saint Nicholas], Ode 4. Heirmos: He Who sitteth in glory...* [^249]
+*Another [Canon to Saint Nicholas], Ode 4. Heirmos: He Who sits in glory...* [^249]
 
 Thy most glorious life hath revealed thee everywhere as most glorious, glorified by divine wonders, an adornment of chief hierarchs and a boast unto all who honor thee with joyful songs, O Nicholas.
 
@@ -260,7 +260,7 @@ Choirs of angels, choirs of martyrs and apostles, ever pray Thee, O Word: in the
 
 *Another [Canon to Saint Nicholas], Ode 7. Heirmos: The youths...* [^252]
 
-O holy Nicholas, pray the one holy God Who resteth in the saints to sanctify us, and to send down upon us His rich mercies.
+O holy Nicholas, pray the one holy God Who rests in the saints to sanctify us, and to send down upon us His rich mercies.
 
 Righteous, upright, and meek, gentle and guileless, O glorious one: thou wast elevated to the height of the priesthood, O most glorious one, performing wonders and signs.
 

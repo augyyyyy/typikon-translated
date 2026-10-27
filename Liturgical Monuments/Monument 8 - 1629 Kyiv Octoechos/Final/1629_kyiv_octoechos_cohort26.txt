@@ -80,7 +80,7 @@ Crushed by torments and scorched by material fire, ye consumed the bitter materi
 
 *Triadikon:*
 
-With unswerving mindset and sober mind let us teach this unto Him Who abideth in the highest, seated together with the consubstantial Spirit: O indivisible Trinity, Who hast composed all things by Thy Word, enlightening all who in faith call upon Thee and ever cry aloud: Remember us in Thy kingdom!
+With unswerving mindset and sober mind let us teach this unto Him Who abides in the highest, seated together with the consubstantial Spirit: O indivisible Trinity, Who hast composed all things by Thy Word, enlightening all who in faith call upon Thee and ever cry aloud: Remember us in Thy kingdom!
 
 *Both now: Theotokion:*
 
