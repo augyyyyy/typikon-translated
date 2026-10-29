@@ -1,0 +1,118 @@
+{
+  "timestamp": "2026-10-27T23:20:47.300978+00:00",
+  "monument_id": "1907_lviv_pentecostarion",
+  "cohort": 15,
+  "target_file": "1907_lviv_pentecostarion_cohort15_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1907_lviv_pentecostarion_cohort15_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1907_lviv_pentecostarion_cohort15_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1907_lviv_pentecostarion_cohort15_raw_draft.md",
+      "footnotes_file": "1907_lviv_pentecostarion_cohort15_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 20,
+      "definition_markers_count": 20,
+      "text_markers": [
+        "[^264]",
+        "[^265]",
+        "[^266]",
+        "[^267]",
+        "[^268]",
+        "[^269]",
+        "[^270]",
+        "[^271]",
+        "[^272]",
+        "[^273]",
+        "[^274]",
+        "[^275]",
+        "[^276]",
+        "[^277]",
+        "[^278]",
+        "[^279]",
+        "[^280]",
+        "[^281]",
+        "[^282]",
+        "[^283]"
+      ],
+      "definition_markers": [
+        "[^264]",
+        "[^265]",
+        "[^266]",
+        "[^267]",
+        "[^268]",
+        "[^269]",
+        "[^270]",
+        "[^271]",
+        "[^272]",
+        "[^273]",
+        "[^274]",
+        "[^275]",
+        "[^276]",
+        "[^277]",
+        "[^278]",
+        "[^279]",
+        "[^280]",
+        "[^281]",
+        "[^282]",
+        "[^283]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1907_lviv_pentecostarion_cohort15_raw_draft.md",
+      "passed": true,
+      "paragraphs": 199,
+      "headings_count": 2,
+      "headings": [
+        {
+          "line": 3,
+          "level": 2,
+          "title": "ON HOLY AND GREAT FRIDAY, AT VESPERS[^264]",
+          "leaf": 141
+        },
+        {
+          "line": 151,
+          "level": 2,
+          "title": "ON HOLY AND GREAT FRIDAY, AT COMPLINE",
+          "leaf": 146
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 141,
+        "max_leaf": 150
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 12 - 1907 Lviv Pentecostarion\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [
+      143
+    ],
+    "total_queued_leaves": 8,
+    "unresolved_quarantines": 0
+  }
+}

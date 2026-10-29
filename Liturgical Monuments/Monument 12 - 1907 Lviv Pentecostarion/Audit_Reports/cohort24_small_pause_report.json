@@ -1,0 +1,134 @@
+{
+  "timestamp": "2026-10-28T01:34:53.068352+00:00",
+  "monument_id": "1907_lviv_pentecostarion",
+  "cohort": 24,
+  "target_file": "1907_lviv_pentecostarion_cohort24_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1907_lviv_pentecostarion_cohort24_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1907_lviv_pentecostarion_cohort24_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1907_lviv_pentecostarion_cohort24_raw_draft.md",
+      "footnotes_file": "1907_lviv_pentecostarion_cohort24_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 11,
+      "definition_markers_count": 11,
+      "text_markers": [
+        "[^431]",
+        "[^432]",
+        "[^433]",
+        "[^434]",
+        "[^435]",
+        "[^436]",
+        "[^437]",
+        "[^438]",
+        "[^439]",
+        "[^440]",
+        "[^441]"
+      ],
+      "definition_markers": [
+        "[^431]",
+        "[^432]",
+        "[^433]",
+        "[^434]",
+        "[^435]",
+        "[^436]",
+        "[^437]",
+        "[^438]",
+        "[^439]",
+        "[^440]",
+        "[^441]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1907_lviv_pentecostarion_cohort24_raw_draft.md",
+      "passed": true,
+      "paragraphs": 224,
+      "headings_count": 8,
+      "headings": [
+        {
+          "line": 29,
+          "level": 2,
+          "title": "On Tuesday of Bright Week, at Vespers[^433]",
+          "leaf": 231
+        },
+        {
+          "line": 87,
+          "level": 2,
+          "title": "On Wednesday of Bright Week, at Matins[^435]",
+          "leaf": 233
+        },
+        {
+          "line": 125,
+          "level": 2,
+          "title": "On Wednesday of Bright Week, at Vespers[^436]",
+          "leaf": 234
+        },
+        {
+          "line": 188,
+          "level": 2,
+          "title": "On Thursday of Bright Week, at Matins[^437]",
+          "leaf": 235
+        },
+        {
+          "line": 234,
+          "level": 2,
+          "title": "On Thursday of Bright Week, at Vespers[^438]",
+          "leaf": 236
+        },
+        {
+          "line": 302,
+          "level": 2,
+          "title": "On Friday of Bright Week, at Matins[^439]",
+          "leaf": 238
+        },
+        {
+          "line": 338,
+          "level": 2,
+          "title": "On Friday of Bright Week, at Vespers[^440]",
+          "leaf": 239
+        },
+        {
+          "line": 398,
+          "level": 2,
+          "title": "On Saturday of Bright Week, at Matins[^441]",
+          "leaf": 240
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 231,
+        "max_leaf": 240
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 12 - 1907 Lviv Pentecostarion\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "total_queued_leaves": 9,
+    "unresolved_quarantines": 0
+  }
+}

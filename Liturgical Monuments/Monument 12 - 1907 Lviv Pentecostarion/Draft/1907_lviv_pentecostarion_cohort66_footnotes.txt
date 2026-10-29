@@ -1,0 +1,47 @@
+[^2919]: Sessional Hymn: petition for deliverance from visible and invisible enemies through the intercession of the Theotokos.
+[^2920]: Psalm 82:17 [83:16]: "Fill their faces with dishonor; and they shall seek Thy name, O Lord" (Πλήρωσον τὰ πρόσωπα αὐτῶν ἀτιμίας / И҆спо́лни ли́ца и҆́хъ безче́стїѧ).
+[^2921]: Ode 4 Heirmos: Tone 6, based on Habakkuk 3:2.
+[^2922]: "the noble Joseph": Saint Joseph of Arimathea (ὁ εὐσχήμων Ἰωσήφ / бл҃гоѡбра́зный І҆ѡ́сифъ, Mark 15:43).
+[^2923]: Ode 5 Heirmos: Tone 6, based on Isaiah 26:9.
+[^2924]: Ode 6 Heirmos: Tone 6, based on Jonah 2:3-7.
+[^2925]: Kontakion, Tone 8: Attributed to Saint Romanos the Melodist (fl. 6th c.), from his famous Kontakion *On the Crucifixion* (*Mary at the Cross*).
+[^2926]: Ikos: Continuation of Saint Romanos the Melodist's dialogue between the Virgin Mary and Christ on the way to Golgotha, alluding to the first miracle at Cana of Galilee (John 2:1-11).
+[^2927]: The Synaxarion for the Feast of the Compassion of the Most Holy Theotokos (*Сострада́нїе Прест҃ы́ѧ Бцⷣы* / *Compassio Beatae Mariae Virginis*), detailing its liturgical history and theological foundation.
+[^2928]: The Provincial Council of Cologne (*Concilium Coloniense*), convoked in 1423 under Archbishop-Elector Dietrich II von Moers, instituted the Feast of the Sorrows/Compassion of Our Lady (*Commemoratio angustiae et doloris B. Mariae V.*) to counter the iconoclastic sacrileges of the Hussites.
+[^2929]: Pope Benedict XIV (Prospero Lorenzo Lambertini, 1675–1758; reigned 1740–1758), eminent canonist and liturgical scholar, author of the definitive treatise *De Festis Domini Nostri Jesu Christi et Beatae Mariae Virginis* (1748).
+[^2930]: The Hussite iconoclasts in Bohemia and the Rhineland in the early 15th century, who attacked devotion to sacred images, particularly representations of the suffering Mother of God at the Foot of the Cross.
+[^2931]: The Provincial Synod of Zamość (*Synodus Provincialis Zamoscena*), convoked in 1720 by Metropolitan Lev Kyshka of Kyiv and the Ruthenian Greek Catholic hierarchy, formally incorporated the Feast of the Compassion of the Theotokos into the liturgical calendar of the Ruthenian Church (Titulus III, *De festis*).
+[^2932]: The Tenth Friday after Pascha (*Десята п'ятниця по Пасці*), an ancient popular Ruthenian votive observance dating back to the medieval period, reverenced throughout Galicia, Volhynia, and Belarus. The Synod of Zamość purposefully consecrated this existing folk devotion to the liturgical feast of the Compassion of the Mother of God.
+[^2933]: *Hyperphileotheotokos* (Greek: Ὑπερφιλοθεοτόκος, "surpassing in love toward the Mother of God"): A scholarly title used in Western theological and liturgical literature to describe the Greek Patristic tradition's sublime Marian veneration.
+[^2934]: Luke 2:35: The prophecy of Saint Simeon at the Presentation: "Yea, a sword shall pierce through thine own soul also" (καὶ σοῦ δὲ αὐτῆς τὴν ψυχὴν διελεύσεται ῥομφαία / И҆ тебѣ́ же само́й дꙋ́шꙋ про́йдетъ ѻ҆рꙋ́жїе).
+[^2935]: Saint Augustine of Hippo (354–430), whose sermons on the Passion emphasize the spiritual martyrdom of Mary at the Cross (*passio cordis* / *martyrium spiritus*).
+[^2936]: Hebrews 12:2: "Looking unto Jesus the author and finisher of our faith" (ἀφορῶντες εἰς τὸν τῆς πίστεως ἀρχηγὸν καὶ τελειωτὴν Ἰησοῦν).
+[^2937]: Ode 7 Heirmos: Tone 6, based on the Prayer of the Three Holy Children in the Babylonian furnace (Daniel 3:49-50 [LXX]).
+[^2938]: Luke 1:31-33: The Annunciation of the Archangel Gabriel to the Virgin Mary.
+[^2939]: Ode 8 Heirmos: Tone 6, based on the three youths in the furnace (Daniel 3) and the sacrifice of Elijah consumed with water upon Mount Carmel (1 Kings 18:38 [LXX 3 Kings 18:38]).
+[^2940]: The printed Slavonic witness reads `волѧ́щꙋю`, an epigraphic error or misprint for `болѧ́щꙋю` ("grieving" / "in sorrow").
+[^2941]: Ode 9 Heirmos: Tone 6, canonical Byzantine Marian theophany heirmos.
+[^2942]: Melodic model heading: Tone 6, Podoben: "The Angelic Powers" (А҆́гг҃лскїѧ предъиди́те Си́лы). Canonical incipit matching `data/liturgical_primitives_registry.json` (`POD.T6.ANGELSKIYA_SILY`).
+[^2943]: John 19:26-27: Christ speaking from the Cross to His Mother and to Saint John the Evangelist.
+[^2944]: Saint John the Evangelist and Theologian, honored in Byzantine hymnography under the title of "the virgin disciple" (*дѣ́вственникъ* / παρθένος).
+[^2945]: Internal codicological cross-reference: Troparion "With the virgin disciple" (see fol. 638). Physical Leaf coordinate: `Physical Leaf p644 = Printed Folio 638 + 6`.
+[^2946]: The customary Marian Antiphons at the Divine Liturgy: Antiphon 1: Psalm 91:2 [92:1]; Antiphon 2: Psalm 92:1 [93:1]; Antiphon 3: Psalm 94:1 [95:1].
+[^2947]: Lamentations 1:2: "Weeping, she hath wept in the night, and her tears are on her cheeks" (Κλαίουσα ἔκλαυσεν ἐν νυκτί, καὶ τὰ δάκρυα αὐτῆς ἐπὶ τῶν σιαγόνων αὐτῆς / Пла́ча пла́касѧ въ нощѝ, и҆ сле́зы є҆ѧ̀ на лани́тꙋ є҆ѧ̀).
+[^2948]: Judith 13:18-20 (LXX Judith 13:18-20): The praise of Judith by Ozias prince of Judah after the slaying of Holofernes, interpreted typologically of the Mother of God crushing the serpent's head.
+[^2949]: Lamentations 1:14: "My strength hath failed within me; for the Lord hath delivered affliction into my hand."
+[^2950]: Lamentations 1:16: "He that comforted me is far from me, and he that relieved my soul."
+[^2951]: John 19:25-27: Liturgical Gospel pericope 61 of Saint John, read for feasts of the Holy Cross and Compassion of the Mother of God.
+[^2952]: Lamentations 1:12, 1:20: The liturgical Communion Hymn for the Compassion of the Theotokos.
+[^2953]: Codicological tailpiece: A fine decorative woodcut scroll engraving depicting the Greek letters Alpha and Omega with the Cross of Christ, marking the liturgical conclusion of the Office of the Compassion of the Most Holy Theotokos.
+[^2954]: Part VIII of the 1907 Lviv Paschal Pentecostarion begins here: Typikon Appendix containing the rubric combinations for the Feast of the Annunciation of the Most Holy Theotokos (March 25) coinciding with the movable days of the Paschaltide cycle (Markian Chapters / *Марковы главы*), followed by the 11 Matins Resurrection Gospel Pillars.
+[^2955]: Rubrics governing the occurrence of the Feast of the Annunciation (March 25) upon Lazarus Saturday (*Kyrio-Annunciation* sequence).
+[^2956]: Paschal Key K [20]: In the Paschal computer matrix (*Ключъ границъ* / *Clavis Paschalis*), the Slavonic numeral letter K denotes key 20, corresponding to Pascha occurring on April 2, and the Annunciation falling precisely on Lazarus Saturday (March 25).
+[^2957]: Galatians 3:27: The baptismal troparion sung at the Divine Liturgy in place of the Trisagion on Lazarus Saturday, Holy Saturday, Bright Week, and Pentecost.
+[^2958]: Rubrics governing the coincidence of the Annunciation (March 25) with Palm Sunday (The Entry of the Lord into Jerusalem; Paschal Key Л [21], Pascha on April 1).
+[^2959]: Rubrics governing the coincidence of the Annunciation (March 25) with Great and Holy Monday (Paschal Key М [22], Pascha on March 31).
+[^2960]: The continuous liturgical reading of the Four Gospels (Tetra-Gospel / *Четвероевангелие*) distributed across the Hours of Great Monday, Great Tuesday, and Great Wednesday.
+[^2961]: Psalm 131:13 [132:13]: The canonical Communion Hymn of the Annunciation: "For the Lord hath elected Sion; He hath chosen it for a habitation unto Himself."
+[^2962]: Typikon concession and pastoral adaptation for smaller monastic sketes or parish churches where the Divine Liturgy cannot be celebrated on Great Monday.
+[^2963]: Rubrics governing the coincidence of the Annunciation (March 25) with Great and Holy Tuesday (Paschal Key Н [23], Pascha on March 30).
+[^2964]: Rubrics governing the coincidence of the Annunciation (March 25) with Great and Holy Wednesday (Paschal Key Ѯ [24], Pascha on March 29).
+[^2965]: Rubrics governing the coincidence of the Annunciation (March 25) with Great and Holy Thursday (Paschal Key О [25], Pascha on March 28).

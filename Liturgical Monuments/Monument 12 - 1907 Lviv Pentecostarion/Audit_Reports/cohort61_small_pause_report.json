@@ -1,0 +1,156 @@
+{
+  "timestamp": "2026-10-28T13:30:44.186902+00:00",
+  "monument_id": "1907_lviv_pentecostarion",
+  "cohort": 61,
+  "target_file": "1907_lviv_pentecostarion_cohort61_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1907_lviv_pentecostarion_cohort61_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1907_lviv_pentecostarion_cohort61_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1907_lviv_pentecostarion_cohort61_raw_draft.md",
+      "footnotes_file": "1907_lviv_pentecostarion_cohort61_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 41,
+      "definition_markers_count": 41,
+      "text_markers": [
+        "[^2730]",
+        "[^2731]",
+        "[^2732]",
+        "[^2733]",
+        "[^2734]",
+        "[^2735]",
+        "[^2736]",
+        "[^2737]",
+        "[^2738]",
+        "[^2739]",
+        "[^2740]",
+        "[^2741]",
+        "[^2742]",
+        "[^2743]",
+        "[^2744]",
+        "[^2745]",
+        "[^2746]",
+        "[^2747]",
+        "[^2748]",
+        "[^2749]",
+        "[^2750]",
+        "[^2751]",
+        "[^2752]",
+        "[^2753]",
+        "[^2754]",
+        "[^2755]",
+        "[^2756]",
+        "[^2757]",
+        "[^2758]",
+        "[^2759]",
+        "[^2760]",
+        "[^2761]",
+        "[^2762]",
+        "[^2763]",
+        "[^2764]",
+        "[^2765]",
+        "[^2766]",
+        "[^2767]",
+        "[^2768]",
+        "[^2769]",
+        "[^2770]"
+      ],
+      "definition_markers": [
+        "[^2730]",
+        "[^2731]",
+        "[^2732]",
+        "[^2733]",
+        "[^2734]",
+        "[^2735]",
+        "[^2736]",
+        "[^2737]",
+        "[^2738]",
+        "[^2739]",
+        "[^2740]",
+        "[^2741]",
+        "[^2742]",
+        "[^2743]",
+        "[^2744]",
+        "[^2745]",
+        "[^2746]",
+        "[^2747]",
+        "[^2748]",
+        "[^2749]",
+        "[^2750]",
+        "[^2751]",
+        "[^2752]",
+        "[^2753]",
+        "[^2754]",
+        "[^2755]",
+        "[^2756]",
+        "[^2757]",
+        "[^2758]",
+        "[^2759]",
+        "[^2760]",
+        "[^2761]",
+        "[^2762]",
+        "[^2763]",
+        "[^2764]",
+        "[^2765]",
+        "[^2766]",
+        "[^2767]",
+        "[^2768]",
+        "[^2769]",
+        "[^2770]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1907_lviv_pentecostarion_cohort61_raw_draft.md",
+      "passed": true,
+      "paragraphs": 236,
+      "headings_count": 1,
+      "headings": [
+        {
+          "line": 42,
+          "level": 2,
+          "title": "SUNDAY OF ALL SAINTS: AT MATINS",
+          "leaf": 603
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 601,
+        "max_leaf": 610
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 12 - 1907 Lviv Pentecostarion\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [
+      603,
+      604,
+      605
+    ],
+    "total_queued_leaves": 221,
+    "unresolved_quarantines": 0
+  }
+}

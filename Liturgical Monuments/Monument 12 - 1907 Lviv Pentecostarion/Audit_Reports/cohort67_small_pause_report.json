@@ -1,0 +1,226 @@
+{
+  "timestamp": "2026-10-28T15:37:42.053273+00:00",
+  "monument_id": "1907_lviv_pentecostarion",
+  "cohort": 67,
+  "target_file": "1907_lviv_pentecostarion_cohort67_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1907_lviv_pentecostarion_cohort67_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1907_lviv_pentecostarion_cohort67_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1907_lviv_pentecostarion_cohort67_raw_draft.md",
+      "footnotes_file": "1907_lviv_pentecostarion_cohort67_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 34,
+      "definition_markers_count": 34,
+      "text_markers": [
+        "[^2966]",
+        "[^2967]",
+        "[^2968]",
+        "[^2969]",
+        "[^2970]",
+        "[^2971]",
+        "[^2972]",
+        "[^2973]",
+        "[^2974]",
+        "[^2975]",
+        "[^2976]",
+        "[^2977]",
+        "[^2978]",
+        "[^2979]",
+        "[^2980]",
+        "[^2981]",
+        "[^2982]",
+        "[^2983]",
+        "[^2984]",
+        "[^2985]",
+        "[^2986]",
+        "[^2987]",
+        "[^2988]",
+        "[^2989]",
+        "[^2990]",
+        "[^2991]",
+        "[^2992]",
+        "[^2993]",
+        "[^2994]",
+        "[^2995]",
+        "[^2996]",
+        "[^2997]",
+        "[^2998]",
+        "[^2999]"
+      ],
+      "definition_markers": [
+        "[^2966]",
+        "[^2967]",
+        "[^2968]",
+        "[^2969]",
+        "[^2970]",
+        "[^2971]",
+        "[^2972]",
+        "[^2973]",
+        "[^2974]",
+        "[^2975]",
+        "[^2976]",
+        "[^2977]",
+        "[^2978]",
+        "[^2979]",
+        "[^2980]",
+        "[^2981]",
+        "[^2982]",
+        "[^2983]",
+        "[^2984]",
+        "[^2985]",
+        "[^2986]",
+        "[^2987]",
+        "[^2988]",
+        "[^2989]",
+        "[^2990]",
+        "[^2991]",
+        "[^2992]",
+        "[^2993]",
+        "[^2994]",
+        "[^2995]",
+        "[^2996]",
+        "[^2997]",
+        "[^2998]",
+        "[^2999]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1907_lviv_pentecostarion_cohort67_raw_draft.md",
+      "passed": true,
+      "paragraphs": 150,
+      "headings_count": 17,
+      "headings": [
+        {
+          "line": 12,
+          "level": 2,
+          "title": "CONCERNING THE SAME FEAST, IF IT FALL ON GREAT FRIDAY",
+          "leaf": 661
+        },
+        {
+          "line": 24,
+          "level": 2,
+          "title": "CONCERNING THE SAME FEAST, IF IT FALL ON GREAT SATURDAY",
+          "leaf": 661
+        },
+        {
+          "line": 42,
+          "level": 1,
+          "title": "TYPIKON APPENDIX: PASCHALTIDE MENAION COMBINATIONS AND GOSPEL PILLARS[^2975]",
+          "leaf": 662
+        },
+        {
+          "line": 44,
+          "level": 2,
+          "title": "INSTRUCTIONS ON HOW TO SING IN THE PENTECOSTARION FOR THE ANNUNCIATION, AND TO GEORGE, AND TO THE OTHER SAINTS",
+          "leaf": 662
+        },
+        {
+          "line": 46,
+          "level": 2,
+          "title": "IF THE ANNUNCIATION FALLS ON HOLY PASCHA (KYRIOPASCHA)[^2976]",
+          "leaf": 662
+        },
+        {
+          "line": 62,
+          "level": 2,
+          "title": "CONCERNING THE SAME FEAST, IF THE ANNUNCIATION FALL ON BRIGHT MONDAY, TUESDAY, OR WEDNESDAY[^2980]",
+          "leaf": 663
+        },
+        {
+          "line": 73,
+          "level": 2,
+          "title": "INSTRUCTION CONCERNING THE HOLY GREAT-MARTYR GEORGE[^2982]",
+          "leaf": 664
+        },
+        {
+          "line": 82,
+          "level": 2,
+          "title": "CONCERNING THE MEMORY OF SAINT GEORGE, IF IT FALL ON THOMAS SUNDAY[^2984]",
+          "leaf": 664
+        },
+        {
+          "line": 93,
+          "level": 2,
+          "title": "IF THE MEMORY OF THE HOLY GREAT-MARTYR GEORGE FALL ON THE SUNDAY OF THE MYRRH-BEARING WOMEN, OR OF THE PARALYTIC, OR OF THE SAMARITAN WOMAN[^2986]",
+          "leaf": 665
+        },
+        {
+          "line": 105,
+          "level": 2,
+          "title": "IF THE PASCHAL KEY BE Z, THEN ON APRIL 23 FALLS THE HOLY GREAT-MARTYR GEORGE, ON THE WEDNESDAY OF MID-PENTECOST; BUT IF THE KEY BE (Z), THEN ON MAY 8, THE MEMORY OF THE HOLY APOSTLE JOHN THE THEOLOGIAN: THIS INSTRUCTION APPLIES TO BOTH, AND UNTO THEIR AFTERFEASTS[^2987]",
+          "leaf": 665
+        },
+        {
+          "line": 119,
+          "level": 2,
+          "title": "INSTRUCTION CONCERNING THE FEAST OF THE HOLY AND ALL-PRAISED APOSTLE AND EVANGELIST JOHN THE THEOLOGIAN[^2989]",
+          "leaf": 666
+        },
+        {
+          "line": 126,
+          "level": 2,
+          "title": "CONCERNING THE SAME FEAST, IF THE HOLY APOSTLE JOHN THE THEOLOGIAN FALL ON THE WEDNESDAY BEFORE ASCENSION, AT THE APODOSIS OF PASCHA[^2990]",
+          "leaf": 666
+        },
+        {
+          "line": 141,
+          "level": 2,
+          "title": "CONCERNING THE SAME FEAST, IT BEHOOVES TO KNOW: IF THE HOLY APOSTLE JOHN THE THEOLOGIAN FALL ON ASCENSION THURSDAY[^2991]",
+          "leaf": 667
+        },
+        {
+          "line": 155,
+          "level": 2,
+          "title": "CONCERNING THE SAME, IT BEHOOVES TO KNOW: IF THE HOLY APOSTLE JOHN THE THEOLOGIAN FALL ON THE SUNDAY OF THE 318 HOLY FATHERS[^2992]",
+          "leaf": 667
+        },
+        {
+          "line": 166,
+          "level": 2,
+          "title": "IF THE FINDING OF THE HEAD OF JOHN THE FORERUNNER FALL ON THE SUNDAY OF THE HOLY FATHERS, THE SEVENTH AFTER PASCHA[^2993]",
+          "leaf": 668
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 661,
+        "max_leaf": 670
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 12 - 1907 Lviv Pentecostarion\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [
+      661,
+      662,
+      663
+    ],
+    "total_queued_leaves": 233,
+    "unresolved_quarantines": 0
+  }
+}

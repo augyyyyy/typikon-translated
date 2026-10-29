@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-10-29T10:20:31.041588+00:00",
+  "monument_id": "1907_lviv_pentecostarion",
+  "cohort": 5,
+  "target_file": "1907_lviv_pentecostarion_cohort5.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1907_lviv_pentecostarion_cohort5.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1907_lviv_pentecostarion_cohort5.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1907_lviv_pentecostarion_cohort5.md",
+      "footnotes_file": "1907_lviv_pentecostarion_cohort5_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 16,
+      "definition_markers_count": 16,
+      "text_markers": [
+        "[^50]",
+        "[^51]",
+        "[^52]",
+        "[^53]",
+        "[^54]",
+        "[^55]",
+        "[^56]",
+        "[^57]",
+        "[^58]",
+        "[^59]",
+        "[^60]",
+        "[^61]",
+        "[^62]",
+        "[^63]",
+        "[^64]",
+        "[^65]"
+      ],
+      "definition_markers": [
+        "[^50]",
+        "[^51]",
+        "[^52]",
+        "[^53]",
+        "[^54]",
+        "[^55]",
+        "[^56]",
+        "[^57]",
+        "[^58]",
+        "[^59]",
+        "[^60]",
+        "[^61]",
+        "[^62]",
+        "[^63]",
+        "[^64]",
+        "[^65]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1907_lviv_pentecostarion_cohort5.md",
+      "passed": true,
+      "paragraphs": 247,
+      "headings_count": 2,
+      "headings": [
+        {
+          "line": 47,
+          "level": 2,
+          "title": "ON THE SUNDAY OF PALMS, AT COMPLINE",
+          "leaf": 42
+        },
+        {
+          "line": 181,
+          "level": 2,
+          "title": "ON GREAT AND HOLY MONDAY",
+          "leaf": 45
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 41,
+        "max_leaf": 50
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 12 - 1907 Lviv Pentecostarion\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "total_queued_leaves": 233,
+    "unresolved_quarantines": 0
+  }
+}

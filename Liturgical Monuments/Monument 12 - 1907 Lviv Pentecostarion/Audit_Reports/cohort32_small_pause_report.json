@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-10-28T03:58:49.691115+00:00",
+  "monument_id": "1907_lviv_pentecostarion",
+  "cohort": 32,
+  "target_file": "1907_lviv_pentecostarion_cohort32_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1907_lviv_pentecostarion_cohort32_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1907_lviv_pentecostarion_cohort32_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1907_lviv_pentecostarion_cohort32_raw_draft.md",
+      "footnotes_file": "1907_lviv_pentecostarion_cohort32_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 10,
+      "definition_markers_count": 10,
+      "text_markers": [
+        "[^538]",
+        "[^539]",
+        "[^540]",
+        "[^541]",
+        "[^542]",
+        "[^543]",
+        "[^544]",
+        "[^545]",
+        "[^546]",
+        "[^547]"
+      ],
+      "definition_markers": [
+        "[^538]",
+        "[^539]",
+        "[^540]",
+        "[^541]",
+        "[^542]",
+        "[^543]",
+        "[^544]",
+        "[^545]",
+        "[^546]",
+        "[^547]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1907_lviv_pentecostarion_cohort32_raw_draft.md",
+      "passed": true,
+      "paragraphs": 194,
+      "headings_count": 4,
+      "headings": [
+        {
+          "line": 89,
+          "level": 2,
+          "title": "ON TUESDAY OF THE MYRRH-BEARING WOMEN, AT VESPERS",
+          "leaf": 313
+        },
+        {
+          "line": 129,
+          "level": 2,
+          "title": "ON WEDNESDAY OF THE MYRRH-BEARING WOMEN, AT MATINS",
+          "leaf": 315
+        },
+        {
+          "line": 246,
+          "level": 2,
+          "title": "ON WEDNESDAY OF THE MYRRH-BEARING WOMEN, AT VESPERS",
+          "leaf": 318
+        },
+        {
+          "line": 286,
+          "level": 2,
+          "title": "ON THURSDAY OF THE MYRRH-BEARING WOMEN, AT MATINS",
+          "leaf": 320
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 311,
+        "max_leaf": 320
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 12 - 1907 Lviv Pentecostarion\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "total_queued_leaves": 9,
+    "unresolved_quarantines": 0
+  }
+}

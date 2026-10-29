@@ -1,0 +1,120 @@
+{
+  "timestamp": "2026-10-27T23:37:46.511015+00:00",
+  "monument_id": "1907_lviv_pentecostarion",
+  "cohort": 16,
+  "target_file": "1907_lviv_pentecostarion_cohort16_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1907_lviv_pentecostarion_cohort16_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1907_lviv_pentecostarion_cohort16_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1907_lviv_pentecostarion_cohort16_raw_draft.md",
+      "footnotes_file": "1907_lviv_pentecostarion_cohort16_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 25,
+      "definition_markers_count": 25,
+      "text_markers": [
+        "[^284]",
+        "[^285]",
+        "[^286]",
+        "[^287]",
+        "[^288]",
+        "[^289]",
+        "[^290]",
+        "[^291]",
+        "[^292]",
+        "[^293]",
+        "[^294]",
+        "[^295]",
+        "[^296]",
+        "[^297]",
+        "[^298]",
+        "[^299]",
+        "[^300]",
+        "[^301]",
+        "[^302]",
+        "[^303]",
+        "[^304]",
+        "[^305]",
+        "[^306]",
+        "[^307]",
+        "[^308]"
+      ],
+      "definition_markers": [
+        "[^284]",
+        "[^285]",
+        "[^286]",
+        "[^287]",
+        "[^288]",
+        "[^289]",
+        "[^290]",
+        "[^291]",
+        "[^292]",
+        "[^293]",
+        "[^294]",
+        "[^295]",
+        "[^296]",
+        "[^297]",
+        "[^298]",
+        "[^299]",
+        "[^300]",
+        "[^301]",
+        "[^302]",
+        "[^303]",
+        "[^304]",
+        "[^305]",
+        "[^306]",
+        "[^307]",
+        "[^308]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1907_lviv_pentecostarion_cohort16_raw_draft.md",
+      "passed": true,
+      "paragraphs": 308,
+      "headings_count": 1,
+      "headings": [
+        {
+          "line": 7,
+          "level": 2,
+          "title": "ON HOLY AND GREAT SATURDAY[^285]",
+          "leaf": 151
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 151,
+        "max_leaf": 160
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 12 - 1907 Lviv Pentecostarion\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "total_queued_leaves": 8,
+    "unresolved_quarantines": 0
+  }
+}

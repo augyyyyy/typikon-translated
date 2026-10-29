@@ -1,0 +1,106 @@
+{
+  "timestamp": "2026-10-28T02:18:11.450960+00:00",
+  "monument_id": "1907_lviv_pentecostarion",
+  "cohort": 26,
+  "target_file": "1907_lviv_pentecostarion_cohort26_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1907_lviv_pentecostarion_cohort26_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1907_lviv_pentecostarion_cohort26_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1907_lviv_pentecostarion_cohort26_raw_draft.md",
+      "footnotes_file": "1907_lviv_pentecostarion_cohort26_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 12,
+      "definition_markers_count": 12,
+      "text_markers": [
+        "[^452]",
+        "[^453]",
+        "[^454]",
+        "[^455]",
+        "[^456]",
+        "[^457]",
+        "[^458]",
+        "[^459]",
+        "[^460]",
+        "[^461]",
+        "[^462]",
+        "[^463]"
+      ],
+      "definition_markers": [
+        "[^452]",
+        "[^453]",
+        "[^454]",
+        "[^455]",
+        "[^456]",
+        "[^457]",
+        "[^458]",
+        "[^459]",
+        "[^460]",
+        "[^461]",
+        "[^462]",
+        "[^463]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1907_lviv_pentecostarion_cohort26_raw_draft.md",
+      "passed": true,
+      "paragraphs": 225,
+      "headings_count": 3,
+      "headings": [
+        {
+          "line": 107,
+          "level": 2,
+          "title": "ON THE SUNDAY OF ANTIPASCHA, AT VESPERS",
+          "leaf": 253
+        },
+        {
+          "line": 165,
+          "level": 2,
+          "title": "ON MONDAY OF THOMAS WEEK, AT MATINS",
+          "leaf": 255
+        },
+        {
+          "line": 339,
+          "level": 2,
+          "title": "ON MONDAY OF THOMAS WEEK, AT VESPERS",
+          "leaf": 260
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 251,
+        "max_leaf": 260
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 12 - 1907 Lviv Pentecostarion\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "total_queued_leaves": 9,
+    "unresolved_quarantines": 0
+  }
+}

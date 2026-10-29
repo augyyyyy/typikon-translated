@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-10-28T05:00:04.206575+00:00",
+  "monument_id": "1907_lviv_pentecostarion",
+  "cohort": 36,
+  "target_file": "1907_lviv_pentecostarion_cohort36.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1907_lviv_pentecostarion_cohort36.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1907_lviv_pentecostarion_cohort36.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1907_lviv_pentecostarion_cohort36.md",
+      "footnotes_file": "1907_lviv_pentecostarion_cohort36_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 22,
+      "definition_markers_count": 22,
+      "text_markers": [
+        "[^590]",
+        "[^591]",
+        "[^592]",
+        "[^593]",
+        "[^594]",
+        "[^595]",
+        "[^596]",
+        "[^597]",
+        "[^598]",
+        "[^599]",
+        "[^600]",
+        "[^601]",
+        "[^602]",
+        "[^603]",
+        "[^604]",
+        "[^605]",
+        "[^606]",
+        "[^607]",
+        "[^608]",
+        "[^609]",
+        "[^610]",
+        "[^611]"
+      ],
+      "definition_markers": [
+        "[^590]",
+        "[^591]",
+        "[^592]",
+        "[^593]",
+        "[^594]",
+        "[^595]",
+        "[^596]",
+        "[^597]",
+        "[^598]",
+        "[^599]",
+        "[^600]",
+        "[^601]",
+        "[^602]",
+        "[^603]",
+        "[^604]",
+        "[^605]",
+        "[^606]",
+        "[^607]",
+        "[^608]",
+        "[^609]",
+        "[^610]",
+        "[^611]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1907_lviv_pentecostarion_cohort36.md",
+      "passed": true,
+      "paragraphs": 212,
+      "headings_count": 3,
+      "headings": [
+        {
+          "line": 120,
+          "level": 2,
+          "title": "ON MONDAY OF THE PARALYTIC, AT VESPERS",
+          "leaf": 354
+        },
+        {
+          "line": 164,
+          "level": 2,
+          "title": "ON TUESDAY OF THE PARALYTIC, AT MATINS",
+          "leaf": 356
+        },
+        {
+          "line": 297,
+          "level": 2,
+          "title": "ON TUESDAY OF THE FOURTH WEEK AFTER PASCHA, AT VESPERS",
+          "leaf": 359
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 351,
+        "max_leaf": 360
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 12 - 1907 Lviv Pentecostarion\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "total_queued_leaves": 10,
+    "unresolved_quarantines": 0
+  }
+}

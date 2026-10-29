@@ -1,0 +1,108 @@
+[^2307]: The rubric *И҆ чте́нїе въ Бг҃осло́вѣ* appoints a patristic reading from the homilies of St. Gregory the Theologian (Nazianzen), specifically Oration 41 (*On Pentecost*), appointed for the festal Matins vigil.
+[^2308]: Melodic model heading: *Tone 8, Podoben: "That which was commanded secretly" (Повелѣ́нное та́йно)* matches Byzantine Greek *Τὸ προσταχθὲν μυστικῶς*.
+[^2309]: Sessional hymn after the Polyeleos praising Christ's Resurrection, Ascension, and the sending of the Holy Spirit upon the Apostles as the mystical plectrum upon a musical harp (*ꙗ҆́кѡ гꙋ́сль мꙋсікі́йскаѧ*).
+[^2310]: Second rubric appointing the continuation of the homily of St. Gregory the Theologian between the Sessional Hymn and the Anabathmoi.
+[^2311]: Songs of Ascents (Anabathmoi): The first antiphon of Tone 4 (*Ѿ ю҆́ности моеѧ̀* / *From my youth*), appointed universally on great feasts of the Master.
+[^2312]: Festal Matins Prokeimenon: Psalm 142:10 (LXX) (*Дх҃ъ тво́й бл҃гі́й наста́витъ мѧ̀ на зе́млю пра́вꙋ*).
+[^2313]: Prokeimenon verse: Psalm 142:1 (LXX).
+[^2314]: Pentecost Matins Gospel: John 20:19-23 (pericope 65), recounting Christ's appearance to the disciples in the Upper Room on the evening of the Resurrection, breathing on them and giving the Holy Spirit for the forgiveness of sins.
+[^2315]: Liturgical rubric: The resurrectional hymn *Воскресе́нїе Хрїсто́во ви́дѣвше* (*Having beheld the Resurrection of Christ*) is omitted on Pentecost despite it being a Sunday, because the feast commemorates the descent of the Holy Spirit rather than the weekly resurrectional cycle. Psalm 50 is read immediately.
+[^2316]: Post-Gospel idiomelon: Tone 6, *Царю́ небе́сный* (*O Heavenly King*), sung in place of the customary Sunday post-Gospel sticheron *Воскре́съ І҆исоу́съ ѿ гро́ба*.
+[^2317]: Canon performance rubric: The two festal canons are chanted with their heirmoi doubled (sung twice each) by the alternating right and left choirs, and their troparia repeated to make 12.
+[^2318]: Authorship and acrostic of the First Canon: Attributed to St. Cosmas the Melodist (Bishop of Maiuma, c. 675–c. 752); the Greek acrostic *Πεντηκοστὴν ἑορτάζομεν* forms an alphabet of praises for Pentecost.
+[^2319]: Canon 1, Ode 1 Heirmos: Tone 7, referencing the defeat of Pharaoh in the Red Sea (Exod. 14:27-28; 15:1-19).
+[^2320]: Canon 1, Ode 1, 1st troparion: Christ fulfilling the promise of sending the Comforter unto the Apostles.
+[^2321]: Canon 1, Ode 1, 2nd troparion: Fulfillment of the Old Testament prophecies regarding the outpouring of the Holy Spirit (cf. Joel 2:28).
+[^2322]: Canon 2 (Iambic) Acrostic: A four-line iambic trimeter dedicatory poem printed in both Greek and Church Slavonic diplomatic verse, dedicating the canon to the Word born of God and the Comforter.
+[^2323]: Authorship of the Second Canon: Attributed in the Slavic tradition to *Кѵ́ръ І҆ѡа́ннъ А҆ркалі́йскїй* (St. John of Damascus, c. 676–749), distinguished by its classical Greek iambic meter.
+[^2324]: Canon 2, Ode 1 Heirmos: Tone 4 iambic, referencing Moses veiled in the divine cloud on Mount Sinai receiving the Law (Exod. 19–20; 24:15-18).
+[^2325]: Canon 2, Ode 1, 1st troparion: Christ promising that He will pour out ungrudging grace upon His friends from the Father's throne.
+[^2326]: Canon 2, Ode 1, 2nd troparion: The descent of the Spirit in rushing wind and tongues of fire fulfilling the promise of Christ.
+[^2327]: Katavasia rubric: Both heirmoi of Ode 1 (Cosmas's *He Who broke battles* and John's *Covered by the divine darkness*) are sung by the choirs.
+[^2328]: Canon 1, Ode 3 Heirmos: Tone 7, Christ commanding the disciples to abide in Jerusalem until clothed with power from on high (Luke 24:49; Acts 1:4-8).
+[^2329]: Canon 1, Ode 3, 1st troparion: The contrast between the division of tongues at Babel (Gen. 11:7-9) and their divine unification at Pentecost.
+[^2330]: Canon 2, Ode 3 Heirmos: Tone 4 iambic, referencing the prayer of the Prophetess Hannah (1 Sam. 2:1-10; 1 Kgs. 2:1-10 LXX).
+[^2331]: Canon 2, Ode 3, 1st troparion: Incomprehensible wisdom of God making unlettered fishermen eloquent theologians.
+[^2332]: Canon 2, Ode 3, 2nd troparion: The Holy Spirit as Light proceeding from the Unbegotten Light of the Father, revealed through the Son.
+[^2333]: Sessional Hymn after Ode 3: Tone 8, *Повелѣ́нное та́йно*, praising the descent of the tongues of fire upon the Apostles in the Upper Room.
+[^2334]: Canon 1, Ode 4 Heirmos: Tone 7, citing Habakkuk 3:2 (LXX) regarding the saving coming of Christ.
+[^2335]: Canon 1, Ode 4, 1st troparion: The Holy Spirit speaking in the Prophets and now revealed to the Apostles.
+[^2336]: Canon 1, Ode 4, 2nd troparion: The division of tongues of fire as the sovereign manifestation of the Father's power.
+[^2337]: Canon 2, Ode 4 Heirmos: Tone 4 iambic, addressing Christ as King of kings and the proceeder from the Uncaused Father, sending the equal Spirit.
+[^2338]: Canon 2, Ode 4, 1st troparion: The bath of regeneration flowing from Christ's pierced side (John 19:34; Titus 3:5), sealed with the warmth of the Spirit.
+[^2339]: Canon 2, Ode 4, 2nd troparion: Worship of the Three Persons in one Essence at the outpouring of the Spirit.
+[^2340]: Canon 2, Ode 4, 3rd troparion: Ministers of the Trinity illuminated with divine fire unto salvation.
+[^2341]: Canon 1, Ode 5 Heirmos: Tone 7, citing Isaiah 26:18-19 (LXX) regarding the conception of the spirit of salvation.
+[^2342]: Canon 1, Ode 5, 1st troparion: The Good Spirit of wisdom proceeding from the Father and revealed through the Son.
+[^2343]: Canon 2, Ode 5 Heirmos: Tone 4 iambic, referencing the fire-inspired dew of the Spirit and the law going forth from Zion (Isa. 2:3).
+[^2344]: Canon 2, Ode 5, 1st troparion: The Spirit proceeding unmastered from the Father and sealing the teaching of the Savior.
+[^2345]: Canon 2, Ode 5, 2nd troparion: The Word preparing the minds of the Apostles as a clean dwelling for the Light of the Spirit.
+[^2346]: Canon 1, Ode 6 Heirmos: Tone 7, the typological prayer of Jonah from the belly of the sea monster (Jonah 2:1-10).
+[^2347]: Canon 1, Ode 6, 1st troparion: Outpouring of the Spirit upon all flesh (Joel 2:28; Acts 2:17).
+[^2348]: Canon 2, Ode 6 Heirmos: Tone 4 iambic, Christ rising from the Virgin and snatching fallen Adam from corruption as Jonah was snatched from the sea beast.
+[^2349]: Canon 2, Ode 6, 1st troparion: Supplication for the Holy Spirit to burn up the defilements of the adversary and cleanse the mind.
+[^2350]: Canon 2, Ode 6, 2nd troparion: The Holy Spirit confirming the Apostles in Zion with fire-breathed inspiration.
+[^2351]: Festal Kontakion: Tone 8, *Є҆гда̀ снизше́дъ ꙗ҆зы́ки слїѧ̀* (*When the Most High came down and confused the tongues*), contrasting the Tower of Babel (Gen. 11) with the unity of Pentecost (Acts 2).
+[^2352]: Festal Ikos: Prayer unto Jesus for swift consolation and the indwelling presence of the All-Holy Spirit.
+[^2353]: Synaxarion of Holy Pentecost: The official liturgical commentary on the historical and theological meaning of the fiftieth day.
+[^2354]: Synaxarion commentary on the Jewish origins of the Feast of Weeks (Shavuot, Exod. 23:16; 34:22; Lev. 23:15-21; Deut. 16:9-12).
+[^2355]: Synaxarion exposition of the three great pilgrimage feasts of Israel: Passover (Pesach), Pentecost (Shavuot), and the Feast of Booths / Tabernacles (Sukkot / Scenopegia, Lev. 23:33-43; Deut. 16:13-16).
+[^2356]: Synaxarion exposition of the mystical significance of the number seven and the Jubilee year (*Їѡвнле́онъ*, Lev. 25:8-55) releasing debts and slaves every 50th year.
+[^2357]: Typological interpretation of Scenopegia and the Feast of Tabernacles as an image of the general Resurrection and the reconstructed human tabernacle.
+[^2358]: Patristic decision to dedicate the Monday of the Holy Spirit to the Third Person of the Trinity specifically, while Sunday honors the descent of the Spirit in the economy of the Trinity.
+[^2359]: Canon 1, Ode 7 Heirmos: Tone 7, citing Daniel 3:26-56 (the Three Holy Youths in the Babylonian furnace).
+[^2360]: Canon 1, Ode 7, 1st troparion: The mocking accusation of drunkenness (Acts 2:13) refuted by the preaching of the Trinity.
+[^2361]: Canon 1, Ode 7, 2nd troparion: Orthodox theological confession of the Father, Word, and Spirit as one undivided dominion.
+[^2362]: Canon 2, Ode 7 Heirmos: Tone 4 iambic, the music of Nebuchadnezzar's orchestra (Dan. 3:5-7) contrasted with the harmonious praise of the Holy Trinity.
+[^2363]: Canon 2, Ode 7, 1st troparion: Refutation of the foolish ones who mistook apostolic ecstasy for wine.
+[^2364]: Canon 2, Ode 7, 2nd troparion: The prophecy of Joel 2:28 (*I will pour out of My Spirit*) fulfilled at Pentecost.
+[^2365]: Canon 2, Ode 7, 3rd troparion: The threefold grace revealing the Three Hypostases on the Lord's Day.
+[^2366]: Canon 1, Ode 8 Heirmos: Tone 7, the unburned bush of Sinai (Exod. 3:2) and the three youths in the furnace (Dan. 3:57).
+[^2367]: Canon 1, Ode 8, 1st troparion: The rushing blast from on high inspiring the fishermen to proclaim the wonders of God.
+[^2368]: Canon 1, Ode 8, 2nd troparion: Spiritual ascent unto Mount Zion and the city of the Living God (Heb. 12:22).
+[^2369]: Canon 2, Ode 8 Heirmos: Tone 4 iambic, the Threefold image of the Godhead bedewing the flame of the furnace.
+[^2370]: Canon 2, Ode 8, 1st troparion: The Holy Spirit bringing to remembrance all the saving words of Christ (John 14:26).
+[^2371]: Canon 2, Ode 8, 2nd troparion: Christ as the self-shining Light filling the Apostles with the bountiful Spirit.
+[^2372]: Canon 2, Ode 8, 3rd troparion: The Spirit proceeding from the Father's bosom and sharing the eternal throne with the Incarnate Word.
+[^2373]: Festal Refrain of Ode 9: *Велича́й дꙋшѐ моѧ̀, ѿ Ѻ҆ц҃а̀ и҆ Сн҃а и҆сходѧ́щаго ст҃а́го Дх҃а* (*Magnify, O my soul, the Holy Spirit, Who proceeds from the Father and the Son*). Note the historical Ruthenian / Uniate recension reading incorporating the *Filioque* clause, standard in the 1907 Lviv Stauropegion edition pursuant to the Union of Brest and Roman liturgical confirmations for the Greek Catholic Church.
+[^2374]: Canon 1, Ode 9 Heirmos: Tone 7, hymn of praise to the Virgin Theotokos who brought forth the Word without corruption.
+[^2375]: Canon 1, Ode 9, 1st troparion: The ascent of Elijah in the fiery chariot (2 Kgs. 2:11; 4 Kgs. 2:11 LXX) prefiguring the descent of the fiery breath upon the Apostles.
+[^2376]: Canon 1, Ode 9, 2nd troparion: The miracle of Pentecost where people of diverse nations understood the one apostolic preaching (Acts 2:6-11).
+[^2377]: Second Festal Refrain of Ode 9: *Велича́й дꙋшѐ моѧ̀, въ трїе́хъ ли́цѣхъ сꙋ́щее є҆ди́но Бж҃ество̀* (*Magnify, O my soul, the One Godhead existing in three Persons*).
+[^2378]: Canon 2, Ode 9 Heirmos: Tone 4 iambic, *Ра́дꙋйсѧ Цр҃и́це* (*Rejoice, O Queen*), praising the Mother of God whose childbearing surpasses all human eloquence.
+[^2379]: Canon 2, Ode 9, 1st troparion: The Virgin Mary bearing the healing Word Who now, seated at the right hand of the Father, sends the grace of the Spirit.
+[^2380]: Canon 2, Ode 9, 2nd troparion: The transformation of believers through the outbreathing of God-flowing grace.
+[^2381]: Katavasia rubric: Chanting both Heirmoi of Ode 9 together.
+[^2382]: Melodic model heading: *Tone 3, Podoben: "Having adorned the heavens with stars" (Не́бо ѕвѣзда́ми)*.
+[^2383]: Festal Exapostilarion 1: Citing the Holy Spirit proceeding from the Father and sent through the Son to the unlettered disciples.
+[^2384]: Festal Exapostilarion 2: Trinitarian hymn proclaiming the Father, Word, and Spirit as uncreated Light.
+[^2385]: Praises (Lauds) 1st Idiomelon: Tone 2, St. Luke's account of the descent of the Spirit in Acts 2:1-4.
+[^2386]: Praises 2nd Idiomelon: Tone 2, dogmatic confession of the eternal, uncreated nature of the Holy Spirit, co-ranked with the Father and the Son.
+[^2387]: Praises 3rd Idiomelon: Tone 2, the Holy Spirit as Light, Life, and Noetic Fountain, crowning prophets, apostles, and martyrs.
+[^2388]: Post-Praises Doxasticon: Tone 6, the foundational invocation of the Holy Spirit, *Царю́ небе́сный* (*O Heavenly King*).
+[^2389]: Festal Matins Dismissal: The proper dismissal formula for Pentecost mentioning the sending of the Holy Spirit in the form of fiery tongues.
+[^2390]: First Hour rubric: Appointing the troparion and kontakion of Pentecost, followed by the final dismissal.
+[^2391]: Divine Liturgy Typikon rubric: The festal antiphons of Pentecost replace the customary daily or Sunday antiphons.
+[^2392]: Liturgy Antiphon 1: Psalm 18:2, 3, 5 (LXX) with the refrain *Through the intercessions of the Theotokos...*
+[^2393]: Liturgy Antiphon 2: Psalm 19:2, 3, 5 (LXX) with the proper festal refrain *Save us, O Good Comforter, who sing unto Thee: Alleluia*.
+[^2394]: Liturgy Antiphon 2 conclusion: Chanting the Christological hymn *Only-Begotten Son and Immortal Word of God* (*Е҆диноро́дный Сы́не*).
+[^2395]: Liturgy Antiphon 3: Psalm 20:2, 3, 4 (LXX) with the festal troparion *Blessed art Thou, O Christ our God...*
+[^2396]: Festal Troparion of Pentecost: Tone 8, *Бл҃гослове́нъ є҆сѝ Хрⷭ҇тѐ Бж҃е на́шъ* (*Blessed art Thou, O Christ our God, Who hast revealed the fishermen to be all-wise...*).
+[^2397]: Liturgy Little Entrance Verse (Introit / Eisodikon): Psalm 20:14 (LXX) (*Вознеси́сѧ Гдⷭ҇и си́лою твое́ю*).
+[^2398]: Liturgy Festal Kontakion: Tone 8, *Є҆гда̀ снизше́дъ ꙗ҆зы́ки слїѧ̀*.
+[^2399]: Baptismal Hymn instead of Trisagion: Galatians 3:27 (*Є҆ли́цы во Хрⷭ҇та̀ крⷭ҇ти́стесѧ*), sung on great feasts that were historically baptismal synaxes.
+[^2400]: Liturgy Prokeimenon: Tone 8, Psalm 18:5, 2 (LXX), sung daily through the Apodosis of Pentecost.
+[^2401]: Liturgy Epistle: Acts 2:1-11 (pericope 3), St. Peter and the Apostles at Pentecost.
+[^2402]: Liturgy Alleluia: Tone 1, Psalm 32:6, 13 (LXX).
+[^2403]: Liturgy Gospel: John 7:37-52; 8:12 (pericope 27), Christ preaching rivers of living water flowing from the believer's belly on the last great day of the Feast of Tabernacles.
+[^2404]: Liturgy Megalynarion replacement: The Heirmos of Ode 9 of the Iambic Canon (*Ра́дꙋйсѧ Цр҃и́це* / *Rejoice, O Queen*) is sung in place of *It is truly meet* (*Досто́йно є҆́сть*) until the Apodosis.
+[^2405]: Liturgy Communion Verse (Koinonikon): Psalm 142:10 (LXX) (*Дх҃ъ тво́й бл҃гі́й наста́витъ мѧ̀ на зе́млю пра́вꙋ*).
+[^2406]: Liturgy conclusion rubric: The Ninth Hour is read after the dismissal of the Liturgy, preceding the immediate celebration of Pentecost Kneeling Vespers.
+[^2407]: Sunday of Pentecost Kneeling Vespers (*Вечерня с коленопреклонением*): Celebrated immediately after the Divine Liturgy or in the afternoon, during which the Church kneels for the first time since Pascha and offers the seven solemn Kneeling Prayers.
+[^2408]: Rubric on the fast ringing of bells: *Зна́менаетъ ско́рѡ* indicates a rapid peal of the church bells to call the faithful to the service of the Kneeling Prayers.
+[^2409]: Vespers Opening: The priest intones the initial blessing, the reader chants *O Heavenly King* (solemnly returning to the beginning of services), and the 103rd Psalm (LXX) is read.
+[^2410]: Great Litany (*Вели́каѧ є҆кте́нїа*): Intoned with special Pentecostal petitions added after the customary supplications.
+[^2411]: Hierarchical commemoration: Standard Ruthenian formulary commemorating the Metropolitan Archbishop of Lviv (Andrey Sheptytsky, 1865–1944) and the local Eparchial Bishop (e.g. Hryhoriy Khomyshyn of Stanyslaviv or Kostiantyn Chekhovych of Peremyshl).
+[^2412]: State petition: Diplomatic commemoration for Emperor Franz Joseph I of Austria-Hungary (*Бл҃говѣ́рный І҆мпера́торъ*), King of Galicia and Lodomeria, together with his Imperial Court (*Пала́та*) and the Armed Forces (*Во́и*).
+[^2413]: Special Pentecost Vespers Petitions: A series of twelve unique petitions invoking the grace and illumination of the Holy Spirit, preparation for kneeling, deliverance from demonic bonds, and divine sanctification.
+[^2414]: Commemoration of the Theotokos concluding the petitions of the Great Litany before the priest's exclamation.
