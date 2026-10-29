@@ -1,0 +1,117 @@
+[^10136]: Printed folio 919 (Physical Leaf p921). Matins, Ode 9, first canon (Penitential), Martyrion 2.
+[^10137]: Ode 9, first canon, Theotokion.
+[^10138]: Ode 9, second canon (Forerunner), Heirmos. Reference to the Burning Bush on Sinai (Exodus 3:2).
+[^10139]: Ode 9, second canon, Troparion 1.
+[^10140]: Ode 9, second canon, Troparion 2.
+[^10141]: Ode 9, second canon, Troparion 3.
+[^10142]: Ode 9, second canon, Theotokion.
+[^10143]: Rubric after Ode 9: "Достойно есть: ектенїа, Свѣтиленъ и ѱалмы обычныя." (It is truly meet, litany, Exapostilarion, and the usual psalms [Lauds/Praises]).
+[^10144]: At the Aposticha, Penitential Stichera, Tone 8, Stichos 1.
+[^10145]: Stichos: Psalm 89:14, 16–17 (LXX).
+[^10146]: Printed folio 920 (Physical Leaf p922). Stichos 2: Allusion to the penitent sinful woman (Luke 7:37–50).
+[^10147]: Stichos: Psalm 89:17 (LXX).
+[^10148]: Martyrion at the Aposticha.
+[^10149]: Glory: both now: Theotokion at the Aposticha.
+[^10150]: Rubric: "Благо есть: Трисвятое и прочее обычно." (Psalm 91:2 LXX: "It is good to give praise unto the Lord...").
+[^10151]: The Beatitudes (Makarismoi) for Tuesday, Tone 8.
+[^10152]: The Beatitudes, Troparion 1.
+[^10153]: The Beatitudes, Troparion 2.
+[^10154]: The Beatitudes, Martyrion. The 1895 Lviv edition erroneously prefixes this hymn with the cinnabar rubric "Бг҃оро́диченъ." (Theotokion), though the text is clearly a martyr-troparion addressed to the Holy Passion-Bearers ("Кровми ва́шими ст҃і́и Страстоте́рпцы..."). Corrected according to the received Octoechos tradition.
+[^10155]: The Beatitudes, Glory: Trinity hymn invoking the Forerunner's prayers.
+[^10156]: The Beatitudes, Both now: Theotokion.
+[^10157]: Printed folio 921 (Physical Leaf p923). Opening of Wednesday liturgical cycle, dedicated to the Precious and Life-Giving Cross and the Co-suffering of the Mother of God.
+[^10158]: Rubric: On Tuesday evening (at Vespers).
+[^10159]: Stichera of the Cross at "Lord, I have cried". Melodic model (Podoben): "Martyrs of the Lord" (Мꙋ́ченици Гдⷭ҇ни).
+[^10160]: Stichera of the Cross, Sticheron 1. John 19:34.
+[^10161]: Stichera of the Cross, Sticheron 2.
+[^10162]: Stichera of the Cross, Sticheron 3. Typological imagery of the Virgin as the unblemished Heifer (cf. Numbers 19:2) mourning Christ the Young Bull.
+[^10163]: Other Stichera, to the Most Holy Theotokos, Sticheron 1.
+[^10164]: Other Stichera to the Theotokos, Sticheron 2.
+[^10165]: Other Stichera to the Theotokos, Sticheron 3.
+[^10166]: Glory: both now: Stavrotheotokion. Text broken across folio turn; concluded on p924.
+[^10167]: Printed folio 922 (Physical Leaf p924). Conclusion of Stavrotheotokion from p923.
+[^10168]: Rubric: "Свѣ́те ти́хїй: и҆ про́чее." (Phos Hilaron, Evening Prokeimenon, and standard prayers).
+[^10169]: At the Aposticha, Stichera of the Cross, Tone 8, Sticheron 1.
+[^10170]: Stichos: Psalm 122:1–2 (LXX).
+[^10171]: Stichera of the Cross, Sticheron 2.
+[^10172]: Stichos: Psalm 122:3–4 (LXX).
+[^10173]: Martyrion at the Aposticha.
+[^10174]: Glory: both now: Stavrotheotokion. Melodic model (Podoben): "O Lord, though Thou didst stand before the tribunal" (Гдⷭ҇и, а҆́ще и҆ на сꙋди́щи).
+[^10175]: Stavrotheotokion at the Aposticha. Luke 23:44–45.
+[^10176]: Dismissal rubric for Vespers: "Ны́нѣ ѿпꙋща́еши: Трисвѧто́е. По Ѻ҆́тче на́шъ: тропа́рь, є҆ктенїа̀ и҆ ѿпꙋ́стъ."
+[^10177]: On Tuesday at Compline: Supplicatory Canon to the Most Holy Theotokos (often attributed to Theosteriktos the Monk / St. Theodore the Studite). Tone 8, Ode 1, Heirmos.
+[^10178]: Ode 1, Heirmos. Reference to Israel crossing the Red Sea (Exodus 14).
+[^10179]: Compline Canon, Ode 1, Troparion 1.
+[^10180]: Compline Canon, Ode 1, Troparion 2.
+[^10181]: Compline Canon, Ode 1, Glory.
+[^10182]: Compline Canon, Ode 1, Both now. Text broken across folio turn; concluded on p925.
+[^10183]: Printed folio 923 (Physical Leaf p925). Conclusion of Both now from p924.
+[^10184]: Compline Canon, Ode 3, Heirmos.
+[^10185]: Compline Canon, Ode 3, Troparion 1.
+[^10186]: Compline Canon, Ode 3, Troparion 2.
+[^10187]: Compline Canon, Ode 3, Glory.
+[^10188]: Compline Canon, Ode 3, Both now.
+[^10189]: Compline Canon, Ode 4, Heirmos. Habakkuk 3:2 (LXX).
+[^10190]: Compline Canon, Ode 4, Troparion 1.
+[^10191]: Compline Canon, Ode 4, Troparion 2.
+[^10192]: Compline Canon, Ode 4, Glory.
+[^10193]: Compline Canon, Ode 4, Both now.
+[^10194]: Compline Canon, Ode 5, Heirmos. Isaiah 26:9, 12 (LXX).
+[^10195]: Compline Canon, Ode 5, Troparion 1.
+[^10196]: Compline Canon, Ode 5, Troparion 2. Text broken across folio turn; concluded on p926.
+[^10197]: Printed folio 924 (Physical Leaf p926). Conclusion of Troparion 2 from p925. Philippians 4:7.
+[^10198]: Compline Canon, Ode 5, Glory.
+[^10199]: Compline Canon, Ode 5, Both now.
+[^10200]: Compline Canon, Ode 6, Heirmos. Jonah 2:1–2, 7 (LXX).
+[^10201]: Compline Canon, Ode 6, Troparion 1.
+[^10202]: Compline Canon, Ode 6, Troparion 2.
+[^10203]: Compline Canon, Ode 6, Glory.
+[^10204]: Compline Canon, Ode 6, Both now.
+[^10205]: Sessional Hymn (Sedalen) at Compline.
+[^10206]: Compline Canon, Ode 7, Heirmos. Daniel 3:26ff (LXX).
+[^10207]: Compline Canon, Ode 7, Troparion 1.
+[^10208]: Printed folio 925 (Physical Leaf p927). Compline Canon, Ode 7, Troparion 2.
+[^10209]: Compline Canon, Ode 7, Glory.
+[^10210]: Compline Canon, Ode 7, Both now.
+[^10211]: Compline Canon, Ode 8, Heirmos. Daniel 3:57ff (LXX).
+[^10212]: Compline Canon, Ode 8, Troparion 1.
+[^10213]: Compline Canon, Ode 8, Troparion 2.
+[^10214]: Compline Canon, Ode 8, Glory.
+[^10215]: Compline Canon, Ode 8, Both now.
+[^10216]: Compline Canon, Ode 9, Heirmos. Magnificat allusion (Luke 1:48).
+[^10217]: Compline Canon, Ode 9, Troparion 1. Revelation 21:4.
+[^10218]: Compline Canon, Ode 9, Troparion 2.
+[^10219]: Compline Canon, Ode 9, Glory.
+[^10220]: Compline Canon, Ode 9, Both now.
+[^10221]: Compline conclusion rubric: "Досто́йно є҆́сть: Трисвѧто́е. По Ѻ҆́тче на́шъ: тропа́рь и҆ про́чее ѻ҆бы́чно."
+[^10222]: Printed folio 926 (Physical Leaf p928). Wednesday Matins, after the first stichology of the Psalter, Sessional Hymns of the Cross, Tone 8.
+[^10223]: Sessional Hymn 1: Dialogue of the Good Thief (Luke 23:40–42).
+[^10224]: Stichos: Psalm 98:5 (LXX).
+[^10225]: Sessional Hymn 2: The Cross as the balance of righteousness between the two thieves.
+[^10226]: Glory: both now: Stavrotheotokion. Melodic model (Podoben): "Guiding unto wisdom" (Премꙋ́дрости).
+[^10227]: Stavrotheotokion. Text broken across folio turn; concluded on p929.
+[^10228]: After the second stichology, Sessional Hymns of the Cross, Tone 8.
+[^10229]: Sessional Hymn 1: Contrast between the tree of death in Eden and the Tree of life on Calvary.
+[^10230]: Stichos: Psalm 73:12 (LXX).
+[^10231]: Sessional Hymn 2: The Tree of the Cross planted upon the earth.
+[^10232]: Stichos: Psalm 67:36 (LXX). Martyrion. Text broken across folio turn; concluded on p929.
+[^10233]: Printed folio 927 (Physical Leaf p929). Conclusion of Martyrion from p928.
+[^10234]: Glory: both now: Stavrotheotokion.
+[^10235]: After the third stichology, Sessional Hymns, Tone 8. Melodic model (Podoben): "That which was commanded mystically" (Повелѣ́нное та́йнѡ).
+[^10236]: Sessional Hymn 1: Cosmic signs at the Crucifixion (Matthew 27:45, 51–52).
+[^10237]: Sessional Hymn 2.
+[^10238]: Glory: both now: Stavrotheotokion.
+[^10239]: Canon to the Precious and Life-Creating Cross, by Joseph the Hymnographer. Acrostic in the Greek original: Προσπαγέντι τῷ ξύλῳ Θεῷ χάρις ("Thanksgiving unto God nailed to the Tree").
+[^10240]: Tone 8, Ode 1, Heirmos.
+[^10241]: Ode 1, Heirmos. Moses dividing the Red Sea crosswise (Exodus 14:16, 21).
+[^10242]: Canon of the Cross, Ode 1, Troparion 1. Text broken across folio turn; concluded on p930.
+[^10243]: Printed folio 928 (Physical Leaf p930). Conclusion of Troparion 1 from p929.
+[^10244]: Canon of the Cross, Ode 1, Troparion 2. Christ as the True and Mystical Vine (John 15:1).
+[^10245]: Canon of the Cross, Ode 1, Martyrion 1.
+[^10246]: Canon of the Cross, Ode 1, Martyrion 2.
+[^10247]: Canon of the Cross, Ode 1, Theotokion (Stavrotheotokion).
+[^10248]: Second Canon, to the Most Holy Theotokos, Tone 8. Chanted to the same Heirmos ("Колесницегони́телѧ фараѡ́на...").
+[^10249]: Canon to the Theotokos, Ode 1, Troparion 1. Note: source text reads "всесто́мꙋ" with titlo over "ст", representing "всесвѧто́мꙋ" (all-holy).
+[^10250]: Canon to the Theotokos, Ode 1, Troparion 2.
+[^10251]: Canon to the Theotokos, Ode 1, Troparion 3.
+[^10252]: Canon to the Theotokos, Ode 1, Theotokion. Allusion to Elizabeth's greeting (Luke 1:42).

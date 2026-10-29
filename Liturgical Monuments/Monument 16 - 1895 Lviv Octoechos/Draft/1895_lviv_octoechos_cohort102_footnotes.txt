@@ -1,0 +1,63 @@
+[^11118]: Theotokion concluding the Daily Triadica of Tone 5 (sung when Alleluia or Lent replaces "God is the Lord" at Matins).
+[^11119]: In the 1895 Lviv Stauropegion edition, this heading is printed as Tone 5 (Гла́съ є҃), though the preceding set of Triadica on leaf p1010 was also labeled Tone 5 (having mislabeled the Tone 3 Triadica as Tone 4, and the Tone 4 Triadica as Tone 5). These hymns represent the standard Daily Triadica of Tone 5 ("Пѣ́нїю вре́ма, и҆ моли́твѣ ча́съ").
+[^11120]: First Triadicon of Tone 5, with standard choral refrain.
+[^11121]: Second Triadicon of Tone 5 (at Glory).
+[^11122]: Third Triadicon of Tone 5 (at Both now).
+[^11123]: First Triadicon of Tone 6.
+[^11124]: Second Triadicon of Tone 6 (at Glory).
+[^11125]: Third Triadicon of Tone 6 (at Both now).
+[^11126]: First Triadicon of Tone 7, continuing onto physical leaf p1012.
+[^11127]: Conclusion of the first Triadicon of Tone 7 from physical leaf p1011.
+[^11128]: Second Triadicon of Tone 7 (at Glory).
+[^11129]: Third Triadicon of Tone 7 (at Both now).
+[^11130]: First Triadicon of Tone 8.
+[^11131]: Second Triadicon of Tone 8 (at Glory).
+[^11132]: Third Triadicon of Tone 8 (at Both now).
+[^11133]: Slavonic Свѣти́лни дневні́и (Greek Φωταγωγικά / Photagogica / Exapostilaria of the week).
+[^11134]: Rubric specifying that these Lenten weekday photagogica are sung thrice each during the Great Fast or whenever Alleluia is sung at Matins in place of "God is the Lord."
+[^11135]: Daily Photagogicon of Tone 1.
+[^11136]: Rubrical instruction indicating where the weekday intercessory refrain is inserted at the dash mark (—), detailed on leaf p1013.
+[^11137]: Monday insertion for the bodiless powers: "By the intercession, O Lord, of Thy Bodiless Powers."
+[^11138]: Tuesday insertion for the Forerunner: "Through the prayers, O Lord, of Thy Forerunner."
+[^11139]: Wednesday and Friday insertion for the Cross: "By the power, O Lord, of Thy Cross."
+[^11140]: Thursday insertion for the Apostles and Saint Nicholas: "Through the prayers, O Lord, of Thine Apostles and the Hierarch Nicholas."
+[^11141]: Saturday rubric: the photagogicon is sung twice, first inserting the intercession of All Saints, then of the Theotokos.
+[^11142]: Daily Photagogicon of Tone 2.
+[^11143]: Daily Photagogicon of Tone 3.
+[^11144]: Daily Photagogicon of Tone 4.
+[^11145]: Daily Photagogicon of Tone 5.
+[^11146]: Daily Photagogicon of Tone 6.
+[^11147]: Daily Photagogicon of Tone 7.
+[^11148]: Daily Photagogicon of Tone 8.
+[^11149]: Slavonic Столпѝ (Greek Στύλοι / Pillars): liturgical tables mapping the weekly cycle of the Octoechos Tones to the eleven Sunday Matins Resurrection Gospels (Eothina) throughout the liturgical year.
+[^11150]: Rubrical heading explaining the function of the Pillars of the Octoechos and Sunday Matins Gospels.
+[^11151]: Pillar 1 (Сто́лпъ а҃), beginning on the 5th Sunday after Pentecost (Descent of the Holy Spirit).
+[^11152]: Pillar 2 (Сто́лпъ в҃), beginning after the Feast of the Holy Prophet Elijah (July 20).
+[^11153]: Gospel 10 (John 21:1–14, Pericope 66).
+[^11154]: Pillar 3 (Сто́лпъ г҃), beginning after the Universal Elevation of the Precious and Life-giving Cross (September 14).
+[^11155]: Pillar 4 (Сто́лпъ д҃), beginning in the Nativity Fast (Philip's Fast, November 15).
+[^11156]: Pillar 5 (Сто́лпъ є҃), beginning after the Baptism of the Lord (Theophany, January 6).
+[^11157]: Pillar 6 (Сто́лпъ ѕ҃), beginning with the Holy Great Fast (Clean Week).
+[^11158]: In the 1895 Lviv edition, the numeral for the 10th Resurrection Gospel is omitted and marked only by a centered dot (•), though the accompanying citation (ѿ І҆ѡа́нна, зача́ло ѯ҃ѕ) corresponds precisely to the 10th Gospel.
+[^11159]: In the 1895 Lviv edition, Tone 8 is misprinted as Tone 3 (Гла́съ г҃) in the sixth pillar, following Tone 7.
+[^11160]: Canonical H1 landmark opening Part 10 of the publication specification (General Parastas / Memorial Appendix, encompassing appendix folios 114–127 / physical leaves p1016–p1029).
+[^11161]: Slavonic Оу҆каза́нїа (Rubrical Instructions / Typikon Ordinal).
+[^11162]: Slavonic Оу҆ка́зъ ѡ҆ Слꙋ́жбѣ всеѧ̀ седми́цы, ка́кѡ пое́тсѧ О҆ктѡ́ихъ съ Минéею (Instruction on the Service of the Whole Week: how the Octoechos is sung with the Menaion).
+[^11163]: Typikon rubric governing the concurrence of Sunday services with a Menaion feast of a Saint having a vigil, polyeleos, or six/four troparia, including canon distribution and the priority of the Resurrection Kontakion at Ode 6.
+[^11164]: Typikon rubric governing Sunday evening Vespers and daily commemorations with the Menaion.
+[^11165]: Typikon rubric governing the celebration of forefeasts, afterfeasts, and the order of Compline throughout the week.
+[^11166]: Continuation of Compline rubrics, temple troparia, and Kontakion selection for Polyeleos feasts and forefeasts/afterfeasts.
+[^11167]: Comprehensive Typikon rubric for the Midnight Office (Полꙋ́нощница) throughout the year, specifying when "Behold, the Bridegroom cometh" and "Remember, O Lord, in hope" are omitted on Dominical Feasts, Theotokos Master Feasts, Lazarus Saturday, Mid-Pentecost, Apodosis of Pascha, and major Saints' days.
+[^11168]: Rubric for Monday Matins at "God is the Lord," governing the Troparion of the Saint and lesser Theotokia.
+[^11169]: Rubrical directions for weekday Matins Canons across Monday through Friday, governing the combination of the Penitential, Bodiless Powers, Forerunner, Cross, Apostles, Saint Nicholas, and Menaion Canons, as well as the omission of Martyria when a Saint is sung to 6.
+[^11170]: Rubric governing Sessional Hymns (Cathismata) and Kontakia after Odes 3 and 6 of the Matins Canon on weekdays and feasts.
+[^11171]: Slavonic Ѻ҆ свѣти́лнахъ, ка́кѡ глаго́лютсѧ въ седми́ци кромѣ̀ Недѣ́ли (Concerning the Photagogica: how they are said on weekdays apart from Sunday).
+[^11172]: Rubric governing the assignment of Octoechos, Menaion, and Stavrotheotokion Photagogica throughout the weekdays, continuing onto leaf p1019.
+[^11173]: Conclusion of weekday Photagogica rubric from leaf p1018.
+[^11174]: Typikon rubric for the Praises (Lauds / На Хвали́техъ) on weekdays.
+[^11175]: Detailed Typikon rubric for the Aposticha (На Стїхо́внѣ) at weekday Vespers and Matins, specifying the psalm verses [Ps. 89:14, 17 LXX], Saint's refrains, and concluding dismissal Troparia.
+[^11176]: Typikon rubric governing the Troparia and Kontakia at the First, Third, Sixth, and Ninth Hours, and their alternation during forefeasts and afterfeasts.
+[^11177]: Concluding order of Kontakia at the Hours and Typika when the Divine Liturgy is not celebrated.
+[^11178]: Typikon directions for the Divine Liturgy on weekdays: Beatitudes (Макаризмы) from the Octoechos and Menaion, troparia/kontakia after the Little Entrance, and the suspension of the daily Octoechos during forefeasts and afterfeasts.
+[^11179]: Slavonic Оу҆ка́зъ ѡ҆ Слꙋ́жбѣ Сꙋббѡ́тнѣй, є҆гда̀ пое́мъ Бг҃ъ Гдⷭ҇ь (Instruction on the Saturday Service, when we sing "God is the Lord").
+[^11180]: Comprehensive Typikon rubric governing Saturday services when "God is the Lord" is sung: Friday evening Vespers (with the three Octoechos Martyria at the Aposticha using Psalm 122:1, 3 LXX), Compline, Midnight Office, and Saturday Matins troparia.

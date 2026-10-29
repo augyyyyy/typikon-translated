@@ -1,0 +1,125 @@
+[^8804]: Matins Canon of the Cross, Ode 5, Troparion 2 conclusion from p810 ('...є҆сѝ бж҃твенною твое́ю держа́вою...').
+[^8805]: Matins Canon of the Cross, Ode 5, For the Martyrs 1 ('Распросте́ръ Велі́аръ всю́дꙋ сѣ́ти ѕлѡ́бныѧ...').
+[^8806]: Matins Canon of the Cross, Ode 5, For the Martyrs 2 ('Ма́нїемъ неоскꙋ́днымъ, ѿ Бг҃а ѡ҆божа́еми страстоте́рпци...').
+[^8807]: Matins Canon of the Cross, Ode 5, Stavrotheotokion ('Кі́има ѻ҆чи́ма воззрю̀, ѻ҆́ко и҆зсꙋша́ющее всѧ̑ бе́здны...').
+[^8808]: Second Canon to the Mother of God, Ode 5. Heirmos ('Но́щь несвѣ́тла невѣ́рнымъ Хрⷭ҇тѐ, вѣ́рнымъ же просвѣще́нїе...').
+[^8809]: Second Canon, Ode 5, Troparion 1 ('Ѡ҆тагче́нныхъ сно́мъ грѣхо́внымъ, Чи́стаѧ...').
+[^8810]: Second Canon, Ode 5, Troparion 2 ('Да́ждь Чи́стаѧ, всѣ̑мъ на́мъ рꙋ́кꙋ по́мощи...').
+[^8811]: Second Canon, Ode 5, Troparion 3 ('Ꙗ҆́же Бг҃а зача́нши въ ᲂу҆тро́бѣ дѣви́честѣй...').
+[^8812]: Second Canon, Ode 5, Troparion 4 ('Въ хра́мъ тво́й вѣ́рою приходя́щихъ дꙋ́ши...').
+[^8813]: Matins Canon of the Cross, Ode 6. Heirmos ('Пла́ваѧ въ молвѣ̀ жите́йскихъ попече́нїй...').
+[^8814]: Matins Canon of the Cross, Ode 6, Troparion 1 ('И҆зба́вителю сы́й є҆ди́не, цѣ́нꙋ твою̀ да́лъ є҆сѝ...').
+[^8815]: Matins Canon of the Cross, Ode 6, Troparion 2 opening; split across leaf boundary p811/p812 ('Невоздержа́нїемъ дре́вле паде́нїе лю́тое пода́хъ: Хрⷭ҇то́съ же...').
+[^8816]: Matins Canon of the Cross, Ode 6, Troparion 2 conclusion from p811 ('...воздвиза́емь на дре́во, рꙋ́цѣ просте́ръ...').
+[^8817]: Matins Canon of the Cross, Ode 6, For the Martyrs 1 ('Дрема́нїемъ пре́лести ѿню́дъ не воздрема́вшеся...').
+[^8818]: Matins Canon of the Cross, Ode 6, For the Martyrs 2 ('Оу҆твержде́ни на ка́мени бж҃е́ственныхъ Хрⷭ҇то́выхъ повелѣ́нїй...').
+[^8819]: Matins Canon of the Cross, Ode 6, Theotokion ('Ю҆́но ѻ҆троча̀ ражда́еши Бцⷣе...').
+[^8820]: Second Canon to the Mother of God, Ode 6. Heirmos ('І҆ѡ́на и҆зъ чре́ва а҆́дова вопія́ше...').
+[^8821]: Second Canon, Ode 6, Troparion 1 ('Є҆ди́на на́мъ спасе́нїа и҆сточи́ла є҆сѝ во́дꙋ...').
+[^8822]: Second Canon, Ode 6, Troparion 2 ('Ѡ҆дꙋшевлѐнный Бг҃а на́шегѡ гра́де...').
+[^8823]: Second Canon, Ode 6, Troparion 3 ('Ꙗ҆́звы дꙋ́шъ на́шихъ Бцⷣе ѿженѝ...').
+[^8824]: Second Canon, Ode 6, Troparion 4 ('Ꙗ҆́же разрѣши́вшаѧ ѿ болѣ́зней Дѣ́во Є҆́vꙋ...').
+[^8825]: Matins Canon of the Cross, Ode 7. Heirmos ('Пе́щь ѻ҆́троцы ѻ҆гнепа́льнꙋ дре́вле росоточа́щꙋ показа́ша...').
+[^8826]: Matins Canon of the Cross, Ode 7, Troparion 1 ('Неболѣ́зненнꙋю ѡ҆брѣ́те жи́знь пра́отецъ...').
+[^8827]: Matins Canon of the Cross, Ode 7, Troparion 2 ('Зако́нныѧ кля́твы и҆зба́вихомся всѝ...').
+[^8828]: Matins Canon of the Cross, Ode 7, For the Martyrs 1 ('Во́лными ᲂу҆стремле́ньми пристꙋпа́юще къ мꙋче́нїемъ...').
+[^8829]: Matins Canon of the Cross, Ode 7, For the Martyrs 2 ('Тѣ́ло преда́вше разли́чнымъ мꙋ́камъ...').
+[^8830]: Matins Canon of the Cross, Ode 7, Stavrotheotokion ('Ка́кѡ не воспла́чꙋся, сладча́йшее Ча́до...').
+[^8831]: Second Canon to the Mother of God, Ode 7. Rubric indicating the same Heirmos as the first canon ('Кан: Бцⷣѣ. І҆рмо́съ то́йже.').
+[^8832]: Second Canon, Ode 7, Troparion 1 ('О҆́гнь ро́ждшаѧ бж҃твенный Дѣ́во...').
+[^8833]: Second Canon, Ode 7, Troparion 2 ('Нетлѣ́ннаѧ О҆трокови́це, ѿ тлѝ на́съ и҆зба́ви...').
+[^8834]: Second Canon, Ode 7, Troparion 3 ('Стрꙋю̀ и҆злива́еши и҆сцѣле́нїй всѣ̑мъ...').
+[^8835]: Second Canon, Ode 7, Troparion 4 ('Ѡ҆́бразы всѝ бж҃твеннагѡ твоегѡ̀ рождества̀...').
+[^8836]: Matins Canon of the Cross, Ode 8. Heirmos ('Неѡпа́льнаѧ ѻ҆гню̀ въ Сїна́и прича́щшаѧся кꙋпина̀...').
+[^8837]: Matins Canon of the Cross, Ode 8, Troparion 1 ('Кро́вь и҆ вода̀ и҆сте́кшаѧ и҆зъ ре́бръ твои́хъ...').
+[^8838]: Matins Canon of the Cross, Ode 8, Troparion 2 opening; split across leaf boundary p813/p814 ('Вѣнце́мъ терно́внымъ ᲂу҆вѧ́злся є҆сѝ Спа́се, ѻ҆́цта и҆ же́л-...').
+[^8839]: Matins Canon of the Cross, Ode 8, Troparion 2 conclusion from p813 ('...чи вкꙋси́лъ є҆сѝ, и҆ ѻ҆плева́нъ бы́лъ є҆сѝ...').
+[^8840]: Matins Canon of the Cross, Ode 8, For the Martyrs 1 ('Ѿ неистощи́мыхъ сокро́вищъ и҆́стины...').
+[^8841]: Matins Canon of the Cross, Ode 8, For the Martyrs 2 ('Законоположе́нїа ѕлочести́выхъ не бре́гше...').
+[^8842]: Matins Canon of the Cross, Ode 8, Theotokion ('Зако́нный дре́вле тѧ̀ ковче́гъ проѡбража́ше...').
+[^8843]: Second Canon to the Mother of God, Ode 8. Heirmos ('Є҆ди́наго безнача́лнаго Царѧ̀ сла́вы...').
+[^8844]: Second Canon, Ode 8, Troparion 1 ('Чꙋде́съ бе́зднꙋ и҆сточа́ющꙋ мі́рꙋ...').
+[^8845]: Second Canon, Ode 8, Troparion 2 ('И҆зъ тебѐ со́лнце пра́ведное возсїѧ̀...').
+[^8846]: Second Canon, Ode 8, Troparion 3 ('Це́рковь всесвѣ́тлаѧ Бж҃їа бы́вши...').
+[^8847]: Second Canon, Ode 8, Troparion 4 ('Свѣ́томъ твоегѡ̀ рождества̀, вселе́ннꙋю чꙋдолѣ́пнѡ просвѣти́ла є҆сѝ...').
+[^8848]: Matins Canon of the Cross, Ode 9. Heirmos opening; split across leaf boundary p814/p815 ('Ма́ти Бж҃їа, и҆ Дѣ́ва ро́ждшаѧ и҆ дѣ́вствꙋющаѧ па́ки, не є҆стества̀ дѣ́-...').
+[^8849]: Matins Canon of the Cross, Ode 9. Heirmos conclusion from p814 ('...ло, но Бж҃їѧ снизхожде́нїа...').
+[^8850]: Matins Canon of the Cross, Ode 9, Troparion 1 ('Крѣ́пость вра́жїа ѿню́дъ ѡ҆скꙋдѣ̀...').
+[^8851]: Matins Canon of the Cross, Ode 9, Troparion 2 ('Ꙗ҆́кѡже А҆́гнецъ воздви́глсѧ є҆сѝ Влады́ко на кре́стъ...').
+[^8852]: Matins Canon of the Cross, Ode 9, For the Martyrs 1 ('Твои́хъ страсте́й подража́телїе ꙗ҆вля́еми...').
+[^8853]: Matins Canon of the Cross, Ode 9, For the Martyrs 2 ('Со́лнечныѧ ѡ҆блистава́ютъ благода́ти...').
+[^8854]: Matins Canon of the Cross, Ode 9, Stavrotheotokion ('Свѣ́тъ мы́сленный на крестѣ̀ ѡ҆блиста̀ тво́й...').
+[^8855]: Second Canon to the Mother of God, Ode 9. Heirmos ('Не тлѣ́нїа и҆скꙋше́нїемъ ро́ждшаѧ...').
+[^8856]: Second Canon, Ode 9, Troparion 1 ('Свѧще́ннѣйши вы́шнихъ си́лъ ꙗ҆ви́лася є҆сѝ...').
+[^8857]: Second Canon, Ode 9, Troparion 2 ('Ꙗ҆́кѡ просвѣща́емь заря́ми бж҃е́ственнагѡ Дх҃а...').
+[^8858]: Second Canon, Ode 9, Troparion 3 opening; split across leaf boundary p815/p816 ('Рꙋ́чка ꙗ҆ви́лася є҆сѝ ма́ннꙋ боже́ственнꙋю нося́щаѧ...').
+[^8859]: Second Canon, Ode 9, Troparion 3 conclusion from p815 ('...тѣ́мже тѧ̀ соше́дшеся вѣ́рнїи славосло́вимъ по до́лгꙋ...').
+[^8860]: Second Canon, Ode 9, Troparion 4 ('Бы́вшаѧ бж҃ества̀ О҆трокови́це селе́нїе...').
+[^8861]: Second Canon, Ode 9, Troparion 5 ('Свѣ́тъ ро́ждшаѧ є҆ди́на предвѣ́чный...').
+[^8862]: Matins dismissal rubric ('Досто́йно є҆́сть: є҆кте́нїа, Свѣти́ленъ и҆ ѱалмы̀ ѻ҆бы́чныѧ.').
+[^8863]: Matins Aposticha rubric, Tone 7 ('На Стїхо́внѣ, стїхи̑ры кре́стны, Гла́съ з҃.').
+[^8864]: Aposticha Sticheron 1 ('Влады́ка сы́й человѣколю́бче Жизнода́вче...').
+[^8865]: Aposticha Psalm Verse 1 ('И҆спо́лнихомся заꙋ́тра ми́лости твоеѧ̀...').
+[^8866]: Aposticha Sticheron 2 ('На крестѣ̀ пригвозди́ся лоза̀ и҆́стиннаѧ...').
+[^8867]: Aposticha Psalm Verse 2 ('И҆ бꙋ́ди свѣ́тлость Гдⷭ҇а Бг҃а на́шегѡ...').
+[^8868]: Aposticha Sticheron for the Martyrs ('Свѣти̑ла ꙗ҆ви́шася вселе́ннѣй, всехва́льнїи страстоте́рпци...').
+[^8869]: Aposticha Stavrotheotokion ('На дре́вѣ пригвожде́на тѧ̀ во́лею...').
+[^8870]: Matins dismissal rubric ('Бла́го є҆́сть: Трисвѧто́е. По О҆́тче на́шъ: тропарѝ, є҆кте́нїа и҆ про́чее.').
+[^8871]: Beatitudes rubric, Tone 7 ('Въ Сре́дꙋ Блаже́нна, Гла́съ з҃.').
+[^8872]: Beatitudes Troparion 1 ('Красе́нъ бѣ̀ и҆ до́бръ въ снѣ́дь...').
+[^8873]: Beatitudes Troparion 2 ('Распросте́рлъ є҆сѝ на крестѣ̀ дла̑ни...').
+[^8874]: Beatitudes Troparion 3 opening; split across leaf boundary p816/p817 ('На мѣ́стѣ тѧ̀ Ло́бнѣмъ собо́ръ є҆вре́йскїй, Хрⷭ҇тѐ Царю̀, рас-...').
+[^8875]: Beatitudes Troparion 3 conclusion from p816 ('...пѧ̀, сокрꙋша́юща лꙋка́вагѡ гꙋби́тельнꙋю главꙋ̀...').
+[^8876]: Beatitudes Troparion for the Martyrs ('Подо́бѧщеся Хрⷭ҇то́вымъ страсте́мъ...').
+[^8877]: Beatitudes Troparion to the Trinity ('Соблюдѝ, ѽ Трⷪ҇це ст҃а́ѧ...').
+[^8878]: Beatitudes Stavrotheotokion ('Распина́ема и҆зъ тебѐ Ро́ждшагося зрѧ́щи...').
+[^8879]: Canonical day opening for Thursday: The Holy Apostles and Saint Nicholas; Physical Leaf p817 = Printed Folio 807 ('Въ Сре́дꙋ ве́чера.').
+[^8880]: Thursday Vespers rubric ('Въ Сре́дꙋ ве́чера').
+[^8881]: Stichera to the Apostles on 'Lord, I have cried', Tone 7 rubric ('На Гдⷭ҇и воззва́хъ: стїхи̑ры ст҃ы̑мъ А҆пⷭ҇лѡмъ, Гла́съ з҃.').
+[^8882]: Melodic model rubric ('Подо́бенъ: Не ктомꙋ̀ возбраня́еми є҆смы̀:').
+[^8883]: Stichera to the Apostles, Sticheron 1 ('Бг҃оразꙋ́мїа, сла́внїи А҆пⷭ҇ли, ра́ломъ...').
+[^8884]: Stichera to the Apostles, Sticheron 2 ('Страсте́й мои́хъ разрꙋши́те зи́мꙋ...').
+[^8885]: Stichera to the Apostles, Sticheron 3 ('Ꙗ҆́кѡ ᲂу҆чени́цы Сло́ва...').
+[^8886]: Rubric for Stichera to St Nicholas ('И҆́ны стїхи̑ры, ст҃о́мꙋ чꙋдотво́рцꙋ Нїкола́ю, поє́мыѧ а҆́ще нѣ́сть Минє́и.').
+[^8887]: Tone and podoben rubric ('Гла́съ и҆ подо́бенъ то́йже.').
+[^8888]: Stichera to St Nicholas, Sticheron 1 ('Ꙗ҆́кѡже пре́жде и҆зба́вилъ є҆сѝ, О҆́тче...').
+[^8889]: Stichera to St Nicholas, Sticheron 2 ('И҆́же вѣ́рою и҆ любо́вїю всѧ̑ призыва́ющыѧ...').
+[^8890]: Stichera to St Nicholas, Sticheron 3 ('Гла́да и҆ гꙋби́тельства, трꙋ́са и҆ скорбе́й...').
+[^8891]: Thursday Vespers Theotokion at 'Glory... Both now...' ('Мольбꙋ̀ принесѝ твои́хъ ра̑бъ, къ твое́мꙋ Сы́нꙋ...').
+[^8892]: Thursday Vespers rubric ('Свѣ́те ти́хїй: Прокі́менъ днѐ.').
+[^8893]: Thursday Vespers Aposticha rubric, Tone 7 ('На Стїхо́внѣ стїхи̑ры а҆пⷭ҇лски, Гла́съ з҃.').
+[^8894]: Aposticha Sticheron 1 ('А҆́пⷭ҇ли сла́внїи, столпѝ церко́внїи...').
+[^8895]: Aposticha Psalm Verse 1 ('Къ тебѣ̀ возведо́хъ ѻ҆́чи моѝ живꙋ́щемꙋ на небесѝ...').
+[^8896]: Aposticha Sticheron 2 ('А҆́пⷭ҇ли Хрⷭ҇то́ви, дѣ́латели Спа́сови...').
+[^8897]: Aposticha Psalm Verse 2 ('Поми́лꙋй на́съ Гдⷭ҇и, поми́лꙋй на́съ...').
+[^8898]: Aposticha Sticheron for the Martyrs ('Всехва́льнїи Мꙋ́ченици, ѻ҆вча́та дꙋхѡ́внаѧ...').
+[^8899]: Aposticha Theotokion at 'Glory... Both now...' ('Є҆ди́нꙋ по рождествѣ̀ пречи́стꙋю Дѣ́вꙋ...').
+[^8900]: Thursday Vespers dismissal rubric ('Ны́нѣ ѿпꙋща́еши: Трисвѧто́е. По О҆́тче на́шъ: тропа́рь.').
+[^8901]: Wednesday at Small Compline rubric ('Въ Сре́дꙋ на Повече́рїи').
+[^8902]: Small Compline Canon to the Mother of God, Tone 7 rubric ('Канѡ́нъ прест҃ѣ́й Бцⷣѣ. Гла́съ з҃.').
+[^8903]: Small Compline Canon, Ode 1. Heirmos ('Ма́нїемъ твои́мъ на земны́й ѻ҆́бразъ преложи́ся...').
+[^8904]: Small Compline Canon, Ode 1. Refrain ('Припѣ́въ: Прест҃а́ѧ Гпⷭ҇жѐ Бцⷣе, спасѝ на́съ.').
+[^8905]: Small Compline Canon, Ode 1, Troparion 1 ('Вода́ми живото́чными Дѣ́во напо́й...').
+[^8906]: Small Compline Canon, Ode 1, Troparion 2 opening; split across leaf boundary p818/p819 ('Ѡ҆дождѝ мнѣ̀, Чи́стаѧ, ка́пли ᲂу҆миле́нїа...').
+[^8907]: Small Compline Canon, Ode 1, Troparion 2 conclusion from p818 ('...кови́це всю̀ дꙋше́внꙋю скве́рнꙋ...').
+[^8908]: Small Compline Canon, Ode 1, Troparion 3 at 'Glory...' ('Ты̀ Содѣ́телѧ твоегѡ̀ въ ᲂу҆тро́бѣ прїе́мши...').
+[^8909]: Small Compline Canon, Ode 1, Troparion 4 at 'Both now...' ('И҆зба́вителѧ человѣ́ческомꙋ ро́дꙋ...').
+[^8910]: Small Compline Canon, Ode 3. Heirmos ('Въ нача́тцѣхъ небеса̀, всеси́льнымъ Сло́вомъ твои́мъ...').
+[^8911]: Small Compline Canon, Ode 3, Troparion 1 ('Тѣле́снꙋю баграни́цꙋ ѿ твои́хъ пречи́стыхъ крове́й...').
+[^8912]: Small Compline Canon, Ode 3, Troparion 2 ('Ꙗ҆́кѡ сокро́вище благи́хъ и҆ неизрече́нныхъ, Дѣ́во...').
+[^8913]: Small Compline Canon, Ode 3, Troparion 3 at 'Glory...' ('Тѧ̀ Данїи́лъ чꙋ́дный, прови́да го́рꙋ, Чи́стаѧ...').
+[^8914]: Small Compline Canon, Ode 3, Troparion 4 at 'Both now...' ('Бг҃огла́сный тѧ̀ нѣ́когда прови́да сви́токъ...').
+[^8915]: Small Compline Canon, Ode 4. Heirmos ('О҆́тча нѣ́дра не ѡ҆ста́вль, и҆ соше́дъ на зе́млю...').
+[^8916]: Small Compline Canon, Ode 4, Troparion 1 ('Моли́твꙋ къ Ро́ждшемꙋся и҆зъ тебѐ Бцⷣе сотворѝ...').
+[^8917]: Small Compline Canon, Ode 4, Troparion 2 ('Мѵ́ро и҆зъ тебѐ Прест҃а́ѧ Чи́стаѧ и҆злїя́вшееся...').
+[^8918]: Small Compline Canon, Ode 4, Troparion 3 at 'Glory...' ('Ꙗ҆́кѡ мы́сленнꙋю лѣ́ствицꙋ Чи́стаѧ поста́влей тѧ̀...').
+[^8919]: Small Compline Canon, Ode 4, Troparion 4 at 'Both now...' ('Ѡ҆тагче́нъ бре́менемъ мно́гимъ грѣхо́внымъ, Блага́ѧ...').
+[^8920]: Small Compline Canon, Ode 5. Heirmos ('Гдⷭ҇и Бж҃е мо́й, ѿ но́щи ᲂу҆́треневавъ тебѣ̀ молю́ся...').
+[^8921]: Small Compline Canon, Ode 5, Troparion 1 ('Ма́ти человѣколю́бца и҆ Бг҃а, препѣ́таѧ Бцⷣе...').
+[^8922]: Small Compline Canon, Ode 5, Troparion 2 ('Пречи́стаѧ Бцⷣе, прїѧ́телище сꙋ́щи неизмѣ́ннагѡ свѣ́та...').
+[^8923]: Small Compline Canon, Ode 5, Troparion 3 at 'Glory...' ('Гдⷭ҇и Бж҃е мо́й, и҆́же бы́ти человѣ́къ и҆зво́ливый...').
+[^8924]: Small Compline Canon, Ode 5, Troparion 4 at 'Both now...' ('Влады́чице Бг҃ома́ти, мои́хъ прегрѣше́нїй пода́ждь проще́нїе...').
+[^8925]: Small Compline Canon, Ode 6. Heirmos ('Пла́вающаго въ молвѣ̀ жите́йскихъ попече́нїй...').
+[^8926]: Small Compline Canon, Ode 6, Troparion 1 ('Ѿ тлѝ сме́рти, и҆ є҆́же ѿ А҆да́ма грѣха̀...').
+[^8927]: Small Compline Canon, Ode 6, Troparion 2 ('Мои́хъ прегрѣше́нїй, Влады́чице, раздерѝ рꙋкописа́нїе...').
+[^8928]: Small Compline Canon, Ode 6, Troparion 3 opening at 'Glory...'; split across leaf boundary p820/p821 ('Ѡ҆ринове́нныѧ дре́вле, пра́веднымъ твои́мъ сꙋдо́мъ Хрⷭ҇тѐ...').

@@ -1,0 +1,115 @@
+[^5091]: COMPLINE CANON (Ode 4, Glory). Doxasticon troparion (`Сла́ва:`) of Ode 4, Compline Canon to the Theotokos, Tone 5; citing Psalm 44:10, 14 [LXX] on the royal vesture of the Bride.
+[^5092]: COMPLINE CANON (Ode 4, Both now). Concluding troparion (`И҆ ны́нѣ:`) of Ode 4, Tone 5 Compline Canon; Luke 1:28 (the Archangel Gabriel's salutation).
+[^5093]: COMPLINE CANON (Ode 5, Heirmos). Heirmos of Ode 5, Compline Canon to the Theotokos, Tone 5. Slavonic: *Ѡ҆дѣва́йся свѣ́томъ ꙗ҆́кѡ ри́зою...*; Greek: Ὁ ἀναβαλλόμενος φῶς ὡς ἱμάτιον; Psalm 103:2 [LXX].
+[^5094]: COMPLINE CANON (Ode 5, Troparion 1). First troparion of Ode 5, Tone 5 Compline Canon; Psalm 102:10 [LXX] ("He hath not dealt with us according to our sins").
+[^5095]: COMPLINE CANON (Ode 5, Troparion 2). Second troparion of Ode 5, Tone 5 Compline Canon; Genesis 1:3 and 2 Corinthians 4:6.
+[^5096]: COMPLINE CANON (Ode 5, Glory). Doxasticon troparion (`Сла́ва:`) of Ode 5, Compline Canon to the Theotokos, Tone 5; Song of Songs 4:8, 11 (the Bride from Lebanon).
+[^5097]: COMPLINE CANON (Ode 5, Both now). Concluding troparion (`И҆ ны́нѣ:`) of Ode 5, Tone 5 Compline Canon; 1 Corinthians 1:30 and Galatians 3:13.
+[^5098]: COMPLINE CANON (Ode 6, Heirmos). Heirmos of Ode 6, Compline Canon to the Theotokos, Tone 5. Slavonic: *Неи́стовствꙋющееся бꙋ́рею дꙋшетлѣ́нною...*; Greek: Μαινομένην κλύδωνι ψυχοφθόρῳ; Jonah 2:3, 7 [LXX].
+[^5099]: COMPLINE CANON (Ode 6, Troparion 1). First troparion of Ode 6, Tone 5 Compline Canon.
+[^5100]: COMPLINE CANON (Ode 6, Troparion 2). Second troparion of Ode 6, Tone 5 Compline Canon.
+[^5101]: COMPLINE CANON (Ode 6, Glory). Doxasticon troparion (`Сла́ва:`) of Ode 6, Compline Canon to the Theotokos, Tone 5.
+[^5102]: COMPLINE CANON (Ode 6, Both now). Concluding troparion (`И҆ ны́нѣ:`) of Ode 6, Tone 5 Compline Canon; Psalm 118:135 [LXX].
+[^5103]: COMPLINE CANON (Sessional Hymn). Sessional Hymn after Ode 6, Tone 5 Compline Canon to the Theotokos.
+[^5104]: COMPLINE CANON (Ode 7, Heirmos). Heirmos of Ode 7, Compline Canon to the Theotokos, Tone 5. Slavonic: *Превозноси́мый ѻ҆тце́въ Гдⷭ҇ь...*; Greek: Ὁ ὑπερυψούμενος τῶν πατέρων Κύριος; Daniel 3:52-56 [LXX].
+[^5105]: COMPLINE CANON (Ode 7, Troparion 1). First troparion of Ode 7, Tone 5 Compline Canon; 1 Corinthians 1:24.
+[^5106]: COMPLINE CANON (Ode 7, Troparion 2). Second troparion of Ode 7, Tone 5 Compline Canon.
+[^5107]: COMPLINE CANON (Ode 7, Glory). Doxasticon troparion (`Сла́ва:`) of Ode 7, Compline Canon to the Theotokos, Tone 5.
+[^5108]: COMPLINE CANON (Ode 7, Both now). Concluding troparion (`И҆ ны́нѣ:`) of Ode 7, Tone 5 Compline Canon.
+[^5109]: COMPLINE CANON (Ode 8, Heirmos). Heirmos of Ode 8, Compline Canon to the Theotokos, Tone 5. Slavonic: *И҆зъ Ѻ҆ц҃а̀ пре́жде вѣ̑къ рожде́ннаго Сы́на и҆ Бг҃а...*; Greek: Τὸν ἐκ Πατρὸς πρὸ αἰώνων γεννηθέντα; Daniel 3:57 [LXX].
+[^5110]: COMPLINE CANON (Ode 8, Troparion 1). First troparion of Ode 8, Tone 5 Compline Canon.
+[^5111]: COMPLINE CANON (Ode 8, Troparion 2). Second troparion of Ode 8, Tone 5 Compline Canon.
+[^5112]: COMPLINE CANON (Ode 8, Glory). Doxasticon troparion (`Сла́ва:`) of Ode 8, Compline Canon to the Theotokos, Tone 5; Exodus 25:31 and Daniel 3:57 [LXX].
+[^5113]: COMPLINE CANON (Ode 8, Both now). Concluding troparion (`И҆ ны́нѣ:`) of Ode 8, Tone 5 Compline Canon.
+[^5114]: COMPLINE CANON (Ode 9, Heirmos, incipit). Opening of the Heirmos of Ode 9, Compline Canon to the Theotokos, Tone 5, continued on physical leaf p513 (fol. 511r); Slavonic: *И҆са́їе ликꙋ́й, Дѣ́ва и҆мѣ̀ въ чре́вѣ...*; Greek: Ἡσαΐα χόρευε; Isaiah 7:14; Matthew 1:23.
+[^5115]: COMPLINE CANON (Ode 9, Heirmos, conclusion). Conclusion of the Heirmos of Ode 9, continued from physical leaf p512 (fol. 510v); Zechariah 6:12; Luke 1:78. Note: the printed running folio header on fol. 511r erroneously reads `Гла́съ д҃.` in place of `Гла́съ є҃.`
+[^5116]: COMPLINE CANON (Ode 9, Troparion 1). First troparion of Ode 9, Tone 5 Compline Canon.
+[^5117]: COMPLINE CANON (Ode 9, Troparion 2). Second troparion of Ode 9, Tone 5 Compline Canon.
+[^5118]: COMPLINE CANON (Ode 9, Glory). Doxasticon troparion (`Сла́ва:`) of Ode 9, Tone 5 Compline Canon. A strong defense of the veneration of holy icons against iconoclasm; the 1895 Lviv print explicitly isolates the clause `[всѧ́кѡ ненави́дѧще є҆реті́къ безꙋ́мїе на землѝ]` in square brackets.
+[^5119]: COMPLINE CANON (Ode 9, Both now). Concluding troparion (`И҆ ны́нѣ:`) of Ode 9, Tone 5 Compline Canon.
+[^5120]: Rubric concluding Saturday Compline: Megalynarion (*It is truly meet*), Trisagion prayers, troparia, and dismissal.
+[^5121]: SUNDAY MIDNIGHT OFFICE (Canon to the Holy Trinity, Tone 5). Title and acrostic heading for the Sunday Midnight Office Canon, composed by St. Metrophanes of Smyrna with the acrostic: *Пра́вило пѧ́тое Свѣ́тꙋ трисо́лнечномꙋ* (Greek: *Κανὼν πέμπτος τριφαεῖ φάει*).
+[^5122]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 1, Heirmos). Heirmos of Ode 1, Sunday Midnight Office Trinity Canon, Tone 5. Slavonic: *Конѧ̀ и҆ вса́дника въ мо́ре чермно́е...*; Greek: Ἵππον καὶ ἀναβάτην εἰς θάλασσαν Ἐρυθράν; Exodus 15:1-3.
+[^5123]: Refrain: Liturgical refrain for the Sunday Midnight Office Canon to the Holy Trinity.
+[^5124]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 1, Troparion 1). First troparion of Ode 1, Tone 5 Trinity Canon.
+[^5125]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 1, Troparion 2). Second troparion of Ode 1, Tone 5 Trinity Canon; Isaiah 6:3.
+[^5126]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 1, Glory). Doxasticon troparion (`Сла́ва:`) of Ode 1, Tone 5 Trinity Canon.
+[^5127]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 1, Theotokion, incipit). Opening of the concluding Theotokion (`Бг҃оро́диченъ`) of Ode 1, continued on physical leaf p514 (fol. 512r); Psalm 71:6 [LXX]; Judges 6:37-40.
+[^5128]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 1, Theotokion, conclusion). Conclusion of the Theotokion of Ode 1, continued from physical leaf p513 (fol. 511v).
+[^5129]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 3, Heirmos). Heirmos of Ode 3, Sunday Midnight Office Trinity Canon, Tone 5. Slavonic: *Водрꙋзи́вый на ничесо́мже зе́млю...*; Greek: Ὁ πήξας ἐπ' οὐδενὸς τὴν γῆν; Job 26:7; Matthew 16:18.
+[^5130]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 3, Troparion 1). First troparion of Ode 3, Tone 5 Trinity Canon.
+[^5131]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 3, Troparion 2). Second troparion of Ode 3, Tone 5 Trinity Canon; James 1:17.
+[^5132]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 3, Glory). Doxasticon troparion (`Сла́ва:`) of Ode 3, Tone 5 Trinity Canon.
+[^5133]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 3, Theotokion). Concluding Theotokion (`Бг҃оро́диченъ`) of Ode 3, Tone 5 Trinity Canon; Exodus 3:2; Isaiah 9:6 [LXX].
+[^5134]: SUNDAY MIDNIGHT OFFICE (Sessional Hymn, Tone 5). Sessional Hymn after Ode 3, Sunday Midnight Office Trinity Canon, Tone 5, model *The Co-beginningless Word* (`Собезначáлное Сло́во`).
+[^5135]: SUNDAY MIDNIGHT OFFICE (Sessional Theotokion, Tone 5). Concluding Theotokion (`Бг҃оро́диченъ`) after Ode 3, Tone 5.
+[^5136]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 4, Heirmos). Heirmos of Ode 4, Sunday Midnight Office Trinity Canon, Tone 5. Slavonic: *Бж҃твенное твоѐ разꙋмѣ́въ и҆стоща́нїе...*; Greek: Τὴν θείαν ἐννοήσας σου κένωσιν; Habakkuk 3:13 [LXX]; Philippians 2:7.
+[^5137]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 4, Troparion 1). First troparion of Ode 4, Tone 5 Trinity Canon; Daniel 7:9-13 (the Ancient of Days and the Son of Man).
+[^5138]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 4, Troparion 2). Second troparion of Ode 4, Tone 5 Trinity Canon.
+[^5139]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 4, Glory). Doxasticon troparion (`Сла́ва:`) of Ode 4, Tone 5 Trinity Canon.
+[^5140]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 4, Theotokion). Concluding Theotokion (`Бг҃оро́диченъ`) of Ode 4, Tone 5 Trinity Canon; Habakkuk 3:3 [LXX].
+[^5141]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 5, Heirmos). Heirmos of Ode 5, Sunday Midnight Office Trinity Canon, Tone 5. Slavonic: *Ѡ҆дѣва́йся свѣ́томъ ꙗ҆́кѡ ри́зою...*; Greek: Ὁ ἀναβαλλόμενος φῶς ὡς ἱμάτιον; Psalm 103:2 [LXX].
+[^5142]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 5, Troparion 1). First troparion of Ode 5, Tone 5 Trinity Canon; Genesis 1:26-27.
+[^5143]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 5, Troparion 2). Second troparion of Ode 5, Tone 5 Trinity Canon.
+[^5144]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 5, Glory). Doxasticon troparion (`Сла́ва:`) of Ode 5, Tone 5 Trinity Canon.
+[^5145]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 5, Theotokion). Concluding Theotokion (`Бг҃оро́диченъ`) of Ode 5, Tone 5 Trinity Canon; Ezekiel 44:1-2.
+[^5146]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 6, Heirmos). Heirmos of Ode 6, Sunday Midnight Office Trinity Canon, Tone 5. Slavonic: *Неи́стовствꙋющееся бꙋ́рею дꙋшетлѣ́нною...*; Greek: Μαινομένην κλύδωνι ψυχοφθόρῳ; Jonah 2:3, 7 [LXX].
+[^5147]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 6, Troparion 1). First troparion of Ode 6, Tone 5 Trinity Canon.
+[^5148]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 6, Troparion 2). Second troparion of Ode 6, Tone 5 Trinity Canon; Psalm 35:10 [LXX] ("In Thy light shall we see light").
+[^5149]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 6, Glory, incipit). Opening of the Doxasticon troparion (`Сла́ва:`) of Ode 6, continued on physical leaf p516 (fol. 514r).
+[^5150]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 6, Glory, conclusion). Conclusion of the Doxasticon troparion of Ode 6, continued from physical leaf p515 (fol. 513v).
+[^5151]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 6, Theotokion). Concluding Theotokion (`Бг҃оро́диченъ`) of Ode 6, Tone 5 Trinity Canon.
+[^5152]: SUNDAY MIDNIGHT OFFICE (Sessional Hymn, Tone 5). Sessional Hymn after Ode 6, Sunday Midnight Office Trinity Canon, Tone 5, model *The Co-beginningless Word* (`Собезначáлное Сло́во`).
+[^5153]: SUNDAY MIDNIGHT OFFICE (Sessional Theotokion, Tone 5). Concluding Theotokion (`Бг҃оро́диченъ`) after Ode 6, Tone 5.
+[^5154]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 7, Heirmos). Heirmos of Ode 7, Sunday Midnight Office Trinity Canon, Tone 5. Slavonic: *Превозноси́мый ѻ҆тце́въ Гдⷭ҇ь...*; Greek: Ὁ ὑπερυψούμενος τῶν πατέρων Κύριος; Daniel 3:52-56 [LXX].
+[^5155]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 7, Troparion 1). First troparion of Ode 7, Tone 5 Trinity Canon.
+[^5156]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 7, Troparion 2). Second troparion of Ode 7, Tone 5 Trinity Canon.
+[^5157]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 7, Glory). Doxasticon troparion (`Сла́ва:`) of Ode 7, Tone 5 Trinity Canon.
+[^5158]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 7, Theotokion). Concluding Theotokion (`Бг҃оро́диченъ`) of Ode 7, Tone 5 Trinity Canon; Isaiah 11:1.
+[^5159]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 8, Heirmos). Heirmos of Ode 8, Sunday Midnight Office Trinity Canon, Tone 5. Slavonic: *Тебѣ̀ Вседѣ́телю, въ пещѝ ѻ҆́троцы...*; Greek: Σοὶ τῷ Παντουργῷ; Daniel 3:57 [LXX].
+[^5160]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 8, Troparion 1, incipit). Opening of the first troparion of Ode 8, continued on physical leaf p517 (fol. 515r); Genesis 18:1-3 (the Hospitality of Abraham).
+[^5161]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 8, Troparion 2). Second troparion of Ode 8, Tone 5 Trinity Canon; 1 Timothy 6:16.
+[^5162]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 8, Glory). Doxasticon troparion (`Сла́ва:`) of Ode 8, Tone 5 Trinity Canon, expressing classical Eastern patristic pneumatology: procession from the Father and manifestation through the Son (*Сы́номъ же ꙗ҆влѧ́емь* / *δι' Υἱοῦ ἐκφαινομένου*).
+[^5163]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 8, Theotokion). Concluding Theotokion (`Бг҃оро́диченъ`) of Ode 8, Tone 5 Trinity Canon.
+[^5164]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 9, Heirmos). Heirmos of Ode 9, Sunday Midnight Office Trinity Canon, Tone 5. Slavonic: *И҆са́їе ликꙋ́й, Дѣ́ва и҆мѣ̀ въ чре́вѣ...*; Greek: Ἡσαΐα χόρευε; Isaiah 7:14; Zechariah 6:12; Luke 1:78.
+[^5165]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 9, Troparion 1). First troparion of Ode 9, Tone 5 Trinity Canon.
+[^5166]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 9, Troparion 2). Second troparion of Ode 9, Tone 5 Trinity Canon; Isaiah 6:2-3.
+[^5167]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 9, Glory). Doxasticon troparion (`Сла́ва:`) of Ode 9, Tone 5 Trinity Canon; Isaiah 6:1-3.
+[^5168]: SUNDAY MIDNIGHT OFFICE (Trinity Canon, Ode 9, Theotokion). Concluding Theotokion (`Бг҃оро́диченъ`) of Ode 9, Tone 5 Trinity Canon.
+[^5169]: Rubric for the conclusion of Sunday Midnight Office: Triadika of St. Gregory of Sinai (*It is meet in truth to hymn the transcendent Trinity*), Megalynarion, Trisagion, and dismissal.
+[^5170]: SUNDAY MATINS (Opening Rubric, Tone 5). Rubric for *God is the Lord* (Psalm 117:27 [LXX]), Resurrection Troparion *The Co-beginningless Word*, Menaion Troparion, Theotokion, and Kathisma readings from the Psalter.
+[^5171]: SUNDAY MATINS (Kathisma 1, Resurrection Sessional Hymn 1, incipit). First Resurrection Sessional Hymn after the First Kathisma, Tone 5, continued on physical leaf p518 (fol. 516r).
+[^5172]: Psalm 9:33 [LXX] / 10:12 [MT].
+[^5173]: SUNDAY MATINS (Kathisma 1, Resurrection Sessional Hymn 2). Second Resurrection Sessional Hymn after the First Kathisma, Tone 5; Peter's repentance contrasting with the Myrrh-bearers and the Good Thief (Luke 22:54-62; Luke 23:42-43; Matthew 4:19).
+[^5174]: SUNDAY MATINS (Kathisma 1, Sessional Theotokion). Concluding Theotokion after the First Kathisma, Tone 5.
+[^5175]: SUNDAY MATINS (Kathisma 2, Resurrection Sessional Hymn 1). First Resurrection Sessional Hymn after the Second Kathisma, Tone 5; Matthew 27:65-66.
+[^5176]: Psalm 9:2 [LXX].
+[^5177]: SUNDAY MATINS (Kathisma 2, Resurrection Sessional Hymn 2). Second Resurrection Sessional Hymn after the Second Kathisma, Tone 5; John 19:34 and Matthew 28:8.
+[^5178]: SUNDAY MATINS (Kathisma 2, Sessional Theotokion). Concluding Theotokion after the Second Kathisma, Tone 5; Ezekiel 44:2 and Exodus 3:2.
+[^5179]: SUNDAY MATINS (Polyeleos Rubric). Prescribing Psalm 118 [LXX] (*Blessed are the undefiled*) or the Polyeleos, the Resurrectional Evlogitaria (*The assembly of the angels was amazed*), and the Little Ektenia.
+[^5180]: SUNDAY MATINS (Hypakoe, Tone 5). Resurrection Hypakoe of Tone 5; Mark 16:6-7, 20.
+[^5181]: SUNDAY MATINS (Anavathmoi, Antiphon 1, Verse 1). First Antiphon of the Hymns of Degrees, Tone 5, Verse 1; Psalm 119:1-2 [LXX].
+[^5182]: SUNDAY MATINS (Anavathmoi, Antiphon 1, Verse 2). First Antiphon of the Hymns of Degrees, Tone 5, Verse 2; the blessedness of the eremitic life.
+[^5183]: SUNDAY MATINS (Anavathmoi, Antiphon 1, Glory). Trinitarian-Pneumatological troparion (`Сла́ва:`) of Antiphon 1, Tone 5.
+[^5184]: Liturgical repetition of the Pneumatikon troparion for *Both now*.
+[^5185]: SUNDAY MATINS (Anavathmoi, Antiphon 2, Verse 1). Second Antiphon of the Hymns of Degrees, Tone 5, Verse 1; Psalm 120:1-2 [LXX].
+[^5186]: SUNDAY MATINS (Anavathmoi, Antiphon 2, Verse 2). Second Antiphon of the Hymns of Degrees, Tone 5, Verse 2; Psalm 120:5, 7 [LXX].
+[^5187]: SUNDAY MATINS (Anavathmoi, Antiphon 2, Glory). Trinitarian-Pneumatological troparion (`Сла́ва:`) of Antiphon 2, Tone 5.
+[^5188]: Liturgical repetition of the Pneumatikon troparion for *Both now*.
+[^5189]: SUNDAY MATINS (Anavathmoi, Antiphon 3, Verse 1). Third Antiphon of the Hymns of Degrees, Tone 5, Verse 1; Psalm 121:1 [LXX].
+[^5190]: SUNDAY MATINS (Anavathmoi, Antiphon 3, Verse 2). Third Antiphon of the Hymns of Degrees, Tone 5, Verse 2; Psalm 121:5 [LXX].
+[^5191]: SUNDAY MATINS (Anavathmoi, Antiphon 3, Glory). Trinitarian-Pneumatological troparion (`Сла́ва:`) of Antiphon 3, Tone 5.
+[^5192]: Liturgical repetition of the Pneumatikon troparion for *Both now*.
+[^5193]: SUNDAY MATINS (Sunday Prokeimenon, Tone 5). Sunday Prokeimenon (Psalm 9:33 [LXX]), Matins Gospel order, *Having beheld the Resurrection of Christ*, and Psalm 50 [LXX].
+[^5194]: SUNDAY MATINS (Resurrection Canon, Ode 1, Heirmos). Heirmos of Ode 1, Sunday Resurrection Canon, Tone 5. Slavonic: *Конѧ̀ и҆ вса́дника въ мо́ре чермно́е...*; Greek: Ἵππον καὶ ἀναβάτην εἰς θάλασσαν Ἐρυθράν; Exodus 15:1-3.
+[^5195]: Refrain: Liturgical refrain for the Sunday Resurrection Canon, Tone 5.
+[^5196]: SUNDAY MATINS (Resurrection Canon, Ode 1, Troparion 1). First troparion of Ode 1, Tone 5 Resurrection Canon; Matthew 27:29 and Genesis 3:18 (the crown of thorns).
+[^5197]: SUNDAY MATINS (Resurrection Canon, Ode 1, Troparion 2). Second troparion of Ode 1, Tone 5 Resurrection Canon; Psalm 39:3 [LXX] and Song of Songs 1:3.
+[^5198]: SUNDAY MATINS (Resurrection Canon, Ode 1, Theotokion). Concluding Theotokion (`Бг҃оро́диченъ`) of Ode 1, Tone 5 Resurrection Canon; Luke 1:28, 42 and Galatians 3:13.
+[^5199]: SUNDAY MATINS (Second Canon, Ode 1, Heirmos). Heirmos of Ode 1, Second Canon of the Cross and Resurrection, Tone 5. Slavonic: *Спаси́телю Бг҃ꙋ, въ мо́ри лю́ди немо́крыми нога́ми...*; Greek: Τῷ Σωτῆρι Θεῷ; Exodus 14:21-28, 15:1.
+[^5200]: SUNDAY MATINS (Second Canon, Ode 1, Troparion 1). First troparion of Ode 1, Tone 5 Second Canon; Genesis 3:6, 17 and Colossians 2:14.
+[^5201]: SUNDAY MATINS (Second Canon, Ode 1, Troparion 2). Second troparion of Ode 1, Tone 5 Second Canon; Ephesians 2:6 and Hebrews 1:3.
+[^5202]: SUNDAY MATINS (Second Canon, Ode 1, Theotokion). Concluding Theotokion (`Бг҃оро́диченъ`) of Ode 1, Tone 5 Second Canon; John 1:18.
+[^5203]: SUNDAY MATINS (Third Canon to the Theotokos, Ode 1, Troparion 1). First troparion of Ode 1, Tone 5 Third Canon to the Theotokos (Acrostic letter 1: `С`, *Свѣ́тъ...*); John 8:12.
+[^5204]: SUNDAY MATINS (Third Canon to the Theotokos, Ode 1, Troparion 2). Second troparion of Ode 1, Tone 5 Third Canon to the Theotokos (Acrostic letter 2: `в`, *...всѧ́ческаѧ ѹ҆добри́вшаго*).
+[^5205]: SUNDAY MATINS (Third Canon to the Theotokos, Ode 1, Troparion 3). Third troparion of Ode 1, Tone 5 Third Canon to the Theotokos (Acrostic letter 3: `ѣ`, *...Тебѐ*); Exodus 3:2.

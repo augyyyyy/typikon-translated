@@ -1,0 +1,88 @@
+[^5003]: ODE 8 (Canon 2, Troparion 2, conclusion). Conclusion of stanza continued from physical leaf p500 (fol. 498v); Daniel 3:57.
+[^5004]: ODE 8 (Canon 2, Glory). Doxasticon troparion (`Сла́ва:`) of Ode 8 (Second Canon) for the departed; Daniel 3:57.
+[^5005]: ODE 8 (Canon 2, Theotokion). Concluding Theotokion (`И҆ ны́нѣ:`) of Ode 8 (Second Canon), praising the Virgin Mary as the unwedded Mother of Life.
+[^5006]: ODE 9 (Canon 1). Heirmos. Slavonic: *Є҆́vа ѹ҆́бѡ недꙋ́гомъ преслꙋша́нїѧ...* Greek: Ἡ μὲν τῷ τῆς παρακοῆς νοσήματι; contrasting Eve's curse (Genesis 3:16) with the Virgin's blessing (Luke 1:42).
+[^5007]: ODE 9 (Canon 1, Troparion 1). The martyrs crowned with divine gifts and honors (2 Timothy 4:8).
+[^5008]: ODE 9 (Canon 1, Troparion 2). Holy hierarchs and venerable fathers shining brighter than the sun through fasting.
+[^5009]: ODE 9 (Canon 1, Troparion 3). General commemoration of hieromartyrs, prophets, venereables, righteous, and holy ascetic women.
+[^5010]: ODE 9 (Canon 1, Glory / For the Departed). Doxasticon troparion (`Поко́инъ`) of Ode 9 (First Canon), interceding for the rest of the departed with the saints.
+[^5011]: ODE 9 (Canon 1, Theotokion). Concluding Theotokion (`Бг҃оро́дич.`) of Ode 9 (First Canon), venerating the Virgin as higher than the Cherubim.
+[^5012]: ODE 9 (Canon 2, Troparion 1, incipit). Stanza continues on physical leaf p502 (fol. 500r); the martyrs' boldness in prayer.
+[^5013]: ODE 9 (Canon 2, Troparion 1, conclusion). Conclusion of stanza continued from physical leaf p501 (fol. 499v); dwelling in the holy habitation.
+[^5014]: ODE 9 (Canon 2, Troparion 2). Second troparion of Ode 9 (Second Canon) for the departed, citing Psalm 22:2 [LXX] ("beside the waters of rest").
+[^5015]: ODE 9 (Canon 2, Glory). Doxasticon troparion (`Сла́ва:`) of Ode 9 (Second Canon) for the departed, invoking Matthew 22:13 ("outer darkness") and Romans 3:24.
+[^5016]: ODE 9 (Canon 2, Theotokion). Concluding Theotokion (`Бг҃оро́диченъ`) of Ode 9 (Second Canon), referencing prophetic types of the Incarnation.
+[^5017]: Rubric concluding Saturday Matins: Megalynarion (*It is truly meet*), litany, Photagogikon/Exapostilarion, and the Praises (Psalms 148-150 [LXX]).
+[^5018]: PRAISES (Sticheron 1, Martyrs). First Martyrikon Sticheron at the Praises, Tone 4.
+[^5019]: PRAISES (Sticheron 2, Martyrs). Second Martyrikon Sticheron at the Praises, Tone 4; victory over bodiless demonic enemies.
+[^5020]: PRAISES (Sticheron 3, Martyrs). Third Martyrikon Sticheron at the Praises, Tone 4; Psalm 115:6 [LXX] ("Precious in the sight of the Lord is the death of His saints").
+[^5021]: PRAISES (For the Departed). Funeral Sticheron (`Ме́ртвенъ`) at the Praises, Tone 4.
+[^5022]: PRAISES (Glory, incipit). Opening of the Doxasticon Sticheron (`Сла́ва:`) at the Praises, Tone 4, continued on physical leaf p503 (fol. 501r); Damascene meditation on worldly vanity.
+[^5023]: PRAISES (Glory, conclusion). Conclusion of the Doxasticon Sticheron at the Praises, continued from physical leaf p502 (fol. 500v).
+[^5024]: PRAISES (Both now, Theotokion). Concluding Theotokion at the Praises, Tone 4.
+[^5025]: APOSTICHA (Sticheron 1, Departed). First Aposticha Sticheron for the departed, Tone 4, model *Thou hast given a sign* (`Да́лъ є҆сѝ зна́менїе`), contemplating the dread mystery of the separation of soul and body.
+[^5026]: Psalm 64:5 [LXX].
+[^5027]: APOSTICHA (Sticheron 2, Departed). Second Aposticha Sticheron for the departed, Tone 4; death transformed into sleep by Christ's burial and Resurrection.
+[^5028]: Psalm 24:13 [LXX].
+[^5029]: APOSTICHA (Sticheron 3, Departed). Third Aposticha Sticheron for the departed, Tone 4; 1 Corinthians 1:30 ("righteousness and sanctification and redemption").
+[^5030]: APOSTICHA (Glory & both now, Theotokion). Concluding Aposticha Theotokion, Tone 4; interceding for the departed through the Theotokos.
+[^5031]: Rubric concluding Saturday Matins: Psalm 91:2 [LXX] (*It is good to give praise*), Trisagion, dismissal troparion, ektenia, and the First Hour.
+[^5032]: BEATITUDES (Troparion 1, incipit). Opening troparion of the Beatitudes at Saturday Liturgy, Tone 4, continued on physical leaf p504 (fol. 502r); Adam's fall through the tree contrasted with the Good Thief's entry into Paradise (Luke 23:42-43).
+[^5033]: BEATITUDES (Troparion 1, conclusion). Conclusion of Troparion 1 of the Beatitudes, continued from physical leaf p503 (fol. 501v); Luke 23:42.
+[^5034]: BEATITUDES (Troparion 2, Martyrs). Second Beatitude troparion for the Holy Martyrs, Tone 4.
+[^5035]: BEATITUDES (Troparion 3, All Saints). Third Beatitude troparion, commemorating hierarchs, prophets, venereables, and holy women.
+[^5036]: BEATITUDES (Troparion 4, Departed). Fourth Beatitude troparion for the departed, Tone 4; Isaiah 35:10.
+[^5037]: BEATITUDES (Glory, Trinity). Trinitarian troparion (`Сла́ва:`) at the Beatitudes, confessing the indivisible and tri-hypostatic Trinity.
+[^5038]: BEATITUDES (Both now, Theotokion). Concluding Theotokion (`И҆ ны́нѣ:`) at the Beatitudes, confessing the two wills and two operations of Christ according to the Sixth Ecumenical Council; Psalm 109:3 [LXX].
+[^5039]: Scribal colophon marking the conclusion of Tone 4.
+[^5040]: LITTLE VESPERS (Lord, I have cried, Sticheron 1). First Resurrectional Sticheron at "Lord, I have cried" of Tone 5 Little Vespers, chanted twice according to the rubric; citing 1 Corinthians 15:55-56 and Psalm 9:14 [LXX].
+[^5041]: LITTLE VESPERS (Lord, I have cried, Sticheron 2). Second Resurrectional Sticheron at Little Vespers, Tone 5; Isaiah 53:7, Psalm 23:7-9 [LXX], and Isaiah 49:9.
+[^5042]: LITTLE VESPERS (Lord, I have cried, Sticheron 3). Third Resurrectional Sticheron at Little Vespers, Tone 5; Psalm 95:7 [LXX].
+[^5043]: LITTLE VESPERS (Lord, I have cried, Dogmatic Theotokion). Dogmatic Theotokion of Tone 5 Little Vespers, gathering prophetic types: the closed Eastern Gate (Ezekiel 44:1-2), the Unburnt Bush (Exodus 3:2), and the Mountain uncut by hands (Daniel 2:34-35, 45).
+[^5044]: Rubric for Tone 5 Little Vespers prescribing *O Gladsome Light*, Saturday Prokeimenon (Psalm 92:1 [LXX]), and *Vouchsafe, O Lord*, omitting the ektenia before the Aposticha.
+[^5045]: LITTLE VESPERS (Aposticha, Resurrection Sticheron, incipit). Opening of the Resurrection Sticheron at the Aposticha of Tone 5 Little Vespers, continued on physical leaf p506 (fol. 504r).
+[^5046]: LITTLE VESPERS (Aposticha, Resurrection Sticheron, conclusion). Conclusion of the Resurrection Sticheron at the Aposticha, continued from physical leaf p505 (fol. 503v).
+[^5047]: Psalm 44:18 [LXX].
+[^5048]: LITTLE VESPERS (Aposticha, Theotokion Prosomoion 1). First Theotokion Prosomoion at the Aposticha of Tone 5 Little Vespers, model *Rejoice, O container of ascetics* (`Ра́дꙋйся по́стникѡвъ`).
+[^5049]: Psalm 44:11 [LXX].
+[^5050]: LITTLE VESPERS (Aposticha, Theotokion Prosomoion 2). Second Theotokion Prosomoion at the Aposticha, confessing Christ's full humanity (rational soul and free will) and His two energies.
+[^5051]: Psalm 44:13 [LXX].
+[^5052]: LITTLE VESPERS (Aposticha, Theotokion Prosomoion 3). Third Theotokion Prosomoion at the Aposticha, stringing Patristic typological epithets: beauty of Jacob (Psalm 46:5 [LXX]), flame-bearing tongs (Isaiah 6:6), chariot of the Word, and luminous cloud.
+[^5053]: LITTLE VESPERS (Aposticha, Glory & both now, Theotokion). Concluding Theotokion at the Aposticha of Tone 5 Little Vespers, citing Ezekiel 44:2.
+[^5054]: Concluding rubric for Tone 5 Little Vespers: Canticle of Simeon (Luke 2:29-32), Trisagion, Sunday Troparion of Tone 5 (*Co-beginningless Word*), Theotokion, and Little Dismissal.
+[^5055]: GREAT VESPERS (Lord, I have cried, Sticheron 1). First Resurrectional Sticheron at "Lord, I have cried" of Tone 5 Great Vespers; 1 Corinthians 15:55-56 and Psalm 9:14 [LXX].
+[^5056]: GREAT VESPERS (Lord, I have cried, Sticheron 2). Second Resurrectional Sticheron at Great Vespers, Tone 5; Isaiah 53:7, Psalm 23:7-9 [LXX], and Isaiah 49:9.
+[^5057]: GREAT VESPERS (Lord, I have cried, Sticheron 3). Third Resurrectional Sticheron at Great Vespers, Tone 5; Psalm 95:7 [LXX].
+[^5058]: GREAT VESPERS (Lord, I have cried, Anatolian Sticheron 4). First Anatolian (Eastern) Sticheron at "Lord, I have cried", Tone 5, praising Christ as the Never-Setting Light (*nevecherniy svet*).
+[^5059]: GREAT VESPERS (Lord, I have cried, Anatolian Sticheron 5). Second Anatolian Sticheron, Tone 5; Hebrews 2:10 ("Author of salvation").
+[^5060]: GREAT VESPERS (Lord, I have cried, Anatolian Sticheron 6, incipit). Opening of the third Anatolian Sticheron at "Lord, I have cried", Tone 5, continued on physical leaf p508 (fol. 506r); Matthew 28:11-15.
+[^5061]: GREAT VESPERS (Lord, I have cried, Anatolian Sticheron 6, conclusion). Conclusion of the third Anatolian Sticheron at "Lord, I have cried", continued from physical leaf p507 (fol. 505v); exposing the bribery of the Roman guard and the evidence of the grave clothes (John 20:6-7).
+[^5062]: GREAT VESPERS (Lord, I have cried, Anatolian Sticheron 7). Fourth Anatolian Sticheron at "Lord, I have cried", Tone 5.
+[^5063]: GREAT VESPERS (Lord, I have cried, Dogmatic Theotokion). The famous Dogmatic Theotokion of Tone 5 Great Vespers (*Въ чермнѣ́мъ мо́ри*), attributed to St. John of Damascus, typologically comparing the Red Sea crossing (Exodus 14) to the Virgin's virginal conception and perpetual virginity.
+[^5064]: Rubric for the Little Entrance of Great Vespers, the evening hymn *Phos hilaron*, Prokeimenon, Ektenia, *Vouchsafe, O Lord*, and Evening Litany of Supplication.
+[^5065]: GREAT VESPERS (Aposticha, Resurrection Sticheron 1). First Resurrectional Sticheron at the Aposticha of Tone 5 Great Vespers.
+[^5066]: Psalm 92:1 [LXX].
+[^5067]: GREAT VESPERS (Aposticha, Alphabetical Sticheron 2). Second Aposticha Sticheron (first alphabetical sticheron), Tone 5, contemplating the water and blood from Christ's pierced side (John 19:34).
+[^5068]: Psalm 92:1 [LXX].
+[^5069]: GREAT VESPERS (Aposticha, Alphabetical Sticheron 3, incipit). Opening of the third Aposticha Sticheron, continued on physical leaf p509 (fol. 507r).
+[^5070]: GREAT VESPERS (Aposticha, Alphabetical Sticheron 3, conclusion). Conclusion of the third Aposticha Sticheron, continued from physical leaf p508 (fol. 506v).
+[^5071]: Psalm 92:5 [LXX].
+[^5072]: GREAT VESPERS (Aposticha, Alphabetical Sticheron 4). Fourth Aposticha Sticheron, Tone 5.
+[^5073]: GREAT VESPERS (Aposticha, Glory & both now, Theotokion). Concluding Aposticha Theotokion, Tone 5; Malachi 4:2 ("Sun of Righteousness") and Genesis 1:26-27.
+[^5074]: Rubric for the conclusion of Great Vespers: Canticle of Simeon (Luke 2:29-32) and Trisagion prayers.
+[^5075]: Apolytikion (Dismissal Troparion) of the Resurrection, Tone 5.
+[^5076]: Dismissal Theotokion of Tone 5; Ezekiel 44:2.
+[^5077]: COMPLINE CANON (Ode 1, Heirmos). Heirmos of Ode 1, Compline Canon to the Theotokos, Tone 5. Slavonic: *Конѧ̀ и҆ вса́дника въ мо́ре чермно́е...*; Greek: Ἵππον καὶ ἀναβάτην εἰς θάλασσαν Ἐρυθράν; Exodus 15:1-3.
+[^5078]: Refrain: Traditional liturgical refrain to the Mother of God throughout the canon.
+[^5079]: COMPLINE CANON (Ode 1, Troparion 1). First troparion of Ode 1, Tone 5 Compline Canon.
+[^5080]: COMPLINE CANON (Ode 1, Troparion 2). Second troparion of Ode 1, Tone 5 Compline Canon.
+[^5081]: COMPLINE CANON (Ode 1, Glory). Doxasticon Troparion (`Сла́ва:`) of Ode 1, Compline Canon to the Theotokos, Tone 5.
+[^5082]: COMPLINE CANON (Ode 1, Both now). Concluding Troparion (`И҆ ны́нѣ:`) of Ode 1, Tone 5 Compline Canon.
+[^5083]: COMPLINE CANON (Ode 3, Heirmos). Heirmos of Ode 3, Compline Canon to the Theotokos, Tone 5. Slavonic: *Водрꙋзи́вый на ничесо́мже зе́млю...*; Greek: Ὁ πήξας ἐπ' οὐδενὸς τὴν γῆν; Job 26:7 and Matthew 16:18.
+[^5084]: COMPLINE CANON (Ode 3, Troparion 1). First troparion of Ode 3, Compline Canon to the Theotokos, Tone 5.
+[^5085]: COMPLINE CANON (Ode 3, Troparion 2). Second troparion of Ode 3, Compline Canon to the Theotokos, Tone 5; Proverbs 5:22 ("cords of sins").
+[^5086]: COMPLINE CANON (Ode 3, Glory). Doxasticon Troparion (`Сла́ва:`) of Ode 3, Compline Canon to the Theotokos, Tone 5.
+[^5087]: COMPLINE CANON (Ode 3, Both now). Concluding Troparion (`И҆ ны́нѣ:`) of Ode 3, Tone 5 Compline Canon; John 4:14.
+[^5088]: COMPLINE CANON (Ode 4, Heirmos). Heirmos of Ode 4, Compline Canon to the Theotokos, Tone 5. Slavonic: *Бж҃твенное твоѐ разꙋмѣ́въ и҆стоща́нїе...*; Greek: Τὴν θείαν ἐννοήσας σου κένωσιν; Habakkuk 3:13 [LXX] and Philippians 2:7 (*kenosis*).
+[^5089]: COMPLINE CANON (Ode 4, Troparion 1). First troparion of Ode 4, Compline Canon to the Theotokos, Tone 5.
+[^5090]: COMPLINE CANON (Ode 4, Troparion 2). Second troparion of Ode 4, Compline Canon to the Theotokos, Tone 5.

@@ -1,0 +1,142 @@
+[^9055]: Canon to Saint Nicholas, Ode 9, Troparion 2.
+[^9056]: Canon to Saint Nicholas, Ode 9, Troparion 3. LXX Ps. 50:19.
+[^9057]: Canon to Saint Nicholas, Ode 9, Troparion 4. Matt. 3:8, 10.
+[^9058]: Canon to Saint Nicholas, Ode 9, Both now: Theotokion. Heb. 1:3.
+[^9059]: Rubric for the conclusion of Matins: 'Досто́йно є҆́сть: є҆ктенїа̀, свѣти́ленъ и҆ ѱалмы̀ ѻ҆бы́чныѧ.'
+[^9060]: Rubric for the Aposticha: 'На Стїхо́внѣ, стїхи̑ры А҆пⷭ҇толски, Гла́съ з҃.'
+[^9061]: Thursday Matins Aposticha, Sticheron 1 of the Apostles. Gal. 2:9; Phil. 2:15.
+[^9062]: Aposticha Psalm Verse 1: LXX Ps. 89:14, 16.
+[^9063]: Thursday Matins Aposticha, Sticheron 2 of the Apostles. Luke 9:62; Mark 4:14.
+[^9064]: Aposticha Psalm Verse 2: LXX Ps. 89:17.
+[^9065]: Thursday Matins Aposticha, Sticheron for the Martyrs (Martyrikon).
+[^9066]: Aposticha, Glory... Both now... Theotokion. Isa. 9:2; Luke 1:79.
+[^9067]: Rubric for Matins dismissal and First Hour: 'Бла́го є҆́сть: Трисвѧто́е. По Ѻ҆́тче на́шъ: тропарѝ, є҆ктенїа̀ и҆ Ча́съ пе́рвый, и҆ Ѿпѹ́стъ.'
+[^9068]: Rubric for the Beatitudes: 'Въ Четверто́къ Блаже́нна, Гла́съ з҃.'
+[^9069]: Thursday Beatitudes, Troparion 1. Gen. 2:9; 3:6; Luke 23:42; Rev. 2:7.
+[^9070]: Thursday Beatitudes, Troparion 2 (Apostles).
+[^9071]: Thursday Beatitudes, Troparion 3 (Apostles).
+[^9072]: Thursday Beatitudes, Troparion for the Martyrs (Martyrikon). Rom. 8:35.
+[^9073]: Thursday Beatitudes, Glory: Triadikon (Doxasticon to the Holy Trinity).
+[^9074]: Thursday Beatitudes, Both now: Theotokion. The printed Slavonic text interpolates 'Сн҃а' ('Son') in square brackets: 'Сопресто́лна Ѻ҆ц҃ѹ̀ [Сн҃а] чи́стаѧ Дѣ́во...'.
+[^9075]: Major Weekday opening: Friday commemoration of the Precious and Life-Giving Cross.
+[^9076]: Rubric for Friday Vespers (served on Thursday evening): 'Въ Четверто́къ ве́чера.'
+[^9077]: Rubric for Lord, I have cried: 'На Гдⷭ҇и воззва́хъ: стїхи̑ры кре́стны. Гла́съ з҃.'
+[^9078]: Melodic model heading: 'Подо́бенъ: Не ктомѹ̀ возбрана́еми є҆смы̀:' (automelon Tone 7).
+[^9079]: Friday Vespers, Stichera of the Cross on 'Lord, I have cried', Sticheron 1.
+[^9080]: Friday Vespers, Stichera of the Cross, Sticheron 2. Matt. 27:45, 51.
+[^9081]: Friday Vespers, Stichera of the Cross, Sticheron 3. Matt. 27:29.
+[^9082]: Rubric for Stichera to the Theotokos: 'И҆́ны стїхи̑ры, прест҃ѣ́й Бцⷣѣ. Гла́съ з҃.'
+[^9083]: Melodic model heading: 'Подо́бенъ: Дне́сь бди́тъ І҆ѹ́да:' (automelon Tone 7, Great Friday Matins Antiphon).
+[^9084]: Friday Vespers, Stichera to the Theotokos (Stavrotheotokia), Sticheron 1. Matt. 27:34, 38; Exod. 16:15.
+[^9085]: Friday Vespers, Stichera to the Theotokos, Sticheron 2. Matt. 27:33.
+[^9086]: Friday Vespers, Stichera to the Theotokos, Sticheron 3.
+[^9087]: Friday Vespers, Glory... Both now... Stavrotheotokion. Luke 2:35; Job 26:7; LXX Ps. 103:2.
+[^9088]: Rubric for the Entrance and Evening Prokeimenon: 'Свѣ́те ти́хїй: Прокі́менъ днѐ. Сподо́би Гдⷭ҇и:'
+[^9089]: Rubric for the Aposticha: 'На Стїхо́внѣ, стїхи̑ры кре́стны, Гла́съ з҃.'
+[^9090]: Friday Vespers Aposticha, Sticheron 1 of the Cross (automelon). Gen. 3:24.
+[^9091]: Aposticha Psalm Verse 1: LXX Ps. 122:1–2.
+[^9092]: Friday Vespers Aposticha, Sticheron 2 of the Cross. LXX Ps. 123:7.
+[^9093]: Aposticha Psalm Verse 2: LXX Ps. 122:3–4.
+[^9094]: Friday Vespers Aposticha, Sticheron for the Martyrs (Martyrikon), text begins on p833 and concludes on p834.
+[^9095]: Friday Vespers Aposticha, Glory... Both now... Stavrotheotokion. Luke 2:10–14.
+[^9096]: Rubric for Vespers conclusion: 'Ны́нѣ ѿпѹща́еши: и҆ про́чее.'
+[^9097]: Rubric for Friday Compline (served on Thursday evening): 'Въ Четверто́къ на Повече́рїи'.
+[^9098]: Rubric for the Canon to the Theotokos at Compline: 'Канѡ́нъ прест҃ѣ́й Бцⷣѣ. Гла́съ з҃.'
+[^9099]: Compline Canon, Ode 1 Heirmos: Exod. 14:27; 15:1.
+[^9100]: Refrain to the Theotokos at Compline: 'Прест҃а́ѧ Гг҃жѐ Бцⷣе, спасѝ на́съ.'
+[^9101]: Compline Canon, Ode 1, Troparion 1.
+[^9102]: Compline Canon, Ode 1, Troparion 2.
+[^9103]: Compline Canon, Ode 1, Glory: Troparion 3.
+[^9104]: Compline Canon, Ode 1, Both now: Theotokion. Amos 9:11; Acts 15:16.
+[^9105]: Compline Canon, Ode 3 Heirmos: 1 Sam. 2:2.
+[^9106]: Compline Canon, Ode 3, Troparion 1.
+[^9107]: Compline Canon, Ode 3, Troparion 2. Rom. 13:12.
+[^9108]: Compline Canon, Ode 3, Glory: Troparion 3. John 6:33, 35.
+[^9109]: Compline Canon, Ode 3, Both now: Theotokion.
+[^9110]: Compline Canon, Ode 4 Heirmos: LXX Hab. 3:2.
+[^9111]: Compline Canon, Ode 4, Troparion 1.
+[^9112]: Compline Canon, Ode 4, Troparion 2. Heb. 6:8; 12:29.
+[^9113]: Compline Canon, Ode 4, Glory: Troparion 3.
+[^9114]: Compline Canon, Ode 4, Both now: Theotokion.
+[^9115]: Compline Canon, Ode 5 Heirmos: LXX Isa. 26:9.
+[^9116]: Compline Canon, Ode 5, Troparion 1. LXX Ps. 48:13, 21.
+[^9117]: Compline Canon, Ode 5, Troparion 2.
+[^9118]: Compline Canon, Ode 5, Glory: Troparion 3.
+[^9119]: Compline Canon, Ode 5, Both now: Theotokion.
+[^9120]: Compline Canon, Ode 6 Heirmos: Jonah 2:3, 7.
+[^9121]: Compline Canon, Ode 6, Troparion 1.
+[^9122]: Compline Canon, Ode 6, Troparion 2. Luke 10:34.
+[^9123]: Compline Canon, Ode 6, Glory: Troparion 3. Gen. 3:16.
+[^9124]: Compline Canon, Ode 6, Both now: Stavrotheotokion, text begins on p835 and concludes on p836.
+[^9125]: Rubric for mid-Compline litany and Trisagion: 'Та́же, Гдⷭ҇и поми́лѹй, м҃. Сла́ва: И҆ ны́нѣ:'
+[^9126]: Compline Sessional Hymn, Tone 7.
+[^9127]: Compline Canon, Ode 7 Heirmos: Dan. 3:21, 49–50, 52.
+[^9128]: Compline Canon, Ode 7, Troparion 1.
+[^9129]: Compline Canon, Ode 7, Troparion 2.
+[^9130]: Compline Canon, Ode 7, Glory: Troparion 3. Source text includes a printed asterisk (*) after the strophe.
+[^9131]: Compline Canon, Ode 7, Both now: Theotokion.
+[^9132]: Compline Canon, Ode 8 Heirmos: Dan. 3:57–58.
+[^9133]: Compline Canon, Ode 8, Troparion 1.
+[^9134]: Compline Canon, Ode 8, Troparion 2. LXX Ps. 30:12.
+[^9135]: Compline Canon, Ode 8, Glory: Troparion 3.
+[^9136]: Compline Canon, Ode 8, Both now: Theotokion. Gen. 1:26–27; 3:17; Dan. 3:57.
+[^9137]: Compline Canon, Ode 9 Heirmos.
+[^9138]: Compline Canon, Ode 9, Troparion 1.
+[^9139]: Compline Canon, Ode 9, Troparion 2.
+[^9140]: Compline Canon, Ode 9, Glory: Troparion 3.
+[^9141]: Compline Canon, Ode 9, Both now: Theotokion. Isa. 61:10.
+[^9142]: Rubric for Compline conclusion: 'Досто́йно є҆́сть: Трисвѧто́е, по Ѻ҆́тче на́шъ: тропарѝ и҆ про́чее.'
+[^9143]: Service rubric: Friday Matins ('Въ Пато́къ Оу҆́ТРѦ').
+[^9144]: Rubric: 'По а҃-мъ стїхосло́вїи, сѣда́льны кре́стны. Гла́съ з҃.'
+[^9145]: Printed text reads 'І҆мпера́торѹ (И҆́мⷬ҇къ) на́шемѹ' ('our Emperor [Name]'), reflecting the official Austro-Hungarian Greek Catholic recension of the Lviv Stauropegion under Emperor Franz Joseph I.
+[^9146]: Friday Matins, Sessional Hymn 1 of the Cross after Kathisma 1. Isa. 60:13.
+[^9147]: Kathisma 1 Psalm Verse: LXX Ps. 98:5.
+[^9148]: Friday Matins, Sessional Hymn 2 of the Cross after Kathisma 1.
+[^9149]: Friday Matins, Glory... Both now... Stavrotheotokion after Kathisma 1.
+[^9150]: Rubric: 'По в҃-мъ стїхосло́вїи сѣда́льны. Гла́съ з҃.'
+[^9151]: Friday Matins, Sessional Hymn 1 of the Cross after Kathisma 2, text begins on p837 and concludes on p838.
+[^9152]: Kathisma 2 Psalm Verse: LXX Ps. 73:12.
+[^9153]: Friday Matins, Sessional Hymn 2 of the Cross after Kathisma 2.
+[^9154]: Kathisma 2 Psalm Verse for the Martyrs: LXX Ps. 67:36.
+[^9155]: Friday Matins, Sessional Hymn for the Martyrs after Kathisma 2 (Martyrikon).
+[^9156]: Friday Matins, Glory... Both now... Stavrotheotokion after Kathisma 2.
+[^9157]: Rubric: 'По г҃-мъ стїхосло́вїи сѣда́льны. Гла́съ з҃.'
+[^9158]: Friday Matins, Sessional Hymn 1 of the Cross after Kathisma 3.
+[^9159]: Friday Matins, Sessional Hymn 2 of the Cross after Kathisma 3. LXX Ps. 146:3.
+[^9160]: Friday Matins, Glory... Both now... Stavrotheotokion after Kathisma 3.
+[^9161]: Canon to the Precious and Life-Giving Cross of the Lord. (Whose acrostic is: Christ on the Tree hath put an end to the ancient harm.) A creation of Joseph.
+[^9162]: Friday Matins, Canon to the Cross, Ode 1 Heirmos: Exod. 14:27; 15:1.
+[^9163]: Refrain to the Precious Cross: 'Сла́ва Гдⷭ҇и крестѹ̀ твоемѹ̀, и҆ распѧ́тїю.'
+[^9164]: Canon to the Cross, Ode 1, Troparion 1. John 12:32.
+[^9165]: Canon to the Cross, Ode 1, Troparion 2. John 19:34.
+[^9166]: Canon to the Cross, Ode 1, Troparion for the Martyrs (Martyrikon).
+[^9167]: Canon to the Cross, Ode 1, Troparion 2 for the Martyrs (Martyrikon). Matt. 23:12; 1 Pet. 5:5.
+[^9168]: Canon to the Cross, Ode 1, Both now: Stavrotheotokion.
+[^9169]: Second Canon to the Most Holy Theotokos rubric: 'Дрѹгі́й Канѡ́нъ, прест҃ѣ́й Бцⷣѣ. Творе́ніе І҆ѡ́сифово. Гла́съ з҃. І҆рмо́съ то́йже.'
+[^9170]: Canon to the Theotokos, Ode 1, Troparion 1. Rom. 5:19.
+[^9171]: Canon to the Theotokos, Ode 1, Troparion 2. Luke 1:28.
+[^9172]: Canon to the Theotokos, Ode 1, Troparion 3.
+[^9173]: Canon to the Theotokos, Ode 1, Troparion 4. Gen. 12:3; Gal. 3:9.
+[^9174]: Friday Matins, Canon to the Cross, Ode 3 Heirmos: 1 Sam. 2:2.
+[^9175]: Canon to the Cross, Ode 3, Troparion 1.
+[^9176]: Canon to the Cross, Ode 3, Troparion 2. Luke 23:39–43.
+[^9177]: Canon to the Cross, Ode 3, Troparion 1 for the Martyrs (Martyrikon).
+[^9178]: Canon to the Cross, Ode 3, Troparion 2 for the Martyrs (Martyrikon).
+[^9179]: Canon to the Cross, Ode 3, Both now: Stavrotheotokion.
+[^9180]: Canon to the Theotokos, Ode 3 rubric: 'Кан: Бцⷣѣ. І҆рмо́съ то́йже.'
+[^9181]: Canon to the Theotokos, Ode 3, Troparion 1, text begins on p839 and concludes on p840. Exod. 25:8–9, 40.
+[^9182]: Canon to the Theotokos, Ode 3, Troparion 2.
+[^9183]: Canon to the Theotokos, Ode 3, Troparion 3. LXX Ps. 67:25.
+[^9184]: Canon to the Theotokos, Ode 3, Troparion 4.
+[^9185]: Friday Matins, Canon to the Cross, Ode 4 Heirmos: LXX Hab. 3:2.
+[^9186]: Canon to the Cross, Ode 4, Troparion 1. Song 1:13; 7:8; LXX Ps. 103:15.
+[^9187]: Canon to the Cross, Ode 4, Troparion 2.
+[^9188]: Canon to the Cross, Ode 4, Troparion 1 for the Martyrs (Martyrikon).
+[^9189]: Canon to the Cross, Ode 4, Troparion 2 for the Martyrs (Martyrikon). 2 Tim. 4:7–8.
+[^9190]: Canon to the Cross, Ode 4, Both now: Stavrotheotokion.
+[^9191]: Canon to the Theotokos, Ode 4 rubric: 'Кан: Бцⷣѣ. І҆рмо́съ то́йже.'
+[^9192]: Canon to the Theotokos, Ode 4, Troparion 1. LXX Hab. 3:3.
+[^9193]: Canon to the Theotokos, Ode 4, Troparion 2. Luke 1:28.
+[^9194]: Canon to the Theotokos, Ode 4, Troparion 3. Refers to the condemnation of the Nestorian heresy at the Third Ecumenical Council (Ephesus, 431 AD).
+[^9195]: Canon to the Theotokos, Ode 4, Troparion 4. LXX Ps. 44:3; Song 1:15–16.
+[^9196]: Friday Matins, Canon to the Cross, Ode 5 Heirmos catchwords: LXX Isa. 26:9.

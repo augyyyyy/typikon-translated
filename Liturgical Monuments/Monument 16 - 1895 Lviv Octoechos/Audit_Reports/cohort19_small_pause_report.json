@@ -1,0 +1,124 @@
+{
+  "timestamp": "2026-10-28T01:37:58.388511+00:00",
+  "monument_id": "1895_lviv_octoechos",
+  "cohort": 19,
+  "target_file": "1895_lviv_octoechos_cohort19_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1895_lviv_octoechos_cohort19_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1895_lviv_octoechos_cohort19_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1895_lviv_octoechos_cohort19_raw_draft.md",
+      "footnotes_file": "1895_lviv_octoechos_cohort19_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 27,
+      "definition_markers_count": 27,
+      "text_markers": [
+        "[^1567]",
+        "[^1568]",
+        "[^1569]",
+        "[^1570]",
+        "[^1571]",
+        "[^1572]",
+        "[^1573]",
+        "[^1574]",
+        "[^1575]",
+        "[^1576]",
+        "[^1577]",
+        "[^1578]",
+        "[^1579]",
+        "[^1580]",
+        "[^1581]",
+        "[^1582]",
+        "[^1583]",
+        "[^1584]",
+        "[^1585]",
+        "[^1586]",
+        "[^1587]",
+        "[^1588]",
+        "[^1589]",
+        "[^1590]",
+        "[^1591]",
+        "[^1592]",
+        "[^1593]"
+      ],
+      "definition_markers": [
+        "[^1567]",
+        "[^1568]",
+        "[^1569]",
+        "[^1570]",
+        "[^1571]",
+        "[^1572]",
+        "[^1573]",
+        "[^1574]",
+        "[^1575]",
+        "[^1576]",
+        "[^1577]",
+        "[^1578]",
+        "[^1579]",
+        "[^1580]",
+        "[^1581]",
+        "[^1582]",
+        "[^1583]",
+        "[^1584]",
+        "[^1585]",
+        "[^1586]",
+        "[^1587]",
+        "[^1588]",
+        "[^1589]",
+        "[^1590]",
+        "[^1591]",
+        "[^1592]",
+        "[^1593]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1895_lviv_octoechos_cohort19_raw_draft.md",
+      "passed": true,
+      "paragraphs": 137,
+      "headings_count": 1,
+      "headings": [
+        {
+          "line": 249,
+          "level": 2,
+          "title": "Wednesday: The Precious and Life-Giving Cross[^1590]",
+          "leaf": 190
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 181,
+        "max_leaf": 190
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 16 - 1895 Lviv Octoechos\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "total_queued_leaves": 153,
+    "unresolved_quarantines": 0
+  }
+}

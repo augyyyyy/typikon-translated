@@ -1,0 +1,111 @@
+[^2989]: Tone 3, Canon to the Most Holy Theotokos, Ode 1, Troparion 1.
+[^2990]: Tone 3, Canon to the Most Holy Theotokos, Ode 1, Troparion 2.
+[^2991]: Tone 3, Canon to the Most Holy Theotokos, Ode 1, Troparion 3.
+[^2992]: Tone 3, Canon to the Most Holy Theotokos, Ode 1, Theotokion.
+[^2993]: Tone 3, Canon of the Precious and Life-Giving Cross, Ode 3, Heirmos.
+[^2994]: Tone 3, Canon of the Precious Cross, Ode 3, Troparion 1.
+[^2995]: Tone 3, Canon of the Precious Cross, Ode 3, Troparion 2.
+[^2996]: Psalm 67:36 [LXX: 67:36; MT: 68:35].
+[^2997]: Tone 3, Canon of the Precious Cross, Ode 3, Martyrikon 1.
+[^2998]: Tone 3, Canon of the Precious Cross, Ode 3, Martyrikon 2.
+[^2999]: Tone 3, Canon of the Precious Cross, Ode 3, Stavrotheotokion.
+[^3000]: Tone 3, Canon to the Most Holy Theotokos, Ode 3, Troparion 1.
+[^3001]: Tone 3, Canon to the Most Holy Theotokos, Ode 3, Troparion 2.
+[^3002]: Tone 3, Canon to the Most Holy Theotokos, Ode 3, Troparion 3.
+[^3003]: Tone 3, Canon to the Most Holy Theotokos, Ode 3, Theotokion.
+[^3004]: Tone 3, Canon of the Precious and Life-Giving Cross, Ode 4, Heirmos.
+[^3005]: Tone 3, Canon of the Precious Cross, Ode 4, Troparion 1.
+[^3006]: Tone 3, Canon of the Precious Cross, Ode 4, Troparion 2.
+[^3007]: Psalm 67:36 [LXX: 67:36; MT: 68:35].
+[^3008]: Tone 3, Canon of the Precious Cross, Ode 4, Martyrikon 1.
+[^3009]: Tone 3, Canon of the Precious Cross, Ode 4, Martyrikon 2.
+[^3010]: Tone 3, Canon of the Precious Cross, Ode 4, Stavrotheotokion.
+[^3011]: Tone 3, Canon to the Most Holy Theotokos, Ode 4, Troparion 1.
+[^3012]: Tone 3, Canon to the Most Holy Theotokos, Ode 4, Troparion 2.
+[^3013]: Tone 3, Canon to the Most Holy Theotokos, Ode 4, Troparion 3.
+[^3014]: Tone 3, Canon to the Most Holy Theotokos, Ode 4, Theotokion.
+[^3015]: Tone 3, Canon of the Precious and Life-Giving Cross, Ode 5, Heirmos.
+[^3016]: Tone 3, Canon of the Precious Cross, Ode 5, Troparion 1.
+[^3017]: Tone 3, Canon of the Precious Cross, Ode 5, Troparion 2.
+[^3018]: Psalm 67:36 [LXX: 67:36; MT: 68:35].
+[^3019]: Tone 3, Canon of the Precious Cross, Ode 5, Martyrikon 1.
+[^3020]: Tone 3, Canon of the Precious Cross, Ode 5, Martyrikon 2.
+[^3021]: Tone 3, Canon of the Precious Cross, Ode 5, Stavrotheotokion.
+[^3022]: Tone 3, Canon to the Most Holy Theotokos, Ode 5, Troparion 1.
+[^3023]: Tone 3, Canon to the Most Holy Theotokos, Ode 5, Troparion 2.
+[^3024]: Tone 3, Canon to the Most Holy Theotokos, Ode 5, Troparion 3.
+[^3025]: Tone 3, Canon to the Most Holy Theotokos, Ode 5, Theotokion.
+[^3026]: Tone 3, Canon of the Precious and Life-Giving Cross, Ode 6, Heirmos.
+[^3027]: Tone 3, Canon of the Precious Cross, Ode 6, Troparion 1.
+[^3028]: Tone 3, Canon of the Precious Cross, Ode 6, Troparion 2.
+[^3029]: Psalm 67:36 [LXX: 67:36; MT: 68:35].
+[^3030]: Tone 3, Canon of the Precious Cross, Ode 6, Martyrikon 1.
+[^3031]: Tone 3, Canon of the Precious Cross, Ode 6, Martyrikon 2.
+[^3032]: Tone 3, Canon of the Precious Cross, Ode 6, Stavrotheotokion.
+[^3033]: Tone 3, Canon to the Most Holy Theotokos, Ode 6, Troparion 1.
+[^3034]: Tone 3, Canon to the Most Holy Theotokos, Ode 6, Troparion 2.
+[^3035]: Tone 3, Canon to the Most Holy Theotokos, Ode 6, Troparion 3.
+[^3036]: Tone 3, Canon to the Most Holy Theotokos, Ode 6, Theotokion.
+[^3037]: Tone 3, Canon of the Precious and Life-Giving Cross, Ode 7, Heirmos.
+[^3038]: Tone 3, Canon of the Precious Cross, Ode 7, Troparion 1.
+[^3039]: Tone 3, Canon of the Precious Cross, Ode 7, Troparion 2.
+[^3040]: Psalm 67:36 [LXX: 67:36; MT: 68:35].
+[^3041]: Tone 3, Canon of the Precious Cross, Ode 7, Martyrikon 1.
+[^3042]: Tone 3, Canon of the Precious Cross, Ode 7, Martyrikon 2.
+[^3043]: Tone 3, Canon of the Precious Cross, Ode 7, Stavrotheotokion.
+[^3044]: Tone 3, Canon to the Most Holy Theotokos, Ode 7, Troparion 1.
+[^3045]: Tone 3, Canon to the Most Holy Theotokos, Ode 7, Troparion 2.
+[^3046]: Tone 3, Canon to the Most Holy Theotokos, Ode 7, Troparion 3.
+[^3047]: Tone 3, Canon to the Most Holy Theotokos, Ode 7, Theotokion.
+[^3048]: Tone 3, Canon of the Precious and Life-Giving Cross, Ode 8, Heirmos.
+[^3049]: Tone 3, Canon of the Precious Cross, Ode 8, Troparion 1.
+[^3050]: Tone 3, Canon of the Precious Cross, Ode 8, Troparion 2.
+[^3051]: Psalm 67:36 [LXX: 67:36; MT: 68:35].
+[^3052]: Tone 3, Canon of the Precious Cross, Ode 8, Martyrikon 1.
+[^3053]: Tone 3, Canon of the Precious Cross, Ode 8, Martyrikon 2.
+[^3054]: Tone 3, Canon of the Precious Cross, Ode 8, Stavrotheotokion.
+[^3055]: Tone 3, Canon to the Most Holy Theotokos, Ode 8, Heirmos.
+[^3056]: Tone 3, Canon to the Most Holy Theotokos, Ode 8, Troparion 1.
+[^3057]: Tone 3, Canon to the Most Holy Theotokos, Ode 8, Troparion 2.
+[^3058]: Tone 3, Canon to the Most Holy Theotokos, Ode 8, Troparion 3.
+[^3059]: Tone 3, Canon to the Most Holy Theotokos, Ode 8, Troparion 4.
+[^3060]: Tone 3, Canon of the Precious and Life-Giving Cross, Ode 9, Heirmos.
+[^3061]: Tone 3, Canon of the Precious Cross, Ode 9, Troparion 1.
+[^3062]: Tone 3, Canon of the Precious Cross, Ode 9, Troparion 2.
+[^3063]: Psalm 67:36 [LXX: 67:36; MT: 68:35].
+[^3064]: Tone 3, Canon of the Precious Cross, Ode 9, Martyrikon 1.
+[^3065]: Tone 3, Canon of the Precious Cross, Ode 9, Martyrikon 2.
+[^3066]: Tone 3, Canon of the Precious Cross, Ode 9, Stavrotheotokion.
+[^3067]: Tone 3, Canon to the Most Holy Theotokos, Ode 9, Heirmos.
+[^3068]: Tone 3, Canon to the Most Holy Theotokos, Ode 9, Troparion 1.
+[^3069]: Tone 3, Canon to the Most Holy Theotokos, Ode 9, Troparion 2.
+[^3070]: Tone 3, Canon to the Most Holy Theotokos, Ode 9, Troparion 3.
+[^3071]: Tone 3, Canon to the Most Holy Theotokos, Ode 9, Theotokion.
+[^3072]: Standard liturgical dismissal rubric for weekday Matins.
+[^3073]: Tone 3, Aposticha Sticheron 1 (Cross).
+[^3074]: Psalm 89:14, 16 [LXX: 89:14, 16; MT: 90:14, 16].
+[^3075]: Tone 3, Aposticha Sticheron 2 (Cross).
+[^3076]: Psalm 89:17 [LXX: 89:17; MT: 90:17].
+[^3077]: Tone 3, Aposticha Martyrikon.
+[^3078]: Tone 3, Aposticha Stavrotheotokion.
+[^3079]: Tone 3, Liturgy Beatitudes, Troparion 1.
+[^3080]: Tone 3, Liturgy Beatitudes, Troparion 2.
+[^3081]: Tone 3, Liturgy Beatitudes, Troparion 3.
+[^3082]: Tone 3, Liturgy Beatitudes, Martyrikon.
+[^3083]: Tone 3, Liturgy Beatitudes, Trinity Troparion.
+[^3084]: Tone 3, Liturgy Beatitudes, Stavrotheotokion.
+[^3085]: Opening of the Thursday liturgical cycle (celebrated on Wednesday evening), dedicated to the Holy Apostles and Saint Nicholas of Myra.
+[^3086]: Tone 3, Lord, I have cried, Sticheron 1 to the Apostles.
+[^3087]: Tone 3, Lord, I have cried, Sticheron 2 to the Apostles.
+[^3088]: Tone 3, Lord, I have cried, Sticheron 3 to the Apostles.
+[^3089]: Rubric directing the singing of Stichera from the Menaion or, in its absence, the provided Octoechos Stichera to Saint Nicholas.
+[^3090]: Tone 3, Lord, I have cried, Sticheron 1 to Saint Nicholas.
+[^3091]: Tone 3, Lord, I have cried, Sticheron 2 to Saint Nicholas.
+[^3092]: Tone 3, Lord, I have cried, Sticheron 3 to Saint Nicholas.
+[^3093]: Tone 3, Lord, I have cried, Stavrotheotokion.
+[^3094]: Standard Vespers rubric directing the hymn Phos Hilaron and the daily evening Prokeimenon.
+[^3095]: Tone 3, Aposticha Sticheron 1 to the Apostles.
+[^3096]: Psalm 122:1-2 [LXX: 122:1-2; MT: 123:1-2].
+[^3097]: Tone 3, Aposticha Sticheron 2 to the Apostles.
+[^3098]: Psalm 122:3-4 [LXX: 122:3-4; MT: 123:3-4].
+[^3099]: Tone 3, Aposticha Martyrikon.

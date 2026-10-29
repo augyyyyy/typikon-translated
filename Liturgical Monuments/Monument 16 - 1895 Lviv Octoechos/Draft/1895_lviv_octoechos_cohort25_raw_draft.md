@@ -1,0 +1,307 @@
+=== LEAF p241 ===
+*On Friday at Compline, Tone 2.*
+
+*Glory...*
+*Troparion 3:* Neither an earthly tongue nor an intellect of the bodiless powers is able to tell of thy childbearing; for beyond nature and understanding, O Theotokos, didst thou give birth unto the Creator.[^2098]
+
+*Both now...*
+*Troparion 4:* Be thou a confirmation, refuge, and protection, O Virgin Birthgiver of God, unto them that in faith flee unto thee and confess thee to be the Mother of God.[^2099]
+
+*Ode 4. Heirmos:* I heard, O Lord, Thy glorious dispensation, and I glorified Thy unsearchable power, O Lover of mankind.[^2100]
+
+*Troparion 1:* We Christians have gained thee, O Theotokos, as a great help: snatch us away from grievous perils.[^2101]
+
+*Troparion 2:* O unwedded Lady, who didst conceive God in Thy womb: deliver us all from tribulations and sorrows.[^2102]
+
+*Glory...*
+*Troparion 3:* We the faithful have gained thee, O Pure One, as an invincible rampart and a mighty hope in tribulations, O Theotokos.[^2103]
+
+*Both now...*
+*Troparion 4:* Having gained thy prayer, O Lady, as a firm foundation, we are delivered from diverse afflictions.[^2104]
+
+*Ode 5. Heirmos:* O Giver of light and Creator of the ages, O Lord, guide us in the light of Thy commandments; for besides Thee we know no other God.[^2105]
+
+*Troparion 1:* Incarnate of thee, O Birthgiver of God, have we the faithful known the Son born without seed, true God and man by nature; therefore do we glorify thee.[^2106]
+
+*Troparion 2:* Under thy shelter and protection, O Most Pure One, we the faithful, ever fleeing in faith, are delivered through thee, O Theotokos, from every grievous assault.[^2107]
+
+*Glory...*
+*Troparion 3:* Deliver us from perils and from the storm of thoughts, O Most Pure One, from all wrath, from every sin, from famine and pestilence, and from eternal torment, O Virgin.[^2108]
+
+*Both now...*
+*Troparion 4:* Being our Protectress, salvation, and hope, O Lady of Christians: save them that ever faithfully sing to thee with love, O all-hymned Virgin.[^2109]
+
+*Ode 6. Heirmos:* Wallowing in the abyss of sin, I call upon the unfathomable abyss of Thy mercy: from corruption, O God, raise me up![^2110]
+
+=== LEAF p242 ===
+*On Friday at Compline, Tone 2.*
+
+*Troparion 1:* He Who by His will works all things, having by His will dwelt within the womb of the Unwedded One, hath enriched with incorruption them that were sick with corruption, as He is merciful.[^2111]
+
+*Troparion 2:* Higher than the heavenly powers and more holy art thou, O All-Immaculate One, having contained in thy womb beyond nature the uncontainable Word.[^2112]
+
+*Glory...*
+*Troparion 3:* Lead me who have strayed upon the path of life, and who through lawlessness often fall into sins, O Lady, unto the paths of repentance.[^2113]
+
+*Both now...*
+*Troparion 4:* Despise not, O Pure One, our entreaties, the servants who have placed our hope in thee; for thou art a refuge, O Lady, and the cleansing of souls.[^2114]
+
+*Then: Lord, have mercy (thrice). Glory... Both now...*
+
+*Sessional Hymn, Tone 2:*
+Thou didst conceive the Word without seed, and didst give birth unto the only Son, Christ; for thou didst bear as a new child Thine own Creator. Therefore do we magnify thee, O Theotokos.[^2115]
+
+*Ode 7. Heirmos:* Unto the golden image worshipped in the plain of Dura, Thy three youths paid no heed, disregarding the godless command; but cast into the midst of the fire, being bedewed, they sang: Blessed art Thou, O God of our fathers![^2116]
+
+*Troparion 1:* The noetic Son, consubstantial with the Father, hast thou incarnated by the power of the All-Holy Spirit, O Lady graced of God; Him, therefore, pray unceasingly to show compassion unto them that sing: Blessed art thou who didst give birth unto God in the flesh![^2117]
+
+*Troparion 2:* O pure, unwedded, holy, and blessed Virgin, the restoration of the falling, the deliverance of them that sin! save me, a prodigal, save me, crying unto thy Son: Blessed art thou who didst give birth unto God in the flesh![^2118]
+
+*Glory...*
+*Troparion 3:* A firm haven, an awesome protectress, and an impregnable rampart unto them that are in distress through necessities and tossed by the tempest in sorrow: by thy prayers unto thy Son, being the Theotokos, save thy servants from manifold temptations.[^2119]
+
+*Both now...*
+*Troparion 4:* O thou sole hope and help of the faithful, Birthgiver of God, make haste to help thy servants who are submerged by sorrows, at a loss on every side, who are in afflictions, and who flee unto thee with love of soul.[^2120]
+
+=== LEAF p243 ===
+*On Friday at Compline, Tone 2.*
+
+*Ode 8. Heirmos:* Unto God Who descended into the fiery furnace unto the Hebrew youths, and changed the flame into dew: sing, ye works, as unto the Lord, and supremely exalt Him unto all ages![^2121]
+
+*Troparion 1:* Being a living fountain, having given birth unto the Water of life, bedew my soul that is melted by the flame of sin, O Virgin Theotokos, that I may glorify thee unto all ages.[^2122]
+
+*Troparion 2:* Them that were put to death and brought down unto mortal and corruptible dust didst thou alone raise up, having given birth unto the Prince of life, Christ our God, O Lady, Virgin pure and blessed.[^2123]
+
+*Glory...*
+*Troparion 3:* Deliver me, O pure Lady, from eternal fire and condemnation, and snatch me away from evil-doing men and them that seek to entrap me, that I may ever call thee blessed, whom all creation divinely blesses.[^2124]
+
+*Both now...*
+*Troparion 4:* In the likeness of flesh was the Pre-divine One seen from thee, O pure Virgin! Him pray unceasingly to show mercy unto us who live in malice and tremble at the eternal torment.[^2125]
+
+*Ode 9. Heirmos:* God the Word from God, Who by ineffable wisdom came to renew Adam who had grievously fallen into corruption through eating, and Who was ineffably incarnate of the Holy Virgin for our sake: with one mind in hymns do we the faithful magnify Him.[^2126]
+
+*Troparion 1:* Vouchsafe me divine love for mankind, O Maiden, who alone didst ineffably give birth unto God, the Lover of mankind, Who borrowed flesh from thee; and deliver me from future flame and from every torment, who glorify thee in love.[^2127]
+
+*Troparion 2:* Having gained thee as a mighty protectress, as hope and rampart, and foundation and firm protection, and invincible confirmation and calm haven, and sovereign refuge: we all are saved, O All-Hymned One.[^2128]
+
+*Glory...*
+*Troparion 3:* O Virgin, Birthgiver of Light, drive away the clouds of my soul, and grant me purely to behold the saving beauty, O Lady, which shone forth ineffably from thy most holy womb as a light unto the nations, O All-Hymned One.[^2129]
+
+*Both now...*
+*Troparion 4:* O thou who didst bear the Divine Light, enlighten my heart that is darkened by the onslaught of many passions and alienating thoughts, O Maiden, giving me a drop...[^2130]
+
+=== LEAF p244 ===
+*On Friday at Compline, Tone 2.*
+
+*Troparion 4 (continued):* ...ever granting tears, O Virgin, which cleanse the defilement of sin.[^2131]
+
+*Then: It is truly meet; Trisagion; and after "Our Father:" the remainder as usual, and dismissal.*[^2132]
+
+*On Saturday at Matins.*
+*After the first Kathisma, Sessional Hymns of the Martyrs, Tone 2.*
+
+Having Thee as a garment in the world, Who clothest heaven with clouds, the saints endured tortures from lawless ones, and abolished the deception of idols. By their prayers free us also, O Savior, from the invisible enemy, and save us.[^2133]
+
+*Verse:* Marvelous is God in His saints, the God of Israel.[^2134]
+
+Apostles, Martyrs, and Prophets, Hierarchs, Venerables, and Righteous ones, who have fought the good fight and kept the faith, having boldness before the Savior: pray Him as good, we beseech you, on our behalf, that our souls may be saved.[^2135]
+
+*Verse:* Their souls shall dwell amid good things.[^2136]
+
+*Tone 2, Podoben: "Being the wellspring of loving-kindness" (Милосе́рдїѧ сꙋ́щи):*
+As God ruling over both the dead and the living, possessing authority over all, O Giver of life, receive the supplication of Thy servants; show Thy mercy, O Lover of mankind, and grant remission unto the souls which in hope in Thee Thou hast translated, for the sake of Thy tender-heartedness, as Thou art good.[^2137]
+
+*Glory... Both now... Theotokion:*
+All beyond understanding, all most glorious are thy mysteries, O Theotokos! Though sealed in purity and preserved in virginity, thou wast known to be an unfeigned Mother, having given birth unto the true God: Him pray, that our souls may be saved.[^2138]
+
+*After the second Kathisma, Sessional Hymns, Tone 2.*
+
+O Thou Who hast enlightened Thy saints more than gold, and hast glorified Thy venerable ones as Thou art good: being entreated by them, O Christ God, bring peace unto our life as Lover of mankind, and direct our prayer as incense, O Thou Who alone restest in the saints.[^2139]
+
+*Verse: Marvelous is God in His saints, the God of Israel.*
+
+O passion-bearers of the Lord! Blessed is the earth that was drenched with your blood, and holy are the shrines that received your bodies; for at the tribunal ye convicted the enemy, and with boldness preached Christ: Pray Him as good, we beseech you, that our souls may be saved.[^2140]
+
+=== LEAF p245 ===
+*On Saturday at Matins, Tone 2.*
+
+*Verse:* Blessed are they whom Thou hast chosen and taken to Thyself, O Lord.[^2141]
+
+Remember Thy servants, O Lord, as Thou art good, and forgive whatever sins they have committed in this life; for no one is sinless, save Thee alone, Who art able to give rest also unto the departed.[^2142]
+
+*Glory... Both now... Theotokion:*
+O Theotokos, Virgin Mary, who didst give birth unto Christ the Redeemer and Savior: pray His goodness together with the Apostles and Martyrs and Prophets, with the Venerables and Hieromartyrs, to grant us remission of sins and great mercy.[^2143]
+
+*Then we chant the Canon in the Menaion unto the Saint. After this we chant the Canon unto the Saint whose temple it is. But if it be a temple of Christ or of the Theotokos, the temple canon takes precedence. This order is observed on all Saturdays of the Tones, outside of a feast.*[^2144]
+
+*Canon to the Holy Martyrs, Hierarchs, Venerables, and for the Departed.*
+*(Whose acrostic is: Unto God's close servants do I bring praise. Joseph.)*[^2145]
+
+*Tone 2. Ode 1. Heirmos:* Having taken up the Mosaic song, cry out, O my soul: He was unto me a helper and a protector unto salvation; this is my God, and I will glorify Him![^2146]
+
+*Refrain: Holy martyrs, pray unto God for us.*
+*For the Martyrs:* Having patiently endured grievous banishments and sore wounds, O sufferers, by divine power ye drove away all deception from the ends of the earth.[^2147]
+
+*Refrain: Hierarchs of Christ, pray unto God for us.*
+*For the Hierarchs:* Ministers and Hierarchs of God, shining manifestly with noetic light, guided the fullness of all the pious unto the light of piety.[^2148]
+
+*Refrain: All ye saints, pray unto God for us.*
+*For the Venerables:* Having humbled your proud mind, O Venerable ones, ye came unto the good land; and being exalted by divine forms, ye ever help all the humble.[^2149]
+
+*Refrain: Give rest, O Lord, to the souls of Thy departed servants.*
+*For the Departed:* As God, show forth as partakers of the most radiant light and eternal gladness Thy faithful servants whom Thou hast translated from temporal things, O our most good God.[^2150]
+
+*Theotokion:* Having valiantly and patiently contested by fasting, the venerable women cast down the enemy, and with thee, O Birthgiver of God, they stand rejoicing.[^2151]
+
+=== LEAF p246 ===
+*On Saturday at Matins, Tone 2.*
+
+*Second Canon for the Departed, chanted in order where there is no Menaion.*
+*(Whose acrostic is: For the dead a second hymn do I weave.) A work of Theophanes.*[^2152]
+
+*Tone 2. Ode 1. Heirmos:* Unto Him Who by His divine command dried up the impassable billowing sea, and guided the Israelite people to go on foot through it, let us sing unto the Lord; for He is gloriously glorified.[^2153]
+
+*Refrain: Marvelous is God in His saints, the God of Israel.*
+*Troparion 1:* Trampling down death by Thy death, Thou didst pour forth the ever-existing flow of divine life; grant this, O Good One, unto the souls of the departed, bestowing remission of transgressions through the entreaties of Thy martyrs.[^2154]
+
+*Refrain: Give rest, O Lord, to the souls of Thy departed servants.*
+*Troparion 2:* O Thou Who ever pourest forth rich mercy unto them that ever piously receive Thee in Thy house, O Christ, in Thy marvelous tabernacle: grant a place of refreshment, O Master, unto Thy servants, as Thou art tender-hearted.[^2155]
+
+*Glory...*
+*Troparion 3:* Thou wast mightier than death, O Christ; therefore, having bound it, Thou didst deliver us; and now deliver the departed from this corruption, as Thou art good, and grant them communion in Thy radiance.[^2156]
+
+*Both now...*
+*Theotokion:* Having established my wavering mind, O Mother of God, strengthen me by the divine commandments of Him Who was born of thy consecrated womb, and Who abolished, O Lady, the gloomy kingdom of Hades.[^2157]
+
+*Canon 1. Ode 3. Heirmos:* My barren mind show Thou fruitful, O God, Husbandman of noble things and Planter of good things, by Thy tender-heartedness.[^2158]
+
+*Refrain: Holy martyrs, pray unto God for us.*
+*For the Martyrs:* Having been ignited with the fire of Christ's love, O passion-bearers, ye quenched the burning of tortures by the dewing of the All-Working Spirit.[^2159]
+
+*Refrain: Hierarchs of Christ, pray unto God for us.*
+*For the Hierarchs:* O most holy Hierarchs of Christ, and venerable assemblies of the monastics: entreat God, the Lover of mankind, on behalf of us all.[^2160]
+
+*Refrain: All ye saints, pray unto God for us.*
+*For the Prophets and Holy Women:* The most sacred choir of the divine prophets was magnified, and the multitude of women who valiantly suffered attained glory.[^2161]
+
+*Refrain: Give rest, O Lord, to the souls of Thy departed servants.*
+*For the Departed:* Being put to death upon the Cross, O Christ, Thou didst bestow im-...[^2162]
+
+=== LEAF p247 ===
+*On Saturday at Matins, Tone 2.*
+
+*For the Departed (continued):* ...-mortality unto the dead; which grant them to obtain, who in faith have departed unto Thee.[^2163]
+
+*Glory... Both now... Theotokion:*
+Together with all the Prophets and the consecrated women, now earnestly entreat God Who was born of thee, O Virgin, to show compassion unto us.[^2164]
+
+*Canon 2. Ode 3. Heirmos:* Having established me upon the rock of faith, Thou hast enlarged my mouth over mine enemies; for my spirit hath rejoiced when singing: There is none holy as our God, and none righteous besides Thee, O Lord![^2165]
+
+*Troparion 1:* Vouchsafe them that in faith have fallen asleep to be illuminated with the radiance of Thy beauty together with Thy martyrs, O Thou Who art rich in mercy; for Thou art our God, and none is righteous besides Thee, O Lord.[^2166]
+
+*Troparion 2:* In the place of refreshment, in the bosom of Thine elect Abraham, grant Thy servants to dwell, as Thou art compassionate, who cry unto Thee: Thou art our God, and none is righteous besides Thee, O Lord.[^2167]
+
+*Glory...*
+*Troparion 3:* Receive Thy servants bearing lamps to dwell in the heavenly bridal chambers, having entered together with the wise virgins, O Master, whom by Thy will Thou hast translated from temporal things, O only Lover of mankind.[^2168]
+
+*Both now...*
+*Theotokion:* Me who was deadened and returned unto the earth hast thou raised up, having given birth unto the Giver of life; and thou hast brought me up from the lowest Hades, who in faith glorify thee as Theotokos and venerate thee, O most pure and all-hymned Lady.[^2169]
+
+*Canon 1. Ode 4. Heirmos:* Foreseeing Thy birth of the Virgin, the Prophet proclaimed, crying: I heard Thy report, and was afraid; for from the south, from the holy and shaded mountain, art Thou come, O Christ![^2170]
+
+*Troparion 1:* Being well likened unto Christ's sufferings, the glorious passion-bearers, stretched out under many tortures, rejoiced looking unto the eternal rewards; which having received, they are ever called blessed.[^2171]
+
+*Troparion 2:* Keeping the laws of the Spirit, O high priests, ye most wisely shepherded the people, as excellent pilots, in the divine harbor; and having transferred from worldly turmoils, ye passed over unto the quietude of life.[^2172]
+
+*Troparion 3:* Strangers were ye revealed upon the earth, O fathers, having transferred your life unto the heavens, as it is written, devout-...[^2173]
+
+=== LEAF p248 ===
+*On Saturday at Matins, Tone 2.*
+
+*For the Venerables (continued):* ...-ly wise, and having curbed the carnal passions through the pains of self-restraint by the power of Christ.[^2174]
+
+*For the Departed:* Whomsoever Thou hast translated, O Master, from temporal life—a numerous multitude that served Thee in the Orthodox faith, O Word—uniting them with the multitude of all the saved, vouchsafe them eternal life.[^2175]
+
+*Glory...*
+*For the Holy Women:* Desiring divine mortification which truly mediates endless life, by reason of tortures and afflictions and acts of abstinence the honorable women attained unto it, praying Christ and God on our behalf.[^2176]
+
+*Both now...*
+*Theotokion:* The Prophet Habakkuk, O Theotokos, sees thee as a mountain overshadowed with virtues, from which God ineffably appeared, covering the heavens with His virtue and saving the human race from corruption.[^2177]
+
+*Canon 2. Ode 4. Heirmos:* I sing to Thee, for I heard Thy report, O Lord, and was afraid; for unto me dost Thou come, seeking me who had strayed. Therefore Thy great condescension toward me do I glorify, O Plenteous in mercy![^2178]
+
+*Troparion 1:* Them that have lived in hope and love and with an Orthodox mind vouchsafe Thy glory which surpasses the mind, O Christ, through Thy manifold love for mankind and through the entreaties of the chosen martyrs.[^2179]
+
+*Troparion 2:* As Thou possessest an ever-flowing torrent of sweetness, Thou ever givest drink unto the elect, O Lord! With them also now feed those translated unto Thee, O Christ, by Thine ineffable mercy beside the waters of forgiveness.[^2180]
+
+*Glory...*
+*Troparion 3:* Thou art Lord over the living, O Master, and rulest over the dead; Thou by Thy power shalt resurrect the dust that is in the earth. Therefore settle those who have come unto Thee in Thy courts, O Savior.[^2181]
+
+*Both now...*
+*Theotokion:* Thou hast healed Eve's crushing and ancient misery; for thou didst give birth unto the Creator Who is able to restore us who were cast down by transgressions, O Birthgiver of God, sole Virgin Mother.[^2182]
+
+*Canon 1. Ode 5. Heirmos:* Having dispersed the gloom of my soul, O my Savior, enlighten me with the light of Thy commandments, as the only King of peace.[^2183]
+
+*Troparion 1:* Having loved Thee, O Compassionate One, the noble passion-bearers hated all worldly things, mingling with tortures through renunciation of the flesh.[^2184]
+
+=== LEAF p249 ===
+*On Saturday at Matins, Tone 2.*
+
+*For the Hierarchs & Monastics:* Hierarchs, Prophets, venerable God-bearers, with spiritual rays ye enlighten the world, dispelling the darkness of passions.[^2185]
+
+*For All Saints:* Venerable Fathers, Prophets, High Priests, and ever-memorable women, earnestly entreat Thee, the Master of all, on our behalf.[^2186]
+
+*Glory...*
+*For the Departed:* We pray Thee, O Word: having numbered with the choir of Thine elect those whom Thou hast taken from us, show them forth as partakers of the better life.[^2187]
+
+*Both now...*
+*Theotokion:* O most pure Virgin Mother, the praise of Martyrs, Venerables, and Righteous ones: snatch us away from every torment of the evil one.[^2188]
+
+*Canon 2. Ode 5. Heirmos:* O Giver of light and Creator of the ages, O Lord, guide us in the light of Thy commandments; for besides Thee we know no other God.[^2189]
+
+*Troparion 1:* Us who were deadened and laid in corruption hast Thou brought up from the dark treasuries of Hades, and hast snatched away, O Good One, uniting us unto the armies of the holy angels.[^2190]
+
+*Troparion 2:* Since Thou camest, O Christ, that Thou mightest save us: receive now those who have piously been translated unto Thee, as Thou art alone good, and settle them in the bosom of Abraham with Lazarus.[^2191]
+
+*Glory...*
+*Troparion 3:* Thou hast dissolved, O Master, my ancient and long-standing warfare, when Thou previously becamest a Mediator and Intercessor of reconciliation; and now having shown compassion unto Thy servants, give them rest.[^2192]
+
+*Both now...*
+*Theotokion:* Under thy shelter, O Mother of God, they that hope in thee are saved; for thou didst give birth for us unto the Giver of life, Who quickens all things by His will.[^2193]
+
+*Canon 1. Ode 6. Heirmos:* In the abyss of sin am I held, O my Savior, and in the deep of life am I tossed by the tempest. But as Jonah from the monster, lead me up also from the passions, and save me![^2194]
+
+*Troparion 1:* By strength of heart the sufferers, having set themselves in array against the enemy, cast him down, and received from God crowns of victory; and now they earnestly pray for all earthborn mortals.[^2195]
+
+*Troparion 2:* Let us faithfully honor the hierarchs of God, and call His venerable ones bles-...[^2196]
+
+=== LEAF p250 ===
+*On Saturday at Matins, Tone 2.*
+
+*For the Hierarchs & Monastics (continued):* ...-sed, being saved by their entreaties from all wrath and affliction and assault of the enemy.[^2197]
+
+*For the Holy Women:* The divine choir of women suffered, and in fasting was well-pleasing unto God, and obtained the Kingdom of heaven; by their prayers show compassion, O God, unto Thy world.[^2198]
+
+*Glory... For the Departed:*
+O Christ, Giver of life, Who didst fashion man from the earth: give rest unto those whom Thou hast translated from us, granting them remission of evil deeds, as Thou art merciful and Lover of mankind.[^2199]
+
+*Both now... Theotokion:*
+O Holy Theotokos, sanctify our thoughts and strengthen our mind, and save us unwounded from the darts of the evil one, who glorify thy majesties, O All-Hymned One.[^2200]
+
+*Canon 2. Ode 6. Heirmos:* Wallowing in the abyss of sin, I call upon the unfathomable abyss of Thy mercy: from corruption, O God, raise me up![^2201]
+
+*Troparion 1 (Twice):* Vouchsafe those whom Thou hast translated from the earth by Thy all-working will, O Lover of mankind, unto the ineffable and divine brightness where the ranks of martyrs abide.[^2202]
+
+*Glory...*
+*Troparion 2:* Vouchsafe those who have left this life to be illuminated by the beauty of Thy glory, and give rest unto them that have passed over unto Thine ineffable light, O Master.[^2203]
+
+*Both now...*
+*Theotokion:* Earnestly appear delivering them that call upon thee, O most pure Lady, who didst give birth unto God Who hath dominion over life and death.[^2204]
+
+*Canon 1. Ode 7. Heirmos:* Imitating the Cherubim, the youths in the furnace danced, crying: Blessed art Thou, O God, for in truth and judgment hast Thou brought all these things upon us for our sins, O supremely praised and supremely glorified unto all ages![^2205]
+
+*Troparion 1:* By patient endurance the saints cast down Beliar, enduring every temptation of bitter torments, for truly they loved God Who suffered for our sins. By their prayers save us all, O Word, from perils and afflictions, who glorify Thee.[^2206]
+
+*Troparion 2:* Radiant Hierarchs, and Venerables, and Prophets, and the glorious multitude of Hieromartyrs, and the consecrated assembly of holy women who shone forth valiantly in suffering and in fasting: ever make supplication unto God on our behalf, that He may have mercy upon us.[^2207]
+
+*Troparion 3:* The multitude of martyrs entreats Thee, O Christ Benefactor: from all...[^2208]

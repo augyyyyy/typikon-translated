@@ -1,0 +1,122 @@
+[^10368]: Physical leaf p941 corresponds to printed folio 934 (цл҃д). This sticheron concludes from the previous folio (p940), completing the first Aposticha sticheron to the holy Apostles.
+[^10369]: LXX Ps. 122:1–2a.
+[^10370]: Second sticheron to the Apostles at the Aposticha of Wednesday evening.
+[^10371]: LXX Ps. 122:3a, 4.
+[^10372]: Hymn to the holy Martyrs at the Aposticha, echoing Philippians 4:8.
+[^10373]: Theotokion concluding the Aposticha of Wednesday evening.
+[^10374]: Standard rubrical dismissal order concluding Wednesday Vespers.
+[^10375]: Office heading for Wednesday evening Compline in Tone 8.
+[^10376]: Supplicatory Canon to the Most Holy Theotokos appointed for Wednesday Compline in Tone 8.
+[^10377]: Heirmos of Ode 1, Tone 8; based on Exodus 15:1–19.
+[^10378]: Liturgical refrain appointed before the troparia of the canon to the Theotokos.
+[^10379]: First troparion of Ode 1.
+[^10380]: Second troparion of Ode 1; Slavonic ша́ръ translates Greek χρῶμα (color, dye, tint), referring to the multi-colored royal vesture.
+[^10381]: Third troparion of Ode 1, continuing on the following folio (p942).
+[^10382]: Physical leaf p942 corresponds to printed folio 935 (цл҃е). Conclusion of Troparion 3 of Ode 1 from the preceding folio.
+[^10383]: Fourth troparion of Ode 1.
+[^10384]: Heirmos of Ode 3, Tone 8; based on 1 Kingdoms (1 Samuel) 2:2.
+[^10385]: First troparion of Ode 3.
+[^10386]: Second troparion of Ode 3.
+[^10387]: Third troparion of Ode 3.
+[^10388]: Fourth troparion of Ode 3; imagery from Numbers 17:8 and Isaiah 6:6.
+[^10389]: Heirmos of Ode 4, Tone 8; based on Habakkuk 3:2–19.
+[^10390]: First troparion of Ode 4; typological imagery of the Ark of the Covenant.
+[^10391]: Second troparion of Ode 4.
+[^10392]: Third troparion of Ode 4, continuing on the following folio (p943).
+[^10393]: Physical leaf p943 corresponds to printed folio 936 (цл҃ѕ). Conclusion of Troparion 3 of Ode 4 from the preceding folio.
+[^10394]: Fourth troparion of Ode 4.
+[^10395]: Heirmos of Ode 5, Tone 8; based on Isaiah 26:9–20.
+[^10396]: First troparion of Ode 5.
+[^10397]: Second troparion of Ode 5.
+[^10398]: Third troparion of Ode 5.
+[^10399]: Fourth troparion of Ode 5.
+[^10400]: Heirmos of Ode 6, Tone 8; based on Jonah 2:1–10.
+[^10401]: First troparion of Ode 6.
+[^10402]: Second troparion of Ode 6.
+[^10403]: Third troparion of Ode 6, continuing on the following folio (p944).
+[^10404]: Physical leaf p944 corresponds to printed folio 937, though the printer erroneously numbered this leaf 942 (цм҃в) in the header. Fourth troparion of Ode 6.
+[^10405]: Rubric appointing the small litany and doxology between Odes 6 and 7.
+[^10406]: Sessional hymn to the Theotokos sung after Ode 6.
+[^10407]: Heirmos of Ode 7, Tone 8; based on Daniel 3:26–56.
+[^10408]: First troparion of Ode 7.
+[^10409]: Second troparion of Ode 7.
+[^10410]: Third troparion of Ode 7; referencing LXX Psalm 44:13.
+[^10411]: Fourth troparion of Ode 7.
+[^10412]: Heirmos of Ode 8, Tone 8; based on Daniel 3:57–88.
+[^10413]: First troparion of Ode 8, continuing on the following folio (p945).
+[^10414]: Physical leaf p945 corresponds to printed folio 943 (цм҃г). Conclusion of Troparion 1 of Ode 8 from the preceding folio.
+[^10415]: Second troparion of Ode 8.
+[^10416]: Third troparion of Ode 8.
+[^10417]: Fourth troparion of Ode 8.
+[^10418]: Heirmos of Ode 9, Tone 8; based on the Magnificat (Luke 1:46–55).
+[^10419]: First troparion of Ode 9.
+[^10420]: Second troparion of Ode 9; Slavonic оу҆до́бь translates Greek εὐχερῶς (easily, readily).
+[^10421]: Third troparion of Ode 9, continuing on the following folio (p946).
+[^10422]: Physical leaf p946 corresponds to printed folio 944 (цм҃д). Fourth troparion of Ode 9, concluding the Supplicatory Canon to the Theotokos at Wednesday Compline.
+[^10423]: Dismissal order concluding Compline.
+[^10424]: Office heading for Thursday Matins in Tone 8.
+[^10425]: Rubric appointing sessional hymns of the Apostles after the First Kathisma stichology at Matins.
+[^10426]: First sessional hymn to the holy Apostles.
+[^10427]: LXX Ps. 18:5a.
+[^10428]: Second sessional hymn to the holy Apostles.
+[^10429]: Theotokion following the sessional hymns after the First Kathisma.
+[^10430]: Rubric appointing sessional hymns after the Second Kathisma stichology.
+[^10431]: First sessional hymn after the Second Kathisma, continuing on the following folio (p947).
+[^10432]: Physical leaf p947 corresponds to printed folio 945 (цм҃е). Conclusion of the first sessional hymn after the Second Kathisma from the preceding folio.
+[^10433]: LXX Ps. 88:6a.
+[^10434]: Second sessional hymn after the Second Kathisma, honoring the Apostles.
+[^10435]: LXX Ps. 67:36a.
+[^10436]: Hymn to the holy Martyrs after the Second Kathisma.
+[^10437]: Theotokion concluding the Second Kathisma sessional hymns.
+[^10438]: Rubric appointing sessional hymns after the Third Kathisma stichology.
+[^10439]: Melodic model heading: Podoben to the automelon 'That which was commanded mystically' (Τὸ προσταχθὲν μυστικῶς / Повелѣ́нное та́инственно).
+[^10440]: First sessional hymn to the Apostles after the Third Kathisma.
+[^10441]: Second sessional hymn to the Apostles after the Third Kathisma.
+[^10442]: Theotokion concluding the sessional hymns of the Third Kathisma.
+[^10443]: Physical leaf p948 corresponds to printed folio 946 (цм҃ѕ). Title of the First Canon at Matins, dedicated to the holy Apostles.
+[^10444]: Acrostic: Greek Χορὸς με σῴζει τῶν σοφῶν Ἀποστόλων. Composed by Saint Joseph the Hymnographer.
+[^10445]: Heirmos of Ode 1, Tone 8; based on Exodus 14:21–31.
+[^10446]: Liturgical refrain appointed for the canon to the Apostles.
+[^10447]: First troparion of Ode 1 of the Canon to the Apostles.
+[^10448]: Second troparion of Ode 1 of the Canon to the Apostles.
+[^10449]: Third troparion of Ode 1 of the Canon to the Apostles.
+[^10450]: Theotokion of Ode 1 of the Canon to the Apostles.
+[^10451]: Title of the Second Canon at Matins, dedicated to Saint Nicholas the Wonderworker.
+[^10452]: Acrostic: Greek Σοὶ Νικόλαε προσφόρει τὸ ὄγдоον ᾆσμα. Composed by Saint Joseph the Hymnographer.
+[^10453]: Heirmos of Ode 1, Tone 8; based on Exodus 14.
+[^10454]: Liturgical refrain appointed for the canon to Saint Nicholas.
+[^10455]: First troparion of Ode 1 of the Canon to Saint Nicholas.
+[^10456]: Second troparion of Ode 1 of the Canon to Saint Nicholas.
+[^10457]: Third troparion of Ode 1 of the Canon to Saint Nicholas, continuing on the following folio (p949).
+[^10458]: Physical leaf p949 corresponds to printed folio 947 (цм҃з). Conclusion of Troparion 3 of Ode 1 of the Canon to Saint Nicholas from the preceding folio.
+[^10459]: Theotokion of Ode 1 of the Canon to Saint Nicholas.
+[^10460]: Heirmos of Ode 3, Tone 8; common to both canons.
+[^10461]: First troparion of Ode 3 of the Canon to the Apostles.
+[^10462]: Second troparion of Ode 3 of the Canon to the Apostles.
+[^10463]: Third troparion of Ode 3 of the Canon to the Apostles.
+[^10464]: Theotokion of Ode 3 of the Canon to the Apostles.
+[^10465]: Rubric appointing Ode 3 of the Canon to Saint Nicholas to be chanted to the same heirmos.
+[^10466]: First troparion of Ode 3 of the Canon to Saint Nicholas.
+[^10467]: Second troparion of Ode 3 of the Canon to Saint Nicholas.
+[^10468]: Third troparion of Ode 3 of the Canon to Saint Nicholas.
+[^10469]: Theotokion of Ode 3 of the Canon to Saint Nicholas.
+[^10470]: Heirmos of Ode 4, Tone 8; based on Habakkuk 3:2.
+[^10471]: First troparion of Ode 4 of the Canon to the Apostles.
+[^10472]: Second troparion of Ode 4 of the Canon to the Apostles.
+[^10473]: Third troparion of Ode 4 of the Canon to the Apostles; imagery of horses in Habakkuk 3:15.
+[^10474]: Physical leaf p950 corresponds to printed folio 948 (цм҃и). Theotokion of Ode 4 of the Canon to the Apostles.
+[^10475]: Rubric appointing Ode 4 of the Canon to Saint Nicholas to be chanted to the same heirmos.
+[^10476]: First troparion of Ode 4 of the Canon to Saint Nicholas.
+[^10477]: Second troparion of Ode 4 of the Canon to Saint Nicholas.
+[^10478]: Third troparion of Ode 4 of the Canon to Saint Nicholas, referencing Saint Nicholas's rescue of the three innocent men condemned to death.
+[^10479]: Theotokion of Ode 4 of the Canon to Saint Nicholas.
+[^10480]: Heirmos of Ode 5, Tone 8; based on Isaiah 26:9.
+[^10481]: First troparion of Ode 5 of the Canon to the Apostles.
+[^10482]: Second troparion of Ode 5 of the Canon to the Apostles. The printed text contains the misprint 'А҆́г҃ли' (Angels) for 'А҆́пли' (Apostles).
+[^10483]: Third troparion of Ode 5 of the Canon to the Apostles.
+[^10484]: Theotokion of Ode 5 of the Canon to the Apostles.
+[^10485]: Rubric appointing Ode 5 of the Canon to Saint Nicholas to be chanted to the same heirmos.
+[^10486]: First troparion of Ode 5 of the Canon to Saint Nicholas.
+[^10487]: Second troparion of Ode 5 of the Canon to Saint Nicholas; playing on the Greek name of Myra (Μύρα) and 'myrrh' / fragrance (μύρον).
+[^10488]: Third troparion of Ode 5 of the Canon to Saint Nicholas.
+[^10489]: Theotokion of Ode 5 of the Canon to Saint Nicholas.

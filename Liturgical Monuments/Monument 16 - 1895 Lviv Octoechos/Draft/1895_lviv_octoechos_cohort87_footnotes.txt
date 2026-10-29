@@ -1,0 +1,104 @@
+[^9464]: Concluding phrase of the first Sticheron to the Martyrs at the Aposticha of Saturday Matins, Tone 7, completed from physical leaf p860.
+[^9465]: Second Sticheron to the Martyrs at the Aposticha of Saturday Matins, Tone 7.
+[^9466]: Third Sticheron to the Martyrs at the Aposticha of Saturday Matins, Tone 7.
+[^9467]: Fourth Sticheron to the Martyrs at the Aposticha of Saturday Matins, Tone 7.
+[^9468]: Nekrosimon (Sticheron to the Departed), Tone 7.
+[^9469]: Doxastikon (Glory) to the Departed at the Aposticha of Saturday Matins, Tone 7.
+[^9470]: Theotokion (Both now) at the Aposticha of Saturday Matins, Tone 7.
+[^9471]: Rubric for the Stichera to the Departed (*На Стїхо́внѣ, стїхи̑ры ме́ртвенны*) in Tone 7, set to the melodic model *Неради́вше* (*Having disregarded temporal things*).
+[^9472]: First Sticheron to the Departed in Tone 7.
+[^9473]: Psalm verse: LXX Ps. 64:5 (*Блаже́ни, ꙗ҆́же и҆збра́лъ, и҆ прїѧ́лъ є҆сѝ Гдⷭ҇и* / *Blessed are they whom Thou hast chosen and taken to Thyself, O Lord*).
+[^9474]: Second Sticheron to the Departed in Tone 7, opening on physical leaf p861 and continuing onto physical leaf p862.
+[^9475]: Conclusion of the second Sticheron to the Departed, completed from physical leaf p861.
+[^9476]: Psalm verse: LXX Ps. 24:13 (*Дꙋ́ши и҆́хъ во благи́хъ водворѧ́тсѧ* / *Their souls shall dwell amid good things*).
+[^9477]: Third Sticheron to the Departed in Tone 7.
+[^9478]: Theotokion (Glory... both now...) concluding the Aposticha to the Departed, Tone 7.
+[^9479]: Rubric for the Beatitudes (Blazhenna) on Saturday in Tone 7 (*Въ Сꙋббѡ́тꙋ Блаже́нна, Гла́съ з҃*).
+[^9480]: First Troparion of the Saturday Beatitudes, Tone 7.
+[^9481]: Second Troparion of the Saturday Beatitudes, Tone 7 (to the holy Martyrs).
+[^9482]: Third Troparion of the Saturday Beatitudes, Tone 7 (to the Hierarchs, Venerable, and Righteous).
+[^9483]: Fourth Troparion of the Saturday Beatitudes, Tone 7 (for the Departed).
+[^9484]: Triadikon (Glory) of the Saturday Beatitudes in Tone 7, opening on physical leaf p862 and concluding on physical leaf p863.
+[^9485]: Conclusion of the Triadikon (Glory) of the Saturday Beatitudes, completed from physical leaf p862.
+[^9486]: Theotokion (Both now) of the Saturday Beatitudes in Tone 7.
+[^9487]: Codicological note: An engraved ornamental baroque vignette with floral scrollwork and arabesques marks the formal conclusion of the liturgical cycle of Tone 7 on physical leaf p863 (printed fol. 856).
+[^9488]: Codicological note: An engraved ornamental baroque headpiece frieze with medallions depicting the Annunciation, the Crucifixion of Christ, and the Mother of God with the Christ Child, amidst ornate arabesques and foliate scrollwork, marks the formal opening of Tone 8 on physical leaf p864 (printed fol. 856 verso).
+[^9489]: Rubric for Saturday Little Vespers in Tone 8 (*ВЪ СꙊББѠ́ТꙊ ВЕ́ЧЕРА. На Ма́лѣй Вече́рни. На Гдⷭ҇и воззва́хъ: стїхи̑ры воскре́сны. Гла́съ и҃*).
+[^9490]: First Resurrection Sticheron at Little Vespers, Tone 8, chanted twice.
+[^9491]: Second Resurrection Sticheron at Little Vespers, Tone 8.
+[^9492]: Dogmatic Theotokion (Glory... both now...) at "Lord, I have cried" of Little Vespers, Tone 8, expounding the Dyothelite and Chalcedonian dogma of Christ's two natures, two wills, and two operations.
+[^9493]: Rubric for the Aposticha at Little Vespers, Tone 8 (*На Стїхо́внѣ, стїхи̑ра воскре́сна. Гла́съ и҃*).
+[^9494]: Resurrection Sticheron at the Aposticha of Little Vespers, Tone 8.
+[^9495]: Rubric for the Stichera to the Most Holy Theotokos at the Aposticha of Little Vespers, Tone 8, set to the melodic model *Ѡ҆ пресла́внагѡ чудесѐ* (*O most marvelous wonder*).
+[^9496]: Psalm verse: LXX Ps. 44:18 (*Поманꙋ̀ и҆́мѧ твоѐ во всѧ́комъ ро́дѣ и҆ ро́дѣ* / *I will remember thy name in every generation and generation*).
+[^9497]: First Sticheron to the Most Holy Theotokos at the Aposticha of Little Vespers, Tone 8, opening on physical leaf p864 and concluding on physical leaf p865.
+[^9498]: Conclusion of the first Sticheron to the Most Holy Theotokos at the Aposticha of Little Vespers, Tone 8, completed from physical leaf p864.
+[^9499]: Psalm verse: LXX Ps. 44:11 (*Слы́ши дщѝ, и҆ ви́ждь, и҆ приклонѝ ᲂу҆́хо твоѐ* / *Hear, O daughter, and see, and incline thine ear*).
+[^9500]: Second Sticheron to the Most Holy Theotokos at the Aposticha of Little Vespers, Tone 8.
+[^9501]: Psalm verse: LXX Ps. 44:13 (*Лицꙋ̀ твоемꙋ̀ помо́лѧтсѧ бога́тіи лю́дстіи* / *Before thy face shall the rich among the people make their supplication*).
+[^9502]: Third Sticheron to the Most Holy Theotokos at the Aposticha of Little Vespers, Tone 8.
+[^9503]: Dogmatic Theotokion (Glory... both now...) at the Aposticha of Little Vespers, Tone 8 (*Е҆го́же не́бо не вмѣстѝ*).
+[^9504]: Concluding rubrics of Little Vespers: Prayer of St. Symeon the God-receiver (*Nunc Dimittis*), Trisagion prayers, Resurrection Troparion of Tone 8 (*Сꙇ высоты̀ снизше́лъ є҆сѝ*), Theotokion (*И҆́же на́съ ра́ди*), Litany, and Dismissal.
+[^9505]: Codicological note: An engraved ornamental baroque vignette with floral motifs marks the conclusion of Saturday Little Vespers in Tone 8 on physical leaf p865 (printed fol. 857).
+[^9506]: Monumental rubric opening Saturday Great Vespers in Tone 8 (*ВЪ СꙊББѠ́ТꙊ НА ВЕЛИ́ЦѢЙ ВЕЧЕ́РНИ. На Гдⷭ҇и воззва́хъ: поста́вимъ стїхѡ́въ і҃. и҆ пое́мъ стїхи̑ры воскре́сны. Гла́съ и҃*).
+[^9507]: First Resurrection Sticheron at "Lord, I have cried," Tone 8.
+[^9508]: Second Resurrection Sticheron at "Lord, I have cried," Tone 8.
+[^9509]: Third Resurrection Sticheron at "Lord, I have cried," Tone 8.
+[^9510]: Rubric for the Eastern (Anatolian) Stichera at "Lord, I have cried," Tone 8 (*И҆́ны стїхи̑ры, восто́чны (А҆нато́лїевы). Гла́съ то́йже*).
+[^9511]: Fourth Sticheron (First Anatolian) at "Lord, I have cried," Tone 8.
+[^9512]: Fifth Sticheron (Second Anatolian) at "Lord, I have cried," Tone 8.
+[^9513]: Sixth Sticheron (Third Anatolian) at "Lord, I have cried," Tone 8.
+[^9514]: Seventh Sticheron (Fourth Anatolian) at "Lord, I have cried," Tone 8.
+[^9515]: Rubric for the Stichera to the Most Holy Theotokos authored by Paul of Amorion (*Па́вла А҆морре́йскагѡ*), Tone 4, set to the melodic model *Ꙗ҆́кѡ до́бла* (*As one valiant among martyrs*).
+[^9516]: Eighth Sticheron (First to the Theotokos) at "Lord, I have cried," Tone 8, opening on physical leaf p866 and concluding on physical leaf p867.
+[^9517]: Conclusion of the eighth Sticheron (First to the Theotokos), completed from physical leaf p866.
+[^9518]: Ninth Sticheron (Second to the Theotokos) at "Lord, I have cried," Tone 8.
+[^9519]: Tenth Sticheron (Third to the Theotokos) at "Lord, I have cried," Tone 8.
+[^9520]: Solemn Dogmatic Theotokion (Glory... both now...) of Tone 8 (*Ца́рь небе́сный за человѣколю́бїе на землѝ ꙗ҆ви́сѧ* / *The King of heaven, through His love for mankind, appeared on earth*), composed by St. John of Damascus.
+[^9521]: Rubric for the Lucernarium entrance (*Свѣ́те ти́хїй* / *O Gladsome Light*), the Saturday evening Prokeimenon of the day (*The Lord is King*), and the remaining prayers of Vespers.
+[^9522]: Rubric for the Resurrection Stichera at the Aposticha of Great Vespers, Tone 8 (*На стїхо́внѣ, стїхи̑ры воскре́сны. Гла́съ и҃*).
+[^9523]: First Resurrection Sticheron at the Aposticha of Great Vespers, Tone 8.
+[^9524]: Rubric for the Alphabetical Resurrection Stichera at the Aposticha (*И҆́ны стїхи̑ры, (по а҆лфави́тꙋ)*).
+[^9525]: Psalm verse: LXX Ps. 92:1 (*Гдⷭ҇ь воцари́ся, въ лѣ́потꙋ ѡ҆блече́ся* / *The Lord is King, He is clothed with majesty*).
+[^9526]: Second Sticheron (Alphabetical) at the Aposticha, Tone 8.
+[^9527]: Psalm verse: LXX Ps. 92:1b (*И҆́бо ᲂу҆твердѝ вселе́ннꙋю, ꙗ҆́же не подви́житсѧ* / *For He hath established the world, which shall not be moved*).
+[^9528]: Third Sticheron (Alphabetical) at the Aposticha, Tone 8.
+[^9529]: Psalm verse: LXX Ps. 92:5 (*До́мꙋ твоемꙋ̀ подоба́етъ свѧты́нѧ Гдⷭ҇и, въ долготꙋ̀ дні́й* / *Holiness becometh Thine house, O Lord, unto length of days*).
+[^9530]: Fourth Sticheron (Alphabetical) at the Aposticha, Tone 8, opening on physical leaf p867 and concluding on physical leaf p868.
+[^9531]: Conclusion of the fourth Sticheron (Alphabetical) at the Aposticha, completed from physical leaf p867.
+[^9532]: Theotokion (Glory... both now...) at the Aposticha of Great Vespers, Tone 8 (*Безневѣ́стнаѧ Дѣ́во*).
+[^9533]: Rubric for the conclusion of Great Vespers: *Nunc Dimittis*, Trisagion prayers, and the Resurrection Troparion of Tone 8.
+[^9534]: Resurrection Apolytikion (Troparion) of Tone 8 (*Сꙇ высоты̀ снизше́лъ є҆сѝ Благоꙋтро́бне* / *From on high didst Thou descend, O Compassionate One*).
+[^9535]: Theotokion (Glory... both now...) of the Resurrection Troparion, Tone 8 (*И҆́же на́съ ра́ди рожде́йсѧ ѿ Дѣ́вы*).
+[^9536]: Rubric for Saturday Compline Supplicatory Canon to the Most Holy Theotokos in Tone 8 (*Въ Сꙋббѡ́тꙋ на Повече́рїи. Канѡ́нъ моле́бный, прест҃ѣ́й Бцⷢ҇ѣ. Гла́съ и҃. Пѣ́снь а҃. І҆рмо́съ*).
+[^9537]: Heirmos of Ode 1 of the Compline Canon, Tone 8 (*Пои́мъ Гдⷭ҇ви, прове́дшемꙋ лю́ди своѧ̑ сквозѣ̀ Чермно́е мо́ре* / *Let us sing unto the Lord, Who led His people through the Red Sea*).
+[^9538]: Liturgical refrain to the Most Holy Theotokos.
+[^9539]: First Troparion of Ode 1 of the Compline Canon, Tone 8.
+[^9540]: Second Troparion of Ode 1 of the Compline Canon, Tone 8.
+[^9541]: Doxastikon (Glory) of Ode 1 of the Compline Canon, Tone 8.
+[^9542]: Theotokion (Both now) of Ode 1 of the Compline Canon, Tone 8, opening on physical leaf p868 and concluding on physical leaf p869.
+[^9543]: Conclusion of the Theotokion of Ode 1 of the Compline Canon, completed from physical leaf p868.
+[^9544]: Heirmos of Ode 3 of the Compline Canon, Tone 8 (*Ты̀ є҆сѝ ᲂу҆твержде́нїе притѣка́ющихъ къ тебѣ̀ Гдⷭ҇и* / *Thou art the confirmation of those that hasten unto Thee, O Lord*).
+[^9545]: First Troparion of Ode 3 of the Compline Canon, Tone 8.
+[^9546]: Second Troparion of Ode 3 of the Compline Canon, Tone 8.
+[^9547]: Doxastikon (Glory) of Ode 3 of the Compline Canon, Tone 8.
+[^9548]: Theotokion (Both now) of Ode 3 of the Compline Canon, Tone 8.
+[^9549]: Heirmos of Ode 4 of the Compline Canon, Tone 8 (*И҆зъ горы̀ приосѣне́нныѧ Сло́ве* / *From the overshadowed mountain, O Word*).
+[^9550]: First Troparion of Ode 4 of the Compline Canon, Tone 8.
+[^9551]: Second Troparion of Ode 4 of the Compline Canon, Tone 8.
+[^9552]: Doxastikon (Glory) of Ode 4 of the Compline Canon, Tone 8.
+[^9553]: Theotokion (Both now) of Ode 4 of the Compline Canon, Tone 8, emphasizing the Orthodox veneration of holy icons against the iconoclasts.
+[^9554]: Heirmos of Ode 5 of the Compline Canon, Tone 8 (*Мра́къ дꙋшѝ моеѧ̀ разженѝ свѣтода́вче Хрⷭ҇тѐ Бж҃е* / *Dispel the darkness of my soul, O Christ God, Giver of light*).
+[^9555]: First Troparion of Ode 5 of the Compline Canon, Tone 8.
+[^9556]: Second Troparion of Ode 5 of the Compline Canon, Tone 8, on physical leaf p870.
+[^9557]: Doxastikon (Glory) of Ode 5 of the Compline Canon, Tone 8.
+[^9558]: Theotokion (Both now) of Ode 5 of the Compline Canon, Tone 8.
+[^9559]: Heirmos of Ode 6 of the Compline Canon, Tone 8 (*Содержи́ма мѧ̀ прїимѝ, Человѣколю́бче* / *Accept me, held fast by many sins, O Lover of mankind*).
+[^9560]: First Troparion of Ode 6 of the Compline Canon, Tone 8.
+[^9561]: Second Troparion of Ode 6 of the Compline Canon, Tone 8.
+[^9562]: Doxastikon (Glory) of Ode 6 of the Compline Canon, Tone 8.
+[^9563]: Theotokion (Both now) of Ode 6 of the Compline Canon, Tone 8.
+[^9564]: Rubrics for the Sessional Hymn at Compline (*Та́же: Гдⷭ҇и поми́лꙋй, три́жды. Сла́ва: и҆ ны́нѣ: Сѣда́ленъ. Гла́съ и҃*).
+[^9565]: Acathist hymn prooemion / Sessional Hymn of the Most Holy Theotokos (*Взбра́нной воево́дѣ побѣди́телнаѧ* / *To thee, the Champion Leader, do we, thy servants, dedicate a thank-offering of victory*).
+[^9566]: Heirmos of Ode 7 of the Compline Canon, Tone 8 (*Бж҃їа снизхожде́нїа, ѻ҆́гнь ᲂу҆стыдѣ́ся въ Вавѷлѡ́нѣ и҆ногда̀* / *The fire in Babylon was once put to shame by God's condescension*).
+[^9567]: First Troparion of Ode 7 of the Compline Canon, Tone 8, opening on physical leaf p870 and continuing onto physical leaf p871 in Cohort 88.

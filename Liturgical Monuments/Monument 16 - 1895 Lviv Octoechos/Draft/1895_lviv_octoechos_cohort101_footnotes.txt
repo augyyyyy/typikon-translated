@@ -1,0 +1,74 @@
+[^11044]: Printed fol. 994 (цч҃д). Conclusion of the Seventh Resurrectional Exapostilarion, attributed to Emperor Constantine VII Porphyrogenitus.
+[^11045]: Theotokion of the Seventh Resurrectional Exapostilarion.
+[^11046]: Seventh Evangelical Sticheron (Tone 7), attributed to Emperor Leo the Wise.
+[^11047]: Pericope 64 from the Gospel according to John (John 20:11-18), Eighth Resurrectional Matins Gospel.
+[^11048]: Eighth Resurrectional Matins Gospel.
+[^11049]: Eighth Resurrectional Exapostilarion, attributed to Emperor Constantine VII Porphyrogenitus.
+[^11050]: Printed fol. 995 (цч҃є). Theotokion of the Eighth Resurrectional Exapostilarion.
+[^11051]: Eighth Evangelical Sticheron (Tone 8), attributed to Emperor Leo the Wise.
+[^11052]: Pericope 65 from the Gospel according to John (John 20:19-31), Ninth Resurrectional Matins Gospel.
+[^11053]: Printed marginal/foot gloss: "On the first day of the week, that is, on Sunday." (Въ пе́рвый де́нь седми́цы, си є҆́сть, въ Недѣ́лю).
+[^11054]: Ninth Resurrectional Matins Gospel.
+[^11055]: Appendix fol. 11 (а҃а), physical leaf p1003. Ninth Resurrectional Exapostilarion, attributed to Emperor Constantine VII Porphyrogenitus.
+[^11056]: Theotokion of the Ninth Resurrectional Exapostilarion.
+[^11057]: Ninth Evangelical Sticheron (Tone 5), attributed to Emperor Leo the Wise.
+[^11058]: Pericope 66 from the Gospel according to John (John 21:1-14), Tenth Resurrectional Matins Gospel.
+[^11059]: Tenth Resurrectional Matins Gospel (opening).
+[^11060]: Appendix fol. 12 (а҃в), physical leaf p1004. Conclusion of the Tenth Resurrectional Matins Gospel.
+[^11061]: Tenth Resurrectional Exapostilarion, attributed to Emperor Constantine VII Porphyrogenitus.
+[^11062]: Theotokion of the Tenth Resurrectional Exapostilarion.
+[^11063]: Tenth Evangelical Sticheron (Tone 6), attributed to Emperor Leo the Wise.
+[^11064]: Pericope 67 from the Gospel according to John (John 21:15-25), Eleventh Resurrectional Matins Gospel.
+[^11065]: Eleventh Resurrectional Matins Gospel (opening).
+[^11066]: Appendix fol. 13 (а҃г), physical leaf p1005. Conclusion of the Eleventh Resurrectional Matins Gospel.
+[^11067]: Eleventh Resurrectional Exapostilarion, attributed to Emperor Constantine VII Porphyrogenitus.
+[^11068]: Theotokion of the Eleventh Resurrectional Exapostilarion.
+[^11069]: Eleventh Evangelical Sticheron (Tone 8), attributed to Emperor Leo the Wise.
+[^11070]: Appendix fol. 14 (а҃д), physical leaf p1006. Resurrectional Theotokion sung before the Great Doxology on Sundays.
+[^11071]: Resurrectional Theotokion, Tone 2.
+[^11072]: Resurrectional Troparia sung after the Great Doxology on Sundays according to the active Tone.
+[^11073]: Resurrectional Troparion for odd Tones (1, 3, 5, 7).
+[^11074]: Resurrectional Troparion for even Tones (2, 4, 6, 8).
+[^11075]: Opening of the Daily Exapostilaria / Photagogica for the entire weekly cycle.
+[^11076]: Monday Photagogicon of the Holy Bodiless Powers (Angels).
+[^11077]: Alternate Monday Photagogicon of the Holy Angels.
+[^11078]: Monday Theotokion (opening).
+[^11079]: Appendix fol. 15 (а҃є), physical leaf p1007. Conclusion of Monday Theotokion.
+[^11080]: Tuesday Photagogicon of the Holy Forerunner and Baptist John.
+[^11081]: Alternate Tuesday Photagogicon of the Holy Forerunner.
+[^11082]: Tuesday Theotokion.
+[^11083]: Wednesday Photagogicon of the Precious and Life-Giving Cross.
+[^11084]: Alternate Wednesday Photagogicon of the Precious Cross.
+[^11085]: Wednesday Stavrotheotokion.
+[^11086]: Thursday Photagogicon of the Holy Apostles.
+[^11087]: Alternate Thursday Photagogicon of the Holy Apostles (opening).
+[^11088]: Appendix fol. 16 (а҃ѕ), physical leaf p1008. Conclusion of alternate Thursday Photagogicon.
+[^11089]: Second alternate Thursday Photagogicon of the Holy Apostles and Saint Nicholas.
+[^11090]: Thursday Theotokion.
+[^11091]: Friday Photagogicon of the Precious and Life-Giving Cross.
+[^11092]: Internal cross-reference to Wednesday Photagogicon ("The Cross is the guardian of the whole universe"); see appendix fol. 15 (physical leaf p1007).
+[^11093]: Friday Stavrotheotokion.
+[^11094]: Saturday Photagogicon of All Saints.
+[^11095]: Alternate Saturday Photagogicon of All Saints.
+[^11096]: Saturday Photagogicon for the Departed.
+[^11097]: Saturday Theotokion.
+[^11098]: Appendix fol. 17 (а҃з), physical leaf p1009. Daily Triadica (Trinity Hymns) sung at Lenten or Alleluia Matins.
+[^11099]: Rubric for the singing of Alleluia and the Scriptural Stichoi at Matins in place of "God is the Lord."
+[^11100]: First Alleluia Verse, from Isaiah 26:9 (LXX).
+[^11101]: Second Alleluia Verse, from Isaiah 26:9 (LXX).
+[^11102]: Third Alleluia Verse, from Isaiah 26:11 (LXX).
+[^11103]: Fourth Alleluia Verse, from Isaiah 26:15 (LXX).
+[^11104]: Rubric for the singing of the Daily Triadica.
+[^11105]: Daily Triadicon, Tone 1.
+[^11106]: Triadicon, Tone 1 (Glory).
+[^11107]: Triadicon, Tone 1 (Both now).
+[^11108]: Foot rubric prescribing the weekday petition endings for the first Triadicon across all eight Tones.
+[^11109]: Appendix fol. 18 (а҃и), physical leaf p1010. Daily Triadicon, Tone 2.
+[^11110]: Triadicon, Tone 2 (Glory).
+[^11111]: Triadicon, Tone 2 (Both now).
+[^11112]: Tone 4 Daily Triadicon. The 1895 Lviv edition proceeds immediately from Tone 2 to Tone 4, omitting Tone 3 from the sequence of Daily Triadica.
+[^11113]: Daily Triadicon, Tone 4.
+[^11114]: Triadicon, Tone 4 (Glory).
+[^11115]: Triadicon, Tone 4 (Both now).
+[^11116]: Daily Triadicon, Tone 5.
+[^11117]: Triadicon, Tone 5 (Glory).

@@ -1,0 +1,77 @@
+{
+  "monument_id": "1895_lviv_octoechos",
+  "total_leaves": 1029,
+  "total_footnotes": 11218,
+  "errors": [
+    "Definite alien cross-contamination on leaf p197: 1640",
+    "Definite alien cross-contamination on leaf p197: 1642",
+    "Definite alien cross-contamination on leaf p1017: Mid-Pentecost",
+    "Definite alien cross-contamination on leaf p1017: Lazarus Saturday",
+    "Definite alien cross-contamination on leaf p1029: 1640",
+    "Definite alien cross-contamination on leaf p1029: 1642",
+    "Definite alien cross-contamination on leaf p1029: Mid-Pentecost",
+    "Definite alien cross-contamination on leaf p1029: Lazarus Saturday",
+    "Missing required landmark heading for Part 10 (General Parastas): ^#\\s+GENERAL\\s+PARASTAS\\s+\\(OFFICE\\s+FOR\\s+THE\\s+DEPARTED\\)\\b",
+    "Alien files in Hub Inbox: ['Final_footnotes.txt']"
+  ],
+  "warnings": [],
+  "cross_contaminations_investigated": [
+    {
+      "leaf": 197,
+      "line_num": 5465,
+      "term": "1640",
+      "desc": "Possible date/ID leak from 1640 Kyiv",
+      "snippet": "*Tone 2, Podoben: \"Being the wellspring of loving-kindness\" (Милосе́рдїѧ сꙋ́щи):*[^1640]"
+    },
+    {
+      "leaf": 197,
+      "line_num": 5469,
+      "term": "1642",
+      "desc": "Possible date/ID leak from 1642 Slozka",
+      "snippet": "*Tone 2, Podoben: \"Being the wellspring of loving-kindness\" (Милосе́рдїѧ сꙋ́щи):*[^1642]"
+    },
+    {
+      "leaf": 1017,
+      "line_num": 28775,
+      "term": "Mid-Pentecost",
+      "desc": "Alien Pentecostarion cycle",
+      "snippet": "Midnight Office we sing according to the custom, as indicated in the Typikon; only if there be a Master’s [Dominical] Fe"
+    },
+    {
+      "leaf": 1017,
+      "line_num": 28775,
+      "term": "Lazarus Saturday",
+      "desc": "Alien Lenten Triodion cycle",
+      "snippet": "Midnight Office we sing according to the custom, as indicated in the Typikon; only if there be a Master’s [Dominical] Fe"
+    },
+    {
+      "leaf": 1029,
+      "line_num": 30695,
+      "term": "1640",
+      "desc": "Possible date/ID leak from 1640 Kyiv",
+      "snippet": "[^1640]: Stavrotheotokion: Tone 2 Podoben *Being the wellspring of loving-kindness* (*Милосе́рдїѧ сꙋ́щи*)."
+    },
+    {
+      "leaf": 1029,
+      "line_num": 30697,
+      "term": "1642",
+      "desc": "Possible date/ID leak from 1642 Slozka",
+      "snippet": "[^1642]: Sessional Hymn after Third Stichology: Tone 2 Podoben *Being the wellspring of loving-kindness* (*Милосе́рдїѧ с"
+    },
+    {
+      "leaf": 1029,
+      "line_num": 41663,
+      "term": "Mid-Pentecost",
+      "desc": "Alien Pentecostarion cycle",
+      "snippet": "[^11167]: Comprehensive Typikon rubric for the Midnight Office (Полꙋ́нощница) throughout the year, specifying when \"Beho"
+    },
+    {
+      "leaf": 1029,
+      "line_num": 41663,
+      "term": "Lazarus Saturday",
+      "desc": "Alien Lenten Triodion cycle",
+      "snippet": "[^11167]: Comprehensive Typikon rubric for the Midnight Office (Полꙋ́нощница) throughout the year, specifying when \"Beho"
+    }
+  ],
+  "status": "FAILED"
+}

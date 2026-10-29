@@ -1,0 +1,117 @@
+[^9798]: Concluding penitential sticheron at Sunday evening Vespers at "Lord, I have cried," Tone 8.
+[^9799]: Rubric directing the insertion of stichera from the Menaion for the commemorated saint, or in its absence, the following three stichera to the holy Bodiless Angels.
+[^9800]: Melodic model indicator referring back to the preceding podoben (POD.T8.GOSPODI_ASHCHE_I_NA_SUDISHCHI: "O Lord, though Thou didst stand before the tribunal" / Гдⷭ҇и, а҆́ще и҆ сꙋди́лищꙋ).
+[^9801]: First sticheron to the holy Bodiless Angels at Sunday evening Vespers.
+[^9802]: Second sticheron to the holy Bodiless Angels.
+[^9803]: Third sticheron to the holy Bodiless Angels, enumerating the angelic hierarchy.
+[^9804]: Melodic model indicator for the Sunday evening Theotokion (POD.T8.O_PRESLAVNAGO_CHUDESE: "O most marvelous wonder" / Ѽ пресла́вное чꙋ́до).
+[^9805]: Concluding Theotokion of Sunday evening Vespers at "Lord, I have cried."
+[^9806]: Rubric for the evening entrance hymns: Phos Hilaron, the daily prokeimenon, and Kataksioson ("Vouchsafe, O Lord").
+[^9807]: Rubric introducing the Penitential Stichera at the Aposticha of Sunday evening Vespers in Tone 8.
+[^9808]: First penitential sticheron at the Aposticha.
+[^9809]: Psalm 122:1-2 (LXX), the first stichos at the Aposticha.
+[^9810]: Second penitential sticheron at the Aposticha.
+[^9811]: Psalm 122:3-4 (LXX), the second stichos at the Aposticha.
+[^9812]: Incipit of the concluding Martyrion at the Aposticha, continuing onto physical leaf p892.
+[^9813]: Conclusion of the Sunday evening Aposticha Martyrion from physical leaf p891.
+[^9814]: Melodic model indicator for the Aposticha Theotokion (POD.T8.O_PRESLAVNAGO_CHUDESE: "O most marvelous wonder" / Ѽ пресла́вное чꙋ́до).
+[^9815]: Concluding Theotokion at the Aposticha of Sunday evening Vespers.
+[^9816]: Rubric directing the dismissal sequence of Sunday evening Vespers: Nunc Dimittis, Trisagion prayers, Troparion, Litany, and Dismissal.
+[^9817]: Rubric opening the Sunday Compline service and its Canon to the Most Holy Theotokos in Tone 8.
+[^9818]: Heirmos of Ode 1 of the Sunday Compline Canon to the Theotokos, Tone 8 (Moses crossing the Red Sea).
+[^9819]: Refrain sung before the troparia of the Compline Canon.
+[^9820]: First troparion of Ode 1, Compline Canon to the Theotokos.
+[^9821]: Second troparion of Ode 1, Compline Canon to the Theotokos.
+[^9822]: Troparion at "Glory," invoking the intercession of the heavenly hosts, Apostles, Prophets, Martyrs, and Saints.
+[^9823]: Concluding Theotokion of Ode 1 at "Both now."
+[^9824]: Heirmos of Ode 3 of the Sunday Compline Canon to the Theotokos, Tone 8.
+[^9825]: First troparion of Ode 3, Compline Canon to the Theotokos.
+[^9826]: Second troparion of Ode 3, Compline Canon to the Theotokos.
+[^9827]: Troparion of Ode 3 at "Glory," invoking the bodiless hosts, Prophets, Apostles, and Martyrs.
+[^9828]: Concluding Theotokion of Ode 3 at "Both now."
+[^9829]: Heirmos of Ode 4 of the Sunday Compline Canon to the Theotokos, Tone 8 (Prophet Habakkuk).
+[^9830]: First troparion of Ode 4, Compline Canon to the Theotokos.
+[^9831]: Second troparion of Ode 4, Compline Canon to the Theotokos.
+[^9832]: Troparion of Ode 4 at "Glory."
+[^9833]: Concluding Theotokion of Ode 4 at "Both now."
+[^9834]: Heirmos of Ode 5 of the Sunday Compline Canon to the Theotokos, Tone 8.
+[^9835]: First troparion of Ode 5, Compline Canon to the Theotokos.
+[^9836]: Second troparion of Ode 5, Compline Canon to the Theotokos.
+[^9837]: Troparion of Ode 5 at "Glory."
+[^9838]: Concluding Theotokion of Ode 5 at "Both now."
+[^9839]: Heirmos of Ode 6 of the Sunday Compline Canon to the Theotokos, Tone 8.
+[^9840]: First troparion of Ode 6, Compline Canon to the Theotokos.
+[^9841]: Second troparion of Ode 6, Compline Canon to the Theotokos.
+[^9842]: Troparion of Ode 6 at "Glory."
+[^9843]: Concluding Theotokion of Ode 6 at "Both now."
+[^9844]: Rubric directing forty repetitions of "Lord, have mercy," followed by the Little Doxology.
+[^9845]: Sessional Hymn at Sunday Compline in Tone 8, continuing onto physical leaf p895.
+[^9846]: Conclusion of the Sunday Compline Sessional Hymn from physical leaf p894.
+[^9847]: Heirmos of Ode 7 of the Sunday Compline Canon to the Theotokos, Tone 8 (Three Youths in the Babylonian furnace).
+[^9848]: First troparion of Ode 7, Compline Canon to the Theotokos.
+[^9849]: Second troparion of Ode 7, Compline Canon to the Theotokos.
+[^9850]: Troparion of Ode 7 at "Glory."
+[^9851]: Concluding Theotokion of Ode 7 at "Both now."
+[^9852]: Heirmos of Ode 8 of the Sunday Compline Canon to the Theotokos, Tone 8.
+[^9853]: First troparion of Ode 8, Compline Canon to the Theotokos.
+[^9854]: Second troparion of Ode 8, Compline Canon to the Theotokos.
+[^9855]: Incipit of the Ode 8 troparion at "Glory," continuing onto physical leaf p896.
+[^9856]: Conclusion of the Ode 8 troparion at "Glory" from physical leaf p895.
+[^9857]: Concluding Theotokion of Ode 8 at "Both now," articulating the two natures and one Hypostasis of Christ.
+[^9858]: Heirmos of Ode 9 of the Sunday Compline Canon to the Theotokos, Tone 8.
+[^9859]: First troparion of Ode 9, Compline Canon to the Theotokos (mystical typology of the bed of Solomon).
+[^9860]: Second troparion of Ode 9, Compline Canon to the Theotokos.
+[^9861]: Troparion of Ode 9 at "Glory."
+[^9862]: Concluding Theotokion of Ode 9 at "Both now."
+[^9863]: Rubric directing the closing prayers of Compline: Megalynarion ("It is truly meet"), Trisagion prayers, troparion, and concluding dismissal.
+[^9864]: Canonical H2 Weekday Opening marking the liturgical office of Monday dedicated to the Holy Bodiless Powers in Tone 8.
+[^9865]: Rubric for the opening of Monday Matins: Penitential Sessional Hymns following the first kathisma / stichology of the Psalter in Tone 8.
+[^9866]: First penitential sessional hymn after the first stichology.
+[^9867]: Psalm 6:1 (LXX), the first penitential stichos.
+[^9868]: Second penitential sessional hymn after the first stichology.
+[^9869]: Theotokion after the first stichology at "Glory: Both now."
+[^9870]: Rubric for the penitential sessional hymns following the second kathisma / stichology of the Psalter in Tone 8.
+[^9871]: First penitential sessional hymn after the second stichology (parable of the ten virgins).
+[^9872]: Psalm 6:1 (LXX), repeated as the stichos for the second sessional hymn.
+[^9873]: Second penitential sessional hymn after the second stichology.
+[^9874]: Psalm 67:36 (LXX), stichos introducing the Martyrion.
+[^9875]: Concluding Martyrion after the second stichology.
+[^9876]: Incipit of the Theotokion after the second stichology at "Glory: Both now," continuing onto physical leaf p898.
+[^9877]: Conclusion of the Theotokion after the second stichology from physical leaf p897.
+[^9878]: Rubric and melodic model indicator for the sessional hymns after the third stichology (POD.T8.POVELENNOE_TAINSTVENNO: "That which was commanded mystically" / Повелѣ́нное).
+[^9879]: First penitential sessional hymn after the third stichology.
+[^9880]: Second penitential sessional hymn after the third stichology.
+[^9881]: Concluding Theotokion after the third stichology at "Glory: Both now."
+[^9882]: Heirmos of Ode 1 of the Penitential Canon to our Lord Jesus Christ and the Holy Martyrs by Joseph the Hymnographer, Tone 8.
+[^9883]: Refrain for the Penitential Canon.
+[^9884]: First troparion of Ode 1, Penitential Canon.
+[^9885]: Second troparion of Ode 1, Penitential Canon.
+[^9886]: Refrain for the troparia to the Holy Martyrs.
+[^9887]: First troparion to the Holy Martyrs, Ode 1.
+[^9888]: Incipit of the second troparion to the Holy Martyrs, Ode 1, continuing onto physical leaf p899.
+[^9889]: Conclusion of the second troparion to the Holy Martyrs, Ode 1, from physical leaf p898.
+[^9890]: Concluding Theotokion of Ode 1, Penitential Canon.
+[^9891]: Heading and rubric for the Second Canon to the Bodiless Holy Angels, an alphabetical acrostic composed by Kyr Theophanes, Tone 8.
+[^9892]: Refrain for the Canon to the Holy Archangels and Angels.
+[^9893]: First troparion of Ode 1, Canon to the Angels.
+[^9894]: Second troparion of Ode 1, Canon to the Angels.
+[^9895]: Concluding Theotokion of Ode 1, Canon to the Angels.
+[^9896]: Heirmos of Ode 3 of the Penitential Canon, Tone 8.
+[^9897]: First troparion of Ode 3, Penitential Canon.
+[^9898]: Second troparion of Ode 3, Penitential Canon.
+[^9899]: First troparion to the Holy Martyrs, Ode 3.
+[^9900]: Second troparion to the Holy Martyrs, Ode 3.
+[^9901]: Incipit of the Theotokion of Ode 3, continuing onto physical leaf p900.
+[^9902]: Conclusion of the Theotokion of Ode 3 from physical leaf p899.
+[^9903]: Rubric for Ode 3 of the Canon to the Bodiless Powers, directing the singing of the same heirmos.
+[^9904]: First troparion of Ode 3, Canon to the Angels (appointed to be chanted twice).
+[^9905]: Second troparion of Ode 3, Canon to the Angels.
+[^9906]: Concluding Theotokion of Ode 3, Canon to the Angels.
+[^9907]: Heirmos of Ode 4 of the Penitential Canon, Tone 8 (Habakkuk 3:3).
+[^9908]: First troparion of Ode 4, Penitential Canon.
+[^9909]: Second troparion of Ode 4, Penitential Canon.
+[^9910]: First troparion to the Holy Martyrs, Ode 4.
+[^9911]: Second troparion to the Holy Martyrs, Ode 4.
+[^9912]: Concluding Theotokion of Ode 4, Penitential Canon.
+[^9913]: Heirmos of Ode 4 of the Canon to the Bodiless Powers, Tone 8.
+[^9914]: Incipit of the first troparion to the Archangels (Michael and Gabriel, the foremost pair of the angelic hosts), Ode 4, continuing onto physical leaf p901.
