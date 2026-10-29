@@ -1,0 +1,195 @@
+{
+  "monument_id": "1906_lviv_triodion_lenten",
+  "total_expected_leaves": 532,
+  "total_expected_cohorts": 54,
+  "cross_contamination": {
+    "stray_files": [],
+    "keyword_hits": {
+      "1907_lviv_pentecostarion": [
+        {
+          "file": "Draft\\1906_lviv_triodion_lenten_cohort1_footnotes.txt",
+          "pattern": "Pentecostarion",
+          "match": "Pentecostarion",
+          "context": " for the movable festal cycle of the Triodion and Pentecostarion. Physical Leaf p8 = Printed Page 4. [^13]: St. Co"
+        },
+        {
+          "file": "Draft\\1906_lviv_triodion_lenten_cohort52_footnotes.txt",
+          "pattern": "Pentecostarion",
+          "match": "Pentecostarion",
+          "context": "n and movable liturgical days of the Triodion and Pentecostarion.  [^1423]: The Feast of the Three Holy Hierarchs "
+        },
+        {
+          "file": "Final\\1906_lviv_triodion_lenten_complete.txt",
+          "pattern": "Pentecostarion",
+          "match": "Pentecostarion",
+          "context": " for the movable festal cycle of the Triodion and Pentecostarion. Physical Leaf p8 = Printed Page 4.  [^13]: St. C"
+        },
+        {
+          "file": "Final\\1906_lviv_triodion_lenten_complete.txt",
+          "pattern": "Pentecostarion",
+          "match": "Pentecostarion",
+          "context": "n and movable liturgical days of the Triodion and Pentecostarion.  [^1423]: The Feast of the Three Holy Hierarchs "
+        },
+        {
+          "file": "Final\\1906_lviv_triodion_lenten_footnotes.txt",
+          "pattern": "Pentecostarion",
+          "match": "Pentecostarion",
+          "context": " for the movable festal cycle of the Triodion and Pentecostarion. Physical Leaf p8 = Printed Page 4.  [^13]: St. C"
+        },
+        {
+          "file": "Final\\1906_lviv_triodion_lenten_footnotes.txt",
+          "pattern": "Pentecostarion",
+          "match": "Pentecostarion",
+          "context": "n and movable liturgical days of the Triodion and Pentecostarion.  [^1423]: The Feast of the Three Holy Hierarchs "
+        },
+        {
+          "file": "Final\\1906_lviv_triodion_lenten_part1_pre_lenten.txt",
+          "pattern": "Pentecostarion",
+          "match": "Pentecostarion",
+          "context": " for the movable festal cycle of the Triodion and Pentecostarion. Physical Leaf p8 = Printed Page 4. [^13]: St. Co"
+        },
+        {
+          "file": "Final\\1906_lviv_triodion_lenten_part5_markian_chapters.txt",
+          "pattern": "Pentecostarion",
+          "match": "Pentecostarion",
+          "context": "n and movable liturgical days of the Triodion and Pentecostarion. [^1423]: The Feast of the Three Holy Hierarchs ("
+        },
+        {
+          "file": "Final\\Final_footnotes.txt",
+          "pattern": "Pentecostarion",
+          "match": "Pentecostarion",
+          "context": " for the movable festal cycle of the Triodion and Pentecostarion. Physical Leaf p8 = Printed Page 4. [^13]: St. Co"
+        },
+        {
+          "file": "Final\\Final_footnotes.txt",
+          "pattern": "Pentecostarion",
+          "match": "Pentecostarion",
+          "context": "n and movable liturgical days of the Triodion and Pentecostarion.  [^1423]: The Feast of the Three Holy Hierarchs "
+        },
+        {
+          "file": "Final MD\\1906_lviv_triodion_lenten_complete.md",
+          "pattern": "Pentecostarion",
+          "match": "Pentecostarion",
+          "context": " for the movable festal cycle of the Triodion and Pentecostarion. Physical Leaf p8 = Printed Page 4.  [^13]: St. C"
+        },
+        {
+          "file": "Final MD\\1906_lviv_triodion_lenten_complete.md",
+          "pattern": "Pentecostarion",
+          "match": "Pentecostarion",
+          "context": "n and movable liturgical days of the Triodion and Pentecostarion.  [^1423]: The Feast of the Three Holy Hierarchs "
+        },
+        {
+          "file": "Final MD\\1906_lviv_triodion_lenten_footnotes.md",
+          "pattern": "Pentecostarion",
+          "match": "Pentecostarion",
+          "context": " for the movable festal cycle of the Triodion and Pentecostarion. Physical Leaf p8 = Printed Page 4.  [^13]: St. C"
+        },
+        {
+          "file": "Final MD\\1906_lviv_triodion_lenten_footnotes.md",
+          "pattern": "Pentecostarion",
+          "match": "Pentecostarion",
+          "context": "n and movable liturgical days of the Triodion and Pentecostarion.  [^1423]: The Feast of the Three Holy Hierarchs "
+        },
+        {
+          "file": "Final MD\\1906_lviv_triodion_lenten_part1_pre_lenten.md",
+          "pattern": "Pentecostarion",
+          "match": "Pentecostarion",
+          "context": " for the movable festal cycle of the Triodion and Pentecostarion. Physical Leaf p8 = Printed Page 4. [^13]: St. Co"
+        },
+        {
+          "file": "Final MD\\1906_lviv_triodion_lenten_part5_markian_chapters.md",
+          "pattern": "Pentecostarion",
+          "match": "Pentecostarion",
+          "context": "n and movable liturgical days of the Triodion and Pentecostarion. [^1423]: The Feast of the Three Holy Hierarchs ("
+        }
+      ],
+      "1895_lviv_octoechos": [
+        {
+          "file": "Draft\\1906_lviv_triodion_lenten_cohort53_footnotes.txt",
+          "pattern": "Sembratovych",
+          "match": "Sembratovych",
+          "context": "), convened under Metropolitan Sylvester Cardinal Sembratovych in 1891 (Slavonic year `҂аѡч҃а` = 1891 AD), which"
+        },
+        {
+          "file": "Final\\1906_lviv_triodion_lenten_complete.txt",
+          "pattern": "Sembratovych",
+          "match": "Sembratovych",
+          "context": "), convened under Metropolitan Sylvester Cardinal Sembratovych in 1891 (Slavonic year `҂аѡч҃а` = 1891 AD), which"
+        },
+        {
+          "file": "Final\\1906_lviv_triodion_lenten_footnotes.txt",
+          "pattern": "Sembratovych",
+          "match": "Sembratovych",
+          "context": "), convened under Metropolitan Sylvester Cardinal Sembratovych in 1891 (Slavonic year `҂аѡч҃а` = 1891 AD), which"
+        },
+        {
+          "file": "Final\\1906_lviv_triodion_lenten_part5_markian_chapters.txt",
+          "pattern": "Sembratovych",
+          "match": "Sembratovych",
+          "context": "), convened under Metropolitan Sylvester Cardinal Sembratovych in 1891 (Slavonic year `҂аѡч҃а` = 1891 AD), which"
+        },
+        {
+          "file": "Final\\Final_footnotes.txt",
+          "pattern": "Sembratovych",
+          "match": "Sembratovych",
+          "context": "), convened under Metropolitan Sylvester Cardinal Sembratovych in 1891 (Slavonic year `҂аѡч҃а` = 1891 AD), which"
+        },
+        {
+          "file": "Final MD\\1906_lviv_triodion_lenten_complete.md",
+          "pattern": "Sembratovych",
+          "match": "Sembratovych",
+          "context": "), convened under Metropolitan Sylvester Cardinal Sembratovych in 1891 (Slavonic year `҂аѡч҃а` = 1891 AD), which"
+        },
+        {
+          "file": "Final MD\\1906_lviv_triodion_lenten_footnotes.md",
+          "pattern": "Sembratovych",
+          "match": "Sembratovych",
+          "context": "), convened under Metropolitan Sylvester Cardinal Sembratovych in 1891 (Slavonic year `҂аѡч҃а` = 1891 AD), which"
+        },
+        {
+          "file": "Final MD\\1906_lviv_triodion_lenten_part5_markian_chapters.md",
+          "pattern": "Sembratovych",
+          "match": "Sembratovych",
+          "context": "), convened under Metropolitan Sylvester Cardinal Sembratovych in 1891 (Slavonic year `҂аѡч҃а` = 1891 AD), which"
+        }
+      ]
+    }
+  },
+  "leaf_fingerprint_collisions": {
+    "count": 0,
+    "details": []
+  },
+  "leaf_conservation": {
+    "images_count": 532,
+    "source_monotonic_532": true,
+    "draft_monotonic_532": true,
+    "cohorts_monotonic_532": true,
+    "final_txt_monotonic_532": true
+  },
+  "length_ratios": {
+    "total_source_words": 187154,
+    "total_draft_words": 274686,
+    "overall_ratio": 1.468,
+    "zero_leaves": [],
+    "extreme_ratios": [],
+    "borderline_ratios": []
+  },
+  "encoding_and_placeholders": {
+    "replacement_char_hits": [],
+    "unresolved_marker_hits": []
+  },
+  "footnote_integrity": {
+    "total_footnotes": 1485,
+    "strict_monotonic_1_to_n": true,
+    "synthetic_placeholder_footnotes": []
+  },
+  "mts1_and_typography": {
+    "illegal_h3_h6_headings": []
+  },
+  "hub_inbox_sync": {
+    "deliverables_count": 8,
+    "mismatches": []
+  },
+  "errors": [],
+  "warnings": []
+}

@@ -1,0 +1,95 @@
+{
+  "timestamp": "2026-10-28T13:19:32.757754+00:00",
+  "monument_id": "1906_lviv_triodion_lenten",
+  "cohort": 46,
+  "target_file": "1906_lviv_triodion_lenten_cohort46.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1906_lviv_triodion_lenten_cohort46.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1906_lviv_triodion_lenten_cohort46.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1906_lviv_triodion_lenten_cohort46.md",
+      "footnotes_file": "1906_lviv_triodion_lenten_cohort46_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 16,
+      "definition_markers_count": 16,
+      "text_markers": [
+        "[^1230]",
+        "[^1231]",
+        "[^1232]",
+        "[^1233]",
+        "[^1234]",
+        "[^1235]",
+        "[^1236]",
+        "[^1237]",
+        "[^1238]",
+        "[^1239]",
+        "[^1240]",
+        "[^1241]",
+        "[^1242]",
+        "[^1243]",
+        "[^1244]",
+        "[^1245]"
+      ],
+      "definition_markers": [
+        "[^1230]",
+        "[^1231]",
+        "[^1232]",
+        "[^1233]",
+        "[^1234]",
+        "[^1235]",
+        "[^1236]",
+        "[^1237]",
+        "[^1238]",
+        "[^1239]",
+        "[^1240]",
+        "[^1241]",
+        "[^1242]",
+        "[^1243]",
+        "[^1244]",
+        "[^1245]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1906_lviv_triodion_lenten_cohort46.md",
+      "passed": true,
+      "paragraphs": 211,
+      "headings_count": 0,
+      "headings": [],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 451,
+        "max_leaf": 460
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "total_queued_leaves": 92,
+    "unresolved_quarantines": 0
+  }
+}

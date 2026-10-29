@@ -1,0 +1,1124 @@
+{
+  "monument_id": "1906_lviv_triodion_lenten",
+  "updated_at": "2026-10-28T13:19:34.548351+00:00",
+  "total_queued_leaves": 0,
+  "unresolved_quarantines": 0,
+  "items": [
+    {
+      "leaf_num": 11,
+      "cohort": 2,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Final MD\\1906_lviv_triodion_lenten_cohort2.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort2_source.txt",
+      "updated_at": "2026-10-27T12:35:57.992711+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 17,
+      "cohort": 2,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Final MD\\1906_lviv_triodion_lenten_cohort2.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort2_source.txt",
+      "updated_at": "2026-10-27T12:35:57.993367+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 18,
+      "cohort": 2,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Final MD\\1906_lviv_triodion_lenten_cohort2.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort2_source.txt",
+      "updated_at": "2026-10-27T12:35:57.993513+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 24,
+      "cohort": 3,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort3_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort3_source.txt",
+      "updated_at": "2026-10-27T12:53:26.471467+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 26,
+      "cohort": 3,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort3_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort3_source.txt",
+      "updated_at": "2026-10-27T12:53:26.471689+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 27,
+      "cohort": 3,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort3_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort3_source.txt",
+      "updated_at": "2026-10-27T12:53:26.471841+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 30,
+      "cohort": 3,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort3_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort3_source.txt",
+      "updated_at": "2026-10-27T12:53:26.472201+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 41,
+      "cohort": 5,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort5_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort5_source.txt",
+      "updated_at": "2026-10-27T15:27:37.323855+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 62,
+      "cohort": 7,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort7_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort7_source.txt",
+      "updated_at": "2026-10-27T16:18:27.716419+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 64,
+      "cohort": 7,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort7_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort7_source.txt",
+      "updated_at": "2026-10-27T16:18:27.716635+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 66,
+      "cohort": 7,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 11 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort7_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort7_source.txt",
+      "updated_at": "2026-10-27T16:18:27.716893+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 67,
+      "cohort": 7,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort7_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort7_source.txt",
+      "updated_at": "2026-10-27T16:18:27.717022+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 80,
+      "cohort": 8,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort8_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort8_source.txt",
+      "updated_at": "2026-10-27T16:42:44.782953+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 92,
+      "cohort": 10,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort10_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort10_source.txt",
+      "updated_at": "2026-10-27T17:25:54.818805+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 99,
+      "cohort": 10,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort10_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort10_source.txt",
+      "updated_at": "2026-10-27T17:25:54.819347+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 100,
+      "cohort": 10,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort10_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort10_source.txt",
+      "updated_at": "2026-10-27T17:25:54.819472+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 156,
+      "cohort": 16,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "epigraphic_uncertainty_marker: [?]"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort16_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort16_source.txt",
+      "updated_at": "2026-10-27T19:30:15.133504+00:00",
+      "resolved_at": "2026-10-28T13:16:10.204600+00:00"
+    },
+    {
+      "leaf_num": 172,
+      "cohort": 18,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort18_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort18_source.txt",
+      "updated_at": "2026-10-27T20:35:05.327125+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 178,
+      "cohort": 18,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort18_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort18_source.txt",
+      "updated_at": "2026-10-27T20:35:05.327579+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 179,
+      "cohort": 18,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort18_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort18_source.txt",
+      "updated_at": "2026-10-27T20:35:05.327727+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 185,
+      "cohort": 19,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort19_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort19_source.txt",
+      "updated_at": "2026-10-27T20:49:51.700327+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 191,
+      "cohort": 20,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort20_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort20_source.txt",
+      "updated_at": "2026-10-27T21:08:52.358309+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 192,
+      "cohort": 20,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort20_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort20_source.txt",
+      "updated_at": "2026-10-27T21:08:52.358458+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 197,
+      "cohort": 20,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort20_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort20_source.txt",
+      "updated_at": "2026-10-27T21:08:52.358880+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 198,
+      "cohort": 20,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort20_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort20_source.txt",
+      "updated_at": "2026-10-27T21:08:52.359011+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 200,
+      "cohort": 20,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort20_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort20_source.txt",
+      "updated_at": "2026-10-27T21:08:52.359231+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 201,
+      "cohort": 21,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort21_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort21_source.txt",
+      "updated_at": "2026-10-27T21:22:27.113664+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 205,
+      "cohort": 21,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort21_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort21_source.txt",
+      "updated_at": "2026-10-27T21:22:27.114061+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 206,
+      "cohort": 21,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort21_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort21_source.txt",
+      "updated_at": "2026-10-27T21:22:27.114208+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 231,
+      "cohort": 24,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort24_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort24_source.txt",
+      "updated_at": "2026-10-27T22:07:01.169900+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 238,
+      "cohort": 24,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort24_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort24_source.txt",
+      "updated_at": "2026-10-27T22:07:01.170436+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 250,
+      "cohort": 25,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort25_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort25_source.txt",
+      "updated_at": "2026-10-27T22:29:35.254331+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 261,
+      "cohort": 27,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Final MD\\1906_lviv_triodion_lenten_cohort27.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort27_source.txt",
+      "updated_at": "2026-10-28T13:19:32.459076+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 263,
+      "cohort": 27,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Final MD\\1906_lviv_triodion_lenten_cohort27.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort27_source.txt",
+      "updated_at": "2026-10-28T13:19:32.459329+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 266,
+      "cohort": 27,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Final MD\\1906_lviv_triodion_lenten_cohort27.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort27_source.txt",
+      "updated_at": "2026-10-28T13:19:32.459690+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 267,
+      "cohort": 27,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Final MD\\1906_lviv_triodion_lenten_cohort27.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort27_source.txt",
+      "updated_at": "2026-10-28T13:19:32.459846+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 271,
+      "cohort": 28,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort28_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort28_source.txt",
+      "updated_at": "2026-10-27T23:19:07.403115+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 272,
+      "cohort": 28,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort28_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort28_source.txt",
+      "updated_at": "2026-10-27T23:19:07.403271+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 274,
+      "cohort": 28,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort28_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort28_source.txt",
+      "updated_at": "2026-10-27T23:19:07.403477+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 278,
+      "cohort": 28,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort28_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort28_source.txt",
+      "updated_at": "2026-10-27T23:19:07.403819+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 279,
+      "cohort": 28,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort28_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort28_source.txt",
+      "updated_at": "2026-10-27T23:19:07.403952+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 280,
+      "cohort": 28,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort28_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort28_source.txt",
+      "updated_at": "2026-10-27T23:19:07.404075+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 283,
+      "cohort": 29,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort29_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort29_source.txt",
+      "updated_at": "2026-10-27T23:36:18.842615+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 285,
+      "cohort": 29,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort29_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort29_source.txt",
+      "updated_at": "2026-10-27T23:36:18.842811+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 288,
+      "cohort": 29,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort29_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort29_source.txt",
+      "updated_at": "2026-10-27T23:36:18.843086+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 291,
+      "cohort": 30,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort30_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort30_source.txt",
+      "updated_at": "2026-10-27T23:49:43.218285+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 292,
+      "cohort": 30,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort30_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort30_source.txt",
+      "updated_at": "2026-10-27T23:49:43.218430+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 294,
+      "cohort": 30,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort30_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort30_source.txt",
+      "updated_at": "2026-10-27T23:49:43.218652+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 296,
+      "cohort": 30,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort30_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort30_source.txt",
+      "updated_at": "2026-10-27T23:49:43.218832+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 298,
+      "cohort": 30,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort30_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort30_source.txt",
+      "updated_at": "2026-10-27T23:49:43.219021+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 301,
+      "cohort": 31,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort31_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort31_source.txt",
+      "updated_at": "2026-10-28T00:06:47.271983+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 303,
+      "cohort": 31,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort31_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort31_source.txt",
+      "updated_at": "2026-10-28T00:06:47.272188+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 306,
+      "cohort": 31,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort31_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort31_source.txt",
+      "updated_at": "2026-10-28T00:06:47.272482+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 307,
+      "cohort": 31,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort31_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort31_source.txt",
+      "updated_at": "2026-10-28T00:06:47.272627+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 311,
+      "cohort": 32,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Final MD\\1906_lviv_triodion_lenten_cohort32.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort32_source.txt",
+      "updated_at": "2026-10-28T00:28:56.110852+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 312,
+      "cohort": 32,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Final MD\\1906_lviv_triodion_lenten_cohort32.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort32_source.txt",
+      "updated_at": "2026-10-28T00:28:56.110993+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 317,
+      "cohort": 32,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Final MD\\1906_lviv_triodion_lenten_cohort32.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort32_source.txt",
+      "updated_at": "2026-10-28T00:28:56.111328+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 319,
+      "cohort": 32,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Final MD\\1906_lviv_triodion_lenten_cohort32.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort32_source.txt",
+      "updated_at": "2026-10-28T00:28:56.111501+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 320,
+      "cohort": 32,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Final MD\\1906_lviv_triodion_lenten_cohort32.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort32_source.txt",
+      "updated_at": "2026-10-28T00:28:56.111628+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 332,
+      "cohort": 34,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort34_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort34_source.txt",
+      "updated_at": "2026-10-28T00:53:45.588408+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 333,
+      "cohort": 34,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort34_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort34_source.txt",
+      "updated_at": "2026-10-28T00:53:45.588550+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 334,
+      "cohort": 34,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort34_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort34_source.txt",
+      "updated_at": "2026-10-28T00:53:45.588662+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 338,
+      "cohort": 34,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort34_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort34_source.txt",
+      "updated_at": "2026-10-28T00:53:45.588978+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 339,
+      "cohort": 34,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort34_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort34_source.txt",
+      "updated_at": "2026-10-28T00:53:45.589134+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 341,
+      "cohort": 35,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort35_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort35_source.txt",
+      "updated_at": "2026-10-28T01:11:57.889339+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 345,
+      "cohort": 35,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort35_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort35_source.txt",
+      "updated_at": "2026-10-28T01:11:57.889744+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 346,
+      "cohort": 35,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort35_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort35_source.txt",
+      "updated_at": "2026-10-28T01:11:57.889887+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 352,
+      "cohort": 36,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort36_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort36_source.txt",
+      "updated_at": "2026-10-28T01:23:46.242081+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 355,
+      "cohort": 36,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort36_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort36_source.txt",
+      "updated_at": "2026-10-28T01:23:46.242307+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 362,
+      "cohort": 37,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort37_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort37_source.txt",
+      "updated_at": "2026-10-28T01:37:30.759142+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 385,
+      "cohort": 39,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort39_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort39_source.txt",
+      "updated_at": "2026-10-28T02:09:57.036587+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 419,
+      "cohort": 42,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort42_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort42_source.txt",
+      "updated_at": "2026-10-28T03:00:38.133175+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 473,
+      "cohort": 48,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort48_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort48_source.txt",
+      "updated_at": "2026-10-28T04:32:37.203363+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 483,
+      "cohort": 49,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort49_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort49_source.txt",
+      "updated_at": "2026-10-28T04:47:06.006957+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 485,
+      "cohort": 49,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort49_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort49_source.txt",
+      "updated_at": "2026-10-28T04:47:06.007132+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 489,
+      "cohort": 49,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort49_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort49_source.txt",
+      "updated_at": "2026-10-28T04:47:06.007444+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 491,
+      "cohort": 50,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort50_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort50_source.txt",
+      "updated_at": "2026-10-28T05:02:00.310505+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 492,
+      "cohort": 50,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort50_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort50_source.txt",
+      "updated_at": "2026-10-28T05:02:00.310649+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 494,
+      "cohort": 50,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort50_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort50_source.txt",
+      "updated_at": "2026-10-28T05:02:00.310846+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 496,
+      "cohort": 50,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort50_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort50_source.txt",
+      "updated_at": "2026-10-28T05:02:00.311019+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 497,
+      "cohort": 50,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort50_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort50_source.txt",
+      "updated_at": "2026-10-28T05:02:00.311143+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 498,
+      "cohort": 50,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort50_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort50_source.txt",
+      "updated_at": "2026-10-28T05:02:00.311340+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 499,
+      "cohort": 50,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort50_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort50_source.txt",
+      "updated_at": "2026-10-28T05:02:00.311489+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 500,
+      "cohort": 50,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort50_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort50_source.txt",
+      "updated_at": "2026-10-28T05:02:00.311611+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 502,
+      "cohort": 51,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort51_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort51_source.txt",
+      "updated_at": "2026-10-28T12:00:57.681328+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 506,
+      "cohort": 51,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort51_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort51_source.txt",
+      "updated_at": "2026-10-28T12:00:57.681954+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 507,
+      "cohort": 51,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort51_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort51_source.txt",
+      "updated_at": "2026-10-28T12:00:57.682186+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 512,
+      "cohort": 52,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort52_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort52_source.txt",
+      "updated_at": "2026-10-28T12:22:35.726013+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 522,
+      "cohort": 53,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort53_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort53_source.txt",
+      "updated_at": "2026-10-28T12:59:48.545996+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 526,
+      "cohort": 53,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort53_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort53_source.txt",
+      "updated_at": "2026-10-28T12:59:48.546588+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 527,
+      "cohort": 53,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort53_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort53_source.txt",
+      "updated_at": "2026-10-28T12:59:48.546778+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 529,
+      "cohort": 53,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 11 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort53_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort53_source.txt",
+      "updated_at": "2026-10-28T12:59:48.547136+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    },
+    {
+      "leaf_num": 530,
+      "cohort": 53,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Draft\\1906_lviv_triodion_lenten_cohort53_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Source Text\\1906_lviv_triodion_lenten_cohort53_source.txt",
+      "updated_at": "2026-10-28T12:59:48.547351+00:00",
+      "resolved_at": "2026-10-28T13:19:34.548351+00:00"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "timestamp": "2026-10-27T12:35:56.230927+00:00",
+  "monument_id": "1906_lviv_triodion_lenten",
+  "cohort": 2,
+  "target_file": "1906_lviv_triodion_lenten_cohort2.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1906_lviv_triodion_lenten_cohort2.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1906_lviv_triodion_lenten_cohort2.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1906_lviv_triodion_lenten_cohort2.md",
+      "footnotes_file": "1906_lviv_triodion_lenten_cohort2_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 31,
+      "definition_markers_count": 31,
+      "text_markers": [
+        "[^15]",
+        "[^16]",
+        "[^17]",
+        "[^18]",
+        "[^19]",
+        "[^20]",
+        "[^21]",
+        "[^22]",
+        "[^23]",
+        "[^24]",
+        "[^25]",
+        "[^26]",
+        "[^27]",
+        "[^28]",
+        "[^29]",
+        "[^30]",
+        "[^31]",
+        "[^32]",
+        "[^33]",
+        "[^34]",
+        "[^35]",
+        "[^36]",
+        "[^37]",
+        "[^38]",
+        "[^39]",
+        "[^40]",
+        "[^41]",
+        "[^42]",
+        "[^43]",
+        "[^44]",
+        "[^45]"
+      ],
+      "definition_markers": [
+        "[^15]",
+        "[^16]",
+        "[^17]",
+        "[^18]",
+        "[^19]",
+        "[^20]",
+        "[^21]",
+        "[^22]",
+        "[^23]",
+        "[^24]",
+        "[^25]",
+        "[^26]",
+        "[^27]",
+        "[^28]",
+        "[^29]",
+        "[^30]",
+        "[^31]",
+        "[^32]",
+        "[^33]",
+        "[^34]",
+        "[^35]",
+        "[^36]",
+        "[^37]",
+        "[^38]",
+        "[^39]",
+        "[^40]",
+        "[^41]",
+        "[^42]",
+        "[^43]",
+        "[^44]",
+        "[^45]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1906_lviv_triodion_lenten_cohort2.md",
+      "passed": true,
+      "paragraphs": 246,
+      "headings_count": 2,
+      "headings": [
+        {
+          "line": 18,
+          "level": 2,
+          "title": "SUNDAY ON WHICH IS READ THE HOLY GOSPEL OF THE PARABLE OF THE PRODIGAL SON",
+          "leaf": 11
+        },
+        {
+          "line": 259,
+          "level": 2,
+          "title": "ON MEATFARE SATURDAY",
+          "leaf": 17
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 11,
+        "max_leaf": 20
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [
+      11,
+      17,
+      18
+    ],
+    "total_queued_leaves": 3,
+    "unresolved_quarantines": 0
+  }
+}

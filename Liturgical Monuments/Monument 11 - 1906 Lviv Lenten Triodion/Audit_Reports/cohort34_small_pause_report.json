@@ -1,0 +1,176 @@
+{
+  "timestamp": "2026-10-28T00:53:44.122272+00:00",
+  "monument_id": "1906_lviv_triodion_lenten",
+  "cohort": 34,
+  "target_file": "1906_lviv_triodion_lenten_cohort34_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1906_lviv_triodion_lenten_cohort34_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1906_lviv_triodion_lenten_cohort34_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1906_lviv_triodion_lenten_cohort34_raw_draft.md",
+      "footnotes_file": "1906_lviv_triodion_lenten_cohort34_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 44,
+      "definition_markers_count": 44,
+      "text_markers": [
+        "[^960]",
+        "[^961]",
+        "[^962]",
+        "[^963]",
+        "[^964]",
+        "[^965]",
+        "[^966]",
+        "[^967]",
+        "[^968]",
+        "[^969]",
+        "[^970]",
+        "[^971]",
+        "[^972]",
+        "[^973]",
+        "[^974]",
+        "[^975]",
+        "[^976]",
+        "[^977]",
+        "[^978]",
+        "[^979]",
+        "[^980]",
+        "[^981]",
+        "[^982]",
+        "[^983]",
+        "[^984]",
+        "[^985]",
+        "[^986]",
+        "[^987]",
+        "[^988]",
+        "[^989]",
+        "[^990]",
+        "[^991]",
+        "[^992]",
+        "[^993]",
+        "[^994]",
+        "[^995]",
+        "[^996]",
+        "[^997]",
+        "[^998]",
+        "[^999]",
+        "[^1000]",
+        "[^1001]",
+        "[^1002]",
+        "[^1003]"
+      ],
+      "definition_markers": [
+        "[^960]",
+        "[^961]",
+        "[^962]",
+        "[^963]",
+        "[^964]",
+        "[^965]",
+        "[^966]",
+        "[^967]",
+        "[^968]",
+        "[^969]",
+        "[^970]",
+        "[^971]",
+        "[^972]",
+        "[^973]",
+        "[^974]",
+        "[^975]",
+        "[^976]",
+        "[^977]",
+        "[^978]",
+        "[^979]",
+        "[^980]",
+        "[^981]",
+        "[^982]",
+        "[^983]",
+        "[^984]",
+        "[^985]",
+        "[^986]",
+        "[^987]",
+        "[^988]",
+        "[^989]",
+        "[^990]",
+        "[^991]",
+        "[^992]",
+        "[^993]",
+        "[^994]",
+        "[^995]",
+        "[^996]",
+        "[^997]",
+        "[^998]",
+        "[^999]",
+        "[^1000]",
+        "[^1001]",
+        "[^1002]",
+        "[^1003]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1906_lviv_triodion_lenten_cohort34_raw_draft.md",
+      "passed": true,
+      "paragraphs": 185,
+      "headings_count": 3,
+      "headings": [
+        {
+          "line": 14,
+          "level": 2,
+          "title": "On Monday of the Fifth Week of the Great Fast, at Vespers[^963]",
+          "leaf": 332
+        },
+        {
+          "line": 61,
+          "level": 2,
+          "title": "On Tuesday of the Fifth Week of the Great Fast, at Matins[^974]",
+          "leaf": 334
+        },
+        {
+          "line": 231,
+          "level": 2,
+          "title": "On Tuesday of the Fifth Week of the Great Fast, at Vespers[^994]",
+          "leaf": 339
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 331,
+        "max_leaf": 340
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [
+      332,
+      333,
+      334,
+      338,
+      339
+    ],
+    "total_queued_leaves": 64,
+    "unresolved_quarantines": 0
+  }
+}

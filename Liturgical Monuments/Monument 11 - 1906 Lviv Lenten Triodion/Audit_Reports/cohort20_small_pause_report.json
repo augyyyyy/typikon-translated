@@ -1,0 +1,186 @@
+{
+  "timestamp": "2026-10-27T21:08:50.764461+00:00",
+  "monument_id": "1906_lviv_triodion_lenten",
+  "cohort": 20,
+  "target_file": "1906_lviv_triodion_lenten_cohort20_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1906_lviv_triodion_lenten_cohort20_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1906_lviv_triodion_lenten_cohort20_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1906_lviv_triodion_lenten_cohort20_raw_draft.md",
+      "footnotes_file": "1906_lviv_triodion_lenten_cohort20_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 46,
+      "definition_markers_count": 46,
+      "text_markers": [
+        "[^454]",
+        "[^455]",
+        "[^456]",
+        "[^457]",
+        "[^458]",
+        "[^459]",
+        "[^460]",
+        "[^461]",
+        "[^462]",
+        "[^463]",
+        "[^464]",
+        "[^465]",
+        "[^466]",
+        "[^467]",
+        "[^468]",
+        "[^469]",
+        "[^470]",
+        "[^471]",
+        "[^472]",
+        "[^473]",
+        "[^474]",
+        "[^475]",
+        "[^476]",
+        "[^477]",
+        "[^478]",
+        "[^479]",
+        "[^480]",
+        "[^481]",
+        "[^482]",
+        "[^483]",
+        "[^484]",
+        "[^485]",
+        "[^486]",
+        "[^487]",
+        "[^488]",
+        "[^489]",
+        "[^490]",
+        "[^491]",
+        "[^492]",
+        "[^493]",
+        "[^494]",
+        "[^495]",
+        "[^496]",
+        "[^497]",
+        "[^498]",
+        "[^499]"
+      ],
+      "definition_markers": [
+        "[^454]",
+        "[^455]",
+        "[^456]",
+        "[^457]",
+        "[^458]",
+        "[^459]",
+        "[^460]",
+        "[^461]",
+        "[^462]",
+        "[^463]",
+        "[^464]",
+        "[^465]",
+        "[^466]",
+        "[^467]",
+        "[^468]",
+        "[^469]",
+        "[^470]",
+        "[^471]",
+        "[^472]",
+        "[^473]",
+        "[^474]",
+        "[^475]",
+        "[^476]",
+        "[^477]",
+        "[^478]",
+        "[^479]",
+        "[^480]",
+        "[^481]",
+        "[^482]",
+        "[^483]",
+        "[^484]",
+        "[^485]",
+        "[^486]",
+        "[^487]",
+        "[^488]",
+        "[^489]",
+        "[^490]",
+        "[^491]",
+        "[^492]",
+        "[^493]",
+        "[^494]",
+        "[^495]",
+        "[^496]",
+        "[^497]",
+        "[^498]",
+        "[^499]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1906_lviv_triodion_lenten_cohort20_raw_draft.md",
+      "passed": true,
+      "paragraphs": 177,
+      "headings_count": 4,
+      "headings": [
+        {
+          "line": 16,
+          "level": 2,
+          "title": "On Wednesday of the Second Week of the Great Fast at Vespers[^458]",
+          "leaf": 191
+        },
+        {
+          "line": 57,
+          "level": 2,
+          "title": "On Thursday of the Second Week of the Great Fast at Matins[^468]",
+          "leaf": 193
+        },
+        {
+          "line": 209,
+          "level": 2,
+          "title": "On Thursday of the Second Week of the Great Fast at Vespers[^485]",
+          "leaf": 198
+        },
+        {
+          "line": 252,
+          "level": 2,
+          "title": "On Friday of the Second Week of the Great Fast at Matins[^497]",
+          "leaf": 200
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 191,
+        "max_leaf": 200
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [
+      191,
+      192,
+      197,
+      198,
+      200
+    ],
+    "total_queued_leaves": 26,
+    "unresolved_quarantines": 0
+  }
+}

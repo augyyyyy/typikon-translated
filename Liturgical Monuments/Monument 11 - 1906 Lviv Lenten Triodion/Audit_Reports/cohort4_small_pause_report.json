@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-10-27T15:04:38.825722+00:00",
+  "monument_id": "1906_lviv_triodion_lenten",
+  "cohort": 4,
+  "target_file": "1906_lviv_triodion_lenten_cohort4_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1906_lviv_triodion_lenten_cohort4_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1906_lviv_triodion_lenten_cohort4_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1906_lviv_triodion_lenten_cohort4_raw_draft.md",
+      "footnotes_file": "1906_lviv_triodion_lenten_cohort4_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 22,
+      "definition_markers_count": 22,
+      "text_markers": [
+        "[^86]",
+        "[^87]",
+        "[^88]",
+        "[^89]",
+        "[^90]",
+        "[^91]",
+        "[^92]",
+        "[^93]",
+        "[^94]",
+        "[^95]",
+        "[^96]",
+        "[^97]",
+        "[^98]",
+        "[^99]",
+        "[^100]",
+        "[^101]",
+        "[^102]",
+        "[^103]",
+        "[^104]",
+        "[^105]",
+        "[^106]",
+        "[^107]"
+      ],
+      "definition_markers": [
+        "[^86]",
+        "[^87]",
+        "[^88]",
+        "[^89]",
+        "[^90]",
+        "[^91]",
+        "[^92]",
+        "[^93]",
+        "[^94]",
+        "[^95]",
+        "[^96]",
+        "[^97]",
+        "[^98]",
+        "[^99]",
+        "[^100]",
+        "[^101]",
+        "[^102]",
+        "[^103]",
+        "[^104]",
+        "[^105]",
+        "[^106]",
+        "[^107]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1906_lviv_triodion_lenten_cohort4_raw_draft.md",
+      "passed": true,
+      "paragraphs": 254,
+      "headings_count": 3,
+      "headings": [
+        {
+          "line": 101,
+          "level": 2,
+          "title": "CHEESEFARE MONDAY",
+          "leaf": 33
+        },
+        {
+          "line": 222,
+          "level": 2,
+          "title": "CHEESEFARE TUESDAY",
+          "leaf": 36
+        },
+        {
+          "line": 345,
+          "level": 2,
+          "title": "CHEESEFARE WEDNESDAY",
+          "leaf": 39
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 31,
+        "max_leaf": 40
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "total_queued_leaves": 7,
+    "unresolved_quarantines": 0
+  }
+}

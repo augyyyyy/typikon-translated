@@ -1,0 +1,155 @@
+{
+  "timestamp": "2026-10-27T12:53:24.764816+00:00",
+  "monument_id": "1906_lviv_triodion_lenten",
+  "cohort": 3,
+  "target_file": "1906_lviv_triodion_lenten_cohort3_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1906_lviv_triodion_lenten_cohort3_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1906_lviv_triodion_lenten_cohort3_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1906_lviv_triodion_lenten_cohort3_raw_draft.md",
+      "footnotes_file": "1906_lviv_triodion_lenten_cohort3_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 40,
+      "definition_markers_count": 40,
+      "text_markers": [
+        "[^46]",
+        "[^47]",
+        "[^48]",
+        "[^49]",
+        "[^50]",
+        "[^51]",
+        "[^52]",
+        "[^53]",
+        "[^54]",
+        "[^55]",
+        "[^56]",
+        "[^57]",
+        "[^58]",
+        "[^59]",
+        "[^60]",
+        "[^61]",
+        "[^62]",
+        "[^63]",
+        "[^64]",
+        "[^65]",
+        "[^66]",
+        "[^67]",
+        "[^68]",
+        "[^69]",
+        "[^70]",
+        "[^71]",
+        "[^72]",
+        "[^73]",
+        "[^74]",
+        "[^75]",
+        "[^76]",
+        "[^77]",
+        "[^78]",
+        "[^79]",
+        "[^80]",
+        "[^81]",
+        "[^82]",
+        "[^83]",
+        "[^84]",
+        "[^85]"
+      ],
+      "definition_markers": [
+        "[^46]",
+        "[^47]",
+        "[^48]",
+        "[^49]",
+        "[^50]",
+        "[^51]",
+        "[^52]",
+        "[^53]",
+        "[^54]",
+        "[^55]",
+        "[^56]",
+        "[^57]",
+        "[^58]",
+        "[^59]",
+        "[^60]",
+        "[^61]",
+        "[^62]",
+        "[^63]",
+        "[^64]",
+        "[^65]",
+        "[^66]",
+        "[^67]",
+        "[^68]",
+        "[^69]",
+        "[^70]",
+        "[^71]",
+        "[^72]",
+        "[^73]",
+        "[^74]",
+        "[^75]",
+        "[^76]",
+        "[^77]",
+        "[^78]",
+        "[^79]",
+        "[^80]",
+        "[^81]",
+        "[^82]",
+        "[^83]",
+        "[^84]",
+        "[^85]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1906_lviv_triodion_lenten_cohort3_raw_draft.md",
+      "passed": true,
+      "paragraphs": 232,
+      "headings_count": 1,
+      "headings": [
+        {
+          "line": 189,
+          "level": 2,
+          "title": "SUNDAY OF MEATFARE",
+          "leaf": 25
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 21,
+        "max_leaf": 30
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 11 - 1906 Lviv Lenten Triodion\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [
+      24,
+      26,
+      27,
+      30
+    ],
+    "total_queued_leaves": 7,
+    "unresolved_quarantines": 0
+  }
+}
