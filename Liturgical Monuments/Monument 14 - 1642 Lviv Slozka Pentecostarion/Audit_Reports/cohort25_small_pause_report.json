@@ -1,0 +1,112 @@
+{
+  "timestamp": "2026-10-28T04:40:45.863699+00:00",
+  "monument_id": "1642_lviv_slozka_pentecostarion",
+  "cohort": 25,
+  "target_file": "1642_lviv_slozka_pentecostarion_cohort25_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1642_lviv_slozka_pentecostarion_cohort25_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1642_lviv_slozka_pentecostarion_cohort25_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1642_lviv_slozka_pentecostarion_cohort25_raw_draft.md",
+      "footnotes_file": "1642_lviv_slozka_pentecostarion_cohort25_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 12,
+      "definition_markers_count": 12,
+      "text_markers": [
+        "[^575]",
+        "[^576]",
+        "[^577]",
+        "[^578]",
+        "[^579]",
+        "[^580]",
+        "[^581]",
+        "[^582]",
+        "[^583]",
+        "[^584]",
+        "[^585]",
+        "[^586]"
+      ],
+      "definition_markers": [
+        "[^575]",
+        "[^576]",
+        "[^577]",
+        "[^578]",
+        "[^579]",
+        "[^580]",
+        "[^581]",
+        "[^582]",
+        "[^583]",
+        "[^584]",
+        "[^585]",
+        "[^586]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1642_lviv_slozka_pentecostarion_cohort25_raw_draft.md",
+      "passed": true,
+      "paragraphs": 230,
+      "headings_count": 4,
+      "headings": [
+        {
+          "line": 102,
+          "level": 2,
+          "title": "On the Same Sunday Evening",
+          "leaf": 245
+        },
+        {
+          "line": 126,
+          "level": 2,
+          "title": "On Monday of the Third Week after Pascha",
+          "leaf": 246
+        },
+        {
+          "line": 184,
+          "level": 2,
+          "title": "On Monday Evening of the Third Week",
+          "leaf": 248
+        },
+        {
+          "line": 204,
+          "level": 2,
+          "title": "On Tuesday of the Third Week after Pascha",
+          "leaf": 249
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 241,
+        "max_leaf": 250
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "total_queued_leaves": 30,
+    "unresolved_quarantines": 0
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "timestamp": "2026-10-27T19:41:12.971660+00:00",
+  "monument_id": "1642_lviv_slozka_pentecostarion",
+  "cohort": 3,
+  "target_file": "1642_lviv_slozka_pentecostarion_cohort3_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1642_lviv_slozka_pentecostarion_cohort3_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1642_lviv_slozka_pentecostarion_cohort3_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1642_lviv_slozka_pentecostarion_cohort3_raw_draft.md",
+      "footnotes_file": "1642_lviv_slozka_pentecostarion_cohort3_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 48,
+      "definition_markers_count": 48,
+      "text_markers": [
+        "[^67]",
+        "[^68]",
+        "[^69]",
+        "[^70]",
+        "[^71]",
+        "[^72]",
+        "[^73]",
+        "[^74]",
+        "[^75]",
+        "[^76]",
+        "[^77]",
+        "[^78]",
+        "[^79]",
+        "[^80]",
+        "[^81]",
+        "[^82]",
+        "[^83]",
+        "[^84]",
+        "[^85]",
+        "[^86]",
+        "[^87]",
+        "[^88]",
+        "[^89]",
+        "[^90]",
+        "[^91]",
+        "[^92]",
+        "[^93]",
+        "[^94]",
+        "[^95]",
+        "[^96]",
+        "[^97]",
+        "[^98]",
+        "[^99]",
+        "[^100]",
+        "[^101]",
+        "[^102]",
+        "[^103]",
+        "[^104]",
+        "[^105]",
+        "[^106]",
+        "[^107]",
+        "[^108]",
+        "[^109]",
+        "[^110]",
+        "[^111]",
+        "[^112]",
+        "[^113]",
+        "[^114]"
+      ],
+      "definition_markers": [
+        "[^67]",
+        "[^68]",
+        "[^69]",
+        "[^70]",
+        "[^71]",
+        "[^72]",
+        "[^73]",
+        "[^74]",
+        "[^75]",
+        "[^76]",
+        "[^77]",
+        "[^78]",
+        "[^79]",
+        "[^80]",
+        "[^81]",
+        "[^82]",
+        "[^83]",
+        "[^84]",
+        "[^85]",
+        "[^86]",
+        "[^87]",
+        "[^88]",
+        "[^89]",
+        "[^90]",
+        "[^91]",
+        "[^92]",
+        "[^93]",
+        "[^94]",
+        "[^95]",
+        "[^96]",
+        "[^97]",
+        "[^98]",
+        "[^99]",
+        "[^100]",
+        "[^101]",
+        "[^102]",
+        "[^103]",
+        "[^104]",
+        "[^105]",
+        "[^106]",
+        "[^107]",
+        "[^108]",
+        "[^109]",
+        "[^110]",
+        "[^111]",
+        "[^112]",
+        "[^113]",
+        "[^114]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1642_lviv_slozka_pentecostarion_cohort3_raw_draft.md",
+      "passed": true,
+      "paragraphs": 236,
+      "headings_count": 4,
+      "headings": [
+        {
+          "line": 90,
+          "level": 2,
+          "title": "Lazarus Saturday: Divine Liturgy",
+          "leaf": 22
+        },
+        {
+          "line": 108,
+          "level": 2,
+          "title": "Palm Sunday: Small Vespers",
+          "leaf": 23
+        },
+        {
+          "line": 155,
+          "level": 2,
+          "title": "Palm Sunday: Great Vespers",
+          "leaf": 24
+        },
+        {
+          "line": 263,
+          "level": 2,
+          "title": "Palm Sunday: Matins",
+          "leaf": 28
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 21,
+        "max_leaf": 30
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [
+      21,
+      22,
+      23,
+      27,
+      29
+    ],
+    "total_queued_leaves": 10,
+    "unresolved_quarantines": 0
+  }
+}

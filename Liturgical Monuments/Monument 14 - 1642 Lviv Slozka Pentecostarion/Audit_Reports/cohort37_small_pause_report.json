@@ -1,0 +1,158 @@
+{
+  "timestamp": "2026-10-28T10:28:43.901368+00:00",
+  "monument_id": "1642_lviv_slozka_pentecostarion",
+  "cohort": 37,
+  "target_file": "1642_lviv_slozka_pentecostarion_cohort37_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1642_lviv_slozka_pentecostarion_cohort37_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1642_lviv_slozka_pentecostarion_cohort37_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1642_lviv_slozka_pentecostarion_cohort37_raw_draft.md",
+      "footnotes_file": "1642_lviv_slozka_pentecostarion_cohort37_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 42,
+      "definition_markers_count": 42,
+      "text_markers": [
+        "[^794]",
+        "[^795]",
+        "[^796]",
+        "[^797]",
+        "[^798]",
+        "[^799]",
+        "[^800]",
+        "[^801]",
+        "[^802]",
+        "[^803]",
+        "[^804]",
+        "[^805]",
+        "[^806]",
+        "[^807]",
+        "[^808]",
+        "[^809]",
+        "[^810]",
+        "[^811]",
+        "[^812]",
+        "[^813]",
+        "[^814]",
+        "[^815]",
+        "[^816]",
+        "[^817]",
+        "[^818]",
+        "[^819]",
+        "[^820]",
+        "[^821]",
+        "[^822]",
+        "[^823]",
+        "[^824]",
+        "[^825]",
+        "[^826]",
+        "[^827]",
+        "[^828]",
+        "[^829]",
+        "[^830]",
+        "[^831]",
+        "[^832]",
+        "[^833]",
+        "[^834]",
+        "[^835]"
+      ],
+      "definition_markers": [
+        "[^794]",
+        "[^795]",
+        "[^796]",
+        "[^797]",
+        "[^798]",
+        "[^799]",
+        "[^800]",
+        "[^801]",
+        "[^802]",
+        "[^803]",
+        "[^804]",
+        "[^805]",
+        "[^806]",
+        "[^807]",
+        "[^808]",
+        "[^809]",
+        "[^810]",
+        "[^811]",
+        "[^812]",
+        "[^813]",
+        "[^814]",
+        "[^815]",
+        "[^816]",
+        "[^817]",
+        "[^818]",
+        "[^819]",
+        "[^820]",
+        "[^821]",
+        "[^822]",
+        "[^823]",
+        "[^824]",
+        "[^825]",
+        "[^826]",
+        "[^827]",
+        "[^828]",
+        "[^829]",
+        "[^830]",
+        "[^831]",
+        "[^832]",
+        "[^833]",
+        "[^834]",
+        "[^835]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1642_lviv_slozka_pentecostarion_cohort37_raw_draft.md",
+      "passed": true,
+      "paragraphs": 277,
+      "headings_count": 1,
+      "headings": [
+        {
+          "line": 85,
+          "level": 2,
+          "title": "On the Seventh Sunday after Pascha. At Matins.",
+          "leaf": 364
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 361,
+        "max_leaf": 370
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [
+      361,
+      363,
+      366
+    ],
+    "total_queued_leaves": 39,
+    "unresolved_quarantines": 0
+  }
+}

@@ -1,0 +1,656 @@
+{
+  "monument_id": "1642_lviv_slozka_pentecostarion",
+  "updated_at": "2026-10-29T10:19:29.313912+00:00",
+  "total_queued_leaves": 0,
+  "unresolved_quarantines": 0,
+  "items": [
+    {
+      "leaf_num": 5,
+      "cohort": 1,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Final MD\\1642_lviv_slozka_pentecostarion_cohort1.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort1_source.txt",
+      "updated_at": "2026-10-27T19:01:33.358103+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313824+00:00"
+    },
+    {
+      "leaf_num": 9,
+      "cohort": 1,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 11 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Final MD\\1642_lviv_slozka_pentecostarion_cohort1.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort1_source.txt",
+      "updated_at": "2026-10-27T19:01:33.358551+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313837+00:00"
+    },
+    {
+      "leaf_num": 15,
+      "cohort": 2,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Final MD\\1642_lviv_slozka_pentecostarion_cohort2.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort2_source.txt",
+      "updated_at": "2026-10-27T19:20:09.396091+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313839+00:00"
+    },
+    {
+      "leaf_num": 16,
+      "cohort": 2,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Final MD\\1642_lviv_slozka_pentecostarion_cohort2.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort2_source.txt",
+      "updated_at": "2026-10-27T19:20:09.396250+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313841+00:00"
+    },
+    {
+      "leaf_num": 20,
+      "cohort": 2,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Final MD\\1642_lviv_slozka_pentecostarion_cohort2.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort2_source.txt",
+      "updated_at": "2026-10-27T19:20:09.396632+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313843+00:00"
+    },
+    {
+      "leaf_num": 21,
+      "cohort": 3,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort3_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort3_source.txt",
+      "updated_at": "2026-10-27T19:41:14.858144+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313844+00:00"
+    },
+    {
+      "leaf_num": 22,
+      "cohort": 3,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort3_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort3_source.txt",
+      "updated_at": "2026-10-27T19:41:14.858305+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313845+00:00"
+    },
+    {
+      "leaf_num": 23,
+      "cohort": 3,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort3_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort3_source.txt",
+      "updated_at": "2026-10-27T19:41:14.858431+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313847+00:00"
+    },
+    {
+      "leaf_num": 27,
+      "cohort": 3,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort3_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort3_source.txt",
+      "updated_at": "2026-10-27T19:41:14.858832+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313848+00:00"
+    },
+    {
+      "leaf_num": 29,
+      "cohort": 3,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort3_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort3_source.txt",
+      "updated_at": "2026-10-27T19:41:14.859075+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313849+00:00"
+    },
+    {
+      "leaf_num": 31,
+      "cohort": 4,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort4_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort4_source.txt",
+      "updated_at": "2026-10-27T20:07:46.703117+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313851+00:00"
+    },
+    {
+      "leaf_num": 32,
+      "cohort": 4,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort4_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort4_source.txt",
+      "updated_at": "2026-10-27T20:07:46.703282+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313852+00:00"
+    },
+    {
+      "leaf_num": 33,
+      "cohort": 4,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort4_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort4_source.txt",
+      "updated_at": "2026-10-27T20:07:46.703422+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313854+00:00"
+    },
+    {
+      "leaf_num": 35,
+      "cohort": 4,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort4_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort4_source.txt",
+      "updated_at": "2026-10-27T20:07:46.703673+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313855+00:00"
+    },
+    {
+      "leaf_num": 37,
+      "cohort": 4,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort4_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort4_source.txt",
+      "updated_at": "2026-10-27T20:07:46.703956+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313856+00:00"
+    },
+    {
+      "leaf_num": 38,
+      "cohort": 4,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort4_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort4_source.txt",
+      "updated_at": "2026-10-27T20:07:46.704097+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313858+00:00"
+    },
+    {
+      "leaf_num": 39,
+      "cohort": 4,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort4_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort4_source.txt",
+      "updated_at": "2026-10-27T20:07:46.704245+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313859+00:00"
+    },
+    {
+      "leaf_num": 40,
+      "cohort": 4,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort4_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort4_source.txt",
+      "updated_at": "2026-10-27T20:07:46.704378+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313860+00:00"
+    },
+    {
+      "leaf_num": 42,
+      "cohort": 5,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort5_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort5_source.txt",
+      "updated_at": "2026-10-27T20:43:06.196279+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313862+00:00"
+    },
+    {
+      "leaf_num": 52,
+      "cohort": 6,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort6_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort6_source.txt",
+      "updated_at": "2026-10-27T21:11:13.998970+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313863+00:00"
+    },
+    {
+      "leaf_num": 60,
+      "cohort": 6,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort6_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort6_source.txt",
+      "updated_at": "2026-10-27T21:11:13.999701+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313865+00:00"
+    },
+    {
+      "leaf_num": 61,
+      "cohort": 7,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort7_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort7_source.txt",
+      "updated_at": "2026-10-27T21:33:43.488197+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313866+00:00"
+    },
+    {
+      "leaf_num": 74,
+      "cohort": 8,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort8_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort8_source.txt",
+      "updated_at": "2026-10-27T21:58:57.451810+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313868+00:00"
+    },
+    {
+      "leaf_num": 81,
+      "cohort": 9,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort9_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort9_source.txt",
+      "updated_at": "2026-10-27T22:23:53.638004+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313869+00:00"
+    },
+    {
+      "leaf_num": 113,
+      "cohort": 12,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort12_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort12_source.txt",
+      "updated_at": "2026-10-28T00:02:37.262630+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313870+00:00"
+    },
+    {
+      "leaf_num": 114,
+      "cohort": 12,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "borderline_sgc02_ratio: 2.68 (draft=7505c, source=2797c)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort12_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort12_source.txt",
+      "updated_at": "2026-10-28T00:02:37.262847+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313872+00:00"
+    },
+    {
+      "leaf_num": 118,
+      "cohort": 12,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "borderline_sgc02_ratio: 2.20 (draft=6184c, source=2807c)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort12_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort12_source.txt",
+      "updated_at": "2026-10-28T00:02:37.263280+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313873+00:00"
+    },
+    {
+      "leaf_num": 126,
+      "cohort": 13,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort13_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort13_source.txt",
+      "updated_at": "2026-10-28T00:26:14.798132+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313875+00:00"
+    },
+    {
+      "leaf_num": 142,
+      "cohort": 15,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort15_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort15_source.txt",
+      "updated_at": "2026-10-28T00:59:54.849997+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313876+00:00"
+    },
+    {
+      "leaf_num": 151,
+      "cohort": 16,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort16_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort16_source.txt",
+      "updated_at": "2026-10-28T01:16:32.997326+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313878+00:00"
+    },
+    {
+      "leaf_num": 300,
+      "cohort": 30,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort30_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort30_source.txt",
+      "updated_at": "2026-10-28T06:50:02.230268+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313879+00:00"
+    },
+    {
+      "leaf_num": 301,
+      "cohort": 31,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort31_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort31_source.txt",
+      "updated_at": "2026-10-28T07:18:36.869020+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313880+00:00"
+    },
+    {
+      "leaf_num": 341,
+      "cohort": 35,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort35_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort35_source.txt",
+      "updated_at": "2026-10-28T09:09:46.162474+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313882+00:00"
+    },
+    {
+      "leaf_num": 343,
+      "cohort": 35,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort35_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort35_source.txt",
+      "updated_at": "2026-10-28T09:09:46.162758+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313883+00:00"
+    },
+    {
+      "leaf_num": 348,
+      "cohort": 35,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort35_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort35_source.txt",
+      "updated_at": "2026-10-28T09:09:46.163306+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313884+00:00"
+    },
+    {
+      "leaf_num": 355,
+      "cohort": 36,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort36_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort36_source.txt",
+      "updated_at": "2026-10-28T09:33:11.606843+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313886+00:00"
+    },
+    {
+      "leaf_num": 361,
+      "cohort": 37,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort37_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort37_source.txt",
+      "updated_at": "2026-10-28T10:28:45.684245+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313887+00:00"
+    },
+    {
+      "leaf_num": 363,
+      "cohort": 37,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort37_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort37_source.txt",
+      "updated_at": "2026-10-28T10:28:45.684572+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313889+00:00"
+    },
+    {
+      "leaf_num": 366,
+      "cohort": 37,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort37_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort37_source.txt",
+      "updated_at": "2026-10-28T10:28:45.684943+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313890+00:00"
+    },
+    {
+      "leaf_num": 371,
+      "cohort": 38,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort38_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort38_source.txt",
+      "updated_at": "2026-10-28T10:57:12.238458+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313891+00:00"
+    },
+    {
+      "leaf_num": 372,
+      "cohort": 38,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort38_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort38_source.txt",
+      "updated_at": "2026-10-28T10:57:12.238631+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313892+00:00"
+    },
+    {
+      "leaf_num": 373,
+      "cohort": 38,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 11 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort38_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort38_source.txt",
+      "updated_at": "2026-10-28T10:57:12.238810+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313894+00:00"
+    },
+    {
+      "leaf_num": 375,
+      "cohort": 38,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort38_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort38_source.txt",
+      "updated_at": "2026-10-28T10:57:12.239056+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313896+00:00"
+    },
+    {
+      "leaf_num": 376,
+      "cohort": 38,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort38_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort38_source.txt",
+      "updated_at": "2026-10-28T10:57:12.239216+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313897+00:00"
+    },
+    {
+      "leaf_num": 378,
+      "cohort": 38,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 12 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort38_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort38_source.txt",
+      "updated_at": "2026-10-28T10:57:12.239445+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313898+00:00"
+    },
+    {
+      "leaf_num": 380,
+      "cohort": 38,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort38_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort38_source.txt",
+      "updated_at": "2026-10-28T10:57:12.239681+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313900+00:00"
+    },
+    {
+      "leaf_num": 381,
+      "cohort": 39,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort39_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort39_source.txt",
+      "updated_at": "2026-10-28T11:22:15.732795+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313901+00:00"
+    },
+    {
+      "leaf_num": 384,
+      "cohort": 39,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort39_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort39_source.txt",
+      "updated_at": "2026-10-28T11:22:15.733389+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313903+00:00"
+    },
+    {
+      "leaf_num": 390,
+      "cohort": 39,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort39_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort39_source.txt",
+      "updated_at": "2026-10-28T11:22:15.734225+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313904+00:00"
+    },
+    {
+      "leaf_num": 393,
+      "cohort": 40,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort40_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort40_source.txt",
+      "updated_at": "2026-10-28T11:59:44.089073+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313905+00:00"
+    },
+    {
+      "leaf_num": 394,
+      "cohort": 40,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort40_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort40_source.txt",
+      "updated_at": "2026-10-28T11:59:44.089244+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313907+00:00"
+    },
+    {
+      "leaf_num": 395,
+      "cohort": 40,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort40_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort40_source.txt",
+      "updated_at": "2026-10-28T11:59:44.089408+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313908+00:00"
+    },
+    {
+      "leaf_num": 399,
+      "cohort": 40,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Draft\\1642_lviv_slozka_pentecostarion_cohort40_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort40_source.txt",
+      "updated_at": "2026-10-28T11:59:44.089909+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313909+00:00"
+    },
+    {
+      "leaf_num": 408,
+      "cohort": 41,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Final MD\\1642_lviv_slozka_pentecostarion_cohort41.md",
+      "source_file": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Source Text\\1642_lviv_slozka_pentecostarion_cohort41_source.txt",
+      "updated_at": "2026-10-28T12:41:13.653388+00:00",
+      "resolved_at": "2026-10-29T10:19:29.313911+00:00"
+    }
+  ]
+}

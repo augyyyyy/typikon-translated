@@ -1,0 +1,161 @@
+{
+  "timestamp": "2026-10-27T21:11:12.168986+00:00",
+  "monument_id": "1642_lviv_slozka_pentecostarion",
+  "cohort": 6,
+  "target_file": "1642_lviv_slozka_pentecostarion_cohort6_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1642_lviv_slozka_pentecostarion_cohort6_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1642_lviv_slozka_pentecostarion_cohort6_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1642_lviv_slozka_pentecostarion_cohort6_raw_draft.md",
+      "footnotes_file": "1642_lviv_slozka_pentecostarion_cohort6_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 29,
+      "definition_markers_count": 29,
+      "text_markers": [
+        "[^208]",
+        "[^209]",
+        "[^210]",
+        "[^211]",
+        "[^212]",
+        "[^213]",
+        "[^214]",
+        "[^215]",
+        "[^216]",
+        "[^217]",
+        "[^218]",
+        "[^219]",
+        "[^220]",
+        "[^221]",
+        "[^222]",
+        "[^223]",
+        "[^224]",
+        "[^225]",
+        "[^226]",
+        "[^227]",
+        "[^228]",
+        "[^229]",
+        "[^230]",
+        "[^231]",
+        "[^232]",
+        "[^233]",
+        "[^234]",
+        "[^235]",
+        "[^236]"
+      ],
+      "definition_markers": [
+        "[^208]",
+        "[^209]",
+        "[^210]",
+        "[^211]",
+        "[^212]",
+        "[^213]",
+        "[^214]",
+        "[^215]",
+        "[^216]",
+        "[^217]",
+        "[^218]",
+        "[^219]",
+        "[^220]",
+        "[^221]",
+        "[^222]",
+        "[^223]",
+        "[^224]",
+        "[^225]",
+        "[^226]",
+        "[^227]",
+        "[^228]",
+        "[^229]",
+        "[^230]",
+        "[^231]",
+        "[^232]",
+        "[^233]",
+        "[^234]",
+        "[^235]",
+        "[^236]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1642_lviv_slozka_pentecostarion_cohort6_raw_draft.md",
+      "passed": true,
+      "paragraphs": 210,
+      "headings_count": 6,
+      "headings": [
+        {
+          "line": 20,
+          "level": 2,
+          "title": "Typikon for the Feast of the Annunciation on Great and Holy Tuesday[^208]",
+          "leaf": 51
+        },
+        {
+          "line": 42,
+          "level": 2,
+          "title": "Great and Holy Tuesday: Matins[^211]",
+          "leaf": 52
+        },
+        {
+          "line": 144,
+          "level": 2,
+          "title": "Great and Holy Tuesday: Sixth Hour[^224]",
+          "leaf": 55
+        },
+        {
+          "line": 166,
+          "level": 2,
+          "title": "Great and Holy Tuesday: Liturgy of the Presanctified Gifts[^226]",
+          "leaf": 56
+        },
+        {
+          "line": 219,
+          "level": 2,
+          "title": "Great and Holy Tuesday: Great Compline[^229]",
+          "leaf": 58
+        },
+        {
+          "line": 333,
+          "level": 2,
+          "title": "Typikon for the Feast of the Annunciation on Great and Holy Wednesday[^235]",
+          "leaf": 60
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 51,
+        "max_leaf": 60
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [
+      52,
+      60
+    ],
+    "total_queued_leaves": 21,
+    "unresolved_quarantines": 0
+  }
+}

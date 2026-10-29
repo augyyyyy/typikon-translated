@@ -1,0 +1,3 @@
+=== LEAF p441 ===
+
+[Rear pastedown and final flyleaf: opening featuring the verso of the final blank protective flyleaf of the book block on the left and the rear pastedown affixed to the inner face of the lower wooden binding board on the right. The paper is blank 17th-century handmade laid paper with visible chainlines and wirelines, containing no printed text, manuscript inscriptions, ownership marks, marginalia, foliation, or library stamps. Visible along the inner hinge is a cloth spine reinforcement strip with hand-sewn two-color endbands at the head and tail. Along the outer edges of the right board, the turn-ins of the dark brown blind-tooled binding leather are visible, with two leather clasp straps extending from the fore-edge.][^1066]

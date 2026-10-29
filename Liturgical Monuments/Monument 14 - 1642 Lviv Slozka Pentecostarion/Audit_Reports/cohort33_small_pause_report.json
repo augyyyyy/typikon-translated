@@ -1,0 +1,96 @@
+{
+  "timestamp": "2026-10-28T08:23:35.115813+00:00",
+  "monument_id": "1642_lviv_slozka_pentecostarion",
+  "cohort": 33,
+  "target_file": "1642_lviv_slozka_pentecostarion_cohort33_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1642_lviv_slozka_pentecostarion_cohort33_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1642_lviv_slozka_pentecostarion_cohort33_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1642_lviv_slozka_pentecostarion_cohort33_raw_draft.md",
+      "footnotes_file": "1642_lviv_slozka_pentecostarion_cohort33_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 13,
+      "definition_markers_count": 13,
+      "text_markers": [
+        "[^700]",
+        "[^701]",
+        "[^702]",
+        "[^703]",
+        "[^704]",
+        "[^705]",
+        "[^706]",
+        "[^707]",
+        "[^708]",
+        "[^709]",
+        "[^710]",
+        "[^711]",
+        "[^712]"
+      ],
+      "definition_markers": [
+        "[^700]",
+        "[^701]",
+        "[^702]",
+        "[^703]",
+        "[^704]",
+        "[^705]",
+        "[^706]",
+        "[^707]",
+        "[^708]",
+        "[^709]",
+        "[^710]",
+        "[^711]",
+        "[^712]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1642_lviv_slozka_pentecostarion_cohort33_raw_draft.md",
+      "passed": true,
+      "paragraphs": 254,
+      "headings_count": 1,
+      "headings": [
+        {
+          "line": 68,
+          "level": 2,
+          "title": "SIXTH SUNDAY AFTER PASCHA: SUNDAY OF THE BLIND MAN",
+          "leaf": 322
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 321,
+        "max_leaf": 330
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "total_queued_leaves": 32,
+    "unresolved_quarantines": 0
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-10-29T10:19:21.358801+00:00",
+  "monument_id": "1642_lviv_slozka_pentecostarion",
+  "cohort": 1,
+  "target_file": "1642_lviv_slozka_pentecostarion_cohort1.txt",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1642_lviv_slozka_pentecostarion_cohort1.txt",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1642_lviv_slozka_pentecostarion_cohort1.txt",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1642_lviv_slozka_pentecostarion_cohort1.txt",
+      "footnotes_file": "1642_lviv_slozka_pentecostarion_cohort1_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 25,
+      "definition_markers_count": 25,
+      "text_markers": [
+        "[^1]",
+        "[^2]",
+        "[^3]",
+        "[^4]",
+        "[^5]",
+        "[^6]",
+        "[^7]",
+        "[^8]",
+        "[^9]",
+        "[^10]",
+        "[^11]",
+        "[^12]",
+        "[^13]",
+        "[^14]",
+        "[^15]",
+        "[^16]",
+        "[^17]",
+        "[^18]",
+        "[^19]",
+        "[^20]",
+        "[^21]",
+        "[^22]",
+        "[^23]",
+        "[^24]",
+        "[^25]"
+      ],
+      "definition_markers": [
+        "[^1]",
+        "[^2]",
+        "[^3]",
+        "[^4]",
+        "[^5]",
+        "[^6]",
+        "[^7]",
+        "[^8]",
+        "[^9]",
+        "[^10]",
+        "[^11]",
+        "[^12]",
+        "[^13]",
+        "[^14]",
+        "[^15]",
+        "[^16]",
+        "[^17]",
+        "[^18]",
+        "[^19]",
+        "[^20]",
+        "[^21]",
+        "[^22]",
+        "[^23]",
+        "[^24]",
+        "[^25]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1642_lviv_slozka_pentecostarion_cohort1.txt",
+      "passed": true,
+      "paragraphs": 121,
+      "headings_count": 2,
+      "headings": [
+        {
+          "line": 27,
+          "level": 1,
+          "title": "PART I: LAZARUS SATURDAY, PALM SUNDAY, AND GREAT AND HOLY PASSION WEEK",
+          "leaf": 5
+        },
+        {
+          "line": 29,
+          "level": 2,
+          "title": "Lazarus Saturday: Vespers on Friday Evening",
+          "leaf": 5
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 1,
+        "max_leaf": 10
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 14 - 1642 Lviv Slozka Pentecostarion\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "total_queued_leaves": 0,
+    "unresolved_quarantines": 0
+  }
+}
