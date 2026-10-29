@@ -1,0 +1,122 @@
+{
+  "timestamp": "2026-10-28T08:28:03.763779+00:00",
+  "monument_id": "1640_kyiv_triodion",
+  "cohort": 39,
+  "target_file": "1640_kyiv_triodion_cohort39_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1640_kyiv_triodion_cohort39_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1640_kyiv_triodion_cohort39_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1640_kyiv_triodion_cohort39_raw_draft.md",
+      "footnotes_file": "1640_kyiv_triodion_cohort39_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 26,
+      "definition_markers_count": 26,
+      "text_markers": [
+        "[^1109]",
+        "[^1110]",
+        "[^1111]",
+        "[^1112]",
+        "[^1113]",
+        "[^1114]",
+        "[^1115]",
+        "[^1116]",
+        "[^1117]",
+        "[^1118]",
+        "[^1119]",
+        "[^1120]",
+        "[^1121]",
+        "[^1122]",
+        "[^1123]",
+        "[^1124]",
+        "[^1125]",
+        "[^1126]",
+        "[^1127]",
+        "[^1128]",
+        "[^1129]",
+        "[^1130]",
+        "[^1131]",
+        "[^1132]",
+        "[^1133]",
+        "[^1134]"
+      ],
+      "definition_markers": [
+        "[^1109]",
+        "[^1110]",
+        "[^1111]",
+        "[^1112]",
+        "[^1113]",
+        "[^1114]",
+        "[^1115]",
+        "[^1116]",
+        "[^1117]",
+        "[^1118]",
+        "[^1119]",
+        "[^1120]",
+        "[^1121]",
+        "[^1122]",
+        "[^1123]",
+        "[^1124]",
+        "[^1125]",
+        "[^1126]",
+        "[^1127]",
+        "[^1128]",
+        "[^1129]",
+        "[^1130]",
+        "[^1131]",
+        "[^1132]",
+        "[^1133]",
+        "[^1134]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1640_kyiv_triodion_cohort39_raw_draft.md",
+      "passed": true,
+      "paragraphs": 99,
+      "headings_count": 1,
+      "headings": [
+        {
+          "line": 31,
+          "level": 2,
+          "title": "Tuesday of the Second Week of Great Lent",
+          "leaf": 383
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 381,
+        "max_leaf": 390
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "total_queued_leaves": 62,
+    "unresolved_quarantines": 0
+  }
+}

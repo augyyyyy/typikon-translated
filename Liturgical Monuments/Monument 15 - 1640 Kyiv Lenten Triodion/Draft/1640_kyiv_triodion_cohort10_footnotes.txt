@@ -1,0 +1,23 @@
+[^254]: Typikon chapter 46 (*Ѡ Ѿда́нїи Стрѣ́тенїа. Глава̀, м҃ѕ* / On the Apodosis of the Meeting of the Lord, Chapter 46), regulating the Apodosis (*Ѡтданїе*) of the Feast of the Meeting of the Lord (Hypapante, Feb. 2) when the feast falls on Wednesday, Thursday, Friday, or Saturday of Meatfare Week, in which case its Apodosis is appointed for Cheesefare Tuesday, setting forth the complete order of Vespers, Matins, and Divine Liturgy.
+
+[^255]: Marginal cross-reference in body rubric: `зри Ли́стъ, к҃д` (see fol. 24), referencing folio 24 of the 1640 Kyiv Triodion (physical leaf p48), which sets forth the general Typikon tables, liturgical order, and fasting regulations for the Triodion period.
+
+[^256]: Internal cross-reference in body rubric: `Ѡ се́мъ ли́стъ, г҃. и҆ л҃` (see fol. 3 and fol. 30), referencing folio 3 (physical leaf p27) and folio 30 (physical leaf p54) of the 1640 Kyiv Triodion, regulating the transfer of commemorated daily saints' services from the Menaion to Compline during the Triodion period.
+
+[^257]: Sessional Hymn model *Tone 8, Podoben: "Of Wisdom and the Word" (Премꙋ́дрость и҆ Сло́во)*, based on the classical Byzantine automelon *Τὴν Σοφίαν καὶ Λόγον* composed by Saint Theodore the Studite or Saint John of Damascus, celebrating the divine Logos Who created all things visible and invisible and guiding the soul into compunction for the radiant season of the Fast.
+
+[^258]: Homiletic rubrics for Matins of Cheesefare Tuesday prescribing the reading of Saint Basil the Great's *Homily on Thanksgiving* (*De gratiarum actione / Ѡ єѵхаристїи*, PG 31:217–237) or *On Fasting* (*De jejunio*, PG 31:163–198; incipit: *Мл҃итеся моли́теся людїе мои́* / "Pray, pray, O my people"), referencing folio 84 of the 1640 Kyiv Triodion (physical leaf p108 / Cheesefare Wednesday).
+
+[^259]: Internal cross-reference in body rubric: `ли́стъ, ѻ҃е` (see fol. 75), referencing folio 75 of the 1640 Kyiv Triodion (physical leaf p99), governing the chanting of the canons of the Octoechos and Menaion throughout the weekdays of Cheesefare Week.
+
+[^260]: Internal cross-reference in body rubric: `Ли́стъ, ѻ҃г` (see fol. 73), referencing folio 73 of the 1640 Kyiv Triodion (physical leaf p97), directing that if the Meeting of the Lord falls on Cheesefare Tuesday, the Tuesday Tri-ode is transferred to Cheesefare Wednesday at Compline.
+
+[^261]: The hymnography of Cheesefare Tuesday at Matins comprises two Tri-odes: the first composed by Saint Joseph the Hymnographer (c. 816–886) in Tone 3, and the second composed by Saint Theodore the Studite (759–826) in Tone 2, greeting the portals of the Holy Fast and employing the biblical imagery of rain and dew upon the tender grass (Deut. 32:2) as figures of compunction and spiritual renewal.
+
+[^262]: Internal cross-reference in body rubric: `Ли́стъ, ѻ҃в` (see fol. 72), referencing folio 72 of the 1640 Kyiv Triodion (physical leaf p96), containing the psalm verses appointed at the Aposticha of Cheesefare Monday (Ps. 122:1, 3 [LXX 122:1, 3 / MT 123:1, 3]: "Unto Thee have I lifted up mine eyes..." and "Have mercy on us, O Lord, have mercy on us...").
+
+[^263]: The Stavrotheotokion at the Aposticha of Cheesefare Tuesday evening (*А҆́гница нескве́рнаѧ* / Greek: *Ἡ Ἀμνὰς ἡ ἄχραντος*), set to the Tone 1 prosomoion *Прехва́лныи мч҃ннци* (*Πανεύφημοι μάρτυρες* / "O all-lauded martyrs"), depicting the Virgin Mother at the foot of the Cross, beholding her Son and Lord lifted up upon the Tree of Crucifixion as one condemned (John 19:25).
+
+[^264]: Technical liturgical rubric *Methimon* (*МЕѲИМѠ́НЪ*), derived from the Greek refrain of Great Compline *Μεθ' ἡμῶν ὁ Θεός* ("God is with us", Isa. 8:8–10), designating the full monastic office of Great Compline (*Повече́рїе вели́кое*) celebrated with deep prostrations (*покло́ны вели́кїи*) and the Prayer of Saint Ephrem the Syrian (*Го́споди и҆ Влады́ко живота̀ моегѡ̀*).
+
+[^265]: Typikon chapter 44 (*Ѡ҆ Препра́зденствѣ Стрѣ́тенїа* / On the Forefeast of the Meeting of the Lord, Chapter 44, noted in the margin as `Гла: д҃: ан.` / Chapter 44), regulating the liturgical order when the Forefeast of the Meeting of the Lord (Hypapante, Feb. 1) coincides with Wednesday or Friday of Cheesefare Week, governing the distribution of the Triodion, Menaion, and Festal hymnody.

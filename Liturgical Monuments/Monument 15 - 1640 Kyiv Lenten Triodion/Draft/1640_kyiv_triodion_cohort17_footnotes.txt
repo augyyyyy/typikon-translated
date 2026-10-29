@@ -1,0 +1,51 @@
+[^435]: Ode 9 continues the commemorations of the ancient fathers and martyrs: Saint Peter of Alexandria (d. 311), hieromartyr; Saint Ignatius of Antioch (the Theophoros, d. c. 107), disciple of the Apostles; Saint Polycarp of Smyrna (d. c. 155), disciple of Saint John the Theologian; and Saint Cyprian of Carthage (d. 258), bishop and martyr.
+
+[^436]: Tone 2 Exapostilarion (Photagogikon) melodic model: *Give ear, ye women* (Slavonic: *Жены ᲂу҆слы́шите*; Greek: *Γυναῖκες ἀκουτίσθητε*).
+
+[^437]: Tone 2 Exapostilarion melodic model: *Let us assemble with the disciples* (Slavonic: *Съ ᲂу҆чн҃ки взы́иди*; Greek: *Τοῖς μαθηταῖς συνέλθωμεν* / *Σὺν μαθηταῖς ἀνέλθωμεν*).
+
+[^438]: Tone 8 Sticheron melodic model at the Praises: *In Eden of old* (Slavonic: *Въ є҆де́мѣ ра́и*; Greek: *Ἐν Ἐδὲμ παραδείσῳ*).
+
+[^439]: Doxasticon at the Praises, Tone 6: the phrase "into all the earth went out the sound of your righteous deeds" (*во всю̀ зе́млю и҆зы́иде вѣща́ні́е и҆справле́ні́й ва́шихъ*) reflects Greek *εἰς πᾶσαν τὴν γῆν ἐξῆλθεν ὁ φθόγγος τῶν κατορθωμάτων ὑμῶν*, citing Psalm 18:5 (LXX) and Romans 10:18.
+
+[^440]: Typikon rubric governing Saturday Liturgy readings: on all Saturdays from the Pre-Lenten Sunday of the Publican and the Pharisee through Great Lent until the Sunday of All Saints, the Epistle and Gospel of the continuous cycle (*рядовый*) take precedence over the commemoration of the Saint of the day.
+
+[^441]: Liturgy pericopes for Cheesefare Saturday: Epistle of the day: Romans 14:19–23, 16:25–27 (pericope 115); Epistle of the Venerable Fathers: Hebrews 13:17–21 (pericope 335); Gospel of the day: Matthew 6:1–13 (pericope 16); Gospel of the Venerable Fathers: Luke 6:17–23 (pericope 24).
+
+[^442]: Tone 6 Sticheron melodic model at "Lord, I have cried": *Having laid aside all earthly hope* (Slavonic: *Всѐ ᲂу҆пова́ні́е возло́жше*; Greek: *Ὅλην ἀποθέμενοι*).
+
+[^443]: The "garment woven by God" (*Бг҃отка́нныя*) refers to the primordial robe of uncreated light and glory bestowed upon Adam before the Fall, contrasted with the garments of skin (*ко́жными ри́зами*) given after the transgression (Genesis 3:21).
+
+[^444]: The famous Doxasticon at "Lord, I have cried" (*Сѣ́де А҆да́мъ пря́мѡ Ра́я*, "Adam sat opposite Paradise") is one of the classic hymnographic masterpieces of the Lenten Triodion, traditionally attributed to Saint Romanos the Melodist or Saint John of Damascus.
+
+[^445]: Internal cross-reference: fol. 104 (`Ли́ⷭ, р҃д`) corresponds to physical leaf p118 in this codex.
+
+[^446]: Doxasticon at the Litiya, Tone 6: the cosmic mourning over the closure of Paradise draws upon Joel 2:10, 31 (LXX) and Matthew 27:45.
+
+[^447]: Aposticha Doxasticon, Tone 6: the response of the Savior combines 1 Timothy 2:4 ("Who desireth all men to be saved, and to come unto the knowledge of the truth") and John 6:37 ("him that cometh to Me I will in no wise cast out").
+
+[^448]: Internal cross-reference: fol. 20 (`Ли́, к҃`) corresponds to physical leaf p34 in this codex.
+
+[^449]: Internal cross-reference: fol. 30 (`Ли́, л҃`) corresponds to physical leaf p44 in this codex.
+
+[^450]: Internal cross-reference: fol. 3 (`Ли́стъ, г҃`) corresponds to physical leaf p17 in this codex.
+
+[^451]: Internal cross-reference: fol. 3 (`Ли́, г҃`) corresponds to physical leaf p17 in this codex.
+
+[^452]: Internal cross-reference: fol. 54 (`Ли, н҃д`) corresponds to physical leaf p68 in this codex.
+
+[^453]: Internal cross-reference: fol. 85 (`Ли́, пе҃`) corresponds to physical leaf p99 in this codex.
+
+[^454]: Internal cross-reference: fol. 20 (`Ли́стъ, к҃`) corresponds to physical leaf p34 in this codex.
+
+[^455]: The celebrated Great Lenten penitential troparion: *Open unto me the doors of repentance, O Giver of life* (Slavonic: *Покая́ні́я ѡ҆тве́рзи́ ми две́ри Жизнода́вче*; Greek: *Τῆς μετανοίας ἄνοιξόν μοι πύλας, Ζωοδότα*), sung after Psalm 50 at Sunday Matins from the Sunday of the Publican and the Pharisee through the Fifth Sunday of Great Lent.
+
+[^456]: Internal cross-reference: fol. 5 (`Ли́стъ, е҃`) corresponds to physical leaf p19 in this codex.
+
+[^457]: The Canon of Cheesefare Sunday was composed by Christopher the Protoasekretis (first secretary or imperial chancellor of Constantinople, 9th/10th century).
+
+[^458]: Tone 4 Sessional Hymn (Kathisma) melodic model: *Joseph was amazed* (Slavonic: *Ꙋди́вися І҆ѡ́сифъ*; Greek: *Κατεπλάγη Ἰωσήφ*).
+
+[^459]: Tone 4 Sessional Hymn melodic model: *Thou Who wast lifted up upon the Cross* (Slavonic: *Възнесы́йся на Крⷭ҇тъ*; Greek: *Ὁ ὑψωθεὶς ἐν τῷ Σтаυρῷ*).
+
+[^460]: Patristic reading at Matins: Saint Gregory the Theologian (of Nazianzus), *Oration 19: On the Calamity of the City and the Reconciliation of the Emperor's Tax-Collector* (also known as *On the Hail* or *On the Plague*).

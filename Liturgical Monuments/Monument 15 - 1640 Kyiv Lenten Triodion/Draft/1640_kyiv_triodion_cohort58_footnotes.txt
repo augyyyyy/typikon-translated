@@ -1,0 +1,36 @@
+[^1511]: Heirmos incipit: Tone 1, Ode 8: *Се́й ᲂу҆́бѡ нарече́нный* ("This chosen and holy day", referring to the Paschal Heirmos model from Ode 8 of the Paschal Canon: Αὕτη ἡ κλητὴ καὶ ἁγία ἡμέρα).
+[^1512]: Slavonic: *трича́стный и҆ вели́кїй* (tripartite and great). In Patristic and Kyivan liturgical symbolism, the tripartite Cross refers to the traditional Byzantine three-bar Cross (titulus, main crossbeam, and suppedaneum) composed mystically of three types of wood (cypress, pine, and cedar; cf. Isa. 60:13 LXX).
+[^1513]: Scriptural citation: Jeremiah 11:19 LXX: "Come, and let us put wood into his bread, and let us utterly cut him off from the land of the living" (δεῦτε καὶ ἐμβάλωμεν ξύλον εἰς τὸν ἄρτον αὐτοῦ / приидите и вложимъ древо въ хлѣбъ его). The Church Fathers (e.g. Tertullian, St. Justin Martyr, St. Cyril of Jerusalem) interpret this as a prophetic type of Christ the Living Bread nailed to the Wood of the Cross by the Jews.
+[^1514]: Scriptural reference: Daniel 6:16–24 / Daniel 14:31–42 LXX (Bel and the Dragon). Daniel stretching his arms crosswise in prayer within the lions' den.
+[^1515]: Tone 4, Ode 9 Heirmos: *Вся́къ земноро́дный* (Let every earthborn mortal leap for joy in spirit). Byzantine Greek model: Ἅπας γηγενής.
+[^1516]: Scriptural allusion: Joel 3:18 / Amos 9:13 LXX ("the mountains shall drop sweetness, and the hills shall flow with milk").
+[^1517]: Scriptural citation: 4 Kings 6:5–7 LXX (2 Kings 6:5–7). Elisha causing the iron axe-head to float to the surface of the Jordan by casting in a piece of wood, a classic Patristic type of the Cross rescuing human nature from the abyss of sin.
+[^1518]: Scriptural citation: Isaiah 53:2 LXX ("He hath no form nor comeliness; and when we saw Him, He had no form nor beauty").
+[^1519]: Scriptural citation: Psalm 67:16–17 LXX ("A mountain of God, a rich mountain, a mountain of curds, a fat mountain: wherefore look ye askance, ye curdled mountains?").
+[^1520]: Exapostilarion melodic model: Slavonic *По́: Дх҃омъ* (Podoben: "In the Spirit", referencing the Byzantine Exapostilarion model *Τοῖς μαθηταῖς συνέλθωμεν* / *Дꙋ́хомъ во свѧти́лищи*).
+[^1521]: Luke 1:26–38 (The Annunciation). The Cross-Theotokion poignantly contrasts the Archangel Gabriel's joyful greeting at Nazareth with the sorrow of Golgotha.
+[^1522]: Scriptural citation: John 8:56 ("Your father Abraham rejoiced to see My day: and he saw it, and was glad") and Genesis 22 (the binding and sparing of Isaac on Mount Moriah as a type of the Resurrection).
+[^1523]: Liturgical cross-reference: In the 1640 printed edition, the Sunday rubrics and idiomela for the Veneration of the Cross are found on fol. 524 (physical leaf p536). Codicological coordinate: Physical Leaf p536.
+[^1524]: Codicological Note: In the digital exemplar / physical binding, leaves p575–p580 constitute a duplicate photographic sequence of printed pages 552–557 (which previously appeared on physical leaves p565–p570). In strict adherence to the Closed Mathematical Leaf Conservation Law, the text of each physical leaf is transcribed and translated unabridged as witnessed by the physical scan.
+[^1525]: Tone 4, Ode 3 Heirmos: *Твоѧ̀ пѣвцы̀* (Thy hymnographers, O Theotokos; Byzantine Greek: Τοὺς σοὺς ὑμνολόγους Θεοτόκε).
+[^1526]: Scriptural citation: Exodus 17:8–13. Moses holding his hands extended crosswise upon the mountain, securing victory over Amalek.
+[^1527]: Triodion Canon, Tone 6, Ode 3 Heirmos: *Гдⷭ҇ь сы́й всѣ́мъ* (Being Lord of all).
+[^1528]: Scriptural citation: Psalm 131:7 LXX ("We will go into His tabernacles; we will worship at the place where His feet stood").
+[^1529]: Tone 1, Ode 3 Another Heirmos: *Оу҆твердѝ Гдⷭ҇и цр҃ковь* (Establish, O Lord, Thy Church).
+[^1530]: Scriptural citation: Psalm 131:7 LXX ("We will worship at the place where His feet stood").
+[^1531]: Tone 4, Ode 4 Heirmos: *Сѣдѧ́й въ сла́вѣ* (He Who sits in glory; Byzantine Greek: Ὁ καθήμενος ἐν δόξῃ).
+[^1532]: Scriptural citation: Genesis 48:13–19. The Patriarch Jacob crossing his hands when blessing Ephraim and Manasseh, forming the sign of the Cross.
+[^1533]: Tone 4, Ode 5 Heirmos: *Оу҆диви́шася всѧ́ческая* (All things were amazed; Byzantine Greek: Ἐξέστη τὰ σύμπαντα).
+[^1534]: Scriptural citation: Colossians 2:14 ("Blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, nailing it to His Cross").
+[^1535]: Tone 4, Ode 6 Heirmos: *Возопѝ проѡбразꙋѧ* (Prefiguring the three-day burial; Byzantine Greek: Ἐβόησε προτυπῶν).
+[^1536]: Scriptural allusion: John 15:1 ("I am the true Vine").
+[^1537]: Kontakion, Tone 7, Automelon: *Не ктомꙋ̀ пла́менное ѡ҆рꙋ́жїе* (No longer does the fiery sword guard the gate of Eden).
+[^1538]: Liturgical cross-reference: In the 1640 printed edition, the Ikos for the Third Sunday of Great Lent is found on fol. 517 (physical leaf p529). Codicological coordinate: Physical Leaf p529.
+[^1539]: Tone 4, Ode 7 Heirmos: *Не послꙋжи́ша тва́ри* (The godly youths did not worship creation; Byzantine Greek: Οὐκ ἐλάτρευσαν τῇ κτίσει).
+[^1540]: Scriptural citation: 4 Kings 6:5–7 LXX (2 Kings 6:5–7). Elisha and the iron axe-head in the Jordan.
+[^1541]: Patristic and Scriptural symbolism: Isaiah 60:13 LXX ("The glory of Lebanon shall come unto thee, with the fir tree, the pine tree, and the box together, to beautify the place of My sanctuary"). The cypress, cedar, and pine as mystical components of the Cross.
+[^1542]: Tone 4, Ode 8 Heirmos: *Ѻ҆́троки бл҃гочести́выѧ* (The godly children in the furnace; Byzantine Greek: Παῖδας εὐαγεῖς ἐν τῇ καμίνῳ).
+[^1543]: Scriptural citations: Matthew 27:34, John 19:28–30 (gall and vinegar offered to Christ upon the Cross).
+[^1544]: Scriptural citation: Psalm 44:3 LXX ("Thou art fairer than the sons of men; grace is poured into Thy lips").
+[^1545]: Tone 6, Ode 8 Another Heirmos: *По зако́нꙋ ѻ҆́тчи* (In accordance with the ancestral law).
+[^1546]: Scriptural citation: Exodus 3:2. The Burning Bush that was not consumed as a prophetic type of the Virgin Birth.

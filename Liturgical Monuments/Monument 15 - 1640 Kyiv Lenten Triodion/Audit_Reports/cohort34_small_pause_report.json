@@ -1,0 +1,122 @@
+{
+  "timestamp": "2026-10-28T06:35:45.012980+00:00",
+  "monument_id": "1640_kyiv_triodion",
+  "cohort": 34,
+  "target_file": "1640_kyiv_triodion_cohort34_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1640_kyiv_triodion_cohort34_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1640_kyiv_triodion_cohort34_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1640_kyiv_triodion_cohort34_raw_draft.md",
+      "footnotes_file": "1640_kyiv_triodion_cohort34_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 26,
+      "definition_markers_count": 26,
+      "text_markers": [
+        "[^881]",
+        "[^882]",
+        "[^883]",
+        "[^884]",
+        "[^885]",
+        "[^886]",
+        "[^887]",
+        "[^888]",
+        "[^889]",
+        "[^890]",
+        "[^891]",
+        "[^892]",
+        "[^893]",
+        "[^894]",
+        "[^895]",
+        "[^896]",
+        "[^897]",
+        "[^898]",
+        "[^899]",
+        "[^900]",
+        "[^901]",
+        "[^902]",
+        "[^903]",
+        "[^904]",
+        "[^905]",
+        "[^906]"
+      ],
+      "definition_markers": [
+        "[^881]",
+        "[^882]",
+        "[^883]",
+        "[^884]",
+        "[^885]",
+        "[^886]",
+        "[^887]",
+        "[^888]",
+        "[^889]",
+        "[^890]",
+        "[^891]",
+        "[^892]",
+        "[^893]",
+        "[^894]",
+        "[^895]",
+        "[^896]",
+        "[^897]",
+        "[^898]",
+        "[^899]",
+        "[^900]",
+        "[^901]",
+        "[^902]",
+        "[^903]",
+        "[^904]",
+        "[^905]",
+        "[^906]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1640_kyiv_triodion_cohort34_raw_draft.md",
+      "passed": true,
+      "paragraphs": 93,
+      "headings_count": 1,
+      "headings": [
+        {
+          "line": 85,
+          "level": 2,
+          "title": "The Order on the Sunday of Orthodoxy: For the Anathema of Heretics[^898]",
+          "leaf": 337
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 331,
+        "max_leaf": 340
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "total_queued_leaves": 46,
+    "unresolved_quarantines": 0
+  }
+}

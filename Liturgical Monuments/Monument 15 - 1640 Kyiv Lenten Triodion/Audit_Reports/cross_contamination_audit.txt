@@ -1,0 +1,45 @@
+================================================================================
+  5-WAY CONCURRENCY CROSS-CONTAMINATION AUDIT FOR MONUMENT 15
+================================================================================
+
+[Vector A: Filesystem Path & Name Isolation]
+  Total files in Monument 15 workspace: 1553
+  Files containing alien monument IDs in filename: 0
+  >>> Vector A Result: PASS (Zero alien files present in workspace)
+
+[Vector B: Shared State & Codex Registry Integrity]
+  Codex Registry Entry for 1640_kyiv_triodion:
+    - Title: Kyiv-Pechersk Lenten Triodion (Petro Mohyla, Kyiv, 1640)
+    - Total Folios: None (matches physical: False)
+    - Status: in_progress
+    - Active Lease: None
+    - Publication Spec Parts: 5 modular parts
+  Active Orchestrator State Monuments Tracked: ['active_monument', 'monument_id', 'status', 'active_lease', 'total_physical_pages', 'completed_cohorts', 'translated_pages', 'remaining_pages', 'current_cohort', 'current_cohort_range', 'routing_phase', 'active_subagent_model', 'argon_review_queue_count', 'unresolved_quarantines', 'cohort_retry_counts', 'small_pause_gate_status', 'active_blockers', 'updated_at', 'concurrent_active_monuments']
+  Local orchestrator_state.json:
+    - Monument ID: 1640_kyiv_triodion
+    - Routing Phase: PHASE_2_GRAND_PAUSE_READY
+    - Small Pause Gate Status: GRAND_PAUSE_READY_FOR_HUMAN_INSPECTION
+    - Current Cohort: 90
+    - Completed Cohorts Count: 90
+
+[Vector C: Hub Inbox Directory Isolation]
+  Files in Hub Inbox (9 total):
+    - 1640_kyiv_triodion_complete.md (2,505,268 bytes)
+    - 1640_kyiv_triodion_footnotes.md (669,804 bytes)
+    - 1640_kyiv_triodion_part0_front_matter.md (42,377 bytes)
+    - 1640_kyiv_triodion_part1_pre_lenten.md (510,508 bytes)
+    - 1640_kyiv_triodion_part2_great_forty_days.md (1,776,763 bytes)
+    - 1640_kyiv_triodion_part3_octoechos_appendices.md (93,516 bytes)
+    - 1640_kyiv_triodion_part4_life_of_st_mary_of_egypt.md (78,615 bytes)
+    - desktop.ini (106 bytes)
+    - handoff_note.md (1,617 bytes)
+  >>> Vector C Result: PASS (All 7 publication files + handoff note are purely 1640_kyiv_triodion)
+
+[Vector D: Subagent Workspace Boundary Audit]
+  Scanning 556 subagent transcript logs for cross-workspace tool accesses...
+  [WARNING] Potential cross-workspace writes detected: 191
+    - C:\Users\augus\.gemini\antigravity\brain\fa86424c-dc97-4003-94d7-26ae5b8c94b5\.system_generated\logs\transcript.jsonl -> 1895_lviv_octoechos
+    - C:\Users\augus\.gemini\antigravity\brain\f445235d-d077-4778-af5d-c23d81dd9bcf\.system_generated\logs\transcript.jsonl -> 1906_lviv_triodion
+    - C:\Users\augus\.gemini\antigravity\brain\f445235d-d077-4778-af5d-c23d81dd9bcf\.system_generated\logs\transcript.jsonl -> 1907_lviv_pentecostarion
+    - C:\Users\augus\.gemini\antigravity\brain\f445235d-d077-4778-af5d-c23d81dd9bcf\.system_generated\logs\transcript.jsonl -> 1895_lviv_octoechos
+    - C:\Users\augus\.gemini\antigravity\brain\f3f06dd1-a5e2-460b-879d-74c2f5131b52\.system_generated\logs\transcript.jsonl -> 1906_lviv_triodion

@@ -1,0 +1,96 @@
+{
+  "timestamp": "2026-10-28T10:14:58.924804+00:00",
+  "monument_id": "1640_kyiv_triodion",
+  "cohort": 44,
+  "target_file": "1640_kyiv_triodion_cohort44_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1640_kyiv_triodion_cohort44_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1640_kyiv_triodion_cohort44_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1640_kyiv_triodion_cohort44_raw_draft.md",
+      "footnotes_file": "1640_kyiv_triodion_cohort44_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 13,
+      "definition_markers_count": 13,
+      "text_markers": [
+        "[^1217]",
+        "[^1218]",
+        "[^1219]",
+        "[^1220]",
+        "[^1221]",
+        "[^1222]",
+        "[^1223]",
+        "[^1224]",
+        "[^1225]",
+        "[^1226]",
+        "[^1227]",
+        "[^1228]",
+        "[^1229]"
+      ],
+      "definition_markers": [
+        "[^1217]",
+        "[^1218]",
+        "[^1219]",
+        "[^1220]",
+        "[^1221]",
+        "[^1222]",
+        "[^1223]",
+        "[^1224]",
+        "[^1225]",
+        "[^1226]",
+        "[^1227]",
+        "[^1228]",
+        "[^1229]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1640_kyiv_triodion_cohort44_raw_draft.md",
+      "passed": true,
+      "paragraphs": 119,
+      "headings_count": 1,
+      "headings": [
+        {
+          "line": 84,
+          "level": 2,
+          "title": "Second Sunday of Great Lent",
+          "leaf": 434
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 431,
+        "max_leaf": 440
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "total_queued_leaves": 62,
+    "unresolved_quarantines": 0
+  }
+}

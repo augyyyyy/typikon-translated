@@ -1,0 +1,132 @@
+{
+  "timestamp": "2026-10-28T13:28:06.798572+00:00",
+  "monument_id": "1640_kyiv_triodion",
+  "cohort": 54,
+  "target_file": "1640_kyiv_triodion_cohort54_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1640_kyiv_triodion_cohort54_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1640_kyiv_triodion_cohort54_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1640_kyiv_triodion_cohort54_raw_draft.md",
+      "footnotes_file": "1640_kyiv_triodion_cohort54_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 30,
+      "definition_markers_count": 30,
+      "text_markers": [
+        "[^1394]",
+        "[^1395]",
+        "[^1396]",
+        "[^1397]",
+        "[^1398]",
+        "[^1399]",
+        "[^1400]",
+        "[^1401]",
+        "[^1402]",
+        "[^1403]",
+        "[^1404]",
+        "[^1405]",
+        "[^1406]",
+        "[^1407]",
+        "[^1408]",
+        "[^1409]",
+        "[^1410]",
+        "[^1411]",
+        "[^1412]",
+        "[^1413]",
+        "[^1414]",
+        "[^1415]",
+        "[^1416]",
+        "[^1417]",
+        "[^1418]",
+        "[^1419]",
+        "[^1420]",
+        "[^1421]",
+        "[^1422]",
+        "[^1423]"
+      ],
+      "definition_markers": [
+        "[^1394]",
+        "[^1395]",
+        "[^1396]",
+        "[^1397]",
+        "[^1398]",
+        "[^1399]",
+        "[^1400]",
+        "[^1401]",
+        "[^1402]",
+        "[^1403]",
+        "[^1404]",
+        "[^1405]",
+        "[^1406]",
+        "[^1407]",
+        "[^1408]",
+        "[^1409]",
+        "[^1410]",
+        "[^1411]",
+        "[^1412]",
+        "[^1413]",
+        "[^1414]",
+        "[^1415]",
+        "[^1416]",
+        "[^1417]",
+        "[^1418]",
+        "[^1419]",
+        "[^1420]",
+        "[^1421]",
+        "[^1422]",
+        "[^1423]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1640_kyiv_triodion_cohort54_raw_draft.md",
+      "passed": true,
+      "paragraphs": 98,
+      "headings_count": 1,
+      "headings": [
+        {
+          "line": 128,
+          "level": 2,
+          "title": "On the Same Third Sunday of the Holy Fast, at Vespers",
+          "leaf": 539
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 531,
+        "max_leaf": 540
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [
+      536
+    ],
+    "total_queued_leaves": 66,
+    "unresolved_quarantines": 0
+  }
+}

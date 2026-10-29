@@ -1,0 +1,51 @@
+[^1813]: Conclusion of the Theotokion of Ode 8 of the Triodion Canon by St. Joseph the Hymnographer, Tone 8, from fol. 647v (physical leaf p660).
+[^1814]: Heirmos of Ode 8 of the second Triodion Canon by St. Theodore the Studite, Tone 2: "In voices of angels" (Въ гла́сѣхъ А҆́гг҃лскихъ / Ἐν φωναῖς ἀγγελικαῖς).
+[^1815]: Trinity Hymn of Ode 8 of the Triodion Canon by St. Theodore the Studite, Tone 2.
+[^1816]: Katavasia of Ode 8 by St. Theodore the Studite, Tone 2.
+[^1817]: Heirmos of Ode 9 of the Triodion Canon by St. Joseph the Hymnographer, Tone 8: "The heaven was amazed" (У҆диви́сѧ ꙋ҆́бѡ / Ἐξέστη ἐπὶ τούτῳ ὁ οὐρανός, cf. Jer. 2:12).
+[^1818]: Heirmos of Ode 9 of the second Triodion Canon by St. Theodore the Studite, Tone 2: "Thy virginity, O Theotokos" (Дѣ́тво твоѐ Бцⷣе / Ἡ παρθενία σου Θεοτόκε).
+[^1819]: Katavasia of Ode 9 by St. Theodore the Studite, Tone 2.
+[^1820]: Idiomelon Sticheron at the Aposticha of Wednesday Matins, Tone 8. The printed heading contains the printer's erratum "Гла́съ, н҃" (Tone 50) for "Гла́съ, и҃" (Tone 8).
+[^1821]: Conclusion of the Tone 8 Idiomelon Sticheron at the Aposticha of Wednesday Matins from fol. 649v (physical leaf p662).
+[^1822]: Sticheron at the Aposticha of Wednesday Matins, Tone 3. Verse: Ps. 89:14 LXX (MT 90:14).
+[^1823]: Martyrikon Sticheron at the Aposticha of Wednesday Matins, Tone 3. Verse: Ps. 89:17 LXX (MT 90:17).
+[^1824]: Systematic typesetter erratum in the Kathisma numbering at the Lenten Little Hours on Wednesday of the Fifth Week: The printed text sets "Ка́: г҃і" (13), "д҃і" (14), and "е҃і" (15) for Kathismata 3, 4, and 5 respectively, inadvertently appending an iota (і = 10) to the single-digit numeral; the accompanying psalm incipits correspond strictly to Kathisma 3 at the First Hour (Ps. 17 LXX), Kathisma 4 at the Third Hour (Ps. 24 LXX), and Kathisma 5 at the Sixth Hour (Ps. 32 LXX).
+[^1825]: Troparion of the Prophecy at the Sixth Hour, Tone 4.
+[^1826]: Conclusion of the Troparion of the Prophecy at the Sixth Hour from fol. 650v (physical leaf p663).
+[^1827]: Prokeimenon at the Sixth Hour: Ps. 91:2 (LXX 91:2 / MT 92:1).
+[^1828]: Reading from the Prophecy of Isaiah: Isaiah 41:4–13 (LXX 41:4–13).
+[^1829]: Conclusion of the Reading from the Prophecy of Isaiah: Isaiah 41:13–14 (LXX 41:13–14).
+[^1830]: Second Prokeimenon at the Sixth Hour: Ps. 92:1 (LXX 92:1 / MT 93:1).
+[^1831]: Continuation of the printer's numeral erratum: Kathisma 16 ("ѕ҃і") at the Ninth Hour (Ps. 37 LXX, beginning of Kathisma 6) and Kathisma 17 ("з҃і") at Vespers (Ps. 46 LXX, beginning of Kathisma 7), replacing the standard weekday Lenten stychology of Kathisma 18 ("Къ Го́споду, внегда́ скорбѣ́ти ми...", Ps. 119 LXX).
+[^1832]: Rubric directing that 30 stichoi (verses) be set at "Lord, I have cried" at Wednesday Vespers, beginning from Psalm 140:10 LXX ("Let the wicked fall into their nets..."), in order to accommodate the 24 alphabetical stichera of the Great Canon alongside the Idiomelon, Martyrikon, and Prosomoia of the Apostles.
+[^1833]: Idiomelon Sticheron at "Lord, I have cried" of Wednesday Vespers, Tone 8. The printed heading repeats the erratum "Гла́съ, н҃" for Tone 8.
+[^1834]: Martyrikon Sticheron at "Lord, I have cried" of Wednesday Vespers, Tone 8.
+[^1835]: Conclusion of the Martyrikon Sticheron at "Lord, I have cried" from fol. 652v (physical leaf p665).
+[^1836]: Sticheron 1 of the Apostles by St. Joseph the Hymnographer, Tone 8, Podoben: "O Lord, though Thou didst stand before the tribunal" (Гдⷭ҇и а҆́ще на сꙋди́щи / Κύριε, εἰ καὶ κριτηρίῳ παρέστης).
+[^1837]: Sticheron 2 of the Apostles by St. Joseph the Hymnographer, Tone 8.
+[^1838]: Sticheron of the Apostles by St. Theodore the Studite, Tone 8.
+[^1839]: The 24 Alphabetical Stichera of the Great Canon by St. Andrew of Crete, Tone 4, Podoben: "With tears I desired" (Хотѣ́хъ слеза́ми / Ἤθελον δάκρυσιν ἐξαλεῖψαι). Sticheron 1 corresponds to letter Alpha (Α): "Всѐ житїѐ моѐ..." (Ἅπαντα τὸν βίον μου...).
+[^1840]: Conclusion of Sticheron 1 (Alpha) of the Great Canon from fol. 653v (physical leaf p666).
+[^1841]: Rubric prescribing three metanias / prostrations at each of the 24 stichoi of the Great Canon at Vespers.
+[^1842]: Sticheron 2 (Beta) of the Great Canon: "Тѧ́жестїю небреже́нїѧ..." (Βάρει ἀμελείας...).
+[^1843]: Sticheron 3 (Gamma) of the Great Canon: "Бы́хъ преткнове́нїе чл҃вкѡмъ..." (Γέγονα πρόσκομμα ἀνθρώποις...).
+[^1844]: Sticheron 4 (Delta) of the Great Canon: "Наро́денъ бы́хъ дꙋше́и мое́и..." (Δήμιος γέγονα τῇ ψυχῇ μου...). The Church Slavonic translates the Greek δήμιος (executioner/tormentor) etymologically from δῆμος (people) as "наро́денъ" (public/common/tormenting).
+[^1845]: Sticheron 5 (Epsilon) of the Great Canon: "Во́лею съгрѣши́хъ..." (Ἑκουσίως ἥμαρτον...).
+[^1846]: Sticheron 6 (Zeta) of the Great Canon: "Жи́ти бꙋ́детъ, гла̀ Прⷬ҇ро́къ..." (Ζήσεται, εἶπεν ὁ προφήτης, citing Ps. 118:175 LXX).
+[^1847]: Conclusion of Sticheron 6 (Zeta) of the Great Canon from fol. 654v (physical leaf p667).
+[^1848]: Sticheron 7 (Eta) of the Great Canon: "Съгрѣши́хъ съгрѣши́хъ..." (Ἥμαρτον, ἥμαρτον...).
+[^1849]: Sticheron 8 (Theta) of the Great Canon: "Звѣ́рїе мѧ̀ ди́вїи ѡ҆держа́ша..." (Θῆρές με ἄγριοι περιέσχον...).
+[^1850]: Sticheron 9 (Iota) of the Great Canon: "Цѣлба̀ бꙋ́ди ми..." (Ἴασίς μοι γενοῦ...).
+[^1851]: Sticheron 10 (Kappa) of the Great Canon: "Сокры́хъ тала́нтъ..." (Κατέκρυψα τὸ τάλαντον...).
+[^1852]: Sticheron 11 (Lambda) of the Great Canon: "Є҆́зеро и҆сꙋши́вый..." (Λίμνην ἀναξηράνας...).
+[^1853]: Conclusion of Sticheron 11 (Lambda) of the Great Canon from fol. 655v (physical leaf p668).
+[^1854]: Sticheron 12 (Mu) of the Great Canon: "И҆́маши сѣдѣ́ти на прⷭ҇тлѣ..." (Μέλλεις καθίσαι ἐπὶ θρόνου...).
+[^1855]: Sticheron 13 (Nu) of the Great Canon: "При́зри ѻ҆́комъ..." (Νεῦσον ὄμματι...).
+[^1856]: Sticheron 14 (Xi) of the Great Canon: "Ме́чъ ꙋ҆гото́ва Велїа́ръ..." (Ξίφος ἡτοίмасе Βελίαρ...).
+[^1857]: Sticheron 15 (Omicron) of the Great Canon: "Ве́сь страсте́мъ порабо́тихсѧ..." (Ὅλος τοῖς πάθεσιν ἐδουλώθην...).
+[^1858]: Sticheron 16 (Pi) of the Great Canon from fol. 656v (physical leaf p669): "Блꙋ́дница слеза́ми ѡ҆кроплѧ́етъ..." (Πόρνη τοῖς δάκρυσι...).
+[^1859]: Rubric directing that the remaining alphabetical stichera of the Great Canon use the refrain "Glory to Thee, our God, glory to Thee."
+[^1860]: Sticheron 17 (Rho) of the Great Canon: "Скве́рнꙋ ѡ҆чстити..." (Ῥύπον ἐκκάθαρον...).
+[^1861]: Sticheron 18 (Sigma) of the Great Canon: "У҆твердѝ Вл҃ко..." (Στήριξον Δέσποτα...).
+[^1862]: Sticheron 19 (Tau) of the Great Canon: "Стѣ́на нерꙋши́маѧ..." (Τεῖχος ἀῤῥαγές...).
+[^1863]: Sticheron 20 (Upsilon) of the Great Canon: "Сы́нъ блꙋ́дный бы́хъ..." (Υἱὸς ἄσωτος γέγονα...).

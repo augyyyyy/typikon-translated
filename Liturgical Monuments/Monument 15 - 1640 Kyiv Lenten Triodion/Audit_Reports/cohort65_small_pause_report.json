@@ -1,0 +1,128 @@
+{
+  "timestamp": "2026-10-28T19:38:45.258143+00:00",
+  "monument_id": "1640_kyiv_triodion",
+  "cohort": 65,
+  "target_file": "1640_kyiv_triodion_cohort65_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1640_kyiv_triodion_cohort65_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1640_kyiv_triodion_cohort65_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1640_kyiv_triodion_cohort65_raw_draft.md",
+      "footnotes_file": "1640_kyiv_triodion_cohort65_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 29,
+      "definition_markers_count": 29,
+      "text_markers": [
+        "[^1746]",
+        "[^1747]",
+        "[^1748]",
+        "[^1749]",
+        "[^1750]",
+        "[^1751]",
+        "[^1752]",
+        "[^1753]",
+        "[^1754]",
+        "[^1755]",
+        "[^1756]",
+        "[^1757]",
+        "[^1758]",
+        "[^1759]",
+        "[^1760]",
+        "[^1761]",
+        "[^1762]",
+        "[^1763]",
+        "[^1764]",
+        "[^1765]",
+        "[^1766]",
+        "[^1767]",
+        "[^1768]",
+        "[^1769]",
+        "[^1770]",
+        "[^1771]",
+        "[^1772]",
+        "[^1773]",
+        "[^1774]"
+      ],
+      "definition_markers": [
+        "[^1746]",
+        "[^1747]",
+        "[^1748]",
+        "[^1749]",
+        "[^1750]",
+        "[^1751]",
+        "[^1752]",
+        "[^1753]",
+        "[^1754]",
+        "[^1755]",
+        "[^1756]",
+        "[^1757]",
+        "[^1758]",
+        "[^1759]",
+        "[^1760]",
+        "[^1761]",
+        "[^1762]",
+        "[^1763]",
+        "[^1764]",
+        "[^1765]",
+        "[^1766]",
+        "[^1767]",
+        "[^1768]",
+        "[^1769]",
+        "[^1770]",
+        "[^1771]",
+        "[^1772]",
+        "[^1773]",
+        "[^1774]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1640_kyiv_triodion_cohort65_raw_draft.md",
+      "passed": true,
+      "paragraphs": 120,
+      "headings_count": 1,
+      "headings": [
+        {
+          "line": 86,
+          "level": 2,
+          "title": "ON TUESDAY OF THE SIXTH WEEK OF THE HOLY FAST[^1764]",
+          "leaf": 646
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 641,
+        "max_leaf": 650
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "total_queued_leaves": 80,
+    "unresolved_quarantines": 0
+  }
+}

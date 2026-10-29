@@ -1,0 +1,124 @@
+{
+  "timestamp": "2026-10-28T01:43:08.807291+00:00",
+  "monument_id": "1640_kyiv_triodion",
+  "cohort": 17,
+  "target_file": "1640_kyiv_triodion_cohort17_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1640_kyiv_triodion_cohort17_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1640_kyiv_triodion_cohort17_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1640_kyiv_triodion_cohort17_raw_draft.md",
+      "footnotes_file": "1640_kyiv_triodion_cohort17_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 26,
+      "definition_markers_count": 26,
+      "text_markers": [
+        "[^435]",
+        "[^436]",
+        "[^437]",
+        "[^438]",
+        "[^439]",
+        "[^440]",
+        "[^441]",
+        "[^442]",
+        "[^443]",
+        "[^444]",
+        "[^445]",
+        "[^446]",
+        "[^447]",
+        "[^448]",
+        "[^449]",
+        "[^450]",
+        "[^451]",
+        "[^452]",
+        "[^453]",
+        "[^454]",
+        "[^455]",
+        "[^456]",
+        "[^457]",
+        "[^458]",
+        "[^459]",
+        "[^460]"
+      ],
+      "definition_markers": [
+        "[^435]",
+        "[^436]",
+        "[^437]",
+        "[^438]",
+        "[^439]",
+        "[^440]",
+        "[^441]",
+        "[^442]",
+        "[^443]",
+        "[^444]",
+        "[^445]",
+        "[^446]",
+        "[^447]",
+        "[^448]",
+        "[^449]",
+        "[^450]",
+        "[^451]",
+        "[^452]",
+        "[^453]",
+        "[^454]",
+        "[^455]",
+        "[^456]",
+        "[^457]",
+        "[^458]",
+        "[^459]",
+        "[^460]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1640_kyiv_triodion_cohort17_raw_draft.md",
+      "passed": true,
+      "paragraphs": 89,
+      "headings_count": 1,
+      "headings": [
+        {
+          "line": 51,
+          "level": 2,
+          "title": "CHEESEFARE SUNDAY: THE EXPULSION OF ADAM",
+          "leaf": 164
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 161,
+        "max_leaf": 170
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [
+      167
+    ],
+    "total_queued_leaves": 26,
+    "unresolved_quarantines": 0
+  }
+}

@@ -1,0 +1,45 @@
+[^211]: Ode 3 Heirmos (*Утверди Господи на камени недвижимом* / *Utverdi Hospodi na kameni nedvizhimom*). Greek incipit: *Στερέωσον Κύριε, ἐπὶ τὴν ἄσειστον πέτραν*. Structured upon the biblical Canticle of Hannah (1 Kings 2:2 [LXX 1 Reg. 2:2 / 1 Sam. 2:2]: "There is none holy as the Lord, and none righteous as our God").
+
+[^212]: Sessional Hymn (Sedalen) Tone 4, Melodic model: *Гробъ твой* (*Hrob tvoy*, "Thy tomb, O Savior" / Greek: *Τὸν τάφον σου Σωτήρ*). The hymn pleads for deliverance from the goats on the left hand and placement with the sheep on the right hand at the Dread Judgment (Matt. 25:32–33).
+
+[^213]: Sessional Hymn Tone 6: *Помышляю день страшный* (*Pomyshlyayu den strashny*, "I reflect upon that dreadful day"). An impassioned ascetical meditation on mortal accountability before the Holy Trinity.
+
+[^214]: Rubric for the patristic reading (*И чтенїе*) appointed after the Sessional hymns of Ode 3, drawn from the *Commentary Gospel* (*Учительное Евангелїе*) or the homilies of St. Ephrem the Syrian on the Dread Judgment and repentance.
+
+[^215]: Ode 4 Heirmos (*Услыша Пророкъ пришествїе твое Господи* / *Uslysha Prorok prishestviye tvoye Hospodi*). Greek incipit: *Ἀκήκοεν ὁ Προφήτης*. Structured upon the biblical Canticle of Habakkuk (Hab. 3:2 [LXX]: "O Lord, I heard Thy report, and was afraid: O Lord, I considered Thy works, and was amazed").
+
+[^216]: Triadikon of Ode 4: The marginal annotation *Зрѝ* ("Mark!") draws attention to the orthodox patristic formulation of the hypostatic properties: the Son begotten of the Father (*рожественнѣ, зане и рожденїе*), and the Holy Spirit proceeding from the Father (*происходнѣ, зане и схожденїе*), emphasizing the single monarchical source of the Godhead in the Father against the Western *Filioque* addition.
+
+[^217]: Ode 5 Heirmos (*Из нощи утреннюща человеколюбче* / *Iz noshchi utrennyushcha chelovyekolyubche*). Greek incipit: *Ἐκ νυκτὸς ὀρθρίζοντα φιλάνθρωπε*. Structured upon the biblical Canticle of Isaiah (Isa. 26:9: "From night until morning my spirit seeketh Thee, O God, for Thy light is upon the earth").
+
+[^218]: Ode 6 Heirmos (*Возопихъ всѣмъ сердцемъ моимъ* / *Vozopikh vsim sertsem moyim*). Greek incipit: *Ἐβόησα ἐν ὅλῃ καρδίᾳ μου*. Structured upon the biblical Canticle of Jonah (Jonah 2:3, 7 [LXX]: "I cried by reason of mine affliction unto the Lord, and He heard me; out of the belly of hell cried I, and Thou heardest my voice").
+
+[^219]: The Kontakion of Meatfare Sunday (*Егда прїидеши Боже на землю съ славою* / *Egda priydeshi Bozhe na zemlyu s slavoyu*), composed in Tone 1 by Saint Romanos the Melodist (fl. 6th c.), depicting the apocalyptic scene of the general resurrection, the river of fire, and the opening of the books of conscience (Dan. 7:9–10; Matt. 25:31–46).
+
+[^220]: The Ikos of Meatfare Sunday (*Страшное судище твое помышляя* / *Strashnoye sudishche tvoye pomyshlyaya*), expanding upon the self-condemnation of the soul confronted by the incorruptible truth of Christ the Judge.
+
+[^221]: Synaxarion on the Sunday of Meatfare, commemorating the Dread Second and Impartial Coming of our Lord Jesus Christ. In the 1640 Kyiv Triodion, Petro Mohyla's atelier printed the Synaxaria not in Church Slavonic, but in Early Modern Ruthenian (*prosta mova*), translating the Greek text of Nicephorus Callistus Xanthopoulos (c. 1256–1335) into elevated theological prose.
+
+[^222]: Marginal Scriptural citation: Mark 13:32 ("But of that day and that hour knoweth no man, no, not the angels which are in heaven, neither the Son, but the Father").
+
+[^223]: Traditional Byzantine-Slavic cosmic chronography reckoning seven thousand years from the Creation of the World (Anno Mundi 5508 BC) according to the Septuagint chronology, viewing the seventh millennium (reached in AD 1492 / AM 7000) as the threshold of the eschatological age.
+
+[^224]: Patristic reference to Saint Hippolytus of Rome (c. 170–235), *Treatise on Christ and Antichrist* (*De Christo et Antichristo*, ch. 14–19), linking the lineage of Antichrist to the tribe of Dan based upon Gen. 49:17 ("Dan shall be a serpent by the way, an adder in the path").
+
+[^225]: Marginal Scriptural citation: 2 Thess. 2:3, 8–9 ("And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of His mouth... even him, whose coming is after the working of Satan with all power and signs and lying wonders").
+
+[^226]: Marginal Patristic citation: Saint John of Damascus, *An Exact Exposition of the Orthodox Faith* (*De Fide Orthodoxa*, Book IV, ch. 26: "Concerning the Antichrist"), explaining that not the devil himself becomes man, but a man receives all the energy of Satan.
+
+[^227]: Marginal Scriptural citation: Daniel 12:11–12, collated with Revelation 11:3–7 regarding the two apocalyptic witnesses, identified by unanimous patristic tradition as Enoch and Elijah.
+
+[^228]: Marginal Scriptural citation: Matthew 24:22 ("And except those days should be shortened, there should no flesh be saved: but for the elect's sake those days shall be shortened").
+
+[^229]: Cluster of marginal eschatological citations in the 1640 edition: Matt. 24:27, 29–30; Mark 13:24–26; Luke 21:25–27; 1 Cor. 15:52; 1 Thess. 4:16; Rev. 20:10–15.
+
+[^230]: Ancient theological-topographical tradition locating the general judgment in the Valley of Jehoshaphat at Jerusalem (Joel 3:2, 12), venerating Jerusalem as the mystical center of the earth (Ps. 73:12 [LXX 73:12 / MT 74:12]: "God is our King before the ages; He hath wrought salvation in the midst of the earth").
+
+[^231]: Concluding theological synthesis of the Kyivan Synaxarion: The Kingdom of Heaven is defined as eternal co-dwelling (*сполмешканє*) and perpetual illumination with God, whereas hell is defined fundamentally as estrangement from God (*ѿ Бога ѿдаленєся*) and eternal remorse of conscience.
+
+[^232]: Ode 7 Heirmos (*Согрѣшихомъ, и беззаконовахомъ* / *Sohryeshikhom, i bezzakonovakhom*). Greek incipit: *Ἡμάρτομεν, ἠνομήσαμεν*. Structured upon the Prayer of the Three Holy Youths in the Babylonian furnace (Dan. 3:29–30, 52 [LXX]: "We have sinned, we have transgressed... blessed art Thou, O Lord God of our fathers").
+
+[^233]: Triadikon of Ode 7: Classical Cappadocian trinitarian hymn affirming one divine essence (*едино существомъ*), three Hypostases (*три в лицѣхъ*), and a single indivisible divine power, will, and operation (*едина сила, хотѣнїе, и дѣйство*).

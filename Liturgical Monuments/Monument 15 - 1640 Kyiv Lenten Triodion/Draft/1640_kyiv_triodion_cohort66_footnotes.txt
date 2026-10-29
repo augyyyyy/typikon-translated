@@ -1,0 +1,38 @@
+[^1775]: Conclusion of the final troparion of Ode 9 of the Triodion Canon by St. Theodore the Studite from fol. 637v (p650).
+[^1776]: Katavasia of Ode 9 of the Triodion Canon by St. Theodore the Studite, Tone 2.
+[^1777]: Idiomelon Sticheron at the Aposticha of Tuesday Matins, Tone 7.
+[^1778]: The Kathisma distribution for Tuesday of the Fifth Week: Kathisma 14 at the First Hour (Ps. 101–104 LXX), Kathisma 15 at the Third Hour (Ps. 105–108 LXX), and Kathisma 16 at the Sixth Hour (Ps. 109–117 LXX).
+[^1779]: The printed heading specifies "Въ вто́рникъ, є҃ нл҃и На ѕ҃ мъ Ча́сѣ" (Tuesday of the Fifth Week at the Sixth Hour), correcting the printer's erratum on fol. 633 (p646), which had erroneously printed "ѕ҃ нл҃и" (sixth week).
+[^1780]: Prokeimenon at the Sixth Hour: Ps. 87:16 (LXX 87:16 / MT 88:15).
+[^1781]: Reading from the Prophecy of Isaiah: Isaiah 40:18–28 (LXX 40:18–28).
+[^1782]: Conclusion of the Reading from the Prophecy of Isaiah: Isaiah 40:29–31 (LXX 40:29–31).
+[^1783]: Second Prokeimenon at the Sixth Hour: Ps. 88:16 (LXX 88:16 / MT 89:15).
+[^1784]: Rubrical cross-reference directing the reader to fol. 644 (physical leaf p657) for the liturgical order when the Feast of the Annunciation coincides with Wednesday of the Fifth Week of Great Lent.
+[^1785]: The rubric assigns the incipit "Praise ye the name of the Lord" (Ps. 134 LXX, normally Kathisma 19) while labeling it Kathisma 17 ("Ка́: з҃і" or "д҃і").
+[^1786]: The rubric heading repeats the printer's erratum "ѕ҃ нл҃и" (sixth week) for the fifth week.
+[^1787]: Sticheron 1 by St. Joseph the Hymnographer, Tone 8, Podoben: "What shall we call you" (Что вы наречем).
+[^1788]: Sticheron 3 by St. Theodore the Studite, Tone 2, Podoben: "Higher than the mind" (Паче ума).
+[^1789]: Conclusion of the Sticheron by St. Theodore the Studite from fol. 640v (p653).
+[^1790]: Prokeimenon at Vespers: Ps. 89:1 (LXX 89:1 / MT 90:1).
+[^1791]: First Reading at Vespers: Genesis 15:1–9.
+[^1792]: Conclusion of the Reading from the Book of Genesis: Genesis 15:10–15.
+[^1793]: Second Prokeimenon at Vespers: Ps. 90:1 (LXX 90:1 / MT 91:1).
+[^1794]: Second Reading at Vespers: Proverbs 15:7–13.
+[^1795]: Conclusion of the Reading from Proverbs: Proverbs 15:13–19 (LXX 15:13–19).
+[^1796]: Idiomelon Sticheron at the Aposticha of Tuesday Vespers, Tone 5.
+[^1797]: Second Idiomelon Sticheron at the Aposticha of Tuesday Vespers, Tone 8 (printed with erratum "Гла́, н҃" for "Гла́, и҃").
+[^1798]: Conclusion of the Tone 8 Idiomelon Sticheron at the Aposticha of Tuesday Vespers from fol. 643v (p656).
+[^1799]: Chapter 85 of the Mark Chapters (Marginal: "Гл҃: пе҃"): Typikon rubric regulating the transference of the Great Canon of St. Andrew of Crete from Thursday to Tuesday of the Fifth Week of Great Lent when the Feast of the Annunciation falls on Wednesday.
+[^1800]: Rubrical cross-reference to fol. 474 ("л: ѵо҃д"), Chapter 4, for the combined order of the Annunciation and the Triodion.
+[^1801]: Rubrical cross-reference to fol. 622 ("ли́стѣ. х҃к҃в"), Chapter 84 of the Mark Chapters, for the Apodosis of the Annunciation when celebrated on Thursday of the Fifth Week.
+[^1802]: Primary day heading: Wednesday of the Fifth Week of Great Lent (fol. 645).
+[^1803]: The rubric assigns Kathisma 19 (Ps. 143–150 LXX) for the first stychology of Wednesday Matins.
+[^1804]: Sessional Hymn after the second stychology by St. Joseph the Hymnographer, Tone 4, Podoben: "The commanded mystery" (Повеленное таинство).
+[^1805]: The rubric assigns Kathisma 2 (Ps. 9–16 LXX) for the third stychology of Wednesday Matins.
+[^1806]: Sessional Hymn after the third stychology by St. Theodore the Studite, Tone 1, Podoben: "Unto Thine all-pure icon" (Пречистому образу твоему).
+[^1807]: Stavrotheotokion after the third stychology of Wednesday Matins from fol. 645v (p658).
+[^1808]: Heirmos of Ode 3 of the Triodion Canon by St. Joseph the Hymnographer, Tone 8.
+[^1809]: Heirmos of Ode 3 of the Triodion Canon by St. Theodore the Studite, Tone 2.
+[^1810]: Trinity Hymn of Ode 3 of the Triodion Canon by St. Theodore the Studite, Tone 2.
+[^1811]: Katavasia of Ode 3 by St. Theodore the Studite, Tone 2.
+[^1812]: Heirmos of Ode 8 of the Triodion Canon by St. Theodore the Studite, Tone 2 (Dan. 3:19).

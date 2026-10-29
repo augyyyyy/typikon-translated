@@ -1,0 +1,26 @@
+[^1135]: Model melody: *Tone 3, Podoben: "O valiant martyrs" (До́блїи му́ченицы)*; Greek: Γενναῖοι μάρτυρες.
+[^1136]: Prokeimenon at Vespers, Psalm 27:9, 1 (LXX versification; MT 28:9, 1).
+[^1137]: Vespers Old Testament lection: Genesis 4:8–15 (LXX versification).
+[^1138]: The phrase "Let us go out into the field" (διέλθωμεν εἰς τὸ πεδίον) is the Septuagint reading preserved in the Samaritan Pentateuch, Syriac Peshitta, and Vulgate, though omitted in the Masoretic Text.
+[^1139]: Prokeimenon at Vespers, Psalm 28:11, 1 (LXX versification; MT 29:11, 1).
+[^1140]: Vespers Old Testament lection: Proverbs 5:1–15 (LXX versification).
+[^1141]: The clause "[Give no heed unto an evil woman]" (μὴ πρόσεχε φαύλῃ γυναικί) is present in the Septuagint and printed in square brackets in the 1640 Kyiv text, being absent in the Masoretic Text.
+[^1142]: Model melody: *Tone 3, Podoben: "Great is the power of Thy martyrs" (Ве́лїя му́ченикъ)*; Greek: Μεγάλη τῶν μαρτύρων σου Χριστὲ ἡ δύναμις.
+[^1143]: Physical leaf coordinates: leaf p387 and p389 (printed fol. 193 and 194). Chapter 62 of the Triodion Typikon rubrics details the celebration of the Feast of the Holy Forty Martyrs of Sebaste (March 9) when falling within Great Lent.
+[^1144]: Physical leaf coordinate: leaf p367 (printed page 354, chapter 64), setting forth the rubrics for the Feast of the First and Second Finding of the Honorable Head of the Forerunner (February 24).
+[^1145]: Model melody: *Tone 4, Podoben: "Thy tomb, O Savior" (Гро́бъ тво́й)*; Greek: Τὸν τάφον σου Σωτήρ.
+[^1146]: Model melody: *Tone 3, Podoben: "The beauty of Thy virginity" (Красоту̀ дѣ́вства)*; Greek: Τὴν ὡραιότητα τῆς παρθενίας σου.
+[^1147]: Heirmos of Ode 3: *Let my heart be established in Thy will, O Christ God, Who didst establish the waters of the heavens above the second [firmament], and didst found the earth upon the waters, O all-powerful One.*
+[^1148]: Second Canon of Ode 3, by St. Theodore the Studite; Heirmos: *Establish, O Lord, our hearts by Thy Cross...*
+[^1149]: Katavasia of Ode 3 printed in full, concluding the first ode of the Matins triode canon.
+[^1150]: Heirmos of Ode 8: *Ye hymn-singers in the furnace of the children, the youth of the Hebrews, hymn the Lord God...*
+[^1151]: Second Canon of Ode 8, by St. Theodore the Studite; Heirmos: *Unto the children in the flame...*
+[^1152]: Katavasia of Ode 8 printed in full.
+[^1153]: Heirmos of Ode 9: *The life-receiving fountain that ever poureth forth, the light-bearing lamp of grace, the temple of all-holy glory...*
+[^1154]: Second Canon of Ode 9, by St. Theodore the Studite; Heirmos: *Moses beheld thee on Mount Sinai in the bush...*
+[^1155]: Katavasia of Ode 9 printed in full, concluding the Matins triode canon.
+[^1156]: The rubric breaks off without specifying the Tone number; as indicated in the general Triodion rubrics for Lenten Matins, the Photogogic (Exapostilarion) corresponding to the Tone of the week is chanted.
+[^1157]: Model melody: *Tone 7, Podoben: "No longer are we forbidden" (Не ктому̀ возбраня́еми)*; Greek: Οὐκέτι κωλυόμεθα.
+[^1158]: Prokeimenon at the Sixth Hour, Psalm 29:9, 2 (LXX versification; MT 30:8, 1). In the printed heading, "Psalm 24" is an erratum for Psalm 29.
+[^1159]: Sixth Hour Old Testament lection: Isaiah 5:16–25 (LXX versification).
+[^1160]: Prokeimenon at the Sixth Hour, Psalm 30:2 (LXX versification; MT 31:1).

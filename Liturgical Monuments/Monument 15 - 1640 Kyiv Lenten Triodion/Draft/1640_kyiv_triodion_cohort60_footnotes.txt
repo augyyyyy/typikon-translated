@@ -1,0 +1,34 @@
+[^1579]: Tone 4 Sessional Hymn Melodic Model: *Ско́ро предварѝ* ("Speedily anticipate"; Byzantine Greek: Ταχὺ προκατάλαβε).
+[^1580]: Typographical error in source text: *мл҃трки* for *мт҃рски* (maternally).
+[^1581]: Typographical error in source text: *ми́рдъ* for *млⷭ҇рдъ* (merciful / tender-hearted).
+[^1582]: Rubrical note: In the Byzantine and Kyivan Lenten order, this Canon to the Precious Cross (with the acrostic: *Покланя́емое вси восхвалимъ Древо*) is originally appointed in the Triodion for Friday Compline of the Fourth Week (Mid-Lent), but here is printed within Friday Matins.
+[^1583]: The Greek acrostic of this canon by St. Theodore the Studite is: Προσκυνούμενον πάντες ὑμνήσωμεν ξύλον (Let all extol the Tree that is worshipped).
+[^1584]: Tone 8, Ode 1 Heirmos model: *Воѡрꙋже́нна Фараѡ́на* (Byzantine Greek: Ἁρματηλάτην Φαραὼ ἐβύθισε / "He plunged Pharaoh in his chariot into the deep").
+[^1585]: Scriptural type: Exodus 14:16, 21. Moses parting the Red Sea with his staff, a Patristic type of the Cross delivering the faithful from the sea of passions.
+[^1586]: Scriptural allusion: Job 26:7 ("He hangs the earth upon nothing").
+[^1587]: Tone 8, Ode 3 Heirmos model: *Оу҆твержде́нїе моѐ* / *Оу҆твержде́й въ нача́лѣ* (Byzantine Greek: Ὁ στερεώσας κατ᾽ ἀρχάς / "Thou Who in the beginning didst establish the heavens").
+[^1588]: Scriptural citation: Psalm 131:7 LXX (Ps. 132:7 Masoretic): "We will bow down in the place where His feet stood" (поклони́мся на мѣ́сто, и҆́деже стоя́стѣ но́зѣ є҆гѡ̀ / προσκυνήσομεν εἰς τὸν τόπον, οὗ ἔστησαν οἱ πόδες αὐτοῦ).
+[^1589]: Tone 8, Ode 4 Heirmos model: *Ты́ ми Хрїсте́ Гдⷭ҇ь, ты́ ми и҆ си́ла* (Byzantine Greek: Σύ μου ἰσχύς, Κύριε / "Thou art my strength, O Lord, Thou art my power").
+[^1590]: Scriptural allusion: Psalm 73:12 LXX (Ps. 74:12 Masoretic): "God is our King before the ages; He has wrought salvation in the midst of the earth" (содѣ́ла сп҃се́нїе посредѣ̀ земли́). Patristic tradition identifies Golgotha as the center/navel of the earth.
+[^1591]: Tone 8, Ode 5 Heirmos model: *Вскꙋ́ю мѧ̀ ѿри́нꙋлъ є҆сѝ ѿ лица̀ твое́гѡ* (Byzantine Greek: Ἵνα τί με ἀπώσω ἀπὸ τοῦ προσώπου σου / "Why hast Thou cast me off from Thy presence, O Light unwaning?"). Notice that the banned pseudo-archaic form "Wherefore" is avoided per MTS-1.
+[^1592]: Tone 4, Ode 5 Heirmos model: *Оу҆диви́шася всѧ́ческая ѡ҆ бж҃е́ственнѣй сла́вѣ твое́й* (Byzantine Greek: Ἐξέστη τὰ σύμπαντα ἐπὶ τῇ θείᾳ δόξῃ σου / "All things were amazed at Thy divine glory").
+[^1593]: Greek witness: Ὕδατι καθαρσίῳ προσώπων (with the purifying water of faces). The 1640 print has *Проще́нїѧ* (forgiveness / cleansing) or dialectal *Поюще́нїѧ*.
+[^1594]: Patristic imagery: Christ as the mystical Cluster of Grapes (Βότρυς / Гро́здъ) hanging upon the Wood of the Cross, pressed in the winepress of the Passion to pour forth the sweet wine of immortality; cf. Num. 13:23, Song of Songs 1:14.
+[^1595]: Tone 4, Ode 5 Heirmos model: *И҆з но́щи ᲂу҆́треннююще* (Byzantine Greek: Ἐκ νυκτὸς ὀρθρίζοντες / "Rising early from the night, we hymn Thee, O Christ").
+[^1596]: Scriptural type: Isaiah 60:13 LXX: "The glory of Lebanon shall come to thee, with the cypress, and pine, and cedar together, to beautify the place of My sanctuary." Patristic tradition sees in these three woods the physical composition of Christ's Cross.
+[^1597]: Tone 8, Ode 6 Heirmos model: *Ѡ҆чи́сти мѧ Сп҃се, мнѡ́га бо беззакѡ́нїя моѧ̑* (Byzantine Greek: Ἱλάσθητί μοι Σωτήρ, πολλαὶ γὰρ αἱ ἀνομίαι μου / "Cleanse me, O Savior, for many are my transgressions").
+[^1598]: Tone 7 Automelon: Οὐκέτι φλογίνη ῥομφαία (Не ктомꙋ̀ ᲂу҆же́ пла́менное ѡ҆рꙋ́жїе), the classic Sunday of the Cross Kontakion by St. Romanos the Melodist; cf. Gen. 3:24, 1 Cor. 15:55.
+[^1599]: The Ikos of St. Romanos the Melodist for the Veneration of the Precious Cross. Notice the Patristic antinomy of the Tree of Knowledge in Eden and the Tree of the Cross on Golgotha.
+[^1600]: Tone 8, Ode 7 Heirmos model: *Бж҃їя сохожде́нїя ѻ҆́гнь ᲂу҆стыдѣ́ся въ Вавѷлѡ́нѣ и҆ногда̀* (Byzantine Greek: Θεοῦ συγκατάβασιν / "The fire was abashed at God's condescension in Babylon of old").
+[^1601]: Scriptural type: Exodus 15:23–25 (the bitter waters of Marah sweetened by the tree).
+[^1602]: Scriptural allusion: Matthew 7:13–14 (the narrow way leading unto life).
+[^1603]: Tone 8, Ode 8 Heirmos model: *Седмь седми́цею пе́щь халде́йскїй мꙋчи́тель* (Byzantine Greek: Ἑπταπλασίως κάμινον τῶν Χαλδαίων ὁ τύραννος / "Sevenfold the tyrant of the Chaldeans heated the furnace").
+[^1604]: Scriptural type: 4 Kings 6:5–7 LXX (2 Kings 6:5–7). Elisha causing the iron axe to swim with wood, prefiguring the Cross lifting fallen human nature out of the mire of corruption.
+[^1605]: Scriptural type: Genesis 48:13–14, Hebrews 11:21. The Patriarch Jacob crossing his hands to bless Ephraim and Manasseh, prefiguring the sign of the Cross.
+[^1606]: Tone 8, Ode 8 Heirmos model: *Ѻ҆́троки бл҃гочти́выя въ пещѝ* (Byzantine Greek: Παῖδας εὐαγεῖς ἐν τῇ καμίνῳ / "The pious youths in the furnace").
+[^1607]: Scriptural witness: Matthew 27:45, 51–52.
+[^1608]: Tone 8, Ode 8 Heirmos model: *Вся̑ дѣла̀ Бж҃їя, и҆ вся̀ тва́рь, бл҃гослови́те Гдⷭ҇а* (Song of the Three Holy Children, Dan. 3:57 LXX).
+[^1609]: Scriptural allusion: Isaiah 45:8, Joel 3:18.
+[^1610]: Tone 8, Ode 9 Heirmos model: *Оу҆диви́ся ᲂу҆́бѡ ѡ҆ се́мъ не́бо* (Byzantine Greek: Ἐξέστη ἐπὶ τούτῳ ὁ οὐρανός / "The heaven was astonished at this").
+[^1611]: Scriptural witness: Matthew 24:30 ("And then shall appear the sign of the Son of man in heaven").
+[^1612]: Tone 4, Ode 9 Heirmos model: *Вся́къ земноро́дный да взыгра́ется* (Byzantine Greek: Ἅπας γηγενὴς σκιρτάτω τῷ πνεύματι λαμπαδουχούμενος / "Let every earthborn mortal leap for joy in spirit, bearing a torch").

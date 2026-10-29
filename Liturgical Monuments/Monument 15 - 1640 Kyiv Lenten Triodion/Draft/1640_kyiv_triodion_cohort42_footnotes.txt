@@ -1,0 +1,20 @@
+[^1181]: Tone 5 Prosomoion model: *Го́споди при Мѡѷсе́и* (Greek: Κύριε, ἐπὶ τοῦ Μωϋσέως / *O Lord, at the time of Moses*).
+[^1182]: Psalm 35:6 (LXX 35:6 / MT 36:5).
+[^1183]: Genesis 5:1–24. The 1640 Kyiv text faithfully follows the Septuagint chronological tradition (Adam living 230 years before begetting Seth, Enos living 190 years before Cainan, Cainan living 170 years before Maleleel, and Jared living 162 years before Enoch), diverging by 100 years from the Hebrew Masoretic Text.
+[^1184]: Psalm 36:34 (LXX 36:34 / MT 37:34).
+[^1185]: Proverbs 6:3–20.
+[^1186]: Proverbs 6:8. The praise of the bee (*И҆лѝ и҆дѝ къ пчелѣ̀...*) is a distinctive Septuagint expansion absent from the Hebrew Masoretic Text; it is explicitly enclosed in printed square brackets in the 1640 Kyiv codex.
+[^1187]: Proverbs 6:11. This blessing of the diligent worker is an additional Septuagint reading absent from the Hebrew Masoretic Text, printed in brackets in the 1640 edition.
+[^1188]: Proverbs 6:18–19. The gloss *[потреблѧ́ѧ]* (*consuming* / *destroying*) is bracketed in the 1640 text.
+[^1189]: Tone 5 Automelon model: *Ра́дꙋйсѧ по́стникѡмъ* (Greek: Χαίροις ἀσκητικῶν / *Rejoice, O container of ascetics*).
+[^1190]: Tone 4 Sessional model: *Ско́ро предварѝ* (Greek: Ταχὺ προκατάλαβε / *Speedily anticipate*).
+[^1191]: Tone 5 Sessional model: *Сїѧ́етъ дне́сь* (Greek: Ἀστράπτει σήμερον / *Today shines forth*).
+[^1192]: Tone 5 Automelon model: *Собезнача́лное Сло́во* (Greek: Τὸν συνάναρχον Λόγον / *The Word co-unoriginate*).
+[^1193]: Friday of the Second Week of Lent, Matins Canon by St. Joseph the Hymnographer, Tone 4.
+[^1194]: Friday of the Second Week of Lent, Matins Canon by St. Theodore the Studite, Tone 5.
+[^1195]: Tone 5 Heirmos: *Ѿ но́щи покланѧ́ющихсѧ* (Greek: Ἐκ νυκτὸς ὀρθρίζοντες / *Unto those who worship from the night*).
+[^1196]: Tone 4 Heirmos: *Ѻ҆́троки бл҃гочести́выѧ въ пещѝ* (Greek: Παῖδας εὐαγεῖς ἐν τῇ καμίνῳ / *The pious children in the furnace*).
+[^1197]: Tone 5 Heirmos: *Творца̀ тва́ри* (Greek: Τὸν ποιητὴν тῆς κτίσεως / *The Creator of creation*).
+[^1198]: Tone 4 Heirmos: *Ка́мень нерꙋкосѣ́чны го́ры* (Greek: Λίθος ἀχειρότμητος ὄρους / *A stone cut without hands from a mountain*).
+[^1199]: Tone 5 Heirmos: *И҆са́їа ликꙋ́й* (Greek: Ἠσαΐα χόρευε / *Rejoice, O Isaiah*).
+[^1200]: Rubric cross-reference pointing to folio 273 (f. 273r), containing the standard conclusion of Matins, the First Hour, and the Order of the Presanctified Liturgy.

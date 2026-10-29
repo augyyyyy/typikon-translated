@@ -1,0 +1,2835 @@
+{
+  "monument_id": "1640_kyiv_triodion",
+  "updated_at": "2026-10-29T05:04:12.787290+00:00",
+  "total_queued_leaves": 257,
+  "unresolved_quarantines": 0,
+  "items": [
+    {
+      "leaf_num": 5,
+      "cohort": 1,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort1_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort1_source.txt",
+      "updated_at": "2026-10-27T18:47:42.948626+00:00"
+    },
+    {
+      "leaf_num": 12,
+      "cohort": 2,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort2_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort2_source.txt",
+      "updated_at": "2026-10-27T19:13:45.187207+00:00"
+    },
+    {
+      "leaf_num": 21,
+      "cohort": 3,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort3_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort3_source.txt",
+      "updated_at": "2026-10-27T19:44:13.055498+00:00"
+    },
+    {
+      "leaf_num": 31,
+      "cohort": 4,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort4_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort4_source.txt",
+      "updated_at": "2026-10-27T20:38:30.280154+00:00"
+    },
+    {
+      "leaf_num": 34,
+      "cohort": 4,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort4_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort4_source.txt",
+      "updated_at": "2026-10-27T20:38:30.280378+00:00"
+    },
+    {
+      "leaf_num": 35,
+      "cohort": 4,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort4_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort4_source.txt",
+      "updated_at": "2026-10-27T20:38:30.280505+00:00"
+    },
+    {
+      "leaf_num": 37,
+      "cohort": 4,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort4_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort4_source.txt",
+      "updated_at": "2026-10-27T20:38:30.280684+00:00"
+    },
+    {
+      "leaf_num": 46,
+      "cohort": 5,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort5_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort5_source.txt",
+      "updated_at": "2026-10-27T21:06:11.054574+00:00"
+    },
+    {
+      "leaf_num": 47,
+      "cohort": 5,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort5_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort5_source.txt",
+      "updated_at": "2026-10-27T21:06:11.054728+00:00"
+    },
+    {
+      "leaf_num": 48,
+      "cohort": 5,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort5_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort5_source.txt",
+      "updated_at": "2026-10-27T21:06:11.054865+00:00"
+    },
+    {
+      "leaf_num": 57,
+      "cohort": 6,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort6_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort6_source.txt",
+      "updated_at": "2026-10-27T21:24:33.823050+00:00"
+    },
+    {
+      "leaf_num": 58,
+      "cohort": 6,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort6_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort6_source.txt",
+      "updated_at": "2026-10-27T21:24:33.823209+00:00"
+    },
+    {
+      "leaf_num": 78,
+      "cohort": 8,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort8_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort8_source.txt",
+      "updated_at": "2026-10-27T22:13:56.834103+00:00"
+    },
+    {
+      "leaf_num": 139,
+      "cohort": 14,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort14_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort14_source.txt",
+      "updated_at": "2026-10-28T00:36:25.820257+00:00"
+    },
+    {
+      "leaf_num": 143,
+      "cohort": 15,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort15_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort15_source.txt",
+      "updated_at": "2026-10-28T01:00:51.609147+00:00"
+    },
+    {
+      "leaf_num": 148,
+      "cohort": 15,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 26 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort15_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort15_source.txt",
+      "updated_at": "2026-10-28T01:00:51.609521+00:00"
+    },
+    {
+      "leaf_num": 149,
+      "cohort": 15,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort15_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort15_source.txt",
+      "updated_at": "2026-10-28T01:00:51.609634+00:00"
+    },
+    {
+      "leaf_num": 150,
+      "cohort": 15,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 13 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort15_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort15_source.txt",
+      "updated_at": "2026-10-28T01:00:51.609743+00:00"
+    },
+    {
+      "leaf_num": 151,
+      "cohort": 16,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort16_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort16_source.txt",
+      "updated_at": "2026-10-28T01:23:05.496580+00:00"
+    },
+    {
+      "leaf_num": 153,
+      "cohort": 16,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort16_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort16_source.txt",
+      "updated_at": "2026-10-28T01:23:05.496780+00:00"
+    },
+    {
+      "leaf_num": 154,
+      "cohort": 16,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort16_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort16_source.txt",
+      "updated_at": "2026-10-28T01:23:05.496889+00:00"
+    },
+    {
+      "leaf_num": 155,
+      "cohort": 16,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort16_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort16_source.txt",
+      "updated_at": "2026-10-28T01:23:05.497001+00:00"
+    },
+    {
+      "leaf_num": 158,
+      "cohort": 16,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort16_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort16_source.txt",
+      "updated_at": "2026-10-28T01:23:05.497245+00:00"
+    },
+    {
+      "leaf_num": 159,
+      "cohort": 16,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort16_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort16_source.txt",
+      "updated_at": "2026-10-28T01:23:05.497354+00:00"
+    },
+    {
+      "leaf_num": 160,
+      "cohort": 16,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort16_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort16_source.txt",
+      "updated_at": "2026-10-28T01:23:05.497461+00:00"
+    },
+    {
+      "leaf_num": 167,
+      "cohort": 17,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort17_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort17_source.txt",
+      "updated_at": "2026-10-28T01:43:11.124046+00:00"
+    },
+    {
+      "leaf_num": 176,
+      "cohort": 18,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort18_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort18_source.txt",
+      "updated_at": "2026-10-28T02:01:37.804345+00:00"
+    },
+    {
+      "leaf_num": 184,
+      "cohort": 19,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort19_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort19_source.txt",
+      "updated_at": "2026-10-28T02:24:55.447849+00:00"
+    },
+    {
+      "leaf_num": 202,
+      "cohort": 21,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort21_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort21_source.txt",
+      "updated_at": "2026-10-28T03:00:55.825664+00:00"
+    },
+    {
+      "leaf_num": 207,
+      "cohort": 21,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort21_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort21_source.txt",
+      "updated_at": "2026-10-28T03:00:55.826022+00:00"
+    },
+    {
+      "leaf_num": 209,
+      "cohort": 21,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort21_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort21_source.txt",
+      "updated_at": "2026-10-28T03:00:55.826250+00:00"
+    },
+    {
+      "leaf_num": 220,
+      "cohort": 22,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort22_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort22_source.txt",
+      "updated_at": "2026-10-28T03:16:36.705744+00:00"
+    },
+    {
+      "leaf_num": 228,
+      "cohort": 23,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort23_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort23_source.txt",
+      "updated_at": "2026-10-28T03:43:29.364291+00:00"
+    },
+    {
+      "leaf_num": 247,
+      "cohort": 25,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort25_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort25_source.txt",
+      "updated_at": "2026-10-28T04:16:53.185097+00:00"
+    },
+    {
+      "leaf_num": 248,
+      "cohort": 25,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort25_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort25_source.txt",
+      "updated_at": "2026-10-28T04:16:53.185246+00:00"
+    },
+    {
+      "leaf_num": 250,
+      "cohort": 25,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort25_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort25_source.txt",
+      "updated_at": "2026-10-28T04:16:53.185409+00:00"
+    },
+    {
+      "leaf_num": 253,
+      "cohort": 26,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort26_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort26_source.txt",
+      "updated_at": "2026-10-28T04:31:00.818957+00:00"
+    },
+    {
+      "leaf_num": 264,
+      "cohort": 27,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort27_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort27_source.txt",
+      "updated_at": "2026-10-28T04:44:36.942754+00:00"
+    },
+    {
+      "leaf_num": 268,
+      "cohort": 27,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort27_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort27_source.txt",
+      "updated_at": "2026-10-28T04:44:36.943064+00:00"
+    },
+    {
+      "leaf_num": 270,
+      "cohort": 27,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort27_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort27_source.txt",
+      "updated_at": "2026-10-28T04:44:36.943233+00:00"
+    },
+    {
+      "leaf_num": 274,
+      "cohort": 28,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort28_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort28_source.txt",
+      "updated_at": "2026-10-28T04:56:27.560813+00:00"
+    },
+    {
+      "leaf_num": 279,
+      "cohort": 28,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort28_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort28_source.txt",
+      "updated_at": "2026-10-28T04:56:27.561140+00:00"
+    },
+    {
+      "leaf_num": 301,
+      "cohort": 31,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort31_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort31_source.txt",
+      "updated_at": "2026-10-28T05:46:50.194904+00:00"
+    },
+    {
+      "leaf_num": 302,
+      "cohort": 31,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort31_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort31_source.txt",
+      "updated_at": "2026-10-28T05:46:50.195040+00:00"
+    },
+    {
+      "leaf_num": 310,
+      "cohort": 31,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort31_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort31_source.txt",
+      "updated_at": "2026-10-28T05:46:50.195514+00:00"
+    },
+    {
+      "leaf_num": 323,
+      "cohort": 33,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort33_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort33_source.txt",
+      "updated_at": "2026-10-28T06:21:13.804142+00:00"
+    },
+    {
+      "leaf_num": 349,
+      "cohort": 35,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort35_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort35_source.txt",
+      "updated_at": "2026-10-28T06:58:17.233579+00:00"
+    },
+    {
+      "leaf_num": 351,
+      "cohort": 36,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort36_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort36_source.txt",
+      "updated_at": "2026-10-28T07:15:57.766067+00:00"
+    },
+    {
+      "leaf_num": 352,
+      "cohort": 36,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort36_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort36_source.txt",
+      "updated_at": "2026-10-28T07:15:57.766211+00:00"
+    },
+    {
+      "leaf_num": 353,
+      "cohort": 36,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort36_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort36_source.txt",
+      "updated_at": "2026-10-28T07:15:57.766342+00:00"
+    },
+    {
+      "leaf_num": 354,
+      "cohort": 36,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort36_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort36_source.txt",
+      "updated_at": "2026-10-28T07:15:57.766471+00:00"
+    },
+    {
+      "leaf_num": 355,
+      "cohort": 36,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort36_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort36_source.txt",
+      "updated_at": "2026-10-28T07:15:57.766717+00:00"
+    },
+    {
+      "leaf_num": 357,
+      "cohort": 36,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 13 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort36_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort36_source.txt",
+      "updated_at": "2026-10-28T07:15:57.766960+00:00"
+    },
+    {
+      "leaf_num": 359,
+      "cohort": 36,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort36_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort36_source.txt",
+      "updated_at": "2026-10-28T07:15:57.767162+00:00"
+    },
+    {
+      "leaf_num": 360,
+      "cohort": 36,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 12 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort36_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort36_source.txt",
+      "updated_at": "2026-10-28T07:15:57.767296+00:00"
+    },
+    {
+      "leaf_num": 362,
+      "cohort": 37,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort37_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort37_source.txt",
+      "updated_at": "2026-10-28T07:35:10.856781+00:00"
+    },
+    {
+      "leaf_num": 363,
+      "cohort": 37,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort37_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort37_source.txt",
+      "updated_at": "2026-10-28T07:35:10.856907+00:00"
+    },
+    {
+      "leaf_num": 364,
+      "cohort": 37,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 13 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort37_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort37_source.txt",
+      "updated_at": "2026-10-28T07:35:10.857031+00:00"
+    },
+    {
+      "leaf_num": 367,
+      "cohort": 37,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort37_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort37_source.txt",
+      "updated_at": "2026-10-28T07:35:10.857223+00:00"
+    },
+    {
+      "leaf_num": 368,
+      "cohort": 37,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort37_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort37_source.txt",
+      "updated_at": "2026-10-28T07:35:10.857332+00:00"
+    },
+    {
+      "leaf_num": 369,
+      "cohort": 37,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 11 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort37_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort37_source.txt",
+      "updated_at": "2026-10-28T07:35:10.857440+00:00"
+    },
+    {
+      "leaf_num": 370,
+      "cohort": 37,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 13 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort37_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort37_source.txt",
+      "updated_at": "2026-10-28T07:35:10.857554+00:00"
+    },
+    {
+      "leaf_num": 446,
+      "cohort": 45,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort45_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort45_source.txt",
+      "updated_at": "2026-10-28T10:30:38.232025+00:00"
+    },
+    {
+      "leaf_num": 507,
+      "cohort": 51,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort51_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort51_source.txt",
+      "updated_at": "2026-10-28T12:36:06.187911+00:00"
+    },
+    {
+      "leaf_num": 511,
+      "cohort": 52,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort52_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort52_source.txt",
+      "updated_at": "2026-10-28T12:56:29.314455+00:00"
+    },
+    {
+      "leaf_num": 536,
+      "cohort": 54,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort54_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort54_source.txt",
+      "updated_at": "2026-10-28T13:28:08.772136+00:00"
+    },
+    {
+      "leaf_num": 563,
+      "cohort": 57,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort57_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort57_source.txt",
+      "updated_at": "2026-10-28T14:47:38.950217+00:00"
+    },
+    {
+      "leaf_num": 569,
+      "cohort": 57,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort57_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort57_source.txt",
+      "updated_at": "2026-10-28T14:47:38.950580+00:00"
+    },
+    {
+      "leaf_num": 571,
+      "cohort": 58,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort58_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort58_source.txt",
+      "updated_at": "2026-10-28T15:16:26.935814+00:00"
+    },
+    {
+      "leaf_num": 579,
+      "cohort": 58,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort58_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort58_source.txt",
+      "updated_at": "2026-10-28T15:16:26.936304+00:00"
+    },
+    {
+      "leaf_num": 581,
+      "cohort": 59,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort59_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort59_source.txt",
+      "updated_at": "2026-10-28T15:52:46.135114+00:00"
+    },
+    {
+      "leaf_num": 591,
+      "cohort": 60,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort60_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort60_source.txt",
+      "updated_at": "2026-10-28T16:06:35.531371+00:00"
+    },
+    {
+      "leaf_num": 602,
+      "cohort": 61,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort61_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort61_source.txt",
+      "updated_at": "2026-10-28T16:26:55.853305+00:00"
+    },
+    {
+      "leaf_num": 604,
+      "cohort": 61,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort61_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort61_source.txt",
+      "updated_at": "2026-10-28T16:26:55.853483+00:00"
+    },
+    {
+      "leaf_num": 607,
+      "cohort": 61,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort61_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort61_source.txt",
+      "updated_at": "2026-10-28T16:26:55.853685+00:00"
+    },
+    {
+      "leaf_num": 610,
+      "cohort": 61,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort61_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort61_source.txt",
+      "updated_at": "2026-10-28T16:26:55.853917+00:00"
+    },
+    {
+      "leaf_num": 625,
+      "cohort": 63,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort63_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort63_source.txt",
+      "updated_at": "2026-10-28T18:23:52.047460+00:00"
+    },
+    {
+      "leaf_num": 633,
+      "cohort": 64,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort64_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort64_source.txt",
+      "updated_at": "2026-10-28T18:56:07.239541+00:00"
+    },
+    {
+      "leaf_num": 636,
+      "cohort": 64,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort64_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort64_source.txt",
+      "updated_at": "2026-10-28T18:56:07.239775+00:00"
+    },
+    {
+      "leaf_num": 638,
+      "cohort": 64,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort64_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort64_source.txt",
+      "updated_at": "2026-10-28T18:56:07.239939+00:00"
+    },
+    {
+      "leaf_num": 651,
+      "cohort": 66,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort66_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort66_source.txt",
+      "updated_at": "2026-10-28T20:24:40.442698+00:00"
+    },
+    {
+      "leaf_num": 653,
+      "cohort": 66,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort66_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort66_source.txt",
+      "updated_at": "2026-10-28T20:24:40.442892+00:00"
+    },
+    {
+      "leaf_num": 658,
+      "cohort": 66,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort66_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort66_source.txt",
+      "updated_at": "2026-10-28T20:24:40.443200+00:00"
+    },
+    {
+      "leaf_num": 661,
+      "cohort": 67,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort67_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort67_source.txt",
+      "updated_at": "2026-10-28T21:01:22.249197+00:00"
+    },
+    {
+      "leaf_num": 663,
+      "cohort": 67,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort67_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort67_source.txt",
+      "updated_at": "2026-10-28T21:01:22.249368+00:00"
+    },
+    {
+      "leaf_num": 665,
+      "cohort": 67,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort67_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort67_source.txt",
+      "updated_at": "2026-10-28T21:01:22.249536+00:00"
+    },
+    {
+      "leaf_num": 666,
+      "cohort": 67,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort67_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort67_source.txt",
+      "updated_at": "2026-10-28T21:01:22.249645+00:00"
+    },
+    {
+      "leaf_num": 667,
+      "cohort": 67,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort67_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort67_source.txt",
+      "updated_at": "2026-10-28T21:01:22.249761+00:00"
+    },
+    {
+      "leaf_num": 668,
+      "cohort": 67,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort67_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort67_source.txt",
+      "updated_at": "2026-10-28T21:01:22.249868+00:00"
+    },
+    {
+      "leaf_num": 669,
+      "cohort": 67,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort67_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort67_source.txt",
+      "updated_at": "2026-10-28T21:01:22.249979+00:00"
+    },
+    {
+      "leaf_num": 670,
+      "cohort": 67,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort67_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort67_source.txt",
+      "updated_at": "2026-10-28T21:01:22.250093+00:00"
+    },
+    {
+      "leaf_num": 681,
+      "cohort": 69,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort69_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort69_source.txt",
+      "updated_at": "2026-10-28T21:33:51.903465+00:00"
+    },
+    {
+      "leaf_num": 684,
+      "cohort": 69,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort69_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort69_source.txt",
+      "updated_at": "2026-10-28T21:33:51.903683+00:00"
+    },
+    {
+      "leaf_num": 685,
+      "cohort": 69,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort69_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort69_source.txt",
+      "updated_at": "2026-10-28T21:33:51.903807+00:00"
+    },
+    {
+      "leaf_num": 691,
+      "cohort": 70,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort70_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort70_source.txt",
+      "updated_at": "2026-10-28T21:50:24.512671+00:00"
+    },
+    {
+      "leaf_num": 692,
+      "cohort": 70,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort70_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort70_source.txt",
+      "updated_at": "2026-10-28T21:50:24.512792+00:00"
+    },
+    {
+      "leaf_num": 693,
+      "cohort": 70,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort70_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort70_source.txt",
+      "updated_at": "2026-10-28T21:50:24.512912+00:00"
+    },
+    {
+      "leaf_num": 694,
+      "cohort": 70,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort70_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort70_source.txt",
+      "updated_at": "2026-10-28T21:50:24.513023+00:00"
+    },
+    {
+      "leaf_num": 695,
+      "cohort": 70,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort70_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort70_source.txt",
+      "updated_at": "2026-10-28T21:50:24.513126+00:00"
+    },
+    {
+      "leaf_num": 696,
+      "cohort": 70,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort70_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort70_source.txt",
+      "updated_at": "2026-10-28T21:50:24.513242+00:00"
+    },
+    {
+      "leaf_num": 697,
+      "cohort": 70,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort70_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort70_source.txt",
+      "updated_at": "2026-10-28T21:50:24.513367+00:00"
+    },
+    {
+      "leaf_num": 698,
+      "cohort": 70,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort70_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort70_source.txt",
+      "updated_at": "2026-10-28T21:50:24.513503+00:00"
+    },
+    {
+      "leaf_num": 699,
+      "cohort": 70,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort70_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort70_source.txt",
+      "updated_at": "2026-10-28T21:50:24.513615+00:00"
+    },
+    {
+      "leaf_num": 700,
+      "cohort": 70,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort70_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort70_source.txt",
+      "updated_at": "2026-10-28T21:50:24.513735+00:00"
+    },
+    {
+      "leaf_num": 701,
+      "cohort": 71,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Final MD\\1640_kyiv_triodion_cohort71.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort71_source.txt",
+      "updated_at": "2026-10-28T23:23:13.146015+00:00"
+    },
+    {
+      "leaf_num": 702,
+      "cohort": 71,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Final MD\\1640_kyiv_triodion_cohort71.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort71_source.txt",
+      "updated_at": "2026-10-28T23:23:13.146148+00:00"
+    },
+    {
+      "leaf_num": 703,
+      "cohort": 71,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Final MD\\1640_kyiv_triodion_cohort71.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort71_source.txt",
+      "updated_at": "2026-10-28T23:23:13.146263+00:00"
+    },
+    {
+      "leaf_num": 704,
+      "cohort": 71,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Final MD\\1640_kyiv_triodion_cohort71.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort71_source.txt",
+      "updated_at": "2026-10-28T23:23:13.146377+00:00"
+    },
+    {
+      "leaf_num": 705,
+      "cohort": 71,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Final MD\\1640_kyiv_triodion_cohort71.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort71_source.txt",
+      "updated_at": "2026-10-28T23:23:13.146484+00:00"
+    },
+    {
+      "leaf_num": 706,
+      "cohort": 71,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Final MD\\1640_kyiv_triodion_cohort71.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort71_source.txt",
+      "updated_at": "2026-10-28T23:23:13.146588+00:00"
+    },
+    {
+      "leaf_num": 707,
+      "cohort": 71,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Final MD\\1640_kyiv_triodion_cohort71.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort71_source.txt",
+      "updated_at": "2026-10-28T23:23:13.146695+00:00"
+    },
+    {
+      "leaf_num": 708,
+      "cohort": 71,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Final MD\\1640_kyiv_triodion_cohort71.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort71_source.txt",
+      "updated_at": "2026-10-28T23:23:13.146798+00:00"
+    },
+    {
+      "leaf_num": 709,
+      "cohort": 71,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 11 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Final MD\\1640_kyiv_triodion_cohort71.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort71_source.txt",
+      "updated_at": "2026-10-28T23:23:13.146906+00:00"
+    },
+    {
+      "leaf_num": 710,
+      "cohort": 71,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Final MD\\1640_kyiv_triodion_cohort71.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort71_source.txt",
+      "updated_at": "2026-10-28T23:23:13.147013+00:00"
+    },
+    {
+      "leaf_num": 711,
+      "cohort": 72,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort72_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort72_source.txt",
+      "updated_at": "2026-10-28T23:34:20.263433+00:00"
+    },
+    {
+      "leaf_num": 712,
+      "cohort": 72,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort72_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort72_source.txt",
+      "updated_at": "2026-10-28T23:34:20.263559+00:00"
+    },
+    {
+      "leaf_num": 713,
+      "cohort": 72,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort72_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort72_source.txt",
+      "updated_at": "2026-10-28T23:34:20.263674+00:00"
+    },
+    {
+      "leaf_num": 714,
+      "cohort": 72,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort72_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort72_source.txt",
+      "updated_at": "2026-10-28T23:34:20.263785+00:00"
+    },
+    {
+      "leaf_num": 715,
+      "cohort": 72,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort72_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort72_source.txt",
+      "updated_at": "2026-10-28T23:34:20.263890+00:00"
+    },
+    {
+      "leaf_num": 717,
+      "cohort": 72,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort72_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort72_source.txt",
+      "updated_at": "2026-10-28T23:34:20.264044+00:00"
+    },
+    {
+      "leaf_num": 721,
+      "cohort": 73,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 16 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort73_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort73_source.txt",
+      "updated_at": "2026-10-28T23:48:04.813372+00:00"
+    },
+    {
+      "leaf_num": 722,
+      "cohort": 73,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort73_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort73_source.txt",
+      "updated_at": "2026-10-28T23:48:04.813500+00:00"
+    },
+    {
+      "leaf_num": 723,
+      "cohort": 73,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort73_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort73_source.txt",
+      "updated_at": "2026-10-28T23:48:04.813619+00:00"
+    },
+    {
+      "leaf_num": 724,
+      "cohort": 73,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort73_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort73_source.txt",
+      "updated_at": "2026-10-28T23:48:04.813730+00:00"
+    },
+    {
+      "leaf_num": 725,
+      "cohort": 73,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort73_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort73_source.txt",
+      "updated_at": "2026-10-28T23:48:04.813843+00:00"
+    },
+    {
+      "leaf_num": 726,
+      "cohort": 73,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort73_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort73_source.txt",
+      "updated_at": "2026-10-28T23:48:04.813954+00:00"
+    },
+    {
+      "leaf_num": 727,
+      "cohort": 73,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort73_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort73_source.txt",
+      "updated_at": "2026-10-28T23:48:04.814060+00:00"
+    },
+    {
+      "leaf_num": 740,
+      "cohort": 74,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort74_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort74_source.txt",
+      "updated_at": "2026-10-29T00:05:18.744381+00:00"
+    },
+    {
+      "leaf_num": 741,
+      "cohort": 75,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort75_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort75_source.txt",
+      "updated_at": "2026-10-29T00:21:56.726824+00:00"
+    },
+    {
+      "leaf_num": 743,
+      "cohort": 75,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort75_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort75_source.txt",
+      "updated_at": "2026-10-29T00:21:56.727023+00:00"
+    },
+    {
+      "leaf_num": 751,
+      "cohort": 76,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort76_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort76_source.txt",
+      "updated_at": "2026-10-29T00:39:20.427036+00:00"
+    },
+    {
+      "leaf_num": 755,
+      "cohort": 76,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort76_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort76_source.txt",
+      "updated_at": "2026-10-29T00:39:20.427370+00:00"
+    },
+    {
+      "leaf_num": 758,
+      "cohort": 76,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort76_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort76_source.txt",
+      "updated_at": "2026-10-29T00:39:20.427571+00:00"
+    },
+    {
+      "leaf_num": 759,
+      "cohort": 76,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort76_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort76_source.txt",
+      "updated_at": "2026-10-29T00:39:20.427677+00:00"
+    },
+    {
+      "leaf_num": 760,
+      "cohort": 76,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort76_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort76_source.txt",
+      "updated_at": "2026-10-29T00:39:20.427788+00:00"
+    },
+    {
+      "leaf_num": 761,
+      "cohort": 77,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 11 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort77_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort77_source.txt",
+      "updated_at": "2026-10-29T00:58:27.461070+00:00"
+    },
+    {
+      "leaf_num": 762,
+      "cohort": 77,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort77_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort77_source.txt",
+      "updated_at": "2026-10-29T00:58:27.461197+00:00"
+    },
+    {
+      "leaf_num": 764,
+      "cohort": 77,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort77_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort77_source.txt",
+      "updated_at": "2026-10-29T00:58:27.461361+00:00"
+    },
+    {
+      "leaf_num": 767,
+      "cohort": 77,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort77_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort77_source.txt",
+      "updated_at": "2026-10-29T00:58:27.461629+00:00"
+    },
+    {
+      "leaf_num": 768,
+      "cohort": 77,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort77_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort77_source.txt",
+      "updated_at": "2026-10-29T00:58:27.461735+00:00"
+    },
+    {
+      "leaf_num": 769,
+      "cohort": 77,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 13 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort77_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort77_source.txt",
+      "updated_at": "2026-10-29T00:58:27.461849+00:00"
+    },
+    {
+      "leaf_num": 770,
+      "cohort": 77,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort77_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort77_source.txt",
+      "updated_at": "2026-10-29T00:58:27.461956+00:00"
+    },
+    {
+      "leaf_num": 771,
+      "cohort": 78,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 15 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort78_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort78_source.txt",
+      "updated_at": "2026-10-29T01:18:18.208565+00:00"
+    },
+    {
+      "leaf_num": 772,
+      "cohort": 78,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort78_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort78_source.txt",
+      "updated_at": "2026-10-29T01:18:18.208684+00:00"
+    },
+    {
+      "leaf_num": 773,
+      "cohort": 78,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 11 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort78_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort78_source.txt",
+      "updated_at": "2026-10-29T01:18:18.208801+00:00"
+    },
+    {
+      "leaf_num": 774,
+      "cohort": 78,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort78_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort78_source.txt",
+      "updated_at": "2026-10-29T01:18:18.208911+00:00"
+    },
+    {
+      "leaf_num": 775,
+      "cohort": 78,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 12 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort78_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort78_source.txt",
+      "updated_at": "2026-10-29T01:18:18.209030+00:00"
+    },
+    {
+      "leaf_num": 777,
+      "cohort": 78,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort78_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort78_source.txt",
+      "updated_at": "2026-10-29T01:18:18.209281+00:00"
+    },
+    {
+      "leaf_num": 778,
+      "cohort": 78,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort78_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort78_source.txt",
+      "updated_at": "2026-10-29T01:18:18.209487+00:00"
+    },
+    {
+      "leaf_num": 779,
+      "cohort": 78,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 12 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort78_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort78_source.txt",
+      "updated_at": "2026-10-29T01:18:18.209694+00:00"
+    },
+    {
+      "leaf_num": 780,
+      "cohort": 78,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort78_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort78_source.txt",
+      "updated_at": "2026-10-29T01:18:18.209901+00:00"
+    },
+    {
+      "leaf_num": 781,
+      "cohort": 79,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort79_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort79_source.txt",
+      "updated_at": "2026-10-29T01:40:24.237669+00:00"
+    },
+    {
+      "leaf_num": 782,
+      "cohort": 79,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort79_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort79_source.txt",
+      "updated_at": "2026-10-29T01:40:24.237815+00:00"
+    },
+    {
+      "leaf_num": 783,
+      "cohort": 79,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort79_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort79_source.txt",
+      "updated_at": "2026-10-29T01:40:24.237936+00:00"
+    },
+    {
+      "leaf_num": 784,
+      "cohort": 79,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort79_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort79_source.txt",
+      "updated_at": "2026-10-29T01:40:24.238056+00:00"
+    },
+    {
+      "leaf_num": 785,
+      "cohort": 79,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort79_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort79_source.txt",
+      "updated_at": "2026-10-29T01:40:24.238176+00:00"
+    },
+    {
+      "leaf_num": 786,
+      "cohort": 79,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort79_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort79_source.txt",
+      "updated_at": "2026-10-29T01:40:24.238283+00:00"
+    },
+    {
+      "leaf_num": 787,
+      "cohort": 79,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort79_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort79_source.txt",
+      "updated_at": "2026-10-29T01:40:24.238389+00:00"
+    },
+    {
+      "leaf_num": 788,
+      "cohort": 79,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort79_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort79_source.txt",
+      "updated_at": "2026-10-29T01:40:24.238499+00:00"
+    },
+    {
+      "leaf_num": 789,
+      "cohort": 79,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort79_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort79_source.txt",
+      "updated_at": "2026-10-29T01:40:24.238614+00:00"
+    },
+    {
+      "leaf_num": 790,
+      "cohort": 79,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort79_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort79_source.txt",
+      "updated_at": "2026-10-29T01:40:24.238728+00:00"
+    },
+    {
+      "leaf_num": 791,
+      "cohort": 80,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort80_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort80_source.txt",
+      "updated_at": "2026-10-29T02:01:10.900004+00:00"
+    },
+    {
+      "leaf_num": 792,
+      "cohort": 80,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort80_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort80_source.txt",
+      "updated_at": "2026-10-29T02:01:10.900131+00:00"
+    },
+    {
+      "leaf_num": 793,
+      "cohort": 80,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 11 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort80_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort80_source.txt",
+      "updated_at": "2026-10-29T02:01:10.900245+00:00"
+    },
+    {
+      "leaf_num": 794,
+      "cohort": 80,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort80_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort80_source.txt",
+      "updated_at": "2026-10-29T02:01:10.900357+00:00"
+    },
+    {
+      "leaf_num": 795,
+      "cohort": 80,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort80_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort80_source.txt",
+      "updated_at": "2026-10-29T02:01:10.900478+00:00"
+    },
+    {
+      "leaf_num": 796,
+      "cohort": 80,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort80_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort80_source.txt",
+      "updated_at": "2026-10-29T02:01:10.900584+00:00"
+    },
+    {
+      "leaf_num": 797,
+      "cohort": 80,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort80_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort80_source.txt",
+      "updated_at": "2026-10-29T02:01:10.900689+00:00"
+    },
+    {
+      "leaf_num": 798,
+      "cohort": 80,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort80_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort80_source.txt",
+      "updated_at": "2026-10-29T02:01:10.900800+00:00"
+    },
+    {
+      "leaf_num": 799,
+      "cohort": 80,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 12 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort80_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort80_source.txt",
+      "updated_at": "2026-10-29T02:01:10.900905+00:00"
+    },
+    {
+      "leaf_num": 800,
+      "cohort": 80,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 15 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort80_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort80_source.txt",
+      "updated_at": "2026-10-29T02:01:10.901014+00:00"
+    },
+    {
+      "leaf_num": 801,
+      "cohort": 81,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort81_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort81_source.txt",
+      "updated_at": "2026-10-29T02:22:01.308601+00:00"
+    },
+    {
+      "leaf_num": 802,
+      "cohort": 81,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 13 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort81_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort81_source.txt",
+      "updated_at": "2026-10-29T02:22:01.308726+00:00"
+    },
+    {
+      "leaf_num": 803,
+      "cohort": 81,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort81_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort81_source.txt",
+      "updated_at": "2026-10-29T02:22:01.308839+00:00"
+    },
+    {
+      "leaf_num": 804,
+      "cohort": 81,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort81_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort81_source.txt",
+      "updated_at": "2026-10-29T02:22:01.308947+00:00"
+    },
+    {
+      "leaf_num": 805,
+      "cohort": 81,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort81_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort81_source.txt",
+      "updated_at": "2026-10-29T02:22:01.309054+00:00"
+    },
+    {
+      "leaf_num": 806,
+      "cohort": 81,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 11 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort81_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort81_source.txt",
+      "updated_at": "2026-10-29T02:22:01.309172+00:00"
+    },
+    {
+      "leaf_num": 807,
+      "cohort": 81,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort81_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort81_source.txt",
+      "updated_at": "2026-10-29T02:22:01.309278+00:00"
+    },
+    {
+      "leaf_num": 808,
+      "cohort": 81,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort81_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort81_source.txt",
+      "updated_at": "2026-10-29T02:22:01.309381+00:00"
+    },
+    {
+      "leaf_num": 809,
+      "cohort": 81,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort81_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort81_source.txt",
+      "updated_at": "2026-10-29T02:22:01.309482+00:00"
+    },
+    {
+      "leaf_num": 810,
+      "cohort": 81,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort81_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort81_source.txt",
+      "updated_at": "2026-10-29T02:22:01.309587+00:00"
+    },
+    {
+      "leaf_num": 811,
+      "cohort": 82,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 13 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort82_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort82_source.txt",
+      "updated_at": "2026-10-29T02:39:31.820776+00:00"
+    },
+    {
+      "leaf_num": 812,
+      "cohort": 82,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 13 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort82_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort82_source.txt",
+      "updated_at": "2026-10-29T02:39:31.820898+00:00"
+    },
+    {
+      "leaf_num": 813,
+      "cohort": 82,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 13 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort82_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort82_source.txt",
+      "updated_at": "2026-10-29T02:39:31.821008+00:00"
+    },
+    {
+      "leaf_num": 814,
+      "cohort": 82,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort82_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort82_source.txt",
+      "updated_at": "2026-10-29T02:39:31.821124+00:00"
+    },
+    {
+      "leaf_num": 815,
+      "cohort": 82,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort82_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort82_source.txt",
+      "updated_at": "2026-10-29T02:39:31.821231+00:00"
+    },
+    {
+      "leaf_num": 816,
+      "cohort": 82,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort82_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort82_source.txt",
+      "updated_at": "2026-10-29T02:39:31.821337+00:00"
+    },
+    {
+      "leaf_num": 817,
+      "cohort": 82,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort82_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort82_source.txt",
+      "updated_at": "2026-10-29T02:39:31.821445+00:00"
+    },
+    {
+      "leaf_num": 818,
+      "cohort": 82,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort82_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort82_source.txt",
+      "updated_at": "2026-10-29T02:39:31.821547+00:00"
+    },
+    {
+      "leaf_num": 819,
+      "cohort": 82,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort82_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort82_source.txt",
+      "updated_at": "2026-10-29T02:39:31.821657+00:00"
+    },
+    {
+      "leaf_num": 820,
+      "cohort": 82,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort82_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort82_source.txt",
+      "updated_at": "2026-10-29T02:39:31.821761+00:00"
+    },
+    {
+      "leaf_num": 821,
+      "cohort": 83,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Final MD\\1640_kyiv_triodion_cohort83.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort83_source.txt",
+      "updated_at": "2026-10-29T03:24:36.186655+00:00"
+    },
+    {
+      "leaf_num": 822,
+      "cohort": 83,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Final MD\\1640_kyiv_triodion_cohort83.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort83_source.txt",
+      "updated_at": "2026-10-29T03:24:36.186784+00:00"
+    },
+    {
+      "leaf_num": 823,
+      "cohort": 83,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Final MD\\1640_kyiv_triodion_cohort83.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort83_source.txt",
+      "updated_at": "2026-10-29T03:24:36.186893+00:00"
+    },
+    {
+      "leaf_num": 824,
+      "cohort": 83,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Final MD\\1640_kyiv_triodion_cohort83.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort83_source.txt",
+      "updated_at": "2026-10-29T03:24:36.186999+00:00"
+    },
+    {
+      "leaf_num": 825,
+      "cohort": 83,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 11 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Final MD\\1640_kyiv_triodion_cohort83.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort83_source.txt",
+      "updated_at": "2026-10-29T03:24:36.187109+00:00"
+    },
+    {
+      "leaf_num": 826,
+      "cohort": 83,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 15 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Final MD\\1640_kyiv_triodion_cohort83.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort83_source.txt",
+      "updated_at": "2026-10-29T03:24:36.187221+00:00"
+    },
+    {
+      "leaf_num": 827,
+      "cohort": 83,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Final MD\\1640_kyiv_triodion_cohort83.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort83_source.txt",
+      "updated_at": "2026-10-29T03:24:36.187326+00:00"
+    },
+    {
+      "leaf_num": 828,
+      "cohort": 83,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Final MD\\1640_kyiv_triodion_cohort83.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort83_source.txt",
+      "updated_at": "2026-10-29T03:24:36.187435+00:00"
+    },
+    {
+      "leaf_num": 829,
+      "cohort": 83,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 11 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Final MD\\1640_kyiv_triodion_cohort83.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort83_source.txt",
+      "updated_at": "2026-10-29T03:24:36.187540+00:00"
+    },
+    {
+      "leaf_num": 830,
+      "cohort": 83,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Final MD\\1640_kyiv_triodion_cohort83.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort83_source.txt",
+      "updated_at": "2026-10-29T03:24:36.187646+00:00"
+    },
+    {
+      "leaf_num": 831,
+      "cohort": 84,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort84_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort84_source.txt",
+      "updated_at": "2026-10-29T03:32:28.837466+00:00"
+    },
+    {
+      "leaf_num": 832,
+      "cohort": 84,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort84_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort84_source.txt",
+      "updated_at": "2026-10-29T03:32:28.837591+00:00"
+    },
+    {
+      "leaf_num": 833,
+      "cohort": 84,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort84_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort84_source.txt",
+      "updated_at": "2026-10-29T03:32:28.837702+00:00"
+    },
+    {
+      "leaf_num": 835,
+      "cohort": 84,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort84_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort84_source.txt",
+      "updated_at": "2026-10-29T03:32:28.837881+00:00"
+    },
+    {
+      "leaf_num": 838,
+      "cohort": 84,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort84_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort84_source.txt",
+      "updated_at": "2026-10-29T03:32:28.838082+00:00"
+    },
+    {
+      "leaf_num": 839,
+      "cohort": 84,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort84_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort84_source.txt",
+      "updated_at": "2026-10-29T03:32:28.838188+00:00"
+    },
+    {
+      "leaf_num": 840,
+      "cohort": 84,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort84_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort84_source.txt",
+      "updated_at": "2026-10-29T03:32:28.838291+00:00"
+    },
+    {
+      "leaf_num": 841,
+      "cohort": 85,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort85_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort85_source.txt",
+      "updated_at": "2026-10-29T03:47:07.715581+00:00"
+    },
+    {
+      "leaf_num": 842,
+      "cohort": 85,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort85_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort85_source.txt",
+      "updated_at": "2026-10-29T03:47:07.715705+00:00"
+    },
+    {
+      "leaf_num": 843,
+      "cohort": 85,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort85_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort85_source.txt",
+      "updated_at": "2026-10-29T03:47:07.715814+00:00"
+    },
+    {
+      "leaf_num": 844,
+      "cohort": 85,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort85_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort85_source.txt",
+      "updated_at": "2026-10-29T03:47:07.715921+00:00"
+    },
+    {
+      "leaf_num": 847,
+      "cohort": 85,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort85_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort85_source.txt",
+      "updated_at": "2026-10-29T03:47:07.716124+00:00"
+    },
+    {
+      "leaf_num": 848,
+      "cohort": 85,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort85_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort85_source.txt",
+      "updated_at": "2026-10-29T03:47:07.716230+00:00"
+    },
+    {
+      "leaf_num": 849,
+      "cohort": 85,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort85_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort85_source.txt",
+      "updated_at": "2026-10-29T03:47:07.716337+00:00"
+    },
+    {
+      "leaf_num": 850,
+      "cohort": 85,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort85_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort85_source.txt",
+      "updated_at": "2026-10-29T03:47:07.716437+00:00"
+    },
+    {
+      "leaf_num": 851,
+      "cohort": 86,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort86_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort86_source.txt",
+      "updated_at": "2026-10-29T03:58:41.150164+00:00"
+    },
+    {
+      "leaf_num": 852,
+      "cohort": 86,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort86_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort86_source.txt",
+      "updated_at": "2026-10-29T03:58:41.150364+00:00"
+    },
+    {
+      "leaf_num": 853,
+      "cohort": 86,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort86_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort86_source.txt",
+      "updated_at": "2026-10-29T03:58:41.150564+00:00"
+    },
+    {
+      "leaf_num": 854,
+      "cohort": 86,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort86_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort86_source.txt",
+      "updated_at": "2026-10-29T03:58:41.150763+00:00"
+    },
+    {
+      "leaf_num": 855,
+      "cohort": 86,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort86_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort86_source.txt",
+      "updated_at": "2026-10-29T03:58:41.150965+00:00"
+    },
+    {
+      "leaf_num": 856,
+      "cohort": 86,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort86_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort86_source.txt",
+      "updated_at": "2026-10-29T03:58:41.151171+00:00"
+    },
+    {
+      "leaf_num": 857,
+      "cohort": 86,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort86_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort86_source.txt",
+      "updated_at": "2026-10-29T03:58:41.151365+00:00"
+    },
+    {
+      "leaf_num": 858,
+      "cohort": 86,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort86_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort86_source.txt",
+      "updated_at": "2026-10-29T03:58:41.151563+00:00"
+    },
+    {
+      "leaf_num": 859,
+      "cohort": 86,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort86_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort86_source.txt",
+      "updated_at": "2026-10-29T03:58:41.151758+00:00"
+    },
+    {
+      "leaf_num": 860,
+      "cohort": 86,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort86_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort86_source.txt",
+      "updated_at": "2026-10-29T03:58:41.151963+00:00"
+    },
+    {
+      "leaf_num": 861,
+      "cohort": 87,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort87_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort87_source.txt",
+      "updated_at": "2026-10-29T04:15:27.797521+00:00"
+    },
+    {
+      "leaf_num": 862,
+      "cohort": 87,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort87_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort87_source.txt",
+      "updated_at": "2026-10-29T04:15:27.797642+00:00"
+    },
+    {
+      "leaf_num": 863,
+      "cohort": 87,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort87_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort87_source.txt",
+      "updated_at": "2026-10-29T04:15:27.797755+00:00"
+    },
+    {
+      "leaf_num": 864,
+      "cohort": 87,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort87_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort87_source.txt",
+      "updated_at": "2026-10-29T04:15:27.797862+00:00"
+    },
+    {
+      "leaf_num": 865,
+      "cohort": 87,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort87_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort87_source.txt",
+      "updated_at": "2026-10-29T04:15:27.797968+00:00"
+    },
+    {
+      "leaf_num": 866,
+      "cohort": 87,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort87_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort87_source.txt",
+      "updated_at": "2026-10-29T04:15:27.798091+00:00"
+    },
+    {
+      "leaf_num": 867,
+      "cohort": 87,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort87_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort87_source.txt",
+      "updated_at": "2026-10-29T04:15:27.798203+00:00"
+    },
+    {
+      "leaf_num": 868,
+      "cohort": 87,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort87_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort87_source.txt",
+      "updated_at": "2026-10-29T04:15:27.798312+00:00"
+    },
+    {
+      "leaf_num": 869,
+      "cohort": 87,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort87_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort87_source.txt",
+      "updated_at": "2026-10-29T04:15:27.798420+00:00"
+    },
+    {
+      "leaf_num": 870,
+      "cohort": 87,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort87_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort87_source.txt",
+      "updated_at": "2026-10-29T04:15:27.798531+00:00"
+    },
+    {
+      "leaf_num": 871,
+      "cohort": 88,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort88_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort88_source.txt",
+      "updated_at": "2026-10-29T04:27:58.428738+00:00"
+    },
+    {
+      "leaf_num": 872,
+      "cohort": 88,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort88_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort88_source.txt",
+      "updated_at": "2026-10-29T04:27:58.428870+00:00"
+    },
+    {
+      "leaf_num": 873,
+      "cohort": 88,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort88_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort88_source.txt",
+      "updated_at": "2026-10-29T04:27:58.428980+00:00"
+    },
+    {
+      "leaf_num": 874,
+      "cohort": 88,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort88_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort88_source.txt",
+      "updated_at": "2026-10-29T04:27:58.429092+00:00"
+    },
+    {
+      "leaf_num": 875,
+      "cohort": 88,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort88_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort88_source.txt",
+      "updated_at": "2026-10-29T04:27:58.429197+00:00"
+    },
+    {
+      "leaf_num": 876,
+      "cohort": 88,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort88_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort88_source.txt",
+      "updated_at": "2026-10-29T04:27:58.429299+00:00"
+    },
+    {
+      "leaf_num": 877,
+      "cohort": 88,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort88_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort88_source.txt",
+      "updated_at": "2026-10-29T04:27:58.429412+00:00"
+    },
+    {
+      "leaf_num": 879,
+      "cohort": 88,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort88_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort88_source.txt",
+      "updated_at": "2026-10-29T04:27:58.429610+00:00"
+    },
+    {
+      "leaf_num": 881,
+      "cohort": 89,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort89_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort89_source.txt",
+      "updated_at": "2026-10-29T04:49:30.101001+00:00"
+    },
+    {
+      "leaf_num": 882,
+      "cohort": 89,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort89_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort89_source.txt",
+      "updated_at": "2026-10-29T04:49:30.101229+00:00"
+    },
+    {
+      "leaf_num": 883,
+      "cohort": 89,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort89_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort89_source.txt",
+      "updated_at": "2026-10-29T04:49:30.101435+00:00"
+    },
+    {
+      "leaf_num": 884,
+      "cohort": 89,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort89_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort89_source.txt",
+      "updated_at": "2026-10-29T04:49:30.101636+00:00"
+    },
+    {
+      "leaf_num": 885,
+      "cohort": 89,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort89_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort89_source.txt",
+      "updated_at": "2026-10-29T04:49:30.101840+00:00"
+    },
+    {
+      "leaf_num": 886,
+      "cohort": 89,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort89_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort89_source.txt",
+      "updated_at": "2026-10-29T04:49:30.102034+00:00"
+    },
+    {
+      "leaf_num": 887,
+      "cohort": 89,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort89_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort89_source.txt",
+      "updated_at": "2026-10-29T04:49:30.102240+00:00"
+    },
+    {
+      "leaf_num": 891,
+      "cohort": 90,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort90_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort90_source.txt",
+      "updated_at": "2026-10-29T05:04:12.786565+00:00"
+    },
+    {
+      "leaf_num": 892,
+      "cohort": 90,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort90_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort90_source.txt",
+      "updated_at": "2026-10-29T05:04:12.786723+00:00"
+    },
+    {
+      "leaf_num": 893,
+      "cohort": 90,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 12 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort90_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort90_source.txt",
+      "updated_at": "2026-10-29T05:04:12.786867+00:00"
+    },
+    {
+      "leaf_num": 894,
+      "cohort": 90,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort90_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort90_source.txt",
+      "updated_at": "2026-10-29T05:04:12.786998+00:00"
+    },
+    {
+      "leaf_num": 895,
+      "cohort": 90,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort90_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort90_source.txt",
+      "updated_at": "2026-10-29T05:04:12.787126+00:00"
+    },
+    {
+      "leaf_num": 896,
+      "cohort": 90,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Draft\\1640_kyiv_triodion_cohort90_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 15 - 1640 Kyiv Lenten Triodion\\Source Text\\1640_kyiv_triodion_cohort90_source.txt",
+      "updated_at": "2026-10-29T05:04:12.787246+00:00"
+    }
+  ]
+}

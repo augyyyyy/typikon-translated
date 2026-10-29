@@ -1,0 +1,61 @@
+[^3209]: Codicological note on the typesetting defect and lacuna between f. 253v (p870) and f. 254r (p871). In the 1640 Kyiv edition, the foliation is strictly consecutive (`сн҃г` to `сн҃д`), but the text skips from the catchword of Tuesday's Tone 7 Martyrikon (`чл҃ко-`) directly into the middle of the first Sessional hymn to the Cross on Wednesday: `...и҆ Кѷпари́съ, покланѧ́ющыти сѧ, побѣ́ды Царе́мъ на́шымъ...`. In the complete liturgical witness of the Octoechos and Triodion, the hymn begins: *The pine, the cedar, and the cypress, as we worship Thee, granting victories unto our Tsars...* (Сосна̀ и҆ ке́дръ и҆ кѷпари́съ, покланѧ́ющыисѧ ти...); cf. Isaiah 60:13.
+[^3210]: Wednesday Tone 7, Sessional Hymn to the Cross after the 1st Stichology, second troparion.
+[^3211]: Wednesday Tone 7, Stavrotheotokion after the 1st Stichology.
+[^3212]: Wednesday Tone 7, Martyrikon after Ode 6 of the Canon.
+[^3213]: Thursday Tone 7, Sessional Hymns to the Apostles after the 1st Stichology, first troparion.
+[^3214]: Thursday Tone 7, Sessional Hymn to the Apostles after the 1st Stichology, second troparion.
+[^3215]: Thursday Tone 7, Theotokion after the 1st Stichology.
+[^3216]: Thursday Tone 7, Martyrikon after Ode 6. The bottom margin of physical leaf p871 (f. 254r) exhibits paper wear and ink abrasion across lines 27–29, restored from the standard Kyivan Octoechos witness: *Оу҆́зы и҆ мꙋ́ки претерпѣ́вше святи́и...*.
+[^3217]: Rubric for Friday of Tone 7, Sessional Hymns to the Cross after the 1st Stichology.
+[^3218]: Friday Tone 7, Sessional Hymn to the Cross after the 1st Stichology, first troparion.
+[^3219]: Friday Tone 7, Sessional Hymn to the Cross after the 1st Stichology, second troparion.
+[^3220]: Friday Tone 7, Stavrotheotokion after the 1st Stichology.
+[^3221]: Cross-reference rubric to the Martyrikon after Ode 6 on Friday of Tone 7: *The Saints pray...* (see fol. 253v / p870)[^3204].
+[^3222]: Monday Tone 8, Penitential Sessional Hymns after the 1st Stichology, first troparion.
+[^3223]: Monday Tone 8, Penitential Sessional Hymn after the 1st Stichology, second troparion; cf. James 2:13.
+[^3224]: Monday Tone 8, Theotokion after the 1st Stichology.
+[^3225]: Monday Tone 8, Martyrikon after Ode 6 of the Canon.
+[^3226]: Rubric for Tuesday Tone 8, Penitential Sessional Hymns after the 1st Stichology.
+[^3227]: Tuesday Tone 8, Penitential Sessional Hymn after the 1st Stichology, first troparion. The left margin of physical leaf p873 (f. 255r) contains a printed/early ink correction supplying the incipit: `Ꙗ҆́кѡ блꙋ́дница припада́ю...`; cf. Luke 7:37–38.
+[^3228]: Tuesday Tone 8, Penitential Sessional Hymn after the 1st Stichology, second troparion; cf. Matthew 25:1–13.
+[^3229]: Tuesday Tone 8, Theotokion after the 1st Stichology.
+[^3230]: Tuesday Tone 8, Martyrikon after Ode 6 of the Canon.
+[^3231]: Wednesday Tone 8, Sessional Hymns to the Cross after the 1st Stichology, first troparion; cf. Luke 23:39–43.
+[^3232]: Wednesday Tone 8, Sessional Hymn to the Cross after the 1st Stichology, second troparion.
+[^3233]: Wednesday Tone 8, Stavrotheotokion after the 1st Stichology.
+[^3234]: Wednesday Tone 8, Martyrikon after Ode 6 of the Canon.
+[^3235]: Thursday Tone 8, Sessional Hymns to the Apostles after the 1st Stichology, first troparion.
+[^3236]: Thursday Tone 8, Sessional Hymn to the Apostles after the 1st Stichology, second troparion; cf. Psalm 18:5 (LXX) [Masoretic Ps. 19:4]; Romans 10:18.
+[^3237]: Thursday Tone 8, Theotokion after the 1st Stichology (opening lines). The text breaks across folios 255v (p874) and 256r (p875), with catchword `ѡ҆ на́съ`.
+[^3238]: Thursday Tone 8, Theotokion after the 1st Stichology (conclusion). The left margin of physical leaf p875 (f. 256r) contains the marginal supplement: `ѡ҆ на́съ съ а҆по́столы моли́сѧ въ ча́съ испыта́нїѧ...`.
+[^3239]: Thursday Tone 8, Martyrikon after Ode 6 of the Canon.
+[^3240]: Friday Tone 8, Sessional Hymns to the Cross after the 1st Stichology, first troparion; cf. Genesis 2:9, 3:6.
+[^3241]: Friday Tone 8, Sessional Hymn to the Cross after the 1st Stichology, second troparion.
+[^3242]: Friday Tone 8, Theotokion after the 1st Stichology; cf. Luke 1:48.
+[^3243]: Cross-reference rubric to the Martyrikon after Ode 6 on Friday of Tone 8: *With heavenly light...* (see fol. 254v / p872)[^3225].
+[^3244]: Codicological and liturgical rubric governing the Photagogika (Exapostilaria) of the Octoechos, appointed during the Holy Forty Days and other fasting seasons when the Triadica (*Тро́ичны*) are sung at Matins in place of *The Lord is God*.
+[^3245]: Exaposteilarion of the Octoechos, Tone 1.
+[^3246]: Exaposteilarion of the Octoechos, Tone 2.
+[^3247]: Exaposteilarion of the Octoechos, Tone 3.
+[^3248]: Exaposteilarion of the Octoechos, Tone 4.
+[^3249]: Exaposteilarion of the Octoechos, Tone 5.
+[^3250]: Exaposteilarion of the Octoechos, Tone 6.
+[^3251]: Exaposteilarion of the Octoechos, Tone 7.
+[^3252]: Exaposteilarion of the Octoechos, Tone 8.
+[^3253]: Major landmark publication division: Part V of the 1640 Kyiv Lenten Triodion, containing the unabridged hagiographical *Life of Our Venerable Mother Mary of Egypt* by St. Sophronius, Patriarch of Jerusalem (ca. 560–638). In the Kyivan Typikon tradition, this text is appointed to be read at Matins of Thursday of the Great Canon (the Fifth Week of Great Lent) in two sections, and is also appointed for her feast on April 1 and the Fifth Sunday of Great Lent. Physical leaf p877 (f. 257r) is adorned with an ornate headpiece woodcut depicting the Holy Mandylion (*Ѡ҆́бразъ Гдⷭнь на Оу҆брꙋ́сѣ*) flanked by angels.
+[^3254]: St. Sophronius's prologue quoting the words of the Archangel Raphael in Tobit 12:7 (*It is good to keep close the secret of a king, but it is honorable to reveal the works of God*) and alluding to the Parable of the Talents in Matthew 25:14–30 (the slothful servant who buried his master's talent).
+[^3255]: St. Sophronius's solemn defense of his truthful recording of the oral tradition transmitted by Abba Zosimas, warning against corrupting or bartering the word of God; cf. 2 Corinthians 2:17.
+[^3256]: St. Sophronius's charitable prayer for those who doubt or hesitate to believe the supernatural wonders wrought by God in the saints due to awareness of human weakness.
+[^3257]: Sophronius's transition to the historical narrative of Abba Zosimas of Palestine.
+[^3258]: Sophronius cites the Wisdom of Solomon 7:27 (*And being but one, she can do all things; and remaining in herself, she makes all things new; and in all ages entering into holy souls, she makes them friends of God and prophets*).
+[^3259]: Sophronius explicitly distinguishes Abba Zosimas of Palestine (the venerable monk of the Jordan wilderness) from the heretical Zosimas (a Monophysite or Origenist partisan condemned in 6th-century ecclesiastical controversies).
+[^3260]: Scriptural quotation: Matthew 5:8 (*Blessed are the pure in heart, for they shall see God*).
+[^3261]: The subtle demonic thought (*logismos*) of spiritual self-sufficiency and vainglory that tempted Abba Zosimas after fifty-three years of solitary ascetical monastic struggle.
+[^3262]: The angelic admonition rebuking Zosimas's self-satisfaction and directing him to the Jordan wilderness, quoting the divine call of Abraham in Genesis 12:1 (*Get thee out of thy country, and from thy kindred, and from thy father's house*).
+[^3263]: The departure of Abba Zosimas from his original Palestinian coenobium to the monastery of St. John the Baptist by the river Jordan.
+[^3264]: Dialogue between the Abbot (*И҆гꙋ́менъ*) of the Jordan monastery and Abba Zosimas upon his arrival.
+[^3265]: Abba Zosimas's humble response explaining that he has come seeking spiritual profit and edification.
+[^3266]: The Abbot's discourse on divine healing, quoting the description of the Good Shepherd in John 10:11, 14 (*I am the good shepherd, and know My sheep, and am known of Mine*).
+[^3267]: The ascetic rule, unceasing prayer, psalmody, and manual labor of the monks of the Jordan wilderness monastery.
+[^3268]: The ancient monastic custom of the Jordan monastery during Great Lent: the closing of the gates and complete seclusion from the outside world.
+[^3269]: The ritual departure of the monks into the deep desert on the First Sunday of Great Lent (Sunday of Forgiveness / Cheesefare) after the Divine Liturgy, the mutual rite of forgiveness (*мета́нїе*), and the chanting of Psalm 26:1 (LXX) [Masoretic Ps. 27:1]: *The Lord is my light and my Savior, whom shall I fear? The Lord is the defender of my life, of whom shall I be afraid?*.

@@ -1,0 +1,38 @@
+[^699]: Sessional Hymn, Tone 6, Podoben: "Hope of the hopeless" (*Оу҆пова́нїе*). Sessional hymn following the 6th Ode of the Great Canon.
+[^700]: Daniel 9:5; Song of the Three Children 1:6–7 (LXX). Heirmos of Ode 7 of the Great Canon.
+[^701]: 2 Chronicles 33:1–13; Prayer of Manasseh (LXX).
+[^702]: 3 Kings [1 Kings] 17:1–16 (LXX).
+[^703]: Daniel 3:57–88 (Song of the Three Holy Children / Benedicite). Heirmos of Ode 8 of the Great Canon.
+[^704]: Luke 1:46–55, 68–79 (Magnificat and Benedictus). Heirmos of Ode 9 of the Great Canon.
+[^705]: Luke 7:37–38; Colossians 2:14.
+[^706]: Acts 20:28.
+[^707]: The liturgical order of Great Compline (*Павечерница великая*) during Great Lent.
+[^708]: The Triadica (*Троичны*) of the prevailing Tone chanted at Matins during Great Lent in place of "God is the Lord."
+[^709]: Sessional hymn after the second Kathisma of the Psalter at Matins. Podoben: *Оу҆́мрщвы́й па́че* (Tone 2).
+[^710]: Sessional hymn after the third Kathisma of the Psalter at Matins. Podoben: *Ст҃ѣ́йшаѧ херꙋ́:* (Tone 5) by St. Theodore the Studite.
+[^711]: Typikon rubric governing the synthesis of the Menaion Canon and the Triodion Triodia at Lenten weekday Matins, sung with the appointed Biblical Canticles (*Пѣсни Священнаго Писания*).
+[^712]: Habakkuk 3:1–3 (LXX Canticle 4). Ode 4 of the Triodion Canon by St. Joseph the Hymnographer.
+[^713]: Habakkuk 3:1–3, 13 (LXX Canticle 4). Ode 4 of the second Triodion Canon by St. Theodore the Studite.
+[^714]: Katavasia of Ode 4: the Heirmos of St. Theodore the Studite repeated at the conclusion of the Ode.
+[^715]: Daniel 3:57–88 (LXX Canticle 8). Ode 8 Heirmos of St. Joseph.
+[^716]: Daniel 3:57–88 (LXX Canticle 8). Ode 8 Heirmos of St. Theodore.
+[^717]: Katavasia of Ode 8: the Heirmos of St. Theodore repeated at the conclusion of the Ode.
+[^718]: Luke 1:46–55 (LXX Canticle 9). Ode 9 Heirmos of St. Joseph.
+[^719]: Luke 1:46–55 (LXX Canticle 9). Ode 9 Heirmos of St. Theodore.
+[^720]: Katavasia of Ode 9: the Heirmos of St. Theodore repeated at the conclusion of the Ode.
+[^721]: Rubric at the conclusion of the Matins Canon: "It is truly meet" (*Достойно есть*) followed by the Photagogikon / Exapostilarion of the Tone.
+[^722]: The Aposticha (*На стиховне*) at Lenten weekday Matins, featuring Idiomela (*Самогласны*) from the Triodion.
+[^723]: LXX Psalm 89:14–16 [Masoretic 90:14–16], the first appointed verse of the Lenten weekday Matins Aposticha.
+[^724]: LXX Psalm 89:17 [Masoretic 90:17], the second appointed verse of the Lenten weekday Matins Aposticha.
+[^725]: LXX Psalm 91:2 [Masoretic 92:1]. The cross-reference (*Листъ, рп҃*) refers to folio 180 (physical leaf p194), where the fixed concluding order of Lenten Matins is set forth in full.
+[^726]: The rubric *Безъ тро:* specifies chanting without prostrations (*мета́нїя* / *поклоны*) at this juncture.
+[^727]: LXX Psalm 13:7b [Masoretic 14:7b], First Prokeimenon of the Sixth Hour.
+[^728]: LXX Psalm 13:1a [Masoretic 14:1a], verse to the First Prokeimenon of the Sixth Hour.
+[^729]: Isaiah 2:11–21 (LXX). The marginal Arabic numerals mark verse divisions corresponding to the 1581 Ostroh Bible and early modern printed editions.
+[^730]: LXX Psalm 14:1a [Masoretic 15:1a], Second Prokeimenon of the Sixth Hour.
+[^731]: LXX Psalm 14:2a [Masoretic 15:2a], verse to the Second Prokeimenon of the Sixth Hour.
+[^732]: LXX Psalm 78:8 [Masoretic 79:8]. The rubric allows for a Patristic reading (*Аще ли хощеши бываетъ чтенїе*), typically from the Catecheses of St. Cyril of Jerusalem or St. Theodore the Studite.
+[^733]: St. Joseph the Hymnographer's Stichera at "Lord, I have cried" for Thursday evening, Tone 2, Podoben: "Our Enlightener" (*Просвѣти́телѧ на́ше*).
+[^734]: St. Theodore the Studite's Sticheron at "Lord, I have cried" for Thursday evening, Tone 2, Podoben: "O the great mystery" (*Ѽ вели́кагѡ та́инства*).
+[^735]: Genesis 2:9; 3:6; John 19:34. The hymnographic antitype between the Tree of Knowledge in Eden and the Life-giving Tree of the Cross.
+[^736]: Vespers concludes with the appointed Theotokion from the Octoechos or the Menaion.

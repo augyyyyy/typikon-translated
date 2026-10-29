@@ -1,0 +1,38 @@
+[^1613]: Tone 4, Ode 9 Heirmos model: *Безсѣ́менно рождество̀* (Byzantine Greek: Ἀσπόρου συλλήψεως / "Without seed was the conception, ineffable the birth").
+[^1614]: The Kyivan source text reads *прѡ́чꙋю ст҃рть* (the remainder of the passion / fast), referring to the remaining portion of the Holy Forty Days Fast up to the Passion of Christ.
+[^1615]: Tone 4 Matins Aposticha Sticheron Idiomelon: *И҆́стинны стяжа́телю* (Byzantine Greek: Ἀληθείας κτητὰ / "O Possessor of truth").
+[^1616]: Scriptural allusion: Luke 18:9–14 (the Parable of the Publican and the Pharisee).
+[^1617]: Tone 4 Matins Aposticha Martyrikon: *Кто̀ не диви́тся зря̀ ст҃ы́и Мч҃нцы* (Byzantine Greek: Τίς μὴ θαυμάσει καθορῶν, ἅγιοι Μάρτυρες / "Who does not marvel, beholding, O holy Martyrs").
+[^1618]: Tone 8 Matins Aposticha Doxasticon: *Дне́сь Влⷣка тва́ри, и҆ Гдⷭ҇ь сла́вы, на Крⷭ҇тѣ пригвожда́ется* (Byzantine Greek: Σήμερον ὁ ἄπρακτος τῇ οὐσίᾳ / Holy Friday Antiphon 15 incipit: Σήμερον κρεμᾶται ἐπὶ ξύλου).
+[^1619]: Scriptural allusions in the Doxasticon: Matthew 27:28–30, 34, 48; Mark 15:17–19, 36; John 19:2–3, 29, 34.
+[^1620]: Troparion of the Prophecy at the Sixth Hour, Tone 6: *Крⷭ҇тꙋ̀ твое́мꙋ покланя́емся Влⷣко* (Byzantine Greek: Τὸν Σταυρόν σου προσκυνοῦμεν, Δέσποτα / "Before Thy Cross we bow down, O Master, and Thy holy Resurrection we glorify").
+[^1621]: Prokeimenon at the Sixth Hour: Psalm 77:38, 1 LXX (Ps. 78:38, 1 Masoretic).
+[^1622]: Reading from the Prophecy of Isaiah: Isaiah 29:13–23 (Septuagint). Quoted in part by Christ in Matthew 15:8–9 and Mark 7:6–7.
+[^1623]: Prokeimenon at the Sixth Hour: Psalm 78:9, 1 LXX (Ps. 79:9, 1 Masoretic).
+[^1624]: Tone 4 Troparion Melodic Model: *Ско́ро предварѝ* ("Speedily anticipate"; Byzantine Greek: Ταχὺ προκατάλαβε).
+[^1625]: The Stichera for the Veneration of the Precious Cross: *Прїидѣ́те вѣ́рныи животворя́щомꙋ дре́вꙋ* (Byzantine Greek: Δεῦτε πιστοὶ τὸ ζωοποιὸν ξύλον προσκυνήσωμεν / "Come, ye faithful, let us bow down to the life-creating Wood"), appointed on the Third Sunday of Lent (see fol. 524v [p524]).
+[^1626]: Rubrical action: The leave-taking of the Precious Cross (*ѿда́нїе честна́гѡ креста̀*), where the Cross that has lain in the midst of the temple since the Third Sunday of Lent is solemnly venerated for the last time and returned to the sacristy (*сосудохрани́льница* / σκευοφυλάκιον) after the Sixth Hour of Friday in the Fourth Week.
+[^1627]: Internal folio cross-reference: *Зри Ли́стъ, сл҃д* refers to fol. 234r (p234), containing the Wednesday order of the Presanctified Liturgy.
+[^1628]: Friday Vespers Sticheron Idiomelon, Tone 7: *Страсте́мъ порабо́тивъ* (Byzantine Greek: Τοῖς πάθεσι δουλώσας / "Having enslaved the dignity of my soul to the passions").
+[^1629]: Sessional Hymn / Kathisma of the departed by St. John of Damascus (*кѵ̀ І҆ѡа́нна*), appointed in Tone 7.
+[^1630]: Prokeimenon at Vespers: Psalm 79:2, 1 LXX (Ps. 80:2, 1 Masoretic).
+[^1631]: Reading from Genesis: Genesis 12:1–7 (The Call of Abram).
+[^1632]: Prokeimenon at Vespers: Psalm 80:2–3 LXX (Ps. 81:2–3 Masoretic).
+[^1633]: Reading from Proverbs: Proverbs 14:15–28 LXX (Prov. 14:15–27 Masoretic).
+[^1634]: Rubrical note on the non-celebration of the Liturgy of the Presanctified Gifts, cross-referencing fol. 421r (p421).
+[^1635]: Rubrical cross-reference to the Second Saturday of Lent for the Theotokion *Ты̀ є҆сѝ Бг҃ъ на́шъ* (Thou art our God).
+[^1636]: Rubrical cross-references for the concurrences of the Holy Forty Martyrs of Sebaste (March 9), the Five Martyrs, or the Annunciation (March 25), pointing to folios 288r [p288], 412r [p412], and 498r [p498].
+[^1637]: Saturday of the Fourth Week (Mid-Lent). In the Studite and Kyivan traditions, Saturday Matins features a Four-Ode Canon (*Четверопѣ́снецъ*) covering Odes 6, 7, 8, and 9.
+[^1638]: The Acrostic of the Saturday Four-Ode Canon by St. Joseph the Hymnographer: *Пѣ́снь на Мч҃нки* ("A Song unto the Martyrs").
+[^1639]: Tone 4, Ode 6 Heirmos model: *Въ пꙋчи́нѣ жите́йстѣй* (Byzantine Greek: Ἐν πελάγει τοῦ βίου / "In the surge of the sea of life").
+[^1640]: Tone 4, Ode 6 Heirmos model (Second Canon by St. Theodore the Studite): *Согрѣше́нїй бꙋ́рею* (Byzantine Greek: Τῶν πταισμάτων τῇ ζάλῃ / "Tossed by the tempest of transgressions").
+[^1641]: Scriptural citation: Psalm 67:36 LXX (Ps. 68:35 Masoretic): "Wondrous is God in His saints, the God of Israel."
+[^1642]: Scriptural citation: Psalm 24:13 LXX (Ps. 25:13 Masoretic): "Their soul shall dwell among good things."
+[^1643]: Tone 4, Ode 7 Heirmos model: *Ѻ҆́бразꙋ зла́томꙋ* (Byzantine Greek: Εἰκόνος χρυσῆς ἐν πεδίῳ Δεηρᾷ / "When the golden image was worshipped on the plain of Dura").
+[^1644]: Tone 4, Ode 7 Heirmos model (Second Canon by St. Theodore the Studite): *Гла́сый на Горѣ̀* (Byzantine Greek: Ὁ λαλήσας ἐν ὄρει / "Thou Who didst speak on the Mountain with Moses").
+[^1645]: Scriptural allusion: 3 Kings 19:18 LXX (1 Kings 19:18 Masoretic): the seven thousand who did not bow the knee to Baal.
+[^1646]: Scriptural citation: Psalm 15:3 LXX (Ps. 16:3 Masoretic): "Unto the saints that are in His earth has the Lord made wonderful all His desires in them."
+[^1647]: Scriptural citation: Psalm 64:5 LXX (Ps. 65:4 Masoretic): "Blessed are they whom Thou hast chosen and taken to Thyself."
+[^1648]: Scriptural type: Exodus 3:2–4. The Burning Bush on Mount Sinai as a prefiguration of the Virginal Conception.
+[^1649]: Tone 4, Ode 8 Heirmos model: *Въ ѻ҆́гни пла́меннѣ* (Byzantine Greek: Ἐν πυρὶ фλογώδει / "In the flaming fire").
+[^1650]: Scriptural allusions: Mark 9:44, 48 ("where their worm dieth not"); Matthew 8:12, 22:13, 25:30 ("the outer darkness: there shall be weeping and gnashing of teeth").

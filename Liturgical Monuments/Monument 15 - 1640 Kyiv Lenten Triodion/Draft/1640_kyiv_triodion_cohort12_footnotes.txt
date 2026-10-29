@@ -1,0 +1,29 @@
+[^276]: Textual witness in the 1640 Kyiv Triodion: `къ ᲂу҆стремле́нїемъ бл҃говѣ́тны пребыва́й` in the Matins Aposticha Idiomelon (`Ѡ҆ бра́шенъ постѧ́щисѧ дш҃е моѧ̀...`). The Greek original reads `πρὸς τὰς ὁρμὰς τῶν παθῶν ἀνδρίζου` ("stand manfully against the impulses of passions"), which the Kyivan text renders with an elevated call to steadfast spiritual vigilance.
+
+[^277]: The ascetic Catecheses (*Оглашения*) of Saint Theodore the Studite (*Ѡ҆глаше́нїа Стꙋди́това*, PG 99:503–688) appointed to be read during the First Hour on weekdays throughout Great Lent according to the ancient Studite and Sabbaite monastic Typika.
+
+[^278]: Rubrical instruction for the Ecclesiarch (*Є҆кклисїа́рхъ*) and Canonarch (*Канаона́рхъ*) regulating the precise liturgical protocol for chanting the Sixth Hour Troparion and announcing the tone of the Old Testament Paroimia Prokimena without prefacing them with the standard liturgical titles.
+
+[^279]: Ancient canonical and liturgical decree rooted in the Palestinian Sabbaite tradition, prohibiting the celebration of both the full Divine Liturgy and the Liturgy of the Presanctified Gifts on Wednesday and Friday of Cheesefare Week because full aliturgical fasting discipline begins on these days.
+
+[^280]: Internal cross-reference in body rubric: `Ли́стъ, п҃ѕ. и҃ пн.` (see fol. 86 and 88), referencing folios 86 and 88 of the 1640 Kyiv Triodion (physical leaves p100 and p102), regulating the order of "Alleluia" and prostrations at Matins and Vespers.
+
+[^281]: Marginal cross-reference in body rubric: `Зри, ли́ст, п҃ѕ.` (see fol. 86), referencing folio 86 of the 1640 Kyiv Triodion (physical leaf p100), directing that meals be taken only once in the day on Cheesefare Wednesday and Friday even when a feast coincides.
+
+[^282]: Patristic conciliar decree authorizing monastics and faithful to eat cheese, milk, and eggs once a day after Vespers (at the 4th hour of the afternoon / 10th hour of the natural day) on Cheesefare Wednesday and Friday as an intentional liturgical protest against the dualistic and Encratite heresies of the Sabellians, Andusanites, and the Monophysite Armenian fast of Artzivur.
+
+[^283]: Marginal cross-reference in body rubric: `Зри * (л҃ з҃і)` (see fol. 37), referencing folio 37 of the 1640 Kyiv Triodion (physical leaf p51), containing the extended historical-theological excursus refuting the Armenian fast of Artzivur.
+
+[^284]: Canonical ruling of Saint Nicephorus the Confessor, Patriarch of Constantinople (PG 100:1064), commanding monastics to observe strict fast until Vespers on Cheesefare Wednesday and Friday and then consume cheese and eggs, explicitly overturning the Monophysite Jacobite decree and the Tetradite heresy which imposed total fasts denying the goodness of God's material creation.
+
+[^285]: Marginal cross-reference in body rubric: `Зрѝ, ли́стъ, н҃е.` (see fol. 55), referencing folio 55 of the 1640 Kyiv Triodion (physical leaf p69), governing the combined order of the Resurrection, Triodion, and Hierarchs' canons when the Feast of the Three Holy Hierarchs coincides with Meatfare Sunday.
+
+[^286]: Marginal cross-reference in body rubric: `лн, п҃.` (see fol. 80), referencing folio 80 of the 1640 Kyiv Triodion (physical leaf p94), detailing the Apodosis of the Meeting of the Lord (Hypapante, Feb. 2) when transferred to Cheesefare Thursday.
+
+[^287]: Marginal cross-reference in body rubric: `ли́стъ, ѻ҃д.` (see fol. 74), referencing folio 74 of the 1640 Kyiv Triodion (physical leaf p88), directing the order of the Finding of the Precious Head of Saint John the Baptist when it coincides with Cheesefare Thursday.
+
+[^288]: Internal cross-reference in body rubric: `Лн҃, ѻ҃е.` (see fol. 75), referencing folio 75 of the 1640 Kyiv Triodion (physical leaf p89), specifying the general weekday structure of Cheesefare Matins.
+
+[^289]: Patristic reading from the Lenten Sobornik: the Homily of Saint Anastasius, Abbot of Mount Sinai (*In psalmum sextum*, PG 89:1077–1116) appointed for Matins of Cheesefare Thursday.
+
+[^290]: Marginal cross-reference in body rubric: `л҃ п҃ѕ.` (see fol. 86), referencing folio 86 of the 1640 Kyiv Triodion (physical leaf p100), governing the rule of combining Octoechos, Menaion, and Triodion canons when the Tri-ode has two heirmoi.
