@@ -1,0 +1,175 @@
+=== LEAF p131 ===
+...who didst bear the Word in God-manly manner, being a Virgin: Hymn the Lord, all ye works, and highly exalt Him unto the ages![^142]
+
+*Another Canon of the Cross. Heirmos: Him Who before the ages of the Father... (Отца прежде вѣк...):*
+
+*Troparion:* Nailed upon the Cross of Thine own will, O Christ, stretching out Thy palms, and destroying the dominion of death: Ye priests, hymn, and highly exalt Him!
+
+*Troparion:* Him Who descended into Hades and abolished death, O Christ, and rose in glory, and raised the dead: Ye priests, hymn, and highly exalt Him!
+
+*Theotokion:* Higher than the Cherubim wast thou shown to be, O holy one, and in thine arms thou didst carry Christ: Ye priests, hymn and highly exalt Him!
+
+*Another Canon to the Theotokos. Heirmos: The same (Отца прежде вѣк...):*
+
+*Troparion:* With us the bodiless host also sings, O Virgin, of thine incomprehensible childbirth, forming a united choir in love, highly exalting thee!
+
+*Troparion:* Bright water of the immortal Spirit, coming forth from thee, wash away the filth of long ages for those who sing and highly exalt in faith!
+
+*Troparion:* The living in truth and light-bearing throne and tables of grace confess thee, O Virgin, who didst receive the Word from thee; highly exalt Him!
+
+*Ode 9. Heirmos: Rejoice, O Isaiah: a Virgin has conceived in the womb, and given birth unto a Son, Emmanuel, both God and man; Orient is His name; Whom magnifying, with the One Who gave birth we bless thee! (Исаие, ликуй, Дѣва имѣ во утробѣ, и породи Сына Еммануила, Бога же и человѣка, Восток имя Ему, Егоже величающе, с Рождшею тя ублажаем!):*
+
+*Troparion:* Thou didst take up fallen man, O Master Christ, from the virgin womb, as Thou wast united unto the whole [human nature], yet taking no part in any sin; and me entirely hast Thou freed from passions by Thy most pure passions!
+
+*Troparion:* Thy God-flowing blood, poured forth, O Master Christ, from Thy most pure and life-creating ribs, a sacrifice for...
+
+=== LEAF p132 ===
+...the destruction of idols; and the whole earth was filled with Thy praise![^143]
+
+*Theotokion:* Not an incorporeal God, nor again a mere man, did the pure and immaculate one bear thee, but a complete man and truly perfect God, manifesting two natures!
+
+*Another Canon of the Cross. Heirmos: Thee, beyond comprehension... (Тя паче ума...):*
+
+*Troparion:* Thou didst accept passions in the flesh, and having delivered the whole world from deceit, O Merciful One, with unceasing hymns we magnify Thee!
+
+*Troparion:* Thee, Who didst rise from the tomb on the third day, and cast down Hades, and enlighten the world, we the faithful unanimously magnify!
+
+*Theotokion:* Rejoice, O Virgin, Mother of Christ God, Whom thou didst bear; pray unto Him to grant remission of sins unto those who praise thee in faith!
+
+*Another Canon to the Theotokos. Heirmos: The same (Тя паче ума...):*
+
+*Troparion:* From thy pure blood was curdled the supernatural flesh for the Creator of all and for the only-begotten Son of His Father, not changing what He was, but taking an animate and ensouled nature, O Theotokos!
+
+*Troparion:* Thou didst halt the circuitous, mortal, and restrained onset, having in truth given birth in the flesh, beyond comprehension, unto eternal Life, which when bitter Hades touched, it was shattered, O most holy Virgin Mother!
+
+*Troparion:* Sitting upon the throne, Thy Son, the Master, placed thee at His right hand in glory, O pure one, shining with golden fringes and divine virtues, granting, O most blessed one, as Mother, boldness before the Lover of mankind!
+
+*Then the Exapostilarion. At the Praises, Stichera of the Resurrection, Tone 5:*
+
+=== LEAF p133 ===
+*Sticheron 1:* O Lord, while the tomb was sealed by the lawless, Thou didst come forth from the tomb, even as Thou wast born of the Theotokos; Thy bodiless Angels understood not how Thou wast incarnate; the soldiers guarding Thee perceived not when Thou didst arise; for both were sealed unto those who enquire, and the wonders were revealed unto those who worship the mystery in faith; which we hymn: render also unto us joy and great mercy![^144]
+
+*Sticheron 2:* O Lord, having shattered the eternal bars and broken the bonds asunder, Thou didst arise from the tomb, leaving behind Thy burial linens as a witness of Thy true and three-day burial; and Thou didst go before into Galilee, Thou Who wast guarded in a cave: Great is Thy mercy, O incomprehensible Savior, have mercy and save us!
+
+*Sticheron 3:* O Lord, the women ran unto the tomb to see Thee, Christ, Who didst suffer for our sake; and having arrived, they found an Angel sitting upon the stone, rolled away through fear; and he cried aloud unto them, saying: The Lord is risen; say unto His disciples that He is risen from the dead, saving our souls!
+
+*Sticheron 4:* O Lord, even as Thou didst come forth from the sealed tomb, so didst Thou enter while the doors were shut unto Thy disciples, showing them the bodily passions which Thou didst accept, O longsuffering Savior; as from the seed of David Thou didst endure wounds; as the Son of God Thou didst free the world: Great is Thy mercy, O incomprehensible Savior, have mercy and save us!
+
+=== LEAF p134 ===
+*Other Stichera, Anatolian:*
+
+*Sticheron 5:* O Lord, King of the ages and Creator of all, having accepted crucifixion and burial for our sake, that Thou mightest free us from death: Thou art our God, for beside Thee we know no other![^145]
+
+*Sticheron 6:* O Lord, who shall declare Thy shining wonders? Or who shall proclaim Thy fearful mysteries? For having become incarnate for our sake as Thou Thyself didst will, Thou didst manifest the strength of Thy power; for by Thy Cross Thou didst open Paradise unto the thief, and by Thy burial Thou didst destroy the strongholds of the devil, and by Thy Resurrection Thou hast enlightened all: O Lover of mankind, glory to Thee!
+
+*Verse: Arise, O Lord my God, let Thy hand be lifted up (LXX Ps. 9:33) [Incipit: Arise, O Lord, help...]:*
+
+*Sticheron 7:* Unto the God-receiving tomb of Thine, the guards cried aloud: O your senseless counsel! Attempting to guard the Uncircumscribed, ye labor in vain to conceal the Resurrection of the Crucified, Who wills to appear in radiance! O your vainly-counseling council! Why do ye take counsel again to hide what cannot be hidden? Rather hear from us and believe in the truth of what has come to pass: an Angel lightning-flashing came down from heaven and rolled away the stone; seized by fear and dread of him, he cried aloud with strength unto the myrrh-bearing women, saying: Behold ye not the guards slain, and the seals broken, and Hades emptied, and the sting of death shattered? Why seek ye the Living as dead? Go quickly, proclaim the good news of the Resurrection unto the Apostles, crying aloud in joy: Truly...
+
+=== LEAF p135 ===
+...the Lord is risen, having great and rich mercy![^146]
+
+*Verse: I will confess Thee, O Lord, with my whole heart (LXX Ps. 9:2):*
+
+*Sticheron 8:* The Myrrh-bearing women, having come unto Thy tomb very early, sought to anoint Thee, the immortal Word and God; and having been instructed by the Angel's words, they returned in joy and openly proclaimed unto the Apostles that the Life of all is risen, granting unto the world cleansing and great mercy!
+
+*Glory... Sticheron of the Gospel of the Sunday. At the Liturgy, the Beatitudes, Tone 5:*
+
+*Troparion 1:* The thief on the cross believed Thee to be God; he confessed Thee truly in his heart, calling aloud: Remember me, O Lord, in Thy Kingdom!
+
+*Troparion 2:* When Thou wast crucified, O Christ, between two condemned thieves, the one blaspheming Thee was condemned, O Lord, while the other theologizing Thee was settled in Paradise: Remember us, O Savior, in Thy Kingdom!
+
+*Troparion 3:* From the wood of the Cross the life-source gushed forth unto the human race, and having shattered the ancient curse: let us hymn Christ as Savior and Benefactor of us!
+
+*Troparion 4:* Risen from the dead, and having destroyed the dominion of death, O Christ, and raised Adam with Thyself: Remember me, O Lord, when Thou comest in Thy Kingdom!
+
+*Troparion 5:* Unto the Myrrh-bearing women, O Christ, Who didst rise from the tomb, when they came unto Thy tomb held by sorrow, and found unspeakable joy...
+
+*Troparion 6:* Unto Thy tomb, O Christ, came the venerable women, seeking to anoint Thee, the Life-Giver; and an Angel appeared...
+
+=== LEAF p136 ===
+...crying: The Lord is risen! Remember me, O Lord![^147]
+
+*To the Trinity:* We worship Thee, O Trinity, unoriginate Unity, honored equality; we glorify Thee with the supernal powers: Holy art Thou, O unoriginate Trinity, our God in Unity: Remember us!
+
+*Theotokion:* Rejoice, animate Church of God and impassable gate; rejoice, unburnt bush and fiery throne; rejoice, Mother of the true Christ our God!
+
+*Prokeimenon, Tone 5: Thou, O Lord, shalt keep us and shalt preserve us from this generation and unto the ages (LXX Ps. 11:8). Verse: Save me, O Lord, for the godly man has ceased (LXX Ps. 11:2).*
+
+*Epistle [Rubric: To the Hebrews; Witness: Ephesians 4:7 & 1 Corinthians 12:7–11]:* Brethren, unto each one of us grace is given according to the measure of the gift of Christ. But the manifestation of the Spirit is given to profit withal: for to one is given by the Spirit the word of wisdom, and after this the word of knowledge by the same Spirit; to another faith by the same Spirit; to another the gifts of healing by the same Spirit; to another the working of powers and power; to another prophecy; to another kinds of tongues. But all these things the one and same Spirit works, dividing unto each one as He wills.
+
+*Alleluia, Tone 5: Thy mercies, O Lord, will I sing unto the ages (LXX Ps. 88:2). Verse: For He said: Mercy shall be built up unto the ages (LXX Ps. 88:3).*
+
+*Gospel [Rubric: Gospel according to John; Witness: Matthew 10:1, 5–6]:* At that time, Jesus called His twelve disciples, and gave them power over unclean spirits, to cast them out, and to heal every infirmity and every disease among the people. These twelve Jesus sent forth, saying: Go not into the way of the Gentiles, and enter not into a city of the Samaritans; but go rather unto the lost sheep of the house of Israel;
+
+=== LEAF p137 ===
+...and as ye go, preach, saying: The Kingdom of heaven is at hand! Heal the sick, raise the dead, cleanse the lepers; freely ye have received, freely give![^148]
+
+*End. Praises.*
+
+*On Sunday Evening, Stichera at "Lord, I have cried," Penitential, Tone 5, Prosomoia:*
+
+*Sticheron 1:* Possessing fountains of tender mercy, and pouring forth an abyss of compassions and torrents of bounty: O most good Father, Word and Son, and Holy Spirit, uncreated Nature: receive our supplication and prayer, granting forgiveness unto all who are in transgressions, as Thou art a compassionate God and Lover of mankind!
+
+*Sticheron 2:* Thou possessest by nature as God a heart of bounties and a treasury of goodness; therefore we pray Thee, O Christ our Savior, and falling down we ever call aloud, crying: Grant unto Thy servants remission of debts and transgressions, and forgiveness of all things wherein we have all sinned, as Thou art a compassionate God and Lover of mankind!
+
+*Sticheron 3:* Desiring to save all as God, for whose sake Thou didst appear in human form as man: save us who worship Thy commandments; for Thou camest not, O Lover of mankind, to save the righteous, but those bound in transgressions; and us, who are shackled by many sins, do Thou release by the grace of divine baptism, as Thou art a compassionate God and Lover of mankind!
+
+*Other Stichera to the Bodiless Powers, the same prosomoion:*
+
+*Sticheron 4:* Enlightened by the radiant rays of Light, the ranks of the Bodiless...
+
+=== LEAF p138 ===
+...hymn the Master of all, the All-Bountiful, Who made all things out of non-existence by wisdom, the Archangels with the Angels: by their prayers, as the only All-Good God, send peace unto all the world, and great mercy unto our souls![^149]
+
+*Sticheron 5:* Ever beholding the face of God, enlightened by Him with thrice-radiant beams: enlighten us, and deliver us from the passions and temptations of the ages, O holy Archangels: by their prayers, O God, grant peace unto all the world, and great mercy unto our souls!
+
+*Sticheron 6:* The Seraphim and Cherubim, and all Angels and Archangels, Thrones, Principalities, Dominions, and Powers unceasingly glorify the Divine Trinity, knowing one Lordship, with immaterial lips: pray ye unto Christ to grant peace unto all the world, and great mercy unto our souls!
+
+*Glory... Both now... Theotokion:* Fearful and most glorious is the great mystery: the Uncontainable was contained within thy womb, and as Mother after childbirth thou remainedst still a Virgin; for thou didst bear God Who came down and was incarnate for our sake! Unto Him let us cry aloud, unto Him let us sing a hymn, chanting with the Angels: Holy art Thou, O Christ God, Who wast made man for our sake; O Lord, glory to Thee!
+
+*At the Aposticha, Penitential Stichera, Tone 5:*
+
+*Sticheron 1:* O Lord, sinning I cease not; made worthy of Thy love for mankind, I understand not: overcome my darkening, O only Blessed One, and have mercy on me!
+
+*Sticheron 2:* O Lord, I fear Thy dread judgment, yet doing evil I cease not; who at the judgment-seat...
+
+=== LEAF p139 ===
+...fears not the judge? Or who that desires healing provokes the physician, as I do, O longsuffering Lord? Have compassion upon the weakness of my soul, and have mercy on me![^150]
+
+*Martyrikon:* Disregarding the things of the earthly age, and manfully daring unto tortures of your own will: O blessed ones, ye missed not your hope, but became inheritors of the heavenly Kingdom, O all-praised Martyrs! Having boldness unto the merciful God, ask peace for all the world, and great mercy for our souls!
+
+*Theotokion:* O rejoice-filled Mediatress: by thy prayers, without ceasing, ask a multitude of bounties and cleansing from our many stumbling-blocks!
+
+# TONE 6
+
+*On Saturday Evening, at "Lord, I have cried," set 8 stichoi, and sing the Resurrection Stichera, Tone 6:*
+
+*Sticheron 1:* Having the victory over Hades, O Christ, Thou didst ascend upon the Cross, that Thou mightest raise with Thyself those who sit in darkness and the shadow of death: free among the dead, and pouring forth life from Thine own light: O Almighty Savior, have mercy on us!
+
+*Sticheron 2:* Today Christ, having trampled down death, is risen even as He said, and has granted rejoicing unto all the world, that all, crying aloud, may send up a hymn: O Fountain of life, Unapproachable Light, Almighty Savior, have mercy on us!
+
+*Sticheron 3:* Whither shall we sinners flee from Thee, O Lord, Who art throughout all creation? In heaven, there Thou Thyself dwellest; in Hades, Thou didst trample down death; into the depths of the sea...
+
+=== LEAF p140 ===
+...there also is Thy hand, O Master! Unto Thee do we flee, and falling down before Thee, we pray, O Thou Who didst rise from the dead: O Savior, have mercy on us![^151]
+
+*Anatolian Stichera:*
+
+*Sticheron 4:* In Thy Cross, O Christ, do we boast, and Thy Resurrection we hymn and glorify; for Thou art our God, for beside Thee we know no other!
+
+*Sticheron 5:* Glory to Thy power, O Lord, for Thou didst destroy the dominion of him that held the power of death; Thou hast renewed us by Thy Cross, and granted unto us life and incorruption!
+
+*Sticheron 6:* Truly blessing the Lord, we sing of His Resurrection; for He endured crucifixion, and by death He destroyed death!
+
+*Sticheron 7:* Thy burial, O Christ, having shattered the bonds of Hades, loosed them; and Thy Resurrection from the dead enlightened the whole world: O Lover of mankind, glory to Thee!
+
+*At the Entrance, Dogmatikon Theotokion, Tone 6:* Who blesses thee not, O most holy Virgin? Or who sings not of thy pure childbirth? For the timeless only-begotten Son, Who shone forth from the Father, the Same came forth from thee, O pure one, having ineffably become incarnate: being God by nature, and having become man by nature for our sake; not divided into two Persons, but known in two natures without confusion: Him entreat, O pure and most blessed one, that our souls may have mercy!
+
+*At the Aposticha, Stichera, Tone 6:*
+
+*Sticheron 1:* Thy Resurrection, O Christ Savior, the Angels hymn in the heavens: make us also worthy upon earth with pure heart to hymn and glorify Thee!
+
+*Verse: The Lord is King, He is robed in majesty (LXX Ps. 92:1):*
+
+*Sticheron 2:* The gates of Hades Thou didst shatter, O Lord, and the bars of Hades...

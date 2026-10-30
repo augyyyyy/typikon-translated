@@ -1,0 +1,27 @@
+[^198]: CS: 'Соу́ꙁелныихъ воистворы́и дети'. A typographical corruption or misreading of the antigraph in the Krakow edition for the Greek Ὁ τῶν δεσμίων ῥύστης γενόμενος ('Having become the Deliverer of the prisoners' / Slavonic: 'Узников избавитель бывый').
+
+[^199]: CS: 'львели ренню' (for 'оумиренїю' / 'примирению', Greek: καταллаγῆς). The Krakow typography exhibits a compositor error or ligature breakdown for 'reconciliation'.
+
+[^200]: CS: 'колемь' (instrumental of 'колъ' / 'копие', lance/spear; Greek: λόγχῃ).
+
+[^201]: CS rubric: 'інь кр̃тоу и́ етленнаи : ~'. Krakow typographical error for the incipit of the Heirmos: 'Нетлѣннаꙗ' / 'Неистлѣннаа' (Greek: Ἄφθορον ἐν γαστρὶ συλλαβοῦσα).
+
+[^202]: CS: 'м̃тоуже мл̃ж-рїн'. A corrupted Krakow contraction for 'мудрители' (Greek: ματαιόφρονες / disputers/fools), warning against the Theopaschite heresy.
+
+[^203]: CS: 'тꙗ кы ѡ́таимле̃ветьстыи ль бж̃твъныꙗ'. The text witness reflects a syntactical compression of 'яко таинницу завѣтовъ божественныхъ' (Greek: ὡς κιβωτὸν μυστηρίων / as ark of divine mysteries).
+
+[^204]: CS rubric: 'свѣтилна · р̃ авлаа : ~'. Krakow incipit cue: 'Р[екше]: Явлься...' (Tone 7 Sunday Exapostilarion incipit).
+
+[^205]: CS rubric: 'в ꙁ̃ то̃ : ~'. Abbreviation for 'Восточны' (Stichera Anatolika / Eastern Stichera).
+
+[^206]: Dan. 7:13-14, combined with Dan. 2:34, 45 (the Stone cut out from the mountain without hands).
+
+[^207]: CS: 'ѡ́коженн бывше' (for 'обожени бывше', deified / made divine; Greek: θεωθέντες).
+
+[^208]: CS rubric: 'стры · къ гоубоу нашемоу · покаꙗньны · гл̃а ꙁ̃ · оу́же не къꙁбранн : ~'. The phrase 'къ гоубоу нашемоу' represents a typographical defect in the Krakow setting for 'Господи воззвахъ' ('Lord, I have cried'). Melodic model incipit: 'Оуже не възбранни' (Greek: Οὐκέτι κωλύομαι).
+
+[^209]: CS: 'е̃го ж д̃в е̃стества е̃стьство'. An explicit 15th-century Ruthenian epigraphic confession of the Chalcedonian dogma of the two natures of Christ (divine and human, unconfused and undivided).
+
+[^210]: CS rubric: 'въсто : ~'. Abbreviation for 'Восточны' (Stichera Anatolika / Eastern Stichera).
+
+[^211]: CS rubric: 'інь по а́ꙁбȣдѣ ·'. The assigned Aposticha Stichera of Tone 8 form an alphabetical acrostic in Byzantine Greek (κατ' ἀλφάβητον: Χριστὸν δοξολογήσωμεν... / Ψαλμοῖς καὶ ὕμνοις... / Ὦ Δέσποτα τῶν ἁπάντων...).

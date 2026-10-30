@@ -1,0 +1,68 @@
+{
+  "monument_id": "1491_krakow_fiol_octoechos",
+  "updated_at": "2026-10-29T19:01:31.039885+00:00",
+  "total_queued_leaves": 0,
+  "unresolved_quarantines": 0,
+  "items": [
+    {
+      "leaf_num": 14,
+      "cohort": 2,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "borderline_sgc02_ratio: 2.74 (draft=3746c, source=1365c)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_octoechos\\Draft\\1491_krakow_fiol_octoechos_cohort2_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_octoechos\\Source Text\\1491_krakow_fiol_octoechos_cohort2_source.txt",
+      "updated_at": "2026-10-29T12:20:53.652297+00:00",
+      "resolved_at": "2026-10-29T19:01:25.807745+00:00"
+    },
+    {
+      "leaf_num": 24,
+      "cohort": 3,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "epigraphic_uncertainty_marker: [?]"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_octoechos\\Draft\\1491_krakow_fiol_octoechos_cohort3_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_octoechos\\Source Text\\1491_krakow_fiol_octoechos_cohort3_source.txt",
+      "updated_at": "2026-10-29T12:36:08.414342+00:00",
+      "resolved_at": "2026-10-29T19:01:25.807759+00:00"
+    },
+    {
+      "leaf_num": 193,
+      "cohort": 20,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "epigraphic_uncertainty_marker: [?]"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_octoechos\\Draft\\1491_krakow_fiol_octoechos_cohort20_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_octoechos\\Source Text\\1491_krakow_fiol_octoechos_cohort20_source.txt",
+      "updated_at": "2026-10-29T16:04:36.664899+00:00",
+      "resolved_at": "2026-10-29T19:01:25.807762+00:00"
+    },
+    {
+      "leaf_num": 201,
+      "cohort": 21,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "epigraphic_uncertainty_marker: [lacuna]"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_octoechos\\Draft\\1491_krakow_fiol_octoechos_cohort21_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_octoechos\\Source Text\\1491_krakow_fiol_octoechos_cohort21_source.txt",
+      "updated_at": "2026-10-29T16:14:03.712560+00:00",
+      "resolved_at": "2026-10-29T19:01:25.807805+00:00"
+    },
+    {
+      "leaf_num": 337,
+      "cohort": 34,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "complex_multicolumn_table: 20 table rows"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_octoechos\\Draft\\1491_krakow_fiol_octoechos_cohort34_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_octoechos\\Source Text\\1491_krakow_fiol_octoechos_cohort34_source.txt",
+      "updated_at": "2026-10-29T18:55:17.502218+00:00",
+      "resolved_at": "2026-10-29T19:01:25.807809+00:00"
+    }
+  ]
+}

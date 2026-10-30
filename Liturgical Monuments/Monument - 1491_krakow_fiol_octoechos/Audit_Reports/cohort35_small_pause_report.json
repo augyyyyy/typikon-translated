@@ -1,0 +1,73 @@
+{
+  "timestamp": "2026-10-29T19:00:03.990729+00:00",
+  "monument_id": "1491_krakow_fiol_octoechos",
+  "cohort": 35,
+  "target_file": "1491_krakow_fiol_octoechos_cohort35_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1491_krakow_fiol_octoechos_cohort35_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 5
+    },
+    "hieratic_pronouns": {
+      "file": "1491_krakow_fiol_octoechos_cohort35_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1491_krakow_fiol_octoechos_cohort35_raw_draft.md",
+      "footnotes_file": "1491_krakow_fiol_octoechos_cohort35_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 5,
+      "definition_markers_count": 5,
+      "text_markers": [
+        "[^379]",
+        "[^380]",
+        "[^381]",
+        "[^382]",
+        "[^383]"
+      ],
+      "definition_markers": [
+        "[^379]",
+        "[^380]",
+        "[^381]",
+        "[^382]",
+        "[^383]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1491_krakow_fiol_octoechos_cohort35_raw_draft.md",
+      "passed": true,
+      "paragraphs": 23,
+      "headings_count": 0,
+      "headings": [],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 5,
+        "min_leaf": 341,
+        "max_leaf": 345
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument - 1491_krakow_fiol_octoechos\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "total_queued_leaves": 5,
+    "unresolved_quarantines": 0
+  }
+}

@@ -1,0 +1,25 @@
+[^245]: Sunday Liturgy Beatitudes of Tone 8, concluding the cycle with the Trinitarian troparion and Theotokion. Note Fiol's epigraphic witness in the second troparion: *ѡбразы іра въ селеніе*, an archaic abbreviated rendering corresponding to standard Church Slavonic *еже по образу, райское селение* ("that which was in His image unto the habitation of Paradise").
+
+[^246]: Sunday Liturgy Prokeimenon, Tone 8. Fiol's printed rubric presents an enigmatic textual corruption: `пр҃оо въщи инте̄гвинда · і҃ · з҃ наємь въ іоудєнѣхъ`, designating the 8th Tone Sunday Liturgy Prokeimenon (LXX Ps. 75:12, *Помолитеся и воздадите Господеви Богу нашему*) with verse from LXX Ps. 75:2 (*Вѣдомъ въ Іудеи Богъ / въ Іудеехъ*). The corrupt rubric appears to incorporate garbled Polish/German or Latin liturgical markers (*intervallum* / *Sonntag nach Trinitatis*) or misread manuscript numerals for the 17th cycle / 8th Sunday lectionary designation.
+
+[^247]: Sunday Liturgy Epistle reading: 1 Corinthians 1:10–18 (Pericope / Zachalo 124, read on the 8th Sunday after Pentecost in the Byzantine lectionary).
+
+[^248]: Sunday Liturgy Alleluia verses: LXX Ps. 94:1 (*Come, let us rejoice in the Lord*) and LXX Ps. 94:2 (*Let us come before His presence with thanksgiving*).
+
+[^249]: Sunday Liturgy Gospel reading: John 15:17–16:2 (Pericope / Zachalo 52), concerning the hatred of the world toward Christ and His disciples and the promise of the Holy Spirit.
+
+[^250]: Sunday Evening Vespers (inaugurating the liturgical day of Monday), Tone 8: Stichera of Repentance (*покланны*) to our Lord Jesus Christ to the melodic model (*Podoben*) *Господи, аще на судищи* (*Lord, even though at the judgment seat*), followed by Stichera to the holy Angels.
+
+[^251]: Sunday Evening Aposticha stichera in Tone 8 (penitential stichera and martyrikon), followed by the Dismissal Troparion to the Archangels in Tone 4 (*Небесныхъ воинствъ архистратизи...*), which introduces the Monday commemoration of the Holy Bodiless Powers.
+
+[^252]: Monday Matins Sessional Hymns in Tone 1 at the 1st and 2nd Stichologia (*Объятия отча* / *Open Thine arms unto me, O Father*, and *Блудному поревновах* / *I have zealously imitated the prodigal*). Here Fiol transitions directly from the Sunday Resurrection Octoechos of Tones 1–8 into the weekday daily cycle, commencing on Monday with Tone 1.
+
+[^253]: Monday Matins Canons in Tone 1: the first Canon of Repentance to our Lord Jesus Christ (Heirmos of Ode 1: *Твоя победительная десница...* / Greek: *Ἡ δεξιά σου χεὶρ δεδόξασται...* / Ex. 15:6), followed by the second Canon to the Bodiless Powers (Heirmos: *Лютыя работы избывъ...*).
+
+[^254]: Monday Matins Canons in Tone 1, Ode 3 Heirmos: *Единый свѣдый человѣческаго естества неможение...* (Greek: *Ὁ μόνος εἰδὼς τῆς τῶν βροτῶν οὐσίας τὴν ἀσθένειαν...*), with troparia of repentance, the holy martyrs, and the Theotokos, followed by the second Canon to the Bodiless Powers.
+
+[^255]: Monday Matins Canons in Tone 1, Ode 4 Heirmos: *Гору Тя благодатию преосѣненную...* (Greek: *Ὄρος σε τῇ χάриτι τῇ θείᾳ κατάσκιον...* / Hab. 3:3), with troparia of repentance, martyrs, and Theotokos, followed by the second Canon to the Angels.
+
+[^256]: Monday Matins Canons in Tone 1, Ode 5 Heirmos: *Просвѣщение наше...* (Greek: *Τὸν φωτισμὸν ἡμῶν...* / Isa. 26:9), with troparia of repentance, martyrs, and Theotokos, followed by the second Canon to the Angels.
+
+[^257]: Monday Matins Canons in Tone 1, Ode 6 Heirmos: *Обыде насъ бездна послѣдняя...* (Greek: *Ἐκύκλωσεν ἡμᾶς ἐσχάτη ἄβυσσος...* / Jonah 2:6), concluding on leaf 220 with the opening phrase of the second Canon to the Bodiless Powers.

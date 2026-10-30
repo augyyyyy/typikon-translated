@@ -1179,8 +1179,8 @@
       "default_cohort_size": 10,
       "genre_register": "hymnographic",
       "workspace_dir": "Liturgical Monuments/Monument - 1491_krakow_fiol_octoechos",
-      "active": true,
-      "status": "in_progress",
+      "active": false,
+      "status": "completed",
       "historical_year": 1491,
       "wave": 3,
       "publication_spec": {

@@ -1,0 +1,9 @@
+[^152]: The printed text reads *пашни* (fallen, for *падшии* / *падшее*), an epigraphic spelling in Fiol's printing.
+[^153]: The Krakow 1491 text misprints *чл҃колюбца* (Lover of mankind) as *мл҃колюбца*.
+[^154]: Epigraphically corrupt typesetting in Fiol: *ѡбразѡги въ ѥдиньствѣ ѡбраза сыи... въпразоуми не повинны*. In standard Church Slavonic: *Въ единомъ образѣ Тріѵпостасне... вразуми повинныя твоего божественнаго осіянія*.
+[^155]: The printed text displays typographically compressed phrasing: *идамъ прощение получити злъ доие съгрѣшение* (*подаждь намъ прощеніе получити злыхъ нашихъ согрѣшеній*).
+[^156]: Epigraphically compressed/corrupted reading in Fiol for the theological definition of the Trinity as co-essential and co-eternal: *събѣственаꙗ и съпрⷭ҇носѫщнаꙗ славою, ѥдинаго тѧ по сѫществоу б҃а... събыствнии ѥсмь вѣстна, съставыи же тр҃ца...*.
+[^157]: Rubric abbreviation in Fiol: *по пр[ъвомъ] стїхо[логїи сѣдальны] гласа 6* (After the 1st Kathisma/stichology, Sessional Hymns of Tone 6).
+[^158]: The printed text contains a heavily scrambled/corrupt typesetting of the Sessional Hymn: *аралматы нелъзы вь мртвни апознаніе нж не ѥси. це во времѧ ꙗко скрен из гроба х҃съ* (corresponding to *Мироносицы жены, печаль оставльше... что плачете Мертваго? Се воскресе Христосъ*).
+[^159]: Epigraphic variants in Fiol: *звѣкьшаго* (*упразднившаго*, having abolished) and *талоучьшаго* (*источившаго*, having poured forth).
+[^160]: Misprint in Fiol: *и нѣко ста паче тебе ги* for *и нѣсть свята паче Тебе, Господи* (and there is none holy besides Thee, O Lord).

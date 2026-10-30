@@ -1,0 +1,9 @@
+[^379]: Photographic archival target slip (*ЭТОГО ЛИСТА В КНИГЕ НЕТ* — "This leaf is not in the book") inserted by the microfilming laboratory, indicating that the original blank folio 171r (Blatt 171a) was wanting in the exemplar collated during microfilming. As documented in the 1866 Breslau collation certificate on leaf p345, folios 170, 171, and 172 were originally blank quires issued at the conclusion of the 1491 Krakow edition.
+
+[^380]: Photographic archival target slip (*ЭТОГО ЛИСТА В КНИГЕ НЕТ* — "This leaf is not in the book") inserted by the microfilming laboratory, recording the absence of the blank verso folio 171v (Blatt 171b) in the filmed codex.
+
+[^381]: Photographic archival target slip (*ЭТОГО ЛИСТА В КНИГЕ НЕТ* — "This leaf is not in the book") inserted by the microfilming laboratory, recording the absence of the recto of the final blank folio 172r (Blatt 172a).
+
+[^382]: Photographic archival target slip (*ЭТОГО ЛИСТА В КНИГЕ НЕТ* — "This leaf is not in the book") inserted by the microfilming laboratory, recording the absence of the final blank verso folio 172v (Blatt 172b), concluding the physical text block of the incunabulum prior to the rear flyleaf and binding.
+
+[^383]: Nineteenth-century German scholarly collation certificate (*Collationierungs-Attest*) mounted upon the rear flyleaf (leaf p345) from the Breslau Stadtbibliothek (now Biblioteka Uniwersytecka we Wrocławiu), dated 1866 (specifically recorded in library collation logs as 15 November 1866) and initialed *C.F.* (or *O.F.*). The note confirms that the complete exemplar of Schweipolt Fiol's 1491 Krakow *Octoechos* comprises 172 printed and blank leaves (corresponding to 84 quires as listed in the quire register on fol. 169r / leaf p337), of which fol. 1v (*Blatt 1b*) and fol. 169v (*Blatt 169b*) bear full-page woodcuts, while folios 170, 171, and 172 (*Blaetter 170. 171. u. 172*) conclude the codex as unprinted blank leaves (*sind leer*).

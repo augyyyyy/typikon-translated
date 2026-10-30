@@ -1,0 +1,33 @@
+[^212]: Fiol records this Dismissal Theotokion of Tone 8 (*Воскресный Богородиченъ отпустительный*) with the abbreviated rubric `в с ла и҃ ·` (*Воскресный, слава и нынѣ, гласъ 8*). In the liturgical tradition, it functions as the Saturday Vespers dismissory Theotokion following the Resurrection Troparion *С высоты снизшелъ еси*.
+
+[^213]: The Sunday Midnight Office Canon to the Holy Trinity (*Канонъ Троиченъ на полунощницѣ, гласъ 8*), attributed to St. Metrophanes of Smyrna or St. John of Damascus. Fiol provides the heirmos model incipit *Въоружена* (referring to the classic Ode 1 heirmos *Въоружена фараона погрузи*) followed immediately by the full text of the Triadikos heirmos (Greek: *Τρισφαεῖ καὶ παντουργῷ Βασιλεῖ...*).
+
+[^214]: Fiol designates this hymn with the concise rubric `т҃ъ гла и҃` (*Троиченъ, гласъ 8*), reflecting the ancient Studite-Jerusalem hybrid usage where the Triadikon kathisma of the Midnight Office is sung following Ode 3 of the canon prior to the Theotokion.
+
+[^215]: The printed incipit *Ты еси Х[ристе] Б[о]гъ ты* corresponds to the Greek heirmos *Σὺ μου ἰσχύς, Κύριε, σὺ μου καὶ δύναμις* (Slavonic: *Ты моя крѣпость, Господи, Ты моя и сила*). In accordance with Statutory Mandate 16, printed incipits are preserved as inked without unwritten liturgical interpolation.
+
+[^216]: Printed incipit *Въскоую м[ѧ] ѿрину* corresponds to the Greek heirmos *Ἵνα τί με ἀπώσω ἀπὸ τοῦ προσώπου σου* (Slavonic: *Вскую мя отринулъ еси отъ лица Твоего*).
+
+[^217]: Printed incipit *Ѡчѣсти м[ѧ] сп[а]се* corresponds to the Greek heirmos *Ἱλάσθητί μοι Σωτήρ, πολλαὶ γὰρ αἱ ἀνομίαι μου* (Slavonic: *Очисти мя, Спасе, многа бо беззаконїя моя*).
+
+[^218]: Fiol labels this hymn `т҃ъ гла и҃ · по[добенъ]` (*Троиченъ / Кондакъ, гласъ 8, подобенъ*). In the Triadikos canon of the Sunday Midnight Office, this hymn serves as the Kontakion/Kathisma following Ode 6.
+
+[^219]: Printed incipit *Б[о]жїа съхожденїа* corresponds to the Greek heirmos *Θεοῦ συγκατάβασιν πῦρ ᾐδέσθη ἐν Βαβυλῶνι ποτέ* (Slavonic: *Божїя снисхожденїя огнь устыдеся въ Вавилонѣ иногда*).
+
+[^220]: Printed incipit *Седмиселицею* corresponds to the Greek heirmos *Ἑπταπλασίως κάμινον τῶν Χалдаίων ὁ τύραννος* (Slavonic: *Седмерицею пещь халдейскїй мучитель*).
+
+[^221]: Printed incipit *Т[ѧ] бракоу невѣсен* corresponds to the Greek heirmos *Ἀσπόρου συλλήψεως ὁ τόκος ἀνερμήνευτος* (Slavonic: *Безсѣменнаго зачатия рождество несказанное*).
+
+[^222]: The rubric `т҃а · д҃ ѡ инобїаковъ истино · и прочаа` directs the singing of the Trinity Hymns (*Троичны*) of the Sunday Midnight Office: *Достойно есть яко воистинну славити Тя, Бога Слова...* (It is truly meet to glorify Thee, God the Word...). This is followed immediately by the opening rubrics for Sunday Matins (*На утрени на Богъ Господь тропарь воскресный...*).
+
+[^223]: Fiol's rubric reads `па вечерѣ постра · на · а҃ · стїхѡ · т҃ѣ`, a compositor's conflation for *по стихословіи сѣдальны* (after the kathisma stichologia, sessional hymns) of Sunday Matins.
+
+[^224]: The hymn to the Theotokos *Ѡ тебѣ радуется, Благодатная, всякая тварь* (attributed to St. John of Damascus), here appointed as the Theotokion concluding the second set of Matins Sessional Hymns, as well as the Anaphora Megalynarion in the Divine Liturgy of St. Basil the Great.
+
+[^225]: The Hymns of Degrees (*Степенна* / Anabathmoi) of Tone 8 comprise four antiphons based on Psalms 119–132 [LXX]. Fiol's 1491 edition preserves the archaic South Slavic textual witness.
+
+[^226]: Versification per the Septuagint (LXX Ps. 131:8, 1; Masoretic Ps. 132:8, 1). This is followed by the rubrics for the Sunday Matins Gospel cycle: *Let every breath... Verse: Praise God in His saints (LXX Ps. 150:1)*, *Resurrection Gospel, Reading 1*, *Having beheld the Resurrection of Christ*, and *Psalm 50*.
+
+[^227]: The Sunday Matins Canon of the Resurrection, Tone 8 (*Канонъ Воскресенъ, гласъ 8*), composed by St. John of Damascus. Heirmos 1: Greek *Ἁρмаτηλάτην Φαραὼ ἐβύθισε, τερατουργοῦσα ποτέ, Μωσαϊκὴ ῥάβδος σταυροτύπως πλήξασα* (Slavonic: *Вооруженнаго фараона погрузи чудотворяй древле Моисейскїй жезлъ крестообразно поразивъ*).
+
+[^228]: Greek: *Ὑγρὰν διοδεύσας ὡσεὶ ξηράν* (Slavonic: *Воду прошедъ яко сушу*), the heirmos model for the second canon of Sunday Matins (the Canon of the Cross and Resurrection).

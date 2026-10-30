@@ -1,0 +1,23 @@
+[^186]: CS: 'и́ ꙁемлю ѡ́внси'. The printed form 'ѡ́внси' represents a typographical defect in the Krakow setting for 'ѡ́бнови' (Greek: καὶ τὴν γῆν ἐκαίνισε, 'and renewed the earth'), or possibly a dialectal compression of 'ѡ́живи'.
+
+[^187]: CS rubric: 'пѣ̃ ѳ̃ ірмо мл̃ти б̃о д̃ва аи́ч ·'. This cinnabar rubric provides an abbreviated liturgical cue ('Мати Бога и Дева...') preceding the full text of the appointed Heirmos ('Высокогласити и пети достойно...').
+
+[^188]: CS: 'прѣстанно'. The negative prefix 'не-' was omitted in the Krakow typography ('прѣстанно' for 'непрѣстанно', Greek: ἀπαύστως ὑμνοῦσι, 'they unceasingly praise'). Translated according to the required liturgical sense.
+
+[^189]: CS rubric: 'т̃и д̃ши но е̃ꙗ ковъ : ~ и́ прочаа ·'. Krakow typographical abbreviation for the Megalynarion: 'Таже: Достойно [есть] яко во[истинну блажити тя, Богородицу...] и прочая' ('Then: It is truly meet to bless thee, the Theotokos... and the rest').
+
+[^190]: CS: 'въскр̃се великаа свѣта а́ггл̃ь'. The Krakow text reads literally 'the angel of great light/counsel' (an epigraphic syntactical conflation of 'великаго совѣта ангелъ' [Greek: Μεγάλης Βουλῆς Ἄγγελος, Isa. 9:6] and 'свѣтъ').
+
+[^191]: CS: 'ѡ́ц̃у и сн̃у въ съслоужебень бъ'. The term 'съслоужебень' reflects the liturgical Greek σύνθρονος / ὁμότιμος, expressing the co-equal divine majesty and co-adoration of the Holy Spirit with the Father and the Son.
+
+[^192]: CS rubric: 'прѣпѣло · и́ прочаа ·'. The Ruthenian liturgical term 'прѣпѣло' (prepilo / pripyel) designates the assigned stichera or refrains chanted following Psalm 50 at Sunday Matins ('Through the intercessions of the Theotokos / of the Apostles...').
+
+[^193]: CS: 'и́ кн̃зю нашемоу побѣды дароуина сопротивных ꙗ́ сѡ́постаты'. An important historical witness of the 15th-century Ruthenian liturgical recension printed in Krakow, petitioning for 'our Prince' (the Grand Duke of Lithuania / local Orthodox knyaz) rather than the later Muscovite Tsarist formula ('царю нашему').
+
+[^194]: CS rubric: 'інь кр̃тȣ ірм̃о · смотрии пр̃ркъ'. Incipit cue for the Heirmos of Ode 4: 'Усмотрев пророк пришествие Твое...' (Greek: Ἐννοῶν ὁ Προφήτης).
+
+[^195]: CS: 'Плавающаго в молвѣ житенстѣи беꙁветьемь...'. The Tone 7 Sunday Heirmos of Ode 6 (Greek: Ναυτιῶν τῷ σάλῳ τῶν βιωτικῶν μελημάτων...).
+
+[^196]: CS rubric: 'к̃ѡꙁ істоупнице хр̃тїа : ~'. The Krakow typesetting fuses the abbreviation for Kontakion ('к̃ѡ[ндакъ]') with the initial consonant 'ꙁ' of the appointed Marian incipit 'Застоупнице христїа[номъ непостыдная]' (Greek: Πρoστασία τῶν Χριστιανῶν ἀκαταίσχυντε).
+
+[^197]: CS: 'оу́гль дрѣвле и́саи́ꙗ прѣ · ѡ́браꙁнѣ твое ро́жество провида'. Scriptural and hymnographic allusion to the live burning coal of Isaiah 6:6-7, prefiguring the incarnation of the divine Fire in the womb of the Virgin.

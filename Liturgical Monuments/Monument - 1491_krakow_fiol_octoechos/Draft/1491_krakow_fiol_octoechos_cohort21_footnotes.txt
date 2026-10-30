@@ -1,0 +1,31 @@
+[^229]: Physical leaf p201 is missing in this surviving printed exemplar, as indicated by the modern archival binder's notice inserted into the facsimile (*ЭТОГО ЛИСТА В КНИГЕ НЕТ*). The missing leaf encompasses the conclusion of the second canon of Sunday Matins (Tone 8, Ode 1) and Ode 3 with its sessional hymns and Theotokia leading into Ode 4.
+
+[^230]: Heirmos of Ode 4, Tone 8: *Ты ми, Христе, Господь, Ты же ми и сила, Ты ми Богъ, Ты ми и радованіе...* (Greek: *Σύ μου ἰσχύς, Κύριε, σύ μου καὶ δύναμις, σὺ Θεός μου, σύ μου ἀγαλλίαμα...* / Habakkuk 3:2).
+
+[^231]: Epigraphic witness: Fiol's text reads `др̃де` in the first troparion (*сниде на землю др̃де Спасе*), an archaic or corrupt Slavonic rendering for Greek *εὔσπλαγχνε* (Compassionate One / Merciful One; standard later Church Slavonic: *милосерде*).
+
+[^232]: Printed incipit of the Ode 4 heirmos of the Canon of the Cross: *Услыша* (Greek: *Εἰσακήκοα Κύριε τὴν ἀκοὴν τῆς σῆς οἰκονομίας...* / Slavonic: *Услышахъ, Господи, слухъ Твоего смотренія...*).
+
+[^233]: Heirmos of Ode 5, Tone 8: *Вскую мя отринулъ еси отъ лица Твоего, Свѣте незаходимый...* (Greek: *Ἵνα τί με ἀπώσω ἀπὸ τοῦ προσώπου σου, τὸ φῶς τὸ ἄδυτον...*).
+
+[^234]: Printed incipit of the Ode 5 heirmos of the Canon of the Cross: *Просвѣти насъ повелѣньми Твоими, Господи...* (Greek: *Φώτισον ἡμᾶς τοῖς προστάγμασί σου, Κύριε...*).
+
+[^235]: Heirmos of Ode 6, Tone 8: *Очисти мя, Спасе, многа бо беззаконїя моя...* (Greek: *Ἱλάσθητί μοι Σωτήρ, πολλαὶ γὰρ αἱ ἀνομίαι μου...*).
+
+[^236]: Printed incipits of Ode 6 heirmoi: Canon of the Cross (*Молитву пролїю ко Господу...* / Greek: *Τὴν δέησιν ἐκχεῶ πρὸς Κύριον...*) and Theotokion (*Ризою мя одѣй свѣтлою...* / Greek: *Χιτῶνά μοι παράσχου φωτεινόν...*).
+
+[^237]: Heirmos of Ode 7, Tone 8: *Божїя снисхожденїя огнь устыдеся въ Вавилонѣ иногда...* (Greek: *Θεοῦ συγκατάβασιν πῦρ ᾐδέσθη ἐν Βαβυλῶνι ποτέ...*).
+
+[^238]: Printed incipit of Ode 7 heirmos of the Canon of the Cross: *Иже отъ Отца...*
+
+[^239]: Heirmos of Ode 8, Tone 8: *Седмерицею пещь халдейскїй мучитель...* (Greek: *Ἑπταπλασίως κάμινον τῶν Χαλдаίων ὁ τύραννος...*).
+
+[^240]: Printed incipit of Ode 8 heirmos of the Canon of the Cross: *Побѣдителю...* (*Христосъ пропятый на древѣ...* / Greek: *Νικητὴν τυράννου...*).
+
+[^241]: Heirmos of Ode 9, Tone 8: *Тя, безневѣстную Матерь Бога Вышняго...* (Greek: *Τὴν ἀπειρόγαμον Θεοῦ Μητέρα τοῦ Ὑψίστου...*).
+
+[^242]: Printed incipit of Ode 9 heirmos of the Canon of the Cross: *Воистинну Богородицу Тя исповѣдуемъ...* (Greek: *Κυρίως Θεοτόκον, σὲ ὁμολογοῦμεν...*).
+
+[^243]: Sunday Matins Praises (*На хвалитехъ*) of Tone 8, beginning with the Resurrection Stichera (*Господи, аще на судищи предсталъ еси...*).
+
+[^244]: Anatolian Stichera (*Восточны*) of the Praises in Tone 8, concluding with the rubrics for the 1st Evangelical Sticheron (*Евангельская стихира, гласъ 1*), *Both now... Most blessed art thou*, and the Liturgy Beatitudes (*Блаженны*) of Tone 8. The bottom of leaf p210 bears the quire signature `мг` (Quire 43).
