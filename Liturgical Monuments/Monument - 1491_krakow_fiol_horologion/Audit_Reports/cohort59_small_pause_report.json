@@ -1,0 +1,84 @@
+{
+  "timestamp": "2026-10-30T00:49:00.088729+00:00",
+  "monument_id": "1491_krakow_fiol_horologion",
+  "cohort": 59,
+  "target_file": "1491_krakow_fiol_horologion_cohort59.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1491_krakow_fiol_horologion_cohort59.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 2
+    },
+    "hieratic_pronouns": {
+      "file": "1491_krakow_fiol_horologion_cohort59.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1491_krakow_fiol_horologion_cohort59.md",
+      "footnotes_file": "1491_krakow_fiol_horologion_cohort59_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 7,
+      "definition_markers_count": 7,
+      "text_markers": [
+        "[^1359]",
+        "[^1360]",
+        "[^1361]",
+        "[^1362]",
+        "[^1363]",
+        "[^1364]",
+        "[^1365]"
+      ],
+      "definition_markers": [
+        "[^1359]",
+        "[^1360]",
+        "[^1361]",
+        "[^1362]",
+        "[^1363]",
+        "[^1364]",
+        "[^1365]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1491_krakow_fiol_horologion_cohort59.md",
+      "passed": true,
+      "paragraphs": 24,
+      "headings_count": 1,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "PART VI: REAR ENDPAPERS AND ARCHIVAL MARGINALIA[^1359]",
+          "leaf": 581
+        }
+      ],
+      "numbered_items_count": 1,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 2,
+        "min_leaf": 581,
+        "max_leaf": 582
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "total_queued_leaves": 0,
+    "unresolved_quarantines": 0
+  }
+}

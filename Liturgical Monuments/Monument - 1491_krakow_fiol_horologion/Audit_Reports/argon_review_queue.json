@@ -1,0 +1,889 @@
+{
+  "monument_id": "1491_krakow_fiol_horologion",
+  "updated_at": "2026-10-30T00:49:01.516826+00:00",
+  "total_queued_leaves": 0,
+  "unresolved_quarantines": 0,
+  "items": [
+    {
+      "leaf_num": 171,
+      "cohort": 18,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "borderline_sgc02_ratio: 2.34 (draft=1925c, source=822c)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort18_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort18_source.txt",
+      "updated_at": "2026-10-29T15:49:48.638694+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321226+00:00"
+    },
+    {
+      "leaf_num": 451,
+      "cohort": 46,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "borderline_sgc02_ratio: 2.28 (draft=1881c, source=825c)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort46_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort46_source.txt",
+      "updated_at": "2026-10-29T21:45:31.706714+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321241+00:00"
+    },
+    {
+      "leaf_num": 452,
+      "cohort": 46,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "borderline_sgc02_ratio: 2.36 (draft=1968c, source=834c)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort46_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort46_source.txt",
+      "updated_at": "2026-10-29T21:45:31.706844+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321244+00:00"
+    },
+    {
+      "leaf_num": 455,
+      "cohort": 46,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "borderline_sgc02_ratio: 2.37 (draft=1940c, source=818c)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort46_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort46_source.txt",
+      "updated_at": "2026-10-29T21:45:31.707038+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321246+00:00"
+    },
+    {
+      "leaf_num": 459,
+      "cohort": 46,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "borderline_sgc02_ratio: 2.40 (draft=1883c, source=786c)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort46_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort46_source.txt",
+      "updated_at": "2026-10-29T21:45:31.707254+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321248+00:00"
+    },
+    {
+      "leaf_num": 468,
+      "cohort": 47,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "borderline_sgc02_ratio: 2.48 (draft=2522c, source=1015c)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort47_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort47_source.txt",
+      "updated_at": "2026-10-29T21:58:58.099371+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321250+00:00"
+    },
+    {
+      "leaf_num": 484,
+      "cohort": 49,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort49_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort49_source.txt",
+      "updated_at": "2026-10-29T22:22:59.029365+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321252+00:00"
+    },
+    {
+      "leaf_num": 488,
+      "cohort": 49,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "borderline_sgc02_ratio: 2.41 (draft=2271c, source=944c)",
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort49_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort49_source.txt",
+      "updated_at": "2026-10-29T22:22:59.029598+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321254+00:00"
+    },
+    {
+      "leaf_num": 489,
+      "cohort": 49,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "borderline_sgc02_ratio: 2.81 (draft=2522c, source=896c)",
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort49_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort49_source.txt",
+      "updated_at": "2026-10-29T22:22:59.029722+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321255+00:00"
+    },
+    {
+      "leaf_num": 490,
+      "cohort": 49,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "borderline_sgc02_ratio: 2.83 (draft=2597c, source=918c)",
+        "dense_polyglot_apparatus: 14 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort49_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort49_source.txt",
+      "updated_at": "2026-10-29T22:22:59.029882+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321257+00:00"
+    },
+    {
+      "leaf_num": 491,
+      "cohort": 50,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 11 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort50_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort50_source.txt",
+      "updated_at": "2026-10-29T22:39:45.534772+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321258+00:00"
+    },
+    {
+      "leaf_num": 492,
+      "cohort": 50,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort50_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort50_source.txt",
+      "updated_at": "2026-10-29T22:39:45.534881+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321260+00:00"
+    },
+    {
+      "leaf_num": 494,
+      "cohort": 50,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "borderline_sgc02_ratio: 2.41 (draft=2320c, source=961c)",
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort50_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort50_source.txt",
+      "updated_at": "2026-10-29T22:39:45.535043+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321262+00:00"
+    },
+    {
+      "leaf_num": 496,
+      "cohort": 50,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort50_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort50_source.txt",
+      "updated_at": "2026-10-29T22:39:45.535177+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321264+00:00"
+    },
+    {
+      "leaf_num": 497,
+      "cohort": 50,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort50_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort50_source.txt",
+      "updated_at": "2026-10-29T22:39:45.535278+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321265+00:00"
+    },
+    {
+      "leaf_num": 498,
+      "cohort": 50,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort50_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort50_source.txt",
+      "updated_at": "2026-10-29T22:39:45.535382+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321267+00:00"
+    },
+    {
+      "leaf_num": 499,
+      "cohort": 50,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "borderline_sgc02_ratio: 2.25 (draft=1920c, source=855c)",
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort50_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort50_source.txt",
+      "updated_at": "2026-10-29T22:39:45.535490+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321268+00:00"
+    },
+    {
+      "leaf_num": 500,
+      "cohort": 50,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort50_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort50_source.txt",
+      "updated_at": "2026-10-29T22:39:45.535597+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321270+00:00"
+    },
+    {
+      "leaf_num": 501,
+      "cohort": 51,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort51_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort51_source.txt",
+      "updated_at": "2026-10-29T22:51:42.265848+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321272+00:00"
+    },
+    {
+      "leaf_num": 503,
+      "cohort": 51,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort51_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort51_source.txt",
+      "updated_at": "2026-10-29T22:51:42.265995+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321273+00:00"
+    },
+    {
+      "leaf_num": 504,
+      "cohort": 51,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort51_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort51_source.txt",
+      "updated_at": "2026-10-29T22:51:42.266102+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321275+00:00"
+    },
+    {
+      "leaf_num": 506,
+      "cohort": 51,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort51_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort51_source.txt",
+      "updated_at": "2026-10-29T22:51:42.266238+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321276+00:00"
+    },
+    {
+      "leaf_num": 507,
+      "cohort": 51,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort51_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort51_source.txt",
+      "updated_at": "2026-10-29T22:51:42.266343+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321278+00:00"
+    },
+    {
+      "leaf_num": 510,
+      "cohort": 51,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort51_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort51_source.txt",
+      "updated_at": "2026-10-29T22:51:42.266533+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321279+00:00"
+    },
+    {
+      "leaf_num": 511,
+      "cohort": 52,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "borderline_sgc02_ratio: 2.23 (draft=1977c, source=887c)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort52_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort52_source.txt",
+      "updated_at": "2026-10-29T23:01:55.533112+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321281+00:00"
+    },
+    {
+      "leaf_num": 521,
+      "cohort": 53,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort53_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort53_source.txt",
+      "updated_at": "2026-10-29T23:15:29.950697+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321282+00:00"
+    },
+    {
+      "leaf_num": 522,
+      "cohort": 53,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort53_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort53_source.txt",
+      "updated_at": "2026-10-29T23:15:29.950811+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321284+00:00"
+    },
+    {
+      "leaf_num": 523,
+      "cohort": 53,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort53_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort53_source.txt",
+      "updated_at": "2026-10-29T23:15:29.950921+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321286+00:00"
+    },
+    {
+      "leaf_num": 531,
+      "cohort": 54,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort54_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort54_source.txt",
+      "updated_at": "2026-10-29T23:26:58.831258+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321287+00:00"
+    },
+    {
+      "leaf_num": 532,
+      "cohort": 54,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort54_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort54_source.txt",
+      "updated_at": "2026-10-29T23:26:58.831378+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321289+00:00"
+    },
+    {
+      "leaf_num": 536,
+      "cohort": 54,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort54_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort54_source.txt",
+      "updated_at": "2026-10-29T23:26:58.831583+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321291+00:00"
+    },
+    {
+      "leaf_num": 539,
+      "cohort": 54,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort54_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort54_source.txt",
+      "updated_at": "2026-10-29T23:26:58.831745+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321292+00:00"
+    },
+    {
+      "leaf_num": 541,
+      "cohort": 55,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 12 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort55_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort55_source.txt",
+      "updated_at": "2026-10-29T23:38:46.184576+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321294+00:00"
+    },
+    {
+      "leaf_num": 542,
+      "cohort": 55,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 11 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort55_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort55_source.txt",
+      "updated_at": "2026-10-29T23:38:46.184745+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321295+00:00"
+    },
+    {
+      "leaf_num": 543,
+      "cohort": 55,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort55_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort55_source.txt",
+      "updated_at": "2026-10-29T23:38:46.184902+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321297+00:00"
+    },
+    {
+      "leaf_num": 544,
+      "cohort": 55,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 11 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort55_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort55_source.txt",
+      "updated_at": "2026-10-29T23:38:46.185056+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321298+00:00"
+    },
+    {
+      "leaf_num": 545,
+      "cohort": 55,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort55_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort55_source.txt",
+      "updated_at": "2026-10-29T23:38:46.185207+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321300+00:00"
+    },
+    {
+      "leaf_num": 546,
+      "cohort": 55,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort55_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort55_source.txt",
+      "updated_at": "2026-10-29T23:38:46.185354+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321301+00:00"
+    },
+    {
+      "leaf_num": 547,
+      "cohort": 55,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 12 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort55_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort55_source.txt",
+      "updated_at": "2026-10-29T23:38:46.185507+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321303+00:00"
+    },
+    {
+      "leaf_num": 548,
+      "cohort": 55,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 14 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort55_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort55_source.txt",
+      "updated_at": "2026-10-29T23:38:46.185662+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321305+00:00"
+    },
+    {
+      "leaf_num": 549,
+      "cohort": 55,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 11 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort55_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort55_source.txt",
+      "updated_at": "2026-10-29T23:38:46.185818+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321307+00:00"
+    },
+    {
+      "leaf_num": 550,
+      "cohort": 55,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 11 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort55_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort55_source.txt",
+      "updated_at": "2026-10-29T23:38:46.185973+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321309+00:00"
+    },
+    {
+      "leaf_num": 551,
+      "cohort": 56,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 15 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort56_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort56_source.txt",
+      "updated_at": "2026-10-29T23:58:20.192546+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321310+00:00"
+    },
+    {
+      "leaf_num": 552,
+      "cohort": 56,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 18 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort56_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort56_source.txt",
+      "updated_at": "2026-10-29T23:58:20.192748+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321312+00:00"
+    },
+    {
+      "leaf_num": 553,
+      "cohort": 56,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 16 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort56_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort56_source.txt",
+      "updated_at": "2026-10-29T23:58:20.192936+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321313+00:00"
+    },
+    {
+      "leaf_num": 554,
+      "cohort": 56,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 14 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort56_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort56_source.txt",
+      "updated_at": "2026-10-29T23:58:20.193117+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321315+00:00"
+    },
+    {
+      "leaf_num": 555,
+      "cohort": 56,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 15 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort56_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort56_source.txt",
+      "updated_at": "2026-10-29T23:58:20.193302+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321317+00:00"
+    },
+    {
+      "leaf_num": 556,
+      "cohort": 56,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 14 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort56_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort56_source.txt",
+      "updated_at": "2026-10-29T23:58:20.193500+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321318+00:00"
+    },
+    {
+      "leaf_num": 557,
+      "cohort": 56,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 13 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort56_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort56_source.txt",
+      "updated_at": "2026-10-29T23:58:20.193684+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321320+00:00"
+    },
+    {
+      "leaf_num": 558,
+      "cohort": 56,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 11 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort56_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort56_source.txt",
+      "updated_at": "2026-10-29T23:58:20.193867+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321322+00:00"
+    },
+    {
+      "leaf_num": 559,
+      "cohort": 56,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 12 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort56_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort56_source.txt",
+      "updated_at": "2026-10-29T23:58:20.194059+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321324+00:00"
+    },
+    {
+      "leaf_num": 560,
+      "cohort": 56,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 13 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort56_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort56_source.txt",
+      "updated_at": "2026-10-29T23:58:20.194251+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321325+00:00"
+    },
+    {
+      "leaf_num": 561,
+      "cohort": 57,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 11 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort57_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort57_source.txt",
+      "updated_at": "2026-10-30T00:10:53.204950+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321327+00:00"
+    },
+    {
+      "leaf_num": 562,
+      "cohort": 57,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort57_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort57_source.txt",
+      "updated_at": "2026-10-30T00:10:53.205064+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321329+00:00"
+    },
+    {
+      "leaf_num": 563,
+      "cohort": 57,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort57_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort57_source.txt",
+      "updated_at": "2026-10-30T00:10:53.205167+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321330+00:00"
+    },
+    {
+      "leaf_num": 564,
+      "cohort": 57,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 12 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort57_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort57_source.txt",
+      "updated_at": "2026-10-30T00:10:53.205263+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321332+00:00"
+    },
+    {
+      "leaf_num": 565,
+      "cohort": 57,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 11 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort57_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort57_source.txt",
+      "updated_at": "2026-10-30T00:10:53.205356+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321334+00:00"
+    },
+    {
+      "leaf_num": 566,
+      "cohort": 57,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort57_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort57_source.txt",
+      "updated_at": "2026-10-30T00:10:53.205446+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321335+00:00"
+    },
+    {
+      "leaf_num": 567,
+      "cohort": 57,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort57_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort57_source.txt",
+      "updated_at": "2026-10-30T00:10:53.205540+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321337+00:00"
+    },
+    {
+      "leaf_num": 568,
+      "cohort": 57,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort57_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort57_source.txt",
+      "updated_at": "2026-10-30T00:10:53.205634+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321338+00:00"
+    },
+    {
+      "leaf_num": 569,
+      "cohort": 57,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort57_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort57_source.txt",
+      "updated_at": "2026-10-30T00:10:53.205725+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321340+00:00"
+    },
+    {
+      "leaf_num": 570,
+      "cohort": 57,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort57_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort57_source.txt",
+      "updated_at": "2026-10-30T00:10:53.205816+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321342+00:00"
+    },
+    {
+      "leaf_num": 571,
+      "cohort": 58,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 16 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort58_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort58_source.txt",
+      "updated_at": "2026-10-30T00:40:01.782657+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321343+00:00"
+    },
+    {
+      "leaf_num": 572,
+      "cohort": 58,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 11 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort58_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort58_source.txt",
+      "updated_at": "2026-10-30T00:40:01.782766+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321345+00:00"
+    },
+    {
+      "leaf_num": 573,
+      "cohort": 58,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort58_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort58_source.txt",
+      "updated_at": "2026-10-30T00:40:01.782870+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321346+00:00"
+    },
+    {
+      "leaf_num": 574,
+      "cohort": 58,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort58_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort58_source.txt",
+      "updated_at": "2026-10-30T00:40:01.782966+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321348+00:00"
+    },
+    {
+      "leaf_num": 575,
+      "cohort": 58,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 11 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort58_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort58_source.txt",
+      "updated_at": "2026-10-30T00:40:01.783064+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321350+00:00"
+    },
+    {
+      "leaf_num": 576,
+      "cohort": 58,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 12 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort58_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort58_source.txt",
+      "updated_at": "2026-10-30T00:40:01.783158+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321352+00:00"
+    },
+    {
+      "leaf_num": 577,
+      "cohort": 58,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort58_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort58_source.txt",
+      "updated_at": "2026-10-30T00:40:01.783252+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321353+00:00"
+    },
+    {
+      "leaf_num": 578,
+      "cohort": 58,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort58_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort58_source.txt",
+      "updated_at": "2026-10-30T00:40:01.783345+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321355+00:00"
+    },
+    {
+      "leaf_num": 579,
+      "cohort": 58,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort58_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort58_source.txt",
+      "updated_at": "2026-10-30T00:40:01.783442+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321356+00:00"
+    },
+    {
+      "leaf_num": 580,
+      "cohort": 58,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort58_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort58_source.txt",
+      "updated_at": "2026-10-30T00:40:01.783534+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321358+00:00"
+    },
+    {
+      "leaf_num": 581,
+      "cohort": 59,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Draft\\1491_krakow_fiol_horologion_cohort59_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1491_krakow_fiol_horologion\\Source Text\\1491_krakow_fiol_horologion_cohort59_source.txt",
+      "updated_at": "2026-10-30T00:47:29.597076+00:00",
+      "resolved_at": "2026-10-30T00:48:00.321359+00:00"
+    }
+  ]
+}

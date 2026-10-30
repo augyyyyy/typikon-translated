@@ -1,0 +1,1362 @@
+{
+  "monument_id": "1491_krakow_fiol_horologion",
+  "monument_title": "1491 Krakow Horologion of Schweipolt Fiol (Часослов Швайпольта Фіоля, Краків, 1491)",
+  "generated_at": "2026-10-30T12:56:14.132721-04:00",
+  "corpus_summary": {
+    "total_physical_leaves": 582,
+    "total_cohorts": 59,
+    "source_words": 101931,
+    "draft_body_words": 131187,
+    "footnote_definitions_count": 1365,
+    "footnote_words": 78966,
+    "total_english_output_words": 210153,
+    "compiled_parts_count": 8
+  },
+  "dimension_1_cohort_velocity_and_bottlenecks": {
+    "total_active_subagent_seconds": 43516.0,
+    "total_active_subagent_hours": 12.09,
+    "mean_cohort_seconds": 737.6,
+    "median_cohort_seconds": 685.0,
+    "min_cohort_seconds": 434.0,
+    "max_cohort_seconds": 1718.0,
+    "subagent_retries_count": 0,
+    "three_slowest_cohorts": [
+      {
+        "rank": 1,
+        "cohort": 58,
+        "leaf_range": "p571-p580",
+        "subagent_duration_seconds": 1718.0,
+        "subagent_duration_minutes": 28.63,
+        "draft_body_words": 1704,
+        "footnotes_count": 97,
+        "footnote_words": 2958,
+        "total_output_words": 4662,
+        "bottleneck_causes": [
+          "Colometric reconstruction of Tone 6 Acrostic Penitential Canon unto Our Lord Jesus ('Очию моею плачь прийди', Odes 1-6 on p574-p579)",
+          "Diplomatic heraldic description and historical apparatus for the 1491 Krakow woodcut arms ('herb Krakowa' + Fiol monogram) and King Casimir IV colophon on leaf p580",
+          "High apparatus density (97 footnotes, 2,958 words = 1.74x body length) plus internal subagent gate pre-check"
+        ]
+      },
+      {
+        "rank": 2,
+        "cohort": 1,
+        "leaf_range": "p1-p10",
+        "subagent_duration_seconds": 1310.0,
+        "subagent_duration_minutes": 21.83,
+        "draft_body_words": 1984,
+        "footnotes_count": 24,
+        "footnote_words": 765,
+        "total_output_words": 2749,
+        "bottleneck_causes": [
+          "Cold-start decipherment of ornamental woodcut headpiece and interwoven Cyrillic vyaz ('в'язь') display title on leaf p2",
+          "Establishing the 8-Tone Midnight Office Triadika ('Троичны') and Matins Photagogica ('Свѣтилна') structural paradigm (p2-p10)",
+          "Internal subagent Small Pause Gate pre-flight failure and self-repair loop prior to yielding turn (logged in triage_inbox.jsonl at 12:17:56Z)"
+        ]
+      },
+      {
+        "rank": 3,
+        "cohort": 56,
+        "leaf_range": "p551-p560",
+        "subagent_duration_seconds": 1156.0,
+        "subagent_duration_minutes": 19.27,
+        "draft_body_words": 2134,
+        "footnotes_count": 141,
+        "footnote_words": 4111,
+        "total_output_words": 6245,
+        "bottleneck_causes": [
+          "Highest total word output in the monument (6,245 words: 2,134 body + 4,111 footnote words)",
+          "Extreme apparatus density (141 footnotes = 14.1 notes/leaf) across clipped Polyeleos Selected Psalm verses ('Припѣвы') and Festal Megalynaria ('Величанія', p557-p560) requiring individual LXX/Masoretic citations",
+          "Internal subagent gate verification run prior to completion"
+        ]
+      }
+    ],
+    "per_cohort_telemetry": [
+      {
+        "cohort": 1,
+        "leaf_range": "p1-p10",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 1310.0,
+        "subagent_duration_minutes": 21.83,
+        "filesystem_wo_to_draft_seconds": 1235.0,
+        "start_utc": "2026-10-29T11:59:35+00:00",
+        "end_utc": "2026-10-29T12:21:25+00:00",
+        "source_words": 1196,
+        "draft_body_words": 1984,
+        "footnotes_count": 24,
+        "footnote_words": 765,
+        "total_output_words": 2749,
+        "draft_to_source_char_ratio": 1.41
+      },
+      {
+        "cohort": 2,
+        "leaf_range": "p11-p20",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 944.0,
+        "subagent_duration_minutes": 15.73,
+        "filesystem_wo_to_draft_seconds": 578.0,
+        "start_utc": "2026-10-29T12:22:14+00:00",
+        "end_utc": "2026-10-29T12:37:58+00:00",
+        "source_words": 1626,
+        "draft_body_words": 2201,
+        "footnotes_count": 19,
+        "footnote_words": 747,
+        "total_output_words": 2948,
+        "draft_to_source_char_ratio": 1.41
+      },
+      {
+        "cohort": 3,
+        "leaf_range": "p21-p30",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 499.0,
+        "subagent_duration_minutes": 8.32,
+        "filesystem_wo_to_draft_seconds": 574.5,
+        "start_utc": "2026-10-29T12:38:21+00:00",
+        "end_utc": "2026-10-29T12:46:40+00:00",
+        "source_words": 1663,
+        "draft_body_words": 2056,
+        "footnotes_count": 19,
+        "footnote_words": 792,
+        "total_output_words": 2848,
+        "draft_to_source_char_ratio": 1.29
+      },
+      {
+        "cohort": 4,
+        "leaf_range": "p31-p40",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 520.0,
+        "subagent_duration_minutes": 8.67,
+        "filesystem_wo_to_draft_seconds": 475.0,
+        "start_utc": "2026-10-29T12:48:10+00:00",
+        "end_utc": "2026-10-29T12:56:50+00:00",
+        "source_words": 1601,
+        "draft_body_words": 2002,
+        "footnotes_count": 16,
+        "footnote_words": 699,
+        "total_output_words": 2701,
+        "draft_to_source_char_ratio": 1.3
+      },
+      {
+        "cohort": 5,
+        "leaf_range": "p41-p50",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 559.0,
+        "subagent_duration_minutes": 9.32,
+        "filesystem_wo_to_draft_seconds": 498.3,
+        "start_utc": "2026-10-29T12:57:30+00:00",
+        "end_utc": "2026-10-29T13:06:49+00:00",
+        "source_words": 1630,
+        "draft_body_words": 2023,
+        "footnotes_count": 16,
+        "footnote_words": 826,
+        "total_output_words": 2849,
+        "draft_to_source_char_ratio": 1.33
+      },
+      {
+        "cohort": 6,
+        "leaf_range": "p51-p60",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 625.0,
+        "subagent_duration_minutes": 10.42,
+        "filesystem_wo_to_draft_seconds": 561.8,
+        "start_utc": "2026-10-29T13:07:17+00:00",
+        "end_utc": "2026-10-29T13:17:42+00:00",
+        "source_words": 1571,
+        "draft_body_words": 2129,
+        "footnotes_count": 15,
+        "footnote_words": 761,
+        "total_output_words": 2890,
+        "draft_to_source_char_ratio": 1.41
+      },
+      {
+        "cohort": 7,
+        "leaf_range": "p61-p70",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 911.0,
+        "subagent_duration_minutes": 15.18,
+        "filesystem_wo_to_draft_seconds": 768.8,
+        "start_utc": "2026-10-29T13:18:32+00:00",
+        "end_utc": "2026-10-29T13:33:43+00:00",
+        "source_words": 1663,
+        "draft_body_words": 2055,
+        "footnotes_count": 10,
+        "footnote_words": 782,
+        "total_output_words": 2837,
+        "draft_to_source_char_ratio": 1.33
+      },
+      {
+        "cohort": 8,
+        "leaf_range": "p71-p80",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 913.0,
+        "subagent_duration_minutes": 15.22,
+        "filesystem_wo_to_draft_seconds": 853.5,
+        "start_utc": "2026-10-29T13:34:21+00:00",
+        "end_utc": "2026-10-29T13:49:34+00:00",
+        "source_words": 1627,
+        "draft_body_words": 2042,
+        "footnotes_count": 10,
+        "footnote_words": 664,
+        "total_output_words": 2706,
+        "draft_to_source_char_ratio": 1.31
+      },
+      {
+        "cohort": 9,
+        "leaf_range": "p81-p90",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 562.0,
+        "subagent_duration_minutes": 9.37,
+        "filesystem_wo_to_draft_seconds": 589.9,
+        "start_utc": "2026-10-29T13:50:03+00:00",
+        "end_utc": "2026-10-29T13:59:25+00:00",
+        "source_words": 1581,
+        "draft_body_words": 2126,
+        "footnotes_count": 10,
+        "footnote_words": 742,
+        "total_output_words": 2868,
+        "draft_to_source_char_ratio": 1.35
+      },
+      {
+        "cohort": 10,
+        "leaf_range": "p91-p100",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 864.0,
+        "subagent_duration_minutes": 14.4,
+        "filesystem_wo_to_draft_seconds": 851.9,
+        "start_utc": "2026-10-29T14:00:25+00:00",
+        "end_utc": "2026-10-29T14:14:49+00:00",
+        "source_words": 1710,
+        "draft_body_words": 2236,
+        "footnotes_count": 10,
+        "footnote_words": 908,
+        "total_output_words": 3144,
+        "draft_to_source_char_ratio": 1.46
+      },
+      {
+        "cohort": 11,
+        "leaf_range": "p101-p110",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 540.0,
+        "subagent_duration_minutes": 9.0,
+        "filesystem_wo_to_draft_seconds": 491.5,
+        "start_utc": "2026-10-29T14:15:32+00:00",
+        "end_utc": "2026-10-29T14:24:32+00:00",
+        "source_words": 1593,
+        "draft_body_words": 1872,
+        "footnotes_count": 10,
+        "footnote_words": 774,
+        "total_output_words": 2646,
+        "draft_to_source_char_ratio": 1.17
+      },
+      {
+        "cohort": 12,
+        "leaf_range": "p111-p120",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 628.0,
+        "subagent_duration_minutes": 10.47,
+        "filesystem_wo_to_draft_seconds": 582.9,
+        "start_utc": "2026-10-29T14:25:19+00:00",
+        "end_utc": "2026-10-29T14:35:47+00:00",
+        "source_words": 1657,
+        "draft_body_words": 1849,
+        "footnotes_count": 10,
+        "footnote_words": 892,
+        "total_output_words": 2741,
+        "draft_to_source_char_ratio": 1.17
+      },
+      {
+        "cohort": 13,
+        "leaf_range": "p121-p130",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 513.0,
+        "subagent_duration_minutes": 8.55,
+        "filesystem_wo_to_draft_seconds": 449.2,
+        "start_utc": "2026-10-29T14:36:15+00:00",
+        "end_utc": "2026-10-29T14:44:48+00:00",
+        "source_words": 1373,
+        "draft_body_words": 1597,
+        "footnotes_count": 10,
+        "footnote_words": 977,
+        "total_output_words": 2574,
+        "draft_to_source_char_ratio": 1.25
+      },
+      {
+        "cohort": 14,
+        "leaf_range": "p131-p140",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 599.0,
+        "subagent_duration_minutes": 9.98,
+        "filesystem_wo_to_draft_seconds": 534.5,
+        "start_utc": "2026-10-29T14:45:30+00:00",
+        "end_utc": "2026-10-29T14:55:29+00:00",
+        "source_words": 1538,
+        "draft_body_words": 1914,
+        "footnotes_count": 10,
+        "footnote_words": 866,
+        "total_output_words": 2780,
+        "draft_to_source_char_ratio": 1.42
+      },
+      {
+        "cohort": 15,
+        "leaf_range": "p141-p150",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 675.0,
+        "subagent_duration_minutes": 11.25,
+        "filesystem_wo_to_draft_seconds": 627.9,
+        "start_utc": "2026-10-29T14:57:25+00:00",
+        "end_utc": "2026-10-29T15:08:40+00:00",
+        "source_words": 1710,
+        "draft_body_words": 2142,
+        "footnotes_count": 10,
+        "footnote_words": 793,
+        "total_output_words": 2935,
+        "draft_to_source_char_ratio": 1.57
+      },
+      {
+        "cohort": 16,
+        "leaf_range": "p151-p160",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 872.0,
+        "subagent_duration_minutes": 14.53,
+        "filesystem_wo_to_draft_seconds": 817.3,
+        "start_utc": "2026-10-29T15:09:08+00:00",
+        "end_utc": "2026-10-29T15:23:40+00:00",
+        "source_words": 1692,
+        "draft_body_words": 2260,
+        "footnotes_count": 10,
+        "footnote_words": 890,
+        "total_output_words": 3150,
+        "draft_to_source_char_ratio": 1.69
+      },
+      {
+        "cohort": 17,
+        "leaf_range": "p161-p170",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 805.0,
+        "subagent_duration_minutes": 13.42,
+        "filesystem_wo_to_draft_seconds": 828.7,
+        "start_utc": "2026-10-29T15:24:25+00:00",
+        "end_utc": "2026-10-29T15:37:50+00:00",
+        "source_words": 1934,
+        "draft_body_words": 2381,
+        "footnotes_count": 10,
+        "footnote_words": 1307,
+        "total_output_words": 3688,
+        "draft_to_source_char_ratio": 1.59
+      },
+      {
+        "cohort": 18,
+        "leaf_range": "p171-p180",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 647.0,
+        "subagent_duration_minutes": 10.78,
+        "filesystem_wo_to_draft_seconds": 691.0,
+        "start_utc": "2026-10-29T15:38:37+00:00",
+        "end_utc": "2026-10-29T15:49:24+00:00",
+        "source_words": 1824,
+        "draft_body_words": 2409,
+        "footnotes_count": 10,
+        "footnote_words": 1865,
+        "total_output_words": 4274,
+        "draft_to_source_char_ratio": 1.7
+      },
+      {
+        "cohort": 19,
+        "leaf_range": "p181-p190",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 618.0,
+        "subagent_duration_minutes": 10.3,
+        "filesystem_wo_to_draft_seconds": 568.7,
+        "start_utc": "2026-10-29T15:49:57+00:00",
+        "end_utc": "2026-10-29T16:00:15+00:00",
+        "source_words": 2060,
+        "draft_body_words": 2290,
+        "footnotes_count": 10,
+        "footnote_words": 1820,
+        "total_output_words": 4110,
+        "draft_to_source_char_ratio": 1.62
+      },
+      {
+        "cohort": 20,
+        "leaf_range": "p191-p200",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 608.0,
+        "subagent_duration_minutes": 10.13,
+        "filesystem_wo_to_draft_seconds": 542.1,
+        "start_utc": "2026-10-29T16:00:49+00:00",
+        "end_utc": "2026-10-29T16:10:57+00:00",
+        "source_words": 1650,
+        "draft_body_words": 1994,
+        "footnotes_count": 10,
+        "footnote_words": 1975,
+        "total_output_words": 3969,
+        "draft_to_source_char_ratio": 1.45
+      },
+      {
+        "cohort": 21,
+        "leaf_range": "p201-p210",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 683.0,
+        "subagent_duration_minutes": 11.38,
+        "filesystem_wo_to_draft_seconds": 626.9,
+        "start_utc": "2026-10-29T16:11:34+00:00",
+        "end_utc": "2026-10-29T16:22:57+00:00",
+        "source_words": 1876,
+        "draft_body_words": 2239,
+        "footnotes_count": 10,
+        "footnote_words": 1983,
+        "total_output_words": 4222,
+        "draft_to_source_char_ratio": 1.67
+      },
+      {
+        "cohort": 22,
+        "leaf_range": "p211-p220",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 628.0,
+        "subagent_duration_minutes": 10.47,
+        "filesystem_wo_to_draft_seconds": 525.0,
+        "start_utc": "2026-10-29T16:23:35+00:00",
+        "end_utc": "2026-10-29T16:34:03+00:00",
+        "source_words": 1869,
+        "draft_body_words": 2219,
+        "footnotes_count": 10,
+        "footnote_words": 1997,
+        "total_output_words": 4216,
+        "draft_to_source_char_ratio": 1.61
+      },
+      {
+        "cohort": 23,
+        "leaf_range": "p221-p230",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 763.0,
+        "subagent_duration_minutes": 12.72,
+        "filesystem_wo_to_draft_seconds": 663.4,
+        "start_utc": "2026-10-29T16:34:35+00:00",
+        "end_utc": "2026-10-29T16:47:18+00:00",
+        "source_words": 1908,
+        "draft_body_words": 2222,
+        "footnotes_count": 10,
+        "footnote_words": 1795,
+        "total_output_words": 4017,
+        "draft_to_source_char_ratio": 1.6
+      },
+      {
+        "cohort": 24,
+        "leaf_range": "p231-p240",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 618.0,
+        "subagent_duration_minutes": 10.3,
+        "filesystem_wo_to_draft_seconds": 660.9,
+        "start_utc": "2026-10-29T16:48:03+00:00",
+        "end_utc": "2026-10-29T16:58:21+00:00",
+        "source_words": 1993,
+        "draft_body_words": 2242,
+        "footnotes_count": 10,
+        "footnote_words": 1822,
+        "total_output_words": 4064,
+        "draft_to_source_char_ratio": 1.36
+      },
+      {
+        "cohort": 25,
+        "leaf_range": "p241-p250",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 918.0,
+        "subagent_duration_minutes": 15.3,
+        "filesystem_wo_to_draft_seconds": 853.2,
+        "start_utc": "2026-10-29T16:59:09+00:00",
+        "end_utc": "2026-10-29T17:14:27+00:00",
+        "source_words": 1965,
+        "draft_body_words": 2254,
+        "footnotes_count": 10,
+        "footnote_words": 1803,
+        "total_output_words": 4057,
+        "draft_to_source_char_ratio": 1.42
+      },
+      {
+        "cohort": 26,
+        "leaf_range": "p251-p260",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 610.0,
+        "subagent_duration_minutes": 10.17,
+        "filesystem_wo_to_draft_seconds": 551.0,
+        "start_utc": "2026-10-29T17:15:02+00:00",
+        "end_utc": "2026-10-29T17:25:12+00:00",
+        "source_words": 1888,
+        "draft_body_words": 2029,
+        "footnotes_count": 10,
+        "footnote_words": 1883,
+        "total_output_words": 3912,
+        "draft_to_source_char_ratio": 1.31
+      },
+      {
+        "cohort": 27,
+        "leaf_range": "p261-p270",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 584.0,
+        "subagent_duration_minutes": 9.73,
+        "filesystem_wo_to_draft_seconds": 622.7,
+        "start_utc": "2026-10-29T17:25:44+00:00",
+        "end_utc": "2026-10-29T17:35:28+00:00",
+        "source_words": 2015,
+        "draft_body_words": 2148,
+        "footnotes_count": 10,
+        "footnote_words": 1842,
+        "total_output_words": 3990,
+        "draft_to_source_char_ratio": 1.32
+      },
+      {
+        "cohort": 28,
+        "leaf_range": "p271-p280",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 737.0,
+        "subagent_duration_minutes": 12.28,
+        "filesystem_wo_to_draft_seconds": 698.9,
+        "start_utc": "2026-10-29T17:36:12+00:00",
+        "end_utc": "2026-10-29T17:48:29+00:00",
+        "source_words": 1923,
+        "draft_body_words": 2157,
+        "footnotes_count": 10,
+        "footnote_words": 1162,
+        "total_output_words": 3319,
+        "draft_to_source_char_ratio": 1.43
+      },
+      {
+        "cohort": 29,
+        "leaf_range": "p281-p290",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 653.0,
+        "subagent_duration_minutes": 10.88,
+        "filesystem_wo_to_draft_seconds": 557.3,
+        "start_utc": "2026-10-29T17:49:12+00:00",
+        "end_utc": "2026-10-29T18:00:05+00:00",
+        "source_words": 1903,
+        "draft_body_words": 2237,
+        "footnotes_count": 10,
+        "footnote_words": 1492,
+        "total_output_words": 3729,
+        "draft_to_source_char_ratio": 1.51
+      },
+      {
+        "cohort": 30,
+        "leaf_range": "p291-p300",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 830.0,
+        "subagent_duration_minutes": 13.83,
+        "filesystem_wo_to_draft_seconds": 854.2,
+        "start_utc": "2026-10-29T18:00:39+00:00",
+        "end_utc": "2026-10-29T18:14:29+00:00",
+        "source_words": 1943,
+        "draft_body_words": 2274,
+        "footnotes_count": 10,
+        "footnote_words": 1813,
+        "total_output_words": 4087,
+        "draft_to_source_char_ratio": 1.58
+      },
+      {
+        "cohort": 31,
+        "leaf_range": "p301-p310",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 768.0,
+        "subagent_duration_minutes": 12.8,
+        "filesystem_wo_to_draft_seconds": 728.8,
+        "start_utc": "2026-10-29T18:14:54+00:00",
+        "end_utc": "2026-10-29T18:27:42+00:00",
+        "source_words": 2043,
+        "draft_body_words": 2419,
+        "footnotes_count": 10,
+        "footnote_words": 2071,
+        "total_output_words": 4490,
+        "draft_to_source_char_ratio": 1.63
+      },
+      {
+        "cohort": 32,
+        "leaf_range": "p311-p320",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 707.0,
+        "subagent_duration_minutes": 11.78,
+        "filesystem_wo_to_draft_seconds": 725.8,
+        "start_utc": "2026-10-29T18:28:03+00:00",
+        "end_utc": "2026-10-29T18:39:50+00:00",
+        "source_words": 1457,
+        "draft_body_words": 2566,
+        "footnotes_count": 10,
+        "footnote_words": 622,
+        "total_output_words": 3188,
+        "draft_to_source_char_ratio": 1.82
+      },
+      {
+        "cohort": 33,
+        "leaf_range": "p321-p330",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 744.0,
+        "subagent_duration_minutes": 12.4,
+        "filesystem_wo_to_draft_seconds": 763.5,
+        "start_utc": "2026-10-29T18:40:13+00:00",
+        "end_utc": "2026-10-29T18:52:37+00:00",
+        "source_words": 1506,
+        "draft_body_words": 2551,
+        "footnotes_count": 10,
+        "footnote_words": 729,
+        "total_output_words": 3280,
+        "draft_to_source_char_ratio": 1.84
+      },
+      {
+        "cohort": 34,
+        "leaf_range": "p331-p340",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 772.0,
+        "subagent_duration_minutes": 12.87,
+        "filesystem_wo_to_draft_seconds": 702.7,
+        "start_utc": "2026-10-29T18:53:02+00:00",
+        "end_utc": "2026-10-29T19:05:54+00:00",
+        "source_words": 1511,
+        "draft_body_words": 2439,
+        "footnotes_count": 10,
+        "footnote_words": 700,
+        "total_output_words": 3139,
+        "draft_to_source_char_ratio": 1.83
+      },
+      {
+        "cohort": 35,
+        "leaf_range": "p341-p350",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 705.0,
+        "subagent_duration_minutes": 11.75,
+        "filesystem_wo_to_draft_seconds": 720.4,
+        "start_utc": "2026-10-29T19:06:17+00:00",
+        "end_utc": "2026-10-29T19:18:02+00:00",
+        "source_words": 1530,
+        "draft_body_words": 2632,
+        "footnotes_count": 10,
+        "footnote_words": 757,
+        "total_output_words": 3389,
+        "draft_to_source_char_ratio": 1.86
+      },
+      {
+        "cohort": 36,
+        "leaf_range": "p351-p360",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 968.0,
+        "subagent_duration_minutes": 16.13,
+        "filesystem_wo_to_draft_seconds": 890.2,
+        "start_utc": "2026-10-29T19:18:20+00:00",
+        "end_utc": "2026-10-29T19:34:28+00:00",
+        "source_words": 1895,
+        "draft_body_words": 2506,
+        "footnotes_count": 10,
+        "footnote_words": 1345,
+        "total_output_words": 3851,
+        "draft_to_source_char_ratio": 1.76
+      },
+      {
+        "cohort": 37,
+        "leaf_range": "p361-p370",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 674.0,
+        "subagent_duration_minutes": 11.23,
+        "filesystem_wo_to_draft_seconds": 692.6,
+        "start_utc": "2026-10-29T19:34:55+00:00",
+        "end_utc": "2026-10-29T19:46:09+00:00",
+        "source_words": 1992,
+        "draft_body_words": 2562,
+        "footnotes_count": 10,
+        "footnote_words": 457,
+        "total_output_words": 3019,
+        "draft_to_source_char_ratio": 1.72
+      },
+      {
+        "cohort": 38,
+        "leaf_range": "p371-p380",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 820.0,
+        "subagent_duration_minutes": 13.67,
+        "filesystem_wo_to_draft_seconds": 760.5,
+        "start_utc": "2026-10-29T19:46:31+00:00",
+        "end_utc": "2026-10-29T20:00:11+00:00",
+        "source_words": 2017,
+        "draft_body_words": 2476,
+        "footnotes_count": 10,
+        "footnote_words": 527,
+        "total_output_words": 3003,
+        "draft_to_source_char_ratio": 1.42
+      },
+      {
+        "cohort": 39,
+        "leaf_range": "p381-p390",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 614.0,
+        "subagent_duration_minutes": 10.23,
+        "filesystem_wo_to_draft_seconds": 554.8,
+        "start_utc": "2026-10-29T20:00:40+00:00",
+        "end_utc": "2026-10-29T20:10:54+00:00",
+        "source_words": 1986,
+        "draft_body_words": 2534,
+        "footnotes_count": 10,
+        "footnote_words": 651,
+        "total_output_words": 3185,
+        "draft_to_source_char_ratio": 1.49
+      },
+      {
+        "cohort": 40,
+        "leaf_range": "p391-p400",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 1062.0,
+        "subagent_duration_minutes": 17.7,
+        "filesystem_wo_to_draft_seconds": 1086.4,
+        "start_utc": "2026-10-29T20:11:24+00:00",
+        "end_utc": "2026-10-29T20:29:06+00:00",
+        "source_words": 1928,
+        "draft_body_words": 2299,
+        "footnotes_count": 22,
+        "footnote_words": 735,
+        "total_output_words": 3034,
+        "draft_to_source_char_ratio": 1.59
+      },
+      {
+        "cohort": 41,
+        "leaf_range": "p401-p410",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 564.0,
+        "subagent_duration_minutes": 9.4,
+        "filesystem_wo_to_draft_seconds": 1108.4,
+        "start_utc": "2026-10-29T20:38:12+00:00",
+        "end_utc": "2026-10-29T20:47:36+00:00",
+        "source_words": 1941,
+        "draft_body_words": 2173,
+        "footnotes_count": 17,
+        "footnote_words": 802,
+        "total_output_words": 2975,
+        "draft_to_source_char_ratio": 1.53
+      },
+      {
+        "cohort": 42,
+        "leaf_range": "p411-p420",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 625.0,
+        "subagent_duration_minutes": 10.42,
+        "filesystem_wo_to_draft_seconds": 660.8,
+        "start_utc": "2026-10-29T20:48:17+00:00",
+        "end_utc": "2026-10-29T20:58:42+00:00",
+        "source_words": 1964,
+        "draft_body_words": 2341,
+        "footnotes_count": 25,
+        "footnote_words": 1032,
+        "total_output_words": 3373,
+        "draft_to_source_char_ratio": 1.61
+      },
+      {
+        "cohort": 43,
+        "leaf_range": "p421-p430",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 730.0,
+        "subagent_duration_minutes": 12.17,
+        "filesystem_wo_to_draft_seconds": 674.8,
+        "start_utc": "2026-10-29T20:59:08+00:00",
+        "end_utc": "2026-10-29T21:11:18+00:00",
+        "source_words": 1976,
+        "draft_body_words": 2208,
+        "footnotes_count": 29,
+        "footnote_words": 1075,
+        "total_output_words": 3283,
+        "draft_to_source_char_ratio": 1.59
+      },
+      {
+        "cohort": 44,
+        "leaf_range": "p431-p440",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 724.0,
+        "subagent_duration_minutes": 12.07,
+        "filesystem_wo_to_draft_seconds": 670.3,
+        "start_utc": "2026-10-29T21:11:36+00:00",
+        "end_utc": "2026-10-29T21:23:40+00:00",
+        "source_words": 1992,
+        "draft_body_words": 2310,
+        "footnotes_count": 24,
+        "footnote_words": 1091,
+        "total_output_words": 3401,
+        "draft_to_source_char_ratio": 1.63
+      },
+      {
+        "cohort": 45,
+        "leaf_range": "p441-p450",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 474.0,
+        "subagent_duration_minutes": 7.9,
+        "filesystem_wo_to_draft_seconds": 433.7,
+        "start_utc": "2026-10-29T21:24:01+00:00",
+        "end_utc": "2026-10-29T21:31:55+00:00",
+        "source_words": 1976,
+        "draft_body_words": 2329,
+        "footnotes_count": 12,
+        "footnote_words": 818,
+        "total_output_words": 3147,
+        "draft_to_source_char_ratio": 1.59
+      },
+      {
+        "cohort": 46,
+        "leaf_range": "p451-p460",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 776.0,
+        "subagent_duration_minutes": 12.93,
+        "filesystem_wo_to_draft_seconds": 769.0,
+        "start_utc": "2026-10-29T21:32:18+00:00",
+        "end_utc": "2026-10-29T21:45:14+00:00",
+        "source_words": 1431,
+        "draft_body_words": 2810,
+        "footnotes_count": 21,
+        "footnote_words": 1034,
+        "total_output_words": 3844,
+        "draft_to_source_char_ratio": 2.0
+      },
+      {
+        "cohort": 47,
+        "leaf_range": "p461-p470",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 777.0,
+        "subagent_duration_minutes": 12.95,
+        "filesystem_wo_to_draft_seconds": 801.3,
+        "start_utc": "2026-10-29T21:45:44+00:00",
+        "end_utc": "2026-10-29T21:58:41+00:00",
+        "source_words": 1533,
+        "draft_body_words": 2627,
+        "footnotes_count": 18,
+        "footnote_words": 959,
+        "total_output_words": 3586,
+        "draft_to_source_char_ratio": 1.78
+      },
+      {
+        "cohort": 48,
+        "leaf_range": "p471-p480",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 583.0,
+        "subagent_duration_minutes": 9.72,
+        "filesystem_wo_to_draft_seconds": 486.7,
+        "start_utc": "2026-10-29T21:59:04+00:00",
+        "end_utc": "2026-10-29T22:08:47+00:00",
+        "source_words": 1789,
+        "draft_body_words": 2244,
+        "footnotes_count": 23,
+        "footnote_words": 1350,
+        "total_output_words": 3594,
+        "draft_to_source_char_ratio": 1.47
+      },
+      {
+        "cohort": 49,
+        "leaf_range": "p481-p490",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 803.0,
+        "subagent_duration_minutes": 13.38,
+        "filesystem_wo_to_draft_seconds": 767.8,
+        "start_utc": "2026-10-29T22:09:22+00:00",
+        "end_utc": "2026-10-29T22:22:45+00:00",
+        "source_words": 2047,
+        "draft_body_words": 2936,
+        "footnotes_count": 59,
+        "footnote_words": 2715,
+        "total_output_words": 5651,
+        "draft_to_source_char_ratio": 1.91
+      },
+      {
+        "cohort": 50,
+        "leaf_range": "p491-p500",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 980.0,
+        "subagent_duration_minutes": 16.33,
+        "filesystem_wo_to_draft_seconds": 1001.6,
+        "start_utc": "2026-10-29T22:23:07+00:00",
+        "end_utc": "2026-10-29T22:39:27+00:00",
+        "source_words": 2137,
+        "draft_body_words": 2860,
+        "footnotes_count": 67,
+        "footnote_words": 2317,
+        "total_output_words": 5177,
+        "draft_to_source_char_ratio": 1.86
+      },
+      {
+        "cohort": 51,
+        "leaf_range": "p501-p510",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 685.0,
+        "subagent_duration_minutes": 11.42,
+        "filesystem_wo_to_draft_seconds": 711.6,
+        "start_utc": "2026-10-29T22:39:52+00:00",
+        "end_utc": "2026-10-29T22:51:17+00:00",
+        "source_words": 2116,
+        "draft_body_words": 2658,
+        "footnotes_count": 53,
+        "footnote_words": 1900,
+        "total_output_words": 4558,
+        "draft_to_source_char_ratio": 1.78
+      },
+      {
+        "cohort": 52,
+        "leaf_range": "p511-p520",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 569.0,
+        "subagent_duration_minutes": 9.48,
+        "filesystem_wo_to_draft_seconds": 574.7,
+        "start_utc": "2026-10-29T22:52:11+00:00",
+        "end_utc": "2026-10-29T23:01:40+00:00",
+        "source_words": 2085,
+        "draft_body_words": 2883,
+        "footnotes_count": 24,
+        "footnote_words": 1375,
+        "total_output_words": 4258,
+        "draft_to_source_char_ratio": 1.91
+      },
+      {
+        "cohort": 53,
+        "leaf_range": "p521-p530",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 782.0,
+        "subagent_duration_minutes": 13.03,
+        "filesystem_wo_to_draft_seconds": 809.6,
+        "start_utc": "2026-10-29T23:02:02+00:00",
+        "end_utc": "2026-10-29T23:15:04+00:00",
+        "source_words": 1935,
+        "draft_body_words": 2317,
+        "footnotes_count": 36,
+        "footnote_words": 2013,
+        "total_output_words": 4330,
+        "draft_to_source_char_ratio": 1.59
+      },
+      {
+        "cohort": 54,
+        "leaf_range": "p531-p540",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 663.0,
+        "subagent_duration_minutes": 11.05,
+        "filesystem_wo_to_draft_seconds": 628.3,
+        "start_utc": "2026-10-29T23:15:40+00:00",
+        "end_utc": "2026-10-29T23:26:43+00:00",
+        "source_words": 1200,
+        "draft_body_words": 2128,
+        "footnotes_count": 48,
+        "footnote_words": 2213,
+        "total_output_words": 4341,
+        "draft_to_source_char_ratio": 1.6
+      },
+      {
+        "cohort": 55,
+        "leaf_range": "p541-p550",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 674.0,
+        "subagent_duration_minutes": 11.23,
+        "filesystem_wo_to_draft_seconds": 627.6,
+        "start_utc": "2026-10-29T23:27:23+00:00",
+        "end_utc": "2026-10-29T23:38:37+00:00",
+        "source_words": 1272,
+        "draft_body_words": 1865,
+        "footnotes_count": 108,
+        "footnote_words": 3646,
+        "total_output_words": 5511,
+        "draft_to_source_char_ratio": 1.42
+      },
+      {
+        "cohort": 56,
+        "leaf_range": "p551-p560",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 1156.0,
+        "subagent_duration_minutes": 19.27,
+        "filesystem_wo_to_draft_seconds": 1073.1,
+        "start_utc": "2026-10-29T23:38:53+00:00",
+        "end_utc": "2026-10-29T23:58:09+00:00",
+        "source_words": 1591,
+        "draft_body_words": 2134,
+        "footnotes_count": 141,
+        "footnote_words": 4111,
+        "total_output_words": 6245,
+        "draft_to_source_char_ratio": 1.56
+      },
+      {
+        "cohort": 57,
+        "leaf_range": "p561-p570",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 729.0,
+        "subagent_duration_minutes": 12.15,
+        "filesystem_wo_to_draft_seconds": 659.4,
+        "start_utc": "2026-10-29T23:58:26+00:00",
+        "end_utc": "2026-10-30T00:10:35+00:00",
+        "source_words": 1486,
+        "draft_body_words": 1936,
+        "footnotes_count": 95,
+        "footnote_words": 1123,
+        "total_output_words": 3059,
+        "draft_to_source_char_ratio": 1.49
+      },
+      {
+        "cohort": 58,
+        "leaf_range": "p571-p580",
+        "leaves_count": 10,
+        "subagent_duration_seconds": 1718.0,
+        "subagent_duration_minutes": 28.63,
+        "filesystem_wo_to_draft_seconds": 1537.1,
+        "start_utc": "2026-10-30T00:11:15+00:00",
+        "end_utc": "2026-10-30T00:39:53+00:00",
+        "source_words": 1271,
+        "draft_body_words": 1704,
+        "footnotes_count": 97,
+        "footnote_words": 2958,
+        "total_output_words": 4662,
+        "draft_to_source_char_ratio": 1.46
+      },
+      {
+        "cohort": 59,
+        "leaf_range": "p581-p582",
+        "leaves_count": 2,
+        "subagent_duration_seconds": 434.0,
+        "subagent_duration_minutes": 7.23,
+        "filesystem_wo_to_draft_seconds": 337.4,
+        "start_utc": "2026-10-30T00:40:11+00:00",
+        "end_utc": "2026-10-30T00:47:25+00:00",
+        "source_words": 142,
+        "draft_body_words": 157,
+        "footnotes_count": 7,
+        "footnote_words": 403,
+        "total_output_words": 560,
+        "draft_to_source_char_ratio": 1.44
+      }
+    ]
+  },
+  "dimension_2_gate_and_self_healing_anomalies": {
+    "orchestrator_first_pass_healed_cohorts_count": 33,
+    "orchestrator_retries_count": 0,
+    "quarantined_leaves_count": 0,
+    "triage_inbox_precheck_entries_count": 36,
+    "anomalies_by_category": [
+      {
+        "gate": "Gate 1A (Vocabulary & Doxology Linter)",
+        "cohorts_affected_count": 15,
+        "cohorts_affected": [
+          17,
+          23,
+          24,
+          28,
+          30,
+          32,
+          33,
+          35,
+          37,
+          40,
+          41,
+          42,
+          50,
+          51,
+          53
+        ],
+        "patterns_observed": [
+          "Sedalen -> Sessional Hymn",
+          "Irmos -> Heirmos",
+          "Apolytikion -> Troparion",
+          "for ever and ever -> unto ages of ages"
+        ],
+        "healed_by": "autonomous_orchestrator.py::_apply_vocabulary_and_doxology_healing"
+      },
+      {
+        "gate": "Gate 2 (Hieratic Deity Pronoun Audit)",
+        "cohorts_affected_count": 14,
+        "cohorts_affected": [
+          10,
+          13,
+          20,
+          21,
+          22,
+          25,
+          32,
+          33,
+          34,
+          36,
+          37,
+          47,
+          48,
+          57
+        ],
+        "total_pronouns_healed": 20,
+        "patterns_observed": [
+          "lowercase he/him/his/thou/thee/thy in subordinate psalm clauses"
+        ],
+        "healed_by": "hieratic_pronoun_audit.py --fix via attempt_deterministic_self_healing"
+      },
+      {
+        "gate": "Gate 1B (Anti-Slop Linter)",
+        "cohorts_affected_count": 7,
+        "cohorts_affected": [
+          3,
+          6,
+          9,
+          14,
+          18,
+          27,
+          39
+        ],
+        "total_tokens_healed": 10,
+        "patterns_observed": [
+          "wondrous -> marvelous",
+          "wherefore -> therefore",
+          "verily -> truly",
+          "the priest shall -> active present indicative"
+        ],
+        "healed_by": "autonomous_orchestrator.py::_apply_anti_slop_healing"
+      },
+      {
+        "gate": "Gate 4 (Structural Sequence / Epigraphic Headings)",
+        "cohorts_affected_count": 2,
+        "cohorts_affected": [
+          6,
+          53
+        ],
+        "patterns_observed": [
+          "Leaf p55 (Cohort 6): '# THE ORDER OF THE TYPIKA, WHICH IS THE OBEDNITSA' rejected due to leading 'THE '",
+          "Leaf p529 (Cohort 53): '# SELECTED PSALMS FOR SOLEMN COMMEMORATIONS AND FEASTS OF THE LORD[^864]' rejected due to missing 'PART N:' prefix"
+        ],
+        "healed_by": "autonomous_orchestrator.py::_heal_epigraphic_headings (demoted to inline italics)"
+      },
+      {
+        "gate": "Phase 2 Step 3 (Compiler Cohort & Footnote Self-Healer)",
+        "cohorts_affected_count": 13,
+        "patterns_observed": [
+          "3rd-person -eth verbs (hath, doth, shineth, granteth) in hymn body and footnotes.txt not covered by Phase 1's 13-verb eth_map"
+        ],
+        "healed_by": "compile_final_edition.py::heal_cohort_and_apparatus_text"
+      },
+      {
+        "gate": "Phase 2 Gate 5A (verify_publication_edition.py Unparenthesized Cyrillic)",
+        "cohorts_affected_count": 4,
+        "cohorts_affected": [
+          17,
+          18,
+          44,
+          59
+        ],
+        "source_lines_affected": 9,
+        "gate_violations_reported": 18,
+        "patterns_observed": [
+          "Square-bracketed Cyrillic incipits in rubrics: [Всемирная радость] (c17:L3), [Крест начертав] (c17:L11, c18:L59)",
+          "Greek liturgical exclamation with Cyrillic homoglyphs in square brackets: [κελεύсате] (c44:L15, L18)",
+          "Square-bracketed Cyrillic marginal pen trials on rear flyleaf p581: [ѿ а в г д], [дєду • Бойсько • корну • рокъ], [филипыкъ дѣ҃ • съвѧ...], [свѧтаа троица] (c59:L14-20)"
+        ],
+        "healed_by": "Targeted regex replacement ([...Cyrillic...] -> (*...*)) prior to final --compile-publication pass"
+      }
+    ]
+  },
+  "dimension_3_argon_review_queue_precision": {
+    "total_leaves_in_codex": 582,
+    "total_queued_leaves": 73,
+    "queued_percentage_of_codex": 12.54,
+    "quarantined_leaves": 0,
+    "signals_breakdown": {
+      "epigraphic_uncertainty_markers": 0,
+      "borderline_sgc02_ratio": 12,
+      "dense_polyglot_apparatus": 66,
+      "quarantined_for_argon": 0,
+      "overlap_ratio_and_apparatus": 5
+    },
+    "precision_evaluation": {
+      "true_positive_cruxes_count": 3,
+      "true_positive_leaves": [
+        490,
+        580,
+        581
+      ],
+      "false_positive_noise_count": 70,
+      "precision_rate_percent": 4.11,
+      "false_positive_rate_percent": 95.89,
+      "missed_false_negative_cruxes": [
+        {
+          "leaf": 346,
+          "cohort": 35,
+          "anomaly": "Historical quire lacuna jumping from Feb 5 (St. Agatha) to May 7 (Apparition of the Cross) on a single page"
+        },
+        {
+          "leaf": 395,
+          "cohort": 40,
+          "anomaly": "Physical binding transposition of Folio 210 between July 24 (St. Christina / Sts. Boris & Gleb) and July 25 (Dormition of St. Anna)"
+        }
+      ]
+    },
+    "recommended_calibration": {
+      "dense_polyglot_apparatus_footnote_threshold": "Increase from >= 5 to >= 12 footnotes/leaf (or count only notes > 220 chars)",
+      "borderline_sgc02_ratio_upper_bound": "Increase from 2.20 to 2.65 for abbreviated Church Slavonic rubrical compendia",
+      "codicological_keyword_trigger": "Queue any leaf whose body or footnotes match \\b(lacuna|missing\\s+quire|transpos(ed|ition)|misbound|foliation\\s+jump|colophon|autograph|pen\\s+trial)\\b"
+    }
+  },
+  "dimension_4_compiler_and_monument_edge_cases": [
+    {
+      "id": "EDGE_4A_DYNAMIC_H1_PART_GRANULARITY_SKEW",
+      "component": "scripts/structural_audit.py & scripts/compile_final_edition.py::_slice_parts",
+      "description": "Global whitelisting of '# TONE N' and '# EXAPOSTILARIA' (designed for Octoechoi) alongside rejection of '# THE ORDER OF THE TYPIKA...' (p55) and '# SELECTED PSALMS...' (p529) caused Part 2 ('exapostilaria-of-the-week.md', 204 KB) to absorb the entire Daily Office (p7-p122) and Part 4 ('part-iii-menologion.md', 978 KB) to absorb the Menologion, Triodion, Passion Week, Pentecostarion, Selected Psalms, and Megalynaria (p141-p563)."
+    },
+    {
+      "id": "EDGE_4B_FOOTNOTE_LEAK_AND_SLUG_HYPHEN_TRUNCATION",
+      "component": "scripts/compile_final_edition.py::UniversalPublicationEngine._slice_parts (lines 1011-1025)",
+      "description": "Dynamic H1 extraction did not strip '[^N]' footnote markers from h1_title ('PART IV: RULE FOR HOLY COMMUNION[^1205]') and truncated slug at 40 chars with .strip('_') instead of .strip('-_'), producing trailing hyphens ('...arms-.md') and mid-word cuts ('...marg.md')."
+    },
+    {
+      "id": "EDGE_4C_ELLIPSIS_AND_FOOTNOTE_SEAM_STITCHING",
+      "component": "scripts/compile_final_edition.py::stitch_leaf_stream",
+      "description": "While 3 mid-sentence page breaks were stitched, leaf boundaries where the subagent placed a trailing footnote '[^N]' at the bottom of leaf pK or a leading '...word' ellipsis at the top of leaf p(K+1) remained unmerged."
+    }
+  ],
+  "dimension_5_granular_atomic_tagging_blueprint": {
+    "variable_propers": [
+      {
+        "class": "PROPER_KONTAKION",
+        "count": 257,
+        "regex": "^\\*(?:Another\\s+)?Kontakion(?:\\s+of\\s+[^,*]+)?(?:,\\s*Tone\\s+[1-8])?(?:,\\s*Podoben:[^*]+)?:\\*(?:\\[\\^\\d+\\])?\\s*(.*)$"
+      },
+      {
+        "class": "PROPER_MENOLOGION_DAY",
+        "count": 230,
+        "regex": "^\\*(?:Month\\s+of\\s+[A-Z][a-z]+|On\\s+the\\s+\\d+(?:st|nd|rd|th)\\s+day|In\\s+the\\s+same\\s+month|Synaxarion)\\b[^*]*\\*(?:\\[\\^\\d+\\])?"
+      },
+      {
+        "class": "PROPER_TROPARION",
+        "count": 223,
+        "regex": "^\\*(?:Another\\s+)?Troparion(?:\\s+of\\s+[^,*]+)?(?:,\\s*Tone\\s+[1-8])?:\\*(?:\\[\\^\\d+\\])?\\s*(.*)$"
+      },
+      {
+        "class": "PROPER_PODOBEN_HEADER",
+        "count": 121,
+        "regex": "\\*[^\\n*]*?Tone\\s+([1-8]),\\s*Podoben:\\s*\\\"([^\\\"]+)\\\"\\s*\\(([^)]+)\\)[^*]*\\*"
+      },
+      {
+        "class": "PROPER_THEOTOKION",
+        "count": 88,
+        "regex": "^\\*(?:Cross-|Stavro)?[Tt]heotokion(?:\\s*,\\s*Tone\\s+[1-8])?[^*]*:\\*(?:\\[\\^\\d+\\])?\\s*(.*)$"
+      },
+      {
+        "class": "PROPER_MEGALYNARION",
+        "count": 38,
+        "regex": "(?:^\\*Megalynarion[^*]*:\\*|^\\*\\*We\\s+magnify\\s+(?:Thee|you)\\b[^\\n]*)"
+      },
+      {
+        "class": "PROPER_STICHERON",
+        "count": 17,
+        "regex": "^\\*(?:Sticheron|Stichera|Idiomelon|Prosomoia|On\\s+the\\s+Praises|On\\s+\\\"Lord,\\s+I\\s+have\\s+cried\\\")\\b[^*]*\\*(?:\\[\\^\\d+\\])?"
+      },
+      {
+        "class": "PROPER_SESSIONAL_HYMN",
+        "count": 15,
+        "regex": "^\\*(?:Sessional\\s+[Hh]ymn|Kathisma)(?:\\s*,\\s*Tone\\s+[1-8])?[^*]*:\\*(?:\\[\\^\\d+\\])?\\s*(.*)$"
+      },
+      {
+        "class": "PROPER_EXAPOSTILARION",
+        "count": 14,
+        "regex": "^\\*(?:Exapostilarion|Photagogikon|Hymn\\s+of\\s+Light)[^*]*:\\*(?:\\[\\^\\d+\\])?\\s*(.*)$"
+      },
+      {
+        "class": "PROPER_CANON_ODE_HEIRMOS",
+        "count": 12,
+        "regex": "^\\*(?:Ode|Canticle)\\s+([1-9])(?:\\s*,\\s*Tone\\s+[1-8])?\\.\\s*Heirmos:\\*(?:\\[\\^\\d+\\])?\\s*(.*)$"
+      },
+      {
+        "class": "PROPER_PROKEIMENON",
+        "count": 7,
+        "regex": "^\\*(?:Great\\s+)?Prokeimenon(?:\\s*,\\s*Tone\\s+[1-8])?[^*]*:\\*(?:\\[\\^\\d+\\])?\\s*(.*)$"
+      },
+      {
+        "class": "PROPER_IKOS",
+        "count": 1,
+        "regex": "^\\*Ikos:\\*(?:\\[\\^\\d+\\])?\\s*(.*)$"
+      }
+    ],
+    "fixed_non_propers": [
+      {
+        "class": "NONPROPER_PROCEDURAL_RUBRIC",
+        "count": 701,
+        "regex": "^\\*(?!(?:Troparion|Kontakion|Theotokion|Cross-Theotokion|Ode\\s+\\d|Sessional|Exapostilarion|Photagogikon|Sticheron|Verse|Glory|Both\\s+now|Psalm\\s+\\d|Prayer))[^*\\n]+\\*(?:\\[\\^\\d+\\])?$"
+      },
+      {
+        "class": "META_LEAF_BOUNDARY",
+        "count": 582,
+        "regex": "^===\\s+LEAF\\s+p(\\d+)\\s+===$"
+      },
+      {
+        "class": "NONPROPER_STICHOS_VERSE",
+        "count": 95,
+        "regex": "^\\*Verse(?:\\s+\\d+)?:\\*(?:\\[\\^\\d+\\])?\\s*(.*)$"
+      },
+      {
+        "class": "NONPROPER_DIALOGUE_UTTERANCE",
+        "count": 51,
+        "regex": "^\\*\\*(Priest|Deacon|Reader|Choir|People|Ecclesiarch|Superior|Canonarch):\\*\\*\\s*(.*)$"
+      },
+      {
+        "class": "NONPROPER_DOXOLOGY_TAG",
+        "count": 26,
+        "regex": "^\\*(Glory\\s+to\\s+the\\s+Father[^*]*|Glory\\.\\.\\.\\s*Both\\s+now\\.\\.\\.|Both\\s+now\\s+and\\s+ever[^*]*)\\*(?:\\[\\^\\d+\\])?\\s*(.*)$"
+      },
+      {
+        "class": "META_PART_LANDMARK_H1",
+        "count": 7,
+        "regex": "^#\\s+([^\\n#]+)$"
+      },
+      {
+        "class": "NONPROPER_FIXED_PSALM",
+        "count": 6,
+        "regex": "^\\*Psalm\\s+(\\d+)\\b[^*]*\\*(?:\\[\\^\\d+\\])?"
+      },
+      {
+        "class": "NONPROPER_NAMED_PRAYER",
+        "count": 6,
+        "regex": "^\\*(?:A\\s+)?Prayer\\s+(?:of|to|after|before)\\b[^*]*\\*(?:\\[\\^\\d+\\])?"
+      },
+      {
+        "class": "NONPROPER_OFFICE_HEADER_H2",
+        "count": 5,
+        "regex": "^##\\s+([^\\n#]+)$"
+      },
+      {
+        "class": "PROPER_PATRISTIC_HOMILY",
+        "count": 1,
+        "regex": "^\\*On\\s+the\\s+Holy\\s+and\\s+Great\\s+Sunday\\s+of\\s+Pascha:\\s+The\\s+Catechetical\\s+Word\\s+of\\s+Our\\s+Father\\s+Among\\s+the\\s+Saints\\s+John\\s+Chrysostom\\*"
+      }
+    ]
+  },
+  "dimension_6_top_5_recommendations": [
+    {
+      "rank": 1,
+      "title": "Strip Footnote Markers & Fix Hyphen Truncation in Dynamic H1 Part Slicing",
+      "target_files": [
+        "scripts/compile_final_edition.py::UniversalPublicationEngine._slice_parts"
+      ],
+      "impact": "Eliminates raw '[^N]' markers in codex_registry.json Part titles/handoff notes and prevents trailing hyphens ('...arms-.md') and mid-word filename cuts."
+    },
+    {
+      "rank": 2,
+      "title": "Auto-Parenthesize Square-Bracketed Cyrillic & Sanitize Greek/Cyrillic Homoglyphs",
+      "target_files": [
+        "scripts/autonomous_orchestrator.py::_apply_vocabulary_and_doxology_healing",
+        "scripts/compile_final_edition.py::heal_cohort_and_apparatus_text"
+      ],
+      "impact": "Eliminates 100% of Phase 2 Gate 5A failures caused by '[...Cyrillic...]' brackets in rubrics/marginalia and Greek words contaminated by Cyrillic homoglyphs ('[κελεύсате]')."
+    },
+    {
+      "rank": 3,
+      "title": "Genre-Scoped H1 Landmarks for Horologion / Compendium Codices",
+      "target_files": [
+        "scripts/structural_audit.py::audit_structure",
+        "scripts/autonomous_orchestrator.py::_heal_epigraphic_headings",
+        "data/templates/publication_spec_scaffolds.json"
+      ],
+      "impact": "Prevents Octoechos-specific '# TONE N' / '# EXAPOSTILARIA' H1 landmarks from hijacking Horologion Part slicing and allows '# (THE) ORDER OF...', '# TRIODION', '# PENTECOSTARION', and '# SELECTED PSALMS' to slice modular Parts cleanly."
+    },
+    {
+      "rank": 4,
+      "title": "Recalibrate argon_review_queue.json Thresholds & Add Codicological Anomaly Keywords",
+      "target_files": [
+        "scripts/run_small_pause_gate.py::update_argon_review_queue"
+      ],
+      "impact": "Reduces false-positive Argon queue noise from 95.9% (70/73 leaves) to <10% by raising footnote count threshold from >=5 to >=12 and upper SGC-02 ratio from 2.20 to 2.65, while adding keyword triggers for genuine physical lacunae and folio transpositions."
+    },
+    {
+      "rank": 5,
+      "title": "Unify Phase 1 & Phase 2 '-eth' Verb Healing and Suppress Pre-Heal Triage Noise",
+      "target_files": [
+        "scripts/autonomous_orchestrator.py::_apply_anti_slop_healing",
+        "scripts/run_small_pause_gate.py::main",
+        "data/templates/work_order_template.md"
+      ],
+      "impact": "Applies the full 120-verb morphological '-eth' healer to both body and footnotes during Phase 1 and logs to scratch/triage_inbox.jsonl only when deterministic self-healing fails."
+    }
+  ]
+}

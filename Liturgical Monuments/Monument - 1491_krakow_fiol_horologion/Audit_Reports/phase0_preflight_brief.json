@@ -1,0 +1,398 @@
+{
+  "monument_id": "1491_krakow_fiol_horologion",
+  "title": "1491 Krakow Horologion of Schweipolt Fiol (Часослов Швайпольта Фіоля, Краків, 1491)",
+  "total_physical_pages": 582,
+  "default_cohort_size": 10,
+  "total_cohorts": 59,
+  "vision_budget_contract": {
+    "max_vision_batches": 2,
+    "max_total_leaves": 8,
+    "allowed_front_leaves": [
+      "p1",
+      "p2",
+      "p3",
+      "p4",
+      "p5"
+    ],
+    "allowed_rear_leaves": [
+      "p580",
+      "p581",
+      "p582"
+    ],
+    "forbidden_internal_range": "p6..p579",
+    "forbid_internal_binary_search": true
+  },
+  "cohort_partition_table": [
+    {
+      "cohort": 1,
+      "start_page": 1,
+      "end_page": 10,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 2,
+      "start_page": 11,
+      "end_page": 20,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 3,
+      "start_page": 21,
+      "end_page": 30,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 4,
+      "start_page": 31,
+      "end_page": 40,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 5,
+      "start_page": 41,
+      "end_page": 50,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 6,
+      "start_page": 51,
+      "end_page": 60,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 7,
+      "start_page": 61,
+      "end_page": 70,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 8,
+      "start_page": 71,
+      "end_page": 80,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 9,
+      "start_page": 81,
+      "end_page": 90,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 10,
+      "start_page": 91,
+      "end_page": 100,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 11,
+      "start_page": 101,
+      "end_page": 110,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 12,
+      "start_page": 111,
+      "end_page": 120,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 13,
+      "start_page": 121,
+      "end_page": 130,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 14,
+      "start_page": 131,
+      "end_page": 140,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 15,
+      "start_page": 141,
+      "end_page": 150,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 16,
+      "start_page": 151,
+      "end_page": 160,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 17,
+      "start_page": 161,
+      "end_page": 170,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 18,
+      "start_page": 171,
+      "end_page": 180,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 19,
+      "start_page": 181,
+      "end_page": 190,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 20,
+      "start_page": 191,
+      "end_page": 200,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 21,
+      "start_page": 201,
+      "end_page": 210,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 22,
+      "start_page": 211,
+      "end_page": 220,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 23,
+      "start_page": 221,
+      "end_page": 230,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 24,
+      "start_page": 231,
+      "end_page": 240,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 25,
+      "start_page": 241,
+      "end_page": 250,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 26,
+      "start_page": 251,
+      "end_page": 260,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 27,
+      "start_page": 261,
+      "end_page": 270,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 28,
+      "start_page": 271,
+      "end_page": 280,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 29,
+      "start_page": 281,
+      "end_page": 290,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 30,
+      "start_page": 291,
+      "end_page": 300,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 31,
+      "start_page": 301,
+      "end_page": 310,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 32,
+      "start_page": 311,
+      "end_page": 320,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 33,
+      "start_page": 321,
+      "end_page": 330,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 34,
+      "start_page": 331,
+      "end_page": 340,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 35,
+      "start_page": 341,
+      "end_page": 350,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 36,
+      "start_page": 351,
+      "end_page": 360,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 37,
+      "start_page": 361,
+      "end_page": 370,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 38,
+      "start_page": 371,
+      "end_page": 380,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 39,
+      "start_page": 381,
+      "end_page": 390,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 40,
+      "start_page": 391,
+      "end_page": 400,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 41,
+      "start_page": 401,
+      "end_page": 410,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 42,
+      "start_page": 411,
+      "end_page": 420,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 43,
+      "start_page": 421,
+      "end_page": 430,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 44,
+      "start_page": 431,
+      "end_page": 440,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 45,
+      "start_page": 441,
+      "end_page": 450,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 46,
+      "start_page": 451,
+      "end_page": 460,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 47,
+      "start_page": 461,
+      "end_page": 470,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 48,
+      "start_page": 471,
+      "end_page": 480,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 49,
+      "start_page": 481,
+      "end_page": 490,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 50,
+      "start_page": 491,
+      "end_page": 500,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 51,
+      "start_page": 501,
+      "end_page": 510,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 52,
+      "start_page": 511,
+      "end_page": 520,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 53,
+      "start_page": 521,
+      "end_page": 530,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 54,
+      "start_page": 531,
+      "end_page": 540,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 55,
+      "start_page": 541,
+      "end_page": 550,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 56,
+      "start_page": 551,
+      "end_page": 560,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 57,
+      "start_page": 561,
+      "end_page": 570,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 58,
+      "start_page": 571,
+      "end_page": 580,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 59,
+      "start_page": 581,
+      "end_page": 582,
+      "leaf_count": 2
+    }
+  ],
+  "cohort_markdown_table": "| Cohort | Physical Leaves | Leaf Count |\n| :---: | :---: | :---: |\n| **Cohort 1** | `p1`–`p10` | 10 |\n| **Cohort 2** | `p11`–`p20` | 10 |\n| **Cohort 3** | `p21`–`p30` | 10 |\n| **Cohort 4** | `p31`–`p40` | 10 |\n| **Cohort 5** | `p41`–`p50` | 10 |\n| **Cohort 6** | `p51`–`p60` | 10 |\n| **Cohort 7** | `p61`–`p70` | 10 |\n| **Cohort 8** | `p71`–`p80` | 10 |\n| **Cohort 9** | `p81`–`p90` | 10 |\n| **Cohort 10** | `p91`–`p100` | 10 |\n| **Cohort 11** | `p101`–`p110` | 10 |\n| **Cohort 12** | `p111`–`p120` | 10 |\n| **Cohort 13** | `p121`–`p130` | 10 |\n| **Cohort 14** | `p131`–`p140` | 10 |\n| **Cohort 15** | `p141`–`p150` | 10 |\n| **Cohort 16** | `p151`–`p160` | 10 |\n| **Cohort 17** | `p161`–`p170` | 10 |\n| **Cohort 18** | `p171`–`p180` | 10 |\n| **Cohort 19** | `p181`–`p190` | 10 |\n| **Cohort 20** | `p191`–`p200` | 10 |\n| **Cohort 21** | `p201`–`p210` | 10 |\n| **Cohort 22** | `p211`–`p220` | 10 |\n| **Cohort 23** | `p221`–`p230` | 10 |\n| **Cohort 24** | `p231`–`p240` | 10 |\n| **Cohort 25** | `p241`–`p250` | 10 |\n| **Cohort 26** | `p251`–`p260` | 10 |\n| **Cohort 27** | `p261`–`p270` | 10 |\n| **Cohort 28** | `p271`–`p280` | 10 |\n| **Cohort 29** | `p281`–`p290` | 10 |\n| **Cohort 30** | `p291`–`p300` | 10 |\n| **Cohort 31** | `p301`–`p310` | 10 |\n| **Cohort 32** | `p311`–`p320` | 10 |\n| **Cohort 33** | `p321`–`p330` | 10 |\n| **Cohort 34** | `p331`–`p340` | 10 |\n| **Cohort 35** | `p341`–`p350` | 10 |\n| **Cohort 36** | `p351`–`p360` | 10 |\n| **Cohort 37** | `p361`–`p370` | 10 |\n| **Cohort 38** | `p371`–`p380` | 10 |\n| **Cohort 39** | `p381`–`p390` | 10 |\n| **Cohort 40** | `p391`–`p400` | 10 |\n| **Cohort 41** | `p401`–`p410` | 10 |\n| **Cohort 42** | `p411`–`p420` | 10 |\n| **Cohort 43** | `p421`–`p430` | 10 |\n| **Cohort 44** | `p431`–`p440` | 10 |\n| **Cohort 45** | `p441`–`p450` | 10 |\n| **Cohort 46** | `p451`–`p460` | 10 |\n| **Cohort 47** | `p461`–`p470` | 10 |\n| **Cohort 48** | `p471`–`p480` | 10 |\n| **Cohort 49** | `p481`–`p490` | 10 |\n| **Cohort 50** | `p491`–`p500` | 10 |\n| **Cohort 51** | `p501`–`p510` | 10 |\n| **Cohort 52** | `p511`–`p520` | 10 |\n| **Cohort 53** | `p521`–`p530` | 10 |\n| **Cohort 54** | `p531`–`p540` | 10 |\n| **Cohort 55** | `p541`–`p550` | 10 |\n| **Cohort 56** | `p551`–`p560` | 10 |\n| **Cohort 57** | `p561`–`p570` | 10 |\n| **Cohort 58** | `p571`–`p580` | 10 |\n| **Cohort 59** | `p581`–`p582` | 2 |",
+  "recommended_publication_spec": {
+    "mode": "universal_dynamic_h1",
+    "hub_inbox_folder": "1491_Krakow_Horologion_of_Schweipolt_Fiol",
+    "master_title": "1491 Krakow Horologion of Schweipolt Fiol (Часослов Швайпольта Фіоля, Краків, 1491)",
+    "parts_strategy": "Automatically slices top-level '# <Heading>' divisions discovered in translated Markdown during Phase 2 (--compile-publication).",
+    "footnotes_filename": "1491_krakow_fiol_horologion_footnotes.md"
+  },
+  "flash_execution_guardrails": [],
+  "engine_codified_decisions": {
+    "melodic_models_podobny": "3-Layer Canonical Standard enforced by hymnographic_gold_normalizer.py: *Tone N, Podoben: \"<Canonical English Incipit>\" (<Slavonic Witness>):* (never transliterated-first or square-bracketed).",
+    "heading_and_rubric_hierarchy": "H1 (#) reserved strictly for Part landmarks in publication_spec; H2 (##) allowed only for primary printed day/service headpieces when H1 & H2 is enabled in flash_execution_guardrails; all sub-services, hours, canons, odes, heirmoi, troparia, and rubrics rendered as inline italics (*...*), never ### or ####.",
+    "canon_and_stanza_typography": "Structured Liturgical Stanzas: each Heirmos, Troparion, Theotokion, and Sticheron is a distinct paragraph preceded by its inline italic role tag (*Ode N. Heirmos:*, *Troparion:*, *Theotokion:*). Litany/dialogue speakers in bold (**Priest:**, **Deacon:**, **Choir:**).",
+    "recensional_variants_and_homilies": "100% Epigraphic Fidelity (Rule 16): translate the physical print strictly as inked without silent harmonization to Nikonian or standard modern editions; document significant recensional variants in footnotes [^N].",
+    "front_matter_paratext_and_titulature": "Baroque heraldic virshi rendered in formal rhythmic unrhymed verse with heraldic notes; Early Modern Ruthenian (prosta mova) prefaces rendered in elevated 17th-century theological prose with marginal citations mapped to [^N]; Imperial, Papal, and Archiepiscopal titulature rendered in full diplomatic translation.",
+    "modular_part_slicing_and_appendices": "Follow physical leaf order 100% (Part 0 front matter, Part 1..K primary liturgical divisions/Tones) and isolate distinct rear appendices (Parastas, Hagiography, Typikon/Gospel Pillars) into their own dedicated final Part."
+  }
+}

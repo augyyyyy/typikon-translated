@@ -1,0 +1,87 @@
+=== LEAF p171 ===
+
+*On the 20th day: after Ode 6, Kontakion of the feast. Holy Great-Martyr Eustathius, and his wife, and his children. At "Lord, I have cried", stichera: 3 of the feast, and 3 of the saint; Glory, of the saint, Tone 2: "A second heaven"; Both now, of the feast in the same Tone. At the Aposticha, of the feast; Glory, of the saint, Tone 6: "The adamantine soul"; Both now, of the feast. Troparion:*[^220]  
+*Troparion:*  
+Thy martyrs, O Lord, in their sufferings received imperishable crowns from Thee, our God; for having Thy strength, they cast down the tormentors and crushed the powerless insolence of demons: through their supplications, O Christ God, save our souls!  
+*Glory, and both now: of the feast. At Matins: Troparion 2 times of the feast; Glory, of the saint; Both now, of the feast. Sessional hymn of the feast. Canon of the feast on 6, and of the saint on 6. After Ode 3, Kontakion of the feast. After Ode 6, Kontakion of the saint, Tone 2:*  
+*Kontakion:*  
+Manifestly having imitated the sufferings of Christ, and having faithfully drunk His cup, O Eustathius, thou becamest a partaker and sharer in His glory, receiving from the very God of all divine remission from on high!  
+*At the Aposticha, of the feast. At the Liturgy: From the canon of the feast, Ode 3, and of the saint, Ode 6, on 4; Prokeimenon, Tone 4: "Unto the saints that are in His earth, the Lord hath been marvelous in all His will in them" [LXX Ps. 15:3]; Verse: "I foresaw the Lord always before my face, for He is on my right hand, that I may not be shaken" [LXX Ps. 15:8]. The Epistle to the Ephesians [Eph. 6:10–17, pericope 233]. Alleluia, Tone 4: "The righteous cried, and the Lord gave ear unto them, and delivered them out of all their afflictions" [LXX Ps. 33:18]. The Gospel from Luke [Lk. 21:12–19, Tuesday pericope 106]. Communion verse: "Rejoice in the Lord, O ye righteous: praise is seemly for the upright" [LXX Ps. 32:1].*
+
+=== LEAF p172 ===
+
+*...strengthened by an angel, and willing death, crying with the children: "Come, sweet Phocas, no one else is against us!"*[^221]  
+*On the 22nd day: Kontakion of the Apostle, Tone 8, Podoben: "As First-Fruits" (Яко начатки):*  
+*Kontakion:*  
+As an honorable hierarch and a steadfast passion-bearer, the universe offers unto Thee, O Lord, the divine Apostle Quadratus, in hymns praising his honorable memory, and entreating that remission of transgressions be ever granted for his sake unto those who praise Thee, O Lover of mankind!  
+*At the Aposticha, of the feast; at the Liturgy, what is written on the 3rd of this month, the Epistle and Gospel. Communion verse: "In everlasting remembrance shall the righteous be" [LXX Ps. 111:6].*  
+*On the 23rd day: The Conception of the Honorable, Glorious Prophet, Forerunner, and Baptist John. We celebrate the great day. At Vespers: Stichera on 6; Glory, Tone 6: "From the barren"; Both now, Theotokion. At the Aposticha, of the feast; Glory, Tone 6: "The angel..."; Both now, Theotokion. Troparion, Tone 4:*  
+*Troparion:*  
+Rejoice, O barren one who didst not bear before! For lo, thou hast manifestly conceived the lamp of the Sun, Who is about to illuminate the whole inhabited earth, sick with darkness. Dance, O Zacharias, crying aloud with boldness: "The prophet of the Most High is he that is about to be born!"
+
+=== LEAF p173 ===
+
+*At Matins: Canon of the Octoechos, and of the Forerunner on 6. After Ode 6, Kontakion, Tone 1, Podoben: "In the Womb" (В утробе):*[^222]  
+*Kontakion:*  
+Zacharias the great rejoices radiantly with Elizabeth his all-lauded yoke-mate, having worthily conceived John the Forerunner, whom the Archangel announced with joy, and whom men duly honor as the teacher of grace!  
+*At the Praises: Stichera, 3 on 4; Glory, and both now: "Elizabeth..."; Great Doxology. At the Liturgy: From the canons, Ode 3 and 6; Prokeimenon, Tone 7: "The righteous man shall be glad in the Lord, and shall trust in Him" [LXX Ps. 63:11]; Verse: "Give ear, O God, unto my prayer, when I make supplication unto Thee" [LXX Ps. 63:2]. The Epistle to the Galatians: "Brethren, Abraham had two sons..." [Gal. 4:22–31, pericope 210]. Alleluia, Tone 4: "The righteous man shall flourish like a palm tree" [LXX Ps. 91:13]. The Gospel from Luke: What is written on the Nativity of the Forerunner, read from the half: "At that time, there was a certain priest... The end: to take away my reproach among men" [Lk. 1:5–25, pericope 2]. Communion verse: "In everlasting remembrance shall the righteous be" [LXX Ps. 111:6].*  
+*On the 24th day: The Holy Protomartyr and Equal-to-the-Apostles Thecla. At Vespers: Stichera of the saint on 6; Glory, Tone 6: "Of the passion-bearing..."; Both now, Theotokion. At the Aposticha, of the feast; Glory, Tone 8: "As truly..."; Both now, Theotokion. Troparion, Tone 1:*  
+*Troparion:*  
+Taught by the words of Paul, O Thecla, bride of God...
+
+=== LEAF p174 ===
+
+*...and confirmed in the faith by Peter, called of God, thou wast revealed as a protomartyr and first among women to suffer; thou didst ascend the pyre as unto a place of fair blossoming; wild beasts and bulls were struck with terror before thee, as thou wast armed with the Cross: therefore pray, O all-lauded one, that our souls may be saved!*[^223]  
+*At Matins: Two canons of the Octoechos, and of the saint on 6. After Ode 6, Kontakion, Tone 8:*  
+*Kontakion:*  
+Thou didst shine forth with the beauty of virginity, O maiden, and wast adorned with the crown of martyrdom; thou wast steadfastly entrusted with the apostolate, O glorious one, and didst turn the fiery flame into dew, and muzzle the mouths of beasts, striving to save thyself as thou didst seek Paul, O first-suffering Thecla!  
+*At the Praises: Samoglasny of Tone 3, and of the saint on 4; Glory, Tone 1: "Of virginal purity..."; Both now, Theotokion. At the Aposticha, of the feast; Glory, Tone 2: "O passion-bearer..."; Both now, Theotokion. At the Liturgy: From the canons, Ode 3 and 6; Prokeimenon, Tone 4: "God is marvelous in His saints, the God of Israel" [LXX Ps. 67:36]; Verse: "In congregations bless ye God, the Lord from the springs of Israel" [LXX Ps. 67:27]. The Epistle: pericope 33 [2 Tim. 3:10–15]. Alleluia, Tone 1: "I waited patiently for the Lord, and He gave ear unto me" [LXX Ps. 39:2]. The Gospel from Matthew, Saturday pericope 16 [Mt. 25:1–13]. Communion verse: "Rejoice in the Lord, O ye righteous" [LXX Ps. 32:1].*
+
+=== LEAF p175 ===
+
+*On the 25th day: Our Venerable Mother Euphrosyne of Alexandria. At Vespers: The singing according to custom. Troparion, Tone 8:*[^224]  
+*Troparion:*  
+In thee, O mother Euphrosyne, was preserved with certainty that which is according to the image: for taking up the cross, thou didst follow Christ, and by thy deeds didst teach us to overlook the flesh, for it passes away, and to care for the soul, a thing immortal; therefore, O venerable one, thy spirit rejoices with the angels!  
+*After Ode 6, Kontakion, Tone 2, Podoben: "Seeking the Things on High" (Вышних ища):*  
+*Kontakion:*  
+Desiring to attain unto the life on high, thou didst diligently leave behind the food of below, O mother, and mingledst thyself among men, making no account of thy temporal betrothed!  
+*On the 26th day: The Falling-Asleep of the Holy Apostle and Evangelist John the Theologian. We celebrate the great day. All-Night Vigil. We sing stichera on 8, Tone 1, Podoben: "Joy of the Heavenly Ranks" (Небесных чинов): Glory, Tone 2: "Son of Thunder"; Both now, Theotokion: "The shadow of the Law has passed away"; Entrance, prokeimenon of the day, and 3 readings from the Catholic Epistle of John: "Beloved, if our heart condemn us not..." [1 Jn. 3:21–4:6]; "Beloved, [if God so loved us, we ought also to love one another]..." [1 Jn. 4:11–16]; "Beloved, [if a man say, I love God, and hates his brother, he is a liar]..." [1 Jn. 4:20–5:5].*
+
+=== LEAF p176 ===
+
+*...and if anyone [say]: thus indeed 13 readings. Then the ectenia: "Let us all say", and "Vouchsafe, O Lord"; then the completion of evening prayers. Then we go out into the narthex, singing the samoglasny stichera of Tone 1: "Rivers of theology", "Manifesting purity", "Disciple of the Savior", "He who ineffably"; and 2 of Tone 2: "He who...", "Apostle and Theologian"; Tone 4: "Leaning back..."; Both now, Theotokion. And we enter into the church, singing the stichera that are at the Aposticha, with the verses: "Their sound is gone out into all the earth" [LXX Ps. 18:5]; Verse: "The heavens declare the glory of God" [LXX Ps. 18:2]. Glory, Tone 6: "O apostle of Christ, evangelist..."; Both now, Theotokion. Troparion, Tone 2:*[^225]  
+*Troparion:*  
+O apostle beloved of Christ God, hasten to deliver a defenseless people: He receives thee falling before Him, Who admitted thee when thou leanedst upon His breast; entreat Him, O Theologian, to disperse the impending cloud of the heathen, asking for us peace and great mercy!  
+*It is said 2 times; then "O Theotokos and Virgin" once, sung. Blessing of the loaves, and the rest...*
+
+=== LEAF p177 ===
+
+*...according to custom. At Matins: The customary kathisma, and the Polyeleos; Megalynarion to the Apostle; Prokeimenon, Tone 4: "Their sound is gone out into all the earth" [LXX Ps. 18:5]; Verse: "The heavens declare the glory of God" [LXX Ps. 18:2]. The Gospel from John: The 11th Matins Gospel [Jn. 21:15–25]. Canon of the Octoechos: of the Theotokos on 6, and of the Apostle on 8; Katavasia: "Having traced the Cross" (*Крест начертав*). After Ode 6, Kontakion, Tone 2:*[^226]  
+*Kontakion:*  
+Thy greatness, O virgin disciple, who can tell? For thou pourest forth miracles and gushest forth healings, and prayest for our souls, as the theologian and friend of Christ!  
+*At the Praises: Stichera of the saint, Tone 8: "O marvelous wonder", doubling the 1st; Glory, in the same Tone: "O evangelist John"; Both now, Theotokion; Great Doxology. Dismissal. And after the prayer is sung the sticheron samoglasen, candles preceding, the priest comes and censes the icon of the saint, and so the holy oil is given to the brethren from the lamp of the saint. If there be an igumen-priest, he anoints the brethren, dipping two fingers in the oil; and thus is the complete dismissal.*
+
+=== LEAF p178 ===
+
+*It is fitting to know that thus we celebrate on all feasts on which there is an All-Night Vigil. At the Liturgy: From the canons, Ode 3 and 6; Prokeimenon, Tone 8: "Their sound is gone out into all the earth" [LXX Ps. 18:5]; Verse: "The heavens declare the glory of God" [LXX Ps. 18:2]. The Epistle from the Catholic Epistle of John: "Brethren, no man hath seen God at any time..." [1 Jn. 4:12–19, pericope 73]. Alleluia: "The heavens shall confess Thy wonders, O Lord" [LXX Ps. 88:6]; Verse: "God is glorified in the council of the saints" [LXX Ps. 88:8]. The Gospel on the Sunday after the Exaltation, pericope 67, from John: "At that time, there stood by the cross of Jesus..." [Jn. 19:25–27; 21:24–25]. Communion verse: "Their sound is gone out into all the earth, and their words unto the ends of the world" [LXX Ps. 18:5].*  
+*On the 27th day: The Holy Martyr Callistratus and his Companions. At "Lord, I have cried", stichera of the saint, Tone 4, samoglasny: "Of Thy most precious Cross..."; Both now, Theotokion. Troparion: "Thy martyrs, O Lord". At Matins: After Ode 6, Kontakion, Tone 4, Podoben: "Thou Hast Appeared Today" (Явился еси днесь):*[^227]  
+*Kontakion:*  
+Having endured manifold wounds and received crowns from God, intercede, O blessed ones, for those who celebrate your all-festal memory: O great Callistratus and fellow-sufferers of Christ, pray that He pacify the flock and people; for ye are the confirmation of the faithful!
+
+=== LEAF p179 ===
+
+*On the 28th day: Our Venerable Father and Confessor Chariton. At Vespers: Stichera on 6; Glory, Tone 4: "O God-bearing Chariton"; Both now, Theotokion. At the Aposticha, of the feast; Glory, Tone 8: "And repentance likewise..."; Both now, Theotokion. Troparion: "With the streams of thy tears..." [written on the 3rd of this month]. At Matins: Canon of the Octoechos, and of the saint on 4. After Ode 6, Kontakion, Tone 2, Podoben: "The Firm and God-Proclaiming Preachers" (Твердыя и боговещанныя проповедатели):*[^228]  
+*Kontakion:*  
+Having wasted thy flesh by abstinence, O God-wise one, and reined in the carnal desires, thou wast revealed as flourishing through faith, and like the tree of Paradise didst bud forth, O Chariton, holy father!  
+*At the Aposticha, of the feast; Glory, Tone 6: "O venerable father, from thy youth..."; Both now, Theotokion. At the Liturgy: Prokeimenon, Tone 7: "The saints shall boast in glory, and they shall rejoice upon their beds" [LXX Ps. 149:5]; Verse: "Sing unto the Lord a new song, His praise is in the church of the saints" [LXX Ps. 149:1]. The Epistle: pericope 213 [Gal. 5:22–6:2]: "Brethren, the fruit of the Spirit...". Alleluia, Tone 6: "Blessed is the man that fears the Lord, he shall delight exceedingly in His commandments" [LXX Ps. 111:1]; Verse: "His seed shall be mighty upon the earth" [LXX Ps. 111:2]. The Gospel from Matthew, Thursday of the 3rd week: "The Lord said: All things are delivered unto Me of My Father..." [Mt. 11:27–30]. Communion verse: "In everlasting remembrance shall the righteous be" [LXX Ps. 111:6].*  
+*On the 29th day: Our Venerable Father Cyriacus the Anchorite.*
+
+=== LEAF p180 ===
+
+*At Vespers: Stichera on 6; Glory, of the saint; Both now, Theotokion. At the Aposticha, of the Octoechos; Glory: "The multitude of monastics..."; Both now, Theotokion. Troparion, Tone 1:*[^229]  
+*Troparion:*  
+A dweller of the wilderness and an angel in the flesh, and a wonderworker wast thou shown forth, O our God-bearing father Cyriacus: having received heavenly gifts through fasting, vigilance, and prayers, thou healest the sick and the souls of those who in faith flee unto thee! Glory to Him Who gave thee strength! Glory to Him Who crowned thee! Glory to Him Who works healing for all through thee!  
+*At Matins: Canon of the Octoechos, and of the saint on 6. After Ode 6, Kontakion, Tone 2:*  
+*Kontakion:*  
+Armed divinely with purity of soul, and having unceasing prayer as a spear firmly in hand, thou didst cut down the demonic hosts, O Cyriacus our father, praying unceasingly for all of us!  
+*At the Aposticha...*

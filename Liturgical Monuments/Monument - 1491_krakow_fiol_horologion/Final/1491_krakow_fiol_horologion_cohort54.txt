@@ -1,0 +1,177 @@
+=== LEAF p531 ===
+...where His feet stood! [Ps. 131:7b][^870]
+Then shall all the trees of the forest rejoice! [Ps. 95:12b]
+God is our King before the ages: He hath wrought salvation in the midst of the earth! [Ps. 73:12][^871]
+He is exalted among the nations, He is exalted in the earth! [Ps. 45:11b]
+Sing praises unto the Lord our God, and worship at His footstool, for He is holy! [Ps. 98:5][^872]
+Be Thou exalted above the heavens, O God, and Thy glory over all the earth! [Ps. 56:6]
+I will exalt Thee, O Lord my God! [Ps. 29:2a]
+Save Thy people, O Lord, and bless Thine inheritance: shepherd them, and lift them up unto eternity! [Ps. 27:9][^873]
+
+*For the Apostles:*[^874]
+The heavens declare the glory of God, and the firmament proclaims the work of His hands! [Ps. 18:2]
+The heavens shall praise Thy wonders, O Lord! [Ps. 88:6a]
+Instead of thy fathers shall be thy sons: thou shalt make them princes over all the earth! [Ps. 44:17][^875]
+The God of gods, the Lord hath spoken, and called the earth! [Ps. 49:1a]
+His lightnings lightened the world! [Ps. 96:4a]
+The heavens shall declare His righteousness! [Ps. 96:6a]
+God reigns over the nations! [Ps. 46:9a]
+God is glorified in the council of His saints![^876]
+Marvelous were His judgments! [Ps. 138:14b][^877]
+Say...
+
+=== LEAF p532 ===
+...among the nations that the Lord reigns! For He hath established the world, so that it shall not be moved! [Ps. 95:10][^878]
+Into all the earth is their voice gone out, and their words unto the ends of the world! [Ps. 18:5][^879]
+He gave them the lands of the heathen, and they inherited the labors of the peoples! [Ps. 104:44]
+He hath subdued peoples under us, and nations under our feet! [Ps. 46:4]
+The Lord hath chosen an inheritance for Himself! [Ps. 46:5 / 134:4][^880]
+Great is our Lord, and great is His power, and of His understanding there is no number! [Ps. 146:5]
+He shall give strength and power unto His people! [Ps. 67:36c]
+
+*For Martyrs:*[^881]
+God is our refuge and strength, a helper in afflictions that have come upon us exceedingly! [Ps. 45:2]
+Therefore will we not fear when the earth is troubled! [Ps. 45:3a][^882]
+O God, who shall be like unto Thee? Keep not silence, nor be still, O God! [Ps. 82:2]
+For lo, Thine enemies have made a tumult, and they that hate Thee have lifted up the head! [Ps. 82:3]
+Against Thy people have they taken crafty counsel, and conspired against Thy holy ones! [Ps. 82:4]
+They have said: Come, and let us destroy them from among the nations! [Ps. 82:5a][^883]
+They have laid the dead bodies of Thy...
+
+=== LEAF p533 ===
+...servants to be food for the birds of heaven, the flesh of Thy holy ones for the wild beasts of the earth! [Ps. 78:2][^884]
+Their blood have they shed like water! [Ps. 78:3a]
+We are accounted as sheep for the slaughter! [Ps. 43:23b]
+While my bones were broken, mine enemies reproached me! [Ps. 41:11a]
+I was ready for stripes the whole day long, and they added grief unto my wounds! [Ps. 37:18b / 68:27][^885]
+For Thou, O God, hast proved us: Thou hast tried us with fire, even as silver is tried! [Ps. 65:10]
+We went through fire and through water, and Thou broughtest us out into Thy rest! [Ps. 65:12b][^886]
+The righteous cried, and the Lord heard them, and saved them out of all their afflictions! [Ps. 33:18]
+Many are the afflictions of the righteous, but the Lord shall deliver them out of them all! [Ps. 33:20]
+The righteous shall be glad in the Lord! [Ps. 63:11a]
+Give praise unto the remembrance of His holiness! [Ps. 29:5b / 96:12b]
+Rejoice in the Lord, O ye righteous: praise is meet for the upright! [Ps. 32:1]
+The righteous shall be in everlasting remembrance: he shall not be afraid of an evil report! [Ps. 111:6b–7a][^887]
+Unto the saints that are in His earth: the Lord hath made marvelous all His desires...
+
+=== LEAF p534 ===
+...in them! [Ps. 15:3][^888]
+The righteous shall flourish like a palm tree: he shall grow like a cedar in Lebanon! [Ps. 91:13]
+Those that are planted in the house of the Lord shall flourish in the courts of the house of our God! [Ps. 91:14]
+And all the upright in heart shall glory! [Ps. 63:11b]
+
+*For Hierarchs:*[^889]
+Hear these things, all ye nations; give ear, all ye that inhabit the world! [Ps. 48:2][^890]
+Both the earth-born and the sons of men, rich and poor together! [Ps. 48:3]
+My mouth shall speak wisdom, and the meditation of my heart shall be understanding! [Ps. 48:4]
+Come, ye children, listen unto me: I will teach you the fear of the Lord! [Ps. 33:12]
+I have declared the good tidings of Thy righteousness in the great congregation! [Ps. 39:10a]
+I have not hidden Thy righteousness within my heart: I have declared Thy truth and Thy salvation! [Ps. 39:11a]
+I have not concealed Thy mercy from the great assembly! [Ps. 39:11b][^891]
+I will confess Thee in the great congregation! [Ps. 34:18a]
+My tongue shall meditate on Thy righteousness! [Ps. 34:28a]
+Let my mouth be filled with Thy praise, that I may sing of Thy glory! [Ps. 70:8]
+Lord, I have loved the beauty...
+
+=== LEAF p535 ===
+...of Thine house! [Ps. 25:8a][^892]
+I have not sat with the council of vanity, neither will I enter in with transgressors! [Ps. 25:4]
+I said unto the transgressors: Deal not transgressively! [Ps. 74:5a]
+I have hated the congregation of evil-doers, and will not sit with the ungodly! [Ps. 25:5]
+And I will go round, and offer in His tabernacle a sacrifice of praise! [Ps. 26:6b][^893]
+But I am as a fruitful olive tree: I have trusted in the mercy of God, for it is great! [Ps. 51:10][^894]
+For I have kept the ways of the Lord, and have not acted wickedly against my God! [Ps. 17:22]
+For all His judgments were before me, and His statutes departed not from me! [Ps. 17:23]
+The mouth of the righteous shall meditate wisdom, and his tongue shall speak judgment! [Ps. 36:30]
+The righteous shall be in everlasting remembrance: he shall not be afraid of an evil report! [Ps. 111:6b–7a]
+All the day long the righteous shows mercy, and lends; and his seed is blessed! [Ps. 36:26][^895]
+The righteous shall flourish like a palm tree: he shall grow like a cedar in Lebanon! [Ps. 91:13]
+For Thou, O Lord, wilt bless the righteous! [Ps. 5:13a]
+The righteous shall rejoice...
+
+=== LEAF p536 ===
+...in the Lord, and shall trust in Him! [Ps. 63:11a]
+Thy priests shall be clothed with righteousness, and Thy venerable ones shall rejoice with joy! [Ps. 131:9][^896]
+
+*For the Venerable [Monastics]:*[^897]
+With patience I waited for the Lord, and He inclined unto me! [Ps. 39:2a]
+He set my feet upon a rock, and ordered my goings! [Ps. 39:3a]
+I am become like a pelican of the wilderness, I am become like an owl in a ruined place! [Ps. 101:7][^898]
+I was forgotten, like a solitary bird upon a nest! [Ps. 101:8][^899]
+My tears have been my bread day and night! [Ps. 41:4a]
+I humbled my soul with fasting! [Ps. 34:13b]
+My knees are grown weak through fasting! [Ps. 108:24a]
+And I mingled my drink with weeping! [Ps. 101:10b]
+I am weary with my groaning; every night will I wash my bed! [Ps. 6:7a]
+By reason of the voice of my groaning my flesh cleaves unto my bone! [Ps. 101:6][^900]
+I waited for God Who saves me from faint-heartedness and tempest! [Ps. 54:9][^901]
+By the words of Thy lips I have kept the harsh paths! [Ps. 16:4b]
+My soul has thirsted...
+
+=== LEAF p537 ===
+...for Thee: how manifoldly hath my flesh longed for Thee in a barren land! [Ps. 62:2b][^902]
+As for me, when they troubled me, I put on sackcloth, and humbled my soul with fasting! [Ps. 34:13a]
+I beheld the Lord always before me; for He is on my right hand, that I should not be moved! [Ps. 15:8][^903]
+The Lord was my stay: He brought me forth into a large place! [Ps. 17:19b–20a]
+All nations compassed me about, and in the name of the Lord I warded them off! [Ps. 117:10]
+Blessed be the Lord, Who hath not given us over as a prey to their teeth! [Ps. 123:6]
+Depart from me, all ye that work iniquity! [Ps. 6:9a]
+The Lord preserves the souls of His venerable ones! [Ps. 96:10b]
+The venerable ones shall boast in glory, they shall rejoice upon their beds! [Ps. 149:5]
+Precious in the sight of the Lord is the death of His venerable ones! [Ps. 115:6][^904]
+Confess the remembrance of His holiness! [Ps. 29:5b]
+
+*For Archangels and Angels:*[^905]
+Praise the Lord from the heavens: praise Him in the heights! [Ps. 148:1]
+Praise Him, all ye His angels: praise Him, all ye His hosts! [Ps. 148:2]
+Praise Him, all ye stars...
+
+=== LEAF p538 ===
+...and light! For He spoke, and they were made; He commanded, and they were created! [Ps. 148:3b, 5b][^906]
+Bless the Lord, O my soul, and all that is within me, bless His holy name! [Ps. 102:1]
+Bless the Lord, all ye His angels, mighty in strength, that fulfill His word, listening unto the voice of His words! [Ps. 102:20]
+Bless the Lord, all ye His hosts, ye ministers of His that do His will! [Ps. 102:21]
+Who makes His angels spirits, and His ministers a flaming fire! [Ps. 103:4][^907]
+He rode upon the Cherubim, and flew: He flew upon the wings of the wind! [Ps. 17:11]
+Thou that sittest upon the Cherubim, show Thyself! [Ps. 79:2b]
+I will praise Thee with my whole heart, and before the angels will I sing praise unto Thee! [Ps. 137:1]
+Worship Him, all ye His angels! [Ps. 96:7b]
+God sits upon His holy throne! [Ps. 46:9b]
+The Lord is in His holy temple, the Lord's throne is in heaven! [Ps. 10:4a]
+His kingdom rules over all! [Ps. 102:19b]
+Sing unto God, sing praises to His name! Sing unto God Who ascended above the heaven of heavens to the east! [Ps. 67:5a, 34a][^908]
+The angel of the Lord shall encamp round about them that fear Him, and deliver them! [Ps. 33:8]
+For He shall give His angels charge concerning thee, to keep thee in all thy...
+
+=== LEAF p539 ===
+...ways! [Ps. 90:11][^909]
+Let them be as dust before the face of the wind, and let the angel of the Lord afflict them! [Ps. 34:5]
+Let their way be dark and slippery, and let the angel of the Lord pursue them! [Ps. 34:6][^910]
+Praise God in His saints: praise Him in the firmament of His power! [Ps. 150:1]
+Praise Him for His mighty acts: praise Him according to the multitude of His greatness! [Ps. 150:2]
+Praise Him with the sound of the trumpet: praise Him with the psaltery and harp! [Ps. 150:3]
+Praise Him with the timbrel and dance: praise Him with strings and organs! [Ps. 150:4]
+Praise Him upon the loud cymbals: praise Him upon the cymbals of jubilation! [Ps. 150:5]
+Let everything that hath breath praise the Lord! [Ps. 150:6][^911]
+
+*For the Entry of the Most Holy Theotokos into the Temple [November 21]:*[^912]
+Great is the Lord, and greatly to be praised in the city of our God, in His holy mountain! [Ps. 47:2]
+Well-rooted with the joy of the whole earth! [Ps. 47:3a][^913]
+Glorious things are spoken of thee, O city of God! [Ps. 86:3]
+God is known in her palaces, when...
+
+=== LEAF p540 ===
+...He defends her! [Ps. 47:4][^914]
+As we have heard, so have we also seen, in the city of the Lord of hosts, in the city of our God: God hath established it unto eternity! [Ps. 47:9]
+The Most High hath sanctified His tabernacle! [Ps. 45:5b]
+God is in the midst of her, she shall not be moved! [Ps. 45:6a]
+Sanctity and majesty are in His sanctuary! [Ps. 95:6b][^915]
+This is the gate of the Lord: the righteous shall enter into it! [Ps. 117:20]
+According to Thy name, O God, so is Thy praise unto the ends of the earth! [Ps. 47:11a]
+Holy is Thy temple, marvelous in righteousness! [Ps. 64:5b–c]
+Holiness becomes Thine house, O Lord, unto length of days! [Ps. 92:5b]
+Kings' daughters were in Thine honor: upon Thy right hand stood the queen in vesture of gold, all-embroidered and adorned! [Ps. 44:10][^916]
+Hear, O daughter, and see, and incline thine ear; forget also thine own people, and thy father's house! [Ps. 44:11]
+So shall the King greatly desire thy beauty! [Ps. 44:12a]
+The rich among the people shall entreat thy countenance! [Ps. 44:13b]
+All the glory of the king's daughter is within! [Ps. 44:14a][^917]
