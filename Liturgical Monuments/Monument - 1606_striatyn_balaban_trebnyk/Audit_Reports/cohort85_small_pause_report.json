@@ -1,0 +1,125 @@
+{
+  "timestamp": "2026-10-30T05:40:51.607158+00:00",
+  "monument_id": "1606_striatyn_balaban_trebnyk",
+  "cohort": 85,
+  "target_file": "1606_striatyn_balaban_trebnyk_cohort85_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1606_striatyn_balaban_trebnyk_cohort85_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1606_striatyn_balaban_trebnyk_cohort85_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1606_striatyn_balaban_trebnyk_cohort85_raw_draft.md",
+      "footnotes_file": "1606_striatyn_balaban_trebnyk_cohort85_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 31,
+      "definition_markers_count": 31,
+      "text_markers": [
+        "[^2393]",
+        "[^2394]",
+        "[^2395]",
+        "[^2396]",
+        "[^2397]",
+        "[^2398]",
+        "[^2399]",
+        "[^2400]",
+        "[^2401]",
+        "[^2402]",
+        "[^2403]",
+        "[^2404]",
+        "[^2405]",
+        "[^2406]",
+        "[^2407]",
+        "[^2408]",
+        "[^2409]",
+        "[^2410]",
+        "[^2411]",
+        "[^2412]",
+        "[^2413]",
+        "[^2414]",
+        "[^2415]",
+        "[^2416]",
+        "[^2417]",
+        "[^2418]",
+        "[^2419]",
+        "[^2420]",
+        "[^2421]",
+        "[^2422]",
+        "[^2423]"
+      ],
+      "definition_markers": [
+        "[^2393]",
+        "[^2394]",
+        "[^2395]",
+        "[^2396]",
+        "[^2397]",
+        "[^2398]",
+        "[^2399]",
+        "[^2400]",
+        "[^2401]",
+        "[^2402]",
+        "[^2403]",
+        "[^2404]",
+        "[^2405]",
+        "[^2406]",
+        "[^2407]",
+        "[^2408]",
+        "[^2409]",
+        "[^2410]",
+        "[^2411]",
+        "[^2412]",
+        "[^2413]",
+        "[^2414]",
+        "[^2415]",
+        "[^2416]",
+        "[^2417]",
+        "[^2418]",
+        "[^2419]",
+        "[^2420]",
+        "[^2421]",
+        "[^2422]",
+        "[^2423]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1606_striatyn_balaban_trebnyk_cohort85_raw_draft.md",
+      "passed": true,
+      "paragraphs": 33,
+      "headings_count": 0,
+      "headings": [],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 841,
+        "max_leaf": 850
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "total_queued_leaves": 118,
+    "unresolved_quarantines": 0
+  }
+}

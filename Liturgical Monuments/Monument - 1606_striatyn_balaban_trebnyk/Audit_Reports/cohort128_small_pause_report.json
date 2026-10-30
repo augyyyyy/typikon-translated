@@ -1,0 +1,120 @@
+{
+  "timestamp": "2026-10-30T14:18:28.145760+00:00",
+  "monument_id": "1606_striatyn_balaban_trebnyk",
+  "cohort": 128,
+  "target_file": "1606_striatyn_balaban_trebnyk_cohort128_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1606_striatyn_balaban_trebnyk_cohort128_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1606_striatyn_balaban_trebnyk_cohort128_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1606_striatyn_balaban_trebnyk_cohort128_raw_draft.md",
+      "footnotes_file": "1606_striatyn_balaban_trebnyk_cohort128_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 25,
+      "definition_markers_count": 25,
+      "text_markers": [
+        "[^3889]",
+        "[^3890]",
+        "[^3891]",
+        "[^3892]",
+        "[^3893]",
+        "[^3894]",
+        "[^3895]",
+        "[^3896]",
+        "[^3897]",
+        "[^3898]",
+        "[^3899]",
+        "[^3900]",
+        "[^3901]",
+        "[^3902]",
+        "[^3903]",
+        "[^3904]",
+        "[^3905]",
+        "[^3906]",
+        "[^3907]",
+        "[^3908]",
+        "[^3909]",
+        "[^3910]",
+        "[^3911]",
+        "[^3912]",
+        "[^3913]"
+      ],
+      "definition_markers": [
+        "[^3889]",
+        "[^3890]",
+        "[^3891]",
+        "[^3892]",
+        "[^3893]",
+        "[^3894]",
+        "[^3895]",
+        "[^3896]",
+        "[^3897]",
+        "[^3898]",
+        "[^3899]",
+        "[^3900]",
+        "[^3901]",
+        "[^3902]",
+        "[^3903]",
+        "[^3904]",
+        "[^3905]",
+        "[^3906]",
+        "[^3907]",
+        "[^3908]",
+        "[^3909]",
+        "[^3910]",
+        "[^3911]",
+        "[^3912]",
+        "[^3913]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1606_striatyn_balaban_trebnyk_cohort128_raw_draft.md",
+      "passed": true,
+      "paragraphs": 34,
+      "headings_count": 1,
+      "headings": [
+        {
+          "line": 5,
+          "level": 1,
+          "title": "PART L: EPISTLE OF JOHN, MOST HOLY BISHOP OF KITROS, UNTO THE MOST SACRED BISHOP OF DYRRACHIUM, CABASILAS: ON THE DISPENSATION OF FOODS IN THE HANDED-DOWN WEEKS, AND WHICH THESE ARE[^3889]",
+          "leaf": 1271
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 1271,
+        "max_leaf": 1280
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "total_queued_leaves": 240,
+    "unresolved_quarantines": 0
+  }
+}

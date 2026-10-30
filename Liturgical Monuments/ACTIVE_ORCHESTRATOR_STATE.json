@@ -1,8 +1,8 @@
 {
-  "active_monument": "1606 Striatyn Euchologion / Trebnyk of Teodor & Hedeon Balaban (Молитвенник альбо Требник, Стрятин: Друкарня Балабанів, 1606)",
+  "active_monument": "1606 Striatyn Euchologion / Trebnyk of Teodor & Hedeon Balaban (SEALED)",
   "monument_id": "1606_striatyn_balaban_trebnyk",
-  "status": "in_progress",
-  "active_lease": true,
+  "status": "completed",
+  "active_lease": false,
   "total_physical_pages": 1401,
   "completed_cohorts": [
     1,
@@ -158,23 +158,8 @@
   "cohort_retry_counts": {
     "2": 1
   },
-  "small_pause_gate_status": "GRAND_PAUSE_READY_FOR_HUMAN_INSPECTION",
+  "small_pause_gate_status": "MONUMENT_SEALED_AND_HANDED_OFF",
   "active_blockers": [],
-  "updated_at": "2026-10-30T17:57:13.458238+00:00",
-  "concurrent_active_monuments": {
-    "1606_striatyn_balaban_trebnyk": {
-      "monument_id": "1606_striatyn_balaban_trebnyk",
-      "active_monument": "1606 Striatyn Euchologion / Trebnyk of Teodor & Hedeon Balaban (Молитвенник альбо Требник, Стрятин: Друкарня Балабанів, 1606)",
-      "routing_phase": "PHASE_2_GRAND_PAUSE_READY",
-      "current_cohort": 141,
-      "current_cohort_range": "pp. 1401-1401 (leaves p1401-p1401)",
-      "translated_pages": 1401,
-      "total_physical_pages": 1401,
-      "remaining_pages": 0,
-      "small_pause_gate_status": "GRAND_PAUSE_READY_FOR_HUMAN_INSPECTION",
-      "argon_review_queue_count": 0,
-      "unresolved_quarantines": 0,
-      "active_lease": true
-    }
-  }
+  "updated_at": "2026-10-30T18:04:02.085604+00:00",
+  "concurrent_active_monuments": {}
 }

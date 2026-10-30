@@ -1,0 +1,3236 @@
+{
+  "monument_id": "1606_striatyn_balaban_trebnyk",
+  "updated_at": "2026-10-30T17:56:53.348914+00:00",
+  "total_queued_leaves": 0,
+  "unresolved_quarantines": 0,
+  "items": [
+    {
+      "leaf_num": 178,
+      "cohort": 18,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort18_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort18_source.txt",
+      "updated_at": "2026-10-29T16:05:26.572064+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703927+00:00"
+    },
+    {
+      "leaf_num": 180,
+      "cohort": 18,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort18_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort18_source.txt",
+      "updated_at": "2026-10-29T16:05:26.572302+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703940+00:00"
+    },
+    {
+      "leaf_num": 182,
+      "cohort": 19,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort19_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort19_source.txt",
+      "updated_at": "2026-10-29T16:18:41.091796+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703944+00:00"
+    },
+    {
+      "leaf_num": 184,
+      "cohort": 19,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort19_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort19_source.txt",
+      "updated_at": "2026-10-29T16:18:41.092010+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703946+00:00"
+    },
+    {
+      "leaf_num": 188,
+      "cohort": 19,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort19_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort19_source.txt",
+      "updated_at": "2026-10-29T16:18:41.092306+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703948+00:00"
+    },
+    {
+      "leaf_num": 203,
+      "cohort": 21,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort21_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort21_source.txt",
+      "updated_at": "2026-10-29T16:42:32.863166+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703949+00:00"
+    },
+    {
+      "leaf_num": 242,
+      "cohort": 25,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort25_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort25_source.txt",
+      "updated_at": "2026-10-29T17:42:45.364456+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703953+00:00"
+    },
+    {
+      "leaf_num": 243,
+      "cohort": 25,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort25_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort25_source.txt",
+      "updated_at": "2026-10-29T17:42:45.364566+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703954+00:00"
+    },
+    {
+      "leaf_num": 244,
+      "cohort": 25,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort25_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort25_source.txt",
+      "updated_at": "2026-10-29T17:42:45.364656+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703956+00:00"
+    },
+    {
+      "leaf_num": 247,
+      "cohort": 25,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort25_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort25_source.txt",
+      "updated_at": "2026-10-29T17:42:45.364789+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703958+00:00"
+    },
+    {
+      "leaf_num": 249,
+      "cohort": 25,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort25_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort25_source.txt",
+      "updated_at": "2026-10-29T17:42:45.364898+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703959+00:00"
+    },
+    {
+      "leaf_num": 252,
+      "cohort": 26,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort26_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort26_source.txt",
+      "updated_at": "2026-10-29T17:54:23.763195+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703961+00:00"
+    },
+    {
+      "leaf_num": 253,
+      "cohort": 26,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort26_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort26_source.txt",
+      "updated_at": "2026-10-29T17:54:23.763348+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703963+00:00"
+    },
+    {
+      "leaf_num": 254,
+      "cohort": 26,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort26_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort26_source.txt",
+      "updated_at": "2026-10-29T17:54:23.763491+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703964+00:00"
+    },
+    {
+      "leaf_num": 255,
+      "cohort": 26,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort26_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort26_source.txt",
+      "updated_at": "2026-10-29T17:54:23.763631+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703966+00:00"
+    },
+    {
+      "leaf_num": 256,
+      "cohort": 26,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort26_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort26_source.txt",
+      "updated_at": "2026-10-29T17:54:23.763769+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703967+00:00"
+    },
+    {
+      "leaf_num": 257,
+      "cohort": 26,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort26_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort26_source.txt",
+      "updated_at": "2026-10-29T17:54:23.763905+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703969+00:00"
+    },
+    {
+      "leaf_num": 258,
+      "cohort": 26,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort26_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort26_source.txt",
+      "updated_at": "2026-10-29T17:54:23.764046+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703971+00:00"
+    },
+    {
+      "leaf_num": 259,
+      "cohort": 26,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort26_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort26_source.txt",
+      "updated_at": "2026-10-29T17:54:23.764183+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703972+00:00"
+    },
+    {
+      "leaf_num": 260,
+      "cohort": 26,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort26_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort26_source.txt",
+      "updated_at": "2026-10-29T17:54:23.764378+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703974+00:00"
+    },
+    {
+      "leaf_num": 263,
+      "cohort": 27,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort27_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort27_source.txt",
+      "updated_at": "2026-10-29T18:09:25.647728+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703975+00:00"
+    },
+    {
+      "leaf_num": 267,
+      "cohort": 27,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort27_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort27_source.txt",
+      "updated_at": "2026-10-29T18:09:25.648004+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703977+00:00"
+    },
+    {
+      "leaf_num": 271,
+      "cohort": 28,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort28_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort28_source.txt",
+      "updated_at": "2026-10-29T18:25:15.813145+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703978+00:00"
+    },
+    {
+      "leaf_num": 272,
+      "cohort": 28,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort28_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort28_source.txt",
+      "updated_at": "2026-10-29T18:25:15.813244+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703980+00:00"
+    },
+    {
+      "leaf_num": 273,
+      "cohort": 28,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort28_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort28_source.txt",
+      "updated_at": "2026-10-29T18:25:15.813332+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703981+00:00"
+    },
+    {
+      "leaf_num": 275,
+      "cohort": 28,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort28_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort28_source.txt",
+      "updated_at": "2026-10-29T18:25:15.813443+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703983+00:00"
+    },
+    {
+      "leaf_num": 277,
+      "cohort": 28,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort28_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort28_source.txt",
+      "updated_at": "2026-10-29T18:25:15.813552+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703985+00:00"
+    },
+    {
+      "leaf_num": 278,
+      "cohort": 28,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort28_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort28_source.txt",
+      "updated_at": "2026-10-29T18:25:15.813632+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703986+00:00"
+    },
+    {
+      "leaf_num": 279,
+      "cohort": 28,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort28_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort28_source.txt",
+      "updated_at": "2026-10-29T18:25:15.813712+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703988+00:00"
+    },
+    {
+      "leaf_num": 281,
+      "cohort": 29,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort29_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort29_source.txt",
+      "updated_at": "2026-10-29T18:38:44.941075+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703989+00:00"
+    },
+    {
+      "leaf_num": 282,
+      "cohort": 29,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort29_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort29_source.txt",
+      "updated_at": "2026-10-29T18:38:44.941176+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703991+00:00"
+    },
+    {
+      "leaf_num": 283,
+      "cohort": 29,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort29_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort29_source.txt",
+      "updated_at": "2026-10-29T18:38:44.941267+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703992+00:00"
+    },
+    {
+      "leaf_num": 284,
+      "cohort": 29,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort29_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort29_source.txt",
+      "updated_at": "2026-10-29T18:38:44.941354+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703994+00:00"
+    },
+    {
+      "leaf_num": 285,
+      "cohort": 29,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort29_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort29_source.txt",
+      "updated_at": "2026-10-29T18:38:44.941440+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703995+00:00"
+    },
+    {
+      "leaf_num": 286,
+      "cohort": 29,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort29_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort29_source.txt",
+      "updated_at": "2026-10-29T18:38:44.941522+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703997+00:00"
+    },
+    {
+      "leaf_num": 289,
+      "cohort": 29,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort29_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort29_source.txt",
+      "updated_at": "2026-10-29T18:38:44.941655+00:00",
+      "resolved_at": "2026-10-30T17:52:48.703998+00:00"
+    },
+    {
+      "leaf_num": 291,
+      "cohort": 30,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort30_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort30_source.txt",
+      "updated_at": "2026-10-29T18:52:51.043897+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704000+00:00"
+    },
+    {
+      "leaf_num": 292,
+      "cohort": 30,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort30_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort30_source.txt",
+      "updated_at": "2026-10-29T18:52:51.044008+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704001+00:00"
+    },
+    {
+      "leaf_num": 293,
+      "cohort": 30,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort30_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort30_source.txt",
+      "updated_at": "2026-10-29T18:52:51.044129+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704003+00:00"
+    },
+    {
+      "leaf_num": 294,
+      "cohort": 30,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort30_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort30_source.txt",
+      "updated_at": "2026-10-29T18:52:51.044272+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704004+00:00"
+    },
+    {
+      "leaf_num": 295,
+      "cohort": 30,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort30_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort30_source.txt",
+      "updated_at": "2026-10-29T18:52:51.044433+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704006+00:00"
+    },
+    {
+      "leaf_num": 296,
+      "cohort": 30,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort30_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort30_source.txt",
+      "updated_at": "2026-10-29T18:52:51.044557+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704008+00:00"
+    },
+    {
+      "leaf_num": 297,
+      "cohort": 30,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort30_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort30_source.txt",
+      "updated_at": "2026-10-29T18:52:51.044715+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704009+00:00"
+    },
+    {
+      "leaf_num": 298,
+      "cohort": 30,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort30_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort30_source.txt",
+      "updated_at": "2026-10-29T18:52:51.044872+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704011+00:00"
+    },
+    {
+      "leaf_num": 299,
+      "cohort": 30,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort30_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort30_source.txt",
+      "updated_at": "2026-10-29T18:52:51.045022+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704012+00:00"
+    },
+    {
+      "leaf_num": 300,
+      "cohort": 30,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort30_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort30_source.txt",
+      "updated_at": "2026-10-29T18:52:51.045127+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704014+00:00"
+    },
+    {
+      "leaf_num": 301,
+      "cohort": 31,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort31_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort31_source.txt",
+      "updated_at": "2026-10-29T19:04:14.493744+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704015+00:00"
+    },
+    {
+      "leaf_num": 302,
+      "cohort": 31,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort31_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort31_source.txt",
+      "updated_at": "2026-10-29T19:04:14.493846+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704017+00:00"
+    },
+    {
+      "leaf_num": 303,
+      "cohort": 31,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort31_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort31_source.txt",
+      "updated_at": "2026-10-29T19:04:14.493936+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704018+00:00"
+    },
+    {
+      "leaf_num": 304,
+      "cohort": 31,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort31_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort31_source.txt",
+      "updated_at": "2026-10-29T19:04:14.494033+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704020+00:00"
+    },
+    {
+      "leaf_num": 305,
+      "cohort": 31,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort31_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort31_source.txt",
+      "updated_at": "2026-10-29T19:04:14.494120+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704021+00:00"
+    },
+    {
+      "leaf_num": 306,
+      "cohort": 31,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort31_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort31_source.txt",
+      "updated_at": "2026-10-29T19:04:14.494208+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704023+00:00"
+    },
+    {
+      "leaf_num": 309,
+      "cohort": 31,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort31_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort31_source.txt",
+      "updated_at": "2026-10-29T19:04:14.494345+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704024+00:00"
+    },
+    {
+      "leaf_num": 310,
+      "cohort": 31,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort31_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort31_source.txt",
+      "updated_at": "2026-10-29T19:04:14.494435+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704026+00:00"
+    },
+    {
+      "leaf_num": 311,
+      "cohort": 32,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort32_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort32_source.txt",
+      "updated_at": "2026-10-29T19:14:31.857752+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704027+00:00"
+    },
+    {
+      "leaf_num": 312,
+      "cohort": 32,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort32_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort32_source.txt",
+      "updated_at": "2026-10-29T19:14:31.857849+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704029+00:00"
+    },
+    {
+      "leaf_num": 313,
+      "cohort": 32,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort32_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort32_source.txt",
+      "updated_at": "2026-10-29T19:14:31.857940+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704032+00:00"
+    },
+    {
+      "leaf_num": 314,
+      "cohort": 32,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort32_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort32_source.txt",
+      "updated_at": "2026-10-29T19:14:31.858026+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704034+00:00"
+    },
+    {
+      "leaf_num": 315,
+      "cohort": 32,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort32_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort32_source.txt",
+      "updated_at": "2026-10-29T19:14:31.858109+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704035+00:00"
+    },
+    {
+      "leaf_num": 316,
+      "cohort": 32,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort32_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort32_source.txt",
+      "updated_at": "2026-10-29T19:14:31.858192+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704037+00:00"
+    },
+    {
+      "leaf_num": 317,
+      "cohort": 32,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort32_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort32_source.txt",
+      "updated_at": "2026-10-29T19:14:31.858275+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704038+00:00"
+    },
+    {
+      "leaf_num": 318,
+      "cohort": 32,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort32_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort32_source.txt",
+      "updated_at": "2026-10-29T19:14:31.858365+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704040+00:00"
+    },
+    {
+      "leaf_num": 319,
+      "cohort": 32,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort32_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort32_source.txt",
+      "updated_at": "2026-10-29T19:14:31.858448+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704041+00:00"
+    },
+    {
+      "leaf_num": 320,
+      "cohort": 32,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort32_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort32_source.txt",
+      "updated_at": "2026-10-29T19:14:31.858531+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704043+00:00"
+    },
+    {
+      "leaf_num": 323,
+      "cohort": 33,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort33_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort33_source.txt",
+      "updated_at": "2026-10-29T19:32:34.620543+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704044+00:00"
+    },
+    {
+      "leaf_num": 327,
+      "cohort": 33,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort33_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort33_source.txt",
+      "updated_at": "2026-10-29T19:32:34.620695+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704046+00:00"
+    },
+    {
+      "leaf_num": 328,
+      "cohort": 33,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort33_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort33_source.txt",
+      "updated_at": "2026-10-29T19:32:34.620818+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704048+00:00"
+    },
+    {
+      "leaf_num": 329,
+      "cohort": 33,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort33_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort33_source.txt",
+      "updated_at": "2026-10-29T19:32:34.620920+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704049+00:00"
+    },
+    {
+      "leaf_num": 330,
+      "cohort": 33,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort33_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort33_source.txt",
+      "updated_at": "2026-10-29T19:32:34.621010+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704051+00:00"
+    },
+    {
+      "leaf_num": 338,
+      "cohort": 34,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort34_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort34_source.txt",
+      "updated_at": "2026-10-29T19:48:01.918248+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704052+00:00"
+    },
+    {
+      "leaf_num": 339,
+      "cohort": 34,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort34_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort34_source.txt",
+      "updated_at": "2026-10-29T19:48:01.918341+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704054+00:00"
+    },
+    {
+      "leaf_num": 340,
+      "cohort": 34,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort34_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort34_source.txt",
+      "updated_at": "2026-10-29T19:48:01.918428+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704055+00:00"
+    },
+    {
+      "leaf_num": 341,
+      "cohort": 35,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort35_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort35_source.txt",
+      "updated_at": "2026-10-29T19:59:32.858967+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704057+00:00"
+    },
+    {
+      "leaf_num": 342,
+      "cohort": 35,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort35_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort35_source.txt",
+      "updated_at": "2026-10-29T19:59:32.859067+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704059+00:00"
+    },
+    {
+      "leaf_num": 343,
+      "cohort": 35,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort35_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort35_source.txt",
+      "updated_at": "2026-10-29T19:59:32.859157+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704060+00:00"
+    },
+    {
+      "leaf_num": 344,
+      "cohort": 35,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort35_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort35_source.txt",
+      "updated_at": "2026-10-29T19:59:32.859247+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704062+00:00"
+    },
+    {
+      "leaf_num": 345,
+      "cohort": 35,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort35_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort35_source.txt",
+      "updated_at": "2026-10-29T19:59:32.859334+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704063+00:00"
+    },
+    {
+      "leaf_num": 346,
+      "cohort": 35,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort35_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort35_source.txt",
+      "updated_at": "2026-10-29T19:59:32.859422+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704065+00:00"
+    },
+    {
+      "leaf_num": 347,
+      "cohort": 35,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort35_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort35_source.txt",
+      "updated_at": "2026-10-29T19:59:32.859507+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704067+00:00"
+    },
+    {
+      "leaf_num": 348,
+      "cohort": 35,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort35_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort35_source.txt",
+      "updated_at": "2026-10-29T19:59:32.859591+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704068+00:00"
+    },
+    {
+      "leaf_num": 349,
+      "cohort": 35,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort35_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort35_source.txt",
+      "updated_at": "2026-10-29T19:59:32.859674+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704069+00:00"
+    },
+    {
+      "leaf_num": 350,
+      "cohort": 35,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort35_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort35_source.txt",
+      "updated_at": "2026-10-29T19:59:32.859758+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704071+00:00"
+    },
+    {
+      "leaf_num": 363,
+      "cohort": 37,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort37_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort37_source.txt",
+      "updated_at": "2026-10-29T20:29:17.561322+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704073+00:00"
+    },
+    {
+      "leaf_num": 364,
+      "cohort": 37,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort37_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort37_source.txt",
+      "updated_at": "2026-10-29T20:29:17.561419+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704074+00:00"
+    },
+    {
+      "leaf_num": 369,
+      "cohort": 37,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort37_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort37_source.txt",
+      "updated_at": "2026-10-29T20:29:17.561591+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704076+00:00"
+    },
+    {
+      "leaf_num": 370,
+      "cohort": 37,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort37_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort37_source.txt",
+      "updated_at": "2026-10-29T20:29:17.561673+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704077+00:00"
+    },
+    {
+      "leaf_num": 373,
+      "cohort": 38,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort38_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort38_source.txt",
+      "updated_at": "2026-10-29T20:48:47.183408+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704079+00:00"
+    },
+    {
+      "leaf_num": 374,
+      "cohort": 38,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort38_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort38_source.txt",
+      "updated_at": "2026-10-29T20:48:47.183568+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704080+00:00"
+    },
+    {
+      "leaf_num": 393,
+      "cohort": 40,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort40_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort40_source.txt",
+      "updated_at": "2026-10-29T21:09:58.587769+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704082+00:00"
+    },
+    {
+      "leaf_num": 395,
+      "cohort": 40,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort40_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort40_source.txt",
+      "updated_at": "2026-10-29T21:09:58.587885+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704083+00:00"
+    },
+    {
+      "leaf_num": 396,
+      "cohort": 40,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort40_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort40_source.txt",
+      "updated_at": "2026-10-29T21:09:58.587970+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704085+00:00"
+    },
+    {
+      "leaf_num": 400,
+      "cohort": 40,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort40_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort40_source.txt",
+      "updated_at": "2026-10-29T21:09:58.588119+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704086+00:00"
+    },
+    {
+      "leaf_num": 407,
+      "cohort": 41,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Final MD\\1606_striatyn_balaban_trebnyk_cohort41.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort41_source.txt",
+      "updated_at": "2026-10-29T21:30:25.234170+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704088+00:00"
+    },
+    {
+      "leaf_num": 408,
+      "cohort": 41,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Final MD\\1606_striatyn_balaban_trebnyk_cohort41.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort41_source.txt",
+      "updated_at": "2026-10-29T21:30:25.234261+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704090+00:00"
+    },
+    {
+      "leaf_num": 409,
+      "cohort": 41,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Final MD\\1606_striatyn_balaban_trebnyk_cohort41.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort41_source.txt",
+      "updated_at": "2026-10-29T21:30:25.234349+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704092+00:00"
+    },
+    {
+      "leaf_num": 514,
+      "cohort": 52,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort52_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort52_source.txt",
+      "updated_at": "2026-10-29T23:53:00.426809+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704093+00:00"
+    },
+    {
+      "leaf_num": 517,
+      "cohort": 52,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort52_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort52_source.txt",
+      "updated_at": "2026-10-29T23:53:00.426960+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704095+00:00"
+    },
+    {
+      "leaf_num": 582,
+      "cohort": 59,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort59_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort59_source.txt",
+      "updated_at": "2026-10-30T01:00:30.878264+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704097+00:00"
+    },
+    {
+      "leaf_num": 631,
+      "cohort": 64,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort64_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort64_source.txt",
+      "updated_at": "2026-10-30T01:53:35.873351+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704098+00:00"
+    },
+    {
+      "leaf_num": 642,
+      "cohort": 65,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort65_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort65_source.txt",
+      "updated_at": "2026-10-30T02:02:13.088120+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704100+00:00"
+    },
+    {
+      "leaf_num": 650,
+      "cohort": 65,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort65_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort65_source.txt",
+      "updated_at": "2026-10-30T02:02:13.088384+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704102+00:00"
+    },
+    {
+      "leaf_num": 684,
+      "cohort": 69,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort69_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort69_source.txt",
+      "updated_at": "2026-10-30T02:37:32.252162+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704103+00:00"
+    },
+    {
+      "leaf_num": 687,
+      "cohort": 69,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort69_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort69_source.txt",
+      "updated_at": "2026-10-30T02:37:32.252312+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704105+00:00"
+    },
+    {
+      "leaf_num": 690,
+      "cohort": 69,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort69_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort69_source.txt",
+      "updated_at": "2026-10-30T02:37:32.252444+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704106+00:00"
+    },
+    {
+      "leaf_num": 692,
+      "cohort": 70,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort70_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort70_source.txt",
+      "updated_at": "2026-10-30T02:46:37.576716+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704108+00:00"
+    },
+    {
+      "leaf_num": 693,
+      "cohort": 70,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort70_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort70_source.txt",
+      "updated_at": "2026-10-30T02:46:37.576816+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704109+00:00"
+    },
+    {
+      "leaf_num": 694,
+      "cohort": 70,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort70_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort70_source.txt",
+      "updated_at": "2026-10-30T02:46:37.576918+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704111+00:00"
+    },
+    {
+      "leaf_num": 695,
+      "cohort": 70,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort70_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort70_source.txt",
+      "updated_at": "2026-10-30T02:46:37.577007+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704113+00:00"
+    },
+    {
+      "leaf_num": 696,
+      "cohort": 70,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort70_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort70_source.txt",
+      "updated_at": "2026-10-30T02:46:37.577098+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704115+00:00"
+    },
+    {
+      "leaf_num": 708,
+      "cohort": 71,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort71_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort71_source.txt",
+      "updated_at": "2026-10-30T02:55:14.008032+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704117+00:00"
+    },
+    {
+      "leaf_num": 723,
+      "cohort": 73,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort73_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort73_source.txt",
+      "updated_at": "2026-10-30T03:18:29.695196+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704118+00:00"
+    },
+    {
+      "leaf_num": 732,
+      "cohort": 74,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort74_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort74_source.txt",
+      "updated_at": "2026-10-30T03:32:11.981830+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704120+00:00"
+    },
+    {
+      "leaf_num": 761,
+      "cohort": 77,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort77_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort77_source.txt",
+      "updated_at": "2026-10-30T04:07:30.719983+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704122+00:00"
+    },
+    {
+      "leaf_num": 762,
+      "cohort": 77,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort77_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort77_source.txt",
+      "updated_at": "2026-10-30T04:07:30.720094+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704123+00:00"
+    },
+    {
+      "leaf_num": 765,
+      "cohort": 77,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort77_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort77_source.txt",
+      "updated_at": "2026-10-30T04:07:30.720242+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704124+00:00"
+    },
+    {
+      "leaf_num": 776,
+      "cohort": 78,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort78_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort78_source.txt",
+      "updated_at": "2026-10-30T04:23:43.746711+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704126+00:00"
+    },
+    {
+      "leaf_num": 785,
+      "cohort": 79,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort79_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort79_source.txt",
+      "updated_at": "2026-10-30T04:31:57.258903+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704127+00:00"
+    },
+    {
+      "leaf_num": 811,
+      "cohort": 82,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort82_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort82_source.txt",
+      "updated_at": "2026-10-30T05:01:20.913947+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704129+00:00"
+    },
+    {
+      "leaf_num": 851,
+      "cohort": 86,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort86_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort86_source.txt",
+      "updated_at": "2026-10-30T05:55:16.392380+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704130+00:00"
+    },
+    {
+      "leaf_num": 854,
+      "cohort": 86,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort86_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort86_source.txt",
+      "updated_at": "2026-10-30T05:55:16.392533+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704132+00:00"
+    },
+    {
+      "leaf_num": 860,
+      "cohort": 86,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort86_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort86_source.txt",
+      "updated_at": "2026-10-30T05:55:16.392726+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704133+00:00"
+    },
+    {
+      "leaf_num": 861,
+      "cohort": 87,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort87_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort87_source.txt",
+      "updated_at": "2026-10-30T06:03:18.133728+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704135+00:00"
+    },
+    {
+      "leaf_num": 863,
+      "cohort": 87,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort87_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort87_source.txt",
+      "updated_at": "2026-10-30T06:03:18.133854+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704137+00:00"
+    },
+    {
+      "leaf_num": 869,
+      "cohort": 87,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort87_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort87_source.txt",
+      "updated_at": "2026-10-30T06:03:18.134063+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704138+00:00"
+    },
+    {
+      "leaf_num": 870,
+      "cohort": 87,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort87_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort87_source.txt",
+      "updated_at": "2026-10-30T06:03:18.134147+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704140+00:00"
+    },
+    {
+      "leaf_num": 881,
+      "cohort": 89,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort89_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort89_source.txt",
+      "updated_at": "2026-10-30T06:25:03.178315+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704141+00:00"
+    },
+    {
+      "leaf_num": 888,
+      "cohort": 89,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort89_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort89_source.txt",
+      "updated_at": "2026-10-30T06:25:03.178552+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704143+00:00"
+    },
+    {
+      "leaf_num": 893,
+      "cohort": 90,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort90_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort90_source.txt",
+      "updated_at": "2026-10-30T06:33:54.337187+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704144+00:00"
+    },
+    {
+      "leaf_num": 896,
+      "cohort": 90,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort90_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort90_source.txt",
+      "updated_at": "2026-10-30T06:33:54.337337+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704146+00:00"
+    },
+    {
+      "leaf_num": 899,
+      "cohort": 90,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort90_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort90_source.txt",
+      "updated_at": "2026-10-30T06:33:54.337473+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704147+00:00"
+    },
+    {
+      "leaf_num": 902,
+      "cohort": 91,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort91_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort91_source.txt",
+      "updated_at": "2026-10-30T06:42:49.125033+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704149+00:00"
+    },
+    {
+      "leaf_num": 919,
+      "cohort": 92,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort92_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort92_source.txt",
+      "updated_at": "2026-10-30T06:56:47.287022+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704150+00:00"
+    },
+    {
+      "leaf_num": 920,
+      "cohort": 92,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort92_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort92_source.txt",
+      "updated_at": "2026-10-30T06:56:47.287117+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704152+00:00"
+    },
+    {
+      "leaf_num": 934,
+      "cohort": 94,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort94_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort94_source.txt",
+      "updated_at": "2026-10-30T07:16:37.345439+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704153+00:00"
+    },
+    {
+      "leaf_num": 942,
+      "cohort": 95,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort95_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort95_source.txt",
+      "updated_at": "2026-10-30T07:25:54.602128+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704155+00:00"
+    },
+    {
+      "leaf_num": 964,
+      "cohort": 97,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort97_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort97_source.txt",
+      "updated_at": "2026-10-30T07:47:53.370329+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704156+00:00"
+    },
+    {
+      "leaf_num": 967,
+      "cohort": 97,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort97_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort97_source.txt",
+      "updated_at": "2026-10-30T07:47:53.370475+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704158+00:00"
+    },
+    {
+      "leaf_num": 968,
+      "cohort": 97,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort97_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort97_source.txt",
+      "updated_at": "2026-10-30T07:47:53.370565+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704159+00:00"
+    },
+    {
+      "leaf_num": 973,
+      "cohort": 98,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort98_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort98_source.txt",
+      "updated_at": "2026-10-30T08:07:12.634587+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704161+00:00"
+    },
+    {
+      "leaf_num": 974,
+      "cohort": 98,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort98_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort98_source.txt",
+      "updated_at": "2026-10-30T08:07:12.634685+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704162+00:00"
+    },
+    {
+      "leaf_num": 975,
+      "cohort": 98,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort98_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort98_source.txt",
+      "updated_at": "2026-10-30T08:07:12.634775+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704164+00:00"
+    },
+    {
+      "leaf_num": 976,
+      "cohort": 98,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort98_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort98_source.txt",
+      "updated_at": "2026-10-30T08:07:12.634867+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704165+00:00"
+    },
+    {
+      "leaf_num": 977,
+      "cohort": 98,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort98_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort98_source.txt",
+      "updated_at": "2026-10-30T08:07:12.634957+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704167+00:00"
+    },
+    {
+      "leaf_num": 980,
+      "cohort": 98,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort98_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort98_source.txt",
+      "updated_at": "2026-10-30T08:07:12.635093+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704168+00:00"
+    },
+    {
+      "leaf_num": 981,
+      "cohort": 99,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort99_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort99_source.txt",
+      "updated_at": "2026-10-30T08:21:07.999010+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704170+00:00"
+    },
+    {
+      "leaf_num": 982,
+      "cohort": 99,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort99_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort99_source.txt",
+      "updated_at": "2026-10-30T08:21:07.999110+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704171+00:00"
+    },
+    {
+      "leaf_num": 983,
+      "cohort": 99,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort99_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort99_source.txt",
+      "updated_at": "2026-10-30T08:21:07.999199+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704173+00:00"
+    },
+    {
+      "leaf_num": 984,
+      "cohort": 99,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort99_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort99_source.txt",
+      "updated_at": "2026-10-30T08:21:07.999288+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704174+00:00"
+    },
+    {
+      "leaf_num": 986,
+      "cohort": 99,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort99_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort99_source.txt",
+      "updated_at": "2026-10-30T08:21:07.999400+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704176+00:00"
+    },
+    {
+      "leaf_num": 991,
+      "cohort": 100,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort100_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort100_source.txt",
+      "updated_at": "2026-10-30T08:31:33.184827+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704177+00:00"
+    },
+    {
+      "leaf_num": 992,
+      "cohort": 100,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort100_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort100_source.txt",
+      "updated_at": "2026-10-30T08:31:33.184930+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704180+00:00"
+    },
+    {
+      "leaf_num": 993,
+      "cohort": 100,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort100_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort100_source.txt",
+      "updated_at": "2026-10-30T08:31:33.185022+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704183+00:00"
+    },
+    {
+      "leaf_num": 994,
+      "cohort": 100,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort100_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort100_source.txt",
+      "updated_at": "2026-10-30T08:31:33.185109+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704185+00:00"
+    },
+    {
+      "leaf_num": 1000,
+      "cohort": 100,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort100_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort100_source.txt",
+      "updated_at": "2026-10-30T08:31:33.185311+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704188+00:00"
+    },
+    {
+      "leaf_num": 1061,
+      "cohort": 107,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort107_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort107_source.txt",
+      "updated_at": "2026-10-30T09:59:55.497197+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704190+00:00"
+    },
+    {
+      "leaf_num": 1077,
+      "cohort": 108,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort108_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort108_source.txt",
+      "updated_at": "2026-10-30T10:09:24.077332+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704193+00:00"
+    },
+    {
+      "leaf_num": 1078,
+      "cohort": 108,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort108_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort108_source.txt",
+      "updated_at": "2026-10-30T10:09:24.077432+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704194+00:00"
+    },
+    {
+      "leaf_num": 1081,
+      "cohort": 109,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort109_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort109_source.txt",
+      "updated_at": "2026-10-30T10:19:16.889215+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704196+00:00"
+    },
+    {
+      "leaf_num": 1113,
+      "cohort": 112,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort112_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort112_source.txt",
+      "updated_at": "2026-10-30T10:54:18.480336+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704199+00:00"
+    },
+    {
+      "leaf_num": 1117,
+      "cohort": 112,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort112_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort112_source.txt",
+      "updated_at": "2026-10-30T10:54:18.480505+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704200+00:00"
+    },
+    {
+      "leaf_num": 1118,
+      "cohort": 112,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort112_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort112_source.txt",
+      "updated_at": "2026-10-30T10:54:18.480594+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704202+00:00"
+    },
+    {
+      "leaf_num": 1119,
+      "cohort": 112,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort112_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort112_source.txt",
+      "updated_at": "2026-10-30T10:54:18.480681+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704203+00:00"
+    },
+    {
+      "leaf_num": 1126,
+      "cohort": 113,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort113_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort113_source.txt",
+      "updated_at": "2026-10-30T11:04:58.138729+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704205+00:00"
+    },
+    {
+      "leaf_num": 1130,
+      "cohort": 113,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort113_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort113_source.txt",
+      "updated_at": "2026-10-30T11:04:58.139036+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704206+00:00"
+    },
+    {
+      "leaf_num": 1131,
+      "cohort": 114,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort114_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort114_source.txt",
+      "updated_at": "2026-10-30T11:19:29.008877+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704208+00:00"
+    },
+    {
+      "leaf_num": 1138,
+      "cohort": 114,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort114_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort114_source.txt",
+      "updated_at": "2026-10-30T11:19:29.009270+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704209+00:00"
+    },
+    {
+      "leaf_num": 1139,
+      "cohort": 114,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort114_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort114_source.txt",
+      "updated_at": "2026-10-30T11:19:29.009417+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704211+00:00"
+    },
+    {
+      "leaf_num": 1140,
+      "cohort": 114,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort114_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort114_source.txt",
+      "updated_at": "2026-10-30T11:19:29.009559+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704212+00:00"
+    },
+    {
+      "leaf_num": 1144,
+      "cohort": 115,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort115_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort115_source.txt",
+      "updated_at": "2026-10-30T11:29:01.060951+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704214+00:00"
+    },
+    {
+      "leaf_num": 1148,
+      "cohort": 115,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort115_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort115_source.txt",
+      "updated_at": "2026-10-30T11:29:01.061128+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704215+00:00"
+    },
+    {
+      "leaf_num": 1149,
+      "cohort": 115,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort115_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort115_source.txt",
+      "updated_at": "2026-10-30T11:29:01.061222+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704217+00:00"
+    },
+    {
+      "leaf_num": 1151,
+      "cohort": 116,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort116_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort116_source.txt",
+      "updated_at": "2026-10-30T11:40:20.176513+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704218+00:00"
+    },
+    {
+      "leaf_num": 1152,
+      "cohort": 116,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort116_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort116_source.txt",
+      "updated_at": "2026-10-30T11:40:20.176619+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704220+00:00"
+    },
+    {
+      "leaf_num": 1153,
+      "cohort": 116,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort116_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort116_source.txt",
+      "updated_at": "2026-10-30T11:40:20.176713+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704221+00:00"
+    },
+    {
+      "leaf_num": 1154,
+      "cohort": 116,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort116_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort116_source.txt",
+      "updated_at": "2026-10-30T11:40:20.176802+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704223+00:00"
+    },
+    {
+      "leaf_num": 1155,
+      "cohort": 116,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort116_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort116_source.txt",
+      "updated_at": "2026-10-30T11:40:20.176889+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704225+00:00"
+    },
+    {
+      "leaf_num": 1156,
+      "cohort": 116,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort116_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort116_source.txt",
+      "updated_at": "2026-10-30T11:40:20.176987+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704226+00:00"
+    },
+    {
+      "leaf_num": 1157,
+      "cohort": 116,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort116_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort116_source.txt",
+      "updated_at": "2026-10-30T11:40:20.177076+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704228+00:00"
+    },
+    {
+      "leaf_num": 1158,
+      "cohort": 116,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort116_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort116_source.txt",
+      "updated_at": "2026-10-30T11:40:20.177161+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704229+00:00"
+    },
+    {
+      "leaf_num": 1159,
+      "cohort": 116,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort116_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort116_source.txt",
+      "updated_at": "2026-10-30T11:40:20.177246+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704231+00:00"
+    },
+    {
+      "leaf_num": 1160,
+      "cohort": 116,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort116_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort116_source.txt",
+      "updated_at": "2026-10-30T11:40:20.177332+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704232+00:00"
+    },
+    {
+      "leaf_num": 1161,
+      "cohort": 117,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort117_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort117_source.txt",
+      "updated_at": "2026-10-30T11:57:56.238461+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704234+00:00"
+    },
+    {
+      "leaf_num": 1162,
+      "cohort": 117,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort117_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort117_source.txt",
+      "updated_at": "2026-10-30T11:57:56.238580+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704235+00:00"
+    },
+    {
+      "leaf_num": 1163,
+      "cohort": 117,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort117_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort117_source.txt",
+      "updated_at": "2026-10-30T11:57:56.238674+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704237+00:00"
+    },
+    {
+      "leaf_num": 1165,
+      "cohort": 117,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort117_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort117_source.txt",
+      "updated_at": "2026-10-30T11:57:56.238790+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704239+00:00"
+    },
+    {
+      "leaf_num": 1166,
+      "cohort": 117,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort117_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort117_source.txt",
+      "updated_at": "2026-10-30T11:57:56.238877+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704240+00:00"
+    },
+    {
+      "leaf_num": 1167,
+      "cohort": 117,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort117_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort117_source.txt",
+      "updated_at": "2026-10-30T11:57:56.238966+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704242+00:00"
+    },
+    {
+      "leaf_num": 1169,
+      "cohort": 117,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort117_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort117_source.txt",
+      "updated_at": "2026-10-30T11:57:56.239077+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704243+00:00"
+    },
+    {
+      "leaf_num": 1170,
+      "cohort": 117,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort117_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort117_source.txt",
+      "updated_at": "2026-10-30T11:57:56.239162+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704245+00:00"
+    },
+    {
+      "leaf_num": 1171,
+      "cohort": 118,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort118_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort118_source.txt",
+      "updated_at": "2026-10-30T12:09:44.256989+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704247+00:00"
+    },
+    {
+      "leaf_num": 1172,
+      "cohort": 118,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort118_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort118_source.txt",
+      "updated_at": "2026-10-30T12:09:44.257090+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704248+00:00"
+    },
+    {
+      "leaf_num": 1173,
+      "cohort": 118,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort118_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort118_source.txt",
+      "updated_at": "2026-10-30T12:09:44.257181+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704250+00:00"
+    },
+    {
+      "leaf_num": 1175,
+      "cohort": 118,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort118_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort118_source.txt",
+      "updated_at": "2026-10-30T12:09:44.257295+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704251+00:00"
+    },
+    {
+      "leaf_num": 1176,
+      "cohort": 118,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort118_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort118_source.txt",
+      "updated_at": "2026-10-30T12:09:44.257381+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704253+00:00"
+    },
+    {
+      "leaf_num": 1177,
+      "cohort": 118,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort118_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort118_source.txt",
+      "updated_at": "2026-10-30T12:09:44.257467+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704254+00:00"
+    },
+    {
+      "leaf_num": 1178,
+      "cohort": 118,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort118_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort118_source.txt",
+      "updated_at": "2026-10-30T12:09:44.257551+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704256+00:00"
+    },
+    {
+      "leaf_num": 1179,
+      "cohort": 118,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort118_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort118_source.txt",
+      "updated_at": "2026-10-30T12:09:44.257635+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704257+00:00"
+    },
+    {
+      "leaf_num": 1181,
+      "cohort": 119,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort119_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort119_source.txt",
+      "updated_at": "2026-10-30T12:19:34.973165+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704259+00:00"
+    },
+    {
+      "leaf_num": 1182,
+      "cohort": 119,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort119_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort119_source.txt",
+      "updated_at": "2026-10-30T12:19:34.973274+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704260+00:00"
+    },
+    {
+      "leaf_num": 1183,
+      "cohort": 119,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort119_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort119_source.txt",
+      "updated_at": "2026-10-30T12:19:34.973364+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704262+00:00"
+    },
+    {
+      "leaf_num": 1186,
+      "cohort": 119,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort119_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort119_source.txt",
+      "updated_at": "2026-10-30T12:19:34.973509+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704264+00:00"
+    },
+    {
+      "leaf_num": 1187,
+      "cohort": 119,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort119_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort119_source.txt",
+      "updated_at": "2026-10-30T12:19:34.973596+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704265+00:00"
+    },
+    {
+      "leaf_num": 1191,
+      "cohort": 120,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort120_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort120_source.txt",
+      "updated_at": "2026-10-30T12:30:32.033127+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704267+00:00"
+    },
+    {
+      "leaf_num": 1192,
+      "cohort": 120,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort120_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort120_source.txt",
+      "updated_at": "2026-10-30T12:30:32.033225+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704268+00:00"
+    },
+    {
+      "leaf_num": 1195,
+      "cohort": 120,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort120_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort120_source.txt",
+      "updated_at": "2026-10-30T12:30:32.033369+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704270+00:00"
+    },
+    {
+      "leaf_num": 1196,
+      "cohort": 120,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort120_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort120_source.txt",
+      "updated_at": "2026-10-30T12:30:32.033456+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704272+00:00"
+    },
+    {
+      "leaf_num": 1197,
+      "cohort": 120,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort120_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort120_source.txt",
+      "updated_at": "2026-10-30T12:30:32.033543+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704273+00:00"
+    },
+    {
+      "leaf_num": 1198,
+      "cohort": 120,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort120_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort120_source.txt",
+      "updated_at": "2026-10-30T12:30:32.033625+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704275+00:00"
+    },
+    {
+      "leaf_num": 1199,
+      "cohort": 120,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort120_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort120_source.txt",
+      "updated_at": "2026-10-30T12:30:32.033707+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704280+00:00"
+    },
+    {
+      "leaf_num": 1200,
+      "cohort": 120,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort120_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort120_source.txt",
+      "updated_at": "2026-10-30T12:30:32.033790+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704282+00:00"
+    },
+    {
+      "leaf_num": 1201,
+      "cohort": 121,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort121_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort121_source.txt",
+      "updated_at": "2026-10-30T12:49:02.735064+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704285+00:00"
+    },
+    {
+      "leaf_num": 1202,
+      "cohort": 121,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort121_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort121_source.txt",
+      "updated_at": "2026-10-30T12:49:02.735166+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704286+00:00"
+    },
+    {
+      "leaf_num": 1203,
+      "cohort": 121,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort121_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort121_source.txt",
+      "updated_at": "2026-10-30T12:49:02.735258+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704288+00:00"
+    },
+    {
+      "leaf_num": 1204,
+      "cohort": 121,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort121_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort121_source.txt",
+      "updated_at": "2026-10-30T12:49:02.735352+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704289+00:00"
+    },
+    {
+      "leaf_num": 1205,
+      "cohort": 121,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort121_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort121_source.txt",
+      "updated_at": "2026-10-30T12:49:02.735436+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704291+00:00"
+    },
+    {
+      "leaf_num": 1206,
+      "cohort": 121,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort121_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort121_source.txt",
+      "updated_at": "2026-10-30T12:49:02.735523+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704292+00:00"
+    },
+    {
+      "leaf_num": 1207,
+      "cohort": 121,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort121_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort121_source.txt",
+      "updated_at": "2026-10-30T12:49:02.735625+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704294+00:00"
+    },
+    {
+      "leaf_num": 1209,
+      "cohort": 121,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort121_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort121_source.txt",
+      "updated_at": "2026-10-30T12:49:02.735739+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704296+00:00"
+    },
+    {
+      "leaf_num": 1211,
+      "cohort": 122,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort122_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort122_source.txt",
+      "updated_at": "2026-10-30T13:08:01.733942+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704297+00:00"
+    },
+    {
+      "leaf_num": 1214,
+      "cohort": 122,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort122_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort122_source.txt",
+      "updated_at": "2026-10-30T13:08:01.734099+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704299+00:00"
+    },
+    {
+      "leaf_num": 1218,
+      "cohort": 122,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort122_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort122_source.txt",
+      "updated_at": "2026-10-30T13:08:01.734261+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704300+00:00"
+    },
+    {
+      "leaf_num": 1231,
+      "cohort": 124,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort124_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort124_source.txt",
+      "updated_at": "2026-10-30T13:38:28.080862+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704302+00:00"
+    },
+    {
+      "leaf_num": 1235,
+      "cohort": 124,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort124_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort124_source.txt",
+      "updated_at": "2026-10-30T13:38:28.081035+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704303+00:00"
+    },
+    {
+      "leaf_num": 1236,
+      "cohort": 124,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort124_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort124_source.txt",
+      "updated_at": "2026-10-30T13:38:28.081122+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704305+00:00"
+    },
+    {
+      "leaf_num": 1238,
+      "cohort": 124,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort124_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort124_source.txt",
+      "updated_at": "2026-10-30T13:38:28.081233+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704306+00:00"
+    },
+    {
+      "leaf_num": 1241,
+      "cohort": 125,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort125_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort125_source.txt",
+      "updated_at": "2026-10-30T13:48:55.327069+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704308+00:00"
+    },
+    {
+      "leaf_num": 1243,
+      "cohort": 125,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort125_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort125_source.txt",
+      "updated_at": "2026-10-30T13:48:55.327204+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704309+00:00"
+    },
+    {
+      "leaf_num": 1248,
+      "cohort": 125,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort125_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort125_source.txt",
+      "updated_at": "2026-10-30T13:48:55.327411+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704311+00:00"
+    },
+    {
+      "leaf_num": 1249,
+      "cohort": 125,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort125_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort125_source.txt",
+      "updated_at": "2026-10-30T13:48:55.327532+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704312+00:00"
+    },
+    {
+      "leaf_num": 1252,
+      "cohort": 126,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort126_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort126_source.txt",
+      "updated_at": "2026-10-30T13:58:06.067479+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704314+00:00"
+    },
+    {
+      "leaf_num": 1254,
+      "cohort": 126,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort126_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort126_source.txt",
+      "updated_at": "2026-10-30T13:58:06.067605+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704315+00:00"
+    },
+    {
+      "leaf_num": 1257,
+      "cohort": 126,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort126_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort126_source.txt",
+      "updated_at": "2026-10-30T13:58:06.067744+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704317+00:00"
+    },
+    {
+      "leaf_num": 1263,
+      "cohort": 127,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort127_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort127_source.txt",
+      "updated_at": "2026-10-30T14:09:01.556885+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704319+00:00"
+    },
+    {
+      "leaf_num": 1264,
+      "cohort": 127,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort127_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort127_source.txt",
+      "updated_at": "2026-10-30T14:09:01.556994+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704321+00:00"
+    },
+    {
+      "leaf_num": 1265,
+      "cohort": 127,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort127_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort127_source.txt",
+      "updated_at": "2026-10-30T14:09:01.557085+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704322+00:00"
+    },
+    {
+      "leaf_num": 1266,
+      "cohort": 127,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort127_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort127_source.txt",
+      "updated_at": "2026-10-30T14:09:01.557187+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704324+00:00"
+    },
+    {
+      "leaf_num": 1267,
+      "cohort": 127,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort127_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort127_source.txt",
+      "updated_at": "2026-10-30T14:09:01.557274+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704325+00:00"
+    },
+    {
+      "leaf_num": 1268,
+      "cohort": 127,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort127_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort127_source.txt",
+      "updated_at": "2026-10-30T14:09:01.557370+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704327+00:00"
+    },
+    {
+      "leaf_num": 1269,
+      "cohort": 127,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort127_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort127_source.txt",
+      "updated_at": "2026-10-30T14:09:01.557457+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704328+00:00"
+    },
+    {
+      "leaf_num": 1270,
+      "cohort": 127,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort127_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort127_source.txt",
+      "updated_at": "2026-10-30T14:09:01.557539+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704330+00:00"
+    },
+    {
+      "leaf_num": 1324,
+      "cohort": 133,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort133_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort133_source.txt",
+      "updated_at": "2026-10-30T15:18:45.689713+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704331+00:00"
+    },
+    {
+      "leaf_num": 1327,
+      "cohort": 133,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort133_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort133_source.txt",
+      "updated_at": "2026-10-30T15:18:45.689874+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704333+00:00"
+    },
+    {
+      "leaf_num": 1328,
+      "cohort": 133,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort133_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort133_source.txt",
+      "updated_at": "2026-10-30T15:18:45.689967+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704335+00:00"
+    },
+    {
+      "leaf_num": 1331,
+      "cohort": 134,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort134_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort134_source.txt",
+      "updated_at": "2026-10-30T15:30:08.603430+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704336+00:00"
+    },
+    {
+      "leaf_num": 1332,
+      "cohort": 134,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort134_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort134_source.txt",
+      "updated_at": "2026-10-30T15:30:08.603586+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704338+00:00"
+    },
+    {
+      "leaf_num": 1334,
+      "cohort": 134,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort134_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort134_source.txt",
+      "updated_at": "2026-10-30T15:30:08.603778+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704339+00:00"
+    },
+    {
+      "leaf_num": 1336,
+      "cohort": 134,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort134_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort134_source.txt",
+      "updated_at": "2026-10-30T15:30:08.603965+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704341+00:00"
+    },
+    {
+      "leaf_num": 1337,
+      "cohort": 134,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort134_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort134_source.txt",
+      "updated_at": "2026-10-30T15:30:08.604113+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704342+00:00"
+    },
+    {
+      "leaf_num": 1338,
+      "cohort": 134,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort134_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort134_source.txt",
+      "updated_at": "2026-10-30T15:30:08.604257+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704344+00:00"
+    },
+    {
+      "leaf_num": 1339,
+      "cohort": 134,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort134_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort134_source.txt",
+      "updated_at": "2026-10-30T15:30:08.604401+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704346+00:00"
+    },
+    {
+      "leaf_num": 1341,
+      "cohort": 135,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort135_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort135_source.txt",
+      "updated_at": "2026-10-30T15:53:32.207637+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704347+00:00"
+    },
+    {
+      "leaf_num": 1342,
+      "cohort": 135,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort135_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort135_source.txt",
+      "updated_at": "2026-10-30T15:53:32.207743+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704348+00:00"
+    },
+    {
+      "leaf_num": 1343,
+      "cohort": 135,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort135_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort135_source.txt",
+      "updated_at": "2026-10-30T15:53:32.207837+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704350+00:00"
+    },
+    {
+      "leaf_num": 1344,
+      "cohort": 135,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort135_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort135_source.txt",
+      "updated_at": "2026-10-30T15:53:32.207927+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704352+00:00"
+    },
+    {
+      "leaf_num": 1346,
+      "cohort": 135,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort135_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort135_source.txt",
+      "updated_at": "2026-10-30T15:53:32.208042+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704353+00:00"
+    },
+    {
+      "leaf_num": 1347,
+      "cohort": 135,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort135_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort135_source.txt",
+      "updated_at": "2026-10-30T15:53:32.208130+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704355+00:00"
+    },
+    {
+      "leaf_num": 1348,
+      "cohort": 135,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort135_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort135_source.txt",
+      "updated_at": "2026-10-30T15:53:32.208461+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704356+00:00"
+    },
+    {
+      "leaf_num": 1349,
+      "cohort": 135,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort135_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort135_source.txt",
+      "updated_at": "2026-10-30T15:53:32.208567+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704358+00:00"
+    },
+    {
+      "leaf_num": 1350,
+      "cohort": 135,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort135_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort135_source.txt",
+      "updated_at": "2026-10-30T15:53:32.208657+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704360+00:00"
+    },
+    {
+      "leaf_num": 1360,
+      "cohort": 136,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort136_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort136_source.txt",
+      "updated_at": "2026-10-30T16:03:48.445505+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704361+00:00"
+    },
+    {
+      "leaf_num": 1361,
+      "cohort": 137,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort137_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort137_source.txt",
+      "updated_at": "2026-10-30T16:14:51.643250+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704364+00:00"
+    },
+    {
+      "leaf_num": 1362,
+      "cohort": 137,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 6 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort137_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort137_source.txt",
+      "updated_at": "2026-10-30T16:14:51.643356+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704366+00:00"
+    },
+    {
+      "leaf_num": 1367,
+      "cohort": 137,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort137_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort137_source.txt",
+      "updated_at": "2026-10-30T16:14:51.643572+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704367+00:00"
+    },
+    {
+      "leaf_num": 1370,
+      "cohort": 137,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort137_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort137_source.txt",
+      "updated_at": "2026-10-30T16:14:51.643720+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704369+00:00"
+    },
+    {
+      "leaf_num": 1372,
+      "cohort": 138,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort138_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort138_source.txt",
+      "updated_at": "2026-10-30T16:32:59.160008+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704370+00:00"
+    },
+    {
+      "leaf_num": 1379,
+      "cohort": 138,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 5 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort138_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort138_source.txt",
+      "updated_at": "2026-10-30T16:32:59.160286+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704372+00:00"
+    },
+    {
+      "leaf_num": 1381,
+      "cohort": 139,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 7 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Final MD\\1606_striatyn_balaban_trebnyk_cohort139.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort139_source.txt",
+      "updated_at": "2026-10-30T17:02:38.850300+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704373+00:00"
+    },
+    {
+      "leaf_num": 1391,
+      "cohort": 140,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 12 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort140_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort140_source.txt",
+      "updated_at": "2026-10-30T17:09:48.455219+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704374+00:00"
+    },
+    {
+      "leaf_num": 1392,
+      "cohort": 140,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Draft\\1606_striatyn_balaban_trebnyk_cohort140_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Source Text\\1606_striatyn_balaban_trebnyk_cohort140_source.txt",
+      "updated_at": "2026-10-30T17:09:48.455325+00:00",
+      "resolved_at": "2026-10-30T17:52:48.704376+00:00"
+    }
+  ]
+}

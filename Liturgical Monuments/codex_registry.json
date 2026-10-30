@@ -1398,8 +1398,8 @@
       "default_cohort_size": 10,
       "genre_register": "rubrical",
       "workspace_dir": "Liturgical Monuments/Monument - 1606_striatyn_balaban_trebnyk",
-      "active": true,
-      "status": "in_progress",
+      "active": false,
+      "status": "completed",
       "historical_year": 1606,
       "wave": 3,
       "publication_spec": {

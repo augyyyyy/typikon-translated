@@ -1,0 +1,116 @@
+{
+  "timestamp": "2026-10-30T01:22:52.136691+00:00",
+  "monument_id": "1606_striatyn_balaban_trebnyk",
+  "cohort": 61,
+  "target_file": "1606_striatyn_balaban_trebnyk_cohort61_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1606_striatyn_balaban_trebnyk_cohort61_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1606_striatyn_balaban_trebnyk_cohort61_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1606_striatyn_balaban_trebnyk_cohort61_raw_draft.md",
+      "footnotes_file": "1606_striatyn_balaban_trebnyk_cohort61_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 23,
+      "definition_markers_count": 23,
+      "text_markers": [
+        "[^1696]",
+        "[^1697]",
+        "[^1698]",
+        "[^1699]",
+        "[^1700]",
+        "[^1701]",
+        "[^1702]",
+        "[^1703]",
+        "[^1704]",
+        "[^1705]",
+        "[^1706]",
+        "[^1707]",
+        "[^1708]",
+        "[^1709]",
+        "[^1710]",
+        "[^1711]",
+        "[^1712]",
+        "[^1713]",
+        "[^1714]",
+        "[^1715]",
+        "[^1716]",
+        "[^1717]",
+        "[^1718]"
+      ],
+      "definition_markers": [
+        "[^1696]",
+        "[^1697]",
+        "[^1698]",
+        "[^1699]",
+        "[^1700]",
+        "[^1701]",
+        "[^1702]",
+        "[^1703]",
+        "[^1704]",
+        "[^1705]",
+        "[^1706]",
+        "[^1707]",
+        "[^1708]",
+        "[^1709]",
+        "[^1710]",
+        "[^1711]",
+        "[^1712]",
+        "[^1713]",
+        "[^1714]",
+        "[^1715]",
+        "[^1716]",
+        "[^1717]",
+        "[^1718]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1606_striatyn_balaban_trebnyk_cohort61_raw_draft.md",
+      "passed": true,
+      "paragraphs": 73,
+      "headings_count": 1,
+      "headings": [
+        {
+          "line": 15,
+          "level": 1,
+          "title": "PART XXVII: THE ORDER OF THE LITTLE SCHEMA (THAT IS, THE MANTIYA)[^1697]",
+          "leaf": 602
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 601,
+        "max_leaf": 610
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "total_queued_leaves": 98,
+    "unresolved_quarantines": 0
+  }
+}

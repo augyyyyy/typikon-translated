@@ -1,0 +1,134 @@
+{
+  "timestamp": "2026-10-30T14:31:02.579986+00:00",
+  "monument_id": "1606_striatyn_balaban_trebnyk",
+  "cohort": 129,
+  "target_file": "1606_striatyn_balaban_trebnyk_cohort129_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1606_striatyn_balaban_trebnyk_cohort129_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1606_striatyn_balaban_trebnyk_cohort129_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1606_striatyn_balaban_trebnyk_cohort129_raw_draft.md",
+      "footnotes_file": "1606_striatyn_balaban_trebnyk_cohort129_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 32,
+      "definition_markers_count": 32,
+      "text_markers": [
+        "[^3914]",
+        "[^3915]",
+        "[^3916]",
+        "[^3917]",
+        "[^3918]",
+        "[^3919]",
+        "[^3920]",
+        "[^3921]",
+        "[^3922]",
+        "[^3923]",
+        "[^3924]",
+        "[^3925]",
+        "[^3926]",
+        "[^3927]",
+        "[^3928]",
+        "[^3929]",
+        "[^3930]",
+        "[^3931]",
+        "[^3932]",
+        "[^3933]",
+        "[^3934]",
+        "[^3935]",
+        "[^3936]",
+        "[^3937]",
+        "[^3938]",
+        "[^3939]",
+        "[^3940]",
+        "[^3941]",
+        "[^3942]",
+        "[^3943]",
+        "[^3944]",
+        "[^3945]"
+      ],
+      "definition_markers": [
+        "[^3914]",
+        "[^3915]",
+        "[^3916]",
+        "[^3917]",
+        "[^3918]",
+        "[^3919]",
+        "[^3920]",
+        "[^3921]",
+        "[^3922]",
+        "[^3923]",
+        "[^3924]",
+        "[^3925]",
+        "[^3926]",
+        "[^3927]",
+        "[^3928]",
+        "[^3929]",
+        "[^3930]",
+        "[^3931]",
+        "[^3932]",
+        "[^3933]",
+        "[^3934]",
+        "[^3935]",
+        "[^3936]",
+        "[^3937]",
+        "[^3938]",
+        "[^3939]",
+        "[^3940]",
+        "[^3941]",
+        "[^3942]",
+        "[^3943]",
+        "[^3944]",
+        "[^3945]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1606_striatyn_balaban_trebnyk_cohort129_raw_draft.md",
+      "passed": true,
+      "paragraphs": 46,
+      "headings_count": 1,
+      "headings": [
+        {
+          "line": 5,
+          "level": 1,
+          "title": "PART LI: AGAIN: DIVERSE INJUNCTIONS OF THE HOLY APOSTLES AND OF THE GOD-BEARING HOLY FATHERS[^3914]",
+          "leaf": 1281
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 1281,
+        "max_leaf": 1290
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "total_queued_leaves": 240,
+    "unresolved_quarantines": 0
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "timestamp": "2026-10-30T10:30:24.858092+00:00",
+  "monument_id": "1606_striatyn_balaban_trebnyk",
+  "cohort": 110,
+  "target_file": "1606_striatyn_balaban_trebnyk_cohort110_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1606_striatyn_balaban_trebnyk_cohort110_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1606_striatyn_balaban_trebnyk_cohort110_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1606_striatyn_balaban_trebnyk_cohort110_raw_draft.md",
+      "footnotes_file": "1606_striatyn_balaban_trebnyk_cohort110_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 21,
+      "definition_markers_count": 21,
+      "text_markers": [
+        "[^3146]",
+        "[^3147]",
+        "[^3148]",
+        "[^3149]",
+        "[^3150]",
+        "[^3151]",
+        "[^3152]",
+        "[^3153]",
+        "[^3154]",
+        "[^3155]",
+        "[^3156]",
+        "[^3157]",
+        "[^3158]",
+        "[^3159]",
+        "[^3160]",
+        "[^3161]",
+        "[^3162]",
+        "[^3163]",
+        "[^3164]",
+        "[^3165]",
+        "[^3166]"
+      ],
+      "definition_markers": [
+        "[^3146]",
+        "[^3147]",
+        "[^3148]",
+        "[^3149]",
+        "[^3150]",
+        "[^3151]",
+        "[^3152]",
+        "[^3153]",
+        "[^3154]",
+        "[^3155]",
+        "[^3156]",
+        "[^3157]",
+        "[^3158]",
+        "[^3159]",
+        "[^3160]",
+        "[^3161]",
+        "[^3162]",
+        "[^3163]",
+        "[^3164]",
+        "[^3165]",
+        "[^3166]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1606_striatyn_balaban_trebnyk_cohort110_raw_draft.md",
+      "passed": true,
+      "paragraphs": 38,
+      "headings_count": 1,
+      "headings": [
+        {
+          "line": 57,
+          "level": 1,
+          "title": "PART XXXIX: THE ORDER PERFORMED IN FIELDS, OR IN A VINEYARD, OR IN A GARDEN, IF IT CHANCE THAT THEY BE HARMED BY CREEPING THINGS, OR BY OTHER SPECIES [OF PESTS][^3161]",
+          "leaf": 1098
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 1091,
+        "max_leaf": 1100
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "total_queued_leaves": 158,
+    "unresolved_quarantines": 0
+  }
+}

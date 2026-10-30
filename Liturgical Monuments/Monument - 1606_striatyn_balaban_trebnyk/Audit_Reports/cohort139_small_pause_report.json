@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-10-30T17:56:47.022910+00:00",
+  "monument_id": "1606_striatyn_balaban_trebnyk",
+  "cohort": 139,
+  "target_file": "1606_striatyn_balaban_trebnyk_cohort139.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1606_striatyn_balaban_trebnyk_cohort139.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1606_striatyn_balaban_trebnyk_cohort139.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1606_striatyn_balaban_trebnyk_cohort139.md",
+      "footnotes_file": "1606_striatyn_balaban_trebnyk_cohort139_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 28,
+      "definition_markers_count": 28,
+      "text_markers": [
+        "[^4305]",
+        "[^4306]",
+        "[^4307]",
+        "[^4308]",
+        "[^4309]",
+        "[^4310]",
+        "[^4311]",
+        "[^4312]",
+        "[^4313]",
+        "[^4314]",
+        "[^4315]",
+        "[^4316]",
+        "[^4317]",
+        "[^4318]",
+        "[^4319]",
+        "[^4320]",
+        "[^4321]",
+        "[^4322]",
+        "[^4323]",
+        "[^4324]",
+        "[^4325]",
+        "[^4326]",
+        "[^4327]",
+        "[^4328]",
+        "[^4329]",
+        "[^4330]",
+        "[^4331]",
+        "[^4332]"
+      ],
+      "definition_markers": [
+        "[^4305]",
+        "[^4306]",
+        "[^4307]",
+        "[^4308]",
+        "[^4309]",
+        "[^4310]",
+        "[^4311]",
+        "[^4312]",
+        "[^4313]",
+        "[^4314]",
+        "[^4315]",
+        "[^4316]",
+        "[^4317]",
+        "[^4318]",
+        "[^4319]",
+        "[^4320]",
+        "[^4321]",
+        "[^4322]",
+        "[^4323]",
+        "[^4324]",
+        "[^4325]",
+        "[^4326]",
+        "[^4327]",
+        "[^4328]",
+        "[^4329]",
+        "[^4330]",
+        "[^4331]",
+        "[^4332]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1606_striatyn_balaban_trebnyk_cohort139.md",
+      "passed": true,
+      "paragraphs": 136,
+      "headings_count": 1,
+      "headings": [
+        {
+          "line": 3,
+          "level": 1,
+          "title": "PART LVII: TABLE OF CONTENTS (ОГЛАВЛЕНІЕ ВЪСЛѢДОВАНІЙ)[^4305]",
+          "leaf": 1381
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 1381,
+        "max_leaf": 1390
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "total_queued_leaves": 0,
+    "unresolved_quarantines": 0
+  }
+}

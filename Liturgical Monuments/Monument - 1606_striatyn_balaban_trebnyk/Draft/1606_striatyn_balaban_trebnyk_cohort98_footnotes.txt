@@ -1,0 +1,49 @@
+[^2816]: Folio 478r (physical page 971) headpiece and title: *УТѢШИ́ТЕЛНЫЙ ПѢ́ТЫЙ ИЛЍ БЫВА́ЕМЫЙ ЗА ВСѦ́КО прошѐніе* (A Consolatory [Canon or Service], sung or performed for every petition). In Ruthenian and Byzantine liturgical practice, this marks the opening of the celebrated Supplicatory Canon (*Paraklesis* or *Moleben*) to the Most Holy Theotokos, chanted in times of illness, tribulation, public crisis, or personal necessity.
+[^2817]: Rubric on fol. 478r (physical page 971): The initial blessing by the priest (*Благословенъ Богъ нашъ*), followed by the customary Trisagion Prayers, the Lord's Prayer with priestly doxology, twelve repetitions of *Lord, have mercy*, and the triple Invitation to Worship (*Come, let us worship*).
+[^2818]: Psalm 142 (Septuagint LXX versification; Masoretic 143): *Господи услыши молитву мою* (O Lord, hear my prayer). This psalm constitutes the traditional opening penitential psalm of the Paraklesis / Moleben.
+[^2819]: Folio 478r (physical page 971): Announcement of the Troparion in Tone 4, following the verses of *God is the Lord* (*Богъ Господь*, Ps. 117:27 [LXX]).
+[^2820]: Troparion of the Theotokos, Tone 4 (*Къ Богородицѣ прилѣжно нынѣ притецѣмъ* / *Τῇ Θεοτόκῳ ἐκτενῶς νῦν προσδράμωμεν*), on fol. 478r-v (physical pages 971-972). The text witnesses the classic Byzantine penitential supplicatory troparion.
+[^2821]: Liturgical florid flourish `Ꙃ` on fol. 478v (physical page 972), marking the cue for *Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto ages of ages. Amen.*
+[^2822]: Theotokion Troparion, Tone 4 (*Не умолчимъ никогдаже, Богородице* / *Οὐ σιωπήσομέν ποτε Θεοτόκε*), on fol. 478v (physical page 972).
+[^2823]: Rubric on fol. 479r (physical page 973): Directing the reading of Psalm 50 (Septuagint LXX; Masoretic 51): *Помилуй мя, Боже* (Have mercy on me, O God).
+[^2824]: Rubric on fol. 479r (physical page 973): Indicating the beginning of the Supplicatory Canon to the Most Holy Theotokos (*кано́нъ молбѣ̀ пр҃тѣ́й Бц҃и*), Tone 8, Ode 1.
+[^2825]: Heirmos of Ode 1, Tone 8, on fol. 479r (physical page 973): *Во́дꙋ прошѐдъ ꙗ҆́ко по сꙋ́хꙋ, и҆з̾ є҆гѵ́пе[тскаго зла бѣжав]* (*Ὑγρὰν διοδεύσας ὡсеὶ ξηράν*). Printed by incipit only, in strict conformity with Ruthenian liturgical typography.
+[^2826]: Troparion 1 of Ode 1, Tone 8 (*Многими содержимь напастьми* / *Πολλοῖς συνεχόμενος πειρασμοῖς*), on fol. 479r (physical page 973).
+[^2827]: Troparion 2 of Ode 1, Tone 8 (*Страстей мя смущаютъ прилози* / *Παθῶν με ταράττουσι προσβολαί*), on fol. 479r (physical page 973).
+[^2828]: Troparion 3 of Ode 1, Tone 8 (*Спаса рождшую тя и Бога молю* / *Σωτῆρα τεκοῦσάν σε καὶ Θεόν*), on fol. 479r (physical page 973), preceded by the cue for *Glory*.
+[^2829]: Troparion 4 (Theotokion) of Ode 1, Tone 8, on fol. 479v (physical page 974): *Въ скръби мя суща и въ тузѣ* (*Νοσοῦντα τὸ σῶμα καὶ τὴν ψυχήν*). The 1606 Striatyn print renders the opening phrase as *Въ скръби мя суща и въ тузѣ* (Being in sorrow and grief), a distinct Ruthenian recensional witness compared to standard post-Nikonian editions (*Недугующа тѣломъ и душею*).
+[^2830]: Katavasia after Ode 1 on fol. 479v (physical page 974): *Спаси отъ бѣдъ рабы своя, Богородице* (*Διάσωσον ἀπὸ κινδύνων τοὺς δούλους σου, Θεοτόκε*).
+[^2831]: Rubric on fol. 479v (physical page 974): Directing that this Katavasia (*Спаси отъ бѣдъ...*) be chanted after each ode of the canon (*Сїю̀ катава́сїю пое́мъ по ко́еждо пѣ́сни*).
+[^2832]: Heirmos of Ode 3, Tone 8, on fol. 479v (physical page 974): *Небесному кругу верхотворче Господи* (*Οὐρανίας ἁψῖδος ὀροφοῦργε Κύριε*), witnessed here by incipit only (*Нбⷭ҇ному крꙋ́гꙋ връхо:*).
+[^2833]: Troparion 1 of Ode 3, Tone 8 (*Заступленіе и покровъ жизни моея* / *Προστασίαν καὶ σκέπην ζωῆς ἐμῆς*), on fol. 479v (physical page 974).
+[^2834]: Troparion 2 of Ode 3, Tone 8 (*Молюся, Дѣво, душевное смущеніе* / *Ἱκετεύω, Παρθένε, τὸν ψυχικὸν τάραχον*), on fol. 480r (physical page 975).
+[^2835]: Troparion 3 of Ode 3, Tone 8 (*Благодѣтеля рождши добрыхъ виновнаго* / *Εὐεργέτην τεκοῦσα τὸν τῶν καλῶν αἴтиον*), on fol. 480r (physical page 975), preceded by the cue for *Glory*.
+[^2836]: Troparion 4 (Theotokion) of Ode 3, Tone 8, on fol. 480r (physical page 975): *Лютыми недуги и болѣзньными страстьми* (*Χαλεпаῖς ἀррωστίαις καὶ νοσεροῖς πάθεσιν*), preceded by the cue for *Both now*.
+[^2837]: Katavasia cue after Ode 3 on fol. 480r (physical page 975): *Спаси отъ бѣдъ рабы своя, Богородице*.
+[^2838]: Rubric on fol. 480r (physical page 975): Prescribes the augmented litany (*дїако́нства*), wherein the priest or deacon commemorates the specific petitioner(s) for whose intention the moleben is celebrated.
+[^2839]: Opening petition of the augmented litany on fol. 480v (physical page 976): *Помилуй насъ, Боже, по велицѣй милости твоей, молимтися, услыши и помилуй*.
+[^2840]: Congregational response on fol. 480v (physical page 976): *Господи помилуй, трижды* (Lord, have mercy, thrice).
+[^2841]: Rubric on fol. 480v (physical page 976): Prescribes the special petition to be inserted when the moleben is offered for the Sovereign/Tsar (*А҆́ще поє́ши за цр҃ѧ, глаго́ли*).
+[^2842]: Special petition for the Tsar on fol. 480v (physical page 976): *Еще молимся о благочестивѣмъ и Богохранимѣмъ цари нашемъ...*
+[^2843]: Congregational response on fol. 480v (physical page 976): *Lord, have mercy (thrice).*
+[^2844]: Rubric on fol. 480v (physical page 976): Prescribes the special petition when offering the moleben for an Orthodox warrior or soldier (*А́ще ли поє́ши ѡ҆ во́инѣ, глаго́ли сїѐ*).
+[^2845]: Special petition for a warrior, concluding on fol. 481r (physical page 977): *...христолюбиваго воинства раба Божія имярекъ*.
+[^2846]: Congregational response on fol. 481r (physical page 977): *Господи помилуй, трижды* (*г҃*).
+[^2847]: Rubric on fol. 481r (physical page 977): Directing the priest to pronounce the exclamation prayer (*мл҃тва възгла́снаѧ*).
+[^2848]: Priestly exclamation prayer on fol. 481r (physical page 977): *Услыши ны, Боже, Спасителю нашъ, упованіе всѣмъ концемъ земли...*, concluding with the Trinitarian doxology *now and ever, and unto ages of ages*.
+[^2849]: Rubric on fol. 481r (physical page 977): Providing the alternative augmented litany when chanting the moleben for a bishop, an hegumen, a monk, or a layman (*А́ще ли поє́ши моле́бенъ за є҆пⷭ҇па и҆ли и҆гꙋ́мена, и҆ли за и҆́нока, и҆ли за мирѧни́на*).
+[^2850]: Opening petition of the alternative litany on fol. 481r (physical page 977): *Помилуй насъ, Боже, по велицѣй милости твоей, молимтися, услыши и помилуй*.
+[^2851]: Personal petition for the petitioner on fol. 481v (physical page 978): *Еще молимся Господу Богу нашему, избавити раба своего имярекъ, отъ всякоя скръби, гнѣва, бѣды, и нужда, и отъ всякоя болѣзни душевныя и тѣлесныя...*
+[^2852]: Congregational response on fol. 481v (physical page 978): Prescribes *Lord, have mercy* fifty times (*лю́дїе, Гдⷭ҇и поми́лꙋй . н҃ .*). The rubric specifies fifty repetitions (*н҃* = 50 in Cyrillic numerals), reflecting the ancient Slavic and monastic penitential custom of intensive fifty-fold supplication.
+[^2853]: Rubric on fol. 481v (physical page 978): Prescribes the petition to be added when chanting for brethren departed on journeys, military service, or maritime voyages (*а́ще ли поє́ши за бра́тїю ѿше́дшихъ на слоу́жбоу, и҆ по мо́рю пла́вающихъ*).
+[^2854]: Conclusion of the petition for travelers and sailors on fol. 482r (physical page 979): *...помиловати ихъ, и простити имъ всяко прегрѣшеніе волное и неволное, рцѣмъ вси: Господи, услыши и помилуй*.
+[^2855]: Congregational response on fol. 482r (physical page 979): Prescribes fifty repetitions of *Lord, have mercy* (*лю́дїе . Гдⷭ҇и поми́лꙋй , н҃ .*).
+[^2856]: Rubric on fol. 482r (physical page 979): Prescribes the petition for the deliverance and protection of the city or monastery from various perils and calamities (*А́ще ли поє́ши ѡ҆ гра́дѣ въ не́мъже живе́ши, и҆ли ѡ҆би́тели въ не́йже пребыва́еши*).
+[^2857]: Conclusion of the petition for the city or monastery on fol. 482v (physical page 980): Entreating God to avert His righteous wrath and preserve the people from impending calamities and destruction.
+[^2858]: Rubric on fol. 482v (physical page 980): Prescribes an additional clause to be appended during times of severe drought (*А́ще ли ѡ҆ бездо́ждїи поє́ши, приложѝ и҆ сїѐ*).
+[^2859]: Petition for rain on fol. 482v (physical page 980): *И о еже одождити земли дождь благъ благостію си, молимтися: Господи, услыши и помилуй*.
+[^2860]: Congregational response on fol. 482v (physical page 980): Prescribes *Lord, have mercy* fifty times (*лю́дїе , Гдⷭ҇и поми́лꙋй . н҃ .*).
+[^2861]: Rubric on fol. 482v (physical page 980): Indicating the priestly exclamation (*въꙁгла́съ*).
+[^2862]: Priestly exclamation incipit on fol. 482v (physical page 980): *Услыши ны, Боже, Спасителю нашъ, упованіе...*
+[^2863]: Rubric on fol. 482v (physical page 980): Prescribing the Sessional Hymn (*сѣдаленъ*), Tone 2, to be chanted following Ode 3 and the augmented litany.
+[^2864]: Incipit of the Sessional Hymn to the Theotokos, Tone 2, on fol. 482v (physical page 980): *Молитва теплая купно, и стѣна необоримая, милости источниче, и...* (*Πρεσβεία θερμὴ καὶ τεῖχος ἀπροσμάχητον*). The text breaks off at the bottom margin of fol. 482v with the catchword *и* (and), continuing onto physical page 981 in Cohort 99.

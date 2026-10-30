@@ -1,0 +1,24 @@
+[^1445]: LXX Psalm 118:135 (MT 119:135). The seventeenth kathisma continues without pause across folios 241v–242r. Slavonic: *просвѣтѝ на ра́ба твое́го* (Greek: ἐπίφανον ἐπὶ τὸν δοῦλόν σου, 'make shine upon Thy servant').
+[^1446]: LXX Psalm 118:139 (MT 119:139). Slavonic: *и҆ста́ала мѧ̀ є҆́ст жа́лост твоѧ̀* (Greek: ἐξέτηξέ με ὁ ζῆλός σου, 'Thy zeal has consumed/melted me down'). The Church Slavonic *жа́лость* preserves here the archaic Ruthenian/Slavonic meaning of ardent zeal or consuming grief, translating Greek ζῆλος.
+[^1447]: LXX Psalm 118:140 (MT 119:140). Slavonic: *ражѐже́но сло́во твоѐ зѣло̀* (Greek: πεπυρωμένον τὸ λόγιόν σου σφόδρα, 'Thy oracle/word is exceedingly refined by fire').
+[^1448]: LXX Psalm 118:147 (MT 119:147). Slavonic: *предвари́хъ въ безго́дїи* (Greek: προέφθασα ἐν ἀωρίᾳ, 'I anticipated unseasonable hours / before the dawn').
+[^1449]: LXX Psalm 118:150 (MT 119:150). The 1606 text reads *прибли́жиша гона́щен мѧ безако́нїе* where standard editions have *прибли́жишася гоня́щїи мя беззако́нїемъ* (Greek: προσήγγισαν οἱ καταδιώκοντές με ἀνομίᾳ).
+[^1450]: LXX Psalm 118:152 (MT 119:152). Slavonic: *Испрѣ́ва позна́хъ* (Greek: Κατ' ἀρχὰς ἔγνων, 'From the beginning / of old have I known').
+[^1451]: LXX Psalm 118:158 (MT 119:158). Slavonic: *ви́дѣхъ неразоумѣва́ющаѧ, и҆ и҆ста́ахъ* (Greek: εἶδον ἀσυνθετοῦντας καὶ ἐξετηκόμην, 'I beheld transgressors/covenant-breakers and melted with grief').
+[^1452]: LXX Psalm 118:160 (MT 119:160). Slavonic: *Нача́ло слове́съ твои́хъ и҆́стинна* (Greek: Ἀρχὴ τῶν λόγων σου ἀλήθεια). The opening verse of the final twentieth-second strophic octave (Resh / Sin / Tav).
+[^1453]: LXX Psalm 118:171 (MT 119:171). Slavonic: *Ѿры́гнетѣ оу҆стнѣ̀ мои пѣ́нїе* (Greek: Ἐξερεύξονται τὰ χείλη μου ὕμνον, 'My lips shall bubble over / pour forth a hymn'). The dual form *оу҆стнѣ̀* is faithfully preserved in the 1606 witness.
+[^1454]: LXX Psalm 118:176 (MT 119:176). The concluding verse of the 17th Kathisma (*Заблуди́хъ я́ко овча̀ поги́бшее...*) is prescribed by the rubric to be sung thrice (*три́щи*), functioning as the final climactic refrain of the Amomoi before the Evlogetaria.
+[^1455]: The Troparia for the Departed (*Благослове́нъ есѝ Го́споди* / Εὐλογητάρια τῶν κεκοιμημένων), Tone 5, traditionally attributed to St. John of Damascus, sung on Saturdays and at funeral and memorial services.
+[^1456]: Evlogetarion 1 (*Святы́хъ ли́къ обрѣ́те исто́чникъ жи́зни...*). Greek: Χορὸς τῶν Ἁγίων εὗρε πηγὴν τῆς ζωῆς.
+[^1457]: Evlogetarion 2 (*Иже дла́нїю ѿ небытїа създа́вый мѧ...*). Greek: Ὁ διὰ χειρός σου ἐκ μὴ ὄντων πλάσας με.
+[^1458]: Evlogetarion 3 (*Ѡ҆́бразъ є҆́смь неизрече́нныѧ ти сла́вы...*). Greek: Εἰκών εἰμι τῆς ἀρρήτου σου δόξης. Note the profound theological anthropology of the restored divine likeness (*дре́внею доброто́ю* / τὸ ἀρχαῖον κάλλος).
+[^1459]: Evlogetarion 4 (*Иже а҆́гньца Бж҃їа проповѣ́давше...*). Greek: Οἱ τὸν ἀμνὸν τοῦ Θεοῦ κηρύξαντες. Addressed to the Holy Martyrs. The refrain here and in the following verse appears with the plural *на́съ* ('teach us'), reflecting customary Ruthenian choral usage.
+[^1460]: Evlogetarion 5 (*Иже въ поу́ть оу҆́зкїи хо́ждъше...*). Greek: Οἱ τὴν ὁδὸν τὴν στενὴν βαδίσαντες. An evangelical synthesis of Matthew 7:14 and Matthew 11:29–30.
+[^1461]: Evlogetarion 6 (*Оу҆поко́й Бж҃е ра́ба твое́го...*). Greek: Ἀνάπαυσον, ὁ Θεός, τὸν δοῦλόν σου. Addressed directly to Christ on behalf of the deceased.
+[^1462]: The Triadikon / Trinitarian Troparion (*Трїсїѧ́телное є҆ди́наго Бж҃тва...*). Greek: Τὸ τριλαμπὲς τῆς μιᾶς Θεότητος. Deity pronouns referring to the Father, Son, and Holy Spirit are capitalized in strict compliance with MTS-1.
+[^1463]: Theotokion of the Evlogetaria (*Ра́доусѧ чⷭтаѧ, ꙗ҆́же Бг҃а пло́тїю...*). Greek: Χαῖρε, σεμνή, ἡ Θεὸν σαρκὶ τεκοῦσα. Followed by the triple Alleluia.
+[^1464]: Little Litany for the Departed and exclamation (*Ꙗ҆́ко ты̀ є҆сѝ въскр҃енїе...*), referred back to the earlier rubrical occurrence (*ꙗ҆́коже назáдѣ* / 'as before', on fol. 239r, p. 495).
+[^1465]: Tone 4 Funeral Troparion (*Поко́й, Сп҃се на́шъ, съ пра́ведными ра́ба твое́го...*), Greek: Ἀνάπαυσον, Σωτὴρ ἡμῶν, μετὰ δικαίων τὸν δοῦλόν σου. Reference to Psalm 64:5 (LXX) / Psalm 83:11.
+[^1466]: Theotokion (*Иже ѿ дв҃ы възсїѧ́выи мироу Х҃е Бж҃е...*). Greek: Ὁ ἐκ Παρθένου ἀνατείλας τῷ κόσμῳ, Χριστὲ ὁ Θεός.
+[^1467]: The Funeral Canon by St. Theophanes the Branded (Θεοφάνης ὁ Γραπτός, ca. 778–845), Metropolitan of Nicaea, Hymnographer. The Greek acrostic reads: Ἕκτην προσᾴδω τοῖς θανοῦσι μελῳδίαν. Θεοφάνους ('Unto the departed I sing the sixth song. By Theophanes').
+[^1468]: Ode 1 Heirmos, Tone 6: *Ꙗ҆́ко по соу́хоу ходи́въ їзри́ль* (Greek: Ὡς ἐν ἠπείρῳ πεζεύσας ὁ Ἰσραήλ). In accordance with Statutory Mandate 16, the unprinted troparion of the Heirmos is left unexpanded.

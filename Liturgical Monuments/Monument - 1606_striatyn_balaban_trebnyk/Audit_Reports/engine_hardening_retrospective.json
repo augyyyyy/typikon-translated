@@ -1,0 +1,358 @@
+{
+  "monument_id": "1606_striatyn_balaban_trebnyk",
+  "title": "1606 Striatyn Euchologion / Trebnyk of Teodor & Hedeon Balaban (Молитвенник альбо Требник, Стрятин: Друкарня Балабанів, 1606)",
+  "book_type": "euchologion_trebnyk_and_nomocanon",
+  "opening_geometry": "1-up",
+  "total_physical_leaves": 1401,
+  "total_cohorts": 141,
+  "generated_at": "2026-10-30T17:31:00Z",
+  "dimension_1_cohort_velocity": {
+    "total_active_wall_clock_sec": 106932.61,
+    "total_active_wall_clock_hours": 29.7,
+    "contiguous_cohorts_evaluated": 140,
+    "mean_cohort_duration_sec": 755.78,
+    "median_cohort_duration_sec": 690.67,
+    "mean_wo_to_draft_sec": 589.05,
+    "mean_draft_to_report_sec": 166.73,
+    "mean_sec_per_leaf": 75.58,
+    "total_words_source": 134085,
+    "total_words_draft": 173311,
+    "total_chars_source": 864608,
+    "total_chars_draft": 1034324,
+    "mean_draft_to_source_char_ratio": 1.196,
+    "total_footnotes": 4364,
+    "mean_footnotes_per_cohort": 30.95,
+    "mean_footnotes_per_leaf": 3.11,
+    "fastest_full_cohort": {
+      "cohort": 51,
+      "leaves": "p501-p510",
+      "total_sec": 419.65,
+      "draft_words": 1245,
+      "footnotes": 24
+    },
+    "top_3_slowest_cohorts": [
+      {
+        "rank": 1,
+        "cohort": 44,
+        "leaves": "p431-p440",
+        "wo_to_draft_sec": 1238.09,
+        "draft_to_rep_sec": 652.67,
+        "total_sec": 1890.76,
+        "draft_words": 1175,
+        "source_words": 947,
+        "footnotes": 21,
+        "bottleneck_cause": "Transition from Thanksgiving after Communion (# PART XVII) to Communion of the Sick in Haste (# PART XVIII) with dense conditional cinnabar rubrics and abbreviated prayer incipits."
+      },
+      {
+        "rank": 2,
+        "cohort": 139,
+        "leaves": "p1381-p1390",
+        "wo_to_draft_sec": 1064.76,
+        "draft_to_rep_sec": 714.45,
+        "total_sec": 1779.21,
+        "draft_words": 1579,
+        "source_words": 931,
+        "footnotes": 28,
+        "bottleneck_cause": "Highest English word count in monument (1,579 words, 1.70x expansion); 10 consecutive leaves of # PART LVII: TABLE OF CONTENTS (ОГЛАВЛЕНІЕ ВЪСЛѢДОВАНІЙ) requiring conversion of every Church Slavonic alpha-numeric folio reference (а҃..хл҃ѕ) into verified Arabic folio numbers."
+      },
+      {
+        "rank": 3,
+        "cohort": 135,
+        "leaves": "p1341-p1350",
+        "wo_to_draft_sec": 1162.31,
+        "draft_to_rep_sec": 240.84,
+        "total_sec": 1403.14,
+        "draft_words": 1299,
+        "source_words": 1102,
+        "footnotes": 63,
+        "bottleneck_cause": "Nomocanon Penitential Kanonarion (# PART LIV cont.) containing 42 discrete casuistic canons across 10 leaves with 4-6 red/black rubric alternations per page and 63 scholarly footnotes (3rd highest in monument)."
+      }
+    ]
+  },
+  "dimension_2_small_pause_gate_and_self_healing": {
+    "first_pass_clean_cohorts": 125,
+    "self_healed_cohorts_count": 15,
+    "flash_subagent_retry_cohorts_count": 1,
+    "flash_subagent_retry_cohorts": [2],
+    "quarantined_cohorts_count": 0,
+    "triage_events_by_gate": {
+      "gate_1a_vocabulary": [27, 100],
+      "gate_2_hieratic_pronouns": [20, 21, 27, 45, 54, 58, 60, 62, 67, 73, 94, 101, 106, 134],
+      "gate_4_structural": [2]
+    },
+    "compiler_stage_healer_stats": {
+      "draft_files_modified_by_healer": 32,
+      "footnote_files_modified_by_healer": 32,
+      "total_eth_tokens_scanned": 167,
+      "distinct_eth_word_types": 62,
+      "corrupted_eth_word_types_count": 12,
+      "corrupted_eth_occurrences_count": 17,
+      "corrupted_eth_tokens": {
+        "Aseneth": {
+          "corrupted_to": "Asens",
+          "count": 3,
+          "locations": ["Cohort 14 Draft L182", "Cohort 14 Footnote [^199]", "Cohort 15 Draft L26"]
+        },
+        "believeth": {
+          "corrupted_to": "believs",
+          "count": 3,
+          "locations": ["Cohort 19 Footnote [^288]", "Cohort 22 Draft L105", "Cohort 127 Footnote [^3880]"]
+        },
+        "cleaveth": {
+          "corrupted_to": "cleavs",
+          "count": 1,
+          "locations": ["Cohort 118 Footnote [^3458]"]
+        },
+        "compelleth": {
+          "corrupted_to": "compells",
+          "count": 1,
+          "locations": ["Cohort 114 Draft L25"]
+        },
+        "drieth": {
+          "corrupted_to": "dris",
+          "count": 1,
+          "locations": ["Cohort 108 Footnote [^3099]"]
+        },
+        "forgiveth": {
+          "corrupted_to": "forgivs",
+          "count": 1,
+          "locations": ["Cohort 106 Draft L13"]
+        },
+        "partaketh": {
+          "corrupted_to": "partaks",
+          "count": 1,
+          "locations": ["Cohort 41 Draft L30"]
+        },
+        "rebuketh": {
+          "corrupted_to": "rebuks",
+          "count": 1,
+          "locations": ["Cohort 108 Footnote [^3099]"]
+        },
+        "removeth": {
+          "corrupted_to": "removs",
+          "count": 1,
+          "locations": ["Cohort 135 Footnote [^4136]"]
+        },
+        "rideth": {
+          "corrupted_to": "rids",
+          "count": 1,
+          "locations": ["Cohort 87 Footnote [^2472]"]
+        },
+        "trieth": {
+          "corrupted_to": "tris",
+          "count": 1,
+          "locations": ["Cohort 7 Footnote [^108]"]
+        },
+        "wasteth": {
+          "corrupted_to": "wasts",
+          "count": 1,
+          "locations": ["Cohort 48 Footnote [^1419]"]
+        }
+      }
+    }
+  },
+  "dimension_3_argon_review_queue_precision": {
+    "total_queued_leaves": 269,
+    "percent_of_codex_queued": 19.2,
+    "unresolved_quarantines": 0,
+    "signals_breakdown": {
+      "epigraphic_uncertainty_marker": 0,
+      "borderline_sgc02_ratio_low": 0,
+      "borderline_sgc02_ratio_high": 0,
+      "complex_multicolumn_table": 0,
+      "dense_polyglot_apparatus": 269,
+      "quarantined_gate_anomaly": 0
+    },
+    "footnote_count_distribution_on_queued_leaves": {
+      "5": 124,
+      "6": 78,
+      "7": 39,
+      "8": 17,
+      "9": 6,
+      "10": 4,
+      "12": 1
+    },
+    "true_epigraphic_or_codicological_crux_leaves": 4,
+    "true_crux_leaves_list": [407, 1370, 1391, 1392],
+    "false_positive_noise_leaves": 265,
+    "signal_precision_percent": 1.49,
+    "false_positive_rate_percent": 98.51,
+    "recommended_threshold_for_euchologion": {
+      "dense_polyglot_apparatus_min_footnotes": 9,
+      "resulting_queue_size": 11,
+      "noise_reduction_percent": 95.91
+    }
+  },
+  "dimension_4_compiler_and_verifier_edge_cases": {
+    "mid_sentence_page_breaks_stitched": 657,
+    "compiled_body_chars": 1007239,
+    "bijective_master_footnotes": 4364,
+    "h1_landmarks_count": 58,
+    "h1_landmarks_with_attached_footnotes": 55,
+    "unpurged_running_header_lines_in_cohorts_5_to_33": 273,
+    "unpurged_inline_continues_markers_in_cohorts_127_to_138": 92,
+    "gate_1_placeholder_hits_in_unpatched_simulation": 8,
+    "edge_cases": [
+      {
+        "id": "EC-01",
+        "component": "scripts/compile_final_edition.py (_slice_parts & _build_master_toc)",
+        "description": "In universal_dynamic_h1 mode, 55 H1 headings carry trailing [^N] markers (e.g., '# PART III: ...[^82]'). _slice_parts stores literal [^N] in ps['title'] and _build_master_toc does not strip [^N] from H1 titles, duplicating 55 part-title footnote citations into Part 0's Table of Contents and local ### Notes block."
+      },
+      {
+        "id": "EC-02",
+        "component": "scripts/compile_final_edition.py (is_explicit_leaf_marker & stitch_leaf_stream)",
+        "description": "273 bracketed running header lines ('[Fol. 12r. Running header: ...]') in Cohorts 5-33 are not matched by is_explicit_leaf_marker(), causing stitch_leaf_stream() to stitch mid-sentence page breaks into the running header bracket."
+      },
+      {
+        "id": "EC-03",
+        "component": "scripts/compile_final_edition.py (purge_scaffolding_and_stitch_seams)",
+        "description": "92 inline continuation markers ('... [continues onto leaf p1274]') and '**Priest (continued):**' headers in Cohorts 127-138 survive into the compiled stream or block mid-prayer stitching."
+      },
+      {
+        "id": "EC-04",
+        "component": "scripts/verify_publication_edition.py (PLACEHOLDER_PATTERNS) vs work_order_template.md (Mandate 12)",
+        "description": "2 footnoted blank leaves ('[Blank leaf — Fol. 264v][^1573]') and 5 diplomatic flyleaf descriptions ('[Blank leaf: verso of the rear free flyleaf...]') trigger Gate 1 'Blank leaf indicator' failures; deleting the footnoted blank leaf lines without converting them to '*[Fol. 264v — Vacat]*[^1573]' would orphan [^1573] and [^1597] in Gate 2."
+      },
+      {
+        "id": "EC-05",
+        "component": "scripts/compile_final_edition.py (format_liturgical_typography)",
+        "description": "Dialogue regex '^(?:>\\s*)?(?:The\\s+)?(Priest|...):\\s*(.*)$' lacks optional '(?:\\*\\*)?' around the speaker role, missing all 1,195 bolded '**Priest:**' / '**Deacon:**' / '**Choir:**' dialogue lines mandated by work_order_template.md Mandate 10."
+      }
+    ]
+  },
+  "dimension_5_granular_atomic_tagging_blueprint": {
+    "target_corpus_file": "1606_striatyn_balaban_trebnyk_atomic_corpus.json",
+    "total_atomic_units_inventoried": 3243,
+    "variable_propers_total": 710,
+    "fixed_non_propers_total": 2533,
+    "variable_propers_classes": {
+      "canon_ode_heirmos": {
+        "count": 74,
+        "regex": "^\\*Ode\\s+([1-9])(?:,\\s*Tone\\s+[1-8])?[\\.,]?\\s*Heirmos\\s*:?\\*(?:\\s*(.+))?$"
+      },
+      "standalone_heirmos": {
+        "count": 17,
+        "regex": "^\\*Heirmos(?:\\s*\\([^\\)]+\\))?\\s*:?\\*(?:\\s*(.+))?$"
+      },
+      "canon_troparion": {
+        "count": 382,
+        "regex": "^\\*(?:Troparion|Another\\s+Troparion|Refrain)\\s*[^*\\n]*:\\*(?:\\s*(.+))?$"
+      },
+      "theotokion_stavrotheotokion": {
+        "count": 133,
+        "regex": "^\\*(?:Theotokion|Stavrotheotokion|Another\\s+Theotokion)\\s*[^*\\n]*:\\*(?:\\s*(.+))?$"
+      },
+      "sticheron_idiomelon_prosomoion": {
+        "count": 43,
+        "regex": "^\\*(?:Sticher(?:a|on)|Idiomel(?:a|on)|Another\\s+Sticheron|Tone\\s+[1-8],\\s*Podoben)\\s*[^*\\n]*:\\*(?:\\s*(.+))?$"
+      },
+      "prokeimenon_alleluia": {
+        "count": 32,
+        "regex": "^\\*(?:Prokeimenon|Alleluia)\\s*[^*\\n]*:\\*(?:\\s*(.+))?$"
+      },
+      "kontakion": {
+        "count": 18,
+        "regex": "^\\*Kontakion\\s*[^*\\n]*:\\*(?:\\s*(.+))?$"
+      },
+      "ikos": {
+        "count": 5,
+        "regex": "^\\*Ikos\\s*[^*\\n]*:\\*(?:\\s*(.+))?$"
+      },
+      "sessional_hymn": {
+        "count": 5,
+        "regex": "^\\*Sessional\\s+Hymn\\s*[^*\\n]*:\\*(?:\\s*(.+))?$"
+      },
+      "exapostilarion": {
+        "count": 1,
+        "regex": "^\\*(?:Exapostilarion|Hymn\\s+of\\s+Light)\\s*[^*\\n]*:\\*(?:\\s*(.+))?$"
+      }
+    },
+    "fixed_non_propers_classes": {
+      "h1_part_landmark": {
+        "count": 58,
+        "regex": "^#\\s+(PREFACE:\\s+TO\\s+THE\\s+READER|PART\\s+[IVXLCDM]+:\\s+.+?)(?:\\[\\^\\d+\\])?$"
+      },
+      "sacerdotal_prayer_rubric_header": {
+        "count": 161,
+        "regex": "^\\*(?:Prayer\\b|Another\\s+Prayer\\b|The\\s+Priest\\s+prays|Prayer\\s+over|Prayer\\s+of|Exorcism\\b)[^*\\n]*\\*"
+      },
+      "dialogue_priest_speech": {
+        "count": 506,
+        "regex": "^(?:>\\s*)?\\*\\*Priest(?:\\s*\\([^\\)]+\\))?:\\*\\*\\s*(.+)$"
+      },
+      "dialogue_deacon_speech": {
+        "count": 282,
+        "regex": "^(?:>\\s*)?\\*\\*Deacon(?:\\s*\\([^\\)]+\\))?:\\*\\*\\s*(.+)$"
+      },
+      "dialogue_choir_reader_response": {
+        "count": 407,
+        "regex": "^(?:>\\s*)?\\*\\*(?:Choir|Reader|People|Chanter|Clergy|Bishop\\s*/\\s*Hierarch|Sponsor|Catechumen|Question|Answer)(?:\\s*\\([^\\)]+\\))?:\\*\\*\\s*(.+)$"
+      },
+      "litany_block": {
+        "count": 64,
+        "regex": "\\b(?:In\\s+peace,\\s+let\\s+us\\s+pray\\s+to\\s+the\\s+Lord|Have\\s+mercy\\s+on\\s+us,\\s+O\\s+God,\\s+according\\s+to\\s+Thy\\s+great\\s+mercy|Again\\s+we\\s+pray\\s+for)\\b"
+      },
+      "ecphonesis_exclamation": {
+        "count": 56,
+        "regex": "\\bFor\\s+(?:unto\\s+Thee\\s+is\\s+due\\s+all\\s+glory|Thine\\s+is\\s+the\\s+kingdom|Thou\\s+art\\s+a\\s+merciful\\s+and\\s+man-befriending\\s+God|Thou\\s+art\\s+the\\s+sanctification|Thou\\s+art\\s+He\\s+that\\s+blesses)\\b"
+      },
+      "sacramental_declarative_formula": {
+        "count": 16,
+        "regex": "\\b(?:The\\s+servant\\s+of\\s+God\\s+\\[?N\\.\\]?[,]?\\s+is\\s+(?:baptized|betrothed|crowned|shorn)|The\\s+seal\\s+of\\s+the\\s+gift\\s+of\\s+the\\s+Holy\\s+Spirit|forgive\\s+and\\s+absolve)\\b"
+      },
+      "psalm_heading_or_stichos": {
+        "count": 76,
+        "regex": "^\\*(?:Psalm\\s+\\d+|Verse\\s*:?)[^*\\n]*\\*"
+      },
+      "lectionary_epistle_gospel": {
+        "count": 16,
+        "regex": "^\\*(?:The\\s+Reading\\s+is\\s+from|The\\s+Holy\\s+Gospel\\s+according\\s+to|Gospel\\s+according\\s+to|Epistle\\s+of)[^*\\n]*\\*"
+      },
+      "nomocanon_section_or_canon_rubric": {
+        "count": 299,
+        "regex": "^\\*(?:\\d+\\.\\s*)?(?:Concerning\\s+[^*\\n]+|Of\\s+the\\s+Holy\\s+Fathers|Injunctions|Statute|Canon\\s+\\d+[^*\\n]*|Degree\\s+[^*\\n]*):\\*(?:\\[\\^\\d+\\])?$"
+      },
+      "procedural_rubric_paragraph": {
+        "count": 592,
+        "regex": "^\\*(?!(?:Ode|Heirmos|Troparion|Theotokion|Stavrotheotokion|Kontakion|Ikos|Sessional|Sticher|Idiomel|Exapostilarion|Prokeimenon|Alleluia|Psalm|Verse|Prayer|Exorcism|Concerning|Of the Holy Fathers|Injunctions|Statute))[^*\\n]{15,}\\*(?:\\[\\^\\d+\\])?$"
+      }
+    }
+  },
+  "dimension_6_top_5_recommendations": [
+    {
+      "rank": 1,
+      "severity": "CRITICAL",
+      "target_file": "scripts/compile_final_edition.py",
+      "target_functions": ["NON_VERB_ETH_TOKENS", "EXACT_ETH_VERB_MAP", "_convert_3rd_person_eth_token"],
+      "summary": "Fix naive '-eth' stemmer that corrupts biblical proper noun 'Aseneth' -> 'Asens' (3x) and 11 silent-e / -ieth / -lleth verbs ('believeth' -> 'believs', 'cleaveth' -> 'cleavs', 'forgiveth' -> 'forgivs', 'partaketh' -> 'partaks', 'rebuketh' -> 'rebuks', 'removeth' -> 'removs', 'rideth' -> 'rids', 'wasteth' -> 'wasts', 'drieth' -> 'dris', 'trieth' -> 'tris', 'compelleth' -> 'compells')."
+    },
+    {
+      "rank": 2,
+      "severity": "HIGH",
+      "target_file": "scripts/compile_final_edition.py",
+      "target_functions": ["UniversalPublicationEngine._slice_parts", "UniversalPublicationEngine._build_master_toc"],
+      "summary": "Strip trailing '[^N]' footnote markers from dynamic H1 titles in _slice_parts() and _build_master_toc() so 55 part-heading footnotes are not duplicated into Part 0's Table of Contents and local ### Notes block."
+    },
+    {
+      "rank": 3,
+      "severity": "HIGH",
+      "target_file": "scripts/compile_final_edition.py",
+      "target_functions": ["is_explicit_leaf_marker", "purge_scaffolding_and_stitch_seams", "stitch_leaf_stream"],
+      "summary": "Strip 273 '[Fol. Xr. Running header: ...]' lines and 92 inline '... [continues onto leaf pN]' / '**Role (continued):**' markers before seam stitching, and normalize '[Blank leaf — Fol. Xv][^N]' and diplomatic flyleaf descriptions into '*[Fol. Xv — Vacat]*[^N]' and '*[Flyleaf — ...]*' to eliminate all 8 Gate 1 placeholder collisions without orphaning footnotes."
+    },
+    {
+      "rank": 4,
+      "severity": "MEDIUM-HIGH",
+      "target_file": "scripts/run_small_pause_gate.py",
+      "target_functions": ["collect_argon_review_signals"],
+      "summary": "Recalibrate Signal 3B ('dense_polyglot_apparatus') for Euchologion/Nomocanon monuments by raising the footnote threshold from >=5 to >=9 (or requiring >=6 plus a footnote crux keyword), cutting false-positive Argon queue noise on 1606_striatyn_balaban_trebnyk by 95.9% (from 269 leaves to 11 leaves)."
+    },
+    {
+      "rank": 5,
+      "severity": "MEDIUM",
+      "target_file": "scripts/compile_final_edition.py & data/templates/work_order_template.md",
+      "target_functions": ["format_liturgical_typography", "Statutory Mandates 4 & 12"],
+      "summary": "Allow optional '**' around speaker roles in format_liturgical_typography() so all 1,195 '**Priest:**' / '**Deacon:**' lines receive blockquote formatting, and update work_order_template.md Mandates 4 & 12 to ban '-eth' verbs in Scriptural citations/footnotes and use '*[Flyleaf / Vacat: ...]*' instead of '[Blank leaf: ...]'."
+    }
+  ]
+}

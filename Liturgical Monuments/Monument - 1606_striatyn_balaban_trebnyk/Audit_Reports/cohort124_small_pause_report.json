@@ -1,0 +1,146 @@
+{
+  "timestamp": "2026-10-30T17:56:13.969588+00:00",
+  "monument_id": "1606_striatyn_balaban_trebnyk",
+  "cohort": 124,
+  "target_file": "1606_striatyn_balaban_trebnyk_cohort124.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1606_striatyn_balaban_trebnyk_cohort124.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1606_striatyn_balaban_trebnyk_cohort124.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1606_striatyn_balaban_trebnyk_cohort124.md",
+      "footnotes_file": "1606_striatyn_balaban_trebnyk_cohort124_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 38,
+      "definition_markers_count": 38,
+      "text_markers": [
+        "[^3719]",
+        "[^3720]",
+        "[^3721]",
+        "[^3722]",
+        "[^3723]",
+        "[^3724]",
+        "[^3725]",
+        "[^3726]",
+        "[^3727]",
+        "[^3728]",
+        "[^3729]",
+        "[^3730]",
+        "[^3731]",
+        "[^3732]",
+        "[^3733]",
+        "[^3734]",
+        "[^3735]",
+        "[^3736]",
+        "[^3737]",
+        "[^3738]",
+        "[^3739]",
+        "[^3740]",
+        "[^3741]",
+        "[^3742]",
+        "[^3743]",
+        "[^3744]",
+        "[^3745]",
+        "[^3746]",
+        "[^3747]",
+        "[^3748]",
+        "[^3749]",
+        "[^3750]",
+        "[^3751]",
+        "[^3752]",
+        "[^3753]",
+        "[^3754]",
+        "[^3755]",
+        "[^3756]"
+      ],
+      "definition_markers": [
+        "[^3719]",
+        "[^3720]",
+        "[^3721]",
+        "[^3722]",
+        "[^3723]",
+        "[^3724]",
+        "[^3725]",
+        "[^3726]",
+        "[^3727]",
+        "[^3728]",
+        "[^3729]",
+        "[^3730]",
+        "[^3731]",
+        "[^3732]",
+        "[^3733]",
+        "[^3734]",
+        "[^3735]",
+        "[^3736]",
+        "[^3737]",
+        "[^3738]",
+        "[^3739]",
+        "[^3740]",
+        "[^3741]",
+        "[^3742]",
+        "[^3743]",
+        "[^3744]",
+        "[^3745]",
+        "[^3746]",
+        "[^3747]",
+        "[^3748]",
+        "[^3749]",
+        "[^3750]",
+        "[^3751]",
+        "[^3752]",
+        "[^3753]",
+        "[^3754]",
+        "[^3755]",
+        "[^3756]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1606_striatyn_balaban_trebnyk_cohort124.md",
+      "passed": true,
+      "paragraphs": 40,
+      "headings_count": 1,
+      "headings": [
+        {
+          "line": 47,
+          "level": 1,
+          "title": "PART XLIV: ON THE ELEVATION OF THE PANAGIA, WHEN ANYONE WISHES TO GO FORTH UNTO MERCHANDISE[^3745]",
+          "leaf": 1238
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 1231,
+        "max_leaf": 1240
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument - 1606_striatyn_balaban_trebnyk\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "total_queued_leaves": 0,
+    "unresolved_quarantines": 0
+  }
+}

@@ -1,0 +1,51 @@
+[^3978]: Slavonic: "нѣ́кыѧ ра́ди ве́щи не довѣдо́мыѧ • то̀ да не разлоучѧ́ют́сѧ оужѐ, но̀ да пребыва́ютъ • Оба́че подоба́етъ и́мъ ѡ такове́мъ грѣсѣ̀ попещи́сѧ мл҃тынею и по́стомъ •" Concluding the ruling from leaf p1300 regarding marriages contracted unwittingly within the prohibited degrees: if already contracted in ignorance or due to obscure circumstances, pastoral economy (oikonomia) permits the union to remain intact, subject to private penance of prayer, fasting, and almsgiving, whereas knowing violation requires dissolution.
+
+[^3979]: Slavonic: "Оставльше же рожде́ніе и съро́дство тре́тіихъ бра́тꙋчадъ ѿтоу́доу до ѻ́смаго сте́пене... въноутрь же ѻ́смаго сте́пене бра́къ да не боу́детъ". The canonical boundary of consanguinity in Byzantine-Slavic canon law: marriage is strictly prohibited through the seventh degree inclusive; the eighth degree (third cousins / третіи братучади) marks the canonical threshold beyond which marriage is lawful without ecclesiastical impediment.
+
+[^3980]: Syntactic continuity banner: the closing clause on leaf p1301 ("Сїѧ оу́бо соу́тъ ѡ сърѡ́дствїи, и...") transitions directly onto leaf p1302 ("рожденныѧ кро́ве • и ѡ си́хъ писа́хомъ и оу҆ста́вихомъ въ вѣ́дѣніе и҆звѣ́стно").
+
+[^3981]: Rubric and chapter heading: Slavonic: "А҃И Ѡ бра́чныхъ рожакѡ́хъ •" Ruthenian "рожакъ" denotes a kinsman or relative (Polish *krewny* / *rodzak*), here specifically signifying relatives by affinity (marriage / брачное сродство).
+
+[^3982]: Slavonic: "све́кръ ѿ жены̀ сн҃а своего̀ • и҆ сн҃ъ ѿ ма́чехы своеѧ̀ • и дѣ́веръ ѿ жены̀ бра́та своего̀, и҆ шꙋ́рина". Traditional Slavic affinity terminology: *svekr* (husband's father), *machekha* (stepmother), *dever* (husband's brother), and *shurin* (wife's brother). Affinity establishes an impediment identical to direct blood kinship in the prohibited degrees.
+
+[^3983]: Moral and pastoral warning regarding familial modesty and chastity within the domestic household: "Сн҃ъ съ стра́хо[мъ] вели́цѣ да взира́е на лицѐ мт҃ре своеѧ̀... Ѡц҃ъ да внима́етъ себѣ̀ ѡ възо́рѣ своеѧ̀ дще́ре".
+
+[^3984]: Slavonic: "Ѡ бра́чныхъ рожакѡ́хъ... є҆́же възыска́тисѧ бра́коу • то̀ ѻпа́сно да възыска́етсѧ • да не прилꙋчи́тсѧ бы́ти съро́дствоу бра́чноу, си рѣ́чъ сва́тѡве". Mandate for pre-marital canonical scrutiny by the clergy and elders to ensure no hidden impediment of affinity (*svatove* / in-laws) exists prior to solemnizing a marriage.
+
+[^3985]: Slavonic: "роди́телїе оу҆́бо мꙋ́жа, ѡ҆т҃е, и҆ ма́ти, и҆ бра́тїа • и҆ рѡди́телїе жены̀ е҆го̀ и҆ бра́тїа е҆ѧ̀ • пръ́віи сва́тѡве нари́чютсѧ". Canonical classification of affinity: first in-laws (*pervii svatove*) comprise the direct ascendants and siblings of both spouses.
+
+[^3986]: Slavonic: "а҆ пръ́вїи бра́тоу ча́да мꙋ́жа и҆ жены̀ е҆го̀ • сїи нари́чютсѧ втѡ́рїи сва́тѡве • И кто́рїи бра́тоу ча́да жены̀ и҆ моу́жа, па́ки соу́тъ тре́тїи сва́тѡве". Second in-laws (*vtorii svatove*) are first cousins of the spouses; third in-laws (*tretii svatove*) are second cousins.
+
+[^3987]: Canonical regulation of trilateral affinity: marriage is prohibited between first in-laws and first or second in-laws, while second and third cousins across affinal lines may marry without impediment.
+
+[^3988]: Syntactic continuity banner: the solemn recapitulation at the foot of leaf p1304 ("...ꙗ́ко до́ндеже сконча́етсѧ ѻ́смь сте́пенїи оу҆́жикъ и҆ съро́дства • да внима́етсѧ не бы́ти въ ни́хъ взѧ́тїа бра́чна...") carries over onto leaf p1305 ("а҆ ѡ сърѡ́дствїихъ бра́чныхъ, си́рѣчь ѡ сва́тѣхъ...").
+
+[^3989]: The seven-degree rule of affinity: in affinal kinship (*svatove*), marriage is prohibited up to and including the seventh degree.
+
+[^3990]: Fourth-degree affinity: a spouse's first cousin stands in the fourth degree unto the other spouse.
+
+[^3991]: Slavonic: "а҆неѱе́й" (from Byzantine Greek ἀνεψιός), used in Slavic nomocanons for a nephew or first cousin once removed (child of a sibling or cousin).
+
+[^3992]: Syntactic continuity banner: the explanation of maternal and fraternal degrees at the foot of leaf p1305 continues onto leaf p1306 ("...а҆ моу́жъ е҆ѧ съ ско́ею бра́тоу ча́дїю пръ́вою, соу́тъ чеве́ртаго сте́пене...").
+
+[^3993]: Ruthenian vernacular and East Slavic kinship terms: "оу́ика вели́кый" (maternal uncle, mother's brother) and "вели́каа те́та" (maternal aunt, mother's sister), both standing in the third degree of collateral consanguinity.
+
+[^3994]: Slavonic: "ма́лыи оу́ика и҆ ма́ла те́тка" (lesser maternal uncle and lesser aunt), designating first cousins of one's father or mother.
+
+[^3995]: Permissibility of marriage between third cousins across affinal lines: because they stand in the eighth degree or beyond, their union is canonical and unimpeded.
+
+[^3996]: Spiritual kinship (cognatio spiritualis): Council in Trullo (Quinisext), Canon 53. Spiritual relationship between the sponsor (godfather / *koum*) and the baptized child transcends bodily kinship. A sponsor marrying his godson to his daughter commits incest of spiritual kinship, requiring divorce and the deposition (*izverzhet'sia*) of the officiating priest.
+
+[^3997]: Severe penalty for incestuous adultery with a mother-in-law: monastic tonsure for the mother-in-law and a fifteen-year penance for the spouses under spiritual fatherly supervision.
+
+[^3998]: Adoption (*synopolozhenie* / adoptio): civil and canon law establish an impediment between the adoptive child (*prisynennik*) and the adoptive parent's household, extending to the adoptive father's wife and concubine (*pallakida*, glossed in vernacular Ruthenian as *kavka*).
+
+[^3999]: Council of Laodicea, Canon 52: "Marriages and birthday commemorations are not to be celebrated in Lent"; and Canon 51: commemorations of martyrs during Lent are restricted to Saturdays and Sundays. The rubric provides pastoral exception for emergency baptism (*kreshchenie*) in the event of mortal sickness.
+
+[^4000]: Syntactic continuity banner: the hypothetical case of reciprocal family marriage at the foot of leaf p1308 continues onto leaf p1309 ("...то̀ оу҆жѐ не и҆ма́мъ а҆́зъ ка́ко вза́ти и҆ посѧгноу́ти ѻ҆́нꙋ дще́ръ е҆го̀").
+
+[^4001]: Betrothal (*obruchnitsa*) as a canonical impediment: under Byzantine-Slavic law (Trullan Canon 98; St. Basil Canon 78), formal ecclesiastical betrothal creates an affinal bond equivalent to consummated marriage, permanently barring the father or brother from marrying the betrothed maiden.
+
+[^4002]: Canon law on third and fourth marriages: Council of Neocaesarea Canon 3, St. Basil Canons 4 and 50, and the Tomus Unionis (920 AD) of Patriarch Nicholas Mystikos. A fourth marriage is absolutely banned as polygamy; a third marriage is tolerated only under narrow restrictions; a priest who blesses an unlawful third marriage is deposed.
+
+[^4003]: Penance and age thresholds for third marriages from the Tomus Unionis (920 AD): childless persons under 40 may receive a five-year penance; young persons under 30 receive three years penance; those aged 45 to 50 attempting a third marriage are excluded from communion as having acted out of lustful deceit.
