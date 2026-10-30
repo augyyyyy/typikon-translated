@@ -1,0 +1,49 @@
+{
+  "monument_id": "1910_skaballanovich_typikon",
+  "title": "Tolkovy Typikon of Mikhail Skaballanovich (Kyiv, 1910–1915)",
+  "monument_type": "lexicon_scholarly",
+  "genre_register": "scholarly_critical",
+  "retrospective_timestamp": "2026-10-30T21:19:09.477862+00:00",
+  "codicological_profile": {
+    "total_physical_leaves": 1022,
+    "cohort_count": 103,
+    "default_cohort_size": 10,
+    "monument_type": "lexicon_scholarly"
+  },
+  "subagent_execution_telemetry": {
+    "total_cohorts_dispatched": 103,
+    "worker_model": "flash",
+    "cohorts_passing_gate_100pct": 103,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.131,
+      "median_cohort_ratio": 1.298,
+      "max_cohort_median": 1.5
+    }
+  },
+  "argon_review_queue_telemetry": {
+    "total_items_recorded": 0,
+    "resolved_by_argon": 0,
+    "info_telemetry_only": 0,
+    "unresolved_quarantines": 0,
+    "codicological_crux_count": 0
+  },
+  "final_publication_verification": {
+    "parts_count": 5,
+    "parts": [
+      "1910_skaballanovich_part0_intro_and_toc.md",
+      "1910_skaballanovich_part1_historical_investigation.md",
+      "1910_skaballanovich_part2_little_vespers.md",
+      "1910_skaballanovich_part3_all_night_vigil.md",
+      "1910_skaballanovich_part4_saints_vigil.md"
+    ],
+    "total_footnotes_verified": 2834,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.131,
+      "median_cohort_ratio": 1.298,
+      "max_cohort_median": 1.5
+    },
+    "all_6_publication_gates_passed": true
+  },
+  "edge_cases_and_anomalies": [],
+  "engine_hardening_proposals": []
+}

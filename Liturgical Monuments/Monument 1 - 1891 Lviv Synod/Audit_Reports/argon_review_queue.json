@@ -1,9 +1,20 @@
 {
   "monument_id": "1891_lviv_synod",
-  "updated_at": "2026-10-24T22:51:36.679609+00:00",
-  "total_queued_leaves": 1,
+  "updated_at": "2026-10-27T12:28:40.090489+00:00",
+  "total_queued_leaves": 2,
   "unresolved_quarantines": 0,
   "items": [
+    {
+      "leaf_num": 20,
+      "cohort": 1,
+      "status": "QUEUED_FOR_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 11 footnotes on leaf"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 1 - 1891 Lviv Synod\\Final\\1891_lviv_synod_cohort1.txt",
+      "source_file": "Liturgical Monuments\\Monument 1 - 1891 Lviv Synod\\Source Text\\1891_lviv_synod_cohort1_source.txt",
+      "updated_at": "2026-10-27T12:28:40.090471+00:00"
+    },
     {
       "leaf_num": 140,
       "cohort": 7,

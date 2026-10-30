@@ -180,7 +180,7 @@
 
 *INRI*
 
-[Woodcut Headpiece: The Crucifixion of Christ with the Most Holy Theotokos and Saint John the Theologian at the Foot of the Cross, with the Titulus "INRI" (І Н Ц І) inscribed above, flanked by Renaissance foliate arabesques.]
+(*Woodcut Headpiece: The Crucifixion of Christ with the Most Holy Theotokos and Saint John the Theologian at the Foot of the Cross, with the Titulus "INRI" (І Н Ц І) inscribed above, flanked by Renaissance foliate arabesques.*)
 
 ## DAILY DISMISSALS[^726]
 

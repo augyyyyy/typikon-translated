@@ -1,0 +1,51 @@
+{
+  "monument_id": "1899_dolnytsky_typikon",
+  "title": "Typik of Fr. Isidore Dolnytsky (Lviv Stauropegion, 1899)",
+  "monument_type": "typikon",
+  "genre_register": "rubrical",
+  "retrospective_timestamp": "2026-10-30T21:19:06.784029+00:00",
+  "codicological_profile": {
+    "total_physical_leaves": 591,
+    "cohort_count": 60,
+    "default_cohort_size": 10,
+    "monument_type": "typikon"
+  },
+  "subagent_execution_telemetry": {
+    "total_cohorts_dispatched": 30,
+    "worker_model": "flash",
+    "cohorts_passing_gate_100pct": 30,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 0.606,
+      "median_cohort_ratio": 1.001,
+      "max_cohort_median": 1.275
+    }
+  },
+  "argon_review_queue_telemetry": {
+    "total_items_recorded": 0,
+    "resolved_by_argon": 0,
+    "info_telemetry_only": 0,
+    "unresolved_quarantines": 0,
+    "codicological_crux_count": 0
+  },
+  "final_publication_verification": {
+    "parts_count": 7,
+    "parts": [
+      "1899_dolnytsky_part0_intro_and_toc.md",
+      "1899_dolnytsky_part1_general_order.md",
+      "1899_dolnytsky_part2_general_rubrics.md",
+      "1899_dolnytsky_part3_menaion.md",
+      "1899_dolnytsky_part4_triodion.md",
+      "1899_dolnytsky_part5_temple.md",
+      "1899_dolnytsky_part6_tables_and_decrees.md"
+    ],
+    "total_footnotes_verified": 745,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 0.606,
+      "median_cohort_ratio": 1.001,
+      "max_cohort_median": 1.275
+    },
+    "all_6_publication_gates_passed": true
+  },
+  "edge_cases_and_anomalies": [],
+  "engine_hardening_proposals": []
+}

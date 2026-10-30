@@ -1,6 +1,645 @@
 {
+  "engine_codified_decisions": {
+    "melodic_models_podobny": "3-Layer Canonical Standard enforced by hymnographic_gold_normalizer.py: *Tone N, Podoben: \"<Canonical English Incipit>\" (<Slavonic Witness>):* (never transliterated-first or square-bracketed).",
+    "heading_and_rubric_hierarchy": "H1 (#) reserved strictly for Part landmarks in publication_spec; H2 (##) allowed only for primary printed day/service headpieces when H1 & H2 is enabled in flash_execution_guardrails; all sub-services, hours, canons, odes, heirmoi, troparia, and rubrics rendered as inline italics (*...*), never ### or ####.",
+    "canon_and_stanza_typography": "Structured Liturgical Stanzas: each Heirmos, Troparion, Theotokion, and Sticheron is a distinct paragraph preceded by its inline italic role tag (*Ode N. Heirmos:*, *Troparion:*, *Theotokion:*). Litany/dialogue speakers in bold (**Priest:**, **Deacon:**, **Choir:**).",
+    "recensional_variants_and_homilies": "100% Epigraphic Fidelity (Rule 16): translate the physical print strictly as inked without silent harmonization to Nikonian or standard modern editions; document significant recensional variants in footnotes [^N].",
+    "front_matter_paratext_and_titulature": "Baroque heraldic virshi rendered in formal rhythmic unrhymed verse with heraldic notes; Early Modern Ruthenian (prosta mova) prefaces rendered in elevated 17th-century theological prose with marginal citations mapped to [^N]; Imperial, Papal, and Archiepiscopal titulature rendered in full diplomatic translation.",
+    "modular_part_slicing_and_appendices": "Follow physical leaf order 100% (Part 0 front matter, Part 1..K primary liturgical divisions/Tones) and isolate distinct rear appendices (Parastas, Hagiography, Typikon/Gospel Pillars) into their own dedicated final Part.",
+    "patristic_synaxarion_diction": "Statutory Mandate 13: Render narrative Synaxaria, Patristic Homilies, and Martyrological Passions in elevated classical patristic English prose. Strictly forbid pseudo-archaic AI vocabulary (peradventure, verily, betwixt, twas, methinks, hearken, wherefore, forsooth, haply, albeit) and 3rd-person -eth verbs across both body text and footnotes. Flush translated leaves incrementally every 2-3 leaves.",
+    "diachronic_drift_invariance": "Statutory Mandate 11: Translate identical original-language terms, rubrical formulas, and hymnographic phrases identically across multi-century monument series using the canonical shared lexicon so zero artificial English translator drift is introduced, while translating genuine recensional variants strictly as inked."
+  },
+  "scaffolds_by_genre_register": {
+    "hymnographic": "octoechos",
+    "rubrical": "typikon",
+    "juridical": "juridical_synodal",
+    "scholarly_critical": "lexicon_scholarly"
+  },
+  "scaffolds_by_monument_type": {
+    "typikon": {
+      "default_genre_register": "rubrical",
+      "recommended_cohort_size": 10,
+      "canonical_h1_instruction": "Emit H1 (`# ...`) at primary printed book/section divisions of the Typikon/Ustav: `# PREFACE`, `# PART I: GENERAL RUBRICS AND ORDER OF SERVICES`, `# PART II: MENAION (FIXED CYCLE OF THE YEAR)`, `# PART III: TRIODION AND PENTECOSTARION (MOVABLE CYCLE)`, and `# APPENDIX / PASCHALION`.",
+      "allowed_h1_patterns": [
+        "^#\\s+(?:THE\\s+)?(?:PREFACE|INTRODUCTION|FOREWORD|TO\\s+THE\\s+READER)",
+        "^#\\s+(?:THE\\s+)?(?:PART\\s+[IVXLCDM\\d]+|CHAPTER\\s+\\d+|SECTION\\s+[IVXLCDM\\d]+|BOOK\\s+[IVXLCDM\\d]+)",
+        "^#\\s+(?:THE\\s+)?(?:ORDER\\s+OF|GENERAL\\s+RUBRICS|MENAION|TRIODION|PENTECOSTARION|PASCHALION|APPENDIX|TABLE\\s+OF\\s+CONTENTS|TEMPLE\\s+CHAPTERS|MARKIAN\\s+CHAPTERS)"
+      ],
+      "gate_policy": {
+        "sgc02_min_ratio": 0.45,
+        "sgc02_max_ratio": 2.65,
+        "titlo_cue_max_ratio": 2.85,
+        "rule16_incipit_expansion_max_ratio": 2.65,
+        "argon_queue_footnote_threshold": 8,
+        "argon_queue_2up_footnote_threshold": 10,
+        "pure_footnote_leaves_mode": "INFO_TELEMETRY_ONLY",
+        "type_invariants": [
+          "liturgikon_litany_dialogue_tags",
+          "rule16_incipit_expansion_cap"
+        ]
+      },
+      "prompt_guardrails": [
+        "Use Active Present Indicative for all ceremonial and rubrical actions ('the priest bows', 'the choir chants'); reserve 'shall' strictly for canonical decrees.",
+        "Never expand abbreviated Slavonic incipits (*titlo* shorthand) into full unwritten prayers (Rule 16).",
+        "Render inline Slavonic terms and incipits in parentheses (*Слава...*), never in square brackets [Слава...]."
+      ],
+      "parts": [
+        {
+          "id": "part0",
+          "suffix": "part0_front_matter.md",
+          "title": "Front Matter, Title Page, and Introductory Apparatus",
+          "start_landmark": null
+        },
+        {
+          "id": "part1",
+          "suffix": "part1_order_of_services.md",
+          "title": "PART I: ORDER OF DAILY AND FESTAL SERVICES",
+          "start_landmark": "^#+\\s*(?:PART\\s+I\\b|(?:THE\\s+)?ORDER\\s+OF|CHAPTER\\s+1\\b)"
+        }
+      ]
+    },
+    "octoechos": {
+      "default_genre_register": "hymnographic",
+      "recommended_cohort_size": 10,
+      "canonical_h1_instruction": "When a new Tone or major rear section begins on a leaf, emit its canonical H1 Markdown header on its own line: `# TONE 1`, `# TONE 2`, `# TONE 3`, `# TONE 4`, `# TONE 5`, `# TONE 6`, `# TONE 7`, `# TONE 8`, `# WEEKDAY OCTOECHOS` (when weekday offices are consolidated after Tone 8), `# EXAPOSTILARIA AND EVANGELICAL STICHERA`, `# ASCETIC HOMILIES AND COLOPHON`, or `# GENERAL PARASTAS (OFFICE FOR THE DEPARTED)`.",
+      "allowed_h1_patterns": [
+        "^#\\s+(?:THE\\s+)?(?:PREFACE|FOREWORD|TO\\s+THE\\s+READER)",
+        "^#\\s+(?:THE\\s+)?(?:TONE\\s+\\d+|BEGINNING\\s+OF\\s+TONE\\s+\\d+)",
+        "^#\\s+(?:THE\\s+)?WEEKDAY\\s+(?:OCTOECHOS|OFFICES)",
+        "^#\\s+(?:THE\\s+)?(?:RESURRECTIONAL\\s+)?(?:EXAPOSTILARIA|EVANGELICAL\\s+STICHERA|GOSPEL\\s+STICHERA|EOTHINA)",
+        "^#\\s+(?:THE\\s+)?(?:GENERAL\\s+PARASTAS|PARASTAS|OFFICE\\s+FOR\\s+THE\\s+DEPARTED)",
+        "^#\\s+(?:THE\\s+)?(?:ASCETIC\\s+HOMILIES|COLOPHON|TRIADIKA|STICHERA\\s+AND\\s+CANONS|SUPPLICATORY\\s+CANONS|APPENDIX)"
+      ],
+      "gate_policy": {
+        "sgc02_min_ratio": 0.5,
+        "sgc02_max_ratio": 2.25,
+        "titlo_cue_max_ratio": 2.85,
+        "rule16_incipit_expansion_max_ratio": 2.5,
+        "argon_queue_footnote_threshold": 8,
+        "argon_queue_2up_footnote_threshold": 10,
+        "pure_footnote_leaves_mode": "INFO_TELEMETRY_ONLY",
+        "type_invariants": [
+          "podoben_3layer_format"
+        ]
+      },
+      "prompt_guardrails": [
+        "Enforce the 3-Layer Melodic Model (Podoben) Standard: *Tone N, Podoben: \"<Canonical English Incipit>\" (<Slavonic Witness>):*.",
+        "Format every Ode, Heirmos, Troparion, and Theotokion as an inline italic role tag (*Ode N. Heirmos:*, *Troparion:*, *Theotokion:*), never as ### or #### headings.",
+        "When consolidated Weekday Offices follow Tone 8, emit `# WEEKDAY OCTOECHOS` at their opening leaf."
+      ],
+      "parts": [
+        {
+          "id": "part0",
+          "suffix": "part0_front_matter.md",
+          "title": "Front Matter, Title Page, Dedicatory Preface, and Opening Offices",
+          "start_landmark": null
+        },
+        {
+          "id": "part1",
+          "suffix": "part1_tone1.md",
+          "title": "TONE 1: SATURDAY VESPERS, SUNDAY MATINS, AND WEEKDAY OFFICES",
+          "start_landmark": "^#+\\s*(?:TONE\\s+(?:1|I|FIRST)|BEGINNING\\s+OF\\s+TONE\\s+1)\\b"
+        },
+        {
+          "id": "part2",
+          "suffix": "part2_tone2.md",
+          "title": "TONE 2: SATURDAY VESPERS, SUNDAY MATINS, AND WEEKDAY OFFICES",
+          "start_landmark": "^#+\\s*(?:TONE\\s+(?:2|II|SECOND)|BEGINNING\\s+OF\\s+TONE\\s+2)\\b"
+        },
+        {
+          "id": "part3",
+          "suffix": "part3_tone3.md",
+          "title": "TONE 3: SATURDAY VESPERS, SUNDAY MATINS, AND WEEKDAY OFFICES",
+          "start_landmark": "^#+\\s*(?:TONE\\s+(?:3|III|THIRD)|BEGINNING\\s+OF\\s+TONE\\s+3)\\b"
+        },
+        {
+          "id": "part4",
+          "suffix": "part4_tone4.md",
+          "title": "TONE 4: SATURDAY VESPERS, SUNDAY MATINS, AND WEEKDAY OFFICES",
+          "start_landmark": "^#+\\s*(?:TONE\\s+(?:4|IV|FOURTH)|BEGINNING\\s+OF\\s+TONE\\s+4)\\b"
+        },
+        {
+          "id": "part5",
+          "suffix": "part5_tone5.md",
+          "title": "TONE 5: SATURDAY VESPERS, SUNDAY MATINS, AND WEEKDAY OFFICES",
+          "start_landmark": "^#+\\s*(?:TONE\\s+(?:5|V|FIFTH)|BEGINNING\\s+OF\\s+TONE\\s+5)\\b"
+        },
+        {
+          "id": "part6",
+          "suffix": "part6_tone6.md",
+          "title": "TONE 6: SATURDAY VESPERS, SUNDAY MATINS, AND WEEKDAY OFFICES",
+          "start_landmark": "^#+\\s*(?:TONE\\s+(?:6|VI|SIXTH)|BEGINNING\\s+OF\\s+TONE\\s+6)\\b"
+        },
+        {
+          "id": "part7",
+          "suffix": "part7_tone7.md",
+          "title": "TONE 7: SATURDAY VESPERS, SUNDAY MATINS, AND WEEKDAY OFFICES",
+          "start_landmark": "^#+\\s*(?:TONE\\s+(?:7|VII|SEVENTH)|BEGINNING\\s+OF\\s+TONE\\s+7)\\b"
+        },
+        {
+          "id": "part8",
+          "suffix": "part8_tone8.md",
+          "title": "TONE 8: SATURDAY VESPERS, SUNDAY MATINS, AND WEEKDAY OFFICES",
+          "start_landmark": "^#+\\s*(?:TONE\\s+(?:8|VIII|EIGHTH)|BEGINNING\\s+OF\\s+TONE\\s+8)\\b"
+        },
+        {
+          "id": "part9",
+          "suffix": "part9_weekday_offices.md",
+          "title": "WEEKDAY OCTOECHOS: HYMNS OF COMPUCTION AND DAILY OFFICES (TONES 1–8)",
+          "start_landmark": "^#+\\s*(?:THE\\s+)?WEEKDAY\\s+(?:OCTOECHOS|OFFICES)\\b"
+        },
+        {
+          "id": "part10",
+          "suffix": "part10_exapostilaria_eothina_and_colophon.md",
+          "title": "RESURRECTIONAL EXAPOSTILARIA, EVANGELICAL STICHERA (EOTHINA), AND COLOPHON",
+          "start_landmark": "^#+.*?(?:EXAPOSTILARIA|EVANGELICAL\\s+STICHERA|GOSPEL\\s+STICHERA|EOTHINA)\\b"
+        },
+        {
+          "id": "part11",
+          "suffix": "part11_parastas_and_appendices.md",
+          "title": "GENERAL PARASTAS, ASCETIC HOMILIES, AND COLOPHON",
+          "start_landmark": "^#+.*?(?:GENERAL\\s+PARASTAS|PARASTAS|OFFICE\\s+FOR\\s+THE\\s+DEPARTED|ASCETIC\\s+HOMILIES|STICHERA\\s+AND\\s+CANONS)\\b"
+        }
+      ]
+    },
+    "lenten_triodion": {
+      "default_genre_register": "hymnographic",
+      "recommended_cohort_size": 10,
+      "canonical_h1_instruction": "Emit H1 (`# ...`) at the major liturgical divisions of the Lenten Triodion: `# PRE-LENTEN PERIOD`, `# THE HOLY AND GREAT FORTY DAYS`, `# LAZARUS SATURDAY AND PALM SUNDAY`, `# GREAT AND HOLY PASSION WEEK`, and `# REAR APPENDIX` (Markian Chapters or Life of St. Mary of Egypt).",
+      "allowed_h1_patterns": [
+        "^#\\s+(?:THE\\s+)?(?:PREFACE|FOREWORD|TO\\s+THE\\s+READER)",
+        "^#\\s+(?:THE\\s+)?(?:PART\\s+[IVXLCDM\\d]+|PRE-LENTEN\\s+PERIOD|SUNDAY\\s+OF\\s+THE\\s+PUBLICAN)",
+        "^#\\s+(?:THE\\s+)?(?:HOLY\\s+AND\\s+GREAT\\s+FORTY\\s+DAYS|FIRST\\s+WEEK\\s+OF\\s+THE\\s+GREAT\\s+FAST)",
+        "^#\\s+(?:THE\\s+)?(?:LAZARUS\\s+SATURDAY|PALM\\s+SUNDAY)",
+        "^#\\s+(?:THE\\s+)?(?:GREAT\\s+AND\\s+HOLY\\s+PASSION\\s+WEEK|HOLY\\s+MONDAY)",
+        "^#\\s+(?:THE\\s+)?(?:REAR\\s+APPENDIX|APPENDIX|MARKIAN\\s+CHAPTERS|LIFE\\s+OF|ORDER\\s+OF)"
+      ],
+      "gate_policy": {
+        "sgc02_min_ratio": 0.5,
+        "sgc02_max_ratio": 2.25,
+        "titlo_cue_max_ratio": 2.85,
+        "rule16_incipit_expansion_max_ratio": 2.5,
+        "argon_queue_footnote_threshold": 8,
+        "argon_queue_2up_footnote_threshold": 10,
+        "pure_footnote_leaves_mode": "INFO_TELEMETRY_ONLY",
+        "type_invariants": [
+          "patristic_synaxarion_prose_guard",
+          "podoben_3layer_format"
+        ]
+      },
+      "prompt_guardrails": [
+        "When translating long Lenten Synaxaria or Patristic Homilies (e.g., Life of St. Mary of Egypt, Chrysostom Homilies), flush leaves to disk every 2-3 physical leaves and strictly avoid archaic particles (peradventure, verily, wherefore, betwixt, forsooth, haply).",
+        "Enforce 3-Layer Podoben formatting and inline italic ode/stanza tags."
+      ],
+      "parts": [
+        {
+          "id": "part0",
+          "suffix": "part0_front_matter.md",
+          "title": "Front Matter, Title Page, Dedicatory Epistles, and Prefatory Apparatus",
+          "start_landmark": null
+        },
+        {
+          "id": "part1",
+          "suffix": "part1_pre_lenten.md",
+          "title": "PART I: PRE-LENTEN PERIOD (SUNDAYS OF PUBLICAN & PHARISEE, PRODIGAL SON, MEATFARE, AND CHEESEFARE)",
+          "start_landmark": "^#+\\s*(?:PART\\s+I\\b|PRE-LENTEN\\s+PERIOD|SUNDAY\\s+OF\\s+THE\\s+PUBLICAN)"
+        },
+        {
+          "id": "part2",
+          "suffix": "part2_great_forty_days.md",
+          "title": "PART II: THE HOLY AND GREAT FORTY DAYS (FIRST THROUGH SIXTH WEEKS OF THE FAST)",
+          "start_landmark": "^#+\\s*(?:PART\\s+II\\b|THE\\s+HOLY\\s+AND\\s+GREAT\\s+FORTY\\s+DAYS|FIRST\\s+WEEK\\s+OF\\s+THE\\s+GREAT\\s+FAST)"
+        },
+        {
+          "id": "part3",
+          "suffix": "part3_lazarus_palm.md",
+          "title": "PART III: LAZARUS SATURDAY AND PALM SUNDAY (ENTRANCE OF THE LORD INTO JERUSALEM)",
+          "start_landmark": "^#+\\s*(?:PART\\s+III\\b|LAZARUS\\s+SATURDAY|PALM\\s+SUNDAY)"
+        },
+        {
+          "id": "part4",
+          "suffix": "part4_passion_week.md",
+          "title": "PART IV: GREAT AND HOLY PASSION WEEK (HOLY MONDAY THROUGH GREAT AND HOLY SATURDAY)",
+          "start_landmark": "^#+\\s*(?:PART\\s+IV\\b|GREAT\\s+AND\\s+HOLY\\s+PASSION\\s+WEEK|HOLY\\s+MONDAY)"
+        },
+        {
+          "id": "part5",
+          "suffix": "part5_appendices.md",
+          "title": "PART V: CONCLUDING APPENDICES (MARKIAN CHAPTERS / LIFE OF ST. MARY OF EGYPT) AND COLOPHON",
+          "start_landmark": "^#+\\s*(?:PART\\s+V\\b|MARKIAN\\s+CHAPTERS|LIFE\\s+OF\\s+(?:ST\\.|SAINT|OUR\\s+VENERABLE\\s+MOTHER)\\s+MARY\\s+OF\\s+EGYPT)"
+        }
+      ]
+    },
+    "pentecostarion": {
+      "default_genre_register": "hymnographic",
+      "recommended_cohort_size": 10,
+      "canonical_h1_instruction": "Emit H1 (`# ...`) at major Paschaltide divisions (`# LAZARUS SATURDAY AND PALM WEEK` if present in pre-Nikonian Flowery Triodia, `# GREAT AND HOLY PASCHA AND BRIGHT WEEK`, `# SUNDAY OF SAINT THOMAS`, `# SUNDAY OF THE MYRRH-BEARING WOMEN`, `# SUNDAY OF THE PARALYTIC`, `# SUNDAY OF THE SAMARITAN WOMAN`, `# SUNDAY OF THE BLIND MAN`, `# FEAST OF THE ASCENSION`, `# SUNDAY OF THE HOLY FATHERS`, `# GREAT FEAST OF HOLY PENTECOST`, `# SUNDAY OF ALL SAINTS`, `# TYPIKON APPENDIX`).",
+      "allowed_h1_patterns": [
+        "^#\\s+(?:THE\\s+)?(?:PREFACE|FOREWORD|TO\\s+THE\\s+READER)",
+        "^#\\s+(?:THE\\s+)?(?:PART\\s+[IVXLCDM\\d]+|LAZARUS\\s+SATURDAY|PALM\\s+SUNDAY|PALM\\s+WEEK|HOLY\\s+AND\\s+GREAT\\s+WEEK)",
+        "^#\\s+(?:THE\\s+)?(?:GREAT\\s+AND\\s+HOLY\\s+PASCHA|BRIGHT\\s+WEEK|PASCHA)",
+        "^#\\s+(?:THE\\s+)?(?:SUNDAY\\s+OF\\s+(?:SAINT\\s+THOMAS|THOMAS|THE\\s+MYRRH|THE\\s+PARALYTIC|THE\\s+SAMARITAN|THE\\s+BLIND|THE\\s+HOLY\\s+FATHERS|ALL\\s+SAINTS))",
+        "^#\\s+(?:THE\\s+)?(?:FEAST\\s+OF\\s+THE\\s+ASCENSION|ASCENSION|GREAT\\s+FEAST\\s+OF\\s+HOLY\\s+PENTECOST|HOLY\\s+PENTECOST|PENTECOST|TYPIKON\\s+APPENDIX|APPENDIX)"
+      ],
+      "gate_policy": {
+        "sgc02_min_ratio": 0.5,
+        "sgc02_max_ratio": 2.25,
+        "titlo_cue_max_ratio": 2.85,
+        "rule16_incipit_expansion_max_ratio": 2.5,
+        "argon_queue_footnote_threshold": 8,
+        "argon_queue_2up_footnote_threshold": 10,
+        "pure_footnote_leaves_mode": "INFO_TELEMETRY_ONLY",
+        "type_invariants": [
+          "patristic_synaxarion_prose_guard",
+          "podoben_3layer_format"
+        ]
+      },
+      "prompt_guardrails": [
+        "When translating Paschaltide Synaxaria and Patristic Homilies (e.g., Catechetical Homily of St. John Chrysostom, Epiphanius Homilies), flush leaves to disk every 2-3 physical leaves and strictly avoid archaic particles (peradventure, verily, wherefore, betwixt, forsooth).",
+        "Enforce 3-Layer Podoben formatting and inline italic ode/stanza tags."
+      ],
+      "parts": [
+        {
+          "id": "part0",
+          "suffix": "part0_front_matter.md",
+          "title": "Front Matter, Title Page, Dedicatory Approbations, and Opening Preface",
+          "start_landmark": null
+        },
+        {
+          "id": "part1",
+          "suffix": "part1_pascha_bright_week.md",
+          "title": "PART I: GREAT AND HOLY PASCHA AND BRIGHT WEEK",
+          "start_landmark": "^#+\\s*(?:PART\\s+I\\b|GREAT\\s+AND\\s+HOLY\\s+PASCHA|LAZARUS\\s+SATURDAY)"
+        }
+      ]
+    },
+    "anthologion": {
+      "default_genre_register": "hymnographic",
+      "recommended_cohort_size": 10,
+      "canonical_h1_instruction": "Emit H1 (`# ...`) at primary monthly/seasonal divisions of the Anthologion/Menaion: `# PREFACE`, `# MONTH OF SEPTEMBER`..`# MONTH OF AUGUST`, `# GENERAL MENAION (COMMON SERVICES TO THE SAINTS)`, and `# CONCLUDING APPENDICES AND COLOPHON`.",
+      "allowed_h1_patterns": [
+        "^#\\s+(?:THE\\s+)?(?:PREFACE|FOREWORD|TO\\s+THE\\s+READER)",
+        "^#\\s+(?:THE\\s+)?(?:PART\\s+[IVXLCDM\\d]+|MONTH\\s+OF\\s+[A-Z]+|GENERAL\\s+MENAION|COMMON\\s+SERVICES|FESTAL\\s+OFFICES|SERVICES\\s+TO|APPENDIX|COLOPHON)"
+      ],
+      "gate_policy": {
+        "sgc02_min_ratio": 0.5,
+        "sgc02_max_ratio": 2.25,
+        "titlo_cue_max_ratio": 2.85,
+        "rule16_incipit_expansion_max_ratio": 2.5,
+        "argon_queue_footnote_threshold": 8,
+        "argon_queue_2up_footnote_threshold": 10,
+        "pure_footnote_leaves_mode": "INFO_TELEMETRY_ONLY",
+        "type_invariants": [
+          "patristic_synaxarion_prose_guard",
+          "podoben_3layer_format"
+        ]
+      },
+      "prompt_guardrails": [
+        "Emit `# MONTH OF <NAME>` only at primary monthly headpieces; render individual feast days as `##` (when H1 & H2 is enabled) or inline italics.",
+        "Flush leaves to disk every 2-3 physical leaves during long Festal Synaxaria."
+      ],
+      "parts": [
+        {
+          "id": "part0",
+          "suffix": "part0_front_matter.md",
+          "title": "Front Matter, Title Page, and Introductory Apparatus",
+          "start_landmark": null
+        },
+        {
+          "id": "part1",
+          "suffix": "part1_festal_menaion.md",
+          "title": "PART I: FESTAL MENAION AND ANTHOLOGION OFFICES",
+          "start_landmark": "^#+\\s*(?:PART\\s+I\\b|MONTH\\s+OF|GENERAL\\s+MENAION|FESTAL\\s+OFFICES)"
+        }
+      ]
+    },
+    "akathistnik": {
+      "default_genre_register": "hymnographic",
+      "recommended_cohort_size": 10,
+      "canonical_h1_instruction": "Emit H1 (`# ...`) at the opening headpiece of each distinct Akathist or Supplicatory Canon collection (`# PREFACE`, `# AKATHIST TO THE MOST HOLY THEOTOKOS`, `# AKATHIST TO OUR SWEETEST LORD JESUS CHRIST`, `# AKATHIST TO SAINT NICHOLAS`, `# SUPPLICATORY CANONS AND PRAYERS`).",
+      "allowed_h1_patterns": [
+        "^#\\s+(?:THE\\s+)?(?:PREFACE|FOREWORD|TO\\s+THE\\s+READER)",
+        "^#\\s+(?:THE\\s+)?(?:PART\\s+[IVXLCDM\\d]+|AKATHIST\\s+|CANON\\s+|OFFICE\\s+|SUPPLICATORY\\s+|MORNING\\s+PRAYERS|EVENING\\s+PRAYERS|COMMUNION\\s+RULE|APPENDIX)"
+      ],
+      "gate_policy": {
+        "sgc02_min_ratio": 0.55,
+        "sgc02_max_ratio": 2.3,
+        "titlo_cue_max_ratio": 2.85,
+        "rule16_incipit_expansion_max_ratio": 2.5,
+        "argon_queue_footnote_threshold": 8,
+        "argon_queue_2up_footnote_threshold": 10,
+        "pure_footnote_leaves_mode": "INFO_TELEMETRY_ONLY",
+        "type_invariants": [
+          "akathist_stanza_alternation"
+        ]
+      },
+      "prompt_guardrails": [
+        "Format every Akathist stanza header with a trailing colon inside inline italics: `*Kontakion 1:*`, `*Ikos 1:*`, `*Kontakion 2:*`, `*Ikos 2:*` .. `*Kontakion 13:*`.",
+        "Capitalize `Rejoice,` (*Радуйся*) at the beginning of every Ikos salutation line."
+      ],
+      "parts": [
+        {
+          "id": "part0",
+          "suffix": "part0_front_matter.md",
+          "title": "Front Matter, Title Page, and Introductory Apparatus",
+          "start_landmark": null
+        },
+        {
+          "id": "part1",
+          "suffix": "part1_akathists.md",
+          "title": "PART I: BOOK OF AKATHISTS AND SUPPLICATORY CANONS",
+          "start_landmark": "^#+\\s*(?:PART\\s+I\\b|(?:THE\\s+)?AKATHIST\\b|(?:THE\\s+)?CANON\\b)"
+        }
+      ]
+    },
+    "irmologion": {
+      "default_genre_register": "hymnographic",
+      "recommended_cohort_size": 10,
+      "canonical_h1_instruction": "Emit H1 (`# ...`) at the opening of each Tone (`# TONE 1`..`# TONE 8`) or major Festal/Theotokarion section (`# FESTAL HEIRMOI`, `# DOGMATIKA AND THEOTOKIA`, `# LITURGICAL CHANTS`).",
+      "allowed_h1_patterns": [
+        "^#\\s+(?:THE\\s+)?(?:PREFACE|FOREWORD|TO\\s+THE\\s+READER)",
+        "^#\\s+(?:THE\\s+)?(?:PART\\s+[IVXLCDM\\d]+|TONE\\s+\\d+|BEGINNING\\s+OF\\s+TONE\\s+\\d+|FESTAL\\s+HEIRMOI|DOGMATIKA|LITURGICAL\\s+CHANTS|APPENDIX)"
+      ],
+      "gate_policy": {
+        "sgc02_min_ratio": 0.5,
+        "sgc02_max_ratio": 2.25,
+        "titlo_cue_max_ratio": 2.85,
+        "rule16_incipit_expansion_max_ratio": 2.5,
+        "argon_queue_footnote_threshold": 8,
+        "argon_queue_2up_footnote_threshold": 10,
+        "pure_footnote_leaves_mode": "INFO_TELEMETRY_ONLY",
+        "type_invariants": [
+          "podoben_3layer_format"
+        ]
+      },
+      "prompt_guardrails": [
+        "Preserve colometric breathing/phrase asterisks (*) in Source Text/ and render clean English punctuation in Draft/.",
+        "Format every Ode and Heirmos role tag as inline italics (`*Ode 1. Heirmos:*`)."
+      ],
+      "parts": [
+        {
+          "id": "part0",
+          "suffix": "part0_front_matter.md",
+          "title": "Front Matter, Title Page, and Musical Preface",
+          "start_landmark": null
+        },
+        {
+          "id": "part1",
+          "suffix": "part1_tone1.md",
+          "title": "TONE 1: HEIRMOI AND CHANTS",
+          "start_landmark": "^#+\\s*(?:TONE\\s+(?:1|I|FIRST)|BEGINNING\\s+OF\\s+TONE\\s+1|PART\\s+I)\\b"
+        }
+      ]
+    },
+    "horologion": {
+      "default_genre_register": "rubrical",
+      "recommended_cohort_size": 10,
+      "canonical_h1_instruction": "Emit H1 (`# ...`) at the primary printed book divisions of the Horologion/Chasoslov: `# PREFACE`, `# THE MIDNIGHT OFFICE AND MATINS`, `# THE ORDER OF THE HOURS AND TYPIKA` (or `# THE ORDER OF VESPERS AND COMPLINE`), `# TROPARIA AND KONTAKIA OF THE MENOLOGION`, `# KANONIKON AND SUPPLICATORY CANONS`, `# SELECTED PSALMS FOR FEASTS`, and `# THE PASCHALION AND CALENDAR TABLES`.",
+      "allowed_h1_patterns": [
+        "^#\\s+(?:THE\\s+)?(?:PREFACE|FOREWORD|TO\\s+THE\\s+READER)",
+        "^#\\s+(?:THE\\s+)?(?:PART\\s+[IVXLCDM\\d]+|MIDNIGHT\\s+OFFICE|BOOK\\s+OF\\s+HOURS|BEGINNING\\s+OF\\s+THE\\s+HOROLOGION)",
+        "^#\\s+(?:THE\\s+)?(?:ORDER\\s+OF|SERVICE\\s+OF\\s+THE\\s+HOURS|HOURS\\s+AND\\s+TYPIKA|TYPIKA|VESPERS\\s+AND\\s+COMPLINE)",
+        "^#\\s+(?:THE\\s+)?(?:TROPARIA\\s+AND\\s+KONTAKIA|MENOLOGION|SYNAXARION|CALENDAR)",
+        "^#\\s+(?:THE\\s+)?(?:KANONIKON|SUPPLICATORY\\s+CANONS|AKATHIST)",
+        "^#\\s+(?:THE\\s+)?(?:SELECTED\\s+PSALMS|PSALMS\\s+SELECTED)",
+        "^#\\s+(?:THE\\s+)?(?:PASCHALION|LUNAR\\s+TABLES|KEY\\s+OF\\s+BOUNDARIES|APPENDIX|COLOPHON)"
+      ],
+      "gate_policy": {
+        "sgc02_min_ratio": 0.45,
+        "sgc02_max_ratio": 2.65,
+        "titlo_cue_max_ratio": 2.85,
+        "rule16_incipit_expansion_max_ratio": 2.65,
+        "argon_queue_footnote_threshold": 8,
+        "argon_queue_2up_footnote_threshold": 10,
+        "pure_footnote_leaves_mode": "INFO_TELEMETRY_ONLY",
+        "type_invariants": [
+          "liturgikon_litany_dialogue_tags",
+          "rule16_incipit_expansion_cap"
+        ]
+      },
+      "prompt_guardrails": [
+        "Never expand abbreviated Slavonic prayer cues (*Тр̃е*, *Ѻ̃че нашъ*, *Г̃и помилуй*) beyond their canonical English equivalent ('*Trisagion*', '*Our Father*', '*Lord, have mercy*') (Rule 16).",
+        "Emit H1 (`# ...`) at primary Horologion section boundaries (`# THE ORDER OF THE TYPIKA...`, `# TROPARIA AND KONTAKIA...`, `# SELECTED PSALMS...`, `# THE PASCHALION...`) so the Menologion, Selected Psalms, and Paschalion slice into distinct modular Parts.",
+        "Always parenthesize Cyrillic table letters and Slavonic incipits `(*...*)`, never square brackets `[...]`."
+      ],
+      "parts": [
+        {
+          "id": "part0",
+          "suffix": "part0_front_matter.md",
+          "title": "Front Matter, Title Page, and Introductory Apparatus",
+          "start_landmark": null
+        },
+        {
+          "id": "part1",
+          "suffix": "part1_daily_cycle_hours.md",
+          "title": "PART I: THE DAILY CYCLE OF OFFICES AND HOURS",
+          "start_landmark": "^#+\\s*(?:THE\\s+)?(?:PART\\s+I\\b|MIDNIGHT\\s+OFFICE|BOOK\\s+OF\\s+HOURS|BEGINNING\\s+OF)"
+        }
+      ]
+    },
+    "psalter": {
+      "default_genre_register": "hymnographic",
+      "recommended_cohort_size": 10,
+      "canonical_h1_instruction": "Emit H1 (`# ...`) at the major structural divisions of the Psalter: `# PREFACE AND ORDER OF READING THE PSALTER`, `# KATHISMA 1`..`# KATHISMA 20` (or `# PART I: KATHISMATA 1–10`, `# PART II: KATHISMATA 11–20`), `# THE NINE BIBLICAL ODES`, and `# FOLLOWED PSALTER APPENDICES / PASCHALION`.",
+      "allowed_h1_patterns": [
+        "^#\\s+(?:THE\\s+)?(?:PREFACE|FOREWORD|TO\\s+THE\\s+READER|ORDER\\s+OF\\s+READING)",
+        "^#\\s+(?:THE\\s+)?(?:PART\\s+[IVXLCDM\\d]+|KATHISMA\\s+[IVXLCDM\\d]+|PSALTER|BOOK\\s+OF\\s+PSALMS)",
+        "^#\\s+(?:THE\\s+)?(?:NINE\\s+BIBLICAL\\s+ODES|BIBLICAL\\s+ODES|CANTICLES)",
+        "^#\\s+(?:THE\\s+)?(?:PASCHALION|MENOLOGION|KANONIKON|APPENDIX|COLOPHON)"
+      ],
+      "gate_policy": {
+        "sgc02_min_ratio": 0.55,
+        "sgc02_max_ratio": 2.3,
+        "titlo_cue_max_ratio": 2.85,
+        "rule16_incipit_expansion_max_ratio": 2.5,
+        "argon_queue_footnote_threshold": 8,
+        "argon_queue_2up_footnote_threshold": 10,
+        "pure_footnote_leaves_mode": "INFO_TELEMETRY_ONLY",
+        "type_invariants": [
+          "psalter_lxx_kathisma_check"
+        ]
+      },
+      "prompt_guardrails": [
+        "Enforce Septuagint (LXX) Psalm numbering unconditionally in the body text; place Masoretic (MT) numbers strictly in footnotes `[^N]`.",
+        "Format Glory stasis rubrics (*Glory: First Stasis*, *Glory: Second Stasis*, *Glory: Third Stasis*) in inline italics."
+      ],
+      "parts": [
+        {
+          "id": "part0",
+          "suffix": "part0_front_matter.md",
+          "title": "Front Matter, Title Page, and Introductory Rules for Reading the Psalter",
+          "start_landmark": null
+        },
+        {
+          "id": "part1",
+          "suffix": "part1_kathismata.md",
+          "title": "PART I: THE BOOK OF PSALMS (KATHISMATA 1–20)",
+          "start_landmark": "^#+\\s*(?:THE\\s+)?(?:PART\\s+I\\b|KATHISMA\\s+(?:1|I)\\b|BOOK\\s+OF\\s+PSALMS)"
+        }
+      ]
+    },
+    "euchologion_liturgikon": {
+      "default_genre_register": "rubrical",
+      "recommended_cohort_size": 10,
+      "canonical_h1_instruction": "Emit H1 (`# ...`) at the major liturgical divisions of the Sluzhebnyk/Liturgikon: `# PREFACE AND INTRODUCTORY RUBRICS`, `# THE ORDER OF VESPERS AND MATINS`, `# THE ORDER OF THE PROSKOMEDIA`, `# THE DIVINE LITURGY OF SAINT JOHN CHRYSOSTOM`, `# THE DIVINE LITURGY OF SAINT BASIL THE GREAT`, `# THE DIVINE LITURGY OF THE PRESANCTIFIED GIFTS`, and `# DISMISSAL TROPARIA, KONTAKIA, AND LECTIONARY END-TABLES`.",
+      "allowed_h1_patterns": [
+        "^#\\s+(?:THE\\s+)?(?:PREFACE|FOREWORD|TO\\s+THE\\s+READER|INTRODUCTORY)",
+        "^#\\s+(?:THE\\s+)?(?:PART\\s+[IVXLCDM\\d]+|ORDER\\s+OF|SERVICE\\s+OF|OFFICE\\s+OF)",
+        "^#\\s+(?:THE\\s+)?(?:VESPERS|MATINS|PROSKOMEDIA|PREPARATION)",
+        "^#\\s+(?:THE\\s+)?(?:DIVINE\\s+LITURGY\\s+OF|LITURGY\\s+OF)",
+        "^#\\s+(?:THE\\s+)?(?:DISMISSAL|TROPARIA|APOSTOL|GOSPEL|END-TABLES|INSTRUCTION|APPENDIX|COLOPHON)"
+      ],
+      "gate_policy": {
+        "sgc02_min_ratio": 0.45,
+        "sgc02_max_ratio": 2.4,
+        "titlo_cue_max_ratio": 2.85,
+        "rule16_incipit_expansion_max_ratio": 2.5,
+        "argon_queue_footnote_threshold": 9,
+        "argon_queue_2up_footnote_threshold": 10,
+        "pure_footnote_leaves_mode": "INFO_TELEMETRY_ONLY",
+        "type_invariants": [
+          "liturgikon_litany_dialogue_tags",
+          "rule16_incipit_expansion_cap"
+        ]
+      },
+      "prompt_guardrails": [
+        "Format all liturgical dialogue speaker labels in bold (`**Priest:**`, `**Deacon:**`, `**Choir:**`, `**Reader:**`, `**Bishop:**`) and ceremonial actions in active-present inline italics (`*...*`).",
+        "Never attach a footnote marker `[^N]` directly to a `**[Left/Right Page — Fol. Xr]**` 2-up spread milestone; attach `[^N]` to the actual text or heading line inside the page."
+      ],
+      "parts": [
+        {
+          "id": "part0",
+          "suffix": "part0_front_matter.md",
+          "title": "Front Matter, Title Page, and Prefatory Apparatus",
+          "start_landmark": null
+        },
+        {
+          "id": "part1",
+          "suffix": "part1_vespers_matins_proskomedia.md",
+          "title": "PART I: VESPERS, MATINS, AND THE ORDER OF THE PROSKOMEDIA",
+          "start_landmark": "^#+\\s*(?:THE\\s+)?(?:PART\\s+I\\b|ORDER\\s+OF\\s+(?:VESPERS|HOLY\\s+VESPERS|THE\\s+PROSKOMEDIA)|SERVICE\\s+OF)"
+        }
+      ]
+    },
+    "trebnyk_euchologion": {
+      "default_genre_register": "rubrical",
+      "recommended_cohort_size": 10,
+      "canonical_h1_instruction": "Emit H1 (`# ...`) at the major sacramental and ritual divisions of the Trebnyk/Euchologion/Molytvoslov: `# PREFACE`, `# RITES OF CHILDBIRTH, HOLY BAPTISM, AND CHRISMATION`, `# MYSTERY OF HOLY REPENTANCE AND COMMUNION OF THE SICK`, `# MYSTERY OF HOLY CROWNING (MATRIMONY)`, `# MYSTERY OF HOLY UNCTION (EUCHELAION)`, `# SANCTIFICATION OF WATERS AND SEASONAL BLESSINGS`, `# MONASTIC TONSURE AND ECCLESIASTICAL RITES`, `# FUNERAL AND MEMORIAL OFFICES (PARASTAS)`, and `# CALENDAR, PASCHALION, AND SUPPLICATORY APPENDICES`.",
+      "allowed_h1_patterns": [
+        "^#\\s+(?:THE\\s+)?(?:PREFACE|FOREWORD|TO\\s+THE\\s+READER)",
+        "^#\\s+(?:THE\\s+)?(?:PART\\s+[IVXLCDM\\d]+|CHAPTER\\s+\\d+|ORDER\\s+OF|OFFICE\\s+OF|SERVICE\\s+OF|RITE\\s+OF|MYSTERY\\s+OF|PRAYER\\s+|PRAYERS\\s+)",
+        "^#\\s+(?:THE\\s+)?(?:BAPTISM|CHRISMATION|CONFESSION|REPENTANCE|COMMUNION|MATRIMONY|CROWNING|UNCTION|SANCTIFICATION|BLESSING|TONSURE|BURIAL|FUNERAL|PARASTAS|MENOLOGION|PASCHALION|APPENDIX|COLOPHON)"
+      ],
+      "gate_policy": {
+        "sgc02_min_ratio": 0.45,
+        "sgc02_max_ratio": 2.4,
+        "titlo_cue_max_ratio": 2.85,
+        "rule16_incipit_expansion_max_ratio": 2.5,
+        "argon_queue_footnote_threshold": 9,
+        "argon_queue_2up_footnote_threshold": 10,
+        "pure_footnote_leaves_mode": "INFO_TELEMETRY_ONLY",
+        "type_invariants": [
+          "liturgikon_litany_dialogue_tags",
+          "rule16_incipit_expansion_cap"
+        ]
+      },
+      "prompt_guardrails": [
+        "Format all sacramental dialogue speaker labels in bold (`**Priest:**`, `**Deacon:**`, `**Choir:**`, `**Sponsor:**`) and ceremonial actions in active-present inline italics (`*...*`).",
+        "Represent blank folios and flyleaves strictly as `*(Vacat — Fol. Xv: Unnumbered blank verso)*` or `*(Flyleaf — ...)*`, never `[Blank leaf...]`."
+      ],
+      "parts": [
+        {
+          "id": "part0",
+          "suffix": "part0_front_matter.md",
+          "title": "Front Matter, Title Page, and Introductory Apparatus",
+          "start_landmark": null
+        },
+        {
+          "id": "part1",
+          "suffix": "part1_initiation_and_sacraments.md",
+          "title": "PART I: SACRAMENTAL MYSTERIES AND RITUAL OFFICES",
+          "start_landmark": "^#+\\s*(?:THE\\s+)?(?:PART\\s+I\\b|PRAYER\\s+ON\\s+THE\\s+FIRST\\s+DAY|ORDER\\s+OF\\s+HOLY\\s+BAPTISM|ORDER\\s+OF)"
+        }
+      ]
+    },
+    "juridical_synodal": {
+      "default_genre_register": "juridical",
+      "recommended_cohort_size": 10,
+      "canonical_h1_instruction": "Emit H1 (`# ...`) at primary printed Titles, Books, or Synodal Decrees (`# PREFACE AND CONVOCATION BULLS`, `# TITULUS I`..`# TITULUS XIX` or `# PART I`..`# PART IV`, `# APPENDICES AND SUBSCRIPTION ROLLS`).",
+      "allowed_h1_patterns": [
+        "^#\\s+(?:THE\\s+)?(?:PREFACE|FOREWORD|CONVOCATION|PROOEMIUM)",
+        "^#\\s+(?:THE\\s+)?(?:PART\\s+[IVXLCDM\\d]+|TITULUS\\s+[IVXLCDM\\d]+|TITLE\\s+[IVXLCDM\\d]+|CHAPTER\\s+\\d+|SECTION\\s+[IVXLCDM\\d]+|DECREE|CANON|RULE|APPENDIX|SUBSCRIPTION)"
+      ],
+      "gate_policy": {
+        "sgc02_min_ratio": 0.55,
+        "sgc02_max_ratio": 2.5,
+        "titlo_cue_max_ratio": 2.65,
+        "rule16_incipit_expansion_max_ratio": 2.5,
+        "argon_queue_footnote_threshold": 8,
+        "argon_queue_2up_footnote_threshold": 10,
+        "pure_footnote_leaves_mode": "INFO_TELEMETRY_ONLY",
+        "type_invariants": []
+      },
+      "prompt_guardrails": [
+        "Apply the Juridical Register: reserve 'shall' for statutory legal mandates; preserve numbered sections (`1.`, `2.`, `§ 1.`) with 1:1 structural parity."
+      ],
+      "parts": [
+        {
+          "id": "part0",
+          "suffix": "part0_front_matter.md",
+          "title": "Front Matter, Title Page, and Convocation Apparatus",
+          "start_landmark": null
+        },
+        {
+          "id": "part1",
+          "suffix": "part1_synodal_decrees.md",
+          "title": "PART I: CANONICAL STATUTES AND SYNODAL DECREES",
+          "start_landmark": "^#+\\s*(?:THE\\s+)?(?:PART\\s+I\\b|TITULUS\\s+I\\b|TITLE\\s+I\\b|CHAPTER\\s+1\\b)"
+        }
+      ]
+    },
+    "lexicon_scholarly": {
+      "default_genre_register": "scholarly_critical",
+      "recommended_cohort_size": 10,
+      "canonical_h1_instruction": "Emit H1 (`# ...`) at primary alphabetical letter headpieces (`# LETTER А`..`# LETTER ІЖИЦА`), Paterikon/Limonar Lives divisions (`# PART I`, `# DISCOURSE 1`), or scholarly monograph chapters (`# CHAPTER I`).",
+      "allowed_h1_patterns": [
+        "^#\\s+(?:THE\\s+)?(?:PREFACE|FOREWORD|TO\\s+THE\\s+READER|INTRODUCTION)",
+        "^#\\s+(?:THE\\s+)?(?:PART\\s+[IVXLCDM\\d]+|CHAPTER\\s+[IVXLCDM\\d]+|SECTION\\s+[IVXLCDM\\d]+|LETTER\\s+|ALPHABETICAL|NAMES\\s+AND|DISCOURSE|LIFE\\s+OF|PATERIKON|APPENDIX|INDEX|COLOPHON)"
+      ],
+      "gate_policy": {
+        "sgc02_min_ratio": 0.55,
+        "sgc02_max_ratio": 2.5,
+        "titlo_cue_max_ratio": 2.85,
+        "rule16_incipit_expansion_max_ratio": 2.5,
+        "argon_queue_footnote_threshold": 8,
+        "argon_queue_2up_footnote_threshold": 10,
+        "pure_footnote_leaves_mode": "INFO_TELEMETRY_ONLY",
+        "type_invariants": [
+          "patristic_synaxarion_prose_guard"
+        ]
+      },
+      "prompt_guardrails": [
+        "Apply the Scholarly Critical Register: preserve original page markers, headwords, and marginal patristic/lexical citations with 100% precision.",
+        "Always parenthesize Cyrillic headwords and citations `(*...*)` in the English body text."
+      ],
+      "parts": [
+        {
+          "id": "part0",
+          "suffix": "part0_front_matter.md",
+          "title": "Front Matter, Title Page, and Scholarly Preface",
+          "start_landmark": null
+        },
+        {
+          "id": "part1",
+          "suffix": "part1_main_corpus.md",
+          "title": "PART I: LEXICAL AND CRITICAL CORPUS",
+          "start_landmark": "^#+\\s*(?:THE\\s+)?(?:PART\\s+I\\b|CHAPTER\\s+(?:1|I)\\b|LETTER\\s+)"
+        }
+      ]
+    }
+  },
   "octoechos": {
-    "canonical_h1_instruction": "When a new Tone or rear section begins on a leaf, emit its canonical H1 Markdown header on its own line: `# TONE 1`, `# TONE 2`, `# TONE 3`, `# TONE 4`, `# TONE 5`, `# TONE 6`, `# TONE 7`, `# TONE 8`, or `# EXAPOSTILARIA AND EVANGELICAL STICHERA`.",
+    "canonical_h1_instruction": "When a new Tone or rear section begins on a leaf, emit its canonical H1 Markdown header on its own line: `# TONE 1`, `# TONE 2`, `# TONE 3`, `# TONE 4`, `# TONE 5`, `# TONE 6`, `# TONE 7`, `# TONE 8`, `# WEEKDAY OCTOECHOS`, `# EXAPOSTILARIA AND EVANGELICAL STICHERA`, `# ASCETIC HOMILIES AND COLOPHON`, or `# GENERAL PARASTAS (OFFICE FOR THE DEPARTED)`.",
     "parts": [
       {
         "id": "part0",
@@ -61,6 +700,70 @@
         "suffix": "part9_exapostilaria_eothina_and_colophon.md",
         "title": "RESURRECTIONAL EXAPOSTILARIA, EVANGELICAL STICHERA (EOTHINA), AND COLOPHON",
         "start_landmark": "^#+.*?(?:EXAPOSTILARIA|EVANGELICAL\\s+STICHERA|GOSPEL\\s+STICHERA|EOTHINA)\\b"
+      },
+      {
+        "id": "part10",
+        "suffix": "part10_parastas.md",
+        "title": "GENERAL PARASTAS: OFFICE FOR THE DEPARTED, MEMORIAL CANON, AND COLOPHON",
+        "start_landmark": "^#+.*?(?:GENERAL\\s+PARASTAS|PARASTAS|OFFICE\\s+FOR\\s+THE\\s+DEPARTED)\\b"
+      }
+    ]
+  },
+  "lenten_triodion": {
+    "canonical_h1_instruction": "Emit H1 (`# ...`) at the major liturgical divisions of the Lenten Triodion: `# PRE-LENTEN PERIOD`, `# THE HOLY AND GREAT FORTY DAYS`, `# LAZARUS SATURDAY AND PALM SUNDAY`, `# GREAT AND HOLY PASSION WEEK`, and `# REAR APPENDIX` (Markian Chapters or Life of St. Mary of Egypt).",
+    "parts": [
+      {
+        "id": "part0",
+        "suffix": "part0_front_matter.md",
+        "title": "Front Matter, Title Page, Dedicatory Epistles, and Prefatory Apparatus",
+        "start_landmark": null
+      },
+      {
+        "id": "part1",
+        "suffix": "part1_pre_lenten.md",
+        "title": "PART I: PRE-LENTEN PERIOD (SUNDAYS OF PUBLICAN & PHARISEE, PRODIGAL SON, MEATFARE, AND CHEESEFARE)",
+        "start_landmark": "^#+\\s*(?:PART\\s+I\\b|PRE-LENTEN\\s+PERIOD|SUNDAY\\s+OF\\s+THE\\s+PUBLICAN)"
+      },
+      {
+        "id": "part2",
+        "suffix": "part2_great_forty_days.md",
+        "title": "PART II: THE HOLY AND GREAT FORTY DAYS (FIRST THROUGH SIXTH WEEKS OF THE FAST)",
+        "start_landmark": "^#+\\s*(?:PART\\s+II\\b|THE\\s+HOLY\\s+AND\\s+GREAT\\s+FORTY\\s+DAYS|FIRST\\s+WEEK\\s+OF\\s+THE\\s+GREAT\\s+FAST)"
+      },
+      {
+        "id": "part3",
+        "suffix": "part3_lazarus_palm.md",
+        "title": "PART III: LAZARUS SATURDAY AND PALM SUNDAY (ENTRANCE OF THE LORD INTO JERUSALEM)",
+        "start_landmark": "^#+\\s*(?:PART\\s+III\\b|LAZARUS\\s+SATURDAY|PALM\\s+SUNDAY)"
+      },
+      {
+        "id": "part4",
+        "suffix": "part4_passion_week.md",
+        "title": "PART IV: GREAT AND HOLY PASSION WEEK (HOLY MONDAY THROUGH GREAT AND HOLY SATURDAY)",
+        "start_landmark": "^#+\\s*(?:PART\\s+IV\\b|GREAT\\s+AND\\s+HOLY\\s+PASSION\\s+WEEK|HOLY\\s+MONDAY)"
+      },
+      {
+        "id": "part5",
+        "suffix": "part5_appendices.md",
+        "title": "PART V: CONCLUDING APPENDICES (MARKIAN CHAPTERS / LIFE OF ST. MARY OF EGYPT) AND COLOPHON",
+        "start_landmark": "^#+\\s*(?:PART\\s+V\\b|MARKIAN\\s+CHAPTERS|LIFE\\s+OF\\s+(?:ST\\.|SAINT|OUR\\s+VENERABLE\\s+MOTHER)\\s+MARY\\s+OF\\s+EGYPT)"
+      }
+    ]
+  },
+  "pentecostarion": {
+    "canonical_h1_instruction": "Emit H1 (`# ...`) at major Paschaltide divisions (`# LAZARUS SATURDAY AND PALM WEEK` if present in pre-Nikonian Flowery Triodia, `# GREAT AND HOLY PASCHA AND BRIGHT WEEK`, `# SUNDAY OF SAINT THOMAS`, `# SUNDAY OF THE MYRRH-BEARING WOMEN`, `# SUNDAY OF THE PARALYTIC`, `# SUNDAY OF THE SAMARITAN WOMAN`, `# SUNDAY OF THE BLIND MAN`, `# FEAST OF THE ASCENSION`, `# GREAT FEAST OF HOLY PENTECOST`, `# TYPIKON APPENDIX`).",
+    "parts": [
+      {
+        "id": "part0",
+        "suffix": "part0_front_matter.md",
+        "title": "Front Matter, Title Page, Dedicatory Approbations, and Opening Preface",
+        "start_landmark": null
+      },
+      {
+        "id": "part1",
+        "suffix": "part1_pascha_bright_week.md",
+        "title": "PART I: GREAT AND HOLY PASCHA AND BRIGHT WEEK",
+        "start_landmark": "^#+\\s*(?:PART\\s+I\\b|GREAT\\s+AND\\s+HOLY\\s+PASCHA|LAZARUS\\s+SATURDAY)"
       }
     ]
   },
@@ -80,5 +783,92 @@
         "start_landmark": "^#\\s+(?:PART\\s+I|CHAPTER\\s+1|SECTION\\s+I|TONE\\s+1|MONTH\\s+OF)\\b"
       }
     ]
+  },
+  "empirical_telemetry_calibration": {
+    "last_calibrated_at": "2026-10-30T21:20:30.498505+00:00",
+    "total_monuments_sampled": 21,
+    "total_leaves_sampled": 12169,
+    "by_monument_type": {
+      "anthologion": {
+        "sample_leaves": 30,
+        "min": 1.06,
+        "p10": 1.092,
+        "median": 1.146,
+        "p90": 1.205,
+        "max": 1.298
+      },
+      "euchologion_liturgikon": {
+        "sample_leaves": 30,
+        "min": 1.055,
+        "p10": 1.133,
+        "median": 1.201,
+        "p90": 1.382,
+        "max": 1.536
+      },
+      "horologion": {
+        "sample_leaves": 59,
+        "min": 1.167,
+        "p10": 1.31,
+        "median": 1.556,
+        "p90": 1.836,
+        "max": 2.001
+      },
+      "juridical_synodal": {
+        "sample_leaves": 14,
+        "min": 1.341,
+        "p10": 1.358,
+        "median": 1.444,
+        "p90": 1.676,
+        "max": 1.8
+      },
+      "lenten_triodion": {
+        "sample_leaves": 144,
+        "min": 0.986,
+        "p10": 1.111,
+        "median": 1.205,
+        "p90": 1.33,
+        "max": 1.501
+      },
+      "lexicon_scholarly": {
+        "sample_leaves": 118,
+        "min": 0.694,
+        "p10": 1.11,
+        "median": 1.277,
+        "p90": 1.36,
+        "max": 1.5
+      },
+      "octoechos": {
+        "sample_leaves": 218,
+        "min": 1.032,
+        "p10": 1.126,
+        "median": 1.208,
+        "p90": 1.345,
+        "max": 1.587
+      },
+      "pentecostarion": {
+        "sample_leaves": 113,
+        "min": 0.974,
+        "p10": 1.14,
+        "median": 1.202,
+        "p90": 1.278,
+        "max": 1.536
+      },
+      "trebnyk_euchologion": {
+        "sample_leaves": 141,
+        "min": 0.996,
+        "p10": 1.073,
+        "median": 1.17,
+        "p90": 1.309,
+        "max": 1.475
+      },
+      "typikon": {
+        "sample_leaves": 199,
+        "min": 0.606,
+        "p10": 0.981,
+        "median": 1.202,
+        "p90": 1.436,
+        "max": 1.812
+      }
+    }
   }
 }

@@ -3,7 +3,7 @@
 Universal Structural & Rubrical Sequence Auditor
 ================================================
 Audits English translation drafts to ensure unbroken statutory numbering,
-rubrical sequence integrity, and correct markdown heading levels.
+rubrical sequence integrity, and correct genre-scoped markdown heading levels.
 
 Usage:
     python scripts/structural_audit.py --target draft.md
@@ -24,7 +24,13 @@ if sys.stderr and hasattr(sys.stderr, 'reconfigure'):
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = SCRIPT_DIR.parent
+if str(SCRIPT_DIR) not in sys.path:
+    sys.path.insert(0, str(SCRIPT_DIR))
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT))
 REGISTRY_FILE = PROJECT_ROOT / "Liturgical Monuments" / "codex_registry.json"
+
+from orchestrator_state import resolve_monument_type, load_monument_scaffold
 
 BANNED_FABRICATED_HEADING_PATTERNS = [
     (re.compile(r"^#{1,6}\s+(?:At\s+(?:Sunday\s+)?(?:Midnight\s+Office|Matins|Vespers|the\s+Praises)|Sunday\s+Divine\s+Liturgy|On\s+(?:Saturday|Sunday)\s+Evening|On\s+Sunday\s+at\s+the\s+Liturgy|Canon\s+(?:to|of)\s+|Ode\s+\d+|Sessional\s+Hymn|Hypakoe|Hymns\s+of\s+Ascent|Gradual\s+Hymns|Prokeimenon|The\s+Beatitudes|Penitential\s+Stichera|Other\s+Stichera|Antiphon\s+\d+)", re.IGNORECASE), "FABRICATED_LITURGICAL_HEADING"),
@@ -51,6 +57,47 @@ def parse_leaf_blocks(text: str) -> Dict[int, str]:
     return blocks
 
 
+def get_allowed_h1_landmarks(monument_id: Optional[str], mon_entry: Dict[str, Any]) -> List[str]:
+    """
+    Returns genre-scoped H1 landmark regexes for the monument, combining explicit
+    publication_spec.parts landmarks with the monument_type scaffold's allowed_h1_patterns.
+    """
+    pub_spec = mon_entry.get("publication_spec", {})
+    parts = pub_spec.get("parts", [])
+    allowed: List[str] = [p.get("start_landmark") for p in parts if p.get("start_landmark")]
+
+    scaf = load_monument_scaffold(monument_id or "", mon_entry)
+    mon_type = scaf.get("monument_type", resolve_monument_type(monument_id or "", mon_entry))
+    for pat in scaf.get("allowed_h1_patterns", []):
+        if pat and pat not in allowed:
+            allowed.append(pat)
+    for sp in scaf.get("parts", []):
+        lm = sp.get("start_landmark")
+        if lm and lm not in allowed:
+            allowed.append(lm)
+
+    # Generic structural H1 patterns allowed across all monuments (with optional leading 'THE ')
+    generic_h1 = [
+        r"^#\s+(?:THE\s+)?PREFACE(?::\s+TO\s+THE\s+READER)?",
+        r"^#\s+(?:THE\s+)?(?:PART\s+[IVXLCDM\d]+|CHAPTER\s+\d+|SECTION\s+[IVXLCDM\d]+|APPENDIX|TABLE\s+OF\s+CONTENTS|ORDER\s+OF|SELECTED\s+PSALMS|BOOK\s+OF|PASCHALION|MENOLOGION|KANONIKON|COLOPHON)",
+    ]
+    for g in generic_h1:
+        if g not in allowed:
+            allowed.append(g)
+
+    if mon_type in ("octoechos", "irmologion"):
+        for oct_pat in (
+            r"^#\s+(?:THE\s+)?TONE\s+\d+",
+            r"^#\s+(?:THE\s+)?EXAPOSTILARIA",
+            r"^#\s+(?:THE\s+)?WEEKDAY\s+(?:OCTOECHOS|OFFICES)",
+            r"^#\s+(?:THE\s+)?(?:ASCETIC\s+HOMILIES|GENERAL\s+PARASTAS|PARASTAS)",
+        ):
+            if oct_pat not in allowed:
+                allowed.append(oct_pat)
+
+    return allowed
+
+
 def audit_structure(
     filepath: Path,
     prev_filepath: Optional[Path] = None,
@@ -65,7 +112,6 @@ def audit_structure(
 
     lines = content.splitlines()
 
-    # Determine if monument is bilingual (e.g. Greek odd leaves, English even leaves)
     is_bilingual = False
     resolved_monument = monument_id
     if not resolved_monument:
@@ -73,6 +119,7 @@ def audit_structure(
         if candidate:
             resolved_monument = candidate
 
+    mon_entry = {}
     if REGISTRY_FILE.exists() and resolved_monument:
         try:
             with open(REGISTRY_FILE, "r", encoding="utf-8") as rf:
@@ -100,18 +147,15 @@ def audit_structure(
             continue
         paragraph_count += 1
 
-        # Track active leaf banner
         m_leaf = re.match(r"===\s*LEAF\s+p?(\d+)", s, re.IGNORECASE)
         if m_leaf:
             current_leaf = int(m_leaf.group(1))
 
-        # Check markdown headings
         if s.startswith("#"):
             level = len(s) - len(s.lstrip("#"))
             title = s.lstrip("#").strip()
             headings.append({"line": line_num, "level": level, "title": title, "leaf": current_leaf})
 
-        # Check numbered statutory items (e.g., "**1.**", "1.", "§ 1.")
         m_statute = re.match(r"^(?:\*{1,2})?(\d+)\.(?:\*{1,2})?\s+", s)
         if m_statute:
             num = int(m_statute.group(1))
@@ -122,17 +166,13 @@ def audit_structure(
                 else:
                     even_numbered_items.append(num)
 
-    # Check numbering continuity in simple sequential runs
     breaks = []
     if is_bilingual:
-        # For bilingual interleaved editions (e.g. Violakis), odd leaves are source and even leaves are translation.
-        # Check odd leaves track (source text continuity)
         for i in range(len(odd_numbered_items) - 1):
             curr_n = odd_numbered_items[i]
             next_n = odd_numbered_items[i + 1]
             if next_n > curr_n + 1 and next_n < curr_n + 5:
                 breaks.append(f"Odd/Source leaf jump from {curr_n} to {next_n}")
-        # Check even leaves track (translation text continuity)
         for i in range(len(even_numbered_items) - 1):
             curr_n = even_numbered_items[i]
             next_n = even_numbered_items[i + 1]
@@ -142,11 +182,9 @@ def audit_structure(
         for i in range(len(numbered_items) - 1):
             curr_n = numbered_items[i]
             next_n = numbered_items[i + 1]
-            # If numbers ascend but skip (e.g. 1 -> 3)
             if next_n > curr_n + 1 and next_n < curr_n + 5:
                 breaks.append(f"Jump from {curr_n} to {next_n}")
 
-    # Check Leaf Accounting & Continuity
     curr_leaves = extract_accounted_leaves(content)
     leaf_stats: Dict[str, Any] = {
         "leaves_count": len(curr_leaves),
@@ -165,11 +203,9 @@ def audit_structure(
             if len(body_txt) < 5:
                 anomalies.append(f"Empty or trivial leaf block for === LEAF p{p_num} === ({len(body_txt)} chars)")
 
-        # Invariant for Cohort 1: Must anchor on physical page 1
         if cohort_num == 1 and c_min != 1:
             anomalies.append(f"Cohort 1 initial anchor violation: expected leaf p1, but found starting leaf p{c_min}.")
 
-        # Invariant for Cohort K > 1: Must continuously follow Cohort K-1
         if prev_filepath and prev_filepath.exists():
             with open(prev_filepath, "r", encoding="utf-8") as pf:
                 prev_text = pf.read()
@@ -189,23 +225,13 @@ def audit_structure(
                         f"precedes previous max leaf p{prev_max}."
                     )
 
-    # Epigraphic Heading & Pre-Training Incursion Linter
     is_hymnographic = False
     genre = mon_entry.get("genre_register", "").lower()
-    if genre == "hymnographic" or (resolved_monument and "octoechos" in resolved_monument.lower()):
+    mon_type = resolve_monument_type(resolved_monument or "", mon_entry)
+    if genre == "hymnographic" or mon_type in ("octoechos", "lenten_triodion", "pentecostarion", "anthologion", "akathistnik", "irmologion"):
         is_hymnographic = True
 
-    cand_src = None
-    if resolved_monument and cohort_num:
-        ws_rel = mon_entry.get("workspace_dir", f"Liturgical Monuments/{resolved_monument}")
-        ws = PROJECT_ROOT / ws_rel
-        src_path = ws / "Source Text" / f"{resolved_monument}_cohort{cohort_num}_source.txt"
-        if src_path.exists():
-            cand_src = src_path
-
-    source_leaf_blocks = {}
-    if cand_src and cand_src.exists():
-        source_leaf_blocks = parse_leaf_blocks(cand_src.read_text(encoding="utf-8"))
+    allowed_landmarks = get_allowed_h1_landmarks(resolved_monument, mon_entry)
 
     for h in headings:
         line_no = h["line"]
@@ -213,7 +239,6 @@ def audit_structure(
         htitle = h["title"]
         hleaf = h.get("leaf")
 
-        # 1. Banned pre-training liturgical headings across all monuments
         for pat, pat_name in BANNED_FABRICATED_HEADING_PATTERNS:
             if pat.search(f"{'#' * lvl} {htitle}"):
                 anomalies.append(
@@ -222,31 +247,27 @@ def audit_structure(
                     f"Historical codices format rubrics as inline italics ('*...*')."
                 )
 
-        # 2. In hymnographic codices, ban all headings level >= 2
         if is_hymnographic and lvl >= 2:
-            anomalies.append(
-                f"EPIGRAPHIC_HEADING_VIOLATION (L{line_no}, leaf p{hleaf}): "
-                f"Level-{lvl} heading '{htitle}' is prohibited in hymnographic codices. "
-                f"Use inline italic rubrics ('*...*')."
-            )
+            is_authorized_h2 = False
+            if lvl == 2:
+                guardrails_str = " ".join(mon_entry.get("flash_execution_guardrails", []))
+                if "H1 & H2" in guardrails_str:
+                    is_authorized_h2 = True
+            if not is_authorized_h2:
+                anomalies.append(
+                    f"EPIGRAPHIC_HEADING_VIOLATION (L{line_no}, leaf p{hleaf}): "
+                    f"Level-{lvl} heading '{htitle}' is prohibited in hymnographic codices. "
+                    f"Use inline italic rubrics ('*...*')."
+                )
 
-        # 3. For Level-1 headings (# Title), verify against publication spec landmarks
         if lvl == 1:
-            pub_spec = mon_entry.get("publication_spec", {})
-            parts = pub_spec.get("parts", [])
-            allowed_landmarks = [p.get("start_landmark") for p in parts if p.get("start_landmark")]
-            allowed_landmarks.append(r"^#\s+PREFACE:\s+TO\s+THE\s+READER")
-            allowed_landmarks.append(r"^#\s+TONE\s+\d+")
-            allowed_landmarks.append(r"^#\s+EXAPOSTILARIA")
-            
             is_valid_h1 = any(re.search(lm, f"# {htitle}", re.IGNORECASE) for lm in allowed_landmarks if lm)
             if not is_valid_h1:
                 anomalies.append(
                     f"UNSANCTIONED_H1_HEADING (L{line_no}, leaf p{hleaf}): "
-                    f"'# {htitle}' does not match any authorized publication landmark in codex_registry.json."
+                    f"'# {htitle}' does not match any authorized publication landmark for monument_type='{mon_type}'."
                 )
 
-    # Basic structural health check: must have paragraphs and zero anomalies
     passed = len(anomalies) == 0 and len(breaks) == 0 and paragraph_count > 0
 
     return {
@@ -254,12 +275,13 @@ def audit_structure(
         "passed": passed,
         "paragraphs": paragraph_count,
         "headings_count": len(headings),
-        "headings": headings[:15],  # sample
+        "headings": headings[:15],
         "numbered_items_count": len(numbered_items),
         "number_breaks": breaks,
         "leaf_stats": leaf_stats,
         "anomalies": anomalies
     }
+
 
 def main():
     parser = argparse.ArgumentParser(description="Universal Structural & Rubrical Sequence Auditor")
@@ -318,6 +340,7 @@ def main():
             print(f"  Anomalies: {res['anomalies']}")
 
     sys.exit(0 if res["passed"] else 1)
+
 
 if __name__ == "__main__":
     main()

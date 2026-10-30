@@ -693,7 +693,11 @@ RE_CONTINUATION = re.compile(
     r"^(?:\[(?:Continuation\s+of\s+|Продовження\s+)[^\]]+\]|\*\([^)]*?\b(?:continued|concluded|conclusion)\b[^)]*\):?\*?\:?)(?:\s*(\[\^\d+\]))?$",
     re.IGNORECASE
 )
-RE_BLANK_LINE = re.compile(r"^\*?\[(?:Blank|Чистий)\s+[^\]]+\]\*?$", re.IGNORECASE)
+RE_BLANK_LINE = re.compile(r"^\*?\[(?:Blank|Чистий)\s+[^\]]+\]\*?(?:\s*(\[\^\d+\]))?$", re.IGNORECASE)
+RE_MS_RUNNING_HEADER = re.compile(
+    r"^(?:\*?\((?:fol\.?|folio)\s*\d+[rv]?\)\*?|\[(?:Sunday|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday)(?:\s*/\s*(?:Sunday|Saturday))?(?:,\s*Tone\s+\d+)?\.?\])(?:\s*(\[\^\d+\]))?$",
+    re.IGNORECASE,
+)
 
 RE_NON_STITCHABLE_START = re.compile(
     r"^(?:#|\[\d+\]|\*\*\d+\.\*\*|\d+\.\s|\[(?:Headpiece|Woodcut|Primary|Marginalia|17th-century)|\*?(?:Podoben|Prosomoion|Model\s+melody|Model|Verse|Stichos|Glory|Both now|Theotokion|Stavrotheotokion|For the Martyrs|For the Departed|Hymn for the Departed|Nekrosimon|Ode\s+\d+|Another\s+(?:Canon|Heirmos|Stichera)|Other\s+Stichera|Stichera\b|Penitential\s+Stichera|Resurrectional|After\s+the\s+\d+|At\s+the\s+(?:Aposticha|Praises)|Sessional\s+Hymn|Kontakion|Ikos|Hypakoe|Prokeimenon|Tone\s+\d+|Same\s+Tone)\b)",
@@ -955,7 +959,10 @@ def stitch_2up_hymnographic_stream(cohort_text: str) -> Tuple[str, List[Dict[str
         raw_line = lines[i]
         line = raw_line.strip()
 
-        if RE_BLANK_LINE.match(line):
+        m_blank = RE_BLANK_LINE.match(line)
+        if m_blank:
+            if m_blank.group(1):
+                pending_footnote = f"{pending_footnote} {m_blank.group(1)}".strip() if pending_footnote else m_blank.group(1)
             i += 1
             continue
 
@@ -970,6 +977,18 @@ def stitch_2up_hymnographic_stream(cohort_text: str) -> Tuple[str, List[Dict[str
         m_leaf = RE_LEAF_BANNER.match(line)
         if m_leaf:
             locus.update_leaf(int(m_leaf.group(1)))
+            pending_milestone = locus.get_milestone()
+            i += 1
+            continue
+
+        m_run = RE_MS_RUNNING_HEADER.match(line)
+        if m_run:
+            m_f_run = re.search(r"(?:fol\.?|folio)\s*(\d+[rv]?)", line, re.IGNORECASE)
+            if m_f_run:
+                locus.folio = m_f_run.group(1).strip()
+                pending_milestone = locus.get_milestone()
+            if m_run.group(1):
+                pending_footnote = f"{pending_footnote} {m_run.group(1)}".strip() if pending_footnote else m_run.group(1)
             i += 1
             continue
 
@@ -978,7 +997,7 @@ def stitch_2up_hymnographic_stream(cohort_text: str) -> Tuple[str, List[Dict[str
             locus.update_page(m_page.group(1), m_page.group(2) or "", m_page.group(3) or "")
             pending_milestone = locus.get_milestone()
             if m_page.group(4):
-                pending_footnote = m_page.group(4)
+                pending_footnote = f"{pending_footnote} {m_page.group(4)}".strip() if pending_footnote else m_page.group(4)
             i += 1
             continue
 
@@ -987,14 +1006,14 @@ def stitch_2up_hymnographic_stream(cohort_text: str) -> Tuple[str, List[Dict[str
             locus.update_col(m_col.group(1))
             pending_milestone = locus.get_milestone()
             if m_col.group(2):
-                pending_footnote = m_col.group(2)
+                pending_footnote = f"{pending_footnote} {m_col.group(2)}".strip() if pending_footnote else m_col.group(2)
             i += 1
             continue
 
         m_cont = RE_CONTINUATION.match(line)
         if m_cont:
             if m_cont.group(1):
-                pending_footnote = m_cont.group(1)
+                pending_footnote = f"{pending_footnote} {m_cont.group(1)}".strip() if pending_footnote else m_cont.group(1)
             i += 1
             continue
 
@@ -1107,6 +1126,10 @@ def stitch_2up_hymnographic_stream(cohort_text: str) -> Tuple[str, List[Dict[str
 
         output_lines.append(curr_line)
         i += 1
+
+    if pending_footnote and output_lines:
+        output_lines[-1] = f"{output_lines[-1]} {pending_footnote}"
+        pending_footnote = None
 
     if pending_cohort_boundary:
         output_lines.append(pending_cohort_boundary)
@@ -1592,7 +1615,8 @@ def emit_deliverables(
         mon_meta=mon_meta,
         normalizer=normalizer,
         events=all_drift_events,
-        corpus_items=corpus_json.get("items", [])
+        corpus_items=corpus_json.get("items", []),
+        stitched_cohorts=all_stitched_cohorts
     )
     (final_md_dir / f"{monument_id}_primitives_review.md").write_text(primitives_review, encoding="utf-8")
     print(f"  [Companion] Emitted {monument_id}_primitives_review.md ({len(primitives_review):,} chars)")
@@ -1608,7 +1632,8 @@ def generate_father_paul_digest(
     mon_meta: Dict[str, Any],
     normalizer: HymnographicNormalizer,
     events: List[Dict[str, Any]],
-    corpus_items: List[Dict[str, Any]]
+    corpus_items: List[Dict[str, Any]],
+    stitched_cohorts: Optional[List[str]] = None
 ) -> str:
     """
     Generates the Canonical Liturgical Primitives Review Digest dynamically from the target
@@ -1652,6 +1677,29 @@ def generate_father_paul_digest(
     unattested_podobens_in_monument = [pod for pod in normalizer.podobens if not pod_loci_by_id.get(pod["id"])]
 
     total_pod_invocations = sum(len(v) for v in pod_loci_by_id.values()) + len(same_pod_loci)
+    ws_dir = PROJECT_ROOT / mon_meta["workspace_dir"]
+    complete_file = ws_dir / "Final MD" / f"{monument_id}_complete.md"
+    if stitched_cohorts:
+        total_pod_invocations = sum(
+            1
+            for txt in stitched_cohorts
+            for ln in txt.splitlines()
+            if re.search(r"\bpodoben:", ln, re.IGNORECASE)
+        )
+    elif complete_file.exists():
+        comp_txt = complete_file.read_text(encoding="utf-8")
+        comp_body = re.split(r"\n#\s*FOOTNOTES AND SCHOLARLY COMMENTARY", comp_txt, flags=re.IGNORECASE)[0]
+        total_pod_invocations = sum(1 for ln in comp_body.splitlines() if re.search(r"\bpodoben:", ln, re.IGNORECASE))
+    else:
+        cohorts_dir = ws_dir / "Cohorts" if (ws_dir / "Cohorts").exists() else ws_dir / "Final MD"
+        cohorts_pod_count = sum(
+            1
+            for cf in cohorts_dir.glob("*cohort*.md")
+            for ln in cf.read_text(encoding="utf-8").splitlines()
+            if re.search(r"\bpodoben:", ln, re.IGNORECASE)
+        )
+        if cohorts_pod_count > 0:
+            total_pod_invocations = cohorts_pod_count
 
     lines = [
         f"# Canonical Liturgical Primitives Review Digest: {short_title}",
@@ -1890,7 +1938,6 @@ def generate_propers_corpus(
                     current_tone = int(m_t.group(1))
                     current_ode = None
                     active_podoben_id = None
-                    continue
 
                 m_o = re.match(r"^Ode\s+(\d+)\b", hdr_clean, re.IGNORECASE)
                 if m_o:
@@ -1902,6 +1949,10 @@ def generate_propers_corpus(
                     current_office = hdr_clean
                     current_ode = None
                     active_podoben_id = None
+                    continue
+
+                if m_t and para.startswith("# "):
+                    current_office = f"Tone {current_tone}"
                     continue
 
                 current_section = hdr_clean
@@ -1916,15 +1967,35 @@ def generate_propers_corpus(
             if not clean_para:
                 continue
 
-            if clean_para.startswith("*Podoben:"):
-                m_pod_eng = re.search(r'\*Podoben:\s*"([^"]+)"', clean_para)
+            first_line = clean_para.splitlines()[0].strip()
+            if first_line.startswith("*"):
+                m_in_t = re.search(r"\bTone\s+(\d+)\b", first_line, re.IGNORECASE)
+                if m_in_t and 1 <= int(m_in_t.group(1)) <= 8:
+                    current_tone = int(m_in_t.group(1))
+                m_in_ode = re.match(r"^\*Ode\s+(\d+)\b", first_line, re.IGNORECASE)
+                if m_in_ode:
+                    current_ode = int(m_in_ode.group(1))
+                    current_section = f"Canon — Ode {current_ode}"
+                m_in_day = re.match(
+                    r"^\*(?:On\s+)?(Saturday|Sunday|Monday|Tuesday|Wednesday|Thursday|Friday)\s+"
+                    r"(?:evening|morning|at\s+Matins|at\s+Vespers|at\s+Compline|at\s+the\s+Midnight\s+Office)",
+                    first_line,
+                    re.IGNORECASE,
+                )
+                if m_in_day:
+                    current_office = first_line.strip("* :")
+                    current_ode = None
+
+            if clean_para.startswith("*Podoben:") or re.match(r"^\*Tone\s+\d+,\s*Podoben:", clean_para, re.IGNORECASE):
+                m_pod_eng = re.search(r'Podoben:\s*"([^"]+)"', clean_para, re.IGNORECASE)
                 if m_pod_eng:
                     eng_inc = m_pod_eng.group(1).lower()
                     for pod in normalizer.podobens:
                         if pod["english_canonical"].lower() == eng_inc:
                             active_podoben_id = pod["id"]
                             break
-                continue
+                if "\n" not in clean_para:
+                    continue
 
             if clean_para.startswith("*Verse:") and len(clean_para) < 160:
                 continue

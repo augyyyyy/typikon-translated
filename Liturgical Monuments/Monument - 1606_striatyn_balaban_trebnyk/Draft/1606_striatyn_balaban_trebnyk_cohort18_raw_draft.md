@@ -20,11 +20,11 @@ O Lord our God, with glory and honor hast Thou crowned them.
 
 === LEAF p172 ===
 
-[Fol. 77v. Blank leaf at the conclusion of Gathering 8 (и), concluding the Order for a Second Marriage, separating the nuptial rites from the Order of Holy Unction.]
+(*Fol. 77v. Blank leaf at the conclusion of Gathering 8 (и), concluding the Order for a Second Marriage, separating the nuptial rites from the Order of Holy Unction.*)
 
 === LEAF p173 ===
 
-[Fol. 78r. Headpiece: Woodcut engraving depicting two angels holding an oval medallion inscribed: "Anointing with Oil" (*ПОМАЗАНЇЕ Є҆ЛЕО́МЪ*), depicting priests ministering at the bedside of the sick person, flanked by floral vases and foliage.]
+(*Fol. 78r. Headpiece: Woodcut engraving depicting two angels holding an oval medallion inscribed: "Anointing with Oil" (*ПОМАЗАНЇЕ Є҆ЛЕО́МЪ*), depicting priests ministering at the bedside of the sick person, flanked by floral vases and foliage.*)
 
 # PART XIII: THE ORDER OF THE HOLY OIL CHANTED BY SEVEN PRIESTS[^261]
 

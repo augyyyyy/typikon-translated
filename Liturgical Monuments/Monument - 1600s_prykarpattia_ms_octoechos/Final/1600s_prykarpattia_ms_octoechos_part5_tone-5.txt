@@ -1,8 +1,10 @@
 # TONE 5
 
+## TONE 5 [^90]
+
 ## SATURDAY EVENING: VESPERS (TONE 5)
 
-*On Saturday evening at Great Vespers, on "Lord, I have cried":*
+[f. 72A] *On Saturday evening at Great Vespers, on "Lord, I have cried":*
 
 *Stichera of the Resurrection, Tone 5:*
 
@@ -16,11 +18,7 @@ He Who gives resurrection unto the human race was led as a sheep to the slaughte
 
 *Sticheron 3:*
 
-A great marvel: the Creator of invisible things, having suffered in the flesh for the sake of His love for mankind, arose immortal! Come, families of the nations, let us worship Him...
-
-[Saturday.]
-
-...for delivered from deceit by His tender mercy, we have learned to hymn the one God in Three Persons!
+A great marvel: the Creator of invisible things, having suffered in the flesh for the sake of His love for mankind, arose immortal! Come, families of the nations, let us worship Him [f. 72A] for delivered from deceit by His tender mercy, we have learned to hymn the one God in Three Persons!
 
 *Other Stichera, Anatolian [Eastern], the same Tone:*
 
@@ -50,9 +48,7 @@ In the Red Sea an image of the unwedded Bride was prefigured of old: there Moses
 
 Thee, Who wast incarnate, O Christ Savior, and didst not depart from heaven, in voices of songs we magnify; for Thou didst accept the Cross and death for the sake of our race, as the Lord Who loves mankind; having shattered the gates of Hades, Thou didst arise on the third day, saving our souls!
 
-[Saturday.]
-
-*Verse: The Lord is King, He is robed in majesty.*
+[f. 72A] *Verse: The Lord is King, He is robed in majesty.*
 
 *Sticheron 2:*
 
@@ -82,11 +78,9 @@ The Word, co-unoriginate with the Father and the Spirit, Who was born of the Vir
 
 Rejoice, impassable gate of the Lord! Rejoice, rampart and protection of those who flee unto thee! Rejoice, tempest-free haven and unwedded one, who bore in the flesh thy Creator and Lord: cease not praying for those who hymn and worship thy childbearing!
 
-[Sunday.]
-
 ## SUNDAY MIDNIGHT OFFICE (TONE 5)
 
-*On Sunday at the Midnight Office, Canon to the Most Holy and Life-Originating Trinity, the work of Mitrophanes.*
+[f. 72A] *On Sunday at the Midnight Office, Canon to the Most Holy and Life-Originating Trinity, the work of Mitrophanes.*
 
 *Ode 1. Heirmos: The steed and rider into the Red Sea...*
 
@@ -126,11 +120,7 @@ Thou didst appear unto Moses in the bush as the Angel of Great Counsel of the Al
 
 *Sessional Hymn, Tone 5 [after Ode 3]:*
 
-Merciful art Thou, O indivisible Trinity, for Thou hast mercy upon...
-
-[Sunday.]
-
-...all, as Thou art almighty and all-bountiful, compassionate and exceedingly merciful; therefore we flee unto Thee, weighed down by many sins, crying out: Cleanse Thy servants, and deliver us from every torment!
+Merciful art Thou, O indivisible Trinity, for Thou hast mercy upon [f. 72A] all, as Thou art almighty and all-bountiful, compassionate and exceedingly merciful; therefore we flee unto Thee, weighed down by many sins, crying out: Cleanse Thy servants, and deliver us from every torment!
 
 *Glory, both now. Theotokion:*
 
@@ -176,11 +166,7 @@ When of old the Prophet beheld thee, O pure and all-holy one, as a gate facing t
 
 *Troparion:*
 
-Being the Tri-radiant Godhead in Persons, Thou art unitary as conforming and equal in operation...
-
-[Sunday.]
-
-...and in extension according to essence.
+Being the Tri-radiant Godhead in Persons, Thou art unitary as conforming and equal in operation [f. 72A] and in extension according to essence.
 
 *Troparion:*
 
@@ -228,11 +214,7 @@ That Thou mightest clearly reveal of old the Trinitarian Hypostases of the one L
 
 *Troparion:*
 
-Vouchsafe me to look upon Thy beneficent rays, O unapproachable Light, O generous Father...
-
-[Sunday.]
-
-...and Word, and Spirit, that I may look upon Thy beneficent rays, so as to be well-pleasing unto Thee always, O Lord of all!
+Vouchsafe me to look upon Thy beneficent rays, O unapproachable Light, O generous Father [f. 72A] and Word, and Spirit, that I may look upon Thy beneficent rays, so as to be well-pleasing unto Thee always, O Lord of all!
 
 *Troparion:*
 
@@ -272,9 +254,7 @@ O Lord, after Thy third-day Resurrection and the adoration by the Apostles, Pete
 
 *Both now:*
 
-[Sunday.]
-
-*Theotokion:*
+[f. 72A] *Theotokion:*
 
 Terrifying is the wonder of thy conception, and ineffable the manner of thy childbearing; in thee it was made known, O pure Ever-Virgin! It astounds my mind and strikes awe into my thoughts: thy glory, O Mother of God, extended unto all, unto the salvation of our souls!
 
@@ -316,9 +296,7 @@ May Thy right hand, extended unto me also, O Christ, preserve me from every delu
 
 *Glory, both now:*
 
-[Sunday.]
-
-Unto the Holy Spirit, speaking theology, let us say: Thou art God, life, longing, light, understanding! Thou art goodness, Thou reignest unto the ages!
+[f. 72A] Unto the Holy Spirit, speaking theology, let us say: Thou art God, life, longing, light, understanding! Thou art goodness, Thou reignest unto the ages!
 
 *Antiphon 3:*
 
@@ -366,9 +344,7 @@ Unto Christ Who arose from the tomb from among the dead, and raised up fallen ma
 
 O most pure Mother of God: pray unceasingly unto God Who was incarnate from thee, yet was not separated from the bosom of the Father, to deliver from every tribulation those whom He created!
 
-[Sunday.]
-
-*Another Canon to the Most Holy Theotokos, the same Tone:*
+[f. 72A] *Another Canon to the Most Holy Theotokos, the same Tone:*
 
 *Heirmos: The steed and rider into the Red Sea...*
 
@@ -420,11 +396,7 @@ The ladder whereby the Most High came down unto us, to restore our corrupted nat
 
 *Troparion:*
 
-The mystery foreordained of old, O Virgin, and foreseen before...
-
-[Sunday.]
-
-...the ages by God Who knows all things, in these last times took its fulfillment in thy womb, O all-immaculate one, and was made manifest!
+The mystery foreordained of old, O Virgin, and foreseen before [f. 72A] the ages by God Who knows all things, in these last times took its fulfillment in thy womb, O all-immaculate one, and was made manifest!
 
 *Troparion:*
 
@@ -476,9 +448,7 @@ The choirs above the world hymn thy childbirth, O all-immaculate one, rejoicing 
 
 Isaiah named thee the rod, from which blossomed forth unto us the fair flower, Christ God, for the salvation of those who flee with faith and love unto thy protection!
 
-[Sunday.]
-
-*Ode 5. Heirmos: O Thou Who clothest Thyself with light as with a garment, unto Thee I rise early, and unto Thee I cry: Enlighten my darkened soul, O Christ, as Thou alone art tenderhearted!*
+[f. 72A] *Ode 5. Heirmos: O Thou Who clothest Thyself with light as with a garment, unto Thee I rise early, and unto Thee I cry: Enlighten my darkened soul, O Christ, as Thou alone art tenderhearted!*
 
 *Troparion:*
 
@@ -536,11 +506,7 @@ O Life, Thou didst descend into Hades, O Master Christ, and becoming corruptible
 
 *Theotokion:*
 
-A Virgin gave birth, and having given birth, remained pure, bearing in her hands Him Who upholds all things, as truly...
-
-[Sunday.]
-
-...a Virgin Mother!
+A Virgin gave birth, and having given birth, remained pure, bearing in her hands Him Who upholds all things, as truly [f. 72A] a Virgin Mother!
 
 *Another Heirmos [Cross-Resurrection]: The abyss encompassed me...*
 
@@ -590,9 +556,7 @@ He Who brought into being the unshakeable foundation of the earth is covered in 
 
 *Theotokion:*
 
-[Sunday.]
-
-One Hypostasis in two natures, O all-immaculate one, didst thou bear, the incarnate God, unto Whom we all sing: Blessed art Thou, O God!
+[f. 72A] One Hypostasis in two natures, O all-immaculate one, didst thou bear, the incarnate God, unto Whom we all sing: Blessed art Thou, O God!
 
 *Another Heirmos [Cross-Resurrection]: In the fiery furnace...*
 
@@ -656,11 +620,7 @@ Unto Christ God, Who shone forth from the tomb as a bridegroom, and appeared unt
 
 *Theotokion:*
 
-Thou wast revealed higher than the Cherubim, O pure Mother of God, having borne in thy womb Him Who is borne upon them, Whom with the bodiless hosts we earthborn hymn with doxology and supremely exalt...
-
-[Sunday.]
-
-...unto all ages!
+Thou wast revealed higher than the Cherubim, O pure Mother of God, having borne in thy womb Him Who is borne upon them, Whom with the bodiless hosts we earthborn hymn with doxology and supremely exalt [f. 72A] unto all ages!
 
 *Another Heirmos [to the Most Holy Theotokos]: Unto Thee, the Creator of all...*
 
@@ -716,11 +676,7 @@ From thy pure blood flesh was supernaturally curdled for the Creator of all, the
 
 *Troparion:*
 
-Thou didst stop the irresistible circuit of death...
-
-[Sunday.]
-
-...circuit [of death], having in truth borne in the flesh beyond mind the eternal Life, Whom touching with bitter lips, Hades was abolished, O most holy Virgin Mother!
+Thou didst stop the irresistible circuit of death [f. 72A] having in truth borne in the flesh beyond mind the eternal Life, Whom touching with bitter lips, Hades was abolished, O most holy Virgin Mother!
 
 *Troparion:*
 
@@ -752,11 +708,7 @@ O Lord, King of the ages and Creator of all, Who for our sake didst accept cruci
 
 *Sticheron:*
 
-O Lord, who shall declare Thy supremely radiant marvels, or who shall tell of Thy fearful mysteries? For having become...
-
-[Sunday.]
-
-...man for our sake as Thou Thyself didst desire, Thou didst manifest the dominion of Thy power; and by Thy Cross Thou didst open Paradise unto the Thief, and by Thy burial Thou didst shatter the bars of Hades, and by Thy Resurrection Thou didst enrich all things: O compassionate One, glory to Thee!
+O Lord, who shall declare Thy supremely radiant marvels, or who shall tell of Thy fearful mysteries? For having become [f. 72A] man for our sake as Thou Thyself didst desire, Thou didst manifest the dominion of Thy power; and by Thy Cross Thou didst open Paradise unto the Thief, and by Thy burial Thou didst shatter the bars of Hades, and by Thy Resurrection Thou didst enrich all things: O compassionate One, glory to Thee!
 
 *Verse: Arise, O Lord my God, let Thy hand be lifted up; forget not Thy poor unto the end.*
 
@@ -782,9 +734,7 @@ Unto Him Who from the wood of the Cross made life to blossom forth for our race,
 
 By Thy death, O Christ, [Thou didst destroy the dominion] of death, and didst raise up together with Thyself those who had [died] from the ages, [as they sing unto Thee as] the true God and our Savior!
 
-[Sunday / Saturday.]
-
-*Troparion:*
+[f. 72A] *Troparion:*
 
 Having arrived at Thy tomb, O Christ, the honorable women sought to anoint Thee, the Life-giver, with myrrh; and an Angel appeared unto them, crying: Truly the Lord is risen!
 
@@ -804,12 +754,11 @@ We bow down before Thee, O Trinity Unity, unoriginate and equally honorable; and
 
 Rejoice, O living temple of God, and impassable gate! Rejoice, O unburnt and fiery throne! Rejoice, O Mother of Emmanuel, Christ our God!
 
-(fol. 89)[^107]
-
 ---
 
 ### Notes
 
+[^90]: Folio 72 begins on the facing leaf, marked by an illuminated decorative headpiece opening Tone 5, containing the Stichera of Great Vespers on Saturday evening on "Lord, I have cried".
 [^91]: Folio 73 begins on the facing leaf, containing the continuation of the Saturday Great Vespers Stichera (Anatolian / Eastern), the Dogmatikon Theotokion ("In the Red Sea"), and the Aposticha Stichera in Tone 5.
 [^92]: Folio 74 begins on the facing leaf, containing the continuation of the Aposticha Stichera, the Aposticha Theotokion, the Dismissal Troparion of Tone 5 ("The Word, co-unoriginate"), and the Dismissal Theotokion ("Rejoice, impassable gate").
 [^93]: Folio 75 begins on the facing leaf, containing Ode 1, Ode 3, and the Sessional Hymn of the Tone 5 Sunday Midnight Office Canon to the Most Holy Trinity by Mitrophanes.
@@ -826,4 +775,3 @@ Rejoice, O living temple of God, and impassable gate! Rejoice, O unburnt and fie
 [^104]: Folio 86 begins on the facing leaf, containing the conclusion of Ode 8 and Ode 9 of the Sunday Matins Canons in Tone 5.
 [^105]: Folio 87 begins on the facing leaf, containing the continuation of the Sunday Resurrection and Anatolian Stichera at the Praises in Tone 5.
 [^106]: Folio 88 begins on the facing leaf, containing the conclusion of Sunday Praises in Tone 5 and the opening Beatitudes at the Divine Liturgy; the bottom outer corner of the folio bears a paper repair patch with lacunae restored in brackets from the standard Octoechos text.
-[^107]: Folio 89 begins on the facing leaf with an illuminated headpiece bearing the holy name 'ІХС' in an ornate floral cartouche, marking the canonical beginning of Tone 6 (Great Vespers on Saturday evening).

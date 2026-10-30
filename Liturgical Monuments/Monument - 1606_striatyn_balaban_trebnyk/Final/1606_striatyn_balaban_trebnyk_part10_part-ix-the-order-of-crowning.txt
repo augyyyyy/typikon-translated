@@ -14,98 +14,98 @@ And thou shalt see thy children's children: peace be upon Israel.
 
 *And immediately upon the conclusion of the psalm, the deacon says the litany:*
 
-**Deacon:**
+> **Deacon:** ""
 In peace let us pray unto the Lord.
 
-**Choir:**
+> **Choir:** ""
 Lord, have mercy.
 
-**Deacon:**
+> **Deacon:** ""
 For the peace from above, and for the salvation of our souls, let us pray unto the Lord.
 
-**Choir:**
+> **Choir:** ""
 Lord, have mercy.
 
-**Deacon:**
+> **Deacon:** ""
 For the peace of the whole world, and the good estate of the holy churches of God, and the union of all, let us pray unto the Lord.
 
-**Choir:**
+> **Choir:** ""
 Lord, have mercy.
 
-**Deacon:**
+> **Deacon:** ""
 For this holy temple, and for those who with faith, reverence, and the fear of God enter therein, let us pray unto the Lord.
 
-**Choir:**
+> **Choir:** ""
 Lord, have mercy.
 
-**Deacon:**
+> **Deacon:** ""
 For our archbishop, *[Name]*, for the venerable priesthood...[^196]
 
-**Deacon:**
+> **Deacon:** ""
 ...for the servants of God, *[Name]* and *[Name]*, who are now joined one unto another in the communion of marriage, and for their salvation, let us pray unto the Lord.[^197]
 
-**Choir:**
+> **Choir:** ""
 Lord, have mercy.
 
-**Deacon:**
+> **Deacon:** ""
 That this marriage may be blessed, even as that in Cana of Galilee, let us pray unto the Lord.
 
-**Choir:**
+> **Choir:** ""
 Lord, have mercy.
 
-**Deacon:**
+> **Deacon:** ""
 That there may be granted unto them chastity, and the fruit of the womb for their benefit, let us pray unto the Lord.
 
-**Choir:**
+> **Choir:** ""
 Lord, have mercy.
 
-**Deacon:**
+> **Deacon:** ""
 That they may rejoice in the sight of their sons and their daughters, let us pray unto the Lord.
 
-**Choir:**
+> **Choir:** ""
 Lord, have mercy.
 
-**Deacon:**
+> **Deacon:** ""
 That there may be granted unto them the reception of fair offspring, and blameless conduct of life, let us pray unto the Lord.
 
-**Choir:**
+> **Choir:** ""
 Lord, have mercy.
 
-**Deacon:**
+> **Deacon:** ""
 That there may be granted unto them and unto us all petitions that are unto salvation, let us pray unto the Lord.
 
-**Choir:**
+> **Choir:** ""
 Lord, have mercy.
 
-**Deacon:**
+> **Deacon:** ""
 For our deliverance from all tribulation, wrath, danger, and necessity, let us pray unto the Lord.
 
-**Deacon:**
+> **Deacon:** ""
 Help us, save us, have mercy on us, and keep us, O God, by Thy grace.
 
-**Choir:**
+> **Choir:** ""
 Lord, have mercy.
 
-**Deacon:**
+> **Deacon:** ""
 Calling to remembrance our all-holy, immaculate, most blessed, and glorious Lady, the Theotokos and Ever-Virgin Mary, with all the saints, let us commend ourselves and one another, and our whole life unto Christ our God.
 
-**Choir:**
+> **Choir:** ""
 To Thee, O Lord.
 
-**Priest:**
+> **Priest:** ""
 *Exclamation:*
 For unto Thee is due all glory, honor, and worship, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages.
 
-**Choir:**
+> **Choir:** ""
 Amen.
 
-**Deacon:**
+> **Deacon:** ""
 Let us pray unto the Lord.
 
-**Choir:**
+> **Choir:** ""
 Lord, have mercy.
 
-**Priest:**
+> **Priest:** ""
 [Fol. 60r. Initial B.]
 O God most pure, and Creator of all creation, Who through Thy love for mankind didst transform the rib of our forefather Adam into a woman, and didst bless them and say: 'Increase and multiply, and have dominion over the earth';[^198] and didst show them both to be one member by reason of marriage; for because of this shall a man leave his father and mother, and shall cleave unto his wife, and the two shall be into one flesh; and whom God hath joined together, let not man put asunder.[^199] Who didst bless Thy servant Abraham, and didst open the womb of Sarah, and didst make him the father of many nations; Who didst bestow Isaac upon Rebecca, and didst bless her childbearing; Who didst join Jacob unto Rachel, and from him didst show forth the twelve patriarchs; Who didst yoke Joseph and Aseneth, bestowing upon them the fruit of childbearing, Ephraim and Manasseh; Who didst receive Zechariah and Elizabeth, and didst show forth unto them the birth of the Forerunner; Who from the root of Jesse according to the flesh didst cause to blossom the Ever-Virgin, and from Her wast incarnate and born for the salvation of the human race; Who through Thine unutterable gift and manifold goodness didst come unto Cana of Galilee, and didst bless the marriage that was there,[^200] that Thou mightest manifest that lawful wedlock and childbearing which is therefrom is Thy will: do Thou Thyself, O all-holy Master, accept our supplication, the supplication of Thy servants; even as there, so also here, having come through Thine invisible presence, bless this marriage; and grant unto these Thy servants a peaceful life, length of days, chastity, love one for another in the bond of peace, long-lived seed, the grace that is in children, an unfading crown of glory. Vouchsafe them to see children's children; keep their bed unassailed by snares; and give unto them of the dew of heaven from on high, and of the fatness of the earth.[^201] Fill their houses with wheat, wine, and oil, and every good thing, that they may impart also unto those in need; granting likewise unto those that are with them all petitions that are unto salvation.
 
@@ -113,13 +113,13 @@ O God most pure, and Creator of all creation, Who through Thy love for mankind d
 
 For Thou art a God of mercy, of compassions, and of love for mankind, and unto Thee do we send up glory, together with Thine unoriginate Father, and with Thine all-holy, good, and life-creating Spirit, now and ever, and unto ages of ages.
 
-**Choir:**
+> **Choir:** ""
 Amen.
 
-**Deacon:**
+> **Deacon:** ""
 Let us pray unto the Lord.
 
-**Priest:**
+> **Priest:** ""
 *This prayer:*
 
 [Fol. 62r. Initial B.]
@@ -131,13 +131,13 @@ Do Thou Thyself now, O Master, Lord our God, send down Thy heavenly grace upon t
 
 With Whom is due glory, dominion, honor, and worship, unto Thine unoriginate Father, and unto Thy life-creating Spirit, now and ever, and unto ages of ages.
 
-**Choir:**
+> **Choir:** ""
 Amen.
 
-**Deacon:**
+> **Deacon:** ""
 Let us pray unto the Lord.
 
-**Priest:**
+> **Priest:** ""
 *The priest again says this prayer with a loud voice:*[^209]
 
 [Fol. 64v. Initial B.]
@@ -147,7 +147,7 @@ O Holy God, Who didst fashion man from the dust, and from his rib didst fashion 
 
 For Thine is the dominion, and Thine is the kingdom, and the power, and the glory, of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages.
 
-**Choir:**
+> **Choir:** ""
 Amen.
 
 *And after this, the priest, taking the crowns, crowns the bridegroom, saying:*[^210]
@@ -182,7 +182,7 @@ At that time, there was a marriage in Cana of Galilee, and the mother of Jesus w
 
 There were set there six waterpots of stone,[^222] after the manner of the purifying of the Jews, containing two or three firkins apiece. Jesus said unto them: 'Fill the waterpots with water.' And they filled them up to the brim. And He said unto them: 'Draw out now, and bear unto the governor of the feast.' And they bore it. When the ruler of the feast tasted the water that was made wine, and knew not whence it was (but the servants who drew the water knew), the governor of the feast called the bridegroom, and said unto him: 'Every man at first sets forth good wine, and when men have drunk well, then that which is worse; but thou hast kept the good wine until now.' This beginning of signs did Jesus in Cana of Galilee, and manifested His glory; and His disciples believed on Him.[^223]
 
-**Deacon:**
+> **Deacon:** ""
 *Let us all say:*
 From all our soul and from all our mind, let us say.[^224]
 O Lord Almighty, God of our fathers:
@@ -190,21 +190,21 @@ Have mercy on us, O God, according to Thy great mercy:
 
 *Again we pray for the servants of God [Names], saying: And he commemorates whomsoever he wishes.*[^225]
 
-**Priest:**
+> **Priest:** ""
 *Exclamation:*
 For a merciful God art Thou, and the Lover of mankind, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages.
 
 *Then the Deacon:*
-**Deacon:**
+> **Deacon:** ""
 Let us pray to the Lord.
 
 *The Priest says the prayer:*
 
 [Fol. 68r. Initial G.]
-**Priest:**
+> **Priest:** ""
 O Lord our God, Who in Thy saving dispensation didst vouchsafe in Cana of Galilee to show marriage to be honorable by Thy coming: Do Thou Thyself now also keep in peace and oneness of mind Thy servants whom Thou hast been well-pleased should be joined one to another. Show their marriage to be honorable; preserve their bed undefiled; be pleased that their common life continue unblemished; and vouchsafe them to reach a ripe old age, with a pure heart fulfilling Thy commandments.[^226] For Thou art our God, the God of mercy and salvation, and unto Thee do we send up glory, with Thine unoriginate Father, and Thine all-holy, and good, and life-creating Spirit, now and ever, and unto ages of ages. Amen.
 
-**Deacon:**
+> **Deacon:** ""
 Help us, save us, have mercy on us...[^227]
 That the whole day may be perfect, holy, peaceful...
 An angel of peace, a faithful guide...
@@ -214,27 +214,27 @@ The remaining years of our life in...
 A Christian end to our life...
 The unity of the faith, and the communion of the Holy Spirit...
 
-**Priest:**
+> **Priest:** ""
 *Exclamation:*
 And vouchsafe us, O Master, with boldness, without condemnation, to dare to call upon Thee, the heavenly God and Father, and to say:[^228]
 
 *Our Father...*[^229]
 
-**Priest:**
+> **Priest:** ""
 *Exclamation:*
 
 For Thine is the kingdom, and the power, and the glory, of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages.
 
-**Priest:**
+> **Priest:** ""
 *Peace be unto all.*
 
-**Deacon:**
+> **Deacon:** ""
 Bow your heads unto the Lord.
 
 *Then the common cup is brought. And the priest blesses it, saying this prayer:*[^230]
 
 [Fol. 69r. Initial B.]
-**Priest:**
+> **Priest:** ""
 O God, Who hast made all things by Thy might, and hast established the universe, and adorned the crown of all things created by Thee: Do Thou Thyself, Who givest this common cup unto those joined in the communion of marriage, bless it with a spiritual blessing.[^231]
 
 *Exclamation:*
@@ -258,28 +258,28 @@ Be thou magnified, O bridegroom, as Abraham, and be thou blessed as Isaac, and b
 And thou, O bride, be magnified as Sarah, and rejoice as Rebecca, and be thou multiplied as Rachel: rejoicing with thine own husband, keeping the ordinances of the law, for so has God been well-pleased.[^238]
 
 *Then the Deacon says:*
-**Deacon:**
+> **Deacon:** ""
 Let us pray to the Lord.
 
 *The Priest says the prayer:*
-**Priest:**
+> **Priest:** ""
 O Lord our God, Who didst come to Cana of Galilee, and didst bless the marriage that was there: Bless also these Thy servants, who by Thy providence have been joined in the communion of marriage. Bless their comings-in and their goings-out; multiply their life in good things; receive their crowns into Thy kingdom, keeping them undefiled, and blameless, and without reproach, unto ages of ages. Amen.[^239]
 
-**Priest:**
+> **Priest:** ""
 *Peace be unto all.*
 
-**Deacon:**
+> **Deacon:** ""
 Bow your heads unto the Lord.
 
 *The Priest says the prayer:*
 [Fol. 70v. Initial O.]
-**Priest:**
+> **Priest:** ""
 The Father, and the Son, and the Holy Spirit: the all-holy, and consubstantial, and life- creating Trinity, one Godhead and Kingdom: bless you; and grant you long life, fair offspring, advancement in life and faith; and fill you with all earthly goods; and make you worthy also of the enjoyment of the promised good things: through the prayers of the Holy Mother of God, and of all the saints. Amen.[^240]
 
 *After this they depart, and congratulate them; and they kiss one another. And by the priest the complete dismissal is made:*[^241]
 
 [Fol. 71r. Initial I.]
-**Priest:**
+> **Priest:** ""
 He that by His coming in Cana of Galilee showed marriage to be honorable, Christ our true God, through the prayers of His most pure Mother; of the holy, glorious, and all-praised Apostles; of the holy God-crowned Kings and Equals-to-the-Apostles, Constantine and Helen; of the holy Great-Martyr Procopius; and of all the saints: have mercy on us and save us, for He is good and the Lover of mankind.[^242]
 
 [Fol. 71v. Headpiece: Woodcut vignette ornament with interlaced foliate strapwork ribbon.]

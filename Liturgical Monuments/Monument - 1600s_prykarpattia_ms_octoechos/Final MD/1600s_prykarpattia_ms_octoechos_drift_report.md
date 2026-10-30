@@ -1,10 +1,10 @@
 # Scholarly Drift & Seam-Stitching Audit Report: 17th-Century Carpathian-Galician Manuscript Octoechos
 
 - **Monument ID**: `1600s_prykarpattia_ms_octoechos`
-- **Total 2-Up Mid-Sentence Seams Stitched**: 0 boundaries (`0` sub-clause seam overlaps deduplicated)
+- **Total 2-Up Mid-Sentence Seams Stitched**: 157 boundaries (`30` sub-clause seam overlaps deduplicated)
 - **Inline Locus Milestones Inserted**: `[f. XvA]`, `[f. XrA]` across all 222 leaves
-- **Total Primitive Normalization & Drift Events**: 110 (`19` Podobens/Pokoin, `39` Psalm Stichoi, `52` Weekday Heirmoi, `0` Seam Deduplications)
-- **True Pre-Normalization AI Translation Drift Unified**: 81 occurrences
+- **Total Primitive Normalization & Drift Events**: 140 (`19` Podobens/Pokoin, `39` Psalm Stichoi, `52` Weekday Heirmoi, `30` Seam Deduplications)
+- **True Pre-Normalization AI Translation Drift Unified**: 111 occurrences
 - **Source-Text (1630 Slavonic) Scribal Truncations & Tier 3 Variations Classified**: 13 events
 
 ---

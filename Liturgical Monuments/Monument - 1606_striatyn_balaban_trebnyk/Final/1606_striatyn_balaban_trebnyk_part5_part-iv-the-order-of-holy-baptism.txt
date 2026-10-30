@@ -3,14 +3,14 @@
 *The priest enters into the church, and having vested in white priestly vesture and cuffs, all the candles being lighted, he takes the censer and goes unto the font, and censes round about. And having given back the censer, he bows.*[^102]
 
 *Then the deacon says:*
-**Deacon:** Bless, Master.
+> **Deacon:** "Bless, Master."
 
 *And the priest [says] with a loud voice:*
 
-**Priest:** Blessed is the kingdom of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages. [Choir: Amen.]
+> **Priest:** "Blessed is the kingdom of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages. [Choir: Amen.]"
 
 *The Great Litany:*[^103]
-**Deacon:**
+> **Deacon:** ""
 In peace let us pray to the Lord.
 For the peace from above, and for the salvation of our souls, [let us pray to the Lord].
 For the peace of the whole world, and the good standing [of the holy churches of God, let us pray to the Lord].
@@ -34,7 +34,7 @@ That he and we may be delivered from all affliction, wrath, and necessity, let u
 
 *And while the deacon is saying this litany, the priest reads this prayer within himself secretly:*[^108]
 
-**Priest:**
+> **Priest:** ""
 [Fol. 25v. Decorative initial B.]
 O compassionate and merciful God, Who triest the hearts and reins, and Who alone knowest the secrets of men; for there is no thing that is unmanifest before Thee, but all things are naked and exposed before Thine eyes: knowing what concerns me, loathe me not, neither turn away Thy face from me; but take away my transgressions at this hour, Thou that overlookest the sins of men unto repentance. Wash away my bodily uncleanness and my spiritual defilement, and sanctify me wholly by Thine invisible power, and by Thy spiritual right hand: that while promising freedom unto others, through perfect faith in Thine ineffable love for mankind, I myself may not become reprobate as a slave of sin. Yea, O Master, Who alone art good and the Lover of mankind, let me not return humbled and put to shame; but send me power from on high, and strengthen me for the ministry of this Thy present Mystery, great and heavenly; and form the image of Thy Christ in him who is about to be reborn through my unworthiness.[^109] And build him upon the foundation of Thine Apostles and Prophets, and destroy him not; but plant him as a true planting in Thy holy, catholic, and apostolic Church; and pluck him not up: that as he advances in piety, through him also may be glorified Thine all-holy Name, of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages.
 
@@ -42,7 +42,7 @@ O compassionate and merciful God, Who triest the hearts and reins, and Who alone
 
 *Then he reads this prayer with a loud voice:*[^111]
 
-**Priest:**
+> **Priest:** ""
 Great art Thou, O Lord, and marvelous are Thy works, and no word is sufficient to sing the praise of Thy wonders.
 *(And say this thrice.)*
 
@@ -55,7 +55,7 @@ And grant unto it the grace of redemption, the blessing of Jordan. And make it a
 
 *And he breathes upon the water thrice, and signs it with the sign of the Cross with his hand, and says:*
 
-**Priest:**
+> **Priest:** ""
 Let all adversary powers be crushed beneath the sign of the representation of Thy Cross. *(Thrice.)*
 
 And let all airy and invisible phantoms depart from us; and let no dark demon hide himself in this water; neither let there descend with him that is baptized (we beseech Thee, O Lord) an evil spirit, bringing darkness of thoughts and tumult of mind. But do Thou, O Master of all, manifest this water as water of repose, water of redemption, water of sanctification, cleansing of the defilement of flesh and spirit, loosing of bonds, remission of sins, illumination of souls, the laver of regeneration, renewal of the Spirit, the gift of adoption, the garment of incorruptibility, the renewal of the soul, a fountain of life.[^116] For Thou hast said, O Lord: "Wash you, make you clean, put away evil from your souls." Thou hast bestowed upon us regeneration from on high through water and the Spirit. Manifest Thyself, O Lord, in this water, and grant that he who is baptized therein may be transformed, so that he may put off the old man, corrupt according to the deceits of lust, and put on the new man, renewed according to the image of Him that created him; that having been united unto the likeness of Thy death through baptism, a partaker of the resurrection also shall he be, and having preserved the gift of Thy Holy Spirit,[^117] and increased the deposit of grace, he may receive the prize of the high calling, and be numbered among the firstborn enrolled in heaven.
@@ -63,73 +63,73 @@ And let all airy and invisible phantoms depart from us; and let no dark demon hi
 *Ekphonesis:*
 For unto Thee is due all glory, thanksgiving, honor, and worship, to God and our Lord Jesus Christ, together with Thine unoriginate Father, and with Thine all-holy, good, and life-creating Spirit, now and ever, and unto ages of ages.
 
-**Priest:**
+> **Priest:** ""
 Peace be unto all.[^118]
 
 *Bow your heads unto the Lord.*
 
 *And having bowed his head over the vessel of oil, he breathes upon it thrice, and blesses with his hand, thrice. And the deacon, holding the oil in his hand, says:*
 
-**Deacon:**
+> **Deacon:** ""
 Let us pray to the Lord.
 
 *And the priest says this prayer:*
 
-**Priest:**
+> **Priest:** ""
 O Master, Lord God of our fathers, Who to them that were in the ark of Noah didst send a dove bearing a twig of olive in its mouth,[^119] the sign of reconciliation and of salvation from the flood, and didst prefigure through these the mystery of grace; and didst provide the fruit of the olive for the fulfillment of Thy holy mysteries; and thereby didst fill them that were under the Law with the Holy Spirit, and perfectest them that are under grace: Do Thou Thyself bless this oil also by the power, and operation, and descent of Thy Holy Spirit, that it may be an anointing of incorruption, an armor of righteousness, a renewal of soul and body, a fountain of life, an averting of every operation of the devil, for the removal of all evils, unto them that are anointed with faith, or that partake of it:[^120]
 
 *And having stood erect, he exclaims aloud:*
 
-**Priest:**
+> **Priest:** ""
 Unto Thy glory, and of Thine Only-begotten Son, and of Thine all-holy, and good, and life-creating Spirit, now and ever, and unto ages of ages.
 
-**Choir:**
+> **Choir:** ""
 Amen.
 
-**Deacon:**
+> **Deacon:** ""
 Let us attend.
 
 *And the priest, having taken the oil, makes crosses with drops upon the water thrice, singing Alleluia with the people, thrice. Then he exclaims aloud:*
 
-**Priest:**
+> **Priest:** ""
 Blessed is God, Who enlightens and sanctifies every man that comes into the world, now and ever, and unto ages of ages.[^121]
 
-**Choir:**
+> **Choir:** ""
 Amen.
 
 *And he that is to be baptized is brought unto the priest. And he, having taken of the holy oil with his finger, makes the sign of the Cross upon the infant, on the forehead, and on the breast, and on the face, and on the shoulders, saying:*
 
-**Priest:**
+> **Priest:** ""
 The servant of God, [Name], is anointed with the oil of gladness, in the Name of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages.
 
-**Choir:**
+> **Choir:** ""
 Amen.
 
 *And he signs his breast and shoulders. On the breast indeed, saying:*
 
-**Priest:**
+> **Priest:** ""
 Unto the healing of soul and body.
 
 *And on the ears:*[^122]
 
-**Priest:**
+> **Priest:** ""
 Unto the hearing of faith.
 
 *On the feet:*
 
-**Priest:**
+> **Priest:** ""
 That he may walk in Thy steps.
 
 *On the hands:*
 
-**Priest:**
+> **Priest:** ""
 Thy hands have made me and fashioned me.
 
 *When his whole body has been anointed,*
 
 *The priest baptizes him, holding him upright, and facing eastward, saying:*[^123]
 
-**Priest:**
+> **Priest:** ""
 The servant of God, [Name], is baptized in the Name of the Father,
 
 *and he immerses him once, saying:*
@@ -155,7 +155,7 @@ surely in a flood of many waters they shall not come nigh unto Him. Thou art my 
 
 *Thereafter he clothes him in a garment, saying:*
 
-**Priest:**
+> **Priest:** ""
 The servant of God, *[Name]*, is clothed with the robe of righteousness, in the Name of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages. Amen.
 
 *And he sings this troparion, in Tone 8:*[^127]
@@ -165,32 +165,32 @@ Grant unto me a robe of light, O Thou that deckest Thyself with light as with a 
 
 *And after he has been clothed, the priest prays again, saying this prayer:*
 
-**Deacon:** Let us pray to the Lord.
+> **Deacon:** "Let us pray to the Lord."
 
-**Priest:**
+> **Priest:** ""
 Blessed art Thou, O Lord God Almighty, Fountain of good things, Sun of Righteousness, Who hast caused the light of salvation to shine forth unto them that were in darkness, through the manifestation of Thine Only-begotten Son and our God; and Who hast granted unto us unworthy ones blessed cleansing in holy water, and divine sanctification in the life-creating anointing; Who even now hast been well pleased to regenerate Thy servant newly-illumined, *[Name]*, by water and the Spirit, and granted unto him remission of sins voluntary and involuntary.[^129] Do Thou Thyself, O Master of all, compassionate King, grant unto him also the seal of the gift of Thy Holy, all-powerful, and adorable Spirit, and communion of the holy Body and precious Blood of Thy Christ. Preserve him in Thy sanctification; confirm him in the Orthodox faith; deliver him from the evil one and all his snares; and by Thy saving fear keep his soul in purity and righteousness: that pleasing Thee in every deed and word, he may become a son and heir of Thy Heavenly Kingdom.
 
 *Ekphonesis:*
 
-**Priest:**
+> **Priest:** ""
 For Thou art our God, a God to show mercy and to save us, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages.[^130]
 
-**Choir:**
+> **Choir:** ""
 Amen.
 
 *Then he anoints the baptized with the holy Chrism, making the sign of the Cross: on the forehead, on the eyes, on the breast, on the hands, and on the feet, saying:*[^131]
 
-**Priest:**
+> **Priest:** ""
 The seal of the gift of the Holy Spirit. Amen.
 
 *Then the priest with the sponsor and the newly-baptized walk round about the analogion, singing thrice:*[^132]
 
-**Choir:**
+> **Choir:** ""
 As many of you as have been baptized into Christ have put on Christ. Alleluia. *(Thrice.)*
 
 *Then the Prokeimenon, Tone 3:*
 
-**Reader:**
+> **Reader:** ""
 The Lord is my illumination and my Savior; whom shall I fear?[^133]
 
 *Verse:*
@@ -198,27 +198,27 @@ The Lord is the defender of my life; of whom shall I be afraid?
 
 *Epistle to the Romans:*[^134]
 
-**Reader:**
+> **Reader:** ""
 Brethren, as many of us as were baptized into Christ were baptized into His death. Therefore we were buried with Him through baptism into death; that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life. For if we have become united with Him in the likeness of His death, so also shall we be partakers of His resurrection: knowing this, that our old man was crucified with Him, that the body of sin might be done away, that henceforth we should not serve sin. For he that is dead is justified from sin. Now if we died with Christ, we believe that we shall also live with Him: knowing that Christ, having been raised from the dead, dies no more; death has dominion over Him no more. For in that He died, He died unto sin once; but in that He lives, He lives unto God. Likewise reckon ye also yourselves to be dead indeed unto sin, but alive unto God in Christ Jesus our Lord.[^135]
 
-**Choir:**
+> **Choir:** ""
 Alleluia.
 
-**Deacon:**
+> **Deacon:** ""
 Wisdom. Stand upright. Let us hear the Holy Gospel.
 
-**Priest:**
+> **Priest:** ""
 The reading from the Holy Gospel according to Matthew.
 
-**Deacon:**
+> **Deacon:** ""
 Let us attend.
 
-**Priest:**
+> **Priest:** ""
 At that time, the eleven disciples went into Galilee, into a mountain where Jesus had appointed them. And when they saw Him, they worshipped Him; but some doubted. And Jesus came and spake unto them, saying: All power is given unto Me in heaven and in earth. Go ye therefore, and teach all nations, baptizing them in the Name of the Father, and of the Son, and of the Holy Spirit: teaching them to observe all things whatsoever I have commanded you. And lo, I am with you always, even unto the end of the age. Amen.[^136]
 
 *Then the deacon says the litany:*[^137]
 
-**Deacon:**
+> **Deacon:** ""
 Have mercy on us, O God, according to Thy great mercy...
 
 Again we pray for our pious sovereign.
@@ -231,14 +231,14 @@ Again we pray for the newly-illumined servant of God, *[Name]*, that he may be p
 
 *Ekphonesis:*
 
-**Priest:**
+> **Priest:** ""
 For Thou art a merciful God and the Lover of mankind, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages.
 
 *Then: Glory... both now... Lord, have mercy (thrice). Bless.*
 
 *Priest: The Dismissal:*
 
-**Priest:**
+> **Priest:** ""
 May He Who deigned to be baptized in the Jordan by John for the sake of our salvation, Christ our true God, through the prayers of His most pure Mother, by the power of the precious and life-creating Cross, and of all the saints, have mercy on us and save us[^138] for He is good and the Lover of mankind.[^139]
 
 *It is fitting to know that if there be a Liturgy, they carry the newly-illumined infant with candles at the Great Transfer [Entrance].[^140] But if the one who has been baptized be an adult, let him go himself before the divine Gifts at the Great Entrance, holding a candle in each hand. And he partakes of the Holy Mysteries of Christ our God, whether he be an infant or an adult.*

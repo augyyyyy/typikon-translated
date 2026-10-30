@@ -1,0 +1,50 @@
+{
+  "monument_id": "1642_lviv_slozka_pentecostarion",
+  "title": "Lviv Flowery Triodion (Pentecostarion) (Mykhailo Slozka, Lviv, 1642)",
+  "monument_type": "pentecostarion",
+  "genre_register": "hymnographic",
+  "retrospective_timestamp": "2026-10-30T21:19:11.962175+00:00",
+  "codicological_profile": {
+    "total_physical_leaves": 441,
+    "cohort_count": 45,
+    "default_cohort_size": 10,
+    "monument_type": "pentecostarion"
+  },
+  "subagent_execution_telemetry": {
+    "total_cohorts_dispatched": 45,
+    "worker_model": "flash",
+    "cohorts_passing_gate_100pct": 45,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 0.974,
+      "median_cohort_ratio": 1.21,
+      "max_cohort_median": 1.536
+    }
+  },
+  "argon_review_queue_telemetry": {
+    "total_items_recorded": 54,
+    "resolved_by_argon": 54,
+    "info_telemetry_only": 0,
+    "unresolved_quarantines": 0,
+    "codicological_crux_count": 0
+  },
+  "final_publication_verification": {
+    "parts_count": 6,
+    "parts": [
+      "1642_lviv_slozka_pentecostarion_part0_front_matter.md",
+      "1642_lviv_slozka_pentecostarion_part1_lazarus_palm_passion.md",
+      "1642_lviv_slozka_pentecostarion_part2_pascha_bright_week.md",
+      "1642_lviv_slozka_pentecostarion_part3_paschaltide_sundays.md",
+      "1642_lviv_slozka_pentecostarion_part4_ascension_holy_fathers.md",
+      "1642_lviv_slozka_pentecostarion_part5_pentecost_all_saints.md"
+    ],
+    "total_footnotes_verified": 1066,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 0.974,
+      "median_cohort_ratio": 1.21,
+      "max_cohort_median": 1.536
+    },
+    "all_6_publication_gates_passed": true
+  },
+  "edge_cases_and_anomalies": [],
+  "engine_hardening_proposals": []
+}

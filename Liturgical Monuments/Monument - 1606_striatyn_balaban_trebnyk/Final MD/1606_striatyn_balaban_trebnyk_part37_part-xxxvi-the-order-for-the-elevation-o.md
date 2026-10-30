@@ -4,17 +4,17 @@
 
 *While the brethren sing the Doxology, the Priest vests himself in full priestly vestments.*[^2943] *And he comes unto the Holy Table with the censer, a taper-bearer going before him, and he censes there. And he takes the Precious Cross with the diskos upon his head, two taper-bearers preceding him.*[^2944] *And he carries it as far as the royal doors, that is, the great church doors; and there he awaits the completion (Rubric continued)* ...of the Doxology. And when they begin to sing: "Holy God," the Priest comes unto the midst of the church, near unto the royal doors; for there a four-legged analogion has been prepared, covered with an honorable cloth. And he says:[^2945]
 
-**Priest:** **"Wisdom! Upright!"**[^2946]
+> **Priest:** **"Wisdom! Upright!"**[^2946]
 
 *And as we sing the Troparion:*[^2947]
 
-**Choir:** **"Save, O Lord, Thy people, and bless Thine inheritance, granting victories unto the Orthodox Christians over adversaries, and by Thy Cross preserving Thy commonwealth."**
+> **Choir:** **"Save, O Lord, Thy people, and bless Thine inheritance, granting victories unto the Orthodox Christians over adversaries, and by Thy Cross preserving Thy commonwealth."**
 
 *And the Priest places the diskos with the Precious Cross upon the analogion. And having censed the Cross cruciformly, he makes three bows, even if it be Saturday or Sunday.*[^2948]
 
 *And taking the Precious Cross in his hands with fragrant basil, he stands before the analogion, facing eastward, and says in the hearing of all:*[^2949]
 
-**Priest:** **"Have mercy on us, O God, according to Thy great mercy[^2950] according to Thy great mercy, we pray Thee, hear and have mercy."**[^2951]
+> **Priest:** **"Have mercy on us, O God, according to Thy great mercy[^2950] according to Thy great mercy, we pray Thee, hear and have mercy."**[^2951]
 
 *And he begins the first hundred: "Lord, have mercy." And the Priest signs with the Cross thrice.*
 
@@ -24,33 +24,33 @@
 
 *And the Priest turns unto the south side, and signs with the Cross thrice, and says:*[^2953]
 
-**Priest:** **"Again we pray for our pious and God-preserved Tsar [Name], for his dominion, victory, endurance, peace health, and salvation, and remission of sins; and that the Lord our God will especially prosper and guide him in all things, and subdue under his feet every enemy and adversary, let us all say."**
+> **Priest:** **"Again we pray for our pious and God-preserved Tsar [Name], for his dominion, victory, endurance, peace health, and salvation, and remission of sins; and that the Lord our God will especially prosper and guide him in all things, and subdue under his feet every enemy and adversary, let us all say."**
 
 *And we begin the second hundred: "Lord, have mercy." And the Priest performs the second elevation, as previously indicated; and again he turns unto the west, and says:*[^2954]
 
-**Priest:** **"Again we pray for our Archbishop [Name], and for the remission of sins for our spiritual fathers, and for all our brotherhood in Christ, let us all say."**
+> **Priest:** **"Again we pray for our Archbishop [Name], and for the remission of sins for our spiritual fathers, and for all our brotherhood in Christ, let us all say."**
 
 *And we begin the third hundred. And when that hundred also is completed, the Priest turns unto the north side, and says:*[^2955]
 
-**Priest:** **"Again we pray for every Christian soul that is afflicted and mistreated, requiring God's mercy and help; for their health, and salvation, and the remission of their sins, let us all say."**
+> **Priest:** **"Again we pray for every Christian soul that is afflicted and mistreated, requiring God's mercy and help; for their health, and salvation, and the remission of their sins, let us all say."**
 
 *And the fourth elevation takes place according to the former manner, while we say the fourth hundred: "Lord, have mercy."*[^2956]
 
 *Thereafter the Priest turns again unto the east, saying:*
 
-**Priest:** **"Again we pray for all who minister and have ministered in this holy monastery, for their health, and salvation, and the remission of their sins, let us all say."**
+> **Priest:** **"Again we pray for all who minister and have ministered in this holy monastery, for their health, and salvation, and the remission of their sins, let us all say."**
 
 *And we begin the fifth hundred, while the Priest performs the fifth elevation. At each elevation the Priest signs with the Cross toward the people thrice, cruciformly. And upon the completion of the elevation"*[^2957] *(Completion of the elevation continued)* ...we sing the Kontakion, Tone 4:
 
-**Choir:** **"Thou Who wast lifted up upon the Cross of Thine own will, bestow Thy compassions upon the new commonwealth called by Thy name, O Christ God; gladden Orthodox Christians by Thy power, granting them victory over adversaries, having Thine alliance as a weapon of peace, an unconquerable trophy."**[^2958]
+> **Choir:** **"Thou Who wast lifted up upon the Cross of Thine own will, bestow Thy compassions upon the new commonwealth called by Thy name, O Christ God; gladden Orthodox Christians by Thy power, granting them victory over adversaries, having Thine alliance as a weapon of peace, an unconquerable trophy."**[^2958]
 
 *While the brethren sing the Kontakion, the Priest places the Precious Cross with the diskos upon the analogion. And he bows together with the superior twice, and kisses the Precious Cross. And after the kissing, one prostration; then toward both choirs. And so in order all the brethren, two by two according to their rank,*[^2959] *singing:*
 
-**Choir:** **"Before Thy Cross we bow down, O Master, and Thy holy Resurrection we glorify."**
+> **Choir:** **"Before Thy Cross we bow down, O Master, and Thy holy Resurrection we glorify."**
 
 *And upon the completion, we sing the Stichera, Tone 2:* **"Come, ye faithful..."** *which look behind (see fol. 377)[^2960]. And after the veneration and kissing of the Cross, the Litany, and the rest in order. Then the Dismissal.*
 
-[Fol. 488r. Woodcut headpiece at the head of the division: A pelican in its piety feeding its young with its blood within an oval wreath, flanked by Renaissance strapwork, scrolling acanthus, and grotesque figures, inscribed: (*"СПЛА ЖИВОТ"*)][^2961]
+(*Fol. 488r. Woodcut headpiece at the head of the division: A pelican in its piety feeding its young with its blood within an oval wreath, flanked by Renaissance strapwork, scrolling acanthus, and grotesque figures, inscribed: (*"СПЛА ЖИВОТ"*)*)[^2961]
 
 ---
 

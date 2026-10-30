@@ -1,0 +1,55 @@
+{
+  "monument_id": "1895_lviv_octoechos",
+  "title": "Lviv Stauropegion Complete Octoechos (Lviv, 1895)",
+  "monument_type": "octoechos",
+  "genre_register": "hymnographic",
+  "retrospective_timestamp": "2026-10-30T21:19:13.956491+00:00",
+  "codicological_profile": {
+    "total_physical_leaves": 1029,
+    "cohort_count": 103,
+    "default_cohort_size": 10,
+    "monument_type": "octoechos"
+  },
+  "subagent_execution_telemetry": {
+    "total_cohorts_dispatched": 103,
+    "worker_model": "flash",
+    "cohorts_passing_gate_100pct": 103,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.114,
+      "median_cohort_ratio": 1.202,
+      "max_cohort_median": 1.317
+    }
+  },
+  "argon_review_queue_telemetry": {
+    "total_items_recorded": 977,
+    "resolved_by_argon": 0,
+    "info_telemetry_only": 0,
+    "unresolved_quarantines": 0,
+    "codicological_crux_count": 0
+  },
+  "final_publication_verification": {
+    "parts_count": 11,
+    "parts": [
+      "1895_lviv_octoechos_part0_front_matter.md",
+      "1895_lviv_octoechos_part1_tone1.md",
+      "1895_lviv_octoechos_part2_tone2.md",
+      "1895_lviv_octoechos_part3_tone3.md",
+      "1895_lviv_octoechos_part4_tone4.md",
+      "1895_lviv_octoechos_part5_tone5.md",
+      "1895_lviv_octoechos_part6_tone6.md",
+      "1895_lviv_octoechos_part7_tone7.md",
+      "1895_lviv_octoechos_part8_tone8.md",
+      "1895_lviv_octoechos_part9_resurrectional_appendices.md",
+      "1895_lviv_octoechos_part10_parastas.md"
+    ],
+    "total_footnotes_verified": 11218,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.114,
+      "median_cohort_ratio": 1.202,
+      "max_cohort_median": 1.317
+    },
+    "all_6_publication_gates_passed": true
+  },
+  "edge_cases_and_anomalies": [],
+  "engine_hardening_proposals": []
+}

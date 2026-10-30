@@ -1,5 +1,5 @@
 === LEAF p811 ===
-[Woodcut headpiece ornament: Christ as the Man of Sorrows in the Tomb with inscription (*ІС҃ ХС҃*)]
+(*Woodcut headpiece ornament: Christ as the Man of Sorrows in the Tomb with inscription (*ІС҃ ХС҃*)*)
 
 # PART XXXII: THE ORDER UNTO OUR LORD JESUS CHRIST, CHANTED IN GENERAL DROUGHT AND RAINLESSNESS, AND FOR THE TEMPERAMENT OF THE SEASONS, AND FOR THE DRIVING AWAY OF ADVERSE WINDS, AND AT THE INCURSION OF BARBARIANS[^2300]
 

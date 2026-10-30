@@ -59,7 +59,7 @@ baptism. Wash away from him the oldness [of sin], and regenerate him unto eterna
 
 === LEAF p64 ===
 
-[Fol. 23v. Headpiece: Elaborate Renaissance woodcut engraving depicting the Baptism of an Infant (*КР҃ЩЕНЇЕ Ѻ҆ТРОЧАТА*) in an oval medallion supported by two winged angels amidst scrolling acanthus vines.]
+(*Fol. 23v. Headpiece: Elaborate Renaissance woodcut engraving depicting the Baptism of an Infant (*КР҃ЩЕНЇЕ Ѻ҆ТРОЧАТА*) in an oval medallion supported by two winged angels amidst scrolling acanthus vines.*)
 
 # PART IV: THE ORDER OF HOLY BAPTISM[^101]
 

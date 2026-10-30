@@ -44,51 +44,51 @@ Never will we, the unworthy, cease to speak of Thy powers, O Theotokos; for hads
 
 **Deacon [or Priest]:** Have mercy on us, O God, according to Thy great mercy, we pray Thee: hear, and have mercy.[^2839]
 
-**People:** Lord, have mercy *(thrice).*[^2840]
+> **People:** "Lord, have mercy *(thrice).*"[^2840]
 
 *If thou singest for the Tsar, say:*[^2841]
 
-**Deacon:** Again we pray for our pious and God-preserved Tsar, *[Name]*, for his dominion, victory, endurance, peace, health, and salvation; and that the Lord our God may especially prosper and assist him in all things, and subdue under his feet every enemy and adversary.[^2842]
+> **Deacon:** "Again we pray for our pious and God-preserved Tsar, *[Name]*, for his dominion, victory, endurance, peace, health, and salvation; and that the Lord our God may especially prosper and assist him in all things, and subdue under his feet every enemy and adversary."[^2842]
 
-**People:** Lord, have mercy *(thrice).*[^2843]
+> **People:** "Lord, have mercy *(thrice).*"[^2843]
 
 *And if thou singest for a warrior, say this:*[^2844]
 
-**Deacon:** Again we pray for the mercy of God, and help, visitation, and strengthening; for the vouchsafing, and remission of sins of the Christ-loving host, the servant of God, *[Name]*.[^2845]
+> **Deacon:** "Again we pray for the mercy of God, and help, visitation, and strengthening; for the vouchsafing, and remission of sins of the Christ-loving host, the servant of God, *[Name]*."[^2845]
 
-**People:** Lord, have mercy *(thrice).*[^2846]
+> **People:** "Lord, have mercy *(thrice).*"[^2846]
 
 *After this, the prayer of exclamation:*[^2847]
 
-**Priest:** Hear us, O God our Savior, the Hope of all the ends of the earth, and of those far off upon the sea; O Merciful One, be merciful unto us concerning our sins, and have mercy on us; for a merciful and mankind-loving God art Thou, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages.[^2848]
+> **Priest:** "Hear us, O God our Savior, the Hope of all the ends of the earth, and of those far off upon the sea; O Merciful One, be merciful unto us concerning our sins, and have mercy on us; for a merciful and mankind-loving God art Thou, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."[^2848]
 
 *And if thou singest a moleben for a bishop, or an hegumen, or for a monk, or for a layman, say:*[^2849]
 
 **Deacon [or Priest]:** Have mercy on us, O God, according to Thy great mercy, we pray Thee: hear, and have mercy.[^2850]
 
-**Deacon:** Again we pray to the Lord our God, to deliver His servant, *[Name]*, from every affliction, wrath, misfortune, and necessity, and from every sickness of soul and body; and to forgive him every transgression, voluntary and involuntary; let us all say:[^2851]
+> **Deacon:** "Again we pray to the Lord our God, to deliver His servant, *[Name]*, from every affliction, wrath, misfortune, and necessity, and from every sickness of soul and body; and to forgive him every transgression, voluntary and involuntary; let us all say:"[^2851]
 
-**People:** Lord, have mercy *(fifty times).*[^2852]
+> **People:** "Lord, have mercy *(fifty times).*"[^2852]
 
 *And if thou singest for brethren who have departed for service, and for those sailing upon the sea, say thus:*[^2853]
 
-**Deacon:** Again we pray to the Lord our God for our brethren who have departed for service, and for those sailing upon the sea: to deliver them from every affliction, misfortune, wrath, and necessity, and from every contrary thing; and to have mercy on them, and to forgive them every transgression, voluntary and involuntary; let us all say: O Lord, hear and have mercy.[^2854]
+> **Deacon:** "Again we pray to the Lord our God for our brethren who have departed for service, and for those sailing upon the sea: to deliver them from every affliction, misfortune, wrath, and necessity, and from every contrary thing; and to have mercy on them, and to forgive them every transgression, voluntary and involuntary; let us all say: O Lord, hear and have mercy."[^2854]
 
-**People:** Lord, have mercy *(fifty times).*[^2855]
+> **People:** "Lord, have mercy *(fifty times).*"[^2855]
 
 *And if thou singest for the city wherein thou dwellest, or for the monastery wherein thou abidest, that it may be delivered from the calamities which have befallen it:*[^2856]
 
-**Deacon:** Again we pray to the Lord our God, that this place, and this holy monastery, and every city and countryside, may be preserved from famine, pestilence, earthquake, flood, fire, and sword, the invasion of foreign tribes, and civil war, and every deadly wound; and that our good and mankind-loving God may be merciful, meek, gentle, and propitious concerning our sins; and turn away all wrath stirred up against us, and deliver us from His impending righteous rebuke, and have mercy on us.[^2857]
+> **Deacon:** "Again we pray to the Lord our God, that this place, and this holy monastery, and every city and countryside, may be preserved from famine, pestilence, earthquake, flood, fire, and sword, the invasion of foreign tribes, and civil war, and every deadly wound; and that our good and mankind-loving God may be merciful, meek, gentle, and propitious concerning our sins; and turn away all wrath stirred up against us, and deliver us from His impending righteous rebuke, and have mercy on us."[^2857]
 
 *And if thou singest concerning drought, add this also:*[^2858]
 
-**Deacon:** And that He may rain down upon the earth a good rain by His goodness, we pray Thee: O Lord, hear, and have mercy.[^2859]
+> **Deacon:** "And that He may rain down upon the earth a good rain by His goodness, we pray Thee: O Lord, hear, and have mercy."[^2859]
 
-**People:** Lord, have mercy *(fifty times).*[^2860]
+> **People:** "Lord, have mercy *(fifty times).*"[^2860]
 
 *Exclamation:*[^2861]
 
-**Priest:** **"Hear us, O God our Savior, the Hope..."**[^2862]
+> **Priest:** **"Hear us, O God our Savior, the Hope..."**[^2862]
 
 *Then the Sessional Hymn, Tone 2:*[^2863]
 
@@ -146,11 +146,11 @@ A fervent prayer together, and an impregnable wall, a fountain of mercy, and[^28
 
 *The Little Litany of the Deacon:*[^2884]
 
-**Deacon:** **"Again and again in peace let us pray to the Lord."**
+> **Deacon:** **"Again and again in peace let us pray to the Lord."**
 
 *Exclamation:*[^2885]
 
-**Priest:** **"For Thou art the King of peace, and the Savior of souls..."**
+> **Priest:** **"For Thou art the King of peace, and the Savior of souls..."**
 
 *Kontakion, Tone 6:*[^2886]
 
@@ -170,17 +170,17 @@ We have no other help, we have no other hope save Thee, O all-pure Virgin: do Th
 
 *Then the Deacon:*[^2891]
 
-**Deacon:** **"Let us pray to the Lord."**
+> **Deacon:** **"Let us pray to the Lord."**
 
-**Priest:** **"For holy art Thou, our God, and unto Thee do we send up glory..."**
+> **Priest:** **"For holy art Thou, our God, and unto Thee do we send up glory..."**
 
-**Choir:** **"Let everything that hath breath praise the Lord."**
+> **Choir:** **"Let everything that hath breath praise the Lord."**
 
-**Deacon:** **"And that we may be vouchsafed to hear the Holy Gospel worthily, in peace let us pray to the Lord God."**[^2892]
+> **Deacon:** **"And that we may be vouchsafed to hear the Holy Gospel worthily, in peace let us pray to the Lord God."**[^2892]
 
-**Deacon:** **"Wisdom! Upright! Let us hear the Holy Gospel."**
+> **Deacon:** **"Wisdom! Upright! Let us hear the Holy Gospel."**
 
-**Priest:** **"Peace be unto all."**
+> **Priest:** **"Peace be unto all."**
 
 **Deacon [or Priest]:** **"The Reading from the Holy Evangelist Luke."**[^2893]
 
@@ -196,11 +196,11 @@ We have no other help, we have no other hope save Thee, O all-pure Virgin: do Th
 
 *Glory... Tone 2:*[^2898]
 
-**Choir:** **"O Father, Word, and Spirit, Holy Trinity: cleanse the multitude of our sins."**
+> **Choir:** **"O Father, Word, and Spirit, Holy Trinity: cleanse the multitude of our sins."**
 
 *Both now...*
 
-**Choir:** **"Through the intercessions of the Theotokos, O Merciful One: cleanse the multitude of our sins."**
+> **Choir:** **"Through the intercessions of the Theotokos, O Merciful One: cleanse the multitude of our sins."**
 
 *Verse:* **"Have mercy on us, O God, according to Thy great mercy..."**[^2899]
 
@@ -210,13 +210,13 @@ Abandon me not unto human protection, O all-pure Lady, but receive the supplicat
 
 *The Deacon says the prayer:*[^2902]
 
-**Deacon:** **"Save, O God, Thy people, and bless Thine inheritance; and visit Thy world with mercy and compassions; exalt the horn of Christians, and send down upon us Thy rich mercies: through the intercessions of our all-pure Lady, the Theotokos and Ever-Virgin Mary; by the power of the precious and life-giving Cross[^2903] of the honorable celestial bodiless Hosts; of the honorable and glorious Prophet, Forerunner, and Baptist John; of the holy, glorious, and all-lauded Apostles; of the holy, victorious Martyrs; of our venerable and God-bearing Fathers; of the holy and righteous Ancestors of God, Joachim and Anna; and of all Thy Saints: we beseech Thee, O greatly-merciful Lord, hear us sinners praying unto Thee, and have mercy on us; let us all say:"**[^2904][^2905]
+> **Deacon:** **"Save, O God, Thy people, and bless Thine inheritance; and visit Thy world with mercy and compassions; exalt the horn of Christians, and send down upon us Thy rich mercies: through the intercessions of our all-pure Lady, the Theotokos and Ever-Virgin Mary; by the power of the precious and life-giving Cross[^2903] of the honorable celestial bodiless Hosts; of the honorable and glorious Prophet, Forerunner, and Baptist John; of the holy, glorious, and all-lauded Apostles; of the holy, victorious Martyrs; of our venerable and God-bearing Fathers; of the holy and righteous Ancestors of God, Joachim and Anna; and of all Thy Saints: we beseech Thee, O greatly-merciful Lord, hear us sinners praying unto Thee, and have mercy on us; let us all say:"**[^2904][^2905]
 
-**People:** *Lord, have mercy (fifteen times).*[^2906]
+> **People:** *Lord, have mercy (fifteen times).*[^2906]
 
 *The Priest makes the exclamation:*
 
-**Priest:** **"Through the mercy and compassions of Thine Only-begotten Son, with Whom Thou art blessed[^2907] art blessed, together with Thy most holy, good, and life-creating Spirit, now and ever, and unto ages of ages."**[^2908]
+> **Priest:** **"Through the mercy and compassions of Thine Only-begotten Son, with Whom Thou art blessed[^2907] art blessed, together with Thy most holy, good, and life-creating Spirit, now and ever, and unto ages of ages."**[^2908]
 
 *Ode 7. Heirmos:*[^2909] **"The Children having arrived from Judea in Babylon of old..."**
 
@@ -292,17 +292,17 @@ Rejoice, praise of the universe; rejoice, temple of the Lord; rejoice, overshado
 
 *Then the diaconal petitions:*[^2938]
 
-**Deacon:** **"Have mercy on us, O God, according to Thy great mercy, we pray Thee..."**
+> **Deacon:** **"Have mercy on us, O God, according to Thy great mercy, we pray Thee..."**
 
 *And all the rest in order, for whomever thou dost pray (see at the fourth ode).*
 
 *The Priest makes the exclamation:*[^2939]
 
-**Priest:** **"Hear us, O God our Savior..."**
+> **Priest:** **"Hear us, O God our Savior..."**
 
 *Or:*
 
-**Priest:** **"For Thou art a merciful God and lover of mankind..."**
+> **Priest:** **"For Thou art a merciful God and lover of mankind..."**
 
 *And the Dismissal.*
 

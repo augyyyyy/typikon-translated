@@ -34,7 +34,7 @@ The feast of the Law being at the midst, O Creator and Master of all, Thou didst
 *Alleluia [Tone 2]:* Remember Thy congregation which Thou hast purchased from the beginning! [Ps. 73:2a]
 *Verse:* God is our King before the ages; He hath wrought salvation in the midst of the earth! [Ps. 73:12]
 *Gospel: John, Pericope 26 [John 7:14–30].*[^770]
-*Communion verse:* "He that eats My Flesh and drinks My Blood abides in Me, and I in him, saith the Lord." [John 6:56][^771] *Alleluia.*
+*Communion verse:* "He that eats My Flesh and drinks My Blood abides in Me, and I in him, says the Lord." [John 6:56][^771] *Alleluia.*
 
 *On Wednesday evening: Stichera of the feast, Tone 4, Podoben: "Called from on high" (Званный свыше), and of the Saint, 3; Dogmatikon Theotokion; Glory, Both now, of the feast; at the Aposticha: Resurrectional... Glory, Both now, of the feast; and Dismissal. At Matins: The customary order. The afterfeast of Mid-Pentecost is celebrated for 8 days.*[^772]
 

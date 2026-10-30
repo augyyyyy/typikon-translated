@@ -2,7 +2,7 @@
 
 *He that desires to repent enters into the church with fear and humility, and with folded hands. And the priest says unto him:*[^720]
 
-**Priest:** Bow down to the earth unto God, unto Whom thou hast fled.[^721]
+> **Priest:** "Bow down to the earth unto God, unto Whom thou hast fled."[^721]
 
 *And he bows down before the holy altar three times. And the priest says first, and he after him:*[^722]
 
@@ -18,11 +18,11 @@
 
 *And taking the holy Gospel, the priest sets it before the altar upon an analogion. And he that desires to repent comes, and places his hands and his head upon the holy Gospel. And the priest says:*[^727]
 
-**Priest:** Blessed is our God, [always, now and ever, and unto ages of ages. Amen.][^728]
+> **Priest:** "Blessed is our God, [always, now and ever, and unto ages of ages. Amen.]"[^728]
 
 *Trisagion. All-holy Trinity. After Our Father:*
 
-**Priest:** For Thine is the kingdom, [and the power, and the glory, of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages. Amen.][^729]
+> **Priest:** "For Thine is the kingdom, [and the power, and the glory, of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages. Amen.]"[^729]
 
 *Lord, have mercy (12 times).*
 
@@ -32,52 +32,52 @@
 
 *Psalm 4:*
 
-**Reader:** When I called, the God of my righteousness heard me: in
+> **Reader:** "When I called, the God of my righteousness heard me: in"
 
-**Reader:** distress Thou didst enlarge me; have compassion upon me, and hear my prayer.[^731] O ye sons of men, how long will ye be heavy of heart? Why do ye love vanity, and seek after falsehood?[^732] And know that the Lord hath made marvelous His holy one; the Lord will hear me when I cry unto Him.[^733] Be angry, and sin not; what ye say in your hearts, upon your beds be pierced with compunction.[^734] Sacrifice a sacrifice of righteousness, and hope in the Lord.[^735] Many say: Who will show us good things? The light of Thy countenance hath been signed upon us, O Lord;[^736] Thou hast given gladness into my heart: from the fruit of their corn, wine, and oil
+> **Reader:** "distress Thou didst enlarge me; have compassion upon me, and hear my prayer.[^731] O ye sons of men, how long will ye be heavy of heart? Why do ye love vanity, and seek after falsehood?[^732] And know that the Lord hath made marvelous His holy one; the Lord will hear me when I cry unto Him.[^733] Be angry, and sin not; what ye say in your hearts, upon your beds be pierced with compunction.[^734] Sacrifice a sacrifice of righteousness, and hope in the Lord.[^735] Many say: Who will show us good things? The light of Thy countenance hath been signed upon us, O Lord;[^736] Thou hast given gladness into my heart: from the fruit of their corn, wine, and oil"
 
-**Reader:** they have been increased.[^737] In peace together will I sleep and take my rest; for Thou alone, O Lord, hast established me in hope.[^738]
+> **Reader:** "they have been increased.[^737] In peace together will I sleep and take my rest; for Thou alone, O Lord, hast established me in hope."[^738]
 
 *Then this prayer, with a loud voice:*[^739]
 
-**Priest:** O Lord God of our salvation, have mercy in Thy compassions, O Thou of many mercies, upon Thy servant *[Name, saying it];*[^740] Who didst bow the heavens, and come down for the sake of the mercy of the human race;[^741] Who desirest not the death of sinners, but that they should turn and live:[^742] do Thou Thyself, O Master, unto Thy servant who prays unto Thee, grant a steadfast place of repentance, Who knowest sin and cleansest iniquities;[^743] forgive and remit unto him all transgressions voluntary and involuntary;[^744]
+> **Priest:** "O Lord God of our salvation, have mercy in Thy compassions, O Thou of many mercies, upon Thy servant *[Name, saying it];*[^740] Who didst bow the heavens, and come down for the sake of the mercy of the human race;[^741] Who desirest not the death of sinners, but that they should turn and live:[^742] do Thou Thyself, O Master, unto Thy servant who prays unto Thee, grant a steadfast place of repentance, Who knowest sin and cleansest iniquities;[^743] forgive and remit unto him all transgressions voluntary and involuntary;"[^744]
 
-**Priest:** and unite him unto Thy holy, Catholic, and Apostolic Church.[^745] For Thine is the dominion, and Thine is the kingdom, and the power, and the glory, of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages. [Amen.][^746]
+> **Priest:** "and unite him unto Thy holy, Catholic, and Apostolic Church.[^745] For Thine is the dominion, and Thine is the kingdom, and the power, and the glory, of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages. [Amen.]"[^746]
 
 *Psalm 6:*[^747]
 
-**Reader:** O Lord, rebuke me not in Thine anger, nor chasten me in Thy wrath.[^748] Have mercy on me, O Lord, for I am weak; heal me, O Lord, for my bones are troubled.[^749] And my soul is troubled exceedingly; and Thou, O Lord, how long?[^750] Turn Thee, O Lord, and deliver my soul; save me for Thy mercy's sake.[^751] For in death there is no one that remembers Thee; and in Hades, who will give thanks unto Thee?[^752] I am weary[^753]
+> **Reader:** "O Lord, rebuke me not in Thine anger, nor chasten me in Thy wrath.[^748] Have mercy on me, O Lord, for I am weak; heal me, O Lord, for my bones are troubled.[^749] And my soul is troubled exceedingly; and Thou, O Lord, how long?[^750] Turn Thee, O Lord, and deliver my soul; save me for Thy mercy's sake.[^751] For in death there is no one that remembers Thee; and in Hades, who will give thanks unto Thee?[^752] I am weary"[^753]
 
-**Reader:** with my groaning; I will wash my couch every night, I will water my bed with my tears.[^754] Mine eye is troubled by reason of anger; I have waxed old among all mine enemies.[^755] Depart from me, all ye that work iniquity, for the Lord hath heard the voice of my weeping.[^756] The Lord hath heard my supplication, the Lord hath received my prayer.[^757] Let all mine enemies be ashamed and troubled; let them be turned back and put to shame very speedily.[^758]
+> **Reader:** "with my groaning; I will wash my couch every night, I will water my bed with my tears.[^754] Mine eye is troubled by reason of anger; I have waxed old among all mine enemies.[^755] Depart from me, all ye that work iniquity, for the Lord hath heard the voice of my weeping.[^756] The Lord hath heard my supplication, the Lord hath received my prayer.[^757] Let all mine enemies be ashamed and troubled; let them be turned back and put to shame very speedily."[^758]
 
 *Then the prayer:*[^759]
 
-**Priest:** O Master, Lord our God, Who callest the righteous unto holiness, and sinners unto conversion:[^760] do Thou receive
+> **Priest:** "O Master, Lord our God, Who callest the righteous unto holiness, and sinners unto conversion:[^760] do Thou receive"
 
-**Priest:** the repentance of Thy servant *[Name, saying it],* falling down before Thy majesty.[^761] Whatsoever he hath sinned, forgive him, as the only good One;[^762] deliver him from every carnal transgression; forgive him of every defilement, and cleanse his conscience;[^763] strengthen him unto the work of Thy commandments;[^764] and vouchsafe him the dignity of the holy altar, and to be a partaker of Thy divine Mysteries;[^765] that with a pure soul and body he may bear Thy fruits, and, returning, may be joined unto Thy holy works;[^766] and may be an heir of Thy heavenly kingdom:[^767]
+> **Priest:** "the repentance of Thy servant *[Name, saying it],* falling down before Thy majesty.[^761] Whatsoever he hath sinned, forgive him, as the only good One;[^762] deliver him from every carnal transgression; forgive him of every defilement, and cleanse his conscience;[^763] strengthen him unto the work of Thy commandments;[^764] and vouchsafe him the dignity of the holy altar, and to be a partaker of Thy divine Mysteries;[^765] that with a pure soul and body he may bear Thy fruits, and, returning, may be joined unto Thy holy works;[^766] and may be an heir of Thy heavenly kingdom:"[^767]
 By the grace and compassions and love for mankind of Thine Only-begotten Son,
 
-**Priest:** with Whom Thou art blessed, together with Thy most holy, and good, and life-creating Spirit, now and ever, and unto ages of ages. [Amen.][^768]
+> **Priest:** "with Whom Thou art blessed, together with Thy most holy, and good, and life-creating Spirit, now and ever, and unto ages of ages. [Amen.]"[^768]
 
 *Psalm 12:*[^769]
 
-**Reader:** How long, O Lord, wilt Thou forget me unto the end? How long wilt Thou turn away Thy face from me?[^770] How long shall I take counsel in my soul, having sorrows in my heart day and night? How long shall mine enemy be exalted over me?[^771] Look upon me, and hear me, O Lord my God; enlighten mine eyes, lest at any time I sleep unto death;[^772] lest at any time mine enemy say: I have prevailed against him; they that afflict me will rejoice if I be shaken.[^773]
+> **Reader:** "How long, O Lord, wilt Thou forget me unto the end? How long wilt Thou turn away Thy face from me?[^770] How long shall I take counsel in my soul, having sorrows in my heart day and night? How long shall mine enemy be exalted over me?[^771] Look upon me, and hear me, O Lord my God; enlighten mine eyes, lest at any time I sleep unto death;[^772] lest at any time mine enemy say: I have prevailed against him; they that afflict me will rejoice if I be shaken."[^773]
 
-**Reader:** But I have hoped in Thy mercy; my heart shall rejoice in Thy salvation. I will sing unto the Lord Who hath dealt bountifully with me, and I will chant unto the name of the Lord Most High.[^774]
+> **Reader:** "But I have hoped in Thy mercy; my heart shall rejoice in Thy salvation. I will sing unto the Lord Who hath dealt bountifully with me, and I will chant unto the name of the Lord Most High."[^774]
 
 *Then the prayer:*[^775]
 
-**Priest:** O Lord God our Savior, Who by Thy prophet Nathan didst grant forgiveness unto David when he repented of his transgressions,[^776] and didst receive the repentance and prayer of Manasseh:[^777] do Thou Thyself now receive Thy servant *[Name, saying it],* who repents of his transgressions, in Thy customary love for mankind,[^778] overlooking all his transgressions;[^779] for Thou, O Lord, art He that said seventy times seven to forgive them that fall into
+> **Priest:** "O Lord God our Savior, Who by Thy prophet Nathan didst grant forgiveness unto David when he repented of his transgressions,[^776] and didst receive the repentance and prayer of Manasseh:[^777] do Thou Thyself now receive Thy servant *[Name, saying it],* who repents of his transgressions, in Thy customary love for mankind,[^778] overlooking all his transgressions;[^779] for Thou, O Lord, art He that said seventy times seven to forgive them that fall into"
 
-**Priest:** sins;[^780] for as Thy majesty is, so also is Thy mercy;[^781] for Thou art the God Who relentest concerning all our malice and unrighteousness;[^782] and unto Thee we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. [Amen.][^783]
+> **Priest:** "sins;[^780] for as Thy majesty is, so also is Thy mercy;[^781] for Thou art the God Who relentest concerning all our malice and unrighteousness;[^782] and unto Thee we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. [Amen.]"[^783]
 
 *After this, the priest seats the penitent; and he examines him with love, and gentleness, and humility, bringing forward God as witness that there is forgiveness for them that truly repent; and entreating him greatly that he be not put to shame by the face of man, and conceal not any transgression, but confess every sin as before God, Who knows even the hairs*[^784] *of our head, and is able to cleanse from every sin; for He alone is without sin.*[^785]
 
 *And he says unto him:*[^786]
 
-**Priest:** Since, my child, thou hast called me father unto thyself,[^787] and desirest to confess thyself to my wretchedness, be not ashamed of me, a sinner;[^788] but declare unto me all thy transgressions; for I believe God, that whatsoever things thou confessest here, thou shalt be loosed from them;[^789] lest, having been ashamed of me, my child, thou be cast out from the kingdom of the heavenly King.[^790] Confess unto me, my child, and destroy not thyself through shame: in what manner hast thou violated thy chastity? Whether with beasts, or with womankind,[^791]
+> **Priest:** "Since, my child, thou hast called me father unto thyself,[^787] and desirest to confess thyself to my wretchedness, be not ashamed of me, a sinner;[^788] but declare unto me all thy transgressions; for I believe God, that whatsoever things thou confessest here, thou shalt be loosed from them;[^789] lest, having been ashamed of me, my child, thou be cast out from the kingdom of the heavenly King.[^790] Confess unto me, my child, and destroy not thyself through shame: in what manner hast thou violated thy chastity? Whether with beasts, or with womankind,"[^791]
 
-**Priest:** or with mankind, or by oneself?[^792]
+> **Priest:** "or with mankind, or by oneself?"[^792]
 
 *It is fitting, therefore, for spiritual fathers to examine their spiritual children, whether of the male sex or the female; therefore it is not meet for the father to be ashamed before his children, nor the children before the father; for there are certain fathers who on account of shame do not examine their children, and again children who on account of shame do not confess their transgressions, and perish in their ignorance.*[^793]
 
@@ -91,44 +91,44 @@ By the grace and compassions and love for mankind of Thine Only-begotten Son,
 
 *And the priest says unto him: Bow down; and he says this prayer with great devotion:*[^801]
 
-**Priest:** O Lord our God, Who didst forgive sins unto Peter and the harlot through tears,[^802] and didst justify the publican who acknowledged his transgressions:[^803] receive the confession of Thy servant *[Name, saying it],* whatsoever sins he hath committed against Thee, voluntary and involuntary, in word, or in deed, or in thought; as good, overlook them;[^804] for Thou alone hast authority to forgive sins;[^805] for Thou art the God of mercies and compassions and love for mankind; and unto Thee we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and [unto ages of ages. Amen.][^806]
+> **Priest:** "O Lord our God, Who didst forgive sins unto Peter and the harlot through tears,[^802] and didst justify the publican who acknowledged his transgressions:[^803] receive the confession of Thy servant *[Name, saying it],* whatsoever sins he hath committed against Thee, voluntary and involuntary, in word, or in deed, or in thought; as good, overlook them;[^804] for Thou alone hast authority to forgive sins;[^805] for Thou art the God of mercies and compassions and love for mankind; and unto Thee we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and [unto ages of ages. Amen.]"[^806]
 
 *The Epistle to Timothy:*[^807]
 
-**Reader:** My child Timothy: Faithful is the saying, and worthy of all acceptation,[^808]
+> **Reader:** "My child Timothy: Faithful is the saying, and worthy of all acceptation,"[^808]
 
-**Reader:** that Christ came into the world to save sinners, of whom I am first.[^809] Howbeit for this cause I obtained mercy, that in me Jesus Christ might show forth all longsuffering, for a pattern to them that should believe on Him unto life everlasting.[^810] Now unto the King of ages, incorruptible, invisible, the only wise God, be honor and glory unto ages of ages. Amen.[^811]
+> **Reader:** "that Christ came into the world to save sinners, of whom I am first.[^809] Howbeit for this cause I obtained mercy, that in me Jesus Christ might show forth all longsuffering, for a pattern to them that should believe on Him unto life everlasting.[^810] Now unto the King of ages, incorruptible, invisible, the only wise God, be honor and glory unto ages of ages. Amen."[^811]
 
 *The Gospel according to Matthew:*[^812]
 
-**Priest:** At that time, as Jesus passed by, He saw a man sitting at the tax office, named Matthew; and He says unto him: Follow Me. And he arose, and followed Him.[^813] And it came to pass, as He sat at meat in the house, behold, many publicans and sinners[^814]
+> **Priest:** "At that time, as Jesus passed by, He saw a man sitting at the tax office, named Matthew; and He says unto him: Follow Me. And he arose, and followed Him.[^813] And it came to pass, as He sat at meat in the house, behold, many publicans and sinners"[^814]
 
-**Priest:** came and reclined at table with Jesus and with His disciples.[^815] And when the Pharisees saw it, they said unto His disciples: Why does your Teacher eat and drink with publicans and sinners?[^816] But when Jesus heard it, He said unto them: Go ye and learn what that means: I desire mercy, and not sacrifice; for I came not to call the righteous, but sinners to repentance.[^817]
+> **Priest:** "came and reclined at table with Jesus and with His disciples.[^815] And when the Pharisees saw it, they said unto His disciples: Why does your Teacher eat and drink with publicans and sinners?[^816] But when Jesus heard it, He said unto them: Go ye and learn what that means: I desire mercy, and not sacrifice; for I came not to call the righteous, but sinners to repentance."[^817]
 
 *Litany:*[^818]
 
-**Deacon:** Have mercy on us, O God, according to Thy great mercy, we pray Thee, hear and have mercy.[^819]
+> **Deacon:** "Have mercy on us, O God, according to Thy great mercy, we pray Thee, hear and have mercy."[^819]
 Again we pray: Hear us, O God, who pray unto Thee for this Thy servant *[Name, saying it],* concerning the forgiveness of every sin committed by him.[^820] Lord,
 
-**Deacon:** hear, and have mercy. **Choir:** Lord, have mercy (50 times).[^821]
+> **Deacon:** "hear, and have mercy. **Choir:** Lord, have mercy (50 times)."[^821]
 
-**Priest:** For a merciful and compassionate God Thou art, and a lover of mankind, and unto Thee we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, [and unto ages of ages. Amen.][^822]
+> **Priest:** "For a merciful and compassionate God Thou art, and a lover of mankind, and unto Thee we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, [and unto ages of ages. Amen.]"[^822]
 
 *After this: More honorable than the Cherubim. Glory; both now; and the Dismissal:*[^823]
 
 *And after this, he instructs the penitent:*[^824]
 
-**Priest:** Child, let it not seem grievous unto thee as thou repentest, that I exclude thee from the church for forty days to stand outside;[^825] for such an order has been handed down from God by the holy apostles and the venerable fathers,[^826] that having been fittingly cleansed, we may be worthy to partake of the Body and Blood of the Lord.[^827] For thus the holy apostle Paul teaches, saying: If [anyone] being not[^828]
+> **Priest:** "Child, let it not seem grievous unto thee as thou repentest, that I exclude thee from the church for forty days to stand outside;[^825] for such an order has been handed down from God by the holy apostles and the venerable fathers,[^826] that having been fittingly cleansed, we may be worthy to partake of the Body and Blood of the Lord.[^827] For thus the holy apostle Paul teaches, saying: If [anyone] being not"[^828]
 
-**Priest:** worthy, receives the Body of Christ, he receives sin unto himself, not discerning the Lord's Body.[^829] And the Lord Himself says: Give not that which is holy unto the dogs.[^830] Let us not be enslaved unto the lusts of the belly, but let us acquire the fruits of spiritual desires;[^831] let us resist carnal delicacies;[^832] for no bodily harm is healed in drunkenness and in gluttony.[^833] If anyone restrains himself speedily and firmly, he shall speedily receive comfort.[^834] For even as sin is sweet in tasting, but afterward is found more bitter than gall;[^835] so likewise the repentance of fasting and prostrations appears for a little while[^836]
+> **Priest:** "worthy, receives the Body of Christ, he receives sin unto himself, not discerning the Lord's Body.[^829] And the Lord Himself says: Give not that which is holy unto the dogs.[^830] Let us not be enslaved unto the lusts of the belly, but let us acquire the fruits of spiritual desires;[^831] let us resist carnal delicacies;[^832] for no bodily harm is healed in drunkenness and in gluttony.[^833] If anyone restrains himself speedily and firmly, he shall speedily receive comfort.[^834] For even as sin is sweet in tasting, but afterward is found more bitter than gall;[^835] so likewise the repentance of fasting and prostrations appears for a little while"[^836]
 
-**Priest:** grievous, but unto the ages yields joyful fruits.[^837] For it is written: We must through many tribulations enter into the kingdom of heaven.[^838] And again: The kingdom of heaven is taken by violence, and the violent take it by force.[^839] And again the Lord said: Strive to enter in through the narrow gate that leads into life, and few there be that find it.[^840] And of the narrow gate and the grievous way, these are the works: hungering, thirsting, lying upon the ground, prostrations, sleeping little, humility, submission, patient endurance, enduring injury, love of poverty, and the weeping of the eyes; for without weeping it is impossible to repent.[^841]
+> **Priest:** "grievous, but unto the ages yields joyful fruits.[^837] For it is written: We must through many tribulations enter into the kingdom of heaven.[^838] And again: The kingdom of heaven is taken by violence, and the violent take it by force.[^839] And again the Lord said: Strive to enter in through the narrow gate that leads into life, and few there be that find it.[^840] And of the narrow gate and the grievous way, these are the works: hungering, thirsting, lying upon the ground, prostrations, sleeping little, humility, submission, patient endurance, enduring injury, love of poverty, and the weeping of the eyes; for without weeping it is impossible to repent."[^841]
 
-**Priest:** And of weeping, the true repentance of all is this: that having once departed from sin, one return not again unto the same;[^842] that he be not likened unto a dog returning unto his own vomit, or as a sow that was washed, unto her wallowing again in the mire.[^843] Let us emulate the Prodigal Son, who by repentance opened the doors of the kingdom;[^844] and the first thief, and the harlot, and the former publican, and others,[^845] who having once renounced sins, did not return again unto them.[^846] So do thou also, child, compel thyself to be likewise: in place of eating rich meat, to be an eater of dry food; in place of wine-drinking,[^847]
+> **Priest:** "And of weeping, the true repentance of all is this: that having once departed from sin, one return not again unto the same;[^842] that he be not likened unto a dog returning unto his own vomit, or as a sow that was washed, unto her wallowing again in the mire.[^843] Let us emulate the Prodigal Son, who by repentance opened the doors of the kingdom;[^844] and the first thief, and the harlot, and the former publican, and others,[^845] who having once renounced sins, did not return again unto them.[^846] So do thou also, child, compel thyself to be likewise: in place of eating rich meat, to be an eater of dry food; in place of wine-drinking,"[^847]
 
-**Priest:** a drinker of water; in place of a jester, a shedder of tears; in place of haughtiness, one who humbles himself; in place of soft beds, lying upon hard surfaces; in place of a contentious man, a lover of charity; in place of a sower of strife, a peacemaker; in place of an injurer of others, a lover of the poor.[^848] So that if thou repentest thus, thou shalt be a child of light, and a son of the day;[^849] and by these ways thou shalt enter without toil into the land of the kingdom of heaven.[^850] For the Lord said: Be ye ready, for ye know neither the day nor the hour when the end comes;[^851] for we know not how long our life will last.[^852] If death find us in sins, then to what end[^853]
+> **Priest:** "a drinker of water; in place of a jester, a shedder of tears; in place of haughtiness, one who humbles himself; in place of soft beds, lying upon hard surfaces; in place of a contentious man, a lover of charity; in place of a sower of strife, a peacemaker; in place of an injurer of others, a lover of the poor.[^848] So that if thou repentest thus, thou shalt be a child of light, and a son of the day;[^849] and by these ways thou shalt enter without toil into the land of the kingdom of heaven.[^850] For the Lord said: Be ye ready, for ye know neither the day nor the hour when the end comes;[^851] for we know not how long our life will last.[^852] If death find us in sins, then to what end"[^853]
 
-**Priest:** were we born?[^854] But let us hasten, therefore, speedily to shake off the burden of our sins, that in the resurrection we may meet the Lord in brightness, being caught up in the clouds through the air,[^855] when He shall come upon the earth in the glory of His Father, to judge the living and the dead, and to render unto each according to his works.[^856]
+> **Priest:** "were we born?[^854] But let us hasten, therefore, speedily to shake off the burden of our sins, that in the resurrection we may meet the Lord in brightness, being caught up in the clouds through the air,[^855] when He shall come upon the earth in the glory of His Father, to judge the living and the dead, and to render unto each according to his works."[^856]
 
 *And according to his strength, he gives him a penance, as much as he can keep:*[^857]
 
@@ -152,15 +152,15 @@ Again we pray: Hear us, O God, who pray unto Thee for this Thy servant *[Name, s
 
 *Prayer to absolve a penitent, spoken by the spiritual father. Let us pray to the Lord:*[^878]
 
-**Priest:** The Lord Who forgave David through Nathan[^879] when he confessed his own evil deeds; and Peter's denial when he wept bitterly; and the harlot shedding tears before His most pure feet; and the publican, and the prodigal;[^880] Who said: "Confess your transgressions one to another," and "If we confess our sins, God is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness":[^881] He Himself, our Savior the Lord Jesus Christ, shall forgive thee all things, whatsoever thou hast confessed before Him unto my unworthiness;[^882] and furthermore, in the age to come, make thee worthy to stand uncondemned before His judgment seat,[^883]
+> **Priest:** "The Lord Who forgave David through Nathan[^879] when he confessed his own evil deeds; and Peter's denial when he wept bitterly; and the harlot shedding tears before His most pure feet; and the publican, and the prodigal;[^880] Who said: "Confess your transgressions one to another," and "If we confess our sins, God is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness":[^881] He Himself, our Savior the Lord Jesus Christ, shall forgive thee all things, whatsoever thou hast confessed before Him unto my unworthiness;[^882] and furthermore, in the age to come, make thee worthy to stand uncondemned before His judgment seat,"[^883]
 
-**Priest:** Who is blessed unto ages. Amen.[^884]
+> **Priest:** "Who is blessed unto ages. Amen."[^884]
 
 *Prayer, another of like kind:*[^885]
 
-**Priest:** O compassionate Lord, good and Lover of mankind, Who for the sake of Thy compassions didst send Thine only-begotten Son into the world, that He might tear up the handwriting of transgressions against us, and loose the bonds of those bound by sin, and preach release to the captives:[^886] do Thou Thyself, Master, also set free Thy servant, *[saying the name],* by Thy grace, from the bond that lies upon him; and grant him at every time and in every place to approach Thy majesty with boldness and a pure conscience,[^887]
+> **Priest:** "O compassionate Lord, good and Lover of mankind, Who for the sake of Thy compassions didst send Thine only-begotten Son into the world, that He might tear up the handwriting of transgressions against us, and loose the bonds of those bound by sin, and preach release to the captives:[^886] do Thou Thyself, Master, also set free Thy servant, *[saying the name],* by Thy grace, from the bond that lies upon him; and grant him at every time and in every place to approach Thy majesty with boldness and a pure conscience,"[^887]
 
-**Priest:** to ask of Thee rich mercy.[^888] For Thou art a merciful God and Lover of mankind, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen.[^889]
+> **Priest:** "to ask of Thee rich mercy.[^888] For Thou art a merciful God and Lover of mankind, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen."[^889]
 
 *Then:* *The Dismissal.*[^890]
 
@@ -196,8 +196,8 @@ Again we pray: Hear us, O God, who pray unto Thee for this Thy servant *[Name, s
 [^729]: CS: "тр҃то́е. пр҃ст҃а́ѧ тр҃це. по Ѽ́ч҃е на́шъ. Ꙗ҆́ко твоє́ є҆́стъ цр҃тво." The standard initial prayers (Trisagion through Our Father) with the priestly ecphonesis.
 [^730]: CS: "Гн҃и помлꙋ́й. ві҃. прїидѣ́те поклони́мсѧ. г҃. та́же ѱало́мъ н҃. помлꙋ́й мѧ Бж҃е. и҆ Ѱало́мъ, четве́ртыи." Note that Psalm 50 [LXX 50 / MT 51] is indicated by its standard incipit, followed immediately by Psalm 4 [LXX 4].
 [^731]: LXX Psalm 4:2: "ἐν θλίψει ἐπλάτυνάς μοι· οἰκτείρησόν με καὶ εἰσάκουσον τῆς προσευχῆς μου." Completes verse 2 from leaf p297.
-[^732]: LXX Psalm 4:3: "υἱοὶ ἀνθρώπων, ἕως πότε βαρυκάρдиоι; ἱνατί ἀγαπᾶτε ματαιότητα καὶ ζητεῖτε ψεῦδος;". Anti-slop adherence: translated "Why" instead of banned "Therefore".
-[^733]: LXX Psalm 4:4: "καὶ γνῶτε ὅτι ἐθαυμάστωσε Κύριος τὸν ὅσιον αὐτοῦ· Κύριος εἰσακούσεταί μου ἐν τῷ κεκραγέναι με πρὸς αὐτόν." Mandate adherence: "made marvelous" used instead of banned "marvelous".
+[^732]: LXX Psalm 4:3: "υἱοὶ ἀνθρώπων, ἕως πότε βαρυκάρдиоι; ἱνατί ἀγαπᾶτε ματαιότητα καὶ ζητεῖτε ψεῦδος;". Anti-slop adherence: translated "Why" instead of banned "Wherefore".
+[^733]: LXX Psalm 4:4: "καὶ γνῶτε ὅτι ἐθαυμάστωσε Κύριος τὸν ὅσιον αὐτοῦ· Κύριος εἰσακούσεταί μου ἐν τῷ κεκραγέναι με πρὸς αὐτόν." Mandate adherence: "made marvelous" used instead of banned "wondrous".
 [^734]: LXX Psalm 4:5: "ὀργίζεσθε, καὶ μὴ ἁμαρτάνετε· ἃ λέγετε ἐν ταῖς καρδίαις ὑμῶν, ἐπὶ ταῖς κοίταις ὑμῶν κατανύγητε." Quoted in Eph. 4:26.
 [^735]: LXX Psalm 4:6: "θύσατε θυσίαν δικαιοσύνης καὶ ἐλπίσατε ἐπὶ Κύριον."
 [^736]: LXX Psalm 4:7: "πολλοὶ λέγουσι· τίς δείξει ἡμῖν τὰ ἀγαθά; ἐσημειώθη ἐφ' ἡμᾶς τὸ φῶς τοῦ προσώπου σου, Κύριε."

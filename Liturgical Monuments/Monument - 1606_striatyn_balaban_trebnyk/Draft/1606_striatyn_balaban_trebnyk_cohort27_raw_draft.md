@@ -16,7 +16,7 @@
 
 === LEAF p263 ===
 
-[Fol. 123r. Headpiece: The Crucifixion with the Mother of God and St. John, lettered INRI (*і҆ н ц і҆*)]
+(*Fol. 123r. Headpiece: The Crucifixion with the Mother of God and St. John, lettered INRI (*і҆ н ц і҆*)*)
 
 # PART XIV: THE ORDER PERFORMED WHEN SOMEONE WISHES TO CONFESS FROM THE BEGINNING[^544]
 

@@ -4,8 +4,9 @@ Universal Hieratic Deity Pronoun Auditor
 ========================================
 Audits English liturgical translations to enforce 100% mandatory capitalization
 of pronouns referring to the Persons of the Holy Trinity (He, Him, His, Thou,
-Thee, Thy, Thine) while ensuring human participants (clergy, saints, singers)
-remain correctly lowercase.
+Thee, Thy, Thine) while ensuring human participants (clergy, saints, singers),
+Marian addresses (Birthgiver of God, Mother of God, Theotokos), and adversary
+nouns (serpent, enemy, devil, death, hades) remain correctly lowercase.
 
 Usage:
     python scripts/hieratic_pronoun_audit.py --target path/to/draft.md
@@ -33,34 +34,41 @@ HUMAN_INDICATORS = re.compile(
     r'\b(?:Priest|priest|Deacon|deacon|Reader|reader|Bishop|bishop|Metropolitan|'
     r'Patriarch|patriarch|Patriarchal|patriarchal|Archimandrite|archimandrite|Hierodeacon|hierodeacon|Primikirios|primikirios|'
     r'Archbishop|Archpriest|Protodeacon|Hierarch|Superior|Abbot|celebrant|'
-    r'saint|Saint|Prophet|prophet|Apostle|apostle|Martyr|martyr|Hieromartyr|'
+    r'saint|saints|Saint|Saints|Prophet|prophet|Forerunner|forerunner|Baptist|baptist|Apostle|apostle|Martyr|martyr|Hieromartyr|passion-bearer|passion-bearers|'
     r'Monk|monk|Father|fathers|Synod|Dolnytsky|Mark|Sabbas|Basil|Chrysostom|'
     r'Nicholas|George|Theodore|Athanasius|Gregory|Neilos|Nilus|Bartholomew|'
-    r'Peter|Paul|John|Luke|Matthew|Thomas|Andrew|James|Philip|Simon|Jude|Matthias|Timothy|Titus|'
+    r'Peter|Paul|John|Luke|Matthew|Thomas|Andrew|James|Philip|Simon|Jude|Matthias|Timothy|Titus|Lazarus|Martha|Mary|'
     r'Cyprian|Alphonsus|Augustine|Jerome|Ambrose|Damascene|'
     r'Leo|Allatius|Benjamin|Clement|confessor|author|editor|publisher|writer|'
-    r'composer|choir|choirs|Khagan|enemy|enemies|Emperor|king|kings|David|Joseph|Moses|Christians|brother|'
+    r'composer|choir|choirs|Khagan|enemy|enemies|Emperor|king|kings|Arius|Nestorius|Adam|Eve|Cain|Abel|Seth|Enos|Cainan|Mahalalel|Jared|Enoch|Methuselah|Lamech|Noah|David|Joseph|Moses|Balaam|Israel|Abraham|Abram|Isaac|Jacob|Solomon|Christians|brother|'
     r'brethren|first deacon|second deacon|first choir|the saint|to the saint|'
     r'of the saint|if he has|if he does|nor is he|candle-bearer|sacristan|'
     r'pastor|parishioner|administrator|trustee|trustees|vicar|decan|cantor|chanter|chanters|singer|singers|'
     r'deacons|concelebrant|concelebrants|celebrants|'
-    r'curate|curates|assistant|assistants|disciple|disciples|rector|rectors|prefect|prefects|'
+    r'curate|curates|assistant|assistant|Disciples|disciple|disciples|rector|rectors|prefect|prefects|'
     r'student|students|cleric|clerics|seminarian|seminarians|celebrating|celebrated|'
     r'preacher|preachers|preaching|'
-    r'man|men|mankind|creature|creatures|human|humanity|person|persons|'
-    r'heretic|heretics|schismatic|schismatics|deceiver|deceivers|sinner|sinners|'
-    r'Satan|devil|demon|demons|Lucifer|adversary|evil one|O Death|O Hades|'
-    r'household|family|parent|parents|husband|wife|children|child|son|daughter|'
+    r'man|men|mankind|creature|creatures|human|humanity|person|persons|soul|souls|'
+    r'heretic|heretics|schismatic|schismatics|deceiver|deceivers|sinner|sinners|ungodly|'
+    r'Judas|Iscariot|betrayer|betrayers|thief|thieves|robber|robbers|'
+    r'Satan|devil|demon|demons|Lucifer|adversary|evil one|serpent|dragon|foe|corrupter|O Death|O Hades|death|hades|grave|tomb|hell|pit|'
+    r'household|family|parent|parents|husband|wife|woman|women|maiden|maidens|Samaritan|intercessor|intercessors|children|child|son|daughter|'
     r'servant|servants|handmaid|handmaids|serving|served|'
-    r'righteous|departed|deceased|reposed|'
+    r'righteous|blessed|blessed one|departed|deceased|reposed|'
     r'flock|sheep|lay down|striketh|striking|repeateth|repeating|breast|'
     r'thyself|oneself|himself|herself|themselves|'
+    r'hear thee|with thee|encompass thee|compassion on thee|grant thee|deliver thee|teach thee|give thee|forgive thee|thy God|righteousness|fast|fasting|fasts|'
     r'bow|bows|bowing|boweth|shall bow|foldeth|setteth|lowereth|raiseth|'
     r'hands|his hands|his head|head|lips|my lips|mouth|eyes|ears|feet|knees|'
     r'kneeleth|kneeling|kneels|standeth|stands|prostrateth|prostrates|censing|reciteth|recites|taketh|takes|speaks|saying|signs|'
     r'he that|him that|he who|him who|those who|whosoever|whoever|God speed|bid him|biddeth|'
-    r'Theotokos|Mother of God|Birth-giver of God|Virgin Mary|Ever-Virgin|Most Holy Lady|Our Lady|Virgin|Sion|Zion|all-pure Mother|pure Mother|Sovereign Lady|all-lauded|incarnate of|incarnate from)\b',
+    r'Theotokos|O Theotokos|Theotokion|Stavrotheotokion|Mother of God|O Mother of God|Mother of my God|Birthgiver of God|O Birthgiver of God|Birthgiver|O Birthgiver|Birth-giver of God|Bride of God|Virgin Mary|Ever-Virgin|Most Holy Lady|Our Lady|O Lady|Virgin|O Virgin|All-Immaculate|all-immaculate|All-Spotless|all-spotless|O All-Spotless|Spotless One|spotless one|O Spotless One|All-Pure|all-pure|Pure One|protectress|Immaculate|immaculate|Sion|Zion|Jerusalem|Bethlehem|Ephratha|all-pure Mother|pure Mother|Sovereign Lady|all-lauded|incarnate of|incarnate from)\b',
     re.IGNORECASE
+)
+
+MARIAN_GENITIVE_SCRUB_RE = re.compile(
+    r'\b(?:Mother|Birthgiver|Birth-giver|Bride|Handmaid|Servant|Ark|Tabernacle|Temple)\s+of\s+(?:my\s+|our\s+|the\s+)?God\b',
+    re.IGNORECASE,
 )
 
 DEITY_KEYWORDS = re.compile(
@@ -76,6 +84,7 @@ DEITY_CONTEXT_PATTERNS = [
     r'\b(?:Body of Christ|Blood of Christ|in His blood|His gift|His holy|His mercy|His grace)\b',
 ]
 
+
 def audit_file(filepath: Path) -> Dict[str, Any]:
     if not filepath.exists():
         raise FileNotFoundError(f"File not found: {filepath}")
@@ -86,8 +95,7 @@ def audit_file(filepath: Path) -> Dict[str, Any]:
     lines = content.splitlines()
     violations: List[Dict[str, Any]] = []
 
-    # Check lowercase deity pronouns in explicit divine contexts
-    window = 120
+    window = 180
 
     pronoun_patterns = [
         (re.compile(r'\b(he)\b'), 'he'),
@@ -100,14 +108,8 @@ def audit_file(filepath: Path) -> Dict[str, Any]:
     ]
 
     for line_num, line in enumerate(lines, 1):
-        # Ignore comments or footnote marker definitions
-        if line.strip().startswith("[^") and "]:" in line:
-            # Check footnote body text as well
-            pass
-
         for pat, p_name in pronoun_patterns:
             for match in pat.finditer(line):
-                # Must be lowercase
                 matched_str = match.group(1)
                 if matched_str[0].isupper():
                     continue
@@ -117,17 +119,13 @@ def audit_file(filepath: Path) -> Dict[str, Any]:
                 we = min(len(line), match.end() + window)
                 context = line[ws:we]
 
-                # Check if near deity keywords
-                if DEITY_KEYWORDS.search(context):
-                    # Check if human indicator overrides
-                    if HUMAN_INDICATORS.search(context):
-                        continue
+                # Check if human/Marian/adversary indicator overrides
+                if HUMAN_INDICATORS.search(context):
+                    continue
 
-                    # Direct check: is it referring to Deity?
-                    # e.g. "God and his holy church" -> "His holy church"
-                    # "Christ gave his life" -> "His life"
-                    # "Lord... thee" -> "Thee"
-                    before_match = line[max(0, start - 40):start]
+                scrubbed_context = MARIAN_GENITIVE_SCRUB_RE.sub("Theotokos", context)
+                if DEITY_KEYWORDS.search(scrubbed_context):
+                    before_match = MARIAN_GENITIVE_SCRUB_RE.sub("Theotokos", line[max(0, start - 40):start])
                     if re.search(r'\b(?:God|Christ|Lord|Savior|Jesus|Holy Spirit)\b', before_match, re.IGNORECASE):
                         violations.append({
                             "line": line_num,
@@ -143,6 +141,7 @@ def audit_file(filepath: Path) -> Dict[str, Any]:
         "violations": violations,
         "violation_count": len(violations)
     }
+
 
 def main():
     parser = argparse.ArgumentParser(description="Universal Hieratic Deity Pronoun Auditor")
@@ -161,7 +160,6 @@ def main():
             registry = json.load(f)
         mon_info = registry.get("monuments", {}).get(args.monument, {})
         ws = PROJECT_ROOT / mon_info.get("workspace_dir", f"Liturgical Monuments/{args.monument}")
-        # Look in Draft first, then Final MD
         draft_cand = ws / "Draft" / f"{args.monument}_cohort{args.cohort}_raw_draft.md"
         final_cand = ws / "Final MD" / f"{args.monument}_cohort{args.cohort}.md"
         if final_cand.exists():
@@ -188,6 +186,7 @@ def main():
                 print(f"  Line {v['line']}: Lowercase '{v['pronoun']}' in context: ...{v['context']}...")
 
     sys.exit(0 if res["passed"] else 1)
+
 
 if __name__ == "__main__":
     main()

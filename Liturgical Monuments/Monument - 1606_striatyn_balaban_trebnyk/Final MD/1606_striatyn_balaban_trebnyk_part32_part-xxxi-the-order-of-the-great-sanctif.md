@@ -20,7 +20,7 @@ As a man Thou didst come to the river, O Christ King, and Thou hastest to receiv
 *Tone 8:*
 At the voice of him that cries in the wilderness: "Prepare the way of the Lord," Thou didst come, O Lord, having taken the form of a servant, asking for baptism, though knowing not sin. The waters saw Thee and were afraid; trembling[^2211] the Forerunner became, and cried aloud, saying: "How shall the lamp illuminate the Light? How shall the servant lay his hand upon the Master? Sanctify me and the waters, O Savior, Who takest away the sins of the world."[^2212]
 
-**Deacon:** Wisdom!
+> **Deacon:** "Wisdom!"
 
 *Then the paremias. The reading from the Prophecy of Isaiah.*
 
@@ -60,111 +60,111 @@ At that time, Jesus came from Nazareth of Galilee, and was baptized of John in J
 
 *The litany of the deacon:*[^2235]
 
-**Deacon:** In peace let us pray unto the Lord.
+> **Deacon:** "In peace let us pray unto the Lord."
 
-**Choir:** Lord, have mercy.
+> **Choir:** "Lord, have mercy."
 
-**Deacon:** For the peace from above and for the salvation of our souls, let us pray unto the Lord.
+> **Deacon:** "For the peace from above and for the salvation of our souls, let us pray unto the Lord."
 
-**Deacon:** For the peace of the whole world, for the good estate of the holy churches of God, and for the union of all, let us pray unto the Lord.[^2236]
+> **Deacon:** "For the peace of the whole world, for the good estate of the holy churches of God, and for the union of all, let us pray unto the Lord."[^2236]
 
-**Choir:** Lord, have mercy.
+> **Choir:** "Lord, have mercy."
 
-**Deacon:** For this holy temple, and for them that with faith, reverence, and the fear of God enter therein, let us pray unto the Lord.
+> **Deacon:** "For this holy temple, and for them that with faith, reverence, and the fear of God enter therein, let us pray unto the Lord."
 
-**Choir:** Lord, have mercy.
+> **Choir:** "Lord, have mercy."
 
-**Deacon:** For our Archbishop *[Name]*, for the honorable priesthood, the diaconate in Christ, and for all the clergy and the people, let us pray unto the Lord.[^2237]
+> **Deacon:** "For our Archbishop *[Name]*, for the honorable priesthood, the diaconate in Christ, and for all the clergy and the people, let us pray unto the Lord."[^2237]
 
-**Choir:** Lord, have mercy.
+> **Choir:** "Lord, have mercy."
 
-**Deacon:** For our pious and God-preserved rulers, and for all their court and army, let us pray unto the Lord.[^2238]
+> **Deacon:** "For our pious and God-preserved rulers, and for all their court and army, let us pray unto the Lord."[^2238]
 
-**Choir:** Lord, have mercy.
+> **Choir:** "Lord, have mercy."
 
-**Deacon:** That He will aid them and subdue under their feet every enemy and adversary, let us pray unto the Lord.
+> **Deacon:** "That He will aid them and subdue under their feet every enemy and adversary, let us pray unto the Lord."
 
-**Choir:** Lord, have mercy.
+> **Choir:** "Lord, have mercy."
 
-**Deacon:** For this holy monastery, and for every city and countryside, and for them that in faith dwell therein, let us pray unto the Lord.[^2239]
+> **Deacon:** "For this holy monastery, and for every city and countryside, and for them that in faith dwell therein, let us pray unto the Lord."[^2239]
 
-**Choir:** Lord, have mercy.
+> **Choir:** "Lord, have mercy."
 
-**Deacon:** For seasonable weather, for an abundance of the fruits of the earth, and for peaceful times, let us pray unto the Lord.
+> **Deacon:** "For seasonable weather, for an abundance of the fruits of the earth, and for peaceful times, let us pray unto the Lord."
 
-**Choir:** Lord, have mercy.
+> **Choir:** "Lord, have mercy."
 
-**Deacon:** For them that travel by sea and by land, the sick, the suffering, the captive, and for their salvation, let us pray unto the Lord.
+> **Deacon:** "For them that travel by sea and by land, the sick, the suffering, the captive, and for their salvation, let us pray unto the Lord."
 
-**Choir:** Lord, have mercy.
+> **Choir:** "Lord, have mercy."
 
-**Deacon:** That this water may be sanctified by the power, operation, and descent of the Holy Spirit, let us pray unto the Lord.[^2240]
+> **Deacon:** "That this water may be sanctified by the power, operation, and descent of the Holy Spirit, let us pray unto the Lord."[^2240]
 
-**Choir:** Lord, have mercy.
+> **Choir:** "Lord, have mercy."
 
-**Deacon:** That there may be sent down upon it the grace of redemption, the blessing of Jordan, let us pray unto the Lord.
+> **Deacon:** "That there may be sent down upon it the grace of redemption, the blessing of Jordan, let us pray unto the Lord."
 
-**Choir:** Lord, have mercy.
+> **Choir:** "Lord, have mercy."
 
-**Deacon:** That it may be for the cleansing of souls and bodies unto all that ask and receive it, let us pray unto the Lord.
+> **Deacon:** "That it may be for the cleansing of souls and bodies unto all that ask and receive it, let us pray unto the Lord."
 
-**Choir:** Lord, have mercy.
+> **Choir:** "Lord, have mercy."
 
-**Deacon:** That it may be manifest as sanctification and salvation for our souls, let us pray unto the Lord.[^2241]
+> **Deacon:** "That it may be manifest as sanctification and salvation for our souls, let us pray unto the Lord."[^2241]
 
-**Choir:** Lord, have mercy.
+> **Choir:** "Lord, have mercy."
 
-**Deacon:** That it may be for the driving away and cleansing of every operation and assault of visible and invisible enemies, let us pray unto the Lord.
+> **Deacon:** "That it may be for the driving away and cleansing of every operation and assault of visible and invisible enemies, let us pray unto the Lord."
 
-**Choir:** Lord, have mercy.
+> **Choir:** "Lord, have mercy."
 
-**Deacon:** That it may be manifest for the healing and cleansing of every infirmity of our souls and bodies, let us pray unto the Lord.
+> **Deacon:** "That it may be manifest for the healing and cleansing of every infirmity of our souls and bodies, let us pray unto the Lord."
 
-**Choir:** Lord, have mercy.
+> **Choir:** "Lord, have mercy."
 
-**Deacon:** That the power of the soul-destroying adversary may be drowned in this water, let us pray unto the Lord.[^2242]
+> **Deacon:** "That the power of the soul-destroying adversary may be drowned in this water, let us pray unto the Lord."[^2242]
 
-**Choir:** Lord, have mercy.
+> **Choir:** "Lord, have mercy."
 
-**Deacon:** That we who receive the sanctification of this water may be illuminated by the grace of Christ, let us pray unto the Lord.
+> **Deacon:** "That we who receive the sanctification of this water may be illuminated by the grace of Christ, let us pray unto the Lord."
 
-**Choir:** Lord, have mercy.
+> **Choir:** "Lord, have mercy."
 
-**Deacon:** That it may be unto all who anoint themselves therewith with faith, or drink thereof, for the cleansing of the defilement of flesh and spirit, let us pray unto the Lord.[^2243]
+> **Deacon:** "That it may be unto all who anoint themselves therewith with faith, or drink thereof, for the cleansing of the defilement of flesh and spirit, let us pray unto the Lord."[^2243]
 
-**Choir:** Lord, have mercy.
+> **Choir:** "Lord, have mercy."
 
-**Deacon:** That the purification of the supersubstantial Trinity may come upon it by grace, let us pray unto the Lord.[^2244]
+> **Deacon:** "That the purification of the supersubstantial Trinity may come upon it by grace, let us pray unto the Lord."[^2244]
 
-**Choir:** Lord, have mercy.
+> **Choir:** "Lord, have mercy."
 
-**Deacon:** For them that draw and drink thereof unto the sanctification of souls and bodies, let us pray unto the Lord.
+> **Deacon:** "For them that draw and drink thereof unto the sanctification of souls and bodies, let us pray unto the Lord."
 
-**Choir:** Lord, have mercy.
+> **Choir:** "Lord, have mercy."
 
-**Deacon:** That it may be a fountain of incorruption, and sanctification for homes, let us pray unto the Lord.
+> **Deacon:** "That it may be a fountain of incorruption, and sanctification for homes, let us pray unto the Lord."
 
-**Choir:** Lord, have mercy.
+> **Choir:** "Lord, have mercy."
 
-**Deacon:** That it may be blessed as the streams of Jordan, let us pray unto the Lord.
+> **Deacon:** "That it may be blessed as the streams of Jordan, let us pray unto the Lord."
 
-**Choir:** Lord, have mercy.
+> **Choir:** "Lord, have mercy."
 
-**Deacon:** That the Lord God will hear the voice of our supplication, and have mercy upon us, let us pray unto the Lord.
+> **Deacon:** "That the Lord God will hear the voice of our supplication, and have mercy upon us, let us pray unto the Lord."
 
-**Choir:** Lord, have mercy.
+> **Choir:** "Lord, have mercy."
 
-**Deacon:** That we may be delivered from all affliction, wrath, and need, let us pray unto the Lord.
+> **Deacon:** "That we may be delivered from all affliction, wrath, and need, let us pray unto the Lord."
 
-**Choir:** Lord, have mercy.
+> **Choir:** "Lord, have mercy."
 
-**Deacon:** Help us, save us, have mercy on us, and keep us, O God, by Thy grace.[^2245]
+> **Deacon:** "Help us, save us, have mercy on us, and keep us, O God, by Thy grace."[^2245]
 
-**Choir:** Lord, have mercy.
+> **Choir:** "Lord, have mercy."
 
-**Deacon:** Commemorating our all-holy, pure, most blessed and glorious Lady, the Theotokos and Ever-Virgin Mary, with all the saints, let us commend ourselves and one another, and our whole life unto Christ our God.[^2246]
+> **Deacon:** "Commemorating our all-holy, pure, most blessed and glorious Lady, the Theotokos and Ever-Virgin Mary, with all the saints, let us commend ourselves and one another, and our whole life unto Christ our God."[^2246]
 
-**Choir:** To Thee, O Lord.
+> **Choir:** "To Thee, O Lord."
 
 *While this is being said by the deacon, the priest prays, saying this prayer secretly to himself. But if there is no deacon, after the completion of the litany he says it:*[^2247]
 
@@ -238,11 +238,11 @@ And grant unto it the grace of redemption, the blessing of the Jordan; make it a
 
 Grant unto all who touch it, and partake of it, and anoint themselves with it, and taste of it, sanctification, blessing, purification, health. And save, O Lord, Thy faithful servants, our rulers, (Name), and preserve them under Thy shelter in peace; and subdue under them every enemy and adversary; and grant unto them all petitions unto salvation, and life eternal;[^2285] that by all elements, and men, and Angels, visible and invisible, Thy most holy Name may be glorified, with the Father and with the Holy Spirit, now and ever, and unto ages of ages.[^2286]
 
-**People:** Amen.
+> **People:** "Amen."
 
-**Priest:** Peace be unto all.
+> **Priest:** "Peace be unto all."
 
-**Deacon:**
+> **Deacon:** ""
 
 Bow your heads unto the Lord.
 
@@ -362,7 +362,7 @@ The manifestation of the Trinity took place in the Jordan; for that transcendent
 [^2266]: Exact citation of Septuagint Psalm 76:17 [LXX 76:16 / MT 77:16]: "The waters saw Thee, O God, the waters saw Thee and were afraid." Followed by LXX Psalm 113:3 [MT 114:3]: "The sea saw it and fled; Jordan was driven back."
 [^2267]: Continues the clause from `Page_0798.jpg` (`съходѧ́щъ, и҆ / лѣта́ющъ на себѣ̀`).
 [^2268]: Scriptural and liturgical tapestry combining LXX Psalm 113:4 [MT 114:4] ("The mountains skipped like rams"), LXX Psalm 76:18 [MT 77:17] ("The clouds gave forth a voice"), the Nicene Creed ("Light of Light, true God of true God"), Philippians 2:7 ("in the form of a servant"), and 1 Corinthians 15:55 ("the sting of death").
-[^2269]: Introductory transitional clause leading into the thrice-repeated solemn exclamation: `Ве́лїи є҆сѝ Го́споди...` ("Great art Thou, O Lord..."). In strict compliance with MTS-1 Anti-Slop mandates, Slavonic `тѣ́мже` is rendered strictly as "Therefore" rather than the banned pseudo-archaic "Therefore", and `чю́доу́щесѧ` is translated as "marveling".
+[^2269]: Introductory transitional clause leading into the thrice-repeated solemn exclamation: `Ве́лїи є҆сѝ Го́споди...` ("Great art Thou, O Lord..."). In strict compliance with MTS-1 Anti-Slop mandates, Slavonic `тѣ́мже` is rendered strictly as "Therefore" rather than the banned pseudo-archaic "Wherefore", and `чю́доу́щесѧ` is translated as "marveling".
 [^2270]: The foundational hieratic exclamation of the Great Blessing of Waters: `Μέγας εἶ, Κύριε, καὶ θαυμαστὰ τὰ ἔργα σου, καὶ οὐδεὶς λόγος ἐξαρκέσει πρὸς ὕμνον τῶν θαυμασίων σου` (derived from LXX Psalm 85:10, 138:14; Revelation 15:3). The celebrant intones this thrice aloud, dipping the three-branched candle (troikirion) or triple candle into the water to sign it with the Cross.
 [^2271]: Marginal rubric: `Трєми́ свѣща́ми знамена́ти` ("To make the sign of the Cross with three candles"). The priest blesses the waters with three lighted tapers tied together, dipping them into the basin during the thrice-repeated exclamation.
 [^2272]: Patristic cosmology of the four elements (earth, air, fire, water) and the coronation of the four seasons of the year, echoing LXX Psalm 64:12 [MT 65:11]: "Thou wilt bless the crown of the year with Thy goodness." The clause continues onto the following leaf (`Page_0801.jpg`).

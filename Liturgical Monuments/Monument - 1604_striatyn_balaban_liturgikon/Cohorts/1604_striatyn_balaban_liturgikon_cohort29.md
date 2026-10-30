@@ -1,12 +1,12 @@
 === LEAF p281 ===
 
-**[Left Page — Fol. 280v (p. 550 [ф҃н])]**
+**[Left Page — Fol. 280v (p. 550 (*ф҃н*))]**
 
 *Prayers*
 
 **Priest:** "...petitions unto salvation; show us to be sons of the light and sons of the day,[^872] and heirs of Thine eternal good things.[^873] Remember, O Lord, in the multitude of Thy compassions,[^874] all Thy people: those present and praying with us, and our absent brethren, who are on land, at sea, and in every place of Thy dominion,[^875] who desire the help of Thy loving-kindness; and grant unto all..."
 
-**[Right Page — Fol. 281r (p. 551 [ф҃на])]**
+**[Right Page — Fol. 281r (p. 551 (*ф҃на*))]**
 
 *At Matins*
 
@@ -20,13 +20,13 @@
 
 === LEAF p282 ===
 
-**[Left Page — Fol. 281v (p. 552 [ф҃нв])]**
+**[Left Page — Fol. 281v (p. 552 (*ф҃нв*))]**
 
 *Prayers*
 
 **Priest:** "...Wonderworker, Almighty, Ruler of all: we all worship Thee, and unto Thee do we pray, calling upon Thy mercies and Thy compassions for help and protection unto our lowliness. Remember therefore, O Lord, Thy servants, and accept the morning prayers of us all as incense before Thee;[^879] and make not one of us reprobate,[^880] but preserve us all through Thy compassions."
 
-**[Right Page — Fol. 282r (p. 553 [ф҃нг])]**
+**[Right Page — Fol. 282r (p. 553 (*ф҃нг*))]**
 
 *At Matins*
 
@@ -37,14 +37,14 @@
 
 === LEAF p283 ===
 
-**[Left Page — Fol. 282v (p. 554 [ф҃нд])]**
+**[Left Page — Fol. 282v (p. 554 (*ф҃нд*))]**
 
 *Prayers*
 
 *Sixth Prayer:*[^883]
 **Priest:** "We give thanks unto Thee, O Lord God of our salvations, that Thou dost all things unto the beneficence of our life, that we may ever look unto Thee, the Savior and Benefactor of our souls; for Thou hast refreshed us during the past measure of the night,[^884] and hast raised us up from our beds, and hast set us unto the worship..."
 
-**[Right Page — Fol. 283r (p. 555 [ф҃нє])]**
+**[Right Page — Fol. 283r (p. 555 (*ф҃нє*))]**
 
 *At Matins*
 
@@ -52,7 +52,7 @@
 
 === LEAF p284 ===
 
-**[Left Page — Fol. 283v (p. 556 [ф҃нѕ])]**
+**[Left Page — Fol. 283v (p. 556 (*ф҃нѕ*))]**
 
 *Prayers*
 
@@ -64,7 +64,7 @@
 *Seventh Prayer:*[^890]
 **Priest:** "O God and Father of our Lord Jesus Christ,[^891] Who hast raised us up from sleep, and hast gathered us together at the hour of this prayer: grant us grace in the opening of our mouth,[^892] and accept our thanksgivings according to our strength,..."
 
-**[Right Page — Fol. 284r (p. 557 [ф҃нз])]**
+**[Right Page — Fol. 284r (p. 557 (*ф҃нз*))]**
 
 *At Matins*
 
@@ -72,7 +72,7 @@
 
 === LEAF p285 ===
 
-**[Left Page — Fol. 284v (p. 558 [ф҃ни])]**
+**[Left Page — Fol. 284v (p. 558 (*ф҃ни*))]**
 
 *Prayers*
 
@@ -84,7 +84,7 @@
 *Eighth Prayer:*[^897]
 **Priest:** "O Lord our God, Who hast driven away from us the sluggishness of sleep,[^898] and hast called us with a holy calling,[^899]..."
 
-**[Right Page — Fol. 285r (p. 559 [ф҃нѳ])]**
+**[Right Page — Fol. 285r (p. 559 (*ф҃нѳ*))]**
 
 *At Matins*
 
@@ -92,7 +92,7 @@
 
 === LEAF p286 ===
 
-**[Left Page — Fol. 285v (p. 560 [ф҃ѯ])]**
+**[Left Page — Fol. 285v (p. 560 (*ф҃ѯ*))]**
 
 *Prayers*
 
@@ -104,7 +104,7 @@
 *Ninth Prayer:*[^905]
 **Priest:** "O Lord our God, Who through repentance hast granted remission unto men,..."
 
-**[Right Page — Fol. 286r (p. 561 [ф҃ѯа])]**
+**[Right Page — Fol. 286r (p. 561 (*ф҃ѯа*))]**
 
 *At Matins*
 
@@ -112,13 +112,13 @@
 
 === LEAF p287 ===
 
-**[Left Page — Fol. 286v (p. 562 [ф҃ѯв])]**
+**[Left Page — Fol. 286v (p. 562 (*ф҃ѯв*))]**
 
 *Prayers*
 
 **Priest:** "...Who alone hast power to forgive sins;[^909] create [a clean heart] in us, and uphold us with Thy free Spirit,[^910] and show forth unto us the joy of Thy salvation;[^911] cast us not away from Thy presence,[^912] but be well-pleased, as a good God and the Lover of mankind, even unto our last breath, that we may offer unto Thee a sacrifice of righteousness and an oblation upon Thy holy altars."[^913]
 
-**[Right Page — Fol. 287r (p. 563 [ф҃ѯг])]**
+**[Right Page — Fol. 287r (p. 563 (*ф҃ѯг*))]**
 
 *At Matins*
 
@@ -130,7 +130,7 @@
 
 === LEAF p288 ===
 
-**[Left Page — Fol. 287v (p. 564 [ф҃ѯд])]**
+**[Left Page — Fol. 287v (p. 564 (*ф҃ѯд*))]**
 
 *Prayers*
 
@@ -139,7 +139,7 @@
 *Exclamation:*[^919]
 **Priest:** "For all the heavenly powers praise Thee, and unto Thee do we offer up glory, to the Father, and to the Son, and to the [Holy Spirit, now and ever, and unto ages of ages. Amen]."
 
-**[Right Page — Fol. 288r (p. 565 [ф҃ѯє])]**
+**[Right Page — Fol. 288r (p. 565 (*ф҃ѯє*))]**
 
 *At Matins*
 
@@ -148,13 +148,13 @@
 
 === LEAF p289 ===
 
-**[Left Page — Fol. 288v (p. 566 [ф҃ѯѕ])]**
+**[Left Page — Fol. 288v (p. 566 (*ф҃ѯѕ*))]**
 
 *Prayers*
 
 **Priest:** "...[shine in our hearts the true Sun] of Thy righteousness;[^922] enlighten our mind, and preserve all our senses, that walking becomingly as in the day[^923] along the path of Thy commandments,[^924] we may attain unto life eternal; for with Thee is the fountain of life,[^925] and may be vouchsafed to be in the enjoyment of Thine unapproachable [light].[^926]"
 
-**[Right Page — Fol. 289r (p. 567 [ф҃ѯз])]**
+**[Right Page — Fol. 289r (p. 567 (*ф҃ѯз*))]**
 
 *Exclamation:*[^927]
 **Priest:** "[For Thine is the dominion, and Thine is] the kingdom,[^928] and the power, and the glory, of the Father, and of the Son, and of the Holy Spirit, now, and ever, and unto ages of ages. Amen."
@@ -165,13 +165,13 @@
 
 === LEAF p290 ===
 
-**[Left Page — Fol. 289v (p. 568 [ф҃ѯи])]**
+**[Left Page — Fol. 289v (p. 568 (*ф҃ѯи*))]**
 
 ## COLOPHON
 
 **Hedeon Balaban, Bishop of Lviv:** "Making an end, we have reached the impression[^930] of this book, as we posited beforehand, applying ourselves unto it: I, the humble Hedeon Balaban, Bishop of Lviv,[^931] Exarch of the Ecumenical Throne,[^932] together with the excellent patron, the most noble Lord Teodor Balaban.[^933] In the attainment whereof of such an undertaking, we acknowledge the grace of God as supreme, advancing unto things that lie ahead,[^934] being empowered by it, with fervent zeal toward us, showing ourselves generally grateful unto you in these things."
 
-**[Right Page — Fol. 290r (p. 569 [ф҃ѯѳ])]**
+**[Right Page — Fol. 290r (p. 569 (*ф҃ѯѳ*))]**
 
 **Hedeon Balaban, Bishop of Lviv:** "Whereinsoever the corrector[^935] of this transcribed book has erred in anything, or the printer has not kept watch over any place: we pray you, brethren, grant forgiveness; for it is customary that something of this kind should occur in such matters, and more so at the beginning, when it has not been observed as is fitting.[^936]
 

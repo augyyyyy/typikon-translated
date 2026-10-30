@@ -117,41 +117,321 @@
       ]
     },
     "per_cohort_telemetry": [
-      {"cohort": 1, "leaves": "p1..p10", "subagent_sec": 540.6, "draft_words": 2207, "src_words": 1489, "footnotes": 8, "char_ratio": 1.35},
-      {"cohort": 2, "leaves": "p11..p20", "subagent_sec": 624.0, "draft_words": 3401, "src_words": 2334, "footnotes": 7, "char_ratio": 1.59},
-      {"cohort": 3, "leaves": "p21..p30", "subagent_sec": 867.7, "draft_words": 3101, "src_words": 2260, "footnotes": 15, "char_ratio": 1.48},
-      {"cohort": 4, "leaves": "p31..p40", "subagent_sec": 825.7, "draft_words": 2670, "src_words": 2171, "footnotes": 16, "char_ratio": 1.29},
-      {"cohort": 5, "leaves": "p41..p50", "subagent_sec": 835.0, "draft_words": 2801, "src_words": 2217, "footnotes": 13, "char_ratio": 1.34},
-      {"cohort": 6, "leaves": "p51..p60", "subagent_sec": 591.3, "draft_words": 2891, "src_words": 2131, "footnotes": 10, "char_ratio": 1.39},
-      {"cohort": 7, "leaves": "p61..p70", "subagent_sec": 684.6, "draft_words": 2595, "src_words": 2106, "footnotes": 12, "char_ratio": 1.29},
-      {"cohort": 8, "leaves": "p71..p80", "subagent_sec": 507.5, "draft_words": 2798, "src_words": 2185, "footnotes": 10, "char_ratio": 1.35},
-      {"cohort": 9, "leaves": "p81..p90", "subagent_sec": 640.4, "draft_words": 2775, "src_words": 2395, "footnotes": 10, "char_ratio": 1.28},
-      {"cohort": 10, "leaves": "p91..p100", "subagent_sec": 741.5, "draft_words": 2667, "src_words": 2305, "footnotes": 10, "char_ratio": 1.29},
-      {"cohort": 11, "leaves": "p101..p110", "subagent_sec": 815.4, "draft_words": 2793, "src_words": 2326, "footnotes": 10, "char_ratio": 1.31},
-      {"cohort": 12, "leaves": "p111..p120", "subagent_sec": 625.9, "draft_words": 2614, "src_words": 2300, "footnotes": 10, "char_ratio": 1.27},
-      {"cohort": 13, "leaves": "p121..p130", "subagent_sec": 790.4, "draft_words": 3022, "src_words": 2298, "footnotes": 10, "char_ratio": 1.47},
-      {"cohort": 14, "leaves": "p131..p140", "subagent_sec": 655.6, "draft_words": 2841, "src_words": 2203, "footnotes": 10, "char_ratio": 1.35},
-      {"cohort": 15, "leaves": "p141..p150", "subagent_sec": 594.9, "draft_words": 2802, "src_words": 2007, "footnotes": 9, "char_ratio": 1.40},
-      {"cohort": 16, "leaves": "p151..p160", "subagent_sec": 608.6, "draft_words": 3150, "src_words": 2075, "footnotes": 12, "char_ratio": 1.49},
-      {"cohort": 17, "leaves": "p161..p170", "subagent_sec": 577.6, "draft_words": 2732, "src_words": 2430, "footnotes": 13, "char_ratio": 1.27},
-      {"cohort": 18, "leaves": "p171..p180", "subagent_sec": 446.8, "draft_words": 2874, "src_words": 2375, "footnotes": 12, "char_ratio": 1.35},
-      {"cohort": 19, "leaves": "p181..p190", "subagent_sec": 557.0, "draft_words": 2825, "src_words": 2345, "footnotes": 14, "char_ratio": 1.33},
-      {"cohort": 20, "leaves": "p191..p200", "subagent_sec": 689.1, "draft_words": 2614, "src_words": 2310, "footnotes": 17, "char_ratio": 1.21},
-      {"cohort": 21, "leaves": "p201..p210", "subagent_sec": 523.4, "draft_words": 2630, "src_words": 2105, "footnotes": 16, "char_ratio": 1.40},
-      {"cohort": 22, "leaves": "p211..p220", "subagent_sec": 757.8, "draft_words": 2943, "src_words": 2516, "footnotes": 13, "char_ratio": 1.31},
-      {"cohort": 23, "leaves": "p221..p230", "subagent_sec": 668.5, "draft_words": 3041, "src_words": 2554, "footnotes": 11, "char_ratio": 1.33},
-      {"cohort": 24, "leaves": "p231..p240", "subagent_sec": 773.4, "draft_words": 2916, "src_words": 2440, "footnotes": 10, "char_ratio": 1.30},
-      {"cohort": 25, "leaves": "p241..p250", "subagent_sec": 725.3, "draft_words": 3017, "src_words": 2473, "footnotes": 10, "char_ratio": 1.31},
-      {"cohort": 26, "leaves": "p251..p260", "subagent_sec": 566.5, "draft_words": 3133, "src_words": 2409, "footnotes": 10, "char_ratio": 1.39},
-      {"cohort": 27, "leaves": "p261..p270", "subagent_sec": 407.6, "draft_words": 2886, "src_words": 1831, "footnotes": 10, "char_ratio": 1.34},
-      {"cohort": 28, "leaves": "p271..p280", "subagent_sec": 560.0, "draft_words": 2887, "src_words": 1912, "footnotes": 10, "char_ratio": 1.42},
-      {"cohort": 29, "leaves": "p281..p290", "subagent_sec": 706.6, "draft_words": 2975, "src_words": 1918, "footnotes": 10, "char_ratio": 1.48},
-      {"cohort": 30, "leaves": "p291..p300", "subagent_sec": 678.2, "draft_words": 2829, "src_words": 2279, "footnotes": 10, "char_ratio": 1.40},
-      {"cohort": 31, "leaves": "p301..p310", "subagent_sec": 493.4, "draft_words": 2888, "src_words": 2501, "footnotes": 10, "char_ratio": 1.34},
-      {"cohort": 32, "leaves": "p311..p320", "subagent_sec": 475.2, "draft_words": 2991, "src_words": 2647, "footnotes": 10, "char_ratio": 1.33},
-      {"cohort": 33, "leaves": "p321..p330", "subagent_sec": 534.9, "draft_words": 2985, "src_words": 2412, "footnotes": 10, "char_ratio": 1.38},
-      {"cohort": 34, "leaves": "p331..p340", "subagent_sec": 658.6, "draft_words": 2276, "src_words": 1934, "footnotes": 10, "char_ratio": 1.21},
-      {"cohort": 35, "leaves": "p341..p345", "subagent_sec": 253.7, "draft_words": 364, "src_words": 291, "footnotes": 5, "char_ratio": 1.08}
+      {
+        "cohort": 1,
+        "leaves": "p1..p10",
+        "subagent_sec": 540.6,
+        "draft_words": 2207,
+        "src_words": 1489,
+        "footnotes": 8,
+        "char_ratio": 1.35
+      },
+      {
+        "cohort": 2,
+        "leaves": "p11..p20",
+        "subagent_sec": 624.0,
+        "draft_words": 3401,
+        "src_words": 2334,
+        "footnotes": 7,
+        "char_ratio": 1.59
+      },
+      {
+        "cohort": 3,
+        "leaves": "p21..p30",
+        "subagent_sec": 867.7,
+        "draft_words": 3101,
+        "src_words": 2260,
+        "footnotes": 15,
+        "char_ratio": 1.48
+      },
+      {
+        "cohort": 4,
+        "leaves": "p31..p40",
+        "subagent_sec": 825.7,
+        "draft_words": 2670,
+        "src_words": 2171,
+        "footnotes": 16,
+        "char_ratio": 1.29
+      },
+      {
+        "cohort": 5,
+        "leaves": "p41..p50",
+        "subagent_sec": 835.0,
+        "draft_words": 2801,
+        "src_words": 2217,
+        "footnotes": 13,
+        "char_ratio": 1.34
+      },
+      {
+        "cohort": 6,
+        "leaves": "p51..p60",
+        "subagent_sec": 591.3,
+        "draft_words": 2891,
+        "src_words": 2131,
+        "footnotes": 10,
+        "char_ratio": 1.39
+      },
+      {
+        "cohort": 7,
+        "leaves": "p61..p70",
+        "subagent_sec": 684.6,
+        "draft_words": 2595,
+        "src_words": 2106,
+        "footnotes": 12,
+        "char_ratio": 1.29
+      },
+      {
+        "cohort": 8,
+        "leaves": "p71..p80",
+        "subagent_sec": 507.5,
+        "draft_words": 2798,
+        "src_words": 2185,
+        "footnotes": 10,
+        "char_ratio": 1.35
+      },
+      {
+        "cohort": 9,
+        "leaves": "p81..p90",
+        "subagent_sec": 640.4,
+        "draft_words": 2775,
+        "src_words": 2395,
+        "footnotes": 10,
+        "char_ratio": 1.28
+      },
+      {
+        "cohort": 10,
+        "leaves": "p91..p100",
+        "subagent_sec": 741.5,
+        "draft_words": 2667,
+        "src_words": 2305,
+        "footnotes": 10,
+        "char_ratio": 1.29
+      },
+      {
+        "cohort": 11,
+        "leaves": "p101..p110",
+        "subagent_sec": 815.4,
+        "draft_words": 2793,
+        "src_words": 2326,
+        "footnotes": 10,
+        "char_ratio": 1.31
+      },
+      {
+        "cohort": 12,
+        "leaves": "p111..p120",
+        "subagent_sec": 625.9,
+        "draft_words": 2614,
+        "src_words": 2300,
+        "footnotes": 10,
+        "char_ratio": 1.27
+      },
+      {
+        "cohort": 13,
+        "leaves": "p121..p130",
+        "subagent_sec": 790.4,
+        "draft_words": 3022,
+        "src_words": 2298,
+        "footnotes": 10,
+        "char_ratio": 1.47
+      },
+      {
+        "cohort": 14,
+        "leaves": "p131..p140",
+        "subagent_sec": 655.6,
+        "draft_words": 2841,
+        "src_words": 2203,
+        "footnotes": 10,
+        "char_ratio": 1.35
+      },
+      {
+        "cohort": 15,
+        "leaves": "p141..p150",
+        "subagent_sec": 594.9,
+        "draft_words": 2802,
+        "src_words": 2007,
+        "footnotes": 9,
+        "char_ratio": 1.4
+      },
+      {
+        "cohort": 16,
+        "leaves": "p151..p160",
+        "subagent_sec": 608.6,
+        "draft_words": 3150,
+        "src_words": 2075,
+        "footnotes": 12,
+        "char_ratio": 1.49
+      },
+      {
+        "cohort": 17,
+        "leaves": "p161..p170",
+        "subagent_sec": 577.6,
+        "draft_words": 2732,
+        "src_words": 2430,
+        "footnotes": 13,
+        "char_ratio": 1.27
+      },
+      {
+        "cohort": 18,
+        "leaves": "p171..p180",
+        "subagent_sec": 446.8,
+        "draft_words": 2874,
+        "src_words": 2375,
+        "footnotes": 12,
+        "char_ratio": 1.35
+      },
+      {
+        "cohort": 19,
+        "leaves": "p181..p190",
+        "subagent_sec": 557.0,
+        "draft_words": 2825,
+        "src_words": 2345,
+        "footnotes": 14,
+        "char_ratio": 1.33
+      },
+      {
+        "cohort": 20,
+        "leaves": "p191..p200",
+        "subagent_sec": 689.1,
+        "draft_words": 2614,
+        "src_words": 2310,
+        "footnotes": 17,
+        "char_ratio": 1.21
+      },
+      {
+        "cohort": 21,
+        "leaves": "p201..p210",
+        "subagent_sec": 523.4,
+        "draft_words": 2630,
+        "src_words": 2105,
+        "footnotes": 16,
+        "char_ratio": 1.4
+      },
+      {
+        "cohort": 22,
+        "leaves": "p211..p220",
+        "subagent_sec": 757.8,
+        "draft_words": 2943,
+        "src_words": 2516,
+        "footnotes": 13,
+        "char_ratio": 1.31
+      },
+      {
+        "cohort": 23,
+        "leaves": "p221..p230",
+        "subagent_sec": 668.5,
+        "draft_words": 3041,
+        "src_words": 2554,
+        "footnotes": 11,
+        "char_ratio": 1.33
+      },
+      {
+        "cohort": 24,
+        "leaves": "p231..p240",
+        "subagent_sec": 773.4,
+        "draft_words": 2916,
+        "src_words": 2440,
+        "footnotes": 10,
+        "char_ratio": 1.3
+      },
+      {
+        "cohort": 25,
+        "leaves": "p241..p250",
+        "subagent_sec": 725.3,
+        "draft_words": 3017,
+        "src_words": 2473,
+        "footnotes": 10,
+        "char_ratio": 1.31
+      },
+      {
+        "cohort": 26,
+        "leaves": "p251..p260",
+        "subagent_sec": 566.5,
+        "draft_words": 3133,
+        "src_words": 2409,
+        "footnotes": 10,
+        "char_ratio": 1.39
+      },
+      {
+        "cohort": 27,
+        "leaves": "p261..p270",
+        "subagent_sec": 407.6,
+        "draft_words": 2886,
+        "src_words": 1831,
+        "footnotes": 10,
+        "char_ratio": 1.34
+      },
+      {
+        "cohort": 28,
+        "leaves": "p271..p280",
+        "subagent_sec": 560.0,
+        "draft_words": 2887,
+        "src_words": 1912,
+        "footnotes": 10,
+        "char_ratio": 1.42
+      },
+      {
+        "cohort": 29,
+        "leaves": "p281..p290",
+        "subagent_sec": 706.6,
+        "draft_words": 2975,
+        "src_words": 1918,
+        "footnotes": 10,
+        "char_ratio": 1.48
+      },
+      {
+        "cohort": 30,
+        "leaves": "p291..p300",
+        "subagent_sec": 678.2,
+        "draft_words": 2829,
+        "src_words": 2279,
+        "footnotes": 10,
+        "char_ratio": 1.4
+      },
+      {
+        "cohort": 31,
+        "leaves": "p301..p310",
+        "subagent_sec": 493.4,
+        "draft_words": 2888,
+        "src_words": 2501,
+        "footnotes": 10,
+        "char_ratio": 1.34
+      },
+      {
+        "cohort": 32,
+        "leaves": "p311..p320",
+        "subagent_sec": 475.2,
+        "draft_words": 2991,
+        "src_words": 2647,
+        "footnotes": 10,
+        "char_ratio": 1.33
+      },
+      {
+        "cohort": 33,
+        "leaves": "p321..p330",
+        "subagent_sec": 534.9,
+        "draft_words": 2985,
+        "src_words": 2412,
+        "footnotes": 10,
+        "char_ratio": 1.38
+      },
+      {
+        "cohort": 34,
+        "leaves": "p331..p340",
+        "subagent_sec": 658.6,
+        "draft_words": 2276,
+        "src_words": 1934,
+        "footnotes": 10,
+        "char_ratio": 1.21
+      },
+      {
+        "cohort": 35,
+        "leaves": "p341..p345",
+        "subagent_sec": 253.7,
+        "draft_words": 364,
+        "src_words": 291,
+        "footnotes": 5,
+        "char_ratio": 1.08
+      }
     ]
   },
   "dimension_2_small_pause_gate_and_self_healing": {
@@ -161,22 +441,41 @@
       {
         "anomaly_id": "SH-01",
         "stage": "Phase 1 Small Pause Gate (Gate 2: Hieratic Pronouns)",
-        "cohorts_affected": [7],
-        "leaves_affected": ["p66", "p69"],
+        "cohorts_affected": [
+          7
+        ],
+        "leaves_affected": [
+          "p66",
+          "p69"
+        ],
         "description": "2 uncapitalized Holy Trinity Deity pronouns in Cohort 7 raw draft.",
         "resolution": "Automatically healed on first pass by attempt_deterministic_self_healing() in scripts/autonomous_orchestrator.py; re-verified at 100% pass with 0 subagent retries."
       },
       {
         "anomaly_id": "SH-02",
         "stage": "Phase 2 UniversalPublicationEngine Step 3 (Cohort & Apparatus Self-Healer)",
-        "cohorts_affected": [2, 3, 7, 11, 16, 20, 31],
+        "cohorts_affected": [
+          2,
+          3,
+          7,
+          11,
+          16,
+          20,
+          31
+        ],
         "description": "Minor MTS-1 lexical/slop/-eth drift across 7 cohort files (including footnote apparatus text).",
         "resolution": "Automatically synchronized on disk by UniversalPublicationEngine._self_heal_cohorts_and_footnotes() in scripts/compile_final_edition.py."
       },
       {
         "anomaly_id": "SH-03",
         "stage": "Phase 2 verify_publication_edition.py (Gate 5A: Unparenthesized Cyrillic)",
-        "cohorts_affected": [12, 13, 14, 21, 34],
+        "cohorts_affected": [
+          12,
+          13,
+          14,
+          21,
+          34
+        ],
         "violations_count": 98,
         "description": "Flash subagents enclosed Slavonic Heirmos incipits (e.g. '[Коня и всадника...]:*' in Tone 5 Cohorts 12-13) and Cyrillic quire numerals ('| 1 [а҃] |' on leaf p337 in Cohort 34) in square brackets [...] rather than parentheses (...). Gate 5A strips parenthesized Cyrillic (\\([^)]*[\\u0400-\\u04FF][^)]*\\)) before checking for residual Cyrillic in body lines.",
         "resolution": "Healed via regex replacement converting bracketed Cyrillic \\[([^\\]\\^]*[\\u0400-\\u04FF\\uA640-\\uA69F][^\\]]*)\\] -> (\\1) while preserving [^N] footnote markers."
@@ -184,8 +483,12 @@
       {
         "anomaly_id": "SH-04",
         "stage": "Phase 2 verify_publication_edition.py (Gate 7A: Unnormalized 'Model:' label)",
-        "cohorts_affected": [26],
-        "leaves_affected": ["p259"],
+        "cohorts_affected": [
+          26
+        ],
+        "leaves_affected": [
+          "p259"
+        ],
         "violations_count": 2,
         "description": "Rubric '*Other Stichera to the Saint (Nicholas), in the same Tone and Model:*' triggered Gate 7A regex matching '\\bModel:'.",
         "resolution": "Normalized to canonical 3-layer Podoben reference '*Other Stichera to the Saint (Nicholas), in the same Tone, Podoben: \"Called from on High\" (Званный свыше):*'."
@@ -193,8 +496,14 @@
       {
         "anomaly_id": "SH-05",
         "stage": "Phase 2 verify_publication_edition.py (Gate 7B: 'Podoben:' missing parenthetical Slavonic witness)",
-        "cohorts_affected": [8, 20],
-        "leaves_affected": ["p72", "p185"],
+        "cohorts_affected": [
+          8,
+          20
+        ],
+        "leaves_affected": [
+          "p72",
+          "p185"
+        ],
         "violations_count": 4,
         "description": "(1) Cohort 8 had '*Another Canon, Ode 1, to the Most Holy Birthgiver of God. Heirmos: The same (Podoben: \"Every nature bends the knee\"):*' without Cyrillic witness. (2) Cohort 20 leaf p185 had '*Kontakion, Tone 8, Podoben:*[^218]' because Fiol's physical rubric printed bare 'т҃ъ гла и҃ · по[добенъ]' without naming the model melody.",
         "resolution": "Restored parenthetical Slavonic witnesses '(Всяко естество)' in Cohort 8 and '(*подобенъ*)' in Cohort 20."
@@ -202,7 +511,9 @@
       {
         "anomaly_id": "SH-06",
         "stage": "Phase 1 Image Extraction (scripts/extract_cohort_leaves.py)",
-        "cohorts_affected": [1],
+        "cohorts_affected": [
+          1
+        ],
         "description": "OneDrive cloud reparse placeholder folder (tag 0x9000e01a) at Source Text/images caused directory junction creation to skip copying cached JPGs from Drive E vault.",
         "resolution": "Patched scripts/extract_cohort_leaves.py to explicitly copy found_file to target_local_canon whenever target_local_canon does not exist on disk."
       }
@@ -212,7 +523,7 @@
     "total_queued_leaves": 5,
     "true_positive_cruxes": 3,
     "false_positive_noise": 2,
-    "precision_rate": 0.60,
+    "precision_rate": 0.6,
     "queued_items_audit": [
       {
         "leaf_num": 14,
@@ -280,32 +591,128 @@
   "dimension_5_atomic_tagging_blueprint": {
     "total_cohort_paragraphs_analyzed": 2614,
     "variable_propers_classes": [
-      {"class_id": "PROPER_CANON_TROPARION", "count": 889, "regex": "^\\*(?:Troparion(?:\\s+\\d+)?(?:,\\s*Tone\\s+\\d+)?)\\s*:\\*\\s+(.+)$"},
-      {"class_id": "PROPER_THEOTOKION", "count": 302, "regex": "^\\*(?:Tone\\s+\\d+\\.\\s*)?(?:Theotokion(?:\\s+\\(\\s*Dogmatikon\\s*\\))?|Another\\s+Theotokion)(?:,\\s*Tone\\s+\\d+)?[^*]*?:\\*\\s*(.+)$"},
-      {"class_id": "PROPER_STAVROTHEOTOKION", "count": 18, "regex": "^\\*(?:Staurotheotokion|Stavrotheotokion|Cross-Theotokion)[^*]*?:\\*\\s*(.+)$"},
-      {"class_id": "PROPER_HEIRMOS", "count": 298, "regex": "^\\*(?:(?:The\\s+)?Resurrectional\\s+Canon|Another\\s+Canon|Canon|Ode\\s+\\d+)[^*]*?Heirmos:\\s*([^*]+?)\\*(?:\\s+(.+))?$"},
-      {"class_id": "PROPER_STICHERON", "count": 292, "regex": "^\\*(?:Sticheron(?:\\s+\\d+)?|Other\\s+Stichera|Tone\\s+\\d+,\\s*Podoben:|Evangelical\\s+Sticheron\\s+\\d+)[^*]*?:\\*\\s*(.*)$"},
-      {"class_id": "PROPER_SESSIONAL_KATHISMA", "count": 52, "regex": "^\\*(?:After\\s+the\\s+\\d+(?:st|nd|rd|th)\\s+(?:Stichologia|Kathisma)[^*]*?|Sessional\\s+Hymn[^*]*?|Another\\s+Sessional\\s+Hymn[^*]*?):\\*\\s*(.*)$"},
-      {"class_id": "PROPER_KATAVASIA", "count": 32, "regex": "^\\*Katavasia:\\s*([^*]+)\\*$"},
-      {"class_id": "PROPER_MARTYRIKON", "count": 32, "regex": "^\\*Martyri[ck]on(?:,\\s*Tone\\s+\\d+)?:\\*\\s*(.+)$"},
-      {"class_id": "PROPER_EXAPOSTILARION", "count": 29, "regex": "^\\*(?:Exapost[ei]larion(?:\\s+\\d+)?|Photogogi[ck](?:on)?)[^*]*?:\\*\\s*(.*)$"},
-      {"class_id": "PROPER_ANABATHMOI_ANTIPHON", "count": 24, "regex": "^\\*(?:Gradual\\s+Hymns|Songs\\s+of\\s+Ascent|Antiphon\\s+\\d+)[^*]*?:\\*\\s*(.*)$"},
-      {"class_id": "PROPER_BEATITUDES_TROPARION", "count": 16, "regex": "^\\*(?:On\\s+the\\s+Beatitudes|In\\s+the\\s+Beatitudes|Beatitudes)[^*]*?:\\*\\s*(.*)$"},
-      {"class_id": "PROPER_KONTAKION", "count": 15, "regex": "^\\*Kontakion[^*]*?:\\*\\s*(.*)$"},
-      {"class_id": "PROPER_IKOS", "count": 8, "regex": "^\\*Ikos[^*]*?:\\*\\s*(.+)$"},
-      {"class_id": "PROPER_HYPAKOE", "count": 8, "regex": "^\\*(?:Then\\s+the\\s+)?(?:Hypakoe|Ypako[eë])(?:,\\s*Tone\\s+\\d+)?[^*]*?:\\*\\s*(.+)$"},
-      {"class_id": "PROPER_TRIADIKON", "count": 12, "regex": "^\\*Triadi[ck]on[^*]*?:\\*\\s*(.+)$"},
-      {"class_id": "PROPER_NEKROSIMON", "count": 14, "regex": "^\\*(?:For\\s+the\\s+Departed|Troparion\\s+for\\s+the\\s+Departed|Another,\\s+for\\s+the\\s+departed)[^*]*?:\\*\\s*(.+)$"}
+      {
+        "class_id": "PROPER_CANON_TROPARION",
+        "count": 889,
+        "regex": "^\\*(?:Troparion(?:\\s+\\d+)?(?:,\\s*Tone\\s+\\d+)?)\\s*:\\*\\s+(.+)$"
+      },
+      {
+        "class_id": "PROPER_THEOTOKION",
+        "count": 302,
+        "regex": "^\\*(?:Tone\\s+\\d+\\.\\s*)?(?:Theotokion(?:\\s+\\(\\s*Dogmatikon\\s*\\))?|Another\\s+Theotokion)(?:,\\s*Tone\\s+\\d+)?[^*]*?:\\*\\s*(.+)$"
+      },
+      {
+        "class_id": "PROPER_STAVROTHEOTOKION",
+        "count": 18,
+        "regex": "^\\*(?:Staurotheotokion|Stavrotheotokion|Cross-Theotokion)[^*]*?:\\*\\s*(.+)$"
+      },
+      {
+        "class_id": "PROPER_HEIRMOS",
+        "count": 298,
+        "regex": "^\\*(?:(?:The\\s+)?Resurrectional\\s+Canon|Another\\s+Canon|Canon|Ode\\s+\\d+)[^*]*?Heirmos:\\s*([^*]+?)\\*(?:\\s+(.+))?$"
+      },
+      {
+        "class_id": "PROPER_STICHERON",
+        "count": 292,
+        "regex": "^\\*(?:Sticheron(?:\\s+\\d+)?|Other\\s+Stichera|Tone\\s+\\d+,\\s*Podoben:|Evangelical\\s+Sticheron\\s+\\d+)[^*]*?:\\*\\s*(.*)$"
+      },
+      {
+        "class_id": "PROPER_SESSIONAL_KATHISMA",
+        "count": 52,
+        "regex": "^\\*(?:After\\s+the\\s+\\d+(?:st|nd|rd|th)\\s+(?:Stichologia|Kathisma)[^*]*?|Sessional\\s+Hymn[^*]*?|Another\\s+Sessional\\s+Hymn[^*]*?):\\*\\s*(.*)$"
+      },
+      {
+        "class_id": "PROPER_KATAVASIA",
+        "count": 32,
+        "regex": "^\\*Katavasia:\\s*([^*]+)\\*$"
+      },
+      {
+        "class_id": "PROPER_MARTYRIKON",
+        "count": 32,
+        "regex": "^\\*Martyri[ck]on(?:,\\s*Tone\\s+\\d+)?:\\*\\s*(.+)$"
+      },
+      {
+        "class_id": "PROPER_EXAPOSTILARION",
+        "count": 29,
+        "regex": "^\\*(?:Exapost[ei]larion(?:\\s+\\d+)?|Photogogi[ck](?:on)?)[^*]*?:\\*\\s*(.*)$"
+      },
+      {
+        "class_id": "PROPER_ANABATHMOI_ANTIPHON",
+        "count": 24,
+        "regex": "^\\*(?:Gradual\\s+Hymns|Songs\\s+of\\s+Ascent|Antiphon\\s+\\d+)[^*]*?:\\*\\s*(.*)$"
+      },
+      {
+        "class_id": "PROPER_BEATITUDES_TROPARION",
+        "count": 16,
+        "regex": "^\\*(?:On\\s+the\\s+Beatitudes|In\\s+the\\s+Beatitudes|Beatitudes)[^*]*?:\\*\\s*(.*)$"
+      },
+      {
+        "class_id": "PROPER_KONTAKION",
+        "count": 15,
+        "regex": "^\\*Kontakion[^*]*?:\\*\\s*(.*)$"
+      },
+      {
+        "class_id": "PROPER_IKOS",
+        "count": 8,
+        "regex": "^\\*Ikos[^*]*?:\\*\\s*(.+)$"
+      },
+      {
+        "class_id": "PROPER_HYPAKOE",
+        "count": 8,
+        "regex": "^\\*(?:Then\\s+the\\s+)?(?:Hypakoe|Ypako[eë])(?:,\\s*Tone\\s+\\d+)?[^*]*?:\\*\\s*(.+)$"
+      },
+      {
+        "class_id": "PROPER_TRIADIKON",
+        "count": 12,
+        "regex": "^\\*Triadi[ck]on[^*]*?:\\*\\s*(.+)$"
+      },
+      {
+        "class_id": "PROPER_NEKROSIMON",
+        "count": 14,
+        "regex": "^\\*(?:For\\s+the\\s+Departed|Troparion\\s+for\\s+the\\s+Departed|Another,\\s+for\\s+the\\s+departed)[^*]*?:\\*\\s*(.+)$"
+      }
     ],
     "fixed_non_propers_classes": [
-      {"class_id": "NONPROPER_PROCEDURAL_RUBRIC", "count": 154, "regex": "^\\*[^*\\n]+\\*$"},
-      {"class_id": "NONPROPER_DOXOLOGY_HEADER", "count": 121, "regex": "^\\*(?:Glory(?:\\.\\.\\.|,\\s*and\\s+now|:)|Both\\s+now\\b)[^*]*?\\*\\s*(.*)$"},
-      {"class_id": "NONPROPER_PSALM_STICHOS_VERSE", "count": 36, "regex": "^\\*Verse:\\s*([^*]+)\\*(?:\\s*\\[([^\\]]+)\\])?$"},
-      {"class_id": "NONPROPER_PROKEIMENON_ALLELUIA_KINONIKON", "count": 35, "regex": "^\\*(?:Prokeimenon|Alleluia|Kinonikon|Communion\\s+Hymn)[^*]*?:\\*\\s*(.*)$"},
-      {"class_id": "NONPROPER_LECTIONARY_PERICOPE", "count": 33, "regex": "^\\*(?:The\\s+Reading\\s+is\\s+from|Epistle|Gospel|(?:First|Second|Third|Fourth|Fifth|Sixth|Seventh|Eighth|Ninth|Tenth|Eleventh)\\s+Matins\\s+Resurrection\\s+Gospel)[^*]*?:\\*\\s*(.*)$"},
-      {"class_id": "NONPROPER_LITANY_AND_DIALOGUE_EXCLAMATION", "count": 18, "regex": "^(?:\\*\\*(?:Priest|Deacon|Reader|Choir|People):\\*\\*|\\*(?:Then\\s+the\\s+priest|Priest|Deacon):\\*)\\s*(.+)$"},
-      {"class_id": "NONPROPER_PATRISTIC_HOMILY_PARA", "count": 48, "regex": "^\\*(?:Instruction\\s+of\\s+Saint\\s+Ephrem|Discourse\\s+of\\s+Saint\\s+John\\s+Chrysostom|A\\s+Discourse\\s+on\\s+How\\s+Parents)[^*]*?:\\*"},
-      {"class_id": "NONPROPER_PARATEXT_AND_COLLATION_APPARATUS", "count": 12, "regex": "^(?:\\|.*\\||\\[(?:Woodcut|Photographic|Mounted|Sixteenth|Circular)[^\\]]*\\])"}
+      {
+        "class_id": "NONPROPER_PROCEDURAL_RUBRIC",
+        "count": 154,
+        "regex": "^\\*[^*\\n]+\\*$"
+      },
+      {
+        "class_id": "NONPROPER_DOXOLOGY_HEADER",
+        "count": 121,
+        "regex": "^\\*(?:Glory(?:\\.\\.\\.|,\\s*and\\s+now|:)|Both\\s+now\\b)[^*]*?\\*\\s*(.*)$"
+      },
+      {
+        "class_id": "NONPROPER_PSALM_STICHOS_VERSE",
+        "count": 36,
+        "regex": "^\\*Verse:\\s*([^*]+)\\*(?:\\s*\\[([^\\]]+)\\])?$"
+      },
+      {
+        "class_id": "NONPROPER_PROKEIMENON_ALLELUIA_KINONIKON",
+        "count": 35,
+        "regex": "^\\*(?:Prokeimenon|Alleluia|Kinonikon|Communion\\s+Hymn)[^*]*?:\\*\\s*(.*)$"
+      },
+      {
+        "class_id": "NONPROPER_LECTIONARY_PERICOPE",
+        "count": 33,
+        "regex": "^\\*(?:The\\s+Reading\\s+is\\s+from|Epistle|Gospel|(?:First|Second|Third|Fourth|Fifth|Sixth|Seventh|Eighth|Ninth|Tenth|Eleventh)\\s+Matins\\s+Resurrection\\s+Gospel)[^*]*?:\\*\\s*(.*)$"
+      },
+      {
+        "class_id": "NONPROPER_LITANY_AND_DIALOGUE_EXCLAMATION",
+        "count": 18,
+        "regex": "^(?:\\*\\*(?:Priest|Deacon|Reader|Choir|People):\\*\\*|\\*(?:Then\\s+the\\s+priest|Priest|Deacon):\\*)\\s*(.+)$"
+      },
+      {
+        "class_id": "NONPROPER_PATRISTIC_HOMILY_PARA",
+        "count": 48,
+        "regex": "^\\*(?:Instruction\\s+of\\s+Saint\\s+Ephrem|Discourse\\s+of\\s+Saint\\s+John\\s+Chrysostom|A\\s+Discourse\\s+on\\s+How\\s+Parents)[^*]*?:\\*"
+      },
+      {
+        "class_id": "NONPROPER_PARATEXT_AND_COLLATION_APPARATUS",
+        "count": 12,
+        "regex": "^(?:\\|.*\\||\\[(?:Woodcut|Photographic|Mounted|Sixteenth|Circular)[^\\]]*\\])"
+      }
     ]
   },
   "dimension_6_top_5_hardening_recommendations": [
@@ -343,6 +750,115 @@
       "target_script": "scripts/compile_final_edition.py & scripts/run_small_pause_gate.py",
       "target_function": "UniversalPublicationEngine._collect_cohort_files() & collect_argon_review_signals()",
       "impact": "Ensures Draft/ -> Cohorts/ mtime synchronization during Phase 2 recompilation and prevents false-positive SGC-02 Argon queue triggers on abbreviated Royal Office / Six Psalms rubrical leaves (ratio 2.20 -> 2.85)."
+    }
+  ],
+  "title": "1491 Krakow Octoechos of Schweipolt Fiol (Осмогласник / Октоїх Швайпольта Фіоля, Краків, 1491)",
+  "monument_type": "octoechos",
+  "genre_register": "hymnographic",
+  "retrospective_timestamp": "2026-10-30T21:19:14.848621+00:00",
+  "codicological_profile": {
+    "total_physical_leaves": 345,
+    "cohort_count": 35,
+    "default_cohort_size": 10,
+    "monument_type": "octoechos"
+  },
+  "subagent_execution_telemetry": {
+    "total_cohorts_dispatched": 35,
+    "worker_model": "flash",
+    "cohorts_passing_gate_100pct": 35,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.076,
+      "median_cohort_ratio": 1.337,
+      "max_cohort_median": 1.587
+    }
+  },
+  "argon_review_queue_telemetry": {
+    "total_items_recorded": 5,
+    "resolved_by_argon": 5,
+    "info_telemetry_only": 0,
+    "unresolved_quarantines": 0,
+    "codicological_crux_count": 0
+  },
+  "final_publication_verification": {
+    "parts_count": 12,
+    "parts": [
+      "1491_krakow_fiol_octoechos_part0_front_matter.md",
+      "1491_krakow_fiol_octoechos_part1_tone-1.md",
+      "1491_krakow_fiol_octoechos_part2_tone-2.md",
+      "1491_krakow_fiol_octoechos_part3_tone-3.md",
+      "1491_krakow_fiol_octoechos_part4_tone-4.md",
+      "1491_krakow_fiol_octoechos_part5_tone-5.md",
+      "1491_krakow_fiol_octoechos_part6_tone-6.md",
+      "1491_krakow_fiol_octoechos_part7_tone-7.md",
+      "1491_krakow_fiol_octoechos_part8_tone-8.md",
+      "1491_krakow_fiol_octoechos_part9_weekday-offices-of-the-octoechos-monday.md",
+      "1491_krakow_fiol_octoechos_part10_exapostilaria-and-evangelical-stichera.md",
+      "1491_krakow_fiol_octoechos_part11_ascetic-homilies-and-colophon.md"
+    ],
+    "total_footnotes_verified": 383,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.076,
+      "median_cohort_ratio": 1.337,
+      "max_cohort_median": 1.587
+    },
+    "all_6_publication_gates_passed": true
+  },
+  "edge_cases_and_anomalies": [
+    {
+      "id": "EC-01",
+      "category": "scripts/compile_final_edition.py (Part Slicing & start_landmark matching)",
+      "severity": "HIGH",
+      "description": "Part 8 ('part8_tone-8.md', 244,534 chars) absorbed both the Sunday Tone 8 cycle (pp. 189-214) AND the entire Weekday Octoechos cycle (Monday Tone 1 through Saturday Tone 8, pp. 214-303) because Fiol prints the weekday propers continuously after Sunday Tone 8 using inline cinnabar rubrics without a major woodcut headpiece. Conversely, the scaffold's 'part10' ('# GENERAL PARASTAS') was dropped because Fiol's rear appendix (pp. 327-336) contains the three Ascetic Homilies (Ephrem the Syrian, Sirach on Childrearing, John Chrysostom) rather than a standalone Parastas office."
+    },
+    {
+      "id": "EC-02",
+      "category": "scripts/hymnographic_gold_normalizer.py (extract_propers_corpus state tracking)",
+      "severity": "HIGH",
+      "description": "In 1491_krakow_fiol_octoechos_propers_corpus.json (2,898 items), 100% of items have office='Front Matter', 2,497/2,898 have hymn_type='Sticheron', and 1,238/2,898 are assigned tone=8. This happens because Statutory Mandate 8 forbids '### At Vespers' / '### At Matins' headings in raw drafts (requiring inline italic rubrics), while extract_propers_corpus() only updates current_office on markdown headings and only updates current_tone on '# TONE N' H1 landmarks."
+    },
+    {
+      "id": "EC-03",
+      "category": "scripts/compile_final_edition.py (_collect_cohort_files priority order)",
+      "severity": "HIGH",
+      "description": "_collect_cohort_files() reads from Cohorts/ first and ignores Draft/ and Final MD/ once Cohorts/ is populated on the first compile pass. Subsequent deterministic fixes applied only to Draft/ or Final MD/ are silently overwritten unless applied directly to Cohorts/."
+    },
+    {
+      "id": "EC-04",
+      "category": "scripts/verify_publication_edition.py (Gate 7B bare 'подобенъ' rubric)",
+      "severity": "HIGH",
+      "description": "Incunabular and manuscript codices occasionally print a bare rubric 'по[добенъ]' without naming the melodic model incipit (e.g. leaf p185 '*Kontakion, Tone 8, Podoben:*[^218]'). Gate 7B requires every line containing 'Podoben:' to include a parenthetical Cyrillic string."
+    }
+  ],
+  "engine_hardening_proposals": [
+    {
+      "proposal_id": "RANK-1",
+      "target_script": "scripts/hymnographic_gold_normalizer.py",
+      "priority": "RANK_1",
+      "title": "Inline-Rubric State Machine for Office, Tone & Hymn-Type in Propers Corpus Extractor"
+    },
+    {
+      "proposal_id": "RANK-2",
+      "target_script": "scripts/autonomous_orchestrator.py & scripts/compile_final_edition.py",
+      "priority": "RANK_2",
+      "title": "Bracketed-Cyrillic-to-Parentheses Auto-Healer in Small Pause Gate & Publication Engine"
+    },
+    {
+      "proposal_id": "RANK-3",
+      "target_script": "scripts/hymnographic_gold_normalizer.py & data/templates/work_order_template.md",
+      "priority": "RANK_3",
+      "title": "Bare 'Podoben' & 'Same Tone and Model' Normalizer for Incunabular/Manuscript Rubrics"
+    },
+    {
+      "proposal_id": "RANK-4",
+      "target_script": "data/templates/publication_spec_scaffolds.json & scripts/compile_final_edition.py",
+      "priority": "RANK_4",
+      "title": "Weekday Octoechos & Rear Homiletic Appendix Landmarks in Octoechos Publication Scaffolds"
+    },
+    {
+      "proposal_id": "RANK-5",
+      "target_script": "scripts/compile_final_edition.py & scripts/run_small_pause_gate.py",
+      "priority": "RANK_5",
+      "title": "Bi-Directional Cohort Synchronization & Liturgical Abbreviation Ratio Calibration"
     }
   ]
 }

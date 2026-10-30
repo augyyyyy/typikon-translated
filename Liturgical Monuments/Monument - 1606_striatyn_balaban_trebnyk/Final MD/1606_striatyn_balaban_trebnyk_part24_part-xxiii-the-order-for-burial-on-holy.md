@@ -4,13 +4,13 @@
 
 *If anyone departs unto the Lord on Holy Pascha, or on any day of Bright Week until Thomas Sunday, nothing customary for the departed is sung over him, but only [the priest] begins:*[^1591]
 
-**Priest:** **Blessed is our God.**
+> **Priest:** **Blessed is our God.**
 
 *And we sing: "Christ is risen," in Tone 5, both choirs with its verses. And the priest censes according to the rule. And immediately he begins the Canon of Pascha:* **"The Day of Resurrection,"** *in order, as many as he wishes, to 4. [After each] ode, the little litanies of the deacon, and the exclamation:*
 
-**Priest:** **For Thou art the Resurrection and the Life** *Then:* **"Preventing the morning..."** *And again the Canon in order. After the 6th Ode, the little litanies of the deacon, [and] the exclamation:* **"For Thou art the Resurrection and the Life..."** *Then the Kontakion:* **"With the saints give rest..."** *The Oikos:* **"Thou Thyself alone art immortal..."**[^1592] *And instead of the Trisagion:* **"As many of you as were baptized into Christ..."** *The Epistle: In the Acts, the one appointed for that day. Alleluia in the [appointed] tone. The Gospel: The Resurrection Gospel, the first. And after this:* **"Having beheld the Resurrection of Christ..."** *and the remaining odes of the Canon, and the kissing of the departed, while saying: "Christ is risen."*[^1593] *And after the completion of the Canon and the kissing, we say the Exapostilarion:* **"Having fallen asleep in the flesh..."** *twice. Afterward we sing:* **"Blessed art Thou[^1594] O Lord, teach me Thy statutes: The assembly of the Angels..."** *Then the Stichera of Pascha with their verses:* **"Glory... Both now... The Day of Resurrection,"** *and:* **"Christ is risen,"** *thrice.*[^1595] *Afterward the litanies of the deacon, and the exclamation:*
+> **Priest:** **For Thou art the Resurrection and the Life** *Then:* **"Preventing the morning..."** *And again the Canon in order. After the 6th Ode, the little litanies of the deacon, [and] the exclamation:* **"For Thou art the Resurrection and the Life..."** *Then the Kontakion:* **"With the saints give rest..."** *The Oikos:* **"Thou Thyself alone art immortal..."**[^1592] *And instead of the Trisagion:* **"As many of you as were baptized into Christ..."** *The Epistle: In the Acts, the one appointed for that day. Alleluia in the [appointed] tone. The Gospel: The Resurrection Gospel, the first. And after this:* **"Having beheld the Resurrection of Christ..."** *and the remaining odes of the Canon, and the kissing of the departed, while saying: "Christ is risen."*[^1593] *And after the completion of the Canon and the kissing, we say the Exapostilarion:* **"Having fallen asleep in the flesh..."** *twice. Afterward we sing:* **"Blessed art Thou[^1594] O Lord, teach me Thy statutes: The assembly of the Angels..."** *Then the Stichera of Pascha with their verses:* **"Glory... Both now... The Day of Resurrection,"** *and:* **"Christ is risen,"** *thrice.*[^1595] *Afterward the litanies of the deacon, and the exclamation:*
 
-**Priest:** **For Thou art the Resurrection and the Life...**
+> **Priest:** **For Thou art the Resurrection and the Life...**
 
 *Then the Prayer of Absolution, and the Dismissal. And they bury the departed with thanksgiving and with joy.*[^1596]
 

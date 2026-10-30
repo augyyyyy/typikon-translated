@@ -115,44 +115,446 @@
       "reason": "Although only 3 leaves, Cohort 30 contained the complex 2-part 'Погрѣшеніа' (Errata) leaf on p291L cross-referencing printed errors on folios 101 and 224, Vernadsky Library institutional stamps and call numbers on p291R-p292L, and two non-text rear binding/flyleaf spreads requiring symmetric Mandate 12 descriptions."
     },
     "cohorts_table": [
-      {"cohort": 1, "leaves": "p1..p10", "leaf_count": 10, "wall_clock_sec": 1869.0, "wall_clock_min": 31.15, "sec_per_leaf": 186.9, "src_words": 1542, "draft_words": 1856, "fn_words": 1178, "total_en_words": 3034, "footnote_count": 30, "words_per_min": 146.9},
-      {"cohort": 2, "leaves": "p11..p20", "leaf_count": 10, "wall_clock_sec": 854.0, "wall_clock_min": 14.23, "sec_per_leaf": 85.4, "src_words": 1501, "draft_words": 1777, "fn_words": 638, "total_en_words": 2415, "footnote_count": 31, "words_per_min": 275.1},
-      {"cohort": 3, "leaves": "p21..p30", "leaf_count": 10, "wall_clock_sec": 615.0, "wall_clock_min": 10.25, "sec_per_leaf": 61.5, "src_words": 1529, "draft_words": 1750, "fn_words": 1321, "total_en_words": 3071, "footnote_count": 44, "words_per_min": 448.8},
-      {"cohort": 4, "leaves": "p31..p40", "leaf_count": 10, "wall_clock_sec": 665.0, "wall_clock_min": 11.08, "sec_per_leaf": 66.5, "src_words": 1512, "draft_words": 1727, "fn_words": 986, "total_en_words": 2713, "footnote_count": 34, "words_per_min": 381.2},
-      {"cohort": 5, "leaves": "p41..p50", "leaf_count": 10, "wall_clock_sec": 555.0, "wall_clock_min": 9.25, "sec_per_leaf": 55.5, "src_words": 1451, "draft_words": 1794, "fn_words": 1062, "total_en_words": 2856, "footnote_count": 23, "words_per_min": 465.6},
-      {"cohort": 6, "leaves": "p51..p60", "leaf_count": 10, "wall_clock_sec": 735.0, "wall_clock_min": 12.25, "sec_per_leaf": 73.5, "src_words": 1500, "draft_words": 1852, "fn_words": 809, "total_en_words": 2661, "footnote_count": 26, "words_per_min": 339.7},
-      {"cohort": 7, "leaves": "p61..p70", "leaf_count": 10, "wall_clock_sec": 649.0, "wall_clock_min": 10.82, "sec_per_leaf": 64.9, "src_words": 1471, "draft_words": 1785, "fn_words": 900, "total_en_words": 2685, "footnote_count": 30, "words_per_min": 384.2},
-      {"cohort": 8, "leaves": "p71..p80", "leaf_count": 10, "wall_clock_sec": 574.0, "wall_clock_min": 9.57, "sec_per_leaf": 57.4, "src_words": 1512, "draft_words": 1857, "fn_words": 1344, "total_en_words": 3201, "footnote_count": 29, "words_per_min": 492.6},
-      {"cohort": 9, "leaves": "p81..p90", "leaf_count": 10, "wall_clock_sec": 523.0, "wall_clock_min": 8.72, "sec_per_leaf": 52.3, "src_words": 1456, "draft_words": 1762, "fn_words": 1417, "total_en_words": 3179, "footnote_count": 29, "words_per_min": 531.7},
-      {"cohort": 10, "leaves": "p91..p100", "leaf_count": 10, "wall_clock_sec": 489.0, "wall_clock_min": 8.15, "sec_per_leaf": 48.9, "src_words": 1400, "draft_words": 1660, "fn_words": 1777, "total_en_words": 3437, "footnote_count": 30, "words_per_min": 593.5},
-      {"cohort": 11, "leaves": "p101..p110", "leaf_count": 10, "wall_clock_sec": 767.0, "wall_clock_min": 12.78, "sec_per_leaf": 76.7, "src_words": 1422, "draft_words": 1741, "fn_words": 1756, "total_en_words": 3497, "footnote_count": 49, "words_per_min": 384.8},
-      {"cohort": 12, "leaves": "p111..p120", "leaf_count": 10, "wall_clock_sec": 781.0, "wall_clock_min": 13.02, "sec_per_leaf": 78.1, "src_words": 1341, "draft_words": 1619, "fn_words": 2034, "total_en_words": 3653, "footnote_count": 43, "words_per_min": 383.7},
-      {"cohort": 13, "leaves": "p121..p130", "leaf_count": 10, "wall_clock_sec": 548.0, "wall_clock_min": 9.13, "sec_per_leaf": 54.8, "src_words": 1405, "draft_words": 1969, "fn_words": 1227, "total_en_words": 3196, "footnote_count": 24, "words_per_min": 503.8},
-      {"cohort": 14, "leaves": "p131..p140", "leaf_count": 10, "wall_clock_sec": 553.0, "wall_clock_min": 9.22, "sec_per_leaf": 55.3, "src_words": 1504, "draft_words": 1863, "fn_words": 968, "total_en_words": 2831, "footnote_count": 20, "words_per_min": 470.3},
-      {"cohort": 15, "leaves": "p141..p150", "leaf_count": 10, "wall_clock_sec": 572.0, "wall_clock_min": 9.53, "sec_per_leaf": 57.2, "src_words": 1511, "draft_words": 1853, "fn_words": 795, "total_en_words": 2648, "footnote_count": 18, "words_per_min": 436.3},
-      {"cohort": 16, "leaves": "p151..p160", "leaf_count": 10, "wall_clock_sec": 757.0, "wall_clock_min": 12.62, "sec_per_leaf": 75.7, "src_words": 1504, "draft_words": 1662, "fn_words": 1366, "total_en_words": 3028, "footnote_count": 20, "words_per_min": 359.2},
-      {"cohort": 17, "leaves": "p161..p170", "leaf_count": 10, "wall_clock_sec": 681.0, "wall_clock_min": 11.35, "sec_per_leaf": 68.1, "src_words": 1402, "draft_words": 1609, "fn_words": 1282, "total_en_words": 2891, "footnote_count": 20, "words_per_min": 378.2},
-      {"cohort": 18, "leaves": "p171..p180", "leaf_count": 10, "wall_clock_sec": 758.0, "wall_clock_min": 12.63, "sec_per_leaf": 75.8, "src_words": 1469, "draft_words": 1934, "fn_words": 1139, "total_en_words": 3073, "footnote_count": 20, "words_per_min": 359.5},
-      {"cohort": 19, "leaves": "p181..p190", "leaf_count": 10, "wall_clock_sec": 685.0, "wall_clock_min": 11.42, "sec_per_leaf": 68.5, "src_words": 1586, "draft_words": 2116, "fn_words": 1350, "total_en_words": 3466, "footnote_count": 20, "words_per_min": 442.5},
-      {"cohort": 20, "leaves": "p191..p200", "leaf_count": 10, "wall_clock_sec": 564.0, "wall_clock_min": 9.4, "sec_per_leaf": 56.4, "src_words": 1513, "draft_words": 2003, "fn_words": 1332, "total_en_words": 3335, "footnote_count": 21, "words_per_min": 515.7},
-      {"cohort": 21, "leaves": "p201..p210", "leaf_count": 10, "wall_clock_sec": 774.0, "wall_clock_min": 12.9, "sec_per_leaf": 77.4, "src_words": 1426, "draft_words": 1781, "fn_words": 421, "total_en_words": 2202, "footnote_count": 14, "words_per_min": 281.2},
-      {"cohort": 22, "leaves": "p211..p220", "leaf_count": 10, "wall_clock_sec": 688.0, "wall_clock_min": 11.47, "sec_per_leaf": 68.8, "src_words": 1447, "draft_words": 1670, "fn_words": 694, "total_en_words": 2364, "footnote_count": 15, "words_per_min": 332.4},
-      {"cohort": 23, "leaves": "p221..p230", "leaf_count": 10, "wall_clock_sec": 551.0, "wall_clock_min": 9.18, "sec_per_leaf": 55.1, "src_words": 1580, "draft_words": 2088, "fn_words": 1197, "total_en_words": 3285, "footnote_count": 24, "words_per_min": 529.8},
-      {"cohort": 24, "leaves": "p231..p240", "leaf_count": 10, "wall_clock_sec": 823.0, "wall_clock_min": 13.72, "sec_per_leaf": 82.3, "src_words": 1591, "draft_words": 1960, "fn_words": 922, "total_en_words": 2882, "footnote_count": 26, "words_per_min": 326.1},
-      {"cohort": 25, "leaves": "p241..p250", "leaf_count": 10, "wall_clock_sec": 699.0, "wall_clock_min": 11.65, "sec_per_leaf": 69.9, "src_words": 1632, "draft_words": 2362, "fn_words": 1247, "total_en_words": 3609, "footnote_count": 40, "words_per_min": 449.9},
-      {"cohort": 26, "leaves": "p251..p260", "leaf_count": 10, "wall_clock_sec": 757.0, "wall_clock_min": 12.62, "sec_per_leaf": 75.7, "src_words": 1692, "draft_words": 2431, "fn_words": 2221, "total_en_words": 4652, "footnote_count": 76, "words_per_min": 502.8},
-      {"cohort": 27, "leaves": "p261..p270", "leaf_count": 10, "wall_clock_sec": 705.0, "wall_clock_min": 11.75, "sec_per_leaf": 70.5, "src_words": 1539, "draft_words": 2030, "fn_words": 1804, "total_en_words": 3834, "footnote_count": 64, "words_per_min": 457.3},
-      {"cohort": 28, "leaves": "p271..p280", "leaf_count": 10, "wall_clock_sec": 1012.0, "wall_clock_min": 16.87, "sec_per_leaf": 101.2, "src_words": 1368, "draft_words": 1742, "fn_words": 1451, "total_en_words": 3193, "footnote_count": 51, "words_per_min": 270.4},
-      {"cohort": 29, "leaves": "p281..p290", "leaf_count": 10, "wall_clock_sec": 974.0, "wall_clock_min": 16.23, "sec_per_leaf": 97.4, "src_words": 1241, "draft_words": 1730, "fn_words": 1672, "total_en_words": 3402, "footnote_count": 67, "words_per_min": 286.0},
-      {"cohort": 30, "leaves": "p291..p293", "leaf_count": 3, "wall_clock_sec": 610.0, "wall_clock_min": 10.17, "sec_per_leaf": 203.3, "src_words": 324, "draft_words": 439, "fn_words": 360, "total_en_words": 799, "footnote_count": 13, "words_per_min": 110.5}
+      {
+        "cohort": 1,
+        "leaves": "p1..p10",
+        "leaf_count": 10,
+        "wall_clock_sec": 1869.0,
+        "wall_clock_min": 31.15,
+        "sec_per_leaf": 186.9,
+        "src_words": 1542,
+        "draft_words": 1856,
+        "fn_words": 1178,
+        "total_en_words": 3034,
+        "footnote_count": 30,
+        "words_per_min": 146.9
+      },
+      {
+        "cohort": 2,
+        "leaves": "p11..p20",
+        "leaf_count": 10,
+        "wall_clock_sec": 854.0,
+        "wall_clock_min": 14.23,
+        "sec_per_leaf": 85.4,
+        "src_words": 1501,
+        "draft_words": 1777,
+        "fn_words": 638,
+        "total_en_words": 2415,
+        "footnote_count": 31,
+        "words_per_min": 275.1
+      },
+      {
+        "cohort": 3,
+        "leaves": "p21..p30",
+        "leaf_count": 10,
+        "wall_clock_sec": 615.0,
+        "wall_clock_min": 10.25,
+        "sec_per_leaf": 61.5,
+        "src_words": 1529,
+        "draft_words": 1750,
+        "fn_words": 1321,
+        "total_en_words": 3071,
+        "footnote_count": 44,
+        "words_per_min": 448.8
+      },
+      {
+        "cohort": 4,
+        "leaves": "p31..p40",
+        "leaf_count": 10,
+        "wall_clock_sec": 665.0,
+        "wall_clock_min": 11.08,
+        "sec_per_leaf": 66.5,
+        "src_words": 1512,
+        "draft_words": 1727,
+        "fn_words": 986,
+        "total_en_words": 2713,
+        "footnote_count": 34,
+        "words_per_min": 381.2
+      },
+      {
+        "cohort": 5,
+        "leaves": "p41..p50",
+        "leaf_count": 10,
+        "wall_clock_sec": 555.0,
+        "wall_clock_min": 9.25,
+        "sec_per_leaf": 55.5,
+        "src_words": 1451,
+        "draft_words": 1794,
+        "fn_words": 1062,
+        "total_en_words": 2856,
+        "footnote_count": 23,
+        "words_per_min": 465.6
+      },
+      {
+        "cohort": 6,
+        "leaves": "p51..p60",
+        "leaf_count": 10,
+        "wall_clock_sec": 735.0,
+        "wall_clock_min": 12.25,
+        "sec_per_leaf": 73.5,
+        "src_words": 1500,
+        "draft_words": 1852,
+        "fn_words": 809,
+        "total_en_words": 2661,
+        "footnote_count": 26,
+        "words_per_min": 339.7
+      },
+      {
+        "cohort": 7,
+        "leaves": "p61..p70",
+        "leaf_count": 10,
+        "wall_clock_sec": 649.0,
+        "wall_clock_min": 10.82,
+        "sec_per_leaf": 64.9,
+        "src_words": 1471,
+        "draft_words": 1785,
+        "fn_words": 900,
+        "total_en_words": 2685,
+        "footnote_count": 30,
+        "words_per_min": 384.2
+      },
+      {
+        "cohort": 8,
+        "leaves": "p71..p80",
+        "leaf_count": 10,
+        "wall_clock_sec": 574.0,
+        "wall_clock_min": 9.57,
+        "sec_per_leaf": 57.4,
+        "src_words": 1512,
+        "draft_words": 1857,
+        "fn_words": 1344,
+        "total_en_words": 3201,
+        "footnote_count": 29,
+        "words_per_min": 492.6
+      },
+      {
+        "cohort": 9,
+        "leaves": "p81..p90",
+        "leaf_count": 10,
+        "wall_clock_sec": 523.0,
+        "wall_clock_min": 8.72,
+        "sec_per_leaf": 52.3,
+        "src_words": 1456,
+        "draft_words": 1762,
+        "fn_words": 1417,
+        "total_en_words": 3179,
+        "footnote_count": 29,
+        "words_per_min": 531.7
+      },
+      {
+        "cohort": 10,
+        "leaves": "p91..p100",
+        "leaf_count": 10,
+        "wall_clock_sec": 489.0,
+        "wall_clock_min": 8.15,
+        "sec_per_leaf": 48.9,
+        "src_words": 1400,
+        "draft_words": 1660,
+        "fn_words": 1777,
+        "total_en_words": 3437,
+        "footnote_count": 30,
+        "words_per_min": 593.5
+      },
+      {
+        "cohort": 11,
+        "leaves": "p101..p110",
+        "leaf_count": 10,
+        "wall_clock_sec": 767.0,
+        "wall_clock_min": 12.78,
+        "sec_per_leaf": 76.7,
+        "src_words": 1422,
+        "draft_words": 1741,
+        "fn_words": 1756,
+        "total_en_words": 3497,
+        "footnote_count": 49,
+        "words_per_min": 384.8
+      },
+      {
+        "cohort": 12,
+        "leaves": "p111..p120",
+        "leaf_count": 10,
+        "wall_clock_sec": 781.0,
+        "wall_clock_min": 13.02,
+        "sec_per_leaf": 78.1,
+        "src_words": 1341,
+        "draft_words": 1619,
+        "fn_words": 2034,
+        "total_en_words": 3653,
+        "footnote_count": 43,
+        "words_per_min": 383.7
+      },
+      {
+        "cohort": 13,
+        "leaves": "p121..p130",
+        "leaf_count": 10,
+        "wall_clock_sec": 548.0,
+        "wall_clock_min": 9.13,
+        "sec_per_leaf": 54.8,
+        "src_words": 1405,
+        "draft_words": 1969,
+        "fn_words": 1227,
+        "total_en_words": 3196,
+        "footnote_count": 24,
+        "words_per_min": 503.8
+      },
+      {
+        "cohort": 14,
+        "leaves": "p131..p140",
+        "leaf_count": 10,
+        "wall_clock_sec": 553.0,
+        "wall_clock_min": 9.22,
+        "sec_per_leaf": 55.3,
+        "src_words": 1504,
+        "draft_words": 1863,
+        "fn_words": 968,
+        "total_en_words": 2831,
+        "footnote_count": 20,
+        "words_per_min": 470.3
+      },
+      {
+        "cohort": 15,
+        "leaves": "p141..p150",
+        "leaf_count": 10,
+        "wall_clock_sec": 572.0,
+        "wall_clock_min": 9.53,
+        "sec_per_leaf": 57.2,
+        "src_words": 1511,
+        "draft_words": 1853,
+        "fn_words": 795,
+        "total_en_words": 2648,
+        "footnote_count": 18,
+        "words_per_min": 436.3
+      },
+      {
+        "cohort": 16,
+        "leaves": "p151..p160",
+        "leaf_count": 10,
+        "wall_clock_sec": 757.0,
+        "wall_clock_min": 12.62,
+        "sec_per_leaf": 75.7,
+        "src_words": 1504,
+        "draft_words": 1662,
+        "fn_words": 1366,
+        "total_en_words": 3028,
+        "footnote_count": 20,
+        "words_per_min": 359.2
+      },
+      {
+        "cohort": 17,
+        "leaves": "p161..p170",
+        "leaf_count": 10,
+        "wall_clock_sec": 681.0,
+        "wall_clock_min": 11.35,
+        "sec_per_leaf": 68.1,
+        "src_words": 1402,
+        "draft_words": 1609,
+        "fn_words": 1282,
+        "total_en_words": 2891,
+        "footnote_count": 20,
+        "words_per_min": 378.2
+      },
+      {
+        "cohort": 18,
+        "leaves": "p171..p180",
+        "leaf_count": 10,
+        "wall_clock_sec": 758.0,
+        "wall_clock_min": 12.63,
+        "sec_per_leaf": 75.8,
+        "src_words": 1469,
+        "draft_words": 1934,
+        "fn_words": 1139,
+        "total_en_words": 3073,
+        "footnote_count": 20,
+        "words_per_min": 359.5
+      },
+      {
+        "cohort": 19,
+        "leaves": "p181..p190",
+        "leaf_count": 10,
+        "wall_clock_sec": 685.0,
+        "wall_clock_min": 11.42,
+        "sec_per_leaf": 68.5,
+        "src_words": 1586,
+        "draft_words": 2116,
+        "fn_words": 1350,
+        "total_en_words": 3466,
+        "footnote_count": 20,
+        "words_per_min": 442.5
+      },
+      {
+        "cohort": 20,
+        "leaves": "p191..p200",
+        "leaf_count": 10,
+        "wall_clock_sec": 564.0,
+        "wall_clock_min": 9.4,
+        "sec_per_leaf": 56.4,
+        "src_words": 1513,
+        "draft_words": 2003,
+        "fn_words": 1332,
+        "total_en_words": 3335,
+        "footnote_count": 21,
+        "words_per_min": 515.7
+      },
+      {
+        "cohort": 21,
+        "leaves": "p201..p210",
+        "leaf_count": 10,
+        "wall_clock_sec": 774.0,
+        "wall_clock_min": 12.9,
+        "sec_per_leaf": 77.4,
+        "src_words": 1426,
+        "draft_words": 1781,
+        "fn_words": 421,
+        "total_en_words": 2202,
+        "footnote_count": 14,
+        "words_per_min": 281.2
+      },
+      {
+        "cohort": 22,
+        "leaves": "p211..p220",
+        "leaf_count": 10,
+        "wall_clock_sec": 688.0,
+        "wall_clock_min": 11.47,
+        "sec_per_leaf": 68.8,
+        "src_words": 1447,
+        "draft_words": 1670,
+        "fn_words": 694,
+        "total_en_words": 2364,
+        "footnote_count": 15,
+        "words_per_min": 332.4
+      },
+      {
+        "cohort": 23,
+        "leaves": "p221..p230",
+        "leaf_count": 10,
+        "wall_clock_sec": 551.0,
+        "wall_clock_min": 9.18,
+        "sec_per_leaf": 55.1,
+        "src_words": 1580,
+        "draft_words": 2088,
+        "fn_words": 1197,
+        "total_en_words": 3285,
+        "footnote_count": 24,
+        "words_per_min": 529.8
+      },
+      {
+        "cohort": 24,
+        "leaves": "p231..p240",
+        "leaf_count": 10,
+        "wall_clock_sec": 823.0,
+        "wall_clock_min": 13.72,
+        "sec_per_leaf": 82.3,
+        "src_words": 1591,
+        "draft_words": 1960,
+        "fn_words": 922,
+        "total_en_words": 2882,
+        "footnote_count": 26,
+        "words_per_min": 326.1
+      },
+      {
+        "cohort": 25,
+        "leaves": "p241..p250",
+        "leaf_count": 10,
+        "wall_clock_sec": 699.0,
+        "wall_clock_min": 11.65,
+        "sec_per_leaf": 69.9,
+        "src_words": 1632,
+        "draft_words": 2362,
+        "fn_words": 1247,
+        "total_en_words": 3609,
+        "footnote_count": 40,
+        "words_per_min": 449.9
+      },
+      {
+        "cohort": 26,
+        "leaves": "p251..p260",
+        "leaf_count": 10,
+        "wall_clock_sec": 757.0,
+        "wall_clock_min": 12.62,
+        "sec_per_leaf": 75.7,
+        "src_words": 1692,
+        "draft_words": 2431,
+        "fn_words": 2221,
+        "total_en_words": 4652,
+        "footnote_count": 76,
+        "words_per_min": 502.8
+      },
+      {
+        "cohort": 27,
+        "leaves": "p261..p270",
+        "leaf_count": 10,
+        "wall_clock_sec": 705.0,
+        "wall_clock_min": 11.75,
+        "sec_per_leaf": 70.5,
+        "src_words": 1539,
+        "draft_words": 2030,
+        "fn_words": 1804,
+        "total_en_words": 3834,
+        "footnote_count": 64,
+        "words_per_min": 457.3
+      },
+      {
+        "cohort": 28,
+        "leaves": "p271..p280",
+        "leaf_count": 10,
+        "wall_clock_sec": 1012.0,
+        "wall_clock_min": 16.87,
+        "sec_per_leaf": 101.2,
+        "src_words": 1368,
+        "draft_words": 1742,
+        "fn_words": 1451,
+        "total_en_words": 3193,
+        "footnote_count": 51,
+        "words_per_min": 270.4
+      },
+      {
+        "cohort": 29,
+        "leaves": "p281..p290",
+        "leaf_count": 10,
+        "wall_clock_sec": 974.0,
+        "wall_clock_min": 16.23,
+        "sec_per_leaf": 97.4,
+        "src_words": 1241,
+        "draft_words": 1730,
+        "fn_words": 1672,
+        "total_en_words": 3402,
+        "footnote_count": 67,
+        "words_per_min": 286.0
+      },
+      {
+        "cohort": 30,
+        "leaves": "p291..p293",
+        "leaf_count": 3,
+        "wall_clock_sec": 610.0,
+        "wall_clock_min": 10.17,
+        "sec_per_leaf": 203.3,
+        "src_words": 324,
+        "draft_words": 439,
+        "fn_words": 360,
+        "total_en_words": 799,
+        "footnote_count": 13,
+        "words_per_min": 110.5
+      }
     ]
   },
   "dimension_2_small_pause_gate_and_self_healing_catalog": {
     "phase_1_small_pause_gate_summary": {
       "total_cohorts_audited": 30,
       "initial_triage_events_logged": 10,
-      "events_self_repaired_inside_subagent_turn": [1, 11, 16, 19, 21],
-      "events_auto_healed_by_orchestrator_attempt_deterministic_self_healing": [4, 12, 22, 23, 27],
+      "events_self_repaired_inside_subagent_turn": [
+        1,
+        11,
+        16,
+        19,
+        21
+      ],
+      "events_auto_healed_by_orchestrator_attempt_deterministic_self_healing": [
+        4,
+        12,
+        22,
+        23,
+        27
+      ],
       "subagent_retries_triggered": 0,
       "cinnabar_pigment_warnings_per_10_leaf_cohort": 10,
       "total_cinnabar_warnings_across_monument": 290
@@ -202,24 +604,40 @@
     "phase_2_publication_verifier_anomalies_caught": [
       {
         "gate": "Gate 1 (verify_publication_edition.py: Placeholder & Blank-Leaf ban)",
-        "cohorts_affected": [12, 13],
-        "leaves_affected": [119, 127],
+        "cohorts_affected": [
+          12,
+          13
+        ],
+        "leaves_affected": [
+          119,
+          127
+        ],
         "exact_violation": "Blank leaf indicator match on '*[Blank leaf with show-through from the recto]*[^392]' (p119) and '*[Blank leaf with show-through from the verso woodcut]*[^415]' (p127).",
         "root_cause": "Work Order Mandate 12 instructs Flash workers to provide symmetric codicological notes on blank pages using bracketed/italic tags, which directly collides with Gate 1's regex r'\\*?\\[Blank\\s+[^\\]]+\\]\\*?'.",
         "preventive_healer_spec": "In attempt_deterministic_self_healing() and compile_final_edition.py._purge_and_stitch(), rewrite r'\\*?\\[Blank\\s+([^\\]]+)\\]\\*?' to '*(Blank \\1)*', and update work_order_template.md Mandate 12 to specify parentheses '*(Blank verso...)*' instead of square brackets."
       },
       {
         "gate": "Gate 2 (verify_publication_edition.py: Footnote Bijective Integrity)",
-        "cohorts_affected": [18],
-        "leaves_affected": [178],
+        "cohorts_affected": [
+          18
+        ],
+        "leaves_affected": [
+          178
+        ],
         "exact_violation": "Orphaned definitions in master: [516] (body markers=950, footnote definitions=951).",
         "root_cause": "In Cohort 18 Leaf p178, the Flash worker attached '[^516]' to the 2-up page sub-header '**[Right Page — Fol. 179r (p. 346)]**[^516]'. During compilation, compile_final_edition.py._purge_and_stitch() stripped all '**[Left/Right Page...]' lines, silently deleting '[^516]' from the body text.",
         "preventive_healer_spec": "Add a deterministic pass in attempt_deterministic_self_healing() and compile_final_edition.py._purge_and_stitch() that extracts any trailing '[^N]' markers from '=== LEAF pN ===' or '**[Left/Right Page...]**' lines before stripping them and attaches them to the first non-empty line below."
       },
       {
         "gate": "Gate 5A (verify_publication_edition.py: Unparenthesized Cyrillic in Body/Heading)",
-        "cohorts_affected": [1, 28],
-        "leaves_affected": [1, 273],
+        "cohorts_affected": [
+          1,
+          28
+        ],
+        "leaves_affected": [
+          1,
+          273
+        ],
         "exact_violation": "(1) L1 of _complete.md and _part0_front_matter.md failed because compile_final_edition.py generated '<a id=\"1604-striatyn-liturgikon-of-hedeon-balaban-служебник-стрятин-друкарня-балабанів-1604\"></a>' containing unparenthesized Cyrillic inside the HTML id attribute; (2) Cohort 28 Leaf p273 failed because a parenthesized editorial note '*(Note: ... (pp. 527-528) ... МОЛИТВЫ ВЕЧЕРНЇА ...)*' contained nested parentheses before the Cyrillic text, causing the non-nested regex r'\\([^\\)]*[\\u0400-\\u04FF][^\\)]*\\)' to terminate prematurely at '528)'.",
         "root_cause": "slugify() in compile_final_edition.py uses re.UNICODE without stripping Cyrillic before generating HTML anchor IDs; Gate 5A in verify_publication_edition.py does not strip HTML tags or handle nested parentheses, and run_small_pause_gate.py lacks a Gate 5A check during Phase 1.",
         "preventive_healer_spec": "Strip non-ASCII characters (or parenthetical subtitles) in compile_final_edition.py.slugify(); strip '<[^>]+>' tags before checking Cyrillic in verify_publication_edition.py; and add the Gate 5A unparenthesized-Cyrillic check to run_small_pause_gate.py and attempt_deterministic_self_healing()."
@@ -240,21 +658,62 @@
     },
     "precision_audit": {
       "true_positive_crux_leaves_in_queue": 7,
-      "true_positive_leaf_numbers": [4, 5, 252, 269, 273, 274, 281, 291],
+      "true_positive_leaf_numbers": [
+        4,
+        5,
+        252,
+        269,
+        273,
+        274,
+        281,
+        291
+      ],
       "false_positive_noise_leaves_in_queue": 51,
       "precision_pct": 13.56,
       "false_positive_rate_pct": 86.44,
       "unqueued_codicological_anomalies_missed_by_signals": [
-        {"leaves": [66, 67], "cohort": 7, "anomaly": "Binder's transposition of outer bifolia of Quire Zh ('ж') and Quire Z ('з') (<5 footnotes on leaf)"},
-        {"leaves": [131, 133, 134], "cohort": 14, "anomaly": "Pagination jump 241->244 and physically lost Folio 132 (pp. 246-247) breaking the Prayer of the Trisagion (<5 footnotes on leaf)"},
-        {"leaves": [149, 150], "cohort": 15, "anomaly": "Lost leaf between p149R (p. 283) and p150L (p. 286) mid-Cherubic Prayer (<5 footnotes on leaf)"},
-        {"leaves": [159, 160], "cohort": 16, "anomaly": "Lost leaf between p159R (p. 305) and p160L (p. 308) mid-Basil Anaphora (<5 footnotes on leaf)"}
+        {
+          "leaves": [
+            66,
+            67
+          ],
+          "cohort": 7,
+          "anomaly": "Binder's transposition of outer bifolia of Quire Zh ('ж') and Quire Z ('з') (<5 footnotes on leaf)"
+        },
+        {
+          "leaves": [
+            131,
+            133,
+            134
+          ],
+          "cohort": 14,
+          "anomaly": "Pagination jump 241->244 and physically lost Folio 132 (pp. 246-247) breaking the Prayer of the Trisagion (<5 footnotes on leaf)"
+        },
+        {
+          "leaves": [
+            149,
+            150
+          ],
+          "cohort": 15,
+          "anomaly": "Lost leaf between p149R (p. 283) and p150L (p. 286) mid-Cherubic Prayer (<5 footnotes on leaf)"
+        },
+        {
+          "leaves": [
+            159,
+            160
+          ],
+          "cohort": 16,
+          "anomaly": "Lost leaf between p159R (p. 305) and p160L (p. 308) mid-Basil Anaphora (<5 footnotes on leaf)"
+        }
       ],
       "root_cause_of_false_positives": "collect_argon_review_signals() in scripts/run_small_pause_gate.py (L228) hardcodes 'len(fn_markers) >= 5' per physical leaf without normalizing for 2-up open-spread facsimiles (where 1 physical leaf = 2 printed pages, so 5 footnotes = only 2.5 footnotes per printed page) and without distinguishing routine Biblical/liturgical citation footnotes from genuine epigraphic/codicological crux notes.",
       "recommended_genre_calibration": {
         "footnote_density_threshold_1up": 6,
         "footnote_density_threshold_2up": 10,
-        "sgc02_ratio_band_rubrical_2up": [0.45, 2.45],
+        "sgc02_ratio_band_rubrical_2up": [
+          0.45,
+          2.45
+        ],
         "new_signal_5_codicological_discontinuity": "Queue any leaf whose draft or footnotes match r'(?i)(?:misbound|transpos|lacuna|missing\\s+folio|lost\\s+leaf|compositor|errata|breaks\\s+off\\s+mid-|out\\s+of\\s+sequence)' regardless of footnote count."
       }
     }
@@ -295,25 +754,85 @@
     "target_schema": "1604_striatyn_balaban_liturgikon_atomic_corpus.json",
     "unit_classes": {
       "structural_containers": [
-        {"class_id": "PART_LANDMARK_H1", "count_in_cohorts": 4, "regex": "^#\\s+(PART\\s+[IVX]+:\\s+.+?)(?:\\[\\^\\d+\\])?\\s*$"},
-        {"class_id": "SERVICE_HEADPIECE_H2", "count_in_cohorts": 19, "regex": "^##\\s+(.+?)(?:\\[\\^\\d+\\])?\\s*$"},
-        {"class_id": "LEAF_BOUNDARY", "count_in_cohorts": 293, "regex": "^===\\s+LEAF\\s+p(\\d+)\\s+===\\s*$"},
-        {"class_id": "FOLIO_PAGE_MILESTONE_2UP", "count_in_cohorts": 582, "regex": "^\\*\\*\\[(Left|Right)\\s+Page\\s+—\\s+Fol\\.\\s+([^\\]]+)\\]\\*\\*\\s*$"}
+        {
+          "class_id": "PART_LANDMARK_H1",
+          "count_in_cohorts": 4,
+          "regex": "^#\\s+(PART\\s+[IVX]+:\\s+.+?)(?:\\[\\^\\d+\\])?\\s*$"
+        },
+        {
+          "class_id": "SERVICE_HEADPIECE_H2",
+          "count_in_cohorts": 19,
+          "regex": "^##\\s+(.+?)(?:\\[\\^\\d+\\])?\\s*$"
+        },
+        {
+          "class_id": "LEAF_BOUNDARY",
+          "count_in_cohorts": 293,
+          "regex": "^===\\s+LEAF\\s+p(\\d+)\\s+===\\s*$"
+        },
+        {
+          "class_id": "FOLIO_PAGE_MILESTONE_2UP",
+          "count_in_cohorts": 582,
+          "regex": "^\\*\\*\\[(Left|Right)\\s+Page\\s+—\\s+Fol\\.\\s+([^\\]]+)\\]\\*\\*\\s*$"
+        }
       ],
       "fixed_non_propers": [
-        {"class_id": "SACERDOTAL_PRAYER_HEADER", "count_in_cohorts": 77, "regex": "^\\*((?:The\\s+)?(?:First|Second|Third|Fourth|Fifth|Sixth|Seventh|Eighth|Ninth|Tenth|Eleventh|Twelfth|Another)?\\s*Prayer\\b[^*\\n]*)\\*(?:\\[\\^\\d+\\])?\\s*$"},
-        {"class_id": "PRIEST_UTTERANCE", "count_in_cohorts": 650, "regex": "^\\*\\*Priest:\\*\\*\\s+(.+)$"},
-        {"class_id": "DEACON_UTTERANCE", "count_in_cohorts": 404, "regex": "^\\*\\*Deacon:\\*\\*\\s+(.+)$"},
-        {"class_id": "CHOIR_OR_CLERGY_RESPONSE", "count_in_cohorts": 256, "regex": "^\\*\\*(Choir|People|Choirs|Clergy|Reader|Chanters):\\*\\*\\s+(.+)$"},
-        {"class_id": "ECPHONESIS_EXCLAMATION_RUBRIC", "count_in_cohorts": 73, "regex": "\\*((?:And\\s+the\\s+)?(?:Exclamation|exclama[tion]+|Loudly|Aloud)[^*\\n]*)\\*"},
-        {"class_id": "PROCEDURAL_RUBRIC_ITALIC", "count_in_cohorts": 1468, "regex": "^\\*([^*\\n]+)\\*(?:\\[\\^\\d+\\])?\\s*$"},
-        {"class_id": "PARATEXT_WOODCUT_OR_BINDING_NOTE", "count_in_cohorts": 24, "regex": "^(?:\\*\\()?\\[(Front|Rear|Verso|First|Second|Ornate|Full-Page| Architectural|Woodcut)[^\\]]+\\](?:\\)\\*)?"}
+        {
+          "class_id": "SACERDOTAL_PRAYER_HEADER",
+          "count_in_cohorts": 77,
+          "regex": "^\\*((?:The\\s+)?(?:First|Second|Third|Fourth|Fifth|Sixth|Seventh|Eighth|Ninth|Tenth|Eleventh|Twelfth|Another)?\\s*Prayer\\b[^*\\n]*)\\*(?:\\[\\^\\d+\\])?\\s*$"
+        },
+        {
+          "class_id": "PRIEST_UTTERANCE",
+          "count_in_cohorts": 650,
+          "regex": "^\\*\\*Priest:\\*\\*\\s+(.+)$"
+        },
+        {
+          "class_id": "DEACON_UTTERANCE",
+          "count_in_cohorts": 404,
+          "regex": "^\\*\\*Deacon:\\*\\*\\s+(.+)$"
+        },
+        {
+          "class_id": "CHOIR_OR_CLERGY_RESPONSE",
+          "count_in_cohorts": 256,
+          "regex": "^\\*\\*(Choir|People|Choirs|Clergy|Reader|Chanters):\\*\\*\\s+(.+)$"
+        },
+        {
+          "class_id": "ECPHONESIS_EXCLAMATION_RUBRIC",
+          "count_in_cohorts": 73,
+          "regex": "\\*((?:And\\s+the\\s+)?(?:Exclamation|exclama[tion]+|Loudly|Aloud)[^*\\n]*)\\*"
+        },
+        {
+          "class_id": "PROCEDURAL_RUBRIC_ITALIC",
+          "count_in_cohorts": 1468,
+          "regex": "^\\*([^*\\n]+)\\*(?:\\[\\^\\d+\\])?\\s*$"
+        },
+        {
+          "class_id": "PARATEXT_WOODCUT_OR_BINDING_NOTE",
+          "count_in_cohorts": 24,
+          "regex": "^(?:\\*\\()?\\[(Front|Rear|Verso|First|Second|Ornate|Full-Page| Architectural|Woodcut)[^\\]]+\\](?:\\)\\*)?"
+        }
       ],
       "variable_propers": [
-        {"class_id": "WEEKLY_AND_FESTAL_APOLYSIS_RUBRIC", "count_in_cohorts": 25, "regex": "^\\*(Dismissal\\s+(?:on|for|of)\\b[^*\\n]+|On\\s+(?:Sunday|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday)\\b[^*\\n]*dismissal[^*\\n]*)\\*(?:\\[\\^\\d+\\])?\\s*$"},
-        {"class_id": "TROPARION_OR_HYPAKOE_STANZA", "count_in_cohorts": 18, "regex": "^\\*([^\\n*]*\\b(?:Troparion|Hypakoe|Kontakion|Theotokion|Sticheron|Stichera|Evlogitaria)\\b[^*\\n]*)\\*(?:\\[\\^\\d+\\])?\\s*(.*)$"},
-        {"class_id": "PODOBEN_MELODIC_HEADER", "count_in_cohorts": 1, "regex": "^\\*Tone\\s+([1-8]),\\s+Podoben:\\s+\"([^\"]+)\"\\s+\\(([^\\)]+)\\):\\*"},
-        {"class_id": "PASCHAL_ODE_EKTENIA_EXCLAMATION", "count_in_cohorts": 9, "regex": "^\\*(After\\s+the\\s+(?:first|second|third|fourth|fifth|sixth|seventh|eighth|ninth)\\s+Ode[^*\\n]*)\\*"}
+        {
+          "class_id": "WEEKLY_AND_FESTAL_APOLYSIS_RUBRIC",
+          "count_in_cohorts": 25,
+          "regex": "^\\*(Dismissal\\s+(?:on|for|of)\\b[^*\\n]+|On\\s+(?:Sunday|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday)\\b[^*\\n]*dismissal[^*\\n]*)\\*(?:\\[\\^\\d+\\])?\\s*$"
+        },
+        {
+          "class_id": "TROPARION_OR_HYPAKOE_STANZA",
+          "count_in_cohorts": 18,
+          "regex": "^\\*([^\\n*]*\\b(?:Troparion|Hypakoe|Kontakion|Theotokion|Sticheron|Stichera|Evlogitaria)\\b[^*\\n]*)\\*(?:\\[\\^\\d+\\])?\\s*(.*)$"
+        },
+        {
+          "class_id": "PODOBEN_MELODIC_HEADER",
+          "count_in_cohorts": 1,
+          "regex": "^\\*Tone\\s+([1-8]),\\s+Podoben:\\s+\"([^\"]+)\"\\s+\\(([^\\)]+)\\):\\*"
+        },
+        {
+          "class_id": "PASCHAL_ODE_EKTENIA_EXCLAMATION",
+          "count_in_cohorts": 9,
+          "regex": "^\\*(After\\s+the\\s+(?:first|second|third|fourth|fifth|sixth|seventh|eighth|ninth)\\s+Ode[^*\\n]*)\\*"
+        }
       ]
     }
   },
@@ -362,6 +881,115 @@
         "data/templates/work_order_template.md"
       ],
       "empirical_justification": "Cohort 28 lost ~5.4 minutes diagnosing the misbound Folio 2 of Quire Ya ('ѧ҃ в', pp. 527-528) because the work order generator did not pass the trailing folio/page/signature state and unresolved lacuna alerts from Cohort K-1 into Cohort K's work order header."
+    }
+  ],
+  "monument_id": "1604_striatyn_balaban_liturgikon",
+  "title": "1604 Striatyn Liturgikon of Hedeon Balaban (Служебник, Стрятин: Друкарня Балабанів, 1604)",
+  "monument_type": "euchologion_liturgikon",
+  "genre_register": "rubrical",
+  "retrospective_timestamp": "2026-10-30T21:19:15.165802+00:00",
+  "codicological_profile": {
+    "total_physical_leaves": 293,
+    "cohort_count": 30,
+    "default_cohort_size": 10,
+    "monument_type": "euchologion_liturgikon"
+  },
+  "subagent_execution_telemetry": {
+    "total_cohorts_dispatched": 30,
+    "worker_model": "flash",
+    "cohorts_passing_gate_100pct": 30,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.055,
+      "median_cohort_ratio": 1.201,
+      "max_cohort_median": 1.536
+    }
+  },
+  "argon_review_queue_telemetry": {
+    "total_items_recorded": 59,
+    "resolved_by_argon": 59,
+    "info_telemetry_only": 0,
+    "unresolved_quarantines": 0,
+    "codicological_crux_count": 0
+  },
+  "final_publication_verification": {
+    "parts_count": 5,
+    "parts": [
+      "1604_striatyn_balaban_liturgikon_part0_front_matter.md",
+      "1604_striatyn_balaban_liturgikon_part1_liturgy_john_chrysostom.md",
+      "1604_striatyn_balaban_liturgikon_part2_liturgy_basil_the_great.md",
+      "1604_striatyn_balaban_liturgikon_part3_liturgy_presanctified.md",
+      "1604_striatyn_balaban_liturgikon_part4_appendices_and_colophon.md"
+    ],
+    "total_footnotes_verified": 951,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.055,
+      "median_cohort_ratio": 1.201,
+      "max_cohort_median": 1.536
+    },
+    "all_6_publication_gates_passed": true
+  },
+  "edge_cases_and_anomalies": [
+    {
+      "id": "EC-01",
+      "category": "scripts/compile_final_edition.py (_purge_and_stitch)",
+      "severity": "HIGH",
+      "description": "Stripping '**[Left/Right Page — Fol. ...]**' milestones deletes any footnote marker '[^N]' attached to the milestone line (caused Orphaned Footnote [^516] in Cohort 18)."
+    },
+    {
+      "id": "EC-02",
+      "category": "scripts/compile_final_edition.py (slugify) & scripts/verify_publication_edition.py (Gate 5A)",
+      "severity": "HIGH",
+      "description": "slugify() preserves Cyrillic from master_title inside '<a id=\"...\"></a>' on Line 1 of _complete.md and _part0_front_matter.md, which immediately trips Gate 5A's unparenthesized Cyrillic check."
+    },
+    {
+      "id": "EC-03",
+      "category": "data/templates/work_order_template.md (Mandate 12) vs. scripts/verify_publication_edition.py (Gate 1)",
+      "severity": "HIGH",
+      "description": "Mandate 12 requires symmetric text descriptions on blank leaves inside woodcut/divider cohorts, which workers format as '*[Blank leaf...]*', colliding with Gate 1's r'\\*?\\[Blank\\s+[^\\]]+\\]\\*?' ban."
+    },
+    {
+      "id": "EC-04",
+      "category": "scripts/verify_publication_edition.py (Gate 5A nested parentheses)",
+      "severity": "HIGH",
+      "description": "Single-level regex r'\\([^\\)]*[\\u0400-\\u04FF][^\\)]*\\)' fails when a parenthesized editorial block contains both an inner parenthetical page citation '(pp. 527-528)' and a Cyrillic quotation."
+    },
+    {
+      "id": "EC-05",
+      "category": "scripts/chromatic_rubric_verifier.py (Gate 1C)",
+      "severity": "HIGH",
+      "description": "290/293 leaves triggered non-blocking '[GATE 1C WARNING] Leaf pN rubric lacks verified red pigment' because 1604 oxidized vermilion ink on aged rag paper has lower HSV saturation than modern digital red."
+    }
+  ],
+  "engine_hardening_proposals": [
+    {
+      "proposal_id": "RANK-1",
+      "target_script": "scripts/compile_final_edition.py (_purge_and_stitch, L111-L165)",
+      "priority": "RANK_1",
+      "title": "Rescue Trailing Footnote Markers & Sanitize Blank-Leaf Brackets in _purge_and_stitch() and attempt_deterministic_self_healing()"
+    },
+    {
+      "proposal_id": "RANK-2",
+      "target_script": "scripts/run_small_pause_gate.py (collect_argon_review_signals, L188-L255)",
+      "priority": "RANK_2",
+      "title": "Calibrate Argon Review Queue Footnote Threshold for 2-Up Facsimiles and Add Codicological Discontinuity Signal"
+    },
+    {
+      "proposal_id": "RANK-3",
+      "target_script": "scripts/compile_final_edition.py (slugify, L40-L45)",
+      "priority": "RANK_3",
+      "title": "Strip Non-ASCII Characters in compile_final_edition.py.slugify() and Ignore HTML Anchor Attributes in Gate 5A"
+    },
+    {
+      "proposal_id": "RANK-4",
+      "target_script": "scripts/run_small_pause_gate.py (run_gate)",
+      "priority": "RANK_4",
+      "title": "Add Unparenthesized Cyrillic Healer & Gate 5A Pre-Check Directly to Phase 1 Small Pause Gate"
+    },
+    {
+      "proposal_id": "RANK-5",
+      "target_script": "scripts/generate_work_order.py (generate_work_order)",
+      "priority": "RANK_5",
+      "title": "Propagate 2-Up Folio Coordinate & Quire-Signature Continuity Context Across Cohort Work Orders"
     }
   ]
 }

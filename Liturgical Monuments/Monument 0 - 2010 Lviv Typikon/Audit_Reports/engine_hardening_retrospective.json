@@ -1,0 +1,51 @@
+{
+  "monument_id": "2010_lviv_typikon",
+  "title": "Typikon of the Ukrainian Greek-Catholic Church (Lviv, 2010)",
+  "monument_type": "typikon",
+  "genre_register": "rubrical",
+  "retrospective_timestamp": "2026-10-30T21:20:22.349811+00:00",
+  "codicological_profile": {
+    "total_physical_leaves": 287,
+    "cohort_count": 29,
+    "default_cohort_size": 10,
+    "monument_type": "typikon"
+  },
+  "subagent_execution_telemetry": {
+    "total_cohorts_dispatched": 29,
+    "worker_model": "flash",
+    "cohorts_passing_gate_100pct": 0,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 0.888,
+      "median_cohort_ratio": 1.261,
+      "max_cohort_median": 1.338
+    }
+  },
+  "argon_review_queue_telemetry": {
+    "total_items_recorded": 0,
+    "resolved_by_argon": 0,
+    "info_telemetry_only": 0,
+    "unresolved_quarantines": 0,
+    "codicological_crux_count": 0
+  },
+  "final_publication_verification": {
+    "parts_count": 7,
+    "parts": [
+      "Final_Dolnytsky_intro.md",
+      "Final_Dolnytsky_part1_structure.md",
+      "Final_Dolnytsky_part2_general_rubrics.md",
+      "Final_Dolnytsky_part3_menaion.md",
+      "Final_Dolnytsky_part4_triodion.md",
+      "Final_Dolnytsky_part5_temple.md",
+      "Final_Dolnytsky_appendix.md"
+    ],
+    "total_footnotes_verified": 785,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 0.888,
+      "median_cohort_ratio": 1.261,
+      "max_cohort_median": 1.338
+    },
+    "all_6_publication_gates_passed": true
+  },
+  "edge_cases_and_anomalies": [],
+  "engine_hardening_proposals": []
+}

@@ -15,9 +15,7 @@
 *The second reading, from Leviticus: "The Lord said unto the children of Israel" [Lev. 26:3–12];*  
 *From the Wisdom of Solomon: "The righteous, though he be overtaken by death" [Wis. 4:7–15].*  
 *The priest says the litany: Let us all say. After this: Vouchsafe, O Lord. The priest says the litany: Let us complete our evening prayer. At the Aposticha, 4 idiomel stichera:*  
-*To the Indiction, 2 stichera, Tone 1: "Thy seasonable entrance is come, O Christ God..."*
-
-*...our God; and two of the Second Tone: Marvelous art Thou, O God; O Thou Who by wisdom hast fashioned all things. And the verses are said: To Thee praise is due, [O God, in Zion] [LXX Ps. 64:2]; Verse: We were filled with the good things [of Thy house] [LXX Ps. 64:5]; Bless the crown of the year [LXX Ps. 64:12]. Glory, Tone 5: Venerable father; Both now, to the Indiction, Tone 5: Thou art the King of the ages.*[^199]  
+*To the Indiction, 2 stichera, Tone 1: "Thy seasonable entrance is come, O Christ God" our God; and two of the Second Tone: Marvelous art Thou, O God; O Thou Who by wisdom hast fashioned all things. And the verses are said: To Thee praise is due, [O God, in Zion] [LXX Ps. 64:2]; Verse: We were filled with the good things [of Thy house] [LXX Ps. 64:5]; Bless the crown of the year [LXX Ps. 64:12]. Glory, Tone 5: Venerable father; Both now, to the Indiction, Tone 5: Thou art the King of the ages.*[^199]
 *Dismissal Troparion of the Indiction, Tone 2:*  
 *Troparion:*  
 O Creator of all creation, Who hast placed times and years in Thine own power: bless the crown of the year of Thy goodness, preserving in peace the king and Thy people, through the prayers of the Theotokos, O Thou Who alone art the Lover of mankind.  
@@ -26,9 +24,7 @@ O Creator of all creation, Who hast placed times and years in Thine own power: b
 Thou wast a pillar of endurance, having rivaled the forefathers, O venerable one: Job in his sufferings, and Joseph in tribulations, and possessing the life of the bodiless while in the flesh; O Symeon our father, entreat Christ God that our souls may be saved.  
 *Both now, Theotokion, Tone 1:*  
 *Theotokion:*  
-Rejoice, blessed Theotokos Virgin, haven and protectress of the human race; for of thee [was incarnate the Deliverer of the world]...
-
-...for of Thee was incarnate the Deliverer of the world; Thou alone art Mother and Ever-blessed Virgin; entreat Christ God to grant peace unto the universe, and great mercy unto our souls.[^200]  
+Rejoice, blessed Theotokos Virgin, haven and protectress of the human race; for of thee [was incarnate the Deliverer of the world] for of Thee was incarnate the Deliverer of the world; Thou alone art Mother and Ever-blessed Virgin; entreat Christ God to grant peace unto the universe, and great mercy unto our souls.[^200]
 *At Matins: "The Lord is God," in Tone 2. Troparion of the Indiction twice; Glory, to the Saint; Both now, Theotokion. The customary stichology [Kathismata].*  
 *After the 1st Kathisma: Sessional hymn of the Indiction; and Both now, again the same sessional hymn; and a reading from the Life of Saint Symeon.*  
 *After the 2nd Kathisma: [Sessional hymn] to Saint Symeon, and a reading.*  
@@ -38,14 +34,10 @@ Rejoice, blessed Theotokos Virgin, haven and protectress of the human race; for 
 *After Ode 6: Kontakion [of Saint Symeon], Tone 2, Podoben: "Seeking the Highest" (Вышнихъ ищя):*  
 *Kontakion:*  
 Having joined Thyself unto the things on high, and having made the pillar a chariot of fire, thereby Thou becamest a companion of the angels, O venerable one; with them entreat Christ God unceasingly for us all.  
-*At the Praises: 4 idiomel stichera; to the Indiction, Tone 3: "O Pre-eternal Word" (Превѣчное Слово)...*
-
-...and two [stichera] of Tone 4: "Thy kingdom, O Christ God" (Царствіе Твое, Христе Боже); "Who by nature [art the Spirit]" (Иже естествомъ [Духъ]). And both now, to the [holy] women, Tone 2: "When the passion" (Егда страсть); Glory, to the Saint [Symeon], Tone 4: "From a good root" (Отъ корене благаго); Both now, of the Indiction, Tone 8: "Who by Thine unutterable [wisdom]" (Иже неизреченною [мудростію]). The Great Doxology. At the Liturgy: from the canon of the Indiction, Ode 3; to the Saint, [Ode] 6. Prokeimenon, Tone 3: "Great is our Lord, and great is His power" [LXX Ps. 146:5]; Verse: "Praise ye the Lord" [LXX Ps. 146:1]. To the Saint: "Precious in the sight of the Lord [is the death of His venerable ones]" [LXX Ps. 115:6]. The Epistle: to Timothy [1 Tim. 2:1–7]. To the Saint, the Epistle [to the Colossians]: "Brethren, put ye on..." [Col. 3:12–16]. Alleluia, Tone 4: "To Thee praise is due, O God, in Zion" [LXX Ps. 64:2]; [Verse:] "Bless the crown of the year [of Thy goodness]" [LXX Ps. 64:12]. To the Saint: "Blessed is the man that fears the Lord" [LXX Ps. 111:1]. The Gospel from Luke [Lk. 4:16–22]. To the Saint, the Gospel from Matthew [Mt. 11:27–30]. Communion verse: "Bless the crown of the year of Thy goodness" [LXX Ps. 64:12].[^201]  
+*At the Praises: 4 idiomel stichera; to the Indiction, Tone 3: "O Pre-eternal Word" (Превѣчное Слово)* and two [stichera] of Tone 4: "Thy kingdom, O Christ God" (Царствіе Твое, Христе Боже); "Who by nature [art the Spirit]" (Иже естествомъ (*Духъ*)). And both now, to the [holy] women, Tone 2: "When the passion" (Егда страсть); Glory, to the Saint [Symeon], Tone 4: "From a good root" (Отъ корене благаго); Both now, of the Indiction, Tone 8: "Who by Thine unutterable [wisdom]" (Иже неизреченною (*мудростію*)). The Great Doxology. At the Liturgy: from the canon of the Indiction, Ode 3; to the Saint, [Ode] 6. Prokeimenon, Tone 3: "Great is our Lord, and great is His power" [LXX Ps. 146:5]; Verse: "Praise ye the Lord" [LXX Ps. 146:1]. To the Saint: "Precious in the sight of the Lord [is the death of His venerable ones]" [LXX Ps. 115:6]. The Epistle: to Timothy [1 Tim. 2:1–7]. To the Saint, the Epistle [to the Colossians]: "Brethren, put ye on..." [Col. 3:12–16]. Alleluia, Tone 4: "To Thee praise is due, O God, in Zion" [LXX Ps. 64:2]; [Verse:] "Bless the crown of the year [of Thy goodness]" [LXX Ps. 64:12]. To the Saint: "Blessed is the man that fears the Lord" [LXX Ps. 111:1]. The Gospel from Luke [Lk. 4:16–22]. To the Saint, the Gospel from Matthew [Mt. 11:27–30]. Communion verse: "Bless the crown of the year of Thy goodness" [LXX Ps. 64:12].[^201]
 *On the 2nd day, memory of the holy Martyr Mamas, and of our venerable father John the Faster, Patriarch of Constantinople. At Vespers: stichera to the Saint on 6; Glory, Tone 2: "Shining as a new [star]" (Новый сїяя); Both now, at the Aposticha: Glory, Tone 4: "Come with one accord, ye faithful" (Приидѣте согласно, вѣрніи). And if they wish, then to the Faster, Tone 6: "Venerable father" (Преподобне отче); Glory; Both now, Theotokion. Troparion, Tone 4:*  
 *Troparion:*  
-Thy martyr, O Lord,...
-
-...Mamas, in his suffering received an incorruptible crown from Thee, our God; for possessing Thy strength invincible, he cast down the tormentors, and crushed the powerless insolence of demons. By his intercessions, O Christ God, save our souls![^202]  
+Thy martyr, O Lord, Mamas, in his suffering received an incorruptible crown from Thee, our God; for possessing Thy strength invincible, he cast down the tormentors, and crushed the powerless insolence of demons. By his intercessions, O Christ God, save our souls![^202]
 *Glory, to the Faster, Tone 4:*  
 *Troparion:*  
 A rule of faith and image of meekness, a teacher of temperance did the reality of thy deeds show thee forth unto thy flock; therefore, by humility thou didst acquire high things, and by poverty, riches: O father John, entreat Christ God that our souls may be saved.  
@@ -54,23 +46,17 @@ A rule of faith and image of meekness, a teacher of temperance did the reality o
 *Kontakion:*  
 With the rod given thee by God, O holy one, shepherd thy people upon life-bearing pastures; and crush beneath the feet of them that hymn thee the invisible and untamed beasts; for all of us that are in tribulations possess thee, O Mamas, as a fervent protector.  
 *At the Liturgy: the general service of the martyrs.*  
-*Of the Holy Hieromartyr Anthimus, Bishop of Nicomedia...*
-
-...martyr Anthimus, Bishop of Nicomedia; and of our venerable father Theoctistus, fellow-ascetic of Euthymius the Great. At Vespers: stichera to the Saints on 6; Glory to the Saint: "A lawful priest" (Священникъ законный); at the Aposticha: Glory to the Saint, Tone 6: "Venerable father" (Преподобне отче); Both now, Theotokion. Troparion, Tone 4:[^203]  
+*Of the Holy Hieromartyr Anthimus, Bishop of Nicomedia* martyr Anthimus, Bishop of Nicomedia; and of our venerable father Theoctistus, fellow-ascetic of Euthymius the Great. At Vespers: stichera to the Saints on 6; Glory to the Saint: "A lawful priest" (Священникъ законный); at the Aposticha: Glory to the Saint, Tone 6: "Venerable father" (Преподобне отче); Both now, Theotokion. Troparion, Tone 4:[^203]
 *Troparion:*  
 Both a partaker of the ways and a successor to the thrones of the Apostles, thou didst find action, O God-inspired one, as an ascent unto contemplation; therefore, rightly dividing the word of truth, and having suffered for the faith even unto blood, O hieromartyr Anthimus: entreat Christ God that our souls may be saved.  
 *Glory, to the Venerable One, Tone 8:*  
 *Troparion:*  
 With the streams of thy tears thou didst cultivate the barren desert, and with sighs from the depths thou didst bear fruit an hundredfold in thy labors, and becamest a luminary unto the universe, shining with wonders, O Theoctistus our father: entreat Christ God that our souls may be saved.  
-*At Matins: the Resurrection canon, and two to the Saints. After Ode 6: Kontakion, Tone 4, Podoben: "Thou Who Wast Raised Up" (Вознесыйся)...*
-
-*Kontakion:*  
+*At Matins: the Resurrection canon, and two to the Saints. After Ode 6: Kontakion, Tone 4, Podoben: "Thou Who Wast Raised Up" (Вознесыйся) Kontakion:*
 Having lived piously among hierarchs, and passed the path of martyrdom, thou didst extinguish the idolatrous sacrifices, and becamest a defender of thy flock, O God-wise one; therefore, honoring thee, we mystically cry aloud unto thee: Deliver us ever from afflictions by thy prayers, O our father Anthimus.[^204]  
 *At the Aposticha: Glory to the Saint, Tone 4. At the Liturgy: Prokeimenon: "Precious in the sight of the Lord [is the death of His venerable ones]" [LXX Ps. 115:6]; Verse: "What shall I render [unto the Lord]" [LXX Ps. 115:3]. The Epistle to the Hebrews: "Brethren, obey them that have the rule over you..." [Heb. 13:17–21]. Alleluia, Tone 2: "Thy priests, O Lord, [shall be clothed with righteousness]" [LXX Ps. 131:9]; Verse: "Blessed is the man that fears the Lord" [LXX Ps. 111:1]. The Gospel from John: "The Lord said: I am the door..." [Jn. 10:9–16].*  
 *Memory of the holy Hieromartyr Babylas, Archbishop of Great Antioch, and with him three children; of the holy Hieromartyr Babylas, who was teacher in Nicomedia, and 84 children; of the holy women martyrs Hermione and Eutychia, sisters of the holy Apostle Philip, one of the seven deacons; and of the holy Prophet and God-seer Moses.*  
-*At Vespers: stichera to the Saints on 6; Glory, Tone 6: "Unto the common teacher" (Общему учителю); at the Aposticha: troparion as on the 3rd of this month...*
-
-*Glory, Tone 2:*  
+*At Vespers: stichera to the Saints on 6; Glory, Tone 6: "Unto the common teacher" (Общему учителю); at the Aposticha: troparion as on the 3rd of this month Glory, Tone 2:*
 *Troparion:*  
 Celebrating the memory of Thy Prophet, O Lord, therefore we pray Thee: Save our souls![^205]  
 *Both now, Theotokion. At Matins: canon of the Resurrection, two of the Saints.*  
@@ -80,28 +66,20 @@ As a preacher of piety and confirmation of sufferers, the Church glorifies thee,
 *After Ode 6: Kontakion, Tone 4, Podoben: "Thou Hast Appeared Today" (Явился еси):*  
 *Kontakion:*  
 A great faith in thy heart was preserved concerning God, O hieromartyr Babylas; thou didst not care for torment, Christ comforting thee and keeping thee safe.  
-*At the Aposticha: Theotokion. At the Liturgy: [the Beatitudes] of the Resurrection on 6, and of the Saint Ode 3 on 4. Prokeimenon, Tone 4: "Unto the saints that are in His earth" [LXX Ps. 15:3]; Verse: "I foresaw the Lord [always before me]" [LXX Ps. 15:8]. The Epistle [of the Saints]. Alleluia, Tone 4: "The righteous cried, and the Lord heard them" [LXX Ps. 33:18]. The Gospel from Matthew: "The Lord said: Whosoever shall confess Me before men..." [Mt. 10:32]. Communion verse: "Rejoice in the Lord, O ye righteous" [LXX Ps. 32:1]...*
-
-*Of the Holy Prophet Zachariah, father of John the Forerunner [September 5]. At Vespers: stichera on 6; Glory, Tone 8: "Of the lawful priesthood" (Святительства законнаго); Both now, [Theotokion]. At the Aposticha: Glory, Tone 2: "Offering sacrifices" (Жертвы принося). Troparion, Tone 1:*[^206]  
+*At the Aposticha: Theotokion. At the Liturgy: [the Beatitudes] of the Resurrection on 6, and of the Saint Ode 3 on 4. Prokeimenon, Tone 4: "Unto the saints that are in His earth" [LXX Ps. 15:3]; Verse: "I foresaw the Lord [always before me]" [LXX Ps. 15:8]. The Epistle [of the Saints]. Alleluia, Tone 4: "The righteous cried, and the Lord heard them" [LXX Ps. 33:18]. The Gospel from Matthew: "The Lord said: Whosoever shall confess Me before men..." [Mt. 10:32]. Communion verse: "Rejoice in the Lord, O ye righteous" [LXX Ps. 32:1] Of the Holy Prophet Zachariah, father of John the Forerunner [September 5]. At Vespers: stichera on 6; Glory, Tone 8: "Of the lawful priesthood" (Святительства законнаго); Both now, [Theotokion]. At the Aposticha: Glory, Tone 2: "Offering sacrifices" (Жертвы принося). Troparion, Tone 1:*[^206]
 *Troparion:*  
 Clothed in priestly vestments, visibly according to the Law of God thou didst offer acceptable whole-burnt offerings in a priestly manner, O Zachariah; and thou wast a luminary and beholder of mysteries, bearing in thyself the manifest signs of grace, O all-wise one; and slain with the sword in the temple of God, O prophet of Christ, with the Forerunner entreat that our souls may be saved.  
 *At Matins: reading from Chrysostom. After Ode 6: Kontakion, Tone 3, Podoben: "Today the Virgin" (Дѣва днесь):*  
 *Kontakion:*  
 Today the prophet and priest of the Most High, Zachariah, the parent of the Forerunner, hath set forth the banquet of his prophecy, nourishing all; therefore he is perfected as a divine martyr of the grace of God.  
 *At the Liturgy: [the Beatitudes] on 6, and of the Prophet Ode 3 on 4. Prokeimenon, Tone 7: "The righteous shall rejoice in the Lord" [LXX Ps. 63:11]; Verse: "Hear, O God, my prayer" [LXX Ps. 63:2]. The Epistle to the Hebrews: "Brethren, when God made promise to Abraham..." [Heb. 6:13–20]. Alleluia, Tone 5: "Light hath dawned for the righteous" [LXX Ps. 96:11]. The Gospel from Matthew: "The Lord said: Woe unto you, scribes and Pharisees..." [Mt. 23:29–39]. Communion verse: [In everlasting memory shall the righteous be, LXX Ps. 111:6].*  
-*On the 6th, memory: Commemoration of the miracle wrought at Colossae, which is in Chonae...*
-
-*...in Chonae, by the Archistrategos Michael; and of the holy Martyr Eudoxius and those who suffered with him; we celebrate [the feast]. At Vespers: stichera on 6; Glory, Tone 6: "Rejoice with us, [all ye angelic ranks]" (Срадуйтеся с нами); at the Aposticha: stichera... Glory, Tone 8: "As leader of the heavenly ranks" (Яко чиноначальникъ). And if... of the current tone. Troparion, Tone 4:*[^207]  
+*On the 6th, memory: Commemoration of the miracle wrought at Colossae, which is in Chonae in Chonae, by the Archistrategos Michael; and of the holy Martyr Eudoxius and those who suffered with him; we celebrate [the feast]. At Vespers: stichera on 6; Glory, Tone 6: "Rejoice with us, [all ye angelic ranks]" (Срадуйтеся с нами); at the Aposticha: stichera... Glory, Tone 8: "As leader of the heavenly ranks" (Яко чиноначальникъ). And if... of the current tone. Troparion, Tone 4:*[^207]
 *Troparion:*  
 O Commander of the heavenly hosts, we the unworthy do ever entreat thee: that by thy prayers [thou mayest cover us under the shelter of the wings of thine immaterial glory, preserving us that fall down and cry aloud earnestly: Deliver us from afflictions, as leader of the hosts on high!]  
-*[... Folio dissectum: the lower diagonal half of leaf 79 is missing from the physical witness, with loss of the conclusion of the Troparion and the opening Matins rubrics ...]*
-
-*[... Folio dissectum: the upper verso continues the lacuna from the recto, resuming with the Liturgy apparatus for September 6 ...]*  
+*[... Folio dissectum: the lower diagonal half of leaf 79 is missing from the physical witness, with loss of the conclusion of the Troparion and the opening Matins rubrics ...] [... Folio dissectum: the upper verso continues the lacuna from the recto, resuming with the Liturgy apparatus for September 6 ...]*
 *...[after Ode 3] on 4; Glory, Tone 5: "Whithersoever thy grace overshadows, O Archangel" (Идеже осѣняетъ); at the Aposticha: [stichera of the Resurrection], Glory, Tone 6: "The angels..." (Ангели). At the Liturgy: [the Beatitudes] on 6, and to the Angel Ode 3 on 4. Prokeimenon, Tone 4: "Who makes His angels spirits, and His ministers a flame of fire" [LXX Ps. 103:4]; Verse: "Bless the Lord, O my soul" [LXX Ps. 103:1]. The Epistle to the Hebrews: "Brethren, if the word spoken by angels was stedfast..." [Heb. 2:2–10]. Alleluia, Tone 2: "Praise the Lord, all ye His angels" [LXX Ps. 148:2]; Verse: "For He spake, and they were made" [LXX Ps. 148:5]. The Gospel from Luke: "The Lord said: He that hears you hears Me..." [Lk. 10:16–21]. Communion verse: "Who makes His angels spirits..." [LXX Ps. 103:4].*[^208]  
 *Forefeast of the Nativity of the Most Holy Theotokos, and of the Holy Martyr Sozon [September 7]. At Vespers: stichera... [Tone 8; Both now, Tone 4: "All-honorable..."]*  
-*[... Folio dissectum: the lower half of the verso continues the lacuna of leaf 79, with loss of the remainder of Vespers for September 7 ...]*
-
-...the holy Theotokos, and nourisher of our life.[^209]  
+*[... Folio dissectum: the lower half of the verso continues the lacuna of leaf 79, with loss of the remainder of Vespers for September 7 ...]* the holy Theotokos, and nourisher of our life.[^209]
 *Glory: Troparion of the Martyr, Tone 4: "Thy martyr, O Lord..." (Мученикъ Твой, Господи).*  
 *At Matins: reading from Chrysostom; canon of the Resurrection on 6, to the Theotokos on 4, and to the Martyr on 4.*  
 *After Ode 6: Kontakion [of the Martyr], Tone 2, Podoben: "Seeking the Highest" (Вышнихъ ищя):*  
@@ -110,15 +88,11 @@ Let us honorably form a choir for the martyr, and Him Who glorified him let us f
 *At the Aposticha: Resurrectional [stichera]; Glory, and both now, Tone 2: "Foreshown [of old by the prophets]" (Проувидѣнная).*  
 *At the Liturgy: [the Beatitudes] of the Resurrection on 6, and of the Saint Ode 3 on 4. Prokeimenon, Tone 7: "The righteous shall rejoice in the Lord" [LXX Ps. 63:11]. The Epistle... Alleluia: "The righteous shall flourish like a palm tree" [LXX Ps. 91:13]. The Gospel from John... Communion verse: "In everlasting memory shall the righteous be" [LXX Ps. 111:6].*  
 *On the 8th, memory: The Nativity of the Most Holy Theotokos; we celebrate 2 days.*  
-*At Small Vespers: stichera, Tone 6: "Today the barren [wombs]" (Днесь непраздныя [чрева]); "This is the day of the Lord" (Сей день Господень); ... Glory, and both now: "Today the barren [wombs]". At the Aposticha, 3 [stichera]: "The universal [joy]" (Всемирная радость)...*
-
-...universal joy (*Всемирная радость*)... we say: "The barren [eplody]..." In the same tone we say [the verses]: "Give ear, O daughter..." Verse: "The rich among the people [shall entreat] thy face." Glory, and both now: "The universal joy".  
+*At Small Vespers: stichera, Tone 6: "Today the barren [wombs]" (Днесь непраздныя (*чрева*)); "This is the day of the Lord" (Сей день Господень); ... Glory, and both now: "Today the barren [wombs]". At the Aposticha, 3 [stichera]: "The universal [joy]" (Всемирная радость)* universal joy (*Всемирная радость*)... we say: "The barren [eplody]..." In the same tone we say [the verses]: "Give ear, O daughter..." Verse: "The rich among the people [shall entreat] thy face." Glory, and both now: "The universal joy".
 *Dismissal Troparion, Tone 4:*  
 *Troparion:*  
 Thy Nativity, O Theotokos Virgin, hath proclaimed joy unto all the universe: for from thee hath shone forth the Sun of righteousness, Christ our God; and having destroyed the curse, He hath given blessing, and having abolished death, He hath bestowed upon us life everlasting.  
-*At Great Vespers: Blessed is the man. At "Lord, I have cried", in Tone 6; we set 10 stichera: 6 samoglasny in Tone 6: 1. "Today He Who rests upon the spiritual thrones..." 2. "Although by the divine nod..." 3. "Today the barren gates are opened..." 4. "Now the barren [womb]...", doubling the 1st and the 2nd. Glory, and both now, Tone 6: "Today He Who rests upon the spiritual [thrones]". Entrance; prokeimenon of the day; 3 readings. At the Litiya, Tone 1, samoglasny: "The beginning of our salvation"; another, Tone 2: "Foreshown [of old by the prophets]"; Glory, and both now, Tone 8: "On the notable day of our feast". At the Aposticha, 3 samoglasny, Tone 4: "..." Glory, and both now, Tone 8: "Come, all ye faithful..."*[^210]
-
-...faithful... At the blessing of the loaves: the Troparion is sung 3 times: "Thy Nativity, O Theotokos". The great reading of the feast is read. At Matins: At "God is the Lord", troparion 3 times. The usual kathisma psalter reading. And after the 1st Kathisma, sessional hymns, all of the feast; and reading of the encomium of the feast, and in Metaphrastes. Graduals of Tone 4. Prokeimenon, Tone 4: "I will make Thy name to be remembered"; Verse: "My heart hath poured forth a good word" [LXX Ps. 44:18, 2]. "Let every breath..." The Gospel from Luke: "At that time, Mary arose..." [Lk. 1:39–49, 56]. Psalm 50. Sticheron of the feast. Canon one, of lord John [Damascene], Tone 2, the heirmoi and troparia 2 times each, that they may be on 8. The second canon, of lord Andrew [of Crete], Tone 8, the heirmoi and troparia once. Katavasia: "Having traced the Cross" (*Крест начертав*). After Ode 3: Hypakoe of the feast. After Ode 6: Kontakion, Tone 4:*[^211]  
+*At Great Vespers: Blessed is the man. At "Lord, I have cried", in Tone 6; we set 10 stichera: 6 samoglasny in Tone 6: 1. "Today He Who rests upon the spiritual thrones..." 2. "Although by the divine nod..." 3. "Today the barren gates are opened..." 4. "Now the barren [womb]...", doubling the 1st and the 2nd. Glory, and both now, Tone 6: "Today He Who rests upon the spiritual [thrones]". Entrance; prokeimenon of the day; 3 readings. At the Litiya, Tone 1, samoglasny: "The beginning of our salvation"; another, Tone 2: "Foreshown [of old by the prophets]"; Glory, and both now, Tone 8: "On the notable day of our feast". At the Aposticha, 3 samoglasny, Tone 4: "..." Glory, and both now, Tone 8: "Come, all ye faithful"*[^210] faithful... At the blessing of the loaves: the Troparion is sung 3 times: "Thy Nativity, O Theotokos". The great reading of the feast is read. At Matins: At "God is the Lord", troparion 3 times. The usual kathisma psalter reading. And after the 1st Kathisma, sessional hymns, all of the feast; and reading of the encomium of the feast, and in Metaphrastes. Graduals of Tone 4. Prokeimenon, Tone 4: "I will make Thy name to be remembered"; Verse: "My heart hath poured forth a good word" [LXX Ps. 44:18, 2]. "Let every breath..." The Gospel from Luke: "At that time, Mary arose..." [Lk. 1:39–49, 56]. Psalm 50. Sticheron of the feast. Canon one, of lord John [Damascene], Tone 2, the heirmoi and troparia 2 times each, that they may be on 8. The second canon, of lord Andrew [of Crete], Tone 8, the heirmoi and troparia once. Katavasia: "Having traced the Cross" (*Крест начертав*). After Ode 3: Hypakoe of the feast. After Ode 6: Kontakion, Tone 4:*[^211]
 *Kontakion:*  
 Joachim and Anna were delivered from the reproach of childlessness, and Adam and Eve from the corruption of death, O Most Pure One, in thy holy nativity; this thy people celebrate, being freed from the guilt of transgressions, as they cry aloud unto thee: The barren woman gives birth to the Theotokos and the nourisher of our Life!
 
@@ -145,9 +119,7 @@ As a venerable hierarch and faithful sufferer, the Church honoring thee glorifie
 
 *[At Matins:] two canons: one with heirmoi on 8, and the other without heirmoi on 6. Katavasia: "Having traced the Cross", both choirs together. After Ode 3: Sessional hymn of the feast. After Ode 6: Kontakion and Ikos of the feast. At Ode 9: We do not sing "More honorable". At the Praises: 3 samoglasny of the feast: "O marvelous wonder"; Glory, and both now, Tone 6: "This is the day of the Lord". The Great Doxology; after the Trisagion: troparion of the feast, and the litany; dismissal; First Hour.*  
 *At the Liturgy: From both canons, both odes [3 and 6] with heirmoi on 8; Troparion of the feast; Glory, and both now: Kontakion of the feast. Epistle and Gospel of the day.*[^216]  
-*Dedication of the Church of the Holy Resurrection of Christ our God; and the Holy Hieromartyr Cornelius the Centurion; and Forefeast of the Life-Giving Cross [September 13]. Vespers: Samoglasny 3, and of the saint 3; Glory, Tone 6: "Memory of the Dedication"; and both now: of the Cross, Tone 6: "Today the wood". If it fall on Friday evening, "Both now" Theotokion of the current tone; Entrance; Prokeimenon of the day; and 3 readings of the Dedication. At the Aposticha: 3 [stichera] of the Cross, Tone 5: "Rejoice..."*
-
-...O life-bearing Cross!... Glory, Tone 2: of the Dedication; and both now: of the Cross, "The divine [treasure]". Troparion, Tone 4:*[^217]  
+*Dedication of the Church of the Holy Resurrection of Christ our God; and the Holy Hieromartyr Cornelius the Centurion; and Forefeast of the Life-Giving Cross [September 13]. Vespers: Samoglasny 3, and of the saint 3; Glory, Tone 6: "Memory of the Dedication"; and both now: of the Cross, Tone 6: "Today the wood". If it fall on Friday evening, "Both now" Theotokion of the current tone; Entrance; Prokeimenon of the day; and 3 readings of the Dedication. At the Aposticha: 3 [stichera] of the Cross, Tone 5: "Rejoice"* O life-bearing Cross!... Glory, Tone 2: of the Dedication; and both now: of the Cross, "The divine [treasure]". Troparion, Tone 4:*[^217]
 *Troparion:*  
 As Thou hast shown forth the beauty of the celestial firmament above, and the splendor of the holy dwelling of Thy glory below, O Lord: establish it unto ages of ages, and accept our supplications unceasingly offered unto Thee therein, for the sake of the Theotokos, O Thou Who art the Life and Resurrection of all!  
 *Glory, and both now: of the Cross, Tone 2:*  
@@ -166,9 +138,7 @@ The church is shown forth as a radiant heaven unto all, illuminating the faithfu
 
 *On that same day, after the dismissal of Small Vespers, the ecclesiarch goes up into the sacristy with the priest and the censer-bearer, with candles and censer, and they take up the precious Cross, singing the Troparion: "Save, O Lord, Thy people", and they bring it into the altar and lay it upon the Holy Table, and they light a candle for the whole night.*  
 *The Universal Exaltation of the Precious and Life-Giving Cross of the Lord, and the Falling-Asleep among the Saints of our Father John Chrysostom. We celebrate the great day.*[^219]  
-*Be it known that the office of Chrysostom on this radiant day is not sung in Constantinople, for the sake of the Exaltation of the Precious Cross, the Master's feast; and for that reason it was transferred unto the 13th of November, even as it is found in the Synaxarion. But if it be a church of Chrysostom, it is sung on the feast day; but whereas in Jerusalem it is sung, and in the Typikon it is written indispensably, it is likewise written...*
-
-*On the 20th day: after Ode 6, Kontakion of the feast. Holy Great-Martyr Eustathius, and his wife, and his children. At "Lord, I have cried", stichera: 3 of the feast, and 3 of the saint; Glory, of the saint, Tone 2: "A second heaven"; Both now, of the feast in the same Tone. At the Aposticha, of the feast; Glory, of the saint, Tone 6: "The adamantine soul"; Both now, of the feast. Troparion:*[^220]  
+*Be it known that the office of Chrysostom on this radiant day is not sung in Constantinople, for the sake of the Exaltation of the Precious Cross, the Master's feast; and for that reason it was transferred unto the 13th of November, even as it is found in the Synaxarion. But if it be a church of Chrysostom, it is sung on the feast day; but whereas in Jerusalem it is sung, and in the Typikon it is written indispensably, it is likewise written On the 20th day: after Ode 6, Kontakion of the feast. Holy Great-Martyr Eustathius, and his wife, and his children. At "Lord, I have cried", stichera: 3 of the feast, and 3 of the saint; Glory, of the saint, Tone 2: "A second heaven"; Both now, of the feast in the same Tone. At the Aposticha, of the feast; Glory, of the saint, Tone 6: "The adamantine soul"; Both now, of the feast. Troparion:*[^220]
 *Troparion:*  
 Thy martyrs, O Lord, in their sufferings received imperishable crowns from Thee, our God; for having Thy strength, they cast down the tormentors and crushed the powerless insolence of demons: through their supplications, O Christ God, save our souls!  
 *Glory, and both now: of the feast. At Matins: Troparion 2 times of the feast; Glory, of the saint; Both now, of the feast. Sessional hymn of the feast. Canon of the feast on 6, and of the saint on 6. After Ode 3, Kontakion of the feast. After Ode 6, Kontakion of the saint, Tone 2:*  
@@ -191,9 +161,7 @@ Zacharias the great rejoices radiantly with Elizabeth his all-lauded yoke-mate, 
 *At the Praises: Stichera, 3 on 4; Glory, and both now: "Elizabeth..."; Great Doxology. At the Liturgy: From the canons, Ode 3 and 6; Prokeimenon, Tone 7: "The righteous man shall be glad in the Lord, and shall trust in Him" [LXX Ps. 63:11]; Verse: "Give ear, O God, unto my prayer, when I make supplication unto Thee" [LXX Ps. 63:2]. The Epistle to the Galatians: "Brethren, Abraham had two sons..." [Gal. 4:22–31, pericope 210]. Alleluia, Tone 4: "The righteous man shall flourish like a palm tree" [LXX Ps. 91:13]. The Gospel from Luke: What is written on the Nativity of the Forerunner, read from the half: "At that time, there was a certain priest... The end: to take away my reproach among men" [Lk. 1:5–25, pericope 2]. Communion verse: "In everlasting remembrance shall the righteous be" [LXX Ps. 111:6].*  
 *On the 24th day: The Holy Protomartyr and Equal-to-the-Apostles Thecla. At Vespers: Stichera of the saint on 6; Glory, Tone 6: "Of the passion-bearing..."; Both now, Theotokion. At the Aposticha, of the feast; Glory, Tone 8: "As truly..."; Both now, Theotokion. Troparion, Tone 1:*  
 *Troparion:*  
-Taught by the words of Paul, O Thecla, bride of God...
-
-*...and confirmed in the faith by Peter, called of God, thou wast revealed as a protomartyr and first among women to suffer; thou didst ascend the pyre as unto a place of fair blossoming; wild beasts and bulls were struck with terror before thee, as thou wast armed with the Cross: therefore pray, O all-lauded one, that our souls may be saved!*[^223]  
+Taught by the words of Paul, O Thecla, bride of God *and confirmed in the faith by Peter, called of God, thou wast revealed as a protomartyr and first among women to suffer; thou didst ascend the pyre as unto a place of fair blossoming; wild beasts and bulls were struck with terror before thee, as thou wast armed with the Cross: therefore pray, O all-lauded one, that our souls may be saved!*[^223]
 *At Matins: Two canons of the Octoechos, and of the saint on 6. After Ode 6, Kontakion, Tone 8:*  
 *Kontakion:*  
 Thou didst shine forth with the beauty of virginity, O maiden, and wast adorned with the crown of martyrdom; thou wast steadfastly entrusted with the apostolate, O glorious one, and didst turn the fiery flame into dew, and muzzle the mouths of beasts, striving to save thyself as thou didst seek Paul, O first-suffering Thecla!  
@@ -210,9 +178,7 @@ Desiring to attain unto the life on high, thou didst diligently leave behind the
 *...and if anyone [say]: thus indeed 13 readings. Then the ectenia: "Let us all say", and "Vouchsafe, O Lord"; then the completion of evening prayers. Then we go out into the narthex, singing the samoglasny stichera of Tone 1: "Rivers of theology", "Manifesting purity", "Disciple of the Savior", "He who ineffably"; and 2 of Tone 2: "He who...", "Apostle and Theologian"; Tone 4: "Leaning back..."; Both now, Theotokion. And we enter into the church, singing the stichera that are at the Aposticha, with the verses: "Their sound is gone out into all the earth" [LXX Ps. 18:5]; Verse: "The heavens declare the glory of God" [LXX Ps. 18:2]. Glory, Tone 6: "O apostle of Christ, evangelist..."; Both now, Theotokion. Troparion, Tone 2:*[^225]  
 *Troparion:*  
 O apostle beloved of Christ God, hasten to deliver a defenseless people: He receives thee falling before Him, Who admitted thee when thou leanedst upon His breast; entreat Him, O Theologian, to disperse the impending cloud of the heathen, asking for us peace and great mercy!  
-*It is said 2 times; then "O Theotokos and Virgin" once, sung. Blessing of the loaves, and the rest...*
-
-*...according to custom. At Matins: The customary kathisma, and the Polyeleos; Megalynarion to the Apostle; Prokeimenon, Tone 4: "Their sound is gone out into all the earth" [LXX Ps. 18:5]; Verse: "The heavens declare the glory of God" [LXX Ps. 18:2]. The Gospel from John: The 11th Matins Gospel [Jn. 21:15–25]. Canon of the Octoechos: of the Theotokos on 6, and of the Apostle on 8; Katavasia: "Having traced the Cross" (*Крест начертав*). After Ode 6, Kontakion, Tone 2:*[^226]  
+*It is said 2 times; then "O Theotokos and Virgin" once, sung. Blessing of the loaves, and the rest according to custom. At Matins: The customary kathisma, and the Polyeleos; Megalynarion to the Apostle; Prokeimenon, Tone 4: "Their sound is gone out into all the earth" [LXX Ps. 18:5]; Verse: "The heavens declare the glory of God" [LXX Ps. 18:2]. The Gospel from John: The 11th Matins Gospel [Jn. 21:15–25]. Canon of the Octoechos: of the Theotokos on 6, and of the Apostle on 8; Katavasia: "Having traced the Cross" (*Крест начертав*). After Ode 6, Kontakion, Tone 2:*[^226]
 *Kontakion:*  
 Thy greatness, O virgin disciple, who can tell? For thou pourest forth miracles and gushest forth healings, and prayest for our souls, as the theologian and friend of Christ!  
 *At the Praises: Stichera of the saint, Tone 8: "O marvelous wonder", doubling the 1st; Glory, in the same Tone: "O evangelist John"; Both now, Theotokion; Great Doxology. Dismissal. And after the prayer is sung the sticheron samoglasen, candles preceding, the priest comes and censes the icon of the saint, and so the holy oil is given to the brethren from the lamp of the saint. If there be an igumen-priest, he anoints the brethren, dipping two fingers in the oil; and thus is the complete dismissal.*
@@ -234,17 +200,13 @@ A dweller of the wilderness and an angel in the flesh, and a wonderworker wast t
 *At Matins: Canon of the Octoechos, and of the saint on 6. After Ode 6, Kontakion, Tone 2:*  
 *Kontakion:*  
 Armed divinely with purity of soul, and having unceasing prayer as a spear firmly in hand, thou didst cut down the demonic hosts, O Cyriacus our father, praying unceasingly for all of us!  
-*At the Aposticha...*
-
-*At the Aposticha of the Octoechos: Glory, of the saint, Tone 6; Both now, Theotokion. And at the Liturgy: The sequence of yesterday unchanged.*[^230]  
+*At the Aposticha At the Aposticha of the Octoechos: Glory, of the saint, Tone 6; Both now, Theotokion. And at the Liturgy: The sequence of yesterday unchanged.*[^230]
 *On the 30th day: The Holy Hieromartyr Gregory of Greater Armenia. At Vespers: Stichera on 6; Glory, of the saint, Tone 6: "Who worthily..."; Both now, Theotokion. At the Aposticha, of the Octoechos; Glory, of the saint; Both now, Theotokion. Troparion: "And having been a partaker of the ways..." [written on the 3rd of this month]. At Matins: Canons of the Octoechos, and of the saint on 6. After Ode 3, Kontakion, Tone 6, Podoben: "Fulfilling the Dispensation for Our Sake" (Еже о нас):*  
 *Sessional Hymn:*  
 Zealously suffering for Christ, thou didst endure all manner of afflictions, O hieromartyr Gregory; blood added unto blood was preserved undefiled like precious gold, as thou sangest the hymn marvelously: "God is with me, and no one else is against me!"  
 *After Ode 6, Kontakion, Tone 2:*  
 *Kontakion:*  
-All ye faithful, come, let us praise with hymns today the glorious hierarch as a true sufferer, the wakeful...
-
-*...shepherd and teacher Gregory, the luminary of the whole world: he entreats Christ God for all of us!*[^231]  
+All ye faithful, come, let us praise with hymns today the glorious hierarch as a true sufferer, the wakeful *shepherd and teacher Gregory, the luminary of the whole world: he entreats Christ God for all of us!*[^231]
 *At the Liturgy: From the canons, Ode 3 and 6; Prokeimenon, Tone 7: "Precious in the sight of the Lord is the death of His venerable ones" [LXX Ps. 115:6]; Verse: "What shall I render unto the Lord for all that He hath rendered unto me?" [LXX Ps. 115:3]. The Epistle, pericope 13 [Heb. 7:26–8:2]. Alleluia: "Thy priests, O Lord, shall clothe themselves with righteousness" [LXX Ps. 131:9]. Gospel from John: "The Lord said: I am the door..." [Jn. 10:9–16, pericope 36]. Communion verse: "In everlasting remembrance shall the righteous be" [LXX Ps. 111:6].*  
 *The Month of October, having 31 days. The day has 11 hours, and the night 13 hours.*  
 *On the 1st day: The Protection of the Most Holy Theotokos, and the Holy Apostle Ananias, and our Venerable Father Romanus the Melodist. We celebrate all day. All-Night Vigil, if the igumen wills. At Vespers: "Blessed is the man". At "Lord, I have cried", we sing 10 stichera: of the Theotokos, 3 prosomoia on 4; and of the Apostle, 3; and of Romanus, 3; Glory, of the Apostle; Both now, of the Protection. Entrance; prokeimenon of the day; and 3 readings of the Theotokos. Ectenia. At the Litiya, stichera of the Protection which are [appointed].*
@@ -255,28 +217,20 @@ In thee, O father Romanus, was preserved with certainty that which is according 
 *Both now, of the Protection:*  
 *Troparion:*  
 Today, O ye faithful people, we celebrate radiantly, overshadowed by thy coming, O Mother of God, and gazing upon thy most pure icon, we say with compunction: "Cover us with thy precious veil, and deliver us from every evil, entreating Thy Son, Christ our God, that He save our souls!"  
-*And at Matins: Troparion of the Protection...*
-
-*...and of the Apostle; Glory, of Romanus; Both now, of the Protection. After the 1st Kathisma: Sessional hymn of the Protection. After the 2nd Kathisma: Sessional hymn of the Apostle; Glory, Both now, Theotokion. Polyeleos if the igumen desires; Sessional hymn of the Protection, Tone 4. Prokeimenon: "Give ear, O daughter, and see, and incline thine ear" [LXX Ps. 44:11]; Verse: "The rich among the people shall entreat thy countenance" [LXX Ps. 44:13]; and "Let every breath praise the Lord". Gospel from Luke, pericope 4: "At that time, Mary arose..." [Lk. 1:39–49, 56]. Psalm 50; Sticheron of the Theotokos. Canon of the Protection on 6, and of the Apostle on 4, of Romanus on 4. After Ode 3, Kontakion of the Apostle, Tone 2:*[^233]  
+*And at Matins: Troparion of the Protection and of the Apostle; Glory, of Romanus; Both now, of the Protection. After the 1st Kathisma: Sessional hymn of the Protection. After the 2nd Kathisma: Sessional hymn of the Apostle; Glory, Both now, Theotokion. Polyeleos if the igumen desires; Sessional hymn of the Protection, Tone 4. Prokeimenon: "Give ear, O daughter, and see, and incline thine ear" [LXX Ps. 44:11]; Verse: "The rich among the people shall entreat thy countenance" [LXX Ps. 44:13]; and "Let every breath praise the Lord". Gospel from Luke, pericope 4: "At that time, Mary arose..." [Lk. 1:39–49, 56]. Psalm 50; Sticheron of the Theotokos. Canon of the Protection on 6, and of the Apostle on 4, of Romanus on 4. After Ode 3, Kontakion of the Apostle, Tone 2:*[^233]
 *Kontakion:*  
 As a fervent intercessor in prayers, and a swift hearer of them that ask, receive our supplications, O Ananias, and entreat Christ, Who alone rests among the saints, to have mercy upon us!  
 *And Sessional hymn of Romanus. After Ode 6, Kontakion of the Protection, Tone 3, Podoben: "Today the Virgin" (Дева днесь):*  
 *Kontakion:*  
-Today the Virgin stands forth in the church, and with the choirs of the saints invisibly prays for us; the angels...
-
-*...bow down with the hierarchs; the apostles keep festival with the prophets: for on our behalf the Mother of God entreats Christ, the Pre-eternal God!*[^234]  
+Today the Virgin stands forth in the church, and with the choirs of the saints invisibly prays for us; the angels *bow down with the hierarchs; the apostles keep festival with the prophets: for on our behalf the Mother of God entreats Christ, the Pre-eternal God!*[^234]
 *Exapostilarion of the Theotokos, and of the Apostle. At the Praises: of the Protection, 3 prosomoia on 4, Tone 8; Glory, Both now: samoglasen of the Protection; Great Doxology. After the Trisagion, Troparion of the Protection; ectenia, dismissal. At the Liturgy: from the canons, Ode 3 of the Protection on 4, and of the Apostle Ode 6 on 4; Prokeimenon, canticle of the Theotokos: "My soul doth magnify the Lord" [Lk. 1:46]; Verse: "For He hath regarded the lowliness of His handmaiden" [Lk. 1:48]. Of the Apostle: "Into all the earth is their sound gone out" [LXX Ps. 18:5]. The Epistle of the Protection: "Brethren, the first tabernacle had..." [Heb. 9:1–7, pericope 320]; if it be the primary church [of the Apostle], the Epistle: on Friday of the 3rd week after Pascha, from the half [Acts 8:26–39, pericope 21]. Alleluia: "Unto Thy countenance shall make supplication the rich among the people" [LXX Ps. 44:13]; Verse: "The heavens shall confess Thy wonders, O Lord" [LXX Ps. 88:6]. Gospel from Luke, pericope 54: "Jesus entered into a certain village..." [Lk. 10:38–42; 11:27–28]; of the Apostle, from [Luke, pericope 51]: "He that hears you..." [Lk. 10:16–21]. Communion verse: "I will take the cup of salvation" [LXX Ps. 115:4], and the other: "Into all the earth is their sound gone out" [LXX Ps. 18:5].*  
-*On the 2nd day: The Holy Hieromartyr Cyprian, and the Holy...*
-
-*...Martyr Justina. At Vespers: Stichera on 6; Glory, Tone 2: "Thou who didst turn from wicked deeds..."; Both now, Theotokion. At the Aposticha: Glory, Tone 2: "Radiantly..."; Both now, Theotokion. Troparion: "And having been a partaker of the ways..." [written on the 3rd of September]. At Matins: Canon of the Octoechos, and of the saints on 6. After Ode 6, Kontakion, Tone 4:*[^235]  
+*On the 2nd day: The Holy Hieromartyr Cyprian, and the Holy Martyr Justina. At Vespers: Stichera on 6; Glory, Tone 2: "Thou who didst turn from wicked deeds..."; Both now, Theotokion. At the Aposticha: Glory, Tone 2: "Radiantly..."; Both now, Theotokion. Troparion: "And having been a partaker of the ways..." [written on the 3rd of September]. At Matins: Canon of the Octoechos, and of the saints on 6. After Ode 6, Kontakion, Tone 4:*[^235]
 *Kontakion:*  
 Having turned from the arts of sorcery, O God-wise one, unto divine knowledge, thou wast revealed to the world as a most wise physician, granting healings unto them that honor thee, O Cyprian, together with Justina: with her entreat the Master, the Lover of mankind, that our souls may be saved!  
 *At the Aposticha: Glory, Tone 8; Both now, Theotokion. At the Liturgy: Prokeimenon, Tone 7: "Precious in the sight of the Lord is the death of His venerable ones" [LXX Ps. 115:6]; Verse: "What shall I render unto the Lord for all that He hath rendered unto me?" [LXX Ps. 115:3]. The Epistle: 3rd Sunday [1 Tim. 1:12–17, pericope 280]. Alleluia, Tone 2: "Thy priests, O Lord, shall clothe themselves with righteousness" [LXX Ps. 131:9]. Gospel from John: "The Lord said: I am the door..." [Jn. 10:9–16]. Communion verse: "In everlasting remembrance shall the righteous be" [LXX Ps. 111:6].*  
 *On the 3rd day: The Holy Hieromartyr Dionysius the Areopagite. At Vespers: Stichera on 6; Glory, Tone 3; Both now, Theotokion. At the Aposticha: Glory, Tone 4; Both now, Theotokion. Troparion, Tone 4:*  
 *Troparion:*  
-Having learned goodness, and being watchful in all things, clothed with a good conscience as befits a priest, thou didst draw ineffable mysteries from the chosen vessel...
-
-*...and hast kept the faith, having finished an equal course, O hieromartyr Dionysius: entreat Christ God that our souls may be saved!*[^236]  
+Having learned goodness, and being watchful in all things, clothed with a good conscience as befits a priest, thou didst draw ineffable mysteries from the chosen vessel *and hast kept the faith, having finished an equal course, O hieromartyr Dionysius: entreat Christ God that our souls may be saved!*[^236]
 *At Matins: Canon of the Octoechos, and of the saint on 6. Kontakion after Ode 6, Tone 8, Podoben: "To Thee, the Champion Leader" (Взбранной воеводе):*  
 *Kontakion:*  
 Having passed through the heavenly gates in the spirit, and having been instructed by him that ascended unto the third heaven, O Dionysius, thou didst enrich all understanding with ineffable mysteries, and didst illumine them that sat in the darkness of ignorance; therefore we cry unto thee: Rejoice, O father of the whole world!  
@@ -291,9 +245,7 @@ As an unshakable pillar, O Hierotheus, thou wast not terrified by the threats of
 Having been a disciple of the divine apostolic choir, by unbelief thou madest certain the Resurrection of Christ, and by touch confirmedst His most pure Passion: ask for us great mercy!  
 *Both now, Theotokion: "The mystery hidden from the ages...". At Matins: Canons of the Octoechos, and of the saint on 6. After Ode 6, Kontakion, Tone 4, Podoben: "Thou Hast Appeared Today" (Явился еси):*  
 *Kontakion:*  
-Filled with wisdom and grace...
-
-*...O Apostle of Christ and true servant, in repentance thou criedst aloud in tribulations:*[^238]  
+Filled with wisdom and grace *O Apostle of Christ and true servant, in repentance thou criedst aloud in tribulations:*[^238]
 *Kontakion:*  
 Filled with wisdom and grace, O Apostle of Christ and true servant, in repentance thou criedst aloud unto Him: "Thou art my Lord and my God!"  
 *At the Praises: 4 samoglasny stichera: one of Tone 1: "Thou followedst..."; and 2 of Tone 4: "Unto divine understanding", "With the net of depth"; Glory, Tone 6: "A good weapon"; Both now, Theotokion. At the Liturgy: from the canons, Ode 3 and 6; Prokeimenon, Tone 8: "Their sound is gone out into all the earth" [LXX Ps. 18:5]; Verse: "The heavens declare the glory of God" [LXX Ps. 18:2]. The Epistle: 3rd Sunday [1 Cor. 4:9–16, pericope 131]. Alleluia: "The heavens shall confess Thy wonders, O Lord" [LXX Ps. 88:6]. Gospel from John: the Matins Gospel [Jn. 20:19–31, pericope 65]. Communion verse: "Into all the earth is their sound gone out" [LXX Ps. 18:5].*  
@@ -302,9 +254,7 @@ Filled with wisdom and grace, O Apostle of Christ and true servant, in repentanc
 Adornment of the passion-bearers of Christ, eyes of the Church of Christ: enlighten the eyes of our souls, O Sergius much-suffering, and Bacchus most glorious, that we may flee the darkness of sin, and be shown forth as partakers of the unwaning light, through your holy prayers!  
 *At Matins: Canon of the Octoechos, and of the saints on 6. After Ode 6, Kontakion, Tone 2, Podoben: "Seeking the Things on High" (Вышних ища):*  
 *Kontakion:*  
-Having armed the mind against enemies manfully...
-
-*...ye destroyed all their deceit and received victory from on high, O all-lauded martyrs, crying with one mind: "It is good and beautiful to be with God!"*[^239]  
+Having armed the mind against enemies manfully *ye destroyed all their deceit and received victory from on high, O all-lauded martyrs, crying with one mind: "It is good and beautiful to be with God!"*[^239]
 *At the Praises: 4 samoglasny stichera, Tone 8 and Tone 3; Glory, Tone 2; Both now, Theotokion. At the Aposticha: Glory, of the saints; Both now, Theotokion. At the Liturgy: Prokeimenon: "Unto the saints that are in His earth, the Lord hath been marvelous in all His will in them" [LXX Ps. 15:3]; Verse: "I foresaw the Lord always before my face, for He is on my right hand, that I may not be shaken" [LXX Ps. 15:8]. The Epistle: 20th Sunday [Eph. 4:1–7, pericope 224]; of the saints, pericope 220 [Eph. 6:10–17]. Alleluia: "Behold now, what is so good or what is so pleasant as for brethren to dwell together in unity?" [LXX Ps. 132:1]. Gospel from Luke: Tuesday of the 20th week [Lk. 12:42–48, pericope 68]. Communion verse: "In everlasting remembrance shall the righteous be" [LXX Ps. 111:6].*  
 *On the 8th day: Our Venerable Mother Pelagia of Antioch. Alleluia. At Vespers: 3 stichera of the Octoechos, and 3 of the saint; Glory, Tone 4: "Where sin abounded..."; Both now, Theotokion. At the Aposticha, and the Troparion: "In thee, O mother..." [written on the 25th of September]. At Matins: Canon of the Octoechos, and of the saint on 4. After Ode 6, Kontakion, Tone 2:*  
 *Kontakion:*  
@@ -329,24 +279,18 @@ Having thundered forth Christ's Divine Incarnation, thou didst utterly expose th
 *After Ode 6, Kontakion [of the Apostle Philip], Tone 4, Podoben: "Thou Who Wast Raised Up" (Вознесыйся):*  
 *Kontakion:*  
 The marvelous fisher of the world, and companion of Christ's disciples, chosen exceedingly above others, today spiritually distributes the wealth of healings, covering from affliction them that praise him; therefore with one accord we cry unto him: Save all by thy prayers, O Apostle!  
-*It is fitting to know that on the coming Sunday following the memory of the holy apostle, we celebrate the memory of the holy Fathers of the Seventh Ecumenical Council, who assembled in Nicaea for the second time, against the accursed and godless-confessing, Christ-hating and Christian-reproaching iconoclasts, our venerable fathers, and the bishops who suffered together with them. We follow the sequence of the Seventh...*
-
-*...Council together with the Resurrection [hymns of the Octoechos].*[^243]  
+*It is fitting to know that on the coming Sunday following the memory of the holy apostle, we celebrate the memory of the holy Fathers of the Seventh Ecumenical Council, who assembled in Nicaea for the second time, against the accursed and godless-confessing, Christ-hating and Christian-reproaching iconoclasts, our venerable fathers, and the bishops who suffered together with them. We follow the sequence of the Seventh Council together with the Resurrection [hymns of the Octoechos].*[^243]
 *On the 12th day: The Holy Martyrs Probus, Tarachus, and Andronicus. At Vespers: Stichera, 3 from the Octoechos, and of the saints 3; Glory, Tone 4: "Having warred for Christ..."; at the Aposticha of the Octoechos; Glory of the saints, Tone 1; Both now, Theotokion. Troparion, Tone 5:*  
 *Troparion:*  
 At the achievements of the holy martyrs the heavenly hosts marveled greatly: how in a mortal body, having striven valiantly by the power of the Cross, they invisibly conquered the bodiless enemies, and they entreat the Lord to have mercy upon our souls!  
 *Glory, Tone 8: "Guide of Orthodoxy..." [written on October 11]. At Matins: Canon with the Octoechos, and of the saints on 4. After Ode 6, Kontakion, Tone 2:*  
 *Kontakion:*  
 Having manifested unto us the glory of the Trinity, the valiant soldiers and martyrs of Christ, Probus and Andronicus with Tarachus, having exposed the deceit and the godlessness of all the tormentors, suffered steadfastly in faith!  
-*At the Divine Liturgy: Prokeimenon, Tone 4...*
-
-*...unto the saints that are in His earth [LXX Ps. 15:3]; Verse: "I foresaw the Lord always before my face..." [LXX Ps. 15:8]. The Apostle: 22nd Sunday. Alleluia, Tone 2: "The righteous cried, and the Lord heard them" [LXX Ps. 33:18]. Gospel from Luke: Tuesday of the 21st week, to the end: "Rejoice..." [Lk. 10:19–21, pericope 51].*[^244]  
+*At the Divine Liturgy: Prokeimenon, Tone 4 unto the saints that are in His earth [LXX Ps. 15:3]; Verse: "I foresaw the Lord always before my face..." [LXX Ps. 15:8]. The Apostle: 22nd Sunday. Alleluia, Tone 2: "The righteous cried, and the Lord heard them" [LXX Ps. 33:18]. Gospel from Luke: Tuesday of the 21st week, to the end: "Rejoice..." [Lk. 10:19–21, pericope 51].*[^244]
 *On the 13th day: The Holy Martyrs Carpus and Papylus. Alleluia. Kontakion, Tone 4:*  
 *Kontakion:*  
 As a most precious treasure from the Master and an unfading lily, your relics pour forth streams of healings unto them that are upon the earth, cleansing infirmities and various passions, and granting grace abundantly unto souls; therefore with love we celebrate with one accord your solemnity, O divine martyrs!  
-*On the 14th day: The Holy Martyrs Nazarius, Gervasius, Protasius, and Celsus; and our Venerable Father Cosmas the Hymnographer, Citizen of the Holy City, Bishop of Maiuma; and our Venerable Mother Paraskeva. We celebrate all day. At Vespers: Stichera of the saints on 6; Glory, Tone 4: "Spiritual sacrifices..."; Both now, Theotokion. Troparion: "Thy martyrs, O Lord..."; "In Thee, O mother..."; Glory, Both now, Theotokion. At Matins: Canon with the Octoechos and of the saints...*
-
-*...of the saints. After Ode 3, Kontakion [of St. Paraskeva], Tone 4:*[^245]  
+*On the 14th day: The Holy Martyrs Nazarius, Gervasius, Protasius, and Celsus; and our Venerable Father Cosmas the Hymnographer, Citizen of the Holy City, Bishop of Maiuma; and our Venerable Mother Paraskeva. We celebrate all day. At Vespers: Stichera of the saints on 6; Glory, Tone 4: "Spiritual sacrifices..."; Both now, Theotokion. Troparion: "Thy martyrs, O Lord..."; "In Thee, O mother..."; Glory, Both now, Theotokion. At Matins: Canon with the Octoechos and of the saints of the saints. After Ode 3, Kontakion [of St. Paraskeva], Tone 4:*[^245]
 *Kontakion:*  
 Having acquired her as an intercessor in afflictions, let us piously hymn the holy Paraskeva; for having forsaken this life, she received that which is incorruptible unto the ages; therefore she found glory in miracles and grace by the divine commandment!  
 *After Ode 6, Kontakion [of the Martyrs Nazarius and companions], Tone 2:*  
@@ -366,23 +310,17 @@ The Church rejoices today at the memory of the invincible martyr Longinus, cryin
 *At the Liturgy: Prokeimenon: "The righteous shall be glad in the Lord" [LXX Ps. 63:11]; Verse: "Hear, O God, my prayer..." [LXX Ps. 63:2]. The Apostle: Saturday of the 1st week [after Pentecost]. Alleluia: "The righteous shall flourish like a palm tree" [LXX Ps. 91:13]. Gospel from Matthew: the 7th Passion Gospel [Mt. 27:33–54]. Communion verse: "In everlasting remembrance shall the righteous be" [LXX Ps. 111:6].*  
 *On the 17th day: The Holy Prophet Hosea, and the Holy Venerable-Martyr Andrew of Crete. Alleluia. Troparion, Tone 4:*  
 *Troparion:*  
-Having been tested ascetically upon the mountain, thou didst destroy the hosts of the spiritual enemies with the panoply of the Cross, O all-blessed one; and straightway thou didst manfully strip thyself for the contest, having slain Copro...
-
-*...nymus with the sword of faith; and on both sides thou wast crowned by God, O venerable-martyr Andrew, our father!*[^247]  
+Having been tested ascetically upon the mountain, thou didst destroy the hosts of the spiritual enemies with the panoply of the Cross, O all-blessed one; and straightway thou didst manfully strip thyself for the contest, having slain Copro *nymus with the sword of faith; and on both sides thou wast crowned by God, O venerable-martyr Andrew, our father!*[^247]
 *After Ode 6, Kontakion, Tone 8:*  
 *Kontakion:*  
 Unto him who is surnamed after courage with thanksgiving, as unto the initiate of the mysteries of piety, let us cry aloud in praises unto God for salvation from grievous hidden snares, that we may sing unto thee: Rejoice, O father ever-memorable!  
 *On the 18th day: The Holy Apostle and Evangelist Luke. We celebrate all day. At Vespers: Stichera on 6; Glory, Tone 8: "Apostle of Christ..."; Both now, Theotokion. At the Aposticha of the Octoechos; Glory, Tone 6: "All-wise one..."; Both now, Theotokion. Troparion, Tone 5:*  
 *Troparion:*  
 The narrator of the Acts of the Apostles, and the radiant writer of Christ's Gospel, Luke most fair, who depicted those things unwritten that belong to the Church: with sacred songs let us praise the holy apostle, as being a physician of human weaknesses, healing the ailments of nature and the wounds of the soul, and praying unceasingly for our souls!  
-*At Matins: Canon of the saint on 6. After Ode 6, Kontakion, Tone 2: "A firm..."*
-
-*Kontakion:*  
+*At Matins: Canon of the saint on 6. After Ode 6, Kontakion, Tone 2: "A firm" Kontakion:*
 ...preacher of true piety, and an orator of ineffable mysteries, the star of the Church, let us praise the divine Luke; for the Word, Who alone knows our hearts, chose him together with Paul, the teacher of the wise nations![^248]  
 *At the Praises: 4 prosomoia on 4, Tone 4, with the verse: "Into all the earth is their sound gone out" [LXX Ps. 18:5]; Glory, Tone 8: "Come, all creation..."; Both now, Theotokion. At the Aposticha: Glory, Tone 4: "Ye earthly assemblies having come together..."; Both now, Theotokion. At the Liturgy: From the canon, Ode 3 and 6; Prokeimenon, Tone 4: "Into all the earth is their sound gone out" [LXX Ps. 18:5]; Verse: "The heavens declare the glory of God" [LXX Ps. 18:2]. The Apostle, pericope 51 [Col. 4:5–18]. Alleluia: "The heavens shall confess Thy wonders, O Lord" [LXX Ps. 88:6]. Gospel from Luke: "He that hears you..." [Lk. 10:16–21, pericope 51]. Communion verse: "Into all the earth is their sound gone out" [LXX Ps. 18:5].*  
-*On the 19th day: The Holy Prophet Joel, and the Holy Martyr Varus, and the Holy Hieromartyr Sadoth, and with him 128 martyrs under King Sapor in Persia. When the holy hierarch of Christ, Sadoth, was being tortured, then he said unto that god-fighting one: "The Christians shall take my relics, and whosoever shall call upon God for the sake of my name, shall find salvation..."*
-
-*...shall find salvation.*[^249]  
+*On the 19th day: The Holy Prophet Joel, and the Holy Martyr Varus, and the Holy Hieromartyr Sadoth, and with him 128 martyrs under King Sapor in Persia. When the holy hierarch of Christ, Sadoth, was being tortured, then he said unto that god-fighting one: "The Christians shall take my relics, and whosoever shall call upon God for the sake of my name, shall find salvation" shall find salvation.*[^249]
 *On that day: [The Translation of the Relics of] our Great Father John of Rila. Troparion of Sadoth, Tone 4: "And having been a partaker of the ways..." [written on September 3]. Troparion of John, Tone 1:*  
 *Troparion:*  
 Foundation of repentance, model of compunction, image of consolation, of spiritual perfection: thy life was truly like unto that of the angels, O venerable one; abiding in prayers, in fasting, and in tears, O father John: entreat Christ God for our souls!  
@@ -391,49 +329,37 @@ Foundation of repentance, model of compunction, image of consolation, of spiritu
 Zealously following in imitation of the Master's teaching, as a good shepherd thou laidest down thy life for the sheep of Christ, O hieromartyr Sadoth; we pray thee, O much-suffering one: entreat Christ the Chief Shepherd, and number us also among the sheep standing on His right hand, that we may cry unto thee: Rejoice, O holy father Sadoth, who didst pour out thy blood for Christ!  
 *Kontakion of John, Tone 8:*  
 *Kontakion:*  
-Having emulated the life of the angels, O venerable one, and forsaken all earthly things, thou hast run unto Christ...
-
-...thou didst run [unto Christ], and being sheltered by His commandments, thou wast shown forth as an unshakable pillar against the attacks of the enemy; therefore we cry unto thee: Rejoice, O father John, most radiant luminary![^250]  
+Having emulated the life of the angels, O venerable one, and forsaken all earthly things, thou hast run unto Christ thou didst run [unto Christ], and being sheltered by His commandments, thou wast shown forth as an unshakable pillar against the attacks of the enemy; therefore we cry unto thee: Rejoice, O father John, most radiant luminary![^250]
 *On the 20th day: The Holy Great-Martyr Artemius. At Vespers: Stichera on 6; Glory, Tone 2: "Of the spiritual light..."; Both now, Theotokion. At the Aposticha: of the Octoechos; Glory, and Both now, Theotokion. Troparion: "Thy martyr, O Lord...". At Matins: Canons of the Octoechos, and of the saint on 6. After Ode 6, Kontakion, Tone 2:*  
 *Kontakion:*  
 Gathering together spiritually, let us praise Artemius, the pious and crown-bearing one, who took up victories over the enemies, the disciple of grace and bountiful giver of miracles; for he prays unto the Lord for all of us!  
 *At the Liturgy: From the canon, Ode 3 and 6; Prokeimenon, Tone 4: "The righteous man shall be glad in the Lord" [LXX Ps. 63:11]; The Apostle: Saturday of the 1st week [after Pentecost]; Alleluia: "The righteous shall flourish like a palm tree" [LXX Ps. 91:13]; Gospel from John, Saturday of the 3rd week after Pascha [Jn. 5:17–24], ending: "in the resurrection".*  
-*On the 21st day: Memory of our Venerable Father Hilarion the Great. We celebrate all day. At Vespers: Stichera of the saint on 6; Glory, Tone 2: "Concerning thy...*
-
-*...ascetic fasting..."; Both now, Theotokion. At the Aposticha: of the Octoechos; Troparion: "By the flow of thy tears...", is said three times. At Matins: Canons of the Octoechos, and of the saint on 6. After Ode 6, Kontakion, Tone 3:*[^251]  
+*On the 21st day: Memory of our Venerable Father Hilarion the Great. We celebrate all day. At Vespers: Stichera of the saint on 6; Glory, Tone 2: "Concerning thy ascetic fasting..."; Both now, Theotokion. At the Aposticha: of the Octoechos; Troparion: "By the flow of thy tears...", is said three times. At Matins: Canons of the Octoechos, and of the saint on 6. After Ode 6, Kontakion, Tone 3:*[^251]
 *Kontakion:*  
 As a never-setting luminary of the spiritual Sun, gathering today in hymns and songs, we praise thee; for thou hast shone forth upon them that sit in the darkness of ignorance, raising all unto the heavenly height, O Hilarion; therefore we cry: Rejoice, O father, foundation of ascetics!  
 *At the Aposticha: of the Octoechos; Glory, Tone 2: "Thy quiet [life]..."; Both now, Theotokion. At the Liturgy: Prokeimenon, Tone 7: "Precious in the sight of the Lord is the death of His venerable ones" [LXX Ps. 115:6]; Verse: "What shall I render unto the Lord..." [LXX Ps. 115:3]. The Apostle: 18th Sunday [2 Cor. 9:6–11]. Alleluia, Tone 6: "Blessed is the man that fears the Lord" [LXX Ps. 111:1]. Gospel from Luke, 2nd Sunday: "Jesus stood in the plain..." [Lk. 6:17–23], ending: "...".*  
 *On the 22nd day: The Holy Hierarch and Equal-to-the-Apostles Abercius the Great, Bishop of Hierapolis, Wonderworker; and the Seven Holy Children who were in Ephesus. At Vespers: Stichera of the hierarch on 6; Glory, Tone 6; Both now, Theotokion. At the Aposticha: of the Octoechos. Troparion: "A rule of faith..."; Glory: "Thy deeds...". At Matins: Canon of the Octoechos on 4, of the hierarch on 6, and of the children on 4. After Ode 3, Kontakion of the children, Tone 4:*  
 *Kontakion:*  
-Thou Who didst marvelously show forth Thy holy ones upon earth before Thy second and awesome coming, by their most glorious rising...
-
-...of the children, O Christ, revealing the resurrection unto them that were ignorant thereof, showing their garments and bodies incorrupt, and having persuaded the king to cry aloud in truth: Truly I have known the resurrection of the dead![^252]  
+Thou Who didst marvelously show forth Thy holy ones upon earth before Thy second and awesome coming, by their most glorious rising of the children, O Christ, revealing the resurrection unto them that were ignorant thereof, showing their garments and bodies incorrupt, and having persuaded the king to cry aloud in truth: Truly I have known the resurrection of the dead![^252]
 *After Ode 6, Kontakion [of the Hierarch], Tone 8:*  
 *Kontakion:*  
 As a great sun and companion of the Apostles, the Church of all the faithful glorifies thee, O Abercius; which do thou preserve, O blessed one, by thy prayers, invincible and untroubled by any heresies, and undefiled, O much-suffering one!  
 *At the Divine Liturgy: From the canon, Ode 3 and 6; Prokeimenon: "Precious in the sight of the Lord is the death of His venerable ones" [LXX Ps. 115:6]; Verse: "What shall I render unto the Lord..." [LXX Ps. 115:3]. The Apostle: 5th Saturday [after the Exaltation]; Alleluia: "Thy priests shall clothe themselves with righteousness" [LXX Ps. 131:9]; Gospel from John: Tuesday of the 2nd week after Pascha, ending: "...".*  
-*On the 23rd day: Memory of the Holy Apostle James, Brother of the Lord according to the flesh. We celebrate all day. At Vespers: Stichera on 6; Glory, Tone 6: "Martyrdom by blood..."; Both now, Theotokion. At the Aposticha: of the Octoechos; Glory, Tone 8: "Of the first..."; Both now, Theotokion. Troparion, Tone 2: "As the Lord's disciple, O righteous one, thou hast received the Gospel; as a...*
-
-*...master thou hast unwritten boldness; as the Brother of God, unto Whom it is fitting to pray; as a pillar, pray thou unto Christ God that our souls may be saved!"*[^253]  
+*On the 23rd day: Memory of the Holy Apostle James, Brother of the Lord according to the flesh. We celebrate all day. At Vespers: Stichera on 6; Glory, Tone 6: "Martyrdom by blood..."; Both now, Theotokion. At the Aposticha: of the Octoechos; Glory, Tone 8: "Of the first..."; Both now, Theotokion. Troparion, Tone 2: "As the Lord's disciple, O righteous one, thou hast received the Gospel; as a master thou hast unwritten boldness; as the Brother of God, unto Whom it is fitting to pray; as a pillar, pray thou unto Christ God that our souls may be saved!"*[^253]
 *At Matins: Canon of the Octoechos, and of the Apostle on 6. After Ode 6, Kontakion, Tone 8:*  
 *Kontakion:*  
 As a most noble disciple, and divine hierarch, and one who was the successor of the Lord and His Brother according to the flesh, thy venerable church, proclaiming thy labors, is glorified, and sings praises unto the Lover of mankind!  
 *At the Praises: Stichera on 4; Glory, Tone 1; Both now, Theotokion. At the Aposticha: of the Octoechos; Glory, of the saint. At the Liturgy: From the canon of the Octoechos [or Apostle], Ode 3 and 6; Prokeimenon: "Into all the earth is their sound gone out" [LXX Ps. 18:5]; Verse: "The heavens declare the glory of God" [LXX Ps. 18:2]. The Apostle: 20th Sunday [Gal. 1:11–19]. Alleluia: "The heavens shall confess Thy wonders, O Lord" [LXX Ps. 88:6]. Gospel from Matthew: Friday of the 6th week: "At that time, Jesus came into His own country..." [Mt. 13:54–58], ending: "into all that land".*  
 *On the 24th day: The Holy Martyr Arethas and those with him. At Vespers: Stichera of the Octoechos, and of the saint; Glory, Tone 4: "Singing..."; Both now, Theotokion. At the Aposticha, Tone 8: "The crafty..."; Both now, Theotokion. Troparion, Tone 1:*  
 *Troparion:*  
-By the sufferings of the saints, which they endured for Thy sake, be Thou entreatable...
-
-...O Lord, and heal all our infirmities, O Lover of mankind, we pray Thee![^254]  
+By the sufferings of the saints, which they endured for Thy sake, be Thou entreatable O Lord, and heal all our infirmities, O Lover of mankind, we pray Thee![^254]
 *At Matins: Canons of the Octoechos, and of the saints on 4. After Ode 6, Kontakion, Tone 4:*  
 *Kontakion:*  
 A mediator of joy unto the ages is the light-bearing day of the passion-bearers' feast, hymning whom we glorify God Who is in the highest!  
 *At the Aposticha: of the Octoechos. At the Liturgy: Prokeimenon: "Unto the saints that are in His earth" [LXX Ps. 15:3]; Verse: "I foresaw the Lord always before my face" [LXX Ps. 15:8]. The Apostle: Sunday of All Saints [Heb. 11:33–12:2]. Alleluia: "The righteous cried, and the Lord heard them" [LXX Ps. 33:18]. Gospel: Sunday of All Saints [Mt. 10:32–33, 37–38; 19:27–30], ending: "Rejoice".*  
 *On the 25th day: The Holy Martyrs and Notaries Marcian and Martyrius. At Vespers: Stichera of the saints, 3; Glory, Tone 1: "Ye disciples..."; Both now, Theotokion. At the Aposticha: of the Octoechos; Glory, Tone 3: "Unto the spiritual church..."; Both now, Theotokion. Troparion of yesterday: "By the sufferings...". At Matins: Canon of the saints on 4. After Ode 6, Kontakion, Tone 4:*  
 *Kontakion:*  
-Having striven valiantly from infancy, O Marcian with wise Martyrius, ye cast down the apostate Arius, preserving the Orthodox faith undefiled...
-
-...following Paul the good teacher; therefore with him ye have found life, as chosen champions of the Trinity![^255]  
+Having striven valiantly from infancy, O Marcian with wise Martyrius, ye cast down the apostate Arius, preserving the Orthodox faith undefiled following Paul the good teacher; therefore with him ye have found life, as chosen champions of the Trinity![^255]
 *At the Liturgy: Prokeimenon, Tone 4: "God is marvelous in His saints" [LXX Ps. 67:36]; The Apostle: Sunday after Theophany; Alleluia: "The righteous cried"; Gospel from Luke: Tuesday of the 1st week, "Jesus called...", ending: "Rejoice".*  
 *On the 26th day: The Holy Great and Glorious Martyr of Christ Demetrius. We celebrate all day. At Vespers: Stichera of the saint on 6; Glory, Tone 6: "Today [the solemnity of the passion-bearer] summons [us]"; Both now, Theotokion. At the Aposticha: Samoglasny of the Earthquake, at "Lord, I have cried", Tone 6: "The earth shook...", "Awesome art Thou, O Lord...", "And now in Thy wrath..."; then they say: "Looking upon the earth, He makes it tremble..." [LXX Ps. 103:32]; Glory, Tone 3: "Thou hast, O divine [Demetrius]..."; Both now, Theotokion. Troparion, Tone 3:*  
 *Troparion:*  
@@ -456,16 +382,12 @@ In the flesh as one bodiless thou wast revealed upon the earth, planted like a t
 Having purified thy body with the waters of virginity, and crowned thyself with the blood of martyrdom, O Anastasia, thou pourest forth Christ's divine grace and ever-flowing life as salvation from the affliction of diseases unto them that approach from the heart!  
 *On the 30th day: The Holy Martyrs Zenobius and Zenobia. Alleluia. Troparion: "Thy martyrs, O Lord...". Kontakion, Tone 8:*  
 *Kontakion:*  
-The beacons of truth and heralds of piety...
-
-...the pair let us worthily praise with songs: Zenobius together with the like-minded Zenobia, who lived together, and therefore received the incorruptible crown of martyrdom![^258]  
+The beacons of truth and heralds of piety the pair let us worthily praise with songs: Zenobius together with the like-minded Zenobia, who lived together, and therefore received the incorruptible crown of martyrdom![^258]
 *On the 31st day: The Holy Apostles Stachys, Amplias, and their companions, and the Holy Martyr Epimachus. Troparion: "O holy Apostles...". Kontakion, Tone 8, Podoben: "As the First-Fruits" (Яко начатки):*  
 *Kontakion:*  
 As all-sacred vessels of the All-Holy Spirit and rays of the Sun of glory, let us dutifully hymn the wise apostles: Apelles, Urban, Aristobulus, Amplias, Stachys, and Narcissus, and the others, whom the grace of our God assembled!  
 *The Month of November, having 30 days. The day has 10 hours, and the night 14 hours.*  
-*On the 1st day: The Holy Wonderworkers and Unmercenaries Cosmas and Damian. We celebrate until midday. At Vespers: Stichera on 6, Tone 6: "All hope..."; Glory, Tone 6: "Endless [is the grace of the saints]..."; Both now, Theotokion. At the Aposticha: of the Octoechos...*
-
-*...Glory: "Ever having Christ [working in themselves]..."; Both now, Theotokion. Troparion, Tone 8:*[^259]  
+*On the 1st day: The Holy Wonderworkers and Unmercenaries Cosmas and Damian. We celebrate until midday. At Vespers: Stichera on 6, Tone 6: "All hope..."; Glory, Tone 6: "Endless [is the grace of the saints]..."; Both now, Theotokion. At the Aposticha: of the Octoechos Glory: "Ever having Christ [working in themselves]..."; Both now, Theotokion. Troparion, Tone 8:*[^259]
 *Troparion:*  
 Holy unmercenaries and wonderworkers, Cosmas and Damian, visit our infirmities: freely ye have received, freely give!  
 *At Matins: Canon of the Octoechos, and of the saints on 6. After Ode 6, Kontakion, Tone 2, Podoben: "The Firm" (Твердыя):*  
@@ -480,9 +402,7 @@ O passion-bearers of the Lord, blessed is the earth that drank your blood, and h
 *Kontakion:*  
 Leaving all earthly things, the pious and God-bearing martyrs, Thou hast received into the enjoyment of Thy good things and rest: Acindynus, and Pegasius, and Anempodistus, and with them Aphthonius and Elpidiphorus; for Thou alone art entreatable!  
 *At the Liturgy: Prokeimenon: "Unto the saints that are in His earth" [LXX Ps. 15:3]; Verse: "I foresaw the Lord..." [LXX Ps. 15:8]. The Apostle: 27th Sunday; Alleluia: "The righteous cried" [LXX Ps. 33:18]; Gospel from Luke, Tuesday of the 12th week [Lk. 12:2–12], ending: "Rejoice".*  
-*On the 3rd day: The Holy Martyrs Acepsimas the Bishop, Joseph the Priest, and Aeithalas the Deacon; and the Dedication of the Church of the Holy Martyr George in Lydda, where was laid his holy...*
-
-...body.[^261] *At Vespers: Stichera 3 of [St.] George, and 3 of the saints; Glory, Tone 6: "Worthy of the name..."; Both now, Theotokion. At the Aposticha: of the Octoechos; Glory, of the saints, Idiomelon; Both now, Theotokion. Troparion: "Thy martyrs, O Lord...". At Matins: Canon of the Octoechos, and of the saints [both canons]. After Ode 3, Kontakion [of St. Acepsimas], Tone 2:*  
+*On the 3rd day: The Holy Martyrs Acepsimas the Bishop, Joseph the Priest, and Aeithalas the Deacon; and the Dedication of the Church of the Holy Martyr George in Lydda, where was laid his holy* body.[^261] *At Vespers: Stichera 3 of [St.] George, and 3 of the saints; Glory, Tone 6: "Worthy of the name..."; Both now, Theotokion. At the Aposticha: of the Octoechos; Glory, of the saints, Idiomelon; Both now, Theotokion. Troparion: "Thy martyrs, O Lord...". At Matins: Canon of the Octoechos, and of the saints [both canons]. After Ode 3, Kontakion [of St. Acepsimas], Tone 2:*
 *Kontakion:*  
 O wise one, thou didst blamelessly teach the divine things, and becamest an acceptable sacrifice unto God, O blessed Acepsimas; with them that suffered with thee, pray thou unceasingly for all of us!  
 *After Ode 6, Kontakion [of St. George], Tone 2:*  
@@ -496,50 +416,38 @@ A bright, unerring star hast thou shown forth, announcing the Sun, Christ; by th
 A bright luminary hast thou appeared, shining in the world and illuminating in the darkness of passions, and a mighty physician wast thou shown to be, granting healing unto them that ask grace of healings, that we may cry unto thee: Rejoice, O father Joannicius!  
 *At the Liturgy: Prokeimenon: "Precious in the sight of the Lord is the death of His venerable ones" [LXX Ps. 115:6]; Verse: "What shall I render unto the Lord..." [LXX Ps. 115:3]. The Apostle: 18th Sunday [2 Cor. 9:6–11]. Alleluia: "Blessed is the man that fears the Lord" [LXX Ps. 111:1]. Gospel from Luke, 2nd Sunday: "At that time, Jesus stood in the plain..." [Lk. 6:17–23], ending: "...".*  
 *On the 5th day: In memory of the Holy Martyrs Galaction and Episteme; Alleluia.*  
-*On the 6th day: Our Father among the Saints Paul the Confessor, Patriarch of Constantinople. At Vespers: Stichera on 6; Glory, Tone 1: "With the hierarch's vestment..."; Both now, Theotokion. At the Aposticha: of the Octoechos; Glory, Tone 2: "With the fasting teach-...*
-
-*...ing robe..."; Both now, Theotokion. Troparion, Tone 3:*[^263]  
+*On the 6th day: Our Father among the Saints Paul the Confessor, Patriarch of Constantinople. At Vespers: Stichera on 6; Glory, Tone 1: "With the hierarch's vestment..."; Both now, Theotokion. At the Aposticha: of the Octoechos; Glory, Tone 2: "With the fasting teach- ing robe..."; Both now, Theotokion. Troparion, Tone 3:*[^263]
 *Troparion:*  
 The confession of the divine faith showed thee forth unto the Church as another Paul, a zealot among the consecrated; Abel cries out with thee unto the Lord, and the blood of Zacharias the righteous; O venerable father, entreat Christ God to grant unto us great mercy!  
 *At Matins: Canons of the Octoechos, and of the saint on 6. After Ode 6, Kontakion, Tone 2:*  
 *Kontakion:*  
 Having shone forth upon earth as a divinely radiant star, thou dost enlighten the Catholic Church, for which thou didst suffer, laying down thy soul, O Paul; like that of Zacharias and Abel, thy blood cries clearly unto the Lord!  
 *At the Aposticha: of the Octoechos; Verse: "Precious in the sight of the Lord [is the death of His venerable ones]" [LXX Ps. 115:6]; and is sung Glory, Tone 6: "O venerable father..."; Glory, Tone 7; Both now, Theotokion. At the Liturgy: From the canon, Ode 3 and 6; Prokeimenon: "The saints shall boast in glory" [LXX Ps. 149:5]; Verse: "Sing unto the Lord [a new song]" [LXX Ps. 149:1]. The Apostle: 3rd Sunday after Pentecost; Alleluia, Tone 8: "Thy priests [shall clothe themselves with righteousness]" [LXX Ps. 131:9]; Gospel from Luke, 6th Sunday: "..." [Lk. 8:26–39].*  
-*On the 7th day: Celebrated until midday; in memory of the 33 Holy Martyrs who were in Melitene; and our Venerable Father Lazarus the Wonderworker, who was on the mountain of Galesion. At Vespers: Stichera of Saint Lazarus are sung as...*
-
-...for other venerable ones. Troparion, Tone 4:[^264]  
+*On the 7th day: Celebrated until midday; in memory of the 33 Holy Martyrs who were in Melitene; and our Venerable Father Lazarus the Wonderworker, who was on the mountain of Galesion. At Vespers: Stichera of Saint Lazarus are sung as* for other venerable ones. Troparion, Tone 4:[^264]
 *Troparion:*  
 With vigilant prayers and streams of tears thou didst bedew thy pillar, and by the sighs from the depth of thy heart thou didst make thy labors fruitful a hundredfold, and becamest a shepherd, granting forgiveness unto all, O our venerable father Lazarus: entreat Christ God that our souls may be saved!  
 *At Matins: Canons of the Octoechos, and of the saint. After Ode 6, Kontakion, Tone 8, Podoben: "To Thee, Champion Leader" (Взбранной воеводѣ):*  
 *Kontakion:*  
 Beyond nature were thy pains and ascetic struggles, O divinely wise one; the angels, beholding thy salvation, marveled; and now having received a crown from God, and as one having boldness before the Lord, deliver us from all dangers, that we may cry unto thee: Rejoice, O father Lazarus!  
 *At the Aposticha: of the Octoechos. At the Liturgy: also for Lazarus, Ode 3 and 6; Prokeimenon: "Precious in the sight of the Lord is the death of His venerable ones" [LXX Ps. 115:6]; Verse of the saint. The Apostle: 18th Sunday [2 Cor. 9:6–11]; Alleluia: "Blessed is the man that fears the Lord" [LXX Ps. 111:1]; Gospel from Matthew, Thursday of the 3rd week: "The Lord said, Truly..." [Mt. 11:27–30], ending: "...in everlasting remembrance".*  
-*On the 8th day: Synaxis of the Archangel Michael and the Other Bodiless Powers. We celebrate all day. At Vespers: "Blessed is the...*
-
-...man" [Ps. 1]. Stichera on 6; Glory, Tone 1: "Of the bodiless hosts..."; Entrance; Prokeimenon of the day; and three readings: 1st, from Joshua the son of Nun: "The children of Israel went out..." [Josh. 5:13–15]; 2nd, from the Prophet Isaiah: "Thus says the Lord: All the earth cries out..." [Isa. 14:7–20]; 3rd, from the Prophet Isaiah [or Zechariah]: "Thus says the Lord: Let all flesh keep silence before the face [of the Lord]..." [Zech. 2:13 / Hab. 2:20]. At the Aposticha: of the Octoechos; Glory, Tone 2: "Rejoice with us..."; Both now, Theotokion. Troparion is said 6 times. At Matins: Canons of the Octoechos, and of the angels on 6. After Ode 6, Kontakion, Tone 4, is said 6 times. At the Praises: and of the Archangel on 4; then Verse: "Who makes His angels spirits" [LXX Ps. 103:4]; is sung the Idiomelon, Tone 6: "Thy angels, O Christ..."; Glory, Tone 5: "Wherever [Thy grace] overshadows..."; Both now, Theotokion. Great Doxology. Troparion of the Archangel. Dismissal. At the Liturgy: The sequence is said 6 times.[^265]  
+*On the 8th day: Synaxis of the Archangel Michael and the Other Bodiless Powers. We celebrate all day. At Vespers: "Blessed is the* man" [Ps. 1]. Stichera on 6; Glory, Tone 1: "Of the bodiless hosts..."; Entrance; Prokeimenon of the day; and three readings: 1st, from Joshua the son of Nun: "The children of Israel went out..." [Josh. 5:13–15]; 2nd, from the Prophet Isaiah: "Thus says the Lord: All the earth cries out..." [Isa. 14:7–20]; 3rd, from the Prophet Isaiah [or Zechariah]: "Thus says the Lord: Let all flesh keep silence before the face [of the Lord]..." [Zech. 2:13 / Hab. 2:20]. At the Aposticha: of the Octoechos; Glory, Tone 2: "Rejoice with us..."; Both now, Theotokion. Troparion is said 6 times. At Matins: Canons of the Octoechos, and of the angels on 6. After Ode 6, Kontakion, Tone 4, is said 6 times. At the Praises: and of the Archangel on 4; then Verse: "Who makes His angels spirits" [LXX Ps. 103:4]; is sung the Idiomelon, Tone 6: "Thy angels, O Christ..."; Glory, Tone 5: "Wherever [Thy grace] overshadows..."; Both now, Theotokion. Great Doxology. Troparion of the Archangel. Dismissal. At the Liturgy: The sequence is said 6 times.[^265]
 *On the 9th day: The Holy Martyrs Onesiphorus and Porphyrius; and our Venerable Mothers Matrona and Theoctiste of Lesbos; Alleluia. Troparion: "Thy martyrs, O Lord..."; Glory: "In Thee, O mother [was preserved that which was according to the image]..."; Kontakion, Tone 2:*  
 *Kontakion:*  
-For the love of the Lord, O venerable one, Thou didst hate the desire for rest...
-
-...having enlightened thy spirit by fasting, and by thy prayers cast down the enemy's raging; for valiantly in the faith hast thou overcome![^266]  
+For the love of the Lord, O venerable one, Thou didst hate the desire for rest having enlightened thy spirit by fasting, and by thy prayers cast down the enemy's raging; for valiantly in the faith hast thou overcome![^266]
 *After Ode 6, Kontakion, Tone 2:*  
 *Kontakion:*  
 The pair of martyrs, having suffered valiantly, cast down the enemy's pride upon earth, being enlightened by the grace of the uncreated Trinity, glorious Onesiphorus and Porphyrius, praying fervently for all of us!  
 *On the 10th day: The Holy Apostles Erastus, Olympas, Herodion, and the rest. Troparion: "O holy Apostles..."; and at Matins: Canons of the Octoechos, and of the saints on 4. After Ode 6, Kontakion, Tone 2:*  
 *Kontakion:*  
 Enlightened in mind by the divine light, ye wisely destroyed the rhetorical web of words; having caught the nations for the Master, O glorious apostles, ye brought them unto Him, teaching the Divine Trinity!  
-*On the 11th day: The Holy Martyrs Minas, Victor, and Vincent; and the Holy Martyr Stephanis; and our Venerable Father Theodore the Studite. At Vespers: Stichera of the holy martyrs, 3; and of holy Theodore, 3; Glory, Tone 6:...*
-
-...again unto us..."; Both now, Theotokion. At the Aposticha: of the Octoechos; then Verse: "God is marvelous in His saints" [LXX Ps. 67:36]; and is sung the Idiomelon of the saints, Tone 2: "Come, [lovers of the martyrs]..."; Glory, of Theodore, Tone 6: "Venerable father, from [thy youth]..."; Both now, Theotokion. Troparion: "Thy martyrs, O Lord..."; Glory: "Of Orthodoxy [the guide]..."; Both now, Theotokion. At Matins: Canon of the Octoechos, and of the two saints. After Ode 3, Kontakion [of St. Minas], Tone 4:[^267]  
+*On the 11th day: The Holy Martyrs Minas, Victor, and Vincent; and the Holy Martyr Stephanis; and our Venerable Father Theodore the Studite. At Vespers: Stichera of the holy martyrs, 3; and of holy Theodore, 3; Glory, Tone 6:* again unto us..."; Both now, Theotokion. At the Aposticha: of the Octoechos; then Verse: "God is marvelous in His saints" [LXX Ps. 67:36]; and is sung the Idiomelon of the saints, Tone 2: "Come, [lovers of the martyrs]..."; Glory, of Theodore, Tone 6: "Venerable father, from [thy youth]..."; Both now, Theotokion. Troparion: "Thy martyrs, O Lord..."; Glory: "Of Orthodoxy [the guide]..."; Both now, Theotokion. At Matins: Canon of the Octoechos, and of the two saints. After Ode 3, Kontakion [of St. Minas], Tone 4:[^267]
 *Kontakion:*  
 Thou didst forsake temporary earthly warfare, and Christ, crowning Thee, revealed Thee as an heir of the incorruptible Kingdom, O Minas, incorruptible crown of martyrs!  
 *After Ode 6, Kontakion of Theodore, Tone 2, Podoben: "Seeking the things on high" (В высших ища):*  
 *Kontakion:*  
 Thy ascetic, angel-like life thou didst adorn with suffering struggles, and wast shown forth as a fellow-dweller with the angels, O Theodore; with them unceasingly entreat Christ God for all of us!  
 *At the Aposticha: of the Octoechos; then Verse of the saints: "Unto the saints that are in His earth" [LXX Ps. 15:3]; and is sung the Idiomelon, Tone 1: "Praise of the blessed..."; Tone 2: "Come, ye faithful..."; Both now, Theotokion of the Octoechos. At the Liturgy: The sequence whichever thou desirest, whether of the venerable one or of the martyrs.*  
-*On the 12th day: Our Father among the Saints John the Merciful, Archbishop of Alexandria...*
-
-...and our Venerable Father Nilus. At Vespers: Stichera of the saint on 6; Glory, Tone 2: "A fountain of alms..."; Both now, Theotokion of the Octoechos. At the Aposticha: of the Octoechos; Glory: "The multitudes of monastics today..."; Both now, Theotokion. Troparion, Tone 8:[^268]  
+*On the 12th day: Our Father among the Saints John the Merciful, Archbishop of Alexandria* and our Venerable Father Nilus. At Vespers: Stichera of the saint on 6; Glory, Tone 2: "A fountain of alms..."; Both now, Theotokion of the Octoechos. At the Aposticha: of the Octoechos; Glory: "The multitudes of monastics today..."; Both now, Theotokion. Troparion, Tone 8:[^268]
 *Troparion:*  
 In thy patience thou didst acquire thy reward, O venerable father, persevering unceasingly in prayers, loving the poor, and feeding them; but entreat Christ God, O blessed father John, that He may save our souls!  
 *Glory: "By the flow of thy tears...", is said 3 times. At Matins: Canon of the Octoechos on 6, and of the two saints. After Ode 3, Kontakion of Nilus, Tone 2:*  
@@ -547,14 +455,10 @@ In thy patience thou didst acquire thy reward, O venerable father, persevering u
 Having armed thyself divinely with purity of soul, and holding unceasing prayer in thy hands like a spear, thou didst valiantly cut down the demonic hosts, O Nilus, our wonderworking father, praying unceasingly for all of us!  
 *After Ode 6, Kontakion of John, Tone 2, Podoben: "Seeking the things on high" (В высших ища):*  
 *Kontakion:*  
-Thou didst disperse thy wealth unto the poor, and hast now received heavenly riches, O all-wise father John; therefore all of us...
-
-...honor thee, celebrating thy memory, O namesake of mercy![^269] *At the Aposticha: of the Octoechos; Glory, Tone 2: "Thou hast received, O hierarch..."; Both now, Theotokion of the Octoechos. And at the Liturgy: Prokeimenon: "Precious in the sight of the Lord [is the death of His venerable ones]" [LXX Ps. 115:6]; The Apostle: 3rd Sunday after Pentecost; Alleluia: "Thy priests [shall clothe themselves with righteousness]" [LXX Ps. 131:9]; Gospel from Luke, 2nd week: "At that time, Jesus stood in the plain..." [Lk. 6:17–23], ending: "...".*  
+Thou didst disperse thy wealth unto the poor, and hast now received heavenly riches, O all-wise father John; therefore all of us honor thee, celebrating thy memory, O namesake of mercy![^269] *At the Aposticha: of the Octoechos; Glory, Tone 2: "Thou hast received, O hierarch..."; Both now, Theotokion of the Octoechos. And at the Liturgy: Prokeimenon: "Precious in the sight of the Lord [is the death of His venerable ones]" [LXX Ps. 115:6]; The Apostle: 3rd Sunday after Pentecost; Alleluia: "Thy priests [shall clothe themselves with righteousness]" [LXX Ps. 131:9]; Gospel from Luke, 2nd week: "At that time, Jesus stood in the plain..." [Lk. 6:17–23], ending: "...".*
 *On the 13th day: In memory of our Father among the Saints John Chrysostom, Patriarch of Constantinople. We celebrate all day, with an All-Night Vigil sung if the Abbot wills. At Vespers: "Blessed is the man" [Ps. 1]; Stichera on 8; Glory, Tone 6: "Venerable father, thrice-blessed..."; Both now, Theotokion of the Octoechos, Tone 1: "Who will not bless thee...". Entrance; Prokeimenon of the day; and three readings. At the Aposticha: Idiomela, 3; and verses, Tone 4: "My mouth shall speak [wisdom]" [LXX Ps. 48:4], "The mouth of the righteous [shall meditate wisdom]" [LXX Ps. 36:30]; Glory, Tone 6: "O golden-voiced trumpet..."; Both now, Theotokion: "O Theotokos, Thou art the true vine...". Troparion, Tone 8:*  
 *Troparion:*  
-Grace having shone forth from thy mouth like gold, it enlightened the universe, [gathering] treasures not of covetousness...
-
-*...to the world treasures of non-covetousness hast thou gathered; the height of humility hast thou shown unto us, but instructing us by thy words, O father John Chrysostom, entreat Christ God the Word that our souls may be saved![^270]*  
+Grace having shone forth from thy mouth like gold, it enlightened the universe, [gathering] treasures not of covetousness *to the world treasures of non-covetousness hast thou gathered; the height of humility hast thou shown unto us, but instructing us by thy words, O father John Chrysostom, entreat Christ God the Word that our souls may be saved![^270]*
 *At Matins: The customary psalmody, and canon of the Octoechos, then of the saint; Songs of Ascents [Anabathmoi] of Tone 4. Prokeimenon: "My mouth shall speak [wisdom]" [LXX Ps. 48:4]; Verse: "Hear this, all ye nations" [LXX Ps. 48:2]. Let every breath. Gospel from John, Thursday of the 5th week [Jn. 10:9–16], ending: "about the middle". Psalm 50. Sticheron of the saint. Canon of the Theotokos: "Held fast by many [temptations]...", with the heirmos on 6; and of the saint on 8. After Ode 6, Kontakion, Tone 6, Podoben: "Fulfilling the dispensation for our sake" (Еже о нас):*  
 *Kontakion:*  
 *From heaven hast thou received divine grace, and by thine own lips dost teach all to worship the one God in Trinity, O John Chrysostom, all-blessed, venerable one, worthily do we praise thee; for thou art an instructor, revealing divine things!*  
@@ -564,64 +468,46 @@ Grace having shone forth from thy mouth like gold, it enlightened the universe, 
 *On the 14th day: The Holy Apostle Philip; we celebrate all day. At Vespers: Stichera on 6; 3 and 6 "All my hope..."; Glory, Tone 6: "Of the heavenly [choirs]..."; Both now, Theotokion. At the Aposticha: of the Octoechos; Glory, Tone 2: "Having left [earthly things]..."; Both now, Theotokion. Troparion: "O holy Apostle...". At Matins: Canon of the Octoechos, and of the saint on 6. After Ode 6, Kontakion, Tone 8, Podoben: "As first-fruits of nature" (Яко начатки):*  
 *Kontakion:*  
 *Thy disciple and friend, and imitator of Thy Passion, the divinely inspired Philip, preached Thee as God unto the universe; by his prayers, preserve Thy Church and all Thy city from lawless nations, for the sake of the Theotokos, O Thou Who art plenteous in mercy!*  
-*At the Praises: Idiomela, 3, Tone 2; Glory, Tone 4: "The fishing net..."; Both now, Theotokion. Great Doxology. Troparion of the saint; litany;...*
-
-*...dismissal. At the Liturgy: From the canon, Ode 3 and 6; Prokeimenon: "Their sound is gone out into all the earth" [LXX Ps. 18:5]; Verse: "The heavens declare the glory of God" [LXX Ps. 18:2]. The Apostle from the Acts, Thursday of the 3rd week after Pascha [Acts 8:26–39]; Alleluia, Tone 1: "The heavens shall confess Thy wonders, O Lord" [LXX Ps. 88:6]; Gospel from John, Wednesday of the 1st week after Pascha, about the middle: "Jesus desired to go forth into Galilee..." [Jn. 1:43–51]; Communion verse: "Their sound is gone out into all the earth" [LXX Ps. 18:5].*  
-*It is proper to know: that in this holy fast we keep three days in the week: Monday, Wednesday, [and] Friday, [abstaining] from wine and from olive oil and from fish, unless somewhere there be the commemoration of a great saint; the Hours do we sing at that time.[^272] It is proper to know: during the Nativity Fast we sing the Liturgy late, the customary [service] together with the Ninth Hour, and thus we eat once a day, whether [the day be with] Troparion or with Alleluia, except on the days of: the Apostle and Evangelist Matthew, the Entry [of the Theotokos], the Apostle Clement, Andrew, Barbara, Sabbas, Nicholas, the Conception [of Saint Anne], the Three Youths, [and] Ignatius the God-Bearer; for on those days, if it be on Monday, Tuesday, [or] on Thursday, we eat fish...*
-
-*...twice a day; but on Wednesday and Friday we eat twice, only we do not eat fish. It is also to be known: if the beginning of this holy fast be on a Saturday or on a Sunday, on those days is sung the troparion [and] kontakion of the holy confessors; but on other days, [instead of God is the Lord], Alleluia [is sung], on account of the entrance and beginning of the fast.[^273]*  
+*At the Praises: Idiomela, 3, Tone 2; Glory, Tone 4: "The fishing net..."; Both now, Theotokion. Great Doxology. Troparion of the saint; litany; dismissal. At the Liturgy: From the canon, Ode 3 and 6; Prokeimenon: "Their sound is gone out into all the earth" [LXX Ps. 18:5]; Verse: "The heavens declare the glory of God" [LXX Ps. 18:2]. The Apostle from the Acts, Thursday of the 3rd week after Pascha [Acts 8:26–39]; Alleluia, Tone 1: "The heavens shall confess Thy wonders, O Lord" [LXX Ps. 88:6]; Gospel from John, Wednesday of the 1st week after Pascha, about the middle: "Jesus desired to go forth into Galilee..." [Jn. 1:43–51]; Communion verse: "Their sound is gone out into all the earth" [LXX Ps. 18:5].*
+*It is proper to know: that in this holy fast we keep three days in the week: Monday, Wednesday, [and] Friday, [abstaining] from wine and from olive oil and from fish, unless somewhere there be the commemoration of a great saint; the Hours do we sing at that time.[^272] It is proper to know: during the Nativity Fast we sing the Liturgy late, the customary [service] together with the Ninth Hour, and thus we eat once a day, whether [the day be with] Troparion or with Alleluia, except on the days of: the Apostle and Evangelist Matthew, the Entry [of the Theotokos], the Apostle Clement, Andrew, Barbara, Sabbas, Nicholas, the Conception [of Saint Anne], the Three Youths, [and] Ignatius the God-Bearer; for on those days, if it be on Monday, Tuesday, [or] on Thursday, we eat fish twice a day; but on Wednesday and Friday we eat twice, only we do not eat fish. It is also to be known: if the beginning of this holy fast be on a Saturday or on a Sunday, on those days is sung the troparion [and] kontakion of the holy confessors; but on other days, [instead of God is the Lord], Alleluia [is sung], on account of the entrance and beginning of the fast.[^273]*
 *On the 15th day: The Holy Confessors Gurias, Samonas, and Habib. At Vespers: Stichera of the saints on 6; Glory, Tone 2: "Edessa gladdens..."; Both now, Theotokion. At the Aposticha: of the Octoechos; Glory, Tone 2: "Come, ye lovers of the martyrs..."; Both now, Theotokion of the Octoechos. Troparion, Tone 5:*  
 *Troparion:*  
 *Having granted us the miracles of Thy holy martyrs as an indestructible rampart, O Christ God: by their prayers cast down the counsels of the heathen, and establish the sceptre of the kingdom; for Thou alone art good and the Lover of mankind!*  
 *At Matins: Canon of the Octoechos, and of the saints on 6. After Ode 3, Kontakion, Tone 2:*  
 *Kontakion:*  
-*Receiving grace from on high, O wise ones, ye stand before them that are in afflictions, O all-praised ones; therefore, O holy ones, from bitter death...*
-
-*...ye delivered the maiden; for ye are truly the glory of Edessa and the joy of the world![^274]*  
+*Receiving grace from on high, O wise ones, ye stand before them that are in afflictions, O all-praised ones; therefore, O holy ones, from bitter death ye delivered the maiden; for ye are truly the glory of Edessa and the joy of the world![^274]*
 *After Ode 6, the same Kontakion [or second Kontakion], Tone 2, Podoben: "Firm [and God-bearing]" (Твердыя):*  
 *Kontakion:*  
 *The chosen and God-bearing martyrs, and initiates of the piety of the Church, let us praise, singing unto Christ: Gurias, Samonas, [and] Habib, the assembly in Christ our God, the glory of Edessa and the joy of the world!*  
 *At the Liturgy: Prokeimenon: "Unto the saints that are in His earth" [LXX Ps. 15:3]; Verse: "I foresaw the Lord..." [LXX Ps. 15:8]. The Apostle: 27th Sunday; Alleluia: "The righteous cried" [LXX Ps. 33:18]; Gospel from John, 3rd Saturday after Pascha; Communion verse: "Rejoice in the Lord, O ye righteous" [LXX Ps. 32:1].*  
-*It is proper to know: if the beginning of this holy fast be on the five [week]days in the week, concerning the other Saturdays and Sundays it is as has been said. At Vespers: from the beginning of the singing make no prostrations; at "Lord, I have cried": 14 [stichera], the Prosomoion in the Octoechos, with the saints inserted; Glory of the saints: "Edessa gladdens..."; Both now, Theotokion. In place of the Prokeimenon: Alleluia; "Vouchsafe, O Lord", and 3 prostrations. At the Aposticha: of the Octoechos; Glory... Both now, Theotokion; "Now lettest Thou depart", and after the Trisagion, 3 prostrations...*
-
-*...and "Our Father"; Troparion: "O Theotokos and Virgin, rejoice...", with a prostration; Glory: "O Baptist of Christ...", a prostration; Both now: "O physician...", and "Beneath thy tenderness of heart...", without a prostration. "Lord, have mercy" (40); Prayer: "And, O all-good King..."; "Lord, have mercy" (3); Glory... Both now: "More honorable than the Cherubim...", "In the Name of the Lord bless, father." According to the customary manner [of Vespers] we make 3 great prostrations, saying the Prayer: "O Lord and Master of my life...". Dismissal.[^275]*  
-*Great Compline: from "When I cried" with two choirs; Trisagion; Troparia: "Enlighten mine eyes..."; do not exclaim: "Send from the highest..."; Supplicatory Canon to the Theotokos; Trisagion; 3 prostrations; after "Our Father", the troparia of the day; "Lord, have mercy" (40); Prayer: "O undefiled, pure..."; and we make 15 great prostrations, and the Prayer: "O Lord and Master of my life..."; Trisagion, and 3 prostrations, and the rest. This typikon [is observed] on the first day only; on the other days, Compline at the beginning is with prostrations, even as in the Fast of the Holy Apostles, simply without singing. Midnight Office...*
-
-*...with prostrations, according to the rule of the Great Fast; likewise also Matins with prostrations, and at the end of Matins 15 great prostrations.*  
+*It is proper to know: if the beginning of this holy fast be on the five [week]days in the week, concerning the other Saturdays and Sundays it is as has been said. At Vespers: from the beginning of the singing make no prostrations; at "Lord, I have cried": 14 [stichera], the Prosomoion in the Octoechos, with the saints inserted; Glory of the saints: "Edessa gladdens..."; Both now, Theotokion. In place of the Prokeimenon: Alleluia; "Vouchsafe, O Lord", and 3 prostrations. At the Aposticha: of the Octoechos; Glory... Both now, Theotokion; "Now lettest Thou depart", and after the Trisagion, 3 prostrations and "Our Father"; Troparion: "O Theotokos and Virgin, rejoice...", with a prostration; Glory: "O Baptist of Christ...", a prostration; Both now: "O physician...", and "Beneath thy tenderness of heart...", without a prostration. "Lord, have mercy" (40); Prayer: "And, O all-good King..."; "Lord, have mercy" (3); Glory... Both now: "More honorable than the Cherubim...", "In the Name of the Lord bless, father." According to the customary manner [of Vespers] we make 3 great prostrations, saying the Prayer: "O Lord and Master of my life...". Dismissal.[^275]*
+*Great Compline: from "When I cried" with two choirs; Trisagion; Troparia: "Enlighten mine eyes..."; do not exclaim: "Send from the highest..."; Supplicatory Canon to the Theotokos; Trisagion; 3 prostrations; after "Our Father", the troparia of the day; "Lord, have mercy" (40); Prayer: "O undefiled, pure..."; and we make 15 great prostrations, and the Prayer: "O Lord and Master of my life..."; Trisagion, and 3 prostrations, and the rest. This typikon [is observed] on the first day only; on the other days, Compline at the beginning is with prostrations, even as in the Fast of the Holy Apostles, simply without singing. Midnight Office with prostrations, according to the rule of the Great Fast; likewise also Matins with prostrations, and at the end of Matins 15 great prostrations.*
 *On the 16th day: The Holy Apostle and Evangelist Matthew; we celebrate all day. At Vespers: Stichera on 6; Glory, Tone 4: "When He called thee..."; Both now, Theotokion. At the Aposticha: of the Octoechos, 3; Glory, Tone 6: "From evil deeds..."; Both now, Theotokion of the Octoechos. Troparion, Tone 2:*  
 *Troparion:*  
 *Leaving the tax-collector's booth, receiving the Gospel, thou didst disregard corruptible things, and becamest an apostle of Christ God; entreat Him unceasingly for our souls![^276]*  
 *At Matins: Canons of the Octoechos, and of the saint on 6. After Ode 6, Kontakion, Tone 4, Podoben: "Thou Who wast lifted up upon the Cross" (Вознесыйся):*  
 *Kontakion:*  
 *Cast off the tax-collector's yoke, thou didst unite thyself unto the yoke of righteousness, and wast shown forth as a most valiant merchant, receiving the wealth of wisdom from on high; therefore thou didst preach the true word, and didst arouse the souls of the slothful, having written of the hour of judgment!*  
-*At the Aposticha: of the Octoechos; then the verse of the saint: "Their sound is gone out into all the earth" [LXX Ps. 18:5]; and is sung the Idiomelon, Tone 8: "Let us cry aloud...*
-
-*...unto him"; Glory, Tone 2; Both now, Theotokion of the Octoechos. At the Liturgy: Prokeimenon: "Their sound is gone out into all the earth" [LXX Ps. 18:5]; Verse: "The heavens declare the glory of God" [LXX Ps. 18:2]. The Apostle: to the Corinthians, lesson 10 [1 Cor. 4:9–16]; Alleluia: "The heavens shall confess [Thy wonders, O Lord]" [LXX Ps. 88:6]; Gospel from Matthew, 4th Saturday [Mt. 9:9–13]; Communion verse: "Their sound is gone out into all the earth" [LXX Ps. 18:5].[^277]*  
+*At the Aposticha: of the Octoechos; then the verse of the saint: "Their sound is gone out into all the earth" [LXX Ps. 18:5]; and is sung the Idiomelon, Tone 8: "Let us cry aloud unto him"; Glory, Tone 2; Both now, Theotokion of the Octoechos. At the Liturgy: Prokeimenon: "Their sound is gone out into all the earth" [LXX Ps. 18:5]; Verse: "The heavens declare the glory of God" [LXX Ps. 18:2]. The Apostle: to the Corinthians, lesson 10 [1 Cor. 4:9–16]; Alleluia: "The heavens shall confess [Thy wonders, O Lord]" [LXX Ps. 88:6]; Gospel from Matthew, 4th Saturday [Mt. 9:9–13]; Communion verse: "Their sound is gone out into all the earth" [LXX Ps. 18:5].[^277]*
 *On the 17th day: Our Father among the Saints Gregory the Wonderworker [Thaumaturgus]. At Vespers: Stichera on 6; Glory, Tone 6: "The depth of theology..."; Both now, Theotokion of the Octoechos. At the Aposticha: of the Octoechos; Glory, Tone 6: "The swiftness of divine [mercy]..."; Both now, Theotokion of the Octoechos. Troparion, Tone 8:*  
 *Troparion:*  
 *Vigilant in prayers, persevering in the working of miracles, thou didst acquire achievements worthy of thy name; but pray thou unto Christ God, O father Gregory, to enlighten our souls, lest we ever sleep unto death!*  
 *At Matins: Canons of the Octoechos, and of the saint on 6. After Ode 6, Kontakion, Tone 2:*  
 *Kontakion:*  
 *Having received the operation of many miracles, by fearful signs thou didst terrify demons, and chasedst away afflictions from men, O all-wise Gregory; and art named wonderworker, receiving thy title from thy deeds!*  
-*At the Aposticha: of the Octoechos; then...*
-
-*...Verse of the saint: "Precious in the sight of the Lord is the death of His venerable ones" [LXX Ps. 115:6]; and the Idiomelon, Tone 4: "Of priesthood..."; Glory, Tone 8; Both now, Theotokion. At the Liturgy: Prokeimenon: "Precious in the sight of the Lord is the death of His venerable ones" [LXX Ps. 115:6]; Verse: "What shall I render unto the Lord..." [LXX Ps. 115:3]. The Apostle: Sunday after Theophany; Alleluia: "Thy priests shall clothe themselves with righteousness" [LXX Ps. 131:9]; Gospel from Matthew, 1st week [Mt. 4:23–5:13]; Communion verse: "In everlasting remembrance shall the righteous be" [LXX Ps. 111:6].[^278]*  
+*At the Aposticha: of the Octoechos; then Verse of the saint: "Precious in the sight of the Lord is the death of His venerable ones" [LXX Ps. 115:6]; and the Idiomelon, Tone 4: "Of priesthood..."; Glory, Tone 8; Both now, Theotokion. At the Liturgy: Prokeimenon: "Precious in the sight of the Lord is the death of His venerable ones" [LXX Ps. 115:6]; Verse: "What shall I render unto the Lord..." [LXX Ps. 115:3]. The Apostle: Sunday after Theophany; Alleluia: "Thy priests shall clothe themselves with righteousness" [LXX Ps. 131:9]; Gospel from Matthew, 1st week [Mt. 4:23–5:13]; Communion verse: "In everlasting remembrance shall the righteous be" [LXX Ps. 111:6].[^278]*
 *On the 18th day: The Holy Martyrs Plato and Roman; Alleluia. Troparion: "Thy martyrs, O Lord...". Kontakion, Tone 3:*  
 *Kontakion:*  
 *Thy holy memory gladdens the universe, summoning all into thy venerable temple, wherein now rejoicing with joy, we sing in hymns and splendors; therefore, O Plato, do we cry aloud: Deliver thy city from the invasion of the heathen, O holy one!*  
 *On the 19th day: The Holy Prophet Obadiah, and the Holy Martyr Barlaam; Alleluia.*  
-*On the 20th day: Forefeast of the Entry of the Most Holy Theotokos; and our Venerable Father Gregory the Decapolite; and our Father among the Saints Proclus, Patriarch of Constantinople. At Vespers: we sing Stichera, 3 of the Theotokos, and 3 to Gregory; Glory... Both now, of the Theotokos: "Today the radiant guide..."; At the Aposticha: Stichera of the Forefeast...*
-
-*...to the Octoechos; Glory... Both now, Tone 4: "Come, all ye people...". Troparion [of the saints], Tone 4: "O God of our fathers, Who dealest ever with us according to Thy gentleness..."; Glory... Both now, of the Theotokos [of the Forefeast], Tone 4:[^279]*  
+*On the 20th day: Forefeast of the Entry of the Most Holy Theotokos; and our Venerable Father Gregory the Decapolite; and our Father among the Saints Proclus, Patriarch of Constantinople. At Vespers: we sing Stichera, 3 of the Theotokos, and 3 to Gregory; Glory... Both now, of the Theotokos: "Today the radiant guide..."; At the Aposticha: Stichera of the Forefeast to the Octoechos; Glory... Both now, Tone 4: "Come, all ye people...". Troparion [of the saints], Tone 4: "O God of our fathers, Who dealest ever with us according to Thy gentleness..."; Glory... Both now, of the Theotokos [of the Forefeast], Tone 4:[^279]*
 *Troparion:*  
 *Today joy betroths unto the universe a transformation of grief, having budded forth as fruit the only Ever-Virgin, Whom indeed fulfilling their vows they bring today rejoicing unto the temple of the Lord, as truly the temple of God the Word and pure Mother!*  
 *At Matins: Troparion of the Theotokos twice; Glory, of the saints; Both now, of the Theotokos. Canon to the Forefeast with the heirmos on 6, to the saints on 8. After Ode 6, Kontakion, Tone 4:*  
 *Kontakion:*  
 *Today all the universe is filled with gladness on the solemn feast of the Mother of God, crying: Thou art the heavenly temple!*  
 *At the Aposticha: of the Forefeast or of the Octoechos; Glory... Both now, Tone 1: "Rejoice...".*  
-*On the 21st day: The Entry into the Temple of our Most Holy Lady the Theotokos. We celebrate all day, singing an All-Night Vigil, and Small Vespers...*
-
-*...Stichera of the feast, 3, Tone 1, on 4: "O marvelous wonder"; Glory... Both now, of the feast. At the Aposticha: of the feast, 3, Tone 2, Podoben: "O House of Ephratha" (Доме Евфратовъ); and we say the verses: "The virgins shall be brought unto the King after her" [LXX Ps. 44:15]; "They shall be brought in gladness and rejoicing" [LXX Ps. 44:16]; Glory... Both now, what they wish. Troparion, Tone 4:*  
+*On the 21st day: The Entry into the Temple of our Most Holy Lady the Theotokos. We celebrate all day, singing an All-Night Vigil, and Small Vespers Stichera of the feast, 3, Tone 1, on 4: "O marvelous wonder"; Glory... Both now, of the feast. At the Aposticha: of the feast, 3, Tone 2, Podoben: "O House of Ephratha" (Доме Евфратовъ); and we say the verses: "The virgins shall be brought unto the King after her" [LXX Ps. 44:15]; "They shall be brought in gladness and rejoicing" [LXX Ps. 44:16]; Glory... Both now, what they wish. Troparion, Tone 4:*
 *Troparion:*  
 *Today is the prelude of the good will of God, and the herald of the salvation of mankind: in the temple of God the Virgin clearly is shown forth, and proclaims Christ unto all; unto her let us also cry aloud with a great voice: Rejoice, thou fulfillment of the Creator's dispensation!*  
 *At Great Vespers: "Blessed is the man". Stichera on 8: we sing 3, Tone 1: "O marvelous wonder", the first twice; and other 3, Tone 4, Podoben: "As Noble" (Яко добля), the first twice; Glory... Both now, Tone 8: "After Thy birth...". Entrance; 3 Paremias of the feast. At the Litiya, Idiomela of the feast; Glory... Both now, Tone 2: "All ye earth-born...". At the Aposticha we sing 3, Tone 5; and we say the verses even as at Small Vespers; Glory... Both now, Tone 6: "Today the assemblies of the faithful..."; blessing of the loaves.[^280]*
@@ -634,44 +520,32 @@ Grace having shone forth from thy mouth like gold, it enlightened the universe, 
 *Verse: "For He hath regarded the low estate of His handmaiden" [LXX Ps. 44 / Lk. 1:48]. The Apostle: to the Hebrews [Heb. 9:1–7]: "Brethren, the first tabernacle had ordinances..."; Alleluia, Tone 8: "Hear, O daughter" [LXX Ps. 44:11]; Verse: "The virgins shall be brought unto the King" [LXX Ps. 44:15]. Gospel: [Luke, lesson] 54 [Lk. 10:38–42, 11:27–28]. Communion verse: "I will take the cup of salvation" [LXX Ps. 115:4]. And we enter into the refectory, and eat fish, and drink wine. And be it known: that this present feast is celebrated for 5 days, and its Apodosis is on the 25th day.*  
 *On the 22nd day: The Holy Apostle Philemon and those with him [Archippus, Onesimus, and Apphia]. At Vespers: we do not chant the Kathisma on account of the labor of the All-Night Vigil. Stichera: 3 of the feast, and of the saint 3; Glory... Both now, of the feast. At the Aposticha: all of the feast. Troparion: "O holy Apostles..."; Glory... Both now, of the feast. At Matins: Troparion of the feast twice; Glory, of the saint; Both now, of the feast; Sessional hymns of the feast; and Canon of the feast on 8, and of the saint on 4; and other canons we do not chant until the Apodosis of the feast. After Ode 3, Kontakion of the saint, Tone 2:*  
 *Kontakion:*  
-*As all-radiant stars enlightening the ends of the earth, praise Christ's Apostles: glorious Philemon, and holy Archippus, and Onesimus, and with them all-wise Apphia, crying aloud: Entreat unceasingly...[^282]*
-
-*...for all of us! After Ode 6, Kontakion of the feast. At the Liturgy: from the canon of the feast, Ode 3 and 6; Troparion of the feast; Glory... Both now, Kontakion of the feast; Prokeimenon, Apostle, Alleluia, and Gospel: of the day only.*  
+*As all-radiant stars enlightening the ends of the earth, praise Christ's Apostles: glorious Philemon, and holy Archippus, and Onesimus, and with them all-wise Apphia, crying aloud: Entreat unceasingly...[^282] for all of us! After Ode 6, Kontakion of the feast. At the Liturgy: from the canon of the feast, Ode 3 and 6; Troparion of the feast; Glory... Both now, Kontakion of the feast; Prokeimenon, Apostle, Alleluia, and Gospel: of the day only.*
 *On the 23rd day: Our Father among the Saints Amphilochius, Bishop of Iconium, and the Holy Father Gregory, Bishop of Agrigentum. At Vespers: Stichera of the saints on 6; Glory... Both now, of the feast. At the Aposticha: all of the feast. Troparion: "O God of our fathers..."; Glory... Both now, of the feast. At Matins: Troparion of the feast twice; Glory... Both now, of the feast. At the Kathismata: Sessional hymns of the feast; Canon of the feast on 6, and to the saints on 6. After Ode 3, Kontakion of Saint Gregory, Tone 8:*  
 *Kontakion:*  
 *As a founder of virtues and an adornment of the saints, the Church glorifies thee, crying aloud and singing praise, O Gregory; by thy prayers grant unto them that ever honor thy labors and struggles deliverance from tribulations and temptations, providing redemption, as one undefiled!*  
 *After Ode 6, Kontakion of Saint Amphilochius, Tone 2:*  
 *Kontakion:*  
-*Divine thunder and spiritual trumpet, planter of the faithful and axe against heretics, O hierarch Amphilochius, well-pleasing servant of the Trinity, with the angels unceasingly entreat ineffably for all...[^283]*
-
-*...of us! At the Liturgy: from the canon of the feast, Ode 3 and 6; Prokeimenon: "Precious in the sight of the Lord is the death of His venerable ones" [LXX Ps. 115:6]; Verse: "What shall I render unto the Lord" [LXX Ps. 115:3]. The Apostle: lesson 31 [or Hebrews]; Alleluia: "Thy priests shall clothe themselves with righteousness" [LXX Ps. 131:9]; Gospel from Matthew: "The Lord said: Ye are the light of the world..." [Mt. 5:14–19].*  
+*Divine thunder and spiritual trumpet, planter of the faithful and axe against heretics, O hierarch Amphilochius, well-pleasing servant of the Trinity, with the angels unceasingly entreat ineffably for all...[^283] of us! At the Liturgy: from the canon of the feast, Ode 3 and 6; Prokeimenon: "Precious in the sight of the Lord is the death of His venerable ones" [LXX Ps. 115:6]; Verse: "What shall I render unto the Lord" [LXX Ps. 115:3]. The Apostle: lesson 31 [or Hebrews]; Alleluia: "Thy priests shall clothe themselves with righteousness" [LXX Ps. 131:9]; Gospel from Matthew: "The Lord said: Ye are the light of the world..." [Mt. 5:14–19].*
 *On the 24th day: On the same day, the commemoration of the Holy Great-Martyr Catherine, and the Holy Great-Martyr Mercurius. At Vespers: Stichera of the saints on 6; Glory of the holy maiden [Catherine], Tone 2: "Joyfully..."; Both now, of the feast. At the Aposticha: of the feast; Glory of the holy martyr [Mercurius]; Both now, of the feast. Troparion: "Thy martyrs, O Lord..."; Glory... Both now, of the feast. At Matins: Canon of the feast on 6, and to the saints canons on 4 each. After Ode 3, Kontakion of Saint Catherine, Tone 2:*  
 *Kontakion:*  
 *A venerable choir was divinely assembled for lovers of the martyrs, honoring the wise Catherine; for in the judgment hall she preached Christ, and trampled the serpent, and put to shame the intellects of the rhetors!*  
 *Sessional hymns of the saints; Both now, Kontakion of the feast. After Ode 6, Kontakion of the holy martyr Mercurius, Tone 2:*  
 *Kontakion:*  
-*As an invincible warrior in warfare, and in tribulations an undefeated protector, with hymns glorify Mercurius, ye who celebrate with love his memory;...[^284]*
-
-*...merrily in God he delivers [us] from tribulations. At the Liturgy: from the canons of the feast, Ode 3 on 4; of the holy woman Catherine on 4. Prokeimenon: "God is marvelous in His saints" [LXX Ps. 67:36]; Verse: "In the congregations bless ye God" [LXX Ps. 67:27]. The Apostle: lesson 27...; Alleluia: "The righteous cried, and the Lord heard them" [LXX Ps. 33:18]; Gospel from Luke, lesson 22: "Rejoice...".*  
+*As an invincible warrior in warfare, and in tribulations an undefeated protector, with hymns glorify Mercurius, ye who celebrate with love his memory;...[^284] merrily in God he delivers [us] from tribulations. At the Liturgy: from the canons of the feast, Ode 3 on 4; of the holy woman Catherine on 4. Prokeimenon: "God is marvelous in His saints" [LXX Ps. 67:36]; Verse: "In the congregations bless ye God" [LXX Ps. 67:27]. The Apostle: lesson 27...; Alleluia: "The righteous cried, and the Lord heard them" [LXX Ps. 33:18]; Gospel from Luke, lesson 22: "Rejoice...".*
 *On the 25th day: Our Father among the Saints Clement, Pope of Rome, and Peter of Alexandria. On that day the feast of the Most Holy Theotokos is given leave [Apodosis of the Entry]. At Vespers: the customary psalmody [Kathisma]; Stichera: 3 of the feast: "O marvelous wonder", and of St. Clement 3; Glory... Both now, "After Thy birth...". At the Aposticha: we sing 3 of the feast, and of St. Peter 1; Glory, Tone 4: "By the hand of God..."; Both now, of the feast: "Today the assemblies of the faithful...". Troparion: "O God of our fathers..."; Glory... Both now, of the feast. Litany; dismissal. At Matins: Troparion of the feast twice; Glory, of the saints; Both now, of the feast. At the Kathismata: Sessional hymns of the feast; Canons: of the feast on 8, and of the saints two canons on 6. After Ode 3, Kontakion of Saint Clement, Tone 2:*  
 *Kontakion:*  
-*The Church's firm...[^285]*
-
-*...pillars, divine heavens of the firmament of good law, and steadfast columns: O all-wise Clement, together with divine Peter, by your prayers preserve the universe!*  
+*The Church's firm...[^285] pillars, divine heavens of the firmament of good law, and steadfast columns: O all-wise Clement, together with divine Peter, by your prayers preserve the universe!*
 *Kontakion of Saint Peter, Tone 3:*  
 *Kontakion:*  
 *By Orthodox precepts having enlightened the Church, for which thou didst suffer, O divinely-blessed father, driving away the apostate Arius; therefore celebrating thy most pure memory, we cry aloud in orthodox manner: Rejoice, O Peter, rock of the faith!*  
-*Sessional hymn of Saint Clement; Glory, Sessional hymn of Saint Peter; Both now, of the feast. After Ode 6, Kontakion of the feast. At the Praises: Stichera of the saints on 4; Glory... Both now, of the feast, Tone 2: "Today into the church she is led..."; Great Doxology; Troparion of the feast; litany; dismissal; and the First Hour. At the Liturgy: of the feast, from both sides Ode 9 with the heirmos on 8; Troparion of the feast; Glory... Both now, Kontakion of the feast. Prokeimenon, the Song of the Theotokos: "My soul doth magnify the Lord" [Lk. 1:46]; Verse: "For He hath regarded the lowliness of His handmaiden" [Lk. 1:48]...[^286]*
-
-*...Apostle of the day, and of the feast; Alleluia: "Hear, O daughter" [LXX Ps. 44:11]; Verse: "The virgins shall be brought unto the King" [LXX Ps. 44:15]; Gospel of the day, and of the feast; Communion verse: "I will take the cup of salvation" [LXX Ps. 115:4].*  
+*Sessional hymn of Saint Clement; Glory, Sessional hymn of Saint Peter; Both now, of the feast. After Ode 6, Kontakion of the feast. At the Praises: Stichera of the saints on 4; Glory... Both now, of the feast, Tone 2: "Today into the church she is led..."; Great Doxology; Troparion of the feast; litany; dismissal; and the First Hour. At the Liturgy: of the feast, from both sides Ode 9 with the heirmos on 8; Troparion of the feast; Glory... Both now, Kontakion of the feast. Prokeimenon, the Song of the Theotokos: "My soul doth magnify the Lord" [Lk. 1:46]; Verse: "For He hath regarded the lowliness of His handmaiden" [Lk. 1:48]...[^286] Apostle of the day, and of the feast; Alleluia: "Hear, O daughter" [LXX Ps. 44:11]; Verse: "The virgins shall be brought unto the King" [LXX Ps. 44:15]; Gospel of the day, and of the feast; Communion verse: "I will take the cup of salvation" [LXX Ps. 115:4].*
 *On the 26th day: Our Venerable Father Alypius the Stylite; Alleluia. Troparion, Tone 1: "A pillar of patience wast thou...". Kontakion, Tone 8, Podoben: "As First-Fruits of Nature" (Яко начатки естества):*  
 *Kontakion:*  
 *As the cause of virtues and an adornment of fasters, the Church glorifies thee today, and sings thy praise, O Alypius; by thy prayers grant unto them that honor with love thy valiant deeds deliverance from the roots of grievous transgressions, O namesake of freedom from sorrow!*  
 *On the 27th day: The Holy Great-Martyr James the Persian. At Vespers: Stichera of the saint; Glory, Tone 2; Both now, Theotokion; and at the Aposticha, of the Octoechos. Troparion: "Thy martyr, O Lord, in his suffering...". After Ode 6, Kontakion, Tone 2:*  
 *Kontakion:*  
-*Persuaded by thy good spouse, O patient of soul, and fearing the fearful judgment seat, the Persian command...[^287]*
-
-*...and fear hast thou spat upon, and wast shown forth as a marvelous martyr, pruned in thy body like a vine! At the Aposticha of the Octoechos; Glory, Tone 8: "Armed with a breastplate..."; Both now, Theotokion.*  
+*Persuaded by thy good spouse, O patient of soul, and fearing the fearful judgment seat, the Persian command...[^287] and fear hast thou spat upon, and wast shown forth as a marvelous martyr, pruned in thy body like a vine! At the Aposticha of the Octoechos; Glory, Tone 8: "Armed with a breastplate..."; Both now, Theotokion.*
 *On the 28th day: The Holy Venerable-Martyr Stephen the New, and the Holy Martyr Irenarchus. Stichera of the saints; Glory, Tone 6: "Who from youth unto God..."; Both now, Theotokion. At the Aposticha of the Octoechos; Glory, Tone 6: "That which is according to the image..."; Both now, Theotokion. Troparion: monastic, as on October 17. At Matins: Canon of the Octoechos on 4, and to Stephen on 6, and to the martyr [Irenarchus] on 4. After Ode 6, Kontakion, Tone 3:*  
 *Kontakion:*  
 *From a barren root, O blessed one, didst thou sprout forth as a branch, namesake of the First-Martyr; a great instructor of monks wast thou revealed, O father; fearing not the cruelty of the emperor who willed not to venerate the icon of Christ, therefore wast thou perfected martyrlike, receiving the crown, O Stephen!*  
@@ -684,9 +558,7 @@ Grace having shone forth from thy mouth like gold, it enlightened the universe, 
 *At Matins: Canon of the Octoechos, and of the saint on 6; Katavasia: "Christ is born". After Ode 6, Kontakion, Tone 2, Podoben: "Seeking the Highest" (Вышних ища):*  
 *Kontakion:*  
 *The namesake of manliness, the divinely-eloquent one, and the foremost Apostle of the Church, the kinsman of Peter, let us praise; for as unto him of old, so now unto us he calls: Come, we have found the Desired One!*  
-*At the Praises: Idiomela, 3, Tone 1, on 4; Glory, Tone 8...[^289]*
-
-*...preacher of the faith; Both now, Theotokion; Great Doxology. At the Divine Liturgy: from the canon, Odes 3 and 6; Prokeimenon, Tone 8: "Their sound went forth into all the earth" [LXX Ps. 18:5]; Verse: "The heavens declare the glory of God" [LXX Ps. 18:2]; the Apostle to the Romans [Rom. 10:11–21]; Alleluia, Tone 1: "The heavens shall confess Thy wonders, O Lord" [LXX Ps. 88:6]; Gospel from John, on Wednesday of the 1st week after Pascha [Jn. 1:35–51]; Communion verse: "Their sound went forth into all the earth" [LXX Ps. 18:5].[^290]*  
+*At the Praises: Idiomela, 3, Tone 1, on 4; Glory, Tone 8...[^289] preacher of the faith; Both now, Theotokion; Great Doxology. At the Divine Liturgy: from the canon, Odes 3 and 6; Prokeimenon, Tone 8: "Their sound went forth into all the earth" [LXX Ps. 18:5]; Verse: "The heavens declare the glory of God" [LXX Ps. 18:2]; the Apostle to the Romans [Rom. 10:11–21]; Alleluia, Tone 1: "The heavens shall confess Thy wonders, O Lord" [LXX Ps. 88:6]; Gospel from John, on Wednesday of the 1st week after Pascha [Jn. 1:35–51]; Communion verse: "Their sound went forth into all the earth" [LXX Ps. 18:5].[^290]*
 *The Month of December has 31 days. The day has 9 hours, and the night 15.*  
 *On the 1st day: The Holy Prophet Nahum; Alleluia.*  
 *On the 2nd day: The Holy Prophet Habakkuk; Alleluia.*  
@@ -698,12 +570,8 @@ Grace having shone forth from thy mouth like gold, it enlightened the universe, 
 *Then Sessional hymn of the saint. After Ode 6, Kontakion to John [of Damascus], Tone 4:*  
 *Kontakion:*  
 *The hymnographer and honored divinely-eloquent one, the instructor and teacher of the Church, and against the enemies an antagonist, let us hymn John; for having taken up as an armor the Cross of the Lord, he drove back all heretical deceit, and as a fervent intercessor before God, he grants unto all the remission of transgressions!*  
-*At the Praises: Idiomela of the saint, Tone 1; others, 2, Tone 1; Glory, Tone 6: "Passion-bearing..."; Both now, Theotokion. And at the Aposticha: of the Octoechos; Glory: "The multitude of monks..."; Both now, Theotokion. At the Divine Liturgy: from the canon of the saint, Ode 3 on 4, and to the saint [John], Ode 6 on 4; Prokeimenon: "God is marvelous in His holy ones" [LXX Ps. 67:36]...[^291]*
-
-*...Verse: "In the congregations bless ye God, the Lord from the fountains of Israel" [LXX Ps. 67:27]; the Apostle to the Galatians, pericope 208 [Gal. 3:23–29]; Alleluia: "With patience I waited for the Lord" [LXX Ps. 39:2]; Gospel from Matthew, on the 14th Friday of the 28th week: "Rejoice..." [Mt. 25:1–13].[^292]*  
-*On the 5th day: Our Venerable and God-bearing Father Sabbas the Sanctified; we celebrate until midday, an All-night Vigil. If the Hegumen wills: At Vespers: "Blessed is the man"; stichera on 8 (3 of Tone 5: "Venerable father..."); Glory, Tone 6: "That which is according to the image..."; Both now, Theotokion 1 of the tone: "Who would not bless thee..."; daily Prokeimenon; 3 Readings common to venerable fathers. At the Aposticha: Idiomela, 3, Tone 5; verses: "Precious in the sight of the Lord is the death of His venerable ones" [LXX Ps. 115:6]; "Blessed is the man that fears the Lord" [LXX Ps. 111:1]; Glory: "The multitude of monks..."; Both now, Theotokion. Troparion, Tone 8: "With the streams of thy tears..."; Sessional hymn 3. At Matins: customary Kathisma psalmody, and the other prayers; Sessional hymns of the saint; Songs of Ascents of Tone 4, Antiphon 1; Prokeimenon: "Precious in the sight of the Lord..."; Verse: "What shall I render unto the Lord..." [LXX Ps. 115:3]; "Let every breath praise the Lord"; Gospel from Matthew, 3rd pericope of the week: "The Lord said: All things are delivered unto Me of My Father..." [Mt. 11:27–30]; Psalm 50; sticheron of the saint...*
-
-*...Canon of the Octoechos on 6, and of the saint on 8. After Ode 6, Kontakion, Tone 8:*  
+*At the Praises: Idiomela of the saint, Tone 1; others, 2, Tone 1; Glory, Tone 6: "Passion-bearing..."; Both now, Theotokion. And at the Aposticha: of the Octoechos; Glory: "The multitude of monks..."; Both now, Theotokion. At the Divine Liturgy: from the canon of the saint, Ode 3 on 4, and to the saint [John], Ode 6 on 4; Prokeimenon: "God is marvelous in His holy ones" [LXX Ps. 67:36]...[^291] Verse: "In the congregations bless ye God, the Lord from the fountains of Israel" [LXX Ps. 67:27]; the Apostle to the Galatians, pericope 208 [Gal. 3:23–29]; Alleluia: "With patience I waited for the Lord" [LXX Ps. 39:2]; Gospel from Matthew, on the 14th Friday of the 28th week: "Rejoice..." [Mt. 25:1–13].[^292]*
+*On the 5th day: Our Venerable and God-bearing Father Sabbas the Sanctified; we celebrate until midday, an All-night Vigil. If the Hegumen wills: At Vespers: "Blessed is the man"; stichera on 8 (3 of Tone 5: "Venerable father..."); Glory, Tone 6: "That which is according to the image..."; Both now, Theotokion 1 of the tone: "Who would not bless thee..."; daily Prokeimenon; 3 Readings common to venerable fathers. At the Aposticha: Idiomela, 3, Tone 5; verses: "Precious in the sight of the Lord is the death of His venerable ones" [LXX Ps. 115:6]; "Blessed is the man that fears the Lord" [LXX Ps. 111:1]; Glory: "The multitude of monks..."; Both now, Theotokion. Troparion, Tone 8: "With the streams of thy tears..."; Sessional hymn 3. At Matins: customary Kathisma psalmody, and the other prayers; Sessional hymns of the saint; Songs of Ascents of Tone 4, Antiphon 1; Prokeimenon: "Precious in the sight of the Lord..."; Verse: "What shall I render unto the Lord..." [LXX Ps. 115:3]; "Let every breath praise the Lord"; Gospel from Matthew, 3rd pericope of the week: "The Lord said: All things are delivered unto Me of My Father..." [Mt. 11:27–30]; Psalm 50; sticheron of the saint Canon of the Octoechos on 6, and of the saint on 8. After Ode 6, Kontakion, Tone 8:*
 *Kontakion:*  
 *As a pure sacrifice offered unto God from infancy, through virtue, O blessed one, wast thou a founder of piety; therefore didst thou become an ornament of the venerable, a citizen of the desert worthy of all praise! Therefore we cry unto thee: Rejoice, O all-wealthy Sabbas!*  
 *Sessional hymn 2. At the Praises: stichera of the saint on 4; Glory, Tone 6: "Venerable father, into all..."; Both now, Theotokion; Great Doxology; Troparion of the saint; litany; dismissal. At the Divine Liturgy: from the canon, Odes 3 and 6; Prokeimenon: "The saints shall boast in glory" [LXX Ps. 149:5]; Verse: "Sing unto the Lord a new song" [LXX Ps. 149:1]; the Apostle: Saturday 23 [Gal. 5:22–6:2]; Alleluia: "Blessed is the man that fears the Lord" [LXX Ps. 111:1]; Verse: "His seed shall be mighty upon earth" [LXX Ps. 111:2]; Gospel from Luke, on Friday of the 20th week: "At that time, Jesus stood in a plain..." [Lk. 6:17–23]; Communion verse: "In everlasting remembrance shall the righteous be" [LXX Ps. 111:6].[^293]*  
@@ -711,9 +579,7 @@ Grace having shone forth from thy mouth like gold, it enlightened the universe, 
 
 *Glory, Tone 6: "The ornament of the saints..."; Both now, Theotokion 1 of the same tone; Entrance; daily Prokeimenon; 3 Readings as on November 13. At the Aposticha: Idiomela to the saint, or Prosomoia; verses: "Precious in the sight of the Lord..."; "What shall I render..."; Glory, Tone 6: "O man of God..."; Both now, Theotokion. Troparion, Sessional hymn 2, Tone 4: "A rule of faith...". Customary Kathisma psalmody, and the other prayers; Sessional hymns of the saint; Songs of Ascents of Tone 4; Prokeimenon: "Precious in the sight of the Lord..."; Verse: "What shall I render..."; "Let every breath praise the Lord"; Gospel from John, pericope on the 5th Sunday after Pascha: "At that time..." [Jn. 10:9–16]; Psalm 50; sticheron of the saint. Canon of the Theotokos [Heliodoros] with heirmoi on 6, and of the saint on 8; Katavasia: "Christ is born". After Ode 3, Sessional hymns of the saint; Glory... Both now... Theotokion. After Ode 6, Kontakion, Tone 3, Podoben: "Today the Virgin" (Дѣва днесь):*  
 *Kontakion:*  
-*In Myra, O holy one, wast thou shown forth as a hierurg; for the Gospel of Christ, O venerable one, having fulfilled, thou didst lay down thy life for thy people, and didst save the innocent from death; therefore wast thou hallowed...[^294]*
-
-*...as a great initiate of the grace of God![^295]*  
+*In Myra, O holy one, wast thou shown forth as a hierurg; for the Gospel of Christ, O venerable one, having fulfilled, thou didst lay down thy life for thy people, and didst save the innocent from death; therefore wast thou hallowed...[^294] as a great initiate of the grace of God![^295]*
 *At the Praises: stichera of the saint on 4; Glory, Tone 5: "Let us sound the trumpet..."; Both now, Theotokion; Great Doxology. At the Divine Liturgy: from the canon, Odes 3 and 6; Prokeimenon: "Precious in the sight of the Lord is the death of His venerable ones" [LXX Ps. 115:6]; Verse: "What shall I render unto the Lord..." [LXX Ps. 115:3]; the Apostle to the Hebrews: "Brethren, obey them that have the rule over you..." [Heb. 13:17–21]; Alleluia: "Thy priests shall be clothed with righteousness" [LXX Ps. 131:9]; Gospel from Luke, on Friday of the 20th week: "At that time, Jesus stood in a plain..." [Lk. 6:17–23]; Communion verse: "In everlasting remembrance shall the righteous be" [LXX Ps. 111:6].*  
 *On the 7th day: Our Father among the Saints Ambrose, Bishop of Milan; Alleluia.*  
 *On the 8th day: Our Venerable Father Patapius; Alleluia.*  
@@ -725,9 +591,7 @@ Grace having shone forth from thy mouth like gold, it enlightened the universe, 
 *Glory to the Dedication: "As the highest..."; Sessional hymn 13; Both now, Theotokion. At Matins: Troparion of the Conception twice; Glory to the Dedication; Both now to the Conception; Canons: of the Conception on 6. After Ode 6, Kontakion, Tone 4:*  
 *Kontakion:*  
 *The universe celebrates today Anne's conception, which came to pass from God; for she bare the one who beyond speech bare the Word!*  
-*Sessional hymn 2. At the Aposticha of the Octoechos: Glory... Both now..., Tone 2: "Inexpressible... of angels". At the Divine Liturgy: from the canon, Odes 3 and 6; Prokeimenon: "God is marvelous in His holy ones" [LXX Ps. 67:36]...[^296]*
-
-*...Verse: "In the congregations bless ye God, the Lord from the fountains of Israel" [LXX Ps. 67:27]; the Apostle to the Hebrews: "Brethren, the first tabernacle had..." [Heb. 9:1–7]; Alleluia: "The salvation of the righteous is from the Lord" [LXX Ps. 36:39]; Gospel from Luke, Saturday 6: "Rejoice..." [Lk. 1:39–49, 56].[^297]*  
+*Sessional hymn 2. At the Aposticha of the Octoechos: Glory... Both now..., Tone 2: "Inexpressible... of angels". At the Divine Liturgy: from the canon, Odes 3 and 6; Prokeimenon: "God is marvelous in His holy ones" [LXX Ps. 67:36]...[^296] Verse: "In the congregations bless ye God, the Lord from the fountains of Israel" [LXX Ps. 67:27]; the Apostle to the Hebrews: "Brethren, the first tabernacle had..." [Heb. 9:1–7]; Alleluia: "The salvation of the righteous is from the Lord" [LXX Ps. 36:39]; Gospel from Luke, Saturday 6: "Rejoice..." [Lk. 1:39–49, 56].[^297]*
 *On the 10th day: The Holy Martyrs Menas, Hermogenes, and Eugraphus. Stichera of the saints on 6; at the Aposticha of the Octoechos: Glory to the saints; Both now, Theotokion. Troparion, Tone 8:*  
 *Troparion:*  
 *By the restraint of passions, having put to death the fiery surges and stirrings, the martyrs of Christ received grace to drive away afflictions from the infirm, and alive and even after death to work wonders; in truth a most glorious wonder, that bare bones pour forth healings! Glory to the only humbled God!*  
@@ -744,25 +608,19 @@ Grace having shone forth from thy mouth like gold, it enlightened the universe, 
 *Kontakion:*  
 *Wounded by the love of Christ, O blessed one, having winged thy mind in the radiance of the Spirit, by active contemplation hast thou found divine deed, O God-receiver, having become an altar, asking for all divine radiance!*  
 *At the Aposticha of the Octoechos: Glory, Tone 4: "Venerable father, hierarch..."; Both now, Theotokion. At the Divine Liturgy: Prokeimenon: "Precious in the sight of the Lord is the death of His venerable one" [LXX Ps. 115:6]; Verse: "What shall I render unto the Lord for all that He hath rendered unto me?" [LXX Ps. 115:3]; the Apostle: see the 6th of this month [Heb. 13:17–21]; Alleluia: "Thy priests shall be clothed with righteousness" [LXX Ps. 131:9]; Gospel from Luke, on Friday of the 20th week: "At that time, Jesus stood in a plain..." [Lk. 6:17–23]; Communion verse: "In everlasting remembrance shall the righteous be" [LXX Ps. 111:6].[^299]*  
-*On the 13th day: The Holy Martyrs Eustratius, Auxentius, Eugene, Mardarius, and Orestes, and our Venerable Father Arsenius of Mount Latros. At Vespers: Stichera of the saints on 6; Glory, Tone 6: "Come, ye lovers of the martyrs..."; Both now, Theotokion. At the Aposticha of the Octoechos: Glory, Tone 5: "Ye martyrs..."; Both now, Theotokion. Troparion: "Thy martyrs, O Lord...", and "With the streams of Thy tears..."; see the 13th. At Matins: Canon of the Octoechos, and of the saints on 6. After Ode 6, Kontakion, Tone 2...*
-
-*...who fought well on earth, and in the heavens were gloriously crowned, the fivefold company of defenders and deliverers of the faithful, among whom Eustratius shone forth as the sun among the stars; let us honor them with hymns and faith, as they pray diligently for us all!*  
+*On the 13th day: The Holy Martyrs Eustratius, Auxentius, Eugene, Mardarius, and Orestes, and our Venerable Father Arsenius of Mount Latros. At Vespers: Stichera of the saints on 6; Glory, Tone 6: "Come, ye lovers of the martyrs..."; Both now, Theotokion. At the Aposticha of the Octoechos: Glory, Tone 5: "Ye martyrs..."; Both now, Theotokion. Troparion: "Thy martyrs, O Lord...", and "With the streams of Thy tears..."; see the 13th. At Matins: Canon of the Octoechos, and of the saints on 6. After Ode 6, Kontakion, Tone 2 who fought well on earth, and in the heavens were gloriously crowned, the fivefold company of defenders and deliverers of the faithful, among whom Eustratius shone forth as the sun among the stars; let us honor them with hymns and faith, as they pray diligently for us all!*
 *At the Praises: stichera, Tone 4, fivefold; Glory, Tone 4: "Having been of the pagan..."; Both now, Theotokion. At the Aposticha of the Octoechos: Glory, Tone 4; Both now, Theotokion. At the Divine Liturgy: from the canon, Odes 3 and 6; Prokeimenon: "Unto the saints that are in His earth" [LXX Ps. 15:3]; Verse: "I foresaw the Lord always before my face" [LXX Ps. 15:8]; the Apostle: 27th Sunday [Eph. 6:10–17]; Alleluia: "The righteous cried, and the Lord heard them" [LXX Ps. 33:18]; Gospel from Luke, on Tuesday of the 12th week [Lk. 12:42–48]; Communion verse: "Rejoice in the Lord, O ye righteous" [LXX Ps. 32:1].[^300]*  
 *Sunday of the Holy Forefathers. We celebrate an All-Night Vigil, and the office of the saint whose commemoration happens to fall on that Sunday is set aside; it is sung on Friday at Compline; but the resurrectional hymns and those of the holy Forefathers are sung. On Saturday, at Small Vespers:*
 
 *...resurrectional [stichera] and to the Theotokos as usual. At Great Vespers: after the customary psalm, "Blessed is the man"; at "Lord, I have cried," we sing 10 stichera: 3 resurrectional, 4 Anatolian, and of the holy Forefathers 3 on Tone 8: "He who in Eden's paradise..."; Glory, Tone 8: "The fathers before the Law..."; Both now, the 1st Theotokion of the current tone. At the Entrance, stichera of the saint of whom the monastery is named, as usual. At the Aposticha: resurrectional sticheron from the Alphabet; Glory, Tone 3: the composition of the Forefathers; Both now, Theotokion to the same tone from the Alphabet. At the blessing of the loaves: Troparion "O Virgin Theotokos" twice; Glory... Both now..., Tone 2, to the Fathers:*  
 *Troparion:*  
 *By faith Thou didst justify the Forefathers, having through them betrothed the Church of the nations; the saints boast in glory, for from their seed is the fruitful Maiden who bare Thee without seed; by their intercessions, O Christ God, have mercy on us!*  
-*Reading in the Epistles. At Matins: resurrectional troparion twice; Glory... Both now...[^301]*
-
-*...of the Forefathers. After the Kathismata: resurrectional sessional hymns with their Theotokia; "Blessed are the undefiled" [LXX Ps. 118]; Psalm, Tone...; and of the other prayers; Hymns of Ascents; Prokeimenon, Tone...; "Let every breath praise the Lord"; Resurrection Gospel; "Having beheld the resurrection of Christ..."; Psalm [50]; resurrectional sticheron. Canon: resurrectional on 4, and to the Theotokos on 4, and of the three Children, Tone 8: "Having passed through the water..." and "The Beginningless Word...", on 4; Katavasia: "Christ is born". After Ode 3, Hypakoe, Tone 2:*  
+*Reading in the Epistles. At Matins: resurrectional troparion twice; Glory... Both now...[^301] of the Forefathers. After the Kathismata: resurrectional sessional hymns with their Theotokia; "Blessed are the undefiled" [LXX Ps. 118]; Psalm, Tone...; and of the other prayers; Hymns of Ascents; Prokeimenon, Tone...; "Let every breath praise the Lord"; Resurrection Gospel; "Having beheld the resurrection of Christ..."; Psalm [50]; resurrectional sticheron. Canon: resurrectional on 4, and to the Theotokos on 4, and of the three Children, Tone 8: "Having passed through the water..." and "The Beginningless Word...", on 4; Katavasia: "Christ is born". After Ode 3, Hypakoe, Tone 2:*
 *Hypakoe:*  
 *The fire was changed into dew for the Children, and weeping was changed into joy; for the Angel ministered unto both wonders: unto the one indeed he transformed the furnace into rest, but unto the other he proclaimed the three-day resurrection; and O Author of our life: Lord, glory to Thee!*  
 *And the homily of Chrysostom is read, Concerning Abraham. After Ode 6, Kontakion, Tone 2:*  
 *Kontakion:*  
-*Not honoring the image made by hands, but armed with the uncircumscribed Essence, O thrice-blessed ones, ye were glorified in the ordeal of fire...[^302]*
-
-*...and standing in the midst of the unbearable flame, ye called upon God: Make haste, O Compassionate One, and hasten as Merciful to our help, for Thou canst do so if Thou willest!*  
+*Not honoring the image made by hands, but armed with the uncircumscribed Essence, O thrice-blessed ones, ye were glorified in the ordeal of fire...[^302] and standing in the midst of the unbearable flame, ye called upon God: Make haste, O Compassionate One, and hasten as Merciful to our help, for Thou canst do so if Thou willest!*
 *After Ode 9: Exapostilarion, resurrectional. At the Praises: 4 resurrectional and Anatolian; Glory, Tone 7: "Come, all ye faithful..."; Both now: "Most blessed art thou, O Virgin Theotokos...". Great Doxology. After the Trisagion: Troparion, resurrectional only; litany; dismissal; Gospel sticheron. At the Divine Liturgy: Prokeimenon, Tone 4, Song of the Fathers: "Blessed art Thou, O Lord God of our Fathers" [LXX Dan. 3:26]; Verse: "For righteous art Thou, O Lord" [LXX Dan. 3:27]; the Apostle: 29th Sunday: "Brethren, when Christ who is our life shall appear..." [Col. 3:4–11]; Alleluia: "Moses and Aaron among His priests..." [LXX Ps. 98:6]; Gospel from Luke, 11th Sunday: "The Lord said: A certain man made a great supper..." [Lk. 14:16–24]; Communion verse: "Praise ye the Lord from the heavens" [LXX Ps. 148:1].*  
 *On the 14th day: The Holy Martyrs Thyrsus, Leucius, Philemon, Apollonius, and Arianus: Alleluia.[^303]*
 
@@ -774,31 +632,21 @@ Grace having shone forth from thy mouth like gold, it enlightened the universe, 
 *O adornment of the sacred, venerable one, and pre-eminent passion-bearer, praising thee, we all pray: O hieromartyr Eleutherius, deliver from manifold perils those who celebrate thy memory with love, praying unceasingly for us all!*  
 *After Ode 6, Kontakion of the saint [Paul of Latros], Tone 8:*  
 *Kontakion:*  
-*From youth, O God-wise one, having desired that which is beyond the mind, manfully hast thou forsaken worldly encumbrances, and by a divine life hast thou become a dwelling of the Trinity...[^304]*
-
-*...and hast enlightened those who draw near unto thee in faith; therefore we cry: Rejoice, O Paul our father!*  
+*From youth, O God-wise one, having desired that which is beyond the mind, manfully hast thou forsaken worldly encumbrances, and by a divine life hast thou become a dwelling of the Trinity...[^304] and hast enlightened those who draw near unto thee in faith; therefore we cry: Rejoice, O Paul our father!*
 *On the 16th day: The Holy Prophet Haggai: Alleluia.*  
 *On the 17th day: The Holy Prophet Daniel and the Three Holy Children: Ananias, Azarias, and Misael; we celebrate the entire day. At Vespers: Stichera on 6; Glory, Tone 2: "Spiritually..."; Both now, Theotokion. At the Aposticha of the Octoechos: Glory... Both now..., Tone 6: "Daniel, a man of desires...". Troparion, Tone 2:*  
 *Troparion:*  
 *Great are the achievements of faith: in the fountain of flame, as upon the water of rest, the three holy Children rejoiced, and the Prophet Daniel showed himself a shepherd unto lions as unto sheep; by their intercessions, O Christ God, have mercy on us!*  
 *At Matins: Canon of the Octoechos on 6, to Daniel on 4, and to the Children on 4. After Ode 3, Kontakion [of St. Daniel], Tone 3:*  
 *Kontakion:*  
-*Cleansed in spirit, thy radiant heart became a pure dwelling of prophecy; for thou didst behold things far off as though present, and having been cast into the den, thou didst tame lions; therefore...[^305]*
-
-*...we honor thee, O prophet, blessed and glorious Daniel!*  
+*Cleansed in spirit, thy radiant heart became a pure dwelling of prophecy; for thou didst behold things far off as though present, and having been cast into the den, thou didst tame lions; therefore...[^305] we honor thee, O prophet, blessed and glorious Daniel!*
 *After Ode 6: Kontakion of the Children: "Not made by hands..."; it is written under the Sunday of the Forefathers. After Ode 9: Exapostilarion. At the Aposticha of the Octoechos: Glory: "Spiritually..."; Both now, Theotokion. At the Divine Liturgy: Prokeimenon: "God is marvelous in His holy ones" [LXX Ps. 67:36]; Verse: "In the congregations bless ye God..." [LXX Ps. 67:27]; the Apostle to the Hebrews: "Brethren, all the saints..." [Heb. 11:33–40]; Alleluia: "The righteous cried, and the Lord heard them" [LXX Ps. 33:18]; Gospel from Luke, on Wednesday of the 10th week: "The Lord said: Woe unto you, Pharisees..." [Lk. 11:42–46]; Communion verse: "Rejoice in the Lord, O ye righteous" [LXX Ps. 32:1].*  
 *If the commemoration of this Daniel and the three holy Children happens to fall on the Sunday of the Holy Fathers: their office is sung together with the Sunday hymns.*  
 *On the Saturday before the Nativity of Christ: the Apostle to the Galatians, 27th Saturday [Gal. 3:8–12]; Gospel from Luke: "The Lord said: Unto what is the kingdom of God like? It is like a grain of mustard seed...", pericope 21 [Lk. 13:18–21].*  
-*Sunday before the Nativity of Christ, of the Holy Fathers: the office of the saint whose memory happens to fall at this time, even on that day, is sung at Compline; but with the resurrectional hymns is sung the office of the holy Fathers. On Saturday...[^306]*
-
-*...at Small Vespers: resurrectional [stichera] and to the Theotokos as usual. At Great Vespers: "Blessed is the man"; at "Lord, I have cried," we sing 10 stichera: 3 resurrectional, 1 Anatolian, 3 of the Forefeast, and 3 of the Fathers, Tone 8: "He who in Eden's paradise..."; Glory, Tone 6: "Daniel, a man of desires..."; Both now: "Prepare, O cave...". Entrance; Prokeimenon; 3 Readings, as on the 7th Sunday after Pascha. At the Litiya: Dogmatica of the current tone as usual; Glory, Tone 1: "Unto them that serve the stars..."; Both now, the same tone: "Hear, O heaven...". At the Aposticha: resurrectional sticheron and the Alphabet stichera; Glory, Tone 2: "Rejoice, ye honorable prophets..."; Both now: "Behold, the time is at hand...". Blessing of the loaves: Troparion "O Virgin Theotokos" twice, and "Great are the achievements of faith" once. Reading in the Epistles. At Matins: resurrectional troparion twice; Glory to the Children [Troparion of the Three Children and Daniel]; Both now, Theotokion of the same tone. After the Kathismata: resurrectional sessional hymns; "Blessed are the undefiled" [LXX Ps. 118] with their troparia; Psalm, Tone 8; and of the other prayers; Hymns of Ascents of the tone; "Let every breath praise the Lord"; Resurrection Gospel; "Having beheld the resurrection of Christ...[^307]"*
-
-*...Psalm 50; resurrectional sticheron. Canon, Tone 6: "By the wave of the sea..." on 8, and of the Forefeast: Ode 1: "Christ is born"; Katavasia: "Christ is born". For the resurrectional canon is not sung, because the canon of the tone has two resurrectional troparia. After Ode 3, Hypakoe, Tone 8:*  
+*Sunday before the Nativity of Christ, of the Holy Fathers: the office of the saint whose memory happens to fall at this time, even on that day, is sung at Compline; but with the resurrectional hymns is sung the office of the holy Fathers. On Saturday...[^306] at Small Vespers: resurrectional [stichera] and to the Theotokos as usual. At Great Vespers: "Blessed is the man"; at "Lord, I have cried," we sing 10 stichera: 3 resurrectional, 1 Anatolian, 3 of the Forefeast, and 3 of the Fathers, Tone 8: "He who in Eden's paradise..."; Glory, Tone 6: "Daniel, a man of desires..."; Both now: "Prepare, O cave...". Entrance; Prokeimenon; 3 Readings, as on the 7th Sunday after Pascha. At the Litiya: Dogmatica of the current tone as usual; Glory, Tone 1: "Unto them that serve the stars..."; Both now, the same tone: "Hear, O heaven...". At the Aposticha: resurrectional sticheron and the Alphabet stichera; Glory, Tone 2: "Rejoice, ye honorable prophets..."; Both now: "Behold, the time is at hand...". Blessing of the loaves: Troparion "O Virgin Theotokos" twice, and "Great are the achievements of faith" once. Reading in the Epistles. At Matins: resurrectional troparion twice; Glory to the Children [Troparion of the Three Children and Daniel]; Both now, Theotokion of the same tone. After the Kathismata: resurrectional sessional hymns; "Blessed are the undefiled" [LXX Ps. 118] with their troparia; Psalm, Tone 8; and of the other prayers; Hymns of Ascents of the tone; "Let every breath praise the Lord"; Resurrection Gospel; "Having beheld the resurrection of Christ...[^307]" Psalm 50; resurrectional sticheron. Canon, Tone 6: "By the wave of the sea..." on 8, and of the Forefeast: Ode 1: "Christ is born"; Katavasia: "Christ is born". For the resurrectional canon is not sung, because the canon of the tone has two resurrectional troparia. After Ode 3, Hypakoe, Tone 8:*
 *Hypakoe:*  
 *The angel bedewed the furnace for the Children, but now he restrained the weeping of the women, saying: Why bring ye myrrh? Whom seek ye in the tomb? Christ God is risen, for He is the life and salvation of the human race!*  
-*After Ode 6: [Kontakion] "Not made by hands...", sung under the Sunday of the Forefathers. After Ode 9: Exapostilarion, resurrectional, and to the Fathers. At the Praises: 4 resurrectional stichera, and to the Fathers 3, Tone 8: "He who in Eden's paradise..."; then verse: "Blessed art Thou, O Lord God of our Fathers" [LXX Dan. 3:26], and an idiomelon is said, Tone 8; Glory, Tone 8: "In the teachings of the Law..."; Both now: "Most blessed art thou, O Virgin Theotokos...". Great Doxology; troparion, resurrectional only; and dismissal; Gospel sticheron. At the Divine Liturgy: of the Octoechos on 6...[^308]*
-
-*...and of the holy Fathers, Ode 3 on 4. Prokeimenon, Tone 4, Song of the Fathers: "Blessed art Thou, O Lord God of our Fathers" [LXX Dan. 3:26]; Verse: "For righteous art Thou, O Lord" [LXX Dan. 3:27]; the Apostle to the Hebrews: "Brethren, by faith Abraham obeyed..." [Heb. 11:9–10, 17–23, 32–40]; Alleluia: "O God, with our ears have we heard..." [LXX Ps. 43:2]; Verse: "For Thou hast saved us from them that afflict us" [LXX Ps. 43:8]; Gospel from Matthew: "The book of the generation of Jesus Christ..." [Mt. 1:1–25]; Communion verse: "Praise ye the Lord from the heavens" [LXX Ps. 148:1]; another: "Rejoice in the Lord, O ye righteous" [LXX Ps. 32:1].*  
+*After Ode 6: [Kontakion] "Not made by hands...", sung under the Sunday of the Forefathers. After Ode 9: Exapostilarion, resurrectional, and to the Fathers. At the Praises: 4 resurrectional stichera, and to the Fathers 3, Tone 8: "He who in Eden's paradise..."; then verse: "Blessed art Thou, O Lord God of our Fathers" [LXX Dan. 3:26], and an idiomelon is said, Tone 8; Glory, Tone 8: "In the teachings of the Law..."; Both now: "Most blessed art thou, O Virgin Theotokos...". Great Doxology; troparion, resurrectional only; and dismissal; Gospel sticheron. At the Divine Liturgy: of the Octoechos on 6...[^308] and of the holy Fathers, Ode 3 on 4. Prokeimenon, Tone 4, Song of the Fathers: "Blessed art Thou, O Lord God of our Fathers" [LXX Dan. 3:26]; Verse: "For righteous art Thou, O Lord" [LXX Dan. 3:27]; the Apostle to the Hebrews: "Brethren, by faith Abraham obeyed..." [Heb. 11:9–10, 17–23, 32–40]; Alleluia: "O God, with our ears have we heard..." [LXX Ps. 43:2]; Verse: "For Thou hast saved us from them that afflict us" [LXX Ps. 43:8]; Gospel from Matthew: "The book of the generation of Jesus Christ..." [Mt. 1:1–25]; Communion verse: "Praise ye the Lord from the heavens" [LXX Ps. 148:1]; another: "Rejoice in the Lord, O ye righteous" [LXX Ps. 32:1].*
 *It is fitting to know: If the Sunday of the Holy Fathers falls on the 24th day of this month, search in the Chapters of Rubrics [Skazaniya].*  
 *On the 18th day: The Holy Martyr Sebastian and those with him: Alleluia.*  
 *On the 19th day: The Holy Martyr Boniface: Alleluia.*  
@@ -821,25 +669,19 @@ Grace having shone forth from thy mouth like gold, it enlightened the universe, 
 *It is fitting to know: Thus is the order until the Canon of the Nativity of Christ; the Octoechos is not sung until the Baptism [Theophany] is completed; this is from the 20th day of the month of December until the 14th of January, on which the Feast of Theophany is leave-taken. At the Divine Liturgy: of the Forefeast, Ode 3 on 4, and of the saint, Ode 6 on 4; Prokeimenon: "The righteous shall be glad in the Lord" [LXX Ps. 63:11]; Verse: "Hear my voice, O God" [LXX Ps. 63:2]; the Apostle: "Brethren, to them that love God..." [Rom. 8:28–39]; Alleluia: "The righteous shall flourish like a palm tree" [LXX Ps. 91:13]; Gospel from Matthew [in Luke]: "Jesus came down to Capernaum..." [Lk. 4:31–36]; Communion verse: In memory of the righteous.*  
 *On the 21st day: The Holy Martyr Juliana. At Vespers: Stichera of the Forefeast and of the saint; Glory... Both now... of the Forefeast. At the Aposticha of the Forefeast; Troparion: "Make ready...". At Matins: Kathisma 3; sessional hymns of the Forefeast; Canon of the Forefeast on 8, and of the saint on 4. After Ode 3, Kontakion, Tone 3:*  
 *Kontakion:*  
-*The beauty of virginity ever, and the crown of martyrs, Juliana is crowned today, granting unto those in infirmities and sicknesses...[^312]*
-
-*...healing and salvation unto those who hasten unto thy shelter with zeal; that we may obtain eternal life of divine glory!*  
+*The beauty of virginity ever, and the crown of martyrs, Juliana is crowned today, granting unto those in infirmities and sicknesses...[^312] healing and salvation unto those who hasten unto thy shelter with zeal; that we may obtain eternal life of divine glory!*
 *After Ode 6: of the Forefeast. At the Praises and at the Aposticha: of the Forefeast.*  
 *On the 22nd day: The Holy Great Martyr Anastasia. Stichera of the saint on 6; Glory of the saint; Both now of the Forefeast; Troparion: "Thy lamb [Anastasia], O Jesus..."; Glory... Both now...: "Make ready...". At Matins: Troparion of the Forefeast twice; Glory of the saint; Both now of the Forefeast; Sessional hymns of the Forefeast and of the saint; Canon of the Forefeast on 6, and of the saint on 6. After Ode 3, Kontakion, Tone 2:*  
 *Kontakion:*  
 *They that are in temptations and afflictions, running unto thy church, receive honorable healings from the divine grace that dwells in thee, O Anastasia; for thou ever pourest forth healings freely!*  
-*After Ode 6: of the Forefeast; Exapostilarion of the saint and of the Forefeast. At the Praises and at the Aposticha: of the Forefeast. At the Divine Liturgy: Ode 3 of the Forefeast...[^313]*
-
-*...and of the saint, Ode 6 on 4. Prokeimenon: "God is marvelous in His holy ones" [LXX Ps. 67:36]; Verse: "In the congregations bless ye God" [LXX Ps. 67:27]; the Apostle: 14th Sunday [Gal. 3:23–29]; Alleluia: "I waited patiently for the Lord" [LXX Ps. 39:2]; Gospel from Luke, on Friday of the 4th week [Lk. 10:19–21]; Communion verse: In memory of the righteous.*  
+*After Ode 6: of the Forefeast; Exapostilarion of the saint and of the Forefeast. At the Praises and at the Aposticha: of the Forefeast. At the Divine Liturgy: Ode 3 of the Forefeast...[^313] and of the saint, Ode 6 on 4. Prokeimenon: "God is marvelous in His holy ones" [LXX Ps. 67:36]; Verse: "In the congregations bless ye God" [LXX Ps. 67:27]; the Apostle: 14th Sunday [Gal. 3:23–29]; Alleluia: "I waited patiently for the Lord" [LXX Ps. 39:2]; Gospel from Luke, on Friday of the 4th week [Lk. 10:19–21]; Communion verse: In memory of the righteous.*
 *On the 23rd day: The Ten Holy Martyrs of Crete. At Vespers: Stichera together; at the Aposticha of the Forefeast; Glory of the saints; Both now of the Forefeast; Troparion: "Thy martyrs, O Lord..."; Glory... Both now...: "Make ready...". At Matins: Canon of the Forefeast on 8, and of the saints on 4. After Ode 3, Kontakion, Tone 4:*  
 *Kontakion:*  
 *A star hath shone forth, the honorable suffering of the martyrs, illuminating in advance for us Him that was hidden in the cave, whom the Virgin bare without seed!*  
 *After Ode 6: of the Forefeast. At the Praises of the Forefeast; Glory of the saints; Both now of the Forefeast. At the Aposticha of the Forefeast; Glory of the saints; Both now of the Forefeast.*  
 *On the 24th day: The Holy Nun-Martyr Eugenia. At Vespers: of the Forefeast and of the saint together; Troparion, Tone 4:*  
 *Troparion:*  
-*She was enrolled once with the elder Joseph, as of the seed of David, in Bethlehem...[^314]*
-
-*...Mary, bearing in Her womb the seedless offspring; and the time of the birth arrived, and there was no room in the inn; but the cave was shown as a fair palace for the Queen: Christ is born, to raise up the previously fallen image!*  
+*She was enrolled once with the elder Joseph, as of the seed of David, in Bethlehem...[^314] Mary, bearing in Her womb the seedless offspring; and the time of the birth arrived, and there was no room in the inn; but the cave was shown as a fair palace for the Queen: Christ is born, to raise up the previously fallen image!*
 *At Matins: Canon of the Forefeast, Tone 4 and Tone 2 on 8: "He was enrolled..."; of the saint on 4. After Ode 3, Kontakion, Tone 2:*  
 *Kontakion:*  
 *Fleeing fair-seemingly the nobility of rank, adorned in a bridegroom-like manner, thou wast united in dove-like likeness from the Virgin, showing thyself crown-bearing unto virgins, O sacredly-robed one, who in truth didst love the nobility of divine glory!*  
@@ -848,22 +690,16 @@ Grace having shone forth from thy mouth like gold, it enlightened the universe, 
 
 *At the second hour of the day, they strike the semantron, and we gather in church; and the priest and the deacon vest in vestments. After this, the priest having given the blessing, we begin the First Hour: "O Heavenly King"; the Trisagion; after "Our Father", the priest: "For Thine is the kingdom"; "Lord, have mercy" (12 times); "O come, let us worship" (3 times).*  
 *Psalm 5: "Give ear to my words, O Lord"; Psalm 44: "My heart hath poured forth a good word"; Psalm 45: "God is our refuge and strength"; Glory... Both now... Alleluia (3 times).*  
-*The deacon: the Great Litany; and after "Let us pray to the Lord", the priest exclaims; and the singers of one side begin the Troparion, Tone 8: "Bethlehem, make ready...". After this, the other side sings the same Troparion. And again the 1st choir says the verse: "Lord, I have heard Thy report, and was afraid" [LXX Hab. 3:2]; and they sing the Troparion, Tone 3; and now the Prophecy. Immediately the other choir says the verse: "God shall come from Teman" [LXX Hab. 3:3]; they sing the same Troparion, and now the Prophecy. Then the 1st choir with a higher voice...[^316]*
-
-*...Glory, Tone 8: "These things saith Joseph unto the Virgin..."; Both now, the same tone, the same Troparion, both choirs together.*  
+*The deacon: the Great Litany; and after "Let us pray to the Lord", the priest exclaims; and the singers of one side begin the Troparion, Tone 8: "Bethlehem, make ready...". After this, the other side sings the same Troparion. And again the 1st choir says the verse: "Lord, I have heard Thy report, and was afraid" [LXX Hab. 3:2]; and they sing the Troparion, Tone 3; and now the Prophecy. Immediately the other choir says the verse: "God shall come from Teman" [LXX Hab. 3:3]; they sing the same Troparion, and now the Prophecy. Then the 1st choir with a higher voice...[^316] Glory, Tone 8: "These things says Joseph unto the Virgin..."; Both now, the same tone, the same Troparion, both choirs together.*
 *The deacon: the Little Litany: "Again and again..."; and the priest exclaims.*  
 *Then Prokeimenon, Tone 4: "The Lord said unto Me: Thou art My Son"; Verse: "Ask of Me" [LXX Ps. 2:7, 8].*  
-*After this, the Prophecy of Micah: "Thus saith the Lord: And thou, Bethlehem, land of Judah..." [Micah 5:2–4]; and read at Vespers in half.*  
+*After this, the Prophecy of Micah: "Thus says the Lord: And thou, Bethlehem, land of Judah..." [Micah 5:2–4]; and read at Vespers in half.*  
 *The Apostle to the Hebrews: "God, who at sundry times and in divers manners..." [Heb. 1:1–12], and another on the Eve of the Nativity of Christ.*  
 *After this, the deacon: "Wisdom! Upright! Let us hear the Holy Gospel!"; the priest: "From Matthew, the Holy Gospel"; the deacon: "Let us attend!"; the priest reads: "The birth of Jesus Christ..." [Mt. 1:18–25], written at Matins on the Nativity.*  
-*Then the deacon: litany and the powerful litany [petitions]; the priest: exclaim; and we say the Troparion: "He was enrolled..."; then: "Order my steps according to Thy word" [LXX Ps. 118:133]; the Trisagion; after "Our Father", the priest: "For Thine is the kingdom". And the Kontakion is said: "Today the Virgin..."; "Lord, have mercy" (12 times); the priest: "God be gracious unto us..."; and we stand a little, praying silently...[^317]*
-
-*...in ourselves secretly. And again the priest exclaims: "Blessed is our God!"; and we say the Trisagion; and after "Our Father", the priest: "For Thine is the kingdom"; "Lord, have mercy" (12 times); "O come, let us worship" (3 times).*  
+*Then the deacon: litany and the powerful litany [petitions]; the priest: exclaim; and we say the Troparion: "He was enrolled..."; then: "Order my steps according to Thy word" [LXX Ps. 118:133]; the Trisagion; after "Our Father", the priest: "For Thine is the kingdom". And the Kontakion is said: "Today the Virgin..."; "Lord, have mercy" (12 times); the priest: "God be gracious unto us..."; and we stand a little, praying silently...[^317] in ourselves secretly. And again the priest exclaims: "Blessed is our God!"; and we say the Trisagion; and after "Our Father", the priest: "For Thine is the kingdom"; "Lord, have mercy" (12 times); "O come, let us worship" (3 times).*
 *Then the Third Hour: Psalm 66: "God be gracious unto us and bless us"; Psalm 86: "His foundations are in the holy mountains"; Psalm 50: "Have mercy on me, O God"; Alleluia (3 times).*  
 *The deacon: the Great Litany; the priest exclaims. The 1st choir begins the Troparion, Tone 6: "This is our God, and none other shall be compared unto Him..."; and the other choir, the same Troparion. And again the 1st choir says the verse: "Salvation went forth unto all His people"; and they sing that Troparion, both choirs together.*  
-*The deacon: the Little Litany: "Again and again..."; and the priest exclaims. And the Prokeimenon is said, Tone 4: "A Child is born unto us"; Verse: "Whose government is upon His shoulder" [LXX Is. 9:6]. The Prophecy of Jeremiah [Baruch]: read: "This is our God..." [Baruch 3:36–4:4]. The Apostle to the Galatians: 14th Sunday [Gal. 3:23–29]. The Gospel from Luke: "In those days there went out a decree..." [Lk. 2:1–20], written on the Eve of the Nativity of Christ. The deacon: the litany and the powerful...[^318]*
-
-*...other prayers; the priest exclaims; and the Troparion is said: "He was enrolled..."; then: "Blessed be the Lord God, blessed be the Lord day by day" [LXX Ps. 67:20]; the Trisagion; after "Our Father", the priest: "For Thine is the kingdom"; Kontakion: "Today the Virgin..."; "Lord, have mercy" (12 times); then dismissal.*  
+*The deacon: the Little Litany: "Again and again..."; and the priest exclaims. And the Prokeimenon is said, Tone 4: "A Child is born unto us"; Verse: "Whose government is upon His shoulder" [LXX Is. 9:6]. The Prophecy of Jeremiah [Baruch]: read: "This is our God..." [Baruch 3:36–4:4]. The Apostle to the Galatians: 14th Sunday [Gal. 3:23–29]. The Gospel from Luke: "In those days there went out a decree..." [Lk. 2:1–20], written on the Eve of the Nativity of Christ. The deacon: the litany and the powerful...[^318] other prayers; the priest exclaims; and the Troparion is said: "He was enrolled..."; then: "Blessed be the Lord God, blessed be the Lord day by day" [LXX Ps. 67:20]; the Trisagion; after "Our Father", the priest: "For Thine is the kingdom"; Kontakion: "Today the Virgin..."; "Lord, have mercy" (12 times); then dismissal.*
 *At the beginning of the 6th Hour, he strikes the bell 6 times, and we gather into church; the priest and deacon vest; and after this, the two Hours, the 6th and the 9th: the priest having given the blessing: "O Heavenly King", the Trisagion; after "Our Father", the priest: "For Thine is the kingdom"; "Lord, have mercy" (12 times); "O come, let us worship" (3 times).*  
 *The 6th Hour: Psalm 71: "Give the king Thy judgments, O God"; Psalm 131: "Lord, remember David and all his meekness"; Psalm 90: "He that dwells in the help of the Most High"; Glory... Both now... Alleluia (3 times).*  
 *The deacon: the Great Litany; the priest exclaims. And the 1st choir begins the Troparion, Tone 1: "Come, ye faithful, let us behold where Christ is born..."; then the 2nd choir, that Troparion. And immediately the choir says the verse: "The kings of Tharsis and the isles shall offer gifts" [LXX Ps. 71:10]; and they sing the Troparion, Tone 4: "Hear, O heaven, and give ear, O earth..."; then the 2nd choir: the verse: "And all families of the nations shall worship before Him" [LXX Ps. 21:28]; and they sing the same Troparion.[^319]*
@@ -874,128 +710,84 @@ Grace having shone forth from thy mouth like gold, it enlightened the universe, 
 *The Apostle to the Hebrews: 2nd Sunday of Lent [Heb. 1:10–2:3]: "In the beginning Thou, Lord...".*  
 *The Gospel from Matthew: "When Jesus was born..." [Mt. 2:1–12], on the Liturgy and Feast.*  
 *The deacon: the litany, and fulfills the prayers; and the priest exclaims. And we say the Troparion: "She was enrolled..."; then: "Quickly go before...". The Trisagion; after "Our Father", the priest: "For Thine is the kingdom". And we say the Kontakion: "Today the Virgin..."; "Lord, have mercy" (12 times); and the priest: "God be gracious unto us...". And we stand a little, praying in ourselves secretly. The priest: "Blessed is our God!"; and we say: the Trisagion; after "Our Father", the priest: "For Thine is the kingdom"; "Lord, have mercy" (12 times); "O come, let us worship" (3 times).*  
-*The Ninth Hour: Psalm 109...[^320]*
-
-*..."The Lord said unto my Lord" [LXX Ps. 109:1]; Psalm 84: "Lord, Thou hast been favourable unto Thy land" [LXX Ps. 84:2]; Psalm 85: "Bow down Thine ear, O Lord" [LXX Ps. 85:1]; Alleluia (3 times).*  
+*The Ninth Hour: Psalm 109...[^320] "The Lord said unto my Lord" [LXX Ps. 109:1]; Psalm 84: "Lord, Thou hast been favourable unto Thy land" [LXX Ps. 84:2]; Psalm 85: "Bow down Thine ear, O Lord" [LXX Ps. 85:1]; Alleluia (3 times).*
 *The deacon: the Great Litany; and the priest exclaims. And the 1st choir begins, Tone 1: "When Joseph..."; and the second choir, the same Troparion. Then the 1st choir says the verse: "Give the king Thy judgments, O God" [LXX Ps. 71:2]; and they sing the Troparion, Tone 6: "Today He is born..."; and immediately the 2nd choir says the verse: "He shall come down like rain upon the fleece" [LXX Ps. 71:6]; and they sing that Troparion. Then the 1st choir: Glory, Tone 8: "O lawgivers..."; Both now, the same, both choirs together.*  
 *The deacon: the Little Litany: "Again and again..."; the priest exclaims. And there is said: Prokeimenon, Tone 4: "A man shall say: Mother Zion"; Verse: "His foundation" [LXX Ps. 86:5, 1].*  
 *After this, the Prophecy of Isaiah, the 7th Paremia: "A child is born unto us..." [Is. 9:6–7].*  
 *The Apostle to the Hebrews: on the 26th of this month [Heb. 2:11–18]: "Brethren, [both He that sanctifies and they who are sanctified are all of one]...".*  
 *The Gospel from Matthew: "When the wise men were departed..." [Mt. 2:13–23], on the 26th of this month.*  
-*The deacon: the litany, and fulfills...[^321]*
-
-*...the prayers; the priest exclaims; and there is said the Troparion: "She was enrolled...". Then: "Deliver us not up [utterly for Thy holy Name's sake]" [Dan. 3:34]; the Trisagion; after "Our Father", the priest: "For Thine is the kingdom". We say the Kontakion: "Today the Virgin..."; "Lord, have mercy" (12 times).*  
+*The deacon: the litany, and fulfills...[^321] the prayers; the priest exclaims; and there is said the Troparion: "She was enrolled...". Then: "Deliver us not up [utterly for Thy holy Name's sake]" [Dan. 3:34]; the Trisagion; after "Our Father", the priest: "For Thine is the kingdom". We say the Kontakion: "Today the Virgin..."; "Lord, have mercy" (12 times).*
 *Then Psalm 102: "Bless the Lord, O my soul, and all that is within me" [LXX Ps. 102:1]; and the other, Psalm 145: "Praise the Lord, O my soul" [LXX Ps. 145:1]; the Beatitudes simply: "Remember us, O Lord"; "The heavenly choir..."; "Remit, pardon, forgive". Then Kontakion: "Today the Virgin..."; "Lord, have mercy" (40 times); and the complete dismissal.*  
 *At about the 9th or 10th hour, he strikes the semantron for the Great [Service], and we gather into church. The priest vests in all his vestments, and begins Vespers: the priest having blessed, we say: "O Heavenly King"; the Trisagion; after "Our Father", the priest: "For Thine is the kingdom"; "Lord, have mercy" (12 times); "O come, let us worship" (3 times); Psalm 103: "Bless the Lord, O my soul" [LXX Ps. 103:1]; Glory... Both now... Alleluia (3 times).*  
-*The deacon: the Great Litany; the priest exclaims. We chant the stichologia: "Lord, I have cried", in Tone 2. And the priest performs the Proskomedia; the deacon censes. And we sing 8 stichera, idiomela:...[^322]*
-
-*...Tone 2, twice: "Come, let us rejoice in the Lord..."; "When the Lord Jesus was born..."; "Thy kingdom..."; "What shall we offer Thee...". Glory... Both now..., Tone 2: "When Augustus reigned...".*  
+*The deacon: the Great Litany; the priest exclaims. We chant the stichologia: "Lord, I have cried", in Tone 2. And the priest performs the Proskomedia; the deacon censes. And we sing 8 stichera, idiomela:...[^322] Tone 2, twice: "Come, let us rejoice in the Lord..."; "When the Lord Jesus was born..."; "Thy kingdom..."; "What shall we offer Thee...". Glory... Both now..., Tone 2: "When Augustus reigned...".*
 *Entrance with the Gospel. Prokeimenon of the day. The readings of the feast in their order, and the troparia. And upon concluding the readings: the deacon: the Little Litany: "Again and again..."; "Help us..."; the priest: the prayer of the Trisagion; exclamation: "For holy art Thou...". And they sing: "Holy God".*  
 *Prokeimenon, Tone 1: "The Lord said unto Me: Thou art My Son"; Verse: "Ask of Me" [LXX Ps. 2:7, 8].*  
 *The Apostle to the Hebrews: 1st Saturday of Lent [Heb. 1:1–12].*  
 *Alleluia, Tone 5: "The Lord said unto my Lord" [LXX Ps. 109:1]; Verse: "The Lord shall send Thee the rod of power" [LXX Ps. 109:2]; [Verse:] "From the womb before the morning star have I begotten Thee" [LXX Ps. 109:3].*  
 *The Gospel from Luke: "In those days there went out a decree..." [Lk. 2:1–20].*  
 *The rest: the Divine Liturgy of the Great Basil. Communion verse: "Praise the Lord" [LXX Ps. 148:1].*  
-*It is fitting to know: If the Eve of the Nativity of Christ falls on a Saturday or on a Sunday:...[^323]*
-
-*...the troparia of the fast are not sung, but the troparia are sung which occur on feasts: on Saturday or on Sunday the Liturgy of Chrysostom is celebrated according to custom. And after the dismissal of the Liturgy, they eat bread in church, and drink a cup of wine; and the Liturgy of the Great Basil is celebrated on the feast day. In like manner we do also on the day of the Holy Theophany.*  
-*At the 10th hour of the day, he strikes the semantron; we sing Vespers according to the previously written order. If the Eve is on Saturday: "Blessed is the man" [Kathisma 1]. After the paremias: on Saturday and Sunday before the Apostle: "Holy God" is not sung, but after the paremias there is the Little Litany; the priest exclaims; and there is said: Prokeimenon, Tone 4: "The Lord said unto Me: Thou art My Son"; Verse: "Ask of Me" [LXX Ps. 2:7, 8]. And there is read: the Apostle to the Galatians: Wednesday of the 1st week [Gal. 3:23–29], "Brethren, before faith came...". Alleluia: "The Lord said unto my Lord"; "The rod of power"; and "From the womb before...". Gospel from Luke: "There went out a decree..." [Lk. 2:1–20]. Then litany...[^324]*
-
-*...and fulfills the prayers; and there is the complete dismissal. And after the dismissal we sing the troparion and kontakion of the feast; and we enter into the refectory, and eat with oil, and drink two cups of wine.*  
+*It is fitting to know: If the Eve of the Nativity of Christ falls on a Saturday or on a Sunday:...[^323] the troparia of the fast are not sung, but the troparia are sung which occur on feasts: on Saturday or on Sunday the Liturgy of Chrysostom is celebrated according to custom. And after the dismissal of the Liturgy, they eat bread in church, and drink a cup of wine; and the Liturgy of the Great Basil is celebrated on the feast day. In like manner we do also on the day of the Holy Theophany.*
+*At the 10th hour of the day, he strikes the semantron; we sing Vespers according to the previously written order. If the Eve is on Saturday: "Blessed is the man" [Kathisma 1]. After the paremias: on Saturday and Sunday before the Apostle: "Holy God" is not sung, but after the paremias there is the Little Litany; the priest exclaims; and there is said: Prokeimenon, Tone 4: "The Lord said unto Me: Thou art My Son"; Verse: "Ask of Me" [LXX Ps. 2:7, 8]. And there is read: the Apostle to the Galatians: Wednesday of the 1st week [Gal. 3:23–29], "Brethren, before faith came...". Alleluia: "The Lord said unto my Lord"; "The rod of power"; and "From the womb before...". Gospel from Luke: "There went out a decree..." [Lk. 2:1–20]. Then litany...[^324] and fulfills the prayers; and there is the complete dismissal. And after the dismissal we sing the troparion and kontakion of the feast; and we enter into the refectory, and eat with oil, and drink two cups of wine.*
 *It is fitting to know this also: If the Nativity of Christ falls on Sunday: nothing of the Resurrection is sung, neither troparia nor canons, but only 3 kathismata; and not the Blameless [Psalm 118], and not the Gradual Hymns of the Tone, and not the Resurrection Gospel, and not "Having seen the Resurrection of Christ", but only they kiss the Gospel; and not "Holy is the Lord", but everything of the feast.*  
-*At the first hour of the night, they strike the great [semantron], and we gather into church. The priest having blessed, we sing Great Compline. After "Glory to God in the highest", we perform the customary procession [Litiya], singing the idiomela of the feast, Tone 1; Glory, Tone 5: "The Persian magi..."; Both now, Tone 6: "The angels dance"; then the priest: the customary prayers. Entering into church, we sing idiomela:...[^325]*
-
-*...Tone 2: "A great and glorious [wonder]..."; and the verses we say: "The Lord said unto my Lord" [LXX Ps. 109:1], and "From the womb before the morning star" [LXX Ps. 109:3]. These same verses we say until the Apodosis of the feast. Glory, Tone 4: "Rejoice, O Jerusalem..."; Both now: "The cave, make ready...". Blessing of the loaves. The Troparion of the feast is sung 3 times, Tone 4:*  
+*At the first hour of the night, they strike the great [semantron], and we gather into church. The priest having blessed, we sing Great Compline. After "Glory to God in the highest", we perform the customary procession [Litiya], singing the idiomela of the feast, Tone 1; Glory, Tone 5: "The Persian magi..."; Both now, Tone 6: "The angels dance"; then the priest: the customary prayers. Entering into church, we sing idiomela:...[^325] Tone 2: "A great and glorious [wonder]..."; and the verses we say: "The Lord said unto my Lord" [LXX Ps. 109:1], and "From the womb before the morning star" [LXX Ps. 109:3]. These same verses we say until the Apodosis of the feast. Glory, Tone 4: "Rejoice, O Jerusalem..."; Both now: "The cave, make ready...". Blessing of the loaves. The Troparion of the feast is sung 3 times, Tone 4:*
 *Troparion:*  
 *Thy Nativity, O Christ our God, hath shined upon the world the light of wisdom; for therein they that served the stars were taught by a star to worship Thee, the Sun of Righteousness, and to know Thee, the Orient from on high: O Lord, glory to Thee!*  
 *Reading from Matthew, Homily 4 or 5.*  
-*At Matins: "God is the Lord"; Troparion of the feast 3 times; and the stichologia of Kathismata 20 and 21, and the Polyeleos; sessional hymns of the feast; Gradual Hymn of Tone 4. Prokeimenon: "From the womb before the morning star"; Verse: "The Lord said unto my Lord" [LXX Ps. 109:3, 1]. "Let every breath [praise the Lord]". Gospel from Matthew: "The birth of Jesus Christ..." [Mt. 1:18–25]. Psalm 50. Sticheron of the feast. Two canons: that of Master Cosmas, and that of John, Tone 1; both canons: heirmoi twice, and troparia 4 times, the choirs...[^326]*
-
-*...and the heirmoi once, both choirs together. After Ode 3, Hypakoe, Tone 8:*  
+*At Matins: "God is the Lord"; Troparion of the feast 3 times; and the stichologia of Kathismata 20 and 21, and the Polyeleos; sessional hymns of the feast; Gradual Hymn of Tone 4. Prokeimenon: "From the womb before the morning star"; Verse: "The Lord said unto my Lord" [LXX Ps. 109:3, 1]. "Let every breath [praise the Lord]". Gospel from Matthew: "The birth of Jesus Christ..." [Mt. 1:18–25]. Psalm 50. Sticheron of the feast. Two canons: that of Master Cosmas, and that of John, Tone 1; both canons: heirmoi twice, and troparia 4 times, the choirs...[^326] and the heirmoi once, both choirs together. After Ode 3, Hypakoe, Tone 8:*
 *Hypakoe:*  
 *The firstfruits of the Gentiles heaven brought unto Thee, lying an infant in the manger, calling the Magi by a star; whom neither sceptres nor thrones terrified, but the lowest poverty: for what is poorer than a cave, and what is humbler than swaddling clothes, in which shined forth the divine riches of Thy Divinity? O Lord, glory to Thee!*  
 *And reading in the Theologian: "Christ is born...". After Ode 6, Kontakion, Tone 3:*  
 *Kontakion:*  
 *The Virgin today gives birth to the Transcendent in essence, and the earth offers a cave unto the Unapproachable; angels with shepherds give glory, and magi with a star travel on their way: for our sake there is born a young Child, the Pre-eternal God!*  
-*And reading of the Great Basil: On the Nativity of Christ. At Ode 9: candles are given unto the brethren. We do not chant "More honorable". Exapostilarion: "He hath visited us...". At the Praises: of the feast, 4 idiomela:...[^327]*
-
-*...Tone 4: "Rejoice, ye righteous..."; and the other 3; after that, once each. Glory, Tone 6: "When the time..."; Both now, Tone 2: "Today Christ...". Great Doxology. After the Trisagion, troparion of the feast; litany; dismissal; and holy oil is given unto the brethren by the hegumen, while we sing the idiomela of the feast, beginning with the 1st.*  
+*And reading of the Great Basil: On the Nativity of Christ. At Ode 9: candles are given unto the brethren. We do not chant "More honorable". Exapostilarion: "He hath visited us...". At the Praises: of the feast, 4 idiomela:...[^327] Tone 4: "Rejoice, ye righteous..."; and the other 3; after that, once each. Glory, Tone 6: "When the time..."; Both now, Tone 2: "Today Christ...". Great Doxology. After the Trisagion, troparion of the feast; litany; dismissal; and holy oil is given unto the brethren by the hegumen, while we sing the idiomela of the feast, beginning with the 1st.*
 *On the 25th day: The Nativity according to the flesh of our God, Jesus Christ. The Liturgy is celebrated early, on account of the labor of the all-night vigil. And they sing the Antiphons. Antiphon 1, Tone 2:*  
-*"I will give thanks unto Thee, O Lord, with my whole heart" [LXX Ps. 110:1]; By the prayers of the Theotokos, O Savior, save us. Then the 2nd choir, verse: "I will give thanks unto Thee, O Lord, with my whole heart, in the counsel of the upright and in the congregation: Great are the works of the Lord" [LXX Ps. 110:1, 2]; By the prayers of the Theotokos. Choir 1, verse: "Sought out in all the things that He hath willed" [LXX Ps. 110:2]; By the prayers of the Theotokos. Glory: By the prayers of the Theotokos; Both now: By the prayers of the Theotokos. Antiphon 2, Psalm 111: "Blessed is the man that fears the Lord" [LXX Ps. 111:1]; Save us, O Son of God, who wast born of the Virgin, who sing unto Thee: Alleluia, alleluia, alleluia!...[^328]*
-
-*...Choir 2: "Blessed is the man that fears the Lord, in His commandments he shall delight greatly" [LXX Ps. 111:1]; Save us, O Son of God... Choir 1, verse: "Mighty upon earth shall be his seed, the generation of the upright shall be blessed" [LXX Ps. 111:2]; Save us, O Son of God, who wast born... Choir 2: "Glory and riches shall be in his house, and his righteousness abides unto ages of ages" [LXX Ps. 111:3]; Save us, O Son of God... Choir 1, verse: "Unto the upright there hath shined forth light in darkness" [LXX Ps. 111:4]; Save us, O Son of God... Glory: Save us, O Son of God...; Both now: "Only-begotten Son...".*  
+*"I will give thanks unto Thee, O Lord, with my whole heart" [LXX Ps. 110:1]; By the prayers of the Theotokos, O Savior, save us. Then the 2nd choir, verse: "I will give thanks unto Thee, O Lord, with my whole heart, in the counsel of the upright and in the congregation: Great are the works of the Lord" [LXX Ps. 110:1, 2]; By the prayers of the Theotokos. Choir 1, verse: "Sought out in all the things that He hath willed" [LXX Ps. 110:2]; By the prayers of the Theotokos. Glory: By the prayers of the Theotokos; Both now: By the prayers of the Theotokos. Antiphon 2, Psalm 111: "Blessed is the man that fears the Lord" [LXX Ps. 111:1]; Save us, O Son of God, who wast born of the Virgin, who sing unto Thee: Alleluia, alleluia, alleluia!...[^328] Choir 2: "Blessed is the man that fears the Lord, in His commandments he shall delight greatly" [LXX Ps. 111:1]; Save us, O Son of God... Choir 1, verse: "Mighty upon earth shall be his seed, the generation of the upright shall be blessed" [LXX Ps. 111:2]; Save us, O Son of God, who wast born... Choir 2: "Glory and riches shall be in his house, and his righteousness abides unto ages of ages" [LXX Ps. 111:3]; Save us, O Son of God... Choir 1, verse: "Unto the upright there hath shined forth light in darkness" [LXX Ps. 111:4]; Save us, O Son of God... Glory: Save us, O Son of God...; Both now: "Only-begotten Son...".*
 *Antiphon 3, Psalm 109: "The Lord said unto my Lord: Sit Thou at My right hand" [LXX Ps. 109:1]; Troparion: "Thy Nativity...". Choir 2: "The Lord said unto my Lord: Sit Thou at My right hand, until I make Thine enemies the footstool of Thy feet" [LXX Ps. 109:1]; "Thy Nativity...". Choir 1: "With Thee is the principality in the day of Thy power, in the splendors of Thy saints" [LXX Ps. 109:3]; "Thy Nativity...". Entrance: "From the womb before the morning star have I begotten Thee. The Lord hath sworn and will not repent: Thou art a Priest unto ages after the order of Melchizedek" [LXX Ps. 109:3, 4]; Troparion: "Thy Nativity...".[^329]*
 
 *Glory, Both now; Kontakion: "The Virgin today..." [gives birth to the Transcendent in essence]. In place of the Trisagion: "As many as have been baptized into Christ have put on Christ, Alleluia" [Gal. 3:27]. Prokeimenon, Tone 8: "Let all the earth worship Thee, and sing unto Thee" [LXX Ps. 65:4]; Verse: "Sing unto the Lord a new song" [LXX Ps. 95:1]. Apostle to the Galatians: "Brethren, when the fulness of time was come..." [Gal. 4:4–7]. Alleluia, Tone 1: "The heavens shall confess Thy wonders, O Lord" [LXX Ps. 88:6]; Verse: "Day unto day pours forth speech" [LXX Ps. 18:3]. Gospel from Matthew: "When Jesus was born in Bethlehem of Judea..." [Mt. 2:1–12]. Communion verse: "The Lord hath sent redemption unto His people" [LXX Ps. 110:9]. And entering into the refectory, there is consolation for the brethren on this day.*  
-*On the same day, at Vespers: there is no stichologia; we sing "Lord, I have cried", Tone 2, and we sing 6 verses: Stichera of the feast, Tone 2: "Come, let us rejoice in the Lord...", and the other 3; after that, 2 twice, and 2 once each. Glory, Both now, Tone 6: "Glory to God in the highest...". Entrance. Prokeimenon, Tone 7: "Who is a great God as our God? Thou art the God that doest wonders" [LXX Ps. 76:14]; Verse: "Thou hast made known Thy power among the peoples" [LXX Ps. 76:15]; Verse: "I said: Now have I begun" [LXX Ps. 76:11]; Verse: "I remembered the works of the Lord" [LXX Ps. 76:12]. If it be Saturday: "The Lord reigns" [LXX Ps. 92:1]. At the Apos-...[^330]*
-
-*...ticha: Idiomelon stichera, Tone 8: "A glorious [wonder]...". And we say verses: "The Lord said unto my Lord: Sit Thou at My right hand, until I make Thine enemies the footstool of Thy feet" [LXX Ps. 109:1]; Second verse: "From the womb before the morning star" [LXX Ps. 109:3]. Glory, Both now, Tone 1: "When the Magi had come together in Bethlehem...". Troparion of the feast: "Thy Nativity...".*  
-*On the 26th day: The Synaxis of the Holy Theotokos; and of the holy Joseph the Betrothed; and of the holy hieromartyr Euthymius. His service is sung at Compline and at Matins. Troparion of the feast, 3 times. Two Kathismata; Sessional hymns of the feast. Two canons of the feast: they sing the first to 6, the heirmoi twice; the other with the heirmos to 6; Katavasia: "Christ is born...". And we do not say the [Biblical] Odes, even until the Apodosis of the feast of the Holy Theophany. After Ode 3, Kontakion of the feast. After Ode 6, Kontakion, Tone 6, Idiomelon:...[^331]*
-
-*Kontakion:*  
+*On the same day, at Vespers: there is no stichologia; we sing "Lord, I have cried", Tone 2, and we sing 6 verses: Stichera of the feast, Tone 2: "Come, let us rejoice in the Lord...", and the other 3; after that, 2 twice, and 2 once each. Glory, Both now, Tone 6: "Glory to God in the highest...". Entrance. Prokeimenon, Tone 7: "Who is a great God as our God? Thou art the God that doest wonders" [LXX Ps. 76:14]; Verse: "Thou hast made known Thy power among the peoples" [LXX Ps. 76:15]; Verse: "I said: Now have I begun" [LXX Ps. 76:11]; Verse: "I remembered the works of the Lord" [LXX Ps. 76:12]. If it be Saturday: "The Lord reigns" [LXX Ps. 92:1]. At the Apos-...[^330] ticha: Idiomelon stichera, Tone 8: "A glorious [wonder]...". And we say verses: "The Lord said unto my Lord: Sit Thou at My right hand, until I make Thine enemies the footstool of Thy feet" [LXX Ps. 109:1]; Second verse: "From the womb before the morning star" [LXX Ps. 109:3]. Glory, Both now, Tone 1: "When the Magi had come together in Bethlehem...". Troparion of the feast: "Thy Nativity...".*
+*On the 26th day: The Synaxis of the Holy Theotokos; and of the holy Joseph the Betrothed; and of the holy hieromartyr Euthymius. His service is sung at Compline and at Matins. Troparion of the feast, 3 times. Two Kathismata; Sessional hymns of the feast. Two canons of the feast: they sing the first to 6, the heirmoi twice; the other with the heirmos to 6; Katavasia: "Christ is born...". And we do not say the [Biblical] Odes, even until the Apodosis of the feast of the Holy Theophany. After Ode 3, Kontakion of the feast. After Ode 6, Kontakion, Tone 6, Idiomelon:...[^331] Kontakion:*
 *He who was born of the Father without mother before the morning star, became incarnate upon earth without father today from thee; therefore a star announces good tidings to the Magi, and angels with shepherds sing of Thy seedless childbearing, O Full of Grace!*  
 *After Ode 9: we do not sing the stichologia of "More honorable"; Exapostilarion of the feast. At the Praises: of the feast, Tone 4, on 4: "Rejoice, ye righteous...", and the other 3. Glory, Tone 6: "Today the Invisible..."; Both now, Tone 2: "Today Christ...". Great Doxology; troparion of the feast; litany; dismissal.*  
 *At the Liturgy: The Beatitudes of the feast, Odes 3 and 6. Kontakion: "He who was born before the morning star...". Prokeimenon, the Song of the Theotokos: "My soul doth magnify the Lord" [Lk. 1:46]; Verse: "For He hath regarded the lowliness of His handmaiden" [Lk. 1:48]. Apostle: "Brethren, both He that sanctifies and they who are sanctified are all of one..." [Heb. 2:11–18]. Alleluia, Tone 8: "Arise, O Lord, into Thy rest" [LXX Ps. 131:8]. Gospel from Matthew: "When the wise men were departed..." [Mt. 2:13–23]. Communion verse: "The Lord hath sent redemption unto His people" [LXX Ps. 110:9].*  
-*Saturday after the Nativity of Christ: At the Liturgy: Prokeimenon, Tone 4: "I will remember Thy name in every generation" [LXX Ps. 44:18]; Verse: "Give ear, O daughter, and see, and incline thine ear" [LXX Ps. 44:11]. Apostle: Lection 32 [1 Tim. 6:11–16]. Alleluia, Tone 8: "Remember, O Lord, David, and all his meekness" [LXX Ps. 131:1]...[^332]*
-
-*...Gospel from Matthew: "At that time, two blind men followed Jesus..." [Mt. 9:27–35]. Communion verse: "The cup of salvation will I receive" [LXX Ps. 115:4].*  
+*Saturday after the Nativity of Christ: At the Liturgy: Prokeimenon, Tone 4: "I will remember Thy name in every generation" [LXX Ps. 44:18]; Verse: "Give ear, O daughter, and see, and incline thine ear" [LXX Ps. 44:11]. Apostle: Lection 32 [1 Tim. 6:11–16]. Alleluia, Tone 8: "Remember, O Lord, David, and all his meekness" [LXX Ps. 131:1]...[^332] Gospel from Matthew: "At that time, two blind men followed Jesus..." [Mt. 9:27–35]. Communion verse: "The cup of salvation will I receive" [LXX Ps. 115:4].*
 *Sunday after the Nativity of Christ: Memory of the holy and righteous: Joseph the Betrothed, and David the King, and James the Brother of the Lord.*  
 *On Saturday, at Little Vespers: from the Octoechos, Resurrection and Theotokion according to custom; but the service of the saints which is in the [Menaion] is sung when the superior of the church desires it. At Great Vespers: "Blessed is the man" [Kathisma 1]. On "Lord, I have cried", we sing 3 Resurrection stichera; and of the feast, 4, Tone 2: "Come, let us rejoice..."; and of the saints, 3, Tone 1, Podoben: "Thou who bearest flesh..."; Glory, Tone 6: "Rejoicing, we celebrate [the memory]..."; Both now, Theotokion of the current tone. Entrance according to custom. At the Aposticha: Resurrection sticheron, and the Alphabetical stichera; Glory, Tone 6: "Jerusalem, rejoice..."; Both now, of the feast. Blessing of the loaves; Troparion, Tone 2: "Rejoice, O Virgin Theotokos..." twice, and of the saints once:*  
 *Troparion:*  
-*Proclaim the marvelous wonders unto David the ancestor of God, O Joseph: thou hast seen a Virgin giving birth; with the shepherds thou hast given glory; with the Magi...[^333]*
-
-*...thou hast worshipped; having received word from an angel: pray unto Christ God that He may save our souls!*  
+*Proclaim the marvelous wonders unto David the ancestor of God, O Joseph: thou hast seen a Virgin giving birth; with the shepherds thou hast given glory; with the Magi...[^333] thou hast worshipped; having received word from an angel: pray unto Christ God that He may save our souls!*
 *And reading in the Epistles. At Matins: Resurrection [troparion] twice; Glory, of the saints; Both now, of the feast. After the Kathismata: Sessional hymns of the Resurrection with their Theotokia; "Blessed are the blameless" [LXX Ps. 118] with their troparia; Hypakoe of the Tone; and the Polyeleos; Sessional hymn of the feast; Gradual hymns of the Tone. Prokeimenon of the Tone; "Let every breath praise the Lord"; Resurrection Gospel; "Having seen the Resurrection of Christ"; Psalm 50; Resurrection Sticheron. Canons: of the Resurrection to 4, and of the Theotokos to 2, and of the Righteous to 4. After Ode 3, Kontakion, Tone 1:*  
 *Kontakion:*  
 *The prophetic choir celebrates divinely the marvel wrought unto thee, O Virgin; for thou hast given birth upon earth unto God incarnate; therefore angels with shepherds sing, and magi with faith, together with Joseph, cry aloud the wonders of David!*  
-*After Ode 6: Kontakion of the feast. After Ode 9: two Exapostilaria. At the Praises: 4 Resurrection stichera; and of the feast, Tone 4: "Rejoice, ye righteous..."; Glory, Tone 8:...[^334]*
-
-*..."Blood and fire..." [Joel 2:30 / Acts 2:19]; Both now: "Most blessed art thou, O Virgin Theotokos...". Great Doxology; Troparion of the Resurrection only; litany; dismissal; Glory, Both now: Gospel Sticheron 1. At the First Hour.*  
+*After Ode 6: Kontakion of the feast. After Ode 9: two Exapostilaria. At the Praises: 4 Resurrection stichera; and of the feast, Tone 4: "Rejoice, ye righteous..."; Glory, Tone 8:...[^334] "Blood and fire..." [Joel 2:30 / Acts 2:19]; Both now: "Most blessed art thou, O Virgin Theotokos...". Great Doxology; Troparion of the Resurrection only; litany; dismissal; Glory, Both now: Gospel Sticheron 1. At the First Hour.*
 *At the Liturgy: The Beatitudes to 6, and of the saints, Ode 6 to 4. Prokeimenon: "God is marvelous in His saints" [LXX Ps. 67:36]; Verse: "In the congregations bless ye God" [LXX Ps. 67:27]. Apostle: 20th Sunday [Gal. 1:11–19]. Alleluia: "Remember, O Lord, David, and all his meekness" [LXX Ps. 131:1]. Gospel from Matthew: "When the wise men were departed..." [Mt. 2:13–23]. Communion verse: "Praise the Lord from the heavens" [LXX Ps. 148:1].*  
 *Be it known: If it happen that the Nativity of Christ fall on a Sunday, we do not celebrate the memory of the holy and righteous Joseph and David on the coming Sunday, on account of the occurrence of the feast of Saint Basil and the Apodosis of the feast of the Nativity of Christ; rather, we celebrate their memory on the 26th day.*  
-*Be it known: If there be two Sundays between the Nativity of Christ and Theophany: there is read on the first Sunday the Gospel from Matthew: "When the wise men were departed..."; and on the other Sunday [at the Liturgy], from Mark, Lection 1: "The beginning of the Gospel of Jesus Christ..." [Mk. 1:1–8]. If there happen to be one...[^335]*
-
-*...[Sunday and one] Saturday after the Nativity, which is also before Theophany.*  
+*Be it known: If there be two Sundays between the Nativity of Christ and Theophany: there is read on the first Sunday the Gospel from Matthew: "When the wise men were departed..."; and on the other Sunday [at the Liturgy], from Mark, Lection 1: "The beginning of the Gospel of Jesus Christ..." [Mk. 1:1–8]. If there happen to be one...[^335] [Sunday and one] Saturday after the Nativity, which is also before Theophany.*
 *On the 27th day: Of the holy Protomartyr, and Apostle, and Archdeacon Stephen; and of our venerable father and confessor Theophanes the Branded [Graptos].*  
 *At Vespers: Stichera... 3 of the venerable father; Glory, Tone 2: "Unto the King and Master..."; Both now, of the feast. At the Aposticha: all of the feast. Troparion of the Apostle: "A crown of martyrdom..." [or "Contending a good contest..."]; Glory, to the venerable father: "Guide of Orthodoxy..." [Tone 8, Oct. 11]; Both now, of the feast.*  
 *At Matins: [Troparia] of the feast, and of the Apostle; Glory, to the venerable father; Both now, of the feast. Sessional hymns of the feast. Canons: of the feast to 6; and of the Apostle to 4; of the venerable father to 4. After Ode 3, Kontakion of the Apostle, Tone 3:*  
 *Kontakion:*  
 *Yesterday the Master was revealed unto us in the flesh, and today the servant departs from the flesh; yesterday He that reigns was born in the flesh, today the servant is stoned with stones; for His sake dies the divine first-martyr, Stephen!*  
-*Then Sessional hymn of the Apostle; Glory, of the venerable father; Both now, of the feast. After Ode 6: Kontakion of the feast. At the Praises: Idiomelon stichera of the Apostle, Tone 2...[^336]*
-
-*...and Tone 4; Glory, Tone 5: "The first-martyr and apostle..."; Both now, of the feast, of the same Tone. At the Aposticha: of the feast; Glory, of the saint, Tone 8: "Let us rejoice in the Lord..."; Both now, of the feast. At the Liturgy: of the feast. Prokeimenon: "Into all the earth is their sound gone forth" [LXX Ps. 18:5]; Verse: "The heavens declare the glory of God" [LXX Ps. 18:2]. Apostle from the Acts [Acts 6:8–7:5, 47–60]. Alleluia: "The heavens shall confess Thy wonders, O Lord" [LXX Ps. 88:6]. Gospel from Matthew: "There was a certain householder..." [Mt. 21:33–42]. Communion verse: "Into all the earth..." [LXX Ps. 18:5].*  
+*Then Sessional hymn of the Apostle; Glory, of the venerable father; Both now, of the feast. After Ode 6: Kontakion of the feast. At the Praises: Idiomelon stichera of the Apostle, Tone 2...[^336] and Tone 4; Glory, Tone 5: "The first-martyr and apostle..."; Both now, of the feast, of the same Tone. At the Aposticha: of the feast; Glory, of the saint, Tone 8: "Let us rejoice in the Lord..."; Both now, of the feast. At the Liturgy: of the feast. Prokeimenon: "Into all the earth is their sound gone forth" [LXX Ps. 18:5]; Verse: "The heavens declare the glory of God" [LXX Ps. 18:2]. Apostle from the Acts [Acts 6:8–7:5, 47–60]. Alleluia: "The heavens shall confess Thy wonders, O Lord" [LXX Ps. 88:6]. Gospel from Matthew: "There was a certain householder..." [Mt. 21:33–42]. Communion verse: "Into all the earth..." [LXX Ps. 18:5].*
 *On the 28th day: Of the holy twenty thousand martyrs who were burned in Nicomedia. Celebrated together with the feast and the saints. Troparion: "Passion-bearers of the Lord..."; Kontakion, Tone 2; Glory, Both now, of the feast.*  
 *On the 29th day: Of the holy fourteen thousand Infants slain for Christ's sake in Bethlehem by Herod; and of our venerable father Marcellus, archimandrite of the Monastery of the Unsleeping Ones.*  
-*Stichera of the saints to 6; Glory, of the saints, Tone 8: "When Jesus was born in Bethlehem..."; Both now, of the feast. At the Aposticha: of the feast; Glory, Tone 8: "O lawless Herod..."; Both now, of the feast. Troparion...[^337]*
-
-*...of the holy martyrs: "Passion-bearers of the Lord...", October 24; Glory, of the venerable father: "In thee, O father, was preserved that which is according to the image...", October 1; Both now, of the feast.*  
+*Stichera of the saints to 6; Glory, of the saints, Tone 8: "When Jesus was born in Bethlehem..."; Both now, of the feast. At the Aposticha: of the feast; Glory, Tone 8: "O lawless Herod..."; Both now, of the feast. Troparion...[^337] of the holy martyrs: "Passion-bearers of the Lord...", October 24; Glory, of the venerable father: "In thee, O father, was preserved that which is according to the image...", October 1; Both now, of the feast.*
 *At Matins: Troparion of the feast, and of the saints; Glory, of the saint; Both now, of the feast. Sessional hymns of the feast. Canons: of the feast to 6; of the saints to 4; and of the saint to 4. After Ode 3, Kontakion of the saint, Tone 8, Podoben: "To the chosen..." (Въ избраннои):*  
 *Kontakion:*  
 *As a radiant star shining from Edessa unto us, O blessed one, thou hast attained, and with virtues hast thundered forth, a guide unto monks and many, O venerable one; and therefore thou hast enlightened the reigning imperial city; therefore we cry unto thee: Rejoice, O all-blessed father!*  
 *Then Kontakion of the holy Innocents, Tone 6:*  
 *Kontakion:*  
 *When the King was born in Bethlehem, the magi from Persia arrived with gifts, guided by a star from on high; but Herod is troubled and mows down the infants like wheat, lamenting to himself that his dominion hath quickly been destroyed!*  
-*Then Sessional hymns of the saints; Glory, of the saint; Both now, of the feast...[^338]*
-
-*...After Ode 6: Kontakion of the feast. At the Praises: Idiomelon stichera of the saints, Tone 1, twice; and another, Tone 2; and of the saint; Glory, Tone 6: "O venerable father..."; Both now, of the feast. At the Divine Liturgy: From the Canons: of the feast, Ode 3; and of the Innocents, Ode 6. Prokeimenon: "Praise, O ye servants, the Lord" [LXX Ps. 112:1]. Apostle: "Brethren, both He that sanctifies and they who are sanctified are all of one..." [Heb. 2:11–18], of the 26th day. Alleluia: "Their blood have they shed like water" [LXX Ps. 78:3]. Gospel in order: "When the wise men were departed..." [Mt. 2:13–23]. Communion verse: "Rejoice in the Lord, O ye righteous" [LXX Ps. 32:1].*  
+*Then Sessional hymns of the saints; Glory, of the saint; Both now, of the feast...[^338] After Ode 6: Kontakion of the feast. At the Praises: Idiomelon stichera of the saints, Tone 1, twice; and another, Tone 2; and of the saint; Glory, Tone 6: "O venerable father..."; Both now, of the feast. At the Divine Liturgy: From the Canons: of the feast, Ode 3; and of the Innocents, Ode 6. Prokeimenon: "Praise, O ye servants, the Lord" [LXX Ps. 112:1]. Apostle: "Brethren, both He that sanctifies and they who are sanctified are all of one..." [Heb. 2:11–18], of the 26th day. Alleluia: "Their blood have they shed like water" [LXX Ps. 78:3]. Gospel in order: "When the wise men were departed..." [Mt. 2:13–23]. Communion verse: "Rejoice in the Lord, O ye righteous" [LXX Ps. 32:1].*
 *On the 30th day: Of the holy martyr Anysia; and of the venerable Zoticus the priest, protector of the poor and feeder of lepers. The service of the holy Melania is sung together with this Anysia, on account of the Apodosis of the feast of the Nativity of Christ, which is on the 31st day. Troparion and Kontakion of the feast.*  
-*On the 31st day: Of the holy martyr Melania the Roman. On this day we make the Apodosis of the feast of the Nativity of Christ. At Vespers: Stichera of the feast, four, Tone 2:...[^339]*
-
-*"Come, let us rejoice in the Lord...", on 6. Glory, Both now: "When Augustus reigned alone upon earth...". At the Aposticha: of the feast, with its own verses. Glory, Both now: "Rejoice, O Jerusalem!". Troparion of the feast. At Matins: Troparion of the feast, 3 times; Sessional hymns of the feast. Canons: two of the feast: the first, that is, to 8; and the second, that is, to 6; Katavasia: "Christ is born...", both choirs together. After Ode 3, Sessional hymn of the feast. After Ode 6, Kontakion of the feast and Ikos. At Ode 9: we do not sing "More honorable"; Exapostilarion of the feast, twice. At the Praises: Idiomela, Tone 4: "Rejoice, ye righteous...", on 4. Glory, Both now, Tone 6: "When the time...". Great Doxology; Troparion of the feast; litany; dismissal; customary departure; and the First Hour.*  
-*At the Divine Liturgy: of the feast: from both canons, both Odes 9, that is, on 8. Troparion of the feast; Glory, Both now, Kontakion of the feast. Prokeimenon: "Let all the earth worship Thee, and sing unto Thee" [LXX Ps. 65:4]; Verse: "Sing unto the Lord a new song" [LXX Ps. 95:1]. Epistle of that day. Alleluia: "The heavens shall confess Thy wonders, O Lord" [LXX Ps. 88:6]; Verse: "Day unto day pours forth speech" [LXX Ps. 18:3]. Gospel of that day. Communion verse of the feast...[^340]*
-
-*Kontakion:*  
+*On the 31st day: Of the holy martyr Melania the Roman. On this day we make the Apodosis of the feast of the Nativity of Christ. At Vespers: Stichera of the feast, four, Tone 2:...[^339] "Come, let us rejoice in the Lord...", on 6. Glory, Both now: "When Augustus reigned alone upon earth...". At the Aposticha: of the feast, with its own verses. Glory, Both now: "Rejoice, O Jerusalem!". Troparion of the feast. At Matins: Troparion of the feast, 3 times; Sessional hymns of the feast. Canons: two of the feast: the first, that is, to 8; and the second, that is, to 6; Katavasia: "Christ is born...", both choirs together. After Ode 3, Sessional hymn of the feast. After Ode 6, Kontakion of the feast and Ikos. At Ode 9: we do not sing "More honorable"; Exapostilarion of the feast, twice. At the Praises: Idiomela, Tone 4: "Rejoice, ye righteous...", on 4. Glory, Both now, Tone 6: "When the time...". Great Doxology; Troparion of the feast; litany; dismissal; customary departure; and the First Hour.*
+*At the Divine Liturgy: of the feast: from both canons, both Odes 9, that is, on 8. Troparion of the feast; Glory, Both now, Kontakion of the feast. Prokeimenon: "Let all the earth worship Thee, and sing unto Thee" [LXX Ps. 65:4]; Verse: "Sing unto the Lord a new song" [LXX Ps. 95:1]. Epistle of that day. Alleluia: "The heavens shall confess Thy wonders, O Lord" [LXX Ps. 88:6]; Verse: "Day unto day pours forth speech" [LXX Ps. 18:3]. Gospel of that day. Communion verse of the feast...[^340] Kontakion:*
 *Thou hast appeared as an unshakable foundation of the Church, dispensing an undeprived wealth unto earthborn men, sealing it with thy teachings, O venerable Basil, revealer of heaven!*  
 *At Ode 9: we do not sing "More honorable"; Exapostilarion of the feast. At the Praises: Prosomoion, 3, and of the saint, Tone 5, on 4; Glory, Tone 6: "Grace was poured out..."; Both now: "Descending unto the human race...". Great Doxology; Troparion of the saint; litany; dismissal; and holy oil is given. Be it known: If this feast happen to fall on a Sunday, an All-Night Vigil takes place; but on other days there is no All-Night Vigil.*  
-*At the Divine Liturgy: from the canons, and of the saint, Odes 3 and 6. Prokeimenon, Tone 1: "My mouth shall speak wisdom" [LXX Ps. 48:4]; Verse: "Hear this, all ye nations" [LXX Ps. 48:2]. Epistle in order: "Brethren, if any man take you by deceit through philosophy..." [Col. 2:8–12]. Alleluia, Tone 8: "Give ear, O Shepherd of Israel" [LXX Ps. 79:2]. Gospel from Luke: "The shepherds returned, glorifying and praising God..." [Lk. 2:20–21, 40–52]. The rest of the Divine Liturgy [of Basil the Great] is completed...[^341]*
-
-*...[of Basil the Great]. Communion verse: "Praise the Lord from the heavens" [LXX Ps. 148:1], and the other: "In everlasting memory shall the righteous be" [LXX Ps. 111:6].*  
+*At the Divine Liturgy: from the canons, and of the saint, Odes 3 and 6. Prokeimenon, Tone 1: "My mouth shall speak wisdom" [LXX Ps. 48:4]; Verse: "Hear this, all ye nations" [LXX Ps. 48:2]. Epistle in order: "Brethren, if any man take you by deceit through philosophy..." [Col. 2:8–12]. Alleluia, Tone 8: "Give ear, O Shepherd of Israel" [LXX Ps. 79:2]. Gospel from Luke: "The shepherds returned, glorifying and praising God..." [Lk. 2:20–21, 40–52]. The rest of the Divine Liturgy [of Basil the Great] is completed...[^341] [of Basil the Great]. Communion verse: "Praise the Lord from the heavens" [LXX Ps. 148:1], and the other: "In everlasting memory shall the righteous be" [LXX Ps. 111:6].*
 *On the 2nd day: Forefeast of the Enlightenment [Theophany]; and of Saint Sylvester, Pope of Rome.*  
 *At Vespers: Stichera: 3 of the Forefeast, Tone 4; 3 of the saint, Tone 8; Glory, Both now, Tone 6: "He goes unto the Jordan...". At the Aposticha: Idiomela, 3 of the Forefeast: "Coming unto the witness..."; another, Tone 2: "Again Jesus..."; another, Tone 3. And they say verses: "Therefore will I remember Thee from the land of Jordan..." [LXX Ps. 41:7]; "The waters saw Thee, O God, the waters saw Thee" [LXX Ps. 76:17]. And they say these verses at Vespers, and at Matins, even unto the Eve of the Enlightenment [Theophany]. Glory, Both now, Tone 3: "Come, all ye faithful...". Troparion, Tone 4:*  
 *Troparion:*  
-*Prepare thyself, O Zebulun, and adorn thyself, O Naphtali! O Jordan river, stand; receive with leaping the Master coming to be baptized! Rejoice, O Adam with the first mother; hide not yourselves as in paradise of old; for seeing you naked He hath appeared, that He may clothe you in your primal vesture: Christ hath appeared...[^342]*
-
-*...wishing to renew all creation!*  
+*Prepare thyself, O Zebulun, and adorn thyself, O Naphtali! O Jordan river, stand; receive with leaping the Master coming to be baptized! Rejoice, O Adam with the first mother; hide not yourselves as in paradise of old; for seeing you naked He hath appeared, that He may clothe you in your primal vesture: Christ hath appeared...[^342] wishing to renew all creation!*
 *And at Matins: Sessional hymns of the Forefeast; Canon of the Forefeast to 6; of the saint to 6. After Ode 3, Kontakion [of the saint], Tone 4, Podoben: "Thou hast appeared today" (Явися):*  
 *Kontakion:*  
 *As an astronomer unto the inhabited earth, God who is in glory set thee forth through virtues, more than the morning star, O blessed one; for thou art our luminary, O our father Sylvester!*  
@@ -1003,83 +795,45 @@ Grace having shone forth from thy mouth like gold, it enlightened the universe, 
 *Kontakion:*  
 *In the streams of Jordan today, the Lord having arrived cried aloud unto John: Fear not to baptize Me, for I come to save Adam the first-fashioned!*  
 *At the Praises: Podoben, Tone 6: "Angelic powers..." (Ангельскыя); Glory, Both now: the 4th sticheron of the same. And thus we do always, even unto the Eve of the Enlightenment [Theophany]. At the Aposticha: Idiomela, Tone 6; Glory, Both now, Tone 8: "O John the Baptist...". And thus we complete the service even unto the Eve of the Enlightenment.*  
-*Saturday before the Enlightenment [Theophany]: Epistle to Timothy: "Child Timothy, they that have served well..." [1 Tim. 3:13–4:5]. Gospel from Matthew: "At that time, came John... [preaching in the wilderness]" [Mt. 3:1–11]...[^343]*
-
-*...came John..."; Prokeimenon and Alleluia according to custom.*  
+*Saturday before the Enlightenment [Theophany]: Epistle to Timothy: "Child Timothy, they that have served well..." [1 Tim. 3:13–4:5]. Gospel from Matthew: "At that time, came John... [preaching in the wilderness]" [Mt. 3:1–11]...[^343] came John..."; Prokeimenon and Alleluia according to custom.*
 *Sunday before the Enlightenment [Theophany]: Prokeimenon, Tone 6: "O Lord, save Thy people, and bless Thine inheritance" [LXX Ps. 27:9]; Verse: "Unto Thee, O Lord, will I cry" [LXX Ps. 27:1]. Epistle to Timothy: "Child Timothy, be vigilant in all things..." [2 Tim. 4:5–8]. Alleluia: "God be gracious unto us, and bless us" [LXX Ps. 66:2]. Gospel from Mark: "The beginning of the Gospel of Jesus Christ, the Son of God..." [Mk. 1:1–8].*  
 *On the 3rd day: Of the holy Prophet Malachi; and of the holy martyr Gordius.*  
 *At Vespers: Stichera of the saints, on 6; Glory, Both now, Tone 8: "O John the Baptist...". At the Aposticha: of the Forefeast, Tone 4. Troparion: "Thy martyr [Gordius], O Lord..."; Glory, Both now: "Prepare thyself...".*  
 *At Matins: Canon of the Forefeast to 6; two of the saints to 8. After Ode 3, Kontakion of the martyr, Tone 4, Podoben: "Thou hast appeared today" (Явися):*  
 *Kontakion:*  
 *With all love today the Church celebrates thy memory, O Gordius, praising thee secretly, that for which thou hast suffered, O beauty of martyrs and boast unto all!*  
-*Sessional hymn of the prophet; Glory, of the saint; Both now, of the Forefeast. After Ode 6, Kontakion of the Forefeast. At the Praises and at the Aposticha: all of the Forefeast, according to yesterday's direction. At the Divine Liturgy:...[^344]*
-
-*...Liturgy: From the canons: of the Forefeast, Ode 3 on 4; to the martyr, Ode 6 on 4. Prokeimenon: "The righteous shall rejoice in the Lord" [LXX Ps. 63:11]; Verse: "Hear my voice, O God" [LXX Ps. 63:2]. Epistle to Timothy: "Child Timothy, by the putting on of hands..." [2 Tim. 1:3–9]. Alleluia: "The righteous man shall flourish like a palm tree" [LXX Ps. 91:13]. Gospel from Matthew: "At that time, the Lord said: Behold, I send you forth as sheep in the midst of wolves..." [Mt. 10:16–22]. Communion verse: "In everlasting memory shall the righteous be" [LXX Ps. 111:6].*  
+*Sessional hymn of the prophet; Glory, of the saint; Both now, of the Forefeast. After Ode 6, Kontakion of the Forefeast. At the Praises and at the Aposticha: all of the Forefeast, according to yesterday's direction. At the Divine Liturgy:...[^344] Liturgy: From the canons: of the Forefeast, Ode 3 on 4; to the martyr, Ode 6 on 4. Prokeimenon: "The righteous shall rejoice in the Lord" [LXX Ps. 63:11]; Verse: "Hear my voice, O God" [LXX Ps. 63:2]. Epistle to Timothy: "Child Timothy, by the putting on of hands..." [2 Tim. 1:3–9]. Alleluia: "The righteous man shall flourish like a palm tree" [LXX Ps. 91:13]. Gospel from Matthew: "At that time, the Lord said: Behold, I send you forth as sheep in the midst of wolves..." [Mt. 10:16–22]. Communion verse: "In everlasting memory shall the righteous be" [LXX Ps. 111:6].*
 *On the 4th day: The Synaxis of the Holy Seventy Apostles; and of our venerable father Theoctistus.*  
 *At Vespers: Stichera of the Forefeast, 3; of the Apostles, 3; Glory, Both now, of the Forefeast. At the Aposticha: all of the Forefeast. Troparion of the Apostles: "Holy Apostles..."; Glory, Both now: "Prepare thyself...". But the service of Saint Theoctistus is sung at Compline.*  
 *At Matins: Canon of the Forefeast to 6; and of the Apostles to 6. After Ode 3, Kontakion [of the Apostles], Tone 1:*  
 *Kontakion:*  
 *As radiant stars, as companions of the Twelve, ye received the clear gifts of Christ, to shine forth by your preaching, and bringing an innumerable multitude from the nations unto the faith, O divine Apostles; therefore today we praise with faith your memory!*  
-*After Ode 6, Kontakion of the Forefeast. At the Praises...[^345]*
-
-*...and at the Aposticha: all of the Forefeast.*  
+*After Ode 6, Kontakion of the Forefeast. At the Praises...[^345] and at the Aposticha: all of the Forefeast.*
 *On the 5th day: Forefeast of the Enlightenment [Theophany]; and of the holy martyrs Theopemptus and Theonas; and of Saint Gregory of Crete; and of venerable Syncletica.*  
 *At Vespers: Stichera of the Forefeast and of the saints together; Glory, Both now, of the Forefeast. At the Aposticha: all of the feast. Troparion, Tone 4:*  
 *Troparion:*  
 *The river Jordan once turned back before the mantle of Elisha, when Elijah was taken up; and the waters were divided hither and thither, and the watery way became dry land unto him, as a true type of baptism, whereby we traverse the flux of transient life: Christ hath appeared at the Jordan to sanctify the waters!*  
-*At Matins: Troparion of the Forefeast, 3 times; Canon of the Forefeast to 6; and of the saints to 4. After Ode 3, Sessional hymns of the saints. After Ode 6, Kontakion: "In the streams of Jordan...". After Ode 9, Exapostilarion. At the Praises and at the Aposticha: all of the Forefeast. Troparion; litany; dismissal; First Hour; and we do not combine [these Hours with Matins]...[^346]*
-
-*...And at the beginning of the first hour [of the day], the klepalo is struck, and we assemble into church and sing two Hours: the First and the Third. The Priest and Deacon vest in their vestments, and the Priest says: "Blessed is our God...". And we say: "Heavenly King...", Trisagion; after "Our Father...", Priest: "For Thine is the kingdom..."; "Lord, have mercy" 12 times; "Come, let us worship..." 3 times. First Hour: Psalm 5: "Give ear to my words, O Lord" [LXX Ps. 5:2]; Psalm 22: "The Lord shepherds me" [LXX Ps. 22:1]; Psalm 26: "The Lord is my light and my savior" [LXX Ps. 26:1]. Glory, Both now; Alleluia 3 times. The Deacon says the Great Litany; after the exclamation, the First Choir begins: Troparion, Tone 8: "Today the nature of the waters..."; and the other choir, the same troparion. Then the first choir says the verse: "Therefore will I remember Thee from the land of Jordan..." [LXX Ps. 41:7], and they sing: Troparion, Tone 8: "As man didst Thou come to the river, O Christ King...". After that, the second choir says the verse: "The waters saw Thee, O God, the waters saw Thee" [LXX Ps. 76:17], and they sing the same troparion: "As man didst Thou come...". Then the first choir: Glory, Tone 8, Idiomelon; Both now, the same, both choirs together. The Deacon says the Little Litany: "Again and again..."; the Priest...[^347]*
-
-*...exclaims; and there is said: Prokeimenon: "The Lord thundered from heaven" [LXX Ps. 17:14]; Verse: "I will love Thee, O Lord, my strength" [LXX Ps. 17:2]. After that, the Prophecy of Isaiah: "Thus saith the Lord: The wilderness and the solitary place shall be glad..." [Isa. 35:1–10]; the lection written for the Blessing of the Waters. Epistle from the Acts: In those days... [Acts 13:25–32]. Deacon: "Wisdom, upright, let us hear the Holy Gospel"; "At that time, Jesus came from Nazareth of Galilee to be baptized by John in the Jordan..." [Mt. 3:13–17]. Deacon says the Litany: "Let us complete our prayer..."; the Priest exclaims; and there is said: Troparion: "The river Jordan once turned back..."; then: "Order my steps in Thy word..." [LXX Ps. 118:133]; Trisagion; after "Our Father...", Priest: "For Thine is the kingdom..."; Kontakion: "In the streams of Jordan..."; "Lord, have mercy" 40 times; Priest: "God be gracious unto us, and bless us..."; and with prayer to the All-Holy [Trinity]. Again the Priest says: "Blessed is our God...". And we say: Trisagion; after "Our Father...", Priest: "For Thine is the kingdom..."; "Lord, have mercy" 12 times; "Come, let us worship..." 3 times. Psalm 28: "Bring unto the Lord, O ye sons of God" [LXX Ps. 28:1]; Psalm 41: "As the hart pants after the fountains of water" [LXX Ps. 41:2]; Psalm 50: "Have mercy upon me, O God" [LXX Ps. 50:3]...[^348]*
-
-*...Alleluia 3 times. The Deacon says the Great Litany; after the exclamation, the First Choir begins: Troparion, Tone 8: "The right hand of the Forerunner..."; and the other choir, the same troparion. And immediately the first choir says the verse: "Therefore will I remember Thee from the land of Jordan..." [LXX Ps. 41:7]; Troparion, Tone 4: "Our God is a Trinity..."; then the second choir says the verse: "The waters saw Thee, O God, the waters saw Thee" [LXX Ps. 76:17], and they sing the same troparion: "Our God is a Trinity...". After that, the first choir: Glory, Tone 5: "Coming in the flesh unto the Jordan, O Lord..."; Both now, the same, both choirs together. The Deacon says the Little Litany; after the exclamation, they sing: Prokeimenon: "The waters saw Thee, O God, the waters saw Thee" [LXX Ps. 76:17]; Verse: "Give ear to my words, O Lord" [LXX Ps. 5:2]. After that, the Prophecy of Isaiah: "Thus saith the Lord: Wash you, make you clean; put away the evil of your doings from before Mine eyes..." [Isa. 1:16–20]. Epistle from the Acts, appointed for Friday of the 6th week: "When the Apostles were..." [Acts 19:1–8]. Gospel from Mark, appointed for the Sunday before the Enlightenment: "The beginning of the Gospel of Jesus Christ, the Son of God..." [Mk. 1:1–8]. Litany: "Let us complete our prayer..."; the Priest exclaims; and we say: Troparion: "The river Jordan once turned back..."; then: "Blessed be the Lord God..." [LXX Ps. 67:20]; Trisagion; after "Our Father...", Priest: "For Thine is the kingdom..."; Kontakion: "In the streams of Jordan..."; "Lord, have mercy" 12 times; Dismissal...[^349]*
-
-*At the 4th hour of the day, the semantron signals: 2 strokes; and at the strokes the Priest and Deacon vest in all their sacred vestments. We sing two Hours together. The Priest having blessed, they say: "Heavenly King...", Trisagion; after "Our Father...", Priest: "For Thine is the kingdom..."; "Lord, have mercy" 12 times; "Come, let us worship..." 3 times.*  
+*At Matins: Troparion of the Forefeast, 3 times; Canon of the Forefeast to 6; and of the saints to 4. After Ode 3, Sessional hymns of the saints. After Ode 6, Kontakion: "In the streams of Jordan...". After Ode 9, Exapostilarion. At the Praises and at the Aposticha: all of the Forefeast. Troparion; litany; dismissal; First Hour; and we do not combine [these Hours with Matins]...[^346] And at the beginning of the first hour [of the day], the klepalo is struck, and we assemble into church and sing two Hours: the First and the Third. The Priest and Deacon vest in their vestments, and the Priest says: "Blessed is our God...". And we say: "Heavenly King...", Trisagion; after "Our Father...", Priest: "For Thine is the kingdom..."; "Lord, have mercy" 12 times; "Come, let us worship..." 3 times. First Hour: Psalm 5: "Give ear to my words, O Lord" [LXX Ps. 5:2]; Psalm 22: "The Lord shepherds me" [LXX Ps. 22:1]; Psalm 26: "The Lord is my light and my savior" [LXX Ps. 26:1]. Glory, Both now; Alleluia 3 times. The Deacon says the Great Litany; after the exclamation, the First Choir begins: Troparion, Tone 8: "Today the nature of the waters..."; and the other choir, the same troparion. Then the first choir says the verse: "Therefore will I remember Thee from the land of Jordan..." [LXX Ps. 41:7], and they sing: Troparion, Tone 8: "As man didst Thou come to the river, O Christ King...". After that, the second choir says the verse: "The waters saw Thee, O God, the waters saw Thee" [LXX Ps. 76:17], and they sing the same troparion: "As man didst Thou come...". Then the first choir: Glory, Tone 8, Idiomelon; Both now, the same, both choirs together. The Deacon says the Little Litany: "Again and again..."; the Priest...[^347] exclaims; and there is said: Prokeimenon: "The Lord thundered from heaven" [LXX Ps. 17:14]; Verse: "I will love Thee, O Lord, my strength" [LXX Ps. 17:2]. After that, the Prophecy of Isaiah: "Thus says the Lord: The wilderness and the solitary place shall be glad..." [Isa. 35:1–10]; the lection written for the Blessing of the Waters. Epistle from the Acts: In those days... [Acts 13:25–32]. Deacon: "Wisdom, upright, let us hear the Holy Gospel"; "At that time, Jesus came from Nazareth of Galilee to be baptized by John in the Jordan..." [Mt. 3:13–17]. Deacon says the Litany: "Let us complete our prayer..."; the Priest exclaims; and there is said: Troparion: "The river Jordan once turned back..."; then: "Order my steps in Thy word..." [LXX Ps. 118:133]; Trisagion; after "Our Father...", Priest: "For Thine is the kingdom..."; Kontakion: "In the streams of Jordan..."; "Lord, have mercy" 40 times; Priest: "God be gracious unto us, and bless us..."; and with prayer to the All-Holy [Trinity]. Again the Priest says: "Blessed is our God...". And we say: Trisagion; after "Our Father...", Priest: "For Thine is the kingdom..."; "Lord, have mercy" 12 times; "Come, let us worship..." 3 times. Psalm 28: "Bring unto the Lord, O ye sons of God" [LXX Ps. 28:1]; Psalm 41: "As the hart pants after the fountains of water" [LXX Ps. 41:2]; Psalm 50: "Have mercy upon me, O God" [LXX Ps. 50:3]...[^348] Alleluia 3 times. The Deacon says the Great Litany; after the exclamation, the First Choir begins: Troparion, Tone 8: "The right hand of the Forerunner..."; and the other choir, the same troparion. And immediately the first choir says the verse: "Therefore will I remember Thee from the land of Jordan..." [LXX Ps. 41:7]; Troparion, Tone 4: "Our God is a Trinity..."; then the second choir says the verse: "The waters saw Thee, O God, the waters saw Thee" [LXX Ps. 76:17], and they sing the same troparion: "Our God is a Trinity...". After that, the first choir: Glory, Tone 5: "Coming in the flesh unto the Jordan, O Lord..."; Both now, the same, both choirs together. The Deacon says the Little Litany; after the exclamation, they sing: Prokeimenon: "The waters saw Thee, O God, the waters saw Thee" [LXX Ps. 76:17]; Verse: "Give ear to my words, O Lord" [LXX Ps. 5:2]. After that, the Prophecy of Isaiah: "Thus says the Lord: Wash you, make you clean; put away the evil of your doings from before Mine eyes..." [Isa. 1:16–20]. Epistle from the Acts, appointed for Friday of the 6th week: "When the Apostles were..." [Acts 19:1–8]. Gospel from Mark, appointed for the Sunday before the Enlightenment: "The beginning of the Gospel of Jesus Christ, the Son of God..." [Mk. 1:1–8]. Litany: "Let us complete our prayer..."; the Priest exclaims; and we say: Troparion: "The river Jordan once turned back..."; then: "Blessed be the Lord God..." [LXX Ps. 67:20]; Trisagion; after "Our Father...", Priest: "For Thine is the kingdom..."; Kontakion: "In the streams of Jordan..."; "Lord, have mercy" 12 times; Dismissal...[^349] At the 4th hour of the day, the semantron signals: 2 strokes; and at the strokes the Priest and Deacon vest in all their sacred vestments. We sing two Hours together. The Priest having blessed, they say: "Heavenly King...", Trisagion; after "Our Father...", Priest: "For Thine is the kingdom..."; "Lord, have mercy" 12 times; "Come, let us worship..." 3 times.*
 *Sixth Hour: Psalm 73: "O God, why hast Thou cast us off unto the end?" [LXX Ps. 73:1]; Psalm 76: "With my voice have I cried unto God" [LXX Ps. 76:2]; Psalm 90: "He that dwells in the help of the Most High" [LXX Ps. 90:1]. Alleluia [3 times].*  
-*Great Litany; the Priest exclaims; and the First Choir begins: Troparion, Tone 8: "Thus says the Lord unto John..."; and the other choir, the same troparion. Then the first choir says the verse: "Therefore will I remember Thee from the land of Jordan..." [LXX Ps. 41:7], and they sing: Troparion, Tone 6: "Today the prophetic scripture is fulfilled...". And immediately the First Choir: Glory, Tone 5: "What turnest thou back, O Jordan..."; Both now, the same, both choirs together. The Deacon says the Little Litany; the Priest exclaims; and they say: Prokeimenon, Tone 4: "The voice of the Lord is upon the waters" [LXX Ps. 28:3]; Verse: "Bring unto the Lord, O ye sons of God" [LXX Ps. 28:1]. Prophecy of Isaiah: "Thus says the Lord: Ho, everyone that thirsts..." [Isa. 55:1–13]...[^350]*
-
-*...thirsts, come ye to the waters...". Epistle of Great Saturday: ["Brethren, so many of us as were baptized into Jesus Christ were baptized into His death..." [Rom. 6:3–11]]. Gospel from Matthew: "At that time, comes Jesus [from Galilee to Jordan unto John]..."; the end: "...in Whom I am well pleased" [Mt. 3:13–17], appointed for the Liturgy on the feast day. Litany and Supplication Prayers. We say the Troparion: "The river Jordan once turned back..."; then: "Let Thy tender mercies speedily prevent us, O Lord" [LXX Ps. 78:8]; Trisagion; after "Our Father...", Priest: "For Thine is the kingdom..."; Kontakion: "In the streams of Jordan..."; "Lord, have mercy" 12 times; Priest: "God be gracious unto us, and bless us...". And having made a little pause, as daylight appears [or while waiting a short space], again the Priest says: "Blessed is our God...". And we say: Trisagion; after "Our Father...", Priest: "For Thine is the kingdom..."; "Lord, have mercy" 12 times; "Come, let us worship..." 3 times.*  
-*Ninth Hour: Psalm 92: "The Lord reigns, He is clothed with majesty" [LXX Ps. 92:1]; Psalm 113: "In the exodus of Israel out of Egypt" [LXX Ps. 113:1]; Psalm 85: "Bow down Thine ear, O Lord" [LXX Ps. 85:1]. Alleluia 3 times. The Deacon says the Great Litany; the Priest exclaims. The First Choir begins: Troparion, Tone 7: "Terror was it to behold the Creator of heaven and earth..."; and the other choir, the same: "Terror was it...". Then the first choir says the verse: "Therefore will I remember Thee from the land of Jordan..." [LXX Ps. 41:7], and they sing: Troparion, Tone 2: "When the Forerunner came unto Him...". Then the second choir says the verse: "The waters saw Thee, O God, the waters saw Thee" [LXX Ps. 76:17]...[^351]*
-
-*...and they sing the same troparion. Then the First Choir: Glory, Tone 5: "Thy hand which touched the immaculate head of the Master..."; Both now, the same, both choirs together. The Deacon says the Little Litany; the Priest exclaims; and they say: Prokeimenon: "The Lord is my light and my savior" [LXX Ps. 26:1]; Verse: "The Lord is the defender of my life" [LXX Ps. 26:1]. Prophecy of Isaiah (the 13th, evening lection): "Thus says the Lord: In an acceptable time have I heard thee..." [Isa. 49:8–15]. Epistle to Titus: "Child Titus, the grace of God that brings salvation hath appeared..." [Titus 2:11–14; 3:4–7], appointed for the Liturgy on the feast day. Gospel from Luke: "Now in the fifteenth year of the reign of Tiberius Caesar..." [Lk. 3:1–18]. At Vespers: Litany and Supplication Prayers; exclamation; and there is said the Troparion: "The river Jordan once turned back...". Then: "Deliver us not up utterly, for Thy holy name's sake..." [Dan. 3:34]; Trisagion; after "Our Father...", Priest: "For Thine is the kingdom..."; Kontakion: "In the streams of Jordan..."; "Lord, have mercy" 12 times. Then also the Typika: Psalm 102: "Bless the Lord, O my soul" [LXX Ps. 102:1]; Psalm 145: "Praise the Lord, O my soul" [LXX Ps. 145:1]; the Beatitudes we recite simply from the book; and the present prayer: "Pardon, remit, forgive, O God, our transgressions..."; Kontakion: "In the streams of Jordan..."; "Lord, have mercy" 40 times; Dismissal.*  
-*And at the 10th hour of the day, the great semantron is struck, and we assemble into church; there vests...[^352]*
-
-*...the Priest and Deacon, and Vespers takes place. The Priest having blessed, they say: "Heavenly King...", Trisagion; after "Our Father...", Priest: "For Thine is the kingdom..."; "Lord, have mercy" 12 times; "Come, let us worship..." 3 times. Psalm 103: "Bless the Lord, O my soul" [LXX Ps. 103:1]; Glory, Both now: Alleluia 3 times; Great Litany; exclamation. At "Lord, I have cried", exclamation 2. The Priest performs the Proskomide, and the Deacon censes. And we sing 8 stichera: 4 festal idiomela, twice; and to our hierarch, 3; Glory, Both now, Tone 2: "Thou bowedst Thy head unto the Forerunner...". Entrance with the Gospel. Prokeimenon of the day. Lections of the feast, according to their order. After the completion of the lections, Little Litany. The Priest recites the prayers of the Trisagion; exclamation: "For holy art Thou, [O our God]..."; and they sing: "Holy God". Then Prokeimenon, Tone 3: "The Lord is my light and my savior" [LXX Ps. 26:1]; Verse: "The Lord is the defender of my life" [LXX Ps. 26:1]. Epistle to the Corinthians: "Brethren, though I be free from all men..." [1 Cor. 9:19]. Alleluia, Tone 6: "My heart hath poured forth a good word" [LXX Ps. 44:2]. Gospel from Luke: "Now in the fifteenth year of the reign of Tiberius Caesar..." [Lk. 3:1–18]. And the rest of the Divine Liturgy of Basil the Great, according to its order. At the conclusion of the Liturgy, [the Priest] places the Holy Cross with the dish upon his head...[^353]*
-
-*...with the dish upon his head, and goes down to the vessel where it is customary to bless water, preceded by candles and censers, chanting 3 troparia, Tone 8: "The voice of the Lord is upon the waters..."; and they sing 3 troparia out of the 12: "Today the nature of the waters is sanctified...", then: "Thus says the Lord unto John...". After this, the Deacon: "Wisdom!". Three lections for the water. Immediately, Prokeimenon: "The Lord is my light and my savior" [LXX Ps. 26:1]; Verse: "The Lord is the defender of my life" [LXX Ps. 26:1]. Epistle to the Corinthians: "Brethren, I would not have you ignorant [how that all our fathers were under the cloud...]" [1 Cor. 10:1–4]. Alleluia, Tone 4: "The voice of the Lord is upon the waters" [LXX Ps. 28:3]; Verse: "Bring unto the Lord, O ye sons of God" [LXX Ps. 28:1]. Gospel from Mark: "At that time, Jesus came from Nazareth of Galilee, and was baptized of John in Jordan..." [Mk. 1:9–11]. After this, the Deacon says the Great Litany and the other petitions appointed for the consecration. While the litany is being said by the Deacon, the Priest recites the prayer secretly: "O Lord [Jesus Christ, Only-begotten Son...]"; at that same time, he does not exclaim, nor does he say "Amen" to himself. But when the Deacon says: "...Through the holy purity...", the Priest says aloud the great prayer: "Great art Thou, O Lord...". But if there be no deacon, the Priest recites the secret prayer: "O Lord, the Only-begotten...", while...[^354]*
-
-*...they read the Prophecies, that he may be ready to say the great prayer. And immediately after the litany, he begins the great prayer: "Great art Thou, O Lord, [and marvelous are Thy works...]". And at the conclusion of the prayer, the Priest says: "Peace be unto all". Deacon: "Bow your heads unto the Lord". The Priest recites the prayer secretly: "Incline Thine ear, O Lord...". Then [signing the waters] crosswise, he exclaims: "For Thou art our sanctification...". Having blessed the water with the precious Cross, he immerses the Cross straight down into the water, chanting the Troparion, Tone 1:*  
+*Great Litany; the Priest exclaims; and the First Choir begins: Troparion, Tone 8: "Thus says the Lord unto John..."; and the other choir, the same troparion. Then the first choir says the verse: "Therefore will I remember Thee from the land of Jordan..." [LXX Ps. 41:7], and they sing: Troparion, Tone 6: "Today the prophetic scripture is fulfilled...". And immediately the First Choir: Glory, Tone 5: "What turnest thou back, O Jordan..."; Both now, the same, both choirs together. The Deacon says the Little Litany; the Priest exclaims; and they say: Prokeimenon, Tone 4: "The voice of the Lord is upon the waters" [LXX Ps. 28:3]; Verse: "Bring unto the Lord, O ye sons of God" [LXX Ps. 28:1]. Prophecy of Isaiah: "Thus says the Lord: Ho, everyone that thirsts..." [Isa. 55:1–13]...[^350] thirsts, come ye to the waters...". Epistle of Great Saturday: ["Brethren, so many of us as were baptized into Jesus Christ were baptized into His death..." [Rom. 6:3–11]]. Gospel from Matthew: "At that time, comes Jesus [from Galilee to Jordan unto John]..."; the end: "...in Whom I am well pleased" [Mt. 3:13–17], appointed for the Liturgy on the feast day. Litany and Supplication Prayers. We say the Troparion: "The river Jordan once turned back..."; then: "Let Thy tender mercies speedily prevent us, O Lord" [LXX Ps. 78:8]; Trisagion; after "Our Father...", Priest: "For Thine is the kingdom..."; Kontakion: "In the streams of Jordan..."; "Lord, have mercy" 12 times; Priest: "God be gracious unto us, and bless us...". And having made a little pause, as daylight appears [or while waiting a short space], again the Priest says: "Blessed is our God...". And we say: Trisagion; after "Our Father...", Priest: "For Thine is the kingdom..."; "Lord, have mercy" 12 times; "Come, let us worship..." 3 times.*
+*Ninth Hour: Psalm 92: "The Lord reigns, He is clothed with majesty" [LXX Ps. 92:1]; Psalm 113: "In the exodus of Israel out of Egypt" [LXX Ps. 113:1]; Psalm 85: "Bow down Thine ear, O Lord" [LXX Ps. 85:1]. Alleluia 3 times. The Deacon says the Great Litany; the Priest exclaims. The First Choir begins: Troparion, Tone 7: "Terror was it to behold the Creator of heaven and earth..."; and the other choir, the same: "Terror was it...". Then the first choir says the verse: "Therefore will I remember Thee from the land of Jordan..." [LXX Ps. 41:7], and they sing: Troparion, Tone 2: "When the Forerunner came unto Him...". Then the second choir says the verse: "The waters saw Thee, O God, the waters saw Thee" [LXX Ps. 76:17]...[^351] and they sing the same troparion. Then the First Choir: Glory, Tone 5: "Thy hand which touched the immaculate head of the Master..."; Both now, the same, both choirs together. The Deacon says the Little Litany; the Priest exclaims; and they say: Prokeimenon: "The Lord is my light and my savior" [LXX Ps. 26:1]; Verse: "The Lord is the defender of my life" [LXX Ps. 26:1]. Prophecy of Isaiah (the 13th, evening lection): "Thus says the Lord: In an acceptable time have I heard thee..." [Isa. 49:8–15]. Epistle to Titus: "Child Titus, the grace of God that brings salvation hath appeared..." [Titus 2:11–14; 3:4–7], appointed for the Liturgy on the feast day. Gospel from Luke: "Now in the fifteenth year of the reign of Tiberius Caesar..." [Lk. 3:1–18]. At Vespers: Litany and Supplication Prayers; exclamation; and there is said the Troparion: "The river Jordan once turned back...". Then: "Deliver us not up utterly, for Thy holy name's sake..." [Dan. 3:34]; Trisagion; after "Our Father...", Priest: "For Thine is the kingdom..."; Kontakion: "In the streams of Jordan..."; "Lord, have mercy" 12 times. Then also the Typika: Psalm 102: "Bless the Lord, O my soul" [LXX Ps. 102:1]; Psalm 145: "Praise the Lord, O my soul" [LXX Ps. 145:1]; the Beatitudes we recite simply from the book; and the present prayer: "Pardon, remit, forgive, O God, our transgressions..."; Kontakion: "In the streams of Jordan..."; "Lord, have mercy" 40 times; Dismissal.*
+*And at the 10th hour of the day, the great semantron is struck, and we assemble into church; there vests...[^352] the Priest and Deacon, and Vespers takes place. The Priest having blessed, they say: "Heavenly King...", Trisagion; after "Our Father...", Priest: "For Thine is the kingdom..."; "Lord, have mercy" 12 times; "Come, let us worship..." 3 times. Psalm 103: "Bless the Lord, O my soul" [LXX Ps. 103:1]; Glory, Both now: Alleluia 3 times; Great Litany; exclamation. At "Lord, I have cried", exclamation 2. The Priest performs the Proskomide, and the Deacon censes. And we sing 8 stichera: 4 festal idiomela, twice; and to our hierarch, 3; Glory, Both now, Tone 2: "Thou bowedst Thy head unto the Forerunner...". Entrance with the Gospel. Prokeimenon of the day. Lections of the feast, according to their order. After the completion of the lections, Little Litany. The Priest recites the prayers of the Trisagion; exclamation: "For holy art Thou, [O our God]..."; and they sing: "Holy God". Then Prokeimenon, Tone 3: "The Lord is my light and my savior" [LXX Ps. 26:1]; Verse: "The Lord is the defender of my life" [LXX Ps. 26:1]. Epistle to the Corinthians: "Brethren, though I be free from all men..." [1 Cor. 9:19]. Alleluia, Tone 6: "My heart hath poured forth a good word" [LXX Ps. 44:2]. Gospel from Luke: "Now in the fifteenth year of the reign of Tiberius Caesar..." [Lk. 3:1–18]. And the rest of the Divine Liturgy of Basil the Great, according to its order. At the conclusion of the Liturgy, [the Priest] places the Holy Cross with the dish upon his head...[^353] with the dish upon his head, and goes down to the vessel where it is customary to bless water, preceded by candles and censers, chanting 3 troparia, Tone 8: "The voice of the Lord is upon the waters..."; and they sing 3 troparia out of the 12: "Today the nature of the waters is sanctified...", then: "Thus says the Lord unto John...". After this, the Deacon: "Wisdom!". Three lections for the water. Immediately, Prokeimenon: "The Lord is my light and my savior" [LXX Ps. 26:1]; Verse: "The Lord is the defender of my life" [LXX Ps. 26:1]. Epistle to the Corinthians: "Brethren, I would not have you ignorant [how that all our fathers were under the cloud...]" [1 Cor. 10:1–4]. Alleluia, Tone 4: "The voice of the Lord is upon the waters" [LXX Ps. 28:3]; Verse: "Bring unto the Lord, O ye sons of God" [LXX Ps. 28:1]. Gospel from Mark: "At that time, Jesus came from Nazareth of Galilee, and was baptized of John in Jordan..." [Mk. 1:9–11]. After this, the Deacon says the Great Litany and the other petitions appointed for the consecration. While the litany is being said by the Deacon, the Priest recites the prayer secretly: "O Lord [Jesus Christ, Only-begotten Son...]"; at that same time, he does not exclaim, nor does he say "Amen" to himself. But when the Deacon says: "...Through the holy purity...", the Priest says aloud the great prayer: "Great art Thou, O Lord...". But if there be no deacon, the Priest recites the secret prayer: "O Lord, the Only-begotten...", while...[^354] they read the Prophecies, that he may be ready to say the great prayer. And immediately after the litany, he begins the great prayer: "Great art Thou, O Lord, [and marvelous are Thy works...]". And at the conclusion of the prayer, the Priest says: "Peace be unto all". Deacon: "Bow your heads unto the Lord". The Priest recites the prayer secretly: "Incline Thine ear, O Lord...". Then [signing the waters] crosswise, he exclaims: "For Thou art our sanctification...". Having blessed the water with the precious Cross, he immerses the Cross straight down into the water, chanting the Troparion, Tone 1:*
 *Troparion:*  
 *When Thou wast baptized in the Jordan, O Lord, the worship of the Trinity was made manifest: for the voice of the Father bore witness unto Thee, naming Thee His beloved Son, and the Spirit in the form of a dove confirmed the certainty of the word: O Christ God, Who hast appeared and enlightened the world, glory to Thee!*  
-*And while all are being sanctified by the sprinkling of the water, they sing: "When Thou wast baptized in the Jordan, O Lord...", 3 times. Having entered into the church, they sing: Glory, Tone 6: "Let us praise, ye faithful, [the greatness of God's beneficence toward us...]"; and they say Psalm 33: "I will bless the Lord at all times..." [LXX Ps. 33:2]...[^355]*
-
-*...and the blessed bread is distributed, and the complete dismissal takes place. After this they sing the Troparion and Kontakion of the feast; and entering the refectory, we eat with tree-oil, but cheese and eggs we do not eat. Thus it is done when there is fasting.*  
+*And while all are being sanctified by the sprinkling of the water, they sing: "When Thou wast baptized in the Jordan, O Lord...", 3 times. Having entered into the church, they sing: Glory, Tone 6: "Let us praise, ye faithful, [the greatness of God's beneficence toward us...]"; and they say Psalm 33: "I will bless the Lord at all times..." [LXX Ps. 33:2]...[^355] and the blessed bread is distributed, and the complete dismissal takes place. After this they sing the Troparion and Kontakion of the feast; and entering the refectory, we eat with tree-oil, but cheese and eggs we do not eat. Thus it is done when there is fasting.*
 *Be it known: If the Eve of Theophany happen to fall on a Saturday or on a Sunday, there is no fast: the [penitential] troparia are not sung, nor are they sung on Friday... And on Saturday and Sunday, the Divine Liturgy of John Chrysostom takes place according to custom. After the dismissal of the Liturgy, they eat bread in church, and drink a cup [of wine]. But the Divine Liturgy of Basil the Great is completed on the feast day itself.*  
-*At the same appointed hour, the semantron is struck, and we sing Vespers according to the previously written pattern; only if it be Saturday evening: "Blessed is the man..." [Kathisma 1]. Stichera of the feast on 8; Glory, Both now, Tone 2: "Thou bowedst Thy head unto the Forerunner...". Entrance with the Gospel. Prokeimenon...[^356]*
-
-*...and lections of the feast. At the conclusion of the lections, Little Litany, exclamation. And there is sung: Prokeimenon: "The Lord is my light and my savior" [LXX Ps. 26:1]; Verse: "The Lord is the defender of my life" [LXX Ps. 26:1]. "Holy God" is not sung, because the Liturgy is not being celebrated [in conjunction with Vespers]. Then Epistle to the Corinthians: "Brethren, though I be free from all men..." [1 Cor. 9:19]. Alleluia: "The voice of the Lord is upon the waters" [LXX Ps. 28:3]; Verse: "Bring unto the Lord, O ye sons of God" [LXX Ps. 28:1]. Gospel from Matthew: "At that time, comes Jesus...". Deacon: Litany, and "Let us complete our evening prayer...". The Priest exclaims. And they process to the vessel, singing: "The voice of the Lord is upon the waters...". And the office over the water takes place, as previously written, that is: the Prophecies, Epistle, Gospel, and prayer. And after the sprinkling of the sanctified water, we sing the Troparion and Kontakion. And having entered into the church, we sing: Glory, Both now, Tone 6: "Let us praise, ye faithful...". And there is said the Litany: "Have mercy on us, O God..."; then dismissal. And having entered into the refectory, we eat with tree-oil, but cheese and eggs we do not eat. Be it known also: If the Feast of the Holy Theophany happen to fall on a Sunday, of the Resurrection...[^357]*
-
-*...nothing is sung, except 3 kathismata, that is: "Blessed is the man..." [Kathisma 1: LXX Pss. 1–8]; "I will confess unto Thee, O Lord..." [Kathisma 2: LXX Pss. 9–16]; "I will love Thee, O Lord..." [Kathisma 3: LXX Pss. 17–23]; and stichera: neither sessional hymns, nor graduals, nor the Blameless [LXX Ps. 118], nor the Resurrection Gospel, nor "Having beheld the Resurrection of Christ"; only we venerate the Gospel. Nor is "Holy is the Lord [our God]" sung; but all is of the feast.*  
-*At the 2nd hour of the night, the great semantron is struck, and we assemble into church. We sing Compline. After "Glory to God in the highest...", we sing 5 festal idiomela stichera, Tone 4; Glory, Tone 8: "O Lord, wishing to fulfill..."; Both now: "Today creation...". And after the customary prayers, we enter into the church, singing 3 idiomela, Tone 2: "In the river Jordan..."; [Verse]: "The waters saw Thee, O God..."; [Sticheron]: "Today Christ..."; and we say the verse: "The sea saw and fled" [LXX Ps. 113:3]; [Verse]: "What ailed thee, O thou sea, that thou fleddest?" [LXX Ps. 113:5]; Glory, Both now, Tone 6: "He that clothes Himself with light as with a garment...". Blessing of the loaves; Troparion of the feast, 3 times; then festal Sessional hymns...[^358]*
-
-*...of the feast. Gradual Hymns [Anavathmoi]: 1st Antiphon of Tone 4. Prokeimenon, Tone 4: "The sea saw it and fled" [LXX Ps. 113:3]; Verse: "What ailed thee, O thou sea, that thou fleddest?" [LXX Ps. 113:5]. "Let every breath [praise the Lord]" [LXX Ps. 150:6]. Gospel from Mark [Mk. 1:9–11]. Psalm 50 [LXX Ps. 50:3]. Festal Sticheron. Canons: two, Tone 2: of Master Cosmas and of Master John; Heirmos twice, Troparia on 4, and again the Heirmos once, both choirs together.*  
+*At the same appointed hour, the semantron is struck, and we sing Vespers according to the previously written pattern; only if it be Saturday evening: "Blessed is the man..." [Kathisma 1]. Stichera of the feast on 8; Glory, Both now, Tone 2: "Thou bowedst Thy head unto the Forerunner...". Entrance with the Gospel. Prokeimenon...[^356] and lections of the feast. At the conclusion of the lections, Little Litany, exclamation. And there is sung: Prokeimenon: "The Lord is my light and my savior" [LXX Ps. 26:1]; Verse: "The Lord is the defender of my life" [LXX Ps. 26:1]. "Holy God" is not sung, because the Liturgy is not being celebrated [in conjunction with Vespers]. Then Epistle to the Corinthians: "Brethren, though I be free from all men..." [1 Cor. 9:19]. Alleluia: "The voice of the Lord is upon the waters" [LXX Ps. 28:3]; Verse: "Bring unto the Lord, O ye sons of God" [LXX Ps. 28:1]. Gospel from Matthew: "At that time, comes Jesus...". Deacon: Litany, and "Let us complete our evening prayer...". The Priest exclaims. And they process to the vessel, singing: "The voice of the Lord is upon the waters...". And the office over the water takes place, as previously written, that is: the Prophecies, Epistle, Gospel, and prayer. And after the sprinkling of the sanctified water, we sing the Troparion and Kontakion. And having entered into the church, we sing: Glory, Both now, Tone 6: "Let us praise, ye faithful...". And there is said the Litany: "Have mercy on us, O God..."; then dismissal. And having entered into the refectory, we eat with tree-oil, but cheese and eggs we do not eat. Be it known also: If the Feast of the Holy Theophany happen to fall on a Sunday, of the Resurrection...[^357] nothing is sung, except 3 kathismata, that is: "Blessed is the man..." [Kathisma 1: LXX Pss. 1–8]; "I will confess unto Thee, O Lord..." [Kathisma 2: LXX Pss. 9–16]; "I will love Thee, O Lord..." [Kathisma 3: LXX Pss. 17–23]; and stichera: neither sessional hymns, nor graduals, nor the Blameless [LXX Ps. 118], nor the Resurrection Gospel, nor "Having beheld the Resurrection of Christ"; only we venerate the Gospel. Nor is "Holy is the Lord [our God]" sung; but all is of the feast.*
+*At the 2nd hour of the night, the great semantron is struck, and we assemble into church. We sing Compline. After "Glory to God in the highest...", we sing 5 festal idiomela stichera, Tone 4; Glory, Tone 8: "O Lord, wishing to fulfill..."; Both now: "Today creation...". And after the customary prayers, we enter into the church, singing 3 idiomela, Tone 2: "In the river Jordan..."; [Verse]: "The waters saw Thee, O God..."; [Sticheron]: "Today Christ..."; and we say the verse: "The sea saw and fled" [LXX Ps. 113:3]; [Verse]: "What ailed thee, O thou sea, that thou fleddest?" [LXX Ps. 113:5]; Glory, Both now, Tone 6: "He that clothes Himself with light as with a garment...". Blessing of the loaves; Troparion of the feast, 3 times; then festal Sessional hymns...[^358] of the feast. Gradual Hymns [Anavathmoi]: 1st Antiphon of Tone 4. Prokeimenon, Tone 4: "The sea saw it and fled" [LXX Ps. 113:3]; Verse: "What ailed thee, O thou sea, that thou fleddest?" [LXX Ps. 113:5]. "Let every breath [praise the Lord]" [LXX Ps. 150:6]. Gospel from Mark [Mk. 1:9–11]. Psalm 50 [LXX Ps. 50:3]. Festal Sticheron. Canons: two, Tone 2: of Master Cosmas and of Master John; Heirmos twice, Troparia on 4, and again the Heirmos once, both choirs together.*
 *After Ode 3, Hypakoe, Tone 8:*  
 *Hypakoe:*  
 *When by Thy manifestation Thou enlightenedst all things, then this salty sea of unbelief fled, and Jordan flowing downward turned back, exalting us unto heaven: keep us upon the height of Thy divine commandments, O Christ God, through the prayers of the Mother of God, and have mercy upon us!*  
 *And Patristic reading from [St. Gregory] the Theologian, again [St.] Dionysius. After Ode 6, Kontakion, Tone 4:*  
 *Kontakion:*  
 *Thou hast appeared today unto the inhabited earth, and Thy light, O Lord, hath been signed upon us, who with understanding sing praise unto Thee: Thou art come and hast appeared, the Light unapproachable!*  
-*At Ode 9: we do not sing "More honorable". Exapostilarion: "Our Savior hath appeared...", 3 times. At the Praises: we sing 3 idiomela, Tone 1, on 4...[^359]*
-
-*Glory, Tone 6: "The streams of Jordan..."; Both now, Tone 2: "Today Christ [comes to Jordan to be baptized]...". Great Doxology. Troparion of the feast; litany; dismissal.*  
-*And after the dismissal, the Priest being vested in priestly vestments, and carrying in his hands upon a dish the precious Wood [the Honorable Cross], with censer and candles going before, we process forth, chanting the Troparion: "The voice of the Lord is upon the waters..." [LXX Ps. 28:3], 3 times, out of the 12. And coming unto the water springs, and having stood there according to their order, the Deacon begins: "Bless, Master." [Priest:] "Blessed is the kingdom of the Father, and of the Son, [and of the Holy Spirit, now and ever, and unto ages of ages]". Deacon: Great Litany for the consecration. And the Priest says the secret prayer: "O Lord [Jesus Christ], Only-begotten Son...". When the Deacon says: "...Unto all the saints..." [or "...with all the saints..."], the Priest exclaims. Deacon: "Wisdom!". And they read 3 lections over the water. But when there is no deacon, the Priest says the litany himself; and the secret prayer he recites while they read the Prophecies. And after the Prophecies, there is said: Prokeimenon: "The Lord is my light and my savior" [LXX Ps. 26:1]; Verse: "The Lord is the defender...*[^360]
-
-*...of my life" [LXX Ps. 26:1]. Epistle to the Corinthians: "Brethren, I would not that ye should be ignorant..." [1 Cor. 10:1–4]. Alleluia: "The voice of the Lord is upon the waters" [LXX Ps. 28:3]; Verse: "Bring unto the Lord, O ye sons of God" [LXX Ps. 28:1]. Gospel from Mark: "At that time, Jesus came [from Nazareth of Galilee, and was baptized of John in Jordan]..." [Mk. 1:9–11]. After this, the Priest begins the great prayer: "We glorify Thee, O Master...". And at the conclusion, the Priest says: "Peace be unto all." Deacon: "[Bow] your heads [unto the Lord]". Priest: secret prayer: "Incline Thine ear, O Lord...". Then, taking the Cross from the dish, he exclaims: "For Thou art our sanctification...". And having blessed the waters crosswise with the precious Cross, he immerses the Cross straight down into the water, chanting: "When Thou wast baptized in the Jordan, O Lord..." [Troparion of the feast]. And at the sprinkling of the sanctified water, we sing the troparion thrice. And returning unto the church, we sing: Glory, Both now: "The manifestation of the Trinity..."; Both now, Tone 6: "Let us praise, ye faithful...". After this, they kiss the precious Wood [the Cross]. Then: Litany: "Have mercy on us, O God..."; dismissal; and the First Hour.*  
+*At Ode 9: we do not sing "More honorable". Exapostilarion: "Our Savior hath appeared...", 3 times. At the Praises: we sing 3 idiomela, Tone 1, on 4...[^359] Glory, Tone 6: "The streams of Jordan..."; Both now, Tone 2: "Today Christ [comes to Jordan to be baptized]...". Great Doxology. Troparion of the feast; litany; dismissal.*
+*And after the dismissal, the Priest being vested in priestly vestments, and carrying in his hands upon a dish the precious Wood [the Honorable Cross], with censer and candles going before, we process forth, chanting the Troparion: "The voice of the Lord is upon the waters..." [LXX Ps. 28:3], 3 times, out of the 12. And coming unto the water springs, and having stood there according to their order, the Deacon begins: "Bless, Master." [Priest:] "Blessed is the kingdom of the Father, and of the Son, [and of the Holy Spirit, now and ever, and unto ages of ages]". Deacon: Great Litany for the consecration. And the Priest says the secret prayer: "O Lord [Jesus Christ], Only-begotten Son...". When the Deacon says: "...Unto all the saints..." [or "...with all the saints..."], the Priest exclaims. Deacon: "Wisdom!". And they read 3 lections over the water. But when there is no deacon, the Priest says the litany himself; and the secret prayer he recites while they read the Prophecies. And after the Prophecies, there is said: Prokeimenon: "The Lord is my light and my savior" [LXX Ps. 26:1]; Verse: "The Lord is the defender*[^360] *of my life" [LXX Ps. 26:1]. Epistle to the Corinthians: "Brethren, I would not that ye should be ignorant..." [1 Cor. 10:1–4]. Alleluia: "The voice of the Lord is upon the waters" [LXX Ps. 28:3]; Verse: "Bring unto the Lord, O ye sons of God" [LXX Ps. 28:1]. Gospel from Mark: "At that time, Jesus came [from Nazareth of Galilee, and was baptized of John in Jordan]..." [Mk. 1:9–11]. After this, the Priest begins the great prayer: "We glorify Thee, O Master...". And at the conclusion, the Priest says: "Peace be unto all." Deacon: "[Bow] your heads [unto the Lord]". Priest: secret prayer: "Incline Thine ear, O Lord...". Then, taking the Cross from the dish, he exclaims: "For Thou art our sanctification...". And having blessed the waters crosswise with the precious Cross, he immerses the Cross straight down into the water, chanting: "When Thou wast baptized in the Jordan, O Lord..." [Troparion of the feast]. And at the sprinkling of the sanctified water, we sing the troparion thrice. And returning unto the church, we sing: Glory, Both now: "The manifestation of the Trinity..."; Both now, Tone 6: "Let us praise, ye faithful...". After this, they kiss the precious Wood [the Cross]. Then: Litany: "Have mercy on us, O God..."; dismissal; and the First Hour.*
 *The Holy Theophany of our Lord Jesus Christ:*  
-*The Divine Liturgy takes place early, by reason of the toil of the all-night...*[^361]
-
-*...vigil. At the Divine Liturgy: Antiphon 1: Psalm 113 [LXX Ps. 113:1]: Tone 2.*  
+*The Divine Liturgy takes place early, by reason of the toil of the all-night*[^361] *vigil. At the Divine Liturgy: Antiphon 1: Psalm 113 [LXX Ps. 113:1]: Tone 2.*
 *First Choir: "In the exodus of Israel out of Egypt:"*  
 *"Through the prayers of the Mother of God, O Savior, save us!"*  
 *Second Choir: "In the exodus of Israel out of Egypt, the house of Jacob from a barbarous people:" [LXX Ps. 113:1]*  
@@ -1094,9 +848,7 @@ Grace having shone forth from thy mouth like gold, it enlightened the universe, 
 *"Save us, O Son of God, Who wast baptized in the Jordan, who sing unto Thee: Alleluia, alleluia, alleluia!"*  
 *Second Choir: "I have loved, because the Lord hath heard the voice of my supplication; because He hath inclined His ear unto me, and in my days will I call upon Him:" [LXX Ps. 114:1–2]*  
 *"Save us, O Son of God, Who wast baptized in the Jordan, who sing unto Thee: Alleluia!"*  
-*First Choir: "The sorrows of death compassed me, and the per-...*[^362]
-
-*...ils of hades found me" [LXX Ps. 114:3]. "Save us, O Son of God, Who wast baptized [in the Jordan, who sing unto Thee: Alleluia]!". Glory: "Save us, O Son of God, Who wast baptized..."; Both now: "Only-begotten Son...".*  
+*First Choir: "The sorrows of death compassed me, and the per-*[^362] *ils of hades found me" [LXX Ps. 114:3]. "Save us, O Son of God, Who wast baptized [in the Jordan, who sing unto Thee: Alleluia]!". Glory: "Save us, O Son of God, Who wast baptized..."; Both now: "Only-begotten Son...".*
 *Antiphon 3 [LXX Ps. 117:1]:*  
 *"O give thanks unto the Lord, for He is good, for His mercy endures unto ages:"*  
 *Troparion: "When Thou wast baptized in the Jordan, O Lord...".*  
@@ -1105,40 +857,28 @@ Grace having shone forth from thy mouth like gold, it enlightened the universe, 
 *"Let the house of Aaron now say that He is good, for His mercy endures unto ages:" [LXX Ps. 117:3]*  
 *Troparion: "When Thou wast baptized in the Jordan, O Lord...".*  
 *Entrance: "Blessed is He that comes in the name of the Lord; God is the Lord, and hath appeared unto us" [LXX Ps. 117:26–27]. Troparion: "When Thou wast baptized in the Jordan...". Glory, Both now, Kontakion of the feast. Instead of the Trisagion: "As many of you as have been baptized into Christ have put on Christ. Alleluia" [Gal. 3:27]. Prokeimenon, Tone 4: "Blessed is He that comes in the name of the Lord" [LXX Ps. 117:26]; Verse: "O give thanks unto the Lord, for He is good" [LXX Ps. 117:1]. Epistle to Titus: [Titus 2:11–14; 3:4–7]. Alleluia, Tone 4: "Bring unto the Lord, O ye sons of God" [LXX Ps. 28:1]; Verse: "The voice of the Lord is upon the waters" [LXX Ps. 28:3]. Gospel from Matthew: "At that time, comes Jesus [from Galilee to Jordan unto John]..." [Mt. 3:13–17]. Kinonikon: "The grace of God that brings salvation hath appeared unto all men" [Titus 2:11]. And there is consolation for the brethren, eating fish and oil.*  
-*Synaxis of the holy and glorious Prophet, Fore-...*[^363]
-
-*...runner and Baptist John [January 7]:*  
+*Synaxis of the holy and glorious Prophet, Fore-*[^363] *runner and Baptist John [January 7]:*
 *At Vespers: we do not chant the Kathisma. Stichera: 3 of the feast, 3 of the Forerunner; Glory, Tone 6: "The bodily luminary..."; Both now, Tone 6: "God the Word appeared...". Entrance. Great Prokeimenon, Tone 7: "Our God is in heaven and on earth: He hath done whatsoever He pleased" [LXX Ps. 113:11]; Verses: 1. "In the exodus of Israel out of Egypt..." [LXX Ps. 113:1]; 2. "The sea saw and fled..." [LXX Ps. 113:3]; 3. "What ailed thee, O thou sea, that thou fleddest?..." [LXX Ps. 113:5]. But if it be Saturday [evening]: "The Lord reigns..." [LXX Ps. 92:1]. At the Aposticha: Prosomoia, 3, Tone 4: "When they beheld Thee coming..."; Verses: [1. "The Lord reigns..." or "Therefore will I remember Thee..."]; 2. "The sea saw and fled"; 3. "What ailed thee, O thou sea...". Glory, Tone 4: "As a lover of the Spirit..."; Both now: of the feast, the same Tone. Troparion of the Forerunner, Tone 2: "The memory of the righteous is celebrated with hymns of praise, but the Lord's witness is sufficient for thee, O Forerunner..."; Glory, Both now, of the feast. At Matins: Troparion of the feast, twice; Glory, of the Forerunner; Both now, of the feast. After the Kathisma: Sessional hymns of the feast. Canons: of the feast to 6, and of the Forerunner to 6. After Ode 3, Hypakoe and Kontakion of the feast. After Ode 6, Kontakion, Tone 6:*  
 *Kontakion, Tone 6:*  
-*Fearing Thy bodily coming, O Christ, Jordan turned back with dread; and fulfilling the prophetic ministry, John was seized with trembling; the angelic...*[^364]
-
-*...ranks were amazed, beholding Thee baptized in the flesh in the waters, and all who sat in darkness were enlightened, hymning Thee Who hast appeared and enlightened all things!*  
+*Fearing Thy bodily coming, O Christ, Jordan turned back with dread; and fulfilling the prophetic ministry, John was seized with trembling; the angelic*[^364] *ranks were amazed, beholding Thee baptized in the flesh in the waters, and all who sat in darkness were enlightened, hymning Thee Who hast appeared and enlightened all things!*
 *At Ode 9: we do not sing "More honorable"; Exapostilarion of the feast. At the Praises: we sing 3 festal idiomela, on 4, Tone 1: "Light of light...", the first twice; Glory, Tone 6: "An Angel from swaddling bands..."; Both now, Tone 2: "Today Christ [comes] to Jordan...". Great Doxology. Troparion of the Forerunner; Glory, Both now, of the feast. Litany; dismissal.*  
 *At the Divine Liturgy: from the canons of the feast, Odes 3 and 6. Prokeimenon, Tone 7: "The righteous shall rejoice in the Lord" [LXX Ps. 63:11]; Verse: "Hear, O God, my voice" [LXX Ps. 63:2]. Epistle from Acts [Acts 19:1–8], appointed for the 6th Week [of Pascha]. Alleluia, Tone 5: "Light hath arisen for the righteous" [LXX Ps. 96:11]. Gospel from John: "At that time, John saw Jesus coming [unto him]..." [Jn. 1:29–34]. Kinonikon: "In everlasting memory [shall the righteous be]" [LXX Ps. 111:6].*  
-*If the remaining feast of the Forerunner happen to fall on a Sunday, it is sung in following of the Resurrection, which also precedes...*[^365]
-
-*...thus: and the Matins Gospel is of the Resurrection; at the Divine Liturgy, all together: of Sunday and of the Forerunner.*  
+*If the remaining feast of the Forerunner happen to fall on a Sunday, it is sung in following of the Resurrection, which also precedes*[^365] *thus: and the Matins Gospel is of the Resurrection; at the Divine Liturgy, all together: of Sunday and of the Forerunner.*
 *Saturday after Theophany: Epistle to the Ephesians [Eph. 6:10–17], lection 27. Gospel from Matthew [Mt. 4:1–11]: "At that time, Jesus was led up of the Spirit into the wilderness...".*  
 *Sunday after Theophany: At the Divine Liturgy: Prokeimenon, Tone 1: "Let Thy mercy, O Lord, be upon us" [LXX Ps. 32:22]; Verse: "Rejoice in the Lord, O ye righteous" [LXX Ps. 32:1]. Epistle to Timothy: "Child Timothy, I thank God... having in remembrance the unfeigned faith that is in thee..." [2 Tim. 1:3–5], lection for the month... Alleluia, Tone 5: "Thy mercies, O Lord, will I sing forever" [LXX Ps. 88:2]. Gospel from Matthew: "At that time, when Jesus had heard that John was delivered up, He departed into Galilee..." [Mt. 4:12–17]. Kinonikon of the feast. At the Praises.*  
 *Rubric on how to read the Epistle in upcoming Sundays: It is necessary to examine when the church is vacant, that is to say, on which day of the month; thus the previous lections are read after it, in the altar and on both sides, and likewise the Epistles.*  
 *On the 8th day: Of our venerable mother Domnica; and of our venerable father George the Chozebite; and of Saint Emilian the Confessor. Together: of the feast and of the saints.*  
-*On the 9th day: Of the holy martyr Polyeuctus...*[^366]
-
-*...and of the holy father Marcian. Together: of the feast and of the saints. Troparion: "Thy martyr [Polyeuctus], O Lord...". At Matins: after Ode 3, Kontakion; Sessional hymn of the same, Tone 4:*  
+*On the 9th day: Of the holy martyr Polyeuctus*[^366] *and of the holy father Marcian. Together: of the feast and of the saints. Troparion: "Thy martyr [Polyeuctus], O Lord...". At Matins: after Ode 3, Kontakion; Sessional hymn of the same, Tone 4:*
 *Sessional Hymn, Tone 4:*  
 *The Master having bowed His head in the Jordan, crushed the heads of the dragons; and the head of the sufferer having been cut off, the deceiver fell!*  
 *On the 10th day: Of our father among the saints Gregory, Bishop of Nyssa; and of Saint Dometian, Bishop of Melitene; and of our venerable father Marcian. The service is sung... Troparion, Tone 4: "O God of our fathers..."; Glory, Both now, of the feast. At Matins: Canon of the feast and of the saints. After Ode 3, Troparion [Sessional hymn], Tone 1, Podoben: "The angelic choir" (Ликъ ангельскій):*  
 *Sessional Hymn, Tone 1, Podoben: "The angelic choir" (Ликъ ангельскій):*  
 *Beholding with the eyes of the soul, O hierarch, thou wast revealed unto the world as a vigilant shepherd: by the rod of thy wisdom and by this thy fervent intercession, thou hast driven away all the ill-believing like wolves; keep the flock unharmed, O most wise Gregory!*  
-*After Ode 6: of the feast. At the Aposticha: all of the feast. At the Divine Liturgy: from the canons of the feast, Ode 3, and of the saint, Ode 6. Prokeimenon: "The saints shall be joyful in glory..." [LXX Ps. 149:5]...*[^367]
-
-*...and they shall exult upon their beds [LXX Ps. 149:5]. Epistle to the Ephesians: "Brethren, unto every one of us is given grace..." [Eph. 4:7], appointed for the Sunday after Theophany. Alleluia: "Thy priests shall clothe themselves with righteousness..." [LXX Ps. 131:9]. Gospel from Matthew, November 23: "The Lord said: Ye are the light of the world..." [Mt. 5:14–19]. Kinonikon: "In everlasting memory [shall the righteous be]" [LXX Ps. 111:6].*  
+*After Ode 6: of the feast. At the Aposticha: all of the feast. At the Divine Liturgy: from the canons of the feast, Ode 3, and of the saint, Ode 6. Prokeimenon: "The saints shall be joyful in glory..." [LXX Ps. 149:5]*[^367] *and they shall exult upon their beds [LXX Ps. 149:5]. Epistle to the Ephesians: "Brethren, unto every one of us is given grace..." [Eph. 4:7], appointed for the Sunday after Theophany. Alleluia: "Thy priests shall clothe themselves with righteousness..." [LXX Ps. 131:9]. Gospel from Matthew, November 23: "The Lord said: Ye are the light of the world..." [Mt. 5:14–19]. Kinonikon: "In everlasting memory [shall the righteous be]" [LXX Ps. 111:6].*
 *On the 11th day: Of our venerable father Theodosius the Cenobiarch.*  
 *At Vespers: "Blessed is the man..." [Kathisma 1]. Stichera of the saint, on 6, Tone 5: "O venerable father..."; Both now, of the feast. Entrance; Prokeimenon of the day; 3 Lections common to venerable fathers. At the Aposticha: of the feast; Glory: "The multitude of the monastics..."; Both now, of the feast. Troparion: "With the streams of thy tears..." [Tone 8]; Glory, Both now, of the feast. At Matins: Troparion of the feast, twice; Glory, of the saint; Both now, of the feast. After the Kathismata: Sessional hymns of the feast; and the Polyeleos. Sessional hymn of the saint of the same tone. Prokeimenon: "Precious in the sight of the Lord is the death of His saints" [LXX Ps. 115:6]; Verse: "What shall I render unto the Lord for all that He hath rendered unto me?" [LXX Ps. 115:3]. Gospel from Luke, in memory of the 20th Sunday: "At that time, Jesus stood on a level place..." [Lk. 6:17–23]. Psalm 50 [LXX Ps. 50:3]; Sticheron of the saint. Canons: of the feast to 6, and of the saint to 6; Katavasia: "The depths of the sea...". After Ode 3, Kontakion of the saint, Tone 8:*  
 *Kontakion, Tone 8:*  
-*Planted in the courts of the Lord, Thou hast brought forth Thy venerable virtues...*[^368]
-
-*...and hast multiplied thy children in the wilderness, and with the streams of thy tears waterest the flock, O head of the divine courts; therefore we cry unto thee: Rejoice, O our father Theodosius!*  
+*Planted in the courts of the Lord, Thou hast brought forth Thy venerable virtues*[^368] *and hast multiplied thy children in the wilderness, and with the streams of thy tears waterest the flock, O head of the divine courts; therefore we cry unto thee: Rejoice, O our father Theodosius!*
 *Then Sessional hymn of the saint; Glory, Both now, of the feast. After Ode 6, Kontakion of the feast. At Ode 9: Exapostilarion of the feast and of the saint. At the Praises: Prosomoia of the saint, on 4; Glory, Tone 2: "A ladder of virtues..."; Both now, of the feast: "Today Christ [comes] to Jordan...". Great Doxology; litany; dismissal.*  
 *At the Divine Liturgy: from the canons of the feast to 6, and of the saint to 6. Prokeimenon: "Precious in the sight of the Lord is the death of His saints" [LXX Ps. 115:6]; Verse: "What shall I render unto the Lord?" [LXX Ps. 115:3]. Epistle of the 15th Sunday [2 Cor. 4:6–15 or Gal. 5:22–6:2]. Alleluia: "Blessed is the man that fears the Lord" [LXX Ps. 111:1]; Verse: "His seed shall be mighty upon earth" [LXX Ps. 111:2]. Gospel from Matthew, Thursday of the 3rd Week [Mt. 11:27–30]: "The Lord said: All things [are delivered unto Me of My Father]...". Kinonikon: "In everlasting memory [shall the righteous be]" [LXX Ps. 111:6].*  
 *On the 12th day: Of the holy martyr Tatiana. Together: of the feast and of the saint; at the Liturgy: of the feast and of the saint.*  
@@ -1150,29 +890,21 @@ Grace having shone forth from thy mouth like gold, it enlightened the universe, 
 *Fleeing the turmoil of this world, ye joined yourselves unto a tranquil haven, crowned by the blood of martyrdom and the sufferings of abstinence; therefore ye were revealed as kin unto both martyrs and the venerable!*  
 *After Ode 6, Kontakion of the feast. At the Aposticha: after the feast; Glory, Tone 8: "Blessed are ye..."; Both now, of the feast. At the Divine Liturgy: from the canon of the feast, Ode 3, and of the holy fathers, Ode 6. Prokeimenon: "Marvelous is God in His saints" [LXX Ps. 67:36]; Verse: "In the congregations bless ye God" [LXX Ps. 67:27]. Epistle of the 33rd Sunday [Heb. 11:33–40]. Alleluia: "The righteous cried, and the Lord heard them" [LXX Ps. 33:18]. Gospel from Luke, for the memory, of the 2nd Sunday [Lk. 6:17–23]. Kinonikon: "Rejoice in the Lord, O ye righteous" [LXX Ps. 32:1].*  
 *On the 14th day: Of our venerable fathers, abba Adam, Benjamin, and those slain in Raithu [and Sinai]:*  
-*At Vespers: Stichera: 3 of the feast, repeated twice [to 6], Tone 2: "O our Enlightener..."; Glory, Both now: "Thou hast bowed Thy head..."; Prokeimenon...*[^370]
-
-*...of the day, without entrance, without lections. At the Aposticha: of the feast; Idiomela, Tone 2: "In the Jordan...", "The waters saw Thee...", "Today again...", with their verses. Glory, Both now, Tone 6: "Sun from the Virgin...". Troparion of the feast.*  
+*At Vespers: Stichera: 3 of the feast, repeated twice [to 6], Tone 2: "O our Enlightener..."; Glory, Both now: "Thou hast bowed Thy head..."; Prokeimenon*[^370] *of the day, without entrance, without lections. At the Aposticha: of the feast; Idiomela, Tone 2: "In the Jordan...", "The waters saw Thee...", "Today again...", with their verses. Glory, Both now, Tone 6: "Sun from the Virgin...". Troparion of the feast.*
 *At Matins: [Troparion of the feast] thrice. Two canons: one with its heirmos to 8, and the other with its heirmos to 6; Katavasia: "The depths of the sea...", both choirs together. After Ode 3, Sessional hymn of the feast. After Ode 6, Kontakion and Ikos. At Ode 9: we do not sing "More honorable". Festal Exapostilarion twice. At the Praises: festal [stichera], Tone 1: "Light of light...", on 4; Glory, Tone 6: "The streams of Jordan..."; Both now, Tone 2: "Today Christ [comes to Jordan]...". Great Doxology. Troparion of the feast; readings of the Tone; dismissal. Ordinary.*  
 *The Holy Liturgy: of the feast, from both canons, Ode 9 with its heirmos to 8. Troparion of the feast; Glory, Both now, Kontakion of the feast. Prokeimenon: "Blessed is He that comes in the name of the Lord" [LXX Ps. 117:26]; Verse: "O give thanks unto the Lord, for He is good" [LXX Ps. 117:1]. Epistle of that day. Alleluia: "Bring unto the Lord, O ye sons of God" [LXX Ps. 28:1]; Verse: "The voice of the Lord is upon the waters" [LXX Ps. 28:3]. Gospel of that day. Kinonikon of the feast: "The grace of God hath appeared..." [Titus 2:11].*  
-*Of the holy and venerable fathers our...*[^371]
-
-*...Paul of Thebes and John the Hut-Dweller [January 15]:*  
+*Of the holy and venerable fathers our*[^371] *Paul of Thebes and John the Hut-Dweller [January 15]:*
 *At Vespers: Stichera of the venerable ones, those of Paul of Thebes going before; Glory, Tone 2: "Thou hast rejected [worldly pleasure]..."; Both now, Theotokion. At the Aposticha: from the Octoechos; Glory, Tone 6: "O venerable father..."; Both now, Theotokion. Troparion: "O God of our fathers..." [Tone 4]; Glory, Both now, Theotokion.*  
 *At Matins: we begin chanting 3 Kathismata at Matins, and at Vespers: "In my distress I cried unto the Lord..." [Kathisma 18, LXX Ps. 119–133]. Sessional hymns in the Octoechos. And we recite the biblical canticles by themselves; Canon of the Octoechos to 6, and of the saints two [canons to 8]. After Ode 3, Kontakion, Tone 3, Podoben: "Today the Virgin" (Дѣва днесь):*  
 *Kontakion, Tone 3, Podoben: "Today the Virgin" (Дѣва днесь):*  
 *Gathering today, let us praise with hymns the unwaning luminary of the spiritual Sun: for thou hast shone forth upon those sitting in the darkness of ignorance, leading all up unto the divine height, O adornment of Thebes, venerable father Paul, and firm foundation of fasters!*  
 *Sessional hymn of Paul of Thebes; Glory, of John; Both now, Theotokion. After Ode 6, Kontakion of John, Tone 2:*  
 *Kontakion, Tone 2:*  
-*Desiring to attain the things on high, O most wise one, and despising the beauty of things below, Thou didst disdain worldly glory, and unto Christ Who became poor Thou...*[^372]
-
-*...having become poor, didst follow rejoicing, O father John: therefore praying fervently unto Him, cease not to intercede for us all!*  
+*Desiring to attain the things on high, O most wise one, and despising the beauty of things below, Thou didst disdain worldly glory, and unto Christ Who became poor Thou*[^372] *having become poor, didst follow rejoicing, O father John: therefore praying fervently unto Him, cease not to intercede for us all!*
 *At the Aposticha: from the Octoechos; Glory: "The multitude of monastics..."; Both now, Theotokion. At the Divine Liturgy: from the canon of Paul of Thebes, Ode 3, and of John, Ode 6. Prokeimenon: "The saints shall be joyful in glory" [LXX Ps. 149:5]; Verse: "Sing unto the Lord a new song" [LXX Ps. 149:1]. Epistle: Saturday 27 [lection 27 / Eph. 6:10–17]. Alleluia: "Blessed is the man that fears the Lord" [LXX Ps. 111:1]; Verse: "His seed shall be mighty upon earth" [LXX Ps. 111:2]. Gospel from Matthew, Thursday of the 3rd Week: "The Lord said: All things are delivered unto Me [of My Father]..." [Mt. 11:27–30]. Kinonikon: "In everlasting memory [shall the righteous be]" [LXX Ps. 111:6].*  
 *Be it known: from this day we begin to sing the Mid-Hours in church; the Supplicatory Canon unto the Most Holy Mother of God we sing at Compline, by two [troparia], and the canon in the Octoechos.*  
 *At Matins: The Veneration of the Precious Chains of the Holy and All-Lauded Apostle Peter [January 16]:*  
-*At Vespers: Kathisma: "In my distress I cried unto the Lord..." [Kathisma 18, LXX Ps. 119–133]. Stichera of the Apostle, on 6; Glory, Tone 6: "Today unto us..."; Both now, Theotokion. At the Aposticha: in the Octoechos; Glory, Tone 6: "Again unto us..."; Both now, Theotokion. Troparion, Tone 4: "Without leaving Rome, unto us..."*[^373]
-
-*...Thou hast come, and the honorable chains which thou didst bear, O foremost enthroned among the Apostles; which venerating in faith, we pray that by thy supplications unto God He may grant unto us great mercy!"; Both now, Theotokion.*  
+*At Vespers: Kathisma: "In my distress I cried unto the Lord..." [Kathisma 18, LXX Ps. 119–133]. Stichera of the Apostle, on 6; Glory, Tone 6: "Today unto us..."; Both now, Theotokion. At the Aposticha: in the Octoechos; Glory, Tone 6: "Again unto us..."; Both now, Theotokion. Troparion, Tone 4: "Without leaving Rome, unto us"*[^373] *Thou hast come, and the honorable chains which thou didst bear, O foremost enthroned among the Apostles; which venerating in faith, we pray that by thy supplications unto God He may grant unto us great mercy!"; Both now, Theotokion.*
 *At Matins: 3 Kathismata; Sessional hymns in the Octoechos. Canon of the Octoechos and of the saint on 6. After Ode 6, Kontakion, Tone 2:*  
 *Kontakion, Tone 2:*  
 *Let us praise the chief and first of the Apostles, the truly divine disciple, Peter the Great, and in faith let us kiss his chains, receiving remission of sins!*  
@@ -1183,58 +915,42 @@ Grace having shone forth from thy mouth like gold, it enlightened the universe, 
 *At Little Vespers: from the Octoechos on 4; Glory, of the saint; Both now, Theotokion. At the Aposticha: from the Octoechos; Glory, of the saint; Both now, Theotokion. Troparion of the saint, Tone 4:*  
 *Troparion, Tone 4:*  
 *Zealous like Elijah, imitating the ways of the Baptist, by right paths thou didst follow, O father Antony: a desert dweller, and thou didst establish the universe by thy prayers; pray unto Christ God that our souls may be saved!*  
-*Glory, Both now, Theotokion. At Great Vespers: "Blessed is the man..." [Kathisma 1]. On "Lord, I have cried": Prosomoia, 3, Tone 4, Podoben: "Called from on high" (Званному свыше), on 8; Glory, Tone 6: "According to the image..."; Both now, Dogmatikon Theotokion: "Who would not bless thee...?". Entrance; Prokeimenon; 3 Lections common to venerable monastics. At the Litiya: Idiomela, 3, of the saint, Tone 2; Glory, Tone 5: "O venerable father..."; Both now, Theotokion: "Sing, O ye people...". At the Aposticha: Prosomoia, 3; Glory of the saint, Tone 8: "The multitude of monastics..."; Both now, Theotokion. Blessing of loaves: "Rejoice, O Virgin Theotokos..." twice, and of the saint once: "Zealous like Elijah...", and reading of the holy...*[^375]
-
-*...from the Life of the saint. At Matins: Troparion of the saint; Glory, Both now, Theotokion. 3 Kathismata; Sessional hymns of the saint; and the Polyeleos. Sessional hymn of the 4th Tone. Prokeimenon: "Precious in the sight of the Lord is the death of His saints" [LXX Ps. 115:6]; Verse: "What shall I render unto the Lord for all that He hath rendered unto me?" [LXX Ps. 115:3]. "Let every breath praise the Lord" [LXX Ps. 150:6]. Gospel from Luke, in memory of the 2nd Sunday [Lk. 6:17–23]. Psalm 50 [LXX Ps. 50:3]; Sticheron of the saint. Canon of the Mother of God: "Holding fast amidst many [temptations]...", with the heirmos to 6, and of the saint to 8. After Ode 3, Sessional hymn; Glory, Both now, Theotokion. After Ode 6, Kontakion of the saint, Tone 2, Podoben: "Seeking the highest" (Въ вышнихъ ищя):*  
+*Glory, Both now, Theotokion. At Great Vespers: "Blessed is the man..." [Kathisma 1]. On "Lord, I have cried": Prosomoia, 3, Tone 4, Podoben: "Called from on high" (Званному свыше), on 8; Glory, Tone 6: "According to the image..."; Both now, Dogmatikon Theotokion: "Who would not bless thee...?". Entrance; Prokeimenon; 3 Lections common to venerable monastics. At the Litiya: Idiomela, 3, of the saint, Tone 2; Glory, Tone 5: "O venerable father..."; Both now, Theotokion: "Sing, O ye people...". At the Aposticha: Prosomoia, 3; Glory of the saint, Tone 8: "The multitude of monastics..."; Both now, Theotokion. Blessing of loaves: "Rejoice, O Virgin Theotokos..." twice, and of the saint once: "Zealous like Elijah...", and reading of the holy*[^375] *from the Life of the saint. At Matins: Troparion of the saint; Glory, Both now, Theotokion. 3 Kathismata; Sessional hymns of the saint; and the Polyeleos. Sessional hymn of the 4th Tone. Prokeimenon: "Precious in the sight of the Lord is the death of His saints" [LXX Ps. 115:6]; Verse: "What shall I render unto the Lord for all that He hath rendered unto me?" [LXX Ps. 115:3]. "Let every breath praise the Lord" [LXX Ps. 150:6]. Gospel from Luke, in memory of the 2nd Sunday [Lk. 6:17–23]. Psalm 50 [LXX Ps. 50:3]; Sticheron of the saint. Canon of the Mother of God: "Holding fast amidst many [temptations]...", with the heirmos to 6, and of the saint to 8. After Ode 3, Sessional hymn; Glory, Both now, Theotokion. After Ode 6, Kontakion of the saint, Tone 2, Podoben: "Seeking the highest" (Въ вышнихъ ищя):*
 *Kontakion, Tone 2, Podoben: "Seeking the highest" (Въ вышнихъ ищя):*  
 *Forsaking the turmoils of this life, thou didst end thy life in stillness, imitating the Baptist in all things and in his ways, O venerable one; therefore with him we honor thee, O father of fathers, Antony!*  
 *At the Praises: of the saint, on 4; Glory, Tone 8: "Flocking together, [the multitudes of monks]..."; Both now, Theotokion. Great Doxology. Troparion of the saint; Glory, Both now, Theotokion. Litany; dismissal. And the Priest gives holy oil unto the brethren from the vigil lamp of the saint.*  
-*At the Divine Liturgy: from the canon of the saint, Odes 3 and 6. Prokeimenon: "The righteous shall rejoice in the Lord" [LXX Ps. 63:11]; Verse: "Hear, O God, my voice" [LXX Ps. 63:2]. Epistle: lection 213 [Gal. 5:22–6:2]. Alleluia: "Blessed is the man that fears the Lord" [LXX Ps. 111:1]; Verse: "His seed shall be mighty upon earth" [LXX Ps. 111:2]. Gospel...*[^376]
-
-*...from Matthew, Thursday of the 3rd Week: "The Lord said: All things [are delivered unto Me of My Father]..." [Mt. 11:27–30]. Kinonikon: "In everlasting memory [shall the righteous be]" [LXX Ps. 111:6]. If the commemoration of Antony the Great fall on a Sunday, search in the Rubric of the Tone.*  
+*At the Divine Liturgy: from the canon of the saint, Odes 3 and 6. Prokeimenon: "The righteous shall rejoice in the Lord" [LXX Ps. 63:11]; Verse: "Hear, O God, my voice" [LXX Ps. 63:2]. Epistle: lection 213 [Gal. 5:22–6:2]. Alleluia: "Blessed is the man that fears the Lord" [LXX Ps. 111:1]; Verse: "His seed shall be mighty upon earth" [LXX Ps. 111:2]. Gospel*[^376] *from Matthew, Thursday of the 3rd Week: "The Lord said: All things [are delivered unto Me of My Father]..." [Mt. 11:27–30]. Kinonikon: "In everlasting memory [shall the righteous be]" [LXX Ps. 111:6]. If the commemoration of Antony the Great fall on a Sunday, search in the Rubric of the Tone.*
 *Of our fathers among the saints, the Archbishops of Alexandria, Athanasius the Great and Cyril [January 18]:*  
 *At Vespers: Stichera of the saints, 3 [repeated to 6]; on the Praises [or "Lord, I have cried"]... At the Aposticha: from the Octoechos; Glory, Tone 3: "Again unto us..."; Both now, Theotokion. Troparion: "O God of our fathers..." [Tone 4], according to custom; Glory, Both now, Theotokion. At Matins: Canon of the Octoechos to 6, and of the saints two [canons] to 6. Kontakion, Tone 4:*  
 *Kontakion, Tone 4:*  
 *Great hierarchs of piety and valiant champions of the Church of Christ, protect all who sing: Save, O Merciful One, those who hymn Thee in faith!*  
 *At the Praises: from the Octoechos of the Tone... Verse: "Thy priests shall clothe themselves with righteousness" [LXX Ps. 131:9]. And there is sung the Sticheron, Tone 3: "Greater than..."; Glory, Tone 3: "Great achievements..."; Both now, Theotokion. At the Divine Liturgy: from the Octoechos, and from the canon, Ode 3 of Saint Athanasius [and Ode 6 of Cyril]. Prokeimenon: "The saints shall be joyful in glory" [LXX Ps. 149:5]. Epistle: December 6 [lection 334 / Heb. 13:17–21]. Alleluia: "Thy priests shall clothe themselves with righteousness" [LXX Ps. 131:9]. Gospel: November 23: "The Lord said: Ye are the light of the world..." [Mt. 5:14–19]. Kinonikon: "Rejoice in the Lord, O ye righteous" [LXX Ps. 32:1].*  
 *Of our venerable father Macarius of Egypt [January 19]:*  
-*At Vespers: Stichera on 6; Glory, Tone 8: "Rejoice..."; Both now, Theotokion. At the Aposticha: from the Octoechos; Glory, Tone 6...*[^377]
-
-*...[Glory, Tone 6:] "O venerable father..."; Both now, Theotokion. Troparion: "A dweller of the desert..." [Tone 1]; Glory, Both now, Theotokion. At Matins: Canon of the Octoechos and of the saint to 6. After Ode 6, Kontakion, Tone 4:*  
+*At Vespers: Stichera on 6; Glory, Tone 8: "Rejoice..."; Both now, Theotokion. At the Aposticha: from the Octoechos; Glory, Tone 6*[^377] *[Glory, Tone 6:] "O venerable father..."; Both now, Theotokion. Troparion: "A dweller of the desert..." [Tone 1]; Glory, Both now, Theotokion. At Matins: Canon of the Octoechos and of the saint to 6. After Ode 6, Kontakion, Tone 4:*
 *Kontakion, Tone 4:*  
 *Having ended a blessed life in the flesh, with the choirs of martyrs thou wast counted among the meek, worthily taking up thy dwelling, O God-bearing Macarius; and inhabiting the wildernesses as if they were cities, thou hast received the grace of wonders from God: therefore we honor Thee!*  
 *At the Aposticha: from the Octoechos; Glory, Tone 4: "Good deeds have shone forth..."; Both now, Theotokion. At the Divine Liturgy: in the Octoechos, and from the canon of the saint, Ode 6. Prokeimenon: "The saints shall be joyful in glory" [LXX Ps. 149:5]; Verse: "Sing unto the Lord a new song" [LXX Ps. 149:1]. Epistle: Saturday 27 [Gal. 5:22–6:2]. Alleluia: "Blessed is the man that fears the Lord" [LXX Ps. 111:1]; Verse: "His seed shall be mighty upon earth" [LXX Ps. 111:2]. Gospel from Matthew, Thursday of the 3rd Week: [Mt. 11:27–30]. Kinonikon: "In everlasting memory [shall the righteous be]" [LXX Ps. 111:6].*  
 *Of our venerable and God-bearing father Euthymius the Great [January 20]:*  
 *All-night chanting, if the superior so desires.*  
-*At Vespers: "Blessed is the man..." [Kathisma 1]. Stichera of the saint, on 8, Tone 1, Podoben: "O all-praised martyrs" (Прехвальніи мученицы): Glory, Tone 3: "From the beginning..."; Both now, Theotokion...*[^378]
-
-*...[Both now, Dogmatikon Theotokion, Tone 3:] "How can we not wonder...?". Entrance; Prokeimenon; and 3 Lections common to venerable monastics. At the Litiya: Idiomela, 3, of the saint, Tone 2; Glory, Tone 4: "Good deeds have shone forth..."; Both now, Theotokion: "All-radiant [Virgin]...". At the Aposticha: Prosomoia, 3, Tone 5; Glory, Tone 8: "The multitude of monastics..."; Both now, Theotokion. Troparion, Tone 4:*  
+*At Vespers: "Blessed is the man..." [Kathisma 1]. Stichera of the saint, on 8, Tone 1, Podoben: "O all-praised martyrs" (Прехвальніи мученицы): Glory, Tone 3: "From the beginning..."; Both now, Theotokion*[^378] *[Both now, Dogmatikon Theotokion, Tone 3:] "How can we not wonder...?". Entrance; Prokeimenon; and 3 Lections common to venerable monastics. At the Litiya: Idiomela, 3, of the saint, Tone 2; Glory, Tone 4: "Good deeds have shone forth..."; Both now, Theotokion: "All-radiant [Virgin]...". At the Aposticha: Prosomoia, 3, Tone 5; Glory, Tone 8: "The multitude of monastics..."; Both now, Theotokion. Troparion, Tone 4:*
 *Troparion, Tone 4:*  
 *Be glad, O barren desert that bearest not, and take good courage, thou that travailest not; for the man of spiritual desires hath multiplied thy children, planting them in piety and rearing them in temperance unto the perfection of virtues: by his prayers, O Christ God, give peace unto our life!*  
-*Glory, Both now, Theotokion. At Matins: 3 Kathismata; and the Polyeleos; Sessional hymns of the saint; Sessional hymn of the 4th Tone. Prokeimenon: "Precious in the sight of the Lord is the death of His saints" [LXX Ps. 115:6]; Verse: "What shall I render unto the Lord for all that He hath rendered unto me?" [LXX Ps. 115:3]. "Let every breath praise the Lord" [LXX Ps. 150:6]. Gospel from Luke, in memory of the 2nd Sunday [Lk. 6:17–23]. Psalm 50 [LXX Ps. 50:3]; Sticheron of the saint. Canon of the Mother of God with its heirmos to 6, Tone 8: "Holding fast amidst many [temptations]...", and of the saint to 8. After Ode 3, Sessional hymn of the saint. After Ode 6, Kontakion, Tone 8: "In thy precious nativity the creation found joy, and in the divine..."*[^379]
-
-*...and in thy memory, O venerable one, having received the grace of thy many wonders: from which grant also wealth into our souls, having cleansed the defilements of sins, that we may sing: Alleluia!*  
+*Glory, Both now, Theotokion. At Matins: 3 Kathismata; and the Polyeleos; Sessional hymns of the saint; Sessional hymn of the 4th Tone. Prokeimenon: "Precious in the sight of the Lord is the death of His saints" [LXX Ps. 115:6]; Verse: "What shall I render unto the Lord for all that He hath rendered unto me?" [LXX Ps. 115:3]. "Let every breath praise the Lord" [LXX Ps. 150:6]. Gospel from Luke, in memory of the 2nd Sunday [Lk. 6:17–23]. Psalm 50 [LXX Ps. 50:3]; Sticheron of the saint. Canon of the Mother of God with its heirmos to 6, Tone 8: "Holding fast amidst many [temptations]...", and of the saint to 8. After Ode 3, Sessional hymn of the saint. After Ode 6, Kontakion, Tone 8: "In thy precious nativity the creation found joy, and in the divine"*[^379] *and in thy memory, O venerable one, having received the grace of thy many wonders: from which grant also wealth into our souls, having cleansed the defilements of sins, that we may sing: Alleluia!*
 *At the Praises: Prosomoia 3, and of the saint on 4, Tone 4, Podoben: "Called from on high" (Званый свыше); Glory, Tone 5: "O venerable father, thou gavest no sleep unto thine eyes..."; Both now, Theotokion. Great Doxology. Troparion of the saint; litany; dismissal. And holy oil is given.*  
 *At the Divine Liturgy: from the canon of the saint, Odes 3 and 6. Prokeimenon, Tone 7: "The righteous shall rejoice in the Lord" [LXX Ps. 63:11]; Verse: "Hear, O God, my voice" [LXX Ps. 63:2]. Epistle: Saturday 27 [Gal. 5:22–6:2]. Alleluia: "Blessed is the man that fears the Lord" [LXX Ps. 111:1]; Verse: "His seed shall be mighty upon earth" [LXX Ps. 111:2]. Gospel from Matthew, Thursday of the 3rd Week: "The Lord said: All things are delivered unto Me of My Father..." [Mt. 11:27–30]. Kinonikon: "In everlasting memory shall the righteous be" [LXX Ps. 111:6].*  
 *On the 21st day: Of our venerable father Maximus the Confessor; and of the holy martyr Neophytus; and of the holy martyr Eugene, and those with him:*  
-*At Vespers: Stichera of the saint on 6, Tone 8, Podoben: "What a marvelous wonder" (Покидно жество); Both now, Theotokion. At the Aposticha: from the Octoechos. Troparion: "Guide of Orthodoxy...", October 11; Glory, to the martyrs: "Thy martyrs, O Lord..."; Both now, Theotokion. At Matins...*[^380]
-
-*...Canon of the Octoechos, and of the saints two. After Ode 3, Kontakion, Tone 6:*  
+*At Vespers: Stichera of the saint on 6, Tone 8, Podoben: "What a marvelous wonder" (Покидно жество); Both now, Theotokion. At the Aposticha: from the Octoechos. Troparion: "Guide of Orthodoxy...", October 11; Glory, to the martyrs: "Thy martyrs, O Lord..."; Both now, Theotokion. At Matins*[^380] *Canon of the Octoechos, and of the saints two. After Ode 3, Kontakion, Tone 6:*
 *Kontakion, Tone 6:*  
 *As a star of the Epiphany of the faith, let us praise Neophytus who zealously suffered for Christ, worthily crowning Him with a crown, crying: Praying unto Christ, come, He gives the joy of salvation!*  
 *Then the Sessional hymn of the saints. After Ode 6, Kontakion to Maximus, Tone 6:*  
 *Kontakion, Tone 6:*  
 *The tri-radiant Light having taken up His abode in thy soul, showed thee forth, O all-blessed one, as a chosen vessel, declaring unto the ends of the earth divine things that are hard to understand, O most wise one; and thou didst clearly preach unto all the Trinity, transcendently radiant in essence and unoriginate!*  
-*At the Aposticha: in the Octoechos; Glory, Tone 6: "O venerable father, into all the earth..."; Both now, Theotokion. At the Divine Liturgy: Prokeimenon: "Unto the saints that are in His earth" [LXX Ps. 15:3]; Verse: "I foresaw the Lord always before me" [LXX Ps. 15:8]. Epistle to the Hebrews, of All Saints [Heb. 11:33–12:2]. Alleluia: "The righteous cried, and the Lord heard them" [LXX Ps. 33:18]. Gospel from Matthew, 20th Saturday [lection 20 / Mt. 7:24–8:4]...*[^381]
-
-*...[On the 22nd day: Of the holy Apostle Timothy, and of the holy venerable] martyr Anastasius the Persian:*  
+*At the Aposticha: in the Octoechos; Glory, Tone 6: "O venerable father, into all the earth..."; Both now, Theotokion. At the Divine Liturgy: Prokeimenon: "Unto the saints that are in His earth" [LXX Ps. 15:3]; Verse: "I foresaw the Lord always before me" [LXX Ps. 15:8]. Epistle to the Hebrews, of All Saints [Heb. 11:33–12:2]. Alleluia: "The righteous cried, and the Lord heard them" [LXX Ps. 33:18]. Gospel from Matthew, 20th Saturday [lection 20 / Mt. 7:24–8:4]*[^381] *[On the 22nd day: Of the holy Apostle Timothy, and of the holy venerable] martyr Anastasius the Persian:*
 *At Vespers: Stichera of the saints on 6; Glory, Tone 8: "Commanded..."; Both now, Theotokion. At the Aposticha: and he says the verse: "Into all the earth is their sound gone forth" [LXX Ps. 18:5]; then Idiomelon, Tone 1: "A luminary..."; Glory, Tone 2: "Thou hast magnified Thy martyr, O Christ..."; Both now, Theotokion. Troparion: "Having learned goodness..." [Tone 4], October 3; Glory: "Thy martyr, O Lord..."; [Both now, Theotokion].*  
 *At Matins: Canon in the Octoechos, and of the saints two. After Ode 6, Kontakion, Tone 4:*  
 *Kontakion, Tone 4:*  
 *The divine disciple and fellow-prisoner of Paul, Timothy, let all of us faithful hymn, honoring with him the wise Anastasius, who shone forth from Persia as a star, and drives away our spiritual passions and bodily sicknesses!*  
-*At the Aposticha: then the verse: "The righteous shall flourish like a palm tree" [LXX Ps. 91:13]; and they sing Idiomela, Tone 1; Glory, Tone 5: "O venerable father, victorious..."; Both now, Theotokion. At the Divine Liturgy: in the Octoechos, and from the canon of the Apostle, Ode 6. Prokeimenon: "Their sound is gone out into all the earth" [LXX Ps. 18:5]. Epistle to Timothy: "Child Timothy, I thank God..." [2 Tim. 1:3–9]...*[^382]
-
-*...[Prokeimenon: "My mouth shall speak wisdom" [LXX Ps. 48:4];] Verse: "Hear this, all ye nations" [LXX Ps. 48:2]. Gospel from John, Thursday of the 5th week after Pascha, from midday [Jn. 10:9–16]. Psalm 50 [LXX Ps. 50:3]; Sticheron of the saint. Canon in the Octoechos to 6, and of the saint to 6. After Ode 3, Sessional hymn of the saint; Glory, Both now, Theotokion. After Ode 6, Kontakion, Tone 3, Podoben: "Today the Virgin" (Дѣва днесь):*  
+*At the Aposticha: then the verse: "The righteous shall flourish like a palm tree" [LXX Ps. 91:13]; and they sing Idiomela, Tone 1; Glory, Tone 5: "O venerable father, victorious..."; Both now, Theotokion. At the Divine Liturgy: in the Octoechos, and from the canon of the Apostle, Ode 6. Prokeimenon: "Their sound is gone out into all the earth" [LXX Ps. 18:5]. Epistle to Timothy: "Child Timothy, I thank God..." [2 Tim. 1:3–9]*[^382] *[Prokeimenon: "My mouth shall speak wisdom" [LXX Ps. 48:4];] Verse: "Hear this, all ye nations" [LXX Ps. 48:2]. Gospel from John, Thursday of the 5th week after Pascha, from midday [Jn. 10:9–16]. Psalm 50 [LXX Ps. 50:3]; Sticheron of the saint. Canon in the Octoechos to 6, and of the saint to 6. After Ode 3, Sessional hymn of the saint; Glory, Both now, Theotokion. After Ode 6, Kontakion, Tone 3, Podoben: "Today the Virgin" (Дѣва днесь):*
 *Kontakion, Tone 3, Podoben: "Today the Virgin" (Дѣва днесь):*  
 *By thy theological tongue thou didst dissolve the rhetorical entanglements, O glorious one; with the garment of Orthodoxy woven from on high thou hast clothed the Church; which also wearing salvation, we cry unto thee with thy children: Rejoice, O father, perfect theological mind!*  
 *Sessional hymn. At the Praises: Prosomoia 3, Tone 4, Podoben: "Called from on high" (Званый свыше); and repeated 3, Tone 4: "Divine...", and two others; Glory, Tone 1: "The spiritual flute..."; Both now, Theotokion. Great Doxology. Troparion of the saint; litany; dismissal; and holy oil is given.*  
@@ -1245,23 +961,17 @@ Grace having shone forth from thy mouth like gold, it enlightened the universe, 
 *Fleeing the sea of this life, Xenophon the righteous, with his honorable spouse, rejoices in the heavens with his children, magnifying Christ!*  
 *On the 27th day: The Return of the Relics of our father among the saints, John Chrysostom, Patriarch of Constantinople:*  
 *At Vespers: "Blessed is the man" [Kathisma 1]. Stichera on 6: "The gold-forged trumpet..."; Glory, Tone 4: "Thou wast, O Chrysostom..."; Both now, Theotokion. Entrance; Prokeimenon; and 3 Lections, as on [November] 13. At the Aposticha: Prosomoia 3, Tone 5. And they say verses: "My mouth shall speak wisdom" [LXX Ps. 48:4]; "The mouth of the righteous distills wisdom" [Prov. 10:31]; Glory, Tone 6: "O venerable, thrice-blessed father..."; Both now, Theotokion: "Thou art the true vine...". Troparion: "From thy mouth the grace of thy words shining forth...", as on [November] 13.*  
-*At Matins: Customary Kathisma psalmody. And the Polyeleos. Sessional hymns of the 4th Tone. Prokeimenon: "My mouth shall speak wisdom"...*[^384]
-
-*...[My mouth shall speak wisdom; Verse: "Hear this, all ye nations" [LXX Ps. 48:2].] Gospel from John, Thursday of the 5th week after Pascha, from midday [Jn. 10:9–16]. Psalm 50 [LXX Ps. 50:3]; Sticheron of the saint. Canons: in the Octoechos, and of the saint to 6; Katavasia: "The depths of the sea..." [Tone 2]. After Ode 3, Kontakion, Tone 1, Podoben: "When Thou shalt come" (Егда прииде):*  
+*At Matins: Customary Kathisma psalmody. And the Polyeleos. Sessional hymns of the 4th Tone. Prokeimenon: "My mouth shall speak wisdom"*[^384] *[My mouth shall speak wisdom; Verse: "Hear this, all ye nations" [LXX Ps. 48:2].] Gospel from John, Thursday of the 5th week after Pascha, from midday [Jn. 10:9–16]. Psalm 50 [LXX Ps. 50:3]; Sticheron of the saint. Canons: in the Octoechos, and of the saint to 6; Katavasia: "The depths of the sea..." [Tone 2]. After Ode 3, Kontakion, Tone 1, Podoben: "When Thou shalt come" (Егда прииде):*
 *Kontakion, Tone 1, Podoben: "When Thou shalt come" (Егда прииде):*  
 *Mystically the honorable Church was glad at the translation of thy precious relics; having hidden them like costly gold, unto those who praise thee unceasingly thou grantest by thy prayers the grace of healing, O John Chrysostom!*  
 *After Ode 6, Kontakion: "Thou didst receive divine grace from heaven...", as on [November] 13. After Ode 9, Exapostilarion. At the Praises: we sing 6 stichera: Prosomoia 3, Tone 4, and Idiomela 3, Tone 1: "Grace was poured out...", "The Church is glad..."; another, Tone 2: "Today the Church of Christ...", of Basil the Great; Glory, Tone 4: "O Chrysostom..."; Both now, Theotokion. Great Doxology. Troparion of the saint; litany; dismissal. And holy oil is given, taken from the vigil lamp of the saint. At the Divine Liturgy: service as on [November] 13.*  
 *On the 28th day: Of our venerable father Ephrem the Syrian:*  
-*At Vespers: Stichera of the saint on 6; Glory, Tone 6: "Prudently the perverse..."; Both now, Theotokion. At the Aposticha...*[^385]
-
-*...in the Octoechos; Glory, Tone 4: "Raining down prophetically..."; Both now, Theotokion. Troparion: "With the streams of thy tears..." [Tone 8]; Sessional hymns 3. At Matins: Canons: of the Octoechos, and of the saint to 6. After Ode 6, Kontakion, Tone 2, Podoben: "Seeking the highest" (Въ вышнихъ ищя):*  
+*At Vespers: Stichera of the saint on 6; Glory, Tone 6: "Prudently the perverse..."; Both now, Theotokion. At the Aposticha*[^385] *in the Octoechos; Glory, Tone 4: "Raining down prophetically..."; Both now, Theotokion. Troparion: "With the streams of thy tears..." [Tone 8]; Sessional hymns 3. At Matins: Canons: of the Octoechos, and of the saint to 6. After Ode 6, Kontakion, Tone 2, Podoben: "Seeking the highest" (Въ вышнихъ ищя):*
 *Kontakion, Tone 2, Podoben: "Seeking the highest" (Въ вышнихъ ищя):*  
 *Ever foreseeing the hour of judgment, thou didst weep bitterly, O Ephrem, as a lover of stillness; and thou wast an active doer in deeds, a divine teacher: therefore, O all-fair father, thou rousest the slothful unto repentance!*  
 *At the Aposticha: Glory, Tone 2: "Like a palm tree..."; Both now, Theotokion. At the Divine Liturgy: The Beatitudes in the Octoechos, and of the saint, Ode 6. Prokeimenon: "The righteous shall rejoice in the Lord" [LXX Ps. 63:11]; Verse: "Hear, O God, my voice" [LXX Ps. 63:2]. Epistle: Saturday 27 [Gal. 5:22–6:2]. Alleluia: "Blessed is the man that fears the Lord" [LXX Ps. 111:1]. Gospel from Matthew, Thursday of the 3rd Week: "The Lord said: All things are delivered unto Me of My Father..." [Mt. 11:27–30]. Kinonikon: "In everlasting memory shall the righteous be" [LXX Ps. 111:6].*  
 *On the 29th day: The Translation of the Relics of the Holy Hieromartyr Ignatius the God-Bearer:*  
-*At Vespers: Stichera of the saint on 6; Glory, Tone 8: "O God-bearer Ignatius..."; Both now, Theotokion. At the Aposticha: Glory, Tone 8: "Having strengthened..."; Both now, Theotokion. Troparion: "A sharer in manner..." [Tone 4]; Sessional hymns 3. At Matins: Canons of the Octoechos, and of the saint to 6. After Ode 6, Kontakion, Tone 4...*[^386]
-
-*Kontakion, Tone 4:*  
+*At Vespers: Stichera of the saint on 6; Glory, Tone 8: "O God-bearer Ignatius..."; Both now, Theotokion. At the Aposticha: Glory, Tone 8: "Having strengthened..."; Both now, Theotokion. Troparion: "A sharer in manner..." [Tone 4]; Sessional hymns 3. At Matins: Canons of the Octoechos, and of the saint to 6. After Ode 6, Kontakion, Tone 4*[^386] *Kontakion, Tone 4:*
 *Rising today from the East, and enlightening all creation with thy teachings, thou wast adorned with deeds, O God-bearing and divine Ignatius!*  
 *At the Aposticha: Glory, Tone 1: "Having gone forth in body..."; Both now, Theotokion. At the Divine Liturgy: The Beatitudes in the Octoechos, and of the saint, Ode 6. Prokeimenon: "The righteous shall rejoice in the Lord" [LXX Ps. 63:11]; Verse: "Hear, O God, my voice" [LXX Ps. 63:2]. Epistle: December 20 [Heb. 10:32–38]. Alleluia: "The righteous shall flourish like a palm tree" [LXX Ps. 91:13]. Gospel... Kinonikon: "In everlasting memory shall the righteous be" [LXX Ps. 111:6].*  
 *On the 30th day: Of the holy hieromartyr Hippolytus, Pope of Rome:*  
@@ -1274,9 +984,7 @@ Grace having shone forth from thy mouth like gold, it enlightened the universe, 
 *After Ode 3, Sessional hymns of the saints. After Ode 6, Kontakion, Tone 2, Podoben: "The firm..." (Твердыя):*  
 *Kontakion, Tone 2, Podoben: "The firm..." (Твердыя):*  
 *The holy and God-proclaimed preachers, the pinnacle of teachers, O Lord, Thou hast received into the enjoyment of Thy good things and repose; for their labors and sufferings Thou didst accept above all whole-burnt offerings, O Thou Who alone glorifiest Thy saints!*  
-*Exapostilarion. At the Praises: on 4; Glory, Tone 6: "Thy venerable ones, O Lord..."; Both now, Theotokion. Great Doxology. Troparion of the saints; litany; dismissal. And holy oil is given, while we sing the stichera of the saints: "Divine and sacred..." (Podoben 8, of the 1st day of this month); Another: "The fullness of the Spirit" (of the 25th day of this month); Another: "Grace was poured out..."*[^388]
-
-*...[of the 27th day of this month.]*  
+*Exapostilarion. At the Praises: on 4; Glory, Tone 6: "Thy venerable ones, O Lord..."; Both now, Theotokion. Great Doxology. Troparion of the saints; litany; dismissal. And holy oil is given, while we sing the stichera of the saints: "Divine and sacred..." (Podoben 8, of the 1st day of this month); Another: "The fullness of the Spirit" (of the 25th day of this month); Another: "Grace was poured out"*[^388] *[of the 27th day of this month.]*
 *At the Divine Liturgy: from the canons, Odes 3 and 6. Prokeimenon: "Their sound is gone out into all the earth" [LXX Ps. 18:5]; Verse: "The heavens declare the glory of God" [LXX Ps. 18:2]. Epistle: December 6 [lection 334 / Heb. 13:17–21]. Alleluia: "Thy priests shall clothe themselves with righteousness" [LXX Ps. 131:9]. Gospel from Matthew, November 23: "The Lord said: Ye are the light of the world..." [Mt. 5:14–19]. Kinonikon: "Their sound is gone out into all the earth" [LXX Ps. 18:5].*  
 *On the 31st day: Of the holy wonderworkers and unmercenaries Cyrus and John:*  
 *At Vespers: Stichera of the saints on 6; Glory, Tone 8: "The pair of martyrs..."; Both now, Theotokion. At the Aposticha: in the Octoechos; Glory, Tone 2: "Holding fast to the faith..."; Both now, Theotokion. Troparion: "The wonders of Thy holy martyrs..." [Tone 5], as on [November] 13.*  
@@ -1285,9 +993,7 @@ Grace having shone forth from thy mouth like gold, it enlightened the universe, 
 *Having received the gift of wonders from divine grace, O holy ones, ye work wonders unceasingly, cutting down all our passions as by surgery, invisibly and mightily, glorious Cyrus with John: for ye are divine physicians!*  
 *At the Aposticha: in the Octoechos; Glory, Tone 4: "Worthily let us praise..."; Both now, Theotokion. At the Divine Liturgy: service as on November 1.*  
 *The Month of February hath 28 days; the day hath 11 hours, and the night 13.*  
-*On the 1st day: The Holy Martyr Tryphon; and the Forefeast of the Meeting [of the Lord]...*[^389]
-
-*...[Meeting] of our Lord Jesus Christ.*  
+*On the 1st day: The Holy Martyr Tryphon; and the Forefeast of the Meeting [of the Lord]*[^389] *[Meeting] of our Lord Jesus Christ.*
 *At Vespers: Stichera of the forefeast 3, and of the saint 3:*  
 *Tone 2: "Thou hast despised..."*  
 *Another of the same tone: "Today Symeon..."*  
@@ -1306,20 +1012,14 @@ Having destroyed the polytheism of the tormentor's threat from the ends of the e
 *Troparion of the Meeting, Tone 1:*  
 Rejoice, O Virgin Theotokos, Full of Grace: for from thee hath shone forth the Sun of Righteousness, Christ our God, enlightening those in darkness! Be glad also, thou righteous Elder, who didst receive in thine arms the Deliverer of our souls, Who grants resurrection unto us!  
 *Dismissal.*  
-*At Great Vespers: "Blessed is the man" [Kathisma 1]. On "Lord, I have cried": We sing idiomela 3, Tone 1: "Speak, O Symeon..."; to 8. Glory, and now, Tone 2: "Let the gate be opened...". Entrance. Prokeimenon of the day. 3 Lections: 1st from Exodus [Ex. 13:1–16]: "The Lord spoke unto Moses, saying: Sanctify unto Me every firstborn..."; 2nd from Isaiah, Thursday of the 2nd week of the Fast [Is. 6:1–12]: "In the year that King Uzziah died..."; 3rd from Ezekiel [Ez. 43:27–44:4]: "It came to pass in the thirtieth year...". At the Litiya...*[^391]
-
-*...idiomela of the feast 2: Tone 1: "The Ancient of Days...", and another, the 2nd, Tone 5. Glory, Tone 5: "Search the Scriptures..."; Both now, of the same tone: "The Ancient of Days...".*  
+*At Great Vespers: "Blessed is the man" [Kathisma 1]. On "Lord, I have cried": We sing idiomela 3, Tone 1: "Speak, O Symeon..."; to 8. Glory, and now, Tone 2: "Let the gate be opened...". Entrance. Prokeimenon of the day. 3 Lections: 1st from Exodus [Ex. 13:1–16]: "The Lord spoke unto Moses, saying: Sanctify unto Me every firstborn..."; 2nd from Isaiah, Thursday of the 2nd week of the Fast [Is. 6:1–12]: "In the year that King Uzziah died..."; 3rd from Ezekiel [Ez. 43:27–44:4]: "It came to pass in the thirtieth year...". At the Litiya*[^391] *idiomela of the feast 2: Tone 1: "The Ancient of Days...", and another, the 2nd, Tone 5. Glory, Tone 5: "Search the Scriptures..."; Both now, of the same tone: "The Ancient of Days...".*
 *At the Aposticha: idiomela 3, Tone 7: "Adorn thy bridal chamber, O Sion...", and two others. Verses sung: "Now lettest Thou Thy servant depart in peace..." [Lk. 2:29] and "A light to the revelation of the Gentiles" [Lk. 2:32]. Glory, and now, Idiomelon [Tone 8]: "He Who is borne upon the Cherubim...".*  
 *At the Blessing of the Loaves: Troparion of the feast 3 times: "Rejoice, O Virgin Theotokos, Full of Grace...". And there is a reading; after which is begun: "God is the Lord"; Troparion of the feast 3 times.*  
-*At Matins: Customary Kathisma psalmody, and the Polyeleos; Sessional hymns of the feast. Anabathmoi of the 4th Tone. Prokeimenon, Tone 4: "I will remember Thy name in every generation" [LXX Ps. 44:18]; Verse: "My heart hath poured forth a good word" [LXX Ps. 44:2]. "Let every breath praise the Lord" [LXX Ps. 150:6]. Gospel from Luke, as at the Divine Liturgy on the feast, from midday, which hath the beginning: "There was a man in Jerusalem..." [Lk. 2:25–32]. Psalm 50 [LXX Ps. 50:3]. Sticheron of the feast. Canon of the feast, as written here, Tone 3: the heirmos twice, and the troparia on 4; and again the heirmos by both choirs together. After Ode 3, Sessional hymn of the feast. After Ode 6, Kontakion of the feast, Tone 1, Idiomelon...*[^392]
-
-*Kontakion of the Meeting, Tone 1, Idiomelon:*  
+*At Matins: Customary Kathisma psalmody, and the Polyeleos; Sessional hymns of the feast. Anabathmoi of the 4th Tone. Prokeimenon, Tone 4: "I will remember Thy name in every generation" [LXX Ps. 44:18]; Verse: "My heart hath poured forth a good word" [LXX Ps. 44:2]. "Let every breath praise the Lord" [LXX Ps. 150:6]. Gospel from Luke, as at the Divine Liturgy on the feast, from midday, which hath the beginning: "There was a man in Jerusalem..." [Lk. 2:25–32]. Psalm 50 [LXX Ps. 50:3]. Sticheron of the feast. Canon of the feast, as written here, Tone 3: the heirmos twice, and the troparia on 4; and again the heirmos by both choirs together. After Ode 3, Sessional hymn of the feast. After Ode 6, Kontakion of the feast, Tone 1, Idiomelon*[^392] *Kontakion of the Meeting, Tone 1, Idiomelon:*
 Thou Who didst sanctify the Virgin's womb by Thy birth, and didst bless the hands of Symeon, as was meet, having anticipated us, Thou hast now also saved us, O Christ God; but give peace to our life amidst wars, and strengthen the prince whom Thou hast loved, O Thou Who alone lovest mankind!  
 *At the 9th Ode: "More honorable" is not sung, and candles are given to the brethren. After the 9th, Exapostilarion of the feast.*  
 *At the Praises: of the feast on 4, Tone 4: "Written in the Law..."; Glory, and now, Tone 6: "In the arms of the Elder...". Great Doxology. Troparion of the feast; litany; dismissal. And after the dismissal we make a procession outside the monastery, singing the idiomela.*  
-*At the Divine Liturgy: from the canons, Odes 3 and 6. Introit: "The Lord hath made known His salvation before the nations; He hath revealed His righteousness" [LXX Ps. 97:2]. Troparion of the feast; Glory, and now, Kontakion of the feast. Prokeimenon, Tone 3: The Song: "My soul doth magnify the Lord" [Lk. 1:46]; Verse: "For He hath regarded the lowliness of His handmaiden" [Lk. 1:48]. Epistle to the Hebrews [Heb. 7:7–17]: "Brethren, without all contradiction the less is blessed of the better...". Alleluia, Tone 8: "Now lettest Thou Thy servant depart..." [Lk. 2:29]; Verse...*[^393]
-
-*...[Verse:] "A light to the revelation of the Gentiles" [Lk. 2:32]. Gospel from Luke [Lk. 2:22–40]: "At that time, the parents brought Jesus into Jerusalem to present Him to the Lord... and the rest." Divine Liturgy of Chrysostom. Kinonikon: "I will take the cup of salvation" [LXX Ps. 115:4].*  
+*At the Divine Liturgy: from the canons, Odes 3 and 6. Introit: "The Lord hath made known His salvation before the nations; He hath revealed His righteousness" [LXX Ps. 97:2]. Troparion of the feast; Glory, and now, Kontakion of the feast. Prokeimenon, Tone 3: The Song: "My soul doth magnify the Lord" [Lk. 1:46]; Verse: "For He hath regarded the lowliness of His handmaiden" [Lk. 1:48]. Epistle to the Hebrews [Heb. 7:7–17]: "Brethren, without all contradiction the less is blessed of the better...". Alleluia, Tone 8: "Now lettest Thou Thy servant depart..." [Lk. 2:29]; Verse*[^393] *[Verse:] "A light to the revelation of the Gentiles" [Lk. 2:32]. Gospel from Luke [Lk. 2:22–40]: "At that time, the parents brought Jesus into Jerusalem to present Him to the Lord... and the rest." Divine Liturgy of Chrysostom. Kinonikon: "I will take the cup of salvation" [LXX Ps. 115:4].*
 *On the 3rd day: Of the Holy and Righteous Symeon the God-Receiver:*  
 *We celebrate on this day: jointly for the feast and for the saint. At the Divine Liturgy: from the canons, of the feast Ode 3, and of the saint Ode 6. Prokeimenon, Tone 7: "The righteous shall rejoice in the Lord" [LXX Ps. 63:11]; Verse: "Hear, O God, my voice" [LXX Ps. 63:2]. Epistle: 4th week after [Pascha / lection 335]. Alleluia: "Light is dawned for the righteous" [LXX Ps. 96:11]. Gospel from Matthew [or Luke], 12th week: "Woe unto you...". Kinonikon: "In everlasting memory shall the righteous be" [LXX Ps. 111:6].*  
 *On the 4th day: In memory of our venerable father Isidore of Pelusium:*  
@@ -1329,9 +1029,7 @@ As a great sun of the Church, enlightening the fulness of the universe at all ti
 *On the 5th day: Of the holy martyr Agatha:*  
 *Jointly [with the Afterfeast]: Idiomelon, Tone 8: "A marvelous wonder was wrought...". Kontakion, Tone 2, Podoben: "Seeking the highest..." (Къ вышнимъ):*  
 *Kontakion of the Holy Martyr Agatha, Tone 2, Podoben: "Seeking the highest..." (Къ вышнимъ):*  
-Having understood the wounds of thy chamber, Agatha...*[^394]
-
-*...[Glory, and now:] of the feast. Troparion of the Cross, Tone 8:*  
+Having understood the wounds of thy chamber, Agatha*[^394] *[Glory, and now:] of the feast. Troparion of the Cross, Tone 8:*
 *Troparion of the Apparition of the Cross, Tone 8:*  
 The image of Thy Cross hath now shone forth brighter than the sun, which Thou didst stretch out from the holy mount unto the place of the Skull; and in it Thou hast made manifest Thy strength, O Savior, and by its power Thou hast strengthened our faithful rulers; save them ever in peace, through the prayers of the Theotokos, O Thou Who alone lovest mankind!  
 *Glory, and now, of the feast. At Matins: afterfeast and of the Cross to 6. Kontakion of the Cross, Tone 4:*  
@@ -1341,22 +1039,16 @@ O Christ God, Who didst show the divine image of the Cross in the heavens to gui
 *We celebrate on this day with an all-night singing. At Little Vespers: Stichera of the apostle on 4; Glory, Tone 2: "Upon the grave..."; Both now, of the feast.*[^395]
 
 *...Both now, Theotokion. At the Aposticha: of the feast; Glory, of the apostle; Both now, of the feast. Troparion of the apostle, the beloved disciple, Tone 2; Glory, and now, of the feast.*  
-*At Great Vespers: "Blessed is the man" [Kathisma 1]. Stichera on 8: 5 to the apostle, 3 to Arsenius; Glory: "Son of Thunder..."; Both now, of the feast, of the same tone. Entrance. Prokeimenon of the day. 3 Lections from the general epistle [1 Jn. 3:21–4:6; 4:11–16; 4:20–5:5]. At the Litiya: idiomela to the apostle 4, Tone 1: "The river of theology...", "The branch of purity...", "The disciple of the Savior...", "He who is ineffable..."; Tone 2: "A virgin...", "He who of the apostles, O Theologian..."; these are sung. Verse: "Precious in the sight of the Lord is the death of His saints" [LXX Ps. 115:6]. 2nd [idiomelon]: Glory, Tone 6: "Venerable father..."; Verse: "Their sound is gone out into all the earth" [LXX Ps. 18:5]; Glory, Tone 4: "Thou didst lean..."; Both now, of the feast. At the Aposticha: after the Octoechos, to the apostle, Tone 6. Verses sung: "Their sound is gone out into all the earth" [LXX Ps. 18:5], "The heavens declare the glory of God" [LXX Ps. 18:2]. Glory, Tone 6: "Apostle of Christ and Evangelist..."; Both now, of the feast. Troparion, Tone 4: "O Virgin Theotokos" twice; and of the apostle once: "Beloved apostle...". Blessing of the Loaves. And a reading from the Apocalypse. At Matins: Troparion of the feast twice; Glory, of the apostle; Both now, of the feast. Customary Kathisma psalmody; Sessional hymns of the feast, and the Polyeleos...*[^396]
-
-*...[Their sound is gone out into all the] earth. Tone 4, Prokeimenon: "Their sound is gone out into all the earth" [LXX Ps. 18:5]; Verse: "The heavens declare the glory of God" [LXX Ps. 18:2]. "Let every breath praise the Lord" [LXX Ps. 150:6]. Gospel from John [Jn. 21:15–25]. Psalm 50 [LXX Ps. 50:3]. Sticheron of the apostle. Canons: of the feast on 4; to Arsenius on 4; and to the apostle on 6. But if on this day there is no afterfeast, then of the feast on 6, and to the apostle on 8; Katavasia: the heirmos of the feast. After Ode 3, Kontakion to Arsenius, Tone 3:*  
+*At Great Vespers: "Blessed is the man" [Kathisma 1]. Stichera on 8: 5 to the apostle, 3 to Arsenius; Glory: "Son of Thunder..."; Both now, of the feast, of the same tone. Entrance. Prokeimenon of the day. 3 Lections from the general epistle [1 Jn. 3:21–4:6; 4:11–16; 4:20–5:5]. At the Litiya: idiomela to the apostle 4, Tone 1: "The river of theology...", "The branch of purity...", "The disciple of the Savior...", "He who is ineffable..."; Tone 2: "A virgin...", "He who of the apostles, O Theologian..."; these are sung. Verse: "Precious in the sight of the Lord is the death of His saints" [LXX Ps. 115:6]. 2nd [idiomelon]: Glory, Tone 6: "Venerable father..."; Verse: "Their sound is gone out into all the earth" [LXX Ps. 18:5]; Glory, Tone 4: "Thou didst lean..."; Both now, of the feast. At the Aposticha: after the Octoechos, to the apostle, Tone 6. Verses sung: "Their sound is gone out into all the earth" [LXX Ps. 18:5], "The heavens declare the glory of God" [LXX Ps. 18:2]. Glory, Tone 6: "Apostle of Christ and Evangelist..."; Both now, of the feast. Troparion, Tone 4: "O Virgin Theotokos" twice; and of the apostle once: "Beloved apostle...". Blessing of the Loaves. And a reading from the Apocalypse. At Matins: Troparion of the feast twice; Glory, of the apostle; Both now, of the feast. Customary Kathisma psalmody; Sessional hymns of the feast, and the Polyeleos*[^396] *[Their sound is gone out into all the] earth. Tone 4, Prokeimenon: "Their sound is gone out into all the earth" [LXX Ps. 18:5]; Verse: "The heavens declare the glory of God" [LXX Ps. 18:2]. "Let every breath praise the Lord" [LXX Ps. 150:6]. Gospel from John [Jn. 21:15–25]. Psalm 50 [LXX Ps. 50:3]. Sticheron of the apostle. Canons: of the feast on 4; to Arsenius on 4; and to the apostle on 6. But if on this day there is no afterfeast, then of the feast on 6, and to the apostle on 8; Katavasia: the heirmos of the feast. After Ode 3, Kontakion to Arsenius, Tone 3:*
 *Kontakion of Venerable Arsenius the Great, Tone 3:*  
 From Rome thou didst shine forth as a great sun, and didst reach the imperial city, O most blessed one, enlightening it with thy words and deeds, driving away all mist of ignorance; therefore we honor thee, O glory of fathers, venerable Arsenius!  
-*Then Sessional hymn of the apostle; Glory, to Arsenius; Both now, of the feast. After Ode 6, Kontakion of the apostle, Tone 2. After Ode 9, Exapostilarion of the apostle and of the feast. At the Praises: stichera to the apostle on 4; Glory, Tone 8: "O evangelist John..."; Both now, of the feast. Great Doxology. Troparion of the apostle; Glory, and now, of the feast; litany; dismissal. And holy oil is given, while we sing the stichera... At the Divine Liturgy: canons of the apostle, Odes 3 and 6. Prokeimenon, Tone 8: "Their sound is gone out into all the earth" [LXX Ps. 18:5]; Verse: "The heavens declare the glory of God" [LXX Ps. 18:2]. Epistle: 1 John 1:1–7: "That which was from the beginning...". Alleluia, Tone 1: "The heavens shall confess Thy wonders, O Lord" [LXX Ps. 88:6]. Gospel from John [Jn. 19:25–27, 21:24–25]...*[^397]
-
-*...[Gospel lection conclusion; Kinonikon:] "Their sound is gone out into all the earth" [LXX Ps. 18:5].*  
+*Then Sessional hymn of the apostle; Glory, to Arsenius; Both now, of the feast. After Ode 6, Kontakion of the apostle, Tone 2. After Ode 9, Exapostilarion of the apostle and of the feast. At the Praises: stichera to the apostle on 4; Glory, Tone 8: "O evangelist John..."; Both now, of the feast. Great Doxology. Troparion of the apostle; Glory, and now, of the feast; litany; dismissal. And holy oil is given, while we sing the stichera... At the Divine Liturgy: canons of the apostle, Odes 3 and 6. Prokeimenon, Tone 8: "Their sound is gone out into all the earth" [LXX Ps. 18:5]; Verse: "The heavens declare the glory of God" [LXX Ps. 18:2]. Epistle: 1 John 1:1–7: "That which was from the beginning...". Alleluia, Tone 1: "The heavens shall confess Thy wonders, O Lord" [LXX Ps. 88:6]. Gospel from John [Jn. 19:25–27, 21:24–25]*[^397] *[Gospel lection conclusion; Kinonikon:] "Their sound is gone out into all the earth" [LXX Ps. 18:5].*
 *On the 9th day: Of the Holy Prophet Isaiah, and the Holy Martyr Christopher, and our holy great father Nicholas: the translation of his relics:*  
 *At Vespers: Customary Kathisma psalmody. Stichera to Nicholas on 6; Glory, Tone 6: "The adornment of the saints..."; Both now, of the feast. At the Aposticha: after the 3 [stichera of the Octoechos], to the prophet; Glory, Tone 6: to Nicholas: "O man of God..."; Both now, Theotokion. Troparion: "A rule of faith..." [Tone 4], as on December 6; Glory: "The choir of the prophet, O Lord...", as on the 1st of this month [May 1]; Both now, Theotokion.*  
 *At Matins: Canons: in the Octoechos on 4; and of the prophet on 4; and of Nicholas on 6. After Ode 3, Kontakion of the prophet, Tone 2, Podoben: "In prayers..." (Въ молитвахъ / ꙗко паткы):*  
 *Kontakion of the Holy Prophet Isaiah, Tone 2, Podoben: "In prayers..." (Въ молитвахъ):*  
 Having received the gift of prophecy, O prophet and martyr, Isaiah, proclaimer of God, thou hast made clear unto all the Incarnation of the Lord, crying with a loud voice unto all lands: Behold, a virgin shall conceive in the womb!  
-*Then Sessional hymn of the prophet; Glory, to Nicholas; Both now, Kontakion [Theotokion]. After Ode 6, Kontakion to Nicholas, as on December 6. At the Aposticha: of the Octoechos; Glory, Tone 5: "Let us blow the trumpet..."; Both now, Kontakion [Theotokion]. At the Divine Liturgy: lection of Acts [and December 6 readings]...*[^398]
-
-*...[Of the Holy] Apostle Simon the Zealot:*  
+*Then Sessional hymn of the prophet; Glory, to Nicholas; Both now, Kontakion [Theotokion]. After Ode 6, Kontakion to Nicholas, as on December 6. At the Aposticha: of the Octoechos; Glory, Tone 5: "Let us blow the trumpet..."; Both now, Kontakion [Theotokion]. At the Divine Liturgy: lection of Acts [and December 6 readings]*[^398] *[Of the Holy] Apostle Simon the Zealot:*
 *At Vespers: Stichera of the saint on 6; Glory, and now, of that day. At the Aposticha: of that day. Troparion: "O holy apostle Simon..." [Tone 3]; Glory, and now, of the feast.*  
 *At Matins: Troparion of the feast twice; Glory, of the saint; Both now, of the feast. Canons: of the feast on 6, and of the saint on 6. After Ode 3, Kontakion, Tone 2, Podoben: "Seeking the highest..." (Къ вышнимъ):*  
 *Kontakion of the Holy Apostle Simon the Zealot, Tone 2, Podoben: "Seeking the highest..." (Къ вышнимъ):*  
@@ -1366,9 +1058,7 @@ Thou didst appear as a companion of Paul, O apostle, and unto us thou hast procl
 *On the 11th day: The Dedication of the Imperial City [Constantinople], and of the holy hieromartyr Mocius the Presbyter:*  
 *Troparion: "Thy martyr..." [Tone 4]. Kontakion, Tone 2:*  
 *Kontakion of the Holy Hieromartyr Mocius, Tone 2:*  
-Armed with the shield of faith, thou didst conquer the ranks of the ungodly, O hieromartyr Mocius, and didst receive a crown from God; therefore with the angels...*[^399]
-
-*...rejoicing; deliver from perils those who hymn thee, I pray thee, unceasingly on behalf of us all!*  
+Armed with the shield of faith, thou didst conquer the ranks of the ungodly, O hieromartyr Mocius, and didst receive a crown from God; therefore with the angels*[^399] *rejoicing; deliver from perils those who hymn thee, I pray thee, unceasingly on behalf of us all!*
 *On the 12th day: Of our holy fathers Epiphanius, Archbishop of Cyprus, and Germanus, Patriarch of Constantinople:*  
 *Troparion: "O God of our fathers..." [Tone 4], (see fol. [November 20]). Kontakion, Tone 4, Podoben: "Thou Who wast lifted up..." (Възнесїисѧ):*  
 *Kontakion of the Holy Hierarchs Epiphanius and Germanus, Tone 4, Podoben: "Thou Who wast lifted up..." (Възнесїисѧ):*  
@@ -1378,9 +1068,7 @@ The marvelous pair of holy hierarchs let us the faithful praise as is meet, the 
 *On the 15th day: Of our holy father Pachomius the Great:*  
 *At Vespers and at Matins, the office of the saint is sung on 6. Troparion: "With the streams of thy tears..." [Tone 8], [as on] September 3. Kontakion, Tone 2:*  
 *Kontakion of Venerable Pachomius the Great, Tone 2:*  
-A radiant luminary thou didst appear at the ends [of the earth]...*[^400]
-
-*...and didst make the deserts into cities by thy multitudes; thou didst crucify thyself, taking up thy cross upon thy shoulder, and by abstinence didst wear down the body, praying unceasingly for us all!*  
+A radiant luminary thou didst appear at the ends [of the earth]*[^400] *and didst make the deserts into cities by thy multitudes; thou didst crucify thyself, taking up thy cross upon thy shoulder, and by abstinence didst wear down the body, praying unceasingly for us all!*
 *At the Divine Liturgy: from the canon of the saint, Odes 3 and 6. Prokeimenon, Tone 7: "The venerable shall boast in glory" [LXX Ps. 149:5]; [Verse: "Sing unto the Lord a new song" [LXX Ps. 149:1]]. Epistle: lection 213 [or 233 / Gal. 5:22–6:2]. Alleluia: "Blessed is the man that fears the Lord" [LXX Ps. 111:1]. Gospel from Matthew, Thursday of the 3rd week [Mt. 11:27–30]: "The Lord said: All things are delivered unto Me...". Kinonikon: "In everlasting memory shall the righteous be" [LXX Ps. 111:6].*  
 *On the 16th day: Of our venerable father Theodore the Sanctified, disciple of Saint Pachomius:*  
 *Troparion: "Dweller of the desert..." [Tone 1], see [January 17]. Kontakion [Tone 2].*  
@@ -1390,39 +1078,29 @@ A radiant luminary thou didst appear at the ends [of the earth]...*[^400]
 *On the 19th day: Of the Holy Hieromartyr Patricius, Bishop of Prusa, and those with him.*  
 *On the 20th day: Of the Holy Martyr Thalelaeus.*  
 *On the 21st day: Of the Holy Emperor Constantine, Equal-to-the-Apostles, and his mother Helena:*  
-*At Vespers: Stichera of the saints...*[^401]
-
-*...on 6; Glory, Tone 6: "With good gifts..."; Both now, of the feast. At the Aposticha: of that day, or in the Octoechos; Glory, Tone 2: "Of pious Constantine..."; Both now. Troparion, Tone 8:*  
+*At Vespers: Stichera of the saints*[^401] *on 6; Glory, Tone 6: "With good gifts..."; Both now, of the feast. At the Aposticha: of that day, or in the Octoechos; Glory, Tone 2: "Of pious Constantine..."; Both now. Troparion, Tone 8:*
 *Troparion of the Holy Equals-to-the-Apostles Constantine and Helena, Tone 8:*  
 Having seen the image of Thy Cross in the heavens, and like Paul having received his calling not from men, Thine apostle among kings, O Lord, placed the imperial city into Thy hands; which save Thou ever in peace, through the prayers of the Theotokos, O Thou Who alone lovest mankind!  
 *At Matins: Canon of the saints on 6. After Ode 6, Kontakion, Tone 3, Podoben: "Today the Virgin" (Дѣва днесь):*  
 *Kontakion of the Holy Equals-to-the-Apostles Constantine and Helena, Tone 3, Podoben: "Today the Virgin" (Дѣва днесь):*  
 Today Constantine with his mother Helena makes manifest the Cross, the most precious Tree, unto all the Jews a shame, but a weapon for faithful kings against adversaries; for for our sakes hath appeared a great sign, eternal and awesome!  
-*At the Aposticha: in the Octoechos; Glory, Tone 8: "The radiant light..."; Both now, Theotokion. At the Divine Liturgy: from the canon of the saint, Odes 3 and 6. Prokeimenon: "Sing praises to our God, sing praises" [LXX Ps. 46:7]; Verse: "O clap your hands, all ye nations" [LXX Ps. 46:2]. Epistle to the Galatians, lection 200 [Gal. 1:11–19]. But if it be Friday, it is read from Acts, Thursday of the 5th week after Pascha [Acts 15:5–34]. Alleluia...*[^402]
-
-*...Tone 1: "I have exalted one chosen out of My people" [LXX Ps. 88:20]; Verse: "For My hand shall help him" [LXX Ps. 88:22]. Gospel from John, Thursday of the 5th week, from Mid-Pentecost [Jn. 10:1–9]: "The Lord said: He that enters not by the door...". Kinonikon: "In everlasting memory shall the righteous be" [LXX Ps. 111:6].*  
+*At the Aposticha: in the Octoechos; Glory, Tone 8: "The radiant light..."; Both now, Theotokion. At the Divine Liturgy: from the canon of the saint, Odes 3 and 6. Prokeimenon: "Sing praises to our God, sing praises" [LXX Ps. 46:7]; Verse: "O clap your hands, all ye nations" [LXX Ps. 46:2]. Epistle to the Galatians, lection 200 [Gal. 1:11–19]. But if it be Friday, it is read from Acts, Thursday of the 5th week after Pascha [Acts 15:5–34]. Alleluia*[^402] *Tone 1: "I have exalted one chosen out of My people" [LXX Ps. 88:20]; Verse: "For My hand shall help him" [LXX Ps. 88:22]. Gospel from John, Thursday of the 5th week, from Mid-Pentecost [Jn. 10:1–9]: "The Lord said: He that enters not by the door...". Kinonikon: "In everlasting memory shall the righteous be" [LXX Ps. 111:6].*
 *On the 22nd day: Of the Holy Martyr Basiliscus. Alleluia.*  
 *On the 23rd day: Of our venerable father and confessor Michael, Bishop of Synnada.*  
 *On the 24th day: Of our venerable father Symeon the Stylite, the wonderworker, of the Wonderful Mountain:*  
 *At Vespers: "Blessed is the man" [Kathisma 1]. Stichera of the saint on 6; Glory, Tone 2: "Upon the mountain..."; Both now, Dogmatikon. Entrance. Readings of the venerable [Wisdom 3:1–9, 5:15–6:3, 4:7–15]. At the Aposticha: prosomoia 3, Tone 5, written for Saint Anthony, [January] 17; Glory, Tone 8, likewise; Both now, Theotokion. Troparion: "Dweller of the desert..." [Tone 1], see [January 17]; Glory, and now, Theotokion.*  
-*At Matins: Customary Kathisma psalmody, and the Polyeleos. Sessional hymns of the 4th Tone. Prokeimenon: "Precious in the sight of the Lord is the death of His saints" [LXX Ps. 115:6]; Verse: "What shall I render unto the Lord for all that He hath rendered unto me?" [LXX Ps. 115:3]. "Let every breath praise the Lord" [LXX Ps. 150:6]. Gospel from Luke, Friday of the 2nd week [Lk. 6:17–23]. Psalm 50 [LXX Ps. 50:3]. Sticheron of the saint. Canons: of the Theotokos, Tone 8: "Holding fast amidst many temptations...", with heirmoi on 6; and of the saint on 8. After Ode 3, Sessional hymn of the saint. After Ode 6...*[^403]
-
-*Kontakion of Venerable Symeon the Stylite of the Wonderful Mountain, Tone 4:*  
+*At Matins: Customary Kathisma psalmody, and the Polyeleos. Sessional hymns of the 4th Tone. Prokeimenon: "Precious in the sight of the Lord is the death of His saints" [LXX Ps. 115:6]; Verse: "What shall I render unto the Lord for all that He hath rendered unto me?" [LXX Ps. 115:3]. "Let every breath praise the Lord" [LXX Ps. 150:6]. Gospel from Luke, Friday of the 2nd week [Lk. 6:17–23]. Psalm 50 [LXX Ps. 50:3]. Sticheron of the saint. Canons: of the Theotokos, Tone 8: "Holding fast amidst many temptations...", with heirmoi on 6; and of the saint on 8. After Ode 3, Sessional hymn of the saint. After Ode 6*[^403] *Kontakion of Venerable Symeon the Stylite of the Wonderful Mountain, Tone 4:*
 From infancy cleaving unto God, O father, thou sendest forth the radiance of wonders from afar unto the ends [of the earth], by thy humility and blameless love; therefore today celebrating thy most holy memory, we unceasingly hymn the One Who lovest mankind!  
 *At the Praises: Stichera of the saint on 4; Glory, Tone 5: "O venerable father, thou gavest no sleep..."; Both now, Theotokion. Great Doxology. Troparion of the saint; Glory, and now, Theotokion.*  
 *At the Divine Liturgy: from the canon of the saint, Odes 3 and 6. Prokeimenon, Tone 4: "The righteous shall rejoice in the Lord" [LXX Ps. 63:11]; Verse: "Hear, O God, my voice" [LXX Ps. 63:2]. Epistle: lection 213 [Gal. 5:22–6:2]. Alleluia: "The righteous shall flourish like a palm tree" [LXX Ps. 91:13]; "Blessed is the man that fears the Lord" [LXX Ps. 111:1]. Gospel from Matthew, Thursday of the 3rd week [Mt. 11:27–30]: "The Lord said: All things are delivered unto Me...". Kinonikon: "In everlasting memory shall the righteous be" [LXX Ps. 111:6].*  
 *On the 25th day: The Third Finding of the Precious Head of the Forerunner John:*  
 *At Vespers: "Blessed is the man" [Kathisma 1]. Stichera of the Forerunner on 6; Glory, Tone 6: "The treasure..."; Both now, Dogmatikon. Entrance. 3 Lections, as on August 29 [Is. 40:1–5, 41:17–18, 45:8, 48:20–21; Mal. 3:1–3, 4:4–6; Wis. 4:7–15]. At the Aposticha: prosomoia 3, Tone 5, as on the 24th day; and they say verses: "The righteous shall flourish like a palm tree" [LXX Ps. 91:13]; Glory, Tone 2: "The divine..."; Both now, Theotokion. Troparion, Tone 4:*  
 *Troparion of the Third Finding of the Head of the Forerunner, Tone 4:*  
-As a divine treasure hidden in the earth...*[^404]
-
-*...Christ hath revealed thy head unto us, O prophet and Forerunner; for all of us having gathered together at its finding, with harmonious voices hymn the Savior, Who saves us from corruption through thy prayers!*  
+As a divine treasure hidden in the earth*[^404] *Christ hath revealed thy head unto us, O prophet and Forerunner; for all of us having gathered together at its finding, with harmonious voices hymn the Savior, Who saves us from corruption through thy prayers!*
 *Glory, and now, Theotokion. At Matins: Customary Kathisma psalmody, and the Polyeleos. Sessional hymns of the Forerunner. Anabathmoi of the 4th Tone. Prokeimenon, Tone 4: "There will I make the horn of David to bud" [LXX Ps. 131:17]; Verse: "Lord, remember David and all his meekness" [LXX Ps. 131:1]. "Let every breath praise the Lord" [LXX Ps. 150:6]. Gospel from Matthew, Tuesday of the 6th week [Mt. 11:2–15]. Psalm 50 [LXX Ps. 50:3]. Sticheron of the Forerunner. Canons: of the Theotokos and of the Forerunner on 6. After Ode 6, Kontakion of the Forerunner, as on February 24: "O prophet of God..." [Tone 2]. At the Praises: prosomoia 3, of the Forerunner on 4; Glory, Tone 6: "The all-honorable..."; Both now, Theotokion. Great Doxology. Troparion of the Forerunner; Glory, and now, Theotokion; litany; dismissal.*  
 *At the Divine Liturgy: from the canon of the saint, Odes 3 and 6. Prokeimenon, Tone 7: "The righteous shall rejoice in the Lord" [LXX Ps. 63:11]; Verse: "Hear, O God, my voice" [LXX Ps. 63:2]. Epistle: lection 15 [or 176 / 2 Cor. 4:6–15]. Alleluia, Tone 4: "Truth hath sprung out of the earth" [LXX Ps. 84:12]. Gospel from Matthew, Monday of the 3rd week [Mt. 11:2–15]: "At that time, when John heard in prison...". Kinonikon: "In everlasting memory shall the righteous be" [LXX Ps. 111:6].*  
 *On the 26th day: Of the Holy Apostle Carpus, one of the Seventy:*  
-*Troparion: "Holy Apostle..." [Tone 3]...*[^405]
-
-*Kontakion of the Holy Apostle Carpus, Tone 2:*  
+*Troparion: "Holy Apostle..." [Tone 3]*[^405] *Kontakion of the Holy Apostle Carpus, Tone 2:*
 As a venerable hierarch and a valiant passion-bearer, the universe offers unto Thee, O Lord, the godly Apostle Carpus; with songs we hymn his precious memory, asking that through him forgiveness of transgressions may ever be granted unto those who hymn Thee, O Lover of mankind!  
 *On the 27th day: Of the Holy Hieromartyr Therapon. Alleluia.*  
 *On the 28th day: Of our venerable father Nicetas, Archbishop of Chalcedon. Alleluia.*  
@@ -1434,9 +1112,7 @@ As a venerable hierarch and a valiant passion-bearer, the universe offers unto T
 *On the 2nd day: Of our father among the saints, Nicephorus, Patriarch of Constantinople:*  
 *Troparion: "A rule of faith..." [Tone 4], see [December 6]. Kontakion, Tone 4, Podoben: "Thou Who wast lifted up..." (Вознесыйся):*  
 *Kontakion of St. Nicephorus, Tone 4, Podoben: "Thou Who wast lifted up..." (Вознесыйся):*  
-A crown of victory, O Nicephorus...*[^406]
-
-*...thou hast received today from heaven as a champion of Orthodoxy; save those who honor thee in faith, as a hierarch of Christ and teacher!*  
+A crown of victory, O Nicephorus*[^406] *thou hast received today from heaven as a champion of Orthodoxy; save those who honor thee in faith, as a hierarch of Christ and teacher!*
 *On the 3rd day: Of the Holy Martyr Lucillian, and those with him. Alleluia.*  
 *On the 4th day: Of our father among the saints, Metrophanes, Patriarch of Constantinople:*  
 *Troparion: "A rule of faith..." [Tone 4], see [December 6]. Kontakion, Tone 4:*  
@@ -1446,9 +1122,7 @@ From infancy thou didst appear as consecrated, having become a chosen pillar of 
 *On the 6th day: Of our venerable fathers Bessarion and Hilarion, hegumen of Dalmatos. Alleluia.*  
 *On the 7th day: Of the Holy Hieromartyr Theodotus of Ancyra. Alleluia.*  
 *On the 8th day: Of the Holy Great-Martyr Theodore Stratelates:*  
-*At Vespers: Stichera of the saint on 6; Glory, Tone 5: "Today hath shone forth..."; Both now, Theotokion. At the Aposticha: of that day, or in the Octoechos; Glory, Tone 8: "Of God's gift..."; Both now, Theotokion. Troparion: "In military warfare..." [Tone 4], as on February 8; Glory, and now, Theotokion. At Matins: Canon in the Octoechos...*[^407]
-
-*...and of the saint on 6. After Ode 6, Kontakion: "With courage of soul...", as on February 8 [Tone 2]. At the Aposticha: in the Octoechos; Glory, Tone 8: "Passion-bearing..."; Both now, Theotokion. At the Divine Liturgy: service as on February 8.*  
+*At Vespers: Stichera of the saint on 6; Glory, Tone 5: "Today hath shone forth..."; Both now, Theotokion. At the Aposticha: of that day, or in the Octoechos; Glory, Tone 8: "Of God's gift..."; Both now, Theotokion. Troparion: "In military warfare..." [Tone 4], as on February 8; Glory, and now, Theotokion. At Matins: Canon in the Octoechos*[^407] *and of the saint on 6. After Ode 6, Kontakion: "With courage of soul...", as on February 8 [Tone 2]. At the Aposticha: in the Octoechos; Glory, Tone 8: "Passion-bearing..."; Both now, Theotokion. At the Divine Liturgy: service as on February 8.*
 *On the 9th day: Of our holy father Cyril, Patriarch of Alexandria:*  
 *Troparion: "Of Orthodoxy..." [Tone 8], [see] January 18. Kontakion, Tone 6, Podoben: "He Who fulfilled the dispensation for us..." (Иже о нас):*  
 *Kontakion of St. Cyril of Alexandria, Tone 6, Podoben: "He Who fulfilled the dispensation for us..." (Иже о нас):*  
@@ -1458,9 +1132,7 @@ An abyss of teachings of theology thou didst openly pour forth from the springs 
 *At Vespers: Stichera on 6; Glory, Tone 6: "O most praised Barnabas..."; Both now, Theotokion. At the Aposticha: of the Octoechos; Glory, Tone 6: "Apostle of Christ..."; Both now, Theotokion. Troparion: "Holy apostles..." [Tone 3].*  
 *At Matins: Canons in the Octoechos on 6, and of the saints on 8. After Ode 3, Kontakion of Barnabas, Tone 3, Podoben: "Today the Virgin" (Дѣва днесь):*  
 *Kontakion of the Holy Apostle Barnabas, Tone 3, Podoben: "Today the Virgin" (Дѣва днесь):*  
-Thou wast a true servant of Christ, and didst appear as a leader of the Seventy, having been together with Paul...*[^408]
-
-*...proclaiming with right teachings the coming of the Savior; therefore we honor Thy godly memory, O Barnabas, glorifying thee!*  
+Thou wast a true servant of Christ, and didst appear as a leader of the Seventy, having been together with Paul*[^408] *proclaiming with right teachings the coming of the Savior; therefore we honor Thy godly memory, O Barnabas, glorifying thee!*
 *After Ode 6, Kontakion of Bartholomew, Tone 4, Podoben: "Thou hast appeared today" (Явился еси):*  
 *Kontakion of the Holy Apostle Bartholomew, Tone 4, Podoben: "Thou hast appeared today" (Явился еси):*  
 Thou hast appeared as a great sun unto the Church, enlightening those who honor thee with the radiance of teachings and awesome wonders, O Bartholomew, apostle of the Lord!  
@@ -1478,9 +1150,7 @@ Illumined by the radiance of the All-Holy Spirit, O divinely wise one, thou dids
 *Kontakion of the Holy Martyr Aquilina, Tone 2:*  
 With the beauties of thy virginity thou didst honor thy soul, and didst ascend unto the height of martyrdom, O all-glorious Aquilina, being wounded with love for Christ the Bridegroom; unto Whom thou now standest before with the angels, rejoicing; together with them pray unceasingly for us all!  
 *On the 14th day: Of the Holy Prophet Elisha, and of our holy father Methodius, Patriarch of Constantinople:*  
-*At Vespers: Stichera of the saints on 6; Glory, Tone 6: "In prophetic manner..."; Both now, Dogmatikon. At the Aposticha, in the Octoechos...*[^410]
-
-*...and verses: "Thy priests shall be clothed with righteousness" [LXX Ps. 131:9]; and Glory, Tone 4: "The righteous shall rejoice" [LXX Ps. 63:11]; Both now, Tone 6: "O prophet and herald of Christ...". Troparion of the prophet: "Of Thy prophet..." [Tone 2]; Glory: "A rule of faith..." [Tone 4], see [December] 2. At Matins: Canons in the Octoechos on 6, and of the two saints. After Ode 3, Kontakion of Methodius, Tone 2:*  
+*At Vespers: Stichera of the saints on 6; Glory, Tone 6: "In prophetic manner..."; Both now, Dogmatikon. At the Aposticha, in the Octoechos*[^410] *and verses: "Thy priests shall be clothed with righteousness" [LXX Ps. 131:9]; and Glory, Tone 4: "The righteous shall rejoice" [LXX Ps. 63:11]; Both now, Tone 6: "O prophet and herald of Christ...". Troparion of the prophet: "Of Thy prophet..." [Tone 2]; Glory: "A rule of faith..." [Tone 4], see [December] 2. At Matins: Canons in the Octoechos on 6, and of the two saints. After Ode 3, Kontakion of Methodius, Tone 2:*
 *Kontakion of St. Methodius, Patriarch of Constantinople, Tone 2:*  
 Having contended upon earth as one bodiless, thou hast inherited the heavens, O Methodius; for thou didst clarify at the last the veneration of icons, having endured abundant afflictions and toils, openly refuting those who reject the holy icons!  
 *After Ode 6, Kontakion of the Prophet [Elisha], Tone 2, Podoben: "Seeking the highest..." (Къ вышнимъ):*  
@@ -1499,9 +1169,7 @@ Wounded with faith in Christ, O thrice-blessed ones, and having faithfully drunk
 *Kontakion of the Holy Martyr Leontius, Tone 3:*  
 Thou didst denounce the tyrant, the craftiness of demons; thou didst put to shame false deceit; thou didst cause the angelic choirs to rejoice, and didst reveal divine wisdom among men; therefore with love we honor thy memory, O wise Leontius!  
 *On the 19th day: Of the Holy Apostle Jude, brother of the Lord according to the flesh:*  
-*At Vespers: Stichera of the saint on 6; Glory of the saint; Both now, Theotokion. At the Aposticha: in the Octoechos; Glory of the saint; Both now, Theotokion. Troparion of the martyr [or kinsman]: [Tone 1 or 4], see April 27. At Matins: Canon in the Octoechos, and of the saint on 6; at the Aposticha, Glory of the saint; Both now, Theotokion...*[^412]
-
-*...at the Divine Liturgy: from the canon of the saint, Odes 3 and 6. Prokeimenon, Tone 8: "Their sound is gone out into all the earth" [LXX Ps. 18:5]; Verse: "The heavens declare the glory of God" [LXX Ps. 18:2]. Epistle: 3rd week [or Jude 1:1–10]. Alleluia: "The heavens shall confess Thy wonders, O Lord" [LXX Ps. 88:6]. Gospel from Luke, lection 51 [Lk. 10:16–21]: "The Lord said: He that hears you hears Me...". Kinonikon: "Their sound is gone out into all the earth" [LXX Ps. 18:5].*  
+*At Vespers: Stichera of the saint on 6; Glory of the saint; Both now, Theotokion. At the Aposticha: in the Octoechos; Glory of the saint; Both now, Theotokion. Troparion of the martyr [or kinsman]: [Tone 1 or 4], see April 27. At Matins: Canon in the Octoechos, and of the saint on 6; at the Aposticha, Glory of the saint; Both now, Theotokion*[^412] *at the Divine Liturgy: from the canon of the saint, Odes 3 and 6. Prokeimenon, Tone 8: "Their sound is gone out into all the earth" [LXX Ps. 18:5]; Verse: "The heavens declare the glory of God" [LXX Ps. 18:2]. Epistle: 3rd week [or Jude 1:1–10]. Alleluia: "The heavens shall confess Thy wonders, O Lord" [LXX Ps. 88:6]. Gospel from Luke, lection 51 [Lk. 10:16–21]: "The Lord said: He that hears you hears Me...". Kinonikon: "Their sound is gone out into all the earth" [LXX Ps. 18:5].*
 *On the 20th day: Of the Holy Hieromartyr Methodius, Bishop of Patara. Alleluia.*  
 *On the 21st day: Of the Holy Martyr Julian of Tarsus:*  
 *Troparion: "Thy martyr, O Lord..." [Tone 4]. Kontakion, Tone 2:*  
@@ -1512,26 +1180,18 @@ An invincible warrior of piety, a true and valiant champion, let us all spiritua
 *Troparion: "Thy lamb, O Jesus..." [Tone 4], see [September] 16. Kontakion, Tone 3:*  
 *Kontakion of the Holy Martyr Agrippina, Tone 3:*  
 Thy radiant contest and light-bearing day hath arrived, whereon the divine Church honoring thee, cries out with greatness to shout: Rejoice, O lamb of Christ, all-praised Agrippina!  
-*On the 24th day: The Nativity of the Holy, Honorable Prophet, Forerunner, and Baptist John. All-Night Vigil...*[^413]
-
-*At Small Vespers: Stichera of the Forerunner on 4; Glory: "Forerunner..."; Both now, Theotokion. At the Aposticha: idiomela 3, Tone 2; Glory, and now: "Beholding Elizabeth...". Troparion, Tone 4:*  
+*On the 24th day: The Nativity of the Holy, Honorable Prophet, Forerunner, and Baptist John. All-Night Vigil*[^413] *At Small Vespers: Stichera of the Forerunner on 4; Glory: "Forerunner..."; Both now, Theotokion. At the Aposticha: idiomela 3, Tone 2; Glory, and now: "Beholding Elizabeth...". Troparion, Tone 4:*
 *Troparion of the Nativity of the Holy Forerunner, Tone 4:*  
 O prophet and Forerunner of the coming of Christ, we are at a loss to praise thee worthily, who honor thee with love; for the barrenness of her that bare thee and the father's muteness are loosed at thy glorious and precious birth, and the incarnation of the Son of God is proclaimed unto the world!  
-*At Great Vespers: "Blessed is the man" [Kathisma 1]. Stichera on 8: idiomela 4, doubled, Tone 4: "When the Word of God was pleased...", and 3 others; Glory, Tone 6: "The day of light..."; Both now, Tone 8: "Elizabeth conceived...". Entrance. 3 Lections. At the Litiya: idiomela 3, Tone 1; Glory, Tone 6: "Among the prophets..."; Both now, Theotokion. At the Aposticha: idiomela 3, Tone 2; and they say verses: "Blessed be the Lord God of Israel" [Lk. 1:68]; "And thou, child, shalt be called the prophet of the Highest" [Lk. 1:76]; Glory, Tone 8: "Isaiah..."; Both now: "In the days of Elizabeth...". Troparion: "O prophet and Forerunner...", is sung twice; "O Theotokos and Virgin...", once. Blessing of the loaves, and reading. At Matins: Troparion of the Forerunner twice...*[^414]
-
-*...Glory, and now, Theotokion: "The mystery hidden from all eternity..." [Tone 4]. Customary Kathisma psalmody, and the Polyeleos. Sessional hymns of the Forerunner. Anabathmoi of the 4th Tone. Prokeimenon: "And thou, child, shalt be called the prophet of the Highest" [Lk. 1:76]; Verse: "Blessed be the Lord God of Israel" [Lk. 1:68]. "Let every breath praise the Lord" [LXX Ps. 150:6]. Gospel from Luke [Lk. 1:24–25, 57–68, 76, 80]: "At that time, Elizabeth conceived...", seek at the Liturgy, from the midpoint. Psalm 50 [LXX Ps. 50:3]. Sticheron of the Forerunner. Canons: of the Theotokos with heirmoi on 6; and two of the Forerunner: one in Tone 6 [in the Octoechos]: "An angel of God...", on 4; and the other in Tone 4, by John the Monk, on 4; or if they wish, let them sing the first on 8. After Ode 6, Kontakion, Tone 2:*  
+*At Great Vespers: "Blessed is the man" [Kathisma 1]. Stichera on 8: idiomela 4, doubled, Tone 4: "When the Word of God was pleased...", and 3 others; Glory, Tone 6: "The day of light..."; Both now, Tone 8: "Elizabeth conceived...". Entrance. 3 Lections. At the Litiya: idiomela 3, Tone 1; Glory, Tone 6: "Among the prophets..."; Both now, Theotokion. At the Aposticha: idiomela 3, Tone 2; and they say verses: "Blessed be the Lord God of Israel" [Lk. 1:68]; "And thou, child, shalt be called the prophet of the Highest" [Lk. 1:76]; Glory, Tone 8: "Isaiah..."; Both now: "In the days of Elizabeth...". Troparion: "O prophet and Forerunner...", is sung twice; "O Theotokos and Virgin...", once. Blessing of the loaves, and reading. At Matins: Troparion of the Forerunner twice*[^414] *Glory, and now, Theotokion: "The mystery hidden from all eternity..." [Tone 4]. Customary Kathisma psalmody, and the Polyeleos. Sessional hymns of the Forerunner. Anabathmoi of the 4th Tone. Prokeimenon: "And thou, child, shalt be called the prophet of the Highest" [Lk. 1:76]; Verse: "Blessed be the Lord God of Israel" [Lk. 1:68]. "Let every breath praise the Lord" [LXX Ps. 150:6]. Gospel from Luke [Lk. 1:24–25, 57–68, 76, 80]: "At that time, Elizabeth conceived...", seek at the Liturgy, from the midpoint. Psalm 50 [LXX Ps. 50:3]. Sticheron of the Forerunner. Canons: of the Theotokos with heirmoi on 6; and two of the Forerunner: one in Tone 6 [in the Octoechos]: "An angel of God...", on 4; and the other in Tone 4, by John the Monk, on 4; or if they wish, let them sing the first on 8. After Ode 6, Kontakion, Tone 2:*
 *Kontakion of the Nativity of the Holy Forerunner, Tone 2:*  
 She that was barren today brings forth the Forerunner of Christ, and he is the fulfillment of all prophecy; for Whom the prophets proclaimed beforehand, upon Him in the Jordan thou didst place thy hand, and wast shown forth as the Word of God's prophet, herald, and at once Forerunner!  
-*Exapostilarion. At the Praises: prosomoia 3, of the Forerunner on 4; Glory, Tone 6: "The brilliance of this day..."; Both now, Theotokion. Great Doxology. Troparion of the Forerunner; litany; dismissal. And holy oil is given unto the brethren; while singing idiomela; Glory, Tone 8: "It is meet...*[^415]
-
-*...to praise John..."; Both now, Theotokion. At the Divine Liturgy: from the canons, Odes 3 and 6. Prokeimenon, Tone 7: "The righteous shall rejoice in the Lord" [LXX Ps. 63:11]; Verse: "Hear, O God, my voice" [LXX Ps. 63:2]. Epistle: of Cheesefare Sunday [or Rom. 13:11–14:4]. Alleluia, Tone 1: "Blessed be the Lord God of Israel" [Lk. 1:68]; Verse: "And thou, child, shalt be called the prophet of the Highest" [Lk. 1:76]. Gospel from Luke [Lk. 1:1–25, 57–68, 76, 80]: "Forasmuch as many have taken in hand...". Kinonikon: "In everlasting memory shall the righteous be" [LXX Ps. 111:6].*  
+*Exapostilarion. At the Praises: prosomoia 3, of the Forerunner on 4; Glory, Tone 6: "The brilliance of this day..."; Both now, Theotokion. Great Doxology. Troparion of the Forerunner; litany; dismissal. And holy oil is given unto the brethren; while singing idiomela; Glory, Tone 8: "It is meet*[^415] *to praise John..."; Both now, Theotokion. At the Divine Liturgy: from the canons, Odes 3 and 6. Prokeimenon, Tone 7: "The righteous shall rejoice in the Lord" [LXX Ps. 63:11]; Verse: "Hear, O God, my voice" [LXX Ps. 63:2]. Epistle: of Cheesefare Sunday [or Rom. 13:11–14:4]. Alleluia, Tone 1: "Blessed be the Lord God of Israel" [Lk. 1:68]; Verse: "And thou, child, shalt be called the prophet of the Highest" [Lk. 1:76]. Gospel from Luke [Lk. 1:1–25, 57–68, 76, 80]: "Forasmuch as many have taken in hand...". Kinonikon: "In everlasting memory shall the righteous be" [LXX Ps. 111:6].*
 *On the 25th day: Of the Holy Venerable Martyr Febronia:*  
 *At Vespers: No Kathisma psalmody. At "Lord, I have cried...", stichera: 3 of the Forerunner, Tone 4; and 3 of the saint; Glory, and now: "In the days of Elizabeth...", in the Octoechos. At the Aposticha: in the Octoechos; Glory, and now: "Beholding Elizabeth...". Troparion of the Forerunner, and of the saint: "Thy lamb, O Jesus..." [Tone 4], see [September] 16. At Matins: Troparion of the Forerunner twice; Glory, of the saint; Both now, Theotokion in the same tone. Canon in the Octoechos on 6, and of the Forerunner on 4, and of the saint on 4. After Ode 3, Kontakion of the saint, Tone 4:*  
 *Kontakion of the Holy Venerable Martyr Febronia, Tone 4:*  
 Forsaking all things from youth, O all-honorable one, thou didst betroth thyself unto Christ, and following after thy Lover, Whom desiring thou didst strive both ascetically and martyricly; therefore thou hast received a double crown, O all-honorable one; Whom entreat on behalf of those who honor thee, O all-praised Febronia!  
-*After Ode 6, Kontakion in the same tone, of the Forerunner...*[^416]
-
-*...Glory, and now, Theotokion. After Ode 6, Kontakion of the Forerunner; at the Aposticha: in the Octoechos; Glory: "It is meet to praise John..."; Both now, Theotokion. At the Divine Liturgy: of the Forerunner, Ode 3 on 4; and of the saint, Ode 6 on 4. Prokeimenon, Tone 4: "God is marvelous in His saints" [LXX Ps. 67:36]; Verse: "In the congregations bless ye God" [LXX Ps. 67:27]. Epistle: lection 16 [Gal. 3:23–4:5]. Alleluia: "With patience I waited for the Lord" [LXX Ps. 39:2]. Gospel from Luke, Monday of the 4th week [Lk. 7:36–50]. Kinonikon: "In everlasting memory shall the righteous be" [LXX Ps. 111:6].*  
+*After Ode 6, Kontakion in the same tone, of the Forerunner*[^416] *Glory, and now, Theotokion. After Ode 6, Kontakion of the Forerunner; at the Aposticha: in the Octoechos; Glory: "It is meet to praise John..."; Both now, Theotokion. At the Divine Liturgy: of the Forerunner, Ode 3 on 4; and of the saint, Ode 6 on 4. Prokeimenon, Tone 4: "God is marvelous in His saints" [LXX Ps. 67:36]; Verse: "In the congregations bless ye God" [LXX Ps. 67:27]. Epistle: lection 16 [Gal. 3:23–4:5]. Alleluia: "With patience I waited for the Lord" [LXX Ps. 39:2]. Gospel from Luke, Monday of the 4th week [Lk. 7:36–50]. Kinonikon: "In everlasting memory shall the righteous be" [LXX Ps. 111:6].*
 *On the 26th day: Of our venerable father David of Thessalonica. Alleluia.*  
 *Troparion: "In thee, O father..." [Tone 8], [see] October 1. Kontakion, Tone 1, Podoben: "The angelic choir..." (Ликъ ангельскїй):*  
 *Kontakion of Venerable David of Thessalonica, Tone 1, Podoben: "The angelic choir..." (Ликъ ангельскїй):*  
@@ -1539,9 +1199,7 @@ An ever-blossoming garden of virtues bringing forth fruit thou wast shown to be 
 *On the 27th day: Of our venerable father Samson the Hospitable:*  
 *Stichera of the saint on 6; at the Aposticha, in the Octoechos; Glory, and now, Theotokion. Troparion: "In thy patience..." [Tone 8], [see] November 22. At Matins: Canon from Ode 3 on 6. Kontakion, Tone 8, Podoben: "To thee, the championed leader" (Взбранной):*  
 *Kontakion of Venerable Samson the Hospitable, Tone 8, Podoben: "To thee, the championed leader" (Взбранной):*  
-As unto an excellent physician and an acceptable intercessor, fleeing unto thy divine reliquary, O Samson, divinely wise and venerable one, coming together in love, with psalms and hymns let us rejoice...*[^417]
-
-*...glorifying Christ Who gave Thee such grace of healings!*  
+As unto an excellent physician and an acceptable intercessor, fleeing unto thy divine reliquary, O Samson, divinely wise and venerable one, coming together in love, with psalms and hymns let us rejoice*[^417] *glorifying Christ Who gave Thee such grace of healings!*
 *On the 28th day: The Translation of the Relics of the Holy Unmercenaries Cyrus and John:*  
 *Stichera of the saints on 6; Glory, Tone 8: "And the ends of the martyrs..."; Both now, Theotokion. At the Aposticha: in the Octoechos; Glory, Tone 2: "Most honorable..."; Both now, Theotokion. Troparion, Tone 1:*  
 *Troparion of the Translation of the Relics of Cyrus and John, Tone 1:*  
@@ -1549,30 +1207,22 @@ The most wise physicians of the universe, who both received merciful grace, now 
 *Glory, and now, Theotokion. At Matins: Canon of the saints on 6. Kontakion, Tone 2:*  
 *Kontakion of the Translation of the Relics of Cyrus and John, Tone 2:*  
 The great remedy of the universe, the beloved pair of Christ, the shining luminaries, the beacons of healing, let us the faithful hymn with a loud voice, crying aloud within their temple: O Cyrus and John, granters of wonders, physicians of the sick, sanctify all lands!  
-*At the Aposticha: in the Octoechos; Glory, Tone 4: "Worthily praise..."; Both now, Theotokion. At the Divine Liturgy: from the canon, Odes 3 and 6. Prokeimenon, Tone 4: "Unto the saints that are in His earth..." [LXX Ps. 15:3]. Epistle: [see] November 1 [1 Cor. 12:27–13:8]. Alleluia...*[^418]
-
-*...Verse: "Behold now, what is good..." [LXX Ps. 132:1]. Gospel from Matthew, [see] November 1 [Mt. 10:1, 5–8]. Kinonikon: "In everlasting memory shall the righteous be" [LXX Ps. 111:6].*  
+*At the Aposticha: in the Octoechos; Glory, Tone 4: "Worthily praise..."; Both now, Theotokion. At the Divine Liturgy: from the canon, Odes 3 and 6. Prokeimenon, Tone 4: "Unto the saints that are in His earth..." [LXX Ps. 15:3]. Epistle: [see] November 1 [1 Cor. 12:27–13:8]. Alleluia*[^418] *Verse: "Behold now, what is good..." [LXX Ps. 132:1]. Gospel from Matthew, [see] November 1 [Mt. 10:1, 5–8]. Kinonikon: "In everlasting memory shall the righteous be" [LXX Ps. 111:6].*
 *On the 29th day: Of the Holy, All-Praised, and Preeminent Apostles Peter and Paul. All-Night Vigil:*  
 *At Small Vespers: Stichera on 4; Glory, Tone 4: "Thrice..."; Both now, Theotokion. At the Aposticha: idiomela 3, Tone 1, with verses; Glory, Tone 6: "A joyful feast..."; Both now, Theotokion. Troparion, Tone 4:*  
 *Troparion of the Holy Preeminent Apostles Peter and Paul, Tone 4:*  
 Ye leaders of the apostles and teachers of the universe, entreat the Master of all to grant peace unto the universe and great mercy unto our souls!  
-*At Great Vespers: "Blessed is the man" [Kathisma 1]. At "Lord, I have cried...", Tone 2: stichera 3 of the saints, on 8: Tone 2, two stichera repeated thrice, and one repeated twice; Glory: "Thrice...", Tone 4; Both now, Dogmatikon 1. Entrance. 3 Lections. At the Litiya: stichera 4, Tone 4; Glory, Tone 3: "Of the heavenly..."; Both now, Theotokion. At the Aposticha: idiomela 3, Tone 1; and they say verses: "Their sound is gone out into all the earth" [LXX Ps. 18:5]; and "The heavens shall confess Thy wonders" [LXX Ps. 88:6]; Glory: "A joyful feast..."; Both now, Theotokion. Troparion: "O Theotokos and Virgin...", twice; and of the saints once: "Ye leaders of the apostles...". Blessing of the loaves, and reading of the interpretation...*[^419]
-
-*...reading from the Lives of the saints.*  
+*At Great Vespers: "Blessed is the man" [Kathisma 1]. At "Lord, I have cried...", Tone 2: stichera 3 of the saints, on 8: Tone 2, two stichera repeated thrice, and one repeated twice; Glory: "Thrice...", Tone 4; Both now, Dogmatikon 1. Entrance. 3 Lections. At the Litiya: stichera 4, Tone 4; Glory, Tone 3: "Of the heavenly..."; Both now, Theotokion. At the Aposticha: idiomela 3, Tone 1; and they say verses: "Their sound is gone out into all the earth" [LXX Ps. 18:5]; and "The heavens shall confess Thy wonders" [LXX Ps. 88:6]; Glory: "A joyful feast..."; Both now, Theotokion. Troparion: "O Theotokos and Virgin...", twice; and of the saints once: "Ye leaders of the apostles...". Blessing of the loaves, and reading of the interpretation*[^419] *reading from the Lives of the saints.*
 *At Matins: Troparion 3 times: [Troparion of the Apostles twice]; Glory, and now, Theotokion. Kathismata and Polyeleos; Antiphon of the Degrees in Tone 4.*  
 *Prokeimenon, Tone 8: "Their sound is gone out into all the earth" [LXX Ps. 18:5]; Verse: "The heavens declare the glory of God" [LXX Ps. 18:2]. "Let every breath praise the Lord" [LXX Ps. 150:6]. 1st Matins Gospel. Psalm 50 [LXX Ps. 50:3]; and Idiomelon Sticheron: "With the saints unto Thee, O Wisdom of God...". Canons 2: Tone 4, [Canon 1] on 8; another [Canon 2] Tone 8, on 6. Katavasia: Heirmos of the 8th Tone. After Ode 3, Hypakoe; Sessional hymn [after Ode 6]. After Ode 6, Kontakion, Tone 2, Automelon:*  
 *Kontakion of the Holy Preeminent Apostles Peter and Paul, Tone 2, Automelon:*  
 The firm and divinely-proclaiming preachers, the summit of Thy disciples, O Lord, Thou hast accepted into the enjoyment of Thy good things and repose; for their labors and death hast Thou received above every whole-burnt offering, O Thou Who alone knowest the secrets of hearts!  
-*At the 9th Ode: candles are distributed to the brethren. After the 9th, Exapostilarion. At the Praises: 3 automela, on 4; Tone 4: "Called from on high..."; Glory, Tone 6: "The all-honorable apostolic [assembly]..."; Both now, Theotokion. Great Doxology. Troparion of the saints. Litany. Dismissal; and holy oil is given to the brethren. At the Divine Liturgy: from the canons, Odes 3 and 6. Prokeimenon, Tone 8: "Into all the earth..." [LXX Ps. 18:5]; Verse: "The heavens declare..." [LXX Ps. 18:2]. Epistle to the Corinthians, lection 193 [2 Cor. 11:21–12:9]: "Whereinsoever any is bold..."*[^420]
-
-*...[Whereinsoever any is] bold [2 Cor. 11:21]. Alleluia, Tone 1: "The heavens shall confess [Thy wonders, O Lord]" [LXX Ps. 88:6]; Verse: "God is glorified [in the counsel of the saints]" [LXX Ps. 88:8]. Gospel from Matthew [lection 67 / Mt. 16:13–19]: "In those days, Jesus came into the coasts of Caesarea Philippi...". Kinonikon: "Into all the earth [their sound is gone out]" [LXX Ps. 18:5].*  
+*At the 9th Ode: candles are distributed to the brethren. After the 9th, Exapostilarion. At the Praises: 3 automela, on 4; Tone 4: "Called from on high..."; Glory, Tone 6: "The all-honorable apostolic [assembly]..."; Both now, Theotokion. Great Doxology. Troparion of the saints. Litany. Dismissal; and holy oil is given to the brethren. At the Divine Liturgy: from the canons, Odes 3 and 6. Prokeimenon, Tone 8: "Into all the earth..." [LXX Ps. 18:5]; Verse: "The heavens declare..." [LXX Ps. 18:2]. Epistle to the Corinthians, lection 193 [2 Cor. 11:21–12:9]: "Whereinsoever any is bold"*[^420] *[Whereinsoever any is] bold [2 Cor. 11:21]. Alleluia, Tone 1: "The heavens shall confess [Thy wonders, O Lord]" [LXX Ps. 88:6]; Verse: "God is glorified [in the counsel of the saints]" [LXX Ps. 88:8]. Gospel from Matthew [lection 67 / Mt. 16:13–19]: "In those days, Jesus came into the coasts of Caesarea Philippi...". Kinonikon: "Into all the earth [their sound is gone out]" [LXX Ps. 18:5].*
 *On the 30th day: The Synaxis of the Twelve Holy Apostles:*  
 *At Vespers: No Kathisma psalmody. Stichera 3 to Peter and Paul, and 3 to the Synaxis; Glory, Tone 4: "Christ, willing first..."; Both now, Theotokion. At the Aposticha: prosomoia 3; Glory: "The all-honorable..."; Both now, Theotokion: "Thou art a vine blossoming...". The same troparion of the apostles is sung 4 times; Glory, and now, Theotokion. At Matins: ordinary Kathisma psalmody. Sessional hymns of the Apostles. Canons: first to Peter and Paul, both on 8, and to the Twelve on 10, and on 6. After Ode 3, Kontakion of the Synaxis, Tone 2:*  
 *Kontakion of the Synaxis of the Twelve Holy Apostles, Tone 2:*  
 Faithful, let us praise Peter, the rock of faith, and with him the divinely-wise Paul; for he calls all together to celebrate faithfully, and the rest as preachers of the faith, asking remission of sins!  
-*Then after Ode 3, the other sessional hymns; after Ode 6, Kontakion and another Kontakion. At the Praises: 3 stichera... Great Doxology. The same troparion of the Apostles; Glory, and now, Theotokion. Litany. Dismissal. At the Divine Liturgy: from the canon of the Synaxis, Odes 3 and 6. Prokeimenon, Tone 8: "Into all the earth..." [LXX Ps. 18:5]; Verse: "The heavens declare..." [LXX Ps. 18:2]...*[^421]
-
-*...[The heavens] declare [LXX Ps. 18:2]. Gospel from Matthew [Mt. 9:36–10:8]: "At that time, Jesus went up into a mountain...". Kinonikon: "Into all the earth [their sound is gone out]" [LXX Ps. 18:5].*  
+*Then after Ode 3, the other sessional hymns; after Ode 6, Kontakion and another Kontakion. At the Praises: 3 stichera... Great Doxology. The same troparion of the Apostles; Glory, and now, Theotokion. Litany. Dismissal. At the Divine Liturgy: from the canon of the Synaxis, Odes 3 and 6. Prokeimenon, Tone 8: "Into all the earth..." [LXX Ps. 18:5]; Verse: "The heavens declare..." [LXX Ps. 18:2]*[^421] *[The heavens] declare [LXX Ps. 18:2]. Gospel from Matthew [Mt. 9:36–10:8]: "At that time, Jesus went up into a mountain...". Kinonikon: "Into all the earth [their sound is gone out]" [LXX Ps. 18:5].*
 *The Month of July hath 31 days; the day hath 14 hours, and the night 10.*  
 *On the 1st day: Of the Holy Unmercenaries and Wonderworkers Cosmas and Damian:*  
 *At Vespers, and at Matins, and at the Divine Liturgy, their service is in nothing changed, as written on the 1st day [of November].*  
@@ -1580,9 +1230,7 @@ Faithful, let us praise Peter, the rock of faith, and with him the divinely-wise
 *At Vespers: Ordinary Kathisma psalmody. Stichera on 6; Glory, and now, Tone 2. At the Aposticha: Glory, and now: "As a crown...". Troparion, Tone 8:*  
 *Troparion of the Deposition of the Precious Robe, Tone 8:*  
 O Theotokos, Ever-Virgin, protection of mankind, Thou hast granted the robe and the sash of Thy most pure body as a mighty vesting unto Thy city, having remained incorrupt in Thy seedless childbirth; for in Thee nature and time are renewed; therefore we entreat Thee to grant peace unto the universe and great mercy unto our souls!  
-*The same at "God is the Lord". At Matins: Canon of the Theotokos on 6...*[^422]
-
-*...[and of the feast] on 8. After Ode 6, Kontakion, Tone 4:*  
+*The same at "God is the Lord". At Matins: Canon of the Theotokos on 6*[^422] *[and of the feast] on 8. After Ode 6, Kontakion, Tone 4:*
 *Kontakion of the Deposition of the Precious Robe, Tone 4:*  
 As an incorrupt vesture unto all the faithful, O divinely graced pure Virgin, Thou hast granted Thy sacred robe, wherewith Thou didst cover Thy sacred and honorable body, O protection of all men, whose deposition we celebrate with love; and singing we cry aloud: Pure one, rejoice, O Virgin, the boast of Christians!  
 *At the Aposticha: Glory, and now, Tone 2. At the Divine Liturgy: Prokeimenon, Tone 3, Song of the Theotokos: "My soul doth magnify the Lord" [Lk. 1:46]; Verse: "For He hath regarded the lowliness of His handmaiden" [Lk. 1:48]. Epistle to the Hebrews, lection 320 [Heb. 9:1–7]: "The first covenant had also...". Alleluia: "Arise, O Lord, into Thy rest" [LXX Ps. 131:8]. Gospel from Luke [Lk. 1:39–49, 56]: "At that time, Mary arose...". Kinonikon: "I will take the cup of salvation" [LXX Ps. 115:4].*  
@@ -1590,16 +1238,12 @@ As an incorrupt vesture unto all the faithful, O divinely graced pure Virgin, Th
 *On the 4th day: Of our father among the saints, Andrew, Archbishop of Crete:*  
 *At Vespers: Stichera of the saint on 6; Glory, and now, Theotokion. At the Aposticha: Troparion: "A rule of faith..." [Tone 4], see December 6. At Matins: Canon in the Octoechos, and of the saint on 4; after Ode 6, Kontakion, Tone 2, to a supplicatory melody:*  
 *Kontakion of St. Andrew, Archbishop of Crete, Tone 2:*  
-Having trumpeted clearly divine songs, thou wast shown forth a luminary...*[^423]
-
-*...in the world, shining from afar with the radiance of the Trinity, O venerable Andrew; therefore we all cry aloud unto thee: Pray unceasingly on behalf of us all!*  
+Having trumpeted clearly divine songs, thou wast shown forth a luminary*[^423] *in the world, shining from afar with the radiance of the Trinity, O venerable Andrew; therefore we all cry aloud unto thee: Pray unceasingly on behalf of us all!*
 *On the 5th day: Of our venerable mother Martha, mother of Saint Symeon the Wonderworker; and of our holy father Athanasius the Athonite of the Holy Mountain, who built the Great Lavra of the Most Holy Theotokos:*  
 *At Vespers: "Blessed is the man" [Kathisma 1]. The office of both. 3 Lections. At the Litiya: in the Octoechos, or not sung. Troparion, Tone 3:*  
 *Troparion of Venerable Athanasius the Athonite, Tone 3:*  
 At thy life in the flesh the angelic ranks were amazed, how with a body thou didst engage unseen wiles, O glorious one, and didst wound the legions of demons; therefore, O Athanasius, Christ also enriched thee with bountiful gifts; therefore, O father, entreat that our souls may be saved!  
-*Glory: "In thee, O mother...", see September 25; Both now, Theotokion. At Matins: Ordinary Kathisma psalmody, and the Polyeleos; Sessional hymns, Tone 4. Prokeimenon: "Precious in the sight of the Lord is the death of His venerable ones" [LXX Ps. 115:6]; Verse: "What shall I render unto the Lord for all that He hath rendered unto me?" [LXX Ps. 115:3]. "Let every breath praise the Lord" [LXX Ps. 150:6]...*[^424]
-
-*...Gospel from John, 5th Sunday after Pascha, midday lection. Psalm 50 [LXX Ps. 50:3]; and Idiomelon Sticheron. Canons of the saints with the heirmos on 6, and two canons on 8. After Ode 3, Sessional hymn of the saints; Glory, of the saint; Both now, Theotokion. After Ode 6, Kontakion, Tone 4:*  
+*Glory: "In thee, O mother...", see September 25; Both now, Theotokion. At Matins: Ordinary Kathisma psalmody, and the Polyeleos; Sessional hymns, Tone 4. Prokeimenon: "Precious in the sight of the Lord is the death of His venerable ones" [LXX Ps. 115:6]; Verse: "What shall I render unto the Lord for all that He hath rendered unto me?" [LXX Ps. 115:3]. "Let every breath praise the Lord" [LXX Ps. 150:6]*[^424] *Gospel from John, 5th Sunday after Pascha, midday lection. Psalm 50 [LXX Ps. 50:3]; and Idiomelon Sticheron. Canons of the saints with the heirmos on 6, and two canons on 8. After Ode 3, Sessional hymn of the saints; Glory, of the saint; Both now, Theotokion. After Ode 6, Kontakion, Tone 4:*
 *Kontakion of Venerable Athanasius the Athonite, Tone 4:*  
 Beholding the immaterial essences, an exceptional and active teacher of all truth, thy flock cries aloud unto thee, O divinely speaking one, praying unceasingly on behalf of thy servants, to be delivered from temptations and besieged sorrow, singing unto thee: Rejoice, O father Athanasius!  
 *At the Praises: Stichera on 4; Glory: "The choir of monastics..."; Both now, Theotokion. Great Doxology. Troparion of both. At the Divine Liturgy: from the canon, Odes 3 and 6. Prokeimenon: "Precious in the sight of the Lord is the death of His venerable ones" [LXX Ps. 115:6]; Verse: "What shall I render unto the Lord..." [LXX Ps. 115:3]. Epistle: see September 27. Alleluia: "Blessed is the man that fears the Lord" [LXX Ps. 111:1]. Gospel from Matthew [Mt. 11:27–30]. Kinonikon: "In everlasting memory shall the righteous be" [LXX Ps. 111:6].*  
@@ -1607,16 +1251,12 @@ Beholding the immaterial essences, an exceptional and active teacher of all trut
 *Troparion: "A dweller in the wilderness..." [Tone 1], see September 20. Kontakion:*  
 *Kontakion of Venerable Sisoes the Great:*  
 An angelic fasting-dweller upon earth wast thou shown forth, enlightening the faithful with triumphs, being divinely-signified always; therefore with love do we honor thee, O Sisoes!  
-*On the 7th day: Of the venerable fathers Thomas and Acacius...*[^425]
-
-*...and Acacius who is in the Ladder [of Divine Ascent]. Alleluia.*  
+*On the 7th day: Of the venerable fathers Thomas and Acacius*[^425] *and Acacius who is in the Ladder [of Divine Ascent]. Alleluia.*
 *On the 8th day: Of the Holy Great-Martyr Procopius:*  
 *At Vespers: Stichera of the saint on 6; Glory, Tone 6: "In bodily infirmity..."; Both now, Theotokion. At the Aposticha: Glory, Tone 8: "Mystic..."; Both now, Theotokion. Troparion: "Thy martyr, O Lord..." [Tone 4]. At Matins: Canons in the Octoechos, and of the saint on 6. After Ode 3, Kontakion, Tone 2, to a supplicatory melody:*  
 *Kontakion of the Holy Great-Martyr Procopius, Tone 2:*  
 Inflamed with divine zeal for Christ and guarded by the form of the honorable Cross, thou didst cast down the raging and arrogance of the enemy, O Procopius, and didst exalt the honorable Church, advancing through faith and establishing us!  
-*At the Praises: 3 idiomela, and of the saint Tone 1, and another Tone 2, Tone 3, and Tone 4; Verse: "The righteous shall flourish like a palm tree" [LXX Ps. 91:13]; and idiomelon Tone 5; Glory, Tone 4; Both now, Theotokion. At the Aposticha: then "God is marvelous in His saints" [LXX Ps. 67:36]; and idiomelon, Tone 6: "Today the whole universe..."; Glory, Tone 8: "Even as unto Paul..."; Both now, Theotokion. At the Divine Liturgy: from the canon of the saint, Odes 3 and 6. Prokeimenon, Tone 4: "God is marvelous in His saints" [LXX Ps. 67:36]; Verse: "In the congregations bless ye God" [LXX Ps. 67:27]. Epistle: Saturday of the 27th week [lection 32 / Eph. 6:10–17]. Alleluia...*[^426]
-
-*...[Alleluia:] "The righteous shall flourish like a palm tree" [LXX Ps. 91:13]. Gospel: see May 14 [or Lk. 12:2–12].*  
+*At the Praises: 3 idiomela, and of the saint Tone 1, and another Tone 2, Tone 3, and Tone 4; Verse: "The righteous shall flourish like a palm tree" [LXX Ps. 91:13]; and idiomelon Tone 5; Glory, Tone 4; Both now, Theotokion. At the Aposticha: then "God is marvelous in His saints" [LXX Ps. 67:36]; and idiomelon, Tone 6: "Today the whole universe..."; Glory, Tone 8: "Even as unto Paul..."; Both now, Theotokion. At the Divine Liturgy: from the canon of the saint, Odes 3 and 6. Prokeimenon, Tone 4: "God is marvelous in His saints" [LXX Ps. 67:36]; Verse: "In the congregations bless ye God" [LXX Ps. 67:27]. Epistle: Saturday of the 27th week [lection 32 / Eph. 6:10–17]. Alleluia*[^426] *[Alleluia:] "The righteous shall flourish like a palm tree" [LXX Ps. 91:13]. Gospel: see May 14 [or Lk. 12:2–12].*
 *On the 9th day: The memory of the Holy Hieromartyr Pancratius, Bishop of Taormina:*  
 *Troparion: "And having shared in the ways..." [Tone 4], see [October] 3.*  
 *On the 10th day: Of the Holy 45 Martyrs in Nicopolis. Alleluia.*  
@@ -1626,26 +1266,20 @@ Inflamed with divine zeal for Christ and guarded by the form of the honorable Cr
 Having loved thy Bridegroom, and having prepared thy lamp brightly, shining with virtues, O all-praised one; therefore thou didst enter with Him into the bridal chamber, having received from Him the crown of suffering; and deliver from perils us who honor thy memory with faith!  
 *Glory, and now, Theotokion. At Matins: Canon in the Octoechos, and of the saint on 6. After Ode 6, Kontakion, Tone 8:*  
 *Kontakion of the Holy Great-Martyr Euphemia, Tone 8:*  
-Strivings in sufferings, strivings in faith didst thou earnestly show forth, a reproach unto demons, and unto life like unto heresy and the raging of enemies, helping our rulers to subdue them, for the sake of the Theotokos, which of the six hundred...*[^427]
-
-*...and thirty God-bearing Fathers receiving the decree, and having preserved it, O all-praised one!*  
+Strivings in sufferings, strivings in faith didst thou earnestly show forth, a reproach unto demons, and unto life like unto heresy and the raging of enemies, helping our rulers to subdue them, for the sake of the Theotokos, which of the six hundred*[^427] *and thirty God-bearing Fathers receiving the decree, and having preserved it, O all-praised one!*
 *At the Praises: Stichera on 4, written [as on September] 16; Glory, Tone 6: "Virgin-martyr..."; Both now, Theotokion. At the Aposticha: Glory, Tone 8: "Every tongue..."; Both now, Theotokion. At the Divine Liturgy: from the canon, Odes 3 and 6. Prokeimenon: "God is marvelous in His saints" [LXX Ps. 67:36]; Verse: "In the congregations bless ye God" [LXX Ps. 67:27]. Epistle: see September 16 [2 Cor. 6:1–10]. Alleluia: "With patience I waited for the Lord" [LXX Ps. 39:2]. Gospel from Luke [Lk. 7:36–50]: "At that time, one of the Pharisees desired Jesus...". Kinonikon: "Rejoice in the Lord, O ye righteous" [LXX Ps. 32:1].*  
 *On the 12th day: Of the Holy Martyrs Proclus and Hilary. Alleluia.*  
 *On the 13th day: The Synaxis of the Holy Archangel Gabriel, and of our venerable father Stephen the Sabbaite:*  
 *At Vespers: Stichera: 3 to the Archangel, and 3 to the saint; Glory, Tone 6: "And rejoice with us..."; Both now, Theotokion. At the Aposticha: Glory, Tone 8: "As leader of the ranks..."; Both now, Theotokion. Troparion: "Leaders of the heavenly armies...", see [November] 8 [Tone 4]. But if there be no stichera and canon to the Archangel in the Menaion, then they sing as the stichera written on March 26. At Matins: Canons: to the Archangel on 6, and in the Octoechos on 4, and of the saint on 4. After Ode 6, Kontakion, Tone 4:*  
 *Kontakion of the Archangel Gabriel, Tone 4:*  
-Of the bodiless...*[^428]
-
-*...servants thou art the chief defender; the mystery decreed from before the ages was entrusted unto thee alone, O glorious Gabriel: the marvelous childbirth of the Holy Virgin; having proclaimed unto Her: Rejoice, O full of grace! Therefore, as is meet, we the faithful joyfully glorify thee forever!*  
+Of the bodiless*[^428] *servants thou art the chief defender; the mystery decreed from before the ages was entrusted unto thee alone, O glorious Gabriel: the marvelous childbirth of the Holy Virgin; having proclaimed unto Her: Rejoice, O full of grace! Therefore, as is meet, we the faithful joyfully glorify thee forever!*
 *At the Praises: Dismissal stichera; Glory, Tone 6: "Thine angels, O Lord..."; Both now, Theotokion. At the Divine Liturgy: see November 8.*  
 *On the 14th day: Of the Holy Apostle Aquila:*  
 *Troparion: "Holy apostle..." [Tone 3]. Kontakion, Tone 4:*  
 *Kontakion of the Holy Apostle Aquila, Tone 4:*  
 As a great sun the Church hath gained thee, O glorious Aquila, with the splendors of thy teaching enlightening those who faithfully honor thee, O mystically-initiated apostle!  
 *On the 15th day: Of the Holy Martyrs Cyricus and Julitta; and the Falling Asleep of the Holy Equal-to-the-Apostles, the Great Prince Volodymyr, named Basil, who baptized the Rus' Land:*  
-*At Vespers: Stichera of the saints on 6; Glory, Tone 6: "Come ye..."; Both now, Theotokion. At the Aposticha: Glory, Tone 8; Both now, Theotokion. Troparion: "Thy martyrs, O Lord..." [Tone 4]. At Matins: Canon of the saints on 6. After Ode 6, Kontakion, Tone 4 [or 3], Podoben: "Seeking the highest..." (Къ вышнимъ): "An acceptable sacrifice..."*[^429]
-
-*...offering [themselves] an acceptable sacrifice unto God, and shown forth a witness of the faithful, thou didst suffer in death with Julitta, O glorious Cyricus, praying with her unto Christ God unceasingly on behalf of us all.*  
+*At Vespers: Stichera of the saints on 6; Glory, Tone 6: "Come ye..."; Both now, Theotokion. At the Aposticha: Glory, Tone 8; Both now, Theotokion. Troparion: "Thy martyrs, O Lord..." [Tone 4]. At Matins: Canon of the saints on 6. After Ode 6, Kontakion, Tone 4 [or 3], Podoben: "Seeking the highest..." (Къ вышнимъ): "An acceptable sacrifice"*[^429] *offering [themselves] an acceptable sacrifice unto God, and shown forth a witness of the faithful, thou didst suffer in death with Julitta, O glorious Cyricus, praying with her unto Christ God unceasingly on behalf of us all.*
 *At the Praises: 4 idiomela: two Tone 2, and two Tone 4; Glory, Tone 2: "Come, ye faithful..."; Both now, Theotokion. At the Aposticha: Glory, Tone 4: "He makes glad..."; Both now, Theotokion. At the Divine Liturgy: from the canons, Odes 3 and 6. Prokeimenon: "Praise the Lord, O ye servants" [LXX Ps. 112:1]. Epistle to the Corinthians [1 Cor. 13:11–14:5]: "When I was a child...". Alleluia, Tone 8: "Out of the mouth of babes and sucklings" [LXX Ps. 8:3]. Gospel from Luke: see... Kinonikon: "Rejoice in the Lord, O ye righteous" [LXX Ps. 32:1].*  
 *On the 16th day: Of the Holy Hieromartyr Athenogenes and his 10 disciples. On that day is the memory of the Holy Fathers: the 630 who were in Chalcedon; and who were in Nicaea, 318; and who were in Constantinople, 150; and who were in Ephesus, 200; and who were in the Holy Fifth Council, 167; and of the Sixth Council, 170:*  
 *At Vespers: Stichera of the saints on 6, Tone 6, Podoben: "Despairing of salvation..." (По не спасаемаа); Glory, Tone 6: "The mystic trumpets..."; Both now, Theotokion: "Who doth not call thee blessed...". At the Aposticha: Glory, Tone 4: "A supplicatory hymn..."; Both now, Theotokion. Troparion, Tone 8:*[^430]
@@ -1656,16 +1290,12 @@ Most glorious art Thou, O Christ our God, Who didst establish our fathers as lum
 *At Matins: Canon of the saints on 6; after Ode 3, Sessional hymn of the saints; after Ode 6, Kontakion, Tone 8:*  
 *Kontakion of the Holy Fathers of the Ecumenical Councils, Tone 8:*  
 The proclamation of the apostles and the teachings of the fathers have sealed the one faith of the Church, which, wearing the robe of truth woven of theology from above, rightly divides and glorifies the great mystery of piety!  
-*Exapostilarion of the saints; Both now, Theotokion. At the Praises: 3 prosomoia of the Holy Fathers, on 6, Tone 6, Podoben: "Having set aside all hope..." (Все упованїе); Glory, Tone 8: "The choir of the Holy Fathers..."; Both now, Theotokion. At the Aposticha: Glory, Tone 3: "Apostolic traditions..."; Both now, Theotokion. At the Divine Liturgy: The Beatitudes in the Octoechos on 6, and of the Holy Fathers, Odes 3 and 6, on 6; Troparion and Kontakion of the Holy Fathers; Glory, and now, Theotokion: "Protection of Christians...". Prokeimenon, Tone 6: "The righteous shall be glad in the Lord" [LXX Ps. 63:11]; Verse: "Blessed are they whom Thou hast chosen" [LXX Ps. 64:5]. Epistle to Titus [Tit. 3:8–15]: "Child Titus, faithful is the saying, and concerning these things I desire that thou affirm...". Alleluia, Tone 4: "The righteous cried..."*[^431]
-
-*...[Alleluia, Tone 4: "The righteous] cried, [and the Lord heard them]" [LXX Ps. 33:18]. Gospel from Matthew [Mt. 5:14–19]: "Ye are the light of the world...". Kinonikon: "In everlasting memory shall the righteous be" [LXX Ps. 111:6]. And the office of Saint Athenogenes is sung whenever the ecclesiarch wishes.*  
+*Exapostilarion of the saints; Both now, Theotokion. At the Praises: 3 prosomoia of the Holy Fathers, on 6, Tone 6, Podoben: "Having set aside all hope..." (Все упованїе); Glory, Tone 8: "The choir of the Holy Fathers..."; Both now, Theotokion. At the Aposticha: Glory, Tone 3: "Apostolic traditions..."; Both now, Theotokion. At the Divine Liturgy: The Beatitudes in the Octoechos on 6, and of the Holy Fathers, Odes 3 and 6, on 6; Troparion and Kontakion of the Holy Fathers; Glory, and now, Theotokion: "Protection of Christians...". Prokeimenon, Tone 6: "The righteous shall be glad in the Lord" [LXX Ps. 63:11]; Verse: "Blessed are they whom Thou hast chosen" [LXX Ps. 64:5]. Epistle to Titus [Tit. 3:8–15]: "Child Titus, faithful is the saying, and concerning these things I desire that thou affirm...". Alleluia, Tone 4: "The righteous cried"*[^431] *[Alleluia, Tone 4: "The righteous] cried, [and the Lord heard them]" [LXX Ps. 33:18]. Gospel from Matthew [Mt. 5:14–19]: "Ye are the light of the world...". Kinonikon: "In everlasting memory shall the righteous be" [LXX Ps. 111:6]. And the office of Saint Athenogenes is sung whenever the ecclesiarch wishes.*
 *On the 17th day: Of the Holy Great-Martyr Marina; and the Translation of the Relics of our Venerable Father Lazarus of Mount Galesios:*  
 *At Vespers: Stichera of the saint on 6; Glory, Idiomelon; Both now, Theotokion. At the Aposticha: Glory, Tone 2: "In the voice of rejoicing..."; Both now, Theotokion. Troparion: "Thy lamb, O Jesus..." [Tone 4], see [September] 16. At Matins: Canons in the Octoechos, and of the saint on 6. After Ode 6, Kontakion, Tone 3:*  
 *Kontakion of the Holy Great-Martyr Marina, Tone 3:*  
 Today Marina crushes the head of the enemy, having received the crown of victory from heaven; for whom they could not restrain by fierce assault, him she crushed and wounded; therefore she hath been shown forth the ornament of martyrs, together with their praise!  
-*At the Aposticha: Glory, Tone 1: "As a refined vessel..."; Both now, Theotokion. At the Divine Liturgy: from the canon of the saint, Odes 3 and 6. Prokeimenon: "God is marvelous in His saints" [LXX Ps. 67:36]. Epistle: see [September] 16 [2 Cor. 6:1–10]. Alleluia: "With patience I waited for the Lord" [LXX Ps. 39:2]. Gospel from Luke...*[^432]
-
-*...Gospel from Luke [Lk. 7:36–50]. Kinonikon: "Rejoice in the Lord, O ye righteous" [LXX Ps. 32:1].*  
+*At the Aposticha: Glory, Tone 1: "As a refined vessel..."; Both now, Theotokion. At the Divine Liturgy: from the canon of the saint, Odes 3 and 6. Prokeimenon: "God is marvelous in His saints" [LXX Ps. 67:36]. Epistle: see [September] 16 [2 Cor. 6:1–10]. Alleluia: "With patience I waited for the Lord" [LXX Ps. 39:2]. Gospel from Luke*[^432] *Gospel from Luke [Lk. 7:36–50]. Kinonikon: "Rejoice in the Lord, O ye righteous" [LXX Ps. 32:1].*
 *On the 18th day: Of the Holy Martyr Emilian. Alleluia.*  
 *On the 19th day: Of Holy Macrina, sister of Basil the Great; and of our holy father Dios: Their office together.*  
 *Troparion: "In thee, O mother...", see [September] 25; Glory: "A dweller in the wilderness...", see [September] 29. At Matins: Canon in the Octoechos on 6, and of the saints two. Kontakion, Tone 2:*  
@@ -1674,9 +1304,7 @@ Armed divinely with courage of soul, and having taken up unceasing prayer as a s
 *On the 20th day: Of the Holy and Glorious Prophet Elijah:*  
 *At Vespers: Ordinary Kathisma psalmody. At "Lord, I have cried": [stichera on 8]; at the Litiya: Tone 1... and 3 idiomela, Tone 2; Glory, Tone 6: "O prophet and herald of Christ..."; Both now, Theotokion. Troparion, Tone 4:*  
 *Troparion of the Holy Prophet Elijah, Tone 4:*  
-An angel in the flesh, the foundation of the prophets, the second forerunner of the coming of Christ, glorious Elijah, who sent down grace from on high unto Elisha...*[^433]
-
-*...to drive away sicknesses and cleanse lepers; therefore unto them that honor him he pours forth healings!*  
+An angel in the flesh, the foundation of the prophets, the second forerunner of the coming of Christ, glorious Elijah, who sent down grace from on high unto Elisha*[^433] *to drive away sicknesses and cleanse lepers; therefore unto them that honor him he pours forth healings!*
 *At Matins: Canons in the Octoechos, and of the saint on 6; after Ode 6, Kontakion, Tone 2:*  
 *Kontakion of the Holy Prophet Elijah, Tone 2:*  
 O prophet and herald of the great works of our God, O Elijah of great renown, who by thy word didst hold back the water-flowing clouds, pray on our behalf unto the only Lover of mankind!  
@@ -1684,37 +1312,27 @@ O prophet and herald of the great works of our God, O Elijah of great renown, wh
 *On the 21st day: Memory of our venerable father John and Symeon the Fool-for-Christ; and of the Holy Prophet Ezekiel:*  
 *Troparion: "O God of our fathers...", see [November 20]. Kontakion, Tone 2:*  
 *Kontakion of Venerable John and Symeon the Fool-for-Christ, Tone 2:*  
-Inflamed with the love of Christ, O glorious ones, ye abandoned all things in this earthly life...*[^434]
-
-*...fleeting, and having accepted His yoke and lifted the Cross upon your shoulder, ye became imitators of His life, partakers of His divine glory, O divinely-wise John with marvelous Symeon: pray unceasingly on behalf of us all!*  
+Inflamed with the love of Christ, O glorious ones, ye abandoned all things in this earthly life*[^434] *fleeting, and having accepted His yoke and lifted the Cross upon your shoulder, ye became imitators of His life, partakers of His divine glory, O divinely-wise John with marvelous Symeon: pray unceasingly on behalf of us all!*
 *On the 22nd day: Of Holy Mary Magdalene, the Myrrh-bearer; and of the Holy Hieromartyr Phocas:*  
 *At Vespers: Stichera of the saint on 6; Glory, Tone 6: "Having first beheld..."; Both now, Theotokion. At the Aposticha: Glory, Tone 8: "Unto Him Who willingly impoverished Himself..."; Both now, Theotokion. Troparion, Tone 1:*  
 *Troparion of Holy Mary Magdalene, Tone 1:*  
 Unto Christ, Who for our sake was born of the Virgin, honorable Magdalene, thou didst follow, keeping His ordinances and laws; therefore rejoicing we celebrate thy most holy memory, praising thee in faith and honoring thee with love!  
 *Glory: "And having shared in the ways..." [Troparion of St. Phocas, Tone 4]; Both now, Theotokion. At Matins: Canon in the Octoechos on 6, and of the saints two. After Ode 6, Kontakion, Tone 3, Podoben: "Today the Virgin..." (Дѣва днесь):*  
 *Kontakion of Holy Mary Magdalene, Tone 3:*  
-Standing, O all-glorious one, at the Cross of the Savior with many others, and weeping tears of praise unto the Mother of the Lord, bringing this offering...*[^435]
-
-*...crying aloud: "What strange marvel is this? He Who upholds all creation hath willed to suffer! Glory to Thy dominion!"*  
+Standing, O all-glorious one, at the Cross of the Savior with many others, and weeping tears of praise unto the Mother of the Lord, bringing this offering*[^435] *crying aloud: "What strange marvel is this? He Who upholds all creation hath willed to suffer! Glory to Thy dominion!"*
 *At the Aposticha: Glory, Tone 4: "From thy youth...", see [fol.] 22; Both now: "Unto Him Who willingly impoverished Himself...". At the Divine Liturgy: from the canon of Mary, Odes 3 and 6. Prokeimenon: "God is marvelous in His saints" [LXX Ps. 67:36]; Verse: "In the congregations bless ye God" [LXX Ps. 67:27]. Epistle: lection 16 [1 Cor. 9:2–12]. Alleluia: "With patience I waited for the Lord" [LXX Ps. 39:2]. Gospel from Luke [Lk. 8:1–3]. Kinonikon: "Rejoice in the Lord, O ye righteous" [LXX Ps. 32:1].*  
 *On the 23rd day: Of the Holy Martyrs Trophimus and Theophilus and those with them. Alleluia.*  
 *On the 24th day: Of the Holy Martyr Christina; and of the Holy Passion-bearing Martyrs Boris and Gleb:*  
-*At Vespers: "Blessed is the man" [Kathisma 1]. Stichera of the saints on 6; Glory of the saint [Christina], Tone 2: "As an alabaster flask..."; Both now, Theotokion. Entrance. Prokeimenon. 3 Lections, see [September] 26, written for the Theologian. At the Aposticha: 3 prosomoia of the saint; then Verse: "Precious in the sight of the Lord is the death of His venerable ones" [LXX Ps. 115:6]; and idiomelon, Tone 6: "Come, let us praise..."; Glory, Tone 2, of the saint: "Unto the named after Christ..."; Both now, Theotokion. Troparion of the Martyrs [Tone 4]: "Thy martyrs, O Lord...". At Matins: Troparion of the saints twice; Glory of the saint; Both now, Theotokion. Ordinary Kathisma psalmody...*[^436]
-
-*...and the Polyeleos; Sessional hymns of the saints, Tone 4. Prokeimenon: "Precious in the sight of the Lord is the death of His venerable ones" [LXX Ps. 115:6]; Verse: "What shall I render unto the Lord for all that He hath rendered unto me?" [LXX Ps. 115:3]. "Let every breath praise the Lord" [LXX Ps. 150:6]. Gospel from Luke [Lk. 12:2–12]. Psalm 50 [LXX Ps. 50:3]; Verse: "God is marvelous in His saints" [LXX Ps. 67:36]; and Idiomelon, Tone 8: "Despising bodily pleasures...". Canon of the saint [Christina] with the heirmos on 6, and of the saints [Boris and Gleb] on 8. After Ode 3, Kontakion of the saint [Christina], Tone 4:*  
+*At Vespers: "Blessed is the man" [Kathisma 1]. Stichera of the saints on 6; Glory of the saint [Christina], Tone 2: "As an alabaster flask..."; Both now, Theotokion. Entrance. Prokeimenon. 3 Lections, see [September] 26, written for the Theologian. At the Aposticha: 3 prosomoia of the saint; then Verse: "Precious in the sight of the Lord is the death of His venerable ones" [LXX Ps. 115:6]; and idiomelon, Tone 6: "Come, let us praise..."; Glory, Tone 2, of the saint: "Unto the named after Christ..."; Both now, Theotokion. Troparion of the Martyrs [Tone 4]: "Thy martyrs, O Lord...". At Matins: Troparion of the saints twice; Glory of the saint; Both now, Theotokion. Ordinary Kathisma psalmody*[^436] *and the Polyeleos; Sessional hymns of the saints, Tone 4. Prokeimenon: "Precious in the sight of the Lord is the death of His venerable ones" [LXX Ps. 115:6]; Verse: "What shall I render unto the Lord for all that He hath rendered unto me?" [LXX Ps. 115:3]. "Let every breath praise the Lord" [LXX Ps. 150:6]. Gospel from Luke [Lk. 12:2–12]. Psalm 50 [LXX Ps. 50:3]; Verse: "God is marvelous in His saints" [LXX Ps. 67:36]; and Idiomelon, Tone 8: "Despising bodily pleasures...". Canon of the saint [Christina] with the heirmos on 6, and of the saints [Boris and Gleb] on 8. After Ode 3, Kontakion of the saint [Christina], Tone 4:*
 *Kontakion of the Holy Martyr Christina, Tone 4:*  
 A radiant dove wast thou shown forth, having golden wings, flying up unto the heavenly heights, O honorable Christina; therefore we celebrate thy glorious feast in faith, venerating the shrine of thy relics, wherefrom divine healings richly flow forth unto all, both unto souls and bodies!  
 *Then Sessional hymn of the saint; Glory of the saints; Both now, Theotokion. After Ode 6, Kontakion of the saints, Tone 3, Podoben: "Today the Virgin..." (Дѣва днесь):*  
 *Kontakion of the Holy Passion-bearers Boris and Gleb (Roman and David), Tone 3:*  
-Today hath shone forth the all-glorious memory of you both, the martyrs of Christ, Roman and David, calling us together unto the praising of Christ our God; therefore running unto the shrine of your relics, we receive the gift of healing...*[^437]
-
-*...for ye are divine physicians! Exapostilarion. At the Praises: 3 prosomoia of the saint [Christina], and 3 of the saints [Boris and Gleb]; then Verse: "God is marvelous in His saints" [LXX Ps. 67:36]; and Idiomelon of the saint, Tone 5: "Thy virginal..."; then another Verse: "Precious in the sight of the Lord is the death of His venerable ones" [LXX Ps. 115:6]; and Idiomelon, Tone 6: "Today, ye faithful..."; Glory, Tone 8: "The first-newly-illumined [rulers]..."; Both now, Theotokion. Great Doxology. Troparion of the saints; Glory, and now, Theotokion. Litany, Dismissal, and the 1st Hour. At the Divine Liturgy: from the canon of the saints, Ode 3 on 4, and of the saint, Ode 6 on 4. Prokeimenon, Tone 4: "Unto the saints that are in His earth hath the Lord been marvelous" [LXX Ps. 15:3]; Verse: "I foresaw the Lord always before me" [LXX Ps. 15:8]. Epistle to the Romans [Rom. 8:28–39]: "Brethren, we know that to them that love God all things work together for good...". Alleluia: "The righteous cried, and the Lord heard them" [LXX Ps. 33:18]. Gospel from John [Jn. 15:17–16:2]: "The Lord said unto His disciples: These things I command you...". Kinonikon: "Rejoice in the Lord, O ye righteous" [LXX Ps. 32:1].*  
+Today hath shone forth the all-glorious memory of you both, the martyrs of Christ, Roman and David, calling us together unto the praising of Christ our God; therefore running unto the shrine of your relics, we receive the gift of healing*[^437] *for ye are divine physicians! Exapostilarion. At the Praises: 3 prosomoia of the saint [Christina], and 3 of the saints [Boris and Gleb]; then Verse: "God is marvelous in His saints" [LXX Ps. 67:36]; and Idiomelon of the saint, Tone 5: "Thy virginal..."; then another Verse: "Precious in the sight of the Lord is the death of His venerable ones" [LXX Ps. 115:6]; and Idiomelon, Tone 6: "Today, ye faithful..."; Glory, Tone 8: "The first-newly-illumined [rulers]..."; Both now, Theotokion. Great Doxology. Troparion of the saints; Glory, and now, Theotokion. Litany, Dismissal, and the 1st Hour. At the Divine Liturgy: from the canon of the saints, Ode 3 on 4, and of the saint, Ode 6 on 4. Prokeimenon, Tone 4: "Unto the saints that are in His earth hath the Lord been marvelous" [LXX Ps. 15:3]; Verse: "I foresaw the Lord always before me" [LXX Ps. 15:8]. Epistle to the Romans [Rom. 8:28–39]: "Brethren, we know that to them that love God all things work together for good...". Alleluia: "The righteous cried, and the Lord heard them" [LXX Ps. 33:18]. Gospel from John [Jn. 15:17–16:2]: "The Lord said unto His disciples: These things I command you...". Kinonikon: "Rejoice in the Lord, O ye righteous" [LXX Ps. 32:1].*
 *On the 25th day: The Falling Asleep of Holy Anna, Mother of the Most Holy Theotokos; and of the holy women Olympias and Eupraxia:*  
 *At Vespers: Stichera of the saint on 6; Glory, and now, Tone 8: "Out of a barren womb...". At the Aposticha: Glory, Tone 2: "Unto the true Lover..."; Both now, Tone 8: "Come, all creation...". Troparion, Tone 4:*  
 *Troparion of the Falling Asleep of Holy Anna, Tone 4:*  
-The Bearer of Life didst thou bear in thy womb, the pure Mother of God, O divinely-wise Anna; therefore unto the heavenly reception...*[^438]
-
-*...where is the dwelling of them that rejoice in glory, rejoicing now hast thou passed over, asking cleansing of transgressions for them that honor thee with love, O venerable and ever-blessed one!*  
+The Bearer of Life didst thou bear in thy womb, the pure Mother of God, O divinely-wise Anna; therefore unto the heavenly reception*[^438] *where is the dwelling of them that rejoice in glory, rejoicing now hast thou passed over, asking cleansing of transgressions for them that honor thee with love, O venerable and ever-blessed one!*
 *At Matins: Canon in the Octoechos, and of the saints two. After Ode 6, Kontakion, Tone 2:*  
 *Kontakion of the Falling Asleep of Holy Anna, Tone 2:*  
 We celebrate the memory of the forebears of Christ, in faith asking their aid, that all may be delivered from every tribulation, who cry aloud: Our God is with us, Who hath glorified them even as He was well-pleased!  
@@ -1723,9 +1341,7 @@ We celebrate the memory of the forebears of Christ, in faith asking their aid, t
 *On the 27th day: Of the Holy Great-Martyr and Healer Panteleimon:*  
 *At Vespers: At "Lord, I have cried": 3 prosomoia of the saint, and 3 idiomela, Tone 2; Glory, Tone 8: "Having loved..."; Both now, Theotokion. Troparion, Tone 3:*  
 *Troparion of the Holy Great-Martyr Panteleimon, Tone 3:*  
-Passion-bearer of Christ, Panteleimon, entreat the Merciful God...*[^439]
-
-*...that He grant remission of sins unto our souls.*[^440]  
+Passion-bearer of Christ, Panteleimon, entreat the Merciful God*[^439] *that He grant remission of sins unto our souls.*[^440]
 *At Matins: Canons in the Octoechos, and of the saint on 6; after Ode 6, Kontakion, Tone 5, Idiomelon:*  
 *Kontakion of the Holy Great-Martyr Panteleimon, Tone 5, Idiomelon:*  
 Being an imitator of the Merciful One, and having received the grace of healings, O passion-bearer and martyr of Christ,[^441] by thy prayers heal the infirmities of our souls, and the fire of the tempter's snares; save those who faithfully cry aloud unto Thee!  
@@ -1733,9 +1349,7 @@ Being an imitator of the Merciful One, and having received the grace of healings
 *On the 28th day: Of the Holy Apostles Prochorus, Nicanor, Timon, and Parmenas:*  
 *Troparion: "Holy Apostles..." [Tone 3]. Kontakion, Tone 1:*  
 *Kontakion of the Holy Apostles Prochorus, Nicanor, Timon, and Parmenas, Tone 1:*  
-Honorable deacons and eyewitnesses of the Word, and chosen vessels of faith were ye shown forth, O Nicanor, and Prochorus, Parmenas...*[^443]
-
-*...and glorious Timon; therefore today we celebrate your sacred memory, blessing you in gladness of heart!*  
+Honorable deacons and eyewitnesses of the Word, and chosen vessels of faith were ye shown forth, O Nicanor, and Prochorus, Parmenas*[^443] *and glorious Timon; therefore today we celebrate your sacred memory, blessing you in gladness of heart!*
 *On the 29th day: Of the Holy Martyr Callinicus. Alleluia.*  
 *On the 30th day: Of the Holy Apostles Silas, Silvanus, and those with them:*  
 *Troparion: "Holy Apostles..." [Tone 3]. Kontakion, Tone 4:*  
@@ -1744,9 +1358,7 @@ Ye were shown forth as branches of the vine of Christ, bearing clusters of grape
 *On the 31st day: Of the holy and glorious Eudocimus; and the Forefeast of the Precious Cross:*  
 *At Vespers: stichera 3 of the Cross, and 3 of the saint; Glory of the Cross, Tone 1: "Lo, the night..."; Both now, Theotokion. At the Aposticha: Glory, Tone 6: "Thou art my shelter..."; Both now, Theotokion. Troparion, Tone 4:*  
 *Troparion of Righteous Eudocimus of Cappadocia, Tone 4:*  
-He Who called thee from the earth unto the eternal mansions preserves even after death thy body unharmed, O holy one; for thou in temperance...*[^445]
-
-*...and purity didst lead thy life, O blessed one, not having defiled the flesh; therefore with boldness pray unto Christ God that our souls may be saved!*  
+He Who called thee from the earth unto the eternal mansions preserves even after death thy body unharmed, O holy one; for thou in temperance*[^445] *and purity didst lead thy life, O blessed one, not having defiled the flesh; therefore with boldness pray unto Christ God that our souls may be saved!*
 *Glory, Both now, of the Cross, Tone 1: "Save, O Lord, Thy people". At Matins: Troparion of the Cross twice; Glory, of the saint; Both now, of the Cross. Kathisma in the Octoechos on 6; of the Cross on 4; and of the saint on 4. After Ode 6, Kontakion, Tone 2:*  
 *Kontakion of Righteous Eudocimus of Cappadocia, Tone 2:*  
 Desiring the highest things, thou wast joined with the highest today, and as a fiery chariot by divine ascents of virtues didst thou fashion thy soul, O all-blessed Eudocimus; and having lived upon earth as one bodiless, thou didst please the Creator of all!  
@@ -1756,15 +1368,11 @@ Desiring the highest things, thou wast joined with the highest today, and as a f
 
 *The Month of August hath 31 days; the day hath 13 hours, and the night 11.*  
 *On the 1st day: The Procession of the Precious and Life-giving Cross; and of the Holy Seven Maccabee Martyrs, and their teacher Eleazar, and their mother Solomonia:*[^447]  
-*Before the ringing of the bells, the priest enters with the superior of the church and with the candle-bearer into the skeuophylakion, and taking up the Precious Wood with candles and with a censer, singing the Troparion: "Save, O Lord, Thy people", and they bring it into the church and place it upon the Holy Table, and they kindle a candle by the Precious Wood for the whole evening. The ordinary kathisma psalmody. At "Lord, I have cried": stichera 3 of the Cross, and 3 of the saint; Glory, Tone 8: "Holy Maccabees"; Both now, of the Cross, Tone 8: "He Whom of old...". At the Aposticha: Glory, Tone 8: "The souls of the righteous..."; Both now, of the Cross: "The voice of Thy Prophet...". Troparion: "By the sufferings of the Holy..."; (see fol. 24)[^448] Glory, Both now: "Save, O Lord, Thy people". At Matins: Troparion of the Cross...*
-
-*...On that day is sung the office of Saint Maximus; stichera of both... Glory, Tone 6: "Venerable father..."; Both now, of the feast. At the Aposticha: all of the feast. Troparion... (see fol. 11);[^449] Glory, Both now, of the feast. At Matins: canons of the feast on 6, and two... After Ode 3, Kontakion of the saint, Tone 2:*  
+*Before the ringing of the bells, the priest enters with the superior of the church and with the candle-bearer into the skeuophylakion, and taking up the Precious Wood with candles and with a censer, singing the Troparion: "Save, O Lord, Thy people", and they bring it into the church and place it upon the Holy Table, and they kindle a candle by the Precious Wood for the whole evening. The ordinary kathisma psalmody. At "Lord, I have cried": stichera 3 of the Cross, and 3 of the saint; Glory, Tone 8: "Holy Maccabees"; Both now, of the Cross, Tone 8: "He Whom of old...". At the Aposticha: Glory, Tone 8: "The souls of the righteous..."; Both now, of the Cross: "The voice of Thy Prophet...". Troparion: "By the sufferings of the Holy..."; (see fol. 24)[^448] Glory, Both now: "Save, O Lord, Thy people". At Matins: Troparion of the Cross On that day is sung the office of Saint Maximus; stichera of both... Glory, Tone 6: "Venerable father..."; Both now, of the feast. At the Aposticha: all of the feast. Troparion... (see fol. 11);[^449] Glory, Both now, of the feast. At Matins: canons of the feast on 6, and two... After Ode 3, Kontakion of the saint, Tone 2:*
 *Kontakion of Venerable Maximus the Confessor and His Companions, Tone 2:*  
 Divinely-wise and valiant in blessed yokes, let us praise your glorious ones as firm preachers of piety and radiant lovers of suffering, and being divine zealots, crowning them with hymns and praises![^450]  
 *On the 13th day: Of our Venerable Father Maximus the Confessor. On that day the Feast of the Transfiguration of the Lord is given back [the Apodosis of the Transfiguration]:*  
-*At Vespers: ordinary kathisma psalmody; stichera idiomela on 4, Tone 4; and on 6; Glory, Both now: "Prefiguring Thy Resurrection, O Christ God..."; Prokeimenon of the day, without entrance. At the Aposticha: idiomela of the feast; Glory, Both now, Theotokion, Tone 6: "He Who of old spake through symbols unto Moses upon Mount Sinai...". At Matins: Troparion of the feast 3 times; ordinary kathisma psalmody; Sessional hymns of the feast... At Ode 6, Katavasia: "Cross did Moses trace"...*
-
-*...until the feast is given back [during the Afterfeast of the Transfiguration]: after Ode 3, Sessional hymn of the feast; Glory, Both now, of the feast. After Ode 6, Kontakion of the feast. At the Aposticha: of the feast; Glory, Both now, Tone 5: "The Fulfiller of the Law and Prophets...". At the Divine Liturgy: of the feast, Ode 3 on 4, and of the saint, Ode 6 on 4. Prokeimenon: "Precious in the sight of the Lord is the death of His venerable ones" [LXX Ps. 115:6]; Verse: "What shall I render unto the Lord" [LXX Ps. 115:3]. Epistle: (see fol. 27);[^451] Alleluia: "The righteous shall flourish like a palm tree" [LXX Ps. 91:13]. Gospel from John, see [fol.] 3 [Jn. 15:17–16:2] after Pascha. Kinonikon: "In everlasting memory shall the righteous be" [LXX Ps. 111:6].*  
+*At Vespers: ordinary kathisma psalmody; stichera idiomela on 4, Tone 4; and on 6; Glory, Both now: "Prefiguring Thy Resurrection, O Christ God..."; Prokeimenon of the day, without entrance. At the Aposticha: idiomela of the feast; Glory, Both now, Theotokion, Tone 6: "He Who of old spake through symbols unto Moses upon Mount Sinai...". At Matins: Troparion of the feast 3 times; ordinary kathisma psalmody; Sessional hymns of the feast... At Ode 6, Katavasia: "Cross did Moses trace" until the feast is given back [during the Afterfeast of the Transfiguration]: after Ode 3, Sessional hymn of the feast; Glory, Both now, of the feast. After Ode 6, Kontakion of the feast. At the Aposticha: of the feast; Glory, Both now, Tone 5: "The Fulfiller of the Law and Prophets...". At the Divine Liturgy: of the feast, Ode 3 on 4, and of the saint, Ode 6 on 4. Prokeimenon: "Precious in the sight of the Lord is the death of His venerable ones" [LXX Ps. 115:6]; Verse: "What shall I render unto the Lord" [LXX Ps. 115:3]. Epistle: (see fol. 27);[^451] Alleluia: "The righteous shall flourish like a palm tree" [LXX Ps. 91:13]. Gospel from John, see [fol.] 3 [Jn. 15:17–16:2] after Pascha. Kinonikon: "In everlasting memory shall the righteous be" [LXX Ps. 111:6].*
 *On the 8th day: Of our holy father Emilian, Bishop of Cyzicus. Alleluia.*  
 *On the 9th day: Of the Holy Apostle Matthias:*  
 *At Vespers: of the feast and of the saint. Troparion: "Holy Apostle..." [Tone 3]. Kontakion, Tone 2:*  
@@ -1773,15 +1381,11 @@ An unwaning sun wast thou shown forth, cleaving unto the Great Sun; therefore wa
 *Common service of the Apostles.*  
 *On the 10th day: Of the Holy Martyr and Archdeacon Laurence. Alleluia.*  
 *On the 11th day: Of the Holy Martyr Euplus. At Vespers: of the feast and of the saint. Troparion and Kontakion of the feast.*  
-*On the 12th day: Of the Holy Martyrs Photius and Anicletus...*
-
-*...twice; Glory, of the saints; Both now, of the Cross. The ordinary kathisma psalmody; and reading in the Theologian [St. Gregory Nazianzen], as is customary. And in the refectory is read "Prepitan" concerning the saints. Canons: in the Octoechos on 4; and of the saints on 4; and of the Cross on 6. Katavasia: "Cross did Moses trace". The canon of the Cross is sung after, for the sake of the Katavasia. After Ode 3, Sessional hymn, Tone 2, Podoben: "Seeking the highest..." (Вышнихъ ищя):*[^453]  
+*On the 12th day: Of the Holy Martyrs Photius and Anicletus twice; Glory, of the saints; Both now, of the Cross. The ordinary kathisma psalmody; and reading in the Theologian [St. Gregory Nazianzen], as is customary. And in the refectory is read "Prepitan" concerning the saints. Canons: in the Octoechos on 4; and of the saints on 4; and of the Cross on 6. Katavasia: "Cross did Moses trace". The canon of the Cross is sung after, for the sake of the Katavasia. After Ode 3, Sessional hymn, Tone 2, Podoben: "Seeking the highest..." (Вышнихъ ищя):*[^453]
 *Sessional Hymn of the Holy Maccabees, Tone 2, Podoben: "Seeking the highest..." (Вышнихъ ищя):*  
 O sevenfold pillars of the Wisdom of God, and seven-branched lamps of the divine Light, all-wise Maccabees, great martyrs before the martyrs, with them pray ye unto the God of all that they who honor you may be saved![^454]  
 *Then Sessional hymn; Glory, of the Cross; Both now, Theotokion. After Ode 6, Kontakion of the Cross. After the Kathisma [at Matins], at the Praises: stichera 3 of the Cross, and of the saints 3 idiomela: 1st, Tone 1: "O much-suffering mother..."; 2nd, Tone 4: "Seven pillars..."; 3rd, Tone 5: "Keepers of the Law..."; Glory, Tone 4, that concerning the Maccabees; Both now, of the Cross, Podoben: "Thou Who didst willingly ascend..." [Tone 4].*  
-*The Great Doxology. While the brethren are singing, the priest vests in priestly vestments, and comes with a censer and with a lamp unto the Holy Table, and censes the Holy Table and the Precious Wood, and...*[^455]
-
-*...and the priest having vested, singing the Troparion: "Save, O Lord, Thy people", bowing in reverence.*  
+*The Great Doxology. While the brethren are singing, the priest vests in priestly vestments, and comes with a censer and with a lamp unto the Holy Table, and censes the Holy Table and the Precious Wood, and*[^455] *and the priest having vested, singing the Troparion: "Save, O Lord, Thy people", bowing in reverence.*
 *On the 2nd day: The Translation of the Relics of the Holy Protomartyr and Archdeacon Stephen:*[^456]  
 *At Vespers: ordinary kathisma psalmody; stichera of the saint 3, and 3 idiomela, Tone 2; Glory, Tone 6: "The first leader..."; Both now, Theotokion. At the Aposticha: Glory, Tone 8: "Rejoice in the Lord..."; Both now, Theotokion. Troparion, Tone 4:*  
 *Troparion of the Holy Protomartyr and Archdeacon Stephen, Tone 4:*  
@@ -1789,18 +1393,14 @@ With a royal diadem was thy crown adorned from the sufferings which thou didst e
 *At Matins: canon in the Octoechos, and of the saint on 6. After Ode 6, Kontakion, Tone 6, Idiomelon:*  
 *Kontakion of the Holy Protomartyr and Archdeacon Stephen, Tone 6, Idiomelon:*  
 First wast thou sown upon earth by the Heavenly Husbandman, O all-praised one; first didst thou pour out thy blood for Christ upon the earth, O blessed one; first wast thou adorned by Him with a crown of victory in the heavens, as the first-risen among sufferers, the crown-bearer of disciples, O first-sufferer![^457]  
-*At the Praises: prosomoia...*
-
-*...and of the saint on 4; Glory, Tone 4: "Good Stephen..."; Both now, Theotokion. At the Aposticha: Glory, Tone 5: "First-martyr..."; Both now, Theotokion. At the Divine Liturgy: Prokeimenon: "The righteous shall rejoice in the Lord" [LXX Ps. 63:11]; Verse: "Hear, O God, my prayer" [LXX Ps. 63:2]. Epistle from the Acts [Acts 6:8–7:5, 47–60]. Alleluia: "The righteous shall flourish like a palm tree" [LXX Ps. 91:13]. Gospel from Luke, lection 53 [Lk. 12:32–40]: "The Lord spake this parable: A certain man...". Kinonikon: "Into all the earth [their sound is gone out]" [LXX Ps. 18:5].*  
+*At the Praises: prosomoia and of the saint on 4; Glory, Tone 4: "Good Stephen..."; Both now, Theotokion. At the Aposticha: Glory, Tone 5: "First-martyr..."; Both now, Theotokion. At the Divine Liturgy: Prokeimenon: "The righteous shall rejoice in the Lord" [LXX Ps. 63:11]; Verse: "Hear, O God, my prayer" [LXX Ps. 63:2]. Epistle from the Acts [Acts 6:8–7:5, 47–60]. Alleluia: "The righteous shall flourish like a palm tree" [LXX Ps. 91:13]. Gospel from Luke, lection 53 [Lk. 12:32–40]: "The Lord spake this parable: A certain man...". Kinonikon: "Into all the earth [their sound is gone out]" [LXX Ps. 18:5].*
 *On the 3rd day: Of our Venerable Fathers Isaac, Dalmatus, and Faustus. Alleluia.*  
 *On the 4th day: Of the Holy Seven Youths who were in Ephesus:*  
 *Kontakion, Tone 4:*  
 *Kontakion of the Holy Seven Youths of Ephesus, Tone 4:*  
 Having despised the corruptible things in the world and received incorruptible gifts, ye remained incorrupt after dying, wherefrom also ye arose after many years, having buried all the ferocious deceit of deceivers; therefore praising them today, we the faithful in hymns give thanks unto Christ![^458]  
 *On the 5th day: The Forefeast of the Transfiguration of the Lord; and of the Holy Martyr Eusignius:*[^459]  
-*At Vespers: at "Lord, I have cried": prosomoia 3 of the forefeast, and 3 of the saint; Glory, Both now, Tone 5: "Come, let us ascend..."; At the Aposticha: Glory, Both now, Tone 2...*
-
-*..."...upon Mount Tabor". Troparion, Tone 4:*  
+*At Vespers: at "Lord, I have cried": prosomoia 3 of the forefeast, and 3 of the saint; Glory, Both now, Tone 5: "Come, let us ascend..."; At the Aposticha: Glory, Both now, Tone 2 "...upon Mount Tabor". Troparion, Tone 4:*
 *Troparion of the Forefeast of the Transfiguration, Tone 4:*  
 Let us go forth to meet the Transfiguration of Christ, brightly celebrating the forefeast, ye faithful, let us cry aloud: The time of divine joy of souls hath drawn near, the Master goes up upon Mount Tabor to flash forth the beauty of His Godhead![^460]  
 *At Matins: canon in the Octoechos on 4; and of the saint on 4; and of the forefeast on 6. And in whatever ode there are triodia, the Octoechos is omitted, and the saint's is sung on 4, and the forefeast on 4, and the triodia on 6. After Ode 3, Sessional hymn of the saint; Glory, Both now, of the forefeast. After Ode 6, Kontakion, Tone 4, Podoben: "Thou didst appear today..." (Явился еси днесь):*  
@@ -1808,9 +1408,7 @@ Let us go forth to meet the Transfiguration of Christ, brightly celebrating the 
 By Thy divine Transfiguration today human nature hath been divinely illumined, and leaps for joy, crying aloud: Christ is transfigured, saving all!  
 *At the Aposticha: Glory, Both now, Tone 5: "The Fulfiller of the Law...".*  
 *On the 6th day: The Holy Transfiguration of Our Lord God and Savior Jesus Christ:*[^461]  
-*An All-Night Vigil. At Little Vespers: stichera 4 of the feast, Tone 4: "Before Thy Crucifixion..."; Glory...*
-
-*And now, Tone 6: "Prefiguring Thy Holy Transfiguration..."; and on the Aposticha, Idiomela 3, Tone 1; Glory, and now, Tone 6: "Taking Peter and James..." Troparion, Tone 7:*[^462]
+*An All-Night Vigil. At Little Vespers: stichera 4 of the feast, Tone 4: "Before Thy Crucifixion..."; Glory And now, Tone 6: "Prefiguring Thy Holy Transfiguration..."; and on the Aposticha, Idiomela 3, Tone 1; Glory, and now, Tone 6: "Taking Peter and James..." Troparion, Tone 7:*[^462]
 
 *Troparion:*
 Thou wast transfigured upon the mountain, O Christ God, revealing Thy glory unto Thy disciples as far as they could bear it. Let Thine everlasting Light shine forth also upon us sinners, through the prayers of the Mother of God, O Giver of Light, glory to Thee!
@@ -1827,9 +1425,7 @@ Thou wast transfigured upon the mountain, O Christ God, revealing Thy glory unto
 *Kontakion:*
 Thou wast transfigured upon the mountain, O Christ God, and Thy disciples beheld Thy glory as far as they were able, that when they should see Thee crucified, they might understand Thy voluntary Passion, and proclaim unto the world that Thou art truly the Radiance of the Father!
 
-*At Ode 9, candles are given to the brethren. "More honorable" is not sung. Exapostilarion of the feast thrice. On the Praises, Stichera again 3...*
-
-*...of the feast on 4, Tone 4: "Called from on high"; Glory, and now, Tone 8: "Christ took Peter..." Great Doxology. Troparion of the feast, litany, dismissal, and holy oil is given to the brethren. At the Hours: Troparion and Kontakion of the feast. At the Liturgy: from the canons, Ode 3 and Ode 6. Prokeimenon, Tone 4: "O Lord, how magnified are Thy works; in wisdom hast Thou made them all" [Ps. 103:24]. Epistle from the Catholic Epistle of Peter [2 Pet. 1:10–19]: "Brethren, give diligence to make your calling and election sure..." Alleluia, Tone 8: "Thine are the heavens, and Thine is the earth" [Ps. 88:12]; verse: "Blessed is the people that know the joyful sound" [Ps. 88:16]. Gospel from Matthew [17:1–9]: "At that time, Jesus takes Peter, James, and John His brother..." Communion Hymn: "O Lord, in the light of Thy countenance shall they walk, and in Thy name shall they rejoice unto ages [Ps. 88:16–17]. Alleluia."*[^466]
+*At Ode 9, candles are given to the brethren. "More honorable" is not sung. Exapostilarion of the feast thrice. On the Praises, Stichera again 3 of the feast on 4, Tone 4: "Called from on high"; Glory, and now, Tone 8: "Christ took Peter..." Great Doxology. Troparion of the feast, litany, dismissal, and holy oil is given to the brethren. At the Hours: Troparion and Kontakion of the feast. At the Liturgy: from the canons, Ode 3 and Ode 6. Prokeimenon, Tone 4: "O Lord, how magnified are Thy works; in wisdom hast Thou made them all" [Ps. 103:24]. Epistle from the Catholic Epistle of Peter [2 Pet. 1:10–19]: "Brethren, give diligence to make your calling and election sure..." Alleluia, Tone 8: "Thine are the heavens, and Thine is the earth" [Ps. 88:12]; verse: "Blessed is the people that know the joyful sound" [Ps. 88:16]. Gospel from Matthew [17:1–9]: "At that time, Jesus takes Peter, James, and John His brother..." Communion Hymn: "O Lord, in the light of Thy countenance shall they walk, and in Thy name shall they rejoice unto ages [Ps. 88:16–17]. Alleluia."*[^466]
 
 *It is meet to know that according to tradition, on the celebrated feast of the Transfiguration it is appointed to eat grapes, which receiving blessing through prayer at the conclusion of the Divine Liturgy, and after the breaking of bread, that is, after the distribution of the antidoron, there is said: Troparion, "Thou wast transfigured..."; Glory, and now, Kontakion: "Thou wast transfigured upon the mountain..."; while this is being said, the priest censes. Then the priest [says]: "Let us pray to the Lord."*[^467]
 
@@ -1838,9 +1434,7 @@ Thou wast transfigured upon the mountain, O Christ God, and Thy disciples beheld
 *Prayer for the Blessing of Grapes:*
 O Lord our God, Who didst formerly adorn the earth with beautiful flowers, and having enriched it with marvelous variety, didst beautify it in every aspect; and Who again, having established the earth by the four seasons, and by flowing streams of dew, dew-dropping and cooling it from the air, and by the warmth of the sun hast been well pleased to bring these fruits unto ripeness: do Thou Thyself bless these grapes with Thy grace, that they may be unto us for gladness, and for thanksgiving without physical excess, and for the strength of Thy dominion; and that for this cause we may offer praise unto the cleansing of our offenses, through the once-offered holy and life-creating Body and Blood of our Lord Jesus Christ, Thine Only-begotten Son, with Whom Thou art blessed, together with Thy Most-holy, Good, and Life-creating Spirit, now and ever, and unto ages of ages. Amen.
 
-*And let this be known: If any of the brethren taste of the grapes prior to such feast...*
-
-*...let him receive a penance, namely, by this penance not to taste grapes for the entire month of August, as a transgressor of the ordinance, that he may learn to observe these things. And let this tradition be kept always also by the vinedressers. And grapes at the refectory after the feast are served thrice in the week, the brethren tasting thereof at the noon meal; and likewise let it be done with other fruits in their proper season.*[^469]
+*And let this be known: If any of the brethren taste of the grapes prior to such feast let him receive a penance, namely, by this penance not to taste grapes for the entire month of August, as a transgressor of the ordinance, that he may learn to observe these things. And let this tradition be kept always also by the vinedressers. And grapes at the refectory after the feast are served thrice in the week, the brethren tasting thereof at the noon meal; and likewise let it be done with other fruits in their proper season.*[^469]
 
 *The Holy Venerable-Martyr Dometius [August 7]:*[^470]
 *At Vespers, no psalmody [Kathisma]. On "Lord, I have cried," Stichera again 3 of the feast, Tone 4: "Called from on high"; and of the Saint, Tone 8. Glory, and now: "Prefiguring..." Entrance. Prokeimenon, Tone 7: "Our God is in heaven and on earth" [Ps. 113:11]; verse: "In the exodus of Israel" [Ps. 113:1]; "The sea beheld and fled" [Ps. 113:3]. On the Aposticha, Stichera again of the feast: "Thou hast ascended..."; Glory, and now: "Come, let us ascend..." Troparion: "Thy martyr..." Glory, and now, of the feast. At Matins: Troparion of the feast twice; Glory, [Saint], and now, of the feast. Sessional hymn of the feast. Canon of the feast with the heirmos on 6, and of the Saint on 6; and Biblical odes are not sung.*
@@ -1896,9 +1490,7 @@ We venerate Thy most pure Icon, O Good One, asking forgiveness of our transgress
 *Glory, and now, of the feast. At Matins: Troparion of the feast twice; Glory, to the Mandylion; And now, of the feast. Sessional hymn of the feast. Canon to the Icon with the heirmos on 6, of the feast on 4, and of the Saint on 4. After Ode 3, Kontakion of the feast; after Ode 6, Kontakion to the Mandylion, Tone 2:*[^484]
 
 *Kontakion of the Holy Mandylion:*
-He Who descended from heaven for the compassions of mercy, O tender-hearted Savior, Thou hast today given the honorable image of Thy most pure flesh unto the city that honors Thee and unto the Christian people as a treasure...
-
-...as a steadfast full armor, from which drawing sanctification, with fervent faith we embrace it!
+He Who descended from heaven for the compassions of mercy, O tender-hearted Savior, Thou hast today given the honorable image of Thy most pure flesh unto the city that honors Thee and unto the Christian people as a treasure as a steadfast full armor, from which drawing sanctification, with fervent faith we embrace it!
 
 *On the Aposticha, all of the feast.*
 *The Holy Martyr Myron [August 17]: the singing together [with the feast]; and we do not say the biblical odes until the Apodosis of the feast. The Holy Martyrs Florus and Laurus [August 18]: the singing together with the feast. And the Saints: The Holy Martyr Andrew Stratelates and those with him, two thousand five hundred and fifty-three [August 19].*[^485]
@@ -1907,9 +1499,7 @@ He Who descended from heaven for the compassions of mercy, O tender-hearted Savi
 *Kontakion of the Holy Prophet Samuel:*
 As a precious and honorable gift before thy conception thou wast given unto God, and from thy youth having served Him as an angel, O all-blessed one, thou wast granted to foretell future things. Therefore we cry unto thee: Rejoice, O prophet of God, Samuel, great high priest!
 
-*The Holy Apostle Thaddaeus, and the Martyr Bassa [August 21]. The Holy Martyr Agathonicus [August 22]: on that day is chanted according to the weekly tone [of the Oktoechos]; Stichera of both on 4 of the Saint; and now, of the feast; on the Aposticha, all of the feast; Troparion...*[^487]
-
-*..."Thy martyrs, O Lord..." Glory, and now, of the feast. At Matins: Troparion of the feast twice; Glory, of the Saint; And now, of the feast. Sessional hymns of the feast. Canon of the feast on 6, and of the Saints two [canons]. After Ode 3, Kontakion of the Saint, Tone 4, Podoben: "The angelic choir":*[^488]
+*The Holy Apostle Thaddaeus, and the Martyr Bassa [August 21]. The Holy Martyr Agathonicus [August 22]: on that day is chanted according to the weekly tone [of the Oktoechos]; Stichera of both on 4 of the Saint; and now, of the feast; on the Aposticha, all of the feast; Troparion*[^487] *"Thy martyrs, O Lord..." Glory, and now, of the feast. At Matins: Troparion of the feast twice; Glory, of the Saint; And now, of the feast. Sessional hymns of the feast. Canon of the feast on 6, and of the Saints two [canons]. After Ode 3, Kontakion of the Saint, Tone 4, Podoben: "The angelic choir":*[^488]
 
 *Kontakion of the Holy Martyr Agathonicus:*
 Having acquired a noble calling, O divinely-wise one, thou didst turn deceitful men from unbelief, fearing no torments, O glorious Agathonicus; therefore thou hast become an inheritor of good things, and hast received with those who suffered with thee a worthy crown!
@@ -1926,9 +1516,7 @@ Having acquired a noble calling, O divinely-wise one, thou didst turn deceitful 
 *Kontakion of the Holy Apostle Eutyches:*
 A fellow-partaker with the Apostles and the beauty of the saints, as Eutyches thou didst glorify the apostolic rank; thou didst shine forth as a star, enlightening all, and didst dispel the deep night of godlessness; therefore we honor thee as truly a divine initiate of Christ!
 
-*The Translation of the Relics of the Holy Apostle Bartholomew [August 25], and of the Holy...*[^491]
-
-*...Apostle Titus, disciple of the Holy Apostle Paul: the service of both together. Troparion: "Holy Apostle..." Glory, and now, Theotokion. At Matins: Canon in the Oktoechos on 6, and to the Saints two [canons]. After Ode 3, Kontakion to Bartholomew, and Hypakoe; after Ode 6, Kontakion to Titus, Tone 2:*[^492]
+*The Translation of the Relics of the Holy Apostle Bartholomew [August 25], and of the Holy*[^491] *Apostle Titus, disciple of the Holy Apostle Paul: the service of both together. Troparion: "Holy Apostle..." Glory, and now, Theotokion. At Matins: Canon in the Oktoechos on 6, and to the Saints two [canons]. After Ode 3, Kontakion to Bartholomew, and Hypakoe; after Ode 6, Kontakion to Titus, Tone 2:*[^492]
 
 *Kontakion of the Holy Apostle Titus:*
 Thou wast revealed as a fellow-worker with Paul, O Apostle; with him thou didst proclaim the Word unto us by divine grace, O initiate Titus, all-blessed; therefore we cry unto thee: Cease not praying for us all!
@@ -1963,9 +1551,7 @@ Having spiritually struck the faces of the demons, thou didst shine forth bright
 *At Matins: ordinary psalmody [Kathismata]. At the Polyeleos: Sessional hymns of the Forerunner. Gradual, Tone 4. Prokeimenon, Tone 4: "There will I make the horn of David to bud" [Ps. 131:17]; Verse: "Remember David, O Lord" [Ps. 131:1]. "Let every breath..." Gospel from Matthew, Tuesday of the 36th week [Matt. 14:1–13]. Sticheron of the Forerunner, with verse. Canon of the Mother of God in the Oktoechos on 6, and of the Forerunner two [canons] on 8. Katabasia: "Tracing the Cross," both choirs together. After Ode 3, Sessional hymn of the Forerunner; after Ode 6, Kontakion, Tone 5:*
 
 *Kontakion of the Beheading of the Forerunner:*
-The glorious beheading of the Forerunner was a certain divine dispensation, that he might preach even unto those in Hades the coming of the Savior; let Herodias weep...
-
-...having asked for lawless murder; for she loved not the Law of God, nor eternal life, but deceit that is temporal!
+The glorious beheading of the Forerunner was a certain divine dispensation, that he might preach even unto those in Hades the coming of the Savior; let Herodias weep having asked for lawless murder; for she loved not the Law of God, nor eternal life, but deceit that is temporal!
 
 *Exapostilarion. On the Praises, of the Forerunner on 4; Glory, Tone 6: "Again Herod..."; And now, Theotokion. Great Doxology. Troparion of the Forerunner; litany, dismissal; and holy oil is given to the brethren from the lamp of the Saint. At the Liturgy: for the Forerunner, Ode 3 and Ode 6. Prokeimenon: "The righteous shall rejoice" [Ps. 63:11]; Verse: "Hear my voice, O God" [Ps. 63:2]. Epistle from the Acts [13:25–32]: "In those days, as John fulfilled his course..." Alleluia: "The righteous shall flourish like a palm tree" [Ps. 91:13]. Gospel from Mark [6:14–30]: "At that time, Herod heard of Jesus..." Communion Hymn: "In everlasting memory [shall the righteous be]" [Ps. 111:6].*[^499]
 *The Holy Patriarchs of Constantinople: Alexander, John, and Paul the New [August 30]:*[^500]
@@ -1985,1575 +1571,6 @@ The deposition of Thy precious sash celebrates today Thy temple, O All-praised o
 *On the Aposticha, of the Oktoechos. At the Liturgy: Prokeimenon, Tone 3: Song of the Mother of God: "My soul doth magnify the Lord" [Luke 1:46]; Verse: "For He hath regarded the lowliness [of His handmaiden]" [Luke 1:48]. Epistle to the Hebrews [9:1–7].*
 
 ...Brethren, the first [covenant had also ordinances of divine service, and an earthly sanctuary] [Heb. 9:1]. Alleluia: "Arise, O Lord, into Thy rest, Thou, and the ark of Thy strength" [Ps. 131:8]. Gospel from Luke [10:38–42; 11:27–28]: "At that time, Mary arose..." Communion Hymn: "I will take the cup of salvation [and call upon the name of the Lord]" [Ps. 115:4].[^504]
-
-*Sunday of the Publican and the Pharisee: In the Sequence of the Great Forty-Day Fast:*[^505]
-*On Saturday evening: "Blessed is the man." On "Lord, I have cried," Stichera on 10: 3 Resurrectional, and 4 Anatolian, and in the Triodion two, in Tone 1, twice; Glory, in the Triodion; Both now, Resurrectional. The sequence of the Saint in the Menaion is sung at Compline. On the Aposticha, Resurrectional and alphabetical stichera. At Matins: the ordinary psalmody [Kathismata], and the Polyeleos ["Many-merciful"]; Graduals of the tone; Prokeimenon; "Let every breath [praise the Lord]"; Sunday Gospel; "Having beheld the Resurrection of Christ"; Psalm 50; Resurrectional Sticheron. Canons: Resurrectional on 4, and of the Theotokos on 4, and in the Triodion on 6. After Ode 3, Sessional hymn in the Triodion. After Ode 6, Kontakion, Tone 2:*"[^506]
-
-*Kontakion of the Publican and the Pharisee [Tone 2]:*
-The Publican of old, weeping, Thou didst justify, O Good Savior, who cried out in confession,[^507] and having despised the hypocrite who prayed: [pardon my]...
-
-...countless transgressions; be merciful, Thou Who alone art and most adorned in goodness!
-
-*At Ode 9, of the Saints; Exapostilarion, Resurrectional, and in the Triodion. On the Praises, Stichera on 8. Great Doxology. At the Hours, there is said the Troparion, Resurrectional, and the Kontakion in the Triodion. At the Liturgy: the Beatitudes in the Octoechos; the Epistle and Gospel of the day.*[^508]
-
-*The Week of this Sunday:*
-*It is fitting to know that during that week the accursed Armenians fast their defiled fast, called Artzivourion; but we eat cheese and eggs every day, and in the refectories [or cells] meat, overturning their ordinance, which is heresy.*[^509]
-
-*Sunday on Which is Read the Divine Gospel, the Parable of the Prodigal Son:*[^510]
-*On Saturday evening: "Blessed is the man." Stichera on 10: 3 Resurrectional, and 3 Anatolian, and in the Triodion two Idiomela, twice; Glory, in the Triodion; Both now, Resurrectional. At the Entrance: Prokeimenon. On the Aposticha: Resurrectional, and alphabetical stichera; Troparion, Resurrectional. At Matins:*
-
-*...the ordinary psalmody [Kathismata], and the Polyeleos ["Many-merciful"]; Graduals of the tone; Prokeimenon; "Let every breath [praise the Lord]"; Sunday Gospel; "Having beheld the Resurrection of Christ"; Psalm 50; Resurrectional Sticheron. Canons: Resurrectional on 4, and Cross-Resurrectional on 4, and of the Theotokos on 2, and in the Triodion on 6. After Ode 3, Sessional hymn in the Triodion. After Ode 6, Kontakion, Tone 3:*"[^511]
-
-*Kontakion of the Prodigal Son [Tone 3]:*
-Having foolishly fled from Thy paternal glory, in evils I have squandered the riches Thou gavest unto me; therefore I offer unto Thee the voice of the prodigal: I have sinned before Thee, O compassionate Father; receive me repenting, and make me as one of Thy hired servants![^512]
-
-*After Ode 9, of the Saints; Exapostilarion, Resurrectional, and to the Triodion. On the Praises: Stichera, Resurrectional, and in the Triodion, on 8; Glory: "O Good Father..."; Both now: "Most blessed art thou, O Virgin Theotokos..." Great Doxology; Troparion, Resurrectional; litany, dismissal. At the Liturgy: the Beatitudes in the Octoechos, and the rest of the Sunday service.*
-
-*On Meatfare Saturday: We make commemoration of all the faithful Orthodox Christians fallen asleep from the ages, our fathers and brethren...*[^513]
-
-*...our fathers and brethren.*
-*On Friday evening: Stichera on 6: 3 of the Martyrs of the incoming tone, and in the Triodion stichera 3; Glory: "I weep and I lament"; Both now, Theotokion 1 of the incoming tone. In place of the Prokeimenon, at Vespers: Alleluia, in Tone 8; Verse: "Blessed are they whom Thou hast chosen and taken [unto Thyself, O Lord]; and their memorial is from generation to generation" [Ps. 64:5; 101:13]. On the Aposticha: one of the Martyrs, and for the reposed two Idiomela of the current tone; Glory, Tone 6: "A beginning today is composed..."; Both now, in the Triodion: "Thou art our God." Troparion, Tone 8: "Who by depth of wisdom..."; Glory, both now, Theotokion. Canon in the Octoechos on 6, and in the Triodion on 8. On the Praises, in the Triodion on 4. On the Aposticha, at Matins. At the Liturgy, in the Triodion: Ode 3 and Ode 6. Prokeimenon: "Their souls shall dwell among good things" [Ps. 24:13]; [Verse:] "Unto Thee, O Lord, have I lifted up my soul" [Ps. 24:1]. Epistles: The daily one: "Brethren, all things are lawful unto me..." [1 Cor. 6:12–20]; The other for the reposed: "Brethren, I would not have you to be ignorant..." [1 Thess. 4:13–17]. Alleluia: "Blessed are they whom Thou hast chosen and taken." Gospel: the daily one [Luke 21:8–9, 25–27, 33–36], and for the reposed [John 5:24–30]. Communion Hymn: "Blessed are they whom Thou hast chosen."*[^514]
-
-*It is fitting to know that the very same service takes place without change on the Saturday of Pentecost [Trinity Memorial Saturday].*[^515]
-
-*Meatfare Sunday [Sunday of the Last Judgment]:*[^516]
-*On Saturday evening: Stichera on 10: 3 Resurrectional, and 3 Anatolian, and in the Triodion 3 on 4; Entrance; Prokeimenon; 3 readings. On the Aposticha: Resurrectional, and alphabetical stichera; Glory, in the Triodion; Both now, Resurrectional; Troparion: "Theotokos Virgin, rejoice..."*
-*At Matins: "God is the Lord"; Troparion, Resurrectional; the ordinary psalmody [Kathismata], and the Polyeleos ["Many-merciful"]; Graduals of the tone; "Let every breath [praise the Lord]"; Sunday Gospel; Psalm 50; Resurrectional Sticheron. Canons: Resurrectional with the heirmos on 4, and of the Theotokos on 2, and in the Triodion on 8. After Ode 3, Sessional hymn in the Triodion. After Ode 6, Kontakion, Tone 1, Automelon:*"[^517]
-
-*Kontakion of Meatfare Sunday [Tone 1]:*
-When Thou shalt come upon earth with glory, O God, and all things tremble, and the river of fire flows before the judgment seat, and the books are opened: then deliver me from the unquenchable fire, and vouchsafe me to stand at Thy right hand, O righteous Judge![^518]
-
-*After Ode 9, of the Saints; Exapostilarion, Resurrectional...*
-
-*...and in the Triodion. On the Praises: Resurrectional, and in the Triodion on 8. Great Doxology; litany, dismissal. At the Liturgy: the Beatitudes in the Octoechos on 6, and in the Triodion on 4, Ode 6. Prokeimenon: "Great is our Lord, and great is His power" [Ps. 146:5]; [Verse:] "Praise ye the Lord" [Ps. 146:1]. Epistle to the Corinthians: "Brethren, meat commends us not to God..." [1 Cor. 8:8–9:2]. Alleluia: "O come, let us rejoice in the Lord" [Ps. 94:1]; [Verse:] "Let us come before His presence" [Ps. 94:2]. Gospel from Matthew [25:31–46]: "The Lord said: When the Son of man shall come..." Communion Hymn: "Praise the Lord from the heavens" [Ps. 148:1]; and the other: "Rejoice in the Lord, O ye righteous" [Ps. 32:1].*[^519]
-*The sequence of the Saint in the Menaion is sung at Compline, or whenever [the ecclesiarch] wills.*
-*On Sunday evening: On "Lord, I have cried," Stichera on 6: in the Octoechos 3 of the current tone, and in the Menaion 3. On the Aposticha, the Octoechos is not sung; there is sung the daily Automelon 2 and 4, in the same Tone 5, once, both choirs together; Glory, both now, Theotokion. Thus sings the stichera at Vespers during the other days of Cheesefare week. But let it be known that on Cheesefare Saturday and Sunday the Menaion is not sung, but the sequence of the Saints whose memory is accounted...*[^520]
-
-*...accounted on Saturday and Sunday is sung at Compline, or whenever the ecclesiarch wills.*[^521]
-
-*On Cheesefare Saturday: We celebrate the commemoration of all our venerable and God-bearing Fathers who shone forth in asceticism [fasting]:*[^522]
-*On Friday evening: Stichera on 6: in the Triodion 3, doubled. On the Aposticha: daily Automelon 2 and 4; Glory: and again "Monasticism..."; Both now, Theotokion; Troparion: "O God of our fathers..." twice. At Matins: "God is the Lord"; Troparion: "O God of our fathers..." twice; Glory, both now, Theotokion. Canon of the Saint of the temple, in the current tone, with the heirmos on 6, and of the Saints on 8; look also in the Kontakion. At Ode 6, Kontakion:*"[^523]
-
-*Kontakion of the Venerable Fathers:*
-As preachers of piety and consumers of ungodliness, Thou hast enlightened the assembly of the God-bearers, knowing their loving cure;[^524] through their praisers in perfect humility, preserve them that glorify Thee and chant unto Thee!
-
-*On the Praises, on 4; Great Doxology. At the Liturgy: of the Holy Fathers, Ode 3 and Ode 6. Prokeimenon: "The venerable ones shall boast in glory" [Ps. 149:5]; [Verse:] "Sing unto the Lord a new song" [Ps. 149:1]. Epistle: the daily one, and for the Fathers...*
-
-*...Saturday 27: "Brethren, the fruit of the Spirit is love..." [Gal. 5:22–6:2]. Alleluia: "Blessed are all they that fear the Lord" [Ps. 127:1]. Gospel for the Fathers, from Matthew, pericope 43 [Matt. 11:27–30]: "The Lord said: All things are delivered unto Me of My Father..." Communion Hymn: "Rejoice in the Lord, O ye righteous" [Ps. 32:1].*[^525]
-
-*Cheesefare Sunday [Forgiveness Sunday / The Expulsion of Adam]:*[^526]
-*On Saturday evening: Stichera on 10: 3 Resurrectional, and 3 Anatolian, and in the Triodion on 4. On the Aposticha: Resurrectional. At Matins: Troparion, Resurrectional; the ordinary psalmody [Kathismata], and the Polyeleos ["Many-merciful"]; Graduals of the tone; Prokeimenon; "Let every breath [praise the Lord]"; Sunday Gospel. Canons: Resurrectional on 6, and of the Theotokos on 2, in the Triodion on 6. After Ode 6, Kontakion, Tone 6:*"[^527]
-
-*Kontakion of Cheesefare Sunday [Tone 6]:*
-Instructor of wisdom and Giver of prudence, Educator of the senseless and Defender of the poor: confirm and give understanding unto my heart, O Master! Do Thou give me the word, O Word of wisdom; for lo, I will not refrain both my lips from crying unto Thee: O Merciful One, have mercy on me who am fallen![^528]
-
-*On the Praises, on 8: Resurrectional on 4, and in the Triodion on 4. Great Doxology. At the Liturgy: the Octoechos on 6...*
-
-*...and in the Triodion, Ode 6 on 4. Prokeimenon, Tone 8: "Make vows, and pay them unto the Lord our God" [Ps. 75:12]; [Verse:] "In Judah is God known" [Ps. 75:2]. Epistle to the Romans: "Brethren, now is our salvation nearer than when we believed..." [Rom. 13:11–14:4]. Alleluia: "It is a good thing to give thanks unto the Lord" [Ps. 91:2]; [Verse:] "For the Lord is upright" [Ps. 91:16]. Gospel from Matthew [6:14–21]: "The Lord said: If ye forgive men their trespasses..." And the rest of the Divine Liturgy of John Chrysostom is celebrated. Communion Hymn: "Praise the Lord from the heavens" [Ps. 148:1]; and the other: "Rejoice in the Lord, O ye righteous" [Ps. 32:1].*[^529]
-
-*It is fitting to know that from this Cheesefare Sunday and until the Exaltation of the Precious Cross [September 14], throughout the entire summer, on all Sundays, the Polyeleos ["Many-merciful"] is omitted; and it is sung only on the Feasts of the Lord.*[^530]
-
-*On Cheesefare Sunday evening [Forgiveness Vespers]:*[^531]
-*We do not recite psalmody [Kathisma]. On "Lord, I have cried," Stichera on 10: in the Octoechos 4 Penitential of the incoming tone, and 3 in the Triodion, and to the Saint 3 in the Menaion; Glory, both now, Theotokion. At the Entrance: "O Gladsome Light." Great Prokeimenon, Tone 8: "Turn not away Thy face from Thy servant, for I am in trouble; hear me speedily; attend unto my soul, and deliver it" [Ps. 68:18–19]; Verse: "Thy salvation, O God, hath upheld me" [Ps. 68:30]...*
-
-*...Verse: "Let the poor see it, and be glad" [Ps. 68:33]. "Vouchsafe, O Lord, to keep us this evening [without sin]"; and 3 prostrations. Litany: "Let us complete our evening prayer unto the Lord." And both choirs having come together, they sing the daily Automela 2 and 4, in the same tone, once; Glory, both now, Theotokion. "Now lettest Thou Thy servant depart in peace..."; and Trisagion; and 3 prostrations; after "Our Father...", [Priest:] "For Thine is the kingdom..."; Troparion: "Theotokos Virgin, rejoice..."; and one prostration; Glory: "O Baptist of Christ, remember us all..."; and a prostration; Both now: "Intercede for us, holy Apostles..."; and one prostration; "Beneath Thy compassion..."; without a prostration. "Lord, have mercy" 40 times; "O Heavenly King, strengthen our faithful kings..."; "Lord, have mercy" 3 times; Glory, both now; "More honorable than the Cherubim..."; "In the name of the Lord, bless, father." Then the priest [says]: "He Who is blessed, Christ our God, always, now and ever, and unto ages of ages"; and he makes 3 great prostrations with the prayer: "O Lord and Master of my life..."; and we kiss the holy icons, saying: "Forgive me wherein I have caused scandal, according to custom." The priest [says]: "Glory to Thee, Christ our God, our hope, glory to Thee!"; and a prayer from the priest, and the complete dismissal. This order ought to take place also on...*[^532]
-
-...and on the other Sundays of the holy Great Fast. Compline is chanted small, from *Have mercy on me, O God* [Ps. 50], according to custom, on account of the labor of the All-Night Vigil. In this manner is Compline chanted on Cheesefare Sunday only. But on the remaining days of the holy Fast, Great Compline is chanted, from *When I called* [Ps. 4], with prostrations and with singing; likewise also the Midnight Office.
-
-*Beginning of the Holy Great Forty-Day Fast:*[^533]
-*On Monday of the First Week, at Matins:*[^534] *at "Alleluia," Hymns to the Trinity in the tone of the week. After each Kathisma [psalmody], sessional hymns in the Menaion and in the Triodion. There are chanted the First, Third, Sixth, and Ninth Hours, with psalmody and with prostrations. Then we chant Vespers: "Bless the Lord, O my soul" [Ps. 103]; Glory, both now; "Alleluia" thrice, and 3 prostrations. We recite the psalmody: "In my distress I cried unto the Lord" [Ps. 119; Kathisma 18]. On "Lord, I have cried," Stichera on 6: 3 in the Triodion, and of the Saint 3 in the Menaion; Glory, both now, Theotokion; "O Gladsome Light." Prokeimenon before the Old Testament reading, and Genesis is read, the first reading. Another Prokeimenon, and the Proverbs of Solomon are read. Then: "Vouchsafe, O Lord," and prostrations...*
-
-*...3 prostrations. And both choirs having come together, they chant the daily Automela 2 and 4, in the same tone, once; Glory, both now, Theotokion. "Now lettest Thou Thy servant depart in peace..."; Trisagion; and 3 prostrations; Priest: "For Thine is the kingdom..."; Troparion: "Theotokos Virgin, rejoice..."; Glory: "O Baptist of Christ..."; Both now: "Intercede for us..."; and after each troparion, one prostration; then: "Beneath Thy compassion...", without a prostration. "Lord, have mercy" 40 times, quietly and evenly. The priest exclaims: "O God, be merciful unto us..."; and we make 3 great prostrations with the prayer: "O Lord and Master of my life..."; and the remaining 12 metanias; and at the last prostration, that entire prayer: "O Lord and Master of my life." Trisagion; and 3 prostrations; after "Our Father...", "Lord, have mercy" 12 times; "Blessed be the name of the Lord" thrice; and 3 prostrations; Glory, both now; "I will bless the Lord [at all times]"; and the dismissal. After this, we go out into the narthex, singing according to custom the sticheron of the Saint. And the priest says the customary prayers and the departure [litany], and the priest commemorates [the departed] with all the brethren; and there is the complete dismissal. This order of Vespers takes place in...*
-
-*...the entire holy Fast, whenever there is no Presanctified [Liturgy].*
-
-*It is fitting to know that we have not received the tradition to celebrate the Presanctified [Liturgy] before Wednesday, because according to the tradition of the Holy Fathers all the brethren fast until Wednesday, and those who are able, until Friday.*[^535]
-
-*Whenever there is the Presanctified [Liturgy], Vespers takes place as follows: After "Bless the Lord, O my soul" [Ps. 103], Glory, both now, "Alleluia" thrice, and 3 prostrations; the Great Litany, and the exclamation. And we recite the psalmody: "In my distress I cried unto the Lord" [Ps. 119; Kathisma 18]; Glory, both now, thrice, and 3 prostrations after each; and the priest says the Little Litany. After the psalmody we sing "Lord, I have cried" in the tone [of the week]; the troparia are in the Triodion; and we appoint 10 stichera, from "Bring my soul out of prison" [Ps. 141:8]: the Idiomelon of the day twice, and the Martyrikon in the same tone once; 3 Prosomoia in the Triodion, and of the Saint 3; and in the Menaion on 4, and the other twice; Glory, both now, Theotokion. Entrance with candles and with the censer, without the Gospel; "O Gladsome Light." Prokeimenon before the Old Testament reading, and Genesis is read. Another Prokeimenon; and the deacon exclaims: "Command!" (*κελεύσατε*)...*
-
-*...Command!" (*κελεύσατε*).[^536] And the priest, having taken the censer and the candle in his right hand, stands before the Holy Table; and the deacon exclaims: "Wisdom! Let us attend!" And the priest, making the sign of the cross with the censer and with the candle, says: "The Light of Christ illumines all." Then the reader says: "The reading from Proverbs"; and the Proverbs of Solomon are read. The candle-lighter [kandilaptes] strikes the iron semantron [klepalo].[^537] And after the completion of the reading, the priest says: "Peace be unto thee"; and the singer begins: "Let my prayer be set forth [as incense before Thee]"; Verses: "Lord, I have cried unto Thee"; "Set, O Lord, a watch before my mouth"; "Incline not my heart [to evil words]" [Ps. 140:1–4]. And it takes place as follows: When the singer sings "Let my prayer be set forth," then we fall prostrate on our faces. But when we, having arisen, sing "Let my prayer be set forth," then the singer himself falls prostrate on his face. After this, the deacon [says] the litany: "Let us all say unto the Lord..."; and we make 3 prostrations. And the rest of the order of the Presanctified takes place. And after the Entrance...*
-
-*...with the Holy Gifts, at the conclusion of the chant "Now the powers of heaven [invisibly serve with us]," we make 3 prostrations, standing uncovered. And the priest takes both veils [sudaria] from the Holy Gifts according to custom, and covers both, that is, the diskos and the chalice, as with one, or with the aer.*[^538] *And when he wishes to elevate the Holy Lamb [artos],*[^539] *he takes the holy elevation, and the deacon says: "Let us attend!" And the priest, elevating the Holy Lamb, says: "The Presanctified Holy Things unto the holy!" Communion Hymn: "O taste and see that the Lord is good" [Ps. 33:9]; another: "I will bless the Lord [at all times]" [Ps. 33:1]. And they receive communion, and partake of the warm water ablution.*[^540] *After this: "Let our mouths be filled with Thy praise, O Lord..."; and three prostrations; and the Prayer behind the Ambon; then: "Blessed be the name of the Lord" now and unto ages of ages; and there is the complete dismissal. And after the dismissal, we enter the refectory; and this takes place on Wednesday, and we eat dry food [xerophagy]. But on Thursday a meal is not set, and we fast from Wednesday until Friday. On Friday we enter the refectory, and we eat dry food...*[^541]
-
-*...dry food. And Great Compline we chant with prostrations and with singing, from "When I called" [Ps. 4].*
-
-*On Friday of the First Week of the Fast: At Vespers prostrations are omitted.*[^542] *We chant: "In my distress I cried unto the Lord" [Ps. 119; Kathisma 18]. Stichera on 10: the Idiomelon twice, and 4 of the Martyrs in the Octoechos of the current tone, and of Saint Theodore 3 on 4. Entrance without the Gospel; "O Gladsome Light." Prokeimenon and readings in the Old Testament lections. "Let my prayer be set forth," and 3 prostrations. Likewise also at "Now the powers of heaven" and at "Blessed be the name of the Lord," 3 great prostrations each; and the rest of the Presanctified service.*[^543]
-
-*It is fitting to know that on all Fridays of the holy Great Fast, we chant the entire Great Compline without prostrations; and the canon is chanted: the canon in the Octoechos for the reposed, and of the current incoming tone.*[^544] *On the first Saturday of the Fast: At Matins, "God is the Lord" in Tone 2. Troparion to Saint Theodore: Troparion, Tone 2:*
-
-*Troparion of Saint Theodore the Recruit [Tone 2]:*
-Great are the achievements of faith!...
-
-...In the fountain of flame, as upon the water of rest, the holy Martyr Theodore rejoiced; for having been consumed by fire, as sweet bread he was offered unto the Trinity. By his prayers, O Christ God, have mercy on us![^545]
-
-*Glory, both now, Theotokion. We recite the psalmody: two Kathismata: "The Lord said unto my Lord" [Ps. 109; Kathisma 16], and "Blessed are the undefiled" [Ps. 118; Kathisma 17], with "Alleluia." Canon of the Saint of the church with the heirmos on 6, and to Saint Theodore with the heirmos on 6. After Ode 6, Kontakion, Tone 8:*"[^546]
-
-*Kontakion of Saint Theodore the Recruit [Tone 8]:*[^547]
-Having received the faith of Christ within thy heart as a shield, thou didst conquer the opposing powers, O much-suffering one, and with a heavenly eternal crown wast crowned, O Theodore, as one invincible!
-
-*On the Praises, Stichera of the Saint on 4; Glory, of the Saint; Both now, Theotokion. On the Aposticha, the Idiomela of the Saint in Tone 4; Glory, both now, of the Passion-bearer; Both now, Theotokion; and the First Hour. At the Liturgy: Beatitudes from the canon, Ode 3 and Ode 6. Prokeimenon: "The righteous shall be glad in the Lord" [Ps. 63:11]; Verse: "Hear, O God, my voice" [Ps. 63:2]. Epistle to the Hebrews, pericope 313 [Heb. 1:1–12], and for the Saint [2 Tim. 2:1–10]; Alleluia: "The righteous shall flourish like a palm tree" [Ps. 91:13]. Gospel of Chrysostom [from Mark, pericope 10: Mark 2:23–3:5], and for the Saint...*
-
-*...pericope 10 [Mark 2:23–3:5]; and for the Saint from John, pericope 52 [John 15:17–16:2]. Communion Hymn: "In everlasting remembrance shall the righteous be" [Ps. 111:6].*
-
-*At the table we eat cooked boiled food, with white and black olives, and oil and cooked dish whatever happens to be present, and kolyvo; and we drink wine by measure [krasovolion].*[^548] *For in the Holy Forty Days, we have received the rule to eat fish twice: on the feast of the Annunciation, and on Palm Sunday.*[^549]
-
-*First Sunday of the Fast, Which is Called of Orthodoxy [Triumph of Orthodoxy]:*[^550]
-*At Great Vespers: Stichera on 10: Resurrectional 6, and in the Triodion on 4; Glory, Tone 2: "Grace hath shone forth..."; Both now, Theotokion 1 of the tone. At the Entrance: the customary Prokeimenon. Glory, Tone 2: "Rejoice, O prophets..."; Both now, Theotokion. On the Aposticha: Resurrectional; Glory, Tone 2: "From ungodliness..."; Both now, Theotokion. Troparion: "Theotokos Virgin, rejoice..." twice; and "Thy most pure Icon..." once. At Matins: Troparion, Resurrectional, twice; Glory: "Thy most pure Icon..."; Both now, Theotokion; and the rest the customary order. Kathismata 3. Canons: Resurrectional on 4, and of the Theotokos on 4, and in the Triodion on 6. After Ode 6, Kontakion, Tone 8:*"[^551]
-
-*Kontakion of the Sunday of Orthodoxy [Tone 8]:*
-The uncircumscribed Word of the Father was circumscribed, having taken flesh of Thee, O Theotokos; and having restored the defiled image to its ancient beauty, He infused it with divine comeliness...
-
-...He infused it with divine comeliness. But confession of salvation we represent in deed and word![^552]
-
-*Exapostilarion, Resurrectional, and in the Triodion. On the Praises, on 8: Resurrectional 3, and in the Triodion on 4; then 3: "Arise, O Lord my God" [Ps. 9:33]; Idiomelon, Tone 6: "Moses in the season of abstinence..."; Glory, the same; Both now: "Most blessed art thou, O Virgin Theotokos..."; and the Great Doxology. At the Liturgy: the Octoechos on 6, and in the Triodion, Ode 3. Prokeimenon: "Blessed art Thou, O Lord God of our fathers" [Dan. 3:26]; Verse: "For Thou art righteous in all that Thou hast done" [Dan. 3:27]. Epistle: "By faith Moses, when he was come to years..." [Heb. 11:24–26, 32–12:2]. Alleluia: "Moses and Aaron among His priests, and Samuel among them that call upon His name" [Ps. 98:6]. Gospel from John [1:43–51]: "The day following Jesus would go forth..." Communion Hymn: "Praise the Lord from the heavens" [Ps. 148:1]; and the other: "Rejoice in the Lord, O ye righteous" [Ps. 32:1].*
-
-*On the evening of that same Sunday: as on Cheesefare Sunday. Great Prokeimenon, Tone 8: "Thou hast given an heritage unto them that fear Thy name, O Lord" [Ps. 60:6]; Verse: "From the ends of the earth have I cried unto Thee" [Ps. 60:3]; Verse: "I will be sheltered under the shadow of Thy wings" [Ps. 60:5]; Verse: "So will I sing praise unto Thy name unto ages of ages" [Ps. 60:9]. Then: "Vouchsafe, O Lord." Now these two Great Prokeimena: the first on Cheesefare...*[^553]
-
-*...Sunday, and the second this one, which alternate on the Sunday evenings of this holy Fast, from Cheesefare Sunday until the 5th Sunday. After [Vespers], as at the beginning, at Compline on Sunday evening prostrations are not made, except only after "Glory to God in the highest," and at the end 15 [metanias] and the last [great prostration]; after the Trisagion, 3.*[^554]
-
-*And let this be known, that from Tuesday of the second week [of Great Lent], there are chanted at Compline the canons in the Menaion of the Saints occurring from Lazarus Saturday until Thomas Sunday, together with one Theotokion canon: first we chant the canon of the Theotokos, then that in the Menaion; after Ode 3, the Sessional hymn in the Menaion; after Ode 6, the Kontakion of the Theotokos, and the Kontakion and Ikos [of the Saint].*[^555]
-
-*And on Saturday [Memorial Saturday] at Matins: "Alleluia." Troparion: "Apostles, Prophets, and Martyrs..."; Glory: "Remember, O Lord, Thy servants..."; Both now: "Holy Mother of the ineffable Light..." After the 1st Kathisma: 4 Sessional hymns, both funeral and Theotokion. "Blessed are the undefiled" [Ps. 118; Kathisma 17], which is divided in two: in the middle, the diaconal litany for the reposed; and at the end, three Sessional hymns, and the diaconal litany for the reposed; and the priest commemorates all the reposed; and the rest [of the service]. Canon in the Menaion with the heirmos on 6, and of the temple on 4; is chanted in order...*[^556]
-
-*...Troparia without verses, and keep 3. From then on take care that one does not recite the stichologia from the start of the canticles until Ode 6. At Ode 6, where the Four-Ode Canon enters, then one recites the stichologia: Ode 6, likewise also Ode 7, and the rest.*[^557] *Exapostilarion: "O Thou Who hast adorned the heaven with stars"; and for the departed, the sessional hymn. On the Praises, daily stichera; Glory: for the reposed; on the Aposticha, Sessional hymns for the reposed. At the Liturgy: Beatitudes in the Octoechos; Prokeimenon, Epistle of the day, and for the reposed; and the Gospel likewise: of the day, and for the reposed of the day, and for the dead. In this manner the service takes place on all Saturdays until the 4th Saturday of the Fast, except for three feasts.*
-
-*On the Second Sunday of the Fast: the order is according to the customary manner, even as was previously set forth. At the Liturgy: Prokeimenon: "Thou, O Lord, shalt keep us, and shalt preserve us" [Ps. 11:8]; Verse: "Save me, O Lord, for the godly man hath ceased" [Ps. 11:2]. Epistle: of the day [Heb. 1:10–2:3], and of the Theotokos [Heb. 9:1–7]. Alleluia: the tone likewise. Gospel: of the day [Mark 2:1–12], and of the Theotokos [Luke 10:38–42, 11:27–28]. And the Communion Hymn likewise.*[^558]
-
-*The Third Sunday of the Fast, on which we celebrate the Veneration of the Precious Cross: At Great Vespers...*
-
-*...Stichera on 10: Resurrectional 6, and of the Cross on 4; the tone of the Cross: Automelon 1. At the Entrance: Theotokion Dogmatikon of the tone; Glory, Tone 5: "Beholding Thee, O Christ, hanging upon the Tree..."; on the Aposticha: Resurrectional; Glory, Tone 4: "O Lord Who didst help gentle David..."; Both now, the same. Troparion: "Theotokos Virgin, rejoice..." twice; Tone 1: "Save, O Lord, Thy people..." once; this makes 3. At Matins: Troparion, Resurrectional twice; Glory, both now, of the Cross; and the rest the customary order. Canons: Resurrectional on 4, and of the Theotokos on 2, and of the Cross on 8; Katavasia: "Divine Moses prefigured of old...". After Ode 3, Sessional hymn of the Cross. After Ode 6, Kontakion, Tone 7, Automelon:*[^559]
-
-*Kontakion of the Precious Cross [Tone 7]:*
-No longer doth the flaming sword guard the gate of Eden, for upon it hath come a marvelous bond, the Tree of the Cross! The sting of death and the victory of Hades have been destroyed, for Thou didst appear, O my Savior, crying unto those in faith: Enter ye again into Paradise!
-
-*Exapostilarion: Resurrectional, and of the Cross. On the Praises, appoint 8: 4 Resurrectional; and of the Cross, Prosomoia in Tone 4, on 4: 2 Prosomoia of the Cross are chanted with the 3 verses: "God is our King before the ages..." [Ps. 73:12]; Verse: "Exalt ye the Lord our God, and worship at His footstool..." [Ps. 98:5]. After this is said...*
-
-*...another Resurrectional verse and the Prosomoia; and one sings the Idiomelon of the day in that tone, Tone 8: "The boast of the faithful..."; Glory, Tone 6: "Today the Cross of the Lord..."; Both now: "Most blessed art thou, O Virgin Theotokos..."; Great Doxology, sung in a quiet voice. After this Doxology, the priest vests in the phelonion, and comes with the censer and with a candle unto the Holy Table, and censes the Holy Table and the Precious Wood; and thus he lifts it upon his head, in his hands, upon a platter. And he goes by the left side of the altar, two great candles and the censer preceding him. He comes unto the church doors, and there stands awaiting the end of the Trisagion.*[^560] *And when the Trisagion is finished, the deacon says: "Wisdom! Let us attend!" And the brethren begin the Troparion: "Save, O Lord, Thy people...", chanting it thrice. And the priest comes, carrying the Precious Wood through the Holy Doors unto the prepared table, and places the Precious Wood upon the table. And thus...*
-
-*...thus he censes it on the 4 sides. And while they sing: "Before Thy Cross we bow down in worship, O Master, and Thy holy Resurrection we glorify", immediately uncovering the casket, they begin to make prostrations in this manner: The Igumen with the priest make 3 prostrations unto the ground, and kiss the Precious Cross; and having kissed it, they again make 1 prostration, both together, and step back to their places. In like manner also the brethren begin, two from the right side and from the left side, after the same manner.*[^561] *And the choirs sing the Idiomelon Stichera: Tone 2: "Come, ye faithful, let us worship the life-giving Wood...", and the others which belong to the Cross; Glory, both now, Tone 8: "Today the Master of creation and Lord of glory is nailed to the Cross..." And when the kissing is completed, then the litany and dismissal. At the Liturgy: Beatitudes in the Octoechos on 6, and of the Cross, Ode 3; Troparion: Resurrectional, and of the Cross; Glory, both now, Kontakion of the Cross. In place of the Trisagion: "Before Thy Cross we bow down in worship..." Prokeimenon: "Save, O Lord, Thy people, and bless Thine inheritance" [Ps. 27:9]; Verse: "Unto Thee will I cry, O Lord my God" [Ps. 27:1]. Epistle of the day [Heb. 4:14–5:6]. Alleluia: "Remember Thy congregation, which Thou hast purchased from the beginning" [Ps. 73:2]; Verse: "God is our King before the ages, Who hath wrought salvation in the midst of the earth" [Ps. 73:12]. Gospel of the day [Mark 8:34–9:1]. Communion Hymn: "The light of Thy countenance is signed upon us, O Lord" [Ps. 4:7].*
-
-*Be it known that this veneration we perform according to the aforesaid manner for 4 days, that is: on Sunday, on Monday, on Wednesday, and on Friday.*[^562] *And it takes place as follows: On Monday, at the First Hour one makes the veneration, while chanting instead of the dismissal troparion: "Before Thy Cross we bow down in worship...". In like manner also on Wednesday, after the same manner. But on Friday, at the Sixth Hour, we perform the third veneration, and venerate the Cross, and thus the Cross is taken up into the sanctuary. On Saturday evening of the 4th week: the customary stichologia, and the rest according to custom. On Wednesday of the 4th week, at Matins is chanted the Canon of the Cross with the Triodia; of the Saint it is left out. In that same 4th week, the priest begins the twofold litanies of the catechumens: "As many as are catechumens, depart...", with the prayer, even until Great Wednesday.*[^563] *On the 4th Sunday of the Fast, at Vespers: one recites the stichologia: Kathisma 4; and on Monday of the 5th week: one recites the stichologia: the Kathismata in order. In the evening, on Wednesday of the 5th week: at Vespers, the customary stichologia, and on "Lord, I have cried," Idiomela...*
-
-*...Idiomela of the day: 2, and 4; and after 3 stichera, in the Triodion; and immediately we sing the 24 Stichera of the Great Canon, whose acrostic is: "Falling into the nets...". And at each sticheron we make 3 prostrations. Then Glory, Triadikon; Both now, Theotokion from the same; and the rest of the order of the Presanctified. In the refectory, we eat food with oil from tree-fruit, and we drink wine, on account of the labor of the All-Night Vigil. And Compline we chant in the cells. On Thursday of the 5th week, at Matins we sing "Alleluia," and in the current tone is said the Hymn to the Trinity. And one recites the stichologia: one Kathisma, 7 in the Octoechos, and of the Apostles 4; and we read from the book of Saint Ephrem; and Psalm 50. And we begin the Great Canon of master Andrew; and at each troparion we make 3 prostrations. And there is read the Life of Saint Mary of Egypt, in two readings: after Ode 3 in the Triodion; at Ode 4 the Triodion precedes, without prostrations; likewise also at Ode 8 and at Ode 9.*[^564]
-
-*...After Ode 6, Kontakion, Tone 6, Automelon:*[^565]
-
-*Kontakion of the Great Canon [Tone 6]:*
-My soul, my soul, arise! Why sleepest thou? The end draws near, and thou shalt be confounded! Arouse thyself, therefore, that Christ God may spare thee, Who is everywhere present and fills all things!
-
-*Then the Ikos; and immediately the Beatitudes, and prostrations. Then also Ode 7, and the rest. Exapostilarion in the Octoechos. On the Aposticha: Idiomela of the day: 2, and of the day; Glory, Ikos 1; then without stichologia, then the Kathisma is chanted at Vespers. On Friday of the 5th week, at Vespers: Stichera on 10: Idiomela of the day: 2, and of the day; and of the holy Theotokos, Prosomoia 3, Tone 6, on 7: "The Pre-eternal Light..."; Glory, both now, Tone 2: "The mystery hidden from the ages..."; and the rest of the Presanctified Liturgy. Compline: Small Compline. On Saturday at Matins: Troparion thrice, Tone 8:*
-
-*Troparion of the Akathist [Tone 8]:*
-When the bodiless angel perceived the mystic command, he came with haste unto the abode of Joseph, and said unto her that knew not wedlock: He that bowed the heavens by His descent is held without change wholly within Thee; Whom also beholding...
-
-...Whom also beholding in Thy womb taking the form of a servant, in awe I cry unto Thee: Rejoice, O Bride unwedded!
-
-*Kathisma psalmody: two Kathismata. After the 1st Kathisma, Kontakion, Tone 8: "To thee, the Champion Leader..."; then 6 Ikoses; Hypakoe; the same Kontakion. And when these Ikoses are said, one does not sit down, but standing we listen with fear.*[^566] *After the 2nd Kathisma: Kontakion: "To thee, the Champion Leader...", and the remaining 6 Ikoses, and again that same Kontakion. Psalm 50. Canon of the Theotokos, of the Akathist [non-sitting], Tone 4, on 8; and for the patron Saint of the church on 6; and where the Four-Ode Canon occurs, omit that of the church, and for the Theotokos on 6. After Ode 3, Kontakion: "To thee, the Champion Leader...", and 6 Ikoses, and again that same Kontakion. After Ode 6, the Four-Ode Canon according to custom. After Ode 6, Kontakion: "To thee, the Champion Leader...", and 6 Ikoses, and again that same Kontakion, and Ikos 1. After Ode 9: Exapostilarion of the Theotokos. On the Praises: Prosomoia of the Theotokos on 4; Glory, both now: "A language which she knew not..." [Tone 2]. Great Doxology; Troparion of the Theotokos. At the Liturgy: Beatitudes from the Canon of the Theotokos, Ode 3 and Ode 6. Prokeimenon: "My soul doth magnify the Lord, and my spirit hath rejoiced in God my Savior" [Luke 1:46–47]...*
-
-*...Verse: "For He hath regarded the lowliness of His handmaiden" [Luke 1:48]. Epistle: [Hebrews], pericope 320 [Heb. 9:1–7]: "For both He that sanctifies and they who are sanctified are all of one..." Alleluia: "Unto Thy face shall the rich among the people make supplication" [Ps. 44:13]. Gospel: [Luke], pericope 54 [Luke 1:39–49, 56]: "In those days, Mary arose..." Communion Hymn: "I will take the cup of salvation, and call upon the name of the Lord" [Ps. 115:4].*
-
-*On Friday of the 6th week, at Matins: the customary stichologia. On the Aposticha: Idiomela: 2, and of the day; Glory, Tone 8: "Having accomplished the forty days that bring profit to our souls..." (that is, the lesser one); Both now, again the same. On Friday of the 6th week, at Vespers: Kathisma [18: "In my distress I cried unto the Lord"]. On "Lord, I have cried," Stichera on 10: we sing "Having accomplished the forty days that bring profit to our souls" (the lesser one) twice, and of the day once; and of Saint Lazarus, Idiomela 5, on 7, Tone 6: "Lord, standing by the tomb of Lazarus..."; Glory, Tone 8: "Standing by the tomb of Lazarus..."; Both now, of the same tone: "Having accomplished the forty days that bring profit to our souls" (that is, the greater one). Entrance; Prokeimenon, and readings of the day, and the rest. The Presanctified Liturgy. Great Compline according to custom, and the canon which is written in the Triodion. It is fitting to know that from this day forth, the Octoechos, and Idiomela, and Theotokia are not chanted; likewise also at Ode 9: "More honorable than the Cherubim" is not chanted in the stichologia, even until Thomas Sunday.*[^567]
-
-*On Saturday of Saint Lazarus [Lazarus Saturday], at Matins: Troparion, Tone 1, thrice, at "God is the Lord":*[^568]
-
-*Troparion of Lazarus Saturday [Tone 1]:*
-Giving assurance of the universal resurrection before Thy Passion, Thou didst raise Lazarus from the dead, O Christ God. Therefore, we also, like the children, bearing the emblems of victory, cry out unto Thee, the Vanquisher of death: Hosanna in the highest! Blessed is He that comes in the name of the Lord!
-
-*After the 2 Kathismata: after "Blessed are the undefiled" [Ps. 118; Kathisma 17], the Resurrectional Troparia [Evlogetaria]: "The angelic council was amazed..."; and we recite "Having beheld the Resurrection of Christ"; Psalm 50. Canon, Tone 1: "Let us sing a song of victory...", with the heirmoi on 8; and another, Tone 8, without heirmoi on 6. After Ode 3, Sessional hymn of the feast. After Ode 6, Kontakion, Tone 2:*
-
-*Kontakion of Lazarus Saturday [Tone 2]:*
-Christ, the joy of all, the truth, the light, the life, and the resurrection of the world, hath appeared in His lovingkindness unto those on earth, and hath become the image of the resurrection, granting unto all divine forgiveness!
-
-*Exapostilarion in the Triodion. On the Praises: Idiomela 4: Tone 1: "Resurrection and Life..."; and two in Tone 4: "Martha and Mary said unto the Savior..."*
-
-*...Mary [said]: "Lord, he that hath been four days dead stinks already" [John 11:39]. After this, coming together, both choirs sing two by two; Sticheron, Tone 8: "Beholding Lazarus dead, as Thou didst say, O Lord..."; Verse: that same verse: "Arise, O Lord my God, let Thine hand be lifted up; forget not Thy poor for ever" [Ps. 9:33]; Glory, Tone 2: "Great and marvelous wonders hath the Savior wrought..."; Both now: "Most blessed art thou, O Virgin Theotokos..."; Great Doxology; Troparion, and dismissal. At the Liturgy: Beatitudes from the Canon, Ode 3 and Ode 6, on 8. In place of the Trisagion: "As many of you as have been baptized into Christ have put on Christ. Alleluia" [Gal. 3:27].*[^569] *Prokeimenon: "The Lord is my light and my Savior; whom shall I fear?" [Ps. 26:1]; Verse: "The Lord is the defender of my life; of whom shall I be afraid?" [Ps. 26:1]. Epistle of the day: [Hebrews, pericope 333; Heb. 12:28–13:8]. Alleluia, Tone 5: "The Lord is King, He is clothed with majesty" [Ps. 92:1]; Verse: "For He hath established the world, which shall not be shaken" [Ps. 92:1]. Gospel according to John, of the day [John 11:1–45]. Communion Hymn: "Out of the mouth of babes and sucklings hast Thou perfected praise [Ps. 8:3]. Alleluia."*
-
-*Flowery Sunday [Palm Sunday]:*[^570]
-*At Little Vespers: Stichera on 4, Tone 4: "Today the grace of the Holy Spirit hath gathered us together..."; and the other 3; Glory, both now: "Today the grace of the Holy Spirit..."; on the Aposticha: Idiomela, Tone 8, 3: "Rejoice and be glad, O city of Zion..."; with their verses; Glory, both now: of both; Troparion of the feast, and dismissal.*
-*At Great Vespers: Stichera on 10: Idiomela 4 of the feast: "Today the grace of the Holy Spirit hath gathered us together..."; "He that hath the heaven for a throne and the earth for His footstool..."; "The Lord comes into Bethany..."*
-
-*..."Six days before the Passover, Jesus came to Bethany..."; Glory: "Today the grace of the Holy Spirit..."; Both now: the same. Entrance; Prokeimenon: "The Lord is King, He is clothed with majesty" [Ps. 92:1]; 3 Readings of the feast [Gen. 49:1–12; Zeph. 3:14–19; Zech. 9:9–15]. At the Litiya [Exit]:*[^571] *Idiomela 3, Tone 1: "The All-Holy Spirit...", "Co-unoriginate...", "Six days before the Passover..."; and another two, Tone 2: "When Thou didst enter into the holy city..."; with their verses; Glory, both now, Tone 3: "Six days before the Passover..." On the Aposticha: Idiomela, Tone 8: "Rejoice and be glad, O city of Zion...", and another two; we say the verses: "Out of the mouth of babes and sucklings hast Thou perfected praise" [Ps. 8:3]; Verse: "O Lord our Lord, how marvelous is Thy name in all the earth!" [Ps. 8:2, 10]; Glory: "Today the grace of the Holy Spirit..."; Both now: again the same. After the Trisagion: Troparion twice: "Giving assurance of the universal resurrection..."; and another, Tone 4, once:*
-
-*Second Troparion of Palm Sunday [Tone 4]:*
-Buried with Thee in baptism, O Christ our God, we have been made worthy of immortal life by Thy Resurrection, and praising Thee we cry: Hosanna in the highest! Blessed is He that comes in the name of the Lord!
-
-*At Matins: at "God is the Lord," Troparion: "Giving assurance of the universal resurrection..." twice; Glory, both now: "Buried with Thee in baptism..." Stichologia: two Kathismata, and the Polyeleos [Many-merciful, Pss. 134–135]. Sessional hymn of the feast; Anabathmoi [Hymns of Ascent], Tone 4, Antiphon 1 ["From my youth..."]. Prokeimenon, Tone 4: "Out of the mouth of babes and sucklings hast Thou perfected praise" [Ps. 8:3]; Verse: "O Lord our Lord, how marvelous is Thy name in all the earth!" [Ps. 8:2, 10]. Gospel according to Matthew [Matt. 21:1–17]: "When Jesus drew near unto Jerusalem..." Psalm 50; "Having beheld the Resurrection of Christ" is not said.*[^572]
-
-*And when the brethren kiss the Gospel, the Igumen distributes the palms, that is, the branches;*[^573] *and we begin the Canon, Tone 4: "The fountains of the deep were seen..." [composed by St. Cosmas]; the heirmos twice, and the troparia on 12; and again the heirmos once together [as Katavasia]. After Ode 6, Kontakion, Tone 6:*
-
-*Kontakion of Palm Sunday [Tone 6]:*
-Borne upon a throne in heaven, and upon a foal on earth, O Christ God, Thou didst accept the praise of angels and the singing of children, who cried out: Blessed art Thou that comest to raise up Adam!
-
-*Candles are given unto the brethren; Exapostilarion thrice: ["Holy is the Lord our God"]. On the Praises: Stichera on 6: Idiomela 4, Tone 4: "And a great multitude...", "He that desired...", "The Creator...", "Giving assurance of the universal resurrection..."; Glory, both now, Tone 6: "Six days before the Passover..." Great Doxology, Troparion, and dismissal. Note: At the second hour of the day, we process with crosses around the monastery, and having returned, we begin the First Hour; and we celebrate the Liturgy earlier, on account of the labor.*[^574] *At the Liturgy: Festal Antiphons:*[^575] *Antiphon 1, Psalm [114]: "I have loved, because the Lord hath heard the voice of my supplication" [Ps. 114:1]; Refrain: "Through the prayers of the Theotokos, O Savior, save us"; Verse:*
-
-*..."I have loved, because the Lord will hear the voice of my supplication; because He hath inclined His ear unto me" [Ps. 114:1–2]; Refrain: "Through the prayers of the Theotokos, Savior, save us"; Verse: "Therefore will I call upon Him in my days" [Ps. 114:2]; Refrain: "Through the prayers of the Theotokos..."; Verse: "The pangs of death encompassed me, the perils of Hades found me" [Ps. 114:3]; Refrain: "Through the prayers of the Theotokos, Savior, save us"; Glory: "Through the prayers of the Theotokos..."; Both now: "Through the prayers of the Theotokos..."*
-
-*Antiphon 2, Psalm 115: "I believed, therefore have I spoken" [Ps. 115:1]; Refrain: "Save us, O Son of God, Who didst sit upon the foal of an ass, who sing unto Thee: Alleluia, alleluia, alleluia";*[^576] *Verse: "I believed, therefore have I spoken; I was humbled exceedingly" [Ps. 115:1]; "I said in my dismay: Every man is a liar" [Ps. 115:2]; Refrain: "Save us, O Son of God..."; Verse: "What shall I render unto the Lord for all that He hath rendered unto us?" [Ps. 115:3]; Refrain: "Save us, O Son of God..."; Verse: "I will take the cup of salvation, and call upon the name of the Lord" [Ps. 115:4]; Refrain: "Save us, O Son of God..."; Glory, both now: "Only-begotten Son and Word of God..."*
-
-*Antiphon 3, Psalm 117: "O give thanks unto the Lord, for He is good, for His mercy endures unto the ages" [Ps. 117:1]; Troparion: "Giving assurance of the universal resurrection..."; Verse: "Let the house...*
-
-*...of Aaron say: For He is good, for His mercy endures unto the ages" [Ps. 117:3]; Troparion: "Giving assurance of the universal resurrection..."; Verse: "Let them that fear the Lord say: For He is good, for His mercy endures unto the ages" [Ps. 117:4]; Troparion: "Giving assurance of the universal resurrection..."*
-*Entrance: "Blessed is He that comes in the name of the Lord; God is the Lord, and hath appeared unto us" [Ps. 117:26–27]. Troparion: "Giving assurance of the universal resurrection..."; Glory, both now: Kontakion: "Borne upon a throne in heaven..." Prokeimenon: "Blessed is He that comes in the name of the Lord" [Ps. 117:26]; Verse: "O give thanks unto the Lord, for He is good, for His mercy endures unto the ages" [Ps. 117:1]. Epistle of the day: [Philippians, pericope 247; Phil. 4:4–9]: "Rejoice in the Lord alway..." Alleluia: "O sing unto the Lord a new song" [Ps. 97:1]; Verse: "All the ends of the earth have seen the salvation of our God" [Ps. 97:3]. Gospel according to John, pericope [John 12:1–18]: "Six days before the Passover, Jesus came to Bethany..." And the rest of the Liturgy of Saint John Chrysostom. Communion Hymn: "Blessed is He that comes in the name of the Lord; God is the Lord, and hath appeared unto us [Ps. 117:26–27]. Alleluia." In the refectory there is consolation, a great meal: we eat fish and we drink wine.*[^577]
-
-*On that same Palm Sunday evening, at Vespers: we do not recite the Kathisma.*[^578] *Stichera on 6, Tone 8: "Rejoice and be glad, O city of Zion..."; Glory: again "Rejoice and be glad..."; Both now: "Borne upon the Cherubim..." Entrance; Great Prokeimenon: "Behold now, bless ye the Lord, all ye servants of the Lord" [Ps. 133:1]; Verse: "Who stand in the house of the Lord, in the courts of the house of our God" [Ps. 133:1]; and 3 prostrations. On the Aposticha: Idiomela 3: one in Tone 2: "Bearing branches and boughs..."; another in Tone 3: "A dreadful...*
-
-*...mystery"; another in Tone 6: "The assembly of the deceitful..."; we say the verses: "Sing unto the Lord a new song" [Ps. 97:1]; "All the ends of the earth have seen" [Ps. 97:3]; Glory: "Bearing branches and boughs..."; Both now: that same "A dreadful mystery..." After the Trisagion: "Theotokos Virgin, rejoice...", and the rest; the customary prostrations; dismissal.*
-
-*Note: Be it known that in this Great Week we complete the Psalter once, which is as follows:*[^579] *On Flowery Sunday [Palm Sunday]: 3 Kathismata at Compline [and Nocturns]. On Monday: 5 Kathismata, that is: at Matins 3, and at the Third, Sixth, and Ninth Hours: 2. Likewise also on Great Tuesday: 5; and on Wednesday: 5, after the same manner. At Vespers, moreover, on those 3 days we chant: "In my distress I cried unto the Lord" [Ps. 119; Kathisma 18]; and "Blessed are the undefiled" [Ps. 118; Kathisma 17] we chant on Great Saturday at Matins.*
-
-*In the Great Days [Holy Week], at Matins:*[^580] *we sing "Alleluia" in Tone 8, and we say the Troparion in Tone 8, thrice: "Behold, the Bridegroom comes in the middle of the night...", which is written in the Midnight Office. After the Kathismata, the Sessional hymns of the day in the Triodion. Psalm 50, and the prayer: "O God, save Thy people..."; and we begin the Triodion, composed by Cosmas: the heirmos twice, and the troparia on 12;*
-
-*...and again the heirmos once together. After Ode [8], Kontakion, Tone 8, Automelon:*[^581]
-
-*Kontakion of Great Monday [Tone 8]:*
-Jacob lamented the loss of Joseph, while the noble youth sat in a chariot, honored as a king; for having not submitted then to the pleasures of the Egyptian woman, he was glorified by Him Who sees the hearts of men and bestows an incorruptible crown!
-
-*Exapostilarion, Tone 8: "Thy Bridal Chamber, O Lord, I behold adorned, and a garment I have not that I may enter therein; enlighten the vesture of my soul, O Giver of Light, and save me", chanted thrice in the midst of the church, and again by both sides [choirs].*[^582] *On the Praises: Idiomela 3, on 4: one in Tone 1: "The Lord, going unto His voluntary Passion..."; and the other two: "Having reached the saving Passion...", "Lord, coming unto Thy Passion..."; Glory, both now, Tone 8: "Finding the fig tree withered [because of its barrenness]..." On the Aposticha: Idiomela 3, Tone 5: "Lord, reaching the mystery...", "Lord, Thou hast crushed...", "Having reached..."; and we say the verses: "Sing unto the Lord a new song" [Ps. 97:1]; Verse: "All the ends of the earth have seen" [Ps. 97:3]; Glory, both now, Tone 8: ["A second Eve the serpent found in the Egyptian woman..."]. And we join the First Hour, without stichologia, according to custom; but the Third and Sixth Hours with stichologia at their proper time. At the Hours, moreover, there is said the Kontakion of the day, and the troparia...*
-
-*...the customary ones. It is fitting to know how the Four Gospels [Tetraevangelion] are read:*[^583] *The Gospel of Matthew is read entirely in two readings; likewise also that of Mark, entirely in two; and that of Luke is read in three readings; and that of John is read up to the beginning of the Holy Passion in two readings. And they read the Gospels during the three days: on Monday, on Tuesday, and on Wednesday, at the Third, Sixth, and Ninth Hours.*
-
-*On Holy and Great Monday, at Vespers: Stichera on 6: "Going on the morrow unto His voluntary Passion..."; Glory, both now, Tone 8: "A second Eve the serpent found in the Egyptian woman..." Entrance with the Gospel; readings of the Paremias [Ex. 1:1–20; Job 1:1–12]; "Let my prayer be set forth as incense before Thee..."; then the Gospel according to Matthew [Matt. 24:3–35]: "As Jesus sat upon the Mount of Olives..."; and the litany: "Let us all say with our whole soul...", and the rest of the Presanctified Liturgy. And we enter into the refectory: we eat dry food [xerophagy], even until Great Thursday.*[^584] *Compline is chanted Great, according to custom, on which is chanted the Triodion of master Andrew.*
-
-*On Great Tuesday, at Matins:*[^585] *we sing "Alleluia" in Tone 8, and we say the Troparion thrice: "Behold, the Bridegroom comes..."*
-
-*...after the Kathismata [psalmody], sessional hymns in the Triodion; Psalm 50, and the prayer: "O God, save Thy people..."; and we begin the Triodion, composed by Cosmas: the heirmos twice, and the troparia on 12; and again the heirmos once together. After the second ode [Ode 8 of the Two-Ode Canon], Kontakion, Tone 2:*[^586]
-
-*Kontakion of Great Tuesday [Tone 2]:*
-Having thought upon the final hour, O my soul, and having feared the cutting down of the fig tree, diligently trade with the talent given unto thee, O wretched one, watching and crying: Let us not be left outside the bridal chamber of Christ!
-
-*Exapostilarion thrice: ["Thy Bridal Chamber, O Lord, I behold adorned..."]. On the Praises: Idiomela 2, twice [on 4]: Tone 1: "Into the splendor of Thy saints how shall I enter..."; Tone 4: "He that had hidden his talent in the earth..."; Glory, both now, Tone 2: "In slothfulness of soul having fallen asleep, O Bridegroom Christ..." On the Aposticha: Idiomela 3, Tone 6: "Come, ye faithful, let us work diligently for the Master...", "Of the Bridegroom...", "Cleanse..."; Glory, both now, Tone 6: "When Thou shalt come in glory, O Jesus, with the angelic hosts..."; we say the verses: "We were filled in the morning with Thy mercy, O Lord..." [Ps. 89:14]; "And let the brightness of the Lord our God be upon us" [Ps. 89:17]; and the rest according to custom.*
-
-*On Tuesday evening [Great Wednesday Vespers]: Stichera 5, on 6, chanted from Matins; Glory, Tone 7: "Behold, unto thee, O Master, the harlot pours out precious ointment..."; Both now, Tone 6: "When Thou shalt come in glory..."; Entrance with the Gospel; readings of the day [Ex. 2:5–10; Job 1:13–22]; "Let my prayer be set forth as incense before Thee..."; Gospel according to Matthew [Matt. 26:6–16]: concerning the two denarii and the woman who anointed the Lord with precious myrrh in Bethany;*[^587]
-
-*...and at the Ninth Hour, the litany: "Let us all say with our whole soul...", and the rest of the Presanctified Liturgy.*
-
-*On Great Wednesday, at Matins:*[^588] *we sing "Alleluia" in Tone 8; Troparion thrice: "Behold, the Bridegroom comes..."; 3 Kathismata; Sessional hymns in the Triodion; Psalm 50, and the prayer; and we begin the Triodion, composed by Cosmas: the heirmos twice, and the troparia on 12; and again the heirmos once together. After Ode 3 [of the Three-Ode Canon], Kontakion, Tone 4, Automelon:*
-
-*Kontakion of Great Wednesday [Tone 4]:*
-Having transgressed more than the harlot, O Compassionate One, I have never offered Thee streams of tears; but in silence, praying, I fall down before Thee, desiring with love to kiss Thine all-pure feet, that Thou, as Master, mayest grant forgiveness of debts unto me who cry out: O Savior, deliver me from my filthy deeds!
-
-*Exapostilarion thrice: ["Thy Bridal Chamber, O Lord, I behold adorned..."]. On the Praises: Idiomela 4, Tone 1: "Thee, the Virgin's Son, the harlot having recognized...", "The precious ointment...", "When Thou shalt come...", "O treacherous Judas..."; Glory, both now, Tone 6: "Today Christ comes unto the house of the Pharisee..." On the Aposticha: Idiomela 4: "The sinful woman ran unto the precious ointment...", and 3 in Tone 6: "The woman came...", "She spread forth her hair...", "And yet another..."; we say the verses: "We were filled in the morning with Thy mercy, O Lord..." [Ps. 89:14]; "And let the brightness of the Lord our God be upon us" [Ps. 89:17]; Glory, both now, Tone 8 [Hymn of Cassia]:*[^589] *"Lord, the woman who had fallen into many sins, perceiving Thy divinity, takes upon herself the duty of a myrrh-bearer..." And we join the First Hour, without stichologia.*
-
-*...at the Ninth Hour, finish reading the Four Gospels [Tetraevangelion];*[^590] *and the prostrations cease at the end of the Hours. After the Trisagion, they strike the iron semantron, and forgiveness takes place [mutual forgiveness]; and the Great Dismissal is said: "O Master, Great in Mercy...", and the rest.*
-
-*On Holy and Great Wednesday, at Vespers: Stichologia: "Unto the Lord when I was afflicted..." [Kathisma 18], without prostrations; Stichera on 10, sung at Matins, repeated twice; Glory, both now, Tone 8: "Lord, [the woman who had fallen] into many [sins]..." Entrance with the Holy Gospel; daily litany; "Let my prayer be set forth as incense before Thee...", and 3 prostrations; daily Gospel; litany: "Let us all say with our whole soul...", and the rest of the Presanctified Liturgy. Compline without prostrations, Great Compline.*
-
-*On Holy and Great Thursday, at Matins:*[^591] *henceforth the Midnight Office is not sung, even until Monday of Antipascha. On Thursday: "Alleluia" in Tone 8; and the Troparion is said thrice in Tone 8:*[^592]
-
-*Troparion of Great Thursday, Tone 8:*
-When the glorious disciples at the washing of the Supper were enlightened, then Judas the ungodly, stricken with the love of silver, was darkened, and to the lawless...
-
-...judges surrenders Thee, the righteous Judge. Behold, thou lover of possessions, him who on their account hanged himself! Flee the insatiable soul which dared such things against the Teacher! O Lord Who art good towards all, glory to Thee!
-
-*Then Psalm 50, and the prayer: "O God, save Thy people..."; and we begin the Canon in Tone 6, composed by Cosmas:*[^593] *the heirmos twice, and the troparia on 12; and again the heirmos once together. After Ode 3... After Ode 6, Kontakion, Tone 2, Automelon: "Seeking the highest...":*
-
-*Kontakion of Great Thursday [Tone 2]:*
-Taking the Bread into his hands, the betrayer stretches them forth secretly; he receives the price of Him Who fashioned man with His own hands, and remained uncorrected: Judas, the slave and deceiver.
-
-*Exapostilarion thrice: ["Thy Bridal Chamber, O Lord, I behold adorned..."]. On the Praises: Idiomela 4, Tone 2: "Judas the lawless assembls...", "Judas the betrayer...", "Judas the slave..."; Glory, both now, Tone 2: "Whom Judas proclaimed..." On the Aposticha: Idiomela 4, Tone 8: "Today the...", "Today the night by slumber...", "Let no one...", "Eating their bread, he went outside: the lawless word..."*
-
-*...transgressing. Glory, Tone 8: "Thy character..."; both now: "Of the Mystery..." Then: "It is good to give thanks unto the Lord..." [Ps. 91:2]; Trisagion; Troparion: "When the glorious disciples..." And we join the First Hour, at which we say the Paremia troparion, and we read the Paremia [Jer. 11:18–23, 12:1–5, 9–11, 14–15]. After the Trisagion, Kontakion: "Taking the Bread..."*
-
-*At the 3rd hour of the day, they strike [the bell/semantron], and we chant the Third Hour, and together with it the Sixth and Ninth Hours; at which we say: "When the glorious disciples...", and Kontakion: "Taking the Bread..." After the Ninth Hour, the Beatitudes are said, not in a chant, but simply [read]. Then the troparia of the Beatitudes: "The heavenly choirs...", "Pardon, remit, forgive...", "Our Father...", Kontakion: "Taking the Bread...", "Lord, have mercy" (40 times), and the Dismissal.*
-
-*At the 7th hour of the day, we strike the great bells, and the priest vests, and we begin Vespers:*[^594] *without stichologia; "Lord, I have cried..." in Tone 2; and the priest performs the Proskomedia; Stichera on 10: Idiomela 5, Tone 2, chanted at Matins; Glory, Tone 6: "It were better for thee..."; Both now, Tone 6: "O brood of vipers..." Entrance with the Holy Gospel; readings of the day [Ex. 19:10–19; Job 38:1–23, 42:1–5; Is. 50:4–11]. After the readings...*
-
-*...Little Litany; Exclamation: "For holy art Thou, [our God]..."; Trisagion ["Holy God..."]. Prokeimenon: "The rulers of the people [assembled together against the Lord and against His Christ]" [Ps. 2:2]; Verse: "Why did the heathen rage..." [Ps. 2:1]; Epistle to the Romans [sic; 1 Cor. 11:23–32]: "For I have received of the Lord..."; Alleluia: "Blessed is he that understands..." [Ps. 40:1]; Verse: "Mine enemies speak evil against me..." [Ps. 40:5]; Verse: "He that did eat of my bread hath lifted up his heel against me" [Ps. 40:9]; Gospel according to Matthew [composite Matt. 26:1–20, John 13:3–17, Matt. 26:21–39, Luke 22:43–45, Matt. 26:40–27:2]: The Lord said: "Ye know that after two days is the Passover..."; and the rest of the Divine Liturgy of Saint Basil the Great.*
-
-*In place of the Cherubic Hymn: "Of Thy Mystical Supper [receive me today, O Son of God...]" thrice; that same hymn in place of the Communion Hymn, and "Let our mouths be filled..." And after the Prayer behind the Ambo, we go out from the church, and we perform the Washing of the Feet;*[^595] *and having returned, we make the Dismissal. And having entered into the refectory, we eat with olive oil, and drink wine; fish we do not eat. Compline we chant in the cells.*
-
-*On Holy and Great Thursday evening: For the Holy Passions of our Master and God, our Lord and Savior Jesus Christ:*[^596] *we strike [the bells] at the 2nd hour of the night. Having assembled in the church, we chant Matins, and sing "Alleluia" in Tone 8; Troparion thrice: "When the glorious disciples..."; and tapers are given unto the brethren. Then the Deacon says: "And that we may be accounted worthy to hear the Holy Gospel..."*
-
-*"Lord, have mercy" (thrice). Then the Deacon: "Wisdom. Stand upright." Then the [First] Gospel according to John [13:31–18:1]: The Lord said: "Now is the Son of man glorified..."; and we begin the Antiphons: 3 Antiphons are sung by the chanters standing in the midst of the church;*[^597] *Glory, both now, the canonarch sings the conclusion of these; and at the Sessional hymns we do not sit down. Then the [Second] Gospel [John 18:1–28]; likewise also the remaining Antiphons, Sessional hymns, and Gospels: after the 15th Antiphon and after the 6th Gospel [Mark 15:16–32], immediately the Beatitudes on 8.*[^598] *Then the Prokeimenon in Tone 4: "They parted My garments among them, [and upon My vesture did they cast lots]" [Ps. 21:18]; Verse: "O God, My God, look upon Me: why hast Thou forsaken Me?" [Ps. 21:1]; the 7th Gospel [Matt. 27:33–54], then read; and immediately Psalm 50; then the 8th Gospel [Luke 23:32–49].*
-
-*After this, the Three-Ode Canon [by St. Cosmas of Maiuma]:*[^599] *the heirmos twice, and the troparia on 12; and again the heirmos once together. After Ode 5, Kontakion, Tone 8, Automelon: "Come, let us all sing of Him Who was crucified for our sake...":*
-
-*Kontakion of Great Friday [Tone 8]:*
-Come, let us all sing of Him Who was crucified for our sake; Whom when Mary beheld upon the Wood, she said: Although Thou endurest the Cross, Thou art my Son and my God!
-
-*Read; after Ode 9, Exapostilarion thrice: "The Wise Thief..."; then the 9th Gospel [John 19:25–37]. On the Praises: Idiomela 3, Tone 3, on 4: "Blindness falling upon thee...", "Two evils...", "Every member..."; Glory...*
-
-*...Tone 6: "They stripped Me of My garments..."; both now: "I gave My back to scourgings..." The 10th Gospel [Mark 15:42–47]; "Glory to God in the highest..."; litany: "Let us complete our morning prayer unto the Lord..."; the 11th Gospel [John 19:38–42]; then we chant Aposticha: Idiomela 4: Tone 1: "All creation was altered with fear..."; and other 3, Tone 2: "Lawless people...", "Today upon the Wood...", and we say the verses: "They parted My garments among them..." [Ps. 21:18], "And they gave Me gall for My food..." [Ps. 68:21], "For God is our King of old..." [Ps. 73:12]; Glory, both now: "Lord, when Thou didst ascend..."; and the priest vests; the 12th Gospel [Matt. 27:62–66]. Then: "It is good to give thanks unto the Lord..." [Ps. 91:2]; Trisagion; Troparion, Tone 4:*
-
-*Troparion of Great Friday, Tone 4:*
-Thou hast redeemed us from the curse of the Law by Thy precious Blood; having been nailed to the Cross and pierced with the spear, Thou hast poured forth immortality unto men: O our Savior, glory to Thee!
-
-*Litany, and Dismissal. And we do not join the First Hour.*[^600]
-
-*The Order of the Hours of Great Friday [Royal Hours]:*[^601] *at the 3rd hour of the day, we chant the First and Third Hours, not as is customary, but as indicated in the Typikon: Troparion of the First Hour, Tone 6: "In the morning hear my voice..."; in place of this: "Lord, the Jews condemned Thee to death..."*
-
-...death, Who art the Fountain of Life; they that passed through the Red Sea on foot nailed Thee to the Cross; and they that sucked honey from the rock brought gall unto Thee; but Thou didst endure it willingly, that Thou mightest free us from the servitude of the enemy: O Christ our God, glory to Thee!
-
-*After the Trisagion, Kontakion of the day; Troparion of the 3rd Hour, Tone 6:*
-
-*Troparion of the Third Hour, Tone 6:*
-Only was the Tree of Thy Cross planted, O Christ, and the foundations of death were shaken, O Lord; for Him whom Hades swallowed eagerly, he released with trembling: Thou hast revealed Thy salvation unto us, O Holy One; we glorify Thee, O Savior, O God, have mercy on us!
-
-*At the 6th hour of the day, we chant the Sixth and Ninth Hours: Troparion of the 6th Hour, Tone 2; Glory, both now: "Seeing the Virgin..."; of the 9th Hour, Troparion, Tone 8: "Seeing the thief..."; Kontakion of the day.*
-
-*Concerning what is fitting to eat:*[^602] *As in Jerusalem, on that day neither the complete Divine Liturgy nor the Presanctified is received to be celebrated, nor do we set a table, nor eat, on that day of the Holy Crucifixion. If anyone is sick, or elderly and without strength, and unable to fast, let there be given unto him bread and water after the setting of the sun; for thus have we received from the ordinance of the Holy Apostles: not to eat on Great...*
-
-*...Friday; for the word of the Lord, which He spoke unto the Pharisees: "When the Bridegroom shall be taken away from them, then shall they fast in those days" [Matt. 9:15].*
-
-*On Holy and Great Friday: at the 10th hour of the day, Vespers without stichologia:*[^603] *"Lord, I have cried..." in Tone 1; Stichera on 6: then say 5 idiomela of the day: Tone 1, twice: "All creation...", and in Tone 2, one each: "People...", "Upon the Wood...", "Today beholding Thee...", Both now, Tone 6: "Today the Master..."; Glory, Tone 6: "Oh, how the lawless council...", both now, Tone 8: "A dread and marvelous mystery..." Entrance with the Gospel; "O Joyful Light..."; Prokeimenon: "They parted My garments..." [Ps. 21:18]; Verse: "O God, My God, look upon Me..." [Ps. 21:1]; then 3 Paremias are read [Ex. 33:11–23; Job 42:12–17; Is. 52:13–54:1]; Prokeimenon before the Apostle: "They laid Me in the lowest pit..." [Ps. 87:6]; Verse: "O Lord God of My salvation, I have cried day and night before Thee" [Ps. 87:1]; Epistle to the Romans [sic; 1 Cor. 1:18–2:2]: "The message of the Cross..."; Alleluia in Tone 5: "Save Me, O God, for the waters are come in unto My soul" [Ps. 68:1]; Verse: "Reproach hath broken My heart" [Ps. 68:20]; Verse: "Let their eyes be darkened that they see not" [Ps. 68:23]; Gospel according to Matthew [composite Matt. 27:1–61]: "When the morning was come, all the chief priests and elders took counsel against Jesus..."; litany: "Let us all say..."; then: "Vouchsafe, O Lord, to keep us this evening without sin..."; then: "Let us complete our evening prayer unto the Lord..."; then Aposticha: Stichera 3, Tone 2: "When from the Wood Arimathea took Thee down, Who art the Life of all...", with verses: "The Lord is King, He is clothed with majesty" [Ps. 92:1], "For He hath established the world, so that it cannot be moved" [Ps. 92:1]; Glory, both now, Tone 5: "Thee Who art clothed with light as with a garment..."; then: "Lord, now lettest Thou Thy servant depart in peace..."; after this, Troparion, Tone 2, thrice: "The noble Joseph..."; Dismissal; Compline in the cells.*
-
-*On Holy and Great Saturday: at the 7th hour of the night, we strike the iron semantron, and begin Matins: "God is the Lord" in Tone 2, and we chant Troparion, Tone 2, thrice: "The noble Joseph..."; Glory: "When Thou didst descend unto death, O Life Immortal..."; Both now: "Unto the Myrrh-bearing women, the Angel standing by the tomb cried..."; Stichologia: "Blessed are the undefiled in the way" [Psalm 118], in tone...*
-
-*...with refrains [Lamentations at the Tomb], in 3 Stases:*[^604] *after the 1st Stasis, the priest censes; and after the 3rd Stasis, there are sung the Resurrectional Troparia, Tone 5: "The angelic council was amazed..." Little Litany; then Sessional hymns of this day; after the reading, "Having beheld the Resurrection of Christ" is NOT said, but immediately Psalm 50. Canon in Tone 6: "By a wave of the sea...":*[^605] *the heirmos twice, and the troparia on 4; and again the heirmos once together. After Ode 3, Sessional hymn, Tone 1: "Thy tomb, O Savior..."; Glory, both now, the same. After Ode 6, Kontakion, Tone 2, Automelon: "He Who did not seek handwriting...":*
-
-*Kontakion of Holy Saturday [Tone 2]:*[^606]
-He Who shut up the abyss is beheld dead; and wrapped in myrrh and fine linen [the Holy Shroud], the Immortal One is laid in a tomb as one dead. And the women came to anoint Him with myrrh, weeping bitterly and crying: This is the most blessed Sabbath, on which Christ, having fallen asleep, shall rise on the third day!
-
-*Ikos: "In the brightness of Thy saints..." On the Praises: Idiomela 4, Tone 2: "Today He Who holds [creation] in His palm...", "What is this sight that is beheld...", "Come, behold [our Life lying in the tomb]..."; and another in Tone 6...*
-
-*...and: "Joseph went in and asked for the Body of Jesus..." Glory, Tone 6: "Today secretly the great Moses prefigured this day..."; Both now: "Most blessed art Thou, [O Virgin Theotokos...]"; Great Doxology. The priest vests in full sacerdotal vestments;*[^607] *and he makes the Entrance with the Holy Gospel; he comes before the Holy Doors, and there stands awaiting the end of the Trisagion; and when the Trisagion is finished, he exclaims: "Wisdom. Stand upright." And they chant the Troparion: "The noble Joseph..." Then the priest enters: "Peace be unto all." Then the Paremia Troparion, Tone 4: "He Who holds the ends of the earth..."; then the Paremia of the day [Ezek. 37:1–14]; Prokeimenon before the Apostle: "Arise, O Lord my God, let Thine hand be lifted up; forget not Thy poor for ever" [Ps. 9:33 (10:12)]; Verse: "I will give thanks unto Thee, O Lord, with my whole heart" [Ps. 9:1]; Epistle to the Romans [sic; 1 Cor. 5:6–8]: "A little leaven leavens the whole lump..."; Alleluia: "Let God arise, and let His enemies be scattered" [Ps. 67:1]; Verse: "As smoke vanishes, so let them vanish" [Ps. 67:2]; Verse: "So let the wicked perish at the presence of God" [Ps. 67:2]; Gospel according to Matthew [Matt. 27:62–66]. At Matins, following the Gospel: Litany: "Let us all say...", and "Let us complete our morning prayer...", and the Dismissal.*
-
-*At the First Hour, at which we say the Troparion and Kontakion of this day. At the 5th hour of the day, they strike the small semantron, and we chant the remaining 3 Hours [Third, Sixth, and Ninth Hours]; at which are said the Troparion and Kontakion of the day.*
-
-*...and the customary prayers, that is, the Beatitude troparia 3: the Beatitudes, not chanted, but simply read; "The heavenly choir..."; "Pardon, remit, forgive..."; "Our Father..."; Kontakion: "He Who shut up the abyss..."; "Lord, have mercy" (40 times); and the Dismissal.*
-
-*On Holy and Great Saturday, at about the 10th hour, he strikes the semantron;*[^608] *and the priest vests in purple vestments, and begins Vespers, without stichologia. "Lord, I have cried..." in Tone 1; Stichera on 8: 3 Resurrectional, and 1 Anatolian, and 3 Idiomela in Tone 8: "Today Hades groaning cries out...", on 4; Glory, Tone 6: "This present day mystically..."; Both now, Theotokion of the First Tone. Entrance with the Holy Gospel; "O Joyful Light..."; the Prokeimenon is not said, and immediately: "Wisdom"; and we begin the readings of the day in their order.*[^609] *After the readings, Little Litany; instead of the Trisagion, the Exclamation: "For holy art Thou, our God..."; "As many as have been baptized into Christ have put on Christ. Alleluia" [Gal. 3:27]; Prokeimenon: "Let all the earth worship Thee, and sing unto Thee..." (thrice) [Ps. 65:4]; Verse: "Shout with joy unto the Lord, all the earth" [Ps. 65:1]; Epistle to the Romans [6:3–11]: "Brethren, as many of us as were baptized into Jesus Christ..."; the Alleluia in Tone 7 and the Psalm of David are not said, and immediately...*
-
-*..."Arise, O God, judge Thou the earth: for Thou shalt have an inheritance among all the nations" [Ps. 81:8].*
-*Verse 1: "God stands in the congregation of gods" [Ps. 81:1].*
-*Verse 2: "How long will ye judge unjustly, and accept the persons of the wicked?" [Ps. 81:2].*
-*Verse 3: "They know not, neither will they understand; they walk in darkness" [Ps. 81:5].*
-*And the priest divests himself of the purple phelonion and vests in white vestments; and he reads the Gospel according to Matthew [Matt. 28:1–20]; and the rest of the Divine Liturgy of Saint Basil the Great. Communion Hymn, Tone 4: "The Lord awoke as one out of sleep, and is risen, saving us. Alleluia" [cf. Ps. 77:65]. And a broken piece of the blessed bread is given by the priest, and there is a blessing of bread and drink.*
-
-*It is fitting that the Ecclesiarch know: so that the dismissal of the Liturgy shall be at the 2nd hour of the night.*[^610] *And after the dismissal, we do not go out from the church, but each sits in his own place; and the cellarer distributes the blessed bread, and drink, a cup of wine.*[^611] *Then the Acts of the Holy Apostles are read.*[^612]
-
-*After the reading, the priest having given the blessing, we say the Trisagion; "Lord, have mercy" (12 times); "O come, let us worship..." (thrice); Psalm 50; then the Canon of Holy and Great Saturday, Tone 6: the heirmoi twice, and the troparia on 4...*
-
-*...and again the heirmos once together. After Ode 3, Sessional hymn, and a reading; after Ode 6, Kontakion, Tone 2, and the Ikos of Saturday, and a reading. After the Canon, Trisagion; Troparion: "When Thou didst descend unto death, O Life Immortal..."; Little Litany, and Dismissal. And a reading.*
-
-*After the reading, the Ecclesiarch gives tapers unto the brethren.*[^613] *The candilaptis sounds the great semantron and the iron semantron.*[^614] *And we all go out into the narthex, except the candilaptis, for he lights all the candles and chandeliers, and prepares a vessel with fire, and sets it in the midst of the church, and places much incense near the Holy Doors; and he also suspends fire with incense in the sanctuary; and the church is censed.*[^615]
-
-*And the priest vests in radiant vestments, and goes out into the narthex through the northern door, with two candles preceding him. And the doors being shut, the priest censes all in the narthex; and standing before the church doors looking toward the east, he marks the sign of the cross thrice with the censer...*
-
-*...saying with a loud voice: "Glory to the holy, consubstantial, life-creating, and undivided Trinity, alway, now and ever, and unto ages of ages!" And after "Amen", the priest begins in Tone 5: "Christ is risen from the dead, trampling down death by death, and upon those in the tombs bestowing life!" thrice; then the choir and the brethren chant it thrice.*[^616]
-
-*And the priest says the verses:*
-*Verse 1: "Let God arise, and let His enemies be scattered; and let them that hate Him flee from before His face" [Ps. 67:1].*
-*Verse 2: "O give thanks unto the Lord, for He is good; for His mercy endures unto the ages" [Ps. 117:1].*
-*Verse 3: "This is the day which the Lord hath made; let us rejoice and be glad in it" [Ps. 117:24].*
-*Verse 4: "Establish a feast with thick boughs, even unto the horns of the altar" [Ps. 117:27].*
-
-*And the brethren after each verse sing: "Christ is risen..." Then the priest: "Glory..."; the brethren: "Christ is risen..."; the priest: "Both now...", and chants: "Christ is risen..."; and again the priest with a loud voice: "Christ is risen...";*
-
-*and the doors are opened, and the priest enters, with lampads preceding, and the Igumen entering, and the brethren singing: "and upon those in the tombs bestowing life."*[^617] *And having entered into the sanctuary, the priest says the Great Litany. And after the Exclamation, we begin: "This is the day of the Resurrection, let us be radiant, O people!..."*
-
-*And the priest at the beginning of the Canon censes. And there are sung the heirmoi on 4, and the troparia on 6, so that on whichever side the beginning shall be, the leader of that side begins, and then the choir of the right side...*
-
-*...at the 3rd ode again both sides balance out according to their order. And after each ode there is a Little Litany on that holy feast.*
-
-*After Ode 3, Hypakoe, Tone 4: "When they who were with Mary came, anticipating the dawn, and found the stone rolled away from the sepulcher..."; and a reading from the Theologian.*[^618]
-
-*After Ode 6, Kontakion, Tone 8: "Though Thou didst descend into the grave, O Immortal One, yet didst Thou destroy the power of Hades..."; a reading from the Theologian, Oration 2; and there is said: "Having beheld the Resurrection of Christ..." (thrice), without Psalm 50; and "Jesus, having risen from the tomb..." (twice); and thus Ode 7 and the rest.*
-
-*After Ode 9, Exapostilarion thrice: ["Having fallen asleep in the flesh as one mortal, O King and Lord, on the third day Thou didst rise again..."].*
-
-*On the Praises: 4 Resurrectional Stichera, Tone 1. And the choirs having gathered together say the verses: "Let God arise, and let His enemies be scattered..."; and they sing the Stichera, Tone 5: "A holy Pascha hath been revealed unto us today...", and the rest, with their verses; Glory: "A delightful Pascha..."; Both now: "This is the day of the Resurrection..."; then "Christ is risen..." (thrice).*
-
-*And the Kiss of Peace takes place in this manner:*[^619] *The priest takes the Holy Gospel, and stands at the Holy Doors, and the presider kisses the Gospel, and likewise the priest; and having received the Gospel, the presider stands to the right of the priest; and the brethren kiss the Gospel and the presider...*
-
-*...and then the priest, and each other among themselves, according to their rank. And after the Kiss of Peace, the presider says in the hearing of all the brethren, while they stand listening:*[^620]
-
-*"Paul's mouth: Christ's mouth; Christ's mouth: Paul's mouth; Chrysostom's: Christ's and Paul's mouth!"*[^621] *Then he says this:*
-
-*The Catechetical Homily of our Father among the Saints, John Chrysostom, Patriarch of Constantinople, for the Holy and Glorious, Bright Resurrection of Christ our God on the Bright Sunday of Pascha:*[^622]
-
-If anyone is pious and God-loving, let Him enjoy this fair and radiant feast!
-Whosoever is a good and faithful servant, let him enter rejoicing into the joy of his Lord!
-As many of you as have labored fasting, receive now your penny!
-As many as have toiled from the first hour, receive now your righteous reward!
-As many as have come after the third hour, celebrate with thanksgiving!
-If anyone has come after the sixth hour, having nothing, let him in no way be judged;
-
-for there shall be no loss. If anyone has tarried even unto the ninth hour, let him draw near, doubting nothing. If anyone has arrived only at the eleventh hour, let him not fear because of his delay; for the Lover of mankind with bounty receives the last even as the first: He gives rest unto him who came at the eleventh hour, even as unto him who worked from the morning; He has mercy upon the last, and consoles the first; and unto that one He gives, and unto this one He bestows; and He accepts the deeds, and cherishes the intention of him that delayed; He honors the work, and praises the haste of him that delayed!
-
-Therefore, enter all of you into the joy of your Lord: both the first and the second and the last, receive your reward![^623]
-Ye rich and ye poor, dance together!
-Ye who have fasted and ye who were heedless, honor the day!
-Ye who have hungered and ye who have not hungered, rejoice today!
-The church's table is laden; feast all of you! The fatted calf is set forth; let...
-
-...all be filled, let no one go forth hungry! Feast all of you upon the banquet of faith; receive all of you the riches of goodness!
-Except the defiler, and those who defile their own bodies with fornication and pagan sacrifices, for they serve the devil![^624]
-Let no one lament poverty, for the universal Kingdom hath been revealed!
-Let no one weep for his transgressions, for forgiveness hath dawned from the tomb!
-Let no one fear death, for the death of our Savior hath set us free!
-"Be of good cheer, I have overcome the world" [John 16:33], and the ruler of this world, bearing Himself the sins of the world; for Christ hath saved us, and delivered us from Hades; for He hath plucked us from the violence of the devil, and freed us from his bondage![^625]
-Hades was embittered when it tasted of the precious and holy Flesh of the Master!
-As Isaiah prophesied: "Hades was embittered when it met Thee below" [cf. Is. 14:9]!
-It was embittered, for it was abolished!
-It was embittered, for it was mocked!
-It was embittered, for it was bound!
-It took a body...
-
-...and encountered God! It took that which it saw, and fell into that which it did not foresee!
-Death swallowed, not seeing; and having swallowed, it recognized Whom it swallowed!
-It swallowed Life, and was mocked by Life!
-It swallowed as if knowing One, and having found One, was bereft of all!
-It seized as a lion, and broke its teeth![^626]
-Because of sin, death reigned supreme; and finding no sin in Christ, it was abolished henceforth!
-For the sting of death is sin; but Christ did no sin, neither was guile found in His mouth [1 Pet. 2:22].
-It is a fitting time to say: "O death, where is thy sting? O Hades, where is thy victory?" [1 Cor. 15:55].
-Christ is risen, and Thou art cast down!
-Christ is risen, and the angels rejoice!
-Christ is risen, and the demons are fallen!
-Christ is risen, and life abides!
-Christ is risen, and the dead are raised up!
-Christ is risen, and from corruption we are delivered!
-Christ is risen, and from the curse we are set free!
-Christ is risen, and we with Him are raised together![^627]
-
-...Christ is risen, and we are brought to life! "Christ is risen from the dead, and become the firstfruits of them that slept" [1 Cor. 15:20]. Unto Him be glory and dominion, worship and majesty, now and ever, and unto ages of ages. Amen.[^628]
-
-*Then Troparion, Tone 8:*
-From thy mouth like a radiance of fire hath grace shone forth, enlightening the universe; it hath deposited in the world treasures of non-avarice, and hath shown us the height of humility. But by thy words instructing us, O father John Chrysostom, intercede with the Word, Christ God, that He may save our souls![^629]
-
-*Litany; and Dismissal.*
-
-*The Order of the Hours on Holy Pascha; and in this manner is also sung Compline, and all through Saturday [of Bright Week]:*[^630]
-*At the First Hour, the priest having given the blessing, we say: "Christ is risen from the dead, trampling down death by death, and upon those in the tombs bestowing life" (thrice); then this thrice:*
-
-Having beheld the Resurrection of Christ, let us worship the Holy Lord Jesus, the only Sinless One. We venerate Thy Cross, O Christ, and Thy Holy Resurrection we praise and glorify. For Thou art our God, apart from Thee we know no other, we call upon Thy Name. Come, all ye faithful, let us venerate the Holy Resurrection of Christ! For behold, through the Cross joy hath come into all the world! Ever blessing the Lord, we sing His Resurrection; for having endured the Crucifixion, by death He hath destroyed death! *(thrice).*
-
-*The women with Mary came before dawn, and found the stone rolled away from the tomb; and they heard from the Angel: "Him Who exists in everlasting light, why seek ye Him with the dead as a man? See the funeral wrappings! Run, and proclaim unto the world that the Lord is risen, having slain death; for He is the Son of God,[^631] Who saves the human race!"*
-
-*Kontakion, Tone 8:*
-Though Thou didst descend into the tomb, O Immortal One, yet didst Thou destroy the power of Hades, and didst arise as victor, O Christ God, saying unto the Myrrh-bearing Women: "Rejoice!" and bestowing peace upon Thine Apostles, Thou Who dost grant resurrection to the fallen.[^632]
-
-*Troparia of the Hours:*
-In the tomb bodily, in Hades with the soul as God, in Paradise with the thief, and on the Throne with the Father and the Spirit wast Thou, O Christ, filling all things, Thou Who art uncircumscribed.[^633]
-
-Glory...
-As life-bearing, as more splendid than Paradise indeed, and more radiant than any royal bridal chamber hath Thy tomb appeared, O Christ, the fountain of our resurrection.[^634]
-
-Both now...
-*Theotokion of the Hours:*
-Rejoice, O sanctified divine dwelling of the Most High! For through thee joy hath been given, O Theotokos, unto them that cry to thee: Blessed art thou among women, O all-immaculate Lady![^635]
-
-*Lord, have mercy (40); Glory, Both now; More honorable than the Cherubim; In the Name of the Lord, bless, father; Priest:* Through the prayers of our holy fathers... *In this manner say also for the 1st, and 3rd, and 6th, and 9th [Hours].*
-
-*Then, if the fathers deem it well, see:*[^636]
-*"Christ is risen" (thrice); "Having beheld the Resurrection of Christ" (once); and "The women with Mary came before dawn"; Glory: "Though Thou didst descend into the tomb"; Both now: "Only-begotten Son"; then the Beatitudes, from the Canon, Ode 3 and Ode 6; Epistle; Gospel; then the commemorations; "The heavenly choir"; "I believe in one God"; "Our Father"; Kontakion: "Though Thou didst descend into the tomb"; "Lord, have mercy" (12); then "Christ is risen" (thrice); Glory, Both now; Lord, bless; then "Blessed be the Name of the Lord", unto "shall not lack any good thing" [Ps. 33:11]; and the Dismissal. In this manner we sing the Hours until Saturday of the 9th hour.*[^637]
-
-*On the Holy and Great Sunday of Pascha, at the Liturgy: The Antiphons, which are also said on the remaining days of this week whenever there is a Liturgy. Antiphon 1, Psalm 65:*[^638]
-
-*Verse 1:* Shout with joy unto the Lord, all the earth! [Ps. 65:1]
-*Refrain:* Through the prayers of the Theotokos, Savior, save us!
-*Verse 2:* Shout with joy unto the Lord, all the earth; sing now unto His Name, give glory unto His praise! [Ps. 65:1–2]
-*Refrain:* Through the prayers of the Theotokos...
-*Verse 3:* Say unto God: How awesome are Thy works! [Ps. 65:3a]
-*Refrain:* Through the prayers of the Theotokos...
-*Verse 4:* In the multitude of Thy power shall Thine enemies lie unto Thee! [Ps. 65:3b]
-*Refrain:* Through the prayers of the Theotokos...
-Glory... Through the prayers of the Theotokos...
-Both now... Through the prayers of the Theotokos, O Savior, save us!
-
-*Antiphon 2, Psalm 66:*[^639]
-*Verse 1:* May God be bountiful unto us, and bless us! [Ps. 66:2a]
-*Refrain:* Save us, O Son of God, Who art risen from the dead, who sing unto Thee: Alleluia, alleluia, alleluia!
-*Verse 2:* May God be bountiful unto us, and bless us; cause His face to shine upon us, and have mercy on us! [Ps. 66:2]
-*Refrain:* Save us, O Son of God...
-*Verse 3:* That we may know Thy way upon earth, Thy salvation among all the nations! [Ps. 66:3]
-*Refrain:* Save us, O Son of God...
-*Verse 4:* Let the peoples give praise unto Thee, O God; let all the peoples give praise unto Thee! [Ps. 66:4]
-*Refrain:* Save us, O Son of God...
-Glory, Both now... Only-begotten Son...[^640]
-
-*Antiphon 3, Psalm 67:*[^641]
-Let God arise, and let all...
-
-...His enemies be scattered![^642]
-*Refrain:* Christ is risen from the dead, trampling down death by death, and upon those in the tombs bestowing life!
-*Verse 1:* Let God arise, and let His enemies be scattered, and let them that hate Him flee from before His face! [Ps. 67:2]
-*Refrain:* Christ is risen...
-*Verse 2:* As smoke vanishes, so let them vanish away; as wax melts before the face of fire! [Ps. 67:3a]
-*Refrain:* Christ is risen...
-*Entrance:* In the congregations bless ye God, the Lord from the fountains of Israel! [Ps. 67:27]
-*Refrain:* Christ is risen...
-Glory, Both now: "Though Thou didst descend into the tomb..."
-*Instead of the Trisagion:* "As many as have been baptized into Christ have put on Christ. Alleluia" [Gal. 3:27].[^643]
-*Prokeimenon, Tone 8:* This is the day which the Lord hath made; let us rejoice and be glad in it! [Ps. 117:24][^644]
-*Verse:* O give thanks unto the Lord, for He is good; for His mercy endures forever! [Ps. 117:1]
-*Epistle:* Acts of the Holy Apostles [1:1–8]: "The former treatise have I made, O Theophilus..."[^645]
-*Alleluia, Tone 4:* Thou shalt arise, and have mercy upon Zion! [Ps. 101:14]
-*Verse:* The Lord looked down from heaven upon the earth! [Ps. 101:20b]
-*Gospel:* According to John [1:1–17]: "In the beginning was the Word..." and the rest.
-*Liturgy of St. John Chrysostom. Communion Hymn:* "Receive the Body of Christ; taste of the immortal fountain."
-*And in the refectory there is great consolation for the brethren, and abundance.*[^646]
-
-*The Order of the Panagia, which is performed according to custom in the monastery on Holy Pascha:*[^647]
-*Rising from table, the brethren say: "Christ is risen" (thrice); "Lord, have mercy" (thrice); then the cellarer, having made the customary bow, takes the Artos with both hands, which is a prosphora prepared for this purpose...*[^648]
-
-*...and he says:* "Christ is risen!"
-*And we say:* "Truly He is risen!"
-*He says again:* "Christ is risen!"
-*And we:* "Truly He is risen! We worship His third-day Resurrection!"[^649]
-*And he sings the Heirmos:* "Shine, shine, O new Jerusalem, for the glory of the Lord hath shone upon thee! Dance now and be glad, O Zion, and do thou exult, O pure Theotokos, in the arising of Thy Child!"; *then the troparia of Ode 9; and again after:* "Shine, shine"; *and the brethren kiss the prosphora, all in order. After this, the cellarer returns with the Artos and places it before the Hegumen; and the priest says:* "Through the prayers of our holy fathers..."
-*And we, rising, say:* "Christ is risen" *(thrice);* "Lord, have mercy" *(thrice); then the priest says:* "Blessed is God Who has mercy on us and nourishes us"; *then he says:* "May God forgive and have mercy on those who have served us"; *and each goes to his cell. In this manner we do throughout all Bright Week, kissing the prosphora in the refectory.*[^650]
-*And on Saturday, at the 9th hour, they break the Artos and distribute it to the brethren.*[^651]
-
-*On that same Great Sunday, at Vespers:*[^652]
-*The priest vests in sacred vestments...*
-
-*...and standing before the Holy Doors with the censer, he censes the Holy Doors in the form of a cross, saying:* "Blessed is our God..."; *and after "Amen", he begins: "Christ is risen" (thrice); then it is also sung by the brethren (thrice); and the priest says the verses: "Let God arise"; Verse: "As smoke vanishes"; Verse: "So let the wicked perish"; and after each verse the brethren sing: "Christ is risen"; Glory, Both now: "Christ is risen". Great Litany. At "Lord, I have cried", in Tone 2: Stichera, 3 Resurrectional and 3 Anatolian of Tone 2; Glory, Anatolian; Both now, Theotokion, Tone 1:* "The shadow of the Law hath passed away, now that grace hath come; for as the Bush was not consumed though on fire, so hast thou given birth as a virgin and remained a virgin. In place of the pillar of fire, the Sun of Righteousness hath shone forth; instead of Moses, Christ, the salvation of our souls."[^653] *Entrance with the Holy Gospel; "O Joyful Light"; then the Great Prokeimenon, Tone 7:* "Who is a god so great as our God? Thou art the God that doest wonders!" [Ps. 76:14–15][^654] *Verse 1: "Thou hast declared Thy power among the peoples" [Ps. 76:15]; Verse 2: "And I said: Now have I begun" [Ps. 76:11]; Verse 3: "I remembered the works of the Lord" [Ps. 76:12]; then the priest:* "And that we may be accounted worthy..."; *and he reads the Gospel according to John [20:19–25]: "The same day at evening..." ending with: "...I will not believe."*[^655] *Litany: "Let us all say..."; "Vouchsafe, O Lord..."; then the Litany: "Let us complete our evening prayer..."; Aposticha: Resurrectional:* "Thy Resurrection, O Christ Savior, hath enlightened the whole universe; and Thou hast recalled Thine own creation: O Almighty Lord, glory to Thee!"; *then 3 Stichera of Pascha...*[^656]
-
-*..."Pascha the sacred"; Verse: "Let God arise"; and the rest with their verses; Glory, Both now:* "This is the day of Resurrection..."; "Christ is risen" *(thrice); Dismissal. In this manner Vespers is sung throughout all this week, except for the Gospel.*[^657]
-
-*On Bright Monday, at Matins:*[^658]
-*The priest puts on the epitrachelion, and taking the censer, censes the Holy Table thrice in the sign of the cross, saying:* "Glory to the holy, consubstantial..."; *and after "Amen", the priest begins: "Christ is risen" (thrice), and censes the altar, the brethren singing: "Christ is risen" (thrice); and the priest says 3 verses: "O give thanks unto the Lord" [Ps. 117:1]; "This is the day which the Lord hath made" [Ps. 117:24]; "Bind the sacrifice with cords" [Ps. 117:27]; at each verse: "Christ is risen"; and again the priest: "Christ is risen"; the brethren: "And upon those in the tombs bestowing life!" Great Litany. After the exclamation, we begin the Canon:* "This is the day of Resurrection..."; *the Heirmos twice, and the troparia on 4, and again the Heirmos once together. At the beginning of the Canon the priest censes the church. After Ode 3, the Hypakoe, then the Heirmos; after Ode 6, Kontakion and Ikos, then the Resurrectional hymn...*[^659]
-
-*..."Having beheld the Resurrection of Christ" (thrice); and "Jesus having risen from the tomb", without the 50th Psalm.*[^660] *After Ode 9, the Exapostilarion (thrice); at the Praises: Stichera of the Octoechos of Tone 2 on 4; then the Paschal Stichera: "Pascha the sacred"; Glory, Both now:* "This is the day of Resurrection..."; *then "Christ is risen" (thrice); Litany, and Dismissal; and they process with crosses around the monastery. In this manner it is sung also at Matins throughout all the week.*[^661]
-*At the Liturgy: Festal Antiphons; Prokeimenon, Tone 8:* Their sound is gone out into all the earth, and their words unto the ends of the world! [Ps. 18:5][^662]
-*Verse:* The heavens declare the glory of God, and the firmament proclaims the work of His hands! [Ps. 18:2]
-*Alleluia, Tone 1:* The heavens shall praise Thy wonders, O Lord! [Ps. 88:6]
-*Communion Hymn:* "Receive the Body of Christ; taste of the immortal fountain."
-
-*On Bright Monday evening [Bright Tuesday Vespers]:*[^663]
-*At "Lord, I have cried", Stichera, Tone 3: 3 Resurrectional and 3 Anatolian; Glory, Anatolian; Both now, Theotokion of the Tone:* "How can we not marvel at thy giving birth, O all-honored one, without seed of a man? For without knowing a father, in the flesh hast thou brought forth a Son without mother, begotten of the Father before the ages without change, or confusion, or division..."[^664] *Entrance; Great Prokeimenon, Tone 7:* Our God is in heaven and on earth; all whatsoever He hath willed, He hath done! [Ps. 113:11][^665]
-*Verse 1:* When Israel went out of Egypt, the house of Jacob from a barbarous people! [Ps. 113:1]
-*Verse 2:* The sea beheld and fled, Jordan was turned back! [Ps. 113:3]
-*Verse 3:* What ailed thee, O sea, that thou fleddest; and thou, Jordan, that thou wast turned back? [Ps. 113:5]
-*Litany: "Let us complete our evening prayer..."; Aposticha: Resurrectional:* "By Thy Cross, O Christ Savior, the power of death is destroyed, and the deception of the devil is abolished; and mankind, saved by faith, ever offers hymnody unto Thee!"; *and the Stichera of Pascha; Glory, Both now:* "This is the day of Resurrection..."; "Christ is risen" *(thrice); Litany; Dismissal.*
-*On Bright Tuesday, at Matins, is sung that which is on Monday...*
-
-*...At the Liturgy: Antiphons of Pascha; Prokeimenon, Tone 3:* My soul doth magnify the Lord, and my spirit hath rejoiced in God my Savior! [Luke 1:46–47][^666]
-*Verse:* For He hath regarded the lowliness of His handmaiden! [Luke 1:48]
-*Epistle: Acts, Pericope 4 [Acts 2:14–21].*[^667]
-*Alleluia, Tone 1:* Arise, O Lord, into Thy rest, Thou and the ark of Thy holiness! [Ps. 131:8]
-*Verse:* The Lord hath sworn the truth unto David, and will not turn from it! [Ps. 131:11]
-*Gospel: Luke, Pericope 113 [Luke 24:12–35, The Journey to Emmaus].*[^668]
-*Communion Hymn:* "Receive the Body of Christ..."
-
-*On Tuesday evening [Bright Wednesday Vespers]:*[^669]
-*At "Lord, I have cried", in Tone 4, Stichera of the Octoechos: 3 Resurrectional and 3 Anatolian; Glory, Anatolian; Both now, Theotokion of Tone 1 [Tone 4 Dogmatikon]:* "David the Prophet, who through thee became the forefather of God, in song cried out concerning thee unto Him that did great things for thee: 'The Queen stood at Thy right hand...' [Ps. 44:10]. For God, Whose good pleasure it was to become incarnate from thee without a father, hath revealed thee as Mother and mediatress of life..."[^670] *Entrance; "O Joyful Light"; Great Prokeimenon, Tone 8:* With my voice have I cried unto the Lord, with my voice unto God, and He gave ear unto me! [Ps. 76:2][^671]
-*Verse 1:* In the day of my trouble I sought God with my hands! [Ps. 76:3a]
-*Verse 2:* My soul refused to be comforted! [Ps. 76:3b]
-*Verse 3:* Thy way, O God, is in the sanctuary: who is a god so great as our God? [Ps. 76:14]
-*At the Aposticha, Resurrectional:* "The Lord, having ascended the Cross, hath abolished our ancestral curse; and having descended into Hades, He hath set free those who were bound from the ages..."; *and the Stichera of Pascha: "Pascha the sacred"; Glory, Both now:* "This is the day of Resurrection..."; "Christ is risen" *(thrice); Litany; Dismissal.*
-
-*On Bright Wednesday, at Matins: It is sung as on Monday, and process around the monastery with crosses.*[^672]
-*At the Liturgy: Antiphons of Pascha; Prokeimenon, Tone 3:* I will make Thy name to be remembered in all generations! [Ps. 44:18][^673]
-*Verse:* Hear, O daughter, and behold, and incline thine ear! [Ps. 44:11]
-*Epistle: Acts, Pericope 5 [Acts 2:22–36].*[^674]
-*Alleluia, Tone 8:* My soul doth magnify the Lord... [Luke 1:46]
-*Verse:* For He hath regarded the lowliness of His handmaiden... [Luke 1:48]
-*Gospel: John, Pericope 4 [John 1:35–51].*[^675]
-*Communion Hymn:* "Receive the Body of Christ..."
-
-*On Wednesday evening [Bright Thursday Vespers]:*[^676]
-*Stichera, 3 Resurrectional of Tone 5 and 3 Anatolian; Glory, Anatolian; Both now, Theotokion of the Tone [Tone 5 Dogmatikon]:* "In the Red Sea an image of the unwedded Bride was prefigured of old: there Moses divided the water, here Gabriel was the minister of the marvel; then the deep was trodden dry-shod by Israel, now Christ is born without seed of the Virgin; the sea after the passage of Israel remained impassable, the Immaculate One after the birth of Emmanuel remains undefiled..."[^677] *Entrance; Great Prokeimenon, Tone 7:* Give ear, O God, unto my prayer, and despise not my supplication! [Ps. 54:2][^678]
-*Verse 1:* Attend unto me, and hear me! [Ps. 54:3a]
-*Verse 2:* As for me, I cried unto God, and the Lord heard me! [Ps. 54:17]
-*At the Aposticha, Resurrectional and Paschal.*
-
-*On Bright Thursday, at Matins: As on Monday.*[^679]
-*At the Liturgy: Antiphons of Pascha; Prokeimenon, Tone 6:* Sing praises unto our God, sing praises; sing praises unto our King, sing praises! [Ps. 46:7][^680]
-*Verse:* O clap your hands, all ye nations; shout unto God with the voice of triumph! [Ps. 46:2]
-*Epistle: Acts, Pericope 6 [Acts 3:1–8].*[^681]
-*Alleluia: Sung as on the feast.*
-*Gospel: John, Pericope 5 [John 1:24–34].*[^682]
-*Communion Hymn:* "Receive the Body of Christ..."
-
-*On Thursday evening [Bright Friday Vespers]:*[^683]
-*Stichera, Tone 6: 3 Resurrectional and 3 Anatolian; Glory, Anatolian; Both now, Theotokion of the Tone [Tone 6 Dogmatikon]:* "Who doth not bless thee, O all-holy Virgin? Who will not sing of thy birthgiving without travail? For the Only-begotten Son, Who shone forth timelessly from the Father, came forth from thee, the Pure One, ineffably incarnate..."[^684] *Entrance; Great Prokeimenon, Tone 7:* I will love Thee, O Lord, my strength: the Lord is my firm foundation, and my refuge! [Ps. 17:2–3a][^685]
-*Verse 1:* My God is my helper, and in Him will I trust! [Ps. 17:3b]
-*Verse 2:* He heard my voice out of His holy temple! [Ps. 17:7b]
-*At the Aposticha: Resurrectional and Paschal.*
-
-*On Bright Friday, at Matins: That which is on Monday; and make the procession to the charnel house.*[^686]
-*At the Liturgy: Antiphons of Pascha; Prokeimenon, Tone 8:* Their sound is gone out into all the earth, and their words unto the ends of the world! [Ps. 18:5][^687]
-*Verse:* The heavens declare the glory of God... [Ps. 18:2]
-*Epistle: Acts, Pericope 7 [Acts 3:8–16].*[^688]
-*Alleluia, Tone 1:* The heavens shall praise Thy wonders, O Lord... [Ps. 88:6]
-*Gospel: John, Pericope 6 [John 2:12–22].*[^689]
-
-*Communion verse:* "The Body of Christ [receive ye, taste of the Fountain of Immortality]!"[^690]
-
-*On the same day [Bright Friday], at Vespers:*[^691]
-*Stichera on 8: Resurrectional of Tone 8, 3; and Anatolian, 3; Glory, of the day [Anatolian]; Both now, Theotokion [Dogmatikon of Tone 8]:* "O King of the heavens, Who through Thy love for mankind appeared on earth and dwelt among men..."[^692] *Entrance; Prokeimenon, Tone 8:* Thou hast given an heritage unto them that fear Thy Name! [Ps. 60:6b][^693]
-*Verse 1:* From the ends of the earth have I cried unto Thee! [Ps. 60:3a]
-*Verse 2:* I will take shelter in the shadow of Thy wings! [Ps. 60:5b]
-*And we sing it in this manner.*[^694] *At the Aposticha: Resurrectional and Paschal.*
-
-*On Saturday [Bright Saturday], at Matins: Even as on Monday.*[^695]
-*At the Liturgy: Antiphons of Pascha; Prokeimenon [Tone 4]:* The Lord is my illumination and my Savior: whom shall I fear? [Ps. 26:1a][^696]
-*Verse:* The Lord is the defender of my life: of whom shall I be afraid? [Ps. 26:1b]
-*Epistle: Acts, Pericope 8 [Acts 3:11–16].*[^697]
-*Alleluia, Tone 4:* The Lord hath reigned, He is clothed with majesty! [Ps. 92:1a]
-*Verse:* For He hath established the world, which shall not be shaken! [Ps. 92:1c]
-*Gospel: John, Pericope 8 [John 3:22–33].*[^698]
-*Communion verse:* "The Body of Christ [receive ye, taste of the Fountain of Immortality]!"
-
-*At the Refectory [trapeza]: The brethren having sat down, the cellarer having broken the Artos, distributes it unto the brethren.*[^699] *"Christ is risen" is proclaimed at the end of the refectory, and always from now even unto the Ascension, in place of "Great is the Name [of the Holy Trinity]".*[^700] *And when this is said by the cellarer, we say responding:* "Truly He is risen!" *Then the cellarer, crossing the panagia with the bread, says:* "All-holy Theotokos, help us!" *And we...*
-
-*...respond:* "By her prayers, O God, have mercy on us!"[^701] *Then:* "All generations call thee blessed", *and the rest of the customary order.*[^702]
-
-*Sunday of Antipascha [Thomas Sunday]. On Saturday, at Little Vespers:*[^703]
-*The priest having blessed, we say:* "Christ is risen" *(thrice); then* "Bless the Lord, O my soul" [Ps. 103]; *Stichera, 4 of the New Sunday [Thomas Sunday], Tone 1:* "When the doors were shut..."[^704] *Glory, Both now, Tone 6:* "When the doors were shut, Jesus came unto the disciples..." *At the Aposticha, idiomela in Tone 4:* "O marvelous wonder! Lack of faith hath begotten firm faith..."[^705] *Verses; Glory, Both now, Tone 5:* "O Lover of mankind, great and unsearchable is the multitude of Thy compassions..." *Troparion, Tone 7:* "Though the tomb was sealed...", *and Dismissal.*
-
-*At Great Vespers:*[^706]
-*Stichera on 10: 4 idiomela in Tone 1, twice each; and two in Tone 2, once each; Glory, Both now, Tone 6:* "When the doors were shut..." *At the Litiya [ischozhenie]: idiomela in Tone 4:* "Lord, when Thou didst enter, the doors being shut..."; *another, Tone 8:* "Touch My side, Thomas..."; *Glory, Both now, Tone 8:* "When the doors were shut, Christ came unto the disciples..." *At the Aposticha: 3 idiomela in Tone 4:* "O marvelous wonder! Lack of faith..."; *and we say the verses:* Praise the Lord, O Jerusalem! [Ps. 147:1a] *Verse:* For He hath strengthened the bars of thy gates! [Ps. 147:2a] *Glory, Both now, Tone 5:* "O Lover of mankind, great and unsearchable..."; *Troparion, Tone 7:*
-Though the tomb was sealed, O Life, Thou didst shine forth from the tomb, O Christ God;...
-
-...and though the doors were shut, Thou didst stand before the disciples, O Resurrection of all, through them renewing an upright spirit within us, according to Thy great mercy.[^707]
-
-*It should be known that from this Sunday even unto All Saints, at the All-Night Vigil, the first great reading is from the Acts of the Apostles; and when it is finished, it is begun again.*[^708]
-
-*At Matins: Troparion of the feast, thrice; two Kathismata, and [in place of the Polyeleos] the compassionate Polyeleos [or "Praise ye the Name of the Lord"];*[^709] *Sessional hymns of the feast; reading in the Theologian [St. Gregory the Theologian's Homily on New Sunday].*[^710] *Anavathmoi, Tone 4: 1st Antiphon. Prokeimenon, Tone 4:* Praise the Lord, O Jerusalem; praise thy God, O Zion! [Ps. 147:1] *Verse:* For He hath strengthened the bars of thy gates! [Ps. 147:2a]
-*Resurrection Gospel 1 [Matins Gospel 1: Matthew 28:16–20]; "Having beheld the Resurrection of Christ" (once); Psalm 50; Sticheron of the feast; Canon, Tone 1:* "Let us sing, all ye peoples" [Heirmos]; *the Heirmos twice, and troparia to 12; Katavasia:* "The Day of Resurrection"; *after Ode 3: Sessional hymn of the feast, Tone 6; Glory, Both now, Theotokion of Tone 1; after Ode 6: Kontakion, Tone 8:*
-With his searching right hand did Thomas explore Thy life-giving side, O Christ God; for when Thou didst enter, the doors being shut, he cried aloud with the rest of the Apostles: Thou art my Lord...
-
-...and my God![^711] *Ikos; after Ode 9:* "More honorable than the Cherubim" *is not sung, and we do not chant the verses of the Ninth Ode.*[^712] *Exapostilarion, Tone 3:* "With thy hand having probed the wounds of My members, Thomas, be not faithless unto Me..."[^713] *At the Praises, Stichera on 4, Tone 1, Podoben: "All-praised martyrs" (Всехвалніи мученицы):*[^714] *Glory, Tone 6:* "After eight days our Savior came unto the disciples..."; *Both now:* "Most blessed art thou, O Virgin Theotokos..."; *Great Doxology; Troparion of the feast, and Dismissal.*
-
-*At the Liturgy: We begin the appointed typical Psalms; the Beatitudes from the Canon, Ode 3 and Ode 6. Prokeimenon, Tone 3:* Great is our Lord, and great is His power, and of His understanding there is no number! [Ps. 146:5][^715]
-*Verse:* Praise ye the Lord, for the Lord is good; chant praises unto His Name, for it is lovely! [Ps. 134:3]
-*Epistle: Acts, Pericope 14 [Acts 5:12–20].*[^716]
-*Alleluia, Tone 8:* O come, let us rejoice unto the Lord, let us shout with jubilation unto God our Savior! [Ps. 94:1]
-*Verse:* For God is a great Lord, and a great King over all the earth! [Ps. 94:3]
-*Gospel: Matins Gospel 9, the whole [John 20:19–31].*[^717] *Communion verse:* Praise the Lord, O Jerusalem; praise thy God, O Zion! [Ps. 147:1][^718]
-
-*On the Sunday of Antipascha [Thomas Sunday], at Vespers: We do not chant the Kathisma.*[^719] *Stichera on 6: Podoben 3 in Tone 1:* "All-praised martyrs", *and of the day, 3; Glory, Both now, of the feast. Entrance; Great Prokeimenon, Tone 7:* Who is so great a god as our God? Thou art the God that doest wonders! [Ps. 76:14–15a][^720]
-*Verse 1:* Thou art the God that doest wonders; Thou hast made known Thy power among the peoples! [Ps. 76:15]
-*Verse 2:* I remembered the works of the Lord, for I will remember Thy wonders from the beginning! [Ps. 76:12]
-*Verse 3:* And I meditated on all Thy works! [Ps. 76:13a]
-*At the Aposticha: Resurrectional from the Octoechos, of the Tone, with the penitential stichera; and we say the verses:* Unto Thee have I lifted up mine eyes, O Thou that dwellest in heaven! [Ps. 122:1] *Verse:* Have mercy on us, O Lord, have mercy on us! [Ps. 122:3a] *Glory, Both now, of the feast; Troparion of the feast; Ektenia; and Dismissal.*
-*Thus let the order be on all Sundays...*
-
-*...until the time of Holy Pentecost, with the stichera and troparia changing according to the Tone.*[^721]
-
-*On Monday of Antipascha [Second Monday after Pascha], at Matins: The usual Midnight Office. Then the priest having blessed, we begin:* "Christ is risen" *(thrice); then* "Glory to God in the highest", *and the Six Psalms. And at* "God is the Lord": *Troparion of the feast, thrice; and chant two Kathismata. After the 1st Kathisma: Sessional hymns from the Octoechos, Resurrectional and Penitential, and of the day; Glory, Both now. After the 2nd Kathisma: Sessional hymn of the feast;* "Having beheld the Resurrection of Christ"; *Psalm 50; but the Hymns [of repentance: "Open unto me the doors of repentance..."] are not said throughout the whole Fifty Days [Pentecostarion period]. And straightway we begin [the Canon]: the Heirmos twice, and troparia to 6, and of the Triodion/saint to 4. After Ode 3: Sessional hymn of the day; after Ode 6: Kontakion of the feast; after Ode 9: Exapostilarion of the feast. At the Praises: Resurrectional, Penitential, and of the day; Glory, Both now, of the feast. At the Aposticha: Stichera of the feast, which are in the Triodion; and we say the verses:* Their sound is gone out into all the earth, and their words unto the ends of the world! [Ps. 18:5][^722] *Verse:* The heavens declare the glory of God, and the firmament proclaims the work of His hands! [Ps. 18:2] *Glory, Both now, of the feast. After the Trisagion: Troparion of the feast. The priest says the Ektenia. Then the priest [gives the dismissal/blessing]:* "Blessed is the Son of God, our God", *and he joins the First Hour according to custom.*[^723]
-
-*Be it known that from this day we begin...*
-
-*...to chant the Psalter: two Kathismata at Matins, and the third at Vespers in order.*[^724] *And from now on we begin to chant the Canon to the Most Holy Theotokos at Compline, the daily canons in the Triodion.*[^725] *At the beginning of every singing [office], the priest having blessed, we say:* "Christ is risen" *(thrice); then* "Glory, Both now", "All-holy Trinity", *and* "Our Father", *and the rest as usual.*[^726] *Likewise even until the Day of the Ascension, in the same manner. And at Matins, after the second litany is said:* "Having beheld the Resurrection of Christ", *even until the Ascension of the Lord.*[^727] *And this is to be known: Even as it hath been indicated on Sunday evening and on Monday at Matins, so it is done throughout all the weeks, even until the Ascension, with the stichera changing according to the Tones in the Octoechos, and the Sessional hymns according to custom.*[^728] *Be it known also that on Wednesday and on Friday, the Stichera of the Cross are sung first; thus: the Resurrectional are not first, because our Lord Jesus Christ was first crucified...*
-
-*...and thus rose from the dead.*[^729]
-
-*On Friday of Antipascha [Second Friday of Paschaltide, Apodosis of Thomas Sunday], at Vespers: Stichera on 6: of the feast, idiomela 3 in Tone 1; and of the day, 3; Glory, Tone 6:* "When the doors were shut..."; *Both now, Dogmatikon Theotokion of Tone 1:* "The glory of all the world, who sprouted from mankind..."[^730] *At the Aposticha: 4 Resurrectional of Tone 1; and we say the verses:* The Lord is King, He is clothed with majesty! [Ps. 92:1a] *Verse:* For He hath established the world, which shall not be shaken! [Ps. 92:1c] *Verse:* Holiness becomes Thine house, O Lord, unto length of days! [Ps. 92:5b] *Glory, Both now, Tone 5:* "O Lover of mankind, great and unsearchable..."; *Troparion, Tone 7:* "Though the tomb was sealed..."; *the Canon for the Departed in the Octoechos of the current Tone.*[^731] *On all Saturdays of the Fifty Days is sung [the Canon for the Departed] on Friday at Compline. On Saturday at Matins: Troparion of the feast, thrice; Sessional hymns in the Triodion of the feast; Canon of the feast with the heirmoi on 6, and of the patron saint of the temple in Tone 1 on 4; or if there be no patronal service, then of the Prophets; or of the Saint [from the Menaion] on 4.*[^732] *At the Praises: 4 Resurrectional of Tone 1; Glory, Both now, of the feast. At the Liturgy: Prokeimenon of the feast; Alleluia, Communion verse of the feast; but the Epistle and Gospel of the day.*[^733]
-
-*Sunday 2 after Pascha [Third Sunday of Pascha]: Of the Holy Myrrh-Bearing Women and of Righteous Joseph.*[^734] *At Little Vespers:*
-*Stichera: Resurrectional and of the Theotokos according to custom. Troparion:* "The noble Joseph..." *At Great Vespers:*
-
-*...Stichera on 10: Resurrectional 3 from the Octoechos of Tone 2, and Anatolian 4; and of the Myrrh-Bearers, idiomela 3 in Tone 2; Glory, Tone 6:* "The Myrrh-bearing women, reaching Thy sepulchre early...";[^735] *Both now, Dogmatikon Theotokion of Tone 2:* "Passed away is the shadow of the law when grace arrived..."[^736] *At the Litiya: idiomela 3 in Tone 1; Glory, Tone 6:* "Joseph begged the Body of Jesus..."; *Both now, Theotokion of the same Tone [or Alphabetical Theotokion]. At the Aposticha: Resurrectional stichera and alphabetical; Glory, Both now, Tone 5:* "Thee Who clothest Thyself with light as with a garment, when Joseph took Thee down from the Tree with Nicodemus...";[^737] *after the Trisagion:* "O Theotokos Virgin, rejoice" *(thrice).*
-
-*At Matins, at "God is the Lord": Troparia, Tone 2:*
-When Thou didst descend unto death, O Life Immortal, then didst Thou slay Hades with the brilliance of Thy Godhead; and when Thou didst raise up the dead from the nethermost parts, all the Heavenly Powers cried aloud: O Life-giver, Christ our God, glory to Thee! *(twice)*[^738]
-Glory...
-*Troparion:*
-The noble Joseph, having taken down Thine immaculate Body from the Tree, wrapped it in pure linen with fragrant spices, and laid it in a new tomb closed round about; but on the third day Thou didst arise, O Lord, granting unto the world great mercy.[^739]
-Both now...
-*Another Troparion:*
-Unto the myrrh-bearing women standing by the sepulchre, the angel cried aloud: Myrrh is fitting for the dead, but Christ hath shown Himself a stranger to corruption; rather cry aloud, calling: The Lord is risen, granting unto the world great mercy![^740]
-*And the rest as usual on Sunday: Hypakoe, Anavathmoi of Tone 2; 3rd Matins Gospel [Mark 16:9–20];*[^741] *Canon of...*
-
-*...Pascha:* "Day of Resurrection", *with the Theotokia, with the heirmoi, and of the Myrrh-Bearers, on 8; Katavasia: the heirmoi of both canons.*[^742] *After Ode 3: Sessional hymn of the Myrrh-Bearers; after Ode 6: Kontakion, Tone 2:*
-Thou didst bid the myrrh-bearing women rejoice, and didst stay the weeping of the first-mother Eve by Thy Resurrection, O Christ our God; and Thou didst command Thine Apostles to proclaim: The Savior is risen from the tomb![^743]
-*"More honorable than the Cherubim" is not chanted. Exapostilarion:* "Having fallen asleep in the flesh as a mortal, O King and Lord, on the third day Thou didst arise..." [Tone 2];[^744] *and at the Praises: 4 Resurrectional, and 4 Anatolian; Glory, Evangelical Sticheron [Eothinon 3]:* "Unto them that came with myrrh with Mary, and were perplexed how their desire should be fulfilled...";[^745] *Both now:* "Most blessed art thou, O Virgin Theotokos..."; *Great Doxology. Resurrectional Troparion only.*
-
-*At the Liturgy: The Beatitudes from the Octoechos on 6, and from the Canon, Ode 6 on 4. Prokeimenon, Tone 6:* Save, O Lord, Thy people, and bless Thine inheritance! [Ps. 27:9a][^746]
-*Verse:* Unto Thee, O Lord, will I cry; O my God, be not silent unto me! [Ps. 27:1a]
-*Epistle: Acts, Pericope 16 [Acts 6:1–7].*[^747]
-*Alleluia, Tone 8:* Lord, Thou hast been favorable unto Thy land, Thou hast turned away the captivity of Jacob! [Ps. 84:2]
-*Verse:* Mercy and truth are met together, righteousness and peace have kissed each other! [Ps. 84:11]
-*Gospel according to Mark [Fiol: John], Pericope 69 [Mark 15:43–16:8]:* "Joseph of Arimathea came..."[^748] *Communion verse:* Praise the Lord from the heavens, praise Him in the highest! [Ps. 148:1][^749]
-
-*On the 3rd Sunday evening [Third Sunday of Pascha, at Vespers]: Even as on the Sunday of Antipascha. But the Entrance from now on Sunday [evening] does not take place.*[^750] *And on Monday...*
-
-*...at Matins: As also on Monday of Antipascha. At the Aposticha: Stichera of the feast, and we say the verses:* Lord, Thou hast been favorable unto Thy land! [Ps. 84:2] *Verse:* Mercy and truth are met together! [Ps. 84:11] *Glory, Both now, of the feast. On Monday evening of the 3rd Week: Even as indicated for Monday of the 2nd Week, with changing stichera and troparia. On Saturday at Matins: As on Saturday of Antipascha.*[^751] *At the Liturgy: Ode 9 of the feast with the heirmoi on 6; Prokeimenon, Alleluia of the feast; but the Epistle and Gospel, and Communion verse, of the day.*[^752]
-
-*Sunday 3 after Pascha [Fourth Sunday of Pascha]: Of the Paralytic.*[^753] *At Little Vespers: The usual. At Great Vespers:*
-*Stichera: 3 Resurrectional, 4 Anatolian, and of the Paralytic, idiomela 2 in Tone 1, to 3; Glory, Tone 5:* "Jesus went up to Jerusalem to the Sheep Pool...";[^754] *Both now, Dogmatikon Theotokion of Tone 1. At the Litiya: Stichera of the Mother of God; Glory, Tone 5:* "At the Sheep Pool a man lay in sickness..."; *Both now, Theotokion. At the Aposticha: Resurrectional alphabetical stichera; Glory, Tone 8:* "In Solomon's porch there lay a multitude of the sick...";[^755] *Both now, Theotokion:* "O unwedded Virgin..." *At Matins, at "God is the Lord": Troparion Resurrectional, twice; Glory, Both now, Theotokion; and the rest as usual; 4th Matins Gospel [Luke 24:1–12];*[^756] *Canon of Pascha with the Theotokia on 6, and of the Paralytic on 8; Katavasia: the heirmoi [of Pascha]; after Ode 3...*
-
-*...Sessional hymn in the Triodion; after Ode 6: Kontakion, Tone 3, Podoben: "Today the Virgin" (Дѣва днесь):*[^757]
-My soul, O Lord, grievously paralyzed by all manner of sins and unfitting deeds, raise up by Thy divine love for mankind, even as Thou didst raise up the paralytic of old, that being saved I may cry unto Thee: O Merciful Christ, grant Thou me healing!
-
-*"More honorable than the Cherubim" is not chanted.*[^758] *Exapostilarion: "Having fallen asleep in the flesh", and of the Paralytic, twice. At the Praises: 4 Resurrectional; and 4 Anatolian; Glory, Tone 8:* "Lord, [not the pool, but Thy word healed] the paralytic...";[^759] *Both now:* "Most blessed art thou, [O Virgin Theotokos]"; *Great Doxology; Troparion of the feast.*
-*At the Liturgy: The Beatitudes from the Resurrectional [Octoechos, on 4], and of the Paralytic, Ode 6 on 4. Prokeimenon [Tone 1]:* Let Thy mercy, O Lord, be upon us, according as we have hoped in Thee! [Ps. 32:22]
-*Verse:* Rejoice in the Lord, O ye righteous; praise is meet for the upright! [Ps. 32:1]
-*Epistle: Acts, Pericope 23 [Acts 9:32–42].*[^760]
-*Alleluia [Tone 5]:* Thy mercies, O Lord, will I sing forever, unto generation and generation! [Ps. 88:2]
-*Verse:* For Thou hast said: Mercy shall be built up forever! [Ps. 88:3a]
-*Gospel: John, Pericope 14 [John 5:1–15].*[^761]
-*Communion verse:* Praise the Lord from the heavens, praise Him in the highest! [Ps. 148:1]
-
-*It should be known that the office of the Paralytic is chanted for 3 days: including Sunday, on Sunday, on Monday, and on Tuesday.*[^762]
-
-*On Wednesday of the 4th [Week] of Pentecost [Feast of Mid-Pentecost], on Tuesday evening:*[^763] *The customary stichology [Kathisma at Vespers]; Stichera on 6, Tone 4, Podoben: "A marvel today" (Преславная днесь)...*
-
-*...Glory, Both now, Tone 6, of the feast; Entrance; at the Aposticha: 3 idiomela: 2 of Tone 1, and 1 of Tone 2; and when the feast is at the midst, they are chanted; and we say the verses:* Remember Thy congregation which Thou hast purchased from the beginning! [Ps. 73:2a][^764]
-*Verse:* God is our King before the ages; He hath wrought salvation in the midst of the earth! [Ps. 73:12]
-*Glory, Both now, Tone 8:* "The feast being at the midst..."; *Troparion, Tone 8:*
-The feast being at the midst, quench my thirsting soul with the waters of piety, for unto all Thou didst cry aloud, O Savior: Whosoever thirsts, let him come unto Me and drink! O Fountain of life, Christ God, glory to Thee![^765]
-
-*On Wednesday [of Mid-Pentecost], at Matins: At "God is the Lord", Troparion of the feast, thrice; and the customary stichology [Kathismata]; Sessional hymns of the feast, 2; "Having beheld the Resurrection of Christ"; Psalm 50; Canons, two: of Tone 4 and of Tone 8, both on 12;*[^766] *this same office is chanted at Compline; after Ode 3: Sessional hymn of the feast; after Ode 6: Kontakion, Tone 4:*
-The feast of the Law being at the midst, O Creator and Master of all, Thou didst say unto them that were present, O Christ God: Come and draw the water of immortality! Therefore do we fall down before Thee and cry aloud in faith: Grant unto us Thy compassions, for Thou art the Fountain...
-
-...of our life![^767]
-
-*After Ode 9: Exapostilarion. At the Praises: on 4, Tone 4, Podoben: "As noble" (Яко добля);*[^768] *Glory, Both now, Tone 4:* "Having enlightened..."; *Great Doxology; Troparion of the feast.*
-*At the Liturgy: [The Beatitudes from] Ode 3 and Ode 6; Prokeimenon [Tone 3]:* Great is our Lord, and great is His power, and of His understanding there is no number! [Ps. 146:5]
-*Verse:* Praise ye the Lord, for the Lord is good; chant praises unto His Name, for it is lovely! [Ps. 134:3]
-*Epistle: Acts, Pericope 34 [Acts 14:6–18].*[^769]
-*Alleluia [Tone 2]:* Remember Thy congregation which Thou hast purchased from the beginning! [Ps. 73:2a]
-*Verse:* God is our King before the ages; He hath wrought salvation in the midst of the earth! [Ps. 73:12]
-*Gospel: John, Pericope 26 [John 7:14–30].*[^770]
-*Communion verse:* "He that eats My Flesh and drinks My Blood abides in Me, and I in him, saith the Lord." [John 6:56][^771] *Alleluia.*
-
-*On Wednesday evening: Stichera of the feast, Tone 4, Podoben: "Called from on high" (Званный свыше), and of the Saint, 3; Dogmatikon Theotokion; Glory, Both now, of the feast; at the Aposticha: Resurrectional... Glory, Both now, of the feast; and Dismissal. At Matins: The customary order. The afterfeast of Mid-Pentecost is celebrated for 8 days.*[^772]
-
-*Sunday 4 [after Pascha]: Of the Samaritan Woman.*[^773] *On Saturday, at Little Vespers: The usual. And at Great Vespers:*
-*Stichera on 10: 3 Resurrectional of Tone 4, and 4 Anatolian, and 3 of Mid-Pentecost in Tone 4, Podoben... and 3 of the Samaritan Woman, idiomela: 1...*
-
-*...of Tone 1, and 2 of Tone 2; Glory, Tone 6:* "At Jacob's well..."; *Both now, Dogmatikon Theotokion of Tone 4:* "For thy sake, David the ancestor of God...";[^774] *at the Litiya: Stichera of the Theotokos; and at the Litiya:* "Whom the Church...", *Glory, Both now, Tone 3:* "Let heaven and earth rejoice..."; *at the Aposticha: Glory, Tone 8:* "When the Lord came unto the well..."; *Both now:* "The feast being at the midst..."; *at Matins: Resurrectional Troparion, twice; Glory, Both now, of the feast; and the rest as usual; Matins Gospel 7 [John 20:1–10];*[^775] *Canon of Pascha: "The Day of Resurrection" on 4 with the heirmoi, and of Mid-Pentecost on 4, and of the Samaritan Woman on 6; after Ode 6: Kontakion, Tone 8:*
-Having come with faith unto the well, the Samaritan woman beheld Thee, the Water of wisdom; and having drunk abundantly of Thee, O Christ, she inherited the Heavenly Kingdom, ever-renowned throughout eternity![^776]
-
-*"More honorable than the Cherubim" is not chanted. Exapostilarion: "Having fallen asleep in the flesh", and of the Samaritan Woman. At the Praises: 4 Resurrectional, and Anatolian 1, and of the Samaritan Woman, 1 in Tone 3 and 2 of Tone 2; Glory, Tone 6:* "The Fountain of wonder..."; *Both now:* "Most blessed art thou, [O Virgin Theotokos]"; *Great Doxology; Resurrectional Troparion only.*
-*At the Liturgy: The Beatitudes of the feast, Ode 3, and of the Samaritan Woman, Ode 6. Prokeimenon, Tone 3:* Chant praises unto our God, chant praises; chant praises unto our King, chant praises! [Ps. 46:7][^777]
-*Verse:* Clap your hands, all ye nations; shout unto God with the voice of jubilation! [Ps. 46:2]
-*Epistle: Acts, Pericope 28 [Acts 11:19–26, 29–30].*[^778]
-*Alleluia...*
-
-*...Verse:* Thou hast loved righteousness, and hated iniquity! [Ps. 44:8a]
-*Gospel: John, Pericope 12 [John 4:5–42].*[^779]
-*Communion verse:* "The Body of Christ [receive ye, taste of the Fountain of Immortality]!", *and* Praise the Lord from the heavens, praise Him in the highest! [Ps. 148:1]
-
-*Be it known that the office of the Samaritan Woman is chanted on Sunday, on Thursday, on Friday, and on Saturday; and on Monday, on Tuesday, and on Wednesday, Mid-Pentecost is chanted; and its Apodosis takes place on Tuesday of the 5th Week in the evening.*[^780]
-*Stichera of the feast on 6; Glory, Both now, Tone 6, of the feast; at the Aposticha: of the feast with its verses; and the office of the Saint of the day is chanted at Compline.*
-
-*On Wednesday [Apodosis of Mid-Pentecost], at Matins:*[^781] *Troparion of the feast, thrice; Sessional hymns of the feast; two canons of the feast: one with the heirmoi on 8, and the other without heirmoi on 6; Katavasia:* "The sea curdled" [Tone 4];[^782] *at the Praises: of the feast on 4; Glory, Both now:* "Having been enlightened..."; *Great Doxology; Troparion of the feast; Dismissal. At the Liturgy: The Beatitudes of the feast from both canons, from Ode 9 with the heirmoi on 8; Troparion and Kontakion of the feast; Prokeimenon, Alleluia, and Communion verse of the feast; but the Epistle and Gospel of the day.*
-
-*In this same week [Fifth Week of Pascha], at the Liturgy: The Beatitudes from the Resurrectional on 6, and of the Samaritan Woman, Ode 9 on 4; Prokeimenon and Alleluia of the 4th Sunday; but the Epistle and Gospel of the day.*
-
-*Sunday 5 after Pascha: Of the Blind Man.*[^783] *At Little Vespers: The usual. At Great Vespers:*
-*Stichera on 10, Tone 5: 3 Resurrectional, and 4 Anatolian, and 2 of the Blind Man, idiomela in Tone 2:* "The man blind from birth..." *and* "Passing by, Jesus..."; *and on 3, Tone 5:* "Lord, as Thou didst pass by..."; *Both now, Dogmatikon Theotokion of Tone 5:* "In the Red Sea...";[^784] *at the Litiya: Glory, Tone 4:* "Lead a life..."; *Both now, Dogmatikon Theotokion; at the Aposticha: Glory, Tone 8:* "The Sun of righteousness..."; *Both now, Dogmatikon Theotokion.*
-*At Matins: At "God is the Lord", Troparion of Tone 5 Resurrectional, twice; Glory, Both now, Dogmatikon Theotokion; customary stichology [Kathismata]; Matins Gospel 8 [John 20:11–18];*[^785] *Canon of Pascha: "The Day of Resurrection" with the Theotokia on 8, and of the Blind Man on 6; Katavasia:* "Unto God our Savior" [Tone 5];[^786] *after Ode 6: Kontakion [Tone 4]:*[^787]
-Blind in the eyes of my soul, I come unto Thee, O Christ, even as the man blind from birth, crying unto Thee in repentance: Thou art the most radiant Light of them that are in darkness!
-
-*"More honorable than the Cherubim" is not chanted.*
-
-*Exapostilarion: "Having fallen asleep in the flesh", and of the Blind Man. At the Praises: 4 Resurrectional, and 3 Anatolian, and of the Blind Man, idiomela in Tone 8:* "For the sake of Thy tender mercies..."; *Glory, Tone 8:* "Who can tell [the mighty acts of Christ]...";[^788] *Both now:* "Most blessed art thou, O Virgin Theotokos"; *Resurrectional Troparion. And the office of the Saint of the day chant at Compline. At the Liturgy: The Beatitudes of the Blind Man, Ode 3 and Ode 6. Prokeimenon, Tone 8:* Make your vows, and pay them unto the Lord our God! [Ps. 75:12a][^789]
-*Verse:* In Judea is God known; His Name is great in Israel! [Ps. 75:2]
-*Epistle: Acts, Pericope 38 [Acts 16:16–34].*[^790]
-*Alleluia, Tone 8:* Look upon me, and have mercy upon me, according to the judgment of them that love Thy Name! [Ps. 118:132]
-*Verse:* Order my steps in Thy word, and let not any iniquity have dominion over me! [Ps. 118:133]
-*Gospel: John, Pericope 34 [John 9:1–38].*[^791]
-*Communion verse:* "The Body of Christ [receive ye, taste of the Fountain of Immortality]!", *and* Praise the Lord from the heavens, praise Him in the highest! [Ps. 148:1]
-
-*We celebrate the Blind Man for 3 days: on Monday, on Tuesday, and on Wednesday.*
-*On Tuesday of the 6th Week [Eve of the Apodosis of Pascha]:*[^792] *At Vespers we do not chant the Kathisma; Stichera of the Blind Man on 6; Glory, Both now:* "Who can tell..."; *at the Aposticha: Resurrectional stichera of Tone 5; and of Pascha: "Pascha the sacred..." with their verses;*[^793] *Glory:* "Pascha the lovely"; *Both now:* "The Day of Resurrection"; *Troparion, Tone 5:* "Word co-beginningless...";[^794] *and the office of the Saint of the day is chanted at Compline.*
-*On Wednesday of the 6th Week [Apodosis of Pascha], at Matins: Troparion:* "Word co-beginningless", *twice; Glory...*
-
-*...Both now, Dogmatikon Theotokion; customary stichology [Kathismata]; Resurrectional Sessional hymns; "Having beheld the Resurrection of Christ"; Psalm 50; Canon, Tone 1: "The Day of Resurrection" with the heirmos on 6, and of the Blind Man on 4, and of the Forefeast [of Ascension], Tone 5 on 4; Katavasia:* "Unto God our Savior"; *after Ode 3: Hypakoe:* "Anticipating the morning..."; *after Ode 6: Kontakion:* "Though Thou didst descend into the tomb"; *Exapostilarion: "Having fallen asleep in the flesh".*[^795]
-*At the Praises: 4 idiomela of the Blind Man: two in Tone 2, another in Tone 4, and another in Tone 5; and the choirs having joined together sing, and say the verse:* Let God arise, and let His enemies be scattered; let them also that hate Him flee before His face! [Ps. 67:2]
-*And they sing the stichera in Tone 5: "Pascha the sacred...", and the rest; Glory, Both now:* "The Day of Resurrection"; "Christ is risen" *4 times;*[^796] *Great Doxology; Troparion:* "Word co-beginningless"; *Ektenia; Dismissal. At the Hours: Troparion:* "Word co-beginningless", *and Kontakion:* "Though Thou didst descend into the tomb".
-*At the Liturgy: From the Canon of Pascha, Ode 9 with the heirmos on 6. After the Entrance:* "Christ is risen" *4 times; Troparion:* "Word co-beginningless"; *Glory, Kontakion of the Blind Man; Both now:* "Though Thou didst descend into the tomb". *Prokeimenon, Tone 8:* This is the day which the Lord hath made; let us rejoice and be glad in it! [Ps. 117:24][^797]
-*Verse:* O give thanks unto the Lord, for He is good, for His mercy endures forever! [Ps. 117:1]
-*Epistle of the day.*
-*Alleluia, Tone 4:* Thou having arisen shalt have mercy upon Zion! [Ps. 101:14a][^798] *Verse:* The Lord from heaven looked upon the earth! [Ps. 101:20b]
-*Gospel of the day. Communion verse:* "The Body of Christ [receive ye, taste of the Fountain of Immortality]!"
-
-*On Thursday of the 6th Week after Pascha, we celebrate the Ascension of our Lord Jesus Christ, and we accomplish an All-Night Vigil.*[^799]
-*On Wednesday evening, at Little Vespers: Stichera of the feast, Tone 6 on 4:* "The Lord is ascended..."; *Glory, Both now, of the feast; at the Aposticha: of the feast with its verses; Troparion of the feast.*
-*At Great Vespers: Stichera on 10: 6 idiomela in Tone 6:* "The Lord is ascended...", *and 4 others; Glory, Both now, Tone 6:* "Without departing from the Father's bosom...";[^800] *Entrance; Readings of the feast, 3;*[^801] *at the Litiya: Idiomela of the feast: 3 of Tone 1, and 4 of Tone 4; Glory, Tone 5:* "Lord, when Thou didst ascend..."; *Both now, of the same Tone:* "Come, ye faithful... At the Aposticha: 3 idiomela in Tone 2:* "Born as [Thou didst will]...", *and two others; and we say the verses:* Clap your hands, all ye nations; shout unto God with the voice of jubilation! [Ps. 46:2]
-*Verse:* God is gone up with a shout, the Lord with the sound of a trumpet! [Ps. 46:6]
-*Glory, Both now, Tone 6:* "God is gone up with a shout...";[^802] *Troparion, Tone 4:*
-Thou didst ascend in glory, O Christ our God, having gladdened Thy disciples with the promise of the Holy Spirit, they having been assured by the blessing...
-
-...that Thou art the Son of God, the Redeemer of the world![^803]
-
-*And at Matins: Troparion of the feast, thrice; customary stichology [Kathismata]; and Polyeleos; Sessional hymns of the feast; Anavathmoi of Tone 4, 1st Antiphon. Prokeimenon, Tone 4:* God is gone up with a shout, the Lord with the sound of a trumpet! [Ps. 46:6][^804]
-*Verse:* Clap your hands, all ye nations; shout unto God with the voice of jubilation! [Ps. 46:2]
-*Resurrection Gospel 3 [Mark 16:9–20];*[^805] *"Having beheld the Resurrection of Christ"; Psalm 50; Sticheron of the feast; Canons of the feast, two: one of Tone 5:* "Unto God our Savior", *the heirmos twice, and troparia on 6; and another of Tone 4, without heirmoi on 6;*[^806] *Katavasia:* "Covered by the divine cloud" [Tone 4];[^807] *after Ode 3: Sessional hymn of the feast; after Ode 6: Kontakion, Tone 6:*
-When Thou hadst accomplished the dispensation for us, and united things on earth with the heavenly, Thou didst ascend in glory, O Christ our God, in no wise being separated, but abiding inseparable, and crying unto them that love Thee: I am with you, and none is against you![^808]
-
-*"More honorable than the Cherubim" is not chanted. Exapostilarion, thrice:* "Unto the disciples [looking upon Thee ascending into the heavens, O Christ...]".[^809] *At the Praises: 3 of Tone 1, idiomela... on 4; Glory, Both now, Tone 2:* "Born as [Thou didst will]..."; *Great Doxology; Troparion of the feast; Ektenia.*
-
-*...and Dismissal. At the Liturgy: Antiphons: Ode 3 and Ode 6. At the Entrance:* "O come, let us worship and fall down before Him; save us, O Son of God, Who didst ascend in glory, who sing to Thee: Alleluia, alleluia, alleluia!"[^810] *Troparion of the feast; Glory, Both now, Kontakion. Prokeimenon:* "Be Thou exalted, O God, above the heavens; and Thy glory above all the earth!" [Ps. 107:6]. *Verse:* "My heart is ready, O God, my heart is ready; I will sing and give praise in my glory!" [Ps. 107:2].
-*Epistle: Acts, "The first account..." Pericope 1 [Acts 1:1–14], ending:* "...with the women."[^811]
-*Alleluia:* "God is gone up with a shout, the Lord with the sound of a trumpet!" [Ps. 46:6]. *Verse:* "Clap your hands, all ye nations; shout unto God with the voice of jubilation!" [Ps. 46:2].
-*Gospel: Matins Gospel 6 [Luke 24:36–53].*[^812]
-*Communion verse:* "God is gone up with a shout, the Lord with the sound of a trumpet! Alleluia!" [Ps. 46:6].
-
-*On that same day [Ascension Thursday], in the evening: at Vespers we do not chant the Kathisma. Stichera of the feast on 6: 3 idiomela, Tone 4:* "Thou didst ascend into the heavens...", *and 3 Dominical; Glory, Both now, Tone 2:* "Born as [Thou didst will]...". *Entrance; Great Prokeimenon, Tone 7:* "Our God is in heaven and on earth; all whatsoever He hath willed He hath done!" [Ps. 113:11].[^813]
-*Verse:* "In the exodus of Israel out of Egypt, the house of Jacob from a barbarous people..." [Ps. 113:1].
-*Verse:* "The sea saw it and fled; Jordan was turned back!" [Ps. 113:3].
-*Verse:* "What ailed thee, O sea, that thou didst flee? and thou, O Jordan, that thou wast turned back?" [Ps. 113:5].
-*At the Aposticha: Podoben, 3 of the feast, Tone 1:* "Princes [of the angelic hosts]..."; *Glory, Both now, Tone 6:* "On the mountains [of holy Olives]...". *And the office of the Saint is chanted together at Compline.*
-*It is to be known that the chanting of this Dominical feast is chanted until the Apodosis...*
-
-*...which is before Pentecost.*
-
-*Sunday 7 after Pascha: Of the Holy and God-bearing 318 Fathers who were at Nicaea of the First Council, in Tone 6:*[^814]
-*At Little Vespers: Resurrectional stichera and Theotokion according to the custom; Resurrectional Troparion.*
-*At Great Vespers: Stichera on 10: Resurrectional 3, Tone 6; and of the Anatolian 1; and of the feast 3, Tone 6:* "The Lord is ascended..."; *and of the Fathers, Podoben, 3, Tone 6:* "The unoriginate [Father]..."; *Glory, Tone 6:* "The mysterious trumpets of the Spirit today..."; *Both now, Dogmatikon of Tone 1:* "The glory of all the world...". *Entrance; Readings 3 of the Fathers.*
-*At the Litiya: Of the Saint whose church it is; Glory, Tone 3:* "Apostolic [traditions]..."; *Both now, of the feast.*
-*At the Aposticha: Resurrectional; Glory, of the Fathers, Tone 4:* "A suppliant [commemoration]..."; *Both now, of the feast, Tone 4:* "Lord, the mystery [hidden from the ages]...".
-*Troparion of the Fathers twice, Tone 4:*
-Most glorious art Thou, O Christ our God, Who didst establish our Fathers as luminaries upon the earth, and through them didst guide us all unto the true Faith: O most merciful One, glory to Thee![^815]
-
-*Of the feast, once.*
-*At Matins: Resurrectional Troparion twice; Glory, of the Fathers; Both now, of the feast. Customary Kathismata; Resurrectional Sessional hymns; Gospel 10 [John 21:1–14].*
-
-*Canon: Resurrectional on 4, and of the feast on 4, and of the Fathers on 6. After Ode 3: Kontakion of the Fathers, Tone 8:*
-The preaching of the Apostles and the doctrines of the Fathers confirmed the one Faith for the Church; and wearing the garment of truth woven from theology on high, she rightly defins and glorifies the great mystery of piety![^816]
-
-*"More honorable than the Cherubim" is not chanted. Exapostilarion of the feast and of the Fathers.*
-*At the Praises: Resurrectional stichera 4, and of the Fathers on 4, Tone 6, Podoben: "Having laid up all hope":* "Having laid up all hope..."; *Glory, Tone 8:* "The choir of the holy Fathers..."; *Both now:* "Most blessed art thou, [O Virgin Theotokos...]"; *Resurrectional Troparion; Ektenia and Dismissal.*
-*At the Liturgy: From the Canon of the Holy Fathers, Ode 3 and Ode 6. Prokeimenon: Song of the Fathers:* "Blessed art Thou, O Lord, God of our fathers, and praised and glorified is Thy name unto the ages!" [Dan. 3:26].[^817]
-*Verse:* "For Thou art righteous in all that Thou hast done to us!" [Dan. 3:27].
-*Epistle: Pericope 44 [Acts 20:16–18, 28–36].*
-*Alleluia:* "The God of gods, the Lord, hath spoken, and called the earth!" [Ps. 49:1]. *Verse:* "Gather together unto Him His holy ones!" [Ps. 49:5].
-*Gospel: Pericope 56 [John 17:1–13].*
-*Communion verse:* "Praise the Lord from the heavens...", *and another of the commemoration:* "Rejoice in the Lord, O ye righteous: praise is comely for the upright!" [Ps. 32:1].
-
-*On that same day, in the evening: at Vespers, Stichera: 3 of the Fathers, Tone 6:* "The unoriginate [Father]...", *and 3 Dominical; Glory, Tone 6:* "The mysterious trumpets of the Spirit today..."; *Both now, of the feast:* "On the mountains [of holy Olives]...".
-*At the Aposticha: of the Fathers, Tone 6, Podoben: "Having laid up all hope":* "Having laid up all hope..."...
-
-*...Glory, Tone 3:* "Apostolic [traditions]..."; *Both now, Tone 6:* "God is gone up with a shout...". *Troparion of the Fathers; Glory, Both now, of the feast; and the feast of the Fathers is concluded.*
-
-*On Thursday of the 7th Week [Eve of the Apodosis of Ascension], in the evening: the customary stichology; Stichera of the feast on 6; Glory, Both now, Tone 6:* "Without departing from the Father's bosom..."; *at the Aposticha: of the feast; Glory, Both now, Tone 6:* "God is gone up with a shout..."; *Troparion of the feast. The office of the Saint is chanted at Compline.*
-
-*On Friday of the 7th Week [Apodosis of Ascension]:*[^818] *At Matins: Troparion of the feast, thrice; Sessional hymns of the feast; Canons two of the feast: one of Tone 5 with its heirmos on 8; another of Tone 4 without heirmoi on 6; Katavasia:* "Covered by the divine cloud..." [Tone 4]; *after Ode 3: Sessional hymn; after Ode 6: Kontakion and Ikos; "More honorable than the Cherubim" is not chanted. Exapostilarion of the feast, thrice.*
-*At the Praises: of the feast, Podoben, 3 on 4:* "Princes of the people..."; *Glory, Both now, Tone 2:* "Born as [Thou didst will]..."; *Great Doxology; Troparion of the feast.*
-*At the Liturgy: From both canons, Ode 9 from both on 8 with the heirmos; Troparion of the feast; Glory, Both now, Kontakion; Alleluia; Communion verse of the feast; Epistle and Gospel of the day.*
-
-*On Saturday of the 7th Week [Soul Saturday before Pentecost], we celebrate the commemoration of all who from the ages have fallen asleep, Orthodox Christians, our fathers and brethren.*[^819] *The entire office at Vespers and at Matins is chanted as it is written for Meatfare Saturday.*
-
-*...as it is written for Meatfare Saturday.*
-
-*Sunday of Holy Pentecost:*[^820]
-*All of it. At Little Vespers: Stichera of the feast, Tone 1:* "Pentecost we celebrate...", *on 4; Glory, Both now: Idiomelon of the feast; at the Aposticha: of the feast; Troparion of the feast.*
-*At Great Vespers: Stichera on 10: Idiomela 3, Tone 1, twice:* "Pentecost we celebrate...", "The tongues of old were confused...", "All things are provided by the Holy Spirit..."; *and 4 others, 1 each, Tone 2:* "We have seen the true Light...", *and 3 others; Glory, Both now, Tone 8:* "Come, ye people, let us worship the Godhead in three persons...". *Entrance; Readings 3 of the feast.*
-*At the Litiya: Idiomela 3, Tone 2:* "In the prophets Thou didst announce unto us...", *and two others; Glory, Tone 7:* "The Comforter..."; *Both now, Tone 8:* "When the Holy Spirit descended...".
-*At the Aposticha: Idiomela 3, Tone 6:* "The nations not understanding...", "Lord, the Apostles having seen...", "O Heavenly King..."; *and we say the verses:* "A clean heart create in me, O God, and a right spirit renew within me!" [Ps. 50:12].
-*Verse:* "Cast me not away from Thy presence, and take not Thy Holy Spirit from me!" [Ps. 50:13].
-*Glory, Both now, Tone 8:* "Of old the tongues were confused...".
-*Troparion, Tone 8:*
-Blessed art Thou, O Christ our God, Who didst reveal the fishermen to be most wise, having sent down upon them the Holy Spirit, and through them didst catch the whole universe in Thy net: O Lover of mankind, glory to Thee![^821]
-
-*At Matins: "God is the Lord"; Troparion thrice; customary stichology;*
-
-*...and Polyeleos; Sessional hymns of the feast; Anavathmoi of Tone 4, 1st Antiphon. Prokeimenon:* "Thy good Spirit shall lead me in the land of uprightness!" [Ps. 142:10b]. *Verse:* "A clean heart create in me, O God, and a right spirit renew within me!" [Ps. 50:12].
-*Gospel 9 [John 20:19–31]:* "When it was late on that same day...", *ending:* "...may hold fast."[^822]
-*Psalm 50; Sticheron of the feast; but "Having beheld the Resurrection of Christ" is not said.*
-*Canons two of the feast: one of Tone 7 and the other of Tone 4; heirmoi twice and troparia on 4, and again the heirmos together. After Ode 3: Sessional hymn of the feast; after Ode 6: Kontakion, Tone 8:*
-When the Most High descended and confused the tongues, He divided the nations; but when He distributed the tongues of fire, He called all to unity: therefore with one voice we glorify the all-holy Spirit![^823]
-
-*"More honorable than the Cherubim" we do not stichologize. Exapostilarion of the two canons, thrice. At the Praises: Idiomela 3, Tone 4 on 6:* "Marvelous things today..."; *Glory, Both now, Tone 6:* "O Heavenly King..."; *Great Doxology; Troparion of the feast; and Dismissal.*
-*At the Liturgy: Antiphons:*[^824]
-*Antiphon 1, Psalm 18:* "The heavens declare the glory of God!" [Ps. 18:2a].
-*Refrain:* "Through the prayers of the Theotokos, O Savior, save us!"
-*Verse:* "The heavens declare the glory of God, and the firmament proclaims the work of His hands!" [Ps. 18:2].
-
-*Refrain:* "Through the prayers of the Theotokos, O Savior, save us!"
-*Verse:* "Day unto day utters speech, and night unto night shows knowledge!" [Ps. 18:3].
-*Refrain:* "Through the prayers of the Theotokos, O Savior, save us!"
-*Verse:* "There are no speeches nor words where their voices are not heard!" [Ps. 18:4].
-*Refrain:* "Through the prayers of the Theotokos, O Savior, save us!"
-*Verse:* "Their sound is gone out into all the earth, and their words unto the ends of the world!" [Ps. 18:5].
-*Refrain:* "Through the prayers of the Theotokos, O Savior, save us!"
-*Glory:* "Through the prayers of the Theotokos, O Savior, save us!"
-*Both now:* "Through the prayers of the Theotokos, O Savior, save us!"
-
-*Antiphon 2, Psalm 19:* "The Lord hear thee in the day of trouble!" [Ps. 19:2a].[^825]
-*Refrain:* "Save us, O good Comforter, who sing to Thee: Alleluia, alleluia, alleluia!"
-*Verse:* "The Lord hear thee in the day of trouble; the name of the God of Jacob defend thee!" [Ps. 19:2].
-*Refrain:* "Save us, O good Comforter, who sing to Thee: Alleluia, alleluia, alleluia!"
-*Verse:* "Send thee help from the sanctuary, and strengthen thee out of Zion!" [Ps. 19:3].
-*Refrain:* "Save us, O good Comforter, who sing to Thee: Alleluia, alleluia, alleluia!"
-*Verse:* "Grant thee according to thine own heart, and fulfill all thy counsel!" [Ps. 19:5].
-*Refrain:* "Save us, O good Comforter, who sing to Thee: Alleluia, alleluia, alleluia!"
-*Glory, Both now:* "Only-begotten Son and Word of God...".
-
-*Antiphon 3, Psalm 20:* "The king shall joy in Thy strength, O Lord!" [Ps. 20:2a].[^826]
-*Troparion:* "Blessed art Thou, O Christ our God...".
-*Verse:* "The king shall joy in Thy strength, O Lord, and in Thy salvation how greatly shall he rejoice!" [Ps. 20:2].
-
-*Troparion:* "Blessed art Thou, O Christ our God...".
-*Verse:* "Thou hast given him his heart's desire, and hast not withholden the request of his lips!" [Ps. 20:3].
-*Troparion:* "Blessed art Thou, O Christ our God...".
-*Verse:* "For Thou hast prevented him with the blessings of goodness; Thou hast set a crown of precious stones upon his head!" [Ps. 20:4].
-*Troparion:* "Blessed art Thou, O Christ our God...".
-
-*At the Entrance:* "Be Thou exalted, Lord, in Thine own strength; so will we sing and praise Thy power!" [Ps. 20:14].
-*Then Troparion:* "Blessed art Thou, O Christ our God..."; *Glory, Both now, Kontakion.*
-*Instead of the Trisagion:* "As many as have been baptized into Christ have put on Christ. Alleluia!" [Gal. 3:27].[^827]
-*Prokeimenon:* "Their sound is gone out into all the earth, and their words unto the ends of the world!" [Ps. 18:5].
-*Verse:* "The heavens declare the glory of God, and the firmament proclaims the work of His hands!" [Ps. 18:2].
-*Epistle: Acts, Pericope 3 [Acts 2:1–11].*[^828]
-*Alleluia:* "By the word of the Lord were the heavens established, and all the host of them by the breath of His mouth!" [Ps. 32:6].
-*Verse:* "From heaven the Lord looked down, He beheld all the sons of men!" [Ps. 32:13].
-*Gospel from John: "In the last day, that great day of the feast..." Pericope 27 [John 7:37–52; 8:12].*
-*Communion verse:* "Thy good Spirit shall lead me in the land of uprightness. Alleluia!" [Ps. 142:10b].
-
-*On Sunday of Pentecost in the evening [Vespers of Kneeling]:*[^829] *The semantron is sounded early on account of the genuflection. Stichology does not take place. Stichera of the feast on 6, Tone 4:* "Marvelous things today..."; *Glory, Both now, Tone 6:*
-
-"O Heavenly King...". *The Priest vests in priestly vestments and makes the Entrance. Great Prokeimenon, Tone 7:* "Who is so great a god as our God? Thou art the God that doest wonders!" [Ps. 76:14–15].
-*Verse:* "I said: Now have I begun; this is the change of the right hand of the Most High!" [Ps. 76:11].
-*Verse:* "Thou hast made known Thy power among the people!" [Ps. 76:15b].
-*Verse:* "I remembered the works of the Lord, for I will remember Thy wonders from the beginning!" [Ps. 76:12].
-
-*Then the Deacon:* "Again and again, bowing our knees, let us pray to the Lord!"
-*And while we bow our knees with uncovered heads, the Priest says the Prayers from the Altar in a loud voice.*[^830]
-*And at the conclusion of the Prayers, the Deacon says:* "Save, have mercy, and protect...", "Commemorating our most holy, most pure, most blessed...".
-*And the Priest says the Exclamation of the Prayer.*
-*Then the Ektenia:* "Let us all say with our whole soul and with our whole mind, let us say...".
-*The Priest says the Exclamation.*
-*And immediately the Deacon:* "Again and again, bowing our knees...", *and the rest as was said at the first prayer. The Priest says the 2nd Prayer. And after the 2nd Prayer:* "Again and again...", *and:* "Save, O God, Thy people...".
-*And immediately the Deacon:* "Again and again, bowing our knees...".
-*The Priest says the 3rd Prayer. Then the Deacon:* "Save, have mercy...", "Commemorating our most holy, most pure...".
-*Exclamation:* "For Thine it is to show mercy and to save us...".
-*Then the Ektenia:* "Let us complete our evening prayer unto the Lord...".
-
-*Then at the Aposticha: Idiomela 3, Tone 3:* "Now for a sign unto all nations...", *and these verses:* "A clean heart create in me, O God, and a right spirit renew within me!" [Ps. 50:12].
-*Verse:* "Cast me not away from Thy presence, and take not Thy Holy Spirit from me!" [Ps. 50:13].
-*Troparion:* "Blessed art Thou, O Christ our God...", *and Dismissal.*
-
-*On Monday [Day of the Holy Spirit]:*[^831]
-*At Matins: Troparion of the feast, thrice; customary stichology; Sessional hymns of the feast; Canons two of the feast; after Ode 3: Sessional hymn of the feast; after Ode 6: Kontakion and Ikos; after Ode 9: Exapostilarion. At the Praises: Idiomela 3, Tone 2 on 4; Glory, Both now, Tone 8:* "Of old the tongues were confused..."; *Great Doxology; Troparion of the feast.*
-*At the Liturgy: From the Canon of the feast, Ode 3 and Ode 6. At the Entrance:* "Be Thou exalted, Lord, in Thine own strength; so will we sing and praise Thy power!" [Ps. 20:14]. *Troparion:* "Blessed art Thou, O Christ our God..."; *Glory, Both now, Kontakion of the feast; Trisagion.*
-*Prokeimenon:* "Save, O Lord, Thy people, and bless Thine inheritance!" [Ps. 27:9].
-*Verse:* "Unto Thee will I cry, O Lord my God; be not silent unto me!" [Ps. 27:1].
-*Epistle to the Ephesians, Pericope 229 [Eph. 5:8–19]:* "For ye were sometimes darkness, but now are ye light in the Lord: walk as children of light...".[^832]
-*Alleluia:* "Have mercy upon me, O God, according to Thy great mercy!" [Ps. 50:3].
-*Verse:* "And cast me not away from Thy presence, and take not Thy Holy Spirit from me!" [Ps. 50:13].
-*Gospel: Matthew, Pericope 75 [Matt. 18:10–20]:* "Take heed that ye despise not one of these little ones...".
-*Communion verse of the feast.*
-*The office of the Saint is chanted at Compline.*
-*In the morning; and another Canon is chanted at Compline: to the Holy Spirit.*
-
-*It is proper to know that this week of Holy Pentecost is dispensed for drink, cheese, and fish.*[^833]
-
-...oil on Wednesday and on Friday. The Inter-Hours are suspended, as is the canon of the fasting season chanted at Compline.[^834]
-
-*On Friday in the evening [Eve of the Apodosis of Pentecost]:*[^835] *Stichera of the feast, Tone 1:* "Pentecost [let us celebrate]...", *on 6; Glory, Both now, Tone 8:* "Come, ye peoples [let us worship the three-hypostatic Godhead]..."; *at the Aposticha: of the feast:* "And understanding [the power of the cross]...", *Glory, Both now, Tone 8:* "Of old the tongues [were confounded]..."; *Troparion of the feast; and during the day at Compline: [the office of the day].*
-
-*On Saturday [Apodosis / Apodosis of Holy Pentecost]:*[^836]
-*At Matins: Troparion of the feast, thrice; the customary stichology [Kathismata]; Sessional hymns of the feast; Canons two: of the feast one, with the heirmos on 6; Katavasia:* "Covered by the divine darkness..." [Ode 1, Canon 2];[^837] *after Ode 3: Sessional hymn of the feast; and after Ode 6: Kontakion and Ikos.* "More honorable than the Cherubim" *is not stichologized;*[^838] *Exapostilarion of the feast. At the Praises: on 4:* "A marvel today..."; *Glory, Both now, Tone 6:* "O Heavenly King..."; *Great Doxology; Troparion of the feast.*
-*At the Liturgy: From the Canons, both 9th Odes, with the heirmos on 8. At the Entrance:* "Be Thou exalted, Lord, in Thine own strength: we will sing and praise Thy power!" [Ps. 20:14].[^839] *Troparion of the feast; Glory, Both now, Kontakion; Trisagion; Prokeimenon, Alleluia, and Communion verse of the feast.*
-
-*The Epistle and Gospel of the day only.*
-
-*Sunday 8 [First Sunday after Pentecost]: Of All Saints:*[^840]
-*On Saturday, at Little Vespers: customary stichera.*
-*At Great Vespers: Stichera on 10: Resurrectional 3; of the Anatolian 3; and of the Cross; and of All Saints 3, Tone 6, Podoben: "All the hope" (Все упование);*[^841] *Glory, Tone 6:* "The divine martyrs..."; *Both now, Dogmatikon Theotokion of Tone 1. Entrance; Readings 3.*[^842]
-*At the Litiya [Entrance]: Idiomela of the Saint whose church it is, and Idiomela of the Saints: Tone 1:* "In agreement of faith, come, ye faithful..."; *another, Tone 2:* "Come, all..."; *and another 3, Tone 4, the concluding one:* "Angelically, come, ye faithful..."; *Glory, Tone 5:* "Unto the present..."; *Both now, Theotokion:* "Thou didst nourish..."[^843]
-*At the Aposticha: Resurrectional; Glory, Tone 6:* "Come, ye faithful..."; *Troparion:* "Theotokos Virgin, rejoice..." *(twice); and of the Saints (once), Tone 4:*
-
-*Troparion of All Saints, Tone 4:*
-Thy Martyrs throughout the whole world, as with purple and fine linen, adorned Thy Church with their blood; through them we cry unto Thee, O Christ God: Send down Thy compassions upon Thy people, grant peace unto Thy city, and unto our souls great mercy![^844]
-
-*At Matins: Resurrectional Troparion twice; Glory, of the Saints; Both now, Theotokion 1 of Tone 4.*
-
-*Customary Kathismata; Sessional hymns; Matins Gospel 1 [Matt. 28:16–20]; for from hence the Matins Gospels begin in order.*[^845] *Canons: Resurrectional with the heirmos on 4; and of the Theotokos on 2; and of the Saints on 6. After Ode 3: Sessional hymn of the Saints; after Ode 6: Kontakion, Tone 8:*
-
-*Kontakion of All Saints, Tone 8:*
-As the first-fruits of nature unto the Creator of creation, the universe offers unto Thee, O Lord, the God-bearing martyrs; by their supplications preserve Thy Church and Thy city in profound peace through the Theotokos, O Thou Who alone art greatly merciful![^846]
-
-*Exapostilarion: Resurrectional and of the Saints. At the Praises: 4 Resurrectional; and of the Cross 1; and of All Saints 3; Glory, 1st Evangelical Sticheron; Both now:* "Most blessed art thou, [O Virgin Theotokos]"; *Great Doxology; Resurrectional Troparion; and Dismissal.*
-*At the Liturgy: The Beatitudes in the Octoechos on 6, and of the Saints Ode 6 on 4.*
-*Prokeimenon [Tone 4]:* God is marvelous in His saints, the God of Israel! [Ps. 67:36][^847]
-*Verse:* In the churches bless ye God, the Lord from the fountains of Israel! [Ps. 67:27]
-*Epistle to the Hebrews, Pericope 330 [Heb. 11:33–12:2].*[^848]
-*Alleluia [Tone 4]:* The righteous cried, and the Lord heard them, and delivered them out of all their afflictions! [Ps. 33:18]
-*Verse:* Many are the afflictions of the righteous, but the Lord shall deliver them out of them all! [Ps. 33:20]
-*Gospel: Matthew, Pericope 38 [Matt. 10:32–33, 37–38; 19:27–30].*[^849]
-*Communion verse:* Praise the Lord from the heavens [Ps. 148:1], or: Rejoice in the Lord, O ye righteous: praise is meet for the upright! [Ps. 32:1]
-
-*The Beginning of the Holy Fast...*
-
-*...of the Holy Apostles:*[^850]
-*Which rule is indicated according to the testament of the Holy Apostles, in which we are obligated strictly to fast. On the Monday after the commemoration of All Saints we begin it. If there is not a feast-day Saint, we chant "Alleluia" in the tone [of the Octoechos], and the Trinity Hymns, making prostrations according to the order of the Holy Forty Days [Great Lent];*[^851] *and at Matins we stichologize two Kathismata, and at Vespers the third; thus do we perform even unto the Exaltation of the Precious Cross. The Sessional hymns of the tone are recited after the Trinity Hymns.*
-*It is proper to know with certainty that in these fasting days, whenever "Alleluia" occurs on Wednesday or on Friday, we make prostrations, and eat once a day; likewise also on Monday we fast until the ninth hour, and eat after Vespers.*[^852] *When "God is the Lord" [is chanted], on whichever day: on Tuesday, on Thursday, on Saturday, and on Sunday, we eat twice a day; moreover, all at the discretion of the superior; and what worldly inhabitants and benefactors...*
-
-*...do in their own days according to their custom; but we, as on a fasting day: Even if among the Greeks on Monday, on Wednesday, and on Friday they eat twice a day,*[^853] *this rather the superior discerns and alters. When "God is the Lord" is on Wednesday, it is chanted in the evening, and on Monday likewise; thus also a feast day, likewise when "Alleluia" is in the daytime, by eating twice it is altered into a fasting day; thus every day is intertwined according to the order.*
-*On Monday at Matins after the commemoration of All Saints:*[^854] *Customary Kathismata two, and Sessional hymns in the Octoechos; Canons 3: in the Octoechos 2, and the third of the day; counting also the heirmoi, hold 12 troparia, besides Glory and Both now; the rest customary according to the complete order.*
-*The Hours, when "Alleluia" is [chanted], are chanted thus:*[^855] *At the end of the 2nd hour, having gathered in the narthex, we chant the 3rd Hour: 3 Psalms; at "Glory": 3 prostrations; then:* "O Lord, Who didst send down Thy Most Holy Spirit at the third hour upon Thine Apostles, take Him not from us, O Good One, but renew Him within us who pray unto Thee", *recited simply without singing, with its verses; Glory, Both now:* "Blessed is the Lord God..."; *and Trisagion; and the customary troparia, and the prayer, and 15 prostrations.*
-
-*And following the Inter-Hours, then the 3rd, and 6th, and 9th; after this the Beatitudes are said; Epistle and Gospel of the day; and the rest of the service, and Dismissal.*[^856] *Having remained quiet for a little while in the cells, and the time having arrived, he strikes the great semantron; and having gathered into church, we chant Vespers: after the Kathisma, "Lord, I have cried" in the tone of the day; we chant stichera on 6; Glory, Both now, Theotokion; and if there is an idiomelon, it is chanted at Glory; Troparion of the Saint or of the day, and Theotokion, and Dismissal.*
-*And having entered into the refectory, we eat dry food without wine, unless anyone is sick.*[^857] *And when there is no "Alleluia", we do not make prostrations, and twice a day we eat.*
-*In the morning at "God is the Lord" we chant the Troparion of the Saint and of that day; if he hath none, we recite a podoben unto him; and Kathismata 2; and Sessional hymns in the Octoechos; after Ode 3: Sessional hymn of the day; and after Ode 6: Martyrikon in the Octoechos and Kontakion; Canons 2 in the Octoechos, and of the day, making 14 troparia in all; and Reading 1 of the Praises; and stichera are not chanted, but after "Glory to God in the highest" [Doxology], at the Aposticha in the Octoechos, and we recite the verses; and* "We have been filled [in the morning with Thy mercy]" [Ps. 89:14], *and* "And let the brightness of the Lord our God be upon us" [Ps. 89:17]; *Trisagion; Glory, Both now, Kontakion...*
-
-*...and the First Hour according to custom. When "Alleluia" is [chanted], we chant at the [First] Hour:* "In the morning hear my voice, [my King and my God]" [Ps. 5:4], *with its verses; thereafter the customary prayer [of St. Ephrem] with the prostrations of the Great Fast;*[^858] *and the Hours having been completed, he strikes the small semantron, and we chant the 3rd and 6th Hours in the narthex with the Inter-Hours. And thereafter he strikes the great semantron, and begins the Liturgy, the priest having beforehand prepared according to custom.*
-*...And if there is not a feast-day Saint, the Divine Liturgy does not take place:*[^859] *on Monday: to the Bodiless [Hosts]; on Tuesday: to the Forerunner; on Wednesday: to the Most Pure Theotokos; on Thursday: to the holy Apostles; on Friday: to the Precious Cross.*
-*After the Dismissal of the Liturgy, if there is eating on that day, we go out unto the refectory, and eat whatever God hath granted. If there is a fast and prostrations, he gives a portion [antidoron] to the priest, and the paraklesiarches [gives] warm water.*[^860] *After the Dismissal of the Liturgy, having sat a little while, until the consumption of the Holy Gifts; and thereafter each departs unto his own cell, remaining silent until the time of the ninth hour. And the time having arrived...*
-
-*...of it, he strikes the small semantron; and having gathered into church, we chant the [Ninth] Hour with the rest of the order of that hour, and with 15 prostrations.*[^861] *After this he strikes the great semantron, and we chant Vespers: Kathisma 18; stichera; and in place of the prokeimenon: "Alleluia" in Tone 6; if it is not "God is the Lord", at the Aposticha in the Octoechos; Troparia:* "Theotokos Virgin, rejoice..." *simply, and the rest; and Dismissal.*
-*And at Compline: Having risen from the refectory, and rested a little, he strikes the small semantron; having gathered in the church narthex, we chant Compline: the Six Psalms; and if "Alleluia" is [chanted], we make prostrations, reciting this individually; and the rest: prayer:* "O Lord our Deliverer..."; *the priest having begun, we say:* "O come, let us worship...", *then Psalm 50; and immediately the Canon of the Theotokos; and the rest of the chanting: customary Psalms; and at the end 15 Psalms in order; and unto the Most Pure Theotokos; and after this the Trisagion; and unto that which the superior and the ekklesiarches ought to begin; and the Dismissal, and bowing before the superior:* "Forgive..."
-
-*...me, and [forgive] one another; and each departs unto his own cell in silence.*[^862] *This rule takes place on all fasting days, whenever "Alleluia" is [chanted]. But when it is "God is the Lord", prostrations are not made in the church; and of eating there is no distinction: on Tuesday and on Thursday if the superior wills, not only oil do we eat, but also fish; only let the superior observe strictly: even if it is not "God is the Lord", on Tuesday and on Thursday fish is not permitted to eat.*[^863]
-
-*SELECTED PSALMS FOR SOLEMN COMMEMORATIONS AND FEASTS OF THE LORD:*
-
-*These Psalms:*[^864]
-
-*Nativity of the Most Holy Theotokos [September 8]:*[^865]
-Remember, O Lord, David, and all his meekness! [Ps. 131:1]
-How he swore unto the Lord, and vowed a vow unto the God of Jacob! [Ps. 131:2]
-This gate of the Lord: the righteous shall enter into it! [Ps. 117:20]
-Glorious things are spoken of thee, O city of God! [Ps. 86:3]
-God is in the midst of her: she shall not be moved! [Ps. 45:6]
-The Lord hath sworn in truth unto David, and He will not turn from it: [Ps. 131:11a]
-Of the fruit of thy loins will I set...
-
-...upon Thy throne! [Ps. 131:11b]
-Return, O Lord God, unto David![^866]
-For the Lord hath chosen Zion; He hath desired it for a habitation for Himself: [Ps. 131:13]
-Rejoice in that which I have chosen![^867]
-The Most High hath sanctified His tabernacle! [Ps. 45:5b]
-Holy is Thy temple, wonderful in righteousness! [Ps. 64:5b–c]
-Holiness becomes Thine house, O Lord, unto length of days! [Ps. 92:5b–c]
-I will remember Thy name throughout all generations! [Ps. 44:18]
-Blessed be the Lord God unto ages of ages: amen, amen! [Ps. 71:19][^868]
-
-*For the Exaltation of the Precious and Life-Giving Cross [September 14]:*[^869]
-Judge Thou, O Lord, them that wrong me; fight against them that fight against me! [Ps. 34:1]
-Take hold of arms and shield, and rise up to help me! [Ps. 34:2]
-Draw out also the spear, and close the way against them that persecute me! [Ps. 34:3a]
-The light of Thy countenance is signed upon us, O Lord! [Ps. 4:7b]
-Thou hast given a sign unto them that fear Thee! [Ps. 59:6a]
-Thou hast ascended on high, Thou hast led captivity captive! [Ps. 67:19a]
-Thou hast given an heritage unto them that fear Thee, O Lord! [Ps. 60:6b]
-That Thy way may be known upon earth, Thy salvation among all nations! [Ps. 66:3]
-All the ends of the earth have seen the salvation of our God! [Ps. 97:3b]
-And they shall worship at the place...
-
-...where His feet stood! [Ps. 131:7b][^870]
-Then shall all the trees of the forest rejoice! [Ps. 95:12b]
-God is our King before the ages: He hath wrought salvation in the midst of the earth! [Ps. 73:12][^871]
-He is exalted among the nations, He is exalted in the earth! [Ps. 45:11b]
-Sing praises unto the Lord our God, and worship at His footstool, for He is holy! [Ps. 98:5][^872]
-Be Thou exalted above the heavens, O God, and Thy glory over all the earth! [Ps. 56:6]
-I will exalt Thee, O Lord my God! [Ps. 29:2a]
-Save Thy people, O Lord, and bless Thine inheritance: shepherd them, and lift them up unto eternity! [Ps. 27:9][^873]
-
-*For the Apostles:*[^874]
-The heavens declare the glory of God, and the firmament proclaims the work of His hands! [Ps. 18:2]
-The heavens shall praise Thy wonders, O Lord! [Ps. 88:6a]
-Instead of thy fathers shall be thy sons: thou shalt make them princes over all the earth! [Ps. 44:17][^875]
-The God of gods, the Lord hath spoken, and called the earth! [Ps. 49:1a]
-His lightnings lightened the world! [Ps. 96:4a]
-The heavens shall declare His righteousness! [Ps. 96:6a]
-God reigns over the nations! [Ps. 46:9a]
-God is glorified in the council of His saints![^876]
-Marvelous were His judgments! [Ps. 138:14b][^877]
-Say...
-
-...among the nations that the Lord reigns! For He hath established the world, so that it shall not be moved! [Ps. 95:10][^878]
-Into all the earth is their voice gone out, and their words unto the ends of the world! [Ps. 18:5][^879]
-He gave them the lands of the heathen, and they inherited the labors of the peoples! [Ps. 104:44]
-He hath subdued peoples under us, and nations under our feet! [Ps. 46:4]
-The Lord hath chosen an inheritance for Himself! [Ps. 46:5 / 134:4][^880]
-Great is our Lord, and great is His power, and of His understanding there is no number! [Ps. 146:5]
-He shall give strength and power unto His people! [Ps. 67:36c]
-
-*For Martyrs:*[^881]
-God is our refuge and strength, a helper in afflictions that have come upon us exceedingly! [Ps. 45:2]
-Therefore will we not fear when the earth is troubled! [Ps. 45:3a][^882]
-O God, who shall be like unto Thee? Keep not silence, nor be still, O God! [Ps. 82:2]
-For lo, Thine enemies have made a tumult, and they that hate Thee have lifted up the head! [Ps. 82:3]
-Against Thy people have they taken crafty counsel, and conspired against Thy holy ones! [Ps. 82:4]
-They have said: Come, and let us destroy them from among the nations! [Ps. 82:5a][^883]
-They have laid the dead bodies of Thy...
-
-...servants to be food for the birds of heaven, the flesh of Thy holy ones for the wild beasts of the earth! [Ps. 78:2][^884]
-Their blood have they shed like water! [Ps. 78:3a]
-We are accounted as sheep for the slaughter! [Ps. 43:23b]
-While my bones were broken, mine enemies reproached me! [Ps. 41:11a]
-I was ready for stripes the whole day long, and they added grief unto my wounds! [Ps. 37:18b / 68:27][^885]
-For Thou, O God, hast proved us: Thou hast tried us with fire, even as silver is tried! [Ps. 65:10]
-We went through fire and through water, and Thou broughtest us out into Thy rest! [Ps. 65:12b][^886]
-The righteous cried, and the Lord heard them, and saved them out of all their afflictions! [Ps. 33:18]
-Many are the afflictions of the righteous, but the Lord shall deliver them out of them all! [Ps. 33:20]
-The righteous shall be glad in the Lord! [Ps. 63:11a]
-Give praise unto the remembrance of His holiness! [Ps. 29:5b / 96:12b]
-Rejoice in the Lord, O ye righteous: praise is meet for the upright! [Ps. 32:1]
-The righteous shall be in everlasting remembrance: he shall not be afraid of an evil report! [Ps. 111:6b–7a][^887]
-Unto the saints that are in His earth: the Lord hath made marvelous all His desires...
-
-...in them! [Ps. 15:3][^888]
-The righteous shall flourish like a palm tree: he shall grow like a cedar in Lebanon! [Ps. 91:13]
-Those that are planted in the house of the Lord shall flourish in the courts of the house of our God! [Ps. 91:14]
-And all the upright in heart shall glory! [Ps. 63:11b]
-
-*For Hierarchs:*[^889]
-Hear these things, all ye nations; give ear, all ye that inhabit the world! [Ps. 48:2][^890]
-Both the earth-born and the sons of men, rich and poor together! [Ps. 48:3]
-My mouth shall speak wisdom, and the meditation of my heart shall be understanding! [Ps. 48:4]
-Come, ye children, listen unto me: I will teach you the fear of the Lord! [Ps. 33:12]
-I have declared the good tidings of Thy righteousness in the great congregation! [Ps. 39:10a]
-I have not hidden Thy righteousness within my heart: I have declared Thy truth and Thy salvation! [Ps. 39:11a]
-I have not concealed Thy mercy from the great assembly! [Ps. 39:11b][^891]
-I will confess Thee in the great congregation! [Ps. 34:18a]
-My tongue shall meditate on Thy righteousness! [Ps. 34:28a]
-Let my mouth be filled with Thy praise, that I may sing of Thy glory! [Ps. 70:8]
-Lord, I have loved the beauty...
-
-...of Thine house! [Ps. 25:8a][^892]
-I have not sat with the council of vanity, neither will I enter in with transgressors! [Ps. 25:4]
-I said unto the transgressors: Deal not transgressively! [Ps. 74:5a]
-I have hated the congregation of evil-doers, and will not sit with the ungodly! [Ps. 25:5]
-And I will go round, and offer in His tabernacle a sacrifice of praise! [Ps. 26:6b][^893]
-But I am as a fruitful olive tree: I have trusted in the mercy of God, for it is great! [Ps. 51:10][^894]
-For I have kept the ways of the Lord, and have not acted wickedly against my God! [Ps. 17:22]
-For all His judgments were before me, and His statutes departed not from me! [Ps. 17:23]
-The mouth of the righteous shall meditate wisdom, and his tongue shall speak judgment! [Ps. 36:30]
-The righteous shall be in everlasting remembrance: he shall not be afraid of an evil report! [Ps. 111:6b–7a]
-All the day long the righteous shows mercy, and lends; and his seed is blessed! [Ps. 36:26][^895]
-The righteous shall flourish like a palm tree: he shall grow like a cedar in Lebanon! [Ps. 91:13]
-For Thou, O Lord, wilt bless the righteous! [Ps. 5:13a]
-The righteous shall rejoice...
-
-...in the Lord, and shall trust in Him! [Ps. 63:11a]
-Thy priests shall be clothed with righteousness, and Thy venerable ones shall rejoice with joy! [Ps. 131:9][^896]
-
-*For the Venerable [Monastics]:*[^897]
-With patience I waited for the Lord, and He inclined unto me! [Ps. 39:2a]
-He set my feet upon a rock, and ordered my goings! [Ps. 39:3a]
-I am become like a pelican of the wilderness, I am become like an owl in a ruined place! [Ps. 101:7][^898]
-I was forgotten, like a solitary bird upon a nest! [Ps. 101:8][^899]
-My tears have been my bread day and night! [Ps. 41:4a]
-I humbled my soul with fasting! [Ps. 34:13b]
-My knees are grown weak through fasting! [Ps. 108:24a]
-And I mingled my drink with weeping! [Ps. 101:10b]
-I am weary with my groaning; every night will I wash my bed! [Ps. 6:7a]
-By reason of the voice of my groaning my flesh cleaves unto my bone! [Ps. 101:6][^900]
-I waited for God Who saves me from faint-heartedness and tempest! [Ps. 54:9][^901]
-By the words of Thy lips I have kept the harsh paths! [Ps. 16:4b]
-My soul has thirsted...
-
-...for Thee: how manifoldly hath my flesh longed for Thee in a barren land! [Ps. 62:2b][^902]
-As for me, when they troubled me, I put on sackcloth, and humbled my soul with fasting! [Ps. 34:13a]
-I beheld the Lord always before me; for He is on my right hand, that I should not be moved! [Ps. 15:8][^903]
-The Lord was my stay: He brought me forth into a large place! [Ps. 17:19b–20a]
-All nations compassed me about, and in the name of the Lord I warded them off! [Ps. 117:10]
-Blessed be the Lord, Who hath not given us over as a prey to their teeth! [Ps. 123:6]
-Depart from me, all ye that work iniquity! [Ps. 6:9a]
-The Lord preserves the souls of His venerable ones! [Ps. 96:10b]
-The venerable ones shall boast in glory, they shall rejoice upon their beds! [Ps. 149:5]
-Precious in the sight of the Lord is the death of His venerable ones! [Ps. 115:6][^904]
-Confess the remembrance of His holiness! [Ps. 29:5b]
-
-*For Archangels and Angels:*[^905]
-Praise the Lord from the heavens: praise Him in the heights! [Ps. 148:1]
-Praise Him, all ye His angels: praise Him, all ye His hosts! [Ps. 148:2]
-Praise Him, all ye stars...
-
-...and light! For He spoke, and they were made; He commanded, and they were created! [Ps. 148:3b, 5b][^906]
-Bless the Lord, O my soul, and all that is within me, bless His holy name! [Ps. 102:1]
-Bless the Lord, all ye His angels, mighty in strength, that fulfill His word, listening unto the voice of His words! [Ps. 102:20]
-Bless the Lord, all ye His hosts, ye ministers of His that do His will! [Ps. 102:21]
-Who makes His angels spirits, and His ministers a flaming fire! [Ps. 103:4][^907]
-He rode upon the Cherubim, and flew: He flew upon the wings of the wind! [Ps. 17:11]
-Thou that sittest upon the Cherubim, show Thyself! [Ps. 79:2b]
-I will praise Thee with my whole heart, and before the angels will I sing praise unto Thee! [Ps. 137:1]
-Worship Him, all ye His angels! [Ps. 96:7b]
-God sits upon His holy throne! [Ps. 46:9b]
-The Lord is in His holy temple, the Lord's throne is in heaven! [Ps. 10:4a]
-His kingdom rules over all! [Ps. 102:19b]
-Sing unto God, sing praises to His name! Sing unto God Who ascended above the heaven of heavens to the east! [Ps. 67:5a, 34a][^908]
-The angel of the Lord shall encamp round about them that fear Him, and deliver them! [Ps. 33:8]
-For He shall give His angels charge concerning thee, to keep thee in all thy...
-
-...ways! [Ps. 90:11][^909]
-Let them be as dust before the face of the wind, and let the angel of the Lord afflict them! [Ps. 34:5]
-Let their way be dark and slippery, and let the angel of the Lord pursue them! [Ps. 34:6][^910]
-Praise God in His saints: praise Him in the firmament of His power! [Ps. 150:1]
-Praise Him for His mighty acts: praise Him according to the multitude of His greatness! [Ps. 150:2]
-Praise Him with the sound of the trumpet: praise Him with the psaltery and harp! [Ps. 150:3]
-Praise Him with the timbrel and dance: praise Him with strings and organs! [Ps. 150:4]
-Praise Him upon the loud cymbals: praise Him upon the cymbals of jubilation! [Ps. 150:5]
-Let everything that hath breath praise the Lord! [Ps. 150:6][^911]
-
-*For the Entry of the Most Holy Theotokos into the Temple [November 21]:*[^912]
-Great is the Lord, and greatly to be praised in the city of our God, in His holy mountain! [Ps. 47:2]
-Well-rooted with the joy of the whole earth! [Ps. 47:3a][^913]
-Glorious things are spoken of thee, O city of God! [Ps. 86:3]
-God is known in her palaces, when...
-
-...He defends her! [Ps. 47:4][^914]
-As we have heard, so have we also seen, in the city of the Lord of hosts, in the city of our God: God hath established it unto eternity! [Ps. 47:9]
-The Most High hath sanctified His tabernacle! [Ps. 45:5b]
-God is in the midst of her, she shall not be moved! [Ps. 45:6a]
-Sanctity and majesty are in His sanctuary! [Ps. 95:6b][^915]
-This is the gate of the Lord: the righteous shall enter into it! [Ps. 117:20]
-According to Thy name, O God, so is Thy praise unto the ends of the earth! [Ps. 47:11a]
-Holy is Thy temple, marvelous in righteousness! [Ps. 64:5b–c]
-Holiness becomes Thine house, O Lord, unto length of days! [Ps. 92:5b]
-Kings' daughters were in Thine honor: upon Thy right hand stood the queen in vesture of gold, all-embroidered and adorned! [Ps. 44:10][^916]
-Hear, O daughter, and see, and incline thine ear; forget also thine own people, and thy father's house! [Ps. 44:11]
-So shall the King greatly desire thy beauty! [Ps. 44:12a]
-The rich among the people shall entreat thy countenance! [Ps. 44:13b]
-All the glory of the king's daughter is within! [Ps. 44:14a][^917] ...in golden borders, all adorned![^918] Virgins shall be brought unto the King after her: her companions shall be brought unto thee; they shall be brought with gladness and rejoicing, they shall be brought into the King's temple.[^919] We have thought of Thy mercy, O God, in the midst of Thy people.[^920] I will remember Thy name from generation unto generation: therefore shall the people praise Thee forever, even unto ages of ages.[^921]
-
-*For the Nativity of Christ:*[^922]
-Shout unto God, all the earth: sing forth unto His name, give glory unto His praise![^923]
-Let the heavens rejoice, and let the earth be glad![^924]
-Praise and majesty are in His work![^925]
-Gracious is the Lord:[^926] He hath sent redemption unto His people, holy and awesome is His name![^927]
-Fairer in beauty art Thou than the sons of men![^928]
-Our God is in heaven and on earth: all whatsoever He pleased, He hath done![^929]
-I have made a covenant with My chosen: I have sworn unto David My servant...
-
-...Thy mercy is prepared forever: Thy throne will I build up unto all generations;[^930] as the sun before Me, and as the moon perfected from generation to generation.[^931] His seed will I make to endure forever, and His throne as the days of heaven.[^932]
-He shall have dominion also from sea to sea, and from the rivers unto the ends of the earth.[^933]
-His name endures before the sun, and all the tribes of the earth shall be blessed in Him.[^934]
-The Lord said unto my Lord: Sit Thou at My right hand, until I make Thine enemies the footstool of Thy feet![^935]
-The Lord shall send the rod of Thy power out of Zion: rule Thou in the midst of Thine enemies![^936]
-With Thee is dominion in the day of Thy power, in the splendors of Thy saints: from the womb before the morning star have I begotten Thee![^937]
-The Lord hath sworn, and will not repent: Thou art a priest forever after the order of Melchizedek![^938]
-Great is the Lord, as our God! Thou art the God that doest wonders: Thou hast made known Thy strength among the peoples![^939]
-The arm of Thy power hath scattered Thine enemies![^940]
-
-Gird Thy sword upon Thy thigh, O Mighty One, in Thy beauty; draw Thy bow, prosper, and reign, for the sake of truth, and meekness, and righteousness![^941]
-Thy throne, O God, is unto ages of ages: a scepter of uprightness is the scepter of the power of Thy kingdom![^942]
-Thou hast loved righteousness, and hated iniquity: therefore God, Thy God, hath anointed Thee with the oil of gladness above Thy companions;[^943] for Thou shalt inherit among all nations![^944]
-
-*For the Theophany:*[^945]
-God be gracious unto us, and bless us: make Thy face to shine upon us, and have mercy on us![^946]
-Draw near unto Him, and be enlightened: and your faces shall not be put to shame![^947]
-The streams of the river make glad the city of God![^948]
-The Most High uttered His voice, the earth shook![^949]
-The voice of the Lord is upon the waters: the God of glory thundered, the Lord is upon [many] waters; the river...
-
-...of God is full of water![^950] The Lord sends the flood; the Lord sits as King forever; He will give His voice, a voice of power: give ye glory unto God![^951]
-The floods have lifted up, O Lord, the floods have lifted up their voices; the floods lift up their waves, from the voice of many waters![^952]
-Let the rivers clap their hands together![^953]
-Therefore will I remember Thee from the land of Jordan, and of Hermon, from the little mountain![^954]
-Deep calls unto deep at the voice of Thy cataracts![^955]
-They shall be abundantly satisfied with the fatness of Thy house: and Thou shalt make them drink of the torrent of Thy delights;[^956]
-For with Thee is the fountain of life: in Thy light shall we see light![^957]
-The sea saw it, and fled: Jordan was turned back at the face of the God of Jacob, who turned the rock into pools of water![^958]
-Make Thy face to shine, and save me![^959]
-Thou didst establish the sea by Thy strength: Thou didst crush the heads of the dragons in the water![^960]
-
-Thou gavest him to be food for the Ethiopian people![^961]
-Thou didst cleave the fountains and the torrents![^962]
-The waters saw Thee, O God, and they were afraid; at the voice of Thy thunder they shall be terrified![^963]
-The clouds uttered a voice, and Thine arrows passed through![^964]
-The voice of Thy thunder was in the wheel; Thy lightnings illumined the world; the earth was moved and trembled![^965]
-Thy paths are in the sea, and Thy ways in many waters, and Thy footsteps shall not be known![^966]
-O Lord, how magnified are Thy works: in wisdom hast Thou made them all![^967]
-
-*For the Dormition of the Most Pure [Theotokos]:*[^968]
-My heart hath poured forth a good word; I speak of my works unto the King: my tongue is the pen of a scribe that writes swiftly![^969]
-Fairer art thou in beauty than the sons of men: therefore hath God blessed thee forever![^970]
-Gird thy sword upon thy thigh, O mighty one; in thy comeliness and in thy beauty bend thy bow, prosper, and reign, for the sake of truth, and meekness, and right...
-
-...eousness; and thy right hand shall guide thee marvelously![^971]
-Thine arrows are sharp, O mighty one; peoples shall fall under thy feet, in the heart of the King's enemies![^972]
-Thy throne, O God, is unto ages of ages: a scepter of uprightness is the scepter of thy kingdom![^973]
-Thou hast loved righteousness, and hated iniquity: therefore God, thy God, hath anointed thee with the oil of gladness above thy companions![^974]
-Myrrh, and stacte, and cassia perfume thy garments, out of the ivory palaces, whereby they have made thee glad.[^975]
-Kings' daughters were in thine honor: upon thy right hand stood the queen in vesture of gold, all-embroidered and adorned.[^976]
-Hear, O daughter, and see, and incline thine ear; forget thine own people, and thy father's house; so shall the King desire thy beauty, for He is thy God, and thou shalt worship Him![^977]
-And the daughter of Tyre shall be there with gifts; unto thy...
-
-...countenance shall the rich among the people entreat.[^978]
-All the glory of the King's daughter is within: in golden borders, all adorned.[^979]
-The Lord is in His holy temple; the Lord's throne is in heaven.[^980]
-Holiness and majesty are in His sanctuary; God is in His holy place.[^981]
-In His temple everyone speaks of His glory.[^982]
-The Most High hath sanctified His tabernacle.[^983]
-Thy goings have been seen, O God, even the goings of my God, my King, who is in the sanctuary: Thy way, O God, is in the sanctuary![^984]
-Holy is Thy temple, marvelous in righteousness; holiness becomes Thine house, O Lord, unto length of days.[^985]
-I will remember Thy name from generation unto generation.[^986]
-So will I sing praise unto Thy name forever; I will wait upon Thy name, for it is good before Thy saints.[^987]
-
-*For the Annunciation:*[^988]
-Give the King Thy judgments, O God, and Thy righteousness unto the King's Son:[^989]
-To judge Thy people with righteousness, and Thy poor with...
-
-...judgment.[^990] Let the mountains bring peace to the people, and the little hills righteousness.[^991]
-He shall judge the poor of the people, He shall save the children of the needy, and shall humble the false accuser; and He shall endure as long as the sun.[^992]
-Proclaim from day to day the salvation of our God![^993]
-The Lord shall give the word unto them that announce the good tidings, with great power.[^994]
-The Lord hath sworn in truth unto David, and He will not turn from it: Of the fruit of thy body will I set upon thy throne.[^995]
-He shall come down like rain upon the fleece, and as drops falling upon the earth.[^996]
-The Lord bowed the heavens, and came down: and darkness was under His feet.[^997]
-For the Lord hath chosen Zion, He hath desired it for His habitation.[^998]
-The Most High hath sanctified His tabernacle.[^999]
-I heard a tongue which I knew not.[^1000]
-God is in the midst of her, she shall not be moved; our God shall come visibly, and shall not keep silence.[^1001]
-In His days shall righteousness flourish, and abundance of peace, until the moon be no more.[^1002]
-He shall have dominion also from sea to sea, and from the rivers unto the ends of the earth.[^1003]
-Precious in...
-
-...His sight shall their name be: and He shall live, and unto Him shall be given of the gold of Arabia; prayer shall be made for Him continually, and all the day shall He be blessed.[^1004]
-Blessed be His name forever; His name endures before the sun, and all the tribes of the earth shall be blessed in Him; all nations shall magnify Him.[^1005]
-Blessed be the name of His glory forever, and all the earth shall be filled with His glory: Amen, Amen![^1006]
-
-*For Palm Sunday [Flower Sunday]:*[^1007]
-O Lord our Lord, how marvelous is Thy name in all the earth: for Thy majesty is exalted above the heavens![^1008]
-Out of the mouth of babes and sucklings hast Thou perfected praise, because of Thine enemies, that Thou mightest destroy the enemy and the avenger.[^1009]
-The Lord is great in Zion, and He is high above all people.[^1010]
-The God of gods shall appear in Zion.[^1011]
-For He hath strengthened the bars of thy gates: He hath blessed thy children within thee.[^1012]
-Encompass Zion, and go round about her![^1013]
-Declare the name of the Lord in Zion, and His praise in Jerusalem![^1014]
-Sing praises unto the Lord who dwells in Zion: de...
-
-...clare His deeds among the nations![^1015]
-For God is the King of all the earth: sing ye praises with understanding![^1016]
-God reigns over the nations; shout joyfully before the Lord, the King![^1017]
-For God will save Zion, and the cities of Judah shall be built.[^1018]
-Praise becomes Thee, O God, in Zion: and unto Thee shall the vow be performed in Jerusalem.[^1019]
-Blessed is He that comes in the name of the Lord: God is the Lord, and hath appeared unto us![^1020]
-That they may declare all Thy praises in the gates of the daughter of Zion![^1021]
-Give thanks unto Him, and praise His name in the city of the Lord of hosts, in the city of our God, in the courts of the house of the Lord, in the midst of thee, O Jerusalem![^1022]
-The Lord shall reign forever, even thy God, O Zion, unto generation and generation; and His praise endures forever![^1023]
-
-*On the Sunday of Antipasch [Thomas Sunday]:*[^1024]
-The Lord reigns, He is clothed with majesty; the Lord is clothed with strength, wherewith He hath girded Himself: for He hath established the world, so that it cannot be moved; Thy throne is prepared...[^1025]
-
-...Thy throne is prepared of old: Thou art from everlasting.[^1026]
-Who shall declare the mighty acts of the Lord, or cause all His praises to be heard?[^1027]
-Let them say so whom the Lord hath redeemed, whom He hath delivered from the hand of the enemy.[^1028]
-Let them give thanks unto the Lord for His mercies, and for His marvelous works unto the children of men![^1029]
-For He satisfies the empty soul, and fills the hungry soul with good things.[^1030]
-Then they cried unto the Lord in their affliction, [and He delivered them out of their distresses].[^1031]
-And He brought them out of darkness and the shadow of death.[^1032]
-For He hath shattered the gates of brass, and broken the bars of iron in pieces.[^1033]
-And Thou didst deliver us from their destructions, and He brake their bonds in sunder.[^1034]
-And let them sacrifice unto Him the sacrifice of praise, and declare His works with rejoicing![^1035]
-Let them exalt Him in the congregation of the people, and praise Him in the seat of the elders![^1036]
-For the Lord hath given ear unto the poor.[^1037]
-And He smote His enemies backward![^1038]
-Praise the Lord, O Jerusalem; praise thy God, O Zion: for He hath strengthened the bars of thy gates![^1039]
-Let God arise, and let all His enemies be scattered...[^1040]
-
-...and let them that hate Him flee from before His face![^1041]
-Let heaven and earth praise Him, the seas and everything that moves therein![^1042]
-This is the day which the Lord hath made; let us rejoice and be glad in it![^1043]
-Arise, O Lord my God, let Thine hand be lifted up; forget not Thy poor unto the end![^1044]
-O Lord my God, I will give thanks unto Thee forever![^1045]
-
-*For the Ascension:*[^1046]
-O clap your hands, all ye nations; shout unto God with the voice of rejoicing![^1047]
-For the Lord Most High is fearsome; He is a great King over all the earth.[^1048]
-He hath subdued peoples under us, and nations under our feet.[^1049]
-He hath chosen His inheritance for us.[^1050]
-God is gone up with a shout, the Lord with the sound of a trumpet![^1051]
-He mounted upon the cherubim and flew; He makes the clouds His ascent![^1052]
-Lift up your gates, O ye princes, and be ye lifted up, ye everlasting doors, and the King of glory shall enter in![^1053]
-The Lord of hosts, He is the King of glory![^1054]
-Worship Him, all ye His angels![^1055]
-The Lord sits upon His holy throne.[^1056]
-O Lord, Thy mercy is in heaven, and Thy truth reaches unto the clouds.[^1057]
-Thy throne [O God, is unto ages of ages]...[^1058]
-
-...of ages; Thy throne is prepared from of old: Thou art from everlasting.[^1059]
-Thou hast ascended on high, Thou hast led captivity captive.[^1060]
-For Thy majesty is exalted above the heavens![^1061]
-I will be exalted among the nations, I will be exalted in the earth![^1062]
-Be Thou exalted, O God, above the heavens, and Thy glory above all the earth![^1063]
-Be Thou exalted in Thine own strength: so will we sing and praise Thy power![^1064]
-Sing unto God, ye kingdoms of the earth; chant ye praises unto Him that rids upon the heaven of heavens toward the east![^1065]
-Exalt ye the Lord our God, and worship at His holy mountain: for holy is the Lord our God![^1066]
-
-*For Pentecost:*[^1067]
-The heavens declare the glory of God, and the firmament proclaims the work of His hands![^1068]
-By the word of the Lord were the heavens established, and all the host of them by the Spirit of His mouth.[^1069]
-From heaven did the Lord look down; He looked forth from the height of His sanctuary.[^1070]
-A fire goes before Him, and round about Him a mighty tempest![^1071]
-Coals of fire were kindled from Him![^1072]
-He bowed the heavens, and came down.[^1073]
-Out of Zion is the magnificence of His beauty; [all the ends of the earth] shall remember...[^1074]
-
-...shall remember and turn unto the Lord, all the ends of the earth![^1075]
-And all the kindreds of the nations shall worship before Him.[^1076]
-The testimony of the Lord is faithful, making wise the simple.[^1077]
-The voice of the Lord is powerful; the voice of the Lord is full of majesty![^1078]
-The earth kept silence; the heavens dropped dew at the presence of the God of Israel.[^1079]
-Instead of thy fathers shall be thy children: Thou shalt make them princes over all the earth.[^1080]
-Their sound is gone out into all the earth, and their words unto the ends of the world.[^1081]
-Thou shalt send forth Thy Spirit, and they shall be created; and Thou shalt renew the face of the earth.[^1082]
-Whither shall I go from Thy Spirit, or whither shall I flee from Thy face?[^1083]
-Thy good Spirit shall lead me into the land of uprightness.[^1084]
-Cast me not away from Thy presence, and take not Thy Holy Spirit from me![^1085]
-Create in me a clean heart, O God, and renew a right spirit within me.[^1086]
-Restore unto me the joy of Thy salvation, and establish me with Thy sovereign Spirit.[^1087]
-The Lord shall give the word unto them that announce the good tidings...[^1088]
-
-...with great power; the Lord will give strength unto His people![^1089]
-
-*For the Transfiguration:*[^1090]
-Great is the Lord, and greatly to be praised in the city of our God, in His holy mountain![^1091]
-The mountains shook with His strength.[^1092]
-Who coverest Thyself with light as with a garment![^1093]
-Praise and majesty are before Him.[^1094]
-The mountains skip at the presence of the Lord.[^1095]
-The mountain of God is a fertile mountain, a curded mountain, a rich mountain![^1096]
-Who shall ascend into the mountain of the Lord, or who shall stand in His holy place?[^1097]
-The mountain which His right hand hath formed, the mountain which God hath desired to dwell in![^1098]
-He shall fulfill the desires of those that hope in Him, and He shall bring forth Thy righteousness as the light.[^1099]
-Lord, who shall abide in Thy tabernacle, or who shall dwell in Thy holy mountain?[^1100]
-O send out Thy mercy and Thy truth: they have led me, they have brought me unto Thy holy mountain![^1101]
-Thou shinest forth marvelously from the everlasting mountains.[^1102]
-Light is risen for the righteous...[^1103]
-
-...and gladness for the upright in heart![^1104]
-Thine is the day, and Thine is the night: Thou hast prepared the light and the sun.[^1105]
-Thou hast set all the borders of the earth: Thou hast made summer and spring; remember this![^1106]
-The heavens are Thine, the earth also is Thine: as for the world and the fullness thereof, Thou hast founded them.[^1107]
-Tabor and Hermon shall rejoice in Thy name![^1108]
-O Lord, they shall walk in the light of Thy countenance, and in Thy name shall we rejoice all the day.[^1109]
-And let the brightness of the Lord our God be upon us, from henceforth and unto all ages![^1110]
-
-*To the Forerunner, for all his feasts:*[^1111]
-Lo, I fled afar off, and lodged in the wilderness.[^1112]
-I am become like a pelican of the wilderness; I am become like an owl in a ruined dwelling.[^1113]
-I am forgotten, like a solitary bird upon a nest.[^1114]
-I am shaken off as the locust; my knees are grown weak through fasting.[^1115]
-My heart said unto Thee: I have sought Thy face; Thy face, O Lord, will I seek.[^1116]
-Without iniquity did I run and direct my steps: he that walks uprightly...[^1117]
-
-...and works righteousness![^1118]
-I have not hid Thy righteousness within my heart; I have declared Thy salvation.[^1119]
-I said unto the transgressors: Deal not iniquitously; and to the sinners: Lift not up the horn![^1120]
-Lo, I did not refrain my lips: O Lord, Thou knowest![^1121]
-And my tongue shall meditate upon Thy righteousness and Thy praise all the day long.[^1122]
-Blessed is the man that fears the Lord, that delights greatly in His commandments.[^1123]
-His seed shall be mighty upon earth; glory and riches shall be in his house.[^1124]
-His righteousness endures forever; unto the upright there hath shined light in the darkness.[^1125]
-A good man shows favor, and lends; he will guide his words with discretion in judgment.[^1126]
-Surely he shall not be moved forever: the righteous shall be in everlasting remembrance.[^1127]
-He shall not be afraid of evil tidings: his heart is fixed, trusting in the Lord![^1128]
-
-*And here are the Magnifications of the Saints, and of the Feasts of the Lord:*[^1129]
-
-*For the Nativity of the Theotokos:*
-*Refrain [Pripyv]:*
-*Selected Psalm:* "Remember, O Lord, David [and all his meekness]" (Ps. 131). *Alleluia; Stasis; Against the Psalm; Singing:* It is meet to bless...[^1130]
-
-...to bless Thee, O Theotokos, more honorable than the Cherubim, and beyond compare more glorious than the Seraphim![^1131]
-
-*And another refrain:*
-*Megalynarion:* We magnify Thee, O Most Holy Virgin, and we honor Thy holy parents, and we glorify Thy most glorious Nativity![^1132]
-
-*For the Exaltation [of the Precious Cross]: Selected Psalm.*[^1133]
-*Megalynarion:* We magnify Thee, O Christ Giver of life, and we honor Thy precious Cross, and we glorify Thine all-glorious Exaltation![^1134]
-*Another [refrain]:* We magnify Thee, O Christ Giver of life, and we honor Thy precious Cross, whereby Thou hast saved us from the bondage of the enemy![^1135]
-
-*For the Entry [of the Theotokos into the Temple]: Selected Psalm: the same as for the Nativity of the Theotokos.*[^1136]
-*Megalynarion:* We magnify Thee, O Most Pure Virgin, God-chosen Maiden, and we venerate Thine entrance into the temple of the Lord![^1137]
-
-*For the Nativity of Christ:*[^1138]
-*Megalynarion:* We magnify Thee, O Christ Giver of life, and we honor Thy precious Godhead, and we glorify Thy most glorious Nativity![^1139]
-*Another [refrain]:* We magnify Thee, O Christ Giver of life, who for our sake wast born in the flesh of the Ever-Virgin Mary![^1140]
-
-*For Holy Theophany: Selected Psalm.*[^1141]
-*Megalynarion:* We magnify Thee, O Christ Giver of life, and we honor Thy precious baptism...
-
-...precious baptism, and we glorify Thy most glorious Theophany![^1142]
-*Another [refrain]:* We magnify Thee, O Christ Giver of life, who for our sake wast baptized by John in the waters of the Jordan![^1143]
-
-*For the Meeting [Hypapante of the Lord]: Selected Psalm.*[^1144]
-*Megalynarion:* We magnify Thee, O Christ Giver of life, and we honor Thy precious Godhead, and we glorify Thy most glorious Meeting![^1145]
-*Another [refrain]:* We magnify Thee, O Christ Giver of life, and we honor Thy Most Holy Mother, by whom Thou wast now brought according to the law into the temple of the Lord![^1146]
-
-*For the Annunciation: [Troparion/Refrain]:* With the voice of the Archangel we cry aloud unto thee, O Pure Virgin: Rejoice, thou that art full of grace, the Lord is with thee![^1147]
-
-*For Flower Sunday [Palm Sunday]:*[^1148]
-*Megalynarion:* We magnify Thee, O Christ Giver of life, and we honor Thy precious Entrance, and we glorify Thine all-glorious meeting![^1149]
-*Another [refrain]:* We magnify Thee, O Christ Giver of life: Hosanna in the highest, we cry aloud unto Thee: Blessed is He that comes in the name of the Lord![^1150]
-
-*On Great and Holy Saturday: Kathisma 17 all to the end, in three stases:*[^1151]
-*First Stasis Megalynarion:* We magnify Thee, O Christ Giver of life, who for the sake of our wounds wast buried, Thou who dost raise up and give life unto the dead![^1152]
-*At the second [stasis, after] "Glory...":* We magnify Thee...[^1153]
-
-...O Christ Giver of life, Thou who hast shattered the gates of Hades![^1154]
-At the third stasis, at the third "Glory...": Every generation offers a hymn of praise unto Thy burial, O Christ![^1155]
-
-*On Thomas Sunday [Antipascha]:*[^1156]
-*Megalynarion:* We magnify Thee, O Christ Giver of life, and we honor Thy precious Godhead, and we glorify Thy most glorious Resurrection![^1157]
-*Another [refrain]:* We magnify Thee, O Christ Giver of life, who for our sake didst descend into Hades, and hast raised up all with Thyself![^1158]
-
-*For the Ascension:*[^1159]
-*Megalynarion:* We magnify Thee, O Christ Giver of life, and we honor Thy precious Godhead, and we glorify Thy most glorious Ascension![^1160]
-*Another [refrain]:* We magnify Thee, O Christ Giver of life, and we venerate Thine ascension into heaven with Thine immaculate flesh, and we glorify Thine all-glorious divine Ascension![^1161]
-
-*On the 50th Sunday [Pentecost]:*[^1162]
-*Megalynarion:* We magnify Thee, O Christ Giver of life, and we honor Thy precious and Holy Spirit, and we glorify Thine all-glorious descent![^1163]
-*Another [refrain]:* We magnify Thee, O Christ Giver of life, and we honor Thine All-Holy Spirit, which Thou hast sent from the Father unto Thy divine disciples![^1164]
-
-*For the Transfiguration: Selected Psalm.*[^1165]
-*Megalynarion:* We magnify Thee, O Christ Giver of life, and we honor Thy precious Godhead...[^1166]
-
-...divine [countenance], and we glorify Thy most glorious Transfiguration.[^1167]
-
-*Another [refrain]:*
-*Megalynarion:* We magnify Thee, O Christ Giver of life, and we honor Thy divine flesh, and we glorify Thy most glorious Transfiguration.[^1168]
-
-*For the Dormition of the Theotokos: Selected Psalm. Then the refrain [pripyv]:*[^1169]
-*Refrain:* It is meet to bless Thee, O Theotokos, more honorable than the Cherubim, and beyond compare more glorious than the Seraphim.[^1170]
-
-*Another [refrain]:*
-Let us offer every spiritual song unto the Theotokos.[^1171]
-
-*And here is the third refrain:*
-*Megalynarion:* We magnify Thee, O Most Immaculate Mother of Christ our God, and we glorify Thine all-glorious Dormition.[^1172]
-
-*For the Protection [Pokrov]: Selected Psalm: "All Thy judgments..." Then the refrain:*[^1173]
-*Megalynarion:* We magnify Thee, O Most Immaculate Mother of Christ our God, and we glorify Thine all-holy, virginal, and precious Protection.[^1174]
-
-*For the Nativity of John the Baptist: Selected Psalm: "Lo, I fled afar off..."*[^1175]
-*Megalynarion:* We magnify thee, O Forerunner of the Savior, and we honor thy birth from the barren one, and we glorify thy most glorious Nativity.[^1176]
-
-*Then for his feast:*[^1177]
-*Megalynarion:* We magnify thee, O Forerunner of the Savior, and...
-
-...we honor thy precious icon, and we glorify thy most glorious Nativity.[^1178]
-
-*And here are the refrains for Holy Monastic Fathers: Selected Psalm: "With patience I waited..."*[^1179]
-*Megalynarion:* We magnify thee, O venerable father [Name], and we honor thy precious icon: for thou dost pray for us unto Christ our God.[^1180]
-
-*For Martyrs: Selected Psalm: "God is our refuge..."*[^1181]
-*Megalynarion:* We magnify thee, O passion-bearer of Christ [Name], and we honor thy precious icon: for thou dost pray for us unto Christ our God.[^1182]
-
-*For Holy Hierarchs, and for Saint Father Nicholas: Selected Psalm: "Hear this, all ye nations..."*[^1183]
-*Megalynarion:* We magnify thee, O hierarch of Christ [Name], and we honor thy precious icon: for thou dost pray for us unto Christ our God.[^1184]
-
-*General for Apostles: Selected Psalm: "The heavens declare..." and the refrain:*[^1185]
-*Megalynarion:* We magnify thee, O Apostle of Christ [Name], and we honor thy pains and labors, wherewith thou didst labor in the proclamation of the Gospel of Christ.[^1186]
-
-*And for Father Chariton: the same refrain.*[^1187]
-
-*And here for Saint George: Selected Psalm: "God is our refuge..."*[^1188]
-*Megalynarion:* We magnify thee, O martyr of Christ George, and we honor thy sufferings, which thou didst endure for Christ.[^1189]
-
-*And here for the Three Hierarchs: Selected Psalm: "Hear this, all ye nations..."*[^1190]
-*Megalynarion [to Saint Basil]:* We magnify thee, O hierarch of Christ, Father Basil, who piously and blamelessly preserved the Church of Christ.[^1191]
-
-*Another [refrain]: "It is meet..."*[^1192]
-*Megalynarion [to Saint Gregory]:* We magnify thee, O hierarch of Christ Gregory the Theologian, who didst search out the depths of the Spirit and bring forth the beauty of utterance.[^1193]
-
-*The third [refrain, to Saint John Chrysostom]:*
-All generations in songs of repentance [magnify] the venerable Chrysostom, the blessed John.[^1194]
-
-*For the Holy Apostles Peter and Paul: Selected Psalm: "The heavens declare..." and the refrain:*[^1195]
-*Megalynarion:* We magnify you, O Apostles of Christ, who by the teaching of the fisherman's nets did enlighten the whole world and bring all ends of the earth to Christ.[^1196]
-
-*For an Apostle: Selected Psalm: "The heavens declare..."*
-*Megalynarion:* We magnify thee, O holy Apostle [Name], and we honor thy precious icon: for thou dost pray for us unto Christ our God.[^1197]
-
-*And here for holy venerable monastics, and general: Selected Psalm: "Lo, I fled afar off..." and the refrain:*
-*Megalynarion:* We bless thee, O venerable father our [Name], and we honor thy memory...
-
-...thy memory, instructor of monastics, and companion of the venerable.[^1198]
-
-*And here for Saint John of the Ladder [Climacus]: Selected Psalm: "God be gracious unto us..."*[^1199]
-*Refrain:* Ascending as by a ladder of the choir unto the heavenly height.[^1200]
-
-*And here for the Beheading of the Head of Saint John: Selected Psalm: "Lo, I fled afar off..." And the refrain:*[^1201]
-*Megalynarion:* We magnify thee, O Baptist of the Savior, and we honor this all-precious head of thine, and we glorify thy most glorious Beheading.[^1202]
-
-*And here for a single Bodiless Power and the Bodiless Hosts: Selected Psalm: "Praise..."*[^1203]
-*Megalynarion:* We magnify thee, O Archangel of Christ [Name], and we honor Thy precious icon, as in the likeness of Thy divine countenance.[^1204]
 
 ---
 
@@ -3866,703 +1883,3 @@ All generations in songs of repentance [magnify] the venerable Chrysostom, the b
 [^502]: August 31: The Deposition of the Precious Sash (Cincture / Belt / *Положеніе честнаго пояса*) of the Most Holy Theotokos in the Chalkoprateia church in Constantinople (*въ Халкопратіи*), established during the reign of Emperor Theodosius II and Empress Pulcheria (c. 5th c.) and later renewed under Emperor Leo VI. This feast concludes the Byzantine and Ruthenian liturgical year (Indiction).
 [^503]: The Kontakion of the Deposition of the Sash of the Theotokos (*Честнаго пояса твоего положеніе...*, Tone 4, Podoben: "Явился еси") and Liturgy pericopes: Epistle Hebrews 9:1–7 (the sanctuary, golden censer, and ark of the covenant); Gospel Luke 10:38–42; 11:27–28.
 [^504]: Conclusion of the Divine Liturgy lections for the feast of the Deposition of the Precious Sash of the Most Holy Theotokos (August 31), carrying over from physical leaf p420. The Epistle is Hebrews 9:1–7, Alleluia from Psalm 131:8, Gospel from Luke 10:38–42; 11:27–28, and Communion Hymn from Psalm 115:4.
-[^505]: Opening landmark headpiece of the Pre-Lenten and Triodion cycle: "НД҃ЛѦ Ѡ МЫТАРИ И Ѡ фарисеи · въ слѣдованіе великаго · д҃ · десѧтнаго поста" (Sunday of the Publican and the Pharisee; in the sequence of the Great Forty-day Fast). The numeral "д҃ · десѧтнаго" represents the Quadragesima (Четыредесятница).
-[^506]: Typikon rubrics for the Sunday of the Publican and the Pharisee: Saturday Vespers with 10 stichera (combining the Octoechos in Tone 1 with Triodion idiomela), the transfer of the commemorated Menaion Saint to Compline, Matins with Polyeleos and Graduals of the tone, and Triodion canons.
-[^507]: Tone 2 Kontakion of the Publican and the Pharisee: "Мытаря древле слезяще оправдалъ еси, Спасе благый, убѣсти возпивша, и лицемѣра помоли[вшася] презрѣвъ...". This reflects an ancient pre-Nikonian Byzantine-Slavic hymnographic witness preserved in 15th-century Ruthenian and South Slavic Triodia, distinct from the standard post-Nikonian text ("Фарисеева убежим высокоглаголания..."). The epigraphic witness in Fiol records "убѣсти" (crying out in confession/distress) and "лицемѣра" (the hypocrite).
-[^508]: Liturgical order for the Hours and the Divine Liturgy on the Sunday of the Publican and the Pharisee, taking the Octoechos Beatitudes and the appointed readings of the Sunday.
-[^509]: Polemical anti-Monophysite rubric regarding the fast-free week following the Sunday of the Publican and the Pharisee. The rubric specifically commands the consumption of cheese, eggs, and meat every day (including Wednesday and Friday) in order to refute and overturn the Armenian fast known historically as the "Artzivourion" (Арцивуриев пост, Artziburion), an ancient non-Chalcedonian pre-Lenten abstinence.
-[^510]: Sunday of the Prodigal Son (Недѣля о блуднѣм сынѣ): Saturday Vespers order with 10 stichera (combining 3 Resurrectional, 3 Anatolian, and 2 Triodion idiomela doubled), and alphabetical stichera at the Aposticha.
-[^511]: Sunday of the Prodigal Son Matins rubrics: Kathismata psalmody, Polyeleos, Graduals of the tone, and canons (Resurrectional on 4, Cross-Resurrectional on 4, Theotokion on 2, and Triodion on 6).
-[^512]: Kontakion of the Prodigal Son in Tone 3. The 1491 Fiol print exhibits distinctive archaic Ruthenian phonetic/orthographic spellings: "Ѡтескыꙗ" for "Отеческия", "батытство" for "богатство", "блꙋнаго" for "блуднаго", and "пре тобою" for "пред Тобою".
-[^513]: Meatfare Memorial Saturday (Суббота мясопустная): The universal commemoration of all departed Orthodox Christians from the ages, fathers and brethren.
-[^514]: Liturgical order of Meatfare Saturday: Vespers replaces the daily Prokeimenon with the Tone 8 funeral Alleluia and Psalm verses (Ps. 64:5; 101:13); troparion "Who by depth of wisdom" (Глубиною мудрости); and dual Epistles (1 Cor. 6:12–20 for the day; 1 Thess. 4:13–17 for the reposed) and Gospels (Luke 21:8–9, 25–27, 33–36; John 5:24–30).
-[^515]: Liturgical cross-reference noting that the identical ancestral funeral order is executed without change on the Saturday before Pentecost (Trinity Memorial Saturday).
-[^516]: Meatfare Sunday (Недѣля мясопустная), dedicated to the commemoration of the Second Coming of Christ and the Last Judgment.
-[^517]: Meatfare Sunday Matins rubrics: "God is the Lord", Resurrectional Troparion, Polyeleos, Graduals, and the 8-troparion Triodion canon.
-[^518]: Tone 1 Automelon Kontakion of Meatfare Sunday: "Егда приидеши, Боже, на землю со славою...". In the 1491 Fiol recension, the clause "и тайная обличаются" ("and the hidden things are revealed") is omitted in the printed text, passing immediately from "книгы разгыбаются" to "тогда избави мя огня негасимаго".
-[^519]: Divine Liturgy lections for Meatfare Sunday: Epistle from 1 Corinthians 8:8–9:2 (warning against causing a brother to stumble through eating food offered to idols) and Gospel from Matthew 25:31–46 (the Last Judgment and the separation of the sheep from the goats).
-[^520]: Cheesefare Week (Сырная седмица / Масленица) liturgical regulations: Weekday Menaion services are subordinated and sung at Compline, while the Saturday and Sunday services are dedicated to the Triodion commemorations.
-[^521]: Rubrical directive granting the ecclesiarch discretion regarding the transfer of Menaion commemorations on Cheesefare Saturday and Sunday.
-[^522]: Cheesefare Saturday (Суббота сыропустная): The universal commemoration of all the Holy Venerable and God-bearing Fathers who shone forth in fasting and monastic asceticism.
-[^523]: Cheesefare Saturday order for Vespers and Matins, including the Troparion to the Fathers ("O God of our fathers...") and the temple saint's canon combined with the Triodion canon on 8.
-[^524]: Archaic Kontakion of the Holy Ascetic Fathers: "Яко благочестия проповедники и нечестия потребители...". Fiol 1491 preserves an archaic variant reading: "любоврачье снающе... въ смиренѣ съвръшенѣ" (knowing their loving cure... in perfect humility), documenting pre-Nikonian hymnographic phrasing.
-[^525]: Divine Liturgy lections for Cheesefare Saturday: Epistle from Galatians 5:22–6:2 (the fruits of the Spirit) and Gospel from Matthew 11:27–30 ("Take My yoke upon you, and learn of Me; for I am meek and lowly in heart").
-[^526]: Cheesefare Sunday (Недѣля сыропустная), also known as Forgiveness Sunday and the Commemoration of the Expulsion of Adam from Paradise.
-[^527]: Cheesefare Sunday Matins order: Resurrectional Troparion, Kathismata, Polyeleos, Graduals, and the Triodion canon on 6.
-[^528]: Tone 6 Kontakion of Cheesefare Sunday: "Премудрости наставниче, и смыслу давче...". Fiol 1491 witnesses "еже мудрости Слове" (O Word of wisdom) where later editions read "Отчее Слово" (Word of the Father), as well as the dual pronoun/noun construction "се бо устна ма доима не възбраню" (for lo, I will not refrain both my lips).
-[^529]: Divine Liturgy lections for Cheesefare Sunday: Epistle from Romans 13:11–14:4 (putting on the armor of light and walking honestly as in the day) and Gospel from Matthew 6:14–21 (forgiving others their trespasses, fasting without hypocrisy, and laying up treasure in heaven).
-[^530]: Historical rubrical statute regarding the Polyeleos: From Cheesefare Sunday until the Exaltation of the Holy Cross (September 14), the chanting of the Polyeleos ("Many-merciful") is omitted at Sunday Matins throughout the entire summer cycle, being reserved exclusively for Despotic (Dominical) Feasts.
-[^531]: Cheesefare Sunday evening (Forgiveness Vespers): The solemn transition into Great Lent. The Great Prokeimenon in Tone 8 is chanted: "Turn not away Thy face from Thy servant, for I am in trouble; hear me speedily; attend unto my soul, and deliver it" (Ps. 68:18–19).
-[^532]: The ancient Byzantine and Ruthenian monastic Rite of Mutual Forgiveness: The execution of Lenten metanias, the chanting of the penitential troparia, the Prayer of St. Ephrem the Syrian ("O Lord and Master of my life..."), and the mutual veneration of the holy icons with the forgiveness dialogue: "Остави мя на скондалѣтехъ по обычаю" (Forgive me wherein I have caused scandal/offense, according to custom).
-[^533]: Major section headpiece marking the formal beginning of Great Lent: "НАЧАЛО СТ҃ГО ВЕЛИКАГО · Д҃ · РЕДЕСѦТНАГО ПОСТА" (Beginning of the Holy Great Forty-Day Fast). The numerical abbreviation "Д҃ · РЕДЕСѦТНАГО" represents the Quadragesima (Четыредесятница). Fiol 1491 here establishes the distinctive order of the Lenten weekday cursus (liturgical Hours, Great Compline, and Midnight Office).
-[^534]: Typikon order for Clean Monday (Чистый понедельник): Matins chanted with Alleluia and the Hymns to the Trinity (Троичны) in the tone of the week, the psalmody of the Psalter Kathismata intercalated with Triodion and Menaion sessional hymns, and the execution of the First, Third, Sixth, and Ninth Hours with Kathisma psalmody and Lenten prostrations.
-[^535]: Ancient Studite and Ruthenian liturgical statute regarding the opening days of Great Lent: "Подобаеть вѣдати · ꙗко не приꙗхомъ стварѧти преждесщ҃еныꙗ до среды · понеже по преданію ст҃ыхъ ѡц҃ъ постатѧсѧ браꙗ всѧ до среды · могоущіи же до пѧтка" (It is fitting to know that we have not received the tradition to celebrate the Presanctified before Wednesday, because according to the tradition of the Holy Fathers all the brethren fast until Wednesday, and those who are able, until Friday). This documents the rigorous monastic total fast (асития / сухоядение) during Clean Week.
-[^536]: Sacerdotal and diaconal dialogue at the Presanctified Liturgy: The exclamation "Келепсаите" represents an exact phonetic Church Slavonic transcription of the Byzantine Greek "Κελεύσατε" (*Keleusate* — "Command!" / "Bid, reverend father!"), addressed by the deacon to the celebrant before the blessing with the candle and censer ("The Light of Christ illumines all").
-[^537]: Monastic ceremonial directive ordering the candle-lighter (*kandilaptes* / кандиловозжигатель) to strike the iron semantron (*klepalo* / било): "кандилаптие же знаменаеть · в желѣзное" during the Old Testament reading from Proverbs, signaling the impending solemn chanting of "Let my prayer be set forth" (Да исправится молитва моя) and the prostrations of the brethren.
-[^538]: Sacerdotal rubric governing the covering of the Presanctified Gifts after the Great Entrance: the priest removes both veils (*sudaria*) and covers both the diskos and the chalice together with a single large veil or with the aer (*vozdukh*).
-[^539]: The consecrated Eucharistic Lamb is designated as the "Holy Artos" (ст҃го артоса / арьтоса, from the Greek ἄрτος, *artos* — the consecrated Bread/Host) at the ritual Elevation before communion: "The Presanctified Holy Things unto the holy!"
-[^540]: Archaic Ruthenian terminology for the post-communion ablution: "и покꙋшнивають водици" (*i pokushnivayut voditsi* — "and they partake of the warm water"), describing the purification rinse taken by the communicants after receiving the Holy Mysteries.
-[^541]: Monastic dietary rule (типикон о трапезѣ) for Clean Week: dry food (сухоядение / xerophagy) is taken on Wednesday following the Presanctified Liturgy; on Thursday no meal is set; and dry food is taken again on Friday afternoon.
-[^542]: Rubrical transition marking the cessation of Lenten weekday penitential prostrations at Friday Vespers ("на вечерни упражнѧютсѧ поклоны"), as Friday evening initiates the festal rest of the Sabbath (St. Theodore Saturday).
-[^543]: Order of the Liturgy of the Presanctified Gifts on Friday of the First Week of Great Lent, combining the Lenten lections with the proper stichera and commemorations of the Great-Martyr Theodore the Recruit (Theodore Tyro) and the blessing of the Kolyvo.
-[^544]: Universal liturgical statute for all Fridays of Great Lent: Great Compline is chanted in its entirety without prostrations, incorporating the canon for the reposed from the Octoechos in the current tone in preparation for the ancestral Memorial Saturday.
-[^545]: Tone 2 Troparion of the Great-Martyr Theodore the Recruit: "Веліа вѣрѣ исправленіа..." ("Great are the achievements of faith..."). Fiol 1491 records the archaic witness: "ѡгне же гьсѧ · ꙗко хлѣбъ сладокъ тр҃ци принѣсѧ" (having been consumed by fire, as sweet bread he was offered unto the Trinity).
-[^546]: Matins order for the First Saturday of Great Lent (St. Theodore Saturday): Kathisma 16 and Kathisma 17 (*Amomos*, Ps. 118: "Blessed are the undefiled") chanted with Alleluia, and the canons of the temple saint and St. Theodore chanted on 6 each.
-[^547]: Tone 8 Kontakion of Saint Theodore the Recruit: "Вѣру Христову яко щитъ внутрь пріемъ въ сердцы..." ("Having received the faith of Christ within thy heart as a shield...").
-[^548]: Monastic dietary dispensation for St. Theodore Saturday: consumption of boiled greens/vegetables (*ovara obvarena*), white and black olives, oil and warm food, kolyvo, and wine measured by the *krasovolion* (красоволя, the customary monastic cup).
-[^549]: Monastic canon of the Holy Forty Days regarding fish consumption: "ꙗко въ ст҃жа · м҃ · в҃ · приꙗхомъ ꙗсти рыбы · в праздникы бл҃говѣщеніа · и в н҃елю цвѣтнꙋю" (for in the Holy Forty Days we have received the rule to eat fish twice: on the feast of the Annunciation, and on Palm Sunday).
-[^550]: First Sunday of Great Lent, the Sunday of Orthodoxy (Triumph of Orthodoxy): celebrating the restoration of the veneration of the Holy Icons at the Synod of Constantinople in 843 under Empress Theodora and Patriarch Methodios.
-[^551]: Order of Great Vespers and Matins for the Sunday of Orthodoxy: combining the Resurrectional hymnography of the current tone with the Triodion hymnography and the Troparion of the Holy Icon of Christ ("Thy most pure Icon we venerate, O Good One...").
-[^552]: Tone 8 Kontakion of the Sunday of Orthodoxy: "Неописанное Слово Отчее..." ("The uncircumscribed Word of the Father..."). Fiol 1491 witnesses: "смѣси · и ꙗже исповѣдающе сп҃сеніе дѣломь · и словомь того въѡбражаємь" (He infused it with divine comeliness; but confession of salvation we represent in deed and word), affirming the theology of holy images.
-[^553]: The alternation of the two Great Prokeimena on Lenten Sunday evenings: Tone 8 "Turn not away Thy face from Thy servant..." (Ps. 68:18–19) and Tone 8 "Thou hast given an heritage unto them that fear Thy name, O Lord" (Ps. 60:6), alternating from Cheesefare Sunday evening through the 5th Sunday of Great Lent.
-[^554]: Rubrics for Sunday evening Compline during Great Lent: the omission of ordinary prostrations, retaining only the 15 metanias and 4 great prostrations with the Prayer of St. Ephrem the Syrian at the conclusion.
-[^555]: Historical Typikon transfer statute: from Tuesday of the second week of Great Lent, the Menaion canons for saints occurring from Lazarus Saturday through Thomas Sunday (superseded by Holy Week and Bright Week) are transferred and chanted at weekday Compline together with a Theotokion canon.
-[^556]: Order of the Memorial Saturday of the Second Week of Great Lent (Суббота 2-я святаго поста — вселенская родительская): Matins with Alleluia, Troparion to the Apostles and Martyrs, Kathisma 17 (*Amomos*) divided into two stases with diaconal litanies for the departed, and canons for the reposed.
-[^557]: In the Studite and early Jerusalem Typika represented in the 1491 Krakow Horologion, on the Memorial Saturdays of Great Lent (the 2nd, 3rd, and 4th Saturdays), the Biblical Odes (stichologia of the canticles) are not chanted during Odes 1 through 5 because the Triodion contains no hymns for those odes (only the Menaion and the patronal temple canons are sung). At Ode 6, the Four-Ode Canon (Tetraodion, четверопѣснецъ) composed by St. Theodore the Studite begins; consequently, the full stichologia of the Biblical Canticles resumes from Ode 6 through Ode 9.
-[^558]: In early East Slavic and Studite manuscript tradition preserved in Fiol's 1491 Horologion, the Second Sunday of the Great Fast was dedicated to the Holy Theotokos, appointed with specific Marian readings (Epistle: Heb. 9:1–7; Gospel: Luke 10:38–42, 11:27–28). The universal commemoration of St. Gregory Palamas on this Sunday arose later, following his canonization in 1368, and spread gradually through revised Jerusalem Typika in Rus' in the 16th and 17th centuries.
-[^559]: The archaic Church Slavonic text of the Kontakion of the Precious Cross in Fiol's witness opens: "Оуже пламенное ѡрꙋжїе не хранить врать едемскы: прїиде бо емоу преславныи игл̑а [узелъ], древо кр҃стьное" ("No longer doth the flaming sword guard the gate of Eden, for upon it hath come a marvelous bond, the Tree of the Cross"). In later standard Nikonian editions, this appears as: "Не ктому пламенное оружие хранит врат едемских: на тыя бо найде преславный узел, Древо Крестное."
-[^560]: The rubrics for the Veneration of the Precious Cross describe the solemn transfer of the Cross during the chanting of the Great Doxology: the priest vests fully in the phelonion, incenses the altar and the relic, places the Cross upon his head on a liturgical platter (блюдо), and processes along the north side of the sanctuary to the Holy Doors, where he halts until the concluding "Holy God" (Trisagion) is chanted.
-[^561]: The ceremonial veneration of the Holy Cross involves three full ground prostrations (до земля) by the Igumen and the serving priest before kissing the Cross, followed by a fourth prostration together; the brethren then approach two by two (one from the right choir, one from the left choir) in monastic order while the choirs chant the idiomelon stichera of the Cross in Tone 2 and Tone 8.
-[^562]: In the medieval Studite and early Jerusalem practice reflected in this codex, the veneration of the Precious Cross is not confined to the Third Sunday, but is repeated across four appointed stations: at the First Hour on Monday, at the First Hour on Wednesday, and at the Sixth Hour on Friday of the 4th week (Mid-Pentecost of the Fast), at which point the Cross is solemnly returned to the altar sanctuary.
-[^563]: Beginning on Wednesday of the 4th week of Great Lent, the Litany for Those Preparing for Holy Illumination (двооугꙋбые ѡглашеньꙗ, "As many as are preparing for illumination, bow your heads...") is added to the Presanctified Liturgy, preparing catechumens for baptism at the Paschal Vigil on Holy Saturday, and continues daily until Holy Wednesday.
-[^564]: The Great Canon of Repentance by St. Andrew of Crete is chanted at Matins on Thursday of the 5th week of Great Lent (anticipated on Wednesday evening). In Wednesday Vespers, 24 idiomela are chanted on "Lord, I have cried," accompanied by three prostrations per sticheron; at Thursday Matins, each troparion of the canon receives three full prostrations, and the Life of St. Mary of Egypt by St. Sophronius of Jerusalem is read in two liturgical sections.
-[^565]: The renowned Kontakion of the Great Canon, Tone 6 ("My soul, my soul, arise! Why sleepest thou? The end draws near..."), is an Automelon (самогласенъ) attributed to St. Romanos the Melodist, chanted after Ode 6 alongside its single Ikos, followed immediately by the Beatitudes with prostrations.
-[^566]: On the 5th Saturday of Great Lent (Saturday of the Akathist / Praise of the Theotokos), the Akathist Hymn ("To thee, the Champion Leader...") is divided into four staseis of six ikoses each, chanted across the Kathismata and after Odes 3 and 6 of the canon. The rubric explicitly commands: "ц[ареви/ино]цы не сѣди, тогда: но стоꙗще слоушае̂мь съ страхомъ" ("one does not sit down, but standing we listen with fear"), reflecting the Greek etymology of the Akathistos (ἀκάθιστος, "unseated").
-[^567]: Friday of the 6th week marks the conclusion of the Holy Forty Days of Great Lent proper ("Having accomplished the forty days that bring profit to our souls..."). The liturgical order transitions into Lazarus Saturday and Holy Week: the Octoechos, daily idiomelon stichera, Theotokia, and the Magnificat ("More honorable than the Cherubim") are suspended until Thomas Sunday (Anti-Pascha).
-[^568]: Lazarus Saturday inaugurates the historical gateway to Holy Week. The Troparion in Tone 1 ("Giving assurance of the universal resurrection before Thy Passion, Thou didst raise Lazarus from the dead, O Christ God...") establishes the dogmatic prelude to the Lord's Entry into Jerusalem and His voluntary Passion.
-[^569]: On Lazarus Saturday, in ancient Byzantine-Ruthenian practice reflected in Fiol's Horologion, the baptismal hymn "As many of you as have been baptized into Christ have put on Christ. Alleluia" (Елицы во Христа крестистеся) replaces the Trisagion at the Divine Liturgy. This liturgical monument witnesses the ancient custom of holding solemn public baptisms of catechumens on Lazarus Saturday and Holy Saturday.
-[^570]: Palm Sunday (Цвѣтная недѣля / Недѣля ваій, Κυριακὴ τῶν Βαΐων) celebrates Christ's triumphal Entry into Jerusalem. The Little Vespers appointed here is typical of the monastic cathedral and Lavra usage preserved in early East Slavic Typika.
-[^571]: At the Litiya (на исходѣ) on the eve of Palm Sunday, Fiol's Horologion prescribes a series of idiomela in Tone 1 ("All-Holy Spirit...", "Co-unoriginate...", "Six days before the Passover...") and Tone 2 ("When Thou didst enter into the holy city..."). These archaic stichera vividly enact the historical journey of Christ from Bethany to Jerusalem.
-[^572]: Although Palm Sunday is a Lord's Day (Sunday), the hymn "Having beheld the Resurrection of Christ" (Воскресение Христово видевше) is omitted because the feast focuses exclusively on Christ's royal and messianic entry into Jerusalem and the inception of His Passion, prior to the celebration of the Resurrection on Pascha.
-[^573]: The distribution of palms (ваия, еже бѣтви, from Greek τὰ βαΐα) and lighted tapers takes place during the chanting of the canon while the brethren venerate the Gospel book. In Slavic practice, willow branches (верба) are traditionally substituted for date-palm fronds.
-[^574]: The rubric specifies a solemn cruciform procession (со кресты обиходим монастырь) around the monastery at the second hour of the day (approx. 8:00 AM) prior to the First Hour and the Divine Liturgy. The Liturgy is scheduled earlier than usual to grant relief to the monastic brethren on account of the physical labor of the vigil and procession.
-[^575]: On Palm Sunday, the standard Sunday Beatitudes are replaced by three specific Festal Antiphons derived from Psalms 114, 115, and 117, each punctuated by appointed refrains proclaiming Christ seated upon the foal of an ass.
-[^576]: The proper Festal Refrain for the Second Antiphon on Palm Sunday proclaims Christ's specific salvific mystery: "Save us, O Son of God, Who didst sit upon the foal of an ass, who sing unto Thee: Alleluia" (Спаси ны, Сыне Божий, сѣдый на жребяти осли, поющыя Ти: Аллилуиа).
-[^577]: On the great Feast of the Palm-bearing Entry of the Lord, the strict Great Lenten fast is mitigated by the Church's ancient Typikon: eating fish (рыба) and drinking wine (питие) are permitted at the festal meal in the monastic trapeza.
-[^578]: On Sunday evening of Palm Sunday, the liturgical atmosphere pivots decisively from the joy of the Entry into Jerusalem toward the solemnity of the Passion. The Kathisma psalmody is omitted at Vespers, and the Great Prokeimenon "Behold now, bless ye the Lord" is sung with three ground prostrations.
-[^579]: The rubric lays down the distribution of the Psalter during Holy Week. The entire 150 Psalms (divided into 20 Kathismata) are read through exactly once between Palm Sunday evening and Holy Wednesday (3 Kathismata on Sunday night; 5 on Great Monday; 5 on Great Tuesday; 5 on Great Wednesday; Kathisma 18 at Vespers), concluding with Kathisma 17 ("Blessed are the undefiled", the 118th Psalm) at Matins on Great Saturday.
-[^580]: The first three days of Holy Week (Great Monday, Great Tuesday, Great Wednesday) are characterized by the Bridegroom Matins (Служба Жениха), opening with the solemn chanting of "Alleluia" and the Troparion "Behold, the Bridegroom comes in the middle of the night" (Се Женихъ грядетъ въ полунощи), reminding the faithful to remain vigilant like the wise virgins.
-[^581]: On Great and Holy Monday, the liturgical commemoration centers upon the Patriarch Joseph the All-Comely (whose unjust betrayal by his brethren, descent into Egypt, and ultimate exaltation prefigure Christ's betrayal and glorification) and the Cursing of the Barren Fig Tree (symbolizing the peril of unfruitfulness and spiritual hypocrisy).
-[^582]: The Exaposteilarion / Exapostilarion of the Bridegroom Matins, "Thy Bridal Chamber, O Lord" (Чертог Твой, Спасе мой, вижду украшенный), is sung with exceptional solemnity: the triad of chanters stands in the middle of the nave (посреде церкви), after which each choir repeats the hymn from both sides (обою страну).
-[^583]: The rubric preserves the ancient monastic rule for reading through the Four Gospels (Tetraevangelion) in their entirety during the first three days of Holy Week. Across nine liturgical stations at the Third, Sixth, and Ninth Hours of Great Monday, Tuesday, and Wednesday, Matthew is read in two sections, Mark in two, Luke in three, and John in two sections up to the beginning of the Passion narratives (John 13:31).
-[^584]: During the first four days of Holy Week, the Typikon mandates xerophagy (сухоядение, 'dry food'): uncooked plant food without oil and unfermented drink, observing the strictest degree of Great Lenten asceticism prior to the Mystical Supper on Holy Thursday.
-[^585]: Great and Holy Tuesday commemorates the Parable of the Ten Virgins (Matt. 25:1–13) and the Parable of the Talents (Matt. 25:14–30), calling the soul to spiritual vigilance and responsible stewardship in view of the imminent Judgment.
-[^586]: The canon for Great Tuesday Matins composed by St. Cosmas of Maiuma is a Two-Ode Canon (Diodion, двопѣснецъ), consisting solely of Odes 8 and 9. The Kontakion "Having thought upon the final hour, O my soul..." (Час, душе, конца помысливши) is chanted following the first of the two odes (Ode 8).
-[^587]: The Vesperal Gospel reading on Great Tuesday evening (Matt. 26:6–16) recounts the anointing of Jesus by the woman in Bethany in the house of Simon the leper and Judas's agreement with the chief priests to betray Him for thirty pieces of silver.
-[^588]: Great and Holy Wednesday commemorates the anointing of the Lord with costly spikenard by the repentant sinful woman at Bethany, contrasting her humility and love with the betrayal of Judas for silver.
-[^589]: The celebrated Doxastikon on the Aposticha of Great Wednesday Matins, "Lord, the woman who had fallen into many sins" (Господи, яже во многая грехи впадшая жена), is the immortal Byzantine hymn composed by the 9th-century monastic hymnographer St. Cassia (Kassiani). It is chanted in Tone 8 as the climactic hymn of the Bridegroom services.
-[^590]: On Great and Holy Wednesday, the reading of the Four Gospels (Tetraevangelion) across the liturgical Hours is brought to its completion at the Ninth Hour. The ancient monastic Typikon directs that all full prostrations to the ground (земные поклоны) cease following the Ninth Hour, marked by the striking of the iron semantron (желѣзное клепало) and the solemn rite of mutual forgiveness (прощение) among the monastic brethren.
-[^591]: In ancient Byzantine-Ruthenian monastic practice reflected in Fiol's Horologion, the Midnight Office (полунощница) is omitted from Holy and Great Thursday until the Monday of Antipascha (St. Thomas Monday), as the community's vigil schedule concentrates entirely upon the solemn Matins and Eucharistic celebrations of the Paschal Triduum and Bright Week.
-[^592]: The solemn Troparion of Great Thursday, "When the glorious disciples at the washing of the Supper were enlightened" (Егда славнии ученицы на умовении вечери просвещахуся), set in Tone 8, serves as the primary theological and musical emblem of the day. It is repeated thrice at Matins, at each of the Hours, and at Vespers, contrasting Christ's humble washing of the disciples' feet with the spiritual blindness and avarice of Judas.
-[^593]: The Canon of Great Thursday Matins is composed by St. Cosmas of Maiuma ("Cut down by the rod...", Сѣченое сѣчется), sung in Tone 6. Following Ode 6, the Kontakion "Taking the bread into his hands, the betrayer" (Хлѣбъ приемъ въ руцѣ предатель) meditates on Judas receiving the morsel from Christ's hands while secretly harboring treason in his heart.
-[^594]: At the Vesperal Divine Liturgy of St. Basil the Great celebrated on Holy Thursday afternoon, the Cherubic Hymn, the Communion Verse (Communion Hymn), and the post-communion thanksgiving hymn "Let our mouths be filled" are all replaced by the solemn liturgical hymn "Of Thy Mystical Supper" (Вечери Твоея тайныя днесь, Сыне Божий, причастника мя приими), sung thrice.
-[^595]: The ancient monastic and cathedral rite of the Washing of Feet (Чин омовения ног / Pedilavium) is celebrated immediately following the Prayer behind the Ambo at the Vesperal Liturgy of Holy Thursday. The superior or bishop washes the feet of twelve chosen priests or brethren in imitation of Christ's act of divine humility recorded in John 13:1–17.
-[^596]: Matins of Holy and Great Friday—popularly termed the "Service of the Twelve Passion Gospels" (Служба Святых Страстей)—is celebrated on the evening of Holy Thursday. Lighted beeswax tapers are distributed to the clergy and faithful at the beginning of the service and held during the solemn proclamation of the twelve Gospel pericopes recounting Christ's Passion, Crucifixion, and Burial.
-[^597]: In ancient Studite and early Sabaite practice preserved in Fiol's Horologion, the chanters assemble in the center of the nave (посреде церкви) to chant the fifteen Passion Antiphons. Fiol notes that sitting is forbidden during the Sessional hymns (сѣдальны) on this night as a corporal token of mourning and reverence before the suffering Savior.
-[^598]: Following the Sixth Passion Gospel and the Fifteenth Antiphon, the Beatitudes (Блаженна) are chanted with eight appointed troparia in Tone 4, emphasizing the repentance, confession of faith, and salvation of the Wise Thief on the Cross alongside Christ.
-[^599]: The Canon of Great Friday Matins is a Three-Ode Canon (Triodion) composed by St. Cosmas of Maiuma, comprising Odes 5, 8, and 9 ("Toward Thee I rise at dawn...", К тебе утреннюю). Following Ode 9, the beloved Exapostilarion "The Wise Thief" (Разбойника благоразумнаго) is chanted thrice.
-[^600]: In the ancient Horologion tradition, the First Hour is deliberately omitted from the end of Passion Matins because the solemn Royal Hours (Царские часы) of Great Friday are chanted separately as a monumental independent office during the daytime.
-[^601]: The Royal Hours of Great Friday are chanted in four distinct liturgical assemblies (or combined in pairs at the 3rd and 6th hours of the day). Each Hour incorporates specialized psalmody, distinct Passion troparia, an Old Testament prophecy (Paremia), an Epistle reading, and a Gospel pericope.
-[^602]: The monastic Typikon mandates total fasting (строгий пост / полное неядение) on Great Friday in memory of the Crucifixion and Death of the Lord. Neither the complete Liturgy nor the Presanctified Gifts are offered, and no communal table is set in the refectory. Only the infirm and elderly are permitted a collation of bread and water after sunset, in accordance with the ancient Apostolic canons.
-[^603]: At Great Friday Vespers (the Vespers of the Descent from the Cross and Entombment), the celebrated Aposticha Doxastikon "Thee Who art clothed with light as with a garment" (Тебе, одѣющагося свѣтом яко ризою) is sung in Tone 5, meditating upon Joseph of Arimathea and Nicodemus wrapping the Lord's Body in fine linen, followed by the Troparion "The noble Joseph" (Благообразный Иосиф).
-[^604]: At Matins of Holy and Great Saturday, the 17th Kathisma (Psalm 118, "Blessed are the undefiled") is chanted in three Stases (статии) punctuated by poetic burial refrains and laments (Enkomia / Погребальныя похвалы) before the Epitaphios (Holy Shroud) in the center of the church.
-[^605]: The Canon of Holy Saturday Matins, "By a wave of the sea" (Волною морскою), set in Tone 6, is the crowning achievement of Byzantine liturgical poetry, composed jointly by the nun St. Cassia (Kassiani), St. Cosmas of Maiuma, and St. Mark of Hydruntum.
-[^606]: The Kontakion of Holy Saturday, "He Who shut up the abyss is beheld dead" (Бездноу заключивыи мртвь видится), set in Tone 2, contemplates the paradox of the Creator reposing in the tomb on the Great Sabbath and proclaims His impending third-day Resurrection.
-[^607]: At the conclusion of the Great Doxology at Holy Saturday Matins, the priest vests in full sacerdotal vestments (въ весь чинъ иерейскыи) and carries the Holy Gospel in solemn procession through the church, prefiguring the solemn procession with the Epitaphios (Plashchanytsia) commemorating the Burial of Christ and His descent into Hades.
-[^608]: The Vesperal Divine Liturgy of St. Basil the Great on Holy and Great Saturday begins at approximately the 10th hour of the day (4:00 PM). The priest begins the service vested in purple or dark red vestments (багряны ризы), symbolizing the solemn vigil and sorrow before the sealed Tomb of Christ, prior to the dramatic vestment change to white before the reading of the Holy Gospel.
-[^609]: The fifteen Old Testament readings (Paremias) of Holy Saturday recount the history of salvation from Creation (Gen. 1:1–13) through the Passover (Ex. 12:1–11), the Red Sea crossing (Ex. 13:20–15:19), the dry bones of Ezekiel (Ezek. 37:1–14), and the three holy youths in the furnace (Dan. 3:1–88). In ancient cathedral and monastic practice, these extensive readings were chanted while the bishop baptized and chrismated the catechumens, for which reason the baptismal anthem "As many as have been baptized into Christ" (Gal. 3:27) replaces the Trisagion at the Liturgy.
-[^610]: The liturgical dismissal of the Vesperal Liturgy of St. Basil concludes at the 2nd hour of the night (around 8:00 PM). Because the Paschal Vigil begins later that same evening, the monastics do not disperse or leave the church building, but remain in their choir stalls.
-[^611]: To sustain the brethren during the interval between the Liturgy of St. Basil and the Paschal Midnight Office, the cellarer distributes blessed bread, dried fruit, and a cup of wine (напоучиши / по чаши вина) directly in the nave. This liturgical refection preserves the Eucharistic fast for the midnight celebration while providing necessary sustenance for the all-night vigil.
-[^612]: During the interval between the refection and Midnight Office, the Typikon directs that the Book of Acts of the Holy Apostles (Деяния святых апостол) be read publicly and continuously in its entirety. St. John Chrysostom observes that while the Gospels record the earthly ministry and Passion of Christ, the Acts of the Apostles provide the primary historical witness and proof of His physical Resurrection.
-[^613]: At the conclusion of the Paschal Midnight Office, the Ecclesiarch distributes unlit beeswax tapers to all the monastic brethren and faithful. The lighting of these candles directly from the sanctuary symbolizes receiving the unwaning light of the Resurrected Christ.
-[^614]: The candilaptis (Greek: κανδηλάπτης; Slavonic: кандиловжигатель) is the monastic officer appointed to light the lamps and chandeliers and strike the semantra. Here, he strikes both the great wooden semantron (великое клепало) and the resonant iron semantron (желѣзное) to assemble the brethren for the Paschal procession.
-[^615]: In the Studite-Ruthenian rite witnessed by Fiol, while the procession moves outside into the narthex, the candilaptis remains in the darkened nave to ignite all candles and chandeliers (пандикадила / поликандила) and prepares a burning vessel with charcoal (съсудецъ съ огнемъ) brimming with sweet incense before the Holy Doors. This sudden burst of radiant light and sweet incense creates a sensory icon of the Empty Tomb flooded with divine radiance at the moment the doors are opened.
-[^616]: The opening of Paschal Matins before the closed doors of the church in the narthex represents the arrival of the Holy Myrrh-bearing Women at the sealed sepulcher before dawn. Following the priest's opening exclamation, "Glory to the holy, consubstantial...", the Paschal Troparion, "Christ is risen from the dead" (Христосъ воскресе изъ мертвыхъ), resounds for the first time in Tone 5.
-[^617]: The dramatic unbarring and swinging open of the church doors during the final singing of the Paschal Troparion symbolizes the rolling away of the stone from the tomb by the Angel and Christ's victorious emergence from death, shattering the gates of Hades.
-[^618]: In the ancient monastic vigil, patristic homilies are appointed between the odes of the Paschal Canon, specifically the Paschal Orations of St. Gregory of Nazianzus (St. Gregory the Theologian), Oration 1 ("On Pascha") and Oration 45 ("The Second Oration on Pascha").
-[^619]: The Paschal Kiss of Peace (пасхальное целование / христосование) is the ancient liturgical embrace of brotherly reconciliation and joy in the Resurrection. The clergy and monastics venerate the Book of the Gospels and exchange the fraternal kiss with the greeting "Christ is risen!" (Христосъ воскресе!) and response "Truly He is risen!" (Воистину воскресе!).
-[^620]: The presider proclaims the Paschal Homily from the ambo or Royal Doors while the entire monastic community and congregation stand listening in silence. In the Byzantine tradition, this homily serves as the theological climax of Paschal Matins, immediately following the Paschal Stichera and the Kiss of Peace.
-[^621]: The liturgical acclamation recorded by Fiol—"Paul's mouth: Christ's mouth; Christ's mouth: Paul's mouth; Chrysostom's: Christ's and Paul's mouth!" (Павлова уста — Христова уста; Христова уста — Павлова уста; Златоустаго — Христова и Павлова уста!)—is a rare liturgical witness to the ancient Byzantine-Ruthenian veneration of St. John Chrysostom as the authentic voice of St. Paul and Christ Himself, traditionally proclaimed before reading his Catechetical Homily.
-[^622]: St. John Chrysostom's immortal Paschal Catechetical Homily (Слово огласительное на Святую Пасху) is proclaimed at Paschal Matins throughout Eastern Christendom. Drawing upon the Parable of the Laborers in the Vineyard (Matt. 20:1–16), Chrysostom announces the unconditional generosity of God, inviting all people—both those who fasted rigorously and those who neglected the fast—to enter without fear into the feast of faith.
-[^623]: Chrysostom’s homily emphasizes the divine condescension (συγκατάβασις) and magnanimity: God rewards both the accomplished labor (дѣло) and the willing intention (спѣхъ / изволеніе) of the latecomer. Fiol’s 1491 Church Slavonic text renders this with poetic balance: "and unto that one He gives, and unto this one He bestows... He honors the work, and praises the haste of him that delayed."
-[^624]: Fiol's 1491 printed witness contains a notable recensional interpolation in Chrysostom's Homily not found in modern standard Greek or Nikonian editions: "Except the defiler, and those who defile their own bodies with fornication and pagan sacrifices, for they serve the devil!" (развѣ: сквернитель, иже своя телеса оскверняють блудомь и требамн, ти бо неприязни служать). This clause reflects an archaic South Slavic and Old Ruthenian textual tradition that inserted pastoral warnings against residual pagan rites (требы / кумирослужение) and sexual immorality into the otherwise unconditional invitation.
-[^625]: A second distinct textual amplification in Fiol's text weaves Christ's Johannine farewell discourse ("Be of good cheer, I have overcome the world", John 16:33) directly into the rhetoric of liberation from death and demonic slavery: "bearing Himself the sins of the world; for Christ hath saved us, and delivered us from Hades; for He hath plucked us from the violence of the devil, and freed us from his bondage!"
-[^626]: Fiol's edition preserves a vivid homiletic expansion comparing Hades to a ravenous lion that broke its teeth upon the Rock of Christ: "It seized as a lion, and broke its teeth! Because of sin, death reigned supreme; and finding no sin in Christ, it was abolished henceforth!"
-[^627]: In standard Greek editions, the famous litany of acclamations following 1 Cor. 15:55 contains seven clauses concluding with "and not one dead remains in the grave." Fiol's 1491 Church Slavonic witness expands this rhythmic litany into nine antithetical triumphs: angels rejoicing, demons fallen, life abiding, the dead raised up, deliverance from corruption, liberation from the curse, and believers co-resurrected with Christ (мы съ Нимь съвъскресохомь).
-[^628]: In accordance with the Father Paul Doxology Standard, the closing liturgical doxology of Chrysostom's Homily is rendered strictly as "unto ages of ages" (въ вѣкы вѣкѡмъ / εἰς τοὺς αἰῶνας τῶν αἰώνων), excluding pseudo-archaic formulas.
-[^629]: The Troparion of St. John Chrysostom, set in Tone 8—"From thy mouth like a radiance of fire hath grace shone forth, enlightening the universe..." (Оть устъ твоихъ возсиявши благодать)—is chanted immediately following his Catechetical Homily at Paschal Matins as an act of thanksgiving and veneration of the holy Doctor of the Church.
-[^630]: The Paschal Hours (Часы Пасхи) replace the standard psalmody of the First, Third, Sixth, and Ninth Hours, as well as Compline and the Midnight Office, throughout the entirety of Bright Week (Светлая седмица) until Saturday. All customary psalms and penitential prayers are superseded by joyful Paschal hymns: the Paschal Troparion, "Having beheld the Resurrection of Christ" (Воскресение Христово видевше), the Paschal Hypakoe, Kontakion, and Ikos.
-[^631]: The 1491 Krakow Fiol edition witnesses an epigraphic anomaly or compositor error here: `ꙗко тѣ́н҃е сн҃ь бж҃їи` (where standard Church Slavonic reads `яко есть Сынъ Божий`, translating the Greek ὅτι ὑπάρχει Υἱὸς τοῦ Θεοῦ, "that He is the Son of God"). The Krakow printing shop compositors, working from an abbreviated Cyrillic manuscript exemplar, misread the superscript titlo abbreviation for `есть` or interpolated `тѣне`. The translation restores the clear patristic sense while documenting the printed witness.
-[^632]: The Paschal Kontakion, Tone 8 (Аще и во гробъ снизшелъ еси, Безсмертне / Εἰ καὶ ἐν τάφῳ κατῆλθες, Ἀθάνατε), composed by St. Romanos the Melodist. It summarizes the descent into Hades, the defeat of death, the appearance to the Myrrh-bearing Women, and the commission to the Apostles.
-[^633]: This ancient liturgical troparion (Въ гробѣ плотски, во адѣ же съ душею яко Богъ / Ἐν τάφῳ σωματικῶς, ἐν ᾅδῃ δὲ μετὰ ψυχῆς ὡς Θεός) is appointed throughout the Byzantine rite during the Paschal Hours and at the Prothesis / preparation of the holy gifts during the Divine Liturgy. It confesses Christ's simultaneous bodily presence in the sepulcher, divine soul in Hades liberating the captive righteous, presence in Paradise with the repentant thief (Luke 23:43), and eternal co-enthronement with the Father and the Holy Spirit as uncircumscribed God.
-[^634]: The Troparion of the Paschal Hours: "As life-bearing, as more splendid than Paradise indeed..." (Яко живоносецъ, яко рая краснѣйшій / Ὡς ζωηφόρος, ὡς παραδείσου ὡραιότερος). Fiol's 1491 print preserves the archaic South Slavic/Ruthenian dual morphology `явлне же свѣтлѣнши` for standard `явлейся свѣтлѣйший`.
-[^635]: The Theotokion of the Paschal Hours, Tone 8: "Rejoice, O sanctified divine dwelling of the Most High..." (Вышняго освященное божественное селеніе, радуйся / Τὸ τοῦ Ὑψίστου ἡγιασμένον θεῖον σκήνωμα, χαῖρε).
-[^636]: The rubric "Then, if the fathers deem it well, see..." (таже аще за благо видятъ отци, зри) introduces the ancient monastic Paschal Typika (Obednitsa) chanted directly after the Paschal Hours in monastic communities when the Divine Liturgy is not served immediately or on days when an abbreviated office without celebration is observed.
-[^637]: In accordance with Studite and early Sabaite monastic ordines, the Paschal Hours and the Obednitsa retain this exact unchanging joyful hymnographic structure throughout the entirety of Bright Week (Светлая седмица), terminating at the Ninth Hour of Bright Saturday immediately prior to the Apodosis of the bright Paschal office.
-[^638]: The Three Paschal Antiphons (Антифоны Пасхи) replace the customary daily or Sunday antiphons at the Divine Liturgy throughout Bright Week. Antiphon 1 is selected from Psalm 65 (LXX), the great thanksgiving hymn celebrating God's deliverance of Israel from Egyptian bondage through the Red Sea as an prophetic type of the Resurrection.
-[^639]: Paschal Antiphon 2 is taken from Psalm 66 (LXX), invoking God's merciful countenance and universal salvation among the nations. In accordance with festal Byzantine usage, its refrain incorporates the proper Resurrectional verse: "Save us, O Son of God, Who art risen from the dead, who sing unto Thee: Alleluia!"
-[^640]: The hymn "Only-begotten Son and Immortal Word of God" (Единородный Сыне и Слове Божій / Ὁ Μονογενὴς Υἱὸς καὶ Λόγος τοῦ Θεοῦ), dogmatically attributed to the Christian Roman Emperor Justinian I (c. 528 AD), is chanted at the conclusion of Antiphon 2 as the theological confession of the hypostatic union and the two natures of Christ.
-[^641]: Paschal Antiphon 3 is taken from Psalm 67 (LXX), "Let God arise, and let His enemies be scattered" (Да воскреснетъ Богъ, и расточатся врази Его), intercalated verse-by-verse with the singing of the Paschal Troparion, "Christ is risen from the dead".
-[^642]: The final verse of Antiphon 3 concludes on leaf p484 with the Entrance (Входъ) of the Divine Liturgy. The deacon or priest proclaims the Introit verse from Psalm 67:27: "In the congregations bless ye God, the Lord from the fountains of Israel!"
-[^643]: In ancient liturgical practice, the Easter Vigil and Paschal Liturgy were the solemn occasions for the baptism and chrismation of catechumens. For this reason, the baptismal anthem "As many as have been baptized into Christ have put on Christ" (Елицы во Христа крестистеся, во Христа облекостеся; Gal. 3:27) replaces the Trisagion throughout Bright Week.
-[^644]: The Prokeimenon of the Paschal Divine Liturgy in Tone 8 is taken from Psalm 117:24 (LXX): "This is the day which the Lord hath made" (Сей день, егоже сотвори Господь). Fiol's 1491 witness records the archaic East Slavic epigraphic reading `Снидныи же сътвори` (representing `Сь дьнь иже сътвори`).
-[^645]: The Epistle reading at the Paschal Liturgy is the opening chapter of the Acts of the Holy Apostles (Acts 1:1–8), in which St. Luke recounts the risen Christ's forty days of appearances and His command to the Apostles to await the power of the Holy Spirit.
-[^646]: The Typikon rubric "and in the refectory great consolation for the brethren, and abundance" (на трапезѣ утѣшеніе братіи веліе, и дополненье бывае) marks the total relaxation of the Great Fast and the beginning of the Paschal banquet of meat, cheese, eggs, and wine.
-[^647]: The Order of the Elevation of the Panagia (Чинъ возношенія Панагіи) is the ancient monastic ritual of blessing and partaking of a triangular loaf of the Mother of God (the Panagia) after the common refectory meal, dating to early Byzantine and Palestinian monasticism. On Holy Pascha, this rite is elevated through the solemn presence and veneration of the Artos.
-[^648]: The Artos (Greek: ἄρτος, "leavened bread"; Slavonic: артосъ) is a large cylindrical consecrated loaf stamped with an icon of the Resurrection or the Cross, which rests upon the Holy Table or before the iconostasis throughout Bright Week, symbolizing the physical presence of the Risen Christ among His disciples after His Resurrection. Fiol's gloss specifically defines it for the Ruthenian reader: "which is a prosphora prepared for this purpose" (еже есть просфура на то устроена).
-[^649]: The refectory dialogue witnesses an archaic Studite-Ruthenian monastic formula: while the cellarer raises the Artos, the brethren proclaim: "Truly He is risen! We worship His third-day Resurrection!" (Покланяемся Его тридневному воскресенію).
-[^650]: Throughout Bright Week, following the midday meal in the trapeza, each monastic kisses the Artos/Panagia prosphora in hierarchic order, receiving the blessing of the Hegumen and offering thanksgiving to the monastic cooks and servers (служившіи намъ).
-[^651]: On Bright Saturday, after the conclusion of the Liturgy and the Ninth Hour, the Artos is solemnly fractured and distributed to all the monastics and faithful as a blessed antidoron of the Resurrection (раздробляютъ артосъ, и раздаваютъ братіи).
-[^652]: Paschal Vespers (often termed the "Agape Vespers") on the evening of the Great Sunday is celebrated with all clergy in full bright vestments. The Holy Doors remain wide open throughout the service, symbolizing the open gates of Paradise and the shattered doors of Hades.
-[^653]: The Dogmatikon Theotokion of Tone 1 (Прейде сѣнь законная / Παρῆλθεν ἡ σκιὰ τοῦ νόμου), composed by St. John of Damascus, expounds the fulfillment of the Old Testament types in the virgin birth and the Incarnation of Christ.
-[^654]: The Great Prokeimenon of Paschal Vespers, Tone 7: "Who is a god so great as our God? Thou art the God that doest wonders!" (Кто богъ велій, яко богъ нашъ? Ты еси богъ творяй чудеса; Ps. 76:14–15 LXX). In the ancient cathedral rite of Constantinople, this prokeimenon was chanted antiphonally from the ambo with great solemnity.
-[^655]: The Gospel of Paschal Vespers (John 20:19–25) recounts the appearance of the Risen Christ to the disciples on the evening of the Resurrection through the shut doors, His bestowal of the Holy Spirit and the power to forgive sins, and the absence and initial skepticism of St. Thomas ("Except I shall see... I will not believe").
-[^656]: The Paschal Stichera (Стихиры Пасхи), set in Tone 5 ("Pascha the sacred hath appeared unto us today...", Пасха священная намъ днесь явися), are chanted with verses from Psalm 67 at the Aposticha of Vespers, concluding with the doxasticon "This is the day of Resurrection" (Воскресенія день).
-[^657]: Throughout Bright Week, Vespers is celebrated daily following this identical festal Paschal structure (censing, Paschal opening, "Lord, I have cried", entrance, Great Prokeimenon, and Paschal Stichera), with the sole exception that the Gospel reading is reserved exclusively for the Sunday evening Agape Vespers.
-[^658]: Bright Monday Matins (Утреня въ Понедѣльникъ Свѣтлыя седмицы) begins with the priest vested in the epitrachelion, censing the Holy Table crosswise, and proclaiming the Paschal doxology: "Glory to the holy, consubstantial...".
-[^659]: The Paschal Canon, composed by St. John of Damascus in Tone 1 ("This is the day of Resurrection, let us be radiant, O ye peoples!", Воскресенія день, просвѣтимся людіе), is sung in its entirety at Matins on every day of Bright Week, preceded and accompanied by continuous censing of the holy icons and brethren.
-[^660]: As an ancient token of supreme Paschal joy, the penitential 50th Psalm ("Have mercy on me, O God", Ps. 50 LXX) is completely omitted from the daily order of Matins throughout Bright Week. Instead, the resurrection hymn "Having beheld the Resurrection of Christ" (Воскресеніе Христово видѣвше) is sung thrice, followed immediately by "Jesus having risen from the tomb" (Воскресъ Іисусъ отъ гроба).
-[^661]: In the monastic practice recorded by Fiol, following the conclusion of Matins on every day of Bright Week, the entire monastic community makes an outdoor solemn procession with processional crosses, icons, and gospel books around the perimeter of the monastery (и обиходятъ съ кресты манастырь), singing the Paschal hymns.
-[^662]: At the Divine Liturgy of Bright Monday, the Prokeimenon is taken from Psalm 18:5 (LXX), the classic apostolic proclamation: "Their sound is gone out into all the earth, and their words unto the ends of the world" (Во всю землю изыде вѣщаніе ихъ).
-[^663]: Bright Monday evening marks the liturgical beginning of Bright Tuesday (Вторникъ Свѣтлыя седмицы). In the Byzantine liturgical day reckoning, the evening service inaugurates the liturgical feast of the following civil day.
-[^664]: The Dogmatikon Theotokion of Tone 3 (Како не дивимся / Πῶς μὴ θαυμάσωμεν), composed by St. John of Damascus, meditates upon the incomprehensible mystery of the Virgin Mother giving birth in time to the timeless Son of God without knowing a human father.
-[^665]: The Great Prokeimenon of Bright Monday evening in Tone 7 is taken from Psalm 113:11 (LXX): "Our God is in heaven and on earth; all whatsoever He hath willed, He hath done" (Богъ нашъ на небеси и на земли, вся елика восхотѣ, сотвори), commemorating the miraculous crossing of the Red Sea and the Jordan.
-[^666]: At the Divine Liturgy of Bright Tuesday, the Prokeimenon is taken from the Song of the Theotokos (the Magnificat, Luke 1:46–47): "My soul doth magnify the Lord, and my spirit hath rejoiced in God my Savior" (Величитъ душа моя Господа, и возрадовася духъ мой о Бозѣ Спасѣ моемъ).
-[^667]: The Epistle pericope appointed for Bright Tuesday is Acts 2:14–21 (Pericope 4), containing St. Peter's first apostolic sermon on Pentecost, declaring the fulfillment of the prophecy of Joel concerning the outpouring of the Holy Spirit and the salvation of all who call upon the Name of the Lord.
-[^668]: The Gospel appointed for Bright Tuesday is Luke 24:12–35 (Pericope 113), the narrative of the two disciples on the road to Emmaus, whose hearts burned within them as Christ opened the Scriptures to them, recognizing Him in the breaking of the bread.
-[^669]: Bright Tuesday evening inaugurates the liturgical celebration of Bright Wednesday (Среда Свѣтлыя седмицы).
-[^670]: The Theotokion appointed at "Lord, I have cried" is the Dogmatikon of Tone 4 (Иже тебе ради богоотецъ пророкъ Давидъ / Ὁ διὰ σὲ θεοπάτωρ προφήτης Δαυῒδ), referencing Psalm 44:10 and expounding the royal and divine maternity of the Virgin. Fiol's text references `а҃ гласоу` in an epigraphic rubric referring either to Tone 1 or an internal choir sequence, while the hymn itself is the classical Tone 4 Dogmatikon.
-[^671]: The Great Prokeimenon of Bright Tuesday evening in Tone 8 is taken from Psalm 76:2 (LXX): "With my voice have I cried unto the Lord, with my voice unto God, and He gave ear unto me" (Гласомъ моимъ ко Господу воззвахъ, гласомъ моимъ къ Богу, и внятъ ми).
-[^672]: Matins on Bright Wednesday follows the identical order established on Bright Monday, concluding with the monastic outdoor cross procession around the cloister walls.
-[^673]: At the Divine Liturgy of Bright Wednesday, the Prokeimenon in Tone 3 is taken from Psalm 44:18 (LXX): "I will make Thy name to be remembered in all generations" (Помяну имя твое во всякомъ родѣ и родѣ), honoring the Most Holy Mother of God.
-[^674]: The Epistle pericope for Bright Wednesday is Acts 2:22–36 (Pericope 5), continuing St. Peter's Pentecost discourse, declaring that God raised up Jesus of Nazareth, having loosed the pains of death, and exalted Him to His right hand.
-[^675]: The Gospel appointed for Bright Wednesday is John 1:35–51 (Pericope 4), recounting the calling of the first disciples—Andrew, Simon Peter, Philip, and Nathanael—and Christ's promise that they would see heaven open and the angels of God ascending and descending upon the Son of Man.
-[^676]: Bright Wednesday evening inaugurates Bright Thursday (Четвертокъ Свѣтлыя седмицы).
-[^677]: The Dogmatikon Theotokion of Tone 5 (Въ Чермнѣмъ мори неискусобрачныя невѣсты образъ написася иногда / Ἐν τῇ Ἐρυθρᾷ θαλάσσῃ τῆς ἀπειроγάμου νύμφης εἰκὼν διεγράφη ποτέ), composed by St. John of Damascus, typologically parallels the miraculous parting of the Red Sea by Moses with the virginal conception and birth of Christ.
-[^678]: The Great Prokeimenon of Bright Wednesday evening in Tone 7 is taken from Psalm 54:2 (LXX): "Give ear, O God, unto my prayer, and despise not my supplication" (Внуши, Боже, молитву мою, и не презри моленія моего).
-[^679]: Bright Thursday Matins and the Divine Liturgy celebrate the continuing triumph of the Resurrection, with the unchanged Paschal Matins order and outdoor monastic procession.
-[^680]: At the Divine Liturgy of Bright Thursday, the Prokeimenon in Tone 6 is taken from Psalm 46:7 (LXX): "Sing praises unto our God, sing praises; sing praises unto our King, sing praises" (Пойте Богу нашему, пойте, пойте Цареви нашему, пойте).
-[^681]: The Epistle appointed for Bright Thursday is Acts 3:1–8 (Pericope 6), recording the healing of the man lame from birth at the Beautiful Gate of the Temple by Saints Peter and John in the Name of Jesus Christ of Nazareth.
-[^682]: The Gospel appointed for Bright Thursday is John 1:24–34 (Pericope 5), the testimony of St. John the Baptist concerning Christ as the Lamb of God Who takes away the sin of the world, upon Whom the Holy Spirit descended in the form of a dove.
-[^683]: Bright Thursday evening inaugurates Bright Friday (Пятокъ Свѣтлыя седмицы).
-[^684]: The Dogmatikon Theotokion of Tone 6 (Кто тебе не блажитъ, Пресвятая Дѣво / Τίς μὴ μακαρίσει σε, Παναγία Παρθένε), composed by St. John of Damascus, confesses the orthodox Christology of the Council of Chalcedon: Christ being perfect God and perfect man, in two unconfused natures united in one hypostasis.
-[^685]: The Great Prokeimenon of Bright Thursday evening in Tone 7 is taken from Psalm 17:2–3 (LXX): "I will love Thee, O Lord, my strength: the Lord is my firm foundation, and my refuge" (Возлюблю тя, Господи, крѣпосте моя: Господь утвержденіе мое, и прибѣжище мое).
-[^686]: In accordance with ancient Kyivan-Ruthenian monastic custom recorded by Fiol, on Bright Friday Matins the procession proceeds not merely around the cloister, but specifically to the monastic charnel house / ossuary / cemetery (к усыпалници), where the monastics chant the Paschal troparion over the graves and bones of departed brethren, proclaiming Christ's victory over the grave to their sleeping fathers and brothers.
-[^687]: At the Divine Liturgy of Bright Friday, the Prokeimenon in Tone 8 is taken from Psalm 18:5 (LXX): "Their sound is gone out into all the earth, and their words unto the ends of the world" (Во всю землю изыде вѣщаніе ихъ).
-[^688]: The Epistle appointed for Bright Friday is Acts 3:8–16 (Pericope 7), describing the astonishment of the people following the healing of the lame man, and St. Peter's sermon proclaiming that faith in the Name of Jesus has made this man strong in the presence of all.
-[^689]: The Gospel appointed for Bright Friday is John 2:12–22 (Pericope 6), recording Christ's cleansing of the Temple in Jerusalem and His prophetic declaration: "Destroy this temple, and in three days I will raise it up", which He spoke of the temple of His Body.
-[^690]: The Communion verse (Kinonikon) for the Divine Liturgy of Bright Friday is the Paschal Kinonikon taken from Psalm 115:4 (LXX): "The Body of Christ receive ye, taste of the Fountain of Immortality" (Тѣ́ло Христо́во пріими́те, исто́чника безсме́ртнаго вкуси́те).
-[^691]: Bright Friday evening inaugurates the liturgical celebration of Bright Saturday (Суббота Свѣтлыя седмицы).
-[^692]: The Dogmatikon Theotokion of Tone 8 (Царь небесный за человѣколюбіе на земли явися / Ὁ Βασιλεὺς τῶν οὐρανῶν διὰ φιλανθρωπίαν ἐπὶ τῆς γῆς ὤφθη), composed by St. John of Damascus, celebrating the Incarnation wherein the Son of God, without undergoing change or confusion, took human flesh of the Virgin Mary.
-[^693]: The Great Prokeimenon of Bright Friday evening in Tone 8 is taken from Psalm 60:6b (LXX): "Thou hast given an heritage unto them that fear Thy Name" (Далъ еси достояніе боящымся имене Твоего).
-[^694]: Rubric indicating the solemn, expansive choral chanting of the Great Prokeimenon with its two psalm verses.
-[^695]: Matins on Bright Saturday follows the identical order established on Bright Monday, including the monastic outdoor cross procession around the cloister walls.
-[^696]: At the Divine Liturgy of Bright Saturday, the Prokeimenon in Tone 4 is taken from Psalm 26:1 (LXX): "The Lord is my illumination and my Savior: whom shall I fear?" (Господь просвѣщеніе мое и Спаситель мой: кого убоюся?).
-[^697]: The Epistle appointed for Bright Saturday is Acts 3:11–16 (Pericope 8), concluding St. Peter's sermon to the people following the miraculous healing of the lame man at Solomon's Porch.
-[^698]: The Gospel appointed for Bright Saturday is John 3:22–33 (Pericope 8), containing the final testimony of St. John the Baptist concerning Christ: "He that hath the bride is the bridegroom... He must increase, but I must decrease."
-[^699]: The solemn monastic elevation, breaking, and distribution of the Artos (чин возношенія и раздробленія артоса) at the refectory (trapeza) on Bright Saturday. The Artos, which was blessed on Pascha night and has stood before the icon of the Resurrection throughout Bright Week, is cut into portions by the cellarer (келарь) and distributed to all the brethren as a pledge of the resurrected Savior's abiding presence.
-[^700]: In the monastic elevation of the Panagia/Artos throughout the forty days of Paschaltide (from Bright Saturday until the Apodosis of Pascha on the eve of the Ascension), the Paschal greeting "Christ is risen" (Христосъ воскресе) displaces the ordinary formula "Great is the Name of the Holy Trinity" (Велико имя Святыя Троицы). The printed Slavonic witness `въ мѣ́стѣ́ , великомїа` is an epigraphic rendering of `вмѣсто: Велико имя [Святыя Троицы]`.
-[^701]: The classical responsorial formula of the Chin o Panagii: the cellarer or superior elevates the bread, crossing it, with the petition: "All-holy Theotokos, help us!" (Пресвятая Богородице, помогай намъ), to which the brethren respond in chorus: "By her prayers, O God, have mercy on us!" (Тоя молитвами, Боже, помилуй насъ).
-[^702]: The refectory rite concludes with the Megalynarion "All generations call thee blessed" (Блажатъ тя вси роди), the customary post-prandial thanksgiving prayers, and the departure of the monastic community chanting Paschal hymns.
-[^703]: The Sunday of Antipascha (Недѣля Антипасхи), also designated New Sunday (Новая недѣля) and Saint Thomas Sunday (Недѣля святаго апостола Ѳомы), celebrates Christ's appearance to the eleven Apostles eight days after His Resurrection and the confession of St. Thomas. Little Vespers (Малая вечерня) is celebrated on Saturday afternoon before sunset.
-[^704]: The Sticheron of Thomas Sunday in Tone 1 (Дверемъ заключеннымъ ученикомъ собраннымъ / Τῶν θυρῶν κεκλεισμένων τῶν μαθητῶν συνηγμένων).
-[^705]: The Aposticha idiomela of Thomas Sunday in Tone 4 (О преславнаго чудесе! невѣріе вѣру известную роди / Ὢ τοῦ παραδόξου θαύματος! ἡ ἀπιστία πίστιν βεβαίαν ἐγέννησε).
-[^706]: Great Vespers of Thomas Sunday, forming the opening service of the All-Night Vigil.
-[^707]: The Troparion of Thomas Sunday in Tone 7 (Запечатану гробу, животъ отъ гроба возсіялъ еси, Христе Боже / Ἐσφραγισμένου τοῦ μνήματος, ἡ ζωὴ ἐκ τάфου ἀνέτειλας, Χριστὲ ὁ Θεός).
-[^708]: In accordance with ancient Studite and Sabbaitic Typika, during the Paschal season extending from Thomas Sunday until All Saints (Sunday after Pentecost), the Great Patristic/Scriptural reading between Kathismata at the All-Night Vigil is taken from the Acts of the Apostles (Дѣянія святыхъ апостолъ). When the book is completed, it is read through again.
-[^709]: At Thomas Sunday Matins, two Kathismata from the Psalter are sung, followed by the Polyeleos (Psalms 134–135), here designated `липого мл҃тивы` / `милостива` from its characteristic refrain "For His mercy endures forever."
-[^710]: The Patristic reading appointed after the Kathismata/Polyeleos on Thomas Sunday is St. Gregory the Theologian's Oration 44: On New Sunday (Въ Богословѣ / Слово святаго Григорія Богослова на Новую недѣлю).
-[^711]: The Kontakion of Thomas Sunday in Tone 8 (Любопытною десницею, жизноподательная Твоя ребра, Фома испыта / Τῇ φιλοπράγμονι δεξιᾷ, τὰ ζωοπάροχά σου πλευρά, ὁ Θωμᾶς ἐξηρεύνησε), composed by St. Romanos the Melodist, concluding with Thomas's confession: "My Lord and my God!" (John 20:28).
-[^712]: At Ode 9 of the Matins Canon during Paschaltide, the Magnificat ("My soul doth magnify the Lord") and the Heirmos refrain "More honorable than the Cherubim" are omitted in favor of the festal refrains and Ode 9 Heirmos.
-[^713]: The Exapostilarion of Thomas Sunday in Tone 3, Podoben: "O Thou Who hast adorned the heaven with stars" (Моихъ удовъ рукою твоею испытавый язвы / Ἐμῶν μελῶν τῇ χειρί σου ἐρευνήσας τὰς πληγάς).
-[^714]: Melodic model incipit from the Octoechos: *Tone 1, Podoben: "All-praised martyrs" (Всехвалніи мученицы / Πανεύφημοι μάρτυρες)*.
-[^715]: At the Divine Liturgy of Thomas Sunday, the Prokeimenon in Tone 3 is taken from Psalm 146:5 (LXX): "Great is our Lord, and great is His power, and of His understanding there is no number" (Велій Господь нашъ, и велія крѣпость Его, и разума Его нѣсть числа).
-[^716]: The Epistle pericope for Thomas Sunday is Acts 5:12–20 (Pericope 14), recounting the signs and wonders wrought by the Apostles in Jerusalem, the healing of the sick in Solomon's Porch, and the angel of the Lord opening the prison doors by night.
-[^717]: The Gospel pericope for Thomas Sunday is John 20:19–31 (Matins Gospel 9 / John Pericope 65), recounting Christ's appearances to the disciples behind shut doors on the evening of Pascha and eight days later when Thomas touched His wounds and confessed Him as Lord and God.
-[^718]: The Communion verse (Kinonikon) for Thomas Sunday is taken from Psalm 147:1 (LXX): "Praise the Lord, O Jerusalem; praise thy God, O Zion" (Похвали, Іерусалиме, Господа, хвали Бога твоего, Сіоне).
-[^719]: On Thomas Sunday evening at Vespers, the Psalter Kathisma is omitted because the great festal Solemnity of the Octave of Pascha concludes at this office.
-[^720]: The Great Prokeimenon of Sunday evening in Tone 7 is taken from Psalm 76:14–15 (LXX): "Who is so great a god as our God? Thou art the God that doest wonders" (Кто Богъ велій, яко Богъ нашъ? Ты еси Богъ творяй чудеса).
-[^721]: Typikon directive establishing the uniform Sunday evening and weekday liturgical order from Thomas Sunday throughout the entire Pentecostarion period until the Feast of Holy Pentecost (Пятидесятница). The printed witness `кврѣ́ ст҃го пантикостна` is an early scribal variant for `кромѣ́` (except) or `до времене` (until the season).
-[^722]: At Monday Matins Aposticha during the Second Week, the psalm verse is taken from Psalm 18:5 (LXX), the apostolic kinonikon and prokeimenon honoring the Holy Apostles, to whom Monday is consecrated.
-[^723]: The priestly dismissal blessing formula: "Blessed is the Son of God, our God" (Сынъ благословенъ Богъ нашъ / or Благословенъ Богъ нашъ), uniting the conclusion of Matins directly to the First Hour without an intervening full dismissal.
-[^724]: On Monday after Thomas Sunday, the ordinary chanting of the Psalter resumes in the divine services: two Kathismata at Matins and one Kathisma at Vespers daily, following the summer monastic distribution rule.
-[^725]: The chanting of the daily Theotokion Canons (Канонъ Богородицѣ въ Тріоди) at Compline (Павечерница) begins on Monday after Thomas Sunday and continues through the Pentecostarion cycle.
-[^726]: Typikon rule governing the opening prayers of every divine office throughout the forty days from Pascha until the Ascension: after the priest's initial blessing, "Christ is risen from the dead" is sung thrice, displacing "O Heavenly King" (Царю Небесный, which is not said until Pentecost) and the Trisagion opening, proceeding directly from "Christ is risen" to "All-holy Trinity" and "Our Father".
-[^727]: At Matins throughout the entire 40 days of Paschaltide until Ascension Thursday, the hymn "Having beheld the Resurrection of Christ" (Воскресеніе Христово видѣвше) is sung daily after the second kathisma / litany.
-[^728]: General rubrical rule: the weekly liturgical offices until Ascension follow the Octoechos cycle of Tones and Triodion/Pentecostarion propers, with the weekly Tone changing each Sunday.
-[^729]: Ancient Kyivan-Ruthenian rubrical rule: on Wednesdays and Fridays throughout Paschaltide, the Stichera of the Cross (крестныя стихиры) precede the Resurrectional stichera, commemorating Christ's Passion which preceded His glorious third-day Resurrection.
-[^730]: The Dogmatikon Theotokion of Tone 1 (Всемірную славу, отъ человѣкъ прозябшую / Τὴν παγκόσμιον δόξαν, τὴν ἐξ ἀνθρώπων σπαреῖσαν), composed by St. John of Damascus.
-[^731]: On Friday evening (inaugurating Saturday), the Canon for the Departed (Канонъ о усопшихъ) from the Octoechos is appointed at Compline throughout all weeks of the Pentecostarion, maintaining regular monastic prayer for deceased brethren.
-[^732]: On Saturday of the Second Week, the Apodosis (Отданіе) of Thomas Sunday is celebrated, combining the festal service with the temple patron saint or the daily Menaion commemorations.
-[^733]: At the Divine Liturgy on Saturday of the Second Week, the festive propers of Thomas Sunday are combined with the daily Epistle and Gospel readings.
-[^734]: The Third Sunday of Pascha (counted as the Second Sunday after Pascha Sunday) is dedicated to the Holy Myrrh-Bearing Women (Святыя мироносицы: Mary Magdalene, Mary the wife of Cleopas, Joanna, Salome mother of the sons of Zebedee, Susanna, and Martha and Mary the sisters of Lazarus) and Righteous Joseph of Arimathea and Nicodemus.
-[^735]: The Doxastikon of the Myrrh-Bearers at Vespers in Tone 6 (Мироносицы жены, утре глубоко / Μυроφόροι γυναῖκες, ὄρθρου βαθέος).
-[^736]: The Dogmatikon Theotokion of Tone 2 (Прейде сѣнь законная, благодати пришедшей / Παρῆλθεν ἡ σκιὰ τοῦ νόμου, τῆς χάριτος ἐλθούσης), composed by St. John of Damascus.
-[^737]: The Aposticha Doxastikon of the Myrrh-Bearers in Tone 5 (Тебе одѣющагося свѣтомъ яко ризою / Τὸν ἀναβαλλόμενον τὸ φῶς ὥσπερ ἱμάτιον), the solemn funeral hymn of Joseph and Nicodemus chanted also at Great and Holy Friday Vespers.
-[^738]: The Resurrectional Troparion of Tone 2 (Егда снизшелъ еси къ смерти, Животе Безсмертный / Ὅτε κατῆλθες πρὸς τὸν θάνατον, ἡ ζωὴ ἡ ἀθάνατος).
-[^739]: The Troparion of Righteous Joseph of Arimathea in Tone 2 (Благообразный Іосифъ, с древа снемъ пречистое Тѣло Твое / Ὁ εὐσχήμων Ἰωσήφ, ἀπὸ τοῦ ξύλου καθελών).
-[^740]: The Troparion of the Holy Myrrh-Bearing Women in Tone 2 (Мироносицамъ женамъ при гробѣ представъ ангелъ / Ταῖς μυροφόροις γυναιξί, παρὰ τὸ μνῆμα ἐπιστάς).
-[^741]: The Third Matins Resurrection Gospel is Mark 16:9–20 (Pericope 71), recounting Christ's appearance first to Mary Magdalene and subsequently to the two disciples walking into the country and to the eleven as they sat at meat.
-[^742]: The Matins Canon on the Sunday of the Myrrh-Bearers combines the Paschal Canon of St. John of Damascus ("Day of Resurrection") with the Canon of the Myrrh-Bearers composed by St. Andrew of Crete.
-[^743]: The Kontakion of the Myrrh-Bearers in Tone 2 (Радоватися мироносицамъ повелѣлъ еси / Τὸ χαῖρε ταῖς μυροφόροις προστάξας), composed by St. Romanos the Melodist.
-[^744]: The Paschal Exapostilarion in Tone 2 (Плотію уснувъ яко мертвъ / Σαρκὶ ὑπνώσας ὡς θνητός).
-[^745]: The Third Evangelical Sticheron (Eothinon 3) in Tone 3 (Съ миры пришедшымъ, яже съ Маріею женамъ / Τῆς Μαγδαληνῆς Μαρίας).
-[^746]: At the Divine Liturgy of the Sunday of the Myrrh-Bearers, the Prokeimenon in Tone 6 is taken from Psalm 27:9 (LXX): "Save, O Lord, Thy people, and bless Thine inheritance" (Спаси, Господи, люди Твоя, и благослови достояніе Твое).
-[^747]: The Epistle pericope for the Sunday of the Myrrh-Bearers is Acts 6:1–7 (Pericope 16), recording the ordination of the first seven deacons (including St. Stephen the Protomartyr and St. Philip) by the Apostles.
-[^748]: The Gospel pericope for the Sunday of the Myrrh-Bearers is Mark 15:43–16:8 (Pericope 69), recounting Joseph of Arimathea going in boldly unto Pilate and begging the Body of Jesus, and the Myrrh-Bearing Women arriving early at the tomb on the first day of the week. Fiol's printed text erroneously designates the evangelist as John (`ѿ іѡана`), while quoting the incipit of Mark: "Joseph came" (`Прииде іѡсифь`).
-[^749]: The Sunday Communion verse (Kinonikon) from Psalm 148:1 (LXX): "Praise the Lord from the heavens, praise Him in the highest" (Хвалите Господа съ небесъ, хвалите Его въ вышнихъ).
-[^750]: Typikon rubric: from the Third Sunday of Pascha onward, the evening Vesperal Entrance is discontinued on ordinary Sunday evenings, since Great Prokeimena are appointed only on Pascha Sunday and Thomas Sunday evenings.
-[^751]: The weekday order of the Third Week follows the pattern of the Second Week, concluding on Saturday with the Apodosis of the Sunday of the Myrrh-Bearing Women.
-[^752]: At the Divine Liturgy on Saturday of the Third Week, Ode 9 of the Canon of the Myrrh-Bearers is appointed with the festal heirmoi on 6, while the Epistle and Gospel are taken from the daily cycle.
-[^753]: The Fourth Sunday of Pascha (Sunday 3 after Pascha Sunday) commemorates the miraculous healing of the Paralytic at the Bethesda Sheep Pool by our Lord Jesus Christ (John 5:1–15).
-[^754]: The Vesperal Doxastikon of the Paralytic in Tone 5 (Взыде Іисусъ во Іерусалимъ / Ἀνέβη ὁ Ἰησοῦς εἰς Ἱεροσόλυμα).
-[^755]: The Aposticha Doxastikon of the Paralytic in Tone 8 (Въ притворѣ Соломоновѣ тамо лежаше множество болящихъ / Ἐν τῇ στοᾷ τοῦ Σολομῶντος, ἐκεῖ κατέκειто πλῆθος τῶν ἀσθενούντων).
-[^756]: The Fourth Matins Resurrection Gospel is Luke 24:1–12 (Pericope 112), recounting the visit of the women to the sepulchre, the message of the two men in shining garments, and St. Peter running unto the sepulchre and finding the linen clothes laid by themselves.
-[^757]: The Kontakion of the Sunday of the Paralytic in Tone 3 (Дꙋшꙋ мою, Господи, во грѣсѣхъ всяческихъ / Τὴν ψυχήν μου Κύριε, ἐν ἁμαρτίαις παντοίαις), sung to the melodic model *Tone 3, Podoben: "Today the Virgin" (Дѣва днесь / Ἡ Παρθένος σήμερον)*, composed by St. Romanos the Melodist.
-[^758]: In accordance with Paschaltide practice, the Magnificat ("My soul doth magnify the Lord") and the Marian refrain "More honorable than the Cherubim" are omitted at Ode 9 of Matins in favor of the festal heirmoi and troparia.
-[^759]: The Doxastikon of the Paralytic at the Praises in Tone 8 (Господи, разслабленнаго не купель исцѣли / Κύριε, τὸν Παράλυτον οὐχ ἡ κολυμβήθра ἐθεράπευσεν), celebrating Christ's sovereign word which immediately restored the paralytic without need of the Bethesda pool.
-[^760]: The Epistle pericope appointed for the Sunday of the Paralytic is Acts 9:32–42 (Pericope 23), recording St. Peter healing the paralytic Aeneas at Lydda and raising Tabitha (Dorcas) from the dead at Joppa.
-[^761]: The Gospel pericope for the Sunday of the Paralytic is John 5:1–15 (Pericope 14), recounting Christ healing the man who had suffered an infirmity for thirty-eight years at the Sheep Pool (Bethesda) in Jerusalem on the Sabbath day.
-[^762]: Typikon directive: the liturgical commemoration of the Paralytic is observed for three days (Sunday, Monday, and Tuesday of the Fourth Week of Pascha) before the arrival of Mid-Pentecost.
-[^763]: The Feast of Mid-Pentecost (Преполовеніе Пятидесятницы / Μεσοπεντηκοστή), occurring on Wednesday of the Fourth Week of Pascha (the twenty-fifth day after Pascha and twenty-five days before Pentecost), celebrating Christ as the Divine Wisdom and Fountain of Living Water.
-[^764]: The Aposticha idiomela of Mid-Pentecost in Tone 1 and Tone 2, accompanied by the festal psalm verses from Psalm 73:2, 12 (LXX).
-[^765]: The Festal Troparion of Mid-Pentecost in Tone 8 (Преполовьшуся празднику, жаждущую душу мою благочестія напой водами / Μεσούσης τῆς ἑορτῆς, διψῶσάν μου τὴν ψυχήν), drawing upon Christ's proclamation in the Temple at the midst of the Feast of Tabernacles (John 7:37–38).
-[^766]: At Matins of Mid-Pentecost, two canons are chanted together: the first canon in Tone 4 composed by St. Theophanes the Branded, and the second canon in Tone 8 composed by St. Andrew of Crete, both with their heirmoi chanted on 12.
-[^767]: The Kontakion of Mid-Pentecost in Tone 4 (Празднику законному преполовляющуся, всѣхъ Творче и Владыко / Τῆς ἑορτῆς τῆς νομικῆς μεσαζούσης), composed by St. Anatolius.
-[^768]: The Praises stichera of Mid-Pentecost in Tone 4, sung to the melodic model *Tone 4, Podoben: "As noble" (Яко добля / Ὡς γενναῖον)*.
-[^769]: The Epistle appointed for Mid-Pentecost is Acts 14:6–18 (Pericope 34), recounting the preaching of Paul and Barnabas at Lystra and Derbe, and the miraculous healing of the man crippled from birth.
-[^770]: The Gospel appointed for Mid-Pentecost is John 7:14–30 (Pericope 26), wherein Christ enters the Temple in the midst of the feast and teaches the people, answering those who marvel at His wisdom and authority.
-[^771]: The Communion verse (Kinonikon) for Mid-Pentecost is taken from John 6:56: "He that eats My Flesh and drinks My Blood abides in Me, and I in him, saith the Lord" (Ядый Мою Плоть, и піяй Мою Кровь, во Мнѣ пребываетъ, и Азъ въ немъ, рече Господь).
-[^772]: The liturgical afterfeast of Mid-Pentecost is observed for eight days, extending through the following Wednesday, which serves as the Apodosis (Отданіе) of the feast.
-[^773]: The Sunday of the Samaritan Woman (Недѣля о Самарянынѣ / Κυριακὴ τῆς Σαμαρείτιδος), celebrated on the Fifth Sunday of Pascha (the fourth Sunday after Pascha Sunday), commemorating St. Photina and her encounter with our Lord at Jacob's Well (John 4:5–42).
-[^774]: The Dogmatikon Theotokion of Tone 4 (Иже Тебе ради Богоотецъ пророкъ Давидъ / Ὁ διὰ σὲ θεοπάτωρ προφήτης Δαυῒδ), composed by St. John of Damascus.
-[^775]: The Matins Resurrection Gospel appointed for the Sunday of the Samaritan Woman is Gospel 7 (John 20:1–10), recording Mary Magdalene discovering the empty tomb and running to tell Peter and John.
-[^776]: The Kontakion of the Samaritan Woman in Tone 8 (Вѣрою пришедшая на кладязь Самаряныня / Πίστει ἐλθοῦσα ἐν τῷ φρέατι ἡ Σαμαρεῖτις), celebrating St. Photina drinking abundantly of the water of eternal wisdom.
-[^777]: At the Divine Liturgy of the Sunday of the Samaritan Woman, the Prokeimenon in Tone 3 is taken from Psalm 46:7 (LXX): "Chant praises unto our God, chant praises; chant praises unto our King, chant praises!" (Пойте Богу нашему, пойте, пойте Цареви нашему, пойте).
-[^778]: The Epistle pericope for the Sunday of the Samaritan Woman is Acts 11:19–26, 29–30 (Pericope 28), recording the preaching of the Gospel to the Greeks at Antioch and the disciples being called Christians there for the first time.
-[^779]: The Gospel pericope for the Sunday of the Samaritan Woman is John 4:5–42 (Pericope 12), recounting Christ's conversation with the Samaritan woman at Jacob's Well regarding the water springing up into everlasting life and true worship of the Father in spirit and truth.
-[^780]: Typikon rule governing the Fifth Week of Pascha: the hymns of the Samaritan Woman are combined with those of Mid-Pentecost, whose Apodosis (Apodosis) takes place on Wednesday of the Fifth Week (inaugurated at Vespers on Tuesday evening).
-[^781]: The Apodosis (Apodosis / Отданіе) of the Feast of Mid-Pentecost is celebrated on Wednesday of the Fifth Week of Pascha, concluding the octave with the full festal office of Mid-Pentecost.
-[^782]: The Katavasia appointed for the Apodosis of Mid-Pentecost is the Heirmos of Ode 1, Tone 4: "The sea curdled" (Море огустилъ еси / Θάλασσαν ἔπηξας).
-[^783]: The Sixth Sunday of Pascha (the fifth Sunday after Pascha Sunday) is dedicated to the commemoration of the Blind Man (Недѣля о слѣпомъ / Κυριακὴ τοῦ Τυφλοῦ), celebrating the miraculous healing of the man born blind (John 9:1–38).
-[^784]: The Dogmatikon Theotokion of Tone 5 (Въ Чермнѣмъ мори неискусобрачныя невѣсты образъ / Ἐν τῇ Ἐρυθρᾷ θαλάσσῃ τῆς ἀπειρογάμου νύμφης εἰκὼν διεγράφη ποτέ), composed by St. John of Damascus.
-[^785]: The Eighth Matins Resurrection Gospel is John 20:11–18, recounting Mary Magdalene weeping at the tomb, her vision of two angels in white, and her encounter with the risen Christ.
-[^786]: The Katavasia for the Sunday of the Blind Man is the Heirmos of Ode 1, Tone 5: "Unto God our Savior" (Спасителю Богу / Τῷ Σωτῆρι Θεῷ).
-[^787]: The Kontakion of the Sunday of the Blind Man (Душевныма очима ослѣпленъ / Τυφλωθεὶς τὰ τῆς ψυχῆς ὄμματα), composed by St. Romanos the Melodist. In standard liturgical practice this hymn is sung in Tone 4, though Fiol's printed text labels it Tone 2 (`коⷩ҇ гл҃ · в҃`).
-[^788]: The Doxastikon of the Blind Man at the Praises in Tone 8 (Кто возглаголетъ силы Твоя, Христе / Τίς λαλήσει τὰς δυναστείας σου Χριστέ), extolling Christ Who touched the eyes of the man born blind and bestowed upon him both physical vision and the spiritual contemplation of the Godhead.
-[^789]: The Prokeimenon at the Liturgy of the Sunday of the Blind Man in Tone 8 is taken from Psalm 75:12 (LXX): "Make your vows, and pay them unto the Lord our God" (Помолитеся и воздадите Господеви Богу нашему).
-[^790]: The Epistle pericope for the Sunday of the Blind Man is Acts 16:16–34 (Pericope 38), recounting the imprisonment of Paul and Silas at Philippi, the midnight earthquake that opened the prison doors, and the baptism of the jailer and his household.
-[^791]: The Gospel pericope for the Sunday of the Blind Man is John 9:1–38 (Pericope 34), recounting Christ making clay with spittle, anointing the eyes of the man blind from birth, and commanding him to wash in the pool of Siloam.
-[^792]: The Apodosis (Apodosis / Отданіе) of Pascha is observed on Wednesday of the Sixth Week (the day preceding the Great Feast of the Ascension), with its liturgical services commencing on Tuesday evening.
-[^793]: The solemn Paschal Stichera ("Let God arise... Pascha the sacred...") are sung at the Aposticha of Vespers and at the Praises of Matins for the final time in the liturgical year.
-[^794]: The Resurrectional Troparion of Tone 5 (Собезначальное Слово Отцу и Духови / Τὸν συνάναρχον Λόγον Πατρὶ καὶ Πνεύματι), celebrating Christ Who willingly mounted the Cross in the flesh to raise the dead by His glorious Resurrection.
-[^795]: At Matins on the Apodosis of Pascha, the Paschal Canon is combined with the Canon of the Blind Man and the Canon of the Forefeast of the Ascension in Tone 5.
-[^796]: On the Apodosis of Pascha, both choirs assemble together in the center of the church to chant the Paschal Stichera and the quadruple repetition of "Christ is risen from the dead" (Христосъ воскресе).
-[^797]: The Prokeimenon at the Liturgy of the Apodosis of Pascha in Tone 8 is taken from Psalm 117:24 (LXX): "This is the day which the Lord hath made; let us rejoice and be glad in it!" (Сей день, егоже сотвори Господь, возрадуемся и возвеселимся въ онь).
-[^798]: The Alleluia at the Liturgy on the Apodosis of Pascha in Tone 4 is taken from Psalm 101:14, 20b (LXX): "Thou having arisen shalt have mercy upon Zion... Verse: The Lord from heaven looked upon the earth" (Ты воскресъ ущедриши Сіонъ... Господь съ небесе на землю призрѣ).
-[^799]: The Great Feast of the Ascension of our Lord Jesus Christ (Вознесеніе Господне / Ἡ Ἀνάληψις τοῦ Κυρίου), celebrated on the fortieth day after Pascha (Thursday of the Sixth Week), with an All-Night Vigil.
-[^800]: The Vesperal Doxastikon of the Ascension in Tone 6 (Нѣдръ Отеческихъ не разлучився / Τῶν πατρικῶν κόλπων μὴ χωρισθείς), confessing that the incarnate Word, while ascending bodily into heaven, remained inseparable from the bosom of the Father.
-[^801]: The three Old Testament Readings (Paremias) appointed for Great Vespers of the Ascension: Isaiah 2:2–3 (The mountain of the Lord's house); Isaiah 62:10–63:9 (Go through the gates... Who is this that comes from Edom); and Zechariah 14:4, 8–11 (His feet shall stand in that day upon the Mount of Olives).
-[^802]: The Aposticha Doxastikon of the Ascension in Tone 6 (Взыде Богъ въ воскликновеніи, Господь во гласѣ трубнѣ / Ἀνέβη ὁ Θεὸς ἐν ἀλαλαγμῷ, Κύριος ἐν φωνῇ σάλπιγγος), based upon Psalm 46:6 (LXX).
-[^803]: The Festal Troparion of the Ascension in Tone 4 (Вознеслся еси во славѣ, Христе Боже нашъ / Ἀνελήφθης ἐν δόξῃ, Χριστὲ ὁ Θεὸς ἡμῶν).
-[^804]: The Matins Prokeimenon of the Ascension in Tone 4 from Psalm 46:6 (LXX): "God is gone up with a shout, the Lord with the sound of a trumpet!" (Взыде Богъ въ воскликновеніи, Господь во гласѣ трубнѣ).
-[^805]: The Matins Gospel for the Ascension is Mark 16:9–20 (Resurrection Gospel 3), recording the Lord Jesus Christ being received up into heaven and sitting on the right hand of God following His final commission to the eleven Apostles.
-[^806]: At Matins of the Ascension, two canons are chanted: the first canon in Tone 5 composed by St. John of Damascus, and the second canon in Tone 4 composed by St. Joseph the Hymnographer.
-[^807]: The Katavasia for the Ascension is the Iambic Heirmos of Ode 1 in Tone 4: "Covered by the divine cloud" (Божественнымъ покровенъ / Θείῳ καλυφθεὶς ὁ βραδύγлωσσος γνόφῳ).
-[^808]: The Kontakion of the Ascension in Tone 6 (Еже о насъ исполнивъ смотрѣніе / Τὴν ὑπὲρ ἡμῶν πληρώσας οἰκονομίαν), composed by St. Romanos the Melodist.
-[^809]: The Festal Exapostilarion of the Ascension in Tone 2 (Ученикомъ зрящымъ тя вознеслся еси, Христе / Τῶν Μαθητῶν ὁρώντων σε ἀνελήφθης, Χριστέ).
-[^810]: On the Divine Liturgy of the Feast of the Ascension of the Lord: The antiphons are taken from the festal Canon (Odes 3 and 6), followed by the special festal Entrance verse based on Ps. 94:6 with the addition of the festal clause: "O come, let us worship and fall down before Him; save us, O Son of God, Who didst ascend in glory, who sing to Thee: Alleluia!" The Prokeimenon is taken from Ps. 107:6, 2 [LXX 107:6, 2 / MT 108:5, 1].
-[^811]: The Epistle reading for Ascension Thursday is Acts 1:1–14 (Pericope 1). Schweipolt Fiol's rubric specifies the conclusion of the pericope ("коне · оужбо тѣи млтващим жѧ") corresponding to Acts 1:14: "These all continued with one accord in prayer and supplication, with the women, and Mary the mother of Jesus, and with His brethren."
-[^812]: Fiol's rubric prescribes the 6th Morning/Matins Gospel (Luke 24:36–53, Pericope 114) for the Divine Liturgy of the Ascension. This reflects the venerable ancient Studite and early Jerusalem Typikon practice where the Evangelic pericope recounting Christ's bodily Ascension into heaven at Bethany was read at the Eucharistic celebration itself.
-[^813]: At Ascension Thursday Vespers, the Kathisma stichology is omitted on account of the solemnity of the feast. The Great Prokeimenon in Tone 7 (*Bog nash na nebesi i na zemli...*) is chanted from Ps. 113:11, with its three appointed verses from Ps. 113:1, 3, 5 [LXX 113:19, 1, 3, 5 / MT 115:3, 114:1, 3, 5].
-[^814]: Sunday 7 after Pascha: Commemoration of the 318 Holy and God-bearing Fathers of the First Ecumenical Council, convoked at Nicaea in AD 325 under Emperor Constantine the Great to condemn the Arian heresy and formulate the foundational Creed (*Symbolum Nicaenum*) proclaiming the Son to be consubstantial (*homoousios*) with the Father. The liturgical office combines the Resurrectional hymns of Tone 6 with the hymns of the Ascension and those of the Holy Fathers.
-[^815]: The festal Troparion of the Holy Fathers, Tone 4: "Препрославлен еси, Христе Боже наш..." (*Hyperdedoxasmenos ei, Christe ho Theos hemon*), extolling Christ for establishing the holy Fathers as radiant beacons guiding the Church into orthodox dogma.
-[^816]: The Kontakion of the Holy Fathers, Tone 8: "Апостольское проповедание и отец догматы..." (*To kerygma ton apostolon kai ta ton pateron dogmata*). The hymn celebrates the doctrinal unity of the Church, depicting her as clad in a radiant, untearable tunic woven from the divine theology revealed from above.
-[^817]: The scriptural pericopes for the Liturgy of the Holy Fathers of the First Council: Prokeimenon from the Canticle of the Three Holy Children (Dan. 3:26, 27); Epistle from Acts 20:16–18, 28–36 (Pericope 44), containing St. Paul's warning to the presbyters of Ephesus against ravenous wolves entering the flock; and Gospel from John 17:1–13 (Pericope 56), Christ's High Priestly Prayer for the unity of His disciples.
-[^818]: Friday of the 7th Week after Pascha: The Apodosis (Apodosis or conclusion) of the Ascension of our Lord. In ancient typika, including the 1491 Krakow Horologion and earlier Studite witnesses, the Apodosis of Ascension was celebrated on Friday rather than the eve of the feast, completing the full post-festal octave prior to the pre-Pentecostal Soul Saturday.
-[^819]: Saturday before Pentecost: The Trinity Memorial Saturday / Soul Saturday (*Troitskaya roditelskaya subbota*). The liturgical order for this commemoration of all Orthodox Christians who have fallen asleep from the beginning of time is identical to that prescribed for Meatfare Saturday (*subbota miasopustnaya*), utilizing the full funerary office of Vespers and Matins with the Kathisma of the Departed (Kathisma 17) and the solemn Requiem Canon.
-[^820]: Sunday of Holy Pentecost: The fiftieth day following the Resurrection of Christ and the tenth day after His glorious Ascension, celebrating the outpouring of the Holy Spirit upon the Apostles in the form of divided tongues of fire (Acts 2). In Ruthenian and wider Slavic tradition, this feast is also celebrated as Trinity Sunday (*Troitsa*), emphasizing the full and final revelation of the triune Godhead.
-[^821]: The festal Troparion of Pentecost, Tone 8: "Благословен еси, Христе Боже наш..." (*Eulogetos ei, Christe ho Theos hemon*), one of the oldest extant liturgical hymns of the Byzantine rite, praising Christ for transforming simple Galilean fishermen into wise fishers of men through the descent of the Holy Spirit.
-[^822]: The Matins Gospel for Pentecost is the 9th Resurrection Gospel (John 20:19–31, Pericope 65). The rubric explicitly notes that the Resurrectional hymn "Having beheld the Resurrection of Christ" (*Voskreseniye Khristovo videvshe*) is omitted, as the Sunday office is entirely subsumed by the Great Dominical Feast.
-[^823]: The festal Kontakion of Pentecost, Tone 8: "Егда сошед языки размеси..." (*Hote katabas tas glossas synechee*), contrasting the dispersion and confusion of languages at the Tower of Babel (Gen. 11) with the harmonious gathering of all nations into one voice through the fiery tongues of the Holy Spirit.
-[^824]: At the Divine Liturgy of Pentecost, the customary typika and Beatitudes are replaced by three festal antiphons. Antiphon 1 is drawn from Ps. 18:2–5 [LXX 18:2–5 / MT 19:1–4], accompanied by the refrain: "Through the prayers of the Theotokos, O Savior, save us!"
-[^825]: The Second Antiphon of Pentecost Liturgy is drawn from Ps. 19:2–5 [LXX 19:2–5 / MT 20:1–4], accompanied by the special festal refrain addressing the Holy Spirit: "Save us, O good Comforter, who sing to Thee: Alleluia, alleluia, alleluia!"
-[^826]: The Third Antiphon of Pentecost Liturgy is drawn from Ps. 20:2–4 [LXX 20:2–4 / MT 21:1–3], with the festal Troparion ("Blessed art Thou, O Christ our God...") chanted as the refrain after each verse.
-[^827]: At the Divine Liturgy of Pentecost, the baptismal proclamation from Galatians 3:27 ("As many as have been baptized into Christ have put on Christ. Alleluia!") replaces the Trisagion (*Svyaty Bozhe*), bearing historical witness to the ancient practice of administering the sacrament of Holy Baptism to catechumens during the Pentecostal Vigil.
-[^828]: The scriptural pericopes for the Liturgy of Pentecost: Epistle from Acts 2:1–11 (Pericope 3), chronicling the historical descent of the Holy Spirit at the third hour of the day; Gospel from John 7:37–52; 8:12 (Pericope 27), wherein Christ cries out in the Temple: "If any man thirst, let him come unto Me and drink! He that believs on Me, as the Scripture hath said, out of his belly shall flow rivers of living water."
-[^829]: Sunday of Pentecost in the evening: The Great Vespers of Kneeling (*Kolenoprekloiynaya vechernya*). Because genuflections and prostrations are strictly forbidden by canon law throughout the fifty days of Paschaltide (Canon 20 of the First Ecumenical Council of Nicaea), this service marks the solemn liturgical resumption of kneeling prayer in the Church. The semantron is sounded early to allow ample time for the extensive kneeling ritual.
-[^830]: The Kneeling Prayers of Pentecost, traditionally ascribed to St. Basil the Great. The Priest stands at the Holy Doors facing west toward the faithful and recites the prayers aloud while all the people kneel with bare heads. The prayers consist of three distinct kneeling petitions: the first imploring remission of sins and purification; the second asking for the inspiration and guidance of the Holy Spirit; and the third offering intercession for all the departed, specifically praying for souls detained in hades.
-[^831]: Monday after Pentecost: The Day of the Holy Spirit (*Dyen Svyatago Dukha*). According to the Byzantine liturgical principle of celebrating the central divine agent of a major feast on the subsequent day (*synaxis*), this day is set apart to glorify the Third Person of the All-Holy Trinity, Who proceeds from the Father and with the Father and the Son is worshipped and glorified.
-[^832]: The readings for the Liturgy of the Day of the Holy Spirit: Epistle from Ephesians 5:8–19 (Pericope 229), urging believers to walk as children of light and be filled with the Spirit; Gospel from Matthew 18:10–20 (Pericope 75), warning against causing any of Christ's little ones to stumble and assuring His presence wherever two or three are gathered in His name.
-[^833]: General dispensation from fasting (*obshchiy razreshitelny sedmitsa*): During the entire week of Holy Pentecost (Trinity Week), fasting is completely suspended on Wednesday and Friday, allowing dairy products, fish, wine, and oil in celebration of the arrival of the Holy Spirit, prior to the beginning of the Apostles' Fast (*Petrov post*).
-[^834]: On the omission of the Inter-Hours (*mesoria* / *междочасия*) and the Compline fasting canon during the Trinity continuous week (*сплошная седмица*). In the Studite and ancient Ruthenian monastic Typika, the entire week following Holy Pentecost is completely fast-free (*razreshitelna*), suspending dairy and meat abstinences on Wednesday and Friday, as well as the penitential weekday Horologion prayers. The epigraphic witness in Schweipolt Fiol's 1491 edition reads "и кано҃ ст҃ѣнецї поемыи на павечерници", denoting the omission of the seasonal Lenten/fasting canon chanted at Compline.
-[^835]: Friday evening after Pentecost: The Eve of the Apodosis (*Apodosis* / *Отдание*) of the Great Dominical Feast of Holy Pentecost. Unlike the modern post-Nikonian practice where Pentecost has a shorter afterfeast concluding on Saturday, early Ruthenian Typika celebrate the full octave of Pentecost concluding with the Apodosis on Saturday morning.
-[^836]: Saturday after Pentecost: The Apodosis (Apodosis) of the Feast of Holy Pentecost. The entire liturgical office mirrors the festal day of Pentecost, chanting the double Canons of the feast with the Heirmoi, the Great Doxology, and festal antiphonal verses at the Divine Liturgy.
-[^837]: The Katavasia prescribed for Matins of the Apodosis of Pentecost is the first Ode of the second iambic Canon of Pentecost, traditionally ascribed to St. John of Damascus: "Божественным покровен..." (*Theio kalyftheis ho braduglossos gnopho* — "Covered by the divine darkness, the slow of speech [Moses] proclaimed the God-inscribed law..."). Fiol's printed text abbreviates the incipit as "катавасїа бж҃ественои длъ".
-[^838]: The Magnificat ("More honorable than the Cherubim" / *Честнѣйшую*) is omitted at the 9th Ode of Matins on the Apodosis of Pentecost, being replaced by the festal megalynaria and heirmoi of the 9th Odes of the two festal Pentecost canons.
-[^839]: At the Divine Liturgy of the Apodosis of Pentecost, the special festal Entrance verse is taken from Psalm 20:14 [LXX 20:14 / MT 21:13]: "Be Thou exalted, Lord, in Thine own strength: we will sing and praise Thy power!" followed by the festal Troparion ("Blessed art Thou, O Christ our God...").
-[^840]: The First Sunday after Pentecost: Sunday of All Saints (*Недѣля всѣхъ святыхъ*), designated in the ancient Ruthenian and Byzantine liturgical cycle as the Eighth Sunday after Pascha. This feast forms the theological crown and completion of Pentecost, commemorating all the holy martyrs, hierarchs, confessors, and ascetics worldwide who were sanctified and perfected by the descent of the Holy Spirit.
-[^841]: At Great Vespers of All Saints, the stichera on "Lord, I have cried" feature the celebrated prosomoion in Tone 6 to the melodic model (*Podoben*) "All the hope" (Slavonic: *Все упование* / Greek: *Holen apothemenoi*): "The divine martyrs, having abandoned all worldly hope on earth...".
-[^842]: The three Old Testament readings (*Paremias*) prescribed at Great Vespers of All Saints: 1) Isaiah 43:9–14 (God's gathering of the witnesses of the nations); 2) Wisdom of Solomon 3:1–9 ("The souls of the righteous are in the hand of God, and no torment shall touch them"); 3) Wisdom of Solomon 5:15–6:3 ("The righteous live forever, and their reward is with the Lord").
-[^843]: At the Litiya of All Saints, a sequence of Idiomela celebrates the unanimous witness of the saints across the Tones: Tone 1 ("In agreement of faith..."), Tone 2 ("Come, all..."), Tone 4, and the concluding Anatolian sticheron ("Angelically, come, ye faithful..."). The Doxastikon in Tone 5 extols the multitude of the holy ones standing before the throne of the Lamb.
-[^844]: The universal Troparion of All Saints, Tone 4: "Иже во всем мире мученик Твоих..." (*Ton en holo to kosmo martyron Sou*). The hymn depicts the Church as a majestic royal bride adorned with the blood of the holy martyrs as with imperial purple and fine linen.
-[^845]: The Matins Gospel for All Saints Sunday is the 1st Resurrectional Gospel (Matthew 28:16–20, Pericope 116), recounting Christ's commissioning of the Eleven on the mountain in Galilee: "All power is given unto Me in heaven and on earth: go ye therefore, and teach all nations...". The rubric notes that from this Sunday onward, the weekly cycle of the 11 Resurrectional Matins Gospels (*Eothina*) begins anew in continuous numerical sequence.
-[^846]: The Kontakion of All Saints, Tone 8, composed by St. Romanos the Melodist: "Яко начатки естества Насадителю твари..." (*Hos aparchas tes physeos to phyteurgi tes ktiseos*). The Krakow Horologion preserves the authentic pre-Nikonian reading: "въ глубоцѣ мирѣ съхрани црквь Твою, и град Твой Богородицею соблюди, Едине Многомилостиве".
-[^847]: Prokeimenon of All Saints in Tone 4, taken from Psalm 67:36, 27 [LXX 67:36, 27 / MT 68:35, 26]: "God is marvelous in His saints, the God of Israel. Verse: In the churches bless ye God, the Lord from the fountains of Israel!"
-[^848]: The Epistle pericope for All Saints Sunday is Hebrews 11:33–12:2 (Pericope 330), the triumphant Biblical roll-call of the saints and martyrs of the Old Covenant: "Who through faith subdued kingdoms, wrought righteousness, obtained promises, stopped the mouths of lions, quenched the violence of fire, escaped the edge of the sword...".
-[^849]: The Gospel reading for All Saints Sunday is Matthew 10:32–33, 37–38; 19:27–30 (Pericope 38): "Whosoever therefore shall confess Me before men, him will I confess also before My Father Which is in heaven... And every one that hath forsaken houses, or brethren, or sisters... for My name's sake, shall receive an hundredfold, and shall inherit everlasting life."
-[^850]: The Beginning of the Fast of the Holy Apostles (*Petrov Post* / Apostles' Fast), commencing on the Monday immediately following the Sunday of All Saints. According to the ancient *Apostolic Constitutions* (Book V, Chapter 20), having celebrated the octave of Pentecost, the faithful enter into the fast of the Apostles in preparation for the solemnity of the Holy Pre-eminent Apostles Peter and Paul (June 29).
-[^851]: On non-festal weekdays of the Apostles' Fast, when no Saint with a Doxology or Polyeleos falls on the calendar, the liturgical structure shifts into the Lenten monastic typikon: "Alleluia" is chanted in place of "God is the Lord" at Matins, accompanied by the Trinity Hymns (*Troichny*), full prostrations (*poklony*), and the distribution of three Kathismata across Matins and Vespers.
-[^852]: The monastic fasting rule (*ustav trapezy*) of the Apostles' Fast: On days when "Alleluia" is sung (especially Wednesdays and Fridays), the brotherhood observes strict xerophagy (*sukhoedeniye*), taking a single meal after the Ninth Hour and Vespers, without oil or wine. On days when "God is the Lord" is sung (Tuesdays, Thursdays, Saturdays, and Sundays), two meals are permitted.
-[^853]: Fiol's rubric preserves a fascinating historical witness to regional variations in monastic discipline, observing: "аще будеть въ грецѣхъ к понедѣльнику, к средѣ, к пятку двояды..." ("even if among the Greeks on Monday, Wednesday, and Friday they eat twice a day..."). The Ruthenian monastic Typikon defers this adjustment to the spiritual discernment and pastoral authority of the monastery superior (*proestos* / *nastoyatel*).
-[^854]: The liturgical disposition for Monday of the First Week of the Apostles' Fast: Matins features two Kathismata from the Psalter and three Canons (two from the Octoechos and one daily Canon), regulated to a total of 12 troparia per ode plus the Heirmos, concluding with the daily penitential Aposticha.
-[^855]: The Lenten order of the monastic Hours during the Apostles' Fast: The Hours are chanted in the narthex (*pritvor*) rather than the nave. At each Hour (Third, Sixth, and Ninth), the appointed Kathisma/Psalms are followed by the special Lenten troparion with its verses ("O Lord, Who didst send down Thy Most Holy Spirit at the third hour..."), accompanied by three prostrations, followed by the Prayer of St. Ephrem the Syrian with its 15 prostrations (*12 small bows and 3 great prostrations*).
-[^856]: On aliturgical weekdays of the fast, the Inter-Hours (*mesoria* / *междочасия*) are recited between the canonical Hours. At the conclusion of the Ninth Hour, the Typika (*Beatitudes*) are recited without a Eucharistic Liturgy, followed by the Epistle and Gospel of the day, after which the brethren retire to their cells for a period of silence and prayer until Vespers.
-[^857]: The evening refectory rule following Lenten Vespers: The monastics partake of dry bread, uncooked vegetables, water, and dried fruit without wine or cooked oil, except in cases of illness or infirmity ("развѣ аще кто боленъ"), where the superior exercises pastoral economy (*oikonomia*).
-[^858]: At the First Hour on fasting days, the Lenten verses from Psalm 5:4 ("In the morning hear my voice, my King and my God...") are chanted with prostrations, followed by the Prayer of St. Ephrem the Syrian with its full prostrational rule.
-[^859]: The ancient Studite-Ruthenian prohibition of Eucharistic celebration on ordinary fasting weekdays: "аще нѣсть празднуемый святый, не бываетъ божественая литоргиа" ("if there is not a feast-day Saint, the Divine Liturgy does not take place"). On non-festal weekdays of the Apostles' Fast, the day remains aliturgical, dedicated to the daily commemorations of the weekly cycle: Monday to the Bodiless Angels, Tuesday to the Holy Forerunner, Wednesday to the Theotokos, Thursday to the Holy Apostles, and Friday to the Precious Cross.
-[^860]: When fasting prostrations occur and the Eucharistic Liturgy is not served, the monastics do not hold a morning meal; rather, the priest distributes antidoron (*razdrobleniye*), and the paraklesiarches (sacristan) serves warm water (*teplota* / *krasoma*) to sustain the brethren until the single evening meal after Vespers.
-[^861]: At the Ninth Hour, the semantron is sounded, and the community reassembles in the temple to chant the Ninth Hour with its 15 prostrations, immediately followed by the sounding of the great semantron for Lenten Vespers.
-[^862]: At the conclusion of Compline (*Povecheriye*), having completed the Six Psalms, Psalm 50, the Canon to the Theotokos, and the Trisagion, the monastic community performs the solemn Mutual Forgiveness ceremony (*proshtenniye*), bowing before the Abbot and to one another with the words: "Bless me, holy father, and forgive me, a sinner, for all wherein I have sinned this day...", after which all monastics retire in complete silence to their cells until the nocturnal semantron for Midnight Office.
-[^863]: The dietary canons for Tuesdays and Thursdays during the Apostles' Fast: While olive oil and cooked food are permitted by the superior, the eating of fish remains strictly prohibited on non-festal days, even when "Alleluia" is replaced by "God is the Lord", unless a major feast of the Lord, the Theotokos, or a Polyeleos Saint falls upon that day.
-[^864]: *Izbrannyye Pamyati* (Selected Commemorations / Selected Psalms): A major structural section of the Krakow Horologion containing the *Izbrannyye Psalmy* (Selected Psalm verses, Polyeleos, and Megalynaria) chanted at Matins on solemn Dominical, Marian, and major hagiographical feasts throughout the liturgical year.
-[^865]: The Selected Psalm verses for the Nativity of the Most Holy Theotokos (September 8), compiled from royal Davidic and Marian typological Psalms: Psalm 131:1, 2, 11 [LXX 131 / MT 132]; Psalm 117:20 [LXX 117 / MT 118]; Psalm 86:3 [LXX 86 / MT 87]; Psalm 45:6 [LXX 45 / MT 46].
-[^866]: The invocation "Return, O Lord God, unto David" (Slavonic: *Възврати Господи Боже Давидови*) reflects the epigraphic witness of the 1491 Horologion, linking the Davidic covenant to the messianic fulfillment in the birth of the Virgin Mary, the rod out of the stem of Jesse (cf. Ps. 131:10; 2 Chron. 6:42).
-[^867]: The festal refrain linking the election of Zion (Ps. 131:13) with the divine joy in the chosen tabernacle of the Virgin Mary, echoing the prophetic witness that the Lord hath chosen her for His eternal dwelling.
-[^868]: Concluding doxological refrain for the Selected Psalms of the Nativity of the Theotokos, drawn from Psalm 71:19 [LXX 71:19 / MT 72:19]: "Blessed be the Lord God unto ages of ages: amen, amen!" Enforcing the Father Paul Doxology Standard ("unto ages of ages").
-[^869]: The Selected Psalm verses for the Universal Exaltation of the Precious and Life-Giving Cross (September 14), compiled from martial, victorious, and triumphal Psalms prefiguring the spiritual triumph of Christ's Holy Cross: Psalm 34:1–3 [LXX 34 / MT 35]; Psalm 4:7 [LXX 4 / MT 4]; Psalm 59:6 [LXX 59 / MT 60]; Psalm 67:19 [LXX 67 / MT 68]; Psalm 60:6 [LXX 60 / MT 61]; Psalm 66:3 [LXX 66 / MT 67]; Psalm 97:3 [LXX 97 / MT 98].
-[^870]: Concluding Selected Psalm verses for the Universal Exaltation of the Precious and Life-Giving Cross (September 14), drawn from Psalm 131:7b [LXX 131:7 / MT 132:7]: "And they shall worship at the place where His feet stood", prefiguring Golgotha and the veneration of the Precious Wood of the Cross.
-[^871]: Psalm 73:12 [LXX 73:12 / MT 74:12]: "God is our King before the ages: He hath wrought salvation in the midst of the earth", the primary Patristic and Byzantine typological prophecy of the Crucifixion at Golgotha as the spiritual center and navel of the earth.
-[^872]: Psalm 98:5 [LXX 98:5 / MT 99:5]: "Sing praises unto the Lord our God, and worship at His footstool, for He is holy", universally interpreted in Byzantine and Ruthenian hymnography as referring specifically to the Precious Cross of Christ (cf. St. John of Damascus, *Exact Exposition of the Orthodox Faith*, IV.11).
-[^873]: Psalm 27:9 [LXX 27:9 / MT 28:9]: "Save Thy people, O Lord, and bless Thine inheritance: shepherd them, and lift them up unto eternity", the scriptural source of the universal Troparion of the Holy Cross (*Spasi, Gospodi, lyudi Tvoya*).
-[^874]: Selected Psalm verses for the Holy Apostles (*Izbrannyye Psalmy Apostolom*), chanted at festal Matins on solemnities of the Holy Apostles (e.g., the Synaxis of the Twelve Apostles on June 30, the Synaxis of the Seventy on January 4, and the feast of the Pre-eminent Apostles Peter and Paul on June 29).
-[^875]: Psalm 44:17 [LXX 44:17 / MT 45:16]: "Instead of thy fathers shall be thy sons: thou shalt make them princes over all the earth", the classical Messianic prophecy applied throughout Byzantine and Ruthenian hymnography to designate the Apostles as princes of the universal Church.
-[^876]: Psalm 88:8a [LXX 88:8 / MT 89:7]: "God is glorified in the council of His saints", reflecting the apostolic college gathered around Christ the King.
-[^877]: Psalm 138:14b [LXX 138:14 / MT 139:14]: Fiol's 1491 Krakow Horologion preserves the epigraphic variant reading "дивна судьбы бысть" ("marvelous were His judgments"), celebrating the unsearchable dispensations of God wrought through the preaching of the Apostles across the earth.
-[^878]: Psalm 95:10 [LXX 95:10 / MT 96:10]: "Say among the nations that the Lord reigns: for He hath established the world, so that it shall not be moved", expressing the worldwide kerygma of the Resurrection and the triumph of the Kingdom of God proclaimed by the Holy Apostles.
-[^879]: Psalm 18:5 [LXX 18:5 / MT 19:4]: "Into all the earth is their voice gone out, and their words unto the ends of the world", famously cited by the Apostle Paul in Romans 10:18 as the prophetic definition of apostolic evangelization.
-[^880]: The compilation of apostolic verses concluding on p532 includes Psalm 104:44 ("He gave them the lands of the heathen, and they inherited the labors of the peoples"), Psalm 46:4 ("He hath subdued peoples under us"), Psalm 46:5 / 134:4 ("The Lord hath chosen an inheritance for Himself"), Psalm 146:5 ("Great is our Lord..."), and Psalm 67:36c ("He shall give strength and power unto His people"), celebrating the spiritual conquest of the nations through the apostolic proclamation.
-[^881]: Selected Psalm verses for Holy Martyrs (*Izbrannyye Psalmy Muchenikom*), appointed at Matins for solemn feasts of holy passion-bearers, great-martyrs, and hieromartyrs (e.g., St. George the Victorious on April 23, St. Demetrius of Thessalonica on October 26, the Forty Martyrs of Sebaste on March 9).
-[^882]: Psalm 45:2–3a [LXX 45:2–3 / MT 46:1–2]: "God is our refuge and strength, a helper in afflictions that have come upon us exceedingly: therefore will we not fear when the earth is troubled", the heroic confession of the holy martyrs standing steadfast before tyrants, tortures, and pagan tribunals.
-[^883]: Psalm 82:2–5a [LXX 82:2–5 / MT 83:1–4]: The prophetic portrayal of the pagan persecutors conspiring against the people of God and resolving: "Come, and let us destroy them from among the nations", fulfilled in the anti-Christian persecutions of the Roman emperors.
-[^884]: Psalm 78:2–3a [LXX 78:2–3 / MT 79:2–3]: "They have laid the dead bodies of Thy servants to be food for the birds of heaven, the flesh of Thy holy ones for the wild beasts of the earth: their blood have they shed like water", the primary Old Testament prophetic witness of the suffering and slaughter of the martyrs of Christ.
-[^885]: Psalm 37:18b and 68:27 [LXX 37:18; 68:27 / MT 38:17; 69:26]: In Fiol's text, the phrases "бых в день весь день къ болѣзни язвы мои приложиша днѣ" reflect the martyr's voluntary acceptance of scourging, wounds, and bodily torments for the glory of Christ.
-[^886]: Psalm 65:10, 12b [LXX 65:10, 12 / MT 66:10, 12]: "For Thou, O God, hast proved us: Thou hast tried us with fire, even as silver is tried... We went through fire and through water, and Thou broughtest us out into Thy rest", the universal liturgical typology of martyrdom by fire and immersion resulting in the crown of eternal life.
-[^887]: Psalm 111:6b–7a [LXX 111:6–7 / MT 112:6–7]: "The righteous shall be in everlasting remembrance: he shall not be afraid of an evil report", serving universally across Byzantine and Ruthenian liturgies as the Prokeimenon and Communion verse for holy martyrs and ascetics.
-[^888]: Psalm 15:3 [LXX 15:3 / MT 16:3]: "Unto the saints that are in His earth: the Lord hath made marvelous all His desires in them", concluding the Selected Psalm verses for the Holy Martyrs alongside Psalm 91:13–14 ("The righteous shall flourish like a palm tree") and Psalm 63:11b ("And all the upright in heart shall glory").
-[^889]: Selected Psalm verses for Holy Hierarchs (*Izbrannyye Psalmy Svyatitelem*), chanted at festal Matins for holy bishops, archbishops, and ecumenical teachers of the Church (e.g., St. Nicholas the Wonderworker on December 6, the Three Hierarchs on January 30, St. John Chrysostom on November 13).
-[^890]: Psalm 48:2–4 [LXX 48:2–4 / MT 49:1–3]: "Hear these things, all ye nations; give ear, all ye that inhabit the world...", portraying the episcopal teaching office of the bishop who proclaims divine wisdom, orthodox dogma, and pastoral understanding unto rich and poor alike.
-[^891]: Psalm 39:10–11 [LXX 39:10–11 / MT 40:9–10]: The apostolic and pastoral commission of the holy hierarch to proclaim the good tidings of God's righteousness, truth, and salvation openly in the great assembly of the faithful without fear of worldly princes.
-[^892]: Psalm 25:8a [LXX 25:8 / MT 26:8]: "Lord, I have loved the beauty of Thine house", the signature sacerdotal prayer recited by the bishop and celebrating priests upon entering the sanctuary and censing the holy table.
-[^893]: Psalm 26:6b [LXX 26:6 / MT 27:6]: "And I will go round, and offer in His tabernacle a sacrifice of praise", prefiguring the solemn censing of the sanctuary and the episcopal celebration of the Holy Anaphora.
-[^894]: Psalm 51:10 [LXX 51:10 / MT 52:8]: "But I am as a fruitful olive tree: I have trusted in the mercy of God, for it is great", symbolizing the spiritual fecundity, peace, and anointing of the bishop rooted in the house of God.
-[^895]: Psalm 36:26 [LXX 36:26 / MT 37:26]: "All the day long the righteous shows mercy, and lends; and his seed is blessed", extolling the almsgiving, paternal mercy, and pastoral beneficence characteristic of the saintly bishops of the Church.
-[^896]: Psalm 131:9 [LXX 131:9 / MT 132:9]: "Thy priests shall be clothed with righteousness, and Thy venerable ones shall rejoice with joy", concluding the Selected Psalms for Hierarchs. Fiol's 1491 Krakow print exhibits the scribal/typesetter contraction "ср̃ени" for *священници* (*priests*).
-[^897]: Selected Psalm verses for the Venerable Monastics and Ascetics (*Izbrannyye Psalmy Prepodobnym*), chanted at Matins for monastic founders, hermits, and desert-dwellers (e.g., St. Anthony the Great on January 17, St. Euthymius the Great on January 20, St. Sabbas the Sanctified on December 5, St. Theodosius of the Caves on May 3).
-[^898]: Psalm 101:7 [LXX 101:7 / MT 102:6]: "I am become like a pelican of the wilderness, I am become like an owl in a ruined place", the classic scriptural image of solitary monastic hesychia, vigilance, and mourning in the desert.
-[^899]: Psalm 101:8 [LXX 101:8 / MT 102:7]: Fiol's text preserves the extraordinary epigraphic variant reading "забвень быхъ, яко птица особащися на гнѣздѣ" ("I was forgotten, like a solitary bird upon a nest") in place of the standard Septuagint/Slavonic "бдѣхъ, и быхъ яко птица особящаяся на зданіи/кровѣ" ("I watched, and am become like a solitary bird upon the roof").
-[^900]: Psalm 101:6 [LXX 101:6 / MT 102:5]: "By reason of the voice of my groaning my flesh cleaves unto my bone", inverted in Fiol's Krakow witness as "прилпе плоть моя кости моей" (*my flesh cleaves unto my bone*), expressing the physical wasting of the ascetic through unceasing labor and mortification.
-[^901]: Psalm 54:9 [LXX 54:9 / MT 55:8]: "I waited for God Who saves me from faint-heartedness and tempest", rendered in Fiol with the rare Old Slavonic loan/calque "от припелаганна душа" (from Greek *pelagizo* / the roaring sea or surging waves of worldly temptation).
-[^902]: Psalm 62:2b [LXX 62:2 / MT 63:1]: "My soul has thirsted for Thee: how manifoldly hath my flesh longed for Thee in a barren land!", expressing the ascetic's intense longing for communion with God amid the arid spiritual wastes of this world.
-[^903]: Psalm 15:8 [LXX 15:8 / MT 16:8]: "I beheld the Lord always before me; for He is on my right hand, that I should not be moved", the scriptural foundation of unceasing prayer (*mneme Theou* / remembrance of God) and inner hesychia cultivated in the monastic life.
-[^904]: Psalm 115:6 [LXX 115:6 / MT 116:15]: "Precious in the sight of the Lord is the death of His venerable ones", concluding the Selected Psalm verses for the Venerable Monastics.
-[^905]: Selected Psalm verses for the Holy Archangels and the Bodiless Hosts of Heaven (*Izbrannyye Psalmy Arkhangelom i Angelom*), chanted at festal Matins on the Synaxis of the Archangel Michael and the Other Bodiless Powers (November 8), the Synaxis of the Archangel Gabriel (March 26 and July 13), and on Mondays throughout the weekly liturgical cycle.
-[^906]: Psalm 148:3b, 5b [LXX 148:3, 5 / MT 148:3, 5]: The cosmic doxology of the angelic hosts, stars, and celestial powers brought into existence out of nothingness by the sovereign fiat of the Almighty.
-[^907]: Psalm 103:4 [LXX 103:4 / MT 104:4]: "Who makes His angels spirits, and His ministers a flaming fire", cited in Hebrews 1:7 to demonstrate the immaterial nature, swiftness, and blazing divine love of the celestial orders.
-[^908]: Psalm 67:5a, 34a [LXX 67:5, 34 / MT 68:4, 33]: The angelic escort of the glorified Christ ascending to the heaven of heavens to the east, accompanied by the rejoicing ranks of Cherubim and Seraphim.
-[^909]: Psalm 90:11 [LXX 90:11 / MT 91:11]: "For He shall give His angels charge concerning thee, to keep thee in all thy ways", the divine assurance of angelic tutelage and protection appointed for each believer.
-[^910]: Psalm 34:5–6 [LXX 34:5–6 / MT 35:5–6]: The warrior ministry of the Holy Archangel routing the invisible demonic hosts: "Let them be as dust before the face of the wind, and let the angel of the Lord afflict them: let their way be dark and slippery, and let the angel of the Lord pursue them".
-[^911]: Psalm 150:1–6 [LXX 150 / MT 150]: The grand festive Polyeleos doxology concluding the angelic praises, uniting the praise of heaven and earth with trumpets, psalteries, harps, timbrels, strings, organs, and cymbals of jubilation: "Let everything that hath breath praise the Lord!"
-[^912]: Selected Psalm verses for the Entry of the Most Holy Theotokos into the Temple (*Vvedeniye*, November 21), compiled from the Davidic Marian tabernacle and royal bridal Psalms (Psalm 47, Psalm 86, Psalm 45, Psalm 95, Psalm 117, Psalm 64, Psalm 92, and Psalm 44).
-[^913]: Psalm 47:2–3a [LXX 47:2–3 / MT 48:1–2]: "Great is the Lord, and greatly to be praised in the city of our God, in His holy mountain: well-rooted with the joy of the whole earth", applied typologically to the Temple of Jerusalem and to the Virgin Mary, the living Temple and Mountain of God.
-[^914]: Psalm 47:4 [LXX 47:4 / MT 48:3]: "God is known in her palaces, when He defends her" (*Богъ въ тяжестехъ его знаемь есть, егда заступаетъ и*). The archaic Slavonic *тяжестехъ* translates the Greek *bareis* (palaces, royal towers, or fortified dwellings), applied in Marian theology to the interior dwelling of the Holy Spirit within the Virgin.
-[^915]: Psalm 95:6b [LXX 95:6 / MT 96:6]: "Sanctity and majesty are in His sanctuary", celebrating the entrance of the three-year-old child Mary into the Holy of Holies, where she was nourished by the Archangel Gabriel.
-[^916]: Psalm 44:10 [LXX 44:10 / MT 45:9]: "Kings' daughters were in Thine honor: upon Thy right hand stood the queen in vesture of gold, all-embroidered and adorned", the supreme Messianic prophecy of the Mother of God standing at the right hand of Christ the King as the Queen of Heaven.
-[^917]: Psalm 44:11–14a [LXX 44:11–14 / MT 45:10–13]: The royal bridal prophecy: "Hear, O daughter, and see, and incline thine ear; forget also thine own people, and thy father's house... All the glory of the king's daughter is within", celebrating the Virgin Mary's total consecration, interior beauty, and purity of soul in the house of the Lord.
-[^918]: Psalm 44:14b [LXX 44:14b / MT 45:13b]: "In golden borders, all adorned" (*рясны златы, едина прѣоукрашена*), concluding the Davidic bridal prophecy for the Entry of the Theotokos into the Temple (*Введение*). The Church Slavonic *рясны* (fringes, borders, or gold-embroidered tassels) renders the Greek *krossotois chrysois* (golden tassels or borders).
-[^919]: Psalm 44:15–16 [LXX 44:15–16 / MT 45:14–15]: "Virgins shall be brought unto the King after her: her companions shall be brought unto thee; they shall be brought with gladness and rejoicing, they shall be brought into the King's temple", applied typologically to the maidens bearing torches who accompanied the three-year-old Virgin Mary into the Holy of Holies.
-[^920]: Psalm 47:10 [LXX 47:10 / MT 48:9]: "We have thought of Thy mercy, O God, in the midst of Thy people" (printed *посрѣдѣ людии*, an early variant for *посрѣдѣ храма Твоего* / *in the midst of Thy temple*).
-[^921]: Psalm 44:18 [LXX 44:18 / MT 45:17]: "I will remember Thy name from generation unto generation: therefore shall the people praise Thee forever, even unto ages of ages", the concluding solemn doxological verse of the Entry Polyeleos.
-[^922]: Festal rubric in red cinnabar: *рождествоу христовоу* (For the Nativity of Christ, December 25). Selected Davidic and Messianic Psalm verses appointed for the Festive Matins Polyeleos (*Привольни / Избранные псалмы*) of the Nativity of the Lord according to the Studite-Ruthenian synthesis.
-[^923]: Psalm 65:1b–2 [LXX 65:1–2 / MT 66:1–2]: "Shout unto God, all the earth: sing forth unto His name, give glory unto His praise!", opening the Nativity Polyeleos with cosmic celebration.
-[^924]: Psalm 95:11a [LXX 95:11a / MT 96:11a]: "Let the heavens rejoice, and let the earth be glad!", heralding the angelic hymn at the cave of Bethlehem ("Glory to God in the highest, and on earth peace").
-[^925]: Psalm 110:3a [LXX 110:3a / MT 111:3a]: "Praise and majesty are in His work", extolling the unfathomable condescension (*kenosis*) of the Divine Incarnation.
-[^926]: Psalm 110:4b [LXX 110:4b / MT 111:4b]: "Gracious is the Lord" (*милостивъ Господь*), printed in Fiol's 1491 edition as *мл̃тивъ г̃ь*.
-[^927]: Psalm 110:9 [LXX 110:9 / MT 111:9]: "He hath sent redemption unto His people, holy and awesome is His name", the central theological theme of the Nativity: the Father sending His only-begotten Son for the redemption of fallen mankind.
-[^928]: Psalm 44:3a [LXX 44:3a / MT 45:2a]: "Fairer in beauty art Thou than the sons of men", addressed to Christ the Divine Bridegroom born in the flesh.
-[^929]: Psalm 113:11 [LXX 113:11 / MT 115:3]: "Our God is in heaven and on earth: all whatsoever He pleased, He hath done", affirming the divine sovereignty of the incarnate Logos.
-[^930]: Psalm 88:3b–5 [LXX 88:3–5 / MT 89:2–4]: "Thy mercy is prepared forever: Thy throne will I build up unto all generations", reciting God's eternal covenant with David fulfilled in Christ.
-[^931]: Psalm 88:37b–38 [LXX 88:37–38 / MT 89:36–37]: "As the sun before Me, and as the moon perfected from generation to generation" (printed *въ ро̃ и̃ ро̃*), the celestial emblems of the eternal duration of Christ's kingdom.
-[^932]: Psalm 88:30 [LXX 88:30 / MT 89:29]: "His seed will I make to endure forever, and His throne as the days of heaven", confirming the Messianic lineage.
-[^933]: Psalm 71:8 [LXX 71:8 / MT 72:8]: "He shall have dominion also from sea to sea, and from the rivers unto the ends of the earth", prophesying the universal kingdom of Christ.
-[^934]: Psalm 71:17 [LXX 71:17 / MT 72:17]: "His name endures before the sun, and all the tribes of the earth shall be blessed in Him", connecting the Abrahamic blessing with the Davidic heir.
-[^935]: Psalm 109:1 [LXX 109:1 / MT 110:1]: "The Lord said unto my Lord: Sit Thou at My right hand, until I make Thine enemies the footstool of Thy feet!", the paramount Messianic oracle of Christ's session at the right hand of the Father. Leaf p542 line 9 displays the typographical error *ткоꙗ* for *твоꙗ* (*врагы ткоꙗ*).
-[^936]: Psalm 109:2 [LXX 109:2 / MT 110:2]: "The Lord shall send the rod of Thy power out of Zion: rule Thou in the midst of Thine enemies!", portraying the victorious spiritual scepter of the Gospel going forth from Jerusalem.
-[^937]: Psalm 109:3 [LXX 109:3 / MT 110:3]: "With Thee is dominion in the day of Thy power, in the splendors of Thy saints: from the womb before the morning star have I begotten Thee!", the classical Patristic and liturgical witness to the eternal generation of the Son before all creation.
-[^938]: Psalm 109:4 [LXX 109:4 / MT 110:4]: "The Lord hath sworn, and will not repent: Thou art a priest forever after the order of Melchizedek!", declaring the eternal high priesthood of Christ superseding the Levitical priesthood.
-[^939]: Psalm 76:14–15 [LXX 76:14–15 / MT 77:13–14]: "Great is the Lord, as our God! Thou art the God that doest wonders: Thou hast made known Thy strength among the peoples!"
-[^940]: Psalm 88:11b [LXX 88:11b / MT 89:10b]: "The arm of Thy power hath scattered Thine enemies", celebrating Christ's vanquishing of spiritual foes.
-[^941]: Psalm 44:4–5a [LXX 44:4–5a / MT 45:3–4a]: "Gird Thy sword upon Thy thigh, O Mighty One, in Thy beauty; draw Thy bow, prosper, and reign, for the sake of truth, and meekness, and righteousness!", the Messianic warrior-king riding forth in divine virtue.
-[^942]: Psalm 44:7 [LXX 44:7 / MT 45:6]: "Thy throne, O God, is unto ages of ages: a scepter of uprightness is the scepter of the power of Thy kingdom", cited directly in Hebrews 1:8 as an explicit Scriptural witness to the divinity of Christ.
-[^943]: Psalm 44:8 [LXX 44:8 / MT 45:7]: "Thou hast loved righteousness, and hated iniquity: therefore God, Thy God, hath anointed Thee with the oil of gladness above Thy companions", prophesying the anointing of Christ with the Holy Spirit.
-[^944]: Psalm 81:8b [LXX 81:8b / MT 82:8b]: "For Thou shalt inherit among all nations", concluding the Nativity Psalm collection with the universal inheritance of the nations.
-[^945]: Festal rubric in red cinnabar: *бг̃оꙗвлении* (For the Theophany / Epiphany, January 6). Selected Psalm verses commemorating the Baptism of our Lord Jesus Christ in the Jordan River and the sanctification of the waters.
-[^946]: Psalm 66:2 [LXX 66:2 / MT 67:1]: "God be gracious unto us, and bless us: make Thy face to shine upon us, and have mercy on us!", introducing the feast of the divine illumination (*Phota* / Lights).
-[^947]: Psalm 33:6 [LXX 33:6 / MT 34:5]: "Draw near unto Him, and be enlightened: and your faces shall not be put to shame!", celebrating the spiritual illumination of Holy Baptism.
-[^948]: Psalm 45:5a [LXX 45:5a / MT 46:4a]: "The streams of the river make glad the city of God", applied typologically to the sanctifying streams of the Jordan River.
-[^949]: Psalm 45:7b [LXX 45:7b / MT 46:6b]: "The Most High uttered His voice, the earth shook", evoking the voice of the Father thundering from heaven over the Jordan.
-[^950]: Psalm 64:10b [LXX 64:10b / MT 65:9b]: "The river of God is full of water", continued from leaf p543 (*рѣка / божиа наплънисѧ водъ*), praising the abundant divine grace outpoured at the Theophany.
-[^951]: Psalm 28:10 & Psalm 67:34 [LXX 28:10, 67:34 / MT 29:10, 68:33]: "The Lord sends the flood; the Lord sits as King forever; He will give His voice, a voice of power: give ye glory unto God!" The Church Slavonic reads *г̃ь потопь насылаеть г̃ь царь въ вѣкы сѣ дасть глась свои глась силы дадите б̃оу*.
-[^952]: Psalm 92:3–4a [LXX 92:3–4 / MT 93:3–4]: "The floods have lifted up, O Lord, the floods have lifted up their voices; the floods lift up their waves, from the voice of many waters!", mystically witnessing the awe of the waters beholding their Creator naked in the Jordan.
-[^953]: Psalm 97:8a [LXX 97:8a / MT 98:8a]: "Let the rivers clap their hands together!", expressing cosmic joy at the sanctification of nature.
-[^954]: Psalm 41:7b [LXX 41:7b / MT 42:6b]: "Therefore will I remember Thee from the land of Jordan, and of Hermon, from the little mountain" (printed *ѡ̃ горы малылы*, with dittography of the final syllable *лы* for *малыꙗ*).
-[^955]: Psalm 41:8a [LXX 41:8a / MT 42:7a]: "Deep calls unto deep at the voice of Thy cataracts", printed *въ гласѣ хлебитъ твои́хъ* (an archaic East Slavic dialectal spelling for *хлябій Твоихъ* / water-torrents).
-[^956]: Psalm 35:9 [LXX 35:9 / MT 36:8]: "They shall be abundantly satisfied with the fatness of Thy house: and Thou shalt make them drink of the torrent of Thy delights."
-[^957]: Psalm 35:10 [LXX 35:10 / MT 36:9]: "For with Thee is the fountain of life: in Thy light shall we see light!", the classic baptismal illumination text chanted at Great Compline and Matins.
-[^958]: Psalm 113:3, 7b–8a [LXX 113:3, 7–8 / MT 114:3, 7–8]: "The sea saw it, and fled: Jordan was turned back at the face of the God of Jacob, who turned the rock into pools of water!", the foundational festal antiphon and prokeimenon of Theophany.
-[^959]: Psalm 30:17a [LXX 30:17a / MT 31:16a]: "Make Thy face to shine, and save me!", invoking the light of Christ's countenance.
-[^960]: Psalm 73:13 [LXX 73:13 / MT 74:13]: "Thou didst establish the sea by Thy strength: Thou didst crush the heads of the dragons in the water!", referring to Christ crushing the invisible spiritual powers of darkness hiding in the deep waters.
-[^961]: Psalm 73:14b [LXX 73:14b / MT 74:14b]: "Thou gavest him to be food for the Ethiopian people", mystically interpreted as the spiritual destruction of the spiritual Leviathan and the feeding of pagan nations with divine truth.
-[^962]: Psalm 73:15a [LXX 73:15a / MT 74:15a]: "Thou didst cleave the fountains and the torrents", continuing the aquatic creation imagery of Psalm 73.
-[^963]: Psalm 76:17a & Psalm 103:7b [LXX 76:17, 103:7 / MT 77:16, 104:7]: "The waters saw Thee, O God, and they were afraid; at the voice of Thy thunder they shall be terrified!"
-[^964]: Psalm 76:18b [LXX 76:18b / MT 77:17b]: "The clouds uttered a voice, and Thine arrows passed through." Fiol's text exhibits *бѡстрѣлы* for *ѡстрѣлы*.
-[^965]: Psalm 76:19 [LXX 76:19 / MT 77:18]: "The voice of Thy thunder was in the wheel; Thy lightnings illumined the world; the earth was moved and trembled!"
-[^966]: Psalm 76:20 [LXX 76:20 / MT 77:19]: "Thy paths are in the sea, and Thy ways in many waters, and Thy footsteps shall not be known", the mysterious and hidden manner of God's revelation.
-[^967]: Psalm 103:24 [LXX 103:24 / MT 104:24]: "O Lord, how magnified are Thy works: in wisdom hast Thou made them all!", concluding the Theophany Psalm collection with universal praise of the Creator.
-[^968]: Festal rubric in red cinnabar: *ꙋс́пению пр̃еч̃стѣию* (For the Dormition of the Most Pure [Theotokos], August 15). Selected Davidic Marian verses from Psalm 44 (*Eructavit cor meum*) celebrating the bodily assumption and glorification of the Mother of God.
-[^969]: Psalm 44:2 [LXX 44:2 / MT 45:1]: "My heart hath poured forth a good word; I speak of my works unto the King: my tongue is the pen of a scribe that writes swiftly!", the Davidic poet inspired by the Holy Spirit to compose praise for the King and the Queen-Mother.
-[^970]: Psalm 44:3 [LXX 44:3 / MT 45:2]: "Fairer art thou in beauty than the sons of men: therefore hath God blessed thee forever!", celebrating the incomparable spiritual beauty and fullness of grace of the Panagia.
-[^971]: Psalm 44:5b [LXX 44:5b / MT 45:4b]: "And thy right hand shall guide thee marvelously", continued from leaf p545 (*пра/вды*).
-[^972]: Psalm 44:6 [LXX 44:6 / MT 45:5]: "Thine arrows are sharp, O mighty one; peoples shall fall under thy feet, in the heart of the King's enemies!"
-[^973]: Psalm 44:7 [LXX 44:7 / MT 45:6]: "Thy throne, O God, is unto ages of ages: a scepter of uprightness is the scepter of thy kingdom."
-[^974]: Psalm 44:8 [LXX 44:8 / MT 45:7]: "Thou hast loved righteousness, and hated iniquity: therefore God, thy God, hath anointed thee with the oil of gladness above thy companions."
-[^975]: Psalm 44:9 [LXX 44:9 / MT 45:8]: "Myrrh, and stacte, and cassia perfume thy garments, out of the ivory palaces, whereby they have made thee glad", applied typologically to the heavenly aromas and incorruption surrounding the Dormition of the Virgin.
-[^976]: Psalm 44:10 [LXX 44:10 / MT 45:9]: "Kings' daughters were in thine honor: upon thy right hand stood the queen in vesture of gold, all-embroidered and adorned", the supreme festal witness to the Theotokos seated in glory at the right hand of Christ in the heavenly kingdom.
-[^977]: Psalm 44:11–12 [LXX 44:11–12 / MT 45:10–11]: "Hear, O daughter, and see, and incline thine ear; forget thine own people, and thy father's house; so shall the King desire thy beauty, for He is thy God, and thou shalt worship Him!"
-[^978]: Psalm 44:13 [LXX 44:13 / MT 45:12]: "Unto thy countenance shall the rich among the people entreat", continued across the page boundary from leaf p546 (*лицю тво/éмоу*).
-[^979]: Psalm 44:14 [LXX 44:14 / MT 45:13]: "All the glory of the King's daughter is within: in golden borders, all adorned." The printed text exhibits the composite phrase *въноутриндоутът рѧсны златы прѣо́украшена*.
-[^980]: Psalm 10:4 [LXX 10:4 / MT 11:4]: "The Lord is in His holy temple; the Lord's throne is in heaven", praising the heavenly sanctuary into which the Virgin enters.
-[^981]: Psalm 95:6b & Psalm 67:6b [LXX 95:6b, 67:6b / MT 96:6b, 68:5b]: "Holiness and majesty are in His sanctuary; God is in His holy place."
-[^982]: Psalm 28:9b [LXX 28:9b / MT 29:9b]: "In His temple everyone speaks of His glory."
-[^983]: Psalm 45:5b [LXX 45:5b / MT 46:4b]: "The Most High hath sanctified His tabernacle", the living tabernacle of the Incarnation.
-[^984]: Psalm 67:25 & Psalm 76:14a [LXX 67:25, 76:14a / MT 68:24, 77:13a]: "Thy goings have been seen, O God, even the goings of my God, my King, who is in the sanctuary: Thy way, O God, is in the sanctuary!"
-[^985]: Psalm 64:5b–c & Psalm 92:5b [LXX 64:5, 92:5 / MT 65:4, 93:5]: "Holy is Thy temple, marvelous in righteousness; holiness becomes Thine house, O Lord, unto length of days."
-[^986]: Psalm 44:18a [LXX 44:18a / MT 45:17a]: "I will remember Thy name from generation unto generation."
-[^987]: Psalm 60:9a & Psalm 51:11b [LXX 60:9, 51:11 / MT 61:8, 52:9]: "So will I sing praise unto Thy name forever; I will wait upon Thy name, for it is good before Thy saints", concluding the Dormition Psalm collection.
-[^988]: Festal rubric in red cinnabar: *бл̃говѣщению* (For the Annunciation of the Most Holy Theotokos, March 25). Selected verses from Psalm 71 (*Deus judicium tuum*) and Davidic prophecies of the descent of the Divine Word into the womb of the Virgin.
-[^989]: Psalm 71:1 [LXX 71:1 / MT 72:1]: "Give the King Thy judgments, O God, and Thy righteousness unto the King's Son", opening the Royal-Messianic Psalm of Solomon applied to the Annunciation.
-[^990]: Psalm 71:2 [LXX 71:2 / MT 72:2]: "To judge Thy people with righteousness, and Thy poor with judgment", continuing from leaf p547 (*въ/соудъ*).
-[^991]: Psalm 71:3 [LXX 71:3 / MT 72:3]: "Let the mountains bring peace to the people, and the little hills righteousness."
-[^992]: Psalm 71:4–5a [LXX 71:4–5 / MT 72:4–5]: "He shall judge the poor of the people, He shall save the children of the needy, and shall humble the false accuser; and He shall endure as long as the sun." The Church Slavonic *смѣрить клевѣтника* translates the Greek *tapeinosei sykophanten* (humble the slanderer/accuser).
-[^993]: Psalm 95:2b [LXX 95:2b / MT 96:2b]: "Proclaim from day to day the salvation of our God!"
-[^994]: Psalm 67:12 [LXX 67:12 / MT 68:11]: "The Lord shall give the word unto them that announce the good tidings, with great power", directly prophetic of the Archangel Gabriel's evangelization in Nazareth.
-[^995]: Psalm 131:11 [LXX 131:11 / MT 132:11]: "The Lord hath sworn in truth unto David, and He will not turn from it: Of the fruit of thy body will I set upon thy throne", the unconditional covenant realized in the Virgin of the lineage of David.
-[^996]: Psalm 71:6 [LXX 71:6 / MT 72:6]: "He shall come down like rain upon the fleece, and as drops falling upon the earth", the Patristic type of Gideon's fleece prefiguring the silent and unblemished conception of the Logos within Mary.
-[^997]: Psalm 17:10 [LXX 17:10 / MT 18:9]: "The Lord bowed the heavens, and came down: and darkness was under His feet", portraying the condescension of God to earth.
-[^998]: Psalm 131:13 [LXX 131:13 / MT 132:13]: "For the Lord hath chosen Zion, He hath desired it for His habitation."
-[^999]: Psalm 45:5b [LXX 45:5b / MT 46:4b]: "The Most High hath sanctified His tabernacle."
-[^1000]: Psalm 80:6b [LXX 80:6b / MT 81:5b]: "I heard a tongue which I knew not" (*ꙗꙁыка éгоже не знающа оуслышан*), evocative of the angelic greeting unexampled among human speech.
-[^1001]: Psalm 45:6a & Psalm 49:3a [LXX 45:6a, 49:3a / MT 46:5a, 50:3a]: "God is in the midst of her, she shall not be moved; our God shall come visibly, and shall not keep silence."
-[^1002]: Psalm 71:7 [LXX 71:7 / MT 72:7]: "In His days shall righteousness flourish, and abundance of peace, until the moon be no more."
-[^1003]: Psalm 71:8 [LXX 71:8 / MT 72:8]: "He shall have dominion also from sea to sea, and from the rivers unto the ends of the earth."
-[^1004]: Psalm 71:14b–15 [LXX 71:14b–15 / MT 72:14b–15]: "Precious in His sight shall their name be: and He shall live, and unto Him shall be given of the gold of Arabia; prayer shall be made for Him continually, and all the day shall He be blessed", continuing across the leaf boundary from p548 (*чьстноимꙋ/éго прѣ дними живъ бꙋдеть*).
-[^1005]: Psalm 71:17 [LXX 71:17 / MT 72:17]: "Blessed be His name forever; His name endures before the sun, and all the tribes of the earth shall be blessed in Him; all nations shall magnify Him."
-[^1006]: Psalm 71:19 [LXX 71:19 / MT 72:19]: "Blessed be the name of His glory forever, and all the earth shall be filled with His glory: Amen, Amen!" (printed *бꙋдеть бꙋдеть* / So be it, so be it), concluding the Annunciation Psalm collection.
-[^1007]: Festal rubric in red cinnabar: *вънецвѣтною* (For Flower Sunday / Palm Sunday, the Entry of the Lord into Jerusalem). Selected Davidic verses celebrating Christ the King riding into Zion amid the praises of children.
-[^1008]: Psalm 8:2 [LXX 8:2 / MT 8:1]: "O Lord our Lord, how marvelous is Thy name in all the earth: for Thy majesty is exalted above the heavens!", opening the Palm Sunday Polyeleos.
-[^1009]: Psalm 8:3 [LXX 8:3 / MT 8:2]: "Out of the mouth of babes and sucklings hast Thou perfected praise, because of Thine enemies, that Thou mightest destroy the enemy and the avenger", cited by Christ in Matthew 21:16 during His triumphal entry into the Temple.
-[^1010]: Psalm 98:2 [LXX 98:2 / MT 99:2]: "The Lord is great in Zion, and He is high above all people."
-[^1011]: Psalm 83:8b [LXX 83:8b / MT 84:7b]: "The God of gods shall appear in Zion" (*ꙗвитсѧ б̃ъ бг̃лвь въ сиѡ́нѣ*).
-[^1012]: Psalm 147:2 [LXX 147:2 / MT 147:13]: "For He hath strengthened the bars of thy gates: He hath blessed thy children within thee."
-[^1013]: Psalm 47:13a [LXX 47:13a / MT 48:12a]: "Encompass Zion, and go round about her!"
-[^1014]: Psalm 101:22 [LXX 101:22 / MT 102:21]: "Declare the name of the Lord in Zion, and His praise in Jerusalem!"
-[^1015]: Psalm 9:12b [LXX 9:12b / MT 9:11b]: "Declare His deeds among the nations!", continuing from leaf p549 line 19 (*къ/възвѣстите*).
-[^1016]: Psalm 46:8 [LXX 46:8 / MT 47:7]: "For God is the King of all the earth: sing ye praises with understanding!"
-[^1017]: Psalm 46:9a & Psalm 97:6b [LXX 46:9, 97:6 / MT 47:8, 98:6]: "God reigns over the nations; shout joyfully before the Lord, the King!"
-[^1018]: Psalm 68:36a [LXX 68:36a / MT 69:35a]: "For God will save Zion, and the cities of Judah shall be built" (printed *людии оудеистіи* for *гради іудейстіи*).
-[^1019]: Psalm 64:2 [LXX 64:2 / MT 65:1]: "Praise becomes Thee, O God, in Zion: and unto Thee shall the vow be performed in Jerusalem."
-[^1020]: Psalm 117:26a, 27a [LXX 117:26–27 / MT 118:26–27]: "Blessed is He that comes in the name of the Lord: God is the Lord, and hath appeared unto us!", the primary liturgical acclamation of the triumphal entry into Jerusalem.
-[^1021]: Psalm 9:15 [LXX 9:15 / MT 9:14]: "That they may declare all Thy praises in the gates of the daughter of Zion!"
-[^1022]: Psalm 99:4b, Psalm 47:9b, & Psalm 115:10 [LXX 99:4, 47:9, 115:10 / MT 100:4, 48:8, 116:19]: "Give thanks unto Him, and praise His name in the city of the Lord of hosts, in the city of our God, in the courts of the house of the Lord, in the midst of thee, O Jerusalem!"
-[^1023]: Psalm 145:10 & Psalm 110:10b [LXX 145:10, 110:10 / MT 146:10, 111:10]: "The Lord shall reign forever, even thy God, O Zion, unto generation and generation; and His praise endures forever!", concluding the Palm Sunday festive Psalm selection.
-[^1024]: Festal rubric in red cinnabar: *въ нéл̃и антипасхи* (On the Sunday of Antipasch / St. Thomas Sunday / Low Sunday / Second Sunday of Pascha). The opening of the Festal Polyeleos selection for the post-Paschal octave.
-[^1025]: Psalm 92:1–2a [LXX 92:1–2a / MT 93:1–2a]: "The Lord reigns, He is clothed with majesty; the Lord is clothed with strength, wherewith He hath girded Himself: for He hath established the world, so that it cannot be moved; Thy throne is prepared [of old: Thou art from everlasting]." The text concludes at the foot of leaf p550 with the catchword *го́товъ прѣстолъ*.
-[^1026]: Psalm 92:2 [LXX 92:2 / MT 93:2]: "Thy throne is prepared of old: Thou art from everlasting", concluding the verse from the foot of leaf p550 (*го́товъ прѣстолъ / твои ѡ̃ вѣка ты éси*).
-[^1027]: Psalm 105:2 [LXX 105:2 / MT 106:2]: "Who can utter the mighty acts of the Lord? Who can show forth all His praise?" (*кто въꙁг̃лть силы г̃нꙗ оуслышаны . сътворити въсꙗ хвалы*).
-[^1028]: Psalm 106:2 [LXX 106:2 / MT 107:2]: "Let the redeemed of the Lord say so, whom He hath redeemed from the hand of the enemy."
-[^1029]: Psalm 106:8 [LXX 106:8 / MT 107:8]: "Let them give thanks unto the Lord for His mercies, and for His marvelous works to the children of men!" (*да и̃сповѣдѧтсѧ г̃ви мл̃ти éго . чюдеса сн̃ѡмъ чл̃чъскомъ*).
-[^1030]: Psalm 106:9 [LXX 106:9 / MT 107:9]: "For He satisfies the empty soul, and fills the hungry soul with goodness."
-[^1031]: Psalm 106:13 [LXX 106:13 / MT 107:13]: "Then they cried unto the Lord in their affliction, and He saved them out of their distresses" (*въꙁваша къ б̃оу , вънегда въскръбити и̃мъ*).
-[^1032]: Psalm 106:14a [LXX 106:14a / MT 107:14a]: "And He brought them out of darkness and the shadow of death" (*и̃ꙁведе ꙗ и̃ꙁ стѣни и̃ сѣни съмѣртныꙗ*).
-[^1033]: Psalm 106:16 [LXX 106:16 / MT 107:16]: "For He hath broken the gates of brass, and cut the bars of iron in sunder."
-[^1034]: Psalm 106:20b, 14b [LXX 106:20b, 14b / MT 107:20b, 14b]: "And Thou didst deliver us from their destructions; and He brake their bonds in sunder" (*и̃ꙁбавилъ ны éси ѡ̃ пагоубы и̃хъ . ꙋ̃ꙁы и̃хъ проторже*).
-[^1035]: Psalm 106:22 [LXX 106:22 / MT 107:22]: "And let them sacrifice the sacrifices of thanksgiving, and declare His works with rejoicing!" (*пожрѫтъ éмоу жрътвꙋ хвалоу . въꙁвѣстѧтъ дѣла éго въ радости*).
-[^1036]: Psalm 106:32 [LXX 106:32 / MT 107:32]: "Let them exalt Him also in the congregation of the people, and praise Him in the assembly of the elders!" (*въꙁнесꙋтсѧ въ цр̃кви людстѣи на сѣдалищи старець въсхвалѧтсѧ*).
-[^1037]: Psalm 68:34a [LXX 68:34a / MT 69:33a]: "For the Lord hears the poor" (*ꙗко оуслыша нищаꙗ г̃ь*).
-[^1038]: Psalm 77:66a [LXX 77:66a / MT 78:66a]: "And He smote His enemies in the hinder parts" (*пораꙁи врагы и̃ въспѧть*).
-[^1039]: Psalm 147:1–2a [LXX 147:1–2a / MT 147:12–13a]: "Praise the Lord, O Jerusalem; praise thy God, O Zion: for He hath strengthened the bars of thy gates!"
-[^1040]: Psalm 67:2a [LXX 67:2a / MT 68:1a]: "Let God arise, and let His enemies be scattered", the opening Paschal stichos, continuing across the leaf boundary onto leaf p552 (*Да въскр̃неть б̃ъ и̃ раꙁидꙋтсѧ вси враꙁи éго / бѣжать ѡ̃ лица éго...*).
-[^1041]: Psalm 67:2b [LXX 67:2b / MT 68:1b]: "...and let them that hate Him flee from before His face!", concluding the verse continued across the leaf boundary from leaf p551.
-[^1042]: Psalm 68:35 [LXX 68:35 / MT 69:34]: "Let the heaven and earth praise Him, the seas, and everything that moves therein" (*да въсхвалить нб̃са и̃ землꙗ*).
-[^1043]: Psalm 117:24 [LXX 117:24 / MT 118:24]: "This is the day which the Lord hath made; let us rejoice and be glad in it!"
-[^1044]: Psalm 9:33 [LXX 9:33 / MT 10:12]: "Arise, O Lord my God, let Thine hand be lifted up: forget not Thy poor unto the end!"
-[^1045]: Psalm 29:13b [LXX 29:13b / MT 30:12b]: "O Lord my God, I will give thanks unto Thee forever!", concluding the Selected Psalm verses for the post-Paschal octave (Sunday of Antipasch).
-[^1046]: Festal rubric in red cinnabar: *въ в̃ꙁнесéнию* (For the Ascension of the Lord, Thursday of the sixth week of Pascha). Selected Davidic verses celebrating Christ ascending in triumph to the right hand of the Father.
-[^1047]: Psalm 46:2 [LXX 46:2 / MT 47:1]: "O clap your hands, all ye nations; shout unto God with the voice of triumph!", opening the Ascension Polyeleos selection.
-[^1048]: Psalm 46:3 [LXX 46:3 / MT 47:2]: "For the Lord Most High is terrible; He is a great King over all the earth."
-[^1049]: Psalm 46:4 [LXX 46:4 / MT 47:3]: "He shall subdue the people under us, and the nations under our feet."
-[^1050]: Psalm 46:5a [LXX 46:5a / MT 47:4a]: "He hath chosen our inheritance for us, the excellency of Jacob whom He loved."
-[^1051]: Psalm 46:6 [LXX 46:6 / MT 47:5]: "God is gone up with a shout, the Lord with the sound of a trumpet!", the primary festal Psalm verse for the Ascension.
-[^1052]: Psalm 17:11a & Psalm 103:3b [LXX 17:11a, 103:3b / MT 18:10a, 104:3b]: "And He rode upon a cherub, and did fly; Who makes the clouds His chariot, Who walks upon the wings of the wind."
-[^1053]: Psalm 23:7 [LXX 23:7 / MT 24:7]: "Lift up your gates, O ye princes, and be ye lifted up, ye everlasting doors; and the King of glory shall come in!"
-[^1054]: Psalm 23:10b [LXX 23:10b / MT 24:10b]: "The Lord of hosts, He is the King of glory!"
-[^1055]: Psalm 96:7b [LXX 96:7b / MT 97:7b]: "Worship Him, all ye His angels!"
-[^1056]: Psalm 46:9b [LXX 46:9b / MT 47:8b]: "God sits upon the throne of His holiness."
-[^1057]: Psalm 35:6 [LXX 35:6 / MT 36:5]: "Thy mercy, O Lord, is in the heavens; and Thy faithfulness reaches unto the clouds."
-[^1058]: Psalm 44:7a [LXX 44:7a / MT 45:6a]: "Thy throne, O God, is forever and ever", concluding at the foot of leaf p552 with the split phrase *пр̃тлъ твои въ вѣкъ* (continuing onto leaf p553: *вѣка*).
-[^1059]: Psalm 44:7a & Psalm 92:2 [LXX 44:7a, 92:2 / MT 45:6a, 93:2]: "...unto ages of ages; Thy throne is prepared from of old: Thou art from everlasting", completing the opening phrase carried over from leaf p552 (*пр̃тлъ твои въ вѣкъ / вѣка . готовъ пр̃тлъ твои ѡ̃селѣ до вѣка ты éси*).
-[^1060]: Psalm 67:19a [LXX 67:19a / MT 68:18a]: "Thou hast ascended on high, Thou hast led captivity captive: Thou hast received gifts for men", applied directly by the Apostle Paul to the Ascension of Christ in Ephesians 4:8.
-[^1061]: Psalm 8:2b [LXX 8:2b / MT 8:1b]: "For Thy majesty is exalted above the heavens!"
-[^1062]: Psalm 45:11b [LXX 45:11b / MT 46:10b]: "I will be exalted among the heathen, I will be exalted in the earth."
-[^1063]: Psalm 56:6, 12 [LXX 56:6, 12 / MT 57:5, 11]: "Be Thou exalted, O God, above the heavens; let Thy glory be above all the earth."
-[^1064]: Psalm 20:14 [LXX 20:14 / MT 21:13]: "Be Thou exalted, Lord, in Thine own strength: so will we sing and praise Thy power."
-[^1065]: Psalm 67:33–34a [LXX 67:33–34a / MT 68:32–33a]: "Sing unto God, ye kingdoms of the earth; O sing praises unto the Lord; to Him that rids upon the heavens of heavens, which were of old."
-[^1066]: Psalm 98:9 [LXX 98:9 / MT 99:9]: "Exalt the Lord our God, and worship at His holy hill; for the Lord our God is holy", concluding the Ascension selection.
-[^1067]: Festal rubric in red cinnabar: *пентнкостнію* (For Holy Pentecost, the descent of the Holy Spirit upon the Apostles). Selected Davidic verses celebrating the creative and sanctifying power of the Holy Spirit.
-[^1068]: Psalm 18:2 [LXX 18:2 / MT 19:1]: "The heavens declare the glory of God; and the firmament shows His handiwork", opening the Pentecost Polyeleos selection.
-[^1069]: Psalm 32:6 [LXX 32:6 / MT 33:6]: "By the word of the Lord were the heavens made; and all the host of them by the breath of His mouth", interpreted pneumatologically of the divine Creative Spirit.
-[^1070]: Psalm 101:20 [LXX 101:20 / MT 102:19]: "For He hath looked down from the height of His sanctuary; from heaven did the Lord behold the earth."
-[^1071]: Psalm 96:3a & Psalm 49:3b [LXX 96:3a, 49:3b / MT 97:3a, 50:3b]: "A fire goes before Him; and it shall be very tempestuous round about Him", typifying the fiery tongues of Pentecost.
-[^1072]: Psalm 17:9b [LXX 17:9b / MT 18:8b]: "Coals were kindled by it."
-[^1073]: Psalm 17:10a [LXX 17:10a / MT 18:9a]: "He bowed the heavens also, and came down."
-[^1074]: Psalm 49:2 & Psalm 21:28a [LXX 49:2, 21:28a / MT 50:2, 22:27a]: "Out of Zion, the perfection of beauty, God hath shined", continuing across the leaf boundary onto leaf p554 (*красота éго по / мѧноутся и̃ ѡ̃братѧтсѧ...*).
-[^1075]: Psalm 21:28a [LXX 21:28a / MT 22:27a]: "All the ends of the world shall remember and turn unto the Lord", completing the sentence carried across from leaf p553.
-[^1076]: Psalm 21:28b [LXX 21:28b / MT 22:27b]: "And all the kindreds of the nations shall worship before Thee."
-[^1077]: Psalm 18:8b [LXX 18:8b / MT 19:7b]: "The testimony of the Lord is sure, making wise the simple."
-[^1078]: Psalm 28:4 [LXX 28:4 / MT 29:4]: "The voice of the Lord is powerful; the voice of the Lord is full of majesty."
-[^1079]: Psalm 75:9b & Psalm 67:9b [LXX 75:9b, 67:9b / MT 76:8b, 68:8b]: "The earth feared, and was still; the earth shook, the heavens also dropped at the presence of God, even Sinai itself was moved at the presence of God, the God of Israel."
-[^1080]: Psalm 44:17 [LXX 44:17 / MT 45:16]: "Instead of thy fathers shall be thy children, whom thou mayest make princes in all the earth", interpreted apostolically of the Twelve sent out into all the world at Pentecost.
-[^1081]: Psalm 18:5a [LXX 18:5a / MT 19:4a]: "Their line is gone out through all the earth, and their words to the end of the world."
-[^1082]: Psalm 103:30 [LXX 103:30 / MT 104:30]: "Thou sendest forth Thy Spirit, they are created: and Thou renewest the face of the earth", the foundational Scriptural witness to the cosmic renewal wrought by the Holy Spirit.
-[^1083]: Psalm 138:7 [LXX 138:7 / MT 139:7]: "Whither shall I go from Thy Spirit? Or whither shall I flee from Thy presence?"
-[^1084]: Psalm 142:10b [LXX 142:10b / MT 143:10b]: "Thy Spirit is good; lead me into the land of uprightness."
-[^1085]: Psalm 50:13 [LXX 50:13 / MT 51:11]: "Cast me not away from Thy presence; and take not Thy Holy Spirit from me."
-[^1086]: Psalm 50:12 [LXX 50:12 / MT 51:10]: "Create in me a clean heart, O God; and renew a right spirit within me."
-[^1087]: Psalm 50:14 [LXX 50:14 / MT 51:12]: "Restore unto me the joy of Thy salvation; and uphold me with Thy free [sovereign / vladychym] Spirit."
-[^1088]: Psalm 67:12a [LXX 67:12a / MT 68:11a]: "The Lord gave the word: great was the company of those that published it", continuing across the leaf boundary onto leaf p555 (*въꙁдасть гла̃ бл̃говѣстоующи̃ / силоу многоую*). Leaf p554 bears the signature *и̃ꙁ* (quire 17, leaf 3).
-[^1089]: Psalm 67:12b & Psalm 28:11a [LXX 67:12b, 28:11a / MT 68:11b, 29:11a]: "...with great power; the Lord will give strength unto His people; the Lord will bless His people with peace", concluding the Pentecost selection from leaf p554.
-[^1090]: Festal rubric in red cinnabar: *прѣѡ̃бражению* (For the Transfiguration of Our Lord Jesus Christ upon Mount Tabor, August 6). Selected Davidic verses focusing on holy mountains, the divine uncreated light, and the dwelling of God.
-[^1091]: Psalm 47:2 [LXX 47:2 / MT 48:1]: "Great is the Lord, and greatly to be praised in the city of our God, in the mountain of His holiness", opening the Transfiguration selection.
-[^1092]: Psalm 45:4b [LXX 45:4b / MT 46:3b]: "The mountains shake with the swelling thereof."
-[^1093]: Psalm 103:2a [LXX 103:2a / MT 104:2a]: "Who coverest Thyself with light as with a garment", typologically fulfilled in the radiant Metamorphosis of Christ upon Mount Tabor.
-[^1094]: Psalm 95:6a [LXX 95:6a / MT 96:6a]: "Honor and majesty are before Him: strength and beauty are in His sanctuary" (*сповѣдание красота прѣд нимь*).
-[^1095]: Psalm 113:4a, 7a [LXX 113:4a, 7a / MT 114:4a, 7a]: "The mountains skipped like rams... tremble, thou earth, at the presence of the Lord, at the presence of the God of Jacob."
-[^1096]: Psalm 67:16 [LXX 67:16 / MT 68:15]: "The hill of God is as the hill of Bashan; a high hill as the hill of Bashan" (*гора б̃жіа гора тꙋчна гора оу̃сырена*), interpreted typologically of Mount Tabor.
-[^1097]: Psalm 23:3 [LXX 23:3 / MT 24:3]: "Who shall ascend into the hill of the Lord? Or who shall stand in His holy place?"
-[^1098]: Psalm 77:54b & Psalm 67:17b [LXX 77:54b, 67:17b / MT 78:54b, 68:16b]: "Even to this mountain, which His right hand had purchased... this is the hill which God desires to dwell in."
-[^1099]: Psalm 36:5–6 [LXX 36:5–6 / MT 37:5–6]: "Commit thy way unto the Lord; trust also in Him; and He shall bring it to pass: and He shall bring forth thy righteousness as the light, and thy judgment as the noonday."
-[^1100]: Psalm 14:1 [LXX 14:1 / MT 15:1]: "Lord, who shall abide in Thy tabernacle? Who shall dwell in Thy holy hill?"
-[^1101]: Psalm 42:3 [LXX 42:3 / MT 43:3]: "O send out Thy light and Thy truth: let them lead me; let them bring me unto Thy holy hill, and to Thy tabernacles."
-[^1102]: Psalm 75:5 [LXX 75:5 / MT 76:4]: "Thou art more glorious and excellent than the mountains of prey" (*просвѣщеши ты дивно ѡ̃ горы вѣчно*).
-[^1103]: Psalm 96:11a [LXX 96:11a / MT 97:11a]: "Light is sown for the righteous", continuing across the leaf boundary onto leaf p556 (*свѣтъ въсиꙗ праведникоу . / правымъ ср̃дцемъ въ веселие*).
-[^1104]: Psalm 96:11b [LXX 96:11b / MT 97:11b]: "...and gladness for the upright in heart", completing the verse continued from leaf p555.
-[^1105]: Psalm 73:16 [LXX 73:16 / MT 74:16]: "The day is Thine, the night also is Thine: Thou hast prepared the light and the sun."
-[^1106]: Psalm 73:17–18a [LXX 73:17–18a / MT 74:17–18a]: "Thou hast set all the borders of the earth: Thou hast made summer and spring. Remember this, that the enemy hath reproached, O Lord."
-[^1107]: Psalm 88:12 [LXX 88:12 / MT 89:11]: "The heavens are Thine, the earth also is Thine: as for the world and the fullness thereof, Thou hast founded them."
-[^1108]: Psalm 88:13b [LXX 88:13b / MT 89:12b]: "Tabor and Hermon shall rejoice in Thy name!", the prime Davidic prophecy naming Mount Tabor, sung at the Transfiguration.
-[^1109]: Psalm 88:16b–17a [LXX 88:16b–17a / MT 89:15b–16a]: "They shall walk, O Lord, in the light of Thy countenance. In Thy name shall they rejoice all the day."
-[^1110]: Psalm 89:17a & Psalm 112:2b [LXX 89:17a, 112:2b / MT 90:17a, 113:2b]: "And let the beauty of the Lord our God be upon us... from this time forth and forevermore", concluding the Transfiguration selection.
-[^1111]: Festal rubric in red cinnabar: *прѣдътечи въсѣмъ éго праꙁнико̃* (To the Holy Glorious Prophet, Forerunner and Baptist John, for all his feasts: Conception, Sept. 23; Synaxis, Jan. 7; 1st & 2nd Findings, Feb. 24; 3rd Finding, May 25; Nativity, June 24; Beheading, Aug. 29). Selected Davidic verses portraying the ascetic life in the wilderness, fasting, and prophetic righteousness.
-[^1112]: Psalm 54:8 [LXX 54:8 / MT 55:7]: "Lo, then would I wander far off, and remain in the wilderness", portraying John's dwelling in the desert of the Jordan from his youth.
-[^1113]: Psalm 101:7 [LXX 101:7 / MT 102:6]: "I am like a pelican of the wilderness: I am like an owl of the desert."
-[^1114]: Psalm 101:8 [LXX 101:8 / MT 102:7]: "I watch, and am as a sparrow alone upon the house top."
-[^1115]: Psalm 108:23b–24a [LXX 108:23b–24a / MT 109:23b–24a]: "I am tossed up and down as the locust. My knees are weak through fasting; and my flesh fails of fatness."
-[^1116]: Psalm 26:8 [LXX 26:8 / MT 27:8]: "When Thou saidst, Seek ye My face; my heart said unto Thee, Thy face, Lord, will I seek."
-[^1117]: Psalm 58:5a & Psalm 14:2a [LXX 58:5a, 14:2a / MT 59:4a, 15:2a]: "They run and prepare themselves without my fault... He that walks uprightly", continuing across the leaf boundary onto leaf p557 (*ходѧ бес порока / дѣлаꙗ правдоу*).
-[^1118]: Psalm 14:2b [LXX 14:2b / MT 15:2b]: "...and works righteousness, and speaks the truth in his heart", completing the verse continued from leaf p556.
-[^1119]: Psalm 39:11a [LXX 39:11a / MT 40:10a]: "I have not hid Thy righteousness within my heart; I have declared Thy faithfulness and Thy salvation."
-[^1120]: Psalm 74:5 [LXX 74:5 / MT 75:4]: "I said unto the fools, Deal not foolishly: and to the wicked, Lift not up the horn", reflecting the Forerunner's fearless rebuke of Herod and the Pharisees.
-[^1121]: Psalm 39:10b [LXX 39:10b / MT 40:9b]: "Lo, I have not refrained my lips, O Lord, Thou knowest."
-[^1122]: Psalm 34:28 [LXX 34:28 / MT 35:28]: "And my tongue shall speak of Thy righteousness and of Thy praise all the day long."
-[^1123]: Psalm 111:1 [LXX 111:1 / MT 112:1]: "Praise ye the Lord. Blessed is the man that fears the Lord, that delights greatly in His commandments", opening the final Psalm 111 cycle for the Forerunner.
-[^1124]: Psalm 111:2a, 3a [LXX 111:2a, 3a / MT 112:2a, 3a]: "His seed shall be mighty upon earth... Wealth and riches shall be in his house."
-[^1125]: Psalm 111:3b, 4a [LXX 111:3b, 4a / MT 112:3b, 4a]: "And his righteousness endures forever. Unto the upright there ariss light in the darkness."
-[^1126]: Psalm 111:5 [LXX 111:5 / MT 112:5]: "A good man shows favor, and lends: he will guide his affairs with discretion."
-[^1127]: Psalm 111:6 [LXX 111:6 / MT 112:6]: "Surely he shall not be moved forever: the righteous shall be in everlasting remembrance."
-[^1128]: Psalm 111:7 [LXX 111:7 / MT 112:7]: "He shall not be afraid of evil tidings: his heart is fixed, trusting in the Lord", concluding the Selected Psalm verses for the Forerunner.
-[^1129]: Rubric in red cinnabar: *А̃ се величаниа ст̃ы, и̃ праꙁнико̃ г̃дьскы . рж̃тво б̃ци* (And here are the Magnifications [Velichaniya / Megalynaria] of the Saints, and of the Feasts of the Lord. Nativity of the Theotokos, Sept. 8). This marks the opening of the final liturgical appendix of the 1491 Horologion: the collection of festal Megalynaria chanted after the Polyeleos at Matins on Great Feasts and major Saints' days.
-[^1130]: Liturgical apparatus in red and black rubric: *припѣло . + п̃ с̃ло̃ + Помяни г̃и д̃в̃да . + Ав̃ . + Е̃ ч̃иé . + П̃ ротивꙋ п̃ла̃мꙋ . + П̃ онсїе . + Д̃ онноé бл̃жи / ти тѧ б̃цю . ч̃тнѣишꙋ хероуви̃...* The rubrical abbreviations prescribe the Selected Psalm (*П̃ с̃ло̃* = Psalm 131: *Помяни, Господи, Давида*), with the refrain chanted alternately with the Psalm verses (*П̃ ротивꙋ п̃ла̃мꙋ* = *Противу псалма*), followed by the magnification hymn to the Mother of God, continuing across the leaf boundary onto leaf p558 (*бл̃жи/ти тѧ б̃цю...* = *Достойно есть блажити тя, Богородицу...*).
-[^1131]: The conclusion of the Marian magnification (*Достойно есть блажити тя, Богородицу, честнейшую херувимъ и славнейшую без сравнения серафимъ*), completing the chant begun on leaf p557.
-[^1132]: *Та дрꙋгое припѣло . Величаемь тѧ прест̃аꙗ д̃во...*: Second Megalynarion for the Nativity of the Theotokos, honoring her righteous parents Joachim and Anna.
-[^1133]: Festal rubric: *въꙁдвиженїю . + П̃ с̃ло̃ и̃ꙁбранныи* (For the Universal Exaltation of the Precious and Life-Giving Cross, Sept. 14: Selected Psalm).
-[^1134]: Primary Megalynarion for the Exaltation of the Holy Cross: *Величаемъ тѧ живодавче х̃е . и̃ чтемъ кр̃тъ твои ч̃тныи и̃ преславноé слави̃ въꙁдвиженіе*.
-[^1135]: Second Megalynarion for the Exaltation of the Holy Cross: *Дрꙋгое величаéмъ тѧ живодавче х̃е . и̃ чтемъ кр̃тъ твои ч̃тныи . и̃мже сп̃слъ éси на̃ ѡ̃ работы вражіа*.
-[^1136]: Festal rubric: *въведению . + П̃ с̃ло̃ и̃ꙁбранныи . То и̃же рожество б̃ци* (For the Entry of the Most Holy Theotokos into the Temple, Nov. 21: Selected Psalm: the same as for the Nativity of the Theotokos, namely Psalm 131).
-[^1137]: Megalynarion for the Entry of the Theotokos: *Величаéмъ тѧ пр̃таꙗ д̃во б̃гои̃ꙁбраннаꙗ ѡ̃троковице . и̃ почитаé éже въ цр̃квъ г̃ню въхоженіе твое*.
-[^1138]: Festal rubric: *рж̃твоу х̃воу* (For the Nativity of Our Lord God and Savior Jesus Christ, Dec. 25).
-[^1139]: Primary Megalynarion for the Nativity of Christ: *Величаéмъ тѧ живодавче х̃е . и̃ чтемъ б̃жество твое ч̃тное . и̃ преславноé слави̃ рж̃тво твое*.
-[^1140]: Second Megalynarion for the Nativity of Christ: *дрꙋгое . Величаéмъ тѧ живодавче х̃е на̃ ради рожьшагосѧ плотію , ѡ̃ приснод̃вы мр̃іа*.
-[^1141]: Festal rubric: *б̃оꙗвленію , п̃с̃ло . и̃ꙁбраны* (For Holy Theophany / Epiphany of the Lord, Jan. 6: Selected Psalm). Leaf p558 bears the signature *п̃ѳ* (quire 17, leaf 4).
-[^1142]: Primary Theophany Megalynarion conclusion, completed from leaf p558: *ч̃тное . и̃ преславноé слави̃ б̃оꙗвленіе твое*.
-[^1143]: Second Theophany Megalynarion: *Дрꙋгое . Величаéмъ тѧ живодавче х̃е . на̃ ради б̃к̃рщьшагосѧ ѡ̃ іѡ̃а̃ въ вода̃ éрда̃скы*.
-[^1144]: Festal rubric: *Стрѣтенію . + П̃ с̃ло̃ . и̃ꙁбранны* (For the Meeting of the Lord, Feb. 2: Selected Psalm).
-[^1145]: Primary Megalynarion for the Meeting of the Lord: *Величаетѧ живодавче х̃е . и̃ чте̃ б̃ж̃тво твое ч̃тное и̃ преславноé слави̃ стрѣтеніе*.
-[^1146]: Second Megalynarion for the Meeting of the Lord: *Др̃оé . Величаéмъ тѧ живодавче х̃е . и̃ чте̃ прест̃оую м̃трь твою . éюже н̃нѣ по ꙁаконоу принесесѧ во ц̃р̃ко г̃ню*.
-[^1147]: Festal rubric and refrain for the Annunciation (March 25): *Бл̃говѣщенію . с̃ес̃т̃кои . Архангелскии гла̃ вопиети ч̃таꙗ . ра̃уисѧ ѡ̃брадованнаꙗ г̃ь съ тобою*. The designation *с̃ес̃т̃кои* refers to the troparion/refrain sung in place of the standard Megalynarion format.
-[^1148]: Festal rubric: *Вънелю цвѣтноую* (For Flower Sunday / Palm Sunday, the Entry of the Lord into Jerusalem).
-[^1149]: Primary Palm Sunday Megalynarion: *Вел̃чаетѧ живодавче х̃е . и̃ чте̃ в̃хо̃ твои ч̃тныи и̃ преславныꙗ слави̃ срѣтити твоꙗ*.
-[^1150]: Second Palm Sunday Megalynarion: *Др̃оé . Величаéмъ тѧ живодавче х̃е . ѡ̃санна въ вышнии̃ ды ти вопиé . бл̃квено грѧдыи во и̃мѧ г̃не*.
-[^1151]: Rubric for Great and Holy Saturday Matins: *В̃ с̃б̃ великоую . ка̃ . ꙁ̃і . г̃и и̃ всю до конца . на три статіа* (On Great Saturday: Kathisma 17 [Psalm 118], recited in three stases with the Lamentations / Epitaphios Threnos / Encomia).
-[^1152]: Opening Megalynarion of the Great Saturday Lamentations (First Stasis): *Величаéмъ тѧ живодавче х̃е . оу̃черана ради погребены éси . въскр̃сившаꙗ и̃ ѡ̃живлаꙗ мр̃твыꙗ* (We magnify Thee, O Christ Giver of life, who for the sake of our wounds wast buried...). The Slavonic *оу̃черана* is an epigraphic scribal form for *уязвления ради* / *ранъ ради* (for the sake of wounds/infirmities).
-[^1153]: Rubric for the Second Stasis: *На дрꙋ . сла̃ . Величаéтѧ* (At the second stasis, after "Glory...", we magnify Thee...), continuing across the leaf boundary onto leaf p560.
-[^1154]: Second Stasis Megalynarion conclusion, completed from leaf p559: *живодавче х̃е . врата а̃дова сокроушилъ éси* (...O Christ Giver of life, Thou who hast shattered the gates of Hades!).
-[^1155]: Third Stasis opening Encomion / Megalynarion: *на силне статїи . на третеи славѣ . роди вси пѣс̃ погребенїю твоемꙋ приноси̃ м̃тре* (At the third stasis, at the third "Glory...": Every generation offers a hymn unto Thy burial, O Christ!). In standard Byzantine-Slavic Triodia, this corresponds to *Ai geneai pasai hymnon te taphe sou prospherousi, Christe mou* / *Роди вси пѣснь погребенію Твоему приносятъ, Христе мой*.
-[^1156]: Festal rubric: *В̃ нелю ѳѡ̃миноу* (On the Sunday of Thomas / Antipascha / Second Sunday of Pascha).
-[^1157]: Primary Megalynarion for Thomas Sunday: *Величаéмъ тѧ живодавче х̃е и̃ чте̃ б̃оство твое ч̃тное . и̃ преславноé слави̃ воскр̃ніе твое*.
-[^1158]: Second Megalynarion for Thomas Sunday: *Др̃оé . Величаéтѧ жакодавче х̃е . на̃ ради въ а̃дъ съшéдшаго . и̃ съ собою въсѧ въскреснвшаго*. The printed text has *жакодавче* for *живодавче*.
-[^1159]: Festal rubric: *На въꙁнесéніе* (For the Ascension of the Lord).
-[^1160]: Primary Megalynarion for the Ascension: *Величаéтѧ живодавче х̃е и̃ чте̃ б̃ж̃тво твое ч̃тное . и̃ преславноé слави въꙁнесéніе твое*.
-[^1161]: Second Megalynarion for the Ascension: *Др̃оé . Величаéтѧ живодавче х̃е . и̃ почитаé éже на нб̃са непр̃ч̃тою плътию . и̃ въсеславноé слави̃ б̃ж̃твое въꙁнесéние твое*.
-[^1162]: Festal rubric: *В̃ нелю . п̃ . ю* (On the 50th Sunday / Pentecost).
-[^1163]: Primary Megalynarion for Holy Pentecost: *Величаéтѧ живодавче х̃е . и̃ чте̃ д̃хъ твои ч̃тныи и̃ ст̃ыи . и̃ преславноé слави̃ съшествіе твое*.
-[^1164]: Second Megalynarion for Holy Pentecost: *Др̃оé . Величаéмъ тѧ живодавче х̃е . и̃ чте̃ въсест̃ыи твои д̃хъ . éже ѡ̃ ѡ̃ц̃а послалъ éси . б̃ж̃твены оу̃чн̃комъ своимъ*.
-[^1165]: Festal rubric: *Преображенію + п̃с̃ло̃* (For the Holy Transfiguration of the Lord: Selected Psalm).
-[^1166]: Megalynarion for the Transfiguration: *Величаéмъ тѧ живодавче х̃е . и̃ чтемь б̃ж̃тво твое ч̃т[ное...]* (We magnify Thee, O Christ Giver of life, and we honor Thy precious Godhead...). The text breaks off at the foot of leaf p560 with the incomplete word *ч̃т* (for *честное*), marking the final physical leaf present in this facsimile gathering.
-[^1167]: Completes the second Megalynarion for the Transfiguration of the Lord from leaf p560.
-[^1168]: Megalynarion for the Transfiguration celebrating the divine flesh of Christ manifested upon Mount Tabor.
-[^1169]: Rubric prescribing the Selected Psalm and refrain for the Dormition of the Mother of God (August 15).
-[^1170]: The initial refrain reproduces the universal Axion Estin / Megalynarion of the Theotokos.
-[^1171]: Second refrain for the Dormition.
-[^1172]: Third refrain celebrating the all-glorious Dormition (Преставленіє) of the Theotokos.
-[^1173]: Refrain for the feast of the Protection (Покровъ) of the Most Holy Theotokos (October 1).
-[^1174]: Megalynarion extolling the virginal and precious omophorion (покровъ) of the Virgin Mary.
-[^1175]: Rubric for the Nativity of Saint John the Baptist (June 24). The Selected Psalm incipit cites Ps. 54:8 [LXX].
-[^1176]: Megalynarion honoring the birth of the Forerunner from the barren Elizabeth (єже ѿ неплодъве).
-[^1177]: General megalynarion prescribed for feasts of the Forerunner (e.g. Conception, Synaxis).
-[^1178]: Completes the general Forerunner megalynarion from leaf p561.
-[^1179]: General refrains for Holy Monastic Fathers (прѣподобніи). Selected Psalm incipit cites Ps. 39:2 [LXX].
-[^1180]: The Slavonic text employs the scribal placeholder 'ідкⷭ҇' (имѧрекъ, N.) to insert the patronal monastic saint's name.
-[^1181]: General refrains for Holy Martyrs. Selected Psalm incipit cites Ps. 45:2 [LXX].
-[^1182]: Megalynarion for a martyr/passion-bearer (страстотръпьць) with name placeholder 'имⷶ'.
-[^1183]: Refrains for holy bishops/hierarchs and Saint Nicholas of Myra. Selected Psalm incipit cites Ps. 48:2 [LXX].
-[^1184]: Megalynarion for a holy hierarch (свѧтитель) with name placeholder 'имⷶ'.
-[^1185]: Common megalynarion for Apostles. Selected Psalm incipit cites Ps. 18:2 [LXX].
-[^1186]: Megalynarion honoring the missionary toils and apostolic proclamation (бл҃говѣстованиіе).
-[^1187]: Saint Chariton the Confessor (September 28), honored with the common apostolic/monastic refrain.
-[^1188]: Refrain for the Great-Martyr George the Trophy-Bearer (April 23). Selected Psalm: Ps. 45:2 [LXX].
-[^1189]: Megalynarion venerating the sufferings (страсти) endured by Saint George for Christ.
-[^1190]: Refrains for the Three Holy Hierarchs: Basil the Great, Gregory the Theologian, and John Chrysostom (January 30). Selected Psalm: Ps. 48:2 [LXX].
-[^1191]: First megalynarion honoring Saint Basil the Great for preserving the Church blameless in orthodoxy.
-[^1192]: Rubric prescribing "It is meet" as the melodic intonation for Saint Gregory the Theologian.
-[^1193]: Second megalynarion honoring Saint Gregory for profound theological exposition of the Holy Spirit.
-[^1194]: Third refrain honoring Saint John Chrysostom, the teacher of repentance.
-[^1195]: Refrain for the Holy Preeminent Apostles Peter and Paul (June 29). Selected Psalm: Ps. 18:2 [LXX].
-[^1196]: Megalynarion contrasting the humble nets of Galilean fishermen with the enlightenment of the ecumene.
-[^1197]: Individual apostolic megalynarion with name placeholder 'ідкⷭ҇'.
-[^1198]: Completes the common monastic megalynarion from leaf p563, addressing the saint as guide of monks.
-[^1199]: Refrain for Saint John Climacus (John of the Ladder). Selected Psalm incipit cites Ps. 66:2 [LXX].
-[^1200]: Hymnographic imagery drawn from the Heavenly Ladder (Scala Paradisi).
-[^1201]: Refrain for the Beheading of Saint John the Baptist (August 29). Selected Psalm: Ps. 54:8 [LXX].
-[^1202]: Megalynarion venerating the severed head of the Forerunner.
-[^1203]: Common refrain for the Bodiless Heavenly Hosts and individual Archangels (Michael, Gabriel, etc.).
-[^1204]: Megalynarion honoring an Archangel with name placeholder 'ілдⷭ҇рекь'.

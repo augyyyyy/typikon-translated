@@ -1,0 +1,50 @@
+{
+  "monument_id": "1888_violakis_typikon",
+  "title": "Typikon of the Great Church of Christ by George Violakis (1888, Bilingual)",
+  "monument_type": "typikon",
+  "genre_register": "rubrical",
+  "retrospective_timestamp": "2026-10-30T21:19:08.140323+00:00",
+  "codicological_profile": {
+    "total_physical_leaves": 1170,
+    "cohort_count": 117,
+    "default_cohort_size": 10,
+    "monument_type": "typikon"
+  },
+  "subagent_execution_telemetry": {
+    "total_cohorts_dispatched": 117,
+    "worker_model": "flash",
+    "cohorts_passing_gate_100pct": 117,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 0.856,
+      "median_cohort_ratio": 1.22,
+      "max_cohort_median": 1.711
+    }
+  },
+  "argon_review_queue_telemetry": {
+    "total_items_recorded": 0,
+    "resolved_by_argon": 0,
+    "info_telemetry_only": 0,
+    "unresolved_quarantines": 0,
+    "codicological_crux_count": 0
+  },
+  "final_publication_verification": {
+    "parts_count": 6,
+    "parts": [
+      "1888_violakis_part0_intro_and_toc.md",
+      "1888_violakis_part1_general_rubrics.md",
+      "1888_violakis_part2_menaion.md",
+      "1888_violakis_part3_triodion.md",
+      "1888_violakis_part4_pentecostarion.md",
+      "1888_violakis_part5_appendices.md"
+    ],
+    "total_footnotes_verified": 720,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 0.856,
+      "median_cohort_ratio": 1.22,
+      "max_cohort_median": 1.711
+    },
+    "all_6_publication_gates_passed": true
+  },
+  "edge_cases_and_anomalies": [],
+  "engine_hardening_proposals": []
+}

@@ -86,7 +86,7 @@
 **Choir:** "Amen."
 *Then the chanters sing the troparia according to the custom.[^621] And the deacon censes around the table upon which [the offering] is prepared for blessing:*[^622]
 
-[Woodcut Engraving: The Liturgical Table of the Blessing of Loaves (tetrapod / litiya table), draped with an ornate fringed cloth, upon which are arranged cruciformly: at left, a two-handled flagon inscribed "oil" (*ма́сло*); in the center, a stemmed chalice inscribed "wheat" (*пшени́ца*) and a paten bearing five loaves inscribed "5 loaves" (*є҃ хлѣ́бъ*); and at right, a two-handled flagon inscribed "wine" (*вино̀*). The table stands upon two carved decorative trestle legs.]
+(*Woodcut Engraving: The Liturgical Table of the Blessing of Loaves (tetrapod / litiya table), draped with an ornate fringed cloth, upon which are arranged cruciformly: at left, a two-handled flagon inscribed "oil" (*ма́сло*); in the center, a stemmed chalice inscribed "wheat" (*пшени́ца*) and a paten bearing five loaves inscribed "5 loaves" (*є҃ хлѣ́бъ*); and at right, a two-handled flagon inscribed "wine" (*вино̀*). The table stands upon two carved decorative trestle legs.*)
 
 === LEAF p236 ===
 

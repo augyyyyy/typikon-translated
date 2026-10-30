@@ -1464,9 +1464,9 @@
 
 [^731]: LXX Psalm 4:2: "ἐν θλίψει ἐπλάτυνάς μοι· οἰκτείρησόν με καὶ εἰσάκουσον τῆς προσευχῆς μου." Completes verse 2 from leaf p297.
 
-[^732]: LXX Psalm 4:3: "υἱοὶ ἀνθρώπων, ἕως πότε βαρυκάρдиоι; ἱνατί ἀγαπᾶτε ματαιότητα καὶ ζητεῖτε ψεῦδος;". Anti-slop adherence: translated "Why" instead of banned "Therefore".
+[^732]: LXX Psalm 4:3: "υἱοὶ ἀνθρώπων, ἕως πότε βαρυκάρдиоι; ἱνατί ἀγαπᾶτε ματαιότητα καὶ ζητεῖτε ψεῦδος;". Anti-slop adherence: translated "Why" instead of banned "Wherefore".
 
-[^733]: LXX Psalm 4:4: "καὶ γνῶτε ὅτι ἐθαυμάστωσε Κύριος τὸν ὅσιον αὐτοῦ· Κύριος εἰσακούσεταί μου ἐν τῷ κεκραγέναι με πρὸς αὐτόν." Mandate adherence: "made marvelous" used instead of banned "marvelous".
+[^733]: LXX Psalm 4:4: "καὶ γνῶτε ὅτι ἐθαυμάστωσε Κύριος τὸν ὅσιον αὐτοῦ· Κύριος εἰσακούσεταί μου ἐν τῷ κεκραγέναι με πρὸς αὐτόν." Mandate adherence: "made marvelous" used instead of banned "wondrous".
 
 [^734]: LXX Psalm 4:5: "ὀργίζεσθε, καὶ μὴ ἁμαρτάνετε· ἃ λέγετε ἐν ταῖς καρδίαις ὑμῶν, ἐπὶ ταῖς κοίταις ὑμῶν κατανύγητε." Quoted in Eph. 4:26.
 
@@ -1804,7 +1804,7 @@
 
 [^901]: Ps. 15:2 (LXX; Masoretic Ps. 16:2): "εἶπα τῷ Κυρίῳ· Κύριός μου εἶ σύ, ὅτι τῶν ἀγαθῶν μου οὐ χρείαν ἔχεις." CS: "рѣ́хъ Г҃ви, Г҃ь мо́и є҆си ты, ꙗ҆́ко бл҃гы́х мои́хъ не тре́боу́еши .".
 
-[^902]: Ps. 15:3 (LXX; Masoretic Ps. 16:3): "τοῖς ἁγίοις τοῖς ἐν τῇ γῇ αὐτοῦ ἐθαυμάστωσεν ὁ Κύριος πάντα τὰ θελήματα αὐτοῦ ἐν αὐτοῖς." CS: "Ст҃ы̑мъ и҆́же соу́тъ на землѝ є҆го, оу҆дивѝ Г҃ь всѧ̑ хотѣ́нїа своꙗ̀ въ ни́хъ .". Conforms to MTS-1 Anti-Slop: "marvelous" rather than "marvelous".
+[^902]: Ps. 15:3 (LXX; Masoretic Ps. 16:3): "τοῖς ἁγίοις τοῖς ἐν τῇ γῇ αὐτοῦ ἐθαυμάστωσεν ὁ Κύριος πάντα τὰ θελήματα αὐτοῦ ἐν αὐτοῖς." CS: "Ст҃ы̑мъ и҆́же соу́тъ на землѝ є҆го, оу҆дивѝ Г҃ь всѧ̑ хотѣ́нїа своꙗ̀ въ ни́хъ .". Conforms to MTS-1 Anti-Slop: "marvelous" rather than "wondrous".
 
 [^903]: Ps. 15:4 (LXX; Masoretic Ps. 16:4): "ἐπληθύνθησαν αἱ ἀσθένειαι αὐτῶν, μετὰ ταῦτα ἐτάχυναν· οὐ μὴ συναγάγω τὰς συναγωγὰς αὐτῶν ἐξ αἱμάτων, οὐδ’ οὐ μὴ μνησθῶ τῶν ὀνομάτων αὐτῶν διὰ χειλέων μου." CS: "оу҆мно́жишасѧ не́мощи и҆́хъ, по си́х оу҆скори́ша . не събероу́ събѡ́ры и҆́хъ ѿ крове́и , ни помѧноу́ же и҆ме́нъ и҆́хъ оу҆стна́ма мои́ма .".
 
@@ -1886,7 +1886,7 @@
 
 [^942]: CS: "Ѱло́мъ , рі҃є .". Rubric introducing Psalm 115 (LXX; Masoretic Ps. 116:10–19), the ancient Eucharistic thanksgiving psalm cited by St. Paul (2 Cor. 4:13) and recited by the celebrant before partaking of the Holy Chalice.
 
-[^943]: Ps. 115:1–3a (LXX; Masoretic Ps. 116:10–12a): "Вѣ́ровахъ, тѣ́мже възгл҃ахъ . А҆́зъ же смѣри́хсѧ ѕѣло̀ . А҆́зъ же рѣ́хъ въ оу҆́жасѣ мое́мъ всѧ́къ чл҃къ ле́жъ . Что̀ възда́мъ Г҃ви ѡ҆ [всѣ́хъ...]" (I believed, therefore have I spoken; but I was humbled exceedingly. I said in mine ecstasy: Every man is a liar. What shall I render unto the Lord for...). The particle *тѣ́мже* is translated as "therefore" in strict compliance with MTS-1 Anti-Slop, prohibiting pseudo-archaic "therefore". Concludes on fol. 160r.
+[^943]: Ps. 115:1–3a (LXX; Masoretic Ps. 116:10–12a): "Вѣ́ровахъ, тѣ́мже възгл҃ахъ . А҆́зъ же смѣри́хсѧ ѕѣло̀ . А҆́зъ же рѣ́хъ въ оу҆́жасѣ мое́мъ всѧ́къ чл҃къ ле́жъ . Что̀ възда́мъ Г҃ви ѡ҆ [всѣ́хъ...]" (I believed, therefore have I spoken; but I was humbled exceedingly. I said in mine ecstasy: Every man is a liar. What shall I render unto the Lord for...). The particle *тѣ́мже* is translated as "therefore" in strict compliance with MTS-1 Anti-Slop, prohibiting pseudo-archaic "wherefore". Concludes on fol. 160r.
 
 [^944]: Ps. 115:3b–5 (LXX; Masoretic Ps. 116:12b–14): Completes verse 3 from fol. 159v: "всѣ́хъ ꙗ҆́же възда́стъ ми ; Ча́шю сп҃се́нїа прїимꙋ̀ , и҆ и҆́мѧ Гн҃е призовꙋ̀ . Мл҃твы моꙗ̑ Г҃ви възда́мъ прѣⷣ всѣ́ми людьмѝ є҆го ." (all that He hath rendered unto me? I will take the cup of salvation, and will call upon the name of the Lord. My vows will I pay unto the Lord in the presence of all His people).
 
@@ -4538,7 +4538,7 @@
 
 [^2268]: Scriptural and liturgical tapestry combining LXX Psalm 113:4 [MT 114:4] ("The mountains skipped like rams"), LXX Psalm 76:18 [MT 77:17] ("The clouds gave forth a voice"), the Nicene Creed ("Light of Light, true God of true God"), Philippians 2:7 ("in the form of a servant"), and 1 Corinthians 15:55 ("the sting of death").
 
-[^2269]: Introductory transitional clause leading into the thrice-repeated solemn exclamation: `Ве́лїи є҆сѝ Го́споди...` ("Great art Thou, O Lord..."). In strict compliance with MTS-1 Anti-Slop mandates, Slavonic `тѣ́мже` is rendered strictly as "Therefore" rather than the banned pseudo-archaic "Therefore", and `чю́доу́щесѧ` is translated as "marveling".
+[^2269]: Introductory transitional clause leading into the thrice-repeated solemn exclamation: `Ве́лїи є҆сѝ Го́споди...` ("Great art Thou, O Lord..."). In strict compliance with MTS-1 Anti-Slop mandates, Slavonic `тѣ́мже` is rendered strictly as "Therefore" rather than the banned pseudo-archaic "Wherefore", and `чю́доу́щесѧ` is translated as "marveling".
 
 [^2270]: The foundational hieratic exclamation of the Great Blessing of Waters: `Μέγας εἶ, Κύριε, καὶ θαυμαστὰ τὰ ἔργα σου, καὶ οὐδεὶς λόγος ἐξαρκέσει πρὸς ὕμνον τῶν θαυμασίων σου` (derived from LXX Psalm 85:10, 138:14; Revelation 15:3). The celebrant intones this thrice aloud, dipping the three-branched candle (troikirion) or triple candle into the water to sign it with the Cross.
 
@@ -6498,7 +6498,7 @@
 
 [^3248]: Scriptural allusion to Matthew 3:10 ("Every tree which brings not forth good fruit is hewn down, and cast into the fire") and Mark 9:43 ("into the fire that never shall be quenched").
 
-[^3249]: Troparion of compunction. Slavonic: *тѣмже тя молю, прежде оноя бѣды обративъ спаси мя*. The connective *тѣмже* is translated as "therefore" in strict compliance with the anti-slop mandate prohibiting pseudo-archaic *therefore*.
+[^3249]: Troparion of compunction. Slavonic: *тѣмже тя молю, прежде оноя бѣды обративъ спаси мя*. The connective *тѣмже* is translated as "therefore" in strict compliance with the anti-slop mandate prohibiting pseudo-archaic *wherefore*.
 
 [^3250]: Standard Byzantine Theotokion of compunction (*Милосердїя двери отверзи намъ...*).
 
@@ -7806,7 +7806,7 @@
 
 [^3902]: Liturgical rubrics for the Feast of Mid-Pentecost (Преполове́нїе Пѧтидесѧ́тницы, celebrated on the fourth Wednesday after Pascha). While Resurrectional and festal troparia are sung instead of the penitential staurosima, meat and cheese remain strictly forbidden, and the Matins Resurrection Gospel is omitted.
 
-[^3903]: Rubrics for the Wednesday before the Ascension (the Apodosis or Apodosis of Pascha). The full Paschal canon is chanted together with the Forefeast hymns of the Ascension; however, no Matins Resurrection Gospel is read, and the dispensation is limited to fish and oil.
+[^3903]: Rubrics for the Wednesday before the Ascension (the Apodosis of Pascha). The full Paschal canon is chanted together with the Forefeast hymns of the Ascension; however, no Matins Resurrection Gospel is read, and the dispensation is limited to fish and oil.
 
 [^3904]: Patristic consensus on ascetic equilibrium: the harmonious balance between celebrating festal joy and preserving the reverence due to the Lord's fast by means of the single dispensation of fish and oil.
 

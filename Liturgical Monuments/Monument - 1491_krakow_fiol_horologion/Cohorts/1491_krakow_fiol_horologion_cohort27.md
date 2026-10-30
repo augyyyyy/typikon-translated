@@ -60,10 +60,10 @@
 
 === LEAF p268 ===
 
-*...Glory, Tone 8: "These things saith Joseph unto the Virgin..."; Both now, the same tone, the same Troparion, both choirs together.*  
+*...Glory, Tone 8: "These things says Joseph unto the Virgin..."; Both now, the same tone, the same Troparion, both choirs together.*  
 *The deacon: the Little Litany: "Again and again..."; and the priest exclaims.*  
 *Then Prokeimenon, Tone 4: "The Lord said unto Me: Thou art My Son"; Verse: "Ask of Me" [LXX Ps. 2:7, 8].*  
-*After this, the Prophecy of Micah: "Thus saith the Lord: And thou, Bethlehem, land of Judah..." [Micah 5:2–4]; and read at Vespers in half.*  
+*After this, the Prophecy of Micah: "Thus says the Lord: And thou, Bethlehem, land of Judah..." [Micah 5:2–4]; and read at Vespers in half.*  
 *The Apostle to the Hebrews: "God, who at sundry times and in divers manners..." [Heb. 1:1–12], and another on the Eve of the Nativity of Christ.*  
 *After this, the deacon: "Wisdom! Upright! Let us hear the Holy Gospel!"; the priest: "From Matthew, the Holy Gospel"; the deacon: "Let us attend!"; the priest reads: "The birth of Jesus Christ..." [Mt. 1:18–25], written at Matins on the Nativity.*  
 *Then the deacon: litany and the powerful litany [petitions]; the priest: exclaim; and we say the Troparion: "He was enrolled..."; then: "Order my steps according to Thy word" [LXX Ps. 118:133]; the Trisagion; after "Our Father", the priest: "For Thine is the kingdom". And the Kontakion is said: "Today the Virgin..."; "Lord, have mercy" (12 times); the priest: "God be gracious unto us..."; and we stand a little, praying silently...[^317]*

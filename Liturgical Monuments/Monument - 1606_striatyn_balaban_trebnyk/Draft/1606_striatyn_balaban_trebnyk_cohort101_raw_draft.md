@@ -50,7 +50,7 @@
 
 === LEAF p1005 ===
 
-[Fol. 488r. Woodcut headpiece at the head of the division: A pelican in its piety feeding its young with its blood within an oval wreath, flanked by Renaissance strapwork, scrolling acanthus, and grotesque figures, inscribed: (*"СПЛА ЖИВОТ"*)][^2961]
+(*Fol. 488r. Woodcut headpiece at the head of the division: A pelican in its piety feeding its young with its blood within an oval wreath, flanked by Renaissance strapwork, scrolling acanthus, and grotesque figures, inscribed: (*"СПЛА ЖИВОТ"*)*)[^2961]
 
 # PART XXXVII: CONCERNING STAUROPEGIA[^2962]
 
@@ -86,7 +86,7 @@
 
 === LEAF p1008 ===
 
-[Fol. 489v. Blank leaf without print (vacat), concluding Gathering (*ѡ̃ ѡ̃*) and the liturgical section on church foundation, the Precious Cross, and patriarchal stauropegia. It preserves later 17th-century manuscript ownership and donation inscriptions in East Slavic cursive (skoropis'): "This book, called the Sluzhebnik... monastery..."][^2967]
+(*Fol. 489v. Blank leaf without print (vacat), concluding Gathering (*ѡ̃ ѡ̃*) and the liturgical section on church foundation, the Precious Cross, and patriarchal stauropegia. It preserves later 17th-century manuscript ownership and donation inscriptions in East Slavic cursive (skoropis'): "This book, called the Sluzhebnik... monastery..."*)[^2967]
 
 === LEAF p1009 ===
 

@@ -28,14 +28,37 @@ import run_small_pause_gate
 import autonomous_orchestrator
 
 
-def test_phase_0_circuit_breaker_and_unlock(monkeypatch, tmp_path):
-    """Decision 1: New monuments start in PHASE_0_ARGON_PLANNING_LOCKED and block Cohort 1 until unlocked."""
+def _sandbox_mon7_env(monkeypatch, tmp_path):
     fake_state_file = tmp_path / "ACTIVE_ORCHESTRATOR_STATE.json"
+    fake_mon_state = tmp_path / "mon7_ws" / "orchestrator_state.json"
+    fake_reg_file = tmp_path / "codex_registry.json"
+    fake_registry = {
+        "monuments": {
+            "1895_dmitrievsky_vol1": {
+                "monument_id": "1895_dmitrievsky_vol1",
+                "title": "Opisanie Liturgicheskikh Rukopisei Vol. 1: Typika (Aleksei Dmitrievsky, Kyiv, 1895)",
+                "short_title": "1895 Dmitrievsky Opisanie Vol 1",
+                "total_physical_pages": 1090,
+                "default_cohort_size": 10,
+                "status": "in_progress",
+                "workspace_dir": str(tmp_path / "mon7_ws"),
+            }
+        }
+    }
+    fake_reg_file.write_text(json.dumps(fake_registry, indent=2), encoding="utf-8")
     monkeypatch.setattr(orchestrator_state, "STATE_FILE", fake_state_file)
     monkeypatch.setattr(autonomous_orchestrator, "STATE_FILE", fake_state_file)
+    monkeypatch.setattr(orchestrator_state, "REGISTRY_FILE", fake_reg_file)
+    monkeypatch.setattr(autonomous_orchestrator, "REGISTRY_FILE", fake_reg_file)
+    monkeypatch.setattr(orchestrator_state, "get_state_file_path", lambda mid=None: fake_mon_state)
+
+
+def test_phase_0_circuit_breaker_and_unlock(monkeypatch, tmp_path):
+    """Decision 1: New monuments start in PHASE_0_ARGON_PLANNING_LOCKED and block Cohort 1 until unlocked."""
+    _sandbox_mon7_env(monkeypatch, tmp_path)
 
     orchestrator_state.set_monument("1895_dmitrievsky_vol1")
-    state = orchestrator_state.load_state()
+    state = orchestrator_state.load_state("1895_dmitrievsky_vol1")
     assert state["monument_id"] == "1895_dmitrievsky_vol1"
     assert state["routing_phase"] == "PHASE_0_ARGON_PLANNING"
     assert state["small_pause_gate_status"] == "PHASE_0_ARGON_PLANNING_LOCKED"
@@ -54,9 +77,7 @@ def test_phase_0_circuit_breaker_and_unlock(monkeypatch, tmp_path):
 
 def test_ephemeral_translator_and_strict_flash_lock(monkeypatch, tmp_path):
     """Decision 2: Worker subagent uses lean 'ephemeral_translator' and strict Model='flash'."""
-    fake_state_file = tmp_path / "ACTIVE_ORCHESTRATOR_STATE.json"
-    monkeypatch.setattr(orchestrator_state, "STATE_FILE", fake_state_file)
-    monkeypatch.setattr(autonomous_orchestrator, "STATE_FILE", fake_state_file)
+    _sandbox_mon7_env(monkeypatch, tmp_path)
 
     orchestrator_state.set_monument("1895_dmitrievsky_vol1")
     autonomous_orchestrator.unlock_flash_sprint(monument_id="1895_dmitrievsky_vol1")
@@ -104,7 +125,7 @@ def test_argon_review_queue_4_signals(tmp_path):
     src_leaf_4 = "Пасхальная таблица и критический аппарат с многочисленными примечаниями."
     drf_leaf_4 = (
         "| Col 1 | Col 2 |\n|---|---|\n"
-        "| R1 | V1 [^1] |\n| R2 | V2 [^2] |\n| R3 | V3 [^3] |\n| R4 | V4 [^4] |\n| R5 | V5 [^5] |\n"
+        "| R1 | V1 [^1] [^2] |\n| R2 | V2 [^3] [^4] |\n| R3 | V3 [^5] [^6] |\n| R4 | V4 [^7] |\n| R5 | V5 [^8] |\n"
     )
 
     src_leaf_5 = "Обычный лист для проверки карантина после одной попытки."
@@ -323,8 +344,11 @@ def test_phase_0_onboarding_prompt_and_defer_monument(monkeypatch, tmp_path):
     fake_registry_file = tmp_path / "codex_registry.json"
     monkeypatch.setattr(orchestrator_state, "STATE_FILE", fake_state_file)
     monkeypatch.setattr(autonomous_orchestrator, "STATE_FILE", fake_state_file)
-    monkeypatch.setattr(orchestrator_state, "STATE_FILE", fake_state_file)
-    monkeypatch.setattr(orchestrator_state, "get_state_file_path", lambda mid=None: fake_state_file)
+    monkeypatch.setattr(
+        orchestrator_state,
+        "get_state_file_path",
+        lambda mid=None: tmp_path / f"{mid or 'default'}_state.json",
+    )
     monkeypatch.setattr(orchestrator_state, "REGISTRY_FILE", fake_registry_file)
     monkeypatch.setattr(autonomous_orchestrator, "REGISTRY_FILE", fake_registry_file)
 
@@ -340,7 +364,7 @@ def test_phase_0_onboarding_prompt_and_defer_monument(monkeypatch, tmp_path):
                 "total_physical_pages": 63,
                 "default_cohort_size": 10,
                 "genre_register": "hymnographic_and_rubrical",
-                "workspace_dir": "Liturgical Monuments/Monument 8 - 1629 Kyiv Octoechos",
+                "workspace_dir": str(tmp_path / "mon8"),
                 "relative_pdf_path": "2. Historical Liturgical Texts/Octoechos/1629_Kyiv.pdf",
             },
             "1630_lviv_octoechos": {
@@ -353,7 +377,7 @@ def test_phase_0_onboarding_prompt_and_defer_monument(monkeypatch, tmp_path):
                 "total_physical_pages": 560,
                 "default_cohort_size": 10,
                 "genre_register": "hymnographic_and_rubrical",
-                "workspace_dir": "Liturgical Monuments/Monument 9 - 1630 Lviv Octoechos",
+                "workspace_dir": str(tmp_path / "mon9"),
                 "relative_pdf_path": "2. Historical Liturgical Texts/Octoechos/1630_Lviv.pdf",
             },
         }
@@ -368,9 +392,10 @@ def test_phase_0_onboarding_prompt_and_defer_monument(monkeypatch, tmp_path):
     assert defer_res["status"] == "DEFERRED_TO_BACK_OF_QUEUE"
     assert defer_res["deferred_monument_id"] == "1629_kyiv_octoechos"
     assert defer_res["next_monument_id"] == "1630_lviv_octoechos"
-    assert "Hard Phase 0 Vision Budget Cap" in defer_res["onboarding_prompt"]
-    assert "Absolute Ban on Mid-Codex Binary Searches" in defer_res["onboarding_prompt"]
-    assert "--defer-monument" in defer_res["onboarding_prompt"]
+    assert "Orient on and prepare the Phase 0 implementation plan for" in defer_res["onboarding_prompt"]
+    assert "1630_lviv_octoechos" in defer_res["onboarding_prompt"]
+    assert "implementation_plan.md" in defer_res["onboarding_prompt"]
+    assert "/plan" not in defer_res["onboarding_prompt"]
 
     updated_reg = json.loads(fake_registry_file.read_text(encoding="utf-8"))
     keys = list(updated_reg["monuments"].keys())

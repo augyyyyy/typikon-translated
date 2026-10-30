@@ -1,0 +1,51 @@
+{
+  "monument_id": "1895_dmitrievsky_vol1",
+  "title": "Opisanie Liturgicheskikh Rukopisei Vol. 1: Typika (Aleksei Dmitrievsky, Kyiv, 1895)",
+  "monument_type": "lexicon_scholarly",
+  "genre_register": "scholarly_critical",
+  "retrospective_timestamp": "2026-10-30T21:19:09.517512+00:00",
+  "codicological_profile": {
+    "total_physical_leaves": 1090,
+    "cohort_count": 109,
+    "default_cohort_size": 10,
+    "monument_type": "lexicon_scholarly"
+  },
+  "subagent_execution_telemetry": {
+    "total_cohorts_dispatched": 15,
+    "worker_model": "flash",
+    "cohorts_passing_gate_100pct": 15,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 0.694,
+      "median_cohort_ratio": 0.996,
+      "max_cohort_median": 1.201
+    }
+  },
+  "argon_review_queue_telemetry": {
+    "total_items_recorded": 11,
+    "resolved_by_argon": 0,
+    "info_telemetry_only": 0,
+    "unresolved_quarantines": 0,
+    "codicological_crux_count": 0
+  },
+  "final_publication_verification": {
+    "parts_count": 7,
+    "parts": [
+      "1895_dmitrievsky_vol1_part0_intro_and_toc.md",
+      "1895_dmitrievsky_vol1_part1_patriarchal_typika.md",
+      "1895_dmitrievsky_vol1_part2_sabbas_studite_evergetis_menaion.md",
+      "1895_dmitrievsky_vol1_part3_evergetis_triodion_and_ktetorik_rule.md",
+      "1895_dmitrievsky_vol1_part4_pantokrator_mamas_elegmon_auxentios.md",
+      "1895_dmitrievsky_vol1_part5_italo_greek_and_western_mss.md",
+      "1895_dmitrievsky_vol1_part6_errata_and_addenda.md"
+    ],
+    "total_footnotes_verified": 218,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 0.694,
+      "median_cohort_ratio": 0.996,
+      "max_cohort_median": 1.201
+    },
+    "all_6_publication_gates_passed": true
+  },
+  "edge_cases_and_anomalies": [],
+  "engine_hardening_proposals": []
+}

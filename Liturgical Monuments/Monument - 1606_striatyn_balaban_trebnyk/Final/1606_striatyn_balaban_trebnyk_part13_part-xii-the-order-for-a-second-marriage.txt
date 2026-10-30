@@ -3,13 +3,13 @@
 THE ORDER FOR DIGAMISTS
 
 *The Priest says:*
-**Priest:**
+> **Priest:** ""
 Blessed is our God...
 
 *Then the Trisagion; after Our Father, the troparion of the day. After this, the litany:*[^250]
 
 [Fol. 73v. Initial M.]
-**Deacon:**
+> **Deacon:** ""
 In peace let us pray to the Lord.
 For the peace from above, and for the salvation of our souls...
 For this holy temple, and those that with faith and...
@@ -17,57 +17,57 @@ For the servants of God [Names], and for their protection from God and their com
 
 That they may live together well in unity, let us pray to the Lord.
 
-**Deacon:**
+> **Deacon:** ""
 *Help us, save us, have mercy on us, and keep us...*
 *Remembering our all-holy, immaculate, most blessed Lady...*
 
-**Priest:**
+> **Priest:** ""
 *Exclamation:*
 For unto Thee is due all glory, honor, and worship:
 
 *Then: Let us pray to the Lord.*
 
 [Fol. 74r. Initial B.]
-**Priest:**
+> **Priest:** ""
 *Prayer:*
 O Eternal God, Who hast brought into unity things that were divided, and hast set for them an indissoluble bond of love; Who didst bless Isaac and Rebecca, and didst show them to be heirs of Thy promise: Do Thou Thyself bless also these Thy servants, guiding them into every good work. For a merciful and man-befriending God art Thou, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy[^252] Spirit, now and ever, and unto ages of ages. Amen.
 
-**Priest:**
+> **Priest:** ""
 *Peace be unto all.*
 
-**Deacon:**
+> **Deacon:** ""
 *Bow your heads unto the Lord.*
 
 [Fol. 74v. Initial G.]
-**Priest:**
+> **Priest:** ""
 *Prayer of Head-Bowing:*
 O Lord our God, Who didst betroth beforehand the Church from the Gentiles as a pure virgin: bless this betrothal, and unite and preserve these Thy servants in lowliness of mind and oneness of mind. For unto Thee is due all glory, honor, and worship, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen.[^253]
 
 *Then the priest, taking the rings, acts as is written above in the Crowning. After this, the friend of the bridegroom exchanges the rings. And the priest says:*[^254]
-**Priest:**
+> **Priest:** ""
 Let us pray to the Lord.
 
 [Fol. 75r. Initial V.]
-**Priest:**
+> **Priest:** ""
 *Prayer:*
 O Master, Lord our God, Who sparest all and providest for all, Who knowest the secret things of men and hast knowledge of all things: Purify our sins, and forgive the iniquities of Thy servants, calling them unto repentance, granting them pardon of offenses, purification of sins, remission of transgressions voluntary and involuntary. O Creator and Fashioner, Who knowest the frailty of human nature; Who didst forgive Rahab the harlot, and didst accept the repentance of the Publican: Remember not the sins of our ignorance from our youth. For if Thou shouldst mark iniquities, O Lord, O Lord, who[^255] shall stand? What flesh shall be justified before Thee? For Thou alone art righteous, sinless, holy, plenteous in mercy, tender-hearted, and repenting of the evils of men. Do Thou, O Master, Who hast taken unto Thyself these Thy servants, unite them one to another in love; grant them the conversion of the Publican, the tears of the harlot, the confession of the thief: that by repentance from their whole heart, fulfilling Thy commandments in unity and peace, they may be counted worthy of Thy heavenly kingdom. For Thou art the Builder of all things, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen.[^256]
 
-**Priest:**
+> **Priest:** ""
 *Peace be unto all.*
 
-**Deacon:**
+> **Deacon:** ""
 *Bow your heads unto the Lord.*
 
 [Fol. 76r. Initial G.]
-**Priest:**
+> **Priest:** ""
 *Prayer of Head-Bowing:*
 O Lord Jesus Christ, Word of God, Who wast lifted up upon the precious and life-creating Cross, and didst tear up the handwriting against us, and didst deliver us from the oppression of the devil: Purify the iniquities of Thy servants; for, not being able to bear the heat and burden of the day, and the burning of the flesh, they come together unto the second communion of marriage, as Thou didst ordain through Thine elect vessel, Paul the Apostle, saying for the sake of us humble ones: 'It is better to marry in the Lord than to burn.' Do Thou Thyself, as good and the Lover of mankind, have mercy and forgive,[^257] purify, remit, forgive our debts: for Thou art He that hast taken our infirmities upon Thy shoulders. For there is none sinless, even though his life be but one day, that he should be without blemish; save only Thou alone, Who didst clothe Thyself in flesh without sin, and hast granted unto us the incorruption of eternal blessings. For Thou art our God, the God of the penitent, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen.[^258]
 
-**Deacon:**
+> **Deacon:** ""
 *Let us pray to the Lord.*
 
 [Fol. 76v. Initial B.]
-**Priest:**
+> **Priest:** ""
 O Holy God, Who didst fashion man from the dust, and from his rib didst create woman...
 
 *This prayer is written in the order of crowning, before the Apostle: (see fol. 66).[^259]*
@@ -90,9 +90,9 @@ O Lord our God, with glory and honor hast Thou crowned them.
 
 [Fol. 77r. Tailpiece: Woodcut floral vignette with acanthus leaves.]
 
-[Fol. 77v. Blank leaf at the conclusion of Gathering 8 (и), concluding the Order for a Second Marriage, separating the nuptial rites from the Order of Holy Unction.]
+(*Fol. 77v. Blank leaf at the conclusion of Gathering 8 (и), concluding the Order for a Second Marriage, separating the nuptial rites from the Order of Holy Unction.*)
 
-[Fol. 78r. Headpiece: Woodcut engraving depicting two angels holding an oval medallion inscribed: "Anointing with Oil" (*ПОМАЗАНЇЕ Є҆ЛЕО́МЪ*), depicting priests ministering at the bedside of the sick person, flanked by floral vases and foliage.]
+(*Fol. 78r. Headpiece: Woodcut engraving depicting two angels holding an oval medallion inscribed: "Anointing with Oil" (*ПОМАЗАНЇЕ Є҆ЛЕО́МЪ*), depicting priests ministering at the bedside of the sick person, flanked by floral vases and foliage.*)
 
 ---
 

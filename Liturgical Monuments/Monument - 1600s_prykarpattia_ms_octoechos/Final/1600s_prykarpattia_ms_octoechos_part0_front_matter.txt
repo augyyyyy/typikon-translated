@@ -1,8 +1,8 @@
-# 17th-Century Carpathian-Galician Manuscript Octoechos (Октоїх рукописний, Прикарпаття, XVII ст.) <a id="17th-century-carpathian-galician-manuscript-octoechos-октоїх-рукописний-прикарпаття-xvii-ст"></a>
+# 17th-Century Carpathian-Galician Manuscript Octoechos (Октоїх рукописний, Прикарпаття, XVII ст.) <a id="17th-century-carpathian-galician-manuscript-octoechos"></a>
 
-[Binding: Dark brown calfskin over wooden boards with blind tooling. Ornamental foliate roll border along the perimeter; central blind-stamped medallion depicting the Crucifixion of Christ with the Mother of God and Saint John the Theologian standing by the Cross. Brass clasp remnants and shelf wear on spine and corners.]
+[p1LA] [Binding: Dark brown calfskin over wooden boards with blind tooling. Ornamental foliate roll border along the perimeter; central blind-stamped medallion depicting the Crucifixion of Christ with the Mother of God and Saint John the Theologian standing by the Cross. Brass clasp remnants and shelf wear on spine and corners.]
 
-[Front pastedown and flyleaf]
+[p2LA] [Front pastedown and flyleaf]
 
 [On the front pastedown, handwritten library inventory shelfmarks in pencil and ink:]
 
@@ -16,7 +16,7 @@ SD-319
 
 [57]
 
-[Illuminated title page within an architectural portal supported by two decorative columns:]
+[p3LA] [Illuminated title page within an architectural portal supported by two decorative columns:]
 
 To the glory of the Holy, Consubstantial, Life-Creating, and Undivided Trinity:
 
@@ -26,7 +26,7 @@ Through the zeal of His servant Arseniy Trynozhka and his wife Anastasiya, this 
 
 In the year from the Nativity of Christ 1707.[^3]
 
-[Verso of title leaf: paper reinforcement strips along the gutter and lower center, with ghosting and ink bleed-through from the frontispiece.]
+[p4LA] [Verso of title leaf: paper reinforcement strips along the gutter and lower center, with ghosting and ink bleed-through from the frontispiece.]
 
 [Facing page: an ornamental foliate frame of laurel sprigs in green and sepia; the central field is blank, bearing contemporary paper repairs and patches.]
 
@@ -34,7 +34,7 @@ In the year from the Nativity of Christ 1707.[^3]
 
 ## TABLE OF CONTENTS
 
-* **[17th-Century Carpathian-Galician Manuscript Octoechos (Октоїх рукописний, Прикарпаття, XVII ст.)](#17th-century-carpathian-galician-manuscript-octoechos-октоїх-рукописний-прикарпаття-xvii-ст)**
+* **[17th-Century Carpathian-Galician Manuscript Octoechos (Октоїх рукописний, Прикарпаття, XVII ст.)](#17th-century-carpathian-galician-manuscript-octoechos)**
 * **[TONE 1](1600s_prykarpattia_ms_octoechos_part1_tone-1.md#tone-1)**
   * [SATURDAY EVENING: VESPERS (TONE 1)](1600s_prykarpattia_ms_octoechos_part1_tone-1.md#saturday-evening-vespers-tone-1)
   * [SUNDAY MIDNIGHT OFFICE (TONE 1)](1600s_prykarpattia_ms_octoechos_part1_tone-1.md#sunday-midnight-office-tone-1)
@@ -44,26 +44,29 @@ In the year from the Nativity of Christ 1707.[^3]
   * [SATURDAY EVENING: VESPERS (TONE 2)](1600s_prykarpattia_ms_octoechos_part2_tone-2.md#saturday-evening-vespers-tone-2)
   * [SUNDAY MIDNIGHT OFFICE (TONE 2)](1600s_prykarpattia_ms_octoechos_part2_tone-2.md#sunday-midnight-office-tone-2)
   * [SUNDAY MATINS (TONE 2)](1600s_prykarpattia_ms_octoechos_part2_tone-2.md#sunday-matins-tone-2)
-* **[TONE 3 (fol. 37)[^55]](#tone-3-fol-37)**
+* **[TONE 3 (fol. 37)](1600s_prykarpattia_ms_octoechos_part3_tone-3-fol-37.md#tone-3-fol-37)**
   * [SATURDAY EVENING: VESPERS (TONE 3)](1600s_prykarpattia_ms_octoechos_part3_tone-3-fol-37.md#saturday-evening-vespers-tone-3)
   * [SUNDAY MIDNIGHT OFFICE (TONE 3)](1600s_prykarpattia_ms_octoechos_part3_tone-3-fol-37.md#sunday-midnight-office-tone-3)
   * [SUNDAY MATINS (TONE 3)](1600s_prykarpattia_ms_octoechos_part3_tone-3-fol-37.md#sunday-matins-tone-3)
-* **[TONE 4 (fol. 54)[^72]](#tone-4-fol-54)**
+* **[TONE 4 (fol. 54)](1600s_prykarpattia_ms_octoechos_part4_tone-4-fol-54.md#tone-4-fol-54)**
   * [SATURDAY EVENING: VESPERS (TONE 4)](1600s_prykarpattia_ms_octoechos_part4_tone-4-fol-54.md#saturday-evening-vespers-tone-4)
   * [SUNDAY MIDNIGHT OFFICE (TONE 4)](1600s_prykarpattia_ms_octoechos_part4_tone-4-fol-54.md#sunday-midnight-office-tone-4)
   * [SUNDAY MATINS (TONE 4)](1600s_prykarpattia_ms_octoechos_part4_tone-4-fol-54.md#sunday-matins-tone-4)
   * [SUNDAY LITURGY: THE BEATITUDES (TONE 4)](1600s_prykarpattia_ms_octoechos_part4_tone-4-fol-54.md#sunday-liturgy-the-beatitudes-tone-4)
 * **[TONE 5](1600s_prykarpattia_ms_octoechos_part5_tone-5.md#tone-5)**
+  * [TONE 5](1600s_prykarpattia_ms_octoechos_part5_tone-5.md#tone-5)
   * [SATURDAY EVENING: VESPERS (TONE 5)](1600s_prykarpattia_ms_octoechos_part5_tone-5.md#saturday-evening-vespers-tone-5)
   * [SUNDAY MIDNIGHT OFFICE (TONE 5)](1600s_prykarpattia_ms_octoechos_part5_tone-5.md#sunday-midnight-office-tone-5)
   * [SUNDAY MATINS (TONE 5)](1600s_prykarpattia_ms_octoechos_part5_tone-5.md#sunday-matins-tone-5)
   * [SUNDAY LITURGY: THE BEATITUDES (TONE 5)](1600s_prykarpattia_ms_octoechos_part5_tone-5.md#sunday-liturgy-the-beatitudes-tone-5)
 * **[TONE 6](1600s_prykarpattia_ms_octoechos_part6_tone-6.md#tone-6)**
+  * [TONE 6](1600s_prykarpattia_ms_octoechos_part6_tone-6.md#tone-6)
   * [SATURDAY EVENING: VESPERS (TONE 6)](1600s_prykarpattia_ms_octoechos_part6_tone-6.md#saturday-evening-vespers-tone-6)
   * [SUNDAY MIDNIGHT OFFICE (TONE 6)](1600s_prykarpattia_ms_octoechos_part6_tone-6.md#sunday-midnight-office-tone-6)
   * [SUNDAY MATINS (TONE 6)](1600s_prykarpattia_ms_octoechos_part6_tone-6.md#sunday-matins-tone-6)
   * [SUNDAY LITURGY: THE BEATITUDES (TONE 6)](1600s_prykarpattia_ms_octoechos_part6_tone-6.md#sunday-liturgy-the-beatitudes-tone-6)
 * **[TONE 7](1600s_prykarpattia_ms_octoechos_part7_tone-7.md#tone-7)**
+  * [TONE 7](1600s_prykarpattia_ms_octoechos_part7_tone-7.md#tone-7)
   * [SATURDAY EVENING: VESPERS (TONE 7)](1600s_prykarpattia_ms_octoechos_part7_tone-7.md#saturday-evening-vespers-tone-7)
   * [SUNDAY MIDNIGHT OFFICE (TONE 7)](1600s_prykarpattia_ms_octoechos_part7_tone-7.md#sunday-midnight-office-tone-7)
   * [SUNDAY MATINS (TONE 7)](1600s_prykarpattia_ms_octoechos_part7_tone-7.md#sunday-matins-tone-7)
@@ -95,5 +98,3 @@ In the year from the Nativity of Christ 1707.[^3]
 [^1]: The manuscript reads *Ди[по]полской* with the medial letters partially smudged or corrected in contemporary ink, designating a local parish church in the Carpathian/Galician eparchy.
 [^2]: Dedicated to the Miracle of the Archangel Michael at Chonae (commemorated September 6).
 [^3]: Recorded in Cyrillic numerals as *҂аѱз҃* (1707).
-[^55]: Folio 37 begins on the facing leaf, bearing a decorative headpiece marking the opening of Tone 3.
-[^72]: Folio 54 begins on the facing leaf, bearing an ornate woodcut/illumination floral headpiece with Christogram medallion marking the opening of Tone 4 at Great Vespers.

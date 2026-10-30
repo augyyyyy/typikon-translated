@@ -1,10 +1,10 @@
 # PART XXIV: THE ORDER FOR THE BURIAL OF AN INFANT [^1598]
 
-**Priest:** **Blessed is our God.**
+> **Priest:** **Blessed is our God.**
 
 *Then the Trisagion. All-Holy Trinity. After "Our Father...":*[^1599]
 
-**Priest:** **For Thine is the Kingdom...**
+> **Priest:** **For Thine is the Kingdom...**
 
 *Lord, have mercy (12 times). "Come, let us worship..." (thrice). Then:*
 
@@ -24,7 +24,7 @@ Unto Thee, O Lord, will I cry; O my God, be not silent from me: lest at any time
 
 *We sing: "Glory... Both now"*[^1607] *Trisagion. All-Holy Trinity. After "Our Father...":*
 
-**Priest:** **For Thine is the Kingdom...**
+> **Priest:** **For Thine is the Kingdom...**
 
 *And the Troparion, Tone 2:*[^1608]
 
@@ -38,19 +38,19 @@ Holy Mother of the ineffable Light, honoring thee with angelic hymns, we sing un
 
 *The priest's exclamation:*
 
-**Priest:** **For holy art Thou, O our God...**
+> **Priest:** **For holy art Thou, O our God...**
 
 *And we sing:* **Holy God...**
 
 *Prokeimenon, Tone 6:*
 
-**Reader:** **Blessed is the way wherein thou walkest [today], O soul.**
+> **Reader:** **Blessed is the way wherein thou walkest [today], O soul.**
 
 *Verse:* **Return, O my soul, unto thy rest.**
 
 *Epistle: The reading from the Epistle of Paul to the Corinthians:*
 
-**Reader:** Brethren, not all flesh is the same flesh: but there is one indeed of men, another flesh of beasts, another of fish, and another of birds. There are also celestial bodies, and bodies terrestrial: but the glory of the celestial is one, and the glory of the terrestrial is another. There is one glory of the sun, and another glory of the moon, and another glory of the stars: for star differs from star in glory. So also is the resurrection of the dead: it is sown in corruption, it is raised in incorruption. It is sown in dishonor, it is raised in glory. It is sown in weakness, it is raised in power. It is sown a natural body, it is raised a spiritual body.[^1611]
+> **Reader:** "Brethren, not all flesh is the same flesh: but there is one indeed of men, another flesh of beasts, another of fish, and another of birds. There are also celestial bodies, and bodies terrestrial: but the glory of the celestial is one, and the glory of the terrestrial is another. There is one glory of the sun, and another glory of the moon, and another glory of the stars: for star differs from star in glory. So also is the resurrection of the dead: it is sown in corruption, it is raised in incorruption. It is sown in dishonor, it is raised in glory. It is sown in weakness, it is raised in power. It is sown a natural body, it is raised a spiritual body."[^1611]
 
 There is a natural body, and there is a spiritual body. And so it is written: The first man Adam was made a living soul; the last Adam was made a life-giving spirit.[^1612]
 
@@ -62,17 +62,17 @@ There is a natural body, and there is a spiritual body. And so it is written: Th
 
 *The Gospel according to John:*
 
-**Priest:** The Lord said unto the Jews who came unto Him: I am the bread of life: he who comes to Me shall not hunger, and he who believes in Me shall never thirst. But I said unto you, that ye also have seen Me, and believe not. All that the Father gives Me shall come to Me and him that comes to Me I will in no wise cast out. For I came down from heaven, not to do Mine own will, but the will of the Father Who sent Me. And this is the will of the Father Who sent Me, that of all which He has given Me I should lose nothing, but should raise it up at the last day.[^1614]
+> **Priest:** "The Lord said unto the Jews who came unto Him: I am the bread of life: he who comes to Me shall not hunger, and he who believes in Me shall never thirst. But I said unto you, that ye also have seen Me, and believe not. All that the Father gives Me shall come to Me and him that comes to Me I will in no wise cast out. For I came down from heaven, not to do Mine own will, but the will of the Father Who sent Me. And this is the will of the Father Who sent Me, that of all which He has given Me I should lose nothing, but should raise it up at the last day."[^1614]
 
 *Then the litany:*
 
-**Deacon:** **Have mercy on us, O God...** *and the rest. And the prayer:* **O God of spirits...** *The exclamation:* **For Thou art the Resurrection and the Life...** *(see fol. 230)*[^1615]
+> **Deacon:** **Have mercy on us, O God...** *and the rest. And the prayer:* **O God of spirits...** *The exclamation:* **For Thou art the Resurrection and the Life...** *(see fol. 230)*[^1615]
 
 *After this the priest says this prayer:*[^1616]
 
-**Deacon:** Let us pray to the Lord.
+> **Deacon:** "Let us pray to the Lord."
 
-**Priest:** O Lord Who guardest infants in the present life, and in the age to come hast prepared for them the spacious bosom of Abraham, and according to their purity the angelic radiant places wherein the souls of the righteous dwell: do Thou Thyself, O Master Christ, receive in peace the soul of Thy servant, the infant, [Name]. For Thou Thyself hast said: "Of such is the Kingdom of Heaven." For unto Thee is due all glory, honor, and worship, with the Father and the Holy Spirit, now and ever, and unto ages of ages. Amen.[^1617]
+> **Priest:** "O Lord Who guardest infants in the present life, and in the age to come hast prepared for them the spacious bosom of Abraham, and according to their purity the angelic radiant places wherein the souls of the righteous dwell: do Thou Thyself, O Master Christ, receive in peace the soul of Thy servant, the infant, [Name]. For Thou Thyself hast said: "Of such is the Kingdom of Heaven." For unto Thee is due all glory, honor, and worship, with the Father and the Holy Spirit, now and ever, and unto ages of ages. Amen."[^1617]
 
 *Then also the Dismissal.*[^1618]
 

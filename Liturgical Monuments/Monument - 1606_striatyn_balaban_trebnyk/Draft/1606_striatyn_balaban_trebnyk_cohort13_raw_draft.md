@@ -19,7 +19,7 @@ For Thine it is to have mercy and to save us, [O Christ] our God, and unto Thee 
 
 === LEAF p122 ===
 
-[Fol. 52v. Blank leaf at the conclusion of Gathering 7 (ж), concluding the Rite of Reception of Latins.]
+(*Fol. 52v. Blank leaf at the conclusion of Gathering 7 (ж), concluding the Rite of Reception of Latins.*)
 
 === LEAF p123 ===
 

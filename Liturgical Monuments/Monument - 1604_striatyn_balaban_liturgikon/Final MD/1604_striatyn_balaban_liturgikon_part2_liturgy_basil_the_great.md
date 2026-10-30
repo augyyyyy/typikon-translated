@@ -1,4 +1,4 @@
-# PART II: THE DIVINE LITURGY OF SAINT BASIL THE GREAT [^393]
+# PART II: THE DIVINE LITURGY OF SAINT BASIL THE GREAT [^393] [^392]
 
 ## Order of the Divine Service of Our Holy Father Basil the Great, Archbishop of Caesarea in Cappadocia
 
@@ -30,9 +30,9 @@
 
 **Priest & Deacon:** "O God, cleanse me a sinner, and have mercy on me."
 *Then the deacon, having inclined his head to the priest, says:*
-**Deacon:** "Bless, Master, the sticharion with the orarion."
+> **Deacon:** "Bless, Master, the sticharion with the orarion."
 *And the priest, blessing him, says:*
-**Priest:** "Blessed is our God, always, now and ever, and unto ages of ages. Amen."
+> **Priest:** "Blessed is our God, always, now and ever, and unto ages of ages. Amen."
 *And thus they vest in all the priestly vestments, saying the same things as in the Liturgy of Chrysostom, as [indicated] above in the Prothesis.*[^404]
 
 *The Order of the Holy Liturgy*
@@ -40,78 +40,78 @@
 *he bows thrice, and beforehand prepares the holy vessels; and having thus come to the priest, and standing together before the holy table, praying within themselves, saying thrice:*
 **Priest & Deacon:** "O God, cleanse me:"
 *Then the priest:*
-**Priest:** "Heavenly King, Comforter:"[^405]
+> **Priest:** "Heavenly King, Comforter:"[^405]
 *Then: "Glory to God in the highest" (twice); "O Lord, Thou shalt open my lips" (once). And the priest kisses the holy Gospel, and the deacon the holy table; and having inclined his head with the orarion, he says:*
 
 *of Saint Basil the Great*
 
-**Deacon:** "It is time for the Lord to act; bless, Master."[^406]
+> **Deacon:** "It is time for the Lord to act; bless, Master."[^406]
 *And the priest, blessing him, says:*
-**Priest:** "Blessed is our God, always, now and ever, and unto ages of ages."
+> **Priest:** "Blessed is our God, always, now and ever, and unto ages of ages."
 *Then the deacon:*
-**Deacon:** "Pray for me, Master."
+> **Deacon:** "Pray for me, Master."
 *And the priest:*
-**Priest:** "May the Lord direct thy steps."
+> **Priest:** "May the Lord direct thy steps."
 *And again the deacon:*
-**Deacon:** "Remember me, holy Master."
+> **Deacon:** "Remember me, holy Master."
 *And the priest:*
-**Priest:** "May the Lord God remember thee in His kingdom, always, now and ever, and unto ages of ages."
+> **Priest:** "May the Lord God remember thee in His kingdom, always, now and ever, and unto ages of ages."
 *And the deacon:*
 
 *The Order of the Holy Liturgy*
 
 *having said: "Amen," and kissed the hand of the priest; and thus he goes forth, and standing upon the ambon, he bows thrice, saying:*
-**Deacon:** "O Lord, Thou shalt open my lips, and my mouth shall declare Thy praise."
+> **Deacon:** "O Lord, Thou shalt open my lips, and my mouth shall declare Thy praise."
 *Then he exclaims:*
-**Deacon:** "Bless, Master."
+> **Deacon:** "Bless, Master."
 *The priest, having opened the curtain of the great doors, exclaims:*[^407]
-**Priest:** "Blessed is the kingdom of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages."
-**Choir:** "Amen."
+> **Priest:** "Blessed is the kingdom of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
 
 *of Saint Basil the Great*
 
 *Then they sing: "Come, let us worship" (thrice); Psalm 103:*[^408]
-**Choir:** "Bless the Lord, O my soul; O Lord my God:"
+> **Choir:** "Bless the Lord, O my soul; O Lord my God:"
 *And the deacon, having gone, stands before the icon of Christ, awaiting the completion of the Psalm. Then having come upon the ambon, he says the Great Litany (deacon's petitions):*
-**Deacon:** "In peace let us pray to the Lord;"
+> **Deacon:** "In peace let us pray to the Lord;"
 *and the rest. And the priest reads the prayers of the first, second, and third antiphons; and when the deacon has finished the petitions:*
 
 *The Order of the Holy Liturgy*
 
 *the priest exclaims:*
-**Priest:** "For unto Thee is due all glory:"
+> **Priest:** "For unto Thee is due all glory:"
 *Then the singers sing: "Lord, I have cried" to the Tone of the stichera of the feast. And the priest performs the proskomide (prosphomisation).*[^409] *And the deacon, having entered into the holy altar, and taken the censer with incense, and asked a blessing from the priest, incenses the holy table and the holy prothesis (table of oblation), and the entire sanctuary; and returning, he incenses the holy table and the whole altar.*
 
 *of Saint Basil the Great*
 
 *And when the singers begin: "Glory... Both now...": then the priest with the deacon, having stood, bow; and having taken the holy Gospel, they make the Little Entrance according to custom, saying the prayer:*[^410]
-**Priest:** "Master, Lord our God:"
+> **Priest:** "Master, Lord our God:"
 *The deacon having said:*
-**Deacon:** "Bless, Master, the holy entrance;"
+> **Deacon:** "Bless, Master, the holy entrance;"
 *and the priest:*
-**Priest:** "Blessed is the entrance of Thy holy ones, always, now and ever:"
+> **Priest:** "Blessed is the entrance of Thy holy ones, always, now and ever:"
 *Then the deacon:*
-**Deacon:** "Wisdom, stand upright!"
-**Choir:** "O Joyful Light:"
+> **Deacon:** "Wisdom, stand upright!"
+> **Choir:** "O Joyful Light:"
 *Then the prokeimenon of the day, and the readings of the feast.*
 
 *The Order of the Holy Liturgy*
 
 *And at the completion of the readings, the deacon, having gone forth upon the ambon, says the Little Litanies:*[^411]
-**Deacon:** "Again and again;" "Help us, save us;" "Commemorating our most holy, most pure:"
+> **Deacon:** "Again and again;" "Help us, save us;" "Commemorating our most holy, most pure:"
 *Then having entered again into the altar, he says:*
-**Deacon:** "Bless, Master, the time of the Trisagion."
+> **Deacon:** "Bless, Master, the time of the Trisagion."
 *And the priest:*
-**Priest:** "For holy art Thou, our God, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever."
+> **Priest:** "For holy art Thou, our God, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever."
 *Then the deacon exclaims in a loud voice:*
-**Deacon:** "And unto ages of ages."
+> **Deacon:** "And unto ages of ages."
 *And the singers:*
 
 *of Saint Basil the Great*
 
-**Choir:** "Amen,"
+> **Choir:** "Amen,"
 *and they sing the Trisagion; and all in order. And after the Great Entrance, the deacon goes forth, and says:*[^412]
-**Deacon:** "Let us complete our evening prayer [unto the Lord];"
+> **Deacon:** "Let us complete our evening prayer [unto the Lord];"
 *and the other [petitions]: "A whole evening, perfect;" and the rest according to custom, the Divine Liturgy of Saint Basil the Great.*
 *Concerning the Feast of the Meeting of the Lord:*[^413]
 *According to this same order the Liturgy of Chrysostom is also celebrated, whenever the feast of the Meeting of the Lord happens [on a weekday] in the Holy Great Forty Days (Lent).*
@@ -120,7 +120,7 @@
 
 *Concerning the Annunciation of the Most Holy Theotokos:*[^414]
 *Likewise also on the feast of the Conception of the Lord, that is to say, the Annunciation, the service is performed according to this same order, completely unchanged.*
-*[Decorative tailpiece cartouche with mascaron] (Blank leaf with show-through from the verso woodcut)*[^415] *[Full-page woodcut icon: The image and figure of our father among the saints, Basil the Great, Archbishop of Caesarea in Cappadocia. In the upper-left corner of the border: sheet registry numeral 36 (л҃ѕ). Inscription above the halo: "THE HOLY" (СТ҃ЫИ); flanking the halo: "BASIL THE GREAT" (ВАСІ́ЛЇЕ ВЕЛИ́КЫ[И]). The holy hierarch is depicted full-length, vested in polystavrion phelonion, great omophorion, and epigonation, holding the Gospel book in his left hand and blessing with his right hand, surrounded by an elaborate Renaissance foliate and strapwork architectural border.]*[^416]
+*[Decorative tailpiece cartouche with mascaron] [Full-page woodcut icon: The image and figure of our father among the saints, Basil the Great, Archbishop of Caesarea in Cappadocia. In the upper-left corner of the border: sheet registry numeral 36 (л҃ѕ). Inscription above the halo: "THE HOLY" (СТ҃ЫИ); flanking the halo: "BASIL THE GREAT" (ВАСІ́ЛЇЕ ВЕЛИ́КЫ(*И*)). The holy hierarch is depicted full-length, vested in polystavrion phelonion, great omophorion, and epigonation, holding the Gospel book in his left hand and blessing with his right hand, surrounded by an elaborate Renaissance foliate and strapwork architectural border.]*[^416] [^415]
 
 *[Inscription above headpiece: I.N.Ts.I. Decorative woodcut headpiece depicting the Crucifixion of Christ with the Virgin Mary and Saint John the Theologian standing beside the Cross amidst Renaissance foliage.]*[^417]
 
@@ -129,383 +129,383 @@
 *Seek the Prothesis in the Liturgy of John Chrysostom. After the dismissal has been spoken by the priest, the deacon comes*[^418] *The Holy Liturgy*
 
 *to the customary place, and having made three bows with reverence, saying within himself:*
-**Deacon:** "O Lord, Thou shalt open my lips, and my mouth shall declare Thy praise."
+> **Deacon:** "O Lord, Thou shalt open my lips, and my mouth shall declare Thy praise."
 *And he exclaims:*
-**Deacon:** "Bless, Master."
-**Priest:** "Blessed is the kingdom of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages."
-**Choir:** "Amen."
+> **Deacon:** "Bless, Master."
+> **Priest:** "Blessed is the kingdom of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
 *Typikon for the priestly ministration and the diaconate,*[^419] *of Saint Basil the Great*
 
 *and the responses of the choirs: completely unchanged in everything, just as in the Liturgy of Chrysostom.*
-**Deacon:** "In peace let us pray to the Lord."
-**Deacon:** "For the peace from above, and for the salvation [of our souls, let us pray to the Lord]."
-**Deacon:** "For the peace of the whole world, the good estate [of the holy churches of God, and the union of all, let us pray to the Lord]."
-**Deacon:** "For this holy house, and for those who [with faith, reverence, and the fear of God enter therein, let us pray to the Lord]."
-**Deacon:** "For our bishop [Name], [the honorable presbytery, the diaconate in Christ, for all the clergy and the people, let us pray to the Lord]."
-**Deacon:** "For our Great King [Name]:"[^420]
-**Deacon:** "That He may aid him and subdue [under his feet every enemy and adversary, let us pray to the Lord]:"
-**Deacon:** "For this holy monastery, every [city and country, and the faithful residing therein, let us pray to the Lord]:"
+> **Deacon:** "In peace let us pray to the Lord."
+> **Deacon:** "For the peace from above, and for the salvation [of our souls, let us pray to the Lord]."
+> **Deacon:** "For the peace of the whole world, the good estate [of the holy churches of God, and the union of all, let us pray to the Lord]."
+> **Deacon:** "For this holy house, and for those who [with faith, reverence, and the fear of God enter therein, let us pray to the Lord]."
+> **Deacon:** "For our bishop [Name], [the honorable presbytery, the diaconate in Christ, for all the clergy and the people, let us pray to the Lord]."
+> **Deacon:** "For our Great King [Name]:"[^420]
+> **Deacon:** "That He may aid him and subdue [under his feet every enemy and adversary, let us pray to the Lord]:"
+> **Deacon:** "For this holy monastery, every [city and country, and the faithful residing therein, let us pray to the Lord]:"
 
 *The Holy Liturgy*
 
-**Deacon:** "For seasonable weather, [for abundance of the fruits of the earth, and for peaceful times, let us pray to the Lord]:"
-**Deacon:** "For travelers by sea and by land, [for the sick, the suffering, captives, and for their salvation, let us pray to the Lord]:"
+> **Deacon:** "For seasonable weather, [for abundance of the fruits of the earth, and for peaceful times, let us pray to the Lord]:"
+> **Deacon:** "For travelers by sea and by land, [for the sick, the suffering, captives, and for their salvation, let us pray to the Lord]:"
 *The priest saying the prayer secretly in the holy altar at that time when the deacon says the diaconal petitions outside the altar.*[^421]
 *The Prayer of the First Antiphon, secretly:*
-**Priest:** "O Lord our God, Whose might is ineffable, and Whose glory is incomprehensible; Whose mercy is immeasurable, and of Saint Basil the Great*
+> **Priest:** "O Lord our God, Whose might is ineffable, and Whose glory is incomprehensible; Whose mercy is immeasurable, and of Saint Basil the Great*
 
-**Priest:** "Whose love for mankind is unspeakable: do Thou Thyself, Master, according to Thy tender compassion, look upon us and upon this holy temple, and execute with us and with those who pray with us Thy rich mercies and Thy compassions."[^422]
-**Deacon:** "That we may be delivered [from all affliction, wrath, danger, and need, let us pray to the Lord]:"
-**Deacon:** "Help us, save us, have mercy on us, and [keep us, O God, by Thy grace]."
-**Deacon:** "Commemorating our most holy, most pure, most blessed [glorious Lady, the Theotokos and ever-virgin Mary, with all the saints, let us commit ourselves and one another, and our whole life unto Christ our God]."
+> **Priest:** "Whose love for mankind is unspeakable: do Thou Thyself, Master, according to Thy tender compassion, look upon us and upon this holy temple, and execute with us and with those who pray with us Thy rich mercies and Thy compassions."[^422]
+> **Deacon:** "That we may be delivered [from all affliction, wrath, danger, and need, let us pray to the Lord]:"
+> **Deacon:** "Help us, save us, have mercy on us, and [keep us, O God, by Thy grace]."
+> **Deacon:** "Commemorating our most holy, most pure, most blessed [glorious Lady, the Theotokos and ever-virgin Mary, with all the saints, let us commit ourselves and one another, and our whole life unto Christ our God]."
 *Exclamation:*
-**Priest:** "For unto Thee is due all glory, honor, and worship: to the Father, and to the Son, and to the Holy Spirit, [now and ever, and unto ages of ages]."
+> **Priest:** "For unto Thee is due all glory, honor, and worship: to the Father, and to the Son, and to the Holy Spirit, [now and ever, and unto ages of ages]."
 
 *The Holy Liturgy*
 
 "...by Thy divine power, and forsake us not who hope in Thee."[^423]
 *And at the conclusion of the second antiphon, the deacon's petitions:*
-**Deacon:** "Again and again [in peace let us pray to the Lord]."
-**Deacon:** "Help us, save us [have mercy on us, and keep us, O God, by Thy grace]."
-**Deacon:** "Commemorating our most holy, most pure [most blessed, glorious Lady, the Theotokos and ever-virgin Mary, with all the saints, let us commit ourselves and one another, and our whole life unto Christ our God]."
+> **Deacon:** "Again and again [in peace let us pray to the Lord]."
+> **Deacon:** "Help us, save us [have mercy on us, and keep us, O God, by Thy grace]."
+> **Deacon:** "Commemorating our most holy, most pure [most blessed, glorious Lady, the Theotokos and ever-virgin Mary, with all the saints, let us commit ourselves and one another, and our whole life unto Christ our God]."
 *Exclamation:*
-**Priest:** "For Thou art a good God, and lovest mankind, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
-**Choir:** "Amen."
+> **Priest:** "For Thou art a good God, and lovest mankind, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
 *The Prayer of the Third Antiphon:*
 
 *of Saint Basil the Great*
 
-**Priest:** "Thou Who hast bestowed upon us these common and concordant prayers, Who didst promise to grant the petitions of two or three agreeing together in Thy Name: do Thou Thyself now also fulfill the petitions of Thy servants to their profit, granting us in this present age the knowledge of Thy truth, and in the [age] to come conferring eternal life."[^424]
+> **Priest:** "Thou Who hast bestowed upon us these common and concordant prayers, Who didst promise to grant the petitions of two or three agreeing together in Thy Name: do Thou Thyself now also fulfill the petitions of Thy servants to their profit, granting us in this present age the knowledge of Thy truth, and in the [age] to come conferring eternal life."[^424]
 
 *The Holy Liturgy*
 
 *While the third antiphon is being sung, or the Beatitudes, they make the Little Entrance, and everything just as also in the Liturgy of Chrysostom.*
 *The Prayer of the Entrance:*
-**Priest:** "Master, Lord our God, Who hast established in the heavens orders and armies of angels and archangels for the ministration of Thy glory: make with our entrance an entrance of holy angels," *of Saint Basil the Great*
+> **Priest:** "Master, Lord our God, Who hast established in the heavens orders and armies of angels and archangels for the ministration of Thy glory: make with our entrance an entrance of holy angels," *of Saint Basil the Great*
 
-**Priest:** "serving together with us and together glorifying Thy goodness."
+> **Priest:** "serving together with us and together glorifying Thy goodness."
 *Exclamation:*
-**Priest:** "For unto Thee is due all glory, honor, and worship: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
-**Choir:** "Amen."
+> **Priest:** "For unto Thee is due all glory, honor, and worship: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
 *And after the prayer, the priest and the deacon, and the choirs do and say the same things as in the Liturgy of Chrysostom.*[^425]
 *The Prayer of the Thrice-Holy Singing (Trisagion), which the priest says secretly:*[^426]
 
 *The Holy Liturgy*
 
-**Priest:** "O Holy God, Who restest in the saints, Who with the thrice-holy cry art hymned by the Seraphim, and glorified by the Cherubim, and worshipped by every heavenly power; Who from non-being didst bring all things into existence; Who didst create man according to Thine image and likeness, and didst adorn him with every gift of Thine; Who givest to them that ask" *of Saint Basil the Great*
+> **Priest:** "O Holy God, Who restest in the saints, Who with the thrice-holy cry art hymned by the Seraphim, and glorified by the Cherubim, and worshipped by every heavenly power; Who from non-being didst bring all things into existence; Who didst create man according to Thine image and likeness, and didst adorn him with every gift of Thine; Who givest to them that ask" *of Saint Basil the Great*
 
-**Priest:** "wisdom and understanding, and despisest not the sinner, but hast appointed repentance unto salvation; Who hast vouchsafed unto us, Thy humble and unworthy servants, even at this hour to stand before the glory of Thy holy altar-table, and to offer unto Thee the due worship and doxology: do Thou Thyself, Master, accept even from the mouths of us sinners the thrice-holy hymn, and visit us in Thy goodness."[^427]
+> **Priest:** "wisdom and understanding, and despisest not the sinner, but hast appointed repentance unto salvation; Who hast vouchsafed unto us, Thy humble and unworthy servants, even at this hour to stand before the glory of Thy holy altar-table, and to offer unto Thee the due worship and doxology: do Thou Thyself, Master, accept even from the mouths of us sinners the thrice-holy hymn, and visit us in Thy goodness."[^427]
 
 *The Holy Liturgy*
 
-**Priest:** "[...that we may] understand Thy Gospel preachings; and implant in us also the fear of Thy blessed commandments, that, having trampled down all carnal lusts, we may pursue a spiritual way of life, both thinking and doing all things that are well-pleasing unto Thee. For Thou art the illumination of our souls [and bodies], O Christ God, and unto Thee do we send up glory, together with Thine unoriginate Father,"[^428] *of Saint Basil the Great*
+> **Priest:** "[...that we may] understand Thy Gospel preachings; and implant in us also the fear of Thy blessed commandments, that, having trampled down all carnal lusts, we may pursue a spiritual way of life, both thinking and doing all things that are well-pleasing unto Thee. For Thou art the illumination of our souls [and bodies], O Christ God, and unto Thee do we send up glory, together with Thine unoriginate Father,"[^428] *of Saint Basil the Great*
 
-**Priest:** "and Thy most holy, good, and life-creating Spirit, now and ever, and unto ages of ages."
+> **Priest:** "and Thy most holy, good, and life-creating Spirit, now and ever, and unto ages of ages."
 *And the rest, everything in order.*[^429]
 *And after the Gospel, the deacon says:*
-**Deacon:** "Let us all say with our whole soul [and with our whole mind, let us say]:"
-**Deacon:** "O Lord almighty, the God of our fathers, [we pray Thee, give ear and have mercy]:"
-**Deacon:** "Have mercy on us, O God, according to Thy great [mercy, we pray Thee, give ear and have mercy]:"
-**Deacon:** "Again we pray for our Great King [Name]:"[^430]
+> **Deacon:** "Let us all say with our whole soul [and with our whole mind, let us say]:"
+> **Deacon:** "O Lord almighty, the God of our fathers, [we pray Thee, give ear and have mercy]:"
+> **Deacon:** "Have mercy on us, O God, according to Thy great [mercy, we pray Thee, give ear and have mercy]:"
+> **Deacon:** "Again we pray for our Great King [Name]:"[^430]
 *The priest [reads] the Prayer of Fervent Supplication secretly:*
 
 *The Holy Liturgy*
 
-**Priest:** "O Lord our God, accept this fervent supplication from Thy servants, and have mercy on us according to the multitude of Thy mercy; and send down Thy compassions upon us and upon all Thy people that await the rich mercy from Thee."
-**Deacon:** "Again we pray for our bishop [Name]:"
+> **Priest:** "O Lord our God, accept this fervent supplication from Thy servants, and have mercy on us according to the multitude of Thy mercy; and send down Thy compassions upon us and upon all Thy people that await the rich mercy from Thee."
+> **Deacon:** "Again we pray for our bishop [Name]:"
 *If it is in a monastery:*
-**Deacon:** "Again we pray for the remission [and forgiveness of sins of the servants of God, the brethren of this holy monastery]:"
-**Deacon:** "Again we pray for all who serve [and have served in this holy monastery]:"
+> **Deacon:** "Again we pray for the remission [and forgiveness of sins of the servants of God, the brethren of this holy monastery]:"
+> **Deacon:** "Again we pray for all who serve [and have served in this holy monastery]:"
 
 *of Saint Basil the Great*
 
 *If not in a monastery:*[^431]
-**Deacon:** "Again we pray for our spiritual father [Name]:"
-**Deacon:** "Again we pray for the people here present, [who await of Thee great and rich mercy]:"
-**Deacon:** "Again we pray for all the brethren:"
+> **Deacon:** "Again we pray for our spiritual father [Name]:"
+> **Deacon:** "Again we pray for the people here present, [who await of Thee great and rich mercy]:"
+> **Deacon:** "Again we pray for all the brethren:"
 *Exclamation:*
-**Priest:** "For Thou art a merciful God, and lovest mankind, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
-**Choir:** "Amen."
-**Deacon:** "Pray, ye catechumens, [unto the Lord]."
-**Deacon:** "Ye faithful, let us pray for the catechumens:"
+> **Priest:** "For Thou art a merciful God, and lovest mankind, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
+> **Deacon:** "Pray, ye catechumens, [unto the Lord]."
+> **Deacon:** "Ye faithful, let us pray for the catechumens:"
 
 *The Holy Liturgy*
 
-**Deacon:** "That He may announce unto them the word of truth:"
-**Deacon:** "That He may reveal unto them the Gospel of righteousness:"
-**Deacon:** "That He may unite them unto His holy [catholic and apostolic Church]:"
-**Deacon:** "Save them, have mercy on them, help them, and [keep them, O God, by Thy grace]:"
-**Deacon:** "Ye catechumens, [bow] your heads [unto the Lord]."
+> **Deacon:** "That He may announce unto them the word of truth:"
+> **Deacon:** "That He may reveal unto them the Gospel of righteousness:"
+> **Deacon:** "That He may unite them unto His holy [catholic and apostolic Church]:"
+> **Deacon:** "Save them, have mercy on them, help them, and [keep them, O God, by Thy grace]:"
+> **Deacon:** "Ye catechumens, [bow] your heads [unto the Lord]."
 *The Prayer for the Catechumens before the Holy Anaphora (Elevation), which the priest says secretly:*[^432]
-**Priest:** "O Lord our God, Who dwellest on high and lookest upon all Thy works: look upon Thy servants" *of Saint Basil the Great*
+> **Priest:** "O Lord our God, Who dwellest on high and lookest upon all Thy works: look upon Thy servants" *of Saint Basil the Great*
 
-**Priest:** "the catechumens, who have bowed their necks before Thee; and give them a light yoke; make them members of Thy holy Church, and vouchsafe unto them the washing of regeneration, the remission of sins, and the garment of incorruption, unto the knowledge of Thee, our true God."[^433]
+> **Priest:** "the catechumens, who have bowed their necks before Thee; and give them a light yoke; make them members of Thy holy Church, and vouchsafe unto them the washing of regeneration, the remission of sins, and the garment of incorruption, unto the knowledge of Thee, our true God."[^433]
 *Exclamation:*
-**Priest:** "That they also with us may glorify Thy most honorable and majestic Name: of the Father, and of the Son, and of the Holy Spirit, [now and ever, and unto ages of ages]."
+> **Priest:** "That they also with us may glorify Thy most honorable and majestic Name: of the Father, and of the Son, and of the Holy Spirit, [now and ever, and unto ages of ages]."
 
 *The Holy Liturgy*
 
-**Priest:** "[now and ever, and] unto ages of ages."
-**Choir:** "Amen."
+> **Priest:** "[now and ever, and] unto ages of ages."
+> **Choir:** "Amen."
 *And after the exclamation, [the priest] unfolds the eileton, according to custom.*[^434]
 *And the deacon [exclaims]:*
-**Deacon:** "All ye who are catechumens, depart; catechumens, depart!"
+> **Deacon:** "All ye who are catechumens, depart; catechumens, depart!"
 *Be it known that these diaconal petitions and the prayer are added from Wednesday of Mid-Lent until Holy and Great Wednesday:*[^435]
-**Deacon:** "All ye who are [preparing] for illumination, draw near!"
+> **Deacon:** "All ye who are [preparing] for illumination, draw near!"
 
 *of Saint Basil the Great*
 
-**Deacon:** "Pray, ye who are [preparing] for illumination, unto the Lord."
-**Deacon:** "Ye faithful, for our brethren who are preparing for holy illumination and for their salvation, let us pray to the Lord:"
-**Deacon:** "That the Lord our God may establish them and strengthen them:"
-**Deacon:** "May illumine them with the light of understanding:"
-**Deacon:** "May vouchsafe them in acceptable time the bath of regeneration, the remission of sins, and the garment of incorruption:"
+> **Deacon:** "Pray, ye who are [preparing] for illumination, unto the Lord."
+> **Deacon:** "Ye faithful, for our brethren who are preparing for holy illumination and for their salvation, let us pray to the Lord:"
+> **Deacon:** "That the Lord our God may establish them and strengthen them:"
+> **Deacon:** "May illumine them with the light of understanding:"
+> **Deacon:** "May vouchsafe them in acceptable time the bath of regeneration, the remission of sins, and the garment of incorruption:"
 
 *The Holy Liturgy*
 
-**Deacon:** "May regenerate them by water and the Spirit:"
-**Deacon:** "May grant them perfection of faith:"
-**Deacon:** "May number them with His holy, chosen flock:"
-**Deacon:** "Save, have mercy, help, and preserve them, O God, by Thy grace."
-**Deacon:** "Ye who are [preparing] for illumination, bow your heads unto the Lord."
+> **Deacon:** "May regenerate them by water and the Spirit:"
+> **Deacon:** "May grant them perfection of faith:"
+> **Deacon:** "May number them with His holy, chosen flock:"
+> **Deacon:** "Save, have mercy, help, and preserve them, O God, by Thy grace."
+> **Deacon:** "Ye who are [preparing] for illumination, bow your heads unto the Lord."
 *The Prayer for Those Preparing for Holy Illumination:*
-**Priest:** "Manifest Thy countenance, Master, upon those who are preparing" *of Saint Basil the Great*
+> **Priest:** "Manifest Thy countenance, Master, upon those who are preparing" *of Saint Basil the Great*
 
-**Priest:** "for holy illumination, and who desire to shake off the defilement of sin; illumine their thoughts, confirm them in the faith, establish them in hope, perfect them in love; show them to be honorable members of Thy Christ, Who gave Himself a ransom for our souls."[^436]
+> **Priest:** "for holy illumination, and who desire to shake off the defilement of sin; illumine their thoughts, confirm them in the faith, establish them in hope, perfect them in love; show them to be honorable members of Thy Christ, Who gave Himself a ransom for our souls."[^436]
 *Exclamation:*
-**Priest:** "For Thou art our illumination, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit," *The Holy Liturgy*
+> **Priest:** "For Thou art our illumination, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit," *The Holy Liturgy*
 
-**Priest:** "[now and ever, and] unto ages of ages."
-**Deacon:** "All ye who are [preparing] for illumination, depart; ye who are [preparing] for illumination, depart!"
+> **Priest:** "[now and ever, and] unto ages of ages."
+> **Deacon:** "All ye who are [preparing] for illumination, depart; ye who are [preparing] for illumination, depart!"
 *Here sing as before Mid-Lent:*[^437]
-**Deacon:** "All ye catechumens, depart! Let none of the catechumens [remain]! As many as are the faithful, again and again in peace let us pray to the Lord:"
+> **Deacon:** "All ye catechumens, depart! Let none of the catechumens [remain]! As many as are the faithful, again and again in peace let us pray to the Lord:"
 *The First Prayer of the Faithful, after the eileton has been unfolded, which the priest says secretly:*[^438]
 
 *of Saint Basil the Great*
 
-**Priest:** "Thou, O Lord, hast shown unto us this great mystery of salvation; Thou hast vouchsafed unto us, Thy humble and unworthy servants, to be ministers of Thy holy altar: do Thou qualify us with the power of Thy Holy Spirit for this ministry, that, standing uncondemned before Thy holy glory, we may offer unto Thee a sacrifice of praise;"[^439]
+> **Priest:** "Thou, O Lord, hast shown unto us this great mystery of salvation; Thou hast vouchsafed unto us, Thy humble and unworthy servants, to be ministers of Thy holy altar: do Thou qualify us with the power of Thy Holy Spirit for this ministry, that, standing uncondemned before Thy holy glory, we may offer unto Thee a sacrifice of praise;"[^439]
 
 *The Holy Liturgy*
 
-**Priest:** "for Thou art He that works all in all: grant, O Lord, that our sacrifice may be acceptable and well-pleasing before Thee, both for our own sins and for the ignorances of the people."[^440]
+> **Priest:** "for Thou art He that works all in all: grant, O Lord, that our sacrifice may be acceptable and well-pleasing before Thee, both for our own sins and for the ignorances of the people."[^440]
 *While the priest is praying, the deacon says the diaconal petitions, just as also in the Liturgy of Chrysostom; but if the priest is alone, he says:*[^441]
-**Priest (or Deacon):** "Help us, save us, have mercy on us, and [keep us, O God, by Thy grace]."
-**Priest (or Deacon):** "Wisdom!"
+> **Priest:** "Help us, save us, have mercy on us, and [keep us, O God, by Thy grace]."
+> **Priest:** "Wisdom!"
 *Exclamation:*
 
 *of Saint Basil the Great*
 
-**Priest:** "For unto Thee is due all glory, honor, and worship: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
-**Choir:** "Amen."
-**Deacon:** "Again and again in peace [let us pray to the Lord]."
+> **Priest:** "For unto Thee is due all glory, honor, and worship: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
+> **Deacon:** "Again and again in peace [let us pray to the Lord]."
 *The Second Prayer of the Faithful, which the priest says secretly:*
-**Priest:** "O God, Who in mercy and compassions hast visited our humility; Who hast set us, Thy humble and sinful [and unworthy servants, to minister before Thy holy glory]:"[^442]
+> **Priest:** "O God, Who in mercy and compassions hast visited our humility; Who hast set us, Thy humble and sinful [and unworthy servants, to minister before Thy holy glory]:"[^442]
 
 *The Holy Liturgy*
 
-**Priest:** "[and unworthy servants,] to minister before Thy holy glory at Thy holy altar: strengthen us with the power of Thy Holy Spirit for this ministry; and give unto us word in the opening of our mouth, to invoke the grace of Thy Holy Spirit upon the gifts that are about to be offered."[^443]
+> **Priest:** "[and unworthy servants,] to minister before Thy holy glory at Thy holy altar: strengthen us with the power of Thy Holy Spirit for this ministry; and give unto us word in the opening of our mouth, to invoke the grace of Thy Holy Spirit upon the gifts that are about to be offered."[^443]
 *The deacon (or priest) says:*
-**Priest (or Deacon):** "Help us, save us, have mercy on us, and [keep us, O God, by Thy grace]."
-**Priest (or Deacon):** "Wisdom!"
+> **Priest:** "Help us, save us, have mercy on us, and [keep us, O God, by Thy grace]."
+> **Priest:** "Wisdom!"
 *Exclamation:*
-**Priest:** "That being kept always under Thy dominion," *of Saint Basil the Great*
+> **Priest:** "That being kept always under Thy dominion," *of Saint Basil the Great*
 
-**Priest:** "we may send up glory unto Thee: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
-**Choir:** "Amen."
+> **Priest:** "we may send up glory unto Thee: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
 *And here likewise both the priest and the deacon do just as at the Liturgy of Chrysostom; and the singers chant the Cherubic Hymn, and the priest says this prayer secretly:*[^444]
 *The Prayer of the Cherubic Hymn:*
-**Priest:** "No one who is bound" *The Holy Liturgy*
+> **Priest:** "No one who is bound" *The Holy Liturgy*
 
-**Priest:** "with carnal desires and pleasures is worthy to approach or draw near, or to minister unto Thee, O King of Glory; for to serve Thee is great and fearful even unto the heavenly hosts themselves. Yet, because of Thine ineffable and boundless love toward mankind, without change and without alteration Thou didst become man, and wast named our High Priest, and didst deliver unto us the sacred ministry of this liturgical and unbloody sacrifice," *of Saint Basil the Great*
+> **Priest:** "with carnal desires and pleasures is worthy to approach or draw near, or to minister unto Thee, O King of Glory; for to serve Thee is great and fearful even unto the heavenly hosts themselves. Yet, because of Thine ineffable and boundless love toward mankind, without change and without alteration Thou didst become man, and wast named our High Priest, and didst deliver unto us the sacred ministry of this liturgical and unbloody sacrifice," *of Saint Basil the Great*
 
-**Priest:** "as Master of all. For Thou alone, O Lord our God, rulest over things in heaven and things on earth, Who art borne upon the throne of the Cherubim, Who art Lord of the Seraphim and King of Israel, Who alone art holy and restest in the saints.[^445] Thee therefore do I implore, Who alone art good and ready to listen: look down upon me, a sinner and Thine unprofitable servant," *The Holy Liturgy*
+> **Priest:** "as Master of all. For Thou alone, O Lord our God, rulest over things in heaven and things on earth, Who art borne upon the throne of the Cherubim, Who art Lord of the Seraphim and King of Israel, Who alone art holy and restest in the saints.[^445] Thee therefore do I implore, Who alone art good and ready to listen: look down upon me, a sinner and Thine unprofitable servant," *The Holy Liturgy*
 
-**Priest:** "and cleanse my soul and heart from an evil conscience; and by the power of Thy Holy Spirit enable me, invested with the grace of the priesthood, to stand before this Thy holy table, and to celebrate the sacred mystery of Thy holy and immaculate Body and precious Blood. For unto Thee do I draw near, bowing my neck, and I implore Thee: turn not Thy countenance away from me, nor cast me out from among Thy children;"
+> **Priest:** "and cleanse my soul and heart from an evil conscience; and by the power of Thy Holy Spirit enable me, invested with the grace of the priesthood, to stand before this Thy holy table, and to celebrate the sacred mystery of Thy holy and immaculate Body and precious Blood. For unto Thee do I draw near, bowing my neck, and I implore Thee: turn not Thy countenance away from me, nor cast me out from among Thy children;"
 
 *of Saint Basil the Great*
 
-**Priest:** "but vouchsafe that these gifts may be offered unto Thee by me, a sinner and Thine unworthy servant. For Thou art He that offers and is offered, that accepts and is distributed, O Christ our God; and unto Thee do we send up glory, with Thine unoriginate Father, and Thy most holy and good and life-creating Spirit, now and ever, and unto ages of ages. Amen."[^446]
+> **Priest:** "but vouchsafe that these gifts may be offered unto Thee by me, a sinner and Thine unworthy servant. For Thou art He that offers and is offered, that accepts and is distributed, O Christ our God; and unto Thee do we send up glory, with Thine unoriginate Father, and Thy most holy and good and life-creating Spirit, now and ever, and unto ages of ages. Amen."[^446]
 
 *The Holy Liturgy*
 
 *The Cherubic Hymn:*
-**Choir:** "We who mystically represent the Cherubim, and sing the thrice-holy hymn unto the life-creating Trinity, let us now lay aside all earthly care."
-**Choir:** "That we may receive the King of all, escorted invisibly by the angelic ranks. Alleluia, alleluia, alleluia."[^447]
+> **Choir:** "We who mystically represent the Cherubim, and sing the thrice-holy hymn unto the life-creating Trinity, let us now lay aside all earthly care."
+> **Choir:** "That we may receive the King of all, escorted invisibly by the angelic ranks. Alleluia, alleluia, alleluia."[^447]
 *And this is sung on Great Thursday only:*[^448]
 
 *of Saint Basil the Great*
 
-**Choir:** "Of Thy Mystical Supper, O Son of God, receive me today as a communicant; for I will not speak of the mystery to Thine enemies, neither will I give Thee a kiss as did Judas, but like the thief do I confess Thee: Remember me, O Lord, in Thy kingdom."
+> **Choir:** "Of Thy Mystical Supper, O Son of God, receive me today as a communicant; for I will not speak of the mystery to Thine enemies, neither will I give Thee a kiss as did Judas, but like the thief do I confess Thee: Remember me, O Lord, in Thy kingdom."
 *And on Great Saturday they sing this:*[^449]
-**Choir:** "Let all mortal flesh keep silence, and stand" *The Holy Liturgy*
+> **Choir:** "Let all mortal flesh keep silence, and stand" *The Holy Liturgy*
 
-**Choir:** "with fear and trembling, and ponder nothing earthly within itself; for the King of kings and Lord of lords comes forth to be slain, and to be given for food to the faithful."
+> **Choir:** "with fear and trembling, and ponder nothing earthly within itself; for the King of kings and Lord of lords comes forth to be slain, and to be given for food to the faithful."
 *Choirs:*[^450]
-**Choir:** "And before Him go the angelic choirs, with every principality and authority, the many-eyed Cherubim and the six-winged Seraphim, covering their faces and crying aloud the hymn:"
+> **Choir:** "And before Him go the angelic choirs, with every principality and authority, the many-eyed Cherubim and the six-winged Seraphim, covering their faces and crying aloud the hymn:"
 
 *of Saint Basil the Great*
 
-**Choir:** "Alleluia, alleluia, alleluia."
+> **Choir:** "Alleluia, alleluia, alleluia."
 *And here both the priest and the deacon perform the same actions and say the same words as at the Liturgy of Chrysostom. And when the prayers and the ministry have been completed, the deacon, coming to the customary place, says:*[^451]
-**Deacon:** "Let us complete our prayer [unto the Lord]."
-**Deacon:** "For the precious gifts offered, [let us pray to the Lord]."
-**Deacon:** "For this holy house, [and for those who with faith, reverence, and the fear of God enter therein, let us pray to the Lord]."
-**Deacon:** "That we may be delivered from all [affliction, wrath, danger, and necessity, let us pray to the Lord]."
+> **Deacon:** "Let us complete our prayer [unto the Lord]."
+> **Deacon:** "For the precious gifts offered, [let us pray to the Lord]."
+> **Deacon:** "For this holy house, [and for those who with faith, reverence, and the fear of God enter therein, let us pray to the Lord]."
+> **Deacon:** "That we may be delivered from all [affliction, wrath, danger, and necessity, let us pray to the Lord]."
 *The Prayer of the Prothesis [after the divine Gifts have been placed on the Holy Table]:*[^452]
 
 *The Holy Liturgy*
 
 *when the divine Gifts have been placed upon the Holy Table, which the priest says secretly:*
-**Priest:** "O Lord our God, Who didst create us and bring us into this life, Who hast shown unto us ways to salvation, Who hast granted unto us the revelation of heavenly mysteries: Thou art He that hast placed us in this ministry by the power of Thy Holy Spirit."[^453]
+> **Priest:** "O Lord our God, Who didst create us and bring us into this life, Who hast shown unto us ways to salvation, Who hast granted unto us the revelation of heavenly mysteries: Thou art He that hast placed us in this ministry by the power of Thy Holy Spirit."[^453]
 
 *of Saint Basil the Great*
 
-**Priest:** "Be pleased therefore, O Lord, that we may be ministers of Thy New Testament and dispensers of Thy holy mysteries; receive us drawing near unto Thy holy altar according to the multitude of Thy mercy, that we may be worthy to offer unto Thee this reasonable and unbloody sacrifice for our own sins and for the ignorances of the people;"
+> **Priest:** "Be pleased therefore, O Lord, that we may be ministers of Thy New Testament and dispensers of Thy holy mysteries; receive us drawing near unto Thy holy altar according to the multitude of Thy mercy, that we may be worthy to offer unto Thee this reasonable and unbloody sacrifice for our own sins and for the ignorances of the people;"
 
 *The Holy Liturgy*
 
-**Priest:** "which having accepted upon Thy holy and noetic altar for a sweet-smelling savor, send down upon us in return the grace of Thy Holy Spirit. Look upon us, O God, and look upon this our service, and accept it, even as Thou didst accept the gifts of Abel, the sacrifices of Noah, the whole burnt offerings of Abraham, the priesthoods of Moses and Aaron, and the peace offerings of Samuel."[^454]
+> **Priest:** "which having accepted upon Thy holy and noetic altar for a sweet-smelling savor, send down upon us in return the grace of Thy Holy Spirit. Look upon us, O God, and look upon this our service, and accept it, even as Thou didst accept the gifts of Abel, the sacrifices of Noah, the whole burnt offerings of Abraham, the priesthoods of Moses and Aaron, and the peace offerings of Samuel."[^454]
 
 *of Saint Basil the Great*
 
-**Priest:** "Even as Thou didst accept from Thy holy apostles this true service, so also from the hands of us sinners accept these gifts in Thy goodness, O Lord; that, having been vouchsafed to minister blamelessly at Thy holy altar, we may receive the reward of faithful and wise stewards in the fearful day of Thy righteous recompense."[^455]
+> **Priest:** "Even as Thou didst accept from Thy holy apostles this true service, so also from the hands of us sinners accept these gifts in Thy goodness, O Lord; that, having been vouchsafed to minister blamelessly at Thy holy altar, we may receive the reward of faithful and wise stewards in the fearful day of Thy righteous recompense."[^455]
 *The deacon [says the diaconal petitions], just as at the Liturgy The Holy Liturgy*
 
 *of Chrysostom, says:*
-**Deacon:** "Help us, save us, have mercy [on us, and keep us, O God, by Thy grace]."
-**Deacon:** "That the whole day may be perfect, holy, [peaceful, and sinless, let us ask of the Lord]."
-**Deacon:** "An angel of peace, a faithful guide, [a guardian of our souls and bodies, let us ask of the Lord]."
-**Deacon:** "Pardon and remission of our sins [and offenses, let us ask of the Lord]."
-**Deacon:** "Things good and profitable for our souls, [and peace for the world, let us ask of the Lord]."
-**Deacon:** "That we may complete the remaining time of our life [in peace and repentance, let us ask of the Lord]."
-**Deacon:** "A Christian ending to our life: [painless, blameless, peaceful, and a good defense before the dread judgment seat of Christ, let us ask]."
-**Deacon:** "Commemorating our most holy, pure, [most blessed and glorious Lady, the Theotokos and Ever-Virgin Mary, with all the saints, let us commend ourselves and one another, and all our life unto Christ our God]."
+> **Deacon:** "Help us, save us, have mercy [on us, and keep us, O God, by Thy grace]."
+> **Deacon:** "That the whole day may be perfect, holy, [peaceful, and sinless, let us ask of the Lord]."
+> **Deacon:** "An angel of peace, a faithful guide, [a guardian of our souls and bodies, let us ask of the Lord]."
+> **Deacon:** "Pardon and remission of our sins [and offenses, let us ask of the Lord]."
+> **Deacon:** "Things good and profitable for our souls, [and peace for the world, let us ask of the Lord]."
+> **Deacon:** "That we may complete the remaining time of our life [in peace and repentance, let us ask of the Lord]."
+> **Deacon:** "A Christian ending to our life: [painless, blameless, peaceful, and a good defense before the dread judgment seat of Christ, let us ask]."
+> **Deacon:** "Commemorating our most holy, pure, [most blessed and glorious Lady, the Theotokos and Ever-Virgin Mary, with all the saints, let us commend ourselves and one another, and all our life unto Christ our God]."
 *The priest exclaims:*
-**Priest:** "Through the compassions of Thine Only-begotten Son, with Whom Thou art blessed," *of Saint Basil the Great*
+> **Priest:** "Through the compassions of Thine Only-begotten Son, with Whom Thou art blessed," *of Saint Basil the Great*
 
-**Priest:** "together with Thy most holy, good, and life-creating Spirit, now and ever, and unto ages of ages."
-**Choir:** "Amen."
-**Priest:** "Peace be unto all."
-**Deacon:** "Let us love one another, that with one mind [we may confess]:"
-**Choir:** "[The Father, and the Son, and the Holy Spirit: Trinity consubstantial and undivided]."
+> **Priest:** "together with Thy most holy, good, and life-creating Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
+> **Priest:** "Peace be unto all."
+> **Deacon:** "Let us love one another, that with one mind [we may confess]:"
+> **Choir:** "[The Father, and the Son, and the Holy Spirit: Trinity consubstantial and undivided]."
 *The priest bows three times, saying secretly:*[^456]
-**Priest:** "I will love Thee, O Lord, my strength; the Lord is my foundation, and my refuge [and my deliverer]." *[Three times]. And The Holy Liturgy*
+> **Priest:** "I will love Thee, O Lord, my strength; the Lord is my foundation, and my refuge [and my deliverer]." *[Three times]. And The Holy Liturgy*
 
 *the deacon binds his orarion about himself, and bows three times, and says aloud:*[^457]
-**Deacon:** "The doors! The doors! In wisdom let us give heed!"
-**Choir:** "I believe in one God, [the Father Almighty, Maker of heaven and earth, and of all things visible and invisible...]"
+> **Deacon:** "The doors! The doors! In wisdom let us give heed!"
+> **Choir:** "I believe in one God, [the Father Almighty, Maker of heaven and earth, and of all things visible and invisible...]"
 *And at the conclusion of the holy Symbol, that is to say, the Confession of Faith, the deacon says aloud:*[^458]
-**Deacon:** "Let us stand well; let us stand with fear; [let us give heed to offer the holy oblation in peace]!"
-**Choir:** "A mercy of peace, a sacrifice of praise."
+> **Deacon:** "Let us stand well; let us stand with fear; [let us give heed to offer the holy oblation in peace]!"
+> **Choir:** "A mercy of peace, a sacrifice of praise."
 
 *of Saint Basil the Great*
 
 *The priest exclaims:*
-**Priest:** "The grace of our Lord Jesus Christ, and the love of God the Father, and the communion of the Holy Spirit, be with you all."
-**Choir:** "And with thy spirit."
-**Priest:** "Let us lift up our hearts."
-**Choir:** "We lift them up unto the Lord."
-**Priest:** "Let us give thanks unto the Lord."
-**Choir:** "It is meet and right to worship the Father, and the Son, and the Holy Spirit: Trinity consubstantial and undivided."
+> **Priest:** "The grace of our Lord Jesus Christ, and the love of God the Father, and the communion of the Holy Spirit, be with you all."
+> **Choir:** "And with thy spirit."
+> **Priest:** "Let us lift up our hearts."
+> **Choir:** "We lift them up unto the Lord."
+> **Priest:** "Let us give thanks unto the Lord."
+> **Choir:** "It is meet and right to worship the Father, and the Son, and the Holy Spirit: Trinity consubstantial and undivided."
 
 *The Holy Liturgy*
 
-**Priest:** "[...][^459] Who sittest upon the throne of glory, and beholdest the abysses; unoriginate, invisible, incomprehensible, uncircumscribed, immutable, Father of our Lord Jesus Christ, the great God and Savior of our hope, Who is the image of Thy goodness, the seal equal in form, revealing Thee in Himself; the Father's living Word, true God, eternal Wisdom, Life," *of Saint Basil the Great*
+> **Priest:** "[...][^459] Who sittest upon the throne of glory, and beholdest the abysses; unoriginate, invisible, incomprehensible, uncircumscribed, immutable, Father of our Lord Jesus Christ, the great God and Savior of our hope, Who is the image of Thy goodness, the seal equal in form, revealing Thee in Himself; the Father's living Word, true God, eternal Wisdom, Life," *of Saint Basil the Great*
 
-**Priest:** "Sanctification, Power, true Light, through Whom the Holy Spirit was manifested: the Spirit of truth, the gift of adoption, the earnest of future inheritance, the first-fruits of eternal good things, the life-creating power, the fountain of sanctification, through Whom every creature, both rational and intelligent, being strengthened, ministers unto Thee, and sends up unto Thee unceasing doxology;"[^460]
+> **Priest:** "Sanctification, Power, true Light, through Whom the Holy Spirit was manifested: the Spirit of truth, the gift of adoption, the earnest of future inheritance, the first-fruits of eternal good things, the life-creating power, the fountain of sanctification, through Whom every creature, both rational and intelligent, being strengthened, ministers unto Thee, and sends up unto Thee unceasing doxology;"[^460]
 
 *The Holy Liturgy*
 
-**Priest:** "For all things are Thy servants; for Thee the angels praise, the archangels, thrones, dominions, principalities, authorities, powers, and the many-eyed Cherubim; before Thee stand round about the Seraphim, six-winged: with six wings the one, and with six wings the other; and with two they cover their faces, and with two their feet, and with two they fly, crying one to another with unceasing mouths, in unhushed doxologies:"[^461]
+> **Priest:** "For all things are Thy servants; for Thee the angels praise, the archangels, thrones, dominions, principalities, authorities, powers, and the many-eyed Cherubim; before Thee stand round about the Seraphim, six-winged: with six wings the one, and with six wings the other; and with two they cover their faces, and with two their feet, and with two they fly, crying one to another with unceasing mouths, in unhushed doxologies:"[^461]
 
 *of Saint Basil the Great*
 
 *Exclamation by the priest:*
-**Priest:** "Singing the triumphal hymn, shouting, crying aloud, and saying:"
-**Choir:** "Holy, Holy, Holy, Lord of Sabaoth; heaven and earth are full of Thy glory; Hosanna in the highest; blessed is He that comes in the name of the Lord; Hosanna in the highest."[^462]
+> **Priest:** "Singing the triumphal hymn, shouting, crying aloud, and saying:"
+> **Choir:** "Holy, Holy, Holy, Lord of Sabaoth; heaven and earth are full of Thy glory; Hosanna in the highest; blessed is He that comes in the name of the Lord; Hosanna in the highest."[^462]
 
 *The Holy Liturgy*
 
 *And here the deacon does the same as at the Liturgy of Chrysostom. The priest prays secretly:*
-**Priest:** "With these blessed powers, O Master, Lover of mankind, we sinners also cry aloud and say: Holy art Thou in truth and all-holy, and there is no measure to the magnificence of Thy holiness; and Thou art holy in all Thy works,"[^463] *of Saint Basil the Great*
+> **Priest:** "With these blessed powers, O Master, Lover of mankind, we sinners also cry aloud and say: Holy art Thou in truth and all-holy, and there is no measure to the magnificence of Thy holiness; and Thou art holy in all Thy works,"[^463] *of Saint Basil the Great*
 
-**Priest:** "for in righteousness and true judgment hast Thou brought all things upon us. For having fashioned man, taking dust from the earth, and having honored him with Thine image, O God, Thou didst place him in the paradise of delight, promising him immortality of life and the enjoyment of eternal good things in the observance of Thy commandments. But when man disobeyed Thee, the true God Who had created him,"[^464] *The Holy Liturgy*
+> **Priest:** "for in righteousness and true judgment hast Thou brought all things upon us. For having fashioned man, taking dust from the earth, and having honored him with Thine image, O God, Thou didst place him in the paradise of delight, promising him immortality of life and the enjoyment of eternal good things in the observance of Thy commandments. But when man disobeyed Thee, the true God Who had created him,"[^464] *The Holy Liturgy*
 
-**Priest:** "and was led astray by the deceit of the serpent, and was slain by his own transgressions, Thou didst cast him forth by Thy righteous judgment, O God, from paradise into this world, and didst return him unto the earth from which he was taken, preparing for him the salvation of regeneration, which is in Thy Christ Himself. For Thou didst not turn away forever from Thy creature,"[^465] *of Saint Basil the Great*
+> **Priest:** "and was led astray by the deceit of the serpent, and was slain by his own transgressions, Thou didst cast him forth by Thy righteous judgment, O God, from paradise into this world, and didst return him unto the earth from which he was taken, preparing for him the salvation of regeneration, which is in Thy Christ Himself. For Thou didst not turn away forever from Thy creature,"[^465] *of Saint Basil the Great*
 
-**Priest:** "which Thou hadst made, O Good One, neither didst Thou forget the works of Thy hands; but Thou didst visit him in diverse manners through the tender mercy of Thy compassions; Thou didst send prophets; Thou didst perform mighty works through Thy saints who in every generation were well-pleasing unto Thee; Thou didst speak to us by the mouth of Thy servants the prophets, foretelling unto us the salvation that was to come;"[^466]
+> **Priest:** "which Thou hadst made, O Good One, neither didst Thou forget the works of Thy hands; but Thou didst visit him in diverse manners through the tender mercy of Thy compassions; Thou didst send prophets; Thou didst perform mighty works through Thy saints who in every generation were well-pleasing unto Thee; Thou didst speak to us by the mouth of Thy servants the prophets, foretelling unto us the salvation that was to come;"[^466]
 
 *The Holy Liturgy*
 
-**Priest:** "Thou didst give the Law for help; Thou didst appoint angels as guardians. When the fullness of time was come, Thou didst speak unto us by Thy Son Himself, through Whom also Thou didst make the ages; Who, being the brightness of Thy glory and the express image of Thy person, and upholding all things by the word of His power, thought it not robbery to be equal to Thee, God and Father;"[^467]
+> **Priest:** "Thou didst give the Law for help; Thou didst appoint angels as guardians. When the fullness of time was come, Thou didst speak unto us by Thy Son Himself, through Whom also Thou didst make the ages; Who, being the brightness of Thy glory and the express image of Thy person, and upholding all things by the word of His power, thought it not robbery to be equal to Thee, God and Father;"[^467]
 
 *of Saint Basil the Great*
 
-**Priest:** "but being pre-eternal God, He appeared upon earth and lived among men; and being incarnate of the holy Virgin, He emptied Himself, taking the form of a servant, being made in the likeness of the body of our humility, that He might make us conformed to the image of His glory. For since through man sin entered into the world, and through sin death, Thine Only-begotten Son, Who is in the bosom of Thee, God and Father, was well-pleased"[^468] *The Holy Liturgy*
+> **Priest:** "but being pre-eternal God, He appeared upon earth and lived among men; and being incarnate of the holy Virgin, He emptied Himself, taking the form of a servant, being made in the likeness of the body of our humility, that He might make us conformed to the image of His glory. For since through man sin entered into the world, and through sin death, Thine Only-begotten Son, Who is in the bosom of Thee, God and Father, was well-pleased"[^468] *The Holy Liturgy*
 
-**Priest:** "to be born of a woman, the holy Theotokos and Ever-Virgin Mary; being under the Law, to condemn sin in His flesh, that those who died in Adam might be made alive in Thy Christ Himself. And having lived in this world, having given commandments of salvation, having caused us to turn away from the error of idols, He brought us unto the knowledge of Thee, the true God and Father, and acquired for Himself a chosen people,"[^469] *of Saint Basil the Great*
+> **Priest:** "to be born of a woman, the holy Theotokos and Ever-Virgin Mary; being under the Law, to condemn sin in His flesh, that those who died in Adam might be made alive in Thy Christ Himself. And having lived in this world, having given commandments of salvation, having caused us to turn away from the error of idols, He brought us unto the knowledge of Thee, the true God and Father, and acquired for Himself a chosen people,"[^469] *of Saint Basil the Great*
 
-**Priest:** "a royal priesthood, a holy nation; and having cleansed us with water, and sanctified us with the Holy Spirit, He gave Himself as a ransom unto death, wherein we were held, sold under sin. And descending through the Cross into Hades, that He might fill all things with Himself, He loosed the pangs of death; and having risen on the third day, and made a way for all flesh unto the resurrection from the dead,"[^470] *The Holy Liturgy*
+> **Priest:** "a royal priesthood, a holy nation; and having cleansed us with water, and sanctified us with the Holy Spirit, He gave Himself as a ransom unto death, wherein we were held, sold under sin. And descending through the Cross into Hades, that He might fill all things with Himself, He loosed the pangs of death; and having risen on the third day, and made a way for all flesh unto the resurrection from the dead,"[^470] *The Holy Liturgy*
 
-**Priest:** "for it was not possible that the Author of life should be holden of corruption: He became the firstfruits of them that slept, the firstborn from the dead, that He might be Himself all things, having preeminence in all things. And having ascended into heaven, He sat down at the right hand of Thy majesty on high; Who also shall come to render unto each according to his works. And He left behind for us memorials of His saving Passion,"[^471] *of Saint Basil the Great*
+> **Priest:** "for it was not possible that the Author of life should be holden of corruption: He became the firstfruits of them that slept, the firstborn from the dead, that He might be Himself all things, having preeminence in all things. And having ascended into heaven, He sat down at the right hand of Thy majesty on high; Who also shall come to render unto each according to his works. And He left behind for us memorials of His saving Passion,"[^471] *of Saint Basil the Great*
 
-**Priest:** "these which we have set forth according to His commandments. For when He was about to go forth to His voluntary, and ever-memorable, and life-creating death, on the night in which He gave Himself up for the life of the world, having taken bread into His holy and immaculate hands, and having shown it unto Thee, God and Father, having given thanks, blessed, sanctified, and broken it:"
+> **Priest:** "these which we have set forth according to His commandments. For when He was about to go forth to His voluntary, and ever-memorable, and life-creating death, on the night in which He gave Himself up for the life of the world, having taken bread into His holy and immaculate hands, and having shown it unto Thee, God and Father, having given thanks, blessed, sanctified, and broken it:"
 *The priest bows his head,*[^472] *The Holy Liturgy*
 
 *having lifted up his right hand with fear, blessing the holy bread, exclaims, saying:*
-**Priest:** "He gave it to His holy disciples and apostles, saying: Take, eat, this is My Body, which is broken for you for the remission of sins."
-**Choir:** "Amen."
+> **Priest:** "He gave it to His holy disciples and apostles, saying: Take, eat, this is My Body, which is broken for you for the remission of sins."
+> **Choir:** "Amen."
 *And the priest and the deacon likewise do here as at the Liturgy of Chrysostom; the priest says secretly:*[^473]
 
 *of Saint Basil the Great*
 
-**Priest:** "Likewise also having taken the cup of the fruit of the vine, having mingled it, given thanks, blessed, and sanctified it:"
+> **Priest:** "Likewise also having taken the cup of the fruit of the vine, having mingled it, given thanks, blessed, and sanctified it:"
 *The priest exclaims, holding his hand above with fear, not blessing, says:*
-**Priest:** "He gave it to His holy disciples and apostles, saying: Drink of it, all of you, this is My Blood of the New Testament, which is shed for you and for many, for the remission of sins."[^474]
+> **Priest:** "He gave it to His holy disciples and apostles, saying: Drink of it, all of you, this is My Blood of the New Testament, which is shed for you and for many, for the remission of sins."[^474]
 
 *The Holy Liturgy*
 
-**Choir:** "Amen."
+> **Choir:** "Amen."
 *And the priest, having bowed his head, prays secretly:*
-**Priest:** "Do this in remembrance of Me; for as often as ye eat this bread and drink this cup, ye proclaim My death, ye confess My resurrection. Remembering therefore, O Master, we also His saving passions: the life-creating Cross, the three-day burial,"[^475] *of Saint Basil the Great*
+> **Priest:** "Do this in remembrance of Me; for as often as ye eat this bread and drink this cup, ye proclaim My death, ye confess My resurrection. Remembering therefore, O Master, we also His saving passions: the life-creating Cross, the three-day burial,"[^475] *of Saint Basil the Great*
 
-**Priest:** "the resurrection from the dead, the ascension into heaven, the sitting at the right hand of Thee, God and Father, and His glorious and fearful second coming:"
+> **Priest:** "the resurrection from the dead, the ascension into heaven, the sitting at the right hand of Thee, God and Father, and His glorious and fearful second coming:"
 *The priest exclaims:*
-**Priest:** "Thine own of Thine own we offer unto Thee, in all things and for all things."
+> **Priest:** "Thine own of Thine own we offer unto Thee, in all things and for all things."
 *The choir sings:*
-**Choir:** "We sing unto Thee, we bless Thee, we give thanks unto Thee, O Lord, and we pray unto Thee, O our God."
+> **Choir:** "We sing unto Thee, we bless Thee, we give thanks unto Thee, O Lord, and we pray unto Thee, O our God."
 *The priest, bowing his head, prays secretly:*[^476]
 
 *The Holy Liturgy*
 
-**Priest:** "Therefore, O all-holy Master, we also, sinners and Thine unworthy servants, who have been vouchsafed to minister at Thy holy altar, not for our righteous deeds, for we have done nothing good upon the earth, but for Thy mercy and Thy compassions, which Thou hast richly poured out upon us, approach Thy holy altar;"[^477]
+> **Priest:** "Therefore, O all-holy Master, we also, sinners and Thine unworthy servants, who have been vouchsafed to minister at Thy holy altar, not for our righteous deeds, for we have done nothing good upon the earth, but for Thy mercy and Thy compassions, which Thou hast richly poured out upon us, approach Thy holy altar;"[^477]
 
 *of Saint Basil the Great*
 
-**Priest:** "and offering the antitypes of the holy Body and Blood of Thy Christ, we pray Thee and beseech Thee, O Holy of holies, that by the good pleasure of Thy goodness, Thy Holy Spirit may come upon us, and upon these gifts set forth, and bless them, and sanctify them, and show them:"
+> **Priest:** "and offering the antitypes of the holy Body and Blood of Thy Christ, we pray Thee and beseech Thee, O Holy of holies, that by the good pleasure of Thy goodness, Thy Holy Spirit may come upon us, and upon these gifts set forth, and bless them, and sanctify them, and show them:"
 *The deacon sets down the rhipidion which he was holding, or the veil, and approaches near to the priest, and bowing down*[^478] *The Holy Liturgy*
 
-**Priest:** "[...][^479] the Blood of our Lord and God and Savior Jesus Christ."
-**Deacon:** "Amen."
+> **Priest:** "[...][^479] the Blood of our Lord and God and Savior Jesus Christ."
+> **Deacon:** "Amen."
 *And again the deacon, pointing with his orarion to both the Holy Gifts, says:*
-**Deacon:** "Bless, master, both."
+> **Deacon:** "Bless, master, both."
 *And the priest, blessing both the Holy Gifts with his hand, says:*
-**Priest:** "Shed for the life of the world."
-**Deacon:** "Amen, [amen, amen]." *[Three times]. And the deacon, having bowed his head to the priest, says:*
-**Deacon:** "Remember me, holy master, a sinner."
+> **Priest:** "Shed for the life of the world."
+> **Deacon:** "Amen, [amen, amen]." *[Three times]. And the deacon, having bowed his head to the priest, says:*
+> **Deacon:** "Remember me, holy master, a sinner."
 *And the priest prays secretly:*
 
 *of Saint Basil the Great*
 
-**Priest:** "And us all, who partake of the one Bread and the Cup, unite one with another into the communion of the one Holy Spirit; and cause none of us to partake of the holy Body and Blood of Thy Christ unto judgment or unto condemnation; but that we may find mercy and grace with all the saints who from all eternity have been well-pleasing unto Thee:"[^480]
+> **Priest:** "And us all, who partake of the one Bread and the Cup, unite one with another into the communion of the one Holy Spirit; and cause none of us to partake of the holy Body and Blood of Thy Christ unto judgment or unto condemnation; but that we may find mercy and grace with all the saints who from all eternity have been well-pleasing unto Thee:"[^480]
 
 *The Holy Liturgy*
 
-**Priest:** "[...][^481] forefathers, fathers, patriarchs, prophets, apostles, preachers, evangelists, martyrs, confessors, teachers, and with every righteous spirit made perfect in faith:"
+> **Priest:** "[...][^481] forefathers, fathers, patriarchs, prophets, apostles, preachers, evangelists, martyrs, confessors, teachers, and with every righteous spirit made perfect in faith:"
 *Exclamation:*
-**Priest:** "Especially with our all-holy, immaculate, most blessed, glorious Lady, Theotokos and ever-virgin Mary."
+> **Priest:** "Especially with our all-holy, immaculate, most blessed, glorious Lady, Theotokos and ever-virgin Mary."
 *The choir chants:*
-**Choir:** "All of creation rejoices in thee, O full of grace:
+> **Choir:** "All of creation rejoices in thee, O full of grace:
 
 *of Saint Basil the Great*
 
@@ -513,199 +513,199 @@ the assembly of angels and the race of men, O hallowed temple and rational parad
 *The deacon censes round about the holy The Holy Liturgy*
 
 *table, and the diptychs, that is, the pomiannyk of the living and the reposed, whomsoever he wishes he commemorates. And the priest prays secretly:*[^483]
-**Priest:** "Of the holy prophet, forerunner, and Baptist John; of the holy and all-praised apostles; of saint [Name], whose memory we also celebrate; and of all Thy saints, at whose supplications visit us, O God. And remember *of Saint Basil the Great*
+> **Priest:** "Of the holy prophet, forerunner, and Baptist John; of the holy and all-praised apostles; of saint [Name], whose memory we also celebrate; and of all Thy saints, at whose supplications visit us, O God. And remember *of Saint Basil the Great*
 
 all those who have fallen asleep before in the hope of the resurrection unto eternal life."
 *Here the priest commemorates whomsoever he wishes of the living and the deceased, and says:*
-**Priest:** "For the salvation, visitation, and remission of sins of the servant of God, [Name]."
+> **Priest:** "For the salvation, visitation, and remission of sins of the servant of God, [Name]."
 *And for the deceased he says:*
-**Priest:** "For the repose and remission of the soul of Thy servant, [Name]: in a place of light, whence pain, sorrow, and sighing have fled away, do Thou give rest, O our God:[^484]
+> **Priest:** "For the repose and remission of the soul of Thy servant, [Name]: in a place of light, whence pain, sorrow, and sighing have fled away, do Thou give rest, O our God:[^484]
 
 *The Holy Liturgy*
 
 *the prayer secretly:*
-**Priest:** "and give them rest where the light of Thy countenance watches over them.[^485] Again we pray Thee: remember, O Lord, Thy holy catholic and apostolic Church, which is from end unto the ends of the universe, and give peace unto her, which Thou hast purchased with the precious Blood of Thy Christ; and establish this holy temple unto the end of the age. Remember, O Lord, those who have offered these gifts unto Thee, *of Saint Basil the Great*
+> **Priest:** "and give them rest where the light of Thy countenance watches over them.[^485] Again we pray Thee: remember, O Lord, Thy holy catholic and apostolic Church, which is from end unto the ends of the universe, and give peace unto her, which Thou hast purchased with the precious Blood of Thy Christ; and establish this holy temple unto the end of the age. Remember, O Lord, those who have offered these gifts unto Thee, *of Saint Basil the Great*
 
 and those for whom, and through whom, and on behalf of whom they have offered them. Remember, O Lord, those who bear fruit and do good works in Thy holy churches, and those who remember the poor; reward them with Thy rich heavenly gifts; grant them heavenly things in place of earthly, eternal things in place of temporal, incorruptible things in place of corruptible.[^486] Remember, O Lord, those who are in the deserts, *The Holy Liturgy*
 
-**Priest:** "in mountains, and in dens, and in caves of the earth.[^487] Remember, O Lord, those who live in virginity, and piety, and asceticism, and honorable citizenship. Remember, O Lord, our most pious and faithful kings, whom Thou hast justified to reign upon earth: crown them with the weapon of truth, with the weapon of good will; overshadow their heads *of Saint Basil the Great*
+> **Priest:** "in mountains, and in dens, and in caves of the earth.[^487] Remember, O Lord, those who live in virginity, and piety, and asceticism, and honorable citizenship. Remember, O Lord, our most pious and faithful kings, whom Thou hast justified to reign upon earth: crown them with the weapon of truth, with the weapon of good will; overshadow their heads *of Saint Basil the Great*
 
 in the day of battle; strengthen their arm; exalt their right hand; establish their kingdom with might; subdue under them all barbarian nations that desire wars; grant unto them deep and inviolable peace; speak good things into their heart concerning the Church and concerning all Thy people, that in their tranquility we may lead a quiet and peaceable life in all piety and purity."[^488]
 
 *The Holy Liturgy*
 
-**Priest:** "Remember, O Lord, every principality and authority, and our brethren who are in the palace, and the whole army; preserve the good in goodness, and make the evil good by Thy goodness. Remember, O Lord, the people here present, and those who are absent for reasonable causes, and have mercy on them and on us, according to the multitude of Thy mercy. Fill their storehouses with every good thing;[^489]
+> **Priest:** "Remember, O Lord, every principality and authority, and our brethren who are in the palace, and the whole army; preserve the good in goodness, and make the evil good by Thy goodness. Remember, O Lord, the people here present, and those who are absent for reasonable causes, and have mercy on them and on us, according to the multitude of Thy mercy. Fill their storehouses with every good thing;[^489]
 
 *of Saint Basil the Great*
 
 preserve their marriages in peace and in oneness of mind; nurture the infants, guide the youth, support the aged, comfort the feebleminded, gather the scattered, bring back those who have gone astray, and unite them to Thy holy catholic and apostolic Church; deliver those who are troubled by unclean spirits; sail with the voyagers, with[^490] *The Holy Liturgy*
 
-**Priest:** "travelers travel; be a protector to widows, a defender to orphans; deliver captives; heal the sick; remember, O God, those who are on trial, and in exile, and in every affliction, necessity, and distress; and all of us who pray for Thy great lovingkindness; and those who love us and those who hate us,[^491] *of Saint Basil the Great*
+> **Priest:** "travelers travel; be a protector to widows, a defender to orphans; deliver captives; heal the sick; remember, O God, those who are on trial, and in exile, and in every affliction, necessity, and distress; and all of us who pray for Thy great lovingkindness; and those who love us and those who hate us,[^491] *of Saint Basil the Great*
 
 and those who have commanded us, the unworthy, to pray for them. And remember all Thy people, O Lord our God, and upon all pour out Thy rich mercy, granting unto all their petitions unto salvation. And those whom we have not remembered through ignorance, or forgetfulness, or multitude of names, do Thou Thyself remember, O God, Who knowest the age[^492] *The Holy Liturgy*
 
-**Priest:** "and name of each, Who knowest each one even from his mother's womb. For Thou, O Lord, art the help of the helpless, the hope of the hopeless, the savior of the tempest-tossed, the haven of the voyagers, the physician of the sick. Be Thou Thyself all things unto all men, Who knowest each one and his petition, his house and his need. Deliver, O Lord, this city, and every city and countryside, from famine,[^493] *of Saint Basil the Great*
+> **Priest:** "and name of each, Who knowest each one even from his mother's womb. For Thou, O Lord, art the help of the helpless, the hope of the hopeless, the savior of the tempest-tossed, the haven of the voyagers, the physician of the sick. Be Thou Thyself all things unto all men, Who knowest each one and his petition, his house and his need. Deliver, O Lord, this city, and every city and countryside, from famine,[^493] *of Saint Basil the Great*
 
 pestilence, earthquake, flood, fire, the sword, the invasion of aliens, and civil war."
 *And the deacon turns toward the doors of the holy altar, holding the orarion with the tips of his fingers, and says:*
-**Deacon:** "And each and all."
+> **Deacon:** "And each and all."
 *And the choir chants:*
-**Choir:** "And each and all."
+> **Choir:** "And each and all."
 *And the priest exclaims:*
-**Priest:** "Among the first, remember, O Lord, our Archbishop [Name],"[^494] *The Holy Liturgy*
+> **Priest:** "Among the first, remember, O Lord, our Archbishop [Name],"[^494] *The Holy Liturgy*
 
-**Priest:** "whom do Thou grant unto Thy holy churches in peace, whole, honorable, healthy, long-lived, and rightly dividing the word of Thy truth."
+> **Priest:** "whom do Thou grant unto Thy holy churches in peace, whole, honorable, healthy, long-lived, and rightly dividing the word of Thy truth."
 *And the deacon says: [Name],*
-**Deacon:** "[For our] Most Reverend Bishop [Name], and for the most reverent priests who offer these holy gifts, [Name], and for the salvation of our great king, [Name], and for our pious lords and gentlemen,[^495] *of Saint Basil the Great*
+> **Deacon:** "[For our] Most Reverend Bishop [Name], and for the most reverent priests who offer these holy gifts, [Name], and for the salvation of our great king, [Name], and for our pious lords and gentlemen,[^495] *of Saint Basil the Great*
 
 and for each and all."
 *And the choir chants:*
-**Choir:** "And each and all."
+> **Choir:** "And each and all."
 *And the priest prays secretly:*
-**Priest:** "Remember, O Lord, all the episcopate of the Orthodox, who rightly divide the word of Thy truth. Remember, O Lord, according to the multitude of Thy tender mercies, my unworthiness also; forgive me every transgression, both voluntary and involuntary;[^496]
+> **Priest:** "Remember, O Lord, all the episcopate of the Orthodox, who rightly divide the word of Thy truth. Remember, O Lord, according to the multitude of Thy tender mercies, my unworthiness also; forgive me every transgression, both voluntary and involuntary;[^496]
 
 *The Holy Liturgy*
 
-**Priest:** "and hold not back, for my sins, the grace of Thy Holy Spirit from the gifts set forth. Remember, O Lord, the presbytery, the diaconate in Christ, and all the sacerdotal order; and put none of us to shame who encompass Thy holy altar. Visit us with Thy goodness, O Lord; appear unto us with Thy rich tender mercies; grant us temperate[^497] *of Saint Basil the Great*
+> **Priest:** "and hold not back, for my sins, the grace of Thy Holy Spirit from the gifts set forth. Remember, O Lord, the presbytery, the diaconate in Christ, and all the sacerdotal order; and put none of us to shame who encompass Thy holy altar. Visit us with Thy goodness, O Lord; appear unto us with Thy rich tender mercies; grant us temperate[^497] *of Saint Basil the Great*
 
 and healthful seasons; grant gentle rains upon the earth for fruitfulness; bless the crown of the year of Thy goodness; quell the schisms of the churches; extinguish the ragings of the heathen; quickly dissolve the risings of heresies by the power of Thy Holy Spirit; receive us all into Thy kingdom, having shown us to be sons of light and sons of the day; Thy peace and Thy love[^498] *The Holy Liturgy*
 
-**Priest:** "grant unto us, O Lord our God; for Thou hast given all things unto us."
+> **Priest:** "grant unto us, O Lord our God; for Thou hast given all things unto us."
 *Exclamation by the priest:*
-**Priest:** "And grant unto us that with one mouth and one heart we may glorify and hymn Thine all-honorable and magnificent name: of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages."
-**People:** "Amen."
+> **Priest:** "And grant unto us that with one mouth and one heart we may glorify and hymn Thine all-honorable and magnificent name: of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages."
+> **People:** "Amen."
 *The priest, turning toward the doors, without blessing says aloud:*
-**Priest:** "And may the mercies of our great God and Savior Jesus Christ be[^499] *of Saint Basil the Great*
+> **Priest:** "And may the mercies of our great God and Savior Jesus Christ be[^499] *of Saint Basil the Great*
 
 with us all."
 *And the deacon, having gone out, if there is one; but if not, then the priest, says:*
-**Deacon (or Priest):** "Having commemorated all the saints, again and again in peace let us pray unto the Lord."
-**Choir:** "Lord, have mercy."
+> **Deacon:** "Having commemorated all the saints, again and again in peace let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
 *And the rest as in the Liturgy of Chrysostom:*
-**Deacon (or Priest):** "For the precious gifts offered and sanctified:"
-**Deacon (or Priest):** "That our God, the Lover of mankind:"
-**Deacon (or Priest):** "For our deliverance from all [affliction...]:"
+> **Deacon:** "For the precious gifts offered and sanctified:"
+> **Deacon:** "That our God, the Lover of mankind:"
+> **Deacon:** "For our deliverance from all [affliction...]:"
 *The priest prays secretly:*[^500]
 
 *The Holy Liturgy*
 
-**Priest:** "[...][^501] our God, the God Who saves, do Thou Thyself teach us to give thanks worthily unto Thee for Thy benefits which Thou hast wrought and workest with us. Thou, our God, Who hast received these gifts, cleanse us from every defilement of flesh and spirit, and teach us to accomplish holiness in Thy fear, that in the pure testimony of our conscience, receiving *of Saint Basil the Great*
+> **Priest:** "[...][^501] our God, the God Who saves, do Thou Thyself teach us to give thanks worthily unto Thee for Thy benefits which Thou hast wrought and workest with us. Thou, our God, Who hast received these gifts, cleanse us from every defilement of flesh and spirit, and teach us to accomplish holiness in Thy fear, that in the pure testimony of our conscience, receiving *of Saint Basil the Great*
 
 a portion of Thy holy things, we may be united with the holy Body and Blood of Thy Christ; and receiving them worthily, we may have Christ dwelling in our hearts, and become a temple of Thy Holy Spirit. Yea, O our God, make none of us guilty of these Thy dread and heavenly Mysteries, nor weak in soul and body from partaking of them unworthily;[^502]"
 
 *The Holy Liturgy*
 
-**Priest:** "but grant us even unto our last breath worthily to receive the pledge[^503] of Thy holy things, as provision for the journey unto eternal life, for an acceptable defense before the dread judgment seat of Thy Christ; that we also, with all the saints who have been pleasing unto Thee from the beginning of the world, may become partakers of Thine eternal good things, which Thou hast prepared for them that love Thee, O Lord."
+> **Priest:** "but grant us even unto our last breath worthily to receive the pledge[^503] of Thy holy things, as provision for the journey unto eternal life, for an acceptable defense before the dread judgment seat of Thy Christ; that we also, with all the saints who have been pleasing unto Thee from the beginning of the world, may become partakers of Thine eternal good things, which Thou hast prepared for them that love Thee, O Lord."
 
 *of Saint Basil the Great*
 
 *The deacon proclaims the petitions:*
-**Deacon:** "Help us, save us, have mercy on us, and [keep us, O God, by Thy grace]:"[^504]
-**Deacon:** "That the whole day may be perfect, holy, [peaceful, and sinless, let us ask of the Lord]:"
-**Deacon:** "An angel of peace, a faithful guide, [a guardian of our souls and bodies, let us ask of the Lord]:"
-**Deacon:** "Pardon and remission of our sins [and offenses, let us ask of the Lord]:"
-**Deacon:** "Things good and profitable for our souls, [and peace for the world, let us ask of the Lord]:"
-**Deacon:** "That we may complete the remaining time of our life [in peace and repentance, let us ask of the Lord]:"
-**Deacon:** "A Christian ending to our life, [painless, blameless, peaceful, and a good defense before the dread judgment seat of Christ, let us ask]:"
-**Deacon:** "Having asked for the unity of the faith and the communion of the Holy Spirit, [let us commend ourselves and one another, and our whole life unto Christ our God]."
+> **Deacon:** "Help us, save us, have mercy on us, and [keep us, O God, by Thy grace]:"[^504]
+> **Deacon:** "That the whole day may be perfect, holy, [peaceful, and sinless, let us ask of the Lord]:"
+> **Deacon:** "An angel of peace, a faithful guide, [a guardian of our souls and bodies, let us ask of the Lord]:"
+> **Deacon:** "Pardon and remission of our sins [and offenses, let us ask of the Lord]:"
+> **Deacon:** "Things good and profitable for our souls, [and peace for the world, let us ask of the Lord]:"
+> **Deacon:** "That we may complete the remaining time of our life [in peace and repentance, let us ask of the Lord]:"
+> **Deacon:** "A Christian ending to our life, [painless, blameless, peaceful, and a good defense before the dread judgment seat of Christ, let us ask]:"
+> **Deacon:** "Having asked for the unity of the faith and the communion of the Holy Spirit, [let us commend ourselves and one another, and our whole life unto Christ our God]."
 *Exclamation:*
-**Priest:** "And vouchsafe us, Master, with boldness, without condemnation, to dare to call upon Thee, *The Holy Liturgy*
+> **Priest:** "And vouchsafe us, Master, with boldness, without condemnation, to dare to call upon Thee, *The Holy Liturgy*
 
-**Priest:** "the heavenly God and Father, and to say:"
-**People:** "Our Father..."[^505]
+> **Priest:** "the heavenly God and Father, and to say:"
+> **People:** "Our Father..."[^505]
 *Exclamation:*
-**Priest:** "For Thine is the kingdom, and the power, [and the glory, of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages]."
-**Priest:** "Peace be unto all."
+> **Priest:** "For Thine is the kingdom, and the power, [and the glory, of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages]."
+> **Priest:** "Peace be unto all."
 *Exclamation:*
-**Deacon:** "Bow your heads unto the Lord."
+> **Deacon:** "Bow your heads unto the Lord."
 *The priest, bowing:*
-**Priest:** "Master and Lord, Father of mercies and God of all comfort: those who have bowed their heads unto Thee bless, sanctify, protect, strengthen, and confirm; turn them away from every evil work, *of Saint Basil the Great*
+> **Priest:** "Master and Lord, Father of mercies and God of all comfort: those who have bowed their heads unto Thee bless, sanctify, protect, strengthen, and confirm; turn them away from every evil work, *of Saint Basil the Great*
 
 and unite them unto every good work; and vouchsafe them without condemnation to partake of these Thine immaculate and life-creating Mysteries, unto the remission of sins, unto the communion of the Holy Spirit."[^506]
 *Exclamation:*
-**Priest:** "Through the grace and tender mercies and love toward mankind of Thine Only-begotten Son, with Whom Thou art blessed, together with Thine all-holy, good, and life-creating Spirit, *The Holy Liturgy*
+> **Priest:** "Through the grace and tender mercies and love toward mankind of Thine Only-begotten Son, with Whom Thou art blessed, together with Thine all-holy, good, and life-creating Spirit, *The Holy Liturgy*
 
-**Priest:** "now and ever, and unto ages of ages."
-**Choir:** "Amen."
+> **Priest:** "now and ever, and unto ages of ages."
+> **Choir:** "Amen."
 *The priest prays:*[^507]
-**Priest:** "Give ear, O Lord Jesus Christ our God, from Thy holy dwelling place and from the throne of glory of Thy kingdom, and come to sanctify us, Thou Who sittest on high with the Father and art here invisibly present with us; and vouchsafe by Thy mighty hand to impart unto us Thine immaculate *of Saint Basil the Great*
+> **Priest:** "Give ear, O Lord Jesus Christ our God, from Thy holy dwelling place and from the throne of glory of Thy kingdom, and come to sanctify us, Thou Who sittest on high with the Father and art here invisibly present with us; and vouchsafe by Thy mighty hand to impart unto us Thine immaculate *of Saint Basil the Great*
 
 Body and precious Blood, and through us unto all the people."
 *The deacon exclaims:*
-**Deacon:** "Let us attend!"
+> **Deacon:** "Let us attend!"
 *The priest:*
-**Priest:** "Holy things unto the holy!"
+> **Priest:** "Holy things unto the holy!"
 *The choir:*
-**Choir:** "One is holy, one is Lord, Jesus Christ, to [the glory of God the Father. Amen]."[^508]
+> **Choir:** "One is holy, one is Lord, Jesus Christ, to [the glory of God the Father. Amen]."[^508]
 *And the Communion takes place according to the order, as was indicated above in the Liturgy of Chrysostom. Then, when the Communion has been completed, the priest prays:*
-**Priest:** "We thank Thee, O Lord our God, for the communion *The Holy Liturgy*
+> **Priest:** "We thank Thee, O Lord our God, for the communion *The Holy Liturgy*
 
-**Priest:** "of Thy holy, immaculate, immortal, and heavenly Mysteries, which Thou hast given unto us for the benefit, sanctification, and healing of our souls and bodies. Do Thou Thyself, Master of all, grant that the communion of the holy Body and Blood of Thy Christ may be unto us for faith unashamed, for love unfeigned,[^509] for the fulfillment of wisdom, for the healing of soul and body, *of Saint Basil the Great*
+> **Priest:** "of Thy holy, immaculate, immortal, and heavenly Mysteries, which Thou hast given unto us for the benefit, sanctification, and healing of our souls and bodies. Do Thou Thyself, Master of all, grant that the communion of the holy Body and Blood of Thy Christ may be unto us for faith unashamed, for love unfeigned,[^509] for the fulfillment of wisdom, for the healing of soul and body, *of Saint Basil the Great*
 
 for the driving away of every adversary, for the keeping of Thy commandments, and for an acceptable defense before the dread judgment seat of Christ."
 *The deacon, having gathered the holy things according to the order, and having taken the holy chalice, exclaims:*
-**Deacon:** "With fear of God and with faith approach!"
-**Choir:** "Blessed is He that comes in the name of the Lord; God is the Lord and hath appeared unto us."
+> **Deacon:** "With fear of God and with faith approach!"
+> **Choir:** "Blessed is He that comes in the name of the Lord; God is the Lord and hath appeared unto us."
 *And thus the priest, blessing*[^510] *The Holy Liturgy*
 
 *with his hand crosswise, says:*
-**Priest:** "Save, O God, Thy people, and bless Thine inheritance."
+> **Priest:** "Save, O God, Thy people, and bless Thine inheritance."
 *And the choir:*
-**Choir:** "Eis polla eti, despota!"[^511]
+> **Choir:** "Eis polla eti, despota!"[^511]
 *That is:* "Many years, O Master!"
 *And turning, the deacon places the holy chalice upon the holy table. Then the priest, having taken the censer, censes the holy things, saying quietly:*
-**Priest:** "Be Thou exalted above the heavens, O God, and Thy glory above all the earth."
+> **Priest:** "Be Thou exalted above the heavens, O God, and Thy glory above all the earth."
 
 *of Saint Basil the Great*
 
 *And giving the censer and the holy diskos to the deacon, having said secretly:*
-**Priest:** "Blessed is our God:"
+> **Priest:** "Blessed is our God:"
 *He himself, having taken the holy chalice, exclaims:*
-**Priest:** "Always, now and ever, and unto ages of ages."
+> **Priest:** "Always, now and ever, and unto ages of ages."
 *And thus they transfer the holy gifts to the Proskomide table. And the choir:*
-**Choir:** "Amen. Let our mouths be filled with [Thy praise, O Lord]:"
+> **Choir:** "Amen. Let our mouths be filled with [Thy praise, O Lord]:"
 *Then the deacon, having gone out, says:*
-**Deacon:** "Upright! Having partaken of the divine, holy, immaculate, immortal, [heavenly, and life-creating, dread Mysteries of Christ, let us worthily give thanks unto the Lord]."[^512]
-**Deacon:** "Help us, save us, have mercy on us, and [keep us, O God, by Thy grace]."
+> **Deacon:** "Upright! Having partaken of the divine, holy, immaculate, immortal, [heavenly, and life-creating, dread Mysteries of Christ, let us worthily give thanks unto the Lord]."[^512]
+> **Deacon:** "Help us, save us, have mercy on us, and [keep us, O God, by Thy grace]."
 
 *The Holy Liturgy*
 
-**Deacon:** "Having asked that the whole day may be perfect, holy, peaceful, and sinless, [let us commend ourselves and one another, and our whole life unto Christ our God]."
+> **Deacon:** "Having asked that the whole day may be perfect, holy, peaceful, and sinless, [let us commend ourselves and one another, and our whole life unto Christ our God]."
 *Exclamation:*
-**Priest:** "For Thou art our sanctification, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
-**Choir:** "Amen."
-**Deacon:** "Let us go forth in peace."
-**Choir:** "In the name of the Lord."
-**Deacon:** "Let us pray unto the Lord."
-**Choir:** "Lord, have mercy."
+> **Priest:** "For Thou art our sanctification, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
+> **Deacon:** "Let us go forth in peace."
+> **Choir:** "In the name of the Lord."
+> **Deacon:** "Let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
 *The Prayer behind the Ambo, proclaimed by the priest:*[^513]
 
 *of Saint Basil the Great*
 
-**Priest:** "O Lord, Who blessest them that bless Thee and sanctifiest them that put their trust in Thee: save Thy people and bless Thine inheritance; preserve the fullness of Thy Church; sanctify them that love the beauty of Thy house; do Thou glorify them in return by Thy divine power, and forsake us not that put our hope in Thee. Grant peace to Thy world, to Thy churches,[^514] *The Holy Liturgy*
+> **Priest:** "O Lord, Who blessest them that bless Thee and sanctifiest them that put their trust in Thee: save Thy people and bless Thine inheritance; preserve the fullness of Thy Church; sanctify them that love the beauty of Thy house; do Thou glorify them in return by Thy divine power, and forsake us not that put our hope in Thee. Grant peace to Thy world, to Thy churches,[^514] *The Holy Liturgy*
 
-**Priest:** "to the priests, to our kings, to the armed forces, and to all Thy people. For every good gift and every perfect gift is from above, coming down from Thee, the Father of lights; and unto Thee do we send up glory and thanksgiving: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen."
+> **Priest:** "to the priests, to our kings, to the armed forces, and to all Thy people. For every good gift and every perfect gift is from above, coming down from Thee, the Father of lights; and unto Thee do we send up glory and thanksgiving: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen."
 *The Prayer when consuming the holy things:*[^515]
 
 *The Prayer of Saint Basil the Great:*[^516]
 
-**Priest:** "Fulfilled and accomplished, so far as in our power lies, O Christ our God, is the Mystery of Thy dispensation: for we have the memorial of Thy death; we have seen the figure of Thy resurrection; we have been filled with Thine unending life; we have tasted of Thine inexhaustible nourishment, of which do Thou vouchsafe us all to be partakers in the world to come, through the grace of Thine all-holy Father, *The Holy Liturgy*
+> **Priest:** "Fulfilled and accomplished, so far as in our power lies, O Christ our God, is the Mystery of Thy dispensation: for we have the memorial of Thy death; we have seen the figure of Thy resurrection; we have been filled with Thine unending life; we have tasted of Thine inexhaustible nourishment, of which do Thou vouchsafe us all to be partakers in the world to come, through the grace of Thine all-holy Father, *The Holy Liturgy*
 
-**Priest:** "and of Thy holy, good, and life-creating Spirit, now and ever, and unto ages of ages. Amen."
+> **Priest:** "and of Thy holy, good, and life-creating Spirit, now and ever, and unto ages of ages. Amen."
 *And the deacon, having gone, consumes the holy things according to the custom. And the priest, after the distribution of the antidoron, says:*[^517]
-**Priest:** "The blessing of the Lord be upon you always, now and ever, and unto ages of ages."
-**Choir:** "Glory... Both now... Lord, have mercy. Bless."
+> **Priest:** "The blessing of the Lord be upon you always, now and ever, and unto ages of ages."
+> **Choir:** "Glory... Both now... Lord, have mercy. Bless."
 *The priest gives the dismissal; if it is Sunday:*
-**Priest:** "He Who rose from the dead:"
+> **Priest:** "He Who rose from the dead:"
 *But if not, then:*
 
 *of Saint Basil the Great*
 
-**Priest:** "Christ our true God, at the supplications of His immaculate Mother, by the power of the precious and life-creating Cross, and of our father among the saints, Archbishop of Caesarea in Cappadocia Basil the Great, and of all the saints, will have mercy on us and save us, for He is a good God and the Lover of mankind."
+> **Priest:** "Christ our true God, at the supplications of His immaculate Mother, by the power of the precious and life-creating Cross, and of our father among the saints, Archbishop of Caesarea in Cappadocia Basil the Great, and of all the saints, will have mercy on us and save us, for He is a good God and the Lover of mankind."
 *Then the choirs acclaim many years to the king, and to the hierarch if there is one. And the priest enters into the altar*[^518] *The Holy Liturgy*
 
 *and washes his hands and face, and the edge of his lips, at the customary place; and divests himself of the sacred vestments, saying:*
-**Priest:** "Now lettest Thou Thy servant depart [in peace, according to Thy word...]:"
+> **Priest:** "Now lettest Thou Thy servant depart [in peace, according to Thy word...]:"
 *The Trisagion prayers.*
 *After the "Our Father": Troparion, Tone 4:*
 *Troparion, Tone 4:* "Into all the earth went forth thy proclamation, for it hath received thy word, whereby thou hast taught in manner fitting for God; thou hast made clear the nature of things, and adorned human customs, O royal priesthood,[^519] *of Saint Basil the Great*
@@ -714,9 +714,7 @@ venerable father Basil: entreat Christ God that our souls may be saved."
 *Glory... Kontakion, Tone 4:*
 *Tone 4, Podoben: "Thou hast appeared today" (Ꙗ҆ви́сѧ дне́сь):* "Thou wast revealed as an unshakable foundation of the Church, dispensing unto all men of the earth an inviolable wealth, sealing them with thy teachings, O heavenly-revealed, venerable Basil."
 *Both now... Theotokion:*
-*Theotokion:* "Having received in her womb the Word from the Angel..."[^520]
-
-*The Holy Liturgy*
+*Theotokion:* "Having received in her womb the Word from the Angel"[^520] *The Holy Liturgy*
 
 "...and hast given birth to the incarnate Word, Emmanuel: entreat Him, O Mother, for our souls."[^521]
 *Or if you will, say the Troparion of the day.*
@@ -731,6 +729,7 @@ venerable father Basil: entreat Christ God that our souls may be saved."
 ### Notes
 
 [^393]: Major structural landmark: Part II of the 1604 Liturgikon opens under a floral woodcut headpiece band with the grand title set in ornate red vyaz' (ligature script): "ORDER OF THE DIVINE SERVICE OF OUR HOLY FATHER BASIL THE GREAT, ARCHBISHOP OF CAESAREA IN CAPPADOCIA" (ОУ҆СТА́ВЪ БЖ҃ТВЕННЫꙖ СЛУ́ЖБЫ И҆́же въ ст҃ы́хъ ѻ҆ц҃а на́шего васи́лїа вели́каго а҆рхїепⷵпа кесарі́а каппадокі́йскыѧ).
+[^392]: Physical leaf p119 features a blank verso (fol. 116v / p. 218) showing through from the recto, followed by the decorative title page of Saint Basil's Liturgy on fol. 117r (p. 220, marked `с҃к` / `118`). The printer omitted page numbers 218–219 in the sequence.
 [^394]: Opening general rubric for the Liturgy of St. Basil: the Prothesis is performed completely according to custom, identically with the Liturgy of Saint John Chrysostom, all the way to the dismissal.
 [^395]: Rubric on the annual frequency of the Liturgy of Saint Basil the Great: "The priest ought to know (Behold) that the Divine Liturgy of our holy and great father Basil is sung ten times throughout the year..." (*Podobaet vêdaty iako bozhestvennaia liturhiia... desiatyshchy poietsia chrez hodyshche*).
 [^396]: The ten canonical days for celebrating the Liturgy of Saint Basil the Great: (1–5) the first five Sundays of Great Lent; (6) Holy and Great Thursday; (7) Holy and Great Saturday; (8) the Feast of Saint Basil the Great (January 1); (9) the Eve of the Nativity of Christ (December 24); and (10) the Eve of the Holy Theophany (January 5).
@@ -752,8 +751,8 @@ venerable father Basil: entreat Christ God that our souls may be saved."
 [^412]: Fol. 124r (p. 234). The rubric prescribing that following the Great Entrance, the deacon recites the Evening Litany of Supplication (*Испо́лни вечернѧ̑ѧ моли̑твы на̑ша Го́сподеви* / "Let us complete our evening prayer unto the Lord"), corresponding to the vesperal framework of the combined service.
 [^413]: Fol. 124r (p. 234). Rubric for the Feast of the Meeting of the Lord (Candlemas, February 2): if the feast occurs on a weekday of the Great Fast (Lent), the Divine Liturgy of St. John Chrysostom is celebrated according to this identical vesperal order.
 [^414]: Fol. 124v (p. 235). Rubric for the Feast of the Annunciation of the Most Holy Theotokos (*Бл҃говѣ́щенїе*, also designated *Зача́тїе Гн҃е*, the Conception of the Lord, March 25): if it falls during the Great Fast, the Liturgy is likewise celebrated according to this exact vesperal order without variation.
-[^415]: Fol. 125r (p. 236). Recto of folio 125 is blank, preserving the paper integrity before the full-page woodcut engraving of St. Basil the Great on the verso (fol. 125v).
 [^416]: Fol. 125v (p. 236v / facing p. 237). Full-page woodcut icon of Saint Basil the Great, Archbishop of Caesarea in Cappadocia (*СТ҃ЫИ ВАСІ́ЛЇЕ ВЕЛИ́КЫ[И]*). The bishop is depicted full-length in pontifical vestments with polystavrion phelonion, great omophorion, and epigonation, holding the Gospel book in his left hand and blessing with his right hand, surrounded by an elaborate Renaissance strapwork and foliate border. The numeral *л҃ѕ* (36) in the upper-left margin designates the printer's woodblock sheet registry.
+[^415]: Fol. 125r (p. 236). Recto of folio 125 is blank, preserving the paper integrity before the full-page woodcut engraving of St. Basil the Great on the verso (fol. 125v).
 [^417]: Fol. 126r (p. 237). Opening page of the Divine Liturgy of Saint Basil the Great, featuring an ornate woodcut headpiece of the Crucifixion with the title *· І · Н · Ц · І ·* (*I.N.Ts.I.* = *I.N.R.I.*, *Jesus of Nazareth, King of the Jews*), followed by the grand monumental red cinnabar *viaz'* title (*БЖ҃Е́СТВЕННАꙖ СЛꙋ́ЖБА И҆́ЖЕ ВЪ...*).
 [^418]: Fol. 126r (p. 237). Rubric directing the celebrant to the Liturgy of St. John Chrysostom for the complete text and ritual of the Prothesis (*проскомиді́а*).
 [^419]: Fol. 126v–127r (pp. 238–239). The introductory rubric notes that the ministerial order for priest, deacon, and choir responses throughout the opening portion of the Liturgy of St. Basil the Great is completely identical to that of St. John Chrysostom.

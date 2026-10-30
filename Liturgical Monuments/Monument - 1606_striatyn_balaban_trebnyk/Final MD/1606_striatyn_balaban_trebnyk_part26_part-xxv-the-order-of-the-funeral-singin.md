@@ -2,11 +2,11 @@
 
 *The ranking priest, or the hegumen himself, with all the priests who are found there, go into the altar; and all the priests vest themselves in phelonia, and the deacons in sticharia. And having taken the censer with incense, the hegumen himself begins:*[^1620]
 
-**Priest:** **Blessed is our God.**[^1621]
+> **Priest:** **Blessed is our God.**[^1621]
 
 *And we say the Trisagion. All-Holy Trinity. "Our Father...":*
 
-**Priest:** **For Thine is the Kingdom...**
+> **Priest:** **For Thine is the Kingdom...**
 
 *Lord, have mercy (12 times). "Come, let us worship..." (thrice). Then Psalm 90: "He that dwells in the help of the Highest..." (see fol. 231).*[^1622]
 
@@ -264,33 +264,33 @@ O only pure and spotless Virgin, who didst bear God without seed: entreat Him th
 
 *Then the diaconal petitions:*[^1670]
 
-**Deacon:** Have mercy on us, O God, according to Thy great mercy, we pray Thee: give ear and have mercy.
+> **Deacon:** "Have mercy on us, O God, according to Thy great mercy, we pray Thee: give ear and have mercy."
 
-**Deacon:** Again we pray for the repose and blessed memory and the remission of sins of the departed servant of God, [Name]...
+> **Deacon:** "Again we pray for the repose and blessed memory and the remission of sins of the departed servant of God, [Name]..."
 
-**Deacon:** ...that every transgression, voluntary and involuntary, may be pardoned him;[^1671]
+> **Deacon:** "...that every transgression, voluntary and involuntary, may be pardoned him;"[^1671]
 
-**Deacon:** That the Lord God may establish his spirit where all the righteous repose;
+> **Deacon:** "That the Lord God may establish his spirit where all the righteous repose;"
 
-**Deacon:** The mercy of God, and the Kingdom of heaven, and the remission of his sins having asked for him, let us commend ourselves and one another, and all our life unto Christ God.
+> **Deacon:** "The mercy of God, and the Kingdom of heaven, and the remission of his sins having asked for him, let us commend ourselves and one another, and all our life unto Christ God."
 
-**Choir:** Unto Thee, O Lord.
+> **Choir:** "Unto Thee, O Lord."
 
-**Deacon:** Let us pray to the Lord.
+> **Deacon:** "Let us pray to the Lord."
 
 *Then the priest says the prayer secretly:*[^1672]
 
-**Priest:** **[O God] of spirits and of all flesh, Who hast trampled down death, and abolished the devil, and given life unto Thy world: do Thou Thyself, O Lord, give rest to the soul of Thy departed servant, [Name], in a place of light...**[^1673]
+> **Priest:** **[O God] of spirits and of all flesh, Who hast trampled down death, and abolished the devil, and given life unto Thy world: do Thou Thyself, O Lord, give rest to the soul of Thy departed servant, [Name], in a place of light...**[^1673]
 
-**Priest:** **...in a place of verdure, in a place of repose, whence sickness, sorrow, and sighing have fled away; and every transgression committed by him, in word, or deed, or thought, do Thou, as the good God and Lover of mankind, forgive. For there is no man that shall live and not sin against Thee; for Thou alone art without any sin, Thy righteousness is righteousness forever, and Thy word is truth.**[^1674]
+> **Priest:** **...in a place of verdure, in a place of repose, whence sickness, sorrow, and sighing have fled away; and every transgression committed by him, in word, or deed, or thought, do Thou, as the good God and Lover of mankind, forgive. For there is no man that shall live and not sin against Thee; for Thou alone art without any sin, Thy righteousness is righteousness forever, and Thy word is truth.**[^1674]
 
 *Exclamation:*[^1675]
 
-**Priest:** **For Thou art the resurrection, and the life, and the repose of Thy departed servant ever to be remembered, [Name], O Christ our God; and unto Thee we send up glory, with Thine unoriginate Father**[^1676] and Thine all-holy and good and life-creating Spirit, now and ever, and unto ages of ages. Amen.
+> **Priest:** **For Thou art the resurrection, and the life, and the repose of Thy departed servant ever to be remembered, [Name], O Christ our God; and unto Thee we send up glory, with Thine unoriginate Father**[^1676] and Thine all-holy and good and life-creating Spirit, now and ever, and unto ages of ages. Amen.
 
 *Then also the Dismissal:*[^1677]
 
-**Priest:** **May Christ our true God, Who rose from the dead, through the prayers of His all-pure Mother, by the power of the precious and life-creating Cross, and of all the saints: give rest to the soul of His servant who has been translated from us, [Name], in the abodes of the righteous where the righteous repose; and number him in the bosom of Abraham, Isaac, and Jacob; and have mercy on us and save us, for He is good and loves mankind.**[^1678]
+> **Priest:** **May Christ our true God, Who rose from the dead, through the prayers of His all-pure Mother, by the power of the precious and life-creating Cross, and of all the saints: give rest to the soul of His servant who has been translated from us, [Name], in the abodes of the righteous where the righteous repose; and number him in the bosom of Abraham, Isaac, and Jacob; and have mercy on us and save us, for He is good and loves mankind.**[^1678]
 
 *Then all say:*
 

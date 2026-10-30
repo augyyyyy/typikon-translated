@@ -115,7 +115,7 @@ In the house of David there is great fear; for thrones being set there, all the 
 To the Holy Spirit belong honor and worship, glory and dominion, even as it is worthy of the Father, and fitting to be offered unto the Son; for the Trinity is a Unity in essence, but not in persons.
 
 *Prokeimenon (fol. 10), Tone 1:*[^21]
-Now will I arise, saith the Lord; I will set Myself in salvation, I will deal openly therein.
+Now will I arise, says the Lord; I will set Myself in salvation, I will deal openly therein.
 
 *Verse:* The words of the Lord are pure words.
 

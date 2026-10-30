@@ -18,7 +18,7 @@ According to the ancient custom of that place, the remains of Orthodox [Christia
 There is a great difference between churches: those that are consecrated, receiving dedication and the erection of an altar table, by anointing with holy chrism and the deposition of holy relics of martyrs; and those that are not thus consecrated, but hold the rank of a house of prayer.[^1407] Therefore in the former...
 
 === LEAF p474 ===
-...in which the holy relics of martyrs are visibly treasured up, and which have received in their midst anointing with holy chrism: let human remains of whatever kind by no means be buried, according to the second chapter of the first title of the fifth book of ecclesiastical [laws], which saith: "Let no one bury a dead body in church." And according to the civil ancient law, which saith: "It is unlawful to bury anyone in church, unless visibly a martyr's body is to lie there." But in those that are not so consecrated, being designated holy houses of prayer, remains may be buried without harm.[^1408]
+...in which the holy relics of martyrs are visibly treasured up, and which have received in their midst anointing with holy chrism: let human remains of whatever kind by no means be buried, according to the second chapter of the first title of the fifth book of ecclesiastical [laws], which says: "Let no one bury a dead body in church." And according to the civil ancient law, which says: "It is unlawful to bury anyone in church, unless visibly a martyr's body is to lie there." But in those that are not so consecrated, being designated holy houses of prayer, remains may be buried without harm.[^1408]
 
 === LEAF p475 ===
 # PART XXI: THE ORDER OF BURIAL[^1409]
@@ -52,7 +52,7 @@ Thou art the God Who descended into hades and loosed the bonds of the bound: do 
 *Theotokion:*
 O only pure and spotless Virgin, who without seed didst bear God: intercede that our souls may be saved.
 
-*The priest [saith] the litany:*
+*The priest [says] the litany:*
 
 === LEAF p477 ===
 **Priest:**

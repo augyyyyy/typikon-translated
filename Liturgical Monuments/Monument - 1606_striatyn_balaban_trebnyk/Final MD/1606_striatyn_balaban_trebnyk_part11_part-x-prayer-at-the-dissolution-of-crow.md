@@ -1,14 +1,14 @@
 # PART X: PRAYER AT THE DISSOLUTION OF CROWNS ON THE EIGHTH DAY [^243]
 
 [Fol. 71v. Initial G.]
-**Priest:**
+> **Priest:** ""
 O Lord our God, Who hast blessed the crown of the year, and didst deliver these crowns to be set upon those who by the law of marriage are joined one to another, as it were giving unto them the reward of chastity because they were joined in pureness unto the marriage ordained by Thee: Do Thou Thyself, in the dissolution also of these crowns, bless those who have been joined one to another; and preserve their union unsevered, that they may ever give thanks unto Thine all-holy name, of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages. Amen.[^244]
 
-**Deacon:**
+> **Deacon:** ""
 *Bow your heads unto the Lord.*
 
 [Fol. 72r. Initial S.]
-**Priest:**
+> **Priest:** ""
 *Prayer of Head-Bowing:*
 Having come together in concord, Thy servants, O Lord, and having completed the rite of the marriage that was in Cana of Galilee, and having folded away the tokens that were therein, send up glory unto Thee, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen.
 

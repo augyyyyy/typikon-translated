@@ -1,4 +1,4 @@
-# TONE 3 (fol. 37)[^55]
+# TONE 3 (fol. 37) [^55]
 
 ## SATURDAY EVENING: VESPERS (TONE 3)
 
@@ -18,9 +18,7 @@ I glorify the power of the Father and of the Son, and I hymn the sovereignty of 
 
 We worship Thy precious Cross, O Christ, and we hymn and glorify Thy Resurrection; for by Thy wound we all were healed.
 
-[Saturday.]
-
-*Sticheron:*
+[p42LA] *Sticheron:*
 
 We hymn the Savior Who was incarnate of the Virgin; for our sake He was crucified, and on the third day He arose, granting us great mercy.
 
@@ -52,9 +50,7 @@ Being God unchangeable, suffering in the flesh Thou wast changed; Whom creation,
 
 That Thou mightest deliver our race from death, O Christ, Thou didst endure death; and having arisen on the third day from the dead, Thou didst raise up with Thyself those who acknowledge Thee as God; and Thou didst enlighten the world: Lord, glory to Thee!
 
-[Saturday, Tone 3.]
-
-*Glory, both now. Theotokion:*
+[p43LA] *Glory, both now. Theotokion:*
 
 Without seed from the Divine Spirit, and by the Father's good pleasure, thou didst conceive the Son of God, Who was of the Father without a mother before the ages; for our sake and of thee, having come to be without a father, thou didst bear Him in the flesh, and thou didst nourish the Infant with milk. Therefore cease not to pray that our souls may be delivered from tribulations.
 
@@ -86,11 +82,7 @@ The theologians fittingly and compositely call Thee Father, and Word, and Spirit
 
 *Both now. Theotokion:*
 
-As Lover of mankind by nature, taking human substance...
-
-[Sunday.]
-
-...having assumed human nature, O Divine Word, Thou didst shine forth as the Tri-hypostatic, Supreme-Sovereign Light, having shown forth the undivided Godhead, exceedingly glorified unto all, through the Pure Virgin who bore Thee.
+As Lover of mankind by nature, taking human substance [p44LA] having assumed human nature, O Divine Word, Thou didst shine forth as the Tri-hypostatic, Supreme-Sovereign Light, having shown forth the undivided Godhead, exceedingly glorified unto all, through the Pure Virgin who bore Thee.
 
 *Ode 3. Heirmos: He Who brought all things out of nothing...*
 
@@ -124,11 +116,7 @@ A two-fold branch sprang forth from the Father as from a root: the upright Son a
 
 *Troparion:*
 
-The assemblies of the noetic beings unceasingly hymn Thee, the Inscrutable God; with whom we also glorify Thee, saying: O Supremely Essential Trinity, save...
-
-[Sunday.]
-
-...save Thy servants, as Lover of mankind!
+The assemblies of the noetic beings unceasingly hymn Thee, the Inscrutable God; with whom we also glorify Thee, saying: O Supremely Essential Trinity, save [p45LA] Thy servants, as Lover of mankind!
 
 *Both now. Theotokion:*
 
@@ -168,11 +156,7 @@ When Thou comest, O Master, upon the earth to judge all whom Thou didst fashion 
 
 *Ikos:*
 
-Groaning...
-
-[Sunday.]
-
-...Grant me groaning, O Virgin, even as unto the Publican, and tears like the harlot, that offering these unto thee I may cry aloud: Have mercy on me, O All-Merciful Lady, and destroy my perplexity by thy grace, pouring down upon me a rain of compunction; for unto thee have I fled, O Most Pure Lady!
+Groaning [p46LA] Grant me groaning, O Virgin, even as unto the Publican, and tears like the harlot, that offering these unto thee I may cry aloud: Have mercy on me, O All-Merciful Lady, and destroy my perplexity by thy grace, pouring down upon me a rain of compunction; for unto thee have I fled, O Most Pure Lady!
 
 *Ode 7. Heirmos: As of old Thou didst bedew the three...*
 
@@ -210,11 +194,7 @@ Beholding thy childbearing from afar, the prophetic utterances praised it, O Mot
 
 *Troparion:*
 
-Manifestly desiring to behold the Tri-radiant glory, the God-beholding ranks of the bodiless hosts with immaterial wings...
-
-[Sunday.]
-
-...desire to ascend on high; but they veil themselves exceedingly with the unapproachable Light, and unceasingly cry out a hymn; with them harmoniously, O Sole Trinity, we glorify Thee!
+Manifestly desiring to behold the Tri-radiant glory, the God-beholding ranks of the bodiless hosts with immaterial wings [p47LA] desire to ascend on high; but they veil themselves exceedingly with the unapproachable Light, and unceasingly cry out a hymn; with them harmoniously, O Sole Trinity, we glorify Thee!
 
 *Troparion:*
 
@@ -244,11 +224,7 @@ The heavenly beings rejoiced with love, and the earthly were terrified with trem
 
 *After the Second Kathisma, Sessional Hymn, Tone 3:*
 
-Having tasted death in the flesh, O Lord, by His arising He cut short the bitterness of death, and strengthened man again, recalling the overcoming of the first curse...
-
-[Sunday.]
-
-...O Defender of our life, Christ God, glory to Thee!
+Having tasted death in the flesh, O Lord, by His arising He cut short the bitterness of death, and strengthened man again, recalling the overcoming of the first curse [p48LA] O Defender of our life, Christ God, glory to Thee!
 
 *Glory:*
 
@@ -290,9 +266,7 @@ Through the Holy Spirit all holiness and wisdom are foreseen; for He gives essen
 
 Blessed are they that fear the Lord, walking in the way of the commandments; for they shall eat of all the fruit that gives life.
 
-[Sunday.]
-
-*Verse:*
+[p49LA] *Verse:*
 
 Be glad around thy table, beholding thy offspring bearing branches of good deeds unto the Chief Shepherd!
 
@@ -336,9 +310,7 @@ Even as mortal, Christ willed to taste of death, He Who is the Treasury of life;
 
 *Another Canon, to the Most Holy Theotokos. Heirmos: [The same]*
 
-[Sunday.]
-
-*Theotokion:*
+[p50LA] *Theotokion:*
 
 Every nature of heavenly beings bends the knee unto Him Who was incarnate of thee, O Virgin, and together with earthly beings, fittingly those under the earth, for He hath been glorified!
 
@@ -388,11 +360,7 @@ Thou hast placed steadfast love toward us, O Lord; for for our sake Thou didst g
 
 *Troparion:*
 
-Thou didst mercifully accept wounds and stripes, O Christ, enduring the outrage of being struck on the cheeks, and patiently bearing spitting, through which...
-
-[Sunday.]
-
-...whereby Thou didst effect salvation for me: Glory to Thy power, O Lord!
+Thou didst mercifully accept wounds and stripes, O Christ, enduring the outrage of being struck on the cheeks, and patiently bearing spitting, through which [p51LA] whereby Thou didst effect salvation for me: Glory to Thy power, O Lord!
 
 *Troparion:*
 
@@ -448,11 +416,7 @@ O Holy Tabernacle and more spacious than the heavens, as having received the eve
 
 *Troparion:*
 
-Pierced in Thy side by a spear, O my Christ...
-
-[Sunday.]
-
-...having been pierced, Thou didst deliver from the curse her that was created from man's rib, who had become the mediatress of destruction unto all men.
+Pierced in Thy side by a spear, O my Christ [p52LA] having been pierced, Thou didst deliver from the curse her that was created from man's rib, who had become the mediatress of destruction unto all men.
 
 *Troparion:*
 
@@ -508,9 +472,7 @@ From the abysses of sins and the tempest of passions, O Most Pure Lady, deliver 
 
 *Kontakion, Tone 3:*
 
-[Sunday.]
-
-*Kontakion, Tone 3:*
+[p53LA] *Kontakion, Tone 3:*
 
 Thou didst arise today from the tomb, O Merciful One, and didst lead us forth from the gates of death; today Adam dances and Eve rejoices, and together the Prophets with the Patriarchs unceasingly hymn the divine dominion of Thy might.
 
@@ -556,9 +518,7 @@ Thou wast shown forth as a priceless treasure of blessing, O Most Pure Lady, unt
 
 *Another Heirmos [to the Most Holy Theotokos]:*
 
-[Sunday.]
-
-...The Lord of glory, Who holds dominion over the heavenly hosts, Who sits with the Father, is carried by virginal hands: Blessed art Thou, O Lord, God of our fathers!
+[p54LA] ...The Lord of glory, Who holds dominion over the heavenly hosts, Who sits with the Father, is carried by virginal hands: Blessed art Thou, O Lord, God of our fathers!
 
 *Troparion:*
 
@@ -602,11 +562,7 @@ Let us piously serve the Tri-hypostatic Godhead, united ineffably, and let us si
 
 *Another Heirmos [to the Most Holy Theotokos]:*
 
-As Mother, thou didst surpass the noetic ranks...
-
-[Sunday.]
-
-...and having come near unto God: We bless thy childbearing, O Blessed Virgin, and exalt [thee] supremely unto all ages!
+As Mother, thou didst surpass the noetic ranks [p55LA] and having come near unto God: We bless thy childbearing, O Blessed Virgin, and exalt [thee] supremely unto all ages!
 
 *Troparion:*
 
@@ -644,9 +600,7 @@ Thou didst save me, having arisen from the tomb, O Christ, and from torment, and
 
 Full satiation of thy praises, O Virgin, can never be for the pious faithful; for receiving desire upon desire, ever divine and spiritual, as Mother of God we magnify thee.
 
-[Sunday.]
-
-*Troparion:*
+[p56LA] *Troparion:*
 
 Thou hast given us an unashamed intercessor, her who bore Thee, O Christ; by her entreaties, being merciful, Thou dost give us the Spirit, the Giver of grace, proceeding from the Father through Thee.
 
@@ -682,11 +636,7 @@ An Angel shining upon Thy life-giving tomb said unto the Myrrh-bearing women: Th
 
 *Sticheron:*
 
-Coming unto the tomb to seek Thee on the first day of the week, Mary Magdalene, not having found [Thee]...
-
-[Sunday.]
-
-...grieving with weeping, cried aloud: Woe is me, O my Savior! He has been stolen away, O King of all! And a pair of life-bearing Angels within the tomb cried aloud: Why weepest thou, O woman? I weep, she said, because they have taken away my Lord from the tomb, and I know not where they have laid Him. And turning back, when she beheld Thee, she immediately cried out: My Lord and my God, glory to Thee!
+Coming unto the tomb to seek Thee on the first day of the week, Mary Magdalene, not having found [Thee] [p57LA] grieving with weeping, cried aloud: Woe is me, O my Savior! He has been stolen away, O King of all! And a pair of life-bearing Angels within the tomb cried aloud: Why weepest thou, O woman? I weep, she said, because they have taken away my Lord from the tomb, and I know not where they have laid Him. And turning back, when she beheld Thee, she immediately cried out: My Lord and my God, glory to Thee!
 
 *Verse: I will give thanks unto Thee, O Lord, with my whole heart; I will speak of all Thy marvelous works.*
 
@@ -724,11 +674,7 @@ Unto the Myrrh-bearing women Thou didst first appear, having arisen from the dea
 
 *Troparion:*
 
-On the mountain Moses, having stretched out his hands, prefigured the Cross, overcoming Amalek; [do Thou, O Christ Savior, raise us up who have been cast down by his snares, as]...
-
-[Sunday.]
-
-...we faithfully cry: Remember us also in Thy Kingdom!
+On the mountain Moses, having stretched out his hands, prefigured the Cross, overcoming Amalek; [do Thou, O Christ Savior, raise us up who have been cast down by his snares, as] [p58LA] we faithfully cry: Remember us also in Thy Kingdom!
 
 *Glory. Troas [Trinity Hymn]:*
 

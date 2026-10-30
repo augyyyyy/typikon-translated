@@ -35,6 +35,7 @@ import re
 import json
 import shutil
 import argparse
+import time
 from pathlib import Path
 from datetime import datetime, timezone
 from typing import Dict, List, Set, Tuple, Optional, Any
@@ -52,18 +53,23 @@ sys.path.insert(0, str(PROJECT_ROOT))
 from scripts.assemble_and_sync_hub import verify_closed_leaf_conservation, extract_accounted_leaves, get_hub_inbox
 
 def slugify(heading_text: str) -> str:
-    """Computes standard GitHub Flavored Markdown heading slug."""
-    cleaned = re.sub(r'\[\^?\d+\]', '', heading_text)
+    """Computes ASCII-safe GitHub Flavored Markdown heading slug (stripping parenthetical Cyrillic)."""
+    cleaned = re.sub(r'<[^>]+>', '', heading_text)
+    cleaned = re.sub(r'\[\^?\d+\]', '', cleaned)
     cleaned = re.sub(r'\[([^\]]+)\]\([^\)]+\)', r'\1', cleaned)
+    cleaned = re.sub(r'\([^\)]*[\u0400-\u04FF\uA640-\uA69F][^\)]*\)', '', cleaned)
     cleaned = re.sub(r'[*_`~]', '', cleaned)
     cleaned = cleaned.lower()
-    cleaned = re.sub(r'[^\w\s-]', '', cleaned, flags=re.UNICODE)
+    cleaned = re.sub(r'[^a-z0-9\s-]', '', cleaned)
     cleaned = re.sub(r'[\s_]+', '-', cleaned)
     cleaned = re.sub(r'-+', '-', cleaned)
     return cleaned.strip('-')
 
 def is_explicit_leaf_marker(s: str) -> bool:
     """Detects any explicit academic leaf tag, facsimile page reference, or running header."""
+    if not s:
+        return False
+    s = re.sub(r"(?:\s*\[\^\d+\])+$", "", s.strip()).strip()
     if not s:
         return False
     # HTML comment: <!-- LEAF ... -->
@@ -85,8 +91,12 @@ def is_explicit_leaf_marker(s: str) -> bool:
         return True
     if re.fullmatch(r"\*?\((?:Physical\s+Page|Physical\s+pp\.|Physical\s+Leaf|Book\s+Page|Printed\s+Page|Leaf\s+p?|Blank)[^)]*\)\*?", s, re.IGNORECASE):
         return True
-    # Running book headers / pagination folios: Month — 180 — March, — 190 —, 180 — March
+    # Running book headers / pagination folios: Month — 180 — March, — 190 —, 180 — March, [Fol. 12r. Running header: ...]
     if re.fullmatch(r"(?:Month\s+—\s*\d+\s*—\s*[A-Za-z]+|—\s*\d+\s*—|\d+\s+—\s+[A-Za-z]+)", s, re.IGNORECASE):
+        return True
+    if re.fullmatch(r"\[Fol\.\s*\d+[rv]?\.\s*Running\s+header:[^\]]+\]", s, re.IGNORECASE):
+        return True
+    if re.fullmatch(r"\*(?:Ode\s+\d+|Troparion|Theotokion|Sticheron|Kontakion)\s*\(continued\)[\.:]\*", s, re.IGNORECASE):
         return True
     return False
 
@@ -95,6 +105,8 @@ def stitch_leaf_stream(input_text: str) -> Tuple[str, List[Tuple[str, str, str]]
     Parses document line-by-line, stripping leaf markers, banners, and running headers.
     When a leaf boundary cuts off a sentence mid-phrase, it stitches the lines into
     a single seamless paragraph, deduplicating catchwords and merging styling boundaries.
+    Any footnote markers [^N] attached to stripped milestones/headers are rescued onto
+    the first surviving content line immediately following the stripped marker.
     """
     lines = input_text.splitlines()
     stitched_log: List[Tuple[str, str, str]] = []
@@ -110,6 +122,7 @@ def stitch_leaf_stream(input_text: str) -> Tuple[str, List[Tuple[str, str, str]]
         if not s or is_explicit_leaf_marker(s) or s == "---":
             has_leaf_marker = False
             has_hr = False
+            rescued_footnotes: List[str] = []
 
             while i < n:
                 curr_s = lines[i].strip()
@@ -117,12 +130,25 @@ def stitch_leaf_stream(input_text: str) -> Tuple[str, List[Tuple[str, str, str]]
                     i += 1
                 elif is_explicit_leaf_marker(curr_s):
                     has_leaf_marker = True
+                    for fn_tag in re.findall(r"\[\^\d+\]", curr_s):
+                        if fn_tag not in rescued_footnotes:
+                            rescued_footnotes.append(fn_tag)
                     i += 1
                 elif curr_s == "---":
                     has_hr = True
                     i += 1
                 else:
                     break
+
+            if rescued_footnotes:
+                if i < n:
+                    for fn_tag in rescued_footnotes:
+                        if fn_tag not in lines[i]:
+                            lines[i] = lines[i].rstrip() + f" {fn_tag}"
+                elif output_segments:
+                    for fn_tag in rescued_footnotes:
+                        if fn_tag not in output_segments[-1]:
+                            output_segments[-1] = output_segments[-1].rstrip() + f" {fn_tag}"
 
             if not output_segments:
                 continue
@@ -135,16 +161,28 @@ def stitch_leaf_stream(input_text: str) -> Tuple[str, List[Tuple[str, str, str]]
             if has_leaf_marker:
                 # Strip footnotes, brackets, closing punctuation, formatting from end of prev_line
                 core_prev = re.sub(r'(?:\[\^\d+\]|[\]\)\*_`"\'\”\’]|\s)+$', '', prev_line)
-                ends_punct = bool(core_prev and core_prev[-1] in ('.', '!', '?', ':', ';'))
+                ends_ellipsis = core_prev.endswith("...") or core_prev.endswith("…")
+                ends_punct = bool(core_prev and core_prev[-1] in ('.', '!', '?', ':', ';')) and not ends_ellipsis
 
                 next_s = next_line.strip()
+                m_cont_role = re.match(
+                    r'^(?:\*\*[A-Za-z\s/]+\(continued\):\*\*|\*[A-Za-z0-9\s\[\]]+\(continued\)\]?[\.:]\*)\s*(.*)$',
+                    next_s,
+                    re.IGNORECASE,
+                )
+                if m_cont_role and m_cont_role.group(1).strip():
+                    next_s = m_cont_role.group(1).strip()
+                    has_cont_role = True
+                else:
+                    has_cont_role = False
+
                 starts_heading = next_s.startswith('#') or next_s.startswith('===')
                 starts_bullet = bool(re.match(r'^(?:[-*+]\s+|\d+[\.)]\s+|☞|☩)', next_s))
                 starts_dialogue = bool(re.match(r'^(?:>\s*)?(?:\*\*)?(?:The\s+)?(?:Priest|Deacon|Second Deacon|First Deacon|Choir|Reader|Bishop|Hierarch|People|Chanter):', next_s, re.IGNORECASE))
                 starts_table = next_s.startswith('|')
                 starts_quote = next_s.startswith('>') and not prev_line.strip().startswith('>')
 
-                is_cut = (
+                is_cut = has_cont_role or (
                     not ends_punct
                     and not starts_heading
                     and not starts_bullet
@@ -158,8 +196,18 @@ def stitch_leaf_stream(input_text: str) -> Tuple[str, List[Tuple[str, str, str]]
                 if is_cut:
                     stitched_log.append((prev_line[-40:], "LEAF_BREAK", next_s[:40]))
 
+                    # Clean synthetic mid-sentence ellipsis/bold/quote wrappers across the break while preserving footnotes
+                    prev_r = re.sub(r'(?:\.\.\.|…)(["\”\*]*?)(\s*(?:\[\^\d+\]\s*)*)$', r'\1\2', prev_line.rstrip())
+                    next_s = re.sub(r'^(\*{0,2}["\“]?)(?:\.\.\.|…)\s*', r'\1', next_s)
+                    if re.search(r'"\*\*(\s*\[\^\d+\])*$', prev_r) and next_s.startswith('**"'):
+                        prev_r = re.sub(r'"\*\*((\s*\[\^\d+\])*)$', r'\1', prev_r)
+                        next_s = next_s[3:].lstrip()
+                    elif re.search(r'\*\*(\s*\[\^\d+\])*$', prev_r) and next_s.startswith('**') and not next_s.startswith('***'):
+                        prev_r = re.sub(r'\*\*((\s*\[\^\d+\])*)$', r'\1', prev_r)
+                        next_s = next_s[2:].lstrip()
+
                     # Catchword deduplication (e.g. "having" at bottom of leaf and "having" at top)
-                    prev_words = prev_line.split()
+                    prev_words = prev_r.split()
                     next_words = next_s.split()
                     if prev_words and next_words:
                         last_w = re.sub(r'^[^\w]+|[^\w]+$', '', prev_words[-1]).lower()
@@ -168,10 +216,10 @@ def stitch_leaf_stream(input_text: str) -> Tuple[str, List[Tuple[str, str, str]]
                             next_s = " ".join(next_words[1:])
 
                     # Handle italics across break: e.g. "with*" and "*the"
-                    if prev_line.rstrip().endswith('*') and next_s.startswith('*') and not prev_line.rstrip().endswith('**') and not next_s.startswith('**'):
-                        output_segments[-1] = prev_line.rstrip()[:-1] + " " + next_s[1:]
+                    if prev_r.rstrip().endswith('*') and next_s.startswith('*') and not prev_r.rstrip().endswith('**') and not next_s.startswith('**'):
+                        output_segments[-1] = prev_r.rstrip()[:-1] + " " + next_s[1:]
                     else:
-                        output_segments[-1] = prev_line.rstrip() + " " + next_s
+                        output_segments[-1] = prev_r.rstrip() + " " + next_s
                     i += 1
                 else:
                     output_segments.append("")
@@ -287,6 +335,38 @@ def purge_scaffolding_and_stitch_seams(cohort_texts: List[str]) -> str:
             flags=re.MULTILINE
         )
 
+        # 7. Strip inline leaf continuation tags and normalize footnoted blank leaf / flyleaf notes
+        c_clean = re.sub(
+            r"\s*[\(\[](?:continues\s+onto|continued\s+from)\s+(?:leaf|page|fol\.)\s+[^\)\]]+[\)\]]",
+            "",
+            c_clean,
+            flags=re.IGNORECASE,
+        )
+        c_clean = re.sub(
+            r"\*?\[Blank\s+leaf\s*(?:—|--|-|:)\s*(Fol\.\s*\d+[rv]?)\]\*?",
+            r"*(\1 — Vacat)*",
+            c_clean,
+            flags=re.IGNORECASE,
+        )
+        c_clean = re.sub(
+            r"\*?\[Blank\s+leaf\s*:\s*([^\]]+)\]\*?",
+            r"*(Flyleaf — \1)*",
+            c_clean,
+            flags=re.IGNORECASE,
+        )
+        c_clean = re.sub(
+            r"\*?\[([Bb]lank\s+[^\]]+)\]\*?",
+            r"*(Vacat — \1)*",
+            c_clean,
+            flags=re.IGNORECASE,
+        )
+        c_clean = re.sub(
+            r"\[Leaf\s+\d+\s+concludes\b",
+            r"[Folio concludes",
+            c_clean,
+            flags=re.IGNORECASE,
+        )
+
         cleaned_cohorts.append(c_clean.strip())
 
     full_raw = "\n\n".join(cleaned_cohorts)
@@ -308,20 +388,29 @@ def format_liturgical_typography(text: str) -> str:
     lines = text.splitlines()
     formatted_lines: List[str] = []
 
-    roles = r"(Priest|Deacon|Second Deacon|First Deacon|Choir|Reader|Bishop|Hierarch|People|Chanter)"
+    roles = r"(?:Priest|Deacon|Second Deacon|First Deacon|Choir|Reader|Bishop|Hierarch|People|Chanter)"
 
     for line in lines:
         trimmed = line.strip()
         # 1. Dialogue role: > Priest: "..." -> > **Priest:** "..."
-        m_dlg = re.match(r"^(?:>\s*)?(?:The\s+)?(" + roles + r"):\s*(.*)$", trimmed, re.IGNORECASE)
+        m_dlg = re.match(
+            r"^(?:>\s*)?(?:\*\*)?(?:The\s+)?(" + roles + r")(?:\s*\([^\)]+\))?(?:\*\*)?:\s*(?:\*\*)?\s*(.*)$",
+            trimmed,
+            re.IGNORECASE,
+        )
         if m_dlg:
             role = m_dlg.group(1).title()
-            rest = m_dlg.group(3).strip()
+            rest = m_dlg.group(2).strip()
             # If rest is quoted or liturgical prayer text, format as blockquote
             if rest.startswith('"') or rest.startswith('“') or rest.startswith('*'):
                 line = f"> **{role}:** {rest}"
             else:
-                line = f"> **{role}:** \"{rest}\""
+                m_trail_fn = re.search(r"((?:\s*\[\^\d+\])+)$", rest)
+                if m_trail_fn:
+                    core_rest = rest[:m_trail_fn.start()].rstrip()
+                    line = f'> **{role}:** "{core_rest}"{m_trail_fn.group(1)}'
+                else:
+                    line = f'> **{role}:** "{rest}"'
 
         # 2. Liturgical Alert Callouts: "Let it be known:" or "Rubrics on ..."
         if re.match(r"^> \*\*Rubrics on .*?\*\*:", line):
@@ -359,41 +448,47 @@ NON_VERB_ETH_TOKENS = {
     "beth", "seth", "nazareth", "elizabeth", "gennesaret", "shibboleth",
     "kenneth", "teeth", "beneath", "underneath", "twentieth", "thirtieth",
     "fortieth", "fiftieth", "sixtieth", "seventieth", "eightieth",
-    "ninetieth", "hundredth", "thousandth",
+    "ninetieth", "hundredth", "thousandth", "aseneth", "japheth",
+    "mephibosheth", "ishbosheth", "gath", "sabbath",
 }
 
 EXACT_ETH_VERB_MAP = {
     "abideth": "abides", "agreeth": "agrees", "assuageth": "assuages",
     "battleth": "battles", "becometh": "becomes", "begetteth": "begets",
     "beginneth": "begins", "beguileth": "beguiles", "behooveth": "behooves",
-    "blotteth": "blots", "causeth": "causes", "ceaseth": "ceases",
-    "celebrateth": "celebrates", "censeth": "censes", "cleanseth": "cleanses",
-    "cometh": "comes", "commiteth": "commits", "committeth": "commits",
+    "believeth": "believes", "blotteth": "blots", "causeth": "causes",
+    "ceaseth": "ceases", "celebrateth": "celebrates", "censeth": "censes",
+    "cleanseth": "cleanses", "cleaveth": "cleaves", "cometh": "comes",
+    "commiteth": "commits", "committeth": "commits", "compelleth": "compels",
     "createth": "creates", "crieth": "cries", "cutteth": "cuts",
     "danceth": "dances", "decreeth": "decrees", "defileth": "defiles",
     "denieth": "denies", "describeth": "describes", "desireth": "desires",
     "dieth": "dies", "dispelleth": "dispels", "doeth": "does",
-    "donateth": "donates", "draggeth": "drags", "driveth": "drives",
-    "droppeth": "drops", "dryeth": "dries", "edifieth": "edifies",
-    "emptieth": "empties", "endureth": "endures", "enticeth": "entices",
-    "envieth": "envies", "fadeth": "fades", "fleeth": "flees",
+    "donateth": "donates", "draggeth": "drags", "drieth": "dries",
+    "drinketh": "drinks", "driveth": "drives", "droppeth": "drops",
+    "dryeth": "dries", "dwelleth": "dwells", "eateth": "eats",
+    "edifieth": "edifies", "emptieth": "empties", "endureth": "endures",
+    "enticeth": "entices", "envieth": "envies", "excelleth": "excels",
+    "executeth": "executes", "continueth": "continues",
+    "expelleth": "expels", "fadeth": "fades", "fleeth": "flees",
     "flieth": "flies", "forbiddeth": "forbids", "forgetteth": "forgets",
-    "freeth": "frees", "freezeth": "freezes", "getteth": "gets",
-    "giveth": "gives", "glorifieth": "glorifies", "goeth": "goes",
-    "hateth": "hates", "hearkeneth": "gives ear", "hopeth": "hopes",
-    "illumineth": "illuminates", "inclineth": "inclines",
+    "forgiveth": "forgives", "freeth": "frees", "freezeth": "freezes",
+    "getteth": "gets", "giveth": "gives", "glorifieth": "glorifies",
+    "goeth": "goes", "hateth": "hates", "hearkeneth": "gives ear",
+    "hopeth": "hopes", "illumineth": "illuminates", "inclineth": "inclines",
     "intercedeth": "intercedes", "inundateth": "inundates",
     "issueth": "issues", "judgeth": "judges", "justifieth": "justifies",
     "knitteth": "knits", "letteth": "lets", "lieth": "lies",
     "liveth": "lives", "looseth": "looses", "loveth": "loves",
     "magnifieth": "magnifies", "maketh": "makes", "marvelleth": "marvels",
-    "moveth": "moves", "multiplieth": "multiplies", "permitteth": "permits",
-    "pitieth": "pities", "praiseth": "praises", "prepareth": "prepares",
-    "preserveth": "preserves", "procureth": "procures",
+    "moveth": "moves", "multiplieth": "multiplies", "partaketh": "partakes",
+    "permitteth": "permits", "pitieth": "pities", "praiseth": "praises",
+    "prepareth": "prepares", "preserveth": "preserves", "procureth": "procures",
     "prophesieth": "prophesies", "provoketh": "provokes",
     "purifieth": "purifies", "putteth": "puts", "rageth": "rages",
-    "raiseth": "raises", "receiveth": "receives", "rejoiceth": "rejoices",
-    "riseth": "rises", "ruleth": "rules", "runneth": "runs",
+    "raiseth": "raises", "rebuketh": "rebukes", "receiveth": "receives",
+    "rejoiceth": "rejoices", "removeth": "removes", "repelleth": "repels",
+    "rideth": "rides", "riseth": "rises", "ruleth": "rules", "runneth": "runs",
     "saith": "says", "sanctifieth": "sanctifies", "satisfieth": "satisfies",
     "saveth": "saves", "schemeth": "schemes", "seeth": "sees",
     "setteth": "sets", "shaketh": "shakes", "shareth": "shares",
@@ -403,9 +498,10 @@ EXACT_ETH_VERB_MAP = {
     "steppeth": "steps", "stirreth": "stirs", "stoppeth": "stops",
     "striketh": "strikes", "strippeth": "strips", "submitteth": "submits",
     "taketh": "takes", "tasteth": "tastes", "testifieth": "testifies",
-    "trampleth": "tramples", "trembleth": "trembles", "troubleth": "troubles",
-    "undergoeth": "undergoes", "waketh": "wakes", "warreth": "wars",
-    "winneth": "wins", "worshippeth": "worships", "writeth": "writes",
+    "trampleth": "tramples", "trembleth": "trembles", "trieth": "tries",
+    "troubleth": "troubles", "undergoeth": "undergoes", "waketh": "wakes",
+    "warreth": "wars", "wasteth": "wastes", "winneth": "wins",
+    "worshippeth": "worships", "writeth": "writes",
 }
 
 
@@ -424,10 +520,12 @@ def _convert_3rd_person_eth_token(match: re.Match) -> str:
         return token
     if wl in EXACT_ETH_VERB_MAP:
         return _preserve_case_token(token, EXACT_ETH_VERB_MAP[wl])
+    if wl.endswith("ieth") and len(wl) > 4:
+        return _preserve_case_token(token, wl[:-4] + "ies")
     stem = wl[:-3]
     if len(stem) < 2:
         return token
-    if stem.endswith(("sh", "ch", "ss", "x", "z")):
+    if stem.endswith(("sh", "ch", "ss", "x", "z", "v")):
         mod = stem + "es"
     else:
         mod = stem + "s"
@@ -499,6 +597,31 @@ def heal_cohort_and_apparatus_text(text: str, is_footnotes: bool = False) -> Tup
     )
     healed = re.sub(r"\bNekrosimon\b", "Hymn for the Departed", healed, flags=re.IGNORECASE)
 
+    # Helper to protect quoted strings ("..." and “...”) in footnotes from meta-commentary mutation
+    def _apply_outside_quotes_if_footnotes(src: str, transform_fn) -> str:
+        if not is_footnotes:
+            return transform_fn(src)
+        placeholders: List[str] = []
+        def _mask(m: re.Match) -> str:
+            idx = len(placeholders)
+            placeholders.append(m.group(0))
+            return f"__QUOTED_SPAN_{idx}__"
+        masked = re.sub(r'(?:"[^"\r\n]+"|“[^”\r\n]+”|\*[^*\r\n]+\*)', _mask, src)
+        transformed = transform_fn(masked)
+        for idx, val in enumerate(placeholders):
+            transformed = transformed.replace(f"__QUOTED_SPAN_{idx}__", val)
+        return transformed
+
+    # 5b. Restore any previously stemmer-corrupted -eth words
+    corrupted_eth_fixes = {
+        "asens": "Aseneth", "believs": "believes", "cleavs": "cleaves",
+        "compells": "compels", "dris": "dries", "executs": "executes",
+        "forgivs": "forgives", "partaks": "partakes", "rebuks": "rebukes",
+        "removs": "removes", "rids": "rides", "tris": "tries", "wasts": "wastes",
+    }
+    for bad_w, good_w in corrupted_eth_fixes.items():
+        healed = re.sub(rf"\b{bad_w}\b", lambda m, g=good_w: _preserve_case_token(m.group(0), g), healed, flags=re.IGNORECASE)
+
     # 6. Master Liturgical Vocabulary (Shared_Lexicon/master_liturgical_vocabulary.json)
     vocab_file = PROJECT_ROOT.parent / "Shared_Lexicon" / "master_liturgical_vocabulary.json"
     if vocab_file.exists():
@@ -519,29 +642,40 @@ def heal_cohort_and_apparatus_text(text: str, is_footnotes: bool = False) -> Tup
                     rules.append((re.compile(rf"\b{re.escape(clean_f)}\b", re.IGNORECASE), repl))
 
             if rules:
-                out_lines = []
-                for ln in healed.splitlines():
-                    if ln.strip().startswith("```"):
-                        out_lines.append(ln)
-                        continue
-                    for pat, repl in rules:
-                        def _vocab_sub(m: re.Match, r: str = repl, line_ref: str = ln) -> str:
-                            before = line_ref[:m.start()]
-                            after = line_ref[m.end():]
-                            if "(*" in before and "*)" in after:
-                                last_open = before.rfind("(*")
-                                if "*)" not in before[last_open:]:
+                def _apply_vocab_rules(chunk_str: str) -> str:
+                    out_lines = []
+                    for ln in chunk_str.splitlines():
+                        if ln.strip().startswith("```"):
+                            out_lines.append(ln)
+                            continue
+                        for pat, repl in rules:
+                            def _vocab_sub(m: re.Match, r: str = repl, line_ref: str = ln) -> str:
+                                before = line_ref[:m.start()]
+                                after = line_ref[m.end():]
+                                if "(*" in before and "*)" in after:
+                                    last_open = before.rfind("(*")
+                                    if "*)" not in before[last_open:]:
+                                        return m.group(0)
+                                if 'lit. "' in line_ref or "(lit. " in line_ref:
                                     return m.group(0)
-                            if 'lit. "' in line_ref or "(lit. " in line_ref:
-                                return m.group(0)
-                            return _preserve_case_token(m.group(0), r)
-                        ln = pat.sub(_vocab_sub, ln)
-                    out_lines.append(ln)
-                healed = "\n".join(out_lines) + ("\n" if healed.endswith("\n") else "")
+                                return _preserve_case_token(m.group(0), r)
+                            ln = pat.sub(_vocab_sub, ln)
+                        out_lines.append(ln)
+                    return "\n".join(out_lines) + ("\n" if chunk_str.endswith("\n") else "")
+
+                healed = _apply_outside_quotes_if_footnotes(healed, _apply_vocab_rules)
         except (OSError, json.JSONDecodeError) as e:
             print(f"  [Warning] Could not apply vocabulary healing ({e})", file=sys.stderr)
 
-    # 7. Anti-Slop & Cliche Replacements (Body & Footnotes)
+    # Deduplicate tautological 'X or X' phrases produced by 1-to-1 vocabulary normalization
+    healed = re.sub(
+        r"\b(Apodosis|Troparion|Troparia|Kontakion|Kontakia|Heirmos|Heirmoi|Sessional Hymn|Sessional Hymns|Theotokion|Dismissal|Prokeimenon|Litany|Litiya)\s+or\s+\1\b",
+        r"\1",
+        healed,
+        flags=re.IGNORECASE,
+    )
+
+    # 7. Anti-Slop & Cliche Replacements (Body & Footnotes, protecting quoted spans in footnotes)
     slop_map = [
         (r"\bverily\b", "truly"),
         (r"\btwas\b", "it was"),
@@ -567,9 +701,13 @@ def heal_cohort_and_apparatus_text(text: str, is_footnotes: bool = False) -> Tup
         (r"\bneedless to say\b", "indeed"),
         (r"\bit is important to remember\b", "note that"),
     ]
-    for pat_str, repl in slop_map:
-        pat = re.compile(pat_str, re.IGNORECASE)
-        healed = pat.sub(lambda m, r=repl: _preserve_case_token(m.group(0), r), healed)
+    def _apply_slop_and_eth(chunk_str: str) -> str:
+        for pat_str, repl in slop_map:
+            pat = re.compile(pat_str, re.IGNORECASE)
+            chunk_str = pat.sub(lambda m, r=repl: _preserve_case_token(m.group(0), r), chunk_str)
+        return re.sub(r"\b([A-Za-z]+eth|saith)\b", _convert_3rd_person_eth_token, chunk_str, flags=re.IGNORECASE)
+
+    healed = _apply_outside_quotes_if_footnotes(healed, _apply_slop_and_eth)
 
     shall_verbs = {
         "bow": "bows", "enter": "enters", "take": "takes", "cense": "censes",
@@ -585,11 +723,13 @@ def heal_cohort_and_apparatus_text(text: str, is_footnotes: bool = False) -> Tup
         healed,
     )
 
-    # 8. 3rd-person -eth verb normalization
-    healed = re.sub(r"\b([A-Za-z]+eth)\b", _convert_3rd_person_eth_token, healed)
-
     # 9. Epigraphic unparenthesized Cyrillic marginalia & woodcut inscription normalization
     if not is_footnotes:
+        healed = re.sub(
+            r"\*?\[([Bb]lank\s+[^\]]+)\]\*?",
+            r"*(Vacat — \1)*",
+            healed,
+        )
         healed = re.sub(
             r'"([\u0400-\u04FF][^"]+)"\s*\(([^)]+)\)',
             r'"\2" (*\1*)',
@@ -607,6 +747,32 @@ def heal_cohort_and_apparatus_text(text: str, is_footnotes: bool = False) -> Tup
             healed,
             flags=re.IGNORECASE,
         )
+
+        # Greek acrostics with Cyrillic homoglyph contamination:
+        healed = healed.replace("Ἰωσήф", "Ἰωσήφ")
+        healed = healed.replace("ᾎ́сма", "ᾎσμα")
+        healed = healed.replace("ПРEПEI", "ΠΡΕΠΕΙ")
+        healed = healed.replace("ποлюώνυма", "πολυώνυμα").replace("πολυώνυма", "πολυώνυμα").replace("μέлпω", "μέλπω")
+
+        # Parenthesize unparenthesized Cyrillic acrostics and inscriptions:
+        healed = re.sub(r"\[Acrostic:\s+([\u0400-\u04FF])\]", r"[Acrostic: (*\1*)]", healed)
+        healed = re.sub(r"\[Acrostic:\s+([A-Za-z])\s*/\s*Slavonic\s+([\u0400-\u04FF])\]", r"[Acrostic: \1 / Slavonic (*\2*)]", healed)
+        healed = re.sub(r"\[(Τετράδι ψάλλω)\s*/\s*([^\]]+)\]", r"[\1 / (*\2*)]", healed)
+        healed = re.sub(r"\[(Спасѝ\s+Бж҃е\s+лю́ди\s+твоѧ̑)\]", r"(*\1*)", healed)
+        healed = re.sub(
+            r"\[(?!(?:Acrostic:|Τετράδι|Left\s+Page|Right\s+Page|Column|Колонка))([^\[\]\^]*[\u0400-\u04FF\uA640-\uA69F][^\[\]]*)\]",
+            r"(*\1*)",
+            healed,
+        )
+        healed = re.sub(r"I\.N\s+Ц\.I\.", "I.N (*Ц.I.*)", healed)
+        healed = re.sub(r"halo inscribed:\*\s+Ѻ\s+Ѡ\s+Н\b", "halo inscribed:* (*Ѻ Ѡ Н*)", healed)
+        healed = re.sub(r"inscribed above:\*\s+М҃Р\s+Ѳ҃Ꙋ\b", "inscribed above:* (*М҃Р Ѳ҃Ꙋ*)", healed)
+        healed = re.sub(r"(inscribed above:\*\s*)([^*[\r\n]+?)\s*(\*(\[|\()Saint Apostle John the Theologian)", lambda m: f"{m.group(1)}(*{m.group(2).strip()}*) {m.group(3)}", healed)
+        healed = re.sub(r'"СТАВРОПИГІЙСКІЙ\s+ІНСТИТУТЪ"', r'(*"СТАВРОПИГІЙСКІЙ ІНСТИТУТЪ"*)', healed)
+        healed = re.sub(r"ІНСТИТУТЪ\s+СТАВРОПИГІЙСКІЙ", r'(*ІНСТИТУТЪ СТАВРОПИГІЙСКІЙ*)', healed)
+        healed = re.sub(r'inscribed:\s*"СПЛА ЖИВОТ"', r'inscribed: (*"СПЛА ЖИВОТ"*)', healed)
+        healed = re.sub(r"Gathering\s+ѡ̃\s+ѡ̃", r"Gathering (*ѡ̃ ѡ̃*)", healed)
+        healed = re.sub(r"with\s+inscription\s+ІС҃\s+ХС҃", r"with inscription (*ІС҃ ХС҃*)", healed)
 
     return healed, (healed != original)
 
@@ -691,7 +857,10 @@ class UniversalPublicationEngine:
         self.final_dir = self.ws_dir / "Final"
         self.footnotes_file = self.final_dir / "Final_footnotes.txt"
         self.pub_spec = self.cfg.get("publication_spec", {})
-        self._is_scaffolded_pub_spec = not bool(self.pub_spec.get("parts"))
+        self._is_scaffolded_pub_spec = (
+            not bool(self.pub_spec.get("parts"))
+            or self.pub_spec.get("mode") == "universal_dynamic_h1"
+        )
         if self._is_scaffolded_pub_spec:
             self.pub_spec = self._load_scaffolded_pub_spec()
         self.total_pages = self.cfg["total_physical_pages"]
@@ -932,27 +1101,67 @@ class UniversalPublicationEngine:
         print("=" * 75)
 
     def _collect_cohort_files(self) -> List[Path]:
-        """Locates and sorts all translation cohorts."""
-        candidates = list(self.cohorts_dir.glob("*cohort*.md"))
-        if not candidates:
-            candidates = list(self.final_md_dir.glob("*cohort*.md"))
+        """Locates and sorts all translation cohorts across Cohorts/, Final MD/, and Draft/, selecting the newest mtime per cohort."""
+        by_num: Dict[int, Path] = {}
+        draft_dir = self.ws_dir / "Draft"
+        search_dirs = [self.cohorts_dir, self.final_md_dir]
+        if draft_dir.exists():
+            search_dirs.append(draft_dir)
 
+        for s_dir in search_dirs:
+            for cf in s_dir.glob("*cohort*.md"):
+                c_num = self._cohort_sort_key(cf)
+                if c_num == 9999:
+                    continue
+                if c_num not in by_num:
+                    by_num[c_num] = cf
+                else:
+                    existing = by_num[c_num]
+                    try:
+                        if cf.stat().st_mtime > existing.stat().st_mtime + 1.0:
+                            by_num[c_num] = cf
+                    except OSError:
+                        pass
+
+        candidates = list(by_num.values())
         if not candidates:
             raise FileNotFoundError(f"No translation cohorts found in {self.cohorts_dir} or {self.final_md_dir}")
 
         return sorted(candidates, key=self._cohort_sort_key)
 
     def _cohort_sort_key(self, path: Path) -> int:
-        m = re.search(r"cohort(\d+)", path.name, re.IGNORECASE)
+        m = re.search(r"cohort0?(\d+)", path.name, re.IGNORECASE)
         return int(m.group(1)) if m else 9999
 
     def _archive_cohorts(self, cohort_files: List[Path]) -> None:
-        """Ensures all cohorts are in Cohorts/ and removed from Final MD/."""
+        """Ensures all cohorts are synchronized into Cohorts/ (preserving existing Cohorts/ filenames) and removed from Final MD/."""
+        existing_in_cohorts: Dict[int, Path] = {}
+        for ef in self.cohorts_dir.glob("*cohort*.md"):
+            c_num = self._cohort_sort_key(ef)
+            if c_num != 9999:
+                existing_in_cohorts[c_num] = ef
+
         for cf in cohort_files:
-            dest = self.cohorts_dir / cf.name
-            if cf != dest:
+            c_num = self._cohort_sort_key(cf)
+            dest = existing_in_cohorts.get(c_num, self.cohorts_dir / cf.name)
+            if cf.resolve() != dest.resolve():
                 shutil.copy2(str(cf), str(dest))
-                cf.unlink()
+                if cf.parent.resolve() == self.final_md_dir.resolve():
+                    for attempt in range(5):
+                        try:
+                            cf.unlink()
+                            break
+                        except (PermissionError, OSError):
+                            time.sleep(0.5)
+
+        # Unconditionally ensure no lingering cohort files in Final MD/
+        for lingering in self.final_md_dir.glob("*cohort*.md"):
+            for attempt in range(5):
+                try:
+                    lingering.unlink()
+                    break
+                except (PermissionError, OSError):
+                    time.sleep(0.5)
 
     def _slice_parts(self, text: str) -> Dict[str, str]:
         lines = text.splitlines()
@@ -972,20 +1181,28 @@ class UniversalPublicationEngine:
                     continue
                 m_h1 = re.match(r"^#\s+([^\n#]+)$", line.strip())
                 if m_h1:
-                    h1_title = m_h1.group(1).strip()
+                    raw_h1_title = m_h1.group(1).strip()
+                    clean_h1_title = re.sub(r"\s*\[\^\d+\]", "", raw_h1_title).strip()
                     pid = f"part{part_counter}"
-                    slug = slugify(h1_title)[:40].strip("_") or pid
+                    slug = slugify(clean_h1_title)[:40].strip("-_") or pid
                     dynamic_parts.append(
                         {
                             "id": pid,
                             "filename": f"{self.monument_id}_{pid}_{slug}.md",
-                            "title": h1_title,
-                            "start_landmark": rf"^#\s+{re.escape(h1_title)}$",
+                            "title": clean_h1_title,
+                            "start_landmark": rf"^#\s+{re.escape(clean_h1_title)}(?:\s*\[\^\d+\])*$",
                         }
                     )
-                    landmarks.append((pid, idx, h1_title))
+                    landmarks.append((pid, idx, clean_h1_title))
                     part_counter += 1
             self.pub_spec["parts"] = dynamic_parts
+            self.registry["monuments"][self.monument_id]["publication_spec"] = self.pub_spec
+            from concurrency_lock import atomic_update_registry
+            atomic_update_registry(
+                lambda reg: reg.get("monuments", {}).get(self.monument_id, {}).update({"publication_spec": self.pub_spec}),
+                registry_path=REGISTRY_FILE,
+            )
+            print(f"  [Universal Engine] Dynamically generated {len(dynamic_parts)} modular parts (persisted to codex_registry.json).")
         else:
             part_specs = self.pub_spec.get("parts", [])
             if not part_specs:
@@ -1022,7 +1239,11 @@ class UniversalPublicationEngine:
                 part_specs = new_part_specs
                 self.pub_spec["parts"] = part_specs
                 self.registry["monuments"][self.monument_id]["publication_spec"] = self.pub_spec
-                REGISTRY_FILE.write_text(json.dumps(self.registry, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+                from concurrency_lock import atomic_update_registry
+                atomic_update_registry(
+                    lambda reg: reg.get("monuments", {}).get(self.monument_id, {}).update({"publication_spec": self.pub_spec}),
+                    registry_path=REGISTRY_FILE,
+                )
                 print(f"  [Universal Engine] Auto-expanded Consolidated Weekday Cycle into {self.monument_id}_part9_weekday_offices.md (persisted to codex_registry.json).")
             elif has_weekday_part:
                 updated_titles = False
@@ -1034,7 +1255,11 @@ class UniversalPublicationEngine:
                 if updated_titles:
                     self.pub_spec["parts"] = part_specs
                     self.registry["monuments"][self.monument_id]["publication_spec"] = self.pub_spec
-                    REGISTRY_FILE.write_text(json.dumps(self.registry, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+                    from concurrency_lock import atomic_update_registry
+                    atomic_update_registry(
+                        lambda reg: reg.get("monuments", {}).get(self.monument_id, {}).update({"publication_spec": self.pub_spec}),
+                        registry_path=REGISTRY_FILE,
+                    )
 
             landmarks = []
             last_idx = 0
@@ -1123,6 +1348,7 @@ class UniversalPublicationEngine:
                     chunk = re.sub(r"(To the glory\s*\nof the All-Holy)", r"## Dedication\n\n\1", chunk, count=1)
                 master_title_str = self.pub_spec.get("master_title", "")
                 master_title_slug = slugify(master_title_str)
+                chunk = re.sub(r'\s*<a\s+id="[^"]*"></a>', '', chunk, count=1)
                 if master_title_slug and f'<a id="{master_title_slug}">' not in chunk:
                     first_h1_m = re.search(r"^#\s+([^\n]+)", chunk, flags=re.MULTILINE)
                     if first_h1_m and slugify(first_h1_m.group(1)) == master_title_slug:
@@ -1138,9 +1364,11 @@ class UniversalPublicationEngine:
                 m_h = re.match(r"^(#+)\s*(.+)$", lines[start_idx].strip())
                 if m_h:
                     matched_heading = m_h.group(2).strip()
+                    fn_in_heading = re.findall(r"\[\^\d+\]", matched_heading)
+                    fn_suffix = (" " + " ".join(fn_in_heading)) if fn_in_heading and not any(f in title for f in fn_in_heading) else ""
                     # If matched line was a generic Part title (e.g. Dolnytsky '# Part I.'), replace it
                     if re.match(r"^Part\s+[IVXLCDM\d]+[\.:\s]", matched_heading, re.IGNORECASE):
-                        chunk = f"# {title}\n\n{hp_block}" + re.sub(r"^#+\s*.*?\n+", "", chunk, count=1).lstrip()
+                        chunk = f"# {title}{fn_suffix}\n\n{hp_block}" + re.sub(r"^#+\s*.*?\n+", "", chunk, count=1).lstrip()
                     else:
                         # Preservative landmark: normalize as H2 and clean subagent numbering prefixes
                         norm_heading = re.sub(r"^(?:\d+[\.\)]\s+)?(?:Decrees of the Ruthenian Provincial Synod:[ \t]*)?", "", matched_heading).strip()
@@ -1153,7 +1381,7 @@ class UniversalPublicationEngine:
                             or (norm_prefix and norm_prefix in title.lower())
                             or (len(first_word) >= 6 and title.lower().startswith(first_word))
                         ):
-                            chunk = f"# {title}\n\n{hp_block}{body_without_landmark}"
+                            chunk = f"# {title}{fn_suffix}\n\n{hp_block}{body_without_landmark}"
                         else:
                             chunk = f"# {title}\n\n{hp_block}## {norm_heading}\n\n{body_without_landmark}"
                 else:
@@ -1191,9 +1419,9 @@ class UniversalPublicationEngine:
         toc_lines = ["## TABLE OF CONTENTS", ""]
         for ps in self.pub_spec.get("parts", []):
             pid = ps["id"]
-            title = ps["title"]
+            title = re.sub(r"\s*\[\^\d+\]", "", ps["title"]).strip()
             if pid == "part0":
-                title = self.pub_spec.get("master_title", title)
+                title = re.sub(r"\s*\[\^\d+\]", "", self.pub_spec.get("master_title", title)).strip()
             slug = slugify(title)
             toc_lines.append(f"* **[{title}](#{slug})**")
             raw_text = parts_raw.get(pid, "")

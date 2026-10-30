@@ -14,9 +14,7 @@
 
 *Sticheron 4:* Though Thou wast seized, O Christ, by lawless men, yet Thou art my God, and I am not ashamed; though Thou wast smitten on the back, I deny Thee not; though nailed to the Cross, I hide it not: in Thy Resurrection do I boast, for Thy death is my life; O Almighty One and Lover of mankind, glory to Thee!
 
-*Sticheron 5:* Fulfilling David's prophecy, O Christ, Thou didst reveal Thy majesty in Zion unto Thy disciples,...
-
-...showing Thyself praised and glorified ever with the Father and the Holy Spirit: pre-eternal as the bodiless Word, and in these last days incarnate for our sake, slain as man, and risen in glory as the Lover of mankind!
+*Sticheron 5:* Fulfilling David's prophecy, O Christ, Thou didst reveal Thy majesty in Zion unto Thy disciples, [p165LA] showing Thyself praised and glorified ever with the Father and the Holy Spirit: pre-eternal as the bodiless Word, and in these last days incarnate for our sake, slain as man, and risen in glory as the Lover of mankind!
 
 *Sticheron 6:* Thou didst descend even unto Hades, O Christ, as Thou didst will, and didst overthrow death as God and Master, and didst rise on the third day, raising Adam with Thyself from the insoluble bonds of Hades and from corruption, as he cried aloud and said: Glory to Thy Resurrection, O only Lover of mankind!
 
@@ -32,9 +30,7 @@
 
 *Sticheron 2:* Come, let us worship Him Who is risen from the dead and has enlightened all things; for by His Resurrection on the third day He has delivered us from the tyranny of Hades, granting unto us life and great mercy!
 
-*Sticheron 3:* Having descended into Hades, O Christ, Thou didst put death to death, and rising on the third day,...
-
-...Thou didst raise us who were fallen, as we cry aloud: Glory to Thy Resurrection, O compassionate Lord!
+*Sticheron 3:* Having descended into Hades, O Christ, Thou didst put death to death, and rising on the third day, [p166LA] Thou didst raise us who were fallen, as we cry aloud: Glory to Thy Resurrection, O compassionate Lord!
 
 *Sticheron 4:* Awesome didst Thou appear, O Lord, lying in the tomb as one asleep, and rising on the third day as mighty, Thou didst raise Adam with Thyself, who cried: Glory to Thine all-powerful rising, O Lord and Lover of mankind!
 
@@ -50,9 +46,7 @@
 
 *Troparion:* Circumcise the eyes of my understanding, and my heart and clay lips, O all-holy Trinity of all, that I may joyfully sing praise unto Thee, the Giver of ages!
 
-*Troparion:* That Thou mightest show forth the abundance of Thy goodness, Thou didst fashion man, O one uncircumscribed Trinity, an honorable image...
-
-...of Thy Godhead:[^180] do Thou, O Creator, renew him!
+*Troparion:* That Thou mightest show forth the abundance of Thy goodness, Thou didst fashion man, O one uncircumscribed Trinity, an honorable image [p167LA] of Thy Godhead:[^180] do Thou, O Creator, renew him!
 
 *Troparion:* The pre-eternal Mind, and His co-eternal Word, and the co-unoriginate Spirit, shining forth, taught us to worship the one God, consubstantial in essence, in three hypostatic Persons!
 
@@ -70,9 +64,7 @@
 
 *Sessional Hymn, Tone 7:* I have sinned, have mercy, O Holy Trinity, upon Thy servants who flee unto Thee, the Compassionate One; and forgive, for Thou art merciful!
 
-*Glory... Both now... Theotokion:*...
-
-...From malice and transgressions deliver our souls, O most pure Mother of God, and cleanse from sins those who sing of thee, [having given birth unto] the unchangeable God![^181]
+*Glory... Both now... Theotokion:* [p168LA] From malice and transgressions deliver our souls, O most pure Mother of God, and cleanse from sins those who sing of thee, [having given birth unto] the unchangeable God![^181]
 
 *Ode 4. Heirmos: Foreseeing Thy coming...*[^182]
 
@@ -90,9 +82,7 @@
 
 *Troparion:* Taking form, O Word of God, having assumed human nature from the holy Virgin, Thou didst teach us to praise the Trinity in Unity, co-enthroned and consubstantial!
 
-*Theotokion:* By thy childbirth beyond understanding, O most pure one, the condemnation of the first parents was loosed, and the first-formed regained entry into Paradise, loudly...
-
-...praising thee!
+*Theotokion:* By thy childbirth beyond understanding, O most pure one, the condemnation of the first parents was loosed, and the first-formed regained entry into Paradise, loudly [p169LA] praising thee!
 
 *Ode 6. Heirmos:* With equal glory and dominion, the Monarchy of the Godhead, existing immutable in three hypostases, having the distinctions of glory within Itself, according to the natural properties of each![^184]
 
@@ -108,9 +98,7 @@
 
 *Ode 7. Heirmos: The Children of old showed the fiery furnace...*
 
-*Troparion:* Following the words of the divine prophets, we glorify Thee alone as the one God in threefold form, crying thus:...
-
-...Blessed is the God of our fathers!
+*Troparion:* Following the words of the divine prophets, we glorify Thee alone as the one God in threefold form, crying thus: [p170LA] Blessed is the God of our fathers!
 
 *Troparion:* With clay lips, singing the song of the immaterial orders, we praise the glory of the Trinity in the unity of essence, crying thus: Blessed is the God of our fathers!
 
@@ -126,9 +114,7 @@
 
 *Troparion:* Make the beacons of Thy Church thrice-radiant, O Benefactor and Lover of mankind, and unite them with Thy communicants; show them to be unassailable by invisible foes and fleshly passions, O Master, one Godhead of the people, that they may unceasingly cry: All ye works of the Lord, hymn the Lord!
 
-*Theotokion:* The God-originating Light shone forth from thy womb, O Virgin Mother unwedded and spotless, [illumining] the whole world...
-
-...illumining the whole world with thrice-radiant light, and [renewing] the earth:[^186] Praise the Lord, all ye works of the Lord!
+*Theotokion:* The God-originating Light shone forth from thy womb, O Virgin Mother unwedded and spotless, illumining the whole world [p171LA] the whole world with thrice-radiant light, and [renewing] the earth:[^186] Praise the Lord, all ye works of the Lord!
 
 *Ode 9. Heirmos:*[^187] To speak with a loud voice and to sing worthily [of Him] Whom in the highest heavens the Seraphim [unceasingly][^188] praise, we of the earth are unable; but nevertheless, as Master of all and Lover of mankind, Thee do we magnify!
 
@@ -142,9 +128,7 @@
 
 When the tomb was sealed, O Life, Thou didst shine forth from the grave, O Christ God; and while the doors were shut, Thou didst come unto the disciples, O Resurrection of all, renewing an upright spirit in us through them, according to Thy great mercy!
 
-*Sessional Hymn:* Life lay in the tomb, and seals were upon the stone; as a sleeping king the soldiers guarded Christ, and angels glorified Him as immortal God; and the women cried aloud: The Lord is risen,...
-
-...granting great mercy unto the world!
+*Sessional Hymn:* Life lay in the tomb, and seals were upon the stone; as a sleeping king the soldiers guarded Christ, and angels glorified Him as immortal God; and the women cried aloud: The Lord is risen, [p172LA] granting great mercy unto the world!
 
 *Glory... Both now... Theotokion:* Rejoice, thou that art full of grace, O Virgin Theotokos, haven and help of the human race! For from thee was the Redeemer of the world incarnate; thou alone art Mother and ever-blessed Virgin; entreat Christ God to grant peace unto the world, and great mercy unto our souls!
 
@@ -164,7 +148,7 @@ They that sow in affliction in the south, with fastings and tears, shall thus re
 
 *Antiphon 2:*
 
-Except the Lord build the house of the soul, in vain do we labor; for without Him, neither deed nor word is accomplished!
+[p173LA] Except the Lord build the house of the soul, in vain do we labor; for without Him, neither deed nor word is accomplished!
 
 By Thy Holy Spirit, the fruits of the womb, moved [by Him], are turned unto the paternal commandments for adoption!
 
@@ -182,9 +166,7 @@ Beholding thy children around thy table like young shoots, rejoice and be glad, 
 
 *Troparion:* The tyranny of death is condemned, when by unjust death on the Tree Thou wast condemned, O Lord; therefore the prince of darkness, not overcoming Thee, was justly cast out!
 
-*Troparion:* Hades drew near unto Thee, and not having power to grind Thy body with teeth, his...
-
-...jaws were shattered; therefore, O Savior, having destroyed the pangs of death, Thou didst rise from the tomb on the third day!
+*Troparion:* Hades drew near unto Thee, and not having power to grind Thy body with teeth, his [p174LA] jaws were shattered; therefore, O Savior, having destroyed the pangs of death, Thou didst rise from the tomb on the third day!
 
 *Theotokion:* Thou didst loose the sorrow of the first mother Eve, for having escaped pangs, without knowledge of wedlock thou didst give birth; therefore, manifestly knowing thee as the most pure Theotokos, all we call thee blessed!
 
@@ -202,9 +184,7 @@ Beholding thy children around thy table like young shoots, rejoice and be glad, 
 
 *Ode 3. Heirmos:* In the beginning, by the all-powerful Word, Thou didst establish the heavens, O Lord and Savior, and by the all-creating Spirit of God all their host; establish me upon the immovable rock of Thy confession!
 
-*Troparion:* Thou didst mount the Tree...
-
-...of Thine own will; for our sake Thou didst suffer sores, O truly Merciful Savior, and didst endure wounds, mediating salvation for the world and the faithful, therefore unto Thy mercy, O Almighty One, we have recourse!
+*Troparion:* Thou didst mount the Tree [p175LA] of Thine own will; for our sake Thou didst suffer sores, O truly Merciful Savior, and didst endure wounds, mediating salvation for the world and the faithful, therefore unto Thy mercy, O Almighty One, we have recourse!
 
 *Troparion:* Thou didst heal the wounds of the soul bitten by the serpent's gnawing, O Christ, and didst show light in darkness to him who of old descended into corruption; for descending through the Cross into Hades, Thou didst raise me up with Thyself!
 
@@ -220,9 +200,7 @@ Beholding thy children around thy table like young shoots, rejoice and be glad, 
 
 *Troparion:* Blessed is the Fruit of thy womb, O Virgin, O Theotokos, joy of all; for thou didst bear gladness unto the whole world, and true rejoicing, destroying sinful sorrow, O Bride of God!
 
-*Troparion:* Thou didst bear for us eternal Life and Light, O Virgin Birthgiver of God,...
-
-...the return of ancient men unto the Father, therefore, adorning ourselves with faith, we confess [this] grace!
+*Troparion:* Thou didst bear for us eternal Life and Light, O Virgin Birthgiver of God, [p176LA] the return of ancient men unto the Father, therefore, adorning ourselves with faith, we confess [this] grace!
 
 *Ode 4. Heirmos:* Leaving not the Father's bosom, Thou didst descend to earth, O Christ God; I have heard the mystery of Thy dispensation, and I glorified Thee, O Lover of mankind!
 
@@ -240,9 +218,7 @@ Beholding thy children around thy table like young shoots, rejoice and be glad, 
 
 *Another Canon to the Theotokos. Same Heirmos:* Chosen by all and shown forth good unto God, all-hymned by the brightness of the pre-creation: illumine with thy light-shedding those that sing of thee!
 
-*Troparion:* Thou didst bear God on earth, O pure one,...
-
-...incarnate of thy most pure blood, Who delivers from grievous transgressions those who with love magnify and honor thee, O most pure one!
+*Troparion:* Thou didst bear God on earth, O pure one, [p177LA] incarnate of thy most pure blood, Who delivers from grievous transgressions those who with love magnify and honor thee, O most pure one!
 
 *Troparion:* The defiled rational nature receives the seed of divine operation, for He came forth from thee beyond understanding, O Virgin: the mystery of thy birthgiving, O most pure and all-blessed one!
 
@@ -262,7 +238,7 @@ Beholding thy children around thy table like young shoots, rejoice and be glad, 
 
 *Another Canon to the Theotokos. Heirmos: O Lord my God...*
 
-The ladder which Jacob saw, fixed unto the heights, was an image of thee who knewest not wedlock; through thee God lived among men, O most pure Sovereign Lady!
+[p178LA] The ladder which Jacob saw, fixed unto the heights, was an image of thee who knewest not wedlock; through thee God lived among men, O most pure Sovereign Lady!
 
 *Troparion:* Having received eternal redemption through thee, O Virgin, with diligence we cry aloud unto thee: "Rejoice, O Sovereign Lady!" and rejoicing in thy light, we hymn thee with songs!
 
@@ -276,9 +252,7 @@ The ladder which Jacob saw, fixed unto the heights, was an image of thee who kne
 
 *Theotokion:* Who among men can declare the image of thine ineffable birthgiving, O spotless one, O Virgin Bride of God, for our sake? For the ineffable Word united Himself [to flesh] from thee, and the flesh remained unchangeable!
 
-*Another Canon of the Cross. Heirmos: I cried unto Thee...* When Thou wast crucified, O Master, the whole earth was shaken, and...
-
-...as Thou art good, Thou didst heal my grievous transgressions!
+*Another Canon of the Cross. Heirmos: I cried unto Thee...* When Thou wast crucified, O Master, the whole earth was shaken, and [p179LA] as Thou art good, Thou didst heal my grievous transgressions!
 
 *Troparion:* Death was abolished, and Hades was overthrown; for Christ arose [from the dead], preparing the resurrection of men!
 
@@ -296,9 +270,7 @@ The ladder which Jacob saw, fixed unto the heights, was an image of thee who kne
 
 *Troparion:* By the tree he who committed disobedience is put to death, but by the obedience of Christ he is formed anew; for for my sake the all-glorious Son of God is crucified!
 
-*Troparion:* All creation hymns Thee Who didst rise from the tomb, O Christ, for being Life, Thou didst blossom forth in Hades, the...
-
-...Resurrection of the dead and all-glorious Light unto those in darkness!
+*Troparion:* All creation hymns Thee Who didst rise from the tomb, O Christ, for being Life, Thou didst blossom forth in Hades, the [p180LA] Resurrection of the dead and all-glorious Light unto those in darkness!
 
 *Theotokion:* Rejoice, daughter of corruptible Adam! Rejoice, only Bride of God! Rejoice, through whom the curse was banished, for thou didst bear God; entreat Him, O pure one, to save us all!
 
@@ -316,7 +288,7 @@ The ladder which Jacob saw, fixed unto the heights, was an image of thee who kne
 
 *Ode 8. Heirmos:* The bush unconsumed by fire in Sinai, communing [therewith], showed forth God unto slow-tongued and stammering Moses; and the Children cast into the fire with divine zeal showed forth singers: "All ye works of the Lord, hymn the Lord, and supremely exalt Him unto all ages!"
 
-*Troparion:* Having become the Deliverer of the bound,[^198] O passionless Lord, Thou didst endure judgment, delivering the condemned; for as in Adam we died, so also all in Christ shall we live: "All ye works of the Lord, hymn the Lord, and supremely exalt Him!"
+[p181LA] *Troparion:* Having become the Deliverer of the bound,[^198] O passionless Lord, Thou didst endure judgment, delivering the condemned; for as in Adam we died, so also all in Christ shall we live: "All ye works of the Lord, hymn the Lord, and supremely exalt Him!"
 
 *Troparion:* He again translated us from corruption unto incorruption; holding the power, having cast [the enemy] down into dark and lightless habitations, He shatters the malice of the strong one and spoils his house: "All ye works of the Lord, hymn the Lord, and supremely exalt Him!"
 
@@ -332,9 +304,7 @@ The ladder which Jacob saw, fixed unto the heights, was an image of thee who kne
 
 *Another Canon to the Most Holy Theotokos. Same Heirmos:*
 
-*Troparion:* With the light of thy childbirth, [thou didst strangely and timelessly illumine] the universe...
-
-...[thou didst strangely and] timelessly illumine [the universe], O Birthgiver thereof; for truly upon thine arms thou dost bear God Who ever enlightens those that faithfully cry: "All ye works of the Lord, hymn the Lord!"
+*Troparion:* With the light of thy childbirth, thou didst strangely and timelessly illumine the universe [p182LA] [the universe], O Birthgiver thereof; for truly upon thine arms thou dost bear God Who ever enlightens those that faithfully cry: "All ye works of the Lord, hymn the Lord!"
 
 *Troparion:* We ever piously praise thy womb which contained God ineffably incarnate, Who gave unto the faithful the radiant enlightenment of the knowledge of God, who ever cry: "All ye works of the Lord, hymn the Lord!"
 
@@ -348,9 +318,7 @@ The ladder which Jacob saw, fixed unto the heights, was an image of thee who kne
 
 *Theotokion:* We have thee as a calm haven, O Theotokos, unto which we flee when laboring in life, being delivered by thy prayer from the enemy's assaults, and we remain unharmed!
 
-*Another Canon of the Cross. Heirmos: Incorrupt...*[^201] Ye that ascribe suffering unto the Godhead, be ashamed, ye...
-
-...[fools];[^202] for [He is] God of glory, crucified in the flesh, yet not crucified in the essence of the Godhead, Whom in two natures we magnify!
+*Another Canon of the Cross. Heirmos: Incorrupt...*[^201] Ye that ascribe suffering unto the Godhead, be ashamed, ye [p183LA] [fools];[^202] for [He is] God of glory, crucified in the flesh, yet not crucified in the essence of the Godhead, Whom in two natures we magnify!
 
 *Troparion:* Ye who believe not in the resurrection of bodies, coming to the tomb of Christ, learn that the Giver of life, having become dead in the flesh, arose, for the assurance of the final resurrection, Whom we magnify!
 
@@ -372,7 +340,7 @@ The ladder which Jacob saw, fixed unto the heights, was an image of thee who kne
 
 *Sticheron 2:* Having beheld the Resurrection of Christ, let us worship the holy Lord Jesus, the only Sinless One!
 
-*Sticheron 3:* Unceasingly worshipping Christ's Resurrection, for He has saved us from our iniquities, Holy Lord Jesus, Who didst show forth the Resurrection!
+[p184LA] *Sticheron 3:* Unceasingly worshipping Christ's Resurrection, for He has saved us from our iniquities, Holy Lord Jesus, Who didst show forth the Resurrection!
 
 *Verse: What shall I render unto the Lord for all that He has rendered unto me?*
 
@@ -392,9 +360,7 @@ The ladder which Jacob saw, fixed unto the heights, was an image of thee who kne
 
 *Verse: I will give thanks unto Thee, O Lord, with my whole heart; I will speak of all Thy marvelous works.*
 
-*Sticheron 8:* Why did ye reject the Chief Cornerstone, O lawless Jews? Which God placed in Sion...
-
-...Who from the stone poured forth water in the wilderness, and for us poured forth immortality from His ribs? This is the Stone Which was cut out from the virginal mountain without hand of man: the Savior of man coming upon the clouds of heaven, the Ancient of Days, as Daniel said: His Kingdom is eternal![^206]
+*Sticheron 8:* Why did ye reject the Chief Cornerstone, O lawless Jews? Which God placed in Sion [p185LA] Who from the stone poured forth water in the wilderness, and for us poured forth immortality from His ribs? This is the Stone Which was cut out from the virginal mountain without hand of man: the Savior of man coming upon the clouds of heaven, the Ancient of Days, as Daniel said: His Kingdom is eternal![^206]
 
 *Evangelical Sticheron. Incipit: Having appeared...*
 
@@ -412,9 +378,7 @@ The ladder which Jacob saw, fixed unto the heights, was an image of thee who kne
 
 *Troparion 5:* In the tomb as dead Thou wast laid, O Life of all, O Christ, and didst shatter the gates of death, and didst rise in glory on the third day as mighty, and didst enlighten all: we cry aloud to worship Thy Resurrection on the third day!
 
-*Troparion 6:* The Lord, having risen on the third day from the dead, granted peace unto His disciples, and having blessed them, said: "Lead all unto...
-
-...My Kingdom!"
+*Troparion 6:* The Lord, having risen on the third day from the dead, granted peace unto His disciples, and having blessed them, said: "Lead all unto [p186LA] My Kingdom!"
 
 *Trinity Troparion:* Indivisible Trinity, one single Essence, thrice-radiant Substance: we worship Thee, O Father, Son, and Spirit, one Godhead and one Power, one consubstantial Trinity: "Remember me, O Lord, when [Thou comest into Thy Kingdom]!"
 
@@ -430,9 +394,7 @@ Brethren: The fruit of the Spirit is love, joy, patience, goodness, gentleness, 
 
 *Gospel according to Matthew [Matt. 11:27–30]:*
 
-The Lord said unto His disciples: "All things are delivered unto Me of My Father; and no man knows the Son, but the Father; neither does any man know the Father,...
-
-...save the Son, and he to whomsoever the Son will reveal Him. Come unto Me, all ye that labor and are heavy laden, and I will give you rest. Take My yoke upon you, and learn of Me; for I am gentle and lowly in heart, and ye shall find rest unto your souls. For My yoke is easy, and My burden is light."
+The Lord said unto His disciples: "All things are delivered unto Me of My Father; and no man knows the Son, but the Father; neither does any man know the Father, [p187LA] save the Son, and he to whomsoever the Son will reveal Him. Come unto Me, all ye that labor and are heavy laden, and I will give you rest. Take My yoke upon you, and learn of Me; for I am gentle and lowly in heart, and ye shall find rest unto your souls. For My yoke is easy, and My burden is light."
 
 ## SUNDAY EVENING VESPERS (TONE 7)
 
@@ -450,9 +412,7 @@ The Lord said unto His disciples: "All things are delivered unto Me of My Father
 
 *Sticheron 1:* A flaming fire Thine Angels, O Lord; Thou hast shown them forth unto us as fervent defenders, swift helpers, O Almighty Lord, glory to Thee!
 
-*Sticheron 2:* Save us, O Master, by the prayers of Thine Angels,...
-
-...washing away our stumbling-blocks, cleansing defiled sins, O Almighty: O Lord, glory to Thee!
+*Sticheron 2:* Save us, O Master, by the prayers of Thine Angels, [p188LA] washing away our stumbling-blocks, cleansing defiled sins, O Almighty: O Lord, glory to Thee!
 
 *Sticheron 3:* Seraphim and Cherubim, Angels, Principalities, Dominions, singing with the brightness of all Angels, with Authorities: O Lord, glory to Thee!
 

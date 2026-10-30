@@ -8,7 +8,7 @@
 
 *All-Holy Trinity. After "Our Father...":*
 
-**Priest:** **For Thine is the Kingdom...**
+> **Priest:** **For Thine is the Kingdom...**
 
 *"Come, let us worship..." (thrice). Then Psalm 26:*[^1681]
 
@@ -32,13 +32,13 @@ The Lord is my illumination and my Savior; whom shall I fear? The Lord is the de
 
 *Then the hegumen says this prayer:*[^1688]
 
-**Deacon:** **Let us pray to the Lord.**
+> **Deacon:** **Let us pray to the Lord.**
 
 **Hegumen:** **We give thanks unto Thee, O Lord our God, Who according to Thy great mercy hast delivered Thy servant, [Name], from vain worldly life, and hast called him unto this honorable profession: vouchsafe him, therefore, to live worthily in this angelic life; and preserve him from the snares of the devil; and keep his soul and body pure unto death; and vouchsafe him to be a temple of Thy Holy Spirit; instructing him to remember Thee always, and Thy commandments; grant him humility, and love, and meekness: through the prayers of our all-pure Lady, the Mother of God and Ever-Virgin Mary, and of all Thy saints. Amen.**[^1689]
 
 *The second prayer:*[^1690]
 
-**Deacon:** **Let us pray to the Lord.**
+> **Deacon:** **Let us pray to the Lord.**
 
 **Hegumen:** **Into Thy saving yoke receive, O Master, Thy servant, [Name], and number him in the flock of Thine elect. Clothe him in the robe of sanctification; gird his loins with chastity; show him forth as a striver in all self-control, perfecting in him and in us the gift of Thy spiritual gifts: through the prayers of our all-pure Lady, the Mother of God and Ever-Virgin Mary, and of all Thy saints. Amen.**[^1691]
 
@@ -56,15 +56,15 @@ The Lord is my illumination and my Savior; whom shall I fear? The Lord is the de
 
 *Dismissal Prayer:*[^1695]
 
-**Deacon:** **Let us pray to the Lord.**
+> **Deacon:** **Let us pray to the Lord.**
 
 **Hegumen:** **O Holy, Good Son of the Good Father, Who cuttest off pride, and bringest to naught the root of the adversary, and pourest out the glory of humble-mindedness upon the head of the saints, and crownest them with the unfading and incorruptible crown of life and immortality, and guidest into the narrow** way wherein the holy fathers entered, and received the place of resting itself: do Thou Thyself, O Master, Lord our God, grant the power that is from Thee, and the grace of Thy Divinity, into the spirit, and soul, and body of our brother, [Name], who has come unto Thee, having received the beginning of the holy habit; in Thy Name, which sanctifies all things, grant Thou Thyself to sanctify him by Thy name, all-powerful and good.[^1696]
 
 *Exclamation:*
 
-**Priest:** **For holy art Thou, O our God, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages.**
+> **Priest:** **For holy art Thou, O our God, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages.**
 
-**Choir:** **Amen.**
+> **Choir:** **Amen.**
 
 [Woodcut tailpiece: Renaissance floral ornament with foliage and blossoms] [Woodcut headpiece: Renaissance foliate strapwork cartouche featuring two acanthus-handled flower vases]
 

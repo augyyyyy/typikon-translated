@@ -30,7 +30,7 @@ and immediately there came out blood and water; and he that saw it bore witness,
 **Deacon:** "Bless, Master, the holy union."[^66]
 *Holding in his hand the wine together with water united in a vessel, he pours it into the holy chalice. And the priest blesses it crosswise.*[^67]
 
-[Woodcut Diagram: The First Diskos (ПЕРВЫИ ДІСКОС)][^68]
+(*Woodcut Diagram: The First Diskos (ПЕРВЫИ ДІСКОС)*)[^68]
 *(Depicting the Holy Lamb in the center inscribed "IC XC NI KA"; to the left, the particle of the Theotokos; to the right, the nine ranks of saints in three rows of three; below, particles for the living and the dead).*
 
 **[Right Page — Fol. 13r (p. 44)]**
@@ -45,7 +45,7 @@ and immediately there came out blood and water; and he that saw it bore witness,
 
 *Proskomedia.*
 
-[Woodcut Diagram: The Second Diskos (ВТОРЫИ ДІСКОС)][^70]
+(*Woodcut Diagram: The Second Diskos (ВТОРЫИ ДІСКОС)*)[^70]
 *(Printed in cinnabar ink. Depicting the Holy Lamb in the center inscribed "IC XC NI KA"; to the right, the particle of the Theotokos and below her the nine ranks of saints in three rows of three; below the Lamb, two rows of particles: the living marked "Zh" and the dead marked "M").*
 
 *According to this depiction of this holy diskos shalt thou place them:*[^71] *for, behold, the particle of the most holy Theotokos place thou on the right side of the Holy Bread, from the middle of the portion of the Holy Bread; and the particles of the holy nine ranks, from that same*

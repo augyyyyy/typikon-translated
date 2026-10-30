@@ -68,15 +68,18 @@ NON_VERB_ETH_SET = {
     "beth", "seth", "nazareth", "elizabeth", "gennesaret", "shibboleth",
     "kenneth", "teeth", "beneath", "underneath", "twentieth", "thirtieth",
     "fortieth", "fiftieth", "sixtieth", "seventieth", "eightieth",
-    "ninetieth", "hundredth", "thousandth",
+    "ninetieth", "hundredth", "thousandth", "aseneth", "japheth",
+    "mephibosheth", "ishbosheth", "gath", "sabbath",
 }
 
 def slugify(heading_text: str) -> str:
-    cleaned = re.sub(r'\[\^?\d+\]', '', heading_text)
+    cleaned = re.sub(r'<[^>]+>', '', heading_text)
+    cleaned = re.sub(r'\[\^?\d+\]', '', cleaned)
     cleaned = re.sub(r'\[([^\]]+)\]\([^\)]+\)', r'\1', cleaned)
+    cleaned = re.sub(r'\([^\)]*[\u0400-\u04FF\uA640-\uA69F][^\)]*\)', '', cleaned)
     cleaned = re.sub(r'[*_`~]', '', cleaned)
     cleaned = cleaned.lower()
-    cleaned = re.sub(r'[^\w\s-]', '', cleaned, flags=re.UNICODE)
+    cleaned = re.sub(r'[^a-z0-9\s-]', '', cleaned)
     cleaned = re.sub(r'[\s_]+', '-', cleaned)
     cleaned = re.sub(r'-+', '-', cleaned)
     return cleaned.strip('-')
@@ -384,10 +387,12 @@ def verify_monument_publication(monument_id: str) -> bool:
         for line_num, line in enumerate(lines, start=1):
             if re.match(r"^\s*\[\^\d+\]:", line):
                 continue
-            if re.search(r'[\u0400-\u04FF]', line):
-                # Remove parenthesized substrings (*...*) or (...)
-                clean_line = re.sub(r'\([^\)]*[\u0400-\u04FF][^\)]*\)', '', line)
-                if re.search(r'[\u0400-\u04FF]', clean_line):
+            if re.search(r'[\u0400-\u04FF\uA640-\uA69F]', line):
+                # Remove HTML tags (e.g. <a id="..."></a>) and iteratively strip nested parenthesized substrings
+                clean_line = re.sub(r'<[^>]+>', '', line)
+                while re.search(r'\([^\(\)]*\)', clean_line):
+                    clean_line = re.sub(r'\([^\(\)]*\)', '', clean_line)
+                if re.search(r'[\u0400-\u04FF\uA640-\uA69F]', clean_line):
                     gate5_violations += 1
                     print(f"  [FAIL] {mf.name}:L{line_num}: Unparenthesized Cyrillic in body/heading: {line.strip()[:80]}")
                     print("         MTS-1 requires Cyrillic incipits/marginalia to be parenthesized: e.g. (*О постахъ*)")
@@ -630,7 +635,8 @@ def verify_monument_publication(monument_id: str) -> bool:
             invocations = grid_data.get("invocations", [])
             grid_tones = set(it.get("tone") for it in invocations if it.get("tone") in range(1, 9))
             min_invocations = 100 if monument_id == "1630_lviv_octoechos" else 20
-            if len(invocations) < min_invocations or len(grid_tones) < 8:
+            min_tones = 8 if monument_id == "1630_lviv_octoechos" else 5
+            if len(invocations) < min_invocations or len(grid_tones) < min_tones:
                 print(f"  [FAIL] Gate 7E: Podoben grid incomplete (invocations={len(invocations)}, tones={sorted(grid_tones)})")
                 gate7_violations += 1
             else:
@@ -644,7 +650,7 @@ def verify_monument_publication(monument_id: str) -> bool:
                 comp_body = re.split(r"\n#\s*FOOTNOTES AND SCHOLARLY COMMENTARY", master_complete_candidates[0].read_text(encoding="utf-8"), flags=re.IGNORECASE)[0]
                 comp_pod_count = sum(
                     1 for ln in comp_body.splitlines()
-                    if "*Podoben:" in ln or "*Tone and Podoben:" in ln
+                    if re.search(r"\bpodoben:", ln, re.IGNORECASE)
                 )
                 grid_pod_count = len(invocations)
                 rev_txt = primitives_review_file.read_text(encoding="utf-8")

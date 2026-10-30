@@ -34,7 +34,7 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = SCRIPT_DIR.parent
 REGISTRY_FILE = PROJECT_ROOT / "Liturgical Monuments" / "codex_registry.json"
 STATE_FILE = PROJECT_ROOT / "Liturgical Monuments" / "ACTIVE_ORCHESTRATOR_STATE.json"
-from orchestrator_state import load_state
+from orchestrator_state import load_state, resolve_monument_id
 
 def get_hub_inbox(monument_name: str) -> Path:
     # Ecosystem Projects root is parent of Translation
@@ -364,12 +364,13 @@ All files have passed the Small Pause Gatekeeper Suite (vocabulary linting, 100%
 
 def main():
     parser = argparse.ArgumentParser(description="Universal Ingestion, Master Assembler & Hub Sync Engine")
-    parser.add_argument("--monument", default="1891_lviv_synod", help="Monument ID")
+    parser.add_argument("--monument", default=None, help="Monument ID")
     parser.add_argument("--cohort", type=int, required=True, help="Cohort number to ingest")
 
     args = parser.parse_args()
     try:
-        sys.exit(ingest_and_sync(args.monument, args.cohort))
+        resolved_mon = resolve_monument_id(args.monument)
+        sys.exit(ingest_and_sync(resolved_mon, args.cohort))
     except Exception as e:
         print(f"ERROR: {e}", file=sys.stderr)
         sys.exit(1)

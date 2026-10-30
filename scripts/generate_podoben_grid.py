@@ -125,7 +125,9 @@ def extract_podoben_grid_data(monument_id: str = "1630_lviv_octoechos") -> Tuple
     for sf in sorted(source_dir.glob("*source.txt"), key=lambda p: int(re.search(r"cohort(\d+)", p.name).group(1)) if re.search(r"cohort(\d+)", p.name) else 0):
         source_leaves.update(parse_by_leaf(sf.read_text(encoding="utf-8-sig")))
 
-    lines = comp_file.read_text(encoding="utf-8-sig").splitlines()
+    comp_text = comp_file.read_text(encoding="utf-8-sig")
+    comp_body = re.split(r"\n#\s*FOOTNOTES AND SCHOLARLY COMMENTARY", comp_text, flags=re.IGNORECASE)[0]
+    lines = comp_body.splitlines()
 
     invocations: List[Dict[str, Any]] = []
     curr_tone = 1
@@ -180,7 +182,7 @@ def extract_podoben_grid_data(monument_id: str = "1630_lviv_octoechos") -> Tuple
             continue
 
         # Check Podoben rubric
-        if "*Podoben:" in ln or "*Tone and Podoben:" in ln:
+        if re.search(r"\bpodoben:", ln, re.IGNORECASE):
             # Extract governed hymn opening from next non-empty line
             governed_hymn = ""
             for look in range(idx + 1, min(idx + 5, len(lines))):

@@ -2,7 +2,7 @@
 
 ## SATURDAY EVENING: VESPERS (TONE 3)
 
-*On Saturday evening, Resurrection Stichera, Tone 3, automela:[^69]*
+[p60LA] *On Saturday evening, Resurrection Stichera, Tone 3, automela:[^69]*
 
 *Sticheron:* By Thy Cross, O Christ Savior, the dominion of death was destroyed, and the deception of the devil was abolished; and the human race, saved by faith, ever offers a hymn unto Thee.
 
@@ -18,9 +18,7 @@
 
 *Sticheron:* Descending unto them that were in Hades, Christ proclaimed the glad tidings, saying with boldness: "Be of good courage, now have I conquered! I am the Resurrection, I will bring you forth, having destroyed the gates of death!"
 
-*Sticheron:* Standing unworthily in Thy most pure house, we send up an evening hymn, crying out from the depths: O Christ God, Who hast enlightened the world by Thy Resurrection...
-
-[deliver Thy people from the hand of Thine enemies, O Lover of mankind!]
+*Sticheron:* Standing unworthily in Thy most pure house, we send up an evening hymn, crying out from the depths: O Christ God, Who hast enlightened the world by Thy Resurrection [p61LA] [deliver Thy people from the hand of Thine enemies, O Lover of mankind!]
 
 *Sing once; repeat; Glory... Both now... Theotokion (Dogmatikon), Tone 3:[^70]*
 
@@ -34,9 +32,7 @@ How shall we not marvel at thy theandric giving birth, O all-pure one? For witho
 
 *Sticheron:* Being God changeless, Thou wast changed by suffering in the flesh; and creation, unable to bear seeing Thee hanging upon the Cross, bowed down in fear, and groaning, praised Thy long-suffering; and having descended into Hades, Thou didst rise on the third day, granting life unto the world and great mercy.
 
-*Sticheron:* That Thou mightest deliver our race from death, O Christ, Thou didst endure death; and having become the first-born
-
-from the dead, Thou didst raise with Thyself them that have acknowledged Thee as God; and Thou hast enlightened us: O Lord, glory to Thee!
+*Sticheron:* That Thou mightest deliver our race from death, O Christ, Thou didst endure death; and having become the first-born [p62LA] from the dead, Thou didst raise with Thyself them that have acknowledged Thee as God; and Thou hast enlightened us: O Lord, glory to Thee!
 
 *Glory... Both now... Theotokion:* Without seed, from the Holy Spirit, by the will of the Father, thou didst conceive the Son of God, Who was before all ages from the Father without mother; and for our sake, having come from thee without father, thou didst bear Him in the flesh and feed Him as an infant with milk; therefore pray without ceasing, that our souls may be delivered from dangers.
 
@@ -50,9 +46,7 @@ from the dead, Thou didst raise with Thyself them that have acknowledged Thee as
 
 *Troparion:* Incomprehensible sole Sovereign Dominion, unoriginate, eternal, all-seeing God: make us worthy of the thrice-radiant shining of Thy glory, that angels and men may now magnify Thee and unceasingly hymn Thee with thrice-holy songs from angelic mouths.
 
-*Troparion:* Sacredly the ranks of bodiless powers hymn Thee as creative and authorial cause, O thrice-radiant Unity and most luminous Light; with them in harmony sing
-
-the assemblies of mankind, and faithfully glorify Thee with faithful mouths.
+*Troparion:* Sacredly the ranks of bodiless powers hymn Thee as creative and authorial cause, O thrice-radiant Unity and most luminous Light; with them in harmony sing [p63LA] the assemblies of mankind, and faithfully glorify Thee with faithful mouths.
 
 *Troparion:* Mind, Word, and Spirit: the theologians mystically depict in personal images the passionless generation, knowing the Word to be co-unoriginate from the unbegotten Father, the divine sole origin of all things, together with the divine procession of the Spirit.
 
@@ -72,7 +66,7 @@ He Who of old commanded the universe to be established from non-being, having in
 
 *Podoben: "Beholding the beauty of thy virginity" (Красотѣ̀ дѣ́вства твоегѡ̀):* [^74]
 
-those who glorify Thy dominion, as Thou alone art merciful, knowing the weakness of our heart.
+[p64LA] those who glorify Thy dominion, as Thou alone art merciful, knowing the weakness of our heart.
 
 *Twice. Glory... Both now... Theotokion:* The incomprehensible, uncircumscribed, and consubstantial Word of the invisible Father, thou didst mystically contain within thy womb; through thy birthgiving we have known how to glorify in the world the one and undivided Godhead of the Trinity; therefore with thanksgiving we cry unto thee: Rejoice, full of grace, the Lord is with thee!
 
@@ -90,7 +84,7 @@ those who glorify Thy dominion, as Thou alone art merciful, knowing the weakness
 
 As Isaiah saw typologically God upon a throne high and lifted up, receiving gifts of glory from angels, "O wretched me!" he cried aloud: "I have foreseen God becoming incarnate, the unwaning Light, ruling over the world!"
 
-*Troparion:* Isaiah saw in unison the Sovereign Origin, God glorified in three persons by the most pure voices of the seraphim; and he was sent to proclaim the true thrice-radiant essence, the three-personal unity.
+[p65LA] *Troparion:* Isaiah saw in unison the Sovereign Origin, God glorified in three persons by the most pure voices of the seraphim; and he was sent to proclaim the true thrice-radiant essence, the three-personal unity.
 
 *Troparion:* Thou Who before didst bring forth from non-being all visible and invisible nature, O thrice-sunned Trinity: hymning Thee as the one God, deliver the faithful from every temptation, and make us worthy of Thy glory!
 
@@ -104,9 +98,7 @@ As Isaiah saw typologically God upon a throne high and lifted up, receiving gift
 
 *Troparion:* Unto the Father, and the Son, and the divine Spirit we the faithful bow down, unto the uncreated Trinity in three persons; and in one Godhead ever without beginning, in three hypostases, we faithfully glorify.
 
-*Theotokion:* Thou hast opened the gates unto the Light Who was born of thy womb, that seeing the all-radiant
-
-ray of the Godhead, all may glorify thee, the all-hymned Lady.
+*Theotokion:* Thou hast opened the gates unto the Light Who was born of thy womb, that seeing the all-radiant [p66LA] ray of the Godhead, all may glorify thee, the all-hymned Lady.
 
 *Sessional Hymn, Tone 3 (sung twice):[^77]* When Thou comest, O God, upon earth to judge all, have compassion, as Thou art merciful, upon those whom Thou didst fashion from earth after Thine own image, and deliver all from righteous condemnation, and send us not into the fire of Gehenna, for Thou alone art Christ, the only merciful One.
 
@@ -122,9 +114,7 @@ ray of the Godhead, all may glorify thee, the all-hymned Lady.
 
 *Ode 8. Heirmos: Incomparably...*
 
-*Troparion:* From the unoriginate Father as from a root, the Word and the Spirit, being co-unoriginate, having appeared as the sproutings of the supersubstantial divine Origin, reveal the Trinity: one glory and power,
-
-which we hymn and glorify unto all ages.
+*Troparion:* From the unoriginate Father as from a root, the Word and the Spirit, being co-unoriginate, having appeared as the sproutings of the supersubstantial divine Origin, reveal the Trinity: one glory and power, [p67LA] which we hymn and glorify unto all ages.
 
 *Troparion:* Thou dost order by Thine unfeared commands the heavenly ranks to hymn Thee unceasingly with thrice-holy divine songs, O Father, Word of like image, and Spirit, thrice-radiant sole dominion of power: with them we hymn Thee unto all ages.
 
@@ -138,7 +128,7 @@ which we hymn and glorify unto all ages.
 
 *Troparion:* Having proclaimed to the world the Trinity, one in essence in three hypostases, and having driven away the deception of polytheism from the earth, having taught men to glorify without deception the Trinity...
 
-*Theotokion:* Show me to be a temple of the divine light-vision of the divine Origin, and to serve purely the Creator of all, a noetic beholder of ineffable glory, by the prayers of the Mother of the Only-begotten, whom we worthily ever magnify.
+[p68LA] *Theotokion:* Show me to be a temple of the divine light-vision of the divine Origin, and to serve purely the Creator of all, a noetic beholder of ineffable glory, by the prayers of the Mother of the Only-begotten, whom we worthily ever magnify.
 
 *Rubric:* Then: *It is truly meet...* and the rest, as indicated in Tone 1, after the Canon.[^79]
 
@@ -150,7 +140,7 @@ which we hymn and glorify unto all ages.
 
 *After the second Kathisma, Sessional Hymn, Tone 3:* Having tasted death in the flesh, O Lord, Thou didst cut short the bitterness of death by Thy Resurrection; Thou didst strengthen man again by victory over the first curse:
 
-O Defender, Christ God, glory to Thee!
+[p69LA] O Defender, Christ God, glory to Thee!
 
 *Twice. Glory... Both now... Theotokion:*
 
@@ -174,9 +164,7 @@ O Defender, Christ God, glory to Thee!
 
 *Sticheron:* Through the Spirit the fruit of the womb is fashioned by the mercy of the saints, as they are holy fathers at all times.
 
-*Glory... Both now... Unto the Holy Spirit:* By the Holy Spirit every holiness and wisdom is foreseen; for He enriches
-
-every creature: let us serve Him, for He is God, even as the Father and the Word.
+*Glory... Both now... Unto the Holy Spirit:* By the Holy Spirit every holiness and wisdom is foreseen; for He enriches [p70LA] every creature: let us serve Him, for He is God, even as the Father and the Word.
 
 *Antiphon 3:[^81]*
 
@@ -206,9 +194,7 @@ He Who of old by divine beckoning gathered the waters into one gathering, and di
 
 *Troparion:* Having condemned the earth to bring forth thorns unto the transgressor in sweat, this our God in the flesh received a crown of thorns from the hand of lawless men; and having dissolved the curse, He glorified it.
 
-*Troparion:* A Victor over death by overcoming, He Who appeared overcome by death; for having accepted the passion of an animate flesh, this our God...
-
-[He grappled with the tyrant, and] raised all: for He is glorified![^82]
+*Troparion:* A Victor over death by overcoming, He Who appeared overcome by death; for having accepted the passion of an animate flesh, this our God [p71LA] [He grappled with the tyrant, and] raised all: for He is glorified![^82]
 
 *Glory... Both now... Theotokion:*
 
@@ -234,7 +220,7 @@ Every nature bends the knee, O immaculate Lady, unto Him Who was incarnate of th
 
 *Ode 3. Heirmos: He Who brought all things out of nothing...*
 
-...fashioned by the Word, and perfected by the Spirit, O Almighty Most High: establish us in Thy love![^83]
+[p72LA] ...fashioned by the Word, and perfected by the Spirit, O Almighty Most High: establish us in Thy love![^83]
 
 *Troparion:* By meekness the impious one was put to shame, when he fell into the pit that he had made; and by Thy Resurrection, O Christ, Thou hast exalted the horn of the humble.
 
@@ -262,9 +248,7 @@ May thy pure prayer be our confirmation and consolation, O undefiled and pure Vi
 
 *Glory... Both now... Theotokion:*
 
-Thou didst bear the Divine Word beyond speech, Who has loosed the irrationality of man: entreat Him diligently, that I who am enslaved to irrational...
-
-...passions may be set free, O only Ever-Virgin![^84]
+Thou didst bear the Divine Word beyond speech, Who has loosed the irrationality of man: entreat Him diligently, that I who am enslaved to irrational [p73LA] passions may be set free, O only Ever-Virgin![^84]
 
 *Ode 4. Heirmos:*
 
@@ -290,9 +274,7 @@ The Most High was incarnate from thy pure blood: beholding Him unrighteously exa
 
 *Another Canon, to the Birthgiver of God. Ode 4. Heirmos: The same (He Who set the mountains in the scales):*
 
-...by the measure...
-
-...of divine wisdom, Thou, the Stone cut without hands from the Virgin: Glory to Thy power, O Lover of mankind![^85]
+...by the measure [p74LA] of divine wisdom, Thou, the Stone cut without hands from the Virgin: Glory to Thy power, O Lover of mankind![^85]
 
 *Troparion:* Thou hast healed our diseased nature, O Master, by the most swift uniting from the Virgin, O Son and Word, through Thy precious Godhead!
 
@@ -316,7 +298,7 @@ Holy Tabernacle broader than all creation, for thou didst receive within thee th
 
 *Troparion:* Equal to the Father in essence, O Savior, Thou didst raise up the sanctified temple of Thy assumed and all-pure body from the dead, O Lover of mankind!
 
-*Glory... Both now... Theotokion:*
+[p75LA] *Glory... Both now... Theotokion:*
 
 Corrupted before through transgression, our nature, having incorruptibly borne Christ, thou hast renewed, O most pure Lady, Protectress of our souls![^86]
 
@@ -344,9 +326,7 @@ O most pure one, who alone beyond understanding didst mediate between the Creato
 
 *Another Canon, to the Cross. Ode 6. Heirmos: Lead up from corruption...*
 
-*Troparion:* Who didst endure crucifixion and death, and didst rise on the third day from the tomb: humble the arrogance of the adversary...
-
-...and guide my life, O Merciful One![^87]
+*Troparion:* Who didst endure crucifixion and death, and didst rise on the third day from the tomb: humble the arrogance of the adversary [p76LA] and guide my life, O Merciful One![^87]
 
 *Troparion:* Exalting me who had fallen, O Christ Lover of mankind, Thou Who didst rise from the dead on the third day: revive me who am afflicted and grievously corrupted, and direct my life, O Lord Merciful!
 
@@ -370,9 +350,7 @@ Even as of old Thou didst bedew the three pious children in the Chaldean furnace
 
 *Troparion:* The radiant veil of the temple was rent at the crucifixion of the Creator, revealing the hidden scripture in truth unto the faithful who cry: Blessed art Thou, O God of our fathers!
 
-*Troparion:* From Thy pierced side, drops of life-creating blood pouring forth by Thy dispensation upon the earth, Thou hast renewed those upon the earth...
-
-...who cry: Blessed art Thou, O God of our fathers![^88]
+*Troparion:* From Thy pierced side, drops of life-creating blood pouring forth by Thy dispensation upon the earth, Thou hast renewed those upon the earth [p77LA] who cry: Blessed art Thou, O God of our fathers![^88]
 
 *Troparion (Trinity):*
 
@@ -396,9 +374,7 @@ As many of the faithful as have learned to honor the one undivided Godhead in th
 
 *Glory... Both now... Theotokion:*
 
-We all know thee to be the Birthgiver of God, who didst bear God, One of the Trinity incarnate: blessed, O most pure one, is the fruit...
-
-...of thy womb![^89]
+We all know thee to be the Birthgiver of God, who didst bear God, One of the Trinity incarnate: blessed, O most pure one, is the fruit [p78LA] of thy womb![^89]
 
 *Ode 8. Heirmos:*
 
@@ -424,7 +400,7 @@ Behold, the pure Virgin conceives in her womb, as the radiant Isaiah foretold, s
 
 *Another Canon, to the Birthgiver of God. Ode 8. Heirmos: The same.*
 
-*Troparion:* As Mother, thou hast surpassed the noetic ranks, and having drawn near unto God: We bless thy childbearing, O blessed Virgin, and highly exalt it![^90]
+[p79LA] *Troparion:* As Mother, thou hast surpassed the noetic ranks, and having drawn near unto God: We bless thy childbearing, O blessed Virgin, and highly exalt it![^90]
 
 *Troparion:* Sacred voices of the God-inspired heralds from afar glorify thee as Mother of God and Virgin, through whom being deified we sing and highly exalt the Pure One unto the age!
 
@@ -442,9 +418,7 @@ A new and God-befitting wonder: through the shut virginal gate manifestly enters
 
 *Glory... Both now... Theotokion:*
 
-O pure receptacle of Light...
-
-...God, Who was ineffably and changelessly incarnate of thee, having lifted up Adam's nature upon the Cross, became the first-born from the dead; and remaining God in the highest, together with the Father and the Divine Spirit, is glorified![^91]
+O pure receptacle of Light [p80LA] God, Who was ineffably and changelessly incarnate of thee, having lifted up Adam's nature upon the Cross, became the first-born from the dead; and remaining God in the highest, together with the Father and the Divine Spirit, is glorified![^91]
 
 *Another Canon, to the Cross. Ode 9. Heirmos: In the bush with fire...*
 
@@ -462,7 +436,7 @@ Though bound in body and afflicted, I pray thee, loose me by thy kindness, not r
 
 *Troparion:* Thou hast given us as unashamed intercessor her that bore Thee, O Christ: through her prayers Thou grantest mercy unto us, the Spirit, the Giver of grace, Who proceeds from the Father through Thee.
 
-*Troparion:* Finding thee fair in soul, fair in thoughts, and fair in body, the Fair One was incarnate from thy virginal flanks, as He knew, adorning that which was formless, O Virgin: Whom pray thou to save us![^92]
+[p81LA] *Troparion:* Finding thee fair in soul, fair in thoughts, and fair in body, the Fair One was incarnate from thy virginal flanks, as He knew, adorning that which was formless, O Virgin: Whom pray thou to save us![^92]
 
 *Then the Exapostilarion: Evangelical Resurrection [Exapostilarion].*
 
@@ -478,9 +452,7 @@ Though bound in body and afflicted, I pray thee, loose me by thy kindness, not r
 
 *Other Stichera, Anatolian:*
 
-*Sticheron:* The myrrh-bearing women brought morning song with tears, O Lord: having sweet spices for a fragrance, unto Thy tomb...
-
-...they came, seeking eagerly to anoint Thy most pure body. But the angel sitting upon the stone proclaimed good tidings unto them: Why seek ye the Living among the dead? For having trampled down death, He is risen as God, granting great mercy unto all the faithful![^93]
+*Sticheron:* The myrrh-bearing women brought morning song with tears, O Lord: having sweet spices for a fragrance, unto Thy tomb [p82LA] they came, seeking eagerly to anoint Thy most pure body. But the angel sitting upon the stone proclaimed good tidings unto them: Why seek ye the Living among the dead? For having trampled down death, He is risen as God, granting great mercy unto all the faithful![^93]
 
 *Sticheron:* Having come unto Thy tomb on the first day of the week, Mary Magdalene, not finding Thy body, cried out weeping with lamentation: Woe is me, my Savior! How has the King of all been stolen? But the pair of light-bearing angels within the tomb cried out: Why weepest thou, O woman? I weep, she said, because they have taken away my Lord from the tomb, and I know not where they have laid Him. And turning back, when she saw Thee, she straightway cried out: My Lord and my God, glory to Thee!
 
@@ -494,7 +466,7 @@ Though bound in body and afflicted, I pray thee, loose me by thy kindness, not r
 
 *Glory... The Evangelical Sticheron.*
 
-*On Sunday, at the Liturgy, the Beatitudes, Tone 3:*
+[p83LA] *On Sunday, at the Liturgy, the Beatitudes, Tone 3:*
 
 *Troparion:* When forefather Adam rejected Thy commandment, O Christ, Thou didst drive him out of Paradise; but when the thief, O Compassionate One, confessed Thee upon the Cross, Thou didst establish him therein, crying: Remember me, O Savior, in Thy Kingdom![^94]
 
@@ -508,9 +480,7 @@ Though bound in body and afflicted, I pray thee, loose me by thy kindness, not r
 
 *Troparion:* Thou didst first appear unto the myrrh-bearing women when Thou hadst risen from the dead, O Savior, crying aloud: Rejoice! And through them announcing Thine arising unto Thy friends, O Christ; therefore with faith we cry: Remember us, O Lord, in Thy Kingdom!
 
-*Troparion:* Unto the Father, and the Son, and the Holy Divine Spirit do we the faithful bow down, unto the uncreated Trinity, and in three Persons, one Godhead forever; with the bodiless...
-
-...hosts, we faithfully glorify the Godhead in three Hypostases![^95]
+*Troparion:* Unto the Father, and the Son, and the Holy Divine Spirit do we the faithful bow down, unto the uncreated Trinity, and in three Persons, one Godhead forever; with the bodiless [p84LA] hosts, we faithfully glorify the Godhead in three Hypostases![^95]
 
 *Both now... Theotokion:* Rejoice, heavenly gate, through which the incarnate Creator passed, preserving thee sealed; rejoice, light cloud, bearing the divine rain, Christ; rejoice, throne and heavenly ladder; rejoice, mountain unhewn!
 
@@ -520,9 +490,7 @@ Though bound in body and afflicted, I pray thee, loose me by thy kindness, not r
 
 *Epistle for the 3rd Sunday, to the Romans:*
 
-Brethren: Glory and honor and peace unto everyone that works good, to the Jew first, and also to the Greek; for there is no respect of persons with God. For as many as have sinned without law shall also perish without law; for not the hearers of the law are just before God, but the doers of the law shall be justified, in tribulations; knowing that tribulation produces patience, and patience experience, and experience hope; and hope puts not to shame, because the love of God is shed abroad in your hearts by the Holy Spirit Who is given unto us. For when we were yet without strength, in due time Christ died for the ungodly. For scarcely for a righteous man will one die; yet perhaps for a good man someone would even dare to die. But God commends His love toward us, in that, while we were yet sinners, Christ died for us. Much more then, being now justified by His blood, we shall be saved from wrath through Him. For if, when we were enemies, we were reconciled to God by the death of His Son, much more, being reconciled, we shall be saved in His...
-
-...life![^96]
+Brethren: Glory and honor and peace unto everyone that works good, to the Jew first, and also to the Greek; for there is no respect of persons with God. For as many as have sinned without law shall also perish without law; for not the hearers of the law are just before God, but the doers of the law shall be justified, in tribulations; knowing that tribulation produces patience, and patience experience, and experience hope; and hope puts not to shame, because the love of God is shed abroad in your hearts by the Holy Spirit Who is given unto us. For when we were yet without strength, in due time Christ died for the ungodly. For scarcely for a righteous man will one die; yet perhaps for a good man someone would even dare to die. But God commends His love toward us, in that, while we were yet sinners, Christ died for us. Much more then, being now justified by His blood, we shall be saved from wrath through Him. For if, when we were enemies, we were reconciled to God by the death of His Son, much more, being reconciled, we shall be saved in His [p85LA] life![^96]
 
 *Alleluia: In Thee, O Lord, have I put my hope...*
 
@@ -538,9 +506,7 @@ At that time, when Jesus entered Capernaum, a centurion approached Him, entreati
 
 *On Sunday evening, Penitential Stichera, Tone 3, without [the Stichera to] the Cross:*
 
-*Sticheron:* Greatly sinning against Thee and grieving Thee, the good Master and merciful Nature, Who receivest them that turn from evil: make me, who foolishly transgressed, as one of Thy harlots...
-
-...I have spent my life in negligence, and have drawn near unto the end, wretch that I am; and I consider not the impending judgment; but having turned me back from my fall, O Savior, rescue me from the snares![^97]
+*Sticheron:* Greatly sinning against Thee and grieving Thee, the good Master and merciful Nature, Who receivest them that turn from evil: make me, who foolishly transgressed, as one of Thy harlots [p86LA] I have spent my life in negligence, and have drawn near unto the end, wretch that I am; and I consider not the impending judgment; but having turned me back from my fall, O Savior, rescue me from the snares![^97]
 
 *Sticheron:* Deliver my afflicted soul, O Lord, from the tomb and the gnashing of teeth, and from every other prepared torment, O Most Good One, that in faith I may sing of Thee, the merciful God and Lover of mankind by nature!
 
@@ -558,9 +524,7 @@ At that time, when Jesus entered Capernaum, a centurion approached Him, entreati
 
 *Sticheron:* To offer a faithful hymn as incense unto Thee, O Christ, and with good spiritual songs: have mercy, and save our souls!
 
-*Sticheron:* Save me, O Lord my God, for Thou art the salvation of all: the storm of passions troubles me, and the burden of iniquities sinks me to the deep...
-
-...give me a helping hand, and lead me up unto the light of compunction, as the only Compassionate One and Lover of mankind![^98]
+*Sticheron:* Save me, O Lord my God, for Thou art the salvation of all: the storm of passions troubles me, and the burden of iniquities sinks me to the deep [p87LA] give me a helping hand, and lead me up unto the light of compunction, as the only Compassionate One and Lover of mankind![^98]
 
 *To the Martyrs:* Great is the power of Thy Cross: for it was set up in one place, yet it operates in all the world; and from fishermen it showed forth Apostles, and from the Gentiles Martyrs, that they may pray for our souls!
 

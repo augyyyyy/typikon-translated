@@ -1,0 +1,49 @@
+{
+  "monument_id": "1640_kyiv_triodion",
+  "title": "Kyiv-Pechersk Lenten Triodion (Petro Mohyla, Kyiv, 1640)",
+  "monument_type": "lenten_triodion",
+  "genre_register": "hymnographic",
+  "retrospective_timestamp": "2026-10-30T21:19:12.924160+00:00",
+  "codicological_profile": {
+    "total_physical_leaves": 896,
+    "cohort_count": 90,
+    "default_cohort_size": 10,
+    "monument_type": "lenten_triodion"
+  },
+  "subagent_execution_telemetry": {
+    "total_cohorts_dispatched": 90,
+    "worker_model": "flash",
+    "cohorts_passing_gate_100pct": 90,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 0.986,
+      "median_cohort_ratio": 1.245,
+      "max_cohort_median": 1.501
+    }
+  },
+  "argon_review_queue_telemetry": {
+    "total_items_recorded": 257,
+    "resolved_by_argon": 0,
+    "info_telemetry_only": 0,
+    "unresolved_quarantines": 0,
+    "codicological_crux_count": 0
+  },
+  "final_publication_verification": {
+    "parts_count": 5,
+    "parts": [
+      "1640_kyiv_triodion_part0_front_matter.md",
+      "1640_kyiv_triodion_part1_pre_lenten.md",
+      "1640_kyiv_triodion_part2_great_forty_days.md",
+      "1640_kyiv_triodion_part3_octoechos_appendices.md",
+      "1640_kyiv_triodion_part4_life_of_st_mary_of_egypt.md"
+    ],
+    "total_footnotes_verified": 3369,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 0.986,
+      "median_cohort_ratio": 1.245,
+      "max_cohort_median": 1.501
+    },
+    "all_6_publication_gates_passed": true
+  },
+  "edge_cases_and_anomalies": [],
+  "engine_hardening_proposals": []
+}

@@ -14,11 +14,7 @@ Thou didst rejoice with the disciples, O Virgin Mother of God, for thou didst be
 
 *Glory... Evangelical Sticheron 1, Tone 1:*
 
-When the disciples were going up into the mountain for the earthly ascension, the Lord stood before them, and they worshipped Him; and having been taught of the authority given Him everywhere, they were sent into all under heaven to preach the resurrection from the dead...
-
-[Sunday.]
-
-...and the return unto heaven; with whom Christ God, the truthful One, promised to abide everlastingly, He Who is the Savior of our souls.
+When the disciples were going up into the mountain for the earthly ascension, the Lord stood before them, and they worshipped Him; and having been taught of the authority given Him everywhere, they were sent into all under heaven to preach the resurrection from the dead [f. 136A] and the return unto heaven; with whom Christ God, the truthful One, promised to abide everlastingly, He Who is the Savior of our souls.
 
 *Exapostilarion 2:*
 
@@ -46,11 +42,7 @@ O Sun that hast shone forth from the tomb today as a Bridegroom from his chamber
 
 *Glory... Evangelical Sticheron 3, Tone 3:*
 
-When Mary Magdalene announced the Savior's resurrection from the dead and His appearance, the disciples, disbelieving, were reproached for the hardness of their hearts; but armed with signs and miracles, they were sent forth unto the preaching; and Thou, O Lord, wast taken up unto the primordial Light, the Father...
-
-[Sunday.]
-
-...while they preached the Word everywhere, confirming it with miracles; therefore, having been enlightened for their sake, we glorify Thy resurrection from the dead, O Lord and Lover of mankind!
+When Mary Magdalene announced the Savior's resurrection from the dead and His appearance, the disciples, disbelieving, were reproached for the hardness of their hearts; but armed with signs and miracles, they were sent forth unto the preaching; and Thou, O Lord, wast taken up unto the primordial Light, the Father [f. 136A] while they preached the Word everywhere, confirming it with miracles; therefore, having been enlightened for their sake, we glorify Thy resurrection from the dead, O Lord and Lover of mankind!
 
 *Exapostilarion 4:*
 
@@ -78,11 +70,7 @@ I hymn Thine unnumbered mercy, O my Creator; for Thou didst empty Thyself to bea
 
 *Glory... Evangelical Sticheron 5, Tone 5:*
 
-O the exceedingly wise judgments of Thine, O Christ! How unto Peter...
-
-[Sunday.]
-
-...by the linen clothes alone Thou gavest to understand Thy resurrection; and journeying with Luke and Cleopas, Thou didst converse with them, and conversing, didst not quickly reveal Thyself; therefore also Thou wast reproached as being the only stranger in Jerusalem who knew not to the end what had taken place therein; yet Thou Who disposest all things for the profit of the creature didst unfold the prophecies concerning Thyself, and in the blessing of the bread wast recognized by them, whose hearts even before that had burned within them for the knowledge of Thee; and they already clearly proclaimed Thy resurrection unto the assembled disciples: through them have mercy on us!
+O the exceedingly wise judgments of Thine, O Christ! How unto Peter [f. 136A] by the linen clothes alone Thou gavest to understand Thy resurrection; and journeying with Luke and Cleopas, Thou didst converse with them, and conversing, didst not quickly reveal Thyself; therefore also Thou wast reproached as being the only stranger in Jerusalem who knew not to the end what had taken place therein; yet Thou Who disposest all things for the profit of the creature didst unfold the prophecies concerning Thyself, and in the blessing of the bread wast recognized by them, whose hearts even before that had burned within them for the knowledge of Thee; and they already clearly proclaimed Thy resurrection unto the assembled disciples: through them have mercy on us!
 
 *Exapostilarion 6:*
 
@@ -102,11 +90,7 @@ Thou art the true Peace, O Christ, unto God's men; giving Thy peace unto the dis
 
 *Exapostilarion 7:*
 
-When Mary said that they had taken away the Lord, Simon Peter and the other initiate of Christ's mysteries whom He loved ran unto the tomb; and they both ran, and found the linen clothes lying alone within, and the napkin that was about His head...
-
-[Sunday.]
-
-...was apart from them; therefore again they held their peace, until they saw Christ.
+When Mary said that they had taken away the Lord, Simon Peter and the other initiate of Christ's mysteries whom He loved ran unto the tomb; and they both ran, and found the linen clothes lying alone within, and the napkin that was about His head [f. 136A] was apart from them; therefore again they held their peace, until they saw Christ.
 
 *Theotokion:*
 
@@ -134,11 +118,7 @@ Mary's tears were not shed warmly in vain; for behold, she was accounted worthy 
 
 *Exapostilarion 9:*
 
-When the doors were shut, O Master, as Thou didst enter, Thou didst fill the Apostles with the All-Holy Spirit, breathing peace upon them, unto whom Thou didst say to bind and loose sins...
-
-[Sunday.]
-
-...and after eight days Thou didst show Thy side and hands unto Thomas, with whom we cry: Thou art Lord and God!
+When the doors were shut, O Master, as Thou didst enter, Thou didst fill the Apostles with the All-Holy Spirit, breathing peace upon them, unto whom Thou didst say to bind and loose sins [f. 136A] and after eight days Thou didst show Thy side and hands unto Thomas, with whom we cry: Thou art Lord and God!
 
 *Theotokion:*
 
@@ -162,11 +142,7 @@ Entreat the Lord Who rose on the third day from the tomb, O Virgin, for those wh
 
 *Glory... Evangelical Sticheron 10, Tone 6:*
 
-After the descent into hades and the resurrection from the dead, grieving as was fitting over Thy departure, O Christ, the disciples returned unto their labor: and again the boat, and the nets, and no catch at all; but Thou, O Savior, didst appear as Master of all, commanding to cast the net to the right side; and the word was straightway fulfilled in deed: and the multitude of fishes was great, and a strange supper was prepared upon the land; whereof Thy disciples then having partaken...
-
-[Sunday.]
-
-...do Thou now also account us worthy spiritually to enjoy, O Lord and Lover of mankind!
+After the descent into hades and the resurrection from the dead, grieving as was fitting over Thy departure, O Christ, the disciples returned unto their labor: and again the boat, and the nets, and no catch at all; but Thou, O Savior, didst appear as Master of all, commanding to cast the net to the right side; and the word was straightway fulfilled in deed: and the multitude of fishes was great, and a strange supper was prepared upon the land; whereof Thy disciples then having partaken [f. 136A] do Thou now also account us worthy spiritually to enjoy, O Lord and Lover of mankind!
 
 *Exapostilarion 11:*
 
@@ -204,11 +180,7 @@ Let us all sing in godlike manner with divine hymns unto the Father, and the Son
 
 *Refrain 5:*
 
-Make Thy radiant lightnings to shine upon me, O my God...
-
-[Sunday.]
-
-...tri-hypostatic Creator of all; and show me forth as an abode of Thine unapproachable glory, bright, light-bearing, and immutable.
+Make Thy radiant lightnings to shine upon me, O my God [f. 136A] tri-hypostatic Creator of all; and show me forth as an abode of Thine unapproachable glory, bright, light-bearing, and immutable.
 
 *Refrain 6:*
 
@@ -250,21 +222,21 @@ Beholding thy Son risen in godlike manner from the dead, O all-pure Virgin, crea
 
 *Tone 8: Pray ye, and render vows unto the Lord our God. (Ps. 75:12)*
 
-[Folio 213v: Verso of final text folio. Preserves historical 18th-century cursive ownership and parish records in brown ink (partially rubbed: "Month of... Church warden / founder..."), later 19th/20th-century pencil notations, and a vernacular Ukrainian note in blue ink ("Anna Polishchuk..."). The lower third bears an antique paper repair patch displaying faint offset show-through of the facing leaf's hymnographic text.]
+[f. 136A] [Folio 213v: Verso of final text folio. Preserves historical 18th-century cursive ownership and parish records in brown ink (partially rubbed: "Month of... Church warden / founder..."), later 19th/20th-century pencil notations, and a vernacular Ukrainian note in blue ink ("Anna Polishchuk..."). The lower third bears an antique paper repair patch displaying faint offset show-through of the facing leaf's hymnographic text.]
 
 (see fol. 214)[^233]
 
 [Folio 214r: Rear blank protective flyleaf. Heavy antique handmade laid paper without text, bearing light age-toning, natural patina, and faint circular waterstains.]
 
-[Folio 214v: Verso of rear flyleaf. Historical village registry and accounting inscriptions recorded in cursive Cyrillic in graphite pencil and blue ink: "Vasyl Mykhalchuk", "Vasyl Mykytiuk and Vasyl...", "Kmet...", "Hryts Kroliak 200", "Kateryna Savchuk", and family memorial names with cross: "Vasyl + Mykyta...". Lower left corner reinforced with antique paper patch.]
+[f. 136A] [Folio 214v: Verso of rear flyleaf. Historical village registry and accounting inscriptions recorded in cursive Cyrillic in graphite pencil and blue ink: "Vasyl Mykhalchuk", "Vasyl Mykytiuk and Vasyl...", "Kmet...", "Hryts Kroliak 200", "Kateryna Savchuk", and family memorial names with cross: "Vasyl + Mykyta...". Lower left corner reinforced with antique paper patch.]
 
 (see fol. 215)[^234]
 
 [Folio 215r: Inside rear binding board (pastedown). Brown binding paper mounted onto the wooden board, preserving modern library catalogue and accession shelfmarks inked in black: "MKDU 13962 / SF 319". Concludes the physical leaves of the 17th-century manuscript Octoechos.]
 
-[Rear binding cover: Outside lower wooden board bound in dark brown calfskin with blind and gilt tooling. A continuous ornamental running foliate and wave roll border frames the perimeter; in the center is a blind- and gilt-stamped medallion of the Golgotha Cross on a stepped mount. Remnants of brass clasps and antique surface wear on the leather.][^235]
+[f. 136A] [Rear binding cover: Outside lower wooden board bound in dark brown calfskin with blind and gilt tooling. A continuous ornamental running foliate and wave roll border frames the perimeter; in the center is a blind- and gilt-stamped medallion of the Golgotha Cross on a stepped mount. Remnants of brass clasps and antique surface wear on the leather.][^235]
 
-[Spine of the codex: Dark brown calfskin over three raised bands dividing the spine into four compartments. The topmost compartment bears a pasted paper archival label in a printed double rectangular border with the number "57", accompanied by antique linen repair stitching at the upper joint. The third compartment contains a central blind-stamped fleur-de-lis palmette vignette within a blind-ruled frame. Worn tailcap and exposed cord supports at the joints, concluding the physical leaves of the manuscript.][^236]
+[f. 136A] [Spine of the codex: Dark brown calfskin over three raised bands dividing the spine into four compartments. The topmost compartment bears a pasted paper archival label in a printed double rectangular border with the number "57", accompanied by antique linen repair stitching at the upper joint. The third compartment contains a central blind-stamped fleur-de-lis palmette vignette within a blind-ruled frame. Worn tailcap and exposed cord supports at the joints, concluding the physical leaves of the manuscript.][^236]
 
 ---
 

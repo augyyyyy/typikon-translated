@@ -63,7 +63,8 @@
           }
         ],
         "footnotes_filename": "Final_footnotes.md"
-      }
+      },
+      "monument_type": "typikon"
     },
     "1891_lviv_synod": {
       "monument_id": "1891_lviv_synod",
@@ -116,7 +117,8 @@
           }
         ],
         "footnotes_filename": "1891_lviv_synod_footnotes.md"
-      }
+      },
+      "monument_type": "juridical_synodal"
     },
     "1899_dolnytsky_typikon": {
       "monument_id": "1899_dolnytsky_typikon",
@@ -181,7 +183,8 @@
           }
         ],
         "footnotes_filename": "1899_dolnytsky_footnotes.md"
-      }
+      },
+      "monument_type": "typikon"
     },
     "1901_mikita_typikon": {
       "monument_id": "1901_mikita_typikon",
@@ -222,7 +225,8 @@
           }
         ],
         "footnotes_filename": "1901_mikita_footnotes.md"
-      }
+      },
+      "monument_type": "typikon"
     },
     "1852_doskovsky_typikon": {
       "monument_id": "1852_doskovsky_typikon",
@@ -284,7 +288,8 @@
           }
         ],
         "footnotes_filename": "1852_doskovsky_footnotes.md"
-      }
+      },
+      "monument_type": "typikon"
     },
     "1888_violakis_typikon": {
       "monument_id": "1888_violakis_typikon",
@@ -341,7 +346,8 @@
         ],
         "footnotes_filename": "1888_violakis_footnotes.md"
       },
-      "status": "completed"
+      "status": "completed",
+      "monument_type": "typikon"
     },
     "1910_skaballanovich_typikon": {
       "monument_id": "1910_skaballanovich_typikon",
@@ -392,7 +398,8 @@
           }
         ],
         "footnotes_filename": "1910_skaballanovich_footnotes.md"
-      }
+      },
+      "monument_type": "lexicon_scholarly"
     },
     "1895_dmitrievsky_vol1": {
       "monument_id": "1895_dmitrievsky_vol1",
@@ -458,7 +465,8 @@
           }
         ],
         "footnotes_filename": "1895_dmitrievsky_vol1_footnotes.md"
-      }
+      },
+      "monument_type": "lexicon_scholarly"
     },
     "1630_lviv_octoechos": {
       "monument_id": "1630_lviv_octoechos",
@@ -540,7 +548,8 @@
           }
         ],
         "footnotes_filename": "1630_lviv_octoechos_footnotes.md"
-      }
+      },
+      "monument_type": "octoechos"
     },
     "1629_kyiv_octoechos": {
       "monument_id": "1629_kyiv_octoechos",
@@ -636,7 +645,8 @@
           }
         ],
         "footnotes_filename": "1629_kyiv_octoechos_footnotes.md"
-      }
+      },
+      "monument_type": "octoechos"
     },
     "1905_lviv_nativity_theophany": {
       "monument_id": "1905_lviv_nativity_theophany",
@@ -710,7 +720,8 @@
           }
         ],
         "footnotes_filename": "1905_lviv_nativity_theophany_footnotes.md"
-      }
+      },
+      "monument_type": "anthologion"
     },
     "1906_lviv_triodion_lenten": {
       "monument_id": "1906_lviv_triodion_lenten",
@@ -779,7 +790,8 @@
           }
         ],
         "footnotes_filename": "1906_lviv_triodion_lenten_footnotes.md"
-      }
+      },
+      "monument_type": "lenten_triodion"
     },
     "1907_lviv_pentecostarion": {
       "monument_id": "1907_lviv_pentecostarion",
@@ -866,7 +878,8 @@
           }
         ],
         "footnotes_filename": "1907_lviv_pentecostarion_footnotes.md"
-      }
+      },
+      "monument_type": "pentecostarion"
     },
     "1642_lviv_slozka_pentecostarion": {
       "monument_id": "1642_lviv_slozka_pentecostarion",
@@ -935,7 +948,8 @@
           }
         ],
         "footnotes_filename": "1642_lviv_slozka_pentecostarion_footnotes.md"
-      }
+      },
+      "monument_type": "pentecostarion"
     },
     "1640_kyiv_triodion": {
       "monument_id": "1640_kyiv_triodion",
@@ -997,7 +1011,8 @@
           }
         ],
         "footnotes_filename": "1640_kyiv_triodion_footnotes.md"
-      }
+      },
+      "monument_type": "lenten_triodion"
     },
     "1895_lviv_octoechos": {
       "monument_id": "1895_lviv_octoechos",
@@ -1096,7 +1111,8 @@
           }
         ],
         "footnotes_filename": "1895_lviv_octoechos_footnotes.md"
-      }
+      },
+      "monument_type": "octoechos"
     },
     "1491_krakow_fiol_horologion": {
       "monument_id": "1491_krakow_fiol_horologion",
@@ -1125,49 +1141,62 @@
           },
           {
             "id": "part1",
-            "filename": "1491_krakow_fiol_horologion_part1_tone-1-trinity-hymns-and-photagogica.md",
-            "title": "TONE 1: TRINITY HYMNS AND PHOTAGOGICA",
-            "start_landmark": "^#\\s+TONE\\ 1:\\ TRINITY\\ HYMNS\\ AND\\ PHOTAGOGICA$"
+            "filename": "1491_krakow_fiol_horologion_part1_part-i-the-daily-office-midnight-office.md",
+            "title": "PART I: THE DAILY OFFICE (MIDNIGHT OFFICE, MATINS, AND HOURS)",
+            "start_landmark": "^#\\s+PART\\ I:\\ THE\\ DAILY\\ OFFICE\\ \\(MIDNIGHT\\ OFFICE,\\ MATINS,\\ AND\\ HOURS\\)(?:\\s*\\[\\^\\d+\\])*$"
           },
           {
             "id": "part2",
-            "filename": "1491_krakow_fiol_horologion_part2_exapostilaria-of-the-week.md",
-            "title": "EXAPOSTILARIA OF THE WEEK",
-            "start_landmark": "^#\\s+EXAPOSTILARIA\\ OF\\ THE\\ WEEK$"
+            "filename": "1491_krakow_fiol_horologion_part2_the-order-of-the-typika-which-is-the-obe.md",
+            "title": "THE ORDER OF THE TYPIKA, WHICH IS THE OBEDNITSA",
+            "start_landmark": "^#\\s+THE\\ ORDER\\ OF\\ THE\\ TYPIKA,\\ WHICH\\ IS\\ THE\\ OBEDNITSA(?:\\s*\\[\\^\\d+\\])*$"
           },
           {
             "id": "part3",
             "filename": "1491_krakow_fiol_horologion_part3_part-ii-troparia-and-kontakia-throughout.md",
             "title": "PART II: TROPARIA AND KONTAKIA THROUGHOUT THE YEAR",
-            "start_landmark": "^#\\s+PART\\ II:\\ TROPARIA\\ AND\\ KONTAKIA\\ THROUGHOUT\\ THE\\ YEAR$"
+            "start_landmark": "^#\\s+PART\\ II:\\ TROPARIA\\ AND\\ KONTAKIA\\ THROUGHOUT\\ THE\\ YEAR(?:\\s*\\[\\^\\d+\\])*$"
           },
           {
             "id": "part4",
             "filename": "1491_krakow_fiol_horologion_part4_part-iii-menologion.md",
             "title": "PART III: MENOLOGION",
-            "start_landmark": "^#\\s+PART\\ III:\\ MENOLOGION$"
+            "start_landmark": "^#\\s+PART\\ III:\\ MENOLOGION(?:\\s*\\[\\^\\d+\\])*$"
           },
           {
             "id": "part5",
-            "filename": "1491_krakow_fiol_horologion_part5_part-iv-rule-for-holy-communion.md",
-            "title": "PART IV: RULE FOR HOLY COMMUNION[^1205]",
-            "start_landmark": "^#\\s+PART\\ IV:\\ RULE\\ FOR\\ HOLY\\ COMMUNION\\[\\^1205\\]$"
+            "filename": "1491_krakow_fiol_horologion_part5_synaxarion-of-the-triodion-and-pentecost.md",
+            "title": "SYNAXARION OF THE TRIODION AND PENTECOSTARION",
+            "start_landmark": "^#\\s+SYNAXARION\\ OF\\ THE\\ TRIODION\\ AND\\ PENTECOSTARION(?:\\s*\\[\\^\\d+\\])*$"
           },
           {
             "id": "part6",
-            "filename": "1491_krakow_fiol_horologion_part6_part-v-printers-colophon-and-civic-arms-.md",
-            "title": "PART V: PRINTER'S COLOPHON AND CIVIC ARMS OF KRAKOW (1491)[^1354]",
-            "start_landmark": "^#\\s+PART\\ V:\\ PRINTER'S\\ COLOPHON\\ AND\\ CIVIC\\ ARMS\\ OF\\ KRAKOW\\ \\(1491\\)\\[\\^1354\\]$"
+            "filename": "1491_krakow_fiol_horologion_part6_selected-psalms-for-solemn-commemoration.md",
+            "title": "SELECTED PSALMS FOR SOLEMN COMMEMORATIONS AND FEASTS OF THE LORD",
+            "start_landmark": "^#\\s+SELECTED\\ PSALMS\\ FOR\\ SOLEMN\\ COMMEMORATIONS\\ AND\\ FEASTS\\ OF\\ THE\\ LORD(?:\\s*\\[\\^\\d+\\])*$"
           },
           {
             "id": "part7",
-            "filename": "1491_krakow_fiol_horologion_part7_part-vi-rear-endpapers-and-archival-marg.md",
-            "title": "PART VI: REAR ENDPAPERS AND ARCHIVAL MARGINALIA[^1359]",
-            "start_landmark": "^#\\s+PART\\ VI:\\ REAR\\ ENDPAPERS\\ AND\\ ARCHIVAL\\ MARGINALIA\\[\\^1359\\]$"
+            "filename": "1491_krakow_fiol_horologion_part7_part-iv-rule-for-holy-communion.md",
+            "title": "PART IV: RULE FOR HOLY COMMUNION",
+            "start_landmark": "^#\\s+PART\\ IV:\\ RULE\\ FOR\\ HOLY\\ COMMUNION(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part8",
+            "filename": "1491_krakow_fiol_horologion_part8_part-v-printers-colophon-and-civic-arms.md",
+            "title": "PART V: PRINTER'S COLOPHON AND CIVIC ARMS OF KRAKOW (1491)",
+            "start_landmark": "^#\\s+PART\\ V:\\ PRINTER'S\\ COLOPHON\\ AND\\ CIVIC\\ ARMS\\ OF\\ KRAKOW\\ \\(1491\\)(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part9",
+            "filename": "1491_krakow_fiol_horologion_part9_part-vi-rear-endpapers-and-archival-marg.md",
+            "title": "PART VI: REAR ENDPAPERS AND ARCHIVAL MARGINALIA",
+            "start_landmark": "^#\\s+PART\\ VI:\\ REAR\\ ENDPAPERS\\ AND\\ ARCHIVAL\\ MARGINALIA(?:\\s*\\[\\^\\d+\\])*$"
           }
         ],
         "footnotes_filename": "1491_krakow_fiol_horologion_footnotes.md"
-      }
+      },
+      "monument_type": "horologion"
     },
     "1491_krakow_fiol_octoechos": {
       "monument_id": "1491_krakow_fiol_octoechos",
@@ -1198,59 +1227,72 @@
             "id": "part1",
             "filename": "1491_krakow_fiol_octoechos_part1_tone-1.md",
             "title": "TONE 1",
-            "start_landmark": "^#\\s+TONE\\ 1$"
+            "start_landmark": "^#\\s+TONE\\ 1(?:\\s*\\[\\^\\d+\\])*$"
           },
           {
             "id": "part2",
             "filename": "1491_krakow_fiol_octoechos_part2_tone-2.md",
             "title": "TONE 2",
-            "start_landmark": "^#\\s+TONE\\ 2$"
+            "start_landmark": "^#\\s+TONE\\ 2(?:\\s*\\[\\^\\d+\\])*$"
           },
           {
             "id": "part3",
             "filename": "1491_krakow_fiol_octoechos_part3_tone-3.md",
             "title": "TONE 3",
-            "start_landmark": "^#\\s+TONE\\ 3$"
+            "start_landmark": "^#\\s+TONE\\ 3(?:\\s*\\[\\^\\d+\\])*$"
           },
           {
             "id": "part4",
             "filename": "1491_krakow_fiol_octoechos_part4_tone-4.md",
             "title": "TONE 4",
-            "start_landmark": "^#\\s+TONE\\ 4$"
+            "start_landmark": "^#\\s+TONE\\ 4(?:\\s*\\[\\^\\d+\\])*$"
           },
           {
             "id": "part5",
             "filename": "1491_krakow_fiol_octoechos_part5_tone-5.md",
             "title": "TONE 5",
-            "start_landmark": "^#\\s+TONE\\ 5$"
+            "start_landmark": "^#\\s+TONE\\ 5(?:\\s*\\[\\^\\d+\\])*$"
           },
           {
             "id": "part6",
             "filename": "1491_krakow_fiol_octoechos_part6_tone-6.md",
             "title": "TONE 6",
-            "start_landmark": "^#\\s+TONE\\ 6$"
+            "start_landmark": "^#\\s+TONE\\ 6(?:\\s*\\[\\^\\d+\\])*$"
           },
           {
             "id": "part7",
             "filename": "1491_krakow_fiol_octoechos_part7_tone-7.md",
             "title": "TONE 7",
-            "start_landmark": "^#\\s+TONE\\ 7$"
+            "start_landmark": "^#\\s+TONE\\ 7(?:\\s*\\[\\^\\d+\\])*$"
           },
           {
             "id": "part8",
             "filename": "1491_krakow_fiol_octoechos_part8_tone-8.md",
             "title": "TONE 8",
-            "start_landmark": "^#\\s+TONE\\ 8$"
+            "start_landmark": "^#\\s+TONE\\ 8(?:\\s*\\[\\^\\d+\\])*$"
           },
           {
             "id": "part9",
-            "filename": "1491_krakow_fiol_octoechos_part9_exapostilaria-and-evangelical-stichera.md",
+            "filename": "1491_krakow_fiol_octoechos_part9_weekday-offices-of-the-octoechos-monday.md",
+            "title": "WEEKDAY OFFICES OF THE OCTOECHOS (MONDAY THROUGH SATURDAY)",
+            "start_landmark": "^#\\s+WEEKDAY\\ OFFICES\\ OF\\ THE\\ OCTOECHOS\\ \\(MONDAY\\ THROUGH\\ SATURDAY\\)(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part10",
+            "filename": "1491_krakow_fiol_octoechos_part10_exapostilaria-and-evangelical-stichera.md",
             "title": "EXAPOSTILARIA AND EVANGELICAL STICHERA",
-            "start_landmark": "^#\\s+EXAPOSTILARIA\\ AND\\ EVANGELICAL\\ STICHERA$"
+            "start_landmark": "^#\\s+EXAPOSTILARIA\\ AND\\ EVANGELICAL\\ STICHERA(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part11",
+            "filename": "1491_krakow_fiol_octoechos_part11_ascetic-homilies-and-colophon.md",
+            "title": "ASCETIC HOMILIES AND COLOPHON",
+            "start_landmark": "^#\\s+ASCETIC\\ HOMILIES\\ AND\\ COLOPHON(?:\\s*\\[\\^\\d+\\])*$"
           }
         ],
         "footnotes_filename": "1491_krakow_fiol_octoechos_footnotes.md"
-      }
+      },
+      "monument_type": "octoechos"
     },
     "1600s_prykarpattia_ms_octoechos": {
       "monument_id": "1600s_prykarpattia_ms_octoechos",
@@ -1281,59 +1323,60 @@
             "id": "part1",
             "filename": "1600s_prykarpattia_ms_octoechos_part1_tone-1.md",
             "title": "TONE 1",
-            "start_landmark": "^#\\s+TONE\\ 1$"
+            "start_landmark": "^#\\s+TONE\\ 1(?:\\s*\\[\\^\\d+\\])*$"
           },
           {
             "id": "part2",
             "filename": "1600s_prykarpattia_ms_octoechos_part2_tone-2.md",
             "title": "TONE 2",
-            "start_landmark": "^#\\s+TONE\\ 2$"
+            "start_landmark": "^#\\s+TONE\\ 2(?:\\s*\\[\\^\\d+\\])*$"
           },
           {
             "id": "part3",
             "filename": "1600s_prykarpattia_ms_octoechos_part3_tone-3-fol-37.md",
-            "title": "TONE 3 (fol. 37)[^55]",
-            "start_landmark": "^#\\s+TONE\\ 3\\ \\(fol\\.\\ 37\\)\\[\\^55\\]$"
+            "title": "TONE 3 (fol. 37)",
+            "start_landmark": "^#\\s+TONE\\ 3\\ \\(fol\\.\\ 37\\)(?:\\s*\\[\\^\\d+\\])*$"
           },
           {
             "id": "part4",
             "filename": "1600s_prykarpattia_ms_octoechos_part4_tone-4-fol-54.md",
-            "title": "TONE 4 (fol. 54)[^72]",
-            "start_landmark": "^#\\s+TONE\\ 4\\ \\(fol\\.\\ 54\\)\\[\\^72\\]$"
+            "title": "TONE 4 (fol. 54)",
+            "start_landmark": "^#\\s+TONE\\ 4\\ \\(fol\\.\\ 54\\)(?:\\s*\\[\\^\\d+\\])*$"
           },
           {
             "id": "part5",
             "filename": "1600s_prykarpattia_ms_octoechos_part5_tone-5.md",
             "title": "TONE 5",
-            "start_landmark": "^#\\s+TONE\\ 5$"
+            "start_landmark": "^#\\s+TONE\\ 5(?:\\s*\\[\\^\\d+\\])*$"
           },
           {
             "id": "part6",
             "filename": "1600s_prykarpattia_ms_octoechos_part6_tone-6.md",
             "title": "TONE 6",
-            "start_landmark": "^#\\s+TONE\\ 6$"
+            "start_landmark": "^#\\s+TONE\\ 6(?:\\s*\\[\\^\\d+\\])*$"
           },
           {
             "id": "part7",
             "filename": "1600s_prykarpattia_ms_octoechos_part7_tone-7.md",
             "title": "TONE 7",
-            "start_landmark": "^#\\s+TONE\\ 7$"
+            "start_landmark": "^#\\s+TONE\\ 7(?:\\s*\\[\\^\\d+\\])*$"
           },
           {
             "id": "part8",
             "filename": "1600s_prykarpattia_ms_octoechos_part8_tone-8.md",
             "title": "TONE 8",
-            "start_landmark": "^#\\s+TONE\\ 8$"
+            "start_landmark": "^#\\s+TONE\\ 8(?:\\s*\\[\\^\\d+\\])*$"
           },
           {
             "id": "part9",
             "filename": "1600s_prykarpattia_ms_octoechos_part9_exapostilaria-and-evangelical-stichera.md",
             "title": "EXAPOSTILARIA AND EVANGELICAL STICHERA",
-            "start_landmark": "^#\\s+EXAPOSTILARIA\\ AND\\ EVANGELICAL\\ STICHERA$"
+            "start_landmark": "^#\\s+EXAPOSTILARIA\\ AND\\ EVANGELICAL\\ STICHERA(?:\\s*\\[\\^\\d+\\])*$"
           }
         ],
         "footnotes_filename": "1600s_prykarpattia_ms_octoechos_footnotes.md"
-      }
+      },
+      "monument_type": "octoechos"
     },
     "1604_striatyn_balaban_liturgikon": {
       "monument_id": "1604_striatyn_balaban_liturgikon",
@@ -1386,7 +1429,8 @@
           }
         ],
         "footnotes_filename": "1604_striatyn_balaban_liturgikon_footnotes.md"
-      }
+      },
+      "monument_type": "euchologion_liturgikon"
     },
     "1606_striatyn_balaban_trebnyk": {
       "monument_id": "1606_striatyn_balaban_trebnyk",
@@ -1757,13 +1801,14 @@
           },
           {
             "id": "part58",
-            "filename": "1606_striatyn_balaban_trebnyk_part58_part-lvii-table-of-contents-оглавленіе-в.md",
+            "filename": "1606_striatyn_balaban_trebnyk_part58_part-lvii-table-of-contents.md",
             "title": "PART LVII: TABLE OF CONTENTS (ОГЛАВЛЕНІЕ ВЪСЛѢДОВАНІЙ)",
             "start_landmark": "^#\\s+PART\\ LVII:\\ TABLE\\ OF\\ CONTENTS\\ \\(ОГЛАВЛЕНІЕ\\ ВЪСЛѢДОВАНІЙ\\)(?:\\s*\\[\\^\\d+\\])*$"
           }
         ],
         "footnotes_filename": "1606_striatyn_balaban_trebnyk_footnotes.md"
-      }
+      },
+      "monument_type": "trebnyk_euchologion"
     },
     "1617_kyiv_kopystensky_horologion": {
       "monument_id": "1617_kyiv_kopystensky_horologion",
@@ -1778,7 +1823,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1617,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "horologion"
     },
     "1619_berynda_anthologion": {
       "monument_id": "1619_berynda_anthologion",
@@ -1793,7 +1839,8 @@
       "active": false,
       "status": "queued",
       "wave": 3,
-      "historical_year": 1619
+      "historical_year": 1619,
+      "monument_type": "anthologion"
     },
     "1620_kyiv_lavra_liturgikon": {
       "monument_id": "1620_kyiv_lavra_liturgikon",
@@ -1808,7 +1855,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1620,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "euchologion_liturgikon"
     },
     "1622_vilnius_poluustav": {
       "monument_id": "1622_vilnius_poluustav",
@@ -1823,7 +1871,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1622,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "typikon"
     },
     "1629_kyiv_lavra_liturgikon": {
       "monument_id": "1629_kyiv_lavra_liturgikon",
@@ -1838,7 +1887,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1629,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "euchologion_liturgikon"
     },
     "1631_kyiv_flowery_triodion": {
       "monument_id": "1631_kyiv_flowery_triodion",
@@ -1853,7 +1903,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1631,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "pentecostarion"
     },
     "1632_mohyla_archieratikon": {
       "monument_id": "1632_mohyla_archieratikon",
@@ -1868,7 +1919,8 @@
       "active": false,
       "status": "queued",
       "wave": 3,
-      "historical_year": 1632
+      "historical_year": 1632,
+      "monument_type": "euchologion_liturgikon"
     },
     "1636_vilnius_liturgikon": {
       "monument_id": "1636_vilnius_liturgikon",
@@ -1883,7 +1935,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1636,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "euchologion_liturgikon"
     },
     "1639_kyiv_mohyla_liturgikon": {
       "monument_id": "1639_kyiv_mohyla_liturgikon",
@@ -1898,7 +1951,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1639,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "euchologion_liturgikon"
     },
     "1643_kyiv_psalter": {
       "monument_id": "1643_kyiv_psalter",
@@ -1913,7 +1967,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1643,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "psalter"
     },
     "1646_kyiv_mohyla_great_trebnyk": {
       "monument_id": "1646_kyiv_mohyla_great_trebnyk",
@@ -1928,7 +1983,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1646,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "trebnyk_euchologion"
     },
     "1646_kyiv_mohyla_trebnyk_part1": {
       "monument_id": "1646_kyiv_mohyla_trebnyk_part1",
@@ -1943,7 +1999,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1646,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "trebnyk_euchologion"
     },
     "1646_kyiv_mohyla_trebnyk_part2": {
       "monument_id": "1646_kyiv_mohyla_trebnyk_part2",
@@ -1958,7 +2015,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1646,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "trebnyk_euchologion"
     },
     "1646_kyiv_mohyla_trebnyk_part3": {
       "monument_id": "1646_kyiv_mohyla_trebnyk_part3",
@@ -1973,7 +2031,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1646,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "trebnyk_euchologion"
     },
     "1648_ukraine_ms_liturgikon": {
       "monument_id": "1648_ukraine_ms_liturgikon",
@@ -1988,7 +2047,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1648,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "euchologion_liturgikon"
     },
     "1650_kuteino_psalter": {
       "monument_id": "1650_kuteino_psalter",
@@ -2003,7 +2063,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1650,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "psalter"
     },
     "1651_lviv_slozka_anthologion": {
       "monument_id": "1651_lviv_slozka_anthologion",
@@ -2018,7 +2079,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1651,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "anthologion"
     },
     "1663_kuteino_brashno_dukhovnoe": {
       "monument_id": "1663_kuteino_brashno_dukhovnoe",
@@ -2033,7 +2095,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1663,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "psalter"
     },
     "1674_kyiv_lavra_akafisty": {
       "monument_id": "1674_kyiv_lavra_akafisty",
@@ -2048,7 +2111,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1674,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "akathistnik"
     },
     "1681_kyiv_lavra_trebnyk": {
       "monument_id": "1681_kyiv_lavra_trebnyk",
@@ -2063,7 +2127,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1681,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "trebnyk_euchologion"
     },
     "1685_chernihiv_flowery_triodion": {
       "monument_id": "1685_chernihiv_flowery_triodion",
@@ -2078,7 +2143,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1685,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "pentecostarion"
     },
     "1691_lviv_brotherhood_liturgikon": {
       "monument_id": "1691_lviv_brotherhood_liturgikon",
@@ -2093,7 +2159,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1691,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "euchologion_liturgikon"
     },
     "1692_vilnius_liturgikon": {
       "monument_id": "1692_vilnius_liturgikon",
@@ -2108,7 +2175,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1692,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "euchologion_liturgikon"
     },
     "1693_kyiv_lavra_akafisty": {
       "monument_id": "1693_kyiv_lavra_akafisty",
@@ -2123,7 +2191,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1693,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "akathistnik"
     },
     "1694_lviv_brotherhood_anthologion": {
       "monument_id": "1694_lviv_brotherhood_anthologion",
@@ -2138,7 +2207,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1694,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "anthologion"
     },
     "1697_lviv_brotherhood_psalter": {
       "monument_id": "1697_lviv_brotherhood_psalter",
@@ -2153,7 +2223,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1697,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "psalter"
     },
     "1699_kyiv_lavra_octoechos": {
       "monument_id": "1699_kyiv_lavra_octoechos",
@@ -2168,7 +2239,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1699,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "octoechos"
     },
     "1699_lviv_akafisty": {
       "monument_id": "1699_lviv_akafisty",
@@ -2183,7 +2255,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1699,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "akathistnik"
     },
     "1701_lviv_flowery_triodion": {
       "monument_id": "1701_lviv_flowery_triodion",
@@ -2198,7 +2271,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1701,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "pentecostarion"
     },
     "1703_kyiv_lavra_poluustav": {
       "monument_id": "1703_kyiv_lavra_poluustav",
@@ -2213,7 +2287,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1703,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "typikon"
     },
     "1714_chernihiv_communion_rule": {
       "monument_id": "1714_chernihiv_communion_rule",
@@ -2228,7 +2303,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1714,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "trebnyk_euchologion"
     },
     "1715_chernihiv_octoechos": {
       "monument_id": "1715_chernihiv_octoechos",
@@ -2243,7 +2319,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1715,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "octoechos"
     },
     "1716_kyiv_marian_canons_octoechos": {
       "monument_id": "1716_kyiv_marian_canons_octoechos",
@@ -2258,7 +2335,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1716,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "octoechos"
     },
     "1717_lviv_lenten_triodion": {
       "monument_id": "1717_lviv_lenten_triodion",
@@ -2273,7 +2351,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1717,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "lenten_triodion"
     },
     "1720_lviv_brotherhood_trebnyk": {
       "monument_id": "1720_lviv_brotherhood_trebnyk",
@@ -2288,7 +2367,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1720,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "trebnyk_euchologion"
     },
     "1726_lviv_horologion_poluustavnyj": {
       "monument_id": "1726_lviv_horologion_poluustavnyj",
@@ -2303,7 +2383,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1726,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "horologion"
     },
     "1731_kyiv_theotokos_canon": {
       "monument_id": "1731_kyiv_theotokos_canon",
@@ -2318,7 +2399,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1731,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "akathistnik"
     },
     "1733_univ_liturgikon": {
       "monument_id": "1733_univ_liturgikon",
@@ -2333,7 +2415,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1733,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "euchologion_liturgikon"
     },
     "1734_suprasl_liturgikon": {
       "monument_id": "1734_suprasl_liturgikon",
@@ -2348,7 +2431,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1734,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "euchologion_liturgikon"
     },
     "1735_pochaiv_liturgikon": {
       "monument_id": "1735_pochaiv_liturgikon",
@@ -2363,7 +2447,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1735,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "euchologion_liturgikon"
     },
     "1738_lviv_brotherhood_anthologion": {
       "monument_id": "1738_lviv_brotherhood_anthologion",
@@ -2378,7 +2463,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1738,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "anthologion"
     },
     "1738_pochaiv_anthologion": {
       "monument_id": "1738_pochaiv_anthologion",
@@ -2393,7 +2479,8 @@
       "active": false,
       "status": "queued",
       "wave": 3,
-      "historical_year": 1738
+      "historical_year": 1738,
+      "monument_type": "anthologion"
     },
     "1738_univ_festal_offices": {
       "monument_id": "1738_univ_festal_offices",
@@ -2408,7 +2495,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1738,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "anthologion"
     },
     "1741_pochaiv_festal_offices": {
       "monument_id": "1741_pochaiv_festal_offices",
@@ -2423,7 +2511,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1741,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "anthologion"
     },
     "1744_pochaiv_lenten_triodion": {
       "monument_id": "1744_pochaiv_lenten_triodion",
@@ -2438,7 +2527,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1744,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "lenten_triodion"
     },
     "1744_pochaiv_liturgikon": {
       "monument_id": "1744_pochaiv_liturgikon",
@@ -2453,7 +2543,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1744,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "euchologion_liturgikon"
     },
     "1745_chernihiv_psalter": {
       "monument_id": "1745_chernihiv_psalter",
@@ -2468,7 +2559,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1745,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "psalter"
     },
     "1746_kyiv_lavra_molytvoslov": {
       "monument_id": "1746_kyiv_lavra_molytvoslov",
@@ -2483,7 +2575,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1746,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "trebnyk_euchologion"
     },
     "1747_pochaiv_flowery_triodion": {
       "monument_id": "1747_pochaiv_flowery_triodion",
@@ -2498,7 +2591,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1747,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "pentecostarion"
     },
     "1750_chernihiv_communion_rule": {
       "monument_id": "1750_chernihiv_communion_rule",
@@ -2513,7 +2607,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1750,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "trebnyk_euchologion"
     },
     "1753_kyiv_lavra_molytvoslov": {
       "monument_id": "1753_kyiv_lavra_molytvoslov",
@@ -2528,7 +2623,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1753,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "trebnyk_euchologion"
     },
     "1755_pochaiv_liturgikon": {
       "monument_id": "1755_pochaiv_liturgikon",
@@ -2543,7 +2639,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1755,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "euchologion_liturgikon"
     },
     "1757_pochaiv_festal_offices": {
       "monument_id": "1757_pochaiv_festal_offices",
@@ -2558,7 +2655,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1757,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "anthologion"
     },
     "1761_lviv_brotherhood_trebnyk": {
       "monument_id": "1761_lviv_brotherhood_trebnyk",
@@ -2573,7 +2671,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1761,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "trebnyk_euchologion"
     },
     "1761_pochaiv_minea_01_sep": {
       "monument_id": "1761_pochaiv_minea_01_sep",
@@ -2588,7 +2687,8 @@
       "active": false,
       "status": "queued",
       "wave": 3,
-      "historical_year": 1761
+      "historical_year": 1761,
+      "monument_type": "anthologion"
     },
     "1761_pochaiv_minea_02_oct": {
       "monument_id": "1761_pochaiv_minea_02_oct",
@@ -2603,7 +2703,8 @@
       "active": false,
       "status": "queued",
       "wave": 3,
-      "historical_year": 1761
+      "historical_year": 1761,
+      "monument_type": "anthologion"
     },
     "1761_pochaiv_minea_03_nov": {
       "monument_id": "1761_pochaiv_minea_03_nov",
@@ -2618,7 +2719,8 @@
       "active": false,
       "status": "queued",
       "wave": 3,
-      "historical_year": 1761
+      "historical_year": 1761,
+      "monument_type": "anthologion"
     },
     "1761_pochaiv_minea_04_dec": {
       "monument_id": "1761_pochaiv_minea_04_dec",
@@ -2633,7 +2735,8 @@
       "active": false,
       "status": "queued",
       "wave": 3,
-      "historical_year": 1761
+      "historical_year": 1761,
+      "monument_type": "anthologion"
     },
     "1761_pochaiv_minea_05_jan": {
       "monument_id": "1761_pochaiv_minea_05_jan",
@@ -2648,7 +2751,8 @@
       "active": false,
       "status": "queued",
       "wave": 3,
-      "historical_year": 1761
+      "historical_year": 1761,
+      "monument_type": "anthologion"
     },
     "1761_pochaiv_minea_06_feb": {
       "monument_id": "1761_pochaiv_minea_06_feb",
@@ -2663,7 +2767,8 @@
       "active": false,
       "status": "queued",
       "wave": 3,
-      "historical_year": 1761
+      "historical_year": 1761,
+      "monument_type": "anthologion"
     },
     "1761_pochaiv_minea_07_mar": {
       "monument_id": "1761_pochaiv_minea_07_mar",
@@ -2678,7 +2783,8 @@
       "active": false,
       "status": "queued",
       "wave": 3,
-      "historical_year": 1761
+      "historical_year": 1761,
+      "monument_type": "anthologion"
     },
     "1761_pochaiv_minea_08_apr": {
       "monument_id": "1761_pochaiv_minea_08_apr",
@@ -2693,7 +2799,8 @@
       "active": false,
       "status": "queued",
       "wave": 3,
-      "historical_year": 1761
+      "historical_year": 1761,
+      "monument_type": "anthologion"
     },
     "1761_pochaiv_minea_09_may": {
       "monument_id": "1761_pochaiv_minea_09_may",
@@ -2708,7 +2815,8 @@
       "active": false,
       "status": "queued",
       "wave": 3,
-      "historical_year": 1761
+      "historical_year": 1761,
+      "monument_type": "anthologion"
     },
     "1761_pochaiv_minea_10_jun": {
       "monument_id": "1761_pochaiv_minea_10_jun",
@@ -2723,7 +2831,8 @@
       "active": false,
       "status": "queued",
       "wave": 3,
-      "historical_year": 1761
+      "historical_year": 1761,
+      "monument_type": "anthologion"
     },
     "1761_pochaiv_minea_11_jul": {
       "monument_id": "1761_pochaiv_minea_11_jul",
@@ -2738,7 +2847,8 @@
       "active": false,
       "status": "queued",
       "wave": 3,
-      "historical_year": 1761
+      "historical_year": 1761,
+      "monument_type": "anthologion"
     },
     "1761_pochaiv_minea_12_aug": {
       "monument_id": "1761_pochaiv_minea_12_aug",
@@ -2753,7 +2863,8 @@
       "active": false,
       "status": "queued",
       "wave": 3,
-      "historical_year": 1761
+      "historical_year": 1761,
+      "monument_type": "anthologion"
     },
     "1763_chernihiv_followed_psalter": {
       "monument_id": "1763_chernihiv_followed_psalter",
@@ -2768,7 +2879,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1763,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "psalter"
     },
     "1763_kyiv_caves_fathers_services": {
       "monument_id": "1763_kyiv_caves_fathers_services",
@@ -2783,7 +2895,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1763,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "anthologion"
     },
     "1765_pochaiv_liturgikon": {
       "monument_id": "1765_pochaiv_liturgikon",
@@ -2798,7 +2911,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1765,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "euchologion_liturgikon"
     },
     "1769_lviv_weekly_akafisty": {
       "monument_id": "1769_lviv_weekly_akafisty",
@@ -2813,7 +2927,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1769,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "akathistnik"
     },
     "1771_kyiv_paschal_office": {
       "monument_id": "1771_kyiv_paschal_office",
@@ -2828,7 +2943,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1771,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "pentecostarion"
     },
     "1773_pochaiv_general_menaion": {
       "monument_id": "1773_pochaiv_general_menaion",
@@ -2843,7 +2959,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1773,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "anthologion"
     },
     "1778_pochaiv_liturgikon": {
       "monument_id": "1778_pochaiv_liturgikon",
@@ -2858,7 +2975,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1778,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "euchologion_liturgikon"
     },
     "1781_hrodna_followed_psalter": {
       "monument_id": "1781_hrodna_followed_psalter",
@@ -2873,7 +2991,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1781,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "psalter"
     },
     "1785_kyiv_caves_fathers_services": {
       "monument_id": "1785_kyiv_caves_fathers_services",
@@ -2888,7 +3007,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1785,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "anthologion"
     },
     "1787_pochaiv_molytvoslov": {
       "monument_id": "1787_pochaiv_molytvoslov",
@@ -2903,7 +3023,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1787,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "trebnyk_euchologion"
     },
     "1798_pochaiv_liturgikon": {
       "monument_id": "1798_pochaiv_liturgikon",
@@ -2918,7 +3039,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1798,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "euchologion_liturgikon"
     },
     "1842_lviv_stauropegion_liturgikon": {
       "monument_id": "1842_lviv_stauropegion_liturgikon",
@@ -2933,7 +3055,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1842,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "euchologion_liturgikon"
     },
     "1864_lviv_collection_of_akafists": {
       "monument_id": "1864_lviv_collection_of_akafists",
@@ -2948,7 +3071,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1864,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "akathistnik"
     },
     "1866_lviv_stauropegion_liturgikon": {
       "monument_id": "1866_lviv_stauropegion_liturgikon",
@@ -2963,7 +3087,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1866,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "euchologion_liturgikon"
     },
     "1888_lviv_chasoslov": {
       "monument_id": "1888_lviv_chasoslov",
@@ -2978,7 +3103,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1888,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "horologion"
     },
     "1893_lviv_akafistnik": {
       "monument_id": "1893_lviv_akafistnik",
@@ -2993,7 +3119,8 @@
       "active": false,
       "status": "queued",
       "wave": 3,
-      "historical_year": 1893
+      "historical_year": 1893,
+      "monument_type": "akathistnik"
     },
     "1899_lviv_stauropegion_liturgikon": {
       "monument_id": "1899_lviv_stauropegion_liturgikon",
@@ -3008,7 +3135,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1899,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "euchologion_liturgikon"
     },
     "1901_lviv_psalter": {
       "monument_id": "1901_lviv_psalter",
@@ -3023,7 +3151,8 @@
       "active": false,
       "status": "queued",
       "wave": 3,
-      "historical_year": 1901
+      "historical_year": 1901,
+      "monument_type": "psalter"
     },
     "1905_lviv_stauropegion_liturgikon": {
       "monument_id": "1905_lviv_stauropegion_liturgikon",
@@ -3038,7 +3167,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1905,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "euchologion_liturgikon"
     },
     "1905_zhovkva_akafistnik": {
       "monument_id": "1905_zhovkva_akafistnik",
@@ -3053,7 +3183,8 @@
       "active": false,
       "status": "queued",
       "wave": 3,
-      "historical_year": 1905
+      "historical_year": 1905,
+      "monument_type": "akathistnik"
     },
     "1927_peremyshl_liturgikon": {
       "monument_id": "1927_peremyshl_liturgikon",
@@ -3068,7 +3199,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1927,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "euchologion_liturgikon"
     },
     "1929_lviv_liturgikon": {
       "monument_id": "1929_lviv_liturgikon",
@@ -3083,7 +3215,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1929,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "euchologion_liturgikon"
     },
     "1930_lviv_small_liturgikon": {
       "monument_id": "1930_lviv_small_liturgikon",
@@ -3098,7 +3231,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1930,
-      "wave": 3
+      "wave": 3,
+      "monument_type": "euchologion_liturgikon"
     },
     "1944_ordo_celebrationis": {
       "monument_id": "1944_ordo_celebrationis",
@@ -3113,7 +3247,8 @@
       "active": false,
       "status": "queued",
       "wave": 3,
-      "historical_year": 1944
+      "historical_year": 1944,
+      "monument_type": "typikon"
     },
     "1950_rome_chasoslov": {
       "monument_id": "1950_rome_chasoslov",
@@ -3128,7 +3263,8 @@
       "active": false,
       "status": "queued",
       "wave": 3,
-      "historical_year": 1950
+      "historical_year": 1950,
+      "monument_type": "horologion"
     },
     "1988_ugcc_liturgikon": {
       "monument_id": "1988_ugcc_liturgikon",
@@ -3143,7 +3279,8 @@
       "active": false,
       "status": "queued",
       "wave": 3,
-      "historical_year": 1988
+      "historical_year": 1988,
+      "monument_type": "euchologion_liturgikon"
     },
     "1598_ostroh_knyzhytsia": {
       "monument_id": "1598_ostroh_knyzhytsia",
@@ -3153,12 +3290,13 @@
       "canonical_mirror_dir": "2. Historical Liturgical Texts/Kyivan_Recension/Anthologia/Ostroh_1598_Knyzhytsia",
       "total_physical_pages": 304,
       "default_cohort_size": 10,
-      "genre_register": "scholarly_critical",
+      "genre_register": "juridical",
       "workspace_dir": "Liturgical Monuments/Monument - 1598_ostroh_knyzhytsia",
       "active": false,
       "status": "queued",
       "historical_year": 1598,
-      "wave": "later"
+      "wave": "later",
+      "monument_type": "juridical_synodal"
     },
     "1610_oko_radishevsky": {
       "monument_id": "1610_oko_radishevsky",
@@ -3173,7 +3311,8 @@
       "active": false,
       "status": "queued",
       "wave": "later",
-      "historical_year": 1610
+      "historical_year": 1610,
+      "monument_type": "typikon"
     },
     "1610_oko_radishevsky_digital": {
       "monument_id": "1610_oko_radishevsky_digital",
@@ -3188,7 +3327,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1610,
-      "wave": "later"
+      "wave": "later",
+      "monument_type": "typikon"
     },
     "1617_basilian_rules": {
       "monument_id": "1617_basilian_rules",
@@ -3203,7 +3343,8 @@
       "active": false,
       "status": "queued",
       "wave": "later",
-      "historical_year": 1617
+      "historical_year": 1617,
+      "monument_type": "juridical_synodal"
     },
     "1617_pidruchnyj_basilian_legislation": {
       "monument_id": "1617_pidruchnyj_basilian_legislation",
@@ -3218,7 +3359,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1617,
-      "wave": "later"
+      "wave": "later",
+      "monument_type": "juridical_synodal"
     },
     "1627_kyiv_berynda_lexicon": {
       "monument_id": "1627_kyiv_berynda_lexicon",
@@ -3233,7 +3375,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1627,
-      "wave": "later"
+      "wave": "later",
+      "monument_type": "lexicon_scholarly"
     },
     "1628_kyiv_sobol_limonar": {
       "monument_id": "1628_kyiv_sobol_limonar",
@@ -3248,7 +3391,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1628,
-      "wave": "later"
+      "wave": "later",
+      "monument_type": "lexicon_scholarly"
     },
     "1633_oko_philaret": {
       "monument_id": "1633_oko_philaret",
@@ -3263,7 +3407,8 @@
       "active": false,
       "status": "queued",
       "wave": "later",
-      "historical_year": 1633
+      "historical_year": 1633,
+      "monument_type": "typikon"
     },
     "1641_oko_prenikonian": {
       "monument_id": "1641_oko_prenikonian",
@@ -3278,7 +3423,8 @@
       "active": false,
       "status": "queued",
       "wave": "later",
-      "historical_year": 1641
+      "historical_year": 1641,
+      "monument_type": "typikon"
     },
     "1653_kuteino_berynda_lexicon": {
       "monument_id": "1653_kuteino_berynda_lexicon",
@@ -3293,7 +3439,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1653,
-      "wave": "later"
+      "wave": "later",
+      "monument_type": "lexicon_scholarly"
     },
     "1720_zamoysky_fedoriv": {
       "monument_id": "1720_zamoysky_fedoriv",
@@ -3308,7 +3455,8 @@
       "active": false,
       "status": "queued",
       "wave": "later",
-      "historical_year": 1720
+      "historical_year": 1720,
+      "monument_type": "juridical_synodal"
     },
     "1760_kyiv_commented_psalter": {
       "monument_id": "1760_kyiv_commented_psalter",
@@ -3318,12 +3466,13 @@
       "canonical_mirror_dir": "2. Historical Liturgical Texts/Kyivan_Recension/Psalter/Kyiv_1760_Lavra_Commented_Psalter",
       "total_physical_pages": 378,
       "default_cohort_size": 10,
-      "genre_register": "scholarly_critical",
+      "genre_register": "hymnographic",
       "workspace_dir": "Liturgical Monuments/Monument - 1760_kyiv_commented_psalter",
       "active": false,
       "status": "queued",
       "historical_year": 1760,
-      "wave": "later"
+      "wave": "later",
+      "monument_type": "psalter"
     },
     "1901_dmitrievsky_vol2": {
       "monument_id": "1901_dmitrievsky_vol2",
@@ -3341,7 +3490,8 @@
       "active": false,
       "status": "queued",
       "wave": "later",
-      "historical_year": 1901
+      "historical_year": 1901,
+      "monument_type": "lexicon_scholarly"
     },
     "1902_armenian_jamagirk": {
       "monument_id": "1902_armenian_jamagirk",
@@ -3356,7 +3506,8 @@
       "active": false,
       "status": "queued",
       "wave": "later",
-      "historical_year": 1902
+      "historical_year": 1902,
+      "monument_type": "horologion"
     },
     "1905_conybeare_rituale_armenorum": {
       "monument_id": "1905_conybeare_rituale_armenorum",
@@ -3366,12 +3517,13 @@
       "canonical_mirror_dir": "3. Modern Service Books and Typikons/07. Comparative & Historical Rites/Armenian_Rite/1905_Conybeare_Rituale_Armenorum",
       "total_physical_pages": 97,
       "default_cohort_size": 10,
-      "genre_register": "rubrical",
+      "genre_register": "scholarly_critical",
       "workspace_dir": "Liturgical Monuments/Monument 38 - 1905 Conybeare Rituale Armenorum",
       "active": false,
       "status": "queued",
       "wave": "later",
-      "historical_year": 1905
+      "historical_year": 1905,
+      "monument_type": "lexicon_scholarly"
     },
     "1917_dmitrievsky_vol3": {
       "monument_id": "1917_dmitrievsky_vol3",
@@ -3386,7 +3538,8 @@
       "active": false,
       "status": "queued",
       "wave": "later",
-      "historical_year": 1917
+      "historical_year": 1917,
+      "monument_type": "lexicon_scholarly"
     },
     "1978_moscow_synodal_akafistnik": {
       "monument_id": "1978_moscow_synodal_akafistnik",
@@ -3401,7 +3554,8 @@
       "active": false,
       "status": "queued",
       "historical_year": 1978,
-      "wave": "later"
+      "wave": "later",
+      "monument_type": "akathistnik"
     },
     "2004_galadza_sheptytsky": {
       "monument_id": "2004_galadza_sheptytsky",
@@ -3416,7 +3570,8 @@
       "active": false,
       "status": "queued",
       "wave": "later",
-      "historical_year": 2004
+      "historical_year": 2004,
+      "monument_type": "lexicon_scholarly"
     },
     "great_sabbas_synodal": {
       "monument_id": "great_sabbas_synodal",
@@ -3431,7 +3586,8 @@
       "active": false,
       "status": "queued",
       "wave": "later",
-      "historical_year": 9999
+      "historical_year": 9999,
+      "monument_type": "typikon"
     }
   }
 }

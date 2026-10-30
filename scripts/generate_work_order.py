@@ -30,7 +30,66 @@ if sys.stderr and hasattr(sys.stderr, 'reconfigure'):
 SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = SCRIPT_DIR.parent
 REGISTRY_FILE = PROJECT_ROOT / "Liturgical Monuments" / "codex_registry.json"
-from orchestrator_state import load_state, resolve_monument_id
+from orchestrator_state import load_state, resolve_monument_id, resolve_monument_type, load_monument_scaffold
+
+
+def extract_previous_cohort_continuity_context(workspace_dir: Path, monument_id: str, prev_cohort_num: int) -> str:
+    """
+    Extracts the ending leaf number, last folio/page header, active heading,
+    and trailing 3 non-empty lines from Cohort K-1 so Cohort K maintains
+    seamless folio/quire and sentence continuity.
+    """
+    if prev_cohort_num < 1:
+        return ""
+    candidates = [
+        workspace_dir / "Draft" / f"{monument_id}_cohort{prev_cohort_num}_raw_draft.md",
+        workspace_dir / "Final MD" / f"{monument_id}_cohort{prev_cohort_num}.md",
+        workspace_dir / "Cohorts" / f"{monument_id}_cohort{prev_cohort_num}_raw_draft.md",
+        workspace_dir / "Cohorts" / f"{monument_id}_cohort{prev_cohort_num}.md",
+    ]
+    existing = [p for p in candidates if p.exists()]
+    if not existing:
+        return ""
+    newest = max(existing, key=lambda p: p.stat().st_mtime)
+    try:
+        text = newest.read_text(encoding="utf-8")
+    except OSError:
+        return ""
+
+    last_leaf = None
+    last_folio_ref = None
+    last_heading = None
+    non_empty_lines: List[str] = []
+
+    for line in text.splitlines():
+        s = line.strip()
+        if not s:
+            continue
+        m_leaf = re.match(r"^===\s*LEAF\s+p?(\d+)", s, re.IGNORECASE)
+        if m_leaf:
+            last_leaf = int(m_leaf.group(1))
+            continue
+        if s.startswith("#"):
+            last_heading = s
+        m_fol = re.search(r"\b(?:Fol\.|Folio|Page|pp\.)\s*\d+[rv]?\b", s, re.IGNORECASE)
+        if m_fol:
+            last_folio_ref = m_fol.group(0)
+        non_empty_lines.append(s)
+
+    tail_lines = non_empty_lines[-3:] if non_empty_lines else []
+    ctx_lines = [
+        f"- **Previous Cohort**: Cohort {prev_cohort_num} (ended on physical leaf `p{last_leaf}`)" if last_leaf else f"- **Previous Cohort**: Cohort {prev_cohort_num}",
+    ]
+    if last_folio_ref:
+        ctx_lines.append(f"- **Last Attested Folio/Page Reference**: `{last_folio_ref}` (verify sequential foliation/quire continuity on your first leaf; flag any physical jump in a footnote)")
+    if last_heading:
+        ctx_lines.append(f"- **Active Section Heading**: `{last_heading}`")
+    if tail_lines:
+        ctx_lines.append("- **Trailing 3 Lines of Previous Cohort**:")
+        for tl in tail_lines:
+            ctx_lines.append(f"  > {tl[:160]}")
+    return "\n".join(ctx_lines)
+
 
 def get_next_footnote_index(footnotes_path: Path) -> int:
     if not footnotes_path.exists():
@@ -41,6 +100,7 @@ def get_next_footnote_index(footnotes_path: Path) -> int:
     if not markers:
         return 1
     return max(markers) + 1
+
 
 def parse_range_from_state(state: Dict[str, Any], cohort_num: int) -> Optional[Tuple[int, int]]:
     """Extract start and end page if state defines current_cohort_range matching cohort_num."""
@@ -53,6 +113,7 @@ def parse_range_from_state(state: Dict[str, Any], cohort_num: int) -> Optional[T
         if m2:
             return int(m2.group(1)), int(m2.group(2))
     return None
+
 
 def compute_monument_cohort_partitions(total_pages: int, cohort_size: int = 20) -> List[Dict[str, int]]:
     num_cohorts = math.ceil(total_pages / cohort_size)
@@ -67,6 +128,7 @@ def compute_monument_cohort_partitions(total_pages: int, cohort_size: int = 20) 
             "leaf_count": ep - sp + 1
         })
     return partitions
+
 
 def generate_monument_startup_directive(monument_id: Optional[str] = None) -> Path:
     with open(REGISTRY_FILE, "r", encoding="utf-8") as f:
@@ -132,6 +194,7 @@ def generate_monument_startup_directive(monument_id: Optional[str] = None) -> Pa
     print(f"Generated Autonomous Monument Directive: {directive_path.relative_to(PROJECT_ROOT)}")
     return directive_path
 
+
 def generate_work_order(
     monument_id: Optional[str] = None,
     cohort_num: Optional[int] = None,
@@ -190,16 +253,11 @@ def generate_work_order(
         transcription_inst = f"Transcribe Church Slavonic source text leaf-by-leaf with headers `=== LEAF p{{N}} ===` (for each leaf p{start_page} through p{end_page})."
         translation_inst = f"Translate unabridged into `{draft_md_out.name}` with inline footnote markers `[^N]`."
 
-    scaffolds_path = PROJECT_ROOT / "data" / "templates" / "publication_spec_scaffolds.json"
-    if scaffolds_path.exists():
-        try:
-            scaffolds = json.loads(scaffolds_path.read_text(encoding="utf-8"))
-            key = "octoechos" if "octoechos" in monument_id.lower() else "default"
-            h1_inst = scaffolds.get(key, scaffolds.get("default", {})).get("canonical_h1_instruction", "")
-            if h1_inst:
-                translation_inst = f"{translation_inst} {h1_inst}"
-        except (OSError, json.JSONDecodeError) as e:
-            print(f"[Warning] Could not load publication_spec_scaffolds.json: {e}", file=sys.stderr)
+    scaffold = load_monument_scaffold(monument_id, mon_info)
+    mon_type = scaffold.get("monument_type", resolve_monument_type(monument_id, mon_info))
+    h1_inst = scaffold.get("canonical_h1_instruction", "")
+    if h1_inst:
+        translation_inst = f"{translation_inst} {h1_inst}"
 
     work_order_tpl = (PROJECT_ROOT / "data" / "templates" / "work_order_template.md").read_text(encoding="utf-8")
     content = work_order_tpl.format(
@@ -222,21 +280,32 @@ def generate_work_order(
     )
 
     coord_notes = mon_info.get("coordinate_notes")
-    guardrails = mon_info.get("flash_execution_guardrails", [])
-    if coord_notes or guardrails:
-        content += "\n\n---\n\n## 4. Monument-Specific Codicological & Formatting Guardrails\n"
-        if coord_notes:
-            content += f"**Codicological Notes**: {coord_notes}\n\n"
-        if guardrails:
-            content += "**Flash Execution Guardrails**:\n"
-            for g in guardrails:
-                content += f"- {g}\n"
+    guardrails = list(mon_info.get("flash_execution_guardrails", []))
+    type_guardrails = list(scaffold.get("prompt_guardrails", []))
+    combined_guardrails = []
+    for g in type_guardrails + guardrails:
+        if g and g not in combined_guardrails:
+            combined_guardrails.append(g)
+
+    content += f"\n\n---\n\n## 4. Monument-Type (`{mon_type}`) & Codicological Guardrails\n"
+    if coord_notes:
+        content += f"**Codicological Notes**: {coord_notes}\n\n"
+    if combined_guardrails:
+        content += "**Execution Guardrails**:\n"
+        for g in combined_guardrails:
+            content += f"- {g}\n"
+
+    if cohort_num > 1:
+        prev_ctx = extract_previous_cohort_continuity_context(workspace_dir, monument_id, cohort_num - 1)
+        if prev_ctx:
+            content += f"\n\n---\n\n## 5. Preceding Cohort Continuity Context (Cohort {cohort_num - 1} -> Cohort {cohort_num})\n{prev_ctx}\n"
 
     with open(work_order_file, "w", encoding="utf-8") as f:
         f.write(content)
 
     print(f"Generated Work Order: {work_order_file.relative_to(PROJECT_ROOT)}")
     return work_order_file
+
 
 def main():
     parser = argparse.ArgumentParser(description="Universal Work Order & Startup Directive Generator")
@@ -262,6 +331,7 @@ def main():
     except Exception as e:
         print(f"ERROR: {e}", file=sys.stderr)
         sys.exit(1)
+
 
 if __name__ == "__main__":
     main()

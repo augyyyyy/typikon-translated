@@ -609,5 +609,118 @@
       ],
       "impact": "Eliminates 15-35 exploratory shell commands per cohort (saving ~5-8 minutes per cohort on registry lookups, CP1252 crashes, and accidental re-runs on cohort K-1)."
     }
+  ],
+  "title": "17th-Century Carpathian-Galician Manuscript Octoechos (Октоїх рукописний, Прикарпаття, XVII ст.)",
+  "monument_type": "octoechos",
+  "genre_register": "hymnographic",
+  "retrospective_timestamp": "2026-10-30T21:19:14.964855+00:00",
+  "codicological_profile": {
+    "total_physical_leaves": 222,
+    "cohort_count": 23,
+    "default_cohort_size": 10,
+    "monument_type": "octoechos"
+  },
+  "subagent_execution_telemetry": {
+    "total_cohorts_dispatched": 23,
+    "worker_model": "flash",
+    "cohorts_passing_gate_100pct": 23,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.057,
+      "median_cohort_ratio": 1.296,
+      "max_cohort_median": 1.379
+    }
+  },
+  "argon_review_queue_telemetry": {
+    "total_items_recorded": 0,
+    "resolved_by_argon": 0,
+    "info_telemetry_only": 0,
+    "unresolved_quarantines": 0,
+    "codicological_crux_count": 0
+  },
+  "final_publication_verification": {
+    "parts_count": 10,
+    "parts": [
+      "1600s_prykarpattia_ms_octoechos_part0_front_matter.md",
+      "1600s_prykarpattia_ms_octoechos_part1_tone-1.md",
+      "1600s_prykarpattia_ms_octoechos_part2_tone-2.md",
+      "1600s_prykarpattia_ms_octoechos_part3_tone-3-fol-37.md",
+      "1600s_prykarpattia_ms_octoechos_part4_tone-4-fol-54.md",
+      "1600s_prykarpattia_ms_octoechos_part5_tone-5.md",
+      "1600s_prykarpattia_ms_octoechos_part6_tone-6.md",
+      "1600s_prykarpattia_ms_octoechos_part7_tone-7.md",
+      "1600s_prykarpattia_ms_octoechos_part8_tone-8.md",
+      "1600s_prykarpattia_ms_octoechos_part9_exapostilaria-and-evangelical-stichera.md"
+    ],
+    "total_footnotes_verified": 236,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.057,
+      "median_cohort_ratio": 1.296,
+      "max_cohort_median": 1.379
+    },
+    "all_6_publication_gates_passed": true
+  },
+  "edge_cases_and_anomalies": [
+    {
+      "id": "EC-01",
+      "category": "scripts/compile_final_edition.py (_slice_parts, line 1025)",
+      "severity": "HIGH",
+      "description": "When _is_scaffolded_pub_spec is True (universal_dynamic_h1 mode), dynamically sliced parts in self.pub_spec['parts'] were not persisted back to codex_registry.json, causing verify_publication_edition.py to fail with 'has no publication_spec in codex_registry.json!'."
+    },
+    {
+      "id": "EC-02",
+      "category": "scripts/hymnographic_gold_normalizer.py (stitch_2up_hymnographic_stream, lines 970-1053)",
+      "severity": "HIGH",
+      "description": "Stitched 0 out of 209 mid-sentence leaf boundaries because RE_LEAF_BANNER ('=== LEAF pN ===') does not set pending_milestone = locus.get_milestone(), and top-of-page manuscript running headers ('[Sunday.]', '(fol. N)') are not recognized by RE_PAGE_HEADER, consuming the boundary before the '...continuation' line."
+    },
+    {
+      "id": "EC-03",
+      "category": "scripts/hymnographic_gold_normalizer.py (generate_propers_corpus, lines 1867-1985)",
+      "severity": "HIGH",
+      "description": "Assigned 'office': 'Front Matter' and 'ode': null to 100% of all 3,125 items, and assigned 'tone': 8 to 1,425 items (absorbing Cohorts 15-22 weekday Tones 1-7 and Exapostilaria), because generate_propers_corpus relies on explicit H2/H4 headings whereas manuscript cohorts use inline italic rubrics."
+    },
+    {
+      "id": "EC-04",
+      "category": "scripts/verify_publication_edition.py (Gate 7E, line 633)",
+      "severity": "HIGH",
+      "description": "Hardcoded len(grid_tones) < 8 failed on a 222-leaf manuscript Octoechos that physically attests explicit Podoben rubrics in 5 tones ([1, 3, 4, 6, 8], 20 invocations)."
+    },
+    {
+      "id": "EC-05",
+      "category": "scripts/hymnographic_gold_normalizer.py (generate_father_paul_digest, lines 1656-1665)",
+      "severity": "HIGH",
+      "description": "Gate 7F parity mismatch (comp=20, grid=20, rev=19) because generate_father_paul_digest counted raw 'podoben:' lines in Cohorts/*.md on disk (19) instead of normalized all_stitched_cohorts in memory (20, after PODOBEN_SAME_NORMALIZED expanded C12:p112)."
+    }
+  ],
+  "engine_hardening_proposals": [
+    {
+      "proposal_id": "RANK-1",
+      "target_script": "scripts/hymnographic_gold_normalizer.py",
+      "priority": "RANK_1",
+      "title": "Enable Leaf-Banner & Running-Header Seam Stitching for Epigraphic Manuscripts"
+    },
+    {
+      "proposal_id": "RANK-2",
+      "target_script": "scripts/hymnographic_gold_normalizer.py",
+      "priority": "RANK_2",
+      "title": "Unify Propers Corpus State Machine with Inline Italic Rubrics (Office, Ode, & Weekday Tone Tracking)"
+    },
+    {
+      "proposal_id": "RANK-3",
+      "target_script": "scripts/lint_liturgical_slop.py",
+      "priority": "RANK_3",
+      "title": "Unify Gate 1B (lint_liturgical_slop.py) 3rd-Person -eth Detection with Gate 4 & Pre-Gate Self-Healer"
+    },
+    {
+      "proposal_id": "RANK-4",
+      "target_script": "scripts/hieratic_pronoun_audit.py",
+      "priority": "RANK_4",
+      "title": "Add Marian (Theotokion) & Adversary Clauses to Hieratic Pronoun Auditor Exclusion Filter"
+    },
+    {
+      "proposal_id": "RANK-5",
+      "target_script": "data/templates/work_order_template.md",
+      "priority": "RANK_5",
+      "title": "Inject Inline Pre-Flight Summary & Lock --cohort Target in Work Order Template to Eliminate Exploratory Shell Overhead"
+    }
   ]
 }

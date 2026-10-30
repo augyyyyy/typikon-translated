@@ -1,0 +1,51 @@
+{
+  "monument_id": "1852_doskovsky_typikon",
+  "title": "Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852)",
+  "monument_type": "typikon",
+  "genre_register": "rubrical",
+  "retrospective_timestamp": "2026-10-30T21:19:06.961753+00:00",
+  "codicological_profile": {
+    "total_physical_leaves": 141,
+    "cohort_count": 15,
+    "default_cohort_size": 10,
+    "monument_type": "typikon"
+  },
+  "subagent_execution_telemetry": {
+    "total_cohorts_dispatched": 15,
+    "worker_model": "flash",
+    "cohorts_passing_gate_100pct": 15,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.076,
+      "median_cohort_ratio": 1.44,
+      "max_cohort_median": 1.812
+    }
+  },
+  "argon_review_queue_telemetry": {
+    "total_items_recorded": 0,
+    "resolved_by_argon": 0,
+    "info_telemetry_only": 0,
+    "unresolved_quarantines": 0,
+    "codicological_crux_count": 0
+  },
+  "final_publication_verification": {
+    "parts_count": 7,
+    "parts": [
+      "1852_doskovsky_part0_intro_and_toc.md",
+      "1852_doskovsky_part1_general_services.md",
+      "1852_doskovsky_part2_concurrence_rules.md",
+      "1852_doskovsky_part3_menaion.md",
+      "1852_doskovsky_part4_triodion.md",
+      "1852_doskovsky_part5_pentecostarion.md",
+      "1852_doskovsky_part6_tables_and_colophon.md"
+    ],
+    "total_footnotes_verified": 302,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.076,
+      "median_cohort_ratio": 1.44,
+      "max_cohort_median": 1.812
+    },
+    "all_6_publication_gates_passed": true
+  },
+  "edge_cases_and_anomalies": [],
+  "engine_hardening_proposals": []
+}

@@ -73,12 +73,34 @@
     "first_pass_clean_cohorts": 125,
     "self_healed_cohorts_count": 15,
     "flash_subagent_retry_cohorts_count": 1,
-    "flash_subagent_retry_cohorts": [2],
+    "flash_subagent_retry_cohorts": [
+      2
+    ],
     "quarantined_cohorts_count": 0,
     "triage_events_by_gate": {
-      "gate_1a_vocabulary": [27, 100],
-      "gate_2_hieratic_pronouns": [20, 21, 27, 45, 54, 58, 60, 62, 67, 73, 94, 101, 106, 134],
-      "gate_4_structural": [2]
+      "gate_1a_vocabulary": [
+        27,
+        100
+      ],
+      "gate_2_hieratic_pronouns": [
+        20,
+        21,
+        27,
+        45,
+        54,
+        58,
+        60,
+        62,
+        67,
+        73,
+        94,
+        101,
+        106,
+        134
+      ],
+      "gate_4_structural": [
+        2
+      ]
     },
     "compiler_stage_healer_stats": {
       "draft_files_modified_by_healer": 32,
@@ -91,62 +113,90 @@
         "Aseneth": {
           "corrupted_to": "Asens",
           "count": 3,
-          "locations": ["Cohort 14 Draft L182", "Cohort 14 Footnote [^199]", "Cohort 15 Draft L26"]
+          "locations": [
+            "Cohort 14 Draft L182",
+            "Cohort 14 Footnote [^199]",
+            "Cohort 15 Draft L26"
+          ]
         },
         "believeth": {
           "corrupted_to": "believs",
           "count": 3,
-          "locations": ["Cohort 19 Footnote [^288]", "Cohort 22 Draft L105", "Cohort 127 Footnote [^3880]"]
+          "locations": [
+            "Cohort 19 Footnote [^288]",
+            "Cohort 22 Draft L105",
+            "Cohort 127 Footnote [^3880]"
+          ]
         },
         "cleaveth": {
           "corrupted_to": "cleavs",
           "count": 1,
-          "locations": ["Cohort 118 Footnote [^3458]"]
+          "locations": [
+            "Cohort 118 Footnote [^3458]"
+          ]
         },
         "compelleth": {
           "corrupted_to": "compells",
           "count": 1,
-          "locations": ["Cohort 114 Draft L25"]
+          "locations": [
+            "Cohort 114 Draft L25"
+          ]
         },
         "drieth": {
           "corrupted_to": "dris",
           "count": 1,
-          "locations": ["Cohort 108 Footnote [^3099]"]
+          "locations": [
+            "Cohort 108 Footnote [^3099]"
+          ]
         },
         "forgiveth": {
           "corrupted_to": "forgivs",
           "count": 1,
-          "locations": ["Cohort 106 Draft L13"]
+          "locations": [
+            "Cohort 106 Draft L13"
+          ]
         },
         "partaketh": {
           "corrupted_to": "partaks",
           "count": 1,
-          "locations": ["Cohort 41 Draft L30"]
+          "locations": [
+            "Cohort 41 Draft L30"
+          ]
         },
         "rebuketh": {
           "corrupted_to": "rebuks",
           "count": 1,
-          "locations": ["Cohort 108 Footnote [^3099]"]
+          "locations": [
+            "Cohort 108 Footnote [^3099]"
+          ]
         },
         "removeth": {
           "corrupted_to": "removs",
           "count": 1,
-          "locations": ["Cohort 135 Footnote [^4136]"]
+          "locations": [
+            "Cohort 135 Footnote [^4136]"
+          ]
         },
         "rideth": {
           "corrupted_to": "rids",
           "count": 1,
-          "locations": ["Cohort 87 Footnote [^2472]"]
+          "locations": [
+            "Cohort 87 Footnote [^2472]"
+          ]
         },
         "trieth": {
           "corrupted_to": "tris",
           "count": 1,
-          "locations": ["Cohort 7 Footnote [^108]"]
+          "locations": [
+            "Cohort 7 Footnote [^108]"
+          ]
         },
         "wasteth": {
           "corrupted_to": "wasts",
           "count": 1,
-          "locations": ["Cohort 48 Footnote [^1419]"]
+          "locations": [
+            "Cohort 48 Footnote [^1419]"
+          ]
         }
       }
     }
@@ -173,7 +223,12 @@
       "12": 1
     },
     "true_epigraphic_or_codicological_crux_leaves": 4,
-    "true_crux_leaves_list": [407, 1370, 1391, 1392],
+    "true_crux_leaves_list": [
+      407,
+      1370,
+      1391,
+      1392
+    ],
     "false_positive_noise_leaves": 265,
     "signal_precision_percent": 1.49,
     "false_positive_rate_percent": 98.51,
@@ -323,36 +378,213 @@
       "rank": 1,
       "severity": "CRITICAL",
       "target_file": "scripts/compile_final_edition.py",
-      "target_functions": ["NON_VERB_ETH_TOKENS", "EXACT_ETH_VERB_MAP", "_convert_3rd_person_eth_token"],
+      "target_functions": [
+        "NON_VERB_ETH_TOKENS",
+        "EXACT_ETH_VERB_MAP",
+        "_convert_3rd_person_eth_token"
+      ],
       "summary": "Fix naive '-eth' stemmer that corrupts biblical proper noun 'Aseneth' -> 'Asens' (3x) and 11 silent-e / -ieth / -lleth verbs ('believeth' -> 'believs', 'cleaveth' -> 'cleavs', 'forgiveth' -> 'forgivs', 'partaketh' -> 'partaks', 'rebuketh' -> 'rebuks', 'removeth' -> 'removs', 'rideth' -> 'rids', 'wasteth' -> 'wasts', 'drieth' -> 'dris', 'trieth' -> 'tris', 'compelleth' -> 'compells')."
     },
     {
       "rank": 2,
       "severity": "HIGH",
       "target_file": "scripts/compile_final_edition.py",
-      "target_functions": ["UniversalPublicationEngine._slice_parts", "UniversalPublicationEngine._build_master_toc"],
+      "target_functions": [
+        "UniversalPublicationEngine._slice_parts",
+        "UniversalPublicationEngine._build_master_toc"
+      ],
       "summary": "Strip trailing '[^N]' footnote markers from dynamic H1 titles in _slice_parts() and _build_master_toc() so 55 part-heading footnotes are not duplicated into Part 0's Table of Contents and local ### Notes block."
     },
     {
       "rank": 3,
       "severity": "HIGH",
       "target_file": "scripts/compile_final_edition.py",
-      "target_functions": ["is_explicit_leaf_marker", "purge_scaffolding_and_stitch_seams", "stitch_leaf_stream"],
+      "target_functions": [
+        "is_explicit_leaf_marker",
+        "purge_scaffolding_and_stitch_seams",
+        "stitch_leaf_stream"
+      ],
       "summary": "Strip 273 '[Fol. Xr. Running header: ...]' lines and 92 inline '... [continues onto leaf pN]' / '**Role (continued):**' markers before seam stitching, and normalize '[Blank leaf — Fol. Xv][^N]' and diplomatic flyleaf descriptions into '*[Fol. Xv — Vacat]*[^N]' and '*[Flyleaf — ...]*' to eliminate all 8 Gate 1 placeholder collisions without orphaning footnotes."
     },
     {
       "rank": 4,
       "severity": "MEDIUM-HIGH",
       "target_file": "scripts/run_small_pause_gate.py",
-      "target_functions": ["collect_argon_review_signals"],
+      "target_functions": [
+        "collect_argon_review_signals"
+      ],
       "summary": "Recalibrate Signal 3B ('dense_polyglot_apparatus') for Euchologion/Nomocanon monuments by raising the footnote threshold from >=5 to >=9 (or requiring >=6 plus a footnote crux keyword), cutting false-positive Argon queue noise on 1606_striatyn_balaban_trebnyk by 95.9% (from 269 leaves to 11 leaves)."
     },
     {
       "rank": 5,
       "severity": "MEDIUM",
       "target_file": "scripts/compile_final_edition.py & data/templates/work_order_template.md",
-      "target_functions": ["format_liturgical_typography", "Statutory Mandates 4 & 12"],
+      "target_functions": [
+        "format_liturgical_typography",
+        "Statutory Mandates 4 & 12"
+      ],
       "summary": "Allow optional '**' around speaker roles in format_liturgical_typography() so all 1,195 '**Priest:**' / '**Deacon:**' lines receive blockquote formatting, and update work_order_template.md Mandates 4 & 12 to ban '-eth' verbs in Scriptural citations/footnotes and use '*[Flyleaf / Vacat: ...]*' instead of '[Blank leaf: ...]'."
+    }
+  ],
+  "monument_type": "trebnyk_euchologion",
+  "genre_register": "rubrical",
+  "retrospective_timestamp": "2026-10-30T21:19:15.771479+00:00",
+  "codicological_profile": {
+    "total_physical_leaves": 1401,
+    "cohort_count": 141,
+    "default_cohort_size": 10,
+    "monument_type": "trebnyk_euchologion"
+  },
+  "subagent_execution_telemetry": {
+    "total_cohorts_dispatched": 141,
+    "worker_model": "flash",
+    "cohorts_passing_gate_100pct": 141,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 0.996,
+      "median_cohort_ratio": 1.17,
+      "max_cohort_median": 1.475
+    }
+  },
+  "argon_review_queue_telemetry": {
+    "total_items_recorded": 269,
+    "resolved_by_argon": 269,
+    "info_telemetry_only": 0,
+    "unresolved_quarantines": 0,
+    "codicological_crux_count": 0
+  },
+  "final_publication_verification": {
+    "parts_count": 59,
+    "parts": [
+      "1606_striatyn_balaban_trebnyk_part0_front_matter.md",
+      "1606_striatyn_balaban_trebnyk_part1_preface-to-the-reader.md",
+      "1606_striatyn_balaban_trebnyk_part2_part-i-order-for-the-naming-of-a-child-o.md",
+      "1606_striatyn_balaban_trebnyk_part3_part-ii-canons-of-the-holy-apostles-and.md",
+      "1606_striatyn_balaban_trebnyk_part4_part-iii-the-order-of-the-catechumenate.md",
+      "1606_striatyn_balaban_trebnyk_part5_part-iv-the-order-of-holy-baptism.md",
+      "1606_striatyn_balaban_trebnyk_part6_part-v-the-order-for-the-ablution-of-the.md",
+      "1606_striatyn_balaban_trebnyk_part7_part-vi-the-order-of-how-it-is-befitting.md",
+      "1606_striatyn_balaban_trebnyk_part8_part-vii-the-order-of-how-it-is-befittin.md",
+      "1606_striatyn_balaban_trebnyk_part9_part-viii-the-order-that-takes-place-at.md",
+      "1606_striatyn_balaban_trebnyk_part10_part-ix-the-order-of-crowning.md",
+      "1606_striatyn_balaban_trebnyk_part11_part-x-prayer-at-the-dissolution-of-crow.md",
+      "1606_striatyn_balaban_trebnyk_part12_part-xi-chapters-of-patriarch-nicephorus.md",
+      "1606_striatyn_balaban_trebnyk_part13_part-xii-the-order-for-a-second-marriage.md",
+      "1606_striatyn_balaban_trebnyk_part14_part-xiii-the-order-of-the-holy-oil-chan.md",
+      "1606_striatyn_balaban_trebnyk_part15_part-xiv-the-order-performed-when-someon.md",
+      "1606_striatyn_balaban_trebnyk_part16_part-xv-the-order-for-confession-how-it.md",
+      "1606_striatyn_balaban_trebnyk_part17_part-xvi-the-order-of-holy-communion.md",
+      "1606_striatyn_balaban_trebnyk_part18_part-xvii-prayers-of-thanksgiving-after.md",
+      "1606_striatyn_balaban_trebnyk_part19_part-xviii-the-order-of-how-it-is-befitt.md",
+      "1606_striatyn_balaban_trebnyk_part20_part-xix-the-order-performed-at-the-sepa.md",
+      "1606_striatyn_balaban_trebnyk_part21_part-xx-canonical-chapters-of-patriarch.md",
+      "1606_striatyn_balaban_trebnyk_part22_part-xxi-the-order-of-burial.md",
+      "1606_striatyn_balaban_trebnyk_part23_part-xxii-prayers-of-absolution-for-ever.md",
+      "1606_striatyn_balaban_trebnyk_part24_part-xxiii-the-order-for-burial-on-holy.md",
+      "1606_striatyn_balaban_trebnyk_part25_part-xxiv-the-order-for-the-burial-of-an.md",
+      "1606_striatyn_balaban_trebnyk_part26_part-xxv-the-order-of-the-funeral-singin.md",
+      "1606_striatyn_balaban_trebnyk_part27_part-xxvi-the-order-that-takes-place-at.md",
+      "1606_striatyn_balaban_trebnyk_part28_part-xxvii-the-order-of-the-little-schem.md",
+      "1606_striatyn_balaban_trebnyk_part29_part-xxviii-the-order-of-the-great-angel.md",
+      "1606_striatyn_balaban_trebnyk_part30_part-xxix-the-burial-the-funeral-office.md",
+      "1606_striatyn_balaban_trebnyk_part31_part-xxx-the-order-of-the-lesser-sanctif.md",
+      "1606_striatyn_balaban_trebnyk_part32_part-xxxi-the-order-of-the-great-sanctif.md",
+      "1606_striatyn_balaban_trebnyk_part33_part-xxxii-the-order-unto-our-lord-jesus.md",
+      "1606_striatyn_balaban_trebnyk_part34_part-xxxiii-the-order-that-takes-place-i.md",
+      "1606_striatyn_balaban_trebnyk_part35_part-xxxiv-on-the-sunday-of-holy-penteco.md",
+      "1606_striatyn_balaban_trebnyk_part36_part-xxxv-the-consolatory-service-sung-o.md",
+      "1606_striatyn_balaban_trebnyk_part37_part-xxxvi-the-order-for-the-elevation-o.md",
+      "1606_striatyn_balaban_trebnyk_part38_part-xxxvii-concerning-stauropegia.md",
+      "1606_striatyn_balaban_trebnyk_part39_part-xxxviii-prayers-for-every-need.md",
+      "1606_striatyn_balaban_trebnyk_part40_part-xxxix-the-order-performed-in-fields.md",
+      "1606_striatyn_balaban_trebnyk_part41_part-xl-the-office-for-priests-tempted-i.md",
+      "1606_striatyn_balaban_trebnyk_part42_part-xli-occasional-prayers-consolatory.md",
+      "1606_striatyn_balaban_trebnyk_part43_part-xlii-the-office-in-time-of-the-inva.md",
+      "1606_striatyn_balaban_trebnyk_part44_part-xliii-canon-unto-the-holy-consubsta.md",
+      "1606_striatyn_balaban_trebnyk_part45_part-xliv-on-the-elevation-of-the-panagi.md",
+      "1606_striatyn_balaban_trebnyk_part46_part-xlv-the-order-for-a-furnace-kiln.md",
+      "1606_striatyn_balaban_trebnyk_part47_part-xlvi-the-order-over-children-depart.md",
+      "1606_striatyn_balaban_trebnyk_part48_part-xlvii-the-order-concerning-the-comm.md",
+      "1606_striatyn_balaban_trebnyk_part49_part-xlviii-the-order-over-the-compoundi.md",
+      "1606_striatyn_balaban_trebnyk_part50_part-xlix-prayers-at-the-blessing-and-br.md",
+      "1606_striatyn_balaban_trebnyk_part51_part-l-epistle-of-john-most-holy-bishop.md",
+      "1606_striatyn_balaban_trebnyk_part52_part-li-again-diverse-injunctions-of-the.md",
+      "1606_striatyn_balaban_trebnyk_part53_part-lii-again-other-injunctions-from-th.md",
+      "1606_striatyn_balaban_trebnyk_part54_part-liii-degrees-of-kinship-and-concern.md",
+      "1606_striatyn_balaban_trebnyk_part55_part-liv-concerning-carrion-abominations.md",
+      "1606_striatyn_balaban_trebnyk_part56_part-lv-concerning-those-who-abduct-wome.md",
+      "1606_striatyn_balaban_trebnyk_part57_part-lvi-colophon-imprint-of-the-striaty.md",
+      "1606_striatyn_balaban_trebnyk_part58_part-lvii-table-of-contents.md"
+    ],
+    "total_footnotes_verified": 4364,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 0.996,
+      "median_cohort_ratio": 1.17,
+      "max_cohort_median": 1.475
+    },
+    "all_6_publication_gates_passed": true
+  },
+  "edge_cases_and_anomalies": [
+    {
+      "id": "EC-01",
+      "category": "scripts/compile_final_edition.py (_slice_parts & _build_master_toc)",
+      "severity": "HIGH",
+      "description": "In universal_dynamic_h1 mode, 55 H1 headings carry trailing [^N] markers (e.g., '# PART III: ...[^82]'). _slice_parts stores literal [^N] in ps['title'] and _build_master_toc does not strip [^N] from H1 titles, duplicating 55 part-title footnote citations into Part 0's Table of Contents and local ### Notes block."
+    },
+    {
+      "id": "EC-02",
+      "category": "scripts/compile_final_edition.py (is_explicit_leaf_marker & stitch_leaf_stream)",
+      "severity": "HIGH",
+      "description": "273 bracketed running header lines ('[Fol. 12r. Running header: ...]') in Cohorts 5-33 are not matched by is_explicit_leaf_marker(), causing stitch_leaf_stream() to stitch mid-sentence page breaks into the running header bracket."
+    },
+    {
+      "id": "EC-03",
+      "category": "scripts/compile_final_edition.py (purge_scaffolding_and_stitch_seams)",
+      "severity": "HIGH",
+      "description": "92 inline continuation markers ('... [continues onto leaf p1274]') and '**Priest (continued):**' headers in Cohorts 127-138 survive into the compiled stream or block mid-prayer stitching."
+    },
+    {
+      "id": "EC-04",
+      "category": "scripts/verify_publication_edition.py (PLACEHOLDER_PATTERNS) vs work_order_template.md (Mandate 12)",
+      "severity": "HIGH",
+      "description": "2 footnoted blank leaves ('[Blank leaf — Fol. 264v][^1573]') and 5 diplomatic flyleaf descriptions ('[Blank leaf: verso of the rear free flyleaf...]') trigger Gate 1 'Blank leaf indicator' failures; deleting the footnoted blank leaf lines without converting them to '*[Fol. 264v — Vacat]*[^1573]' would orphan [^1573] and [^1597] in Gate 2."
+    },
+    {
+      "id": "EC-05",
+      "category": "scripts/compile_final_edition.py (format_liturgical_typography)",
+      "severity": "HIGH",
+      "description": "Dialogue regex '^(?:>\\s*)?(?:The\\s+)?(Priest|...):\\s*(.*)$' lacks optional '(?:\\*\\*)?' around the speaker role, missing all 1,195 bolded '**Priest:**' / '**Deacon:**' / '**Choir:**' dialogue lines mandated by work_order_template.md Mandate 10."
+    }
+  ],
+  "engine_hardening_proposals": [
+    {
+      "proposal_id": "RANK-1",
+      "target_script": "scripts/compile_final_edition.py",
+      "priority": "CRITICAL",
+      "title": "Fix naive '-eth' stemmer that corrupts biblical proper noun 'Aseneth' -> 'Asens' (3x) and 11 silent-e / -ieth / -lleth verbs ('believeth' -> 'believs', 'cleaveth' -> 'cleavs', 'forgiveth' -> 'forgivs', 'partaketh' -> 'partaks', 'rebuketh' -> 'rebuks', 'removeth' -> 'removs', 'rideth' -> 'rids', 'wasteth' -> 'wasts', 'drieth' -> 'dris', 'trieth' -> 'tris', 'compelleth' -> 'compells')."
+    },
+    {
+      "proposal_id": "RANK-2",
+      "target_script": "scripts/compile_final_edition.py",
+      "priority": "HIGH",
+      "title": "Strip trailing '[^N]' footnote markers from dynamic H1 titles in _slice_parts() and _build_master_toc() so 55 part-heading footnotes are not duplicated into Part 0's Table of Contents and local ### Notes block."
+    },
+    {
+      "proposal_id": "RANK-3",
+      "target_script": "scripts/compile_final_edition.py",
+      "priority": "HIGH",
+      "title": "Strip 273 '[Fol. Xr. Running header: ...]' lines and 92 inline '... [continues onto leaf pN]' / '**Role (continued):**' markers before seam stitching, and normalize '[Blank leaf — Fol. Xv][^N]' and diplomatic flyleaf descriptions into '*[Fol. Xv — Vacat]*[^N]' and '*[Flyleaf — ...]*' to eliminate all 8 Gate 1 placeholder collisions without orphaning footnotes."
+    },
+    {
+      "proposal_id": "RANK-4",
+      "target_script": "scripts/run_small_pause_gate.py",
+      "priority": "MEDIUM-HIGH",
+      "title": "Recalibrate Signal 3B ('dense_polyglot_apparatus') for Euchologion/Nomocanon monuments by raising the footnote threshold from >=5 to >=9 (or requiring >=6 plus a footnote crux keyword), cutting false-positive Argon queue noise on 1606_striatyn_balaban_trebnyk by 95.9% (from 269 leaves to 11 leaves)."
+    },
+    {
+      "proposal_id": "RANK-5",
+      "target_script": "scripts/compile_final_edition.py & data/templates/work_order_template.md",
+      "priority": "MEDIUM",
+      "title": "Allow optional '**' around speaker roles in format_liturgical_typography() so all 1,195 '**Priest:**' / '**Deacon:**' lines receive blockquote formatting, and update work_order_template.md Mandates 4 & 12 to ban '-eth' verbs in Scriptural citations/footnotes and use '*[Flyleaf / Vacat: ...]*' instead of '[Blank leaf: ...]'."
     }
   ]
 }

@@ -3,9 +3,10 @@
 Anti-Fanciful Slop Language & Style Linter
 ==========================================
 Enforces MTS-1 stylistic rigor across English liturgical translation drafts:
-1. Rejects pseudo-archaic AI fantasy vocabulary (verily, betwixt, twas, etc.).
+1. Rejects pseudo-archaic AI fantasy vocabulary (verily, betwixt, twas, peradventure, forsooth, haply, etc.).
 2. Rejects AI conversational clichés and filler phrases (testament to, delve into, etc.).
 3. Rejects gratuitous rubrical 'shall'-bombing in ceremonial actions (active present indicative required).
+4. Rejects 3rd-person singular '-eth' verb drift across body and footnotes (unified 120+ verb detector).
 
 Usage:
     python scripts/lint_liturgical_slop.py --target "path/to/draft.md"
@@ -24,6 +25,34 @@ if sys.stdout and hasattr(sys.stdout, 'reconfigure'):
 if sys.stderr and hasattr(sys.stderr, 'reconfigure'):
     sys.stderr.reconfigure(encoding='utf-8')
 
+NON_VERB_ETH_TOKENS = {
+    "beth", "seth", "nazareth", "elizabeth", "gennesaret", "shibboleth",
+    "kenneth", "teeth", "beneath", "underneath", "twentieth", "thirtieth",
+    "fortieth", "fiftieth", "sixtieth", "seventieth", "eightieth",
+    "ninetieth", "hundredth", "thousandth", "aseneth", "japheth",
+    "mephibosheth", "ishbosheth", "gath", "sabbath", "hath", "doth",
+}
+
+BANNED_ETH_VERBS = (
+    "abideth|agreeth|assuageth|battleth|becometh|begetteth|beginneth|beguileth|behooveth|"
+    "believeth|blotteth|boweth|causeth|ceaseth|celebrateth|censeth|cleanseth|cleaveth|"
+    "cometh|commiteth|committeth|compelleth|createth|crieth|cutteth|danceth|decreeth|"
+    "defileth|denieth|describeth|desireth|dieth|dispelleth|doeth|donateth|draggeth|"
+    "drieth|drinketh|driveth|droppeth|dryeth|dwelleth|eateth|edifieth|emptieth|endureth|"
+    "entereth|enticeth|envieth|excelleth|expelleth|fadeth|fleeth|flieth|forbiddeth|"
+    "forgetteth|forgiveth|freeth|freezeth|getteth|giveth|glorifieth|goeth|hateth|"
+    "hearkeneth|hopeth|illumineth|inclineth|intercedeth|inundateth|issueth|judgeth|"
+    "justifieth|kisseth|knitteth|letteth|lieth|liveth|looseth|loveth|magnifieth|maketh|"
+    "marvelleth|moveth|multiplieth|partaketh|permitteth|pitieth|praiseth|prepareth|"
+    "preserveth|proclaimeth|procureth|prophesieth|provoketh|purifieth|putteth|rageth|"
+    "raiseth|readeth|rebuketh|receiveth|rejoiceth|removeth|repelleth|rideth|riseth|"
+    "ruleth|runneth|saith|sanctifieth|satisfieth|saveth|sayeth|schemeth|seeth|setteth|"
+    "shaketh|shareth|shippeth|shineth|shunneth|shutteth|signifieth|singeth|sinneth|"
+    "sitteth|slippeth|sprinkleth|standeth|steppeth|stirreth|stoppeth|striketh|strippeth|"
+    "submitteth|taketh|tasteth|testifieth|trampleth|trembleth|trieth|troubleth|turneth|"
+    "undergoeth|vesteth|waketh|warreth|wasteth|winneth|worshippeth|writeth"
+)
+
 PROHIBITED_CATEGORIES: Dict[str, List[str]] = {
     "pseudo_archaic_slop": [
         r"\bverily\b",
@@ -33,6 +62,8 @@ PROHIBITED_CATEGORIES: Dict[str, List[str]] = {
         r"\bhearken\b",
         r"\bwherefore\b",
         r"\bperadventure\b",
+        r"\bforsooth\b",
+        r"\bhaply\b",
         r"\beffulgent\b",
         r"\bresplendent\b",
         r"\bbeholden\b",
@@ -57,9 +88,10 @@ PROHIBITED_CATEGORIES: Dict[str, List[str]] = {
     ],
     "archaic_rubrical_verb_drift": [
         r"\b(?:the priest|the deacon|the bishop|the choir|the reader|the chanter|the celebrant)\s+([a-z]+eth)\b",
-        r"\b(?:singeth|proclaimeth|censeth|entereth|maketh|readeth|beginneth|taketh|vesteth|boweth|kisseth|turneth|standeth)\b"
+        rf"\b(?:{BANNED_ETH_VERBS})\b"
     ]
 }
+
 
 def lint_slop(filepath: Path) -> Dict[str, Any]:
     if not filepath.exists():
@@ -77,22 +109,24 @@ def lint_slop(filepath: Path) -> Dict[str, Any]:
 
         is_footnote = s.startswith("[^")
 
-        # For archaic rubrical verbs, strip quoted chant/scripture text
-        unquoted = re.sub(r'\"[^\"]*\"|“[^”]*”|\*\*"[^\*"]*"\*\*', '', s)
+        # Strip quoted strings inside footnotes or scripture quotations when checking archaic verb drift or meta-commentary
+        unquoted = re.sub(r'\"[^\"]*\"|“[^”]*”|\*\*"[^\*"]*"\*\*|\*[^*\r\n]+\*', '', s)
 
         for category, patterns in PROHIBITED_CATEGORIES.items():
-            check_text = unquoted if category == "archaic_rubrical_verb_drift" else s
+            check_text = unquoted if (category == "archaic_rubrical_verb_drift" or is_footnote) else s
             for pat in patterns:
-                # Bibliographic or historical citations in footnotes may contain 'wherefore'
-                if is_footnote and (pat == r"\bwherefore\b" or category == "archaic_rubrical_verb_drift"):
+                if is_footnote and pat == r"\bwherefore\b":
                     continue
                 m = re.search(pat, check_text, re.IGNORECASE)
                 if m:
+                    matched_tok = m.group(0)
+                    if category == "archaic_rubrical_verb_drift" and matched_tok.lower() in NON_VERB_ETH_TOKENS:
+                        continue
                     violations.append({
                         "line": line_num,
                         "category": category,
                         "pattern": pat,
-                        "matched_text": m.group(0),
+                        "matched_text": matched_tok,
                         "line_snippet": s[:120]
                     })
 
@@ -104,6 +138,7 @@ def lint_slop(filepath: Path) -> Dict[str, Any]:
         "violation_count": len(violations),
         "violations": violations
     }
+
 
 def main():
     parser = argparse.ArgumentParser(description="Anti-Fanciful Slop Language Linter")
@@ -126,6 +161,7 @@ def main():
                 print(f"  Line {v['line']:4d} [{v['category']}]: '{v['matched_text']}' in: \"{v['line_snippet']}\"")
 
     sys.exit(0 if result["passed"] else 1)
+
 
 if __name__ == "__main__":
     main()

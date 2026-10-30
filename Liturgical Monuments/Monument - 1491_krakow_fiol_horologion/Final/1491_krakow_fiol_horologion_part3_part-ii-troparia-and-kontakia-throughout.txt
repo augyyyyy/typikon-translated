@@ -12,9 +12,7 @@ Since thou art better than all creations, we who are at a loss to hymn thee wort
 Commanders of God, ministers of divine glory, guides of men and captains of the bodiless powers: entreat what is profitable for us and great mercy, as commanders of the bodiless hosts.  
 *On Tuesday, of the Forerunner, Troparion, Tone 2:*  
 *Troparion:*  
-The memory of the righteous is with praises, but the testimony of the Lord is sufficient for thee, O Forerunner; for thou hast truly appeared as more honorable than the prophets, since thou wast accounted worthy to baptize in the streams Him Whom thou didst proclaim...
-
-...Therefore, having truly suffered for the truth, rejoicing thou didst proclaim the good tidings even to them in hades of God Who appeared in the flesh, Who takes away the sins of the world, and grants us great mercy.[^184]  
+The memory of the righteous is with praises, but the testimony of the Lord is sufficient for thee, O Forerunner; for thou hast truly appeared as more honorable than the prophets, since thou wast accounted worthy to baptize in the streams Him Whom thou didst proclaim Therefore, having truly suffered for the truth, rejoicing thou didst proclaim the good tidings even to them in hades of God Who appeared in the flesh, Who takes away the sins of the world, and grants us great mercy.[^184]
 *Theotokion, Tone 2:*  
 *Theotokion:*  
 We became partakers of the divine nature through thee, O Theotokos and Ever-Virgin; for thou didst bear for us God incarnate. Therefore, as is our duty, we all piously magnify thee.  
@@ -28,9 +26,7 @@ Save, O Lord, Thy people...
 Having acquired thy protection, O all-pure one, and being delivered from tribulations by thy prayers, preserved everywhere by the Cross of thy Son, as is our duty, we all piously magnify thee.  
 *Kontakion, Tone 4:*  
 *Kontakion:*  
-Thou Who wast lifted up upon the Cross...
-
-...written among the troparia in Matins.[^185]  
+Thou Who wast lifted up upon the Cross written among the troparia in Matins.[^185]
 *On Thursday, of the Apostles, Troparion, Tone 3:*  
 *Troparion:*  
 Holy Apostles, entreat the merciful God, that He may grant remission of transgressions unto our souls.  
@@ -46,9 +42,7 @@ The steadfast and divinely eloquent preachers, the summit of Thy disciples, O Lo
 *On Friday, as on Wednesday again, write: Save, O Lord, Thy people... and Kontakion, Tone 4: Thou Who wast lifted up upon the Cross of Thine own will...*  
 *On Saturday, Troparion, Tone 2:*  
 *Troparion:*  
-Apostles, martyrs, prophets,...
-
-...and hierarchs, venerable and righteous, who have accomplished the good fight and kept the faith, having boldness unto the Savior, Him do ye entreat for us, we pray, that our souls may be saved.  
+Apostles, martyrs, prophets, and hierarchs, venerable and righteous, who have accomplished the good fight and kept the faith, having boldness unto the Savior, Him do ye entreat for us, we pray, that our souls may be saved.
 *For the departed, Troparion:*  
 *Troparion:*  
 Remember, O Lord, as Thou art good, Thy servants, as many as [in this life have sinned]...  
@@ -66,9 +60,7 @@ With the saints give rest, O Christ...
 When the stone had been sealed by the Jews, and the soldiers were guarding Thine all-pure body, Thou didst rise on the third day, O Savior, granting life unto the world. Therefore, the powers of heaven cried out unto Thee, O Giver of life: Glory to Thy resurrection, O Christ; glory to Thy kingdom; glory to Thy dispensation, O Thou Who alone art the Lover of mankind.  
 *Theotokion, Tone 1:*  
 *Theotokion:*  
-When Gabriel said unto thee, Rejoice, O Virgin, with that voice the Master of all became incarnate in thee, the holy...
-
-...ark, as the righteous David said; thou wast shown to be more spacious than the heavens, having borne Thy Creator. Glory to Him Who made His abode in thee; glory to Him Who came forth from thee; glory to Him Who hath set us free through thy birthgiving.[^187]  
+When Gabriel said unto thee, Rejoice, O Virgin, with that voice the Master of all became incarnate in thee, the holy ark, as the righteous David said; thou wast shown to be more spacious than the heavens, having borne Thy Creator. Glory to Him Who made His abode in thee; glory to Him Who came forth from thee; glory to Him Who hath set us free through thy birthgiving.[^187]
 *Hypakoe, Tone 1:*  
 *Hypakoe:*  
 The repentance of the thief plundered paradise, and the lamentation of the myrrh-bearing women proclaimed joy, that Thou art risen, O Christ God, granting great mercy unto the world.  
@@ -80,9 +72,7 @@ When Thou didst descend unto death, O Life immortal, then didst Thou slay hades 
 All beyond thought, all most glorious are thy mysteries, O Theotokos; sealed in purity and preserved in virginity, thou wast shown forth to be a true Mother, having given birth unto the true God: Him do thou entreat, that our souls may be saved.  
 *Hypakoe, Tone 2:*  
 *Hypakoe:*  
-After the Passion, having gone unto the tomb to anoint Thy body,...
-
-...all-pure, the women, O Christ God, beheld angels in the tomb and were dismayed; for they heard from them a voice, that the Lord is risen, granting great mercy unto the world.[^188]  
+After the Passion, having gone unto the tomb to anoint Thy body, all-pure, the women, O Christ God, beheld angels in the tomb and were dismayed; for they heard from them a voice, that the Lord is risen, granting great mercy unto the world.[^188]
 *Troparion, Tone 3:*  
 *Troparion:*  
 Let the heavens rejoice, and let the earth be glad; for the Lord hath wrought might with His arm: He hath trampled down death by death, He is become the firstborn of the dead, from the belly of hades hath He delivered us, and granted great mercy unto the world.  
@@ -104,9 +94,7 @@ The mystery hidden from the ages and unknown unto angels, through thee, O Theoto
 Having outrun [the others unto the tomb] at Thine all-glorious uprising, the myrrh-bearing women proclaimed unto the Apostles, O Christ: That Thou art risen as God, granting great mercy unto the world.  
 *Troparion, Tone 5:*  
 *Troparion:*  
-The Word Who is co-unoriginate with the Father and the Spirit, Who for our salvation was born of the Virgin, let us hymn, O faithful, and worship; for He was well-pleased to ascend the Cross in the flesh, and to endure death,...
-
-...and to resurrect the dead in His glorious resurrection.[^190]  
+The Word Who is co-unoriginate with the Father and the Spirit, Who for our salvation was born of the Virgin, let us hymn, O faithful, and worship; for He was well-pleased to ascend the Cross in the flesh, and to endure death, and to resurrect the dead in His glorious resurrection.[^190]
 *Theotokion, Tone 5:*  
 *Theotokion:*  
 Rejoice, impassable gate of the Lord; rejoice, wall and shelter of them that flee unto thee; rejoice, storm-free haven and unwedded bride, who didst bear in the flesh thy Creator and God: pray and despise not them that hymn and worship thy birthgiving.  
@@ -118,9 +106,7 @@ Troubling their mind with the angelic apparition, and enlightening their souls w
 The angelic powers were upon Thy tomb, and they that guarded it became as dead; and Mary stood in the tomb, seeking Thine all-pure body. Thou didst despoil hades, not being tried by it; Thou didst meet the Virgin, granting life. O Thou Who didst rise from the dead, Lord, glory to Thee!  
 *Theotokion, Tone 6:*  
 *Theotokion:*  
-He Who called...
-
-...Thee His blessed Mother, came unto the Passion by voluntary counsel, shining forth upon the Cross, desiring to seek out Adam, saying unto the angels: Rejoice with Me, for the lost coin hath been found. O God, Who hast ordered all things in wisdom, glory to Thee![^191]  
+He Who called Thee His blessed Mother, came unto the Passion by voluntary counsel, shining forth upon the Cross, desiring to seek out Adam, saying unto the angels: Rejoice with Me, for the lost coin hath been found. O God, Who hast ordered all things in wisdom, glory to Thee![^191]
 *Hypakoe, Tone 6:*  
 *Hypakoe:*  
 By Thy voluntary and life-creating death, O Christ, having broken down the gates of hades as God, Thou hast opened unto us the ancient paradise; and having risen from the dead, Thou hast delivered our life from corruption.  
@@ -129,9 +115,7 @@ By Thy voluntary and life-creating death, O Christ, having broken down the gates
 Thou didst destroy death by Thy Cross, and open paradise unto the thief; Thou didst transform the weeping of the myrrh-bearing women, and command Thine Apostles to preach: that Thou art risen, O Christ God, granting great mercy unto the world.  
 *Theotokion, Tone 7:*  
 *Theotokion:*  
-As the treasury of our resurrection, O all-pure one who art our refuge, lead us up from the pit and depth of sins; for thou didst save them that are guilty of sin, having given birth unto our Salvation: who before childbirth wast a Virgin, and in childbirth a Virgin, and after childbirth art again a Virgin...
-
-...*Hypakoe, Tone 7:*[^192]  
+As the treasury of our resurrection, O all-pure one who art our refuge, lead us up from the pit and depth of sins; for thou didst save them that are guilty of sin, having given birth unto our Salvation: who before childbirth wast a Virgin, and in childbirth a Virgin, and after childbirth art again a Virgin *Hypakoe, Tone 7:*[^192]
 *Hypakoe:*  
 O Thou Who didst take upon Thyself our likeness, and endure crucifixion in the flesh, save me by Thy resurrection, O Christ our God, as the Lover of mankind.  
 *Troparion, Tone 8:*  
@@ -158,9 +142,7 @@ Having risen from the tomb, and broken the bonds of hades, Thou didst destroy th
 *Month of October: 1st evening; 6th evening; 9th all day; 14th until noon; 18th evening; 21st until noon; 23rd evening; 26th evening.*  
 *Month of November: 1st until noon; 8th evening; 13th evening; 14th evening; 16th evening; 21st all day; 28th until noon; 30th evening.*  
 *Month of December: 4th until noon; 5th until noon; 6th evening; 9th evening; 13th until noon; 17th evening; 20th until noon; 25th evening; 26th all day; 27th evening.*  
-*Month of January: 1st evening; 6th evening; 7th evening; 10th until noon; 16th until noon; 18th all day; 25th until noon...*
-
-*...Month of February: 20th evening; 3rd until noon; 11th until noon; 6th until noon; 25th evening.*  
+*Month of January: 1st evening; 6th evening; 7th evening; 10th until noon; 16th until noon; 18th all day; 25th until noon Month of February: 20th evening; 3rd until noon; 11th until noon; 6th until noon; 25th evening.*
 *Likewise from Lazarus Saturday: on Monday, on Tuesday, Wednesday, Thursday, Friday, the whole week, under the anathema of the holy fathers, whosoever does not observe it as a feast.*  
 *Month of April: 23rd evening; 25th evening; 30th evening.*  
 *Month of May: 2nd until noon; 8th all day; 9th until noon; 10th all day; 21st evening; 25th evening.*  
@@ -176,9 +158,7 @@ Having risen from the tomb, and broken the bonds of hades, Thou didst destroy th
 Receive the prayers of thy servants, O Theotokos, and deliver us from every tribulation, for thou didst bear Christ God, the Deliverer of our souls.  
 *To the Cross, Tone 1:*  
 *Stavrotheotokion:*  
-Having acquired thy protection, O all-pure one, and being delivered from tribulations by thy prayers, preserved everywhere by the Cross of thy Son, as is our duty, we all piously magnify...
-
-...thee.[^195]  
+Having acquired thy protection, O all-pure one, and being delivered from tribulations by thy prayers, preserved everywhere by the Cross of thy Son, as is our duty, we all piously magnify thee.[^195]
 *Tone 2:*  
 *Theotokion, Tone 2:*  
 *Theotokion:*  
@@ -199,9 +179,7 @@ Having acquired the Cross of thy Son, O Theotokos, as a rod of strength, thereby
 Thou art an invincible wall unto Christians, O Theotokos Virgin; for fleeing unto thee, we remain unharmed, and having sinned again, we have thee as an intercessor. Therefore, giving thanks, we cry: Rejoice, full of grace, the Lord is with thee!  
 *To the Cross, Tone 4:*  
 *Stavrotheotokion:*  
-Beholding Thy Son hanging upon the Tree, torn in her maternal womb, she that bare Thee [cried]: Woe is me! How hath the ageless Light set,...
-
-...Who didst shine forth unto all the world from thee, O Virgin, Christ God, Who by her sake didst show forth the unwaning light, have mercy on us![^196]  
+Beholding Thy Son hanging upon the Tree, torn in her maternal womb, she that bare Thee [cried]: Woe is me! How hath the ageless Light set, Who didst shine forth unto all the world from thee, O Virgin, Christ God, Who by her sake didst show forth the unwaning light, have mercy on us![^196]
 *To the Cross, Tone 5:*  
 *Stavrotheotokion:*  
 By the Cross of thy Son, O woman full of the grace of God, all the deception of idols hath been abolished, and the power of demons trampled down. Therefore, we the faithful, as is our duty, ever hymn and praise thee, confessing and magnifying thee as the true Theotokos.  
@@ -215,9 +193,7 @@ She that bare Thee, O Christ, Ever-Virgin, when she beheld Thee lifted up upon t
 *Tone 7:*  
 *Theotokion, Tone 7:*  
 *Theotokion:*  
-Rejoice, thou that in thy womb didst contain Him Who cannot be contained in the heavens; rejoice, proclamation of the prophets, through whom Emmanuel hath shone forth upon us;...
-
-...rejoice, Mother of Christ God![^197]  
+Rejoice, thou that in thy womb didst contain Him Who cannot be contained in the heavens; rejoice, proclamation of the prophets, through whom Emmanuel hath shone forth upon us; rejoice, Mother of Christ God![^197]
 *To the Cross, Tone 7:*  
 *Stavrotheotokion:*  
 Rejoice, O pure Theotokos, Ever-Virgin, who upon the Cross didst behold thy Son hanging, weeping as a Mother, magnifying His fearless descent.  

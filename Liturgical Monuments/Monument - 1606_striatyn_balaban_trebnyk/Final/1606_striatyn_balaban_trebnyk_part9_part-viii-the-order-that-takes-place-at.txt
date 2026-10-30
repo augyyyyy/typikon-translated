@@ -2,16 +2,16 @@
 
 *After the Divine Liturgy, the priest standing in the sanctuary, those desiring to be joined together shall stand before the holy doors; the man indeed on the right, and the woman on the left. Their two rings are placed on the right side of the holy table: the golden one first, [and the] silver [one]; the silver leaning toward the right, and the golden toward the left, near one another. And the priest signs the heads of the newly betrothed thrice. And he gives unto them lighted tapers; and having led them within into the church, he censes cruciformly. And it is said by the deacon:*[^184]
 
-**Deacon:**
+> **Deacon:** ""
 Bless, Master.
 
-**Priest:**
+> **Priest:** ""
 Blessed is our God always, now and ever, and unto ages of ages.
 
-**Choir:**
+> **Choir:** ""
 Amen.
 
-**Deacon:**
+> **Deacon:** ""
 In peace let us pray unto the Lord.
 
 For the peace from above, and for the salvation of our souls, let us pray unto the Lord.
@@ -44,17 +44,17 @@ Commemorating our all-holy, immaculate, most blessed and glorious Lady, the Theo
 
 *Ekphonesis:*
 
-**Priest:**
+> **Priest:** ""
 For unto Thee is due all glory, honor, and worship: to the Father, and to the Son, and to the Holy Spirit, [now and ever, and unto ages of ages.]
 
 [Choir: Amen.]
 
 *The priest says the prayer aloud.*
 
-**Deacon:**
+> **Deacon:** ""
 Let us pray unto the Lord.
 
-**Priest:**
+> **Priest:** ""
 [Fol. 55r. Decorative woodcut initial B.]
 O Eternal God, Who hast brought together into unity the things that were divided, and hast ordained for them an indissoluble bond of love; Who didst bless Isaac and Rebecca, and didst show them forth to be the heirs of Thy promise: do Thou Thyself bless these Thy servants also, guiding them into every good work.[^187]
 
@@ -62,16 +62,16 @@ O Eternal God, Who hast brought together into unity the things that were divided
 
 For a merciful God art Thou, and the Lover of mankind, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages.
 
-**Choir:**
+> **Choir:** ""
 Amen.
 
-**Priest:**
+> **Priest:** ""
 Peace be unto all.
 
-**Deacon:**
+> **Deacon:** ""
 Bow your heads unto the Lord.
 
-**Priest:**
+> **Priest:** ""
 [Fol. 55v. Decorative woodcut initial G.]
 O Lord our God, Who from among the Gentiles hast pre-espoused the Church as a pure virgin: bless this betrothal, and unite and preserve these Thy servants in peace and oneness of mind.
 
@@ -79,56 +79,56 @@ O Lord our God, Who from among the Gentiles hast pre-espoused the Church as a pu
 
 For unto Thee is due all glory, honor, and worship: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages.
 
-**Choir:**
+> **Choir:** ""
 Amen.
 
 *Then the priest, having taken the rings, gives first to the man the golden one; afterwards the silver one to the woman. And giving [it] to the man, he says:*[^188]
 
-**Priest:**
+> **Priest:** ""
 The servant of God, *[Name]*, is betrothed unto the handmaid of God, *[Name]*, in the name of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages.
 
 *After this, he says also unto the woman:*
 
-**Priest:**
+> **Priest:** ""
 The handmaid of God, *[Name]*, is betrothed unto the servant of God, *[Name]*, in the name of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages. Amen.
 
 *And when he has said this unto each thrice, he makes the sign of the cross with the ring over their heads; and he places them upon their right fingers. Afterwards, the sponsor (kum), or the friend of the bridegroom, exchanges the rings of the newly betrothed. And the priest says the prayer:*[^189]
 
-**Deacon:**
+> **Deacon:** ""
 Let us pray unto the Lord.
 
-**Priest:**
+> **Priest:** ""
 [Fol. 56r. Decorative woodcut initial G.]
 O Lord our God, Who didst journey with the servant of the patriarch Abraham into Mesopotamia, when he was sent to betroth a wife for his master Isaac; and didst reveal unto him through the mediation of the water pitcher to betroth Rebecca: do Thou Thyself bless the betrothal of these Thy servants, *[Name]* and *[Name]*, and confirm the word spoken by them; establish them in the holy union that is from Thee.[^190] For Thou from the beginning didst create male and female, and by Thee is a wife betrothed unto a husband for help, and for the succession of the human race. Do Thou Thyself therefore, O Lord our God, Who hast sent forth truth unto Thine inheritance, and Thy promise unto Thy servants our fathers, Thine elect in every generation: look down upon Thy servant, *[Name]*, and upon Thy handmaid, *[Name]*, and confirm their betrothal in faith, and in unity, and in truth, and in love. For Thou, O Lord, didst show that betrothal is to be given, and to be confirmed in all things: by a ring was authority given unto Joseph in Egypt;[^191] by a ring was Daniel glorified in the land of Babylon; by a ring was the truth of Tamar made manifest; by a ring our Heavenly Father was compassionate toward His son, for He said: 'Put a ring upon his right hand, and having slain the fatted calf, let us eat and make merry.' This Thy right hand, O Lord, armed Moses in the Red Sea; for by Thy true word the heavens were established, and the earth founded. And the right hand of Thy servants shall be blessed by Thy mighty word, and by Thine exalted arm.[^192] Do Thou Thyself therefore, even now, O Master, bless this putting on of the rings with a heavenly blessing; and may the angel of the Lord go before them all the days of their life. For Thou art He Who blesses and sanctifies all things, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen.[^193]
 
 *Then the litany:*
 
-**Deacon:**
+> **Deacon:** ""
 Have mercy on us, O God, according to Thy great mercy, we pray Thee, give ear and have mercy.
 
-**Choir:**
+> **Choir:** ""
 Lord, have mercy. *(Thrice)*
 
-**Deacon:**
+> **Deacon:** ""
 Again let us pray for our bishop, *[Name]*.
 
-**Choir:**
+> **Choir:** ""
 Lord, have mercy. *(Thrice)*
 
-**Deacon:**
+> **Deacon:** ""
 Again let us pray for the servants of God, *[Name]* [and *Name*], who are betrothed unto one another, let us all say:
 
-**Deacon:**
+> **Deacon:** ""
 Again let us pray for all our brotherhood, and for all Christians.
 
-**Choir:**
+> **Choir:** ""
 Lord, have mercy. *(Thrice)*
 
-**Priest:**
+> **Priest:** ""
 *Exclamation:*
 For Thou art a merciful God and the Lover of mankind, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages.
 
-**Choir:**
+> **Choir:** ""
 Amen.
 
 *Then the dismissal:*[^194]

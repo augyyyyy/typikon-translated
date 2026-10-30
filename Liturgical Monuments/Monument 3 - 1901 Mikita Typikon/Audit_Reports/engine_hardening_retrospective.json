@@ -1,0 +1,47 @@
+{
+  "monument_id": "1901_mikita_typikon",
+  "title": "Typikon of Alexander Mikita (Mukachevo-Uzhhorod, 1901)",
+  "monument_type": "typikon",
+  "genre_register": "rubrical",
+  "retrospective_timestamp": "2026-10-30T21:19:06.926249+00:00",
+  "codicological_profile": {
+    "total_physical_leaves": 320,
+    "cohort_count": 32,
+    "default_cohort_size": 10,
+    "monument_type": "typikon"
+  },
+  "subagent_execution_telemetry": {
+    "total_cohorts_dispatched": 32,
+    "worker_model": "flash",
+    "cohorts_passing_gate_100pct": 32,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 0.859,
+      "median_cohort_ratio": 1.136,
+      "max_cohort_median": 1.265
+    }
+  },
+  "argon_review_queue_telemetry": {
+    "total_items_recorded": 0,
+    "resolved_by_argon": 0,
+    "info_telemetry_only": 0,
+    "unresolved_quarantines": 0,
+    "codicological_crux_count": 0
+  },
+  "final_publication_verification": {
+    "parts_count": 3,
+    "parts": [
+      "1901_mikita_part0_intro_and_toc.md",
+      "1901_mikita_part1_general_services.md",
+      "1901_mikita_part2_particular_services.md"
+    ],
+    "total_footnotes_verified": 346,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 0.859,
+      "median_cohort_ratio": 1.136,
+      "max_cohort_median": 1.265
+    },
+    "all_6_publication_gates_passed": true
+  },
+  "edge_cases_and_anomalies": [],
+  "engine_hardening_proposals": []
+}

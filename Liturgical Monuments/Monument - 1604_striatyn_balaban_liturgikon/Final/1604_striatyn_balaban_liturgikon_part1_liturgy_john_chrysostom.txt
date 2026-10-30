@@ -4,7 +4,7 @@
 
 *Order of the Divine Liturgy, and likewise of the Diaconate:*[^29]
 
-[Illuminated Initial 'W' (woodcut initial (*Х*) depicting Saint Andrew the Apostle with the saltire cross):]
+(*Illuminated Initial 'W' (woodcut initial (*Х*) depicting Saint Andrew the Apostle with the saltire cross):*)
 
 When a priest desires to celebrate the Divine Mystery, he must first of all be at peace with all men, and have nothing against anyone;[^30]
 
@@ -13,12 +13,12 @@ When a priest desires to celebrate the Divine Mystery, he must first of all be a
 ...and to guard his heart with all his might from evil thoughts; and to abstain somewhat from the evening, and to remain sober until the time of the service.[^31] *And when the time is come, having made the customary metania unto the superior,*[^32] *he enters into the church; and having joined with the deacon, they make together three bows toward the East, and to both choirs, In the Liturgies.*
 
 *one to each. Then the deacon says in a low voice:*
-**Deacon:** "Bless, Master."
+> **Deacon:** "Bless, Master."
 *And the priest:*
-**Priest:** "Blessed is our God, always, now and ever, and unto ages of ages. Amen."[^33]
+> **Priest:** "Blessed is our God, always, now and ever, and unto ages of ages. Amen."[^33]
 *Then they begin to say to themselves quietly:*
 "O Heavenly King", the Trisagion; and after "Our Father":
-**Priest:** "For Thine is the kingdom..."
+> **Priest:** "For Thine is the kingdom..."
 *Then they say these Troparia:*
 "Have mercy on us, O Lord, have mercy on us; for, lacking all defense, we sinners offer this supplication unto Thee as Master: have mercy on us."
 
@@ -37,9 +37,7 @@ When a priest desires to celebrate the Divine Mystery, he must first of all be a
 *Then saying this prayer:*
 *Prayer:*
 [Illuminated Initial 'O']
-"O Lord, send down Thy hand from Thy high...
-
-*Proskomedia.*
+"O Lord, send down Thy hand from Thy high *Proskomedia.*
 
 ...dwelling-place, and strengthen me for this Thy present ministry, that without condemnation I may stand before Thy awesome altar, and accomplish the unbloody sacrifice; for Thine is the power, unto ages of ages. Amen."[^36]
 *They bow again, each once. Then they kiss the icon of Christ, saying:*
@@ -55,58 +53,46 @@ O Christ God; for of Thine own will Thou wast well pleased to ascend the Cross i
 
 and have mercy on me."
 *Then the deacon comes to the priest, holding the sticharion with the orarion in his right hand; and having bowed his head to him, he says:*
-**Deacon:** "Bless, Master, the sticharion with the orarion."[^39]
+> **Deacon:** "Bless, Master, the sticharion with the orarion."[^39]
 *And the priest, blessing him with the sign of the cross, says:*
-**Priest:** "Blessed is our God, always, both now, and ever, and unto ages of ages. Amen."
-*Then the deacon departs to his own place at one side of the sanctuary: he lays...*
-
-*Proskomedia.*
+> **Priest:** "Blessed is our God, always, both now, and ever, and unto ages of ages. Amen."
+*Then the deacon departs to his own place at one side of the sanctuary: he lays Proskomedia.*
 
 ...down the sticharion, and praying thus, as does also the priest:[^40]
 "My soul shall rejoice in the Lord, for He has clothed me in the garment of salvation, and with the mantle of gladness has He arrayed me; as a bridegroom He has placed a crown upon me, and as a bride has He adorned me with beauty."[^41]
 *And having kissed the orarion, he places it upon the left shoulder. And putting the cuffs upon his hands, on the right hand he says:*
-"Thy right hand, O Lord...
-
-*In the Liturgies.*
+"Thy right hand, O Lord *In the Liturgies.*
 
 ...has been glorified in power; Thy right hand, O Lord, has crushed the enemies; and in the abundance of Thy glory Thou hast shattered the adversaries."[^42]
 *And on the left cuff, having kissed it, he says:*
 "Thy hands have made me and fashioned me; give me understanding, and I shall learn Thy commandments."[^43]
 *Then, having gone to the Proskomedia table, and washing his hands, he says:*
-"I will wash my hands in innocency...[^44]
-
-*Proskomedia.*
+"I will wash my hands in innocency[^44] *Proskomedia.*
 
 ...and will go about Thine altar, O Lord."
 *Then, having sprinkled his hands, he bows three times before the sacred vessels, saying:*
 "God, be merciful to me a sinner, and have mercy on me."
 *And he arranges the sacred vessels:*
-The holy diskos, having kissed it, he sets on the left side of himself; and the holy chalice, having kissed it, he sets on the right; and the weapon which is called the spear, having kissed it, he sets...[^45]
-
-*In the Liturgies.*
+The holy diskos, having kissed it, he sets on the left side of himself; and the holy chalice, having kissed it, he sets on the right; and the weapon which is called the spear, having kissed it, he sets[^45] *In the Liturgies.*
 
 ...here; and having kissed the spoon, he carries it away and lays it upon the holy table.[^46] *And so he awaits the time. And the priest, saying the same things as the deacon: having taken the epitrachelion, he blesses it, and kissing it, says:*
-**Priest:** "Blessed is God Who pours forth His grace upon His priests, as the myrrh upon the head, running down upon the beard, the beard of Aaron, running down unto the fringe of his raiment."[^47]
-*Then, taking...*
-
-*Proskomedia.*
+> **Priest:** "Blessed is God Who pours forth His grace upon His priests, as the myrrh upon the head, running down upon the beard, the beard of Aaron, running down unto the fringe of his raiment."[^47]
+*Then, taking Proskomedia.*
 
 *...the belt, having kissed it and girded himself, he says:*
-**Priest:** "Blessed is God Who girds me with strength, and has made my way blameless, Who makes my feet like hinds' feet, and sets me upon high places."[^48]
+> **Priest:** "Blessed is God Who girds me with strength, and has made my way blameless, Who makes my feet like hinds' feet, and sets me upon high places."[^48]
 *And putting on the cuffs, he says as does also the deacon.*
 *If, however, the celebrant be an Archimandrite,*[^49] *taking the epigonation, that is, the nabedrennik, blessing it and kissing it, he says:*
 
 *In the Liturgies.*
 
-**Priest:** "Gird Thy sword upon Thy thigh, O Mighty One, in Thy comeliness and in Thy beauty; and bend Thy bow, and prosper, and reign, for the sake of truth and meekness and righteousness; and Thy right hand shall guide Thee marvelously; always, now and ever, and unto ages of ages. Amen."[^50]
+> **Priest:** "Gird Thy sword upon Thy thigh, O Mighty One, in Thy comeliness and in Thy beauty; and bend Thy bow, and prosper, and reign, for the sake of truth and meekness and righteousness; and Thy right hand shall guide Thee marvelously; always, now and ever, and unto ages of ages. Amen."[^50]
 *Then, taking the phelonion, he blesses it and kisses it, saying:*
-**Priest:** "Thy priests, O Lord, shall clothe themselves in righteousness, and...[^51]
-
-*In the Liturgies.*
+> **Priest:** "Thy priests, O Lord, shall clothe themselves in righteousness, and[^51] *In the Liturgies.*
 
 ...Thy venerable ones shall rejoice with joy; always, now and ever, and unto ages of ages. Amen."
 *Then he comes to the Proskomedia table, and washes his hands, saying:*
-**Priest:** "I will wash my hands in innocency, and will go about Thine altar, O Lord; that I may hear the voice of Thy praise, and tell of all Thy marvelous works. Lord, I have loved the beauty of Thy house, and the place where Thy glory dwells.[^52]
+> **Priest:** "I will wash my hands in innocency, and will go about Thine altar, O Lord; that I may hear the voice of Thy praise, and tell of all Thy marvelous works. Lord, I have loved the beauty of Thy house, and the place where Thy glory dwells.[^52]
 
 *In the Liturgies.*
 
@@ -122,16 +108,16 @@ Destroy not my soul with the ungodly, nor my life with men of blood, in whose ha
 *In the Liturgies.*
 
 *Then the deacon says:*
-**Deacon:** "Bless, Master."
+> **Deacon:** "Bless, Master."
 *And the priest says:*
-**Priest:** "Blessed is our God, always, now and ever, and unto ages of ages."
-**Deacon:** "Amen."
+> **Priest:** "Blessed is our God, always, now and ever, and unto ages of ages."
+> **Deacon:** "Amen."
 *Then the priest takes the prosphora into his left hand, and into his right hand his spear, and makes the sign of the cross three times over the seal of the prosphora,*[^56] *saying (while the deacon holds the prosphora over the anaphora dish, and the deacon holds the orarion in his right hand):*
 
 *Proskomedia.*
 
 *...holding the orarion in his right hand, and the anaphora dish, the priest says:*
-**Priest:** "In remembrance of our Lord and God and Savior, Jesus Christ."[^57]
+> **Priest:** "In remembrance of our Lord and God and Savior, Jesus Christ."[^57]
 *And immediately he thrusts the spear into the right side of the seal, and cutting, says:*
 "He was led as a sheep to the slaughter."[^58]
 *And on the left side:*
@@ -144,23 +130,21 @@ Destroy not my soul with the ungodly, nor my life with men of blood, in whose ha
 *And on the lower side:*
 "And who shall declare His generation?"
 *And at each cutting the deacon says:*
-**Deacon:** "Let us pray to the Lord."
+> **Deacon:** "Let us pray to the Lord."
 *Then he says:*
-**Deacon:** "Take away, Master."
+> **Deacon:** "Take away, Master."
 *And the priest, having inserted his spear from the lower right side of the prosphora, takes out the Holy Bread,*[^59] *saying:*
-**Priest:** "For His life is taken away from the earth."[^60]
-*Having then laid the prosphora aside upon the dish, the Holy Bread...*[^61]
-
-*Proskomedia.*
+> **Priest:** "For His life is taken away from the earth."[^60]
+*Having then laid the prosphora aside upon the dish, the Holy Bread*[^61] *Proskomedia.*
 
 ...lays upside down upon the holy diskos, the deacon having said:
-**Deacon:** "Sacrifice, Master."[^62]
+> **Deacon:** "Sacrifice, Master."[^62]
 *And the priest cuts it crosswise, saying:*
-**Priest:** "Sacrificed is the Lamb of God, Who takes away the sin of the world, for the life and salvation of the world."[^63]
+> **Priest:** "Sacrificed is the Lamb of God, Who takes away the sin of the world, for the life and salvation of the world."[^63]
 *He turns it also unto the other side, whereon is the cross. And piercing it on the right side with the spear, the deacon says:*
-**Deacon:** "Pierce, Master."
+> **Deacon:** "Pierce, Master."
 *And the priest:*
-**Priest:** "And one of the soldiers with a spear pierced His side, *In the Liturgies.*
+> **Priest:** "And one of the soldiers with a spear pierced His side, *In the Liturgies.*
 
 and immediately there came out blood and water; and he that saw it bore witness, and his witness is true."[^64]
 *It is fitting to know that the right side of the Holy Bread is said to be of the side whereon the holy chalice stands, whence also the particles are placed for the Holy Theotokos, and for the commemoration of the holy nine ranks of the saints. And from that same side of the Holy Bread shalt thou pierce with the spear.*[^65]
@@ -168,10 +152,10 @@ and immediately there came out blood and water; and he that saw it bore witness,
 *Proskomedia.*
 
 *And the deacon says:*
-**Deacon:** "Bless, Master, the holy union."[^66]
+> **Deacon:** "Bless, Master, the holy union."[^66]
 *Holding in his hand the wine together with water united in a vessel, he pours it into the holy chalice. And the priest blesses it crosswise.*[^67]
 
-[Woodcut Diagram: The First Diskos (ПЕРВЫИ ДІСКОС)][^68]
+(*Woodcut Diagram: The First Diskos (ПЕРВЫИ ДІСКОС)*)[^68]
 *(Depicting the Holy Lamb in the center inscribed "IC XC NI KA"; to the left, the particle of the Theotokos; to the right, the nine ranks of saints in three rows of three; below, particles for the living and the dead).*
 
 *In the Liturgies.*
@@ -180,57 +164,53 @@ and immediately there came out blood and water; and he that saw it bore witness,
 
 *Proskomedia.*
 
-[Woodcut Diagram: The Second Diskos (ВТОРЫИ ДІСКОС)][^70]
+(*Woodcut Diagram: The Second Diskos (ВТОРЫИ ДІСКОС)*)[^70]
 *(Printed in cinnabar ink. Depicting the Holy Lamb in the center inscribed "IC XC NI KA"; to the right, the particle of the Theotokos and below her the nine ranks of saints in three rows of three; below the Lamb, two rows of particles: the living marked "Zh" and the dead marked "M").*
 
 *According to this depiction of this holy diskos shalt thou place them:*[^71] *for, behold, the particle of the most holy Theotokos place thou on the right side of the Holy Bread, from the middle of the portion of the Holy Bread; and the particles of the holy nine ranks, from that same In the Liturgies.*
 
-*side, from the middle of the portion, place thou downward in a row in three ranks.*[^72] *And as many of the living as thou hast to commemorate, place the particles beneath the Holy Bread and the particle of the most holy Theotokos, unto twelve particles;*[^73] *likewise also, as many of the dead as thou shalt commemorate, place the particles in a second rank beneath the first, even as we have depicted for thee here; and doing thus...*
-
-*Proskomedia.*
+*side, from the middle of the portion, place thou downward in a row in three ranks.*[^72] *And as many of the living as thou hast to commemorate, place the particles beneath the Holy Bread and the particle of the most holy Theotokos, unto twelve particles;*[^73] *likewise also, as many of the dead as thou shalt commemorate, place the particles in a second rank beneath the first, even as we have depicted for thee here; and doing thus Proskomedia.*
 
 *...thou shalt not err, even as also ahead in the interpretation of the holy Proskomedia at the conclusion thereof is declared.*[^74]
 *Then taking the first [commemorative] prosphora, he says:*[^75]
-**Priest:** "In honor and memory of our most blessed Lady, the Theotokos and ever-virgin Mary, through whose intercessions receive, O Lord, this sacrifice upon Thy supercelestial altar."[^76]
+> **Priest:** "In honor and memory of our most blessed Lady, the Theotokos and ever-virgin Mary, through whose intercessions receive, O Lord, this sacrifice upon Thy supercelestial altar."[^76]
 *And having taken a particle with the holy spear, he places it In the Liturgies.*
 
 *on the right side of the Holy Bread, from the middle of the portion; and placing it, he says:*
-**Priest:** "At Thy right hand stood the Queen, arrayed in a vesture of inwoven gold, adorned in varied colors."[^77]
+> **Priest:** "At Thy right hand stood the Queen, arrayed in a vesture of inwoven gold, adorned in varied colors."[^77]
 *Then the priest, cutting the second prosphora, says:*
-**Priest:** "By the power of the precious and life-creating Cross."[^78]
+> **Priest:** "By the power of the precious and life-creating Cross."[^78]
 *And taking the first particle, he places it on the right side of the bread, near the particle of the Theotokos, making the beginning of the first rank.*
 
 *Proskomedia.*
 
 *Then he says:*
-**Priest:** "Of the honorable bodiless powers of heaven."[^79]
+> **Priest:** "Of the honorable bodiless powers of heaven."[^79]
 *And having taken the second particle, he places it after the first in good order. Then again he says:*
-**Priest:** "Of the honorable, glorious prophet, Forerunner and Baptist John, and of all the holy prophets."[^80]
+> **Priest:** "Of the honorable, glorious prophet, Forerunner and Baptist John, and of all the holy prophets."[^80]
 *And taking the third particle, he places it after the second, completing the first rank. Then he says:*
-**Priest:** "Of the holy, glorious, and all-praised apostles."[^81]
+> **Priest:** "Of the holy, glorious, and all-praised apostles."[^81]
 *And having taken the fourth particle, he places it In the Liturgies.*
 
 *beside the first particle above, making the second beginning. Then he says:*[^82]
-**Priest:** "Of our fathers among the saints, the hierarchs: Basil the Great, Gregory the Theologian, John Chrysostom; Athanasius, Cyril; Nicholas of Myra; and of all the holy hierarchs."[^83]
+> **Priest:** "Of our fathers among the saints, the hierarchs: Basil the Great, Gregory the Theologian, John Chrysostom; Athanasius, Cyril; Nicholas of Myra; and of all the holy hierarchs."[^83]
 *And taking the fifth particle, he places it beneath the first [of this row], which is the beginning of the second rank. After this, he says:*
 
 *Proskomedia.*
 
-**Priest:** "Of the holy apostle, protomartyr and archdeacon Stephen; and of the holy great martyrs: George, Demetrius, Theodore; and of all holy martyrs, both men and women."[^84]
+> **Priest:** "Of the holy apostle, protomartyr and archdeacon Stephen; and of the holy great martyrs: George, Demetrius, Theodore; and of all holy martyrs, both men and women."[^84]
 *And taking the sixth particle, he places it after the second [of this row], unto the completion of the second rank. And after this he says:*
-**Priest:** "Of our venerable and God-bearing fathers: Anthony, Euthymius, Sabbas, Onuphrius, Athanasius of Athos; and of all venerable In the Liturgies.*
+> **Priest:** "Of our venerable and God-bearing fathers: Anthony, Euthymius, Sabbas, Onuphrius, Athanasius of Athos; and of all venerable In the Liturgies.*
 
 *fathers and mothers."*[^85]
 *And so taking the seventh particle, he places it above, making the third beginning in order. Then again he says:*
-**Priest:** "Of the holy unmercenary brothers Cosmas and Damian, Cyrus and John, Panteleimon and Hermolaus; and of all holy unmercenaries."[^86]
+> **Priest:** "Of the holy unmercenary brothers Cosmas and Damian, Cyrus and John, Panteleimon and Hermolaus; and of all holy unmercenaries."[^86]
 *And taking the eighth particle, he places it beneath the first [of this row] in good order. Then he says:*
-**Priest:** "Of the holy and righteous...
+> **Priest:** "Of the holy and righteous *Proskomedia.*
 
-*Proskomedia.*
-
-**Priest:** "...ancestors of God, Joachim and Anna; and of Saint [Name], whose day it is; and of all saints, through whose prayers visit us, O God."[^87]
+> **Priest:** "...ancestors of God, Joachim and Anna; and of Saint [Name], whose day it is; and of all saints, through whose prayers visit us, O God."[^87]
 *And so taking the ninth particle, he places it at the end unto the completion of the third rank. Then taking the third prosphora, he says:*[^88]
-**Priest:** "For the entire episcopate of the Orthodox;
+> **Priest:** "For the entire episcopate of the Orthodox;
 *For our bishop [Name];*
 For the honorable presbyterate, the diaconate in Christ, In the Liturgies.*
 
@@ -243,23 +223,21 @@ For our brethren and fellow-ministers, the presbyters and deacons, and all our b
 *Proskomedia.*
 
 *Then taking the fourth prosphora, he commemorates all those living whom he has, each by name, saying:*[^92]
-**Priest:** "Lord Jesus Christ, receive this sacrifice unto the remission of sins for Thy servant [Name]."
+> **Priest:** "Lord Jesus Christ, receive this sacrifice unto the remission of sins for Thy servant [Name]."
 *And so he places the particles beneath the Holy Bread.*[^93] *After these, taking the fifth prosphora, he says:*[^94]
-**Priest:** "For the blessed memory and remission of sins of the blessed founders of this holy monastery In the Liturgies.*
+> **Priest:** "For the blessed memory and remission of sins of the blessed founders of this holy monastery In the Liturgies.*
 
 *here."*
 *And he places the particles beneath the Holy Bread. He commemorates also the hierarch who ordained him, saying:*[^95]
-**Priest:** "Remember, O Lord, the soul of Thy departed servant, our father Archbishop [Name]."
+> **Priest:** "Remember, O Lord, the soul of Thy departed servant, our father Archbishop [Name]."
 *And all others whomsoever he has of the departed to commemorate, saying:*
-**Priest:** "Remember, O Lord, the soul of Thy departed servant [Name]."
+> **Priest:** "Remember, O Lord, the soul of Thy departed servant [Name]."
 *And at the conclusion he says thus:*
-**Priest:** "And all who in the hope of resurrection...
+> **Priest:** "And all who in the hope of resurrection *Proskomedia.*
 
-*Proskomedia.*
-
-**Priest:** "...unto life eternal, and into Thy communion, of the departed Orthodox fathers and our brethren, O Lord, Lover of mankind."[^96]
+> **Priest:** "...unto life eternal, and into Thy communion, of the departed Orthodox fathers and our brethren, O Lord, Lover of mankind."[^96]
 *And he places the particles for the departed on the lower row, which is the second beneath the Holy Bread.*[^97] *Then taking the sixth prosphora, he says:*[^98]
-**Priest:** "Remember, O Lord, according to the multitude of Thy tender mercies, even mine unworthiness, and forgive me every transgression, both voluntary and involuntary."[^99]
+> **Priest:** "Remember, O Lord, according to the multitude of Thy tender mercies, even mine unworthiness, and forgive me every transgression, both voluntary and involuntary."[^99]
 
 *In the Liturgies.*
 
@@ -274,9 +252,7 @@ For our brethren and fellow-ministers, the presbyters and deacons, and all our b
 *In the Liturgies.*
 
 *Instead, while the presbyter is performing the Proskomedia, the deacon comes and brings two prosphoras, and gives them unto the priest; and the priest commemorates first all those living whom the deacon wishes; then upon the second prosphora also for the dead, all whom he wishes to commemorate; and the priest takes out particles, while the deacon says the names.*[^104]
-*It is fitting to know this also: that if it happen that there be a concelebration...*[^105]
-
-*Proskomedia.*
+*It is fitting to know this also: that if it happen that there be a concelebration*[^105] *Proskomedia.*
 
 ...[if it happen that there be a concelebration of] many priests at the holy Liturgy, the first of them only shall perform the Proskomedia,[^106] even unto: "And all who in the hope of resurrection." Then from thence, all having read unto here briefly, come one by one and commemorate the living and the dead, as many as they have. And afterward the deacons in like manner, coming unto the one presbyter who presides:
 
@@ -290,72 +266,66 @@ And the rest according to custom, even as is written above. And thus bowing he d
 *Proskomedia.*
 
 *Then taking the censer and putting incense into it, he says unto the priest softly:*
-**Deacon:** "Bless, Master, the censer."[^108]
+> **Deacon:** "Bless, Master, the censer."[^108]
 *And the priest blesses, holding his hand crosswise, saying the prayer over the censer:*
-**Priest:** "Incense we offer unto Thee, O Christ our God, for an odor of spiritual fragrance, which receiving into Thy heavenly altar, send down upon us the grace of Thy most Holy Spirit."
+> **Priest:** "Incense we offer unto Thee, O Christ our God, for an odor of spiritual fragrance, which receiving into Thy heavenly altar, send down upon us the grace of Thy most Holy Spirit."
 
 *In the Liturgies.*
 
-**Deacon:** "Let us pray to the Lord."
+> **Deacon:** "Let us pray to the Lord."
 *And the priest, having censed the star, places it atop the Holy Bread, saying:*[^109]
-**Priest:** "And the star coming, stood over where the Young Child was."[^110]
-**Deacon:** "Let us pray to the Lord."
+> **Priest:** "And the star coming, stood over where the Young Child was."[^110]
+> **Deacon:** "Let us pray to the Lord."
 *The priest, having censed the first veil, wrapping the veil about the censer and filling it with the fragrance of incense, covers the Holy Bread together with the diskos, saying: Psalm 92:*
 
 *Proskomedia.*
 
-**Priest:** "The Lord is King, He is clothed with majesty; the Lord is clothed with strength and has girded Himself. For He has established the world, which shall not be shaken. Prepared is Thy throne from that time; from everlasting Thou art. The rivers have lifted up, O Lord, the rivers have lifted up their voices. The rivers shall lift up their waves, at the voices of many waters. Marvelous are the surges of the sea; marvelous in high places is the Lord.
+> **Priest:** "The Lord is King, He is clothed with majesty; the Lord is clothed with strength and has girded Himself. For He has established the world, which shall not be shaken. Prepared is Thy throne from that time; from everlasting Thou art. The rivers have lifted up, O Lord, the rivers have lifted up their voices. The rivers shall lift up their waves, at the voices of many waters. Marvelous are the surges of the sea; marvelous in high places is the Lord.
 
 *In the Liturgies.*
 
 Thy testimonies are made exceedingly sure; holiness befits Thy house, O Lord, unto length of days."[^111]
-**Deacon:** "Let us pray to the Lord. Cover, Master."
+> **Deacon:** "Let us pray to the Lord. Cover, Master."
 *The priest, likewise having censed the second veil, covers the holy chalice, saying:*[^112]
-**Priest:** "Thy virtue has covered the heavens, O Christ, and the earth is full of Thy praise."[^113]
-**Deacon:** "Let us pray to the Lord. Cover both, Master."
-*And the priest, having censed...*
-
-*Proskomedia.*
+> **Priest:** "Thy virtue has covered the heavens, O Christ, and the earth is full of Thy praise."[^113]
+> **Deacon:** "Let us pray to the Lord. Cover both, Master."
+*And the priest, having censed Proskomedia.*
 
 *...the third veil, which is the aer, covers both, saying:*[^114]
-**Priest:** "Cover us under the shelter of Thy wings; drive away from us every enemy and adversary; make peaceful our life, O Lord; have mercy on us and on Thy world, and save our souls, for Thou art good and Lover of mankind."[^115]
+> **Priest:** "Cover us under the shelter of Thy wings; drive away from us every enemy and adversary; make peaceful our life, O Lord; have mercy on us and on Thy world, and save our souls, for Thou art good and Lover of mankind."[^115]
 *Then crossing their hands and bowing with reverence, the priest says:*[^116]
-**Priest:** "Blessed is [our] God Who is thus well-pleased:[^117]
+> **Priest:** "Blessed is [our] God Who is thus well-pleased:[^117]
 
 *In the Liturgies.*
 
 always, now and ever, and unto ages of ages. Amen."
-**Deacon:** "For the precious gifts set forth, let us pray to the Lord."
+> **Deacon:** "For the precious gifts set forth, let us pray to the Lord."
 *The priest [says] the Prayer of the Prothesis:*[^118]
-**Priest:** "O God, our God, Who didst send forth the Heavenly Bread, the food of the whole world, our Lord and God Jesus Christ, as Savior and Redeemer and Benefactor, blessing and sanctifying us: do Thou Thyself bless this oblation, and receive it...
+> **Priest:** "O God, our God, Who didst send forth the Heavenly Bread, the food of the whole world, our Lord and God Jesus Christ, as Savior and Redeemer and Benefactor, blessing and sanctifying us: do Thou Thyself bless this oblation, and receive it *Proskomedia.*
 
-*Proskomedia.*
-
-**Priest:** "...into Thy heavenly altar. Remember, as Thou art good and Lover of mankind, those who offered and those for whom they offered; and preserve us uncondemned in the holy celebration of Thy divine Mysteries.
+> **Priest:** "...into Thy heavenly altar. Remember, as Thou art good and Lover of mankind, those who offered and those for whom they offered; and preserve us uncondemned in the holy celebration of Thy divine Mysteries.
 *Exclamation:*
 For sanctified and glorified is Thy most honorable and majestic Name: of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages. Amen."
 *Then the priest, taking the censer, In the Liturgies.*
 
 *himself censes the Prothesis. And giving the censer unto the deacon, he makes the dismissal thus:*[^119]
-**Priest:** "Glory to Thee, O Christ God, our Hope, glory to Thee."
-**Deacon:** "Glory... both now... Lord, have mercy *(thrice)*. Bless."
+> **Priest:** "Glory to Thee, O Christ God, our Hope, glory to Thee."
+> **Deacon:** "Glory... both now... Lord, have mercy *(thrice)*. Bless."
 *And the priest makes the dismissal. If it be Sunday, he says thus:*
-**Priest:** "He Who rose from the dead, Christ our true God..."
+> **Priest:** "He Who rose from the dead, Christ our true God..."
 *And if it be a feast, let him say [the dismissal] of the feast, or: "Christ our true God..." according to custom.*[^120]
 
 *Proskomedia.*
 
 *And if it be on an ordinary day, say:*[^121]
-**Priest:** "Christ our true God, through the prayers of His most pure Mother, and of our father among the saints, John Chrysostom, Archbishop of Constantinople, and of all the saints, have mercy on us and save us, for He is good and Lover of mankind."
+> **Priest:** "Christ our true God, through the prayers of His most pure Mother, and of our father among the saints, John Chrysostom, Archbishop of Constantinople, and of all the saints, have mercy on us and save us, for He is good and Lover of mankind."
 *And if it be the Liturgy of Basil the Great, say:*
-**Priest:** "our father among the saints, Basil the Great, Archbishop of Caesarea in Cappadocia...
-
-*In the Liturgies.*
+> **Priest:** "our father among the saints, Basil the Great, Archbishop of Caesarea in Cappadocia *In the Liturgies.*
 
 ...and of all the saints, have mercy on us and save us."
-**Deacon:** "Amen."
+> **Deacon:** "Amen."
 *And after the dismissal, the deacon censes the Holy Prothesis at the table of preparation. Then he departs and censes the Holy Table crosswise, saying within himself:*[^122]
-**Deacon:** "In the tomb with the body, in Hades with the soul as God, in Paradise with the thief, and on the throne wast Thou, O Christ, with the Father and the Spirit, filling all things, Thou Who art uncircumscribed."[^123]
+> **Deacon:** "In the tomb with the body, in Hades with the soul as God, in Paradise with the thief, and on the throne wast Thou, O Christ, with the Father and the Spirit, filling all things, Thou Who art uncircumscribed."[^123]
 
 *Proskomedia.*
 
@@ -370,38 +340,36 @@ For sanctified and glorified is Thy most honorable and majestic Name: of the Fat
 *Then the priest kisses the Holy Gospel, Proskomedia.*
 
 *...and the deacon [kisses] the Holy Table. And after this, the deacon, bowing his head unto the priest and holding the orarion with three fingers of his right hand, says:*[^128]
-**Deacon:** "It is time to act for the Lord; Master, bless."[^129]
+> **Deacon:** "It is time to act for the Lord; Master, bless."[^129]
 *And the priest, signing him, says:*
-**Priest:** "Blessed is our God, always, now and ever, and unto ages of ages."
+> **Priest:** "Blessed is our God, always, now and ever, and unto ages of ages."
 *Then the deacon:*
-**Deacon:** "Pray for me, Master."
+> **Deacon:** "Pray for me, Master."
 *And the priest:*
-**Priest:** "May the Lord direct thy steps."
+> **Priest:** "May the Lord direct thy steps."
 *And again the deacon:*
 
 *In the Liturgies.*
 
-**Deacon:** "Remember me, holy Master."
+> **Deacon:** "Remember me, holy Master."
 *And the priest:*
-**Priest:** "May the Lord God remember thee in His Kingdom, always, now and ever, and unto ages of ages."
+> **Priest:** "May the Lord God remember thee in His Kingdom, always, now and ever, and unto ages of ages."
 *The deacon having said:*
-**Deacon:** "Amen."
+> **Deacon:** "Amen."
 *And thus the deacon departs from the altar, and having opened the Great Doors, he says:*[^130]
-**Deacon:** "Wisdom!"
-**Choir:** "More honorable than the Cherubim..."[^131]
-**Deacon:** "And bless me, lord father."
-**Priest:** "God be gracious unto us and bless us."[^132]
-**Choir:** "Glory... both now... Lord, have mercy *(thrice)*."
+> **Deacon:** "Wisdom!"
+> **Choir:** "More honorable than the Cherubim..."[^131]
+> **Deacon:** "And bless me, lord father."
+> **Priest:** "God be gracious unto us and bless us."[^132]
+> **Choir:** "Glory... both now... Lord, have mercy *(thrice)*."
 
 *Proskomedia.*
 
-**Choir:** "...Bless."
+> **Choir:** "...Bless."
 *The priest [gives] the dismissal:*
-**Priest:** "Christ our true God, through the prayers of His most pure Mother, and of our father among the saints, John Chrysostom, Archbishop of Constantinople, and of all the saints, have mercy on us and save us, for He is good and Lover of mankind."
+> **Priest:** "Christ our true God, through the prayers of His most pure Mother, and of our father among the saints, John Chrysostom, Archbishop of Constantinople, and of all the saints, have mercy on us and save us, for He is good and Lover of mankind."
 *If it be Sunday, say:*
-**Priest:** "He Who rose from the dead, Christ our true God, through the prayers of His most pure Mother, by the power of the precious and...
-
-*In the Liturgies.*
+> **Priest:** "He Who rose from the dead, Christ our true God, through the prayers of His most pure Mother, by the power of the precious and *In the Liturgies.*
 
 ...life-creating Cross, and of our father among the saints John [Chrysostom]—or Basil—and of all the saints, have mercy on us and save us."
 
@@ -415,26 +383,20 @@ For sanctified and glorified is Thy most honorable and majestic Name: of the Fat
 
 *Concerning the Proskomedia.*
 
-Yet since He Who performs and is performed,[^136] Jesus—(not for the sake of [any alteration],[^137] but possessing the love toward mankind which ever abides)—was well-pleased that it be so, and having partaken of our whole compound nature, without sin:[^138] this figure of His ineffable divine condescension, having become perfect man, and having suffered in the flesh and not in the Godhead, and as a sheep..."[^139]
-
-*An Explanation.*
+Yet since He Who performs and is performed,[^136] Jesus—(not for the sake of [any alteration],[^137] but possessing the love toward mankind which ever abides)—was well-pleased that it be so, and having partaken of our whole compound nature, without sin:[^138] this figure of His ineffable divine condescension, having become perfect man, and having suffered in the flesh and not in the Godhead, and as a sheep"[^139] *An Explanation.*
 
 **The Author:** "...was led as a sheep to the slaughter, and as a lamb dumb before its shearer;[^140] and He was taken up again. Yet after He had edified and sprinkled [us], He promised to be with us unto the end of the age,[^141] desiring to be offered bodily each day for the sake of the holy Sacrifice. Therefore also, by reason of His supreme goodness toward us, as the Son and Word of His invisible Father, bestowing wisdom and understanding, He commanded that those things performed in Him be signified by the word.
 
 *Concerning the Proskomedia.*
 
 Therefore, putting our trust in Him, we shall explain the things concerning Him as best we can, beginning thus:
-The right side of the Holy Bread is said to be that whereon the holy chalice is placed.[^142] For the most holy Bread, when it has the Cross upward, lies face downward after the likeness of a lamb; by reason of His supreme...
-
-*An Explanation.*
+The right side of the Holy Bread is said to be that whereon the holy chalice is placed.[^142] For the most holy Bread, when it has the Cross upward, lies face downward after the likeness of a lamb; by reason of His supreme *An Explanation.*
 
 **The Author:** "...condescension, He is called an innocent lamb led to be sacrificed.[^143] And the lamb is accustomed to walk not upon its back, but face downward; therefore also the letters having the Cross, *IC XC*, on the upper back part, signify the back of the Holy Bread. For the Cross was laid upon the most pure Body of the Lord not from the front, but from behind,[^144] as is very well known; while the lower parts altogether are His front.
 
 *Concerning the Proskomedia.*
 
-Without doubt they are [His front]. And for this reason, since the lower side of the Holy Bread represents Its face: at Its right side is the holy chalice, and the prosphora of the Mother of God, saying (according to the Prophet): 'At Thy right hand stood the Queen' [Ps 44:10];[^145] and the remaining holy nine particles [are placed] after her, as receiving sanctification through her, as we have been accustomed to place [them], doing this in a God-wise manner. And [as for] the holy particles, [there are] neither more nor fewer than nine...
-
-*An Explanation.*
+Without doubt they are [His front]. And for this reason, since the lower side of the Holy Bread represents Its face: at Its right side is the holy chalice, and the prosphora of the Mother of God, saying (according to the Prophet): 'At Thy right hand stood the Queen' [Ps 44:10];[^145] and the remaining holy nine particles [are placed] after her, as receiving sanctification through her, as we have been accustomed to place [them], doing this in a God-wise manner. And [as for] the holy particles, [there are] neither more nor fewer than nine *An Explanation.*
 
 **The Author:** "...we place, after the likeness of the heavenly ranks. For as there (according to Dionysius the Areopagite, great in theology) all the host of these is divided into nine ranks:[^146] so here also, in a most God-fitting manner—for the very same Jesus abides in both—[they are placed] in three hierarchies; that as the same Dionysius again in the second, sixth, seventh, and eighth chapters of [the book] *On the Celestial Hierarchy*, distinguishes the twelve divine adorations:[^147]
 
@@ -452,48 +414,42 @@ so all the heavenly hierarchy shall possess its likeness in all good order."
 *And when the dismissal has been spoken by the priest, the deacon comes and stands in his customary place before the holy doors; and having made three reverent bows,*[^151] *The Holy Liturgy*
 
 *saying within himself:*
-**Deacon:** "O Lord, Thou shalt open my lips, and my mouth shall declare Thy praise."[^152]
+> **Deacon:** "O Lord, Thou shalt open my lips, and my mouth shall declare Thy praise."[^152]
 *And he proclaims with a loud voice:*
-**Deacon:** "Bless, Master."[^153]
+> **Deacon:** "Bless, Master."[^153]
 *And the priest begins:*
-**Priest:** "Blessed is the kingdom of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages."
-**Choir:** "Amen."
-**Deacon:** "In peace let us pray to the Lord."
+> **Priest:** "Blessed is the kingdom of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
+> **Deacon:** "In peace let us pray to the Lord."
 *And the choir, unto each petition of the deacon, responds:*
 
 *of Saint John Chrysostom*
 
-**Choir:** "Lord, have mercy."
-**Deacon:** "For the peace from above and for the salvation of our souls, let us pray to the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "For the peace from above and for the salvation of our souls, let us pray to the Lord."
 "For the peace of the whole world, for the good estate of the holy churches of God, and for the union of all, let us pray to the Lord."
 "For this holy temple, and for those who with faith, reverence, and fear of God enter therein, let us pray to the Lord."
-"For our Bishop *[Name]*, for the honorable priesthood, the diaconate in Christ, for all the clergy..."[^154]
+"For our Bishop *[Name]*, for the honorable priesthood, the diaconate in Christ, for all the clergy"[^154] *The Holy Liturgy*
 
-*The Holy Liturgy*
-
-**Deacon:** "...and the people, let us pray to the Lord."
+> **Deacon:** "...and the people, let us pray to the Lord."
 "For our Great King *[Name]*, and our pious sovereigns, for all the palace and the army, let us pray to the Lord."[^155]
 "That He may aid them and subdue under their feet every enemy and adversary, let us pray to the Lord."
 "For this holy monastery, and for every city and countryside, and for those who in faith dwell therein, let us pray to the Lord."
-"For favorable weather, an abundance of the fruits of the earth, and..."
+"For favorable weather, an abundance of the fruits of the earth, and" *of Saint John Chrysostom*
 
-*of Saint John Chrysostom*
-
-**Deacon:** "...peaceful times, let us pray to the Lord."
+> **Deacon:** "...peaceful times, let us pray to the Lord."
 "For those who travel by sea, those who journey by land, the sick, the suffering, those in captivity, and for their salvation, let us pray to the Lord."
 "For our deliverance from all tribulation, wrath, and necessity, let us pray to the Lord."
 "Help us, save us, have mercy on us, and keep us, O God, by Thy grace."
-"Remembering our most holy, pure, most blessed and glorious Lady, the Theotokos and ever-virgin Mary, with all..."
+"Remembering our most holy, pure, most blessed and glorious Lady, the Theotokos and ever-virgin Mary, with all" *The Holy Liturgy*
 
-*The Holy Liturgy*
-
-**Deacon:** "...the saints, let us commend ourselves and one another, and our whole life unto Christ God."
-**Choir:** "To Thee, O Lord."
+> **Deacon:** "...the saints, let us commend ourselves and one another, and our whole life unto Christ God."
+> **Choir:** "To Thee, O Lord."
 *Exclamation of the priest:*
-**Priest:** "For unto Thee is due all glory, honor, and worship: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
-**Choir:** "Amen."
+> **Priest:** "For unto Thee is due all glory, honor, and worship: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
 *Prayer of the First Antiphon:*[^156]
-**Priest:** "O Lord our God, Whose dominion is unspeakable, *of Saint John Chrysostom*
+> **Priest:** "O Lord our God, Whose dominion is unspeakable, *of Saint John Chrysostom*
 
 and Whose glory is incomprehensible; Whose mercy is immeasurable, and Whose love toward mankind is ineffable: do Thou Thyself, Master, according to Thy tender mercy, look down upon us and upon this holy temple, and show forth toward us and toward those who pray with us Thy rich mercies and Thy compassions."
 *And the first antiphon is sung by the singers. And the deacon, having bowed, steps away from his place, and going, stands before the icon of Christ,*[^157] *The Holy Liturgy*
@@ -504,239 +460,221 @@ and Whose glory is incomprehensible; Whose mercy is immeasurable, and Whose love
 
 *of Saint John Chrysostom*
 
-**Deacon:** "Again and again in peace let us pray to the Lord."
-**Choir:** "Lord, have mercy."
-**Deacon:** "Help us, save us, have mercy on us, and keep us, O God, by Thy grace."
-**Choir:** "Lord, have mercy."
-**Deacon:** "Remembering our most holy, pure, most blessed and glorious Lady, the Theotokos and ever-virgin Mary, with all the saints, let us commend ourselves and one another, and our whole life unto Christ God."
-**Choir:** "To Thee, O Lord."
+> **Deacon:** "Again and again in peace let us pray to the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "Help us, save us, have mercy on us, and keep us, O God, by Thy grace."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "Remembering our most holy, pure, most blessed and glorious Lady, the Theotokos and ever-virgin Mary, with all the saints, let us commend ourselves and one another, and our whole life unto Christ God."
+> **Choir:** "To Thee, O Lord."
 *Exclamation of the priest:*
 
 *The Holy Liturgy*
 
-**Priest:** "For Thine is the dominion, and Thine is the kingdom, and the power, and the glory: of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages."
-**Choir:** "Amen."
+> **Priest:** "For Thine is the dominion, and Thine is the kingdom, and the power, and the glory: of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
 *And while the singers sing this [second] antiphon, then the priest says the prayer. The Prayer of the Second Antiphon:*[^160]
-**Priest:** "O Lord our God, save Thy people, and bless Thine inheritance; preserve the fullness of Thy Church; sanctify those who love the beauty of Thy house;
+> **Priest:** "O Lord our God, save Thy people, and bless Thine inheritance; preserve the fullness of Thy Church; sanctify those who love the beauty of Thy house;
 
 *of Saint John Chrysostom*
 
 do Thou glorify them in return by Thy divine power, and forsake us not who hope in Thee."
 *And while the second antiphon is sung by the singers, the deacon stands in that same place even as before. And after the completion of the antiphon, he ascends again unto his customary place; and having bowed, he says:*
-**Deacon:** "Again and again in peace let us pray to the Lord."
-**Choir:** "Lord, have mercy."
-**Deacon:** "Help us, save us, have mercy on us, and keep..."
+> **Deacon:** "Again and again in peace let us pray to the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "Help us, save us, have mercy on us, and keep" *The Holy Liturgy*
 
-*The Holy Liturgy*
-
-**Deacon:** "...us, O God, by Thy grace."
-**Choir:** "Lord, have mercy."
-**Deacon:** "Remembering our most holy, pure, most blessed and glorious Lady, the Theotokos and ever-virgin Mary, with all the saints, let us commend ourselves and one another, and our whole life unto Christ God."
-**Choir:** "To Thee, O Lord."
+> **Deacon:** "...us, O God, by Thy grace."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "Remembering our most holy, pure, most blessed and glorious Lady, the Theotokos and ever-virgin Mary, with all the saints, let us commend ourselves and one another, and our whole life unto Christ God."
+> **Choir:** "To Thee, O Lord."
 *Exclamation of the priest:*
-**Priest:** "For Thou art a good God and Lover of mankind, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
-**Choir:** "Amen."
+> **Priest:** "For Thou art a good God and Lover of mankind, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
 
 *of Saint John Chrysostom*
 
 *Prayer of the Third Antiphon:*[^161]
-**Priest:** "Thou Who didst bestow upon us these common and concordant prayers, Who didst promise to grant the petitions of two or three agreeing in Thy Name: do Thou Thyself now also fulfill the petitions of Thy servants unto what is profitable, granting us in this present age the knowledge of Thy truth..."[^162]
+> **Priest:** "Thou Who didst bestow upon us these common and concordant prayers, Who didst promise to grant the petitions of two or three agreeing in Thy Name: do Thou Thyself now also fulfill the petitions of Thy servants unto what is profitable, granting us in this present age the knowledge of Thy truth"[^162] *The Holy Liturgy*
 
-*The Holy Liturgy*
-
-**Priest:** "...of Thy truth, and in the world to come bestowing life everlasting."[^163]
+> **Priest:** "...of Thy truth, and in the world to come bestowing life everlasting."[^163]
 
 *And while the third antiphon is sung by the singers, or the Beatitudes if it be Sunday or a feast of the saints: when it comes time to sing "Glory..." the priest and the deacon, standing before the holy Table, make three bows. Then the priest, taking the Holy Gospel, gives it to the deacon; and having thus gone out by the north side, preceded of Saint John Chrysostom*
 
 *by two candles, they make the Little Entrance.[^164] And having stood in the customary place, both bow their heads; and the deacon having said softly: "Let us pray to the Lord," while holding his orarion with three fingers of his right hand: the priest says the Prayer of the Entrance secretly:*
-**Priest:** "Master, Lord our God, Who hast appointed in the heavens ranks and hosts of angels..."[^165]
+> **Priest:** "Master, Lord our God, Who hast appointed in the heavens ranks and hosts of angels"[^165] *The Holy Liturgy*
 
-*The Holy Liturgy*
-
-**Priest:** "...and archangels for the ministry of Thy glory: make with our entrance an entrance of holy angels to be, serving with us and glorifying Thy goodness."
+> **Priest:** "...and archangels for the ministry of Thy glory: make with our entrance an entrance of holy angels to be, serving with us and glorifying Thy goodness."
 *Exclamation:*
-**Priest:** "For unto Thee is due all glory, honor, and worship: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."[^166]
-**Choir:** "Amen."
+> **Priest:** "For unto Thee is due all glory, honor, and worship: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."[^166]
+> **Choir:** "Amen."
 *And the prayer being completed, the priest kisses the Holy Gospel. And the deacon says of Saint John Chrysostom*
 
 *unto the priest, pointing toward the east with his orarion as he holds it:*
-**Deacon:** "Bless, Master, the holy entrance."
+> **Deacon:** "Bless, Master, the holy entrance."
 *And the priest, blessing him, says:*
-**Priest:** "Blessed is the entrance of Thy saints, always, now and ever, and unto ages of ages."[^167]
-*And if it happen that a bishop be in the church, or an archimandrite, the deacon carries the Holy Gospel unto them, and they kiss it; likewise also whomsoever he blesses. But if he does not bless...*[^168]
-
-*The Holy Liturgy*
+> **Priest:** "Blessed is the entrance of Thy saints, always, now and ever, and unto ages of ages."[^167]
+*And if it happen that a bishop be in the church, or an archimandrite, the deacon carries the Holy Gospel unto them, and they kiss it; likewise also whomsoever he blesses. But if he does not bless*[^168] *The Holy Liturgy*
 
 *...then the priest himself does this. And after the conclusion of the last, third antiphon,[^169] or of the Beatitudes: the deacon goes into the middle, and standing before the priest, having raised his hands a little, showing forth the Holy Gospel, proclaims with a loud voice:*
-**Deacon:** "Wisdom! Stand upright!"[^170]
+> **Deacon:** "Wisdom! Stand upright!"[^170]
 *Having bowed himself, and the priest behind him, they enter into the holy altar; and thus he places of Saint John Chrysostom*
 
 *the Holy Gospel upon the holy Table. And the singers sing:*
-**Choir:** "Amen. Come, let us worship and fall down before Christ our Savior; save us, O Son of God, Who art marvelous in the saints, who sing to Thee: Alleluia."[^171]
+> **Choir:** "Amen. Come, let us worship and fall down before Christ our Savior; save us, O Son of God, Who art marvelous in the saints, who sing to Thee: Alleluia."[^171]
 *And if it be Sunday:*
-**Choir:** "Who didst rise from the dead, who sing to Thee: Alleluia."
+> **Choir:** "Who didst rise from the dead, who sing to Thee: Alleluia."
 *Then the troparia and kontakia according to custom are sung by the choirs. Then the deacon says unto the priest, having bowed The Holy Liturgy*
 
 *his head, and holding the orarion in his hand, as has been said many times:*
-**Deacon:** "Bless, Master, the time of the Trisagion."[^172]
+> **Deacon:** "Bless, Master, the time of the Trisagion."[^172]
 *And the priest, blessing him with the sign of the cross, says:*
-**Priest:** "For holy art Thou, our God, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever,"
+> **Priest:** "For holy art Thou, our God, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever,"
 *And when the troparia and kontakia have come to an end, the deacon approaches near unto the holy doors, and showing his orarion to the singers as they finish, says:*
 
 *of Saint John Chrysostom*
 
-**Deacon:** "O Lord, save the pious, and hear us."[^173]
+> **Deacon:** "O Lord, save the pious, and hear us."[^173]
 *Then he raises his voice unto those standing outside, proclaiming with a loud voice:*
-**Deacon:** "And unto ages of ages."
-**Choir:** "Amen."
+> **Deacon:** "And unto ages of ages."
+> **Choir:** "Amen."
 *And while the Trisagion is sung, the priest says this prayer. The Prayer of the Thrice-Holy Hymn:*[^174]
-**Priest:** "O Holy God, Who restest in the saints, Who with the thrice-holy voice art hymned by the seraphim, and glorified by the cherubim, and by all..."
+> **Priest:** "O Holy God, Who restest in the saints, Who with the thrice-holy voice art hymned by the seraphim, and glorified by the cherubim, and by all" *The Holy Liturgy*
 
-*The Holy Liturgy*
+> **Priest:** "...the heavenly hosts adored; Who brought all things out of nothingness into being; Who created man according to Thine own image and likeness, and adorned him with Thine every gift; Who givest wisdom and understanding to him that asks, and disdainest not him that sins, but hast appointed repentance unto salvation; Who hast vouchsafed unto us, Thy humble and unworthy servants, even at this hour" *of Saint John Chrysostom*
 
-**Priest:** "...the heavenly hosts adored; Who brought all things out of nothingness into being; Who created man according to Thine own image and likeness, and adorned him with Thine every gift; Who givest wisdom and understanding to him that asks, and disdainest not him that sins, but hast appointed repentance unto salvation; Who hast vouchsafed unto us, Thy humble and unworthy servants, even at this hour" *of Saint John Chrysostom*
+> **Priest:** "to stand before the glory of Thy holy altar, and to offer unto Thee the worship and doxology that are Thy due: do Thou Thyself, O Master, accept also from the mouths of us sinners the thrice-holy hymn, and visit us in Thy goodness; forgive us every transgression, voluntary and involuntary; sanctify our souls and bodies, and grant us in holiness to serve Thee all the days of our life, by the intercessions of the holy Theotokos,"[^175] *The Holy Liturgy*
 
-**Priest:** "to stand before the glory of Thy holy altar, and to offer unto Thee the worship and doxology that are Thy due: do Thou Thyself, O Master, accept also from the mouths of us sinners the thrice-holy hymn, and visit us in Thy goodness; forgive us every transgression, voluntary and involuntary; sanctify our souls and bodies, and grant us in holiness to serve Thee all the days of our life, by the intercessions of the holy Theotokos,"[^175] *The Holy Liturgy*
-
-**Priest:** "...and of all the saints who from the beginning have been well-pleasing unto Thee. For holy art Thou, our God, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."[^176]
-**Choir:** "Amen."
+> **Priest:** "...and of all the saints who from the beginning have been well-pleasing unto Thee. For holy art Thou, our God, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."[^176]
+> **Choir:** "Amen."
 *And the prayer being completed, they themselves also—the priest and the deacon—sing the Trisagion, together making three bows before the holy Table. Then the deacon says unto the priest:*
-**Deacon:** "Command, Master."
+> **Deacon:** "Command, Master."
 *And they go unto the high place; and as he goes, the priest says:*
 
 *of Saint John Chrysostom*
 
-**Priest:** "Blessed is He that comes in the Name of the Lord."[^177]
-**Deacon:** "Bless, Master, the high throne."
+> **Priest:** "Blessed is He that comes in the Name of the Lord."[^177]
+> **Deacon:** "Bless, Master, the high throne."
 *And the priest says:*
-**Priest:** "Blessed art Thou upon the throne of the glory of Thy kingdom, Who sittest upon the cherubim, always, now and ever, and unto ages of ages."[^178]
+> **Priest:** "Blessed art Thou upon the throne of the glory of Thy kingdom, Who sittest upon the cherubim, always, now and ever, and unto ages of ages."[^178]
 *And after the conclusion of the Trisagion, the deacon, having come before the holy doors, says:*
-**Deacon:** "Let us attend."
-**Priest:** "Peace be to all."
-**Reader:** "And to thy spirit."
+> **Deacon:** "Let us attend."
+> **Priest:** "Peace be to all."
+> **Reader:** "And to thy spirit."
 *And the deacon again:*
-**Deacon:** "Wisdom! Let us attend!"
+> **Deacon:** "Wisdom! Let us attend!"
 
 *The Holy Liturgy*
 
 *And the reader says:*
-**Reader:** "A Psalm of David."[^179]
+> **Reader:** "A Psalm of David."[^179]
 *having stated the Tone of the prokeimenon. And when the prokeimenon is finished, the deacon again says:*
-**Deacon:** "Wisdom!"
+> **Deacon:** "Wisdom!"
 *And the reader announces the title of the Epistle:*
-**Reader:** "The Reading from the Acts of the Holy Apostles."
+> **Reader:** "The Reading from the Acts of the Holy Apostles."
 *Or:*
-**Reader:** "The Reading from the Catholic Epistle of [Name]."
+> **Reader:** "The Reading from the Catholic Epistle of [Name]."
 *Or:*
-**Reader:** "The Reading from the Epistle of the Holy Apostle Paul to the Romans."[^180]
+> **Reader:** "The Reading from the Epistle of the Holy Apostle Paul to the Romans."[^180]
 *The deacon again:*
-**Deacon:** "Let us attend."
+> **Deacon:** "Let us attend."
 *And when the Epistle has been read, of Saint John Chrysostom*
 
 *the priest says:*
-**Priest:** "Peace be to thee."
-**Deacon:** "Wisdom! Let us attend!"
+> **Priest:** "Peace be to thee."
+> **Deacon:** "Wisdom! Let us attend!"
 *And the reader says:*
-**Reader:** "A Psalm of David."
+> **Reader:** "A Psalm of David."
 *The choir sings the Tone:*
-**Choir:** "Alleluia."
+> **Choir:** "Alleluia."
 *And while the Alleluia is sung, the deacon, taking the censer and incense, approaches the priest; and having received a blessing from him, he censes the holy Table in the form of a cross, and the holy Prothesis,[^181] and the whole sanctuary, and the priest. And the priest says this prayer. The Prayer before the Gospel:*[^182]
 
 *The Holy Liturgy*
 
-**Priest:** "Shine forth in our hearts, O Master Lover of mankind, the incorruptible light of Thy divine knowledge, and open the eyes of our mind unto the understanding of Thy Gospel proclamations; instill also in us the fear of Thy blessed commandments, that having trampled down all carnal lusts, we may pursue a spiritual manner of life, thinking and doing all things that are well-pleasing unto Thee."[^183]
+> **Priest:** "Shine forth in our hearts, O Master Lover of mankind, the incorruptible light of Thy divine knowledge, and open the eyes of our mind unto the understanding of Thy Gospel proclamations; instill also in us the fear of Thy blessed commandments, that having trampled down all carnal lusts, we may pursue a spiritual manner of life, thinking and doing all things that are well-pleasing unto Thee."[^183]
 
 *of Saint John Chrysostom*
 
-**Priest:** "For Thou art the enlightenment of our souls, O Christ God, and unto Thee do we send up glory, with Thine unoriginate Father, and Thy most holy and good and life-creating Spirit, now and ever, and unto ages of ages."[^184]
-**Choir:** "Amen."
+> **Priest:** "For Thou art the enlightenment of our souls, O Christ God, and unto Thee do we send up glory, with Thine unoriginate Father, and Thy most holy and good and life-creating Spirit, now and ever, and unto ages of ages."[^184]
+> **Choir:** "Amen."
 *And the deacon, having placed the censer in its customary place, approaches the priest; having bowed down his head, holding his orarion with three fingers of his right hand, he says softly:*
 
 *The Holy Liturgy*
 
-**Deacon:** "Bless, Master, the evangelizer of the holy apostle and evangelist [Name]."
+> **Deacon:** "Bless, Master, the evangelizer of the holy apostle and evangelist [Name]."
 *And the priest, having laid his hand upon his head, says this prayer:*
-**Priest:** "May God, through the intercessions of the holy, glorious, all-lauded apostle and evangelist [Name], give speech with great power to thee who evangelizest, unto the fulfillment of the Gospel of His beloved Son, our Lord Jesus Christ."[^185]
+> **Priest:** "May God, through the intercessions of the holy, glorious, all-lauded apostle and evangelist [Name], give speech with great power to thee who evangelizest, unto the fulfillment of the Gospel of His beloved Son, our Lord Jesus Christ."[^185]
 *And he blesses him. And the deacon says:*
-**Deacon:** "Amen."
+> **Deacon:** "Amen."
 *And having bowed of Saint John Chrysostom*
 
 *himself three times, he takes the Holy Gospel from the priest; and having gone out through the holy doors, preceded by two candles, he comes and stands upon the ambo. If a bishop be present, then let the bishop say the prayer, blessing the deacon. The priest, standing by the holy Table and looking toward the people, proclaims:*
-**Priest:** "Wisdom! Stand upright! Let us hear the Holy Gospel."
-**Deacon:** "And to thy spirit."
+> **Priest:** "Wisdom! Stand upright! Let us hear the Holy Gospel."
+> **Deacon:** "And to thy spirit."
 *And the deacon proclaims:*
-**Deacon:** "The Reading from the Holy Gospel according to [Name]."
+> **Deacon:** "The Reading from the Holy Gospel according to [Name]."
 *The priest:*
-**Priest:** "Let us attend."
-*And if there be two deacons...*[^186]
-
-*The Holy Liturgy*
+> **Priest:** "Let us attend."
+*And if there be two deacons*[^186] *The Holy Liturgy*
 
 *...then let one deacon say: "Wisdom! Stand upright!" And at the conclusion of the Gospel, the priest says:*
-**Priest:** "Peace be to thee."
+> **Priest:** "Peace be to thee."
 *And the deacon, having gone even unto the holy doors, gives the Holy Gospel unto the priest; and having stood in his customary place, he says (and if there be another deacon, then let him go out and say):*
-**Deacon:** "Let us all say with our whole soul, and with our whole mind let us say:"
-**Choir:** "Lord, have mercy."
-**Deacon:** "O Lord Almighty, God of our fathers, we pray Thee, hear and have mercy."
+> **Deacon:** "Let us all say with our whole soul, and with our whole mind let us say:"
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "O Lord Almighty, God of our fathers, we pray Thee, hear and have mercy."
 
 *of Saint John Chrysostom*
 
-**Choir:** "Lord, have mercy."
-**Deacon:** "Have mercy on us, O God, according to Thy great mercy, we pray Thee, hear and have mercy."
-**Choir:** "Lord, have mercy." *(Thrice).*[^187]
-**Deacon:** "Again we pray for our great King, [Name], and for the pious and God-preserved rulers, our lords; for their dominion, victory, endurance, peace, health, and salvation, and for the remission of their sins; and that the Lord our God..."[^188]
-
-*The Holy Liturgy*
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "Have mercy on us, O God, according to Thy great mercy, we pray Thee, hear and have mercy."
+> **Choir:** "Lord, have mercy." *(Thrice).*[^187]
+> **Deacon:** "Again we pray for our great King, [Name], and for the pious and God-preserved rulers, our lords; for their dominion, victory, endurance, peace, health, and salvation, and for the remission of their sins; and that the Lord our God"[^188] *The Holy Liturgy*
 
 "...especially to aid and assist them in all things, and to subdue under their feet every enemy and adversary."[^189]
 *And the priest says the Prayer of Insistent Supplication secretly:*[^190]
-**Priest:** "O Lord our God, accept this fervent supplication from Thy servants, and have mercy on us according to the multitude of Thy mercy, and send down Thy compassions upon us and upon all Thy people," *of Saint John Chrysostom*
+> **Priest:** "O Lord our God, accept this fervent supplication from Thy servants, and have mercy on us according to the multitude of Thy mercy, and send down Thy compassions upon us and upon all Thy people," *of Saint John Chrysostom*
 
 "who await from Thee rich mercy."[^191]
 *The deacon:*
-**Deacon:** "Again we pray for our Bishop, [Name]."
+> **Deacon:** "Again we pray for our Bishop, [Name]."
 *If it be a monastery, say this:*
-**Deacon:** "Again we pray for the remission of the sins of the servant of God, our father, Archimandrite (or Hegumen), [Name], and for all our brotherhood in Christ."[^192]
-**Deacon:** "Again we pray for all who serve and have served in this holy monastery."
+> **Deacon:** "Again we pray for the remission of the sins of the servant of God, our father, Archimandrite (or Hegumen), [Name], and for all our brotherhood in Christ."[^192]
+> **Deacon:** "Again we pray for all who serve and have served in this holy monastery."
 *If not in a monastery, read:*
 
 *The Holy Liturgy*
 
-**Deacon:** "Again we pray for our spiritual fathers, and for all our brotherhood in Christ."
-**Deacon:** "Again we pray for the people here present, who await from Thee rich mercy."
-**Deacon:** "Again we pray for all our brethren, and for all Orthodox Christians."[^193]
+> **Deacon:** "Again we pray for our spiritual fathers, and for all our brotherhood in Christ."
+> **Deacon:** "Again we pray for the people here present, who await from Thee rich mercy."
+> **Deacon:** "Again we pray for all our brethren, and for all Orthodox Christians."[^193]
 *Exclamation:*
-**Priest:** "For Thou art a merciful God and Lover of mankind, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever," *of Saint John Chrysostom*
+> **Priest:** "For Thou art a merciful God and Lover of mankind, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever," *of Saint John Chrysostom*
 
-**Priest:** "and unto ages of ages."
-**Choir:** "Amen."
+> **Priest:** "and unto ages of ages."
+> **Choir:** "Amen."
 *The deacon intones the Litany for the Catechumens:*[^194]
-**Deacon:** "Pray, ye catechumens, unto the Lord."
-**Choir:** "Lord, have mercy."
-**Deacon:** "Ye faithful, let us pray for the catechumens, that the Lord may have mercy on them."
-**Deacon:** "That He may catechize them with the word of truth."
-**Deacon:** "That He may reveal unto them the Gospel of righteousness."
-**Deacon:** "That He may unite them to His holy, catholic, and apostolic Church."
-**Deacon:** "Save, have mercy, protect, and preserve them, O God, by Thy grace."
-**Deacon:** "Ye catechumens, bow your heads..."
+> **Deacon:** "Pray, ye catechumens, unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "Ye faithful, let us pray for the catechumens, that the Lord may have mercy on them."
+> **Deacon:** "That He may catechize them with the word of truth."
+> **Deacon:** "That He may reveal unto them the Gospel of righteousness."
+> **Deacon:** "That He may unite them to His holy, catholic, and apostolic Church."
+> **Deacon:** "Save, have mercy, protect, and preserve them, O God, by Thy grace."
+> **Deacon:** "Ye catechumens, bow your heads" *The Holy Liturgy*
 
-*The Holy Liturgy*
-
-**Deacon:** "...unto the Lord."
-**Choir:** "To Thee, O Lord."
+> **Deacon:** "...unto the Lord."
+> **Choir:** "To Thee, O Lord."
 *The Prayer for the Catechumens before the Holy Elevation:*[^195]
-**Priest:** "O Lord our God, Who dwellest on high and regardest the humble, Who didst send down salvation unto the race of mankind, Thine only-begotten Son, our God and Lord Jesus Christ: look upon Thy servants the catechumens, who have bowed their necks unto Thee; and vouchsafe them,"[^196] *of Saint John Chrysostom*
+> **Priest:** "O Lord our God, Who dwellest on high and regardest the humble, Who didst send down salvation unto the race of mankind, Thine only-begotten Son, our God and Lord Jesus Christ: look upon Thy servants the catechumens, who have bowed their necks unto Thee; and vouchsafe them,"[^196] *of Saint John Chrysostom*
 
-**Priest:** "in an acceptable time, the bath of regeneration, the remission of sins, and the garment of incorruption; unite them to Thy holy, catholic, and apostolic Church, and number them with Thine elect flock."
+> **Priest:** "in an acceptable time, the bath of regeneration, the remission of sins, and the garment of incorruption; unite them to Thy holy, catholic, and apostolic Church, and number them with Thine elect flock."
 *Exclamation:*
-**Priest:** "That they also with us may glorify Thy most honorable and majestic Name, of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages."
-**Choir:** "Amen."
-*And the priest unfolds...*[^197]
-
-*The Holy Liturgy*
+> **Priest:** "That they also with us may glorify Thy most honorable and majestic Name, of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
+*And the priest unfolds*[^197] *The Holy Liturgy*
 
 *...the iliton, the priest. But if there be two deacons, or more, then let the first, having gone out of the sanctuary, say: "As many as are catechumens, depart." And the second after him: "Catechumens, depart." The third: "As many as are catechumens, depart." Let one of the deacons say:*[^198]
-**Deacon:** "Let none of the catechumens [remain]. As many as are of the faithful, again and again in peace let us pray unto the Lord."
+> **Deacon:** "Let none of the catechumens [remain]. As many as are of the faithful, again and again in peace let us pray unto the Lord."
 *And the rest.*[^199]
 
 *of Saint John Chrysostom*
@@ -751,63 +689,61 @@ do Thou glorify them in return by Thy divine power, and forsake us not who hope 
 
 *The Holy Liturgy*
 
-**Priest:** "As many as are catechumens, depart; catechumens, depart; as many as are catechumens, depart; let none of the catechumens [remain]; as many as are of the faithful, again and again in peace let us pray unto the Lord."[^201]
+> **Priest:** "As many as are catechumens, depart; catechumens, depart; as many as are catechumens, depart; let none of the catechumens [remain]; as many as are of the faithful, again and again in peace let us pray unto the Lord."[^201]
 *The First Prayer of the Faithful, after the unfolding of the iliton:*[^202]
-**Priest:** "We thank Thee, O Lord God of hosts, Who hast vouchsafed us to stand even now" *of Saint John Chrysostom*
+> **Priest:** "We thank Thee, O Lord God of hosts, Who hast vouchsafed us to stand even now" *of Saint John Chrysostom*
 
-**Priest:** "before Thy holy altar of sacrifice, and to fall down before Thy compassions for our sins and for the ignorances of the people. Receive our supplication, and make us worthy to offer unto Thee petitions and supplications, and bloodless sacrifices, for all Thy people; and enable us, whom Thou hast placed in this Thy ministry, by the power of Thy Holy Spirit,"[^203] *The Holy Liturgy*
+> **Priest:** "before Thy holy altar of sacrifice, and to fall down before Thy compassions for our sins and for the ignorances of the people. Receive our supplication, and make us worthy to offer unto Thee petitions and supplications, and bloodless sacrifices, for all Thy people; and enable us, whom Thou hast placed in this Thy ministry, by the power of Thy Holy Spirit,"[^203] *The Holy Liturgy*
 
-**Priest:** "without condemnation and without stumbling, in the pure testimony of our conscience, to call upon Thee at all times and in every place, that hearing us, Thou mayest be merciful unto us in the multitude of Thy goodness."
+> **Priest:** "without condemnation and without stumbling, in the pure testimony of our conscience, to call upon Thee at all times and in every place, that hearing us, Thou mayest be merciful unto us in the multitude of Thy goodness."
 *The deacon intones:*
-**Deacon:** "Help us, save us, have mercy on us, and preserve us, O God, by Thy grace."
-**Deacon:** "Wisdom!"
+> **Deacon:** "Help us, save us, have mercy on us, and preserve us, O God, by Thy grace."
+> **Deacon:** "Wisdom!"
 *Exclamation:*
-**Priest:** "For unto Thee is due all glory, honor, and worship,"[^204] *of Saint John Chrysostom*
+> **Priest:** "For unto Thee is due all glory, honor, and worship,"[^204] *of Saint John Chrysostom*
 
 *And taking the aer from the shoulder of the deacon, and having censed it, he covers the Holy Gifts therewith, saying:*[^205]
-**Priest:** "The noble Joseph, having taken down Thine immaculate Body from the Tree, wrapped It in pure linen and spices, and closed It in a new tomb."[^206]
+> **Priest:** "The noble Joseph, having taken down Thine immaculate Body from the Tree, wrapped It in pure linen and spices, and closed It in a new tomb."[^206]
 *And taking the censer from the hands of the deacon, he censes the Holy Gifts thrice, saying:*
-**Priest:** "Do good, O Lord, in Thy good pleasure unto Zion;"[^207]
+> **Priest:** "Do good, O Lord, in Thy good pleasure unto Zion;"[^207]
 
 *The Holy Liturgy*
 
-**Priest:** "...and let the walls of Jerusalem be built. Then shalt Thou be pleased with a sacrifice of righteousness, with oblation and whole-burnt offerings; then shall they offer bullocks upon Thine altar."[^208]
+> **Priest:** "...and let the walls of Jerusalem be built. Then shalt Thou be pleased with a sacrifice of righteousness, with oblation and whole-burnt offerings; then shall they offer bullocks upon Thine altar."[^208]
 *And having given back the censer, and let down his phelonion, and bowed his head, he says unto the deacon:*
-**Priest:** "Remember me, brother and concelebrant."
+> **Priest:** "Remember me, brother and concelebrant."
 *And the deacon unto him:*
-**Deacon:** "May the Lord God remember thy priesthood in His kingdom."[^209]
+> **Deacon:** "May the Lord God remember thy priesthood in His kingdom."[^209]
 
 *of Saint John Chrysostom*
 
 *The Second Prayer of the Faithful:*[^210]
-**Priest:** "...upon our supplication; cleanse our souls and bodies from all defilement of flesh and spirit; and grant unto us blameless and uncondemned standing before Thy holy altar of sacrifice. Grant also, O God, unto those who pray with us, advance in life and faith and spiritual understanding; grant unto them always with fear and love to serve Thee blamelessly and uncondemned,"[^211] *The Holy Liturgy*
+> **Priest:** "...upon our supplication; cleanse our souls and bodies from all defilement of flesh and spirit; and grant unto us blameless and uncondemned standing before Thy holy altar of sacrifice. Grant also, O God, unto those who pray with us, advance in life and faith and spiritual understanding; grant unto them always with fear and love to serve Thee blamelessly and uncondemned,"[^211] *The Holy Liturgy*
 
-**Priest:** "...to partake of Thy Holy Mysteries, and to be vouchsafed Thy heavenly kingdom."
+> **Priest:** "...to partake of Thy Holy Mysteries, and to be vouchsafed Thy heavenly kingdom."
 *The deacon:*
-**Deacon:** "Help us, save us, have mercy on us, and preserve us, O God, by Thy grace."
-**Deacon:** "Wisdom!"
+> **Deacon:** "Help us, save us, have mercy on us, and preserve us, O God, by Thy grace."
+> **Deacon:** "Wisdom!"
 *Exclamation:*
-**Priest:** "That being always guarded under Thy dominion, we may send up glory unto Thee, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."[^212]
-**Choir:** "Amen."
+> **Priest:** "That being always guarded under Thy dominion, we may send up glory unto Thee, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."[^212]
+> **Choir:** "Amen."
 *And the singers sing the Cherubic Hymn. And the priest says this prayer:*[^213]
 
 *of Saint John Chrysostom*
 
 *The Prayer of the Cherubic Hymn:*[^214]
-**Priest:** "None is worthy of them that are bound with carnal desires and pleasures to approach or draw near, or to serve Thee, O King of Glory; for to serve Thee is great and fearful even to the heavenly hosts themselves. Yet on account of Thine ineffable and boundless love toward mankind, without change and without alteration Thou didst become man, and wast named our High Priest,"[^215] *The Holy Liturgy*
+> **Priest:** "None is worthy of them that are bound with carnal desires and pleasures to approach or draw near, or to serve Thee, O King of Glory; for to serve Thee is great and fearful even to the heavenly hosts themselves. Yet on account of Thine ineffable and boundless love toward mankind, without change and without alteration Thou didst become man, and wast named our High Priest,"[^215] *The Holy Liturgy*
 
-**Priest:** "and didst commit unto us the hieratic ministry of this liturgic and bloodless sacrifice, as Master of all. For Thou alone, O Lord our God, rulest over things in heaven and things on earth; Who art borne upon the cherubic throne; Who art Lord of the seraphim and King of Israel; Who alone art holy and restest in the saints. Thee, therefore, do I implore, Who alone art good and ready to listen:"[^216]
+> **Priest:** "and didst commit unto us the hieratic ministry of this liturgic and bloodless sacrifice, as Master of all. For Thou alone, O Lord our God, rulest over things in heaven and things on earth; Who art borne upon the cherubic throne; Who art Lord of the seraphim and King of Israel; Who alone art holy and restest in the saints. Thee, therefore, do I implore, Who alone art good and ready to listen:"[^216]
 
 *of Saint John Chrysostom*
 
-**Priest:** "look upon me, a sinner and Thine unprofitable servant, and cleanse my soul and my heart from an evil conscience; and enable me by the power of Thy Holy Spirit, invested with the grace of the priesthood, to stand before this Thy holy table, and to celebrate the sacred mystery of Thy holy and immaculate Body and precious Blood. For unto Thee do I draw near, having bowed my neck, and I pray Thee: turn not Thy face away" *The Holy Liturgy*
+> **Priest:** "look upon me, a sinner and Thine unprofitable servant, and cleanse my soul and my heart from an evil conscience; and enable me by the power of Thy Holy Spirit, invested with the grace of the priesthood, to stand before this Thy holy table, and to celebrate the sacred mystery of Thy holy and immaculate Body and precious Blood. For unto Thee do I draw near, having bowed my neck, and I pray Thee: turn not Thy face away" *The Holy Liturgy*
 
-**Priest:** "from me, neither cast me away from among Thy servants; but vouchsafe that these gifts may be offered unto Thee by me, a sinner and Thine unworthy servant. For Thou art He that offers and is offered, that accepts and is distributed, O Christ our God; and unto Thee do we send up glory, with Thine unoriginate Father, and Thy most holy and good and life-creating Spirit,"[^217] *of Saint John Chrysostom*
+> **Priest:** "from me, neither cast me away from among Thy servants; but vouchsafe that these gifts may be offered unto Thee by me, a sinner and Thine unworthy servant. For Thou art He that offers and is offered, that accepts and is distributed, O Christ our God; and unto Thee do we send up glory, with Thine unoriginate Father, and Thy most holy and good and life-creating Spirit,"[^217] *of Saint John Chrysostom*
 
-**Priest:** "now and ever, and unto ages of ages."
-*And the deacon enters into the holy sanctuary; and having taken the censer with incense, and approached the priest, and received the customary blessing for censing, he censes the holy Table round about, and the whole sanctuary, and the priest, reciting Psalm 50; and he stands again at his left hand with all reverence, awaiting the conclusion of the prayer. And when it is finished...*[^218]
-
-*The Holy Liturgy*
+> **Priest:** "now and ever, and unto ages of ages."
+*And the deacon enters into the holy sanctuary; and having taken the censer with incense, and approached the priest, and received the customary blessing for censing, he censes the holy Table round about, and the whole sanctuary, and the priest, reciting Psalm 50; and he stands again at his left hand with all reverence, awaiting the conclusion of the prayer. And when it is finished*[^218] *The Holy Liturgy*
 
 *Standing together, they recite to themselves:*
 *The Cherubic Hymn:*[^219]
@@ -819,116 +755,110 @@ do Thou glorify them in return by Thy divine power, and forsake us not who hope 
 *the deacon going before with the censer; and having censed the Holy Gifts, praying together:*
 **Priest and Deacon:** "O God, cleanse me a sinner, and have mercy on me."
 *The deacon says unto the priest:*
-**Deacon:** "Lift up, master."
+> **Deacon:** "Lift up, master."
 *And the priest, having taken the aer, places it upon the left shoulder of the deacon, saying:*[^222]
-**Priest:** "Lift up your hands unto the holies, and bless the Lord."
+> **Priest:** "Lift up your hands unto the holies, and bless the Lord."
 *Then, taking the holy diskos, he places it upon his head with all attentiveness and reverence,*[^223] *The Holy Liturgy*
 
 *the deacon having also the censer on one finger; and the priest himself, having taken the holy chalice in his hands, goes out through the north side, two taper-bearers going before him; and making the Great Entrance, the deacon says:*[^224]
-**Deacon:** "May the Lord God remember all of you in His kingdom, always, now and ever, and unto ages of ages."
+> **Deacon:** "May the Lord God remember all of you in His kingdom, always, now and ever, and unto ages of ages."
 *And the priest entering says:*
-**Priest:** "Lift up your gates, ye princes,"[^225] *of Saint John Chrysostom*
+> **Priest:** "Lift up your gates, ye princes,"[^225] *of Saint John Chrysostom*
 
-**Priest:** "and be ye lifted up, ye everlasting gates, and the King of Glory shall enter in."
+> **Priest:** "and be ye lifted up, ye everlasting gates, and the King of Glory shall enter in."
 *And the deacon says:*
-**Deacon:** "Blessed is He that comes in the Name of the Lord; God is the Lord and hath appeared unto us."
+> **Deacon:** "Blessed is He that comes in the Name of the Lord; God is the Lord and hath appeared unto us."
 *And the deacon, having entered inside through the Holy Doors, stands on the right side; and when the priest is about to enter, the deacon says unto him softly:*
-**Deacon:** "May the Lord God remember thy priesthood in His kingdom."
+> **Deacon:** "May the Lord God remember thy priesthood in His kingdom."
 *Likewise also the priest says unto him:*
 
 *The Holy Liturgy*
 
-**Priest:** "May the Lord God remember thy diaconate in His kingdom, always, now and ever, and unto ages of ages."
+> **Priest:** "May the Lord God remember thy diaconate in His kingdom, always, now and ever, and unto ages of ages."
 *And so the priest sets the holy chalice upon the holy Table; and having taken the holy diskos from the head of the deacon, he sets it upon the holy Table; then, having taken both veils from the holy diskos and the holy chalice, he places them at one corner of the holy Table,*[^226] *(Transposition: outer half-sheet of Quire Zeta)*[^227]
 
 *of Saint John Chrysostom*
 
-**Priest:** "...to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
-**Choir:** "Amen."
+> **Priest:** "...to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
 *The deacon:*
-**Deacon:** "Again and again in peace let us pray unto the Lord."
-**Choir:** "Lord, have mercy."
-**Deacon:** "For this holy monastery, and for every city and countryside, and for those who in faith dwell in them, let us pray unto the Lord."[^228]
-**Deacon:** "For seasonable weather, for abundance of the fruits of the earth, and for peaceful times, let us pray unto the Lord."
-**Deacon:** "For our deliverance from all..."
+> **Deacon:** "Again and again in peace let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "For this holy monastery, and for every city and countryside, and for those who in faith dwell in them, let us pray unto the Lord."[^228]
+> **Deacon:** "For seasonable weather, for abundance of the fruits of the earth, and for peaceful times, let us pray unto the Lord."
+> **Deacon:** "For our deliverance from all" *The Holy Liturgy*
 
-*The Holy Liturgy*
-
-**Deacon:** "...affliction, wrath, danger, and necessity, let us pray unto the Lord."
-**Deacon:** "Help us, save us, have mercy on us, and preserve us, O God, by Thy grace."
-**Deacon:** "Wisdom!"
+> **Deacon:** "...affliction, wrath, danger, and necessity, let us pray unto the Lord."
+> **Deacon:** "Help us, save us, have mercy on us, and preserve us, O God, by Thy grace."
+> **Deacon:** "Wisdom!"
 *Now if there be no deacon, then let the priest himself say: "Again and again in peace let us pray unto the Lord."*
 *The Second Prayer of the Faithful:*[^229]
-**Priest:** "Again and oft-times we fall down before Thee and implore Thee, O good Lover of mankind, that having looked down..."
-
-*(Quire Eta, Folio 1r; direct continuation of Fol. 71v)*[^230]
+> **Priest:** "Again and oft-times we fall down before Thee and implore Thee, O good Lover of mankind, that having looked down" *(Quire Eta, Folio 1r; direct continuation of Fol. 71v)*[^230]
 
 *of Saint John Chrysostom*
 
 *Then the deacon, also having bowed his head and holding together his orarion with three fingers of his right hand, says unto the priest:*
-**Deacon:** "Pray for me, holy master."
+> **Deacon:** "Pray for me, holy master."
 *And the priest:*
-**Priest:** "The Holy Spirit shall come upon thee, and the power of the Highest shall overshadow thee."[^231]
+> **Priest:** "The Holy Spirit shall come upon thee, and the power of the Highest shall overshadow thee."[^231]
 *And the deacon:*
-**Deacon:** "May that same Spirit concelebrate with us all the days of our life."
+> **Deacon:** "May that same Spirit concelebrate with us all the days of our life."
 *And again the same deacon says:*
-**Deacon:** "Remember me, holy master."
+> **Deacon:** "Remember me, holy master."
 *And the priest:*
 
 *The Holy Liturgy*
 
-**Priest:** "May the Lord God remember thee in His kingdom, always, now and ever, and unto ages of ages."
+> **Priest:** "May the Lord God remember thee in His kingdom, always, now and ever, and unto ages of ages."
 *And when he has said: "Amen," and kissed the right hand of the priest, he goes out; and standing in the customary place, he says:*[^232]
-**Deacon:** "Let us complete our prayer unto the Lord."
-**Choir:** "Lord, have mercy."
-**Deacon:** "For the precious gifts set forth, let us pray unto the Lord."[^233]
-**Deacon:** "For this holy temple, and for those who enter into it with faith, reverence, and the fear of God, let us pray unto the Lord."
+> **Deacon:** "Let us complete our prayer unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "For the precious gifts set forth, let us pray unto the Lord."[^233]
+> **Deacon:** "For this holy temple, and for those who enter into it with faith, reverence, and the fear of God, let us pray unto the Lord."
 
 *of Saint John Chrysostom*
 
-**Deacon:** "...let us pray unto the Lord."
-**Deacon:** "For our deliverance from all affliction, wrath, and necessity, let us pray unto the Lord."
+> **Deacon:** "...let us pray unto the Lord."
+> **Deacon:** "For our deliverance from all affliction, wrath, and necessity, let us pray unto the Lord."
 *The Prayer after the Setting Down of the Divine Gifts upon the Holy Table:*[^234]
-**Priest:** "O Lord God Almighty, Who alone art holy, Who acceptest the sacrifice of praise from those who call upon Thee with their whole heart: accept also the supplication of us sinners, and bring it unto Thy holy" *The Holy Liturgy*
+> **Priest:** "O Lord God Almighty, Who alone art holy, Who acceptest the sacrifice of praise from those who call upon Thee with their whole heart: accept also the supplication of us sinners, and bring it unto Thy holy" *The Holy Liturgy*
 
-**Priest:** "altar; and enable us to offer unto Thee gifts and spiritual sacrifices for our own sins and for the errors of the people; and make us worthy to find grace before Thee, that our sacrifice may be acceptable unto Thee, and that the good Spirit of Thy grace may dwell upon us, and upon these gifts set forth, and upon all Thy people."[^235]
+> **Priest:** "altar; and enable us to offer unto Thee gifts and spiritual sacrifices for our own sins and for the errors of the people; and make us worthy to find grace before Thee, that our sacrifice may be acceptable unto Thee, and that the good Spirit of Thy grace may dwell upon us, and upon these gifts set forth, and upon all Thy people."[^235]
 
 *of Saint John Chrysostom*
 
-**Deacon:** "Help us, save us, have mercy on us, and preserve us, O God, by Thy grace."
-**Deacon:** "That the whole day may be perfect, holy, peaceful, and sinless, let us ask of the Lord."[^236]
-**Choir:** "Grant this, O Lord."
-**Deacon:** "An angel of peace, a faithful guide, a guardian of our souls and bodies, let us ask of the Lord."
-**Choir:** "Grant this, O Lord."
-**Deacon:** "Pardon and remission of our sins and transgressions, let us ask of the Lord."
-**Choir:** "Grant this, O Lord."
+> **Deacon:** "Help us, save us, have mercy on us, and preserve us, O God, by Thy grace."
+> **Deacon:** "That the whole day may be perfect, holy, peaceful, and sinless, let us ask of the Lord."[^236]
+> **Choir:** "Grant this, O Lord."
+> **Deacon:** "An angel of peace, a faithful guide, a guardian of our souls and bodies, let us ask of the Lord."
+> **Choir:** "Grant this, O Lord."
+> **Deacon:** "Pardon and remission of our sins and transgressions, let us ask of the Lord."
+> **Choir:** "Grant this, O Lord."
 
 *The Holy Liturgy*
 
-**Deacon:** "Things good and profitable for our souls, and peace for the world, let us ask of the Lord."
-**Choir:** "Grant this, O Lord."
-**Deacon:** "That we may complete the remaining time of our life in peace and repentance, let us ask of the Lord."
-**Choir:** "Grant this, O Lord."
-**Deacon:** "A [Chris]tian ending to our life, painless, [blameless], peaceful, and a good [defense] before the dread judgment seat of Christ, let us ask."[^237]
-**Choir:** "Grant this, O Lord."
-*Commemorating our all-holy, immaculate, most blessed, and glorious Lady...*
+> **Deacon:** "Things good and profitable for our souls, and peace for the world, let us ask of the Lord."
+> **Choir:** "Grant this, O Lord."
+> **Deacon:** "That we may complete the remaining time of our life in peace and repentance, let us ask of the Lord."
+> **Choir:** "Grant this, O Lord."
+> **Deacon:** "A [Chris]tian ending to our life, painless, [blameless], peaceful, and a good [defense] before the dread judgment seat of Christ, let us ask."[^237]
+> **Choir:** "Grant this, O Lord."
+*Commemorating our all-holy, immaculate, most blessed, and glorious Lady of Saint John Chrysostom*
 
-*of Saint John Chrysostom*
-
-**Deacon:** "...Theotokos and Ever-Virgin Mary, with all the saints, let us commit ourselves and one another, and our whole life unto Christ our God."[^238]
-**Choir:** "To Thee, O Lord."
+> **Deacon:** "...Theotokos and Ever-Virgin Mary, with all the saints, let us commit ourselves and one another, and our whole life unto Christ our God."[^238]
+> **Choir:** "To Thee, O Lord."
 *Exclamation:*
-**Priest:** "Through the compassions of Thine Only-begotten Son, with Whom Thou art blessed, together with Thy most holy, and good, and life-creating Spirit, now and ever, and unto ages of ages."
-**Choir:** "Amen."
-**Priest:** "Peace be unto all."[^239]
+> **Priest:** "Through the compassions of Thine Only-begotten Son, with Whom Thou art blessed, together with Thy most holy, and good, and life-creating Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
+> **Priest:** "Peace be unto all."[^239]
 
 *The Holy Liturgy*
 
-**Choir:** "And to thy spirit."
-**Deacon:** "Let us love one another, that with one mind we may confess:"[^240]
-**Choir:** "The Father, and the Son, and the Holy Spirit: the Trinity consubstantial and undivided."
+> **Choir:** "And to thy spirit."
+> **Deacon:** "Let us love one another, that with one mind we may confess:"[^240]
+> **Choir:** "The Father, and the Son, and the Holy Spirit: the Trinity consubstantial and undivided."
 *And together the priest bows three times secretly, saying:*[^241]
-**Priest:** "I will love Thee, O Lord, my strength; the Lord is my support, and my refuge."
+> **Priest:** "I will love Thee, O Lord, my strength; the Lord is my support, and my refuge."
 *Likewise he kisses the sacred veil upon the holy diskos, of Saint John Chrysostom*
 
 *then upon the holy chalice, and the edge of the holy Table before him. But if there be two priests or more, then they also kiss all these things; likewise the rector says:*[^242]
@@ -940,7 +870,7 @@ do Thou glorify them in return by Thy divine power, and forsake us not who hope 
 *The Holy Liturgy*
 
 *Likewise also the deacon who is upon the ambo bows, and kisses his orarion where the cross is fashioned; and so he exclaims:*[^243]
-**Deacon:** "The doors! The doors! In wisdom let us give heed!"
+> **Deacon:** "The doors! The doors! In wisdom let us give heed!"
 *And the choir chants the Confession of Faith:*[^244]
 **Choir and People:** "I believe in one God, the Father Almighty, Maker of heaven and earth, and of all things visible and invisible."
 **Choir and People:** "And in one Lord Jesus Christ, the Son" *of Saint John Chrysostom*
@@ -957,82 +887,82 @@ do Thou glorify them in return by Thy divine power, and forsake us not who hope 
 
 **Choir and People:** "In one, holy, catholic, and apostolic Church. I confess one baptism for the remission of sins. I look for the resurrection of the dead, and the life of the world to come. Amen."[^246]
 *And when the holy Symbol has been concluded, the deacon exclaims with a loud voice:*
-**Deacon:** "Let us stand well; let us stand with fear; let us give heed to offer the holy oblation in peace."[^247]
-**Choir:** "A mercy of peace, a sacrifice of praise."
+> **Deacon:** "Let us stand well; let us stand with fear; let us give heed to offer the holy oblation in peace."[^247]
+> **Choir:** "A mercy of peace, a sacrifice of praise."
 
 *The Holy Liturgy*
 
-**Choir:** "...a sacrifice of praise."
+> **Choir:** "...a sacrifice of praise."
 *And the priest, having taken the aer from the Holy Gifts, says:*[^248]
-**Priest:** "Holy God, Holy Mighty, Holy Immortal, have mercy on us."
+> **Priest:** "Holy God, Holy Mighty, Holy Immortal, have mercy on us."
 *And having kissed it, he places it in its place.*
 *The deacon, having bowed, enters the holy altar; and having folded up the holy veils with the aer, he places them upon the holy Table.*
 *The priest exclaims:*
-**Priest:** "The grace of our Lord Jesus Christ, and the love of God the Father,"[^249] *of Saint John Chrysostom*
+> **Priest:** "The grace of our Lord Jesus Christ, and the love of God the Father,"[^249] *of Saint John Chrysostom*
 
-**Priest:** "and the communion of the Holy Spirit, be with you all."
-**Choir:** "And with thy spirit."
-**Priest:** "Let us lift up our hearts."[^250]
-**Choir:** "We have them unto the Lord."
-**Priest:** "Let us give thanks unto the Lord."
-**Choir:** "It is proper and right to worship the Father, the Son, and the Holy Spirit: the Trinity, consubstantial and undivided."
+> **Priest:** "and the communion of the Holy Spirit, be with you all."
+> **Choir:** "And with thy spirit."
+> **Priest:** "Let us lift up our hearts."[^250]
+> **Choir:** "We have them unto the Lord."
+> **Priest:** "Let us give thanks unto the Lord."
+> **Choir:** "It is proper and right to worship the Father, the Son, and the Holy Spirit: the Trinity, consubstantial and undivided."
 *Then the priest, having bowed his head, prays this prayer secretly:*
 
 *The Holy Liturgy*
 
 *The Prayer of the Anaphora:*[^251]
-**Priest:** "It is proper and right to sing to Thee, to bless Thee, to praise Thee, to give thanks unto Thee, to worship Thee in every place of Thy dominion; for Thou art God ineffable, incomprehensible, invisible, beyond understanding, existing always and the same: Thou, and Thine Only-begotten Son, and Thy Holy Spirit. Thou broughtest us from non-existence into being," *of Saint John Chrysostom*
+> **Priest:** "It is proper and right to sing to Thee, to bless Thee, to praise Thee, to give thanks unto Thee, to worship Thee in every place of Thy dominion; for Thou art God ineffable, incomprehensible, invisible, beyond understanding, existing always and the same: Thou, and Thine Only-begotten Son, and Thy Holy Spirit. Thou broughtest us from non-existence into being," *of Saint John Chrysostom*
 
-**Priest:** "and when we had fallen away, Thou didst raise us up again, and didst not cease to do all things until Thou hadst led us up to heaven and granted us Thy kingdom which is to come. For all these things we give thanks unto Thee, and to Thine Only-begotten Son, and to Thy Holy Spirit: for all things whereof we know and whereof we know not, the manifest and unmanifest benefits that have been wrought upon us. We give thanks unto Thee"[^252] *The Holy Liturgy*
+> **Priest:** "and when we had fallen away, Thou didst raise us up again, and didst not cease to do all things until Thou hadst led us up to heaven and granted us Thy kingdom which is to come. For all these things we give thanks unto Thee, and to Thine Only-begotten Son, and to Thy Holy Spirit: for all things whereof we know and whereof we know not, the manifest and unmanifest benefits that have been wrought upon us. We give thanks unto Thee"[^252] *The Holy Liturgy*
 
-**Priest:** "also for this liturgy, which Thou hast deigned to receive from our hands, even though there stand before Thee thousands of angels, and myriads of archangels, the cherubim and seraphim, six-winged, many-eyed, soaring aloft on their wings."[^253]
+> **Priest:** "also for this liturgy, which Thou hast deigned to receive from our hands, even though there stand before Thee thousands of angels, and myriads of archangels, the cherubim and seraphim, six-winged, many-eyed, soaring aloft on their wings."[^253]
 *Exclamation:*
-**Priest:** "Singing the triumphal hymn, shouting, crying aloud, and saying:"[^254]
-**Choir:** "Holy, holy, holy, Lord of Sabaoth! Heaven and earth are full" *of Saint John Chrysostom*
+> **Priest:** "Singing the triumphal hymn, shouting, crying aloud, and saying:"[^254]
+> **Choir:** "Holy, holy, holy, Lord of Sabaoth! Heaven and earth are full" *of Saint John Chrysostom*
 
-**Choir:** "of Thy glory! Hosanna in the highest! Blessed is He that comes in the Name of the Lord! Hosanna in the highest!"
+> **Choir:** "of Thy glory! Hosanna in the highest! Blessed is He that comes in the Name of the Lord! Hosanna in the highest!"
 *And the deacon, having taken the holy asterisk from the holy diskos, makes the sign of the cross over it, and wiping its edges against the eiliton and having kissed it, he sets it down with the aer. Then he comes and stands on the right side, and having taken the ripidion into his hands, he fans gently*[^255] *The Holy Liturgy*
 
 *with all attentiveness and with fear over the Holy Gifts, so that flies or any other such thing may not alight. And if there be no ripidion, he does this with one of the veils. And the priest, having bowed down:*
 *The Priest prays secretly:*[^256]
-**Priest:** "With these blessed powers, O Master, Lover of mankind, we also cry aloud and say: Holy art Thou, and all-holy: Thou, and Thine Only-begotten Son, and Thy Holy Spirit."
+> **Priest:** "With these blessed powers, O Master, Lover of mankind, we also cry aloud and say: Holy art Thou, and all-holy: Thou, and Thine Only-begotten Son, and Thy Holy Spirit."
 
 *of Saint John Chrysostom*
 
-**Priest:** "Holy art Thou, and all-holy, and magnificent is Thy glory; Who so loved Thy world as to give Thine Only-begotten Son, that whosoever believs in Him should not perish, but have life everlasting. Who having come and fulfilled all the dispensation for us, in the night in which He was betrayed—or rather, surrendered Himself for the life of the world—having taken"[^257] *The Holy Liturgy*
+> **Priest:** "Holy art Thou, and all-holy, and magnificent is Thy glory; Who so loved Thy world as to give Thine Only-begotten Son, that whosoever believes in Him should not perish, but have life everlasting. Who having come and fulfilled all the dispensation for us, in the night in which He was betrayed—or rather, surrendered Himself for the life of the world—having taken"[^257] *The Holy Liturgy*
 
-**Priest:** "bread into His holy, and most pure, and blameless hands, having given thanks, and blessed, and sanctified, and broken it, gave it to His holy disciples and apostles, saying:"[^258]
+> **Priest:** "bread into His holy, and most pure, and blameless hands, having given thanks, and blessed, and sanctified, and broken it, gave it to His holy disciples and apostles, saying:"[^258]
 *Then, having bowed his head with compunction and elevated his right hand, he points unto the holy bread and blesses it, saying with exclamation:*
-**Priest:** "Take, eat: this is My Body, which is broken for you for the remission of sins."
+> **Priest:** "Take, eat: this is My Body, which is broken for you for the remission of sins."
 
 *of Saint John Chrysostom*
 
-**Choir:** "Amen."
+> **Choir:** "Amen."
 *And the deacon points unto the holy diskos with his orarion, holding it with three fingers of his right hand.*[^259]
 *And the priest secretly:*
-**Priest:** "Likewise also the cup after supper, saying:"
+> **Priest:** "Likewise also the cup after supper, saying:"
 *Then, having again elevated his right hand over the holy cup, he blesses it, saying with exclamation:*
-**Priest:** "Drink of it, all of you: this is My Blood of the New Testament, which is shed for you and for many for the remission of sins."[^260]
+> **Priest:** "Drink of it, all of you: this is My Blood of the New Testament, which is shed for you and for many for the remission of sins."[^260]
 
 *The Holy Liturgy*
 
-**Choir:** "Amen."
+> **Choir:** "Amen."
 *The deacon likewise points unto the holy cup.*
 *The priest, having bowed down:*
 *The Priest prays secretly:*[^261]
-**Priest:** "Remembering, therefore, this saving commandment and all the things that have been done for us: the Cross, the Tomb, the Resurrection on the third day, the Ascension into heaven, the Sitting at the right hand, and the second and glorious Coming again:"
+> **Priest:** "Remembering, therefore, this saving commandment and all the things that have been done for us: the Cross, the Tomb, the Resurrection on the third day, the Ascension into heaven, the Sitting at the right hand, and the second and glorious Coming again:"
 *Exclamation:*
 
 *of Saint John Chrysostom*
 
-**Priest:** "Thine own of Thine own, we offer unto Thee, on behalf of all and for all."[^262]
-**Choir:** "We sing unto Thee, we bless Thee, we give thanks unto Thee, O Lord, and we pray unto Thee, O our God."
+> **Priest:** "Thine own of Thine own, we offer unto Thee, on behalf of all and for all."[^262]
+> **Choir:** "We sing unto Thee, we bless Thee, we give thanks unto Thee, O Lord, and we pray unto Thee, O our God."
 *And the deacon lays aside the ripidion; and having crossed his hands and elevated the holy bread and the holy cup, he brings them together, and bows with compunction. But if there be two deacons, then one from one side*[^263] *The Holy Liturgy*
 
 *of the holy Table elevates the holy diskos, and the other from the other side elevates the holy cup, and they bring them together.*
 *And the priest, having bowed down, prays:*
 *The Invocation of the Holy Spirit (Epiklesis):*[^264]
-**Priest:** "Yet we offer unto Thee this rational and unbloody worship; and we ask, and pray, and suppliantly beseech Thee: send down Thy Holy Spirit upon us, and upon these gifts here spread forth."
+> **Priest:** "Yet we offer unto Thee this rational and unbloody worship; and we ask, and pray, and suppliantly beseech Thee: send down Thy Holy Spirit upon us, and upon these gifts here spread forth."
 
 *of Saint John Chrysostom*
 
@@ -1047,160 +977,158 @@ do Thou glorify them in return by Thy divine power, and forsake us not who hope 
 **Priest and Deacon:** "O Lord, Who didst send down Thy Most Holy Spirit..."
 *Verse:*
 **Priest and Deacon:** "Cast me not away from Thy presence, and take not Thy Holy Spirit from me."
-**Priest and Deacon:** "O Lord, Who didst send down Thy Most Holy Spirit at the third hour..."
-
-*of Saint John Chrysostom*
+**Priest and Deacon:** "O Lord, Who didst send down Thy Most Holy Spirit at the third hour" *of Saint John Chrysostom*
 
 *Then, having bowed his head, the deacon points with his orarion unto the holy bread, saying secretly:*
-**Deacon:** "Bless, master, the holy bread."
+> **Deacon:** "Bless, master, the holy bread."
 *And the priest, having elevated his hand, signs the Holy Gifts thrice, saying:*
-**Priest:** "And make this bread the precious Body of Thy Christ."[^268]
-**Deacon:** "Amen."
+> **Priest:** "And make this bread the precious Body of Thy Christ."[^268]
+> **Deacon:** "Amen."
 *And again the deacon says:*
-**Deacon:** "Bless, master, the holy cup."
+> **Deacon:** "Bless, master, the holy cup."
 *And the priest, blessing it, says:*
-**Priest:** "And that which is in this cup, the precious Blood of Thy Christ."[^269]
-**Deacon:**
+> **Priest:** "And that which is in this cup, the precious Blood of Thy Christ."[^269]
+> **Deacon:** ""
 
 *The Holy Liturgy*
 
-**Deacon:** "Amen."
+> **Deacon:** "Amen."
 *And again the deacon, pointing unto both the holy gifts, says:*
-**Deacon:** "Bless, master, both."
+> **Deacon:** "Bless, master, both."
 *And the priest, blessing both the holy gifts, says:*
-**Priest:** "Changing them by Thy Holy Spirit."[^270]
-**Deacon:** "Amen. Amen. Amen."
+> **Priest:** "Changing them by Thy Holy Spirit."[^270]
+> **Deacon:** "Amen. Amen. Amen."
 *And having bowed his head unto the priest, the deacon says:*
-**Deacon:** "Remember me, holy master, a sinner."
+> **Deacon:** "Remember me, holy master, a sinner."
 *And the priest blesses him with his hand, saying:*
-**Priest:** "May the Lord God remember thee in His kingdom,"[^271] *of Saint John Chrysostom*
+> **Priest:** "May the Lord God remember thee in His kingdom,"[^271] *of Saint John Chrysostom*
 
-**Priest:** "always, now and ever, and unto ages of ages."
+> **Priest:** "always, now and ever, and unto ages of ages."
 *And the deacon, having said:*
-**Deacon:** "Amen."
+> **Deacon:** "Amen."
 *goes over to that place where he was standing before; and having taken the ripidion, he fans the holy gifts as before. And if there be another deacon, then one censes while the other fans the Holy Gifts. But if there be only one, then he lays aside the ripidion and takes the censer with incense.*[^272]
 *The priest bows his head, praying:*
 
 *The Holy Liturgy*
 
 *The Priest prays secretly:*[^273]
-**Priest:** "That they may be to those who partake for vigilance of soul, for remission of sins, for communion of Thy Holy Spirit, for fulfillment of the kingdom of heaven, for boldness toward Thee, not for judgment or for condemnation. Yet we offer unto Thee this rational worship for those who have fallen asleep in the faith: forefathers, fathers, patriarchs, prophets, apostles, preachers, evangelists,"[^274] *of Saint John Chrysostom*
+> **Priest:** "That they may be to those who partake for vigilance of soul, for remission of sins, for communion of Thy Holy Spirit, for fulfillment of the kingdom of heaven, for boldness toward Thee, not for judgment or for condemnation. Yet we offer unto Thee this rational worship for those who have fallen asleep in the faith: forefathers, fathers, patriarchs, prophets, apostles, preachers, evangelists,"[^274] *of Saint John Chrysostom*
 
-**Priest:** "martyrs, confessors, ascetics, and for every righteous spirit made perfect in faith."
+> **Priest:** "martyrs, confessors, ascetics, and for every righteous spirit made perfect in faith."
 *The deacon then censes the holy Table round about and the entire holy altar.*[^275]
 *And the priest exclaims:*
-**Priest:** "Especially for our most holy, pure, most blessed, glorious Lady, Theotokos and Ever-Virgin Mary."
+> **Priest:** "Especially for our most holy, pure, most blessed, glorious Lady, Theotokos and Ever-Virgin Mary."
 *The choir sings:*
 *Hymn to the Theotokos:*[^276]
-**Choir:** "It is truly proper to bless thee, O Theotokos, ever-blessed and all-blameless, and the Mother of our God."
+> **Choir:** "It is truly proper to bless thee, O Theotokos, ever-blessed and all-blameless, and the Mother of our God."
 
 *The Holy Liturgy*
 
-**Choir:** "...ever-blessed and all-blameless, and the Mother of our God. More honorable than the cherubim, and beyond compare more glorious than the seraphim, who without corruption didst bear God the Word, very Theotokos, thee do we magnify."
+> **Choir:** "...ever-blessed and all-blameless, and the Mother of our God. More honorable than the cherubim, and beyond compare more glorious than the seraphim, who without corruption didst bear God the Word, very Theotokos, thee do we magnify."
 *Or of the feast.*[^277]
 *The deacon commemorates also the diptychs, that is, the pomiannyk, of the living and of the departed whom he wills.*[^278]
 *And the priest, having bowed, prays secretly:*
 
 *of Saint John Chrysostom*
 
-**Priest:** "Of the holy prophet, forerunner, and baptist John; of the holy and all-praiseworthy apostles; of saint [Name], whose memory we also celebrate; and of all Thy saints, at whose supplications visit us, O God. And remember all those who have fallen asleep before in the hope of the resurrection unto life eternal."[^279]
+> **Priest:** "Of the holy prophet, forerunner, and baptist John; of the holy and all-praiseworthy apostles; of saint [Name], whose memory we also celebrate; and of all Thy saints, at whose supplications visit us, O God. And remember all those who have fallen asleep before in the hope of the resurrection unto life eternal."[^279]
 *Here the priest commemorates whom he wills of the living and the dead, and says:*[^280]
 
 *The Holy Liturgy*
 
 *For the living:*
-**Priest:** "For the salvation, visitation, and remission of sins of the servant of God, [Name]."
+> **Priest:** "For the salvation, visitation, and remission of sins of the servant of God, [Name]."
 *And for the departed he says:*
-**Priest:** "For the repose and remission of the soul of Thy servant, [having said the name]: In a place of light, whence pain, sorrow, and sighing have fled away, give them rest, O our God; and give them rest where the light of Thy countenance shines."[^281]
-**Priest:** "Again we pray Thee, remember, O Lord, every episcopate of the Orthodox,"[^282] *of Saint John Chrysostom*
+> **Priest:** "For the repose and remission of the soul of Thy servant, [having said the name]: In a place of light, whence pain, sorrow, and sighing have fled away, give them rest, O our God; and give them rest where the light of Thy countenance shines."[^281]
+> **Priest:** "Again we pray Thee, remember, O Lord, every episcopate of the Orthodox,"[^282] *of Saint John Chrysostom*
 
-**Priest:** "rightly dividing the word of Thy truth; all the presbyterate, the diaconate in Christ, and every sacerdotal order. Again we offer unto Thee this rational worship for the universe, for the holy Catholic and Apostolic Church; for those who live in purity and honorable estate; for our great King, [having said the name];"[^283]
+> **Priest:** "rightly dividing the word of Thy truth; all the presbyterate, the diaconate in Christ, and every sacerdotal order. Again we offer unto Thee this rational worship for the universe, for the holy Catholic and Apostolic Church; for those who live in purity and honorable estate; for our great King, [having said the name];"[^283]
 *for the most faithful, Christ-loving*[^284] *The Holy Liturgy*
 
-**Priest:** "lords and rulers of ours, for their whole court and for their armed forces: grant them, O Lord, a peaceful reign, that we also, in their tranquility, may lead a calm and quiet life in all godliness and purity."[^285]
+> **Priest:** "lords and rulers of ours, for their whole court and for their armed forces: grant them, O Lord, a peaceful reign, that we also, in their tranquility, may lead a calm and quiet life in all godliness and purity."[^285]
 *The deacon, having turned toward the doors of the holy altar, holding his orarion with the tips of his fingers, says:*
-**Deacon:** "And of all men and women."[^286]
-**Choir:** "And of all men and women."
+> **Deacon:** "And of all men and women."[^286]
+> **Choir:** "And of all men and women."
 *The priest exclaims:*
 
 *of Saint John Chrysostom*
 
-**Priest:** "Among the first, remember, O Lord, our Bishop, [having said the name]; whom do Thou grant unto Thy holy churches in peace, whole, honorable, healthy, in length of days, rightly dividing the word of Thy truth."[^287]
+> **Priest:** "Among the first, remember, O Lord, our Bishop, [having said the name]; whom do Thou grant unto Thy holy churches in peace, whole, honorable, healthy, in length of days, rightly dividing the word of Thy truth."[^287]
 *And the deacon says:*
-**Deacon:** "[Name], our Most Reverend Bishop; and for those offering these Holy Gifts, the most devout priests, [Name]; and for the salvation of our great King, [having said the name];"[^288]
+> **Deacon:** "[Name], our Most Reverend Bishop; and for those offering these Holy Gifts, the most devout priests, [Name]; and for the salvation of our great King, [having said the name];"[^288]
 
 *The Holy Liturgy*
 
-**Deacon:** "and our God-preserved lords and rulers; and of all men and women."
-**Choir:** "And of all men and women."
+> **Deacon:** "and our God-preserved lords and rulers; and of all men and women."
+> **Choir:** "And of all men and women."
 *The deacon commemorates the pomiannyk of the living; and the priest, having bowed, prays:*[^289]
-**Priest:** "Remember, O Lord, this city in which we live, and every city and countryside, and those who dwell in them in faith. Remember, O Lord, those who travel by water," *of Saint John Chrysostom*
+> **Priest:** "Remember, O Lord, this city in which we live, and every city and countryside, and those who dwell in them in faith. Remember, O Lord, those who travel by water," *of Saint John Chrysostom*
 
-**Priest:** "those who travel by land, the sick, the suffering, and their salvation. Remember, O Lord, those who bear fruit and do good works in Thy holy churches, and those who remember the poor; and send down Thy mercy upon us all."[^290]
+> **Priest:** "those who travel by land, the sick, the suffering, and their salvation. Remember, O Lord, those who bear fruit and do good works in Thy holy churches, and those who remember the poor; and send down Thy mercy upon us all."[^290]
 *Exclamation:*
-**Priest:** "And grant us with one mouth and one heart to glorify and praise Thine all-honorable and magnificent Name,"[^291] *The Holy Liturgy*
+> **Priest:** "And grant us with one mouth and one heart to glorify and praise Thine all-honorable and magnificent Name,"[^291] *The Holy Liturgy*
 
-**Priest:** "of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages."
-**Choir:** "Amen."
+> **Priest:** "of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
 *Exclamation:*
-**Priest:** "And may the mercies of the great God and our Savior Jesus Christ be with you all."[^292]
-**Choir:** "And with thy spirit."
+> **Priest:** "And may the mercies of the great God and our Savior Jesus Christ be with you all."[^292]
+> **Choir:** "And with thy spirit."
 *The deacon, having received the blessing from the priest, and having gone out and stood in the customary place, says:*
-**Deacon:** "Having commemorated all the saints, again and again in peace let us pray unto the Lord."[^293]
+> **Deacon:** "Having commemorated all the saints, again and again in peace let us pray unto the Lord."[^293]
 
 *of Saint John Chrysostom*
 
-**Choir:** "Lord, have mercy."
-**Deacon:** "For the precious gifts offered and consecrated, let us pray unto the Lord. That our God, the Lover of mankind, having received them upon His holy and heavenly and spiritual altar for an odor of spiritual sweetness, may send down upon us divine grace and the gift of the Holy Spirit, let us pray."[^294]
-**Deacon:** "That we may be delivered from all affliction, wrath, and necessity," *The Holy Liturgy*
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "For the precious gifts offered and consecrated, let us pray unto the Lord. That our God, the Lover of mankind, having received them upon His holy and heavenly and spiritual altar for an odor of spiritual sweetness, may send down upon us divine grace and the gift of the Holy Spirit, let us pray."[^294]
+> **Deacon:** "That we may be delivered from all affliction, wrath, and necessity," *The Holy Liturgy*
 
-**Deacon:** "let us pray unto the Lord."
+> **Deacon:** "let us pray unto the Lord."
 *And the priest, having bowed, prays:*
-**Priest:** "Unto Thee we commit our whole life and hope, O Master, Lover of mankind, and we ask, and pray, and suppliantly beseech Thee: make us worthy to partake of Thy heavenly and sacred mysteries of this sacred and spiritual Table, with a pure conscience, for the remission of sins, for the pardon"[^295] *of Saint John Chrysostom*
+> **Priest:** "Unto Thee we commit our whole life and hope, O Master, Lover of mankind, and we ask, and pray, and suppliantly beseech Thee: make us worthy to partake of Thy heavenly and sacred mysteries of this sacred and spiritual Table, with a pure conscience, for the remission of sins, for the pardon"[^295] *of Saint John Chrysostom*
 
-**Priest:** "of transgressions, for the communion of the Holy Spirit, for the inheritance of the kingdom of heaven, for boldness toward Thee, not for judgment or for condemnation."
-**Deacon:** "Help us, save us, have mercy on us, and keep us, O God, by Thy grace."
-**Deacon:** "That the whole day may be perfect, holy, peaceful, and sinless, let us ask of the Lord."
-**Choir:** "Grant this, O Lord."
-**Deacon:** "An angel of peace, a faithful guide, a guardian of our souls and bodies, let us ask of the Lord."[^296]
+> **Priest:** "of transgressions, for the communion of the Holy Spirit, for the inheritance of the kingdom of heaven, for boldness toward Thee, not for judgment or for condemnation."
+> **Deacon:** "Help us, save us, have mercy on us, and keep us, O God, by Thy grace."
+> **Deacon:** "That the whole day may be perfect, holy, peaceful, and sinless, let us ask of the Lord."
+> **Choir:** "Grant this, O Lord."
+> **Deacon:** "An angel of peace, a faithful guide, a guardian of our souls and bodies, let us ask of the Lord."[^296]
 
 *The Holy Liturgy*
 
-**Deacon:** "Pardon and remission of our sins and transgressions, let us ask of the Lord. Things good and profitable for our souls, and peace for the world, let us ask of the Lord. That we may complete the remaining time of our life in peace and repentance, let us ask of the Lord. A Christian end to our life, painless, blameless, peaceful, and a good defense before the dread judgment seat" *of Saint John Chrysostom*
+> **Deacon:** "Pardon and remission of our sins and transgressions, let us ask of the Lord. Things good and profitable for our souls, and peace for the world, let us ask of the Lord. That we may complete the remaining time of our life in peace and repentance, let us ask of the Lord. A Christian end to our life, painless, blameless, peaceful, and a good defense before the dread judgment seat" *of Saint John Chrysostom*
 
-**Deacon:** "of Christ, let us ask. Having asked for the unity of the faith and the communion of the Holy Spirit, let us commit ourselves and one another, and our whole life unto Christ our God."[^297]
-**Choir:** "To Thee, O Lord."
+> **Deacon:** "of Christ, let us ask. Having asked for the unity of the faith and the communion of the Holy Spirit, let us commit ourselves and one another, and our whole life unto Christ our God."[^297]
+> **Choir:** "To Thee, O Lord."
 *Exclamation:*
-**Priest:** "And vouchsafe us, O Master, with boldness, without condemnation, to dare to call upon Thee, the heavenly God and Father, and to say:"[^298]
+> **Priest:** "And vouchsafe us, O Master, with boldness, without condemnation, to dare to call upon Thee, the heavenly God and Father, and to say:"[^298]
 *The people:*
 
 *The Holy Liturgy*
 
-**People:** "Our Father, Who art in heaven, hallowed be Thy Name. Thy kingdom come. Thy will be done, on earth as it is in heaven. Give us this day our daily bread. And forgive us our debts, as we forgive our debtors. And lead us not into temptation, but deliver us from evil."[^299]
+> **People:** "Our Father, Who art in heaven, hallowed be Thy Name. Thy kingdom come. Thy will be done, on earth as it is in heaven. Give us this day our daily bread. And forgive us our debts, as we forgive our debtors. And lead us not into temptation, but deliver us from evil."[^299]
 
 *of Saint John Chrysostom*
 
-**Priest:** "For Thine is the kingdom, and the power, and the glory, of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages."
-**Choir:** "Amen."
+> **Priest:** "For Thine is the kingdom, and the power, and the glory, of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
 *Then the priest says:*
-**Priest:** "Peace be to all."[^300]
-**Choir:** "And with thy spirit."
-**Deacon:** "Bow your heads unto the Lord."
-**Choir:** "To Thee, O Lord."
+> **Priest:** "Peace be to all."[^300]
+> **Choir:** "And with thy spirit."
+> **Deacon:** "Bow your heads unto the Lord."
+> **Choir:** "To Thee, O Lord."
 *The priest, having bowed, prays:*
-**Priest:** "We give thanks unto Thee, O King invisible, Who by Thine immeasurable power"[^301] *The Holy Liturgy*
+> **Priest:** "We give thanks unto Thee, O King invisible, Who by Thine immeasurable power"[^301] *The Holy Liturgy*
 
-**Priest:** "hast created all things, and in the multitude of Thy mercy hast brought all things from non-existence into being. Do Thou Thyself, O Master, look down from heaven upon those who have bowed their heads unto Thee; for they have not bowed unto flesh and blood, but unto Thee, the awesome God. Do Thou, therefore, O Master, smooth the way equally for us all in what lies before us, according to each one's need: sail with those who sail," *of Saint John Chrysostom*
+> **Priest:** "hast created all things, and in the multitude of Thy mercy hast brought all things from non-existence into being. Do Thou Thyself, O Master, look down from heaven upon those who have bowed their heads unto Thee; for they have not bowed unto flesh and blood, but unto Thee, the awesome God. Do Thou, therefore, O Master, smooth the way equally for us all in what lies before us, according to each one's need: sail with those who sail," *of Saint John Chrysostom*
 
-**Priest:** "journey with those who journey, heal the sick, O Physician of souls and bodies."[^302]
+> **Priest:** "journey with those who journey, heal the sick, O Physician of souls and bodies."[^302]
 *Exclamation:*
-**Priest:** "Through the grace and compassions and love for mankind of Thine Only-begotten Son, with Whom Thou art blessed, together with Thine all-holy, good, and life-creating Spirit, now and ever, and unto ages of ages."[^303]
-**Choir:** "Amen."
+> **Priest:** "Through the grace and compassions and love for mankind of Thine Only-begotten Son, with Whom Thou art blessed, together with Thine all-holy, good, and life-creating Spirit, now and ever, and unto ages of ages."[^303]
+> **Choir:** "Amen."
 *The priest, having bowed, prays:*
 
 *The Holy Liturgy*
 
-**Priest:** "Give ear, O Lord Jesus Christ our God, from Thy holy dwelling place, and from the throne of glory of Thy kingdom, and come to sanctify us, Thou Who sittest on high with the Father and art here invisibly present with us; and vouchsafe by Thy mighty hand to impart unto us Thine all-pure Body and precious Blood, and through us unto all the people."[^304]
+> **Priest:** "Give ear, O Lord Jesus Christ our God, from Thy holy dwelling place, and from the throne of glory of Thy kingdom, and come to sanctify us, Thou Who sittest on high with the Father and art here invisibly present with us; and vouchsafe by Thy mighty hand to impart unto us Thine all-pure Body and precious Blood, and through us unto all the people."[^304]
 *Then the priest bows, of Saint John Chrysostom*
 
 *and the deacon likewise in that place where he stands, saying secretly thrice:*
@@ -1211,18 +1139,18 @@ do Thou glorify them in return by Thy divine power, and forsake us not who hope 
 
 *The Holy Liturgy*
 
-**Deacon:** "Let us be attentive!"[^307]
+> **Deacon:** "Let us be attentive!"[^307]
 *And the priest, elevating the Holy Bread, exclaims:*
-**Priest:** "Holy things to the holy!"
-**Choir:** "One is holy, one is Lord, Jesus Christ, unto the glory of God the Father. Amen."[^308]
+> **Priest:** "Holy things to the holy!"
+> **Choir:** "One is holy, one is Lord, Jesus Christ, unto the glory of God the Father. Amen."[^308]
 *Then the choirs sing the Communion Hymn of the day or of the saint.*[^309]
 *And the deacon girds himself with his orarion crosswise, enters into the holy sanctuary, and having taken his stand to the right of the priest who holds the Holy Bread, says:*
 
 *of Saint John Chrysostom*
 
-**Deacon:** "Break, Master, the Holy Bread."[^310]
+> **Deacon:** "Break, Master, the Holy Bread."[^310]
 *And the priest, breaking it into four parts with attentiveness and reverence, says:*
-**Priest:** "Broken and divided is the Lamb of God, the Son of the Father, broken and not divided, Who is ever eaten and never consumed, but sanctifies those who partake thereof."[^311]
+> **Priest:** "Broken and divided is the Lamb of God, the Son of the Father, broken and not divided, Who is ever eaten and never consumed, but sanctifies those who partake thereof."[^311]
 *Concerning the breaking of the Holy Lamb:*
 *The priest ought to know (Behold):*[^312]
 
@@ -1238,160 +1166,158 @@ do Thou glorify them in return by Thy divine power, and forsake us not who hope 
 
 *from the single mingling which takes place at "Holy things to the holy"; and so commune all from these.[^321]*
 *And the deacon, pointing with his orarion toward the holy chalice, says:*
-**Deacon:** "Fill, Master, the holy cup."[^322]
+> **Deacon:** "Fill, Master, the holy cup."[^322]
 *And the priest, having taken the portion lying above, makes with it the sign of the cross over the holy cup, saying:*
-**Priest:** "The fullness of the Holy Spirit."[^323]
+> **Priest:** "The fullness of the Holy Spirit."[^323]
 *And thus he places it into the holy cup.*
-**Deacon:** "Amen."
+> **Deacon:** "Amen."
 *And having taken the warmth,*[^324] *The Holy Liturgy*
 
 *he says unto the priest:*
-**Deacon:** "Bless, Master, this holy warmth."[^325]
+> **Deacon:** "Bless, Master, this holy warmth."[^325]
 *The priest blesses, saying:*
-**Priest:** "Blessed is the warmth of Thy holy things, always, now and ever, and unto ages of ages. Amen."[^326]
+> **Priest:** "Blessed is the warmth of Thy holy things, always, now and ever, and unto ages of ages. Amen."[^326]
 *And the deacon pours, observing as much as is sufficient, crosswise into the holy chalice, saying:*
-**Deacon:** "The warmth of faith, full of the Holy Spirit. Amen."[^327]
+> **Deacon:** "The warmth of faith, full of the Holy Spirit. Amen."[^327]
 *And having set aside the okropnyk, he stands a little farther off. And the priest says:*
 
 *of Saint John Chrysostom*
 
-**Priest:** "Deacon, draw near."[^328]
+> **Priest:** "Deacon, draw near."[^328]
 *And the deacon, having approached, makes a reverent metania, asking forgiveness; and the priest, holding the Holy Bread, gives it unto the deacon; and the deacon, having kissed the hand offering it unto him, takes the Holy Bread, saying:*[^329]
-**Deacon:** "Impart unto me, Master, the precious and holy Body of our Lord and God and Savior Jesus Christ."[^330]
+> **Deacon:** "Impart unto me, Master, the precious and holy Body of our Lord and God and Savior Jesus Christ."[^330]
 *And the priest says:*
-**Priest:** "Unto the deacon [having said the name] is imparted the precious and holy"[^331] *The Holy Liturgy*
+> **Priest:** "Unto the deacon [having said the name] is imparted the precious and holy"[^331] *The Holy Liturgy*
 
-**Priest:** "and all-pure Body of our Lord and God and Savior Jesus Christ, unto the remission of his sins and unto life eternal."[^332]
+> **Priest:** "and all-pure Body of our Lord and God and Savior Jesus Christ, unto the remission of his sins and unto life eternal."[^332]
 *And the deacon departs behind the holy Table, and having bowed his head, prays even as does the priest.*[^333]
 *Likewise the priest, taking one portion of the Holy Bread, says:*
-**Priest:** "The precious and all-pure Body of our Lord and God and Savior Jesus Christ is imparted unto me, the priest [having said the name], unto the remission of my sins and unto life eternal."[^334]
+> **Priest:** "The precious and all-pure Body of our Lord and God and Savior Jesus Christ is imparted unto me, the priest [having said the name], unto the remission of my sins and unto life eternal."[^334]
 
 *of Saint John Chrysostom*
 
 *And having bowed his head downward, he prays, saying:*
-**Priest:** "For the multitude of my sins, turn not away from me, O Master, Lord my God; for now do I draw near unto Thine awesome and blameless mystery; and not as being worthy do I dare this, but trusting in this Thy great goodness do I stretch forth my voice; and I am not worthy to gaze upon such"[^335] *The Holy Liturgy*
+> **Priest:** "For the multitude of my sins, turn not away from me, O Master, Lord my God; for now do I draw near unto Thine awesome and blameless mystery; and not as being worthy do I dare this, but trusting in this Thy great goodness do I stretch forth my voice; and I am not worthy to gaze upon such"[^335] *The Holy Liturgy*
 
-**Priest:** "a spiritual Table as this, upon which our Lord Jesus Christ, Thine Only-begotten Son, lies broken as a sacrifice; therefore do I offer prayer unto Thee, who am defiled with all uncleanness, and I ask remission of sins: that the Comforter and Purifier of my many sins, Thy Holy Spirit, may come unto me, strengthening me and upholding me; that also for this" *of Saint John Chrysostom*
+> **Priest:** "a spiritual Table as this, upon which our Lord Jesus Christ, Thine Only-begotten Son, lies broken as a sacrifice; therefore do I offer prayer unto Thee, who am defiled with all uncleanness, and I ask remission of sins: that the Comforter and Purifier of my many sins, Thy Holy Spirit, may come unto me, strengthening me and upholding me; that also for this" *of Saint John Chrysostom*
 
-**Priest:** "marvelous and glorious sacrifice I may send up praise unto Thee, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen.[^336]
+> **Priest:** "marvelous and glorious sacrifice I may send up praise unto Thee, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen.[^336]
 Lord, I am not worthy that Thou enter under the defiled roof of my soul; but even as Thou didst accept to recline in the cave and in the manger of dumb beasts, and in the house of Simon the leper, and didst receive the sinful harlot like unto me"[^337] *The Holy Liturgy*
 
-**Priest:** "who drew near unto Thee: do Thou Thyself vouchsafe to enter also into the manger of my irrational soul, and into my darkened body, dead and leprous; and even as Thou didst not shrink in abhorrence from the mouth of the defiled harlot kissing Thine all-pure feet, so, O Master, my God, shrink not in abhorrence from me, a sinner; but as good and the Lover of mankind, vouchsafe me," *of Saint John Chrysostom*
+> **Priest:** "who drew near unto Thee: do Thou Thyself vouchsafe to enter also into the manger of my irrational soul, and into my darkened body, dead and leprous; and even as Thou didst not shrink in abhorrence from the mouth of the defiled harlot kissing Thine all-pure feet, so, O Master, my God, shrink not in abhorrence from me, a sinner; but as good and the Lover of mankind, vouchsafe me," *of Saint John Chrysostom*
 
-**Priest:** "to become a partaker of Thine all-holy Body and Blood.[^338]
+> **Priest:** "to become a partaker of Thine all-holy Body and Blood.[^338]
 O our God, remit, pardon, forgive me my transgressions, whereinsoever I have sinned against Thee, whether in knowledge or in ignorance, whether in word or in deed; forgive me all, as good and the Lover of mankind; through the prayers of Thine all-pure and ever-virgin Mother, preserve me without condemnation to receive"[^339] *The Holy Liturgy*
 
-**Priest:** "Thy precious and all-pure Body, unto the healing of soul and body. For Thine is the kingdom and the power and the glory, of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages. Amen.[^340]
+> **Priest:** "Thy precious and all-pure Body, unto the healing of soul and body. For Thine is the kingdom and the power and the glory, of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages. Amen.[^340]
 I believe, O Lord, and I confess that Thou art truly the Christ, the Son of the living God, Who didst come into the world to save sinners, of whom I am first.[^341]
 Of Thy mystical supper, O Son of God, receive me today as a partaker;"
 
 *of Saint John Chrysostom*
 
-**Priest:** "for I will not speak of the mystery to Thine enemies, neither will I give Thee a kiss like Judas, but like the thief do I confess Thee: Remember me, O Lord, when Thou comest into Thy kingdom.[^342]
+> **Priest:** "for I will not speak of the mystery to Thine enemies, neither will I give Thee a kiss like Judas, but like the thief do I confess Thee: Remember me, O Lord, when Thou comest into Thy kingdom.[^342]
 Let not the communion of Thy holy mysteries, O Lord, be unto me for judgment or for condemnation, but unto the healing of soul and body."[^343]
 
 *The Holy Liturgy*
 
 *And thus he partakes of that held in his hands, with fear and all caution.[^344] Then he takes with both hands, with the veil, the holy chalice, and partakes thrice from it; and thus wipes his lips and the holy chalice with the veil held in his hands, and says:*[^345]
-**Priest:** "Behold, this has touched my lips, and shall take away mine iniquities, and cleanse my sins."[^346]
+> **Priest:** "Behold, this has touched my lips, and shall take away mine iniquities, and cleanse my sins."[^346]
 
 *of Saint John Chrysostom*
 
 *He summons the deacon, saying:*
-**Priest:** "Deacon, draw near."[^347]
+> **Priest:** "Deacon, draw near."[^347]
 *And the deacon approaches and bows once, saying:*
-**Deacon:** "Behold, I draw near unto the immortal King: And, I believe, O Lord, and I confess: all of it."[^348]
+> **Deacon:** "Behold, I draw near unto the immortal King: And, I believe, O Lord, and I confess: all of it."[^348]
 *And the priest says:*
-**Priest:** "The servant of God, deacon [having said the name], partakes of the precious and holy Blood of our Lord and God and Savior Jesus Christ, unto the remission of his sins and unto life eternal."[^349]
+> **Priest:** "The servant of God, deacon [having said the name], partakes of the precious and holy Blood of our Lord and God and Savior Jesus Christ, unto the remission of his sins and unto life eternal."[^349]
 
 *The Holy Liturgy*
 
 *And when the deacon has partaken, the priest says:*
-**Priest:** "Behold, this has touched thy lips, and shall take away thine iniquities, and cleanse thy sins."[^350]
+> **Priest:** "Behold, this has touched thy lips, and shall take away thine iniquities, and cleanse thy sins."[^350]
 *The priest ought to know (Behold): If there be those who wish to partake of the holy mysteries, the priest breaks the two remaining portions of the Holy Lamb, namely NI and KA, into small particles, so that there be sufficient for all communicants;*[^351]
 
 *of Saint John Chrysostom*
 
 *and having thus placed them into the holy chalice, he communes them according to custom from the Body and Blood of the Lord with all caution.[^352] And he communes them after the deacon says:*
-**Deacon:** "With the fear of God and with faith draw near."[^353]
+> **Deacon:** "With the fear of God and with faith draw near."[^353]
 *Then those who wish to receive communion draw near; but beforehand he leads them in saying:*[^354]
 **Priest & Communicants:** "I believe, O Lord, and I confess: And, Of Thy mystical supper today:"[^355]
 
 *The Holy Liturgy*
 
 *And all in order, even as the priest himself said beforehand:[^356] And thus they come one by one, and bow with all compunction and fear, with hands folded upon the breast; and having prostrated to the earth, one kisses the honorable cross, and then receives the divine mysteries.[^357] And the priest, communing him, says:*
-**Priest:** "The servant of God [Name] partakes of the precious and holy *of Saint John Chrysostom*
+> **Priest:** "The servant of God [Name] partakes of the precious and holy *of Saint John Chrysostom*
 
-**Priest:** "Body and Blood of our Lord and God and Savior Jesus Christ, unto the remission of his sins and unto life eternal."[^358]
+> **Priest:** "Body and Blood of our Lord and God and Savior Jesus Christ, unto the remission of his sins and unto life eternal."[^358]
 *And thus he wipes his lips with the holy veil; he kisses the holy chalice, and having bowed, departs.*[^359]
 *Then the deacon, having taken the holy diskos over the holy chalice, sweeps it with the holy sponge very carefully, with attentiveness and reverence, and covers*[^360] *The Holy Liturgy*
 
 *the holy chalice with the veil; likewise also upon the holy diskos he places the asterisk and the veils.[^361] Then over this the priest says the Prayer of Thanksgiving:*
-**Priest:** "We thank Thee, Master, Lover of mankind, Benefactor of our souls, that in the present day Thou hast vouchsafed us Thy heavenly and immortal mysteries.[^362] Make straight *of Saint John Chrysostom*
+> **Priest:** "We thank Thee, Master, Lover of mankind, Benefactor of our souls, that in the present day Thou hast vouchsafed us Thy heavenly and immortal mysteries.[^362] Make straight *of Saint John Chrysostom*
 
-**Priest:** "our path, establish us all in Thy fear, protect our life, firm our steps, through the prayers and supplications of the glorious Theotokos and ever-virgin Mary, and of all Thy saints."[^363]
+> **Priest:** "our path, establish us all in Thy fear, protect our life, firm our steps, through the prayers and supplications of the glorious Theotokos and ever-virgin Mary, and of all Thy saints."[^363]
 *And thus they open the doors of the holy altar; and the deacon, having bowed once, takes the chalice with reverence, approaches the doors, and elevating the holy*[^364] *The Holy Liturgy*
 
 *chalice, shows it to the people, saying:*
-**Deacon:** "With the fear of God and with faith draw near."[^365]
+> **Deacon:** "With the fear of God and with faith draw near."[^365]
 *And the priest blesses the people, saying at this aloud:*
-**Priest:** "Save, O God, Thy people, and bless Thine inheritance."[^366]
+> **Priest:** "Save, O God, Thy people, and bless Thine inheritance."[^366]
 *And both the deacon and the priest turn back toward the holy table; and the priest incenses thrice, saying within himself:*
-**Priest:** "Be Thou exalted above the heavens, O God, and Thy glory above all the earth."[^367]
+> **Priest:** "Be Thou exalted above the heavens, O God, and Thy glory above all the earth."[^367]
 *Then having taken of Saint John Chrysostom*
 
 *the holy diskos, he places it upon the deacon's head; and the deacon, having received it and looking outward toward the doors with reverence, saying nothing, departs to the Table of Oblation and sets it down.[^368] And the priest, having bowed and taken the holy chalice, turns toward the doors, looks upon the people, saying:*
-**Priest:** "Always, now and ever, and unto ages of ages."[^369]
-**Choir:** "Amen."
-**Choir:** "Let our mouth be filled with Thy praise, O Lord,[^370] *The Holy Liturgy*
+> **Priest:** "Always, now and ever, and unto ages of ages."[^369]
+> **Choir:** "Amen."
+> **Choir:** "Let our mouth be filled with Thy praise, O Lord,[^370] *The Holy Liturgy*
 
-**Choir:** "that we may sing of Thy glory; for Thou hast vouchsafed us to partake of Thy holy, immortal, and life-creating mysteries; keep us in Thy holiness, that all the day long we may meditate upon Thy righteousness. Alleluia, alleluia, alleluia."[^371]
+> **Choir:** "that we may sing of Thy glory; for Thou hast vouchsafed us to partake of Thy holy, immortal, and life-creating mysteries; keep us in Thy holiness, that all the day long we may meditate upon Thy righteousness. Alleluia, alleluia, alleluia."[^371]
 *And the deacon, having gone forth and taken his stand in the customary place, says:*
-**Deacon:** "Arise! Having partaken of the divine, holy, immaculate, and life-creating mysteries, let us worthily give thanks unto the Lord.[^372]
+> **Deacon:** "Arise! Having partaken of the divine, holy, immaculate, and life-creating mysteries, let us worthily give thanks unto the Lord.[^372]
 
 *of Saint John Chrysostom*
 
-**Deacon:** "Help us, save us, have mercy on us, and keep us, O God, by Thy grace. Having asked that the whole day may be perfect, holy, peaceful, and sinless, let us commit ourselves and one another, and our whole life unto Christ our God."[^373]
+> **Deacon:** "Help us, save us, have mercy on us, and keep us, O God, by Thy grace. Having asked that the whole day may be perfect, holy, peaceful, and sinless, let us commit ourselves and one another, and our whole life unto Christ our God."[^373]
 *Exclamation:*
-**Priest:** "For Thou art our sanctification, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."[^374]
-**Choir:** "Amen."
+> **Priest:** "For Thou art our sanctification, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."[^374]
+> **Choir:** "Amen."
 *Deacon:*
 
 *The Holy Liturgy*
 
-**Deacon:** "Let us go forth in peace."
-**Choir:** "In the name of the Lord."
-**Deacon:** "Let us pray to the Lord."
-**Choir:** "Lord, have mercy."[^375]
+> **Deacon:** "Let us go forth in peace."
+> **Choir:** "In the name of the Lord."
+> **Deacon:** "Let us pray to the Lord."
+> **Choir:** "Lord, have mercy."[^375]
 *The Prayer Behind the Ambon:*[^376]
-**Priest:** "O Lord, Who dost bless those who bless Thee, and sanctify those who trust in Thee: save Thy people and bless Thine inheritance; preserve the fullness of Thy Church; sanctify those who love the beauty of Thy house; do Thou in return glorify them[^377] *of Saint John Chrysostom*
+> **Priest:** "O Lord, Who dost bless those who bless Thee, and sanctify those who trust in Thee: save Thy people and bless Thine inheritance; preserve the fullness of Thy Church; sanctify those who love the beauty of Thy house; do Thou in return glorify them[^377] *of Saint John Chrysostom*
 
-**Priest:** "by Thy divine power, and forsake not us who hope in Thee. Grant peace to Thy world, to Thy churches, to the priests, to our rulers, to the armed forces, and to all Thy people. For every good giving and every perfect gift is from above, coming down from Thee, the Father of lights; and unto Thee do we send up glory, thanksgiving, and worship, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."[^378]
+> **Priest:** "by Thy divine power, and forsake not us who hope in Thee. Grant peace to Thy world, to Thy churches, to the priests, to our rulers, to the armed forces, and to all Thy people. For every good giving and every perfect gift is from above, coming down from Thee, the Father of lights; and unto Thee do we send up glory, thanksgiving, and worship, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."[^378]
 
 *The Holy Liturgy*
 
-**Choir:** "Amen."
+> **Choir:** "Amen."
 *Then:*
-**Choir:** "Blessed be the name of the Lord, from this time forth and unto ages" *(thrice).*
+> **Choir:** "Blessed be the name of the Lord, from this time forth and unto ages" *(thrice).*
 *And Psalm 33: "I will bless the Lord at all times..."*[^379]
 *The priest then enters through the holy doors into the holy sanctuary, and says the following prayer:*
 *Prayer said when consuming the holy gifts:*
-**Priest:** "The fullness of the Law and the Prophets, Thou Thyself art, O Christ our God, Who didst fulfill all the Father's dispensation; fill[^380] *of Saint John Chrysostom*
+> **Priest:** "The fullness of the Law and the Prophets, Thou Thyself art, O Christ our God, Who didst fulfill all the Father's dispensation; fill[^380] *of Saint John Chrysostom*
 
-**Priest:** "our hearts with joy and gladness, always, now and ever, and unto ages of ages. Amen."
+> **Priest:** "our hearts with joy and gladness, always, now and ever, and unto ages of ages. Amen."
 *And the deacon, having entered through the northern door, consumes the holy gifts with fear and with all caution, so that not even the smallest of the crumb-particles falls or is left behind; having poured wine and water thrice into the holy chalice, he consumes it, and having wiped away all moisture with the sponge,*[^381] [^382] *The Holy Liturgy*
 
 *and squeezed it dry so that no moisture is found in the sponge; then he folds the holy vessels together, and having tied them, places them in their customary place, saying: "Now lettest Thou Thy servant depart in peace..." and the rest, even as the priest.[^383] And he washes his hands in the customary place. And the priest, having gone forth, gives the antidoron; and at the completion or distribution of the antidoron, he says:*[^384]
-**Priest:** "The blessing of the Lord be upon you," *of Saint John Chrysostom*
+> **Priest:** "The blessing of the Lord be upon you," *of Saint John Chrysostom*
 
-**Priest:** "always, now and ever, and unto ages of ages."[^385]
-**Choir:** "Amen."
+> **Priest:** "always, now and ever, and unto ages of ages."[^385]
+> **Choir:** "Amen."
 *Then:*
-**Reader:** "Glory... Both now... Lord, have mercy *(thrice).* Bless!"
+> **Reader:** "Glory... Both now... Lord, have mercy *(thrice).* Bless!"
 *And the full dismissal takes place:*[^386]
-**Priest:** "Christ our true God, through the intercessions of His all-pure Mother, and of our father among the saints, John Chrysostom, Archbishop of Constantinople, and of all the saints, will have mercy on us and save us, as [He is good and loves mankind]..."[^387]
-
-*The Holy Liturgy*
+> **Priest:** "Christ our true God, through the intercessions of His all-pure Mother, and of our father among the saints, John Chrysostom, Archbishop of Constantinople, and of all the saints, will have mercy on us and save us, as [He is good and loves mankind]"[^387] *The Holy Liturgy*
 
 **Choir / Reader:** "...venerable father, worthily do we praise thee; for thou art an instructor, revealing divine things."[^388]
 *Both now...*
@@ -1402,8 +1328,6 @@ Let not the communion of Thy holy mysteries, O Lord, be unto me for judgment or 
 *Or if thou wilt, say the daily troparia: "Lord, have mercy" (twelve times); "Glory... Both now..."; "More honorable than the Cherubim..."; and He makes the dismissal, and having bowed and thanked God for all things, He departs.*[^390]
 
 *End of the Divine Liturgy of Saint John Chrysostom.*[^391]
-
-*(Blank leaf with show-through from the recto)*[^392]
 
 ---
 
@@ -1772,4 +1696,3 @@ Let not the communion of Thy holy mysteries, O Lord, be unto me for judgment or 
 [^389]: The Dismissal Theotokion: *Zastupnytse khristiianom nepostydnaia* ("O Protection of Christians unashamed, Mediatrix before the Creator unwavering, despise not the voices of sinners in prayer, but precede, as thou art good, to our help who faithfully cry unto thee: make haste to prayer, and speed to supplication, ever protecting, O Theotokos, those who honor thee").
 [^390]: Alternative short dismissal order: reciting the daily troparia, "Lord, have mercy" (12 times), "Glory... Both now...", "More honorable than the Cherubim", followed by the final dismissal, bowing, thanking God for all things, and departing.
 [^391]: Concluding colophon of the Liturgy of Saint John Chrysostom: "End of the Divine Liturgy of Saint John Chrysostom" (Коне́цъ бж҃твенныѧ лїргі́и ста́го і҆ѡа́нна хрѷсосто́ма).
-[^392]: Physical leaf p119 features a blank verso (fol. 116v / p. 218) showing through from the recto, followed by the decorative title page of Saint Basil's Liturgy on fol. 117r (p. 220, marked `с҃к` / `118`). The printer omitted page numbers 218–219 in the sequence.

@@ -2,13 +2,13 @@
 
 *When one of the Orthodox has reposed, his kinsmen immediately summon the priest; and having arrived at the house wherein the remains lie, and having put on the epitrachelion and put incense into the censer, he begins in the usual manner:*
 
-**Priest:** **"Blessed is our God..."**
+> **Priest:** **"Blessed is our God..."**
 
 *And those with him say:*
 
-**People:** **"Holy God..."** **"All-Holy Trinity..."** after **"Our Father..."**[^1410]
+> **People:** **"Holy God..."** **"All-Holy Trinity..."** after **"Our Father..."**[^1410]
 
-**Priest:** **"For Thine is the kingdom..."**
+> **Priest:** **"For Thine is the kingdom..."**
 
 *And these troparia, Tone 4:*
 
@@ -28,9 +28,9 @@ Thou art the God Who descended into hades and loosed the bonds of the bound: do 
 *Theotokion:*
 O only pure and spotless Virgin, who without seed didst bear God: intercede that our souls may be saved.
 
-*The priest [saith] the litany:*
+*The priest [says] the litany:*
 
-**Priest:**
+> **Priest:** ""
 Have mercy on us, O God, according to Thy great mercy, we pray Thee, give ear and have mercy.[^1413]
 Furthermore we pray for the repose of the soul of the servant of God [Name], departed this life.
 That every transgression committed by him, voluntary and involuntary, may be forgiven him.
@@ -169,13 +169,13 @@ Unless Thy law had been my meditation, I should then have perished in my humilia
 Forever will I not forget Thy statutes, for in them Thou hast quickened me.
 *Save me; unless Thy law [had been my meditation]...*[^1436]
 *Say thrice. Then the deaconal petitions:*
-**Deacon:** Again and again in peace let us pray to the Lord.
+> **Deacon:** "Again and again in peace let us pray to the Lord."
 Again let us pray for the repose of the soul of the servant of God, [Name], and that every transgression, voluntary and involuntary, may be forgiven him.
 That the Lord God may establish his soul where the righteous repose.
 The mercies of God, the kingdom of heaven, and the remission of his sins, let us ask of Christ the immortal King and our God.
 Let us pray to the Lord.
 *The priest [recites] the prayer: O God of spirits...*[^1437] *And the exclamation:*
-**Priest:** For Thou art the resurrection and the life and the repose of Thy departed servant, [Name], O Christ our God; and unto Thee do we send up glory, together with Thine unoriginate Father, and Thine all-holy, good, and life-creating Spirit, now and ever, and unto ages of ages.
+> **Priest:** "For Thou art the resurrection and the life and the repose of Thy departed servant, [Name], O Christ our God; and unto Thee do we send up glory, together with Thine unoriginate Father, and Thine all-holy, good, and life-creating Spirit, now and ever, and unto ages of ages."
 *And after this we begin to chant the second stasis. Refrain:*
 *O Savior, save Thy servant.*
 *Second Stasis:*[^1438]
@@ -293,7 +293,7 @@ Let us piously hymn the threefold radiance of the one Godhead,[^1462] crying alo
 Rejoice, O pure one, who didst bear God in the flesh without seed unto the salvation of all,[^1463] for through thee the human race has found salvation; and through thee may we find paradise, O pure and blessed Theotokos.
 *Alleluia, alleluia, glory to Thee, O God. (Thrice)*
 *Then the deacon:*
-**Deacon:** Again and again in peace let us pray to the Lord.
+> **Deacon:** "Again and again in peace let us pray to the Lord."
 Again let us pray for the repose... *and the rest as before.*[^1464]
 *And after the exclamation we sing these troparia:*
 *Tone 4:*
@@ -336,7 +336,7 @@ Vouchsafe him who has fled the unstable corruption of fleeting things and come u
 There is none blameless as thou, O most pure Mother of God; for thou alone from of old didst conceive in thy womb the true God, Who destroyed the power of death.[^1476]
 
 *The deacon:*
-**Deacon:** Again and again in peace let us pray to the Lord.
+> **Deacon:** "Again and again in peace let us pray to the Lord."
 *And the rest. And after the exclamation, Sessional Hymn, Tone 6:*[^1477]
 *Sessional Hymn, Tone 6:*
 Truly all things are vanity, and this life is a shadow and a dream; for in vain every earthborn man disquiets himself, as the Scripture says: when we have gained the world, then we shall dwell in the grave, where kings and beggars are together.[^1478] Therefore, O Christ God, give rest unto Thy servant who is translated, as Thou art the Lover of mankind.
@@ -395,7 +395,7 @@ Being the Fountain of life, in Thy divine might leading forth the bound one, O M
 We returned unto the earth when we transgressed God's holy commandment; but through thee, O Virgin, we have been lifted up from the earth unto heaven, having shaken off the corruption of death.[^1494]
 
 *The deacon:*
-**Deacon:** Again and again in peace... *and the rest. And after the exclamation, Kontakion, Tone 8:*[^1495]
+> **Deacon:** "Again and again in peace... *and the rest. And after the exclamation, Kontakion, Tone 8:*"[^1495]
 *Kontakion, Tone 8:*
 With the saints give rest, O Christ, unto the soul of Thy servant, where there is neither sickness, nor sorrow, nor sighing, but life everlasting.[^1496]
 
@@ -449,7 +449,7 @@ O Thou Who art by nature good and merciful, and desirous of mercy, an abyss of c
 We know thee, O pure one, to be the holy Tabernacle, and the Ark, and the Table of the law of grace; for through thee remission was granted unto those justified by the blood of Him Who was incarnate of thy womb, O all-immaculate one.[^1514]
 
 *The deacon:*
-**Deacon:** Again and again in peace let us pray to the Lord.
+> **Deacon:** "Again and again in peace let us pray to the Lord."
 *And the rest. And after the exclamation, we begin the Idiomela of John Damascene the monk. Tone 1:*[^1515]
 
 *Tone 1:*
@@ -529,7 +529,7 @@ Brethren, I would not have you to be ignorant concerning them that are asleep, t
 *Gospel according to John:*[^1541]
 The Lord said unto the Jews who came unto Him: Truly, truly, I say unto you, he that hears My word, and believes on Him that sent Me, has everlasting life, and shall not come into judgment, but is passed from death unto life. Truly, truly, I say unto you, the hour is coming, and now is, when the dead shall hear the voice of the Son of God; and they that hear shall live. For as the Father has life in Himself, so has He given to the Son to have life in Himself; and has given Him authority to execute judgment also, because He is the Son of Man. Marvel not at this; for the hour is coming in which all that are in the graves shall hear the voice of the Son of God, and shall come forth: they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of judgment.[^1542] I can of Mine own self do nothing; as I hear, I judge and My judgment is just; because I seek not Mine own will, but the will of the Father Who sent Me.[^1543]
 
-**Deacon:**
+> **Deacon:** ""
 Have mercy on us, O God, according to Thy great mercy:
 Again we pray for the repose of the soul of the departed servant of God, [Name], and that he may be forgiven every transgression, both voluntary and involuntary;
 That the Lord God may establish his soul where the righteous rest;
@@ -539,7 +539,7 @@ The mercies of God, the heavenly kingdom, and the remission of his sins, let us 
 
 *And it is to be known that while each litany is said by the deacon, for as long as the supplication is said by him, each of the priests who is present says the written prayer secretly according to his rank near the relics, and makes the exclamation:*
 
-**Priest:** For Thou art the resurrection and the life...
+> **Priest:** "For Thou art the resurrection and the life..."
 
 *In this manner it is said with a loud voice by the first priest, or the hierarch, as was stated above.*
 

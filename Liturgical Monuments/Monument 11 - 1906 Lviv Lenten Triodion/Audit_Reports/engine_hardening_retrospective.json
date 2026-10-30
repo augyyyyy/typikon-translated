@@ -1,0 +1,50 @@
+{
+  "monument_id": "1906_lviv_triodion_lenten",
+  "title": "Lviv Stauropegion Lenten Triodion (Lviv, 1906)",
+  "monument_type": "lenten_triodion",
+  "genre_register": "hymnographic",
+  "retrospective_timestamp": "2026-10-30T21:19:10.830198+00:00",
+  "codicological_profile": {
+    "total_physical_leaves": 532,
+    "cohort_count": 54,
+    "default_cohort_size": 10,
+    "monument_type": "lenten_triodion"
+  },
+  "subagent_execution_telemetry": {
+    "total_cohorts_dispatched": 54,
+    "worker_model": "flash",
+    "cohorts_passing_gate_100pct": 54,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.04,
+      "median_cohort_ratio": 1.134,
+      "max_cohort_median": 1.222
+    }
+  },
+  "argon_review_queue_telemetry": {
+    "total_items_recorded": 93,
+    "resolved_by_argon": 93,
+    "info_telemetry_only": 0,
+    "unresolved_quarantines": 0,
+    "codicological_crux_count": 0
+  },
+  "final_publication_verification": {
+    "parts_count": 6,
+    "parts": [
+      "1906_lviv_triodion_lenten_part0_front_matter.md",
+      "1906_lviv_triodion_lenten_part1_pre_lenten.md",
+      "1906_lviv_triodion_lenten_part2_weeks_1_to_3.md",
+      "1906_lviv_triodion_lenten_part3_weeks_4_to_6.md",
+      "1906_lviv_triodion_lenten_part4_oktoechos_and_synaxarion.md",
+      "1906_lviv_triodion_lenten_part5_markian_chapters.md"
+    ],
+    "total_footnotes_verified": 1485,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.04,
+      "median_cohort_ratio": 1.134,
+      "max_cohort_median": 1.222
+    },
+    "all_6_publication_gates_passed": true
+  },
+  "edge_cases_and_anomalies": [],
+  "engine_hardening_proposals": []
+}

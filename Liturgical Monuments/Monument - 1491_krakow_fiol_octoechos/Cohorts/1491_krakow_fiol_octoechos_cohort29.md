@@ -165,7 +165,7 @@ Brethren: The preaching of the Cross is to them that perish foolishness; but unt
 
 *Gospel according to John (John 3:13–17):*
 
-The Lord said: No man hath ascended up to heaven, but He that came down from heaven, even the Son of Man which is in heaven. And as Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up: that whosoever believs in Him should not perish, but have eternal life. For God so loved the world, that He gave His only-begotten Son, that whosoever believs in Him should not perish, but have everlasting life. For God sent not His Son into the world to condemn the world; but that the world through Him might be saved.
+The Lord said: No man hath ascended up to heaven, but He that came down from heaven, even the Son of Man which is in heaven. And as Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up: that whosoever believes in Him should not perish, but have eternal life. For God so loved the world, that He gave His only-begotten Son, that whosoever believes in Him should not perish, but have everlasting life. For God sent not His Son into the world to condemn the world; but that the world through Him might be saved.
 
 *Kinonikon: The light of Thy countenance hath been signed upon us, O Lord (LXX Ps. 4:7).*
 

@@ -23,10 +23,10 @@ laid in a manger of brute beasts: do Thou now also come by Thy visitation, and s
 *Order on the third day for a woman after giving birth to a child:*[^37]
 
 *The priest says:*
-**Priest:** Blessed is our God...
+> **Priest:** "Blessed is our God..."
 *And we [say] the Trisagion; O Most Holy Trinity; after [which:* Our Father...*]*
 
-**Priest:** For Thine is the kingdom...
+> **Priest:** "For Thine is the kingdom..."
 
 *Troparion, Tone 4:*[^38]
 Thy Nativity, O Virgin Theotokos, has announced joy unto all the universe; for from Thee has shone forth the Sun of Righteousness, Christ our God; and having loosed the curse, He has given blessing, and having abolished death, He has granted us life eternal.
@@ -62,11 +62,11 @@ O Master, Lord Jesus Christ, Word of God and of the Father, Only-begotten Son: W
 *And he is brought by the mother, being already cleansed and washed; [the godparent] being present who will receive him after baptism;[^48] and she having bowed her head together with the infant before the doors of the church.*
 
 *The priest begins:*
-**Priest:** Blessed is our God...
+> **Priest:** "Blessed is our God..."
 *Then:*
-**Reader:** Holy God... *(3)*. Most Holy Trinity...
+> **Reader:** "Holy God... *(3)*. Most Holy Trinity..."
 *After* Our Father:
-**Priest:** For Thine is the kingdom...
+> **Priest:** "For Thine is the kingdom..."
 
 *Troparion, Tone 1:*[^49]
 Rejoice, O Virgin Theotokos, full of grace! For from Thee has shone forth the Sun of Righteousness, Christ our God, illumining those who are in darkness. Rejoice thou also, O righteous elder, who dost receive in thine arms [who dost receive in thine arms] the Liberator of our souls, Who grants us the Resurrection.[^50]
@@ -75,7 +75,7 @@ Rejoice, O Virgin Theotokos, full of grace! For from Thee has shone forth the Su
 Thou Who didst sanctify the Virgin's womb by Thy birth, and didst bless the hands of Symeon as was fitting, having anticipated [us], hast now also saved [us], O Christ God; but grant peace in times of war to our commonwealth,[^52] and strengthen the rulers whom Thou hast loved, O only Lover of mankind.
 
 *Then, touching her head, he signs her crosswise, saying:*
-**Priest:** Let us pray to the Lord.
+> **Priest:** "Let us pray to the Lord."
 
 O Lord our God, unto Thee do we pray, and of Thee do we ask, and we make supplication: for Thou art He that is, the Father of our Lord Jesus Christ, Who hast created all rational and irrational nature by Thy word, and hast brought all things from non-existence into being: do Thou also by Thy will save this Thy servant, [N.], [saying the name,] and cleanse her from every defilement and every sin, as she approaches Thy holy church, that she may without condemnation be counted worthy of Thy Holy Mysteries.
 
@@ -84,23 +84,23 @@ O Lord our God, unto Thee do we pray, and of Thee do we ask, and we make supplic
 And this infant born of her do Thou bless, and sanctify, and cause to grow, and endow with understanding: for Thou hast brought him into the sensory light, that he may be counted worthy of the spiritual light,[^54] at the time which Thou hast pre-ordained; and that he] may be numbered with Thy holy flock, for the sake of Thine Only-begotten Son, with Whom Thou art blessed, together with Thine All-holy, and good, and life-creating Spirit, now and ever, and unto ages of ages. Amen.
 
 *The priest says:*
-**Priest:** Peace be unto all.
-**Reader:** And to thy spirit.
-**Priest:** Bow your heads unto the Lord.
-**Reader:** Unto Thee, O Lord.
+> **Priest:** "Peace be unto all."
+> **Reader:** "And to thy spirit."
+> **Priest:** "Bow your heads unto the Lord."
+> **Reader:** "Unto Thee, O Lord."
 
 *Then this prayer secretly:*[^55]
 
 O Lord our God, Who didst come into the world for the salvation of the human race: come Thou also unto this Thy servant, [N.], [saying the name,] and count her worthy through Thy venerable presbyterate of the entrance into the temple of Thy glory; wash away her defilement of soul and body at the completion of the forty days, making her worthy of the communion of Thy precious Body and Blood.
 
-**Priest (Exclamation):** For blessed and glorified is Thine all-honorable and majestic Name, with the Father, and with the Holy Spirit, now and ever, and unto ages of ages. Amen.
+> **Priest:** "For blessed and glorified is Thine all-honorable and majestic Name, with the Father, and with the Holy Spirit, now and ever, and unto ages of ages. Amen."
 
 *Then the priest himself, having received the child in his hands, carries him into the sanctuary;[^56] and he touches his mouth to both sides of the doors in the likeness of kissing. Likewise, having brought him to the Holy Table, he positions the infant as though bowing, going around three times. And if he be of the male sex, he does thus; but if it be of the female sex, she is not brought into the altar, but only to the holy doors and the icons, as has been said.[^57] And when these things have been done, the priest says to himself:*
 
-**Priest:** Now lettest Thou dismiss Thy servant, O Master... unto the end.[^58]
+> **Priest:** "Now lettest Thou dismiss Thy servant, O Master... unto the end."[^58]
 
 *After this, he places the infant before the doors of the sanctuary, and says the prayer:*
-**Priest:** Let us pray to the Lord.
+> **Priest:** "Let us pray to the Lord."
 
 O Lord our God, Who on the fortieth day wast brought as an infant unto the temple of the Law by Mary, Thine unwedded Mother, and wast received into the arms of righteous Symeon: do Thou Thyself, O Almighty Master, bless also this infant who has been brought to appear before Thee, the Creator of all, and cause him to grow unto every good work that is well-pleasing unto Thee, driving away from him every contrary power by the signing of the form of Thy Cross: for Thou art He that preserves infants, O Lord; that being counted worthy [that being counted worthy] of Holy Baptism, he may obtain the portion of the elect of Thy Kingdom, being preserved with us by the grace of the Holy, and Consubstantial, and Undivided Trinity. For unto Thee is due all thanksgiving, honor, and worship, with Thine Unoriginate Father, and with Thine All-holy, and good, and life-creating Spirit, now and ever, and unto ages of ages. Amen.
 

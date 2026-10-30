@@ -1,6 +1,6 @@
 === LEAF p261 ===
 
-**[Left Page — Fol. 261v (p. 510 [ф҃і])]**
+**[Left Page — Fol. 261v (p. 510 (*ф҃і*))]**
 
 *Dismissals*
 
@@ -12,7 +12,7 @@
 *At the Meeting of the Lord [February 2]:*[^760]
 **Priest:** "May He Who reclined in the arms of the righteous Symeon,[^761] Christ our true God, through the prayers of His most pure Mother, and of all the saints [have mercy on us and save us]."
 
-**[Right Page — Fol. 262r (p. 511 [ф҃аі])]**
+**[Right Page — Fol. 262r (p. 511 (*ф҃аі*))]**
 
 *For Feasts*
 
@@ -26,7 +26,7 @@
 
 === LEAF p262 ===
 
-**[Left Page — Fol. 262v (p. 512 [ф҃вı])]**
+**[Left Page — Fol. 262v (p. 512 (*ф҃вı*))]**
 
 *Dismissals*
 
@@ -37,7 +37,7 @@
 
 *On Holy and Great Saturday:*[^769]
 
-**[Right Page — Fol. 263r (p. 513 [ф҃гı])]**
+**[Right Page — Fol. 263r (p. 513 (*ф҃гı*))]**
 
 *For Feasts*
 
@@ -56,7 +56,7 @@
 
 === LEAF p263 ===
 
-**[Left Page — Fol. 263v (p. 514 [ф҃дı])]**
+**[Left Page — Fol. 263v (p. 514 (*ф҃дı*))]**
 
 *Dismissals*
 
@@ -76,7 +76,7 @@
 *Dismissal at Pascha, and throughout the whole week:*[^783]
 **Priest:** "Christ is risen from the dead, by death He has trampled down death, and on those in the tombs He has bestowed life!"[^784]
 
-**[Right Page — Fol. 264r (p. 515 [ф҃єı])]**
+**[Right Page — Fol. 264r (p. 515 (*ф҃єı*))]**
 
 *For Feasts*
 
@@ -89,7 +89,7 @@
 
 === LEAF p264 ===
 
-**[Left Page — Fol. 264v (p. 516 [ф҃ѕı])]**
+**[Left Page — Fol. 264v (p. 516 (*ф҃ѕı*))]**
 
 *Dismissals*
 
@@ -100,7 +100,7 @@
 
 *At the Transfiguration of the Lord [August 6]:*[^791]
 
-**[Right Page — Fol. 265r (p. 517 [ф҃зı])]**
+**[Right Page — Fol. 265r (p. 517 (*ф҃зı*))]**
 
 *For Feasts*
 
@@ -113,7 +113,7 @@
 
 === LEAF p265 ===
 
-**[Left Page — Fol. 265v (p. 518 [ф҃иı])]**
+**[Left Page — Fol. 265v (p. 518 (*ф҃иı*))]**
 
 *Dismissals*
 
@@ -131,7 +131,7 @@
 **Deacon:** "Let us pray to the Lord."
 *The priest [reads] the prayer:*
 
-**[Right Page — Fol. 266r (p. 519 [ф҃ѳı])]**
+**[Right Page — Fol. 266r (p. 519 (*ф҃ѳı*))]**
 
 *Over the Kolyvo*
 
@@ -139,13 +139,13 @@
 
 === LEAF p266 ===
 
-**[Left Page — Fol. 266v (p. 520 [ф҃к])]**
+**[Left Page — Fol. 266v (p. 520 (*ф҃к*))]**
 
 *Prayer*
 
 **Priest:** "...for unto the honor and memory of the saint, [Name],[^802] these were offered up, and in memory of those who have fallen asleep in piety and the faith. Grant also unto those who have prepared these embellishments,[^803] and who celebrate this memorial, all petitions which are unto salvation and the attainment of eternal good things; through the prayers of our most pure Sovereign Lady, the Theotokos and Ever-Virgin Mary, and of Saint [Name], whose memory we celebrate,"
 
-**[Right Page — Fol. 267r (p. 521 [ф҃ка])]**
+**[Right Page — Fol. 267r (p. 521 (*ф҃ка*))]**
 
 *Over the Kolyvo*
 
@@ -163,7 +163,7 @@
 
 === LEAF p267 ===
 
-**[Left Page — Fol. 267v (p. 522 [ф҃кв])]**
+**[Left Page — Fol. 267v (p. 522 (*ф҃кв*))]**
 
 *Prayer*
 
@@ -172,7 +172,7 @@
 **Choir:** "Lord, have mercy," *thrice.*
 **Deacon:** "Again we pray for the repose of the blessed memory and for the remission of the sins of Thy servant who has previously fallen asleep, and is ever to be remembered,[^809] [Name]; and that every transgression of his, voluntary and involuntary, be forgiven him; that the Lord God"
 
-**[Right Page — Fol. 268r (p. 523 [ф҃кг])]**
+**[Right Page — Fol. 268r (p. 523 (*ф҃кг*))]**
 
 *Over the Kolyvo*
 
@@ -185,13 +185,13 @@
 
 === LEAF p268 ===
 
-**[Left Page — Fol. 268v (p. 524 [ф҃кд])]**
+**[Left Page — Fol. 268v (p. 524 (*ф҃кд*))]**
 
 *Prayer*
 
 **Priest:** "...and bestowed life upon Thy world: Do Thou Thyself, O Lord, give rest to the soul of Thy servant who has fallen asleep, [Name], in a place of light, in a place of verdure, in a place of repose, whence sickness, sorrow, and sighing have fled away;[^811] every transgression committed by him, whether in word, or deed, or thought, do Thou forgive, for Thou art a good God and the Lover of mankind."
 
-**[Right Page — Fol. 269r (p. 525 [ф҃кє])]**
+**[Right Page — Fol. 269r (p. 525 (*ф҃кє*))]**
 
 *Over the Kolyvo*
 
@@ -201,7 +201,7 @@
 
 === LEAF p269 ===
 
-**[Left Page — Fol. 269v (p. 526 [ф҃кѕ])]**
+**[Left Page — Fol. 269v (p. 526 (*ф҃кѕ*))]**
 
 *Prayer*
 
@@ -212,9 +212,9 @@
 
 [Woodcut Tailpiece: Renaissance grotesque strapwork arabesque.]
 
-**[Right Page — Fol. 270r (p. 524 [recte 527; ф҃кд])]**
+**[Right Page — Fol. 270r (p. 524 (*recte 527; ф҃кд*))]**
 
-[Editorial Note on Physical Exemplar: Folio 2 of Quire Ya (`ѧ҃ в`), containing the initial heading, rubrics, and opening petition of the First Prayer of the Lucernarium at Vespers, is wanting in this copy. The text resumes on folio 3 recto (`ѧ҃ г`) with the concluding exclamation of the First Prayer.][^815]
+(*Editorial Note on Physical Exemplar: Folio 2 of Quire Ya (`ѧ҃ в`), containing the initial heading, rubrics, and opening petition of the First Prayer of the Lucernarium at Vespers, is wanting in this copy. The text resumes on folio 3 recto (`ѧ҃ г`) with the concluding exclamation of the First Prayer.*)[^815]
 
 ## PRAYERS OF LIGHT AT VESPERS[^816]
 
@@ -225,7 +225,7 @@
 
 === LEAF p270 ===
 
-**[Left Page — Fol. 270v (p. 530 [ф҃л])]**
+**[Left Page — Fol. 270v (p. 530 (*ф҃л*))]**
 
 *Prayers*
 
@@ -233,7 +233,7 @@
 *Exclamation:*
 **Priest:** "For Thine is the dominion, and Thine is the kingdom, and the power, and the glory, of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages. Amen."
 
-**[Right Page — Fol. 271r (p. 531 [ф҃ла])]**
+**[Right Page — Fol. 271r (p. 531 (*ф҃ла*))]**
 
 *At Vespers*
 

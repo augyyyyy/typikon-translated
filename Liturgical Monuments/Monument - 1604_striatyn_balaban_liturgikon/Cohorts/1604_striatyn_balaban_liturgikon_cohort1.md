@@ -154,6 +154,6 @@ INRI[^28]
 
 *Order of the Divine Liturgy, and likewise of the Diaconate:*[^29]
 
-[Illuminated Initial 'W' (woodcut initial (*Х*) depicting Saint Andrew the Apostle with the saltire cross):]
+(*Illuminated Initial 'W' (woodcut initial (*Х*) depicting Saint Andrew the Apostle with the saltire cross):*)
 
 When a priest desires to celebrate the Divine Mystery, he must first of all be at peace with all men, and have nothing against anyone;[^30]

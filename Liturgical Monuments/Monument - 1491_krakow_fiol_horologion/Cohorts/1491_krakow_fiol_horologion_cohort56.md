@@ -43,7 +43,7 @@ For Thy majesty is exalted above the heavens![^1061]
 I will be exalted among the nations, I will be exalted in the earth![^1062]
 Be Thou exalted, O God, above the heavens, and Thy glory above all the earth![^1063]
 Be Thou exalted in Thine own strength: so will we sing and praise Thy power![^1064]
-Sing unto God, ye kingdoms of the earth; chant ye praises unto Him that rids upon the heaven of heavens toward the east![^1065]
+Sing unto God, ye kingdoms of the earth; chant ye praises unto Him that rides upon the heaven of heavens toward the east![^1065]
 Exalt ye the Lord our God, and worship at His holy mountain: for holy is the Lord our God![^1066]
 
 *For Pentecost:*[^1067]

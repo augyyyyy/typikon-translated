@@ -1,0 +1,840 @@
+{
+  "generated_at": "2026-10-30T21:20:30.498505+00:00",
+  "total_monuments_audited": 21,
+  "total_cohorts_audited": 1058,
+  "total_leaves_audited": 12169,
+  "total_footnotes_verified": 35416,
+  "by_monument_type": {
+    "anthologion": {
+      "monument_type": "anthologion",
+      "monuments_count": 1,
+      "monument_ids": [
+        "1905_lviv_nativity_theophany"
+      ],
+      "cohorts_audited": 30,
+      "leaves_audited": 296,
+      "total_footnotes": 1095,
+      "sgc02_ratio_distribution": {
+        "sample_leaves": 30,
+        "min": 1.06,
+        "p10": 1.092,
+        "median": 1.146,
+        "p90": 1.205,
+        "max": 1.298
+      },
+      "argon_queued_leaves": 94,
+      "info_telemetry_leaves": 0,
+      "codicological_cruxes": 0
+    },
+    "euchologion_liturgikon": {
+      "monument_type": "euchologion_liturgikon",
+      "monuments_count": 1,
+      "monument_ids": [
+        "1604_striatyn_balaban_liturgikon"
+      ],
+      "cohorts_audited": 30,
+      "leaves_audited": 293,
+      "total_footnotes": 951,
+      "sgc02_ratio_distribution": {
+        "sample_leaves": 30,
+        "min": 1.055,
+        "p10": 1.133,
+        "median": 1.201,
+        "p90": 1.382,
+        "max": 1.536
+      },
+      "argon_queued_leaves": 59,
+      "info_telemetry_leaves": 0,
+      "codicological_cruxes": 0
+    },
+    "horologion": {
+      "monument_type": "horologion",
+      "monuments_count": 1,
+      "monument_ids": [
+        "1491_krakow_fiol_horologion"
+      ],
+      "cohorts_audited": 59,
+      "leaves_audited": 582,
+      "total_footnotes": 1365,
+      "sgc02_ratio_distribution": {
+        "sample_leaves": 59,
+        "min": 1.167,
+        "p10": 1.31,
+        "median": 1.556,
+        "p90": 1.836,
+        "max": 2.001
+      },
+      "argon_queued_leaves": 73,
+      "info_telemetry_leaves": 0,
+      "codicological_cruxes": 0
+    },
+    "juridical_synodal": {
+      "monument_type": "juridical_synodal",
+      "monuments_count": 1,
+      "monument_ids": [
+        "1891_lviv_synod"
+      ],
+      "cohorts_audited": 11,
+      "leaves_audited": 278,
+      "total_footnotes": 278,
+      "sgc02_ratio_distribution": {
+        "sample_leaves": 14,
+        "min": 1.341,
+        "p10": 1.358,
+        "median": 1.444,
+        "p90": 1.676,
+        "max": 1.8
+      },
+      "argon_queued_leaves": 2,
+      "info_telemetry_leaves": 0,
+      "codicological_cruxes": 0
+    },
+    "lenten_triodion": {
+      "monument_type": "lenten_triodion",
+      "monuments_count": 2,
+      "monument_ids": [
+        "1906_lviv_triodion_lenten",
+        "1640_kyiv_triodion"
+      ],
+      "cohorts_audited": 144,
+      "leaves_audited": 1428,
+      "total_footnotes": 4854,
+      "sgc02_ratio_distribution": {
+        "sample_leaves": 144,
+        "min": 0.986,
+        "p10": 1.111,
+        "median": 1.205,
+        "p90": 1.33,
+        "max": 1.501
+      },
+      "argon_queued_leaves": 350,
+      "info_telemetry_leaves": 0,
+      "codicological_cruxes": 0
+    },
+    "lexicon_scholarly": {
+      "monument_type": "lexicon_scholarly",
+      "monuments_count": 2,
+      "monument_ids": [
+        "1910_skaballanovich_typikon",
+        "1895_dmitrievsky_vol1"
+      ],
+      "cohorts_audited": 118,
+      "leaves_audited": 2112,
+      "total_footnotes": 3052,
+      "sgc02_ratio_distribution": {
+        "sample_leaves": 118,
+        "min": 0.694,
+        "p10": 1.11,
+        "median": 1.277,
+        "p90": 1.36,
+        "max": 1.5
+      },
+      "argon_queued_leaves": 11,
+      "info_telemetry_leaves": 0,
+      "codicological_cruxes": 0
+    },
+    "octoechos": {
+      "monument_type": "octoechos",
+      "monuments_count": 5,
+      "monument_ids": [
+        "1630_lviv_octoechos",
+        "1629_kyiv_octoechos",
+        "1895_lviv_octoechos",
+        "1491_krakow_fiol_octoechos",
+        "1600s_prykarpattia_ms_octoechos"
+      ],
+      "cohorts_audited": 218,
+      "leaves_audited": 2158,
+      "total_footnotes": 12487,
+      "sgc02_ratio_distribution": {
+        "sample_leaves": 218,
+        "min": 1.032,
+        "p10": 1.126,
+        "median": 1.208,
+        "p90": 1.345,
+        "max": 1.587
+      },
+      "argon_queued_leaves": 987,
+      "info_telemetry_leaves": 0,
+      "codicological_cruxes": 0
+    },
+    "pentecostarion": {
+      "monument_type": "pentecostarion",
+      "monuments_count": 2,
+      "monument_ids": [
+        "1907_lviv_pentecostarion",
+        "1642_lviv_slozka_pentecostarion"
+      ],
+      "cohorts_audited": 113,
+      "leaves_audited": 1112,
+      "total_footnotes": 4072,
+      "sgc02_ratio_distribution": {
+        "sample_leaves": 113,
+        "min": 0.974,
+        "p10": 1.14,
+        "median": 1.202,
+        "p90": 1.278,
+        "max": 1.536
+      },
+      "argon_queued_leaves": 288,
+      "info_telemetry_leaves": 0,
+      "codicological_cruxes": 0
+    },
+    "trebnyk_euchologion": {
+      "monument_type": "trebnyk_euchologion",
+      "monuments_count": 1,
+      "monument_ids": [
+        "1606_striatyn_balaban_trebnyk"
+      ],
+      "cohorts_audited": 141,
+      "leaves_audited": 1401,
+      "total_footnotes": 4364,
+      "sgc02_ratio_distribution": {
+        "sample_leaves": 141,
+        "min": 0.996,
+        "p10": 1.073,
+        "median": 1.17,
+        "p90": 1.309,
+        "max": 1.475
+      },
+      "argon_queued_leaves": 269,
+      "info_telemetry_leaves": 0,
+      "codicological_cruxes": 0
+    },
+    "typikon": {
+      "monument_type": "typikon",
+      "monuments_count": 5,
+      "monument_ids": [
+        "2010_lviv_typikon",
+        "1899_dolnytsky_typikon",
+        "1901_mikita_typikon",
+        "1852_doskovsky_typikon",
+        "1888_violakis_typikon"
+      ],
+      "cohorts_audited": 194,
+      "leaves_audited": 2509,
+      "total_footnotes": 2898,
+      "sgc02_ratio_distribution": {
+        "sample_leaves": 199,
+        "min": 0.606,
+        "p10": 0.981,
+        "median": 1.202,
+        "p90": 1.436,
+        "max": 1.812
+      },
+      "argon_queued_leaves": 0,
+      "info_telemetry_leaves": 0,
+      "codicological_cruxes": 0
+    }
+  },
+  "monuments": [
+    {
+      "monument_id": "2010_lviv_typikon",
+      "title": "2010 Lviv Synodal Typikon",
+      "monument_type": "typikon",
+      "status": "completed",
+      "cohorts_audited": 0,
+      "leaves_audited": 287,
+      "total_footnotes": 785,
+      "median_sgc02_ratio": 1.261,
+      "argon_queued_leaves": 0,
+      "info_telemetry_leaves": 0,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1891_lviv_synod",
+      "title": "1891 Lviv Provincial Synod",
+      "monument_type": "juridical_synodal",
+      "status": "completed",
+      "cohorts_audited": 11,
+      "leaves_audited": 278,
+      "total_footnotes": 278,
+      "median_sgc02_ratio": 1.444,
+      "argon_queued_leaves": 2,
+      "info_telemetry_leaves": 0,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1899_dolnytsky_typikon",
+      "title": "1899 Dolnytsky Typikon",
+      "monument_type": "typikon",
+      "status": "completed",
+      "cohorts_audited": 30,
+      "leaves_audited": 591,
+      "total_footnotes": 745,
+      "median_sgc02_ratio": 1.001,
+      "argon_queued_leaves": 0,
+      "info_telemetry_leaves": 0,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1901_mikita_typikon",
+      "title": "1901 Mikita Typikon",
+      "monument_type": "typikon",
+      "status": "completed",
+      "cohorts_audited": 32,
+      "leaves_audited": 320,
+      "total_footnotes": 346,
+      "median_sgc02_ratio": 1.136,
+      "argon_queued_leaves": 0,
+      "info_telemetry_leaves": 0,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1852_doskovsky_typikon",
+      "title": "1852 Doskovsky Typikon",
+      "monument_type": "typikon",
+      "status": "completed",
+      "cohorts_audited": 15,
+      "leaves_audited": 141,
+      "total_footnotes": 302,
+      "median_sgc02_ratio": 1.44,
+      "argon_queued_leaves": 0,
+      "info_telemetry_leaves": 0,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1888_violakis_typikon",
+      "title": "1888 Violakis Typikon",
+      "monument_type": "typikon",
+      "status": "completed",
+      "cohorts_audited": 117,
+      "leaves_audited": 1170,
+      "total_footnotes": 720,
+      "median_sgc02_ratio": 1.22,
+      "argon_queued_leaves": 0,
+      "info_telemetry_leaves": 0,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1910_skaballanovich_typikon",
+      "title": "1910 Skaballanovich Tolkovy Typikon",
+      "monument_type": "lexicon_scholarly",
+      "status": "completed",
+      "cohorts_audited": 103,
+      "leaves_audited": 1022,
+      "total_footnotes": 2834,
+      "median_sgc02_ratio": 1.298,
+      "argon_queued_leaves": 0,
+      "info_telemetry_leaves": 0,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1895_dmitrievsky_vol1",
+      "title": "1895 Dmitrievsky Opisanie Vol 1",
+      "monument_type": "lexicon_scholarly",
+      "status": "paused",
+      "cohorts_audited": 15,
+      "leaves_audited": 1090,
+      "total_footnotes": 218,
+      "median_sgc02_ratio": 0.996,
+      "argon_queued_leaves": 11,
+      "info_telemetry_leaves": 0,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1630_lviv_octoechos",
+      "title": "1630 Lviv Octoechos",
+      "monument_type": "octoechos",
+      "status": "in_progress",
+      "cohorts_audited": 27,
+      "leaves_audited": 267,
+      "total_footnotes": 351,
+      "median_sgc02_ratio": 1.169,
+      "argon_queued_leaves": 5,
+      "info_telemetry_leaves": 0,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1629_kyiv_octoechos",
+      "title": "1629 Kyiv-Pechersk Octoechos",
+      "monument_type": "octoechos",
+      "status": "completed",
+      "cohorts_audited": 30,
+      "leaves_audited": 295,
+      "total_footnotes": 299,
+      "median_sgc02_ratio": 1.125,
+      "argon_queued_leaves": 0,
+      "info_telemetry_leaves": 0,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1905_lviv_nativity_theophany",
+      "title": "1905 Lviv Nativity & Theophany Services",
+      "monument_type": "anthologion",
+      "status": "completed",
+      "cohorts_audited": 30,
+      "leaves_audited": 296,
+      "total_footnotes": 1095,
+      "median_sgc02_ratio": 1.146,
+      "argon_queued_leaves": 94,
+      "info_telemetry_leaves": 0,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1906_lviv_triodion_lenten",
+      "title": "1906 Lviv Lenten Triodion",
+      "monument_type": "lenten_triodion",
+      "status": "completed",
+      "cohorts_audited": 54,
+      "leaves_audited": 532,
+      "total_footnotes": 1485,
+      "median_sgc02_ratio": 1.134,
+      "argon_queued_leaves": 93,
+      "info_telemetry_leaves": 0,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1907_lviv_pentecostarion",
+      "title": "1907 Lviv Paschal Pentecostarion",
+      "monument_type": "pentecostarion",
+      "status": "completed",
+      "cohorts_audited": 68,
+      "leaves_audited": 671,
+      "total_footnotes": 3006,
+      "median_sgc02_ratio": 1.202,
+      "argon_queued_leaves": 234,
+      "info_telemetry_leaves": 0,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1642_lviv_slozka_pentecostarion",
+      "title": "1642 Lviv Slozka Pentecostarion",
+      "monument_type": "pentecostarion",
+      "status": "completed",
+      "cohorts_audited": 45,
+      "leaves_audited": 441,
+      "total_footnotes": 1066,
+      "median_sgc02_ratio": 1.21,
+      "argon_queued_leaves": 54,
+      "info_telemetry_leaves": 0,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1640_kyiv_triodion",
+      "title": "1640 Kyiv-Pechersk Lenten Triodion",
+      "monument_type": "lenten_triodion",
+      "status": "completed",
+      "cohorts_audited": 90,
+      "leaves_audited": 896,
+      "total_footnotes": 3369,
+      "median_sgc02_ratio": 1.245,
+      "argon_queued_leaves": 257,
+      "info_telemetry_leaves": 0,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1895_lviv_octoechos",
+      "title": "1895 Lviv Complete Octoechos",
+      "monument_type": "octoechos",
+      "status": "completed",
+      "cohorts_audited": 103,
+      "leaves_audited": 1029,
+      "total_footnotes": 11218,
+      "median_sgc02_ratio": 1.202,
+      "argon_queued_leaves": 977,
+      "info_telemetry_leaves": 0,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1491_krakow_fiol_horologion",
+      "title": "1491 Krakow Horologion of Schweipolt Fiol",
+      "monument_type": "horologion",
+      "status": "completed",
+      "cohorts_audited": 59,
+      "leaves_audited": 582,
+      "total_footnotes": 1365,
+      "median_sgc02_ratio": 1.556,
+      "argon_queued_leaves": 73,
+      "info_telemetry_leaves": 0,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1491_krakow_fiol_octoechos",
+      "title": "1491 Krakow Octoechos of Schweipolt Fiol",
+      "monument_type": "octoechos",
+      "status": "completed",
+      "cohorts_audited": 35,
+      "leaves_audited": 345,
+      "total_footnotes": 383,
+      "median_sgc02_ratio": 1.337,
+      "argon_queued_leaves": 5,
+      "info_telemetry_leaves": 0,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1600s_prykarpattia_ms_octoechos",
+      "title": "17th-Century Carpathian-Galician Manuscript Octoechos",
+      "monument_type": "octoechos",
+      "status": "completed",
+      "cohorts_audited": 23,
+      "leaves_audited": 222,
+      "total_footnotes": 236,
+      "median_sgc02_ratio": 1.296,
+      "argon_queued_leaves": 0,
+      "info_telemetry_leaves": 0,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1604_striatyn_balaban_liturgikon",
+      "title": "1604 Striatyn Liturgikon of Hedeon Balaban",
+      "monument_type": "euchologion_liturgikon",
+      "status": "completed",
+      "cohorts_audited": 30,
+      "leaves_audited": 293,
+      "total_footnotes": 951,
+      "median_sgc02_ratio": 1.201,
+      "argon_queued_leaves": 59,
+      "info_telemetry_leaves": 0,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1606_striatyn_balaban_trebnyk",
+      "title": "1606 Striatyn Euchologion / Trebnyk of Teodor & Hedeon Balaban",
+      "monument_type": "trebnyk_euchologion",
+      "status": "completed",
+      "cohorts_audited": 141,
+      "leaves_audited": 1401,
+      "total_footnotes": 4364,
+      "median_sgc02_ratio": 1.17,
+      "argon_queued_leaves": 269,
+      "info_telemetry_leaves": 0,
+      "has_retrospective_dossier": true
+    }
+  ],
+  "synthesized_retrospective_edge_cases_count": 22,
+  "synthesized_retrospective_proposals_count": 25,
+  "retrospective_edge_cases": [
+    {
+      "monument_id": "1491_krakow_fiol_horologion",
+      "monument_type": "horologion",
+      "id": "EDGE_4A_DYNAMIC_H1_PART_GRANULARITY_SKEW",
+      "category": "scripts/structural_audit.py & scripts/compile_final_edition.py::_slice_parts",
+      "severity": "HIGH"
+    },
+    {
+      "monument_id": "1491_krakow_fiol_horologion",
+      "monument_type": "horologion",
+      "id": "EDGE_4B_FOOTNOTE_LEAK_AND_SLUG_HYPHEN_TRUNCATION",
+      "category": "scripts/compile_final_edition.py::UniversalPublicationEngine._slice_parts (lines 1011-1025)",
+      "severity": "HIGH"
+    },
+    {
+      "monument_id": "1491_krakow_fiol_horologion",
+      "monument_type": "horologion",
+      "id": "EDGE_4C_ELLIPSIS_AND_FOOTNOTE_SEAM_STITCHING",
+      "category": "scripts/compile_final_edition.py::stitch_leaf_stream",
+      "severity": "HIGH"
+    },
+    {
+      "monument_id": "1491_krakow_fiol_octoechos",
+      "monument_type": "octoechos",
+      "id": "EC-01",
+      "category": "scripts/compile_final_edition.py (Part Slicing & start_landmark matching)",
+      "severity": "HIGH"
+    },
+    {
+      "monument_id": "1491_krakow_fiol_octoechos",
+      "monument_type": "octoechos",
+      "id": "EC-02",
+      "category": "scripts/hymnographic_gold_normalizer.py (extract_propers_corpus state tracking)",
+      "severity": "HIGH"
+    },
+    {
+      "monument_id": "1491_krakow_fiol_octoechos",
+      "monument_type": "octoechos",
+      "id": "EC-03",
+      "category": "scripts/compile_final_edition.py (_collect_cohort_files priority order)",
+      "severity": "HIGH"
+    },
+    {
+      "monument_id": "1491_krakow_fiol_octoechos",
+      "monument_type": "octoechos",
+      "id": "EC-04",
+      "category": "scripts/verify_publication_edition.py (Gate 7B bare 'подобенъ' rubric)",
+      "severity": "HIGH"
+    },
+    {
+      "monument_id": "1600s_prykarpattia_ms_octoechos",
+      "monument_type": "octoechos",
+      "id": "EC-01",
+      "category": "scripts/compile_final_edition.py (_slice_parts, line 1025)",
+      "severity": "HIGH"
+    },
+    {
+      "monument_id": "1600s_prykarpattia_ms_octoechos",
+      "monument_type": "octoechos",
+      "id": "EC-02",
+      "category": "scripts/hymnographic_gold_normalizer.py (stitch_2up_hymnographic_stream, lines 970-1053)",
+      "severity": "HIGH"
+    },
+    {
+      "monument_id": "1600s_prykarpattia_ms_octoechos",
+      "monument_type": "octoechos",
+      "id": "EC-03",
+      "category": "scripts/hymnographic_gold_normalizer.py (generate_propers_corpus, lines 1867-1985)",
+      "severity": "HIGH"
+    },
+    {
+      "monument_id": "1600s_prykarpattia_ms_octoechos",
+      "monument_type": "octoechos",
+      "id": "EC-04",
+      "category": "scripts/verify_publication_edition.py (Gate 7E, line 633)",
+      "severity": "HIGH"
+    },
+    {
+      "monument_id": "1600s_prykarpattia_ms_octoechos",
+      "monument_type": "octoechos",
+      "id": "EC-05",
+      "category": "scripts/hymnographic_gold_normalizer.py (generate_father_paul_digest, lines 1656-1665)",
+      "severity": "HIGH"
+    },
+    {
+      "monument_id": "1604_striatyn_balaban_liturgikon",
+      "monument_type": "euchologion_liturgikon",
+      "id": "EC-01",
+      "category": "scripts/compile_final_edition.py (_purge_and_stitch)",
+      "severity": "HIGH"
+    },
+    {
+      "monument_id": "1604_striatyn_balaban_liturgikon",
+      "monument_type": "euchologion_liturgikon",
+      "id": "EC-02",
+      "category": "scripts/compile_final_edition.py (slugify) & scripts/verify_publication_edition.py (Gate 5A)",
+      "severity": "HIGH"
+    },
+    {
+      "monument_id": "1604_striatyn_balaban_liturgikon",
+      "monument_type": "euchologion_liturgikon",
+      "id": "EC-03",
+      "category": "data/templates/work_order_template.md (Mandate 12) vs. scripts/verify_publication_edition.py (Gate 1)",
+      "severity": "HIGH"
+    },
+    {
+      "monument_id": "1604_striatyn_balaban_liturgikon",
+      "monument_type": "euchologion_liturgikon",
+      "id": "EC-04",
+      "category": "scripts/verify_publication_edition.py (Gate 5A nested parentheses)",
+      "severity": "HIGH"
+    },
+    {
+      "monument_id": "1604_striatyn_balaban_liturgikon",
+      "monument_type": "euchologion_liturgikon",
+      "id": "EC-05",
+      "category": "scripts/chromatic_rubric_verifier.py (Gate 1C)",
+      "severity": "HIGH"
+    },
+    {
+      "monument_id": "1606_striatyn_balaban_trebnyk",
+      "monument_type": "trebnyk_euchologion",
+      "id": "EC-01",
+      "category": "scripts/compile_final_edition.py (_slice_parts & _build_master_toc)",
+      "severity": "HIGH"
+    },
+    {
+      "monument_id": "1606_striatyn_balaban_trebnyk",
+      "monument_type": "trebnyk_euchologion",
+      "id": "EC-02",
+      "category": "scripts/compile_final_edition.py (is_explicit_leaf_marker & stitch_leaf_stream)",
+      "severity": "HIGH"
+    },
+    {
+      "monument_id": "1606_striatyn_balaban_trebnyk",
+      "monument_type": "trebnyk_euchologion",
+      "id": "EC-03",
+      "category": "scripts/compile_final_edition.py (purge_scaffolding_and_stitch_seams)",
+      "severity": "HIGH"
+    },
+    {
+      "monument_id": "1606_striatyn_balaban_trebnyk",
+      "monument_type": "trebnyk_euchologion",
+      "id": "EC-04",
+      "category": "scripts/verify_publication_edition.py (PLACEHOLDER_PATTERNS) vs work_order_template.md (Mandate 12)",
+      "severity": "HIGH"
+    },
+    {
+      "monument_id": "1606_striatyn_balaban_trebnyk",
+      "monument_type": "trebnyk_euchologion",
+      "id": "EC-05",
+      "category": "scripts/compile_final_edition.py (format_liturgical_typography)",
+      "severity": "HIGH"
+    }
+  ],
+  "retrospective_proposals": [
+    {
+      "monument_id": "1491_krakow_fiol_horologion",
+      "monument_type": "horologion",
+      "proposal_id": "RANK-1",
+      "target_script": "scripts/compile_final_edition.py::UniversalPublicationEngine._slice_parts",
+      "priority": "RANK_1"
+    },
+    {
+      "monument_id": "1491_krakow_fiol_horologion",
+      "monument_type": "horologion",
+      "proposal_id": "RANK-2",
+      "target_script": "scripts/autonomous_orchestrator.py::_apply_vocabulary_and_doxology_healing",
+      "priority": "RANK_2"
+    },
+    {
+      "monument_id": "1491_krakow_fiol_horologion",
+      "monument_type": "horologion",
+      "proposal_id": "RANK-3",
+      "target_script": "scripts/structural_audit.py::audit_structure",
+      "priority": "RANK_3"
+    },
+    {
+      "monument_id": "1491_krakow_fiol_horologion",
+      "monument_type": "horologion",
+      "proposal_id": "RANK-4",
+      "target_script": "scripts/run_small_pause_gate.py::update_argon_review_queue",
+      "priority": "RANK_4"
+    },
+    {
+      "monument_id": "1491_krakow_fiol_horologion",
+      "monument_type": "horologion",
+      "proposal_id": "RANK-5",
+      "target_script": "scripts/autonomous_orchestrator.py::_apply_anti_slop_healing",
+      "priority": "RANK_5"
+    },
+    {
+      "monument_id": "1491_krakow_fiol_octoechos",
+      "monument_type": "octoechos",
+      "proposal_id": "RANK-1",
+      "target_script": "scripts/hymnographic_gold_normalizer.py",
+      "priority": "RANK_1"
+    },
+    {
+      "monument_id": "1491_krakow_fiol_octoechos",
+      "monument_type": "octoechos",
+      "proposal_id": "RANK-2",
+      "target_script": "scripts/autonomous_orchestrator.py & scripts/compile_final_edition.py",
+      "priority": "RANK_2"
+    },
+    {
+      "monument_id": "1491_krakow_fiol_octoechos",
+      "monument_type": "octoechos",
+      "proposal_id": "RANK-3",
+      "target_script": "scripts/hymnographic_gold_normalizer.py & data/templates/work_order_template.md",
+      "priority": "RANK_3"
+    },
+    {
+      "monument_id": "1491_krakow_fiol_octoechos",
+      "monument_type": "octoechos",
+      "proposal_id": "RANK-4",
+      "target_script": "data/templates/publication_spec_scaffolds.json & scripts/compile_final_edition.py",
+      "priority": "RANK_4"
+    },
+    {
+      "monument_id": "1491_krakow_fiol_octoechos",
+      "monument_type": "octoechos",
+      "proposal_id": "RANK-5",
+      "target_script": "scripts/compile_final_edition.py & scripts/run_small_pause_gate.py",
+      "priority": "RANK_5"
+    },
+    {
+      "monument_id": "1600s_prykarpattia_ms_octoechos",
+      "monument_type": "octoechos",
+      "proposal_id": "RANK-1",
+      "target_script": "scripts/hymnographic_gold_normalizer.py",
+      "priority": "RANK_1"
+    },
+    {
+      "monument_id": "1600s_prykarpattia_ms_octoechos",
+      "monument_type": "octoechos",
+      "proposal_id": "RANK-2",
+      "target_script": "scripts/hymnographic_gold_normalizer.py",
+      "priority": "RANK_2"
+    },
+    {
+      "monument_id": "1600s_prykarpattia_ms_octoechos",
+      "monument_type": "octoechos",
+      "proposal_id": "RANK-3",
+      "target_script": "scripts/lint_liturgical_slop.py",
+      "priority": "RANK_3"
+    },
+    {
+      "monument_id": "1600s_prykarpattia_ms_octoechos",
+      "monument_type": "octoechos",
+      "proposal_id": "RANK-4",
+      "target_script": "scripts/hieratic_pronoun_audit.py",
+      "priority": "RANK_4"
+    },
+    {
+      "monument_id": "1600s_prykarpattia_ms_octoechos",
+      "monument_type": "octoechos",
+      "proposal_id": "RANK-5",
+      "target_script": "data/templates/work_order_template.md",
+      "priority": "RANK_5"
+    },
+    {
+      "monument_id": "1604_striatyn_balaban_liturgikon",
+      "monument_type": "euchologion_liturgikon",
+      "proposal_id": "RANK-1",
+      "target_script": "scripts/compile_final_edition.py (_purge_and_stitch, L111-L165)",
+      "priority": "RANK_1"
+    },
+    {
+      "monument_id": "1604_striatyn_balaban_liturgikon",
+      "monument_type": "euchologion_liturgikon",
+      "proposal_id": "RANK-2",
+      "target_script": "scripts/run_small_pause_gate.py (collect_argon_review_signals, L188-L255)",
+      "priority": "RANK_2"
+    },
+    {
+      "monument_id": "1604_striatyn_balaban_liturgikon",
+      "monument_type": "euchologion_liturgikon",
+      "proposal_id": "RANK-3",
+      "target_script": "scripts/compile_final_edition.py (slugify, L40-L45)",
+      "priority": "RANK_3"
+    },
+    {
+      "monument_id": "1604_striatyn_balaban_liturgikon",
+      "monument_type": "euchologion_liturgikon",
+      "proposal_id": "RANK-4",
+      "target_script": "scripts/run_small_pause_gate.py (run_gate)",
+      "priority": "RANK_4"
+    },
+    {
+      "monument_id": "1604_striatyn_balaban_liturgikon",
+      "monument_type": "euchologion_liturgikon",
+      "proposal_id": "RANK-5",
+      "target_script": "scripts/generate_work_order.py (generate_work_order)",
+      "priority": "RANK_5"
+    },
+    {
+      "monument_id": "1606_striatyn_balaban_trebnyk",
+      "monument_type": "trebnyk_euchologion",
+      "proposal_id": "RANK-1",
+      "target_script": "scripts/compile_final_edition.py",
+      "priority": "CRITICAL"
+    },
+    {
+      "monument_id": "1606_striatyn_balaban_trebnyk",
+      "monument_type": "trebnyk_euchologion",
+      "proposal_id": "RANK-2",
+      "target_script": "scripts/compile_final_edition.py",
+      "priority": "HIGH"
+    },
+    {
+      "monument_id": "1606_striatyn_balaban_trebnyk",
+      "monument_type": "trebnyk_euchologion",
+      "proposal_id": "RANK-3",
+      "target_script": "scripts/compile_final_edition.py",
+      "priority": "HIGH"
+    },
+    {
+      "monument_id": "1606_striatyn_balaban_trebnyk",
+      "monument_type": "trebnyk_euchologion",
+      "proposal_id": "RANK-4",
+      "target_script": "scripts/run_small_pause_gate.py",
+      "priority": "MEDIUM-HIGH"
+    },
+    {
+      "monument_id": "1606_striatyn_balaban_trebnyk",
+      "monument_type": "trebnyk_euchologion",
+      "proposal_id": "RANK-5",
+      "target_script": "scripts/compile_final_edition.py & data/templates/work_order_template.md",
+      "priority": "MEDIUM"
+    }
+  ]
+}

@@ -60,7 +60,7 @@ O God and Lord of hosts, and Maker of all creation, Who through the compassion o
 
 ...Nail our flesh with the fear of Thee, and incline not our hearts to words or thoughts of wickedness, but with the love of Thee wound our souls, that looking ever unto Thee, and guided by the light that is from Thee, beholding Thee, the unapproachable and everlasting Light, we may send up unceasing confession and thanksgiving unto Thee, the Unoriginate Father, with Thine Only-begotten Son, and Thine all-holy and good and life-creating Spirit, now and ever, and unto ages of ages. Amen.  
 
-*THE ORDER OF THE TYPIKA, WHICH IS THE OBEDNITSA:*
+# THE ORDER OF THE TYPIKA, WHICH IS THE OBEDNITSA
 
 *The Beginning of the Typika, which is the Obednitsa. Blessed art Thou, O Lord. A Psalm of David, 102 [LXX Ps. 102]:*[^103]  
 Bless the Lord, O my soul, and all that is within me bless His holy Name [LXX Ps. 102:1]!  
@@ -71,7 +71,7 @@ Who is forgiving unto all thine iniquities, Who heals all thy diseases [LXX Ps. 
 
 ...Who redeems thy life from corruption, Who crowns thee with mercy and compassions [LXX Ps. 102:4];  
 Who satisfies thy desire with good things: thy youth shall be renewed like an eagle's [LXX Ps. 102:5].  
-The Lord executs mercies, and judgment for all that are wronged [LXX Ps. 102:6].  
+The Lord executes mercies, and judgment for all that are wronged [LXX Ps. 102:6].  
 He made known His ways unto Moses, His will unto the sons of Israel [LXX Ps. 102:7].  
 Compassionate and merciful is the Lord, long-suffering and plenteous in mercy [LXX Ps. 102:8].  
 He will not always be wrathful, neither will He keep His anger unto ages [LXX Ps. 102:9].  
@@ -102,7 +102,7 @@ His spirit shall go forth, and he shall return unto his earth...
 ...unto his earth: in that day all his thoughts shall perish [LXX Ps. 145:4].  
 Blessed is he whose helper is the God of Jacob, whose hope is in the Lord his God [LXX Ps. 145:5],  
 Who made heaven and earth, the sea, and all that is in them [LXX Ps. 145:6];  
-Who keeps truth unto the age, Who executs judgment for them that are wronged, Who gives food unto the hungry [LXX Ps. 145:6–7].  
+Who keeps truth unto the age, Who executes judgment for them that are wronged, Who gives food unto the hungry [LXX Ps. 145:6–7].  
 The Lord looses them that are bound; the Lord makes wise the blind [LXX Ps. 145:7–8];  
 the Lord raises up them that are cast down; the Lord loves the righteous [LXX Ps. 145:8];  
 the Lord preserves the strangers; He will adopt the orphan and widow, and the way of sinners will He destroy [LXX Ps. 145:9].  

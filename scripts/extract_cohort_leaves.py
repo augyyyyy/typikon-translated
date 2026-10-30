@@ -18,6 +18,8 @@ import sys
 import re
 import argparse
 import json
+import shutil
+import subprocess
 from pathlib import Path
 from typing import Optional, Dict, Any, Tuple
 
@@ -133,16 +135,15 @@ def extract_leaves(
     
     monuments = registry.get("monuments", {})
 
-    state: Dict[str, Any] = {}
-    if STATE_FILE.exists():
-        with open(STATE_FILE, "r", encoding="utf-8") as f:
-            state = json.load(f)
-
-    if not monument_id:
-        monument_id = state.get("monument_id", "1891_lviv_synod")
-
+    monument_id = resolve_monument_id(monument_id)
     if monument_id not in monuments:
         raise ValueError(f"Unknown monument '{monument_id}'. Available: {list(monuments.keys())}")
+
+    state: Dict[str, Any] = {}
+    try:
+        state = load_state(monument_id=monument_id)
+    except (FileNotFoundError, OSError, ValueError):
+        state = {}
 
     mon_info = monuments[monument_id]
     rel_pdf = mon_info["relative_pdf_path"]
@@ -216,6 +217,8 @@ def extract_leaves(
                 break
 
         if found_file and not force:
+            if not target_local_canon.exists() and found_file != target_local_canon:
+                shutil.copy2(found_file, target_local_canon)
             print(f"  [CACHED] Leaf p{p} -> {found_file.name} ({found_file.stat().st_size} bytes)")
             extracted_count += 1
             total_bytes += found_file.stat().st_size

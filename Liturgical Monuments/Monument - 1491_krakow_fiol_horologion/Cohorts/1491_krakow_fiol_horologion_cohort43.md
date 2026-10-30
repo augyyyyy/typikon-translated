@@ -1,6 +1,8 @@
 === LEAF p421 ===
 ...Brethren, the first [covenant had also ordinances of divine service, and an earthly sanctuary] [Heb. 9:1]. Alleluia: "Arise, O Lord, into Thy rest, Thou, and the ark of Thy strength" [Ps. 131:8]. Gospel from Luke [10:38–42; 11:27–28]: "At that time, Mary arose..." Communion Hymn: "I will take the cup of salvation [and call upon the name of the Lord]" [Ps. 115:4].[^504]
 
+# SYNAXARION OF THE TRIODION AND PENTECOSTARION
+
 *Sunday of the Publican and the Pharisee: In the Sequence of the Great Forty-Day Fast:*[^505]
 *On Saturday evening: "Blessed is the man." On "Lord, I have cried," Stichera on 10: 3 Resurrectional, and 4 Anatolian, and in the Triodion two, in Tone 1, twice; Glory, in the Triodion; Both now, Resurrectional. The sequence of the Saint in the Menaion is sung at Compline. On the Aposticha, Resurrectional and alphabetical stichera. At Matins: the ordinary psalmody [Kathismata], and the Polyeleos ["Many-merciful"]; Graduals of the tone; Prokeimenon; "Let every breath [praise the Lord]"; Sunday Gospel; "Having beheld the Resurrection of Christ"; Psalm 50; Resurrectional Sticheron. Canons: Resurrectional on 4, and of the Theotokos on 4, and in the Triodion on 6. After Ode 3, Sessional hymn in the Triodion. After Ode 6, Kontakion, Tone 2:*"[^506]
 

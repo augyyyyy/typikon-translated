@@ -2,7 +2,7 @@
 
 *When it is not permitted to partake of the life-creating, most pure mysteries of Christ, of His Body and Blood: by the counsel of one's spiritual father, when the time directs, one partakes of the consecrated water, according to the customary preparation for sanctification; and the priest having made the beginning, he says these prayers:*[^3818]
 
-**Priest:** Blessed is our God, always, now and ever, and unto ages of ages. Amen.[^3819]
+> **Priest:** "Blessed is our God, always, now and ever, and unto ages of ages. Amen."[^3819]
 
 *Heavenly King; Trisagion; after Our Father; Lord, have mercy (12 times); Come, let us worship (3 times); Psalm 50: Have mercy on me, O God; after these, these troparia:*[^3820]
 
@@ -14,7 +14,7 @@
 
 *After these, the prayer of our father among the saints, John Chrysostom:*[^3823]
 
-**Priest:** O Lord our God, Who art understood together with Thine immortal and unoriginate Father, and Who co-abidest with Thy co-eternal Spirit;[^3824] Who art the Giver of all sanctification; Who of old didst sanctify the waters by Thine own baptism,[^3825] and Who now ever sanctifiest them through Thine invocation: do Thou Thyself, through the descent and operation of Thy Holy Spirit, make also this holy water consecrated, that it may be unto me, Thy servant partaking thereof, for the enlightenment of the soul, for the sanctification of the body, for the mortification of passions, for the rejection of wicked thoughts, for a bulwark and putting away of the evil[^3826] assaults, and unto every profitable benefit; that being covered by its grace, I may remain unharmed by every snare, unto the glory of Thy most good and holy name; through the prayers of our most pure Lady, the Theotokos, and of all the saints. Amen.[^3827]
+> **Priest:** "O Lord our God, Who art understood together with Thine immortal and unoriginate Father, and Who co-abidest with Thy co-eternal Spirit;[^3824] Who art the Giver of all sanctification; Who of old didst sanctify the waters by Thine own baptism,[^3825] and Who now ever sanctifiest them through Thine invocation: do Thou Thyself, through the descent and operation of Thy Holy Spirit, make also this holy water consecrated, that it may be unto me, Thy servant partaking thereof, for the enlightenment of the soul, for the sanctification of the body, for the mortification of passions, for the rejection of wicked thoughts, for a bulwark and putting away of the evil[^3826] assaults, and unto every profitable benefit; that being covered by its grace, I may remain unharmed by every snare, unto the glory of Thy most good and holy name; through the prayers of our most pure Lady, the Theotokos, and of all the saints. Amen."[^3827]
 
 *Then the assembly makes three bows [metanias], chanting the troparion of the Baptism:*[^3828]
 
@@ -30,7 +30,7 @@
 
 *Ecphonesis:*
 
-**Priest:** For Thou art the sweetness of our souls, and unto Thee do we send up glory, with Thine unoriginate Father, and Thine all-holy, good, and life-creating Spirit, now and ever, and unto ages of ages. [Amen.][^3835]
+> **Priest:** "For Thou art the sweetness of our souls, and unto Thee do we send up glory, with Thine unoriginate Father, and Thine all-holy, good, and life-creating Spirit, now and ever, and unto ages of ages. [Amen.]"[^3835]
 
 *After this: It is truly meet; Glory... Both now...; Lord, have mercy (3 times); and the dismissal.*[^3836]
 

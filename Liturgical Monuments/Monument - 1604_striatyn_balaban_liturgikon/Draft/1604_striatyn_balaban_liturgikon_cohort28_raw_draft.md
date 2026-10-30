@@ -1,6 +1,6 @@
 === LEAF p271 ===
 
-**[Left Page — Fol. 271v (p. 532 [ф҃лв])]**
+**[Left Page — Fol. 271v (p. 532 (*ф҃лв*))]**
 
 *Prayers*
 
@@ -9,7 +9,7 @@
 *Fourth Prayer:*[^822]
 **Priest:** "O Lord, Who art hymned on high by the holy powers with unceasing hymns and unending doxologies: fill our mouth with Thy praise, that we may give majesty unto Thy holy Name;"
 
-**[Right Page — Fol. 272r (p. 533 [ф҃лг])]**
+**[Right Page — Fol. 272r (p. 533 (*ф҃лг*))]**
 
 *At Vespers*
 
@@ -21,13 +21,13 @@
 
 === LEAF p272 ===
 
-**[Left Page — Fol. 272v (p. 534 [ф҃лд])]**
+**[Left Page — Fol. 272v (p. 534 (*ф҃лд*))]**
 
 *Prayers*
 
 **Priest:** "...far more abundantly than we ask or understand:[^825] do Thou Thyself, O King and Lover of mankind, Who art good in all things, vouchsafe us in the multitude of Thy compassions,[^826] with an unashamed conscience, to call upon Thy holy Name; and lead us not into temptation, but deliver us from the evil one;[^827] and by Thy providence order all things unto what is profitable for us."
 
-**[Right Page — Fol. 273r (p. 535 [ф҃ле])]**
+**[Right Page — Fol. 273r (p. 535 (*ф҃ле*))]**
 
 *At Vespers*
 
@@ -38,7 +38,7 @@
 
 === LEAF p273 ===
 
-**[Left Page — Fol. 273v (p. 536 [ф҃лѕ])]**
+**[Left Page — Fol. 273v (p. 536 (*ф҃лѕ*))]**
 
 *Prayers*
 
@@ -48,7 +48,7 @@
 *Seventh Prayer:*[^829]
 **Priest:** "O God, great and marvelous, Who by Thine ineffable goodness and rich [providence orderest the life of man]..."
 
-**[Right Page — Fol. [270b]r / Fol. 267*r (p. 527 [ф҃кз])]**
+**[Right Page — Fol. [270b]r / Fol. 267*r (p. 527 (*ф҃кз*))]**
 
 [Woodcut Headpiece: Renaissance rectangular woodcut headband with foliate strapwork and central floral vase]
 
@@ -61,7 +61,7 @@
 
 === LEAF p274 ===
 
-**[Left Page — Fol. [270b]v / Fol. 267*v (p. 528 [ф҃кн])]**
+**[Left Page — Fol. [270b]v / Fol. 267*v (p. 528 (*ф҃кн*))]**
 
 *Prayers*
 
@@ -69,7 +69,7 @@
 *Exclamation:*[^841]
 *(Priest: "For unto Thee is due all glory, honor, and worship, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen.")*
 
-**[Right Page — Fol. 274r (p. 537 [ф҃лз])]**
+**[Right Page — Fol. 274r (p. 537 (*ф҃лз*))]**
 
 *At Vespers*
 
@@ -77,7 +77,7 @@
 
 === LEAF p275 ===
 
-**[Left Page — Fol. 274v (p. 538 [ф҃лн])]**
+**[Left Page — Fol. 274v (p. 538 (*ф҃лн*))]**
 
 *Prayers*
 
@@ -87,7 +87,7 @@
 *Eighth Prayer:*[^842]
 **Priest:** "O God, great and marvelous, Who alone hast immortality,[^843] dwelling in unapproachable light;[^844] Who hast created all creation in wisdom;[^845] Who hast divided between the light..."
 
-**[Right Page — Fol. 275r (p. 539 [ф҃лѳ])]**
+**[Right Page — Fol. 275r (p. 539 (*ф҃лѳ*))]**
 
 *At Vespers*
 
@@ -95,13 +95,13 @@
 
 === LEAF p276 ===
 
-**[Left Page — Fol. 275v (p. 540 [ф҃м])]**
+**[Left Page — Fol. 275v (p. 540 (*ф҃м*))]**
 
 *Prayers*
 
 **Priest:** "...us this present evening and the coming night in peace. Clothe us with the armor of light;[^851] deliver us from the terror of the night, and from the arrow that flies by day, and from every pestilence that walks in darkness;[^852] and grant us sleep, which Thou hast bestowed for the refreshment of our infirmity, and free us from every diabolical fantasy. Yea, O Master, Bestower of all good things, that even upon our beds, being moved to compunction, we may remember..."
 
-**[Right Page — Fol. 276r (p. 541 [ф҃ма])]**
+**[Right Page — Fol. 276r (p. 541 (*ф҃ма*))]**
 
 *At Vespers*
 
@@ -109,7 +109,7 @@
 
 === LEAF p277 ===
 
-**[Left Page — Fol. 276v (p. 542 [ф҃мв])]**
+**[Left Page — Fol. 276v (p. 542 (*ф҃мв*))]**
 
 *Prayers*
 
@@ -118,9 +118,9 @@
 
 [Woodcut Tailpiece: Renaissance symmetrical strapwork arabesque ornament]
 
-**[Right Page — Fol. 277r (p. 543 [ф҃мг])]**
+**[Right Page — Fol. 277r (p. 543 (*ф҃мг*))]**
 
-[Woodcut Headpiece: Elaborate Renaissance woodcut of Christ the Man of Sorrows (Христос во гробе / Царь Славы) with cross, tomb, and foliate frame]
+(*Woodcut Headpiece: Elaborate Renaissance woodcut of Christ the Man of Sorrows (Христос во гробе / Царь Славы) with cross, tomb, and foliate frame*)
 
 ## PRAYERS AT MATINS[^854]
 
@@ -129,13 +129,13 @@
 
 === LEAF p278 ===
 
-**[Left Page — Fol. 277v (p. 544 [ф҃мд])]**
+**[Left Page — Fol. 277v (p. 544 (*ф҃мд*))]**
 
 *Prayers*
 
 **Priest:** "...and we entreat Thy compassions and Thy grace, which Thou hast ever exercised toward our life; and now send down Thy help upon them that stand before the face of Thy holy glory, and that await rich mercy from Thee; and grant unto us who serve Thee with fear and love to praise, to hymn, to glorify, and to worship Thine ineffable goodness."
 
-**[Right Page — Fol. 278r (p. 545 [ф҃мє])]**
+**[Right Page — Fol. 278r (p. 545 (*ф҃мє*))]**
 
 *At Matins*
 
@@ -146,7 +146,7 @@
 
 === LEAF p279 ===
 
-**[Left Page — Fol. 278v (p. 546 [ф҃мѕ])]**
+**[Left Page — Fol. 278v (p. 546 (*ф҃мѕ*))]**
 
 *Prayers*
 
@@ -154,7 +154,7 @@
 *Exclamation:*[^861]
 **Priest:** "For blessed and glorified is Thine all-honorable and magnificent Name, [of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages. Amen]."
 
-**[Right Page — Fol. 279r (p. 547 [ф҃мз])]**
+**[Right Page — Fol. 279r (p. 547 (*ф҃мз*))]**
 
 *At Matins*
 
@@ -164,7 +164,7 @@
 
 === LEAF p280 ===
 
-**[Left Page — Fol. 279v (p. 548 [ф҃ми])]**
+**[Left Page — Fol. 279v (p. 548 (*ф҃ми*))]**
 
 *Prayers*
 
@@ -172,7 +172,7 @@
 *Exclamation:*[^868]
 **Priest:** "For Thine is the dominion, and Thine is the kingdom,[^869] and the power, and the glory, of the Father, and of the Son, and of the Holy Spirit, now and ever, [and unto ages of ages. Amen]."
 
-**[Right Page — Fol. 280r (p. 549 [ф҃мѳ])]**
+**[Right Page — Fol. 280r (p. 549 (*ф҃мѳ*))]**
 
 *At Matins*
 

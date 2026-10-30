@@ -3,9 +3,9 @@
   "title": "17th-Century Carpathian-Galician Manuscript Octoechos (Октоїх рукописний, Прикарпаття, XVII ст.)",
   "publication_year": "1630",
   "total_physical_pages": 222,
-  "total_stitches": 0,
-  "seam_overlaps_deduplicated": 0,
-  "total_drift_records": 110,
+  "total_stitches": 157,
+  "seam_overlaps_deduplicated": 30,
+  "total_drift_records": 140,
   "events": [
     {
       "type": "PSALM_VERSE_NORMALIZED",
@@ -1439,6 +1439,216 @@
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
       "greek": "ἡ ψυχὴ αὐτοῦ ἐν ἀγαθοῖς αὐλισθήσεται",
       "is_ai_drift": false
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[p11LA]",
+      "prev_tail": "u wast a temple unto the Unwaning Sun...",
+      "curr_head": "...unto Him Who created and in all His p",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[p21LA]",
+      "prev_tail": " Blessed art Thou, O God of our fathers!",
+      "curr_head": "...O God of our fathers, blessed art Tho",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[p45LA]",
+      "prev_tail": ": O Supremely Essential Trinity, save...",
+      "curr_head": "...save Thy servants, as Lover of mankin",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 60A]",
+      "prev_tail": "th Thy strength the dominion of death...",
+      "curr_head": "...dominion; Thou didst show forth the R",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 61A]",
+      "prev_tail": "d let Thine ears be attentive unto me...",
+      "curr_head": "...attentive unto me, [even] Thine divin",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 72A]",
+      "prev_tail": "top the irresistible circuit of death...",
+      "curr_head": "...circuit [of death], having in truth b",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 93A]",
+      "prev_tail": "ber of a Trinity in Persons: preserve...",
+      "curr_head": "...preserve us all from diverse temptati",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 98A]",
+      "prev_tail": "kness of life, O all-blessed one, and...",
+      "curr_head": "...and unto those who hymn thee, thou ha",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 99A]",
+      "prev_tail": " wast called the Bride of God, sealed...",
+      "curr_head": "...sealed with virginity, O pure one, an",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 100A]",
+      "prev_tail": "n of Adam's condemnation is abolished...",
+      "curr_head": "...abolished, O Lady, having clashed aga",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 103A]",
+      "prev_tail": "ruption; unto the Myrrh-bearing women...",
+      "curr_head": "...unto the Myrrh-bearing women the Ange",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 104A]",
+      "prev_tail": "r didst Thou come forth from the tomb...",
+      "curr_head": "...from the tomb like a Bridegroom from ",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 105A]",
+      "prev_tail": "pon the stone, and speaking unto them...",
+      "curr_head": "...and speaking unto them, saying: Why w",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 108A]",
+      "prev_tail": "ower with the co-sprouting and divine...",
+      "curr_head": "...and the divine Spirit; and therefore ",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 114A]",
+      "prev_tail": "w not man, grant peace unto the world...",
+      "curr_head": "...grant peace unto the world, O Savior,",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 115A]",
+      "prev_tail": "ther of God, pray Thy Creator and Son...",
+      "curr_head": "...pray Thy Creator and Son, O all-immac",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 115A]",
+      "prev_tail": "celebrates a sacred ministry: shining...",
+      "curr_head": "...shining forth from thee, O all-hymned",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 116A]",
+      "prev_tail": "ble Godhead, and didst raise the dead...",
+      "curr_head": "...didst raise the dead by Thy Resurrect",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 117A]",
+      "prev_tail": "foretold thee, who wast to give birth...",
+      "curr_head": "...birth unto the Benefactor of all crea",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 118A]",
+      "prev_tail": "for thou didst bear God, Whom implore...",
+      "curr_head": "...implore, O pure one, that we all may ",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 120A]",
+      "prev_tail": "t, and we refute again those who dare...",
+      "curr_head": "...dare confusion concerning It: Whom we",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 121A]",
+      "prev_tail": "eousness, upon the Cross the Immortal...",
+      "curr_head": "...Immortal One, in Hades the Light, in ",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 121A]",
+      "prev_tail": "w-transgressing Jews? Behold, this is...",
+      "curr_head": "...is He Whom God placed in Zion: Who po",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 128A]",
+      "prev_tail": ", and deliver from transgressions and...",
+      "curr_head": "...and afflictions, and hardships; and q",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 134A]",
+      "prev_tail": "all-pure one, the kindred care for us...",
+      "curr_head": "...for us despise not, we pray, for thee",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 136A]",
+      "prev_tail": "trength, [O divine hypostatic Wisdom]...",
+      "curr_head": "...[Wisdom] of divine essence, which cam",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 136A]",
+      "prev_tail": "aken up unto the heavens in the flesh...",
+      "curr_head": "...the angelic ranks opened the heavenly",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 136A]",
+      "prev_tail": "lumining souls in darkness and deceit...",
+      "curr_head": "...and having thereby refuted the deceit",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 136A]",
+      "prev_tail": "n to the Son to have life in Himself]...",
+      "curr_head": "...in Himself; and hath given Him author",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 136A]",
+      "prev_tail": "her, and His Son, and the Holy Spirit...",
+      "curr_head": "...the Holy Trinity in one essence, cryi",
+      "is_ai_drift": true
     }
   ]
 }

@@ -34,7 +34,7 @@ All-holy Lady Theotokos, help thy servant.[^3759]
 
 *Another says:*
 
-**Reader:** By her prayers, O God, have mercy and save us!
+> **Reader:** "By her prayers, O God, have mercy and save us!"
 
 *Then:*
 
@@ -58,15 +58,15 @@ All-holy Lady Theotokos, help thy servant.[^3759]
 
 *And dismissal. But if he who desires to go on a journey is present, there is no dismissal, but the priest says:*
 
-**Priest:** Let us pray to the Lord.
+> **Priest:** "Let us pray to the Lord."
 
 *And the prayer:*
 
-**Priest:** O Lord our God, the true and living Way, Who didst journey with Thy servant Joseph[^3769] journey also, O Master, with Thy servant *[Name]*, and deliver [him] from every tempest and snare; and establish again peace and goodly strength, causing him to take care for all righteousness according to Thy commandments; and having become filled with earthly and heavenly good things, do Thou deign [that he] return again; for Thine is the kingdom, and the power, and the glory, of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages.[^3770]
+> **Priest:** "O Lord our God, the true and living Way, Who didst journey with Thy servant Joseph[^3769] journey also, O Master, with Thy servant *[Name]*, and deliver [him] from every tempest and snare; and establish again peace and goodly strength, causing him to take care for all righteousness according to Thy commandments; and having become filled with earthly and heavenly good things, do Thou deign [that he] return again; for Thine is the kingdom, and the power, and the glory, of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages."[^3770]
 
 *And another prayer, for those about to sail:*[^3771]
 
-**Priest:** O Master Lord, Who didst deign to sail with Thy holy disciples and apostles, and didst rebuke the stormy wind, and didst command the waves of the sea to be stilled:[^3772] sail also with those departing in this ship, stilling every contrary wind; and raise up favorable winds, becoming their Helmsman everywhere; and turn away every assault of temptations from them; deign that they return rejoicing unto us who rejoice here; doing well and according to diligence the things begun by them, granting Thy grace in all their works, finding a saving and fair-weather haven for the voyagers and the ship; for unto Thee is due all glory, honor, and worship, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen.[^3773]
+> **Priest:** "O Master Lord, Who didst deign to sail with Thy holy disciples and apostles, and didst rebuke the stormy wind, and didst command the waves of the sea to be stilled:[^3772] sail also with those departing in this ship, stilling every contrary wind; and raise up favorable winds, becoming their Helmsman everywhere; and turn away every assault of temptations from them; deign that they return rejoicing unto us who rejoice here; doing well and according to diligence the things begun by them, granting Thy grace in all their works, finding a saving and fair-weather haven for the voyagers and the ship; for unto Thee is due all glory, honor, and worship, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen."[^3773]
 
 *[Engraving: Decorative woodcut headpiece across the top featuring scrolling foliate vines, acanthus motifs, and floral blossoms.]*
 

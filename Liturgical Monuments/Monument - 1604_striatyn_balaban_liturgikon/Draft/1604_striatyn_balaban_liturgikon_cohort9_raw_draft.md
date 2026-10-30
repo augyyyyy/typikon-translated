@@ -71,7 +71,7 @@
 
 *of Saint John Chrysostom*
 
-**Priest:** "Holy art Thou, and all-holy, and magnificent is Thy glory; Who so loved Thy world as to give Thine Only-begotten Son, that whosoever believs in Him should not perish, but have life everlasting. Who having come and fulfilled all the dispensation for us, in the night in which He was betrayed—or rather, surrendered Himself for the life of the world—having taken"[^257]
+**Priest:** "Holy art Thou, and all-holy, and magnificent is Thy glory; Who so loved Thy world as to give Thine Only-begotten Son, that whosoever believes in Him should not perish, but have life everlasting. Who having come and fulfilled all the dispensation for us, in the night in which He was betrayed—or rather, surrendered Himself for the life of the world—having taken"[^257]
 
 === LEAF p85 ===
 

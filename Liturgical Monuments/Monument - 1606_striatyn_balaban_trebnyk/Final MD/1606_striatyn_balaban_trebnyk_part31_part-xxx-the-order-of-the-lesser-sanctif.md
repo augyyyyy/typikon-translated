@@ -3,105 +3,105 @@
 *In the month of August on the 1st day; and whenever thou wilt, for every necessity.*[^2080]  
 
 *A four-legged table prepared for this is placed before the church, covered with a fine fabric, in the appointed place, and water in a vessel. The priest vests himself in all priestly vestments. If there is also a deacon, they go forth: the deacon with the censer, and the priest holding in his hand the precious*[^2081] *Cross with sprigs of basil, preceded by two taper-bearers. And the priest, having placed the Cross upon the analogion, and taking the censer, begins:*
-**Priest:** **"Blessed is our God, always, now and ever, and unto ages of ages."**  
-**Choir:** **"Amen."**  
+> **Priest:** **"Blessed is our God, always, now and ever, and unto ages of ages."**
+> **Choir:** **"Amen."**
 *Then the Trisagion: thrice. O Most-holy Trinity... Lord, have mercy: thrice. Glory... Both now... Our Father...*  
-**Priest:** **"For Thine is the Kingdom..."**  
+> **Priest:** **"For Thine is the Kingdom..."**
 *Lord, have mercy: 12 times. Glory... Both now... O come, let us worship: thrice.*[^2082]  
 *Then Psalm 142: "O Lord, hear my prayer..." all the way to the end.*[^2083]  
 *After this: "God is the Lord." Troparion, Tone 4:*  
-**Choir:** **Unto the Mother of God let us now run diligently, we that are sinners and humble, and let us fall down[^2084] in repentance, crying aloud from the depth of soul: O Lady, help, having had compassion upon us; make haste, for we perish from the multitude of sins; turn not Thy servants away empty: for Thee alone do we have as hope.**[^2085]
-**Choir:** **Never shall we be silent, O Theotokos, recounting Thy mighty acts, we that are unworthy: for if Thou hadst not stood interceding for us, who would have delivered us from such great dangers? Or who would have preserved us free until now? We will not turn away from Thee, O Lady, for Thou savest Thy servants ever from every distress, O only blessed one.**[^2086]  
+> **Choir:** **Unto the Mother of God let us now run diligently, we that are sinners and humble, and let us fall down[^2084] in repentance, crying aloud from the depth of soul: O Lady, help, having had compassion upon us; make haste, for we perish from the multitude of sins; turn not Thy servants away empty: for Thee alone do we have as hope.**[^2085]
+> **Choir:** **Never shall we be silent, O Theotokos, recounting Thy mighty acts, we that are unworthy: for if Thou hadst not stood interceding for us, who would have delivered us from such great dangers? Or who would have preserved us free until now? We will not turn away from Thee, O Lady, for Thou savest Thy servants ever from every distress, O only blessed one.**[^2086]
 *Then Psalm 50: "Have mercy on me, O God;" and the priest begins*[^2087] *these troparia, Tone 6:*[^2088]
-**Choir:** **O Virgin Who didst receive joy from the Angel, and didst bear Thy Creator, save those who magnify Thee.**[^2089]  
-**Choir:** **We hymn Thy childbearing, O Theotokos, and cry aloud, O all-pure Lady: Save Thy servants ever.**  
-**Choir:** **Thou art the praise of kings, and of prophets, and of apostles, and of martyrs, and the intercessor of the world, O all-undefiled one.**[^2090]  
-**Choir:** **Every race of men hymns Thee, O Theotokos, and in faith glorifies Thee, and magnifies Thy childbearing ever.**  
-**Choir:** **Grant, O my Christ, even unto me, the unworthy one, remission of debts, as I pray, by the entreaties of Her that bare Thee, as Thou art merciful.**[^2091]
+> **Choir:** **O Virgin Who didst receive joy from the Angel, and didst bear Thy Creator, save those who magnify Thee.**[^2089]
+> **Choir:** **We hymn Thy childbearing, O Theotokos, and cry aloud, O all-pure Lady: Save Thy servants ever.**
+> **Choir:** **Thou art the praise of kings, and of prophets, and of apostles, and of martyrs, and the intercessor of the world, O all-undefiled one.**[^2090]
+> **Choir:** **Every race of men hymns Thee, O Theotokos, and in faith glorifies Thee, and magnifies Thy childbearing ever.**
+> **Choir:** **Grant, O my Christ, even unto me, the unworthy one, remission of debts, as I pray, by the entreaties of Her that bare Thee, as Thou art merciful.**[^2091]
 
-**Choir:** **In Thee have I placed my hope, O Theotokos: save me by Thy prayers, and grant me remission of transgressions.**[^2092]  
-**Choir:** **Quicken me, O Thou Who didst bear the Savior and Master, Mary, Bride of God, and save all who hymn Thee with love.**  
-**Choir:** **O Virgin Who didst conceive in Thy womb the Creator of all, and didst bear Him: entreat Him for our souls.**[^2093]  
-**Choir:** **O Theotokos, all-hymned one, Who by a word didst bear beyond word the Word: entreat Him to save our souls.**[^2094]  
-**Choir:** **Be merciful unto me who am in the grief of life, O Theotokos: for Thou art the establishment and the salvation of the world, O all-undefiled one.**  
-**Choir:** **As is our duty we cry aloud unto Thee: Rejoice,[^2095] O Theotokos, who art the only help and salvation unto them that hymn Thee with love.**[^2096]
-**Choir:** **Loose, O Theotokos, the cord of all my debts, who have fled in love into Thy temple, O Mother of our God.**  
-**Choir:** **Despise not the supplication of Thy servants, O all-pure one, we pray Thee, O pure one: that remission of transgressions be given unto Thy servants.**  
-**Choir:** **From diseases and all sicknesses and tribulations, O Theotokos, deliver us who ever flee unto Thy church.**[^2097]  
-**Choir:** **A strange wonder has been shown forth in Thee, O Mother of God: for the Lord of all was born of Thee, O Mother and Ever-Virgin.**  
-**Choir:** **Thy temple, O Theotokos, has been shown forth as a cleansing place for spiritual infirmities, and[^2098] ineffable joy for the sorrowful.**[^2099]
-**Choir:** **O all-pure Theotokos, Who didst bear the Savior, Christ our God: deliver from tribulations us who hymn Thee.**  
-**Choir:** **Loose the cord of all my debts, O Theotokos, and save me who pray, and despise not me Thy servant.**  
-**Choir:** **Save all, O all-pure Theotokos, that lie in the depths of falling, and despise them not in the hour of judgment.**[^2100]  
-**Choir:** **Who that flees unto Thy temple, O Theotokos, with all the soul, goes away empty, and receives not straightway healing?**[^2101]  
-**Choir:** **Higher than all creatures art Thou, O all-pure one: having Thee as a haven, we are preserved from every harm of enemies.**
+> **Choir:** **In Thee have I placed my hope, O Theotokos: save me by Thy prayers, and grant me remission of transgressions.**[^2092]
+> **Choir:** **Quicken me, O Thou Who didst bear the Savior and Master, Mary, Bride of God, and save all who hymn Thee with love.**
+> **Choir:** **O Virgin Who didst conceive in Thy womb the Creator of all, and didst bear Him: entreat Him for our souls.**[^2093]
+> **Choir:** **O Theotokos, all-hymned one, Who by a word didst bear beyond word the Word: entreat Him to save our souls.**[^2094]
+> **Choir:** **Be merciful unto me who am in the grief of life, O Theotokos: for Thou art the establishment and the salvation of the world, O all-undefiled one.**
+> **Choir:** **As is our duty we cry aloud unto Thee: Rejoice,[^2095] O Theotokos, who art the only help and salvation unto them that hymn Thee with love.**[^2096]
+> **Choir:** **Loose, O Theotokos, the cord of all my debts, who have fled in love into Thy temple, O Mother of our God.**
+> **Choir:** **Despise not the supplication of Thy servants, O all-pure one, we pray Thee, O pure one: that remission of transgressions be given unto Thy servants.**
+> **Choir:** **From diseases and all sicknesses and tribulations, O Theotokos, deliver us who ever flee unto Thy church.**[^2097]
+> **Choir:** **A strange wonder has been shown forth in Thee, O Mother of God: for the Lord of all was born of Thee, O Mother and Ever-Virgin.**
+> **Choir:** **Thy temple, O Theotokos, has been shown forth as a cleansing place for spiritual infirmities, and[^2098] ineffable joy for the sorrowful.**[^2099]
+> **Choir:** **O all-pure Theotokos, Who didst bear the Savior, Christ our God: deliver from tribulations us who hymn Thee.**
+> **Choir:** **Loose the cord of all my debts, O Theotokos, and save me who pray, and despise not me Thy servant.**
+> **Choir:** **Save all, O all-pure Theotokos, that lie in the depths of falling, and despise them not in the hour of judgment.**[^2100]
+> **Choir:** **Who that flees unto Thy temple, O Theotokos, with all the soul, goes away empty, and receives not straightway healing?**[^2101]
+> **Choir:** **Higher than all creatures art Thou, O all-pure one: having Thee as a haven, we are preserved from every harm of enemies.**
 
-**Choir:** **The Light unto the world art Thou, O Theotokos: for Thou didst bear the Creator of all: entreat Him for our souls.**[^2102]  
-**Choir:** **Rejoice, O Mountain! Rejoice, O Bush! Rejoice, O Gate! Rejoice, O Ladder! Rejoice, O divine Table for the Word! Rejoice, O helper of all!**[^2103]  
-**Choir:** **We sing unto Thee, crying aloud, O all-pure Theotokos: Thou art hope and help and establishment unto us, O Virgin.**  
-**Choir:** **O Virgin Who didst bear the Creator and Master: preserve Thy servants from tribulations and sorrows, and from every harm.**  
+> **Choir:** **The Light unto the world art Thou, O Theotokos: for Thou didst bear the Creator of all: entreat Him for our souls.**[^2102]
+> **Choir:** **Rejoice, O Mountain! Rejoice, O Bush! Rejoice, O Gate! Rejoice, O Ladder! Rejoice, O divine Table for the Word! Rejoice, O helper of all!**[^2103]
+> **Choir:** **We sing unto Thee, crying aloud, O all-pure Theotokos: Thou art hope and help and establishment unto us, O Virgin.**
+> **Choir:** **O Virgin Who didst bear the Creator and Master: preserve Thy servants from tribulations and sorrows, and from every harm.**
 *Glory...*  
-**Choir:** **We glorify Father and Son, and the Holy Spirit, saying: O Holy Trinity, save our souls.**[^2104]  
+> **Choir:** **We glorify Father and Son, and the Holy Spirit, saying: O Holy Trinity, save our souls.**[^2104]
 *Both now* **O Theotokos Who didst bear the Savior and Master: preserve Thy servants from tribulations and sorrows, and from every harm.**[^2105]
 *Other Stichera, Idiomela, Tone 6:*  
-**Choir:** **Now is the time at hand that sanctifies all, and the righteous Judge awaits us; but turn, O my soul, unto repentance, crying aloud with tears like the harlot: O Lord, have mercy on me!**[^2106]  
-**Choir:** **Having rained down waters, O Christ, a fountain of healings in the venerable temple of the Virgin today: by Thy mercy and sprinkling Thou drivest away infirmities from them that are sick, O Physician of our souls: O Lord, glory be to Thee!**[^2107]  
+> **Choir:** **Now is the time at hand that sanctifies all, and the righteous Judge awaits us; but turn, O my soul, unto repentance, crying aloud with tears like the harlot: O Lord, have mercy on me!**[^2106]
+> **Choir:** **Having rained down waters, O Christ, a fountain of healings in the venerable temple of the Virgin today: by Thy mercy and sprinkling Thou drivest away infirmities from them that are sick, O Physician of our souls: O Lord, glory be to Thee!**[^2107]
 *Glory...*  
-**Choir:** **Having Thee as a wall and hope, and protectress,[^2108] O Theotokos, and a haven: we are preserved from every harm of enemies.**
+> **Choir:** **Having Thee as a wall and hope, and protectress,[^2108] O Theotokos, and a haven: we are preserved from every harm of enemies.**
 *Both now...*  
-**Choir:** **O all-pure Theotokos, direct the works of our hands, and grant forgiveness of transgressions unto our souls, when we sing the angelic hymn: Holy God, Holy Mighty, Holy Immortal, have mercy on us.**[^2109]  
+> **Choir:** **O all-pure Theotokos, direct the works of our hands, and grant forgiveness of transgressions unto our souls, when we sing the angelic hymn: Holy God, Holy Mighty, Holy Immortal, have mercy on us.**[^2109]
 *We sing the Prokeimenon, Tone 3:*  
-**Choir:** **"The Lord is my illumination and my Savior: whom shall I fear?"**[^2110]  
+> **Choir:** **"The Lord is my illumination and my Savior: whom shall I fear?"**[^2110]
 *Verse:*  
-**Reader:** **"The Lord is the defender of my life: of whom shall I be afraid?"**  
+> **Reader:** **"The Lord is the defender of my life: of whom shall I be afraid?"**
 *Epistle: The Reading is from the Epistle of the Holy Apostle Paul to the Hebrews.*[^2111]
 
-**Reader:** **Brethren: both He Who sanctifies and they who are sanctified are all of one; for which cause He is not ashamed to call them brethren, saying: "I will declare Thy Name unto My brethren; in the midst of the Church will I hymn Thee." And again: "I will put My trust in Him." And again: "Behold I and the children whom God has given Me." Forasmuch then as the children are partakers of flesh and blood, He also Himself likewise partook of the same; that through death He might destroy him that had the power of death, that is, the devil; and deliver them who through fear of death were all their lifetime subject to bondage.**[^2112] **For truly He takes not hold of angels,[^2113] but He takes hold of the seed of Abraham. Therefore in all things it was necessary for Him to be made like unto His brethren, that He might become a merciful and faithful minister in things pertaining to God, to make propitiation for the sins of the people. For in that He Himself has suffered, having been tempted, He is able to help them that are tempted.**[^2114]
+> **Reader:** **Brethren: both He Who sanctifies and they who are sanctified are all of one; for which cause He is not ashamed to call them brethren, saying: "I will declare Thy Name unto My brethren; in the midst of the Church will I hymn Thee." And again: "I will put My trust in Him." And again: "Behold I and the children whom God has given Me." Forasmuch then as the children are partakers of flesh and blood, He also Himself likewise partook of the same; that through death He might destroy him that had the power of death, that is, the devil; and deliver them who through fear of death were all their lifetime subject to bondage.**[^2112] **For truly He takes not hold of angels,[^2113] but He takes hold of the seed of Abraham. Therefore in all things it was necessary for Him to be made like unto His brethren, that He might become a merciful and faithful minister in things pertaining to God, to make propitiation for the sins of the people. For in that He Himself has suffered, having been tempted, He is able to help them that are tempted.**[^2114]
 *Alleluia, Tone 6:*  
-**Choir:** **"Alleluia."**  
+> **Choir:** **"Alleluia."**
 *Verse:*  
-**Reader:** **"My heart has poured forth a good word; I speak of my works unto the King."**[^2115]  
+> **Reader:** **"My heart has poured forth a good word; I speak of my works unto the King."**[^2115]
 *Gospel: The Reading is from the Holy Gospel according to John.*  
-**Deacon:** **At that time, Jesus went up to Jerusalem. Now there is at Jerusalem by the sheep pool a pool, which is called in Hebrew Bethesda, having five porches: in these lay[^2116] a great multitude of sick people, of blind, lame, withered, waiting for the moving of the water. For an Angel of the Lord went down at a certain season into the pool, and troubled the water: whosoever then first after the troubling of the water stepped in was made whole of whatsoever disease he was held by.**[^2117]
+> **Deacon:** **At that time, Jesus went up to Jerusalem. Now there is at Jerusalem by the sheep pool a pool, which is called in Hebrew Bethesda, having five porches: in these lay[^2116] a great multitude of sick people, of blind, lame, withered, waiting for the moving of the water. For an Angel of the Lord went down at a certain season into the pool, and troubled the water: whosoever then first after the troubling of the water stepped in was made whole of whatsoever disease he was held by.**[^2117]
 *And straightway he begins the litany:*[^2118]  
-**Deacon:** **In peace let us pray to the Lord.**[^2119]  
-**Deacon:** **For the peace from above, and for the salvation of our souls, [let us pray to the Lord].**  
-**Deacon:** **For the peace of the whole world, for the good estate of the holy churches of God, and for the union of all, let us pray to the Lord.**  
-**Deacon:** **For this holy temple, and for them that with faith, reverence, and the fear[^2120] of God enter therein, let us pray to the Lord.**
-**Deacon:** **For our Bishop, *[Name] is said*, and for the venerable priesthood, the diaconate in Christ, and for all the clergy and the people, let us pray to the Lord.**[^2121]  
-**Deacon:** **For our devout rulers, and for all their palace and armed forces, let us pray to the Lord.**  
-**Deacon:** **For this city, and for every city and countryside...**[^2122]  
-**Deacon:** **For seasonable weather, [and abundance of the fruits of the earth]...**  
-**Deacon:** **For them that sail, travel by land, the sick...**  
-**Deacon:** **That this water may be sanctified by the power, and operation, and descent of the Holy Spirit, let us pray to the Lord.**[^2123]  
-**Deacon:** **That there may be sent down upon it the grace of redemption and the blessing of Jordan, let us pray to the Lord.**[^2124]
+> **Deacon:** **In peace let us pray to the Lord.**[^2119]
+> **Deacon:** **For the peace from above, and for the salvation of our souls, [let us pray to the Lord].**
+> **Deacon:** **For the peace of the whole world, for the good estate of the holy churches of God, and for the union of all, let us pray to the Lord.**
+> **Deacon:** **For this holy temple, and for them that with faith, reverence, and the fear[^2120] of God enter therein, let us pray to the Lord.**
+> **Deacon:** **For our Bishop, *[Name] is said*, and for the venerable priesthood, the diaconate in Christ, and for all the clergy and the people, let us pray to the Lord.**[^2121]
+> **Deacon:** **For our devout rulers, and for all their palace and armed forces, let us pray to the Lord.**
+> **Deacon:** **For this city, and for every city and countryside...**[^2122]
+> **Deacon:** **For seasonable weather, [and abundance of the fruits of the earth]...**
+> **Deacon:** **For them that sail, travel by land, the sick...**
+> **Deacon:** **That this water may be sanctified by the power, and operation, and descent of the Holy Spirit, let us pray to the Lord.**[^2123]
+> **Deacon:** **That there may be sent down upon it the grace of redemption and the blessing of Jordan, let us pray to the Lord.**[^2124]
 
-**Deacon:** **That there may be granted unto it healing power by the descent of the Holy Spirit, let us pray to the Lord.**[^2125]  
-**Deacon:** **That it may be for the sanctification of our souls and bodies, and for the turning away of every adverse power, let us pray to the Lord.**  
-**Deacon:** **That it may be shown forth as a fountain of incorruption and a gift of salvation, let us pray to the Lord.**[^2126]  
-**Deacon:** **For them that draw and take thereof, let us pray to the Lord.**  
-**Deacon:** **That it may be for the remission of sins and the healing of diseases, let us pray to the Lord.**[^2127]  
-**Deacon:** **That we may be enlightened with the illumination of understanding for the sake of the consubstantial Trinity, let us pray to the Lord.**  
-**Deacon:** **That the purifying operation of the supersubstantial Trinity may be sent down upon this water, [let us pray to the Lord].**[^2128]
+> **Deacon:** **That there may be granted unto it healing power by the descent of the Holy Spirit, let us pray to the Lord.**[^2125]
+> **Deacon:** **That it may be for the sanctification of our souls and bodies, and for the turning away of every adverse power, let us pray to the Lord.**
+> **Deacon:** **That it may be shown forth as a fountain of incorruption and a gift of salvation, let us pray to the Lord.**[^2126]
+> **Deacon:** **For them that draw and take thereof, let us pray to the Lord.**
+> **Deacon:** **That it may be for the remission of sins and the healing of diseases, let us pray to the Lord.**[^2127]
+> **Deacon:** **That we may be enlightened with the illumination of understanding for the sake of the consubstantial Trinity, let us pray to the Lord.**
+> **Deacon:** **That the purifying operation of the supersubstantial Trinity may be sent down upon this water, [let us pray to the Lord].**[^2128]
 
-**Deacon:** **That the Lord our God may send illumination and understanding into our hearts, let us pray to the Lord.**[^2129]  
-**Deacon:** **For all who need help and protection from our God, let us pray to the Lord.**  
-**Deacon:** **That the Lord our God may show us forth as sons and heirs of His Kingdom through the communion and sprinkling of this water, let us pray to the Lord.**[^2130]  
-**Deacon:** **That we may be delivered from all affliction, wrath, and necessity, let us pray to the Lord.**[^2131]  
-**Deacon:** **Help us, save us, have mercy on us, and preserve us, O God, by Thy grace.**  
-**Deacon:** **Commemorating our all-holy, immaculate, most blessed Lady, the Theotokos and Ever-Virgin Mary, with all the saints, let us commend ourselves and one another, and our whole life unto Christ our God.**[^2132]
+> **Deacon:** **That the Lord our God may send illumination and understanding into our hearts, let us pray to the Lord.**[^2129]
+> **Deacon:** **For all who need help and protection from our God, let us pray to the Lord.**
+> **Deacon:** **That the Lord our God may show us forth as sons and heirs of His Kingdom through the communion and sprinkling of this water, let us pray to the Lord.**[^2130]
+> **Deacon:** **That we may be delivered from all affliction, wrath, and necessity, let us pray to the Lord.**[^2131]
+> **Deacon:** **Help us, save us, have mercy on us, and preserve us, O God, by Thy grace.**
+> **Deacon:** **Commemorating our all-holy, immaculate, most blessed Lady, the Theotokos and Ever-Virgin Mary, with all the saints, let us commend ourselves and one another, and our whole life unto Christ our God.**[^2132]
 *Exclamation:*  
-**Priest:** **For unto Thee is due all glory, honor, and worship: [to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages].**  
-**Deacon:** *Let us pray to the Lord.*  
+> **Priest:** **For unto Thee is due all glory, honor, and worship: [to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages].**
+> **Deacon:** *Let us pray to the Lord.*
 *Then the priest [says] this prayer:*[^2133]  
-**Priest:** **O God great and highest, Who art worshipped in the Holy Trinity, eternal essence,[^2134] all-rich and unending majesty, unsearchable power, ineffable dominion, fountain of wisdom, truly unsearchable abyss of goodness: Thou, O Master Who lovest mankind, God of timeless wonders, Whom neither mind can comprehend nor word is able to express: look upon us, and upon that which is now offered from[^2135] us Thy humble and unworthy servants; and grant in our mind the spirit of wisdom and understanding worthy to reach the ears of Thy goodness, and to draw down the mercy of Thy goodness.[^2136] For from Thee and from Thy life-giving gift it is both to will and to work according to Thy will and Thy good pleasure unto men.[^2137] And send down upon us Thy blessing, and the grace of healings upon this water: Who hast given unto our race the washing of regeneration, for the washing away of sinful defilements, and the renewal of all diseases that befall us;[^2138] and make us, who are sprinkled in hearts from[^2139] an evil conscience, and having our body washed with pure water,[^2140] to bear fruit and to grow unto every good work, and to show forth always toward them that need mercy an unslothful diligence, unto the pleasing of our brethren who labor; and to be accounted worthy of Thy loving-kindness, receiving deliverance from spiritual infirmities and bodily sicknesses. And send down unto us the healing of Thy gift that loves mankind through this present water: for not unto carnal pleasure, but unto the healing of soul and body is this spiritual service performed by us.[^2141] Yea, O Master greatly merciful, have mercy on Thy servants, bowing down unto[^2142] our lowliness: Who hast given us to wear this pure garment from water and the Spirit, wash [us] with this water, and by the sprinkling of Thy blessing cleanse the defilements of our passions.[^2143] By the prayers and supplication of our all-pure Lady, the Theotokos and Ever-Virgin Mary; of the honorable heavenly bodiless powers; of the honorable and glorious Prophet, Forerunner, and Baptist John; of the holy, glorious, and all-praised Apostles; of the holy and righteous Ancestors of God, Joachim and Anna; of Zacharias and Elizabeth; and of the holy, great sovereigns Constantine and Helen;[^2144] and of our fathers among the saints, Basil the Great, Gregory[^2145] the Theologian, and John Chrysostom; and of our father among the saints, the hierarch and wonderworker Nicholas; of the holy wonderworkers and unmercenaries Cosmas and Damian, Cyrus and John, Panteleimon and Hermolaus, Florus and Laurus, Samson and Diomedes; and of Saint Simeon of the Mandra; and of the holy great-martyrs Maccabees; and of our venerable and God-bearing father Athanasius; and of all the saints:[^2146] by whose prayers preserve, O Lord, Thy servants, our faithful rulers, *[Name]*, and subdue under them every foreign nation that desires war; grant unto them all petitions that are unto salvation[^2147] and eternal life. Remember, O Lord, our Archbishop *[Name is said]*, and all the episcopate of the Orthodox, rightly dividing the word of Thy truth;[^2148] and all the priestly and monastic order. Remember, O Lord, them that bear fruit and do good works in Thy holy churches, and them that remember the poor.[^2149] Remember, O Lord, the people here present, and our fathers and brethren sent forth for honorable cause. Remember, O Lord, our brethren who are in captivity, and deliver them from every evil circumstance. Remember, O Lord, them that are in sickness, and visit them all, and heal them according to Thy great mercy.[^2150] Remember, O Lord, them that**[^2151] journey by land, and those at sea, and those in prison, and in deserts, and in every place of Thy dominion; and grant unto all their petitions unto salvation, and eternal life.[^2152]
+> **Priest:** **O God great and highest, Who art worshipped in the Holy Trinity, eternal essence,[^2134] all-rich and unending majesty, unsearchable power, ineffable dominion, fountain of wisdom, truly unsearchable abyss of goodness: Thou, O Master Who lovest mankind, God of timeless wonders, Whom neither mind can comprehend nor word is able to express: look upon us, and upon that which is now offered from[^2135] us Thy humble and unworthy servants; and grant in our mind the spirit of wisdom and understanding worthy to reach the ears of Thy goodness, and to draw down the mercy of Thy goodness.[^2136] For from Thee and from Thy life-giving gift it is both to will and to work according to Thy will and Thy good pleasure unto men.[^2137] And send down upon us Thy blessing, and the grace of healings upon this water: Who hast given unto our race the washing of regeneration, for the washing away of sinful defilements, and the renewal of all diseases that befall us;[^2138] and make us, who are sprinkled in hearts from[^2139] an evil conscience, and having our body washed with pure water,[^2140] to bear fruit and to grow unto every good work, and to show forth always toward them that need mercy an unslothful diligence, unto the pleasing of our brethren who labor; and to be accounted worthy of Thy loving-kindness, receiving deliverance from spiritual infirmities and bodily sicknesses. And send down unto us the healing of Thy gift that loves mankind through this present water: for not unto carnal pleasure, but unto the healing of soul and body is this spiritual service performed by us.[^2141] Yea, O Master greatly merciful, have mercy on Thy servants, bowing down unto[^2142] our lowliness: Who hast given us to wear this pure garment from water and the Spirit, wash [us] with this water, and by the sprinkling of Thy blessing cleanse the defilements of our passions.[^2143] By the prayers and supplication of our all-pure Lady, the Theotokos and Ever-Virgin Mary; of the honorable heavenly bodiless powers; of the honorable and glorious Prophet, Forerunner, and Baptist John; of the holy, glorious, and all-praised Apostles; of the holy and righteous Ancestors of God, Joachim and Anna; of Zacharias and Elizabeth; and of the holy, great sovereigns Constantine and Helen;[^2144] and of our fathers among the saints, Basil the Great, Gregory[^2145] the Theologian, and John Chrysostom; and of our father among the saints, the hierarch and wonderworker Nicholas; of the holy wonderworkers and unmercenaries Cosmas and Damian, Cyrus and John, Panteleimon and Hermolaus, Florus and Laurus, Samson and Diomedes; and of Saint Simeon of the Mandra; and of the holy great-martyrs Maccabees; and of our venerable and God-bearing father Athanasius; and of all the saints:[^2146] by whose prayers preserve, O Lord, Thy servants, our faithful rulers, *[Name]*, and subdue under them every foreign nation that desires war; grant unto them all petitions that are unto salvation[^2147] and eternal life. Remember, O Lord, our Archbishop *[Name is said]*, and all the episcopate of the Orthodox, rightly dividing the word of Thy truth;[^2148] and all the priestly and monastic order. Remember, O Lord, them that bear fruit and do good works in Thy holy churches, and them that remember the poor.[^2149] Remember, O Lord, the people here present, and our fathers and brethren sent forth for honorable cause. Remember, O Lord, our brethren who are in captivity, and deliver them from every evil circumstance. Remember, O Lord, them that are in sickness, and visit them all, and heal them according to Thy great mercy.[^2150] Remember, O Lord, them that**[^2151] journey by land, and those at sea, and those in prison, and in deserts, and in every place of Thy dominion; and grant unto all their petitions unto salvation, and eternal life.[^2152]
 
 *Exclamation:*
 For Thou art good, and sanctifiest all things, O Christ our God; and unto Thee do we send up glory, with Thine unoriginate Father, and with Thy most-holy, good, and life-creating Spirit, now and ever, and unto ages of ages.[^2153]
 
-**Priest:** Peace be unto all.[^2154]
+> **Priest:** "Peace be unto all."[^2154]
 
-**Deacon:** Let us bow our heads unto the Lord.[^2155]
+> **Deacon:** "Let us bow our heads unto the Lord."[^2155]
 
 *The priest says this prayer secretly:*[^2156]
 
@@ -133,7 +133,7 @@ O Sovereign Lady, receive the prayers of thy servants, and deliver us from every
 
 *And upon the completion of the sprinkling, having entered into the church, the deacon says the litanic petitions:*[^2171]
 
-**Deacon:** Have mercy on us, O God, according to Thy great mercy, we pray Thee, give ear and have mercy.[^2172]
+> **Deacon:** "Have mercy on us, O God, according to Thy great mercy, we pray Thee, give ear and have mercy."[^2172]
 
 Again we pray unto the Lord our God, that this holy monastery may be preserved—[^2173]
 
@@ -146,9 +146,9 @@ Lord, have mercy (40 times).[^2176]
 *Exclamation:*
 Give ear unto us, O God our Savior, the hope of all the ends of the earth and of them that are far off upon the sea; and be merciful, O Merciful One, unto us sinners, and have mercy on us. For Thou art a merciful[^2177] God Who lovest mankind, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages.[^2178]
 
-**Priest:** Peace be unto all.[^2179]
+> **Priest:** "Peace be unto all."[^2179]
 
-**Deacon:** Let us bow our heads unto the Lord.[^2180]
+> **Deacon:** "Let us bow our heads unto the Lord."[^2180]
 
 *Prayer of head-bowing:*
 O Master, Greatly-merciful Lord Jesus Christ our God: through the prayers of our all-pure Sovereign Lady, the Theotokos and Ever-Virgin Mary; by the power of the precious and life-creating Cross; by the protection of the precious heavenly bodiless powers; of the precious and glorious Prophet, Forerunner, and Baptist John; of the holy, glorious, and all-praised Apostles; of the holy and victorious martyrs; of our venerable and God-bearing fathers;[^2181]

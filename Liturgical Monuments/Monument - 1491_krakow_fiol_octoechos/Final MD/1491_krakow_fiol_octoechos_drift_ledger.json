@@ -3,9 +3,9 @@
   "title": "1491 Krakow Octoechos of Schweipolt Fiol (Осмогласник / Октоїх Швайпольта Фіоля, Краків, 1491)",
   "publication_year": "1491",
   "total_physical_pages": 345,
-  "total_stitches": 0,
-  "seam_overlaps_deduplicated": 0,
-  "total_drift_records": 60,
+  "total_stitches": 256,
+  "seam_overlaps_deduplicated": 11,
+  "total_drift_records": 71,
   "events": [
     {
       "type": "PSALM_VERSE_NORMALIZED",
@@ -895,6 +895,83 @@
       "raw_cohort_english": "Podoben: Give ear, ye women",
       "canonical_english": "Give ear, ye women",
       "is_ai_drift": false
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[p6LA]",
+      "prev_tail": "f her. Be of good courage, therefore, be",
+      "curr_head": "of good courage, O people of God, for He",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[p49LA]",
+      "prev_tail": " we praise Thy Resurrection, O Christ...",
+      "curr_head": "...therefore we praise Thy Resurrection,",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[p98LA]",
+      "prev_tail": "Master, healing it as Good and Almighty!",
+      "curr_head": "...Almighty![^109]",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[p121LA]",
+      "prev_tail": "neficent rays, O unapproachable Light...",
+      "curr_head": "...unapproachable, O Father Almighty, Wo",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[p129LA]",
+      "prev_tail": " raised unto life through Thy Passion...",
+      "curr_head": "...through Thy Passion![^140]",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[p162LA]",
+      "prev_tail": "d, and know Mine own, and am known of...",
+      "curr_head": "...Mine, even as the Father knows Me, an",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[p171LA]",
+      "prev_tail": "potless, [illumining] the whole world...",
+      "curr_head": "...illumining the whole world with thric",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[p182LA]",
+      "prev_tail": "and timelessly illumine] the universe...",
+      "curr_head": "...[thou didst strangely and] timelessly",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[p220LA]",
+      "prev_tail": "ith divine love, Dominions and Powers...",
+      "curr_head": "...and Powers and secondary ranks, with ",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[p226LA]",
+      "prev_tail": " all-good, overlooking all our [sins]...",
+      "curr_head": "...sins committed in knowledge and in ig",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[p281LA]",
+      "prev_tail": "ly from the night [cried aloud]...[^318]",
+      "curr_head": "...[cried aloud]: The dead shall rise, a",
+      "is_ai_drift": true
     }
   ]
 }

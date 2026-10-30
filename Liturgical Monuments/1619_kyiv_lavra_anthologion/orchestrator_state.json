@@ -1,0 +1,20 @@
+{
+  "active_monument": "1619_kyiv_lavra_anthologion",
+  "monument_id": "1619_kyiv_lavra_anthologion",
+  "status": "ready",
+  "active_lease": false,
+  "total_physical_pages": 0,
+  "completed_cohorts": [],
+  "translated_pages": 0,
+  "remaining_pages": 0,
+  "current_cohort": 1,
+  "current_cohort_range": "pp. 1-0 (leaves p1-p0)",
+  "routing_phase": "PHASE_0_ARGON_PLANNING",
+  "active_subagent_model": "flash",
+  "argon_review_queue_count": 0,
+  "unresolved_quarantines": 0,
+  "cohort_retry_counts": {},
+  "small_pause_gate_status": "PHASE_0_ARGON_PLANNING_LOCKED",
+  "active_blockers": [],
+  "updated_at": "2026-10-30T20:43:46.710420+00:00"
+}

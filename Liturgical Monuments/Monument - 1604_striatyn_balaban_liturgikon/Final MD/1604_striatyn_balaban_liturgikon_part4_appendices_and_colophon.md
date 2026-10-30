@@ -3,26 +3,26 @@
 ## ORDER OF BLESSING WINE
 
 *The priest, having taken the epitrachelion upon himself and taken the censer, having censed, says:*
-**Priest:** "Blessed is our God..."
+> **Priest:** "Blessed is our God..."
 *Then Trisagion prayers. After "Our Father": the Sunday Troparia and the Hypakoe of the eight tones to all.[^586] Then, having censed, he says:*
-**Priest:** "Let us pray unto the Lord."
+> **Priest:** "Let us pray unto the Lord."
 
 *Order*
 
 *Then he says these prayers:*
 *First Prayer:*
-**Priest:** "O Lord Jesus Christ our God, Who didst transmute water into wine at Cana of Galilee at the holy marriage, and didst manifest Thy glory unto Thy disciples:[^587] do Thou Thyself now also, O Master, visit from Thy holy dwelling-place, and bless this wine, and make it unto every good mixture for those who drink it; that without any diabolical operation, drinking [it]," *To Bless Wine*
+> **Priest:** "O Lord Jesus Christ our God, Who didst transmute water into wine at Cana of Galilee at the holy marriage, and didst manifest Thy glory unto Thy disciples:[^587] do Thou Thyself now also, O Master, visit from Thy holy dwelling-place, and bless this wine, and make it unto every good mixture for those who drink it; that without any diabolical operation, drinking [it]," *To Bless Wine*
 
-**Priest:** "we may glorify Thee, the Giver of every good offering: [together with] the Father, and the Son, and the Holy Spirit, now and ever, and unto ages of ages. Amen."
+> **Priest:** "we may glorify Thee, the Giver of every good offering: [together with] the Father, and the Son, and the Holy Spirit, now and ever, and unto ages of ages. Amen."
 *Second Prayer, to the same effect:*[^588]
-**Priest:** "O Lord, Good and Lover of mankind: look down upon this wine, and upon those who partake thereof; and bless it, as Thou didst bless the well of Jacob, and the pool of Siloam, and the cup" *Prayer*
+> **Priest:** "O Lord, Good and Lover of mankind: look down upon this wine, and upon those who partake thereof; and bless it, as Thou didst bless the well of Jacob, and the pool of Siloam, and the cup" *Prayer*
 
-**Priest:** "of Thy holy apostles; and having come to Cana of Galilee, Thou didst also bless the water jars, and didst transmute the water into wine, and didst manifest Thy glory: do Thou Thyself now also, O Lord our God, send down Thy grace upon this wine, and bless it by Thy Holy Spirit. For Thou art a merciful God and the Lover of mankind, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. [Amen.]"
+> **Priest:** "of Thy holy apostles; and having come to Cana of Galilee, Thou didst also bless the water jars, and didst transmute the water into wine, and didst manifest Thy glory: do Thou Thyself now also, O Lord our God, send down Thy grace upon this wine, and bless it by Thy Holy Spirit. For Thou art a merciful God and the Lover of mankind, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. [Amen.]"
 
 *To Bless Wine*
 
 *Then: "More honorable than the Cherubim..." Glory... Both now... "Lord, have mercy," thrice. "Bless!" And the dismissal:*
-**Priest:** "He that rose from the dead..." *if it be Sunday; but if not, then say:* "Christ our true God, through the intercessions of His all-pure Mother; of the holy, glorious, and all-praised apostles; and of all the saints, have mercy on us and save us, for He is a good God and the Lover of mankind."
+> **Priest:** "He that rose from the dead..." *if it be Sunday; but if not, then say:* "Christ our true God, through the intercessions of His all-pure Mother; of the holy, glorious, and all-praised apostles; and of all the saints, have mercy on us and save us, for He is a good God and the Lover of mankind."
 
 **THE END** *[The verso of this leaf is entirely blank without printed text or pagination, serving as an aesthetic divisional break before the Lucernarium offices; faint show-through of the headpiece and printed type from the preceding recto (fol. 220r / p. 428) is visible on the handmade paper.][^589]*
 
@@ -32,85 +32,85 @@
 
 *The Order of Great Vespers*
 
-**Priest:** "Blessed is our God, always, now and ever, and unto ages of ages."
-**Choir:** "Amen."
+> **Priest:** "Blessed is our God, always, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
 *Then he begins:*[^591]
 *Reader:* "Come, let us worship and fall down before Christ our King and God. Come, let us worship and fall down before Christ Himself, our King and God. Come, let us worship and fall down before Him."
 *And Psalm 103:*
-**Reader:** "Bless the Lord, O my soul! O Lord my God, Thou art magnified exceedingly; [Thou art clothed with thanksgiving and majesty]..."
+> **Reader:** "Bless the Lord, O my soul! O Lord my God, Thou art magnified exceedingly; [Thou art clothed with thanksgiving and majesty]..."
 *And the priest says the evening prayers.[^592] And after the completion of the psalm, the Great Litany is said by the priest in the altar:*[^593]
-**Priest:** "In peace let us pray unto the Lord."
-**Choir:** "Lord, have mercy."
-**Priest:** "For the peace from above and the salvation of our souls, let us pray unto the Lord."
-**Choir:** "Lord, have mercy."
+> **Priest:** "In peace let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Priest:** "For the peace from above and the salvation of our souls, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
 
 *At Great Vespers*
 
-**Priest:** "For the peace of the whole world, the good estate of the holy churches of God, and the union of all, let us pray unto the Lord."
-**Choir:** "Lord, have mercy."
-**Priest:** "For this holy temple, and for those that enter therein with faith, reverence, and the fear of God, let us pray unto the Lord."
-**Choir:** "Lord, have mercy."
-**Priest:** "For our bishop, *[Name]*, the honorable priesthood, the diaconate in Christ, for all the clergy and the people, let us pray unto the Lord."
-**Choir:** "Lord, have mercy."
+> **Priest:** "For the peace of the whole world, the good estate of the holy churches of God, and the union of all, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Priest:** "For this holy temple, and for those that enter therein with faith, reverence, and the fear of God, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Priest:** "For our bishop, *[Name]*, the honorable priesthood, the diaconate in Christ, for all the clergy and the people, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
 
 *The Order of Great Vespers*
 
-**Priest:** "For our great king, *[Name]*, and our pious lords,[^594] and for all their palace and their host, let us pray unto the Lord."
-**Choir:** "Lord, have mercy."
-**Priest:** "That He may aid them and subdue under their feet every enemy and adversary, let us pray unto the Lord."
-**Choir:** "Lord, have mercy."
-**Priest:** "For this holy monastery, and for every city and countryside, and for those who in faith dwell therein, let us pray unto the Lord."
-**Choir:** "Lord, have mercy."
-**Priest:** "For seasonable weather," *At Great Vespers*
+> **Priest:** "For our great king, *[Name]*, and our pious lords,[^594] and for all their palace and their host, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Priest:** "That He may aid them and subdue under their feet every enemy and adversary, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Priest:** "For this holy monastery, and for every city and countryside, and for those who in faith dwell therein, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Priest:** "For seasonable weather," *At Great Vespers*
 
-**Priest:** "and abundance of the fruits of the earth, and peaceful times, let us pray unto the Lord."
-**Choir:** "Lord, have mercy."
-**Priest:** "For travelers by water, travelers by land, the sick, the suffering, those in captivity, and for their salvation, let us pray unto the Lord."
-**Choir:** "Lord, have mercy."
-**Priest:** "That we may be delivered from all affliction, wrath, and necessity, let us pray unto the Lord."
-**Choir:** "Lord, have mercy."
-**Priest:** "Help us, save us, have mercy on us, and keep us, O God, by Thy grace."
-**Choir:** "Lord, have mercy."
+> **Priest:** "and abundance of the fruits of the earth, and peaceful times, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Priest:** "For travelers by water, travelers by land, the sick, the suffering, those in captivity, and for their salvation, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Priest:** "That we may be delivered from all affliction, wrath, and necessity, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Priest:** "Help us, save us, have mercy on us, and keep us, O God, by Thy grace."
+> **Choir:** "Lord, have mercy."
 
 *The Order of Great Vespers*
 
-**Priest:** "Remembering our all-holy, immaculate, most blessed, glorious Lady, the Mother of God and Ever-Virgin Mary, with all the saints, let us commend ourselves and one another, and our whole life unto Christ our God."
-**Choir:** "To Thee, O Lord."
+> **Priest:** "Remembering our all-holy, immaculate, most blessed, glorious Lady, the Mother of God and Ever-Virgin Mary, with all the saints, let us commend ourselves and one another, and our whole life unto Christ our God."
+> **Choir:** "To Thee, O Lord."
 *Exclamation:*
-**Priest:** "For unto Thee is due all glory, honor, and worship: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."[^595]
-**Choir:** "Amen."
+> **Priest:** "For unto Thee is due all glory, honor, and worship: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."[^595]
+> **Choir:** "Amen."
 *Then the Kathisma.[^596] And after the second "Glory" of the Kathisma:*
 
 *At Great Vespers*
 
 *The deacon comes, and having made a bow to the superior or to his place, he enters into the altar, vests himself in the sticharion, and places the orarion upon his shoulder; and going forth unto the customary place, he says the Little Diaconal Petitions:*[^597]
-**Deacon:** "Again and again in peace let us pray unto the Lord."
-**Choir:** "Lord, have mercy."
-**Deacon:** "Help us, save us, have mercy on us, and keep us, O God, by Thy grace."
-**Choir:** "Lord, have mercy."
-**Deacon:** "Remembering our all-holy, immaculate, most blessed, glorious Lady, the Mother of God and Ever-Virgin Mary, with all the saints, let us commend ourselves and one another, and our whole life unto Christ our God."
-**Choir:** "To Thee, O Lord."
+> **Deacon:** "Again and again in peace let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "Help us, save us, have mercy on us, and keep us, O God, by Thy grace."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "Remembering our all-holy, immaculate, most blessed, glorious Lady, the Mother of God and Ever-Virgin Mary, with all the saints, let us commend ourselves and one another, and our whole life unto Christ our God."
+> **Choir:** "To Thee, O Lord."
 *Priest, exclamation:*
 
 *The Order of Great Vespers*
 
-**Priest:** "For Thine is the dominion, and Thine is the kingdom, and the power, and the glory: of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages."
-**Choir:** "Amen."
+> **Priest:** "For Thine is the dominion, and Thine is the kingdom, and the power, and the glory: of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
 *If a Feast of the Lord occurs on which there is no Kathisma:[^598] while the psalm is being recited, the deacon then vests himself, and says outside the altar the Great Diaconal Petitions; then the chanters sing: "Lord, I have cried..." While the stichera are being sung, the deacon, having entered into the altar, At Great Vespers*
 
 *and having taken the censer, censes the holy table and the whole church. And having returned again at "Glory... Both now...", they make the Little Entrance with the censer.[^599] And when they have arrived in the midst of the church, the deacon says: "Let us pray unto the Lord."*
 *Priest, the Prayer of the Entrance:*[^600]
-**Priest:** "O Good King and Lover of mankind, Who doest good unto all things: we entreat Thee diligently, with a contrite heart and a humble spirit:"
+> **Priest:** "O Good King and Lover of mankind, Who doest good unto all things: we entreat Thee diligently, with a contrite heart and a humble spirit:"
 
 *The Order of Great Vespers*
 
-**Priest:** "bless our entrances and our exits, O Christ our true God; for Thy coming and Thy going and Thy sojourning with mankind is blessed, always, now and ever, and unto ages of ages."
+> **Priest:** "bless our entrances and our exits, O Christ our true God; for Thy coming and Thy going and Thy sojourning with mankind is blessed, always, now and ever, and unto ages of ages."
 *Then the deacon says:*
-**Deacon:** "Bless, Master, the holy entrance."
+> **Deacon:** "Bless, Master, the holy entrance."
 *Pointing with his orarion; and the priest, blessing, says:*
-**Priest:** "Blessed is the entrance of Thy saints, always, now and ever, and unto ages of ages."
+> **Priest:** "Blessed is the entrance of Thy saints, always, now and ever, and unto ages of ages."
 *Then the deacon:*
-**Deacon:** "Wisdom! Stand upright!"
+> **Deacon:** "Wisdom! Stand upright!"
 
 *At Great Vespers*
 
@@ -119,141 +119,137 @@
 *Reader: "The Reading from Genesis..." Or whatever other prophecy occurs.[^602]*
 *Deacon: "Let us attend!"*
 *And after the readings, the deacon goes forth unto the customary place, and says the Augmented Litany:*[^603]
-**Deacon:** "Let us all say: from our whole soul and from our whole mind, let us say!"
-**Choir:** "Lord, have mercy."
-**Deacon:** "O Lord Almighty, the God of our fathers," *The Order of Great Vespers*
+> **Deacon:** "Let us all say: from our whole soul and from our whole mind, let us say!"
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "O Lord Almighty, the God of our fathers," *The Order of Great Vespers*
 
-**Deacon:** "we pray Thee, give ear and have mercy."
-**Choir:** "Lord, have mercy."
-**Deacon:** "Have mercy on us, O God, according to Thy great mercy, we pray Thee, give ear and have mercy."
-**Choir:** "Lord, have mercy," thrice.
-**Deacon:** "Again we pray for our great king, *[Name]*, and for our pious lords, the nobility:[^604] for their dominion, victory, endurance, peace, health, and salvation, and for the remission of their sins; and that the Lord our God may especially prosper" *At Great Vespers*
+> **Deacon:** "we pray Thee, give ear and have mercy."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "Have mercy on us, O God, according to Thy great mercy, we pray Thee, give ear and have mercy."
+> **Choir:** "Lord, have mercy," thrice.
+> **Deacon:** "Again we pray for our great king, *[Name]*, and for our pious lords, the nobility:[^604] for their dominion, victory, endurance, peace, health, and salvation, and for the remission of their sins; and that the Lord our God may especially prosper" *At Great Vespers*
 
-**Deacon:** "and aid them in all things, and subdue under their feet every enemy and adversary."
-**Choir:** "Lord, have mercy," thrice.
-**Deacon:** "Again we pray for our bishop, *[Name]*."
+> **Deacon:** "and aid them in all things, and subdue under their feet every enemy and adversary."
+> **Choir:** "Lord, have mercy," thrice.
+> **Deacon:** "Again we pray for our bishop, *[Name]*."
 *If it be in a monastery, say this:*[^605]
-**Deacon:** "Again we pray for the remission of the sins of the servant of God, our father, the hegumen, *[Name]*, and for all our brotherhood in Christ."
-**Choir:** "Lord, have mercy," thrice.
-**Deacon:** "Again we pray for all who serve and have served" *The Order of Great Vespers*
+> **Deacon:** "Again we pray for the remission of the sins of the servant of God, our father, the hegumen, *[Name]*, and for all our brotherhood in Christ."
+> **Choir:** "Lord, have mercy," thrice.
+> **Deacon:** "Again we pray for all who serve and have served" *The Order of Great Vespers*
 
-**Deacon:** "in this holy monastery."
+> **Deacon:** "in this holy monastery."
 *If it be not in a monastery, say this:*[^606]
-**Deacon:** "Again we pray for our spiritual fathers, and for all our brotherhood in Christ."
-**Choir:** "Lord, have mercy," thrice.
-**Deacon:** "Again we pray for the people here present, who await Thy great and abundant mercy."
-**Choir:** "Lord, have mercy," thrice.
-**Deacon:** "Again we pray for all our brethren, and for all Orthodox Christians."
-**Choir:** "Lord, have mercy," thrice.
+> **Deacon:** "Again we pray for our spiritual fathers, and for all our brotherhood in Christ."
+> **Choir:** "Lord, have mercy," thrice.
+> **Deacon:** "Again we pray for the people here present, who await Thy great and abundant mercy."
+> **Choir:** "Lord, have mercy," thrice.
+> **Deacon:** "Again we pray for all our brethren, and for all Orthodox Christians."
+> **Choir:** "Lord, have mercy," thrice.
 *Priest, exclamation:*
 
 *At Great Vespers*
 
-**Priest:** "For Thou art a merciful God and the Lover of mankind, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
-**Choir:** "Amen."
+> **Priest:** "For Thou art a merciful God and the Lover of mankind, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
 *Then:* "Vouchsafe, O Lord, to keep us this evening without sin..."[^607]
 *After this, the deacon says the Evening Litany of Supplication:*[^608]
-**Deacon:** "Let us complete our evening prayer unto the Lord."
-**Choir:** "Lord, have mercy."
-**Deacon:** "Help us, save us, have mercy on us, and keep us, O God, by Thy grace."
-**Choir:** "Lord, have mercy."
-**Deacon:** "That the whole evening may be perfect, holy, peaceful, and sinless, let us ask of the Lord."
+> **Deacon:** "Let us complete our evening prayer unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "Help us, save us, have mercy on us, and keep us, O God, by Thy grace."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "That the whole evening may be perfect, holy, peaceful, and sinless, let us ask of the Lord."
 
 *The Order of Great Vespers*
 
-**Choir:** "Grant this, O Lord."
-**Deacon:** "An angel of peace, a faithful guide, a guardian of our souls and bodies, let us ask of the Lord."
-**Choir:** "Grant this, O Lord."
-**Deacon:** "Pardon and remission of our sins and offenses, let us ask of the Lord."
-**Choir:** "Grant this, O Lord."
-**Deacon:** "Things good and profitable for our souls, and peace for the world, let us ask of the Lord."
-**Choir:** "Grant this, O Lord."
-**Deacon:** "That we may complete the remaining time of our life in peace and repentance, let us ask of the Lord."[^609]
-**Choir:** "Grant this, O Lord."
-**Deacon:** "A Christian ending to our life, painless," *At Great Vespers*
+> **Choir:** "Grant this, O Lord."
+> **Deacon:** "An angel of peace, a faithful guide, a guardian of our souls and bodies, let us ask of the Lord."
+> **Choir:** "Grant this, O Lord."
+> **Deacon:** "Pardon and remission of our sins and offenses, let us ask of the Lord."
+> **Choir:** "Grant this, O Lord."
+> **Deacon:** "Things good and profitable for our souls, and peace for the world, let us ask of the Lord."
+> **Choir:** "Grant this, O Lord."
+> **Deacon:** "That we may complete the remaining time of our life in peace and repentance, let us ask of the Lord."[^609]
+> **Choir:** "Grant this, O Lord."
+> **Deacon:** "A Christian ending to our life, painless," *At Great Vespers*
 
-**Deacon:** "blameless, peaceful, and a good defense before the dread judgment seat of Christ, let us ask."
-**Choir:** "Grant this, O Lord."
-**Deacon:** "Remembering our all-holy, immaculate, most blessed, glorious Lady, the Mother of God and Ever-Virgin Mary, with all the saints, let us commend ourselves and one another, and our whole life unto Christ our God."
-**Choir:** "To Thee, O Lord."
+> **Deacon:** "blameless, peaceful, and a good defense before the dread judgment seat of Christ, let us ask."
+> **Choir:** "Grant this, O Lord."
+> **Deacon:** "Remembering our all-holy, immaculate, most blessed, glorious Lady, the Mother of God and Ever-Virgin Mary, with all the saints, let us commend ourselves and one another, and our whole life unto Christ our God."
+> **Choir:** "To Thee, O Lord."
 *Priest, exclamation:*
-**Priest:** "For Thou art a good God and the Lover of mankind, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
-**Choir:** "Amen."
-**Priest:** "Peace be unto all."
-**Choir:** "And to thy spirit."
+> **Priest:** "For Thou art a good God and the Lover of mankind, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
+> **Priest:** "Peace be unto all."
+> **Choir:** "And to thy spirit."
 *Deacon:*
-**Deacon:** "Bow your heads unto the Lord."
-**Choir:** "To Thee, O Lord."
+> **Deacon:** "Bow your heads unto the Lord."
+> **Choir:** "To Thee, O Lord."
 *The priest says this prayer in secret:*[^610]
 
 *The Order of Great Vespers*
 
 *Prayer at the Bowing of Heads:*
-**Priest:** "O Lord our God, Who didst bow the heavens and come down for the salvation of the human race: look down upon Thy servants and upon Thine inheritance. For unto Thee, the dread Judge and Lover of mankind, have Thy servants bowed their heads, not awaiting salvation from men, but awaiting Thy mercy, and looking for Thy salvation: preserve them at every time, and in" *At Great Vespers*
+> **Priest:** "O Lord our God, Who didst bow the heavens and come down for the salvation of the human race: look down upon Thy servants and upon Thine inheritance. For unto Thee, the dread Judge and Lover of mankind, have Thy servants bowed their heads, not awaiting salvation from men, but awaiting Thy mercy, and looking for Thy salvation: preserve them at every time, and in" *At Great Vespers*
 
-**Priest:** "this present evening, and in the approaching night, from every enemy, and from every adverse operation [of the devil], from vain thoughts, and from demonic lusts."
+> **Priest:** "this present evening, and in the approaching night, from every enemy, and from every adverse operation [of the devil], from vain thoughts, and from demonic lusts."
 *Exclamation:*
-**Priest:** "Blessed and glorified be the majesty of Thy kingdom: of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages."
-**Choir:** "Amen."
-*Then two candle-bearers preceding them, they go forth...*[^611]
-
-*The Order of Great Vespers*
+> **Priest:** "Blessed and glorified be the majesty of Thy kingdom: of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
+*Then two candle-bearers preceding them, they go forth*[^611] *The Order of Great Vespers*
 
 *...unto the narthex,[^612] singing the customary stichera of the feast, or whatever occur. And the deacon censes the narthex and the whole church; and he sets down the censer. Then, having come to the priest and both having made a bow, they turn their faces toward the people and stand. And after the completion of the singing of "Glory... Both now...", the deacon goes forth into the midst unto the customary place, and says the Litany of the Litiya:*[^613]
 
 *At Great Vespers*
 
-**Deacon:** "Save, O God, Thy people, and bless Thine inheritance; visit Thy world with mercy and compassions; exalt the horn of Christians,[^614] and send down upon us Thy rich mercies: through the intercessions of our all-pure Lady, the Mother of God and Ever-Virgin Mary; by the power of the precious and life-creating Cross; through the protection of the honorable heavenly Bodiless Hosts;..."
+> **Deacon:** "Save, O God, Thy people, and bless Thine inheritance; visit Thy world with mercy and compassions; exalt the horn of Christians,[^614] and send down upon us Thy rich mercies: through the intercessions of our all-pure Lady, the Mother of God and Ever-Virgin Mary; by the power of the precious and life-creating Cross; through the protection of the honorable heavenly Bodiless Hosts;" *The Order of Great Vespers*
 
-*The Order of Great Vespers*
+> **Deacon:** "...of the honorable and glorious Prophet, Forerunner, and Baptist John; of the holy, glorious, and all-praised Apostles; of the holy and victorious martyrs; of our venerable and God-bearing fathers; of the holy and righteous Ancestors of God, Joachim and Anna; of Saint *[Name]*, whose temple it is; and of all Thy saints: we beseech Thee, O most merciful Lord, give ear unto us" *At Great Vespers*
 
-**Deacon:** "...of the honorable and glorious Prophet, Forerunner, and Baptist John; of the holy, glorious, and all-praised Apostles; of the holy and victorious martyrs; of our venerable and God-bearing fathers; of the holy and righteous Ancestors of God, Joachim and Anna; of Saint *[Name]*, whose temple it is; and of all Thy saints: we beseech Thee, O most merciful Lord, give ear unto us" *At Great Vespers*
+> **Deacon:** "sinners praying unto Thee, and have mercy on us."
+> **Choir:** "Lord, have mercy," forty times.[^615]
+> **Deacon:** "Again we pray for our great King, *[Name]*, and for our pious lords and nobles:[^616] for their dominion, victory, endurance, peace, health, and salvation, and for the remission of their sins; and that the Lord our God may especially prosper and aid them in all things," *The Order of Great Vespers*
 
-**Deacon:** "sinners praying unto Thee, and have mercy on us."
-**Choir:** "Lord, have mercy," forty times.[^615]
-**Deacon:** "Again we pray for our great King, *[Name]*, and for our pious lords and nobles:[^616] for their dominion, victory, endurance, peace, health, and salvation, and for the remission of their sins; and that the Lord our God may especially prosper and aid them in all things," *The Order of Great Vespers*
+> **Deacon:** "and subdue under their feet every enemy and adversary."
+> **Choir:** "Lord, have mercy," thirty times.[^617]
+> **Deacon:** "Again we pray for the remission of sins of the servant of God, our father, the Hegumen, Hieromonk *[Name]*, and for all our brotherhood in Christ; and for every Christian soul that is afflicted and oppressed," *At Great Vespers*
 
-**Deacon:** "and subdue under their feet every enemy and adversary."
-**Choir:** "Lord, have mercy," thirty times.[^617]
-**Deacon:** "Again we pray for the remission of sins of the servant of God, our father, the Hegumen, Hieromonk *[Name]*, and for all our brotherhood in Christ; and for every Christian soul that is afflicted and oppressed," *At Great Vespers*
+> **Deacon:** "requiring God's mercy and help; for the protection of this holy place and those who dwell therein; for the pacification and good estate of the whole world; for the stable standing of the holy churches of God; for the salvation and help of our fathers and brethren who labor and serve with diligence and the fear of God; for those who have been sent forth and are absent; for the healing of those who" *The Order of Great Vespers*
 
-**Deacon:** "requiring God's mercy and help; for the protection of this holy place and those who dwell therein; for the pacification and good estate of the whole world; for the stable standing of the holy churches of God; for the salvation and help of our fathers and brethren who labor and serve with diligence and the fear of God; for those who have been sent forth and are absent; for the healing of those who" *The Order of Great Vespers*
-
-**Deacon:** "lie in sickness; for the repose of blessed memory and the remission of sins of all our fathers and brethren who have fallen asleep before us, who lie here and the Orthodox everywhere; for the deliverance of captives; and for our brethren who are in services; and for all who serve and have served in this holy monastery, let us all say:"
+> **Deacon:** "lie in sickness; for the repose of blessed memory and the remission of sins of all our fathers and brethren who have fallen asleep before us, who lie here and the Orthodox everywhere; for the deliverance of captives; and for our brethren who are in services; and for all who serve and have served in this holy monastery, let us all say:"
 
 *At Great Vespers*
 
-**Choir:** "Lord, have mercy," twenty times, from both choirs.[^618]
+> **Choir:** "Lord, have mercy," twenty times, from both choirs.[^618]
 *Priest, exclamation:*
-**Priest:** "Hear us, O God our Savior, the hope of all the ends of the earth and of those who are far off upon the sea; and be merciful, O Merciful One, unto us concerning our sins, and have mercy on us. For Thou art a merciful God and the Lover of mankind, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
-**Choir:** "Amen."
+> **Priest:** "Hear us, O God our Savior, the hope of all the ends of the earth and of those who are far off upon the sea; and be merciful, O Merciful One, unto us concerning our sins, and have mercy on us. For Thou art a merciful God and the Lover of mankind, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
 
 *The Order of Great Vespers*
 
-**Priest:** "Peace be unto all."
-**Choir:** "And to thy spirit."
-**Deacon:** "Bow your heads unto the Lord."
-**Choir:** "To Thee, O Lord."
+> **Priest:** "Peace be unto all."
+> **Choir:** "And to thy spirit."
+> **Deacon:** "Bow your heads unto the Lord."
+> **Choir:** "To Thee, O Lord."
 *And the priest says this prayer aloud, turning his face toward the west:*[^619]
-**Priest:** "O Master, greatly merciful Lord Jesus Christ our God: through the intercessions of our all-pure Lady, the Mother of God and Ever-Virgin Mary; by the power of the precious and life-creating Cross; through the protection of the honorable heavenly Bodiless Hosts;"
+> **Priest:** "O Master, greatly merciful Lord Jesus Christ our God: through the intercessions of our all-pure Lady, the Mother of God and Ever-Virgin Mary; by the power of the precious and life-creating Cross; through the protection of the honorable heavenly Bodiless Hosts;"
 
 *At Great Vespers*
 
-**Priest:** "of the honorable and glorious Prophet, Forerunner, and Baptist John; of the holy, glorious, and all-praised Apostles; of the holy and victorious martyrs; of our venerable and God-bearing fathers; of the holy and righteous Ancestors of God, Joachim and Anna; and of Saint *[Name]*, whose temple it is; and of all Thy saints: make our prayer acceptable; grant" *The Order of Great Vespers*
+> **Priest:** "of the honorable and glorious Prophet, Forerunner, and Baptist John; of the holy, glorious, and all-praised Apostles; of the holy and victorious martyrs; of our venerable and God-bearing fathers; of the holy and righteous Ancestors of God, Joachim and Anna; and of Saint *[Name]*, whose temple it is; and of all Thy saints: make our prayer acceptable; grant" *The Order of Great Vespers*
 
-**Priest:** "us remission of our transgressions; cover us under the shelter of Thy wings; drive away from us every enemy and adversary; make our life peaceful; O Lord, have mercy on us and on Thy world, and save our souls, for Thou art good and the Lover of mankind."
-**Choir:** "Amen."
+> **Priest:** "us remission of our transgressions; cover us under the shelter of Thy wings; drive away from us every enemy and adversary; make our life peaceful; O Lord, have mercy on us and on Thy world, and save our souls, for Thou art good and the Lover of mankind."
+> **Choir:** "Amen."
 *Then they enter into the church, singing the Aposticha stichera. And after their completion:*
-**Reader:** "Now lettest Thou Thy servant depart in peace, according to Thy word, for mine eyes have seen Thy salvation..."[^620]
+> **Reader:** "Now lettest Thou Thy servant depart in peace, according to Thy word, for mine eyes have seen Thy salvation..."[^620]
 *The Trisagion. After the "Our Father", the exclamation:*
 
 *At Great Vespers*
 
-**Priest:** "For Thine is the kingdom, and the power, and the glory: of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages."
-**Choir:** "Amen."
+> **Priest:** "For Thine is the kingdom, and the power, and the glory: of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
 *Then the chanters sing the troparia according to the custom.[^621] And the deacon censes around the table upon which [the offering] is prepared for blessing:*[^622]
 
-[Woodcut Engraving: The Liturgical Table of the Blessing of Loaves (tetrapod / litiya table), draped with an ornate fringed cloth, upon which are arranged cruciformly: at left, a two-handled flagon inscribed "oil" (*ма́сло*); in the center, a stemmed chalice inscribed "wheat" (*пшени́ца*) and a paten bearing five loaves inscribed "5 loaves" (*є҃ хлѣ́бъ*); and at right, a two-handled flagon inscribed "wine" (*вино̀*). The table stands upon two carved decorative trestle legs.]
+(*Woodcut Engraving: The Liturgical Table of the Blessing of Loaves (tetrapod / litiya table), draped with an ornate fringed cloth, upon which are arranged cruciformly: at left, a two-handled flagon inscribed "oil" (*ма́сло*); in the center, a stemmed chalice inscribed "wheat" (*пшени́ца*) and a paten bearing five loaves inscribed "5 loaves" (*є҃ хлѣ́бъ*); and at right, a two-handled flagon inscribed "wine" (*вино̀*). The table stands upon two carved decorative trestle legs.*)
 
 *The Order of Great Vespers*
 
@@ -261,54 +257,54 @@
 
 *At Great Vespers*
 
-**Deacon:** "Let us pray to the Lord."
-**Choir:** "Lord, have mercy."
-**Priest:** "O Lord Jesus Christ our God, Who didst bless the five loaves and satisfy five thousand of the people:"
+> **Deacon:** "Let us pray to the Lord."
+> **Choir:** "Lord, have mercy."
+> **Priest:** "O Lord Jesus Christ our God, Who didst bless the five loaves and satisfy five thousand of the people:"
 *And he places the loaf back in its place upon the four; and turning his hand palm upward, he points toward the loaves, saying:*[^625]
-**Priest:** "Do Thou Thyself, O Lord, bless these loaves,"
+> **Priest:** "Do Thou Thyself, O Lord, bless these loaves,"
 *Then he points toward the wheat, saying:*
-**Priest:** "the wheat,"
+> **Priest:** "the wheat,"
 *And over the wine which is toward the right choir, saying:*
-**Priest:** "the wine;"
+> **Priest:** "the wine;"
 *Then The Order of Great Vespers*
 
 *over the oil, saying:*
-**Priest:** "and the oil; and multiply them."
+> **Priest:** "and the oil; and multiply them."
 *And the rest. The Prayer:*[^626]
-**Priest:** "O Lord Jesus Christ our God, Who didst bless the five loaves and satisfy five thousand of the people: do Thou Thyself, O Master, bless these loaves, the wheat, the wine, and the oil; and multiply them in this holy monastery, and in Thy world always; and sanctify those who partake of them. For Thou art" *At Great Vespers*
+> **Priest:** "O Lord Jesus Christ our God, Who didst bless the five loaves and satisfy five thousand of the people: do Thou Thyself, O Master, bless these loaves, the wheat, the wine, and the oil; and multiply them in this holy monastery, and in Thy world always; and sanctify those who partake of them. For Thou art" *At Great Vespers*
 
-**Priest:** "He that blesses and sanctifies all things, and unto Thee do we send up glory, with Thine unoriginate Father, and Thine all-holy, good, and life-creating Spirit, now and ever, and unto ages of ages. Amen."
-**Choir:** "Blessed be the name of the Lord," thrice.[^627]
+> **Priest:** "He that blesses and sanctifies all things, and unto Thee do we send up glory, with Thine unoriginate Father, and Thine all-holy, good, and life-creating Spirit, now and ever, and unto ages of ages. Amen."
+> **Choir:** "Blessed be the name of the Lord," thrice.[^627]
 *And Psalm 33:*
-**Reader:** "I will bless the Lord at all times...", *down to:* "shall not want any good thing."[^628]
+> **Reader:** "I will bless the Lord at all times...", *down to:* "shall not want any good thing."[^628]
 *And the priest stands before the Holy Doors [lit. Great Doors],[^629] awaiting the completion of the psalm.*
 
 *The Order of Great Vespers*
 
 *He says:*
-**Priest:** "The blessing of the Lord be upon you, always, now and ever, and unto ages of ages."
+> **Priest:** "The blessing of the Lord be upon you, always, now and ever, and unto ages of ages."
 *Then the reader, having announced the title from the Acts of the Apostles, or the Epistles of Paul, or the Life of the Saint, says:*[^630]
-**Reader:** "Bless, father."
-**Priest:** "Blessed is our God, always, now and ever, and unto ages of ages."
-**Reader:** "Amen."
+> **Reader:** "Bless, father."
+> **Priest:** "Blessed is our God, always, now and ever, and unto ages of ages."
+> **Reader:** "Amen."
 *And he reads as much as is required.*
 *But if it be Great Vespers and there be no blessing of loaves, then after the Aposticha:*[^631]
 
 *At Great Vespers*
 
-**Reader:** "Now lettest Thou Thy servant depart in peace..."
+> **Reader:** "Now lettest Thou Thy servant depart in peace..."
 *The Trisagion. After the "Our Father", the troparia according to the custom. Then the deacon opens the Holy Doors [lit. Great Doors],[^632] and proclaims:*
-**Deacon:** "Wisdom!"
-**Choir:** "Bless."
-**Priest:** "Blessed and supreme in glory is Christ our God, always, now and ever, and unto ages of ages."[^633]
-**Choir:** "Amen. More honorable than the Cherubim, and more glorious beyond compare than the Seraphim, who without corruption didst bear God the Word: thee, the true Mother of God, we magnify."
-**Priest:** "Glory to Thee, O Christ God, our hope, glory to Thee."
-**Choir:** "Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto ages of ages. Amen. Lord, have mercy," thrice. "Bless."
+> **Deacon:** "Wisdom!"
+> **Choir:** "Bless."
+> **Priest:** "Blessed and supreme in glory is Christ our God, always, now and ever, and unto ages of ages."[^633]
+> **Choir:** "Amen. More honorable than the Cherubim, and more glorious beyond compare than the Seraphim, who without corruption didst bear God the Word: thee, the true Mother of God, we magnify."
+> **Priest:** "Glory to Thee, O Christ God, our hope, glory to Thee."
+> **Choir:** "Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto ages of ages. Amen. Lord, have mercy," thrice. "Bless."
 *Then the priest gives the dismissal, without saying The Order of Great Vespers*
 
 *on Saturday evening at the dismissal:* "Who rose from the dead;" *but:*[^634]
-**Priest:** "Christ our true God, through the intercessions of His all-pure Mother; of the holy, glorious, and all-praised Apostles; and of all the saints, have mercy on us and save us, for He is a good God and the Lover of mankind."
-**Choir:** "Amen."
+> **Priest:** "Christ our true God, through the intercessions of His all-pure Mother; of the holy, glorious, and all-praised Apostles; and of all the saints, have mercy on us and save us, for He is a good God and the Lover of mankind."
+> **Choir:** "Amen."
 
 **THE END [OF GREAT VESPERS]**
 
@@ -319,82 +315,80 @@
 ## PRAYER RECITED ON SUNDAYS AND DAILY AFTER COMPLINE AND MIDNIGHT OFFICE[^635]
 
 *This prayer is said on Sunday after the Trinity Canon, and on every day after every Compline and Midnight Office, after the singing of the Troparia:* "Have mercy on us, O Lord, have mercy on us..." *The priest, having come before the Holy Doors [lit. Great Doors],[^636] and having put on the epitrachelion, says:*
-**Priest:** "Have mercy on us, O God, according to Thy great mercy, we pray Thee, give ear and have mercy."
+> **Priest:** "Have mercy on us, O God, according to Thy great mercy, we pray Thee, give ear and have mercy."
 
 *On Sunday after the Trinity Canon*
 
-**Priest:** "Again we pray that this place and this holy monastery, and every city and countryside,[^637] may be preserved from famine, pestilence, earthquake, flood, fire, sword, the invasion of foreigners, and civil strife; and that our good and Lover of mankind God may be merciful, favorably disposed, and easily entreated," *On Sunday after the Trinity Canon*
+> **Priest:** "Again we pray that this place and this holy monastery, and every city and countryside,[^637] may be preserved from famine, pestilence, earthquake, flood, fire, sword, the invasion of foreigners, and civil strife; and that our good and Lover of mankind God may be merciful, favorably disposed, and easily entreated," *On Sunday after the Trinity Canon*
 
-**Priest:** "forgiving our sins; and may turn away all His righteous wrath stirred up against us, and have mercy on us."
+> **Priest:** "forgiving our sins; and may turn away all His righteous wrath stirred up against us, and have mercy on us."
 *And if there be a drought, say this:*[^638]
-**Priest:** "And that He may send down rain in His lovingkindness, let us all say:"
-**Choir:** "Lord, have mercy," forty times.[^639]
+> **Priest:** "And that He may send down rain in His lovingkindness, let us all say:"
+> **Choir:** "Lord, have mercy," forty times.[^639]
 *Exclamation:*
-**Priest:** "Hear us, O God our Savior, [the hope of all the ends of the earth and of those who are far off upon the sea; and be merciful, O Merciful One, unto us concerning our sins, and have mercy on us. For Thou art a merciful God and the Lover of mankind, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages]."
-**Choir:** "Amen. Glory... Both now...", "Lord, have mercy," thrice; "Bless."
+> **Priest:** "Hear us, O God our Savior, [the hope of all the ends of the earth and of those who are far off upon the sea; and be merciful, O Merciful One, unto us concerning our sins, and have mercy on us. For Thou art a merciful God and the Lover of mankind, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages]."
+> **Choir:** "Amen. Glory... Both now...", "Lord, have mercy," thrice; "Bless."
 *The dismissal:*
-**Priest:** "He that rose from the dead..."[^640]
-
-*The Order after Compline and Midnight Office*
+> **Priest:** "He that rose from the dead"[^640] *The Order after Compline and Midnight Office*
 
 *And if it be on another day, say thus:*
-**Priest:** "Christ our true God, through the intercessions of His all-pure Mother; of our venerable and God-bearing fathers, and of all the saints, have mercy on us and save us, for He is a good God and the Lover of mankind."
+> **Priest:** "Christ our true God, through the intercessions of His all-pure Mother; of our venerable and God-bearing fathers, and of all the saints, have mercy on us and save us, for He is a good God and the Lover of mankind."
 *And so taking off the epitrachelion, and turning to the people, having made a prostration [metania],[^641] he says quietly:*
-**Priest:** "Bless me, holy fathers,[^642] and forgive me, a sinner."
+> **Priest:** "Bless me, holy fathers,[^642] and forgive me, a sinner."
 
 *On Sunday after the Trinity Canon*
 
 *And the choir answers him, saying:*
-**Choir:** "May God forgive and have mercy on thee."
+> **Choir:** "May God forgive and have mercy on thee."
 *Likewise all say the same to one another, gently. Then the priest [says]:*[^643]
-**Priest:** "Let us pray for our pious and God-preserved rulers and our princes:"[^644]
+> **Priest:** "Let us pray for our pious and God-preserved rulers and our princes:"[^644]
 *And the choir to every petition says the response:*
-**Choir:** "May God forgive and have mercy on them."[^645]
-**Priest:** "For their Christ-loving armies:"
+> **Choir:** "May God forgive and have mercy on them."[^645]
+> **Priest:** "For their Christ-loving armies:"
 
 *The Order after Compline and Midnight Office*
 
-**Priest:** "For our founders [ktitors]:"[^646]
+> **Priest:** "For our founders [ktitors]:"[^646]
 *Choir: "May God forgive and have mercy on them."*
-**Priest:** "For our bishop, *[Name]*:"
+> **Priest:** "For our bishop, *[Name]*:"
 *Choir: "May God forgive and have mercy on him."*
 *If it be in a monastery, say:*
-**Priest:** "For our father, Hegumen, Hieromonk *[Name]*, and all our brotherhood in Christ:"
+> **Priest:** "For our father, Hegumen, Hieromonk *[Name]*, and all our brotherhood in Christ:"
 *Choir: "May God forgive and have mercy on them."*
 *If not in a monastery, say:*
-**Priest:** "For our spiritual fathers, and all our brotherhood in Christ:"
+> **Priest:** "For our spiritual fathers, and all our brotherhood in Christ:"
 *Choir: "May God forgive and have mercy on them."*
-**Priest:** "For our fathers and brethren sent on missions; for those who serve and have served us:"
+> **Priest:** "For our fathers and brethren sent on missions; for those who serve and have served us:"
 
 *On Sunday after the Trinity Canon*
 
 *Choir: "May God forgive and have mercy on them."*
-**Priest:** "For those who have given us alms:"
+> **Priest:** "For those who have given us alms:"
 *Choir: "May God forgive and have mercy on them."*
-**Priest:** "And for those who have enjoined us, unworthy though we be, to pray for them:"
+> **Priest:** "And for those who have enjoined us, unworthy though we be, to pray for them:"
 *Choir: "May God forgive and have mercy on them."*
-**Priest:** "For Orthodox Christians sailing upon the waters:"
+> **Priest:** "For Orthodox Christians sailing upon the waters:"
 *Choir: "May God forgive and have mercy on them."*
-**Priest:** "For those in sickness and those in captivity:"[^647]
+> **Priest:** "For those in sickness and those in captivity:"[^647]
 *Choir: "May God forgive and have mercy on them."*
-**Priest:** "And for all Orthodox Christians; and for the abundance of the fruits of the earth:"
-**Choir:** "May God increase the fruit of the earth."
+> **Priest:** "And for all Orthodox Christians; and for the abundance of the fruits of the earth:"
+> **Choir:** "May God increase the fruit of the earth."
 *Then if it be Sunday, the reader, having recited the title of the Apostle*[^648] *The Order after Compline and Midnight Office*
 
 *or whatever other reading may occur; and the priest exclaims:*[^649]
-**Priest:** "Through the prayers of our holy fathers..."
+> **Priest:** "Through the prayers of our holy fathers..."
 *And so the reader reads. But if it be not Sunday, nor a prominent saint,[^650] the priest says this also:*
-**Priest:** "Let us remember our Orthodox rulers; and the founders [ktitors] of this holy temple; our parents and our kinsmen; and our fathers and brethren who have fallen asleep before us, who lie here and the Orthodox everywhere."
+> **Priest:** "Let us remember our Orthodox rulers; and the founders [ktitors] of this holy temple; our parents and our kinsmen; and our fathers and brethren who have fallen asleep before us, who lie here and the Orthodox everywhere."
 
 *At Great Vespers [and the Concluding Offices]*
 
 *And the choir to all these petitions answers:*
-**Choir:** "May God remember and give rest unto them."
+> **Choir:** "May God remember and give rest unto them."
 *And at the conclusion, having said:*
-**Choir:** "Eternal memory be theirs."[^651]
+> **Choir:** "Eternal memory be theirs."[^651]
 *And the superior exclaims:*
-**Priest:** "Through the prayers of our holy fathers, O Lord Jesus Christ our God, have mercy on us."
-**Choir:** "Amen."
+> **Priest:** "Through the prayers of our holy fathers, O Lord Jesus Christ our God, have mercy on us."
+> **Choir:** "Amen."
 
 **THE END [OF THE ORDER AFTER COMPLINE AND MIDNIGHT OFFICE]**
 
@@ -405,183 +399,181 @@
 ## THE ALL-NIGHT VIGIL OFFICE [MATINS][^652]
 
 *The priest, having taken the epitrachelion and having opened the curtain [katapetasma],[^653] begins with the censer:*
-**Priest:** "Blessed is our God, always, now and ever, and unto ages of ages."
+> **Priest:** "Blessed is our God, always, now and ever, and unto ages of ages."
 
 *At Matins*
 
 *And he censes the holy table and the whole church. And the choir says:*
-**Choir:** "Come, let us worship," thrice.
+> **Choir:** "Come, let us worship," thrice.
 *Psalm 19:*[^654]
-**Reader:** "The Lord give ear unto thee in the day of affliction; the Name of the God of Jacob defend thee..."
+> **Reader:** "The Lord give ear unto thee in the day of affliction; the Name of the God of Jacob defend thee..."
 *Another [Psalm 20]:*[^655]
-**Reader:** "The king shall be glad in Thy strength, O Lord; and in Thy salvation he shall rejoice exceedingly..."
+> **Reader:** "The king shall be glad in Thy strength, O Lord; and in Thy salvation he shall rejoice exceedingly..."
 *Glory... Both now... The Trisagion. "Our Father..." Exclamation:*
-**Priest:** "For Thine is the kingdom, [and the power, and the glory: of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages]."
+> **Priest:** "For Thine is the kingdom, [and the power, and the glory: of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages]."
 *Troparia:*
-**Choir:** "O Lord, save Thy people, and bless Thine inheritance..."[^656]
-**Choir:** "Glory..."
-**Choir:** "Thou Who of Thine own will wast lifted up upon the Cross..."[^657]
-**Choir:** "Both now..."
+> **Choir:** "O Lord, save Thy people, and bless Thine inheritance..."[^656]
+> **Choir:** "Glory..."
+> **Choir:** "Thou Who of Thine own will wast lifted up upon the Cross..."[^657]
+> **Choir:** "Both now..."
 *Theotokion:*
-**Choir:** "O Champion Dread and unashamed..."[^658]
+> **Choir:** "O Champion Dread and unashamed..."[^658]
 *And the priest, having entered into the altar, says:*
-**Priest:** "Have mercy on us, O God, [according to Thy great mercy, we pray Thee, give ear and have mercy]."
-**Priest:** "Again we pray for our great king," *The Order of the All-Night Vigil*
+> **Priest:** "Have mercy on us, O God, [according to Thy great mercy, we pray Thee, give ear and have mercy]."
+> **Priest:** "Again we pray for our great king," *The Order of the All-Night Vigil*
 
-**Priest:** "*[Name]*."
-**Priest:** "Again we pray for all our brotherhood, and for all."
+> **Priest:** "*[Name]*."
+> **Priest:** "Again we pray for all our brotherhood, and for all."
 *Exclamation:*
-**Priest:** "For Thou art a merciful God and the Lover of mankind, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
+> **Priest:** "For Thou art a merciful God and the Lover of mankind, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
 *Then he exclaims with a loud voice:*[^659]
-**Priest:** "Glory to the holy, consubstantial, life-creating, and undivided Trinity, always, now and ever, and unto ages of ages."
+> **Priest:** "Glory to the holy, consubstantial, life-creating, and undivided Trinity, always, now and ever, and unto ages of ages."
 
 *At Matins*
 
-**Choir:** "Amen."
+> **Choir:** "Amen."
 *Then: "Glory to God in the highest..." and the other [Six Psalms].[^660] After the conclusion of Psalm 87: "O Lord God of my salvation..."[^661] the priest says the Morning Prayers in the altar.[^662] And after the conclusion of the psalms, the deacon says the Great Litany:*
-**Deacon:** "In peace let us pray unto the Lord..."
+> **Deacon:** "In peace let us pray unto the Lord..."
 *and the rest. Exclamation:*
-**Priest:** "For unto Thee is due all glory, honor, and worship: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
+> **Priest:** "For unto Thee is due all glory, honor, and worship: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
 *Then: "God is the Lord, and hath appeared unto us..."[^663] After the first Kathisma, the Little Litany:*
 
 *The Order of the All-Night Vigil*
 
-**Deacon:** "Again and again in peace let us pray unto the Lord."
-**Deacon:** "Help us, save us, [have mercy on us, and keep us, O God, by Thy grace]."
-**Deacon:** "Commemorating our all-holy, immaculate, [most blessed and glorious Lady Theotokos and Ever-Virgin Mary, with all the saints]..."
+> **Deacon:** "Again and again in peace let us pray unto the Lord."
+> **Deacon:** "Help us, save us, [have mercy on us, and keep us, O God, by Thy grace]."
+> **Deacon:** "Commemorating our all-holy, immaculate, [most blessed and glorious Lady Theotokos and Ever-Virgin Mary, with all the saints]..."
 *Exclamation:*
-**Priest:** "For Thine is the majesty, and Thine is the kingdom, and the power, and the glory: of the Father, and of the Son, and of the Holy Spirit, now and ever, [and unto ages of ages]."
+> **Priest:** "For Thine is the majesty, and Thine is the kingdom, and the power, and the glory: of the Father, and of the Son, and of the Holy Spirit, now and ever, [and unto ages of ages]."
 *After the second Kathisma, the litany. Exclamation:*
-**Priest:** "For Thou art a good God and the Lover of mankind, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
+> **Priest:** "For Thou art a good God and the Lover of mankind, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
 *Then the Blameless [Amomos / Psalm 118].[^664] And after the second choir [sings], the deacon censes in the holy altar, At Matins*
 
 *having made a prostration [metania] to the superior; and having entered into the altar, he vests in his sticharion, and places the orarion upon his shoulder; and he censes the holy altar and the whole church. And the choirs sing the Troparia of the Resurrection:*[^665]
-**Choir:** "The assembly of the Angels was amazed, beholding Thee numbered among the dead..."
+> **Choir:** "The assembly of the Angels was amazed, beholding Thee numbered among the dead..."
 *And at the conclusion, the Little Litany. And after the third Kathisma, exclamation:*
-**Priest:** "For blessed and glorified is Thine all-honorable and majestic Name: of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages."
+> **Priest:** "For blessed and glorified is Thine all-honorable and majestic Name: of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages."
 
 *The Order of the All-Night Vigil*
 
 *If it occur on Sunday, [after] the Polyeleos, the litany.[^666] Exclamation:*[^667]
-**Priest:** "For sanctified and glorified is Thine all-honorable and majestic Name: of the Father, and of the Son, and of the Holy Spirit, now and ever, [and unto ages of ages]."
+> **Priest:** "For sanctified and glorified is Thine all-honorable and majestic Name: of the Father, and of the Son, and of the Holy Spirit, now and ever, [and unto ages of ages]."
 *Then the Antiphons [Hymns of Degrees / Anabathmoi],[^668] the Prokeimenon. Deacon:*
-**Deacon:** "Let us pray unto the Lord."
+> **Deacon:** "Let us pray unto the Lord."
 *Priest:*
-**Priest:** "For holy art Thou, O our God, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
-**Deacon:**
+> **Priest:** "For holy art Thou, O our God, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
+> **Deacon:** ""
 
 *At Matins*
 
-**Deacon:** "Let every breath praise the Lord."
+> **Deacon:** "Let every breath praise the Lord."
 *Verse:* "Praise God in His saints."[^669]
-**Deacon:** "And that we may be accounted worthy to hear the holy Gospel, let us pray unto the Lord God."
-**Deacon:** "Wisdom! Stand upright! Let us hear the holy Gospel."
-**Priest:** "Peace be unto all."
-**Priest:** "The reading from the holy Gospel according to *[Name]*."
-**Deacon:** "Let us attend!"
+> **Deacon:** "And that we may be accounted worthy to hear the holy Gospel, let us pray unto the Lord God."
+> **Deacon:** "Wisdom! Stand upright! Let us hear the holy Gospel."
+> **Priest:** "Peace be unto all."
+> **Priest:** "The reading from the holy Gospel according to *[Name]*."
+> **Deacon:** "Let us attend!"
 *After the Gospel, the sticheron is not sung;[^670] then the deacon says: "O God, save Thy people..."[^671] Choir: "Lord, have mercy," 12 times. And the priest exclaims:*
-**Priest:** "Through the mercy and compassions and love for mankind" *The Order of the All-Night Vigil*
+> **Priest:** "Through the mercy and compassions and love for mankind" *The Order of the All-Night Vigil*
 
-**Priest:** "of Thine only-begotten Son, with Whom Thou art blessed, together with Thine all-holy, good, and life-creating Spirit, now and ever, and unto ages of ages. [Amen]."
+> **Priest:** "of Thine only-begotten Son, with Whom Thou art blessed, together with Thine all-holy, good, and life-creating Spirit, now and ever, and unto ages of ages. [Amen]."
 *Then the chanters sing the Canon.[^672] And the deacon censes the holy altar and the whole church. After the Third Ode, the Little Litany. Exclamation:*
-**Priest:** "For Thou art our God, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, [and unto ages of ages]."
+> **Priest:** "For Thou art our God, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, [and unto ages of ages]."
 *After the Sixth Ode, the litany. Exclamation:*
 
 *At Matins*
 
-**Priest:** "For Thou art the King of peace and the Savior of our souls, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, [and unto ages of ages]."
+> **Priest:** "For Thou art the King of peace and the Savior of our souls, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, [and unto ages of ages]."
 *At the Ninth Ode: The deacon censes the holy altar and the whole church; and he says the Little Litany. The priest exclaims:*[^673]
-**Priest:** "For all the powers of heaven praise Thee, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, [and unto ages of ages]."
+> **Priest:** "For all the powers of heaven praise Thee, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, [and unto ages of ages]."
 *If it be Sunday, the deacon says with a loud voice:*
 
 *The Order of the All-Night Vigil*
 
-**Deacon:** "Holy is the Lord our God."[^674]
+> **Deacon:** "Holy is the Lord our God."[^674]
 *And if it be another day, it is not said. At the Praises:* "Let every breath..." *the stichera are sung by the chanters.[^675] And the priest with the deacon go forth from the altar, and make a reverence first to the icons, then also to the people once; and the priest stands before the icon of the Holy Theotokos, and the deacon before the icon of Christ.[^676] And after the conclusion of the Great Doxology,[^677] the priest, having entered into the altar, and the deacon At Matins*
 
 *having stood in his customary place, says:*
-**Deacon:** "Have mercy on us, O God, according to Thy great mercy, we pray Thee, give ear and have mercy."
+> **Deacon:** "Have mercy on us, O God, according to Thy great mercy, we pray Thee, give ear and have mercy."
 *Deacon: "Again we pray for our great king..."*
 *Deacon: "Again we pray for our bishop..." and the rest, as indicated at Vespers.[^678]*
 *Deacon: "Again we pray for our fathers..."*
 *Deacon: "Again we pray for the people here present..."*
 *Deacon: "Again we pray for all our brotherhood..."*
 *The priest exclaims:*
-**Priest:** "For Thou art a merciful God and the Lover of mankind, and unto Thee" *The Order of the All-Night Vigil*
+> **Priest:** "For Thou art a merciful God and the Lover of mankind, and unto Thee" *The Order of the All-Night Vigil*
 
-**Priest:** "do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, [and unto ages of ages]."
+> **Priest:** "do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, [and unto ages of ages]."
 *Deacon:*
-**Deacon:** "Let us complete our morning prayer unto the Lord."[^679]
-**Deacon:** "Help us, save us, [have mercy on us, and keep us, O God, by Thy grace]."
-**Deacon:** "That the whole morning may be perfect, holy, peaceful, and sinless, let us ask of the Lord."
-**Deacon:** "An angel of peace, a faithful guide, a guardian of our souls and bodies, let us ask of the Lord."
-**Deacon:** "Pardon and remission of our sins and transgressions, let us ask of the Lord."
-**Deacon:** "Things good and profitable for our souls, and peace for the world, let us ask of the Lord."
-**Deacon:** "That we may complete the remaining time of our life in peace and repentance, let us ask of the Lord."
-**Deacon:** "A Christian ending to our life: painless, blameless, peaceful; and a good defense before the dread judgment seat of Christ, let us ask."
-**Deacon:** "Commemorating our all-holy, immaculate, most blessed and glorious Lady Theotokos and Ever-Virgin Mary, with all the saints, let us commend ourselves and one another, and all our life unto Christ our God."
+> **Deacon:** "Let us complete our morning prayer unto the Lord."[^679]
+> **Deacon:** "Help us, save us, [have mercy on us, and keep us, O God, by Thy grace]."
+> **Deacon:** "That the whole morning may be perfect, holy, peaceful, and sinless, let us ask of the Lord."
+> **Deacon:** "An angel of peace, a faithful guide, a guardian of our souls and bodies, let us ask of the Lord."
+> **Deacon:** "Pardon and remission of our sins and transgressions, let us ask of the Lord."
+> **Deacon:** "Things good and profitable for our souls, and peace for the world, let us ask of the Lord."
+> **Deacon:** "That we may complete the remaining time of our life in peace and repentance, let us ask of the Lord."
+> **Deacon:** "A Christian ending to our life: painless, blameless, peaceful; and a good defense before the dread judgment seat of Christ, let us ask."
+> **Deacon:** "Commemorating our all-holy, immaculate, most blessed and glorious Lady Theotokos and Ever-Virgin Mary, with all the saints, let us commend ourselves and one another, and all our life unto Christ our God."
 *Exclamation:*
-**Priest:** "For a God of mercy, compassions," *At Matins*
+> **Priest:** "For a God of mercy, compassions," *At Matins*
 
-**Priest:** "and love for mankind art Thou, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, [and unto ages of ages]."
-**Priest:** "Peace be unto all."
-**Deacon:** "Bow your heads unto the Lord."
+> **Priest:** "and love for mankind art Thou, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, [and unto ages of ages]."
+> **Priest:** "Peace be unto all."
+> **Deacon:** "Bow your heads unto the Lord."
 *The priest says this prayer secretly:*[^680]
-**Priest:** "O Holy Lord, Who dwellest on high, and with Thine all-seeing eye lookest down upon all creation: for unto Thee have we bowed the necks of our heart and body; and we beseech Thee..."
+> **Priest:** "O Holy Lord, Who dwellest on high, and with Thine all-seeing eye lookest down upon all creation: for unto Thee have we bowed the necks of our heart and body; and we beseech Thee" *The Order of the All-Night Vigil*
 
-*The Order of the All-Night Vigil*
-
-**Priest:** "look down invisibly with Thy hand from Thy holy habitation, and bless us; and whereinsoever we have sinned, voluntarily or involuntarily, do Thou as a good God and the Lover of mankind forgive, granting unto us Thy earthly blessings."[^681]
+> **Priest:** "look down invisibly with Thy hand from Thy holy habitation, and bless us; and whereinsoever we have sinned, voluntarily or involuntarily, do Thou as a good God and the Lover of mankind forgive, granting unto us Thy earthly blessings."[^681]
 *Exclamation:*
-**Priest:** "For Thine it is to have mercy and to save us, O our God, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, [and unto ages of ages]."[^682]
-**Deacon:** "[Wisdom!]"
-**Choir:** "[Bless.]"
-**Priest:**
+> **Priest:** "For Thine it is to have mercy and to save us, O our God, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, [and unto ages of ages]."[^682]
+> **Deacon:** "[Wisdom!]"
+> **Choir:** "[Bless.]"
+> **Priest:** ""
 
 *Sunday*
 
-**Priest:** "Blessed and praised is He Who is,[^683] Christ our God, [always, now and ever, and unto ages of ages]."
-**Choir:** "More honorable than the Cherubim..."[^684]
-**Priest:** "Glory to Thee, O Christ God, our hope, glory to Thee."
-**Choir:** "Glory... Both now... Lord, have mercy," thrice. "Bless."
+> **Priest:** "Blessed and praised is He Who is,[^683] Christ our God, [always, now and ever, and unto ages of ages]."
+> **Choir:** "More honorable than the Cherubim..."[^684]
+> **Priest:** "Glory to Thee, O Christ God, our hope, glory to Thee."
+> **Choir:** "Glory... Both now... Lord, have mercy," thrice. "Bless."
 *Then the priest says the dismissal:*[^685]
 *On Sunday, after Matins:*
-**Priest:** "[May He Who] rose from the dead,[^686] Christ our true God, through the prayers of His most pure Mother, by the power of the precious and life-creating Cross, of the holy, glorious, *The Order of the All-Night Vigil*
+> **Priest:** "[May He Who] rose from the dead,[^686] Christ our true God, through the prayers of His most pure Mother, by the power of the precious and life-creating Cross, of the holy, glorious, *The Order of the All-Night Vigil*
 
-**Priest:** "and all-praiseworthy Apostles; *and if there is a celebrated saint, commemorate him also: [Name],* and of all the saints, have mercy on us and save us."[^687]
+> **Priest:** "and all-praiseworthy Apostles; *and if there is a celebrated saint, commemorate him also: [Name],* and of all the saints, have mercy on us and save us."[^687]
 *This after the First Hour:*[^688]
 *And after the First Hour:*
-**Priest:** "May He Who rose from the dead, Christ our true God, through the prayers of His most pure Mother, of our venerable and God-bearing fathers, and of all the saints, have mercy on us and save us, for He is good and the Lover of mankind."[^689]
+> **Priest:** "May He Who rose from the dead, Christ our true God, through the prayers of His most pure Mother, of our venerable and God-bearing fathers, and of all the saints, have mercy on us and save us, for He is good and the Lover of mankind."[^689]
 
 [Woodcut Headpiece: Renaissance typographical headband with central medallion enclosing an eagle with open tablet inscribed with the Holy Life-Creating Trinity.]
 
 ## ON DAILY VESPERS AND MATINS[^690]
 
 *It is necessary to know this also: that when there is no Entrance,*[^691] *nor Great Doxology for the saint, then the beginning of Vespers is made before the Holy Doors;*[^692] *and there the prayers are said, after censing.*[^693] *In the altar, the Little Litany [is said],*[^694] *and the exclamation:*
-**Priest:** "For Thine is the dominion, [and Thine is the kingdom, and the power, and the glory: of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages]."[^695]
+> **Priest:** "For Thine is the dominion, [and Thine is the kingdom, and the power, and the glory: of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages]."[^695]
 
 *The Daily Order*
 
 *It is necessary to cense the whole church at "Lord, I have cried,"*[^696] *on the eves [of feasts], and on feasts, and on other days.*
 *After "Vouchsafe, O Lord," at Vespers:*
-**Deacon:** "Let us complete our evening prayer [unto the Lord]," *before the Holy Doors; and the rest as (see fol. 228r–229v / pp. 443–446).*[^697]
+> **Deacon:** "Let us complete our evening prayer [unto the Lord]," *before the Holy Doors; and the rest as (see fol. 228r–229v / pp. 443–446).*[^697]
 *Then the Aposticha stichera; after them the dismissal troparion. Then the priest says the litany before the Holy Doors:*[^698]
-**Priest:** "Have mercy on us, O God, [according to Thy great mercy, we pray Thee, give ear and have mercy]."
-**Priest:** "Again we pray for our great king [Name]."
-**Priest:** "Again we pray for our bishop [Name]."
+> **Priest:** "Have mercy on us, O God, [according to Thy great mercy, we pray Thee, give ear and have mercy]."
+> **Priest:** "Again we pray for our great king [Name]."
+> **Priest:** "Again we pray for our bishop [Name]."
 *If it is in a monastery, say this:*
-**Priest:** "Again we pray for the remission [and forgiveness of sins of the servants of God, the brethren of this holy monastery]."[^699]
+> **Priest:** "Again we pray for the remission [and forgiveness of sins of the servants of God, the brethren of this holy monastery]."[^699]
 
 *Daily [Services]*
 
 *If it is not in a monastery, say this:*
-**Priest:** "Again we pray for our fathers [and brethren, the Orthodox Christians]."
-**Priest:** "Again we pray for the people here present, [who await of Thee great and abundant mercy]."
-**Priest:** "Again we pray for all our brotherhood."
+> **Priest:** "Again we pray for our fathers [and brethren, the Orthodox Christians]."
+> **Priest:** "Again we pray for the people here present, [who await of Thee great and abundant mercy]."
+> **Priest:** "Again we pray for all our brotherhood."
 *Exclamation:*
-**Priest:** "For a merciful God and the Lover of mankind art Thou, [and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages]."
-**Deacon:** "Wisdom!"
-**Priest:** "Blessed and praised is He Who is, Christ our God, [always, now and ever, and unto ages of ages]."
+> **Priest:** "For a merciful God and the Lover of mankind art Thou, [and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages]."
+> **Deacon:** "Wisdom!"
+> **Priest:** "Blessed and praised is He Who is, Christ our God, [always, now and ever, and unto ages of ages]."
 *And the dismissal.*[^700]
 
 [Typographical Tailpiece: Interlaced foliage and palmettes band.]
@@ -592,38 +584,36 @@
 
 *before the Six Psalms.*[^702]
 *The litany [is said] in the altar, with the censer:*[^703]
-**Priest:** "Have mercy on us, O God, according to Thy great [mercy]..."
-**Priest:** "Again we pray for our great king [Name]."
-**Priest:** "Again we pray for all our brotherhood."
+> **Priest:** "Have mercy on us, O God, according to Thy great [mercy]..."
+> **Priest:** "Again we pray for our great king [Name]."
+> **Priest:** "Again we pray for all our brotherhood."
 *Exclamation:*
-**Priest:** "For a merciful [God and the Lover of mankind art Thou]..."
+> **Priest:** "For a merciful [God and the Lover of mankind art Thou]..."
 *Then he exclaims:*
-**Priest:** "Glory to the holy, consubstantial, [life-creating, and undivided Trinity, always, now and ever, and unto ages of ages]."[^704]
+> **Priest:** "Glory to the holy, consubstantial, [life-creating, and undivided Trinity, always, now and ever, and unto ages of ages]."[^704]
 *The prayers and the diaconal petitions are said before the Holy Doors throughout the entire Matins service;*[^705] *only after the Fourth Ode are the diaconal petitions said in the altar.*[^706]
 *And it is necessary to cense Daily [Services]*
 
 *on all days at the Fourth Ode.*[^707]
 *And after the recitation of "Glory to God in the highest," the priest says the diaconal petitions before the Holy Doors:*[^708]
-**Priest:** "Let us complete our morning prayer [unto the Lord]."
-**Priest:** "Help us, save us, [have mercy on us, and keep us, O God, by Thy grace]."
-**Priest:** "That the whole morning may be perfect, [holy, peaceful, and sinless, let us ask of the Lord];" *and the rest.*
+> **Priest:** "Let us complete our morning prayer [unto the Lord]."
+> **Priest:** "Help us, save us, [have mercy on us, and keep us, O God, by Thy grace]."
+> **Priest:** "That the whole morning may be perfect, [holy, peaceful, and sinless, let us ask of the Lord];" *and the rest.*
 *Exclamation:*
-**Priest:** "For a God of mercy, compassions, [and love for mankind art Thou, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages]."
-**Priest:** "Peace be unto all."
+> **Priest:** "For a God of mercy, compassions, [and love for mankind art Thou, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages]."
+> **Priest:** "Peace be unto all."
 *Bow your heads. Secret Prayer:*
-**Priest:** "O Holy Lord, Who dwellest on high..." *(see fol. 250r / p. 484 [recte 485]).*[^709]
+> **Priest:** "O Holy Lord, Who dwellest on high..." *(see fol. 250r / p. 484 [recte 485]).*[^709]
 *Exclamation:*
-**Priest:** "For Thine it is to have mercy and to save us, [O our God, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages]."
-*Then the Aposticha; and "It is good to give praise [unto the Lord, and to sing praises unto Thy Name, O Most High]..."*[^710]
-
-*The Daily Order*
+> **Priest:** "For Thine it is to have mercy and to save us, [O our God, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages]."
+*Then the Aposticha; and "It is good to give praise [unto the Lord, and to sing praises unto Thy Name, O Most High]"*[^710] *The Daily Order*
 
 *The Trisagion. Troparion. Then the priest says the litany before the Holy Doors:*[^711]
-**Priest:** "Have mercy on us, O God, according to Thy great [mercy]..." *and the rest as at Vespers.*[^712]
+> **Priest:** "Have mercy on us, O God, according to Thy great [mercy]..." *and the rest as at Vespers.*[^712]
 *Exclamation:*
-**Priest:** "For a merciful God and the Lover of mankind [art Thou]..."
-**Deacon:** "Wisdom!"
-**Priest:** "Blessed and praised is He Who is, Christ our God, [always, now and ever, and unto ages of ages]."
+> **Priest:** "For a merciful God and the Lover of mankind [art Thou]..."
+> **Deacon:** "Wisdom!"
+> **Priest:** "Blessed and praised is He Who is, Christ our God, [always, now and ever, and unto ages of ages]."
 *And immediately the First Hour; and the dismissal.*[^713]
 
 [Typographical Tailpiece: Renaissance arabesque ornament with interlaced foliate volutes.]
@@ -631,501 +621,449 @@
 *CONCERNING WHEN IT IS APPOINTED TO SAY:*
 *"GOD BE BOUNTIFUL UNTO US," AND WHEN "THROUGH THE PRAYERS OF OUR HOLY FATHERS"*[^714]
 
-*After the forty "Lord, have mercy," and "Thou Who at every time [and at every hour]..."*[^715]
-
-*Daily [Services]*
+*After the forty "Lord, have mercy," and "Thou Who at every time [and at every hour]"*[^715] *Daily [Services]*
 
 *at the Midnight Office:*
-**Priest:** "God be bountiful unto us, [and bless us, and cause His face to shine upon us, and have mercy on us]."[^716]
+> **Priest:** "God be bountiful unto us, [and bless us, and cause His face to shine upon us, and have mercy on us]."[^716]
 *At the First Hour:*
-**Priest:** "God be bountiful unto us..."
+> **Priest:** "God be bountiful unto us..."
 *At the Third Hour:*
-**Priest:** "Through the prayers [of our holy fathers, Lord Jesus Christ our God, have mercy on us]."[^717]
+> **Priest:** "Through the prayers [of our holy fathers, Lord Jesus Christ our God, have mercy on us]."[^717]
 *At the Sixth Hour:*
-**Priest:** "Through the prayers..."
+> **Priest:** "Through the prayers..."
 *Likewise also at the Ninth Hour:*
-**Priest:** "Through the prayers..." *when the Hours are chanted together.*[^718]
+> **Priest:** "Through the prayers..." *when the Hours are chanted together.*[^718]
 *After "I will bless the Lord at all [times]," "It is truly meet," and "More honorable than the Cherubim":*[^719]
-**Reader:** "In the Name of the Lord, bless, father."
-**Priest:** "God be bountiful unto us..."
+> **Reader:** "In the Name of the Lord, bless, father."
+> **Priest:** "God be bountiful unto us..."
 *Then: "Glory... Both now... Lord, have mercy," thrice; "Bless"; and the dismissal.*
 *Likewise also at the beginning of the Liturgy:*
 
 *The Daily Order*
 
-**Priest:** "God be bountiful unto us..."[^720]
+> **Priest:** "God be bountiful unto us..."[^720]
 *If the Ninth Hour is chanted before Vespers, separately, not together with the Third and the Sixth, then:*
-**Priest:** "God be bountiful unto us..."[^721]
+> **Priest:** "God be bountiful unto us..."[^721]
 *And at Compline:*
-**Priest:** "God be bountiful unto us..."
+> **Priest:** "God be bountiful unto us..."
 *At Great Compline:*
 *After the first forty "Lord, have mercy":*
-**Priest:** "Through the prayers [of our holy fathers]..."[^722]
+> **Priest:** "Through the prayers [of our holy fathers]..."[^722]
 *After the second forty "Lord, have mercy":*
-**Priest:** "O Lord Jesus Christ our God, have mercy on us."[^723]
+> **Priest:** "O Lord Jesus Christ our God, have mercy on us."[^723]
 *After the third forty "Lord, have mercy":*
-**Priest:** "God be bountiful unto us..."[^724]
+> **Priest:** "God be bountiful unto us..."[^724]
 *End of the Daily Service.*[^725]
 
 *INRI*
 
-[Woodcut Headpiece: The Crucifixion of Christ with the Most Holy Theotokos and Saint John the Theologian at the Foot of the Cross, with the Titulus "INRI" (І Н Ц І) inscribed above, flanked by Renaissance foliate arabesques.]
+(*Woodcut Headpiece: The Crucifixion of Christ with the Most Holy Theotokos and Saint John the Theologian at the Foot of the Cross, with the Titulus "INRI" (І Н Ц І) inscribed above, flanked by Renaissance foliate arabesques.*)
 
 ## DAILY DISMISSALS[^726]
 
 *On Sunday evening, and on Monday at Matins, and after Matins:*[^727]
-**Priest:** "Christ our true God, through the prayers of His most pure Mother, by the protection of the precious Bodiless Powers of Heaven, and of all the saints, have mercy on us and save us, for He is a good God and the Lover of mankind."[^728]
+> **Priest:** "Christ our true God, through the prayers of His most pure Mother, by the protection of the precious Bodiless Powers of Heaven, and of all the saints, have mercy on us and save us, for He is a good God and the Lover of mankind."[^728]
 
 *Dismissals*
 
 *On Monday evening, and on Tuesday at Matins, and after the First Hour:*[^729]
-**Priest:** "Christ our true God, through the prayers of His most pure Mother, of the precious and glorious Prophet, Forerunner, and Baptist John, and of all the saints, have mercy on us and save us, for He is a good God and the Lover of mankind."[^730]
+> **Priest:** "Christ our true God, through the prayers of His most pure Mother, of the precious and glorious Prophet, Forerunner, and Baptist John, and of all the saints, have mercy on us and save us, for He is a good God and the Lover of mankind."[^730]
 *On Tuesday evening, and on Wednesday after Matins, and after the First Hour:*[^731]
-**Priest:** "Christ our true God..."
+> **Priest:** "Christ our true God" *Daily [Dismissals]*
 
-*Daily [Dismissals]*
-
-**Priest:** "...through the prayers of His most pure Mother, by the power of the precious and life-creating Cross, and of all the saints, have mercy on us and save us."[^732]
+> **Priest:** "...through the prayers of His most pure Mother, by the power of the precious and life-creating Cross, and of all the saints, have mercy on us and save us."[^732]
 *This same [dismissal is said also] on Friday [Wednesday evening / Thursday morning / Friday].*[^733]
 *On Wednesday evening, and on Thursday after Matins, and after the First Hour:*[^734]
-**Priest:** "Christ our true God, through the prayers of His most pure Mother, of the holy, glorious, and all-praiseworthy Apostles, and of all the saints, have mercy on us [and save us]."[^735]
+> **Priest:** "Christ our true God, through the prayers of His most pure Mother, of the holy, glorious, and all-praiseworthy Apostles, and of all the saints, have mercy on us [and save us]."[^735]
 *On Thursday evening, and on Friday at Matins, and after the First Hour, say this:*[^736]
 
 *Dismissals*
 
 *On Friday evening, and at Matins [on Saturday], and after the Hours:*[^737]
-**Priest:** "Christ our true God, through the prayers of His most pure Mother, by the power of the precious and life-creating Cross, by the protection of the precious Bodiless Powers of Heaven, of the precious and glorious Prophet, Forerunner, and Baptist John, of the holy, glorious, and all-praiseworthy Apostles, of the holy and victorious Martyrs,"[^738] *Daily [Dismissals]*
+> **Priest:** "Christ our true God, through the prayers of His most pure Mother, by the power of the precious and life-creating Cross, by the protection of the precious Bodiless Powers of Heaven, of the precious and glorious Prophet, Forerunner, and Baptist John, of the holy, glorious, and all-praiseworthy Apostles, of the holy and victorious Martyrs,"[^738] *Daily [Dismissals]*
 
-**Priest:** "...of our venerable and God-bearing fathers, of the holy and righteous Ancestors of God Joachim and Anna, and of the saint [Name] whose church it is, and of all the saints, have mercy on us and save us, for He is good and [the Lover of mankind]."[^739]
+> **Priest:** "...of our venerable and God-bearing fathers, of the holy and righteous Ancestors of God Joachim and Anna, and of the saint [Name] whose church it is, and of all the saints, have mercy on us and save us, for He is good and [the Lover of mankind]."[^739]
 *After the Ninth Hour, and after Compline, and after the Midnight Office, on all days, this [dismissal] is said:*[^740]
-**Priest:** "Christ our true God, through the prayers of His most pure Mother, of our venerable and God-bearing fathers, [and of all the saints, have mercy on us and save us, for He is good and the Lover of mankind]."[^741]
+> **Priest:** "Christ our true God, through the prayers of His most pure Mother, of our venerable and God-bearing fathers, [and of all the saints, have mercy on us and save us, for He is good and the Lover of mankind]."[^741]
 
 [Woodcut Headpiece: Renaissance typographical headband with circular medallion depicting Saint John Chrysostom in episcopal vestments holding the Gospel Book, flanked by leafy scrollwork and foliate arabesques.]
 
 ## DISMISSALS FOR FEASTS OF THE MASTER, AND OF THE IMMACULATE THEOTOKOS, AND FOR COMMEMORATION OF THE GREAT SAINTS[^742]
 
 *In the Month of September, on the 1st Day [The Indiction / New Liturgical Year, and St. Symeon the Stylite]:*[^743]
-**Priest:** "Christ our true God, through the prayers of His most pure Mother, and of our venerable and God-bearing father Symeon the Stylite, and of all the saints, have mercy on us [and save us]."[^744]
+> **Priest:** "Christ our true God, through the prayers of His most pure Mother, and of our venerable and God-bearing father Symeon the Stylite, and of all the saints, have mercy on us [and save us]."[^744]
 
 *For Feasts*
 
 *At the Nativity of the Most Pure Theotokos [September 8]:*[^745]
-**Priest:** "Christ our true God, through the prayers of His most pure Mother, and by her precious Nativity, and of all the saints, have mercy on us [and save us]."[^746]
+> **Priest:** "Christ our true God, through the prayers of His most pure Mother, and by her precious Nativity, and of all the saints, have mercy on us [and save us]."[^746]
 *At the Exaltation of the Precious Cross [September 14]:*[^747]
-**Priest:** "Christ our true God, through the prayers of His most pure Mother, by the power of the precious and life-creating Cross, and of all the saints, have mercy on us [and save us]."[^748]
+> **Priest:** "Christ our true God, through the prayers of His most pure Mother, by the power of the precious and life-creating Cross, and of all the saints, have mercy on us [and save us]."[^748]
 *To the Holy Apostle and Evangelist John the Theologian [September 26]:*[^749]
 
 *Dismissals*
 
-**Priest:** "Christ our true God, through the prayers of His most pure Mother, and of the holy, glorious, and all-praiseworthy Apostle and Evangelist, the Virgin, who reclined upon His breast, and beloved disciple, John the Theologian, and of all the saints, have mercy on us [and save us]."[^750]
+> **Priest:** "Christ our true God, through the prayers of His most pure Mother, and of the holy, glorious, and all-praiseworthy Apostle and Evangelist, the Virgin, who reclined upon His breast, and beloved disciple, John the Theologian, and of all the saints, have mercy on us [and save us]."[^750]
 *At the Entry into the Temple of the Most Pure Theotokos [November 21]:*[^751]
-**Priest:** "Christ our true God, through the prayers of His most pure Mother, and by her precious Entry," *For Feasts*
+> **Priest:** "Christ our true God, through the prayers of His most pure Mother, and by her precious Entry," *For Feasts*
 
-**Priest:** "...and of all the saints [have mercy on us and save us]."
+> **Priest:** "...and of all the saints [have mercy on us and save us]."
 *At the Nativity of Christ [December 25]:*[^752]
-**Priest:** "May He Who was born in Bethlehem of Judea and lay in a manger,[^753] Christ our true God, through the prayers of His most pure Mother, and of all the saints, have mercy on us [and save us]."
+> **Priest:** "May He Who was born in Bethlehem of Judea and lay in a manger,[^753] Christ our true God, through the prayers of His most pure Mother, and of all the saints, have mercy on us [and save us]."
 *At the Circumcision of the Lord [January 1]:*[^754]
-**Priest:** "May He Who according to the Law accepted the eighth-day circumcision,[^755] Christ our true God, through the prayers of His most pure Mother, and of our father among the saints [Basil the Great, Archbishop of Caesarea in Cappadocia, and of all the saints, have mercy on us and save us]."[^756]
+> **Priest:** "May He Who according to the Law accepted the eighth-day circumcision,[^755] Christ our true God, through the prayers of His most pure Mother, and of our father among the saints [Basil the Great, Archbishop of Caesarea in Cappadocia, and of all the saints, have mercy on us and save us]."[^756]
 
 *Dismissals*
 
-**Priest:** "...Basil the Great, Archbishop of Caesarea in Cappadocia, and of all the saints [have mercy on us and save us]."
+> **Priest:** "...Basil the Great, Archbishop of Caesarea in Cappadocia, and of all the saints [have mercy on us and save us]."
 
 *At the Theophany [January 6]:*[^757]
-**Priest:** "May He Who was baptized by John in the Jordan,[^758] Christ our true God, through the prayers of His most pure Mother, and of all the saints, have mercy on us [and save us]."[^759]
+> **Priest:** "May He Who was baptized by John in the Jordan,[^758] Christ our true God, through the prayers of His most pure Mother, and of all the saints, have mercy on us [and save us]."[^759]
 
 *At the Meeting of the Lord [February 2]:*[^760]
-**Priest:** "May He Who reclined in the arms of the righteous Symeon,[^761] Christ our true God, through the prayers of His most pure Mother, and of all the saints [have mercy on us and save us]."
+> **Priest:** "May He Who reclined in the arms of the righteous Symeon,[^761] Christ our true God, through the prayers of His most pure Mother, and of all the saints [have mercy on us and save us]."
 
 *For Feasts*
 
 *At the Annunciation of the Most Pure Theotokos [March 25]:*[^762]
-**Priest:** "Christ our true God, through the prayers of His most pure Mother, and by her precious Annunciation, and of all the saints [have mercy on us and save us]."
+> **Priest:** "Christ our true God, through the prayers of His most pure Mother, and by her precious Annunciation, and of all the saints [have mercy on us and save us]."
 
 *On Lazarus Saturday:*[^763]
-**Priest:** "May He Who came to Bethany to raise the righteous Lazarus,[^764] Christ our true God, through the prayers of His most pure Mother, and of all the saints, have mercy on us [and save us]."
+> **Priest:** "May He Who came to Bethany to raise the righteous Lazarus,[^764] Christ our true God, through the prayers of His most pure Mother, and of all the saints, have mercy on us [and save us]."
 
 *On Palm Sunday:*[^765]
 
 *Dismissals*
 
-**Priest:** "May He Who came into Jerusalem and accepted praise from the Hebrew children,[^766] Christ our true God, through the prayers of His most pure Mother, and of all the saints [have mercy on us and save us]."
+> **Priest:** "May He Who came into Jerusalem and accepted praise from the Hebrew children,[^766] Christ our true God, through the prayers of His most pure Mother, and of all the saints [have mercy on us and save us]."
 
 *On Monday and throughout the whole Holy and Great Week:*[^767]
-**Priest:** "May He Who came unto His voluntary Passion,[^768] Christ our true God, through the prayers of His most pure Mother, and of all the saints [have mercy on us and save us]."
+> **Priest:** "May He Who came unto His voluntary Passion,[^768] Christ our true God, through the prayers of His most pure Mother, and of all the saints [have mercy on us and save us]."
 
 *On Holy and Great Saturday:*[^769]
 
 *For Feasts*
 
-**Priest:** "May He Who for our sake willingly lay in the tomb and descended into Hades,[^770] Christ our true God, through the prayers of His most pure Mother, and of all [the saints, have mercy on us and save us]."
+> **Priest:** "May He Who for our sake willingly lay in the tomb and descended into Hades,[^770] Christ our true God, through the prayers of His most pure Mother, and of all [the saints, have mercy on us and save us]."
 
 *On the Holy Sunday of Pascha:*[^771]
 *After the Second Ektenia:*[^772]
 *Exclamation:*
-**Priest:** "For unto Thee is due [all glory, honor, and worship]..."[^773]
+> **Priest:** "For unto Thee is due [all glory, honor, and worship]..."[^773]
 
 *At the Canon, after each ode, throughout the whole Holy Bright Week, the Little Litanies take place, either by the deacon or by the priest:*[^774]
 *After the First Ode:*
-**Priest:** "For Thine is the dominion..."[^775]
+> **Priest:** "For Thine is the dominion..."[^775]
 *After the Third Ode:*
-**Priest:** "For Thou art our God, and unto Thee [do we offer up glory]..."[^776]
-
-*Dismissals*
+> **Priest:** "For Thou art our God, and unto Thee [do we offer up glory]"[^776] *Dismissals*
 
 *After the Fourth Ode:*
-**Priest:** "For a good God and the Lover of mankind [Thou art, and unto Thee do we offer up glory]..."[^777]
+> **Priest:** "For a good God and the Lover of mankind [Thou art, and unto Thee do we offer up glory]..."[^777]
 *After the Fifth Ode:*
-**Priest:** "For blessed and glorified is [the all-honorable and majestic Name of Thine]..."[^778]
+> **Priest:** "For blessed and glorified is [the all-honorable and majestic Name of Thine]..."[^778]
 *After the Sixth Ode:*
-**Priest:** "For Thou art the King of peace, and the Savior [of our souls]..."[^779]
+> **Priest:** "For Thou art the King of peace, and the Savior [of our souls]..."[^779]
 *After the Seventh Ode:*
-**Priest:** "For sanctified and glorified is [the dominion of Thy kingdom]..."[^780]
+> **Priest:** "For sanctified and glorified is [the dominion of Thy kingdom]..."[^780]
 *After the Eighth Ode:*
-**Priest:** "For Thou art God, and [the Father of mercies]..."[^781]
+> **Priest:** "For Thou art God, and [the Father of mercies]..."[^781]
 *After the Ninth Ode:*
-**Priest:** "For all the Powers of Heaven praise Thee,[^782] [and unto Thee do we offer up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen]."
+> **Priest:** "For all the Powers of Heaven praise Thee,[^782] [and unto Thee do we offer up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen]."
 
 *Dismissal at Pascha, and throughout the whole week:*[^783]
-**Priest:** "Christ is risen from the dead, by death He has trampled down death, and on those in the tombs He has bestowed life!"[^784]
+> **Priest:** "Christ is risen from the dead, by death He has trampled down death, and on those in the tombs He has bestowed life!"[^784]
 
 *For Feasts*
 
-**Priest:** "True God of ours, through the prayers of His most pure Mother, and of all the saints, have mercy on us and save us, for He is a good God and the Lover of mankind."
+> **Priest:** "True God of ours, through the prayers of His most pure Mother, and of all the saints, have mercy on us and save us, for He is a good God and the Lover of mankind."
 
 *On Thomas Sunday:*[^785]
-**Priest:** "May He Who came to the disciples when the doors were shut, and gave assurance to Thomas,[^786] Christ our true God, through the prayers of His most pure Mother, and of all the saints, have mercy on us [and save us]."
+> **Priest:** "May He Who came to the disciples when the doors were shut, and gave assurance to Thomas,[^786] Christ our true God, through the prayers of His most pure Mother, and of all the saints, have mercy on us [and save us]."
 
 *At the Ascension of the Lord:*[^787]
 
 *Dismissals*
 
-**Priest:** "May He Who ascended in glory,[^788] Christ our true God, through the prayers of His most pure Mother, of the holy, glorious, and all-praiseworthy Apostles, and of all the saints [have mercy on us and save us]."
+> **Priest:** "May He Who ascended in glory,[^788] Christ our true God, through the prayers of His most pure Mother, of the holy, glorious, and all-praiseworthy Apostles, and of all the saints [have mercy on us and save us]."
 
 *On the Sunday of Pentecost:*[^789]
-**Priest:** "May He Who sent down His Most Holy Spirit upon His holy disciples and Apostles,[^790] Christ our true God, through the prayers of His most pure Mother, and of all the saints [have mercy on us and save us]."
+> **Priest:** "May He Who sent down His Most Holy Spirit upon His holy disciples and Apostles,[^790] Christ our true God, through the prayers of His most pure Mother, and of all the saints [have mercy on us and save us]."
 
 *At the Transfiguration of the Lord [August 6]:*[^791]
 
 *For Feasts*
 
-**Priest:** "May He Who was transfigured on Mount Tabor and showed His glory to His disciples,[^792] Christ our true God, through the prayers of His most pure Mother, and of all the saints [have mercy on us and save us]."
+> **Priest:** "May He Who was transfigured on Mount Tabor and showed His glory to His disciples,[^792] Christ our true God, through the prayers of His most pure Mother, and of all the saints [have mercy on us and save us]."
 
 *At the Dormition of the Most Pure Theotokos [August 15]:*[^793]
-**Priest:** "Christ our true God, through the prayers of His most pure Mother, and by her precious Dormition, of the holy, glorious, and all-praiseworthy Apostles, and of all the saints [have mercy on us and save us]."
+> **Priest:** "Christ our true God, through the prayers of His most pure Mother, and by her precious Dormition, of the holy, glorious, and all-praiseworthy Apostles, and of all the saints [have mercy on us and save us]."
 
 *Festal dismissals are said from the day of the feast until the Apodosis of the feast, on all days.*[^794]
 
 *Dismissals*
 
 *This dismissal is said on the memory of saints having a Doxology:*[^795]
-**Priest:** "Christ our true God, through the prayers of His most pure Mother, and of Saint [Name], and of all the saints [have mercy on us and save us]."
+> **Priest:** "Christ our true God, through the prayers of His most pure Mother, and of Saint [Name], and of all the saints [have mercy on us and save us]."
 
 [Woodcut Headpiece: Renaissance typographical headband with interlaced strapwork and floral foliage.]
 
 ## PRAYER OVER THE KOLYVO FOR A SAINT[^796]
 
 *At the Liturgy, after the saying of:*
-**Choir:** "Blessed be the Name of the Lord," *thrice.*[^797]
+> **Choir:** "Blessed be the Name of the Lord," *thrice.*[^797]
 *The troparion to the saint is chanted.*[^798]
 *Then the deacon, having censed, says:*
-**Deacon:** "Let us pray to the Lord."
+> **Deacon:** "Let us pray to the Lord."
 *The priest [reads] the prayer:*
 
 *Over the Kolyvo*
 
-**Priest:** "O Lord, Who hast completed all things by Thy Word,[^799] and commanded the earth to bring forth all manner of fruits for our joy and sustenance; Who through seeds showed the Youth and Daniel in Babylon to be more radiant than those who fed on delicate dainties:[^800] Do Thou Thyself, O all-good King, bless both these seeds with their diverse fruits,[^801] and sanctify those who partake of them;"
+> **Priest:** "O Lord, Who hast completed all things by Thy Word,[^799] and commanded the earth to bring forth all manner of fruits for our joy and sustenance; Who through seeds showed the Youth and Daniel in Babylon to be more radiant than those who fed on delicate dainties:[^800] Do Thou Thyself, O all-good King, bless both these seeds with their diverse fruits,[^801] and sanctify those who partake of them;"
 
 *Prayer*
 
-**Priest:** "...for unto the honor and memory of the saint, [Name],[^802] these were offered up, and in memory of those who have fallen asleep in piety and the faith. Grant also unto those who have prepared these embellishments,[^803] and who celebrate this memorial, all petitions which are unto salvation and the attainment of eternal good things; through the prayers of our most pure Sovereign Lady, the Theotokos and Ever-Virgin Mary, and of Saint [Name], whose memory we celebrate," *Over the Kolyvo*
+> **Priest:** "...for unto the honor and memory of the saint, [Name],[^802] these were offered up, and in memory of those who have fallen asleep in piety and the faith. Grant also unto those who have prepared these embellishments,[^803] and who celebrate this memorial, all petitions which are unto salvation and the attainment of eternal good things; through the prayers of our most pure Sovereign Lady, the Theotokos and Ever-Virgin Mary, and of Saint [Name], whose memory we celebrate," *Over the Kolyvo*
 
-**Priest:** "...and of all Thy saints. For Thou art He Who blesses and sanctifies all things, and unto Thee do we offer up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen."
+> **Priest:** "...and of all Thy saints. For Thou art He Who blesses and sanctifies all things, and unto Thee do we offer up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen."
 
 [Typographical Fleuron Ornaments]
 
 ## DIACONAL PETITIONS AND PRAYER OVER THE KOLYVO FOR THE DEPARTED[^804]
 
 *After the saying of:*
-**Choir:** "Blessed be the Name of the Lord," *thrice.*
+> **Choir:** "Blessed be the Name of the Lord," *thrice.*
 *Note:*[^805] *there is chanted:*
-**Choir:** "With the spirits of the righteous departed..."[^806]
+> **Choir:** "With the spirits of the righteous departed..."[^806]
 *Then the deacon, with the censer, says:*
 
 *Prayer*
 
 *(Marginal note: to commemorate)*[^807]
-**Deacon:** "Have mercy on us, O God, according to Thy great mercy,[^808] we pray Thee, give ear and have mercy."
-**Choir:** "Lord, have mercy," *thrice.*
-**Deacon:** "Again we pray for the repose of the blessed memory and for the remission of the sins of Thy servant who has previously fallen asleep, and is ever to be remembered,[^809] [Name]; and that every transgression of his, voluntary and involuntary, be forgiven him; that the Lord God" *Over the Kolyvo*
+> **Deacon:** "Have mercy on us, O God, according to Thy great mercy,[^808] we pray Thee, give ear and have mercy."
+> **Choir:** "Lord, have mercy," *thrice.*
+> **Deacon:** "Again we pray for the repose of the blessed memory and for the remission of the sins of Thy servant who has previously fallen asleep, and is ever to be remembered,[^809] [Name]; and that every transgression of his, voluntary and involuntary, be forgiven him; that the Lord God" *Over the Kolyvo*
 
-**Deacon:** "...may establish his soul where all the righteous repose; the mercy of God, the Heavenly Kingdom, and the remission of his sins, having asked for him, let us commend ourselves, and one another, and our whole life unto Christ our God."
-**Choir:** "To Thee, O Lord."
-**Deacon:** "Let us pray to the Lord."
-**Choir:** "Lord, have mercy."
+> **Deacon:** "...may establish his soul where all the righteous repose; the mercy of God, the Heavenly Kingdom, and the remission of his sins, having asked for him, let us commend ourselves, and one another, and our whole life unto Christ our God."
+> **Choir:** "To Thee, O Lord."
+> **Deacon:** "Let us pray to the Lord."
+> **Choir:** "Lord, have mercy."
 *The priest [recites] the prayer in secret:*[^810]
-**Priest:** "O God of spirits and of all flesh, Who hast trampled down death, and overthrown the devil," *Prayer*
+> **Priest:** "O God of spirits and of all flesh, Who hast trampled down death, and overthrown the devil," *Prayer*
 
-**Priest:** "...and bestowed life upon Thy world: Do Thou Thyself, O Lord, give rest to the soul of Thy servant who has fallen asleep, [Name], in a place of light, in a place of verdure, in a place of repose, whence sickness, sorrow, and sighing have fled away;[^811] every transgression committed by him, whether in word, or deed, or thought, do Thou forgive, for Thou art a good God and the Lover of mankind."
+> **Priest:** "...and bestowed life upon Thy world: Do Thou Thyself, O Lord, give rest to the soul of Thy servant who has fallen asleep, [Name], in a place of light, in a place of verdure, in a place of repose, whence sickness, sorrow, and sighing have fled away;[^811] every transgression committed by him, whether in word, or deed, or thought, do Thou forgive, for Thou art a good God and the Lover of mankind."
 
 *Over the Kolyvo*
 
-**Priest:** "For there is no man who has lived and has not sinned against Thee; for Thou alone art without sin; Thy righteousness is an everlasting righteousness, and Thy word is truth."[^812]
+> **Priest:** "For there is no man who has lived and has not sinned against Thee; for Thou alone art without sin; Thy righteousness is an everlasting righteousness, and Thy word is truth."[^812]
 *Exclamation:*
-**Priest:** "For Thou art the life, and the repose, and the resurrection of Thy servant who has previously fallen asleep, and is ever to be remembered,[^813] [Name], O Christ our God, and unto Thee do we offer up glory," *Prayer*
+> **Priest:** "For Thou art the life, and the repose, and the resurrection of Thy servant who has previously fallen asleep, and is ever to be remembered,[^813] [Name], O Christ our God, and unto Thee do we offer up glory," *Prayer*
 
-**Priest:** "...with Thine unoriginate Father, and Thy Most Holy, and good, and life-creating Spirit, now and ever, and unto ages of ages."
-**Choir:** "Amen."
+> **Priest:** "...with Thine unoriginate Father, and Thy Most Holy, and good, and life-creating Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
 
 *THE END.*[^814]
 
 [Woodcut Tailpiece: Renaissance grotesque strapwork arabesque.]
 
-[Editorial Note on Physical Exemplar: Folio 2 of Quire Ya (`ѧ҃ в`), containing the initial heading, rubrics, and opening petition of the First Prayer of the Lucernarium at Vespers, is wanting in this copy. The text resumes on folio 3 recto (`ѧ҃ г`) with the concluding exclamation of the First Prayer.][^815]
+(*Editorial Note on Physical Exemplar: Folio 2 of Quire Ya (`ѧ҃ в`), containing the initial heading, rubrics, and opening petition of the First Prayer of the Lucernarium at Vespers, is wanting in this copy. The text resumes on folio 3 recto (`ѧ҃ г`) with the concluding exclamation of the First Prayer.*)[^815]
 
 ## PRAYERS OF LIGHT AT VESPERS[^816]
 
 *Exclamation of the First Prayer:*[^817]
-**Priest:** "For unto Thee is due all glory, honor, and worship, to the Father, and to the Son, and to the Holy Spirit, now and ever, [and unto ages of ages. Amen]."
+> **Priest:** "For unto Thee is due all glory, honor, and worship, to the Father, and to the Son, and to the Holy Spirit, now and ever, [and unto ages of ages. Amen]."
 *Second Prayer:*[^818]
-**Priest:** "O Lord, rebuke us not in Thine anger, neither chasten us in Thy wrath,[^819] but deal with us according to Thy mercy, O Physician and Healer of our souls, guiding us unto the haven of Thy will;"
+> **Priest:** "O Lord, rebuke us not in Thine anger, neither chasten us in Thy wrath,[^819] but deal with us according to Thy mercy, O Physician and Healer of our souls, guiding us unto the haven of Thy will;"
 
 *Prayers*
 
-**Priest:** "...enlighten the eyes of our hearts unto the knowledge of Thy truth; grant us also the remainder of the present day in peace and sinlessness, and all the years of our life; through the prayers of the holy Theotokos, and of all Thy saints."
+> **Priest:** "...enlighten the eyes of our hearts unto the knowledge of Thy truth; grant us also the remainder of the present day in peace and sinlessness, and all the years of our life; through the prayers of the holy Theotokos, and of all Thy saints."
 *Exclamation:*
-**Priest:** "For Thine is the dominion, and Thine is the kingdom, and the power, and the glory, of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages. Amen."
+> **Priest:** "For Thine is the dominion, and Thine is the kingdom, and the power, and the glory, of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages. Amen."
 
 *At Vespers*
 
 *Third Prayer:*[^820]
-**Priest:** "O Lord our God, remember us sinners and Thine unworthy servants, when we call upon Thy holy and worshipful Name, and put us not to shame from the expectation of Thy mercy; but grant us all petitions which are unto salvation, and vouchsafe us to love and to fear Thee from our whole heart, and to do in all things Thy holy will;"
+> **Priest:** "O Lord our God, remember us sinners and Thine unworthy servants, when we call upon Thy holy and worshipful Name, and put us not to shame from the expectation of Thy mercy; but grant us all petitions which are unto salvation, and vouchsafe us to love and to fear Thee from our whole heart, and to do in all things Thy holy will;"
 
 *Prayers*
 
 *Exclamation:*[^821]
-**Priest:** "For Thou art a good God and the Lover of mankind, and unto Thee do we offer up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, [and unto ages of ages. Amen]."
+> **Priest:** "For Thou art a good God and the Lover of mankind, and unto Thee do we offer up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, [and unto ages of ages. Amen]."
 *Fourth Prayer:*[^822]
-**Priest:** "O Lord, Who art hymned on high by the holy powers with unceasing hymns and unending doxologies: fill our mouth with Thy praise, that we may give majesty unto Thy holy Name;"
+> **Priest:** "O Lord, Who art hymned on high by the holy powers with unceasing hymns and unending doxologies: fill our mouth with Thy praise, that we may give majesty unto Thy holy Name;"
 
 *At Vespers*
 
-**Priest:** "...and grant us part and inheritance with all them that fear Thee in truth, and that keep Thy commandments; through the intercessions of the all-holy Theotokos, and of all Thy saints."
+> **Priest:** "...and grant us part and inheritance with all them that fear Thee in truth, and that keep Thy commandments; through the intercessions of the all-holy Theotokos, and of all Thy saints."
 *Exclamation:*[^823]
-**Priest:** "For unto Thee is due all glory, honor, [and worship, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen]."
+> **Priest:** "For unto Thee is due all glory, honor, [and worship, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen]."
 *Fifth Prayer:*[^824]
-**Priest:** "Blessed art Thou, O Lord God Almighty, Who knowest the mind of man, Who knowest the things whereof we have need..."
+> **Priest:** "Blessed art Thou, O Lord God Almighty, Who knowest the mind of man, Who knowest the things whereof we have need" *Prayers*
 
-*Prayers*
-
-**Priest:** "...far more abundantly than we ask or understand:[^825] do Thou Thyself, O King and Lover of mankind, Who art good in all things, vouchsafe us in the multitude of Thy compassions,[^826] with an unashamed conscience, to call upon Thy holy Name; and lead us not into temptation, but deliver us from the evil one;[^827] and by Thy providence order all things unto what is profitable for us."
+> **Priest:** "...far more abundantly than we ask or understand:[^825] do Thou Thyself, O King and Lover of mankind, Who art good in all things, vouchsafe us in the multitude of Thy compassions,[^826] with an unashamed conscience, to call upon Thy holy Name; and lead us not into temptation, but deliver us from the evil one;[^827] and by Thy providence order all things unto what is profitable for us."
 
 *At Vespers*
 
 *Exclamation:*
-**Priest:** "For unto Thee is due all glory, honor, and [worship, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen]."
+> **Priest:** "For unto Thee is due all glory, honor, and [worship, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen]."
 *Sixth Prayer:*[^828]
-**Priest:** "O Lord, O Lord, Who upholdest all things by Thine all-pure power, Who art long-suffering toward us all, and relentest concerning our evils, and puttest far away from us our iniquities: remember Thy compassions and Thy mercies, and visit us in Thy goodness; and grant us to escape for the remainder of the present day..."
+> **Priest:** "O Lord, O Lord, Who upholdest all things by Thine all-pure power, Who art long-suffering toward us all, and relentest concerning our evils, and puttest far away from us our iniquities: remember Thy compassions and Thy mercies, and visit us in Thy goodness; and grant us to escape for the remainder of the present day" *Prayers*
 
-*Prayers*
-
-**Priest:** "...from the manifold wiles of the evil one; and preserve our life free from assault, by the grace of Thy Holy Spirit."
+> **Priest:** "...from the manifold wiles of the evil one; and preserve our life free from assault, by the grace of Thy Holy Spirit."
 *Exclamation:*
-**Priest:** "Through the grace and love for mankind of Thine Only-Begotten Son, with Whom Thou art blessed, together with Thine All-Holy, and good, and life-creating Spirit, now and ever, [and unto ages of ages. Amen]."
+> **Priest:** "Through the grace and love for mankind of Thine Only-Begotten Son, with Whom Thou art blessed, together with Thine All-Holy, and good, and life-creating Spirit, now and ever, [and unto ages of ages. Amen]."
 *Seventh Prayer:*[^829]
-**Priest:** "O God, great and marvelous, Who by Thine ineffable goodness and rich [providence orderest the life of man]..."
-
-[Woodcut Headpiece: Renaissance rectangular woodcut headband with foliate strapwork and central floral vase]
+> **Priest:** "O God, great and marvelous, Who by Thine ineffable goodness and rich [providence orderest the life of man]" [Woodcut Headpiece: Renaissance rectangular woodcut headband with foliate strapwork and central floral vase]
 
 ## PRAYERS AT VESPERS[^830]
 
 *(Codicological note on the physical exemplar regarding the binding order of Quire Ya).*[^831]
 
 *First Prayer:*[^832]
-**Priest:** "O Lord, compassionate and merciful, long-suffering and plenteous in mercy:[^833] give ear unto our prayer, and attend to the voice of our supplication.[^834] Work with us a sign for good;[^835]..."
+> **Priest:** "O Lord, compassionate and merciful, long-suffering and plenteous in mercy:[^833] give ear unto our prayer, and attend to the voice of our supplication.[^834] Work with us a sign for good;[^835]" *Prayers*
 
-*Prayers*
-
-**Priest:** "...guide us in Thy way, that we may walk in Thy truth;[^836] make our hearts glad, that we may fear Thy holy Name;[^837] for Thou art great, and workest wonders; Thou art God alone,[^838] and there is none like unto Thee among the gods, O Lord,[^839] mighty in mercy, and good in strength, to help, to comfort, and to save all them that hope in Thy holy Name."[^840]
+> **Priest:** "...guide us in Thy way, that we may walk in Thy truth;[^836] make our hearts glad, that we may fear Thy holy Name;[^837] for Thou art great, and workest wonders; Thou art God alone,[^838] and there is none like unto Thee among the gods, O Lord,[^839] mighty in mercy, and good in strength, to help, to comfort, and to save all them that hope in Thy holy Name."[^840]
 *Exclamation:*[^841]
 *(Priest: "For unto Thee is due all glory, honor, and worship, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen.")*
 
 *At Vespers*
 
-**Priest:** "...Who by Thy rich providence orderest the life of man; Who hast granted us worldly good things, and pledged unto us the promised Kingdom through the good things already bestowed upon us; Who hast made us to turn away from every evil during the part of the present day that is past: grant us also to finish the remainder without blemish before Thy holy glory, and to praise Thee, the only..."
+> **Priest:** "...Who by Thy rich providence orderest the life of man; Who hast granted us worldly good things, and pledged unto us the promised Kingdom through the good things already bestowed upon us; Who hast made us to turn away from every evil during the part of the present day that is past: grant us also to finish the remainder without blemish before Thy holy glory, and to praise Thee, the only" *Prayers*
 
-*Prayers*
-
-**Priest:** "...good God and Lover of mankind."
+> **Priest:** "...good God and Lover of mankind."
 *Exclamation:*
-**Priest:** "For Thou art a merciful God and the Lover of mankind, and unto Thee do we offer up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, [and unto ages of ages. Amen]."
+> **Priest:** "For Thou art a merciful God and the Lover of mankind, and unto Thee do we offer up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, [and unto ages of ages. Amen]."
 *Eighth Prayer:*[^842]
-**Priest:** "O God, great and marvelous, Who alone hast immortality,[^843] dwelling in unapproachable light;[^844] Who hast created all creation in wisdom;[^845] Who hast divided between the light..."
+> **Priest:** "O God, great and marvelous, Who alone hast immortality,[^843] dwelling in unapproachable light;[^844] Who hast created all creation in wisdom;[^845] Who hast divided between the light" *At Vespers*
 
-*At Vespers*
+> **Priest:** "...and between the darkness;[^846] Who hast appointed the sun for rule of the day, and the moon and the stars for rule of the night;[^847] Who hast vouchsafed us sinners at this present hour to anticipate Thy presence with thanksgiving,[^848] and to offer unto Thee our evening service: do Thou Thyself, O Lord and Lover of mankind, let our prayer be set forth as incense before Thee,[^849] and accept it as a sweet-smelling fragrance;[^850] and grant" *Prayers*
 
-**Priest:** "...and between the darkness;[^846] Who hast appointed the sun for rule of the day, and the moon and the stars for rule of the night;[^847] Who hast vouchsafed us sinners at this present hour to anticipate Thy presence with thanksgiving,[^848] and to offer unto Thee our evening service: do Thou Thyself, O Lord and Lover of mankind, let our prayer be set forth as incense before Thee,[^849] and accept it as a sweet-smelling fragrance;[^850] and grant..."
+> **Priest:** "...us this present evening and the coming night in peace. Clothe us with the armor of light;[^851] deliver us from the terror of the night, and from the arrow that flies by day, and from every pestilence that walks in darkness;[^852] and grant us sleep, which Thou hast bestowed for the refreshment of our infirmity, and free us from every diabolical fantasy. Yea, O Master, Bestower of all good things, that even upon our beds, being moved to compunction, we may remember" *At Vespers*
 
-*Prayers*
-
-**Priest:** "...us this present evening and the coming night in peace. Clothe us with the armor of light;[^851] deliver us from the terror of the night, and from the arrow that flies by day, and from every pestilence that walks in darkness;[^852] and grant us sleep, which Thou hast bestowed for the refreshment of our infirmity, and free us from every diabolical fantasy. Yea, O Master, Bestower of all good things, that even upon our beds, being moved to compunction, we may remember..."
-
-*At Vespers*
-
-**Priest:** "...Thy holy Name in the night; and being enlightened by the meditation of Thy commandments, may rise up in gladness of soul unto the doxology of Thy truth, offering prayers and supplications unto Thy loving-kindness for our sins and for all Thy people; whom do Thou visit in mercy, through the intercessions of the holy Theotokos."
+> **Priest:** "...Thy holy Name in the night; and being enlightened by the meditation of Thy commandments, may rise up in gladness of soul unto the doxology of Thy truth, offering prayers and supplications unto Thy loving-kindness for our sins and for all Thy people; whom do Thou visit in mercy, through the intercessions of the holy Theotokos."
 
 *Prayers*
 
 *Exclamation:*[^853]
-**Priest:** "For Thou art a good God and the Lover of mankind, and unto Thee do we offer up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen."
+> **Priest:** "For Thou art a good God and the Lover of mankind, and unto Thee do we offer up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen."
 
-[Woodcut Tailpiece: Renaissance symmetrical strapwork arabesque ornament] [Woodcut Headpiece: Elaborate Renaissance woodcut of Christ the Man of Sorrows (Христос во гробе / Царь Славы) with cross, tomb, and foliate frame]
+[Woodcut Tailpiece: Renaissance symmetrical strapwork arabesque ornament] (*Woodcut Headpiece: Elaborate Renaissance woodcut of Christ the Man of Sorrows (Христос во гробе / Царь Славы) with cross, tomb, and foliate frame*)
 
 ## PRAYERS AT MATINS[^854]
 
 *First Prayer:*[^855]
-**Priest:** "We give thanks unto Thee, O Lord our God, Who hast raised us up from our beds, and hast put into our mouth a word of praise, that we may worship and call upon Thy holy Name;"
+> **Priest:** "We give thanks unto Thee, O Lord our God, Who hast raised us up from our beds, and hast put into our mouth a word of praise, that we may worship and call upon Thy holy Name;"
 
 *Prayers*
 
-**Priest:** "...and we entreat Thy compassions and Thy grace, which Thou hast ever exercised toward our life; and now send down Thy help upon them that stand before the face of Thy holy glory, and that await rich mercy from Thee; and grant unto us who serve Thee with fear and love to praise, to hymn, to glorify, and to worship Thine ineffable goodness."
+> **Priest:** "...and we entreat Thy compassions and Thy grace, which Thou hast ever exercised toward our life; and now send down Thy help upon them that stand before the face of Thy holy glory, and that await rich mercy from Thee; and grant unto us who serve Thee with fear and love to praise, to hymn, to glorify, and to worship Thine ineffable goodness."
 
 *At Matins*
 
 *Exclamation:*[^856]
-**Priest:** "For unto Thee is due all glory, honor, and worship, to the Father, and to the Son, and to the Holy Spirit, now and ever, [and unto ages of ages. Amen]."
+> **Priest:** "For unto Thee is due all glory, honor, and worship, to the Father, and to the Son, and to the Holy Spirit, now and ever, [and unto ages of ages. Amen]."
 *Second Prayer:*[^857]
-**Priest:** "From night my spirit awakens early unto Thee, O God, for Thy commandments are a light upon the earth;[^858] teach us to accomplish righteousness and holiness in Thy fear,[^859] for we glorify Thee, our truly existing God; incline Thine ear..."
+> **Priest:** "From night my spirit awakens early unto Thee, O God, for Thy commandments are a light upon the earth;[^858] teach us to accomplish righteousness and holiness in Thy fear,[^859] for we glorify Thee, our truly existing God; incline Thine ear" *Prayers*
 
-*Prayers*
-
-**Priest:** "...and hear us; and remember, O Lord, all them that are with us and that pray with us, each by name, and save them by Thy power; bless Thy people, and sanctify Thine inheritance;[^860] grant peace unto Thy world, unto Thy churches, unto the priests, unto kings, and unto all Thy people."
+> **Priest:** "...and hear us; and remember, O Lord, all them that are with us and that pray with us, each by name, and save them by Thy power; bless Thy people, and sanctify Thine inheritance;[^860] grant peace unto Thy world, unto Thy churches, unto the priests, unto kings, and unto all Thy people."
 *Exclamation:*[^861]
-**Priest:** "For blessed and glorified is Thine all-honorable and magnificent Name, [of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages. Amen]."
+> **Priest:** "For blessed and glorified is Thine all-honorable and magnificent Name, [of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages. Amen]."
 
 *At Matins*
 
-**Priest:** "...of the Father, and of the Son, and of the Holy Spirit, now and ever, [and unto ages of ages. Amen]."
+> **Priest:** "...of the Father, and of the Son, and of the Holy Spirit, now and ever, [and unto ages of ages. Amen]."
 *Third Prayer:*[^862]
-**Priest:** "From night our spirit awakens early unto Thee, O God, for Thy commandments are a light upon the earth;[^863] teach us, O God, by Thy righteousness, and Thy commandments, and Thy statutes;[^864] enlighten the eyes of our thoughts, lest we ever sleep unto death;[^865] drive away all gloom from our hearts; grant us the Sun..."
+> **Priest:** "From night our spirit awakens early unto Thee, O God, for Thy commandments are a light upon the earth;[^863] teach us, O God, by Thy righteousness, and Thy commandments, and Thy statutes;[^864] enlighten the eyes of our thoughts, lest we ever sleep unto death;[^865] drive away all gloom from our hearts; grant us the Sun" *Prayers*
 
-*Prayers*
-
-**Priest:** "...of Thy righteousness;[^866] preserve our life free from assault by the sign and seal of Thy Holy Spirit; and guide our footsteps into the way of peace;[^867] grant us to behold the morning day in rejoicing, that we may offer up morning prayers unto Thee."
+> **Priest:** "...of Thy righteousness;[^866] preserve our life free from assault by the sign and seal of Thy Holy Spirit; and guide our footsteps into the way of peace;[^867] grant us to behold the morning day in rejoicing, that we may offer up morning prayers unto Thee."
 *Exclamation:*[^868]
-**Priest:** "For Thine is the dominion, and Thine is the kingdom,[^869] and the power, and the glory, of the Father, and of the Son, and of the Holy Spirit, now and ever, [and unto ages of ages. Amen]."
+> **Priest:** "For Thine is the dominion, and Thine is the kingdom,[^869] and the power, and the glory, of the Father, and of the Son, and of the Holy Spirit, now and ever, [and unto ages of ages. Amen]."
 
 *At Matins*
 
 *Fourth Prayer:*[^870]
-**Priest:** "O Master, God holy and incomprehensible, Who hast commanded the light to shine out of darkness;[^871] Who hast refreshed us in nightly sleep, and hast raised us up unto the doxology and supplication of Thy goodness; being entreated through Thine own tender compassions, accept us also now who worship Thee, and who according to our strength give thanks unto Thee; and grant us..."
+> **Priest:** "O Master, God holy and incomprehensible, Who hast commanded the light to shine out of darkness;[^871] Who hast refreshed us in nightly sleep, and hast raised us up unto the doxology and supplication of Thy goodness; being entreated through Thine own tender compassions, accept us also now who worship Thee, and who according to our strength give thanks unto Thee; and grant us" *Prayers*
 
-*Prayers*
+> **Priest:** "...petitions unto salvation; show us to be sons of the light and sons of the day,[^872] and heirs of Thine eternal good things.[^873] Remember, O Lord, in the multitude of Thy compassions,[^874] all Thy people: those present and praying with us, and our absent brethren, who are on land, at sea, and in every place of Thy dominion,[^875] who desire the help of Thy loving-kindness; and grant unto all" *At Matins*
 
-**Priest:** "...petitions unto salvation; show us to be sons of the light and sons of the day,[^872] and heirs of Thine eternal good things.[^873] Remember, O Lord, in the multitude of Thy compassions,[^874] all Thy people: those present and praying with us, and our absent brethren, who are on land, at sea, and in every place of Thy dominion,[^875] who desire the help of Thy loving-kindness; and grant unto all..."
-
-*At Matins*
-
-**Priest:** "...Thy great mercy; that, being saved in soul and in body, and ever abiding with boldness, we may glorify Thy marvelous and blessed Name."
+> **Priest:** "...Thy great mercy; that, being saved in soul and in body, and ever abiding with boldness, we may glorify Thy marvelous and blessed Name."
 
 *Exclamation:*[^876]
-**Priest:** "For Thou art a God of mercies and compassions and the Lover of mankind, and unto Thee do we offer up glory, to the Father, and to the Son, and to the Holy Spirit, now [and ever, and unto ages of ages. Amen]."
+> **Priest:** "For Thou art a God of mercies and compassions and the Lover of mankind, and unto Thee do we offer up glory, to the Father, and to the Son, and to the Holy Spirit, now [and ever, and unto ages of ages. Amen]."
 
 *Fifth Prayer:*[^877]
-**Priest:** "O Treasury of good things, Fountain ever flowing, holy Father,[^878]..."
+> **Priest:** "O Treasury of good things, Fountain ever flowing, holy Father,[^878]" *Prayers*
 
-*Prayers*
-
-**Priest:** "...Wonderworker, Almighty, Ruler of all: we all worship Thee, and unto Thee do we pray, calling upon Thy mercies and Thy compassions for help and protection unto our lowliness. Remember therefore, O Lord, Thy servants, and accept the morning prayers of us all as incense before Thee;[^879] and make not one of us reprobate,[^880] but preserve us all through Thy compassions."
+> **Priest:** "...Wonderworker, Almighty, Ruler of all: we all worship Thee, and unto Thee do we pray, calling upon Thy mercies and Thy compassions for help and protection unto our lowliness. Remember therefore, O Lord, Thy servants, and accept the morning prayers of us all as incense before Thee;[^879] and make not one of us reprobate,[^880] but preserve us all through Thy compassions."
 
 *At Matins*
 
-**Priest:** "Remember, O Lord, those who keep vigil and sing unto Thy glory, and unto Thine Only-Begotten Son, our God, and Thy Holy Spirit; be Thou unto them a helper and protector; accept their supplications upon Thy supracelestial and noetic altar."[^881]
+> **Priest:** "Remember, O Lord, those who keep vigil and sing unto Thy glory, and unto Thine Only-Begotten Son, our God, and Thy Holy Spirit; be Thou unto them a helper and protector; accept their supplications upon Thy supracelestial and noetic altar."[^881]
 
 *Exclamation:*[^882]
-**Priest:** "For Thou art our God, and unto Thee do we offer up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages [of ages. Amen]."
+> **Priest:** "For Thou art our God, and unto Thee do we offer up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages [of ages. Amen]."
 
 *Prayers*
 
 *Sixth Prayer:*[^883]
-**Priest:** "We give thanks unto Thee, O Lord God of our salvations, that Thou dost all things unto the beneficence of our life, that we may ever look unto Thee, the Savior and Benefactor of our souls; for Thou hast refreshed us during the past measure of the night,[^884] and hast raised us up from our beds, and hast set us unto the worship..."
+> **Priest:** "We give thanks unto Thee, O Lord God of our salvations, that Thou dost all things unto the beneficence of our life, that we may ever look unto Thee, the Savior and Benefactor of our souls; for Thou hast refreshed us during the past measure of the night,[^884] and hast raised us up from our beds, and hast set us unto the worship" *At Matins*
 
-*At Matins*
+> **Priest:** "...of Thy [honorable and holy] Name. Therefore we entreat Thee, O Lord: grant us grace and power, that we may be vouchsafed to sing praises unto Thee with understanding,[^885] and to pray without ceasing,[^886] working out our own salvation in fear and trembling,[^887] through the protection of Thy Christ. Remember, O Lord, them also that cry unto Thee from the night; hear them, and have mercy on them, and crush [beneath their feet] the visible and invisible" *Prayers*
 
-**Priest:** "...of Thy [honorable and holy] Name. Therefore we entreat Thee, O Lord: grant us grace and power, that we may be vouchsafed to sing praises unto Thee with understanding,[^885] and to pray without ceasing,[^886] working out our own salvation in fear and trembling,[^887] through the protection of Thy Christ. Remember, O Lord, them also that cry unto Thee from the night; hear them, and have mercy on them, and crush [beneath their feet] the visible and invisible..."
-
-*Prayers*
-
-**Priest:** "...warring enemies.[^888]"
+> **Priest:** "...warring enemies.[^888]"
 
 *Exclamation:*[^889]
-**Priest:** "For Thou art the King of peace and the Savior of our souls, and unto Thee do we offer up glory, to the Father, and to the Son, and to the Holy Spirit, [now and ever, and unto ages of ages. Amen]."
+> **Priest:** "For Thou art the King of peace and the Savior of our souls, and unto Thee do we offer up glory, to the Father, and to the Son, and to the Holy Spirit, [now and ever, and unto ages of ages. Amen]."
 
 *Seventh Prayer:*[^890]
-**Priest:** "O God and Father of our Lord Jesus Christ,[^891] Who hast raised us up from sleep, and hast gathered us together at the hour of this prayer: grant us grace in the opening of our mouth,[^892] and accept our thanksgivings according to our strength,..."
+> **Priest:** "O God and Father of our Lord Jesus Christ,[^891] Who hast raised us up from sleep, and hast gathered us together at the hour of this prayer: grant us grace in the opening of our mouth,[^892] and accept our thanksgivings according to our strength," *At Matins*
 
-*At Matins*
+> **Priest:** "...and teach us Thy statutes;[^893] for what we should pray for as we ought we know not, unless Thou, O Lord, guide us by Thy Holy Spirit;[^894] therefore we pray Thee: whereinsoever we have sinned down to the present hour, in word, or in deed, or in thought, willingly or unwillingly, remit, forgive, pardon; for if Thou, Lord, shouldest mark iniquities, O Lord," *Prayers*
 
-**Priest:** "...and teach us Thy statutes;[^893] for what we should pray for as we ought we know not, unless Thou, O Lord, guide us by Thy Holy Spirit;[^894] therefore we pray Thee: whereinsoever we have sinned down to the present hour, in word, or in deed, or in thought, willingly or unwillingly, remit, forgive, pardon; for if Thou, Lord, shouldest mark iniquities, O Lord,..."
-
-*Prayers*
-
-**Priest:** "...who shall stand? For with Thee is forgiveness,[^895] and with Thee is redemption; Thou art the only mighty helper and protector of our life, and our singing is ever of Thee."
+> **Priest:** "...who shall stand? For with Thee is forgiveness,[^895] and with Thee is redemption; Thou art the only mighty helper and protector of our life, and our singing is ever of Thee."
 
 *Exclamation:*[^896]
-**Priest:** "May the dominion of Thy kingdom be blessed and glorified, [with the Father, and with the Holy Spirit, now and ever, and unto ages of ages. Amen]."
+> **Priest:** "May the dominion of Thy kingdom be blessed and glorified, [with the Father, and with the Holy Spirit, now and ever, and unto ages of ages. Amen]."
 
 *Eighth Prayer:*[^897]
-**Priest:** "O Lord our God, Who hast driven away from us the sluggishness of sleep,[^898] and hast called us with a holy calling,[^899]..."
+> **Priest:** "O Lord our God, Who hast driven away from us the sluggishness of sleep,[^898] and hast called us with a holy calling,[^899]" *At Matins*
 
-*At Matins*
+> **Priest:** "...that even in the night we should lift up our hands,[^900] and confess unto Thee for the judgments of Thy righteousness:[^901] accept our prayers, supplications, and confessions of nightly service; and grant unto us, O God, faith unashamed, hope steadfast, and love unfeigned;[^902] bless our entrances and our exits,[^903] our action and deeds, words, and" *Prayers*
 
-**Priest:** "...that even in the night we should lift up our hands,[^900] and confess unto Thee for the judgments of Thy righteousness:[^901] accept our prayers, supplications, and confessions of nightly service; and grant unto us, O God, faith unashamed, hope steadfast, and love unfeigned;[^902] bless our entrances and our exits,[^903] our action and deeds, words, and..."
-
-*Prayers*
-
-**Priest:** "...thoughts; and grant us to reach the beginning of the day, praising, and singing, and glorifying the ineffable goodness of Thy power."
+> **Priest:** "...thoughts; and grant us to reach the beginning of the day, praising, and singing, and glorifying the ineffable goodness of Thy power."
 
 *Exclamation:*[^904]
-**Priest:** "For blessed and glorified is Thine all-honorable and magnificent Name, of the Father, and of the Son, and of the Holy Spirit, [now and ever, and unto ages of ages. Amen]."
+> **Priest:** "For blessed and glorified is Thine all-honorable and magnificent Name, of the Father, and of the Son, and of the Holy Spirit, [now and ever, and unto ages of ages. Amen]."
 
 *Ninth Prayer:*[^905]
-**Priest:** "O Lord our God, Who through repentance hast granted remission unto men,..."
+> **Priest:** "O Lord our God, Who through repentance hast granted remission unto men," *At Matins*
 
-*At Matins*
+> **Priest:** "...and hast shown forth unto us as an example of recognition of sins and confession the repentance of the Prophet David unto forgiveness:[^906] do Thou Thyself, O Master, having fallen as we are into many and great sins, have mercy upon us according to Thy great mercy, and according to the multitude of Thy compassions blot out our iniquities;[^907] for unto Thee have we sinned, O Lord, Who knowest the unseen and hidden things of our hearts,[^908] and" *Prayers*
 
-**Priest:** "...and hast shown forth unto us as an example of recognition of sins and confession the repentance of the Prophet David unto forgiveness:[^906] do Thou Thyself, O Master, having fallen as we are into many and great sins, have mercy upon us according to Thy great mercy, and according to the multitude of Thy compassions blot out our iniquities;[^907] for unto Thee have we sinned, O Lord, Who knowest the unseen and hidden things of our hearts,[^908] and..."
-
-*Prayers*
-
-**Priest:** "...Who alone hast power to forgive sins;[^909] create [a clean heart] in us, and uphold us with Thy free Spirit,[^910] and show forth unto us the joy of Thy salvation;[^911] cast us not away from Thy presence,[^912] but be well-pleased, as a good God and the Lover of mankind, even unto our last breath, that we may offer unto Thee a sacrifice of righteousness and an oblation upon Thy holy altars."[^913]
+> **Priest:** "...Who alone hast power to forgive sins;[^909] create [a clean heart] in us, and uphold us with Thy free Spirit,[^910] and show forth unto us the joy of Thy salvation;[^911] cast us not away from Thy presence,[^912] but be well-pleased, as a good God and the Lover of mankind, even unto our last breath, that we may offer unto Thee a sacrifice of righteousness and an oblation upon Thy holy altars."[^913]
 
 *At Matins*
 
 *Exclamation:*[^914]
-**Priest:** "[Through the mercy and compassions and love for mankind] of Thine [Only-Begotten] Son, with Whom Thou art blessed, together with Thine All-Holy, and good, and life-creating Spirit, now [and ever, and unto ages of ages. Amen]."
+> **Priest:** "[Through the mercy and compassions and love for mankind] of Thine [Only-Begotten] Son, with Whom Thou art blessed, together with Thine All-Holy, and good, and life-creating Spirit, now [and ever, and unto ages of ages. Amen]."
 
 *Tenth Prayer:*[^915]
-**Priest:** "[O God, our God, Who hast established the noetic] and rational powers by Thy will:[^916] Thee do we ask and Thee do we entreat: accept our [doxology according to our strength, with all Thy creatures, and with the rich]..."
+> **Priest:** "[O God, our God, Who hast established the noetic] and rational powers by Thy will:[^916] Thee do we ask and Thee do we entreat: accept our [doxology according to our strength, with all Thy creatures, and with the rich]" *Prayers*
 
-*Prayers*
-
-**Priest:** "...recompense of gifts; for unto Thee every knee bows, of things in heaven, and things on earth, and things under the earth;[^917] and every breath and creature praises Thine incomprehensible glory;[^918] for Thou alone art the true and plenteous in mercy [God]."
+> **Priest:** "...recompense of gifts; for unto Thee every knee bows, of things in heaven, and things on earth, and things under the earth;[^917] and every breath and creature praises Thine incomprehensible glory;[^918] for Thou alone art the true and plenteous in mercy [God]."
 
 *Exclamation:*[^919]
-**Priest:** "For all the heavenly powers praise Thee, and unto Thee do we offer up glory, to the Father, and to the Son, and to the [Holy Spirit, now and ever, and unto ages of ages. Amen]."
+> **Priest:** "For all the heavenly powers praise Thee, and unto Thee do we offer up glory, to the Father, and to the Son, and to the [Holy Spirit, now and ever, and unto ages of ages. Amen]."
 
 *At Matins*
 
 *Eleventh Prayer:*[^920]
-**Priest:** "[We praise,] and we hymn, [we bless,] and we give thanks unto Thee, O God of our fathers,[^921] that Thou hast led us past the shadow of the night, and hast shown unto us again the light of the day; but we entreat Thy goodness: cleanse our sins; accept our prayers in Thy great tender-heartedness; for unto Thee do we flee, the merciful [and almighty God]..."
+> **Priest:** "[We praise,] and we hymn, [we bless,] and we give thanks unto Thee, O God of our fathers,[^921] that Thou hast led us past the shadow of the night, and hast shown unto us again the light of the day; but we entreat Thy goodness: cleanse our sins; accept our prayers in Thy great tender-heartedness; for unto Thee do we flee, the merciful [and almighty God]" *Prayers*
 
-*Prayers*
-
-**Priest:** "...[shine in our hearts the true Sun] of Thy righteousness;[^922] enlighten our mind, and preserve all our senses, that walking becomingly as in the day[^923] along the path of Thy commandments,[^924] we may attain unto life eternal; for with Thee is the fountain of life,[^925] and may be vouchsafed to be in the enjoyment of Thine unapproachable [light].[^926]"
+> **Priest:** "...[shine in our hearts the true Sun] of Thy righteousness;[^922] enlighten our mind, and preserve all our senses, that walking becomingly as in the day[^923] along the path of Thy commandments,[^924] we may attain unto life eternal; for with Thee is the fountain of life,[^925] and may be vouchsafed to be in the enjoyment of Thine unapproachable [light].[^926]"
 
 *Exclamation:*[^927]
-**Priest:** "[For Thine is the dominion, and Thine is] the kingdom,[^928] and the power, and the glory, of the Father, and of the Son, and of the Holy Spirit, now, and ever, and unto ages of ages. Amen."
+> **Priest:** "[For Thine is the dominion, and Thine is] the kingdom,[^928] and the power, and the glory, of the Father, and of the Son, and of the Holy Spirit, now, and ever, and unto ages of ages. Amen."
 
 *End of the Prayers.*[^929]
 

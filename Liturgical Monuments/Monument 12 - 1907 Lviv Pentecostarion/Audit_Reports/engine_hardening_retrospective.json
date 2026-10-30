@@ -1,0 +1,53 @@
+{
+  "monument_id": "1907_lviv_pentecostarion",
+  "title": "Lviv Stauropegion Paschal Pentecostarion (Lviv, 1907)",
+  "monument_type": "pentecostarion",
+  "genre_register": "hymnographic",
+  "retrospective_timestamp": "2026-10-30T21:19:11.489657+00:00",
+  "codicological_profile": {
+    "total_physical_leaves": 671,
+    "cohort_count": 68,
+    "default_cohort_size": 10,
+    "monument_type": "pentecostarion"
+  },
+  "subagent_execution_telemetry": {
+    "total_cohorts_dispatched": 68,
+    "worker_model": "flash",
+    "cohorts_passing_gate_100pct": 68,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.076,
+      "median_cohort_ratio": 1.202,
+      "max_cohort_median": 1.383
+    }
+  },
+  "argon_review_queue_telemetry": {
+    "total_items_recorded": 234,
+    "resolved_by_argon": 234,
+    "info_telemetry_only": 0,
+    "unresolved_quarantines": 0,
+    "codicological_crux_count": 0
+  },
+  "final_publication_verification": {
+    "parts_count": 9,
+    "parts": [
+      "1907_lviv_pentecostarion_part0_front_matter.md",
+      "1907_lviv_pentecostarion_part1_pascha_bright_week.md",
+      "1907_lviv_pentecostarion_part2_thomas_week.md",
+      "1907_lviv_pentecostarion_part3_myrrhbearing_women.md",
+      "1907_lviv_pentecostarion_part4_paralytic_mid_pentecost.md",
+      "1907_lviv_pentecostarion_part5_samaritan_woman.md",
+      "1907_lviv_pentecostarion_part6_blind_man_ascension_fathers.md",
+      "1907_lviv_pentecostarion_part7_pentecost_kneeling_all_saints.md",
+      "1907_lviv_pentecostarion_part8_typikon_appendix_gospel_pillars.md"
+    ],
+    "total_footnotes_verified": 3006,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.076,
+      "median_cohort_ratio": 1.202,
+      "max_cohort_median": 1.383
+    },
+    "all_6_publication_gates_passed": true
+  },
+  "edge_cases_and_anomalies": [],
+  "engine_hardening_proposals": []
+}

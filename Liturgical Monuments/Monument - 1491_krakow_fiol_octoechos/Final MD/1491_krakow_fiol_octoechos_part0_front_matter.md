@@ -1,8 +1,8 @@
-# 1491 Krakow Octoechos of Schweipolt Fiol (Осмогласник / Октоїх Швайпольта Фіоля, Краків, 1491) <a id="1491-krakow-octoechos-of-schweipolt-fiol-осмогласник-октоїх-швайпольта-фіоля-краків-1491"></a>
+# 1491 Krakow Octoechos of Schweipolt Fiol (Осмогласник / Октоїх Швайпольта Фіоля, Краків, 1491) <a id="1491-krakow-octoechos-of-schweipolt-fiol"></a>
 
-[Binding: Contemporary bevelled wooden boards covered in dark-brown blind-tooled calfskin leather. The central panel is adorned with blind-stamped geometric and foliate borders. The binding is fitted with five brass fittings: four ornate chased brass corner-plates bearing raised hemispherical dome bosses, a central lozenge-shaped brass centrepiece boss, and remnants of two brass clasp catches on the fore-edge.][^1]
+[p1LA] [Binding: Contemporary bevelled wooden boards covered in dark-brown blind-tooled calfskin leather. The central panel is adorned with blind-stamped geometric and foliate borders. The binding is fitted with five brass fittings: four ornate chased brass corner-plates bearing raised hemispherical dome bosses, a central lozenge-shaped brass centrepiece boss, and remnants of two brass clasp catches on the fore-edge.][^1]
 
-1.
+[p2LA] 1.
 
 [Calligraphic monogram and paraph in ink at the head of the leaf:]
 
@@ -24,13 +24,13 @@ STADT-BIBLIOTHEK BRESLAU[^4]
 
 [Faint reverse offset strike-through impression of the full-page Crucifixion woodcut from the facing leaf (p3).]
 
-[Full-page woodcut frontispiece within a double-line border: The Crucifixion of our Lord Jesus Christ. Christ is crucified upon the Cross at Golgotha, His head crowned with thorns inclined to the right, with blood streaming from His pierced side, hands, and feet upon the footstool. Above the Cross is a titulus tablet. To the left of the Cross stands the Most Holy Theotokos, swooning in grief and supported by the holy Myrrh-bearing women; to the right stand the holy Apostle and Evangelist John the Theologian with hand placed upon his breast, and the holy Centurion Longinus with halo. In the background rise the battlemented walls and towers of Jerusalem. The woodcut is illuminated with contemporary hand-coloring in green, cinnabar red, ochre, and brown pigments.][^5]
+[p3LA] [Full-page woodcut frontispiece within a double-line border: The Crucifixion of our Lord Jesus Christ. Christ is crucified upon the Cross at Golgotha, His head crowned with thorns inclined to the right, with blood streaming from His pierced side, hands, and feet upon the footstool. Above the Cross is a titulus tablet. To the left of the Cross stands the Most Holy Theotokos, swooning in grief and supported by the holy Myrrh-bearing women; to the right stand the holy Apostle and Evangelist John the Theologian with hand placed upon his breast, and the holy Centurion Longinus with halo. In the background rise the battlemented walls and towers of Jerusalem. The woodcut is illuminated with contemporary hand-coloring in green, cinnabar red, ochre, and brown pigments.][^5]
 
 ---
 
 ## TABLE OF CONTENTS
 
-* **[1491 Krakow Octoechos of Schweipolt Fiol (Осмогласник / Октоїх Швайпольта Фіоля, Краків, 1491)](#1491-krakow-octoechos-of-schweipolt-fiol-осмогласник-октоїх-швайпольта-фіоля-краків-1491)**
+* **[1491 Krakow Octoechos of Schweipolt Fiol (Осмогласник / Октоїх Швайпольта Фіоля, Краків, 1491)](#1491-krakow-octoechos-of-schweipolt-fiol)**
 * **[TONE 1](1491_krakow_fiol_octoechos_part1_tone-1.md#tone-1)**
   * [SATURDAY EVENING: VESPERS (TONE 1)](1491_krakow_fiol_octoechos_part1_tone-1.md#saturday-evening-vespers-tone-1)
   * [SUNDAY MIDNIGHT OFFICE (TONE 1)](1491_krakow_fiol_octoechos_part1_tone-1.md#sunday-midnight-office-tone-1)
@@ -68,15 +68,16 @@ STADT-BIBLIOTHEK BRESLAU[^4]
   * [SUNDAY MIDNIGHT OFFICE (TONE 8)](1491_krakow_fiol_octoechos_part8_tone-8.md#sunday-midnight-office-tone-8)
   * [SUNDAY MATINS (TONE 8)](1491_krakow_fiol_octoechos_part8_tone-8.md#sunday-matins-tone-8)
   * [SUNDAY LITURGY: THE BEATITUDES (TONE 8)](1491_krakow_fiol_octoechos_part8_tone-8.md#sunday-liturgy-the-beatitudes-tone-8)
-  * [SUNDAY EVENING VESPERS (TONE 8)](1491_krakow_fiol_octoechos_part8_tone-8.md#sunday-evening-vespers-tone-8)
-  * [MONDAY EVENING VESPERS (FOR TUESDAY) (TONE 8)](1491_krakow_fiol_octoechos_part8_tone-8.md#monday-evening-vespers-for-tuesday-tone-8)
-  * [WEDNESDAY MATINS: THE PRECIOUS CROSS AND THE THEOTOKOS (TONE 8)](1491_krakow_fiol_octoechos_part8_tone-8.md#wednesday-matins-the-precious-cross-and-the-theotokos-tone-8)
-  * [WEDNESDAY EVENING VESPERS (FOR THURSDAY) (TONE 8)](1491_krakow_fiol_octoechos_part8_tone-8.md#wednesday-evening-vespers-for-thursday-tone-8)
-  * [THURSDAY EVENING VESPERS (FOR FRIDAY) (TONE 8)](1491_krakow_fiol_octoechos_part8_tone-8.md#thursday-evening-vespers-for-friday-tone-8)
-  * [FRIDAY MATINS: THE PRECIOUS CROSS AND THE THEOTOKOS (TONE 8)](1491_krakow_fiol_octoechos_part8_tone-8.md#friday-matins-the-precious-cross-and-the-theotokos-tone-8)
-  * [FRIDAY EVENING VESPERS (FOR SATURDAY) (TONE 8)](1491_krakow_fiol_octoechos_part8_tone-8.md#friday-evening-vespers-for-saturday-tone-8)
-* **[EXAPOSTILARIA AND EVANGELICAL STICHERA](1491_krakow_fiol_octoechos_part9_exapostilaria-and-evangelical-stichera.md#exapostilaria-and-evangelical-stichera)**
-  * [CODICOLOGICAL PROVENANCE, ARCHIVAL INSCRIPTIONS, AND REAR BINDING](1491_krakow_fiol_octoechos_part9_exapostilaria-and-evangelical-stichera.md#codicological-provenance-archival-inscriptions-and-rear-binding)
+* **[WEEKDAY OFFICES OF THE OCTOECHOS (MONDAY THROUGH SATURDAY)](1491_krakow_fiol_octoechos_part9_weekday-offices-of-the-octoechos-monday.md#weekday-offices-of-the-octoechos-monday-through-saturday)**
+  * [MONDAY EVENING VESPERS (FOR TUESDAY)](1491_krakow_fiol_octoechos_part9_weekday-offices-of-the-octoechos-monday.md#monday-evening-vespers-for-tuesday)
+  * [WEDNESDAY MATINS: THE PRECIOUS CROSS AND THE THEOTOKOS](1491_krakow_fiol_octoechos_part9_weekday-offices-of-the-octoechos-monday.md#wednesday-matins-the-precious-cross-and-the-theotokos)
+  * [WEDNESDAY EVENING VESPERS (FOR THURSDAY)](1491_krakow_fiol_octoechos_part9_weekday-offices-of-the-octoechos-monday.md#wednesday-evening-vespers-for-thursday)
+  * [THURSDAY EVENING VESPERS (FOR FRIDAY)](1491_krakow_fiol_octoechos_part9_weekday-offices-of-the-octoechos-monday.md#thursday-evening-vespers-for-friday)
+  * [FRIDAY MATINS: THE PRECIOUS CROSS AND THE THEOTOKOS](1491_krakow_fiol_octoechos_part9_weekday-offices-of-the-octoechos-monday.md#friday-matins-the-precious-cross-and-the-theotokos)
+  * [FRIDAY EVENING VESPERS (FOR SATURDAY)](1491_krakow_fiol_octoechos_part9_weekday-offices-of-the-octoechos-monday.md#friday-evening-vespers-for-saturday)
+* **[EXAPOSTILARIA AND EVANGELICAL STICHERA](1491_krakow_fiol_octoechos_part10_exapostilaria-and-evangelical-stichera.md#exapostilaria-and-evangelical-stichera)**
+* **[ASCETIC HOMILIES AND COLOPHON](1491_krakow_fiol_octoechos_part11_ascetic-homilies-and-colophon.md#ascetic-homilies-and-colophon)**
+  * [CODICOLOGICAL PROVENANCE, ARCHIVAL INSCRIPTIONS, AND REAR BINDING](1491_krakow_fiol_octoechos_part11_ascetic-homilies-and-colophon.md#codicological-provenance-archival-inscriptions-and-rear-binding)
 
 ---
 

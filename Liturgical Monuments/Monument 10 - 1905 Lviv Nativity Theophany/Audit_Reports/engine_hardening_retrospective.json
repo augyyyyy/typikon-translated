@@ -1,0 +1,51 @@
+{
+  "monument_id": "1905_lviv_nativity_theophany",
+  "title": "Divine Services for Nativity, Circumcision, and Theophany (Galician Recension, Lviv, 1905)",
+  "monument_type": "anthologion",
+  "genre_register": "hymnographic",
+  "retrospective_timestamp": "2026-10-30T21:19:09.999307+00:00",
+  "codicological_profile": {
+    "total_physical_leaves": 296,
+    "cohort_count": 30,
+    "default_cohort_size": 10,
+    "monument_type": "anthologion"
+  },
+  "subagent_execution_telemetry": {
+    "total_cohorts_dispatched": 30,
+    "worker_model": "flash",
+    "cohorts_passing_gate_100pct": 30,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.06,
+      "median_cohort_ratio": 1.146,
+      "max_cohort_median": 1.298
+    }
+  },
+  "argon_review_queue_telemetry": {
+    "total_items_recorded": 94,
+    "resolved_by_argon": 94,
+    "info_telemetry_only": 0,
+    "unresolved_quarantines": 0,
+    "codicological_crux_count": 0
+  },
+  "final_publication_verification": {
+    "parts_count": 7,
+    "parts": [
+      "1905_lviv_nativity_theophany_part0_front_matter.md",
+      "1905_lviv_nativity_theophany_part1_nativity_eve.md",
+      "1905_lviv_nativity_theophany_part2_nativity_feast.md",
+      "1905_lviv_nativity_theophany_part3_nativity_postfeast.md",
+      "1905_lviv_nativity_theophany_part4_circumcision_basil.md",
+      "1905_lviv_nativity_theophany_part5_theophany_eve_water.md",
+      "1905_lviv_nativity_theophany_part6_theophany_feast_forerunner.md"
+    ],
+    "total_footnotes_verified": 1095,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.06,
+      "median_cohort_ratio": 1.146,
+      "max_cohort_median": 1.298
+    },
+    "all_6_publication_gates_passed": true
+  },
+  "edge_cases_and_anomalies": [],
+  "engine_hardening_proposals": []
+}

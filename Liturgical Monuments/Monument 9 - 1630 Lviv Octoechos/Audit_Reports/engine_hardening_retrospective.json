@@ -1,0 +1,54 @@
+{
+  "monument_id": "1630_lviv_octoechos",
+  "title": "Lviv Printed Octoechos (Lviv Stauropegion, 1630)",
+  "monument_type": "octoechos",
+  "genre_register": "hymnographic",
+  "retrospective_timestamp": "2026-10-30T21:19:09.621774+00:00",
+  "codicological_profile": {
+    "total_physical_leaves": 267,
+    "cohort_count": 27,
+    "default_cohort_size": 10,
+    "monument_type": "octoechos"
+  },
+  "subagent_execution_telemetry": {
+    "total_cohorts_dispatched": 27,
+    "worker_model": "flash",
+    "cohorts_passing_gate_100pct": 27,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.113,
+      "median_cohort_ratio": 1.169,
+      "max_cohort_median": 1.358
+    }
+  },
+  "argon_review_queue_telemetry": {
+    "total_items_recorded": 5,
+    "resolved_by_argon": 5,
+    "info_telemetry_only": 0,
+    "unresolved_quarantines": 0,
+    "codicological_crux_count": 0
+  },
+  "final_publication_verification": {
+    "parts_count": 10,
+    "parts": [
+      "1630_lviv_octoechos_part0_front_matter.md",
+      "1630_lviv_octoechos_part1_tone1.md",
+      "1630_lviv_octoechos_part2_tone2.md",
+      "1630_lviv_octoechos_part3_tone3.md",
+      "1630_lviv_octoechos_part4_tone4.md",
+      "1630_lviv_octoechos_part5_tone5.md",
+      "1630_lviv_octoechos_part6_tone6.md",
+      "1630_lviv_octoechos_part7_tone7.md",
+      "1630_lviv_octoechos_part8_tone8.md",
+      "1630_lviv_octoechos_part9_exapostilaria_eothina_and_colophon.md"
+    ],
+    "total_footnotes_verified": 351,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.113,
+      "median_cohort_ratio": 1.169,
+      "max_cohort_median": 1.358
+    },
+    "all_6_publication_gates_passed": true
+  },
+  "edge_cases_and_anomalies": [],
+  "engine_hardening_proposals": []
+}

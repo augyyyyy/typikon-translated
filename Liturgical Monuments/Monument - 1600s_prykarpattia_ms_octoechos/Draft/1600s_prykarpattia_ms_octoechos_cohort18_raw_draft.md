@@ -191,7 +191,7 @@ Dry up the muddy rivers of mine evil deeds, O Mother of God, by streams of compu
 *Kontakion: Thou Who wast lifted up upon the Cross of Thine own will, O Christ God, grant Thy compassions unto Thy new community that bears Thy name; make glad Thy faithful people by Thy power, granting them victories over their adversaries, having Thine aid as a weapon of peace, an invincible trophy!*
 
 *Ikos:*
-He who was caught up unto the third heaven into Paradise, and heard divine and ineffable words which it is not lawful for human tongues to utter—what doth he write to the Galatians, which ye as lovers of the Scriptures have read and understood? God forbid, he saith, that I should boast, save only in the Cross of the Lord, whereon having suffered He slew the passions! Having Him therefore, let us firmly hold fast to the Cross of the Lord, the boast of all; for this is our saving Tree, a weapon of peace, an invincible victory!
+He who was caught up unto the third heaven into Paradise, and heard divine and ineffable words which it is not lawful for human tongues to utter—what doth he write to the Galatians, which ye as lovers of the Scriptures have read and understood? God forbid, he says, that I should boast, save only in the Cross of the Lord, whereon having suffered He slew the passions! Having Him therefore, let us firmly hold fast to the Cross of the Lord, the boast of all; for this is our saving Tree, a weapon of peace, an invincible victory!
 
 *Ode 7. Heirmos: Unto the golden image of old, with Persian honor the three children would not bow down, singing to the Lord in the midst of the furnace: Blessed art Thou, O God of our fathers!*
 

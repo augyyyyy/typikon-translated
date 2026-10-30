@@ -4,17 +4,17 @@
 
 *The priest having made the beginning:*
 
-**Priest:**
+> **Priest:** ""
 Blessed is our God...
 
 *Then, the Trisagion [prayers]. And the Great Litany. Ekphonesis:*
 
-**Priest:**
+> **Priest:** ""
 For unto Thee is due all glory, [honor, and worship: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Choir: Amen.]
 
 *Afterwards the priest says unto him:*
 
-**Priest:**
+> **Priest:** ""
 [Fol. 49v. Decorative cinnabar initial O.]
 Dost thou renounce the Latin faith, and their Sabbath-fasting, which Peter the Stammerer established in Rome?[^175]
 
@@ -28,7 +28,7 @@ I renounce the Latin faith, and their Sabbath-fasting, and all Latin teaching, a
 
 *After this, the priest says this prayer:*
 
-**Priest:**
+> **Priest:** ""
 [Fol. 50r. Decorative cinnabar initial B.]
 O God our Savior, Who willest all men to be saved...
 
@@ -38,7 +38,7 @@ O God our Savior, Who willest all men to be saved...
 
 *And after the anointing with myron, he says over him this prayer:*
 
-**Priest:**
+> **Priest:** ""
 [Fol. 50v. Decorative cinnabar initial G.]
 O Lord our God, Who hast deigned to show forth this Thy servant, *[Name]*, perfect, through right faith which is toward Thee, and through the seal of Thy holy myron: do Thou, Master of all, preserve in him the true faith which is toward Thee; and nurture him in righteousness, and adorn him with all Thy gifts. Always, now and ever, and unto ages of ages. Amen.
 
@@ -48,40 +48,40 @@ O Lord our God, Who hast deigned to show forth this Thy servant, *[Name]*, perfe
 
 *THEN THIS PRAYER:*
 
-**Priest:**
+> **Priest:** ""
 [Fol. 51r. Decorative woodcut initial I.]
 [O Thou] Who hast granted unto Thy servant deliverance of sins by reason of holy baptism, and hast bestowed upon him renewal of life: do Thou Thyself, Master and Lord, ever deign to make the illumination of Thy countenance to shine in his heart. Preserve the strength of his faith unassailed by enemies. Guard pure and blameless in him the incorruption of the garments wherewith he has been clothed, preserving unbroken in him the spiritual seal by Thy grace; and be merciful unto him and unto us, according to the multitude of Thy compassions.[^180]
 
 *Ekphonesis:*
 
-**Priest:**
+> **Priest:** ""
 For blessed and glorified is Thine all-honorable and majestic name, of the Father, and of the Son...
 
-**Priest:**
+> **Priest:** ""
 ...and of the Holy Spirit, now and ever, and unto ages of ages. Amen.
 
 *And the priest, having taken warm water and a sponge, washes him where he anointed him with holy myron, saying:*[^181]
 
-**Priest:**
+> **Priest:** ""
 Thou art baptized. Thou art illumined.  
 Thou art washed. Thou art sanctified:  
 in the name of the Father, and of the Son, and of the Holy Spirit.  
 
-**Priest:**
+> **Priest:** ""
 Peace be unto all.
 
-**Deacon:**
+> **Deacon:** ""
 Bow your heads unto the Lord.
 
 *The priest says the prayer secretly:*
 
-**Priest:**
+> **Priest:** ""
 [Fol. 51v. Decorative woodcut initial I.]
 [He] that has put on Thee, Christ our God, has bowed his head with us unto Thee. Preserve him to abide an unconquered champion against those who vainly [wage] enmity wage warfare against him and against us; and by Thine incorruptible crown, show him forth even unto the end a conqueror of all.
 
 *Ekphonesis:*
 
-**Priest:**
+> **Priest:** ""
 For Thine it is to have mercy and to save us, [O Christ] our God, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages.
 
 [Choir: Amen.]
@@ -94,7 +94,7 @@ For Thine it is to have mercy and to save us, [O Christ] our God, and unto Thee 
 
 [Fol. 52r. Tailpiece: Renaissance woodcut ornament with grotesque mask and scrollwork.]
 
-[Fol. 52v. Blank leaf at the conclusion of Gathering 7 (ж), concluding the Rite of Reception of Latins.]
+(*Fol. 52v. Blank leaf at the conclusion of Gathering 7 (ж), concluding the Rite of Reception of Latins.*)
 
 [Fol. 53r. Headpiece: Monumental woodcut engraving depicting Christ Pantocrator / Great High Priest in a medallion flanked by angels amidst foliate and pomegranate rinceaux.]
 

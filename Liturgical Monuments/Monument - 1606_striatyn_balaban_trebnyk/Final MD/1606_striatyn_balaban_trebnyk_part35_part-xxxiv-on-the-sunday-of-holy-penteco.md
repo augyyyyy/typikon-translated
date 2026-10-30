@@ -14,53 +14,53 @@
 
 *Then the Great Litany:*[^2644]
 
-**Deacon:** In peace let us pray to the Lord.
+> **Deacon:** "In peace let us pray to the Lord."
 
-**Deacon:** For the sanctification of our souls and bodies, who with faith and reverence are assembled in this all-pure temple, let us pray to the Lord.[^2645]
+> **Deacon:** "For the sanctification of our souls and bodies, who with faith and reverence are assembled in this all-pure temple, let us pray to the Lord."[^2645]
 
-**Deacon:** That we may be accounted worthy of the incorruptible Kingdom through the grace of the Holy Spirit, let us pray to the Lord.[^2646]
+> **Deacon:** "That we may be accounted worthy of the incorruptible Kingdom through the grace of the Holy Spirit, let us pray to the Lord."[^2646]
 
-**Deacon:** That we may be preserved in faith and hope unshaken, through the grace of the Holy Spirit, let us pray to the Lord.[^2647]
+> **Deacon:** "That we may be preserved in faith and hope unshaken, through the grace of the Holy Spirit, let us pray to the Lord."[^2647]
 
-**Deacon:** That we may be temples and habitations of the Holy and Life-creating Spirit, let us pray to the Lord.[^2648]
+> **Deacon:** "That we may be temples and habitations of the Holy and Life-creating Spirit, let us pray to the Lord."[^2648]
 
-**Deacon:** That we may manifestly become partakers of the Holy Spirit, let us pray to the Lord.[^2649]
+> **Deacon:** "That we may manifestly become partakers of the Holy Spirit, let us pray to the Lord."[^2649]
 
-**Deacon:** For the sending down from heaven of an angel of peace, radiant, enlightening our mind, let us pray to the Lord.[^2650]
+> **Deacon:** "For the sending down from heaven of an angel of peace, radiant, enlightening our mind, let us pray to the Lord."[^2650]
 
-**Deacon:** For the deliverance from every affliction of the adversary by the All-Holy Spirit, let us pray to the Lord.[^2651]
+> **Deacon:** "For the deliverance from every affliction of the adversary by the All-Holy Spirit, let us pray to the Lord."[^2651]
 
-**Deacon:** For the bestowing of rich mercy and compassions through the grace of the Holy Spirit, let us pray to the Lord.
+> **Deacon:** "For the bestowing of rich mercy and compassions through the grace of the Holy Spirit, let us pray to the Lord."
 
-**Deacon:** For our salvation from on high, who have bowed our knees in faith of heart and body on this fiftieth day, let us pray to the Lord.[^2652]
+> **Deacon:** "For our salvation from on high, who have bowed our knees in faith of heart and body on this fiftieth day, let us pray to the Lord."[^2652]
 
-**Deacon:** That we may be accounted worthy, through the prayers of the holy apostles and martyrs, of the Heavenly Kingdom, let us pray to the Lord.
+> **Deacon:** "That we may be accounted worthy, through the prayers of the holy apostles and martyrs, of the Heavenly Kingdom, let us pray to the Lord."
 
-**Deacon:** For the offering up of the souls of all unto the worship of the Holy Spirit, let us pray to the Lord.[^2653]
+> **Deacon:** "For the offering up of the souls of all unto the worship of the Holy Spirit, let us pray to the Lord."[^2653]
 
-**Deacon:** That we may ever worship in soul and body, and chant unto the Holy Trinity, let us pray to the Lord.
+> **Deacon:** "That we may ever worship in soul and body, and chant unto the Holy Trinity, let us pray to the Lord."
 
-**Deacon:** For the self-restraint of the people, and the awaiting of the grace of the Holy Spirit, let us pray to the Lord.[^2654]
+> **Deacon:** "For the self-restraint of the people, and the awaiting of the grace of the Holy Spirit, let us pray to the Lord."[^2654]
 
-**Deacon:** For the Lord God to hear us sinners, and to send upon us the Holy Spirit and sanctify us, let us pray to the Lord.[^2655]
+> **Deacon:** "For the Lord God to hear us sinners, and to send upon us the Holy Spirit and sanctify us, let us pray to the Lord."[^2655]
 
-**Deacon:** For the Lord to be well pleased toward us who have bowed our knees, and to send down upon us His Holy Spirit, let us pray to the Lord.[^2656]
+> **Deacon:** "For the Lord to be well pleased toward us who have bowed our knees, and to send down upon us His Holy Spirit, let us pray to the Lord."[^2656]
 
-**Deacon:** For the acceptance of our prayers unto the savor of spiritual sweetness, let us pray to the Lord.[^2657]
+> **Deacon:** "For the acceptance of our prayers unto the savor of spiritual sweetness, let us pray to the Lord."[^2657]
 
-**Deacon:** That we may become partakers of the Divine radiance, and of the true and life-creating Trinity, let us pray to the Lord.
+> **Deacon:** "That we may become partakers of the Divine radiance, and of the true and life-creating Trinity, let us pray to the Lord."
 
-**Deacon:** That we may be delivered from all affliction, wrath, and need, let us pray to the Lord.[^2658]
+> **Deacon:** "That we may be delivered from all affliction, wrath, and need, let us pray to the Lord."[^2658]
 
-**Deacon:** Help us, save us, have mercy on us, and keep us, O God, by Thy grace.
+> **Deacon:** "Help us, save us, have mercy on us, and keep us, O God, by Thy grace."
 
-**Deacon:** Commemorating our all-holy, pure, and most blessed Lady Theotokos and Ever-Virgin Mary, with all the saints, let us commend ourselves and one another, and our whole life unto Christ our God.
+> **Deacon:** "Commemorating our all-holy, pure, and most blessed Lady Theotokos and Ever-Virgin Mary, with all the saints, let us commend ourselves and one another, and our whole life unto Christ our God."
 
 *Exclamation:*
 
-**Priest:** For unto Thee is due all glory, honor, and worship, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages.[^2659]
+> **Priest:** "For unto Thee is due all glory, honor, and worship, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."[^2659]
 
-**Reader:** Amen.
+> **Reader:** "Amen."
 
 *We do not say the Kathisma.*[^2660]
 
@@ -88,11 +88,11 @@ O Heavenly King, the Comforter, the Spirit of truth, Who art everywhere present 
 
 *Then the Deacon:*
 
-**Deacon:** Again and again, having bowed our knees, let us pray to the Lord.
+> **Deacon:** "Again and again, having bowed our knees, let us pray to the Lord."
 
 *And we having bowed our knees with covered heads, the priest, having bowed his head, prays, saying this prayer in the hearing of all:*[^2669]
 
-**Priest:** All-pure, undefiled, without beginning, invisible, incomprehensible, unsearchable, immutable, surpassing, innumerable, long-suffering Lord, Who alone hast immortality, dwelling in light unapproachable; Who madest heaven and earth, the sea, and all that in them is; Who grantest requests unto all before their asking: Thee we ask and Thee we beseech, O Master, Lover of mankind, the Father of our Lord Jesus Christ, Who for us men and for our salvation came down from heaven, and was incarnate of the Holy Spirit and of Mary the all-glorious[^2670] [^2671] and Ever-Virgin Theotokos; and Who by His precious Passion has shown unto us, Thy humble and unworthy servants, to bow our necks and knees for the pardon of our sins and for the ignorances of the people: do Thou hear us in whatsoever day we call upon Thee, but especially on this fiftieth day, whereon, after His ascension into heaven and sitting at the right hand of Thee, our God and Father, He sent down His All-Holy Spirit upon His holy disciples and apostles, and It sat upon each one of them, and all were filled with the Holy Spirit, and spoke with other tongues, and prophesied: do Thou hear us who pray,[^2672] [^2673] remember us humble and condemned ones; turn back the captivity of our souls, having Thy mercy interceding for us; receive us who fall down before Thee and cry: We have sinned. Unto Thee were we cast from the womb; from the belly of our mother Thou art our God.[^2674] But because our days have vanished in vanity, we are stripped of Thy help, we are straitened without any defense; yet, trusting in Thy tender mercies, we cry: Remember not the sins of our youth and our ignorances; cleanse us from our secret faults; look upon our lowliness, and forgive all our transgressions;[^2675]
+> **Priest:** "All-pure, undefiled, without beginning, invisible, incomprehensible, unsearchable, immutable, surpassing, innumerable, long-suffering Lord, Who alone hast immortality, dwelling in light unapproachable; Who madest heaven and earth, the sea, and all that in them is; Who grantest requests unto all before their asking: Thee we ask and Thee we beseech, O Master, Lover of mankind, the Father of our Lord Jesus Christ, Who for us men and for our salvation came down from heaven, and was incarnate of the Holy Spirit and of Mary the all-glorious[^2670] [^2671] and Ever-Virgin Theotokos; and Who by His precious Passion has shown unto us, Thy humble and unworthy servants, to bow our necks and knees for the pardon of our sins and for the ignorances of the people: do Thou hear us in whatsoever day we call upon Thee, but especially on this fiftieth day, whereon, after His ascension into heaven and sitting at the right hand of Thee, our God and Father, He sent down His All-Holy Spirit upon His holy disciples and apostles, and It sat upon each one of them, and all were filled with the Holy Spirit, and spoke with other tongues, and prophesied: do Thou hear us who pray,[^2672] [^2673] remember us humble and condemned ones; turn back the captivity of our souls, having Thy mercy interceding for us; receive us who fall down before Thee and cry: We have sinned. Unto Thee were we cast from the womb; from the belly of our mother Thou art our God.[^2674] But because our days have vanished in vanity, we are stripped of Thy help, we are straitened without any defense; yet, trusting in Thy tender mercies, we cry: Remember not the sins of our youth and our ignorances; cleanse us from our secret faults; look upon our lowliness, and forgive all our transgressions;"[^2675]
 
 cast us not off in the time of old age; when our strength fails, forsake us not; before we return unto the earth, make us worthy to return unto Thee; attend unto us favorably and graciously;[^2676] measure Thy compassions against our iniquities; set the abyss of Thy compassions against the multitude of our transgressions; look down from the height of Thy holiness, O Lord, upon Thy people who stand before Thee, awaiting rich mercy from Thee; visit us with Thy goodness; remember us in Thy compassions; deliver[^2677] us from the oppression of the devil.[^2678] Guard our life by Thy holy and sacred laws; appoint a faithful Angel, a guardian, unto Thy people; gather us all into Thy kingdom; grant mercy unto those who hope in Thee; forgive them and us our sins; cleanse us by the operation of Thy Holy Spirit;[^2679] destroy the snares of the enemy that are against us; grant us a life without temptation.[^2680] For Thine is an incomprehensible grace and ineffable love for mankind.[^2681]
 
@@ -102,17 +102,17 @@ Blessed art Thou, Master, God Almighty, Who hast illumined the day with the ligh
 
 *The Deacon:*
 
-**Deacon:** Help us, save us, have mercy on us, raise us up, and keep us, O God, by Thy grace.[^2685]
+> **Deacon:** "Help us, save us, have mercy on us, raise us up, and keep us, O God, by Thy grace."[^2685]
 
 Commemorating our all-holy, pure, and most blessed Lady, the Theotokos and Ever-Virgin Mary, with all the saints, let us commend ourselves and one another, and all our life unto Christ God.
 
 *Exclamation:*
 
-**Priest:** For Thine it is to have mercy and to save us, O Lord our God; and unto Thee we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages.[^2686]
+> **Priest:** "For Thine it is to have mercy and to save us, O Lord our God; and unto Thee we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."[^2686]
 
 *Then the litany by the deacon:*[^2687]
 
-**Deacon:** Let us all say with our whole soul and with our whole mind, let us all say.
+> **Deacon:** "Let us all say with our whole soul and with our whole mind, let us all say."
 
 O Lord Almighty, the God of our fathers, we pray Thee: hear and have mercy.
 
@@ -130,15 +130,15 @@ Again we pray for all our brethren and for all Christians.[^2691]
 
 *Exclamation:*
 
-**Priest:** For Thou art a merciful God and Lover of mankind, and unto Thee we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, [and unto ages of ages].[^2692]
+> **Priest:** "For Thou art a merciful God and Lover of mankind, and unto Thee we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, [and unto ages of ages]."[^2692]
 
 *Again the Deacon:*
 
-**Deacon:** Again and again, having bowed our knees, let us pray to the Lord.[^2693]
+> **Deacon:** "Again and again, having bowed our knees, let us pray to the Lord."[^2693]
 
 *And we having bowed our knees, the priest says this prayer in a loud voice:*[^2694]
 
-**Priest:** Lord our God, Who didst give Thy peace unto men, and the gift of Thine All-Holy Spirit while we were yet living in this life, constantly bestowing it upon the faithful as an inalienable portion; and Who hast more manifestly sent down this day Thy grace upon Thy disciples and apostles, and sharpened their lips with fiery tongues; through whom also the whole human race,[^2695] having received into the hearing of the ear the knowledge of God each in His own tongue, were illuminated by the flame of the Spirit, and were delivered from delusion as from darkness; and by the distribution of sensible fiery tongues and supernatural operation, were instructed in faith toward Thee, and were enlightened to bless Thee with the Father and the Holy Spirit in one Godhead, and power, and authority.[^2696] Thou therefore, the Radiance of the Father, the immutable and unchangeable Image of His essence and nature, the Fountain of wisdom and grace: open also the lips of me, a sinner, and teach me how it is meet, and for what necessities I ought to pray.[^2697] For Thou art He that knowest the great multitude of my sins, yet let Thy tender compassion overcome the countlessness of them; for behold, in fear I stand before Thee, casting the despair of my soul into the deep of Thy mercy.[^2698] Pilot my life, Thou Who by Thy word with ineffable wisdom and power directest all creation, the quiet Haven of the tempest-tossed; show me the way wherein I should walk.[^2699] Grant the Spirit of wisdom unto my thoughts; bestow the Spirit of understanding upon my foolishness; overshadow my deeds with the Spirit of Thy fear; and renew an upright Spirit within my inward parts; and with Thy sovereign Spirit[^2700] steady the slipping of my thoughts; that, being guided every day by Thy Good Spirit unto that which is profitable, I may be vouchsafed to do Thy commandments, and ever to remember Thy glorious Coming, which examines all that has been done by us.[^2701] And let me not be disregarded, to be deceived by the corruptible beauties of this world, but strengthen me to desire the reception of the treasures to come.[^2702] For Thou hast said, O Master: Whatsoever anyone shall ask in Thy Name, he receives without hindrance from Thy co-eternal God and Father.[^2703] Therefore I also, a sinner, at the coming[^2704] of Thy Holy Spirit, beseech Thy goodness: grant unto me whatsoever I have asked that is unto salvation.[^2705] Yea, Lord and Master, the Giver of every beneficence and the rich Bestower of good things; for Thou art He that givest superabundantly above that which we ask or understand; Thou art compassionate and merciful, Who sinlessly becamest a partaker of our flesh, and to those who bow their knees unto Thee, Thou inclinest Thyself in loving compassion, having become the cleansing for our sins.[^2706] Hear us from Thy holy heaven; cover us with the shelter of Thy wings; overlook not the works of Thy hands; unto Thee alone do we sin, but also[^2707] Thee alone do we serve; we know not how to worship a strange god, neither to stretch forth our hands, O Master, unto another god.[^2708] Forgive us all our sins; receiving our knee-bowing supplications, stretch forth unto us all the hand of help, and receive our prayer as acceptable incense, welcomed before Thy most good Kingdom.[^2709]
+> **Priest:** "Lord our God, Who didst give Thy peace unto men, and the gift of Thine All-Holy Spirit while we were yet living in this life, constantly bestowing it upon the faithful as an inalienable portion; and Who hast more manifestly sent down this day Thy grace upon Thy disciples and apostles, and sharpened their lips with fiery tongues; through whom also the whole human race,[^2695] having received into the hearing of the ear the knowledge of God each in His own tongue, were illuminated by the flame of the Spirit, and were delivered from delusion as from darkness; and by the distribution of sensible fiery tongues and supernatural operation, were instructed in faith toward Thee, and were enlightened to bless Thee with the Father and the Holy Spirit in one Godhead, and power, and authority.[^2696] Thou therefore, the Radiance of the Father, the immutable and unchangeable Image of His essence and nature, the Fountain of wisdom and grace: open also the lips of me, a sinner, and teach me how it is meet, and for what necessities I ought to pray.[^2697] For Thou art He that knowest the great multitude of my sins, yet let Thy tender compassion overcome the countlessness of them; for behold, in fear I stand before Thee, casting the despair of my soul into the deep of Thy mercy.[^2698] Pilot my life, Thou Who by Thy word with ineffable wisdom and power directest all creation, the quiet Haven of the tempest-tossed; show me the way wherein I should walk.[^2699] Grant the Spirit of wisdom unto my thoughts; bestow the Spirit of understanding upon my foolishness; overshadow my deeds with the Spirit of Thy fear; and renew an upright Spirit within my inward parts; and with Thy sovereign Spirit[^2700] steady the slipping of my thoughts; that, being guided every day by Thy Good Spirit unto that which is profitable, I may be vouchsafed to do Thy commandments, and ever to remember Thy glorious Coming, which examines all that has been done by us.[^2701] And let me not be disregarded, to be deceived by the corruptible beauties of this world, but strengthen me to desire the reception of the treasures to come.[^2702] For Thou hast said, O Master: Whatsoever anyone shall ask in Thy Name, he receives without hindrance from Thy co-eternal God and Father.[^2703] Therefore I also, a sinner, at the coming[^2704] of Thy Holy Spirit, beseech Thy goodness: grant unto me whatsoever I have asked that is unto salvation.[^2705] Yea, Lord and Master, the Giver of every beneficence and the rich Bestower of good things; for Thou art He that givest superabundantly above that which we ask or understand; Thou art compassionate and merciful, Who sinlessly becamest a partaker of our flesh, and to those who bow their knees unto Thee, Thou inclinest Thyself in loving compassion, having become the cleansing for our sins.[^2706] Hear us from Thy holy heaven; cover us with the shelter of Thy wings; overlook not the works of Thy hands; unto Thee alone do we sin, but also[^2707] Thee alone do we serve; we know not how to worship a strange god, neither to stretch forth our hands, O Master, unto another god.[^2708] Forgive us all our sins; receiving our knee-bowing supplications, stretch forth unto us all the hand of help, and receive our prayer as acceptable incense, welcomed before Thy most good Kingdom."[^2709]
 
 *The Priest prays:*
 
@@ -146,23 +146,23 @@ Lord, Lord, Who hast delivered us from every arrow that flies by day, deliver us
 
 *The Deacon:*
 
-**Deacon:** Help us, save us, have mercy on us, keep us, and raise us up, O God, by Thy grace.[^2716]
+> **Deacon:** "Help us, save us, have mercy on us, keep us, and raise us up, O God, by Thy grace."[^2716]
 
 Commemorating our all-holy, pure, and most blessed Lady, the Theotokos and Ever-Virgin Mary, with all the saints, let us commend ourselves and one another, and all our life unto Christ God.
 
 *Exclamation:*
 
-**Priest:** Through the good pleasure and grace of Thine Only-Begotten Son, with Whom Thou art blessed, together with Thine All-Holy, Good, and Life-Creating Spirit, now and ever, [and unto ages of ages].[^2717]
+> **Priest:** "Through the good pleasure and grace of Thine Only-Begotten Son, with Whom Thou art blessed, together with Thine All-Holy, Good, and Life-Creating Spirit, now and ever, [and unto ages of ages]."[^2717]
 
 *Then: "Vouchsafe, O Lord, this evening."*[^2718]
 
 *After this, the Deacon:*
 
-**Deacon:** Again and again, having bowed our knees, let us pray to the Lord.[^2719]
+> **Deacon:** "Again and again, having bowed our knees, let us pray to the Lord."[^2719]
 
 *The Priest says the third prayer, as we said before, while we bow our heads with our knees:*[^2720]
 
-**Priest:** Ever-existing, overflowing, living, and illuminating Fountain; co-eternal creative Power of the Father; Who didst most excellently fulfill the whole dispensation, O Christ our God;[^2721] Who didst shatter the indissoluble bonds of death and the bolts of Hades, and trample down the multitude of evil spirits;[^2722] Who didst offer Thyself as a blameless victim for us, giving Thine immaculate Body as a sacrifice, untouched and inaccessible to any sin, and through this dread and ineffable sacred rite didst bestow eternal life;[^2723]
+> **Priest:** "Ever-existing, overflowing, living, and illuminating Fountain; co-eternal creative Power of the Father; Who didst most excellently fulfill the whole dispensation, O Christ our God;[^2721] Who didst shatter the indissoluble bonds of death and the bolts of Hades, and trample down the multitude of evil spirits;[^2722] Who didst offer Thyself as a blameless victim for us, giving Thine immaculate Body as a sacrifice, untouched and inaccessible to any sin, and through this dread and ineffable sacred rite didst bestow eternal life;"[^2723]
 
 Who didst descend into Hades, and shatter the eternal bars, and show the ascent unto those who sat below;[^2724] and having caught the author of evil, the dragon of the abyss, with God-wise lure, and bound him with cords of gloom in torments, and in unquenchable fire, and in outer darkness, having imprisoned him by Thine immeasurably mighty power;[^2725] Who didst appear as a great Hearer unto those who are assaulted, and didst enlighten those who sit in darkness;[^2726] Thou, ever-existing Word of the Lord, and beloved Son of the Most High Father, ever-existing Light of ever-existing Light, Orient of the Sun of righteousness: hear us who pray unto Thee,[^2727] and give rest unto the souls of Thy servants, our fathers and brethren who have fallen asleep before us, and our other kin according to the flesh, and all who are of the household of faith, of whom also we now make remembrance; for in Thee is the dominion of all, and in Thy hand Thou holdest all the ends [of the earth].[^2728]
 
@@ -174,21 +174,21 @@ and wherein He suffered, having Himself been tempted, He became a promised Helpe
 
 *A prayer appended after these prayers, proper unto the Holy Spirit, the composition of the most holy Patriarch of Constantinople, Kyr Philotheos; say after the third prayer, subjoined:*[^2754]
 
-**Priest:** O Heavenly King, Comforter, Master co-unoriginate, and co-eternal, and consubstantial, and equally-honored Spirit with the Father and the Son; Spirit of truth; Existing, Good, Holy, Exercising Lordship, Life-Creating; Who proceedest ineffably from the Father, and restest indivisibly upon the Son; Who art the Bestower of adoption and deification of noetic[^2755] and rational nature; Treasury of present and future good things; Right Spirit, Master Spirit;[^2756] Who from the Father's hypostasis and from His divine and unoriginate mouth proceedest ineffably; hypostatic Breath, and Wisdom, and Power; Spirit of God and from God; Spirit of the Father, and from the Father; Spirit of the Son, Spirit of Christ;[^2757] from the beginning one essence, and proceeding from thence; these on account of one essence again and indivisible, and the utterance and manifestation from thence.[^2758] Thou therefore, O good Master, one God of the Trinity, true God from true God, [having together created] the noetic and sensible creation together, with the Father and the Son; and by that ineffable wisdom and power, and by the bridle of Thine ineffable providence, beyond word governing, and binding together, and establishing, and keeping:[^2759] Unoriginate, Invisible, Incomprehensible, Inconceivable, Innumerable, Unsearchable, Ineffable, of Countless Power, Almighty Lord;[^2760] Who in ancient times didst work diversely in the fathers and the prophets, and didst speak; and didst show forth the mystery of the Holy Trinity; and didst ineffably reveal the bodily dispensation of the Only-Begotten Son and God; and after the ascension with the flesh into the heavens,[^2761] and His session [on high]; and on this great, perfect, and saving feast of Pentecost, for the sake of Thine essential gifts and bounties, as essentially and in the form of fiery tongues having enlightened the world, didst sit upon the holy apostles and disciples;[^2762] and having clothed them with Thy God-befitting power, having filled them with supernatural and ineffable graces, according to the truthful promise of Christ;[^2763] through whom every human nature, having received the word of faith, we have been taught true knowledge of God and piety; and having been enlightened by Thine ineffable power and operation, to the only God in three Persons we have been taught to worship.[^2764] Do Thou Thyself therefore, O Master, the Father's Radiance, the living and unchangeable Image of the Father, and together the immutable Image of the Son, and Seal of Their essence and nature; Fountain of sanctification, and of immortality, and of life;[^2765] Who in the future and unchangeable and unending age art the Crown and ultimate Reward of the saints; in Whom the Cause of the Godhead, the only unbegotten Fountain and unoriginate Father and God, and through the Only-Begotten Son and God, the bestowal of all-good things ungrudgingly and ineffably and supernaturally operates, in[^2766] the present and the future life: receive the supplication of me, the most sinful and unworthy, even at this hour, Thou Who alone knowest the multitude of my sins.[^2767] Have mercy on me, O God, according to Thy great mercy, and according to the multitude of Thy compassions blot out my transgressions;[^2768] and wash me thoroughly from the mire of my sins, and cleanse the defilement of passions lying upon my soul; Thou Who alone art pure and all-pure, and the Cleanser of every defilement and stench of passions.[^2769] Cleanse me from my secret faults, O Lord, and spare Thy servant from the sins of others;[^2770] remember not the sins of my youth and of my ignorance, and of the wretchedness of my old age; enlighten the darkened eyes of my mind, having rekindled the extinguished lamp of grace;[^2771] teach my mind by experience, and habit, and operation to know that the Holy Spirit is truly in the rational nature; grant unto me well-ordered speech, and the power, and height, and strength of pure prayer extended on behalf of Thy people, and of Thy universal Church and flock;[^2772] which by Thy power and operation, and purchased by the blood of the Only-Begotten Son and God, Thou hast in God-befitting manner established and constituted; establish her upon the rock of the confession of the Godhead, unyielding,[^2773] and unshakable, mightier than the gates of hell;[^2774] more powerful than unruly heresies; and higher than demonic workings and powers; untouchable and unassailable; filled in every way with Thy strength and grace.[^2775] Receive, O King, their kneelings and groanings; their common, concordant, and outstretched prayers and diligent supplications, their faith, their hope;[^2776] namely, that they look unto Thee alone night and day, and look unto none other save Thee, our God and Master, and expect salvation from Thee alone;[^2777] and having forgiven both them and us every transgression, voluntary and involuntary, as the all-good and almighty God; and turn us from present evils, and vouchsafe us everlasting good things: by the mercy and love toward mankind of God and the Father, and of the co-eternal Son, and of Thee the All-Holy and equally honored Spirit, of the one tri-hypostatic Godhead, now and ever, and unto ages of ages. Amen.[^2778]
+> **Priest:** "O Heavenly King, Comforter, Master co-unoriginate, and co-eternal, and consubstantial, and equally-honored Spirit with the Father and the Son; Spirit of truth; Existing, Good, Holy, Exercising Lordship, Life-Creating; Who proceedest ineffably from the Father, and restest indivisibly upon the Son; Who art the Bestower of adoption and deification of noetic[^2755] and rational nature; Treasury of present and future good things; Right Spirit, Master Spirit;[^2756] Who from the Father's hypostasis and from His divine and unoriginate mouth proceedest ineffably; hypostatic Breath, and Wisdom, and Power; Spirit of God and from God; Spirit of the Father, and from the Father; Spirit of the Son, Spirit of Christ;[^2757] from the beginning one essence, and proceeding from thence; these on account of one essence again and indivisible, and the utterance and manifestation from thence.[^2758] Thou therefore, O good Master, one God of the Trinity, true God from true God, [having together created] the noetic and sensible creation together, with the Father and the Son; and by that ineffable wisdom and power, and by the bridle of Thine ineffable providence, beyond word governing, and binding together, and establishing, and keeping:[^2759] Unoriginate, Invisible, Incomprehensible, Inconceivable, Innumerable, Unsearchable, Ineffable, of Countless Power, Almighty Lord;[^2760] Who in ancient times didst work diversely in the fathers and the prophets, and didst speak; and didst show forth the mystery of the Holy Trinity; and didst ineffably reveal the bodily dispensation of the Only-Begotten Son and God; and after the ascension with the flesh into the heavens,[^2761] and His session [on high]; and on this great, perfect, and saving feast of Pentecost, for the sake of Thine essential gifts and bounties, as essentially and in the form of fiery tongues having enlightened the world, didst sit upon the holy apostles and disciples;[^2762] and having clothed them with Thy God-befitting power, having filled them with supernatural and ineffable graces, according to the truthful promise of Christ;[^2763] through whom every human nature, having received the word of faith, we have been taught true knowledge of God and piety; and having been enlightened by Thine ineffable power and operation, to the only God in three Persons we have been taught to worship.[^2764] Do Thou Thyself therefore, O Master, the Father's Radiance, the living and unchangeable Image of the Father, and together the immutable Image of the Son, and Seal of Their essence and nature; Fountain of sanctification, and of immortality, and of life;[^2765] Who in the future and unchangeable and unending age art the Crown and ultimate Reward of the saints; in Whom the Cause of the Godhead, the only unbegotten Fountain and unoriginate Father and God, and through the Only-Begotten Son and God, the bestowal of all-good things ungrudgingly and ineffably and supernaturally operates, in[^2766] the present and the future life: receive the supplication of me, the most sinful and unworthy, even at this hour, Thou Who alone knowest the multitude of my sins.[^2767] Have mercy on me, O God, according to Thy great mercy, and according to the multitude of Thy compassions blot out my transgressions;[^2768] and wash me thoroughly from the mire of my sins, and cleanse the defilement of passions lying upon my soul; Thou Who alone art pure and all-pure, and the Cleanser of every defilement and stench of passions.[^2769] Cleanse me from my secret faults, O Lord, and spare Thy servant from the sins of others;[^2770] remember not the sins of my youth and of my ignorance, and of the wretchedness of my old age; enlighten the darkened eyes of my mind, having rekindled the extinguished lamp of grace;[^2771] teach my mind by experience, and habit, and operation to know that the Holy Spirit is truly in the rational nature; grant unto me well-ordered speech, and the power, and height, and strength of pure prayer extended on behalf of Thy people, and of Thy universal Church and flock;[^2772] which by Thy power and operation, and purchased by the blood of the Only-Begotten Son and God, Thou hast in God-befitting manner established and constituted; establish her upon the rock of the confession of the Godhead, unyielding,[^2773] and unshakable, mightier than the gates of hell;[^2774] more powerful than unruly heresies; and higher than demonic workings and powers; untouchable and unassailable; filled in every way with Thy strength and grace.[^2775] Receive, O King, their kneelings and groanings; their common, concordant, and outstretched prayers and diligent supplications, their faith, their hope;[^2776] namely, that they look unto Thee alone night and day, and look unto none other save Thee, our God and Master, and expect salvation from Thee alone;[^2777] and having forgiven both them and us every transgression, voluntary and involuntary, as the all-good and almighty God; and turn us from present evils, and vouchsafe us everlasting good things: by the mercy and love toward mankind of God and the Father, and of the co-eternal Son, and of Thee the All-Holy and equally honored Spirit, of the one tri-hypostatic Godhead, now and ever, and unto ages of ages. Amen."[^2778]
 
 *The Deacon:*
 
-**Deacon:** Help us, save us, have mercy on us, stand up, and keep us, O God, by Thy grace.[^2779]
+> **Deacon:** "Help us, save us, have mercy on us, stand up, and keep us, O God, by Thy grace."[^2779]
 
 Commemorating our all-holy, pure, and most blessed Lady, the Theotokos and Ever-Virgin Mary, with all the saints, let us commend ourselves and one another, and all our life unto Christ God.[^2780]
 
 *Exclamation:*
 
-**Priest:** For Thou art a good God and the Lover of mankind, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages.[^2781]
+> **Priest:** "For Thou art a good God and the Lover of mankind, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."[^2781]
 
 *Then the Deacon:*
 
-**Deacon:** Let us complete our evening prayer unto the Lord.[^2782]
+> **Deacon:** "Let us complete our evening prayer unto the Lord."[^2782]
 
 Help us, save us, have mercy on us, and keep us, O God, by Thy grace.
 
@@ -208,21 +208,21 @@ Commemorating our all-holy, pure, and most blessed Lady...[^2787]
 
 *Exclamation:*
 
-**Priest:** For sanctified and glorified is Thine all-honorable and majestic Name, of the Father, and of the Son, and of the Holy Spirit, [now and ever, and unto ages of ages. Amen].[^2788]
+> **Priest:** "For sanctified and glorified is Thine all-honorable and majestic Name, of the Father, and of the Son, and of the Holy Spirit, [now and ever, and unto ages of ages. Amen]."[^2788]
 
-**Priest:** Peace be unto all.
+> **Priest:** "Peace be unto all."
 
 *The Deacon:*
 
-**Deacon:** Bow your heads unto the Lord.
+> **Deacon:** "Bow your heads unto the Lord."
 
 *Prayer of the Bowing of Heads:*
 
-**Priest:** O Lord our God, Who didst bow the heavens...[^2789]
+> **Priest:** "O Lord our God, Who didst bow the heavens..."[^2789]
 
 *Exclamation:*
 
-**Priest:** Blessed and glorified be the majesty of Thy kingdom, [of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages. Amen].[^2790]
+> **Priest:** "Blessed and glorified be the majesty of Thy kingdom, [of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages. Amen]."[^2790]
 
 *And we sing, we begin the Stichera of the Aposticha, Tone 3, Automelon:*[^2791]
 
@@ -246,11 +246,11 @@ Blessed art Thou, O Christ our God, Who hast revealed the fishermen to be all-wi
 
 *Thereafter the Priest says this prayer of dismissal, which is said on that day of the Holy Spirit:*[^2811]
 
-**Priest:** He Who poured out Himself from the paternal and divine bosoms, and came down from heaven upon earth, and took upon Himself all our human nature, and deified it; and having ascended again into the heavens with it, sat at the right hand of God and the Father; and sent down the divine, and all-holy, and life-creating, and almighty, and consubstantial, and co-enthroned, and equally-glorified, and co-eternal Spirit upon His consecrated and holy disciples, and through Him enlightened them indeed, and through[^2812] them the whole world: Christ our true God, through the prayers of His all-pure Mother, of His holy, glorious, all-praised, Spirit-bearing disciples and apostles, and of all the saints, have mercy on us and save us, as He is good and the Lover of mankind.[^2813]
+> **Priest:** "He Who poured out Himself from the paternal and divine bosoms, and came down from heaven upon earth, and took upon Himself all our human nature, and deified it; and having ascended again into the heavens with it, sat at the right hand of God and the Father; and sent down the divine, and all-holy, and life-creating, and almighty, and consubstantial, and co-enthroned, and equally-glorified, and co-eternal Spirit upon His consecrated and holy disciples, and through Him enlightened them indeed, and through[^2812] them the whole world: Christ our true God, through the prayers of His all-pure Mother, of His holy, glorious, all-praised, Spirit-bearing disciples and apostles, and of all the saints, have mercy on us and save us, as He is good and the Lover of mankind."[^2813]
 
 *Another dismissal in brief:*[^2814]
 
-**Priest:** He Who in the appearance of fiery tongues sent down the All-Holy Spirit upon His holy disciples and apostles, Christ our true God, through the prayers of His all-pure Mother, and of the holy, all-praised chief apostles, and of all the saints, have mercy on us and save us, as He is good and the Lover of mankind.[^2815]
+> **Priest:** "He Who in the appearance of fiery tongues sent down the All-Holy Spirit upon His holy disciples and apostles, Christ our true God, through the prayers of His all-pure Mother, and of the holy, all-praised chief apostles, and of all the saints, have mercy on us and save us, as He is good and the Lover of mankind."[^2815]
 
 ---
 

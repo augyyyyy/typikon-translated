@@ -158,7 +158,7 @@
 
 **[Left Page — Fol. 125v (p. 236)]**
 
-*[Full-page woodcut icon: The image and figure of our father among the saints, Basil the Great, Archbishop of Caesarea in Cappadocia. In the upper-left corner of the border: sheet registry numeral 36 (л҃ѕ). Inscription above the halo: "THE HOLY" (СТ҃ЫИ); flanking the halo: "BASIL THE GREAT" (ВАСІ́ЛЇЕ ВЕЛИ́КЫ[И]). The holy hierarch is depicted full-length, vested in polystavrion phelonion, great omophorion, and epigonation, holding the Gospel book in his left hand and blessing with his right hand, surrounded by an elaborate Renaissance foliate and strapwork architectural border.]*[^416]
+*[Full-page woodcut icon: The image and figure of our father among the saints, Basil the Great, Archbishop of Caesarea in Cappadocia. In the upper-left corner of the border: sheet registry numeral 36 (л҃ѕ). Inscription above the halo: "THE HOLY" (СТ҃ЫИ); flanking the halo: "BASIL THE GREAT" (ВАСІ́ЛЇЕ ВЕЛИ́КЫ(*И*)). The holy hierarch is depicted full-length, vested in polystavrion phelonion, great omophorion, and epigonation, holding the Gospel book in his left hand and blessing with his right hand, surrounded by an elaborate Renaissance foliate and strapwork architectural border.]*[^416]
 
 **[Right Page — Fol. 126r (p. 237)]**
 

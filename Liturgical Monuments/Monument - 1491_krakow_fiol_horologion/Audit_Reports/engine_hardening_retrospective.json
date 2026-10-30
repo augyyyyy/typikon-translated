@@ -1358,5 +1358,106 @@
       ],
       "impact": "Applies the full 120-verb morphological '-eth' healer to both body and footnotes during Phase 1 and logs to scratch/triage_inbox.jsonl only when deterministic self-healing fails."
     }
+  ],
+  "title": "1491 Krakow Horologion of Schweipolt Fiol (Часослов Швайпольта Фіоля, Краків, 1491)",
+  "monument_type": "horologion",
+  "genre_register": "rubrical",
+  "retrospective_timestamp": "2026-10-30T21:19:14.659350+00:00",
+  "codicological_profile": {
+    "total_physical_leaves": 582,
+    "cohort_count": 59,
+    "default_cohort_size": 10,
+    "monument_type": "horologion"
+  },
+  "subagent_execution_telemetry": {
+    "total_cohorts_dispatched": 59,
+    "worker_model": "flash",
+    "cohorts_passing_gate_100pct": 59,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.167,
+      "median_cohort_ratio": 1.556,
+      "max_cohort_median": 2.001
+    }
+  },
+  "argon_review_queue_telemetry": {
+    "total_items_recorded": 73,
+    "resolved_by_argon": 73,
+    "info_telemetry_only": 0,
+    "unresolved_quarantines": 0,
+    "codicological_crux_count": 0
+  },
+  "final_publication_verification": {
+    "parts_count": 10,
+    "parts": [
+      "1491_krakow_fiol_horologion_part0_front_matter.md",
+      "1491_krakow_fiol_horologion_part1_part-i-the-daily-office-midnight-office.md",
+      "1491_krakow_fiol_horologion_part2_the-order-of-the-typika-which-is-the-obe.md",
+      "1491_krakow_fiol_horologion_part3_part-ii-troparia-and-kontakia-throughout.md",
+      "1491_krakow_fiol_horologion_part4_part-iii-menologion.md",
+      "1491_krakow_fiol_horologion_part5_synaxarion-of-the-triodion-and-pentecost.md",
+      "1491_krakow_fiol_horologion_part6_selected-psalms-for-solemn-commemoration.md",
+      "1491_krakow_fiol_horologion_part7_part-iv-rule-for-holy-communion.md",
+      "1491_krakow_fiol_horologion_part8_part-v-printers-colophon-and-civic-arms.md",
+      "1491_krakow_fiol_horologion_part9_part-vi-rear-endpapers-and-archival-marg.md"
+    ],
+    "total_footnotes_verified": 1365,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.167,
+      "median_cohort_ratio": 1.556,
+      "max_cohort_median": 2.001
+    },
+    "all_6_publication_gates_passed": true
+  },
+  "edge_cases_and_anomalies": [
+    {
+      "id": "EDGE_4A_DYNAMIC_H1_PART_GRANULARITY_SKEW",
+      "category": "scripts/structural_audit.py & scripts/compile_final_edition.py::_slice_parts",
+      "severity": "HIGH",
+      "description": "Global whitelisting of '# TONE N' and '# EXAPOSTILARIA' (designed for Octoechoi) alongside rejection of '# THE ORDER OF THE TYPIKA...' (p55) and '# SELECTED PSALMS...' (p529) caused Part 2 ('exapostilaria-of-the-week.md', 204 KB) to absorb the entire Daily Office (p7-p122) and Part 4 ('part-iii-menologion.md', 978 KB) to absorb the Menologion, Triodion, Passion Week, Pentecostarion, Selected Psalms, and Megalynaria (p141-p563)."
+    },
+    {
+      "id": "EDGE_4B_FOOTNOTE_LEAK_AND_SLUG_HYPHEN_TRUNCATION",
+      "category": "scripts/compile_final_edition.py::UniversalPublicationEngine._slice_parts (lines 1011-1025)",
+      "severity": "HIGH",
+      "description": "Dynamic H1 extraction did not strip '[^N]' footnote markers from h1_title ('PART IV: RULE FOR HOLY COMMUNION[^1205]') and truncated slug at 40 chars with .strip('_') instead of .strip('-_'), producing trailing hyphens ('...arms-.md') and mid-word cuts ('...marg.md')."
+    },
+    {
+      "id": "EDGE_4C_ELLIPSIS_AND_FOOTNOTE_SEAM_STITCHING",
+      "category": "scripts/compile_final_edition.py::stitch_leaf_stream",
+      "severity": "HIGH",
+      "description": "While 3 mid-sentence page breaks were stitched, leaf boundaries where the subagent placed a trailing footnote '[^N]' at the bottom of leaf pK or a leading '...word' ellipsis at the top of leaf p(K+1) remained unmerged."
+    }
+  ],
+  "engine_hardening_proposals": [
+    {
+      "proposal_id": "RANK-1",
+      "target_script": "scripts/compile_final_edition.py::UniversalPublicationEngine._slice_parts",
+      "priority": "RANK_1",
+      "title": "Strip Footnote Markers & Fix Hyphen Truncation in Dynamic H1 Part Slicing"
+    },
+    {
+      "proposal_id": "RANK-2",
+      "target_script": "scripts/autonomous_orchestrator.py::_apply_vocabulary_and_doxology_healing",
+      "priority": "RANK_2",
+      "title": "Auto-Parenthesize Square-Bracketed Cyrillic & Sanitize Greek/Cyrillic Homoglyphs"
+    },
+    {
+      "proposal_id": "RANK-3",
+      "target_script": "scripts/structural_audit.py::audit_structure",
+      "priority": "RANK_3",
+      "title": "Genre-Scoped H1 Landmarks for Horologion / Compendium Codices"
+    },
+    {
+      "proposal_id": "RANK-4",
+      "target_script": "scripts/run_small_pause_gate.py::update_argon_review_queue",
+      "priority": "RANK_4",
+      "title": "Recalibrate argon_review_queue.json Thresholds & Add Codicological Anomaly Keywords"
+    },
+    {
+      "proposal_id": "RANK-5",
+      "target_script": "scripts/autonomous_orchestrator.py::_apply_anti_slop_healing",
+      "priority": "RANK_5",
+      "title": "Unify Phase 1 & Phase 2 '-eth' Verb Healing and Suppress Pre-Heal Triage Noise"
+    }
   ]
 }

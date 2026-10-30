@@ -1,4 +1,4 @@
-# 1606 Striatyn Euchologion / Trebnyk of Teodor & Hedeon Balaban (Молитвенник альбо Требник, Стрятин: Друкарня Балабанів, 1606) <a id="1606-striatyn-euchologion-trebnyk-of-teodor-hedeon-balaban-молитвенник-альбо-требник-стрятин-друкарня-балабанів-1606"></a>
+# 1606 Striatyn Euchologion / Trebnyk of Teodor & Hedeon Balaban (Молитвенник альбо Требник, Стрятин: Друкарня Балабанів, 1606) <a id="1606-striatyn-euchologion-trebnyk-of-teodor-hedeon-balaban"></a>
 
 [Title page set within a woodcut architectural border: a portal with two fluted columns entwined with grapevine clusters; above, a winged cherub head and urns with fruits; below, two rampant unicorns flanking an escutcheon bearing the Korczak coat of arms of the Balaban family.]
 
@@ -34,7 +34,7 @@ Exarch of the Ecumenical Throne of the Great Church of Constantinople.[^2]
 
 ## TABLE OF CONTENTS
 
-* **[1606 Striatyn Euchologion / Trebnyk of Teodor & Hedeon Balaban (Молитвенник альбо Требник, Стрятин: Друкарня Балабанів, 1606)](#1606-striatyn-euchologion-trebnyk-of-teodor-hedeon-balaban-молитвенник-альбо-требник-стрятин-друкарня-балабанів-1606)**
+* **[1606 Striatyn Euchologion / Trebnyk of Teodor & Hedeon Balaban (Молитвенник альбо Требник, Стрятин: Друкарня Балабанів, 1606)](#1606-striatyn-euchologion-trebnyk-of-teodor-hedeon-balaban)**
 * **[PREFACE: TO THE READER](1606_striatyn_balaban_trebnyk_part1_preface-to-the-reader.md#preface-to-the-reader)**
 * **[PART I: ORDER FOR THE NAMING OF A CHILD ON THE EIGHTH DAY](1606_striatyn_balaban_trebnyk_part2_part-i-order-for-the-naming-of-a-child-o.md#part-i-order-for-the-naming-of-a-child-on-the-eighth-day)**
 * **[PART II: CANONS OF THE HOLY APOSTLES AND OF THE GOD-BEARING HOLY FATHERS CONCERNING HOLY BAPTISM](1606_striatyn_balaban_trebnyk_part3_part-ii-canons-of-the-holy-apostles-and.md#part-ii-canons-of-the-holy-apostles-and-of-the-god-bearing-holy-fathers-concerning-holy-baptism)**
@@ -92,7 +92,7 @@ Exarch of the Ecumenical Throne of the Great Church of Constantinople.[^2]
 * **[PART LIV: CONCERNING CARRION [ABOMINATIONS] WHICH IT IS NOT BEFITTING TO EAT](#part-liv-concerning-carrion-abominations-which-it-is-not-befitting-to-eat)**
 * **[PART LV: CONCERNING THOSE WHO ABDUCT WOMEN FOR MARRIAGE](1606_striatyn_balaban_trebnyk_part56_part-lv-concerning-those-who-abduct-wome.md#part-lv-concerning-those-who-abduct-women-for-marriage)**
 * **[PART LVI: COLOPHON & IMPRINT OF THE STRIATYN TREBNYK](1606_striatyn_balaban_trebnyk_part57_part-lvi-colophon-imprint-of-the-striaty.md#part-lvi-colophon-imprint-of-the-striatyn-trebnyk)**
-* **[PART LVII: TABLE OF CONTENTS (ОГЛАВЛЕНІЕ ВЪСЛѢДОВАНІЙ)](1606_striatyn_balaban_trebnyk_part58_part-lvii-table-of-contents-оглавленіе-в.md#part-lvii-table-of-contents-оглавленіе-въслѣдованій)**
+* **[PART LVII: TABLE OF CONTENTS (ОГЛАВЛЕНІЕ ВЪСЛѢДОВАНІЙ)](1606_striatyn_balaban_trebnyk_part58_part-lvii-table-of-contents.md#part-lvii-table-of-contents)**
 
 ---
 

@@ -16,7 +16,7 @@
 
 **Bishop / Hierarch:** Peace be unto all.[^3860]
 
-**Deacon:** Let us bow our heads unto the Lord.[^3861]
+> **Deacon:** "Let us bow our heads unto the Lord."[^3861]
 
 *The hierarch says this prayer secretly:*[^3862]
 

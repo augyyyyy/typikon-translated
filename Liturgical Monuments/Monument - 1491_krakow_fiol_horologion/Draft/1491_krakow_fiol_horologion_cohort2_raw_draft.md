@@ -97,7 +97,7 @@ Give ear unto my words, O Lord; consider my cry [LXX Ps. 5:2].[^38] Attend unto 
 ...for they have provoked Thee, O Lord. And let all them that hope in Thee be glad; unto ages shall they rejoice, and Thou shalt dwell in them; and they that love Thy Name shall boast in Thee. For Thou shalt bless the righteous, O Lord; with the shield of Thy good-pleasure hast Thou crowned us [LXX Ps. 5:11–13].[^39]
 
 *A Prayer of Moses, the man of God. Psalm 89 [LXX Ps. 89]:*[^40]  
-Lord, Thou hast been our refuge from generation to generation. Before the mountains came to be, and the earth and the world were formed, from age unto age, Thou art. Turn not man back unto humiliation; and Thou saidst: Return, ye sons of men. For a thousand years in Thine eyes, O Lord, are as yesterday which is past, and as a watch in the night. Their trivialities shall be years: in the morning as grass it passes away; in the morning it flourishes and passes away; in the evening it drops, withers, and dris up. For we have been consumed by Thine anger, and by Thy wrath have we been troubled [LXX Ps. 89:1–7].
+Lord, Thou hast been our refuge from generation to generation. Before the mountains came to be, and the earth and the world were formed, from age unto age, Thou art. Turn not man back unto humiliation; and Thou saidst: Return, ye sons of men. For a thousand years in Thine eyes, O Lord, are as yesterday which is past, and as a watch in the night. Their trivialities shall be years: in the morning as grass it passes away; in the morning it flourishes and passes away; in the evening it drops, withers, and dries up. For we have been consumed by Thine anger, and by Thy wrath have we been troubled [LXX Ps. 89:1–7].
 
 === LEAF p20 ===
 

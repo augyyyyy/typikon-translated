@@ -127,67 +127,90 @@ class ChronicleManager:
         if not cls.CHRONICLE_PATH.exists():
             return False
 
-        with open(cls.CHRONICLE_PATH, "r", encoding="utf-8") as f:
-            content = f.read()
+        if str(SCRIPT_DIR) not in sys.path:
+            sys.path.insert(0, str(SCRIPT_DIR))
+        from concurrency_lock import FileLock, atomic_write_text
+
+        effective_working_state = working_state
+        if working_state:
+            try:
+                from orchestrator_state import get_concurrent_active_monuments_map
+                concurrent_map = get_concurrent_active_monuments_map()
+                if len(concurrent_map) >= 2:
+                    segments: List[str] = []
+                    for mid, info in concurrent_map.items():
+                        title = info.get("active_monument", mid)
+                        cohort = info.get("current_cohort", 1)
+                        done = info.get("translated_pages", 0)
+                        total = info.get("total_physical_pages", 0)
+                        segments.append(f"{title} #{cohort} ({done}/{total} leaves)")
+                    if working_state not in segments:
+                        segments[0] = working_state
+                    effective_working_state = " || ".join(segments)
+            except Exception:
+                effective_working_state = working_state
 
         git_rev = commit_hash or cls.get_git_commit()
         now_date = date_str or datetime.now(timezone.utc).strftime("%B %d, %Y")
 
-        # Update Current Date
-        content = re.sub(
-            r"\*\*Current Date:[*]{2}\s*[^\n·]+",
-            f"**Current Date:** {now_date} ",
-            content
-        )
+        with FileLock("chronicle"):
+            with open(cls.CHRONICLE_PATH, "r", encoding="utf-8") as f:
+                content = f.read()
 
-        # Update Active Commit
-        if git_rev and git_rev != "uncommitted":
+            # Update Current Date
             content = re.sub(
-                r"\*\*Active Commit:[*]{2}\s*`[^`]+`",
-                f"**Active Commit:** `{git_rev}`",
+                r"\*\*Current Date:[*]{2}\s*[^\n·]+",
+                f"**Current Date:** {now_date} ",
                 content
             )
 
-        # Update Working State
-        if working_state:
-            content = re.sub(
-                r"(\*\*Working State:[*]{2}\s*)[^\n]+",
-                rf"\g<1>{working_state}",
-                content
-            )
+            # Update Active Commit
+            if git_rev and git_rev != "uncommitted":
+                content = re.sub(
+                    r"\*\*Active Commit:[*]{2}\s*`[^`]+`",
+                    f"**Active Commit:** `{git_rev}`",
+                    content
+                )
 
-        # Update What Was Just Built
-        if built_summary:
-            content = re.sub(
-                r"(\*\s+\*\*What Was Just Built:[*]{2}\s*)[^\n]+",
-                rf"\g<1>{built_summary}",
-                content
-            )
+            # Update Working State
+            if effective_working_state:
+                content = re.sub(
+                    r"(\*\*Working State:[*]{2}\s*)[^\n]+",
+                    rf"\g<1>{effective_working_state}",
+                    content
+                )
 
-        # Update Bench Event
-        if bench_event:
-            content = re.sub(
-                r"(\*\s+\*\*What Just Happened on the Bench:[*]{2}\s*)[^\n]+",
-                rf"\g<1>{bench_event}",
-                content
-            )
+            # Update What Was Just Built
+            if built_summary:
+                content = re.sub(
+                    r"(\*\s+\*\*What Was Just Built:[*]{2}\s*)[^\n]+",
+                    rf"\g<1>{built_summary}",
+                    content
+                )
 
-        # Update Active Hypothesis
-        if active_hypothesis:
-            content = re.sub(
-                r"(\*\s+\*\*Active Hypothesis:[*]{2}\s*)[^\n]+",
-                rf"\g<1>{active_hypothesis}",
-                content
-            )
+            # Update Bench Event
+            if bench_event:
+                content = re.sub(
+                    r"(\*\s+\*\*What Just Happened on the Bench:[*]{2}\s*)[^\n]+",
+                    rf"\g<1>{bench_event}",
+                    content
+                )
 
-        # Update Ledger of Intent markers
-        if marker_updates:
-            for marker_name, new_status in marker_updates.items():
-                pattern = rf"(\|\s*\*\*{re.escape(marker_name)}[^*]*\*\*\s*\|)\s*[^|]+?\s*(\|)"
-                content = re.sub(pattern, rf"\g<1> {new_status} \g<2>", content)
+            # Update Active Hypothesis
+            if active_hypothesis:
+                content = re.sub(
+                    r"(\*\s+\*\*Active Hypothesis:[*]{2}\s*)[^\n]+",
+                    rf"\g<1>{active_hypothesis}",
+                    content
+                )
 
-        with open(cls.CHRONICLE_PATH, "w", encoding="utf-8") as f:
-            f.write(content)
+            # Update Ledger of Intent markers
+            if marker_updates:
+                for marker_name, new_status in marker_updates.items():
+                    pattern = rf"(\|\s*\*\*{re.escape(marker_name)}[^*]*\*\*\s*\|)\s*[^|]+?\s*(\|)"
+                    content = re.sub(pattern, rf"\g<1> {new_status} \g<2>", content)
+
+            atomic_write_text(cls.CHRONICLE_PATH, content, lock_name=None)
 
         return True
 

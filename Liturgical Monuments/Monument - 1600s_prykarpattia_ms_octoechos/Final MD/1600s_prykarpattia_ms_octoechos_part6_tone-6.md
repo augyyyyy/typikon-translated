@@ -1,8 +1,10 @@
 # TONE 6
 
+## TONE 6 [^107]
+
 ## SATURDAY EVENING: VESPERS (TONE 6)
 
-*On Saturday Evening at Great Vespers:*
+[f. 89A] *On Saturday Evening at Great Vespers:*
 
 *On "Lord, I have cried," Resurrection Stichera, Tone 6:*
 
@@ -18,11 +20,7 @@ Whither shall we sinners flee from Thee, O Lord, Who art in all creation? In hea
 
 *Other Stichera, Anatolian [Eastern], the same Tone:*
 
-In Thy Cross...
-
-[Saturday.]
-
-...do we boast, O Christ, and Thy Resurrection do we hymn and glorify; for Thou art our God, besides Thee we know no other!
+In Thy Cross [f. 89A] do we boast, O Christ, and Thy Resurrection do we hymn and glorify; for Thou art our God, besides Thee we know no other!
 
 *Sticheron:*
 
@@ -40,9 +38,7 @@ Thy burial, O Master, having shattered and torn asunder the bonds of Hades, and 
 
 Who does not call thee blessed, O all-holy Virgin? Or who will not sing of thy most pure childbirth? For the only-begotten Son, Who shone forth timelessly from the Father, the Same came forth from thee, pure one, having ineffably become incarnate, being God by nature, and [having become man] by nature for our sake; not divided into two persons, but known in two natures without confusion. Him beseech, O pure and all-blessed one, that our souls may be saved!
 
-(fol. 90)[^108]
-
-*At the Aposticha, Resurrection Stichera, Tone 6:*
+[f. 90A] *At the Aposticha, Resurrection Stichera, Tone 6:* [^108]
 
 Thy Resurrection, O Christ Savior, the Angels hymn in the heavens: vouchsafe also us on earth to hymn and glorify Thee with a pure heart!
 
@@ -58,9 +54,7 @@ Desiring to set us upright from the ancient corruption, O Christ, Thou wast nail
 
 Thou wast crucified...
 
-[Saturday / Sunday.]
-
-*Verse: Holiness becomes Thine house, O Lord, unto length of days.*
+[f. 90A] *Verse: Holiness becomes Thine house, O Lord, unto length of days.*
 
 Thou wast crucified as Thou didst will, O Christ, and by Thy burial Thou didst take death captive; on the third day Thou didst arise as God with glory, granting eternal life and great mercy unto the world!
 
@@ -98,11 +92,7 @@ Adorning as a bride the Church from the Gentiles, Paul taught her to worship The
 
 *Theotokion:*
 
-From thy womb came forth the noetic Sun, O Mother of God, illuminating us with the rays of the tri-radiant Godhead...
-
-[Sunday.]
-
-...Whom hymning, we piously call thee blessed!
+From thy womb came forth the noetic Sun, O Mother of God, illuminating us with the rays of the tri-radiant Godhead [f. 90A] Whom hymning, we piously call thee blessed!
 
 *Ode 3. Heirmos: There is none holy as Thou, O Lord...*
 
@@ -130,9 +120,7 @@ O Master God, look down from heaven and behold our lowliness, as Thou art genero
 
 *Glory, both now. Theotokion:*
 
-(fol. 92)[^110]
-
-O pure Lady, look down, O Mother of God, behold the painfulness of our wounds, and take pity, O all-pure one, and heal the burning of conscience, bedewing it with thy mercy, and saying unto thy servants: I am with you, and none shall be against you!
+[f. 92A] O pure Lady, look down, O Mother of God, behold the painfulness of our wounds, and take pity, O all-pure one, and heal the burning of conscience, bedewing it with thy mercy, and saying unto thy servants: I am with you, and none shall be against you! [^110]
 
 *Ode 4. Heirmos: Christ is my power, God and Lord!" the...*
 
@@ -156,11 +144,7 @@ He Who by nature is uncreated, ever-existing God, taking upon Himself created hu
 
 *Troparion:*
 
-Contemplating the God-originating nature, providential and saving of all, which is the Master, tri-radiant and yet...
-
-[Sunday.]
-
-...One: unto Thee we rise early, asking forgiveness of our transgressions!
+Contemplating the God-originating nature, providential and saving of all, which is the Master, tri-radiant and yet [f. 92A] One: unto Thee we rise early, asking forgiveness of our transgressions!
 
 *Troparion:*
 
@@ -186,9 +170,7 @@ O Light indivisible according to essence, tri-radiant, almighty, unapproachable:
 
 *Both now:*
 
-(fol. 93)[^111]
-
-In thee, O Ever-Virgin, the Sustainer and Lord of all openly made His abode, and taught mankind to bow down before the one tri-radiant form of the Godhead!
+[f. 93A] In thee, O Ever-Virgin, the Sustainer and Lord of all openly made His abode, and taught mankind to bow down before the one tri-radiant form of the Godhead! [^111]
 
 *Sessional Hymn, Tone 6.*
 
@@ -208,11 +190,7 @@ Establish in me a steadfast mind, O Unity tri-radiant in personal characters, so
 
 *Troparion:*
 
-As Thou art hymned through identity of nature, O ineffably unitary God, yet bearing the number of a Trinity in Persons: preserve...
-
-[Sunday.]
-
-...preserve us all from diverse temptations and assaults!
+As Thou art hymned through identity of nature, O ineffably unitary God, yet bearing the number of a Trinity in Persons: preserve [f. 93A] us all from diverse temptations and assaults!
 
 *Glory:*
 
@@ -258,11 +236,9 @@ O true Godhead, the Light equally honorable, tri-solar, and light-creating: illu
 
 Thy Son wisely created man of old, O Virgin, and through thee He renewed him when corrupted, O all-hymned one, and filled with the unwaning rays of divine light all who in faith glorify thee as the true Mother of God!
 
-[Sunday.]
-
 ## SUNDAY MATINS (TONE 6)
 
-*On Sunday at Matins, after the Six Psalms, at "God is the Lord," Troparion, Tone 6: "The angelic hosts were upon Thy tomb." Glory, both now. Theotokion:*
+[f. 93A] *On Sunday at Matins, after the Six Psalms, at "God is the Lord," Troparion, Tone 6: "The angelic hosts were upon Thy tomb." Glory, both now. Theotokion:*
 
 *After the 1st Stichology, Sessional Hymns, Tone 6:*
 
@@ -302,9 +278,7 @@ Unto heaven do I lift up mine eyes, unto Thee, O Word: have compassion upon me, 
 
 Have mercy upon us who are despised, fashioning us as vessels well-fitted for Thee, O Word!
 
-[Sunday.]
-
-*Glory:*
+[f. 93A] *Glory:*
 
 In the Holy Spirit is the cause of all salvation; if upon anyone He breathes worthily, quickly does He lift him up from earthly things, wings him, makes him grow, and establishes him on high!
 
@@ -348,9 +322,7 @@ O Lord, stir up Thy power, and come to save us!
 
 Let every breath praise the Lord. The Matins Resurrection Gospel.
 
-(fol. 96)[^114]
-
-*Resurrectional Canon, Tone 6. Ode 1. Heirmos:*
+[f. 96A] *Resurrectional Canon, Tone 6. Ode 1. Heirmos:* [^114]
 
 Traversing the deep on foot as on dry land, Israel beheld the pursuer Pharaoh drowning, and cried out: Let us sing a song of victory unto God!
 
@@ -372,9 +344,7 @@ Having received Thine own Creator, as He Himself willed, ineffably incarnate fro
 
 In fear the gates of death open unto Thee, and the eternal bars are torn asunder; for by Thy venerable descent the dead of old arose, thankfully hymning Thy Resurrection, O Christ!
 
-[Sunday.]
-
-*Troparion:*
+[f. 96A] *Troparion:*
 
 Thou wast laid in the lowest pit, O Christ, having become dead, and Thou didst slay the slayer, and didst deliver the prisoners in Hades who glorify Thy venerable Resurrection, O Master!
 
@@ -404,9 +374,7 @@ The rulers from the tribe of Judah having failed, O all-pure one, Thy Son and Go
 
 There is none holy as Thou, O Lord my God, Who hast exalted the horn of Thy faithful, O Good One, and established them upon the rock of Thy confession!
 
-(fol. 97)[^115]
-
-*Troparion:*
+[f. 97A] *Troparion:* [^115]
 
 Beholding God crucified in the flesh, creation dissolved in fear; yet by the almighty hand of Him Who was crucified for our sake, it was firmly held together.
 
@@ -430,11 +398,7 @@ Glory to Thy rising, O our Savior, for Thou hast snatched us from Hades, corrupt
 
 *Troparion:*
 
-[Confessing] the Word incarnate from the holy Child of God...
-
-[Sunday.]
-
-...incarnate Word from the holy Child of God, and Him Who saved fallen Adam, the first-formed, from deception, we gloriously hymn: There is none holy save Thee, O Lover of mankind!
+[Confessing] the Word incarnate from the holy Child of God [f. 97A] incarnate Word from the holy Child of God, and Him Who saved fallen Adam, the first-formed, from deception, we gloriously hymn: There is none holy save Thee, O Lover of mankind!
 
 *Another Canon to the Theotokos. Heirmos: There is none holy as the Lord...*
 
@@ -462,9 +426,7 @@ Christ is my power, God and Lord, the venerable Church divinely cries aloud, kee
 
 The Tree of true life has blossomed forth, O Christ, for the Cross was set up; and being watered with blood and water from Thy corruptless side, it budded forth life unto us!
 
-(fol. 98)[^116]
-
-*Troparion:*
+[f. 98A] *Troparion:* [^116]
 
 No longer does the serpent falsely suggest deification unto me; for Christ, the Deifier of human nature, has now unhindered opened unto me the path of life!
 
@@ -494,11 +456,7 @@ The assembly gathered through thee hymns thee, O all-pure and all-spotless one, 
 
 *Troparion:*
 
-Thou didst give birth to the unsetting Light, O Virgin, shining in the flesh unto those who are in the darkness of life, O all-blessed one, and...
-
-[Sunday.]
-
-...and unto those who hymn thee, thou hast poured forth joy, O Ever-Virgin!
+Thou didst give birth to the unsetting Light, O Virgin, shining in the flesh unto those who are in the darkness of life, O all-blessed one, and [f. 98A] unto those who hymn thee, thou hast poured forth joy, O Ever-Virgin!
 
 *Troparion:*
 
@@ -524,9 +482,7 @@ No longer do I fear the return unto the earth, O Master Christ; for from the ear
 
 Save those who confess thee from the soul to be the Mother of God, O good Lady of the world; for we have gained thee as an unconquerable intercessor, the true Theotokos!
 
-(fol. 99)[^117]
-
-*Another Canon. Heirmos: With Thy Divine light, O Good One, illumine...*
+[f. 99A] *Another Canon. Heirmos: With Thy Divine light, O Good One, illumine...* [^117]
 
 *Troparion:*
 
@@ -548,11 +504,7 @@ Having shone forth brightly in the morning, a divine dwelling was prepared for t
 
 *Troparion:*
 
-Possessing noetic beauty, fair above all in thy soul, thou wast called the Bride of God, sealed...
-
-[Sunday.]
-
-...sealed with virginity, O pure one, and illuminating the world with the light of purity!
+Possessing noetic beauty, fair above all in thy soul, thou wast called the Bride of God, sealed [f. 99A] with virginity, O pure one, and illuminating the world with the light of purity!
 
 *Troparion:*
 
@@ -574,9 +526,7 @@ Adam was brought down, tripped by deceit unto the abyss of Hades; but as God and
 
 O all-pure Lady, who didst give birth to the Lord, the Helmsman of the universe: calm the unstable and fierce tumult of my passions, and grant stillness unto my heart!
 
-(fol. 100)[^118]
-
-*Another Canon. Heirmos: Jonah was seized, yet not held fast...*
+[f. 100A] *Another Canon. Heirmos: Jonah was seized, yet not held fast...* [^118]
 
 *Troparion:*
 
@@ -598,11 +548,7 @@ Great Moses among the Prophets prefigured thee as the Ark, the Table, the Candle
 
 *Troparion:*
 
-Death is slain, and the corruption of Adam's condemnation is abolished...
-
-[Sunday.]
-
-...abolished, O Lady, having clashed against Thy fruit; for thou didst bear Life, delivering from corruption those who hymn thee!
+Death is slain, and the corruption of Adam's condemnation is abolished [f. 100A] O Lady, having clashed against Thy fruit; for thou didst bear Life, delivering from corruption those who hymn thee!
 
 *Troparion:*
 
@@ -616,9 +562,7 @@ With His life-originating palm, Christ God, the Giver of life, having raised up 
 
 Thy Cross and burial, O Giver of life, we the faithful hymn and venerate, for Thou hast bound Hades, O Immortal One, as almighty God, and hast raised the dead with Thyself, and shattered the gates of death, and cast down the dominion of Hades as God! Therefore we earth-born doxologize Thee with love, Who art risen, and hast cast down the all-destructive power of the enemy, and raised up all who believe in Thee, and delivered the world from the serpent's arrows and from the enemy's deception, as Thou art God of all!
 
-(fol. 101)[^119]
-
-*Ode 7. Heirmos:*
+[f. 101A] *Ode 7. Heirmos:* [^119]
 
 The Angel made the furnace bedewing for the holy children, while the command of God consumed the Chaldeans, persuading the tyrant to cry: Blessed art Thou, O God of our fathers!
 
@@ -644,9 +588,7 @@ The lawless children of the impious crucified Thee, the Savior, at the Place of 
 
 Thou didst destroy the dominion of death and didst arise, granting resurrection unto those who truly glorify Thee as Lord, and in orthodox faith cry unto Thee: Blessed art Thou, O God our Redeemer! *(Twice)*
 
-[Sunday.]
-
-*Theotokion:*
+[f. 101A] *Theotokion:*
 
 Thou didst give birth to One of the Trinity, O all-pure one, Who appeared upon earth in two natures out of mercy; Whom pray unceasingly to save our souls!
 
@@ -672,9 +614,7 @@ Thou alone becamest the propitiation of our nature, O divinely-blessed one; for 
 
 From the flame Thou didst pour forth dew for the holy ones, and didst consume the sacrifice of the righteous one with water; for Thou doest all things, O Christ, whatsoever Thou willest, and we supremely exalt Thee unto all ages!
 
-(fol. 102)[^120]
-
-*Troparion:*
+[f. 102A] *Troparion:* [^120]
 
 The Jewish people, who of old were murderers of the Prophets, envy now made murderers of God, lifting Thee upon the Cross, O Word of God; Whom we supremely exalt unto all ages!
 
@@ -698,11 +638,7 @@ O Thine ineffable love for mankind, O Christ, and unspeakable goodness! For seei
 
 *Theotokion:*
 
-Rejoice, Gate of God! Rejoice, rampart of the faithful...
-
-[Sunday.]
-
-...Rejoice, Unwedded Mary! Rejoice, all-pure Mother of God! Rejoice, thou who alone didst bear God for the earth-born, unto Whom we cry: Bless Him, ye children; praise Him, ye priests; supremely exalt Him, ye peoples, unto all ages!
+Rejoice, Gate of God! Rejoice, rampart of the faithful [f. 102A] Rejoice, Unwedded Mary! Rejoice, all-pure Mother of God! Rejoice, thou who alone didst bear God for the earth-born, unto Whom we cry: Bless Him, ye children; praise Him, ye priests; supremely exalt Him, ye peoples, unto all ages!
 
 *Another Canon to the Theotokos. Heirmos: In a vesture of gold...*
 
@@ -726,9 +662,7 @@ The golden candlestick prefigured thee, who ineffably received the unapproachabl
 
 It is not possible for man to see God, upon Whom the ranks of Angels dare not gaze; but through thee, O all-pure one, the Word was manifested unto us incarnate, Whom magnifying, together with the heavenly hosts we call thee blessed!
 
-(fol. 103)[^121]
-
-*Troparion:*
+[f. 103A] *Troparion:* [^121]
 
 Thou didst remain unpartaker of passions, O Word of God, though sharing in sufferings in the flesh; but Thou loosest man from passions, having become subject to passions through Thy Passion, O our Savior, for Thou alone art passionless and almighty!
 
@@ -748,11 +682,7 @@ Though Thou didst descend into the tomb as dead, O Giver of life, yet Thou didst
 
 *Troparion:*
 
-Let creation rejoice, and let all the earth-born be glad; for Hades, the enemy, has been despoiled! Christ is risen, and the first-formed arose with Him in glory, being delivered from corruption; unto the Myrrh-bearing women...
-
-[Sunday.]
-
-...unto the Myrrh-bearing women the Angel cries: Let creation rejoice, and let it blossom like a lily! For Christ is risen from the dead as God; where is thy victory, O Hades? He has cast thee down to the earth, having exalted our horn, as He is compassionate!
+Let creation rejoice, and let all the earth-born be glad; for Hades, the enemy, has been despoiled! Christ is risen, and the first-formed arose with Him in glory, being delivered from corruption; unto the Myrrh-bearing women [f. 103A] the Angel cries: Let creation rejoice, and let it blossom like a lily! For Christ is risen from the dead as God; where is thy victory, O Hades? He has cast thee down to the earth, having exalted our horn, as He is compassionate!
 
 *Theotokion:*
 
@@ -772,9 +702,7 @@ Strengthened by thy power and grace, I have fervently offered a hymn from the he
 
 Thou didst appear openly as a divinely-woven loom, whereon the Word wove the vesture of the flesh, deifying my form, O Virgin; and clothed therein, He saved all who with a pure mind magnify thee!
 
-(fol. 104)[^122]
-
-*Theotokion:*
+[f. 104A] *Theotokion:* [^122]
 
 Resurrection has now been granted unto the dead by thine ineffable and unspeakable childbirth, O all-venerable Mother of God; for Life, clothed in the flesh from thee, has shone forth unto all, and openly destroyed the infirmity of death!
 
@@ -800,11 +728,7 @@ On the third day Thou didst arise from the tomb, O Christ, as it is written, and
 
 *Sticheron:*
 
-O Lord, great and fearful is the mystery of Thy Resurrection; for in such manner didst Thou come forth from the tomb...
-
-[Sunday.]
-
-...from the tomb like a Bridegroom from His chamber, having shattered death by death that Thou mightest set Adam free; therefore in heaven the Angels dance, and on earth mankind glorifies Thy tender mercy shown unto us, O Lover of mankind!
+O Lord, great and fearful is the mystery of Thy Resurrection; for in such manner didst Thou come forth from the tomb [f. 104A] like a Bridegroom from His chamber, having shattered death by death that Thou mightest set Adam free; therefore in heaven the Angels dance, and on earth mankind glorifies Thy tender mercy shown unto us, O Lover of mankind!
 
 *Verse: I will give thanks unto Thee, O Lord, with my whole heart; I will speak of all Thy marvelous works.*
 
@@ -816,11 +740,7 @@ Though the tomb was sealed, how were ye robbed, O Judeans, having set a guard an
 
 *Verse: Arise, O Lord my God, let Thy hand be lifted up; forget not Thy poor unto the end.*
 
-Reaching Thy life-receiving tomb early in the morning with weeping, O Lord, and bearing sweet spices, the Myrrh-bearing women sought to anoint Thy most pure body; but they found a radiant Angel sitting upon the stone, and speaking unto them...
-
-(fol. 105)[^123]
-
-...and speaking unto them, saying: Why weep ye for Him Who poured forth life unto the world from His side? Why seek ye the Immortal One in the tomb as dead? Run rather, announce unto His disciples His glorious Resurrection and worldwide joy; through which do Thou Who hast enlightened us also grant cleansing and great mercy!
+Reaching Thy life-receiving tomb early in the morning with weeping, O Lord, and bearing sweet spices, the Myrrh-bearing women sought to anoint Thy most pure body; but they found a radiant Angel sitting upon the stone, and speaking unto them [^123] [f. 105A] saying: Why weep ye for Him Who poured forth life unto the world from His side? Why seek ye the Immortal One in the tomb as dead? Run rather, announce unto His disciples His glorious Resurrection and worldwide joy; through which do Thou Who hast enlightened us also grant cleansing and great mercy!
 
 ## SUNDAY LITURGY: THE BEATITUDES (TONE 6)
 
@@ -842,9 +762,7 @@ Let us hymn Christ our God, Who was willingly crucified and buried, and arose in
 
 [He Who arose from the tomb on the third day, having foretold His rising] before the Passion, [...] let us all harmoniously sing praise [unto Him]!
 
-[Saturday.]
-
-*Troparion:*
+[f. 105A] *Troparion:*
 
 Having appeared as the light of the world, the Apostles drove away all the darkness of deception by the divine rays of their teachings!
 
@@ -858,12 +776,11 @@ Rejoice, gate opened unto God, Who ineffably took up His abode in thee and came 
 
 *End of the Sixth Tone.*
 
-(fol. 106)[^124]
-
 ---
 
 ### Notes
 
+[^107]: Folio 89 begins on the facing leaf with an illuminated headpiece bearing the holy name 'ІХС' in an ornate floral cartouche, marking the canonical beginning of Tone 6 (Great Vespers on Saturday evening).
 [^108]: Folio 90 begins on the facing leaf, containing the opening Resurrection Stichera at the Aposticha of Great Vespers in Tone 6.
 [^109]: Folio 91 begins on the facing leaf, containing the conclusion of Great Vespers and the opening of the Tone 6 Sunday Midnight Office Canon to the Most Holy Trinity (Ode 1).
 [^110]: Folio 92 begins on the facing leaf, containing the Theotokion Sessional Hymn and Odes 4 and 5 of the Sunday Midnight Office Canon to the Most Holy Trinity in Tone 6.
@@ -880,4 +797,3 @@ Rejoice, gate opened unto God, Who ineffably took up His abode in thee and came 
 [^121]: Folio 103 begins on the facing leaf, containing Ode 9 of the Tone 6 Sunday Matins Canons.
 [^122]: Folio 104 begins on the facing leaf, containing the conclusion of Ode 9 of the Matins Canons and the opening Sunday Resurrection Stichera at the Praises (Lauds) in Tone 6.
 [^123]: Folio 105 begins on the facing leaf, containing the conclusion of the Sunday Praises and the opening Beatitudes at the Divine Liturgy in Tone 6; the bottom outer corner bears an early paper repair patch covering portions of the fourth troparion of the Beatitudes, with lacunae marked in square brackets.
-[^124]: Folio 106 begins on the facing leaf with an illuminated woodcut headpiece of floral foliage, marking the canonical beginning of Tone 7 (Great Vespers on Saturday evening).

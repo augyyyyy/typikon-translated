@@ -20,168 +20,168 @@ Make haste to open unto me fatherly embraces; prodigally have I spent my life; b
 *It is befitting to know that if the hegumen is a priest, he questions him himself; but if not, he is questioned by the priest.*[^1708]
 
 *Question:*  
-**Priest:** **Why hast thou come, brother, falling down before this holy altar and before this holy company?**
+> **Priest:** **Why hast thou come, brother, falling down before this holy altar and before this holy company?**
 
 *Answer:*  
 **Candidate:** **Desiring the ascetic life, honorable father.**[^1709]
 
 *Question:*  
-**Priest:** **Dost thou desire to be counted worthy of the angelic schema, and to be ranked in the choir of monastics?**
+> **Priest:** **Dost thou desire to be counted worthy of the angelic schema, and to be ranked in the choir of monastics?**
 
 *Answer:*  
 **Candidate:** **Yea, God helping [me], honorable father.**
 
 *The Priest [says]:*
 
-**Priest:** **Truly a good and blessed work hast thou chosen, if thou also wilt accomplish it; for good works are acquired through labor, and perfected through travail.**[^1710]
+> **Priest:** **Truly a good and blessed work hast thou chosen, if thou also wilt accomplish it; for good works are acquired through labor, and perfected through travail.**[^1710]
 
 *Question:*  
-**Priest:** **Dost thou approach the Lord of the free choice of thine own mind?**
+> **Priest:** **Dost thou approach the Lord of the free choice of thine own mind?**
 
 *Answer:*  
 **Candidate:** **Yea, God helping [me], honorable father.**
 
 *Question:*  
-**Priest:** **Is it of some distress or constraint?**[^1711]
+> **Priest:** **Is it of some distress or constraint?**[^1711]
 
 *Answer:*  
 **Candidate:** **Nay, honorable father.**
 
 *Question:*  
-**Priest:** **Dost thou renounce the world and the things that are in the world, according to the commandment of the Lord?**[^1712]
+> **Priest:** **Dost thou renounce the world and the things that are in the world, according to the commandment of the Lord?**[^1712]
 
 *Answer:*  
 **Candidate:** **Yea, honorable father.**
 
 *Question:*  
-**Priest:** **Wilt thou abide in the monastery and in the ascetic life until thy last breath?**
+> **Priest:** **Wilt thou abide in the monastery and in the ascetic life until thy last breath?**
 
 *Answer:*
 
 **Candidate:** **Yea, God helping [me], honorable father.**
 
 *Question:*  
-**Priest:** **Wilt thou preserve thyself in virginity, chastity, and piety?**[^1713]
+> **Priest:** **Wilt thou preserve thyself in virginity, chastity, and piety?**[^1713]
 
 *Answer:*  
 **Candidate:** **Yea, honorable father.**
 
 *Question:*  
-**Priest:** **Wilt thou preserve obedience unto the hegumen and unto all the brotherhood in Christ?**
+> **Priest:** **Wilt thou preserve obedience unto the hegumen and unto all the brotherhood in Christ?**
 
 *Answer:*  
 **Candidate:** **Yea, honorable father.**
 
 *Question:*  
-**Priest:** **Wilt thou endure every constraint and sorrow of the monastic life, for the sake of the Kingdom of heaven?**
+> **Priest:** **Wilt thou endure every constraint and sorrow of the monastic life, for the sake of the Kingdom of heaven?**
 
 *Answer:*  
 **Candidate:** **Yea, God helping [me], honorable father.**
 
 *Then the instruction:*[^1714]
 
-**Priest:** **Take heed, brother, what manner of promises thou givest unto the Master Christ; for the angels are standing by invisibly, recording...**
+> **Priest:** **Take heed, brother, what manner of promises thou givest unto the Master Christ; for the angels are standing by invisibly, recording...**
 
-**Priest:** **...this thy confession, concerning which thou shalt be examined at the Second Coming of our Lord Jesus Christ.[^1715] I declare unto thee therefore the most perfect life, wherein a conversation according to the likeness of the Lord is manifested, testifying what things it is befitting for thee to choose, and what things it is befitting to flee from.[^1716] For this purpose hast thou purposed, child, to approach and serve the Lord; if therefore thou desirest to be a monk, before all things cleanse thyself from all defilement of flesh and spirit, perfecting holiness in the fear of God.[^1717] Acquire humble-mindedness, whereby thou shalt become an inheritor of eternal good things; put away...**
+> **Priest:** **...this thy confession, concerning which thou shalt be examined at the Second Coming of our Lord Jesus Christ.[^1715] I declare unto thee therefore the most perfect life, wherein a conversation according to the likeness of the Lord is manifested, testifying what things it is befitting for thee to choose, and what things it is befitting to flee from.[^1716] For this purpose hast thou purposed, child, to approach and serve the Lord; if therefore thou desirest to be a monk, before all things cleanse thyself from all defilement of flesh and spirit, perfecting holiness in the fear of God.[^1717] Acquire humble-mindedness, whereby thou shalt become an inheritor of eternal good things; put away...**
 
-**Priest:** **...the arrogance of worldly custom; have obedience toward all; be without murmuring in the services commanded thee; in prayer patient; in vigils not sluggish; in temptation sorrow not; in fasts slacken not; and know that by prayer and fasting it is befitting for thee to entreat God; in infirmities faint not; discern also evil thoughts; for the enemy will not cease offering thee the memory of thy former worldly life, and hatred toward a virtuous way of life; it is befitting for thee therefore, having begun**[^1718] the way that leads unto the Kingdom of heaven, not to turn back; for thou shalt not be fit for the Kingdom of heaven.[^1719] Prefer thou nothing above God. Love thou neither father, nor mother, nor brethren, nor any of thine own kin; neither love thyself above God; nor the kingdoms of the world, or any manner of repose or honor.[^1720] Turn not away from poverty, nor affliction, nor human humiliation, nor anything else which thou deemest to be grievous, lest thou be hindered from running after Christ; but ever looking unto the hopes of those who have lived godly good things, and meditating upon the martyrs and venerable ones from the beginning of the world, who acquired these things through many sweats and labors, and countless blood and deaths. Be sober in all things, suffer hardship as a good soldier of Christ.[^1721] For our Lord and God Himself, being rich, for our sake became poor, that we might be enriched by His Kingdom. It is befitting therefore that we also become imitators of Him, and endure all things for His sake, advancing in His commandments day and night. For the Lord Himself said: If any man will come after Me, let him deny himself, and take up his cross, and follow Me;[^1722] which is to be ever prepared, even unto death, for every fulfillment of His commandments. For Thou shalt hunger and thirst, and undergo vexation and reproach, reviling and persecution, and be weighed down by many other afflictions, whereby life according to God is delineated. But when Thou hast suffered all these things, Rejoice, He said, for great is your reward in heaven;[^1723] in Christ Jesus our Lord, to Whom be glory unto the ages. Amen.
+> **Priest:** **...the arrogance of worldly custom; have obedience toward all; be without murmuring in the services commanded thee; in prayer patient; in vigils not sluggish; in temptation sorrow not; in fasts slacken not; and know that by prayer and fasting it is befitting for thee to entreat God; in infirmities faint not; discern also evil thoughts; for the enemy will not cease offering thee the memory of thy former worldly life, and hatred toward a virtuous way of life; it is befitting for thee therefore, having begun**[^1718] the way that leads unto the Kingdom of heaven, not to turn back; for thou shalt not be fit for the Kingdom of heaven.[^1719] Prefer thou nothing above God. Love thou neither father, nor mother, nor brethren, nor any of thine own kin; neither love thyself above God; nor the kingdoms of the world, or any manner of repose or honor.[^1720] Turn not away from poverty, nor affliction, nor human humiliation, nor anything else which thou deemest to be grievous, lest thou be hindered from running after Christ; but ever looking unto the hopes of those who have lived godly good things, and meditating upon the martyrs and venerable ones from the beginning of the world, who acquired these things through many sweats and labors, and countless blood and deaths. Be sober in all things, suffer hardship as a good soldier of Christ.[^1721] For our Lord and God Himself, being rich, for our sake became poor, that we might be enriched by His Kingdom. It is befitting therefore that we also become imitators of Him, and endure all things for His sake, advancing in His commandments day and night. For the Lord Himself said: If any man will come after Me, let him deny himself, and take up his cross, and follow Me;[^1722] which is to be ever prepared, even unto death, for every fulfillment of His commandments. For Thou shalt hunger and thirst, and undergo vexation and reproach, reviling and persecution, and be weighed down by many other afflictions, whereby life according to God is delineated. But when Thou hast suffered all these things, Rejoice, He said, for great is your reward in heaven;[^1723] in Christ Jesus our Lord, to Whom be glory unto the ages. Amen.
 
 *Question:*  
-**Priest:** **Dost thou confess all these things thus, through hope in the power of God; and dost thou promise to abide in these vows...**
+> **Priest:** **Dost thou confess all these things thus, through hope in the power of God; and dost thou promise to abide in these vows...**
 
-**Priest:** **...even unto the end of thy life, by the grace of Christ?**
+> **Priest:** **...even unto the end of thy life, by the grace of Christ?**
 
 *Answer:*  
 **Candidate:** **Yea, God helping [me], honorable father.**
 
 *And immediately the priest [says] this prayer:*
 
-**Priest:** **The all-bountiful and all-merciful God, Who opens the unsearchable goodness of His most pure compassions unto everyone that comes unto Him with desire and warm love, Who has said: Even if a woman should forget the offspring of her womb, yet will I not forget thee;[^1724] Who also knows thy desire, and unto thy resolve adds the power that is from Himself, for the fulfillment of His commandments: may He receive, and embrace, and protect [thee],...**
+> **Priest:** **The all-bountiful and all-merciful God, Who opens the unsearchable goodness of His most pure compassions unto everyone that comes unto Him with desire and warm love, Who has said: Even if a woman should forget the offspring of her womb, yet will I not forget thee;[^1724] Who also knows thy desire, and unto thy resolve adds the power that is from Himself, for the fulfillment of His commandments: may He receive, and embrace, and protect [thee],...**
 
-**Priest:** **...and may He be unto thee a firm wall from the face of the enemy, a rock of endurance, a cause of consolation, a giver of strength, a provider of good courage, a fellow-contestant unto thy courage, lying down and rising up with thee, sweetening and gladdening thy heart with the comfort of His Holy Spirit, vouchsafing thee also the portion of the holy and venerable fathers of ours: Anthony, Euthymius, Sabbas, and those with them.[^1725]**
+> **Priest:** **...and may He be unto thee a firm wall from the face of the enemy, a rock of endurance, a cause of consolation, a giver of strength, a provider of good courage, a fellow-contestant unto thy courage, lying down and rising up with thee, sweetening and gladdening thy heart with the comfort of His Holy Spirit, vouchsafing thee also the portion of the holy and venerable fathers of ours: Anthony, Euthymius, Sabbas, and those with them.[^1725]**
 
 *And for women:*  
-**Priest:** **Of the holy venerable-martyr Thecla, Euphraxia, Olympias, and those with them.**
+> **Priest:** **Of the holy venerable-martyr Thecla, Euphraxia, Olympias, and those with them.**
 
 *The Priest continues:*  
-**Priest:** **...together with whom also mayest thou inherit the Kingdom of heaven; in Christ Jesus our Lord, to Whom be glory and dominion, and kingdom and power, with the Father...**
+> **Priest:** **...together with whom also mayest thou inherit the Kingdom of heaven; in Christ Jesus our Lord, to Whom be glory and dominion, and kingdom and power, with the Father...**
 
-**Priest:** **...and with the Holy Spirit, now and ever, and unto ages of ages. Amen.**
+> **Priest:** **...and with the Holy Spirit, now and ever, and unto ages of ages. Amen.**
 
 *Then, while he bows his head, and the deacon says: Let us pray to the Lord, the priest lays the ritual book [Obrazosloviye][^1726] upon his head, and says this prayer in the hearing of all:*
 
-**Priest:** **O Lord our God, Who hast legislated that those who have left behind all worldly things, and kin, and friends, and have followed Thee, are worthy of Thee: receive also this Thy servant, [Name], who has renounced all these things according to Thy holy commandments; and guide him unto Thy truth, as he falls down before Thee without wavering. Hedge him about with the power...**
+> **Priest:** **O Lord our God, Who hast legislated that those who have left behind all worldly things, and kin, and friends, and have followed Thee, are worthy of Thee: receive also this Thy servant, [Name], who has renounced all these things according to Thy holy commandments; and guide him unto Thy truth, as he falls down before Thee without wavering. Hedge him about with the power...**
 
-**Priest:** **...of Thy Holy Spirit, so that every contrary device shall have no power to work upon him, granting him endurance unto pleasing Thee ever, through the prayers of our most pure Lady, the Theotokos, and of all the saints who from the ages have been well-pleasing unto Thee.**
+> **Priest:** **...of Thy Holy Spirit, so that every contrary device shall have no power to work upon him, granting him endurance unto pleasing Thee ever, through the prayers of our most pure Lady, the Theotokos, and of all the saints who from the ages have been well-pleasing unto Thee.**
 
 *Exclamation:*  
-**Priest:** **For blessed and glorified is Thy most honorable and majestic Name, of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages. Amen.**
+> **Priest:** **For blessed and glorified is Thy most honorable and majestic Name, of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages. Amen.**
 
 *And immediately the scissors are laid upon the Holy Gospel.*
 
-**Priest:** **Peace be unto all.**
+> **Priest:** **Peace be unto all.**
 
-**Deacon:** **Bow your heads unto the Lord.**
+> **Deacon:** **Bow your heads unto the Lord.**
 
 *The Priest says:*  
-**Priest:** **O Lord our God, the hope and refuge of all that hope in Thee,...**
+> **Priest:** **O Lord our God, the hope and refuge of all that hope in Thee,...**
 
-**Priest:** **...Who hast shown us diverse ways of salvation through the incarnation of Thy Christ: receive Thy servant, [Name], who has forsaken worldly lusts, and offered himself unto Thee, the Master, as a living sacrifice, well-pleasing.[^1727] Take away from him every carnal lust, and irrational assumptions; that by the putting off of insensitive hair, he may likewise put off irrational thoughts and deeds, and be vouchsafed to take upon him Thy good yoke, and Thy light burden, and to take up the cross, and to follow Thee, the Master. Preserve him in Thy holiness, and grant him a good resolve, unto the keeping of Thy holy commandments,...**
+> **Priest:** **...Who hast shown us diverse ways of salvation through the incarnation of Thy Christ: receive Thy servant, [Name], who has forsaken worldly lusts, and offered himself unto Thee, the Master, as a living sacrifice, well-pleasing.[^1727] Take away from him every carnal lust, and irrational assumptions; that by the putting off of insensitive hair, he may likewise put off irrational thoughts and deeds, and be vouchsafed to take upon him Thy good yoke, and Thy light burden, and to take up the cross, and to follow Thee, the Master. Preserve him in Thy holiness, and grant him a good resolve, unto the keeping of Thy holy commandments,...**
 
-**Priest:** **...joining him in an acceptable time unto the choir of Thine elect. Through the grace and love for mankind of Thine Only-begotten Son, with Whom Thou art blessed, together with Thy most holy and good and life-creating Spirit, now and ever, and unto ages of ages. Amen.**
+> **Priest:** **...joining him in an acceptable time unto the choir of Thine elect. Through the grace and love for mankind of Thine Only-begotten Son, with Whom Thou art blessed, together with Thy most holy and good and life-creating Spirit, now and ever, and unto ages of ages. Amen.**
 
 *Then the priest, having stretched forth his hand upon the Holy Gospel, says:*[^1728]
 
-**Priest:** **Behold, Christ stands here invisibly. Look, that no one compels thee to come unto this habit. Look, whether thou of thine own free will desirest the betrothal of the great angelic schema?**
+> **Priest:** **Behold, Christ stands here invisibly. Look, that no one compels thee to come unto this habit. Look, whether thou of thine own free will desirest the betrothal of the great angelic schema?**
 
 *Answer:*  
 **Candidate:** **Yea, honorable father, of [mine own] purpose.**
 
 *And after the promise, the priest says unto him thrice:*
 
-**Priest:** **Take the scissors, and give them unto me.**
+> **Priest:** **Take the scissors, and give them unto me.**
 
 *And when he has given him the scissors, the priest says again unto him:*
 
-**Priest:** **Behold, thou receivest them from the hand of Christ. Look to Whom thou makest vow, and unto Whom thou drawest near, and Whom thou dost renounce.**
+> **Priest:** **Behold, thou receivest them from the hand of Christ. Look to Whom thou makest vow, and unto Whom thou drawest near, and Whom thou dost renounce.**
 
 *And the priest, having received the scissors from the Holy Gospel, says:*[^1729]
 
-**Priest:** **Blessed is God, Who desires all men to be saved, and to come unto the knowledge of the truth; Who is blessed unto ages of ages. Amen.**
+> **Priest:** **Blessed is God, Who desires all men to be saved, and to come unto the knowledge of the truth; Who is blessed unto ages of ages. Amen.**
 
 *Then, tonsuring him crosswise, he says:*
 
-**Priest:** **Our brother, [Name], is tonsured...**
+> **Priest:** **Our brother, [Name], is tonsured...**
 
-**Priest:** **...of the hair of his head, in the Name of the Father, and of the Son, and of the Holy Spirit. Let us all say for him: Lord, have mercy.**
+> **Priest:** **...of the hair of his head, in the Name of the Father, and of the Son, and of the Holy Spirit. Let us all say for him: Lord, have mercy.**
 
 *And the brethren sing:*  
-**Choir:** **Lord, have mercy** *(thrice)*.
+> **Choir:** **Lord, have mercy** *(thrice)*.
 
 *Then he invests him in the garment, saying:*  
-**Priest:** **Our brother, [Name], is clothed in the garment of gladness,[^1730] in the Name of the Father, and of the Son, and of the Holy Spirit. Let us all say for him: Lord, have mercy.**
+> **Priest:** **Our brother, [Name], is clothed in the garment of gladness,[^1730] in the Name of the Father, and of the Son, and of the Holy Spirit. Let us all say for him: Lord, have mercy.**
 
 *Afterwards he places upon him the paramand,[^1731] saying:*  
-**Priest:** **Our brother, [Name], is girded about his loins with the power of truth, unto the mortification of the body, and unto the renewal of the spirit. In the Name of the Father, and of the Son, and of the Holy Spirit. Let us all say for him: Lord, have mercy.**
+> **Priest:** **Our brother, [Name], is girded about his loins with the power of truth, unto the mortification of the body, and unto the renewal of the spirit. In the Name of the Father, and of the Son, and of the Holy Spirit. Let us all say for him: Lord, have mercy.**
 
-**Priest:** **Our brother, [Name], is covered with the helmet of the hope of salvation,[^1732] in the Name...**
+> **Priest:** **Our brother, [Name], is covered with the helmet of the hope of salvation,[^1732] in the Name...**
 
-**Priest:** **...of the Father, and of the Son, and of the Holy Spirit. Let us all say for him: Lord, have mercy.**
+> **Priest:** **...of the Father, and of the Son, and of the Holy Spirit. Let us all say for him: Lord, have mercy.**
 
-**Priest:** **Our brother, [Name], receives the paramand,[^1733] the betrothal of the great angelic schema, unto a garment of incorruption and purity. In the Name of the Father, and of the Son, and of the Holy Spirit. Let us all say for him: Lord, have mercy.**
+> **Priest:** **Our brother, [Name], receives the paramand,[^1733] the betrothal of the great angelic schema, unto a garment of incorruption and purity. In the Name of the Father, and of the Son, and of the Holy Spirit. Let us all say for him: Lord, have mercy.**
 
-**Priest:** **Our brother, [Name], is shod with sandals in the preparation of the gospel of peace,[^1734] in the Name of the Father, and of the Son, and of the Holy Spirit. Let us all say for him: Lord, have mercy.**
+> **Priest:** **Our brother, [Name], is shod with sandals in the preparation of the gospel of peace,[^1734] in the Name of the Father, and of the Son, and of the Holy Spirit. Let us all say for him: Lord, have mercy.**
 
-**Priest:** **Our brother, [Name], has received the betrothal of the great angelic schema,[^1735] in the Name of the Father, and of the Son, and of the Holy Spirit. Let us all say for him: Lord, have mercy.**
+> **Priest:** **Our brother, [Name], has received the betrothal of the great angelic schema,[^1735] in the Name of the Father, and of the Son, and of the Holy Spirit. Let us all say for him: Lord, have mercy.**
 
 *And then:*  
-**Deacon:** *Let us pray to the Lord.*
+> **Deacon:** *Let us pray to the Lord.*
 
-**Priest:** **O Lord our God, Who hast brought this Thy servant, [Name], into Thy spiritual court: number him with Thy reasonable flock. Purify his mind from carnal lusts and the vain deceit of this life; and grant unto him unceasingly to remember the good things prepared for them that love Thee, and that have crucified themselves unto this life for the sake of Thy Kingdom. For Thou art the Shepherd and Bishop[^1736] of our souls, and unto Thee we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen.**
+> **Priest:** **O Lord our God, Who hast brought this Thy servant, [Name], into Thy spiritual court: number him with Thy reasonable flock. Purify his mind from carnal lusts and the vain deceit of this life; and grant unto him unceasingly to remember the good things prepared for them that love Thee, and that have crucified themselves unto this life for the sake of Thy Kingdom. For Thou art the Shepherd and Bishop[^1736] of our souls, and unto Thee we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen.**
 
 *And if, therefore, there be no Liturgy, there are said these deacon's petitions, and the Epistle, and the Gospel.[^1737] But if there be [a Liturgy], a candle is given unto the tonsured one, and after the Gospel, he kisses the Cross, and the kiss takes place.*
 
-**Deacon:**  
+> **Deacon:** ""
 *In peace let us pray to the Lord.*  
 *For the peace from above, and for the salvation of our souls, [let us pray to the Lord].*  
 *For the peace of the whole world, and for the good estate [of the holy churches of God, and for the union of all, let us pray to the Lord].*  
@@ -189,7 +189,7 @@ Make haste to open unto me fatherly embraces; prodigally have I spent my life; b
 *That blamelessly, uncondemned, and without stumbling he may accomplish his purpose of the monastic habit, let us pray to the Lord.*  
 *That he may abide in all piety, reverence, and purity, let us pray to the Lord.*
 
-**Deacon:**  
+> **Deacon:** ""
 *That he may put off the old man, and put on the new man, who is created after God's likeness, let us pray to the Lord.*  
 *For the remission and forgiveness of his sins, let us pray to the Lord.*  
 *That we may be delivered from all affliction, wrath, and need, let us pray to the Lord.*  
@@ -197,46 +197,46 @@ Make haste to open unto me fatherly embraces; prodigally have I spent my life; b
 *Commemorating our all-holy, immaculate, most blessed [and glorious Lady, Theotokos and ever-virgin Mary, with all the saints, let us commend ourselves and one another, and all our life unto Christ our God].*
 
 *Exclamation:*  
-**Priest:** **For holy art Thou, O our God, and unto Thee we send up glory: [to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen.]**
+> **Priest:** **For holy art Thou, O our God, and unto Thee we send up glory: [to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen.]**
 
-**Choir:** **As many of you as have been baptized into Christ have put on Christ.[^1738]**
+> **Choir:** **As many of you as have been baptized into Christ have put on Christ.[^1738]**
 
 *Prokeimenon, Tone 3:*  
-**Reader:** **The Lord is my illumination and my Savior.**[^1739]  
+> **Reader:** **The Lord is my illumination and my Savior.**[^1739]
 *Verse:* **The Lord is the defender of my life.**
 
 *The Reading is from the Epistle of Paul to the Ephesians.*
 
-**Reader:** **Brethren, be strong in the Lord, and in the power of His might.[^1740] Put on the whole armor of God, that ye may be able to stand against the wiles of the devil. For our wrestling is not against flesh and blood, but against principalities, against powers, against the world-rulers of the darkness of this age, against the spiritual [hosts] of wickedness in the heavenly places. Therefore take up the whole armor of God, that ye may be able to withstand in the evil day, and having done all, to stand. Stand therefore, having girt your loins with truth, and having put on the breastplate of righteousness; and having shod your feet...**
+> **Reader:** **Brethren, be strong in the Lord, and in the power of His might.[^1740] Put on the whole armor of God, that ye may be able to stand against the wiles of the devil. For our wrestling is not against flesh and blood, but against principalities, against powers, against the world-rulers of the darkness of this age, against the spiritual [hosts] of wickedness in the heavenly places. Therefore take up the whole armor of God, that ye may be able to withstand in the evil day, and having done all, to stand. Stand therefore, having girt your loins with truth, and having put on the breastplate of righteousness; and having shod your feet...**
 
-**Reader:** **...with the preparation of the gospel of peace. Above all, taking up the shield of faith, wherewith ye shall be able to quench all the fiery darts of the evil one. And take the helmet of salvation, and the sword of the Spirit, which is the word of God.**
+> **Reader:** **...with the preparation of the gospel of peace. Above all, taking up the shield of faith, wherewith ye shall be able to quench all the fiery darts of the evil one. And take the helmet of salvation, and the sword of the Spirit, which is the word of God.**
 
 *Alleluia.*  
 *Verse:* **This poor man cried, and the Lord heard him, and saved him out of all his afflictions.[^1741]**
 
 *The Gospel according to Matthew.*  
-**Priest:** **The Lord said: He that loves father or mother more than Me is not worthy of Me; and he that loves son or daughter more than Me is not worthy of Me. And he that does not take his cross, and follow after Me, is not worthy of Me.[^1742]**
+> **Priest:** **The Lord said: He that loves father or mother more than Me is not worthy of Me; and he that loves son or daughter more than Me is not worthy of Me. And he that does not take his cross, and follow after Me, is not worthy of Me.[^1742]**
 
-**Priest:** **...Come unto Me, all ye that labor and are heavy laden, and I will give you rest. Take My yoke upon you, and learn from Me; for I am meek and lowly in heart, and ye shall find rest unto your souls. For My yoke is easy, and My burden is light.**
+> **Priest:** **...Come unto Me, all ye that labor and are heavy laden, and I will give you rest. Take My yoke upon you, and learn from Me; for I am meek and lowly in heart, and ye shall find rest unto your souls. For My yoke is easy, and My burden is light.**
 
-**Deacon:**  
+> **Deacon:** ""
 *Have mercy on us, O God, according to Thy great mercy, we pray Thee, hear and have mercy.*  
 *Again we pray for the remission and forgiveness of the sins of the servant of God, [Name].*
 
 *Exclamation:*  
-**Priest:** **For Thou art a merciful God and the Lover of mankind, and unto Thee we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages.**  
-**Choir:** **Amen.**
+> **Priest:** **For Thou art a merciful God and the Lover of mankind, and unto Thee we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages.**
+> **Choir:** **Amen.**
 
 *And he gives him the Cross, saying:*  
-**Priest:** **The Lord said: If any man will come after Me, let him deny himself, and take up his cross, and follow Me.[^1743]**
+> **Priest:** **The Lord said: If any man will come after Me, let him deny himself, and take up his cross, and follow Me.[^1743]**
 
 *And giving [him] the lighted candle, he says:*  
-**Priest:** **The Lord said: Let your light so shine before men, that they may see your good works, and glorify your Father Who is in heaven.[^1744]**
+> **Priest:** **The Lord said: Let your light so shine before men, that they may see your good works, and glorify your Father Who is in heaven.[^1744]**
 
 *And the kiss takes place, while they sing the idiomelon. Tone 1:*  
-**Choir:** **Let us acknowledge, brethren, the power of the mystery:[^1745] for when the Prodigal Son returned from sin unto the fatherly house, the all-good Father came forth to meet him and kissed him;...**
+> **Choir:** **Let us acknowledge, brethren, the power of the mystery:[^1745] for when the Prodigal Son returned from sin unto the fatherly house, the all-good Father came forth to meet him and kissed him;...**
 
-**Choir:** **...and again imparts the knowledge of His glory, and makes a mystical joy for the hosts on high, slaying the fatted calf; that we also may live worthily unto the Father Who is the Lover of mankind that sacrificed, and unto the most glorious Victim,[^1746] the Savior of our souls.**
+> **Choir:** **...and again imparts the knowledge of His glory, and makes a mystical joy for the hosts on high, slaying the fatted calf; that we also may live worthily unto the Father Who is the Lover of mankind that sacrificed, and unto the most glorious Victim,[^1746] the Savior of our souls.**
 
 *And the rest of the Liturgy. And the dismissal takes place.*
 

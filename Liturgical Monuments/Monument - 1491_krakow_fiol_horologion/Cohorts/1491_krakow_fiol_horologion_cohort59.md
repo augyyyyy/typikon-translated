@@ -29,4 +29,4 @@ V. Barvinok
 
 *Rear Flyleaf (Verso)*[^1365]
 
-[Blank flyleaf verso without printed or handwritten text; laid paper with visible chain lines and sewing station perforations along the inner gutter binding edge, concluding the physical volume.]
+*(Vacat — Blank flyleaf verso without printed or handwritten text; laid paper with visible chain lines and sewing station perforations along the inner gutter binding edge, concluding the physical volume.)*

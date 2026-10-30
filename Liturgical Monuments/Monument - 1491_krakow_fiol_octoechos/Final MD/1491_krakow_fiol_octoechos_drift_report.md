@@ -1,10 +1,10 @@
 # Scholarly Drift & Seam-Stitching Audit Report: 1491 Krakow Octoechos of Schweipolt Fiol
 
 - **Monument ID**: `1491_krakow_fiol_octoechos`
-- **Total 2-Up Mid-Sentence Seams Stitched**: 0 boundaries (`0` sub-clause seam overlaps deduplicated)
+- **Total 2-Up Mid-Sentence Seams Stitched**: 256 boundaries (`11` sub-clause seam overlaps deduplicated)
 - **Inline Locus Milestones Inserted**: `[f. XvA]`, `[f. XrA]` across all 345 leaves
-- **Total Primitive Normalization & Drift Events**: 60 (`32` Podobens/Pokoin, `15` Psalm Stichoi, `13` Weekday Heirmoi, `0` Seam Deduplications)
-- **True Pre-Normalization AI Translation Drift Unified**: 45 occurrences
+- **Total Primitive Normalization & Drift Events**: 71 (`32` Podobens/Pokoin, `15` Psalm Stichoi, `13` Weekday Heirmoi, `11` Seam Deduplications)
+- **True Pre-Normalization AI Translation Drift Unified**: 56 occurrences
 - **Source-Text (1491 Slavonic) Scribal Truncations & Tier 3 Variations Classified**: 4 events
 
 ---

@@ -1,4 +1,4 @@
-# 1604 Striatyn Liturgikon of Hedeon Balaban (Служебник, Стрятин: Друкарня Балабанів, 1604) <a id="1604-striatyn-liturgikon-of-hedeon-balaban-служебник-стрятин-друкарня-балабанів-1604"></a>
+# 1604 Striatyn Liturgikon of Hedeon Balaban (Служебник, Стрятин: Друкарня Балабанів, 1604) <a id="1604-striatyn-liturgikon-of-hedeon-balaban"></a>
 
 [Front Outer Binding Board: Contemporary Early Modern blind-tooled calfskin over wooden boards from the beginning of the seventeenth century (brown calf leather over bevelled wooden boards with blind-tooled borders composed of ornamental friezes and geometric fillets; in the center is a large blind-stamped rhomboidal lozenge medallion with floral and foliate motifs). On the fore-edge of the board remain the brass fittings and rivets of two clasps. Spine with four raised bands.]
 
@@ -26,9 +26,7 @@ Halych, and Kamianets of Podolia;[^4]
 And Exarch of the Great Ecumenical
 Throne of Constantinople.[^6]
 
-[Seventeenth-century cursive inscription in the lower margin:] This Liturgikon...
-
-[Woodcut Headpiece: Renaissance cartouche containing the Korczak heraldic arms of the Balaban family, flanked by floral cornucopias and strapwork grotesque figures.]
+[Seventeenth-century cursive inscription in the lower margin:] This Liturgikon [Woodcut Headpiece: Renaissance cartouche containing the Korczak heraldic arms of the Balaban family, flanked by floral cornucopias and strapwork grotesque figures.]
 
 *Preface: Epistle of Bishop Hedeon Balaban.*
 
@@ -82,15 +80,13 @@ And having taken the Holy Lamb, he breaks it very small into minute particles up
 
 [Woodcut Tailpiece: Renaissance strapwork cartouche with a grotesque bearded faun mask.]
 
-[Verso of preliminary folio 10: Blank page exhibiting a faint ghost impression/offset of the woodcut mask tailpiece from folio 10r, along with a seventeenth-century cursive commemorative inscription in brown ink at the upper margin:] "Handmaid of God, the priest's wife Symvia; servant of God... Paraskovia, and Euphrosyne..."
-
-INRI[^28]
+[Verso of preliminary folio 10: Blank page exhibiting a faint ghost impression/offset of the woodcut mask tailpiece from folio 10r, along with a seventeenth-century cursive commemorative inscription in brown ink at the upper margin:] "Handmaid of God, the priest's wife Symvia; servant of God... Paraskovia, and Euphrosyne" INRI[^28]
 
 ---
 
 ## TABLE OF CONTENTS
 
-* **[1604 Striatyn Liturgikon of Hedeon Balaban (Служебник, Стрятин: Друкарня Балабанів, 1604)](#1604-striatyn-liturgikon-of-hedeon-balaban-служебник-стрятин-друкарня-балабанів-1604)**
+* **[1604 Striatyn Liturgikon of Hedeon Balaban (Служебник, Стрятин: Друкарня Балабанів, 1604)](#1604-striatyn-liturgikon-of-hedeon-balaban)**
 * **[PART I: ORDER OF THE DIVINE LITURGY AND DIACONATE, AND THE DIVINE LITURGY OF SAINT JOHN CHRYSOSTOM](1604_striatyn_balaban_liturgikon_part1_liturgy_john_chrysostom.md#part-i-order-of-the-divine-liturgy-and-diaconate-and-the-divine-liturgy-of-saint-john-chrysostom)**
   * [THE DIVINE LITURGY OF OUR FATHER AMONG THE SAINTS JOHN CHRYSOSTOM](1604_striatyn_balaban_liturgikon_part1_liturgy_john_chrysostom.md#the-divine-liturgy-of-our-father-among-the-saints-john-chrysostom)
 * **[PART II: THE DIVINE LITURGY OF SAINT BASIL THE GREAT](1604_striatyn_balaban_liturgikon_part2_liturgy_basil_the_great.md#part-ii-the-divine-liturgy-of-saint-basil-the-great)**

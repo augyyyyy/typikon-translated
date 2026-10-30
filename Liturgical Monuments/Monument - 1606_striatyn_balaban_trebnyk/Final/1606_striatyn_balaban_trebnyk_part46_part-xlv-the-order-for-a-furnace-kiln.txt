@@ -2,25 +2,25 @@
 
 *The priest performs the sanctification of water; and after the sanctification he says the prayer:*[^3775]
 
-**Priest:** Let us pray to the Lord.
+> **Priest:** "Let us pray to the Lord."
 
-**Priest:** O Eternal Lord, Who didst turn the sevenfold furnace and flame in Babylon into dew,[^3776] and didst preserve unharmed Thy holy youths Ananias, Azarias, and Misael cast into it by King Nebuchadnezzar: do Thou Thyself bless also this furnace, for the sake of Thy great mercy; and bless the works of the hands of Thy servants; prosper them by Thy beneficence; direct them according to the multitude of Thy compassions; through the prayers of our most pure Lady, the Theotokos and Ever-Virgin Mary; by the power of the precious and life-creating Cross; by the intercessions of the most magnificent Archangels Michael and Gabriel,[^3777] and of all the heavenly bodiless Hosts; of the precious, glorious Prophet, Forerunner, and Baptist John; of the holy, glorious, and all-praised Apostles; of the holy Hieromartyr Cyprian;[^3778] and of our father among the saints, Nicholas, Archbishop of Myra in Lycia, the Wonderworker: for Thou art He that blesses and sanctifies all things, O our God, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages.[^3779]
+> **Priest:** "O Eternal Lord, Who didst turn the sevenfold furnace and flame in Babylon into dew,[^3776] and didst preserve unharmed Thy holy youths Ananias, Azarias, and Misael cast into it by King Nebuchadnezzar: do Thou Thyself bless also this furnace, for the sake of Thy great mercy; and bless the works of the hands of Thy servants; prosper them by Thy beneficence; direct them according to the multitude of Thy compassions; through the prayers of our most pure Lady, the Theotokos and Ever-Virgin Mary; by the power of the precious and life-creating Cross; by the intercessions of the most magnificent Archangels Michael and Gabriel,[^3777] and of all the heavenly bodiless Hosts; of the precious, glorious Prophet, Forerunner, and Baptist John; of the holy, glorious, and all-praised Apostles; of the holy Hieromartyr Cyprian;[^3778] and of our father among the saints, Nicholas, Archbishop of Myra in Lycia, the Wonderworker: for Thou art He that blesses and sanctifies all things, O our God, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."[^3779]
 
 *Another prayer:*[^3780]
 
-**Priest:** O Master Lord our God, Who dwellest on high and lookest upon all things,[^3781] Who didst bless the house of Laban at the entrance of Jacob,[^3782] and the house of Potiphar at the entrance of Joseph,[^3783] Who didst bless the house of Obed-edom at the entrance of the Ark,[^3784] and Who by the incarnation of Thy Christ didst become salvation unto the house of Zacchaeus:[^3785] do Thou Thyself bless this furnace, and preserve those working in it by Thy fear, and keep them unharmed from adversities; and send down upon them Thy blessing from the height of Thy habitation; and bless and multiply the works of their hands, that we may ever thankfully glorify Thy most holy name, of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages.[^3786]
+> **Priest:** "O Master Lord our God, Who dwellest on high and lookest upon all things,[^3781] Who didst bless the house of Laban at the entrance of Jacob,[^3782] and the house of Potiphar at the entrance of Joseph,[^3783] Who didst bless the house of Obed-edom at the entrance of the Ark,[^3784] and Who by the incarnation of Thy Christ didst become salvation unto the house of Zacchaeus:[^3785] do Thou Thyself bless this furnace, and preserve those working in it by Thy fear, and keep them unharmed from adversities; and send down upon them Thy blessing from the height of Thy habitation; and bless and multiply the works of their hands, that we may ever thankfully glorify Thy most holy name, of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages."[^3786]
 
 *Then he says the supplications:*[^3787]
 
-**Priest:** Have mercy on us, O God, according to Thy great mercy, we pray Thee:
+> **Priest:** "Have mercy on us, O God, according to Thy great mercy, we pray Thee:"
 
-**Choir:** Lord, have mercy.
+> **Choir:** "Lord, have mercy."
 
-**Priest:** Again we pray for mercy, life, peace, health, salvation, visitation, and remission of the sins of Thy servants *[Name]*; and that the work of the hands of those laboring in this furnace may be blessed and multiplied, we pray Thee, O Lord, give ear and have mercy.[^3788]
+> **Priest:** "Again we pray for mercy, life, peace, health, salvation, visitation, and remission of the sins of Thy servants *[Name]*; and that the work of the hands of those laboring in this furnace may be blessed and multiplied, we pray Thee, O Lord, give ear and have mercy."[^3788]
 
-**Choir:** Lord, have mercy.
+> **Choir:** "Lord, have mercy."
 
-**Priest:** Give ear unto us, O God our Savior, the hope of all the ends of the earth, and of those far off upon the sea;[^3789] and be merciful, be merciful, O Master, unto our sins, and have mercy on us; for a merciful God and Lover of mankind art Thou, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever [and unto ages of ages].[^3790]
+> **Priest:** "Give ear unto us, O God our Savior, the hope of all the ends of the earth, and of those far off upon the sea;[^3789] and be merciful, be merciful, O Master, unto our sins, and have mercy on us; for a merciful God and Lover of mankind art Thou, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever [and unto ages of ages]."[^3790]
 
 *And he sprinkles the furnace and all that are present there; then he makes the dismissal.*[^3791]
 
