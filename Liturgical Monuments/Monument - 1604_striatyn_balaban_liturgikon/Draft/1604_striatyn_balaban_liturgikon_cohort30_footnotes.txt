@@ -1,0 +1,13 @@
+[^939]: Slavonic: `Погрѣше́нїа` (Errata / Printing Corrigenda). An explicit corrigenda leaf was a distinctive feature of high-standard Renaissance humanistic and post-incunabula typography introduced to Ruthenian printing by Bishop Hedeon Balaban and his master printer Pamvo Berynda.
+[^940]: Slavonic: `В ли́стѣ р҃а` (At leaf 101, or folio/page 101/104). Refers to the petitional suffrage in the Ektenia where the typesetter omitted the standard liturgical phrase `и стра́хомъ бж҃їимъ`.
+[^941]: Slavonic: `бл҃гоговѣ́нїемъ въходѧ́щихъ кънъ` ("of those entering therein with reverence", where `кънъ` represents `къ нь` / `въ нь`, "into it").
+[^942]: Slavonic: `ты чьтѝ` (read thou / imperative singular directed to the officiating priest or reader).
+[^943]: Slavonic: `бл҃гоговѣ́нїемъ и стра́хомъ бж҃їимъ въходѧ́щихъ кънъ` ("of those who with reverence and the fear of God enter therein"). Restoring the canonical tripartite formula `съ вѣ́рою, бл҃гоговѣ́нїемъ и҆ стра́хомъ бж҃їимъ въходѧ́щихъ` of the Great Litany and Litany of Fervent Supplication.
+[^944]: Slavonic: `к ли́стѣ с҃к҃д` (at leaf 224). Refers to the special petitional suffrage for rain during drought (`А҆́щеже бꙋ́детъ бездо́жїе`).
+[^945]: Slavonic: `И҆ е́же ѡ҆дъжити дъжъ бл҃гъ` ("And that [He] may send down rain, good...").
+[^946]: Slavonic: `тыже чьтѝ` (read thou likewise).
+[^947]: Slavonic: `И҆ о́еже ѡ҆дъждити земли дъжъ бл҃гъ` ("And that He may send down rain upon the earth, good..."). The corrector restores the missing direct object `землѝ` ("upon the earth").
+[^948]: Slavonic: `Прѡ́чаꙗ оу҆до́бнѣ разсмотрели́въ чита́тель испра́витъ` (Traditional colophonic and errata formula: "The rest, the attentive/discerning reader will easily correct", invoking the charitable indulgence and editorial vigilance of the clergy and reader).
+[^949]: Archival accession stamps and inventory shelfmarks of the State Public Library of the Ukrainian SSR (now the Vernadsky National Library of Ukraine, Kyiv, Department of Early Printed Books and Rare Editions), where this exemplar of the 1604 Striatyn Liturgikon is preserved under shelfmark `7693 / СД-90` (formerly `ТКВ-4659`).
+[^950]: Codicological description of the rear pastedown, demonstrating standard Late Renaissance and Early Modern Slavic binding structures: blind-tooled calf leather over bevelled oak or beech boards, laced onto four split-strap alum-tawed or tanned leather sewing supports.
+[^951]: Exterior codicological description of the rear binding board of the 1604 Striatyn Liturgikon, completing the complete physical description of this rare monument of Ukrainian typography.

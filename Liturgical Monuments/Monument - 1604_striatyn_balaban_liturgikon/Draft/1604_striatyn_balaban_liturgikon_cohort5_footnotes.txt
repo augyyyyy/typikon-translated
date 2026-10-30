@@ -1,0 +1,45 @@
+[^140]: An explicit citation and theological exposition of Isaiah 53:7 (quoted also by Philip the Deacon in Acts 8:32): "He was led as a sheep to the slaughter; and like a lamb dumb before his shearer, so opened He not His mouth." In the Byzantine-Ruthenian Proskomedia, this prophetic text is recited by the priest as he carves the Holy Lamb from the primary prosphora.
+
+[^141]: An allusion to Matthew 28:20: "and lo, I am with you always, even unto the end of the age." The author links Christ's final post-Resurrection promise directly to the perpetual sacrifice of the Divine Liturgy celebrated upon the earthly altar.
+
+[^142]: The author here addresses a classic debate in Late Byzantine and Early Modern Ruthenian liturgical commentaries (treated notably by Nicholas Cabasilas and Symeon of Thessalonica) concerning whether the "right side" of the Holy Bread refers to the observer's (priest's) right or the intrinsic right side of the Lamb as He lies face-downward on the diskos facing the people. The Striatyn editor defines the right side as that adjacent to the holy chalice on the liturgical south side of the prothesis.
+
+[^143]: The text interprets the prone, face-downward position of the Holy Bread on the paten as an image of the sacrificial humility of the Lamb of God lying prone upon the altar.
+
+[^144]: Early Modern Cyrillic prosphora seals stamped the Greek letters *IC XC NI KA* across the upper crust. The Striatyn commentary explains that because Christ carried the wood of the Cross upon His shoulders from behind on the way to Golgotha, the stamped upper surface corresponds to the back of the Lamb, while the underside into which the priest cuts the cross represents His chest and heart.
+
+[^145]: Psalm 44:10 (LXX; Masoretic Psalm 45:9): "Kings' daughters were in Thine honor; at Thy right hand stood the Queen in gold of Ophir, adorned in varied colors." This verse provides the universal Scriptural justification in Byzantine liturgiology for extracting the large triangular particle of the Theotokos from the second prosphora and placing it to the right of the Holy Lamb.
+
+[^146]: An explicit citation of Pseudo-Dionysius the Areopagite, the foundational Patristic authority for the celestial hierarchy. In his treatise *De Coelesti Hierarchia* (*On the Celestial Hierarchy*), Dionysius classifies the heavenly hosts into nine distinct orders grouped into three triads: Seraphim, Cherubim, and Thrones; Dominions, Virtues, and Powers; Principalities, Archangels, and Angels.
+
+[^147]: References chapters 2, 6, 7, and 8 of Pseudo-Dionysius's *De Coelesti Hierarchia*, where the celestial ranks and their tripartite illuminations (*бжескаа украшенїа*) are expounded. The 1604 Striatyn edition draws an explicit liturgical-theological parallel between the nine orders of angels and the nine particles extracted for the saints during the Proskomedia.
+
+[^148]: A formal scribal and typographical rubric (*Конецъ проскомидїи, и Истолкованїю, яже о ней*) marking the completion of both the preparatory Rite of the Prothesis and its accompanying mystagogical commentary.
+
+[^149]: A full-page woodcut engraving on fol. 34v (p. 87) depicting Saint John Chrysostom, Archbishop of Constantinople, vested in full pontifical vestments including a sticharion, polystavrion phelonion adorned with repeating cross motifs, omophorion, and epigonation (*palitsa*). The Saint blesses with his right hand in the traditional Byzantine chirurgy and holds the Book of the Gospels in his left arm, set within an architectural round arch framed by Renaissance strapwork and foliate arabesques.
+
+[^150]: Monumental red cinnabar *vyaz'* (interlaced display calligraphy) heading on fol. 35r (p. 88), introducing the text of the Divine Liturgy of Saint John Chrysostom, beneath a Renaissance woodcut headpiece depicting Christ as the Great High Priest (*Христос Великий Архиєрей*) in an episcopal mitre and sakkos flanked by floral scrollwork.
+
+[^151]: The rubrics direct the deacon to exit the northern door or step onto the solea before the holy doors to make three metanoias facing the east, reciting privately the versicle of Psalm 50:17 before proclaiming the initial liturgical dialogue.
+
+[^152]: Psalm 50:17 (LXX; Masoretic Psalm 51:15): "O Lord, Thou shalt open my lips, and my mouth shall declare Thy praise." In the Ruthenian Sluzhebnik recension, this versicle is recited quietly by the deacon prior to requesting the opening blessing.
+
+[^153]: The solemn diaconal bidding formula (*Благослови, владыко*) summoning the celebrant to inaugurate the Eucharistic assembly with the initial Trinitarian doxology.
+
+[^154]: Great Synapte (Litany of Peace). The Striatyn Liturgikon utilizes the Cyrillic contraction *сп҃пѣ̀* for *е҆пи́скопѣ* (Bishop) with the standard scribal variable placeholder *и҆мⷶ* (*имярек* / *nomen*), allowing the serving priest or deacon to interpolate the name of the local ordinary (in 1604, Bishop Hedeon Balaban of Lviv and Kamianets-Podilskyi).
+
+[^155]: The civic intercession reflects the geopolitical reality of the Ruthenian Church within the Polish-Lithuanian Commonwealth during the reign of King Sigismund III Vasa (ruled 1587–1632). The liturgical formula commemorates the "Great King" (*велико крали нашемъ*) and the civil authorities (*бл҃гоꙋти́вы гс᷵пре наши*), rather than the imperial or tsarist titulature found in Byzantine or Muscovite editions.
+
+[^156]: The secret Prayer of the First Antiphon (*Господи Боже наш, егоже держава несказанна*), recited by the priest silently at the altar table while the singers chant the First Antiphon (Psalm 102).
+
+[^157]: Movement rubric reflecting classical Kyivan liturgical practice: while the First Antiphon is sung, the deacon bows to the altar and steps to the south to stand before the icon of Christ on the iconostasis, holding his orarion raised with three fingers of his right hand.
+
+[^158]: A general rubrical clarification (*зрѝ* / *nota bene*) inserted in the margin and text, instructing that the priest says the prayers secretly while the deacon proclaims the litanies; but if a priest serves without a deacon (*безъ дїакона*), he must recite both the litanies and the secret prayers himself within the sanctuary.
+
+[^159]: The Little Synapte (Little Litany) recited between the first and second antiphons.
+
+[^160]: The secret Prayer of the Second Antiphon (*Господи Боже наш, спаси люди твоя*), recited privately by the priest while the Second Antiphon (Psalm 145 or festal antiphon) is sung.
+
+[^161]: The secret Prayer of the Third Antiphon (*Иже общыя сия и согласныя даровав нам молитвы*), attributed to Saint John Chrysostom and inspired by Christ's promise in Matthew 18:19–20 ("if two of you agree on earth concerning anything that they ask, it will be done for them by My Father in heaven").
+
+[^162]: The conclusion of the Prayer of the Third Antiphon carries over directly onto the opening folio of Cohort 6 (physical leaf p51 / fol. 41v / p. 101).

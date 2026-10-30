@@ -1,0 +1,47 @@
+[^399]: Fol. 118v (p. 223). Church Slavonic: *Ѻ҆ навече́рїах̾ а҆́ще слꙋча́тсѧ въ по́стъ · и҆ ѡ҆ ст҃ѣ́мъ вели́цѣ четве́рткꙋ и҆ ѡ҆ ст҃ѣ́и вели́цѣ сꙋбо́тѣ*. This rubric governs the celebration of the Divine Liturgy of St. Basil the Great and St. John Chrysostom when conjoined with Vespers (the Vesperal Liturgy) on the Eves (*paramonies*) of the Nativity of Christ and Theophany during fasting seasons, as well as on Holy and Great Thursday and Holy and Great Saturday. In Byzantine-Ruthenian practice, these services begin late in the afternoon (at the "tenth hour of the day," approximately 4:00 PM) with the monastic bells/klepalo.
+
+[^400]: Fol. 118v (p. 223). Church Slavonic: *кле́племъ въ вели́кое*. That is, striking the great *klepalo* (Greek *semantron*), the traditional sounding board (wood or iron) struck with wooden mallets to summon the brethren to solemn divine services.
+
+[^401]: Fol. 119r (p. 224). Church Slavonic: *възнима́ютъ вре́мѧ* (literally, "they take the time"). This is the technical Slavic liturgical term translating the Greek *kairos* (*καιρός*, cf. Ps. 118:126), referring to the canonical preparatory order in which the priest and deacon seek the blessing (*blagoslovenie*) of the superior and recite the entrance prayers prior to entering the sanctuary and vesting.
+
+[^402]: Fol. 119r (p. 224). The Prayer of the Kairos: *Го́споди, посли́ ми рꙋ́кꙋ тво́ю* ("O Lord, send forth Thy hand from Thy holy dwelling-place, and strengthen me for this Thy present service..."), based on Psalm 143:7 and Psalm 137:8, recited by the celebrants standing before the Holy Doors.
+
+[^403]: Fol. 119v (p. 225). Troparia recited during the veneration of the holy icons of the iconostasis: the troparion to the Icon of Christ (*Пречи́стому Твоему́ о́бразу покланя́емся, Благі́й* / "We venerate Thy most pure icon, O Good One...") and the troparion to the Theotokos (*Милосе́рдія сꙋ́щи исто́чникъ* / "Being a fountain of tender compassion...").
+
+[^404]: Fol. 120r (p. 226). The rubric cross-references the complete vesting prayers and order of the Prothesis (*proskomide*) set forth earlier in the codex at the beginning of the Liturgy of St. John Chrysostom (fols. 1r–15r / leaves p10–p25), noting that all formulas and actions are performed identically without variation.
+
+[^405]: Fol. 120v (p. 227). The preparatory prayers recited by the priest and deacon standing together before the Holy Table: the invocation of the Holy Spirit (*Царю́ Небе́сный* / "Heavenly King, Comforter..."), the Angelic Hymn (*Сла́ва въ вы́шнихъ Бо́гу* / "Glory to God in the highest...", Luke 2:14, twice), and the versicle (*Го́споди, ꙋстнѣ̀ моѝ ѿве́рзеши* / "O Lord, Thou shalt open my lips...", Psalm 50:17 [LXX 50:17], once).
+
+[^406]: Fol. 121r (p. 228). The dialogue of the Kairos before the Holy Table: *Вре́мя є҆́же сотвори́ти Го́сподеви* ("It is time for the Lord to act", Psalm 118:126 [LXX 118:126]), spoken by the deacon to the priest while bowing with his orarion.
+
+[^407]: Fol. 121v (p. 229). Rubric specifying the deacon's emergence onto the ambon and the opening of the curtain (*катапета́зма*, Greek *καταπέτασμα*) of the Royal Doors before the priest proclaims the initial doxological blessing.
+
+[^408]: Fol. 122r (p. 230). The introductory Psalm of Vespers (Psalm 103 [LXX 103], *Благослови́, душе́ моѧ̀, Го́спода* / "Bless the Lord, O my soul"), sung at the beginning of the Vesperal Liturgy, while the deacon stands before the icon of Christ awaiting its conclusion before chanting the Great Litany. Note the early modern printed notation: *ѱало сто́ з҃етїй* (the 103rd Psalm).
+
+[^409]: Fol. 122v (p. 231). Church Slavonic: *просфомиса́нїе* (prosphomisation), an Early Modern Ruthenian phonetic rendering of Greek *προσκομιδή* (*proskomide* / oblation), here referring to the preparation of the Holy Gifts at the Table of Oblation during the singing of *Lord, I have cried* (Psalm 140) at Vespers, followed by the deacon censing the sanctuary.
+
+[^410]: Fol. 123r (p. 232). The Little Entrance with the Gospel during the *Theotokion* (*Dogmatikon*) of *Lord, I have cried*, accompanied by the entrance prayer (*Влады́ко Го́споди Бо́же на́шъ*), the deacon's intonation *Премꙋ́дрость, про́сти!* ("Wisdom, stand upright!"), the ancient vesperal hymn *Свѣ́те ти́хїй* (*Phos Hilaron* / "O Joyful Light"), the evening prokeimenon, and the appointed Old Testament readings (*чте́нїа* / paremias).
+
+[^411]: Fol. 123v (p. 233). The Little Litany following the readings, leading to the Trisagion dialogue (*Благослови́, влады́ко, вре́мя трисвята́го* / "Bless, Master, the time of the Trisagion") and the priest's exclamation.
+
+[^412]: Fol. 124r (p. 234). The rubric prescribing that following the Great Entrance, the deacon recites the Evening Litany of Supplication (*Испо́лни вечернѧ̑ѧ моли̑твы на̑ша Го́сподеви* / "Let us complete our evening prayer unto the Lord"), corresponding to the vesperal framework of the combined service.
+
+[^413]: Fol. 124r (p. 234). Rubric for the Feast of the Meeting of the Lord (Candlemas, February 2): if the feast occurs on a weekday of the Great Fast (Lent), the Divine Liturgy of St. John Chrysostom is celebrated according to this identical vesperal order.
+
+[^414]: Fol. 124v (p. 235). Rubric for the Feast of the Annunciation of the Most Holy Theotokos (*Бл҃говѣ́щенїе*, also designated *Зача́тїе Гн҃е*, the Conception of the Lord, March 25): if it falls during the Great Fast, the Liturgy is likewise celebrated according to this exact vesperal order without variation.
+
+[^415]: Fol. 125r (p. 236). Recto of folio 125 is blank, preserving the paper integrity before the full-page woodcut engraving of St. Basil the Great on the verso (fol. 125v).
+
+[^416]: Fol. 125v (p. 236v / facing p. 237). Full-page woodcut icon of Saint Basil the Great, Archbishop of Caesarea in Cappadocia (*СТ҃ЫИ ВАСІ́ЛЇЕ ВЕЛИ́КЫ[И]*). The bishop is depicted full-length in pontifical vestments with polystavrion phelonion, great omophorion, and epigonation, holding the Gospel book in his left hand and blessing with his right hand, surrounded by an elaborate Renaissance strapwork and foliate border. The numeral *л҃ѕ* (36) in the upper-left margin designates the printer's woodblock sheet registry.
+
+[^417]: Fol. 126r (p. 237). Opening page of the Divine Liturgy of Saint Basil the Great, featuring an ornate woodcut headpiece of the Crucifixion with the title *· І · Н · Ц · І ·* (*I.N.Ts.I.* = *I.N.R.I.*, *Jesus of Nazareth, King of the Jews*), followed by the grand monumental red cinnabar *viaz'* title (*БЖ҃Е́СТВЕННАꙖ СЛꙋ́ЖБА И҆́ЖЕ ВЪ...*).
+
+[^418]: Fol. 126r (p. 237). Rubric directing the celebrant to the Liturgy of St. John Chrysostom for the complete text and ritual of the Prothesis (*проскомиді́а*).
+
+[^419]: Fol. 126v–127r (pp. 238–239). The introductory rubric notes that the ministerial order for priest, deacon, and choir responses throughout the opening portion of the Liturgy of St. Basil the Great is completely identical to that of St. John Chrysostom.
+
+[^420]: Fol. 127r (p. 239). Church Slavonic: *Ѻ҆ велико̃ кра́ли наше̃ [І҆́мⷶ]* ("For our Great King [Name]"). The royal petition in the Great Litany for the reigning monarch of the Polish-Lithuanian Commonwealth, King Zygmunt III Vasa (reigned 1587–1632), reflecting the diplomatic and ecclesiastical reality of the Ruthenian Church under Bishop Hedeon Balaban in 1604.
+
+[^421]: Fol. 127v–128r (pp. 240–241). Rubric detailing the simultaneous recitation of the Prayer of the First Antiphon secretly by the priest at the Holy Table while the deacon chants the Great Litany outside the altar on the solea/ambon.
+
+[^422]: Fol. 127v–128r (pp. 240–241). The Prayer of the First Antiphon (*Го́споди Бо́же на́шъ, є҆го́же держа́ва несказа́нна* / "O Lord our God, Whose might is ineffable..."). In Byzantine and Kyivan liturgical tradition, the text of this initial antiphon prayer in the Liturgy of Saint Basil the Great is identical to that found in the Liturgy of Saint John Chrysostom.

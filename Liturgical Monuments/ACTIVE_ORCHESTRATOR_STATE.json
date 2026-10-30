@@ -176,20 +176,6 @@
       "unresolved_quarantines": 0,
       "active_lease": true
     },
-    "1604_striatyn_balaban_liturgikon": {
-      "monument_id": "1604_striatyn_balaban_liturgikon",
-      "active_monument": "1604 Striatyn Liturgikon of Hedeon Balaban (Служебник, Стрятин: Друкарня Балабанів, 1604)",
-      "routing_phase": "PHASE_2_GRAND_PAUSE_READY",
-      "current_cohort": 30,
-      "current_cohort_range": "pp. 291-293 (leaves p291-p293)",
-      "translated_pages": 293,
-      "total_physical_pages": 293,
-      "remaining_pages": 0,
-      "small_pause_gate_status": "GRAND_PAUSE_READY_FOR_HUMAN_INSPECTION",
-      "argon_review_queue_count": 0,
-      "unresolved_quarantines": 0,
-      "active_lease": true
-    },
     "1606_striatyn_balaban_trebnyk": {
       "monument_id": "1606_striatyn_balaban_trebnyk",
       "active_monument": "1606 Striatyn Euchologion / Trebnyk of Teodor & Hedeon Balaban (Молитвенник альбо Требник, Стрятин: Друкарня Балабанів, 1606)",

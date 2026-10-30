@@ -1,0 +1,64 @@
+[^757]: At the Theophany of our Lord and God and Savior Jesus Christ (January 6). Feast of the Holy Theophany and Baptism of Christ in the Jordan River.
+[^758]: The festal incipit characteristic of Theophany: "May He Who deigned to be baptized by John in the Jordan for our salvation..." (Крестивыйся от Иоанна во Иордане...).
+[^759]: The rubric abbreviation `по:` in Church Slavonic texts stands for the standard dismissal conclusion: `поми́луетъ и҆ спасе́тъ на́съ, ꙗ҆́ко бл҃гъ и҆ чл҃колꙋ́бецъ` ("have mercy on us and save us, for He is good and the Lover of mankind").
+[^760]: At the Meeting (Hypapante / Presentation) of our Lord God and Savior Jesus Christ in the Temple (February 2), forty days after His Nativity.
+[^761]: Festal dismissal incipit referencing the righteous elder Symeon receiving the infant Christ into his arms in the Temple (Luke 2:28): "Възлегий на руку праведнаго Симеона..."
+[^762]: At the Annunciation of the Most Holy Theotokos and Ever-Virgin Mary by the Archangel Gabriel (March 25).
+[^763]: On Lazarus Saturday, the eve of Palm Sunday, commemorating the raising from the dead of the righteous Lazarus after four days in the tomb (John 11).
+[^764]: Lazarus Saturday festal dismissal incipit: "Пришедый в Вифанию, воздвигнути праведнаго Лазаря..."
+[^765]: On Palm Sunday (Entry of the Lord into Jerusalem; Недѣля Цвѣтная / Вход Господень во Иерусалим). The dismissal text continues onto the following leaf.
+[^766]: Palm Sunday festal dismissal incipit: "Пришедый во Иерусалим, и хвалу от детей еврейских восприемый..." (Matthew 21:8–16).
+[^767]: Dismissal formula used during Holy and Great Week, specifically from Great Monday through Great Wednesday and at the appointed hours of the Great Week offices: "Пришедый на страсть вольную..." ("Who came unto His voluntary Passion...").
+[^768]: Voluntary Passion of Christ: standard liturgical designation emphasizing the voluntary and redemptive nature of the Lord's suffering and kenotic sacrifice for the salvation of the world.
+[^769]: On Holy and Great Saturday, commemorating the bodily burial of our Lord Jesus Christ, His rest in the tomb, and His descent into Hades to deliver the souls of the righteous.
+[^770]: Holy Saturday festal dismissal incipit: "Иже нас ради волею положивыйся во гробе, и вшедый во ад..."
+[^771]: On the Holy and Radiant Sunday of Pascha (Easter Sunday), the Feast of Feasts and Solemnity of Solemnities.
+[^772]: The "Second Ektenia" refers to the Little Ektenia intoned after the introductory Paschal stichoi and the Great Ektenia at the beginning of Paschal Matins.
+[^773]: Paschal exclamation: "Яко подобает Тебе всякая слава, честь и поклонение, Отцу и Сыну и Святому Духу, ныне и присно, и во веки веков. Аминь."
+[^774]: Universal liturgical rubric for the Paschal Canon composed by Saint John of Damascus: throughout the entire Bright Week (Светлая седмица), after each ode of the canon, a Little Ektenia (малая ектения) is intoned either by the deacon or, in the absence of a deacon, by the priest, followed by its appointed festive exclamation.
+[^775]: Priestly exclamation after Ode 1 of the Paschal Canon: "Яко Твоя держава, и Твое есть царство, и сила, и слава, Отца, и Сына, и Святаго Духа, ныне и присно, и во веки веков. Аминь."
+[^776]: Priestly exclamation after Ode 3 of the Paschal Canon: "Яко Ты еси Бог наш, и Тебе славу возсылаем, Отцу и Сыну и Святому Духу, ныне и присно, и во веки веков. Аминь."
+[^777]: Priestly exclamation after Ode 4 of the Paschal Canon: "Яко благ и человеколюбец Бог еси, и Тебе славу возсылаем, Отцу и Сыну и Святому Духу, ныне и присно, и во веки веков. Аминь."
+[^778]: Priestly exclamation after Ode 5 of the Paschal Canon: "Яко благословися и прославися всечестное и великолепое имя Твое, Отца и Сына и Святаго Духа, ныне и присно, и во веки веков. Аминь."
+[^779]: Priestly exclamation after Ode 6 of the Paschal Canon: "Ты бо еси Царь мира и Спас душ наших, и Тебе славу возсылаем, Отцу и Сыну и Святому Духу, ныне и присно, и во веки веков. Аминь."
+[^780]: Priestly exclamation after Ode 7 of the Paschal Canon: "Буди держава царствия Твоего благословена и препрославлена, Отца и Сына и Святаго Духа..." (witnessed here by the recensional incipit `Яко святися и прославися...`).
+[^781]: Priestly exclamation after Ode 8 of the Paschal Canon: "Яко Ты еси Бог наш, и Тебе славу возсылаем..." (or "Яко Отец щедрот и Бог всякаго утешения...").
+[^782]: Priestly exclamation after Ode 9 of the Paschal Canon: "Яко Тебе хвалят вся силы небесныя, и Тебе славу возсылаем, Отцу и Сыну и Святому Духу, ныне и присно, и во веки веков. Аминь."
+[^783]: The festive dismissal used at all divine services throughout Bright Week, uniquely commenced by the chanting of the Paschal Troparion as the dismissal incipit.
+[^784]: The Paschal Troparion ("Christ is risen from the dead...") sung directly by the celebrant as the opening proclamation of the dismissal.
+[^785]: On Thomas Sunday (Antipascha / Second Sunday of Pascha), celebrating the eighth day of the Resurrection and the manifestation of the risen Christ to Saint Thomas (John 20:19–29).
+[^786]: Thomas Sunday festal dismissal incipit: "Пришедый ко учеником, и дверем затвореном, и Фому уверивый..."
+[^787]: At the Ascension of our Lord Jesus Christ, forty days after His Resurrection (Acts 1:9–11).
+[^788]: Ascension festal dismissal incipit: "Вознесыйся во славе от нас на небо, и седый одесную Бога и Отца..."
+[^789]: On the Sunday of Holy Pentecost (Trinity Sunday), fifty days after Pascha, commemorating the descent of the Holy Spirit upon the holy Apostles in the form of fiery tongues (Acts 2).
+[^790]: Pentecost festal dismissal incipit: "Низпославый Пресвятый Свой Дух на святыя Своя ученики и апостолы..."
+[^791]: At the Holy Transfiguration of our Lord God and Savior Jesus Christ upon Mount Tabor (August 6; Matthew 17:1–9).
+[^792]: Transfiguration festal dismissal incipit: "Преобразивыйся на горе Фаворстей, показа учеником славу Свою..."
+[^793]: At the Dormition (Falling Asleep) of our Most Holy Lady Theotokos and Ever-Virgin Mary (August 15).
+[^794]: Canonical rubrical rule governing the Feasts of the Master (Господские праздники) and of the Mother of God (Богородичные праздники): the appointed festal dismissal is intoned daily from the feast day itself through the Apodosis (отдание / apodosis) of the celebration.
+[^795]: Daily dismissal for a saint who has a Great Doxology (Славословие великое) appointed at Matins, indicating a saint of Polyeleos or Doxology rank under the Typikon.
+[^796]: Order and Prayer for the Blessing of Kolyvo (boiled wheat mixed with honey and dried fruits) offered in honor and commemoration of a saint, traditionally celebrated on the patronal feast or annual memorial of a martyr or holy father.
+[^797]: The liturgical positioning of the blessing of kolyvo at the Divine Liturgy occurs immediately following the triple singing of "Blessed be the Name of the Lord" (Буди имя Господне благословено отныне и до века) after the Prayer behind the Ambon.
+[^798]: While the choir chants the troparion of the commemorated saint, the priest or deacon censes the kolyvo arranged upon the tetrapod in the midst of the nave.
+[^799]: Opening address of the Prayer over Kolyvo for a Saint, invoking God's creation of the cosmos through His divine Logos (Psalm 32:6 / 33:6; John 1:3).
+[^800]: Biblical allusion to the Three Holy Youths (Ananias, Azarias, and Misael) and the Prophet Daniel at the royal court in Babylon, who abstained from the defiling meat and wine of King Nebuchadnezzar's table and flourished on pulse (seeds) and water (Daniel 1:12–16).
+[^801]: The blessing of the boiled seeds (wheat, barley, raisins, nuts) signifies both bodily resurrection from the earth (John 12:24; 1 Corinthians 15:36–38) and the sweetness of the kingdom of heaven.
+[^802]: Liturgical intention formula: the offering of the kolyvo is dedicated to the glory of God and the veneration of the saint, as well as for the spiritual benefit of the faithful who adorned the church and reposed in true piety.
+[^803]: Slavonic `благоукрасивши сия` (Greek: τῶν καλλωπισάντων ταῦτα) denotes the faithful donors and servants who prepared, adorned, and presented the dish of kolyvo for the holy rite.
+[^804]: Order of the Memorial Litany (Заупокойная ектения) and Prayer of Absolution over Kolyvo offered for the deceased (Kolyvo za usopshikh / Panakhyda / Parastas).
+[^805]: The abbreviation `з҃•` in the Slavonic rubric stands for `зри́` ("Note!" / "Behold!"), directing that the appointed funeral troparia are chanted immediately following the triple "Blessed be the Name of the Lord".
+[^806]: The venerable troparion of the Byzantine memorial office (Tone 4): "Со духи праведных скончавшихся, душу раба Твоего, Спасе, упокой..." ("With the spirits of the righteous departed, give rest to the soul of Thy servant, O Savior...").
+[^807]: Contemporary 17th-century semi-uncial marginal note `поминати` ("to commemorate"), reminding the celebrating deacon or priest to insert the proper names of the departed at this diaconal petition.
+[^808]: Opening petition of the Memorial Ektenia, citing LXX Psalm 50:1 ("Have mercy on me, O God, according to Thy great mercy").
+[^809]: Traditional liturgical formula for the departed: `блаженныя памяти и оставления грехов преже почившему...`
+[^810]: The priest recites the ancient and venerable Byzantine Prayer for the Departed ("Боже духов и всякия плоти...") secretly while the deacon intones the memorial petitions.
+[^811]: Direct quotation from Isaiah 35:10 / 51:11 ("sorrow and sighing shall flee away"), evocative of the peaceful repose of the soul in Abraham's bosom.
+[^812]: Scriptural citations: Ecclesiastes 7:20 ("For there is not a just man upon earth, that does good, and sins not") and LXX Psalm 118:142 ("Thy righteousness is an everlasting righteousness, and Thy law is the truth").
+[^813]: Priestly exclamation of the Memorial Prayer: "Яко Ты еси воскресение, и живот, и упокой усопшаго раба Твоего..."
+[^814]: Typographical colophon marking the formal conclusion (`КОНЕЦЪ`) of the Dismissals, Benedictions, and Kolyvo section of the 1604 Striatyn Liturgikon.
+[^815]: Physical lacuna in the unique Striatyn exemplar: leaf 2 of Quire Ya (`ѧ҃ в`, corresponding to unpreserved folios 269bis r-v / pp. 527–528) is wanting in this binding. It contained the general title and headpiece for the Evening and Morning Offices, the introductory rubrics for the Priest at Vespers, and the opening petition of the First Prayer of the Lucernarium ("Господи щедрый и милостивый..."). The text resumes on folio 3 recto (`ѧ҃ г`, misnumbered 524 for 527) with the final doxological exclamation of the First Prayer.
+[^816]: The Seven Prayers of Light (Светильничные молитвы / Prayers of the Lucernarium) recited secretly by the priest during the reading of the Introductory Psalm (Psalm 103) at Byzantine Vespers.
+[^817]: Concluding doxological exclamation of the First Prayer of Light: "Яко подобает Тебе всякая слава, честь и поклонение, Отцу и Сыну и Святому Духу, ныне и присно..."
+[^818]: The Second Prayer of Light recited by the priest at Vespers ("Господи, не яростию Твоею обличи нас...").
+[^819]: Direct quotation of LXX Psalm 6:1 / Psalm 37:1 ("O Lord, rebuke me not in Thine indignation, neither chasten me in Thy wrath").
+[^820]: The Third Prayer of Light recited by the priest at Vespers ("Господи Боже наш, помяни нас грешных и непотребных раб Твоих...").

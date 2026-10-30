@@ -1,0 +1,14 @@
+[^562]: The rubric "Begin here" (*Начни здѣ*), accompanied by a marginal manicula (pointing hand) and a cross, marks the resumption of the standard Liturgy of the Presanctified Gifts when the special Lenten petitions and prayer for those preparing for illumination (prescribed only from Mid-Lent Wednesday onward) are omitted.
+[^563]: That is, the First Litany of the Faithful and its accompanying secret prayer, identical in structure to the order observed in the Liturgy of Saint John Chrysostom (see fol. 51v / physical leaf p51).
+[^564]: The Second Litany of the Faithful, concluding with the standard short suffrages ("Help us, save us...", "Wisdom!").
+[^565]: The Presanctified Cherubic Hymn (*Нынѣ Силы Небесныя* / *Nunc virtutes caelorum*), sung in place of the customary Cherubikon. The central exclamation "Behold, the King of glory enters!" (*Се бо входитъ Царь славы*) is printed in cinnabar red, demarcating the point of the Great Entrance with the Pre-consecrated Holy Gifts.
+[^566]: The Great Entrance of the Liturgy of the Presanctified Gifts is carried out in total silence: no audible commemorations or vocal formulas are proclaimed, reflecting the sorrowful mystery of the already-consecrated Lamb being transferred to the altar.
+[^567]: The phrase "having taken the blessing of time" (*вземъ время* / *καιρὸν λαβών*) refers to the liturgical custom whereby the deacon requests the blessing of the priest to commence the litany.
+[^568]: The 1604 Striatyn print reads `некѣ́жествїи` (line 11), an epigraphic compositor error for `невѣ́жествїихъ` (Gk. *ἀγνοημάτων*, "ignorances" or "unintentional sins of the people"; cf. Heb. 9:7).
+[^569]: In accordance with the Anti-Slop Standard, Church Slavonic *дивная* is rendered as "marvelous" rather than "wondrous" (Job 5:9; Ps. 71:18 [LXX]).
+[^570]: The Angel of Peace litany (Supplication / *Просительная ектенія*) following the Great Entrance, printed here in customary liturgical abbreviations.
+[^571]: The text prints `Оу́че нашъ` (*Ouche nash*), reflecting Early Modern Ruthenian/Kyivan Church Slavonic orthography and vocalization.
+[^572]: The Prayer at the Bowing of Heads (*Молитва главопреклоненія*) of the Presanctified Liturgy.
+[^573]: The Prayer of Elevation, identical to the secret prayer in the Liturgies of St. John Chrysostom and St. Basil the Great. The opening imperative `Вънми` is translated as "Give ear" rather than the archaic "Hearken".
+[^574]: The elevation exclamation of the Presanctified Liturgy: *Преждеосвященная святая святымъ* ("The Presanctified Holy Things for the holy!").
+[^575]: The Presanctified Communion Hymn in the 1604 Striatyn print reads `Въскоусите, и видите яко Хсъ Гь` ("Taste and see that the Lord is Christ"), inserting `Хсъ` (*Christ*) before `Гь` (*the Lord*), a distinctive Ruthenian recensional witness reflecting Kyivan liturgical usage (cf. Ps. 33:9 [LXX 33:8]).

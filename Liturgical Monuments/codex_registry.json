@@ -1345,8 +1345,8 @@
       "default_cohort_size": 10,
       "genre_register": "rubrical",
       "workspace_dir": "Liturgical Monuments/Monument - 1604_striatyn_balaban_liturgikon",
-      "active": true,
-      "status": "in_progress",
+      "active": false,
+      "status": "completed",
       "historical_year": 1604,
       "wave": 3,
       "publication_spec": {

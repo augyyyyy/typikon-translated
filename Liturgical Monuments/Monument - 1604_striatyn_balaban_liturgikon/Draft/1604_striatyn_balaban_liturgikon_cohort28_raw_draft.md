@@ -1,0 +1,180 @@
+=== LEAF p271 ===
+
+**[Left Page — Fol. 271v (p. 532 [ф҃лв])]**
+
+*Prayers*
+
+*Exclamation:*[^821]
+**Priest:** "For Thou art a good God and the Lover of mankind, and unto Thee do we offer up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, [and unto ages of ages. Amen]."
+*Fourth Prayer:*[^822]
+**Priest:** "O Lord, Who art hymned on high by the holy powers with unceasing hymns and unending doxologies: fill our mouth with Thy praise, that we may give majesty unto Thy holy Name;"
+
+**[Right Page — Fol. 272r (p. 533 [ф҃лг])]**
+
+*At Vespers*
+
+**Priest:** "...and grant us part and inheritance with all them that fear Thee in truth, and that keep Thy commandments; through the intercessions of the all-holy Theotokos, and of all Thy saints."
+*Exclamation:*[^823]
+**Priest:** "For unto Thee is due all glory, honor, [and worship, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen]."
+*Fifth Prayer:*[^824]
+**Priest:** "Blessed art Thou, O Lord God Almighty, Who knowest the mind of man, Who knowest the things whereof we have need..."
+
+=== LEAF p272 ===
+
+**[Left Page — Fol. 272v (p. 534 [ф҃лд])]**
+
+*Prayers*
+
+**Priest:** "...far more abundantly than we ask or understand:[^825] do Thou Thyself, O King and Lover of mankind, Who art good in all things, vouchsafe us in the multitude of Thy compassions,[^826] with an unashamed conscience, to call upon Thy holy Name; and lead us not into temptation, but deliver us from the evil one;[^827] and by Thy providence order all things unto what is profitable for us."
+
+**[Right Page — Fol. 273r (p. 535 [ф҃ле])]**
+
+*At Vespers*
+
+*Exclamation:*
+**Priest:** "For unto Thee is due all glory, honor, and [worship, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen]."
+*Sixth Prayer:*[^828]
+**Priest:** "O Lord, O Lord, Who upholdest all things by Thine all-pure power, Who art long-suffering toward us all, and relentest concerning our evils, and puttest far away from us our iniquities: remember Thy compassions and Thy mercies, and visit us in Thy goodness; and grant us to escape for the remainder of the present day..."
+
+=== LEAF p273 ===
+
+**[Left Page — Fol. 273v (p. 536 [ф҃лѕ])]**
+
+*Prayers*
+
+**Priest:** "...from the manifold wiles of the evil one; and preserve our life free from assault, by the grace of Thy Holy Spirit."
+*Exclamation:*
+**Priest:** "Through the grace and love for mankind of Thine Only-Begotten Son, with Whom Thou art blessed, together with Thine All-Holy, and good, and life-creating Spirit, now and ever, [and unto ages of ages. Amen]."
+*Seventh Prayer:*[^829]
+**Priest:** "O God, great and marvelous, Who by Thine ineffable goodness and rich [providence orderest the life of man]..."
+
+**[Right Page — Fol. [270b]r / Fol. 267*r (p. 527 [ф҃кз])]**
+
+[Woodcut Headpiece: Renaissance rectangular woodcut headband with foliate strapwork and central floral vase]
+
+## PRAYERS AT VESPERS[^830]
+
+*(Codicological note on the physical exemplar regarding the binding order of Quire Ya).*[^831]
+
+*First Prayer:*[^832]
+**Priest:** "O Lord, compassionate and merciful, long-suffering and plenteous in mercy:[^833] give ear unto our prayer, and attend to the voice of our supplication.[^834] Work with us a sign for good;[^835]..."
+
+=== LEAF p274 ===
+
+**[Left Page — Fol. [270b]v / Fol. 267*v (p. 528 [ф҃кн])]**
+
+*Prayers*
+
+**Priest:** "...guide us in Thy way, that we may walk in Thy truth;[^836] make our hearts glad, that we may fear Thy holy Name;[^837] for Thou art great, and workest wonders; Thou art God alone,[^838] and there is none like unto Thee among the gods, O Lord,[^839] mighty in mercy, and good in strength, to help, to comfort, and to save all them that hope in Thy holy Name."[^840]
+*Exclamation:*[^841]
+*(Priest: "For unto Thee is due all glory, honor, and worship, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen.")*
+
+**[Right Page — Fol. 274r (p. 537 [ф҃лз])]**
+
+*At Vespers*
+
+**Priest:** "...Who by Thy rich providence orderest the life of man; Who hast granted us worldly good things, and pledged unto us the promised Kingdom through the good things already bestowed upon us; Who hast made us to turn away from every evil during the part of the present day that is past: grant us also to finish the remainder without blemish before Thy holy glory, and to praise Thee, the only..."
+
+=== LEAF p275 ===
+
+**[Left Page — Fol. 274v (p. 538 [ф҃лн])]**
+
+*Prayers*
+
+**Priest:** "...good God and Lover of mankind."
+*Exclamation:*
+**Priest:** "For Thou art a merciful God and the Lover of mankind, and unto Thee do we offer up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, [and unto ages of ages. Amen]."
+*Eighth Prayer:*[^842]
+**Priest:** "O God, great and marvelous, Who alone hast immortality,[^843] dwelling in unapproachable light;[^844] Who hast created all creation in wisdom;[^845] Who hast divided between the light..."
+
+**[Right Page — Fol. 275r (p. 539 [ф҃лѳ])]**
+
+*At Vespers*
+
+**Priest:** "...and between the darkness;[^846] Who hast appointed the sun for rule of the day, and the moon and the stars for rule of the night;[^847] Who hast vouchsafed us sinners at this present hour to anticipate Thy presence with thanksgiving,[^848] and to offer unto Thee our evening service: do Thou Thyself, O Lord and Lover of mankind, let our prayer be set forth as incense before Thee,[^849] and accept it as a sweet-smelling fragrance;[^850] and grant..."
+
+=== LEAF p276 ===
+
+**[Left Page — Fol. 275v (p. 540 [ф҃м])]**
+
+*Prayers*
+
+**Priest:** "...us this present evening and the coming night in peace. Clothe us with the armor of light;[^851] deliver us from the terror of the night, and from the arrow that flies by day, and from every pestilence that walks in darkness;[^852] and grant us sleep, which Thou hast bestowed for the refreshment of our infirmity, and free us from every diabolical fantasy. Yea, O Master, Bestower of all good things, that even upon our beds, being moved to compunction, we may remember..."
+
+**[Right Page — Fol. 276r (p. 541 [ф҃ма])]**
+
+*At Vespers*
+
+**Priest:** "...Thy holy Name in the night; and being enlightened by the meditation of Thy commandments, may rise up in gladness of soul unto the doxology of Thy truth, offering prayers and supplications unto Thy loving-kindness for our sins and for all Thy people; whom do Thou visit in mercy, through the intercessions of the holy Theotokos."
+
+=== LEAF p277 ===
+
+**[Left Page — Fol. 276v (p. 542 [ф҃мв])]**
+
+*Prayers*
+
+*Exclamation:*[^853]
+**Priest:** "For Thou art a good God and the Lover of mankind, and unto Thee do we offer up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen."
+
+[Woodcut Tailpiece: Renaissance symmetrical strapwork arabesque ornament]
+
+**[Right Page — Fol. 277r (p. 543 [ф҃мг])]**
+
+[Woodcut Headpiece: Elaborate Renaissance woodcut of Christ the Man of Sorrows (Христос во гробе / Царь Славы) with cross, tomb, and foliate frame]
+
+## PRAYERS AT MATINS[^854]
+
+*First Prayer:*[^855]
+**Priest:** "We give thanks unto Thee, O Lord our God, Who hast raised us up from our beds, and hast put into our mouth a word of praise, that we may worship and call upon Thy holy Name;"
+
+=== LEAF p278 ===
+
+**[Left Page — Fol. 277v (p. 544 [ф҃мд])]**
+
+*Prayers*
+
+**Priest:** "...and we entreat Thy compassions and Thy grace, which Thou hast ever exercised toward our life; and now send down Thy help upon them that stand before the face of Thy holy glory, and that await rich mercy from Thee; and grant unto us who serve Thee with fear and love to praise, to hymn, to glorify, and to worship Thine ineffable goodness."
+
+**[Right Page — Fol. 278r (p. 545 [ф҃мє])]**
+
+*At Matins*
+
+*Exclamation:*[^856]
+**Priest:** "For unto Thee is due all glory, honor, and worship, to the Father, and to the Son, and to the Holy Spirit, now and ever, [and unto ages of ages. Amen]."
+*Second Prayer:*[^857]
+**Priest:** "From night my spirit awakens early unto Thee, O God, for Thy commandments are a light upon the earth;[^858] teach us to accomplish righteousness and holiness in Thy fear,[^859] for we glorify Thee, our truly existing God; incline Thine ear..."
+
+=== LEAF p279 ===
+
+**[Left Page — Fol. 278v (p. 546 [ф҃мѕ])]**
+
+*Prayers*
+
+**Priest:** "...and hear us; and remember, O Lord, all them that are with us and that pray with us, each by name, and save them by Thy power; bless Thy people, and sanctify Thine inheritance;[^860] grant peace unto Thy world, unto Thy churches, unto the priests, unto kings, and unto all Thy people."
+*Exclamation:*[^861]
+**Priest:** "For blessed and glorified is Thine all-honorable and magnificent Name, [of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages. Amen]."
+
+**[Right Page — Fol. 279r (p. 547 [ф҃мз])]**
+
+*At Matins*
+
+**Priest:** "...of the Father, and of the Son, and of the Holy Spirit, now and ever, [and unto ages of ages. Amen]."
+*Third Prayer:*[^862]
+**Priest:** "From night our spirit awakens early unto Thee, O God, for Thy commandments are a light upon the earth;[^863] teach us, O God, by Thy righteousness, and Thy commandments, and Thy statutes;[^864] enlighten the eyes of our thoughts, lest we ever sleep unto death;[^865] drive away all gloom from our hearts; grant us the Sun..."
+
+=== LEAF p280 ===
+
+**[Left Page — Fol. 279v (p. 548 [ф҃ми])]**
+
+*Prayers*
+
+**Priest:** "...of Thy righteousness;[^866] preserve our life free from assault by the sign and seal of Thy Holy Spirit; and guide our footsteps into the way of peace;[^867] grant us to behold the morning day in rejoicing, that we may offer up morning prayers unto Thee."
+*Exclamation:*[^868]
+**Priest:** "For Thine is the dominion, and Thine is the kingdom,[^869] and the power, and the glory, of the Father, and of the Son, and of the Holy Spirit, now and ever, [and unto ages of ages. Amen]."
+
+**[Right Page — Fol. 280r (p. 549 [ф҃мѳ])]**
+
+*At Matins*
+
+*Fourth Prayer:*[^870]
+**Priest:** "O Master, God holy and incomprehensible, Who hast commanded the light to shine out of darkness;[^871] Who hast refreshed us in nightly sleep, and hast raised us up unto the doxology and supplication of Thy goodness; being entreated through Thine own tender compassions, accept us also now who worship Thee, and who according to our strength give thanks unto Thee; and grant us..."

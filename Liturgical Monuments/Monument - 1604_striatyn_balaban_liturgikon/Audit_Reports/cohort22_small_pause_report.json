@@ -1,0 +1,112 @@
+{
+  "timestamp": "2026-10-29T16:33:24.272293+00:00",
+  "monument_id": "1604_striatyn_balaban_liturgikon",
+  "cohort": 22,
+  "target_file": "1604_striatyn_balaban_liturgikon_cohort22_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1604_striatyn_balaban_liturgikon_cohort22_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1604_striatyn_balaban_liturgikon_cohort22_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1604_striatyn_balaban_liturgikon_cohort22_raw_draft.md",
+      "footnotes_file": "1604_striatyn_balaban_liturgikon_cohort22_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 15,
+      "definition_markers_count": 15,
+      "text_markers": [
+        "[^576]",
+        "[^577]",
+        "[^578]",
+        "[^579]",
+        "[^580]",
+        "[^581]",
+        "[^582]",
+        "[^583]",
+        "[^584]",
+        "[^585]",
+        "[^586]",
+        "[^587]",
+        "[^588]",
+        "[^589]",
+        "[^590]"
+      ],
+      "definition_markers": [
+        "[^576]",
+        "[^577]",
+        "[^578]",
+        "[^579]",
+        "[^580]",
+        "[^581]",
+        "[^582]",
+        "[^583]",
+        "[^584]",
+        "[^585]",
+        "[^586]",
+        "[^587]",
+        "[^588]",
+        "[^589]",
+        "[^590]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1604_striatyn_balaban_liturgikon_cohort22_raw_draft.md",
+      "passed": true,
+      "paragraphs": 117,
+      "headings_count": 3,
+      "headings": [
+        {
+          "line": 134,
+          "level": 1,
+          "title": "PART IV: LITURGICAL APPENDICES AND OFFICES[^585]",
+          "leaf": 217
+        },
+        {
+          "line": 136,
+          "level": 2,
+          "title": "ORDER OF BLESSING WINE",
+          "leaf": 217
+        },
+        {
+          "line": 186,
+          "level": 2,
+          "title": "THE LUCERNARIUM ORDER: AT GREAT VESPERS AND AT VIGILS[^590]",
+          "leaf": 220
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 211,
+        "max_leaf": 220
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument - 1604_striatyn_balaban_liturgikon\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "total_queued_leaves": 22,
+    "unresolved_quarantines": 0
+  }
+}

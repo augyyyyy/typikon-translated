@@ -1,0 +1,367 @@
+{
+  "monument_metadata": {
+    "monument_id": "1604_striatyn_balaban_liturgikon",
+    "title": "1604 Striatyn Liturgikon of Hedeon Balaban (Служебник, Стрятин: Друкарня Балабанів, 1604)",
+    "primary_genre": "rubrical",
+    "layout_type": "2-up open-spread facsimile (2 printed folio pages per physical PDF leaf)",
+    "total_physical_leaves": 293,
+    "total_printed_pages_represented": 582,
+    "total_cohorts": 30,
+    "cohort_size": 10,
+    "final_cohort_size": 3,
+    "phase_1_model": "Gemini 3.8 Flash (ephemeral_translator)",
+    "phase_0_and_2_model": "Gemini 4 Argon (High)",
+    "orchestrator_status_at_retrospective": "PHASE_2_GRAND_PAUSE_READY",
+    "generated_at": "2026-10-30T12:51:00-04:00"
+  },
+  "dimension_1_cohort_velocity_and_bottlenecks": {
+    "summary_statistics": {
+      "total_wall_clock_sec": 21584.0,
+      "total_wall_clock_min": 359.73,
+      "total_wall_clock_hours": 6.0,
+      "mean_cohort_duration_sec": 719.47,
+      "mean_cohort_duration_min": 11.99,
+      "median_cohort_duration_sec": 686.5,
+      "median_cohort_duration_min": 11.44,
+      "mean_sec_per_physical_leaf": 73.67,
+      "mean_sec_per_printed_page": 37.09,
+      "total_source_words_transcribed": 43962,
+      "total_draft_body_words_en": 54536,
+      "total_footnote_words_en": 37027,
+      "total_english_words": 91563,
+      "total_combined_words_written": 135525,
+      "total_footnotes_paired": 951,
+      "mean_words_per_min_combined": 376.74,
+      "subagent_retries_across_sprint": 0,
+      "quarantined_leaves_across_sprint": 0
+    },
+    "fastest_10_leaf_cohort": {
+      "cohort": 10,
+      "leaves": "p91..p100",
+      "wall_clock_sec": 489.0,
+      "wall_clock_min": 8.15,
+      "sec_per_leaf": 48.9,
+      "total_en_words": 3437,
+      "words_per_min": 593.5,
+      "reason": "Continuous, unbroken Euchologion prose (Chrysostom Anaphora Intercessions, Diptychs, and Litany Before the Lord's Prayer) with zero woodcut headpieces, zero structural anomalies, and clean 2-up typography."
+    },
+    "top_3_slowest_cohorts_by_wall_clock": [
+      {
+        "rank": 1,
+        "cohort": 1,
+        "leaves": "p1..p10",
+        "wall_clock_sec": 1869.0,
+        "wall_clock_min": 31.15,
+        "sec_per_leaf": 186.9,
+        "src_words": 1542,
+        "draft_words": 1856,
+        "fn_words": 1178,
+        "total_en_words": 3034,
+        "footnote_count": 30,
+        "bottleneck_categories": [
+          "front_matter_paratext_heterogeneity",
+          "mandate_12_symmetric_non_text_leaf_descriptions",
+          "polyglot_paleographic_marginalia",
+          "in_subagent_gate_self_verification"
+        ],
+        "autopsy": "Cohort 1 spanned 5 distinct paratextual regimes across 10 leaves: (1) 17th-century blind-tooled calfskin binding boards and pastedowns (p1-p3) requiring Mandate 12 symmetric codicological descriptions to satisfy SGC-02 [0.80, 1.50] length ratios; (2) deciphering 17th-19th c. Polish, Latin, and Cyrillic cursive provenance inscriptions ('Protasy Morych', 'X. Antoni Zukowski') and Vernadsky Library stamps; (3) the architectural title page and full-page Balaban Coat-of-Arms woodcut with 10 lines of Baroque heraldic virshi (p4-p5); (4) Bishop Hedeon Balaban's 7-page theological preface in elevated Chancery Ruthenian / Slavonic citing Patriarch Meletios Pegas of Alexandria (p5-p9); and (5) the opening of the Diataxis of Patriarch Philotheos Kokkinos (p9-p10). Additionally, the subagent executed run_small_pause_gate.py internally before completing its turn and self-repaired an initial gate check (logged at 12:20:47Z)."
+      },
+      {
+        "rank": 2,
+        "cohort": 28,
+        "leaves": "p271..p280",
+        "wall_clock_sec": 1012.0,
+        "wall_clock_min": 16.87,
+        "sec_per_leaf": 101.2,
+        "src_words": 1368,
+        "draft_words": 1742,
+        "fn_words": 1451,
+        "total_en_words": 3193,
+        "footnote_count": 51,
+        "bottleneck_categories": [
+          "codicological_binder_dislocation",
+          "mid_sentence_textual_discontinuity_diagnosis",
+          "dense_biblical_and_patristic_apparatus"
+        ],
+        "autopsy": "Cohort 28 encountered the most severe physical binding anomaly in the codex: Folio 2 of Quire Ya (signature 'ѧ҃ в', printed pp. 527-528), which had been missing after fol. 269v in Cohort 27, was discovered physically misbound between fol. 273v (p. 536) and fol. 274r (p. 537). This caused the Seventh Prayer of Light at Vespers on p273L to break off mid-word ('жили-') and jump abruptly on p273R to the ornate woodcut headpiece 'МОЛИТВЫ ВЕЧЕРНЇА' and the First Prayer of Light, before resuming the Seventh Prayer ('-ще. Положи г҃и...') on p274R. Diagnosing this dislocation strictly from the 300-DPI images without violating epigraphic leaf conservation, while authoring 51 scholarly footnotes across the Vesperal and Matutinal priestly prayers, added ~5.4 minutes over the median cohort runtime."
+      },
+      {
+        "rank": 3,
+        "cohort": 29,
+        "leaves": "p281..p290",
+        "wall_clock_sec": 974.0,
+        "wall_clock_min": 16.23,
+        "sec_per_leaf": 97.4,
+        "src_words": 1241,
+        "draft_words": 1730,
+        "fn_words": 1672,
+        "total_en_words": 3402,
+        "footnote_count": 67,
+        "bottleneck_categories": [
+          "high_apparatus_density_67_footnotes",
+          "compositor_errata_collation",
+          "diplomatic_colophon_titulature"
+        ],
+        "autopsy": "Cohort 29 required 67 footnotes (1,672 words of apparatus,nearly equal to the 1,730 body words) across 9 leaves of dense Euchologion Matins prayers (Prayers 4-12, including the Prayer at the Inclination of Heads) and the monumental 2-page Striatyn Colophon (fol. 289v-290r, pp. 564-565). The worker had to collate the printed compositor error 'оу҆́чстии' on fol. 281r (p. 547) against the rear Errata leaf (which corrects it to 'ѿч҃е ст҃ый') and translate the full diplomatic titulature of Bishop Hedeon Balaban (Exarch of the Constantinopolitan Throne, Bishop of Lviv, Halych, and Kamianets-Podilskyi) and his nephew Noble Theodore (Fedir) Balaban, dated January 20, 1604 (7112 AM)."
+      }
+    ],
+    "slowest_per_leaf_outlier": {
+      "cohort": 30,
+      "leaves": "p291..p293",
+      "leaf_count": 3,
+      "wall_clock_sec": 610.0,
+      "wall_clock_min": 10.17,
+      "sec_per_leaf": 203.3,
+      "reason": "Although only 3 leaves, Cohort 30 contained the complex 2-part 'Погрѣшеніа' (Errata) leaf on p291L cross-referencing printed errors on folios 101 and 224, Vernadsky Library institutional stamps and call numbers on p291R-p292L, and two non-text rear binding/flyleaf spreads requiring symmetric Mandate 12 descriptions."
+    },
+    "cohorts_table": [
+      {"cohort": 1, "leaves": "p1..p10", "leaf_count": 10, "wall_clock_sec": 1869.0, "wall_clock_min": 31.15, "sec_per_leaf": 186.9, "src_words": 1542, "draft_words": 1856, "fn_words": 1178, "total_en_words": 3034, "footnote_count": 30, "words_per_min": 146.9},
+      {"cohort": 2, "leaves": "p11..p20", "leaf_count": 10, "wall_clock_sec": 854.0, "wall_clock_min": 14.23, "sec_per_leaf": 85.4, "src_words": 1501, "draft_words": 1777, "fn_words": 638, "total_en_words": 2415, "footnote_count": 31, "words_per_min": 275.1},
+      {"cohort": 3, "leaves": "p21..p30", "leaf_count": 10, "wall_clock_sec": 615.0, "wall_clock_min": 10.25, "sec_per_leaf": 61.5, "src_words": 1529, "draft_words": 1750, "fn_words": 1321, "total_en_words": 3071, "footnote_count": 44, "words_per_min": 448.8},
+      {"cohort": 4, "leaves": "p31..p40", "leaf_count": 10, "wall_clock_sec": 665.0, "wall_clock_min": 11.08, "sec_per_leaf": 66.5, "src_words": 1512, "draft_words": 1727, "fn_words": 986, "total_en_words": 2713, "footnote_count": 34, "words_per_min": 381.2},
+      {"cohort": 5, "leaves": "p41..p50", "leaf_count": 10, "wall_clock_sec": 555.0, "wall_clock_min": 9.25, "sec_per_leaf": 55.5, "src_words": 1451, "draft_words": 1794, "fn_words": 1062, "total_en_words": 2856, "footnote_count": 23, "words_per_min": 465.6},
+      {"cohort": 6, "leaves": "p51..p60", "leaf_count": 10, "wall_clock_sec": 735.0, "wall_clock_min": 12.25, "sec_per_leaf": 73.5, "src_words": 1500, "draft_words": 1852, "fn_words": 809, "total_en_words": 2661, "footnote_count": 26, "words_per_min": 339.7},
+      {"cohort": 7, "leaves": "p61..p70", "leaf_count": 10, "wall_clock_sec": 649.0, "wall_clock_min": 10.82, "sec_per_leaf": 64.9, "src_words": 1471, "draft_words": 1785, "fn_words": 900, "total_en_words": 2685, "footnote_count": 30, "words_per_min": 384.2},
+      {"cohort": 8, "leaves": "p71..p80", "leaf_count": 10, "wall_clock_sec": 574.0, "wall_clock_min": 9.57, "sec_per_leaf": 57.4, "src_words": 1512, "draft_words": 1857, "fn_words": 1344, "total_en_words": 3201, "footnote_count": 29, "words_per_min": 492.6},
+      {"cohort": 9, "leaves": "p81..p90", "leaf_count": 10, "wall_clock_sec": 523.0, "wall_clock_min": 8.72, "sec_per_leaf": 52.3, "src_words": 1456, "draft_words": 1762, "fn_words": 1417, "total_en_words": 3179, "footnote_count": 29, "words_per_min": 531.7},
+      {"cohort": 10, "leaves": "p91..p100", "leaf_count": 10, "wall_clock_sec": 489.0, "wall_clock_min": 8.15, "sec_per_leaf": 48.9, "src_words": 1400, "draft_words": 1660, "fn_words": 1777, "total_en_words": 3437, "footnote_count": 30, "words_per_min": 593.5},
+      {"cohort": 11, "leaves": "p101..p110", "leaf_count": 10, "wall_clock_sec": 767.0, "wall_clock_min": 12.78, "sec_per_leaf": 76.7, "src_words": 1422, "draft_words": 1741, "fn_words": 1756, "total_en_words": 3497, "footnote_count": 49, "words_per_min": 384.8},
+      {"cohort": 12, "leaves": "p111..p120", "leaf_count": 10, "wall_clock_sec": 781.0, "wall_clock_min": 13.02, "sec_per_leaf": 78.1, "src_words": 1341, "draft_words": 1619, "fn_words": 2034, "total_en_words": 3653, "footnote_count": 43, "words_per_min": 383.7},
+      {"cohort": 13, "leaves": "p121..p130", "leaf_count": 10, "wall_clock_sec": 548.0, "wall_clock_min": 9.13, "sec_per_leaf": 54.8, "src_words": 1405, "draft_words": 1969, "fn_words": 1227, "total_en_words": 3196, "footnote_count": 24, "words_per_min": 503.8},
+      {"cohort": 14, "leaves": "p131..p140", "leaf_count": 10, "wall_clock_sec": 553.0, "wall_clock_min": 9.22, "sec_per_leaf": 55.3, "src_words": 1504, "draft_words": 1863, "fn_words": 968, "total_en_words": 2831, "footnote_count": 20, "words_per_min": 470.3},
+      {"cohort": 15, "leaves": "p141..p150", "leaf_count": 10, "wall_clock_sec": 572.0, "wall_clock_min": 9.53, "sec_per_leaf": 57.2, "src_words": 1511, "draft_words": 1853, "fn_words": 795, "total_en_words": 2648, "footnote_count": 18, "words_per_min": 436.3},
+      {"cohort": 16, "leaves": "p151..p160", "leaf_count": 10, "wall_clock_sec": 757.0, "wall_clock_min": 12.62, "sec_per_leaf": 75.7, "src_words": 1504, "draft_words": 1662, "fn_words": 1366, "total_en_words": 3028, "footnote_count": 20, "words_per_min": 359.2},
+      {"cohort": 17, "leaves": "p161..p170", "leaf_count": 10, "wall_clock_sec": 681.0, "wall_clock_min": 11.35, "sec_per_leaf": 68.1, "src_words": 1402, "draft_words": 1609, "fn_words": 1282, "total_en_words": 2891, "footnote_count": 20, "words_per_min": 378.2},
+      {"cohort": 18, "leaves": "p171..p180", "leaf_count": 10, "wall_clock_sec": 758.0, "wall_clock_min": 12.63, "sec_per_leaf": 75.8, "src_words": 1469, "draft_words": 1934, "fn_words": 1139, "total_en_words": 3073, "footnote_count": 20, "words_per_min": 359.5},
+      {"cohort": 19, "leaves": "p181..p190", "leaf_count": 10, "wall_clock_sec": 685.0, "wall_clock_min": 11.42, "sec_per_leaf": 68.5, "src_words": 1586, "draft_words": 2116, "fn_words": 1350, "total_en_words": 3466, "footnote_count": 20, "words_per_min": 442.5},
+      {"cohort": 20, "leaves": "p191..p200", "leaf_count": 10, "wall_clock_sec": 564.0, "wall_clock_min": 9.4, "sec_per_leaf": 56.4, "src_words": 1513, "draft_words": 2003, "fn_words": 1332, "total_en_words": 3335, "footnote_count": 21, "words_per_min": 515.7},
+      {"cohort": 21, "leaves": "p201..p210", "leaf_count": 10, "wall_clock_sec": 774.0, "wall_clock_min": 12.9, "sec_per_leaf": 77.4, "src_words": 1426, "draft_words": 1781, "fn_words": 421, "total_en_words": 2202, "footnote_count": 14, "words_per_min": 281.2},
+      {"cohort": 22, "leaves": "p211..p220", "leaf_count": 10, "wall_clock_sec": 688.0, "wall_clock_min": 11.47, "sec_per_leaf": 68.8, "src_words": 1447, "draft_words": 1670, "fn_words": 694, "total_en_words": 2364, "footnote_count": 15, "words_per_min": 332.4},
+      {"cohort": 23, "leaves": "p221..p230", "leaf_count": 10, "wall_clock_sec": 551.0, "wall_clock_min": 9.18, "sec_per_leaf": 55.1, "src_words": 1580, "draft_words": 2088, "fn_words": 1197, "total_en_words": 3285, "footnote_count": 24, "words_per_min": 529.8},
+      {"cohort": 24, "leaves": "p231..p240", "leaf_count": 10, "wall_clock_sec": 823.0, "wall_clock_min": 13.72, "sec_per_leaf": 82.3, "src_words": 1591, "draft_words": 1960, "fn_words": 922, "total_en_words": 2882, "footnote_count": 26, "words_per_min": 326.1},
+      {"cohort": 25, "leaves": "p241..p250", "leaf_count": 10, "wall_clock_sec": 699.0, "wall_clock_min": 11.65, "sec_per_leaf": 69.9, "src_words": 1632, "draft_words": 2362, "fn_words": 1247, "total_en_words": 3609, "footnote_count": 40, "words_per_min": 449.9},
+      {"cohort": 26, "leaves": "p251..p260", "leaf_count": 10, "wall_clock_sec": 757.0, "wall_clock_min": 12.62, "sec_per_leaf": 75.7, "src_words": 1692, "draft_words": 2431, "fn_words": 2221, "total_en_words": 4652, "footnote_count": 76, "words_per_min": 502.8},
+      {"cohort": 27, "leaves": "p261..p270", "leaf_count": 10, "wall_clock_sec": 705.0, "wall_clock_min": 11.75, "sec_per_leaf": 70.5, "src_words": 1539, "draft_words": 2030, "fn_words": 1804, "total_en_words": 3834, "footnote_count": 64, "words_per_min": 457.3},
+      {"cohort": 28, "leaves": "p271..p280", "leaf_count": 10, "wall_clock_sec": 1012.0, "wall_clock_min": 16.87, "sec_per_leaf": 101.2, "src_words": 1368, "draft_words": 1742, "fn_words": 1451, "total_en_words": 3193, "footnote_count": 51, "words_per_min": 270.4},
+      {"cohort": 29, "leaves": "p281..p290", "leaf_count": 10, "wall_clock_sec": 974.0, "wall_clock_min": 16.23, "sec_per_leaf": 97.4, "src_words": 1241, "draft_words": 1730, "fn_words": 1672, "total_en_words": 3402, "footnote_count": 67, "words_per_min": 286.0},
+      {"cohort": 30, "leaves": "p291..p293", "leaf_count": 3, "wall_clock_sec": 610.0, "wall_clock_min": 10.17, "sec_per_leaf": 203.3, "src_words": 324, "draft_words": 439, "fn_words": 360, "total_en_words": 799, "footnote_count": 13, "words_per_min": 110.5}
+    ]
+  },
+  "dimension_2_small_pause_gate_and_self_healing_catalog": {
+    "phase_1_small_pause_gate_summary": {
+      "total_cohorts_audited": 30,
+      "initial_triage_events_logged": 10,
+      "events_self_repaired_inside_subagent_turn": [1, 11, 16, 19, 21],
+      "events_auto_healed_by_orchestrator_attempt_deterministic_self_healing": [4, 12, 22, 23, 27],
+      "subagent_retries_triggered": 0,
+      "cinnabar_pigment_warnings_per_10_leaf_cohort": 10,
+      "total_cinnabar_warnings_across_monument": 290
+    },
+    "orchestrator_deterministic_self_healing_events": [
+      {
+        "cohort": 4,
+        "step_index": 116,
+        "gate": "Gate 4 (scripts/structural_audit.py)",
+        "anomaly_type": "UNSANCTIONED_H1_HEADING",
+        "exact_violation": "UNSANCTIONED_H1_HEADING (L188, leaf p39): '# A Brief Explanation Concerning the Holy Proskomedia[^133]' does not match any authorized publication landmark in codex_registry.json.",
+        "healer_action": "attempt_deterministic_self_healing() Step 1B demoted unsanctioned '# A Brief Explanation...' to '## A Brief Explanation...', passing re-verification in <1s."
+      },
+      {
+        "cohort": 12,
+        "step_index": 180,
+        "gate": "Gate 2 (scripts/hieratic_pronoun_audit.py)",
+        "anomaly_type": "LOWERCASE_DEITY_PRONOUN",
+        "exact_violation": "1 lowercase Trinity Deity pronoun violation detected in raw draft.",
+        "healer_action": "attempt_deterministic_self_healing() Step 4 capitalized the Deity pronoun via hieratic_pronoun_audit regex replacement, passing re-verification in <1s."
+      },
+      {
+        "cohort": 22,
+        "step_index": 261,
+        "gate": "Gate 2 (scripts/hieratic_pronoun_audit.py)",
+        "anomaly_type": "LOWERCASE_DEITY_PRONOUN",
+        "exact_violation": "1 lowercase Trinity Deity pronoun violation detected in raw draft.",
+        "healer_action": "attempt_deterministic_self_healing() Step 4 capitalized the Deity pronoun via hieratic_pronoun_audit regex replacement, passing re-verification in <1s."
+      },
+      {
+        "cohort": 23,
+        "step_index": 269,
+        "gate": "Gate 1A (Shared_Lexicon/lint_vocabulary.py)",
+        "anomaly_type": "FORBIDDEN_LEXICON_VARIANT",
+        "exact_violation": "Forbidden vocabulary variant against master_liturgical_vocabulary.json.",
+        "healer_action": "attempt_deterministic_self_healing() Step 3 applied 1-to-1 deterministic replacement from master_liturgical_vocabulary.json, passing re-verification in <1s."
+      },
+      {
+        "cohort": 27,
+        "step_index": 301,
+        "gate": "Gate 1A (Shared_Lexicon/lint_vocabulary.py)",
+        "anomaly_type": "FORBIDDEN_LEXICON_VARIANT",
+        "exact_violation": "Forbidden vocabulary variant against master_liturgical_vocabulary.json.",
+        "healer_action": "attempt_deterministic_self_healing() Step 3 applied 1-to-1 deterministic replacement from master_liturgical_vocabulary.json, passing re-verification in <1s."
+      }
+    ],
+    "phase_2_publication_verifier_anomalies_caught": [
+      {
+        "gate": "Gate 1 (verify_publication_edition.py: Placeholder & Blank-Leaf ban)",
+        "cohorts_affected": [12, 13],
+        "leaves_affected": [119, 127],
+        "exact_violation": "Blank leaf indicator match on '*[Blank leaf with show-through from the recto]*[^392]' (p119) and '*[Blank leaf with show-through from the verso woodcut]*[^415]' (p127).",
+        "root_cause": "Work Order Mandate 12 instructs Flash workers to provide symmetric codicological notes on blank pages using bracketed/italic tags, which directly collides with Gate 1's regex r'\\*?\\[Blank\\s+[^\\]]+\\]\\*?'.",
+        "preventive_healer_spec": "In attempt_deterministic_self_healing() and compile_final_edition.py._purge_and_stitch(), rewrite r'\\*?\\[Blank\\s+([^\\]]+)\\]\\*?' to '*(Blank \\1)*', and update work_order_template.md Mandate 12 to specify parentheses '*(Blank verso...)*' instead of square brackets."
+      },
+      {
+        "gate": "Gate 2 (verify_publication_edition.py: Footnote Bijective Integrity)",
+        "cohorts_affected": [18],
+        "leaves_affected": [178],
+        "exact_violation": "Orphaned definitions in master: [516] (body markers=950, footnote definitions=951).",
+        "root_cause": "In Cohort 18 Leaf p178, the Flash worker attached '[^516]' to the 2-up page sub-header '**[Right Page — Fol. 179r (p. 346)]**[^516]'. During compilation, compile_final_edition.py._purge_and_stitch() stripped all '**[Left/Right Page...]' lines, silently deleting '[^516]' from the body text.",
+        "preventive_healer_spec": "Add a deterministic pass in attempt_deterministic_self_healing() and compile_final_edition.py._purge_and_stitch() that extracts any trailing '[^N]' markers from '=== LEAF pN ===' or '**[Left/Right Page...]**' lines before stripping them and attaches them to the first non-empty line below."
+      },
+      {
+        "gate": "Gate 5A (verify_publication_edition.py: Unparenthesized Cyrillic in Body/Heading)",
+        "cohorts_affected": [1, 28],
+        "leaves_affected": [1, 273],
+        "exact_violation": "(1) L1 of _complete.md and _part0_front_matter.md failed because compile_final_edition.py generated '<a id=\"1604-striatyn-liturgikon-of-hedeon-balaban-служебник-стрятин-друкарня-балабанів-1604\"></a>' containing unparenthesized Cyrillic inside the HTML id attribute; (2) Cohort 28 Leaf p273 failed because a parenthesized editorial note '*(Note: ... (pp. 527-528) ... МОЛИТВЫ ВЕЧЕРНЇА ...)*' contained nested parentheses before the Cyrillic text, causing the non-nested regex r'\\([^\\)]*[\\u0400-\\u04FF][^\\)]*\\)' to terminate prematurely at '528)'.",
+        "root_cause": "slugify() in compile_final_edition.py uses re.UNICODE without stripping Cyrillic before generating HTML anchor IDs; Gate 5A in verify_publication_edition.py does not strip HTML tags or handle nested parentheses, and run_small_pause_gate.py lacks a Gate 5A check during Phase 1.",
+        "preventive_healer_spec": "Strip non-ASCII characters (or parenthetical subtitles) in compile_final_edition.py.slugify(); strip '<[^>]+>' tags before checking Cyrillic in verify_publication_edition.py; and add the Gate 5A unparenthesized-Cyrillic check to run_small_pause_gate.py and attempt_deterministic_self_healing()."
+      }
+    ]
+  },
+  "dimension_3_argon_review_queue_signal_precision": {
+    "total_leaves_in_monument": 293,
+    "total_leaves_queued": 59,
+    "queue_rate_pct": 20.14,
+    "unresolved_quarantines": 0,
+    "signal_distribution": {
+      "dense_polyglot_apparatus_ge_5_footnotes": 58,
+      "borderline_sgc02_ratio": 1,
+      "epigraphic_uncertainty_markers": 0,
+      "high_complexity_table_ge_5_rows": 0,
+      "quarantined_for_argon": 0
+    },
+    "precision_audit": {
+      "true_positive_crux_leaves_in_queue": 7,
+      "true_positive_leaf_numbers": [4, 5, 252, 269, 273, 274, 281, 291],
+      "false_positive_noise_leaves_in_queue": 51,
+      "precision_pct": 13.56,
+      "false_positive_rate_pct": 86.44,
+      "unqueued_codicological_anomalies_missed_by_signals": [
+        {"leaves": [66, 67], "cohort": 7, "anomaly": "Binder's transposition of outer bifolia of Quire Zh ('ж') and Quire Z ('з') (<5 footnotes on leaf)"},
+        {"leaves": [131, 133, 134], "cohort": 14, "anomaly": "Pagination jump 241->244 and physically lost Folio 132 (pp. 246-247) breaking the Prayer of the Trisagion (<5 footnotes on leaf)"},
+        {"leaves": [149, 150], "cohort": 15, "anomaly": "Lost leaf between p149R (p. 283) and p150L (p. 286) mid-Cherubic Prayer (<5 footnotes on leaf)"},
+        {"leaves": [159, 160], "cohort": 16, "anomaly": "Lost leaf between p159R (p. 305) and p160L (p. 308) mid-Basil Anaphora (<5 footnotes on leaf)"}
+      ],
+      "root_cause_of_false_positives": "collect_argon_review_signals() in scripts/run_small_pause_gate.py (L228) hardcodes 'len(fn_markers) >= 5' per physical leaf without normalizing for 2-up open-spread facsimiles (where 1 physical leaf = 2 printed pages, so 5 footnotes = only 2.5 footnotes per printed page) and without distinguishing routine Biblical/liturgical citation footnotes from genuine epigraphic/codicological crux notes.",
+      "recommended_genre_calibration": {
+        "footnote_density_threshold_1up": 6,
+        "footnote_density_threshold_2up": 10,
+        "sgc02_ratio_band_rubrical_2up": [0.45, 2.45],
+        "new_signal_5_codicological_discontinuity": "Queue any leaf whose draft or footnotes match r'(?i)(?:misbound|transpos|lacuna|missing\\s+folio|lost\\s+leaf|compositor|errata|breaks\\s+off\\s+mid-|out\\s+of\\s+sequence)' regardless of footnote count."
+      }
+    }
+  },
+  "dimension_4_monument_type_and_compiler_edge_cases": {
+    "book_type": "Early Modern 2-up Euchologion / Liturgikon (rubrical)",
+    "total_2up_page_milestones_stripped": 582,
+    "mid_sentence_page_seams_stitched": 211,
+    "edge_cases": [
+      {
+        "id": "EC-01",
+        "component": "scripts/compile_final_edition.py (_purge_and_stitch)",
+        "issue": "Stripping '**[Left/Right Page — Fol. ...]**' milestones deletes any footnote marker '[^N]' attached to the milestone line (caused Orphaned Footnote [^516] in Cohort 18)."
+      },
+      {
+        "id": "EC-02",
+        "component": "scripts/compile_final_edition.py (slugify) & scripts/verify_publication_edition.py (Gate 5A)",
+        "issue": "slugify() preserves Cyrillic from master_title inside '<a id=\"...\"></a>' on Line 1 of _complete.md and _part0_front_matter.md, which immediately trips Gate 5A's unparenthesized Cyrillic check."
+      },
+      {
+        "id": "EC-03",
+        "component": "data/templates/work_order_template.md (Mandate 12) vs. scripts/verify_publication_edition.py (Gate 1)",
+        "issue": "Mandate 12 requires symmetric text descriptions on blank leaves inside woodcut/divider cohorts, which workers format as '*[Blank leaf...]*', colliding with Gate 1's r'\\*?\\[Blank\\s+[^\\]]+\\]\\*?' ban."
+      },
+      {
+        "id": "EC-04",
+        "component": "scripts/verify_publication_edition.py (Gate 5A nested parentheses)",
+        "issue": "Single-level regex r'\\([^\\)]*[\\u0400-\\u04FF][^\\)]*\\)' fails when a parenthesized editorial block contains both an inner parenthetical page citation '(pp. 527-528)' and a Cyrillic quotation."
+      },
+      {
+        "id": "EC-05",
+        "component": "scripts/chromatic_rubric_verifier.py (Gate 1C)",
+        "issue": "290/293 leaves triggered non-blocking '[GATE 1C WARNING] Leaf pN rubric lacks verified red pigment' because 1604 oxidized vermilion ink on aged rag paper has lower HSV saturation than modern digital red."
+      }
+    ]
+  },
+  "dimension_5_granular_atomic_tagging_blueprint": {
+    "target_schema": "1604_striatyn_balaban_liturgikon_atomic_corpus.json",
+    "unit_classes": {
+      "structural_containers": [
+        {"class_id": "PART_LANDMARK_H1", "count_in_cohorts": 4, "regex": "^#\\s+(PART\\s+[IVX]+:\\s+.+?)(?:\\[\\^\\d+\\])?\\s*$"},
+        {"class_id": "SERVICE_HEADPIECE_H2", "count_in_cohorts": 19, "regex": "^##\\s+(.+?)(?:\\[\\^\\d+\\])?\\s*$"},
+        {"class_id": "LEAF_BOUNDARY", "count_in_cohorts": 293, "regex": "^===\\s+LEAF\\s+p(\\d+)\\s+===\\s*$"},
+        {"class_id": "FOLIO_PAGE_MILESTONE_2UP", "count_in_cohorts": 582, "regex": "^\\*\\*\\[(Left|Right)\\s+Page\\s+—\\s+Fol\\.\\s+([^\\]]+)\\]\\*\\*\\s*$"}
+      ],
+      "fixed_non_propers": [
+        {"class_id": "SACERDOTAL_PRAYER_HEADER", "count_in_cohorts": 77, "regex": "^\\*((?:The\\s+)?(?:First|Second|Third|Fourth|Fifth|Sixth|Seventh|Eighth|Ninth|Tenth|Eleventh|Twelfth|Another)?\\s*Prayer\\b[^*\\n]*)\\*(?:\\[\\^\\d+\\])?\\s*$"},
+        {"class_id": "PRIEST_UTTERANCE", "count_in_cohorts": 650, "regex": "^\\*\\*Priest:\\*\\*\\s+(.+)$"},
+        {"class_id": "DEACON_UTTERANCE", "count_in_cohorts": 404, "regex": "^\\*\\*Deacon:\\*\\*\\s+(.+)$"},
+        {"class_id": "CHOIR_OR_CLERGY_RESPONSE", "count_in_cohorts": 256, "regex": "^\\*\\*(Choir|People|Choirs|Clergy|Reader|Chanters):\\*\\*\\s+(.+)$"},
+        {"class_id": "ECPHONESIS_EXCLAMATION_RUBRIC", "count_in_cohorts": 73, "regex": "\\*((?:And\\s+the\\s+)?(?:Exclamation|exclama[tion]+|Loudly|Aloud)[^*\\n]*)\\*"},
+        {"class_id": "PROCEDURAL_RUBRIC_ITALIC", "count_in_cohorts": 1468, "regex": "^\\*([^*\\n]+)\\*(?:\\[\\^\\d+\\])?\\s*$"},
+        {"class_id": "PARATEXT_WOODCUT_OR_BINDING_NOTE", "count_in_cohorts": 24, "regex": "^(?:\\*\\()?\\[(Front|Rear|Verso|First|Second|Ornate|Full-Page| Architectural|Woodcut)[^\\]]+\\](?:\\)\\*)?"}
+      ],
+      "variable_propers": [
+        {"class_id": "WEEKLY_AND_FESTAL_APOLYSIS_RUBRIC", "count_in_cohorts": 25, "regex": "^\\*(Dismissal\\s+(?:on|for|of)\\b[^*\\n]+|On\\s+(?:Sunday|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday)\\b[^*\\n]*dismissal[^*\\n]*)\\*(?:\\[\\^\\d+\\])?\\s*$"},
+        {"class_id": "TROPARION_OR_HYPAKOE_STANZA", "count_in_cohorts": 18, "regex": "^\\*([^\\n*]*\\b(?:Troparion|Hypakoe|Kontakion|Theotokion|Sticheron|Stichera|Evlogitaria)\\b[^*\\n]*)\\*(?:\\[\\^\\d+\\])?\\s*(.*)$"},
+        {"class_id": "PODOBEN_MELODIC_HEADER", "count_in_cohorts": 1, "regex": "^\\*Tone\\s+([1-8]),\\s+Podoben:\\s+\"([^\"]+)\"\\s+\\(([^\\)]+)\\):\\*"},
+        {"class_id": "PASCHAL_ODE_EKTENIA_EXCLAMATION", "count_in_cohorts": 9, "regex": "^\\*(After\\s+the\\s+(?:first|second|third|fourth|fifth|sixth|seventh|eighth|ninth)\\s+Ode[^*\\n]*)\\*"}
+      ]
+    }
+  },
+  "dimension_6_top_5_engine_hardening_recommendations": [
+    {
+      "rank": 1,
+      "title": "Rescue Trailing Footnote Markers & Sanitize Blank-Leaf Brackets in _purge_and_stitch() and attempt_deterministic_self_healing()",
+      "target_files": [
+        "scripts/compile_final_edition.py (_purge_and_stitch, L111-L165)",
+        "scripts/autonomous_orchestrator.py (attempt_deterministic_self_healing, L215-L340)",
+        "data/templates/work_order_template.md (Mandate 12)"
+      ],
+      "empirical_justification": "Prevented 2 Phase 2 publication gate failures encountered in Cohorts 12, 13, and 18: (a) stripping '**[Right Page — Fol. 179r (p. 346)]**[^516]' orphaned footnote [^516]; (b) Mandate 12 blank-leaf descriptions '*[Blank leaf...]*' tripped Gate 1's '[Blank ...]' regex."
+    },
+    {
+      "rank": 2,
+      "title": "Calibrate Argon Review Queue Footnote Threshold for 2-Up Facsimiles and Add Codicological Discontinuity Signal",
+      "target_files": [
+        "scripts/run_small_pause_gate.py (collect_argon_review_signals, L188-L255)"
+      ],
+      "empirical_justification": "Reduced Argon queue false-positive rate from 86.4% (51/59 leaves queued purely for having >=5 routine footnotes across 2 printed pages) to <15%, while capturing the 4 genuine lost-leaf/misbound-quire discontinuities (Cohorts 7, 14, 15, 16) that had <5 footnotes."
+    },
+    {
+      "rank": 3,
+      "title": "Strip Non-ASCII Characters in compile_final_edition.py.slugify() and Ignore HTML Anchor Attributes in Gate 5A",
+      "target_files": [
+        "scripts/compile_final_edition.py (slugify, L40-L45)",
+        "scripts/verify_publication_edition.py (verify_monument_publication Gate 5A, L384-L395)"
+      ],
+      "empirical_justification": "Eliminates the deterministic Gate 5A failure on Line 1 of every monument whose master_title includes a parenthetical Cyrillic title (e.g., '<a id=\"...-служебник-...\"></a>') and handles nested parentheses in editorial notes."
+    },
+    {
+      "rank": 4,
+      "title": "Add Unparenthesized Cyrillic Healer & Gate 5A Pre-Check Directly to Phase 1 Small Pause Gate",
+      "target_files": [
+        "scripts/run_small_pause_gate.py (run_gate)",
+        "scripts/autonomous_orchestrator.py (attempt_deterministic_self_healing)"
+      ],
+      "empirical_justification": "Currently, unparenthesized Cyrillic in body lines is only checked in Phase 2 (verify_publication_edition.py Gate 5A), allowing Cohort 28's nested-parenthesis Cyrillic note to pass Phase 1 silently and block Phase 2 compilation."
+    },
+    {
+      "rank": 5,
+      "title": "Propagate 2-Up Folio Coordinate & Quire-Signature Continuity Context Across Cohort Work Orders",
+      "target_files": [
+        "scripts/generate_work_order.py (generate_work_order)",
+        "data/templates/work_order_template.md"
+      ],
+      "empirical_justification": "Cohort 28 lost ~5.4 minutes diagnosing the misbound Folio 2 of Quire Ya ('ѧ҃ в', pp. 527-528) because the work order generator did not pass the trailing folio/page/signature state and unresolved lacuna alerts from Cohort K-1 into Cohort K's work order header."
+    }
+  ]
+}

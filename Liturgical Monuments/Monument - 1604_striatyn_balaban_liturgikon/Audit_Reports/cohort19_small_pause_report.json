@@ -1,0 +1,122 @@
+{
+  "timestamp": "2026-10-29T18:18:15.531974+00:00",
+  "monument_id": "1604_striatyn_balaban_liturgikon",
+  "cohort": 19,
+  "target_file": "1604_striatyn_balaban_liturgikon_cohort19.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1604_striatyn_balaban_liturgikon_cohort19.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1604_striatyn_balaban_liturgikon_cohort19.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1604_striatyn_balaban_liturgikon_cohort19.md",
+      "footnotes_file": "1604_striatyn_balaban_liturgikon_cohort19_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 20,
+      "definition_markers_count": 20,
+      "text_markers": [
+        "[^521]",
+        "[^522]",
+        "[^523]",
+        "[^524]",
+        "[^525]",
+        "[^526]",
+        "[^527]",
+        "[^528]",
+        "[^529]",
+        "[^530]",
+        "[^531]",
+        "[^532]",
+        "[^533]",
+        "[^534]",
+        "[^535]",
+        "[^536]",
+        "[^537]",
+        "[^538]",
+        "[^539]",
+        "[^540]"
+      ],
+      "definition_markers": [
+        "[^521]",
+        "[^522]",
+        "[^523]",
+        "[^524]",
+        "[^525]",
+        "[^526]",
+        "[^527]",
+        "[^528]",
+        "[^529]",
+        "[^530]",
+        "[^531]",
+        "[^532]",
+        "[^533]",
+        "[^534]",
+        "[^535]",
+        "[^536]",
+        "[^537]",
+        "[^538]",
+        "[^539]",
+        "[^540]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1604_striatyn_balaban_liturgikon_cohort19.md",
+      "passed": true,
+      "paragraphs": 146,
+      "headings_count": 3,
+      "headings": [
+        {
+          "line": 17,
+          "level": 1,
+          "title": "PART III: THE DIVINE LITURGY OF THE PRESANCTIFIED GIFTS[^522]",
+          "leaf": 181
+        },
+        {
+          "line": 19,
+          "level": 2,
+          "title": "On the Slaughter of the Holy Lamb with Which the Holy Liturgy of the Presanctified Is Celebrated",
+          "leaf": 181
+        },
+        {
+          "line": 51,
+          "level": 2,
+          "title": "The Order of the Divine Service of the Presanctified of Our Father among the Saints Gregory Dialogos, Pope of Rome[^526]",
+          "leaf": 183
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 181,
+        "max_leaf": 190
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument - 1604_striatyn_balaban_liturgikon\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "total_queued_leaves": 0,
+    "unresolved_quarantines": 0
+  }
+}

@@ -1,0 +1,51 @@
+[^821]: Concluding doxological exclamation of the Third Prayer of Light: "Яко благий человеколюбец Бог еси, и Тебе славу возсылаем, Отцу и Сыну и Святому Духу, ныне и присно [и во веки веков. Аминь]".
+[^822]: The Fourth Prayer of Light at Vespers (`Молитва, д҃`: "Иже немалчными песньми, и непрестанными славословльми..."), corresponding to the Greek Εὐχὴ δʹ: Ὁ ἀσιγήτοις ὕμνοις καὶ ἀπαύστοις δοξολογίαις...
+[^823]: Doxological exclamation of the Fourth Prayer of Light (`Въглаше́: Яко подобает ти всяка слава, честь:`), corresponding to the Greek Ὅτι πρέπει σοι πᾶσα δόξα, τιμὴ καὶ προσκύνησις...
+[^824]: The Fifth Prayer of Light at Vespers (`Молитва, пятая`: "Благословен еси Господи Боже вседержителю, сведый ум человечь..."), corresponding to the Greek Εὐχὴ εʹ: Εὐλογητὸς εἶ, Κύριε, ὁ Θεὸς ὁ Παντοκράτωρ, ὁ εἰδὼς τὸν νοῦν τὸν ἀνθρώπινον...
+[^825]: Biblical allusion to Ephesians 3:20 ("Now unto Him that is able to do exceeding abundantly above all that we ask or think").
+[^826]: Scriptural formula citing LXX Psalm 50:1 / Psalm 68:17 ("according to the multitude of Thy tender mercies").
+[^827]: Direct petitions from the Lord's Prayer (Matthew 6:13: "And lead us not into temptation, but deliver us from evil").
+[^828]: The Sixth Prayer of Light at Vespers (`Молитва, ѕ҃`: "Господи, Господи, иже пречистою ти силою приемляй всячьская..."), corresponding to the Greek Εὐχὴ Ϛʹ: Κύριε, Κύριε, ὁ τῇ ἀχράντῳ σου δυνάμει περιέχων τὰ σύμπαντα...
+[^829]: The Seventh Prayer of Light at Vespers (`Молитва, з҃`: "Боже великий и дивный, иже неизреченною благостию и богатым промыслом..."), corresponding to the Greek Εὐχὴ ζʹ: Ὁ Θεὸς ὁ μέγας καὶ θαυμαστός, ὁ ἀνεκδιηγήτῳ ἀγαθωσύνῃ καὶ πλουσίᾳ προνοίᾳ διοικῶν τὰ ἀνθρώπινα... The prayer is split typographically across the misbound leaf `ѧ҃ в` (pp. 527–528), opening here on fol. 273v (p. 536) and resuming on fol. 274r (p. 537).
+[^830]: Cinnabar title in tall decorative Cyrillic ligature typography (`МОЛИТВЫ ВЕЧЕРНЇА`) preceded by an elaborate Renaissance foliate woodcut headband with central floral urn, inaugurating the Evening Prayers (Prayers of Light / Prayers of the Lucernarium) at Vespers.
+[^831]: Important codicological finding in the Striatyn exemplar: leaf 2 of Quire Ya (`ѧ҃ в`, pp. 527–528), which in Cohort 27 was noted as missing between fol. 269v (p. 526) and fol. 270r (p. [527 recte 529]), was in fact misbound by the 17th-century binder into the middle of the quire between fol. 273v (p. 536) and fol. 274r (p. 537). Its recto (p. 527) contains the formal headpiece, the section title `МОЛИТВЫ ВЕЧЕРНЇА`, and the first half of the First Prayer of Light; its verso (p. 528) contains the second half of the First Prayer of Light down to the rubric `Възглаше́нїе`, whose exclamation was printed on fol. 270r (`ѧ҃ г`, Cohort 27). The Seventh Prayer of Light, begun on fol. 273v, continues directly onto fol. 274r (p. 537).
+[^832]: The First Prayer of Light at Vespers (`Молитва, первая`: "Господи щедрый и милостивый, долготерпеливе и многомилостиве..."), corresponding to the Greek Εὐχὴ αʹ: Κύριε οἰκτίρμων καὶ ἐλεήμων, μακρόθυμε καὶ πολυέλεε...
+[^833]: Scriptural invocation from Exodus 34:6 and LXX Psalm 102:8 ("The Lord is compassionate and merciful, long-suffering and plenteous in mercy").
+[^834]: Direct quotation from LXX Psalm 85:6 ("Give ear, O Lord, unto my prayer; and attend to the voice of my supplication").
+[^835]: Direct quotation from LXX Psalm 85:17 ("Work with me a sign for good").
+[^836]: Direct quotation from LXX Psalm 85:11 ("Guide me, O Lord, in Thy way, and I will walk in Thy truth").
+[^837]: Direct quotation from LXX Psalm 85:11 ("Let my heart rejoice, that I may fear Thy name").
+[^838]: Direct quotation from LXX Psalm 85:10 ("For Thou art great, and workest wonders: Thou art God alone").
+[^839]: Direct quotation from LXX Psalm 85:8 ("There is none like unto Thee among the gods, O Lord").
+[^840]: Textual restoration of the lower margin of fol. 528, which suffered physical paper fraying: `[вся уповающия на тя... Святое Имя Твое]`, corresponding to Greek εἰς τὸ βοηθεῖν καὶ παρακαλεῖν καὶ σῴζειν πάντας τοὺς ἐλπίζοντας εἰς τὸ ὄνομά σου τὸ ἅγιον.
+[^841]: The priestly exclamation for this First Prayer of Light (`Яко подобает ти всяка слава, честь, и поклонение...`) is inked on folio 270r (`ѧ҃ г`, p. [529], Cohort 27), exactly where the original quire text resumes after this misbound leaf.
+[^842]: The Eighth Prayer of Light at Vespers (`Молитва, осмая`: "Боже великий и дивный, един имея безсмертие..."), corresponding to the ancient Byzantine Prayer of the Bowing of Heads at Vespers (Εὐχὴ τῆς κεφαλοκλισίας) or Eighth Lucernarium Prayer: Ὁ Θεὸς ὁ μέγας καὶ ὕψιστος, ὁ μόνος ἔχων ἀθανασίαν... In medieval and early modern Slavic liturgika, the seven secret prayers and the prayer of the bowing of heads were frequently numbered consecutively as eight prayers.
+[^843]: Direct quotation from 1 Timothy 6:16 ("Who only hath immortality").
+[^844]: Direct quotation from 1 Timothy 6:16 ("dwelling in the light which no man can approach unto").
+[^845]: Scriptural allusion to LXX Psalm 103:24 ("In wisdom hast Thou made them all").
+[^846]: Creation narrative citation from Genesis 1:4 ("and God divided the light from the darkness").
+[^847]: Biblical citation of Genesis 1:16–18 and LXX Psalm 135:8–9 ("The sun to rule over the day... the moon and stars to rule over the night").
+[^848]: Scriptural quotation from LXX Psalm 94:2 ("Let us come before His presence with thanksgiving").
+[^849]: Direct quotation from LXX Psalm 140:2 ("Let my prayer be set forth before Thee as incense").
+[^850]: Sacrificial phrase evocative of Genesis 8:21 and Ephesians 5:2 ("an offering and a sacrifice to God for a sweetsmelling savor").
+[^851]: Pauline exhortation from Romans 13:12 ("let us put on the armor of light").
+[^852]: Direct citations from the protection Psalm (LXX Psalm 90:5–6: "Thou shalt not be afraid for the terror by night; nor for the arrow that flieth by day; nor for the pestilence that walketh in darkness").
+[^853]: Concluding doxological exclamation of the Eighth Prayer of Light, marking the liturgical termination of the Evening Prayers of Vespers.
+[^854]: General title in tall red cinnabar Cyrillic ligatures (`МОЛИТВЫ ОУТРЕНЇА`) beneath an elaborate Renaissance woodcut headpiece depicting Christ as the Man of Sorrows (Христос во гробе / "Царь Славы"), standing in the open sepulchre before the Cross, flanked by rich floral strapwork. This begins the series of Twelve Morning Prayers recited secretly by the priest during the reading of the Hexapsalmos at Matins.
+[^855]: The First Morning Prayer at Matins (`Молитва, первая`: "Благодарим Тя, Господи Боже наш, воздвигшаго ны от лож наших..."), corresponding to Greek Εὐχὴ αʹ: Εὐχαριστοῦμέν σοι, Κύριε ὁ Θεὸς ἡμῶν, τῷ ἐξεγείραντι ἡμᾶς ἐκ τῶν κοιτῶν ἡμῶν...
+[^856]: Doxological exclamation of the First Morning Prayer (`Възглашение: Яко подобает ти всяка слава, честь, и поклонение...`), corresponding to Greek Ὅти πρέπει σοι πᾶσα δόξα, τιμὴ καὶ προσκύνησις...
+[^857]: The Second Morning Prayer at Matins (`Молитва, в҃`: "От нощи утренюет дух мой к Тебе, Боже..."), corresponding to Greek Εὐχὴ βʹ: Ἐκ νυκτὸς ὀρθρίζει τὸ πνεῦμά μου πρὸς σέ, ὁ Θεός...
+[^858]: Direct quotation of the biblical canticle incipit from Isaiah 26:9 ("With my soul have I desired Thee in the night; yea, with my spirit within me will I seek Thee early: for when Thy judgments are in the earth, the inhabitants of the world will learn righteousness").
+[^859]: Scriptural quotation from 2 Corinthians 7:1 ("perfecting holiness in the fear of God").
+[^860]: Liturgical petition citing LXX Psalm 27:9 ("Save Thy people, and bless Thine inheritance").
+[^861]: Concluding exclamation of the Second Morning Prayer (`Възглашение: Яко благословися и прославися пречестное и великолепое имя Твое...`), corresponding to Greek Ὅти ηὐλόγηται καὶ δεδόξασται τὸ πάνтимон καὶ μεγαλοπρεπὲς ὄνομά σου...
+[^862]: The Third Morning Prayer at Matins (`Молитва, г҃`: "От нощи утренюет дух наш к Тебе, Боже..."), corresponding to Greek Εὐχὴ γʹ: Ἐκ νυκτὸς ὀρθρίζει τὸ πνεῦμα ἡμῶν πρὸς σέ, ὁ Θεός...
+[^863]: Direct quotation of Isaiah 26:9 ("From night our spirit awakens early unto Thee, O God...").
+[^864]: Citing LXX Psalm 118:12, 26, 68 ("teach me Thy statutes").
+[^865]: Direct quotation of LXX Psalm 12:4 ("Lighten mine eyes, lest I sleep the sleep of death").
+[^866]: Messianic title from Malachi 4:2 ("the Sun of righteousness").
+[^867]: Biblical quotation from the Canticle of Zechariah (Luke 1:79: "to guide our feet into the way of peace").
+[^868]: Priestly exclamation of the Third Morning Prayer (`Възглашение: Яко Твоя держава, и Твое есть царство...`), corresponding to Greek Ὅти σὸν τὸ κράτος, καὶ σοῦ ἐστιν ἡ βασιλεία καὶ ἡ δύναμις καὶ ἡ δόξα...
+[^869]: Typographical error in the 1604 Striatyn print: `цр҃тко` for `цр҃тво` (царство / "kingdom").
+[^870]: The Fourth Morning Prayer at Matins (`Молитва, четвертая`: "Владыко Боже святый и непостижимый..."), corresponding to Greek Εὐχὴ δʹ: Δέσποτα Θεέ, ἅγιε καὶ ἀκατάληπτε, ὁ εἰπὼν ἐκ σκότους φῶς λάμψαι...
+[^871]: Direct quotation of 2 Corinthians 4:6 ("For God, Who commanded the light to shine out of darkness, hath shined in our hearts").

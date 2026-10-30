@@ -1,0 +1,44 @@
+[^62]: The deacon's exclamation *Пожрѝ влады́ко* corresponds to the Greek *Θῦσον, δέσποτα* ("Sacrifice, Master"), addressed to the officiating priest as he prepares to make the cruciform incision into the underside of the Lamb (Holy Bread), recalling Christ's voluntary self-offering.
+[^63]: Formula accompanying the incision of the Lamb, citing John 1:29: *Жре́тся а́гнецъ бо́жїй, взе́мляй грѣхѝ ми́ру, за ми́рскїй живо́тъ, и спасе́нїе* ("Sacrificed is the Lamb of God, Who takes away the sin of the world, for the life and salvation of the world"). In Ruthenian printed liturgicons, this combines the Johannine text with the eucharistic formula for the life and salvation of the world.
+[^64]: The formula accompanying the piercing of the right side of the Lamb with the spear, verbatim from John 19:34–35: *И еди́нъ от во́инъ ко́пїемъ ему̀ ре́бра прободѐ, и а́бїе изы́де кро́вь, и вода̀...*
+[^65]: This rubric explicitly settles the disputed orientation of the Lamb on the diskos in Early Modern Ruthenian practice: the "right side" of the Lamb corresponds physically to the side adjacent to the chalice (i.e. the priest's right hand), where both the Theotokos particle and the Nine Ranks particles are placed in Balaban's edition.
+[^66]: The deacon's petition *Благословѝ влады́ко свято́е единенїе* corresponds to the Greek *Εὐλόγησον, δέσποτα, τὴν ἁγίαν ἕνωσιν*, requesting the blessing of the commingling of wine and water in the holy chalice.
+[^67]: The priest blesses the chalice crosswise while the deacon pours the wine and water. A contemporary 17th-century marginal gloss in the right margin of Fol. 12r supplies the customary rubrical practice: the priest blesses the mixture, and three drops of water are added if not already mingled.
+[^68]: Woodcut diagram on Fol. 12v labeled *ПЕРВЫИ ДІСКОС* ("The First Diskos"), illustrating the older or alternative arrangement in which the Theotokos particle is set to the left of the Lamb and the nine ranks of saints to the right. The Striatyn editors explicitly print this diagram in order to reject it.
+[^69]: Balaban's explicit editorial warning against the arrangement shown in "The First Diskos": *да не полага́еши ѽ і҆ере́оу · поне́же сѐ претыка́тельно є҆́стъ...* ("Do not place them thus, O priest; for this is an occasion of stumbling..."). The editors note that Patristic commentaries do not support placing the Theotokos on the left, but rather at Christ's right hand.
+[^70]: Woodcut diagram on Fol. 13v labeled *ВТОРЫИ ДІСКОС* ("The Second Diskos"), printed in prominent cinnabar red ink. In this arrangement, both the Theotokos particle and the nine ranks of saints are placed together to the right of the Lamb (viewer's right / the chalice side), while the particles for the living (marked *Ж*) and the dead (marked *М*) are arranged in two horizontal rows below the Lamb.
+[^71]: Rubrical directive establishing "The Second Diskos" as the mandatory canonical model for the Eparchy of Lviv and Striatyn printings.
+[^72]: The nine ranks of saints are arranged in three vertical columns (or three sub-ranks of three particles each) directly beneath the particle of the Mother of God on the right side of the Lamb.
+[^73]: The particles for the living are placed directly beneath the Lamb and the Theotokos particle, specifying "unto twelve particles" (*къ двана́десятъ частїи*), reflecting local Ruthenian custom.
+[^74]: Cross-reference to the comprehensive liturgical commentary appended at the end of the Proskomedia in this codex, expounding the theological and mystical significance of the rite.
+[^75]: The first commemorative prosphora (often called the second prosphora in five-prosphora practice) from which the large triangular particle in honor of the Most Holy Theotokos is extracted.
+[^76]: Marian oblation prayer: *Въ че́сть и въ па́мять преблагослове́нныя влады́чица нашея богоро́дица...*
+[^77]: Psalm 44:10 [LXX 44:9]: *Предста̀ цари́ца одесну́ю тебѐ, въ ри́захъ позлаще́нныхъ, одѣ́янна и преукра́шена* ("At Thy right hand stood the Queen, arrayed in a vesture of inwoven gold, adorned in varied colors"). This scriptural verse forms the theological justification for placing the Theotokos particle on the right side of the Lamb.
+[^78]: Extraction of the first particle of the Nine Ranks from the second commemorative prosphora, invoking the power of the precious and life-creating Cross.
+[^79]: Commemoration of Rank 1, Particle 1: The bodiless angelic hosts of heaven (Michael, Gabriel, and all bodiless powers).
+[^80]: Commemoration of Rank 1, Particle 2: The holy Prophet, Forerunner, and Baptist John, and all the prophets of the Old Covenant.
+[^81]: Commemoration of Rank 1, Particle 3: The holy, glorious, and all-praised apostles Peter and Paul and the Twelve (completing the first triad of ranks).
+[^82]: Rubric directing the placement of the second triad of ranks beside the first column above, beginning the second row.
+[^83]: Commemoration of Rank 2, Particle 4: The holy ecumenical teachers and hierarchs: Basil the Great, Gregory the Theologian, John Chrysostom, Athanasius and Cyril of Alexandria, Nicholas of Myra in Lycia, and all holy hierarchs.
+[^84]: Commemoration of Rank 2, Particle 5 & 6: The holy Protomartyr Stephen, Great-martyrs George, Demetrius, Theodore, and all martyrs both men and women (completing the second triad).
+[^85]: Commemoration of Rank 3, Particle 7: The venerable and God-bearing fathers and mothers: Anthony the Great, Euthymius, Sabbas the Sanctified, Onuphrius, Athanasius of Athos, and all monastic saints.
+[^86]: Commemoration of Rank 3, Particle 8: The holy unmercenary physicians and wonderworkers: Cosmas and Damian, Cyrus and John, Panteleimon and Hermolaus, and all unmercenary saints.
+[^87]: Commemoration of Rank 3, Particle 9: The holy and righteous Ancestors of God Joachim and Anna, the patron saint of the temple/day, and all saints (completing the ninefold hierarchy of saints).
+[^88]: The third commemorative prosphora (fourth overall), designated for the living ecclesiastical hierarchy, civil rulers, and monastic brotherhood.
+[^89]: Diplomatic formula for the sovereign/ruler: *Ѡ҆ бл҃гочести́вѣ́мъ и҆ хрⷭ҇толю́би́вѣмъ цр҃и на́шемъ · И҆́мⷬ҇к ·* Left generic with *И҆́мⷬ҇къ* (Name) to allow commemoration of the reigning monarch (in the Polish-Lithuanian Commonwealth, King Sigismund III Vasa).
+[^90]: Concluding prayer for the living clergy, monastic superiors, and brethren drawn into mystical communion with Christ.
+[^91]: Rubric directing that the particles commemorating the living hierarchy and clergy be placed directly beneath the Holy Bread on the diskos.
+[^92]: The fourth commemorative prosphora (fifth overall), from which particles are extracted for individual living Orthodox Christians commemorated by name.
+[^93]: The living particles are arranged in a horizontal row beneath the Lamb.
+[^94]: The fifth commemorative prosphora (sixth overall), designated for the departed founders (*кти́торы*) of the monastery, the ordaining hierarch, and all departed Orthodox faithful.
+[^95]: Obligatory commemoration of the bishop who ordained the celebrant (*поста́вльшаго и҆ а҆рхїере́а*), a universal canon of Ruthenian and Byzantine liturgicons.
+[^96]: Solemn concluding prayer for all departed Orthodox fathers and brethren who have fallen asleep in the hope of resurrection unto eternal life.
+[^97]: Rubric directing that the particles for the departed be arranged in a distinct second row beneath the row of the living under the Holy Bread, exactly matching the woodcut diagram on Fol. 13v.
+[^98]: The sixth commemorative prosphora (seventh overall), reserved for the celebrant's personal commemoration and penitence for his own sins.
+[^99]: The celebrant's personal prayer of contrition: *Помянѝ Го́споди по мно́жеству щедро́тъ твои́хъ и моѐ недосто́инство...*
+[^100]: The priest places his own particle alongside the row of the living beneath the Lamb.
+[^101]: Distinct rubrical chapter heading: *Ѡ҆ просфомиса́нїи дїа́конѡ, чесора́ди възбране́но є҆́стъ* ("Concerning the Proskomedia of the Deacons: Why It Is Forbidden"), addressing a contemporary Ruthenian abuse where deacons attempted to perform the Proskomedia independently.
+[^102]: Citation of Canon 18 of the First Ecumenical Council (Nicaea I, 325 AD), explicitly prohibiting deacons from offering the Holy Sacrifice, administering Communion to presbyters, or exceeding their liturgical rank.
+[^103]: The text of Nicaea I Canon 18, threatening deposition (*да изверже́тся*) for any deacon who persists in disorderly liturgical usurpations.
+[^104]: The canonical remedy and order: the deacon brings two prosphoras (one for the living, one for the dead) to the presbyter, reciting the names while the priest extracts the particles.
+[^105]: Opening of the rubrics governing concelebration (*собо́ръ*) among multiple priests and deacons at the Proskomedia.
