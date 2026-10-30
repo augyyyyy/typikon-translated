@@ -1,0 +1,67 @@
+{
+  "timestamp": "2026-10-29T18:21:59.482439+00:00",
+  "monument_id": "1600s_prykarpattia_ms_octoechos",
+  "cohort": 23,
+  "target_file": "1600s_prykarpattia_ms_octoechos_cohort23_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1600s_prykarpattia_ms_octoechos_cohort23_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 2
+    },
+    "hieratic_pronouns": {
+      "file": "1600s_prykarpattia_ms_octoechos_cohort23_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1600s_prykarpattia_ms_octoechos_cohort23_raw_draft.md",
+      "footnotes_file": "1600s_prykarpattia_ms_octoechos_cohort23_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 2,
+      "definition_markers_count": 2,
+      "text_markers": [
+        "[^235]",
+        "[^236]"
+      ],
+      "definition_markers": [
+        "[^235]",
+        "[^236]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1600s_prykarpattia_ms_octoechos_cohort23_raw_draft.md",
+      "passed": true,
+      "paragraphs": 4,
+      "headings_count": 0,
+      "headings": [],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 2,
+        "min_leaf": 221,
+        "max_leaf": 222
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument - 1600s_prykarpattia_ms_octoechos\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "total_queued_leaves": 0,
+    "unresolved_quarantines": 0
+  }
+}

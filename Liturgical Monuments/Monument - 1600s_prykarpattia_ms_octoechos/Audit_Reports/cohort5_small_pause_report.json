@@ -1,0 +1,90 @@
+{
+  "timestamp": "2026-10-29T13:13:55.795307+00:00",
+  "monument_id": "1600s_prykarpattia_ms_octoechos",
+  "cohort": 5,
+  "target_file": "1600s_prykarpattia_ms_octoechos_cohort5_raw_draft.md",
+  "overall_status": "PASSED",
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1600s_prykarpattia_ms_octoechos_cohort5_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1600s_prykarpattia_ms_octoechos_cohort5_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1600s_prykarpattia_ms_octoechos_cohort5_raw_draft.md",
+      "footnotes_file": "1600s_prykarpattia_ms_octoechos_cohort5_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 10,
+      "definition_markers_count": 10,
+      "text_markers": [
+        "[^55]",
+        "[^56]",
+        "[^57]",
+        "[^58]",
+        "[^59]",
+        "[^60]",
+        "[^61]",
+        "[^62]",
+        "[^63]",
+        "[^64]"
+      ],
+      "definition_markers": [
+        "[^55]",
+        "[^56]",
+        "[^57]",
+        "[^58]",
+        "[^59]",
+        "[^60]",
+        "[^61]",
+        "[^62]",
+        "[^63]",
+        "[^64]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1600s_prykarpattia_ms_octoechos_cohort5_raw_draft.md",
+      "passed": true,
+      "paragraphs": 215,
+      "headings_count": 1,
+      "headings": [
+        {
+          "line": 20,
+          "level": 1,
+          "title": "TONE 3 (fol. 37)[^55]",
+          "leaf": 41
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 41,
+        "max_leaf": 50
+      },
+      "anomalies": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument - 1600s_prykarpattia_ms_octoechos\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "total_queued_leaves": 0,
+    "unresolved_quarantines": 0
+  }
+}

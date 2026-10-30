@@ -1,0 +1,613 @@
+{
+  "monument_id": "1600s_prykarpattia_ms_octoechos",
+  "monument_title": "17th-Century Carpathian-Galician Manuscript Octoechos (Октоїх рукописний, Прикарпаття, XVII ст.)",
+  "generated_at": "2026-10-30T12:58:00-04:00",
+  "codex_telemetry": {
+    "total_physical_leaves": 222,
+    "total_cohorts": 23,
+    "slavonic_words_total": 57985,
+    "english_words_cohort_total": 94689,
+    "english_words_complete_md": 88262,
+    "master_footnotes_total": 236,
+    "propers_corpus_items": 3125,
+    "podoben_invocations": 20,
+    "podoben_attested_tones": [
+      1,
+      3,
+      4,
+      6,
+      8
+    ],
+    "drift_events_total": 110,
+    "unstitched_mid_sentence_leaf_seams": 209,
+    "total_phase1_subagent_wall_clock_seconds": 23313.0,
+    "mean_subagent_duration_seconds": 1013.6
+  },
+  "dimension_1_cohort_velocity": {
+    "cohorts": [
+      {
+        "cohort": 1,
+        "leaves": "p1-p10",
+        "subagent_id": "c6aadf90",
+        "subagent_duration_s": 1062.0,
+        "gate_cycle_s": 1075.9,
+        "slavonic_words": 1365,
+        "english_words": 2074,
+        "footnotes": 13,
+        "steps": 126,
+        "cmds": 34,
+        "edits": 0
+      },
+      {
+        "cohort": 2,
+        "leaves": "p11-p20",
+        "subagent_id": "3ec4a55a",
+        "subagent_duration_s": 900.0,
+        "gate_cycle_s": 915.8,
+        "slavonic_words": 2513,
+        "english_words": 3878,
+        "footnotes": 17,
+        "steps": 56,
+        "cmds": 5,
+        "edits": 0
+      },
+      {
+        "cohort": 3,
+        "leaves": "p21-p30",
+        "subagent_id": "6d8e044d",
+        "subagent_duration_s": 835.0,
+        "gate_cycle_s": 851.0,
+        "slavonic_words": 2642,
+        "english_words": 3874,
+        "footnotes": 13,
+        "steps": 64,
+        "cmds": 5,
+        "edits": 1
+      },
+      {
+        "cohort": 4,
+        "leaves": "p31-p40",
+        "subagent_id": "3a4b580b",
+        "subagent_duration_s": 866.0,
+        "gate_cycle_s": 880.1,
+        "slavonic_words": 2565,
+        "english_words": 3940,
+        "footnotes": 11,
+        "steps": 67,
+        "cmds": 9,
+        "edits": 0
+      },
+      {
+        "cohort": 5,
+        "leaves": "p41-p50",
+        "subagent_id": "41c5165d",
+        "subagent_duration_s": 738.0,
+        "gate_cycle_s": 750.9,
+        "slavonic_words": 2340,
+        "english_words": 3578,
+        "footnotes": 10,
+        "steps": 72,
+        "cmds": 9,
+        "edits": 1
+      },
+      {
+        "cohort": 6,
+        "leaves": "p51-p60",
+        "subagent_id": "13fb8987",
+        "subagent_duration_s": 1019.0,
+        "gate_cycle_s": 1036.9,
+        "slavonic_words": 2555,
+        "english_words": 4029,
+        "footnotes": 10,
+        "steps": 82,
+        "cmds": 9,
+        "edits": 0
+      },
+      {
+        "cohort": 7,
+        "leaves": "p61-p70",
+        "subagent_id": "a044e9d0",
+        "subagent_duration_s": 796.0,
+        "gate_cycle_s": 807.4,
+        "slavonic_words": 2515,
+        "english_words": 3797,
+        "footnotes": 10,
+        "steps": 57,
+        "cmds": 7,
+        "edits": 0
+      },
+      {
+        "cohort": 8,
+        "leaves": "p71-p80",
+        "subagent_id": "e7e1588c",
+        "subagent_duration_s": 879.0,
+        "gate_cycle_s": 894.5,
+        "slavonic_words": 2479,
+        "english_words": 3784,
+        "footnotes": 10,
+        "steps": 78,
+        "cmds": 12,
+        "edits": 3
+      },
+      {
+        "cohort": 9,
+        "leaves": "p81-p90",
+        "subagent_id": "b2bbc9fa",
+        "subagent_duration_s": 837.0,
+        "gate_cycle_s": 848.4,
+        "slavonic_words": 2649,
+        "english_words": 4268,
+        "footnotes": 10,
+        "steps": 70,
+        "cmds": 9,
+        "edits": 0
+      },
+      {
+        "cohort": 10,
+        "leaves": "p91-p100",
+        "subagent_id": "b162b7de",
+        "subagent_duration_s": 1041.0,
+        "gate_cycle_s": 1055.6,
+        "slavonic_words": 2673,
+        "english_words": 4042,
+        "footnotes": 10,
+        "steps": 94,
+        "cmds": 17,
+        "edits": 0
+      },
+      {
+        "cohort": 11,
+        "leaves": "p101-p110",
+        "subagent_id": "6416f7c4",
+        "subagent_duration_s": 1383.0,
+        "gate_cycle_s": 1401.7,
+        "slavonic_words": 2655,
+        "english_words": 4082,
+        "footnotes": 10,
+        "steps": 101,
+        "cmds": 18,
+        "edits": 0
+      },
+      {
+        "cohort": 12,
+        "leaves": "p111-p120",
+        "subagent_id": "0fdedb8f",
+        "subagent_duration_s": 910.0,
+        "gate_cycle_s": 922.0,
+        "slavonic_words": 2634,
+        "english_words": 3983,
+        "footnotes": 10,
+        "steps": 68,
+        "cmds": 7,
+        "edits": 0
+      },
+      {
+        "cohort": 13,
+        "leaves": "p121-p130",
+        "subagent_id": "45a364d1",
+        "subagent_duration_s": 790.0,
+        "gate_cycle_s": 810.0,
+        "slavonic_words": 2572,
+        "english_words": 3948,
+        "footnotes": 10,
+        "steps": 70,
+        "cmds": 7,
+        "edits": 1
+      },
+      {
+        "cohort": 14,
+        "leaves": "p131-p140",
+        "subagent_id": "faf0cc7f",
+        "subagent_duration_s": 1042.0,
+        "gate_cycle_s": 1055.7,
+        "slavonic_words": 2471,
+        "english_words": 3855,
+        "footnotes": 10,
+        "steps": 83,
+        "cmds": 14,
+        "edits": 2
+      },
+      {
+        "cohort": 15,
+        "leaves": "p141-p150",
+        "subagent_id": "a2bc868f",
+        "subagent_duration_s": 1029.0,
+        "gate_cycle_s": 1043.2,
+        "slavonic_words": 2740,
+        "english_words": 4120,
+        "footnotes": 10,
+        "steps": 72,
+        "cmds": 7,
+        "edits": 0
+      },
+      {
+        "cohort": 16,
+        "leaves": "p151-p160",
+        "subagent_id": "8a16a9ce",
+        "subagent_duration_s": 1039.0,
+        "gate_cycle_s": 1054.0,
+        "slavonic_words": 2791,
+        "english_words": 4230,
+        "footnotes": 10,
+        "steps": 75,
+        "cmds": 10,
+        "edits": 4
+      },
+      {
+        "cohort": 17,
+        "leaves": "p161-p170",
+        "subagent_id": "adc17477",
+        "subagent_duration_s": 1392.0,
+        "gate_cycle_s": 1408.5,
+        "slavonic_words": 3073,
+        "english_words": 4703,
+        "footnotes": 10,
+        "steps": 133,
+        "cmds": 35,
+        "edits": 0
+      },
+      {
+        "cohort": 18,
+        "leaves": "p171-p180",
+        "subagent_id": "947a2bcb",
+        "subagent_duration_s": 1371.0,
+        "gate_cycle_s": 1392.4,
+        "slavonic_words": 3092,
+        "english_words": 5076,
+        "footnotes": 10,
+        "steps": 92,
+        "cmds": 18,
+        "edits": 4
+      },
+      {
+        "cohort": 19,
+        "leaves": "p181-p190",
+        "subagent_id": "f721e451",
+        "subagent_duration_s": 1123.0,
+        "gate_cycle_s": 1144.1,
+        "slavonic_words": 3079,
+        "english_words": 4739,
+        "footnotes": 10,
+        "steps": 102,
+        "cmds": 19,
+        "edits": 3
+      },
+      {
+        "cohort": 20,
+        "leaves": "p191-p200",
+        "subagent_id": "f6823323",
+        "subagent_duration_s": 1184.0,
+        "gate_cycle_s": 1199.0,
+        "slavonic_words": 3216,
+        "english_words": 5035,
+        "footnotes": 10,
+        "steps": 83,
+        "cmds": 18,
+        "edits": 0
+      },
+      {
+        "cohort": 21,
+        "leaves": "p201-p210",
+        "subagent_id": "51b39937",
+        "subagent_duration_s": 1285.0,
+        "gate_cycle_s": 1304.7,
+        "slavonic_words": 2911,
+        "english_words": 4701,
+        "footnotes": 10,
+        "steps": 96,
+        "cmds": 22,
+        "edits": 0
+      },
+      {
+        "cohort": 22,
+        "leaves": "p211-p220",
+        "subagent_id": "8e833ebc",
+        "subagent_duration_s": 889.0,
+        "gate_cycle_s": 909.4,
+        "slavonic_words": 2351,
+        "english_words": 3273,
+        "footnotes": 10,
+        "steps": 72,
+        "cmds": 12,
+        "edits": 0
+      },
+      {
+        "cohort": 23,
+        "leaves": "p221-p222",
+        "subagent_id": "43f0b797",
+        "subagent_duration_s": 183.0,
+        "gate_cycle_s": 190.9,
+        "slavonic_words": 113,
+        "english_words": 141,
+        "footnotes": 2,
+        "steps": 44,
+        "cmds": 1,
+        "edits": 0
+      }
+    ],
+    "three_slowest_cohorts": [
+      {
+        "rank": 1,
+        "cohort": 17,
+        "subagent_duration_s": 1392.0,
+        "leaves": "p161-p170",
+        "primary_bottlenecks": [
+          "Duplicate physical photographic exposure between Page_0164.jpg and Page_0165.jpg (both showing spread of fols. 159v-160r): subagent executed 20+ shell commands (Get-FileHash, PIL ImageChops, inspecting SPARSE_EXEMPT_KEYWORDS in run_small_pause_gate.py) to verify how to record p165 without triggering SGC-02 ratio failure or duplicating liturgical text.",
+          "High weekday script density (3,073 Slavonic words -> 4,703 English words across 9 unique openings)."
+        ]
+      },
+      {
+        "rank": 2,
+        "cohort": 11,
+        "subagent_duration_s": 1383.0,
+        "leaves": "p101-p110",
+        "primary_bottlenecks": [
+          "Physical paper repair patch pasted over the upper margin and headpiece of p109 (fol. 103r, # TONE 7): subagent executed 12 PIL cropping and cross-monument concordance commands (searching 1629_kyiv_octoechos and 1895_lviv_octoechos) to reconstruct the obscured lines.",
+          "Windows CP1252 UnicodeEncodeError during ad-hoc python -c Cyrillic searches."
+        ]
+      },
+      {
+        "rank": 3,
+        "cohort": 18,
+        "subagent_duration_s": 1371.0,
+        "leaves": "p171-p180",
+        "primary_bottlenecks": [
+          "Highest English word count in the codex (5,076 English words from 3,092 Slavonic words across dense Weekday Canons).",
+          "Subagent spent 7 shell commands querying codex_registry.json and liturgical_primitives_registry.json (hitting CP1252 UnicodeEncodeError twice).",
+          "Gate 1B (lint_liturgical_slop.py) failed on 4 occurrences of 'wherefore'/'Hearken' (lines 229, 343, 349, 400), requiring 4 sequential edit_file calls and re-audits."
+        ]
+      }
+    ],
+    "cross_cohort_report_overwrite_anomaly": "Subagents for Cohort 17 (step 78) and Cohort 21 (step 71) ran run_small_pause_gate.py on the previous cohort (--cohort 16 and --cohort 20), overwriting cohort16_small_pause_report.json (+514s) and cohort20_small_pause_report.json (+775s) mtimes after promotion."
+  },
+  "dimension_2_gate_and_healing_anomalies": {
+    "phase1_subagent_caught_anomalies": [
+      {
+        "cohort": 3,
+        "gate": "Gate 1A (lint_vocabulary.py)",
+        "count": 1,
+        "details": "Replaced forbidden '*Resurrection Apolytikion, Tone 2:*' with '*Resurrection Troparion, Tone 2:*' (L190)."
+      },
+      {
+        "cohort": 5,
+        "gate": "Gate 2 (hieratic_pronoun_audit.py)",
+        "count": 1,
+        "details": "False positive on apostrophe to Christ's Tomb ('may worship thee, O Life-Giving Tomb; for Christ, truly our God...'). Subagent capitalized 'Thee' (L305)."
+      },
+      {
+        "cohort": 8,
+        "gate": "Self-check (-eth) + Gate 2 (hieratic_pronoun_audit.py)",
+        "count": 3,
+        "details": "Replaced 'becometh' -> 'befits' (L43); Gate 2 false positive on 'him' referring to the serpent near 'Almighty Lord' ('crushing him' -> 'crushing the adversary', L80); Gate 2 false positive on 'thee/thy' referring to the Theotokos near 'Mother of the Most High God' (reordered to 'Mother of God, the Most High', L281)."
+      },
+      {
+        "cohort": 13,
+        "gate": "Gate 2 (hieratic_pronoun_audit.py)",
+        "count": 2,
+        "details": "False positive on 'thou/thine' referring to the Theotokos near 'O Birthgiver of God'. Subagent hyphenated 'Birth-giver of God' to evade proximity trigger (L111)."
+      },
+      {
+        "cohort": 14,
+        "gate": "Gate 2 (hieratic_pronoun_audit.py)",
+        "count": 1,
+        "details": "False positive on 'him' referring to the demonic enemy near 'O Lord' ('hoping in Thee, O Lord, I vanquish him!' -> 'I vanquish the enemy!', L108)."
+      },
+      {
+        "cohort": 16,
+        "gate": "Gate 1B (lint_liturgical_slop.py)",
+        "count": 4,
+        "details": "Caught 'maketh' (L204) and 'taketh' (L240, L274), plus subagent edited 'granteth' (L240), but linter missed 6 occurrences of 'heareth'/'rejecteth' on L215."
+      },
+      {
+        "cohort": 18,
+        "gate": "Gate 1B (lint_liturgical_slop.py)",
+        "count": 4,
+        "details": "Caught 'wherefore'/'Wherefore' (L229, L343, L400) and 'Hearken' in Ps. 44:11 (L349); replaced with 'therefore' and 'Give ear'."
+      },
+      {
+        "cohort": 19,
+        "gate": "Gate 1B (lint_liturgical_slop.py)",
+        "count": 3,
+        "details": "Caught 'wherefore'/'Wherefore' (L150, L273, L343); replaced with 'therefore'."
+      }
+    ],
+    "phase2_compiler_self_healed_anomalies": {
+      "healed_cohorts": [
+        1,
+        3,
+        4,
+        5,
+        10,
+        12,
+        13,
+        16,
+        18,
+        20
+      ],
+      "healed_lines_count": 24,
+      "healed_tokens_count": 31,
+      "root_cause": "scripts/lint_liturgical_slop.py (Gate 1B) checks only 13 hardcoded -eth verbs (singeth, proclaimeth, censeth, entereth, maketh, readeth, beginneth, taketh, vesteth, boweth, kisseth, turneth, standeth), whereas compile_final_edition.py (heal_cohort_and_apparatus_text) and verify_publication_edition.py (Gate 4) enforce universal \\b[A-Za-z]+eth\\b normalization.",
+      "tokens_healed": {
+        "becometh->becomes": 5,
+        "rejecteth->rejects": 4,
+        "rejoiceth->rejoices": 2,
+        "hymneth->hymns": 2,
+        "cometh->comes": 2,
+        "heareth->hears": 2,
+        "granteth->grants": 2,
+        "entreateth->entreats": 2,
+        "honoreth->honors": 1,
+        "dwelleth->dwells": 1,
+        "magnifieth->magnifies": 1,
+        "knoweth->knows": 1,
+        "fainteth->faints": 1,
+        "beareth->bears": 1,
+        "adorneth->adorns": 1,
+        "looseth->looses": 1,
+        "draweth->draws": 1,
+        "submitteth->submits": 1
+      }
+    },
+    "phase2_hymnographic_normalizer_drift_events": {
+      "total": 110,
+      "by_type": {
+        "WEEKDAY_HEIRMOS_ALIGNED": 52,
+        "PSALM_VERSE_NORMALIZED": 36,
+        "PODOBEN_NORMALIZED": 18,
+        "PSALM_VERSE_TIER3_SOURCE_VARIANT": 3,
+        "PODOBEN_SAME_NORMALIZED": 1
+      }
+    }
+  },
+  "dimension_3_argon_review_queue_precision": {
+    "queued_leaves_count": 0,
+    "quarantined_leaves_count": 0,
+    "leaf_metrics_distribution": {
+      "sgc02_ratio_min": 0.87,
+      "sgc02_ratio_max": 1.485,
+      "sgc02_ratio_mean": 1.264,
+      "max_footnotes_per_leaf": 3,
+      "mean_footnotes_per_leaf": 1.063,
+      "table_rows_total": 0,
+      "editorial_bracket_restorations_total": 379,
+      "leaves_with_brackets": 221
+    },
+    "false_negative_cruxes_missed_by_queue": [
+      {
+        "leaf": 109,
+        "cohort": 11,
+        "reason": "Pasted paper repair patch obscuring top lines of # TONE 7 headpiece; subagent wrote '[...]' and 'paper repair patch' in footnote, which did not match literal '[?]'/'[lacuna]'/'[damaged]'/'[illegible]' in run_small_pause_gate.py."
+      },
+      {
+        "leaf": 165,
+        "cohort": 17,
+        "reason": "Duplicate photographic exposure of Page_0164.jpg (fols. 159v-160r); bilingual codicological note had ratio 0.870, staying inside [0.50, 2.20]."
+      }
+    ]
+  },
+  "dimension_4_compiler_and_monument_edge_cases": [
+    {
+      "id": "EC-01",
+      "component": "scripts/compile_final_edition.py (_slice_parts, line 1025)",
+      "issue": "When _is_scaffolded_pub_spec is True (universal_dynamic_h1 mode), dynamically sliced parts in self.pub_spec['parts'] were not persisted back to codex_registry.json, causing verify_publication_edition.py to fail with 'has no publication_spec in codex_registry.json!'."
+    },
+    {
+      "id": "EC-02",
+      "component": "scripts/hymnographic_gold_normalizer.py (stitch_2up_hymnographic_stream, lines 970-1053)",
+      "issue": "Stitched 0 out of 209 mid-sentence leaf boundaries because RE_LEAF_BANNER ('=== LEAF pN ===') does not set pending_milestone = locus.get_milestone(), and top-of-page manuscript running headers ('[Sunday.]', '(fol. N)') are not recognized by RE_PAGE_HEADER, consuming the boundary before the '...continuation' line."
+    },
+    {
+      "id": "EC-03",
+      "component": "scripts/hymnographic_gold_normalizer.py (generate_propers_corpus, lines 1867-1985)",
+      "issue": "Assigned 'office': 'Front Matter' and 'ode': null to 100% of all 3,125 items, and assigned 'tone': 8 to 1,425 items (absorbing Cohorts 15-22 weekday Tones 1-7 and Exapostilaria), because generate_propers_corpus relies on explicit H2/H4 headings whereas manuscript cohorts use inline italic rubrics."
+    },
+    {
+      "id": "EC-04",
+      "component": "scripts/verify_publication_edition.py (Gate 7E, line 633)",
+      "issue": "Hardcoded len(grid_tones) < 8 failed on a 222-leaf manuscript Octoechos that physically attests explicit Podoben rubrics in 5 tones ([1, 3, 4, 6, 8], 20 invocations)."
+    },
+    {
+      "id": "EC-05",
+      "component": "scripts/hymnographic_gold_normalizer.py (generate_father_paul_digest, lines 1656-1665)",
+      "issue": "Gate 7F parity mismatch (comp=20, grid=20, rev=19) because generate_father_paul_digest counted raw 'podoben:' lines in Cohorts/*.md on disk (19) instead of normalized all_stitched_cohorts in memory (20, after PODOBEN_SAME_NORMALIZED expanded C12:p112)."
+    }
+  ],
+  "dimension_5_atomic_tagging_blueprint": {
+    "total_non_empty_lines": 5303,
+    "classified_lines": 5303,
+    "unclassified_lines": 0,
+    "coverage_pct": 100.0,
+    "unit_classes": {
+      "STRUCT.LEAF_BOUNDARY": 222,
+      "STRUCT.H1_MONUMENT_OR_PART_HEADING": 9,
+      "PARATEXT.RUNNING_HEADER_OR_FOLIO_TAG": 268,
+      "PARATEXT.CODICOLOGICAL_APPARATUS_NOTE": 9,
+      "PARATEXT.DEDICATION_AND_FOUNDATION_INSCRIPTION": 5,
+      "PROPER.CANON_TROPARION_BODY": 1068,
+      "PROPER.THEOTOKION_DOGMATIKON_BODY": 425,
+      "PROPER.STICHERON_BODY": 254,
+      "PROPER.CANON_HEIRMOS_BODY": 126,
+      "PROPER.MARTYRICON_BODY": 96,
+      "PROPER.SESSIONAL_HYMN_KATHISMA_BODY": 78,
+      "PROPER.GRADUAL_ANTIPHON_BODY": 44,
+      "PROPER.STAUROTHEOTOKION_BODY": 27,
+      "PROPER.EXAPOSTILARION_SVITYLEN_BODY": 26,
+      "PROPER.TRINITY_TROPARION_TRIADIKON_BODY": 25,
+      "PROPER.IKOS_BODY": 21,
+      "PROPER.EVANGELICAL_STICHERON_EOTHINON_BODY": 20,
+      "PROPER.PODOBEN_MODEL_RUBRIC": 29,
+      "PROPER.NEKROSIMON_DEPARTED_BODY": 15,
+      "PROPER.KONTAKION_BODY": 14,
+      "PROPER.BEATITUDES_TROPARION_BODY": 11,
+      "PROPER.HYPAKOE_BODY": 8,
+      "PROPER.DISMISSAL_APOLYTIKION_TROPARION_BODY": 4,
+      "NONPROPER.PROCEDURAL_AND_ROLE_RUBRIC_LINE": 2375,
+      "NONPROPER.FIXED_PSALM_STICHOS_VERSE": 92,
+      "NONPROPER.LECTIONARY_EPISTLE_GOSPEL_PERICOPE": 26,
+      "NONPROPER.PROKEIMENON_ALLELUIA_CHANTS_BODY": 8
+    }
+  },
+  "dimension_6_top_5_recommendations": [
+    {
+      "rank": 1,
+      "title": "Enable Leaf-Banner & Running-Header Seam Stitching for Epigraphic Manuscripts",
+      "target_files": [
+        "scripts/hymnographic_gold_normalizer.py"
+      ],
+      "target_functions": [
+        "stitch_2up_hymnographic_stream",
+        "RE_PAGE_HEADER"
+      ],
+      "impact": "Stitches all 209 severed mid-sentence leaf seams in manuscript codices where [Left Page]/[Column A] scaffolding is absent and running headers ([Sunday.], (fol. N)) appear at leaf tops."
+    },
+    {
+      "rank": 2,
+      "title": "Unify Propers Corpus State Machine with Inline Italic Rubrics (Office, Ode, & Weekday Tone Tracking)",
+      "target_files": [
+        "scripts/hymnographic_gold_normalizer.py"
+      ],
+      "target_functions": [
+        "generate_propers_corpus",
+        "process_monument_cohorts"
+      ],
+      "impact": "Eliminates 100% 'office': 'Front Matter' (3,125/3,125), 'ode': null (3,125/3,125), and Tone 8 weekday absorption (1,425 items) in _propers_corpus.json."
+    },
+    {
+      "rank": 3,
+      "title": "Unify Gate 1B (lint_liturgical_slop.py) 3rd-Person -eth Detection with Gate 4 & Pre-Gate Self-Healer",
+      "target_files": [
+        "scripts/lint_liturgical_slop.py",
+        "scripts/run_small_pause_gate.py"
+      ],
+      "target_functions": [
+        "lint_slop",
+        "_convert_3rd_person_eth_token"
+      ],
+      "impact": "Catches and deterministically heals 100% of 3rd-person -eth verbs (31 occurrences across 10 cohorts) and 'wherefore'/'hearken' at Gate 1B without subagent edit round-trips."
+    },
+    {
+      "rank": 4,
+      "title": "Add Marian (Theotokion) & Adversary Clauses to Hieratic Pronoun Auditor Exclusion Filter",
+      "target_files": [
+        "scripts/hieratic_pronoun_audit.py"
+      ],
+      "target_functions": [
+        "audit_pronouns"
+      ],
+      "impact": "Eliminates 100% of Gate 2 false positives on lowercase pronouns referring to the Theotokos, the Life-Giving Tomb, or Satan/the enemy in clauses containing divine titles (6 false positives across 4 cohorts)."
+    },
+    {
+      "rank": 5,
+      "title": "Inject Inline Pre-Flight Summary & Lock --cohort Target in Work Order Template to Eliminate Exploratory Shell Overhead",
+      "target_files": [
+        "data/templates/work_order_template.md",
+        "scripts/run_small_pause_gate.py"
+      ],
+      "target_functions": [
+        "generate_work_order",
+        "run_small_pause_gate"
+      ],
+      "impact": "Eliminates 15-35 exploratory shell commands per cohort (saving ~5-8 minutes per cohort on registry lookups, CP1252 crashes, and accidental re-runs on cohort K-1)."
+    }
+  ]
+}

@@ -1108,10 +1108,66 @@
       "default_cohort_size": 10,
       "genre_register": "rubrical",
       "workspace_dir": "Liturgical Monuments/Monument - 1491_krakow_fiol_horologion",
-      "active": false,
-      "status": "queued",
+      "active": true,
+      "status": "in_progress",
       "historical_year": 1491,
-      "wave": 3
+      "wave": 3,
+      "publication_spec": {
+        "mode": "universal_dynamic_h1",
+        "hub_inbox_folder": "1491_Krakow_Horologion_of_Schweipolt_Fiol",
+        "master_title": "1491 Krakow Horologion of Schweipolt Fiol (Часослов Швайпольта Фіоля, Краків, 1491)",
+        "parts": [
+          {
+            "id": "part0",
+            "filename": "1491_krakow_fiol_horologion_part0_front_matter.md",
+            "title": "Front Matter, Title Page, and Introductory Apparatus",
+            "start_landmark": null
+          },
+          {
+            "id": "part1",
+            "filename": "1491_krakow_fiol_horologion_part1_tone-1-trinity-hymns-and-photagogica.md",
+            "title": "TONE 1: TRINITY HYMNS AND PHOTAGOGICA",
+            "start_landmark": "^#\\s+TONE\\ 1:\\ TRINITY\\ HYMNS\\ AND\\ PHOTAGOGICA$"
+          },
+          {
+            "id": "part2",
+            "filename": "1491_krakow_fiol_horologion_part2_exapostilaria-of-the-week.md",
+            "title": "EXAPOSTILARIA OF THE WEEK",
+            "start_landmark": "^#\\s+EXAPOSTILARIA\\ OF\\ THE\\ WEEK$"
+          },
+          {
+            "id": "part3",
+            "filename": "1491_krakow_fiol_horologion_part3_part-ii-troparia-and-kontakia-throughout.md",
+            "title": "PART II: TROPARIA AND KONTAKIA THROUGHOUT THE YEAR",
+            "start_landmark": "^#\\s+PART\\ II:\\ TROPARIA\\ AND\\ KONTAKIA\\ THROUGHOUT\\ THE\\ YEAR$"
+          },
+          {
+            "id": "part4",
+            "filename": "1491_krakow_fiol_horologion_part4_part-iii-menologion.md",
+            "title": "PART III: MENOLOGION",
+            "start_landmark": "^#\\s+PART\\ III:\\ MENOLOGION$"
+          },
+          {
+            "id": "part5",
+            "filename": "1491_krakow_fiol_horologion_part5_part-iv-rule-for-holy-communion.md",
+            "title": "PART IV: RULE FOR HOLY COMMUNION[^1205]",
+            "start_landmark": "^#\\s+PART\\ IV:\\ RULE\\ FOR\\ HOLY\\ COMMUNION\\[\\^1205\\]$"
+          },
+          {
+            "id": "part6",
+            "filename": "1491_krakow_fiol_horologion_part6_part-v-printers-colophon-and-civic-arms-.md",
+            "title": "PART V: PRINTER'S COLOPHON AND CIVIC ARMS OF KRAKOW (1491)[^1354]",
+            "start_landmark": "^#\\s+PART\\ V:\\ PRINTER'S\\ COLOPHON\\ AND\\ CIVIC\\ ARMS\\ OF\\ KRAKOW\\ \\(1491\\)\\[\\^1354\\]$"
+          },
+          {
+            "id": "part7",
+            "filename": "1491_krakow_fiol_horologion_part7_part-vi-rear-endpapers-and-archival-marg.md",
+            "title": "PART VI: REAR ENDPAPERS AND ARCHIVAL MARGINALIA[^1359]",
+            "start_landmark": "^#\\s+PART\\ VI:\\ REAR\\ ENDPAPERS\\ AND\\ ARCHIVAL\\ MARGINALIA\\[\\^1359\\]$"
+          }
+        ],
+        "footnotes_filename": "1491_krakow_fiol_horologion_footnotes.md"
+      }
     },
     "1491_krakow_fiol_octoechos": {
       "monument_id": "1491_krakow_fiol_octoechos",
@@ -1123,10 +1179,78 @@
       "default_cohort_size": 10,
       "genre_register": "hymnographic",
       "workspace_dir": "Liturgical Monuments/Monument - 1491_krakow_fiol_octoechos",
-      "active": false,
-      "status": "queued",
+      "active": true,
+      "status": "in_progress",
       "historical_year": 1491,
-      "wave": 3
+      "wave": 3,
+      "publication_spec": {
+        "mode": "universal_dynamic_h1",
+        "hub_inbox_folder": "1491_Krakow_Octoechos_of_Schweipolt_Fiol",
+        "master_title": "1491 Krakow Octoechos of Schweipolt Fiol (Осмогласник / Октоїх Швайпольта Фіоля, Краків, 1491)",
+        "parts": [
+          {
+            "id": "part0",
+            "filename": "1491_krakow_fiol_octoechos_part0_front_matter.md",
+            "title": "Front Matter, Title Page, and Introductory Apparatus",
+            "start_landmark": null
+          },
+          {
+            "id": "part1",
+            "filename": "1491_krakow_fiol_octoechos_part1_tone-1.md",
+            "title": "TONE 1",
+            "start_landmark": "^#\\s+TONE\\ 1$"
+          },
+          {
+            "id": "part2",
+            "filename": "1491_krakow_fiol_octoechos_part2_tone-2.md",
+            "title": "TONE 2",
+            "start_landmark": "^#\\s+TONE\\ 2$"
+          },
+          {
+            "id": "part3",
+            "filename": "1491_krakow_fiol_octoechos_part3_tone-3.md",
+            "title": "TONE 3",
+            "start_landmark": "^#\\s+TONE\\ 3$"
+          },
+          {
+            "id": "part4",
+            "filename": "1491_krakow_fiol_octoechos_part4_tone-4.md",
+            "title": "TONE 4",
+            "start_landmark": "^#\\s+TONE\\ 4$"
+          },
+          {
+            "id": "part5",
+            "filename": "1491_krakow_fiol_octoechos_part5_tone-5.md",
+            "title": "TONE 5",
+            "start_landmark": "^#\\s+TONE\\ 5$"
+          },
+          {
+            "id": "part6",
+            "filename": "1491_krakow_fiol_octoechos_part6_tone-6.md",
+            "title": "TONE 6",
+            "start_landmark": "^#\\s+TONE\\ 6$"
+          },
+          {
+            "id": "part7",
+            "filename": "1491_krakow_fiol_octoechos_part7_tone-7.md",
+            "title": "TONE 7",
+            "start_landmark": "^#\\s+TONE\\ 7$"
+          },
+          {
+            "id": "part8",
+            "filename": "1491_krakow_fiol_octoechos_part8_tone-8.md",
+            "title": "TONE 8",
+            "start_landmark": "^#\\s+TONE\\ 8$"
+          },
+          {
+            "id": "part9",
+            "filename": "1491_krakow_fiol_octoechos_part9_exapostilaria-and-evangelical-stichera.md",
+            "title": "EXAPOSTILARIA AND EVANGELICAL STICHERA",
+            "start_landmark": "^#\\s+EXAPOSTILARIA\\ AND\\ EVANGELICAL\\ STICHERA$"
+          }
+        ],
+        "footnotes_filename": "1491_krakow_fiol_octoechos_footnotes.md"
+      }
     },
     "1600s_prykarpattia_ms_octoechos": {
       "monument_id": "1600s_prykarpattia_ms_octoechos",
@@ -1139,9 +1263,77 @@
       "genre_register": "hymnographic",
       "workspace_dir": "Liturgical Monuments/Monument - 1600s_prykarpattia_ms_octoechos",
       "active": false,
-      "status": "queued",
+      "status": "completed",
       "historical_year": 1600,
-      "wave": 3
+      "wave": 3,
+      "publication_spec": {
+        "mode": "universal_dynamic_h1",
+        "hub_inbox_folder": "17th-Century_Carpathian-Galician_Manuscript_Octoechos",
+        "master_title": "17th-Century Carpathian-Galician Manuscript Octoechos (Октоїх рукописний, Прикарпаття, XVII ст.)",
+        "parts": [
+          {
+            "id": "part0",
+            "filename": "1600s_prykarpattia_ms_octoechos_part0_front_matter.md",
+            "title": "Front Matter, Title Page, and Introductory Apparatus",
+            "start_landmark": null
+          },
+          {
+            "id": "part1",
+            "filename": "1600s_prykarpattia_ms_octoechos_part1_tone-1.md",
+            "title": "TONE 1",
+            "start_landmark": "^#\\s+TONE\\ 1$"
+          },
+          {
+            "id": "part2",
+            "filename": "1600s_prykarpattia_ms_octoechos_part2_tone-2.md",
+            "title": "TONE 2",
+            "start_landmark": "^#\\s+TONE\\ 2$"
+          },
+          {
+            "id": "part3",
+            "filename": "1600s_prykarpattia_ms_octoechos_part3_tone-3-fol-37.md",
+            "title": "TONE 3 (fol. 37)[^55]",
+            "start_landmark": "^#\\s+TONE\\ 3\\ \\(fol\\.\\ 37\\)\\[\\^55\\]$"
+          },
+          {
+            "id": "part4",
+            "filename": "1600s_prykarpattia_ms_octoechos_part4_tone-4-fol-54.md",
+            "title": "TONE 4 (fol. 54)[^72]",
+            "start_landmark": "^#\\s+TONE\\ 4\\ \\(fol\\.\\ 54\\)\\[\\^72\\]$"
+          },
+          {
+            "id": "part5",
+            "filename": "1600s_prykarpattia_ms_octoechos_part5_tone-5.md",
+            "title": "TONE 5",
+            "start_landmark": "^#\\s+TONE\\ 5$"
+          },
+          {
+            "id": "part6",
+            "filename": "1600s_prykarpattia_ms_octoechos_part6_tone-6.md",
+            "title": "TONE 6",
+            "start_landmark": "^#\\s+TONE\\ 6$"
+          },
+          {
+            "id": "part7",
+            "filename": "1600s_prykarpattia_ms_octoechos_part7_tone-7.md",
+            "title": "TONE 7",
+            "start_landmark": "^#\\s+TONE\\ 7$"
+          },
+          {
+            "id": "part8",
+            "filename": "1600s_prykarpattia_ms_octoechos_part8_tone-8.md",
+            "title": "TONE 8",
+            "start_landmark": "^#\\s+TONE\\ 8$"
+          },
+          {
+            "id": "part9",
+            "filename": "1600s_prykarpattia_ms_octoechos_part9_exapostilaria-and-evangelical-stichera.md",
+            "title": "EXAPOSTILARIA AND EVANGELICAL STICHERA",
+            "start_landmark": "^#\\s+EXAPOSTILARIA\\ AND\\ EVANGELICAL\\ STICHERA$"
+          }
+        ],
+        "footnotes_filename": "1600s_prykarpattia_ms_octoechos_footnotes.md"
+      }
     },
     "1604_striatyn_balaban_liturgikon": {
       "monument_id": "1604_striatyn_balaban_liturgikon",
@@ -1153,10 +1345,48 @@
       "default_cohort_size": 10,
       "genre_register": "rubrical",
       "workspace_dir": "Liturgical Monuments/Monument - 1604_striatyn_balaban_liturgikon",
-      "active": false,
-      "status": "queued",
+      "active": true,
+      "status": "in_progress",
       "historical_year": 1604,
-      "wave": 3
+      "wave": 3,
+      "publication_spec": {
+        "hub_inbox_folder": "1604_Striatyn_Balaban_Liturgikon",
+        "master_title": "1604 Striatyn Liturgikon of Hedeon Balaban (Служебник, Стрятин: Друкарня Балабанів, 1604)",
+        "canonical_h1_instruction": "Emit H1 headers at the major Part divisions: Part I ('# PART I: ORDER OF THE DIVINE LITURGY AND DIACONATE' on leaf p10 / fol. 1), Part II ('# PART II: THE DIVINE LITURGY OF SAINT BASIL THE GREAT'), Part III ('# PART III: THE DIVINE LITURGY OF THE PRESANCTIFIED GIFTS'), and Part IV ('# PART IV: LITURGICAL APPENDICES AND DISMISSALS').",
+        "parts": [
+          {
+            "id": "part0",
+            "filename": "1604_striatyn_balaban_liturgikon_part0_front_matter.md",
+            "title": "Front Matter, Title Page, Dedicatory Epistle of Bishop Hedeon Balaban, Instruction of St. Basil to Priests, and Order of the Reserved Lamb",
+            "start_landmark": null
+          },
+          {
+            "id": "part1",
+            "filename": "1604_striatyn_balaban_liturgikon_part1_liturgy_john_chrysostom.md",
+            "title": "PART I: ORDER OF THE DIVINE LITURGY AND DIACONATE, AND THE DIVINE LITURGY OF SAINT JOHN CHRYSOSTOM",
+            "start_landmark": "^#+\\s*(?:PART\\s+I\\b|ORDER\\s+OF\\s+THE\\s+DIVINE\\s+LITURGY)"
+          },
+          {
+            "id": "part2",
+            "filename": "1604_striatyn_balaban_liturgikon_part2_liturgy_basil_the_great.md",
+            "title": "PART II: THE DIVINE LITURGY OF SAINT BASIL THE GREAT",
+            "start_landmark": "^#+\\s*(?:PART\\s+II\\b|DIVINE\\s+LITURGY\\s+OF\\s+SAINT\\s+BASIL)"
+          },
+          {
+            "id": "part3",
+            "filename": "1604_striatyn_balaban_liturgikon_part3_liturgy_presanctified.md",
+            "title": "PART III: THE DIVINE LITURGY OF THE PRESANCTIFIED GIFTS",
+            "start_landmark": "^#+\\s*(?:PART\\s+III\\b|DIVINE\\s+LITURGY\\s+OF\\s+THE\\s+PRESANCTIFIED)"
+          },
+          {
+            "id": "part4",
+            "filename": "1604_striatyn_balaban_liturgikon_part4_appendices_and_colophon.md",
+            "title": "PART IV: LITURGICAL APPENDICES, DISMISSALS, DAILY AND FESTAL PROKEIMENA, AND CONCLUDING COLOPHON",
+            "start_landmark": "^#+\\s*(?:PART\\s+IV\\b|LITURGICAL\\s+APPENDICES|ORDER\\s+OF\\s+DISMISSALS|COLOPHON)"
+          }
+        ],
+        "footnotes_filename": "1604_striatyn_balaban_liturgikon_footnotes.md"
+      }
     },
     "1606_striatyn_balaban_trebnyk": {
       "monument_id": "1606_striatyn_balaban_trebnyk",
@@ -1168,10 +1398,372 @@
       "default_cohort_size": 10,
       "genre_register": "rubrical",
       "workspace_dir": "Liturgical Monuments/Monument - 1606_striatyn_balaban_trebnyk",
-      "active": false,
-      "status": "queued",
+      "active": true,
+      "status": "in_progress",
       "historical_year": 1606,
-      "wave": 3
+      "wave": 3,
+      "publication_spec": {
+        "mode": "universal_dynamic_h1",
+        "hub_inbox_folder": "1606_Striatyn_Euchologion_/_Trebnyk_of_Teodor_&_Hedeon_Balaban",
+        "master_title": "1606 Striatyn Euchologion / Trebnyk of Teodor & Hedeon Balaban (Молитвенник альбо Требник, Стрятин: Друкарня Балабанів, 1606)",
+        "parts": [
+          {
+            "id": "part0",
+            "filename": "1606_striatyn_balaban_trebnyk_part0_front_matter.md",
+            "title": "Front Matter, Title Page, and Introductory Apparatus",
+            "start_landmark": null
+          },
+          {
+            "id": "part1",
+            "filename": "1606_striatyn_balaban_trebnyk_part1_preface-to-the-reader.md",
+            "title": "PREFACE: TO THE READER",
+            "start_landmark": "^#\\s+PREFACE:\\ TO\\ THE\\ READER(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part2",
+            "filename": "1606_striatyn_balaban_trebnyk_part2_part-i-order-for-the-naming-of-a-child-o.md",
+            "title": "PART I: ORDER FOR THE NAMING OF A CHILD ON THE EIGHTH DAY",
+            "start_landmark": "^#\\s+PART\\ I:\\ ORDER\\ FOR\\ THE\\ NAMING\\ OF\\ A\\ CHILD\\ ON\\ THE\\ EIGHTH\\ DAY(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part3",
+            "filename": "1606_striatyn_balaban_trebnyk_part3_part-ii-canons-of-the-holy-apostles-and.md",
+            "title": "PART II: CANONS OF THE HOLY APOSTLES AND OF THE GOD-BEARING HOLY FATHERS CONCERNING HOLY BAPTISM",
+            "start_landmark": "^#\\s+PART\\ II:\\ CANONS\\ OF\\ THE\\ HOLY\\ APOSTLES\\ AND\\ OF\\ THE\\ GOD\\-BEARING\\ HOLY\\ FATHERS\\ CONCERNING\\ HOLY\\ BAPTISM(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part4",
+            "filename": "1606_striatyn_balaban_trebnyk_part4_part-iii-the-order-of-the-catechumenate.md",
+            "title": "PART III: THE ORDER OF THE CATECHUMENATE FOR THOSE WHO WISH TO BE BAPTIZED",
+            "start_landmark": "^#\\s+PART\\ III:\\ THE\\ ORDER\\ OF\\ THE\\ CATECHUMENATE\\ FOR\\ THOSE\\ WHO\\ WISH\\ TO\\ BE\\ BAPTIZED(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part5",
+            "filename": "1606_striatyn_balaban_trebnyk_part5_part-iv-the-order-of-holy-baptism.md",
+            "title": "PART IV: THE ORDER OF HOLY BAPTISM",
+            "start_landmark": "^#\\s+PART\\ IV:\\ THE\\ ORDER\\ OF\\ HOLY\\ BAPTISM(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part6",
+            "filename": "1606_striatyn_balaban_trebnyk_part6_part-v-the-order-for-the-ablution-of-the.md",
+            "title": "PART V: THE ORDER FOR THE ABLUTION OF THE BAPTIZED ON THE EIGHTH DAY",
+            "start_landmark": "^#\\s+PART\\ V:\\ THE\\ ORDER\\ FOR\\ THE\\ ABLUTION\\ OF\\ THE\\ BAPTIZED\\ ON\\ THE\\ EIGHTH\\ DAY(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part7",
+            "filename": "1606_striatyn_balaban_trebnyk_part7_part-vi-the-order-of-how-it-is-befitting.md",
+            "title": "PART VI: THE ORDER OF HOW IT IS BEFITTING TO RECEIVE THOSE WHO COME TO THE HOLY AND CATHOLIC APOSTOLIC CHURCH FROM HERETICS UNTO THE ORTHODOX FAITH",
+            "start_landmark": "^#\\s+PART\\ VI:\\ THE\\ ORDER\\ OF\\ HOW\\ IT\\ IS\\ BEFITTING\\ TO\\ RECEIVE\\ THOSE\\ WHO\\ COME\\ TO\\ THE\\ HOLY\\ AND\\ CATHOLIC\\ APOSTOLIC\\ CHURCH\\ FROM\\ HERETICS\\ UNTO\\ THE\\ ORTHODOX\\ FAITH(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part8",
+            "filename": "1606_striatyn_balaban_trebnyk_part8_part-vii-the-order-of-how-it-is-befittin.md",
+            "title": "PART VII: THE ORDER OF HOW IT IS BEFITTING TO RECEIVE THOSE COMING FROM THE LATINS UNTO OUR ORTHODOX FAITH",
+            "start_landmark": "^#\\s+PART\\ VII:\\ THE\\ ORDER\\ OF\\ HOW\\ IT\\ IS\\ BEFITTING\\ TO\\ RECEIVE\\ THOSE\\ COMING\\ FROM\\ THE\\ LATINS\\ UNTO\\ OUR\\ ORTHODOX\\ FAITH(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part9",
+            "filename": "1606_striatyn_balaban_trebnyk_part9_part-viii-the-order-that-takes-place-at.md",
+            "title": "PART VIII: THE ORDER THAT TAKES PLACE AT BETROTHAL",
+            "start_landmark": "^#\\s+PART\\ VIII:\\ THE\\ ORDER\\ THAT\\ TAKES\\ PLACE\\ AT\\ BETROTHAL(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part10",
+            "filename": "1606_striatyn_balaban_trebnyk_part10_part-ix-the-order-of-crowning.md",
+            "title": "PART IX: THE ORDER OF CROWNING",
+            "start_landmark": "^#\\s+PART\\ IX:\\ THE\\ ORDER\\ OF\\ CROWNING(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part11",
+            "filename": "1606_striatyn_balaban_trebnyk_part11_part-x-prayer-at-the-dissolution-of-crow.md",
+            "title": "PART X: PRAYER AT THE DISSOLUTION OF CROWNS ON THE EIGHTH DAY",
+            "start_landmark": "^#\\s+PART\\ X:\\ PRAYER\\ AT\\ THE\\ DISSOLUTION\\ OF\\ CROWNS\\ ON\\ THE\\ EIGHTH\\ DAY(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part12",
+            "filename": "1606_striatyn_balaban_trebnyk_part12_part-xi-chapters-of-patriarch-nicephorus.md",
+            "title": "PART XI: CHAPTERS OF PATRIARCH NICEPHORUS CONCERNING DIGAMISTS",
+            "start_landmark": "^#\\s+PART\\ XI:\\ CHAPTERS\\ OF\\ PATRIARCH\\ NICEPHORUS\\ CONCERNING\\ DIGAMISTS(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part13",
+            "filename": "1606_striatyn_balaban_trebnyk_part13_part-xii-the-order-for-a-second-marriage.md",
+            "title": "PART XII: THE ORDER FOR A SECOND MARRIAGE",
+            "start_landmark": "^#\\s+PART\\ XII:\\ THE\\ ORDER\\ FOR\\ A\\ SECOND\\ MARRIAGE(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part14",
+            "filename": "1606_striatyn_balaban_trebnyk_part14_part-xiii-the-order-of-the-holy-oil-chan.md",
+            "title": "PART XIII: THE ORDER OF THE HOLY OIL CHANTED BY SEVEN PRIESTS",
+            "start_landmark": "^#\\s+PART\\ XIII:\\ THE\\ ORDER\\ OF\\ THE\\ HOLY\\ OIL\\ CHANTED\\ BY\\ SEVEN\\ PRIESTS(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part15",
+            "filename": "1606_striatyn_balaban_trebnyk_part15_part-xiv-the-order-performed-when-someon.md",
+            "title": "PART XIV: THE ORDER PERFORMED WHEN SOMEONE WISHES TO CONFESS FROM THE BEGINNING",
+            "start_landmark": "^#\\s+PART\\ XIV:\\ THE\\ ORDER\\ PERFORMED\\ WHEN\\ SOMEONE\\ WISHES\\ TO\\ CONFESS\\ FROM\\ THE\\ BEGINNING(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part16",
+            "filename": "1606_striatyn_balaban_trebnyk_part16_part-xv-the-order-for-confession-how-it.md",
+            "title": "PART XV: THE ORDER FOR CONFESSION: HOW IT IS BEFITTING TO RECEIVE ONE DESIRING TO REPENT AND TO CONFESS HIS SINS",
+            "start_landmark": "^#\\s+PART\\ XV:\\ THE\\ ORDER\\ FOR\\ CONFESSION:\\ HOW\\ IT\\ IS\\ BEFITTING\\ TO\\ RECEIVE\\ ONE\\ DESIRING\\ TO\\ REPENT\\ AND\\ TO\\ CONFESS\\ HIS\\ SINS(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part17",
+            "filename": "1606_striatyn_balaban_trebnyk_part17_part-xvi-the-order-of-holy-communion.md",
+            "title": "PART XVI: THE ORDER OF HOLY COMMUNION",
+            "start_landmark": "^#\\s+PART\\ XVI:\\ THE\\ ORDER\\ OF\\ HOLY\\ COMMUNION(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part18",
+            "filename": "1606_striatyn_balaban_trebnyk_part18_part-xvii-prayers-of-thanksgiving-after.md",
+            "title": "PART XVII: PRAYERS OF THANKSGIVING AFTER HOLY COMMUNION",
+            "start_landmark": "^#\\s+PART\\ XVII:\\ PRAYERS\\ OF\\ THANKSGIVING\\ AFTER\\ HOLY\\ COMMUNION(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part19",
+            "filename": "1606_striatyn_balaban_trebnyk_part19_part-xviii-the-order-of-how-it-is-befitt.md",
+            "title": "PART XVIII: THE ORDER OF HOW IT IS BEFITTING TO GIVE COMMUNION TO A SICK PERSON IN HASTE",
+            "start_landmark": "^#\\s+PART\\ XVIII:\\ THE\\ ORDER\\ OF\\ HOW\\ IT\\ IS\\ BEFITTING\\ TO\\ GIVE\\ COMMUNION\\ TO\\ A\\ SICK\\ PERSON\\ IN\\ HASTE(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part20",
+            "filename": "1606_striatyn_balaban_trebnyk_part20_part-xix-the-order-performed-at-the-sepa.md",
+            "title": "PART XIX: THE ORDER PERFORMED AT THE SEPARATION OF THE SOUL FROM THE BODY",
+            "start_landmark": "^#\\s+PART\\ XIX:\\ THE\\ ORDER\\ PERFORMED\\ AT\\ THE\\ SEPARATION\\ OF\\ THE\\ SOUL\\ FROM\\ THE\\ BODY(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part21",
+            "filename": "1606_striatyn_balaban_trebnyk_part21_part-xx-canonical-chapters-of-patriarch.md",
+            "title": "PART XX: CANONICAL CHAPTERS OF PATRIARCH THEODORE CONCERNING BURIAL IN CHURCHES",
+            "start_landmark": "^#\\s+PART\\ XX:\\ CANONICAL\\ CHAPTERS\\ OF\\ PATRIARCH\\ THEODORE\\ CONCERNING\\ BURIAL\\ IN\\ CHURCHES(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part22",
+            "filename": "1606_striatyn_balaban_trebnyk_part22_part-xxi-the-order-of-burial.md",
+            "title": "PART XXI: THE ORDER OF BURIAL",
+            "start_landmark": "^#\\s+PART\\ XXI:\\ THE\\ ORDER\\ OF\\ BURIAL(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part23",
+            "filename": "1606_striatyn_balaban_trebnyk_part23_part-xxii-prayers-of-absolution-for-ever.md",
+            "title": "PART XXII: PRAYERS OF ABSOLUTION FOR EVERY CURSE AND EXCOMMUNICATION OVER THE DEPARTED",
+            "start_landmark": "^#\\s+PART\\ XXII:\\ PRAYERS\\ OF\\ ABSOLUTION\\ FOR\\ EVERY\\ CURSE\\ AND\\ EXCOMMUNICATION\\ OVER\\ THE\\ DEPARTED(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part24",
+            "filename": "1606_striatyn_balaban_trebnyk_part24_part-xxiii-the-order-for-burial-on-holy.md",
+            "title": "PART XXIII: THE ORDER FOR BURIAL ON HOLY PASCHA AND THROUGHOUT BRIGHT WEEK",
+            "start_landmark": "^#\\s+PART\\ XXIII:\\ THE\\ ORDER\\ FOR\\ BURIAL\\ ON\\ HOLY\\ PASCHA\\ AND\\ THROUGHOUT\\ BRIGHT\\ WEEK(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part25",
+            "filename": "1606_striatyn_balaban_trebnyk_part25_part-xxiv-the-order-for-the-burial-of-an.md",
+            "title": "PART XXIV: THE ORDER FOR THE BURIAL OF AN INFANT",
+            "start_landmark": "^#\\s+PART\\ XXIV:\\ THE\\ ORDER\\ FOR\\ THE\\ BURIAL\\ OF\\ AN\\ INFANT(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part26",
+            "filename": "1606_striatyn_balaban_trebnyk_part26_part-xxv-the-order-of-the-funeral-singin.md",
+            "title": "PART XXV: THE ORDER OF THE FUNERAL SINGING FOR ALL DEPARTED FATHERS AND OUR BRETHREN, AND OTHER DECEASED CHRISTIANS (THE PARASTAS)",
+            "start_landmark": "^#\\s+PART\\ XXV:\\ THE\\ ORDER\\ OF\\ THE\\ FUNERAL\\ SINGING\\ FOR\\ ALL\\ DEPARTED\\ FATHERS\\ AND\\ OUR\\ BRETHREN,\\ AND\\ OTHER\\ DECEASED\\ CHRISTIANS\\ \\(THE\\ PARASTAS\\)(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part27",
+            "filename": "1606_striatyn_balaban_trebnyk_part27_part-xxvi-the-order-that-takes-place-at.md",
+            "title": "PART XXVI: THE ORDER THAT TAKES PLACE AT THE CLOTHING OF THE RASSA",
+            "start_landmark": "^#\\s+PART\\ XXVI:\\ THE\\ ORDER\\ THAT\\ TAKES\\ PLACE\\ AT\\ THE\\ CLOTHING\\ OF\\ THE\\ RASSA(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part28",
+            "filename": "1606_striatyn_balaban_trebnyk_part28_part-xxvii-the-order-of-the-little-schem.md",
+            "title": "PART XXVII: THE ORDER OF THE LITTLE SCHEMA (THAT IS, THE MANTIYA)",
+            "start_landmark": "^#\\s+PART\\ XXVII:\\ THE\\ ORDER\\ OF\\ THE\\ LITTLE\\ SCHEMA\\ \\(THAT\\ IS,\\ THE\\ MANTIYA\\)(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part29",
+            "filename": "1606_striatyn_balaban_trebnyk_part29_part-xxviii-the-order-of-the-great-angel.md",
+            "title": "PART XXVIII: THE ORDER OF THE GREAT ANGELIC HABIT (SCHEMA)",
+            "start_landmark": "^#\\s+PART\\ XXVIII:\\ THE\\ ORDER\\ OF\\ THE\\ GREAT\\ ANGELIC\\ HABIT\\ \\(SCHEMA\\)(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part30",
+            "filename": "1606_striatyn_balaban_trebnyk_part30_part-xxix-the-burial-the-funeral-office.md",
+            "title": "PART XXIX: THE BURIAL: THE FUNERAL OFFICE FOR MONKS",
+            "start_landmark": "^#\\s+PART\\ XXIX:\\ THE\\ BURIAL:\\ THE\\ FUNERAL\\ OFFICE\\ FOR\\ MONKS(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part31",
+            "filename": "1606_striatyn_balaban_trebnyk_part31_part-xxx-the-order-of-the-lesser-sanctif.md",
+            "title": "PART XXX: THE ORDER OF THE LESSER SANCTIFICATION OF WATER",
+            "start_landmark": "^#\\s+PART\\ XXX:\\ THE\\ ORDER\\ OF\\ THE\\ LESSER\\ SANCTIFICATION\\ OF\\ WATER(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part32",
+            "filename": "1606_striatyn_balaban_trebnyk_part32_part-xxxi-the-order-of-the-great-sanctif.md",
+            "title": "PART XXXI: THE ORDER OF THE GREAT SANCTIFICATION OF THE HOLY THEOPHANIES",
+            "start_landmark": "^#\\s+PART\\ XXXI:\\ THE\\ ORDER\\ OF\\ THE\\ GREAT\\ SANCTIFICATION\\ OF\\ THE\\ HOLY\\ THEOPHANIES(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part33",
+            "filename": "1606_striatyn_balaban_trebnyk_part33_part-xxxii-the-order-unto-our-lord-jesus.md",
+            "title": "PART XXXII: THE ORDER UNTO OUR LORD JESUS CHRIST, CHANTED IN GENERAL DROUGHT AND RAINLESSNESS, AND FOR THE TEMPERAMENT OF THE SEASONS, AND FOR THE DRIVING AWAY OF ADVERSE WINDS, AND AT THE INCURSION OF BARBARIANS",
+            "start_landmark": "^#\\s+PART\\ XXXII:\\ THE\\ ORDER\\ UNTO\\ OUR\\ LORD\\ JESUS\\ CHRIST,\\ CHANTED\\ IN\\ GENERAL\\ DROUGHT\\ AND\\ RAINLESSNESS,\\ AND\\ FOR\\ THE\\ TEMPERAMENT\\ OF\\ THE\\ SEASONS,\\ AND\\ FOR\\ THE\\ DRIVING\\ AWAY\\ OF\\ ADVERSE\\ WINDS,\\ AND\\ AT\\ THE\\ INCURSION\\ OF\\ BARBARIANS(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part34",
+            "filename": "1606_striatyn_balaban_trebnyk_part34_part-xxxiii-the-order-that-takes-place-i.md",
+            "title": "PART XXXIII: THE ORDER THAT TAKES PLACE IN TIME OF DROUGHT",
+            "start_landmark": "^#\\s+PART\\ XXXIII:\\ THE\\ ORDER\\ THAT\\ TAKES\\ PLACE\\ IN\\ TIME\\ OF\\ DROUGHT(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part35",
+            "filename": "1606_striatyn_balaban_trebnyk_part35_part-xxxiv-on-the-sunday-of-holy-penteco.md",
+            "title": "PART XXXIV: ON THE SUNDAY OF HOLY PENTECOST",
+            "start_landmark": "^#\\s+PART\\ XXXIV:\\ ON\\ THE\\ SUNDAY\\ OF\\ HOLY\\ PENTECOST(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part36",
+            "filename": "1606_striatyn_balaban_trebnyk_part36_part-xxxv-the-consolatory-service-sung-o.md",
+            "title": "PART XXXV: THE CONSOLATORY [SERVICE], SUNG OR PERFORMED FOR EVERY PETITION",
+            "start_landmark": "^#\\s+PART\\ XXXV:\\ THE\\ CONSOLATORY\\ \\[SERVICE\\],\\ SUNG\\ OR\\ PERFORMED\\ FOR\\ EVERY\\ PETITION(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part37",
+            "filename": "1606_striatyn_balaban_trebnyk_part37_part-xxxvi-the-order-for-the-elevation-o.md",
+            "title": "PART XXXVI: THE ORDER FOR THE ELEVATION OF THE PRECIOUS CROSS",
+            "start_landmark": "^#\\s+PART\\ XXXVI:\\ THE\\ ORDER\\ FOR\\ THE\\ ELEVATION\\ OF\\ THE\\ PRECIOUS\\ CROSS(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part38",
+            "filename": "1606_striatyn_balaban_trebnyk_part38_part-xxxvii-concerning-stauropegia.md",
+            "title": "PART XXXVII: CONCERNING STAUROPEGIA",
+            "start_landmark": "^#\\s+PART\\ XXXVII:\\ CONCERNING\\ STAUROPEGIA(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part39",
+            "filename": "1606_striatyn_balaban_trebnyk_part39_part-xxxviii-prayers-for-every-need.md",
+            "title": "PART XXXVIII: PRAYERS FOR EVERY NEED",
+            "start_landmark": "^#\\s+PART\\ XXXVIII:\\ PRAYERS\\ FOR\\ EVERY\\ NEED(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part40",
+            "filename": "1606_striatyn_balaban_trebnyk_part40_part-xxxix-the-order-performed-in-fields.md",
+            "title": "PART XXXIX: THE ORDER PERFORMED IN FIELDS, OR IN A VINEYARD, OR IN A GARDEN, IF IT CHANCE THAT THEY BE HARMED BY CREEPING THINGS, OR BY OTHER SPECIES [OF PESTS]",
+            "start_landmark": "^#\\s+PART\\ XXXIX:\\ THE\\ ORDER\\ PERFORMED\\ IN\\ FIELDS,\\ OR\\ IN\\ A\\ VINEYARD,\\ OR\\ IN\\ A\\ GARDEN,\\ IF\\ IT\\ CHANCE\\ THAT\\ THEY\\ BE\\ HARMED\\ BY\\ CREEPING\\ THINGS,\\ OR\\ BY\\ OTHER\\ SPECIES\\ \\[OF\\ PESTS\\](?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part41",
+            "filename": "1606_striatyn_balaban_trebnyk_part41_part-xl-the-office-for-priests-tempted-i.md",
+            "title": "PART XL: THE OFFICE FOR PRIESTS TEMPTED IN SLEEP",
+            "start_landmark": "^#\\s+PART\\ XL:\\ THE\\ OFFICE\\ FOR\\ PRIESTS\\ TEMPTED\\ IN\\ SLEEP(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part42",
+            "filename": "1606_striatyn_balaban_trebnyk_part42_part-xli-occasional-prayers-consolatory.md",
+            "title": "PART XLI: OCCASIONAL PRAYERS: CONSOLATORY PRAYER AT ANY LITIYA",
+            "start_landmark": "^#\\s+PART\\ XLI:\\ OCCASIONAL\\ PRAYERS:\\ CONSOLATORY\\ PRAYER\\ AT\\ ANY\\ LITIYA(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part43",
+            "filename": "1606_striatyn_balaban_trebnyk_part43_part-xlii-the-office-in-time-of-the-inva.md",
+            "title": "PART XLII: THE OFFICE IN TIME OF THE INVASION OF BARBARIANS AND THE INCURSION OF FOREIGN NATIONS",
+            "start_landmark": "^#\\s+PART\\ XLII:\\ THE\\ OFFICE\\ IN\\ TIME\\ OF\\ THE\\ INVASION\\ OF\\ BARBARIANS\\ AND\\ THE\\ INCURSION\\ OF\\ FOREIGN\\ NATIONS(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part44",
+            "filename": "1606_striatyn_balaban_trebnyk_part44_part-xliii-canon-unto-the-holy-consubsta.md",
+            "title": "PART XLIII: CANON UNTO THE HOLY, CONSUBSTANTIAL, LIFE-CREATING, AND UNDIVIDED TRINITY, AND UNTO ALL SAINTS, FOR THE OVERCOMING OF THE PESTILENTIAL SICKNESS",
+            "start_landmark": "^#\\s+PART\\ XLIII:\\ CANON\\ UNTO\\ THE\\ HOLY,\\ CONSUBSTANTIAL,\\ LIFE\\-CREATING,\\ AND\\ UNDIVIDED\\ TRINITY,\\ AND\\ UNTO\\ ALL\\ SAINTS,\\ FOR\\ THE\\ OVERCOMING\\ OF\\ THE\\ PESTILENTIAL\\ SICKNESS(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part45",
+            "filename": "1606_striatyn_balaban_trebnyk_part45_part-xliv-on-the-elevation-of-the-panagi.md",
+            "title": "PART XLIV: ON THE ELEVATION OF THE PANAGIA, WHEN ANYONE WISHES TO GO FORTH UNTO MERCHANDISE",
+            "start_landmark": "^#\\s+PART\\ XLIV:\\ ON\\ THE\\ ELEVATION\\ OF\\ THE\\ PANAGIA,\\ WHEN\\ ANYONE\\ WISHES\\ TO\\ GO\\ FORTH\\ UNTO\\ MERCHANDISE(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part46",
+            "filename": "1606_striatyn_balaban_trebnyk_part46_part-xlv-the-order-for-a-furnace-kiln.md",
+            "title": "PART XLV: THE ORDER FOR A FURNACE [KILN]",
+            "start_landmark": "^#\\s+PART\\ XLV:\\ THE\\ ORDER\\ FOR\\ A\\ FURNACE\\ \\[KILN\\](?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part47",
+            "filename": "1606_striatyn_balaban_trebnyk_part47_part-xlvi-the-order-over-children-depart.md",
+            "title": "PART XLVI: THE ORDER OVER CHILDREN DEPARTING TO LEARN THE SACRED SCRIPTURES",
+            "start_landmark": "^#\\s+PART\\ XLVI:\\ THE\\ ORDER\\ OVER\\ CHILDREN\\ DEPARTING\\ TO\\ LEARN\\ THE\\ SACRED\\ SCRIPTURES(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part48",
+            "filename": "1606_striatyn_balaban_trebnyk_part48_part-xlvii-the-order-concerning-the-comm.md",
+            "title": "PART XLVII: THE ORDER CONCERNING THE COMMUNION OF THE HOLY WATER OF THE THEOPHANY OF THE GREAT SANCTIFICATION",
+            "start_landmark": "^#\\s+PART\\ XLVII:\\ THE\\ ORDER\\ CONCERNING\\ THE\\ COMMUNION\\ OF\\ THE\\ HOLY\\ WATER\\ OF\\ THE\\ THEOPHANY\\ OF\\ THE\\ GREAT\\ SANCTIFICATION(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part49",
+            "filename": "1606_striatyn_balaban_trebnyk_part49_part-xlviii-the-order-over-the-compoundi.md",
+            "title": "PART XLVIII: THE ORDER OVER THE COMPOUNDING OF THE HOLY GREAT MYRON, CELEBRATED ON HOLY AND GREAT THURSDAY",
+            "start_landmark": "^#\\s+PART\\ XLVIII:\\ THE\\ ORDER\\ OVER\\ THE\\ COMPOUNDING\\ OF\\ THE\\ HOLY\\ GREAT\\ MYRON,\\ CELEBRATED\\ ON\\ HOLY\\ AND\\ GREAT\\ THURSDAY(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part50",
+            "filename": "1606_striatyn_balaban_trebnyk_part50_part-xlix-prayers-at-the-blessing-and-br.md",
+            "title": "PART XLIX: PRAYERS AT THE BLESSING AND BREAKING OF THE ARTOS",
+            "start_landmark": "^#\\s+PART\\ XLIX:\\ PRAYERS\\ AT\\ THE\\ BLESSING\\ AND\\ BREAKING\\ OF\\ THE\\ ARTOS(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part51",
+            "filename": "1606_striatyn_balaban_trebnyk_part51_part-l-epistle-of-john-most-holy-bishop.md",
+            "title": "PART L: EPISTLE OF JOHN, MOST HOLY BISHOP OF KITROS, UNTO THE MOST SACRED BISHOP OF DYRRACHIUM, CABASILAS: ON THE DISPENSATION OF FOODS IN THE HANDED-DOWN WEEKS, AND WHICH THESE ARE",
+            "start_landmark": "^#\\s+PART\\ L:\\ EPISTLE\\ OF\\ JOHN,\\ MOST\\ HOLY\\ BISHOP\\ OF\\ KITROS,\\ UNTO\\ THE\\ MOST\\ SACRED\\ BISHOP\\ OF\\ DYRRACHIUM,\\ CABASILAS:\\ ON\\ THE\\ DISPENSATION\\ OF\\ FOODS\\ IN\\ THE\\ HANDED\\-DOWN\\ WEEKS,\\ AND\\ WHICH\\ THESE\\ ARE(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part52",
+            "filename": "1606_striatyn_balaban_trebnyk_part52_part-li-again-diverse-injunctions-of-the.md",
+            "title": "PART LI: AGAIN: DIVERSE INJUNCTIONS OF THE HOLY APOSTLES AND OF THE GOD-BEARING HOLY FATHERS",
+            "start_landmark": "^#\\s+PART\\ LI:\\ AGAIN:\\ DIVERSE\\ INJUNCTIONS\\ OF\\ THE\\ HOLY\\ APOSTLES\\ AND\\ OF\\ THE\\ GOD\\-BEARING\\ HOLY\\ FATHERS(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part53",
+            "filename": "1606_striatyn_balaban_trebnyk_part53_part-lii-again-other-injunctions-from-th.md",
+            "title": "PART LII: AGAIN: OTHER INJUNCTIONS FROM THE BOOKS OF THE LAW: CONCERNING DEGREES OF KINSHIP",
+            "start_landmark": "^#\\s+PART\\ LII:\\ AGAIN:\\ OTHER\\ INJUNCTIONS\\ FROM\\ THE\\ BOOKS\\ OF\\ THE\\ LAW:\\ CONCERNING\\ DEGREES\\ OF\\ KINSHIP(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part54",
+            "filename": "1606_striatyn_balaban_trebnyk_part54_part-liii-degrees-of-kinship-and-concern.md",
+            "title": "PART LIII: DEGREES OF KINSHIP: AND CONCERNING LAWFUL MARRIAGE, AND THOSE WHO MARRY UNLAWFULLY, AND CONCERNING THE DISTINCTION OF KINSHIP WHICH IS OF FLESH AND BLOOD",
+            "start_landmark": "^#\\s+PART\\ LIII:\\ DEGREES\\ OF\\ KINSHIP:\\ AND\\ CONCERNING\\ LAWFUL\\ MARRIAGE,\\ AND\\ THOSE\\ WHO\\ MARRY\\ UNLAWFULLY,\\ AND\\ CONCERNING\\ THE\\ DISTINCTION\\ OF\\ KINSHIP\\ WHICH\\ IS\\ OF\\ FLESH\\ AND\\ BLOOD(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part55",
+            "filename": "1606_striatyn_balaban_trebnyk_part55_part-liv-concerning-carrion-abominations.md",
+            "title": "PART LIV: CONCERNING CARRION [ABOMINATIONS] WHICH IT IS NOT BEFITTING TO EAT",
+            "start_landmark": "^#\\s+PART\\ LIV:\\ CONCERNING\\ CARRION\\ \\[ABOMINATIONS\\]\\ WHICH\\ IT\\ IS\\ NOT\\ BEFITTING\\ TO\\ EAT(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part56",
+            "filename": "1606_striatyn_balaban_trebnyk_part56_part-lv-concerning-those-who-abduct-wome.md",
+            "title": "PART LV: CONCERNING THOSE WHO ABDUCT WOMEN FOR MARRIAGE",
+            "start_landmark": "^#\\s+PART\\ LV:\\ CONCERNING\\ THOSE\\ WHO\\ ABDUCT\\ WOMEN\\ FOR\\ MARRIAGE(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part57",
+            "filename": "1606_striatyn_balaban_trebnyk_part57_part-lvi-colophon-imprint-of-the-striaty.md",
+            "title": "PART LVI: COLOPHON & IMPRINT OF THE STRIATYN TREBNYK",
+            "start_landmark": "^#\\s+PART\\ LVI:\\ COLOPHON\\ \\&\\ IMPRINT\\ OF\\ THE\\ STRIATYN\\ TREBNYK(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part58",
+            "filename": "1606_striatyn_balaban_trebnyk_part58_part-lvii-table-of-contents-оглавленіе-в.md",
+            "title": "PART LVII: TABLE OF CONTENTS (ОГЛАВЛЕНІЕ ВЪСЛѢДОВАНІЙ)",
+            "start_landmark": "^#\\s+PART\\ LVII:\\ TABLE\\ OF\\ CONTENTS\\ \\(ОГЛАВЛЕНІЕ\\ ВЪСЛѢДОВАНІЙ\\)(?:\\s*\\[\\^\\d+\\])*$"
+          }
+        ],
+        "footnotes_filename": "1606_striatyn_balaban_trebnyk_footnotes.md"
+      }
     },
     "1617_kyiv_kopystensky_horologion": {
       "monument_id": "1617_kyiv_kopystensky_horologion",

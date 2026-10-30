@@ -1,0 +1,496 @@
+{
+  "schema_version": "1.0.0",
+  "description": "Comprehensive Physical Podoben Invocation Concordance for 17th-Century Carpathian-Galician Manuscript Octoechos (Октоїх рукописний, Прикарпаття, XVII ст.)",
+  "summary": {
+    "monument_id": "1600s_prykarpattia_ms_octoechos",
+    "total_podoben_invocations": 20,
+    "distinct_model_families": 16,
+    "tones_represented": [
+      1,
+      3,
+      4,
+      6,
+      8
+    ],
+    "families": [
+      {
+        "model_id": "POD.T1.GROB_TVOI_SPASE",
+        "tone": 1,
+        "prescribed_model": "While the soldiers were guarding Thy tomb",
+        "byzantine_greek_automelon": "Τὸν τάφον σου Σωτήρ",
+        "total_invocations": 1,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      },
+      {
+        "model_id": "POD.T1.NEBESNYKH_CHINOV",
+        "tone": 1,
+        "prescribed_model": "Joy of the heavenly ranks",
+        "byzantine_greek_automelon": "Τῶν οὐρανίων ταγμάτων",
+        "total_invocations": 1,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      },
+      {
+        "model_id": "POD.T4.YAVILSYA_ESI_DNESS",
+        "tone": 4,
+        "prescribed_model": "Thou hast appeared today",
+        "byzantine_greek_automelon": "Ἐπεφάνης σήμερον",
+        "total_invocations": 1,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      },
+      {
+        "model_id": "POD.T6.EZHE_O_NAS",
+        "tone": 6,
+        "prescribed_model": "Fulfilling the dispensation for our sake",
+        "byzantine_greek_automelon": "Τὴν ὑπὲρ ἡμῶν πληρώσας οἰκονομίαν",
+        "total_invocations": 2,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      },
+      {
+        "model_id": "POD.T8.POVELENNOE_TAINSTVENNO",
+        "tone": 8,
+        "prescribed_model": "That which was commanded mystically",
+        "byzantine_greek_automelon": "Τὸ προσταχθὲν μυστικῶς",
+        "total_invocations": 3,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      },
+      {
+        "model_id": "POD.T8.UNKNOWN",
+        "tone": 8,
+        "prescribed_model": "The same",
+        "byzantine_greek_automelon": "—",
+        "total_invocations": 1,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      },
+      {
+        "model_id": "POD.T8.GOSPODI_ASHCHE_I_NA_SUDISHCHI",
+        "tone": 8,
+        "prescribed_model": "O Lord, though Thou didst stand before the tribunal",
+        "byzantine_greek_automelon": "Κύριε, εἰ καὶ κριτηρίῳ παρέστης",
+        "total_invocations": 1,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      },
+      {
+        "model_id": "POD.T2.EGDA_OT_DREVA",
+        "tone": 8,
+        "prescribed_model": "When from the Tree",
+        "byzantine_greek_automelon": "Ὅτε ἐκ τοῦ ξύλου",
+        "total_invocations": 1,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      },
+      {
+        "model_id": "POD.T8.SAME",
+        "tone": 8,
+        "prescribed_model": "The same (то́йже)",
+        "byzantine_greek_automelon": "Τὸ αὐτό",
+        "total_invocations": 1,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      },
+      {
+        "model_id": "POD.T3.VELIA_KRESTA_TVOEGO",
+        "tone": 3,
+        "prescribed_model": "Great is the power of Thy Cross, O Lord",
+        "byzantine_greek_automelon": "Μεγάλη τοῦ Σταυροῦ σου, Κύριε",
+        "total_invocations": 1,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      },
+      {
+        "model_id": "POD.T4.YAKO_DOBLYA",
+        "tone": 4,
+        "prescribed_model": "As one valiant among martyrs",
+        "byzantine_greek_automelon": "Ὡς γενναῖον ἐν Μάρτυσιν",
+        "total_invocations": 1,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      },
+      {
+        "model_id": "POD.T3.DEVA_DNESS",
+        "tone": 3,
+        "prescribed_model": "Today the Virgin",
+        "byzantine_greek_automelon": "Ἡ Παρθένος σήμερον",
+        "total_invocations": 1,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      },
+      {
+        "model_id": "POD.T8.CHTO_VAS_NARECHEM",
+        "tone": 8,
+        "prescribed_model": "What shall we call you, O holy ones",
+        "byzantine_greek_automelon": "Τί ὑμᾶς καλέσωμεν ἅγιοι",
+        "total_invocations": 2,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      },
+      {
+        "model_id": "POD.T8.PREMUDROSTI_NASTAVNICHE",
+        "tone": 8,
+        "prescribed_model": "Guiding unto wisdom",
+        "byzantine_greek_automelon": "Τῆς σοφίας ὁδηγέ",
+        "total_invocations": 1,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      },
+      {
+        "model_id": "POD.T8.YAKO_NACHATKI_ESTESTVA",
+        "tone": 8,
+        "prescribed_model": "As first-fruits of nature",
+        "byzantine_greek_automelon": "Ὡς ἀπαρχὰς τῆς φύσεως",
+        "total_invocations": 1,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      },
+      {
+        "model_id": "POD.T8.O_PRESLAVNAGO_CHUDESE",
+        "tone": 8,
+        "prescribed_model": "O most marvelous wonder",
+        "byzantine_greek_automelon": "Ὢ τοῦ παραδόξου θαύματος",
+        "total_invocations": 1,
+        "first_locus": "f. 1rA (p1)",
+        "attested_loci": [
+          "f. 1rA (p1)"
+        ]
+      }
+    ]
+  },
+  "invocations": [
+    {
+      "index": 1,
+      "tone": 1,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "SUNDAY MIDNIGHT OFFICE (TONE 1)",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "Гробъ твои",
+      "verbatim_slavonic_witness": "Гробъ твои",
+      "normalized_rubric": "*Podoben: \"While the soldiers were guarding Thy tomb\" (Гробъ твои):* [^9]",
+      "prescribed_model": "While the soldiers were guarding Thy tomb",
+      "model_id": "POD.T1.GROB_TVOI_SPASE",
+      "byzantine_greek_automelon": "Τὸν τάφον σου Σωτήρ",
+      "governed_hymn_opening": "O All-Effecting Trinity and All-Good Unity, receive the supplications of..."
+    },
+    {
+      "index": 2,
+      "tone": 1,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "SUNDAY MIDNIGHT OFFICE (TONE 1)",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "Небе́сныхъ чинѡ́въ",
+      "verbatim_slavonic_witness": "Небе́сныхъ чинѡ́въ",
+      "normalized_rubric": "*Podoben: \"Joy of the heavenly ranks\" (Небе́сныхъ чинѡ́въ):*",
+      "prescribed_model": "Joy of the heavenly ranks",
+      "model_id": "POD.T1.NEBESNYKH_CHINOV",
+      "byzantine_greek_automelon": "Τῶν οὐρανίων ταγμάτων",
+      "governed_hymn_opening": "Falling down before Thee in faith, we cry out from..."
+    },
+    {
+      "index": 3,
+      "tone": 4,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "SUNDAY MATINS (TONE 4)",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "Явился еси",
+      "verbatim_slavonic_witness": "Явился еси",
+      "normalized_rubric": "*Podoben: \"Thou hast appeared today\" (Явился еси):* [^84]",
+      "prescribed_model": "Thou hast appeared today",
+      "model_id": "POD.T4.YAVILSYA_ESI_DNESS",
+      "byzantine_greek_automelon": "Ἐπεφάνης σήμερον",
+      "governed_hymn_opening": "My Savior and Redeemer, as God, having raised the earthborn..."
+    },
+    {
+      "index": 4,
+      "tone": 6,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "SUNDAY MIDNIGHT OFFICE (TONE 6)",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "то́йже",
+      "verbatim_slavonic_witness": "то́йже",
+      "normalized_rubric": "*Podoben: \"Fulfilling the dispensation for our sake\" (\"Еже ѡ насъ\" (Исполнивъ смотрѣніе)):*",
+      "prescribed_model": "Fulfilling the dispensation for our sake",
+      "model_id": "POD.T6.EZHE_O_NAS",
+      "byzantine_greek_automelon": "Τὴν ὑπὲρ ἡμῶν πληρώσας οἰκονομίαν",
+      "governed_hymn_opening": "O Master God, look down from heaven and behold our..."
+    },
+    {
+      "index": 5,
+      "tone": 6,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "SUNDAY MIDNIGHT OFFICE (TONE 6)",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "то́йже",
+      "verbatim_slavonic_witness": "то́йже",
+      "normalized_rubric": "*Podoben: \"Fulfilling the dispensation for our sake\" (\"Еже ѡ насъ\" (Исполнивъ смотрѣніе)):*",
+      "prescribed_model": "Fulfilling the dispensation for our sake",
+      "model_id": "POD.T6.EZHE_O_NAS",
+      "byzantine_greek_automelon": "Τὴν ὑπὲρ ἡμῶν πληρώσας οἰκονομίαν",
+      "governed_hymn_opening": "O Father and Son, with the Holy Spirit: look upon..."
+    },
+    {
+      "index": 6,
+      "tone": 8,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "SUNDAY MIDNIGHT OFFICE (TONE 8)",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "то́йже",
+      "verbatim_slavonic_witness": "то́йже",
+      "normalized_rubric": "*Podoben: \"That which was commanded mystically\" (Повеленное таинственно (Повеленное)):*",
+      "prescribed_model": "That which was commanded mystically",
+      "model_id": "POD.T8.POVELENNOE_TAINSTVENNO",
+      "byzantine_greek_automelon": "Τὸ προσταχθὲν μυστικῶς",
+      "governed_hymn_opening": "Ye faithful, let us now hymn the power of the..."
+    },
+    {
+      "index": 7,
+      "tone": 8,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "SUNDAY MIDNIGHT OFFICE (TONE 8)",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "то́йже",
+      "verbatim_slavonic_witness": "то́йже",
+      "normalized_rubric": "*Podoben: \"That which was commanded mystically\" (Повеленное таинственно (Повеленное)):*",
+      "prescribed_model": "That which was commanded mystically",
+      "model_id": "POD.T8.POVELENNOE_TAINSTVENNO",
+      "byzantine_greek_automelon": "Τὸ προσταχθὲν μυστικῶς",
+      "governed_hymn_opening": "Ye faithful, let us truly hymn with our mouths the..."
+    },
+    {
+      "index": 8,
+      "tone": 8,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "SUNDAY MATINS (TONE 8)",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "Премудрости",
+      "verbatim_slavonic_witness": "Премудрости",
+      "normalized_rubric": "*Glory... Podoben: \"The disciple of wisdom\" (Премудрости):*",
+      "prescribed_model": "The same",
+      "model_id": "POD.T8.UNKNOWN",
+      "byzantine_greek_automelon": "—",
+      "governed_hymn_opening": "Having truly risen from the tomb, Thou didst command the..."
+    },
+    {
+      "index": 9,
+      "tone": 8,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "SUNDAY EVENING VESPERS (TONE 8)",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "Господи, аще и на судищи",
+      "verbatim_slavonic_witness": "Господи, аще и на судищи",
+      "normalized_rubric": "*Podoben: \"O Lord, though Thou didst stand before the tribunal\" (Господи, аще и на судищи):*",
+      "prescribed_model": "O Lord, though Thou didst stand before the tribunal",
+      "model_id": "POD.T8.GOSPODI_ASHCHE_I_NA_SUDISHCHI",
+      "byzantine_greek_automelon": "Κύριε, εἰ καὶ κριτηρίῳ παρέστης",
+      "governed_hymn_opening": "*Sticheron 1:*"
+    },
+    {
+      "index": 10,
+      "tone": 8,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "MONDAY MATINS: REPENTANCE AND THE BODILESS POWERS (TONE 8)",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "Повелѣ́нное та́инственно",
+      "verbatim_slavonic_witness": "Повелѣ́нное та́инственно",
+      "normalized_rubric": "*Podoben: \"That which was commanded mystically\" (Повелѣ́нное та́инственно):*",
+      "prescribed_model": "That which was commanded mystically",
+      "model_id": "POD.T8.POVELENNOE_TAINSTVENNO",
+      "byzantine_greek_automelon": "Τὸ προσταχθὲν μυστικῶς",
+      "governed_hymn_opening": "*Theotokion:*"
+    },
+    {
+      "index": 11,
+      "tone": 8,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "MONDAY EVENING VESPERS (FOR TUESDAY) (TONE 8)",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "Е҆гда̀ ѿ дре́ва",
+      "verbatim_slavonic_witness": "Е҆гда̀ ѿ дре́ва",
+      "normalized_rubric": "*Podoben: \"When from the Tree\" (Е҆гда̀ ѿ дре́ва):*",
+      "prescribed_model": "When from the Tree",
+      "model_id": "POD.T2.EGDA_OT_DREVA",
+      "byzantine_greek_automelon": "Ὅτε ἐκ τοῦ ξύλου",
+      "governed_hymn_opening": "*Sticheron 1:*"
+    },
+    {
+      "index": 12,
+      "tone": 8,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "MONDAY EVENING VESPERS (FOR TUESDAY) (TONE 8)",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "Гла́съ и҆ подо́бенъ то́йже",
+      "verbatim_slavonic_witness": "Гла́съ и҆ подо́бенъ то́йже",
+      "normalized_rubric": "*Podoben: \"The same Tone and Podoben\" (Гла́съ и҆ подо́бенъ то́йже):*",
+      "prescribed_model": "The same (то́йже)",
+      "model_id": "POD.T8.SAME",
+      "byzantine_greek_automelon": "Τὸ αὐτό",
+      "governed_hymn_opening": "*Sticheron 4:*"
+    },
+    {
+      "index": 13,
+      "tone": 3,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "TUESDAY EVENING VESPERS (FOR WEDNESDAY) (TONE 8)",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "Ве́лія Крⷭ҇та̀ твоегѡ̀ Гдⷭ҇и",
+      "verbatim_slavonic_witness": "Ве́лія Крⷭ҇та̀ твоегѡ̀ Гдⷭ҇и",
+      "normalized_rubric": "*Podoben: \"Great is the power of Thy Cross, O Lord\" (Ве́лія Крⷭ҇та̀ твоегѡ̀ Гдⷭ҇и):*",
+      "prescribed_model": "Great is the power of Thy Cross, O Lord",
+      "model_id": "POD.T3.VELIA_KRESTA_TVOEGO",
+      "byzantine_greek_automelon": "Μεγάλη τοῦ Σταυροῦ σου, Κύριε",
+      "governed_hymn_opening": "*Sticheron 1:*"
+    },
+    {
+      "index": 14,
+      "tone": 4,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "WEDNESDAY EVENING VESPERS (FOR THURSDAY) (TONE 8)",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "Я҆́кѡ до́бля",
+      "verbatim_slavonic_witness": "Я҆́кѡ до́бля",
+      "normalized_rubric": "*Podoben: \"As one valiant among martyrs\" (Я҆́кѡ до́бля):*",
+      "prescribed_model": "As one valiant among martyrs",
+      "model_id": "POD.T4.YAKO_DOBLYA",
+      "byzantine_greek_automelon": "Ὡς γενναῖον ἐν Μάρτυσιν",
+      "governed_hymn_opening": "*Sticheron 1:*"
+    },
+    {
+      "index": 15,
+      "tone": 3,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "THURSDAY MATINS: THE HOLY APOSTLES AND ST. NICHOLAS (TONE 8)",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "Дѣ́ва дне́сь",
+      "verbatim_slavonic_witness": "Дѣ́ва дне́сь",
+      "normalized_rubric": "*Podoben: \"Today the Virgin\" (Дѣ́ва дне́сь):*",
+      "prescribed_model": "Today the Virgin",
+      "model_id": "POD.T3.DEVA_DNESS",
+      "byzantine_greek_automelon": "Ἡ Παρθένος σήμερον",
+      "governed_hymn_opening": "In Myra, O holy Nicholas, thou wast shown forth as..."
+    },
+    {
+      "index": 16,
+      "tone": 8,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "FRIDAY EVENING VESPERS (FOR SATURDAY) (TONE 8)",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "Что вы наречемъ",
+      "verbatim_slavonic_witness": "Что вы наречемъ",
+      "normalized_rubric": "*Podoben: \"What shall we call you, O holy ones\" (Что вы наречемъ):*",
+      "prescribed_model": "What shall we call you, O holy ones",
+      "model_id": "POD.T8.CHTO_VAS_NARECHEM",
+      "byzantine_greek_automelon": "Τί ὑμᾶς καλέσωμεν ἅγιοι",
+      "governed_hymn_opening": "*Sticheron 1:*"
+    },
+    {
+      "index": 17,
+      "tone": 8,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "SATURDAY MATINS: ALL SAINTS, MARTYRS, AND THE DEPARTED (TONE 8)",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "Премꙋ́дрости наста́вниче",
+      "verbatim_slavonic_witness": "Премꙋ́дрости наста́вниче",
+      "normalized_rubric": "*Podoben: \"Guiding unto wisdom\" (Премꙋ́дрости наста́вниче):*",
+      "prescribed_model": "Guiding unto wisdom",
+      "model_id": "POD.T8.PREMUDROSTI_NASTAVNICHE",
+      "byzantine_greek_automelon": "Τῆς σοφίας ὁδηγέ",
+      "governed_hymn_opening": "*Sessional Hymn 1:*"
+    },
+    {
+      "index": 18,
+      "tone": 8,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "SATURDAY MATINS: ALL SAINTS, MARTYRS, AND THE DEPARTED (TONE 8)",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "Я҆́кѡ нача́тки е҆стества̀",
+      "verbatim_slavonic_witness": "Я҆́кѡ нача́тки е҆стества̀",
+      "normalized_rubric": "*Podoben: \"As first-fruits of nature\" (Я҆́кѡ нача́тки е҆стества̀):*",
+      "prescribed_model": "As first-fruits of nature",
+      "model_id": "POD.T8.YAKO_NACHATKI_ESTESTVA",
+      "byzantine_greek_automelon": "Ὡς ἀπαρχὰς τῆς φύσεως",
+      "governed_hymn_opening": "As the first-fruits of nature, unto the Creator of creation..."
+    },
+    {
+      "index": 19,
+      "tone": 8,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "SATURDAY MATINS: ALL SAINTS, MARTYRS, AND THE DEPARTED (TONE 8)",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "Что вы наречемъ",
+      "verbatim_slavonic_witness": "Что вы наречемъ",
+      "normalized_rubric": "*Podoben: \"What shall we call you, O holy ones\" (Что вы наречемъ):*",
+      "prescribed_model": "What shall we call you, O holy ones",
+      "model_id": "POD.T8.CHTO_VAS_NARECHEM",
+      "byzantine_greek_automelon": "Τί ὑμᾶς καλέσωμεν ἅγιοι",
+      "governed_hymn_opening": "*Sticheron 1:*"
+    },
+    {
+      "index": 20,
+      "tone": 8,
+      "locus": "f. 1rA",
+      "leaf": "p1",
+      "office": "SATURDAY MATINS: ALL SAINTS, MARTYRS, AND THE DEPARTED (TONE 8)",
+      "section": "At 'Lord, I have cried'",
+      "verbatim_1630_slavonic": "О преслав",
+      "verbatim_slavonic_witness": "О преслав",
+      "normalized_rubric": "*Podoben: \"O most marvelous wonder\" (О преслав):*",
+      "prescribed_model": "O most marvelous wonder",
+      "model_id": "POD.T8.O_PRESLAVNAGO_CHUDESE",
+      "byzantine_greek_automelon": "Ὢ τοῦ παραδόξου θαύματος",
+      "governed_hymn_opening": "*Sticheron 1:*"
+    }
+  ]
+}

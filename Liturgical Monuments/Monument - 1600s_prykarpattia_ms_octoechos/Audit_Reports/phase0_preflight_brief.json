@@ -1,0 +1,182 @@
+{
+  "monument_id": "1600s_prykarpattia_ms_octoechos",
+  "title": "17th-Century Carpathian-Galician Manuscript Octoechos (Октоїх рукописний, Прикарпаття, XVII ст.)",
+  "total_physical_pages": 222,
+  "default_cohort_size": 10,
+  "total_cohorts": 23,
+  "vision_budget_contract": {
+    "max_vision_batches": 2,
+    "max_total_leaves": 8,
+    "allowed_front_leaves": [
+      "p1",
+      "p2",
+      "p3",
+      "p4",
+      "p5"
+    ],
+    "allowed_rear_leaves": [
+      "p220",
+      "p221",
+      "p222"
+    ],
+    "forbidden_internal_range": "p6..p219",
+    "forbid_internal_binary_search": true
+  },
+  "cohort_partition_table": [
+    {
+      "cohort": 1,
+      "start_page": 1,
+      "end_page": 10,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 2,
+      "start_page": 11,
+      "end_page": 20,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 3,
+      "start_page": 21,
+      "end_page": 30,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 4,
+      "start_page": 31,
+      "end_page": 40,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 5,
+      "start_page": 41,
+      "end_page": 50,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 6,
+      "start_page": 51,
+      "end_page": 60,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 7,
+      "start_page": 61,
+      "end_page": 70,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 8,
+      "start_page": 71,
+      "end_page": 80,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 9,
+      "start_page": 81,
+      "end_page": 90,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 10,
+      "start_page": 91,
+      "end_page": 100,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 11,
+      "start_page": 101,
+      "end_page": 110,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 12,
+      "start_page": 111,
+      "end_page": 120,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 13,
+      "start_page": 121,
+      "end_page": 130,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 14,
+      "start_page": 131,
+      "end_page": 140,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 15,
+      "start_page": 141,
+      "end_page": 150,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 16,
+      "start_page": 151,
+      "end_page": 160,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 17,
+      "start_page": 161,
+      "end_page": 170,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 18,
+      "start_page": 171,
+      "end_page": 180,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 19,
+      "start_page": 181,
+      "end_page": 190,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 20,
+      "start_page": 191,
+      "end_page": 200,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 21,
+      "start_page": 201,
+      "end_page": 210,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 22,
+      "start_page": 211,
+      "end_page": 220,
+      "leaf_count": 10
+    },
+    {
+      "cohort": 23,
+      "start_page": 221,
+      "end_page": 222,
+      "leaf_count": 2
+    }
+  ],
+  "cohort_markdown_table": "| Cohort | Physical Leaves | Leaf Count |\n| :---: | :---: | :---: |\n| **Cohort 1** | `p1`–`p10` | 10 |\n| **Cohort 2** | `p11`–`p20` | 10 |\n| **Cohort 3** | `p21`–`p30` | 10 |\n| **Cohort 4** | `p31`–`p40` | 10 |\n| **Cohort 5** | `p41`–`p50` | 10 |\n| **Cohort 6** | `p51`–`p60` | 10 |\n| **Cohort 7** | `p61`–`p70` | 10 |\n| **Cohort 8** | `p71`–`p80` | 10 |\n| **Cohort 9** | `p81`–`p90` | 10 |\n| **Cohort 10** | `p91`–`p100` | 10 |\n| **Cohort 11** | `p101`–`p110` | 10 |\n| **Cohort 12** | `p111`–`p120` | 10 |\n| **Cohort 13** | `p121`–`p130` | 10 |\n| **Cohort 14** | `p131`–`p140` | 10 |\n| **Cohort 15** | `p141`–`p150` | 10 |\n| **Cohort 16** | `p151`–`p160` | 10 |\n| **Cohort 17** | `p161`–`p170` | 10 |\n| **Cohort 18** | `p171`–`p180` | 10 |\n| **Cohort 19** | `p181`–`p190` | 10 |\n| **Cohort 20** | `p191`–`p200` | 10 |\n| **Cohort 21** | `p201`–`p210` | 10 |\n| **Cohort 22** | `p211`–`p220` | 10 |\n| **Cohort 23** | `p221`–`p222` | 2 |",
+  "recommended_publication_spec": {
+    "mode": "universal_dynamic_h1",
+    "hub_inbox_folder": "17th-Century_Carpathian-Galician_Manuscript_Octoechos",
+    "master_title": "17th-Century Carpathian-Galician Manuscript Octoechos (Октоїх рукописний, Прикарпаття, XVII ст.)",
+    "parts_strategy": "Automatically slices top-level '# <Heading>' divisions discovered in translated Markdown during Phase 2 (--compile-publication).",
+    "footnotes_filename": "1600s_prykarpattia_ms_octoechos_footnotes.md"
+  },
+  "flash_execution_guardrails": [],
+  "engine_codified_decisions": {
+    "melodic_models_podobny": "3-Layer Canonical Standard enforced by hymnographic_gold_normalizer.py: *Tone N, Podoben: \"<Canonical English Incipit>\" (<Slavonic Witness>):* (never transliterated-first or square-bracketed).",
+    "heading_and_rubric_hierarchy": "H1 (#) reserved strictly for Part landmarks in publication_spec; H2 (##) allowed only for primary printed day/service headpieces when H1 & H2 is enabled in flash_execution_guardrails; all sub-services, hours, canons, odes, heirmoi, troparia, and rubrics rendered as inline italics (*...*), never ### or ####.",
+    "canon_and_stanza_typography": "Structured Liturgical Stanzas: each Heirmos, Troparion, Theotokion, and Sticheron is a distinct paragraph preceded by its inline italic role tag (*Ode N. Heirmos:*, *Troparion:*, *Theotokion:*). Litany/dialogue speakers in bold (**Priest:**, **Deacon:**, **Choir:**).",
+    "recensional_variants_and_homilies": "100% Epigraphic Fidelity (Rule 16): translate the physical print strictly as inked without silent harmonization to Nikonian or standard modern editions; document significant recensional variants in footnotes [^N].",
+    "front_matter_paratext_and_titulature": "Baroque heraldic virshi rendered in formal rhythmic unrhymed verse with heraldic notes; Early Modern Ruthenian (prosta mova) prefaces rendered in elevated 17th-century theological prose with marginal citations mapped to [^N]; Imperial, Papal, and Archiepiscopal titulature rendered in full diplomatic translation.",
+    "modular_part_slicing_and_appendices": "Follow physical leaf order 100% (Part 0 front matter, Part 1..K primary liturgical divisions/Tones) and isolate distinct rear appendices (Parastas, Hagiography, Typikon/Gospel Pillars) into their own dedicated final Part."
+  }
+}
