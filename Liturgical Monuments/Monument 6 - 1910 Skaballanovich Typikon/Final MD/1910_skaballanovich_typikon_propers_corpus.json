@@ -1,0 +1,75 @@
+{
+  "monument_id": "1910_skaballanovich_typikon",
+  "monument_type": "lexicon_scholarly",
+  "corpus_schema": "3.0.0",
+  "corpus_type": "LEXICON_SCHOLARLY_PROPERS_BILINGUAL_COMPLETE",
+  "source_provenance": {
+    "source_dir": "Liturgical Monuments/Monument 6 - 1910 Skaballanovich Typikon/Source Text",
+    "cohorts_dir": "Liturgical Monuments/Monument 6 - 1910 Skaballanovich Typikon/Cohorts",
+    "total_stanzas_extracted": 2
+  },
+  "items": [
+    {
+      "corpus_id": "LEX.1910_SKABALLANOVICH_TYPIKON.C077.P0763.U002",
+      "tone": 4,
+      "cohort": 77,
+      "leaf": "p763",
+      "locus": "p763",
+      "office": "Troparia at \"God is the Lord\" (*Tropari na Bog Gospod'*)",
+      "section": "History of the Kathisma (*Istoriya kafizmy*)",
+      "season_or_tone": "SCHOLARLY_LITURGICAL_COMPENDIUM",
+      "day_or_date": "Sunday Aposticha",
+      "ode": null,
+      "hymn_type": "SESSIONAL_HYMN",
+      "target_shard": "02_sticherarion.json",
+      "codex_domain": "STICHERARION",
+      "podoben_id": null,
+      "podoben_slavonic_witness": null,
+      "parent_heirmos_id": null,
+      "preceding_stichos": null,
+      "doxology_tag": null,
+      "stamford_slug_suffix": "_1",
+      "slavonic_text": "Тропарем и оканчивается первая, краткая, часть утрени, как им же оканчивается вечерня и вся утреня (и первая часть службы часа). Вторая часть утрени, как и всякая служба, начинается псалмами и состоит главным образом из псалмов и чтений, прерываемых только ектениями и немногочисленными песнопениями. Обилием псалмов и чтений утреня обязана своему ночному назначению: ночью более, чем днем, молитва требует внешней поддержки, каковую и находит в псалмопении и назидательном чтении. Посему утреня по преимуществу представляет собою службу псалмов и чтений. С другой стороны, на утреню перенесена по преимуществу та часть богослужения, какую в древности составляло выпевание за суточными службами всей Псалтири: древнейшее предписание об этом распределении псалмов, синайское, относит на утреню две трети всей Псалтири — 100 псалмов, оставляя на вечерню и другие службы только треть (Вступ. гл., 218). Посему и в нынешнем уставе из 20 кафизм, на которые делится Псалтирь, на утреню падает бо́льшая часть — две, а в известные периоды года и три кафизмы, тогда как на все остальные службы — только одна (на вечерне) или 3 кафизмы на весь суточный круг часов (Великим постом). Наконец, из всех служб только на утрене бывает полиелей, состоящий из двух полных псалмов. Оттого псалмопение составляет самую обширную и устойчивую часть утрени; тогда как для изменяемых праздничных песнопений (стихир, канонов) устав делает бесчисленные сокращения в псалмопении вечерни и часов, на утрене псалмопение никогда не сокращается, даже на Пасху удерживаясь хотя бы в качестве полиелея на утренях Светлой седмицы (в греческой церкви) и кафизм на вечернях ее; псалмопение на утрене отменяется только в исключительных случаях: на утренях великих праздников (Рождества Христова, Богоявления), когда утрене предшествует великое повечерие (с 6 псалмами) и когда она соединяется с вечерней (на которой уже была кафизма); на утренях первых трех дней Страстной седмицы ввиду необычайного обилия чтений (Евангелия) и на утрене Великой субботы ради Непорочных (тоже псалом). Полнота и устойчивость псалмопения на утрене тем замечательнее, что, по содержанию псалмов, для утрени трудно найти подходящий материал в Псалтири: псалмы имеют большею частью вечерний характер (покаянный). Ввиду этого псалмопение на утрене получает более характер непрерывного, по порядку, чтения всей Псалтири («рядовые кафизмы»), {с. 632} чем подбора псалмов к случаю (таковой подбор сделан только для начала и конца утрени: шестопсалмие и хвалитные псалмы). Псалтирь на утрене поется ради самого священного ее текста, внушающего вообще религиозное настроение, как бы для освящения начинающегося дня этим богодухновенным словом, как бы для испрошения благословения на предстоящий день удержанием в памяти стольких великих божественных истин, сколько их рассеяно в псалмах. Псалтирь как бы кладется в основу наступающего дня, как бы утверждается им.",
+      "english_text": "*Kathisma* (Gr. κάθισμα) literally means \"sitting.\" The word indicates that during this part of Matins one may sit. In the Greek Church to this day the parishioners sit at the beginning of the kathismata in the stalls (*stacidia*). Originally, however, they stood throughout the entire time of divine worship, so that standing (Gr. στάσις, *stasis*) was a constant characteristic of Christian worship; it was even considered the finest external expression of the essence of New Testament worship—the spirit of filial freedom before God, alien to servile fear; therefore the most ancient apostolic canon forbade kneeling not only on Sundays, but also on all days from Pascha until Pentecost, prescribing that on these days one pray unfailingly standing. Hence in the primary period of the development of the church order, which coincided with the greatest development of Christian enthusiasm (1st–3rd centuries) and proceeded without being under the predominant influence of monasticism (1st–4th centuries), the custom of sitting during psalmody could not have arisen. It appeared when in the services they began to strive to sing the entire Psalter within a single day and night or over a longer span. Cassian first mentions this custom in the 5th century (Introductory Chapter, p. 218), and the tone of justification in which he describes this custom of the Egyptian monks bears witness unto its novelty. Reports from the 6th–8th centuries, both for the East and for the West, speak of sitting only during the (edifying) readings, and for the East standing is even emphasized during the singing of the entire Psalter at the nocturnal service: its sections in the well-known description of the Sinaitic Matins are called *staseis*, Gr. στάσις—standing, and it is stated that for their singing the monks stood up; and these sections (of 50 psalms each) according to their position at Matins correspond fully unto our kathismata. Standing during the kathismata is demanded also by the *Diatyposis* (see below, \"Order of the Kathisma\"; Introductory Chapter, pp. 295, 310). But transferred to the West, perhaps by Cassian, the custom of sitting during the psalms soon received wide dissemination there and passed over unto other parts of the service. In the East, by the 9th century there already exists the term *kathisma* (Gr. κάθισμα), which, however, is applied more, as among the Greeks today, to the hymns preceding the reading than to the sections of the Psalter, which are for the most part called *stichologiai* (Gr. αἱ στιχολογίαι [Orig. printed στιχολογίοα]), while the \"Glories\" of the kathismata are called *staseis* [^2421]; yet already in the *Hypotyposis* they are called *kathisma psalms* (Gr. κάθισμα ψαλμούς), and in the *Diatyposis* simply *kathisma* (Gr. κάθισμα) [^2422]. A trace of such a practice—sitting only during the readings and standing during the psalms of the kathismata—remains in the present Typikon as well: sessional hymns are appointed only after those kathismata which are followed by readings; thus, sessional hymns are not appointed after the kathismata of Vespers, which are not followed by readings; conversely, sessional hymns are appointed even without kathismata before readings, as, for example, after Ode 3 of the Canon.",
+      "provenance": {
+        "source_file": "Translation/Liturgical Monuments/Monument 6 - 1910 Skaballanovich Typikon/Cohorts/1910_skaballanovich_typikon_cohort77.md",
+        "source_sha256": "68963c5988036c51f109f73bc42979d6f0685c3d5e03b820ebed66fadb953d8a",
+        "source_format": "TEXT_LINES",
+        "start_line": 36,
+        "end_line": 39,
+        "verbatim_source": "*Kathisma* (Gr. κάθισμα) literally means \"sitting.\" The word indicates that during this part of Matins one may sit. In the Greek Church to this day the parishioners sit at the beginning of the kathismata in the stalls (*stacidia*). Originally, however, they stood throughout the entire time of divine worship, so that standing (Gr. στάσις, *stasis*) was a constant characteristic of Christian worship; it was even considered the finest external expression of the essence of New Testament worship—the spirit of filial freedom before God, alien to servile fear; therefore the most ancient apostolic canon forbade kneeling not only on Sundays, but also on all days from Pascha until Pentecost, prescribing that on these days one pray unfailingly standing. Hence in the primary period of the development of the church order, which coincided with the greatest development of Christian enthusiasm (1st–3rd centuries) and proceeded without being under the predominant influence of monasticism (1st–4th centuries), the custom of sitting during psalmody could not have arisen. It appeared when in the services they began to strive to sing the entire Psalter within a single day and night or over a longer span"
+      }
+    },
+    {
+      "corpus_id": "LEX.1910_SKABALLANOVICH_TYPIKON.C084.P0835.U001",
+      "tone": 1,
+      "cohort": 84,
+      "leaf": "p835",
+      "locus": "p835",
+      "office": "Troparia at \"God is the Lord\" (*Tropari na Bog Gospod'*)",
+      "section": "History",
+      "season_or_tone": "SCHOLARLY_LITURGICAL_COMPENDIUM",
+      "day_or_date": "Sunday Aposticha",
+      "ode": 6,
+      "hymn_type": "KONTAKION",
+      "target_shard": "02_sticherarion.json",
+      "codex_domain": "STICHERARION",
+      "podoben_id": null,
+      "podoben_slavonic_witness": null,
+      "parent_heirmos_id": "HEIRMOS.T1.ODE6",
+      "preceding_stichos": null,
+      "doxology_tag": null,
+      "stamford_slug_suffix": "_1",
+      "slavonic_text": "История Κοντάκιον от κοντός — палочка, на которую наматывался свиток пергамента; κονδάκιον — свиток, книга в форме свитка [735], иначе называвшаяся ἰλητάριον [736] (κονδωαον — испорченное произношение); таких свитков сохранилось немало в библиотеках Востока, от века X–XI, времени, когда книги имели уже нынешнюю форму свою; может быть, на таких свитках писались важнейшие книги, или же они были удобнее для певческого употребления. Икос, οἶκος, дом; но сирийское beth, дом, может означать и строфу (как итальянское stanza — комната и строфа), а икосы происхождения именно сирийского, и для {с. 690} каждого праздника их был целый ряд — до 24, так что они именно представляли собою ряд строф. О Романе Сладкопевце (VI в.), основателе этого рода церковной песни, и о других творцах икосов, равно как о первоначальной форме их — см. Вступит. гл., 329–331. По Студийскому уставу это были торжественнейшие песни праздничного богослужения; в древнейшей ркп. этого устава XI–XII в. они одни помещаются в месяцесловной части устава, исчерпывая ее; на важнейшие дни года в этой ркп. дается по одному кондаку и икосу с обязательным подобным для каждого, а на великие праздники кондак положен на ноты; пред окончанием же икоса, всегда общим с окончанием кондака, киноварная заметка: «людие» (т. е. конец его поет весь народ) [737].",
+      "english_text": "*Kontakion* [Gr. Κοντάκιον] is derived from *kontos* [Gr. κοντός]—the rod upon which a scroll of parchment was rolled; the diminutive [Gr. κονδάκιον] is a scroll, a book in the form of a scroll [^2569], otherwise termed an *iletarion* [Gr. ἰλητάριον] [^2570] (*kondwaon* being a corrupted pronunciation); of such scrolls not a few have been preserved in the libraries of the East dating from the 10th–11th centuries, the epoch when books had already assumed their present form; perhaps upon such scrolls the most important books were transcribed, or else they were more convenient for liturgical chant use. *Ikos* [Gr. οἶκος], house; yet the Syriac *beth*, house, can also signify a stanza (as the Italian *stanza* means both room and stanza), and the ikoi are of specifically Syriac origin, and for *(Orig. p. 690)* each feast there was an entire sequence of them—up to 24, so that they precisely constituted a sequence of strophes. Concerning Romanos the Melodist (6th c.), the founder of this genre of church hymnody, and concerning the other composers of ikoi, as well as regarding their primordial form—see the Introductory Chapters, 329–331. According unto the Studite Typikon these were the most solemn hymns of festal divine services; in the most ancient manuscript of this Typikon of the 11th–12th century they alone are placed in the menologion section of the Typikon, exhausting it; for the most important days of the year in this manuscript there is given one kontakion and ikos each with an obligatory prosomoion [*podoben*] for each, while for great feasts the kontakion is set to musical notation; and before the conclusion of the ikos, which is always identical with the conclusion of the kontakion, stands the rubric in cinnabar: \"the people\" [Slav. *lyudie*] (that is, its ending is chanted by the entire congregation) [^2571].",
+      "provenance": {
+        "source_file": "Translation/Liturgical Monuments/Monument 6 - 1910 Skaballanovich Typikon/Cohorts/1910_skaballanovich_typikon_cohort84.md",
+        "source_sha256": "a8955c8f6bec9ebbd2b5b4494f1dde6c242c835d4a82019803af138ffd23aa5c",
+        "source_format": "TEXT_LINES",
+        "start_line": 52,
+        "end_line": 52,
+        "verbatim_source": "*Kontakion* [Gr. Κοντάκιον] is derived from *kontos* [Gr. κοντός]—the rod upon which a scroll of parchment was rolled; the diminutive [Gr. κονδάκιον] is a scroll, a book in the form of a scroll [^2569], otherwise termed an *iletarion* [Gr. ἰλητάριον] [^2570] (*kondwaon* being a corrupted pronunciation); of such scrolls not a few have been preserved in the libraries of the East dating from the 10th–11th centuries, the epoch when books had already assumed their present form; perhaps upon such scrolls the most important books were transcribed, or else they were more convenient for liturgical chant use. *Ikos* [Gr. οἶκος], house; yet the Syriac *beth*, house, can also signify a stanza (as the Italian *stanza* means both room and stanza), and the ikoi are of specifically Syriac origin, and for *(Orig. p. 690)* each feast there was an entire sequence of them—up to 24, so that they precisely constituted a sequence of strophes. Concerning Romanos the Melodist (6th c.), the founder of this genre of church hymnody, and concerning the other composers of ikoi, as well as regarding their primordial form—see the Introductory Chapters, 329–331. According unto the Studite Typikon these were the mo"
+      }
+    }
+  ]
+}

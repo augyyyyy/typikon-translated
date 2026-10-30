@@ -1,0 +1,44 @@
+{
+  "monument_id": "1901_mikita_typikon",
+  "monument_type": "typikon",
+  "corpus_schema": "3.0.0",
+  "corpus_type": "TYPIKON_PROPERS_BILINGUAL_COMPLETE",
+  "source_provenance": {
+    "source_dir": "Liturgical Monuments/Monument 3 - 1901 Mikita Typikon/Source Text",
+    "cohorts_dir": "Liturgical Monuments/Monument 3 - 1901 Mikita Typikon/Cohorts",
+    "total_stanzas_extracted": 1
+  },
+  "items": [
+    {
+      "corpus_id": "TYP.1901_MIKITA_TYPIKON.C018.P0178.U001",
+      "tone": 4,
+      "cohort": 18,
+      "leaf": "p178",
+      "locus": "p178",
+      "office": "CHAPTER II.",
+      "section": "ARTICLE II.",
+      "season_or_tone": "LITURGICAL_ORDO_TYPIKON",
+      "day_or_date": "§ 13. What Must Be Noted Concerning Sunday, Weekday, Fasting, Fast-Free, and Requiem Days?",
+      "ode": null,
+      "hymn_type": "KONTAKION",
+      "target_shard": "02_sticherarion.json",
+      "codex_domain": "STICHERARION",
+      "podoben_id": null,
+      "podoben_slavonic_witness": null,
+      "parent_heirmos_id": null,
+      "preceding_stichos": null,
+      "doxology_tag": null,
+      "stamford_slug_suffix": "_1",
+      "slavonic_text": "тропарь ІІ-го Святаго, по Отче нашъ-ѣ кондакъ ІІ-го Святаго. — На Обѣдницѣ все порядочно.",
+      "english_text": "Troparion of the 2nd Saint; after the “Our Father”: Kontakion of the 2nd Saint. — At the Typika [*Obidnytsia*] all things are in order.",
+      "provenance": {
+        "source_file": "Translation/Liturgical Monuments/Monument 3 - 1901 Mikita Typikon/Cohorts/1901_mikita_typikon_cohort18.md",
+        "source_sha256": "5abfa398b7dd5e1d4e98decbafcb0ab95aef7d9a4e5cb50ea8e5a87729ce9847",
+        "source_format": "TEXT_LINES",
+        "start_line": 145,
+        "end_line": 145,
+        "verbatim_source": "Troparion of the 2nd Saint; after the “Our Father”: Kontakion of the 2nd Saint. — At the Typika [*Obidnytsia*] all things are in order."
+      }
+    }
+  ]
+}

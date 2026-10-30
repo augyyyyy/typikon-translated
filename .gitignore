@@ -17,6 +17,7 @@ __pycache__/
 
 # Local backup and scratch temp files
 archive/
+scratch/.locks/
 **/scratch/CLEANED_RAW_*
 **/scratch/STITCHED_*
 **/scratch/temp_*

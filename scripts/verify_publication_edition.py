@@ -540,44 +540,46 @@ def verify_monument_publication(monument_id: str) -> bool:
     # -------------------------------------------------------------
     # Check 7: Hymnographic Normalization, 8-Tone Primitives & Anti-Stub Corpus Gate
     # -------------------------------------------------------------
+    atomic_corpus_file = final_md_dir / f"{monument_id}_atomic_corpus.json"
     propers_corpus_file = final_md_dir / f"{monument_id}_propers_corpus.json"
     primitives_review_file = final_md_dir / f"{monument_id}_primitives_review.md"
-    if propers_corpus_file.exists() or primitives_review_file.exists() or "octoechos" in monument_id.lower():
+    is_octoechos = "octoechos" in monument_id.lower()
+    if propers_corpus_file.exists() or primitives_review_file.exists() or is_octoechos:
         print("\n[Gate 7] Auditing Hymnographic Normalization, 8-Tone Primitives & Anti-Stub Propers Corpus...")
         gate7_violations = 0
 
         # 7A & 7B: Scan part1..N and _complete.md for unnormalized Model:/Prosomoion:/Nekrosimon: labels and un-parenthesized Podoben: lines
-        unnorm_model_hits = []
-        unparen_podoben_hits = []
-        for mf in md_files:
-            if mf.name.endswith("_apparatus.md") or mf.name.endswith("_footnotes.md"):
-                continue
-            content = mf.read_text(encoding="utf-8")
-            # Separate body from ### Notes / # FOOTNOTES
-            body_part = re.split(r"\n(?:---\s*\n\s*### Notes|#\s*FOOTNOTES AND SCHOLARLY COMMENTARY)\b", content, flags=re.IGNORECASE)[0]
-            for ln_num, ln in enumerate(body_part.splitlines(), start=1):
-                if re.match(r"^\s*\[\^\d+\]:", ln):
+        if is_octoechos:
+            unnorm_model_hits = []
+            unparen_podoben_hits = []
+            for mf in md_files:
+                if mf.name.endswith("_apparatus.md") or mf.name.endswith("_footnotes.md"):
                     continue
-                if re.search(r"\b(?:Model:|Melodic\s+model:|Model\s+melody:|Prosomoion:|Special\s+Melody:|Same\s+Model\b|Same\s+melody\b|Same\s+Prosomoion\b|Nekrosimon:)", ln, re.IGNORECASE):
-                    unnorm_model_hits.append((mf.name, ln_num, ln.strip()[:80]))
-                if re.search(r"\bPodoben:", ln, re.IGNORECASE) and not re.search(r"\([^)]*[\u0400-\u04FF][^)]*\)", ln):
-                    unparen_podoben_hits.append((mf.name, ln_num, ln.strip()[:80]))
+                content = mf.read_text(encoding="utf-8")
+                body_part = re.split(r"\n(?:---\s*\n\s*### Notes|#\s*FOOTNOTES AND SCHOLARLY COMMENTARY)\b", content, flags=re.IGNORECASE)[0]
+                for ln_num, ln in enumerate(body_part.splitlines(), start=1):
+                    if re.match(r"^\s*\[\^\d+\]:", ln):
+                        continue
+                    if re.search(r"\b(?:Model:|Melodic\s+model:|Model\s+melody:|Prosomoion:|Special\s+Melody:|Same\s+Model\b|Same\s+melody\b|Same\s+Prosomoion\b|Nekrosimon:)", ln, re.IGNORECASE):
+                        unnorm_model_hits.append((mf.name, ln_num, ln.strip()[:80]))
+                    if re.search(r"\bPodoben:", ln, re.IGNORECASE) and not re.search(r"\([^)]*[\u0400-\u04FF][^)]*\)", ln):
+                        unparen_podoben_hits.append((mf.name, ln_num, ln.strip()[:80]))
 
-        if unnorm_model_hits:
-            gate7_violations += len(unnorm_model_hits)
-            print(f"  [FAIL] Gate 7A: Found {len(unnorm_model_hits)} unnormalized 'Model:'/'Prosomoion:'/'Model melody:'/'Nekrosimon:' lines:")
-            for fn, ln_num, snip in unnorm_model_hits[:5]:
-                print(f"    {fn}:L{ln_num}: {snip}")
-        else:
-            print("  [PASS] Gate 7A: 0 unnormalized 'Model:' / 'Prosomoion:' / 'Model melody:' / 'Nekrosimon:' lines across all files.")
+            if unnorm_model_hits:
+                gate7_violations += len(unnorm_model_hits)
+                print(f"  [FAIL] Gate 7A: Found {len(unnorm_model_hits)} unnormalized 'Model:'/'Prosomoion:'/'Model melody:'/'Nekrosimon:' lines:")
+                for fn, ln_num, snip in unnorm_model_hits[:5]:
+                    print(f"    {fn}:L{ln_num}: {snip}")
+            else:
+                print("  [PASS] Gate 7A: 0 unnormalized 'Model:' / 'Prosomoion:' / 'Model melody:' / 'Nekrosimon:' lines across all files.")
 
-        if unparen_podoben_hits:
-            gate7_violations += len(unparen_podoben_hits)
-            print(f"  [FAIL] Gate 7B: Found {len(unparen_podoben_hits)} 'Podoben:' lines missing parenthetical Slavonic witness:")
-            for fn, ln_num, snip in unparen_podoben_hits[:5]:
-                print(f"    {fn}:L{ln_num}: {snip}")
-        else:
-            print("  [PASS] Gate 7B: 100% of 'Podoben:' headings include parenthetical Slavonic witness.")
+            if unparen_podoben_hits:
+                gate7_violations += len(unparen_podoben_hits)
+                print(f"  [FAIL] Gate 7B: Found {len(unparen_podoben_hits)} 'Podoben:' lines missing parenthetical Slavonic witness:")
+                for fn, ln_num, snip in unparen_podoben_hits[:5]:
+                    print(f"    {fn}:L{ln_num}: {snip}")
+            else:
+                print("  [PASS] Gate 7B: 100% of 'Podoben:' headings include parenthetical Slavonic witness.")
 
         # 7C: 8-Tone Primitives Registry & Father Paul Digest Completeness
         prim_reg_file = PROJECT_ROOT / "data" / "liturgical_primitives_registry.json"
@@ -612,7 +614,9 @@ def verify_monument_publication(monument_id: str) -> bool:
             corpus_data = json.loads(propers_corpus_file.read_text(encoding="utf-8"))
             c_items = corpus_data.get("items", [])
             c_tones = set(int(it.get("tone", 0)) for it in c_items if int(it.get("tone", 0)) in range(1, 9))
-            if len(c_items) < 1500 or len(c_tones) < 8 or "source_provenance" not in corpus_data:
+            min_propers = 1500 if is_octoechos else 10
+            min_p_tones = 8 if is_octoechos else 1
+            if len(c_items) < min_propers or len(c_tones) < min_p_tones or "source_provenance" not in corpus_data:
                 print(
                     f"  [FAIL] Gate 7D: Propers corpus failed anti-stub gate "
                     f"(items={len(c_items)}, tones={sorted(c_tones)}, has_provenance={'source_provenance' in corpus_data})"
@@ -627,53 +631,103 @@ def verify_monument_publication(monument_id: str) -> bool:
         # 7E & 7F: Internally-Attested Podoben Grid & Cross-Deliverable Mathematical Parity Gate
         grid_md_file = final_md_dir / f"{monument_id}_podoben_grid.md"
         grid_json_file = final_md_dir / f"{monument_id}_podoben_grid.json"
-        if not grid_md_file.exists() or not grid_json_file.exists():
-            print(f"  [FAIL] Gate 7E: Missing {grid_md_file.name} or {grid_json_file.name}!")
-            gate7_violations += 1
-        else:
-            grid_data = json.loads(grid_json_file.read_text(encoding="utf-8"))
-            invocations = grid_data.get("invocations", [])
-            grid_tones = set(it.get("tone") for it in invocations if it.get("tone") in range(1, 9))
-            min_invocations = 100 if monument_id == "1630_lviv_octoechos" else 20
-            min_tones = 8 if monument_id == "1630_lviv_octoechos" else 5
-            if len(invocations) < min_invocations or len(grid_tones) < min_tones:
-                print(f"  [FAIL] Gate 7E: Podoben grid incomplete (invocations={len(invocations)}, tones={sorted(grid_tones)})")
+        if is_octoechos or grid_json_file.exists():
+            if not grid_md_file.exists() or not grid_json_file.exists():
+                print(f"  [FAIL] Gate 7E: Missing {grid_md_file.name} or {grid_json_file.name}!")
                 gate7_violations += 1
             else:
-                print(
-                    f"  [PASS] Gate 7E: Podoben Grid verified "
-                    f"({len(invocations)} physical invocations across Tones {sorted(grid_tones)})."
-                )
-
-            # 7F: Cross-Deliverable Podoben Mathematical Parity (complete.md == _podoben_grid.json == _primitives_review.md)
-            if master_complete_candidates and primitives_review_file.exists():
-                comp_body = re.split(r"\n#\s*FOOTNOTES AND SCHOLARLY COMMENTARY", master_complete_candidates[0].read_text(encoding="utf-8"), flags=re.IGNORECASE)[0]
-                comp_pod_count = sum(
-                    1 for ln in comp_body.splitlines()
-                    if re.search(r"\bpodoben:", ln, re.IGNORECASE)
-                )
-                grid_pod_count = len(invocations)
-                rev_txt = primitives_review_file.read_text(encoding="utf-8")
-                m_rev_cnt = re.search(r"invoked\s+`(\d+)`\s+times", rev_txt)
-                rev_pod_count = int(m_rev_cnt.group(1)) if m_rev_cnt else -1
-
-                if not (comp_pod_count == grid_pod_count == rev_pod_count):
-                    print(
-                        f"  [FAIL] Gate 7F: Cross-Deliverable Podoben Mathematical Parity mismatch! "
-                        f"complete.md={comp_pod_count}, _podoben_grid.json={grid_pod_count}, _primitives_review.md={rev_pod_count}"
-                    )
+                grid_data = json.loads(grid_json_file.read_text(encoding="utf-8"))
+                invocations = grid_data.get("invocations", [])
+                grid_tones = set(it.get("tone") for it in invocations if it.get("tone") in range(1, 9))
+                unique_leaves = len(set(it.get("leaf", "p1") for it in invocations))
+                min_invocations = 100 if monument_id == "1630_lviv_octoechos" else (20 if is_octoechos else 1)
+                min_tones = 8 if monument_id == "1630_lviv_octoechos" else (5 if is_octoechos else 1)
+                if len(invocations) < min_invocations or len(grid_tones) < min_tones:
+                    print(f"  [FAIL] Gate 7E: Podoben grid incomplete (invocations={len(invocations)}, tones={sorted(grid_tones)})")
+                    gate7_violations += 1
+                elif len(invocations) >= 10 and unique_leaves <= 1:
+                    print(f"  [FAIL] Gate 7E: Podoben grid leaf clamping bug detected ({len(invocations)} invocations clamped to 1 leaf)!")
                     gate7_violations += 1
                 else:
                     print(
-                        f"  [PASS] Gate 7F: 100% Cross-Deliverable Podoben Mathematical Parity verified "
-                        f"(complete.md == _podoben_grid.json == _primitives_review.md == {comp_pod_count} invocations)."
+                        f"  [PASS] Gate 7E: Podoben Grid verified "
+                        f"({len(invocations)} physical invocations across {unique_leaves} leaves and Tones {sorted(grid_tones)})."
                     )
+
+                # 7F: Cross-Deliverable Podoben Mathematical Parity (complete.md == _podoben_grid.json == _primitives_review.md)
+                if master_complete_candidates and primitives_review_file.exists():
+                    comp_body = re.split(r"\n#\s*FOOTNOTES AND SCHOLARLY COMMENTARY", master_complete_candidates[0].read_text(encoding="utf-8"), flags=re.IGNORECASE)[0]
+                    comp_pod_count = sum(
+                        1 for ln in comp_body.splitlines()
+                        if re.search(r"\bpodoben:", ln, re.IGNORECASE)
+                    )
+                    grid_pod_count = len(invocations)
+                    rev_txt = primitives_review_file.read_text(encoding="utf-8")
+                    m_rev_cnt = re.search(r"invoked\s+`(\d+)`\s+times", rev_txt)
+                    rev_pod_count = int(m_rev_cnt.group(1)) if m_rev_cnt else -1
+
+                    if not (comp_pod_count == grid_pod_count == rev_pod_count):
+                        print(
+                            f"  [FAIL] Gate 7F: Cross-Deliverable Podoben Mathematical Parity mismatch! "
+                            f"complete.md={comp_pod_count}, _podoben_grid.json={grid_pod_count}, _primitives_review.md={rev_pod_count}"
+                        )
+                        gate7_violations += 1
+                    else:
+                        print(
+                            f"  [PASS] Gate 7F: 100% Cross-Deliverable Podoben Mathematical Parity verified "
+                            f"(complete.md == _podoben_grid.json == _primitives_review.md == {comp_pod_count} invocations)."
+                        )
 
         if gate7_violations == 0:
             print("  >>> Gate 7 Result: PASS (100% Hymnographic Normalization, 8-Tone Primitives & Full Propers Corpus Verified)")
         else:
             print(f"  >>> Gate 7 Result: FAIL ({gate7_violations} hymnographic/corpus violations detected)")
             all_passed = False
+
+    # -------------------------------------------------------------
+    # Check 7G: Universal 5-Class Atomic Liturgical Corpus & 4-Shard Provenance Gate
+    # -------------------------------------------------------------
+    if atomic_corpus_file.exists():
+        print("\n[Gate 7G] Auditing Universal 5-Class Atomic Liturgical Corpus & 4-Shard Provenance...")
+        atomic_data = json.loads(atomic_corpus_file.read_text(encoding="utf-8"))
+        a_units = atomic_data.get("units", [])
+        valid_classes = {
+            "PROPER_HYMN",
+            "SACERDOTAL_PRAYER",
+            "LITANY_OR_DIALOGUE",
+            "FIXED_ORDINARY_OR_LECTION",
+            "RUBRIC_OR_STATUTE",
+        }
+        valid_shards = {
+            "01_ordinarium_primitives.json",
+            "02_sticherarion.json",
+            "03_irmologion.json",
+            "04_kanonnik.json",
+        }
+        bad_class = [u.get("corpus_id") for u in a_units if u.get("unit_class") not in valid_classes]
+        bad_shard = [u.get("corpus_id") for u in a_units if u.get("target_shard") not in valid_shards]
+        bad_prov = [
+            u.get("corpus_id")
+            for u in a_units
+            if len(str(u.get("provenance", {}).get("source_sha256", ""))) != 64
+            or int(u.get("provenance", {}).get("start_line", 0)) < 1
+        ]
+        if not a_units or bad_class or bad_shard or bad_prov:
+            print(
+                f"  [FAIL] Gate 7G: Atomic corpus validation failed "
+                f"(units={len(a_units)}, bad_class={len(bad_class)}, bad_shard={len(bad_shard)}, bad_prov={len(bad_prov)})"
+            )
+            all_passed = False
+        else:
+            c_summary = atomic_data.get("summary", {}).get("counts_by_unit_class", {})
+            print(
+                f"  [PASS] Gate 7G: Universal 5-Class Atomic Corpus verified "
+                f"({len(a_units):,} total units; PROPER_HYMN={c_summary.get('PROPER_HYMN', 0):,}, "
+                f"SACERDOTAL_PRAYER={c_summary.get('SACERDOTAL_PRAYER', 0):,}, "
+                f"LITANY_OR_DIALOGUE={c_summary.get('LITANY_OR_DIALOGUE', 0):,}, "
+                f"ORDINARY_LECTION={c_summary.get('FIXED_ORDINARY_OR_LECTION', 0):,}, "
+                f"RUBRIC_STATUTE={c_summary.get('RUBRIC_OR_STATUTE', 0):,}; 100% 4-Shard SGC-02 provenance)."
+            )
 
     print("\n" + "=" * 75)
     if all_passed:

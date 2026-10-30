@@ -1,10 +1,10 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "2.0.0",
   "description": "Comprehensive Physical Podoben Invocation Concordance for 17th-Century Carpathian-Galician Manuscript Octoechos (Октоїх рукописний, Прикарпаття, XVII ст.)",
   "summary": {
     "monument_id": "1600s_prykarpattia_ms_octoechos",
     "total_podoben_invocations": 20,
-    "distinct_model_families": 16,
+    "distinct_model_families": 15,
     "tones_represented": [
       1,
       3,
@@ -19,9 +19,9 @@
         "prescribed_model": "While the soldiers were guarding Thy tomb",
         "byzantine_greek_automelon": "Τὸν τάφον σου Σωτήρ",
         "total_invocations": 1,
-        "first_locus": "p9LA (p9)",
+        "first_locus": "p9 (p9)",
         "attested_loci": [
-          "p9LA (p9)"
+          "p9 (p9)"
         ]
       },
       {
@@ -30,9 +30,9 @@
         "prescribed_model": "Joy of the heavenly ranks",
         "byzantine_greek_automelon": "Τῶν οὐρανίων ταγμάτων",
         "total_invocations": 1,
-        "first_locus": "p11LA (p11)",
+        "first_locus": "p11 (p11)",
         "attested_loci": [
-          "p11LA (p11)"
+          "p11 (p11)"
         ]
       },
       {
@@ -41,9 +41,9 @@
         "prescribed_model": "Thou hast appeared today",
         "byzantine_greek_automelon": "Ἐπεφάνης σήμερον",
         "total_invocations": 1,
-        "first_locus": "p63LA (p63)",
+        "first_locus": "p70 (p70)",
         "attested_loci": [
-          "p63LA (p63)"
+          "p70 (p70)"
         ]
       },
       {
@@ -52,9 +52,10 @@
         "prescribed_model": "Fulfilling the dispensation for our sake",
         "byzantine_greek_automelon": "Τὴν ὑπὲρ ἡμῶν πληρώσας οἰκονομίαν",
         "total_invocations": 2,
-        "first_locus": "p63LA (p63)",
+        "first_locus": "p96 (p96)",
         "attested_loci": [
-          "p63LA (p63)"
+          "p96 (p96)",
+          "p97 (p97)"
         ]
       },
       {
@@ -63,20 +64,23 @@
         "prescribed_model": "That which was commanded mystically",
         "byzantine_greek_automelon": "Τὸ προσταχθὲν μυστικῶς",
         "total_invocations": 3,
-        "first_locus": "p63LA (p63)",
+        "first_locus": "p130 (p130)",
         "attested_loci": [
-          "p63LA (p63)"
+          "p130 (p130)",
+          "p131 (p131)",
+          "p147 (p147)"
         ]
       },
       {
-        "model_id": "POD.T8.UNKNOWN",
+        "model_id": "POD.T8.PREMUDROSTI_NASTAVNICHE",
         "tone": 8,
-        "prescribed_model": "The same",
-        "byzantine_greek_automelon": "—",
-        "total_invocations": 1,
-        "first_locus": "p63LA (p63)",
+        "prescribed_model": "Guiding unto wisdom",
+        "byzantine_greek_automelon": "Τῆς σοφίας ὁδηγέ",
+        "total_invocations": 2,
+        "first_locus": "p133 (p133)",
         "attested_loci": [
-          "p63LA (p63)"
+          "p133 (p133)",
+          "p201 (p201)"
         ]
       },
       {
@@ -85,9 +89,9 @@
         "prescribed_model": "O Lord, though Thou didst stand before the tribunal",
         "byzantine_greek_automelon": "Κύριε, εἰ καὶ κριτηρίῳ παρέστης",
         "total_invocations": 1,
-        "first_locus": "p63LA (p63)",
+        "first_locus": "p146 (p146)",
         "attested_loci": [
-          "p63LA (p63)"
+          "p146 (p146)"
         ]
       },
       {
@@ -96,9 +100,9 @@
         "prescribed_model": "When from the Tree",
         "byzantine_greek_automelon": "Ὅτε ἐκ τοῦ ξύλου",
         "total_invocations": 1,
-        "first_locus": "p63LA (p63)",
+        "first_locus": "p157 (p157)",
         "attested_loci": [
-          "p63LA (p63)"
+          "p157 (p157)"
         ]
       },
       {
@@ -107,9 +111,9 @@
         "prescribed_model": "The same (то́йже)",
         "byzantine_greek_automelon": "Τὸ αὐτό",
         "total_invocations": 1,
-        "first_locus": "p63LA (p63)",
+        "first_locus": "p157 (p157)",
         "attested_loci": [
-          "p63LA (p63)"
+          "p157 (p157)"
         ]
       },
       {
@@ -118,9 +122,9 @@
         "prescribed_model": "Great is the power of Thy Cross, O Lord",
         "byzantine_greek_automelon": "Μεγάλη τοῦ Σταυροῦ σου, Κύριε",
         "total_invocations": 1,
-        "first_locus": "p63LA (p63)",
+        "first_locus": "p169 (p169)",
         "attested_loci": [
-          "p63LA (p63)"
+          "p169 (p169)"
         ]
       },
       {
@@ -129,9 +133,9 @@
         "prescribed_model": "As one valiant among martyrs",
         "byzantine_greek_automelon": "Ὡς γενναῖον ἐν Μάρτυσιν",
         "total_invocations": 1,
-        "first_locus": "p63LA (p63)",
+        "first_locus": "p179 (p179)",
         "attested_loci": [
-          "p63LA (p63)"
+          "p179 (p179)"
         ]
       },
       {
@@ -140,9 +144,9 @@
         "prescribed_model": "Today the Virgin",
         "byzantine_greek_automelon": "Ἡ Παρθένος σήμερον",
         "total_invocations": 1,
-        "first_locus": "p63LA (p63)",
+        "first_locus": "p183 (p183)",
         "attested_loci": [
-          "p63LA (p63)"
+          "p183 (p183)"
         ]
       },
       {
@@ -151,20 +155,10 @@
         "prescribed_model": "What shall we call you, O holy ones",
         "byzantine_greek_automelon": "Τί ὑμᾶς καλέσωμεν ἅγιοι",
         "total_invocations": 2,
-        "first_locus": "p63LA (p63)",
+        "first_locus": "p199 (p199)",
         "attested_loci": [
-          "p63LA (p63)"
-        ]
-      },
-      {
-        "model_id": "POD.T8.PREMUDROSTI_NASTAVNICHE",
-        "tone": 8,
-        "prescribed_model": "Guiding unto wisdom",
-        "byzantine_greek_automelon": "Τῆς σοφίας ὁδηγέ",
-        "total_invocations": 1,
-        "first_locus": "p63LA (p63)",
-        "attested_loci": [
-          "p63LA (p63)"
+          "p199 (p199)",
+          "p207 (p207)"
         ]
       },
       {
@@ -173,9 +167,9 @@
         "prescribed_model": "As first-fruits of nature",
         "byzantine_greek_automelon": "Ὡς ἀπαρχὰς τῆς φύσεως",
         "total_invocations": 1,
-        "first_locus": "p63LA (p63)",
+        "first_locus": "p202 (p202)",
         "attested_loci": [
-          "p63LA (p63)"
+          "p202 (p202)"
         ]
       },
       {
@@ -184,9 +178,9 @@
         "prescribed_model": "O most marvelous wonder",
         "byzantine_greek_automelon": "Ὢ τοῦ παραδόξου θαύματος",
         "total_invocations": 1,
-        "first_locus": "p63LA (p63)",
+        "first_locus": "p208 (p208)",
         "attested_loci": [
-          "p63LA (p63)"
+          "p208 (p208)"
         ]
       }
     ]
@@ -195,10 +189,10 @@
     {
       "index": 1,
       "tone": 1,
-      "locus": "p9LA",
+      "locus": "p9",
       "leaf": "p9",
       "office": "SUNDAY MIDNIGHT OFFICE (TONE 1)",
-      "section": "At 'Lord, I have cried'",
+      "section": "Hymnographic Propers",
       "verbatim_1630_slavonic": "Гробъ твои",
       "verbatim_slavonic_witness": "Гробъ твои",
       "normalized_rubric": "*Podoben: \"While the soldiers were guarding Thy tomb\" (Гробъ твои):* [^9]",
@@ -210,10 +204,10 @@
     {
       "index": 2,
       "tone": 1,
-      "locus": "p11LA",
+      "locus": "p11",
       "leaf": "p11",
       "office": "SUNDAY MIDNIGHT OFFICE (TONE 1)",
-      "section": "At 'Lord, I have cried'",
+      "section": "Hymnographic Propers",
       "verbatim_1630_slavonic": "Небе́сныхъ чинѡ́въ",
       "verbatim_slavonic_witness": "Небе́сныхъ чинѡ́въ",
       "normalized_rubric": "*Podoben: \"Joy of the heavenly ranks\" (Небе́сныхъ чинѡ́въ):*",
@@ -225,10 +219,10 @@
     {
       "index": 3,
       "tone": 4,
-      "locus": "p63LA",
-      "leaf": "p63",
+      "locus": "p70",
+      "leaf": "p70",
       "office": "SUNDAY MATINS (TONE 4)",
-      "section": "At 'Lord, I have cried'",
+      "section": "Hymnographic Propers",
       "verbatim_1630_slavonic": "Явился еси",
       "verbatim_slavonic_witness": "Явился еси",
       "normalized_rubric": "*Podoben: \"Thou hast appeared today\" (Явился еси):* [^84]",
@@ -240,12 +234,12 @@
     {
       "index": 4,
       "tone": 6,
-      "locus": "p63LA",
-      "leaf": "p63",
+      "locus": "p96",
+      "leaf": "p96",
       "office": "SUNDAY MIDNIGHT OFFICE (TONE 6)",
-      "section": "At 'Lord, I have cried'",
-      "verbatim_1630_slavonic": "то́йже",
-      "verbatim_slavonic_witness": "то́йже",
+      "section": "Hymnographic Propers",
+      "verbatim_1630_slavonic": "\"Еже ѡ насъ\" (Исполнивъ смотрѣніе",
+      "verbatim_slavonic_witness": "\"Еже ѡ насъ\" (Исполнивъ смотрѣніе",
       "normalized_rubric": "*Podoben: \"Fulfilling the dispensation for our sake\" (\"Еже ѡ насъ\" (Исполнивъ смотрѣніе)):*",
       "prescribed_model": "Fulfilling the dispensation for our sake",
       "model_id": "POD.T6.EZHE_O_NAS",
@@ -255,12 +249,12 @@
     {
       "index": 5,
       "tone": 6,
-      "locus": "p63LA",
-      "leaf": "p63",
+      "locus": "p97",
+      "leaf": "p97",
       "office": "SUNDAY MIDNIGHT OFFICE (TONE 6)",
-      "section": "At 'Lord, I have cried'",
-      "verbatim_1630_slavonic": "то́йже",
-      "verbatim_slavonic_witness": "то́йже",
+      "section": "Hymnographic Propers",
+      "verbatim_1630_slavonic": "\"Еже ѡ насъ\" (Исполнивъ смотрѣніе",
+      "verbatim_slavonic_witness": "\"Еже ѡ насъ\" (Исполнивъ смотрѣніе",
       "normalized_rubric": "*Podoben: \"Fulfilling the dispensation for our sake\" (\"Еже ѡ насъ\" (Исполнивъ смотрѣніе)):*",
       "prescribed_model": "Fulfilling the dispensation for our sake",
       "model_id": "POD.T6.EZHE_O_NAS",
@@ -270,12 +264,12 @@
     {
       "index": 6,
       "tone": 8,
-      "locus": "p63LA",
-      "leaf": "p63",
+      "locus": "p130",
+      "leaf": "p130",
       "office": "SUNDAY MIDNIGHT OFFICE (TONE 8)",
-      "section": "At 'Lord, I have cried'",
-      "verbatim_1630_slavonic": "то́йже",
-      "verbatim_slavonic_witness": "то́йже",
+      "section": "Hymnographic Propers",
+      "verbatim_1630_slavonic": "Повеленное таинственно (Повеленное",
+      "verbatim_slavonic_witness": "Повеленное таинственно (Повеленное",
       "normalized_rubric": "*Podoben: \"That which was commanded mystically\" (Повеленное таинственно (Повеленное)):*",
       "prescribed_model": "That which was commanded mystically",
       "model_id": "POD.T8.POVELENNOE_TAINSTVENNO",
@@ -285,12 +279,12 @@
     {
       "index": 7,
       "tone": 8,
-      "locus": "p63LA",
-      "leaf": "p63",
+      "locus": "p131",
+      "leaf": "p131",
       "office": "SUNDAY MIDNIGHT OFFICE (TONE 8)",
-      "section": "At 'Lord, I have cried'",
-      "verbatim_1630_slavonic": "то́йже",
-      "verbatim_slavonic_witness": "то́йже",
+      "section": "Hymnographic Propers",
+      "verbatim_1630_slavonic": "Повеленное таинственно (Повеленное",
+      "verbatim_slavonic_witness": "Повеленное таинственно (Повеленное",
       "normalized_rubric": "*Podoben: \"That which was commanded mystically\" (Повеленное таинственно (Повеленное)):*",
       "prescribed_model": "That which was commanded mystically",
       "model_id": "POD.T8.POVELENNOE_TAINSTVENNO",
@@ -300,25 +294,25 @@
     {
       "index": 8,
       "tone": 8,
-      "locus": "p63LA",
-      "leaf": "p63",
+      "locus": "p133",
+      "leaf": "p133",
       "office": "SUNDAY MATINS (TONE 8)",
-      "section": "At 'Lord, I have cried'",
+      "section": "Hymnographic Propers",
       "verbatim_1630_slavonic": "Премудрости",
       "verbatim_slavonic_witness": "Премудрости",
       "normalized_rubric": "*Glory... Podoben: \"The disciple of wisdom\" (Премудрости):*",
-      "prescribed_model": "The same",
-      "model_id": "POD.T8.UNKNOWN",
-      "byzantine_greek_automelon": "—",
+      "prescribed_model": "Guiding unto wisdom",
+      "model_id": "POD.T8.PREMUDROSTI_NASTAVNICHE",
+      "byzantine_greek_automelon": "Τῆς σοφίας ὁδηγέ",
       "governed_hymn_opening": "Having truly risen from the tomb, Thou didst command the..."
     },
     {
       "index": 9,
       "tone": 8,
-      "locus": "p63LA",
-      "leaf": "p63",
+      "locus": "p146",
+      "leaf": "p146",
       "office": "SUNDAY EVENING VESPERS (TONE 8)",
-      "section": "At 'Lord, I have cried'",
+      "section": "Hymnographic Propers",
       "verbatim_1630_slavonic": "Господи, аще и на судищи",
       "verbatim_slavonic_witness": "Господи, аще и на судищи",
       "normalized_rubric": "*Podoben: \"O Lord, though Thou didst stand before the tribunal\" (Господи, аще и на судищи):*",
@@ -330,10 +324,10 @@
     {
       "index": 10,
       "tone": 8,
-      "locus": "p63LA",
-      "leaf": "p63",
+      "locus": "p147",
+      "leaf": "p147",
       "office": "MONDAY MATINS: REPENTANCE AND THE BODILESS POWERS (TONE 8)",
-      "section": "At 'Lord, I have cried'",
+      "section": "Hymnographic Propers",
       "verbatim_1630_slavonic": "Повелѣ́нное та́инственно",
       "verbatim_slavonic_witness": "Повелѣ́нное та́инственно",
       "normalized_rubric": "*Podoben: \"That which was commanded mystically\" (Повелѣ́нное та́инственно):*",
@@ -345,10 +339,10 @@
     {
       "index": 11,
       "tone": 8,
-      "locus": "p63LA",
-      "leaf": "p63",
+      "locus": "p157",
+      "leaf": "p157",
       "office": "MONDAY EVENING VESPERS (FOR TUESDAY) (TONE 8)",
-      "section": "At 'Lord, I have cried'",
+      "section": "Hymnographic Propers",
       "verbatim_1630_slavonic": "Е҆гда̀ ѿ дре́ва",
       "verbatim_slavonic_witness": "Е҆гда̀ ѿ дре́ва",
       "normalized_rubric": "*Podoben: \"When from the Tree\" (Е҆гда̀ ѿ дре́ва):*",
@@ -360,10 +354,10 @@
     {
       "index": 12,
       "tone": 8,
-      "locus": "p63LA",
-      "leaf": "p63",
+      "locus": "p157",
+      "leaf": "p157",
       "office": "MONDAY EVENING VESPERS (FOR TUESDAY) (TONE 8)",
-      "section": "At 'Lord, I have cried'",
+      "section": "Hymnographic Propers",
       "verbatim_1630_slavonic": "Гла́съ и҆ подо́бенъ то́йже",
       "verbatim_slavonic_witness": "Гла́съ и҆ подо́бенъ то́йже",
       "normalized_rubric": "*Podoben: \"The same Tone and Podoben\" (Гла́съ и҆ подо́бенъ то́йже):*",
@@ -375,10 +369,10 @@
     {
       "index": 13,
       "tone": 3,
-      "locus": "p63LA",
-      "leaf": "p63",
+      "locus": "p169",
+      "leaf": "p169",
       "office": "TUESDAY EVENING VESPERS (FOR WEDNESDAY) (TONE 8)",
-      "section": "At 'Lord, I have cried'",
+      "section": "Hymnographic Propers",
       "verbatim_1630_slavonic": "Ве́лія Крⷭ҇та̀ твоегѡ̀ Гдⷭ҇и",
       "verbatim_slavonic_witness": "Ве́лія Крⷭ҇та̀ твоегѡ̀ Гдⷭ҇и",
       "normalized_rubric": "*Podoben: \"Great is the power of Thy Cross, O Lord\" (Ве́лія Крⷭ҇та̀ твоегѡ̀ Гдⷭ҇и):*",
@@ -390,10 +384,10 @@
     {
       "index": 14,
       "tone": 4,
-      "locus": "p63LA",
-      "leaf": "p63",
+      "locus": "p179",
+      "leaf": "p179",
       "office": "WEDNESDAY EVENING VESPERS (FOR THURSDAY) (TONE 8)",
-      "section": "At 'Lord, I have cried'",
+      "section": "Hymnographic Propers",
       "verbatim_1630_slavonic": "Я҆́кѡ до́бля",
       "verbatim_slavonic_witness": "Я҆́кѡ до́бля",
       "normalized_rubric": "*Podoben: \"As one valiant among martyrs\" (Я҆́кѡ до́бля):*",
@@ -405,10 +399,10 @@
     {
       "index": 15,
       "tone": 3,
-      "locus": "p63LA",
-      "leaf": "p63",
+      "locus": "p183",
+      "leaf": "p183",
       "office": "THURSDAY MATINS: THE HOLY APOSTLES AND ST. NICHOLAS (TONE 8)",
-      "section": "At 'Lord, I have cried'",
+      "section": "Hymnographic Propers",
       "verbatim_1630_slavonic": "Дѣ́ва дне́сь",
       "verbatim_slavonic_witness": "Дѣ́ва дне́сь",
       "normalized_rubric": "*Podoben: \"Today the Virgin\" (Дѣ́ва дне́сь):*",
@@ -420,10 +414,10 @@
     {
       "index": 16,
       "tone": 8,
-      "locus": "p63LA",
-      "leaf": "p63",
+      "locus": "p199",
+      "leaf": "p199",
       "office": "FRIDAY EVENING VESPERS (FOR SATURDAY) (TONE 8)",
-      "section": "At 'Lord, I have cried'",
+      "section": "Hymnographic Propers",
       "verbatim_1630_slavonic": "Что вы наречемъ",
       "verbatim_slavonic_witness": "Что вы наречемъ",
       "normalized_rubric": "*Podoben: \"What shall we call you, O holy ones\" (Что вы наречемъ):*",
@@ -435,10 +429,10 @@
     {
       "index": 17,
       "tone": 8,
-      "locus": "p63LA",
-      "leaf": "p63",
+      "locus": "p201",
+      "leaf": "p201",
       "office": "SATURDAY MATINS: ALL SAINTS, MARTYRS, AND THE DEPARTED (TONE 8)",
-      "section": "At 'Lord, I have cried'",
+      "section": "Hymnographic Propers",
       "verbatim_1630_slavonic": "Премꙋ́дрости наста́вниче",
       "verbatim_slavonic_witness": "Премꙋ́дрости наста́вниче",
       "normalized_rubric": "*Podoben: \"Guiding unto wisdom\" (Премꙋ́дрости наста́вниче):*",
@@ -450,10 +444,10 @@
     {
       "index": 18,
       "tone": 8,
-      "locus": "p63LA",
-      "leaf": "p63",
+      "locus": "p202",
+      "leaf": "p202",
       "office": "SATURDAY MATINS: ALL SAINTS, MARTYRS, AND THE DEPARTED (TONE 8)",
-      "section": "At 'Lord, I have cried'",
+      "section": "Hymnographic Propers",
       "verbatim_1630_slavonic": "Я҆́кѡ нача́тки е҆стества̀",
       "verbatim_slavonic_witness": "Я҆́кѡ нача́тки е҆стества̀",
       "normalized_rubric": "*Podoben: \"As first-fruits of nature\" (Я҆́кѡ нача́тки е҆стества̀):*",
@@ -465,10 +459,10 @@
     {
       "index": 19,
       "tone": 8,
-      "locus": "p63LA",
-      "leaf": "p63",
+      "locus": "p207",
+      "leaf": "p207",
       "office": "SATURDAY MATINS: ALL SAINTS, MARTYRS, AND THE DEPARTED (TONE 8)",
-      "section": "At 'Lord, I have cried'",
+      "section": "Hymnographic Propers",
       "verbatim_1630_slavonic": "Что вы наречемъ",
       "verbatim_slavonic_witness": "Что вы наречемъ",
       "normalized_rubric": "*Podoben: \"What shall we call you, O holy ones\" (Что вы наречемъ):*",
@@ -480,10 +474,10 @@
     {
       "index": 20,
       "tone": 8,
-      "locus": "p63LA",
-      "leaf": "p63",
+      "locus": "p208",
+      "leaf": "p208",
       "office": "SATURDAY MATINS: ALL SAINTS, MARTYRS, AND THE DEPARTED (TONE 8)",
-      "section": "At 'Lord, I have cried'",
+      "section": "Hymnographic Propers",
       "verbatim_1630_slavonic": "О преслав",
       "verbatim_slavonic_witness": "О преслав",
       "normalized_rubric": "*Podoben: \"O most marvelous wonder\" (О преслав):*",

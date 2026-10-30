@@ -1055,13 +1055,12 @@ class UniversalPublicationEngine:
                 txt_path = self.final_dir / (filename[:-3] + ".txt")
                 txt_path.write_text(content, encoding="utf-8")
 
-        # Step 10.5: Emit Podoben Grid from fresh master complete edition
-        if is_hymnographic_2up or "octoechos" in self.monument_id.lower():
-            try:
-                from scripts.generate_podoben_grid import emit_podoben_grid
-                emit_podoben_grid(self.monument_id)
-            except Exception as e:
-                print(f"  [Companion] Podoben grid generation note: {e}")
+        # Step 10.5: Emit Universal Atomic Corpus, Propers Corpus, and Podoben Grid
+        try:
+            from scripts.universal_corpus_extractor import extract_monument_atomic_corpus
+            extract_monument_atomic_corpus(self.monument_id, sync_hub=False)
+        except (OSError, ValueError, KeyError, ImportError) as e:
+            print(f"  [Companion] Atomic corpus / Podoben grid generation note: {e}")
 
         # 14. Synchronize to Typikon Coded Hub Inbox
         print("[Step 11] Synchronizing deliverables to Typikon Coded Hub Inbox...")
@@ -1076,12 +1075,13 @@ class UniversalPublicationEngine:
         for filename, content in all_deliverables.items():
             (hub_inbox / filename).write_text(content, encoding="utf-8")
 
-        # Also sync companion deliverables (Slavonic, Drift ledger, Primitives review, Podoben grid)
+        # Also sync companion deliverables (Slavonic, Drift ledger, Primitives review, Atomic & Propers corpora, Podoben grid)
         for companion in [
             f"{self.monument_id}_slavonic_complete.md",
             f"{self.monument_id}_drift_ledger.json",
             f"{self.monument_id}_drift_report.md",
             f"{self.monument_id}_primitives_review.md",
+            f"{self.monument_id}_atomic_corpus.json",
             f"{self.monument_id}_propers_corpus.json",
             f"{self.monument_id}_podoben_grid.md",
             f"{self.monument_id}_podoben_grid.json"
