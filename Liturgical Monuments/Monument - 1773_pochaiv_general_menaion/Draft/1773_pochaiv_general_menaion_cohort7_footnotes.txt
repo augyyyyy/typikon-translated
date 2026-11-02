@@ -1,0 +1,64 @@
+[^299]: Slavonic rubric: *А҆́ще ли не пра́зднꙋеши, глаго́ли бг҃оро́диченъ се́й* — Dismissal Theotokion of Tone 4 (*Тꙋ́чами Дх҃а прест҃а́гѡ пречⷭ҇таѧ*).
+[^300]: Stavrotheotokion (Cross-Theotokion) for the Wednesday and Friday liturgical cycles.
+[^301]: Rubric deferring to the Saint's proper Dismissal Troparion in the Ustav/Typikon.
+[^302]: General Common Troparion for a Single Hieromartyr, Tone 4: *И҆ нра́вѡмъ прича́стникъ* (*I nravom prichastnik* / *Kai tropon metochos*).
+[^303]: Melodic model witness: Slavonic *Бж҃е́ственныѧ вѣ́ры* (*Bozhestvennyia vѣry*), Tone 3; Greek: Θείας πίστεως (*Theias pisteōs*).
+[^304]: Melodic model witness: Slavonic *Ꙗ҆ви́лся є҆сѝ дне́сь* (*Iavilsia esi dnes*), Tone 4; Greek: Ἐπεφάνης σήμερον (*Epephanēs sēmeron*).
+[^305]: Polyeleos Magnification (Refrain / Megalynarion) for a Hieromartyr.
+[^306]: Selected Psalm for a Hieromartyr: Psalm 48:1 [MT 49:1] (LXX: Ἀκούσατε ταῦτα, πάντα τὰ ἔθνη).
+[^307]: Melodic model witness: Slavonic *Премꙋ́дрости* (*Premudrosti*), Tone 8; Greek: Τὴν Σοφίαν καὶ Λόγον (*Tēn Sophian kai Logon*).
+[^308]: Matins Prokeimenon: Psalm 115:6 (LXX 115:6; MT 116:15), with Verse from Psalm 115:3 (LXX 115:3; MT 116:12).
+[^309]: Matins Gospel lection: Luke pericope 67 (Luke 12:32–40).
+[^310]: Rubric for Matins canon when celebrated with Polyeleos: Canon of the Theotokos on 4, and Canon of the Hieromartyr on 8.
+[^311]: Tone 2, Ode 1 Heirmos: *Грѧди́те лю́дїе* (*Griadite liudie* / *Deute laoi*).
+[^312]: Tone 2, Ode 3 Heirmos: *Оу҆тверди́ на́съ въ тебѣ̀ гдⷭ҇и* (*Utverdi nas v tebѣ Gospodi* / *Stereōson hēmas en soi Kyrie*).
+[^313]: Stavrotheotokion (Cross-Theotokion) for Tone 2.
+[^314]: Tone 2, Ode 4 Heirmos: *Оу҆слы́шахъ гдⷭ҇и сла́вное твоѐ смотре́нїе* (*Uslyshakh Gospodi slavnoe tvoe smotrenie* / *Eisakēkoa Kyrie tēn akoēn*).
+[^315]: Tone 2, Ode 5 Heirmos: *Свѣ́та пода́телю* (*Svѣta podateliu* / *Ho tou phōtos chorēgos*).
+[^316]: Tone 2, Ode 6 Heirmos: *Въ бе́зднѣ грѣхо́внѣй валя́ѧсѧ* (*V bezdnѣ grѣkhovnѣi valiaiasia* / *En abyssō ptaismatōn kykloumenos*).
+[^317]: Rubric deferring to the proper Kontakion in the Typikon/Ustav.
+[^318]: General Common Kontakion for a Single Hieromartyr, Tone 4: *Во ст҃и́телехъ бл҃гоче́стнѡ пожи́въ* (*Vo sviatitelekh blagochestno pozhiv*).
+[^319]: Melodic model witness: Slavonic *Вознесы́йсѧ на крⷭ҇тъ* (*Voznesyisia na krest*), Tone 4; Greek: Ὁ ὑψωθεὶς ἐν τῷ Σταυρῷ (*Ho hypsōtheis en tō Staurō*).
+[^320]: Tone 2, Ode 7 Heirmos: *Ѡ҆́бразꙋ злато́мꙋ* (*Obrazu zlatomu* / *Eikoni chrysē*).
+[^321]: Tone 2, Ode 8 Heirmos: *Въ пе́щь ѻ҆́гненнꙋю* (*V peshch ognennuiu* / *Ton en kaminō tou pyros*).
+[^322]: Tone 2, Ode 9 Heirmos: *Бг҃а бг҃а сло́ва* (*Boga Boga Slova* / *Ton ek Theou Theon Logon*).
+[^323]: Melodic model witness: Slavonic *Не́бо ѕвѣзда́ми* (*Nebo zvѣzdami*), corresponding to the Greek Exapostilarion model Ὁ οὐρανὸν τοῖς ἄστροις (*Ho ouranon tois astrois*).
+[^324]: Melodic model witness: Slavonic *Да́лъ є҆сѝ зна́менїе* (*Dal esi znamenïe*), Tone 4; Greek: Ἔδωκας σημείωσιν (*Edōkas sēmeiōsin*).
+[^325]: Liturgy Prokeimenon: Psalm 149:5 (LXX 149:5), with Verse from Psalm 149:1 (LXX 149:1).
+[^326]: Epistle lection: Hebrews pericope 334 (Heb. 13:7–16).
+[^327]: Gospel lection: Luke pericope 67 (Luke 12:32–40); Alleluia verse from Psalm 131:9 (LXX 131:9).
+[^328]: Communion hymn (Communion Hymn): Psalm 111:6b (LXX 111:6b; MT 112:6b).
+[^329]: Codicological rubric: *СЛꙋ́ЖБА Ѻ҆́БЩА СЩ҃ЕННОМꙋ́ЧЕНИКѠМЪ, ДВѢМА̀ И҆ МНѠ́ГИМЪ* (fol. 58r). Authorized primary service heading (H2) for Two and Many Hieromartyrs.
+[^330]: Melodic model witness: The printed rubric gives Tone 4 with the model incipit *Всехва́льніи мꙋ́нцы* (Greek: Πανεύφημοι μάρτυρες), typically associated with Tone 1, preserved here strictly as inked.
+[^331]: Stavrotheotokion (Cross-Theotokion) for Wednesday and Friday cycles.
+[^332]: Incipit of the Dogmatikon Theotokion of Tone 8: *Цр҃ь нбⷭ҇ный за человѣколю́бїе на землѝ ꙗ҆ви́ся* (*Tsar nebesnyi za chelovѣkoliubïe* / *Ho Basileus tōn ouranōn dia philanthropian*).
+[^333]: Liturgical rubric for the Evening Entrance, Daily Prokeimenon, and 3 Paremias.
+[^334]: Codicological folio cross-reference: *Зрѝ въ слꙋ́жбѣ мꙋ́чнкѡвъ. Ли́стъ, на, на ѡ҆боро́тѣ* (fol. 51v; physical leaf p54), where the three Old Testament Paremias for Multiple Martyrs are printed in full: Isaiah 43:9–14, Wisdom of Solomon 3:1–9, and Wisdom of Solomon 5:15–6:3.
+[^335]: Melodic model witness: Slavonic *Ꙗ҆́кѡ до́бла* (*Iako dobla*), Tone 4; Greek: Ὡς γενναῖον ἐν μάρτυσιν (*Hōs gennaion en martysin*).
+[^336]: Slavonic rubric: *А҆́ще ли не пра́зднꙋеши, глаго́ли се́й Бг҃оро́диченъ* — Dismissal Theotokion of Tone 4 (*Скве́рнꙋ ѿмы́й страстна́гѡ се́рдца моегѡ̀*).
+[^337]: Stavrotheotokion (Cross-Theotokion) for Tone 4.
+[^338]: Melodic model witness: Slavonic *Ꙗ҆́кѡ до́бла* (*Iako dobla*), Tone 4; Greek: Ὡς γενναῖον ἐν μάρτυσιν (*Hōs gennaion en martysin*).
+[^339]: Rubric deferring to the proper Dismissal Troparion in the Ustav/Typikon.
+[^340]: General Common Troparion for Multiple Hieromartyrs, Tone 4: *Бж҃е ѻ҆те́цъ на́шихъ* (*Bozhe otets nashikh* / *Ho Theos tōn paterōn hēmōn*).
+[^341]: Melodic model witness: Slavonic *Премꙋ́дрости* (*Premudrosti*), Tone 8; Greek: Τὴν Σοφίαν καὶ Λόγον (*Tēn Sophian kai Logon*).
+[^342]: Melodic model witness: Slavonic *Собезна́чалное сло́во* (*Sobeznachalnoe slovo*), Tone 5; Greek: Τὸν συνάναρχον Λόγον (*Ton synanarchon Logon*).
+[^343]: Polyeleos Magnification (Refrain / Megalynarion) for Multiple Hieromartyrs.
+[^344]: Selected Psalm for Multiple Hieromartyrs: Psalm 48:1 [MT 49:1] (LXX: Ἀκούσατε ταῦτα, πάντα τὰ ἔθνη).
+[^345]: Melodic model witness: Slavonic *Ка́мени запеча́танꙋ* (*Kameni zapechatanu*), Tone 1; Greek: Τοῦ λίθου σφραγισθέντος (*Tou lithou sphragisthentos*).
+[^346]: Matins Prokeimenon: Psalm 115:6 (LXX 115:6; MT 116:15), with Verse from Psalm 115:3 (LXX 115:3; MT 116:12).
+[^347]: Matins Gospel lection: Luke pericope 67 (Luke 12:32–40).
+[^348]: Sticheron Idiomelon (*стіхи́ра самогла́сна*) after Psalm 50, Tone 1.
+[^349]: Rubric for Matins canon when celebrated with Polyeleos: Canon of the Theotokos on 4, and Canon of the Hieromartyrs on 8.
+[^350]: Tone 4, Ode 1 Heirmos: *Мо́рѧ чермнꙋ́ю пꙋчи́нꙋ* (*Moria chermnuiu puchinu* / *Thalassēs to erythraion pelagos*).
+[^351]: Tone 4, Ode 3 Heirmos: *Весели́тсѧ ѡ҆ тебѣ̀ цр҃ковь твоѧ̀ Хрⷭ҇тѐ* (*Veselitsia o tebѣ tserkov tvoia Khriste* / *Euphrainetai epi soi hē Ekklēsia sou Christe*).
+[^352]: Melodic model witness: Slavonic *Бж҃е́ственныѧ вѣ́ры* (*Bozhestvennyia vѣry*), Tone 3; Greek: Θείας πίστεως (*Theias pisteōs*).
+[^353]: Stavrotheotokion (Cross-Theotokion) for Tone 3.
+[^354]: Tone 4, Ode 4 Heirmos: *Вознесе́на тѧ̀ ви́дѣвши цр҃ковь на крⷭ҇тѣ̀* (*Voznesena tia vidѣvshi tserkov na krestѣ* / *Eparthenta se idousa hē Ekklēsia*).
+[^355]: Tone 4, Ode 5 Heirmos: *Ты̀ гдⷭ҇и мо́й свѣ́тъ въ мі́ръ прише́лъ є҆сѝ* (*Ty Gospodi moy svѣt v mir prishel esi* / *Sy Kyrie mou phōs eis ton kosmon elēlythas*).
+[^356]: Tone 4, Ode 6 Heirmos: *Пожрꙋ́ ти со гла́сомъ хвале́нїѧ гдⷭ҇и* (*Pozhru ti so glasom khvalenïia Gospodi* / *Thysō soi meta phōnēs aineseōs Kyrie*).
+[^357]: Rubric deferring to the proper Kontakion in the Typikon/Ustav.
+[^358]: General Common Kontakion for Multiple Hieromartyrs, Tone 3: *Ꙗ҆́кѡ свѣти́лницы незаходи́мїи* (*Iako svѣtilnitsy nezakhodimïi*).
+[^359]: Melodic model witness: Slavonic *Дѣ́ва дне́сь* (*Dѣva dnes*), Tone 3; Greek: Ἡ Παρθένος σήμερον (*Hē Parthenos sēmeron*).
+[^360]: Tone 4, Ode 7 Heirmos: *Въ пещи́ а҆враа́мстїи ѻ҆́троцы* (*V peshchi avraamstïi otrotsy* / *En tē kaminō Avraamiaioi paides*).
+[^361]: Tone 4, Ode 8 Heirmos: *Рꙋ́цѣ распросте́ръ Данїи́лъ* (*Rutse rasproster Danïil* / *Cheiras ekpetasas Daniēl*).
+[^362]: Tone 4, Ode 9 Heirmos: *Ка́мень нерꙋкосѣ́чный* (*Kamen nerukosѣchnyi* / *Lithos acheirotmētos*).

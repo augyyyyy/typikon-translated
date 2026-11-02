@@ -1,0 +1,57 @@
+[^127]: Wisdom of Solomon 4:7–15.
+[^128]: Melodic model (*Podoben*): *Похва́льнїи мꙋ́ченицы* (O praised martyrs), Tone 4.
+[^129]: Internal cross-reference to the Tone 6 Theotokion at "Lord, I have cried" on fol. 234v (physical leaf p133).
+[^130]: Cross-Theotokion (*Крестобогородиченъ*), chanted on Wednesday and Friday.
+[^131]: Incipit rubric referring to the individual saint's troparion prescribed in the Typikon (*во ᲂу҆ста́вѣ*).
+[^132]: General troparion for multiple hierarchs (*Бо́же ѻ҆те́цъ на́шихъ*), Tone 4.
+[^133]: Melodic model (*Podoben*): *Собезнача́льное Сло́во* (Co-unoriginate Word), Tone 5.
+[^134]: Melodic model (*Podoben*): *Бж҃е́ственныя вѣ́ры* (Of the divine faith), Tone 3.
+[^135]: Selected Psalm verses (*Полиеле́й*) for hierarchs (Ps. 48:1 LXX).
+[^136]: The first antiphon of the Anabathmoi (*Степе́нна*) of Tone 4 (*Ѿ ю҆́ности моеѧ̀*).
+[^137]: Gospel reading for hierarchs: Matthew pericope 38 (Matt. 10:32–33, 10:37–38, 19:27–30).
+[^138]: Canon distribution rubric when celebrated with Polyeleos: Theotokos on 4, and the Saints on 8.
+[^139]: Ode 1 Heirmos, Tone 8: *Пои́мъ Го́сподеви, прове́дшемꙋ лю́ди своя̀ сквозѣ̀ чермно́е мо́ре...*
+[^140]: Ode 3 Heirmos, Tone 8: *Оу҆твержде́нъ въ нача́лѣ небеса̀ ра́зꙋмомъ...*
+[^141]: Cross-Theotokion for the Sessional hymn after Ode 3.
+[^142]: Ode 4 Heirmos, Tone 8: *Оу҆́слышахъ Го́споди смотре́нїя твоегѡ̀ та́инство...*
+[^143]: Ode 5 Heirmos, Tone 8: *Оу҆́тренююще вопїе́мъ ти, Го́споди спаси́ ны...*
+[^144]: Ode 6 Heirmos, Tone 8: *Ри́зꙋ мнѣ̀ пода́ждь свѣ́тлꙋ, ѡ҆дѣя́йся свѣ́томъ ꙗ҆́кѡ ри́зою...*
+[^145]: Incipit rubric referring to the individual saint's kontakion prescribed in the Typikon (*во ᲂу҆ста́вѣ*).
+[^146]: Melodic model (*Podoben*): *Ꙗ҆́кѡ нача́тки* (As first-fruits), Tone 8.
+[^147]: Ode 7 Heirmos, Tone 8: *Въ нача́лѣ зе́млю ѡ҆снова́вый, и҆ небеса̀ сло́вомъ ᲂу҆тверди́вый...*
+[^148]: Ode 8 Heirmos, Tone 8: *На горѣ̀ ст҃ѣ́й просла́вльшася, и҆ въ кꙋпинѣ̀ ѻ҆гне́мъ...*
+[^149]: Ode 9 Heirmos, Tone 8: *Проявле́нное на горѣ̀ законополо́жникꙋ во ѻ҆гнѝ и҆ кꙋпинѣ̀...*
+[^150]: Melodic model (*Podoben*): *Тридне́венъ* (Having risen on the third day), Tone 6.
+[^151]: Internal cross-reference to the Tone 6 Theotokion *Богоро́дице, ты̀ є҆сѝ лоза̀ и҆́стиннаѧ* printed on fol. 29r (physical leaf p31).
+[^152]: Epistle reading for hierarchs: Hebrews pericope 335 (Heb. 13:17–21).
+[^153]: Gospel reading for hierarchs: John pericope 35 from the midpoint (John 10:1–9).
+[^154]: Primary liturgical office headpiece: Common Service to a Single Venerable / Monastic Father (*Слꙋ́жба ѻ́бща преподо́бномꙋ є҆ди́номꙋ*), fol. 33r.
+[^155]: Melodic model (*Podoben*): *Мꙋ́ченицы Госпо́дни* (Martyrs of the Lord), Tone 6.
+[^156]: Cross-Theotokion for a single venerable father at Vespers.
+[^157]: Internal cross-reference to the Dogmatikon of Tone 6 on fol. 234v (physical leaf p133).
+[^158]: Rubric cross-referencing the three Old Testament readings for a Venerable to the Service of a Prophet, fol. 1v (physical leaf p3).
+[^159]: Melodic model (*Podoben*): *Небе́сныхъ чинѡ́въ* (Joy of the heavenly ranks), Tone 1.
+[^160]: Internal cross-reference to the Tone 8 Theotokion at "Lord, I have cried" on fol. 234v (physical leaf p133).
+[^161]: Cross-Theotokion for a single venerable father at the Aposticha.
+[^162]: Incipit rubric referring to the individual saint's troparion prescribed in the Typikon (*во ᲂу҆ста́вѣ*).
+[^163]: The general troparion for a Venerable Monastic (*Въ тебѣ̀ ѻ҆́ч҃е и҆звѣ́стнѡ спасе́ся є҆́же по ѡ҆́бразꙋ*), Tone 8.
+[^164]: Melodic model (*Podoben*): *Ско́рѡ предварѝ* (Speedily anticipate), Tone 4.
+[^165]: Melodic model (*Podoben*): *Собезнача́льное Сло́во* (Co-unoriginate Word), Tone 5.
+[^166]: Selected Psalm verses (*Полиеле́й*) for a Venerable (Ps. 39:1 LXX).
+[^167]: Melodic model (*Podoben*): *Гро́бъ тво́й, Спа́се* (Thy tomb, O Savior), Tone 1.
+[^168]: The first antiphon of the Anabathmoi (*Степе́нна*) of Tone 4 (*Ѿ ю҆́ности моеѧ̀*).
+[^169]: Gospel reading for a Venerable: Matthew pericope 43 (Matt. 11:27–30).
+[^170]: Canon distribution rubric when celebrated with Polyeleos: Theotokos on 4, and the Saint on 8.
+[^171]: Ode 1 Heirmos, Tone 8: *Во́дꙋ проше́дъ ꙗ҆́кѡ сꙋ́шꙋ, и҆ є҆гѵ́петскагѡ ѕла̀ и҆збѣжа́въ...*
+[^172]: Ode 3 Heirmos, Tone 8: *Ты̀ є҆сѝ ᲂу҆твержде́нїе притека́ющихъ къ тебѣ̀, Го́споди...*
+[^173]: Melodic model (*Podoben*): *Ско́рѡ предварѝ* (Speedily anticipate), Tone 4.
+[^174]: Cross-Theotokion for the Sessional hymn after Ode 3.
+[^175]: Ode 4 Heirmos, Tone 8: *Оу҆́слышахъ Го́споди смотре́нїя твоегѡ̀ та́инство...*
+[^176]: Ode 5 Heirmos, Tone 8: *Оу҆́тренююще вопїе́мъ ти, Го́споди, спаси́ ны...*
+[^177]: Ode 6 Heirmos, Tone 8: *Моли́твꙋ пролїю̀ ко Го́сподꙋ, и҆ томꙋ̀ возвѣщꙋ̀ печа́ли моя̑...*
+[^178]: Incipit rubric referring to the individual saint's kontakion prescribed in the Typikon (*во ᲂу҆ста́вѣ*).
+[^179]: Melodic model (*Podoben*): *Вы́шнихъ и҆щѧ̀* (Seeking the highest), Tone 2.
+[^180]: Ode 7 Heirmos, Tone 8: *Ѿ І҆ꙋде́и доше́дше ѻ҆́троцы въ Вавѷлѡ́нѣ и҆ногда̀...*
+[^181]: Ode 8 Heirmos, Tone 8: *Богоглаго́ливіи ѻ҆́троцы въ пещѝ, со ѻ҆гне́мъ пла́мень попира́юще...*
+[^182]: Ode 9 Heirmos, Tone 8: *Оу҆страши́ся вся́къ слꙋ́хъ неизрече́нна Бо́жїя снизхожде́нїя...*
+[^183]: Melodic model (*Podoben*): *Же́ны ᲂу҆слы́шите* (Give ear, ye women).

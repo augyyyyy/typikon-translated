@@ -1,0 +1,147 @@
+[^754]: Concluding line of the Sunday evening sticheron at "Lord, I Have Cried" in Tone 5, carried over across the quire boundary from Fol. 130r.
+[^755]: Tone 5, Sunday evening Aposticha Theotokion.
+[^756]: Tone 5, Monday morning Theotokion.
+[^757]: Tone 5, Monday evening sticheron Theotokion at "Lord, I Have Cried".
+[^758]: Tone 5, Monday evening Aposticha Theotokion.
+[^759]: Tone 5, Tuesday morning Theotokion, concluding the prayer begun on Fol. 130v.
+[^760]: Tone 5, Wednesday evening sticheron Theotokion at "Lord, I Have Cried".
+[^761]: Tone 5, Wednesday evening Aposticha Theotokion.
+[^762]: Tone 5, Thursday morning Theotokion.
+[^763]: Tone 5, Friday evening Aposticha Theotokion.
+[^764]: Tone 5, Saturday morning Theotokion (penitential sessional hymn to the Mother of God).
+[^765]: Tone 6, Sunday evening sticheron Theotokion at "Lord, I Have Cried".
+[^766]: Tone 6, Sunday evening Aposticha Theotokion.
+[^767]: Tone 6, Monday morning Theotokion.
+[^768]: Tone 6, Monday evening sticheron Theotokion at "Lord, I Have Cried".
+[^769]: Tone 6, Monday evening Aposticha Theotokion.
+[^770]: Tone 6, Tuesday morning Theotokion.
+[^771]: Tone 6, Wednesday evening sticheron Theotokion at "Lord, I Have Cried".
+[^772]: Tone 6, Wednesday evening Aposticha Theotokion.
+[^773]: Tone 6, Thursday morning Theotokion.
+[^774]: Tone 6, Friday evening Aposticha Theotokion (intercessory prayer for the departed).
+[^775]: Tone 6, Saturday morning Theotokion.
+[^776]: Tone 7, Sunday evening sticheron Theotokion at "Lord, I Have Cried".
+[^777]: Tone 7, Sunday evening Aposticha Theotokion, concluded on Fol. 132v.
+[^778]: Tone 7, Monday morning Theotokion.
+[^779]: Tone 7, Monday evening sticheron Theotokion at "Lord, I Have Cried".
+[^780]: Tone 7, Monday evening Aposticha Theotokion.
+[^781]: Tone 7, Tuesday morning Theotokion.
+[^782]: Tone 7, Wednesday evening sticheron Theotokion at "Lord, I Have Cried".
+[^783]: Tone 7, Wednesday evening Aposticha Theotokion.
+[^784]: Tone 7, Thursday morning Theotokion.
+[^785]: Tone 7, Friday evening Aposticha Theotokion.
+[^786]: Tone 7, Saturday morning Theotokion.
+[^787]: Tone 8, Sunday evening sticheron Theotokion at "Lord, I Have Cried".
+[^788]: Tone 8, Sunday evening Aposticha Theotokion.
+[^789]: Tone 8, Monday morning Theotokion.
+[^790]: Tone 8, Monday evening sticheron Theotokion at "Lord, I Have Cried".
+[^791]: Tone 8, Monday evening Aposticha Theotokion.
+[^792]: Tone 8, Tuesday morning Theotokion.
+[^793]: Tone 8, Wednesday evening sticheron Theotokion at "Lord, I Have Cried".
+[^794]: Tone 8, Wednesday evening Aposticha Theotokion.
+[^795]: Tone 8, Thursday morning Theotokion.
+[^796]: Tone 8, Friday evening Aposticha Theotokion.
+[^797]: Tone 8, Saturday morning Theotokion.
+[^798]: Resurrectional Dismissal Theotokia (Apolytikia) of the Eight Tones, chanted at Sunday Vespers, Matins, and Liturgy.
+[^799]: Tone 1 Resurrectional Dismissal Theotokion.
+[^800]: Tone 2 Resurrectional Dismissal Theotokion.
+[^801]: Tone 3 Resurrectional Dismissal Theotokion.
+[^802]: Tone 4 Resurrectional Dismissal Theotokion.
+[^803]: Tone 5 Resurrectional Dismissal Theotokion.
+[^804]: Tone 6 Resurrectional Dismissal Theotokion.
+[^805]: Tone 7 Resurrectional Dismissal Theotokion.
+[^806]: Tone 8 Resurrectional Dismissal Theotokion.
+[^807]: General table of weekday Dismissal Theotokia appointed throughout the liturgical year according to the tone of the saint's troparion.
+[^808]: Tone 1, Sunday evening / Monday at "God is the Lord".
+[^809]: Tone 1, end of Monday Matins (Aposticha Theotokion).
+[^810]: Tone 1, Monday evening / Tuesday at "God is the Lord".
+[^811]: Tone 1, end of Tuesday Matins.
+[^812]: Tone 1, Tuesday evening / Wednesday at "God is the Lord".
+[^813]: Tone 1, end of Wednesday Matins (incipit reference).
+[^814]: Tone 1, Wednesday evening / Thursday at "God is the Lord" (incipit reference).
+[^815]: Tone 1, end of Thursday Matins (incipit reference).
+[^816]: Tone 1, Thursday evening / Friday at "God is the Lord" (incipit reference).
+[^817]: Tone 1, end of Friday Matins (incipit reference).
+[^818]: Tone 1, Friday evening / Saturday at "God is the Lord" (Tone 1 Resurrectional Dismissal Theotokion).
+[^819]: Tone 1, end of Saturday Matins (incipit reference).
+[^820]: Tone 2, Sunday evening / Monday at "God is the Lord".
+[^821]: Tone 2, end of Monday Matins.
+[^822]: Tone 2, Monday evening / Tuesday at "God is the Lord".
+[^823]: Tone 2, end of Tuesday Matins.
+[^824]: Tone 2, Tuesday evening / Wednesday at "God is the Lord".
+[^825]: Tone 2, end of Wednesday Matins.
+[^826]: Tone 2, Wednesday evening / Thursday at "God is the Lord" (incipit reference).
+[^827]: Tone 2, end of Thursday Matins (incipit reference).
+[^828]: Tone 2, Thursday evening / Friday at "God is the Lord" (incipit reference).
+[^829]: Tone 2, end of Friday Matins (incipit reference).
+[^830]: Tone 2, Friday evening / Saturday at "God is the Lord" (Tone 2 Resurrectional Dismissal Theotokion).
+[^831]: Tone 2, end of Saturday Matins (incipit reference).
+[^832]: Troparion of All Saints, appointed when "Alleluia" replaces "God is the Lord" on weekdays in Lenten or allied periods.
+[^833]: General Troparion for the Departed.
+[^834]: Theotokion for services with "Alleluia" (incipit reference).
+[^835]: Tone 3, Sunday evening / Monday at "God is the Lord" (Sessional hymn / dismissal Theotokion).
+[^836]: Tone 3, end of Monday Matins.
+[^837]: Tone 3, Monday evening / Tuesday at "God is the Lord".
+[^838]: Tone 3, end of Tuesday Matins (incipit reference).
+[^839]: Tone 3, Tuesday evening / Wednesday at "God is the Lord".
+[^840]: Tone 3, end of Wednesday Matins (incipit reference).
+[^841]: Tone 3, Wednesday evening / Thursday at "God is the Lord".
+[^842]: Tone 3, end of Thursday Matins (incipit reference).
+[^843]: Tone 3, Thursday evening / Friday at "God is the Lord" (incipit reference).
+[^844]: Tone 3, end of Friday Matins (incipit reference).
+[^845]: Tone 3, Friday evening / Saturday at "God is the Lord" (Tone 3 Resurrectional Dismissal Theotokion).
+[^846]: Tone 3, end of Saturday Matins (incipit reference).
+[^847]: Tone 4, Sunday evening / Monday at "God is the Lord".
+[^848]: Tone 4, end of Monday Matins.
+[^849]: Tone 4, Monday evening / Tuesday at "God is the Lord" (familiar penitential troparion "Unto the Mother of God let us now earnestly flee...").
+[^850]: Tone 4, end of Tuesday Matins.
+[^851]: Tone 4, Tuesday evening / Wednesday at "God is the Lord" (Stavrotheotokion).
+[^852]: Tone 4, end of Wednesday Matins.
+[^853]: Tone 4, Wednesday evening / Thursday at "God is the Lord".
+[^854]: Tone 4, end of Thursday Matins (incipit reference).
+[^855]: Tone 4, Thursday evening / Friday at "God is the Lord" (incipit reference).
+[^856]: Tone 4, end of Friday Matins (incipit reference).
+[^857]: Tone 4, Friday evening / Saturday at "God is the Lord" (Tone 4 Resurrectional Dismissal Theotokion).
+[^858]: Tone 4, end of Saturday Matins (incipit reference).
+[^859]: Tone 5, Sunday evening / Monday at "God is the Lord".
+[^860]: Tone 5, end of Monday Matins.
+[^861]: Tone 5, Monday evening / Tuesday at "God is the Lord".
+[^862]: Tone 5, end of Tuesday Matins.
+[^863]: Tone 5, Tuesday evening / Wednesday at "God is the Lord" (Stavrotheotokion).
+[^864]: Tone 5, end of Wednesday Matins (incipit reference).
+[^865]: Tone 5, Wednesday evening / Thursday at "God is the Lord".
+[^866]: Tone 5, end of Thursday Matins (incipit reference).
+[^867]: Tone 5, Thursday evening / Friday at "God is the Lord" (incipit reference).
+[^868]: Tone 5, end of Friday Matins (incipit reference).
+[^869]: Tone 5, Friday evening / Saturday at "God is the Lord" (Tone 5 Resurrectional Dismissal Theotokion).
+[^870]: Tone 5, end of Saturday Matins (incipit reference).
+[^871]: Tone 6, Sunday evening / Monday at "God is the Lord".
+[^872]: Tone 6, end of Monday Matins.
+[^873]: Tone 6, Monday evening / Tuesday at "God is the Lord".
+[^874]: Tone 6, end of Tuesday Matins.
+[^875]: Tone 6, Tuesday evening / Wednesday at "God is the Lord" (Stavrotheotokion).
+[^876]: Tone 6, end of Wednesday Matins.
+[^877]: Tone 6, Wednesday evening / Thursday at "God is the Lord".
+[^878]: Tone 6, end of Thursday Matins.
+[^879]: Tone 6, Thursday evening / Friday at "God is the Lord" (incipit reference).
+[^880]: Tone 6, end of Friday Matins (incipit reference).
+[^881]: Tone 6, Friday evening / Saturday at "God is the Lord".
+[^882]: Tone 6, end of Saturday Matins (incipit reference).
+[^883]: Tone 7, Sunday evening / Monday at "God is the Lord".
+[^884]: Tone 7, end of Monday Matins.
+[^885]: Tone 7, Monday evening / Tuesday at "God is the Lord".
+[^886]: Tone 7, end of Tuesday Matins.
+[^887]: Tone 7, Tuesday evening / Wednesday at "God is the Lord" (Stavrotheotokion).
+[^888]: Tone 7, end of Wednesday Matins.
+[^889]: Tone 7, Wednesday evening / Thursday at "God is the Lord".
+[^890]: Tone 7, end of Thursday Matins.
+[^891]: Tone 7, Thursday evening / Friday at "God is the Lord" (incipit reference).
+[^892]: Tone 7, end of Friday Matins (incipit reference).
+[^893]: Tone 7, Friday evening / Saturday at "God is the Lord" (Tone 7 Resurrectional Dismissal Theotokion).
+[^894]: Tone 7, end of Saturday Matins.
+[^895]: Tone 8, Sunday evening / Monday at "God is the Lord".
+[^896]: Tone 8, end of Monday Matins.
+[^897]: Tone 8, Monday evening / Tuesday at "God is the Lord".
+[^898]: Tone 8, end of Tuesday Matins.
+[^899]: Tone 8, Tuesday evening / Wednesday at "God is the Lord" (Stavrotheotokion).
+[^900]: Tone 8, end of Wednesday Matins (incipit reference).

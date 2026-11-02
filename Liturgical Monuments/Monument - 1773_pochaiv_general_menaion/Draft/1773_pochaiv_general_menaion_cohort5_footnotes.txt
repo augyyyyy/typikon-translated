@@ -1,0 +1,58 @@
+[^184]: Liturgy readings rubric for a common venerable: Prokeimenon Tone 7 (Ps. 115:6, 3 LXX), Epistle Gal. pericope 213 (Gal. 5:22–6:2), Alleluia Tone 6 (Ps. 111:1–2 LXX), Gospel Matt. pericope 43 (Matt. 11:27–30) or Luke pericope 24 (Luke 6:17–23), Communion Hymn (Ps. 111:6 LXX).
+[^185]: Communion Hymn (*Прича́стенъ*): Ps. 111:6 LXX (*Въ па́мѧть вѣ́чнꙋю бꙋ́детъ пра́ведникъ*).
+[^186]: Common Service to Two and Many Monastics (*Слꙋ́жба Ѻ҆́бща Преподо́бнымъ, двѣма̀ и҆ мнѡги́мъ*).
+[^187]: Melodic model (*Podoben*): *Ѡ пресла́внагѡ чꙋдесѐ* (O most marvelous wonder), Tone 8.
+[^188]: Cross-Theotokion (*Крестобогоро́диченъ*) at Lord, I have cried: *Ю҆́нница нескве́рная*.
+[^189]: Theotokion Dogmatikon of Tone 6 (*Кто̀ тебѐ не ᲂу҆блажи́тъ*), cross-referenced to fol. 234v.
+[^190]: Old Testament readings cross-reference to the Service for a Prophet on fol. 2 (leaf p4).
+[^191]: Melodic model (*Podoben*): *Ꙗ҆́кѡ до́бля* (As one valiant among martyrs), Tone 4.
+[^192]: Theotokion of Tone 8 (*Безневѣ́стная Дѣ́во*), cross-referenced to fol. 234v.
+[^193]: Cross-Theotokion at the Aposticha.
+[^194]: Incipit rubric referring to the common troparion prescribed in the Typikon (*во ᲂу҆ста́вѣ*).
+[^195]: Common Troparion for Venerable Fathers, Tone 4: *Бо́же ѻ҆те́цъ на́шихъ...*
+[^196]: Melodic model (*Podoben*): *Ско́рѡ предварѝ* (Speedily anticipate), Tone 4.
+[^197]: Polyeleos Refrain (*Припѣ́въ*) for Venerables: *Оу҆блажа́емъ ва́съ преподо́бнїи ѻ҆́тцы...*
+[^198]: Selected Psalm verses (*Полиеле́й*) for Venerables (Ps. 39:1 LXX).
+[^199]: Melodic model (*Podoben*): *Премꙋ́дрости* (Of Wisdom), Tone 8.
+[^200]: Festal Theotokion hymn: *Ѡ҆ тебѣ̀ ра́дꙋетсѧ, Благода́тнаѧ, всѧ́каѧ тва́рь...*
+[^201]: The first antiphon of the Anabathmoi (*Степе́нна*) of Tone 4 (*Ѿ ю҆́ности моеѧ̀*).
+[^202]: Canon distribution rubric when celebrated with Polyeleos: Theotokos on 4, and the Saints on 8.
+[^203]: Ode 1 Heirmos, Tone 2: *Грѧди́те лю́дїе, пои́мъ пѣ́снь Хрїстꙋ̀ Бо́гꙋ...*
+[^204]: Ode 3 Heirmos, Tone 2: *Оу҆тверди́ на́съ въ тебѣ̀, Го́споди, дре́вомъ ᲂу҆мерщвле́й грѣ́хъ...*
+[^205]: Melodic model (*Podoben*): *Ꙗ҆ви́лся є҆сѝ дне́сь* (Thou hast appeared today), Tone 4.
+[^206]: Cross-Theotokion for the Sessional hymn after Ode 3.
+[^207]: Ode 4 Heirmos, Tone 2: *Оу҆слы́шахъ, Го́споди, сла́вное твоѐ смотре́нїе...*
+[^208]: Ode 5 Heirmos, Tone 2: *Свѣ́та пода́телю, и҆ вѣкѡ́въ тво́рче, Го́споди...*
+[^209]: Ode 6 Heirmos, Tone 2: *Въ бе́зднѣ грѣхо́внѣй валя́яся, неизслѣ́днꙋю милосе́рдїя твоегѡ̀ призыва́ю бе́зднꙋ...*
+[^210]: Incipit rubric referring to the common kontakion in the Typikon (*во ᲂу҆ста́вѣ*).
+[^211]: Melodic model (*Podoben*): *Вы́шнихъ и҆щѧ̀* (Seeking the highest), Tone 2.
+[^212]: Ode 7 Heirmos, Tone 2: *Ѻ҆́бразꙋ злато́мꙋ на по́лѣ Деи́рѣ слꙋжи́мꙋ...*
+[^213]: Ode 8 Heirmos, Tone 2: *Въ кꙋпинѣ̀ Мѡѷсе́ю Дѣ́вы чꙋ́до, на Сїна́йстѣй горѣ̀...*
+[^214]: Ode 9 Heirmos, Tone 2: *Бо́га Бо́га Сло́ва, неизрече́нною мꙋ́дростїю прише́дшаго ѡ҆бнови́ти А҆да́ма...*
+[^215]: Melodic model (*Podoben*): *Посѣти́лъ ны є҆́сть* (He has visited us), Tone 3.
+[^216]: Melodic model (*Podoben*): *Да́лъ є҆сѝ зна́менїе* (Thou hast given a sign), Tone 4.
+[^217]: Liturgy readings rubric for common monastics: Prokeimenon Tone 7 (Ps. 115:6, 3 LXX), Epistle Gal. pericope 213 (Gal. 5:22–6:2), Alleluia Tone 6 (Ps. 111:1–2 LXX), Gospel Matt. pericope 43 (Matt. 11:27–30) or Luke pericope 24 (Luke 6:17–23), Communion Hymn (Ps. 111:6 LXX).
+[^218]: Communion Hymn (*Прича́стенъ*): Ps. 111:6 LXX (*Въ па́мѧть вѣ́чнꙋю бꙋ́детъ пра́ведникъ*).
+[^219]: Common Service to a Single Martyr (*Слꙋ́жба Ѻ҆́бща Мꙋ́ченикꙋ Е҆ди́номꙋ*).
+[^220]: Melodic model (*Podoben*): *Всехва́льнїи мч҃нцы* (O all-lauded martyrs), Tone 4.
+[^221]: Cross-Theotokion at Lord, I have cried: *Своего̀ А҆́гнца, а҆́гница и҆ непоро́чнаѧ Влады́чица...*
+[^222]: Theotokion Dogmatikon of Tone 6 (*Кто̀ тебѐ не ᲂу҆блажи́тъ*), cross-referenced to fol. 234v.
+[^223]: First Old Testament reading at Vespers: Isaiah 43:9–14.
+[^224]: Second Old Testament reading at Vespers: Wisdom of Solomon 3:1–9.
+[^225]: Third Old Testament reading at Vespers: Wisdom of Solomon 4:7–15.
+[^226]: Melodic model (*Podoben*): *Ꙗ҆́кѡ до́бля* (As one valiant among martyrs), Tone 4.
+[^227]: Theotokion of Tone 6 (*Богоро́дице, ты̀ є҆сѝ лоза̀ и҆́стиннаѧ*), cross-referenced to fol. 234v.
+[^228]: Cross-Theotokion at the Aposticha.
+[^229]: Incipit rubric referring to the individual martyr's troparion in the Typikon (*во ᲂу҆ста́вѣ*).
+[^230]: Common Troparion for a Martyr, Tone 4: *Мꙋ́ченикъ тво́й, Го́споди...*
+[^231]: Melodic model (*Podoben*): *Ли́къ а҆́ггелскїй* (The angelic choir), Tone 1.
+[^232]: Melodic model (*Podoben*): *Ꙗ҆ви́лся є҆сѝ дне́сь* (Thou hast appeared today), Tone 4.
+[^233]: Polyeleos Refrain (*Припѣ́въ*) for a Martyr: *Велича́емъ тя̀, страстоте́рпче святы́й...*
+[^234]: Selected Psalm verses (*Полиеле́й*) for a Martyr (Ps. 45:1 LXX).
+[^235]: The first antiphon of the Anabathmoi (*Степе́нна*) of Tone 4 (*Ѿ ю҆́ности моеѧ̀*).
+[^236]: Canon distribution rubric when celebrated with Polyeleos: Theotokos on 4, and the Saint on 8.
+[^237]: Ode 1 Heirmos, Tone 5: *Коня̀ и҆ вса́дника въ мо́ре Чермно́е...*
+[^238]: Ode 3 Heirmos, Tone 5: *Водрꙋзи́вый на ничесо́мже зе́млю повелѣ́нїемъ твои́мъ...*
+[^239]: Melodic model (*Podoben*): *Собезнача́льное Сло́во* (The Word co-unoriginate), Tone 5.
+[^240]: Cross-Theotokion for the Sessional hymn after Ode 3.
+[^241]: Ode 4 Heirmos, Tone 5: *Боже́ственное твоѐ разꙋмѣ́въ и҆стоща́нїе...*

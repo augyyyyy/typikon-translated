@@ -1,0 +1,31 @@
+[^1]: The paste-down on the inside of the front board contains assorted nineteenth-century archival inscriptions, inventory numbers, and a typographical imprint of M. Dzikowski in Przemyśl (1870), indicating provenance in the library of the Greek Catholic Eparchy of Przemyśl.
+[^2]: Sylvester Lubieniecki-Rudnytsky (Sylwester Lubieniecki-Rudnicki, c. 1708–1777), Basilian monk and Greek Catholic Bishop of Lutsk and Ostroh (1752–1777), was appointed Exarch of all Rus' by the Holy See.
+[^3]: The initials "Ч. С. В. В." stand for the Order of Saint Basil the Great (*Чина Святаго Василїя Великаго*, Latin *Ordo Sancti Basilii Magni*, OSBM). The Pochaiv printing press was operated by the Basilian order from 1730 until 1831.
+[^4]: The year of creation 7281 according to the Byzantine-Greek calculation (5508 BC) corresponds precisely to AD 1773.
+[^5]: In accordance with Ruthenian printing tradition, the Table of Contents (*Оглавленїе*) provides the folio references for each category of the Common Services, followed by the appendices of Theotokia.
+[^6]: The melodic model (*Podoben*) heading designates the common Tone 4 prosomoion *Зва́нный свы́ше* (*Called from on high*, Greek *Ὁ ἐξ ὑψίστου κληθείс*).
+[^7]: The abbreviation *(И҆́мⷶ)* represents *И҆́мярекъ* (*Name*), the liturgical variable placeholder where the celebrant or reader inserts the specific name of the prophet being commemorated.
+[^8]: The Cross-Theotokion (*Крестобогородиченъ*, Greek *Staurotheotokion*) is appointed for Wednesday and Friday services when a polyeleos or higher festal rank is not celebrated, recalling the lamentation of the Mother of God at the Foot of the Cross.
+[^9]: Wisdom of Solomon 3:1–9, the classical First Reading (*Paremia*) common to martyrs, prophets, and monastic saints, setting forth the eternal preservation and glorification of the righteous in the hand of God.
+[^10]: Wisdom of Solomon 5:15–6:3, the Second Reading (*Paremia*), depicting the final vindication of the righteous and the divine armor of righteousness against oppressors.
+[^11]: Wisdom of Solomon 4:7–15, the Third Reading (*Paremia*), setting forth true wisdom and holiness as maturity of soul rather than mere number of years.
+[^12]: The melodic model (*Podoben*) heading *Е҆гда̀ ѿ дре́ва* (*When from the Tree*, Greek *Ὅτε ἐκ τοῦ ξύλου*) is the standard Tone 2 model used for both festal and common commemorations.
+[^13]: Tone 3 model *Красотѣ̀ дѣ́вства* (*The beauty of virginity*, Greek *Τὴν ὡραιότητα τῆς παρθενίας*).
+[^14]: Tone 3 model *Бж҃е́ственныя вѣ́ры* (*Of the divine faith*, Greek *Θείας πίστεως*).
+[^15]: The Megalynarion (*Величанїе*) or Refrain (*Припѣвъ*) sung at the Polyeleos on feast days of a single prophet.
+[^16]: Tone 6 model *Милосе́рдїя две́ри* (*The gates of compassion*, Greek *Τῆς εὐσπλαγχνίας τὴν πύλην*).
+[^17]: Ode 1 Heirmos of Tone 6, *Я́кѡ по сꙋ́хꙋ пѣшеше́ствовавъ* (*When Israel traversed the deep on foot*, Greek *Ὡς ἐν ἠπείρῳ πεζεύσας*).
+[^18]: Ode 3 Heirmos of Tone 6, *Нѣ́сть ст҃ъ, я́коже ты́* (*There is none holy like Thee*, Greek *Οὐκ ἔστιν ἅγιος ὡς σύ*).
+[^19]: Ode 4 Heirmos of Tone 6, *Хрїсто́съ моя̀ си́ла* (*Christ is my power*, Greek *Χριστός μου δύναμις*).
+[^20]: Ode 5 Heirmos of Tone 6, *Бо́жїимъ свѣ́томъ твои́мъ* (*With Thy divine light*, Greek *Τῷ θείῳ φέγγει σου*).
+[^21]: Ode 6 Heirmos of Tone 6, *Жите́йское мо́ре* (*Beholding the sea of life*, Greek *Τοῦ βίου τὴν θάλασσαν*).
+[^22]: Tone 4 model *Ꙗ҆ви́лся є҆сѝ дне́сь* (*Thou hast appeared today*, Greek *Ἐπεφάνης σήμερον*).
+[^23]: Ode 7 Heirmos of Tone 6, *Росода́тельнꙋ ᲂу҆́бѡ пе́щь* (*An angel made the furnace shed dew*, Greek *Δροσοβόλον μὲν τὴν κάμινον*).
+[^24]: Ode 8 Heirmos of Tone 6, *И҆з̾ пла́мене преподо́бнымъ ро́сꙋ* (*From the flame Thou didst pour forth dew*, Greek *Ἐκ φλογὸς τοῖς ὁσίοις*).
+[^25]: Ode 9 Heirmos of Tone 6, *Бо́га человѣ́кѡмъ невозмо́жно ви́дѣти* (*It is not possible for men to behold God*, Greek *Θεὸν ἀνθρώποις ἰδεῖν ἀδύνατον*).
+[^26]: Tone 8 model *Ѡ҆ пресла́внагѡ чꙋдесѐ* (*O marvelous wonder*, Greek *Ὢ τοῦ παραδόξου θαύματος*).
+[^27]: The liturgical readings for the Divine Liturgy of a single prophet provide pericopes from the Epistles (1 Corinthians 12:7–11 on spiritual gifts, Hebrews 11:33–40 on the heroic faith of the prophets, or James 5:10–20 on prophetic patience and prayer) and Gospels (Matthew 23:34–39 or Luke 11:47–12:1 on the righteous prophets).
+[^28]: Tone 8 model *Что́ вы нарече́мъ* (*What shall we call you*, Greek *Τί ὑμᾶς καλέσωμεν*).
+[^29]: Cross-Theotokion (*Крестобогородиченъ*), sung on Wednesday and Friday when no Polyeleos is appointed.
+[^30]: 1 John 3:21–4:6, First Reading (*Paremia*) for an Apostle, instructing the faithful to test the spirits and discern the Spirit of Truth from the spirit of error.
+[^31]: 1 John 4:11–16, Second Reading (*Paremia*) for an Apostle, setting forth mutual love as the dwelling of God within the Church.

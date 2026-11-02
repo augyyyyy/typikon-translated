@@ -18,20 +18,6 @@
   "active_blockers": [],
   "updated_at": "2026-11-02T03:30:17.328601+00:00",
   "concurrent_active_monuments": {
-    "1773_pochaiv_general_menaion": {
-      "monument_id": "1773_pochaiv_general_menaion",
-      "active_monument": "1773 Pochaiv Lavra General Menaion / Mineia Zahalna (Мінея Загальна, Почаїв: Друкарня Почаївської Лаври, 1773)",
-      "routing_phase": "PHASE_2_GRAND_PAUSE_READY",
-      "current_cohort": 16,
-      "current_cohort_range": "pp. 151-152 (leaves p151-p152)",
-      "translated_pages": 152,
-      "total_physical_pages": 152,
-      "remaining_pages": 0,
-      "small_pause_gate_status": "GRAND_PAUSE_READY_FOR_HUMAN_INSPECTION",
-      "argon_review_queue_count": 0,
-      "unresolved_quarantines": 0,
-      "active_lease": true
-    },
     "1763_kyiv_caves_fathers_services": {
       "monument_id": "1763_kyiv_caves_fathers_services",
       "active_monument": "1763 Kyiv-Pechersk Lavra Services to the Venerable Fathers of the Kyiv Caves (Служби преподобним Отцям Печерським, Київ: Лавра, 1763)",

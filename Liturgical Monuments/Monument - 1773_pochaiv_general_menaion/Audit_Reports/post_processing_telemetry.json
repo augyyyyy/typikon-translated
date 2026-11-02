@@ -1,0 +1,89 @@
+{
+  "monument_id": "1773_pochaiv_general_menaion",
+  "cohorts": {
+    "1": {
+      "timestamp": "2026-11-01T18:50:58.283187+00:00",
+      "repairs_applied": [
+        "hieratic_pronouns",
+        "epigraphic_headings"
+      ],
+      "any_modified": true
+    },
+    "2": {
+      "timestamp": "2026-11-01T19:20:37.572539+00:00",
+      "repairs_applied": [
+        "hieratic_pronouns"
+      ],
+      "any_modified": true
+    },
+    "3": {
+      "timestamp": "2026-11-01T20:02:56.997914+00:00",
+      "repairs_applied": [
+        "vocabulary_and_slop_footnotes",
+        "hieratic_pronouns"
+      ],
+      "any_modified": true
+    },
+    "4": {
+      "timestamp": "2026-11-01T20:54:21.527467+00:00",
+      "repairs_applied": [
+        "hieratic_pronouns"
+      ],
+      "any_modified": true
+    },
+    "6": {
+      "timestamp": "2026-11-01T21:38:05.124378+00:00",
+      "repairs_applied": [
+        "vocabulary_and_slop_body",
+        "vocabulary_and_slop_footnotes"
+      ],
+      "any_modified": true
+    },
+    "7": {
+      "timestamp": "2026-11-01T21:51:26.962354+00:00",
+      "repairs_applied": [
+        "hieratic_pronouns"
+      ],
+      "any_modified": true
+    },
+    "8": {
+      "timestamp": "2026-11-01T22:22:52.295741+00:00",
+      "repairs_applied": [
+        "vocabulary_and_slop_footnotes",
+        "hieratic_pronouns"
+      ],
+      "any_modified": true
+    },
+    "11": {
+      "timestamp": "2026-11-01T23:08:14.193736+00:00",
+      "repairs_applied": [
+        "vocabulary_and_slop_body",
+        "vocabulary_and_slop_footnotes",
+        "hieratic_pronouns"
+      ],
+      "any_modified": true
+    },
+    "12": {
+      "timestamp": "2026-11-01T23:43:52.511308+00:00",
+      "repairs_applied": [
+        "hieratic_pronouns"
+      ],
+      "any_modified": true
+    },
+    "13": {
+      "timestamp": "2026-11-02T00:29:01.869905+00:00",
+      "repairs_applied": [
+        "hieratic_pronouns"
+      ],
+      "any_modified": true
+    },
+    "14": {
+      "timestamp": "2026-11-02T00:48:06.075648+00:00",
+      "repairs_applied": [
+        "hieratic_pronouns"
+      ],
+      "any_modified": true
+    }
+  },
+  "updated_at": "2026-11-02T00:48:06.075662+00:00"
+}

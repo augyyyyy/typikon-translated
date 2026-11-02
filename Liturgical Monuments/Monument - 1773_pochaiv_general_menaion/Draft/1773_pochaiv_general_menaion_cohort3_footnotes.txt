@@ -1,0 +1,47 @@
+[^80]: Ode 7 Heirmos of Tone 4, *Ѿ пещѝ а҆враа́мстїи ѻ҆́троцы* (*The Abrahamite youths in the Persian furnace*, Greek *Ἐν τῇ καμίνῳ, Ἀβραμιαῖοι Παῖδες*).
+[^81]: Ode 8 Heirmos of Tone 4, *Рꙋ́цѣ распросте́ръ Данїи́лъ* (*Daniel, stretching forth his hands*, Greek *Χεῖρας ἐκπετάσας Δανιήλ*).
+[^82]: Ode 9 Heirmos of Tone 4, *Ка́мень нерꙋкосѣ́чный* (*A cornerstone was cut out without hands*, Greek *Λίθος ἀχειρότμητος*).
+[^83]: Exapostilarion (Exaposteilarion) for Two and Many Apostles, *А҆́пⷭ҇лы Хрⷭ҇то́вы прїиди́те людїе воспои́мъ* (*Come, ye people, let us hymn the apostles of Christ*).
+[^84]: Tone 8 melodic model (*Podoben*) *Гдⷭ҇и а҆́ще и҆ на сꙋди́щи* (*O Lord, though Thou didst stand before the tribunal*, Greek *Κύριε, εἰ καὶ κριτηρίῳ παρέστης*).
+[^85]: Epistle reading at the Divine Liturgy for Two and Many Apostles: 1 Corinthians, pericope 131 (1 Cor. 4:9–16).
+[^86]: Gospel reading at the Divine Liturgy for Apostles: Luke, pericope 50 (Luke 10:1–15) or pericope 51 (Luke 10:16–21).
+[^87]: Primary woodcut headpiece opening the Common Service to a Single Hierarch (*Слꙋ́жба ѻ́бща, Ст҃и́телю є҆ди́номꙋ*).
+[^88]: Tone 6 melodic model (*Podoben*) *Всѐ ѿло́жше* (*Having laid aside all earthly hope*, Greek *Ὅλην ἀποθέμενοι*).
+[^89]: Cross-Theotokion (*Staurotheotokion*) for Wednesday/Friday Vespers, *А҆́гнца своего̀, А҆́гница нескве́рнаѧ* (*When of old the undefiled Ewe-lamb...*).
+[^90]: Dogmatic Theotokion of Tone 8, *Цр҃ь нбⷭ҇ный за человѣколю́бїе на землѝ ꙗ҆ви́ся* (*The King of heaven, through His love for mankind, appeared upon earth*, Greek *Ὁ Βασιλεὺς τῶν οὐρανῶν*); cross-referenced to Tone 8 Theotokia on fol. 235r.
+[^91]: First Old Testament Paremia at Great Vespers for a Hierarch: a liturgical cento drawn from Proverbs 10:7, 3:13–16, 8:1–36.
+[^92]: Foliation anomaly in the 1773 Pochaiv edition: the printer jumped in leaf numbering from fol. 19 (*ѳ҃і*) directly to fol. 21 (*ка҃*), skipping number 20 (*к҃*). The liturgical text across the opening is entirely continuous and unbroken without lacuna.
+[^93]: Second Old Testament Paremia at Great Vespers for a Hierarch: a liturgical cento drawn from Proverbs 10:31–32, 11:7 and the Wisdom of Solomon 6:12–15, 7:30, 8:2–8.
+[^94]: Third Old Testament Paremia at Great Vespers for a Hierarch: a liturgical cento drawn from Wisdom 4:7–10, 6:18, 7:15–26, 10:9–12, 2:1–15.
+[^95]: Tone 6 Theotokion, *Безневѣ́стнаѧ Дѣ́во, я҆́же Бо́га неизглаго́ланнѡ заче́ншая пло́тїю* (*O unwedded Virgin, who ineffably conceived God in the flesh*), cross-referenced to Tone 6 Theotokia on fol. 234v.
+[^96]: Cross-Theotokion (*Staurotheotokion*) for Wednesday/Friday Vespers, *Тѧ̀ ви́дѧщи пригвожда́ема на Крⷭ҇тѣ̀ І҆и҃се* (*Beholding Thee nailed to the Cross, O Jesus*).
+[^97]: Rubric appointing the proper dismissal troparion of the commemorated hierarch if specified in the Typikon or Menaion calendar.
+[^98]: Common Dismissal Troparion for a Single Hierarch, Tone 4 (*Пра́вило вѣ́ры и҆ ѻ҆́бразъ кро́тости* / *The truth of things revealed thee to thy flock as a rule of faith*).
+[^99]: Tone 1 melodic model (*Podoben*) *Гро́бъ тво́й Сп҃се* (*Thy tomb, O Savior*, Greek *Τὸν τάφον σου Σωτήρ*).
+[^100]: Selected Psalm verses for the Polyeleos of a Hierarch: Psalm 48:1 (*Hear this, all ye nations*).
+[^101]: Tone 8 melodic model (*Podoben*) *Премꙋ́дрости* (*Of Wisdom*, Greek *Τὴν Σοφίαν καὶ Λόγον*).
+[^102]: Matins Anabathmoi (Songs of Ascents): the first antiphon of Tone 4 (*Ѿ ю҆́ности моеѧ̀ мно́зи бо́рютъ мѧ̀ стра̑сти* / *From my youth many passions war against me*).
+[^103]: Matins Gospel reading for a Hierarch: John, pericope 36 (John 10:9–16, *I am the door: by me if any man enter in, he shall be saved*).
+[^104]: Rubrical distribution of troparia for the Matins Canons: 4 from the Canon of the Mother of God and 8 from the Canon of the Hierarch.
+[^105]: Ode 1 Heirmos of Tone 6, *Ꙗ҆́кѡ по сꙋ́хꙋ пѣшеше́ствовавъ І҆и҃ль* (*Traversing the deep on foot as on dry land, Israel...*, Greek *Ὡς ἐν ἠπείρῳ πεζεύσας*).
+[^106]: Ode 3 Heirmos of Tone 6, *Нѣ́сть ст҃ъ, ꙗ҆́коже ты̀ Гдⷭ҇и Бж҃е мо́й* (*There is none holy as Thou, O Lord my God*, Greek *Οὐκ ἔστιν ἅγιος ὡς σύ*).
+[^107]: Tone 4 melodic model (*Podoben*) *Ꙗ҆ви́лся є҆сѝ* (*Thou hast appeared today*, Greek *Ἐπεφάνης σήμερον*).
+[^108]: Cross-Theotokion (*Staurotheotokion*) following the Kathisma/Sessional Hymn after Ode 3, *На дре́вѣ ви́дѧщи воздви́жена Сн҃а твоегѡ̀* (*Beholding Thy Son lifted up upon the Tree...*).
+[^109]: Ode 4 Heirmos of Tone 6, *Хрⷭ҇то́съ моѧ̀ си́ла Бг҃ъ и҆ Гдⷭ҇ь* (*Christ is my power, God and Lord*, Greek *Χριστός μου δύναμις, Θεὸς καὶ Κύριος*).
+[^110]: Ode 5 Heirmos of Tone 6, *Бж҃їимъ свѣ́томъ твои́мъ бл҃же* (*With Thy divine light, O good One, illumine, I pray...*, Greek *Τῷ θείῳ φέγγει σου ἀγαθέ*).
+[^111]: Ode 6 Heirmos of Tone 6, *Жите́йское мо́ре воздвиза́емое* (*Beholding the sea of life surging with the tempest of temptations...*, Greek *Τοῦ βίου τὴν θάλασσαν*).
+[^112]: When the Menaion appoints a proper kontakion for the commemorated hierarch, it is sung; otherwise the general kontakion of Tone 2 (*Бж҃е́ственный гро́мъ* / *Divine thunder*) is used.
+[^113]: Common dismissal kontakion for a Hierarch, Tone 2 (*Бж҃е́ственный гро́мъ, трꙋба̀ дх҃овнаѧ* / *Divine thunder, spiritual trumpet*), sung to the melodic model (*Podoben*) *Вы́шнихъ и҆щѧ̀* (*Seeking the highest*, Greek *Τὰ ἄνω ζητῶν*).
+[^114]: Ode 7 Heirmos of Tone 6, *Росода́тельнꙋ ᲂу҆́бѡ пе́щь содѣ́ла А҆́гг҃лъ* (*The angel made the furnace drop dew for the venerable youths...*, Greek *Δροσοβόλον μὲν τὴν κάμινον εἰργάσατο Ἄγγελος*).
+[^115]: Ode 8 Heirmos of Tone 6, *И҆з̾ пла́мене прпⷣбнымъ ро́сꙋ и҆сточи́лъ є҆сѝ* (*From the flame Thou didst pour forth dew for the venerable ones...*, Greek *Ἐκ φλογὸς τοῖς Ὁσίοις δρόσον ἐπήγασας*).
+[^116]: Ode 9 Heirmos of Tone 6, *Бг҃а человѣ́кѡмъ невозмо́жно ви́дѣти* (*It is not possible for men to see God...*, Greek *Θεὸν ἀνθρώποις ἰδεῖν ἀδύνατον*).
+[^117]: Tone 3 melodic model (*Podoben*) for Exapostilaria, *Посѣти́лъ ны̀ є҆́сть съ высоты̀ Сп҃съ на́шъ* (*Our Savior has visited us from on high*, Greek *Ἐπεσκέψατο ἡμᾶς*).
+[^118]: Tone 8 melodic model (*Podoben*) *Ѡ҆ пресла́внагѡ чꙋдесѐ* (*O marvelous wonder*, Greek *Ὢ τοῦ παραδόξου θαύματος*).
+[^119]: Epistle reading at the Divine Liturgy for a Hierarch: Hebrews, pericope 318 (Heb. 7:26–8:2, *For such an high priest became us, who is holy, harmless, undefiled...*).
+[^120]: Gospel reading at the Divine Liturgy for a Hierarch: John, pericope 36 (John 10:9–16, *I am the door: by me if any man enter in, he shall be saved*).
+[^121]: Primary woodcut headpiece opening the Common Service to Two and Many Hierarchs (*Слꙋ́жба ѻ́бща Ст҃и́телемъ, двѣма́ и҆ мнѡ́гимъ*).
+[^122]: Tone 4 melodic model (*Podoben*) *Ꙗ҆́кѡ до́блѧ* (*As one noble*, Greek *Ὡς γενναῖον ἐν Μάρτυσιν*).
+[^123]: Cross-Theotokion (*Staurotheotokion*) for Wednesday/Friday Vespers, *Распя́таема ви́дѧщи, и҆ въ ре́бра пробода́ема копіе́мъ* (*Beholding Christ the Lover of mankind crucified and pierced in the ribs...*).
+[^124]: Dogmatic Theotokion of Tone 6, *Кто̀ тебѐ не ᲂу҆блажи́тъ прест҃а́ѧ Дѣ́во* (*Who will not call thee blessed, O all-holy Virgin?*, Greek *Τίς μὴ μακαρίσει σε Παναγία Παρθένε*), cross-referenced to Tone 6 Theotokia on fol. 234v.
+[^125]: First Old Testament Paremia at Great Vespers for Two and Many Hierarchs: a liturgical cento drawn from Proverbs 10:7, 3:13–16, 8:1–36.
+[^126]: Second Old Testament Paremia at Great Vespers for Two and Many Hierarchs: Proverbs 10:31–32, 11:1–12.

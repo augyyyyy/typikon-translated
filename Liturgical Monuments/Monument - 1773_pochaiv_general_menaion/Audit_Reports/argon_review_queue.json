@@ -1,0 +1,328 @@
+{
+  "monument_id": "1773_pochaiv_general_menaion",
+  "updated_at": "2026-11-02T01:09:24.056561+00:00",
+  "total_queued_leaves": 0,
+  "info_telemetry_leaves": 29,
+  "unresolved_quarantines": 0,
+  "items": [
+    {
+      "leaf_num": 37,
+      "cohort": 4,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Draft\\1773_pochaiv_general_menaion_cohort4_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Source Text\\1773_pochaiv_general_menaion_cohort4_source.txt",
+      "updated_at": "2026-11-01T20:54:23.977505+00:00"
+    },
+    {
+      "leaf_num": 42,
+      "cohort": 5,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Draft\\1773_pochaiv_general_menaion_cohort5_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Source Text\\1773_pochaiv_general_menaion_cohort5_source.txt",
+      "updated_at": "2026-11-01T21:19:26.573704+00:00"
+    },
+    {
+      "leaf_num": 49,
+      "cohort": 5,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Draft\\1773_pochaiv_general_menaion_cohort5_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Source Text\\1773_pochaiv_general_menaion_cohort5_source.txt",
+      "updated_at": "2026-11-01T21:19:26.576058+00:00"
+    },
+    {
+      "leaf_num": 55,
+      "cohort": 6,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Draft\\1773_pochaiv_general_menaion_cohort6_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Source Text\\1773_pochaiv_general_menaion_cohort6_source.txt",
+      "updated_at": "2026-11-01T21:38:07.180513+00:00"
+    },
+    {
+      "leaf_num": 59,
+      "cohort": 6,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Draft\\1773_pochaiv_general_menaion_cohort6_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Source Text\\1773_pochaiv_general_menaion_cohort6_source.txt",
+      "updated_at": "2026-11-01T21:38:07.182736+00:00"
+    },
+    {
+      "leaf_num": 61,
+      "cohort": 7,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Draft\\1773_pochaiv_general_menaion_cohort7_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Source Text\\1773_pochaiv_general_menaion_cohort7_source.txt",
+      "updated_at": "2026-11-01T21:51:28.907077+00:00"
+    },
+    {
+      "leaf_num": 65,
+      "cohort": 7,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Draft\\1773_pochaiv_general_menaion_cohort7_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Source Text\\1773_pochaiv_general_menaion_cohort7_source.txt",
+      "updated_at": "2026-11-01T21:51:28.909365+00:00"
+    },
+    {
+      "leaf_num": 67,
+      "cohort": 7,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Draft\\1773_pochaiv_general_menaion_cohort7_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Source Text\\1773_pochaiv_general_menaion_cohort7_source.txt",
+      "updated_at": "2026-11-01T21:51:28.910533+00:00"
+    },
+    {
+      "leaf_num": 68,
+      "cohort": 7,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Draft\\1773_pochaiv_general_menaion_cohort7_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Source Text\\1773_pochaiv_general_menaion_cohort7_source.txt",
+      "updated_at": "2026-11-01T21:51:28.911144+00:00"
+    },
+    {
+      "leaf_num": 74,
+      "cohort": 8,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Draft\\1773_pochaiv_general_menaion_cohort8_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Source Text\\1773_pochaiv_general_menaion_cohort8_source.txt",
+      "updated_at": "2026-11-01T22:22:54.222380+00:00"
+    },
+    {
+      "leaf_num": 101,
+      "cohort": 11,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Draft\\1773_pochaiv_general_menaion_cohort11_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Source Text\\1773_pochaiv_general_menaion_cohort11_source.txt",
+      "updated_at": "2026-11-01T23:08:16.090170+00:00"
+    },
+    {
+      "leaf_num": 107,
+      "cohort": 11,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Draft\\1773_pochaiv_general_menaion_cohort11_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Source Text\\1773_pochaiv_general_menaion_cohort11_source.txt",
+      "updated_at": "2026-11-01T23:08:16.092341+00:00"
+    },
+    {
+      "leaf_num": 110,
+      "cohort": 11,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Draft\\1773_pochaiv_general_menaion_cohort11_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Source Text\\1773_pochaiv_general_menaion_cohort11_source.txt",
+      "updated_at": "2026-11-01T23:08:16.093350+00:00"
+    },
+    {
+      "leaf_num": 114,
+      "cohort": 12,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 12 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Draft\\1773_pochaiv_general_menaion_cohort12_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Source Text\\1773_pochaiv_general_menaion_cohort12_source.txt",
+      "updated_at": "2026-11-01T23:43:54.234470+00:00"
+    },
+    {
+      "leaf_num": 121,
+      "cohort": 13,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Draft\\1773_pochaiv_general_menaion_cohort13_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Source Text\\1773_pochaiv_general_menaion_cohort13_source.txt",
+      "updated_at": "2026-11-02T00:29:03.633906+00:00"
+    },
+    {
+      "leaf_num": 137,
+      "cohort": 14,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 13 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Draft\\1773_pochaiv_general_menaion_cohort14_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Source Text\\1773_pochaiv_general_menaion_cohort14_source.txt",
+      "updated_at": "2026-11-02T00:48:07.784310+00:00"
+    },
+    {
+      "leaf_num": 138,
+      "cohort": 14,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 11 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Draft\\1773_pochaiv_general_menaion_cohort14_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Source Text\\1773_pochaiv_general_menaion_cohort14_source.txt",
+      "updated_at": "2026-11-02T00:48:07.784737+00:00"
+    },
+    {
+      "leaf_num": 139,
+      "cohort": 14,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 11 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Draft\\1773_pochaiv_general_menaion_cohort14_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Source Text\\1773_pochaiv_general_menaion_cohort14_source.txt",
+      "updated_at": "2026-11-02T00:48:07.785228+00:00"
+    },
+    {
+      "leaf_num": 140,
+      "cohort": 14,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 12 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Draft\\1773_pochaiv_general_menaion_cohort14_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Source Text\\1773_pochaiv_general_menaion_cohort14_source.txt",
+      "updated_at": "2026-11-02T00:48:07.785883+00:00"
+    },
+    {
+      "leaf_num": 141,
+      "cohort": 15,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 11 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Draft\\1773_pochaiv_general_menaion_cohort15_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Source Text\\1773_pochaiv_general_menaion_cohort15_source.txt",
+      "updated_at": "2026-11-02T01:03:49.012775+00:00"
+    },
+    {
+      "leaf_num": 142,
+      "cohort": 15,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 12 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Draft\\1773_pochaiv_general_menaion_cohort15_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Source Text\\1773_pochaiv_general_menaion_cohort15_source.txt",
+      "updated_at": "2026-11-02T01:03:49.013159+00:00"
+    },
+    {
+      "leaf_num": 143,
+      "cohort": 15,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 15 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Draft\\1773_pochaiv_general_menaion_cohort15_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Source Text\\1773_pochaiv_general_menaion_cohort15_source.txt",
+      "updated_at": "2026-11-02T01:03:49.013515+00:00"
+    },
+    {
+      "leaf_num": 144,
+      "cohort": 15,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 12 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Draft\\1773_pochaiv_general_menaion_cohort15_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Source Text\\1773_pochaiv_general_menaion_cohort15_source.txt",
+      "updated_at": "2026-11-02T01:03:49.013860+00:00"
+    },
+    {
+      "leaf_num": 145,
+      "cohort": 15,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 16 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Draft\\1773_pochaiv_general_menaion_cohort15_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Source Text\\1773_pochaiv_general_menaion_cohort15_source.txt",
+      "updated_at": "2026-11-02T01:03:49.014230+00:00"
+    },
+    {
+      "leaf_num": 146,
+      "cohort": 15,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 16 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Draft\\1773_pochaiv_general_menaion_cohort15_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Source Text\\1773_pochaiv_general_menaion_cohort15_source.txt",
+      "updated_at": "2026-11-02T01:03:49.014610+00:00"
+    },
+    {
+      "leaf_num": 147,
+      "cohort": 15,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 17 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Draft\\1773_pochaiv_general_menaion_cohort15_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Source Text\\1773_pochaiv_general_menaion_cohort15_source.txt",
+      "updated_at": "2026-11-02T01:03:49.014995+00:00"
+    },
+    {
+      "leaf_num": 148,
+      "cohort": 15,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 17 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Draft\\1773_pochaiv_general_menaion_cohort15_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Source Text\\1773_pochaiv_general_menaion_cohort15_source.txt",
+      "updated_at": "2026-11-02T01:03:49.015452+00:00"
+    },
+    {
+      "leaf_num": 149,
+      "cohort": 15,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 15 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Draft\\1773_pochaiv_general_menaion_cohort15_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Source Text\\1773_pochaiv_general_menaion_cohort15_source.txt",
+      "updated_at": "2026-11-02T01:03:49.015850+00:00"
+    },
+    {
+      "leaf_num": 150,
+      "cohort": 15,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 16 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Draft\\1773_pochaiv_general_menaion_cohort15_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1773_pochaiv_general_menaion\\Source Text\\1773_pochaiv_general_menaion_cohort15_source.txt",
+      "updated_at": "2026-11-02T01:03:49.016241+00:00"
+    }
+  ]
+}

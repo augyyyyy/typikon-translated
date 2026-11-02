@@ -1,0 +1,47 @@
+{
+  "monument_id": "1773_pochaiv_general_menaion",
+  "title": "1773 Pochaiv Lavra General Menaion / Mineia Zahalna (Мінея Загальна, Почаїв: Друкарня Почаївської Лаври, 1773)",
+  "monument_type": "anthologion",
+  "genre_register": "hymnographic",
+  "retrospective_timestamp": "2026-11-02T02:56:15.735928+00:00",
+  "codicological_profile": {
+    "total_physical_leaves": 152,
+    "cohort_count": 16,
+    "default_cohort_size": 10,
+    "monument_type": "anthologion"
+  },
+  "subagent_execution_telemetry": {
+    "total_cohorts_dispatched": 16,
+    "worker_model": "flash",
+    "cohorts_passing_gate_100pct": 16,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.092,
+      "median_cohort_ratio": 1.147,
+      "max_cohort_median": 1.175
+    }
+  },
+  "argon_review_queue_telemetry": {
+    "total_items_recorded": 29,
+    "resolved_by_argon": 0,
+    "info_telemetry_only": 29,
+    "unresolved_quarantines": 0,
+    "codicological_crux_count": 0
+  },
+  "final_publication_verification": {
+    "parts_count": 3,
+    "parts": [
+      "1773_pochaiv_general_menaion_part0_front_matter.md",
+      "1773_pochaiv_general_menaion_part1_part-i-common-services-to-the-saints.md",
+      "1773_pochaiv_general_menaion_part2_part-ii-theotokion-canons-and-theotokia.md"
+    ],
+    "total_footnotes_verified": 908,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.092,
+      "median_cohort_ratio": 1.147,
+      "max_cohort_median": 1.175
+    },
+    "all_6_publication_gates_passed": true
+  },
+  "edge_cases_and_anomalies": [],
+  "engine_hardening_proposals": []
+}
