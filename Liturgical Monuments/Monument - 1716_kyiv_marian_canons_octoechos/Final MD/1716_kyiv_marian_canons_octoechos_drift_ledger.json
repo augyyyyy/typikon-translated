@@ -1,0 +1,208 @@
+{
+  "monument_id": "1716_kyiv_marian_canons_octoechos",
+  "title": "1716 Kyiv-Pechersk Lavra Theotokarion / Eight-Tone Marian Canons (Богородичник / Канони Богородиці Осмогласні, Київ: Друкарня Лаври, 1716)",
+  "publication_year": "1716",
+  "total_physical_pages": 246,
+  "total_stitches": 105,
+  "seam_overlaps_deduplicated": 7,
+  "total_drift_records": 15,
+  "events": [
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T1.GROB_TVOI_SPASE",
+      "locus": "C02:p18",
+      "tone": 1,
+      "greek_incipit": "Τὸν τάφον σου Σωτήρ",
+      "slavonic_source": "Гро́бъ тво́й Сп҃се",
+      "slavonic_canonical": "Гро́бъ тво́й Сп҃се",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
+      "raw_cohort_english": "Podoben: While the soldiers were guarding Thy tomb",
+      "canonical_english": "While the soldiers were guarding Thy tomb",
+      "is_ai_drift": false
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T1.GROB_TVOI_SPASE",
+      "locus": "C03:p21",
+      "tone": 1,
+      "greek_incipit": "Τὸν τάφον σου Σωτήρ",
+      "slavonic_source": "Гро́бъ тво́й Сп҃се",
+      "slavonic_canonical": "Гро́бъ тво́й Сп҃се",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
+      "raw_cohort_english": "Podoben: While the soldiers were guarding Thy tomb",
+      "canonical_english": "While the soldiers were guarding Thy tomb",
+      "is_ai_drift": false
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T1.GROB_TVOI_SPASE",
+      "locus": "C03:p29",
+      "tone": 1,
+      "greek_incipit": "Τὸν τάφον σου Σωτήρ",
+      "slavonic_source": "Гро́бъ тво́й Сп҃се",
+      "slavonic_canonical": "Гро́бъ тво́й Сп҃се",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
+      "raw_cohort_english": "Podoben: While the soldiers were guarding Thy tomb",
+      "canonical_english": "While the soldiers were guarding Thy tomb",
+      "is_ai_drift": false
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T1.GROB_TVOI_SPASE",
+      "locus": "C04:p33",
+      "tone": 1,
+      "greek_incipit": "Τὸν τάφον σου Σωτήρ",
+      "slavonic_source": "Гро́бъ тво́й",
+      "slavonic_canonical": "Гро́бъ тво́й Сп҃се",
+      "scribal_omitted_label": false,
+      "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
+      "drift_similarity": 0.9,
+      "drift_info": {
+        "t2_source": "гроб твой",
+        "t2_canonical": "гроб твой спсе",
+        "details": "Scribal incipit truncation (2 vs 3 words)"
+      },
+      "raw_cohort_english": "Podoben: While the soldiers were guarding Thy tomb",
+      "canonical_english": "While the soldiers were guarding Thy tomb",
+      "is_ai_drift": false
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T2.MILOSERDIA_SUSHCHI",
+      "locus": "C05:p48",
+      "tone": 2,
+      "greek_incipit": "Εὐσπλαγχνίας ὑπάρχουσα πηγή",
+      "slavonic_source": "Милосе́рдія сꙋ́щи и҆сто́чникъ",
+      "slavonic_canonical": "Милосе́рдія сꙋ́щи и҆сто́чникъ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
+      "raw_cohort_english": "Podoben: Being the wellspring of loving-kindness",
+      "canonical_english": "Being the wellspring of loving-kindness",
+      "is_ai_drift": false
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T2.MILOSERDIA_SUSHCHI",
+      "locus": "C06:p59",
+      "tone": 2,
+      "greek_incipit": "Εὐσπλαγχνίας ὑπάρχουσα πηγή",
+      "slavonic_source": "Милосе́рдія сꙋ́щи и҆сто́чникъ",
+      "slavonic_canonical": "Милосе́рдія сꙋ́щи и҆сто́чникъ",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
+      "raw_cohort_english": "Podoben: Being the wellspring of loving-kindness",
+      "canonical_english": "Being the wellspring of loving-kindness",
+      "is_ai_drift": false
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T3.BOZHESTVENNYYA_VERY",
+      "locus": "C08:p71",
+      "tone": 3,
+      "greek_incipit": "Θείας πίστεως",
+      "slavonic_source": "Бж҃е́ственныя вѣ́ры",
+      "slavonic_canonical": "Бж҃е́ственныя вѣ́ры",
+      "scribal_omitted_label": false,
+      "drift_tier": "TIER_0_EXACT",
+      "drift_similarity": 1.0,
+      "drift_info": {
+        "details": "Exact character match"
+      },
+      "raw_cohort_english": "Podoben: Of the Divine Faith",
+      "canonical_english": "Of the divine faith",
+      "is_ai_drift": false
+    },
+    {
+      "type": "PODOBEN_NORMALIZED",
+      "primitive_id": "POD.T3.KRASOTE_DEVSTVA",
+      "locus": "C08:p75",
+      "tone": 3,
+      "greek_incipit": "Τὴν ὡραιότητα τῆς παρθενίας σου",
+      "slavonic_source": "Красотѣ̀ дѣ́вства",
+      "slavonic_canonical": "Красотѣ̀ дѣ́вства твоегѡ̀",
+      "scribal_omitted_label": false,
+      "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
+      "drift_similarity": 0.9,
+      "drift_info": {
+        "t2_source": "красоте девства",
+        "t2_canonical": "красоте девства твоего",
+        "details": "Scribal incipit truncation (2 vs 3 words)"
+      },
+      "raw_cohort_english": "Podoben: The Beauty of Thy Virginity",
+      "canonical_english": "Beholding the beauty of thy virginity",
+      "is_ai_drift": false
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[p3LA]",
+      "prev_tail": "feast-day things with words and types...",
+      "curr_head": "...with types did the divine prophets fo",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[p3RA]",
+      "prev_tail": "ay of love shown forth by the Apostle...",
+      "curr_head": "...shown forth by the Apostle, the God-l",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 100vA]",
+      "prev_tail": " O Most Pure One, unto [eternal] life...",
+      "curr_head": "...unto [eternal] life, and show me, thy",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 107rA]",
+      "prev_tail": "awn and corrupted by grievous threats...",
+      "curr_head": "...and corruption.",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 216vA]",
+      "prev_tail": "he good tidings even unto those in hades",
+      "curr_head": "unto those in hades God revealed in the ",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 218rA]",
+      "prev_tail": " Having departed from worldly turmoil...",
+      "curr_head": "*Troparion:* Having been exalted in virt",
+      "is_ai_drift": true
+    },
+    {
+      "type": "SEAM_OVERLAP_DEDUPLICATED",
+      "locus": "[f. 229rA]",
+      "prev_tail": "ught; or reproached anyone, or slandered",
+      "curr_head": "anyone in my wrath; or grieved anyone, o",
+      "is_ai_drift": true
+    }
+  ]
+}

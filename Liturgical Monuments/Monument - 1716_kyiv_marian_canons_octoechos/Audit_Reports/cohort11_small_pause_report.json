@@ -1,0 +1,94 @@
+{
+  "timestamp": "2026-11-02T08:59:05.862389+00:00",
+  "monument_id": "1716_kyiv_marian_canons_octoechos",
+  "monument_type": "octoechos",
+  "cohort": 11,
+  "target_file": "1716_kyiv_marian_canons_octoechos_cohort11_raw_draft.md",
+  "overall_status": "PASSED",
+  "cohort_telemetry": {
+    "prepared_at_iso": null,
+    "first_verified_at_iso": "2026-11-02T08:59:05.852470+00:00",
+    "verified_at_iso": "2026-11-02T08:59:05.852470+00:00",
+    "initial_duration_sec": null,
+    "duration_sec": null,
+    "source_words": 2756,
+    "draft_words": 4248,
+    "footnote_count": 5,
+    "footnote_words": 171,
+    "sgc02_ratio": 1.1962
+  },
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1716_kyiv_marian_canons_octoechos_cohort11_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1716_kyiv_marian_canons_octoechos_cohort11_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1716_kyiv_marian_canons_octoechos_cohort11_raw_draft.md",
+      "footnotes_file": "1716_kyiv_marian_canons_octoechos_cohort11_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 5,
+      "definition_markers_count": 5,
+      "text_markers": [
+        "[^55]",
+        "[^56]",
+        "[^57]",
+        "[^58]",
+        "[^59]"
+      ],
+      "definition_markers": [
+        "[^55]",
+        "[^56]",
+        "[^57]",
+        "[^58]",
+        "[^59]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1716_kyiv_marian_canons_octoechos_cohort11_raw_draft.md",
+      "passed": true,
+      "paragraphs": 317,
+      "headings_count": 0,
+      "headings": [],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 101,
+        "max_leaf": 110
+      },
+      "anomalies": []
+    },
+    "monument_type_policy": {
+      "passed": true,
+      "monument_type": "octoechos",
+      "violation_count": 0,
+      "violations": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument - 1716_kyiv_marian_canons_octoechos\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "cohort_info_telemetry_leaves": [],
+    "total_queued_leaves": 0,
+    "info_telemetry_leaves": 0,
+    "unresolved_quarantines": 0
+  }
+}

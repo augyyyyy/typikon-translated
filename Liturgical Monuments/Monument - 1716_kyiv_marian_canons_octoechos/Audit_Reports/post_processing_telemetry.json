@@ -1,0 +1,87 @@
+{
+  "monument_id": "1716_kyiv_marian_canons_octoechos",
+  "cohorts": {
+    "1": {
+      "timestamp": "2026-11-02T05:08:45.486669+00:00",
+      "repairs_applied": [
+        "vocabulary_and_slop_body",
+        "vocabulary_and_slop_footnotes"
+      ],
+      "any_modified": true
+    },
+    "2": {
+      "timestamp": "2026-11-02T06:01:10.847889+00:00",
+      "repairs_applied": [
+        "hieratic_pronouns"
+      ],
+      "any_modified": true
+    },
+    "3": {
+      "timestamp": "2026-11-02T06:35:14.863923+00:00",
+      "repairs_applied": [
+        "vocabulary_and_slop_body"
+      ],
+      "any_modified": true
+    },
+    "7": {
+      "timestamp": "2026-11-02T07:54:39.723835+00:00",
+      "repairs_applied": [
+        "hieratic_pronouns"
+      ],
+      "any_modified": true
+    },
+    "12": {
+      "timestamp": "2026-11-02T09:15:07.064277+00:00",
+      "repairs_applied": [
+        "vocabulary_and_slop_body",
+        "hieratic_pronouns"
+      ],
+      "any_modified": true
+    },
+    "15": {
+      "timestamp": "2026-11-02T10:05:51.657406+00:00",
+      "repairs_applied": [
+        "hieratic_pronouns"
+      ],
+      "any_modified": true
+    },
+    "16": {
+      "timestamp": "2026-11-02T10:22:32.082929+00:00",
+      "repairs_applied": [
+        "vocabulary_and_slop_body"
+      ],
+      "any_modified": true
+    },
+    "17": {
+      "timestamp": "2026-11-02T10:41:00.639655+00:00",
+      "repairs_applied": [
+        "hieratic_pronouns"
+      ],
+      "any_modified": true
+    },
+    "19": {
+      "timestamp": "2026-11-02T11:05:48.683975+00:00",
+      "repairs_applied": [
+        "vocabulary_and_slop_body",
+        "hieratic_pronouns"
+      ],
+      "any_modified": true
+    },
+    "21": {
+      "timestamp": "2026-11-02T11:37:39.487474+00:00",
+      "repairs_applied": [
+        "hieratic_pronouns"
+      ],
+      "any_modified": true
+    },
+    "23": {
+      "timestamp": "2026-11-02T12:11:56.423833+00:00",
+      "repairs_applied": [
+        "hieratic_pronouns",
+        "epigraphic_headings"
+      ],
+      "any_modified": true
+    }
+  },
+  "updated_at": "2026-11-02T12:11:56.423851+00:00"
+}

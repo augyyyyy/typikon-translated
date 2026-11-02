@@ -1,0 +1,56 @@
+{
+  "monument_id": "1716_kyiv_marian_canons_octoechos",
+  "title": "1716 Kyiv-Pechersk Lavra Theotokarion / Eight-Tone Marian Canons (Богородичник / Канони Богородиці Осмогласні, Київ: Друкарня Лаври, 1716)",
+  "monument_type": "octoechos",
+  "genre_register": "hymnographic",
+  "retrospective_timestamp": "2026-11-02T13:16:41.931303+00:00",
+  "codicological_profile": {
+    "total_physical_leaves": 246,
+    "cohort_count": 25,
+    "default_cohort_size": 10,
+    "monument_type": "octoechos"
+  },
+  "subagent_execution_telemetry": {
+    "total_cohorts_dispatched": 25,
+    "worker_model": "flash",
+    "cohorts_passing_gate_100pct": 25,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.065,
+      "median_cohort_ratio": 1.191,
+      "max_cohort_median": 1.274
+    }
+  },
+  "argon_review_queue_telemetry": {
+    "total_items_recorded": 0,
+    "resolved_by_argon": 0,
+    "info_telemetry_only": 0,
+    "unresolved_quarantines": 0,
+    "codicological_crux_count": 0
+  },
+  "final_publication_verification": {
+    "parts_count": 12,
+    "parts": [
+      "1716_kyiv_marian_canons_octoechos_part0_front_matter.md",
+      "1716_kyiv_marian_canons_octoechos_part1_preface.md",
+      "1716_kyiv_marian_canons_octoechos_part2_tone-1.md",
+      "1716_kyiv_marian_canons_octoechos_part3_tone-2.md",
+      "1716_kyiv_marian_canons_octoechos_part4_tone-3.md",
+      "1716_kyiv_marian_canons_octoechos_part5_tone-4.md",
+      "1716_kyiv_marian_canons_octoechos_part6_tone-5.md",
+      "1716_kyiv_marian_canons_octoechos_part7_tone-6.md",
+      "1716_kyiv_marian_canons_octoechos_part8_tone-7.md",
+      "1716_kyiv_marian_canons_octoechos_part9_tone-8.md",
+      "1716_kyiv_marian_canons_octoechos_part10_weekday-octoechos.md",
+      "1716_kyiv_marian_canons_octoechos_part11_ascetic-homilies-and-colophon.md"
+    ],
+    "total_footnotes_verified": 444,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.065,
+      "median_cohort_ratio": 1.191,
+      "max_cohort_median": 1.274
+    },
+    "all_6_publication_gates_passed": true
+  },
+  "edge_cases_and_anomalies": [],
+  "engine_hardening_proposals": []
+}
