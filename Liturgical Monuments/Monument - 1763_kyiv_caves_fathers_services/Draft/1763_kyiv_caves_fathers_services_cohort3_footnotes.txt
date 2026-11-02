@@ -1,0 +1,22 @@
+[^36]: The printed Church Slavonic text reads `ѿгѡ̀` (a printer's error for `тогѡ̀`, "of that [physician]") and `ᲂу҆спше́мъ` (for `ᲂу҆со́пшимъ`, "reposed").
+[^37]: Cf. John 12:26: "If any man serve Me, let him follow Me; and where I am, there shall also My servant be." The printed text reads `внѣ́шнѣхъ` (literally "of external things/words"), which in this liturgical context appears to be a typesetting corruption for `бж҃е́ственныхъ` ("divine") or denotes the externally heard words of the Holy Gospel.
+[^38]: 1 Kings 2:30 [LXX] (1 Sam. 2:30): "For them that honor Me will I honor, and he that despises Me shall be lightly esteemed."
+[^39]: Cf. Ps. 91:13 [LXX] (Ps. 92:12): "The righteous man shall flourish like a palm tree, and like a cedar in Lebanon shall he be multiplied."
+[^40]: Ps. 76:12 [LXX] (Ps. 77:11): "I remembered the works of the Lord; for I will remember Thy wonders from the beginning."
+[^41]: Ps. 76:15 [LXX] (Ps. 77:14): "Thou art the God that doest wonders; Thou hast made known Thy power among the peoples."
+[^42]: Ps. 111:1 [LXX] (Ps. 112:1).
+[^43]: Ps. 115:6 [LXX] (Ps. 116:15).
+[^44]: The melodic model "Being Called from on High" (`Зва́нный свы́ше` / Ὁ κληθεὶς ἄνωθεν) is canonically an automelon of Tone 4; in this edition the rubric specifies `Гла́съ, а҃` (Tone 1), reflecting local Ruthenian chant practice or a typographical variant.
+[^45]: A diplomatic rendering of the printed imperial titulature `І҆МПЕРАТРИ́ЦѢ на́шей` (unto our Empress), invoking Empress Catherine II (the Great, reigned 1762–1796) during the publication year of this codex (1763).
+[^46]: The printed Slavonic rubric specifies `Подо́бїе: Что́ васъ нарече́мъ ст҃і́и` (Tone 2), which is the standard prosomoion model derived from the commemoration of holy martyrs.
+[^47]: The printed Slavonic text reads `покори́въ дх҃ъ тѣле́снымъ страсте́мъ` ("having subjected the spirit unto bodily passions"), which is an epigraphic/compositor invertendo slip for `покори́въ тѣ́ло дꙋхо́внымъ страсте́мъ/по́двигомъ` ("having subjected the body to the spirit / spiritual struggles").
+[^48]: Ps. 91:13 [LXX] (Ps. 92:12).
+[^49]: The rubric specifies `Подо́бенъ: Ли́къ а҆́гг҃лскїй` ("The Angelic Choir"), an automelon of Tone 1 closely aligned with `Небе́сныхъ чинѡ́въ`.
+[^50]: Melodic model `Премꙋ́дрости возше́дъ` (Tone 8), a standard variant/incipit of the model `Премꙋ́дрости и҆ Сло́ва` ("Having Ascended the Wisdom / In Wisdom and the Word").
+[^51]: The Slavonic rubric reads `г҃-гѡ гла́са` (of Tone 3 or Tone 4; the context and following prokeimenon establish Tone 4).
+[^52]: Ps. 67:36 [LXX] (Ps. 68:35).
+[^53]: Ps. 67:27 [LXX] (Ps. 68:26).
+[^54]: Printed `Правосла́вной І҆МПЕРАТРИ́ЦѢ` ("unto the Orthodox Empress"), referring diplomatically to Empress Catherine II (the Great, reigned 1762–1796).
+[^55]: Ps. 149:5 [LXX]: "The saints shall boast in glory, and they shall rejoice upon their beds."
+[^56]: Cf. Jonah 2:7, 10 [LXX]: "Let my life come up from corruption, O Lord my God... but I will sacrifice unto Thee with the voice of praise and thanksgiving."
+[^57]: Ps. 33:18 [LXX] (Ps. 34:17): "The righteous cried, and the Lord heard them, and delivered them out of all their afflictions."

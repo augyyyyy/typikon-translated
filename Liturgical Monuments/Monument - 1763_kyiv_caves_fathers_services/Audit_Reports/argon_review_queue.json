@@ -1,0 +1,339 @@
+{
+  "monument_id": "1763_kyiv_caves_fathers_services",
+  "updated_at": "2026-11-02T10:11:53.557466+00:00",
+  "total_queued_leaves": 0,
+  "info_telemetry_leaves": 30,
+  "unresolved_quarantines": 0,
+  "items": [
+    {
+      "leaf_num": 7,
+      "cohort": 1,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Final MD\\1763_kyiv_caves_fathers_services_cohort1.md",
+      "source_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Source Text\\1763_kyiv_caves_fathers_services_cohort1_source.txt",
+      "updated_at": "2026-11-02T04:17:04.355243+00:00"
+    },
+    {
+      "leaf_num": 74,
+      "cohort": 8,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 11 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Draft\\1763_kyiv_caves_fathers_services_cohort8_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Source Text\\1763_kyiv_caves_fathers_services_cohort8_source.txt",
+      "updated_at": "2026-11-02T07:51:28.809593+00:00"
+    },
+    {
+      "leaf_num": 92,
+      "cohort": 10,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 12 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Draft\\1763_kyiv_caves_fathers_services_cohort10_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Source Text\\1763_kyiv_caves_fathers_services_cohort10_source.txt",
+      "updated_at": "2026-11-02T08:39:06.264906+00:00"
+    },
+    {
+      "leaf_num": 93,
+      "cohort": 10,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 11 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Draft\\1763_kyiv_caves_fathers_services_cohort10_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Source Text\\1763_kyiv_caves_fathers_services_cohort10_source.txt",
+      "updated_at": "2026-11-02T08:39:06.265614+00:00"
+    },
+    {
+      "leaf_num": 94,
+      "cohort": 10,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 11 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Draft\\1763_kyiv_caves_fathers_services_cohort10_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Source Text\\1763_kyiv_caves_fathers_services_cohort10_source.txt",
+      "updated_at": "2026-11-02T08:39:06.266201+00:00"
+    },
+    {
+      "leaf_num": 95,
+      "cohort": 10,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 14 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Draft\\1763_kyiv_caves_fathers_services_cohort10_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Source Text\\1763_kyiv_caves_fathers_services_cohort10_source.txt",
+      "updated_at": "2026-11-02T08:39:06.266797+00:00"
+    },
+    {
+      "leaf_num": 96,
+      "cohort": 10,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 12 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Draft\\1763_kyiv_caves_fathers_services_cohort10_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Source Text\\1763_kyiv_caves_fathers_services_cohort10_source.txt",
+      "updated_at": "2026-11-02T08:39:06.267333+00:00"
+    },
+    {
+      "leaf_num": 97,
+      "cohort": 10,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Draft\\1763_kyiv_caves_fathers_services_cohort10_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Source Text\\1763_kyiv_caves_fathers_services_cohort10_source.txt",
+      "updated_at": "2026-11-02T08:39:06.267809+00:00"
+    },
+    {
+      "leaf_num": 99,
+      "cohort": 10,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 17 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Draft\\1763_kyiv_caves_fathers_services_cohort10_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Source Text\\1763_kyiv_caves_fathers_services_cohort10_source.txt",
+      "updated_at": "2026-11-02T08:39:06.268586+00:00"
+    },
+    {
+      "leaf_num": 100,
+      "cohort": 10,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 16 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Draft\\1763_kyiv_caves_fathers_services_cohort10_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Source Text\\1763_kyiv_caves_fathers_services_cohort10_source.txt",
+      "updated_at": "2026-11-02T08:39:06.269127+00:00"
+    },
+    {
+      "leaf_num": 101,
+      "cohort": 11,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 13 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Draft\\1763_kyiv_caves_fathers_services_cohort11_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Source Text\\1763_kyiv_caves_fathers_services_cohort11_source.txt",
+      "updated_at": "2026-11-02T09:04:19.143742+00:00"
+    },
+    {
+      "leaf_num": 104,
+      "cohort": 11,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 14 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Draft\\1763_kyiv_caves_fathers_services_cohort11_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Source Text\\1763_kyiv_caves_fathers_services_cohort11_source.txt",
+      "updated_at": "2026-11-02T09:04:19.145553+00:00"
+    },
+    {
+      "leaf_num": 105,
+      "cohort": 11,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 13 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Draft\\1763_kyiv_caves_fathers_services_cohort11_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Source Text\\1763_kyiv_caves_fathers_services_cohort11_source.txt",
+      "updated_at": "2026-11-02T09:04:19.146371+00:00"
+    },
+    {
+      "leaf_num": 106,
+      "cohort": 11,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 14 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Draft\\1763_kyiv_caves_fathers_services_cohort11_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Source Text\\1763_kyiv_caves_fathers_services_cohort11_source.txt",
+      "updated_at": "2026-11-02T09:04:19.147214+00:00"
+    },
+    {
+      "leaf_num": 107,
+      "cohort": 11,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 13 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Draft\\1763_kyiv_caves_fathers_services_cohort11_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Source Text\\1763_kyiv_caves_fathers_services_cohort11_source.txt",
+      "updated_at": "2026-11-02T09:04:19.147945+00:00"
+    },
+    {
+      "leaf_num": 108,
+      "cohort": 11,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 13 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Draft\\1763_kyiv_caves_fathers_services_cohort11_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Source Text\\1763_kyiv_caves_fathers_services_cohort11_source.txt",
+      "updated_at": "2026-11-02T09:04:19.148831+00:00"
+    },
+    {
+      "leaf_num": 111,
+      "cohort": 12,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 11 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Draft\\1763_kyiv_caves_fathers_services_cohort12_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Source Text\\1763_kyiv_caves_fathers_services_cohort12_source.txt",
+      "updated_at": "2026-11-02T09:28:01.159846+00:00"
+    },
+    {
+      "leaf_num": 112,
+      "cohort": 12,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 11 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Draft\\1763_kyiv_caves_fathers_services_cohort12_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Source Text\\1763_kyiv_caves_fathers_services_cohort12_source.txt",
+      "updated_at": "2026-11-02T09:28:01.160401+00:00"
+    },
+    {
+      "leaf_num": 113,
+      "cohort": 12,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 14 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Draft\\1763_kyiv_caves_fathers_services_cohort12_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Source Text\\1763_kyiv_caves_fathers_services_cohort12_source.txt",
+      "updated_at": "2026-11-02T09:28:01.160985+00:00"
+    },
+    {
+      "leaf_num": 115,
+      "cohort": 12,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Draft\\1763_kyiv_caves_fathers_services_cohort12_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Source Text\\1763_kyiv_caves_fathers_services_cohort12_source.txt",
+      "updated_at": "2026-11-02T09:28:01.161777+00:00"
+    },
+    {
+      "leaf_num": 116,
+      "cohort": 12,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Draft\\1763_kyiv_caves_fathers_services_cohort12_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Source Text\\1763_kyiv_caves_fathers_services_cohort12_source.txt",
+      "updated_at": "2026-11-02T09:28:01.162271+00:00"
+    },
+    {
+      "leaf_num": 117,
+      "cohort": 12,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 12 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Draft\\1763_kyiv_caves_fathers_services_cohort12_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Source Text\\1763_kyiv_caves_fathers_services_cohort12_source.txt",
+      "updated_at": "2026-11-02T09:28:01.162811+00:00"
+    },
+    {
+      "leaf_num": 120,
+      "cohort": 12,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 15 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Draft\\1763_kyiv_caves_fathers_services_cohort12_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Source Text\\1763_kyiv_caves_fathers_services_cohort12_source.txt",
+      "updated_at": "2026-11-02T09:28:01.163844+00:00"
+    },
+    {
+      "leaf_num": 121,
+      "cohort": 13,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 22 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Draft\\1763_kyiv_caves_fathers_services_cohort13_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Source Text\\1763_kyiv_caves_fathers_services_cohort13_source.txt",
+      "updated_at": "2026-11-02T10:00:51.558598+00:00"
+    },
+    {
+      "leaf_num": 122,
+      "cohort": 13,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 16 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Draft\\1763_kyiv_caves_fathers_services_cohort13_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Source Text\\1763_kyiv_caves_fathers_services_cohort13_source.txt",
+      "updated_at": "2026-11-02T10:00:51.559106+00:00"
+    },
+    {
+      "leaf_num": 123,
+      "cohort": 13,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 13 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Draft\\1763_kyiv_caves_fathers_services_cohort13_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Source Text\\1763_kyiv_caves_fathers_services_cohort13_source.txt",
+      "updated_at": "2026-11-02T10:00:51.559603+00:00"
+    },
+    {
+      "leaf_num": 124,
+      "cohort": 13,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 12 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Draft\\1763_kyiv_caves_fathers_services_cohort13_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Source Text\\1763_kyiv_caves_fathers_services_cohort13_source.txt",
+      "updated_at": "2026-11-02T10:00:51.560097+00:00"
+    },
+    {
+      "leaf_num": 126,
+      "cohort": 13,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 15 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Draft\\1763_kyiv_caves_fathers_services_cohort13_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Source Text\\1763_kyiv_caves_fathers_services_cohort13_source.txt",
+      "updated_at": "2026-11-02T10:00:51.560959+00:00"
+    },
+    {
+      "leaf_num": 130,
+      "cohort": 13,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 14 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Draft\\1763_kyiv_caves_fathers_services_cohort13_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Source Text\\1763_kyiv_caves_fathers_services_cohort13_source.txt",
+      "updated_at": "2026-11-02T10:00:51.562237+00:00"
+    },
+    {
+      "leaf_num": 131,
+      "cohort": 14,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 13 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Draft\\1763_kyiv_caves_fathers_services_cohort14_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1763_kyiv_caves_fathers_services\\Source Text\\1763_kyiv_caves_fathers_services_cohort14_source.txt",
+      "updated_at": "2026-11-02T10:11:53.556952+00:00"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "monument_id": "1763_kyiv_caves_fathers_services",
+  "cohorts": {
+    "1": {
+      "timestamp": "2026-11-02T04:10:16.418998+00:00",
+      "repairs_applied": [
+        "vocabulary_and_slop_body",
+        "hieratic_pronouns",
+        "epigraphic_headings"
+      ],
+      "any_modified": true
+    },
+    "2": {
+      "timestamp": "2026-11-02T04:49:39.800441+00:00",
+      "repairs_applied": [
+        "hieratic_pronouns",
+        "epigraphic_headings"
+      ],
+      "any_modified": true
+    },
+    "3": {
+      "timestamp": "2026-11-02T05:25:13.175842+00:00",
+      "repairs_applied": [
+        "hieratic_pronouns"
+      ],
+      "any_modified": true
+    },
+    "4": {
+      "timestamp": "2026-11-02T06:19:52.091968+00:00",
+      "repairs_applied": [
+        "vocabulary_and_slop_body"
+      ],
+      "any_modified": true
+    },
+    "5": {
+      "timestamp": "2026-11-02T06:52:01.002707+00:00",
+      "repairs_applied": [
+        "vocabulary_and_slop_body",
+        "hieratic_pronouns"
+      ],
+      "any_modified": true
+    },
+    "6": {
+      "timestamp": "2026-11-02T07:11:58.660317+00:00",
+      "repairs_applied": [
+        "hieratic_pronouns"
+      ],
+      "any_modified": true
+    },
+    "7": {
+      "timestamp": "2026-11-02T07:31:19.368526+00:00",
+      "repairs_applied": [
+        "hieratic_pronouns"
+      ],
+      "any_modified": true
+    },
+    "8": {
+      "timestamp": "2026-11-02T07:51:27.236754+00:00",
+      "repairs_applied": [
+        "hieratic_pronouns"
+      ],
+      "any_modified": true
+    },
+    "9": {
+      "timestamp": "2026-11-02T08:16:02.353021+00:00",
+      "repairs_applied": [
+        "hieratic_pronouns"
+      ],
+      "any_modified": true
+    },
+    "10": {
+      "timestamp": "2026-11-02T08:39:04.698779+00:00",
+      "repairs_applied": [
+        "vocabulary_and_slop_body",
+        "vocabulary_and_slop_footnotes",
+        "hieratic_pronouns"
+      ],
+      "any_modified": true
+    },
+    "11": {
+      "timestamp": "2026-11-02T09:04:17.566294+00:00",
+      "repairs_applied": [
+        "vocabulary_and_slop_body",
+        "hieratic_pronouns"
+      ],
+      "any_modified": true
+    },
+    "12": {
+      "timestamp": "2026-11-02T09:27:59.655042+00:00",
+      "repairs_applied": [
+        "vocabulary_and_slop_footnotes",
+        "hieratic_pronouns"
+      ],
+      "any_modified": true
+    },
+    "13": {
+      "timestamp": "2026-11-02T10:00:50.049391+00:00",
+      "repairs_applied": [
+        "vocabulary_and_slop_body",
+        "vocabulary_and_slop_footnotes",
+        "hieratic_pronouns",
+        "epigraphic_headings"
+      ],
+      "any_modified": true
+    },
+    "14": {
+      "timestamp": "2026-11-02T10:10:52.809656+00:00",
+      "repairs_applied": [],
+      "any_modified": false
+    }
+  },
+  "updated_at": "2026-11-02T10:10:52.809669+00:00"
+}

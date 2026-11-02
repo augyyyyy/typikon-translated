@@ -1,0 +1,53 @@
+{
+  "active_monument": "1763 Kyiv-Pechersk Lavra Services to the Venerable Fathers of the K... (SEALED)",
+  "monument_id": "1763_kyiv_caves_fathers_services",
+  "status": "completed",
+  "active_lease": false,
+  "total_physical_pages": 135,
+  "completed_cohorts": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "translated_pages": 135,
+  "remaining_pages": 0,
+  "current_cohort": 14,
+  "current_cohort_range": "pp. 131-135 (leaves p131-p135)",
+  "routing_phase": "PHASE_2_GRAND_PAUSE_READY",
+  "active_subagent_model": "inherit",
+  "argon_review_queue_count": 0,
+  "unresolved_quarantines": 0,
+  "cohort_retry_counts": {
+    "14": 1
+  },
+  "small_pause_gate_status": "MONUMENT_SEALED_AND_HANDED_OFF",
+  "active_blockers": [],
+  "updated_at": "2026-11-02T13:18:46.143654+00:00",
+  "cohort_prepared_timestamps": {
+    "1": "2026-11-02T03:41:22.417112+00:00",
+    "2": "2026-11-02T04:17:04.637582+00:00",
+    "3": "2026-11-02T04:49:41.688499+00:00",
+    "4": "2026-11-02T05:25:15.133404+00:00",
+    "5": "2026-11-02T06:19:54.077091+00:00",
+    "6": "2026-11-02T06:52:03.271258+00:00",
+    "7": "2026-11-02T07:12:00.795910+00:00",
+    "8": "2026-11-02T07:31:21.253457+00:00",
+    "9": "2026-11-02T07:51:29.127322+00:00",
+    "10": "2026-11-02T08:16:04.193954+00:00",
+    "11": "2026-11-02T08:39:06.567435+00:00",
+    "12": "2026-11-02T09:04:19.475986+00:00",
+    "13": "2026-11-02T09:28:01.461808+00:00",
+    "14": "2026-11-02T10:00:51.868802+00:00"
+  }
+}
