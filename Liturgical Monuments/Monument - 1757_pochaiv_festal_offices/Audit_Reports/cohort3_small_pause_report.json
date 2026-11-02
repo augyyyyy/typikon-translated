@@ -1,0 +1,90 @@
+{
+  "timestamp": "2026-11-01T19:30:53.279414+00:00",
+  "monument_id": "1757_pochaiv_festal_offices",
+  "monument_type": "anthologion",
+  "cohort": 3,
+  "target_file": "1757_pochaiv_festal_offices_cohort3_raw_draft.md",
+  "overall_status": "PASSED",
+  "cohort_telemetry": {
+    "prepared_at_iso": null,
+    "first_verified_at_iso": "2026-11-01T19:30:53.270337+00:00",
+    "verified_at_iso": "2026-11-01T19:30:53.270337+00:00",
+    "initial_duration_sec": null,
+    "duration_sec": null,
+    "source_words": 154,
+    "draft_words": 167,
+    "footnote_count": 3,
+    "footnote_words": 160,
+    "sgc02_ratio": 1.0243
+  },
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1757_pochaiv_festal_offices_cohort3_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 2
+    },
+    "hieratic_pronouns": {
+      "file": "1757_pochaiv_festal_offices_cohort3_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1757_pochaiv_festal_offices_cohort3_raw_draft.md",
+      "footnotes_file": "1757_pochaiv_festal_offices_cohort3_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 3,
+      "definition_markers_count": 3,
+      "text_markers": [
+        "[^72]",
+        "[^73]",
+        "[^74]"
+      ],
+      "definition_markers": [
+        "[^72]",
+        "[^73]",
+        "[^74]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1757_pochaiv_festal_offices_cohort3_raw_draft.md",
+      "passed": true,
+      "paragraphs": 18,
+      "headings_count": 0,
+      "headings": [],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 2,
+        "min_leaf": 21,
+        "max_leaf": 22
+      },
+      "anomalies": []
+    },
+    "monument_type_policy": {
+      "passed": true,
+      "monument_type": "anthologion",
+      "violation_count": 0,
+      "violations": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument - 1757_pochaiv_festal_offices\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "cohort_info_telemetry_leaves": [],
+    "total_queued_leaves": 1,
+    "info_telemetry_leaves": 0,
+    "unresolved_quarantines": 0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "monument_id": "1757_pochaiv_festal_offices",
+  "title": "1757 Pochaiv Lavra Festal Offices / Vozsliduvaniia Prazdnykam (Возслідуванія праздникам, Почаїв: Друкарня Лаври, 1757)",
+  "monument_type": "anthologion",
+  "genre_register": "hymnographic",
+  "retrospective_timestamp": "2026-11-02T03:04:54.487143+00:00",
+  "codicological_profile": {
+    "total_physical_leaves": 22,
+    "cohort_count": 3,
+    "default_cohort_size": 10,
+    "monument_type": "anthologion"
+  },
+  "subagent_execution_telemetry": {
+    "total_cohorts_dispatched": 3,
+    "worker_model": "flash",
+    "cohorts_passing_gate_100pct": 3,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.024,
+      "median_cohort_ratio": 1.125,
+      "max_cohort_median": 1.139
+    }
+  },
+  "argon_review_queue_telemetry": {
+    "total_items_recorded": 1,
+    "resolved_by_argon": 1,
+    "info_telemetry_only": 0,
+    "unresolved_quarantines": 0,
+    "codicological_crux_count": 0
+  },
+  "final_publication_verification": {
+    "parts_count": 4,
+    "parts": [
+      "1757_pochaiv_festal_offices_part0_front_matter.md",
+      "1757_pochaiv_festal_offices_part1_part-i-office-for-the-feast-of-the-most.md",
+      "1757_pochaiv_festal_offices_part2_part-ii-office-for-the-feast-of-the-comp.md",
+      "1757_pochaiv_festal_offices_part3_part-iii-office-for-the-feast-of-the-ble.md"
+    ],
+    "total_footnotes_verified": 74,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.024,
+      "median_cohort_ratio": 1.125,
+      "max_cohort_median": 1.139
+    },
+    "all_6_publication_gates_passed": true
+  },
+  "edge_cases_and_anomalies": [],
+  "engine_hardening_proposals": []
+}

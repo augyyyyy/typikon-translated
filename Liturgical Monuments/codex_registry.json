@@ -1820,11 +1820,44 @@
       "default_cohort_size": 10,
       "genre_register": "hymnographic",
       "workspace_dir": "Liturgical Monuments/Monument - 1773_pochaiv_general_menaion",
-      "active": false,
-      "status": "queued",
+      "active": true,
+      "status": "in_progress",
       "historical_year": 1773,
       "wave": 3,
-      "monument_type": "anthologion"
+      "monument_type": "anthologion",
+      "flash_execution_guardrails": [
+        "H1 & H2 Allowed for Primary Service Headings",
+        "Emit H1 (# ...) only at primary major divisions: # FRONT MATTER, # COMMON SERVICES TO THE SAINTS, # THEOTOKION CANONS, # THEOTOKIA OF THE EIGHT TONES",
+        "Emit H2 (## ...) only at primary service headpieces (e.g. ## Common Service to a Single Prophet)",
+        "Render all sub-services, canons, odes, heirmoi, troparia, stichera, and rubrics as inline italics (*...*), never ### or ####",
+        "2-up Opening Geometry: Leaves p1..p152 are 2-page spreads (except p1 and p152 which are outer leather covers); do not emit standalone [Page N] bracket lines in body text"
+      ],
+      "publication_spec": {
+        "mode": "universal_dynamic_h1",
+        "hub_inbox_folder": "1773_Pochaiv_Lavra_General_Menaion_/_Mineia_Zahalna",
+        "master_title": "1773 Pochaiv Lavra General Menaion / Mineia Zahalna (Мінея Загальна, Почаїв: Друкарня Почаївської Лаври, 1773)",
+        "parts": [
+          {
+            "id": "part0",
+            "filename": "1773_pochaiv_general_menaion_part0_front_matter.md",
+            "title": "Front Matter, Title Page, and Introductory Apparatus",
+            "start_landmark": null
+          },
+          {
+            "id": "part1",
+            "filename": "1773_pochaiv_general_menaion_part1_part-i-common-services-to-the-saints.md",
+            "title": "PART I: COMMON SERVICES TO THE SAINTS",
+            "start_landmark": "^#\\s+PART\\ I:\\ COMMON\\ SERVICES\\ TO\\ THE\\ SAINTS(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part2",
+            "filename": "1773_pochaiv_general_menaion_part2_part-ii-theotokion-canons-and-theotokia.md",
+            "title": "PART II: THEOTOKION CANONS AND THEOTOKIA OF THE EIGHT TONES",
+            "start_landmark": "^#\\s+PART\\ II:\\ THEOTOKION\\ CANONS\\ AND\\ THEOTOKIA\\ OF\\ THE\\ EIGHT\\ TONES(?:\\s*\\[\\^\\d+\\])*$"
+          }
+        ],
+        "footnotes_filename": "1773_pochaiv_general_menaion_footnotes.md"
+      }
     },
     "1738_univ_festal_offices": {
       "monument_id": "1738_univ_festal_offices",
@@ -1836,11 +1869,43 @@
       "default_cohort_size": 10,
       "genre_register": "hymnographic",
       "workspace_dir": "Liturgical Monuments/Monument - 1738_univ_festal_offices",
-      "active": false,
-      "status": "queued",
+      "active": true,
+      "status": "in_progress",
       "historical_year": 1738,
       "wave": 3,
-      "monument_type": "anthologion"
+      "monument_type": "anthologion",
+      "publication_spec": {
+        "mode": "universal_dynamic_h1",
+        "hub_inbox_folder": "1738_Univ_Monastery_Festal_Offices_/_Vozslidovaniia_Prazdnykom",
+        "master_title": "1738 Univ Monastery Festal Offices / Vozslidovaniia Prazdnykom (Вослідованія праздником, Унів: Друкарня монастиря, 1738)",
+        "parts": [
+          {
+            "id": "part0",
+            "filename": "1738_univ_festal_offices_part0_front_matter.md",
+            "title": "Front Matter, Title Page, and Introductory Apparatus",
+            "start_landmark": null
+          },
+          {
+            "id": "part1",
+            "filename": "1738_univ_festal_offices_part1_part-i-office-of-the-feast-of-the-most-h.md",
+            "title": "PART I: OFFICE OF THE FEAST OF THE MOST HOLY MYSTERY OF THE EUCHARIST",
+            "start_landmark": "^#\\s+PART\\ I:\\ OFFICE\\ OF\\ THE\\ FEAST\\ OF\\ THE\\ MOST\\ HOLY\\ MYSTERY\\ OF\\ THE\\ EUCHARIST(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part2",
+            "filename": "1738_univ_festal_offices_part2_office-of-the-feast-of-the-compassion-of.md",
+            "title": "OFFICE OF THE FEAST OF THE COMPASSION OF THE MOST HOLY THEOTOKOS",
+            "start_landmark": "^#\\s+OFFICE\\ OF\\ THE\\ FEAST\\ OF\\ THE\\ COMPASSION\\ OF\\ THE\\ MOST\\ HOLY\\ THEOTOKOS(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part3",
+            "filename": "1738_univ_festal_offices_part3_office-of-the-feast-of-the-blessed-hiero.md",
+            "title": "OFFICE OF THE FEAST OF THE BLESSED HIEROMARTYR JOSAPHAT",
+            "start_landmark": "^#\\s+OFFICE\\ OF\\ THE\\ FEAST\\ OF\\ THE\\ BLESSED\\ HIEROMARTYR\\ JOSAPHAT(?:\\s*\\[\\^\\d+\\])*$"
+          }
+        ],
+        "footnotes_filename": "1738_univ_festal_offices_footnotes.md"
+      }
     },
     "1741_pochaiv_festal_offices": {
       "monument_id": "1741_pochaiv_festal_offices",
@@ -1852,11 +1917,37 @@
       "default_cohort_size": 10,
       "genre_register": "hymnographic",
       "workspace_dir": "Liturgical Monuments/Monument - 1741_pochaiv_festal_offices",
-      "active": false,
-      "status": "queued",
+      "active": true,
+      "status": "in_progress",
       "historical_year": 1741,
       "wave": 3,
-      "monument_type": "anthologion"
+      "monument_type": "anthologion",
+      "publication_spec": {
+        "mode": "universal_dynamic_h1",
+        "hub_inbox_folder": "1741_Pochaiv_Lavra_Festal_Offices_/_Vozslidovaniia_Prazdnykom",
+        "master_title": "1741 Pochaiv Lavra Festal Offices / Vozslidovaniia Prazdnykom (Возслідованія праздником, Почаїв: Друкарня Лаври, 1741)",
+        "parts": [
+          {
+            "id": "part0",
+            "filename": "1741_pochaiv_festal_offices_part0_front_matter.md",
+            "title": "Front Matter, Title Page, and Introductory Apparatus",
+            "start_landmark": null
+          },
+          {
+            "id": "part1",
+            "filename": "1741_pochaiv_festal_offices_part1_part-i-festal-offices-decreed-by-the-syn.md",
+            "title": "PART I: FESTAL OFFICES DECREED BY THE SYNOD OF ZAMOŚĆ",
+            "start_landmark": "^#\\s+PART\\ I:\\ FESTAL\\ OFFICES\\ DECREED\\ BY\\ THE\\ SYNOD\\ OF\\ ZAMOŚĆ(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part2",
+            "filename": "1741_pochaiv_festal_offices_part2_appendix-month-of-december.md",
+            "title": "APPENDIX: MONTH OF DECEMBER",
+            "start_landmark": "^#\\s+APPENDIX:\\ MONTH\\ OF\\ DECEMBER(?:\\s*\\[\\^\\d+\\])*$"
+          }
+        ],
+        "footnotes_filename": "1741_pochaiv_festal_offices_footnotes.md"
+      }
     },
     "1757_pochaiv_festal_offices": {
       "monument_id": "1757_pochaiv_festal_offices",
@@ -1869,10 +1960,42 @@
       "genre_register": "hymnographic",
       "workspace_dir": "Liturgical Monuments/Monument - 1757_pochaiv_festal_offices",
       "active": false,
-      "status": "queued",
+      "status": "completed",
       "historical_year": 1757,
       "wave": 3,
-      "monument_type": "anthologion"
+      "monument_type": "anthologion",
+      "publication_spec": {
+        "mode": "universal_dynamic_h1",
+        "hub_inbox_folder": "1757_Pochaiv_Lavra_Festal_Offices_/_Vozsliduvaniia_Prazdnykam",
+        "master_title": "1757 Pochaiv Lavra Festal Offices / Vozsliduvaniia Prazdnykam (Возслідуванія праздникам, Почаїв: Друкарня Лаври, 1757)",
+        "parts": [
+          {
+            "id": "part0",
+            "filename": "1757_pochaiv_festal_offices_part0_front_matter.md",
+            "title": "Front Matter, Title Page, and Introductory Apparatus",
+            "start_landmark": null
+          },
+          {
+            "id": "part1",
+            "filename": "1757_pochaiv_festal_offices_part1_part-i-office-for-the-feast-of-the-most.md",
+            "title": "PART I: OFFICE FOR THE FEAST OF THE MOST HOLY MYSTERY OF THE EUCHARIST",
+            "start_landmark": "^#\\s+PART\\ I:\\ OFFICE\\ FOR\\ THE\\ FEAST\\ OF\\ THE\\ MOST\\ HOLY\\ MYSTERY\\ OF\\ THE\\ EUCHARIST(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part2",
+            "filename": "1757_pochaiv_festal_offices_part2_part-ii-office-for-the-feast-of-the-comp.md",
+            "title": "PART II: OFFICE FOR THE FEAST OF THE COMPASSION OF THE MOST HOLY BIRTHGIVER OF GOD",
+            "start_landmark": "^#\\s+PART\\ II:\\ OFFICE\\ FOR\\ THE\\ FEAST\\ OF\\ THE\\ COMPASSION\\ OF\\ THE\\ MOST\\ HOLY\\ BIRTHGIVER\\ OF\\ GOD(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part3",
+            "filename": "1757_pochaiv_festal_offices_part3_part-iii-office-for-the-feast-of-the-ble.md",
+            "title": "PART III: OFFICE FOR THE FEAST OF THE BLESSED HIEROMARTYR JOSAPHAT",
+            "start_landmark": "^#\\s+PART\\ III:\\ OFFICE\\ FOR\\ THE\\ FEAST\\ OF\\ THE\\ BLESSED\\ HIEROMARTYR\\ JOSAPHAT(?:\\s*\\[\\^\\d+\\])*$"
+          }
+        ],
+        "footnotes_filename": "1757_pochaiv_festal_offices_footnotes.md"
+      }
     },
     "1763_kyiv_caves_fathers_services": {
       "monument_id": "1763_kyiv_caves_fathers_services",
@@ -1884,8 +2007,8 @@
       "default_cohort_size": 10,
       "genre_register": "hymnographic",
       "workspace_dir": "Liturgical Monuments/Monument - 1763_kyiv_caves_fathers_services",
-      "active": false,
-      "status": "queued",
+      "active": true,
+      "status": "in_progress",
       "historical_year": 1763,
       "wave": 3,
       "monument_type": "anthologion"
@@ -1900,8 +2023,8 @@
       "default_cohort_size": 10,
       "genre_register": "hymnographic",
       "workspace_dir": "Liturgical Monuments/Monument - 1785_kyiv_caves_fathers_services",
-      "active": false,
-      "status": "queued",
+      "active": true,
+      "status": "in_progress",
       "historical_year": 1785,
       "wave": 3,
       "monument_type": "anthologion"

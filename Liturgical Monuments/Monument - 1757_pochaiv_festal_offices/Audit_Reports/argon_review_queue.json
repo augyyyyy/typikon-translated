@@ -1,0 +1,22 @@
+{
+  "monument_id": "1757_pochaiv_festal_offices",
+  "updated_at": "2026-11-02T03:04:20.739489+00:00",
+  "total_queued_leaves": 0,
+  "info_telemetry_leaves": 0,
+  "unresolved_quarantines": 0,
+  "items": [
+    {
+      "leaf_num": 1,
+      "cohort": 1,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "epigraphic_uncertainty_marker: [?]",
+        "epigraphic_uncertainty_marker: [illegible]"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1757_pochaiv_festal_offices\\Draft\\1757_pochaiv_festal_offices_cohort1_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1757_pochaiv_festal_offices\\Source Text\\1757_pochaiv_festal_offices_cohort1_source.txt",
+      "updated_at": "2026-11-01T18:49:00.477876+00:00",
+      "resolved_at": "2026-11-02T03:04:18.674205+00:00"
+    }
+  ]
+}
