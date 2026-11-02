@@ -2014,7 +2014,7 @@
       "monument_type": "anthologion",
       "publication_spec": {
         "mode": "universal_dynamic_h1",
-        "hub_inbox_folder": "1763_Kyiv-Pechersk_Lavra_Services_to_the_Venerable_Fathers_of_the_K...",
+        "hub_inbox_folder": "1763_Kyiv-Pechersk_Lavra_Services_to_the_Venerable_Fathers_of_the_K",
         "master_title": "1763 Kyiv-Pechersk Lavra Services to the Venerable Fathers of the Kyiv Caves (Служби преподобним Отцям Печерським, Київ: Лавра, 1763)",
         "parts": [
           {
@@ -2109,14 +2109,14 @@
       "default_cohort_size": 10,
       "genre_register": "hymnographic",
       "workspace_dir": "Liturgical Monuments/Monument - 1785_kyiv_caves_fathers_services",
-      "active": true,
-      "status": "in_progress",
+      "active": false,
+      "status": "completed",
       "historical_year": 1785,
       "wave": 3,
       "monument_type": "anthologion",
       "publication_spec": {
         "mode": "universal_dynamic_h1",
-        "hub_inbox_folder": "1785_Kyiv-Pechersk_Lavra_Expanded_Services_to_the_Venerable_Fathers...",
+        "hub_inbox_folder": "1785_Kyiv-Pechersk_Lavra_Expanded_Services_to_the_Venerable_Fathers",
         "master_title": "1785 Kyiv-Pechersk Lavra Expanded Services to the Venerable Fathers of the Kyiv Caves (Служби преподобним Отцям Печерським, Київ: Лавра, 1785)",
         "parts": [
           {

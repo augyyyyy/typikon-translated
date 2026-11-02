@@ -1,0 +1,832 @@
+[^1]: *Poluchnik* (получникъ): 19th-century Ukrainian/Ruthenian administrative term denoting a pensioner or recipient of an allowance, here identifying the codex's private owner, Yevstafiy Savych, who recorded his ownership as a parental blessing on February 17, 1836.
+[^2]: Catherine II ('the Great'), Empress of Russia (reigned 1762–1796). The imperial family members enumerated are the Grand Duke Paul Petrovich (later Emperor Paul I), his wife Maria Feodorovna (Sophie Dorothea of Württemberg), and their children Alexander (later Emperor Alexander I), Constantine, Alexandra, and Elena.
+[^3]: Archimandrite Zosima (Valkevich), Archimandrite of the Kyiv-Pechersk Lavra from 1762 to 1786. Under his tenure, the Lavra printing press issued numerous landmark liturgical editions.
+[^4]: Engraver monogram (СФНМ) in Cyrillic, identifying the master engraver of the Kyiv-Pechersk Lavra workshop who executed the Dormition copperplate/woodcut.
+[^5]: The feast of the Synaxis of the Venerable Fathers of the Kyiv Caves who rest in the Near Caves (St. Anthony's Caves) is celebrated on the first Saturday following the Apodosis of the Elevation of the Holy Cross (September 21), which places it between September 22 and September 28 in the Julian calendar.
+[^6]: *The bell-ringer strikes the klepalo* (Клиентъ звонитъ): The physical rubric uses *klient* (a Lavra monastic colloquialism/corruption of *klepalo*, semantron or bell-ringer) directing the ringer to sound the klepalo/bells for Great Vespers. The 20th Kathisma antiphon refers to the final kathisma of the liturgical Psalter (Psalms 134–142, "O give thanks unto the Lord"), prescribed for Friday evening Vespers.
+[^7]: *Ruthenian land* (рѡссійская земле): The historical Kyivan recension applies this term to the lands of Kyivan Rus' and Ukraine, here celebrated as the spiritual cradle of the Caves monastics.
+[^8]: The rubric directs the choir to the Dismissal Theotokia (*Otpostitelny*) printed at the end of the codex on folio 151 (physical leaf p155).
+[^9]: The three festal Paremias for venerable monastics are taken from the Septuagint text of the Wisdom of Solomon: Wisdom 3:1–9; Wisdom 5:15–6:3; Wisdom 4:7–15.
+[^10]: The melody model *Tone 3, Podoben: "Thou Art the Trinity"* (Троица еси) governs the Sessional Hymn after the first Kathisma.
+[^11]: The Gospel reading for monastic hierarchs and ascetics: Matthew 4:23–5:1 (Slavic Pericope 10), recounting Christ teaching and healing throughout Galilee, followed by the ascent unto the mountain before the Sermon on the Mount.
+[^12]: Saint Barlaam, first Abbot of the Kyiv Caves Monastery (commemorated November 19), who left boyar rank and wealth to accept the monastic tonsure under Saint Anthony.
+[^13]: Saint Isaiah of the Caves, later Bishop of Rostov (commemorated May 15, d. 1090), and Saint Simon, Bishop of Vladimir and Suzdal (commemorated May 10, d. 1226), one of the principal epistolary compilers of the Kyiv Caves Paterikon.
+[^14]: Saint Ilya of Murom (St. Elijah of Murom, commemorated December 19, d. c. 1188), the epic warrior of Kyivan Rus' who took monastic vows in the Kyiv Caves Monastery; his incorrupt relics in the Near Caves bear an unhealed spear wound in the left hand and chest.
+[^15]: Saint Nikon the Dry (commemorated December 11, early 12th century), captured by the Polovtsians and held captive for three years under severe torment, refusing ransom and bearing torture with extraordinary endurance until he was miraculously delivered.
+[^16]: Saint Prokhor the "Orache-Eater" (*Lebednik*, commemorated February 10, d. 1107), who gathered wild orache (*chenopodium*) to bake bread for the starving populace during the severe Kyiv famine and miraculous transformed wood ashes into pure white salt.
+[^17]: Saint Mercurius, Bishop of Smolensk (commemorated August 7, d. 1239), whose body according to the Kyiv Caves tradition miraculously floated up the Dnieper River in a wooden coffin to the Lavra, where his relics were laid to rest in the Near Caves.
+[^18]: Saint Nestor the Chronicler (commemorated October 27, c. 1056–1114), monk of the Kyiv Caves and renowned chronicler, author of the *Primary Chronicle* (Tale of Bygone Years) and the hagiographical lives of Saints Boris and Gleb and Saint Theodosius of the Caves.
+[^19]: Hieromartyr Eustratius of the Caves (commemorated March 28, d. 1096), captured during a Polovtsian raid on Kyiv, sold into slavery in Chersonese (Crimea), and crucified on Pascha for refusing to renounce Christ, compared in the hymn unto the Prophet Elijah ascending to heaven in a fiery chariot.
+
+[^20]: Saint Matthew the Clairvoyant (commemorated October 5), monk of the Kyiv Caves, endowed with the prophetic gift of seeing demonic temptations and hidden thoughts.
+[^21]: Saint Ephraim the Eunuch, Bishop of Pereyaslav (commemorated January 28), who traveled to Constantinople and Mount Athos and brought back the Studite Typikon for Saint Theodosius.
+[^22]: Saint Mark the Grave-Digger (commemorated December 29), who dug graves in the Near Caves for thirty years and at whose command corpses obeyed his voice.
+[^23]: Saint Gregory the Wonderworker of the Caves (commemorated January 8, d. 1093), drowned in the Dnieper River by order of Prince Rostislav Vsevolodovich after prophesying the prince's defeat and death.
+[^24]: Saint Erasmus (commemorated February 24), who gave his wealth to adorn the Lavra Dormition Church with icons, and Saint Onesimus the Recluse (commemorated October 4).
+[^25]: Saint Spyridon and Saint Nicodemus the Prosphora-Bakers (commemorated October 31), who for thirty years baked prosphora while continually chanting the Psalter.
+[^26]: Saint Alipius the Iconographer (commemorated August 17) and Saint Gregory the Iconographer, who learned icon painting from the Byzantine masters who decorated the Great Lavra Church.
+[^27]: Saint Pimen the Faster (commemorated May 8) and Saint Ephraim the Priest.
+[^28]: Saint Onuphrius the Silent (commemorated July 21), Saint Isaiah the Recluse, and Saint Sylvester the Chronicler (commemorated January 2).
+[^29]: The foursome of princely ascetics: Saint Vladimir the Great, Equal-to-the-Apostles (commemorated July 15); the passion-bearers Boris and Gleb (baptized Roman and David, commemorated May 2 and July 24); and Prince Sviatoslav of Chernihiv, tonsured as Monk Nikola Sviatosha (commemorated October 14).
+[^30]: Saint Barbara the Great-Martyr (commemorated December 4), whose relics were brought to Kyiv in 1108; Saint Euphrosyne, Princess of Polotsk (commemorated May 23, d. 1173 in Jerusalem, whose incorrupt body was kept in the Kyiv Caves until 1910); and Righteous Juliana, Princess of Olshansk (commemorated July 6, c. 1540).
+[^31]: The assembly of the Hierarchs of Rus' enumerated in the Exapostilarion includes the Metropolitans of Kyiv and Moscow: Michael I, Hilarion, Peter, Alexis, Jonah, Photius, and Cyprian; Bishops Ephraim of Pereyaslav, Nicholas of Tmutarakan, and Nikita of Novgorod; Macarius, Metropolitan of Kyiv killed by the Tatars in 1497; Leontius, Bishop of Rostov; and Simon, Bishop of Vladimir and Suzdal.
+[^32]: Epistle reading for the feast: 2 Corinthians 11:21–12:9 (Pericope 176), recounting the Apostle Paul's ascetic labors, persecutions, visions, and the thorn in the flesh.
+[^33]: Gospel reading for monastics: Matthew 11:27–30 (Pericope 43), the invitation of Christ: "Come unto Me, all ye that labor and are heavy laden, and I will give you rest."
+[^34]: Saint Michael I, traditionally revered as the first Metropolitan of Kyiv (reigned c. 988–992), sent from Constantinople to baptize Prince Vladimir and the people of Rus'.
+[^35]: *Tsargrad* (Ца́рьгра́дъ): Constantinople, imperial capital of the Byzantine Empire and source of the baptism and ecclesiastical hierarchy of Kyivan Rus'.
+[^36]: The prophecy of the Apostle Andrew the First-Called, who according to the *Primary Chronicle* stood upon the hills of Kyiv, planted a cross, and prophesied that great churches would arise there and grace would shine forth upon the land.
+[^37]: The rubric prescribes the common festal Paremias for a holy hierarch from Proverbs 10, Proverbs 10–11, and Wisdom 4, located in the general festal apparatus at folio 151.
+[^38]: A dramatic prosopopoeia depicting the lament and terror of the pagan demonic idols when Saint Michael arrived in Kyiv, cast down the statues of Perun, and established the Christian faith.
+[^39]: Fulfilling the aforementioned prophecy of Saint Andrew the First-Called upon the Kyivan hills.
+[^40]: Gospel reading at Matins: John 10:9–16 (Pericope 36), the Good Shepherd pericope: "I am the door: by Me if any man enter in, he shall be saved..."
+[^41]: Typological parallel to the fall of the walls of Jericho before the Ark of the Covenant under Joshua (Joshua 6), prefiguring the collapse of Kyivan idols before the Cross and Saint Michael.
+[^42]: The gold neck-chain (*hryvnia*, гривна) worn by nobility in Kyivan Rus', here employed as a metaphor for the holy Gospel adorning the neck of the baptized city of Kyiv.
+[^43]: Saint Michael is likened to a second Moses leading the new Israel out of Egyptian idolatry, citing the prophetic verse of Psalm 71:16 (LXX 71:16): "There shall be an establishment of faith in the earth, upon the top of the mountains."
+[^44]: The destruction of the idol of Perun upon the hills of Kyiv in 988, as recorded in the *Primary Chronicle* (Tale of Bygone Years): the wooden statue with a silver head and gold mustache was tied to a horse's tail, dragged down the Borychiv descent, beaten with rods, and cast into the Dnieper River.
+[^45]: The relics of Saint Michael originally rested in the Church of the Tithes (*Desiatynna*) built by Prince Vladimir, and were later translated to the Kyiv Caves Lavra Dormition Cathedral, where they rested incorrupt.
+[^46]: The feast of Saint Michael on September 30 falls at the conclusion of September, the first month of the Byzantine liturgical year (Indiction), hence celebrated as the "first rotation of the new year."
+[^47]: Prince Vladimir the Great is here designated by his Christian baptismal name Basil (*Vasiliy*), after his imperial sponsor Emperor Basil II of Byzantium.
+[^48]: Woodcut engraving of Saint Damian the Presbyter and Healer (commemorated October 5, d. 1071), first physician and healer of the Kyiv Caves Monastery, who ministered to the sick with prayer and sanctified oil. In the lower register, Saint Theodosius appears to him on his deathbed in an angelic vision promising him the Kingdom of Heaven.
+[^49]: Saint Jeremiah the Clairvoyant (commemorated October 5, c. 1070), who was tonsured under Saint Anthony and received the gift of discerning the secret thoughts and spiritual struggles of the brethren.
+[^50]: Saint Matthew the Clairvoyant (commemorated October 5, late 11th century), who saw demonic spirits in the form of dark "Ethiopians" (a traditional monastic idiom for demons in early Christian and Kyivan literature) attempting to seduce the monastics.
+[^51]: The vision of Saint Matthew recorded in the *Kyiv Caves Paterikon* (Discourse 20): while standing during the service, he saw a demon in the guise of a soldier walking through the church and throwing sticky flowers (*lyepki*) onto the monks' robes; those to whom the flower stuck became drowsy and left the service before the dismissal, whereas those who resisted were untouched.
+[^52]: Saint Theodosius of the Caves (commemorated May 3 and August 14), Abbot and co-founder of the Kyiv Caves Monastery, spiritual father of Saint Damian, whose appearance the angel assumed when visiting Damian on his sickbed.
+[^53]: The church semantron (*bilo* / *klepalo*, би́ло): a resonant wooden board suspended outside the monastery church, struck with a wooden mallet to summon the brethren to services. Saint Matthew was resting beneath it after Matins when he saw a legion of demons marching toward a monk's cell.
+[^54]: The Great Lavra Church of the Dormition of the Most Holy Theotokos, miraculously founded in 1073 and consecrated in 1089, regarded as the earthly dwelling of the Mother of God, who sent Greek master-builders from Constantinople with her icon and relics.
+
+[^55]: Prince Sviatoslav Davydovych (monastic name Nikola Sviatosha, c. 1080–1143), Prince of Lutsk and Chernihiv, son of Davyd Sviatoslavych and grandson of Grand Prince Sviatoslav II of Kyiv. In 1106 he renounced his princely rank and entered the Kyiv-Pechersk Monastery, becoming the first East Slavic prince to embrace monasticism. He served as gatekeeper, kitchen laborer, and orchardist, and funded the construction of the Holy Trinity Gate Church (Troitska Nadbramna tserkva) above the monastery gates.
+[^56]: The three Old Testament readings for a Venerable Father (Wisdom 3:1–9; Wisdom 5:15–6:3; Wisdom 4:7–15) are indexed to folio 30 verso of the 1785 print (physical leaf p44), where common festal readings are printed in full.
+[^57]: Slavonic typographical error in the 1785 Lavra print: *па́пене* (papene) appears on Folio 18 recto as an epigraphic misprint for *прпⷠне* (prepodobne, "O venerable").
+[^58]: Saint Joasaph of India: The protagonist of the Christianized tale of Barlaam and Josaphat (*Повѣсть о Варлаамѣ и Іоасафѣ*), traditionally attributed to Saint John Damascene, who renounced his royal inheritance to pursue asceticism in the desert, serving as the quintessential patristic exemplar for Christian royalty renouncing secular rule.
+[^59]: Prince Nikola Sviatosha served for three continuous years in the monastery kitchen (*пова́рня*) chopping wood and preparing meals for the brethren; when his brothers Princes Iziaslav and Vladimir urged him to cease such menial labor, he requested permission to remain for an additional year.
+[^60]: Saint Nikola Sviatosha served for three continuous years as the monastery gatekeeper, sitting by the outer gates of the Kyiv-Pechersk Lavra, strictly regulating entry and greeting all visitors with deep prostrations, regardless of their social rank.
+[^61]: Following his three years as gatekeeper, Prince Nikola was assigned to the monastery refectory (*трапеза*), where he washed dishes, carried water, and set out food for the monks.
+[^62]: At the end of his cycle of menial obediences, the superior and brethren directed Saint Nikola to work in the monastery garden and orchard (*вертоград*), where he tended trees and produced fruits for the community.
+[^63]: The Syrian or Greek physician Peter, who had served as court physician to Prince Nikola before his tonsure, was sent by Nikola's brother Prince Iziaslav to admonish him to stop degrading himself through menial labor and harsh fasting; Saint Nikola instead converted Peter to monastic life.
+[^64]: Saint Nikola Sviatosha had excavated a burial niche for himself in the Near Caves of Saint Anthony; when the former physician Peter fell mortally ill and wept that he had not prepared a tomb, Saint Nikola ceded his own prepared burial place to Peter.
+[^65]: Codicological and hagiographical witness from the *Kyiv-Pechersk Paterikon*: Following the tonsure and death of the monk Peter, Saint Nikola Sviatosha lived an additional thirty years in the monastery without leaving its walls, falling asleep in the Lord around 1143.
+[^66]: The contact relics of Saint Nikola Sviatosha: his wooden headrest, brass pectoral cross, and hairshirt (*власяница*). According to the Paterikon, during an illness of Prince Iziaslav, Saint Nikola sent him his hairshirt, which immediately restored the prince to health; Iziaslav later wore it into battle as an invulnerable armor.
+[^67]: Saint Nestor the Chronicler (c. 1056–1114), monk of the Kyiv-Pechersk Monastery, disciple of Saint Theodosius, and author of the fundamental Ruthenian chronicle *The Tale of Bygone Years* (*Повѣсть временныхъ лѣтъ* / *Primary Chronicle*), as well as the *Life of Saint Theodosius* and the *Passion of Saints Boris and Gleb*.
+[^68]: Saint Nestor entered the Kyiv-Pechersk Lavra at the age of seventeen during the abbacy of Saint Theodosius, under whose spiritual direction he was trained in monastic ascetical discipline, later receiving the diaconate from Abbot Stephen.
+[^69]: Reference to the miraculous foundation of the Great Lavra Church of the Dormition (1073): according to the *Paterikon*, dew fell upon the entire region except the foundation site, and fire fell from heaven to consume the dew and trace the foundation boundaries, an event witnessed by Saint Nestor as a young novice.
+[^70]: Saint Nestor was ordained to the holy diaconate by Abbot Stephen (successor of Saint Theodosius), as recorded in his *Life* in the *Kyiv-Pechersk Paterikon*.
+[^71]: In August 1091, under Abbot John, Saint Nestor was appointed to excavate and uncover the incorrupt relics of Saint Theodosius from the Far Caves, subsequently participating in their solemn translation into the Great Dormition Church on August 14.
+[^72]: Saint Barlaam, first Abbot of the Kyiv-Pechersk Monastery (c. 1020–1065), son of the Kyivan boyar Ivan Yanovych; tonsured by Saint Anthony despite the fierce opposition of Grand Prince Iziaslav and his father; later appointed by Iziaslav as superior of the Monastery of Saint Demetrius in Kyiv. While returning from a pilgrimage to Constantinople and Mount Athos, he fell asleep in the Lord at the Holy Mountain Monastery in Volodymyr-Volynskyi; his relics were later translated to the Near Caves of Saint Anthony.
+
+[^73]: Psalm 111:1 (LXX).
+[^74]: Psalm 115:6 (LXX).
+[^75]: Reference to Saint Anthony of the Caves, under whose spiritual direction Saint Barlaam placed himself upon entering the monastic life.
+[^76]: Cf. Psalm 41:2 (LXX): "As the hart pants after the fountains of water..."
+[^77]: Reference to Saints Anthony and Theodosius of the Caves living in the subterranean cave; cf. Matthew 5:15.
+[^78]: Cf. Philippians 3:8.
+[^79]: Saint Barlaam was the son of the prominent Kyivan boyar Ivan Yanovych; prior to his tonsure, his parents had betrothed him to a noble maiden, whom he renounced to embrace asceticism in the cave.
+[^80]: Diplomatic Imperial titulature in the 1785 Kyiv-Pechersk Lavra edition, referring to Empress Catherine II (reigned 1762–1796).
+[^81]: Folio 30 verso of the 1785 print corresponds to physical leaf p35, where the three common Old Testament readings for a Venerable Father (Wisdom 3:1–9; Wisdom 5:15–6:3; Wisdom 4:7–15) are indexed or printed.
+[^82]: Saint Anthony of the Caves (c. 983–1073), founder of Kyivan monasticism, who tonsured Saint Barlaam and appointed him the first abbot of the Kyiv-Pechersk Monastery.
+[^83]: Cf. Psalm 44:3 (LXX): "Thou art fairer than the sons of men..."
+[^84]: Psalm 115:6 (LXX).
+[^85]: Psalm 91:13 (LXX).
+[^86]: Paraphrase of Psalm 138:17 (LXX): "Exceedingly precious unto me are Thy friends, O God; exceedingly strengthened have their principalities become."
+[^87]: Cf. Psalm 123:7 (LXX): "Our soul was delivered as a sparrow out of the snare of the fowlers..."
+[^88]: Psalm 67:36 (LXX).
+[^89]: Psalm 67:27 (LXX).
+[^90]: Psalm 115:6 (LXX).
+[^91]: Diplomatic Imperial titulature in the 1785 Lavra print, invoking divine protection for Empress Catherine II.
+[^92]: Cf. Philippians 3:13: "Forgetting those things which are behind, and reaching forth unto those things which are before..."
+[^93]: Cf. Matthew 13:44.
+[^94]: Cf. Psalm 117:22 (LXX); Matthew 21:42; 1 Peter 2:6–7.
+[^95]: Psalm 50:12 (LXX).
+[^96]: Habakkuk 3:2–3 (LXX).
+[^97]: The monastic tonsure and investiture of Saint Barlaam by Saint Anthony of the Caves: as recorded in Discourse 11 of the *Kyiv-Pechersk Paterikon*, Barlaam's father, the Kyivan boyar Ivan Yanovych, attacked the cave with an armed retinue, forcibly dragged Barlaam out, tore off his monastic mantle and cast it into a ravine, stripped away his klobuk ("helmet of salvation"), and forced him into rich boyar robes.
+[^98]: *Kyiv-Pechersk Paterikon*, Discourse 11: Upon being forcibly dressed in boyar attire, Saint Barlaam threw the garments into the mud and trampled them underfoot; when dragged to his father's estate, he refused to participate in the banquet, sat in a solitary corner, and maintained three days of silent fasting and prayer.
+[^99]: Psalm 149:5 (LXX).
+[^100]: Jonah 2:1–11 (LXX).
+[^101]: Psalm 33:18 (LXX).
+[^102]: *Kyiv-Pechersk Paterikon*, Discourse 11: Following three days of unwavering ascetic resistance and the collective prayers of the cave community, Saint Barlaam's father relented and allowed him to return in peace to Saint Anthony in the Caves.
+[^103]: The Three Holy Children in the Babylonian furnace (Daniel 3:26–56).
+[^104]: Around 1058, as the monastic brotherhood in the Caves grew to twelve ascetics, Saint Anthony appointed Saint Barlaam as the first Abbot (Ihegumen) of the Kyiv-Pechersk Monastery and withdrew to a neighboring hill to dig a new solitary cave (now the Near Caves).
+[^105]: *Kyiv-Pechersk Paterikon*, Discourse 11: Saint Barlaam undertook a pilgrimage to Jerusalem and Mount Athos to visit the holy sites and monastic centers of the Christian East, receiving the blessing of the elders before returning to Kyiv.
+[^106]: Following a second pilgrimage to Constantinople around 1065 to procure sacred icons and church vessels, Saint Barlaam fell mortally ill on his return journey and passed away at the Holy Mountain Monastery (*Святогорский монастырь*) in Volodymyr-Volynskyi, directing his companions to convey his body back to the Kyiv-Pechersk Lavra for burial in the Caves.
+[^107]: The Slavonic text labels this prosomoion as Tone 3 (*Гласъ, г҃. Подо́бенъ: Да́лъ є҆сѝ зна́менїе*); the canonical model *Да́лъ є҆сѝ зна́менїе* ("Thou hast given a sign") is customarily set in Tone 4 in the Ruthenian and Byzantine hymnographic tradition.
+[^108]: Reference to Saint Anthony of the Caves.
+[^109]: Saint Athanasius the Recluse of the Caves (c. 1176), an ascetic of the Near Caves whose life is recorded in Discourse 18 of the *Kyiv-Pechersk Paterikon*. Following a severe illness, he died and lay unburied for two days while the brethren prepared his grave; on the third day, the monks found him sitting up alive, weeping bitterly. He subsequently walled himself inside a dark cave cell for twelve years, speaking only to urge total repentance, strict obedience, and ceaseless prayer, weeping continuously until his peaceful falling asleep.
+[^110]: John 11:25–26.
+[^111]: Cf. Psalm 15:10 (LXX): "Neither wilt Thou suffer Thine holy one to see corruption."
+[^112]: Matthew 5:4: "Blessed are they that mourn: for they shall be comforted."
+[^113]: Habakkuk 3:11.
+[^114]: *Kyiv-Pechersk Paterikon*, Discourse 18: When the astonished brethren implored the resurrected monk to tell them what he had seen in the realm of the dead, Saint Athanasius replied only: "Keep obedience unto the superior in all things; repent unceasingly; and pray unto the Lord Jesus Christ, His most pure Mother, and the venerable Anthony and Theodosius, that you may finish your life here; for great is the benefit of obedience."
+[^115]: Reference to the patristic teaching on the aerial toll-houses (*мытарства*), through which the departing soul passes, defended by the fiery wings of prayer and unceasing repentance.
+[^116]: *Kyiv-Pechersk Paterikon*, Discourse 18: After speaking his three counsels on obedience, repentance, and prayer, Saint Athanasius walled up the entrance to his cave cell, leaving only a small aperture through which a little water and bread were passed on alternate days, remaining in total seclusion for twelve years without lighting a candle.
+[^117]: Etymological wordplay on the name *Athanasios* (Greek: Ἀθανάσιος, from ἀ- "not" + θάνατος "death" = "immortal" / "deathless"): "As one named for immortality (*безсмертия тезоименит*), after thy death thou didst rise alive."
+[^118]: *Kyiv-Pechersk Paterikon*, Discourse 18: Following the falling asleep of Saint Athanasius, a monk named Babylas (Vavila), who had been blind and paralyzed in his legs for many years, was carried to the cell of the recluse, wept over his body, and embraced his feet, instantly receiving complete sight and the ability to walk.
+[^119]: Luke 1:51–53, 78–79 (LXX Canticle of Zechariah / Magnificat).
+[^120]: Melodic model: Tone 2, *Подо́бенъ: Є҆гда̀ ѿ дре́ва* ("When from the Tree").
+[^121]: Typographical error in the 1785 Kyiv-Pechersk Lavra edition: *По́пне* (popne) appears on Folio 36 recto as an epigraphic misprint for *Прпⷠне* (prepodobne, "O venerable one").
+
+[^122]: St. Nikon the Dry (*Никонъ Сухїй*, d. ca. 1101) was a monk of the Kyiv Caves Monastery. In 1096, during the raid on the Lavra led by the Polovtsian Khan Boniak, Nikon was taken captive along with St. Eustratius of the Caves and other monks. Nikon remained a captive in the Polovtsian steppe for over three years, enduring cruel tortures, starvation, and exposure to burning heat and freezing cold. Because his body became completely emaciated and dried from these tortures and fasts, he received the cognomen "the Dry."
+[^123]: According to the *Kyiv Caves Paterikon* (Discourse 24), after three years of captivity, as Nikon predicted his impending release, his Polovtsian master cut the tendons of his legs to prevent escape. A few days later, Nikon was suddenly and invisibly transported through the air to the Dormition Cathedral of the Caves Lavra while the brethren were chanting the Eucharistic Canon during the Divine Liturgy.
+[^124]: Referring to the Polovtsians (Cumans), a nomadic Turkic people of the Pontic-Caspian steppe whose recurring incursions against Kyivan Rus' in the 11th–13th centuries included catastrophic raids on the Kyiv-Pechersk Lavra.
+[^125]: An allusion to the Song of Moses (Exod. 15:1–21 [LXX]).
+[^126]: Cf. 1 Kingdoms (1 Sam.) 2:5 [LXX]: "For the barren hath borne seven; and she that had many children is waxed feeble."
+[^127]: Slavonic *мета́нїи* (from Greek μετάνοιαι), prostrations (metanias) performed as part of the monastic rule of prayer and ascetic labor.
+[^128]: Cf. Psalm 125:5–6 [LXX]: "They that sow with tears shall reap with joy. They went on and wept, casting their seeds; but they shall surely come with rejoicing, bringing their sheaves."
+[^129]: In the *Paterikon*, Nikon's relatives repeatedly attempted to send gold and silver to ransom him from the Polovtsians, but Nikon strictly forbade them, choosing rather to suffer voluntary affliction for Christ's sake.
+[^130]: Psalm 93:12 [LXX].
+[^131]: Cf. Psalm 48:13, 21 [LXX]: "Man being in honor understood not: he was compared to the senseless beasts, and became like unto them."
+[^132]: Psalm 68:2 [LXX].
+[^133]: Psalm 67:7 [LXX]: "God settles the solitary in a house; bringing out those who are bound with courage."
+[^134]: Slavonic *подрѣ́занїя ли́ствецъ* (cutting of the shins/calves), referring to the severing of the Achilles tendons and hamstrings by the Polovtsian captor to permanently lame Nikon so he could not flee.
+[^135]: Psalm 69:2 [LXX]: "O God, attend unto my help; make haste to help me, O Lord."
+[^136]: Psalm 30:2 [LXX]: "In Thee, O Lord, have I hoped, let me never be ashamed; deliver me in Thy righteousness."
+[^137]: Referring to the Prophet Habakkuk, who was carried through the air by an angel by the hair of his head from Judea to Babylon to bring food to Daniel in the lions' den (Bel and the Dragon / Dan. 14:33–39 [LXX]).
+[^138]: St. Stephen the Protomartyr (Acts 7:59–60), who prayed for his persecutors as he was being stoned. St. Nikon likewise prayed for his Polovtsian master, who after Nikon's miraculous translation came to the Lavra, recognized him, converted to Christ, was baptized, and tonsured a monk under Nikon's spiritual direction.
+[^139]: Cf. Daniel 3 [LXX] (The Prayer of Azariah and the Song of the Three Holy Children).
+[^140]: James 5:16: "The effectual fervent prayer of a righteous man avails much."
+[^141]: Cf. 2 Corinthians 4:7: "But we have this treasure in earthen vessels, that the excellency of the power may be of God, and not of us."
+[^142]: St. Mark the Gravedigger (*Марко гробокопатель*, 11th–12th c.) and St. Theophilus the Weeper (*Ѳеофилъ слезоточивый*, 11th–12th c.) are commemorated together on December 24. Mark dug graves for the brethren of the Kyiv Caves Lavra, and was granted power over the dead; Theophilus was his disciple who wept for many years in deep repentance.
+[^143]: An ascetical patristic metaphor for the flesh and carnal passions as an "internal/domestic enemy" (*домашній врагъ*).
+[^144]: The liturgical texts for December 24 incorporate the Stichera and Troparia of the Forefeast of the Nativity of Christ, celebrated on the same day in the Byzantine Menaion.
+[^145]: Cross-reference to the three Old Testament readings common to a Venerable Father (fol. 30v = leaf p35).
+[^146]: An event from Discourse 33 of the *Kyiv Caves Paterikon*: a monk died, and when Mark went to anoint him with oil, there was no space to reach him; Mark commanded the deceased monk to pour the oil upon himself, and the dead man sat up, took the vessel, poured the oil over his head and breast, gave back the vessel, and lay down again.
+[^147]: Another miracle recorded in Discourse 33: a brother died before Mark could finish digging his grave, so Mark commanded the dead brother to wait until morning; the dead man opened his eyes and remained alive until the grave was ready the next day, at which point he peacefully fell asleep again.
+[^148]: Cf. Matthew 25:14–30 (The Parable of the Talents) and Matthew 20:1–16 (The Parable of the Laborers in the Vineyard).
+[^149]: Luke 10:19–21 (Pericope 44), read at Matins for monastic and ascetic saints.
+[^150]: Slavonic *ѡ҆ кро́та бо ме́да на то́кмо пи́лъ еси́ во́ду* - printed with explicit typographic brackets in the 1785 Kyiv-Pechersk edition, highlighting St. Mark's total abstinence from mead and wine in favor of water.
+[^151]: Habakkuk 3:2–3 [LXX].
+[^152]: John 14:12: "Truly, truly, I say unto you, he that believes in Me, the works that I do shall he do also; and greater works than these shall he do; because I go unto My Father."
+[^153]: An allusion to John 11:38–44, comparing the cave-sepulcher of the Caves with the garden-tomb of Lazarus.
+[^154]: Ephesians 2:14: "For He is our peace, Who hath made both one, and hath broken down the middle wall of partition between us."
+[^155]: Romans 8:28: "And we know that all things work together for good to them that love God, to them who are the called according to His purpose."
+[^156]: Exodus 3:2 [LXX] (The Burning Bush).
+[^157]: Jonah 2:1–10.
+[^158]: The miracle of the two brothers, John and Theophilus, recorded in Discourse 33 of the *Kyiv Caves Paterikon*. When John died first, Mark buried him in the higher sepulcher. When Theophilus complained that the senior place belonged to him, Mark commanded the dead John to yield the place, and the deceased brother rose up and moved to the lower place. Terrified by this miracle, Theophilus spent the rest of his life in unbroken weeping and repentance.
+[^159]: Discourse 33 of the *Kyiv Caves Paterikon* recounts that Theophilus wept so copiously throughout his remaining years that he filled whole vessels with his tears. An angel subsequently appeared to him, showing him a flask containing his tears and announcing that God had accepted his repentance.
+[^160]: Matthew 13:45–46 (The Parable of the Pearl of Great Price).
+[^161]: Slavonic *въ двои́хъ хотя́щихъ и дѣ́йствїихъ сꙋ́щему* (literally, "Who existest in two willings and operations"): a direct liturgical affirmation of the Sixth Ecumenical Council (Constantinople III, 680–681), which dogmatized that Jesus Christ possesses two natural wills and two operations (divine and human) corresponding to His two natures.
+[^162]: Luke 1:78–79 (The Canticle of Zechariah).
+[^163]: The canonical Nativity Forefeast Sticheron at the Praises for December 24.
+[^164]: St. Gregory the Wonderworker of the Caves (*Григорій чюдотворецъ*, d. 1093) is commemorated on January 8. In 1093, when Prince Rostislav Vsevolodovich of Pereyaslav was riding to join his brother Vladimir Monomakh in battle against the Polovtsians, his soldiers mocked Gregory near the Dnieper. The saint admonished them to repent, prophesying that Rostislav and his soldiers would drown in water. Enraged, the prince commanded that Gregory be bound with a heavy millstone around his neck and drowned in the Dnieper. Later that year, after being defeated by the Polovtsians at the Battle of the Stuhna River, Prince Rostislav fled on horseback across the river and drowned, exactly as Gregory had prophesied (*Kyiv Caves Paterikon*, Discourse 23).
+
+[^165]: Cf. Psalm 131:4 (LXX): "If I give sleep unto mine eyes, or slumber unto mine eyelids, or rest unto my temples..."
+[^166]: Rubrical reference directing the reader to the common readings for venerable monastic fathers provided on Folio 1 verso of the codex (leaves p6–p7).
+[^167]: St. Gregory the Wonderworker of the Caves (†1093, commemorated January 8), disciple of St. Theodosius of the Caves, renowned for his clairvoyance, prayer against demons, and martyr's death by drowning at the hands of Prince Rostislav Vsevolodovich of Pereyaslav.
+[^168]: Psalm 65:12 (LXX): "We went through fire and water, and Thou didst bring us out into refreshment."
+[^169]: Luke pericope 24 (composite liturgical reading from Luke 6:17–23), the standard festal Gospel lection for Venerable Fathers at Matins.
+[^170]: Heirmos of Ode 1 of the Canon for the Feast of the Theophany of the Lord, Tone 2, composed by St. Cosmas the Melodist (Bishop of Maiuma, c. 706–760).
+[^171]: Heirmos of Ode 3 of the Canon for Theophany, Tone 2 (alluding to 1 Samuel / 1 Kings 2:10).
+[^172]: According to the *Paterikon of the Kyiv Caves* (Discourse 24), three separate bands of thieves came to rob St. Gregory's cell and garden; the first sought his manuscripts, but were struck with supernatural sleep for five days and nights until the saint awoke them.
+[^173]: Heirmos of Ode 4 of the Canon for Theophany, Tone 2 (alluding to Habakkuk 3:1–3 and 1 Corinthians 1:24).
+[^174]: Cf. Proverbs 25:21 and Romans 12:20: "If thine enemy hunger, feed him; if he thirst, give him drink."
+[^175]: The municipal judge seized the thieves and prepared to torture them according to civil law; St. Gregory gave his own valued Sluzhebnik to the magistrate to secure their unconditional pardon and release.
+[^176]: Heirmos of Ode 5 of the Canon for Theophany, Tone 2 (alluding to Ephesians 2:14–16 and Philippians 4:7).
+[^177]: Discourse 24 of the *Paterikon*: the second band of thieves broke into St. Gregory's apple orchard, but their bodies were immobilized under the weight of the stolen sacks for two days and two nights.
+[^178]: Heirmos of Ode 6 of the Canon for Theophany, Tone 2 (alluding to Jonah 2:1–10 and Isaiah 40:3).
+[^179]: Discourse 24 of the *Paterikon*: the third incident involved three deceitful men who feigned poverty and asked for clothing, claiming one of them had died; St. Gregory gave the garments while prophesying that the conspirator who feigned death would soon die by hanging, which occurred that same day.
+[^180]: Kontakion commemorating St. Gregory's martyrdom in 1093, when he was cast into the Dnieper River with a heavy stone tied to his neck by Prince Rostislav Vsevolodovich.
+[^181]: Heirmos of Ode 7 of the Canon for Theophany, Tone 2 (alluding to the Song of the Three Holy Children in Daniel 3).
+[^182]: According to the *Paterikon of the Kyiv Caves* (Discourse 24), when St. Gregory asked the conspirators by what death the supposed deceased man would die, they scoffingly replied "he shall be hanged on a tree," which was fulfilled that day when the man was found strangled on an apple branch.
+[^183]: Heirmos of Ode 8 of the Canon for Theophany, Tone 2 (alluding to Daniel 3:49–50).
+[^184]: Discourse 24 of the *Paterikon*: the thief who climbed the apple tree in St. Gregory's orchard slipped, and his clothing caught on a broken branch, hanging him.
+[^185]: Heirmos of Ode 9 of the Canon for Theophany, Tone 2 (composed by St. Cosmas the Melodist).
+[^186]: While drawing water at the Dnieper River, St. Gregory was mocked by the young warriors of Prince Rostislav Vsevolodovich; the saint foretold that both they and their prince would drown during their coming battle against the Polovtsians.
+[^187]: Proverbs 9:8: "Reprove not a scorner, lest he hate thee: rebuke a wise man, and he will love thee."
+[^188]: Enraged by the prophecy of his doom, Prince Rostislav ordered St. Gregory bound and cast into the Dnieper; soon after, on May 26, 1093, Rostislav's army was defeated at the Battle of the Stuhna River, and the prince drowned while attempting to cross the swollen river.
+[^189]: The Kyiv Caves *Paterikon* relates that three days after his drowning, St. Gregory's body was found in his locked cell, miraculously transported and dried of river weeds, with the heavy stone still attached to his neck.
+[^190]: St. Ephraim, Bishop of Pereyaslav (†ca. 1098, commemorated January 28), former boyar and treasurer (*eunuch*) to Grand Prince Izyaslav Yaroslavich of Kyiv, tonsured by St. Antony of the Caves, later visited Constantinople where he transcribed the Studite Rule for the Pechersk Lavra, and built cathedral churches, public baths, and free hospitals in Pereyaslav.
+[^191]: Composite Old Testament paroemia drawn from Proverbs 10:7, 3:13–16, 8:1–4, appointed for feasts of venerable and hierarchical fathers.
+[^192]: Composite Old Testament paroemia from the Wisdom of Solomon (Wisdom 7:30, 8:2–4, 8:7–9, 9:1–14).
+[^193]: Composite Old Testament paroemia from the Wisdom of Solomon (Wisdom 4:7–14, 2:12–24) appointed for venerable and holy hierarchs.
+[^194]: At the request of St. Theodosius of the Kyiv Caves, St. Ephraim traveled to Constantinople around 1068–1070 and transcribed the complete liturgical and monastic Typikon (*Ustav*) of the Studite Monastery, which was subsequently introduced at the Kyiv Caves Lavra and became the foundational liturgical typikon throughout Kyivan Rus'.
+[^195]: Sessional Hymn after the 2nd Kathisma at Matins, Tone 3, modeled after the prosomoion *Joseph marveled* (*Удивися Иосиф*).
+[^196]: Sessional Hymn after the Polyeleos, Tone 5, modeled after *The Word co-beginningless* (*Собезначалное слово*). St. Ephraim's court title of *eunuch* (chamberlain and high steward to Grand Prince Izyaslav) is hymnographically interpreted in the spiritual sense of evangelical virginity and mortification of all carnal passions (cf. Matthew 19:12).
+[^197]: Common Gospel lection for a Holy Hierarch (John 10:9–16), reading of the Good Shepherd.
+[^198]: Canon to the Mother of God and to the Hierarch Ephraim, Tone 2; Ode 1 Heirmos: "Come, ye people, let us sing a song unto Christ God..." (Exodus 15:1–2).
+[^199]: The *Kyiv Caves Paterikon* (Discourse 8) records that St. Antony received Ephraim the boyar and commanded the elder Nikon to tonsure him and vest him in the monastic habit (*schema*).
+[^200]: Ode 3 Heirmos: "The bow of the mighty is broken..." (1 Samuel / 1 Kings 2:4).
+[^201]: Ode 4 Heirmos: "I have heard, O Lord, Thy glorious dispensation..." (Habakkuk 3:2).
+[^202]: Ode 5 Heirmos: "O Giver of light and Creator of the ages..." (Isaiah 26:9).
+[^203]: Ode 6 Heirmos: "From the whale Jonah cried aloud unto the Lord..." (Jonah 2:2–9).
+[^204]: Kontakion, Tone 8: commemorating St. Ephraim's historic achievement in transcribing the Studite Typikon at Constantinople and bringing it to St. Theodosius of the Caves for implementation across Rus'.
+[^205]: Ode 7 Heirmos: "When the golden image was worshiped on the plain of Dura..." (Daniel 3:1–23).
+
+[^206]: St. Ephraim of Pereyaslav was one of the senior hierarchs present at the solemn uncovering and translation of the incorrupt relics of St. Theodosius of the Caves from the cave to the Dormition Cathedral on August 14, 1091, as recounted in the Kyiv Caves Paterikon (Discourse 8) and the Primary Chronicle (sub anno 6599 [1091]).
+[^207]: The Archangel Michael, Supreme Commander (*Archistrategos*) of the Heavenly Hosts. In 1089, Bishop Ephraim of Pereyaslav consecrated the great stone Cathedral of Saint Michael the Archangel in Pereyaslav, renowned for its architectural magnificence, frescoed walls, and accompanying stone bath-house and infirmary.
+[^208]: Saint Prochor the Lebednik (Orache-Eater / Goosefoot-Eater), monk of the Kyiv Caves Monastery (d. February 10, 1107). During the severe famine in Rus' brought on by Polovtsian raids, he gathered wild orache (*Atriplex*, Church Slavonic *loboda*), rubbed it into flour with his hands, and baked loaves to feed the starving inhabitants of Kyiv; during the salt embargo imposed by Prince Svyatopolk Izyaslavich, he miraculously transformed wood ashes into pure salt. See Kyiv Caves Paterikon, Discourse 31.
+[^209]: Melodic model: Tone 8 Heirmos: *The chariot-driver Pharaoh* (Колесницегонителя Фараона). Exod. 15:1–19.
+[^210]: Melodic model: Tone 8 Heirmos: *O Lord, Who in the beginning established the heavens* (Утверждей в начале небеса). 1 Sam. (1 Kgs.) 2:2.
+[^211]: Melodic model: Tone 8 Heirmos: *Thou art my strength, O Lord* (Ты моя крепость, Господи). Hab. 3:2.
+[^212]: Melodic model: Tone 8 Heirmos: *Why hast Thou cast me off from Thy presence* (Вскую мя отринул еси). Ps. 42 (43):2.
+[^213]: Melodic model: Tone 8 Heirmos: *Cleanse me, O Savior, for many are mine iniquities* (Очисти мя, Спасе). Jonah 2:3.
+[^214]: Kontakion to the Venerable Prochor of the Caves, Tone 2, commemorating his miraculous ascetic fast on wild orache and the transformation of ashes into salt during the Kyiv famine and embargo.
+[^215]: Melodic model: Tone 8 Heirmos: *The fire of the descent of God in Babylon was once ashamed* (Божия снизхождения огнь устыдеся). Dan. 3:49–50.
+[^216]: Melodic model: Tone 8 Heirmos: *The Chaldean tormentor furiously kindled the furnace sevenfold* (Седмерицею пещь халдейский мучитель). Dan. 3:19–23.
+[^217]: Melodic model: Tone 8 Heirmos: *Heaven was amazed at this* (Ужасеся о сем небо).
+[^218]: Saint Isaac the Recluse of the Caves (d. February 14, ca. 1090). Formerly a wealthy merchant of Toropets named Chern, he gave away his wealth to the poor and monasteries, came to the Kyiv Caves, and was tonsured by Saint Antony. He entered strict reclusion in a tiny cave cell; after seven years, the adversary appeared to him disguised as Christ surrounded by demons in angelic splendor. Deceived into prostrating before the demon, Isaac fell gravely ill and paralyzed for two years, lovingly nursed by Saints Antony and Theodosius. Upon his miraculous recovery, he adopted holy folly (*yurodstvo*), endured the severe cold of winter, and gained complete power over the demons. See Kyiv Caves Paterikon, Discourse 36.
+[^219]: Melodic model: Tone 8 Podoben: *O most marvelous wonder* (О преславнаго чудесе).
+[^220]: Melodic model: Tone 4 Heirmos: *The three captains of strength, O Thou born of the Virgin* (Тристаты крепкия). Exod. 15:4.
+[^221]: Melodic model: Tone 4 Heirmos: *From the heights Thou camest down willingly upon earth* (Из высоты снизшел еси).
+[^222]: St. Isaac's ascetic habit: after surviving demonic deception and recovering from two years of paralysis, he purchased an untanned goatskin, stitched it tightly over his coarse haircloth undergarment (*milot*), and let it shrink and dry onto his flesh, wearing it constantly without removal as an instrument of mortification. See Kyiv Caves Paterikon, Discourse 36.
+[^223]: Melodic model: Tone 4 Heirmos: *For the sake of the love of Thine image, O Bountiful One* (Любве ради щедре твоего образа). Hab. 3:2–3.
+[^224]: Melodic model: Tone 4 Heirmos: *Make the light of Thy commandments to shine upon me, O Lord* (Возсияй ми Господи свет повелений твоих). Isa. 26:9.
+[^225]: Melodic model: Tone 4 Heirmos: *Engulfed in the tempest of sin* (Бурею греховною погружаемь). Jonah 2:3–7.
+[^226]: Kontakion to the Venerable Isaac the Recluse of the Caves, Tone 5, commemorating his victory over demonic delusion through voluntary self-abasement, holy folly (*yurodstvo*), and severe reclusion.
+[^227]: Melodic model: Tone 4 Heirmos: *Deliver us not up unto the end for Thy name's sake* (Не предаждь нас до конца). Prayer of Azarias / Song of the Three Holy Children (Dan. 3:34–35, LXX).
+[^228]: Melodic model: Tone 4 Heirmos: *Him Who was nailed in the flesh upon the Cross* (На кресте плотию пригвожденнаго).
+[^229]: Melodic model: Tone 4 Heirmos: *All of us magnify Thy love for mankind, O Christ our Savior* (Величаем вси человеколюбие твое).
+
+[^230]: Saint Eustratius the Faster and Venerable-Martyr of the Caves (d. March 28, 1097). Tonsured at the Kyiv Caves Monastery under St. Antony, he was renowned for strict fasting. In 1096, during a Polovtsian raid on Kyiv led by Bonyak, Eustratius was taken captive along with thirty monastic and lay companions and sold into slavery to a Jewish master in Chersonesus (Korsun). When their master attempted to force the Christian captives to renounce Christ, Eustratius exhorted them to endure starvation rather than apostatize; after all fifty captives died of hunger, the enraged master had Eustratius crucified upon a cross on the Paschal feast and pierced his side with a spear. See Kyiv Caves Paterikon, Discourse 29.
+[^231]: Melodic model: Tone 4 Podoben: *Of the heavenly hosts* (Небесных чинов).
+[^232]: Cross-reference to Folio 30 verso of the present edition, where the three common readings for a Venerable Monk are printed: Wis. 3:1–9; Wis. 5:15–6:3; Wis. 4:7–15. Physical leaf `p35`.
+[^233]: Melodic model: Tone 1 Podoben: *All-praised martyrs* (Всехвальнии мученицы).
+[^234]: Melodic model: Tone 4 Podoben: *The angelic choir* (Лик ангельский).
+[^235]: Melodic model: Tone 5 Podoben: *Co-beginningless Word* (Собезначальное Слово).
+[^236]: Melodic model: Tone 3 Podoben: *Speedily anticipate* (Скоро предвари).
+[^237]: Gospel according to Mark, pericope 37 (Mark 8:34–38; 9:1: "Whosoever will come after Me, let him deny himself, and take up his cross, and follow Me...").
+[^238]: Melodic model: Tone 1 Heirmos: *Thy victorious right hand* (Твоя победительная десница). Exod. 15:6.
+[^239]: Gal. 6:14 ("God forbid that I should boast, except in the Cross of our Lord Jesus Christ, by Whom the world hath been crucified unto me, and I unto the world").
+[^240]: Melodic model: Tone 1 Heirmos: *O Thou Who alone knowest the weakness of human nature* (Едине ведый человеческаго существа немощь). 1 Sam. (1 Kgs.) 2:2.
+[^241]: Amalek, the ancient biblical enemy of Israel (Exod. 17:8–16), typifying spiritual warfare and demonic assault against monastics.
+[^242]: Melodic model: Tone 1 Heirmos: *Seeing with his prophetic eyes the mountain overshadowed by the grace of God* (Гору тя благодатию Божиею приосененную). Hab. 3:3.
+[^243]: 2 Cor. 10:5 ("...casting down imaginations, and bringing every thought into captivity unto the obedience of Christ").
+[^244]: Chersonesus (Slavonic *Korsun*), an ancient Greek city on the southwestern Crimean peninsula.
+[^245]: Rom. 8:35, 18 ("Who shall separate us from the love of Christ? shall tribulation, or distress, or persecution, or famine... For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us").
+[^246]: Melodic model: Tone 1 Heirmos: *O Christ, Who didst enlighten with the radiance of Thy coming* (Просветивый сиянием пришествия твоего).
+[^247]: The fifty Christian captives: according to Discourse 29 of the Kyiv Caves Paterikon, Eustratius was captured along with thirty of his own monastic and lay companions, while twenty other Christians were also taken, making fifty in all; all fifty died of hunger and thirst in the dungeon within fourteen days, having been exhorted by Eustratius to choose death rather than deny Christ.
+[^248]: Melodic model: Tone 1 Heirmos: *The nethermost abyss hath compassed us* (Обыде нас последняя бездна). Jonah 2:5; Ps. 43:23 (44:22).
+[^249]: Kontakion to the Holy Venerable-Martyr Eustratius of the Caves, Tone 8.
+[^250]: Melodic model: Tone 1 Heirmos: *We faithful contemplate thee, O Mother of God, as a spiritual furnace* (Тебе умную Богородице пещь). Song of the Three Holy Children / Dan. 3:49–50.
+[^251]: Isa. 1:13–14 ("...your new moons and your appointed feasts my soul hates: they are a trouble unto me; I am weary to bear them").
+[^252]: Melodic model: Tone 1 Heirmos: *In the furnace the children of Israel, as in a crucible, shone brighter than gold* (В пещи отроцы Израилевы). Song of the Three Holy Children / Dan. 3:57.
+[^253]: Gal. 6:17 ("...for I bear in my body the marks of the Lord Jesus").
+[^254]: Melodic model: Tone 1 Heirmos: *The unburned bush showed forth an image of thy pure childbearing* (Образ чистаго рождества твоего). Exod. 3:2.
+[^255]: Byzantine Emperor Alexios I Komnenos (reigned 1081–1118). After the martyrdom of St. Eustratius, Emperor Alexios issued an imperial decree expelling and severely punishing Jewish slave-merchants in Chersonesus who held and persecuted Christian captives; the Jewish master who crucified Eustratius was executed by hanging upon a tree, fulfilling the saint's prophecy. See Kyiv Caves Paterikon, Discourse 29.
+[^256]: Gen. 4:10 ("...the voice of thy brother's blood cries unto me from the ground").
+[^257]: Saint Niphont, Bishop of Novgorod (d. April 8, 1156). Tonsured at the Kyiv Caves Monastery, he was consecrated Bishop of Novgorod in 1130. A staunch defender of canonical order, he refused to sanction the uncanonical marriage of Prince Svyatoslav Olgovich and opposed the uncanonical elevation of Clement Smoliatich as Metropolitan of Kyiv without the blessing of the Patriarch of Constantinople. Returning to the Kyiv Caves Monastery shortly before his death, he fell asleep in the Lord and was buried in the Near Caves of Saint Antony. See Kyiv Caves Paterikon, Discourse 14.
+[^258]: Melodic model: Tone 4 Podoben: *As one valiant* (Яко добля).
+[^259]: 2 Cor. 3:3 ("...written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart").
+[^260]: The Church of the Transfiguration of the Savior on Nereditsa and the Church of Saint Clement in Novgorod, along with the monumental Mirozhsky Monastery Cathedral frescoes in Pskov and the Dormition frescoes, were among the monumental shrines founded, built, and decorated under Bishop Niphont's episcopate.
+[^261]: The miraculous posthumous apparition of Saint Theodosius of the Caves to Bishop Niphont: shortly before his falling asleep, Bishop Niphont fell into a light sleep in the Caves Monastery and beheld Saint Theodosius holding an open scroll inscribed with the words of Isaiah: *Behold, I and the children whom God hath given me* (Isa. 8:18; Heb. 2:13), welcoming Niphont to eternal rest with the Caves brethren. See Kyiv Caves Paterikon, Discourse 14.
+[^262]: Melodic model: Tone 1 Heirmos: *Thy victorious right hand* (Твоя победительная десница). Exod. 15:6.
+[^263]: Melodic model: Tone 1 Heirmos: *O Thou Who alone knowest the weakness of human nature* (Едине ведый человеческаго существа немощь). 1 Sam. (1 Kgs.) 2:2.
+[^264]: Melodic model: Tone 1 Heirmos: *Seeing with his prophetic eyes the mountain overshadowed by the grace of God* (Гору тя благодатию Божиею приосененную). Hab. 3:3.
+[^265]: In 1135 and 1147, Bishop Niphont personally intervened on the battlefield between the warring princes of Kyiv, Chernihiv, and Novgorod, courageously preventing bloodshed and reconciling the brothers in peace. See Novgorod First Chronicle and Kyiv Caves Paterikon, Discourse 14.
+[^266]: 2 Tim. 4:2 ("Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all longsuffering and doctrine").
+[^267]: In 1136, Prince Svyatoslav Olgovich entered into an uncanonical marriage in Novgorod; Bishop Niphont refused to bless the union or allow his clergy to crown them, defying the prince's threats. See Novgorod First Chronicle.
+[^268]: Melodic model: Tone 1 Heirmos: *O Christ, Who didst enlighten with the radiance of Thy coming* (Просветивый сиянием пришествия твоего).
+[^269]: Saint Theodore the Studite (759–826), abbot of the Studios Monastery in Constantinople and champion of canonical order, who was exiled for resisting the adulterous marriage of Emperor Constantine VI (the "Moechian controversy"). Niphont is likened to him for withstanding both princes and uncanonical prelates.
+[^270]: Clement Smoliatich, consecrated Metropolitan of Kyiv in 1147 by a synod of Rus' bishops without the sanction or blessing of Patriarch Nicholas IV Mouzalon of Constantinople, using the relic of the head of Saint Clement of Rome in place of patriarchal imposition of hands. Bishop Niphont of Novgorod firmly refused communion with Clement, citing the sacred canons that forbade setting up a metropolitan without the Oecumenical Patriarch.
+[^271]: Melodic model: Tone 1 Heirmos: *The nethermost abyss hath compassed us* (Обыде нас последняя бездна). Jonah 2:5; Ps. 43:23 (44:22).
+[^272]: In 1149, Grand Prince Izyaslav II Mstislavich of Kyiv, enraged by Niphont's refusal to recognize Metropolitan Clement, detained Niphont and confined him to the Kyiv Caves Monastery; when Prince Yuri Dolgorukiy took Kyiv in the autumn of 1149, he liberated Niphont and restored him to his see in Novgorod with great honor.
+[^273]: Kontakion to Saint Niphont, Bishop of Novgorod, Tone 5.
+[^274]: Melodic model: Tone 1 Heirmos: *We faithful contemplate thee, O Mother of God, as a spiritual furnace* (Тебе умную Богородице пещь). Song of the Three Holy Children / Dan. 3:49–50.
+[^275]: Melodic model: Tone 1 Heirmos: *In the furnace the children of Israel, as in a crucible, shone brighter than gold* (В пещи отроцы Израилевы). Song of the Three Holy Children / Dan. 3:57.
+[^276]: Patriarch Luke Chrysoberges of Constantinople (served 1156–1169) sent an official patriarchal charter to Bishop Niphont, praising his steadfast orthodoxy and canonical discipline, comparing him to the ancient holy fathers and confessors. See Kyiv Caves Paterikon, Discourse 14.
+[^277]: In early 1156, Bishop Niphont traveled to Kyiv to welcome the canonically consecrated Metropolitan Constantine I from Constantinople, but fell ill at the Kyiv Caves Monastery before Constantine's arrival and peacefully fell asleep in the Lord on April 8, 1156.
+[^278]: Melodic model: Tone 1 Heirmos: *The unburned bush showed forth an image of thy pure childbearing* (Образ чистаго рождества твоего). Exod. 3:2.
+[^279]: Isa. 8:18; Heb. 2:13 ("Behold, I and the children whom God hath given me").
+[^280]: Common service for a Hierarch in the Menaion / Anthologion (e.g., at the Liturgy: Prokeimenon in Tone 1: *My mouth shall speak wisdom*; Epistle to the Hebrews, sec. 318 [Heb. 7:26–8:2]; Gospel according to John, sec. 36 [John 10:9–16]).
+
+[^281]: Theodosius of the Caves (ca. 1009–1074), co-founder with Saint Anthony of the Kyiv Caves Lavra, and father of Russian and Ruthenian coenobitic monasticism according to the Studite rule. Feast day May 3 commemorates his repose (May 3, 1074).
+[^282]: Melodic model heading: *Tone 1, Podoben: "Joy of the heavenly hosts" (Небе́сныхъ чинѡ́въ)*.
+[^283]: Rubrical note for *Both now...*: During the Paschal and Pentecost season (May 3 frequently falls within the Paschaltide or Ascension and Pentecost cycle), the Theotokion is taken from the feast of the ongoing cycle in the Pentecostarion (Triodion).
+[^284]: Melodic model heading: *Tone 2, Podoben: "House of Ephratha" (До́ме Єѵфра́ѳовъ)*.
+[^285]: Psalm 115:6 (LXX).
+[^286]: Psalm 111:1 (LXX).
+[^287]: Troparion of St. Theodosius of the Caves, Tone 8.
+[^288]: Melodic model heading: *Tone 5, Podoben: "Venerable father" (Преподо́бне ѻ́ч҃е)*.
+[^289]: The name *Theodosius* (Θεοδόσιος) is derived from Greek θεός (*God*) and δόσις (*gift*), hence "God-given gift" (*Бо́гомъ да́нный да́ръ*).
+[^290]: Wisdom of Solomon 5:15–6:3 (LXX).
+[^291]: Wisdom of Solomon 3:1–9 (LXX).
+[^292]: Wisdom of Solomon 4:11–15 (LXX).
+[^293]: Svyatoslav II Yaroslavich, who expelled his brother Izyaslav I from Kyiv in 1073; St. Theodosius boldly denounced Svyatoslav's usurpation and compared him to Cain.
+[^294]: Melodic model heading: *Tone 8, Podoben: "O most marvelous wonder" (Ѡ пресла́внагѡ чудесѐ)*.
+[^295]: The Slavonic vocative "цр҃ю вседержи́телю" is addressed to Christ the King Almighty, amidst the description of Theodosius's ascetic devotion.
+[^296]: Psalm 115:6 (LXX).
+[^297]: Psalm 111:1 (LXX).
+[^298]: Referring to the miraculous founding and building of the Great Church of the Dormition of the Kyiv Caves Lavra, designated by a pillar of fire and dew, where the reliquary of St. Theodosius rested.
+[^299]: Rubrical instruction at the Litiya and artoklasia: the troparion of the saint (*"Having been elevated unto virtue..."*) is sung twice if celebrated with All-Night Vigil, or once if combined with the feast.
+[^300]: Melodic model heading: *Tone 4, Podoben: "Go thou before" (Ско́рѡ предварѝ)*.
+[^301]: Melodic model heading: *Tone 8, Podoben: "Of Wisdom" (Прему́дрости)*.
+[^302]: Melodic model heading: *Tone 8, Podoben: "Of Wisdom" (Прему́дрости)*.
+[^303]: Psalm 115:6, 3 (LXX).
+[^304]: Matins Gospel for a Venerable Monastic: Luke 6:17–23 (pericope 24).
+[^305]: Canon structure: Canon of the current Paschal/Pentecost feast to 6 with its heirmos, and two canons to St. Theodosius to 8 (First Canon in Tone 8, Second Canon in Tone 6).
+[^306]: Heirmos of Ode 1, Canon 1, Tone 8 (Exodus 15:1–19).
+[^307]: Referring to the early childhood of Theodosius: according to his Life by Nestor the Chronicler, when brought to church on his fortieth day, the priest named him Theodosius ("given by God"), divining that he was consecrated to God from the womb.
+[^308]: Heirmos of Ode 1, Canon 2, Tone 6 (Exodus 14:21–31).
+[^309]: Referring to St. Theodosius baking prosphora (altar bread) with his own hands in his youth in Vasilkov/Kursk, enduring mockery and abuse from his mother.
+[^310]: Heirmos of Ode 3, Canon 1, Tone 8 (1 Kings / 1 Samuel 2:2).
+[^311]: When pilgrims passed through Kursk on their way to the Holy Land (Jerusalem), the young Theodosius joined them, but his mother pursued him, brought him back in chains, and beat him; Nestor's Life notes this was divine providence preventing him from leaving his homeland.
+[^312]: Heirmos of Ode 3, Canon 2, Tone 6 (1 Kings / 1 Samuel 2:2).
+[^313]: St. Theodosius secretly wore heavy iron chains/girdle around his waist, which cut into his flesh until blood flowed, discovered by his mother when washing his clothing.
+[^314]: Heirmos of Ode 4, Canon 1, Tone 8 (Habakkuk 3:1–19).
+[^315]: Heirmos of Ode 4, Canon 2, Tone 6 (Habakkuk 3:1–19).
+[^316]: After searching for Theodosius for years, his mother found him in the Caves with Anthony; Theodosius persuaded her to take the monastic veil herself at the Saint Nicholas convent in Kyiv.
+[^317]: Heirmos of Ode 5, Canon 1, Tone 8 (Isaiah 26:9).
+[^318]: Heirmos of Ode 5, Canon 2, Tone 6 (Isaiah 26:9).
+[^319]: Heirmos of Ode 6, Canon 1, Tone 8 (Jonah 2:1–10).
+[^320]: While traveling as a youth on an errand for the governor, the driver ordered Theodosius to drive the cart while the driver slept; boyars meeting them dismounted and bowed to Theodosius, astounding the servant.
+[^321]: In the monastery, Hegumen Theodosius carried water and chopped wood for the brethren with his own hands, serving as an example of humblest labor.
+[^322]: Heirmos of Ode 6, Canon 2, Tone 6 (Jonah 2:1–10).
+[^323]: Melodic model heading: *Tone 3, Podoben: "Today the Virgin" (Дѣ́ва дне́сь)*.
+[^324]: Referring to the miracle recorded by Nestor: when the monastery lacked funds, an unknown youth in shining garments brought a pouch of gold to Theodosius and vanished, sent by an angel.
+[^325]: Heirmos of Ode 7, Canon 1, Tone 8 (Daniel 3:26–56).
+[^326]: Heirmos of Ode 7, Canon 2, Tone 6 (Daniel 3:49–50).
+[^327]: Heirmos of Ode 8, Canon 1, Tone 8 (Daniel 3:57–88).
+[^328]: Shimon (Simon) the Varangian, who brought a golden crown and belt from Scandinavia, along with a vision of the Mother of God instructing him to build the church according to the measure of the belt, fulfilling the prophecy.
+[^329]: Nestor's Life of Theodosius relates that once when Prince Izyaslav visited unexpectedly and there was no wine or mead, Theodosius blessed an empty vessel, which miraculously overflowed with sweet honey-mead.
+[^330]: Heirmos of Ode 8, Canon 2, Tone 6 (Daniel 3:57–88; 1 Kings / 1 Samuel 18:38).
+[^331]: Heirmos of Ode 9, Canon 1, Tone 8.
+[^332]: "First of Russian cities" (*нача́ло гра́де рѡссі́йскїи*) refers to Kyiv, "mother of Russian cities" (*мати градом руським*).
+[^333]: Heirmos of Ode 9, Canon 2, Tone 6 (Luke 1:46–55).
+[^334]: Exapostilarion melodic model: *Podoben: "Give ear, ye women" (Же́ны оуслы́шите)*.
+[^335]: Melodic model heading: *Tone 2, Podoben: "When from the tree" (Єгда̀ ѿ дре́ва)*.
+[^336]: Nestor's Life records that robbers attacked the Caves monastery at night, but saw the church lifted into the air out of reach, and heard heavenly choirs singing within; terrified, they repented.
+[^337]: Psalm 115:6, 3 (LXX).
+[^338]: Liturgy Epistle for a Venerable Monastic: Hebrews 13:7–16 (pericope 334).
+[^339]: Psalm 131:9 (LXX).
+[^340]: Liturgy Gospel for a Venerable Monastic: Matthew 11:27–30 (pericope 33).
+[^341]: Psalm 111:6b (LXX).
+[^342]: Saint Simon (d. 1226), Bishop of Vladimir and Suzdal, tonsured at the Kyiv Caves Lavra, co-author with Saint Polycarp of the Kyiv Caves Paterikon (writing the epistles and initial discourse on the Caves saints). His feast day is May 10.
+[^343]: Melodic model heading: *Tone 5, Podoben: "Rejoice, life-bearing Cross" (Ра́дꙋйся живоно́сный крⷭтѐ)*.
+[^344]: Internal cross-reference to the readings for a Hierarch, given on Folio 52 (Service to Saint Ephraim of Pereyaslav, physical leaf p61 in Cohort 7).
+[^345]: Melodic model heading: *Tone 1, Podoben: "O all-praised martyrs" (Прехва́льнїи мч҃нцы)*.
+[^346]: Psalm 131:9 (LXX).
+[^347]: Psalm 36:30 (LXX).
+[^348]: "First-founders" (*первонача́лники*) refers to Saints Anthony and Theodosius of the Caves, whose lives Simon chronicled.
+[^349]: Troparion to Saint Simon of Vladimir and Suzdal, Tone 1, commemorating him specifically as the "reliable chronicler of the lives of the venerable fathers of the Caves" (*Житїй прпб́ныхъ ѻц҃ъ Пече́рскихъ списа́телю извѣ́стный*).
+[^350]: Melodic model heading: *Tone 1, Podoben: "Thou didst appear" (Яви́лся єсѝ)*.
+[^351]: Melodic model heading: *Tone 3, Podoben: "At the beauty of thy virginity" (Красотѣ̀ дѣ́вства)*.
+[^352]: Melodic model heading: *Tone 5, Podoben: "Let us hymn the Word co-beginningless" (Собезнача́льное Сло́во)*.
+[^353]: Psalm 48:4, 131:9 (LXX).
+[^354]: Matins Gospel for a Hierarch: John 10:9–16 (pericope 36).
+[^355]: Canon structure: Canon of the Mother of God with heirmos to 6, and Canon to Saint Simon to 6, in Tone 8.
+[^356]: Heirmos of Ode 1, Canon to St. Simon, Tone 8 (Exodus 15:1–19).
+[^357]: Heirmos of Ode 3, Canon to St. Simon, Tone 8.
+
+[^358]: Heirmos of Ode 4, Tone 8 (Habakkuk 3:1–19).
+[^359]: Saint Simon was consecrated Bishop of Vladimir and Suzdal in 1214 by Metropolitan Matthew of Kyiv.
+[^360]: Heirmos of Ode 5, Tone 8 (Isaiah 26:9).
+[^361]: An allusion to Christ entrusting the flock to the Apostle Peter (Simon): "Simon, son of Jonah, lovest thou Me?... Feed My sheep" (John 21:15–17).
+[^362]: Heirmos of Ode 6, Tone 8 (Jonah 2:1–10).
+[^363]: Kontakion to Saint Simon of Suzdal, Tone 2.
+[^364]: An allusion to Saint Simon's famous epistle to Polycarp in the Kyiv Caves Paterikon, where he writes: "I would rather be sweepings in the house of God and trodden underfoot by men in the Pechersk monastery, than sit upon this high episcopal throne."
+[^365]: Heirmos of Ode 7, Tone 8 (Daniel 3:26–56).
+[^366]: Alluding to Saint Simon composing the foundational narratives of the Kyiv Caves Paterikon (his epistle to Polycarp and the discourse on the Lavra's origins).
+[^367]: Heirmos of Ode 8, Tone 8 (Daniel 3:57–88).
+[^368]: Psalm 83:11 (LXX): "For better is one day in Thy courts than thousands; I have chosen rather to be cast down in the house of my God, than to dwell in the tents of sinners."
+[^369]: Heirmos of Ode 9, Tone 8.
+[^370]: After his repose in Vladimir in 1226, Saint Simon's body was translated according to his dying request to the Kyiv Caves Lavra and buried in the Near Caves (St. Anthony's Caves).
+[^371]: Melodic model heading: *Tone 1, Podoben: "Joy of the heavenly hosts" (Небе́сныхъ чинѡ́въ)*.
+[^372]: Saint Agapitus the Unmercenary Physician of the Kyiv Caves (d. ca. 1095), disciple of Saint Anthony, commemorated June 1. His relics lie incorrupt in the Near Caves (St. Anthony's Caves).
+[^373]: Melodic model heading: *Tone 4, Podoben: "As one valiant" (Я́кѡ до́бля)*.
+[^374]: Agapitus gathered the wild herbs that served him for food, boiled them, and gave them to the sick as "medicine," concealing the miracle of healing behind ordinary food.
+[^375]: Troparion of Saint Agapitus of the Caves, Tone 5.
+[^376]: Heirmos of Ode 1, Tone 6 (Exodus 14:21–31).
+[^377]: Agapitus (Greek Ἀγαπητός, "beloved") was tonsured by Saint Anthony of the Caves.
+[^378]: Heirmos of Ode 3, Tone 6 (1 Kings / 1 Samuel 2:2).
+[^379]: Discourse 27 of the Kyiv Caves Paterikon relates that Agapitus never accepted any gold, silver, or gifts from those he healed, distributing everything to the poor.
+[^380]: Heirmos of Ode 4, Tone 6 (Habakkuk 3:1–19).
+[^381]: 1 Corinthians 1:27. Referring to the Armenian physician in Kyiv who was famous for diagnosing terminal illnesses by feeling a patient's pulse.
+[^382]: Revelation 1:18. When the Armenian predicted that a sick boyar would die within eight days, Agapitus gave the boyar herbs from his cell and healed him.
+[^383]: When the Armenian sent a man condemned to death to be given lethal poison, Agapitus gave him herbs and healed him, exposing the Armenian's plot.
+[^384]: Mark 16:18: "And if they drink any deadly thing, it shall not hurt them." The Armenian tried to poison Agapitus himself, but Agapitus drank the poison unharmed.
+[^385]: Heirmos of Ode 5, Tone 6 (Isaiah 26:9).
+[^386]: Prince Vladimir Vsevolodovich Monomakh (1053–1125), then Prince of Chernihiv, fell mortally ill; the Armenian physician could not cure him, but Saint Agapitus sent him herbs from the Caves, and the prince was immediately healed.
+[^387]: Vladimir Monomakh came in person to the Kyiv Caves Lavra to thank Agapitus and brought him rich gifts of gold and silver, but Agapitus refused to see him or accept any gifts.
+[^388]: Heirmos of Ode 6, Tone 6 (Jonah 2:1–10).
+[^389]: A boyar whom Agapitus healed brought him a large sum of gold; Agapitus threw it outside the door of his cell, refusing to keep any worldly wealth.
+[^390]: Matthew 13:45–46; Philippians 3:8.
+[^391]: When Saint Agapitus fell ill, the Armenian visited him, took his pulse, and stated he would die within three days, pledging to become an Orthodox monk if Agapitus survived; Agapitus told him the Lord revealed he would live three more months, which came to pass.
+[^392]: Kontakion of Saint Agapitus of the Caves, Tone 6.
+[^393]: Heirmos of Ode 7, Tone 6 (Daniel 3:49–50).
+[^394]: Heirmos of Ode 8, Tone 6 (Daniel 3:57–88; 1 Kings / 1 Samuel 18:38).
+[^395]: After Saint Agapitus reposed, he appeared in a vision to the Armenian physician, which brought about his conversion.
+[^396]: The Armenian physician came to Hegumen John of the Caves, confessed his sins, asked for baptism and the monastic tonsure, and lived out his life as a monk in the Caves.
+[^397]: Heirmos of Ode 9, Tone 6 (Luke 1:46–55).
+[^398]: Melodic model heading: *Tone 1, Podoben: "Thou hast given a sign" (Да́лъ єсѝ зна́менїе)*.
+[^399]: Saint Anthony of the Caves (983–1073), founder of the Kyiv Caves Lavra and the father of monasticism in Rus', commemorated July 10 (his repose in 1073).
+[^400]: Melodic model heading: *Tone 1, Podoben: "Joy of the heavenly hosts" (Небе́сныхъ чинѡ́въ)*.
+[^401]: Genesis 12:1–3. An allusion to Saint Anthony leaving his native Liubech for Mount Athos, following God's call like Abraham.
+[^402]: Melodic model heading: *Tone 2, Podoben: "House of Ephratha" (До́ме є҆ѵфра́ѳовъ)*.
+[^403]: Psalm 115:6 (LXX).
+[^404]: Psalm 111:1 (LXX).
+[^405]: Troparion of Saint Anthony of the Caves, Tone 4.
+[^406]: Melodic model heading: *Tone 4, Podoben: "Called from on high" (Зва́нный свы́ше)*.
+[^407]: Melodic model heading: *Tone 5, Podoben: "Venerable father" (Прпб́не ѻ́ч҃е)*.
+[^408]: Discourse 5 of the Kyiv Caves Paterikon relates that Anthony foresaw the defeat of the Rus' princes by the Polovtsi at the Battle of the Alta River (1068).
+[^409]: Shimon the Varangian prince, who was wounded in battle and was miraculously saved through Anthony's prayer, and later gave his golden crown and belt for the Lavra's Great Church.
+[^410]: Alluding to the miracle where a monk concealed his personal gold and fell deathly ill; Anthony appeared to him in a vision, brought him to repentance, and healed him.
+[^411]: The Hegumen of Esphigmenou Monastery on Mount Athos tonsured Anthony and later commanded him to return to Rus', prophesying: "Anthony, go back to Rus', and let the blessing of the Holy Mountain be upon thee, for through thee many monastics shall come forth."
+[^412]: Internal cross-reference to the Old Testament readings for a Venerable Monastic, given on Folio 51 verso (Service to Saint Ephraim of Pereyaslav, Cohort 7, physical leaf p60).
+[^413]: Anthony of the Caves took the name of Saint Anthony the Great (ca. 251–356), the father of Christian monasticism in Egypt.
+[^414]: Anthony foresaw the invasion of the Polovtsi and the internecine strife among the sons of Yaroslav the Wise.
+[^415]: Judges 6:36–40.
+[^416]: According to the Kyiv Caves Paterikon, when Svyatoslav II granted land for the construction of the Dormition Cathedral (the Great Church), Anthony prayed like Gideon, asking for dew upon the surrounding ground and dryness on the site of the church on the first night, and the reverse on the second night.
+[^417]: Melodic model heading: *Tone 4, Podoben: "O all-praised martyrs" (Всехва́льнїи мꙋ́ченицы)*.
+[^418]: Psalm 115:6 (LXX).
+[^419]: Psalm 111:1 (LXX).
+
+[^420]: 1 Kings 18:38 (3 Kingdoms 18:38 LXX). Alluding to Saint Anthony praying for fire from heaven, which consumed the dew and dried the ground to mark the site for the Great Church of the Kyiv Caves.
+[^421]: Melodic model heading: *Tone 4, Podoben: "Speedily anticipate" (Ско́рѡ предварѝ)*.
+[^422]: Melodic model heading: *Tone 4, Podoben: "Joseph marveled" (Оу҆диви́ся І҆ѡ́сифъ)*.
+[^423]: Melodic model heading: *Tone 8, Podoben: "Of Wisdom" (Премꙋ́дрости)*.
+[^424]: Psalm 115:6 (LXX).
+[^425]: Psalm 115:3 (LXX).
+[^426]: Matthew 11:27–30 (pericope 43).
+[^427]: Internal cross-reference to the Sticheron after Psalm 50, given on Folio 95 verso (physical leaf p100, Cohort 10).
+[^428]: Heirmos of Ode 1, Tone 4.
+[^429]: Heirmos of Ode 1, Tone 2 (Exodus 15:1–19).
+[^430]: Heirmos of Ode 3, Tone 4.
+[^431]: Heirmos of Ode 3, Tone 2 (1 Kingdoms 2:1–10 LXX / 1 Samuel 2:1–10).
+[^432]: Melodic model heading: *Tone 4, Podoben: "Joseph marveled" (Оу҆диви́ся І҆ѡ́сифъ)*.
+[^433]: Heirmos of Ode 4, Tone 4 (Habakkuk 3:2).
+[^434]: Heirmos of Ode 4, Tone 2 (Habakkuk 3:2).
+[^435]: Heirmos of Ode 5, Tone 4 (Isaiah 26:9).
+[^436]: Heirmos of Ode 5, Tone 2.
+[^437]: Heirmos of Ode 6, Tone 4 (Jonah 2:3–10).
+[^438]: John 14:23.
+[^439]: Psalm 131:4 (LXX).
+[^440]: Heirmos of Ode 6, Tone 2 (Jonah 2:3–10).
+[^441]: Melodic model heading: *Tone 8, Podoben: "To thee, the Champion Leader" (Взбра́нной)*.
+[^442]: Saint Anthony lived forty years in seclusion in his cave cell at the Kyiv Caves.
+[^443]: Heirmos of Ode 7, Tone 4 (Daniel 3:57–88).
+[^444]: Discourse 7 of the Kyiv Caves Paterikon relates that Anthony initially dwelt in the cave of Saint Hilarion (Metropolitan of Kyiv, who dug the cave at Berestovo before his elevation in 1051), and later dug a larger cave where he spent his final years.
+[^445]: Heirmos of Ode 7, Tone 2 (Daniel 3:57–88).
+[^446]: Exodus 17:8–16.
+[^447]: Heirmos of Ode 8, Tone 4 (Daniel 3:57–88).
+[^448]: Heirmos of Ode 8, Tone 2 (Daniel 3:57–88).
+[^449]: Heirmos of Ode 9, Tone 4 (Luke 1:46–55).
+[^450]: Saint Anthony the Great of Egypt (ca. 251–356).
+[^451]: Heirmos of Ode 9, Tone 2 (Luke 1:68–79).
+[^452]: Discourse 7 of the Kyiv Caves Paterikon records that when an unworthy, unrepentant monk died and was buried in the cave, his decaying body emitted a terrible stench; Anthony commanded him to be carried out, but upon the fervent entreaties of the brethren, Anthony prayed, and the stench was miraculously transformed into a sweet fragrance.
+[^453]: Saint Pachomius the Great (ca. 292–348), founder of Christian cenobitic monasticism in Egypt.
+[^454]: Melodic model heading: *Tone 2, Podoben: "When from the Tree" (Є҆гда̀ ѿ дре́ва)*.
+[^455]: Matthew 25:21, 23.
+[^456]: Galatians 5:22–6:2 (pericope 213).
+[^457]: Psalm 111:1–2 (LXX).
+[^458]: Matthew 4:25–5:12 (pericope 10).
+[^459]: Psalm 111:6 (LXX).
+[^460]: Saint John the Much-Suffering of the Kyiv Caves (d. 1160), who struggled thirty years against carnal warfare, spending several Great Lents buried up to his chest in his cave cell; commemorated July 18.
+[^461]: Discourse 29 of the Kyiv Caves Paterikon relates that during a Great Lent, while John was buried in the earth, a monstrous serpent attacked him, breathing fire into his mouth and burning his hair and head; John cried unto God, and a divine light appeared, driving away the demon and granting him complete victory and dispassion.
+[^462]: Melodic model heading: *Tone 8, Podoben: "O marvelous wonder" (Ѡ пресла́внагѡ чꙋдесѐ)*.
+[^463]: Theotokion Dogmatikon, Tone 2: "The shadow of the Law passed away..." (*Прѣ́йде сѣ́нь зако́нная...*).
+[^464]: Internal cross-reference to the three Old Testament readings for a Venerable Monastic, given on Folio 51 verso (physical leaf p60, Cohort 7).
+[^465]: Melodic model heading: *Tone 2, Podoben: "When from the Tree" (Є҆гда̀ ѿ дре́ва)*.
+[^466]: Psalm 127:1 (LXX).
+[^467]: Psalm 91:12 (LXX).
+[^468]: Theotokion Dogmatikon, Tone 6: "Lo, is fulfilled the prophecy of Isaiah..." (*Сѐ и҆спо́лнися пррⷪо́чество И҆са́їино...*).
+[^469]: Troparion of Saint John the Much-Suffering, Tone 8.
+[^470]: Theotokion, Tone 8: "When Gabriel announced unto thee..." (*Гаврїи́лꙋ вѣща́вшꙋ тебѣ̀, Дѣ́во: Ра́дꙋйся...*).
+[^471]: Melodic model heading: *Tone 4, Podoben: "Today the tidings" (Дне́сь а҆́ггелїя / благовѣ́щенїе)*.
+[^472]: Discourse 29 of the Kyiv Caves Paterikon relates that the devil took the form of a fiery dragon breathing smoke and flames to consume John while he was buried in the cave.
+[^473]: Melodic model heading: *Tone 1, Podoben: "Thou hast appeared" (Ꙗ҆ви́лся є҆сѝ)*.
+[^474]: Melodic model heading: *Tone 5, Podoben: "Co-unoriginate Word" (Собезнача́льное сло́во)*.
+[^475]: Psalm 67:35 (LXX).
+[^476]: Psalm 67:26 (LXX).
+[^477]: Heirmos of Ode 1, Tone 3 (Exodus 14:21–29).
+[^478]: Heirmos of Ode 3, Tone 3.
+[^479]: Saint John of the Caves prayed at the tomb of Saint Anthony, and heard a voice from the tomb directing him to shut himself up in seclusion in the cave to overcome the warfare of the flesh.
+[^480]: Melodic model heading: *Tone 8, Sessional Hymn*. An allusion to Revelation 14:1–4 (the 144,000 virgins who follow the Lamb upon Mount Zion).
+[^481]: Heirmos of Ode 4, Tone 3 (John 3:16).
+[^482]: Discourse 29 of the Kyiv Caves Paterikon relates that John wore heavy iron chains weighing up to forty pounds across his body throughout his thirty years of asceticism.
+[^483]: Heirmos of Ode 5, Tone 3 (Baruch 3:38 / Baruch 3:37 LXX).
+[^484]: Discourse 29 relates that during the Great Fast, John dug a pit in his cave cell, climbed into it naked, and buried himself up to his chest with earth for the entire forty days, compressing his flesh to extinguish the burning of lust.
+[^485]: Heirmos of Ode 6, Tone 3 (Jonah 2:3–10; Matthew 14:28–31).
+[^486]: Jonah 2:1–11.
+[^487]: Alluding to Psalm 21:2 (LXX) / Matthew 27:46.
+[^488]: Kontakion of Saint John the Much-Suffering, Tone 2.
+[^489]: Heirmos of Ode 7, Tone 3 (Daniel 3:57–88).
+[^490]: Psalm 67:3 (LXX).
+[^491]: Heirmos of Ode 8, Tone 3 (Daniel 3:57–88).
+[^492]: Discourse 29 relates that after John prayed at the tomb of Saint Anthony, a voice told him to pray to Saint Moses the Hungarian (d. 1043), who had preserved his chastity in Polish captivity; John prayed over Moses's relics and took a bone from his body, touching his own chest, and the passion of the flesh was extinguished.
+[^493]: Genesis 39:7–20 (the chastity of Joseph in Egypt).
+[^494]: Heirmos of Ode 9, Tone 3 (Ezekiel 44:1–3).
+[^495]: Melodic model heading: *Tone 1, Podoben: "Thou hast given a sign" (Да́лъ єсѝ зна́менїе)*.
+[^496]: Theotokion: "Deliver from perils thy servants, O Birthgiver of God..." (*Спасѝ ѿ бѣ́дъ рабы̑ твоя̑, Бцⷣе...*).
+[^497]: Service common to a Venerable Monastic (*Общая служба преподобному*), found in the General Menaion.
+
+[^498]: St. Moses the Hungarian (Моисей Угрин, d. 1043), monk of the Kyiv Caves Monastery. In 1018, during the invasion of Kyiv by Duke Bolesław I the Brave of Poland on behalf of Sviatopolk the Accursed, Moses was captured along with his brother George and taken as a prisoner of war to Poland.
+[^499]: Podoben "Joy of the heavenly ranks" (Небе́сныхъ чино́въ; Greek: Τῶν οὐρανίων ταγμάτων). Tone 1 automelon.
+[^500]: Allusion to Rev. 14:4: "These are they which were not defiled with women; for they are virgins. These are they which follow the Lamb whithersoever He goes."
+[^501]: Typological parallel to the Prophet Moses at Mount Horeb beholding the burning bush unconsumed (Exod. 3:2). In the hymnographer's mystical theology, the ascetic beholds God spiritually within the unburnt bush of his own pure soul.
+[^502]: Podoben "O all-lauded martyrs" (Прехва́льнїи мꙋ́ченицы; Greek: Πανεύφημοι μάρτυρες). Tone 1 automelon.
+[^503]: Holy Passion-bearer Prince Boris of Rus' (slain 1015 on the Alta River by the henchmen of Sviatopolk the Accursed). Moses was a member of Prince Boris's personal retinue and witness to his martyrdom.
+[^504]: Psalm 111:1 (LXX).
+[^505]: Psalm 149:5 (LXX).
+[^506]: Allusion to the parable of the laborers in the vineyard (Matt. 20:1–16) who received each a denarius for their day's labor.
+[^507]: The Polish noblewoman (a wealthy young widow) who purchased Moses from his captors, seeking to make him her husband and force him to break his vow of chastity, subjecting him to starvation, beatings, and castration upon his steadfast refusal.
+[^508]: Podoben "Speedily anticipate" (Ско́рѡ предварѝ; Greek: Ταχὺ προκατάλαβε). Tone 4 automelon.
+[^509]: Podoben "Thou wast shown forth today" (Ꙗ҆ви́лся є҆сѝ дне́сь; Greek: Ἐπεφάνης σήμερον). Tone 4 automelon by St. Romanos the Melodist.
+[^510]: Podoben "Co-unoriginate Word" (Собезнача́льное Сло́во; Greek: Τὸν συνάναρχον Λόγον). Tone 5 automelon.
+[^511]: Psalm 115:6 (LXX 115:6).
+[^512]: Psalm 115:3 (LXX 115:3).
+[^513]: Gospel pericope 43 of Matthew (Matt. 11:27–30): "All things are delivered unto Me of My Father..."
+[^514]: Heirmos of Ode 1, Tone 2: "Come, O ye peoples, let us sing a song unto Christ God..." (Greek: Δεῦτε λαοί, ᾄσωμεν ᾆσμα Χριστῷ τῷ Θεῷ; Exod. 15:1).
+[^515]: Allusion to Job 1:21: "The Lord gave, and the Lord hath taken away; blessed be the name of the Lord."
+[^516]: Following the martyrdom of Prince Boris in 1015, Moses escaped to Kyiv to the court of Princess Predslava Vladimirovna, daughter of Grand Prince Vladimir and sister of Prince Yaroslav the Wise, at Berestovo.
+[^517]: Heirmos of Ode 3, Tone 2: "Having established me upon the rock of faith..." (Greek: Ἐν πέτρᾳ με τῆς πίστεως στερεώσας; 1 Sam. / 1 Kings 2:1–2).
+[^518]: Moses was kept in heavy chains in a subterranean dungeon for five years by his Polish captor before being discovered and purchased by the wealthy widow.
+[^519]: Sessional Hymn after Ode 3, Tone 5.
+[^520]: Heirmos of Ode 4, Tone 2: "Thou hast come from the Virgin, neither an ambassador nor an angel, but the Lord Himself incarnate..." (Greek: Ἐλήλυθας ἐκ Παρθένου, οὐ πρέσβυς, οὐκ ἄγγελος; Hab. 3:2–3).
+[^521]: Psalm 22:4 (LXX 22:4): "Yea, though I walk through the midst of the shadow of death, I will fear no evils: for Thou art with me."
+[^522]: Typological parallel to the Patriarch Joseph in Egypt fleeing from the wife of Potiphar, leaving his garment in her hand (Gen. 39:12).
+[^523]: Heirmos of Ode 5, Tone 2: "O Lord, Giver of light and Creator of the ages..." (Greek: Ὁ τοῦ φωτὸς χορηγός, καὶ τῶν αἰώνων ποιητής).
+[^524]: Allusion to 1 Kings 17:4–6 (the Prophet Elijah fed by ravens at the brook Cherith) and the Life of St. Paul of Thebes by St. Jerome.
+[^525]: Heirmos of Ode 6, Tone 2: "Wallowing in the abyss of sin, I call upon the fathomless abyss of Thy compassion..." (Greek: Ἐν ἀβύσσῳ πταισμάτων κυκλούμενος; Jonah 2:2–3).
+[^526]: According to the Kyiv Caves Paterikon (Discourse 30), a hieromonk traveling from Mount Athos to Rus' visited Moses in his Polish prison and secretly tonsured him into the monastic schema.
+[^527]: Romans 8:35–39: "Who shall separate us from the love of Christ? Shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?"
+[^528]: Kontakion, Tone 3: "Seeking on high the one God..."
+[^529]: The violent physical mutilation and castration inflicted upon Moses by order of the Polish widow after Duke Bolesław granted her absolute power over his life.
+[^530]: Heirmos of Ode 7, Tone 2: "The ungodly decree of the lawless tyrant raised a high flame..." (Greek: Ἀντίθεον πρόσταγμα παρανομοῦντος τυράννου; Dan. 3:19–25).
+[^531]: Psalm 15:8 (LXX 15:8): "I foresaw the Lord always before my face, for He is on my right hand, that I should not be moved."
+[^532]: Heirmos of Ode 8, Tone 2: "Unto God, Who descended into the fiery furnace..." (Greek: Τὸν ἐν καμίνῳ τοῦ πυρός; Dan. 3:49–50).
+[^533]: Psalm 69:1 (LXX 69:1): "O God, draw near unto my help; O Lord, hasten to help me."
+[^534]: The Polish popular uprising of the 1030s following the death of Bolesław I the Brave and Mieszko II, in which peasants and retainers revolted against landlords; the widow who tormented Moses was killed during this rebellion.
+[^535]: Moses returned to Kyiv and entered the Caves under St. Anthony of the Caves (d. 1073).
+[^536]: Heirmos of Ode 9, Tone 2: "Unto God the Word, Who came by ineffable wisdom to renew Adam..." (Greek: Τὸν ἐκ Θεοῦ Θεὸν Λόγον, τὸν ἀρρήτῳ σοφίᾳ).
+[^537]: Discourse 30 of the Kyiv Caves Paterikon recounts that St. John the Much-Suffering (commemorated July 18) was instructed by a heavenly voice to pray before the relics of St. Moses the Hungarian, receiving permanent relief from the passion of lust.
+[^538]: The miraculous, unhewn (not-made-by-human-hands) icon of the Dormition of the Mother of God of the Kyiv Caves, brought by Greek master builders from Constantinople.
+[^539]: Exapostilarion (Photogogikon) to St. Moses the Hungarian.
+[^540]: Podoben "As one valiant" (Ꙗ҆́кѡ до́блѧ; Greek: Ὡς γενναῖον). Tone 1 automelon.
+[^541]: Phil. 1:23: "having a desire to depart, and to be with Christ; which is far better."
+[^542]: St. Pimen the Much-Ailing of the Kyiv Caves (Пимен Многоболезненный, d. 1110, commemorated August 7). Bedridden with severe, incurable illness from childhood, he was miraculously tonsured by angels and endowed with gifts of healing and prophecy.
+[^543]: Podoben "Joy of the heavenly ranks" (Небе́сныхъ чино́въ; Greek: Τῶν οὐρανίων ταγμάτων). Tone 1 automelon.
+[^544]: Allusion to Job 1–2 and Job 23:10: "when He hath tried me, I shall come forth as gold."
+[^545]: Psalm 62:9 (LXX 62:9): "My soul hath cleaved after Thee; Thy right hand hath upholden me."
+[^546]: Feast of the Holy Transfiguration of our Lord God and Savior Jesus Christ (August 6), of which August 7 is the first day of the Afterfeast.
+[^547]: St. Anthony of the Caves was instructed by an angel concerning the founding of the monastery; St. Pimen was vested in the angelic schema by angels themselves.
+[^548]: Psalm 115:6 (LXX 115:6).
+[^549]: Psalm 111:1 (LXX 111:1).
+[^550]: Sessional Hymn after the 1st Kathisma, Tone 5, Podoben: "Co-unoriginate Word" (Собезнача́льное Сло́во).
+[^551]: Sessional Hymn after the 2nd Kathisma, Tone 1, Podoben: "Speedily anticipate" (Ско́рѡ предварѝ).
+[^552]: Sessional Hymn after the Polyeleos, Tone 8, Podoben: "Of Wisdom" (Премꙋ́дрости).
+[^553]: Psalm 149:5 (LXX 149:5).
+[^554]: Heirmos of Ode 1, Tone 2: "In the deep of old..." (Greek: Ἐν βυθῷ κατέστρωσέ ποτε; Exod. 15:4–5).
+[^555]: Heirmos of Ode 3, Tone 2: "The wilderness hath blossomed as a lily, O Lord..." (Greek: Ἐξήνθησεν ἡ ἔρημος; Isa. 35:1).
+[^556]: Sessional Hymn after Ode 3, Tone 2.
+[^557]: When the fathers prayed for Pimen's physical recovery, Pimen prayed that God would increase his afflictions so that his worldly relatives could not take him away from the cloister.
+[^558]: Heirmos of Ode 4, Tone 2: "I hymn Thee, O Lord, for I heard Thy report and was afraid..." (Greek: Ὑμνῶ σε, ἀκοῇ γὰρ Κύριε, εἰσακήκοα καὶ ἐξέστην; Hab. 3:2).
+[^559]: Heirmos of Ode 5, Tone 2: "Having become a mediator between God and men, O Christ God..." (Greek: Μεσίτης Θεοῦ καὶ ἀνθρώπων γέγονας; 1 Tim. 2:5).
+[^560]: Allusion to Discourse 35 of the Kyiv Caves Paterikon: Pimen foretold the unworthiness of a certain negligent monk who was buried in the Great Schema, revealing that outward monastic garments without inner virtue lead to condemnation.
+[^561]: Heirmos of Ode 6, Tone 2: "Wallowing in the abyss of sin..." (Greek: Ἐν ἀβύσσῳ πταισμάτων κυκλούμενος; Jonah 2:2–3).
+
+[^562]: *Kontakion incipit*: «Долговре́менную болѣ́знь» (Tone 2). Commemorating St. Pimen the Much-Ailing (Пім́енъ Многоболѣ́зненный) of the Near Caves of Kyiv (feast day August 7).
+[^563]: *Tried as gold in the furnace*: Wisdom of Solomon 3:6 (Masoretic: Prov. 17:3; 1 Pet. 1:7).
+[^564]: *Heirmos incipit*: «Богопроти́вное велѣ́ніе» (Ode 7, Tone 2). Daniel 3:19–50 and the Song of the Three Holy Children.
+[^565]: James 4:4 («хотя́й бо бы́ти дрꙋ́гъ мі́рꙋ, вра́гъ Бж҃їй быва́етъ»).
+[^566]: Romans 7:15–19 («не є҆́же бо хощꙋ̀ до́брое, творю̀: но є҆́же не хощꙋ̀ ѕло́е, сїѐ содѣва́ю»).
+[^567]: Romans 7:23 («ви́ждꙋ же и҆́нъ зако́нъ во ѻу҆́десѣхъ мои́хъ, проти́вꙋ вою́ющь зако́нꙋ оу҆ма̀ моегѡ̀, и҆ плѣня́ющь мя̀ зако́номъ грѣхо́внымъ»).
+[^568]: *Heirmos incipit*: «Пе́щь и҆ногда̀ ѻ҆́гненная въ вавѷлѡ́нѣ» (Ode 8, Tone 2). Daniel 3:22–50.
+[^569]: *Heirmos incipit*: «Безнача́лна роди́теля сн҃ъ» (Ode 9, Tone 2). Isaiah 9:2 and Luke 1:51–53.
+[^570]: *Exapostilarion*: «Черто́гъ Сп҃совъ ѿве́рзется тебѣ̀» (Tone 2). Matthew 22:11–12 and Revelation 19:7–9.
+[^571]: *Praises incipit*: «Ѡ҆ пресла́внагѡ чꙋдесѐ» (Tone 8, Podoben model).
+[^572]: *Engraving*: Venerable Martyrs Theodore and Basil of the Kyiv Caves (Near Caves, commemorated August 11). The lower panels depict the demon attempting to deceive Theodore regarding hidden treasure, and Basil's discernment and mutual fraternal admonition (Kyiv Caves Paterikon, Discourse 33).
+[^573]: *Service incipit*: August 11, Service to the Venerable Monastic Martyrs Theodore and Basil of the Caves.
+[^574]: *Stichera incipit*: «Всѐ ѿло́жше» (Tone 6, Podoben model).
+[^575]: Matthew 6:19–20 («собира́йте же себѣ̀ сокро́вище на нб҃сѝ, и҆дѣ́же ни че́рвь, ни тля̀ тли́тъ, и҆ и҆дѣ́же та́тїе не подко́пываютъ, ни кра́дꙋтъ»).
+[^576]: 2 Corinthians 8:9.
+[^577]: *Stichera incipit*: «Да́лъ є҆сѝ зна́менїе» (Tone 4, Podoben model).
+[^578]: Leviticus 19:18 and Matthew 22:37–39.
+[^579]: Colossians 4:6 («сло́во ва́ше да быва́етъ всегда̀ во бл҃года́ти, со́лїю растворе́но»).
+[^580]: Revelation 7:14 («и҆ и҆спра́ша ри́зы своя̑, и҆ оу҆бѣли́ша ри́зы своя̑ въ кро́ви А҆́гнчи»).
+[^581]: Cross-reference to the three Old Testament composite readings for monastics at Vespers on fol. 81v (Cohort 9, leaf p86).
+[^582]: *Aposticha incipit*: «Е҆гда̀ ѿ дре́ва» (Tone 2, Podoben model).
+[^583]: Psalm 149:5 (LXX).
+[^584]: Psalm 115:6 (LXX).
+[^585]: *Ladder from the Caves Mount*: Genesis 28:12, combined with the Lavra's foundation tradition of the Mother of God's special oversight.
+[^586]: *Troparion incipit*: «Сою́зомъ любвѐ свя́завшеся» (Tone 4).
+[^587]: Discourse 33 of the Kyiv Caves Paterikon recounts that Prince Mstislav Svyatopolkovich of Kyiv, coveting the legendary Varangian treasure hidden by Theodore in the caves, subjected both monks to tortures and fatally wounded St. Basil with an arrow in 1098.
+[^588]: *Sessional Hymn incipit*: «Гро́бъ тво́й» (Tone 4, Podoben model).
+[^589]: *Sessional Hymn incipit*: «Ꙗ҆ви́лся є҆сѝ» (Tone 1, Podoben model).
+[^590]: *Sessional Hymn incipit*: «Вертогра́дъ заключе́нный» (Tone 1, Podoben: «Ꙗ҆ви́лся є҆сѝ»). Song of Songs 4:12 («вертогра́дъ заключе́нъ, сестра̀ моя̀ невѣ́ста»).
+[^591]: Matthew 10:32–33, 37–38; 19:27–30 (Common Reading for Monastic Martyrs, Conception 38).
+[^592]: Sticheron after Psalm 50: «Преблаже́нніи ѻ҆ц҃ы̀» (Tone 6), identical to the Vespers Glory sticheron on fol. 119r–v (leaf p123).
+[^593]: *Heirmos incipit*: «Нетре́ную необы́чную» (Ode 1, Tone 2). An allusion to Exodus 14:21–22.
+[^594]: Matthew 13:45–46 (the pearl of great price).
+[^595]: 1 John 5:19 («мі́ръ ве́сь во ѕлѣ́ лежи́тъ»).
+[^596]: 1 Corinthians 7:31 («прехо́дитъ бо ѻ҆́бразъ мі́ра сегѡ̀»).
+[^597]: *Heirmos incipit*: «Лꙋ́къ сокрꙋши́ся си́льныхъ» (Ode 3, Tone 2). 1 Samuel (1 Kings LXX) 2:4 (Song of Hannah).
+[^598]: Discourse 33 of the Kyiv Caves Paterikon relates that St. Basil instructed St. Theodore never to leave off the unceasing prayer of Jesus («Гдⷭи І҆и҃се Хрⷪтѐ, Сн҃е Бж҃їй, поми́лꙋй мя̀»), which destroys the deceit of demons.
+[^599]: The demonic apparition assumed the exact physical appearance, habit, and voice of St. Basil while the real Basil was away on monastic obedience in Ovruch (Paterikon, Discourse 33).
+[^600]: 1 Corinthians 10:12 («тѣ́мже мня́йся стоя́ти да блюде́тся, да не паде́тъ»).
+[^601]: Matthew 12:45 («и҆ бꙋ́дꙋтъ послѣ̑дняя человѣ́ка тогѡ̀ гѡ́рша пе́рвыхъ»).
+[^602]: *Sessional Hymn incipit*: «Зло́бы нача́лника врага̀» (Tone 8).
+[^603]: 1 Corinthians 15:33 (Menander, *Thais*: «тля́тъ ѡ҆бы́чаи бл҃ги̑ бесѣ́ды ѕлы̑»).
+[^604]: Proverbs 17:3 and 1 Peter 1:7 («да и҆скꙋше́нїе ва́шея вѣ́ры многочестнѣ́йше зла́та ги́бнꙋща, ѻ҆гне́мъ же и҆скꙋше́на»).
+[^605]: *Heirmos incipit*: «Оу҆слы́шахъ Гдⷭи сла́вное твоѐ смотре́нїе» (Ode 4, Tone 2). Habakkuk 3:2 (LXX).
+[^606]: 1 Timothy 6:9 («а҆ хотя́щїи богати́тися впада́ютъ въ напа̑сти и҆ сѣ́ть»).
+[^607]: 2 Corinthians 11:14 («са́мъ бо сатана̀ преѡбразꙋ́ется во а҆́гг҃ла свѣ́тла»).
+[^608]: 1 Timothy 6:10 («ко́рень бо всѣ́мъ ѕлы̑мъ є҆́сть сребролю́бїе»).
+[^609]: Matthew 6:34 and 1 Peter 5:7 («всю̀ печа́ль ва́шꙋ возве́ргше на́нь, ꙗ҆́кѡ то́й пече́тся ѡ҆ ва́съ»).
+[^610]: Matthew 6:25 («не пецы́теся дꙋше́ю ва́шею, что̀ я҆́сте, и҆лѝ что̀ пїе́те»).
+[^611]: *Heirmos incipit*: «Оу҆́гль И҆са́їи проявле́йся» (Ode 5, Tone 2). Isaiah 6:6–7.
+[^612]: In the Paterikon narrative, Basil returned from Ovruch at that exact hour, entered Theodore's cave, and dispelled the demonic deception.
+[^613]: St. Basil brought other venerable Caves elders into Theodore's cave to bear witness that he had been absent in Ovruch for three months and could not have spoken with Theodore on the previous day.
+[^614]: *Heirmos incipit*: «Гла́съ глаго́лѡвъ моле́бныхъ» (Ode 6, Tone 2). Jonah 2:2–3.
+[^615]: 1 John 4:2–3 («вся́къ дꙋ́хъ, и҆́же и҆сповѣ́дꙋетъ І҆и҃са Хрⷪта̀ во пло́ти прише́дша, ѿ Бг҃а є҆́сть»).
+[^616]: Kyiv Caves Paterikon, Discourse 33. The demons, attempting to hinder Theodore from hand-grinding corn for the monastery, were bound by his prayer and compelled to turn the millstones, grinding five cartloads of wheat in one night.
+[^617]: *Kontakion incipit*: «До́бръ совѣ́тникъ ꙗ҆ви́лся є҆сѝ» (Tone 2). Commemorating St. Basil's holy counsel delivered unto Theodore, and their unjust martyrdom by arrow from Prince Mstislav.
+[^618]: Song of Songs 4:12–14.
+[^619]: *Heirmos incipit*: «Ѡ҆́бразꙋ злато́мꙋ на по́лѣ деи́рѣ» (Ode 7, Tone 2). Daniel 3:1–18; Song of the Three Holy Children.
+[^620]: Paterikon, Discourse 33. St. Theodore carried timber up the Caves cliff to rebuild the cell; demons rolled the logs down, but were subsequently compelled by his prayers to haul all the logs up themselves.
+[^621]: *Heirmos incipit*: «Въ подо́бїи зла́тѣ небре́гше» (Ode 8, Tone 2).
+[^622]: Discourse 33 of the Kyiv Caves Paterikon relates that the demon disguised as Basil approached a boyar of Prince Mstislav Svyatopolkovich, inciting the prince's greed.
+[^623]: In Discourse 33, Theodore explained to Prince Mstislav that he had indeed found the treasure, but reburied it and prayed God to remove the knowledge of its location from his memory, so that he genuinely could not recall where it lay.
+[^624]: Matthew 25:14–30 (Parable of the Talents).
+[^625]: *Heirmos incipit*: «Ве́сь є҆сѝ жела́нїе» (Ode 9, Tone 2). Song of Songs 5:16 («ве́сь похо́ть и҆ ве́сь жела́нїе»).
+[^626]: Discourse 33 of the Kyiv Caves Paterikon recounts that Theodore was suspended over a fire and smoked, but remained unharmed by divine grace.
+[^627]: Discourse 33 records that Prince Mstislav shot St. Basil with an arrow in drunken rage. Dying, Basil took out the arrow and prophesied: "With this same arrow thou thyself shalt be wounded." Prince Mstislav was killed by an arrow through an opening in the wooden palisade during the siege of Volodymyr in Volhynia on July 15, 1099.
+[^628]: *Exapostilarion*: «Въ темни́цꙋ вве́ржени ѻ҆́ц҃ы блаже́нніи» (Tone 2). Both saints expired from their wounds while cast into the prison of the prince's palace on the night following their torture.
+[^629]: *Praises Stichera*: Tone 4 Idiomela (Самогла́сны).
+[^630]: Matthew 5:15 («нижѐ вжига́ютъ свѣти́лника и҆ поставлѧ́ютъ є҆го̀ подъ спꙋ́домъ, но на свѣ́щницѣ»).
+[^631]: *Praises Glory*: Tone 3 («Прїиди́те восхва́лимъ бра́тїе»).
+[^632]: *Common Service for Monastic Martyrs*: Typikon reference to the General Menaion common office for multiple venerable monastic martyrs.
+[^633]: *Engraving*: Venerable Theodosius, Abbot of the Kyiv Caves and founder of coenobitic monasticism in Rus' (repose May 3, 1074; translation of relics August 14, 1091). Surrounding scenes depict his early life, monastic obedience, flax-spinning, final instruction to the brethren, and the solemn burial in the Far Caves.
+[^634]: *Service incipit*: August 14, Service for the Translation of the Relics of St. Theodosius of the Caves from the cave to the Dormition Cathedral of the Kyiv-Pechersk Lavra in 1091.
+[^635]: *Stichera incipit*: «Зва́нный свы́ше» (Tone 4, Podoben model).
+[^636]: Nestor the Chronicler, *Life of St. Theodosius*. A nobleman unexpectedly arrived bringing a pouch of gold at a time of severe monastery shortage.
+[^637]: Bishop Stephen of Volodymyr-in-Volhynia, former disciple and abbot of the Caves, while staying at the Klov Monastery across the ravine, saw a brilliant pillar of light above Theodosius's cave on the night of August 13/14, 1091, and hastened with his clergy to join in the excavation.
+[^638]: Nestor the Chronicler, who was personally assigned by Abbot John to dig out the relics of St. Theodosius on the night preceding August 14, 1091, describes finding the body completely incorrupt, with all joints intact, hair dry and adhering to the scalp, and the face radiant.
+[^639]: *Vespers Glory*: Tone 6 («Понестѝ дне́сь пра́здникъ»).
+[^640]: August 14 is the Forefeast of the Dormition of the Theotokos; stichera and theotokia of the Forefeast are taken from the Menaion for August 14.
+[^641]: Cross-reference to fol. 100v (Cohort 11, leaf p105) for the composite Old Testament readings for St. Theodosius.
+[^642]: *Aposticha Glory*: Tone 8 («Мона́хѡвъ мно́жества наста́вника тя̀ почита́емъ»), canonical idiomelon for venerable monastics.
+[^643]: *Troparion incipit*: «Правосла́вїя наста́вниче» (Tone 8).
+[^644]: *Sessional Hymn incipit*: «Гро́бъ тво́й» (Tone 1, Podoben model).
+[^645]: *Sessional Hymn incipit*: «Собезнача́льное Сло́во» (Tone 5, Podoben model).
+[^646]: *Sessional Hymn incipit*: Tone 8, Podoben model «Премꙋ́дрости». Refers to the luminous signs seen above the cave and church during the 1091 translation.
+[^647]: Sticheron after Psalm 50: Tone 6 («Прпб́не ѻ́че Ѳеодо́сїе, во всю̀ зе́млю и҆зы́де вѣща́нїе»), alluding to Psalm 18:4 (LXX) and Romans 10:18.
+
+[^648]: Physical leaf p131 begins at the midpoint of the Sticheron after Psalm 50 for the Translation of the Relics of Venerable Theodosius, Abbot of the Kyiv Caves (August 14), Tone 6: "небесѣ́хъ ѡ҆брѣ́лъ є҆сѝ мздꙋ̀ трꙋдѡ́въ твои́хъ...".
+[^649]: The Heirmos of Ode 1 (*Ѡ҆тве́рзꙋ оу҆ста̀ моѧ̑...*) is the widely attested Tone 4 heirmos from the Annunciation Canon by St. John Damascene, traditionally appointed for the Translation of the Relics of St. Theodosius.
+[^650]: Historical allusion to Venerable Theodosius coming to Venerable Anthony in the Far Caves hermitage around 1055–1058, receiving monastic tonsure from Abbot Barlaam, and practicing strict solitary hesychia (Kyiv-Pechersk Paterik, Discourse 8).
+[^651]: Tone 4 Heirmoi of Odes 3, 4, 5, and 6 follow the classical model pattern of the Theotokos Canon (*Твоѧ̑ пѣсносло́вцы...*, *Сѣдѧ́й во сла́вѣ...*, *Оу҆жасо́шасѧ всѧ́ческаѧ...*, *Бж҃е́ственное сїѐ...*).
+[^652]: Historical witness to the solemn translation of the relics of St. Theodosius on August 14, 1091, under Abbot John and Grand Prince Sviatopolk II Iziaslavich, when the incorrupt relics were carried from the cave to the Great Church of the Dormition (Paterik, Discourse 9; Primary Chronicle s.a. 1091).
+[^653]: Kontakion model incipit: *Взбра́нной воево́дѣ* ("To thee, the Champion Leader"), Tone 8.
+[^654]: The Ikos follows the classical Ruthenian and Byzantine liturgical acrostic chairetismoi pattern (*Ра́дꙋйсѧ...*), magnifying the monastic, ascetic, and pastoral virtues of St. Theodosius.
+[^655]: Pechersk Paterik miracle account: St. Theodosius healed a monk afflicted with severe temptation and bodily suffering, commanding him to bow his head and laying his hand upon his shoulder (Discourse 11).
+[^656]: The saint's solemn deathbed testament and blessing to the Kyiv Caves brotherhood: "ѡ҆бѣща́ю вамъ бра́тїе и҆ ѻ҆тцы̀, ꙗ҆́кѡ а҆́ще и҆ тѣ́ломъ ѿхождꙋ̀ ѿ ва́съ, но дꙋ́хомъ при́нѡ бꙋ́дꙋ съ ва́ми" (Primary Chronicle s.a. 1074; Paterik, Discourse 8).
+[^657]: Melodic model: *Ѡ҆ пресла́внагѡ чꙋдесѐ!* ("O marvelous wonder!"), Tone 8.
+[^658]: Full-page woodcut engraving opening the Feast of Venerable Alypius the Iconographer of the Caves (August 17). The central illustration depicts the miraculous event recorded in Discourse 34 of the Paterik, wherein a dove descended and an angel assisted the holy iconographer in painting the image of the Dormition of the Theotokos.
+[^659]: Melodic model: *Зва́нный свы́ше* ("Being called from on high"), Tone 4, appointed for the opening Stichera at "Lord, I have cried" on August 17.
+[^660]: The three Stichera on "Lord, I have cried" for St. Alypius form an extended theological-allegorical hymn on icon painting, where pigments (*ша́ры*), physical boards (*дщи̑цы*), tears, and virtues are inscribed onto the fleshy tablets of the heart (*скрижа́ли се́рдца*).
+[^661]: Troparion of St. Alypius, Tone 8: "Зра́ки и҆з̾ѡбража́ѧ ст҃ы́хъ...". Note the historical detail of St. Alypius receiving the grace of the priesthood (*сщ҃енства бл҃года́тїю*).
+[^662]: The Kyiv-Pechersk Paterik (Discourse 34) records that Alypius was given by his parents to the Greek iconographers who came from Constantinople to decorate the Dormition Cathedral of the Lavra under Abbot Nikon (c. 1083).
+[^663]: Paterik witness: St. Alypius was an eyewitness to the miraculous, unpainted depiction (*нерꙋкотворе́нный ѻ҆́бразъ*) of the Dormition in the altar apse of the Great Church, from which a white dove flew forth.
+[^664]: Heirmos of Ode 4: *И҆́з̾ горы̀ приосѣне́нныѧ сло́ве...* (Habakkuk 3:3).
+[^665]: Historical detail from Discourse 34 of the Paterik: St. Alypius divided all his earnings from icon painting into three equal portions—one for paints and materials (*і҆ко́нномꙋ требова́нїю*), one for the monastery and brethren (*въ монасты́рское дѣ́ланїе*), and one for alms to the poor (*въ ми́лостыню ни́щымъ*).
+[^666]: Classical patristic allusion to 1 Corinthians 4:12 and Acts 20:34 ("these hands have ministered unto my necessities, and to them that were with me").
+[^667]: Kontakion of St. Alypius, Tone 2: *Ѿ ю҆́ности бж҃е́ственное въ себѣ̀ и҆мѣ́ѧ начерта́нїе...*.
+[^668]: Paterik miracle: St. Alypius healed a man from Kyiv afflicted with severe festering leprosy on his face and body by taking iconographic paints (*ка̑пли і҆ко́нныя*) and anointing his sores after he repented of his doubt and sins.
+[^669]: Comparison to the Prophet Elisha healing Naaman the Syrian of his leprosy (4 Kingdoms [2 Kings] 5:1–14).
+[^670]: Paterik miracle of the seven icons: When a certain deceitful man stole two boards and defrauded the saint, an angel miraculously painted seven icons in the saint's absence, exposing the slanderer and vindicating the non-possessive righteousness of St. Alypius.
+[^671]: Miracle of St. Alypius recorded in the Kyiv-Pechersk Paterik (Discourse 34): In the Great Fire of Podil in Kyiv, the church where the icons of St. Alypius were placed was burned to the ground, yet all of the saint's icons were found completely unharmed by the flames.
+[^672]: The miraculous icon of the Mother of God painted by St. Alypius for Grand Prince Vladimir Monomakh, sent to the city of Rostov, where it remained completely preserved from the fire when the Rostov cathedral burned down (Paterik, Discourse 34).
+[^673]: Deathbed miracle of St. Alypius: When the saint was terminally ill and unable to paint an appointed icon of the Dormition for the feast, a radiant angel appeared in his cell, painted the icon in three hours, and delivered it to the church, while the saint peacefully gave up his spirit (Paterik, Discourse 34).
+[^674]: Stichera at the Praises, Tone 7, Podoben: "As noble among martyrs" (*Ꙗ҆́кѡ до́блѧ*).
+[^675]: Full-page woodcut engraving opening the Feast of the Holy Hieromartyr Kuksha and Venerable Pimen the Faster (August 27). The upper scene shows St. Kuksha and St. Pimen standing full-length before the Kyiv Caves Lavra; lower left illustrates the beheading of St. Kuksha with his disciple by the pagan Vyatichi; lower right shows St. Pimen in the church of the Lavra clairvoyantly foreseeing the martyrdom.
+[^676]: Opening Stichera at "Lord, I have cried" for St. Kuksha and St. Pimen, Tone 2, Podoben: "When from the Tree" (*Є҆гда̀ ѿ дре́ва*).
+[^677]: Historical witness: Hieromonk Kuksha was a monk of the Kyiv Caves Lavra who set out to preach the Gospel to the pagan Vyatichi along the Oka River. He baptized many, performed wonders, and was martyred by beheading together with his disciple around 1114 (Paterik, Discourse 35).
+[^678]: Troparion of St. Kuksha and St. Pimen, Tone 3: "Мꙋ́ченическою кро́вїю сщ҃е́нне кꙋ́кшо...".
+[^679]: The Heirmos of Ode 1 (*Мо́рѧ чермнꙋ́ю пꙋчи́нꙋ...*) is from the Canon of Moses / the Crossing of the Red Sea, Tone 4.
+[^680]: The three foes of the Christian ascetical life: the world (*мі́ръ*), the flesh (*пло́ть*), and the devil (*дїа́волъ*), traditionally overcome by the three holy fathers (Kuksha, his disciple, and Pimen).
+[^681]: Sessional Hymn, Tone 2: St. Pimen offered purity and fasting as an acceptable olive tree, while St. Kuksha offered his blood shed for the Gospel as a sweet cluster of grapes.
+[^682]: Allusion to St. Kuksha miraculously causing rain to fall during a severe drought among the Vyatichi, causing many pagans to turn to Christ (Paterik, Discourse 35).
+[^683]: Allusion to Mark 16:18 ("they shall lay hands on the sick, and they shall recover"), referencing the gifts of bodily and spiritual healing granted through the prayers of St. Pimen the Faster.
+[^684]: Kontakion of St. Kuksha and St. Pimen, Tone 4: "Свѣти́ла разꙋ́мнаѧ соше́дшесѧ...".
+[^685]: Clairvoyant vision of St. Pimen: On the very day and hour that St. Kuksha was beheaded by the Vyatichi hundreds of versts away, St. Pimen stood in the midst of the Lavra Dormition Church and cried aloud to the brethren: "Our brother Kuksha has been slain this day!" Shortly thereafter, St. Pimen himself reposed in the Lord (Paterik, Discourse 35).
+[^686]: Allusion to Daniel 6:16–23 (the Prophet Daniel in the lions' den) and the Three Youths quenching the violence of the fire (Daniel 3; Hebrews 11:33–34).
+
+[^687]: Concluding troparion of Ode 8 and transition to Ode 9 of the Canon to St. Kuksha and St. Pimen (August 27), Folio 136v.
+[^688]: Ode 9 Heirmos: *Ка́мень нерꙋкосѣ́чный...* from Daniel 2:34–35, 45, standard Tone 4/8 heirmos.
+[^689]: Historical martyrological account of the beheading of St. Kuksha and his disciple by the pagan Vyatichi (Kyiv-Pechersk Paterik, Discourse 35).
+[^690]: Ascetical victory of St. Pimen the Faster over the demonic snares, comparing temptations to flimsy spiderwebs (*а́ки паꙋчи́нꙋ*).
+[^691]: Exapostilarion for August 27, extolling the joint commemoration of Hieromartyr Kuksha, his disciple, and Pimen the Faster in the Kyiv Caves.
+[^692]: Psalm 33:20 [LXX 33:19].
+[^693]: Opening of the General Synaxis Service of the Venerable Fathers Resting in the Far (Theodosius) Caves of the Kyiv Caves Lavra, celebrated on August 28, following the Dormition of the Theotokos.
+[^694]: Opening Stichera at "Lord, I have cried," Tone 8, Podoben: "O marvelous wonder" (*Ѡ҆ пресла́внагѡ чꙋдесѐ*).
+[^695]: Rubrical cross-reference to the three Festal Old Testament readings for monastics at the front of the 1785 print (Folio 4 verso; physical leaf p10).
+[^696]: Melodic model: *До́ме є҆vфра́ѳовъ* ("House of Ephratha / Joy of the ranks of heaven"), Tone 1.
+[^697]: Psalm 149:5.
+[^698]: Psalm 127:1 [LXX 127:1].
+[^699]: Troparion of the Fathers of the Far Caves, Tone 4: "Мы́сленное со́лнце, и҆ свѣти́лꙋ лꙋнꙋ̀...".
+[^700]: Sessional Hymn after the 1st Kathisma, Tone 4, Podoben: "Thou hast appeared" (*Ꙗ҆ви́лсѧ є҆сѝ*).
+[^701]: Psalm 32:1 [LXX].
+[^702]: Psalm 125:5 [LXX].
+[^703]: Psalm 149:5.
+[^704]: Psalm 31:11 [LXX].
+[^705]: Sessional Hymn after the Polyeleos, Tone 8, Podoben: "The Wisdom" (*Премꙋ́дрости* / Wisdom and Word).
+[^706]: The Gradual Hymn (*Степе́нна*), 1st Antiphon of Tone 4: *Ѿ ю҆́ности моеѧ̀...* ("From my youth many passions war against me...").
+[^707]: Psalm 115:6 [LXX 115:6 / MT 116:15].
+[^708]: Psalm 115:3 [LXX 115:3 / MT 116:12].
+[^709]: The Matins Canon for the Far Caves Fathers, Tone 8, combining the Theotokos Canon to 6 and the Far Caves Canon to 8.
+[^710]: Heirmos of Ode 1, Tone 8: *Во́дꙋ проше́дъ ꙗ҆́кѡ сꙋ́шꙋ...* (Exodus 14).
+[^711]: Ascetical allegorization of the Far Caves as the enclosed garden of the Song of Songs (Song 4:12) and the cedars of Lebanon (Psalm 91:13 [LXX]).
+[^712]: Saint Longinus the Gatekeeper of the Far Caves (discourse in the Kyiv-Pechersk Paterik), gifted with clairvoyance to discern the inner thoughts of everyone entering the Lavra.
+[^713]: Saint Ignatius, Archimandrite/Pastor of the Caves, known for miraculous healings of sick brethren.
+[^714]: Saint Silvanus of the Far Caves, guardian of the monastery orchards, who caught thieves trying to steal fruit by immobilizing them through his prayer for three days until they repented (Paterik).
+[^715]: Troparion to Agatho the Wonderworker (Ode 3), invoking Psalm 138:24 [LXX] ("And see if there be any wicked way in me, and lead me in the way everlasting").
+[^716]: Commemoration of Venerable Zeno the Faster and Venerable Macarius the Deacon of the Far Caves (Ode 3).
+[^717]: Commemoration of Venerable Achilles the Deacon and Venerable Hypatius the Healer, who ministered to the sick brethren (Ode 3).
+[^718]: Venerable Paisius and Venerable Mercurius of the Far Caves, who lived in undivided brotherly love and were buried together in one tomb (Paterik).
+[^719]: Venerable Laurence the Recluse and Venerable Moses the Wonderworker of the Far Caves (Ode 3).
+[^720]: Sessional Hymn after Ode 3, Tone 2, extolling the angelic struggles and unceasing prayers of the Pechersk monastic fathers.
+[^721]: Heirmos of Ode 4, Tone 8: *Оу҆слы́шахъ Гдⷭи смотре́нїѧ твоегѡ̀ та́инство...* (Habakkuk 3:2).
+[^722]: Allusion to the Parable of the Laborers in the Vineyard and the equal denarius of eternal life (Matthew 20:1–16).
+[^723]: Saint Hilarion the Schemamonk of the Caves, who emulated St. Theodosius by eating only once a week (Kyiv-Pechersk Paterik).
+[^724]: Saint Dionysius the Recluse of the Caves, known for the Easter miracle in the caves when he greeted the departed fathers with "Christ is risen!" and the holy relics answered from the tombs: "Truly He is risen!" (Paterik, Discourse 37).
+[^725]: Saint Arsenius the Labor-lover (Arsenius Trudolyubivyi) of the Far Caves, who labored without ceasing day and night.
+[^726]: Saint Pimen the Faster, who fulfilled the lowliest monastery obediences, carrying heavy firewood and grinding grain at the handmill every night (Paterik).
+[^727]: Saint Titoe (Tithoes) the Recluse of the Far Caves, who lived in total seclusion illuminated by noetic light.
+[^728]: Ode 5 Heirmos, Tone 8: *Просвѣти́ ны повелѣ́нїи твои́ми Гдⷭи...* (Isaiah 26:9).
+[^729]: Allusion to the widespread spiritual enlightenment of all Rus' through the ascetic labors and holiness of the Kyiv Caves monastics.
+[^730]: Saint Sisoes the Schemamonk and Saint Gregory the Wonderworker / Watchful of the Far Caves (Ode 5).
+[^731]: Saint Paul the Obedient and the two holy Canonarchs, Gerontius and Leontius, who practiced rigorous bodily abstinence (Ode 5).
+[^732]: Saint Nestor the Unlettered (Nestor Neknizhnyi) of the Far Caves, who possessed divine unlearned wisdom and saw angels while praying.
+[^733]: Saint Titus the Soldier of the Far Caves, who was wounded in the head in battle and came to the Lavra to weep for his sins (Ode 5).
+[^734]: Saint Pamva the Confessor of the Far Caves, who was captured by infidels, endured imprisonment for the faith, and was miraculously transported by an angel back to his cell (Paterik).
+[^735]: Heirmos of Ode 6, Tone 8: *Мл҃твꙋ пролїю̀ ко Гдⷭꙋ...* (Jonah 2:3).
+[^736]: Saint Zechariah the Faster of the Far Caves, who ate only herbs and drove away demons by his holy name.
+[^737]: Saint Theodore, Prince of Ostrog, who renounced worldly glory and his princely coronet to take the monastic schema in the Kyiv Caves.
+[^738]: Saint Sophronius the Recluse of the Far Caves, who constantly recited the Psalter in total darkness.
+[^739]: Saint Pancratius the Priest and Wonderworker of the Far Caves, gifted with grace to heal the sick.
+[^740]: Kontakion of the Far Caves Fathers, Tone 8: *И҆збра́ннїи ѿ родо́въ оу҆го́дницы Бж҃їи...*.
+[^741]: Heirmos of Ode 7, Tone 8: *Ѿ І҆ꙋде́и доше́дше ѻ҆́троцы...* (Daniel 3).
+[^742]: Psalm 67:16–17 [LXX]: "The mountain of God is a fertile mountain, a curdled mountain, a rich mountain."
+[^743]: Saint Ammon the Recluse and Saint Mardarius the Non-possessor of the Far Caves (Ode 7).
+[^744]: Saint Rufus the Faster and Saint Benjamin the Merchant, who gave all his earthly wealth to the poor to buy the single pearl of great price, Christ (Matthew 13:45–46; Paterik).
+[^745]: Saint Theophilus, Archbishop of Novgorod, who reposed at the Kyiv Caves Lavra and whose relics were laid in the Far Caves.
+[^746]: Saint Martyrius the Deacon of the Far Caves, lover of purity, who cast out demons and healed infirmities.
+[^747]: Heirmos of Ode 8, Tone 8: *Цр҃ѧ̀ нбⷭнагѡ...* (Daniel 3:52–90).
+[^748]: Saint Euthymius the Schemamonk / Silent of the Far Caves, who took a vow of absolute silence.
+[^749]: Saint Cassian the Recluse and Saint Pior the Recluse of the Far Caves (Ode 8).
+[^750]: Saint Paphnutius the Recluse of the Far Caves, who wept continually remembering the hour of death and the beatitude of those that mourn (Matthew 5:4).
+[^751]: The Heirmos of Ode 9, Tone 8: *Вои́стиннꙋ Бцⷣꙋ тѧ̀ и҆сповѣ́дꙋемъ...* from Luke 1:48.
+[^752]: Contrast between the ancient pre-Christian hills of Kyiv as a pagan "valley of weeping and den of thieves" and its sanctification as the "house of God" by the Caves fathers.
+[^753]: The Exapostilarion (Photogogikon) of the Far Caves Fathers, containing the diplomatic prayer for the reigning Empress Catherine II (*да ва́съ ра́ди Цр҃ь сла́вы спасе́тъ І҆МПЕРАТРИ́ЦƔ и҆ всѧ̑ лю́ди*).
+[^754]: Stichera at the Praises, Tone 1, Podoben: "Thou hast given a sign" (*Да́лъ є҆сѝ зна́менїе*).
+[^755]: Praises Doxasticon, Tone 6: *Бл҃же́нства непоро́чныхъ вожделѣ́вше...*, invoking Psalm 118:1 [LXX] ("Blessed are the blameless in the way").
+[^756]: Liturgy appointments for the Far Caves Fathers: Beatitudes from Odes 3 and 6; Prokeimenon in Tone 7 (Psalm 115:6); Epistle Galatians 5:22–6:2; Gospel Matthew 11:27–30 or Luke 6:17–23; Communion Verse Psalm 111:6.
+[^757]: Headpiece engraving opening the General Menaion (*Общій Миней*) common services, depicting Christ the Master surrounded by venerable ascetics and angels.
+[^758]: Canonical opening of the Common Service to One Venerable Monk (*Слꙋ́жба ѡ҆́бща прпⷣбномꙋ є҆ди́номꙋ*), appointed to be sung on the commemoration day of any holy monk without a dedicated feast in the Menaion.
+[^759]: Opening Stichera at "Lord, I have cried," Tone 8, Podoben: "O martyrs of the Lord" (*Мч҃нцы Гдⷭни*).
+[^760]: Evangelical allusion to Matthew 5:14–16 ("neither do men light a candle and put it under a bushel, but on a candlestick").
+[^761]: Allusion to Luke 9:62 ("No man, having put his hand to the plow, and looking back, is fit for the kingdom of God").
+[^762]: Allusion to the Parable of the Pearl of Great Price (Matthew 13:45–46).
+[^763]: The classical Great Vespers Doxasticon for a Venerable Monk, Tone 6: *Є҆́же по ѻ҆́бразꙋ соблю́дъ невреди́мѡ...*, synthesizing the Patristic ascetical theology of Genesis 1:26 (the preservation of the image and attainment of the likeness).
+[^764]: Rubrical cross-reference to the Dogmatikon Theotokion of Tone 8 at the back of the Anthologion (*Кто̀ тебѐ не оу҆блажи́тъ...*).
+[^765]: Cross-reference to the Old Testament Paremias for Monastics at Folio 4 verso (physical leaf p10).
+[^766]: Aposticha Stichera, Tone 1, Podoben: "Joy of the ranks of heaven" (*Нбⷭныхъ чинѡ́въ*). The placeholder `[и҆́мⷬ҇къ]` indicates where the name of the commemorated saint is inserted.
+[^767]: Psalm 115:6 [LXX].
+[^768]: Psalm 111:1 [LXX].
+[^769]: Aposticha Doxasticon for a Venerable Monk, Tone 8: *Мона́хѡвъ мно́жества, наста́вника тѧ̀ почита́емъ...*.
+[^770]: Rubric distinguishing between a saint with a prescribed Troparion in the Typikon and the General Troparion for a Venerable Monk (*Въ тебѣ̀ ѻ҆́ч҃е и҆звѣ́стнѡ спасе́ся...*).
+[^771]: General Troparion for a Venerable Monk, Tone 8: *Въ тебѣ̀ ѻ҆́ч҃е и҆звѣ́стнѡ спасе́ся є҆́же по ѻ҆́бразꙋ...*, based on Matthew 16:24–26.
+[^772]: Sessional Hymn after the 1st Kathisma, Tone 3, Podoben: "Speedily anticipate" (*Ско́рѡ предварѝ*).
+[^773]: Sessional Hymn after the 2nd Kathisma, Tone 5, Podoben: "Co-beginningless Word" (*Собезнача́льное Сло́во*).
+[^774]: Polyeleos Megalynarion (Pripivalo) for a Venerable Monk: *Оу҆блажа́емъ тѧ̀ прпⷣбне ѻ҆́ч҃е [и҆́мⷬ҇къ]...*.
+[^775]: Sessional Hymn after the Polyeleos, Tone 4, Podoben: "Thy tomb, O Savior" (*Гро́бъ тво́й сп҃се*).
+[^776]: Matins Sticheron after Psalm 50, Tone 6: *Прпⷣбне ѻ҆́ч҃е, во всю̀ зе́млю и҆зы́де вѣща́нїе...*, citing Psalm 18:5 [LXX].
+[^777]: Common Matins Canon to a Venerable Monk, Tone 8, Ode 1 Heirmos: *Во́дꙋ проше́дъ ꙗ҆́кѡ сꙋ́шꙋ...*.
+[^778]: Troparion to the Holy Trinity / Doxasticon of Ode 1, transcribing the printed text *вна́чѣ моли́твѣ твое́й* ("in reward of thy prayer").
+[^779]: Heirmos of Ode 3, Tone 8: *Ты̀ є҆сѝ оу҆твержде́нїе...*.
+[^780]: Sessional Hymn after Ode 3, Tone 3, Podoben: "Speedily anticipate" (*Ско́рѡ предварѝ*).
+
+[^781]: Heirmos of Ode 4, Tone 8: Biblical Canticle of Habakkuk (Habakkuk 3:2; LXX Hab. 3:2: *Κύριε, εἰσακήκοα τὴν ἀκοήν σου καὶ ἐφοβήθην, κατενόησα τὰ ἔργα σου καὶ ἐξέστην*).
+[^782]: Heirmos of Ode 5, Tone 8: Biblical Canticle of Isaiah (Isaiah 26:9, 13; LXX Isa. 26:9: *Ἐκ νυκτὸς ὀρθρίζει τὸ πνεῦμά μου πρὸς σέ, ὁ Θεός*).
+[^783]: Heirmos of Ode 6, Tone 8: Biblical Canticle of Jonah (Jonah 2:3–8; LXX Jon. 2:3: *Ἐβόησα ἐν θλίψει μου πρὸς Κύριον τὸν Θεόν μου*).
+[^784]: Rubric directing the substitution of the Common Kontakion when no specific proper feast is assigned in the Typikon.
+[^785]: Melodic model (*podoben*): Tone 2, *Seeking the highest* (Вы́шнихъ и҆щѧ̀ / *Tὰ ἄνω ζητῶν*), the classic kontakion automelon of the Sunday of the Forefathers and general ascetics.
+[^786]: Heirmos of Ode 7, Tone 8: Song of the Three Holy Youths in Babylon (Daniel 3:26–56; LXX Dan. 3:28).
+[^787]: Heirmos of Ode 8, Tone 8: Song of the Three Holy Youths in Babylon (Daniel 3:57–88; LXX Dan. 3:57).
+[^788]: Heirmos of Ode 9, Tone 8: The Magnificat and Benedictus (Luke 1:46–55, 68–79).
+[^789]: Melodic model (*podoben*): Exapostilarion, *Give ear, ye women* (Жены̀ оуслы́шите / *Γυναῖκες ἀκουτίσθητε*). Biblical allusion to the palm tree of David (LXX Ps. 91:13: *δίκαιος ὡς φοῖνιξ ἀνθήσει*).
+[^790]: Stichera at the Praises (*Ainoi*), Tone 6 automela/prosomoia for a venerable father.
+[^791]: Liturgical appendix containing the eight classical Sunday Dogmatika (*Dogmatica Theotokia*) sung at Great Vespers at *Lord, I have cried*, along with the corresponding Sunday Aposticha Theotokia.
+[^792]: Sunday Dogmatikon, Tone 1 (*Всемї́рную сла́вꙋ* / *Τὴν παγκόσμιον δόξαν*), attributed to Saint John of Damascus.
+[^793]: Sunday Aposticha Theotokion, Tone 1 (*Сѐ и҆спо́лнися И҆са́їино прорече́нїе* / *Ἰδοὺ πεπλήρωται ἡ τοῦ Ἡσαΐου πρόρρησις*); Scriptural reference to the prophecy of the Virgin birth in Isaiah 7:14 (LXX Isa. 7:14: *ἰδοὺ ἡ παρθένος ἐν γαστρὶ ἕξει καὶ τέξεται υἱόν*).
+[^794]: Sunday Dogmatikon, Tone 2 (*Пре́йде сѣ́нь зако́ннаѧ* / *Παρῆλθεν ἡ σκιὰ τοῦ νόμου*); typological contrast between the Old Testament burning bush (Exodus 3:2) and pillar of fire (Exodus 13:21) and the Virgin Birth of Christ.
+[^795]: Sunday Aposticha Theotokion, Tone 2 (*Ѡ҆ чꙋдесѐ но́вагѡ* / *Ὢ θαύματος καινοῦ*).
+[^796]: Sunday Dogmatikon, Tone 3 (*Ка́кѡ не диви́мсѧ* / *Πῶς μὴ θαυμάσωμεν*); dogmatic definition of the Chalcedonian christological union (*without change, confusion, or division*).
+[^797]: Sunday Aposticha Theotokion, Tone 3 (*Без̾ сѣ́мене ѿ Бж҃е́ственнагѡ Дх҃а* / *Ἀσπόρως ἐκ θείου Πνεύματος*).
+[^798]: Sunday Dogmatikon, Tone 4 (*И҆́же тебѐ ра́ди Бг҃ооте́цъ прро́къ Дв҃дъ* / *Ὁ διὰ σὲ θεοπάτωρ προφήτης Δαυῒδ*); citation of LXX Psalm 44:10 (*παρέστη ἡ βασίλισσα ἐκ δεξιῶν σου*), with the Parable of the Lost Sheep (Luke 15:4–6).
+[^799]: Sunday Aposticha Theotokion, Tone 4 (*При́зри на моле́нїа твои́хъ ра̑бъ* / *Ἔπιδε ἐπὶ τὰς δεήσεις τῶν οἰκετῶν σου*).
+[^800]: Sunday Dogmatikon, Tone 5 (*Въ чермнѣ́мъ мо́ри* / *Ἐν τῇ Ἐρυθρᾷ θαλάσσῃ*); typological fulfillment of the Red Sea crossing (Exodus 14:21–29) and the virginity of the Theotokos (*post partum*).
+[^801]: Sunday Aposticha Theotokion, Tone 5 (*Хра́мъ и҆ две́рь є҆сѝ* / *Ναὸς καὶ πύλη ὑπάρχεις*); Scriptural allusion to the Sun of righteousness (Malachi 4:2; LXX Mal. 3:20).
+[^802]: Sunday Dogmatikon, Tone 6 (*Кто̀ тебѐ не оу҆блажи́тъ* / *Τίς μὴ μακαρίσει σε*); classical exposition of the hypostatic union in two natures without confusion (*ἀσυγχύτως*).
+[^803]: Sunday Aposticha Theotokion, Tone 6 (*Творе́цъ и҆ и҆зба́витель мо́й* / *Ὁ ποιητὴς καὶ λυτρωτής μου*).
+[^804]: Sunday Dogmatikon, Tone 7 (*Мт҃и оу҆́бѡ позна́ласѧ є҆сѝ* / *Μήτηρ μὲν ἐγνώσθης*); patristic aphorism: *ὅπου γὰρ βούλεται Θεός, νικᾶται φύσεως τάξις* ("where God wills, the order of nature is overcome").
+[^805]: Sunday Aposticha Theotokion, Tone 7 (*По́д̾ кро́въ тво́й Влⷣчце* / *Ὑπὸ τὴν σὴν εὐσπλαγχνίαν*).
+[^806]: Sunday Dogmatikon, Tone 8 (*Цр҃ь нбⷭный* / *Ὁ βασιλεὺς τῶν οὐρανῶν*); Scriptural allusion to the Incarnation (Baruch 3:37; LXX Bar. 3:38: *μετὰ τοῦτο ἐπὶ τῆς γῆς ὤφθη καὶ ἐν τοῖς ἀνθρώποις συνανεστράφη*).
+[^807]: Sunday Aposticha Theotokion, Tone 8 (*Безневѣ́стнаѧ Дв҃о, ꙗ҆́же Бг҃а неизрече́ннѡ заче́нши пло́тїю* / *Ἀνύμφευτε Παρθένε, ἡ τὸν Θεὸν ἀφράστως συλλαβοῦσα σαρκί*).
+[^808]: Collection of the Sunday Dismissal Theotokia (*Theotokia Apolytikia*) chanted throughout the liturgical year following the dismissal troparia of the saint or feast in each of the Eight Tones.
+[^809]: Sunday Dismissal Theotokion, Tone 1 (*Гаврїи́лꙋ вѣща́вшꙋ тебѣ̀ Дв҃о* / *Τοῦ Γαβριὴλ φθεγξαμένου σοι Παρθένε*); Scriptural reference to the Annunciation (Luke 1:28) and King David's Ark of the Covenant (LXX Ps. 131:8: *ἀνάστηθι, Κύριε, εἰς τὴν ἀνάπαυσίν σου, σὺ καὶ ἡ κιβωτὸς τοῦ ἁγιάσματός σου*).
+[^810]: Sunday Dismissal Theotokion, Tone 2 (*Всѧ̑ па́че смы́сла* / *Πάντα ὑπὲρ ἔννοιαν*).
+[^811]: Sunday Dismissal Theotokion, Tone 3 (*Тѧ̀ хода́тайствовавшꙋю спасе́нїе ро́да на́шегѡ* / *Σὲ τὴν μεσιτεύσασαν τὴν σωτηρίαν*).
+[^812]: Sunday Dismissal Theotokion, Tone 4 (*Є҆́же ѿ вѣ́ка оу҆тае́ное* / *Τὸ ἀπ᾽ αἰῶνος ἀπόκρυφον*); patristic synthesis of Colossians 1:26 and Ephesians 3:9.
+[^813]: Sunday Dismissal Theotokion, Tone 5 (*Ра́дꙋйсѧ, две́ре Гдⷭнѧ непроходи́маѧ* / *Χαῖρε πύλη Κυρίου ἡ ἀδιόδευτος*); Scriptural allusion to the closed eastern gate in Ezekiel 44:1–2.
+[^814]: Sunday Dismissal Theotokion, Tone 6 (*Бл҃гослове́ннꙋю нареки́й твою̀ Мт҃рь* / *Ὁ τὴν εὐλογημένην καλέσας σου Μητέρα*); Scriptural reference to the Parable of the Lost Coin (Luke 15:8–10).
+[^815]: Sunday Dismissal Theotokion, Tone 7 (*Ꙗ҆́кѡ на́шегѡ воскресе́нїѧ сокро́вище* / *Ὡς τῆς ἡμῶν ἀναστάσεως θησαύρισμα*); affirmation of the perpetual virginity (*semper virgo / ἀειπάρθενος*) of the Theotokos before, during, and after childbirth.
+[^816]: Sunday Dismissal Theotokion, Tone 8 (*И҆́же на́съ ра́ди рожде́йсѧ ѿ Дв҃ы* / *Ὁ δι᾽ ἡμᾶς γεννηθεὶς ἐκ Παρθένου*).
+[^817]: Traditional concluding colophon formula of the Kyiv-Pechersk Lavra printing house (*Коне́цъ, и҆ Бг҃ꙋ сла́ва* / *Finis, et Deo gloria*), marking the formal completion of the 1785 print run.

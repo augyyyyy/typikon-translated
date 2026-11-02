@@ -1,0 +1,37 @@
+[^781]: Heirmos of Ode 4, Tone 8: Biblical Canticle of Habakkuk (Habakkuk 3:2; LXX Hab. 3:2: *Κύριε, εἰσακήκοα τὴν ἀκοήν σου καὶ ἐφοβήθην, κατενόησα τὰ ἔργα σου καὶ ἐξέστην*).
+[^782]: Heirmos of Ode 5, Tone 8: Biblical Canticle of Isaiah (Isaiah 26:9, 13; LXX Isa. 26:9: *Ἐκ νυκτὸς ὀρθρίζει τὸ πνεῦμά μου πρὸς σέ, ὁ Θεός*).
+[^783]: Heirmos of Ode 6, Tone 8: Biblical Canticle of Jonah (Jonah 2:3–8; LXX Jon. 2:3: *Ἐβόησα ἐν θλίψει μου πρὸς Κύριον τὸν Θεόν μου*).
+[^784]: Rubric directing the substitution of the Common Kontakion when no specific proper feast is assigned in the Typikon.
+[^785]: Melodic model (*podoben*): Tone 2, *Seeking the highest* (Вы́шнихъ и҆щѧ̀ / *Tὰ ἄνω ζητῶν*), the classic kontakion automelon of the Sunday of the Forefathers and general ascetics.
+[^786]: Heirmos of Ode 7, Tone 8: Song of the Three Holy Youths in Babylon (Daniel 3:26–56; LXX Dan. 3:28).
+[^787]: Heirmos of Ode 8, Tone 8: Song of the Three Holy Youths in Babylon (Daniel 3:57–88; LXX Dan. 3:57).
+[^788]: Heirmos of Ode 9, Tone 8: The Magnificat and Benedictus (Luke 1:46–55, 68–79).
+[^789]: Melodic model (*podoben*): Exapostilarion, *Give ear, ye women* (Жены̀ оуслы́шите / *Γυναῖκες ἀκουτίσθητε*). Biblical allusion to the palm tree of David (LXX Ps. 91:13: *δίκαιος ὡς φοῖνιξ ἀνθήσει*).
+[^790]: Stichera at the Praises (*Ainoi*), Tone 6 automela/prosomoia for a venerable father.
+[^791]: Liturgical appendix containing the eight classical Sunday Dogmatika (*Dogmatica Theotokia*) sung at Great Vespers at *Lord, I have cried*, along with the corresponding Sunday Aposticha Theotokia.
+[^792]: Sunday Dogmatikon, Tone 1 (*Всемї́рную сла́вꙋ* / *Τὴν παγκόσμιον δόξαν*), attributed to Saint John of Damascus.
+[^793]: Sunday Aposticha Theotokion, Tone 1 (*Сѐ и҆спо́лнися И҆са́їино прорече́нїе* / *Ἰδοὺ πεπλήρωται ἡ τοῦ Ἡσαΐου πρόρρησις*); Scriptural reference to the prophecy of the Virgin birth in Isaiah 7:14 (LXX Isa. 7:14: *ἰδοὺ ἡ παρθένος ἐν γαστρὶ ἕξει καὶ τέξεται υἱόν*).
+[^794]: Sunday Dogmatikon, Tone 2 (*Пре́йде сѣ́нь зако́ннаѧ* / *Παρῆλθεν ἡ σκιὰ τοῦ νόμου*); typological contrast between the Old Testament burning bush (Exodus 3:2) and pillar of fire (Exodus 13:21) and the Virgin Birth of Christ.
+[^795]: Sunday Aposticha Theotokion, Tone 2 (*Ѡ҆ чꙋдесѐ но́вагѡ* / *Ὢ θαύματος καινοῦ*).
+[^796]: Sunday Dogmatikon, Tone 3 (*Ка́кѡ не диви́мсѧ* / *Πῶς μὴ θαυμάσωμεν*); dogmatic definition of the Chalcedonian christological union (*without change, confusion, or division*).
+[^797]: Sunday Aposticha Theotokion, Tone 3 (*Без̾ сѣ́мене ѿ Бж҃е́ственнагѡ Дх҃а* / *Ἀσπόρως ἐκ θείου Πνεύματος*).
+[^798]: Sunday Dogmatikon, Tone 4 (*И҆́же тебѐ ра́ди Бг҃ооте́цъ прро́къ Дв҃дъ* / *Ὁ διὰ σὲ θεοπάτωρ προφήτης Δαυῒδ*); citation of LXX Psalm 44:10 (*παρέστη ἡ βασίλισσα ἐκ δεξιῶν σου*), with the Parable of the Lost Sheep (Luke 15:4–6).
+[^799]: Sunday Aposticha Theotokion, Tone 4 (*При́зри на моле́нїа твои́хъ ра̑бъ* / *Ἔπιδε ἐπὶ τὰς δεήσεις τῶν οἰκετῶν σου*).
+[^800]: Sunday Dogmatikon, Tone 5 (*Въ чермнѣ́мъ мо́ри* / *Ἐν τῇ Ἐρυθρᾷ θαλάσσῃ*); typological fulfillment of the Red Sea crossing (Exodus 14:21–29) and the virginity of the Theotokos (*post partum*).
+[^801]: Sunday Aposticha Theotokion, Tone 5 (*Хра́мъ и҆ две́рь є҆сѝ* / *Ναὸς καὶ πύλη ὑπάρχεις*); Scriptural allusion to the Sun of righteousness (Malachi 4:2; LXX Mal. 3:20).
+[^802]: Sunday Dogmatikon, Tone 6 (*Кто̀ тебѐ не оу҆блажи́тъ* / *Τίς μὴ μακαρίσει σε*); classical exposition of the hypostatic union in two natures without confusion (*ἀσυγχύτως*).
+[^803]: Sunday Aposticha Theotokion, Tone 6 (*Творе́цъ и҆ и҆зба́витель мо́й* / *Ὁ ποιητὴς καὶ λυτρωτής μου*).
+[^804]: Sunday Dogmatikon, Tone 7 (*Мт҃и оу҆́бѡ позна́ласѧ є҆сѝ* / *Μήτηρ μὲν ἐγνώσθης*); patristic aphorism: *ὅπου γὰρ βούλεται Θεός, νικᾶται φύσεως τάξις* ("where God wills, the order of nature is overcome").
+[^805]: Sunday Aposticha Theotokion, Tone 7 (*По́д̾ кро́въ тво́й Влⷣчце* / *Ὑπὸ τὴν σὴν εὐσπλαγχνίαν*).
+[^806]: Sunday Dogmatikon, Tone 8 (*Цр҃ь нбⷭный* / *Ὁ βασιλεὺς τῶν οὐρανῶν*); Scriptural allusion to the Incarnation (Baruch 3:37; LXX Bar. 3:38: *μετὰ τοῦτο ἐπὶ τῆς γῆς ὤφθη καὶ ἐν τοῖς ἀνθρώποις συνανεστράφη*).
+[^807]: Sunday Aposticha Theotokion, Tone 8 (*Безневѣ́стнаѧ Дв҃о, ꙗ҆́же Бг҃а неизрече́ннѡ заче́нши пло́тїю* / *Ἀνύμφευτε Παρθένε, ἡ τὸν Θεὸν ἀφράστως συλλαβοῦσα σαρκί*).
+[^808]: Collection of the Sunday Dismissal Theotokia (*Theotokia Apolytikia*) chanted throughout the liturgical year following the dismissal troparia of the saint or feast in each of the Eight Tones.
+[^809]: Sunday Dismissal Theotokion, Tone 1 (*Гаврїи́лꙋ вѣща́вшꙋ тебѣ̀ Дв҃о* / *Τοῦ Γαβριὴλ φθεγξαμένου σοι Παρθένε*); Scriptural reference to the Annunciation (Luke 1:28) and King David's Ark of the Covenant (LXX Ps. 131:8: *ἀνάστηθι, Κύριε, εἰς τὴν ἀνάπαυσίν σου, σὺ καὶ ἡ κιβωτὸς τοῦ ἁγιάσματός σου*).
+[^810]: Sunday Dismissal Theotokion, Tone 2 (*Всѧ̑ па́че смы́сла* / *Πάντα ὑπὲρ ἔννοιαν*).
+[^811]: Sunday Dismissal Theotokion, Tone 3 (*Тѧ̀ хода́тайствовавшꙋю спасе́нїе ро́да на́шегѡ* / *Σὲ τὴν μεσιτεύσασαν τὴν σωτηρίαν*).
+[^812]: Sunday Dismissal Theotokion, Tone 4 (*Є҆́же ѿ вѣ́ка оу҆тае́ное* / *Τὸ ἀπ᾽ αἰῶνος ἀπόκρυφον*); patristic synthesis of Colossians 1:26 and Ephesians 3:9.
+[^813]: Sunday Dismissal Theotokion, Tone 5 (*Ра́дꙋйсѧ, две́ре Гдⷭнѧ непроходи́маѧ* / *Χαῖρε πύλη Κυρίου ἡ ἀδιόδευτος*); Scriptural allusion to the closed eastern gate in Ezekiel 44:1–2.
+[^814]: Sunday Dismissal Theotokion, Tone 6 (*Бл҃гослове́ннꙋю нареки́й твою̀ Мт҃рь* / *Ὁ τὴν εὐλογημένην καλέσας σου Μητέρα*); Scriptural reference to the Parable of the Lost Coin (Luke 15:8–10).
+[^815]: Sunday Dismissal Theotokion, Tone 7 (*Ꙗ҆́кѡ на́шегѡ воскресе́нїѧ сокро́вище* / *Ὡς τῆς ἡμῶν ἀναστάσεως θησαύρισμα*); affirmation of the perpetual virginity (*semper virgo / ἀειπάρθενος*) of the Theotokos before, during, and after childbirth.
+[^816]: Sunday Dismissal Theotokion, Tone 8 (*И҆́же на́съ ра́ди рожде́йсѧ ѿ Дв҃ы* / *Ὁ δι᾽ ἡμᾶς γεννηθεὶς ἐκ Παρθένου*).
+[^817]: Traditional concluding colophon formula of the Kyiv-Pechersk Lavra printing house (*Коне́цъ, и҆ Бг҃ꙋ сла́ва* / *Finis, et Deo gloria*), marking the formal completion of the 1785 print run.

@@ -1,0 +1,59 @@
+{
+  "monument_id": "1785_kyiv_caves_fathers_services",
+  "title": "1785 Kyiv-Pechersk Lavra Expanded Services to the Venerable Fathers of the Kyiv Caves (Служби преподобним Отцям Печерським, Київ: Лавра, 1785)",
+  "monument_type": "anthologion",
+  "genre_register": "hymnographic",
+  "retrospective_timestamp": "2026-11-02T12:41:46.863446+00:00",
+  "codicological_profile": {
+    "total_physical_leaves": 157,
+    "cohort_count": 16,
+    "default_cohort_size": 10,
+    "monument_type": "anthologion"
+  },
+  "subagent_execution_telemetry": {
+    "total_cohorts_dispatched": 16,
+    "worker_model": "flash",
+    "cohorts_passing_gate_100pct": 16,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.083,
+      "median_cohort_ratio": 1.127,
+      "max_cohort_median": 1.166
+    }
+  },
+  "argon_review_queue_telemetry": {
+    "total_items_recorded": 39,
+    "resolved_by_argon": 0,
+    "info_telemetry_only": 39,
+    "unresolved_quarantines": 0,
+    "codicological_crux_count": 0
+  },
+  "final_publication_verification": {
+    "parts_count": 15,
+    "parts": [
+      "1785_kyiv_caves_fathers_services_part0_front_matter.md",
+      "1785_kyiv_caves_fathers_services_part1_month-of-september.md",
+      "1785_kyiv_caves_fathers_services_part2_month-of-october.md",
+      "1785_kyiv_caves_fathers_services_part3_month-of-november.md",
+      "1785_kyiv_caves_fathers_services_part4_month-of-december.md",
+      "1785_kyiv_caves_fathers_services_part5_month-of-january.md",
+      "1785_kyiv_caves_fathers_services_part6_month-of-february.md",
+      "1785_kyiv_caves_fathers_services_part7_month-of-march.md",
+      "1785_kyiv_caves_fathers_services_part8_month-of-april.md",
+      "1785_kyiv_caves_fathers_services_part9_month-of-may.md",
+      "1785_kyiv_caves_fathers_services_part10_month-of-june.md",
+      "1785_kyiv_caves_fathers_services_part11_month-of-july.md",
+      "1785_kyiv_caves_fathers_services_part12_month-of-august.md",
+      "1785_kyiv_caves_fathers_services_part13_general-menaion-common-services-to-the-s.md",
+      "1785_kyiv_caves_fathers_services_part14_appendix-sunday-theotokia-of-the-eight-t.md"
+    ],
+    "total_footnotes_verified": 817,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.083,
+      "median_cohort_ratio": 1.127,
+      "max_cohort_median": 1.166
+    },
+    "all_6_publication_gates_passed": true
+  },
+  "edge_cases_and_anomalies": [],
+  "engine_hardening_proposals": []
+}
