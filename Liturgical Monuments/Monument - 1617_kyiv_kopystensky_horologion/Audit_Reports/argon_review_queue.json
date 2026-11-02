@@ -1,0 +1,21 @@
+{
+  "monument_id": "1617_kyiv_kopystensky_horologion",
+  "updated_at": "2026-11-02T12:36:14.942766+00:00",
+  "total_queued_leaves": 0,
+  "info_telemetry_leaves": 0,
+  "unresolved_quarantines": 0,
+  "items": [
+    {
+      "leaf_num": 212,
+      "cohort": 22,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "codicological_or_collation_crux: missing folio"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument - 1617_kyiv_kopystensky_horologion\\Draft\\1617_kyiv_kopystensky_horologion_cohort22_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument - 1617_kyiv_kopystensky_horologion\\Source Text\\1617_kyiv_kopystensky_horologion_cohort22_source.txt",
+      "updated_at": "2026-11-02T11:11:48.459890+00:00",
+      "resolved_at": "2026-11-02T12:36:13.580418+00:00"
+    }
+  ]
+}

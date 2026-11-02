@@ -1,0 +1,29 @@
+[^317]: Septuagint Psalm 145 (Masoretic 146). The liturgical Horologion assigns the Haggai and Zechariah inscription according to the Septuagint witness, functioning as the Second Antiphon of the Typika.
+[^318]: The hymn *Only-begotten Son and Word of God* (*Ὁ Μονογενὴς Υἱός*, *Єдинородный Сынъ*), traditionally attributed to Emperor Justinian I (c. 528–536) and incorporated into the Constantinopolitan Divine Liturgies and the Typika.
+[^319]: Rubric prescribing the reading of the appointed daily Epistle and Gospel lections at the Typika when celebrated on aliturgical days of Great Lent or in the absence of a priest.
+[^320]: Psalm 33:6 (LXX 33:5), used as a choral verse before the second repetition of the Sanctus (*Ликъ небесный*).
+[^321]: The Nicene-Constantinopolitan Creed, historically attributed to the First Ecumenical Council of Nicaea (325) and the Second Ecumenical Council of Constantinople (381).
+[^322]: Internal cross-reference to the text of the Symbol of Faith on physical leaf p22 (fol. 14r) in the Midnight Office.
+[^323]: The Kontakion for the departed (*Со святыми упокой*), referenced back to physical leaf p32 (fol. 24r) in the Midnight Office.
+[^324]: Refers to the Prayer of St. Ephrem the Syrian (*Господи и Владыко живота моего*), with its 3 great prostrations, 12 metanias, and final prostration, referenced in the preceding Lenten offices (e.g. leaf p30 / fol. 22v).
+[^325]: Septuagint Psalm 33 (Masoretic 34).
+[^326]: The hymn *It is truly meet* (*Достойно есть*), cross-referenced to physical leaf p96 (fol. 74v).
+[^327]: *More honorable than the Cherubim* (*Честнейшую Херувим*), cross-referenced to physical leaf p29 (fol. 22r).
+[^328]: The rubrics and prayers for going to the monastic refectory (*Идуще на трапезу*) and blessing the table.
+[^329]: Septuagint Psalm 144 (Masoretic 145).
+[^330]: The Elevation of the Panagia (*Чин возвышения Панагии*), an ancient monastic rite of blessing and elevating the prosphora bread consecrated in honor of the All-Holy Theotokos at the refectory.
+[^331]: The Troparion of the Annunciation (*Днесь спасенія нашего главизна*), Tone 4, sung as the principal hymn of the Incarnation upon entering the refectory.
+[^332]: *Недѣльникъ* (hebdomadary), the monk appointed to serve the weekly course of monastic duties in the refectory.
+[^333]: Internal cross-reference to the dismissal formula on physical leaf p101 (fol. 77r).
+[^334]: Monastic refectory officers: the Cellarer (*Кела́рь*, *cellararius*), responsible for monastic provisions, and the Refectorian (*Трапеза́рь*, *trapezarius*), supervisor of the dining hall.
+[^335]: The *panagiarion* (*панагиа́р*) is the liturgical vessel or elevated dish used to carry and hold the prosphora bread designated for the All-Holy Theotokos during the monastic meal.
+[^336]: Literally, "we take the All-Pure [bread]" (*взимаем Пречистую*). Each monk receives a portion of the blessed Panagia bread from the celebrant.
+[^337]: Internal cross-reference to physical leaf p32 (fol. 24v) in the Midnight Office.
+[^338]: The hymn *It is truly meet* (*Достойно есть*), cross-referenced to physical leaf p96 (fol. 74v).
+[^339]: *More honorable than the Cherubim* (*Честнейшую Херувим*), cross-referenced to physical leaf p29 (fol. 22r).
+[^340]: The ritual sip of warm wine or water taken from the common cup of the Mother of God following the consumption of the Panagia bread.
+[^341]: Rubric specifying the hymnographic conclusion of the monastic meal according to the rank of the day (Feast, commemorated Saint, or ordinary weekday).
+[^342]: The Troparion *O God of our fathers* (*Боже отецъ нашихъ*), cross-referenced to physical leaf p109 (fol. 85r).
+[^343]: *Through the prayers, O Lord, of all the Saints* (*Молитвами Господи всѣхъ святыхъ*), cross-referenced to physical leaf p120 (fol. 96r).
+[^344]: The refectory litany (*єктеніе*) commemorating the departed fathers and monastery founders (*ктиторы*).
+[^345]: Internal cross-reference to physical leaf p101 (fol. 77r).

@@ -1,0 +1,28 @@
+[^366]: Cross-reference in the Slavonic rubric to fol. 22 (*Ли́стъ, к҃в*), where the dismissal formulas, *More honorable than the Cherubim*, and blessing are printed in full in the Midnight Office (physical leaf p23).
+[^367]: Cross-reference to fol. 114 (*Ли́стъ, р̃ді*), where the prayer of St. Basil the Great for the Ninth Hour (*Владыко Господи Іисусе Христе Боже наш, долготерпѣливе*) is printed in full (physical leaf p137).
+[^368]: Fol. 119r opens the Order of Vespers and Compline with a decorative woodcut headpiece. The rubric specifies the cell or choir opening with a priest (*съ іерею*), where the priest gives the opening blessing (*Blessed is our God...*) to which the brethren respond *Amen*, followed by the introductory sequence.
+[^369]: Psalm 103 (LXX); MT Psalm 104. The Slavonic rubric designates it: *Дв҃дъ, ѡ҆ мирсте́мъ бытїи* ("Of David, concerning the cosmic/worldly creation").
+[^370]: The Slavonic text prints `к҃і` (or `в҃і`, 12/20) for the number of *Lord, have mercy* substituting for the Great Litany in private cell recitation. In standard Ruthenian cell practice, 12 repetitions typically replace the Great Litany.
+[^371]: Psalm 140 (LXX); MT Psalm 141. The opening psalms of *Lord, I have cried* (*Господи воззвах* / Κύριε ἐκέκραξα) chanted at daily and festal Vespers.
+[^372]: Psalm 141 (LXX); MT Psalm 142. Chanted continuously after Psalm 140 at *Lord, I have cried*.
+[^373]: Psalm 129 (LXX); MT Psalm 130 (*De Profundis* / Ἐκ βαθέων ἐκέκραξά σοι). Designated an Ode of Ascents (*Пѣ́снь степе́ннаѧ* / ᾨδὴ τῶν ἀναβαθμῶν). Note that in the Slavonic text, the numeral is misprinted `ркд` (124) instead of `ркѳ` (129).
+[^374]: Psalm 116 (LXX); MT Psalm 117. Chanted at *Lord, I have cried* before the final stichera.
+[^375]: The ancient Christian evening hymn *O Gladsome Light* (Φῶς ἱλαρόν / *Свѣте тихій*), here attributed explicitly to the early Christian Hieromartyr Athenogenes (d. ca. 305).
+[^376]: The printed margin of fol. 124r contains a scholarly Patristic citation in two columns: *Васі:[лія] Великагѡ ѡ с[вя]томъ [Дусѣ] кни:[га] кд [гл. 29]... Ники:[фора] кни:[га] г...* referencing St. Basil the Great's *On the Holy Spirit* (chapter 29, §73), where Basil cites this venerable evening hymn and its invocation of the Holy Trinity as ancient apostolic tradition, as well as Nikephoros Kallistos Xanthopoulos.
+[^377]: Rubric describing the ceremonial entrance and posture of the Canonarch (*Канонархъ*), who bows to the Superior (*Настоятель*) and stands centrally before the Holy Doors (*стыми дверми*) to chant the daily prokeimenon.
+[^378]: Sunday evening Prokeimenon (Psalm 133:1, LXX; MT Psalm 134).
+[^379]: Monday evening Prokeimenon (Psalm 4:3, 1, LXX).
+[^380]: Tuesday evening Prokeimenon (Psalm 22:6, 1, LXX; MT Psalm 23).
+[^381]: Wednesday evening Prokeimenon (Psalm 53:1-2, LXX; MT Psalm 54).
+[^382]: Thursday evening Prokeimenon (Psalm 120:2, 1, LXX; MT Psalm 121).
+[^383]: Friday evening Prokeimenon (Psalm 58:10, 1, LXX; MT Psalm 59).
+[^384]: Great Prokeimenon of Saturday evening at Vespers (Psalm 92:1–2, 5, LXX; MT Psalm 93).
+[^385]: Rubric specifying the liturgical decorum of the Canonarch: standing with arms crossed upon his breast facing the people/west while the choir sings the response, then bowing to the right and left choirs.
+[^386]: Lenten weekday rubrics: when no troparion is appointed in the Typikon, the daily Prokeimenon is replaced by *Alleluia* with penitential verses sung in the current Tone of the Octoechos.
+[^387]: Psalm 6:1 (LXX).
+[^388]: Psalm 98:5 (LXX); MT Psalm 99.
+[^389]: Wednesday evening Alleluia verse (Psalm 18:4, LXX; MT Psalm 19).
+[^390]: Cross-reference in the Slavonic rubric to fol. 64 (*Ли́стъ, ѯ҃д*), where the prayer *Vouchsafe, O Lord* (*Сподоби Господи*) is printed in full in Great Compline (physical leaf p76).
+[^391]: Psalm 122 (LXX); MT Psalm 123. The first psalm-verse chanted at the Aposticha on Lenten weekdays.
+[^392]: Psalm 122:3–4 (LXX).
+[^393]: The Song of Simeon (Nunc Dimittis, Luke 2:29–32), chanted at every Vespers.

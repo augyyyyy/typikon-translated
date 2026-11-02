@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-11-02T12:36:13.595665+00:00",
+  "monument_id": "1617_kyiv_kopystensky_horologion",
+  "monument_type": "horologion",
+  "cohort": 22,
+  "target_file": "1617_kyiv_kopystensky_horologion_cohort22.md",
+  "overall_status": "PASSED",
+  "cohort_telemetry": {
+    "prepared_at_iso": null,
+    "first_verified_at_iso": "2026-11-02T11:11:47.066319+00:00",
+    "verified_at_iso": "2026-11-02T12:36:13.586003+00:00",
+    "initial_duration_sec": null,
+    "duration_sec": null,
+    "source_words": 699,
+    "draft_words": 836,
+    "footnote_count": 7,
+    "footnote_words": 287,
+    "sgc02_ratio": 1.1475
+  },
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1617_kyiv_kopystensky_horologion_cohort22.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 6
+    },
+    "hieratic_pronouns": {
+      "file": "1617_kyiv_kopystensky_horologion_cohort22.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1617_kyiv_kopystensky_horologion_cohort22.md",
+      "footnotes_file": "1617_kyiv_kopystensky_horologion_cohort22_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 7,
+      "definition_markers_count": 7,
+      "text_markers": [
+        "[^539]",
+        "[^540]",
+        "[^541]",
+        "[^542]",
+        "[^543]",
+        "[^544]",
+        "[^545]"
+      ],
+      "definition_markers": [
+        "[^539]",
+        "[^540]",
+        "[^541]",
+        "[^542]",
+        "[^543]",
+        "[^544]",
+        "[^545]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1617_kyiv_kopystensky_horologion_cohort22.md",
+      "passed": true,
+      "paragraphs": 93,
+      "headings_count": 1,
+      "headings": [
+        {
+          "line": 52,
+          "level": 1,
+          "title": "TABLE OF CONTENTS OF THE SERVICES OF THIS BOOK[^544]",
+          "leaf": 213
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 6,
+        "min_leaf": 211,
+        "max_leaf": 216
+      },
+      "anomalies": []
+    },
+    "monument_type_policy": {
+      "passed": true,
+      "monument_type": "horologion",
+      "violation_count": 0,
+      "violations": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument - 1617_kyiv_kopystensky_horologion\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "cohort_info_telemetry_leaves": [],
+    "total_queued_leaves": 0,
+    "info_telemetry_leaves": 0,
+    "unresolved_quarantines": 0
+  }
+}

@@ -1,0 +1,21 @@
+[^296]: Psalm 54 (LXX 54 / MT 55), titled 'To the end, in songs of instruction, of Asaph' (Въ коне́цъ в̾ пѣ́снехъ, ра́зоу Аса́фоу). In standard Septuagint and liturgical Psalters, this psalm is ascribed to David (συνέσεως τῷ Δαυιδ / ра́зꙋма Дави́дꙋ); the 1617 Kyiv Horologion typesetter introduces an anomalous typographical substitution attributing it to Asaph.
+[^297]: Slavonic text reads 'не да́стъ въ вѣ́къ мл҃твы пра́ведникꙋ' (with the titlo abbreviation for 'prayer', мл҃твы), a graphic scribal/typographical corruption of 'молвы́' or 'смяте́нїя' (LXX: οὐ δώσει εἰς τὸν αἰῶνα σάλον τῷ δικαίῳ; 'He shall not suffer the righteous to be shaken unto the ages').
+[^298]: Psalm 90 (LXX 90 / MT 91), titled 'A Praise of a Song, of David, not inscribed among the Hebrews', the third fixed psalm of the Sixth Hour, prophesying divine protection.
+[^299]: The fixed Theotokion of the Sixth Hour ('Seeing that we have no boldness...'), appealing to the motherly boldness of the Theotokos before Christ.
+[^300]: The Lenten troparion of the Sixth Hour ('Thou Who on the sixth day and hour didst nail to the Cross...'), commemorating the crucifixion of Christ at the sixth hour (noon), chanted with prostrations on fasting days.
+[^301]: Psalm 78:8-9 (LXX 78 / MT 79:8-9), standard liturgical petition for divine pardon and redemption.
+[^302]: Lenten Troparia in Tone 2 for the Sixth Hour ('Thou hast wrought salvation in the midst of the earth...' and 'We worship Thine all-pure icon...'), celebrating the Passion and holy icon of the Savior.
+[^303]: Stavrotheotokion in Tone 2 ('Most glorified art thou, O Birthgiver of God...'), appointed on Wednesdays and Fridays in honor of the Cross.
+[^304]: Fol. 74r-75r corresponds to physical leaves p97-p98 in the First Hour, where the full rubric of Ephremic prostrations is set forth.
+[^305]: The solemn concluding prayer of the Sixth Hour, attributed to St. Basil the Great ('O God and Lord of hosts, and Maker of all creation...').
+[^306]: Fol. 22r corresponds to physical leaf p43 in the Midnight Office.
+[^307]: The Prayer of St. Mardarios ('O Master God, Father Almighty...'), cross-referenced to fol. 22r (physical leaf p43).
+[^308]: Psalm 55 (LXX 55 / MT 56), titled 'To the end, for the people that were removed far off from the holy things, by David, for a pillar-inscription, when the foreigners seized him in Gath', the first psalm of the Mid-Hour of the Sixth Hour.
+[^309]: Psalm 56 (LXX 56 / MT 57), titled 'To the end, destroy not, by David, for a pillar-inscription, when he fled from the face of Saul into the cave', the second psalm of the Mid-Hour of the Sixth Hour.
+[^310]: Psalm 69 (LXX 69 / MT 70), titled 'To the end, of David, in remembrance, that the Lord may save me', the third psalm of the Mid-Hour of the Sixth Hour.
+[^311]: The Troparion of the Holy Cross in Tone 1 ('Save, O Lord, Thy people...'), cross-referenced to fol. 45r (physical leaf p68) in Matins.
+[^312]: Fol. 22r corresponds to physical leaf p43 in the Midnight Office.
+[^313]: Fol. 92v-93r corresponds to physical leaf p116, the end of the Sixth Hour.
+[^314]: Rubric prescribing that during fasting seasons, the Ninth Hour is chanted immediately following the Mid-Hour of the Sixth Hour, before the Obednitsa (Typika).
+[^315]: The Order of the Typika (Ѻ҆бѣ́дница / Obednitsa), the reader's service representing the Liturgy on days when the Eucharistic Sacrifice is not celebrated, opening with the Typical Psalms (Psalms 102 and 145) and the Beatitudes.
+[^316]: Fol. 52r corresponds to physical leaf p75 in the Six Psalms of Matins.

@@ -1,0 +1,566 @@
+[^1]: Physical front cover: Contemporary early seventeenth-century brown calfskin binding over wooden boards, adorned with blind-tooled ornamental borders and a central floral rhombus medallion. At the top left of the upper cover is affixed the printed paper shelfmark label of the Main Library of the Holy Trinity–Saint Sergius Lavra (*Свято-Троицкой Сергіевой Лавры Главная Библіотека*), with nineteenth-century inventory numbers entered by hand.
+[^2]: Inside front board pastedown: Handmade laid paper pastedown containing historical library shelfmarks in ink and Russian bibliographical dating notes in pencil (*Киев 1616 / 1617*), referencing the printing dates of the Pechersk Lavra Horologion.
+[^3]: Provenance inscriptions on the preliminary flyleaf verso detail the bibliographic history of this copy: "Book very rare — firstling of the Kyiv Printing House, published in the year 1616 (see the end of the Epilogue of the Horologion). Lacks leaves 1 and 189." The note indicates that this copy lacks the title leaf (fol. [1]) and final leaf 189. Foliation starts on the facing recto with printed signature *а* as leaf 1.
+[^4]: Archimandrite Eliseus (Yelysei) Pletenetsky (c. 1550–1624), Archimandrite of the Kyiv Caves Lavra (1599–1624), founder of the Kyiv Caves Lavra Printing House (1615), and a foremost champion of Orthodox cultural and theological renewal in Ukraine.
+[^5]: Church Slavonic: *Кї́евскїй* (Kyivan / of Kyiv). In Early Modern Ruthenian publications, the Caves Lavra is consistently titled *Лавра Печерская Кіевская*.
+[^6]: Church Slavonic: *Правосла́вному Ро́дꙋ Рѡссі́йскомꙋ* (unto the Orthodox Rus' / Russian / Ruthenian race/people). Here *Ро́дъ Рѡссі́йскїй* denotes the Orthodox Ruthenian/East Slavic people of the Polish-Lithuanian Commonwealth under the Kyivan metropolitanate.
+[^7]: Greek loanword: *ѠРОЛОГІ́ОНЪ* (*Horologion*, the Book of Hours). Archimandrite Eliseus Pletenetsky characterizes the 1616/1617 Horologion as the firstling and forerunner (*предитеча*) of the monumental publishing program of the Kyiv Caves printing press.
+[^8]: 2 Chronicles (2 Paralipomenon) 32:20–21.
+[^9]: 2 Chronicles (2 Paralipomenon) 33:12–13; cf. the Prayer of Manasseh.
+[^10]: Sextus Julius Africanus (c. 160 – c. 240 AD), early Christian chronicler, whose *Chronographiae* preserve traditions regarding the repentance and miraculous release of King Manasseh from his bronze and iron fetters in Babylon.
+[^11]: Greek loanwords: *Маке́лла* (*macellum*, meat market / shambles); *Ѻ҆́рганъ* (*organon*, instrument / tool).
+[^12]: *Apophthegmata Patrum* (Sayings of the Desert Fathers), Agathon 9: Abba Agathon taught that of all spiritual struggles, prayer requires warfare and labor unto the very last breath.
+[^13]: A reference to the Kyiv Epiphany Brotherhood School (*Братська школа*), founded around 1615 on land donated by Halshka Hulevychivna, for which Archimandrite Eliseus Pletenetsky and the Kyiv Caves Lavra printed this Horologion as an essential primer and liturgical text.
+[^14]: *Предосло́віе Часосло́ва*: The theological and ecclesiological Foreword written by the scholar, theologian, and future archimandrite Zacharias Kopystensky (d. 1627). It sets forth the Ruthenian Orthodox understanding of Jerusalem as the Mother Church and liturgical archetype, defended against both Roman Catholic and Protestant claims.
+[^15]: Septuagint citation of Isaiah 66:23: *Прїи́детъ всѧ́ка пло́ть, поклони́тисѧ предомно́ю в̾ І҆ерл҃имѣ́, речѐ Гд҃ь* ("All flesh shall come to worship before Me in Jerusalem, says the Lord"). The printed margin marks *И҆са́. ѯ҃ѕ*.
+[^16]: Honorific title: *Кѵ́ръ* (Greek *Kyr*, Lord/Master), standard liturgical and diplomatic styling for hierarchs and archimandrites.
+[^17]: Reference to the Jerusalem Typikon of the Lavra of Saint Sabas the Sanctified (Mar Saba), which governed the liturgical cycles of the Ruthenian Church.
+[^18]: Genesis 2:8.
+[^19]: Numbers 2:3: The camp of Judah was commanded to pitch toward the sunrise on the east side of the Tabernacle.
+[^20]: Baruch 3:38 (3:37 in Greek/LXX): "Afterward did He show Himself upon earth, and conversed with men."
+[^21]: Isaiah 2:3.
+[^22]: Luke 24:47.
+[^23]: Hermias Sozomen, *Historia Ecclesiastica*, Book 3, Chapter 20 (as cited in the printed marginal rubric *Кни: г. за: к.*), recording that the orthodox Christians of Jerusalem and their bishop remained untainted by Arianism.
+[^24]: Psalm 86:5 (LXX): *Ма́ти Сїѡ́нъ рече́тъ чл҃къ, и҆ чл҃къ роди́ся в̾не́й, и҆ то́й ѡ҆снова̀ ю̀ вы́шнїи* (MT Psalm 87:5).
+[^25]: Isaiah 1:26.
+[^26]: St. John of Damascus, Sunday Sticheron at "Lord, I have cried", Tone 4 (Octoechos), as cited in the margin (*Ѡ҆кт: гл҃: д҃. Стї: въскр҃снꙋ*).
+[^27]: The Synodical Letter of the Second Ecumenical Council of Constantinople (381 AD), preserved in Theodoret of Cyrus, *Historia Ecclesiastica*, Book 5, Chapter 9 (*Ѳеѡдо́ кни: є҃ з: ѳ҃*), which addresses the Church of Jerusalem as "the Mother of all Churches" (*τῆς γε μητρὸς ἁπασῶν τῶν ἐκκλησιῶν*).
+[^28]: The Synodical Letter of Constantinople (381 AD) confirms Cyril of Jerusalem (*Кѵрі́лла є҆ппа*) as bishop of Jerusalem, declaring Jerusalem to be the Mother of all Churches.
+[^29]: Church Slavonic: *Кї́евски бре́гѡ доспѣ́лъ* (reached the Kyivan banks/hills). This recounts the foundational Kyivan transmission narrative from the *Primary Chronicle* (*Tale of Bygone Years*), wherein the Holy Apostle Andrew the First-Called erects a Cross on the hills of Kyiv and prophesies that great churches and divine grace shall shine forth there. The marginal note cites Symeon Metaphrastes (*Сѵмеѡ́: Мета: Фев: к҃д*).
+[^30]: Allusion to Ephesians 2:2: "the prince of the power of the air" (*въз̾доу́шны непрїѧ́зни*, the aerial adverse spirits / demons).
+[^31]: Saint Vladimir the Great, Equal-to-the-Apostles, baptizer of Rus' (988 AD), analogized to Saint Constantine the Great. The marginal note cites 1 John 2:8 (*І҆оан: в҃*, "because the darkness is past, and the true light now shines").
+
+[^32]: Codex Justiniani, Book 1, Title 2, Const. 24 (*De sacrosanctis ecclesiis*), affirming the canonical standing and patriarchal privileges of the Church of Constantinople.
+[^33]: Imperial constitution of the August Emperors Leo I (457–474) and Anthemius (467–472) preserved in the Codex Justiniani (1.2.14), confirming the Church of Constantinople as the mother of all orthodox Christians.
+[^34]: The Kyiv Caves Lavra's historic status as a Patriarchal Stauropegion, directly subject to the Ecumenical Patriarch of Constantinople rather than the local diocesan hierarch.
+[^35]: 1 Thessalonians 5:16–18.
+[^36]: St. Basil the Great, *Regulae fusius tractatae* (Longer Rules), Rule 37; cf. *Constitutiones Monasticae* (Ascetic Constitutions), chap. 4.
+[^37]: Colossians 3:16.
+[^38]: St. Basil the Great, *Longer Rules*, Rule 37.3, regarding the sanctification of fixed diurnal and nocturnal hours through liturgical prayer.
+[^39]: St. John Chrysostom, *Homilies on the Gospel of Matthew*, Homily 20 / Homily 89, discussing the biblical reckoning of days from evening to evening.
+[^40]: Theodore Balsamon (c. 1140–1195), canonist and Patriarch of Antioch, Commentary on Canon 89 of the Council in Trullo (Sixth Ecumenical Council).
+[^41]: Plutarch, *Quaestiones Romanae* (Roman Questions), 84; Macrobius, *Saturnalia*, Book 1, Chap. 3, citing the ancient civil reckoning of the Roman natural day from midnight (*a media nocte ad mediam noctem*).
+[^42]: Genesis 1:5.
+[^43]: St. Basil the Great, *Homilies on the Hexaemeron*, Homily 2.8 (PG 29, 48–49).
+[^44]: Pseudo-Athanasius, *Quaestiones ad Antiochum Ducem*, Quaestio 52 (PG 28, 632).
+[^45]: St. John of Damascus, *Expositio Fidei* (Exact Exposition of the Orthodox Faith), Book 2, Chap. 7 ("On Light, Fire, and the Luminaries"; PG 94, 917).
+[^46]: Matthew 25:6.
+[^47]: St. John Chrysostom, *Homilies on the Gospel of Matthew*, Homily 78 (on Mt. 25:6; PG 58, 712).
+[^48]: Theophylact of Ohrid, *Enarratio in Evangelium Matthaei*, on Mt. 28:1.
+[^49]: Acts 16:25.
+[^50]: Psalm 118:62 (LXX).
+[^51]: Psalm 133:2 (LXX).
+[^52]: Mark 13:35–36.
+[^53]: St. John Chrysostom, *Homilies on the Gospel of Saint John*, Homily 83 (on John 18:1–2).
+[^54]: Luke 22:44.
+[^55]: John 18:12–13.
+[^56]: Psalm 118:148 (LXX).
+[^57]: Psalm 87:14 (LXX).
+[^58]: Psalm 76:4 (LXX); cf. St. Basil the Great, *Longer Rules*, Rule 37.3.
+[^59]: St. John Chrysostom, *Homilies on Matthew*, Homily 84 (on Mt. 26:57–68).
+[^60]: Psalm 5:4–5 (LXX).
+[^61]: Psalm 89:17 (LXX).
+[^62]: Matthew 27:1–2; John 18:28.
+[^63]: St. Basil the Great, *Longer Rules*, Rule 37.3, prescribing that monastics scattered at various manual obediences must assemble at the Third Hour to receive the Holy Spirit in common prayer.
+[^64]: Acts 2:15, recalling that the descent of the Holy Spirit at Pentecost took place at the third hour of the day.
+[^65]: Psalm 50:12–14 (LXX).
+[^66]: Psalm 142:10 (LXX).
+[^67]: Mark 15:25, recording that it was the third hour when Christ was crucified.
+[^68]: Psalm 54:18 (LXX).
+[^69]: Psalm 90:6 (LXX), referring to the noonday demon (*daemon meridianus* / *бѣсъ полꙋ́денный*).
+[^70]: Daniel 6:10.
+[^71]: Isaiah 53:4–5 (LXX).
+[^72]: Acts 3:1.
+[^73]: 1 John 3:16.
+[^74]: Psalm 43:23 (LXX).
+[^75]: Psalm 43:23 (LXX); Romans 8:36.
+[^76]: John 19:25; Luke 23:49.
+[^77]: Genesis 1:5.
+[^78]: St. Basil the Great, *Homilies on the Hexaemeron*, Homily 2.8.
+[^79]: Psalm 140:2 (LXX).
+[^80]: Exodus 29:38–39; Numbers 28:3–4; cf. St. Basil the Great, *Homilies on the Psalms*, on Psalm 140.
+[^81]: Allusion to the ancient vesper hymn *Phos Hilaron* (*Све́те ти́хїй*, "O Gladsome Light"), which hymns the Father, Son, and Holy Spirit at the setting of the sun.
+[^82]: John 19:34.
+[^83]: John 19:38–40.
+[^84]: Mark 15:47.
+[^85]: John 20:19–20.
+[^86]: Allusion to the Compline prayers for protection during sleep, especially the prayer of Antiochus the Monk (*И даждь нам, Владыко, на сон грядущим...*) and the prayer to the Guardian Angel.
+[^87]: St. Basil the Great, *De Creatione Hominis*, Sermo 2 (PG 30, 48–60), on public confession and mutual spiritual healing.
+[^88]: Matthew 27:61.
+[^89]: Luke 23:56.
+[^90]: Zacharias Kopystensky here provides a theological defense of the Byzantine-Slavonic practice of full prostrations (*великие поклоны*, *metanoiai*) against Western and Protestant critics who regarded bodily prostrations as excessive or pagan.
+[^91]: Exodus 34:8.
+[^92]: Joshua 7:6.
+[^93]: Genesis 48:12.
+[^94]: 4 Kings (2 Kings) 4:37 (LXX).
+[^95]: Genesis 33:3.
+[^96]: Daniel 6:10.
+
+[^97]: Lk. 5:12. Marginal gloss in Church Slavonic: `Лк̃: е҃:`.
+[^98]: An allusion to the mocking of Christ by Roman soldiers in Mt. 27:29 and Mk. 15:19.
+[^99]: Mt. 26:39. Marginal gloss in Church Slavonic: `Мат̃: кс҃`.
+[^100]: Lk. 22:44. Marginal gloss in Church Slavonic: `Лк̃: к҃в:`.
+[^101]: Lk. 22:44 concluded across the folio turn from Fol. 17v.
+[^102]: A pious Jerusalemite tradition concerning the imprint left by the Virgin Mary at Gethsemane during her prayers.
+[^103]: Marginal citation: `на м̃а. слѡ́, і҃.`. St. James the Just, Brother of the Lord and first Bishop of Jerusalem.
+[^104]: Hegesippus, cited in Eusebius of Caesarea, *Historia Ecclesiastica* II.23, reporting that St. James's knees became calloused like those of a camel from continual intercession in the Temple.
+[^105]: St. John Cassian, *De Institutis Coenobiorum* (Institutes of the Coenobia), bk. II, ch. 17 and bk. VIII, ch. 18 (or 58). Marginal reference: `в́ кни: в҃ · гл҃: з҃і · и҆ в́ кн: и҃ · г: н҃і ·`.
+[^106]: Ps. 133:1–2 (LXX). Marginal citation: `Ѱа́л: р̃лг:`.
+[^107]: Mk. 11:25. Marginal citation: `Мр҃: а҃і:`.
+[^108]: St. Basil the Great, *De Spiritu Sancto* (On the Holy Spirit), ch. 27 (§ 66). Marginal citation: `г: к҃з:`.
+[^109]: St. Basil the Great, *De Spiritu Sancto*, ch. 27 (§ 66), explaining the apostolic tradition of standing in prayer on the Lord's Day as a figure of the age to come.
+[^110]: St. Basil the Great, *De Spiritu Sancto*, ch. 27 (§ 66).
+[^111]: St. Basil the Great, *De Spiritu Sancto*, ch. 27 (§ 66), introducing the mystical theology of the metanoia (prostration).
+[^112]: St. Basil the Great, *De Spiritu Sancto*, ch. 27 (§ 66), concluding the explanation of prostrations as symbols of the Fall and redemption.
+[^113]: Exegesis of the twofold bodily disposition (standing upright and prostrating to the ground) in Eastern Christian prayer.
+[^114]: General monastic and ecclesiastical canon requiring Christians to maintain the hours of prayer even during travels or outside duties.
+[^115]: Rule prohibiting the abandonment of the daily prayer rule under pretext of journeying or receiving guests.
+[^116]: Marginal citations: `тꙋ́, д҃; двꙋтї, ѕ.`, referencing canonical authorities on the inviolability of the daily office.
+[^117]: Zacharias Kopystensky emphasizes the ecclesiological and typikon unity between the Church of Rus' and the mother patriarchate of Constantinople, as well as the primordial Church of Jerusalem.
+[^118]: A pastoral exhortation against departing from the Orthodox faith and liturgical traditions handed down by the Church Fathers.
+[^119]: Commemoration of Venerable Anthony and Theodosius of the Caves, founders of the Kyiv-Pechersk Lavra, who received and established the Studite-Athonite monastic tradition.
+[^120]: Solemn doxological conclusion to the theological preface.
+[^121]: Pastoral valediction to the Orthodox Christian reader.
+[^122]: December 20, 1616 (Old Calendar). The preface is thus dated to late December 1616, shortly before the Horologion was brought to completion and published in early 1617.
+[^123]: The Cyrillic initials `З҃ · А · К ·` stand for Zacharias Archimandrite Kopystensky (`Заха́рїа Архимандри́тъ Копысте́нскїй`).
+[^124]: Russian library provenance inscription from the Trinity-Sergius Lavra dated 1859.
+[^125]: Mk. 11:25–26, positioned as an epigraph on the verso facing the liturgical beginning of the Horologion.
+[^126]: The Lord's precept on forgiveness before offering prayer to God.
+[^127]: The physical copy bound here exhibits an early binder's inversion: folios 5r–8v (containing the Daily Midnight Office) precede folios 1r–4v (the main Title Page and Prayers on Rising from Sleep). Fol. 5r opens with the rubric for the Midnight Office in the narthex.
+[^128]: The opening invocation before the Heavenly King and Trisagion.
+[^129]: Slavonic liturgical cue: `Цр̃ю нб̃ныи : Тр̃то́е` (Heavenly King, Trisagion). Transcribed epigraphically without silent interpolated expansions (Rule 16).
+[^130]: Prostrations specified on days when "Alleluia" is sung (fasting and penitential seasons) instead of "God is the Lord."
+[^131]: LXX title of Psalm 50 (MT 51), running across the page break.
+[^132]: Heading of Psalm 50 (LXX) concluded on Fol. 6r.
+[^133]: Ps. 50:1–8a (LXX).
+[^134]: Ps. 50:8b–16a (LXX; MT Ps. 51).
+[^135]: Ps. 50:16b–21 (LXX).
+[^136]: Rubric prescribing Kathisma 17 (the 118th Psalm, divided into three stases), the foundational psalmody of the Daily Midnight Office.
+[^137]: Ps. 118:1–7 (LXX; MT Ps. 119).
+[^138]: Ps. 118:8–15 (LXX).
+[^139]: Ps. 118:15b–22 (LXX; MT Ps. 119).
+[^140]: Main liturgical title page of the Horologion proper, bearing signature `А` and foliation `а҃` (Fol. 1r). In this physical exemplar, quires were bound such that folios 1r–4v follow folio 8v.
+[^141]: Rubrical witness identifying the liturgical recension as conforming to the Sabbaite Typikon of the Great Lavra in Jerusalem.
+[^142]: The private rule of morning prayers on rising from sleep (*Последованіе скоро от сна въставши*), which traditionally precedes the communal Midnight Office.
+[^143]: The three opening doxological versicles on rising.
+[^144]: St. Macarius the Great of Egypt (c. 300–391), first prayer on rising from sleep.
+[^145]: Conclusion of the morning prayer of St. Macarius the Great.
+[^146]: Opening monastic incipit and Jesus prayer invoking the intercession of the Mother of God and all saints.
+[^147]: The invocation of the Holy Spirit (*Царю небесный*), the universal opening prayer of Byzantine liturgical offices.
+
+[^148]: Physical leaf p31 (Page_0031.jpg), left page (fol. 2v). Conclusion of the prayer *O Heavenly King* (*Царю небесный*), which commenced on fol. 2r (p30), followed by the introductory Trisagion Prayers (*Трисвятое* through *Пресвятая Троице*).
+[^149]: Physical leaf p31 (Page_0031.jpg), left page (fol. 2v). The Lord's Prayer (*Отче нашъ*), opening petitions, introduced by a decorative historiated woodcut initial "Ѻ". Text concludes with catchword *Хлѣ́бъ* at bottom right.
+[^150]: Physical leaf p31 (Page_0031.jpg), right page (fol. 3r). The Lord's Prayer, concluding petitions. In the petition *lead us not into temptation*, the printed text witnesses the archaic orthographic ligature *вътискꙋше́ніе* (*въ искоушеніе*).
+[^151]: Physical leaf p31 (Page_0031.jpg), right page (fol. 3r). Doxological conclusion to the Lord's Prayer (*Ꙗко твое́ є́стъ црⷭ҇твіе...*), witnessing *къ вѣ́кы, ами́нь* (unto the ages, amen).
+[^152]: Physical leaf p31 (Page_0031.jpg), right page (fol. 3r). The first of the three Troparia to the Holy Trinity (*Тропари Троичные*) chanted upon rising from sleep, Tone 1 (*Въста́вше ѿ сна̀ припа́даемъ ти бл҃гый...*).
+[^153]: Physical leaf p31 (Page_0031.jpg), right page (fol. 3r). The second Troparion to the Holy Trinity, Tone 2 (*Ѿ ѻ́дра и сна̀ въздви́глъ мѧ̀ єсѝ Гдⷭ҇и...*). Signature *а г* marks Quire 1, leaf 3; catchword *ꙋ́мъ*.
+[^154]: Physical leaf p32 (Page_0032.jpg), left page (fol. 3v). Conclusion of the second Troparion to the Trinity, Tone 2.
+[^155]: Physical leaf p32 (Page_0032.jpg), left page (fol. 3v). The third Troparion to the Trinity, Tone 3 (*Напра́сно сꙋ́діа пріи́детъ...*).
+[^156]: Physical leaf p32 (Page_0032.jpg), left page (fol. 3v). Rubric prescribing twelvefold *Lord, have mercy* (*Господи помилуй: в҃і.*) followed by the First Morning Prayer to the All-Holy Trinity.
+[^157]: Physical leaf p32 (Page_0032.jpg), left page (fol. 3v). First Morning Prayer (*Ѿ сна̀ въста́въ, бл҃годарю́ тѧ Ст҃а́ѧ Тр҃це...*), traditionally attributed to Saint Basil the Great.
+[^158]: Physical leaf p32 (Page_0032.jpg), right page (fol. 4r). Conclusion of the First Morning Prayer.
+[^159]: Physical leaf p32 (Page_0032.jpg), right page (fol. 4r). Rubric marking the Second Morning Prayer (*Мл҃тва втѡ́раѧ*), attributed to Saint Basil the Great.
+[^160]: Physical leaf p32 (Page_0032.jpg), right page (fol. 4r). Second Morning Prayer (*Сла́ва тебѣ̀ Цр҃ю, Бж҃е Вседръжи́телю...*). Catchword *грѣ́-*.
+[^161]: Physical leaf p33 (Page_0033.jpg), left page (fol. 4v). Conclusion of the Second Morning Prayer, evoking the parable of the Ten Virgins (Mt. 25:1–13).
+[^162]: Physical leaf p33 (Page_0033.jpg), left page (fol. 4v). Rubric for the solitary recitation of the Midnight Office in the monastic cell (*А́ще хо́щеши на є҆динѣ̀ Полꙋ́нощницꙋ гла́ти...*), cross-referencing the introductory order previously printed.
+[^163]: Physical leaf p33 (Page_0033.jpg), right page (fol. 9r). Codicological juncture: Fol. 9r (bearing quire signature *в* and Cyrillic leaf numeral *ѳ*) resumes Kathisma 17 of the Midnight Office immediately where it was suspended at the bottom of fol. 8v (physical leaf p29). Folios 1r–4v (physical leaves p29 right through p33 left) constitute a discrete introductory gathering containing the Title and Morning Prayers upon Rising from Sleep (*Послѣдованіе ѿ сна въставши*).
+[^164]: Physical leaf p33 (Page_0033.jpg), right page (fol. 9r). Psalm 118:23–29 (LXX numbering); Masoretic [Ps. 119:23–29]. Bottom catchword *пꙋ́ть*.
+[^165]: Physical leaf p34 (Page_0034.jpg), left page (fol. 9v). Psalm 118:30–37 (LXX numbering); Masoretic [Ps. 119:30–37]. Catchword *пꙋ́ти*.
+[^166]: Physical leaf p34 (Page_0034.jpg), right page (fol. 10r). Psalm 118:37b–44 (LXX numbering); Masoretic [Ps. 119:37b–44]. Signature *в в* marks Quire 2, leaf 2; catchword *ихожда́-*.
+[^167]: Physical leaf p35 (Page_0035.jpg), left page (fol. 10v). Psalm 118:45–51 (LXX numbering); Masoretic [Ps. 119:45–51]. Catchword *помѧ-*.
+[^168]: Physical leaf p35 (Page_0035.jpg), right page (fol. 11r). Psalm 118:52–59 (LXX numbering); Masoretic [Ps. 119:52–59]. Signature *в г* marks Quire 2, leaf 3; catchword *нѡ́зѣ*.
+[^169]: Physical leaf p36 (Page_0036.jpg), left page (fol. 11v). Psalm 118:59b–66 (LXX numbering); Masoretic [Ps. 119:59b–66]. Catchword *пре́жде*.
+[^170]: Physical leaf p36 (Page_0036.jpg), right page (fol. 12r). Psalm 118:67–72 (LXX numbering); Masoretic [Ps. 119:67–72], concluding the First Stasis of Kathisma 17.
+[^171]: Physical leaf p36 (Page_0036.jpg), right page (fol. 12r). Liturgical rubric marking the doxology (*Слава... И нынѣ...*), triple Alleluia with three prostrations, and the transition to the Second Stasis (*Ста́тіа втѡ́раѧ*). Bottom catchword *Рꙋцѣ̀*.
+[^172]: Physical leaf p37 (Page_0037.jpg), left page (fol. 12v). Opening of the Second Stasis (*Ста́тіа втѡ́раѧ*) of Kathisma 17: Psalm 118:73–79 (LXX numbering); Masoretic [Ps. 119:73–79]. Catchword *дꙋщій*.
+[^173]: Physical leaf p37 (Page_0037.jpg), left page (fol. 12v). Psalm 118:79, transitioning to fol. 13r.
+[^174]: Physical leaf p37 (Page_0037.jpg), right page (fol. 13r). Psalm 118:79b–86 (LXX numbering); Masoretic [Ps. 119:79b–86]. Bottom signature *г* marks Quire 3; catchword *ма́-*.
+[^175]: Physical leaf p38 (Page_0038.jpg), left page (fol. 13v). Psalm 118:87–93 (LXX numbering); Masoretic [Ps. 119:87–93].
+[^176]: Physical leaf p38 (Page_0038.jpg), left page (fol. 13v). Liturgical rubric marking the Middle Stasis subdivision (*Ста́тіа, сре́днѧѧ*). Bottom catchword *Тво́й*.
+[^177]: Physical leaf p38 (Page_0038.jpg), right page (fol. 14r). Second/Middle Stasis continued (*Тво́й є҆́смъ а́зъ сп҃си́ мѧ...*).
+[^178]: Physical leaf p38 (Page_0038.jpg), right page (fol. 14r). Psalm 118:94–101 (LXX numbering); Masoretic [Ps. 119:94–101]. Signature *г в* marks Quire 3, leaf 2; catchword *нога́-*.
+[^179]: Physical leaf p39 (Page_0039.jpg), left page (fol. 14v). Psalm 118:101b–108 (LXX numbering); Masoretic [Ps. 119:101b–108]. Catchword *дш҃а*.
+[^180]: Physical leaf p39 (Page_0039.jpg), right page (fol. 15r). Psalm 118:109–116a (LXX numbering); Masoretic [Ps. 119:109–116a]. Signature *г г* marks Quire 3, leaf 3; catchword *бꙋ́дꙋ*.
+[^181]: Physical leaf p40 (Page_0040.jpg), left page (fol. 15v). Psalm 118:116b–123 (LXX numbering); Masoretic [Ps. 119:116b–123]. Catchword *сътво-*.
+[^182]: Physical leaf p40 (Page_0040.jpg), right page (fol. 16r). Psalm 118:124–130 (LXX numbering); Masoretic [Ps. 119:124–130]. Top right foliation *ѕ҃і* (fol. 16r); bottom catchword *Оу҆ста̀*.
+
+[^183]: The Seventeenth Kathisma (Ps. 118) is divided into three stases (*statia*), each concluding with the triple Alleluia and three metanoias (bows). Here begins the Third Stasis (v. 132 to end; LXX 118:132–176 / MT 119:132–176).
+[^184]: Ps. 118:137–138 (LXX 118:137–138 / MT 119:137–138).
+[^185]: Ps. 118:147 (LXX 118:147 / MT 119:147). Church Slavonic: *Предвари́хъ въ безго́дїи, и҆ къзва́хъ* (Greek: προέφθασα ἐν ἀωρίᾳ καὶ ἐκέκραξα).
+[^186]: Ps. 118:153–154 (LXX 118:153–154 / MT 119:153–154).
+[^187]: Ps. 118:164 (LXX 118:164 / MT 119:164). Traditional monastic scriptural foundation for the seven daily liturgical services.
+[^188]: Ps. 118:175 (LXX 118:175 / MT 119:175).
+[^189]: The Symbol of Faith (Nicene-Constantinopolitan Creed) without the *Filioque*, with printed marginal notes distinguishing the articles defined at the First Ecumenical Council (Nicaea I, 325) and the Second Ecumenical Council (Constantinople I, 381).
+[^190]: The marginal note *в҃ . събо́ра* marks the pneumatological and ecclesiological articles defined at the Second Ecumenical Council of Constantinople (381).
+[^191]: The midnight troparia in Tone 8 (*Се жени́хъ грѧде́тъ въ полꙋ́нощи* / *Behold, the Bridegroom comes at midnight*), drawing upon the eschatological Parable of the Ten Virgins (Matt. 25:1–13).
+[^192]: *Codicological Note:* In this physical exemplar, Folio 21 is bound inverted (reversed recto-verso). Folio 21v physically faces Folio 20v on this opening (Page_0045), containing the central portion of the Prayer of the Hours (*Thou Who at all times...*), while its recto (Fol. 21r) appears on the facing page of the subsequent opening (Page_0046).
+[^193]: Tone 8 Theotokion (*Тебѐ неѡ҆бори́моую стѣ́ноу* / *Thee, the invincible rampart...*).
+[^194]: Rubric prescribing 15 great prostrations (*metanoias*) during fasting seasons accompanied by the Prayer of St. Ephrem the Syrian. Note that on Fol. 22r the printed prayer text ends abruptly at *смиренномꙋдрїа*, omitting the final petitions and the subsequent transitional prayers before Psalm 120 on Fol. 22v.
+[^195]: The text opens at the final verse of Psalm 120 (LXX 120:8 / MT 121:8: *[The Lord shall keep] thy coming in and thy going out...*), followed directly by Psalm 133 (LXX 133 / MT 134), the beginning of the Second Part of the Daily Midnight Office (for the Departed).
+[^196]: Tone 8 Kontakion of the Departed (*Со святыми упокой...* / *With the saints give rest, O Christ...*).
+[^197]: Prayer of intercession for the departed (*Помяни Господи, иже к надежди воскресения...* / *Remember, O Lord, in the hope of resurrection...*). Note that the printed foliation skips from Fol. 23 directly to Fol. 25, though the text connects without hiatus across the opening.
+[^198]: Monastic rubrical provision for a solitary monk reciting the Midnight Office alone in his cell (*Аще ли инокъ в келии на едине*).
+[^199]: The mutual forgiveness ceremony (*Чинъ прощенїя*), performed at the end of the Midnight Office and Compline, wherein the priest bows to the brethren requesting pardon for sins committed in word, deed, thought, and all senses, and the community reciprocates.
+[^200]: Suffrages (*Просительная ектения / чинъ прощенїя*) chanted alternately after the mutual pardon, praying for civil and ecclesiastical authorities.
+[^201]: Suffrages continued, interceding for the monastic fraternity, benefactors, captives, and travelers.
+[^202]: Concluding petitions of the suffrages, commemorating the sick, imprisoned, departed Orthodox sovereigns and princes, and the founders (*ktetors*) of the monastery and church.
+
+[^203]: This private intercessory prayer (*Ненавидящихъ и обидящихъ насъ прости, Господи...* / *Τοὺς μισοῦντας καὶ ἀδικοῦντας ἡμᾶς συγχώρησον, Κύριε φιλάνθρωπε...*), historically attributed in Byzantine euchologia and apodeipna to Saint Eustratios or Saint Symeon the Metaphrast, is prescribed for recitation at the conclusion of both the Midnight Office and Compline whenever a monastic or cleric prays the rule in solitude without a priest.
+[^204]: Church Slavonic *ѻ҆кла́нетко*: a typographical error in the 1616/1617 Kyiv print for *ѡ҆ка́ѧнство* (wretchedness, misery, or unworthiness).
+[^205]: On Saturdays throughout the liturgical year (outside Bright Week and certain Great Feasts), the Midnight Office omits the monumental 17th Kathisma (Psalm 118, *Amomos*, chanted daily) and substitutes the 9th Kathisma of the Psalter (Psalms 64–69), reflecting the repose and creation-memorial character of the Sabbath.
+[^206]: Psalm 64 in the Septuagint (LXX 64); Psalm 65 in the Masoretic Text (MT 65).
+[^207]: Psalm 65 in the Septuagint (LXX 65); Psalm 66 in the Masoretic Text (MT 66).
+[^208]: Psalm 66 in the Septuagint (LXX 66); Psalm 67 in the Masoretic Text (MT 67).
+[^209]: Psalm 67 in the Septuagint (LXX 67); Psalm 68 in the Masoretic Text (MT 68).
+[^210]: Psalm 68 in the Septuagint (LXX 68); Psalm 69 in the Masoretic Text (MT 69).
+[^211]: Psalm 69 in the Septuagint (LXX 69); Psalm 70 in the Masoretic Text (MT 70).
+[^212]: The Symbol of Faith (Nicene-Constantinopolitan Creed) is indicated by its incipit with an explicit cross-reference (*Ли́стъ, д҃і*, fol. 14, corresponding to physical leaf p28), where the complete text was printed during the Daily Midnight Office.
+[^213]: These Triadica (*Тро́ичны* / *Τριαδικά*) are the Saturday Midnight Office hymns to the Holy Trinity in Tone 2, commencing on the following leaf with the incipit *Несозданное естество, всѣхъ содѣтелю...* ("Uncreated nature, Creator of all...").
+
+[^214]: The Prayer of the Hours (*И́же на всѧ́кое вре́мѧ и҆ на всѧ́кій ча́съ...* / *Ὁ ἐν παντὶ καιρῷ καὶ πάσῃ ὥρᾳ...*), traditionally attributed to Saint Basil the Great, was printed in full during the Daily Midnight Office on fol. 20 (physical leaf p47).
+[^215]: The Prayer of Saint Mardarios (*Владыко Боже, Отче Вседержителю...* / *Δέσποτα Θεέ, Πάτερ παντοκράτορ...*), recited after the priest's blessing, was printed in full on fol. 22 (physical leaf p49).
+[^216]: The Prayer of Saint Eustratios (*Величая величаю тя, Господи...* / *Μεγалύνων μεγαλύνω σε, Κύριε...*), attributed to the 4th-century Great Martyr Eustratios of Sebaste (commemorated December 13), is rubricated here specifically for private cell recitation (*въ келіахъ*) and explicitly excluded from corporate liturgical recitation (*а въ соборѣ сія не глаголется*).
+[^217]: The concluding sequence of the Midnight Office (the trisagion prayers, the troparia of the dead, the litany of supplication, and the mutual forgiveness) is cross-referenced to its complete printing on fol. 23 (physical leaf p51).
+[^218]: The rite of mutual forgiveness (*прощеніе* / *συγχώρησις*) concluded monastic communal prayer, with the superior and brethren making prostrations before one another seeking pardon before retiring.
+[^219]: The rubric specifies that if an All-Night Vigil (*всенощное бдѣніе*) is not celebrated on Saturday evening, the Sunday Midnight Office is chanted in the morning before Matins. Following the usual beginning and Psalm 50 (cross-referenced to the Daily Midnight Office), the Canon to the Holy Trinity of the tone of the week from the Oktoechos is chanted.
+[^220]: These Supplicatory Triadica (*Троичны припѣлы* / *Τριαδικά*) are attributed in the rubrics to Saint Gregory of Sinai (c. 1260–1346), the great hesychastic father who revitalized contemplative prayer and monastic hymnography in the Byzantine Empire, Mount Athos, and Paroria.
+[^221]: The Sunday Hypakoe (*ѵ҆пакои* / *ὑπακοή*) is the brief liturgical troparion of the Resurrection according to the tone of the week chanted in the Sunday Octoechos cycle.
+[^222]: The penitential troparia (*Помилуй насъ, Господи, помилуй насъ...*) and the Theotokion (*Милосердія двери отверзи намъ...*) are cross-referenced to Fol. 25 (physical leaf p53), where they were printed in the Compline order.
+[^223]: The monumental nocturnal prayer to the Holy Trinity (*Всемогущая и животворящая Святая Троице...*) is attributed to Mark the Monk (Saint Mark the Ascetic, 5th century). The rubric notes its dual liturgical usage: concluded here at the Sunday Midnight Office, and also recited at Great Compline (*на великій вечеръ по Павечерници*).
+[^224]: The litany of supplication (*Помолимся о богохранимомъ...*) recited at the end of the Midnight Office was printed in full on Fol. 26 (physical leaf p52).
+[^225]: The rubric prescribes the reading of the Acts of the Apostles (*Прáзикъ* / *Пра́ксапостолъ* / *Πραξαπόστολος*) by the canonarch between the Midnight Office and Matins during the night vigils.
+[^226]: This rubrical note documents the Athonite custom (*въ Святой Аѳонской Горѣ*), where on Mount Athos after the Canon to the Trinity, the hymn *It is truly meet* is sung followed by the Trisagion, Hypakoe, 40 *Lord, have mercy*, and dismissal, rather than the lengthy reading from Acts.
+[^227]: The triple invitation to prayer (*Пріидите поклонимся...*) with three reverences is cross-referenced to Fol. 5 (physical leaf p33), where it was printed at the beginning of the Midnight Office.
+[^228]: Psalm 19 in the Septuagint (LXX 19; MT 20). The printed Slavonic heading displays *ді҃* (14), an apparent typographical error for the first of the two Royal Psalms (*Царскіе псалмы*) that open the pre-Matins vigil.
+[^229]: Psalm 20 in the Septuagint (LXX 20; MT 21), the second Royal Psalm of Matins celebrating the divine preservation, coronation, and victory of the king.
+[^230]: The rubric specifies that if a priest is present, the Royal Office concludes with a special abbreviated litany of fervent supplication (*єкте́ніа ма́ла*) specifically for the monarch (*за царѧ̀ ту́чію*), followed by the solemn Trinitarian doxology that initiates the Six Psalms of Matins.
+[^231]: Church Slavonic *концы̀ под̾шꙋ́киваютсѧ*: an expressive East Slavic rubrical idiom designating that the concluding verses of each psalm of the Six Psalms are recited in a subdued, low murmur or whisper, rather than projected in a loud chant, preserving the solemn interior silence of the Hexapsalmos.
+[^232]: Psalm 3 in both the Septuagint and the Masoretic Text (LXX 3; MT 3), the opening psalm of the Matins Hexapsalmos (*Шестопсалміе*).
+
+[^233]: Psalm 37 in the Septuagint (LXX 37; MT 38), the second psalm of the Hexapsalmos, bearing the inscription *A Psalm of David, for a remembrance, concerning the Sabbath* (*Ѱало́мъ Давы́ду, въ воспомина́ніе, ѡ҆ суббѡ́тѣ* / *Ψαλμὸς τῷ Δαυΐδ, εἰς ἀνάμνησιν περὶ σαββάτου*).
+[^234]: Psalm 62 in the Septuagint (LXX 62; MT 63), the third psalm of the Hexapsalmos, depicting the soul's morning longing for God in the Judean wilderness.
+[^235]: The rubric prescribes *безъ поклоновъ* (*without bows/prostrations*), highlighting the solemn stillness required during the reading of the Six Psalms: the faithful stand motionless in silent contemplation of the Judgment without making metanias or bows during the central doxology.
+[^236]: Psalm 87 in the Septuagint (LXX 87; MT 88), the fourth psalm of the Hexapsalmos, known as the most sorrowful lament in the Psalter, chanted as a contemplation of Christ's descent into Hades and tomb.
+[^237]: This rubric directs the Priest to come out from the sanctuary through the Holy Doors (or from his stall in the choir) and stand before the icon of Christ the Master (or before the Royal Doors with uncovered head) to recite silently the twelve Morning Prayers of Matins (*Еѵхаὶ ἑωθιναί* / *Ѹтренніѧ мл҃твы*) while the Six Psalms are being read.
+[^238]: Psalm 102 in the Septuagint (LXX 102; MT 103), the fifth psalm of the Hexapsalmos, a hymn of radiant thanksgiving for God's boundless mercy, forgiveness, and paternal compassion.
+[^239]: Psalm 142 in the Septuagint (LXX 142; MT 143), the sixth and final psalm of the Hexapsalmos, depicting the soul's total surrender and cry for divine guidance in the face of spiritual enemies.
+[^240]: The Great Litany (*Вели́каѧ є҆кте́ніа* / *Μεγάλη συναπτή*), or Litany of Peace (*Ми́рнаѧ є҆кте́ніа* / *Εἰρηνικά*), is proclaimed by the deacon or priest immediately following the conclusion of the Six Psalms.
+[^241]: Psalm 117:1, 10, 17, 22-23 (LXX 117; MT 118), chanted antiphonally with the solemn refrain *God is the Lord, and has appeared unto us* (*Богъ Господь и явися намъ* / *Θεὸς Κύριος καὶ ἐπέφανεν ἡμῖν*).
+[^242]: The rubric specifies that during Lenten or penitential periods (*Егда́ же есть По́стъ*), the festal chant *God is the Lord* is replaced by the penitential *Alleluia* chanted four times to the Tone of the week with the Scriptural verses from Isaiah 26:9, 11, 15.
+[^243]: The Hymns to the Trinity of the Eight Tones (*Тро́йчны ѻ҆смѝ гла́сѡвъ* / *Τριαδικά*), chanted on weekdays during Lenten and non-festal periods in place of the festal troparia, following the singing of *Alleluia*.
+[^244]: The Triadika (*Троичны*) of the Oktoechos: eight sets of triadica corresponding to the Eight Tones, chanted at weekday Matins. Each tone consists of three stanzas celebrating the consubstantial Trinity followed by a Exaposteilarion (*Свѣтиленъ* / *Φωταγωγικόν*).
+[^245]: The Exaposteilarion (*Свѣти́ленъ* / *Φωταγωγικόν*, literally "Hymn of Light"), chanted after the Triadika, with daily variable intercessory endings appointed for the day of the week: Angels on Monday, the Forerunner on Tuesday, the Holy Cross on Wednesday and Friday, and the Holy Apostles on Thursday.
+
+[^246]: The Church Slavonic witness abbreviates the Trisagion refrain here to 'ст҃ъ, ст҃ъ, ст҃ъ :' (Holy, Holy, Holy), omitting the explicit vocative clause 'є҆сѝ Бж҃е' (art Thou, O God) present in the full refrain.
+[^247]: Church Slavonic 'Мы́сльныхъ твои́хъ слꙋ́гъ, принѡси́мъ ти мр҃тве́нїи пѣ́нь' reflects Greek 'Τῶν νοερῶν σου λειτουργῶν μιμούμενοι...'; the genitive 'Мы́сльныхъ твои́хъ слꙋ́гъ' represents the object of the elliptical Greek participle 'imitating Thine angelic ministers'.
+[^248]: In Tone 7, the hymn is addressed to the unapproachable Trinity in the dative case ('Непристоу́пнѣй Бж҃твѡмъ'), reflecting the Byzantine liturgical Troika of the Octoechos.
+[^249]: The rubric prescribes the appointed daily Kathismata of the Psalter according to the seasonal Typikon rules, followed by the sessional hymns (kathisma hymns / sedalny).
+[^250]: Fol. 6r corresponds to physical leaf p27, where Psalm 50 is printed in full.
+[^251]: Church Slavonic 'до вѣ́ка' reflects Greek 'εἰς τὸν αἰῶνα' (Luke 1:55).
+[^252]: Fol. 22r corresponds to physical leaf p43, where the hymn 'More honorable than the Cherubim' is printed in full.
+[^253]: The Psalter verses of the Praises (Lauds / Chvalitny) begin here with Psalm 148.
+[^254]: The printed heading mistakenly numbers this psalm as 'рм҃д' (Psalm 144) instead of 'рм҃ѳ' (Psalm 149), the second psalm of the Praises (Lauds / Chvalitny).
+[^255]: The rubric distinguishes the festal singing of the Great Doxology from the Lenten/daily recitation of the Doxology preceded by the doxological acclamation 'To Thee glory is due...' and accompanied by 3 prostrations (metanias).
+[^256]: Church Slavonic 'брaзꙋми́ на' is an abbreviated scribal form for 'вразуми нас' ('make us understand'), reflecting the Greek 'συνέτισόν με' (Ps. 118:27).
+[^257]: The rubric provides the branching sequence for Lenten Matins versus non-fasting Matins: on ordinary days, the dismissal is followed directly by the First Hour, whereas on Lenten days, the special Lenten troparion ('In the temple standing...') and the Prayer of St. Ephrem with prostrations are performed before the First Hour.
+[^258]: Fol. 27r corresponds to physical leaf p48, containing the priestly dismissal cue. The cross-reference to fol. 22r corresponds to physical leaf p43 for the Prayer of St. Ephrem the Syrian.
+[^259]: The First Hour opens with an ornate headpiece and the three introductory invitations to worship ('O come, let us worship...'). In monastic practice, the First Hour is joined directly to the conclusion of Matins.
+
+[^260]: Psalm 89 (LXX 89 / MT 90), titled 'A Prayer of Moses, the Man of God', is the second psalm of the First Hour.
+[^261]: Psalm 100 (LXX 100 / MT 101), titled 'A Psalm of David', is the third psalm of the First Hour, embodying the royal vow of upright governance and purity of heart.
+[^262]: The Lenten troparion of the First Hour ('In the morning hear my voice...'), drawn from Psalm 5:3-4, is sung with 3 prostrations (metanias) when the Great Fast or minor fasts are observed.
+[^263]: In the Lenten order of the First Hour, the Kontakion is replaced by the penitential troparia in Tone 4 ('Speedily prevent us...', 'O Guide of wisdom...', 'The all-glorious Mother of Christ...').
+[^264]: The Prayer of the First Hour, traditionally attributed to St. Basil the Great ('O Christ, the true Light...').
+[^265]: Fol. 22r corresponds to physical leaf p43, where the Prayer of St. Ephrem the Syrian is set forth with prostrations.
+[^266]: The Mid-Hour of the First Hour (Mesorion / Междоча́сїе), an ancient monastic inter-hour recited during fasting seasons, here specifically prescribed to be prayed privately in cells rather than corporately in the nave.
+[^267]: Psalm 45 (LXX 45 / MT 46), the first psalm appointed for the Mesorion of the First Hour.
+[^268]: Psalm 91 (LXX 91 / MT 92), the second psalm appointed for the Mesorion of the First Hour.
+[^269]: Psalm 92 (LXX 92 / MT 93), the third psalm of the Mesorion of the First Hour, extolling the cosmic sovereignty of God.
+[^270]: The penitential troparia in Tone 6 ('Have mercy on us, O Lord...', 'Lord, have mercy on us...', 'Open unto us the doors of thy loving-kindness...'), recited at the conclusion of the Mid-Hour.
+[^271]: The printed Horologion specifies 'Гдⷭ҇и помилꙋй • л҃ •' (Lord, have mercy, 30 times) for the Mid-Hour, rather than the 40-fold repetition of the main Hour.
+[^272]: The first concluding prayer of the Mid-Hour of the First Hour, composed by St. Basil the Great.
+[^273]: The second prayer of the Mid-Hour of the First Hour, also attributed to St. Basil the Great.
+[^274]: The printed Slavonic witness prescribes 'Гдⷭ҇и помилꙋ́й • в҃ •' (Lord, have mercy, 2 times), an archaic Ruthenian Horologion practice before the final dismissal formula.
+[^275]: The Third Hour opens with an ornate engraved headpiece depicting Christ in glory with angels. The rubrics provide the distinct monastic ordos for reciting the Third and Sixth Hours privately in the cell versus liturgically in the narthex (*prytvir*) during fasting periods.
+
+[^276]: Psalm 16 (LXX 16 / MT 17), titled 'A Prayer of David', is the first of the three fixed psalms of the Third Hour.
+[^277]: Psalm 24 (LXX 24 / MT 25), titled 'A Psalm of David', an alphabetic acrostic psalm of petition and steadfast confidence in the Lord.
+[^278]: Psalm 50 (LXX 50 / MT 51), the great penitential psalm of David, is the third fixed psalm of the Third Hour.
+[^279]: The full text of Psalm 50 is omitted here and cross-referenced to fol. 6r (physical leaf p11) in the Midnight Office.
+[^280]: The Lenten troparion of the Third Hour commemorating the descent of the Holy Spirit at Pentecost at the third hour of the day (Acts 2:15), chanted with prostrations on fasting days.
+[^281]: Psalm 67:20-21 (LXX 67 / MT 68:19-20), a standard liturgical versicle chanted across the Horologion offices.
+[^282]: The Troparion and Kontakion of Pentecost in Tone 8 ('Blessed art Thou, O Christ our God...' and 'When the Most High came down...'), appointed as Lenten troparia for the Third Hour due to the hour's commemoration of the descent of the Holy Spirit.
+[^283]: The celebrated prooimion of the Akathist Hymn ('To thee, the champion leader...'), optionally substituted as the concluding Theotokion.
+[^284]: Fol. 22r corresponds to physical leaf p43 in the Midnight Office.
+[^285]: Fol. 74r-75r corresponds to physical leaves p97-p98 in the First Hour, where the full typikon of Ephremic prostrations is set forth.
+[^286]: The Prayer of St. Mardarios ('O Master God, Father Almighty, O Lord, the Only-begotten Son, Jesus Christ, and Holy Spirit...'), cross-referenced to fol. 22r (physical leaf p43).
+[^287]: The Mid-Hour of the Third Hour (Mesorion / Междоча́сїе), an ancient monastic inter-hour chanted during fasting seasons, here prescribed to be sung in church except on vigil ranks, feast days with a Great Doxology, Saturdays, and Sundays.
+[^288]: Psalm 29 (LXX 29 / MT 30), titled 'A Psalm of a Song at the Dedication of the House, of David', the first psalm appointed for the Mid-Hour of the Third Hour.
+[^289]: Psalm 31 (LXX 31 / MT 32), titled 'A Psalm of David, of Instruction' (Maskil), the second psalm appointed for the Mid-Hour of the Third Hour.
+[^290]: Psalm 60 (LXX 60 / MT 61), titled 'To the end, in hymns, of David', the third psalm appointed for the Mid-Hour of the Third Hour.
+[^291]: The general Troparion of Holy Fathers and Ascetics in Tone 4 ('O God of our fathers...').
+[^292]: Fol. 22r corresponds to physical leaf p43 in the Midnight Office.
+[^293]: The concluding prayer of the Mid-Hour of the Third Hour, attributed to St. Basil the Great ('O Lord our God, Who hast given Thy peace unto men...').
+[^294]: The Sixth Hour opens with an ornate engraved headpiece depicting Christ in glory with angels. The service commemorates the crucifixion of Christ at the sixth hour (noon) of the day.
+[^295]: Psalm 53 (LXX 53 / MT 54), titled 'To the end, in hymns of understanding, of David; when the Ziphites came...', the first of the three fixed psalms of the Sixth Hour.
+
+[^296]: Psalm 54 (LXX 54 / MT 55), titled 'To the end, in songs of instruction, of Asaph' (Въ коне́цъ в̾ пѣ́снехъ, ра́зоу Аса́фоу). In standard Septuagint and liturgical Psalters, this psalm is ascribed to David (συνέσεως τῷ Δαυιδ / ра́зꙋма Дави́дꙋ); the 1617 Kyiv Horologion typesetter introduces an anomalous typographical substitution attributing it to Asaph.
+[^297]: Slavonic text reads 'не да́стъ въ вѣ́къ мл҃твы пра́ведникꙋ' (with the titlo abbreviation for 'prayer', мл҃твы), a graphic scribal/typographical corruption of 'молвы́' or 'смяте́нїя' (LXX: οὐ δώσει εἰς τὸν αἰῶνα σάλον τῷ δικαίῳ; 'He shall not suffer the righteous to be shaken unto the ages').
+[^298]: Psalm 90 (LXX 90 / MT 91), titled 'A Praise of a Song, of David, not inscribed among the Hebrews', the third fixed psalm of the Sixth Hour, prophesying divine protection.
+[^299]: The fixed Theotokion of the Sixth Hour ('Seeing that we have no boldness...'), appealing to the motherly boldness of the Theotokos before Christ.
+[^300]: The Lenten troparion of the Sixth Hour ('Thou Who on the sixth day and hour didst nail to the Cross...'), commemorating the crucifixion of Christ at the sixth hour (noon), chanted with prostrations on fasting days.
+[^301]: Psalm 78:8-9 (LXX 78 / MT 79:8-9), standard liturgical petition for divine pardon and redemption.
+[^302]: Lenten Troparia in Tone 2 for the Sixth Hour ('Thou hast wrought salvation in the midst of the earth...' and 'We worship Thine all-pure icon...'), celebrating the Passion and holy icon of the Savior.
+[^303]: Stavrotheotokion in Tone 2 ('Most glorified art thou, O Birthgiver of God...'), appointed on Wednesdays and Fridays in honor of the Cross.
+[^304]: Fol. 74r-75r corresponds to physical leaves p97-p98 in the First Hour, where the full rubric of Ephremic prostrations is set forth.
+[^305]: The solemn concluding prayer of the Sixth Hour, attributed to St. Basil the Great ('O God and Lord of hosts, and Maker of all creation...').
+[^306]: Fol. 22r corresponds to physical leaf p43 in the Midnight Office.
+[^307]: The Prayer of St. Mardarios ('O Master God, Father Almighty...'), cross-referenced to fol. 22r (physical leaf p43).
+[^308]: Psalm 55 (LXX 55 / MT 56), titled 'To the end, for the people that were removed far off from the holy things, by David, for a pillar-inscription, when the foreigners seized him in Gath', the first psalm of the Mid-Hour of the Sixth Hour.
+[^309]: Psalm 56 (LXX 56 / MT 57), titled 'To the end, destroy not, by David, for a pillar-inscription, when he fled from the face of Saul into the cave', the second psalm of the Mid-Hour of the Sixth Hour.
+[^310]: Psalm 69 (LXX 69 / MT 70), titled 'To the end, of David, in remembrance, that the Lord may save me', the third psalm of the Mid-Hour of the Sixth Hour.
+[^311]: The Troparion of the Holy Cross in Tone 1 ('Save, O Lord, Thy people...'), cross-referenced to fol. 45r (physical leaf p68) in Matins.
+[^312]: Fol. 22r corresponds to physical leaf p43 in the Midnight Office.
+[^313]: Fol. 92v-93r corresponds to physical leaf p116, the end of the Sixth Hour.
+[^314]: Rubric prescribing that during fasting seasons, the Ninth Hour is chanted immediately following the Mid-Hour of the Sixth Hour, before the Obednitsa (Typika).
+[^315]: The Order of the Typika (Ѻ҆бѣ́дница / Obednitsa), the reader's service representing the Liturgy on days when the Eucharistic Sacrifice is not celebrated, opening with the Typical Psalms (Psalms 102 and 145) and the Beatitudes.
+[^316]: Fol. 52r corresponds to physical leaf p75 in the Six Psalms of Matins.
+
+[^317]: Septuagint Psalm 145 (Masoretic 146). The liturgical Horologion assigns the Haggai and Zechariah inscription according to the Septuagint witness, functioning as the Second Antiphon of the Typika.
+[^318]: The hymn *Only-begotten Son and Word of God* (*Ὁ Μονογενὴς Υἱός*, *Єдинородный Сынъ*), traditionally attributed to Emperor Justinian I (c. 528–536) and incorporated into the Constantinopolitan Divine Liturgies and the Typika.
+[^319]: Rubric prescribing the reading of the appointed daily Epistle and Gospel lections at the Typika when celebrated on aliturgical days of Great Lent or in the absence of a priest.
+[^320]: Psalm 33:6 (LXX 33:5), used as a choral verse before the second repetition of the Sanctus (*Ликъ небесный*).
+[^321]: The Nicene-Constantinopolitan Creed, historically attributed to the First Ecumenical Council of Nicaea (325) and the Second Ecumenical Council of Constantinople (381).
+[^322]: Internal cross-reference to the text of the Symbol of Faith on physical leaf p22 (fol. 14r) in the Midnight Office.
+[^323]: The Kontakion for the departed (*Со святыми упокой*), referenced back to physical leaf p32 (fol. 24r) in the Midnight Office.
+[^324]: Refers to the Prayer of St. Ephrem the Syrian (*Господи и Владыко живота моего*), with its 3 great prostrations, 12 metanias, and final prostration, referenced in the preceding Lenten offices (e.g. leaf p30 / fol. 22v).
+[^325]: Septuagint Psalm 33 (Masoretic 34).
+[^326]: The hymn *It is truly meet* (*Достойно есть*), cross-referenced to physical leaf p96 (fol. 74v).
+[^327]: *More honorable than the Cherubim* (*Честнейшую Херувим*), cross-referenced to physical leaf p29 (fol. 22r).
+[^328]: The rubrics and prayers for going to the monastic refectory (*Идуще на трапезу*) and blessing the table.
+[^329]: Septuagint Psalm 144 (Masoretic 145).
+[^330]: The Elevation of the Panagia (*Чин возвышения Панагии*), an ancient monastic rite of blessing and elevating the prosphora bread consecrated in honor of the All-Holy Theotokos at the refectory.
+[^331]: The Troparion of the Annunciation (*Днесь спасенія нашего главизна*), Tone 4, sung as the principal hymn of the Incarnation upon entering the refectory.
+[^332]: *Недѣльникъ* (hebdomadary), the monk appointed to serve the weekly course of monastic duties in the refectory.
+[^333]: Internal cross-reference to the dismissal formula on physical leaf p101 (fol. 77r).
+[^334]: Monastic refectory officers: the Cellarer (*Кела́рь*, *cellararius*), responsible for monastic provisions, and the Refectorian (*Трапеза́рь*, *trapezarius*), supervisor of the dining hall.
+[^335]: The *panagiarion* (*панагиа́р*) is the liturgical vessel or elevated dish used to carry and hold the prosphora bread designated for the All-Holy Theotokos during the monastic meal.
+[^336]: Literally, "we take the All-Pure [bread]" (*взимаем Пречистую*). Each monk receives a portion of the blessed Panagia bread from the celebrant.
+[^337]: Internal cross-reference to physical leaf p32 (fol. 24v) in the Midnight Office.
+[^338]: The hymn *It is truly meet* (*Достойно есть*), cross-referenced to physical leaf p96 (fol. 74v).
+[^339]: *More honorable than the Cherubim* (*Честнейшую Херувим*), cross-referenced to physical leaf p29 (fol. 22r).
+[^340]: The ritual sip of warm wine or water taken from the common cup of the Mother of God following the consumption of the Panagia bread.
+[^341]: Rubric specifying the hymnographic conclusion of the monastic meal according to the rank of the day (Feast, commemorated Saint, or ordinary weekday).
+[^342]: The Troparion *O God of our fathers* (*Боже отецъ нашихъ*), cross-referenced to physical leaf p109 (fol. 85r).
+[^343]: *Through the prayers, O Lord, of all the Saints* (*Молитвами Господи всѣхъ святыхъ*), cross-referenced to physical leaf p120 (fol. 96r).
+[^344]: The refectory litany (*єктеніе*) commemorating the departed fathers and monastery founders (*ктиторы*).
+[^345]: Internal cross-reference to physical leaf p101 (fol. 77r).
+
+[^346]: The narrative concerning the Elevation of the Panagia (Возношеніе Панагіи / Ὕψωσις τῆς Παναγίας), traditionally ascribed to the synaxarion or chronicle tradition of the Dormition, setting forth the apostolic origin of setting aside and elevating bread in honor of the Mother of God following the common meal.
+[^347]: The parenthetical exclamation `(*Ѡ чудеси пресла́вномъ*)` ("O most glorious wonder!") is printed directly in the Slavonic witness as an ecstatic liturgical outburst interrupting the apostolic narrative at the miraculous appearance of the Mother of God. The marginal cursive note `мерка` represents an Early Modern Ukrainian archival collation notation.
+[^348]: The apostolic witness to the bodily Assumption/Metastasis of the Theotokos on the third day following her burial, founding the post-prandial rite of the Panagia.
+[^349]: Psalm 83 (LXX); MT Psalm 84. The phrase "concerning the winepresses" translates the Septuagint title ὑπὲρ τῶν ληνῶν (*ѡ точи́лѣхъ*), rendering Hebrew *al ha-Gittith*.
+[^350]: Psalm 84 (LXX); MT Psalm 85.
+[^351]: Psalm 85 (LXX); MT Psalm 86.
+[^352]: Cross-reference in the rubric indicates the reader to turn to the Theotokion *He Who for our sake* (*И́же на́съ ра́ди рожде́йся ѿ Дѣ́вы*), physically printed on the facing verso (fol. 112v).
+[^353]: The Lenten troparion of the Ninth Hour, commemorating the Death of Christ on the Cross at the ninth hour (3:00 PM).
+[^354]: Psalm 118:169 (LXX).
+[^355]: Psalm 118:170 (LXX).
+[^356]: In the Slavonic witness, `лю́ди съгрѣ́шшая` is literally "a people that have sinned" / "fallen people", corresponding to Greek τὸν λαὸν τὸν ἀπεγνωσμένον ("despairing people").
+[^357]: Prayer of the Three Holy Children in the Furnace (Daniel 3:34–35, LXX / Song of the Three Children 11–12).
+[^358]: The general prayer of the Hours *Thou Who at every time and at every hour* (*И́же на вся́ко вре́мя*) is here attributed to St. Basil the Great (frequently attributed elsewhere to St. Basil or St. John Chrysostom; cross-reference to its full text earlier in the Horologion).
+[^359]: The canonical prayer of the Ninth Hour composed by St. Basil the Great: *Владыко Господи Іисусе Христе Боже наш, долготерпѣливе о наших согрѣшеніих* (Δέσпоτα Κύριε Ἰησοῦ Χριστὲ ὁ Θεὸς ἡμῶν, ὁ μακροθυμήσας ἐπὶ τοῖς ἡμετέροις πλημμελήμασι).
+[^360]: The Prayer of St. Ephrem the Syrian (*Господи и Владыко живота моего*) accompanied by the prescribed monastic prostrations (four great prostrations and twelve waist-bows with *Боже, очисти мя грѣшнаго*), totaling 15 bows.
+[^361]: Cross-reference to the concluding prayer of the Midnight Office (*Владыко Боже Отче Вседержителю*), physically printed earlier at fol. 22.
+[^362]: The Mid-Hours (Междочасіе / Μεσώριον) are supplementary monastic offices sung between the main canonical Hours, especially during the Lenten fast.
+[^363]: Psalm 112 (LXX); MT Psalm 113. In the Slavonic printed text, the numeral is misprinted as `рк҃і` (121) or references a kathisma/stasis index.
+[^364]: Psalm 137 (LXX); MT Psalm 138. The title in the Septuagint and Slavonic ascribes the psalm to David, with Haggai and Zechariah added.
+[^365]: Psalm 139 (LXX); MT Psalm 140.
+
+[^366]: Cross-reference in the Slavonic rubric to fol. 22 (*Ли́стъ, к҃в*), where the dismissal formulas, *More honorable than the Cherubim*, and blessing are printed in full in the Midnight Office (physical leaf p23).
+[^367]: Cross-reference to fol. 114 (*Ли́стъ, р̃ді*), where the prayer of St. Basil the Great for the Ninth Hour (*Владыко Господи Іисусе Христе Боже наш, долготерпѣливе*) is printed in full (physical leaf p137).
+[^368]: Fol. 119r opens the Order of Vespers and Compline with a decorative woodcut headpiece. The rubric specifies the cell or choir opening with a priest (*съ іерею*), where the priest gives the opening blessing (*Blessed is our God...*) to which the brethren respond *Amen*, followed by the introductory sequence.
+[^369]: Psalm 103 (LXX); MT Psalm 104. The Slavonic rubric designates it: *Дв҃дъ, ѡ҆ мирсте́мъ бытїи* ("Of David, concerning the cosmic/worldly creation").
+[^370]: The Slavonic text prints `к҃і` (or `в҃і`, 12/20) for the number of *Lord, have mercy* substituting for the Great Litany in private cell recitation. In standard Ruthenian cell practice, 12 repetitions typically replace the Great Litany.
+[^371]: Psalm 140 (LXX); MT Psalm 141. The opening psalms of *Lord, I have cried* (*Господи воззвах* / Κύριε ἐκέκραξα) chanted at daily and festal Vespers.
+[^372]: Psalm 141 (LXX); MT Psalm 142. Chanted continuously after Psalm 140 at *Lord, I have cried*.
+[^373]: Psalm 129 (LXX); MT Psalm 130 (*De Profundis* / Ἐκ βαθέων ἐκέκραξά σοι). Designated an Ode of Ascents (*Пѣ́снь степе́ннаѧ* / ᾨδὴ τῶν ἀναβαθμῶν). Note that in the Slavonic text, the numeral is misprinted `ркд` (124) instead of `ркѳ` (129).
+[^374]: Psalm 116 (LXX); MT Psalm 117. Chanted at *Lord, I have cried* before the final stichera.
+[^375]: The ancient Christian evening hymn *O Gladsome Light* (Φῶς ἱλαρόν / *Свѣте тихій*), here attributed explicitly to the early Christian Hieromartyr Athenogenes (d. ca. 305).
+[^376]: The printed margin of fol. 124r contains a scholarly Patristic citation in two columns: *Васі:[лія] Великагѡ ѡ с[вя]томъ [Дусѣ] кни:[га] кд [гл. 29]... Ники:[фора] кни:[га] г...* referencing St. Basil the Great's *On the Holy Spirit* (chapter 29, §73), where Basil cites this venerable evening hymn and its invocation of the Holy Trinity as ancient apostolic tradition, as well as Nikephoros Kallistos Xanthopoulos.
+[^377]: Rubric describing the ceremonial entrance and posture of the Canonarch (*Канонархъ*), who bows to the Superior (*Настоятель*) and stands centrally before the Holy Doors (*стыми дверми*) to chant the daily prokeimenon.
+[^378]: Sunday evening Prokeimenon (Psalm 133:1, LXX; MT Psalm 134).
+[^379]: Monday evening Prokeimenon (Psalm 4:3, 1, LXX).
+[^380]: Tuesday evening Prokeimenon (Psalm 22:6, 1, LXX; MT Psalm 23).
+[^381]: Wednesday evening Prokeimenon (Psalm 53:1-2, LXX; MT Psalm 54).
+[^382]: Thursday evening Prokeimenon (Psalm 120:2, 1, LXX; MT Psalm 121).
+[^383]: Friday evening Prokeimenon (Psalm 58:10, 1, LXX; MT Psalm 59).
+[^384]: Great Prokeimenon of Saturday evening at Vespers (Psalm 92:1–2, 5, LXX; MT Psalm 93).
+[^385]: Rubric specifying the liturgical decorum of the Canonarch: standing with arms crossed upon his breast facing the people/west while the choir sings the response, then bowing to the right and left choirs.
+[^386]: Lenten weekday rubrics: when no troparion is appointed in the Typikon, the daily Prokeimenon is replaced by *Alleluia* with penitential verses sung in the current Tone of the Octoechos.
+[^387]: Psalm 6:1 (LXX).
+[^388]: Psalm 98:5 (LXX); MT Psalm 99.
+[^389]: Wednesday evening Alleluia verse (Psalm 18:4, LXX; MT Psalm 19).
+[^390]: Cross-reference in the Slavonic rubric to fol. 64 (*Ли́стъ, ѯ҃д*), where the prayer *Vouchsafe, O Lord* (*Сподоби Господи*) is printed in full in Great Compline (physical leaf p76).
+[^391]: Psalm 122 (LXX); MT Psalm 123. The first psalm-verse chanted at the Aposticha on Lenten weekdays.
+[^392]: Psalm 122:3–4 (LXX).
+[^393]: The Song of Simeon (Nunc Dimittis, Luke 2:29–32), chanted at every Vespers.
+
+[^394]: Luke 2:29–32 (Nunc Dimittis / Canticle of Simeon).
+[^395]: Sub tuum praesidium (*Подъ твою милость*), an ancient Marian antiphon preserved throughout Ruthenian Horologia at the close of Lenten Vespers and Compline.
+[^396]: Physical leaf p73 (fol. 65v). The prayer "O Heavenly King, strengthen our faithful kings, establish the Faith, calm the nations, and give peace to the world...".
+[^397]: Physical leaf p82 (fol. 74v). The 15 prostrations accompanied by the Lenten Prayer of Saint Ephrem the Syrian (*O Lord and Master of my life*), described at the conclusion of the First Hour.
+[^398]: Lenten Sunday evening rubric: at Sunday evening Vespers in Great Lent, the penitential order concludes after the Prayer of St. Ephrem with three great prostrations, followed immediately by the dismissal.
+[^399]: Psalm 21:27 (LXX 21:26).
+[^400]: Physical leaf p116 (fol. 104r). The mealtime blessing prayer from the Order of the Typika and Refectory.
+[^401]: The Order of the Elevation of the Panagia (*Чинъ Возношенія Панагіи*) observed in monastic refectories after the evening meal (dinner/supper).
+[^402]: Cross-reference to the primary description of the Elevation of the Panagia after the Midday meal (see fol. 104v–106v, physical leaves p117–p119).
+[^403]: Megalynarion/Theotokion for the Elevation of the Panagia.
+[^404]: Physical leaf p118 (fol. 106r).
+[^405]: Physical leaf p26 (fol. 22v).
+[^406]: Psalm 91:5 (LXX 91:4) and Psalm 4:7–9 (LXX 4:6–8).
+[^407]: The lay dismissal prayer after the evening meal when no priest is present.
+[^408]: The Order of Great Compline (*Повечеріе Великое*), sung during Great Lent and on the eves of Nativity, Theophany, and Annunciation.
+[^409]: Physical leaf p74 (fol. 66r). Psalm 69:2 (LXX 69:1).
+[^410]: On the first four days of Clean Week (the First Week of Great Lent), the Great Penitential Canon of St. Andrew of Crete is divided across Compline from Monday through Thursday, sung immediately after the opening prayers and Psalm 69.
+[^411]: Psalm 4 (LXX 4).
+[^412]: Psalm 6 (LXX 6).
+[^413]: Psalm 12 (LXX 12).
+[^414]: Physical leaf p86 (fol. 78v). Psalm 24 (LXX 24), recited at the Third Hour.
+[^415]: Psalm 30 (LXX 30).
+[^416]: Physical leaf p92 (fol. 84r). Psalm 90 (LXX 90), recited at the Sixth Hour.
+[^417]: Isaiah 8:8–9:6. The solemn Canticle of Isaiah chanted at Great Compline.
+[^418]: The antiphonal structure of "God is with us" (*С нами Богъ*): the canonical refrains are sung antiphonally between the right and left choirs.
+
+[^419]: Isaiah 9:6 (LXX: Μεγάλης βουλῆς ἄγγελος).
+[^420]: The evening penitential troparia (*Дн҃ь пребы́въ* / *Дн҃ь преше́дъ*), ancient hymnody ascribed to St. Anatolius, sung at Great Compline.
+[^421]: The hymn of the angelic orders (*Безплотное естество*), an ancient Byzantine doxological troparion chanted before the Creed at Great Compline.
+[^422]: Luke 1:2 (αὐτόπται καὶ ὑπηρέται γενόμενοι τοῦ λόγου).
+[^423]: The Symbol of Faith (Nicene-Constantinopolitan Creed) recited in a lowered voice (*нижайшимъ гласомъ*) by the brethren at Great Compline.
+[^424]: The solemn penitential invocations of Great Compline, sung alternately by the two choirs, each accompanied by a full prostration (*метание* / *поклонъ*).
+[^425]: Saints Anthony and Theodosius of the Caves, the founding fathers of the Kyiv-Pechersk Lavra and monasticism in Kyivan Rus'.
+[^426]: Rubric prescribing the commemoration of the patron saint or feast of the specific church/chapel.
+[^427]: The alternating weekday troparia of Great Compline, assigned to Monday/Wednesday and Tuesday/Thursday respectively.
+[^428]: Psalm 12:4–5 (LXX 12:3–4).
+[^429]: Psalm 12:4 (LXX 12:3).
+[^430]: Physical leaf p44 (fol. 38r). The Marian troparion *Яко не имамы дерзновенія* (*Seeing that we have no boldness...*). Note that the abbreviation `ч҃` denotes the first chapter/office (Morning/Midnight prayers) where it was initially transcribed.
+[^431]: The Tuesday/Thursday evening troparia of Great Compline in Tone 8, reflecting on the Last Judgment and unceasing spiritual warfare against unseen adversaries.
+[^432]: Luke 7:36–50 (the woman who washed Christ's feet with her tears and anointed them with fragrant ointment).
+[^433]: The First Prayer of St. Basil the Great at Great Compline, invoking protection against demonic assault during the night.
+[^434]: Psalm 90:5–6 (LXX 90:5–6).
+[^435]: Psalm 118:120 (LXX 118:120: καθήλωσον ἐκ τοῦ φόβου σου τὰς σάρκας μου).
+[^436]: Colossians 3:5.
+[^437]: Physical leaf p8 (fol. 6v). Psalm 50 (LXX 50).
+[^438]: Psalm 101 (LXX 101 / MT 102). The second section of Great Compline begins with the penitential Psalm 50 and Psalm 101, followed by the Prayer of Manasseh.
+[^439]: The Prayer of Manasseh (*Молитва Манассія царя Іудейска*), an ancient penitential text included in the Odes/Canticles of the Septuagint and Slavic Psalter, recited at Great Compline.
+[^440]: At the lower margin of fol. 145v, a contemporary 17th-century cursive hand has inscribed the phrase *силы Твоеа · яко непостоянна велелѣпота* (*of Thy power, for irresistible is the majesty...*), restoring a clause of the Prayer of Manasseh present in the standard Greek Septuagint and liturgical witness.
+[^441]: The penitential troparia in Tone 6 (*Помилуй насъ, Господи, помилуй насъ...*) sung at the conclusion of Great Compline and the Midnight Office.
+[^442]: Physical leaf p82 (fol. 74r). The Theotokion *Милосердія двери отверзи намъ* (*Open unto us the doors/gates of compassion...*), transcribed in the Mid-Hour of the First Hour.
+[^443]: Physical leaf p26 (fol. 22r–v). The concluding prayer of the Midnight Office (*Владыко Боже Отче вседержителю*), ascribed to St. Mardarios.
+
+[^444]: Note on Great Compline: during the first week of Great Lent, the Great Canon of St. Andrew of Crete is appointed at Great Compline; outside the first week, this general Compline psalmody applies.
+[^445]: Cross-reference to Psalm 69 (*Deus in adjutorium*) transcribed on fol. 95 (physical leaf p118).
+[^446]: Cross-reference to Psalm 142 (*Domine exaudi*) transcribed on fol. 53 (physical leaf p76).
+[^447]: Cross-reference to the Lesser Doxology and *Vouchsafe, O Lord* (*Dignare Domine*) transcribed in the Order of Matins on fol. 63 (physical leaf p86).
+[^448]: Foliation milestone fol. 148r. This rubrical heading introduces the Supplicatory Canon (Paraklesis) to the Most Holy Theotokos, appointed to be chanted either within Compline or as an independent supplicatory service (Moleben).
+[^449]: Rubric on singing the Menaion canons at Compline during Great Lent from the second week until Thomas Sunday, commemorating saints whose feasts fall within Holy Week and Bright Week.
+[^450]: Primary section opening of the Kanonikon: the Supplicatory Canon (Paraklesis) to the Most Holy Theotokos, composed by Kyr Theophanes (Tone 8), bearing the full rubricated headpiece on fol. 149v.
+[^451]: Cross-reference to Psalm 142 on fol. 53 (physical leaf p76).
+[^452]: Cross-reference to Psalm 50 (*Miserere mei, Deus*) transcribed on fol. 6 (physical leaf p29).
+[^453]: Attributed in the liturgical witness to "Kyr Theophanes" (*Творе́нїе Кѵ́ръ Ѳеѡфа́на*), identifying St. Theophanes the Branded (the Confessor and Hymnographer, ca. 778–845), author of the classic Supplicatory Canon to the Mother of God in Tone 8 (*Во́ду проше́дъ* / *Ἁρματηλάτην Φαραώ*).
+[^454]: Sessional Hymn (*Sedalen*) Tone 2: *Fervent prayer* (*Молитва тепла* / *Πρεσβεία θερμή*).
+[^455]: Additional Sessional Hymn Tone 8 appointed when the Supplicatory Canon is chanted within Compline (*Я́ко всенепоро́чная невѣ́сто Творцу́*).
+[^456]: Cross-reference to the primary Marian Kontakion *Unashamed protectress of Christians* (*Заступнице Христїаномъ непостыдная*) written on fol. 100 (physical leaf p123).
+[^457]: Second Kontakion Tone 6: *We have no other help* (*Не имамы иныя помощи* / *Οὐκ ἔχομεν ἄλλην βοήθειαν*).
+[^458]: The Marian Ikos *Spread out thy hands* (*Простри длани свои*), specially prescribed in Ruthenian and pre-Nikonian Horologia to be read after Kontakion 6 during Compline.
+[^459]: Prokeimenon verse from Psalm 44:18 (LXX).
+[^460]: Psalm 44:11 (LXX).
+[^461]: The rubric specifies that the priest may read any appropriate Gospel corresponding to the intention of the petition, but appoints Luke 1:39–49, 56 (the Visitation of the Theotokos to Elizabeth) as the canonical Gospel to the Mother of God.
+[^462]: Gospel according to Luke 1:39–49, 56 (*pericope* 4).
+[^463]: Sticheron Tone 6, Melodic Model (*Podoben*): *Having laid aside all earthly hope* (*Все отложше* / *Ὅλην ἀποθέμενοι*), prescribed after the Gospel and Psalm 50 in the Paraklesis.
+
+[^464]: Ode 8 Heirmos, Tone 8: *The King of heaven, Whom all the angelic hosts praise* (*Τὸν Βασιλέα τῶν οὐρανῶν* / *Царя́ небе́снаго, є҆го́же пою́тъ*), from the Canon of the Paraklesis.
+[^465]: Ode 9 Heirmos, Tone 8: *Truly confessing thee to be the Theotokos* (*Κυρίως Θεοτόκον, σὲ ὁμολογοῦμεν* / *Вои́стинну Богоро́дицу тя̀ и҆сповѣ́дающе*).
+[^466]: Katabasia / Megalynarion (*О пресвѣтлый Облаче Мати Божїа*), an ancient Kievan and Ruthenian variant Katabasia chanted after Ode 9 of the Paraklesis.
+[^467]: Supplicatory Stichera (*Stikhiry molebny*) Tone 2, Melodic Model (*Podoben*): *When from the Tree* (*Ὅτε ἐκ τοῦ ξύλου* / *Егда̀ ѿ дре́ва*).
+[^468]: Prokeimenon verse from Psalm 44:18 (LXX).
+[^469]: Psalm 44:11 (LXX).
+[^470]: Cross-reference to fol. 150 (physical leaf p173), where the troparia *Unto the Theotokos let us now run diligently* (*Къ Богородицѣ прилежно нынѣ притецемъ*) and *We shall never be silent* (*Не умолчимъ никогдаже*) are transcribed in full.
+[^471]: Cross-reference to the rubrical instruction on Compline and the Paraklesis on fol. 148 (physical leaf p171).
+[^472]: Psalm 150:1 (LXX).
+[^473]: Psalm 150:2 (LXX).
+[^474]: Psalm 150:4 (LXX).
+[^475]: Psalm 150:5–6 (LXX).
+[^476]: Cross-reference to the rubrics for the prostrations with the Prayer of St. Ephrem the Syrian on fol. 22 (physical leaf p45).
+[^477]: Paul of Evergetis (died 1054), founder and first hegumen of the Evergetis Monastery in Constantinople, author of this famed Marian compline supplication (*Ἄσπιλε, ἀμόλυντε, ἄφθορε, ἄχραντε* / *Несквѣ́рная, небла́зная, нетлѣ́нная*), also traditionally attributed in some Slavonic Horologia to St. Basil the Great.
+[^478]: St. Antiochus the Monk (Antiochus Strategos, 7th century, monk of the Lavra of St. Sabas in Palestine), author of this classic Compline prayer to Jesus Christ (*Καὶ δὸς ἡμῖν, Δέσποτα* / *И даждь намъ, Владыко*).
+[^479]: St. Joannicius the Great (ca. 762–846), ascetic of Mount Olympus in Bithynia, who repeated this brief prayer after every psalm verse of his Psalter rule.
+[^480]: Note on the variant textual tradition: this Horologion witnesses *Упова́ніе на́мъ Бг҃ъ, и҆ прибѣ́жище на́ше Хр҃тосъ, и҆ покрови́тель на́мъ є҆́стъ Дх҃ъ ст҃ы́й* ("God is our hope, and Christ is our refuge, and the Holy Spirit is our protector"), slightly varying from the standard Sabbaite triad *The Father is my hope, the Son is my refuge, the Holy Spirit is my protection*.
+[^481]: Cross-reference to the full text of the Compline Dismissal on fol. 25 (physical leaf p48).
+[^482]: The monastic ritual of mutual forgiveness (*proshcheniye* / *συγχώρησις*) performed at the conclusion of Compline before retiring to sleep.
+[^483]: Cross-reference to the Litany of Supplication (*Pomolimsya o pravoslavnykh khristianekh*) on fol. 26 (physical leaf p49).
+[^484]: Cross-reference to the evening prayer for enemies and benefactors (*Ненавидящихъ и обидящихъ насъ прости, Господи*) on fol. 27 (physical leaf p50).
+[^485]: The great supplicatory prayer of Great Lent at Great Compline, *O Master of many mercies* (*Δέσποτα πολυέлеε* / *Владыко многомилостиве*), recited while all kneel or lie prostrate upon the earth, followed by the mutual forgiveness ceremony.
+
+[^486]: Folio 167v: Internal cross-reference to fol. 26 (p49), where the closing litany of petition for the faithful and suffering (*Помолимся о православных христианех...*) is printed in full at the end of the Midnight Office.
+[^487]: Folio 168r: Slavonic *Меѳимо́нъ* (Methymon), from Greek *Μεθ' ἡμῶν* [ὁ Θεός] ('God is with us', LXX Isa. 8:8–9), the solemn scriptural canticle characteristic of Great Compline during fasts. In Ruthenian and Old Slavic typika, *Меѳимонъ* served as the standard designation for Great Compline during the seasonal fasts (Apostles', Dormition, and Nativity fasts) on days with Alleluia.
+[^488]: Folio 168r: Internal cross-reference to fol. 104 (p128), where the daily troparia and theotokia prescribed when Alleluia is chanted during fasts are set forth.
+[^489]: Folio 168v: Internal cross-reference to fol. 6 (p11), where Psalm 50 (*Have mercy on me, O God*) is printed in full at the beginning of the Midnight Office.
+[^490]: Folio 168v: Internal cross-reference to fol. 36 (p60), where Psalm 69 (*O God, draw near unto my help*) is printed in full in the First Hour.
+[^491]: Folio 168v: Internal cross-reference to fol. 53 (p77), where Psalm 142 (*Lord, hear my prayer*) is printed in full in the Third Hour.
+[^492]: Folio 169r: Internal cross-reference to fol. 73 (p97), where the prayer *Vouchsafe, O Lord, to keep us this night* is printed in full at Matins.
+[^493]: Folio 169r: Internal cross-reference to fol. 14 (p27), where the Nicene-Constantinopolitan Symbol of Faith (*I believe in one God*) is printed in full in the Midnight Office.
+[^494]: Folio 169r: Internal cross-reference to fol. 144 (p168), where the Supplicatory Canon to the Most Holy Theotokos (*Traversing the water as if it were dry land...*) begins.
+[^495]: Folio 169r: Internal cross-reference to fol. 74 (p98), where the hymn *It is truly meet to bless thee, the Theotokos* is printed in full.
+[^496]: Folio 169r: Internal cross-reference to fol. 85 (p109), where the troparion *O God of our fathers, Who always dealest with us according to Thy meekness* is printed in full at the Sixth Hour.
+[^497]: Folio 169v: Internal cross-reference to fol. 24 (p47), where the kontakion for the reposed (*With the saints give rest, O Christ*) is printed in full in the Midnight Office for the Departed.
+[^498]: Folio 169v: Internal cross-reference to fol. 96 (p120), where the theotokion *Through the prayers, O Lord, of all the saints and of the Theotokos, grant us Thy peace* is printed in the Sixth Mid-Hour.
+[^499]: Folio 170r: Internal cross-reference to fol. 21 (p41), where the prayer of Saint Basil the Great (*Thou Who at every time and at every hour...*) is printed in full at the conclusion of the Midnight Office.
+[^500]: Folio 170r: Internal cross-reference to fol. 162 (p186), where the supplicatory prayer of Paul of Evergetis to the Most Holy Theotokos (*Spotless, undefiled, incorrupt, unblemished, pure Lady...*) is printed in full in Great Compline.
+[^501]: Folio 170v: Internal cross-reference to fol. 74 (p98), where the penitential troparia (*Have mercy on us, O Lord, have mercy on us; for, lacking all defense...*) are printed in full at Matins.
+[^502]: Folio 170v: The special supplicatory litany (*Litany of the Lity*) recited by the priest before the Holy Doors at the conclusion of Small Compline, pleading for deliverance from plague, famine, earthquake, flood, fire, sword, foreign invasion, and civil strife.
+[^503]: Folio 171v: Internal cross-reference to fol. 165 (p189), where the mutual forgiveness (*Bless, holy fathers, and forgive me, a sinner...*) between the superior and the brethren is set forth in Great Compline.
+[^504]: Folio 171v: Internal cross-reference to fol. 41 (p65), where the prayer to the Most Holy Trinity (*All-holy Trinity, consubstantial Might, undivided Kingdom...*) is printed in the Sunday Midnight Office.
+[^505]: Folio 171v: Internal cross-reference to fol. 26 (p49), where the commemoration diptychs / Pomianyk (*Remit, pardon, forgive, O God, our offenses...*) are printed in the Midnight Office.
+[^506]: Folio 172r: Unnumbered recto leaf marked by an elaborate full-width renaissance woodcut headpiece. This leaf begins the major liturgical section of the Resurrectional Troparia, Theotokia, and Hypakoai of the Eight Tones (the Octoechos cycle).
+[^507]: Folio 172v: The Resurrectional Evlogetaria (Greek *Εὐλογητάρια*, Slavonic *Тропари по Непорочнах*), chanted at Sunday Matins in Tone 5 following the 17th Kathisma (Ps. 118, *The Blameless* / *Непорочны*), interspersed with the refrain from LXX Ps. 118:12: *Blessed art Thou, O Lord: teach me Thy statutes.*
+[^508]: Folio 174r: The hymn *Having beheld the Resurrection of Christ* (*Воскресение Христово видевше*), appointed to be chanted at Sunday Matins after the Resurrectional Gospel and before Psalm 50, affirming direct spiritual contemplation of the Paschal victory.
+[^509]: Folio 175r: The Sunday Theotokion before the Great Doxology (*Most blessed art thou, O Virgin Theotokos...* / *Преблагословена еси, Богородице Дево...*), sung in Tone 2 following the Aposticha or Praises, leading directly into the solemn intonation *Glory to Thee Who hast shown us the light*.
+[^510]: Folio 175r: The two alternate Resurrectional Dismissal Troparia sung after the Trisagion of the Great Doxology at Sunday Matins according to whether the Tone of the week is odd (Tones 1, 3, 5, 7: *Today salvation is come unto the world*) or even (Tones 2, 4, 6, 8: *Having risen from the tomb*).
+[^511]: Folio 176r: The Resurrectional Troparion of Tone 2 (*Егда сниде к смерти, Животе безсмертный...*), celebrating Christ's descent into Hades and the illumination of the underworld by the radiance of His Divinity.
+[^512]: Folio 176v: The Resurrectional Troparion of Tone 3 (*Да веселятся небесная, и радуются земная...*), proclaiming the Lord's mighty arm that trampled death and delivered mankind from the belly of Hades.
+[^513]: Folio 177r: The Resurrectional Troparion of Tone 4 (*Светлую воскресения проповедь...*), recounting the myrrh-bearing women who cast off the ancestral condemnation and announced Christ's victory to the Apostles.
+
+[^514]: Fol. 177v. Resurrectional Troparion, Theotokion, and Hypakoe of Tone 5 (*'Собезначалное слово Ѻц҃у и Дх҃ови'*).
+[^515]: Fol. 178r. Resurrectional Troparion, Theotokion, and Hypakoe of Tone 6 (*'Агглскїа силы на гробѣ твоемъ'*).
+[^516]: Fol. 179r. Resurrectional Troparion, Theotokion, and Hypakoe of Tone 7 (*'Разруши Кр҃том своимъ смерть'*).
+[^517]: Fol. 179v. Resurrectional Troparion and Hypakoe of Tone 8 (*'Съ вышнихъ сниде млрде'*).
+[^518]: Fol. 179v. The cross-reference to the Resurrectional Theotokion of Tone 8 directs the reader to the Sixth Hour (*'Писанъ, въ [ѕ҃]мъ Часу. Лис, р҃к҃і'*, corresponding to Fol. 121r / physical leaf p145).
+[^519]: Fol. 180r introduces the weekly cycle of daily dismissal troparia, theotokia, and kontakia (*Трѡпари, и Бг҃ородичны и Кондаки, Дневныѧ*), preceded by an elaborate xylographic headpiece.
+[^520]: Folio 180r begins the cycle of the weekly liturgical memorials: Monday (Holy Angels), Tuesday (St. John the Forerunner), Wednesday and Friday (The Holy Cross), Thursday (Holy Apostles and St. Nicholas), Saturday (All Saints and the Departed).
+[^521]: Fol. 180r. Dismissal Troparion of the Holy Archangels and Bodiless Powers, Tone 4 (*'Небесныхъ воинствъ Архистратизи'*).
+[^522]: Fol. 180v. Dismissal Troparion, Theotokion, and Kontakion of the Holy Prophet, Forerunner, and Baptist John (*'Память праведнику съ похвалами'*).
+[^523]: Fol. 181v. Dismissal Troparion, Stavrotheotokion, and Kontakion of the Precious and Life-Creating Cross (*'Спаси, Господи, люди твоя'*).
+[^524]: Fol. 181v. The rubric directs the reader to Matins for the full text of the Kontakion of the Cross (*'Вознесыйся на Крестъ волею'*, Fol. 45r / physical leaf p69).
+[^525]: Fol. 181v. Dismissal Troparion and Theotokion of the Holy Apostles, Tone 3 (*'Апостоли святїи, молите милостиваго Бога'*).
+[^526]: Fol. 182r. Dismissal Troparion of Saint Nicholas the Wonderworker, Archbishop of Myra in Lycia, Tone 4 (*'Правило вѣрѣ и образъ кротости'*).
+[^527]: Fol. 182v. Friday rubric cross-referencing Wednesday (*'Въ Пѧтокъ, Тропарь, и Кондакъ: Иже и въ Среду, написанъ. Листъ, р҃па'*).
+[^528]: Fol. 182v–183r. Saturday dismissal troparia and kontakia of All Saints and for the Departed, with cross-references to the Typika and the Midnight Office.
+[^529]: Fol. 183v introduces the collection of dismissal Theotokia and Stavrotheotokia across the Eight Tones (*Тропарї, Бг҃ородичны, и Крⷭ҇тобг҃ородичны. На̀ Ѻ́смъ Гла́сѡвъ*), sung at the dismissals of daily offices throughout the liturgical year.
+[^530]: Fol. 183v. Dismissal Theotokia and Stavrotheotokia of Tone 1 and Tone 2.
+[^531]: Fol. 184r. Dismissal Theotokia and Stavrotheotokia of Tone 3 and Tone 4.
+[^532]: Fol. 184v. Dismissal Theotokia and Stavrotheotokia of Tone 5.
+[^533]: Fol. 184v. Dismissal Theotokion of Tone 6.
+[^534]: Fol. 185r. Dismissal Stavrotheotokion of Tone 6, followed by Theotokia and Stavrotheotokia of Tone 7 and Tone 8.
+[^535]: Fol. 185v. Formal scribal/typographical colophon marking the structural conclusion of the Chasoslov proper (*'Конецъ, Бг҃орѡдичнымъ, и Крⷭ҇тобг҃орѡдичнымъ. И всего Часослова'*), with a tailpiece vignette.
+[^536]: Fol. 186r. Solemn insertion of the Troparion and Kontakion of the Dormition of the Most Holy Theotokos (August 15), the patronal feast of the Kyiv-Pechersk Lavra, situated immediately between the conclusion of the Horologion proper and the Appendix of Troparia and Kontakia to the Rus' Saints.
+[^537]: Fol. 186v introduces the monumental Kyiv-Pechersk appendix of Troparia and Kontakia to the Rus' Saints (*ТРѠПАРИ, И КОНДАКИ РѠССКИМЪ СТЫ́МЪ*), headed by a xylographic headpiece portraying the Lavra eagle crest.
+[^538]: Fol. 186v. Feast of Venerable Anthony of the Caves (commemorated July 10), founder of the Kyiv-Pechersk Lavra and father of Rus' monasticism.
+
+[^539]: St. Theodosius of the Caves (d. 1074), founder of cenobitic monasticism in Kyivan Rus' and co-founder of the Kyiv-Pechersk Lavra, commemorated on May 3 (his repose) and August 14 (the translation of his relics).
+[^540]: Holy Equal-to-the-Apostles Olga (in baptism Helen), Grand Princess of Kyiv and grandmother of St. Vladimir, who received Holy Baptism at Constantinople (c. 957) and was celebrated on July 11.
+[^541]: Holy Equal-to-the-Apostles Great Prince Vladimir (baptized Basil), Baptizer of Kyivan Rus' (988), commemorated on July 15.
+[^542]: Physical codex lacuna: Folio 189 is missing from the Trinity-Sergius Lavra exemplar (RGB f. 801/09 № 1241), as noted both on the codex flyleaf (p4) and by the librarian's pencil inscription ('Листа нѣтъ!') beneath the catchword on Fol. 188v. The missing folio contained the remainder of the Troparion of St. Vladimir ('...testing and sending unto the Imperial City...'), his Kontakion ('In an old age, O great Vladimir...'), and the feast and Troparion of the Holy Passion-Bearers Boris and Gleb on July 24 ('Righteous passion-bearers and true fulfillers of the Gospel...'). The text resumes on Fol. 190r with the Kontakion of Saints Boris and Gleb.
+[^543]: Holy Passion-Bearers Prince Boris and Prince Gleb (baptized Roman and David), sons of St. Vladimir and the first canonized saints of Kyivan Rus', martyred in 1015 and commemorated together on July 24.
+[^544]: The printed Table of Contents (Оглавленіе) provides the exact foliation of the 1616–1617 Horologion as issued by the Kyiv-Pechersk Lavra Typography. Cyrillic letter numerals correspond to internal printed leaf numbers (Fol. 1–191).
+[^545]: The Table of Contents concludes without assigning a starting folio number to the Rus' Saints, reflecting their positioning as an unindexed supplementary hymnographic section added at the conclusion of the volume (Fol. 186v–190r).

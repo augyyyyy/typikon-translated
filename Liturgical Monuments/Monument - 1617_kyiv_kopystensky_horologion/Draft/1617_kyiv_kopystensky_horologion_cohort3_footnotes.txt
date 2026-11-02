@@ -1,0 +1,51 @@
+[^97]: Lk. 5:12. Marginal gloss in Church Slavonic: `Лк̃: е҃:`.
+[^98]: An allusion to the mocking of Christ by Roman soldiers in Mt. 27:29 and Mk. 15:19.
+[^99]: Mt. 26:39. Marginal gloss in Church Slavonic: `Мат̃: кс҃`.
+[^100]: Lk. 22:44. Marginal gloss in Church Slavonic: `Лк̃: к҃в:`.
+[^101]: Lk. 22:44 concluded across the folio turn from Fol. 17v.
+[^102]: A pious Jerusalemite tradition concerning the imprint left by the Virgin Mary at Gethsemane during her prayers.
+[^103]: Marginal citation: `на м̃а. слѡ́, і҃.`. St. James the Just, Brother of the Lord and first Bishop of Jerusalem.
+[^104]: Hegesippus, cited in Eusebius of Caesarea, *Historia Ecclesiastica* II.23, reporting that St. James's knees became calloused like those of a camel from continual intercession in the Temple.
+[^105]: St. John Cassian, *De Institutis Coenobiorum* (Institutes of the Coenobia), bk. II, ch. 17 and bk. VIII, ch. 18 (or 58). Marginal reference: `в́ кни: в҃ · гл҃: з҃і · и҆ в́ кн: и҃ · г: н҃і ·`.
+[^106]: Ps. 133:1–2 (LXX). Marginal citation: `Ѱа́л: р̃лг:`.
+[^107]: Mk. 11:25. Marginal citation: `Мр҃: а҃і:`.
+[^108]: St. Basil the Great, *De Spiritu Sancto* (On the Holy Spirit), ch. 27 (§ 66). Marginal citation: `г: к҃з:`.
+[^109]: St. Basil the Great, *De Spiritu Sancto*, ch. 27 (§ 66), explaining the apostolic tradition of standing in prayer on the Lord's Day as a figure of the age to come.
+[^110]: St. Basil the Great, *De Spiritu Sancto*, ch. 27 (§ 66).
+[^111]: St. Basil the Great, *De Spiritu Sancto*, ch. 27 (§ 66), introducing the mystical theology of the metanoia (prostration).
+[^112]: St. Basil the Great, *De Spiritu Sancto*, ch. 27 (§ 66), concluding the explanation of prostrations as symbols of the Fall and redemption.
+[^113]: Exegesis of the twofold bodily disposition (standing upright and prostrating to the ground) in Eastern Christian prayer.
+[^114]: General monastic and ecclesiastical canon requiring Christians to maintain the hours of prayer even during travels or outside duties.
+[^115]: Rule prohibiting the abandonment of the daily prayer rule under pretext of journeying or receiving guests.
+[^116]: Marginal citations: `тꙋ́, д҃; двꙋтї, ѕ.`, referencing canonical authorities on the inviolability of the daily office.
+[^117]: Zacharias Kopystensky emphasizes the ecclesiological and typikon unity between the Church of Rus' and the mother patriarchate of Constantinople, as well as the primordial Church of Jerusalem.
+[^118]: A pastoral exhortation against departing from the Orthodox faith and liturgical traditions handed down by the Church Fathers.
+[^119]: Commemoration of Venerable Anthony and Theodosius of the Caves, founders of the Kyiv-Pechersk Lavra, who received and established the Studite-Athonite monastic tradition.
+[^120]: Solemn doxological conclusion to the theological preface.
+[^121]: Pastoral valediction to the Orthodox Christian reader.
+[^122]: December 20, 1616 (Old Calendar). The preface is thus dated to late December 1616, shortly before the Horologion was brought to completion and published in early 1617.
+[^123]: The Cyrillic initials `З҃ · А · К ·` stand for Zacharias Archimandrite Kopystensky (`Заха́рїа Архимандри́тъ Копысте́нскїй`).
+[^124]: Russian library provenance inscription from the Trinity-Sergius Lavra dated 1859.
+[^125]: Mk. 11:25–26, positioned as an epigraph on the verso facing the liturgical beginning of the Horologion.
+[^126]: The Lord's precept on forgiveness before offering prayer to God.
+[^127]: The physical copy bound here exhibits an early binder's inversion: folios 5r–8v (containing the Daily Midnight Office) precede folios 1r–4v (the main Title Page and Prayers on Rising from Sleep). Fol. 5r opens with the rubric for the Midnight Office in the narthex.
+[^128]: The opening invocation before the Heavenly King and Trisagion.
+[^129]: Slavonic liturgical cue: `Цр̃ю нб̃ныи : Тр̃то́е` (Heavenly King, Trisagion). Transcribed epigraphically without silent interpolated expansions (Rule 16).
+[^130]: Prostrations specified on days when "Alleluia" is sung (fasting and penitential seasons) instead of "God is the Lord."
+[^131]: LXX title of Psalm 50 (MT 51), running across the page break.
+[^132]: Heading of Psalm 50 (LXX) concluded on Fol. 6r.
+[^133]: Ps. 50:1–8a (LXX).
+[^134]: Ps. 50:8b–16a (LXX; MT Ps. 51).
+[^135]: Ps. 50:16b–21 (LXX).
+[^136]: Rubric prescribing Kathisma 17 (the 118th Psalm, divided into three stases), the foundational psalmody of the Daily Midnight Office.
+[^137]: Ps. 118:1–7 (LXX; MT Ps. 119).
+[^138]: Ps. 118:8–15 (LXX).
+[^139]: Ps. 118:15b–22 (LXX; MT Ps. 119).
+[^140]: Main liturgical title page of the Horologion proper, bearing signature `А` and foliation `а҃` (Fol. 1r). In this physical exemplar, quires were bound such that folios 1r–4v follow folio 8v.
+[^141]: Rubrical witness identifying the liturgical recension as conforming to the Sabbaite Typikon of the Great Lavra in Jerusalem.
+[^142]: The private rule of morning prayers on rising from sleep (*Последованіе скоро от сна въставши*), which traditionally precedes the communal Midnight Office.
+[^143]: The three opening doxological versicles on rising.
+[^144]: St. Macarius the Great of Egypt (c. 300–391), first prayer on rising from sleep.
+[^145]: Conclusion of the morning prayer of St. Macarius the Great.
+[^146]: Opening monastic incipit and Jesus prayer invoking the intercession of the Mother of God and all saints.
+[^147]: The invocation of the Holy Spirit (*Царю небесный*), the universal opening prayer of Byzantine liturgical offices.

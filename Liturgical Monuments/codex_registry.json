@@ -2011,7 +2011,93 @@
       "status": "in_progress",
       "historical_year": 1763,
       "wave": 3,
-      "monument_type": "anthologion"
+      "monument_type": "anthologion",
+      "publication_spec": {
+        "mode": "universal_dynamic_h1",
+        "hub_inbox_folder": "1763_Kyiv-Pechersk_Lavra_Services_to_the_Venerable_Fathers_of_the_K...",
+        "master_title": "1763 Kyiv-Pechersk Lavra Services to the Venerable Fathers of the Kyiv Caves (Служби преподобним Отцям Печерським, Київ: Лавра, 1763)",
+        "parts": [
+          {
+            "id": "part0",
+            "filename": "1763_kyiv_caves_fathers_services_part0_front_matter.md",
+            "title": "Front Matter, Title Page, and Introductory Apparatus",
+            "start_landmark": null
+          },
+          {
+            "id": "part1",
+            "filename": "1763_kyiv_caves_fathers_services_part1_month-of-october-on-the-5th-day.md",
+            "title": "MONTH OF OCTOBER: ON THE 5TH DAY",
+            "start_landmark": "^#\\s+MONTH\\ OF\\ OCTOBER:\\ ON\\ THE\\ 5TH\\ DAY(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part2",
+            "filename": "1763_kyiv_caves_fathers_services_part2_month-of-october-on-the-14th-day.md",
+            "title": "MONTH OF OCTOBER: ON THE 14TH DAY",
+            "start_landmark": "^#\\s+MONTH\\ OF\\ OCTOBER:\\ ON\\ THE\\ 14TH\\ DAY(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part3",
+            "filename": "1763_kyiv_caves_fathers_services_part3_month-of-november.md",
+            "title": "MONTH OF NOVEMBER",
+            "start_landmark": "^#\\s+MONTH\\ OF\\ NOVEMBER(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part4",
+            "filename": "1763_kyiv_caves_fathers_services_part4_month-of-december.md",
+            "title": "MONTH OF DECEMBER",
+            "start_landmark": "^#\\s+MONTH\\ OF\\ DECEMBER(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part5",
+            "filename": "1763_kyiv_caves_fathers_services_part5_month-of-january.md",
+            "title": "MONTH OF JANUARY",
+            "start_landmark": "^#\\s+MONTH\\ OF\\ JANUARY(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part6",
+            "filename": "1763_kyiv_caves_fathers_services_part6_month-of-february.md",
+            "title": "MONTH OF FEBRUARY",
+            "start_landmark": "^#\\s+MONTH\\ OF\\ FEBRUARY(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part7",
+            "filename": "1763_kyiv_caves_fathers_services_part7_month-of-march.md",
+            "title": "MONTH OF MARCH",
+            "start_landmark": "^#\\s+MONTH\\ OF\\ MARCH(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part8",
+            "filename": "1763_kyiv_caves_fathers_services_part8_month-of-april.md",
+            "title": "MONTH OF APRIL",
+            "start_landmark": "^#\\s+MONTH\\ OF\\ APRIL(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part9",
+            "filename": "1763_kyiv_caves_fathers_services_part9_month-of-may.md",
+            "title": "MONTH OF MAY",
+            "start_landmark": "^#\\s+MONTH\\ OF\\ MAY(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part10",
+            "filename": "1763_kyiv_caves_fathers_services_part10_month-of-june.md",
+            "title": "MONTH OF JUNE",
+            "start_landmark": "^#\\s+MONTH\\ OF\\ JUNE(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part11",
+            "filename": "1763_kyiv_caves_fathers_services_part11_month-of-july.md",
+            "title": "MONTH OF JULY",
+            "start_landmark": "^#\\s+MONTH\\ OF\\ JULY(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part12",
+            "filename": "1763_kyiv_caves_fathers_services_part12_month-of-august.md",
+            "title": "MONTH OF AUGUST",
+            "start_landmark": "^#\\s+MONTH\\ OF\\ AUGUST(?:\\s*\\[\\^\\d+\\])*$"
+          }
+        ],
+        "footnotes_filename": "1763_kyiv_caves_fathers_services_footnotes.md"
+      }
     },
     "1785_kyiv_caves_fathers_services": {
       "monument_id": "1785_kyiv_caves_fathers_services",
@@ -2027,7 +2113,105 @@
       "status": "in_progress",
       "historical_year": 1785,
       "wave": 3,
-      "monument_type": "anthologion"
+      "monument_type": "anthologion",
+      "publication_spec": {
+        "mode": "universal_dynamic_h1",
+        "hub_inbox_folder": "1785_Kyiv-Pechersk_Lavra_Expanded_Services_to_the_Venerable_Fathers...",
+        "master_title": "1785 Kyiv-Pechersk Lavra Expanded Services to the Venerable Fathers of the Kyiv Caves (Служби преподобним Отцям Печерським, Київ: Лавра, 1785)",
+        "parts": [
+          {
+            "id": "part0",
+            "filename": "1785_kyiv_caves_fathers_services_part0_front_matter.md",
+            "title": "Front Matter, Title Page, and Introductory Apparatus",
+            "start_landmark": null
+          },
+          {
+            "id": "part1",
+            "filename": "1785_kyiv_caves_fathers_services_part1_month-of-september.md",
+            "title": "MONTH OF SEPTEMBER",
+            "start_landmark": "^#\\s+MONTH\\ OF\\ SEPTEMBER(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part2",
+            "filename": "1785_kyiv_caves_fathers_services_part2_month-of-october.md",
+            "title": "MONTH OF OCTOBER",
+            "start_landmark": "^#\\s+MONTH\\ OF\\ OCTOBER(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part3",
+            "filename": "1785_kyiv_caves_fathers_services_part3_month-of-november.md",
+            "title": "MONTH OF NOVEMBER",
+            "start_landmark": "^#\\s+MONTH\\ OF\\ NOVEMBER(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part4",
+            "filename": "1785_kyiv_caves_fathers_services_part4_month-of-december.md",
+            "title": "MONTH OF DECEMBER",
+            "start_landmark": "^#\\s+MONTH\\ OF\\ DECEMBER(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part5",
+            "filename": "1785_kyiv_caves_fathers_services_part5_month-of-january.md",
+            "title": "MONTH OF JANUARY",
+            "start_landmark": "^#\\s+MONTH\\ OF\\ JANUARY(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part6",
+            "filename": "1785_kyiv_caves_fathers_services_part6_month-of-february.md",
+            "title": "MONTH OF FEBRUARY",
+            "start_landmark": "^#\\s+MONTH\\ OF\\ FEBRUARY(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part7",
+            "filename": "1785_kyiv_caves_fathers_services_part7_month-of-march.md",
+            "title": "MONTH OF MARCH",
+            "start_landmark": "^#\\s+MONTH\\ OF\\ MARCH(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part8",
+            "filename": "1785_kyiv_caves_fathers_services_part8_month-of-april.md",
+            "title": "MONTH OF APRIL",
+            "start_landmark": "^#\\s+MONTH\\ OF\\ APRIL(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part9",
+            "filename": "1785_kyiv_caves_fathers_services_part9_month-of-may.md",
+            "title": "MONTH OF MAY",
+            "start_landmark": "^#\\s+MONTH\\ OF\\ MAY(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part10",
+            "filename": "1785_kyiv_caves_fathers_services_part10_month-of-june.md",
+            "title": "MONTH OF JUNE",
+            "start_landmark": "^#\\s+MONTH\\ OF\\ JUNE(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part11",
+            "filename": "1785_kyiv_caves_fathers_services_part11_month-of-july.md",
+            "title": "MONTH OF JULY",
+            "start_landmark": "^#\\s+MONTH\\ OF\\ JULY(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part12",
+            "filename": "1785_kyiv_caves_fathers_services_part12_month-of-august.md",
+            "title": "MONTH OF AUGUST",
+            "start_landmark": "^#\\s+MONTH\\ OF\\ AUGUST(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part13",
+            "filename": "1785_kyiv_caves_fathers_services_part13_general-menaion-common-services-to-the-s.md",
+            "title": "GENERAL MENAION (COMMON SERVICES TO THE SAINTS)",
+            "start_landmark": "^#\\s+GENERAL\\ MENAION\\ \\(COMMON\\ SERVICES\\ TO\\ THE\\ SAINTS\\)(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part14",
+            "filename": "1785_kyiv_caves_fathers_services_part14_appendix-sunday-theotokia-of-the-eight-t.md",
+            "title": "APPENDIX: SUNDAY THEOTOKIA OF THE EIGHT TONES",
+            "start_landmark": "^#\\s+APPENDIX:\\ SUNDAY\\ THEOTOKIA\\ OF\\ THE\\ EIGHT\\ TONES(?:\\s*\\[\\^\\d+\\])*$"
+          }
+        ],
+        "footnotes_filename": "1785_kyiv_caves_fathers_services_footnotes.md"
+      }
     },
     "1716_kyiv_marian_canons_octoechos": {
       "monument_id": "1716_kyiv_marian_canons_octoechos",
@@ -2043,7 +2227,87 @@
       "status": "in_progress",
       "historical_year": 1716,
       "wave": 3,
-      "monument_type": "octoechos"
+      "monument_type": "octoechos",
+      "publication_spec": {
+        "mode": "universal_dynamic_h1",
+        "hub_inbox_folder": "1716_Kyiv-Pechersk_Lavra_Theotokarion_/_Eight-Tone_Marian_Canons",
+        "master_title": "1716 Kyiv-Pechersk Lavra Theotokarion / Eight-Tone Marian Canons (Богородичник / Канони Богородиці Осмогласні, Київ: Друкарня Лаври, 1716)",
+        "parts": [
+          {
+            "id": "part0",
+            "filename": "1716_kyiv_marian_canons_octoechos_part0_front_matter.md",
+            "title": "Front Matter, Title Page, and Introductory Apparatus",
+            "start_landmark": null
+          },
+          {
+            "id": "part1",
+            "filename": "1716_kyiv_marian_canons_octoechos_part1_preface.md",
+            "title": "PREFACE",
+            "start_landmark": "^#\\s+PREFACE(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part2",
+            "filename": "1716_kyiv_marian_canons_octoechos_part2_tone-1.md",
+            "title": "TONE 1",
+            "start_landmark": "^#\\s+TONE\\ 1(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part3",
+            "filename": "1716_kyiv_marian_canons_octoechos_part3_tone-2.md",
+            "title": "TONE 2",
+            "start_landmark": "^#\\s+TONE\\ 2(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part4",
+            "filename": "1716_kyiv_marian_canons_octoechos_part4_tone-3.md",
+            "title": "TONE 3",
+            "start_landmark": "^#\\s+TONE\\ 3(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part5",
+            "filename": "1716_kyiv_marian_canons_octoechos_part5_tone-4.md",
+            "title": "TONE 4",
+            "start_landmark": "^#\\s+TONE\\ 4(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part6",
+            "filename": "1716_kyiv_marian_canons_octoechos_part6_tone-5.md",
+            "title": "TONE 5",
+            "start_landmark": "^#\\s+TONE\\ 5(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part7",
+            "filename": "1716_kyiv_marian_canons_octoechos_part7_tone-6.md",
+            "title": "TONE 6",
+            "start_landmark": "^#\\s+TONE\\ 6(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part8",
+            "filename": "1716_kyiv_marian_canons_octoechos_part8_tone-7.md",
+            "title": "TONE 7",
+            "start_landmark": "^#\\s+TONE\\ 7(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part9",
+            "filename": "1716_kyiv_marian_canons_octoechos_part9_tone-8.md",
+            "title": "TONE 8",
+            "start_landmark": "^#\\s+TONE\\ 8(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part10",
+            "filename": "1716_kyiv_marian_canons_octoechos_part10_weekday-octoechos.md",
+            "title": "WEEKDAY OCTOECHOS",
+            "start_landmark": "^#\\s+WEEKDAY\\ OCTOECHOS(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part11",
+            "filename": "1716_kyiv_marian_canons_octoechos_part11_ascetic-homilies-and-colophon.md",
+            "title": "ASCETIC HOMILIES AND COLOPHON",
+            "start_landmark": "^#\\s+ASCETIC\\ HOMILIES\\ AND\\ COLOPHON(?:\\s*\\[\\^\\d+\\])*$"
+          }
+        ],
+        "footnotes_filename": "1716_kyiv_marian_canons_octoechos_footnotes.md"
+      }
     },
     "1617_kyiv_kopystensky_horologion": {
       "monument_id": "1617_kyiv_kopystensky_horologion",
@@ -2055,11 +2319,97 @@
       "default_cohort_size": 10,
       "genre_register": "rubrical",
       "workspace_dir": "Liturgical Monuments/Monument - 1617_kyiv_kopystensky_horologion",
-      "active": true,
-      "status": "in_progress",
+      "active": false,
+      "status": "completed",
       "historical_year": 1617,
       "wave": 3,
-      "monument_type": "horologion"
+      "monument_type": "horologion",
+      "publication_spec": {
+        "mode": "universal_dynamic_h1",
+        "hub_inbox_folder": "1616–1617_Kyiv-Pechersk_Lavra_Horologion_of_Zacharias_Kopystensky",
+        "master_title": "1616–1617 Kyiv-Pechersk Lavra Horologion of Zacharias Kopystensky (Часослов, Київ: Друкарня Києво-Печерської Лаври, 1616/1617)",
+        "parts": [
+          {
+            "id": "part0",
+            "filename": "1617_kyiv_kopystensky_horologion_part0_front_matter.md",
+            "title": "Front Matter, Title Page, and Introductory Apparatus",
+            "start_landmark": null
+          },
+          {
+            "id": "part1",
+            "filename": "1617_kyiv_kopystensky_horologion_part1_preface.md",
+            "title": "PREFACE",
+            "start_landmark": "^#\\s+PREFACE(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part2",
+            "filename": "1617_kyiv_kopystensky_horologion_part2_the-midnight-office.md",
+            "title": "THE MIDNIGHT OFFICE",
+            "start_landmark": "^#\\s+THE\\ MIDNIGHT\\ OFFICE(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part3",
+            "filename": "1617_kyiv_kopystensky_horologion_part3_the-book-of-hours-horologion.md",
+            "title": "THE BOOK OF HOURS (HOROLOGION)",
+            "start_landmark": "^#\\s+THE\\ BOOK\\ OF\\ HOURS\\ \\(HOROLOGION\\)(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part4",
+            "filename": "1617_kyiv_kopystensky_horologion_part4_the-order-of-the-first-hour.md",
+            "title": "THE ORDER OF THE FIRST HOUR",
+            "start_landmark": "^#\\s+THE\\ ORDER\\ OF\\ THE\\ FIRST\\ HOUR(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part5",
+            "filename": "1617_kyiv_kopystensky_horologion_part5_the-order-of-the-third-hour.md",
+            "title": "THE ORDER OF THE THIRD HOUR",
+            "start_landmark": "^#\\s+THE\\ ORDER\\ OF\\ THE\\ THIRD\\ HOUR(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part6",
+            "filename": "1617_kyiv_kopystensky_horologion_part6_the-order-of-the-sixth-hour.md",
+            "title": "THE ORDER OF THE SIXTH HOUR",
+            "start_landmark": "^#\\s+THE\\ ORDER\\ OF\\ THE\\ SIXTH\\ HOUR(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part7",
+            "filename": "1617_kyiv_kopystensky_horologion_part7_the-order-of-the-typika-which-is-the-obe.md",
+            "title": "THE ORDER OF THE TYPIKA: WHICH IS THE OBEDNITSA",
+            "start_landmark": "^#\\s+THE\\ ORDER\\ OF\\ THE\\ TYPIKA:\\ WHICH\\ IS\\ THE\\ OBEDNITSA(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part8",
+            "filename": "1617_kyiv_kopystensky_horologion_part8_the-order-of-vespers-and-compline.md",
+            "title": "THE ORDER OF VESPERS AND COMPLINE",
+            "start_landmark": "^#\\s+THE\\ ORDER\\ OF\\ VESPERS\\ AND\\ COMPLINE(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part9",
+            "filename": "1617_kyiv_kopystensky_horologion_part9_kanonikon-the-venerable-paraklesis-to-th.md",
+            "title": "KANONIKON: THE VENERABLE PARAKLESIS TO THE MOST HOLY THEOTOKOS",
+            "start_landmark": "^#\\s+KANONIKON:\\ THE\\ VENERABLE\\ PARAKLESIS\\ TO\\ THE\\ MOST\\ HOLY\\ THEOTOKOS(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part10",
+            "filename": "1617_kyiv_kopystensky_horologion_part10_troparia-and-kontakia-resurrectional-tro.md",
+            "title": "TROPARIA AND KONTAKIA: RESURRECTIONAL TROPARIA, THEOTOKIA, AND HYPAKOAI OF THE EIGHT TONES",
+            "start_landmark": "^#\\s+TROPARIA\\ AND\\ KONTAKIA:\\ RESURRECTIONAL\\ TROPARIA,\\ THEOTOKIA,\\ AND\\ HYPAKOAI\\ OF\\ THE\\ EIGHT\\ TONES(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part11",
+            "filename": "1617_kyiv_kopystensky_horologion_part11_troparia-and-kontakia-to-the-rus-saints.md",
+            "title": "TROPARIA AND KONTAKIA TO THE RUS' SAINTS",
+            "start_landmark": "^#\\s+TROPARIA\\ AND\\ KONTAKIA\\ TO\\ THE\\ RUS'\\ SAINTS(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part12",
+            "filename": "1617_kyiv_kopystensky_horologion_part12_table-of-contents-of-the-services-of-thi.md",
+            "title": "TABLE OF CONTENTS OF THE SERVICES OF THIS BOOK",
+            "start_landmark": "^#\\s+TABLE\\ OF\\ CONTENTS\\ OF\\ THE\\ SERVICES\\ OF\\ THIS\\ BOOK(?:\\s*\\[\\^\\d+\\])*$"
+          }
+        ],
+        "footnotes_filename": "1617_kyiv_kopystensky_horologion_footnotes.md"
+      }
     },
     "1761_pochaiv_minea_01_sep": {
       "monument_id": "1761_pochaiv_minea_01_sep",

@@ -1,0 +1,14 @@
+[^246]: The Church Slavonic witness abbreviates the Trisagion refrain here to 'ст҃ъ, ст҃ъ, ст҃ъ :' (Holy, Holy, Holy), omitting the explicit vocative clause 'є҆сѝ Бж҃е' (art Thou, O God) present in the full refrain.
+[^247]: Church Slavonic 'Мы́сльныхъ твои́хъ слꙋ́гъ, принѡси́мъ ти мр҃тве́нїи пѣ́нь' reflects Greek 'Τῶν νοερῶν σου λειτουργῶν μιμούμενοι...'; the genitive 'Мы́сльныхъ твои́хъ слꙋ́гъ' represents the object of the elliptical Greek participle 'imitating Thine angelic ministers'.
+[^248]: In Tone 7, the hymn is addressed to the unapproachable Trinity in the dative case ('Непристоу́пнѣй Бж҃твѡмъ'), reflecting the Byzantine liturgical Troika of the Octoechos.
+[^249]: The rubric prescribes the appointed daily Kathismata of the Psalter according to the seasonal Typikon rules, followed by the sessional hymns (kathisma hymns / sedalny).
+[^250]: Fol. 6r corresponds to physical leaf p27, where Psalm 50 is printed in full.
+[^251]: Church Slavonic 'до вѣ́ка' reflects Greek 'εἰς τὸν αἰῶνα' (Luke 1:55).
+[^252]: Fol. 22r corresponds to physical leaf p43, where the hymn 'More honorable than the Cherubim' is printed in full.
+[^253]: The Psalter verses of the Praises (Lauds / Chvalitny) begin here with Psalm 148.
+[^254]: The printed heading mistakenly numbers this psalm as 'рм҃д' (Psalm 144) instead of 'рм҃ѳ' (Psalm 149), the second psalm of the Praises (Lauds / Chvalitny).
+[^255]: The rubric distinguishes the festal singing of the Great Doxology from the Lenten/daily recitation of the Doxology preceded by the doxological acclamation 'To Thee glory is due...' and accompanied by 3 prostrations (metanias).
+[^256]: Church Slavonic 'брaзꙋми́ на' is an abbreviated scribal form for 'вразуми нас' ('make us understand'), reflecting the Greek 'συνέτισόν με' (Ps. 118:27).
+[^257]: The rubric provides the branching sequence for Lenten Matins versus non-fasting Matins: on ordinary days, the dismissal is followed directly by the First Hour, whereas on Lenten days, the special Lenten troparion ('In the temple standing...') and the Prayer of St. Ephrem with prostrations are performed before the First Hour.
+[^258]: Fol. 27r corresponds to physical leaf p48, containing the priestly dismissal cue. The cross-reference to fol. 22r corresponds to physical leaf p43 for the Prayer of St. Ephrem the Syrian.
+[^259]: The First Hour opens with an ornate headpiece and the three introductory invitations to worship ('O come, let us worship...'). In monastic practice, the First Hour is joined directly to the conclusion of Matins.

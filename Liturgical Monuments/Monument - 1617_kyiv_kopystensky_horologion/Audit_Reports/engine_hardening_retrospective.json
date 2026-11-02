@@ -1,0 +1,57 @@
+{
+  "monument_id": "1617_kyiv_kopystensky_horologion",
+  "title": "1616–1617 Kyiv-Pechersk Lavra Horologion of Zacharias Kopystensky (Часослов, Київ: Друкарня Києво-Печерської Лаври, 1616/1617)",
+  "monument_type": "horologion",
+  "genre_register": "rubrical",
+  "retrospective_timestamp": "2026-11-02T13:16:41.135329+00:00",
+  "codicological_profile": {
+    "total_physical_leaves": 216,
+    "cohort_count": 22,
+    "default_cohort_size": 10,
+    "monument_type": "horologion"
+  },
+  "subagent_execution_telemetry": {
+    "total_cohorts_dispatched": 22,
+    "worker_model": "flash",
+    "cohorts_passing_gate_100pct": 22,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.098,
+      "median_cohort_ratio": 1.148,
+      "max_cohort_median": 1.295
+    }
+  },
+  "argon_review_queue_telemetry": {
+    "total_items_recorded": 1,
+    "resolved_by_argon": 1,
+    "info_telemetry_only": 0,
+    "unresolved_quarantines": 0,
+    "codicological_crux_count": 0
+  },
+  "final_publication_verification": {
+    "parts_count": 13,
+    "parts": [
+      "1617_kyiv_kopystensky_horologion_part0_front_matter.md",
+      "1617_kyiv_kopystensky_horologion_part1_preface.md",
+      "1617_kyiv_kopystensky_horologion_part2_the-midnight-office.md",
+      "1617_kyiv_kopystensky_horologion_part3_the-book-of-hours-horologion.md",
+      "1617_kyiv_kopystensky_horologion_part4_the-order-of-the-first-hour.md",
+      "1617_kyiv_kopystensky_horologion_part5_the-order-of-the-third-hour.md",
+      "1617_kyiv_kopystensky_horologion_part6_the-order-of-the-sixth-hour.md",
+      "1617_kyiv_kopystensky_horologion_part7_the-order-of-the-typika-which-is-the-obe.md",
+      "1617_kyiv_kopystensky_horologion_part8_the-order-of-vespers-and-compline.md",
+      "1617_kyiv_kopystensky_horologion_part9_kanonikon-the-venerable-paraklesis-to-th.md",
+      "1617_kyiv_kopystensky_horologion_part10_troparia-and-kontakia-resurrectional-tro.md",
+      "1617_kyiv_kopystensky_horologion_part11_troparia-and-kontakia-to-the-rus-saints.md",
+      "1617_kyiv_kopystensky_horologion_part12_table-of-contents-of-the-services-of-thi.md"
+    ],
+    "total_footnotes_verified": 545,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.098,
+      "median_cohort_ratio": 1.148,
+      "max_cohort_median": 1.295
+    },
+    "all_6_publication_gates_passed": true
+  },
+  "edge_cases_and_anomalies": [],
+  "engine_hardening_proposals": []
+}

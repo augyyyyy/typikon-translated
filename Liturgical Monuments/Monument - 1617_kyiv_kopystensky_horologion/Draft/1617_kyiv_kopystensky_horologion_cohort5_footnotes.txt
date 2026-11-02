@@ -1,0 +1,20 @@
+[^183]: The Seventeenth Kathisma (Ps. 118) is divided into three stases (*statia*), each concluding with the triple Alleluia and three metanoias (bows). Here begins the Third Stasis (v. 132 to end; LXX 118:132–176 / MT 119:132–176).
+[^184]: Ps. 118:137–138 (LXX 118:137–138 / MT 119:137–138).
+[^185]: Ps. 118:147 (LXX 118:147 / MT 119:147). Church Slavonic: *Предвари́хъ въ безго́дїи, и҆ къзва́хъ* (Greek: προέφθασα ἐν ἀωρίᾳ καὶ ἐκέκραξα).
+[^186]: Ps. 118:153–154 (LXX 118:153–154 / MT 119:153–154).
+[^187]: Ps. 118:164 (LXX 118:164 / MT 119:164). Traditional monastic scriptural foundation for the seven daily liturgical services.
+[^188]: Ps. 118:175 (LXX 118:175 / MT 119:175).
+[^189]: The Symbol of Faith (Nicene-Constantinopolitan Creed) without the *Filioque*, with printed marginal notes distinguishing the articles defined at the First Ecumenical Council (Nicaea I, 325) and the Second Ecumenical Council (Constantinople I, 381).
+[^190]: The marginal note *в҃ . събо́ра* marks the pneumatological and ecclesiological articles defined at the Second Ecumenical Council of Constantinople (381).
+[^191]: The midnight troparia in Tone 8 (*Се жени́хъ грѧде́тъ въ полꙋ́нощи* / *Behold, the Bridegroom comes at midnight*), drawing upon the eschatological Parable of the Ten Virgins (Matt. 25:1–13).
+[^192]: *Codicological Note:* In this physical exemplar, Folio 21 is bound inverted (reversed recto-verso). Folio 21v physically faces Folio 20v on this opening (Page_0045), containing the central portion of the Prayer of the Hours (*Thou Who at all times...*), while its recto (Fol. 21r) appears on the facing page of the subsequent opening (Page_0046).
+[^193]: Tone 8 Theotokion (*Тебѐ неѡ҆бори́моую стѣ́ноу* / *Thee, the invincible rampart...*).
+[^194]: Rubric prescribing 15 great prostrations (*metanoias*) during fasting seasons accompanied by the Prayer of St. Ephrem the Syrian. Note that on Fol. 22r the printed prayer text ends abruptly at *смиренномꙋдрїа*, omitting the final petitions and the subsequent transitional prayers before Psalm 120 on Fol. 22v.
+[^195]: The text opens at the final verse of Psalm 120 (LXX 120:8 / MT 121:8: *[The Lord shall keep] thy coming in and thy going out...*), followed directly by Psalm 133 (LXX 133 / MT 134), the beginning of the Second Part of the Daily Midnight Office (for the Departed).
+[^196]: Tone 8 Kontakion of the Departed (*Со святыми упокой...* / *With the saints give rest, O Christ...*).
+[^197]: Prayer of intercession for the departed (*Помяни Господи, иже к надежди воскресения...* / *Remember, O Lord, in the hope of resurrection...*). Note that the printed foliation skips from Fol. 23 directly to Fol. 25, though the text connects without hiatus across the opening.
+[^198]: Monastic rubrical provision for a solitary monk reciting the Midnight Office alone in his cell (*Аще ли инокъ в келии на едине*).
+[^199]: The mutual forgiveness ceremony (*Чинъ прощенїя*), performed at the end of the Midnight Office and Compline, wherein the priest bows to the brethren requesting pardon for sins committed in word, deed, thought, and all senses, and the community reciprocates.
+[^200]: Suffrages (*Просительная ектения / чинъ прощенїя*) chanted alternately after the mutual pardon, praying for civil and ecclesiastical authorities.
+[^201]: Suffrages continued, interceding for the monastic fraternity, benefactors, captives, and travelers.
+[^202]: Concluding petitions of the suffrages, commemorating the sick, imprisoned, departed Orthodox sovereigns and princes, and the founders (*ktetors*) of the monastery and church.

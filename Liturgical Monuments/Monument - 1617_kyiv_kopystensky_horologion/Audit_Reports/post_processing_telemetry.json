@@ -1,0 +1,57 @@
+{
+  "monument_id": "1617_kyiv_kopystensky_horologion",
+  "cohorts": {
+    "4": {
+      "timestamp": "2026-11-02T06:21:13.864463+00:00",
+      "repairs_applied": [
+        "vocabulary_and_slop_body"
+      ],
+      "any_modified": true
+    },
+    "7": {
+      "timestamp": "2026-11-02T07:23:03.243797+00:00",
+      "repairs_applied": [
+        "hieratic_pronouns"
+      ],
+      "any_modified": true
+    },
+    "8": {
+      "timestamp": "2026-11-02T07:42:50.842119+00:00",
+      "repairs_applied": [
+        "vocabulary_and_slop_body",
+        "vocabulary_and_slop_footnotes"
+      ],
+      "any_modified": true
+    },
+    "10": {
+      "timestamp": "2026-11-02T08:11:03.741735+00:00",
+      "repairs_applied": [
+        "vocabulary_and_slop_body"
+      ],
+      "any_modified": true
+    },
+    "18": {
+      "timestamp": "2026-11-02T10:12:44.547142+00:00",
+      "repairs_applied": [
+        "hieratic_pronouns"
+      ],
+      "any_modified": true
+    },
+    "19": {
+      "timestamp": "2026-11-02T10:29:56.521511+00:00",
+      "repairs_applied": [
+        "vocabulary_and_slop_body",
+        "hieratic_pronouns"
+      ],
+      "any_modified": true
+    },
+    "21": {
+      "timestamp": "2026-11-02T10:56:01.104876+00:00",
+      "repairs_applied": [
+        "hieratic_pronouns"
+      ],
+      "any_modified": true
+    }
+  },
+  "updated_at": "2026-11-02T10:56:01.104889+00:00"
+}
