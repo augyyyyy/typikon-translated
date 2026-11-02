@@ -1,0 +1,48 @@
+{
+  "monument_id": "1738_univ_festal_offices",
+  "title": "1738 Univ Monastery Festal Offices / Vozslidovaniia Prazdnykom (Вослідованія праздником, Унів: Друкарня монастиря, 1738)",
+  "monument_type": "anthologion",
+  "genre_register": "hymnographic",
+  "retrospective_timestamp": "2026-11-02T03:03:21.325616+00:00",
+  "codicological_profile": {
+    "total_physical_leaves": 23,
+    "cohort_count": 3,
+    "default_cohort_size": 10,
+    "monument_type": "anthologion"
+  },
+  "subagent_execution_telemetry": {
+    "total_cohorts_dispatched": 3,
+    "worker_model": "flash",
+    "cohorts_passing_gate_100pct": 3,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.12,
+      "median_cohort_ratio": 1.176,
+      "max_cohort_median": 1.182
+    }
+  },
+  "argon_review_queue_telemetry": {
+    "total_items_recorded": 0,
+    "resolved_by_argon": 0,
+    "info_telemetry_only": 0,
+    "unresolved_quarantines": 0,
+    "codicological_crux_count": 0
+  },
+  "final_publication_verification": {
+    "parts_count": 4,
+    "parts": [
+      "1738_univ_festal_offices_part0_front_matter.md",
+      "1738_univ_festal_offices_part1_part-i-office-of-the-feast-of-the-most-h.md",
+      "1738_univ_festal_offices_part2_office-of-the-feast-of-the-compassion-of.md",
+      "1738_univ_festal_offices_part3_office-of-the-feast-of-the-blessed-hiero.md"
+    ],
+    "total_footnotes_verified": 31,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.12,
+      "median_cohort_ratio": 1.176,
+      "max_cohort_median": 1.182
+    },
+    "all_6_publication_gates_passed": true
+  },
+  "edge_cases_and_anomalies": [],
+  "engine_hardening_proposals": []
+}

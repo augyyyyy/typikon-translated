@@ -1,0 +1,413 @@
+{
+  "schema_version": "2.0.0",
+  "description": "Comprehensive Physical Podoben Invocation Concordance for 1738 Univ Monastery Festal Offices / Vozslidovaniia Prazdnykom (Вослідованія праздником, Унів: Друкарня монастиря, 1738)",
+  "summary": {
+    "monument_id": "1738_univ_festal_offices",
+    "total_podoben_invocations": 17,
+    "distinct_model_families": 12,
+    "tones_represented": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      8
+    ],
+    "families": [
+      {
+        "model_id": "POD.T6.TRIDNEVEN_VOSKRESL_ESI",
+        "tone": 5,
+        "prescribed_model": "Having risen on the third day",
+        "byzantine_greek_automelon": "Τριήμερος ἀνέστης",
+        "total_invocations": 1,
+        "first_locus": "f. 1r (p3)",
+        "attested_loci": [
+          "f. 1r (p3)"
+        ]
+      },
+      {
+        "model_id": "POD.T1.NEBESNYKH_CHINOV",
+        "tone": 4,
+        "prescribed_model": "Joy of the heavenly ranks",
+        "byzantine_greek_automelon": "Τῶν οὐρανίων ταγμάτων",
+        "total_invocations": 2,
+        "first_locus": "f. 2r (p4)",
+        "attested_loci": [
+          "f. 2r (p4)",
+          "f. 8v (p11)"
+        ]
+      },
+      {
+        "model_id": "POD.T3.KRASOTE_DEVSTVA",
+        "tone": 3,
+        "prescribed_model": "Beholding the beauty of thy virginity",
+        "byzantine_greek_automelon": "Τὴν ὡραιότητα τῆς παρθενίας σου",
+        "total_invocations": 1,
+        "first_locus": "f. 3r (p5)",
+        "attested_loci": [
+          "f. 3r (p5)"
+        ]
+      },
+      {
+        "model_id": "POD.T1.KAMENI_ZAPECHATLENU",
+        "tone": 1,
+        "prescribed_model": "When the stone had been sealed",
+        "byzantine_greek_automelon": "Τοῦ λίθου σφραγισθέντος",
+        "total_invocations": 1,
+        "first_locus": "f. 3v (p6)",
+        "attested_loci": [
+          "f. 3v (p6)"
+        ]
+      },
+      {
+        "model_id": "POD.T1.EXT_A_MARVELOUS_WONDER",
+        "tone": 1,
+        "prescribed_model": "A Marvelous Wonder",
+        "byzantine_greek_automelon": "—",
+        "total_invocations": 1,
+        "first_locus": "f. 5v (p8)",
+        "attested_loci": [
+          "f. 5v (p8)"
+        ]
+      },
+      {
+        "model_id": "POD.T2.EXT_O_HOUSE_OF",
+        "tone": 2,
+        "prescribed_model": "O House of Ephratha",
+        "byzantine_greek_automelon": "—",
+        "total_invocations": 4,
+        "first_locus": "f. 7r (p9)",
+        "attested_loci": [
+          "f. 7r (p9)",
+          "f. 8r (p10)",
+          "f. 8v (p11)",
+          "f. 9r (p11)"
+        ]
+      },
+      {
+        "model_id": "POD.T4.YAKO_DOBLYA",
+        "tone": 4,
+        "prescribed_model": "As one valiant among martyrs",
+        "byzantine_greek_automelon": "Ὡς γενναῖον ἐν Μάρτυσιν",
+        "total_invocations": 2,
+        "first_locus": "f. 7v (p10)",
+        "attested_loci": [
+          "f. 7v (p10)",
+          "f. 14v (p17)"
+        ]
+      },
+      {
+        "model_id": "POD.T2.EXT_THINE_ANGELS_SHALL",
+        "tone": 2,
+        "prescribed_model": "Thine Angels shall go forth, O Savior",
+        "byzantine_greek_automelon": "—",
+        "total_invocations": 1,
+        "first_locus": "f. 11v (p14)",
+        "attested_loci": [
+          "f. 11v (p14)"
+        ]
+      },
+      {
+        "model_id": "POD.T1.VSEKHVALNII_MUCHENITSY",
+        "tone": 1,
+        "prescribed_model": "O all-lauded martyrs",
+        "byzantine_greek_automelon": "Πανεύφημοι μάρτυρες",
+        "total_invocations": 1,
+        "first_locus": "f. 13r (p15)",
+        "attested_loci": [
+          "f. 13r (p15)"
+        ]
+      },
+      {
+        "model_id": "POD.T8.PREMUDROSTI_NASTAVNICHE",
+        "tone": 8,
+        "prescribed_model": "Guiding unto wisdom",
+        "byzantine_greek_automelon": "Τῆς σοφίας ὁδηγέ",
+        "total_invocations": 1,
+        "first_locus": "f. 15v (p18)",
+        "attested_loci": [
+          "f. 15v (p18)"
+        ]
+      },
+      {
+        "model_id": "POD.T4.UDIVISIA_IOSIF",
+        "tone": 4,
+        "prescribed_model": "Joseph was amazed",
+        "byzantine_greek_automelon": "Κατεπλάγη Ἰωσήφ",
+        "total_invocations": 1,
+        "first_locus": "f. 15v (p18)",
+        "attested_loci": [
+          "f. 15v (p18)"
+        ]
+      },
+      {
+        "model_id": "POD.T4.EXT_SENT_FORTH_SECRETLY",
+        "tone": 4,
+        "prescribed_model": "Sent forth secretly",
+        "byzantine_greek_automelon": "—",
+        "total_invocations": 1,
+        "first_locus": "f. 16r (p18)",
+        "attested_loci": [
+          "f. 16r (p18)"
+        ]
+      }
+    ]
+  },
+  "invocations": [
+    {
+      "index": 1,
+      "tone": 5,
+      "locus": "f. 1r",
+      "leaf": "p3",
+      "office": "PART I: OFFICE OF THE FEAST OF THE MOST HOLY MYSTERY OF THE EUCHARIST",
+      "section": "Hymnographic Propers",
+      "verbatim_1630_slavonic": "Тридневно",
+      "verbatim_slavonic_witness": "Тридневно",
+      "normalized_rubric": "*At Vespers, on \"Lord, I have cried\", Stichera, Tone 5, Podoben: \"On the Third Day\" (Tridnevno):*",
+      "prescribed_model": "Having risen on the third day",
+      "model_id": "POD.T6.TRIDNEVEN_VOSKRESL_ESI",
+      "byzantine_greek_automelon": "Τριήμερος ἀνέστης",
+      "governed_hymn_opening": "*Sticheron 1:*"
+    },
+    {
+      "index": 2,
+      "tone": 4,
+      "locus": "f. 2r",
+      "leaf": "p4",
+      "office": "PART I: OFFICE OF THE FEAST OF THE MOST HOLY MYSTERY OF THE EUCHARIST",
+      "section": "Hymnographic Propers",
+      "verbatim_1630_slavonic": "Небе́сныхъ чино́въ",
+      "verbatim_slavonic_witness": "Небе́сныхъ чино́въ",
+      "normalized_rubric": "*At the Aposticha, Stichera, Tone 4, Podoben: \"O Ye Heavenly Ranks\" (Nebesnykh chinov):*",
+      "prescribed_model": "Joy of the heavenly ranks",
+      "model_id": "POD.T1.NEBESNYKH_CHINOV",
+      "byzantine_greek_automelon": "Τῶν οὐρανίων ταγμάτων",
+      "governed_hymn_opening": "*Sticheron 1:*"
+    },
+    {
+      "index": 3,
+      "tone": 3,
+      "locus": "f. 3r",
+      "leaf": "p5",
+      "office": "PART I: OFFICE OF THE FEAST OF THE MOST HOLY MYSTERY OF THE EUCHARIST",
+      "section": "Hymnographic Propers",
+      "verbatim_1630_slavonic": "то́йже",
+      "verbatim_slavonic_witness": "то́йже",
+      "normalized_rubric": "*After the Polyeleos, Sessional Hymn, Tone 3, Podoben: \"Awed by the Beauty\" (Krasote):*",
+      "prescribed_model": "Beholding the beauty of thy virginity",
+      "model_id": "POD.T3.KRASOTE_DEVSTVA",
+      "byzantine_greek_automelon": "Τὴν ὡραιότητα τῆς παρθενίας σου",
+      "governed_hymn_opening": "*Sessional Hymn:*"
+    },
+    {
+      "index": 4,
+      "tone": 1,
+      "locus": "f. 3v",
+      "leaf": "p6",
+      "office": "PART I: OFFICE OF THE FEAST OF THE MOST HOLY MYSTERY OF THE EUCHARIST",
+      "section": "Hymnographic Propers",
+      "verbatim_1630_slavonic": "Ка́мени зна́менану",
+      "verbatim_slavonic_witness": "Ка́мени зна́менану",
+      "normalized_rubric": "*Sessional Hymn, Tone 1, Podoben: \"Though the Stone Was Sealed\" (Kameni znamenanu):*",
+      "prescribed_model": "When the stone had been sealed",
+      "model_id": "POD.T1.KAMENI_ZAPECHATLENU",
+      "byzantine_greek_automelon": "Τοῦ λίθου σφραγισθέντος",
+      "governed_hymn_opening": "*Sessional Hymn:*"
+    },
+    {
+      "index": 5,
+      "tone": 1,
+      "locus": "f. 5v",
+      "leaf": "p8",
+      "office": "PART I: OFFICE OF THE FEAST OF THE MOST HOLY MYSTERY OF THE EUCHARIST",
+      "section": "Hymnographic Propers",
+      "verbatim_1630_slavonic": "Ди́вное чꙋ́до",
+      "verbatim_slavonic_witness": "Ди́вное чꙋ́до",
+      "normalized_rubric": "*At the Praises, Stichera (4), Tone 1, Podoben: \"A Marvelous Wonder\" (Divnoe chudo):*",
+      "prescribed_model": "A Marvelous Wonder",
+      "model_id": "POD.T1.EXT_A_MARVELOUS_WONDER",
+      "byzantine_greek_automelon": "—",
+      "governed_hymn_opening": "*Sticheron 1:*"
+    },
+    {
+      "index": 6,
+      "tone": 2,
+      "locus": "f. 7r",
+      "leaf": "p9",
+      "office": "PART I: OFFICE OF THE FEAST OF THE MOST HOLY MYSTERY OF THE EUCHARIST",
+      "section": "Hymnographic Propers",
+      "verbatim_1630_slavonic": "До́ме є҆фраз",
+      "verbatim_slavonic_witness": "До́ме є҆фраз",
+      "normalized_rubric": "*At the Aposticha, Stichera, Tone 2, Podoben: \"O House of Ephratha\" (Dome Evfratov):*",
+      "prescribed_model": "O House of Ephratha",
+      "model_id": "POD.T2.EXT_O_HOUSE_OF",
+      "byzantine_greek_automelon": "—",
+      "governed_hymn_opening": "*Sticheron 1:*[^18]"
+    },
+    {
+      "index": 7,
+      "tone": 4,
+      "locus": "f. 7v",
+      "leaf": "p10",
+      "office": "PART I: OFFICE OF THE FEAST OF THE MOST HOLY MYSTERY OF THE EUCHARIST",
+      "section": "Hymnographic Propers",
+      "verbatim_1630_slavonic": "Ꙗ҆́ко до́блѧ въ мꙋ́чнцѣ",
+      "verbatim_slavonic_witness": "Ꙗ҆́ко до́блѧ въ мꙋ́чнцѣ",
+      "normalized_rubric": "*Stichera, Tone 4, Podoben: \"As One Valiant\" (Yako doblia):*",
+      "prescribed_model": "As one valiant among martyrs",
+      "model_id": "POD.T4.YAKO_DOBLYA",
+      "byzantine_greek_automelon": "Ὡς γενναῖον ἐν Μάρτυσιν",
+      "governed_hymn_opening": "*Sticheron 1:*"
+    },
+    {
+      "index": 8,
+      "tone": 2,
+      "locus": "f. 8r",
+      "leaf": "p10",
+      "office": "PART I: OFFICE OF THE FEAST OF THE MOST HOLY MYSTERY OF THE EUCHARIST",
+      "section": "Hymnographic Propers",
+      "verbatim_1630_slavonic": "До́ме є҆фра",
+      "verbatim_slavonic_witness": "До́ме є҆фра",
+      "normalized_rubric": "*At the Aposticha, Stichera, Tone 2, Podoben: \"O House of Ephratha\" (Dome Evfratov):*",
+      "prescribed_model": "O House of Ephratha",
+      "model_id": "POD.T2.EXT_O_HOUSE_OF",
+      "byzantine_greek_automelon": "—",
+      "governed_hymn_opening": "*Sticheron 1:*"
+    },
+    {
+      "index": 9,
+      "tone": 1,
+      "locus": "f. 8v",
+      "leaf": "p11",
+      "office": "PART I: OFFICE OF THE FEAST OF THE MOST HOLY MYSTERY OF THE EUCHARIST",
+      "section": "Hymnographic Propers",
+      "verbatim_1630_slavonic": "Нбⷭныⷯ чино́въ",
+      "verbatim_slavonic_witness": "Нбⷭныⷯ чино́въ",
+      "normalized_rubric": "*Tone 1, Podoben: \"Of the Heavenly Ranks\" (Nebesnykh chinov):*",
+      "prescribed_model": "Joy of the heavenly ranks",
+      "model_id": "POD.T1.NEBESNYKH_CHINOV",
+      "byzantine_greek_automelon": "Τῶν οὐρανίων ταγμάτων",
+      "governed_hymn_opening": "*1. \"We magnify today the wonders of Christ\"; 2. \"In..."
+    },
+    {
+      "index": 10,
+      "tone": 2,
+      "locus": "f. 8v",
+      "leaf": "p11",
+      "office": "PART I: OFFICE OF THE FEAST OF THE MOST HOLY MYSTERY OF THE EUCHARIST",
+      "section": "Hymnographic Propers",
+      "verbatim_1630_slavonic": "До́ме Е҆фра́",
+      "verbatim_slavonic_witness": "До́ме Е҆фра́",
+      "normalized_rubric": "*At the Aposticha, Stichera, Tone 2, Podoben: \"O House of Ephratha\" (Dome Evfratov):*",
+      "prescribed_model": "O House of Ephratha",
+      "model_id": "POD.T2.EXT_O_HOUSE_OF",
+      "byzantine_greek_automelon": "—",
+      "governed_hymn_opening": "*Sticheron 1:*"
+    },
+    {
+      "index": 11,
+      "tone": 2,
+      "locus": "f. 9r",
+      "leaf": "p11",
+      "office": "PART I: OFFICE OF THE FEAST OF THE MOST HOLY MYSTERY OF THE EUCHARIST",
+      "section": "Hymnographic Propers",
+      "verbatim_1630_slavonic": "До́ме Е҆фра́",
+      "verbatim_slavonic_witness": "До́ме Е҆фра́",
+      "normalized_rubric": "*Stichera, Tone 2, Podoben: \"O House of Ephratha\" (Dome Evfratov):*",
+      "prescribed_model": "O House of Ephratha",
+      "model_id": "POD.T2.EXT_O_HOUSE_OF",
+      "byzantine_greek_automelon": "—",
+      "governed_hymn_opening": "*Sticheron 1:*"
+    },
+    {
+      "index": 12,
+      "tone": 2,
+      "locus": "f. 11v",
+      "leaf": "p14",
+      "office": "OFFICE OF THE FEAST OF THE COMPASSION OF THE MOST HOLY THEOTOKOS [^23]",
+      "section": "Hymnographic Propers",
+      "verbatim_1630_slavonic": "А҆́гг҃ли Твои прии́дꙋтъ, сп҃с",
+      "verbatim_slavonic_witness": "А҆́гг҃ли Твои прии́дꙋтъ, сп҃с",
+      "normalized_rubric": "*Stichera, Tone 2, Podoben: \"Thine Angels shall go forth, O Savior\" (Angeli Tvoi priidut):*",
+      "prescribed_model": "Thine Angels shall go forth, O Savior",
+      "model_id": "POD.T2.EXT_THINE_ANGELS_SHALL",
+      "byzantine_greek_automelon": "—",
+      "governed_hymn_opening": "*Sticheron 1:*"
+    },
+    {
+      "index": 13,
+      "tone": 1,
+      "locus": "f. 13r",
+      "leaf": "p15",
+      "office": "OFFICE OF THE FEAST OF THE BLESSED HIEROMARTYR JOSAPHAT",
+      "section": "Hymnographic Propers",
+      "verbatim_1630_slavonic": "Прехва́льнїи Мч҃нци",
+      "verbatim_slavonic_witness": "Прехва́льнїи Мч҃нци",
+      "normalized_rubric": "*Stichera unto the Saint, Tone 1, Podoben: \"O All-Praised Martyrs\" (Prekhvalnii muchenitsy):*",
+      "prescribed_model": "O all-lauded martyrs",
+      "model_id": "POD.T1.VSEKHVALNII_MUCHENITSY",
+      "byzantine_greek_automelon": "Πανεύφημοι μάρτυρες",
+      "governed_hymn_opening": "*Sticheron 1:*"
+    },
+    {
+      "index": 14,
+      "tone": 4,
+      "locus": "f. 14v",
+      "leaf": "p17",
+      "office": "OFFICE OF THE FEAST OF THE BLESSED HIEROMARTYR JOSAPHAT",
+      "section": "Hymnographic Propers",
+      "verbatim_1630_slavonic": "Ꙗ҆́ко до́блѧ",
+      "verbatim_slavonic_witness": "Ꙗ҆́ко до́блѧ",
+      "normalized_rubric": "*At the Aposticha, Stichera unto the Saint, Tone 4, Podoben: \"As One Valiant\" (Yako doblia):*",
+      "prescribed_model": "As one valiant among martyrs",
+      "model_id": "POD.T4.YAKO_DOBLYA",
+      "byzantine_greek_automelon": "Ὡς γενναῖον ἐν Μάρτυσιν",
+      "governed_hymn_opening": "*Sticheron 1:*"
+    },
+    {
+      "index": 15,
+      "tone": 8,
+      "locus": "f. 15v",
+      "leaf": "p18",
+      "office": "OFFICE OF THE FEAST OF THE BLESSED HIEROMARTYR JOSAPHAT",
+      "section": "Hymnographic Propers",
+      "verbatim_1630_slavonic": "Премꙋ́дрости",
+      "verbatim_slavonic_witness": "Премꙋ́дрости",
+      "normalized_rubric": "*Glory... Both now... \"Save, O Lord, Thy people\" At Matins, after the 1st Kathisma: Sessional Hymn, Tone 8, Podoben: \"Of Wisdom\" (Premudrosti):*",
+      "prescribed_model": "Guiding unto wisdom",
+      "model_id": "POD.T8.PREMUDROSTI_NASTAVNICHE",
+      "byzantine_greek_automelon": "Τῆς σοφίας ὁδηγέ",
+      "governed_hymn_opening": "Having forsaken all earthly things, and lived in the world..."
+    },
+    {
+      "index": 16,
+      "tone": 4,
+      "locus": "f. 15v",
+      "leaf": "p18",
+      "office": "OFFICE OF THE FEAST OF THE BLESSED HIEROMARTYR JOSAPHAT",
+      "section": "Hymnographic Propers",
+      "verbatim_1630_slavonic": "Оу҆диви́ся І҆ѡ́с",
+      "verbatim_slavonic_witness": "Оу҆диви́ся І҆ѡ́с",
+      "normalized_rubric": "*After the 2nd Kathisma: Sessional Hymn, Tone 4, Podoben: \"Joseph Was Amazed\" (Udivisia Iosif):*",
+      "prescribed_model": "Joseph was amazed",
+      "model_id": "POD.T4.UDIVISIA_IOSIF",
+      "byzantine_greek_automelon": "Κατεπλάγη Ἰωσήφ",
+      "governed_hymn_opening": "Having made thy heart a beautiful altar, thou didst offer..."
+    },
+    {
+      "index": 17,
+      "tone": 4,
+      "locus": "f. 16r",
+      "leaf": "p18",
+      "office": "OFFICE OF THE FEAST OF THE BLESSED HIEROMARTYR JOSAPHAT",
+      "section": "Hymnographic Propers",
+      "verbatim_1630_slavonic": "то́йже. Просте́ръ Мѡѷсе́й рꙋ́цѣ къ высотѣ̀ Вѣнѣ́цъ",
+      "verbatim_slavonic_witness": "то́йже. Просте́ръ Мѡѷсе́й рꙋ́цѣ къ высотѣ̀ Вѣнѣ́цъ",
+      "normalized_rubric": "*Glory... Both now... Of the Feast of the Exaltation, Tone the same, Podoben: \"Sent forth secretly\" (Poslannoe taino): \"In Paradise of old the tree stripped me bare...\"*",
+      "prescribed_model": "Sent forth secretly",
+      "model_id": "POD.T4.EXT_SENT_FORTH_SECRETLY",
+      "byzantine_greek_automelon": "—",
+      "governed_hymn_opening": "*If it be not Sunday, the Gradual Hymns, Tone 4,..."
+    }
+  ]
+}

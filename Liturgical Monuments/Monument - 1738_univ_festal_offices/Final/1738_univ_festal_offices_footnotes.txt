@@ -1,0 +1,65 @@
+# FOOTNOTES AND SCHOLARLY COMMENTARY
+
+
+
+[^1]: Inscription in twentieth-century archival pencil on the front pastedown: *мкду КН-46906 СД-707*, representing the catalog shelfmark of the Museum of the Book and Printing of Ukraine (Kyiv).
+
+[^2]: The title page bears the imprint of the Basilian Printing House of Univ Holy Dormition Monastery (*Типомъ издашася въ Манастырѣ Уневскомъ Чину Святаго Василіа Великаго*), dated 1738 (*Въ лѣто ѿ Воплощеніа Бга Слова ҂аѱли*).
+
+[^3]: Athanasius Sheptytsky (*Аѳанасій на Шептичахъ Шептицкій*, 1686–1746), Metropolitan of Kyiv, Galicia, and all Rus' (1729–1746), Bishop of Lviv, Halych, and Kamianets-Podilskyi, and Archimandrite of Univ and Kyiv Caves Monasteries.
+
+[^4]: Church Slavonic: *настоящїа тїесть* ('these present ones, that is to say', calquing Polish *to jest* / Latin *id est*), introducing the three feasts promulgated by Title III (*De Cultu Sanctorum et Festis*) of the 1720 Synod of Zamość: the Most Holy Mystery of the Eucharist, the Compassion of the Most Holy Theotokos, and the Blessed Hieromartyr Josaphat.
+
+[^5]: Church Slavonic: *р. в.*, an abbreviation for the Polish-Ruthenian chancery formula *ręką własną* / *рукою власною* ('with his own hand'), denoting the personal sign-manual of Archbishop-Metropolitan Athanasius Sheptytsky.
+
+[^6]: Church Slavonic: *Послѣдованіе Праздника Пресвятыя Тайны Евхаристіи*.
+
+[^7]: The Feast of the Most Holy Mystery of the Eucharist (the Byzantine-Ruthenian observance of Corpus Christi) was formally promulgated for the Ruthenian Church at the Synod of Zamość (1720, Title III), assigned to the Thursday after the Sunday of All Saints (that is, the second Thursday after Pentecost, precisely matching the Western Thursday after Trinity Sunday).
+
+[^8]: Septuagint Exodus 19:10–19 (in the Slavonic text rubricated as Exodus, chapter 24 or an opening lection), recording the theophany on Mount Sinai and the ritual sanctification of the people before the descent of God.
+
+[^9]: Septuagint 1 Kingdoms 21:1–6 (1 Samuel 21:1–6 Masoretic), David receiving the consecrated showbread from Ahimelech at Nob.
+
+[^10]: Septuagint 3 Kingdoms 19:3–8 (1 Kings 19:3–8 Masoretic), Elijah sustained by the hearth cake and cruse of water provided by the angel.
+
+[^11]: The text refers to the Philistine captivity of the Ark of the Covenant and the falling of Dagon in 1 Kingdoms 5 (1 Samuel 5).
+
+[^12]: The Festal Polyeleos Megalynarion for the Feast of the Most Holy Eucharist, composed specifically for the Ruthenian festal anthologia following the Synod of Zamość.
+
+[^13]: Church Slavonic: *Класъ вз̾расти́вшаѧ не ѡ҆ра́нный* ('who didst grow the unplowed ear of corn/wheat'), a classic Byzantine patristic and hymnographic epithet of the Theotokos as the untilled soil producing the Eucharistic Wheat (Christ).
+
+[^14]: Church Slavonic: *ꙋ҆мный Би́серъ* ('the spiritual/noetic Pearl'), patristic Eucharistic terminology designating the consecrated particle of the Holy Body.
+
+[^15]: The Slavonic text provides two alternative Refrains (*Припѣвы*) to be sung before the Heirmos and Troparia of Ode 9 of the Festal Canon of the Eucharist.
+
+[^16]: 1 Corinthians 11:23–32, the standard Pauline lection for Holy Thursday and the Feast of Corpus Christi, expounding the institution of the Holy Eucharist and the requirement of reverent self-examination before receiving the Holy Mysteries.
+
+[^17]: John 6:48–54, the Eucharistic discourse of the Lord from the Capernaum synagogue lectionary cycle, appointed for the Liturgy of the Feast of Corpus Christi.
+
+[^18]: In Genesis 27:28–39, Isaac blesses Jacob with "the dew of heaven, and the fatness of the earth, and plenty of corn and wine," and laments unto Esau that he has sustained Jacob with corn and wine. The Ruthenian hymnographer typologically interprets this blessing as prefiguring the Holy Eucharist.
+
+[^19]: Automela and Prosomoion for the continuing festal afterfeast offices (Monday of the Octave of the Most Holy Mystery of the Eucharist), demonstrating the full octave structure established for this feast by the Synod of Zamość.
+
+[^20]: Fol. 11 refers to the Saturday Vespers service, physical leaf p13.
+
+[^21]: Fol. 4 refers to the Litiya of the Feast of the Eucharist, physical leaf p6.
+
+[^22]: Fol. 3 refers to the First Vespers on Wednesday, physical leaf p5.
+
+[^23]: The printed heading opens directly with the Canon of the Theotokos (*КАНО́НЪ БЦ҃И*), preceded on fol. 9v by the catchword *ВОСЛѢ-* (*Вослѣдованіе*). The Synod of Zamość established the feast of the Compassion of the Most Holy Theotokos (*Состраданіе / Compassio B.M.V.*) on the Friday after the Octave of Corpus Christi.
+
+[^24]: Fol. 28 refers to the Troparion of the Compassion at Great Vespers, physical leaf p30.
+
+[^25]: The feast of Saint Josaphat Kuntsevych, Archbishop of Polotsk (beatified in 1643 by Pope Urban VIII), was prescribed by the Synod of Zamość (1720) for September 16, within the Afterfeast of the Universal Exaltation of the Precious Cross.
+
+[^26]: Fol. 13v refers to the Sticheron at "Lord, I have cried" of the Feast of Saint Josaphat, physical leaf p16.
+
+[^27]: The petition for the King (*Короля нашего*) reflects the contemporary political sovereign of the Polish-Lithuanian Commonwealth in 1738, King Augustus III (r. 1734–1763).
+
+[^28]: The Church Slavonic reads *крⷭтоѡбра́зно возлегъ на землѝ мл҃твꙋ творѧ̀* ("lying cruciformly upon the earth making prayer"), referring to Saint Josaphat's well-documented ascetic practice of praying prostrated with arms outstretched in the form of the Cross.
+
+[^29]: The hymn text attributes this citation to "Solomon of the Jews in the Psalms" (*ꙗ҆́коже Соло́мѡнъ І҆ꙋдѣ́ѡвъ речѐ въ Ѱалмѣ́хъ*); however, the quotation is taken directly from Psalm 82:3–5 LXX (Psalm 83:2–4 Masoretic): "For lo, Thine enemies have made a noise, and they that hate Thee have lifted up the head. They have taken crafty counsel against Thy people... They have said: Come, and let us destroy them from among the nations, and let the name of Israel be remembered no more."
+
+[^30]: The printed Apostol rubric designates this reading as Pericope 334 (*Зача́ло тл҃д*), covering Hebrews 4:14–5:10. In standard Slavic liturgical Apostol pericope numbering, this reading corresponds to Pericope 314 (*Зача́ло т҃ді*), prescribed for the Common of a Hieromartyr.
+
+[^31]: The rear flyleaf and pasteboard binding mark the physical completion of this copy of the 1738 Univ Monastery edition (*Вослѣдованія праздникомъ*, Univ: Basilian Monastery Press, 1738), preserved in the National Museum of the Book and Printing of Ukraine (Kyiv), Inventory No. SD-707.

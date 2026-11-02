@@ -1,0 +1,24 @@
+{
+  "monument_id": "1738_univ_festal_offices",
+  "cohorts": {
+    "1": {
+      "timestamp": "2026-11-01T18:45:42.608773+00:00",
+      "repairs_applied": [
+        "vocabulary_and_slop_body",
+        "vocabulary_and_slop_footnotes",
+        "epigraphic_headings"
+      ],
+      "any_modified": true
+    },
+    "2": {
+      "timestamp": "2026-11-01T19:12:18.366109+00:00",
+      "repairs_applied": [
+        "vocabulary_and_slop_body",
+        "vocabulary_and_slop_footnotes",
+        "hieratic_pronouns"
+      ],
+      "any_modified": true
+    }
+  },
+  "updated_at": "2026-11-01T19:12:18.366121+00:00"
+}
