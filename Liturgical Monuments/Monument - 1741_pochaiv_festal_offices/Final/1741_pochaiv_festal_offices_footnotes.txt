@@ -1,0 +1,109 @@
+# FOOTNOTES AND SCHOLARLY COMMENTARY
+
+
+
+[^1]: Archival shelfmark of the Museum Book Depository of Ukraine (MKDU / *Музейна книга-депозитарій України*): inventory number KM-2206, collection fund SF 255/1-2.
+
+[^2]: *Compassion of the Most Holy Theotokos* (*Состраданіе Пресвятыя Богородицы* / *Compassio Beatae Mariae Virginis*, also known as Our Lady of Sorrows), instituted for the Ruthenian Church by the Synod of Zamość (1720, Title III, §4).
+
+[^3]: Saint Josaphat Kuntsevych, Archbishop of Polotsk, martyred in Vitebsk on November 12, 1623; beatified by Pope Urban VIII in 1643.
+
+[^4]: The Provincial Synod of Zamość (*Synodus Provincialis Zamoscena*), held in 1720 under Metropolitan Leo Kishka, standardized Ruthenian liturgical usage and decreed the universal celebration of these festal offices throughout the Kyivan Metropolia.
+
+[^5]: The printing house of the Holy Dormition Lavra in Pochaiv was transferred to the Basilian Order (OSBM) in the 1730s and became the preeminent publisher of liturgical books in Western Ukraine.
+
+[^6]: Church Slavonic alphanumeric dating `҂аѱма` corresponds to 1741 (`҂а` = 1000, `ѱ` = 700, `м` = 40, `а` = 1).
+
+[^7]: 18th-century Polish manuscript provenance inscription indicating the book's contents and origin: *"This is the Book of Services... issued [by the authority of] the Synod of Zamość..."*
+
+[^8]: Feast of the Most Holy Mystery of the Eucharist (Corpus Christi / *Боже Тѣло*), observed on the Thursday following All Saints Sunday (the octave of Pentecost) in the Ruthenian liturgical calendar, as mandated by the Synod of Zamość.
+
+[^9]: The festal hymnography for Corpus Christi was newly composed for the Ruthenian Church in the 18th century, drawing upon the Latin office of St. Thomas Aquinas while adapting it to Byzantine hymnographic meters and the Eight Tones.
+
+[^10]: The hymnography of the festal canon for the Most Holy Mystery of the Eucharist was composed following the Nine Odes structure of Byzantine hymnody, using the Heirmoi of Tone 2 from the Octoechos with the Katavasia of the Theotokos ("I shall open my mouth").
+
+[^11]: Folio 5r (physical leaf p8 of the codex).
+
+[^12]: The festal pericope from 1 Corinthians 11 is the classic Pauline account of the institution of the Holy Eucharist at the Mystical Supper, read at the Divine Liturgy on Holy Thursday and on the Feast of Corpus Christi.
+
+[^13]: The evening service on the day of the feast continues the festal cycle of Corpus Christi, featuring newly composed idiomela celebrating Christ as the High Priest after the order of Melchizedek (Hebrews 7:17; Psalm 109:4).
+
+[^14]: Allusion to Philippians 2:10 in the post-festal hymnography of the Holy Eucharist.
+
+[^15]: The Church Slavonic printed witness reads `неневи́тно` (an orthographic corruption/hapax for `неиспы́тно` / *ineffably* or `несли́тно` / *unconfusedly*).
+
+[^16]: Folio 2v (physical leaf p4 of the codex, containing the Stichera at "Lord, I have cried" for Wednesday evening).
+
+[^17]: Allusion to Genesis 27:28–37, where Isaac's patriarchal blessing of Jacob with corn and wine is interpreted typologically as a mystical figure of the Eucharist.
+
+[^18]: The vision of the Heavenly Liturgy in Revelation 4:4 and 5:6–14 applied to the Divine Liturgy and the presence of the Lamb upon the Holy Table.
+
+[^19]: Folio 2v (physical leaf p4).
+
+[^20]: Folio 2v–3r (physical leaves p4–p5).
+
+[^21]: Folio 6v (physical leaf p9).
+
+[^22]: The hymnographic formulation reflects the classical Ruthenian Eucharistic synthesis after the Synod of Zamość, confessing the whole Christ (*totus Christus*—Divinity, Flesh, and Soul) present under each Eucharistic species and particle.
+
+[^23]: Folio 11r (physical leaf p14).
+
+[^24]: Folio 5r (physical leaf p8).
+
+[^25]: Folio 2v (physical leaf p4).
+
+[^26]: Rubrical instruction for the Octave / Apodosis (*Apodosis* / *Отданіе*) of the Feast of the Most Holy Mystery of the Eucharist (Corpus Christi), observed on the octave day (the following Thursday).
+
+[^27]: Feast of the Compassion of the Most Holy Theotokos (*Состраданіе Пресвятыя Богородицы* / *Compassio Beatae Mariae Virginis*, Our Lady of Sorrows), decreed by the Synod of Zamość (1720) to be celebrated universally across the Ruthenian Church on the Friday after the Octave of Corpus Christi (Friday of the second week after Pentecost / All Saints).
+
+[^28]: Lamentations 1:1–2, 1:9, 1:12–13, 1:16–17, 1:20 (LXX versification), the classical festal Paremia prophesying the desolation of Zion, applied typologically to the sorrow of the Mother of God at the Cross.
+
+[^29]: Lamentations 2:13, 2:15, 2:17–19; 3:1, 3:7, 3:12–13, 3:19–21, 3:22–26 (LXX versification).
+
+[^30]: Lamentations 3:40–41, 3:55–59, 3:64; 4:1–2, 4:7; 4:20; 5:19, 5:21 (LXX versification). The phrase "the breath of our nostrils, the anointed of the Lord, was taken in their pits" (Lamentations 4:20) is a famous Christological and Patristic prophecy of the Passion.
+
+[^31]: Festal Troparion of the Compassion of the Most Holy Theotokos, meditating on the scene at the Cross with the Virgin Mother and John the Beloved Disciple (John 19:25–27).
+
+[^32]: The festal Matins Gospel for the Compassion of the Mother of God is the Johannine account of the Mother of God at the foot of the Cross (John 19:25–27).
+
+[^33]: Sessional hymn alluding to Psalm 82:17 (LXX: "Fill their faces with dishonor; and they shall seek Thy Name, O Lord").
+
+[^34]: The Ikos of the festal canon of the Compassion of the Most Holy Theotokos directly incorporates the dramatic poetic dialogue from the ancient Kontakion of St. Romanos the Melodist (*On Mary at the Cross*), drawing a striking contrast between Christ's first miracle at Cana in Galilee (turning water into wine) and His swift course to the Cross.
+
+[^35]: Ode 9 concludes the body of the festal canon with double heirmoi and refrains, anticipating the concluding Exapostilarion (*Свѣтиленъ*), Praises, and Divine Liturgy of the Compassion of the Mother of God.
+
+[^36]: Folio 14r (physical leaf p16 of the codex), containing the festal Troparion of the Compassion of the Most Holy Theotokos (*Со оученико́мъ Дѣ́вственникомъ* / *With the virgin disciple*).
+
+[^37]: Judith 13:17–20 (LXX / Ruthenian Vulgate), appointed as the solemn Festal Epistle Reading (*Вмѣсто Апостола*) for the Feast of the Compassion of the Most Holy Theotokos, typologically applying Judith's deliverance of Bethulia to the Virgin Mother crushing the power of the adversary.
+
+[^38]: Feast of the Blessed Hieromartyr Josaphat Kuntsevych (1580–1623), Archbishop of Polotsk, Vitebsk, and Mstislav, beatified by Pope Urban VIII on May 16, 1643. The Provincial Synod of Zamość (1720) instituted his universal festal commemoration across the Ruthenian Uniate Church on September 16 (the post-festal octave of the Elevation of the Holy Cross).
+
+[^39]: Proverbs 10:7; 3:13–18; 8:1–10 (LXX versification), composite Wisdom reading traditionally appointed in Ruthenian and Byzantine Menaia for Holy Hierarchs and Martyrs.
+
+[^40]: Wisdom 4:7; 6:12–16; 7:25–8:1; 2:12–24 (LXX composite Paremia), read at Great Vespers for Hieromartyrs, prophesying the persecution, trial, and martyrdom of the righteous by the ungodly.
+
+[^41]: Wisdom 4:7, 16–19; 5:1–7 (LXX), the classic festal Paremia contrasting the ultimate boldness and triumph of the martyred righteous with the terror and repentance of their persecutors.
+
+[^42]: Allusion to the schismatic factions and anti-Union violence centered in Kyiv and the Dnieper region during the early 17th century, which Josaphat resisted through his preaching and pastoral ministry.
+
+[^43]: Festal Troparion of Blessed Hieromartyr Josaphat, Tone 4 (*Свѣти́льникъ свѣ́тлый*), summarizing his martyrdom at Vitebsk (November 12, 1623) for the unity of the Church and his entrance into the heavenly Holy of Holies.
+
+[^44]: The Church Slavonic reads `ѡско́рдомъ` (*oskordom*), referring to the broadaxe / halberd with which Archbishop Josaphat was struck in the head during the riot at Vitebsk on November 12, 1623.
+
+[^45]: Historical witness to the events following the martyrdom: Josaphat's body was tied to a heavy stone and cast into the Western Dvina River (Dzvina), but according to contemporary accounts a miraculous column of light revealed its location beneath the water, allowing the Uniate faithful to recover his incorrupt relics.
+
+[^46]: Festal Kontakion of St. Josaphat, Tone 4 (*Зѧре́ю ѻ́гненною*), commemorating the miraculous vision of his youth when a fiery ember from the crucifix in the Church of St. Sophia in Volodymyr entered into his heart, inspiring his monastic and hierarchic vocation.
+
+[^47]: St. Josaphat is compared to St. John the Theologian (*с Бгослово́мъ*), whose defense of Catholic communion and primacy was sealed by Josaphat's pastoral letters, canonical synodal decrees, and martyric death.
+
+[^48]: The phrase "tri-natural solemnity" (*трїесте́ственное сѐ торжество̀*) is an epigraphic witness reflecting the threefold festal synthesis decreed by the Synod of Zamość: the Holy Eucharist, the Compassion of the Mother of God, and the Hieromartyr Josaphat.
+
+[^49]: In the 1741 Pochaiv edition, the petition "establish our King" (*Королѧ̀ на́шего оу҆твердѝ*) invokes the reigning Polish-Lithuanian monarch (King Augustus III, r. 1734–1763), under whose royal privilege and protection the Basilian Printing House operated.
+
+[^50]: A vivid colometric and hymnographic narrative of Josaphat's martyrdom in Vitebsk on November 12, 1623, drawing on Psalm 73:4 and 82:4–5, describing how his murderers cleaved his skull with an axe, dragged his mutilated body through the streets, weighted it with stones, and threw it from the high bank into the Dvina River.
+
+[^51]: The official woodcut emblem of the Basilian Order of Saint Basil the Great (OSBM), prominently displaying the fiery pillar (*столпъ огненный*), symbol of Saint Basil the Great, within a Baroque wreath supported by putti. This device marks the official colophon-terminus of the festal liturgical collection promulgated by the Synod of Zamość.
+
+[^52]: St. Peter, Metropolitan of Kyiv and All Rus (c. 1260–1326), born in Volhynia, who transferred the metropolitan see from Vladimir to Moscow in 1325. This single leaf (bearing the printed folio number `рѕ҃і` = 116) represents an independent supplementary liturgical printing bound into the codex by the Pochaiv Lavra binder.
+
+[^53]: Internal folio cross-reference in the original printed book: `И҆щѝ Ли́стъ, ст` (*seek at fol. 200 / fol. 100*), directing the reader to the common readings for Hierarchs in the complete Menaion / Trebnik corpus.
