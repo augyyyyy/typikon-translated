@@ -1,0 +1,74 @@
+[^1273]: Physical leaf p191 (Fol. 95r). Troparion conclusion from Ode 5 of the Saint's Canon, completing the sentence begun on p190 (Fol. 94v).
+[^1274]: Physical leaf p191 (Fol. 95r). Troparion from Ode 5 of the Canon of the Saint.
+[^1275]: Physical leaf p191 (Fol. 95r). Troparion from Ode 5 of the Canon of the Saint.
+[^1276]: Physical leaf p191 (Fol. 95r). Theotokion from Ode 5 of the Canon of the Saint.
+[^1277]: Physical leaf p191 (Fol. 95r). Heirmos from Ode 6 of the Canon of the Exaltation of the Cross (Tone 8).
+[^1278]: Physical leaf p191 (Fol. 95r). First troparion from Ode 6 of the Canon of the Exaltation of the Cross.
+[^1279]: Physical leaf p191 (Fol. 95r). Second troparion from Ode 6 of the Canon of the Exaltation of the Cross.
+[^1280]: Physical leaf p191 (Fol. 95r). Heirmos from Ode 6 of the Canon of the Saint (Tone 4).
+[^1281]: Physical leaf p191 (Fol. 95r). First troparion from Ode 6 of the Canon of the Saint.
+[^1282]: Physical leaf p191 (Fol. 95r). Second troparion from Ode 6 of the Canon of the Saint.
+[^1283]: Physical leaf p191 (Fol. 95r). Theotokion from Ode 6 of the Canon of the Saint.
+[^1284]: Physical leaf p192 (Fol. 95v). Kontakion of St. Nicetas the Great-Martyr, Tone 2.
+[^1285]: Physical leaf p192 (Fol. 95v). Ikos of St. Nicetas the Great-Martyr.
+[^1286]: Physical leaf p192 (Fol. 95v). Heirmos from Ode 7 of the Canon of the Exaltation of the Cross (Tone 8).
+[^1287]: Physical leaf p192 (Fol. 95v). First troparion from Ode 7 of the Canon of the Exaltation of the Cross.
+[^1288]: Physical leaf p192 (Fol. 95v). Second troparion from Ode 7 of the Canon of the Exaltation of the Cross. The printed Church Slavonic text reads "ѕловѣ́рну" (unto the thief of evil faith / ill-believing), witnessing the recensional variant where other editions read "благодѣ́рну" or "благовѣ́рну" (well-believing), highlighting the thief's prior wicked disposition transformed by repentance.
+[^1289]: Physical leaf p192 (Fol. 95v). Third troparion from Ode 7 of the Canon of the Exaltation of the Cross.
+[^1290]: Physical leaf p192 (Fol. 95v). Heirmos from Ode 7 of the Canon of the Saint (Tone 4).
+[^1291]: Physical leaf p193 (Fol. 96r). First troparion from Ode 7 of the Canon of the Saint.
+[^1292]: Physical leaf p193 (Fol. 96r). Second troparion from Ode 7 of the Canon of the Saint.
+[^1293]: Physical leaf p193 (Fol. 96r). Theotokion from Ode 7 of the Canon of the Saint.
+[^1294]: Physical leaf p193 (Fol. 96r). Heirmos from Ode 8 of the Canon of the Exaltation of the Cross (Tone 8).
+[^1295]: Physical leaf p193 (Fol. 96r). First troparion from Ode 8 of the Canon of the Exaltation of the Cross.
+[^1296]: Physical leaf p193 (Fol. 96r). Second troparion from Ode 8 of the Canon of the Exaltation of the Cross.
+[^1297]: Physical leaf p193 (Fol. 96r). Third troparion from Ode 8 of the Canon of the Exaltation of the Cross.
+[^1298]: Physical leaf p193 (Fol. 96r). Heirmos from Ode 8 of the Canon of the Saint (Tone 4).
+[^1299]: Physical leaf p193 (Fol. 96r). First troparion from Ode 8 of the Canon of the Saint.
+
+[^1300]: Physical leaf p194 (Fol. 96v). Conclusion of the second troparion from Ode 8 of the Canon of the Saint, completing the sentence begun on p193 (Fol. 96r).
+[^1301]: Physical leaf p194 (Fol. 96v). Third troparion from Ode 8 of the Canon of the Saint.
+[^1302]: Physical leaf p194 (Fol. 96v). Theotokion from Ode 8 of the Canon of the Saint.
+[^1303]: Physical leaf p194 (Fol. 96v). Heirmos from Ode 9 of the Canon of the Exaltation of the Cross (Tone 8).
+[^1304]: Physical leaf p194 (Fol. 96v). First troparion from Ode 9 of the Canon of the Exaltation of the Cross.
+[^1305]: Physical leaf p194 (Fol. 96v). Second troparion from Ode 9 of the Canon of the Exaltation of the Cross.
+[^1306]: Physical leaf p194 (Fol. 96v). Heirmos from Ode 9 of the Canon of the Saint (Tone 4).
+[^1307]: Physical leaf p194 (Fol. 96v). First troparion from Ode 9 of the Canon of the Saint.
+[^1308]: Physical leaf p194 (Fol. 96v). Second troparion from Ode 9 of the Canon of the Saint.
+[^1309]: Physical leaf p194 (Fol. 96v). Third troparion from Ode 9 of the Canon of the Saint.
+[^1310]: Physical leaf p194 (Fol. 96v). Theotokion from Ode 9 of the Canon of the Saint.
+[^1311]: Physical leaf p195 (Fol. 97r). Exapostilarion of St. Nicetas the Great-Martyr.
+[^1312]: Physical leaf p195 (Fol. 97r). Doxastikon of the Cross at the Exapostilaria.
+[^1313]: Physical leaf p195 (Fol. 97r). First Sticheron at the Aposticha, Tone 2, Podoben: "O House of Ephratha".
+[^1314]: Physical leaf p195 (Fol. 97r). Second Sticheron at the Aposticha.
+[^1315]: Physical leaf p195 (Fol. 97r). Third Sticheron at the Aposticha.
+[^1316]: Physical leaf p195 (Fol. 97r). Glory at the Aposticha, Tone 2, of the Saint.
+[^1317]: Physical leaf p195 (Fol. 97r). Both now at the Aposticha, Tone 2, of the Cross.
+[^1318]: Physical leaf p195 (Fol. 97r). Liturgical rubrics for the Divine Liturgy on September 15.
+[^1319]: Physical leaf p196 (Fol. 97v). Alleluia, Gospel, and Communion hymn rubrics for the Divine Liturgy on September 15.
+[^1320]: Physical leaf p196 (Fol. 97v). Lectionary rubric for the Saturday after the Exaltation.
+[^1321]: Physical leaf p196 (Fol. 97v). Lectionary rubric for the Sunday after the Exaltation.
+[^1322]: Physical leaf p196 (Fol. 97v). Typikon rubric governing the liturgical order when the Feast of the Exaltation falls on a Saturday.
+[^1323]: Physical leaf p196 (Fol. 97v). Typikon rubric governing the order when the After-feast of the Exaltation falls on a Sunday, opening Small Vespers.
+[^1324]: Physical leaf p196 (Fol. 97v). Typikon rubric for Great Vespers when the After-feast of the Exaltation falls on a Sunday.
+
+[^1325]: Physical leaf p197 (Fol. 98r). Typikon rubric governing the order of Matins and the Hours when the After-feast of the Exaltation falls on a Sunday.
+[^1326]: Physical leaf p197 (Fol. 98r). Typikon rubric governing the Divine Liturgy when the After-feast of the Exaltation falls on a Sunday.
+[^1327]: Physical leaf p198 (Fol. 98v). Heading and rubrical notice for September 16: The Holy Great-Martyr Euphemia the All-Praised, and the Holy Hieromartyr Josaphat, Archbishop of Polotsk, whose service is postponed after the present office.
+[^1328]: Physical leaf p198 (Fol. 98v). First Sticheron of the Feast at "Lord, I have cried", Tone 4, Podoben: "Thou hast given a sign".
+[^1329]: Physical leaf p198 (Fol. 98v). Second Sticheron of the Feast at "Lord, I have cried".
+[^1330]: Physical leaf p198 (Fol. 98v). Third Sticheron of the Feast at "Lord, I have cried".
+[^1331]: Physical leaf p198 (Fol. 98v). First Sticheron of the Saint at "Lord, I have cried", Tone 4, Podoben: "As noble".
+[^1332]: Physical leaf p198 (Fol. 98v). Second Sticheron of the Saint at "Lord, I have cried".
+[^1333]: Physical leaf p199 (Fol. 99r). Conclusion of the third Sticheron of the Saint at "Lord, I have cried", completing the sentence begun on p198 (Fol. 98v). The text witnesses the miracle of St. Euphemia preserving the scroll of the dogmas of the Fourth Ecumenical Council of Chalcedon (451 AD).
+[^1334]: Physical leaf p199 (Fol. 99r). Glory at "Lord, I have cried", Tone 6, of the Saint.
+[^1335]: Physical leaf p199 (Fol. 99r). Both now at "Lord, I have cried", Tone 6, of the Cross.
+[^1336]: Physical leaf p199 (Fol. 99r). First Sticheron at the Aposticha, Tone 6, Podoben: "On the third day".
+[^1337]: Physical leaf p199 (Fol. 99r). Second Sticheron at the Aposticha.
+[^1338]: Physical leaf p199 (Fol. 99r). Third Sticheron at the Aposticha.
+[^1339]: Physical leaf p199 (Fol. 99r). Glory at the Aposticha, Tone 8, of the Saint, by Byzantios.
+[^1340]: Physical leaf p200 (Fol. 99v). Conclusion of Both now at the Aposticha, Tone 8, by the Studite Monk, completing the sticheron begun on p199 (Fol. 99r).
+[^1341]: Physical leaf p200 (Fol. 99v). Dismissal Troparion of St. Euphemia the Great-Martyr, Tone 4.
+[^1342]: Physical leaf p200 (Fol. 99v). Sessional Hymn after the first Kathisma reading, Tone 3, Podoben: "At the beauty of thy virginity".
+[^1343]: Physical leaf p200 (Fol. 99v). Sessional Hymn after the second Kathisma reading, Tone 6, Podoben: "Hope of the world". The printed text witnesses "бл҃гоче́стнѡ" (piously).
+[^1344]: Physical leaf p200 (Fol. 99v). Heirmos from Ode 1 of the Canon of the Exaltation of the Cross (Tone 8).

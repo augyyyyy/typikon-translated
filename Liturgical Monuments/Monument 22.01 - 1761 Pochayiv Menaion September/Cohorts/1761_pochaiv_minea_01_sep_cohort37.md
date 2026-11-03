@@ -1,0 +1,143 @@
+=== LEAF p361 ===
+...for of sinners thou art the cleansing, and the salvation of the faithful, and the defense.[^2275]
+
+*Stavrotheotokion:*
+
+Having in the last times given birth in the flesh unto Him Who was born of the unoriginate Father, beholding Thee hanging upon the Cross, O Christ, she cried out: Woe is me, O most beloved Jesus! How is it that Thou, Who art glorified as God by the Angels, art now willingly crucified by lawless men, O my Son? I hymn Thee, O longsuffering One![^2276]
+
+*Ode 4. Heirmos:*
+
+Sitting in glory upon the throne of the Godhead, Jesus the most divine came on a swift cloud with an incorrupt palm, and saved those who cry: Glory to Thy power, O Christ![^2277]
+
+*Troparia:*
+
+The High Lord Most High in glory led thee up unto the conspicuous height of martyrdom, O glorious one; whose sufferings thou didst rejoice to depict, O hieromartyr, crying: Glory to Thy power, O Christ!
+
+By divine power thou didst cast down the destroyer, the godless enemy of all the Armenian land; and shining forth like a ray of dawn, thou didst enlighten those lying in darkness, O wise illuminator.
+
+Many times multiplied hast thou brought thy talent unto the Creator through those saved by thy divine teachings, O Gregory; and thou hast received the kingdom that is in the heavens, and radiance.
+
+*Theotokion:*
+
+As good, as chosen, and as beautiful did the maiden-virgins who suffered with Rhipsime love thee, O Virgin-Mother Mary; and they were brought after thee, rejoicing unto thy Son.
+
+*Ode 5. Heirmos:*
+
+Send down Thy enlightenment upon us, O Lord, and loose us from the gloom of transgressions, O Good One, granting Thy peace.[^2278]
+
+*Troparia:*
+
+Manifestly didst thou behold the cross-revealed sign visibly shining with light, and dissolving the night of idolatry, making the faithful children of light.
+
+From the lowest pit Christ God saved thee, while thou wast with wild beasts through the course of years: intending by the light of the divine word to enlighten the senseless.
+
+Having struggled as a martyr, thou wast crowned as a victor; and being anointed with the chrism of the high priesthood, thou didst anoint the people, having delivered them from foul-smelling deception, O Gregory.
+
+*Theotokion:*
+
+Having perceived the fragrance of the myrrh of the Word Who shone forth from thee, O pure Virgin, by struggles of martyrdom the virgins pleased Him well, rejoicing.
+
+=== LEAF p362 ===
+*Ode 6. Heirmos:*
+
+Prefiguring the three-day burial, the Prophet Jonah cried aloud, praying in the sea-monster: Deliver me from corruption, O Jesus, King of powers![^2279]
+
+*Troparia:*
+
+By the power of thy words the heathen altars were destroyed, and the unstable demonic idols were overthrown, and the hearts of the faithful were established in divine desire.
+
+Like a bound boar, thou didst lead Tiridates as a lamb unto the Lord, who before was a fierce wolf, now being saved through the great riches of the loving-kindness of God.[^2280]
+
+Thou didst show unto the straying the divine path, having perfected them by undeceitful teachings as a shepherd, O hierarch, imitating the true Shepherd, O Gregory.
+
+*Theotokion:*
+
+When Rhipsime learned that He Who was incarnate of thee, O Birthgiver of God, was crucified, she hastened to be co-crucified with Him as a ewe-lamb unto the Shepherd, as a spotless sacrifice unto God.
+
+*Kontakion, Tone 2, Podoben: "The firm" (Тве́рдыя):*
+
+Today let all us faithful praise in hymns and chants the glorious hierarch as a sufferer for the truth, the vigilant shepherd and teacher, Gregory, the universal luminary and champion: for he prays unto Christ, that our souls may be saved.[^2281]
+
+*Ikos:*
+
+Let us praise in songs this great one among sufferers, the divine luminary of Armenia, the faithful shepherd and teacher, and with divine hymns let us crown his head; for he destroyed the darkness of idolatrous godlessness, and together with it put to death all demonic working. Therefore having endured labors with a firm mind and by grace, he now prays unto Christ, that we may be saved.
+
+*Ode 7. Heirmos:*
+
+Of old in Babylon the Abrahamic children trampled upon the furnace flame, calling out with hymns: Blessed art Thou, O God of our fathers![^2282]
+
+*Troparia:*
+
+Having endured manifold torments, O martyr, thou didst free many from torments and from future sorrow, crying: Blessed art Thou, O God of our fathers!
+
+Having made thyself a dwelling of the Trinity, O blessed one, thou didst demolish the temples of idols, and didst erect temples unto the all-seeing Word, for the salvation of the people.
+
+A celebrant of sacred rites wast thou shown to be, and having before fervently offered the mystic sacrifice unto thy Master, later sacrificing unto Him, thou dost give Him unto the pious, for the salvation of souls.
+
+*Theotokion:*
+
+=== LEAF p363 ===
+...Adorned with crowns of martyrdom, the maidens were brought unto Christ Who shone forth from the Virgin, crying in hymnody: Blessed art Thou, O Christ![^2283]
+
+*Ode 8. Heirmos:*
+
+O almighty Redeemer of all, having descended into the midst of the flame, Thou didst bedew those who acted piously, and didst teach them to sing: Bless the Lord, all ye works, sing praise unto the Lord![^2284]
+
+*Troparia:*
+
+Having suffered lawfully, thou didst put the lawless enemies most powerfully to shame, O sacred minister Gregory; and thou didst bring unto Christ a multitude of those who sing: Bless the Lord, all ye works of the Lord, sing praise unto the Lord!
+
+Having plowed the barren field, thou didst sow the rational seeds, and didst reap a hundredfold the spiritual harvest of ears of grain, having enriched it, O tiller of souls.
+
+By the brightness of thy words thou didst enlighten and draw many from darkness unto Him Who for our sake willingly endured sufferings, unto Whom we sing: Bless the Lord, all ye works of the Lord, sing praise unto the Lord!
+
+*Theotokion:*
+
+Neither fearing the multitude of torments, nor submitting unto carnal pleasures, Rhipsime confessed the Son, the Lord born of the Virgin, crying: Bless the Lord, all ye works of the Lord, sing praise unto the Lord!
+
+*Ode 9. Heirmos:*
+
+Eve indeed, through the disease of disobedience, brought in the curse; but thou, O Virgin Birthgiver of God, through the burgeoning of childbearing, hast blossomed forth blessing unto the world: therefore we all magnify thee.[^2285]
+
+*Troparia:*
+
+Crowned with the power of Christ, thou didst endure the pains of torments, and didst destroy the demonic shrines, and didst dig up the idol temples; and those abiding in unbelief thou didst enlighten, O all-honored hieromartyr.
+
+Like the dawn thy memory has shone forth upon us, bearing the radiance of graces; for thou wast shown to be a receptacle of the divine Light, and hast ascended unto the unwaning Light, richly illuminated with divine outpourings of light, O venerable one.
+
+Thou wast shown to be a companion of the prophets, a fellow-partaker with the martyrs and the apostles, with hierarchs and venerable ones, equal in standing with angels and archangels; with them, O father, pray unto the Lover of mankind for us who honor thee.
+
+The venerable women triumphed, setting right the fall of Eve; they endured the surging tempest of afflictions, and with their most beautiful feet crushed him who boasts himself exceedingly on high: whom we worthily call blessed.[^2286]
+
+*Theotokion:*
+
+
+=== LEAF p364 ===
+...Illuminated by the light of the countenance of Him Who shone forth from thee, O Ever-Virgin, by unrestrained love Rhipsime depicted in her own flesh the sufferings and death of God; therefore together with thee, O Lady, she is now magnified.[^2287]
+
+*Exapostilarion, Podoben: "With the disciples" (Оу҆ченика́мъ):*
+
+Let us praise the glorious Gregory, who was steadfastly shut up in the pit with wild beasts, who transformed the persecutor Tiridates into a wild boar, and proclaimed the word of enlightenment unto all the earth.[^2288]
+
+*Theotokion:*
+
+Thou art the comfort of all creation, O Birthgiver of God, who didst give birth unto Christ; Him do thou pray, that this thy little flock may be preserved unharmed from every assault of the adversary.[^2289]
+
+*At the Liturgy. The Beatitudes of the Octoechos on 4, and of the Saint, Ode 6 on 4.*
+
+*Prokeimenon, Tone 7:* Precious in the sight of the Lord is the death of His venerable ones.[^2290]
+
+*Verse:* What shall I render unto the Lord for all that He has rendered unto me?[^2291]
+
+*The Epistle to the Corinthians, zachalo 136 [1 Cor. 6:20–7:12]:*[^2292]
+
+*Alleluia, Tone 2:* Thy priests shall clothe themselves with righteousness, and Thy venerable ones shall rejoice.[^2293]
+
+*The Gospel according to Matthew, zachalo 103 [Matt. 24:42–47]:*[^2294]
+
+*Communion Verse:* In everlasting memory shall the righteous be.[^2295]
+
+*[Typographical Woodcut Fleuron / Cul-de-lampe]*
+
+=== LEAF p365 ===
+*(Vacat — Blank page)*

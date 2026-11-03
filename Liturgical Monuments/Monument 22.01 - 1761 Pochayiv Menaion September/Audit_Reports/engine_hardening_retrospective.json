@@ -1,0 +1,46 @@
+{
+  "monument_id": "1761_pochaiv_minea_01_sep",
+  "title": "1761 Pochayiv Menaion — Vol. 1: September (Pochayiv Lavra, 1761)",
+  "monument_type": "anthologion",
+  "genre_register": "hymnographic",
+  "retrospective_timestamp": "2026-11-03T04:40:44.996371+00:00",
+  "codicological_profile": {
+    "total_physical_leaves": 365,
+    "cohort_count": 37,
+    "default_cohort_size": 10,
+    "monument_type": "anthologion"
+  },
+  "subagent_execution_telemetry": {
+    "total_cohorts_dispatched": 37,
+    "worker_model": "flash",
+    "cohorts_passing_gate_100pct": 37,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.097,
+      "median_cohort_ratio": 1.174,
+      "max_cohort_median": 1.26
+    }
+  },
+  "argon_review_queue_telemetry": {
+    "total_items_recorded": 146,
+    "resolved_by_argon": 3,
+    "info_telemetry_only": 143,
+    "unresolved_quarantines": 0,
+    "codicological_crux_count": 0
+  },
+  "final_publication_verification": {
+    "parts_count": 2,
+    "parts": [
+      "1761_pochaiv_minea_01_sep_part0_front_matter.md",
+      "1761_pochaiv_minea_01_sep_part1_month-of-september.md"
+    ],
+    "total_footnotes_verified": 2295,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.097,
+      "median_cohort_ratio": 1.174,
+      "max_cohort_median": 1.26
+    },
+    "all_6_publication_gates_passed": true
+  },
+  "edge_cases_and_anomalies": [],
+  "engine_hardening_proposals": []
+}

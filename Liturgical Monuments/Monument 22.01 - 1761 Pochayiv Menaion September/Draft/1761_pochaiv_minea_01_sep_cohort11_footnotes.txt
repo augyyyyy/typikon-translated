@@ -1,0 +1,116 @@
+[^418]: Typikon rubric for the occurrence of the feast of the Nativity of the Most Holy Birthgiver of God on a Sunday.
+[^419]: Typikon rubric for Small Vespers on Saturday evening when the feast coincides with Sunday.
+[^420]: Rubric for the Aposticha, Troparia, and Dismissal at Small Vespers.
+[^421]: Rubric for Great Vespers, Litiya, and Artoklasia when the feast concurs with Sunday.
+[^422]: Rubric for the conclusion of the First Hour and alternating Kontakia throughout the Hours.
+[^423]: Liturgy rubrics for the concurrence of the feast of the Nativity with the Sunday before the Exaltation.
+[^424]: Typikon rubric governing any day of the Afterfeast of the Nativity of the Birthgiver of God when it falls on a Sunday.
+[^425]: Small Vespers rubric for an Afterfeast Sunday.
+[^426]: Great Vespers, Litiya, Aposticha, and Artoklasia for an Afterfeast Sunday.
+[^427]: Matins Praises, Great Doxology, and Hours rubrics for an Afterfeast Sunday.
+[^428]: Liturgy rubrics, Beatitudes, Entrance order, and combined Scripture pericopes for an Afterfeast Sunday.
+[^429]: Rubrical heading and Liturgy order for the Saturday before the Exaltation of the Precious Cross.
+[^430]: LXX Ps. 46:6.
+[^431]: LXX Ps. 46:1.
+[^432]: 1 Cor. 2:6-9 (Pericope 126).
+[^433]: LXX Ps. 88:1.
+[^434]: Matt. 10:37-11:1 (Pericope 34).
+[^435]: Rubric for combining the Saturday pericopes under a single incipit (*подъ зача́ло*).
+[^436]: Typikon rubric for the occurrence of the Apodosis of the Nativity of the Birthgiver of God on the Saturday before the Exaltation.
+[^437]: Rubrical heading for the Sunday before the Exaltation of the Precious Cross.
+[^438]: Rubric for the Matins commentary reading on the Sunday before the Exaltation.
+[^439]: LXX Ps. 27:1.
+[^440]: Gal. 6:11-18 (Pericope 215).
+[^441]: LXX Ps. 88:20.
+[^442]: John 3:13-17 (Pericope 9).
+[^443]: Liturgy rubric concluding the Sunday before the Exaltation.
+[^444]: Calendar title for September 9.
+[^445]: Commemoration of the Holy and Righteous Ancestors of God Joachim and Anna, and the Holy Martyr Severian of Sebaste.
+[^446]: Opening Vespers rubric and Prosomoia for the feast of the Ancestors of God Joachim and Anna.
+[^447]: First sticheron of the feast at "Lord, I have cried."
+[^448]: Second sticheron of the feast at "Lord, I have cried."
+[^449]: Third sticheron of the feast at "Lord, I have cried."
+[^450]: Prosomoia of the Saints in Tone 4.
+[^451]: First sticheron to the Saints in Tone 4.
+[^452]: Second sticheron to the Saints in Tone 4, opening lines.
+[^453]: Conclusion of the second sticheron to the Saints in Tone 4.
+[^454]: Third sticheron to the Saints in Tone 4.
+[^455]: Doxasticon at "Lord, I have cried" composed by Ephraim of Caria.
+[^456]: Doxasticon of the Saints in Tone 5.
+[^457]: Rubric for the occurrence of September 9 on Friday evening.
+[^458]: Aposticha Prosomoia of the feast in Tone 2.
+[^459]: First Aposticha sticheron in Tone 2.
+[^460]: LXX Ps. 44:11.
+[^461]: Second Aposticha sticheron in Tone 2.
+[^462]: LXX Ps. 44:13.
+[^463]: Third Aposticha sticheron in Tone 2.
+[^464]: Doxasticon at the Aposticha in Tone 8, opening lines.
+[^465]: Conclusion of the Doxasticon at the Aposticha in Tone 8.
+[^466]: Common Troparion of the Righteous in Tone 2.
+[^467]: Proper Troparion of the Holy Ancestors of God Joachim and Anna in Tone 4.
+[^468]: Troparion of the Nativity of the Theotokos, referenced as written on September 8.
+[^469]: Rubric assigning the canon to the Holy Martyr Severian to Compline.
+[^470]: Ode 1 Heirmos of the Canon to Martyr Severian in Tone 8.
+[^471]: Ode 1, first troparion to Martyr Severian.
+[^472]: Ode 1, second troparion to Martyr Severian.
+[^473]: Ode 1, third troparion to Martyr Severian.
+[^474]: Ode 1 Theotokion of the Canon to Martyr Severian.
+[^475]: Ode 3 Heirmos of the Canon to Martyr Severian in Tone 8.
+[^476]: Ode 3, first troparion to Martyr Severian.
+[^477]: Ode 3, second troparion to Martyr Severian.
+[^478]: Ode 3, third troparion to Martyr Severian.
+[^479]: Ode 3 Theotokion of the Canon to Martyr Severian, citing the Song of Songs (Cant. 4:7).
+[^480]: Ode 4 Heirmos of the Canon to Martyr Severian in Tone 8.
+[^481]: Ode 4, first troparion to Martyr Severian.
+[^482]: Ode 4, second troparion to Martyr Severian.
+[^483]: Ode 4, third troparion to Martyr Severian.
+[^484]: Ode 4 Theotokion of the Canon to Martyr Severian.
+[^485]: Ode 5 Heirmos of the Canon to Martyr Severian in Tone 8.
+[^486]: Ode 5, first troparion to Martyr Severian.
+[^487]: Ode 5, second troparion to Martyr Severian.
+[^488]: Ode 5, third troparion to Martyr Severian.
+[^489]: Ode 5 Theotokion of the Canon to Martyr Severian.
+[^490]: Ode 6 Heirmos of the Canon to Martyr Severian in Tone 8.
+[^491]: Ode 6, first troparion to Martyr Severian.
+[^492]: Ode 6, second troparion to Martyr Severian.
+[^493]: Ode 6, third troparion to Martyr Severian.
+[^494]: Ode 6 Theotokion of the Canon to Martyr Severian.
+[^495]: Sessional Hymn to Martyr Severian in Tone 4.
+[^496]: Sessional Hymn text in Tone 4.
+[^497]: Ode 7 Heirmos of the Canon to Martyr Severian in Tone 8.
+[^498]: Ode 7, first troparion to Martyr Severian.
+[^499]: Ode 7, second troparion to Martyr Severian.
+[^500]: Ode 7, third troparion to Martyr Severian.
+[^501]: Ode 7 Theotokion of the Canon to Martyr Severian.
+[^502]: Ode 8 Heirmos of the Canon to Martyr Severian in Tone 8.
+[^503]: Ode 8, first troparion to Martyr Severian.
+[^504]: Ode 8, second troparion to Martyr Severian.
+[^505]: Ode 8, third troparion to Martyr Severian.
+[^506]: Ode 8 Theotokion of the Canon to Martyr Severian.
+[^507]: Ode 9 Heirmos of the Canon to Martyr Severian in Tone 8.
+[^508]: Ode 9, first troparion to Martyr Severian.
+[^509]: Ode 9, second troparion to Martyr Severian.
+[^510]: Ode 9, third troparion to Martyr Severian.
+[^511]: Ode 9 Theotokion of the Canon to Martyr Severian.
+[^512]: Prosomoia to Martyr Severian in Tone 4.
+[^513]: First sticheron to Martyr Severian in Tone 4.
+[^514]: Second sticheron to Martyr Severian in Tone 4, opening lines.
+[^515]: Conclusion of the second sticheron to Martyr Severian in Tone 4.
+[^516]: Doxasticon to Martyr Severian in Tone 4.
+[^517]: Both now of the feast at Compline/Vespers.
+[^518]: Matins opening Apolytikia rubrics for September 9.
+[^519]: Sessional Hymn after the First Kathisma in Tone 3.
+[^520]: Sessional Hymn text in Tone 3.
+[^521]: Sessional Hymn after the Second Kathisma in Tone 4.
+[^522]: Sessional Hymn text in Tone 4.
+[^523]: Rubric for the Canons at Matins on September 9.
+[^524]: Ode 1 Heirmos of the Canon of the Feast in Tone 2, composed by Lord John.
+[^525]: Ode 1, first troparion of the feast.
+[^526]: Ode 1, second troparion of the feast.
+[^527]: Ode 1, third troparion of the feast.
+[^528]: Announcement of the Canon to the Holy Ancestors of God Joachim and Anna in Tone 2 with its alphabetical acrostic.
+[^529]: Ode 1 Heirmos of the Canon to the Saints in Tone 2.
+[^530]: Ode 1, first troparion to the Saints.
+[^531]: Ode 1, second troparion to the Saints.
+[^532]: Ode 1, third troparion to the Saints.
+[^533]: Ode 1 Theotokion of the Canon to the Saints (incipit only printed on leaf p110).
