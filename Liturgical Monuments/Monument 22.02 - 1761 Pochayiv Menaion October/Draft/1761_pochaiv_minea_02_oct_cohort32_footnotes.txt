@@ -1,0 +1,34 @@
+[^1215]: Ode 5, Heirmos of the Canon to Anastasia (Tone 8): Оу́тренюще вопїе́мъ тѝ Го́споди спаси́ ны (Rising early at dawn we cry aloud unto Thee, O Lord: Save us), based on Isaiah 26:9.
+[^1216]: Ode 5, Heirmos of the Canon to Abramius (Tone 8): Вскꙋ́ю мѧ̀ ѿри́нꙋлъ є҆сѝ ѿ лица̀ твоегѡ̀ свѣ́те незаходи́мый (Therefore hast Thou cast me off from Thy face, O Never-setting Light), echoing Psalm 42:2 / 87:15.
+[^1217]: Ode 6, Heirmos of the Canon to Anastasia (Tone 8): Ри́зꙋ мнѣ̀ пода́ждь свѣ́тлꙋ (Grant me a robe of light, O Thou Who deckest Thyself with light as with a garment), echoing Psalm 103:2.
+[^1218]: Ode 6, Heirmos of the Canon to Abramius (Tone 8): Моли́твꙋ пролїю̀ ко Го́сподꙋ (I will pour out my prayer unto the Lord), based on Jonah 2 and Psalm 87:4 (LXX).
+[^1219]: Kontakion of the Venerable Abramius the Recluse, Tone 3. Melodic model: Today the Virgin (Дѣ́ва дне́сь).
+[^1220]: Ikos of the Venerable Abramius the Recluse.
+[^1221]: Ode 7, Heirmos of the Canon to Anastasia (Tone 8): Ѻ҆́троцы є҆вре́йстїи въ пещѝ (The Hebrew children in the furnace), based on Daniel 3.
+[^1222]: An allusion to St. Abramius's rescue of his niece Blessed Mary from moral and spiritual ruin, reclaiming her to monastic repentance.
+[^1223]: Ode 8, Heirmos of the Canon to Anastasia (Tone 8): Седмери́цею пе́щь (The Chaldean tyrant furiously kindled the furnace sevenfold), based on Daniel 3.
+[^1224]: Ode 8, Heirmos of the Canon to Abramius (Tone 8): Побѣди́тели мꙋчи́телѧ и҆ пла́мене (Having become conquerors of the tyrant and of the flame), based on Daniel 3.
+[^1225]: An allusion to St. Abramius's rescue of his niece Blessed Mary from the pit of destruction where the adversary cast her.
+[^1226]: Ode 9, Heirmos of the Canon to Anastasia (Tone 8): Оу҆жасе́сѧ ѡ҆ се́мъ не́бо (Heaven was astonished thereat).
+[^1227]: Ode 9, Heirmos of the Canon to Abramius (Tone 8): Вои́стиннꙋ Богоро́дицꙋ тѧ̀ и҆сповѣ́даемъ (Truly we confess thee to be the Theotokos).
+[^1228]: 1 Corinthians 2:9, citing Isaiah 64:4.
+[^1229]: Prokeimenon of the Liturgy, Tone 7 (Psalm 115:6, 3 LXX).
+[^1230]: Liturgical Epistle lection: Galatians, Section 213 (Gal. 5:22–6:2).
+[^1231]: Alleluia of the Liturgy, Tone 6 (Psalm 111:1–2 LXX).
+[^1232]: Liturgical Gospel lection: Matthew, Section 43 (Matt. 11:27–30).
+[^1233]: Communion Hymn (Kinonikon) for a venerable monastic (Psalm 111:6b LXX).
+[^1234]: Commemoration of the Holy Hieromartyr Zenobius, Bishop of Aegae in Cilicia, and his sister Zenobia (c. 285).
+[^1235]: Stichera at "Lord, I Have Cried", Tone 4. Melodic model: As One Valiant among Martyrs (Ꙗ҆́кѡ до́блѧ).
+[^1236]: Doxasticon at "Lord, I Have Cried", Tone 6, by St. John of Damascus (John the Monk).
+[^1237]: Theotokion / Cross-Theotokion, Tone 6. Melodic model: On the Third Day (Трїдне́венъ).
+[^1238]: Common Troparion of Martyrs, Tone 4: Мꙋ́ченицы твоѝ Го́споди (Thy martyrs, O Lord).
+[^1239]: Canon to the Holy Martyrs Zenobius and Zenobia, Tone 8, composed by St. Joseph the Hymnographer. Ode 1, Heirmos: Пѣ́снь возсле́мъ лю́дїе (Let us send up a song, O ye peoples), based on Exodus 15:1.
+[^1240]: Ode 3, Heirmos (Tone 8): Стра́хъ тво́й Го́споди всадѝ (Plant Thy fear, O Lord, in the hearts of Thy servants); text continues on physical leaf p318.
+[^1241]: Sessional Hymn to the Holy Martyrs, Tone 4. Melodic model: While the Soldiers Were Guarding Thy Tomb (Гро́бъ тво́й).
+[^1242]: Ode 4, Heirmos (Tone 8): Всѣ́лъ є҆сѝ на ко́ни (Thou hast mounted upon horses, Thine apostles, O Lord), based on Habakkuk 3:8.
+[^1243]: Ode 5, Heirmos (Tone 8): Вскꙋ́ю мѧ̀ ѿри́нꙋлъ є҆сѝ ѿ лица̀ твоегѡ̀ свѣ́те незаходи́мый (Therefore hast Thou cast me off from Thy face, O Never-setting Light), echoing Psalm 42:2 / 87:15.
+[^1244]: Ode 6, Heirmos (Tone 8): Моли́твꙋ пролїю̀ ко Го́сподꙋ (I will pour out my prayer unto the Lord), based on Jonah 2 and Psalm 87:4 (LXX).
+[^1245]: Kontakion of the Holy Martyrs Zenobius and his sister Zenobia, Tone 8. Melodic model: As the First-fruits of Nature (Ꙗ҆́кѡ нача́тки).
+[^1246]: Ikos of the Holy Martyrs Zenobius and his sister Zenobia.
+[^1247]: Ode 7, Heirmos (Tone 8): Ѻ҆́троцы є҆вре́йстїи въ пещѝ (The Hebrew children in the furnace), based on Daniel 3.
+[^1248]: Ode 8, Heirmos (Tone 8): Бг҃оглаго́ливїи ѻ҆́троцы въ пещѝ (The God-proclaiming children in the furnace), based on Daniel 3.
