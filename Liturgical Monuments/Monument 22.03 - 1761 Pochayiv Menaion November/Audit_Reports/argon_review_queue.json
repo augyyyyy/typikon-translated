@@ -1,0 +1,197 @@
+{
+  "monument_id": "1761_pochaiv_minea_03_nov",
+  "updated_at": "2026-11-03T01:54:39.239906+00:00",
+  "total_queued_leaves": 0,
+  "info_telemetry_leaves": 15,
+  "unresolved_quarantines": 0,
+  "items": [
+    {
+      "leaf_num": 25,
+      "cohort": 3,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 12 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.03 - 1761 Pochayiv Menaion November\\Draft\\1761_pochaiv_minea_03_nov_cohort3_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.03 - 1761 Pochayiv Menaion November\\Source Text\\1761_pochaiv_minea_03_nov_cohort3_source.txt",
+      "updated_at": "2026-11-02T15:42:10.901884+00:00"
+    },
+    {
+      "leaf_num": 27,
+      "cohort": 3,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.03 - 1761 Pochayiv Menaion November\\Draft\\1761_pochaiv_minea_03_nov_cohort3_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.03 - 1761 Pochayiv Menaion November\\Source Text\\1761_pochaiv_minea_03_nov_cohort3_source.txt",
+      "updated_at": "2026-11-02T15:42:10.902421+00:00"
+    },
+    {
+      "leaf_num": 36,
+      "cohort": 4,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.03 - 1761 Pochayiv Menaion November\\Draft\\1761_pochaiv_minea_03_nov_cohort4_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.03 - 1761 Pochayiv Menaion November\\Source Text\\1761_pochaiv_minea_03_nov_cohort4_source.txt",
+      "updated_at": "2026-11-02T16:01:07.586880+00:00"
+    },
+    {
+      "leaf_num": 39,
+      "cohort": 4,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.03 - 1761 Pochayiv Menaion November\\Draft\\1761_pochaiv_minea_03_nov_cohort4_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.03 - 1761 Pochayiv Menaion November\\Source Text\\1761_pochaiv_minea_03_nov_cohort4_source.txt",
+      "updated_at": "2026-11-02T16:01:07.587649+00:00"
+    },
+    {
+      "leaf_num": 40,
+      "cohort": 4,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "trajectory_v11_flag: Verified on Argon (High) against Page_0040.jpg (Fol. 19v)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.03 - 1761 Pochayiv Menaion November\\Draft\\1761_pochaiv_minea_03_nov_cohort4_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.03 - 1761 Pochayiv Menaion November\\Source Text\\1761_pochaiv_minea_03_nov_cohort4_source.txt",
+      "updated_at": "2026-11-03T05:06:00+00:00"
+    },
+    {
+      "leaf_num": 47,
+      "cohort": 5,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 13 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.03 - 1761 Pochayiv Menaion November\\Draft\\1761_pochaiv_minea_03_nov_cohort5_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.03 - 1761 Pochayiv Menaion November\\Source Text\\1761_pochaiv_minea_03_nov_cohort5_source.txt",
+      "updated_at": "2026-11-02T16:18:39.513527+00:00"
+    },
+    {
+      "leaf_num": 52,
+      "cohort": 6,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.03 - 1761 Pochayiv Menaion November\\Draft\\1761_pochaiv_minea_03_nov_cohort6_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.03 - 1761 Pochayiv Menaion November\\Source Text\\1761_pochaiv_minea_03_nov_cohort6_source.txt",
+      "updated_at": "2026-11-02T16:38:04.497427+00:00"
+    },
+    {
+      "leaf_num": 120,
+      "cohort": 12,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf (threshold=8, 2up=False)",
+        "trajectory_v11_flag: Verified on Argon (High) against Page_0120.jpg (Fol. 59v)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.03 - 1761 Pochayiv Menaion November\\Draft\\1761_pochaiv_minea_03_nov_cohort12_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.03 - 1761 Pochayiv Menaion November\\Source Text\\1761_pochaiv_minea_03_nov_cohort12_source.txt",
+      "updated_at": "2026-11-03T05:06:00+00:00"
+    },
+    {
+      "leaf_num": 151,
+      "cohort": 16,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.03 - 1761 Pochayiv Menaion November\\Draft\\1761_pochaiv_minea_03_nov_cohort16_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.03 - 1761 Pochayiv Menaion November\\Source Text\\1761_pochaiv_minea_03_nov_cohort16_source.txt",
+      "updated_at": "2026-11-02T19:45:51.323443+00:00"
+    },
+    {
+      "leaf_num": 158,
+      "cohort": 16,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.03 - 1761 Pochayiv Menaion November\\Draft\\1761_pochaiv_minea_03_nov_cohort16_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.03 - 1761 Pochayiv Menaion November\\Source Text\\1761_pochaiv_minea_03_nov_cohort16_source.txt",
+      "updated_at": "2026-11-02T19:45:51.326194+00:00"
+    },
+    {
+      "leaf_num": 161,
+      "cohort": 17,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.03 - 1761 Pochayiv Menaion November\\Draft\\1761_pochaiv_minea_03_nov_cohort17_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.03 - 1761 Pochayiv Menaion November\\Source Text\\1761_pochaiv_minea_03_nov_cohort17_source.txt",
+      "updated_at": "2026-11-02T20:07:24.853773+00:00"
+    },
+    {
+      "leaf_num": 166,
+      "cohort": 17,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.03 - 1761 Pochayiv Menaion November\\Draft\\1761_pochaiv_minea_03_nov_cohort17_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.03 - 1761 Pochayiv Menaion November\\Source Text\\1761_pochaiv_minea_03_nov_cohort17_source.txt",
+      "updated_at": "2026-11-02T20:07:24.854919+00:00"
+    },
+    {
+      "leaf_num": 168,
+      "cohort": 17,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.03 - 1761 Pochayiv Menaion November\\Draft\\1761_pochaiv_minea_03_nov_cohort17_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.03 - 1761 Pochayiv Menaion November\\Source Text\\1761_pochaiv_minea_03_nov_cohort17_source.txt",
+      "updated_at": "2026-11-02T20:07:24.855500+00:00"
+    },
+    {
+      "leaf_num": 169,
+      "cohort": 17,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 11 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.03 - 1761 Pochayiv Menaion November\\Draft\\1761_pochaiv_minea_03_nov_cohort17_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.03 - 1761 Pochayiv Menaion November\\Source Text\\1761_pochaiv_minea_03_nov_cohort17_source.txt",
+      "updated_at": "2026-11-02T20:07:24.855838+00:00"
+    },
+    {
+      "leaf_num": 183,
+      "cohort": 19,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.03 - 1761 Pochayiv Menaion November\\Draft\\1761_pochaiv_minea_03_nov_cohort19_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.03 - 1761 Pochayiv Menaion November\\Source Text\\1761_pochaiv_minea_03_nov_cohort19_source.txt",
+      "updated_at": "2026-11-02T20:41:23.284401+00:00"
+    },
+    {
+      "leaf_num": 270,
+      "cohort": 27,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.03 - 1761 Pochayiv Menaion November\\Draft\\1761_pochaiv_minea_03_nov_cohort27_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.03 - 1761 Pochayiv Menaion November\\Source Text\\1761_pochaiv_minea_03_nov_cohort27_source.txt",
+      "updated_at": "2026-11-02T23:02:43.129515+00:00"
+    },
+    {
+      "leaf_num": 301,
+      "cohort": 31,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "trajectory_v11_flag: Verified on Argon (High) against Page_0301.jpg (Fol. 150r)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.03 - 1761 Pochayiv Menaion November\\Draft\\1761_pochaiv_minea_03_nov_cohort31_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.03 - 1761 Pochayiv Menaion November\\Source Text\\1761_pochaiv_minea_03_nov_cohort31_source.txt",
+      "updated_at": "2026-11-03T05:06:00+00:00"
+    }
+  ]
+}

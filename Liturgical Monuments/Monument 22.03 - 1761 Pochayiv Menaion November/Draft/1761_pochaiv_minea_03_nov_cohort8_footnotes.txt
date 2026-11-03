@@ -1,0 +1,43 @@
+[^311]: The Slavonic text *присносꙋ́щныя сла́вы... бж҃їя бы́сте* renders the Greek model *Πανεύφημοι μάρτυρες* (ἀϊδίῳ φωτοχυσίᾳ, καὶ θεῖοι θεαταὶ σοφίας τῆς θείας γεγόνατε).
+[^312]: At the Aposticha at Small Vespers, Tone 6, Podoben: "Having risen on the third day" (Трїдне́венъ / Τριήμερος ἀνέστης).
+[^313]: Ps. 103:4 LXX.
+[^314]: The printed Slavonic text reads *мꙋче́нїя всѣ́хъ и҆зба́вите* ("and deliver all from torment"), where standard Nikonian editions read *мꙋче́нїя вѣ́чнагѡ и҆зба́вите* ("and deliver from eternal torment").
+[^315]: Ps. 148:2 LXX.
+[^316]: The rubric *То́й, гла́съ, д҃* prescribes the dismissory Theotokion of Tone 4 (*Е҆́же ѿ вѣ́ка оу҆тае́ное* / *The mystery hidden from the ages*), sung at the dismissal of Small Vespers.
+[^317]: Stichera at "Lord, I have cried" at Great Vespers, Tone 4, Podoben: "As one valiant" (Ꙗ҆́кѡ до́бля / Ὡς γενναῖον).
+[^318]: Tone 4, Podoben: "Thou hast given a sign" (Да́лъ є҆сѝ зна́менїе / Ἔδωκας σημείωσιν).
+[^319]: Doxasticon at "Lord, I have cried," Tone 6, by Byzantios (Βυζαντίου / Вѷзанті́ево).
+[^320]: First Paremia for the Synaxis of the Archangel Michael: Joshua 5:13–15 LXX.
+[^321]: Second Paremia for the Synaxis of the Archangel Michael: Judges 6:2, 6, 11–17 LXX (opening section).
+[^322]: Third Paremia for the Synaxis of the Archangel Michael: Isaiah 14:7–20 LXX.
+[^323]: The printed Slavonic has the typographical error *въ поле́нїи* for *въ помышле́нїи* ("in thy thought/mind", Greek: ἐν τῇ διανοίᾳ σου).
+[^324]: Conclusion of the third Paremia (Isaiah 14:18–20 LXX). The Slavonic *въ вѣ́чное вре́мя* translates the Septuagint εἰς τὸν αἰῶνα χρόνον ("unto ages of ages").
+[^325]: Stichera at the Litiya, Tone 1, composed by Cyprian (Κυπριανοῦ / Кѷпрїа́ново).
+[^326]: Composed by the hymnographer Arsenios (Ἀρσενίου / А҆рсе́нїево).
+[^327]: Tone 2, attributed to St. Theodore the Studite (τοῦ Στουδίτου / Стꙋді́тово).
+[^328]: Stichera Idiomela by Anatolios (Ἀνατολίου / А҆нато́лїа).
+[^329]: Doxasticon of the Theotokos (forefeast of the Entry of the Theotokos), composed by George, Metropolitan of Nicomedia (Γεωργίου Νικομηδείας / Геѡргі́а нїкомїді́йскагѡ).
+[^330]: Tone 4, Podoben: "Joy of the heavenly hosts" (Небе́сныхъ чинѡ́въ / Τῶν οὐρανίων ταγμάτων).
+[^331]: Ps. 103:4 LXX.
+[^332]: Ps. 148:2 LXX.
+[^333]: Tone 8 Idiomelon, composed by St. John of Damascus (Ἰωάννου Μοναχοῦ / І҆ѡа́нна мона́ха).
+[^334]: Troparion of the Bodiless Hosts (*Нбⷭ҇ныхъ во́инствъ а҆рхїстрати́зи*), Tone 4, repeated from fol. 35r.
+[^335]: Dismissory Theotokion of Tone 4 (*Е҆́же ѿ вѣ́ка оу҆тае́ное* / *Τὸ ἀπ᾽ αἰῶνος ἀπόκρυφον*).
+[^336]: Sessional Hymn after the first poetic kathisma, Tone 4, Podoben: "Thy tomb, O Savior" (Гро́бъ тво́й сп҃се / Τὸν τάφον σου Σωτήρ).
+[^337]: Tone 4, Podoben: "The choir of angels" (Ли́къ а҆́гглскїй / Χορὸς ἀγγελικός).
+[^338]: Sessional Hymn after the second poetic kathisma, Tone 2, Podoben: "When Thou didst descend" (Е҆гда̀ снизше́лъ є҆сѝ / Ὅτε κατῆλθες).
+[^339]: Tone 4, Podoben: "Speedily anticipate" (Ско́рѡ предварѝ / Ταχὺ προκατάлаβε).
+[^340]: Sessional Hymn after the Polyeleos, Tone 8, Podoben: "Of Wisdom" (Премꙋ́дрости / Τὴν Σοφίαν καὶ Λόγον).
+[^341]: Tone 4, Podoben: "Speedily anticipate" (Ско́рѡ предварѝ / Ταχὺ προκατάлаβε).
+[^342]: Prokeimenon at Matins, Ps. 103:4 LXX.
+[^343]: Ps. 103:1 LXX.
+[^344]: Matins Gospel: Matthew 13:24–30, 36–43 (pericope 52).
+[^345]: Rubric for the canons at Matins: Canon of the Theotokos from the Oktoechos (Tone 8, Sunday Matins, 3rd canon) with heirmos *Пои́мъ гдⷭ҇ви* on 6, followed by two festal canons of the Bodiless Hosts on 8 (totaling 14).
+[^346]: First Canon of the Bodiless Hosts, composed by St. John of Damascus (Ἰωάννου Μοναχοῦ / І҆ѡа́нна мона́ха), with alphabetic/thematic acrostic in Greek and Church Slavonic (*Да торжествꙋ́емъ бг҃омꙋ́дрїи всѝ собо́ръ безпло́тныхъ*).
+[^347]: Ode 1, Tone 8 Heirmos: "Let us send up a hymn, O ye people" (Пѣ́снь возсле́мъ лю́дїе / ᾎσμ’ ἀναπέμψωμεν λαοί).
+[^348]: Ode 1, Tone 8 Heirmos of the Second Canon: "Having drowned Pharaoh the chariot-driver" (Колесницегони́теля фараѡ́на / Ἁρματηλάτην Φαραώ).
+[^349]: Katavasia of the Entrance of the Theotokos: "I shall open my mouth" (Ѿве́рзꙋ оу҆ста̀ моя̀ / Ἀνοίξω τὸ στόμα μου).
+[^350]: Ode 3, Tone 8 Heirmos: "Plant Thy fear, O Lord" (Стра́хъ тво́й гдⷭ҇и всадѝ / Τὸν φόβον σου Κύριε).
+[^351]: Ode 3, Tone 8 Heirmos of the Second Canon: "Thou art the establishment" (Ты́ є҆сѝ оу҆твержде́нїе / Σὺ εἶ τὸ στερέωμα).
+[^352]: Sessional Hymn, Tone 8, Podoben: "That which was commanded mystically" (Повелѣ́нное та́йнѡ / Τὸ προσταχθὲν μυστικῶς), printed with orthographic variant *Превѣле́нное*.
+[^353]: Ode 4, Tone 8 Heirmos: "Thou didst mount horses" (Сѣ́лъ є҆сѝ на ко́ни / Ἐπέβης ἐφ’ ἵππους).
