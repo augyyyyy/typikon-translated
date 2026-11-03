@@ -1,0 +1,9 @@
+[^154]: *The Wisdom and Word* (*Премꙋ́дрости* / *Тὴν Σοφίαν καὶ Λόγον*): The printed text abbreviates the Greek and Slavonic incipit to its opening noun in the genitive; the full incipit references the divine Wisdom and Word of the Father.
+[^155]: *Conversing privately* (*Бг҃ꙋ ѻ҆со́бь бесѣ́дꙋя*): The printed Slavonic text uses the adverb *ѻ҆со́бь* ('apart', 'in solitude', 'privately'), reflecting monastic solitary prayer.
+[^156]: *The firm and God-proclaiming* (*Тве́рдыѧ* / *Τοὺς ἀσфаλεῖς*): The printed text gives the incipit of the Tone 2 Kontakion model, originally composed for the Holy Apostles Peter and Paul (*Тве́рдыѧ и҆ бг҃овѣща́нныѧ проповѣ́датели*).
+[^157]: *Psalm-like* (*ѱалѡ́мски водвори́ся*): A direct poetic reference to LXX Psalm 54:8 (MT Psalm 55:7): "Lo, I fled afar off and lodged in the wilderness" (*Сѐ оу҆дали́хсѧ бѣ́гаѧ, и҆ водвори́хсѧ въ пꙋсты́ни*).
+[^158]: *Three plants* (*тремѝ сала́тами*): The Slavonic borrows *сала́та* (Greek *σαλάτα* / *λάχανον*), referring to the wild bitter herbs or greens brought by an angel to St. Paul of Latros during his extreme desert fasts.
+[^159]: *With the disciples let us go up* (*Со оу҆чени́ки взы́демъ* / *Τοῖς μαθηταῖς συνέλθωμεν*): Tone 2 Exapostilarion model from the Sunday Oktoechos (the second Eothinon Exapostilarion).
+[^160]: *O Lord, Thy martyrs* (*Мч҃нцы твоѝ гдⷭи* / *Οἱ μάρτυρές σου Κύριε*): Tone 8 Prosomoion model from the General Menaion for Martyrs.
+[^161]: *Acrostic* (*Краегране́сїе*): The Slavonic reproduces the Greek alphabetical acrostic: *Θεόσδοτα μέλπω τοῦ Ἀγγαίου ῥήματα* ('We sing the God-given words of Haggai'), marked as the work of St. Theophanes the Branded (*Ѳеофа́ново*).
+[^162]: *Of the divine faith* (*Бж҃твенныѧ вѣ́ры* / *Θείας πίστεως*): Tone 3 Sessional Hymn model.

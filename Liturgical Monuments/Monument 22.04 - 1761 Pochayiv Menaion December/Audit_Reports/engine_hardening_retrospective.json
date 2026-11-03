@@ -1,0 +1,69 @@
+{
+  "monument_id": "1761_pochaiv_minea_04_dec",
+  "title": "1761 Pochayiv Menaion — Vol. 4: December (Pochayiv Lavra, 1761)",
+  "monument_type": "anthologion",
+  "genre_register": "hymnographic",
+  "retrospective_timestamp": "2026-11-03T05:00:14.378698+00:00",
+  "codicological_profile": {
+    "total_physical_leaves": 451,
+    "cohort_count": 46,
+    "default_cohort_size": 10,
+    "monument_type": "anthologion"
+  },
+  "subagent_execution_telemetry": {
+    "total_cohorts_dispatched": 46,
+    "worker_model": "flash",
+    "cohorts_passing_gate_100pct": 46,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.089,
+      "median_cohort_ratio": 1.155,
+      "max_cohort_median": 1.214
+    }
+  },
+  "argon_review_queue_telemetry": {
+    "total_items_recorded": 24,
+    "resolved_by_argon": 9,
+    "info_telemetry_only": 15,
+    "unresolved_quarantines": 0,
+    "codicological_crux_count": 0
+  },
+  "final_publication_verification": {
+    "parts_count": 3,
+    "parts": [
+      "1761_pochaiv_minea_04_dec_part0_front_matter.md",
+      "1761_pochaiv_minea_04_dec_part1_month-of-december.md",
+      "1761_pochaiv_minea_04_dec_part2_concluding-appendices-and-colophon.md"
+    ],
+    "total_footnotes_verified": 932,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.089,
+      "median_cohort_ratio": 1.155,
+      "max_cohort_median": 1.214
+    },
+    "all_6_publication_gates_passed": true
+  },
+  "edge_cases_and_anomalies": [
+    {
+      "category": "Inverted Archival Scan Orientation (180° Rotation)",
+      "leaves": "p1..p451",
+      "description": "All 451 physical leaf images in the December 1761 Pochaiv Menaion scan set were digitized inverted vertically (180 degrees) with rear codicological photography (edges, spine, boards, flyleaves, and juxtaposed title page opening) appended at the end (p441..p451). Subagents normalized reading direction directly from the 300 DPI facsimiles with zero transcription failures."
+    },
+    {
+      "category": "Physical Tear & Collation Lacuna in Exemplar",
+      "leaves": "p318, p329..p330",
+      "description": "Leaf p318 (Nativity of Christ Matins) exhibits a vertical physical tear through the outer column, and a physical collation gap occurs between leaf p329 (printed Fol. 129r, Dec 26 Vespers) and leaf p330 (printed Fol. 135v, Dec 26 Canon of St. Euthymius of Sardis Ode 4). Both cruxes were documented in footnotes [^469], [^499], and [^500] and verified during Phase 2 Argon Deep Audit."
+    },
+    {
+      "category": "Galician Parish Provenance Marginalia (Trostianets & Nemyriv)",
+      "leaves": "p443, p446, p447",
+      "description": "Faint pencil and ink inscriptions on the rear and front flyleaves record historic parish ownership at the Church of Saint Nicholas in Trostianets (dated Nov 22 & 26, 1908, Assistant Priest Hryhorii) and subsequent 1941 transfer to the Church Committee in Nemyriv under custodian Steciak."
+    }
+  ],
+  "engine_hardening_proposals": [
+    {
+      "component": "scripts/compile_final_edition.py (_slice_parts)",
+      "status": "IMPLEMENTED",
+      "description": "Lowered dynamic H1 landmark skip threshold from line 15 to line 3 (excluding preface/title-page headers) so volumes with concise 2-leaf front matter (p1 Title Page + p2 Vacat) reliably slice '# MONTH OF <NAME>' on p3 into Part 1."
+    }
+  ]
+}

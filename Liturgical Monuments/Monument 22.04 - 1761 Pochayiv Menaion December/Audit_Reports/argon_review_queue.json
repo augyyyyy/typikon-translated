@@ -1,0 +1,282 @@
+{
+  "monument_id": "1761_pochaiv_minea_04_dec",
+  "updated_at": "2026-11-03T05:00:01.851920+00:00",
+  "total_queued_leaves": 0,
+  "info_telemetry_leaves": 15,
+  "unresolved_quarantines": 0,
+  "items": [
+    {
+      "leaf_num": 13,
+      "cohort": 2,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "quarantined_gate_anomaly: vector11_subagent_web_search_call"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Draft\\1761_pochaiv_minea_04_dec_cohort2_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Source Text\\1761_pochaiv_minea_04_dec_cohort2_source.txt",
+      "updated_at": "2026-11-03T04:59:56.519116+00:00",
+      "resolved_at": "2026-11-03T05:00:01.945662+00:00"
+    },
+    {
+      "leaf_num": 131,
+      "cohort": 14,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "quarantined_gate_anomaly: vector11_subagent_web_search_call"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Draft\\1761_pochaiv_minea_04_dec_cohort14_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Source Text\\1761_pochaiv_minea_04_dec_cohort14_source.txt",
+      "updated_at": "2026-11-03T04:59:58.524561+00:00",
+      "resolved_at": "2026-11-03T05:00:01.945675+00:00"
+    },
+    {
+      "leaf_num": 137,
+      "cohort": 14,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "quarantined_gate_anomaly: vector11_subagent_web_search_call"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Draft\\1761_pochaiv_minea_04_dec_cohort14_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Source Text\\1761_pochaiv_minea_04_dec_cohort14_source.txt",
+      "updated_at": "2026-11-03T04:59:58.525789+00:00",
+      "resolved_at": "2026-11-03T05:00:01.945678+00:00"
+    },
+    {
+      "leaf_num": 139,
+      "cohort": 14,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "quarantined_gate_anomaly: vector11_subagent_web_search_call"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Draft\\1761_pochaiv_minea_04_dec_cohort14_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Source Text\\1761_pochaiv_minea_04_dec_cohort14_source.txt",
+      "updated_at": "2026-11-03T04:59:58.526263+00:00",
+      "resolved_at": "2026-11-03T05:00:01.945680+00:00"
+    },
+    {
+      "leaf_num": 170,
+      "cohort": 17,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "vector11_trajectory_violation: out_of_sandbox_write (write_file)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Draft\\1761_pochaiv_minea_04_dec_cohort17_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Source Text\\1761_pochaiv_minea_04_dec_cohort17_source.txt",
+      "updated_at": "2026-11-03T04:47:08.750690+00:00",
+      "resolved_at": "2026-11-03T04:59:54.602904+00:00"
+    },
+    {
+      "leaf_num": 264,
+      "cohort": 27,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Draft\\1761_pochaiv_minea_04_dec_cohort27_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Source Text\\1761_pochaiv_minea_04_dec_cohort27_source.txt",
+      "updated_at": "2026-11-03T05:00:01.850705+00:00"
+    },
+    {
+      "leaf_num": 270,
+      "cohort": 27,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "vector11_trajectory_violation: out_of_sandbox_write (write_file)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Draft\\1761_pochaiv_minea_04_dec_cohort27_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Source Text\\1761_pochaiv_minea_04_dec_cohort27_source.txt",
+      "updated_at": "2026-11-03T04:47:12.469195+00:00",
+      "resolved_at": "2026-11-03T04:59:54.602906+00:00"
+    },
+    {
+      "leaf_num": 281,
+      "cohort": 29,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Draft\\1761_pochaiv_minea_04_dec_cohort29_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Source Text\\1761_pochaiv_minea_04_dec_cohort29_source.txt",
+      "updated_at": "2026-11-02T23:44:37.400159+00:00"
+    },
+    {
+      "leaf_num": 318,
+      "cohort": 32,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "codicological_or_collation_crux: physical lacuna"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Draft\\1761_pochaiv_minea_04_dec_cohort32_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Source Text\\1761_pochaiv_minea_04_dec_cohort32_source.txt",
+      "updated_at": "2026-11-03T00:32:04.860541+00:00",
+      "resolved_at": "2026-11-03T04:28:06.536043+00:00"
+    },
+    {
+      "leaf_num": 329,
+      "cohort": 33,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "codicological_or_collation_crux: physical lacuna"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Draft\\1761_pochaiv_minea_04_dec_cohort33_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Source Text\\1761_pochaiv_minea_04_dec_cohort33_source.txt",
+      "updated_at": "2026-11-03T00:48:38.881826+00:00",
+      "resolved_at": "2026-11-03T04:28:06.536061+00:00"
+    },
+    {
+      "leaf_num": 331,
+      "cohort": 34,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Draft\\1761_pochaiv_minea_04_dec_cohort34_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Source Text\\1761_pochaiv_minea_04_dec_cohort34_source.txt",
+      "updated_at": "2026-11-03T01:04:06.740430+00:00"
+    },
+    {
+      "leaf_num": 419,
+      "cohort": 42,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Draft\\1761_pochaiv_minea_04_dec_cohort42_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Source Text\\1761_pochaiv_minea_04_dec_cohort42_source.txt",
+      "updated_at": "2026-11-03T03:40:39.978782+00:00"
+    },
+    {
+      "leaf_num": 423,
+      "cohort": 43,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Draft\\1761_pochaiv_minea_04_dec_cohort43_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Source Text\\1761_pochaiv_minea_04_dec_cohort43_source.txt",
+      "updated_at": "2026-11-03T03:58:08.384994+00:00"
+    },
+    {
+      "leaf_num": 424,
+      "cohort": 43,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Draft\\1761_pochaiv_minea_04_dec_cohort43_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Source Text\\1761_pochaiv_minea_04_dec_cohort43_source.txt",
+      "updated_at": "2026-11-03T03:58:08.385286+00:00"
+    },
+    {
+      "leaf_num": 425,
+      "cohort": 43,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 11 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Draft\\1761_pochaiv_minea_04_dec_cohort43_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Source Text\\1761_pochaiv_minea_04_dec_cohort43_source.txt",
+      "updated_at": "2026-11-03T03:58:08.385588+00:00"
+    },
+    {
+      "leaf_num": 426,
+      "cohort": 43,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Draft\\1761_pochaiv_minea_04_dec_cohort43_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Source Text\\1761_pochaiv_minea_04_dec_cohort43_source.txt",
+      "updated_at": "2026-11-03T03:58:08.385872+00:00"
+    },
+    {
+      "leaf_num": 427,
+      "cohort": 43,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Draft\\1761_pochaiv_minea_04_dec_cohort43_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Source Text\\1761_pochaiv_minea_04_dec_cohort43_source.txt",
+      "updated_at": "2026-11-03T03:58:08.386217+00:00"
+    },
+    {
+      "leaf_num": 428,
+      "cohort": 43,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 11 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Draft\\1761_pochaiv_minea_04_dec_cohort43_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Source Text\\1761_pochaiv_minea_04_dec_cohort43_source.txt",
+      "updated_at": "2026-11-03T03:58:08.386586+00:00"
+    },
+    {
+      "leaf_num": 429,
+      "cohort": 43,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Draft\\1761_pochaiv_minea_04_dec_cohort43_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Source Text\\1761_pochaiv_minea_04_dec_cohort43_source.txt",
+      "updated_at": "2026-11-03T03:58:08.386907+00:00"
+    },
+    {
+      "leaf_num": 430,
+      "cohort": 43,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Draft\\1761_pochaiv_minea_04_dec_cohort43_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Source Text\\1761_pochaiv_minea_04_dec_cohort43_source.txt",
+      "updated_at": "2026-11-03T03:58:08.387270+00:00"
+    },
+    {
+      "leaf_num": 431,
+      "cohort": 44,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Draft\\1761_pochaiv_minea_04_dec_cohort44_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Source Text\\1761_pochaiv_minea_04_dec_cohort44_source.txt",
+      "updated_at": "2026-11-03T04:10:23.045445+00:00"
+    },
+    {
+      "leaf_num": 437,
+      "cohort": 44,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Draft\\1761_pochaiv_minea_04_dec_cohort44_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Source Text\\1761_pochaiv_minea_04_dec_cohort44_source.txt",
+      "updated_at": "2026-11-03T04:10:23.046930+00:00"
+    },
+    {
+      "leaf_num": 438,
+      "cohort": 44,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Draft\\1761_pochaiv_minea_04_dec_cohort44_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Source Text\\1761_pochaiv_minea_04_dec_cohort44_source.txt",
+      "updated_at": "2026-11-03T04:10:23.047313+00:00"
+    },
+    {
+      "leaf_num": 443,
+      "cohort": 45,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "epigraphic_uncertainty_marker: [?]"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Draft\\1761_pochaiv_minea_04_dec_cohort45_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Source Text\\1761_pochaiv_minea_04_dec_cohort45_source.txt",
+      "updated_at": "2026-11-03T04:22:54.666564+00:00",
+      "resolved_at": "2026-11-03T04:28:06.536066+00:00"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "timestamp": "2026-11-02T18:12:26.767887+00:00",
+  "monument_id": "1761_pochaiv_minea_04_dec",
+  "monument_type": "anthologion",
+  "cohort": 11,
+  "target_file": "1761_pochaiv_minea_04_dec_cohort11_raw_draft.md",
+  "overall_status": "PASSED",
+  "cohort_telemetry": {
+    "prepared_at_iso": null,
+    "first_verified_at_iso": "2026-11-02T18:12:25.205201+00:00",
+    "verified_at_iso": "2026-11-02T18:12:26.750801+00:00",
+    "initial_duration_sec": null,
+    "duration_sec": null,
+    "source_words": 2673,
+    "draft_words": 4216,
+    "footnote_count": 9,
+    "footnote_words": 87,
+    "sgc02_ratio": 1.1897
+  },
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1761_pochaiv_minea_04_dec_cohort11_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1761_pochaiv_minea_04_dec_cohort11_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1761_pochaiv_minea_04_dec_cohort11_raw_draft.md",
+      "footnotes_file": "1761_pochaiv_minea_04_dec_cohort11_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 9,
+      "definition_markers_count": 9,
+      "text_markers": [
+        "[^86]",
+        "[^87]",
+        "[^88]",
+        "[^89]",
+        "[^90]",
+        "[^91]",
+        "[^92]",
+        "[^93]",
+        "[^94]"
+      ],
+      "definition_markers": [
+        "[^86]",
+        "[^87]",
+        "[^88]",
+        "[^89]",
+        "[^90]",
+        "[^91]",
+        "[^92]",
+        "[^93]",
+        "[^94]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1761_pochaiv_minea_04_dec_cohort11_raw_draft.md",
+      "passed": true,
+      "paragraphs": 181,
+      "headings_count": 0,
+      "headings": [],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 101,
+        "max_leaf": 110
+      },
+      "anomalies": []
+    },
+    "monument_type_policy": {
+      "passed": true,
+      "monument_type": "anthologion",
+      "violation_count": 0,
+      "violations": []
+    },
+    "orthographic_authenticity_v5c": {
+      "passed": true,
+      "violation_count": 0,
+      "violations": [],
+      "status": "PASSED"
+    },
+    "subagent_trajectory": {
+      "status": "PASSED",
+      "passed": true,
+      "transcript_found": true,
+      "conversation_id": "a4052306-2618-4ef0-a2e8-8702fcd2aefe",
+      "expected_leaves_count": 10,
+      "viewed_leaves": [
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110
+      ],
+      "unviewed_leaves": [],
+      "view_timestamps": {
+        "101": "2026-11-02T17:51:21Z",
+        "102": "2026-11-02T17:55:52Z",
+        "103": "2026-11-02T17:56:22Z",
+        "104": "2026-11-02T17:59:51Z",
+        "105": "2026-11-02T18:00:01Z",
+        "106": "2026-11-02T18:00:24Z",
+        "107": "2026-11-02T18:03:52Z",
+        "108": "2026-11-02T18:04:03Z",
+        "109": "2026-11-02T18:04:30Z",
+        "110": "2026-11-02T18:05:02Z"
+      },
+      "total_tool_calls": 63,
+      "tool_call_waste_pct": 0.0,
+      "violations": [],
+      "contaminated_leaves": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 22.04 - 1761 Pochayiv Menaion December\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "cohort_info_telemetry_leaves": [],
+    "total_queued_leaves": 0,
+    "info_telemetry_leaves": 0,
+    "unresolved_quarantines": 0
+  }
+}
