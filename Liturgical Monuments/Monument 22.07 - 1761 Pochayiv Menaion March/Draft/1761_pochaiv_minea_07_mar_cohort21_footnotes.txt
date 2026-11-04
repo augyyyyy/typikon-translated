@@ -1,0 +1,16 @@
+[^429]: In the Church Slavonic text on leaf 100r, `Цр҃те́ѧ` is an abbreviated scribal form for `Ца́рствїѧ` (*of the Kingdom*).
+[^430]: The Greek alphabetic acrostic preserved in the Slavonic title reads: *Матѡ́нꙋ бж҃е́ственною пою̀ сла́вꙋ. Творе́нїе fеофа́на* ("I sing the divine glory of Matrona. A composition of Theophanes").
+[^431]: In the Church Slavonic text on leaf 101r, the opening word of the troparion is printed as `Та̀`, providing the initial letter *T* for the acrostic while functioning metrically as an accusative or demonstrative pointer.
+[^432]: The Church Slavonic verb `слꙋчи́тися` here preserves its classical patristic sense of mystical union or meeting (*coniungi*) with Christ the heavenly Bridegroom.
+[^433]: In the Church Slavonic text on leaf 102r, `прл҃восла́внꙋ` is an apparent typographical error in the Pochaiv 1761 edition for `правосла́внꙋ` (*Orthodox*).
+[^434]: The acrostic (*краегране́сїе*) of the canon to St. Hilarion reads: *Твоѧ̑ ти́хїѧ восхвалю̀ ѻ҆́ч҃е нра́вы. Творе́нїе і҆ѡ́сифа* ("I will praise thy quiet ways, O father. A composition of Joseph").
+[^435]: In the Church Slavonic text on leaf 102v, `махода́тайствомъ` appears with an errant initial syllable *ма-* for `хода́тайствомъ` (*by mediation / intercession*).
+[^436]: The Church Slavonic printed witness exhibits a typographical dittography in the prefix: `ꙋ҆ꙋвяди́лъ` for `ꙋ҆вяди́лъ` (*thou didst wither*).
+[^437]: The printed form `ꙋ҆сты́ню` represents an epigraphic typographical omission of the initial consonant *п-* for `пꙋсты́ню` (*wilderness*).
+[^438]: The acrostic (*краегране́сїе*) of the canon to St. Stephen reads: *Твоѧ̑ чествꙋ́ю всебл҃же́нне бж҃е́ственныѧ трꙋды̀. Творе́нїе кѵ́ръ і҆ѡ́сифа* ("I honor thy divine labors, O all-blessed one. A composition of Lord Joseph").
+[^439]: In the Church Slavonic text on leaf 103r, `мр҃е` is a typographical misprint in the 1761 Pochaiv edition for `мꙋ́дре` (*O wise one*).
+[^440]: The printed form `мꙋ́никъ` on leaf 103v is an evident typographical omission for `мꙋ́ченикъ` (*martyr*).
+[^441]: The corrupt reading `Гꙋ́битѧлъ є҆сѝ` in the Pochaiv 1761 witness reflects a garbled form of `Оу҆гꙋби́лъ є҆сѝ` (*thou didst lose / forfeit* thy life for Christ's sake, alluding to Matt. 10:39).
+[^442]: The printed compound form `нб҃е́щественнымъ` on leaf 103v contains a typographical corruption for `небе́снымъ` (*heavenly*).
+[^443]: In the Church Slavonic text on leaf 104v, `то сты́ми` is a typographical misprint in the 1761 Pochaiv edition for `со ст҃ы́ми` (*with the saints*).
+[^444]: The printed form `ѡ҆чꙋща́еши` on leaf 104v is a typographical error in the Pochaiv 1761 witness for `просвѣща́еши` (*thou dost enlighten / give sight to*) or `ѡ҆чища́еши` (*thou cleansest*).

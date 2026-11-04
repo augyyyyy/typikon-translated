@@ -1,0 +1,46 @@
+{
+  "monument_id": "1761_pochaiv_minea_07_mar",
+  "title": "1761 Pochayiv Menaion — Vol. 7: March (Pochayiv Lavra, 1761)",
+  "monument_type": "anthologion",
+  "genre_register": "hymnographic",
+  "retrospective_timestamp": "2026-11-04T00:07:05.379779+00:00",
+  "codicological_profile": {
+    "total_physical_leaves": 230,
+    "cohort_count": 23,
+    "default_cohort_size": 10,
+    "monument_type": "anthologion"
+  },
+  "subagent_execution_telemetry": {
+    "total_cohorts_dispatched": 23,
+    "worker_model": "flash",
+    "cohorts_passing_gate_100pct": 23,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.093,
+      "median_cohort_ratio": 1.163,
+      "max_cohort_median": 1.231
+    }
+  },
+  "argon_review_queue_telemetry": {
+    "total_items_recorded": 3,
+    "resolved_by_argon": 1,
+    "info_telemetry_only": 2,
+    "unresolved_quarantines": 0,
+    "codicological_crux_count": 0
+  },
+  "final_publication_verification": {
+    "parts_count": 2,
+    "parts": [
+      "1761_pochaiv_minea_07_mar_part0_front_matter.md",
+      "1761_pochaiv_minea_07_mar_part1_month-of-march.md"
+    ],
+    "total_footnotes_verified": 478,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.093,
+      "median_cohort_ratio": 1.163,
+      "max_cohort_median": 1.231
+    },
+    "all_6_publication_gates_passed": true
+  },
+  "edge_cases_and_anomalies": [],
+  "engine_hardening_proposals": []
+}

@@ -1,0 +1,13 @@
+[^445]: On leaf 105r, the text of the Heirmos of Ode 7 is printed at the top of the leaf, completing the liturgical incipit label positioned at the base of Fol. 104v.
+[^446]: The Church Slavonic phrase `по́лкъ сло́весныхъ` on leaf 105v renders the Greek hymnographic idiom τῶν λογικῶν / rational beings, designating the angelic choirs.
+[^447]: The printed reading `мꙋ́никъ` on leaf 105v represents a typographical omission in the 1761 Pochaiv edition for `мꙋ́ченикъ` (*martyr*).
+[^448]: The Church Slavonic text on leaf 106r exhibits an errant metathesis in the prefix: `ѡ҆балгоꙋха́лъ` for `ѡ҆благоꙋха́лъ` (*thou didst fill with sweet fragrance*).
+[^449]: In the Church Slavonic text on leaf 106v, `ѻ҆́бцы` is a typographical misprint in the 1761 Pochaiv edition for `ѻ҆́вцы` (*sheep*).
+[^450]: The printed form `Мꙋ́нче` on leaf 106v represents an epigraphic typographical error for `Мꙋ́чениче` (*O martyr*).
+[^451]: In the Church Slavonic text on leaf 107r, `млⷣрдемъ` appears as an abbreviated scribal misprint for `милосе́рдїемъ` (*by thy tender compassion*).
+[^452]: The Church Slavonic noun `бл҃года́нїе` on leaf 108r functions as a synonym for `бл҃годѣѧ́нїе` (*benefaction / divine blessing* upon creation).
+[^453]: In the Church Slavonic text on leaf 109r, `ноша́хъ є҆сѝ` is an irregular scribal form in the 1761 Pochaiv edition for `носи́лъ є҆сѝ` (*thou didst carry*).
+[^454]: On leaf 109v, `Ко свѣ́тъ` is a typographical misprint for `Къ свѣ́тꙋ` (*unto the light*), and `свѣ́ршны` is a corrupt reading for `соверше́ннѡ` (*completely / perfectly*).
+[^455]: The corrupt reading `ꙋ҆слы́хъ` on leaf 109v represents a scribal error for `ꙋ҆лучи́въ` or `ꙋ҆сво́ивъ` (*having attained / tasted* the sweetness of self-control).
+[^456]: The printed form `ѡ҆щꙋще́нїа` on leaf 109v is a typographical error for `ѡ҆чище́нїа` (*of purification*).
+[^457]: The printed noun `фарашни́ты` on leaf 109v is a variant Slavonic rendering of the Greek Φαραωνίτας (*the charioteers / host of Pharaoh*), alluding to the drowning of the Egyptians in the Red Sea.

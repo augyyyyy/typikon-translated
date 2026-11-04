@@ -1,0 +1,959 @@
+# FOOTNOTES AND SCHOLARLY COMMENTARY
+
+
+
+[^1]: Augustus III (1696–1763), King of Poland and Grand Duke of Lithuania (1733–1763), Elector of Saxony (as Frederick Augustus II).
+
+[^2]: Sylvester Lubieniecki-Rudnytsky (d. 1777), Basilian Bishop of Lutsk and Ostroh (1756–1777), appointed Exarch of the Metropolitan See of Kyiv.
+
+[^3]: Hypatius (Ipatiy) Bilynsky (1704–1771), Protoarchimandrite of the Basilian Order of Saint Josaphat (1751–1771).
+
+[^4]: The year 7269 Anno Mundi in the Byzantine era corresponds to 1761 Anno Domini.
+
+[^5]: During Great Lent, if the commemoration of a saint without festal rank falls on a weekday, the penitential service with "Alleluia" and prostrations replaces "God is the Lord" and the dismissive troparion. Outside of Great Lent, the troparion is sung at Vespers and Matins.
+
+[^6]: Slavonic witness reads "я҆́ги бл҃гоизво́ли", an epigraphic dialectal/orthographic variant for "я҆́кѡ бл҃гоизво́ли".
+
+[^7]: In the 1761 Pochaiv imprint, Folio 3 (leaves p5–p6) is bound before Folio 2 (leaves p7–p8). Leaf p5 opens mid-sentence with the conclusion of the Ikos of St. Eudokia from the bottom of Folio 2v (leaf p8), followed by Ode 7 and Ode 8 of the Canon. In accordance with Master Translation Standard MTS-1 (Rule 15), the physical facsimile sequence of the codex is preserved.
+
+[^8]: Lenten rubrical distinction: if March 2 falls on a weekday in Great Lent, the penitential office with "Alleluia" is sung; outside of Lent, the dismissive troparion of the Hieromartyr is chanted.
+
+[^9]: The 1761 Pochaiv imprint prints the Podoben heading as "Прелѣ́тнѡ" (representing Greek "Ταχὺ"), the Ruthenian equivalent of the canonical Byzantine automelon "Ско́ро предварѝ" ("Speedily anticipate").
+
+[^10]: Epigraphic witness reads "Гроте́нческїѧ церко́вь", referencing the local shrine/sanctuary where the relics of St. Eudokia of Heliopolis were translated and venerated.
+
+[^11]: The Slavonic acrostic reads "Бж҃їе да́нїе бы́лъ є҆сѝ лѣ́потнѡ блаже́нне" ("Thou hast fittingly been a divine gift, O blessed one"), highlighting the Greek etymology of the name Theodotus (*Θεόδοτος*, "given by God").
+
+[^12]: Slavonic "О́гньнымъ строга́нїа" reflects Greek ὀνυχισμοὺς (iron claws or flesh-scrapers) applied to the martyr's body.
+
+[^13]: Slavonic "Мо́ря ѕловѣ́рїе" represents the maritime setting of Cyrenia in Cyprus, or an epigraphic calque on Greek μῶρον (folly, senseless impiety) collated with Byzantine menaia.
+
+[^14]: Slavonic "на ѻ́дръ раже́нъ" refers to the iron gridiron or fiery bed of spikes (Greek ἐπὶ τηγάνου / ἐπὶ κλίνης πυρωθείσης) upon which St. Theodotus was tortured.
+
+[^15]: The Slavonic acrostic reads "Трїе́хъ велича́йшихъ страда́нїа че́стїю мꙋ́кѡвъ" ("I sing the glory of the three greatest prize-bearing martyrs through the honor of their sufferings"), translating the Greek acrostic of the canon by Joseph the Hymnographer: Τῶν τριῶν μεγίστων ἀθλοφόρων τὴν δόξαν ᾄδω.
+
+[^16]: Slavonic "натреби́щныхъ... кро́ви" refers to pagan sacrificial blood poured out upon idol altars (тре́бище), which the martyrs abolished through their confession.
+
+[^17]: Allusion to the renowned hagiographical tradition of St. Gerasimus of the Jordan taming and healing a wounded lion along the banks of the Jordan, which served the saint in his monastery.
+
+[^18]: The Slavonic acrostic reads "Гера́сі́ма хвалю̀, ꙗ҆́кѡ вѣне́цъ плету̀" ("I praise Gerasimus, as weaving a crown"), corresponding to the Byzantine Greek acrostic of the Matins canon: Γεράσιμον μέλπω σε, πλέκων ὡς στέφος.
+
+[^19]: Slavonic "положе́нїемъ бг҃а бы́лъ є҆сѝ" reflects the patristic doctrine of deification (theosis) by adoption/grace (Greek θέσει θεός), contrasting created humanity elevated by divine energy with Christ Who alone is God by essence (φύσει θεός).
+
+[^20]: Allusion to the renowned miracle of St. Gerasimus of the Jordan and the lion, which served the saint in his monastery and, according to the Vita, grieved and died upon his tomb.
+
+[^21]: An allusion to LXX Psalm 91:13: "The righteous man shall flourish like a palm tree; he shall be increased like a cedar in Lebanon."
+
+[^22]: The Slavonic acrostic reads "Пою̀ ко́нѡна мꙋ́ченика вѣнцено́снаго" ("I sing Conon the crown-bearing martyr"), which represents the Byzantine Greek acrostic of the Matins canon: Τὸν στεφηφόρον Κόνωνα μέλπω μάρτυρα.
+
+[^23]: According to the ancient Vita of St. Conon of Isauria, at seven years of age the Archangel Michael appeared to him in the form of a radiant man, taught him the Christian faith, and instructed him in divine mysteries.
+
+[^24]: St. Conon converted his pagan parents, Nestor and Nada, to the Christian faith; his father Nestor subsequently received the crown of martyrdom for refusing to sacrifice to idols.
+
+[^25]: The Vita records that St. Conon had authority over unclean spirits, commanding them to dig caves, till gardens, and guard the city, forcing the demons to acknowledge Christ's power.
+
+[^26]: The 42 Holy Martyrs of Amorium (Phrygia) were Byzantine military commanders and notables captured by the Abbasid Caliph al-Mu'tasim during the sack of Amorium in 838 AD; after enduring seven years of imprisonment and refusing apostasy to Islam, they were beheaded on the banks of the Tigris River on March 6, 845 AD.
+
+[^27]: Constantine Baboutzikos, Basil, Callistus Melissenos, Aetius, and Theophilus were leading generals and patricians among the 42 Amorion martyrs.
+
+[^28]: Ascribed to Patriarch Methodius I of Constantinople (843–847 AD), a contemporary of the martyrs who composed hymns in their honor shortly after their execution.
+
+[^29]: Composed by a hymnographer from the monastery of Souka (Saint Chariton) in Palestine, known as "the Soukiote" (Greek: τοῦ Σουκιώτου).
+
+[^30]: "Agarenes" (Slavonic: а҆га́рѧне), descendants of Hagar, the standard Byzantine liturgical designation for the Saracens/Muslim Arabs of the Abbasid Caliphate who sacked Amorium.
+
+[^31]: The Matins canon is the work of Ignatius the Deacon (c. 775–848 AD), Metropolitan of Nicaea and renowned Byzantine hymnographer.
+
+[^32]: St. Theodore Krateros ("the Strong"), one of the prominent Byzantine military commanders martyred at Amorium, noted for his noble bearing and steadfast endurance.
+
+[^33]: Lit. "a pair of sufferers with a four-numbered decad" (Slavonic: дво́ица... съ четверочисленною десѧти́цею), referring poetically to the Forty-two Martyrs of Amorium (2 + 40).
+
+[^34]: An allusion to the steadfast refusal of Callistus and his companions to accept apostasy to Islam, which the hymnographer characterizes as a "second defilement" that could never taint their baptismal purity.
+
+[^35]: The reference to deliverance from the "oppression of blasphemous heretics" reflects the 9th-century context of the Iconoclast controversy, under which many of the Amorion martyrs and their contemporary hymnographers lived prior to the Triumph of Orthodoxy in 843 AD.
+
+[^36]: "Ishmael" (representing the Saracen caliph and Arab forces, regarded biblically as Ishmaelites) refers to Caliph al-Mu'tasim and his representatives who repeatedly interrogated the captive martyrs.
+
+[^37]: An allusion to the translation of the holy relics of St. Theodore Krateros and his victorious transit to the heavenly realm.
+
+[^38]: The bodies of the 42 Amorion martyrs were thrown into the Euphrates or Tigris River by order of Caliph al-Mu'tasim after their decapitation on March 6, 845 AD.
+
+[^39]: According to the Greek and Slavonic Vitae, a miracle occurred whereby the severed heads of the martyrs miraculously rejoined their bodies in the waters, and their relics were recovered by local Christians.
+
+[^40]: An allusion to the famous opening words of St. Basil the Great's Homily on the Forty Martyrs of Sebaste (Homilia XIX in sanctos quadraginta martyres, PG 31:508): "What satiety can there ever be for a lover of the martyrs in remembering them?"
+
+[^41]: The Holy Hieromartyrs of Cherson (Taurica, modern Crimea) were missionary bishops sent from Jerusalem in the early 4th century (c. 300–315 AD) to evangelize the Scythians and Greeks of Tauric Chersonesus. The seven celebrated bishops are: Basil, Ephraim, Eugene, Elpidius, Agathodorus, Aetherius, and Capito.
+
+[^42]: The Vita records that St. Basil of Cherson was expelled by the pagan inhabitants, but when the only son of a local dignitary died, the grieving parents called upon Basil, who through prayer to Christ raised the youth from the dead, resulting in the conversion and baptism of many citizens.
+
+[^43]: St. Capito, appointed bishop of Cherson by Emperor Constantine the Great, was challenged by the pagan population to prove the power of Christ by entering a burning lime-kiln or furnace; he entered the flames clad in his episcopal vestments, remained unharmed, and gathered glowing coals into his phelonion, bringing about the miraculous conversion of the entire city.
+
+[^44]: The Church Slavonic acrostic reads "Седмочи́сленный па́стырей ли́къ почита́ю" ("I honor the sevenfold choir of pastors"), translating the Byzantine Greek acrostic of Joseph the Hymnographer: Ἑπταρίθμων ποιμένων τιμῶ χορείαν.
+
+[^45]: St. Joseph the Hymnographer (c. 816–886 AD), one of the most prolific Byzantine liturgical poets, celebrated for his canons in the Menaion and Parakletike.
+
+[^46]: Another reference to the miracle of St. Basil of Cherson raising the son of the city's ruler from the dead through prayer to Christ.
+
+[^47]: Although the bishops hailed from different regions (Jerusalem, Athens, etc.), they were united in their missionary episcopate to the city and region of Cherson in Taurica.
+
+[^48]: The three holy youths Ananias, Azarias, and Misael in the Babylonian furnace (Daniel 3), a standard typological parallel for St. Capito's miraculous preservation in the furnace of Cherson.
+
+[^49]: St. Ephraim of Cherson preached the Gospel to the Scythians along the Danube, where he suffered martyrdom by decapitation during the Diocletian persecution.
+
+[^50]: A precise theological statement of Orthodox Christology following the Sixth Ecumenical Council (Constantinople III, 680–681 AD), confessing two natural wills and two natural energies in the one person of the incarnate Word.
+
+[^51]: Tauric Chersonesus (Slavonic: Хєрсо́нъ; Greek: Χερσών), the ancient Crimean port city (near modern Sevastopol) that revered these seven missionary bishops as its patron protectors and apostolic founders.
+
+[^52]: St. Theophylact the Confessor (c. 765–845 AD), Bishop of Nicomedia in Bithynia, an ardent defender of Orthodox icon veneration who confronted the Iconoclast Emperor Leo V the Armenian (813–820 AD).
+
+[^53]: Referring to St. Theophylact's steadfast resistance to the Iconoclast heresy revived by Emperor Leo V in 815 AD, whom Theophylact boldly rebuked to his face.
+
+[^54]: For his refusal to remove icons from the churches, St. Theophylact was deposed and exiled to the fortress of Strobilus in Caria (Asia Minor), where he languished in confinement for thirty years until his peaceful death in 845 AD.
+
+[^55]: St. Theophanes Graptos ("the Branded", c. 778–845 AD), bishop of Nicaea, renowned Byzantine hymnographer and confessor of icon veneration who, with his brother St. Theodore, was tortured and had iconoclast verses branded upon his forehead by Emperor Theophilus.
+
+[^56]: Referring to the Iconoclast decrees of Emperor Leo V the Armenian (reigned 813–820 AD), who renewed the persecution against defenders of holy icons, deposing and banishing St. Theophylact from his episcopal see of Nicomedia.
+
+[^57]: An allusion to Psalm 32:15 (LXX): "He that fashions their hearts singly, that considers all their works" (Masoretic: Psalm 33:15).
+
+[^58]: St. Theophylact was banished to the desolate fortress of Strobilus on the coast of Caria (Asia Minor), where he remained confined for thirty years.
+
+[^59]: The Holy Forty Martyrs of Sebaste were Roman soldiers of the Legio XII Fulminata (Thundering Legion) who suffered martyrdom c. 320 AD at Sebaste in Armenia Minor (modern Sivas, Turkey) under Emperor Licinius, after being stripped and forced to stand overnight upon the freezing ice of a frozen lake.
+
+[^60]: St. John of Damascus (c. 676–749 AD), monk of the Lavra of St. Sabbas, to whom these classic idiomelic stichera for the Forty Martyrs are attributed.
+
+[^61]: Isaiah 43:9–14.
+
+[^62]: Wisdom of Solomon 3:1–9.
+
+[^63]: Wisdom of Solomon 5:15–6:3.
+
+[^64]: The traditional list of the Forty Martyrs of Sebaste: Hesychius, Meliton, Heraclius, Smaragdus, Domnus, Eunoicus, Valens, Vivianus, Claudius, Priscus, Theodulus, Eutychius, John, Xanthius, Helianus, Sisinius, Cyrion, Angias, Aëtius, Flavius, Acacius, Ecdicius, Lysimachus, Alexander, Elias, Gorgonius, Theophilus, Dometian, Gaius, Gorgonius (another), Eutychus, Athanasius, Cyril, Sacerdon, Nicholas, Valerius, Philoctemon, Severian, Chudio, and Aglaius (the guard who converted seeing their crowns).
+
+[^65]: Psalm 65:12 (LXX; Masoretic: Psalm 66:12).
+
+[^66]: Psalm 65:10 (LXX; Masoretic: Psalm 66:10).
+
+[^67]: Luke 21:12–19 (Slavonic liturgical pericope 105).
+
+[^68]: The Slavonic acrostic reads "Боговѣнча́нный по́лкъ пою̀ му́ченикѡвъ" ("I hymn the God-crowned regiment of martyrs"), rendering the Byzantine Greek acrostic of St. John of Damascus: Θεοστεφῆ σύνταγμα μέλπω μαρτύρων.
+
+[^69]: The second canon also follows the acrostic of St. Theophanes Graptos: "Боговѣнча́нный по́лкъ пою̀ му́ченикъ" ("I hymn the God-crowned regiment of martyrs").
+
+[^70]: Referring to the miraculous episode in the Passio of the Forty Martyrs where the pagan governor Agricola and his soldiers threw stones at the martyrs, but the stones were diverted by the power of God and flew backwards, striking the governor in the face and breaking his teeth and jaw.
+
+[^71]: Referring to the one soldier of the forty who, unable to endure the torment of the frozen lake of Sebaste, abandoned his companions and ran into the warm bathhouse established by the persecutors on the shore, where upon entering he immediately expired.
+
+[^72]: An allusion to the conversion of the pagan guard Aglaius, who beheld thirty-nine crowns descending from heaven upon the martyrs, stripped off his garments, proclaimed himself a Christian, and took the place of the apostate, keeping the number of the forty complete, just as the Apostle Matthias replaced the traitor Judas (Acts 1:26), and the Good Thief inherited paradise.
+
+[^73]: The apostate soldier who sought to preserve his physical life in the heated bath suffered temporal death immediately upon entering, and departed unto the eternal fire of Gehenna.
+
+[^74]: An allusion to Psalm 65:12 (LXX): "We went through fire and water, and Thou leddest us out into a place of refreshment" (Masoretic: Psalm 66:12).
+
+[^75]: Daniel 3:1–23.
+
+[^76]: Exodus 3:2.
+
+[^77]: Daniel 3:49–50.
+
+[^78]: Referring to the mother of St. Meliton, the youngest of the Forty Martyrs. When the legs of the martyrs were broken with mallets and their bodies loaded onto carts to be burned, the executioners left Meliton behind, hoping he would recant. Seeing this, his mother lifted him upon her own shoulders and followed the cart, encouraging him to persevere unto the end.
+
+[^79]: The mother urged her dying son Meliton not to let himself be separated from his thirty-nine companions, but to enter into the heavenly kingdom together with them.
+
+[^80]: After their martyrdom in the lake and the burning of their bodies, the relics of the Forty Martyrs were cast into the river by order of the governor, but three days later they appeared shining like stars in the water and were recovered by the local bishop, St. Peter of Sebaste.
+
+[^81]: The phrase "Christ-loving King" (*хрⷭ҇толюби́вому коро́лю*) reflects the printing provenance of the Pochaiv Lavra within the Polish-Lithuanian Commonwealth under King Augustus III (reigned 1734–1763).
+
+[^82]: The petition for the King is repeated in the Theotokion, demonstrating the political and ecclesiastical liturgical prayer for the sovereign ruler under whose protection the monastery functioned.
+
+[^83]: Psalm 65:12 (LXX).
+
+[^84]: The hymnographer plays upon the number four: forty martyrs, the four cardinal virtues, and the four classical physical elements (fire, air, water, earth) through which they triumphed.
+
+[^85]: The Slavonic text reads literally *Па́кꙋбꙋ всеѧ̀ тва́ри ро́ждши* ("having given birth unto the ruin of all creation"), an obvious epigraphic corruption or omission of the participle *потреби́вшаго* ("Him who destroyed the ruin of all creation"), translating the Greek: τὸν λυτρωτὴν τῆς φθορᾶς πάσης κτίσεως κυήσασα.
+
+[^86]: The Slavonic witness *къ ма́рдїа ѡ҆сїя́нїю* represents a transliterated corruption of the Greek εἰς σμαράγδου αὐγάς ("unto the emerald radiances"), or an epigraphic scribal error for *маргари́та* ("pearl").
+
+[^87]: St. John of Damascus.
+
+[^88]: The mother of St. Meliton exhorting her son to join his fellow martyrs in death and eternal glory.
+
+[^89]: Habakkuk 3:8.
+
+[^90]: Psalm 65:12 (LXX; Masoretic: Psalm 66:12).
+
+[^91]: Physical leaf coordinate for the March 14 Stavrotheotokion: Leaf p72 (Fol. 35v).
+
+[^92]: Psalm 11:7 (LXX; Masoretic: Psalm 12:7).
+
+[^93]: Psalm 11:1 (LXX; Masoretic: Psalm 12:1).
+
+[^94]: Hebrews 12:1–10 (Slavonic liturgical pericope 331).
+
+[^95]: Psalm 65:1–2 (LXX; Masoretic: Psalm 66:1–2).
+
+[^96]: Psalm 65:10 (LXX; Masoretic: Psalm 66:10).
+
+[^97]: Matthew 20:1–16 (Slavonic liturgical pericope 80).
+
+[^98]: Psalm 32:1 (LXX; Masoretic: Psalm 33:1).
+
+[^99]: When the feast of the Forty Martyrs falls on any weekday of the first week of Great Lent, their celebration is transferred to the first Saturday of Great Lent and combined with the commemoration of the Miracle of the Kolyvo wrought by the Holy Great-Martyr Theodore the Recruit (Tyro).
+
+[^100]: The 4th Sunday of Great Lent is dedicated to St. John Climacus (of the Ladder).
+
+[^101]: "O Christ the true Light" (*Христѐ свѣ́те*) is the concluding prayer of the First Hour, beginning: "O Christ, the true Light, Who enlightenest and sanctifiest every man that comes into the world..."
+
+[^102]: Psalm 102:1 (LXX; Masoretic: Psalm 103:1), the First Typika Psalm.
+
+[^103]: Psalm 145:1 (LXX; Masoretic: Psalm 146:1), the Second Typika Psalm.
+
+[^104]: Psalm 33:1 (LXX; Masoretic: Psalm 34:1).
+
+[^105]: The Dogmatic Theotokion of Tone 2 at "Lord, I have cried": "The shadow of the Law hath passed away now that grace hath come..."
+
+[^106]: Psalm 103 (LXX; Masoretic: Psalm 104), the introductory Psalm of Vespers.
+
+[^107]: The Resurrectional Dismissal Theotokion of Tone 1: "When Gabriel announced unto thee: Rejoice, O Virgin..." (*Гаврі́илу вѣща́вшу*).
+
+[^108]: In Great Compline celebrated with a festal commemoration, the triumphant chants "God is with us" (*С на́ми Бо́гъ*) and "Lord of hosts, be with us" (*Го́споди си́лъ, съ на́ми бу́ди*) are omitted or replaced in accordance with the Polyeleos rubrics.
+
+[^109]: Psalm 33:1 (LXX; Masoretic: Psalm 34:1).
+
+[^110]: The Lenten penitential Troparion of Tone 8 sung after Psalm 50 at Sunday Matins: "Open unto me the doors of repentance, O Giver of life..." (*Покая́нїя отве́рзи ми́ две́ри*).
+
+[^111]: Psalm 9:33 (LXX; Masoretic: Psalm 10:12).
+
+[^112]: The Sunday Theotokion sung before the Great Doxology: "Thou art most blessed, O Virgin Birthgiver of God..." (*Преблагослове́нна еси́*).
+
+[^113]: The Troparion of the Holy Cross, Tone 1: "Save, O Lord, Thy people, and bless Thine inheritance..." (*Спаси́ Го́споди лю́ди Твоя́*).
+
+[^114]: The Heirmos of Ode 1 of the Canon of the Precious Cross, Tone 1: "Most divinely did Moses prefigure of old the Cross..." (*Боже́ственнѣйшїй проѡбрази́*).
+
+[^115]: St. Codratus (Quadratus) of Corinth and his companions: Cyprian, Dionysius, Anectus, Paul, and Crescens (Crescent), suffered under Emperor Decius (c. 250) or Valerian, being beheaded for the faith outside Corinth.
+
+[^116]: St. Joseph the Hymnographer (c. 816–886), author of the Canon.
+
+[^117]: The tripartite division of the soul (rational, irascible, appetitive; *дꙋшѝ трїча́стное*, τὸ τριμερὲς τῆς ψυχῆς) in Platonic and Patristic anthropology.
+
+[^118]: Allusion to the smitten rock in the wilderness (Exodus 17:6) and Christ as the spiritual Rock (1 Corinthians 10:4).
+
+[^119]: 1 Kingdoms 2:5 (1 Samuel 2:5, LXX): "The barren hath born seven; and she that had many children is waxed feeble."
+
+[^120]: Habakkuk 3:2–3; Isaiah 19:1.
+
+[^121]: The "six-fold candlestick" refers to the six martyrs commemorated: Codratus, Cyprian, Dionysius, Anectus, Paul, and Crescens.
+
+[^122]: Jonah 2:1–10.
+
+[^123]: Daniel 3:19–25.
+
+[^124]: Daniel 3:57.
+
+[^125]: Luke 1:42, 48. The contrast between Eve's curse (Genesis 3:16) and the blessing brought into the world by Mary's childbearing.
+
+[^126]: 1 Thessalonians 5:5 ("Ye are all the children of light, and the children of the day").
+
+[^127]: St. Sophronius, Patriarch of Jerusalem (c. 560–638), celebrated champion of Orthodoxy against the Monothelite heresy and author of numerous liturgical hymns, triodia, and the Life of St. Mary of Egypt.
+
+[^128]: Sophronius (Σωφρόνιος) derives from the Greek σώфρων (*sophron*, "of sound mind, prudent, chaste, temperate").
+
+[^129]: Classical Dyothelite and Chalcedonian christological formula defending the two unconfused natures and two operations (energies) and wills of Christ against the Monothelites and Monoenergists.
+
+[^130]: Psalm 35:9 (LXX; Masoretic: Psalm 36:8: "and thou shalt make them drink of the river of thy pleasures").
+
+[^131]: St. Joseph the Hymnographer (c. 816–886). The acrostic in Greek is: Σωφρονίας μέλπω μετωνύμου πρόσφορον αἶνον.
+
+[^132]: Psalm 44:2 (LXX; Masoretic: Psalm 45:1).
+
+[^133]: Reference to St. Sophronius's episcopal see of Jerusalem and the Church of the Holy Sepulchre (the Anastasis).
+
+[^134]: Psalm 18:5 (LXX; Masoretic: Psalm 19:4: "Their sound is gone out into all the earth, and their words to the end of the world").
+
+[^135]: 1 Kingdoms 2:2–3 (1 Samuel 2:2–3, LXX); Jeremiah 9:23–24.
+
+[^136]: The dual title: Mary as both Virgin and Mother (Theotokos).
+
+[^137]: Luke 1:48 ("For, behold, from henceforth all generations shall call me blessed").
+
+[^138]: Allusion to Hebrews 2:9 ("that he by the grace of God should taste death for every man").
+
+[^139]: Isaiah 19:1; Habakkuk 3:2.
+
+[^140]: Chalcedonian and Dyothelite Trinitarian and Christological definitions.
+
+[^141]: Refutation of Nestorianism (which divided Christ into two persons) alongside Monophysitism and Monothelitism.
+
+[^142]: St. Sophronius's defense of the Sixth Ecumenical Council's theology (Two Wills and Two Operations/Energies in Christ, corresponding to His two natures).
+
+[^143]: Isaiah 26:9–11; Hebrews 1:3 ("Who being the brightness of his glory, and the express image of his person").
+
+[^144]: Jonah 2:10; John 19:34.
+
+[^145]: Psalm 44:3 (LXX; Masoretic: Psalm 45:2: "grace is poured into thy lips").
+
+[^146]: Psalm 91:13–14 (LXX; Masoretic: Psalm 92:12–13: "The righteous shall flourish like the palm tree").
+
+[^147]: Psalm 17:6 (LXX; Masoretic: Psalm 18:5).
+
+[^148]: Daniel 3:19–25.
+
+[^149]: St. Sophronius was known as a sophist/rhetorician in Alexandria before taking monastic vows; he dedicated his rhetorical and literary gifts to God and the poor.
+
+[^150]: Luke 1:35 ("The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee").
+
+[^151]: Daniel 3:57.
+
+[^152]: St. Sophronius's enthronement as Patriarch of Jerusalem in 634.
+
+[^153]: Psalm 131:9 (LXX; Masoretic: Psalm 132:9: "Let thy priests be clothed with righteousness").
+
+[^154]: Psalm 67:16–17 (LXX; Masoretic: Psalm 68:15–16: "The mountain of God is as the mountain of Bashan; an high mountain as the mountain of Bashan").
+
+[^155]: Daniel 2:34, 45.
+
+[^156]: Canticle of Canticles (Song of Songs) 5:13; Matthew 26:7; John 12:3.
+
+[^157]: Isaiah 19:1 ("Behold, the Lord rides upon a swift cloud, and shall come into Egypt: and the idols of Egypt shall be moved at his presence").
+
+[^158]: St. Theophanes the Confessor (c. 759–817/818), chronicler and hegumen of the Monastery of the Great Field (Megas Agros) in Sigriane, defender of the holy icons against Iconoclast Emperor Leo V the Armenian.
+
+[^159]: Theophanes (Θεοφάνης) means "manifestation of God" (*theophania*).
+
+[^160]: Wordplay on Emperor Leo V the Armenian (Λέων, "lion") who exiled St. Theophanes to the island of Samothrace in 817, where he died from brutal treatment.
+
+[^161]: Matthew 18:10.
+
+[^162]: St. Theophanes the Hymnographer, Bishop of Nicaea (c. 778–845), author of the Canon to his namesake St. Theophanes the Confessor.
+
+[^163]: Exodus 14:21–29; Exodus 17:11–13.
+
+[^164]: Emperor Leo V the Armenian's renewal of iconoclasm in 814–815 and the imprisonment and deportation of the iconodule monastic leaders.
+
+[^165]: Ezekiel 44:2; Malachi 4:2.
+
+[^166]: 1 Kingdoms 2:2–3 (1 Samuel 2:2–3, LXX); Jeremiah 9:23–24.
+
+[^167]: Genesis 2:7.
+
+[^168]: St. Theophanes founded the famous Monastery of the Great Field (Megas Agros) on Mount Sigriane near Cyzicus, living an angelic ascetic life.
+
+[^169]: Luke 1:48; Exodus 3:2; Deuteronomy 4:24.
+
+[^170]: Habakkuk 3:11; Malachi 4:2.
+
+[^171]: 2 Corinthians 5:1 ("For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens").
+
+[^172]: Isaiah 9:6 (LXX: "Messenger of great counsel", Μεγάλης βουλῆς ἄγγελος).
+
+[^173]: John 12:46 ("I am come a light into the world, that whosoever believes in me should not abide in darkness").
+
+[^174]: Matthew 19:21. St. Theophanes used his vast paternal inheritance to build monasteries and gave the rest to the poor upon entering the monastic life.
+
+[^175]: St. Basil the Great's dictum on icon veneration: "The honor shown to the image passes to the prototype" (*On the Holy Spirit*, 18.45).
+
+[^176]: Isaiah 9:2; Matthew 4:16.
+
+[^177]: Jonah 2:10; John 19:34.
+
+[^178]: The four classical cardinal virtues: wisdom (prudence), courage (fortitude), righteousness (justice), and chaste wisdom (temperance).
+
+[^179]: The Kontakion continues on Fol. 40r (p81): "...richly stripped, having abandoned thy wife." St. Theophanes and his aristocratic wife Megalo agreed by mutual consent to separate and embrace the monastic tonsure.
+
+[^180]: The Life of St. Theophanes the Confessor (ca. 759–818) records that although betrothed/married in youth to the noble Megalo, both agreed to preserve virginity and subsequently entered monastic life by mutual consent, giving away their vast patrician estates.
+
+[^181]: Heirmos of Ode 7: Dan. 3:52 (LXX: Song of the Three Holy Children).
+
+[^182]: Cf. Luke 1:28, 42.
+
+[^183]: Heirmos of Ode 8: Dan. 6:22 and Dan. 3:57.
+
+[^184]: Referring to the Iconoclast Emperor Leo V the Armenian (reigned 813–820), who banished St. Theophanes to the island of Samothrace where he reposed.
+
+[^185]: St. Basil the Great, *On the Holy Spirit*, 18.45: "The honor paid to the icon passes over to the prototype" (*ἡ γὰρ τῆς εἰκόνος τιμὴ ἐπὶ τὸ πρωτότυπον διαβαίνει*), dogmatized at the Seventh Ecumenical Council (Nicaea II, 787).
+
+[^186]: Heirmos of Ode 9: Dan. 2:34, 45.
+
+[^187]: The hymnographer, St. Theophanes the Branded (Graptos), here refers to himself by name ("of like name" / *тезоиме́нна*), asking St. Theophanes of Sigriane to make him also of like character (*є҆динонра́вна*).
+
+[^188]: St. Nicephorus I, Patriarch of Constantinople (ca. 758–828), defender of holy icons against Leo V the Armenian. His relics were translated from the island of Prokonnis back to Constantinople on March 13, 847, under Empress Theodora and Patriarch Methodius.
+
+[^189]: St. Nicephorus' relics were solemnly enshrined in the Church of the Holy Apostles in Constantinople.
+
+[^190]: Isaiah 40:12.
+
+[^191]: Composed by Ignatius the Deacon (ca. 775/780–after 848), biographer and contemporary of Patriarch Nicephorus.
+
+[^192]: Heirmos of Ode 1: Exod. 14–15.
+
+[^193]: Referring to the four cardinal virtues (prudence, temperance, fortitude, justice) serving as the chariot of the ascetical-contemplative ascent (*πρᾶξις* leading to *θεωρία*).
+
+[^194]: Heirmos of Ode 3: Refers to the Tree of the Cross putting death/sin to death.
+
+[^195]: Referring to St. Nicephorus' defense of depicting Christ's Incarnation in holy icons (*Antirrhetici*).
+
+[^196]: Cf. John 10:3–12.
+
+[^197]: Gen. 50:25; Exod. 13:19.
+
+[^198]: The Greek incipit of this Prosomoion is *Θείας πίστεως*.
+
+[^199]: The Stavrotheotokion reflects the maternal lament of the Theotokos at the foot of the Cross.
+
+[^200]: Heirmos of Ode 4: Hab. 3:2 (LXX).
+
+[^201]: Gen. 2:9; Rev. 22:2.
+
+[^202]: Heirmos of Ode 5: Isaiah 26:9, 13 (LXX).
+
+[^203]: Referring to Emperor Michael III and his mother Empress Theodora, who attended the solemn translation in 847.
+
+[^204]: Isaiah 40:12.
+
+[^205]: Heirmos of Ode 6: Jonah 2:2–6.
+
+[^206]: Exod. 13:21.
+
+[^207]: Kontakion celebrating the translation of the relics of Patriarch Nicephorus.
+
+[^208]: Heirmos of Ode 7: Dan. 3:1–26.
+
+[^209]: Describing the liturgical procession bearing the reliquary (*doryphoria*) through Constantinople.
+
+[^210]: The Church of the Holy Apostles (*хра́мъ а҆пⷭ҇льскїй* / *сло́ва ᲂу҆чени́кѡвъ*).
+
+[^211]: Exod. 3:2.
+
+[^212]: Dan. 3:49–50.
+
+[^213]: Heirmos of Ode 9: Gen. 3:6, 19.
+
+[^214]: The printed witness explicitly reads *королѧ̀* ("King"), reflecting the political realia of the Polish-Lithuanian Commonwealth under whose sovereign jurisdiction the Pochaiv printing house operated, rather than the Byzantine/Imperial *царѧ̀*.
+
+[^215]: St. Benedict of Nursia (ca. 480–548), patriarch of Western monastics and author of the Holy Rule. Commemorated in Byzantine and Ruthenian Menaia on March 14.
+
+[^216]: The Greek incipit of this Prosomoion is *Ὅτε ἐκ τοῦ ξύλου*.
+
+[^217]: Referring to the miracles of St. Benedict recorded by Pope St. Gregory the Great in Book II of the *Dialogues*: bringing rain in time of drought, multiplying oil (ch. 28–29), and raising a dead child (ch. 32).
+
+[^218]: By St. Joseph the Hymnographer (ca. 816–886).
+
+[^219]: Heirmos of Ode 1: Exod. 14–15.
+
+[^220]: Heirmos of Ode 3: Refers to the Tree of the Cross putting death/sin to death.
+
+[^221]: The Greek incipit of this Sessional Hymn is *Τοῦ λίθου σφραγισθέντος*.
+
+[^222]: Heirmos of Ode 4: Habakkuk 3:2 (LXX).
+
+[^223]: St. Gregory the Great, *Dialogues*, II.32 (raising the peasant's dead son); II.26 (curing paralysis).
+
+[^224]: Psalm 71:6 [LXX] (Ps. 72:6).
+
+[^225]: Heirmos of Ode 5: Isaiah 26:9, 13 (LXX).
+
+[^226]: 3 Kings 17:14–16 [LXX] (1 Kings 17:14–16); St. Gregory the Great, *Dialogues*, II.28–29.
+
+[^227]: St. Gregory the Great, *Dialogues*, II.35: "All the world was gathered together before his eyes in what appeared to be a single ray of sunlight" (*omnis etiam mundus velut sub uno solis radio collectus ante oculos eius adductus est*).
+
+[^228]: St. Gregory the Great, *Dialogues*, II.5 (bringing forth water from the rock).
+
+[^229]: Heirmos of Ode 6: Jonah 2:2–6.
+
+[^230]: Heirmos of Ode 7: Dan. 3:26, 52 (LXX: Song of the Three Holy Children).
+
+[^231]: St. Gregory the Great, *Dialogues*, II.32 (the raising of the peasant's dead child).
+
+[^232]: St. Gregory the Great, *Dialogues*, II.3 (the poisoned cup of wine shattered by the sign of the cross) and II.8 (the poisoned bread carried away by a raven).
+
+[^233]: Heirmos of Ode 8: Dan. 3:49–50, 57.
+
+[^234]: St. Gregory the Great, *Dialogues*, II.21, 28–29 (miraculous provision of flour and oil in times of famine).
+
+[^235]: Cf. Isaiah 7:14; 9:6.
+
+[^236]: Heirmos of Ode 9: Gen. 3:6, 17–19.
+
+[^237]: Referring to the tomb and relics of St. Benedict at the Abbey of Monte Cassino.
+
+[^238]: Cf. Luke 2:32; Isaiah 42:6; 49:6.
+
+[^239]: The Holy Martyr Agapius and the six (or seven) martyrs with him (Plesius, Romulus, Alexander, another Alexander, Timolaus, and Dionysius) suffered at Caesarea in Palestine under Diocletian (ca. 303).
+
+[^240]: Stavrotheotokion at Lord, I have cried, sung on weekdays when Great Lent or fasting seasons prescribe the Cross.
+
+[^241]: The Greek acrostic of the canon by St. Joseph the Hymnographer is *Ἑπτὰ προσάγω τοῖς μάρτυσι τὴν ὑμνῳδίαν*.
+
+[^242]: Heirmos of Ode 1: Exod. 14–15 (LXX: Song of Moses).
+
+[^243]: Heirmos of Ode 3: 1 Kings (1 Sam.) 2:2 (LXX: Song of Hannah).
+
+[^244]: The melody model refers to the resurrectional dismissal hymn / hypakoe incipit.
+
+[^245]: Stavrotheotokion of the Sessional Hymn.
+
+[^246]: Heirmos of Ode 4: Hab. 3:2–3 (LXX).
+
+[^247]: Heirmos of Ode 5: Isaiah 26:9 (LXX).
+
+[^248]: A wordplay on the name Agapius (*Ἀγάπιος*), derived from Greek *ἀγάπη* ("love").
+
+[^249]: Ezek. 44:2.
+
+[^250]: Heirmos of Ode 6: Jonah 2:2–3; Psalm 87:1–2 [LXX].
+
+[^251]: Enumeration of the seven holy martyrs commemorated on March 15: Agapius, two named Alexander, two named Dionysius, Timolaus, and Romulus.
+
+[^252]: Heirmos of Ode 7: Dan. 3:23–26.
+
+[^253]: Heirmos of Ode 8: Exod. 3:2; 19:16–20.
+
+[^254]: Heirmos of Ode 9: Luke 1:48.
+
+[^255]: St. Sabinus of Hermopolis in Egypt was drowned in the Nile under Diocletian (ca. 287). St. Papas of Laranda in Lycaonia suffered under Maximian.
+
+[^256]: Stavrotheotokion at Lord, I have cried on March 16.
+
+[^257]: Acrostic of the canon composed by St. Theophanes the Branded (Graptos): *Σαβῖνον ὑμνῶ προσπαθῶς ἀθλοφόρον*.
+
+[^258]: Heirmos of Ode 1: Exod. 14:21–31.
+
+[^259]: The Life of St. Sabinus relates that when persecution broke out, he retreated to a remote village with other Christians, dedicating himself to prayer and fasting.
+
+[^260]: Heirmos of Ode 3: Psalm 17:3 [LXX]; Psalm 26:1 [LXX].
+
+[^261]: Like Christ betrayed by Judas, St. Sabinus was betrayed to the Roman persecutors for two gold coins by an ungrateful beggar whom he had fed and supported.
+
+[^262]: St. Sabinus was tied with stones and drowned in the River Nile.
+
+[^263]: Heirmos of Ode 4: Hab. 3:2 (LXX).
+
+[^264]: Cf. Isaiah 53:7.
+
+[^265]: Heirmos of Ode 5: Isaiah 26:9, 12 (LXX).
+
+[^266]: Psalm 35:9 [LXX] (Ps. 36:8).
+
+[^267]: Heirmos of Ode 6: Jonah 2:3, 8; Psalm 141:2–3 [LXX].
+
+[^268]: Cf. Isaiah 53:4; Matt. 8:17.
+
+[^269]: Kontakion of the Holy Martyr Sabinus.
+
+[^270]: Heirmos of Ode 7: Dan. 3:49–52.
+
+[^271]: Luke 1:42.
+
+[^272]: Heirmos of Ode 8: Dan. 3:5, 7, 10, 18.
+
+[^273]: Concluding phrase of the Heirmos of Ode 9 of the Canon to the Holy Martyr Sabinus of Egypt (March 16), continued across the leaf boundary from fol. 49v (leaf p100).
+
+[^274]: St. Alexis the Man of God (*Алексій человѣкъ Божій*), celebrated on March 17. The stichera at *Lord, I have cried* are set to Tone 1 (*Podoben: "O all-praised martyrs"*).
+
+[^275]: The Slavonic print features a contracted spelling with titlo, *не́ное* (*небе́сное*, "heavenly"), set in contrast with *бога́тствꋋ текꙋ́щꋋ* ("fleeting wealth").
+
+[^276]: Slavonic *є҆дино́щи* ("once") is split across the leaf turn: *є҆ди-* at the foot of fol. 51r (p103) and *-но́щи* at the head of fol. 51v (p104).
+
+[^277]: The Slavonic print reads *ᲂу҆тли́тна* (perhaps an epigraphic variant or misprint for *ѡ҆тли́чна*, "distinguished / excellent", or *ᲂу҆тѣ́шна*, "comforting"). Rendered contextually as "a vessel of grace".
+
+[^278]: The phrase *вѣне́цъ прїе́мъ / сла́вы* ("having received a crown of glory") spans the leaf transition between fol. 51v (p104) and fol. 52r (p105).
+
+[^279]: The vocative *блаже́нне* is divided across fol. 52r (*блаже́нне*) and fol. 52v (*же́нне*), where the typesetter repeated the second syllable.
+
+[^280]: St. Cyril, Archbishop of Jerusalem (*Кѵріллъ, архіепископъ Іерусалимскій*), celebrated on March 18. Stichera at *Lord, I have cried* are set to Tone 4 (*Podoben: "As a noble one"*).
+
+[^281]: The verb *ᲂу҆мра́чилъ є҆сѝ* ("thou didst darken") is split across the leaf turn: fol. 52v ends with the typographical error *ᲂу҆млꋋ́чналъ* / catchword *млꋋ́чназ*, resolved on fol. 53r as *мра́чилъ є҆сѝ*.
+
+[^282]: St. Cyril of Jerusalem was a staunch defender of Orthodoxy against Arianism and Pneumatomachianism (Macedonius), and his *Catechetical Lectures* form a cornerstone of Patristic mystagogy.
+
+[^283]: The phrase *неи́стовства тезоимени́тнагѡ* ("of him who was named after madness") is a Patristic pun on the name of Mani (*Manichaeus*), derived etymologically from Greek *mania* (*μανία*, frenzy/madness).
+
+[^284]: Slavonic *ма́нентовъ* refers to the Manichaean heresy (*Мане́нтъ* / Mani), which St. Cyril refuted at length in his Sixth Catechetical Lecture.
+
+[^285]: Ode 8 concludes with the final strophe spanning the cohort boundary: fol. 54v ends with *ꙗ҆́кѡ ст҃и́тель бж҃е́ственный и҆ / ꙗ҆́кѡ* ("as a divine hierarch and as..."), continued on fol. 55r (leaf p111).
+
+[^286]: Holy Martyrs Chrysanthus and Daria (*Хрѷса́нѳъ и҆ Да́рія*), martyred at Rome under Emperor Numerian (c. 283).
+
+[^287]: The noun *смра́да* ("stench") is split across the leaf turn: *смра́-* at the foot of fol. 55r (leaf p111) and *-да* at the head of fol. 55v (leaf p112).
+
+[^288]: The troparion spans the leaf boundary: fol. 56r (leaf p113) ends with the participle *ра́дꋋѧсѧ* ("rejoicing") and catchword *соверши́лъ*, completed on fol. 56v (leaf p114) by *соверши́лъ є҆сѝ мꋋче́нїа твоегѡ̀ подвигъ* ("thou didst accomplish the contest of thy martyrdom").
+
+[^289]: The troparion spans the leaf boundary: fol. 56v (leaf p114) ends with *со-* and catchword *бо́ръ*, completed on fol. 57r (leaf p115) by *бо́ръ же страда́льцевъ приве́лъ є҆сѝ хрⷭ҇тꋋ* ("and an assembly of sufferers thou didst lead unto Christ").
+
+[^290]: According to the *Passion of Sts. Chrysanthus and Daria*, when Daria was exposed in a brothel, a lion escaped from the vivarium and stood guard over her, preventing anyone from violating her chastity.
+
+[^291]: The compound noun *сщ҃енносло́вцѣ* ("sacred herald / theologian") spans the leaf boundary: *Сщ҃е́нно-* at the foot of fol. 57r (leaf p115) and *-сло́вцѣ* at the head of fol. 57v (leaf p116).
+
+[^292]: Holy Fathers slain at the Monastery of St. Sabbas the Sanctified (*Преподо́бніи ѻ҆тцы̀ во ѻ҆би́тели свята́го Са́ввы ᲂу҆біе́нніи*), slaughtered by marauding Saracens (c. 796).
+
+[^293]: The sticheron spans the leaf boundary: fol. 57v (leaf p116) ends with catchword *є҆́йже*, completed on fol. 58r (leaf p117) by *є҆́йже прича́ститисѧ ва́съ восхва́лѧщымъ, непреста́ннѡ моли́теся* ("which do ye unceasingly pray that we who praise you may partake of").
+
+[^294]: The compound noun *всесожже́нїѧ бже́ственна* ("divine holocausts") spans the leaf boundary: *бже́-* at the foot of fol. 58r (leaf p117) and *-ственна* at the head of fol. 58v (leaf p118).
+
+[^295]: The automelon *Повелѣ́нное та́иннѡ* corresponds to Greek *Τὸ προσταχθὲν μυστικῶς* ("That which was commanded mystically"), a standard Tone 4 Kathisma model.
+
+[^296]: The troparion spans the leaf boundary: fol. 58v (leaf p118) ends with catchword *Сверѣ́пѡ*, completed on fol. 59r (leaf p119) by *Сверѣ́пѡ и҆́же ѡ҆кре́стныхъ ѡ҆б̾е́мъ, ꙗ҆́коже возжела̀* ("Having fiercely seized those roundabout, even as he desired").
+
+[^297]: The troparion spans the leaf boundary: fol. 59r (leaf p119) ends with catchword *Преще́нїй*, completed on fol. 59v (leaf p120) by *Преще́нїй ва́рварскихъ не ᲂу҆боѧ́шасѧ, ᲂу҆го́дницы хв҃ы* ("The threats of the barbarians the favorites of Christ feared not").
+
+[^298]: The Theotokion of Ode 7 spans the leaf and cohort boundary: fol. 59v (leaf p120) ends with *мр҃і́ю* (catchword *мр҃і́ю*), completed on fol. 60r (leaf p121) of Cohort 13 by *мр҃і́ю чи́стꋋю бцⷣꋋ вои́стиннꋋ, ꙗ҆́кѡ ᲂу҆пова́нїе дꙋ́шъ на́шихъ* ("Mary, the pure Birthgiver of God in truth, as the hope of our souls").
+
+[^299]: *Triadicon:* In this hymn against Nestorian Christology, the Church proclaims that Christ is one hypostasis of the Holy Trinity, not two hypostases, which would make the Trinity a quaternity.
+
+[^300]: Slavonic *ѿ млады́хъ ногте́й* (literally "from tender fingernails", calqued on Greek ἐξ ἁπαλῶν ὀνύχων / Latin *a teneris unguiculis*), meaning from earliest childhood or tender youth.
+
+[^301]: An allusion to LXX Ps. 6:7: "I will wash my bed every night; I will water my couch with my tears." In Slavonic: *рыда́яй же и҆ ѡ҆мыва́я ѻ҆́деж[дꙋ]*, alluding to the Saint's nightly tears of repentance following David's example.
+
+[^302]: Slavonic *оу҆́е сы́й и҆спо́лненъ*, representing Byzantine Greek εὐφροσύνης / εὐωδίας, "being filled with delight/spiritual fragrance."
+
+[^303]: Quotation of LXX Isa. 7:14: "Behold, a virgin shall conceive in the womb, and shall bring forth a son, and thou shalt call his name Emmanuel."
+
+[^304]: Allusion to LXX Ps. 118:14: "In the way of Thy testimonies I have found delight, as much as in all riches."
+
+[^305]: Referring to the historical martyrdom of St. Basil of Ancyra under Julian the Apostate in 362 AD, whose flesh was sliced into strips or thongs (*на реме́нїе рѣ́зати*). Cf. Sozomen, *Eccl. Hist.* V.11.
+
+[^306]: Reference to 3 Kings (1 Kings) 18:38, where the fire of the Lord fell and consumed Elijah's sacrifice upon the water-drenched altar on Mount Carmel.
+
+[^307]: "Basil the Great" here translates the Slavonic epithet `васі́лїй вели́кїй` applied honorifically to the Hieromartyr Basil of Ancyra, celebrating his steadfast confession, and is not to be confused with St. Basil the Great, Archbishop of Caesarea in Cappadocia (commemorated January 1).
+
+[^308]: In the Slavonic title: `д҃вꙋ́ стꙋ̀ оу҆чени́къ` (two hundred disciples); historical and hagiographical witnesses specify either 199 or 200 companions martyred alongside St. Nicon under the prefect Quintianus in Sicily.
+
+[^309]: An allusion to Romans 8:35-39 ("Who shall separate us from the love of Christ? Shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?").
+
+[^310]: Acrostic in the Greek Menaion: Νίκης σε μέλπω τὸν ἐπώνυμον, μάκαρ. Ἰωσήφ ("I sing of thee who art named for victory, O blessed one. Joseph"), noting that the name Nicon (Νίκων) is derived from νίκη (victory).
+
+[^311]: According to his Life, St. Nicon's mother was a Christian who taught him during his military youth to make the sign of the Cross and invoke Christ in battle.
+
+[^312]: An allusion to the etymology of the name Nicon (derived from Greek νίκη, victory), designating him as a true conqueror over demonic delusion.
+
+[^313]: In Slavonic: `ли́къ сꙋгꙋбосо́тный` (twofold-hundred choir / company of two hundred), referring to the 200 disciples martyred alongside St. Nicon.
+
+[^314]: Colossians 1:26. This renowned idiomelon, traditionally ascribed to St. John of Damascus, expresses the core patristic dogma of the Incarnation and deification (*theosis*): "God becomes man, that He may make Adam god" (cf. St. Athanasius, *De Incarnatione*, 54:3).
+
+[^315]: Typological reference to the golden jar preserving the heavenly manna inside the Ark of the Covenant (Hebrews 9:4; Exodus 16:33).
+
+[^316]: Psalm 71:6 [LXX] / Psalm 72:6 ("He shall come down like rain upon a fleece").
+
+[^317]: Habakkuk 3:3 ("God will come from Teman, and the Holy One from mount Paran, an overshadowed mountain" [LXX]).
+
+[^318]: Numbers 17:8; Isaiah 11:1.
+
+[^319]: Isaiah 7:14 ("Behold, a virgin shall conceive in the womb, and bear a son, and thou shalt call his name Emmanuel") and Isaiah 9:6 ("Angel of Great Counsel" [LXX]).
+
+[^320]: Exodus 3:2.
+
+[^321]: Daniel 2:34, 45 ("A stone was cut out of a mountain without hands, which smote the image... and broke it to pieces").
+
+[^322]: Isaiah 19:1 ("Behold, the Lord sits upon a swift [light] cloud, and shall come into Egypt").
+
+[^323]: Isaiah 9:6 [LXX] ("Angel of Great Counsel").
+
+[^324]: Psalm 44:10, 12 [LXX] / Psalm 45:9, 11 ("At Thy right hand stood the queen in a vesture of gold... for the King hath greatly desired thy beauty").
+
+[^325]: Song of Songs 2:1-2 ("I am the flower of the plain, and the lily of the valleys... so is my companion among the daughters") and Psalm 44:12 [LXX].
+
+[^326]: Psalm 143:5 [LXX] / Psalm 144:5 ("Bow Thy heavens, O Lord, and come down").
+
+[^327]: Psalm 44:12 [LXX] / Psalm 45:11 ("And the King shall greatly desire thy beauty; for He is thy Lord").
+
+[^328]: Psalm 80:6 [LXX] / Psalm 81:5 ("He heard a tongue which he knew not").
+
+[^329]: 3 Kings (1 Kings) 8:27 and 2 Chronicles 6:18 ("Behold, the heaven and heaven of heavens cannot contain Thee; how much less this house that I have built?").
+
+[^330]: Genesis 18:1-10, where Abraham received the Three Angels beneath the Oak of Mamre, recognized patristically as an Old Testament theophany and figure of the divine indwelling.
+
+[^331]: Luke 1:26 ("And in the sixth month the angel Gabriel was sent from God unto a city of Galilee, named Nazareth").
+
+[^332]: Matthew 1:21 ("And she shall bring forth a son, and thou shalt call his name Jesus: for He shall save His people from their sins").
+
+[^333]: In the liturgical dialogue of the Annunciation, the Virgin addresses Gabriel as `человѣче` ("O man"), judging him by his outward appearance.
+
+[^334]: Luke 1:35 ("The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee").
+
+[^335]: Exodus 3:2 ("The bush burned with fire, and the bush was not consumed").
+
+[^336]: Genesis 28:12 ("And he dreamed, and behold a ladder set up on the earth, and the top of it reached to heaven").
+
+[^337]: Exodus 16:33; Hebrews 9:4.
+
+[^338]: Luke 1:38 ("Behold the handmaid of the Lord; be it unto me according to thy word").
+
+[^339]: Isaiah 66:1; Acts 7:49 ("Heaven is My throne, and earth is My footstool").
+
+[^340]: Isaiah 6:2; Ezekiel 1:18, 10:12.
+
+[^341]: Genesis 28:10. The Slavonic `студенецъ клятвенный` literally translates the Septuagint Greek φρέαρ τοῦ ὅρκου, rendering the Hebrew Beersheba ("Well of the Oath").
+
+[^342]: Col. 2:9.
+
+[^343]: Phil. 2:7 (the kenotic self-emptying of the Logos: ἑαυτὸν ἐκένωσεν).
+
+[^344]: St. Andrew of Crete (c. 660–740), designated here as "Andrew of Jerusalem" (Ἰεροσολυμίτης) after the monastery of St. Sabbas where he was tonsured.
+
+[^345]: Ps. 95:2 (LXX).
+
+[^346]: Ps. 95:1 (LXX).
+
+[^347]: St. Theophanes the Branded (c. 778–845), author of the Canon of the Annunciation.
+
+[^348]: Gen. 49:10: "The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him shall the gathering of the people be."
+
+[^349]: Isa. 7:14: "Behold, a virgin shall conceive, and bear a son, and shall call his name Emmanuel."
+
+[^350]: Ex. 3:2.
+
+[^351]: Ps. 71:6 (LXX) / Judg. 6:37–40 (the dew upon Gideon's fleece prefiguring the incarnation).
+
+[^352]: Ps. 131:11 (LXX).
+
+[^353]: Ps. 46:5 (LXX): "the beauty of Jacob which He loved."
+
+[^354]: Gen. 22:18 / Gen. 26:4 / Gal. 3:8.
+
+[^355]: Dan. 3:28ff (the Three Holy Children in the Babylonian furnace).
+
+[^356]: Gen. 28:12, 17.
+
+[^357]: Dan. 2:34–35, 45.
+
+[^358]: Isa. 7:14.
+
+[^359]: Judg. 6:37–40.
+
+[^360]: Ps. 113:2 (LXX): "Judah became His sanctuary" (сщ҃е́нїе / ἁγίασμα).
+
+[^361]: Ezek. 44:2.
+
+[^362]: Luke 1:38.
+
+[^363]: Phil. 2:7 (the kenotic self-emptying of the Logos into the form of a servant).
+
+[^364]: Ps. 109:3 (LXX): "from the womb before the morning star have I begotten Thee."
+
+[^365]: St. Theophanes the Branded (c. 778–845).
+
+[^366]: Phil. 2:7.
+
+[^367]: An Annunciation festal homily, traditionally attributed to St. John Chrysostom (CPG 4519 / PG 50:791) or St. Proclus of Constantinople.
+
+[^368]: Ps. 80:6 (LXX): "he heard a tongue which he knew not."
+
+[^369]: Ps. 103:4 (LXX) / Heb. 1:7.
+
+[^370]: Isa. 66:1 / Acts 7:49.
+
+[^371]: Ex. 3:1–8.
+
+[^372]: Prov. 8:22–30.
+
+[^373]: Ps. 95:2 (LXX).
+
+[^374]: Ps. 95:1 (LXX).
+
+[^375]: Ps. 71:6 (LXX).
+
+[^376]: Ps. 71:17 (LXX).
+
+[^377]: Ps. 131:13 (LXX).
+
+[^378]: Ps. 9:33 (LXX).
+
+[^379]: Ps. 9:33 (LXX).
+
+[^380]: Ps. 112:2 (LXX).
+
+[^381]: The prooimion of the Akathist Hymn to the Mother of God, traditionally attributed to St. Romanos the Melodist or Patriarch Sergius I (626).
+
+[^382]: The classical idiomelic sticheron marking the conclusion of the Forty Days of Great Lent and the transition into Lazarus Saturday and Holy Week.
+
+[^383]: Sticheron on the Praises for Lazarus Saturday.
+
+[^384]: Ps. 9:33 (LXX): "Arise, O Lord my God, let Thine hand be lifted up; forget not Thy poor for ever."
+
+[^385]: Ps. 9:2 (LXX): "I will give thanks unto Thee, O Lord, with my whole heart; I will speak of all Thy marvelous works."
+
+[^386]: Ps. 95:2 (LXX): "Sing unto the Lord, bless His name, proclaim His salvation from day to day."
+
+[^387]: Ps. 89:14 (LXX): "We were filled in the morning with Thy mercy; and we rejoiced and were glad in all our days."
+
+[^388]: Ps. 89:15 (LXX): "We have rejoiced for the days wherein Thou didst humble us, for the years wherein we saw evils."
+
+[^389]: Ps. 89:16 (LXX): "And look upon Thy servants, and upon Thy works; and guide their sons."
+
+[^390]: Ps. 89:17 (LXX): "And let the brightness of the Lord our God be upon us; and direct Thou the works of our hands upon us, yea, direct Thou the work of our hands."
+
+[^391]: Ps. 91:2 (LXX): "It is a good thing to give thanks unto the Lord, and to sing praises unto Thy name, O Most High."
+
+[^392]: Ps. 140:2 (LXX): "Let my prayer be set forth before Thee as incense; and the lifting up of my hands as an evening sacrifice."
+
+[^393]: The celebrated hymn of the nun Kassia (Kassiani) sung on Great Wednesday Matins: "O Lord, the woman who had fallen into many sins, perceiving Thy divinity..."
+
+[^394]: The Troparion of Great Thursday: "When the glorious disciples were enlightened at the washing of the feet..."
+
+[^395]: Ps. 33:2 (LXX): "I will bless the Lord at all times, His praise shall continually be in my mouth."
+
+[^396]: Ps. 91:2 (LXX): "It is a good thing to give thanks unto the Lord, and to sing praises unto Thy name, O Most High."
+
+[^397]: Gal. 3:13: "Christ hath redeemed us from the curse of the law, being made a curse for us."
+
+[^398]: Ps. 98:5 (LXX): "Exalt ye the Lord our God, and worship at His footstool; for He is holy."
+
+[^399]: Ps. 95:2 (LXX): "Sing unto the Lord, bless His name, proclaim His salvation from day to day."
+
+[^400]: Gal. 3:27: "For as many of you as have been baptized into Christ have put on Christ."
+
+[^401]: The ancient Cherubic Hymn of the Liturgy of St. James, prescribed for Holy Saturday: "Let all mortal flesh keep silence, and with fear and trembling stand, and ponder nothing earthly within itself..."
+
+[^402]: Kyriopascha (Greek: Κυριοπάσχα, the Lord's Pascha): the rare liturgical occurrence when the Feast of the Annunciation (March 25) coincides exactly with the Sunday of Holy Pascha.
+
+[^403]: Gen. 1:1.
+
+[^404]: Ps. 67:2 (LXX): "Let God arise, and let His enemies be scattered; and let them that hate Him flee from before His face."
+
+[^405]: Ps. 67:3 (LXX): "As smoke vanishes, so let them vanish; as wax melts before the fire..."
+
+[^406]: Ps. 67:3 (LXX): "...so let the sinners perish from the face of God."
+
+[^407]: Ps. 117:24 (LXX): "This is the day which the Lord hath made; let us be glad and rejoice in it."
+
+[^408]: Hab. 2:1, citing the incipit of St. Gregory the Theologian's celebrated Paschal Oration (Oration 45): "I will stand upon my watch, says the venerable Habakkuk; and I will stand with him today..."
+
+[^409]: The opening of St. Gregory the Theologian's Oration 1 (On Pascha): "It is the Day of Resurrection, and the beginning hath a goodly auspice..."
+
+[^410]: Luke 1:39–49, 56 (Pericope 4 of Luke, the festal Matins Gospel of the Mother of God).
+
+[^411]: Ps. 67:27 (LXX): "In the congregations bless ye God, the Lord from the springs of Israel."
+
+[^412]: Ps. 76:14 (LXX): "Who is a great God like our God? Thou art our God, Who doest wonders."
+
+[^413]: John 20:19–25 (Pericope 65 of John, the Gospel of the Paschal Sunday Agape Vespers).
+
+[^414]: Ps. 67:27 (LXX): "In the congregations bless ye God, the Lord from the springs of Israel."
+
+[^415]: Ps. 9:33 (LXX): "Arise, O Lord my God, let Thine hand be lifted up; forget not Thy poor for ever."
+
+[^416]: The megalynarion hymn of St. John Damascene replacing "It is truly meet" at the Divine Liturgy of St. Basil the Great: "All of creation rejoices in thee, O thou that art full of grace: the angelic assembly and the race of man..."
+
+[^417]: Ps. 9:33 (LXX): "Arise, O Lord my God, let Thine hand be lifted up; forget not Thy poor for ever."
+
+[^418]: Ps. 9:33 (LXX): "Arise, O Lord my God, let Thine hand be lifted up; forget not Thy poor for ever."
+
+[^419]: The Great Evening Prokeimenon sung on Sunday evenings of Great Lent (Ps. 68:17: "Turn not away Thy face from Thy servant," or Ps. 60:6: "Thou hast given an heritage to them that fear Thy name").
+
+[^420]: In the Pochaiv 1761 printed edition, this rubrical exception for the transferral of the Great Canon is marked by a prominent marginal callout *Зрѝ* (*Take heed / Note*).
+
+[^421]: The Church Slavonic printed witness contains a typographical dittography: *бракононеискꙋ́снаѧ* for *браконеискꙋ́снаѧ* (*who knewest not wedlock / unwedded*).
+
+[^422]: In the Church Slavonic text on leaf 97v, the typographical misprint *Си́дъ тво́й* appears in place of *Ви́дъ тво́й* (*Thy appearance / Thy form*).
+
+[^423]: In the Church Slavonic text, *несна́го* is an evident typographical misprint for *небе́снаго* (*heavenly*).
+
+[^424]: In the Church Slavonic text on leaf 98r, the typographical error *ма́твами* occurs for *моли́твами* (*by prayers*).
+
+[^425]: In the Church Slavonic text on leaf 98r, *Просвѣще́мъ* is a typographical misprint for the participle *Просвѣще́нъ* (*Enlightened*).
+
+[^426]: The rare Church Slavonic participle *ѡ҆дире́тковавшꙋю* derives from the patrimonial/legal term *дире́токъ* (*heir, inheritance*), signifying one who has received as heritage or possessed the Supersubstantial God.
+
+[^427]: In the Church Slavonic text on leaf 99r, *всебагве́ннаѧ* is a typographical misprint in the 1761 Pochaiv edition for *всебл҃же́ннаѧ* (*all-blessed*).
+
+[^428]: The prayer for the King (*коро́лю*) reflects the historical civil context of the Pochaiv Lavra print shop under the Polish-Lithuanian Commonwealth during the reign of Augustus III.
+
+[^429]: In the Church Slavonic text on leaf 100r, `Цр҃те́ѧ` is an abbreviated scribal form for `Ца́рствїѧ` (*of the Kingdom*).
+
+[^430]: The Greek alphabetic acrostic preserved in the Slavonic title reads: *Матѡ́нꙋ бж҃е́ственною пою̀ сла́вꙋ. Творе́нїе fеофа́на* ("I sing the divine glory of Matrona. A composition of Theophanes").
+
+[^431]: In the Church Slavonic text on leaf 101r, the opening word of the troparion is printed as `Та̀`, providing the initial letter *T* for the acrostic while functioning metrically as an accusative or demonstrative pointer.
+
+[^432]: The Church Slavonic verb `слꙋчи́тися` here preserves its classical patristic sense of mystical union or meeting (*coniungi*) with Christ the heavenly Bridegroom.
+
+[^433]: In the Church Slavonic text on leaf 102r, `прл҃восла́внꙋ` is an apparent typographical error in the Pochaiv 1761 edition for `правосла́внꙋ` (*Orthodox*).
+
+[^434]: The acrostic (*краегране́сїе*) of the canon to St. Hilarion reads: *Твоѧ̑ ти́хїѧ восхвалю̀ ѻ҆́ч҃е нра́вы. Творе́нїе і҆ѡ́сифа* ("I will praise thy quiet ways, O father. A composition of Joseph").
+
+[^435]: In the Church Slavonic text on leaf 102v, `махода́тайствомъ` appears with an errant initial syllable *ма-* for `хода́тайствомъ` (*by mediation / intercession*).
+
+[^436]: The Church Slavonic printed witness exhibits a typographical dittography in the prefix: `ꙋ҆ꙋвяди́лъ` for `ꙋ҆вяди́лъ` (*thou didst wither*).
+
+[^437]: The printed form `ꙋ҆сты́ню` represents an epigraphic typographical omission of the initial consonant *п-* for `пꙋсты́ню` (*wilderness*).
+
+[^438]: The acrostic (*краегране́сїе*) of the canon to St. Stephen reads: *Твоѧ̑ чествꙋ́ю всебл҃же́нне бж҃е́ственныѧ трꙋды̀. Творе́нїе кѵ́ръ і҆ѡ́сифа* ("I honor thy divine labors, O all-blessed one. A composition of Lord Joseph").
+
+[^439]: In the Church Slavonic text on leaf 103r, `мр҃е` is a typographical misprint in the 1761 Pochaiv edition for `мꙋ́дре` (*O wise one*).
+
+[^440]: The printed form `мꙋ́никъ` on leaf 103v is an evident typographical omission for `мꙋ́ченикъ` (*martyr*).
+
+[^441]: The corrupt reading `Гꙋ́битѧлъ є҆сѝ` in the Pochaiv 1761 witness reflects a garbled form of `Оу҆гꙋби́лъ є҆сѝ` (*thou didst lose / forfeit* thy life for Christ's sake, alluding to Matt. 10:39).
+
+[^442]: The printed compound form `нб҃е́щественнымъ` on leaf 103v contains a typographical corruption for `небе́снымъ` (*heavenly*).
+
+[^443]: In the Church Slavonic text on leaf 104v, `то сты́ми` is a typographical misprint in the 1761 Pochaiv edition for `со ст҃ы́ми` (*with the saints*).
+
+[^444]: The printed form `ѡ҆чꙋща́еши` on leaf 104v is a typographical error in the Pochaiv 1761 witness for `просвѣща́еши` (*thou dost enlighten / give sight to*) or `ѡ҆чища́еши` (*thou cleansest*).
+
+[^445]: On leaf 105r, the text of the Heirmos of Ode 7 is printed at the top of the leaf, completing the liturgical incipit label positioned at the base of Fol. 104v.
+
+[^446]: The Church Slavonic phrase `по́лкъ сло́весныхъ` on leaf 105v renders the Greek hymnographic idiom τῶν λογικῶν / rational beings, designating the angelic choirs.
+
+[^447]: The printed reading `мꙋ́никъ` on leaf 105v represents a typographical omission in the 1761 Pochaiv edition for `мꙋ́ченикъ` (*martyr*).
+
+[^448]: The Church Slavonic text on leaf 106r exhibits an errant metathesis in the prefix: `ѡ҆балгоꙋха́лъ` for `ѡ҆благоꙋха́лъ` (*thou didst fill with sweet fragrance*).
+
+[^449]: In the Church Slavonic text on leaf 106v, `ѻ҆́бцы` is a typographical misprint in the 1761 Pochaiv edition for `ѻ҆́вцы` (*sheep*).
+
+[^450]: The printed form `Мꙋ́нче` on leaf 106v represents an epigraphic typographical error for `Мꙋ́чениче` (*O martyr*).
+
+[^451]: In the Church Slavonic text on leaf 107r, `млⷣрдемъ` appears as an abbreviated scribal misprint for `милосе́рдїемъ` (*by thy tender compassion*).
+
+[^452]: The Church Slavonic noun `бл҃года́нїе` on leaf 108r functions as a synonym for `бл҃годѣѧ́нїе` (*benefaction / divine blessing* upon creation).
+
+[^453]: In the Church Slavonic text on leaf 109r, `ноша́хъ є҆сѝ` is an irregular scribal form in the 1761 Pochaiv edition for `носи́лъ є҆сѝ` (*thou didst carry*).
+
+[^454]: On leaf 109v, `Ко свѣ́тъ` is a typographical misprint for `Къ свѣ́тꙋ` (*unto the light*), and `свѣ́ршны` is a corrupt reading for `соверше́ннѡ` (*completely / perfectly*).
+
+[^455]: The corrupt reading `ꙋ҆слы́хъ` on leaf 109v represents a scribal error for `ꙋ҆лучи́въ` or `ꙋ҆сво́ивъ` (*having attained / tasted* the sweetness of self-control).
+
+[^456]: The printed form `ѡ҆щꙋще́нїа` on leaf 109v is a typographical error for `ѡ҆чище́нїа` (*of purification*).
+
+[^457]: The printed noun `фарашни́ты` on leaf 109v is a variant Slavonic rendering of the Greek Φαραωνίτας (*the charioteers / host of Pharaoh*), alluding to the drowning of the Egyptians in the Red Sea.
+
+[^458]: Moses the lawgiver and David the gentle ruler are classical patristic paradigms of leadership and virtue invoked for monastic legislators.
+
+[^459]: Allusion to Psalm 22:2 (LXX): 'He hath made me to dwell in a place of pasture; He hath nourished me by the water of rest.'
+
+[^460]: Allusion to Luke 1:48–49: 'For behold, from henceforth all generations shall call me blessed. For He that is mighty hath done to me great things.'
+
+[^461]: Allusion to the wedding garment in the parable of the marriage feast, Matthew 22:11–12.
+
+[^462]: Allusion to Matthew 5:5: 'Blessed are the meek, for they shall inherit the earth.'
+
+[^463]: St. Hypatius, Bishop of Gangra in Paphlagonia (d. ca. 326/340), participated in the First Ecumenical Council of Nicaea (325) and was martyred by Novatian schismatics.
+
+[^464]: Allusion to St. Hypatius's active defense of the Nicene confession against Arius at the First Ecumenical Council in 325.
+
+[^465]: Slavonic: 'единосꙋщна' (Greek: ὁμοούσιος).
+
+[^466]: According to the Life of St. Hypatius, through prayer he miraculously slew a monstrous serpent that had entered the imperial treasury in Constantinople.
+
+[^467]: St. Joseph the Hymnographer (ca. 816–886), author of the nine-ode canon.
+
+[^468]: According to tradition, St. Hypatius prayed over a body of water or well at night, and miraculous fiery lamps or luminaries appeared above it, guiding travelers and confirming his holiness.
+
+[^469]: According to his Life, St. Hypatius made the sign of the cross over bitter mountain springs near Gangra, transforming them into sweet and wholesome waters.
+
+[^470]: St. Hypatius was ambushed and stoned by Novatian heretics; tradition relates that the murderers immediately became possessed by demons until they repented and were brought to his tomb.
+
+[^471]: Allusion to Emperor Constantius II, before whom St. Hypatius burned the slain serpent.
+
+[^472]: The Emperor ordered an icon of St. Hypatius to be painted and placed over the imperial treasury in Constantinople as an apotropaic guardian.
+
+[^473]: Canonical patristic formula of St. Basil the Great (*On the Holy Spirit*, 18.45): 'The honor paid to the image passes over to the prototype' (ἡ γὰρ τῆς εἰκόνος τιμὴ ἐπὶ τὸ πρωτότυπον διαβαίνει).
+
+[^474]: St. Hypatius was martyred by being stoned, like the Proto-martyr Stephen (Acts 7:58–60).
+
+[^475]: Allusion to Psalm 44:2 (LXX): 'My tongue is the pen of a quickly writing scribe.'
+
+[^476]: Slavonic: 'со́ꙋщихъ ѿ вѣ́ка' (Greek: τῶν ἀπ' αἰῶνος).
+
+[^477]: The concluding Theotokion gathers the intercession of the entire heavenly Church—angels, apostles, prophets, martyrs, and righteous—through the mediation of the Mother of God.
+
+[^478]: Codicological end of Volume 7 (March) of the 1761 Pochaiv Menaion. The bottom catchword 'Бг҃ородичны' points to the standard Menaion appendix of dismissory Theotokia (Bogorodichny) appended at the conclusion of monthly codices.

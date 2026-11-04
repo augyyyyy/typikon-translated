@@ -1,0 +1,168 @@
+{
+  "timestamp": "2026-11-03T17:20:42.580628+00:00",
+  "monument_id": "1761_pochaiv_minea_07_mar",
+  "monument_type": "anthologion",
+  "cohort": 17,
+  "target_file": "1761_pochaiv_minea_07_mar_cohort17_raw_draft.md",
+  "overall_status": "PASSED",
+  "cohort_telemetry": {
+    "prepared_at_iso": null,
+    "first_verified_at_iso": "2026-11-03T17:20:37.793858+00:00",
+    "verified_at_iso": "2026-11-03T17:20:42.565920+00:00",
+    "initial_duration_sec": null,
+    "duration_sec": null,
+    "source_words": 3081,
+    "draft_words": 4798,
+    "footnote_count": 21,
+    "footnote_words": 180,
+    "sgc02_ratio": 1.208
+  },
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1761_pochaiv_minea_07_mar_cohort17_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1761_pochaiv_minea_07_mar_cohort17_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1761_pochaiv_minea_07_mar_cohort17_raw_draft.md",
+      "footnotes_file": "1761_pochaiv_minea_07_mar_cohort17_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 21,
+      "definition_markers_count": 21,
+      "text_markers": [
+        "[^363]",
+        "[^364]",
+        "[^365]",
+        "[^366]",
+        "[^367]",
+        "[^368]",
+        "[^369]",
+        "[^370]",
+        "[^371]",
+        "[^372]",
+        "[^373]",
+        "[^374]",
+        "[^375]",
+        "[^376]",
+        "[^377]",
+        "[^378]",
+        "[^379]",
+        "[^380]",
+        "[^381]",
+        "[^382]",
+        "[^383]"
+      ],
+      "definition_markers": [
+        "[^363]",
+        "[^364]",
+        "[^365]",
+        "[^366]",
+        "[^367]",
+        "[^368]",
+        "[^369]",
+        "[^370]",
+        "[^371]",
+        "[^372]",
+        "[^373]",
+        "[^374]",
+        "[^375]",
+        "[^376]",
+        "[^377]",
+        "[^378]",
+        "[^379]",
+        "[^380]",
+        "[^381]",
+        "[^382]",
+        "[^383]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1761_pochaiv_minea_07_mar_cohort17_raw_draft.md",
+      "passed": true,
+      "paragraphs": 99,
+      "headings_count": 0,
+      "headings": [],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 161,
+        "max_leaf": 170
+      },
+      "anomalies": []
+    },
+    "monument_type_policy": {
+      "passed": true,
+      "monument_type": "anthologion",
+      "violation_count": 0,
+      "violations": []
+    },
+    "orthographic_authenticity_v5c": {
+      "passed": true,
+      "violation_count": 0,
+      "violations": [],
+      "status": "PASSED"
+    },
+    "subagent_trajectory": {
+      "status": "PASSED",
+      "passed": true,
+      "transcript_found": true,
+      "conversation_id": "792e8408-b915-4053-9584-18856ed897ec",
+      "expected_leaves_count": 10,
+      "viewed_leaves": [
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170
+      ],
+      "unviewed_leaves": [],
+      "view_timestamps": {
+        "161": "2026-11-03T17:04:24Z",
+        "162": "2026-11-03T17:04:42Z",
+        "163": "2026-11-03T17:05:06Z",
+        "164": "2026-11-03T17:06:28Z",
+        "165": "2026-11-03T17:06:41Z",
+        "166": "2026-11-03T17:07:17Z",
+        "167": "2026-11-03T17:07:42Z",
+        "168": "2026-11-03T17:08:08Z",
+        "169": "2026-11-03T17:08:31Z",
+        "170": "2026-11-03T17:08:54Z"
+      },
+      "total_tool_calls": 42,
+      "tool_call_waste_pct": 0.0,
+      "violations": [],
+      "contaminated_leaves": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 22.07 - 1761 Pochayiv Menaion March\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "cohort_info_telemetry_leaves": [],
+    "total_queued_leaves": 0,
+    "info_telemetry_leaves": 2,
+    "unresolved_quarantines": 0
+  }
+}
