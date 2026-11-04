@@ -1,0 +1,45 @@
+{
+  "monument_id": "1761_pochaiv_minea_09_may",
+  "title": "1761 Pochayiv Menaion — Vol. 9: May (Pochayiv Lavra, 1761)",
+  "monument_type": "anthologion",
+  "genre_register": "hymnographic",
+  "retrospective_timestamp": "2026-11-04T11:42:05.427775+00:00",
+  "codicological_profile": {
+    "total_physical_leaves": 236,
+    "cohort_count": 24,
+    "default_cohort_size": 10,
+    "monument_type": "anthologion"
+  },
+  "subagent_execution_telemetry": {
+    "total_cohorts_dispatched": 24,
+    "worker_model": "flash",
+    "cohorts_passing_gate_100pct": 24,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.1,
+      "median_cohort_ratio": 1.16,
+      "max_cohort_median": 1.29
+    }
+  },
+  "argon_review_queue_telemetry": {
+    "total_items_recorded": 1,
+    "resolved_by_argon": 1,
+    "info_telemetry_only": 0,
+    "unresolved_quarantines": 0,
+    "codicological_crux_count": 0
+  },
+  "final_publication_verification": {
+    "parts_count": 1,
+    "parts": [
+      "1761_pochaiv_minea_09_may_part0_front_matter.md"
+    ],
+    "total_footnotes_verified": 431,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.1,
+      "median_cohort_ratio": 1.16,
+      "max_cohort_median": 1.29
+    },
+    "all_6_publication_gates_passed": true
+  },
+  "edge_cases_and_anomalies": [],
+  "engine_hardening_proposals": []
+}

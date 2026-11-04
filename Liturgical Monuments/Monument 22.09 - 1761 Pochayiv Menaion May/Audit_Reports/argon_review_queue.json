@@ -1,0 +1,21 @@
+{
+  "monument_id": "1761_pochaiv_minea_09_may",
+  "updated_at": "2026-11-04T11:41:33.583448+00:00",
+  "total_queued_leaves": 0,
+  "info_telemetry_leaves": 0,
+  "unresolved_quarantines": 0,
+  "items": [
+    {
+      "leaf_num": 198,
+      "cohort": 20,
+      "status": "RESOLVED_BY_ARGON",
+      "reasons": [
+        "codicological_or_collation_crux: paper repair"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.09 - 1761 Pochayiv Menaion May\\Draft\\1761_pochaiv_minea_09_may_cohort20_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.09 - 1761 Pochayiv Menaion May\\Source Text\\1761_pochaiv_minea_09_may_cohort20_source.txt",
+      "updated_at": "2026-11-04T05:01:58.425927+00:00",
+      "resolved_at": "2026-11-04T11:41:31.997234+00:00"
+    }
+  ]
+}

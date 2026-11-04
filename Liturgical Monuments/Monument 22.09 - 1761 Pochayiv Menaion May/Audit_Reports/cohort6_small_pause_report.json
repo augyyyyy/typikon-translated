@@ -1,0 +1,157 @@
+{
+  "timestamp": "2026-11-04T01:54:39.920661+00:00",
+  "monument_id": "1761_pochaiv_minea_09_may",
+  "monument_type": "anthologion",
+  "cohort": 6,
+  "target_file": "1761_pochaiv_minea_09_may_cohort6_raw_draft.md",
+  "overall_status": "PASSED",
+  "cohort_telemetry": {
+    "prepared_at_iso": null,
+    "first_verified_at_iso": "2026-11-04T01:54:38.154303+00:00",
+    "verified_at_iso": "2026-11-04T01:54:39.909710+00:00",
+    "initial_duration_sec": null,
+    "duration_sec": null,
+    "source_words": 2698,
+    "draft_words": 4046,
+    "footnote_count": 12,
+    "footnote_words": 503,
+    "sgc02_ratio": 1.1481
+  },
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1761_pochaiv_minea_09_may_cohort6_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1761_pochaiv_minea_09_may_cohort6_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1761_pochaiv_minea_09_may_cohort6_raw_draft.md",
+      "footnotes_file": "1761_pochaiv_minea_09_may_cohort6_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 12,
+      "definition_markers_count": 12,
+      "text_markers": [
+        "[^53]",
+        "[^54]",
+        "[^55]",
+        "[^56]",
+        "[^57]",
+        "[^58]",
+        "[^59]",
+        "[^60]",
+        "[^61]",
+        "[^62]",
+        "[^63]",
+        "[^64]"
+      ],
+      "definition_markers": [
+        "[^53]",
+        "[^54]",
+        "[^55]",
+        "[^56]",
+        "[^57]",
+        "[^58]",
+        "[^59]",
+        "[^60]",
+        "[^61]",
+        "[^62]",
+        "[^63]",
+        "[^64]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1761_pochaiv_minea_09_may_cohort6_raw_draft.md",
+      "passed": true,
+      "paragraphs": 213,
+      "headings_count": 1,
+      "headings": [
+        {
+          "line": 225,
+          "level": 2,
+          "title": "May 8. Holy Apostle and Evangelist John the Theologian[^59]",
+          "leaf": 57
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 51,
+        "max_leaf": 60
+      },
+      "anomalies": []
+    },
+    "monument_type_policy": {
+      "passed": true,
+      "monument_type": "anthologion",
+      "violation_count": 0,
+      "violations": []
+    },
+    "orthographic_authenticity_v5c": {
+      "passed": true,
+      "violation_count": 0,
+      "violations": [],
+      "status": "PASSED"
+    },
+    "subagent_trajectory": {
+      "status": "PASSED",
+      "passed": true,
+      "transcript_found": true,
+      "conversation_id": "8b816be5-a408-4f94-86f0-edad01932c20",
+      "expected_leaves_count": 10,
+      "viewed_leaves": [
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60
+      ],
+      "unviewed_leaves": [],
+      "view_timestamps": {
+        "51": "2026-11-04T01:40:10Z",
+        "52": "2026-11-04T01:40:16Z",
+        "53": "2026-11-04T01:40:34Z",
+        "54": "2026-11-04T01:41:02Z",
+        "55": "2026-11-04T01:42:26Z",
+        "56": "2026-11-04T01:42:45Z",
+        "57": "2026-11-04T01:43:03Z",
+        "58": "2026-11-04T01:43:16Z",
+        "59": "2026-11-04T01:43:27Z",
+        "60": "2026-11-04T01:43:33Z"
+      },
+      "total_tool_calls": 46,
+      "tool_call_waste_pct": 0.0,
+      "violations": [],
+      "contaminated_leaves": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 22.09 - 1761 Pochayiv Menaion May\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "cohort_info_telemetry_leaves": [],
+    "total_queued_leaves": 0,
+    "info_telemetry_leaves": 0,
+    "unresolved_quarantines": 0
+  }
+}

@@ -1,0 +1,12 @@
+[^295]: The printed Slavonic witness reads `смꙋ́драго` (*smudrago*), an epigraphic misprint for `мꙋ́драго` (*mudrago*, "wise").
+[^296]: The printed Slavonic witness reads `великонмени́тїи` (*velikonmenitii*), an epigraphic misprint with Cyrillic 'н' for 'и' (`великоимени́тїи`, "renowned / illustrious").
+[^297]: The printed Slavonic witness reads `Сꙗ҆́ческими` (*Syacheskimi*), an epigraphic variant or misprint for `Вся́ческими` (*Vsyacheskimi*, "with all-various / all manner of").
+[^298]: Fol. 77v: The printed Slavonic witness reads `бнтїйствꙋя` (*bntiistvuya*), an epigraphic misprint with Cyrillic 'б' for 'в' (`витїйствꙋя`, "rhetorically / eloquently proclaiming").
+[^299]: Fol. 77v: The printed text reads `за млⷭ҇рдїе млⷭ҇ти`, an epigraphic corruption or pleonasm for `за милосе́рдїе ми́лости` ("out of the tenderheartedness of mercy").
+[^300]: Fol. 78r: The printed Slavonic witness reads `ᲂу҆слы́шался` (*uslyshalsya*), an epigraphic corruption for `озари́вся` / Greek `καταυγασθείς` ("having been illumined / shone upon").
+[^301]: Fol. 78r: The printed Slavonic text reads `Въ со́нномъ` (*V sonnom*), an epigraphic scribal error for `Въ со́нмѣ` (*V sonme*, "in the assembly / choir").
+[^302]: Fol. 78v: `Ѡ҆нтїйскꙋю` refers to Julius Annius (Anthus), the Roman proconsul of Prusa under Diocletian, who cast Saint Patrick and his companions into the boiling thermal waters of Prusa.
+[^303]: Fol. 78v: The printed Slavonic witness reads `дв҃а` (*dva*), an epigraphic scribal error/contraction for `дв҃да` (*Dvda* / *Davida*, King David; cf. Ps. 44:13 LXX).
+[^304]: Fol. 79r: The printed Slavonic witness reads `ст҃ли` (*stli*), an epigraphic contraction for `ст҃и́тели` (*stíteli*, "hierarchs").
+[^305]: Fol. 80r: The printed Slavonic text reads `къ ве́нѣй высотѣ̀` (*k venei vysote*), an epigraphic corruption for `къ оной высотѣ` or `къ горней высотѣ` ("unto that / heavenly height").
+[^306]: Fol. 80v: The printed Slavonic text reads `ѡ҆лꙋчи́лся є҆сѝ` (*oluchilsya yesi*), an epigraphic misprint for `ѡ҆полчи́лся є҆сѝ` / `ᲂу҆стреми́лся є҆сѝ` ("thou didst arm thyself / hasten").

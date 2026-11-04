@@ -1,0 +1,163 @@
+{
+  "timestamp": "2026-11-04T04:03:42.280533+00:00",
+  "monument_id": "1761_pochaiv_minea_09_may",
+  "monument_type": "anthologion",
+  "cohort": 16,
+  "target_file": "1761_pochaiv_minea_09_may_cohort16_raw_draft.md",
+  "overall_status": "PASSED",
+  "cohort_telemetry": {
+    "prepared_at_iso": null,
+    "first_verified_at_iso": "2026-11-04T04:03:40.443221+00:00",
+    "verified_at_iso": "2026-11-04T04:03:42.269393+00:00",
+    "initial_duration_sec": null,
+    "duration_sec": null,
+    "source_words": 2884,
+    "draft_words": 3849,
+    "footnote_count": 12,
+    "footnote_words": 284,
+    "sgc02_ratio": 1.1003
+  },
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1761_pochaiv_minea_09_may_cohort16_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1761_pochaiv_minea_09_may_cohort16_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1761_pochaiv_minea_09_may_cohort16_raw_draft.md",
+      "footnotes_file": "1761_pochaiv_minea_09_may_cohort16_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 12,
+      "definition_markers_count": 12,
+      "text_markers": [
+        "[^295]",
+        "[^296]",
+        "[^297]",
+        "[^298]",
+        "[^299]",
+        "[^300]",
+        "[^301]",
+        "[^302]",
+        "[^303]",
+        "[^304]",
+        "[^305]",
+        "[^306]"
+      ],
+      "definition_markers": [
+        "[^295]",
+        "[^296]",
+        "[^297]",
+        "[^298]",
+        "[^299]",
+        "[^300]",
+        "[^301]",
+        "[^302]",
+        "[^303]",
+        "[^304]",
+        "[^305]",
+        "[^306]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1761_pochaiv_minea_09_may_cohort16_raw_draft.md",
+      "passed": true,
+      "paragraphs": 203,
+      "headings_count": 2,
+      "headings": [
+        {
+          "line": 25,
+          "level": 2,
+          "title": "May 19. Holy Hieromartyr Patrick, Bishop of Prusa, and His Companions",
+          "leaf": 151
+        },
+        {
+          "line": 206,
+          "level": 2,
+          "title": "May 20. Holy Martyr Thalelaeus",
+          "leaf": 158
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 151,
+        "max_leaf": 160
+      },
+      "anomalies": []
+    },
+    "monument_type_policy": {
+      "passed": true,
+      "monument_type": "anthologion",
+      "violation_count": 0,
+      "violations": []
+    },
+    "orthographic_authenticity_v5c": {
+      "passed": true,
+      "violation_count": 0,
+      "violations": [],
+      "status": "PASSED"
+    },
+    "subagent_trajectory": {
+      "status": "PASSED",
+      "passed": true,
+      "transcript_found": true,
+      "conversation_id": "7ab6338a-de22-4063-bdcd-d1da891eab07",
+      "expected_leaves_count": 10,
+      "viewed_leaves": [
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160
+      ],
+      "unviewed_leaves": [],
+      "view_timestamps": {
+        "151": "2026-11-04T03:52:39Z",
+        "152": "2026-11-04T03:52:42Z",
+        "153": "2026-11-04T03:53:04Z",
+        "154": "2026-11-04T03:53:25Z",
+        "155": "2026-11-04T03:55:43Z",
+        "156": "2026-11-04T03:56:12Z",
+        "157": "2026-11-04T03:56:36Z",
+        "158": "2026-11-04T03:58:57Z",
+        "159": "2026-11-04T03:59:16Z",
+        "160": "2026-11-04T03:59:37Z"
+      },
+      "total_tool_calls": 25,
+      "tool_call_waste_pct": 0.0,
+      "violations": [],
+      "contaminated_leaves": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 22.09 - 1761 Pochayiv Menaion May\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "cohort_info_telemetry_leaves": [],
+    "total_queued_leaves": 0,
+    "info_telemetry_leaves": 0,
+    "unresolved_quarantines": 0
+  }
+}

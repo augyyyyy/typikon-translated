@@ -1,0 +1,157 @@
+{
+  "timestamp": "2026-11-04T01:39:38.019737+00:00",
+  "monument_id": "1761_pochaiv_minea_09_may",
+  "monument_type": "anthologion",
+  "cohort": 5,
+  "target_file": "1761_pochaiv_minea_09_may_cohort5_raw_draft.md",
+  "overall_status": "PASSED",
+  "cohort_telemetry": {
+    "prepared_at_iso": null,
+    "first_verified_at_iso": "2026-11-04T01:39:36.161021+00:00",
+    "verified_at_iso": "2026-11-04T01:39:38.003965+00:00",
+    "initial_duration_sec": null,
+    "duration_sec": null,
+    "source_words": 2495,
+    "draft_words": 3965,
+    "footnote_count": 9,
+    "footnote_words": 325,
+    "sgc02_ratio": 1.1566
+  },
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1761_pochaiv_minea_09_may_cohort5_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1761_pochaiv_minea_09_may_cohort5_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1761_pochaiv_minea_09_may_cohort5_raw_draft.md",
+      "footnotes_file": "1761_pochaiv_minea_09_may_cohort5_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 9,
+      "definition_markers_count": 9,
+      "text_markers": [
+        "[^44]",
+        "[^45]",
+        "[^46]",
+        "[^47]",
+        "[^48]",
+        "[^49]",
+        "[^50]",
+        "[^51]",
+        "[^52]"
+      ],
+      "definition_markers": [
+        "[^44]",
+        "[^45]",
+        "[^46]",
+        "[^47]",
+        "[^48]",
+        "[^49]",
+        "[^50]",
+        "[^51]",
+        "[^52]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1761_pochaiv_minea_09_may_cohort5_raw_draft.md",
+      "passed": true,
+      "paragraphs": 251,
+      "headings_count": 2,
+      "headings": [
+        {
+          "line": 67,
+          "level": 2,
+          "title": "May 6. Holy and Righteous Job the Long-Suffering[^45]",
+          "leaf": 42
+        },
+        {
+          "line": 253,
+          "level": 2,
+          "title": "May 7. Apparition of the Sign of the Precious Cross in Jerusalem[^50]",
+          "leaf": 47
+        }
+      ],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 41,
+        "max_leaf": 50
+      },
+      "anomalies": []
+    },
+    "monument_type_policy": {
+      "passed": true,
+      "monument_type": "anthologion",
+      "violation_count": 0,
+      "violations": []
+    },
+    "orthographic_authenticity_v5c": {
+      "passed": true,
+      "violation_count": 0,
+      "violations": [],
+      "status": "PASSED"
+    },
+    "subagent_trajectory": {
+      "status": "PASSED",
+      "passed": true,
+      "transcript_found": true,
+      "conversation_id": "19ac8945-53e3-49f3-861b-669efc169b10",
+      "expected_leaves_count": 10,
+      "viewed_leaves": [
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "unviewed_leaves": [],
+      "view_timestamps": {
+        "41": "2026-11-04T01:26:09Z",
+        "42": "2026-11-04T01:26:14Z",
+        "43": "2026-11-04T01:26:31Z",
+        "44": "2026-11-04T01:28:41Z",
+        "45": "2026-11-04T01:28:45Z",
+        "46": "2026-11-04T01:29:03Z",
+        "47": "2026-11-04T01:31:33Z",
+        "48": "2026-11-04T01:31:52Z",
+        "49": "2026-11-04T01:32:09Z",
+        "50": "2026-11-04T01:32:26Z"
+      },
+      "total_tool_calls": 47,
+      "tool_call_waste_pct": 0.0,
+      "violations": [],
+      "contaminated_leaves": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 22.09 - 1761 Pochayiv Menaion May\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "cohort_info_telemetry_leaves": [],
+    "total_queued_leaves": 0,
+    "info_telemetry_leaves": 0,
+    "unresolved_quarantines": 0
+  }
+}

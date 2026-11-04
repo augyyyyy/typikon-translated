@@ -2716,10 +2716,27 @@
       "genre_register": "hymnographic",
       "workspace_dir": "Liturgical Monuments/Monument 22.09 - 1761 Pochayiv Menaion May",
       "active": false,
-      "status": "queued",
+      "status": "completed",
       "wave": 3,
       "historical_year": 1761,
-      "monument_type": "anthologion"
+      "monument_type": "anthologion",
+      "flash_execution_guardrails": [
+        "H1 & H2 Allowed for Primary Service Headings"
+      ],
+      "publication_spec": {
+        "mode": "universal_dynamic_h1",
+        "hub_inbox_folder": "1761_Pochayiv_Menaion_(May)",
+        "master_title": "1761 Pochayiv Menaion — Vol. 9: May (Pochayiv Lavra, 1761)",
+        "parts": [
+          {
+            "id": "part0",
+            "filename": "1761_pochaiv_minea_09_may_part0_front_matter.md",
+            "title": "Front Matter, Title Page, and Introductory Apparatus",
+            "start_landmark": null
+          }
+        ],
+        "footnotes_filename": "1761_pochaiv_minea_09_may_footnotes.md"
+      }
     },
     "1761_pochaiv_minea_10_jun": {
       "monument_id": "1761_pochaiv_minea_10_jun",
@@ -2731,11 +2748,37 @@
       "default_cohort_size": 10,
       "genre_register": "hymnographic",
       "workspace_dir": "Liturgical Monuments/Monument 22.10 - 1761 Pochayiv Menaion June",
-      "active": false,
-      "status": "queued",
+      "active": true,
+      "status": "in_progress",
       "wave": 3,
       "historical_year": 1761,
-      "monument_type": "anthologion"
+      "monument_type": "anthologion",
+      "publication_spec": {
+        "mode": "universal_dynamic_h1",
+        "hub_inbox_folder": "1761_Pochayiv_Menaion_(June)",
+        "master_title": "1761 Pochayiv Menaion — Vol. 10: June (Pochayiv Lavra, 1761)",
+        "parts": [
+          {
+            "id": "part0",
+            "filename": "1761_pochaiv_minea_10_jun_part0_front_matter.md",
+            "title": "Front Matter, Title Page, and Introductory Apparatus",
+            "start_landmark": null
+          },
+          {
+            "id": "part1",
+            "filename": "1761_pochaiv_minea_10_jun_part1_month-of-june.md",
+            "title": "MONTH OF JUNE",
+            "start_landmark": "^#\\s+MONTH\\ OF\\ JUNE(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part2",
+            "filename": "1761_pochaiv_minea_10_jun_part2_concluding-appendices-and-colophon.md",
+            "title": "CONCLUDING APPENDICES AND COLOPHON",
+            "start_landmark": "^#\\s+CONCLUDING\\ APPENDICES\\ AND\\ COLOPHON(?:\\s*\\[\\^\\d+\\])*$"
+          }
+        ],
+        "footnotes_filename": "1761_pochaiv_minea_10_jun_footnotes.md"
+      }
     },
     "1761_pochaiv_minea_11_jul": {
       "monument_id": "1761_pochaiv_minea_11_jul",
@@ -2747,11 +2790,55 @@
       "default_cohort_size": 10,
       "genre_register": "hymnographic",
       "workspace_dir": "Liturgical Monuments/Monument 22.11 - 1761 Pochayiv Menaion July",
-      "active": false,
-      "status": "queued",
+      "active": true,
+      "status": "in_progress",
       "wave": 3,
       "historical_year": 1761,
-      "monument_type": "anthologion"
+      "monument_type": "anthologion",
+      "publication_spec": {
+        "mode": "universal_dynamic_h1",
+        "hub_inbox_folder": "1761_Pochayiv_Menaion_(July)",
+        "master_title": "1761 Pochayiv Menaion — Vol. 11: July (Pochayiv Lavra, 1761)",
+        "parts": [
+          {
+            "id": "part0",
+            "filename": "1761_pochaiv_minea_11_jul_part0_front_matter.md",
+            "title": "Front Matter, Title Page, and Introductory Apparatus",
+            "start_landmark": null
+          },
+          {
+            "id": "part1",
+            "filename": "1761_pochaiv_minea_11_jul_part1_month-of-july.md",
+            "title": "MONTH OF JULY",
+            "start_landmark": "^#\\s+MONTH\\ OF\\ JULY(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part2",
+            "filename": "1761_pochaiv_minea_11_jul_part2_appendix-resurrectional-theotokia-for-th.md",
+            "title": "APPENDIX: RESURRECTIONAL THEOTOKIA FOR THE EIGHT TONES",
+            "start_landmark": "^#\\s+APPENDIX:\\ RESURRECTIONAL\\ THEOTOKIA\\ FOR\\ THE\\ EIGHT\\ TONES(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part3",
+            "filename": "1761_pochaiv_minea_11_jul_part3_appendix-theotokia-of-the-eight-tones-su.md",
+            "title": "APPENDIX: THEOTOKIA OF THE EIGHT TONES SUNG THROUGHOUT THE WEEK",
+            "start_landmark": "^#\\s+APPENDIX:\\ THEOTOKIA\\ OF\\ THE\\ EIGHT\\ TONES\\ SUNG\\ THROUGHOUT\\ THE\\ WEEK(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part4",
+            "filename": "1761_pochaiv_minea_11_jul_part4_appendix-resurrectional-dismissal-theoto.md",
+            "title": "APPENDIX: RESURRECTIONAL DISMISSAL THEOTOKIA OF THE EIGHT TONES",
+            "start_landmark": "^#\\s+APPENDIX:\\ RESURRECTIONAL\\ DISMISSAL\\ THEOTOKIA\\ OF\\ THE\\ EIGHT\\ TONES(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part5",
+            "filename": "1761_pochaiv_minea_11_jul_part5_appendix-dismissal-theotokia-sung-after.md",
+            "title": "APPENDIX: DISMISSAL THEOTOKIA SUNG AFTER THE TROPARIA OF THE SAINTS",
+            "start_landmark": "^#\\s+APPENDIX:\\ DISMISSAL\\ THEOTOKIA\\ SUNG\\ AFTER\\ THE\\ TROPARIA\\ OF\\ THE\\ SAINTS(?:\\s*\\[\\^\\d+\\])*$"
+          }
+        ],
+        "footnotes_filename": "1761_pochaiv_minea_11_jul_footnotes.md"
+      }
     },
     "1761_pochaiv_minea_12_aug": {
       "monument_id": "1761_pochaiv_minea_12_aug",
@@ -2763,11 +2850,37 @@
       "default_cohort_size": 10,
       "genre_register": "hymnographic",
       "workspace_dir": "Liturgical Monuments/Monument 22.12 - 1761 Pochayiv Menaion August",
-      "active": false,
-      "status": "queued",
+      "active": true,
+      "status": "in_progress",
       "wave": 3,
       "historical_year": 1761,
-      "monument_type": "anthologion"
+      "monument_type": "anthologion",
+      "publication_spec": {
+        "mode": "universal_dynamic_h1",
+        "hub_inbox_folder": "1761_Pochayiv_Menaion_(August)",
+        "master_title": "1761 Pochayiv Menaion — Vol. 12: August (Pochayiv Lavra, 1761)",
+        "parts": [
+          {
+            "id": "part0",
+            "filename": "1761_pochaiv_minea_12_aug_part0_front_matter.md",
+            "title": "Front Matter, Title Page, and Introductory Apparatus",
+            "start_landmark": null
+          },
+          {
+            "id": "part1",
+            "filename": "1761_pochaiv_minea_12_aug_part1_month-of-august.md",
+            "title": "MONTH OF AUGUST",
+            "start_landmark": "^#\\s+MONTH\\ OF\\ AUGUST(?:\\s*\\[\\^\\d+\\])*$"
+          },
+          {
+            "id": "part2",
+            "filename": "1761_pochaiv_minea_12_aug_part2_appendix-theotokia-in-the-eight-tones.md",
+            "title": "APPENDIX: THEOTOKIA IN THE EIGHT TONES",
+            "start_landmark": "^#\\s+APPENDIX:\\ THEOTOKIA\\ IN\\ THE\\ EIGHT\\ TONES(?:\\s*\\[\\^\\d+\\])*$"
+          }
+        ],
+        "footnotes_filename": "1761_pochaiv_minea_12_aug_footnotes.md"
+      }
     },
     "1651_lviv_slozka_anthologion": {
       "monument_id": "1651_lviv_slozka_anthologion",
