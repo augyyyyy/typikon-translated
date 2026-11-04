@@ -1,0 +1,46 @@
+{
+  "monument_id": "1761_pochaiv_minea_08_apr",
+  "title": "1761 Pochayiv Menaion — Vol. 8: April (Pochayiv Lavra, 1761)",
+  "monument_type": "anthologion",
+  "genre_register": "hymnographic",
+  "retrospective_timestamp": "2026-11-04T00:06:42.098557+00:00",
+  "codicological_profile": {
+    "total_physical_leaves": 222,
+    "cohort_count": 23,
+    "default_cohort_size": 10,
+    "monument_type": "anthologion"
+  },
+  "subagent_execution_telemetry": {
+    "total_cohorts_dispatched": 23,
+    "worker_model": "flash",
+    "cohorts_passing_gate_100pct": 23,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 0.954,
+      "median_cohort_ratio": 1.135,
+      "max_cohort_median": 1.326
+    }
+  },
+  "argon_review_queue_telemetry": {
+    "total_items_recorded": 1,
+    "resolved_by_argon": 1,
+    "info_telemetry_only": 0,
+    "unresolved_quarantines": 0,
+    "codicological_crux_count": 0
+  },
+  "final_publication_verification": {
+    "parts_count": 2,
+    "parts": [
+      "1761_pochaiv_minea_08_apr_part0_front_matter.md",
+      "1761_pochaiv_minea_08_apr_part1_month-of-april.md"
+    ],
+    "total_footnotes_verified": 242,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 0.954,
+      "median_cohort_ratio": 1.135,
+      "max_cohort_median": 1.326
+    },
+    "all_6_publication_gates_passed": true
+  },
+  "edge_cases_and_anomalies": [],
+  "engine_hardening_proposals": []
+}

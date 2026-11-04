@@ -1,8 +1,8 @@
 {
-  "active_monument": "1761 Pochayiv Menaion — Vol. 8: April (Pochayiv Lavra, 1761)",
+  "active_monument": "1761 Pochayiv Menaion (April) (SEALED)",
   "monument_id": "1761_pochaiv_minea_08_apr",
-  "status": "in_progress",
-  "active_lease": true,
+  "status": "completed",
+  "active_lease": false,
   "total_physical_pages": 222,
   "completed_cohorts": [
     1,
@@ -38,9 +38,9 @@
   "argon_review_queue_count": 0,
   "unresolved_quarantines": 0,
   "cohort_retry_counts": {},
-  "small_pause_gate_status": "GRAND_PAUSE_READY_FOR_HUMAN_INSPECTION",
+  "small_pause_gate_status": "MONUMENT_SEALED_AND_HANDED_OFF",
   "active_blockers": [],
-  "updated_at": "2026-11-04T00:06:41.983013+00:00",
+  "updated_at": "2026-11-04T00:19:07.595360+00:00",
   "cohort_prepared_timestamps": {
     "1": "2026-11-03T12:30:37.009357+00:00",
     "2": "2026-11-03T12:51:32.070842+00:00",
@@ -66,20 +66,5 @@
     "22": "2026-11-03T17:48:05.681840+00:00",
     "23": "2026-11-03T17:58:51.702451+00:00"
   },
-  "concurrent_active_monuments": {
-    "1761_pochaiv_minea_08_apr": {
-      "monument_id": "1761_pochaiv_minea_08_apr",
-      "active_monument": "1761 Pochayiv Menaion — Vol. 8: April (Pochayiv Lavra, 1761)",
-      "routing_phase": "PHASE_2_GRAND_PAUSE_READY",
-      "current_cohort": 23,
-      "current_cohort_range": "pp. 221-222 (leaves p221-p222)",
-      "translated_pages": 222,
-      "total_physical_pages": 222,
-      "remaining_pages": 0,
-      "small_pause_gate_status": "GRAND_PAUSE_READY_FOR_HUMAN_INSPECTION",
-      "argon_review_queue_count": 0,
-      "unresolved_quarantines": 0,
-      "active_lease": true
-    }
-  }
+  "concurrent_active_monuments": {}
 }
