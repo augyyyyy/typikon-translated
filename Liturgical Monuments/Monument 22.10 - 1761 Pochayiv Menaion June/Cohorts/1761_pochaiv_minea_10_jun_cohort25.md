@@ -1,0 +1,352 @@
+=== LEAF p241 ===
+# CONCLUDING APPENDICES AND COLOPHON
+
+*Resurrectional Theotokia for the Eight Tones:*
+
+*Tone 1. Theotokion [Dogmatikon]:*[^963][^962]
+Let us hymn the Virgin Mary, the glory of all the world, who budded forth from men and gave birth unto the Master, the gate of heaven, the song of the bodiless hosts, and the adornment of the faithful! For she was shown forth as heaven and the temple of the Godhead; she, having broken down the barrier of enmity, ushered in peace and opened the Kingdom. Having her therefore as the confirmation of faith, we have the Lord Who was born of her as our Defender. Take courage therefore, take courage, O people of God, for He will conquer the enemies, as He is all-powerful!
+
+*At the Aposticha, Theotokion:*[^964]
+Behold, the prophecy of Isaiah is fulfilled; for as a Virgin thou didst give birth, and after childbearing thou didst remain as thou wast before giving birth; for God was the One born, therefore He also renewed the course of nature. But O Mother of God, despise not the supplications of thy servants offered unto thee in thy temple: but as carrying the Compassionate One in thine arms, have mercy upon thy servants, and pray that our souls may be saved!
+
+*Tone 2. Theotokion [Dogmatikon]:*[^965]
+The shadow of the Law passed away when Grace arrived: for as the bush was not consumed when wrapped in flame, so as a Virgin thou didst give birth, and a Virgin thou didst remain. Instead of a pillar of fire, the righteous Sun shone forth; instead of Moses, Christ, the salvation of our souls!
+
+*At the Aposticha, Theotokion:*[^966]
+O new wonder of all ancient wonders! For who has known a Mother who gave birth without a husband, and carried in her arms Him Who upholds all creation? The One born is the counsel of God! Whom as an infant having carried in thine arms, O all-pure one, and possessing maternal boldness toward Him, cease not to pray for those who honor thee, that He may have compassion and save our souls!
+
+*Tone 3. Theotokion [Dogmatikon]:*[^967]
+How shall we not marvel at thy God-man childbearing, O most honored one? For having received no temptation of a man, O all-immaculate one, thou didst give birth in the flesh without a father unto the Son, Who was born of the Father without a mother before the ages; Who suffered no change, nor mingling, nor division, but preserved entire the property of both natures. Therefore, O Mother, Virgin, Sovereign Lady, pray Him to save the souls of those who in orthodox manner confess thee as the Birthgiver of God!
+
+*At the Aposticha, Theotokion:*[^968]
+Without seed from the Holy Spirit, but by the Father's will, thou didst conceive the Son of God, Who exists before the ages from the Father without a mother; and Who for our sake became of thee without a father; thou didst give birth unto Him in the flesh, and didst nurse Him as an infant with milk. Therefore cease not to pray that our souls may be delivered from dangers!
+
+*Tone 4. Theotokion [Dogmatikon]:*[^969]
+David the Prophet, the forefather of God, melodiously proclaimed beforehand concerning thee unto Him Who has done great things for thee:
+
+=== LEAF p242 ===
+"The Queen stood at Thy right hand."[^970] For God, Who was pleased to become man of thee without a father, revealed thee as the Mother and mediatress of life, that He might renew His own image corrupted by passions; and having found the sheep gone astray upon the mountains, taking it upon His shoulder, He might bring it unto the Father, and according to His own will, unite it with the heavenly powers, and save the world, O Birthgiver of God, Christ Who has great and rich mercy!
+
+*At the Aposticha, Theotokion:*[^971]
+Look down upon the supplications of thy servants, O all-immaculate one, quenching the fierce uprisings against us, releasing us from every affliction! For thee alone do we have as a firm and sure confirmation, and we have acquired thy patronage, that we who call upon thee may not be put to shame, O Sovereign Lady! Hasten unto the entreaty of those who faithfully cry aloud unto thee: Rejoice, O Sovereign Lady, help of all, joy and protection, and salvation of our souls!
+
+*Tone 5. Theotokion [Dogmatikon]:*[^972]
+In the Red Sea an image of the unwedded Bride was inscribed of old: there Moses, the divider of the water; and here Gabriel, the minister of the wonder! Then the deep was traversed dryshod by Israel; and now Christ is born seedlessly of the Virgin! The sea remained impassable after the passage of Israel; the Immaculate one remained undefiled after the birth of Emmanuel! O Thou Who art, and art before all, and appeared as man: O God, have mercy upon us!
+
+*At the Aposticha, Theotokion:*[^973]
+Thou art the temple and the gate, the palace and throne of the King, O all-honored Virgin, through whom my Redeemer, Christ the Lord, appeared unto those sleeping in darkness, being the Sun of Righteousness, wishing to enlighten those whom He created according to His own image with His own hand. Therefore, O all-hymned one, as having acquired maternal boldness toward Him, cease not to pray that our souls may be saved!
+
+*Tone 6. Theotokion [Dogmatikon]:*[^974]
+Who will not call thee blessed, O all-holy Virgin? Who will not hymn thy most pure childbearing? For the Only-begotten Son, Who shone forth timelessly from the Father, the same came forth from thee, pure one, ineffably incarnate: being God by nature, and having become man by nature for our sake; not divided into two persons, but known in two natures without confusion. Him do thou entreat, O pure and all-blessed one, that our souls may be shown mercy!
+
+*At the Aposticha, Theotokion:*[^975]
+My Creator and Redeemer, O all-pure one, Christ the Lord, coming forth from thy womb and clothing Himself in me, delivered Adam from the first curse. Therefore, O all-pure one, as the Mother of God and Virgin, in truth we cry aloud unto thee unceasingly with the angel: Rejoice, O Sovereign Lady, intercession and protection, and salvation of our souls!
+
+*Tone 7. Theotokion [Dogmatikon]:*[^976]
+Thou wast known as a Mother beyond nature, O Birthgiver of God, and thou didst remain a Virgin beyond word and understanding; and the tongue cannot tell the wonder of thy childbearing: for
+
+=== LEAF p243 ===
+for the conception was most glorious, O pure one, and the manner of childbearing is incomprehensible: for where God so wills, the order of nature is overcome! Therefore, knowing thee to be the Mother of God, we all earnestly pray thee: Entreat Him that our souls may be saved!
+
+*At the Aposticha, Theotokion:*[^977]
+Fleeing beneath thy protection, O Sovereign Lady, all we earthborn cry aloud unto thee: O Birthgiver of God, our hope, deliver us from immeasurable transgressions, and save our souls!
+
+*Tone 8. Theotokion [Dogmatikon]:*[^978]
+The King of Heaven out of love for mankind appeared upon the earth, and dwelt with men: for having taken flesh from the pure Virgin, and having come forth from her with the assumption [thereof], He is one Son, twofold in nature, but not in hypostasis. Therefore, truly proclaiming Him perfect God and perfect man, we confess Christ our God: Whom do thou entreat, O unwedded Mother, that our souls may be shown mercy!
+
+*At the Aposticha, Theotokion:*[^979]
+O unwedded Virgin, who ineffably conceived God in the flesh, Mother of the most high God: accept the entreaties of thy servants, O all-immaculate one, granting unto all cleansing of transgressions; receiving now our supplications, pray that we all may be saved!
+
+*Theotokia of the Eight Tones, sung when there is "Glory..." to the saint in the Menaion, and "Both now..." according to the Tone of the saint:*[^980]
+
+*Tone 1. On Sunday evening, Theotokion:*[^981]
+Joy of the heavenly ranks, strong intercession of men upon earth, O most pure Virgin: save us who have recourse unto thee, for after God we have placed our hope in thee, O Birthgiver of God!
+
+*On Monday at Matins, Theotokion:*[^982]
+Brighter than all the holy hosts, more honorable than all creation, O Birthgiver of God, Sovereign Lady of the world: save us, O thou who didst give birth unto the Savior, from myriads of transgressions and perils, as thou art good, by thy prayers!
+
+*On Monday evening, Theotokion:*[^983]
+O Virgin celebrated in hymn, the mystery within thee Moses beheld with prophetic eyes: the bush burning and unconsumed; for the fire of the Godhead did not consume thy womb, O pure one! Therefore we pray thee, as the Mother of our God: ask peace for the world, and great mercy!
+
+*On Tuesday morning, Theotokion:*[^984]
+I have surpassed the harlot and the prodigal, and the thief in sins, and the publican and the Ninevites! Woe is me, what will become of me? How shall I, wretched one, escape torment? O pure one, I fall down before thee: have compassion upon me by thy mercy, even as thy Son saved them!
+
+
+=== LEAF p244 ===
+is.[^984]
+
+*On Wednesday evening, Theotokion:*[^985]
+Rejoice, joy of the righteous, gladness of the Apostles and martyrs, and protection of us thy servants, O Virgin!
+
+*On Thursday morning, Theotokion:*[^986]
+Rejoice, O Birthgiver of God and Virgin; rejoice, boast of all the universe; rejoice, all-pure and blessed Mother of God!
+
+*On Friday evening, Theotokion:*[^987]
+Truly beyond understanding are thy marvelous wonders, O Bride of God, all-glorious things which all the prophets proclaimed concerning thy childbearing: the conception and childbearing, O all-hymned one, are incomprehensible and ineffable, whereby the world is saved, as He is compassionate!
+
+*On Saturday morning, Theotokion:*[^988]
+Rejoice from us, O holy Birthgiver of God and Virgin, pure vessel of all the universe, unquenchable lamp, receptacle of the Uncontainable, indestructible temple; rejoice, from whom was born the Lamb of God, Who takes away the sins of the whole world!
+
+*Tone 2. On Sunday evening, Theotokion:*[^989]
+Rejoice, Mary, Birthgiver of God, temple indestructible, and rather holy, even as the Prophet cries aloud: "Holy is Thy temple, wonderful in righteousness!"
+
+*On Monday morning, Theotokion:*[^990]
+We have placed our hope in thee, O Birthgiver of God: let us not fall away from our expectation; save us from perils, O helper of those in perplexity, and destroy the counsels of the adversaries; for thou art our salvation, O blessed one!
+
+*On Monday evening, Theotokion:*[^991]
+Impassable gate, mystically sealed, O blessed Virgin Birthgiver of God: accept our supplications, and bring them before thy Son and God, that through thee He may save our souls!
+
+*On Tuesday morning, Theotokion:*[^992]
+Rejoice, Mary, Birthgiver of God, temple indestructible, and rather holy, even as the Prophet cries aloud: "Holy is Thy temple, wonderful in righteousness!"
+
+*On Wednesday morning, Theotokion:*[^993]
+As a fruitful olive tree, the Virgin brought Thee forth as the Fruit of life, to bear the fruit of great and rich mercy for the world!
+
+*On Thursday morning, Theotokion:*[^994]
+All my hope I place in thee, O Mother of God: preserve me beneath thy protection!
+
+*On Friday evening, Theotokion:*[^995]
+Save thy servants from perils, O Virgin Birthgiver of God; for after God we all have recourse unto thee, as unto an unbreakable rampart and intercession!
+
+*On Saturday morning, Theotokion:*[^996]
+Come, calling out with unceasing hymns, let us all glorify the Mother of the Light, for she gave birth unto our salvation; and let us offer her: Rejoice! as the only one who gave birth unto God, the most exalted of all, Who exists before the ages! Rejoice, thou who didst raise up fallen Eve again! Rejoice, O all-pure, unwedded Virgin!
+
+=== LEAF p245 ===
+*Tone 3. On Sunday evening, Theotokion:*[^997]
+O Birthgiver of God, intercessor of all who pray unto thee: in thee do we take courage, and in thee do we boast, and in thee is all our hope; entreat Him Who was born of thee on behalf of thine unworthy servants!
+
+*On Monday morning, Theotokion:*[^998]
+O fiery boast of the heavenly ranks, song of the Apostles, and fulfillment of the prophets: O Sovereign Lady, accept our prayers!
+
+*On Monday evening, Theotokion:*[^999]
+O holy unwedded Mother, Birthgiver of God among women: entreat Him Whom thou didst bear, the King and God, that He may save us, as He loves mankind!
+
+*On Tuesday morning, Theotokion:*[^1000]
+Without seed thou didst conceive by the Holy Spirit, and glorifying, we hymn thee: Rejoice, O all-holy Virgin!
+
+*On Wednesday evening, Theotokion:*[^1001]
+As I sin exceedingly, O Maiden, snatch me by thy great mercy from the cruel flame; and set me upright, O pure one, by thy supplications, guiding me unto the paths of salvation by thy maternal prayers!
+
+*On Thursday morning, Theotokion:*[^1002]
+*Without seed thou didst conceive...*
+
+*On Friday evening, Theotokion:*
+*O holy unwedded Mother, Birthgiver of God among women...*
+
+*On Saturday morning, Theotokion:*
+*Without seed thou didst conceive...*
+
+*Tone 4. On Sunday evening, Theotokion:*[^1003]
+Rejoice, cloud of light; rejoice, radiant lampstand; rejoice, urn in which is the manna; rejoice, rod of Aaron; rejoice, unburnt bush; rejoice, bridal chamber; rejoice, throne; rejoice, holy mountain; rejoice, haven; rejoice, divine table; rejoice, mystical gate; rejoice, joy of all!
+
+*On Monday morning, Theotokion:*[^1004]
+O Birthgiver of God, Queen of all, boast of the Orthodox: destroy the uprisings of heretics, and put to shame the faces of those who neither venerate nor honor, O all-pure one, thine honored icon!
+
+*On Monday evening, Theotokion:*[^1005]
+Deliver us from our necessities, O Mother of Christ God, who didst give birth unto the Creator of all, that we all may cry aloud unto thee: Rejoice, sole intercession of our souls!
+
+*On Tuesday morning, Theotokion:*[^1006]
+Preserve thy servants from all perils, O blessed Birthgiver of God, that we may glorify thee, the hope of our souls!
+
+*On Wednesday evening, Theotokion:*[^1007]
+Having thee, O Birthgiver of God, as our hope and intercession, we will not fear the plots of the enemies, for thou dost save our souls!
+
+*On Thursday morning, Theotokion:*[^1008]
+We have acquired thee as a wall, O all-pure Birthgiver of God, and a calm harbor and confirmation; therefore I pray,
+
+=== LEAF p246 ===
+I pray who am tempest-tossed in this life: guide me, and save me!
+
+*On Friday evening, Theotokion:*[^1009]
+Unquenchable lamp, righteous throne, O all-pure Sovereign Lady: pray that our souls may be saved!
+
+*On Saturday morning, Theotokion:*[^1010]
+O only pure and all-immaculate Virgin, who didst give birth unto God seedlessly: pray that our souls may be saved!
+
+*Tone 5. On Sunday evening, Theotokion:*[^1011]
+Dread and all-glorious and great is the mystery: the Uncontainable was contained in the womb, and the Mother after childbearing remained a Virgin again; for she gave birth unto God incarnate of her. Unto Him let us cry aloud, unto Him let us say a song, hymning with the angels: Holy art Thou, O Christ God, Who for our sake became man, glory to Thee!
+
+*On Monday morning, Theotokion:*[^1012]
+O full of grace, intercede by thy prayers, and ask for our souls a multitude of compassions and cleansing of many transgressions, we pray!
+
+*On Monday evening, Theotokion:*[^1013]
+Allay the sicknesses of my heavily sighing soul, O thou who didst wipe away every tear from the face of the earth; for thou dost drive away the sicknesses of men, and dost loose the afflictions of sinners; for we all have acquired thee as hope and confirmation, O all-holy Virgin Mother!
+
+*On Tuesday morning, Theotokion:*
+*O full of grace, intercede...*
+
+*On Wednesday evening, Theotokion:*[^1014]
+We call thee blessed, O Virgin Birthgiver of God, and we the faithful glorify thee as is meet: unshakable city, indestructible wall, firm intercessor, and refuge of our souls!
+
+*On Thursday morning, Theotokion:*[^1015]
+We call thee blessed, O Virgin Birthgiver of God, for from thee shone forth Christ, the Sun of Righteousness, Who has great mercy!
+
+*On Friday evening, Theotokion:*[^1016]
+Unto thee do we pray as unto the Mother of God: O blessed one, pray for the salvation of our souls!
+
+*On Saturday morning, Theotokion:*[^1017]
+O wretched soul of mine, what answer wilt thou have to give the Judge at that hour, when the thrones are set at the judgment, and the Judge comes from the heavens, descended with ten thousands of angels? When He sits upon the judgment seat to make trial with unprofitable servants like unto me, what wilt thou answer? What wilt thou bring forward then? Truly nothing, having defiled thy mind and body! Therefore fall down before the Virgin, and cry out unceasingly, that rich forgiveness of sins may be granted thee!
+
+*Tone 6. On Sunday evening, Theotokion:*[^1018]
+With the Archangel let us the faithful hymn the heavenly bridal chamber, and the truly sealed gate: Rejoice, for whose sake Christ, the Savior of all, the Giver of life and God, sprang up for us! Cast down the tormentors, our godless enemies, by thy hand, O all-pure Sovereign Lady!
+
+
+=== LEAF p247 ===
+hope of Christians!
+
+*On Monday morning, Theotokion:*[^1019]
+Thou didst receive the archangelic word, and wast shown forth as the cherubic throne, and in thine arms didst carry the hope of our souls, O Birthgiver of God!
+
+*On Monday evening, Theotokion:*[^1020]
+No one who has recourse unto thee departs from thee put to shame, O all-pure Virgin Birthgiver of God, but asks for Grace and receives a gift according to his profitable petition!
+
+*On Tuesday morning, Theotokion:*[^1021]
+Of great gifts wast thou vouchsafed, O pure Virgin Mother of God: for thou didst bear in the flesh One of the Trinity, Christ the Giver of life, unto the salvation of our souls!
+
+*On Wednesday evening, Theotokion:*[^1022]
+Unto thee, O Sovereign Lady, do I direct the eye of my heart: despise not my faint sighing at the hour when thy Son judges the world; be unto me protection and helper!
+
+*On Thursday morning, Theotokion:*[^1023]
+Thou art the transformation of the sorrowful and the relief of the sick, O all-hymned Birthgiver of God: save the city and the people, O pacification of those who do battle, calmness of the tempest-tossed, sole intercessor of the faithful!
+
+*On Friday evening, Theotokion:*[^1024]
+Through the prayers of her who gave Thee birth, O Christ, and of Thy martyrs, and Apostles, and prophets, and hierarchs, venerable ones, and the righteous, and all the saints: give rest unto Thy departed servants!
+
+*On Saturday morning, Theotokion:*[^1025]
+We have known God Who was incarnate of thee, O Virgin Birthgiver of God: entreat Him for the salvation of our souls!
+
+*Tone 7. On Sunday evening, Theotokion:*[^1026]
+With the angel we cry aloud unto thee: Rejoice! O Bride of God, having called thee bridal chamber and gate, and fiery throne, and unhewn mountain, and unburnt bush!
+
+*On Monday morning, Theotokion:*[^1027]
+Pacify our life through the prayers of the Birthgiver of God, as we cry aloud unto Thee: O merciful Lord, glory to Thee!
+
+*On Monday evening, Theotokion:*[^1028]
+Rejoice, cloud of the spiritual and ineffable Sun, O Sovereign Lady; rejoice, all-radiant lamp; rejoice, all-golden lampstand: through thee, O all-pure one, Eve was delivered from the curse! But as having boldness toward thy well-pleasing Son and God, cease not to pray with thy maternal prayer, O all-pure one!
+
+*On Tuesday morning, Theotokion:*[^1029]
+O Christ, Thou didst sprout forth as Light from the Virgin, and didst enlighten the human race: O Lord, glory to Thee!
+
+*On Wednesday evening, Theotokion:*[^1030]
+Let us hymn the only all-pure Virgin after childbearing, as the Mother of God the Word, saying: Glory to Thee!
+
+*On Thursday morning, Theotokion:*[^1031]
+Thou wast born ineffably of the Virgin, O Christ, and didst enlighten those in darkness who cry aloud: O Lord, glory to Thee!
+
+*On Friday evening, Theotokion:*[^1032]
+O thou who alone didst receive the Uncontainable, and didst give birth unto God the Word incarnate,
+
+=== LEAF p248 ===
+incarnate: pray that our souls may be saved!
+
+*On Saturday morning, Theotokion:*[^1033]
+Pray, O Virgin, with the Apostles and martyrs, that we may find great mercy at the Judgment, O all-holy one!
+
+*Tone 8. On Sunday evening, Theotokion:*[^1034]
+Taking up the voice of the Archangel Gabriel, let us say: Rejoice, O Mother of God, who didst give birth unto Christ the Giver of life for the world!
+
+*On Monday morning, Theotokion:*[^1035]
+The heavenly powers hymn thee, O unwedded Mother full of grace, and we glorify thine unsearchable childbearing, O Birthgiver of God: pray that our souls may be saved!
+
+*On Monday evening, Theotokion:*[^1036]
+Rejoice, boast of the universe; rejoice, temple of the Lord; rejoice, overshadowing mountain; rejoice, haven of all; rejoice, golden lampstand; rejoice, honored boast of the Orthodox; rejoice, Mary, Mother of Christ God; rejoice, paradise; rejoice, divine table; rejoice, tabernacle; rejoice, all-golden urn; rejoice, hope of all!
+
+*On Tuesday morning, Theotokion:*[^1037]
+Thy protection, O Virgin Birthgiver of God, is spiritual medicine; for having recourse unto it, we are delivered from spiritual infirmities!
+
+*On Wednesday evening, Theotokion:*[^1038]
+I have recourse unto thy protection, O holy Virgin Birthgiver of God; I know that through thee I will find salvation, for thou, pure one, art able to help me!
+
+*On Thursday morning, Theotokion:*[^1039]
+Snatch me, O Sovereign Lady, from the hand of the manslaying serpent who desires to swallow me down to the end through craftiness; crush his jaws, I pray thee, and destroy his snares, that I may escape from his talons, magnifying thy patronage!
+
+*On Friday evening, Theotokion:*[^1040]
+O pure Virgin, gate of the Word, Mother of our God: pray that we may be saved!
+
+*On Saturday morning, Theotokion:*[^1041]
+O Sovereign Lady, accept the prayers of thy servants, and deliver us from all necessity and sorrow!
+
+*Resurrectional Dismissal Theotokia of the Eight Tones:*[^1042]
+
+*Tone 1. Theotokion:*[^1043]
+When Gabriel announced unto thee: Rejoice! O Virgin, with the voice the Master of all was incarnate in thee, the holy Ark, even as righteous David said; thou wast shown forth more spacious than the heavens, having carried thy Creator! Glory to Him Who dwelt in thee! Glory to Him Who came forth from thee! Glory to Him Who delivered us through thy childbearing!
+
+*Tone 2. Theotokion:*[^1044]
+All beyond understanding, all most glorious are thy mysteries, O Birthgiver of God! In purity sealed and virginity preserved, thou wast known as a true Mother, having given birth unto the true God: Him do thou entreat, that our souls may be saved!
+
+
+=== LEAF p249 ===
+*Tone 3. Theotokion:*[^1045]
+Thee, who didst mediate the salvation of our race, do we hymn, O Virgin Birthgiver of God: for having assumed the Passion upon the Cross in the flesh taken from thee, Thy Son and our God delivered us from corruption, as He loves mankind!
+
+*Tone 4. Theotokion:*[^1046]
+The mystery hidden from all ages and unknown to angels was shown forth through thee, O Birthgiver of God, unto those upon earth: God incarnate in unconfused union, Who voluntarily accepted the Cross for our sake, whereby having raised up the first-fashioned man, He saved our souls from death!
+
+*Tone 5. Theotokion:*[^1047]
+Rejoice, impassable gate of the Lord; rejoice, wall and protection of those who have recourse unto thee; rejoice, haven safe from tempests and unwedded one, who didst bear thy Creator and God in the flesh: cease not to pray for those who hymn and worship thy childbearing!
+
+*Tone 6. Theotokion:*[^1048]
+Thou Who didst call Thy Mother blessed, didst come unto the Passion by voluntary choice, shining forth upon the Cross, desiring to seek out Adam, saying unto the angels: Rejoice with Me, for the lost drachma is found! O our God, Who didst wisely order all things: Glory to Thee!
+
+*Tone 7. Theotokion:*[^1049]
+As the treasury of our resurrection, O all-hymned one, lead up from the pit and depth of transgressions those who place their trust in thee! For thou didst save those guilty of sin, having given birth unto our salvation: thou who wast a Virgin before childbearing, and a Virgin in childbearing, and after childbearing still remainest a Virgin!
+
+*Tone 8. Theotokion:*[^1050]
+O Good One, Who for our sake wast born of the Virgin, and didst endure crucifixion, Who by death didst overthrow death, and as God didst reveal the Resurrection: despise not those whom Thou didst create with Thy hand; manifest Thy love for mankind, O Merciful One; accept the Birthgiver of God who bore Thee, who prays for us, and save, O our Savior, a despairing people!
+
+*Dismissal Theotokia following the Troparia of the Saints, sung throughout the whole year at Vespers, at "God is the Lord" at Matins, and again at the end of Matins:*[^1051]
+
+*Tone 1. On Sunday evening, and on Monday at "God is the Lord":*[^1052]
+Wonder of wonders, O full of grace: creation rejoicing beholds [it] in thee! For thou didst conceive seedlessly, and didst give birth ineffably unto Him Whom the ranks of angels cannot behold: entreat Him for our souls!
+
+*At the end of Matins:*[^1053]
+O all-pure Birthgiver of God, blessed in the heavens and glorified upon earth: Rejoice, unwedded Bride!
+
+=== LEAF p250 ===
+*On Monday evening, and on Tuesday at "God is the Lord":*[^1054]
+O thou who without burning didst conceive the divine Fire, and seedlessly didst give birth unto the Fountain of life, the Lord: O Birthgiver of God full of grace, save those who magnify thee!
+
+*At the end of Matins:*[^1055]
+Him Who is without mother in heaven beyond understanding and hearing, thou didst bear upon earth without a father: Him, O Birthgiver of God, do thou entreat for our souls!
+
+*On Tuesday evening, and on Wednesday at "God is the Lord":*[^1056]
+Having thy patronage, O all-pure one, and delivered from cruel things through thy prayers, everywhere preserved by the Cross of thy Son, as is meet, we all piously magnify thee!
+
+*At the end of Matins:*
+*O all-pure Birthgiver of God, [blessed] in the heavens...*
+
+*On Wednesday evening, and on Thursday at "God is the Lord":*[^1057]
+*O thou who without burning didst conceive the divine Fire...*
+
+*At the end of Matins:*
+*Him Who is without mother in heaven...*
+
+*On Thursday evening, and on Friday at "God is the Lord":*
+*Having thy patronage, O all-pure one...*
+
+*At the end of Matins:*
+*O all-pure Birthgiver of God, [blessed] in the heavens...*
+
+*On Friday evening, and on Saturday at "God is the Lord":*
+When Gabriel announced unto thee: Rejoice! O Virgin, with the voice the Master of all was incarnate in thee, the holy Ark, even as righteous David said; thou wast shown forth more spacious than the heavens, having carried thy Creator! Glory to Him Who dwelt in thee! Glory to Him Who came forth from thee! Glory to Him Who delivered us through thy childbearing!
+
+*At the end of Matins:*
+*Him Who is without mother in heaven...*
+
+*Tone 2. On Sunday evening, and on Monday at "God is the Lord":*[^1058]
+Being the fountainhead of compassion, vouchsafe mercy unto us, O Birthgiver of God; look down upon a sinning people, manifest thy power as always: for placing our hope in thee, we cry aloud unto thee: Rejoice! even as Gabriel of old, the supreme commander of the bodiless hosts!
+
+*At the end of Matins:*[^1059]
+O holy Mother of the ineffable Light, honoring thee with angelic hymns, we piously magnify thee!
+
+*On Monday evening, and on Tuesday at "God is the Lord":*[^1060]
+Partakers of the divine nature were we made through thee, O Virgin Birthgiver of God, ever-virgin: for thou didst bear for us God incarnate; therefore, as is meet, we piously magnify thee!
+
+*At the end of Matins:*[^1061]
+Thee do we magnify, O Birthgiver of God, crying aloud: Rejoice, cloud of the unsetting Light, who didst carry in thy bosom the Lord of glory!
+
+*On Tuesday evening, and on Wednesday at "God is the Lord":*[^1062]
+Most glorified art thou, O Virgin Birthgiver of God, we hymn thee: for by the Cross of thy Son Hades was overthrown, and death was put to death, we the slain were raised up, and were vouchsafed life; we received paradise, the ancient delight! Therefore giving thanks, we glorify Christ our God as mighty, and the only many-merciful One!
+
+*At the end of Matins:*
+*Thee do we magnify...*

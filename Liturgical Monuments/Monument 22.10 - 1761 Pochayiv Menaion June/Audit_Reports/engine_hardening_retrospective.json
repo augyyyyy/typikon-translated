@@ -1,0 +1,47 @@
+{
+  "monument_id": "1761_pochaiv_minea_10_jun",
+  "title": "1761 Pochayiv Menaion — Vol. 10: June (Pochayiv Lavra, 1761)",
+  "monument_type": "anthologion",
+  "genre_register": "hymnographic",
+  "retrospective_timestamp": "2026-11-04T11:41:26.969132+00:00",
+  "codicological_profile": {
+    "total_physical_leaves": 269,
+    "cohort_count": 27,
+    "default_cohort_size": 10,
+    "monument_type": "anthologion"
+  },
+  "subagent_execution_telemetry": {
+    "total_cohorts_dispatched": 27,
+    "worker_model": "flash",
+    "cohorts_passing_gate_100pct": 27,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.063,
+      "median_cohort_ratio": 1.154,
+      "max_cohort_median": 1.23
+    }
+  },
+  "argon_review_queue_telemetry": {
+    "total_items_recorded": 37,
+    "resolved_by_argon": 1,
+    "info_telemetry_only": 36,
+    "unresolved_quarantines": 0,
+    "codicological_crux_count": 0
+  },
+  "final_publication_verification": {
+    "parts_count": 3,
+    "parts": [
+      "1761_pochaiv_minea_10_jun_part0_front_matter.md",
+      "1761_pochaiv_minea_10_jun_part1_month-of-june.md",
+      "1761_pochaiv_minea_10_jun_part2_concluding-appendices-and-colophon.md"
+    ],
+    "total_footnotes_verified": 1116,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.063,
+      "median_cohort_ratio": 1.154,
+      "max_cohort_median": 1.23
+    },
+    "all_6_publication_gates_passed": true
+  },
+  "edge_cases_and_anomalies": [],
+  "engine_hardening_proposals": []
+}

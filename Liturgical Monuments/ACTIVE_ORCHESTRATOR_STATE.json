@@ -91,20 +91,6 @@
     "35": "2026-11-04T07:11:07.254982+00:00"
   },
   "concurrent_active_monuments": {
-    "1761_pochaiv_minea_10_jun": {
-      "monument_id": "1761_pochaiv_minea_10_jun",
-      "active_monument": "1761 Pochayiv Menaion — Vol. 10: June (Pochayiv Lavra, 1761)",
-      "routing_phase": "PHASE_2_GRAND_PAUSE_READY",
-      "current_cohort": 27,
-      "current_cohort_range": "pp. 261-269 (leaves p261-p269)",
-      "translated_pages": 269,
-      "total_physical_pages": 269,
-      "remaining_pages": 0,
-      "small_pause_gate_status": "GRAND_PAUSE_READY_FOR_HUMAN_INSPECTION",
-      "argon_review_queue_count": 0,
-      "unresolved_quarantines": 0,
-      "active_lease": true
-    },
     "1761_pochaiv_minea_11_jul": {
       "monument_id": "1761_pochaiv_minea_11_jul",
       "active_monument": "1761 Pochayiv Menaion — Vol. 11: July (Pochayiv Lavra, 1761)",
