@@ -1,0 +1,11 @@
+[^535]: The Church Slavonic acrostic reflects Joseph the Hymnographer's Greek verse acrostic: *Χριστοῦ σε μέλπω παρθένον φερώνυμον* ("I sing of thee, the maiden named after Christ").
+[^536]: The Pochaiv Menaion rubric designates Tone 4 (`гла́съ, д҃`), yet assigns the podoben *Гро́бъ тво́й* (*Thy Tomb, O Savior*), which in the standard Byzantine-Slavonic melodic system belongs to Tone 1.
+[^537]: The Church Slavonic text employs the Ruthenian-Galician liturgical borrowing *пѣнзеловавщи* (from Polish *pędzlować* / Middle High German *pensel*, to paint or depict with a fine artist's brush), referring to the hagiographical account of the Great-Martyr Christina depicting or fashioning three windows or the sign of the Holy Trinity in her chamber.
+[^538]: Church Slavonic *де́кла* is the Western Ruthenian/Slavonic transcription of the Greek name *Θέκλα* (*Thecla*, Protomartyr and Equal-to-the-Apostles).
+[^539]: The Pochaiv Menaion abbreviates the automelon model heading to *Ра́дꙋйсѧ*, indicating the standard Tone 5 model *Ра́дꙋйся живоно́сный Крⷭ҇те* (*Rejoice, O life-bearing Cross*).
+[^540]: The prescribed Epistle lection for the Holy Great-Martyr Christina is designated as pericope 181 (`за, р҃па`), comprising 2 Corinthians 6:1–10.
+[^541]: The Gospel lection for the Great-Martyr Christina is Luke pericope 33 (`зача́ло, л҃г`), comprising Luke 7:36–50.
+[^542]: The Holy Passion-Bearers Princes Boris and Gleb were baptized with the Christian names Romanus and David respectively, under which names they are primarily commemorated in the Byzantine-Slavonic hymnography.
+[^543]: Church Slavonic *рѡссі́йскимъ страна́мъ* designates the historical territorial and ecclesiastical lands of Rus / Ruthenia.
+[^544]: The Pochaiv Menaion rubric leaves the tone designation blank after *Сла́ва, гла́съ*; the musical and textual tradition assigns this doxasticon to Tone 2.
+[^545]: Church Slavonic *сыновѡ́мъ рѡссі́йскимъ* (unto the sons of Rus / Ruthenia).
