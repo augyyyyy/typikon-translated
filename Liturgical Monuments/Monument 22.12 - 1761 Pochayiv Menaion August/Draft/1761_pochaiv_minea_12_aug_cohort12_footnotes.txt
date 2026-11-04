@@ -1,0 +1,37 @@
+[^277]: *Tone 1, Podoben: "Joy of the heavenly ranks" (Небе́сныхъ чинѡ́въ):* The tone indication (Tone 1) was specified in the preceding rubric on fol. 53v (`Page_0110.jpg`). The podoben incipit corresponds to Byzantine Greek Τῶν οὐρανίων ταγμάτων.
+[^278]: *Tone 4, Automelon (Самогла́сенъ):* Feast of the Transfiguration of our Lord.
+[^279]: *Tone 2, Podoben: "O House of Ephratha" (До́ме Е҆ѵфра́ѳовъ):* Byzantine Greek Οἶκος τοῦ Ἐφραθᾶ.
+[^280]: *Tone 1, Automelon (Самогла́сенъ):* Transfiguration idiomelon/automelon hymn.
+[^281]: *Troparion of the Holy Martyr and Archdeacon Laurence, Tone 4:* Common Troparion for a martyr (`Мꙋ́ченикъ тво́й гдⷭ҇и...`).
+[^282]: *Troparion of the Feast of the Transfiguration, Tone 7:* `Преѡбрази́лсѧ є҆сѝ на горѣ̀ хрⷭ҇тѐ бж҃е...`.
+[^283]: *Tone 4, Podoben: "Joseph marveled" (Оу҆диви́сѧ І҆ѡ́сифъ):* Byzantine Greek Κατεπλάγη Ἰωσήφ.
+[^284]: *Canon of the Feast of the Transfiguration, Tone 8, Ode 1 Heirmos:* Composed by St. John of Damascus (`Во́дꙋ проше́дъ ꙗ҆́кѡ сꙋ́шꙋ...` / Ὑγρὰν διοδεύσας ὡσεὶ ξηράν).
+[^285]: *Canon of the Holy Martyr Laurence, Tone 4, Ode 1 Heirmos:* Attributed to St. Theophanes the Branded (`Трїста́ты крѣ̑пкїѧ...` / Τριστάτας κραταιούς). Acrostic in the Theotokia and Troparia: "I sing of the mighty and all-wise Laurence" (Λαυρέντιον σθένοντα μέλπω τὸν πάνσοφον / Лаѵре́нтїа держа́внаго пою̀ премꙋ́дра).
+[^286]: *dancing in chorus with the angelic powers:* In the Pochaiv 1761 print, the text reads `санко́вїтсѧ` at the bottom of fol. 54v with catchword `кови́тствꙋѧй` at the top of fol. 55r (`Page_0112.jpg` / `Page_0113.jpg`), an epigraphic corruption/misprint for `соликовствꙋѧй` (Greek συνχορεύων).
+[^287]: *Canon of the Feast, Tone 8, Ode 3 Heirmos:* `Нб҃нагѡ крꙋ́га верхотво́рче...` / Οὐρανίας ἁψῖδος ὀροφοποιέ.
+[^288]: *Canon of the Holy Martyr Laurence, Tone 4, Ode 3 Heirmos:* `Лꙋ́къ си́льныхъ и҆знемо́же...` / Τόξον δυνατῶν ἠσθένησε.
+[^289]: *statutes of the ungodly:* The 1761 Slavonic print reads `законоположе́нїю бл҃гочести́выхъ` (statutes of the pious), an apparent typographical slip for `злочести́выхъ` / `нечести́выхъ` (the impious torturers).
+[^290]: *Kontakion of the Holy Martyr Laurence, Tone 2, Podoben: "Seeking the highest" (Вы́шнихъ и҆щѧ̀):* Byzantine Greek Τὰ ἄνω ζητῶν.
+[^291]: *Ikos of the Holy Martyr Laurence:* Acclamation from Rom. 8:35, 39: "Nothing shall separate me from the love of Christ."
+[^292]: *Tone 8, Podoben: "The Wisdom and Word" (Премꙋ́дрости):* Byzantine Greek Τὴν Σοφίαν καὶ Λόγον. The text in the 1761 Pochaiv print reads `Не́сное бога́тство`, an epigraphic abbreviation/misprint for `Небе́сное бога́тство`.
+[^293]: *Tone 8, Podoben: "That which was commanded mystically" (Повелѣ́нное та́инственно):* Byzantine Greek Τὸ προσταχθὲν μυστικῶς.
+[^294]: *Canon of the Feast, Tone 8, Ode 4 Heirmos:* `И҆зъ пло́ти твоеѧ̀ лꙋчи̑ бж҃тва̀...` / Ἐξ ὀρκῆς σαρκός σου βολίδες θεότητος.
+[^295]: *Canon of the Holy Martyr Laurence, Tone 4, Ode 4 Heirmos:* `Сѣдѧ́й въ сла́вѣ...` / Ὁ καθήμενος ἐν δόξῃ.
+[^296]: *Canon of the Feast, Tone 8, Ode 5 Heirmos:* `Вскꙋ́ю мѧ̀ ѿри́нꙋлъ є҆сѝ...` / Ἵνα τί με ἀπώσω.
+[^297]: *Canon of the Holy Martyr Laurence, Tone 4, Ode 5 Heirmos:* `Нечести́вїи не оу҆́зрѧтъ...` / Ἀσεβεῖς οὐκ ὄψονται.
+[^298]: *Canon of the Feast, Tone 8, Ode 6 Heirmos:* `Ѡ҆чи́сти мѧ̀ сп҃се...` / Ἱλάσθητί μοι Σωτήρ.
+[^299]: *Canon of the Holy Martyr Laurence, Tone 4, Ode 6 Heirmos:* `Прїидо́хъ во глꙋбины̀ морскїѧ̑...` / Ἦλθον εἰς τὰ βάθη τῆς θαλάσσης.
+[^300]: *Kontakion of the Feast of the Transfiguration, Tone 7:* Composed by St. Romanos the Melodist (`На горѣ̀ преѡбрази́лсѧ є҆сѝ...` / Ἐπὶ τοῦ ὄρους μετεμορφώθης).
+[^301]: *Canon of the Feast, Tone 8, Ode 7 Heirmos:* `Ѻ҆́троцы є҆вре́йстїи въ пещѝ...` / Παῖδες Ἑβραίων ἐν καμίνῳ.
+[^302]: *Canon of the Holy Martyr Laurence, Tone 4, Ode 7 Heirmos:* `Спасы́й во ѻ҆гнѝ а҆враа́мскїѧ твоѧ̑ ѻ҆́троки...` / Ὁ ἐν πυρὶ τοὺς Ἀβραμιαίους σου Παῖδας διασώσας.
+[^303]: *Canon of the Feast, Tone 8, Ode 8 Heirmos:* `Седмери́цею пе́щь...` / Ἑπταπλασίως κάμινον.
+[^304]: *Canon of the Holy Martyr Laurence, Tone 4, Ode 8 Heirmos:* `И҆зба́вителю всѣ́хъ всеси́льне...` / Λυτρωτὰ τοῦ παντὸς παντοδύναμε.
+[^305]: *Canon of the Feast, Tone 8, Ode 9 Heirmos:* `Оу҆страши́сѧ всѧ́къ слꙋ́хъ...` / Ἐξέστη πᾶσα ἀκοή.
+[^306]: *Canon of the Holy Martyr Laurence, Tone 4, Ode 9 Heirmos:* `Е҆́ѵа ѹ҆́бѡ недꙋ́гомъ преслꙋша́нїѧ...` / Ἡ μὲν τῷ τῆς παρακοῆς νοσήματι.
+[^307]: *Exapostilarion of the Feast of the Transfiguration:* `Свѣ́те неизмѣ́нный сло́ве...` / Φῶς ἀναλλοίωτον Λόγε.
+[^308]: *Tone 6, Podoben: "The Angelic Powers" (А҆́ггелскїѧ):* Byzantine Greek Αἱ Ἀγγελικαὶ δυνάμεις.
+[^309]: *Theotokion, Tone 6:* The 1761 Pochaiv print reads `Ѻ҆́ч҃е чи́стаѧ бцⷣе прест҃а́ѧ`, an apparent typographical aberration for `Ѻ҆ пречи́стаѧ бцⷣе прест҃а́ѧ` or vocative `Ѻ҆́троковице чи́стая`.
+[^310]: *Liturgy Beatitudes rubric:* Ode 5 of the festal canon (composed by St. Cosmas of Maiuma) and Ode 5 of the second canon (composed by St. John of Damascus), to 6 troparia with heirmoi.
+[^311]: *August 11:* Commemoration of the Holy Martyr and Archdeacon Euplus of Catania in Sicily (d. 304).
+[^312]: *Stichera of the Feast, Tone 4, Podoben: "Joy of the heavenly ranks" (Небе́сныхъ чинѡ́въ):* The 1761 Pochaiv print explicitly labels this `гла́съ, д҃. Подо́бенъ : Нб҃ныхъ чинѡ́въ :` although this model is canonically Tone 1 (Τῶν οὐρανίων ταγμάτων). The Slavonic witness is translated strictly as inked.
+[^313]: *Tone 4, Podoben: "Thou hast given a sign" (Да́лъ є҆сѝ зна́меніе):* Byzantine Greek Ἔδωκας σημείωσιν. Catchword on fol. 58v (`Page_0120.jpg`) is `прибога́т[е]`, continuing on fol. 59r (`Page_0121.jpg`).

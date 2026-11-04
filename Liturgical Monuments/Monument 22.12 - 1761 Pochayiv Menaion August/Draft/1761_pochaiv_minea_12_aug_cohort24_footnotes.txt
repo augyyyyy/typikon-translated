@@ -1,0 +1,33 @@
+[^722]: Canon of Saint Bassa, acrostic witness: The acrostic in Ode 1–9 reads in Slavonic: *Твоѧ̑ по́двиги ва́ссо чⷭ҇тна́ѧ приношꙋ̀* ("I offer thy struggles, O venerable Bassa").
+[^723]: Ode 1 (Saint), Heirmos: Tone 8, *Во́дꙋ проше́дъ ꙗ҆́кѡ сꙋ́шꙋ...* (Greek: Ὑγρὰν διοδεύσας ὡσεὶ ξηράν).
+[^724]: Ode 3 (Feast), Heirmos: Tone 4, *Твоѧ̑ пѣсносло́вцы бцⷣе...* (Greek: Τοὺς σοὺς ὑμνολόγους, Θεοτόκε), from the second Dormition canon by St. John of Damascus.
+[^725]: Ode 3 (Apostle), Heirmos: Tone 8, *Ты́ є҆сѝ ѹ҆твержде́нїе...* (Greek: Σὺ εἶ τὸ στερέωμα τῶν προστρεχόντων σοι, Κύριε).
+[^726]: Ode 3 (Saint), Heirmos: Tone 8, *Нб҃нагѡ крꙋ́га верхотво́рче гдⷭ҇и...* (Greek: Ὁ στερεώσας κατ' ἀρχὰς τοὺς οὐρανούς).
+[^727]: Kontakion of the Apostle, Tone 4: Automelon / self-patterned model.
+[^728]: Sessional Hymn of the Apostle, Tone 8, Podoben: *Премꙋ́дрости* (Greek: Τὴν Σοφίαν καὶ Λόγον).
+[^729]: Sessional Hymn of the Saint, Tone 1, Podoben: *Гро́бъ тво́й* (Greek: Τὸν τάφον σου, Σωτήρ). The printed Slavonic rubric gives *гла́съ, а҃* (Tone 1), confirming the classical Byzantine melody.
+[^730]: Sessional Hymn of the Feast, Tone 1, Podoben: *Гро́бъ тво́й* (Tone and Podoben the same as preceding).
+[^731]: Ode 4 (Feast), Heirmos: Tone 4, *Неизслѣ́димый бж҃їй совѣ́тъ...* (Greek: Τὴν ἀνεξιχνίαστον θείαν βουλήν).
+[^732]: Ode 4 (Apostle), Heirmos: Tone 8, *Оу҆слы́шахъ гдⷭ҇и смотре́нїа твоегѡ̀ та́инство...* (Greek: Εἰσακήκοα, Κύριε, τὴν ἀκοὴν τῆς σῆς οἰκονομίας).
+[^733]: Ode 4 (Saint), Heirmos: Tone 8, *Оу҆слы́шахъ гдⷭ҇и смотре́нїа твоегѡ̀ та́инство...* (Heirmos the same).
+[^734]: Ode 5 (Feast), Heirmos: Tone 4, *Оу҆жасо́шасѧ всѧ́чєскаѧ ѡ҆ честнѣ́мъ ѹ҆спе́нїи твое́мъ...* (Greek: Ἐξέστη τὰ σύμπαντα, ἐπὶ τῇ σεπτῇ κοιμήσει σου).
+[^735]: Ode 5 (Apostle), Heirmos: Tone 8, *Ѿ но́щи невѣ́дѣнїа...* (Greek: Ὁ ἐκ νυκτὸς ἀγνοίας).
+[^736]: Ode 5 (Saint), Heirmos: Tone 8, *Вскꙋ́ю мѧ̀ ѿри́нꙋлъ є҆сѝ...* (Greek: Ἵνα τί με ἀπώσω).
+[^737]: Ode 6 (Feast), Heirmos: Tone 4, *Бж҃твенное сїѐ и҆ всечⷭ҇тно́е...* (Greek: Τὴν θείαν ταύτην καὶ πάντιμον).
+[^738]: Ode 6 (Apostle), Heirmos: Tone 8, *І҆ѡ́нꙋ въ ки́тѣ гдⷭ҇и...* (Greek: Ἰωνᾶν ἐν τῷ κήτει / Ἱλάσθητί μοι Σωτήρ).
+[^739]: Ode 6 (Saint), Heirmos: Tone 8, *Ѡ҆чи́сти мѧ̀ сп҃се...* (Greek: Ἱλάσθητί μοι, Σωτήρ).
+[^740]: Kontakion of the Feast, Tone 2: Automelon / self-patterned model of the Dormition.
+[^741]: Ode 7 (Feast), Heirmos: Tone 4, *Не послꙋжи́ша тва́ри бг҃омꙋ́дрїи...* (Greek: Οὐκ ἐλάτρευσαν τῇ κτίσει οἱ θεόφρονες).
+[^742]: Ode 7 (Apostle), Heirmos: Tone 8, *О́троцы бг҃очести́вїи во вавѵлѡ́нѣ...* (Greek: Παῖδες Ἑβραίων ἐν καμίνῳ).
+[^743]: Ode 7 (Saint), Heirmos: Tone 8, *Ѿ і҆ꙋде́и доше́дше ѻ҆́троцы...* (Greek: Οἱ ἐκ τῆς Ἰουδαίας καταντήσαντες παῖδες).
+[^744]: Ode 8 (Feast), Heirmos: Tone 4, *О́троки бл҃гочести́выѧ въ пещѝ...* (Greek: Λυτήριον πᾶσιν εὐαγές).
+[^745]: Ode 8 (Apostle), Heirmos: Tone 8, *Побѣди́тели мꙋчи́телѧ...* (Greek: Νικηταὶ τυράννου).
+[^746]: Ode 8 (Saint), Heirmos: Tone 8, *Седмери́цею пе́щь, халде́йскїй мꙋчи́тель...* (Greek: Ἑπταπλασίως κάμινον τῶν Χαλδαίων ὁ τύραννος).
+[^747]: Ode 9 (Feast), Heirmos: Tone 4, *Всѧ́къ земноро́дный да взыгра́етсѧ...* (Greek: Ἅπας γηγενής, σκιρτάτω τῷ πνεύματι λαμπαδουχούμενος).
+[^748]: *granting victories unto the King:* Slavonic: *королю̀ побѣди́телнаѧ*. Liturgical petition for the Polish King (Augustus III of Poland-Lithuania, reigning 1733–1763) under whose sovereignty the Pochaiv Lavra operated in 1761. Masoretic Psalter parallels: cf. Ps. 143:10.
+[^749]: Ode 9 (Apostle), Heirmos: Tone 8, *Вои́стиннꙋ бцⷣꙋ тѧ̀ и҆сповѣ́дꙋемъ...* (Greek: Κυρίως Θεοτόκον, σὲ ὁμολογοῦμεν).
+[^750]: Ode 9 (Saint), Heirmos: Tone 8, *Оу҆жасе́сѧ ѡ҆ се́мъ нб҃о...* (Greek: Ἐξέστη ἐπὶ τούτῳ ὁ οὐρανός).
+[^751]: Exapostilarion of the Apostle, Podoben: *Жены́ ѹ҆слы́шите* (Greek: Γυναῖκες ἀκουτίσθητε).
+[^752]: At the Aposticha, Stichera, Tone 2, Podoben: *До́ме є҆ѵфра́ѳовъ* (Greek: Οἶκος τοῦ Εὐφραθᾶ).
+[^753]: LXX Psalm 131:8.
+[^754]: LXX Psalm 131:11.

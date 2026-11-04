@@ -1,0 +1,86 @@
+{
+  "monument_id": "1761_pochaiv_minea_12_aug",
+  "updated_at": "2026-11-04T07:28:57.682405+00:00",
+  "total_queued_leaves": 0,
+  "info_telemetry_leaves": 7,
+  "unresolved_quarantines": 0,
+  "items": [
+    {
+      "leaf_num": 65,
+      "cohort": 7,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.12 - 1761 Pochayiv Menaion August\\Draft\\1761_pochaiv_minea_12_aug_cohort7_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.12 - 1761 Pochayiv Menaion August\\Source Text\\1761_pochaiv_minea_12_aug_cohort7_source.txt",
+      "updated_at": "2026-11-04T01:41:11.638137+00:00"
+    },
+    {
+      "leaf_num": 176,
+      "cohort": 18,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 10 footnotes on leaf (threshold=10, 2up=True)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.12 - 1761 Pochayiv Menaion August\\Draft\\1761_pochaiv_minea_12_aug_cohort18_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.12 - 1761 Pochayiv Menaion August\\Source Text\\1761_pochaiv_minea_12_aug_cohort18_source.txt",
+      "updated_at": "2026-11-04T04:07:53.004299+00:00"
+    },
+    {
+      "leaf_num": 211,
+      "cohort": 22,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.12 - 1761 Pochayiv Menaion August\\Draft\\1761_pochaiv_minea_12_aug_cohort22_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.12 - 1761 Pochayiv Menaion August\\Source Text\\1761_pochaiv_minea_12_aug_cohort22_source.txt",
+      "updated_at": "2026-11-04T04:57:34.364375+00:00"
+    },
+    {
+      "leaf_num": 217,
+      "cohort": 22,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 11 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.12 - 1761 Pochayiv Menaion August\\Draft\\1761_pochaiv_minea_12_aug_cohort22_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.12 - 1761 Pochayiv Menaion August\\Source Text\\1761_pochaiv_minea_12_aug_cohort22_source.txt",
+      "updated_at": "2026-11-04T04:57:34.365942+00:00"
+    },
+    {
+      "leaf_num": 321,
+      "cohort": 33,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.12 - 1761 Pochayiv Menaion August\\Draft\\1761_pochaiv_minea_12_aug_cohort33_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.12 - 1761 Pochayiv Menaion August\\Source Text\\1761_pochaiv_minea_12_aug_cohort33_source.txt",
+      "updated_at": "2026-11-04T07:07:54.948369+00:00"
+    },
+    {
+      "leaf_num": 325,
+      "cohort": 33,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 8 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.12 - 1761 Pochayiv Menaion August\\Draft\\1761_pochaiv_minea_12_aug_cohort33_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.12 - 1761 Pochayiv Menaion August\\Source Text\\1761_pochaiv_minea_12_aug_cohort33_source.txt",
+      "updated_at": "2026-11-04T07:07:54.949217+00:00"
+    },
+    {
+      "leaf_num": 327,
+      "cohort": 33,
+      "status": "INFO_TELEMETRY_ONLY",
+      "reasons": [
+        "dense_polyglot_apparatus: 9 footnotes on leaf (threshold=8, 2up=False)"
+      ],
+      "draft_file": "Liturgical Monuments\\Monument 22.12 - 1761 Pochayiv Menaion August\\Draft\\1761_pochaiv_minea_12_aug_cohort33_raw_draft.md",
+      "source_file": "Liturgical Monuments\\Monument 22.12 - 1761 Pochayiv Menaion August\\Source Text\\1761_pochaiv_minea_12_aug_cohort33_source.txt",
+      "updated_at": "2026-11-04T07:07:54.949715+00:00"
+    }
+  ]
+}

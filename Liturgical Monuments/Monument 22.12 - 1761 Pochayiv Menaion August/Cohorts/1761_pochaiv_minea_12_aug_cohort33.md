@@ -1,0 +1,267 @@
+=== LEAF p321 ===
+...sash, O Theotokos, having [it] as a most radiant and precious adornment.
+
+*Kontakion. Tone 4, Podoben: "Thou hast appeared today" (Ꙗ҆ви́лся є҆сѝ дне́сь):*
+The deposition of thy precious sash thy temple celebrates today, O all-pure one, and fervently cries out to thee: Rejoice, O Virgin, boast of Christians!
+
+*Ikos:*
+Enlighten me with thy light, O Virgin Theotokos, and disperse my darkness lying grievously upon my mind, that I may purely come to honor thee who hast deified mortals,[^928] and praise thy divine sash, O all-undefiled and spotless one, brighter than the sun; which this world has as a firm protection and hope, overcoming the counsels of lawless enemies, scattering their wiles, and ever preserving thy servants: Rejoice, O Virgin, boast of Christians!
+
+*Ode 7. Heirmos:*
+At the condescension of God, the fire was ashamed of old in Babylon; therefore the youths in the furnace, dancing with joyful step as in a meadow of flowers, sang: Blessed art Thou, O God of our fathers.[^929]
+
+*Troparion:*
+Having departed unto the heavenly hosts, the Queen of all left her sash as wealth unto the reigning city of all cities,[^930] whereby they are saved from the assault of visible and invisible enemies.
+
+*Troparion:*
+Let us now draw near unto the fountain dropping grace and mercy, unto the precious reliquary that possesses the all-honored sash of the Virgin and Mother, who honored the human commixture through her precious childbirth.
+
+*Troparion:*
+Praise the Lord, all heavenly hosts, and all human nations glorify her who bore Him; for she gave her sash as a true refuge and salvation for the faithful.[^931]
+
+*Troparion:*
+Let the clouds drop down righteousness from above today at the deposition of thy sash, O cloud full of divine grace,[^932] and let every soul sing sweetly, rejoicing: Blessed is the God of our fathers!
+
+*Another Canon. Ode 7. Heirmos:*
+In the Persian furnace, the youths of Abraham's seed, inflamed by love of piety rather than by the flame, cried aloud: Blessed art Thou in the temple of Thy glory, O Lord![^933]
+
+*Troparion:*
+As the Sun of righteousness, Thou who alone art the Giver of light, Thou didst divinely illumine the temple of the pure one with Thy manifold gifts, wherewith her sash, shining, shoots forth rays.[^934]
+
+*Troparion:*
+Surrounding thy sash as a golden urn,[^935] O only pure one, we truly partake now of divine and gracious sweetness, O all-blessed one, and...
+
+=== LEAF p322 ===
+...and since thou art higher than the tablets of the Law,[^936] we venerate this [sash].
+
+*Troparion:*
+Thy grace, O pure Maiden, truly pours forth marvels as a chalice unto the faithful, and it proceeds bountifully from thy reliquary, as rivers from another Eden.[^937]
+
+*Troparion:*
+Draw near now with rejoicing, all ye upon earth; come, the reliquary mystically proclaims, saying: Embrace the all-glorious one, who has treasured her sash within me!
+
+*Ode 8. Heirmos:*
+Sevenfold did the Chaldean tyrant frantically kindle the furnace for the godly ones; but seeing them saved by a higher power, he cried aloud to the Creator and Redeemer: Youths, bless; priests, praise; peoples, supremely exalt Him unto all ages![^938]
+
+*Troparion:*
+As a holy stream, the ark was placed radiantly within the inaccessible holy places, containing the restful sash of the only Maid of God and pure Queen of all, from which complete rest comes bountifully to those who labor in many afflictions.
+
+*Troparion:*
+Thou didst holily give flesh upon earth to the Lord, and with holy hands didst truly gird Him who girds the godly with might;[^939] and now having ascended higher than the heavens, thou hast left to men thy precious sash, O Virgin Theotokos, as sovereign power and protection.
+
+*Troparion:*
+Healing of the ailing, support of the stumbled, and divine encouragement of the despondent, rudder of those who sail, return of the straying: such is truly the divine grace that attends thy precious sash, O pure Virgin, which we worship in faith unto all ages.
+
+*Troparion:*
+Celebrating today the sacred festival of the holy deposition of thy divine sash, we thy servants honor it, and with joy cry aloud to thee: Rejoice, O Theotokos, joy of angels and of all men who sing in faith: Youths, bless; priests, praise; peoples, supremely exalt Him unto all ages!
+
+*Another Canon. Ode 8. Heirmos:*
+Daniel, stretching out his hands, shut the gaping mouths of the lions in the pit;[^940] and the youths, lovers of piety, girded with virtue, quenched the power of the fire, crying aloud: Bless the Lord, all ye works of the Lord![^941]
+
+*Troparion:*
+The ark of old contained the divine tablets written by the hand of God, O all-pure one;[^942] but thy honored and precious reliquary, O pure Sovereign Lady, contains the sash...
+
+=== LEAF p323 ===
+...which contains the dread mystery of her who held their Lawgiver within herself.[^943]
+
+*Troparion:*
+The angels, O all-pure, pure one, dance together now in thy precious temple, and embrace thy precious and holy sash, O Sovereign Lady, worshipping it with love and joy and much gladness, singing praises unto thee, the glory of our God.
+
+*Troparion:*
+O rod that budded forth the Flower of life,[^944] thou art the joy of all: priceless, pure vessel of the myrrh of the Spirit, treasury of good things, fountain of aromatics, from which the divine reliquary pours forth myrrh of healings.
+
+*Troparion:*
+The noetic hosts sing of thy greatness, O all-pure, pure one; all patriarchs and prophets proclaim it clearly, with apostles, the sacred ranks, and choirs of martyrs; with whom we worship thee.
+
+*Ode 9. Heirmos:*
+Heaven was dismayed at this, and the ends of the earth were astonished, that God appeared unto men in the flesh, and thy womb became more spacious than the heavens; therefore the hierarchies of angels and men magnify thee as the Theotokos.[^945]
+
+*Troparion:*
+Unto the divine bed of Solomon, which sixty valiant men surround, according to the words of the Scriptures,[^946] as upon a royal bed in an honored ark today, she lays her sash for the restoration of all the faithful and the protection of the pious.
+
+*Troparion:*
+O city of the heavenly King, of which glorious things have been spoken,[^947] place within thy city an honored and holy gift, thine all-pure sash, for the confirmation of all the faithful, whereby crowned rulers conquer adversaries, shining with Orthodoxy.
+
+*Troparion:*
+Drop down sweetness now, O mountains, and eternal rejoicing, O hills;[^948] assemblies of patriarchs, and ranks of martyrs, company of prophets, honored gathering of the divine apostles: rejoice with us all at the deposition of the divine sash of the Maid of God!
+
+*Troparion:*
+Thou art all-holy through thy childbirth, O most holy Virgin, and now thou hast granted us exceeding illumination, thy most holy sash, by whose deposition all the earth dances and honors thee, who hast filled humanity with ineffable joy.
+
+*Troparion:*
+From deceitful love of passions, and from the enemy who ever tempts with the heaviness of sins, and from the grievous abduction of despondency, and captivity and sin, quickly deliver me who flee unto thy prayer, O merciful and pure one.
+
+*Another Canon. Ode 9. Heirmos:*
+
+
+=== LEAF p324 ===
+A stone cut without hands was cut from the uncut mountain, from thee, O Virgin, even Christ the Chief Cornerstone, who joined together the divided natures;[^949] therefore rejoicing, we magnify thee, O Theotokos.
+
+*Troparion:*
+Thy reliquary, O Mother of God, has truly appeared as an all-pure bridal chamber, worthily containing and preserving thy holy sash, as a virginal and bridal garment, as a treasure of life.
+
+*Troparion:*
+Arrayed in the divine diadem of beauty, the church, O Theotokos, royal-like rejoices today with thy divine and all-pure sash, and is adorned with thy glory.
+
+*Troparion:*
+The all-fair temple of the Virgin today, wholly befitting the heavens, shines brightly; the faithful, having received the beams of gifts, are arrayed as with stellar beauties.
+
+*Troparion:*
+Thy city possesses thy holy sash, O Mother of God: a bond of peace and a wall, the divine unity of dogma, the boast of the Orthodox, and the victory of rulers.
+
+*Troparion:*
+We hymn thine ineffable glory and thy boundless grace; for thou art the fountain of wisdom, from which the Word proceeds unto all who honor thee, O all-pure one, and magnify thy childbirth.[^950]
+
+*Exapostilarion, Podoben: "Give ear, ye women" (Жены̀ ᲂу҆слы́шите):*
+Venerating thy precious sash, wherewith thou didst gird thy sacred body, O Maid of God and Virgin, we now celebrate its deposition, whereby we are delivered from corruption, and perils and tribulations, O Mother of God the Most High.
+*Glory, and both now, the same.*
+
+*At the Praises, Stichera on 4. Tone 4, Podoben: "As one valiant" (Ꙗ҆́кѡ до́блѧ):*
+*Sticheron 1:*
+As with a most radiant crown, O all-pure Theotokos, the church is girded with thy holy sash; and rejoicing, it shines today and mystically dances, crying aloud to thee, O Sovereign Lady: Rejoice, crown and divine diadem! Rejoice, only fullness of my joy, glory and eternal gladness! *(Twice)*
+
+*Sticheron 2:*
+Thou, O all-pure Sovereign Lady, being sovereign protection, unshakable foundation, and salvation unto thy people and thy city, hast given thine all-pure sash as a radiant garment, saving from all misfortunes those who honor it with faith and warm devotion, O Bride of God.
+
+*Sticheron 3:*
+Thy temple, O all-pure one, has appeared today as an inexhaustible fountain of marvels, pouring out rivers of grace bountifully from thy holy...
+
+=== LEAF p325 ===
+...from thy holy reliquary; and they gladden the minds of the faithful who cry aloud to thee in faith and love: Thou art our joy, gladness, and life!
+
+*Glory, and both now. Tone 2:*
+Having purified our intent and mind, let us also celebrate with the angels, brightly beginning the Davidic song unto the Maiden Bride of Christ God, the King of all: Arise, O Lord, saying, into Thy rest; Thou, and the ark of Thy sanctuary;[^951] for having adorned her as a fair palace, He granted her unto Thy city, O Master, to protect and shield it from adversary heathens by Thy sovereign power, through her prayers.[^952]
+
+*Great Doxology. And Dismissal.*
+*At the Liturgy. The Beatitudes from the Canons, Ode 3 and Ode 6.*
+*Prokeimenon, Tone 3: Song of the Theotokos:*
+My soul magnifies the Lord, and my spirit has rejoiced in God my Savior.[^953]
+*Verse:* For He has regarded the lowliness of His handmaiden.[^954]
+
+*Epistle to the Hebrews, Pericope 320 [Heb. 9:1–7].*[^955]
+
+*Alleluia. Arise, O Lord, into Thy rest; Thou, and the ark of Thy sanctuary.*[^956]
+
+*Gospel according to Luke, Pericope 54 [Luke 10:38–42, 11:27–28].*[^957]
+
+*Communion Hymn: I will take the cup of salvation, and call upon the name of the Lord. Alleluia.*[^958]
+
+=== LEAF p326 ===
+# APPENDIX: THEOTOKIA IN THE EIGHT TONES
+
+*Resurrectional Theotokia in the Eight Tones:*
+
+*Tone 1. Theotokion [Dogmatikon]:*
+Let us hymn the Virgin Mary, the glory of all the world, who blossomed forth from men and bore the Master, the heavenly gate, the song of the bodiless hosts and the adornment of the faithful; for she was revealed as heaven and the temple of the Godhead; she, having broken down the barrier of enmity, brought in peace and opened the kingdom.[^959] Having her, therefore, as the confirmation of our faith, we have as champion the Lord who was born of her. Be of good courage, therefore; be of good courage, O people of God; for He shall conquer the enemies, as He is almighty.[^960]
+
+*At the Aposticha, Theotokion:*
+Behold, the prophecy of Isaiah is fulfilled; for thou, a Virgin, didst give birth, and after childbirth didst remain a Virgin as before childbirth, for God was He who was born; therefore He also reshaped nature.[^961] But O Mother of God, despise not the supplications of thy servants brought unto thee in thy temple; but as thou bearest in thine arms Him who is compassionate, have mercy upon thy servants, and pray that our souls may be saved.
+
+*Tone 2.*
+*Theotokion [Dogmatikon]:*
+The shadow of the Law has passed away now that grace has come; for as the bush was not consumed when burning with fire,[^962] so didst thou, a Virgin, give birth and remain a Virgin. Instead of a pillar of fire, the Sun of righteousness has shone forth; instead of Moses, Christ, the salvation of our souls.[^963]
+
+*At the Aposticha, Theotokion:*
+O new marvel among all ancient marvels! For who has known a mother who gave birth without a man, and carries in her arms Him who contains all creation? It is the will of God that was born. As thou hast borne Him as an infant in thine arms, O all-pure one, and hast maternal boldness toward Him, cease not to pray for those who honor thee, to have compassion and save our souls.
+
+*Tone 3. Theotokion [Dogmatikon]:*
+How shall we not marvel at thy God-man childbirth, O all-pure one? For having known no trial of man, O all-spotless one, thou didst bear without a father a Son in the flesh, who was begotten of the Father before the ages without a mother, who underwent no mutation, nor confusion, nor division...
+
+
+=== LEAF p327 ===
+...but preserved whole the properties of each nature.[^964] Therefore, O Mother, Virgin Sovereign Lady, pray to Him that our souls may be saved, who confess thee to be the Theotokos in Orthodox manner.
+
+*At the Aposticha, Theotokion:*
+Without seed from the Holy Spirit, but by the will of the Father, thou didst conceive the Son of God, who was with the Father before the ages without a mother; and for our sake, having come from thee without a father, thou didst bear Him in the flesh and suckle Him as an infant with milk.[^965] Therefore cease not to pray that our souls may be delivered from tribulations.
+
+*Tone 4. Theotokion [Dogmatikon]:*
+The prophet David, who was the ancestor of God through thee, in song proclaimed concerning thee unto Him who did great things for thee: The queen stood at Thy right hand.[^966] For God, who was pleased to become man from thee without a father, revealed thee as mother and mediatrix of life, that He might renew His image corrupted by passions,[^967] and having found the sheep that went astray upon the mountains, taking it upon His shoulders,[^968] He might bring it to the Father, and according to His own will unite it with the heavenly hosts, and save the world, O Theotokos, for Christ has great and rich mercy.
+
+*At the Aposticha, Theotokion:*
+Look upon the supplications of thy servants, O all-spotless one, quelling the fierce assaults against us, turning away from us every affliction. For we have thee alone as a firm and sure foundation, and have acquired thy protection; let us not be put to shame, O Sovereign Lady, who call upon thee. Hasten to the supplication of those who cry aloud in faith to thee: Rejoice, O Sovereign Lady, help of all, joy and protection, and salvation of our souls!
+
+*Tone 5. Theotokion [Dogmatikon]:*
+In the Red Sea, an image of the unwedded Bride was inscribed of old.[^969] There Moses was the divider of the water; here Gabriel was the minister of the marvel. Then Israel traversed the deep dry-shod; now the Virgin has given birth to Christ without seed. The sea remained impassable after the passage of Israel; the blameless one remained incorrupt after the birth of Emmanuel.[^970] O Thou who art, and wast before, and hast appeared as man: O God, have mercy on us!
+
+*At the Aposticha, Theotokion:*
+Thou art the temple and the door, the palace and the throne of the King, O all-honored Virgin, through whom my Redeemer, Christ the Lord, appeared unto those sleeping in darkness, being the Sun of righteousness,[^971] desiring to enlighten those whom He created according to His own image with His hand.[^972] Therefore, O all-hymned one, as thou hast acquired maternal boldness toward Him...
+
+=== LEAF p328 ===
+...unceasingly pray that our souls may be saved.
+
+*Tone 6. Theotokion [Dogmatikon]:*
+Who shall not call thee blessed, O most holy Virgin? Who shall not praise thy childbirth without spot? For the only-begotten Son, who shone forth timelessly from the Father, the same came forth from thee, pure one, having ineffably become incarnate: being God by nature, and having become man by nature for our sake; not divided into two persons, but recognized in two natures without confusion.[^973] Pray to Him, O pure and all-blessed one, that our souls may have mercy.
+
+*At the Aposticha, Theotokion:*
+My Creator and Redeemer, Christ the Lord, having come forth from thy womb, O all-pure one, and clothed Himself in me, has freed Adam from the ancient curse.[^974] Therefore unto thee, O all-pure one, as the Mother of God and Virgin in truth, we cry aloud unceasingly with the angel: Rejoice, O Sovereign Lady! Rejoice, protection and defense, and salvation of our souls![^975]
+
+*Tone 7. Theotokion [Dogmatikon]:*
+Thou wast known as a Mother beyond nature, O Theotokos, yet didst remain a Virgin beyond word and understanding; and the marvel of thy childbirth no tongue can recount. For as the conception was all-glorious, O pure one, so the manner of birth is incomprehensible: for where God so wills, the order of nature is overcome.[^976] Therefore, knowing thee to be the Mother of God, we fervently beseech thee: pray that our souls may be saved.
+
+*At the Aposticha, Theotokion:*
+Fleeing under thy protection, O Sovereign Lady, all we who are born of earth cry aloud to thee: O Theotokos, our hope, deliver us from our boundless transgressions, and save our souls!
+
+*Tone 8. Theotokion [Dogmatikon]:*
+Out of love for mankind, the King of heaven appeared upon earth and dwelt among men;[^977] for taking flesh from the pure Virgin, and having come forth from her with the assumed human nature, He is one Son, twofold in nature, but not in hypostasis.[^978] Therefore, truly preaching Him as perfect God and perfect man, we confess Christ our God. Beseech Him, O unwedded Mother, that our souls may have mercy.
+
+*At the Aposticha, Theotokion:*
+O unwedded Virgin, who didst ineffably conceive God in the flesh, Mother of God the Most High: receive the supplications of thy servants, O all-spotless one, granting unto all cleansing of transgressions; now receiving our supplications, pray that we all may be saved.
+
+=== LEAF p329 ===
+*Theotokia in the Eight Tones:*
+*Sung when there is "Glory" to the Saint in the Menaion, and "Both now" according to the Tone of the Saint.*
+
+*Tone 1.*
+*On Sunday evening, Theotokion:*
+Joy of the heavenly hosts, and firm protection of men upon earth, O all-pure Virgin, save us who flee unto thee; for after God, we have placed our hope in thee, O Theotokos.
+
+*On Monday at Matins, Theotokion:*
+Holier than all the holy hosts, more honorable than all creation, O Theotokos, Sovereign Lady of the world: save us who bore the Savior, from myriad transgressions and perils, as thou art good, through thy prayers.
+
+*On Monday evening, Theotokion:*
+O all-hymned Virgin, whom Moses of old mystically saw with prophetic eyes as a bush burning and unconsumed;[^979] for the fire of the Godhead did not consume thy womb, O pure one. Therefore we pray thee as the Mother of our God, to entreat peace for the world, and great mercy.
+
+*On Tuesday at Matins, Theotokion:*
+I have surpassed the harlot, the prodigal, and the robber, and have exceeded the tax collector and the Ninevites in transgressions;[^980] woe is me, what will become of me? How shall I, wretched one, escape torments? O pure one, I fall down before thee, have compassion on me by thy mercy, even as Thy Son saved them.
+
+*On Wednesday evening, Theotokion:*
+Rejoice, joy of the forebears, gladness of the apostles and martyrs, and protection of us thy servants, O Virgin!
+
+*On Thursday at Matins, Theotokion:*
+Rejoice, O Theotokos Virgin; rejoice, boast of all the universe; rejoice, all-pure, blessed Mother of God!
+
+*On Friday evening, Theotokion:*
+Truly beyond understanding are the marvelous greatnesses of thy childbirth, O Bride of God, which all the prophets proclaimed, all exceeding glorious; thine all-hymned conception and childbirth are incomprehensible and ineffable, whereby He saved the world, as He is merciful.
+
+*On Saturday at Matins, Theotokion:*
+Rejoice from us, O holy Theotokos Virgin, pure vessel of all the universe, unquenchable lamp, container of the Uncontainable, indestructible temple; rejoice, of whom was born the Lamb of God who takes away the sins of the whole world![^981]
+
+=== LEAF p330 ===
+*Tone 2.*
+*On Sunday evening, Theotokion:*
+Rejoice, Mary Theotokos, indestructible temple, and most holy, even as the prophet cries: Holy is Thy temple, wonderful in righteousness![^982]
+
+*On Monday at Matins, Theotokion:*
+We have placed our hope in thee, O Theotokos, let us not fall from our expectation; save us from perils, O helper of those in despair, and destroy the counsels of adversaries; for thou art our salvation, O blessed one.
+
+*On Monday evening, Theotokion:*
+Impassable gate, mystically sealed,[^983] O blessed Virgin Theotokos, receive our supplications, and bring them unto thy Son and God, that through thee He may save our souls.
+
+*On Tuesday at Matins, Theotokion:*
+Rejoice, Mary Theotokos, indestructible temple, and most holy, even as the prophet cries: Holy is Thy temple, wonderful in righteousness![^984]
+
+*On Wednesday at Matins, Theotokion:*
+As a fruitful olive tree,[^985] the Virgin brought Thee forth, the Fruit of life, to bear the fruit of great and rich mercy for the world.
+
+*On Thursday at Matins, Theotokion:*
+All my hope I place in thee, O Mother of God; preserve me under thy protection.
+
+*On Friday evening, Theotokion:*
+Save thy servants from perils, O Virgin Theotokos; for next to God we all flee unto thee, as unto an unbreakable wall and protection.
+
+*On Saturday at Matins, Theotokion:*
+Come, let us all glorify the Mother of the Light, calling upon her with unceasing hymns, for she gave birth to our salvation; and let us offer her: "Rejoice!", as the only one who gave birth to the Prince of all, who was God before the ages. Rejoice, thou who hast restored fallen Eve! Rejoice, O all-pure, unwedded Virgin!
+
+*Tone 3.*
+*On Sunday evening, Theotokion:*
+O Theotokos, mediatrix of all who pray to thee: in thee we take courage, and in thee we boast, and in thee is all our hope; pray to Him who was born of thee, on behalf of thy unprofitable servants...

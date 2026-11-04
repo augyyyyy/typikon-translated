@@ -1,0 +1,47 @@
+{
+  "monument_id": "1761_pochaiv_minea_12_aug",
+  "title": "1761 Pochayiv Menaion — Vol. 12: August (Pochayiv Lavra, 1761)",
+  "monument_type": "anthologion",
+  "genre_register": "hymnographic",
+  "retrospective_timestamp": "2026-11-04T11:41:20.936891+00:00",
+  "codicological_profile": {
+    "total_physical_leaves": 347,
+    "cohort_count": 35,
+    "default_cohort_size": 10,
+    "monument_type": "anthologion"
+  },
+  "subagent_execution_telemetry": {
+    "total_cohorts_dispatched": 35,
+    "worker_model": "flash",
+    "cohorts_passing_gate_100pct": 35,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.105,
+      "median_cohort_ratio": 1.168,
+      "max_cohort_median": 1.319
+    }
+  },
+  "argon_review_queue_telemetry": {
+    "total_items_recorded": 7,
+    "resolved_by_argon": 0,
+    "info_telemetry_only": 7,
+    "unresolved_quarantines": 0,
+    "codicological_crux_count": 0
+  },
+  "final_publication_verification": {
+    "parts_count": 3,
+    "parts": [
+      "1761_pochaiv_minea_12_aug_part0_front_matter.md",
+      "1761_pochaiv_minea_12_aug_part1_month-of-august.md",
+      "1761_pochaiv_minea_12_aug_part2_appendix-theotokia-in-the-eight-tones.md"
+    ],
+    "total_footnotes_verified": 1044,
+    "sgc02_ratio_summary": {
+      "min_cohort_median": 1.105,
+      "median_cohort_ratio": 1.168,
+      "max_cohort_median": 1.319
+    },
+    "all_6_publication_gates_passed": true
+  },
+  "edge_cases_and_anomalies": [],
+  "engine_hardening_proposals": []
+}
