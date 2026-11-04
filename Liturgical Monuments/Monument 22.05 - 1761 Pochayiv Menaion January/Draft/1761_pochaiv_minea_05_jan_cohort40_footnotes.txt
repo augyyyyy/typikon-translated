@@ -1,0 +1,101 @@
+[^2774]: Troparion 1 of Ode 3 of the First Canon of the Saint: *Бы́лъ є҆сѝ прїѧ́телище бж҃їе чи́стое...*
+[^2775]: Troparion 2 of Ode 3 of the First Canon of the Saint: *Златы́й ѻ҆рга́нъ, возглаша́ющїй на́мъ неизречє́ннаѧ...*
+[^2776]: Troparion 3 of Ode 3 of the First Canon of the Saint: *Гл҃го́лы жи́зни ᲂу҆ры́гнꙋлъ є҆сѝ вѣ̑рнымъ...*
+[^2777]: Theotokion of Ode 3 of the First Canon of the Saint: *Высотꙋ̀ неизрече́ннагѡ...*
+[^2778]: Heirmos of Ode 3 of the Second Canon of the Saint, Tone 4: *И҆́же ѿ несꙋ́щихъ всѧ̑ приведы́й...*
+[^2779]: Troparion 1 of Ode 3 of the Second Canon of the Saint: *И҆зъ заточе́нїѧ тѧ̀ сокры̀ верте́пѣхъ...*
+[^2780]: Troparion 2 of Ode 3 of the Second Canon of the Saint: *И҆ска́па стрꙋѝ чꙋде́съ...*
+[^2781]: Troparion 3 of Ode 3 of the Second Canon of the Saint: *Златоте́чный нї́лъ наводнѧ́ѧй...*
+[^2782]: Theotokion of Ode 3 of the Second Canon of the Saint: *Земно́е є҆стество̀ не мо́жетъ тѧ̀ воспѣ́ти...*
+[^2783]: Katavasia of the Meeting of the Lord (Ode 3): *Оу҆твержде́нїе на тѧ̀ надѣ́ющихсѧ, ᲂу҆твердѝ гдⷭ҇и цр҃ковь...*
+[^2784]: Sessional Hymn of the Saint, Tone 8, Podoben: "The Wisdom and the Word" (*Премꙋ́дрости*): *Ю҆́же съ высоты̀ мꙋ́дрость ᲂу҆вѣ́дѣвъ...*
+[^2785]: Theotokion after the Sessional Hymn, Tone 8: *Ѿ трⷪ҇цы є҆ди́наго преесте́ственнѡ заче́нши дв҃о...*
+[^2786]: Heirmos of Ode 4 of the Canon of the Theotokos, Tone 8: *Ты́ моѧ̀ крѣ́пость гдⷭ҇и, ты́ моѧ̀ и҆ си́ла...*
+[^2787]: Troparion 1 of Ode 4 of the Canon of the Theotokos: *Восто́къ ѻ҆́ч҃ескагѡ ѡ҆заре́нїѧ...*
+[^2788]: Troparion 2 of Ode 4 of the Canon of the Theotokos: *Ты̀ злата́ѧ кади́льнице влады́чице...*
+[^2789]: Troparion 3 of Ode 4 of the Canon of the Theotokos: *Ты̀ человѣ́кѡвъ сла́ва, и҆ че́сть и҆ хвала̀...*
+[^2790]: Troparion 4 of Ode 4 of the Canon of the Theotokos: *Ѻ҆́дръ честны́й є҆го́же соломѡ́нъ предпрописа̀...*
+[^2791]: Heirmos of Ode 4 of the First Canon of the Saint, Tone 4: *Прови́дѣвъ проро́къ та́инꙋ твою̀ неизрече́ннꙋю хрⷭ҇тѐ...*
+[^2792]: Troparion 1 of Ode 4 of the First Canon of the Saint: *Оу҆ста̀ ѻ҆гнедохнове́нна, и҆ ꙗ҆зы́къ стѧжа́въ...*
+[^2793]: Troparion 2 of Ode 4 of the First Canon of the Saint: *Сказа́тель неизглаго́ланныхъ, да возвели́читсѧ ны́нѣ...*
+[^2794]: Troparion 3 of Ode 4 of the First Canon of the Saint: *Оу҆́мъ ѡ҆блиста́емь заре́ю всест҃а́гѡ дх҃а...*
+[^2795]: Troparion 4 of Ode 4 of the First Canon of the Saint: *Бл҃же́нъ ꙗ҆ви́лсѧ є҆сѝ пра́вды ра́ди...*
+[^2796]: Theotokion of Ode 4 of the First Canon of the Saint: *И҆зъ тебє̀ дв҃о спасе́нїе мі́рꙋ прїи́де...*
+[^2797]: Heirmos of Ode 4 of the Second Canon of the Saint, Tone 4: *Положи́лъ є҆сѝ къ на́мъ тве́рдꙋю любо́вь гдⷭ҇и...*
+[^2798]: Troparion 1 of Ode 4 of the Second Canon of the Saint: *Слове́съ рачи́телїе, слове́съ вели́каго ᲂу҆краси́телѧ...*
+[^2799]: Troparion 2 of Ode 4 of the Second Canon of the Saint: *Ѡ҆богати́вый на́съ ᲂу҆че́нїй бога́тствомъ златоꙋ́сте...*
+[^2800]: Troparion 3 of Ode 4 of the Second Canon of the Saint: *Лꙋ́къ си́льныхъ лю́тости мꙋчи́тельскїѧ...*
+[^2801]: Theotokion of Ode 4 of the Second Canon of the Saint: *Чи́ни ᲂу҆́мнїи пѣснопѣ́нїи тѧ̀ хва́лѧтъ...*
+[^2802]: Katavasia of the Meeting of the Lord (Ode 4): *Покры́ла є҆́сть нб҃са̀ добродѣ́тель твоѧ̀ хрⷭ҇тѐ...*
+[^2803]: Heirmos of Ode 5 of the Canon of the Theotokos, Tone 8: *Вскꙋ́ю мѧ̀ ѿри́нꙋлъ є҆сѝ, ѿ лица̀ твоегѡ̀ свѣ́те незаходи́мый...*
+[^2804]: Troparion 1 of Ode 5 of the Canon of the Theotokos: *Мы́сленныѧ сатра́пы...*
+[^2805]: Troparion 2 of Ode 5 of the Canon of the Theotokos: *Ꙗ҆́кѡ ра́дость заче́ншаѧ...*
+[^2806]: Troparion 3 of Ode 5 of the Canon of the Theotokos: *Та́инственнаѧ мѵ́рополо́жнице...*
+[^2807]: Troparion 4 of Ode 5 of the Canon of the Theotokos: *Непрохо́днаѧ две́рь ра́дꙋйсѧ...*
+[^2808]: Heirmos of Ode 5 of the First Canon of the Saint, Tone 4: *Сою́зомъ любвѐ свѧзꙋ́еми а҆пл҃и...*
+[^2809]: Troparion 1 of Ode 5 of the First Canon of the Saint: *Свѣти́льникъ ꙗ҆ви́лсѧ є҆сѝ всѣ̑мъ сїѧ́ѧ...*
+[^2810]: Troparion 2 of Ode 5 of the First Canon of the Saint: *Бога́тство слове́съ разда́лъ є҆сѝ...*
+[^2811]: Troparion 3 of Ode 5 of the First Canon of the Saint: *Ꙗ҆́коже ро́га многопло́дна...*
+[^2812]: Theotokion of Ode 5 of the First Canon of the Saint: *Вѡ́инства безпло́тныхъ є҆го́же не мо́гꙋтъ ви́дѣти...*
+[^2813]: Heirmos of Ode 5 of the Second Canon of the Saint, Tone 4: *Къ тебѣ̀ ᲂу҆́тренюю всѣ́хъ творцꙋ̀...*
+[^2814]: Troparion 1 of Ode 5 of the Second Canon of the Saint: *Ꙗ҆́коже весна̀ ꙗ҆ви́лсѧ є҆сѝ бл҃гоꙋха́ѧ...*
+[^2815]: Troparion 2 of Ode 5 of the Second Canon of the Saint: *Бж҃е́ственнаѧ стꙋ́дѧ, и҆сто́чникъ дарова́нїй возврати́сѧ...*
+[^2816]: Troparion 3 of Ode 5 of the Second Canon of the Saint: *Заше́дъ сокры́лсѧ є҆сѝ, ᲂу҆вы̀ мнѣ̀...*
+[^2817]: Theotokion of Ode 5 of the Second Canon of the Saint: *Ми́лостива мнѣ̀ сотворѝ проше́дшаго...*
+[^2818]: Katavasia of the Meeting of the Lord (Ode 5): *Ꙗ҆́кѡ ви́дѣ и҆са́їа ѻ҆́бразнѡ на прⷭ҇то́лѣ...*
+[^2819]: Heirmos of Ode 6 of the Canon of the Theotokos, Tone 8: *Моли́твꙋ пролїю̀ ко гдⷭ҇ꙋ...*
+[^2820]: Troparion 1 of Ode 6 of the Canon of the Theotokos: *Ѡ҆дꙋшевлє́нный ра́дꙋйсѧ бл҃чце: сосꙋ́де...*
+[^2821]: Troparion 2 of Ode 6 of the Canon of the Theotokos: *Оу҆крѣплѧ́етъ ᲂу҆́бѡ чл҃вѣ́чєскаѧ сердца̀...*
+[^2822]: Troparion 3 of Ode 6 of the Canon of the Theotokos: *Свѣти́льниче златоза́рный ра́дꙋйсѧ...*
+[^2823]: Troparion 4 of Ode 6 of the Canon of the Theotokos: *Пречи́стаѧ пренепоро́чнаѧ ра́дꙋйсѧ...*
+[^2824]: Heirmos of Ode 6 of the First Canon of the Saint, Tone 4: *Бе́здна послѣ́днѧѧ грѣхѡ́въ ѡ҆бы́де мѧ̀, и҆ волне́нїа...*
+[^2825]: Troparion 1 of Ode 6 of the First Canon of the Saint: *И҆сточѝ ꙗ҆зы́къ тво́й всебл҃же́нне златоꙋ́сте...*
+[^2826]: Troparion 2 of Ode 6 of the First Canon of the Saint: *Честна̀ всебл҃же́нне сме́рть твоѧ̀...*
+[^2827]: Troparion 3 of Ode 6 of the First Canon of the Saint: *Бл҃же́нъ гро́бъ и҆́же честно́е твоѐ содержи́тъ тѣ́ло...*
+[^2828]: Theotokion of Ode 6 of the First Canon of the Saint: *Высоча́йшаго ро́ждши прⷭ҇таѧ бг҃оневѣ́сто...*
+[^2829]: Heirmos of Ode 6 of the Second Canon of the Saint, Tone 4: *Бе́здна послѣ́днѧѧ грѣхѡ́въ ѡ҆бы́де мѧ̀, и҆ и҆счеза́етъ дꙋ́хъ мо́й...*
+[^2830]: Troparion 1 of Ode 6 of the Second Canon of the Saint: *Ѡ҆клеве́тъ тѧ̀ ѿ це́ркве хрⷭ҇то́вы...*
+[^2831]: Troparion 2 of Ode 6 of the Second Canon of the Saint: *Ѻ҆рга́нъ показа́лсѧ є҆сѝ вседѣ́тельнагѡ златоꙋ́сте...*
+[^2832]: Troparion 3 of Ode 6 of the Second Canon of the Saint: *Ме́ртвости а҆́ще и҆ ᲂу҆́мре...*
+[^2833]: Theotokion of Ode 6 of the Second Canon of the Saint: *Є҆ди́наго тѧ̀ сꙋ́щаго ѿ дв҃ы помышлѧ́ѧ...*
+[^2834]: Katavasia of the Meeting of the Lord (Ode 6): *Возопѝ къ тебѣ̀ ви́дѣвъ ста́рецъ...*
+[^2835]: Kontakion of the Saint, Tone 6, Podoben: "The angelic choir" (*Ли́къ а҆́гглскїй*): *Возвесели́сѧ та́инственнѡ честна́ѧ це́рковь...*
+[^2836]: Ikos of the Saint: *Свѣ́ща дѣ́лъ мои́хъ мра́чнаѧ бы́сть...*
+[^2837]: Heirmos of Ode 7 of the Canon of the Theotokos, Tone 8: *Бж҃їѧ снизхожде́нїа, ѻ҆́гнь ᲂу҆стыдѣ́сѧ въ вавѷлѡ́нѣ...*
+[^2838]: Troparion 1 of Ode 7 of the Canon of the Theotokos: *Є҆ди́на неискꙋсомꙋ́жнаѧ...*
+[^2839]: Troparion 2 of Ode 7 of the Canon of the Theotokos: *Сїѡ́не гра́де ѡ҆дꙋшевлє́нный...*
+[^2840]: Troparion 3 of Ode 7 of the Canon of the Theotokos: *Цвѣ́тникъ бг҃онасажде́нъ...*
+[^2841]: Troparion 4 of Ode 7 of the Canon of the Theotokos: *Пречⷭ҇та́ѧ бл҃чце, ѿ безче́стїа мѧ̀ страсте́й и҆зба́ви...*
+[^2842]: Heirmos of Ode 7 of the First Canon of the Saint, Tone 4: *Ѻ҆́троцы въ вавѷлѡ́нѣ пе́щнагѡ пла́мене...*
+[^2843]: Troparion 1 of Ode 7 of the First Canon of the Saint: *Чꙋдодѣ́йствїи сїѧ́ѧ, бг҃осло́вїемъ ᲂу҆краша́ѧсѧ...*
+[^2844]: Troparion 2 of Ode 7 of the First Canon of the Saint: *Сѣче́ши коре́нїа ѕло́бы, сѣки́рою бж҃е́ственныхъ...*
+[^2845]: Troparion 3 of Ode 7 of the First Canon of the Saint: *Прпⷣбне возврати́всѧ разстоѧ́щыѧсѧ ᲂу҆мири́лъ є҆сѝ...*
+[^2846]: Theotokion of Ode 7 of the First Canon of the Saint: *Пресꙋ́щественныѧ трⷪ҇цы є҆ди́наго родила̀ є҆сѝ...*
+[^2847]: Heirmos of Ode 7 of the Second Canon of the Saint, Tone 4: *Ꙗ҆́коже дре́вле бл҃гочести̑выѧ трѝ ѻ҆́троки...*
+[^2848]: Troparion 1 of Ode 7 of the Second Canon of the Saint: *Нꙋ́ждꙋ сотвори́ти вдови́цѣ премꙋ́дре...*
+[^2849]: Troparion 2 of Ode 7 of the Second Canon of the Saint: *Но возврати́лсѧ є҆сѝ сла́достенъ...*
+[^2850]: Troparion 3 of Ode 7 of the Second Canon of the Saint: *Простира́ю тѝ дла̑ни моѧ̑ златоꙋ́сте...*
+[^2851]: Theotokion of Ode 7 of the Second Canon of the Saint: *Ꙗ҆́кѡ та́йнаѧ клеща̀ нѣ́каѧ...*
+[^2852]: Katavasia of the Meeting of the Lord (Ode 7): *Тебѐ во ѻ҆гнѝ ѡ҆роси́вшаго ѻ҆́троки богосло́вившыѧ...*
+[^2853]: Heirmos of Ode 8 of the Canon of the Theotokos, Tone 8: *Бл҃гослови́те ѻ҆́троцы трⷪ҇цы равночи́сленнїи...*
+[^2854]: Troparion 1 of Ode 8 of the Canon of the Theotokos: *И҆зъ і҆ессе́ева ко́рене, ра́дꙋйсѧ же́злъ...*
+[^2855]: Troparion 2 of Ode 8 of the Canon of the Theotokos: *Желѣ́знымъ твои́мъ жезло́мъ держа́внагѡ...*
+[^2856]: Troparion 3 of Ode 8 of the Canon of the Theotokos: *Оу҆краси́ласѧ є҆сѝ бг҃а, кра́снаго доброта́ми...*
+[^2857]: Troparion 4 of Ode 8 of the Canon of the Theotokos: *Данїи́лъ ю҆́же ви́дѣ го́рꙋ пре́жде несѣко́мꙋю...*
+[^2858]: Heirmos of Ode 8 of the First Canon of the Saint, Tone 4: *За зако́ны ѻ҆те́ческїѧ бл҃же́ннїи въ вавѷлѡ́нѣ ю҆́ношы...*
+[^2859]: Troparion 1 of Ode 8 of the First Canon of the Saint: *Рѣши́ти же и҆ вѧза́ти прпⷣбне и҆мѣ́ѧ вла́сть...*
+[^2860]: Troparion 2 of Ode 8 of the First Canon of the Saint: *Въ заточе́нїи претерпѣ́лъ є҆сѝ ѻ҆́ч҃е бг҃омꙋ́дре...*
+[^2861]: Troparion 3 of Ode 8 of the First Canon of the Saint: *Глаго́лѡвъ стрѣ́лы терпѣ́ти преподо́бне твои́хъ...*
+[^2862]: Trinity Hymn of Ode 8 of the First Canon of the Saint: *Безнача́льне ѻ҆́ч҃е, и҆ собезна́чалне сн҃е...*
+[^2863]: Theotokion of Ode 8 of the First Canon of the Saint: *Размѣ́ти не мо́жетъ ᲂу҆́мъ человѣ́ческїй...*
+[^2864]: Heirmos of Ode 8 of the Second Canon of the Saint, Tone 4: *Нестерпи́момꙋ ѻ҆гню̀ соедини́вшесѧ...*
+[^2865]: Troparion 1 of Ode 8 of the Second Canon of the Saint: *Ѡ҆́вцами бл҃гоче́стїа ѻ҆́ч҃е преподо́бне...*
+[^2866]: Troparion 2 of Ode 8 of the Second Canon of the Saint: *Во всю̀ зе́млю проы́зыде ѻ҆́ч҃е вѣща́нїе...*
+[^2867]: Troparion 3 of Ode 8 of the Second Canon of the Saint: *Да просвѣти́тсѧ дне́сь сосло́вїе вѣ́рныхъ...*
+[^2868]: Theotokion of Ode 8 of the Second Canon of the Saint: *Зрю́ тѧ на рꙋка́хъ ма́терскихъ...*
+[^2869]: Katavasia of the Meeting of the Lord (Ode 8): *Нестерпи́момꙋ ѻ҆гню̀ соедини́вшесѧ...*
+[^2870]: Heirmos of Ode 9 of the Canon of the Theotokos, Tone 8: *Оу҆страши́сѧ всѧ́къ слꙋ́хъ, неизрече́нна бж҃їа...*
+[^2871]: Troparion 1 of Ode 9 of the Canon of the Theotokos: *Сѐ всѝ ро́ди блажа́тъ тѧ̀ приснобл҃же́нную...*
+[^2872]: Troparion 2 of Ode 9 of the Canon of the Theotokos: *И҆спра́вила є҆сѝ вл҃чце чи́стаѧ пра́ѻтца а҆да́ма...*
+[^2873]: Troparion 3 of Ode 9 of the Canon of the Theotokos: *Досто́йно є҆́сть є҆́же ра́дꙋйсѧ вопи́ти тебѣ̀...*
+[^2874]: Troparion 4 of Ode 9 of the Canon of the Theotokos: *Пронзе́тъ моѐ сла́дкою стрѣло́ю се́рдце...*

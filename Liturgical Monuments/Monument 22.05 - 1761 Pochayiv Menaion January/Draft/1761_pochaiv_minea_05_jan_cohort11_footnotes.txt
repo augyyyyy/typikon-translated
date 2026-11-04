@@ -1,0 +1,37 @@
+[^698]: Continuation of Psalm 73:3-4 (LXX). Note that the Pochayiv 1761 edition's printed foliation jumps directly from Fol. 49 (*м҃ѳ*) on physical leaf p99/p100 to Fol. 51 (*н҃а*) on physical leaf p101, skipping numeral 50 (*н*), but the text flows seamlessly without any omission or textual gap across the bottom custos *рꙋ́цѣ*.
+[^699]: Conclusion of Psalm 73:5-23 (LXX), the second psalm of the Sixth Royal Hour, prophetically prefiguring Christ's crushing of the dragons' heads in the waters of Jordan (*Ты̀ сте́рлъ є҆сѝ главы̑ смїє́въ въ водѣ̀*).
+[^700]: Opening verses of Psalm 76:2-7 (LXX: *Гла́сомъ мои́мъ ко гдⷭ҇ꙋ воззва́хъ*), the third psalm of the Sixth Royal Hour, expressing deep soul-anguish and earnest nocturnal seeking of God.
+[^701]: Conclusion of Psalm 76:8-21 (LXX), culminating in the cosmic witness of the waters (*Ви́дѣша тѧ̀ во́ды бж҃е*), the standard Theophany psalmody refrains.
+[^702]: Psalm 90:1-16 (LXX: *Живы́й въ по́мощи вы́шнѧгѡ*), appointed at the Sixth Hour, celebrating divine protection against demonic snares and trampling the serpent.
+[^703]: Festal Troparion of the Forefeast of Theophany, Tone 4 (*Возвраща́шеся и҆ногда̀ і҆орда́нъ рѣка̀*), recalling Elisha dividing the Jordan with Elijah's mantle (4 Kgdms / 2 Kings 2:14) as a type of holy baptism.
+[^704]: Standard Theotokion of the Sixth Hour (*Ꙗ҆́кѡ не и҆́мамы дерзнове́нїя*), appealing to the maternal boldness of the Virgin Mother before her Son.
+[^705]: First Sticheron of the Sixth Royal Hour, Tone 8 (*Та́кѡ глаго́летъ гдⷭ҇ь ко і҆ѡа́ннꙋ*), embodying Christ's command to John to touch His divine head and drown the demonic adversary hiding in the waters.
+[^706]: Second Sticheron of the Sixth Royal Hour, Tone 2 (*Дне́сь ѱало́мское прⷪ҇ро́чество*), applying Psalm 113:3 to the baptism of Christ and the cleansing of the nations from idolatry.
+[^707]: Opening of the Sticheron at *Glory...*, Tone 5 (*Что̀ возвраща́еши твоѧ̑ во́ды, ѽ і҆орда́не?*), portraying dramatic personified dialogue between the prophet/church and the river Jordan trembling before the divine fire.
+[^708]: Conclusion of the Sixth Royal Hour Sticheron at *Glory...*, Tone 5 (*і҆ѡа́ннъ свидѣ́тельствꙋетъ мѝ*), quoting John's testimony of the Lamb of God (John 1:29) and invoking Christ's theophanic manifestation for human salvation.
+[^709]: Prokeimenon of the Sixth Royal Hour, Tone 4 (LXX Ps. 76:20, 19: *Въ мо́ри пꙋтїѐ твоѝ*), witnessing the path of God through the depths of the sea and the voice of thunder.
+[^710]: Old Testament Paremia of the Sixth Royal Hour from Isaiah 12:3-6 (*Почерпи́те во́дꙋ съ весе́лїемъ*), foretelling joyful drawing of living water from the springs of salvation.
+[^711]: Epistle reading of the Sixth Royal Hour from Romans 6:3-11 (Pericope 91), the classical Pauline baptismal theology of dying and rising with Christ into newness of life.
+[^712]: Gospel reading of the Sixth Royal Hour from Mark 1:9-15 (Pericope 2), detailing the Baptism of Jesus, the heavenly voice, the forty days' temptation in the wilderness, and the proclamation of the Kingdom.
+[^713]: Verses appointed after the Gospel at the Sixth Hour from Psalm 78:8-9 (*Ско́рѡ да предварѧ́тъ ны̀ щедрѡ́ты твоѧ̑ гдⷭ҇и*), pleading for rapid divine deliverance.
+[^714]: Concluding Prayer of the Sixth Hour by St. Basil the Great (*Бж҃е и҆ гдⷭ҇и си́лъ*), praising Christ's destruction of the handwriting of sins on the Cross and petitioning for spiritual illumination.
+[^715]: Liturgical headpiece and opening for the Ninth Royal Hour (*ЧА́СЪ ДЕВЯ́ТЫЙ*), the final hour of the Theophany eve vigil services, commemorating Christ's death and baptismal consecration.
+[^716]: Opening of Psalm 92:1-2 (LXX: *Гдⷭ҇ь воцр҃и́ся, въ лѣ́потꙋ ѡ҆блече́ся*), proclaiming the Lord's eternal kingdom and mastery over the cosmic floods.
+[^717]: Conclusion of Psalm 92:2-5 (LXX), exalting the voice of many waters and the holiness of the house of God.
+[^718]: Psalm 113:1-26 (LXX: *Во и҆схо́дѣ і҆и҃левѣ ѿ є҆гѵ́пта*), the great festal Theophany psalm witnessing Jordan turning back and the futility of pagan idols.
+[^719]: Conclusion of Psalm 113 (LXX), confessing the living God of heaven Who blesses all who fear Him.
+[^720]: Opening of Psalm 85:1-2 (LXX: *Приклонѝ гдⷭ҇и ᲂу҆́хо твоѐ*), the prayer of David expressing deep humility and supplication for divine preservation.
+[^721]: Conclusion of Psalm 85:3-17 (LXX), completing the third psalm of the Ninth Royal Hour with petitions for divine comfort, strength, and a token for good.
+[^722]: Forefeast Troparion of Theophany, Tone 4 (*Возвраща́шеся и҆ногда̀ і҆орда́нъ рѣка̀*), repeated at each of the Royal Hours.
+[^723]: Standard Theotokion of the Ninth Hour (*И҆́же на́съ ра́ди рожде́йсѧ ѿ дв҃ы*), pleading Christ's cross, death-trampling Resurrection, and the Mother of God's intercession for a despairing people.
+[^724]: First Sticheron of the Ninth Royal Hour, Tone 7 (*Оу҆́жасъ бѣ̀ ви́дѣти*), beholding Christ stripped in Jordan to be baptized by a servant.
+[^725]: Second Sticheron of the Ninth Royal Hour, Tone 2 (*Є҆гда̀ къ себѣ̀ грѧдꙋ́ща предте́ча*), proclaiming Christ turning slaves into sons of God through the water of divine baptism.
+[^726]: Sticheron at *Glory... Both now...*, Tone 5 (*Рꙋ́кꙋ твою̀ прикосновшꙋюся пречи́стомꙋ ве́рхꙋ влⷣчню*), an impassioned invocation of the Baptist, beseeching him to lift his sanctified hand and dove-beholding eyes in intercession for the gathered flock.
+[^727]: Rubric directing that at this fourth station during the Ninth Hour (*На д҃ мѣ́стѣ*), the deacon performs a full censing of the entire temple (*кади́тъ дїа́конъ ве́сь хра́мъ*), mirroring the solemn conclusion of the Royal Hours.
+[^728]: Prokeimenon of the Ninth Royal Hour, Tone 3 (LXX Ps. 26:1: *Гдⷭ҇ь просвѣще́нїе моѐ*).
+[^729]: Conclusion of the Ninth Royal Hour Paremia from Isaiah 49:13-15, proclaiming God's tender and unfailing maternal love toward Zion, promising never to forget her.
+[^730]: Epistle reading of the Ninth Royal Hour from Titus 2:11-14 and 3:4-7 (Pericope 302), foundational text for the theological identity between Theophany and the washing of regeneration (*ба́нею пакибытїя̀*).
+[^731]: Gospel reading of the Ninth Royal Hour from Matthew 3:13-17 (Pericope 6), recording Christ's baptism by John in the Jordan, the descent of the Spirit as a dove, and the Father's voice.
+[^732]: Verses appointed after the Gospel at the Ninth Hour from the Prayer of Azariah (LXX Daniel 3:34-35 / Song of the Three Holy Children 11-12: *Не преда́ждь на́съ до конца̀*).
+[^733]: Concluding Prayer of the Ninth Hour by St. Basil the Great (*Влⷣко гдⷭ҇и і҆и҃се хрⷭ҇тѐ бж҃е на́шъ, долготерпѣ́вый*), reflecting upon Christ's ninth-hour death on the Cross and admission of the Good Thief into Paradise.
+[^734]: Opening of Psalm 102:1-5 (LXX: *Бл҃гословѝ дꙋшѐ моѧ̀ гдⷭ҇а*), introducing the Service of the Typika (*Изобрази́тельныѧ*) appended directly to the Royal Hours on the Eve of Theophany.

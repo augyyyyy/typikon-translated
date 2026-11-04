@@ -1,0 +1,33 @@
+[^735]: Foliation marker: Fol. 56r (н̃ѕ). The text concludes Psalm 102 (LXX 102:6–22) within the Typika (Obednitsa) office for the Eve of Theophany.
+[^736]: Psalm 145 (LXX 145:1–10), the second antiphon of the Typika, followed by the hymn of the Incarnation attributed to Emperor Justinian, Only-begotten Son (Ὁ Μονογενὴς Υἱός).
+[^737]: Foliation marker: Fol. 56v (unnumbered verso). Conclusion of the antiphon hymn Only-begotten Son and Word of God.
+[^738]: The Beatitudes (Matthew 5:3–12) recited recto tono (*без̾ пѣ́нїѧ*) as customary during Lenten and Fast Eve Typika when the Divine Liturgy is deferred to Vespers.
+[^739]: Rubric and opening articles of the Nicene Creed as articulated at the First Ecumenical Council (Nicaea, 325), designated in Ruthenian Typika for recitation during the non-Eucharistic Typika office.
+[^740]: Foliation marker: Fol. 57r (н̃з). Heading denoting the pneumatological and ecclesiological articles established at the Second Ecumenical Council (Constantinople, 381).
+[^741]: Ruthenian Uniate recension witness: Church Slavonic *и҆́же ѿ ѻ҆ц҃а̀ и҆ сн҃а и҆сходѧ́щаго* ("Who proceeds from the Father and the Son"). This reflects the formal inclusion of the *Filioque* in Ukrainian Greek Catholic liturgical editions printed under the authority of the Synod of Zamość (1720) at the Basilian press of the Pochaiv Lavra.
+[^742]: The classical penitential prayer *Ѡсла́би, ѡ҆ста́ви* (Remitte, dimitte), recited during the Hours, Typika, and Compline.
+[^743]: Kontakion of the Forefeast of Theophany, Tone 4: *Во струѧ́хъ дне́сь і҆орда́нскихъ бы́въ гдⷭь*.
+[^744]: Prayer of the Holy Trinity (*Пресвѧта́ѧ трⷪце, є҆диносꙋ́щнаѧ*), concluding with the Eucharistic acclamation of Philippians 2:11.
+
+[^745]: Foliation marker: Fol. 57v (unnumbered verso). Conclusion of Psalm 33 (LXX 33:9–23) recited during the Typika.
+[^746]: Rubrical regulation regarding the occurrence of the Eve of Theophany on Saturday or Sunday: the strict Paramon fast is mitigated, the Royal Hours are transferred to Friday, and cheese and eggs are permitted on Friday according to the Ruthenian Typikon.
+[^747]: Post-liturgical fast mitigation and dinner rules for the Eve of Theophany, distinguishing the light collation of bread and wine after Liturgy from the full evening meal with olive oil after Vespers.
+[^748]: Foliation marker: Fol. 58r (н̃и). The primary headpiece for the Great Feast of the Holy Theophany (January 6), preceded by a woodcut engraving depicting the Baptism of Christ in the Jordan by John the Baptist.
+[^749]: Opening rubrics for Great Vespers conjoined with the Divine Liturgy of Saint Basil the Great, followed by the Idiomelon stichera attributed to Saint John the Monk (St. John Damascene).
+[^750]: Foliation marker: Fol. 58v (unnumbered verso). The conclusion of the Stichera on "Lord, I have cried," celebrating Christ crushing the heads of the noetic dragons in Jordan (cf. Ps. 73:13).
+[^751]: The first Old Testament reading (Paroimia) of the Theophany Vigil: Genesis 1:1–13 (the First Three Days of Creation).
+[^752]: The second Old Testament reading: Exodus 14:15–18, 21–23, 27–29 (the Miraculous Crossing of the Red Sea).
+
+[^753]: Foliation marker: Fol. 59r (н̃ѳ). The conclusion of the second reading from Exodus 14.
+[^754]: The third Old Testament reading: Exodus 15:22–27; 16:1 (the Bitter Waters of Marah Sweetened by the Wood, a prefiguration of the Cross, and the arrival at Elim with its twelve springs and seventy palm trees).
+[^755]: The solemn Troparion chanted after the third reading with verses of Psalm 66 (LXX 66:2–8), sung antiphonally by both choirs before the Royal Doors with the refrain *Да просвѣти́ши во тмѣ̀ сѣдѧ́щыѧ*.
+[^756]: Foliation marker: Fol. 59v (unnumbered verso). Verses 2 and 3 of Psalm 66 and the doxological conclusion of the Troparion in Tone 5.
+[^757]: The fourth Old Testament reading: Joshua 3:7–8, 14–17 (the Miraculous Crossing of the Jordan with the Ark of the Covenant, halting the waters).
+[^758]: The fifth Old Testament reading: 4 Kings 2:6–14 (the Fiery Ascension of Elijah and the Parting of the Jordan by Elisha with Elijah's Mantle).
+[^759]: Foliation marker: Fol. 60r (ѯ). Conclusion of 4 Kings 2.
+[^760]: Church Slavonic *а҆пфѡ́* transliterates the Septuagint Greek particle *ἀφφώ* (2 Kings / 4 Kings 2:14: ποῦ ἐστιν ὁ θεὸς Ἠλιοὺ ἀφφώ;), rendering the Hebrew אַף־הוּא (*ʾap-huʾ*, "even He!").
+[^761]: The sixth Old Testament reading: 4 Kings 5:9–14 (the Cleansing of the Leprous Syrian Captain Naaman in the Waters of the Jordan).
+[^762]: The second Vigil Troparion chanted after the sixth reading in Tone 6, with its festive refrain *Гдѣ̀ бо и҆мѣ́лъ бы свѣ́тъ тво́й возсїѧ́ти* ("For where should Thy light have shone forth...").
+[^763]: Foliation marker: Fol. 60v (unnumbered verso). Continuation of the Vigil Troparion of Tone 6 with the verses of Psalm 92 (LXX 92:1–5: *The Lord is King*).
+[^764]: The seventh Old Testament reading: Isaiah 1:16–20 (the Call to Purification, Repentance, and Moral Renewal).
+[^765]: The eighth Old Testament reading: Genesis 32:1–5 (Jacob Meeting the Angelic Host of God at Mahanaim).

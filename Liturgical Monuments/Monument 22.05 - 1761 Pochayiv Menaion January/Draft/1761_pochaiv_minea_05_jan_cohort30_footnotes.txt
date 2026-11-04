@@ -1,0 +1,98 @@
+[^1969]: Heirmos of Ode 3 (Canon of St. Athanasius, Tone 8), praising Christ Who established the heavens and the earth (Ps. 101:26 [102:25] LXX; 1 Sam. 2:2 [1 Kgs. 2:2 LXX]).
+[^1970]: Troparion of St. Athanasius, extolling his purity of soul and body as a fitting temple of the Holy Trinity.
+[^1971]: Troparion praising Athanasius as a vessel cleansed of passions, illuminated by the Holy Spirit as a cosmic luminary.
+[^1972]: Troparion hailing Athanasius as the living canon of the episcopate, uniting practical virtue (*praxis*) with contemplative theology (*theoria*), echoing St. Gregory the Theologian's eulogy.
+[^1973]: Marian Theotokion honoring the Mother of God as more exalted than the celestial orders for bearing the Uncircumscribed God.
+[^1974]: Heirmos of Ode 3 (Canon of St. Cyril, Tone 4), invoking Christ as the Church's strength and rock of refuge (1 Sam. 2:2 [1 Kgs. 2:2 LXX]).
+[^1975]: Troparion of St. Cyril, portraying him breaking demonic snares like cobwebs through Christ's power.
+[^1976]: Troparion of St. Cyril, casting down heretical haughtiness exalted against the knowledge of Christ (2 Cor. 10:5).
+[^1977]: Troparion commending Cyril's ascetic mastery over bodily pleasures.
+[^1978]: Marian Theotokion confessing the Virgin pre-purified by the Holy Spirit at the Annunciation (Lk. 1:35) to bear the divine Logos.
+[^1979]: Kontakion of SS. Athanasius and Cyril (Tone 4, *Thou hast appeared today*), petitioning the arch-hierarchs to protect the faithful.
+[^1980]: Sessional Hymn of St. Athanasius (Tone 3, *Awed by the beauty of thy virginity*), celebrating his predestined victory over Arianism.
+[^1981]: Sessional Hymn of St. Cyril (Tone 3), praising his confession of the consubstantial Trinity and unconfused hypostases.
+[^1982]: Sessional Marian Theotokion, venerating the incomprehensible mystery of the Incarnation of the Uncircumscribed from the Virgin's pure blood.
+[^1983]: Stavrotheotokion at the Sessional Hymns, the Mother of God lamenting Christ's voluntary Crucifixion.
+[^1984]: Heirmos of Ode 4 (Canon of St. Athanasius, Tone 8), quoting the Canticle of Habakkuk (Hab. 3:2-3): "Thou art my strength, O Lord..."
+[^1985]: Troparion portraying Athanasius inspired by the Pentecostal Spirit (Acts 2:1-4) as a thirteenth Apostle defending Orthodoxy.
+[^1986]: Troparion recalling Athanasius' decisive role as archdeacon at the First Ecumenical Council of Nicaea (325 AD) before ascending the throne of Alexandria.
+[^1987]: Troparion allegorizing Athanasius as an axe felling heretical weeds and cultivating the fruitful seed of the Gospel.
+[^1988]: Troparion praising Athanasius for consuming the opposing extremes of Arian division (tritheism/subordinationism) and Sabellian confusion (modalism).
+[^1989]: Marian Theotokion of Ode 4 (Athanasius' Canon), hailing the Virgin as the unassailable haven and intercessor for Christians.
+[^1990]: Heirmos of Ode 4 (Canon of St. Cyril, Tone 4), the Church beholding the Sun of Righteousness exalted on the Cross (Hab. 3:11).
+[^1991]: Troparion of St. Cyril, describing his elevation to the patriarchal throne of Alexandria upon conquering passions.
+[^1992]: Troparion celebrating Cyril as the spiritual son and canonical successor of St. Mark the Evangelist in Alexandria.
+[^1993]: Troparion depicting Cyril shepherding Christ's flock with wholesome doctrine as nutritious pasture.
+[^1994]: Marian Theotokion of Ode 4 (Cyril's Canon), confessing the Creator of all things born in the flesh from the Virgin.
+[^1995]: Heirmos of Ode 5 (Canon of St. Athanasius, Tone 8), supplication for spiritual illumination (Isa. 26:9).
+[^1996]: Troparion praising Athanasius' refutation of the idolatrous errors of paganism and early heresies (cf. *Contra Gentes*).
+[^1997]: Troparion extolling Athanasius' polemical and dogmatic treatises defending the Nicene faith.
+[^1998]: Troparion honoring Athanasius as a teacher of ecumenical doctors and successor of apostolic proclamation.
+[^1999]: Marian Theotokion of Ode 5 (Athanasius' Canon), pleading the Virgin's singular maternal boldness (*parrhesia*) before her Son.
+[^2000]: Heirmos of Ode 5 (Canon of St. Cyril, Tone 4), hailing Christ the true Light coming into the world (Jn. 1:9; 8:12).
+[^2001]: Troparion of St. Cyril, now beholding Christ face to face beyond the riddle of earthly mirrors (1 Cor. 13:12).
+[^2002]: Troparion comparing Cyril's eloquence to an overwhelming flood drowning heretical errors.
+[^2003]: Troparion extolling Cyril for eradicating both Arian division and Sabellian confusion.
+[^2004]: Troparion praising Cyril's patristic treatises as treasures of gold and precious stones bequeathed to the Church.
+[^2005]: Marian Theotokion of Ode 5 (Cyril's Canon), confessing the Virgin as an invincible weapon and haven of salvation.
+[^2006]: Heirmos of Ode 6 (Canon of St. Athanasius, Tone 8), the prayer of the penitent from the abyss of sins (Jon. 2:2-3).
+[^2007]: Troparion commending Athanasius for vigorously refuting Apollinarianism, which denied a human rational soul (*nous*) to Christ (cf. *Contra Apollinarium*).
+[^2008]: Troparion praising Athanasius' doctrine as living water sweeter than honey flowing from the fountain of grace (Ps. 18:11 [19:10] LXX).
+[^2009]: Troparion presenting Miriam (Ex. 15:20) typologically rejoicing at the beauty of Athanasius' orthodox writings and prophetic defense against sprouting heresies.
+[^2010]: Marian Theotokion of Ode 6 (Athanasius' Canon), imploring deliverance from sins through the Virgin.
+[^2011]: Heirmos of Ode 6 (Canon of St. Cyril, Tone 4), the Church redeemed by the blood and water from Christ's side (Jn. 19:34).
+[^2012]: Troparion of St. Cyril, portrayed as a minister distributing the seraphic coal of divine fire for spiritual purification (Isa. 6:6).
+[^2013]: Troparion comparing Cyril's destruction of heresies to Samson vanquishing the Philistines (Judg. 15:15-16).
+[^2014]: Troparion commemorating Cyril's presidency at the Council of Ephesus (431 AD) refuting the Christological heresy of Nestorius and defending the title *Theotokos*.
+[^2015]: Marian Theotokion of Ode 6 (Cyril's Canon), confessing the paradox of the Infinite God contained in the Virgin's womb.
+[^2016]: Kontakion of St. Athanasius (Tone 2, *The shedding of thy blood*), celebrating his planting of orthodox dogmas.
+[^2017]: Ikos of SS. Athanasius and Cyril, praising their joint condemnation of Arius, Eunomius, and Sabellius.
+[^2018]: Heirmos of Ode 7 (Canon of St. Athanasius, Tone 8), the Three Holy Youths preserved in the Babylonian furnace (Dan. 3:49-50).
+[^2019]: Troparion of St. Athanasius (*Athanasios* = "immortal"), proclaiming the co-eternal and consubstantial Trinity.
+[^2020]: Troparion recalling Athanasius' five exiles suffered under Arian emperors (Constantius II, Julian, Valens) for preaching the consubstantial Trinity.
+[^2021]: Troparion praising Athanasius' adamantine endurance under trials and magnetic power drawing the faithful to Orthodoxy.
+[^2022]: Troparion celebrating Athanasius' dogmatic synthesis of the Trinity in three Hypostases and one Essence (*ousia*).
+[^2023]: Conclusion of the Marian Theotokion of Ode 7 (Athanasius' Canon), praising the Virgin as the radiant portal of the divine revelation.
+[^2024]: Heirmos of Ode 7 (Canon of St. Cyril, Tone 4), Abraham's children in the Persian furnace singing praises unto the Lord (Dan. 3:52).
+[^2025]: Troparion comparing Cyril's spiritual unveiling of the Law with Moses on Sinai (Ex. 24:15-18; 2 Cor. 3:6).
+[^2026]: Troparion extolling Cyril's typological and Christological commentaries on the Pentateuch (*De Adoratione in Spiritu et Veritate*, *Glaphyra*).
+[^2027]: Troparion praising Cyril's extensive commentaries on the Old Testament Prophets inspired by the Holy Spirit.
+[^2028]: Troparion formulating Cyril's orthodox Trinitarian confession: immutable, unconfused, and indivisible.
+[^2029]: Marian Theotokion of Ode 7 (Cyril's Canon), blessing the Virgin as the sacred dwelling of the Most High (Ps. 45:5 [46:4] LXX; Lk. 1:42).
+[^2030]: Heirmos of Ode 8 (Canon of St. Athanasius, Tone 8), Nebuchadnezzar's furnace heated sevenfold (Dan. 3:19).
+[^2031]: Troparion hailing Athanasius as a golden trumpet of theology and author of the *Life of Antony*, the foundational rule of monasticism.
+[^2032]: Troparion extolling Athanasius' harmonious synthesis of active asceticism (*praxis*) and theological discourse (*logos*).
+[^2033]: Conclusion of Troparion 3 of Ode 8 (Canon of St. Athanasius), Trinitarian doxology confessing Father, Son, and Holy Spirit.
+[^2034]: Marian Theotokion of Ode 8 (Athanasius' Canon), venerating the perpetual virginity of the Theotokos (*aeiparthenia*).
+[^2035]: Heirmos of Ode 8 (Canon of St. Cyril, Tone 4), Daniel in the lions' den and the Three Holy Youths in the furnace (Dan. 6:22; 3:57).
+[^2036]: Troparion of St. Cyril, recalling Christ's prophecy of rivers of living water flowing from the believer's belly (Jn. 7:38).
+[^2037]: Troparion praising Cyril's harmony of the Old and New Testaments, compared to the precious jacinth stone (*ligurium*, Ex. 28:19).
+[^2038]: Troparion setting forth the Cyrilline Christological formula: Christ one incarnate Person (*hypostasis*) in two natures, indivisible and unconfused.
+[^2039]: Marian Theotokion of Ode 8 (Cyril's Canon), confessing the twofold birth of the Word: eternally from the Father without a mother, and temporally from the Virgin without a father.
+[^2040]: Heirmos of Ode 9 (Canon of St. Athanasius, Tone 8), heaven and earth in awe at the Incarnation, the Virgin's womb more spacious than the heavens (*Platytera*).
+[^2041]: Troparion eulogizing Athanasius, whose celestial theological voice conquered the oblivion of the tomb.
+[^2042]: Conclusion of Troparion 2 of Ode 9 (Canon of St. Athanasius), petitioning the saint's light-bearing intercession.
+[^2043]: Ruthenian Menaion petition for the Christian monarch (the King of Poland and Grand Duke of Lithuania in the 1761 Pochaiv printing).
+[^2044]: Troparion petitioning victory by the Cross, peace for the world, and stability for the Orthodox faith against heresies.
+[^2045]: Marian Theotokion of Ode 9 (Athanasius' Canon), confessing virginal conception and painless birth without corruption.
+[^2046]: Heirmos of Ode 9 (Canon of St. Cyril, Tone 4), Eve's disobedience contrasted with the blessing brought by the Theotokos (Lk. 1:42).
+[^2047]: Troparion commending Cyril for refuting both the Nestorian division into two sons and the Acephali (headless) monophysite confusion of natures.
+[^2048]: Troparion praising Cyril's championship of the Mother of God at Ephesus and his heavenly glorification.
+[^2049]: Second occurrence of the state petition for the cross-bearing King in the Pochaiv Menaion.
+[^2050]: Troparion praying for the exaltation of the horn of the Orthodox and the enlightenment of Cyril's flock (Ps. 88:18 [89:17] LXX).
+[^2051]: Marian Theotokion of Ode 9 (Cyril's Canon), invoking the Virgin born of barren Anna (Protoevangelium of James) to heal the singer's soul.
+[^2052]: Exapostilarion of SS. Athanasius and Cyril, summarizing their joint defense against Arius, Sabellius, and Nestorius.
+[^2053]: Marian Theotokion at the Exapostilarion, Cyril vindicating the title *Theotokos*.
+[^2054]: Aposticha Sticheron of SS. Athanasius and Cyril (Tone 2), extolling their theological precision uniting personal hypostatic distinction with essential consubstantial unity.
+[^2055]: Aposticha Doxasticon (Tone 2, composed by Patriarch Germanus), summoning the Church to feast upon the theological banquet of St. Athanasius.
+[^2056]: Aposticha Stavrotheotokion (Tone 2, *Great is the power*), the Mother of God lamenting Christ's voluntary Crucifixion.
+[^2057]: Prokeimenon at the Liturgy for Holy Hierarchs (Ps. 149:5, 1 LXX).
+[^2058]: Alleluia at the Liturgy for Hierarchs (Ps. 131:9 LXX).
+[^2059]: Communion Hymn for the Righteous (Ps. 32:1 LXX).
+[^2060]: Commemoration of St. Macarius the Great of Egypt (c. 300–391), desert father, ascetic founder of Scetis, and author of the Spiritual Homilies.
+[^2061]: Opening Sticheron at "Lord, I have cried" for St. Macarius (Tone 4, *Thou hast given a sign*), detailing his radical evangelical ascetic inversion of values: fasting as food, poverty as true wealth, humility as honor.
+[^2062]: Sticheron 2 of St. Macarius, celebrating his completion of the ascetic race and attainment of the crown of righteousness (2 Tim. 4:7-8).
+[^2063]: Sticheron 3 of St. Macarius, honoring his severe bodily mortification and patient endurance of temptations yielding unending spiritual delight.
+[^2064]: Doxasticon at "Lord, I have cried" (Tone 8, by Anatolius), bidding Egypt rejoice in bringing forth its luminous monastic citizen Macarius.
+[^2065]: Stavrotheotokion at "Lord, I have cried" (Tone 8, *Thy Martyrs, O Lord*), the Virgin lamenting the ingratitude of the Hebrew council crucifying her Son.
+[^2066]: Aposticha Doxasticon of St. Macarius (Tone 6, Ps. 18:5 [19:4] LXX), honoring his universal ascetic renown, victory over demons, and fellowship with angels.

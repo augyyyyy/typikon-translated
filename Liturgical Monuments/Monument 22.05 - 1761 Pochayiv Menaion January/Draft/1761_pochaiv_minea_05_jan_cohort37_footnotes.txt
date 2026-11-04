@@ -1,0 +1,116 @@
+[^2464]: Wisd. 4:7.
+[^2465]: Wisd. 4:8.
+[^2466]: Wisd. 4:9.
+[^2467]: Wisd. 4:10.
+[^2468]: Wisd. 4:11.
+[^2469]: Wisd. 4:12.
+[^2470]: Wisd. 4:13-14a.
+[^2471]: Wisd. 4:14b-15.
+[^2472]: First Sticheron at Litiya for St. Gregory the Theologian, Tone 4 (by Anatolios): "Сло́вомъ Бж҃іимъ ѡбе́рзъ оуста́ твоя́...".
+[^2473]: Second Sticheron at Litiya, Tone 4: "Огненнымъ ѧзы́комъ твои́мъ...".
+[^2474]: Doxasticon at Litiya, Tone 4: "Бж҃е́ственными дѣя́нми тѣ́ло...".
+[^2475]: Theotokion at Litiya: "При́зри на моле́ніѧ..." (Look down upon the entreaties of thy servants...).
+[^2476]: Rubric for Stichera at the Aposticha, Tone 5, Podoben: "Rejoice" (*Ра́дуйся*).
+[^2477]: First Sticheron at the Aposticha, Tone 5: "Ра́дуйся бг҃осло́вїя исто́чниче...".
+[^2478]: First Psalm Verse: LXX Ps. 48:4 (My mouth shall speak of wisdom...).
+[^2479]: Second Sticheron at the Aposticha, Tone 5: "Зарѐю бг҃осло́вїя твоегѡ̀...".
+[^2480]: Second Psalm Verse: LXX Ps. 36:30 (The mouth of the righteous shall meditate on wisdom...).
+[^2481]: Third Sticheron at the Aposticha, Tone 5: "Ра́дуйся рѣко̀ бж҃їя...".
+[^2482]: Doxasticon at the Aposticha, Tone 8: "Се́рдца вѣ́рныхъ земледѣ́лаѧ...".
+[^2483]: Theotokion at the Aposticha: "Безневѣ́стная дв҃о..." (O unwedded Virgin...).
+[^2484]: Troparion (Troparion) of St. Gregory the Theologian, Tone 1: "Па́стырскаѧ свирѣ́ль бг҃осло́вїя твоегѡ̀...".
+[^2485]: Theotokion at "God is the Lord", Tone 1: "Гаврїи́лу вѣща́вшу..." (When Gabriel cried unto thee, O Virgin, Rejoice...).
+[^2486]: Rubric for the first Sessional Hymn after the first Stichology, Tone 3, Podoben: "Of divine faith" (*Бж҃е́ственныя вѣ́ры*).
+[^2487]: Sessional Hymn after the first Stichology, Tone 3: "Бж҃твенное ѡ҆сїя́нїе наслѣ́дствовавъ...".
+[^2488]: Glory after the first Stichology, Tone 3: "Сто́лпъ бы́лъ еси́ цр҃кве...".
+[^2489]: Both now, Theotokion after the first Stichology, Tone 3: "Бж҃е́ственная скині́а была̀ є҆си́ сло́ва...".
+[^2490]: Rubric for the Sessional Hymn after the second Stichology, Tone 5, Podoben: "Co-beginningless Word" (*Собезна́чалное сло́во*).
+[^2491]: Sessional Hymn after the second Stichology, Tone 5: "Бо́дрствовавъ сло́вомъ и҆́стины...".
+[^2492]: Glory... Both now, Theotokion after the second Stichology, Tone 5: "Дꙋши́ моеѧ̀ стра́сти многоболѣ́зненныя...".
+[^2493]: Rubric and Sessional Hymn after the Polyeleos, Tone 8, Podoben: "The Wisdom [and Word]" (*Премꙋ́дрости*): "Ѡ҆бличи́лъ ле́сть ѕлочести́выхъ...".
+
+[^2494]: Conclusion of the Sessional Hymn after the Polyeleos.
+[^2495]: Glory... Both now, Theotokion after the Polyeleos: "Є҆гда̀ прїи́детъ сꙋди́ти всю̀ зе́млю...".
+[^2496]: Matins Prokeimenon, Tone 4: LXX Ps. 48:4.
+[^2497]: Stichon: LXX Ps. 48:2.
+[^2498]: Matins Gospel: Jn 10:9-16 (Pericope 35).
+[^2499]: Idiomelon after Psalm 50, Tone 6: "Преподо́бне требл҃же́нне ст҃ѣ́йшій о́ч҃е...".
+[^2500]: Canon of the Theotokos, Tone 8, Ode 1 Heirmos: "Пои́мъ Гдⷭ҇ви, прове́дшему...".
+[^2501]: Canon of the Theotokos, Ode 1, first Troparion: "Пречⷭ҇тая бцⷣе, вопло́щшееся...".
+[^2502]: Canon of the Theotokos, Ode 1, second Troparion: "Гро́здъ тя̀ живоно́сенъ...".
+[^2503]: Canon of the Theotokos, Ode 1, third Troparion: "Ро́дъ а҆да́мль...".
+[^2504]: First Canon of St. Gregory the Theologian (by Theophanes), Tone 1, Ode 1 Heirmos: "Хрⷭ҇то́съ ражда́ется, сла́вите...".
+[^2505]: First Canon, Ode 1, first Troparion: "Бг҃осло́ва втора́го, столпа̀ свѣ́тла...".
+[^2506]: First Canon of the Saint, Ode 1, second Troparion: "Сло́во о́ч҃е безна́чалное...".
+[^2507]: First Canon of the Saint, Ode 1, third Troparion: "Оу҆́мъ влⷣку тво́ря...".
+[^2508]: First Canon of the Saint, Ode 1, Theotokion: "Бж҃їа мꙋ́дрость хра́мъ себѣ̀ созда̀...".
+[^2509]: Second Canon of St. Gregory the Theologian (by Cosmas the Monk), Tone 1, Ode 1 Heirmos: "Похвалу̀ бг҃ови́децъ мѡѷсе́й...".
+[^2510]: Second Canon, Ode 1, first Troparion: "И҆збы́въ началоро́днагѡ...".
+[^2511]: Second Canon, Ode 1, second Troparion: "Скрижа́ли бг҃оначерта́нныя...".
+[^2512]: Second Canon, Ode 1, Theotokion: "Хотя̀ за бл҃гоꙋтро́бїе своѐ...".
+[^2513]: Katavasia of the Meeting of the Lord, Ode 1: "Сꙋ́шу глубороди́телную зе́млю...".
+[^2514]: Canon of the Theotokos, Tone 8, Ode 3 Heirmos: "Ты̀ еси́ оу҆твержде́ніе...".
+[^2515]: Canon of the Theotokos, Ode 3, first Troparion: "Да́ждь на́мъ по́мощь...".
+[^2516]: Canon of the Theotokos, Ode 3, second Troparion: "Е́ѵы прама́тере...".
+[^2517]: Canon of the Theotokos, Ode 3, third Troparion: "Препоя́ши мя̀ си́лою...".
+[^2518]: First Canon of the Saint, Tone 1, Ode 3 Heirmos: "Пре́жде вѣ́къ ѿ ѻ҆ц҃а̀ рожде́нному...".
+[^2519]: First Canon of the Saint, Ode 3, first Troparion: "Имѣ́я премꙋ́дрости и҆сто́чникъ...".
+[^2520]: First Canon of the Saint, Ode 3, second Troparion: "Бл҃гоче́стїя велегла́сенъ проповѣ́дникъ...".
+[^2521]: First Canon of the Saint, Ode 3, third Troparion: "Ри́торъ ѻ҆гнедухнове́нный...".
+[^2522]: First Canon of the Saint, Ode 3, Theotokion: "Бг҃ороди́тельнице цр҃ице всеѧ̀ тва́ри...".
+[^2523]: Second Canon of the Saint, Ode 3 Heirmos: "Пре́жде зача́тїя чⷭ҇тна́го самꙋ́ила...".
+[^2524]: Second Canon, Ode 3, first Troparion: "И҆́же пре́жде и҆з̾бы́тїя и҆з̾ оу҆тро́бы...".
+[^2525]: Second Canon, Ode 3, second Troparion: "И҆́же пре́жде да́же и҆зво́лити лꙋка́вая...".
+[^2526]: Second Canon, Ode 3, Theotokion: "Є҆́ѵы прама́тере и҆спра́вила еси́...".
+[^2527]: Katavasia of the Meeting of the Lord, Ode 3: "Оу҆твержде́нїе на тя̀...".
+[^2528]: Rubric for Sessional Hymn after Ode 3, Tone 8, Podoben: "The Wisdom [and Word]" (*Премꙋ́дрости*).
+[^2529]: Sessional Hymn after Ode 3, Tone 8: "Ѡ҆́верзъ оу҆ста̀ сло́вомъ Бж҃їимъ...".
+
+[^2530]: Glory... Both now, Theotokion after Ode 3 Sessional Hymn: "Помышле́нми попо́лзся лука́выми...".
+[^2531]: Canon of the Theotokos, Tone 8, Ode 4 Heirmos: "Оу҆слы́шахъ Гдⷭ҇и смотре́нїя...".
+[^2532]: Canon of the Theotokos, Ode 4, first Troparion: "Кла́съ возрасти́вшая животво́рный...".
+[^2533]: Canon of the Theotokos, Ode 4, second Troparion: "Бц҃у тя̀ всечи́стая просвѣ́щшіисѧ...".
+[^2534]: Canon of the Theotokos, Ode 4, third Troparion: "Ѡ҆чище́ніе на́мъ да́руй...".
+[^2535]: First Canon of the Saint, Tone 1, Ode 4 Heirmos: "Жезлъ и҆з̾ ко́рене і҆ессе́ова...".
+[^2536]: First Canon of the Saint, Ode 4, first Troparion: "Та́инникъ трⷪ҇цы бы́въ...".
+[^2537]: First Canon of the Saint, Ode 4, second Troparion: "Оу҆́тро бл҃гоче́стїя свѣ́тлое...".
+[^2538]: First Canon of the Saint, Ode 4, third Troparion: "Оу҆́мъ премі́рный и҆сто́чникъ...".
+[^2539]: First Canon of the Saint, Ode 4, fourth Troparion: "Возше́лъ еси́ на го́ру добродѣ́телей...".
+[^2540]: First Canon of the Saint, Ode 4, Theotokion: "Ра́зумомъ па́дшаго а҆да́ма...".
+[^2541]: Second Canon of the Saint, Ode 4 Heirmos: "Съ чꙋ́днымъ ста́въ а҆вваку́момъ...".
+[^2542]: Second Canon, Ode 4, first Troparion: "Бли́зъ я҆вля́ющымся...".
+[^2543]: Second Canon, Ode 4, second Troparion: "Въ непостижи́мый вше́дъ мра́къ...".
+[^2544]: Second Canon, Ode 4, Theotokion: "Гора̀ показа́лася еси́ ты мы́сленная...".
+[^2545]: Katavasia of the Meeting of the Lord, Ode 4: "Покры́ла є҆́сть нб҃са̀...".
+[^2546]: Canon of the Theotokos, Tone 8, Ode 5 Heirmos: "Оу҆́тренююще вопїе́мъ тѝ...".
+[^2547]: Canon of the Theotokos, Ode 5, first Troparion: "Оу҆толѝ нестерпи́мую бꙋ́рю...".
+[^2548]: Canon of the Theotokos, Ode 5, second Troparion: "Слꙋ́жатъ ржⷭ҇твꙋ̀ твоему̀...".
+[^2549]: Canon of the Theotokos, Ode 5, third Troparion: "Марїе бцⷣе безневѣ́стная...".
+[^2550]: First Canon of the Saint, Tone 1, Ode 5 Heirmos: "Бг҃ъ сы́й ми́ра...".
+[^2551]: First Canon of the Saint, Ode 5, first Troparion: "Глаго́лъ твои́хъ бж҃твенное вѣща́ніе...".
+[^2552]: First Canon of the Saint, Ode 5, second Troparion: "Возжела́лъ еси́ и҆́стиннѡ мꙋ́дрости бж҃їя...".
+[^2553]: First Canon of the Saint, Ode 5, third Troparion: "Ра́зумнѡ тя̀ сꙋ́щаго...".
+[^2554]: First Canon of the Saint, Ode 5, Theotokion: "И҆́же дре́вле є҆́ѵу прама́терь...".
+[^2555]: Second Canon of the Saint, Ode 5 Heirmos: "Оу҆́гль горя́щїй, и҆́же и҆са́їинымъ...".
+[^2556]: Second Canon, Ode 5, first Troparion: "Сему̀ ѻ҆гню̀ бг҃овидѣ́нїя...".
+[^2557]: Second Canon, Ode 5, second Troparion: "Зоря́ми ѡ҆сїя́въ трїсо́лнечнагѡ...".
+[^2558]: Second Canon, Ode 5, Theotokion: "Свѣ́тъ ѿ свѣ́та, ѻ҆́ч҃ее...".
+[^2559]: Katavasia of the Meeting of the Lord, Ode 5: "Я҆́кѡ ви́дѣ и҆са́їа...".
+[^2560]: Canon of the Theotokos, Tone 8, Ode 6 Heirmos: "Ри́зу мнѣ̀ пода́ждь свѣ́тлу...".
+[^2561]: Canon of the Theotokos, Ode 6, first Troparion: "Хра́мъ тя̀ Бж҃їй и҆ ковче́гъ...".
+[^2562]: Canon of the Theotokos, Ode 6, second Troparion: "Дꙋше́въ разрѣши́тель...".
+[^2563]: Canon of the Theotokos, Ode 6, third Troparion: "Сло́во Бж҃іе, тя̀ земны̑мъ...".
+[^2564]: First Canon of the Saint, Tone 1, Ode 6 Heirmos: "И҆з̾ оу҆тро́бы і҆ѡ́ну младе́нца...".
+[^2565]: First Canon of the Saint, Ode 6, first Troparion: "Струя́ми мꙋ́дрыхъ оу҆че́ній...".
+[^2566]: First Canon of the Saint, Ode 6, second Troparion: "Да́ честны́я трⷪ҇цы ѡ҆сїя́ніемъ...".
+[^2567]: First Canon of the Saint, Ode 6, third Troparion: "Ве́сь сраствори́вся зарю̀ дх҃а...".
+[^2568]: First Canon of the Saint, Ode 6, fourth Troparion: "Но́въ самꙋи́лъ бг҃ода́ненъ...".
+[^2569]: First Canon of the Saint, Ode 6, Theotokion: "Сви́токъ чи́стъ сло́во прїе́мый...".
+[^2570]: Second Canon of the Saint, Ode 6 Heirmos: "И҆́же въ по́нтѣ подемы́й...".
+[^2571]: Second Canon, Ode 6, first Troparion: "Потопле́нъ ра́зумомъ не бы́въ...".
+[^2572]: Second Canon, Ode 6, second Troparion: "Моли́твою чисто́ю свирѣпѣ́ющее...".
+[^2573]: Second Canon, Ode 6, Theotokion: "Непости́жное чл҃вѣ́ческими по́мыслы...".
+[^2574]: Katavasia of the Meeting of the Lord, Ode 6: "Возопѝ къ тебѣ̀...".
+[^2575]: Rubric for Kontakion of St. Gregory the Theologian, Tone 3, Podoben: "Today the Virgin" (*Дв҃а дне́сь*).
+[^2576]: Kontakion of St. Gregory the Theologian, Tone 3: "Бг҃осло́внымъ ѧ҆зы́комъ твои́мъ...".
+[^2577]: Ikos of St. Gregory the Theologian: "Бг҃осло́вныя и҆ высо́кїя мꙋ́дрости твоеѧ̀...".

@@ -2572,10 +2572,30 @@
       "genre_register": "hymnographic",
       "workspace_dir": "Liturgical Monuments/Monument 22.05 - 1761 Pochayiv Menaion January",
       "active": false,
-      "status": "queued",
+      "status": "completed",
       "wave": 3,
       "historical_year": 1761,
-      "monument_type": "anthologion"
+      "monument_type": "anthologion",
+      "publication_spec": {
+        "mode": "universal_dynamic_h1",
+        "hub_inbox_folder": "1761_Pochayiv_Menaion_(January)",
+        "master_title": "1761 Pochayiv Menaion — Vol. 5: January (Pochayiv Lavra, 1761)",
+        "parts": [
+          {
+            "id": "part0",
+            "filename": "1761_pochaiv_minea_05_jan_part0_front_matter.md",
+            "title": "Front Matter, Title Page, and Introductory Apparatus",
+            "start_landmark": null
+          },
+          {
+            "id": "part1",
+            "filename": "1761_pochaiv_minea_05_jan_part1_month-of-january.md",
+            "title": "MONTH OF JANUARY",
+            "start_landmark": "^#\\s+MONTH\\ OF\\ JANUARY(?:\\s*\\[\\^\\d+\\])*$"
+          }
+        ],
+        "footnotes_filename": "1761_pochaiv_minea_05_jan_footnotes.md"
+      }
     },
     "1761_pochaiv_minea_06_feb": {
       "monument_id": "1761_pochaiv_minea_06_feb",
@@ -2588,10 +2608,30 @@
       "genre_register": "hymnographic",
       "workspace_dir": "Liturgical Monuments/Monument 22.06 - 1761 Pochayiv Menaion February",
       "active": false,
-      "status": "queued",
+      "status": "completed",
       "wave": 3,
       "historical_year": 1761,
-      "monument_type": "anthologion"
+      "monument_type": "anthologion",
+      "publication_spec": {
+        "mode": "universal_dynamic_h1",
+        "hub_inbox_folder": "1761_Pochayiv_Menaion_(February)",
+        "master_title": "1761 Pochayiv Menaion — Vol. 6: February (Pochayiv Lavra, 1761)",
+        "parts": [
+          {
+            "id": "part0",
+            "filename": "1761_pochaiv_minea_06_feb_part0_front_matter.md",
+            "title": "Front Matter, Title Page, and Introductory Apparatus",
+            "start_landmark": null
+          },
+          {
+            "id": "part1",
+            "filename": "1761_pochaiv_minea_06_feb_part1_month-of-february.md",
+            "title": "MONTH OF FEBRUARY",
+            "start_landmark": "^#\\s+MONTH\\ OF\\ FEBRUARY(?:\\s*\\[\\^\\d+\\])*$"
+          }
+        ],
+        "footnotes_filename": "1761_pochaiv_minea_06_feb_footnotes.md"
+      }
     },
     "1761_pochaiv_minea_07_mar": {
       "monument_id": "1761_pochaiv_minea_07_mar",
@@ -2603,11 +2643,31 @@
       "default_cohort_size": 10,
       "genre_register": "hymnographic",
       "workspace_dir": "Liturgical Monuments/Monument 22.07 - 1761 Pochayiv Menaion March",
-      "active": false,
-      "status": "queued",
+      "active": true,
+      "status": "in_progress",
       "wave": 3,
       "historical_year": 1761,
-      "monument_type": "anthologion"
+      "monument_type": "anthologion",
+      "publication_spec": {
+        "mode": "universal_dynamic_h1",
+        "hub_inbox_folder": "1761_Pochayiv_Menaion_(March)",
+        "master_title": "1761 Pochayiv Menaion — Vol. 7: March (Pochayiv Lavra, 1761)",
+        "parts": [
+          {
+            "id": "part0",
+            "filename": "1761_pochaiv_minea_07_mar_part0_front_matter.md",
+            "title": "Front Matter, Title Page, and Introductory Apparatus",
+            "start_landmark": null
+          },
+          {
+            "id": "part1",
+            "filename": "1761_pochaiv_minea_07_mar_part1_month-of-march.md",
+            "title": "MONTH OF MARCH",
+            "start_landmark": "^#\\s+MONTH\\ OF\\ MARCH(?:\\s*\\[\\^\\d+\\])*$"
+          }
+        ],
+        "footnotes_filename": "1761_pochaiv_minea_07_mar_footnotes.md"
+      }
     },
     "1761_pochaiv_minea_08_apr": {
       "monument_id": "1761_pochaiv_minea_08_apr",
@@ -2619,11 +2679,31 @@
       "default_cohort_size": 10,
       "genre_register": "hymnographic",
       "workspace_dir": "Liturgical Monuments/Monument 22.08 - 1761 Pochayiv Menaion April",
-      "active": false,
-      "status": "queued",
+      "active": true,
+      "status": "in_progress",
       "wave": 3,
       "historical_year": 1761,
-      "monument_type": "anthologion"
+      "monument_type": "anthologion",
+      "publication_spec": {
+        "mode": "universal_dynamic_h1",
+        "hub_inbox_folder": "1761_Pochayiv_Menaion_(April)",
+        "master_title": "1761 Pochayiv Menaion — Vol. 8: April (Pochayiv Lavra, 1761)",
+        "parts": [
+          {
+            "id": "part0",
+            "filename": "1761_pochaiv_minea_08_apr_part0_front_matter.md",
+            "title": "Front Matter, Title Page, and Introductory Apparatus",
+            "start_landmark": null
+          },
+          {
+            "id": "part1",
+            "filename": "1761_pochaiv_minea_08_apr_part1_month-of-april.md",
+            "title": "MONTH OF APRIL",
+            "start_landmark": "^#\\s+MONTH\\ OF\\ APRIL(?:\\s*\\[\\^\\d+\\])*$"
+          }
+        ],
+        "footnotes_filename": "1761_pochaiv_minea_08_apr_footnotes.md"
+      }
     },
     "1761_pochaiv_minea_09_may": {
       "monument_id": "1761_pochaiv_minea_09_may",
