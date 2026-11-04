@@ -1,0 +1,154 @@
+{
+  "timestamp": "2026-11-03T16:14:00.837679+00:00",
+  "monument_id": "1761_pochaiv_minea_06_feb",
+  "monument_type": "anthologion",
+  "cohort": 14,
+  "target_file": "1761_pochaiv_minea_06_feb_cohort14_raw_draft.md",
+  "overall_status": "PASSED",
+  "cohort_telemetry": {
+    "prepared_at_iso": null,
+    "first_verified_at_iso": "2026-11-03T16:13:55.894310+00:00",
+    "verified_at_iso": "2026-11-03T16:14:00.821350+00:00",
+    "initial_duration_sec": null,
+    "duration_sec": null,
+    "source_words": 2522,
+    "draft_words": 3940,
+    "footnote_count": 14,
+    "footnote_words": 459,
+    "sgc02_ratio": 1.1749
+  },
+  "gates": {
+    "vocabulary_linter": {
+      "passed": true,
+      "violations": []
+    },
+    "slop_linter": {
+      "file": "1761_pochaiv_minea_06_feb_cohort14_raw_draft.md",
+      "passed": true,
+      "violation_count": 0,
+      "violations": []
+    },
+    "chromatic_verifier": {
+      "passed": true,
+      "leaves_checked": 10
+    },
+    "hieratic_pronouns": {
+      "file": "1761_pochaiv_minea_06_feb_cohort14_raw_draft.md",
+      "passed": true,
+      "violations": [],
+      "violation_count": 0
+    },
+    "footnote_symmetry": {
+      "text_file": "1761_pochaiv_minea_06_feb_cohort14_raw_draft.md",
+      "footnotes_file": "1761_pochaiv_minea_06_feb_cohort14_footnotes.txt",
+      "passed": true,
+      "text_markers_count": 14,
+      "definition_markers_count": 14,
+      "text_markers": [
+        "[^315]",
+        "[^316]",
+        "[^317]",
+        "[^318]",
+        "[^319]",
+        "[^320]",
+        "[^321]",
+        "[^322]",
+        "[^323]",
+        "[^324]",
+        "[^325]",
+        "[^326]",
+        "[^327]",
+        "[^328]"
+      ],
+      "definition_markers": [
+        "[^315]",
+        "[^316]",
+        "[^317]",
+        "[^318]",
+        "[^319]",
+        "[^320]",
+        "[^321]",
+        "[^322]",
+        "[^323]",
+        "[^324]",
+        "[^325]",
+        "[^326]",
+        "[^327]",
+        "[^328]"
+      ],
+      "missing_definitions": [],
+      "orphaned_definitions": []
+    },
+    "structural_sequence": {
+      "file": "1761_pochaiv_minea_06_feb_cohort14_raw_draft.md",
+      "passed": true,
+      "paragraphs": 200,
+      "headings_count": 0,
+      "headings": [],
+      "numbered_items_count": 0,
+      "number_breaks": [],
+      "leaf_stats": {
+        "leaves_count": 10,
+        "min_leaf": 131,
+        "max_leaf": 140
+      },
+      "anomalies": []
+    },
+    "monument_type_policy": {
+      "passed": true,
+      "monument_type": "anthologion",
+      "violation_count": 0,
+      "violations": []
+    },
+    "orthographic_authenticity_v5c": {
+      "passed": true,
+      "violation_count": 0,
+      "violations": [],
+      "status": "PASSED"
+    },
+    "subagent_trajectory": {
+      "status": "PASSED",
+      "passed": true,
+      "transcript_found": true,
+      "conversation_id": "c56c7c32-e2d9-452d-b79f-7582a5307bf6",
+      "expected_leaves_count": 10,
+      "viewed_leaves": [
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "unviewed_leaves": [],
+      "view_timestamps": {
+        "131": "2026-11-03T15:57:09Z",
+        "132": "2026-11-03T15:57:17Z",
+        "133": "2026-11-03T15:57:58Z",
+        "134": "2026-11-03T15:58:23Z",
+        "135": "2026-11-03T15:58:43Z",
+        "136": "2026-11-03T15:59:05Z",
+        "137": "2026-11-03T15:59:45Z",
+        "138": "2026-11-03T16:00:10Z",
+        "139": "2026-11-03T16:00:34Z",
+        "140": "2026-11-03T16:00:57Z"
+      },
+      "total_tool_calls": 38,
+      "tool_call_waste_pct": 0.0,
+      "violations": [],
+      "contaminated_leaves": []
+    }
+  },
+  "argon_review_queue": {
+    "queue_path": "Liturgical Monuments\\Monument 22.06 - 1761 Pochayiv Menaion February\\Audit_Reports\\argon_review_queue.json",
+    "cohort_queued_leaves": [],
+    "cohort_info_telemetry_leaves": [],
+    "total_queued_leaves": 0,
+    "info_telemetry_leaves": 3,
+    "unresolved_quarantines": 0
+  }
+}

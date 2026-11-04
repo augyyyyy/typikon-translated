@@ -1,0 +1,7 @@
+[^519]: The Church Slavonic *лво́вꙋ* refers to the iconoclast Emperor Leo (Leo III the Isaurian or Leo V the Armenian), whose persecutions Saint Basil the Confessor and Saint Prokopios manfully opposed.
+[^520]: The physical Pochaiv 1761 text reads *И҆́гла оу҆́бѡ сꙋ́щихъ на землѝ* ("A needle indeed of those upon earth..."), likely a typographer's corruption or misreading of an earlier Slavonic witness (perhaps *И҆́го оу҆́бѡ*, "the yoke indeed", or reflecting Greek *ἄγλη* / *ἴλη*). Translated strictly as inked per MTS-1.
+[^521]: Church Slavonic *ві́сиктъ* (from Greek *δίσεκτος* / Latin *bisextus*), denoting a leap year (bissextile year) containing 29 days in February.
+[^522]: The physical Pochaiv 1761 print reads *Препобе́нъ бы́въ* (a typographer's error with *б* for *д*, i.e. *Преподо́бенъ бы́въ*, "Being made venerable"). Translated according to the evident emendation and documented per MTS-1.
+[^523]: Church Slavonic *Оу҆хи́тилсѧ є҆сѝ* (from *ухитити* / *восхитити*, to snatch up or catch up, translating Greek *ἡρπάγης*).
+[^524]: The physical leaf bears the printed signature *ркв* (fol. 222r), repeating the foliation numeral of leaf p245; it is sequentially folio 223r.
+[^525]: Physical leaf p249 bears the printed folio numeral *д* with titlo (fol. 224r), continuing the single-digit or abbreviated foliation of the quire.
